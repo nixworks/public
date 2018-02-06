@@ -24,9 +24,9 @@ Thousands of demonstrators stage an unprecedented protest in the Tunisian capita
 
 ### Changes:
 
-1. [2010-2011 Tunisian protests: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2017-05-25 03:33:03 (First version)_
-2. [2010-2011 Tunisian protests:Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _2017-08-25 03:31:47 (Update)_
-3. [2010-2011 Tunisian protests:: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010-2011-tunisian-protests-thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2017-08-27 03:31:54 (Update)_
+1. [2010-2011 Tunisian protests:Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _2018-02-06 13:49:21 (First version)_
+2. [2010-2011 Tunisian protests: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2018-02-06 13:49:21 (Update)_
+3. [2010-2011 Tunisian protests:: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010-2011-tunisian-protests-thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2018-02-06 13:49:21 (Update)_
 3. [Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _(Current version)_
 
 ### Related:

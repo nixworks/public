@@ -16,7 +16,7 @@ Updated 1.15pm with Muscat comments The Labour Party has comfortably won the gen
 
 ### Changes:
 
-1. [Maltese general election, 2017: Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. ](/news/2017/06/4/maltese-general-election-2017-simon-busuttil-of-forza-nazzjonali-concedes-defeat-to-the-incumbent-joseph-muscat-and-his-labour-party-who.md) _2017-08-27 03:48:25 (First version)_
+1. [Maltese general election, 2017: Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. ](/news/2017/06/4/maltese-general-election-2017-simon-busuttil-of-forza-nazzjonali-concedes-defeat-to-the-incumbent-joseph-muscat-and-his-labour-party-who.md) _2018-02-06 13:49:30 (First version)_
 1. [Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. ](/news/2017/06/4/simon-busuttil-of-forza-nazzjonali-concedes-defeat-to-the-incumbent-joseph-muscat-and-his-labour-party-who-are-projected-to-win-54-9-of-th.md) _(Current version)_
 
 ### Related:

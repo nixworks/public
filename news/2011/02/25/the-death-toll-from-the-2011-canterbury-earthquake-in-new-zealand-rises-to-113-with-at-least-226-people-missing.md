@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/02/25/the-death-toll-from-the-2011-canterbury-earthqu
 
 ### Changes:
 
-1. [2011 Canterbury earthquake: The death toll from the 2011 Canterbury earthquake in New Zealand rises to 113 with at least 226 people missing. ](/news/2011/02/25/2011-canterbury-earthquake-the-death-toll-from-the-2011-canterbury-earthquake-in-new-zealand-rises-to-113-with-at-least-226-people-missing.md) _2017-08-27 03:32:29 (First version)_
+1. [2011 Canterbury earthquake: The death toll from the 2011 Canterbury earthquake in New Zealand rises to 113 with at least 226 people missing. ](/news/2011/02/25/2011-canterbury-earthquake-the-death-toll-from-the-2011-canterbury-earthquake-in-new-zealand-rises-to-113-with-at-least-226-people-missing.md) _2018-02-06 13:49:22 (First version)_
 1. [The death toll from the 2011 Canterbury earthquake in New Zealand rises to 113 with at least 226 people missing. ](/news/2011/02/25/the-death-toll-from-the-2011-canterbury-earthquake-in-new-zealand-rises-to-113-with-at-least-226-people-missing.md) _(Current version)_
 
 ### Related:

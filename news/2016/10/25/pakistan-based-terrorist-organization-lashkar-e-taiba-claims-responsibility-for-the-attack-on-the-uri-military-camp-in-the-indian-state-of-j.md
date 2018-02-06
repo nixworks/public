@@ -16,7 +16,7 @@ Funeral prayers in absentia for one of the Uri attackers, organized by LeT&rsquo
 
 ### Changes:
 
-1. [2016 Uri attack: Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/2016-uri-attack-pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the.md) _2017-08-27 03:47:07 (First version)_
+1. [2016 Uri attack: Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/2016-uri-attack-pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.md) _(Current version)_
 
 ### Related:

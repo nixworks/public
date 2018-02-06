@@ -18,7 +18,7 @@ South Dakota Governor Dennis Daugaard vetoed legislation that would have restric
 
 ### Changes:
 
-1. [In the United States, South Dakota Governor Dennis Daugaard vetoes House Bill 1008 that would have required transgender students to use bathrooms, locker rooms, and other facilities based on their gender at birth in state public schools. The bill would have been law at midnight if the governor had not acted. ](/news/2016/03/1/in-the-united-states-south-dakota-governor-dennis-daugaard-vetoes-house-bill-1008-that-would-have-required-transgender-students-to-use-bat.md) _2017-08-25 03:44:43 (First version)_
+1. [In the United States, South Dakota Governor Dennis Daugaard vetoes House Bill 1008 that would have required transgender students to use bathrooms, locker rooms, and other facilities based on their gender at birth in state public schools. The bill would have been law at midnight if the governor had not acted. ](/news/2016/03/1/in-the-united-states-south-dakota-governor-dennis-daugaard-vetoes-house-bill-1008-that-would-have-required-transgender-students-to-use-bat.md) _2018-02-06 13:49:28 (First version)_
 1. [In the United States, South Dakota Governor Dennis Daugaard vetoes House Bill 1008 that would have required transgender students to use bathrooms, locker rooms, and other facilities based on their gender at birth in state public schools. The bill would have been law at midnight if the governor had not acted. ](/news/2016/03/1/in-the-united-states-south-dakota-governor-dennis-daugaard-vetoes-house-bill-1008-that-would-have-required-transgender-students-to-use-bath.md) _(Current version)_
 
 ### Related:

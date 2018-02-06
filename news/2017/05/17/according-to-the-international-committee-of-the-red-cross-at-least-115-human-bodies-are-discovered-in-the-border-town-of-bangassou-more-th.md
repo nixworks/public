@@ -15,7 +15,7 @@ Scores of bodies discovered in border town where 26 people were previously repor
 
 ### Changes:
 
-1. [Central African Republic Civil War: According to the International Committee of the Red Cross, at least 115 human bodies are discovered in the border town of Bangassou, more than previously thought. A few days prior, militias attacked the town, with the United Nations reporting that at least 26 people were killed. ](/news/2017/05/17/central-african-republic-civil-war-according-to-the-international-committee-of-the-red-cross-at-least-115-human-bodies-are-discovered-in-t.md) _2017-08-27 03:48:21 (First version)_
+1. [Central African Republic Civil War: According to the International Committee of the Red Cross, at least 115 human bodies are discovered in the border town of Bangassou, more than previously thought. A few days prior, militias attacked the town, with the United Nations reporting that at least 26 people were killed. ](/news/2017/05/17/central-african-republic-civil-war-according-to-the-international-committee-of-the-red-cross-at-least-115-human-bodies-are-discovered-in-t.md) _2018-02-06 13:49:30 (First version)_
 1. [According to the International Committee of the Red Cross, at least 115 human bodies are discovered in the border town of Bangassou, more than previously thought. A few days prior, militias attacked the town, with the United Nations reporting that at least 26 people were killed. ](/news/2017/05/17/according-to-the-international-committee-of-the-red-cross-at-least-115-human-bodies-are-discovered-in-the-border-town-of-bangassou-more-th.md) _(Current version)_
 
 ### Related:

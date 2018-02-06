@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/22/south-korean-media-claims-that-north-korea-fire
 
 ### Changes:
 
-1. [Korean maritime border incidents:South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/korean-maritime-border-incidents-psouth-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy-s.md) _2017-08-25 03:40:26 (First version)_
-2. [Korean maritime border incidents:: South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/korean-maritime-border-incidents-south-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy.md) _2017-08-27 03:40:44 (Update)_
+1. [Korean maritime border incidents:: South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/korean-maritime-border-incidents-south-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy.md) _2018-02-06 13:49:26 (First version)_
+2. [Korean maritime border incidents:South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/korean-maritime-border-incidents-psouth-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy-s.md) _2018-02-06 13:49:26 (Update)_
 2. [South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/south-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy-ship.md) _(Current version)_
 
 ### Related:

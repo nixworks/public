@@ -23,8 +23,8 @@ Bahrain protesters claim several among their ranks were killed during a violent 
 
 ### Changes:
 
-1. [2011 Bahraini protests:Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-pbahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bato.md) _2017-08-25 03:32:14 (First version)_
-2. [2011 Bahraini protests:: Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bat.md) _2017-08-27 03:32:22 (Update)_
+1. [2011 Bahraini protests:Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-pbahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bato.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Bahraini protests:: Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bat.md) _2018-02-06 13:49:21 (Update)_
 2. [Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-batons-to-disperse-the-crowd.md) _(Current version)_
 
 ### Related:

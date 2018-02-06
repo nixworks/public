@@ -17,9 +17,9 @@ Rawa is the last town remaining under IS control in Iraq after the fall of al-Qa
 
 ### Changes:
 
-1. [The Iraqi Armed Forces launched offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launched-offensive-to-recapture-the-last-isis-stronghold-rawa.md) _2017-11-12 15:30:05 (First version)_
-2. [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-rawa.md) _2017-11-12 22:30:06 (Update)_
-3. [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-in-iraq-rawa.md) _2017-11-13 00:30:04 (Update)_
+1. [The Iraqi Armed Forces launched offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launched-offensive-to-recapture-the-last-isis-stronghold-rawa.md) _2018-02-06 13:49:31 (First version)_
+2. [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-rawa.md) _2018-02-06 13:49:31 (Update)_
+3. [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-in-iraq-rawa.md) _2018-02-06 13:49:31 (Update)_
 3. [The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.md) _(Current version)_
 
 ### Related:

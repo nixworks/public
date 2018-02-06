@@ -17,7 +17,7 @@ Raids target Houthi strongholds across country while ground fighting reported in
 
 ### Changes:
 
-1. [2015 military intervention in Yemen: Saudi airstrikes continue in Yemen for the third successive day while ground fighting occurs in Aden. Saudi Arabia claims to be in full control of Yemen's airspace. ](/news/2015/03/28/2015-military-intervention-in-yemen-saudi-airstrikes-continue-in-yemen-for-the-third-successive-day-while-ground-fighting-occurs-in-aden-s.md) _2017-08-27 03:42:08 (First version)_
+1. [2015 military intervention in Yemen: Saudi airstrikes continue in Yemen for the third successive day while ground fighting occurs in Aden. Saudi Arabia claims to be in full control of Yemen's airspace. ](/news/2015/03/28/2015-military-intervention-in-yemen-saudi-airstrikes-continue-in-yemen-for-the-third-successive-day-while-ground-fighting-occurs-in-aden-s.md) _2018-02-06 13:49:26 (First version)_
 1. [Saudi airstrikes continue in Yemen for the third successive day while ground fighting occurs in Aden. Saudi Arabia claims to be in full control of Yemen's airspace. ](/news/2015/03/28/saudi-airstrikes-continue-in-yemen-for-the-third-successive-day-while-ground-fighting-occurs-in-aden-saudi-arabia-claims-to-be-in-full-cont.md) _(Current version)_
 
 ### Related:

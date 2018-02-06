@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-i
 
 ### Changes:
 
-1. [Kashmir conflict:A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/kashmir-conflict-pa-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldie.md) _2017-08-25 03:37:12 (First version)_
-2. [Kashmir conflict:: A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/kashmir-conflict-a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldi.md) _2017-08-27 03:37:23 (Update)_
+1. [Kashmir conflict:A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/kashmir-conflict-pa-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldie.md) _2018-02-06 13:49:24 (First version)_
+2. [Kashmir conflict:: A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/kashmir-conflict-a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldi.md) _2018-02-06 13:49:24 (Update)_
 2. [A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldier-and-another-crit.md) _(Current version)_
 
 ### Related:

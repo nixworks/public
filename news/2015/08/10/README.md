@@ -21,7 +21,7 @@ _Context: Iraq, Islamic State in Iraq and the Levant, Baquba_
 
 ##### Alphabet Inc.
 ### [Google creates a new holding company called Alphabet Inc. containing Google Inc. and Calico containing Google Ventures, Google Capital, Google X, and other subsidiaries. ](/news/2015/08/10/google-creates-a-new-holding-company-called-alphabet-inc-containing-google-inc-and-calico-containing-google-ventures-google-capital-goog.md)
-_Context: Google, Calico, Google Capital, Alphabet Inc., Google Ventures, Google_
+_Context: Calico, Google, Google, Google Ventures, Alphabet Inc., Google Capital_
 
 ##### floods in Myanmar
 ### [The death toll from floods in Myanmar tops 100 with more than a million people affected. ](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.md)
@@ -29,7 +29,7 @@ _Context: floods in Myanmar_
 
 ##### Tony Smith
 ### [Voters elect Tony Smith as Speaker of the Australian House of Representatives replacing Bronwyn Bishop who resigned as a result of an expenses scandal. ](/news/2015/08/10/voters-elect-tony-smith-as-speaker-of-the-australian-house-of-representatives-replacing-bronwyn-bishop-who-resigned-as-a-result-of-an-expens.md)
-_Context: Bronwyn Bishop, Tony Smith, Speaker of the Australian House of Representatives_
+_Context: Tony Smith, Speaker of the Australian House of Representatives, Bronwyn Bishop_
 
 ##### night parrot
 ### [A night parrot is captured for the first time in over a hundred years in Australia's outback. ](/news/2015/08/10/a-night-parrot-is-captured-for-the-first-time-in-over-a-hundred-years-in-australia-s-outback.md)

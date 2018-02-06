@@ -16,7 +16,7 @@ The ruling party in Georgia decisively won parliamentary elections, firming its 
 
 ### Changes:
 
-1. [Georgian parliamentary election, 2016: Voters in Georgia go to the polls for a legislative election. ](/news/2016/10/8/georgian-parliamentary-election-2016-voters-in-georgia-go-to-the-polls-for-a-legislative-election.md) _2017-08-27 03:46:59 (First version)_
+1. [Georgian parliamentary election, 2016: Voters in Georgia go to the polls for a legislative election. ](/news/2016/10/8/georgian-parliamentary-election-2016-voters-in-georgia-go-to-the-polls-for-a-legislative-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Georgia go to the polls for a legislative election. ](/news/2016/10/8/voters-in-georgia-go-to-the-polls-for-a-legislative-election.md) _(Current version)_
 
 ### Related:

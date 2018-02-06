@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/28/tampa-florida-police-arrest-howell-emanuel-dona
 
 ### Changes:
 
-1. [Tampa, Florida police arrest Howell Emanuel Donaldson III and charge him with four counts of murder. "[https:--www.cbsnews.com-news-howell-emanuel-donaldson-iii-arrested-suspected-tampa-serial-killer- (CBS News)]"](/news/2017/11/28/tampa-florida-police-arrest-howell-emanuel-donaldson-iii-and-charge-him-with-four-counts-of-murder-https-www-cbsnews-com-news-howell-e.md) _2017-12-12 19:30:05 (First version)_
+1. [Tampa, Florida police arrest Howell Emanuel Donaldson III and charge him with four counts of murder. "[https:--www.cbsnews.com-news-howell-emanuel-donaldson-iii-arrested-suspected-tampa-serial-killer- (CBS News)]"](/news/2017/11/28/tampa-florida-police-arrest-howell-emanuel-donaldson-iii-and-charge-him-with-four-counts-of-murder-https-www-cbsnews-com-news-howell-e.md) _2018-02-06 13:49:31 (First version)_
 1. [Tampa, Florida police arrest Howell Emanuel Donaldson III and charge him with four counts of murder. ](/news/2017/11/28/tampa-florida-police-arrest-howell-emanuel-donaldson-iii-and-charge-him-with-four-counts-of-murder.md) _(Current version)_
 
 ### Related:

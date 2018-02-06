@@ -17,7 +17,7 @@ Two senior ministers have made themselves available to mediate in the industrial
 
 ### Changes:
 
-1. [The industrial dispute surrounding ''The Hobbit'' film project is mediated by New Zealand's Economic Development Minister Gerry Brownlee and Arts and Culture Minister Chris Finlayson. ](/news/2010/10/4/the-industrial-dispute-surrounding-the-hobbit-film-project-is-mediated-by-new-zealand-s-economic-development-minister-gerry-brownlee-and.md) _2017-08-25 03:30:20 (First version)_
+1. [The industrial dispute surrounding ''The Hobbit'' film project is mediated by New Zealand's Economic Development Minister Gerry Brownlee and Arts and Culture Minister Chris Finlayson. ](/news/2010/10/4/the-industrial-dispute-surrounding-the-hobbit-film-project-is-mediated-by-new-zealand-s-economic-development-minister-gerry-brownlee-and.md) _2018-02-06 13:49:20 (First version)_
 1. [The industrial dispute surrounding "The Hobbit" film project is mediated by New Zealand's Economic Development Minister Gerry Brownlee and Arts and Culture Minister Chris Finlayson. ](/news/2010/10/4/the-industrial-dispute-surrounding-the-hobbit-film-project-is-mediated-by-new-zealand-s-economic-development-minister-gerry-brownlee-and-a.md) _(Current version)_
 
 ### Related:

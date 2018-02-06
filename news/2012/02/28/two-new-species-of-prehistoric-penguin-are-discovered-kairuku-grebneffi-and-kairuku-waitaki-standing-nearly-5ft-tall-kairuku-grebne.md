@@ -16,7 +16,7 @@ The hefty penguin lived about 27 million years ago and weighed up to 130 pounds.
 
 ### Changes:
 
-1. [Two new species of prehistoric penguin are discovered - ''Kairuku grebneffi'' and ''Kairuku waitaki''. Standing nearly 5ft tall, ''Kairuku grebneffi'' is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku.md) _2017-08-25 03:35:10 (First version)_
+1. [Two new species of prehistoric penguin are discovered - ''Kairuku grebneffi'' and ''Kairuku waitaki''. Standing nearly 5ft tall, ''Kairuku grebneffi'' is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku.md) _2018-02-06 13:49:23 (First version)_
 1. [Two new species of prehistoric penguin are discovered - "Kairuku grebneffi" and "Kairuku waitaki". Standing nearly 5ft tall, "Kairuku grebneffi" is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku-grebne.md) _(Current version)_
 
 ### Related:

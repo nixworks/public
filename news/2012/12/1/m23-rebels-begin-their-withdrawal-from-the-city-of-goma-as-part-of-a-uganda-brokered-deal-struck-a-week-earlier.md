@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/1/m23-rebels-begin-their-withdrawal-from-the-city-
 
 ### Changes:
 
-1. [2012 East D.R. Congo conflict:M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/2012-east-d-r-congo-conflict-pm23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earli.md) _2017-08-25 03:36:55 (First version)_
-2. [2012 East D.R. Congo conflict:: M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/2012-east-d-r-congo-conflict-m23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earl.md) _2017-08-27 03:37:05 (Update)_
+1. [2012 East D.R. Congo conflict:M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/2012-east-d-r-congo-conflict-pm23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earli.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 East D.R. Congo conflict:: M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/2012-east-d-r-congo-conflict-m23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earl.md) _2018-02-06 13:49:24 (Update)_
 2. [M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/m23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earlier.md) _(Current version)_
 
 ### Related:

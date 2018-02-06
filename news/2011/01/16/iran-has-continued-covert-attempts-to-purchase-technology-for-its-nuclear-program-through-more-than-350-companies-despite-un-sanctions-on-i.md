@@ -17,7 +17,7 @@ Iran has been developing contacts in more than 30 countries to acquire technolog
 
 ### Changes:
 
-1. [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper ''Aftenposten'' reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on.md) _2017-08-25 03:31:48 (First version)_
+1. [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper ''Aftenposten'' reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on.md) _2018-02-06 13:49:21 (First version)_
 1. [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper "Aftenposten" reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on-i.md) _(Current version)_
 
 ### Related:

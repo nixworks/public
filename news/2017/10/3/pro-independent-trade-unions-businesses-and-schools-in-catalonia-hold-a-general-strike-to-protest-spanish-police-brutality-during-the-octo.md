@@ -15,7 +15,7 @@ A general strike in Catalonia on Tuesday will likely bring much of the wealthy S
 
 ### Changes:
 
-1. [Pro-separatist trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-separatist-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octob.md) _2017-10-03 14:30:05 (First version)_
+1. [Pro-separatist trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-separatist-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octob.md) _2018-02-06 13:49:31 (First version)_
 1. [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md) _(Current version)_
 
 ### Related:

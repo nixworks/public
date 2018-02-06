@@ -19,8 +19,8 @@ In Wyoming, Romney won seven delegates. Santorum gained three and Paul one.
 
 ### Changes:
 
-1. [U.S. Republican presidential caucuses:Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/u-s-republican-presidential-caucuses-pmitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md) _2017-08-25 03:35:15 (First version)_
-2. [U.S. Republican presidential caucuses:: Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/u-s-republican-presidential-caucuses-mitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md) _2017-08-27 03:35:24 (Update)_
+1. [U.S. Republican presidential caucuses:Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/u-s-republican-presidential-caucuses-pmitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md) _2018-02-06 13:49:23 (First version)_
+2. [U.S. Republican presidential caucuses:: Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/u-s-republican-presidential-caucuses-mitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md) _2018-02-06 13:49:23 (Update)_
 2. [Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/mitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least 10 people had died and two children were missing late Sunday as a resul
 
 ### Changes:
 
-1. [Tornado outbreak and floods of April 28-30, 2017: The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/tornado-outbreak-and-floods-of-april-28-30-2017-the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-r.md) _2017-08-27 03:48:16 (First version)_
+1. [Tornado outbreak and floods of April 28-30, 2017: The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/tornado-outbreak-and-floods-of-april-28-30-2017-the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-r.md) _2018-02-06 13:49:30 (First version)_
 1. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _(Current version)_
 
 ### Related:

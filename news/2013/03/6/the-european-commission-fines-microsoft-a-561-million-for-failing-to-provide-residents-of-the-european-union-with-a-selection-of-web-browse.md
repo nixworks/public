@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-mi
 
 ### Changes:
 
-1. [The European Commission fines Microsoft -561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md) _2017-08-27 03:37:55 (First version)_
+1. [The European Commission fines Microsoft -561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md) _2018-02-06 13:49:24 (First version)_
 1. [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md) _(Current version)_
 
 ### Related:

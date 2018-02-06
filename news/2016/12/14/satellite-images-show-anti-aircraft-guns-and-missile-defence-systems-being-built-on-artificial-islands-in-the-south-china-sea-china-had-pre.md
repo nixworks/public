@@ -16,7 +16,7 @@ New satellite photos seem to show &quot;significant&quot; Chinese military defen
 
 ### Changes:
 
-1. [Spratly Islands dispute: Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the South China Sea; China had previously committed to not militarising its controversial developments in the region. ](/news/2016/12/14/spratly-islands-dispute-satellite-images-show-anti-aircraft-guns-and-missile-defence-systems-being-built-on-artificial-islands-in-the-south.md) _2017-08-27 03:47:27 (First version)_
+1. [Spratly Islands dispute: Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the South China Sea; China had previously committed to not militarising its controversial developments in the region. ](/news/2016/12/14/spratly-islands-dispute-satellite-images-show-anti-aircraft-guns-and-missile-defence-systems-being-built-on-artificial-islands-in-the-south.md) _2018-02-06 13:49:29 (First version)_
 1. [Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the South China Sea; China had previously committed to not militarising its controversial developments in the region. ](/news/2016/12/14/satellite-images-show-anti-aircraft-guns-and-missile-defence-systems-being-built-on-artificial-islands-in-the-south-china-sea-china-had-pre.md) _(Current version)_
 
 ### Related:

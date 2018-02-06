@@ -17,8 +17,8 @@ Ethiopian and Somali troops capture Baidoa, a strategic stronghold of al-Shabab 
 
 ### Changes:
 
-1. [Somalian Civil War:Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/somalian-civil-war-poperation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md) _2017-08-25 03:35:07 (First version)_
-2. [Somalian Civil War:: Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/somalian-civil-war-operation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md) _2017-08-27 03:35:16 (Update)_
+1. [Somalian Civil War:Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/somalian-civil-war-poperation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md) _2018-02-06 13:49:23 (First version)_
+2. [Somalian Civil War:: Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/somalian-civil-war-operation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md) _2018-02-06 13:49:23 (Update)_
 2. [Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/operation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/7/index.html)  [JSON](2012/08/7/index.json)  [XML](2012/
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The United States freezes the assets of three Belize-based associates of Mexico's top drug lord, Joaquin "El Chapo" Guzman. ](/news/2012/08/7/mexican-drug-war-the-united-states-freezes-the-assets-of-three-belize-based-associates-of-mexico-s-top-drug-lord-joaquan-el-chapo-guzma.md)
-_Context: Mexican Drug War, Joaquin Guzman Loera, Belize_
+_Context: Belize, Mexican Drug War, Joaquin Guzman Loera_
 
 ##### Syrian civil war
 ### [Syrian civil war: Saeed Jalili, a senior Iranian official, reaffirms the Iranian government's support for the Syrian government throughout the crisis. ](/news/2012/08/7/syrian-civil-war-saeed-jalili-a-senior-iranian-official-reaffirms-the-iranian-government-s-support-for-the-syrian-government-throughout-t.md)
@@ -21,7 +21,7 @@ Two gunmen sprayed the windowless sanctuary Monday night with fire from Kalashni
 
 ##### Tuareg rebellion (2012)
 ### [Tuareg rebellion (2012): Burkina Faso's foreign minister Djibrill Bassole visits fighters linked to Al-Qaeda in northern Mali in an attempt to solve an ongoing crisis. ](/news/2012/08/7/tuareg-rebellion-2012-burkina-faso-s-foreign-minister-djibrill-bassole-visits-fighters-linked-to-al-qaeda-in-northern-mali-in-an-attempt.md)
-_Context: Burkina Faso, Mali, Tuareg rebellion (2012), al-Qaeda, Djibrill Bassole_
+_Context: Mali, al-Qaeda, Burkina Faso, Djibrill Bassole, Tuareg rebellion (2012)_
 
 ##### Philippines
 ### [Flooding in the Philippines capital Manila forces at least 20,000 people to flee their homes with the death toll after eight days of heavy rain throughout the country reaching 53. ](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.md)
@@ -29,7 +29,7 @@ _Context: Manila, Philippines_
 
 ##### China
 ### [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md)
-_Context: China, Zhejiang, Typhoon, Shanghai_
+_Context: Zhejiang, China, Shanghai, Typhoon_
 
 ##### Malaysia
 ### [Police in Malaysia detain eight people after a toddler reportedly dies during a 20 hour exorcism ritual. ](/news/2012/08/7/police-in-malaysia-detain-eight-people-after-a-toddler-reportedly-dies-during-a-20-hour-exorcism-ritual.md)
@@ -41,7 +41,7 @@ The stepfather of missing schoolgirl Tia Sharp says the family is &quot;in bits&
 
 ##### Tibet
 ### [A Tibetan man sets himself on fire in Sichuan, in the latest in a series of protests against Chinese rule. ](/news/2012/08/7/a-tibetan-man-sets-himself-on-fire-in-sichuan-in-the-latest-in-a-series-of-protests-against-chinese-rule.md)
-_Context: Sichuan, China, Tibet_
+_Context: China, Tibet, Sichuan_
 
 ## [Previous Day...](/news/2012/08/6/index.md)
 

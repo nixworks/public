@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/9/boko-haram-launch-a-raid-on-a-prison-in-the-town
 
 ### Changes:
 
-1. [Boko Haram: Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md) _2017-08-27 03:41:54 (First version)_
+1. [Boko Haram: Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md) _(Current version)_
 
 ### Related:

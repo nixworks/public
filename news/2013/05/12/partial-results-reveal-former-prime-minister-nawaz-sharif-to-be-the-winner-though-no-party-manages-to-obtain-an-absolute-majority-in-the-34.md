@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/05/12/partial-results-reveal-former-prime-minister-na
 
 ### Changes:
 
-1. [2013 Pakistani general election:Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-ppartial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obta.md) _2017-08-25 03:38:38 (First version)_
-2. [2013 Pakistani general election:: Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obt.md) _2017-08-27 03:38:50 (Update)_
+1. [2013 Pakistani general election:Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-ppartial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obta.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Pakistani general election:: Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obt.md) _2018-02-06 13:49:24 (Update)_
 2. [Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obtain-an-absolute-majority-in-the-34.md) _(Current version)_
 
 ### Related:

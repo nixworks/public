@@ -16,8 +16,8 @@ Two suicide car bombs claimed by Islamic State killed at least 32 people and wou
 
 ### Changes:
 
-1. [ Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/05/1/two-car-bombs-kill-at-least-32-people-and-wounded-75-others-in-samawa-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility-fo.md) _2017-08-25 03:45:33 (First version)_
-2. [ Iraqi Civil War: Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/05/1/iraqi-civil-war-two-car-bombs-kill-at-least-32-people-and-wounded-75-others-in-samawa-iraq-islamic-state-of-iraq-and-the-levant-claims-r.md) _2017-08-27 03:45:56 (Update)_
+1. [ Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/05/1/two-car-bombs-kill-at-least-32-people-and-wounded-75-others-in-samawa-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility-fo.md) _2018-02-06 13:49:29 (First version)_
+2. [ Iraqi Civil War: Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/05/1/iraqi-civil-war-two-car-bombs-kill-at-least-32-people-and-wounded-75-others-in-samawa-iraq-islamic-state-of-iraq-and-the-levant-claims-r.md) _2018-02-06 13:49:29 (Update)_
 2. [ Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/05/1/two-car-bombs-kill-at-least-32-people-and-wounded-75-others-in-samawa-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility-for.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/04/29/hamas-prime-minister-ismail-haniyeh-calls-on-th
 
 ### Changes:
 
-1. [Hamas Prime Minister Ismail Haniyeh calls on the PLO to withdraw its recognition of Israel-s right to exist in response to Israel-s opposition to the reconciliation deal between his movement and Fatah. ](/news/2011/04/29/hamas-prime-minister-ismail-haniyeh-calls-on-the-plo-to-withdraw-its-recognition-of-israel-s-right-to-exist-in-response-to-israel-s-oppo.md) _2017-08-27 03:33:04 (First version)_
+1. [Hamas Prime Minister Ismail Haniyeh calls on the PLO to withdraw its recognition of Israel-s right to exist in response to Israel-s opposition to the reconciliation deal between his movement and Fatah. ](/news/2011/04/29/hamas-prime-minister-ismail-haniyeh-calls-on-the-plo-to-withdraw-its-recognition-of-israel-s-right-to-exist-in-response-to-israel-s-oppo.md) _2018-02-06 13:49:22 (First version)_
 1. [Hamas Prime Minister Ismail Haniyeh calls on the PLO to withdraw its recognition of Israel's right to exist in response to Israel's opposition to the reconciliation deal between his movement and Fatah. ](/news/2011/04/29/hamas-prime-minister-ismail-haniyeh-calls-on-the-plo-to-withdraw-its-recognition-of-israelas-right-to-exist-in-response-to-israelas-oppo.md) _(Current version)_
 
 ### Related:

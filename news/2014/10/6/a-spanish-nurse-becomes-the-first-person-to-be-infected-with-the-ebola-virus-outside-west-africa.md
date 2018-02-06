@@ -16,7 +16,7 @@ The nurse was the first health worker to be infected with the virus outside West
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: A Spanish nurse becomes the first person to be infected with the Ebola virus outside West Africa. ](/news/2014/10/6/ebola-virus-epidemic-in-west-africa-a-spanish-nurse-becomes-the-first-person-to-be-infected-with-the-ebola-virus-outside-west-africa.md) _2017-08-27 03:41:22 (First version)_
+1. [Ebola virus epidemic in West Africa: A Spanish nurse becomes the first person to be infected with the Ebola virus outside West Africa. ](/news/2014/10/6/ebola-virus-epidemic-in-west-africa-a-spanish-nurse-becomes-the-first-person-to-be-infected-with-the-ebola-virus-outside-west-africa.md) _2018-02-06 13:49:26 (First version)_
 1. [A Spanish nurse becomes the first person to be infected with the Ebola virus outside West Africa. ](/news/2014/10/6/a-spanish-nurse-becomes-the-first-person-to-be-infected-with-the-ebola-virus-outside-west-africa.md) _(Current version)_
 
 ### Related:

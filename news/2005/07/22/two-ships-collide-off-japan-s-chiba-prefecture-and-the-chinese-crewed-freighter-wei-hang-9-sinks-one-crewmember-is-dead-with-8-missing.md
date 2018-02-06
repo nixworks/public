@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/07/22/two-ships-collide-off-japan-s-chiba-prefecture-
 
 ### Changes:
 
-1. [ Two ships collide off Japan's Chiba prefecture and the Chinese-crewed freighter ''Wei Hang 9'' sinks. One crewmember is dead, with 8 missing. ](/news/2005/07/22/two-ships-collide-off-japan-s-chiba-prefecture-and-the-chinese-crewed-freighter-wei-hang-9-sinks-one-crewmember-is-dead-with-8-missin.md) _2017-08-25 03:16:34 (First version)_
+1. [ Two ships collide off Japan's Chiba prefecture and the Chinese-crewed freighter ''Wei Hang 9'' sinks. One crewmember is dead, with 8 missing. ](/news/2005/07/22/two-ships-collide-off-japan-s-chiba-prefecture-and-the-chinese-crewed-freighter-wei-hang-9-sinks-one-crewmember-is-dead-with-8-missin.md) _2018-02-06 13:49:16 (First version)_
 1. [ Two ships collide off Japan's Chiba prefecture and the Chinese-crewed freighter "Wei Hang 9" sinks. One crewmember is dead, with 8 missing. ](/news/2005/07/22/two-ships-collide-off-japan-s-chiba-prefecture-and-the-chinese-crewed-freighter-wei-hang-9-sinks-one-crewmember-is-dead-with-8-missing.md) _(Current version)_
 
 ### Related:

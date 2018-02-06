@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apc
 
 ### Changes:
 
-1. [Soldiers directing traffic and at least 6 APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party accused the general of treason.](/news/2017/11/14/soldiers-directing-traffic-and-at-least-6-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-attem.md) _2017-11-15 00:30:05 (First version)_
+1. [Soldiers directing traffic and at least 6 APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party accused the general of treason.](/news/2017/11/14/soldiers-directing-traffic-and-at-least-6-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-attem.md) _2018-02-06 13:49:31 (First version)_
 1. [Soldiers directing traffic and at least six APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party has accused the general of treason. ](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-att.md) _(Current version)_
 
 ### Related:

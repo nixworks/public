@@ -18,8 +18,8 @@ Gains come as NATO bombs Tripoli, with strikes hitting eastern neighbourhoods of
 
 ### Changes:
 
-1. [2011 Libyan civil war:Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/2011-libyan-civil-war-prebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md) _2017-08-25 03:33:29 (First version)_
-2. [2011 Libyan civil war:: Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/2011-libyan-civil-war-rebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md) _2017-08-27 03:33:37 (Update)_
+1. [2011 Libyan civil war:: Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/2011-libyan-civil-war-rebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/2011-libyan-civil-war-prebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md) _2018-02-06 13:49:22 (Update)_
 2. [Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/rebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md) _(Current version)_
 
 ### Related:

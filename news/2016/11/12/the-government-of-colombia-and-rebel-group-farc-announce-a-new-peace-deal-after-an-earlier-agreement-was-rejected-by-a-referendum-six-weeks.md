@@ -17,7 +17,7 @@ Colombia and Farc rebels reach a revised peace deal, six weeks after voters reje
 
 ### Changes:
 
-1. [Colombia ceasefire: The Government of Colombia and rebel group FARC announce a new peace deal after an earlier agreement was rejected by a referendum six weeks ago. ](/news/2016/11/12/colombia-ceasefire-the-government-of-colombia-and-rebel-group-farc-announce-a-new-peace-deal-after-an-earlier-agreement-was-rejected-by-a-r.md) _2017-08-27 03:47:13 (First version)_
+1. [Colombia ceasefire: The Government of Colombia and rebel group FARC announce a new peace deal after an earlier agreement was rejected by a referendum six weeks ago. ](/news/2016/11/12/colombia-ceasefire-the-government-of-colombia-and-rebel-group-farc-announce-a-new-peace-deal-after-an-earlier-agreement-was-rejected-by-a-r.md) _2018-02-06 13:49:29 (First version)_
 1. [The Government of Colombia and rebel group FARC announce a new peace deal after an earlier agreement was rejected by a referendum six weeks ago. ](/news/2016/11/12/the-government-of-colombia-and-rebel-group-farc-announce-a-new-peace-deal-after-an-earlier-agreement-was-rejected-by-a-referendum-six-weeks.md) _(Current version)_
 
 ### Related:

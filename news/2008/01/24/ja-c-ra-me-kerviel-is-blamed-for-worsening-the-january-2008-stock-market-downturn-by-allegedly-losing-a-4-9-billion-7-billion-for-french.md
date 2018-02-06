@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-
 
 ### Changes:
 
-1. [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing -4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-4-9-billion-7-billion-for-french.md) _2017-08-27 03:21:36 (First version)_
+1. [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing -4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-4-9-billion-7-billion-for-french.md) _2018-02-06 13:49:18 (First version)_
 1. [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing EUR4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-a-4-9-billion-7-billion-for-french.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Powerful Typhoon Koppu hit the northern Philippines early Sunday, the country&#x
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Koppu (Lando) makes landfall in northern Luzon in the Philippines with forecasters warning it could stay in the area for several days. Thousands of people have been evacuated or are stranded. ](/news/2015/10/18/2015-pacific-typhoon-season-typhoon-koppu-lando-makes-landfall-in-northern-luzon-in-the-philippines-with-forecasters-warning-it-could-sta.md) _2017-08-27 03:43:23 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Koppu (Lando) makes landfall in northern Luzon in the Philippines with forecasters warning it could stay in the area for several days. Thousands of people have been evacuated or are stranded. ](/news/2015/10/18/2015-pacific-typhoon-season-typhoon-koppu-lando-makes-landfall-in-northern-luzon-in-the-philippines-with-forecasters-warning-it-could-sta.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Koppu (Lando) makes landfall in northern Luzon in the Philippines with forecasters warning it could stay in the area for several days. Thousands of people have been evacuated or are stranded. ](/news/2015/10/18/typhoon-koppu-lando-makes-landfall-in-northern-luzon-in-the-philippines-with-forecasters-warning-it-could-stay-in-the-area-for-several-day.md) _(Current version)_
 
 ### Related:

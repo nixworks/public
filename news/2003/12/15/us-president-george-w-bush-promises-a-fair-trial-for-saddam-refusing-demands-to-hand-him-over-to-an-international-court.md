@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/12/15/us-president-george-w-bush-promises-a-fair-tria
 
 ### Changes:
 
-1. [ Capture of Saddam Hussein: US President George W. Bush promises a "fair trial" for Saddam, refusing demands to hand him over to an international court. ](/news/2003/12/15/capture-of-saddam-hussein-p-us-president-george-w-bush-promises-a-fair-trial-for-saddam-refusing-demands-to-hand-him-over-to-an-interna.md) _2017-08-25 03:15:24 (First version)_
-2. [ Capture of Saddam Hussein:: US President George W. Bush promises a "fair trial" for Saddam, refusing demands to hand him over to an international court. ](/news/2003/12/15/capture-of-saddam-hussein-us-president-george-w-bush-promises-a-fair-trial-for-saddam-refusing-demands-to-hand-him-over-to-an-interna.md) _2017-08-27 03:15:25 (Update)_
+1. [ Capture of Saddam Hussein:: US President George W. Bush promises a "fair trial" for Saddam, refusing demands to hand him over to an international court. ](/news/2003/12/15/capture-of-saddam-hussein-us-president-george-w-bush-promises-a-fair-trial-for-saddam-refusing-demands-to-hand-him-over-to-an-interna.md) _2018-02-06 13:49:15 (First version)_
+2. [ Capture of Saddam Hussein: US President George W. Bush promises a "fair trial" for Saddam, refusing demands to hand him over to an international court. ](/news/2003/12/15/capture-of-saddam-hussein-p-us-president-george-w-bush-promises-a-fair-trial-for-saddam-refusing-demands-to-hand-him-over-to-an-interna.md) _2018-02-06 13:49:15 (Update)_
 2. [ US President George W. Bush promises a "fair trial" for Saddam, refusing demands to hand him over to an international court. ](/news/2003/12/15/us-president-george-w-bush-promises-a-fair-trial-for-saddam-refusing-demands-to-hand-him-over-to-an-international-court.md) _(Current version)_
 
 ### Related:

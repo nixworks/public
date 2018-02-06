@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/14/french-transport-and-energy-workers-strike-agai
 
 ### Changes:
 
-1. [ Strikes in France: French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/strikes-in-france-p-french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-esp.md) _2017-08-25 03:21:21 (First version)_
-2. [ Strikes in France:: French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/strikes-in-france-french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-esp.md) _2017-08-27 03:21:16 (Update)_
+1. [ Strikes in France: French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/strikes-in-france-p-french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-esp.md) _2018-02-06 13:49:18 (First version)_
+2. [ Strikes in France:: French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/strikes-in-france-french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-esp.md) _2018-02-06 13:49:18 (Update)_
 2. [ French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-especially-rail-service.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/28/an-american-airlines-boeing-767-catches-fire-af
 
 ### Changes:
 
-1. [American Airlines Flight 383 (2016): An American Airlines Boeing 767 catches fire after an aborted takeoff at Chicago's O'Hare International Airport. Seven passengers and one flight attendant were injured, and taken to area hospitals. ](/news/2016/10/28/american-airlines-flight-383-2016-an-american-airlines-boeing-767-catches-fire-after-an-aborted-takeoff-at-chicago-s-o-hare-international.md) _2017-08-27 03:47:08 (First version)_
+1. [American Airlines Flight 383 (2016): An American Airlines Boeing 767 catches fire after an aborted takeoff at Chicago's O'Hare International Airport. Seven passengers and one flight attendant were injured, and taken to area hospitals. ](/news/2016/10/28/american-airlines-flight-383-2016-an-american-airlines-boeing-767-catches-fire-after-an-aborted-takeoff-at-chicago-s-o-hare-international.md) _2018-02-06 13:49:29 (First version)_
 1. [An American Airlines Boeing 767 catches fire after an aborted takeoff at Chicago's O'Hare International Airport. Seven passengers and one flight attendant were injured, and taken to area hospitals. ](/news/2016/10/28/an-american-airlines-boeing-767-catches-fire-after-an-aborted-takeoff-at-chicago-s-o-hare-international-airport-seven-passengers-and-one-fl.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/7/the-united-nations-appeals-for-4-4-billion-of-ai
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-pthe-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md) _2017-08-25 03:38:47 (First version)_
-2. [Syrian civil war:: The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-the-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md) _2017-08-27 03:39:01 (Update)_
+1. [Syrian civil war:: The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-the-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-pthe-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md) _2018-02-06 13:49:25 (Update)_
 2. [The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/the-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md) _(Current version)_
 
 ### Related:

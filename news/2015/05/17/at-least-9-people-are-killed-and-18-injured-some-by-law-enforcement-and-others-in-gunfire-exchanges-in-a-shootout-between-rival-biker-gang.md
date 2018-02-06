@@ -18,7 +18,7 @@ Eighteen people wounded as gunfire erupts near Interstate 35; local police serge
 
 ### Changes:
 
-1. [2015 Waco shootout: At least 9 people are killed and 18 injured, some by law enforcement and others in gunfire exchanges, in a shootout between rival biker gangs in Waco, Texas, at the Twin Peaks Restaurant. ](/news/2015/05/17/2015-waco-shootout-at-least-9-people-are-killed-and-18-injured-some-by-law-enforcement-and-others-in-gunfire-exchanges-in-a-shootout-betw.md) _2017-08-27 03:42:19 (First version)_
+1. [2015 Waco shootout: At least 9 people are killed and 18 injured, some by law enforcement and others in gunfire exchanges, in a shootout between rival biker gangs in Waco, Texas, at the Twin Peaks Restaurant. ](/news/2015/05/17/2015-waco-shootout-at-least-9-people-are-killed-and-18-injured-some-by-law-enforcement-and-others-in-gunfire-exchanges-in-a-shootout-betw.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 9 people are killed and 18 injured, some by law enforcement and others in gunfire exchanges, in a shootout between rival biker gangs in Waco, Texas, at the Twin Peaks Restaurant. ](/news/2015/05/17/at-least-9-people-are-killed-and-18-injured-some-by-law-enforcement-and-others-in-gunfire-exchanges-in-a-shootout-between-rival-biker-gang.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Gunmen killed 30 people in a village in central Nigeria on Monday, officials sai
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-pgunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md) _2017-08-25 03:39:48 (First version)_
-2. [Islamist insurgency in Nigeria:: Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-gunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md) _2017-08-27 03:40:07 (Update)_
+1. [Islamist insurgency in Nigeria:Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-pgunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-gunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/gunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/06/22/denmark-officially-recognizes-the-national-tran
 
 ### Changes:
 
-1. [2011 Libyan civil war:Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-pdenmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-th.md) _2017-08-25 03:33:32 (First version)_
-2. [2011 Libyan civil war:: Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-denmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-t.md) _2017-08-27 03:33:40 (Update)_
+1. [2011 Libyan civil war:Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-pdenmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-th.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-denmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-t.md) _2018-02-06 13:49:22 (Update)_
 2. [Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/denmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-the-libyan-people-in-the.md) _(Current version)_
 
 ### Related:

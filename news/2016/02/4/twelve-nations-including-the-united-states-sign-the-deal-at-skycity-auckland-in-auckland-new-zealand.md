@@ -17,7 +17,7 @@ The long-awaited Trans Pacific Partnership, one of the biggest multinational tra
 
 ### Changes:
 
-1. [Trans-Pacific Partnership: Twelve nations, including the United States, sign the deal at SkyCity Auckland in Auckland, New Zealand. ](/news/2016/02/4/trans-pacific-partnership-twelve-nations-including-the-united-states-sign-the-deal-at-skycity-auckland-in-auckland-new-zealand.md) _2017-08-27 03:44:49 (First version)_
+1. [Trans-Pacific Partnership: Twelve nations, including the United States, sign the deal at SkyCity Auckland in Auckland, New Zealand. ](/news/2016/02/4/trans-pacific-partnership-twelve-nations-including-the-united-states-sign-the-deal-at-skycity-auckland-in-auckland-new-zealand.md) _2018-02-06 13:49:28 (First version)_
 1. [ Twelve nations, including the United States, sign the deal at SkyCity Auckland in Auckland, New Zealand. ](/news/2016/02/4/twelve-nations-including-the-united-states-sign-the-deal-at-skycity-auckland-in-auckland-new-zealand.md) _(Current version)_
 
 ### Related:

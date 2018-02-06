@@ -16,8 +16,8 @@ A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clas
 
 ### Changes:
 
-1. [A cease-fire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-cease-fire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md) _2017-08-22 07:30:05 (First version)_
-2. [Ain al-Hilweh conflict: A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/ain-al-hilweh-conflict-a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestini.md) _2017-08-27 17:30:04 (Update)_
+1. [Ain al-Hilweh conflict: A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/ain-al-hilweh-conflict-a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestini.md) _2018-02-06 13:49:31 (First version)_
+2. [A cease-fire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-cease-fire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md) _2018-02-06 13:49:31 (Update)_
 2. [A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md) _(Current version)_
 
 ### Related:

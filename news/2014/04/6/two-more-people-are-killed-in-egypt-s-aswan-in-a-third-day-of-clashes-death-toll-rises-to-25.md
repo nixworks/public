@@ -17,8 +17,8 @@ Two people were killed on Sunday when tribal clashes flared for a third day in t
 
 ### Changes:
 
-1. [2014 Aswan tribal clashes:Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/2014-aswan-tribal-clashes-ptwo-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md) _2017-08-25 03:40:15 (First version)_
-2. [2014 Aswan tribal clashes:: Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/2014-aswan-tribal-clashes-two-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md) _2017-08-27 03:40:33 (Update)_
+1. [2014 Aswan tribal clashes:: Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/2014-aswan-tribal-clashes-two-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Aswan tribal clashes:Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/2014-aswan-tribal-clashes-ptwo-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md) _2018-02-06 13:49:26 (Update)_
 2. [Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/two-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/12/2/a-blast-at-don-mueang-airport-kills-at-least-one
 
 ### Changes:
 
-1. [ 2008 Thai political crisis: A blast at Don Mueang Airport kills at least one anti-government protestor and injures another 22. ](/news/2008/12/2/2008-thai-political-crisis-p-a-blast-at-don-mueang-airport-kills-at-least-one-anti-government-protestor-and-injures-another-22.md) _2017-08-25 03:23:15 (First version)_
-2. [ 2008 Thai political crisis:: A blast at Don Mueang Airport kills at least one anti-government protestor and injures another 22. ](/news/2008/12/2/2008-thai-political-crisis-a-blast-at-don-mueang-airport-kills-at-least-one-anti-government-protestor-and-injures-another-22.md) _2017-08-27 03:23:08 (Update)_
+1. [ 2008 Thai political crisis: A blast at Don Mueang Airport kills at least one anti-government protestor and injures another 22. ](/news/2008/12/2/2008-thai-political-crisis-p-a-blast-at-don-mueang-airport-kills-at-least-one-anti-government-protestor-and-injures-another-22.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Thai political crisis:: A blast at Don Mueang Airport kills at least one anti-government protestor and injures another 22. ](/news/2008/12/2/2008-thai-political-crisis-a-blast-at-don-mueang-airport-kills-at-least-one-anti-government-protestor-and-injures-another-22.md) _2018-02-06 13:49:18 (Update)_
 2. [ A blast at Don Mueang Airport kills at least one anti-government protestor and injures another 22. ](/news/2008/12/2/a-blast-at-don-mueang-airport-kills-at-least-one-anti-government-protestor-and-injures-another-22.md) _(Current version)_
 
 ### Related:

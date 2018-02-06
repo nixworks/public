@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/28/official-results-from-the-presidential-election
 
 ### Changes:
 
-1. [Ivorian presidential election, 2015: Official results from the presidential election held on Sunday show that President of the Ivory Coast Alassane Ouattara has been reelected. ](/news/2015/10/28/ivorian-presidential-election-2015-official-results-from-the-presidential-election-held-on-sunday-show-that-president-of-the-ivory-coast-a.md) _2017-08-27 03:43:34 (First version)_
+1. [Ivorian presidential election, 2015: Official results from the presidential election held on Sunday show that President of the Ivory Coast Alassane Ouattara has been reelected. ](/news/2015/10/28/ivorian-presidential-election-2015-official-results-from-the-presidential-election-held-on-sunday-show-that-president-of-the-ivory-coast-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Official results from the presidential election held on Sunday show that President of the Ivory Coast Alassane Ouattara has been reelected. ](/news/2015/10/28/official-results-from-the-presidential-election-held-on-sunday-show-that-president-of-the-ivory-coast-alassane-ouattara-has-been-reelected.md) _(Current version)_
 
 ### Related:

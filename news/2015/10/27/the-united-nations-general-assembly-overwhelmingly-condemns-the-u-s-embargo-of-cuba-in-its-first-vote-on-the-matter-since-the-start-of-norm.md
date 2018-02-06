@@ -17,7 +17,7 @@ The United Nations General Assembly overwhelmingly condemned the U.S. embargo of
 
 ### Changes:
 
-1. [The United Nations General Assembly overwhelmingly condemns the U.S. embargo of Cuba in its first vote on the matter since the start of normalization of relations between the two countries. The largely symbolic tally on the unenforceable resolution was 191 to 2 (U.S., Israel). ](/news/2015/10/27/the-united-nations-general-assembly-overwhelmingly-condemns-the-u-s-embargo-of-cuba-in-its-first-vote-on-the-matter-since-the-start-of-nor.md) _2017-08-25 03:43:14 (First version)_
+1. [The United Nations General Assembly overwhelmingly condemns the U.S. embargo of Cuba in its first vote on the matter since the start of normalization of relations between the two countries. The largely symbolic tally on the unenforceable resolution was 191 to 2 (U.S., Israel). ](/news/2015/10/27/the-united-nations-general-assembly-overwhelmingly-condemns-the-u-s-embargo-of-cuba-in-its-first-vote-on-the-matter-since-the-start-of-nor.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Nations General Assembly overwhelmingly condemns the U.S. embargo of Cuba in its first vote on the matter since the start of normalization of relations between the two countries. The largely symbolic tally on the unenforceable resolution was 191 to 2 (U.S., Israel). ](/news/2015/10/27/the-united-nations-general-assembly-overwhelmingly-condemns-the-u-s-embargo-of-cuba-in-its-first-vote-on-the-matter-since-the-start-of-norm.md) _(Current version)_
 
 ### Related:

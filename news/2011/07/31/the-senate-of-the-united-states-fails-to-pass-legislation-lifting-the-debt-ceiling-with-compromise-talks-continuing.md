@@ -19,7 +19,7 @@ Congressional leaders of both parties and President Obama had a framework for a 
 
 ### Changes:
 
-1. [2011 U.S. debt ceiling crisis: The Senate of the United States fails to pass legislation lifting the debt ceiling with compromise talks continuing. ](/news/2011/07/31/2011-u-s-debt-ceiling-crisis-the-senate-of-the-united-states-fails-to-pass-legislation-lifting-the-debt-ceiling-with-compromise-talks-cont.md) _2017-08-27 03:34:02 (First version)_
+1. [2011 U.S. debt ceiling crisis: The Senate of the United States fails to pass legislation lifting the debt ceiling with compromise talks continuing. ](/news/2011/07/31/2011-u-s-debt-ceiling-crisis-the-senate-of-the-united-states-fails-to-pass-legislation-lifting-the-debt-ceiling-with-compromise-talks-cont.md) _2018-02-06 13:49:22 (First version)_
 1. [The Senate of the United States fails to pass legislation lifting the debt ceiling with compromise talks continuing. ](/news/2011/07/31/the-senate-of-the-united-states-fails-to-pass-legislation-lifting-the-debt-ceiling-with-compromise-talks-continuing.md) _(Current version)_
 
 ### Related:

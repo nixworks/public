@@ -16,7 +16,7 @@ Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban insurgents storm a prison in the central Afghan province of Ghazni killing at least four prison officers and freeing about 350 prisoners. The deputy provincial governor of the Ghazni province says the attackers were well-organised and wearing military uniforms. ](/news/2015/09/14/war-in-afghanistan-2015-present-taliban-insurgents-storm-a-prison-in-the-central-afghan-province-of-ghazni-killing-at-least-four-prison.md) _2017-08-27 03:43:03 (First version)_
+1. [War in Afghanistan (2015-present): Taliban insurgents storm a prison in the central Afghan province of Ghazni killing at least four prison officers and freeing about 350 prisoners. The deputy provincial governor of the Ghazni province says the attackers were well-organised and wearing military uniforms. ](/news/2015/09/14/war-in-afghanistan-2015-present-taliban-insurgents-storm-a-prison-in-the-central-afghan-province-of-ghazni-killing-at-least-four-prison.md) _2018-02-06 13:49:27 (First version)_
 1. [Taliban insurgents storm a prison in the central Afghan province of Ghazni killing at least four prison officers and freeing about 350 prisoners. The deputy provincial governor of the Ghazni province says the attackers were well-organised and wearing military uniforms. ](/news/2015/09/14/taliban-insurgents-storm-a-prison-in-the-central-afghan-province-of-ghazni-killing-at-least-four-prison-officers-and-freeing-about-350-priso.md) _(Current version)_
 
 ### Related:

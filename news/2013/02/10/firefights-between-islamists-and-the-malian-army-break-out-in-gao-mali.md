@@ -18,8 +18,8 @@ Malian troops and suspected Islamist militants are exchanging heavy gunfire in G
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012apresent-pfirefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _2017-08-25 03:37:30 (First version)_
-2. [Northern Mali conflict (2012-present):: Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012-present-firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _2017-08-27 03:37:40 (Update)_
+1. [Northern Mali conflict (2012-present):Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012apresent-pfirefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012-present-firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _2018-02-06 13:49:24 (Update)_
 2. [Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _(Current version)_
 
 ### Related:

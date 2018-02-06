@@ -17,8 +17,8 @@ Israeli troops shot at a target across the Syrian frontier on Tuesday in respons
 
 ### Changes:
 
-1. [Syrian civil war:Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-pisrael-and-syria-exchange-gunfire-on-the-golan-heights.md) _2017-08-25 03:38:42 (First version)_
-2. [Syrian civil war:: Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-israel-and-syria-exchange-gunfire-on-the-golan-heights.md) _2017-08-27 03:38:55 (Update)_
+1. [Syrian civil war:Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-pisrael-and-syria-exchange-gunfire-on-the-golan-heights.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-israel-and-syria-exchange-gunfire-on-the-golan-heights.md) _2018-02-06 13:49:24 (Update)_
 2. [Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/israel-and-syria-exchange-gunfire-on-the-golan-heights.md) _(Current version)_
 
 ### Related:

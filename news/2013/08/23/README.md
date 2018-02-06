@@ -33,7 +33,7 @@ _Context: Steve Ballmer, Microsoft_
 
 ##### Nidal Malik Hassan
 ### [Former U.S. Army Major Nidal Malik Hassan is convicted of multiple murder and attempted murder counts in the 2009 Fort Hood shooting. ](/news/2013/08/23/former-u-s-army-major-nidal-malik-hassan-is-convicted-of-multiple-murder-and-attempted-murder-counts-in-the-2009-fort-hood-shooting.md)
-_Context: Nidal Malik Hassan, Fort Hood massacre_
+_Context: Fort Hood massacre, Nidal Malik Hassan_
 
 ##### Robert Bales
 ### [Former U.S. Army Sergeant Robert Bales is sentenced to life in prison without parole for the killing of 16 Afghan civilians in March 2012. ](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.md)

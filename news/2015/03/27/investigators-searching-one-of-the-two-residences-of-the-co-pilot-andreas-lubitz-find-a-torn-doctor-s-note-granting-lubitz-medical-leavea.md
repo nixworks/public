@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/27/investigators-searching-one-of-the-two-residenc
 
 ### Changes:
 
-1. [Germanwings Flight 9525: Investigators, searching one of the two residences of the co-pilot Andreas Lubitz, find a torn doctor's note granting Lubitz medical leave-deeming him unfit for work-for a period including the day of the crash. ](/news/2015/03/27/germanwings-flight-9525-investigators-searching-one-of-the-two-residences-of-the-co-pilot-andreas-lubitz-find-a-torn-doctor-s-note-granti.md) _2017-08-27 03:42:08 (First version)_
+1. [Germanwings Flight 9525: Investigators, searching one of the two residences of the co-pilot Andreas Lubitz, find a torn doctor's note granting Lubitz medical leave-deeming him unfit for work-for a period including the day of the crash. ](/news/2015/03/27/germanwings-flight-9525-investigators-searching-one-of-the-two-residences-of-the-co-pilot-andreas-lubitz-find-a-torn-doctor-s-note-granti.md) _2018-02-06 13:49:26 (First version)_
 1. [Investigators, searching one of the two residences of the co-pilot Andreas Lubitz, find a torn doctor's note granting Lubitz medical leave--deeming him unfit for work--for a period including the day of the crash. ](/news/2015/03/27/investigators-searching-one-of-the-two-residences-of-the-co-pilot-andreas-lubitz-find-a-torn-doctor-s-note-granting-lubitz-medical-leavea.md) _(Current version)_
 
 ### Related:

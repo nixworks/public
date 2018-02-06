@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-su
 
 ### Changes:
 
-1. [U.S. scientists plan to rotate the Confederate submarine, the ''H. L. Hunley'', buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so.md) _2017-08-25 03:29:15 (First version)_
+1. [U.S. scientists plan to rotate the Confederate submarine, the ''H. L. Hunley'', buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so.md) _2018-02-06 13:49:20 (First version)_
 1. [U.S. scientists plan to rotate the Confederate submarine, the "H. L. Hunley", buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so-t.md) _(Current version)_
 
 ### Related:

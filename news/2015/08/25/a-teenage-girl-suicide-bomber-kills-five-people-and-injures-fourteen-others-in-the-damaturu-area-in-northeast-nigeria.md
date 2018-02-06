@@ -16,7 +16,7 @@ Police say a girl suicide bomber killing five people in an attack at the crowded
 
 ### Changes:
 
-1. [Boko Haram: A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/boko-haram-a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _2017-08-27 03:42:54 (First version)_
+1. [Boko Haram: A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/boko-haram-a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _2018-02-06 13:49:27 (First version)_
 1. [A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _(Current version)_
 
 ### Related:

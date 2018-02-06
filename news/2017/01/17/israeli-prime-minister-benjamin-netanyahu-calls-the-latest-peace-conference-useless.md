@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/17/israeli-prime-minister-benjamin-netanyahu-calls
 
 ### Changes:
 
-1. [Israeli-Palestinian peace process: Israeli Prime Minister Benjamin Netanyahu calls the latest peace-conference "useless". ](/news/2017/01/17/israeli-palestinian-peace-process-israeli-prime-minister-benjamin-netanyahu-calls-the-latest-peace-conference-useless.md) _2017-08-27 03:47:37 (First version)_
+1. [Israeli-Palestinian peace process: Israeli Prime Minister Benjamin Netanyahu calls the latest peace-conference "useless". ](/news/2017/01/17/israeli-palestinian-peace-process-israeli-prime-minister-benjamin-netanyahu-calls-the-latest-peace-conference-useless.md) _2018-02-06 13:49:30 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu calls the latest peace-conference "useless". ](/news/2017/01/17/israeli-prime-minister-benjamin-netanyahu-calls-the-latest-peace-conference-useless.md) _(Current version)_
 
 ### Related:

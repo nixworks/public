@@ -15,7 +15,7 @@ BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Mon
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Three bombs explode in Shi'ite areas of Baghdad killing at least 30 people. ](/news/2014/10/13/iraqi-insurgency-2011-present-three-bombs-explode-in-shi-ite-areas-of-baghdad-killing-at-least-30-people.md) _2017-08-27 03:41:24 (First version)_
+1. [Iraqi insurgency (2011-present): Three bombs explode in Shi'ite areas of Baghdad killing at least 30 people. ](/news/2014/10/13/iraqi-insurgency-2011-present-three-bombs-explode-in-shi-ite-areas-of-baghdad-killing-at-least-30-people.md) _2018-02-06 13:49:26 (First version)_
 1. [Three bombs explode in Shi'ite areas of Baghdad killing at least 30 people. ](/news/2014/10/13/three-bombs-explode-in-shi-ite-areas-of-baghdad-killing-at-least-30-people.md) _(Current version)_
 
 ### Related:

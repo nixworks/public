@@ -18,7 +18,7 @@ Overwhelming support and record turnout among black voters and her best showing 
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in South Carolina go to the polls for the Democratic Party primary. Hillary Clinton won. ](/news/2016/02/27/united-states-presidential-election-2016-voters-in-south-carolina-go-to-the-polls-for-the-democratic-party-primary-hillary-clinton-won.md) _2017-08-27 03:45:03 (First version)_
+1. [United States presidential election, 2016: Voters in South Carolina go to the polls for the Democratic Party primary. Hillary Clinton won. ](/news/2016/02/27/united-states-presidential-election-2016-voters-in-south-carolina-go-to-the-polls-for-the-democratic-party-primary-hillary-clinton-won.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in South Carolina go to the polls for the Democratic Party primary. Hillary Clinton won. ](/news/2016/02/27/voters-in-south-carolina-go-to-the-polls-for-the-democratic-party-primary-hillary-clinton-won.md) _(Current version)_
 
 ### Related:

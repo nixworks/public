@@ -16,8 +16,8 @@ At least 28 are people are killed in a series of explosions that targeted bars i
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-p28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md) _2017-08-25 03:39:04 (First version)_
-2. [Nigerian Sharia conflict:: 28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md) _2017-08-27 03:39:19 (Update)_
+1. [Nigerian Sharia conflict:28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-p28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: 28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md) _2018-02-06 13:49:25 (Update)_
 2. [28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md) _(Current version)_
 
 ### Related:

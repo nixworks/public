@@ -16,7 +16,7 @@ Around 400 migrants died when their boat capsized during an attempt to reach Ita
 
 ### Changes:
 
-1. [2015 Libya migrant shipwreck: Up to 400 people may have died as a boat capsizes in the Mediterranean Sea between Libya and Italy with up to 550 passengers on board. ](/news/2015/04/14/2015-libya-migrant-shipwreck-up-to-400-people-may-have-died-as-a-boat-capsizes-in-the-mediterranean-sea-between-libya-and-italy-with-up-to.md) _2017-08-27 03:42:12 (First version)_
+1. [2015 Libya migrant shipwreck: Up to 400 people may have died as a boat capsizes in the Mediterranean Sea between Libya and Italy with up to 550 passengers on board. ](/news/2015/04/14/2015-libya-migrant-shipwreck-up-to-400-people-may-have-died-as-a-boat-capsizes-in-the-mediterranean-sea-between-libya-and-italy-with-up-to.md) _2018-02-06 13:49:27 (First version)_
 1. [Up to 400 people may have died as a boat capsizes in the Mediterranean Sea between Libya and Italy with up to 550 passengers on board. ](/news/2015/04/14/up-to-400-people-may-have-died-as-a-boat-capsizes-in-the-mediterranean-sea-between-libya-and-italy-with-up-to-550-passengers-on-board.md) _(Current version)_
 
 ### Related:

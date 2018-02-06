@@ -19,7 +19,7 @@ Formats: [HTML](/news/2015/12/9/an-israeli-couple-are-injured-in-a-drive-by-shoo
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): An Israeli couple are injured in a drive-by shooting attack near Avnei Hefetz. ](/news/2015/12/9/israeli-palestinian-conflict-2015-an-israeli-couple-are-injured-in-a-drive-by-shooting-attack-near-avnei-hefetz.md) _2017-08-27 03:44:16 (First version)_
+1. [Israeli-Palestinian conflict (2015): An Israeli couple are injured in a drive-by shooting attack near Avnei Hefetz. ](/news/2015/12/9/israeli-palestinian-conflict-2015-an-israeli-couple-are-injured-in-a-drive-by-shooting-attack-near-avnei-hefetz.md) _2018-02-06 13:49:28 (First version)_
 1. [An Israeli couple are injured in a drive-by shooting attack near Avnei Hefetz. ](/news/2015/12/9/an-israeli-couple-are-injured-in-a-drive-by-shooting-attack-near-avnei-hefetz.md) _(Current version)_
 
 ### Related:

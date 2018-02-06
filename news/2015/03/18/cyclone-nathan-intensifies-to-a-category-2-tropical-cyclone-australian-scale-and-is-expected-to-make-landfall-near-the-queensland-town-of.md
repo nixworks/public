@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/18/cyclone-nathan-intensifies-to-a-category-2-trop
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/2014-15-australian-region-cyclone-season-cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-t.md) _2017-08-27 03:42:06 (First version)_
+1. [2014-15 Australian region cyclone season: Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/2014-15-australian-region-cyclone-season-cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-to-make-landfall-near-the-queensland-town-of.md) _(Current version)_
 
 ### Related:

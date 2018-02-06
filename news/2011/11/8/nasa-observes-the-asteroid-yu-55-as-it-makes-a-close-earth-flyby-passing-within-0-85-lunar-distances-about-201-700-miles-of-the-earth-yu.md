@@ -18,7 +18,7 @@ A 400m-wide asteroid passes by Earth, on a path closer to the planet than the Mo
 
 ### Changes:
 
-1. [NASA observes the asteroid YU 55 as it makes a close Earth flyby, passing within 0.85 lunar distances (about 201,700 miles) of the Earth. YU 55 is approximately 400 m across, and is the largest asteroid to make a close pass since 1976. ](/news/2011/11/8/nasa-observes-the-asteroid-yu55-as-it-makes-a-close-earth-flyby-passing-within-0-85-lunar-distances-about-201-700-miles-of-the-earth-yu5.md) _2017-10-02 03:38:18 (First version)_
+1. [NASA observes the asteroid YU 55 as it makes a close Earth flyby, passing within 0.85 lunar distances (about 201,700 miles) of the Earth. YU 55 is approximately 400 m across, and is the largest asteroid to make a close pass since 1976. ](/news/2011/11/8/nasa-observes-the-asteroid-yu55-as-it-makes-a-close-earth-flyby-passing-within-0-85-lunar-distances-about-201-700-miles-of-the-earth-yu5.md) _2018-02-06 13:49:23 (First version)_
 1. [NASA observes the asteroid YU 55 as it makes a close Earth flyby, passing within 0.85 lunar distances (about 201,700 miles) of the Earth. YU 55 is approximately 400 m across, and is the largest asteroid to make a close pass since 1976. ](/news/2011/11/8/nasa-observes-the-asteroid-yu-55-as-it-makes-a-close-earth-flyby-passing-within-0-85-lunar-distances-about-201-700-miles-of-the-earth-yu.md) _(Current version)_
 
 ### Related:

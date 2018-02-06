@@ -17,7 +17,7 @@ Louisiana voters headed to the polls on Saturday to choose a successor to Govern
 
 ### Changes:
 
-1. [Louisiana gubernatorial election, 2015: Voters in Louisiana go to the polls to elect its next governor. The winner will succeed Bobby Jindal, who is in his second and final term, and is a candidate for the Republican nomination in the 2016 presidential election. ](/news/2015/10/24/louisiana-gubernatorial-election-2015-voters-in-louisiana-go-to-the-polls-to-elect-its-next-governor-the-winner-will-succeed-bobby-jindal.md) _2017-08-27 03:43:29 (First version)_
+1. [Louisiana gubernatorial election, 2015: Voters in Louisiana go to the polls to elect its next governor. The winner will succeed Bobby Jindal, who is in his second and final term, and is a candidate for the Republican nomination in the 2016 presidential election. ](/news/2015/10/24/louisiana-gubernatorial-election-2015-voters-in-louisiana-go-to-the-polls-to-elect-its-next-governor-the-winner-will-succeed-bobby-jindal.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Louisiana go to the polls to elect its next governor. The winner will succeed Bobby Jindal, who is in his second and final term, and is a candidate for the Republican nomination in the 2016 presidential election. ](/news/2015/10/24/voters-in-louisiana-go-to-the-polls-to-elect-its-next-governor-the-winner-will-succeed-bobby-jindal-who-is-in-his-second-and-final-term-a.md) _(Current version)_
 
 ### Related:

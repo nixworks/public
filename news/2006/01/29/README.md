@@ -5,11 +5,11 @@ Formats: [HTML](2006/01/29/index.html)  [JSON](2006/01/29/index.json)  [XML](200
 
 ##### Libya
 ### [ Libya closes its embassy in Denmark over the Muhammad Drawings controversy. ](/news/2006/01/29/libya-closes-its-embassy-in-denmark-over-the-muhammad-drawings-controversy.md)
-_Context: Libya, Denmark, Muhammad cartoons, embassy_
+_Context: Muhammad cartoons, Denmark, embassy, Libya_
 
 ##### Al-Jazeera
 ### [ Al-Jazeera releases two separate videos, one of Ayman al-Zawahiri condemning the bombing of Damadola and the other of Jill Carroll again pleading for the release of female prisoners so her life will be spared. ](/news/2006/01/29/al-jazeera-releases-two-separate-videos-one-of-ayman-al-zawahiri-condemning-the-bombing-of-damadola-and-the-other-of-jill-carroll-again-pl.md)
-_Context: Al-Jazeera, bombing of Damadola, Ayman al-Zawahiri, Jill Carroll_
+_Context: bombing of Damadola, Jill Carroll, Al-Jazeera, Ayman al-Zawahiri_
 
 ##### ABC World News Tonight
 ### [ ABC World News Tonight co-anchor Bob Woodruff and cameraman Doug Vogt are seriously injured by an improvised explosive device near Taji, Iraq. ](/news/2006/01/29/abc-world-news-tonight-co-anchor-bob-woodruff-and-cameraman-doug-vogt-are-seriously-injured-by-an-improvised-explosive-device-near-taji-ir.md)
@@ -17,7 +17,7 @@ _Context: Al-Jazeera, bombing of Damadola, Ayman al-Zawahiri, Jill Carroll_
 
 ##### Tarja Halonen
 ### [ Tarja Halonen is re-elected in the second round of the Finnish presidential election with 51.8% of the votes, defeating the other candidate Sauli Niinist. ](/news/2006/01/29/tarja-halonen-is-re-elected-in-the-second-round-of-the-finnish-presidential-election-with-51-8-of-the-votes-defeating-the-other-candidate.md)
-_Context: Finnish presidential election, Sauli Niinist, Tarja Halonen_
+_Context: Finnish presidential election, Tarja Halonen, Sauli Niinist_
 
 ##### firecracker
 ### [ An explosion in a firecracker warehouse kills 16 people in Henan on Chinese New Year. ](/news/2006/01/29/an-explosion-in-a-firecracker-warehouse-kills-16-people-in-henan-on-chinese-new-year.md)

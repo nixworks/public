@@ -17,6 +17,6 @@ A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the D
 
 ### Changes:
 
-1. [A mail carrier from Dublin, Ohio--told that he would lose his job--kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobakills-2-of-his-supervisors.md) _2017-12-24 18:30:06 (First version)_
-2. [A mail carrier from Dublin, Ohio--told that he would lose his job--allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobaallegedly-kills-2-of-his-supervisors.md) _2017-12-30 23:30:04 (Update)_
+1. [A mail carrier from Dublin, Ohio--told that he would lose his job--kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobakills-2-of-his-supervisors.md) _2018-02-06 13:49:31 (First version)_
+2. [A mail carrier from Dublin, Ohio--told that he would lose his job--allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobaallegedly-kills-2-of-his-supervisors.md) _2018-02-06 13:49:31 (Update)_
 2. [A mail carrier from Dublin, Ohio, (told that he would lose his job) allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohio-told-that-he-would-lose-his-job-allegedly-kills-2-of-his-supervisors.md) _(Current version)_

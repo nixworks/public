@@ -16,7 +16,7 @@ A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstituti
 
 ### Changes:
 
-1. [US federal judge Joseph Louis Tauro, in two separate cases, rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interf.md) _2017-08-25 03:28:38 (First version)_
+1. [US federal judge Joseph Louis Tauro, in two separate cases, rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interf.md) _2018-02-06 13:49:20 (First version)_
 1. [US federal judge Joseph Louis Tauro, in two separate cases, rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interfe.md) _(Current version)_
 
 ### Related:

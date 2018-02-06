@@ -16,7 +16,7 @@ Prosecutors investigating the 2014 downing of flight MH17 over eastern Ukraine s
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17; Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-miss.md) _2017-08-25 03:46:32 (First version)_
+1. [Malaysia Airlines Flight 17; Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-miss.md) _2018-02-06 13:49:29 (First version)_
 1. [Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-missile-that-had-come-from-russia.md) _(Current version)_
 
 ### Related:

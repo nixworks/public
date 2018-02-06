@@ -16,8 +16,8 @@ Islamist militants carried out a deadly assault on the main U.N. compound in the
 
 ### Changes:
 
-1. [War in Somalia:An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/war-in-somalia-pan-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civilia.md) _2017-08-25 03:38:52 (First version)_
-2. [War in Somalia:: An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/war-in-somalia-an-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civili.md) _2017-08-27 03:39:06 (Update)_
+1. [War in Somalia:An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/war-in-somalia-pan-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civilia.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia:: An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/war-in-somalia-an-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civili.md) _2018-02-06 13:49:25 (Update)_
 2. [An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/an-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civilians.md) _(Current version)_
 
 ### Related:

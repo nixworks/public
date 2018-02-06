@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/12/24/the-national-diet-of-japan-approves-a-record-bu
 
 ### Changes:
 
-1. [ The National Diet of Japan approves a record budget of 88.55 trillion (US$980 billion) in response to the global economic downturn. ](/news/2008/12/24/the-national-diet-of-japan-approves-a-record-budget-of-y-88-55-trillion-us-980-billion-in-response-to-the-global-economic-downturn.md) _2017-08-25 03:23:21 (First version)_
+1. [ The National Diet of Japan approves a record budget of 88.55 trillion (US$980 billion) in response to the global economic downturn. ](/news/2008/12/24/the-national-diet-of-japan-approves-a-record-budget-of-y-88-55-trillion-us-980-billion-in-response-to-the-global-economic-downturn.md) _2018-02-06 13:49:18 (First version)_
 1. [ The National Diet of Japan approves a record budget of CNY88.55 trillion (US$980 billion) in response to the global economic downturn. ](/news/2008/12/24/the-national-diet-of-japan-approves-a-record-budget-of-cny88-55-trillion-us-980-billion-in-response-to-the-global-economic-downturn.md) _(Current version)_
 
 ### Related:

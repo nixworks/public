@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/19/three-bombs-explode-in-baghdad-killing-at-least
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Three bombs explode in Baghdad killing at least fifteen people. ](/news/2014/07/19/iraqi-insurgency-post-u-s-withdrawal-pthree-bombs-explode-in-baghdad-killing-at-least-fifteen-people.md) _2017-08-25 03:40:42 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Three bombs explode in Baghdad killing at least fifteen people. ](/news/2014/07/19/iraqi-insurgency-post-u-s-withdrawal-three-bombs-explode-in-baghdad-killing-at-least-fifteen-people.md) _2017-08-27 03:41:00 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Three bombs explode in Baghdad killing at least fifteen people. ](/news/2014/07/19/iraqi-insurgency-post-u-s-withdrawal-three-bombs-explode-in-baghdad-killing-at-least-fifteen-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Three bombs explode in Baghdad killing at least fifteen people. ](/news/2014/07/19/iraqi-insurgency-post-u-s-withdrawal-pthree-bombs-explode-in-baghdad-killing-at-least-fifteen-people.md) _2018-02-06 13:49:26 (Update)_
 2. [Three bombs explode in Baghdad killing at least fifteen people. ](/news/2014/07/19/three-bombs-explode-in-baghdad-killing-at-least-fifteen-people.md) _(Current version)_
 
 ### Related:

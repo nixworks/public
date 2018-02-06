@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/30/a-thai-national-is-arrested-in-myanmar-in-relat
 
 ### Changes:
 
-1. [2015 Rohingya refugee crisis: A Thai national is arrested in Myanmar in relation to human trafficking offences after the Myanmar Navy rescues more than 200 people from a boat that he allegedly owns. ](/news/2015/05/30/2015-rohingya-refugee-crisis-a-thai-national-is-arrested-in-myanmar-in-relation-to-human-trafficking-offences-after-the-myanmar-navy-rescue.md) _2017-08-27 03:42:26 (First version)_
+1. [2015 Rohingya refugee crisis: A Thai national is arrested in Myanmar in relation to human trafficking offences after the Myanmar Navy rescues more than 200 people from a boat that he allegedly owns. ](/news/2015/05/30/2015-rohingya-refugee-crisis-a-thai-national-is-arrested-in-myanmar-in-relation-to-human-trafficking-offences-after-the-myanmar-navy-rescue.md) _2018-02-06 13:49:27 (First version)_
 1. [A Thai national is arrested in Myanmar in relation to human trafficking offences after the Myanmar Navy rescues more than 200 people from a boat that he allegedly owns. ](/news/2015/05/30/a-thai-national-is-arrested-in-myanmar-in-relation-to-human-trafficking-offences-after-the-myanmar-navy-rescues-more-than-200-people-from-a.md) _(Current version)_
 
 ### Related:

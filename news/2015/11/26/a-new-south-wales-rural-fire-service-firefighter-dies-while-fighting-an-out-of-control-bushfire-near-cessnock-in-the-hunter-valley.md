@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/26/a-new-south-wales-rural-fire-service-firefighte
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: A New South Wales Rural Fire Service firefighter dies while fighting an out of control bushfire near Cessnock in the Hunter Valley. ](/news/2015/11/26/2015-16-australian-bushfire-season-a-new-south-wales-rural-fire-service-firefighter-dies-while-fighting-an-out-of-control-bushfire-near-ces.md) _2017-08-27 03:44:04 (First version)_
+1. [2015-16 Australian bushfire season: A New South Wales Rural Fire Service firefighter dies while fighting an out of control bushfire near Cessnock in the Hunter Valley. ](/news/2015/11/26/2015-16-australian-bushfire-season-a-new-south-wales-rural-fire-service-firefighter-dies-while-fighting-an-out-of-control-bushfire-near-ces.md) _2018-02-06 13:49:28 (First version)_
 1. [A New South Wales Rural Fire Service firefighter dies while fighting an out of control bushfire near Cessnock in the Hunter Valley. ](/news/2015/11/26/a-new-south-wales-rural-fire-service-firefighter-dies-while-fighting-an-out-of-control-bushfire-near-cessnock-in-the-hunter-valley.md) _(Current version)_
 
 ### Related:

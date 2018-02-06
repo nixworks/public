@@ -16,7 +16,7 @@ Officials say Terminal High-Altitude Area Defence will be quickly deployed to co
 
 ### Changes:
 
-1. [South Korea-United States relations: American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/south-korea-united-states-relations-american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defen.md) _2017-08-27 03:46:26 (First version)_
+1. [South Korea-United States relations: American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/south-korea-united-states-relations-american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defen.md) _2018-02-06 13:49:29 (First version)_
 1. [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md) _(Current version)_
 
 ### Related:

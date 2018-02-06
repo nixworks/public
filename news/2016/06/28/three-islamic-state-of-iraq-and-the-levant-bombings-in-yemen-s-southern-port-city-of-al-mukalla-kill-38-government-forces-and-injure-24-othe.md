@@ -16,7 +16,7 @@ Three coordinated Islamic State bomb attacks on Yemeni government forces killed 
 
 ### Changes:
 
-1. [Yemeni Civil War: Three Islamic State of Iraq and the Levant bombings in Yemen's southern port city of Al Mukalla kill 38 government forces and injure 24 others. ](/news/2016/06/28/yemeni-civil-war-three-islamic-state-of-iraq-and-the-levant-bombings-in-yemen-s-southern-port-city-of-al-mukalla-kill-38-government-forces.md) _2017-08-27 03:46:21 (First version)_
+1. [Yemeni Civil War: Three Islamic State of Iraq and the Levant bombings in Yemen's southern port city of Al Mukalla kill 38 government forces and injure 24 others. ](/news/2016/06/28/yemeni-civil-war-three-islamic-state-of-iraq-and-the-levant-bombings-in-yemen-s-southern-port-city-of-al-mukalla-kill-38-government-forces.md) _2018-02-06 13:49:29 (First version)_
 1. [Three Islamic State of Iraq and the Levant bombings in Yemen's southern port city of Al Mukalla kill 38 government forces and injure 24 others. ](/news/2016/06/28/three-islamic-state-of-iraq-and-the-levant-bombings-in-yemen-s-southern-port-city-of-al-mukalla-kill-38-government-forces-and-injure-24-othe.md) _(Current version)_
 
 ### Related:

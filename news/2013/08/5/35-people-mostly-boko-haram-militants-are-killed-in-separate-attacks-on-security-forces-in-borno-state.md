@@ -16,8 +16,8 @@ At least 35 peoplehave been killed in two separate gun battles between Nigerians
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/nigerian-sharia-conflict-p35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md) _2017-08-25 03:39:06 (First version)_
-2. [Nigerian Sharia conflict:: 35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/nigerian-sharia-conflict-35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md) _2017-08-27 03:39:21 (Update)_
+1. [Nigerian Sharia conflict:35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/nigerian-sharia-conflict-p35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: 35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/nigerian-sharia-conflict-35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md) _2018-02-06 13:49:25 (Update)_
 2. [35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md) _(Current version)_
 
 ### Related:

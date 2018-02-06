@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/19/tens-of-thousands-of-people-protest-in-the-mala
 
 ### Changes:
 
-1. [Bersih 5 rally: Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/bersih-5-rally-tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-do.md) _2017-08-27 03:47:15 (First version)_
+1. [Bersih 5 rally: Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/bersih-5-rally-tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-do.md) _2018-02-06 13:49:29 (First version)_
 1. [Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-amid-an-ongoi.md) _(Current version)_
 
 ### Related:

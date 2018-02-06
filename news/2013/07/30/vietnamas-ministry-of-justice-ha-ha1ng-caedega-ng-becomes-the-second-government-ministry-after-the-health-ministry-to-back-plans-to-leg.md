@@ -16,7 +16,7 @@ Vietnam’s Ministry of Justice has followed on the heels of the country’s Min
 
 ### Changes:
 
-1. [Vietnam-s Ministry of Justice, Ha Hung Cuong, becomes the second government ministry, after the Health Ministry, to back plans to legalize same-sex marriage in Vietnam, when he submits a draft of an amended Law on Marriage and Family to the government. ](/news/2013/07/30/vietnam-s-ministry-of-justice-ha-ha1ng-caedega-ng-becomes-the-second-government-ministry-after-the-health-ministry-to-back-plans-to-leg.md) _2017-08-27 03:39:19 (First version)_
+1. [Vietnam-s Ministry of Justice, Ha Hung Cuong, becomes the second government ministry, after the Health Ministry, to back plans to legalize same-sex marriage in Vietnam, when he submits a draft of an amended Law on Marriage and Family to the government. ](/news/2013/07/30/vietnam-s-ministry-of-justice-ha-ha1ng-caedega-ng-becomes-the-second-government-ministry-after-the-health-ministry-to-back-plans-to-leg.md) _2018-02-06 13:49:25 (First version)_
 1. [Vietnam's Ministry of Justice, Ha Hung Cuong, becomes the second government ministry, after the Health Ministry, to back plans to legalize same-sex marriage in Vietnam, when he submits a draft of an amended Law on Marriage and Family to the government. ](/news/2013/07/30/vietnamas-ministry-of-justice-ha-ha1ng-caedega-ng-becomes-the-second-government-ministry-after-the-health-ministry-to-back-plans-to-leg.md) _(Current version)_
 
 ### Related:

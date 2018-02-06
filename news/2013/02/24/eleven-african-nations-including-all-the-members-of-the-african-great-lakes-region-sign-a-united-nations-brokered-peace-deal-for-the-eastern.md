@@ -16,8 +16,8 @@ Regional African leaders sign a UN-brokered accord which aims to bring peace to 
 
 ### Changes:
 
-1. [M23 rebellion:Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-peleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md) _2017-08-25 03:37:37 (First version)_
-2. [M23 rebellion:: Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-eleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md) _2017-08-27 03:37:48 (Update)_
+1. [M23 rebellion:Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-peleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md) _2018-02-06 13:49:24 (First version)_
+2. [M23 rebellion:: Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-eleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md) _2018-02-06 13:49:24 (Update)_
 2. [Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/eleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal-for-the-eastern.md) _(Current version)_
 
 ### Related:

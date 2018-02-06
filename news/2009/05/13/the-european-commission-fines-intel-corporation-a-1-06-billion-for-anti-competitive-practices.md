@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/05/13/the-european-commission-fines-intel-corporation
 
 ### Changes:
 
-1. [ The European Commission fines Intel Corporation -1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-1-06-billion-for-anti-competitive-practices.md) _2017-08-27 03:24:24 (First version)_
+1. [ The European Commission fines Intel Corporation -1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-1-06-billion-for-anti-competitive-practices.md) _2018-02-06 13:49:19 (First version)_
 1. [ The European Commission fines Intel Corporation EUR1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-a-1-06-billion-for-anti-competitive-practices.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/2/tunisian-government-and-opposition-leaders-are-d
 
 ### Changes:
 
-1. [2013 Tunisian protests:Tunisian government and opposition leaders are deadlocked during talks over the determination of a new PM tasked with steering the country out of a months-long political crisis. ](/news/2013/11/2/2013-tunisian-protests-ptunisian-government-and-opposition-leaders-are-deadlocked-during-talks-over-the-determination-of-a-new-pm-tasked-wit.md) _2017-08-25 03:39:28 (First version)_
-2. [2013 Tunisian protests:: Tunisian government and opposition leaders are deadlocked during talks over the determination of a new PM tasked with steering the country out of a months-long political crisis. ](/news/2013/11/2/2013-tunisian-protests-tunisian-government-and-opposition-leaders-are-deadlocked-during-talks-over-the-determination-of-a-new-pm-tasked-wi.md) _2017-08-27 03:39:46 (Update)_
+1. [2013 Tunisian protests:: Tunisian government and opposition leaders are deadlocked during talks over the determination of a new PM tasked with steering the country out of a months-long political crisis. ](/news/2013/11/2/2013-tunisian-protests-tunisian-government-and-opposition-leaders-are-deadlocked-during-talks-over-the-determination-of-a-new-pm-tasked-wi.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Tunisian protests:Tunisian government and opposition leaders are deadlocked during talks over the determination of a new PM tasked with steering the country out of a months-long political crisis. ](/news/2013/11/2/2013-tunisian-protests-ptunisian-government-and-opposition-leaders-are-deadlocked-during-talks-over-the-determination-of-a-new-pm-tasked-wit.md) _2018-02-06 13:49:25 (Update)_
 2. [Tunisian government and opposition leaders are deadlocked during talks over the determination of a new PM tasked with steering the country out of a months-long political crisis. ](/news/2013/11/2/tunisian-government-and-opposition-leaders-are-deadlocked-during-talks-over-the-determination-of-a-new-pm-tasked-with-steering-the-country-o.md) _(Current version)_
 
 ### Related:

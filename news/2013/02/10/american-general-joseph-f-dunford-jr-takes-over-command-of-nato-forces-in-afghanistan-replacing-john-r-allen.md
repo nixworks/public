@@ -18,8 +18,8 @@ NATO forces in Afghanistan get a new commander as the coalition prepares to pull
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001apresent-pamerican-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-joh.md) _2017-08-25 03:37:30 (First version)_
-2. [War in Afghanistan (2001-present):: American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001-present-american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-jo.md) _2017-08-27 03:37:40 (Update)_
+1. [War in Afghanistan (2001-present):American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001apresent-pamerican-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-joh.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001-present-american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-jo.md) _2018-02-06 13:49:24 (Update)_
 2. [American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-john-r-allen.md) _(Current version)_
 
 ### Related:

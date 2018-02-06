@@ -17,7 +17,7 @@ Formats: [HTML](/news/2013/06/17/brazilians-go-to-the-streets-in-sagbpo-paulo-ri
 
 ### Changes:
 
-1. [Brazilians go to the streets in Sao Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sapso-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-par.md) _2017-08-25 03:38:52 (First version)_
+1. [Brazilians go to the streets in Sao Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sapso-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-par.md) _2018-02-06 13:49:25 (First version)_
 1. [Brazilians go to the streets in SGBPo Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sagbpo-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-p.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ The EU agrees to impose sanctions on Ukrainian officials &quot;responsible for v
 
 ### Changes:
 
-1. [Euromaidan:A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-pa-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-report.md) _2017-08-25 03:40:04 (First version)_
-2. [Euromaidan:: A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-repor.md) _2017-08-27 03:40:21 (Update)_
+1. [Euromaidan:A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-pa-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-report.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:: A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-repor.md) _2018-02-06 13:49:25 (Update)_
 2. [A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-reported.md) _(Current version)_
 
 ### Related:

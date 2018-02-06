@@ -16,7 +16,7 @@ A man was decapitated in a terrorist attack at a gas factory near Lyon, eastern 
 
 ### Changes:
 
-1. [ Saint-Quentin-Fallavier attack: A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/saint-quentin-fallavier-attack-a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-m.md) _2017-08-27 03:42:36 (First version)_
+1. [ Saint-Quentin-Fallavier attack: A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/saint-quentin-fallavier-attack-a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-m.md) _2018-02-06 13:49:27 (First version)_
 1. [ A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-man-carrying-an-islamic-state-in.md) _(Current version)_
 
 ### Related:

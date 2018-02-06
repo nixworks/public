@@ -15,7 +15,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ### Changes:
 
-1. [LGBT rights in Vietnam: The National Assembly of Vietnam unanimously passes the law, which will take effect in 2017 as part of the revised civil code, that recognizes and allows gender reassignment surgery. ](/news/2015/11/24/lgbt-rights-in-vietnam-the-national-assembly-of-vietnam-unanimously-passes-the-law-which-will-take-effect-in-2017-as-part-of-the-revised-c.md) _2017-08-27 03:44:02 (First version)_
+1. [LGBT rights in Vietnam: The National Assembly of Vietnam unanimously passes the law, which will take effect in 2017 as part of the revised civil code, that recognizes and allows gender reassignment surgery. ](/news/2015/11/24/lgbt-rights-in-vietnam-the-national-assembly-of-vietnam-unanimously-passes-the-law-which-will-take-effect-in-2017-as-part-of-the-revised-c.md) _2018-02-06 13:49:28 (First version)_
 1. [The National Assembly of Vietnam unanimously passes the law, which will take effect in 2017 as part of the revised civil code, that recognizes and allows gender reassignment surgery. ](/news/2015/11/24/the-national-assembly-of-vietnam-unanimously-passes-the-law-which-will-take-effect-in-2017-as-part-of-the-revised-civil-code-that-recogniz.md) _(Current version)_
 
 ### Related:

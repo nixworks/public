@@ -16,7 +16,7 @@ RICHMOND, Va. (AP) — More than 200,000 convicted felons will be able to cast b
 
 ### Changes:
 
-1. [Felony disenfranchisement: In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office. ](/news/2016/04/22/felony-disenfranchisement-in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estim.md) _2017-08-27 03:45:46 (First version)_
+1. [Felony disenfranchisement: In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office. ](/news/2016/04/22/felony-disenfranchisement-in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estim.md) _2018-02-06 13:49:28 (First version)_
 1. [In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office. ](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.md) _(Current version)_
 
 ### Related:

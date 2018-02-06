@@ -16,8 +16,8 @@ Thailand signs its first-ever deal with Muslim rebels based in Malaysia to begin
 
 ### Changes:
 
-1. [South Thailand insurgency:Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/south-thailand-insurgency-pthailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md) _2017-08-25 03:37:41 (First version)_
-2. [South Thailand insurgency:: Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/south-thailand-insurgency-thailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md) _2017-08-27 03:37:52 (Update)_
+1. [South Thailand insurgency:: Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/south-thailand-insurgency-thailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/south-thailand-insurgency-pthailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md) _2018-02-06 13:49:24 (Update)_
 2. [Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/thailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md) _(Current version)_
 
 ### Related:

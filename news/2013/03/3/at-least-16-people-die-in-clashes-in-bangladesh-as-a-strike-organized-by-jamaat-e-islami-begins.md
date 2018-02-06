@@ -17,8 +17,8 @@ At least 16 people die in continuing violence in Bangladesh as a strike called o
 
 ### Changes:
 
-1. [2013 Bangladesh protests:At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-pat-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2017-08-25 03:37:42 (First version)_
-2. [2013 Bangladesh protests:: At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2017-08-27 03:37:53 (Update)_
+1. [2013 Bangladesh protests:At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-pat-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Bangladesh protests:: At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _(Current version)_
 
 ### Related:

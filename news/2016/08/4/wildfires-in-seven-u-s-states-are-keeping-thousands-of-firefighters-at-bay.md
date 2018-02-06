@@ -16,5 +16,5 @@ Formats: [HTML](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousa
 
 ### Changes:
 
-1. [2016 Nevada wildfire: Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/2016-nevada-wildfire-wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md) _2017-08-27 03:46:36 (First version)_
+1. [2016 Nevada wildfire: Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/2016-nevada-wildfire-wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md) _2018-02-06 13:49:29 (First version)_
 1. [Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md) _(Current version)_

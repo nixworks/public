@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinak
 
 ### Changes:
 
-1. [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalin-khabarovsk-vladivostok-gas-pipeline.md) _2017-08-27 03:25:11 (First version)_
+1. [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalin-khabarovsk-vladivostok-gas-pipeline.md) _2018-02-06 13:49:19 (First version)_
 1. [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinakhabarovskavladivostok-gas-pipeline.md) _(Current version)_
 
 ### Related:

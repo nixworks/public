@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hi
 
 ### Changes:
 
-1. [ Insurgency in Jammu and Kashmir: Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/insurgency-in-jammu-and-kashmir-three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md) _2017-08-27 03:46:07 (First version)_
+1. [ Insurgency in Jammu and Kashmir: Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/insurgency-in-jammu-and-kashmir-three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md) _2018-02-06 13:49:29 (First version)_
 1. [ Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md) _(Current version)_
 
 ### Related:

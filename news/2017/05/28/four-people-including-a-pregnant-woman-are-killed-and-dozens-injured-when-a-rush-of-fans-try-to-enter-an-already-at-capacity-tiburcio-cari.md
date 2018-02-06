@@ -18,7 +18,7 @@ A tragic stampede ahead of the Clausura final between Motagua and Progreso cost 
 
 ### Changes:
 
-1. [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-car.md) _2017-05-30 03:50:22 (First version)_
+1. [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-car.md) _2018-02-06 13:49:30 (First version)_
 1. [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-cari.md) _(Current version)_
 
 ### Related:

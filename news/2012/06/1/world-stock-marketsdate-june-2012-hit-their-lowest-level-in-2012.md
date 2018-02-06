@@ -15,5 +15,5 @@ Formats: [HTML](/news/2012/06/1/world-stock-marketsdate-june-2012-hit-their-lowe
 
 ### Changes:
 
-1. [World stock markets{{which?|date=June 2012}} hit their lowest level in 2012. ](/news/2012/06/1/world-stock-markets-which-date-june-2012-hit-their-lowest-level-in-2012.md) _2017-05-01 03:38:24 (First version)_
+1. [World stock markets{{which?|date=June 2012}} hit their lowest level in 2012. ](/news/2012/06/1/world-stock-markets-which-date-june-2012-hit-their-lowest-level-in-2012.md) _2018-02-06 13:49:23 (First version)_
 1. [World stock marketsdate=June 2012 hit their lowest level in 2012. ](/news/2012/06/1/world-stock-marketsdate-june-2012-hit-their-lowest-level-in-2012.md) _(Current version)_

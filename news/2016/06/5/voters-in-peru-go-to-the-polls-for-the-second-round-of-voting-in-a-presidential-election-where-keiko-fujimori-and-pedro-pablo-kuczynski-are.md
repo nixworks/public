@@ -17,7 +17,7 @@ Sunday&#039;s runoff for leadership of the South American nation will pit Pedro 
 
 ### Changes:
 
-1. [Peruvian general election, 2016: Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/peruvian-general-election-2016-voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimo.md) _2017-08-27 03:46:12 (First version)_
+1. [Peruvian general election, 2016: Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/peruvian-general-election-2016-voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimo.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimori-and-pedro-pablo-kuczynski-are.md) _(Current version)_
 
 ### Related:

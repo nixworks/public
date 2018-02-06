@@ -21,8 +21,8 @@ THE LONG-AWAITED report into the handling of clerical sexual abuse allegations i
 
 ### Changes:
 
-1. [Sexual abuse scandal in Cloyne diocese:Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-pireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _2017-08-25 03:33:46 (First version)_
-2. [Sexual abuse scandal in Cloyne diocese:: Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _2017-08-27 03:33:53 (Update)_
+1. [Sexual abuse scandal in Cloyne diocese:Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-pireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _2018-02-06 13:49:22 (First version)_
+2. [Sexual abuse scandal in Cloyne diocese:: Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _2018-02-06 13:49:22 (Update)_
 2. [Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _(Current version)_
 
 ### Related:

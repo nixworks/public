@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/1/jose-maria-sison-who-is-the-leader-of-the-guerri
 
 ### Changes:
 
-1. [Philippine general election, 2016 Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/philippine-general-election-2016-jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-pre.md) _2017-08-25 03:45:33 (First version)_
+1. [Philippine general election, 2016 Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/philippine-general-election-2016-jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-pre.md) _2018-02-06 13:49:29 (First version)_
 1. [Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-presidency-of-rodrigo-duterte-is-goo.md) _(Current version)_
 
 ### Related:

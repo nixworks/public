@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minne
 
 ### Changes:
 
-1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democratic-farmer-labor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _2017-08-27 03:22:43 (First version)_
+1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democratic-farmer-labor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _2018-02-06 13:49:18 (First version)_
 1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _(Current version)_
 
 ### Related:

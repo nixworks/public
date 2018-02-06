@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/20/a-south-korean-court-sentences-kim-han-sik-the-
 
 ### Changes:
 
-1. [Sinking of the MV Sewol: A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/sinking-of-the-mv-sewol-a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to.md) _2017-08-27 03:41:32 (First version)_
+1. [Sinking of the MV Sewol: A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/sinking-of-the-mv-sewol-a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to.md) _2018-02-06 13:49:26 (First version)_
 1. [A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to-ten-years-in-jail-for-ne.md) _(Current version)_
 
 ### Related:

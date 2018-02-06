@@ -18,8 +18,8 @@ Sources say minister is on his way to Tunisian capital as NATO warplanes continu
 
 ### Changes:
 
-1. [2011 Libyan civil war:A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/2011-libyan-civil-war-pa-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md) _2017-08-25 03:33:09 (First version)_
-2. [2011 Libyan civil war:: A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/2011-libyan-civil-war-a-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md) _2017-08-27 03:33:18 (Update)_
+1. [2011 Libyan civil war:A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/2011-libyan-civil-war-pa-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/2011-libyan-civil-war-a-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md) _2018-02-06 13:49:22 (Update)_
 2. [A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/a-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md) _(Current version)_
 
 ### Related:

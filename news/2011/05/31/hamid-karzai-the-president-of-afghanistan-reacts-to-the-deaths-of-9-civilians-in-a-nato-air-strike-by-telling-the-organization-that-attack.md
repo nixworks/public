@@ -17,7 +17,7 @@ Two officers were injured Tuesday when their police car hit a bomb in northern A
 
 ### Changes:
 
-1. [War in Afghanistan:: Hamid Karzai, the President of Afghanistan, reacts to the deaths of 9 civilians in a NATO air strike by telling the organization that attacks on insurgents in Afghan homes is "not allowed". ](/news/2011/05/31/war-in-afghanistan-hamid-karzai-the-president-of-afghanistan-reacts-to-the-deaths-of-9-civilians-in-a-nato-air-strike-by-telling-the-org.md) _2017-08-27 03:33:28 (First version)_
+1. [War in Afghanistan:: Hamid Karzai, the President of Afghanistan, reacts to the deaths of 9 civilians in a NATO air strike by telling the organization that attacks on insurgents in Afghan homes is "not allowed". ](/news/2011/05/31/war-in-afghanistan-hamid-karzai-the-president-of-afghanistan-reacts-to-the-deaths-of-9-civilians-in-a-nato-air-strike-by-telling-the-org.md) _2018-02-06 13:49:22 (First version)_
 1. [Hamid Karzai, the President of Afghanistan, reacts to the deaths of 9 civilians in a NATO air strike by telling the organization that attacks on insurgents in Afghan homes is "not allowed". ](/news/2011/05/31/hamid-karzai-the-president-of-afghanistan-reacts-to-the-deaths-of-9-civilians-in-a-nato-air-strike-by-telling-the-organization-that-attack.md) _(Current version)_
 
 ### Related:

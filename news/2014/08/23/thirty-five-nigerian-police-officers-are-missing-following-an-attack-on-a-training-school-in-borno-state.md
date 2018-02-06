@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/23/thirty-five-nigerian-police-officers-are-missin
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/islamist-insurgency-in-nigeria-thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md) _2017-08-27 03:41:11 (First version)_
+1. [Islamist insurgency in Nigeria: Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/islamist-insurgency-in-nigeria-thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md) _2018-02-06 13:49:26 (First version)_
 1. [Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahm
 
 ### Changes:
 
-1. [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of ''Innocence of Muslims''. The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-o.md) _2017-08-25 03:36:34 (First version)_
+1. [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of ''Innocence of Muslims''. The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-o.md) _2018-02-06 13:49:23 (First version)_
 1. [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of "Innocence of Muslims". The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-of.md) _(Current version)_
 
 ### Related:

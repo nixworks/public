@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-
 
 ### Changes:
 
-1. [European migrant crisis: Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/european-migrant-crisis-approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-islan.md) _2017-08-27 03:48:36 (First version)_
+1. [European migrant crisis: Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/european-migrant-crisis-approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-islan.md) _2018-02-06 13:49:31 (First version)_
 1. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _(Current version)_
 
 ### Related:

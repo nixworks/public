@@ -17,8 +17,8 @@ Five soldiers from Niger and three U.S. Army Special Forces troops were killed a
 
 ### Changes:
 
-1. [An apparent ambush in Niger near the Malian border leaves three United States Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-united-states-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-pa.md) _2017-10-05 03:57:14 (First version)_
-2. [An apparent ambush in Niger near the Malian border leaves three U.S. Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-patrol.md) _2017-10-05 08:30:07 (Update)_
+1. [An apparent ambush in Niger near the Malian border leaves three United States Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-united-states-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-pa.md) _2018-02-06 13:49:31 (First version)_
+2. [An apparent ambush in Niger near the Malian border leaves three U.S. Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-patrol.md) _2018-02-06 13:49:31 (Update)_
 2. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _(Current version)_
 
 ### Related:

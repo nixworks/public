@@ -18,7 +18,7 @@ A earthquake measuring magnitude-6.6 strikes in central Italy on Sunday, the Uni
 
 ### Changes:
 
-1. [October 2016 Central Italy earthquakes: A 6.6 magnitude earthquake occurs in Central Italy 68 kilometres east southeast of Perugia. Many buildings are reported as having been destroyed. ](/news/2016/10/30/october-2016-central-italy-earthquakes-a-6-6-magnitude-earthquake-occurs-in-central-italy-68-kilometres-east-southeast-of-perugia-many-bui.md) _2017-08-27 03:47:09 (First version)_
+1. [October 2016 Central Italy earthquakes: A 6.6 magnitude earthquake occurs in Central Italy 68 kilometres east southeast of Perugia. Many buildings are reported as having been destroyed. ](/news/2016/10/30/october-2016-central-italy-earthquakes-a-6-6-magnitude-earthquake-occurs-in-central-italy-68-kilometres-east-southeast-of-perugia-many-bui.md) _2018-02-06 13:49:29 (First version)_
 1. [A 6.6 magnitude earthquake occurs in Central Italy 68 kilometres east southeast of Perugia. Many buildings are reported as having been destroyed. ](/news/2016/10/30/a-6-6-magnitude-earthquake-occurs-in-central-italy-68-kilometres-east-southeast-of-perugia-many-buildings-are-reported-as-having-been-destr.md) _(Current version)_
 
 ### Related:

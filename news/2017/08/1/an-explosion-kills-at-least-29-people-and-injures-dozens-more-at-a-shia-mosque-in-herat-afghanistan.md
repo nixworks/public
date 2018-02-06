@@ -16,8 +16,8 @@ An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 peop
 
 ### Changes:
 
-1. [An explosion kills at least 20 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-20-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _2017-08-01 22:30:05 (First version)_
-2. [War in Afghanistan (2015-present): An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/war-in-afghanistan-2015-present-an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _2017-08-27 03:48:45 (Update)_
+1. [War in Afghanistan (2015-present): An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/war-in-afghanistan-2015-present-an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _2018-02-06 13:49:31 (First version)_
+2. [An explosion kills at least 20 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-20-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _2018-02-06 13:49:31 (Update)_
 2. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _(Current version)_
 
 ### Related:

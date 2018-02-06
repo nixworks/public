@@ -17,8 +17,8 @@ SYDNEY (AFP) - Indonesia has told Australia that most of the migrants stranded a
 
 ### Changes:
 
-1. [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-a.md) _2017-08-25 03:42:04 (First version)_
-2. [ Rohingya refugee crisis: Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/rohingya-refugee-crisis-julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have.md) _2017-08-27 03:42:22 (Update)_
+1. [ Rohingya refugee crisis: Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/rohingya-refugee-crisis-julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have.md) _2018-02-06 13:49:27 (First version)_
+2. [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-a.md) _2018-02-06 13:49:27 (Update)_
 2. [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-as.md) _(Current version)_
 
 ### Related:

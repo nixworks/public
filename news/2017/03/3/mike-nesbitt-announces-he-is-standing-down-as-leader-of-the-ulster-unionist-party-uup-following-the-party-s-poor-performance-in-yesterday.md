@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/3/mike-nesbitt-announces-he-is-standing-down-as-le
 
 ### Changes:
 
-1. [Northern Ireland Assembly election, 2017: Mike Nesbitt announces he is standing down as leader of the Ulster Unionist Party (UUP) following the party's poor performance in yesterday's Northern Ireland Assembly election. ](/news/2017/03/3/northern-ireland-assembly-election-2017-mike-nesbitt-announces-he-is-standing-down-as-leader-of-the-ulster-unionist-party-uup-following.md) _2017-08-27 03:47:56 (First version)_
+1. [Northern Ireland Assembly election, 2017: Mike Nesbitt announces he is standing down as leader of the Ulster Unionist Party (UUP) following the party's poor performance in yesterday's Northern Ireland Assembly election. ](/news/2017/03/3/northern-ireland-assembly-election-2017-mike-nesbitt-announces-he-is-standing-down-as-leader-of-the-ulster-unionist-party-uup-following.md) _2018-02-06 13:49:30 (First version)_
 1. [Mike Nesbitt announces he is standing down as leader of the Ulster Unionist Party (UUP) following the party's poor performance in yesterday's Northern Ireland Assembly election. ](/news/2017/03/3/mike-nesbitt-announces-he-is-standing-down-as-leader-of-the-ulster-unionist-party-uup-following-the-party-s-poor-performance-in-yesterday.md) _(Current version)_
 
 ### Related:

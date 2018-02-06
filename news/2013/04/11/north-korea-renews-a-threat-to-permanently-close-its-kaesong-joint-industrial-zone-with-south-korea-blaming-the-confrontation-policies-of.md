@@ -18,8 +18,8 @@ A powerful US military sea-based radar is now in place to detect any possible mi
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/2013-korean-crisis-pnorth-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confro.md) _2017-08-25 03:38:17 (First version)_
-2. [2013 Korean crisis:: North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/2013-korean-crisis-north-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confr.md) _2017-08-27 03:38:28 (Update)_
+1. [2013 Korean crisis:North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/2013-korean-crisis-pnorth-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confro.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/2013-korean-crisis-north-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confr.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/north-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confrontation-policies-of.md) _(Current version)_
 
 ### Related:

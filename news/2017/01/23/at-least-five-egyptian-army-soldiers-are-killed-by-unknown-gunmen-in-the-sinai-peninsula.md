@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed
 
 ### Changes:
 
-1. [Sinai insurgency: At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/sinai-insurgency-at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _2017-08-27 03:47:39 (First version)_
+1. [Sinai insurgency: At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/sinai-insurgency-at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _2018-02-06 13:49:30 (First version)_
 1. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _(Current version)_
 
 ### Related:

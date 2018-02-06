@@ -16,7 +16,7 @@ The WHA will hold a tournament at the home of the Vancouver Canucks and may land
 
 ### Changes:
 
-1. [ The World Hockey Association announces that a six-team tournament, the ''"Bobby Hull Invitational"'', will take place in May 2005 in Vancouver, British Columbia, Canada. ](/news/2005/03/22/the-world-hockey-association-announces-that-a-six-team-tournament-the-bobby-hull-invitational-will-take-place-in-may-2005-in-vancou.md) _2017-08-25 03:15:50 (First version)_
+1. [ The World Hockey Association announces that a six-team tournament, the ''"Bobby Hull Invitational"'', will take place in May 2005 in Vancouver, British Columbia, Canada. ](/news/2005/03/22/the-world-hockey-association-announces-that-a-six-team-tournament-the-bobby-hull-invitational-will-take-place-in-may-2005-in-vancou.md) _2018-02-06 13:49:16 (First version)_
 1. [ The World Hockey Association announces that a six-team tournament, the ""Bobby Hull Invitational"", will take place in May 2005 in Vancouver, British Columbia, Canada. ](/news/2005/03/22/the-world-hockey-association-announces-that-a-six-team-tournament-the-bobby-hull-invitational-will-take-place-in-may-2005-in-vancouve.md) _(Current version)_
 
 ### Related:

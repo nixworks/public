@@ -16,7 +16,7 @@ Islamist fighters in the Fajr Libya (Libyan Dawn) coalition said on Saturday the
 
 ### Changes:
 
-1. [2014 Libyan conflict: Warplanes of an unknown nationality bomb Islamist forces, killing ten fighters. ](/news/2014/08/23/2014-libyan-conflict-warplanes-of-an-unknown-nationality-bomb-islamist-forces-killing-ten-fighters.md) _2017-08-27 03:41:11 (First version)_
+1. [2014 Libyan conflict: Warplanes of an unknown nationality bomb Islamist forces, killing ten fighters. ](/news/2014/08/23/2014-libyan-conflict-warplanes-of-an-unknown-nationality-bomb-islamist-forces-killing-ten-fighters.md) _2018-02-06 13:49:26 (First version)_
 1. [Warplanes of an unknown nationality bomb Islamist forces, killing ten fighters. ](/news/2014/08/23/warplanes-of-an-unknown-nationality-bomb-islamist-forces-killing-ten-fighters.md) _(Current version)_
 
 ### Related:

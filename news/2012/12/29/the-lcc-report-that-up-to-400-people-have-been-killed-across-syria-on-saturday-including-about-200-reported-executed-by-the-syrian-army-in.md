@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/12/29/the-lcc-report-that-up-to-400-people-have-been-
 
 ### Changes:
 
-1. [Syrian civil war:The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/syrian-civil-war-pthe-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-t.md) _2017-08-25 03:37:09 (First version)_
-2. [Syrian civil war:: The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/syrian-civil-war-the-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by.md) _2017-08-27 03:37:20 (Update)_
+1. [Syrian civil war:: The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/syrian-civil-war-the-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/syrian-civil-war-pthe-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-t.md) _2018-02-06 13:49:24 (Update)_
 2. [The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/the-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-the-syrian-army-in.md) _(Current version)_
 
 ### Related:

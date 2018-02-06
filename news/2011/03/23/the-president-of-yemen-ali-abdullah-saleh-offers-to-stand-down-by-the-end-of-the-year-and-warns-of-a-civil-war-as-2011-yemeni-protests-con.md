@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/03/23/the-president-of-yemen-ali-abdullah-saleh-offer
 
 ### Changes:
 
-1. [2011 Yemeni protests: The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-20.md) _2017-08-27 03:32:46 (First version)_
+1. [2011 Yemeni protests: The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-20.md) _2018-02-06 13:49:22 (First version)_
 1. [The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-2011-yemeni-protests-con.md) _(Current version)_
 
 ### Related:

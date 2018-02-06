@@ -17,7 +17,7 @@ Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled so
 
 ### Changes:
 
-1. [Afghanistan: 7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/afghanistan-7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md) _2017-08-27 03:29:48 (First version)_
+1. [Afghanistan: 7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/afghanistan-7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md) _2018-02-06 13:49:20 (First version)_
 1. [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md) _(Current version)_
 
 ### Related:

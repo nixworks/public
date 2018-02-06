@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/01/21/british-prime-minister-david-cameron-s-communic
 
 ### Changes:
 
-1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the ''News of the World'' phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-w.md) _2017-08-25 03:31:52 (First version)_
+1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the ''News of the World'' phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-w.md) _2018-02-06 13:49:21 (First version)_
 1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the "News of the World" phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.md) _(Current version)_
 
 ### Related:

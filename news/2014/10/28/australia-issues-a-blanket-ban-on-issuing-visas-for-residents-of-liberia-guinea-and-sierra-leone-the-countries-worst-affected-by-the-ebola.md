@@ -16,7 +16,7 @@ Australia came under fire on Tuesday from health experts and rights advocates af
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/ebola-virus-epidemic-in-west-africa-australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the.md) _2017-08-27 03:41:26 (First version)_
+1. [Ebola virus epidemic in West Africa: Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/ebola-virus-epidemic-in-west-africa-australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the.md) _2018-02-06 13:49:26 (First version)_
 1. [Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the-countries-worst-affected-by-the-ebola.md) _(Current version)_
 
 ### Related:

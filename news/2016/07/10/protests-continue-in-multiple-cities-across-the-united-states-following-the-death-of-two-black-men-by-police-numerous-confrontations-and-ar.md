@@ -16,7 +16,7 @@ Protests against the shootings of two black men by police officers shut down mai
 
 ### Changes:
 
-1. [Shooting of Alton Sterling and Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. ](/news/2016/07/10/shooting-of-alton-sterling-and-protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police.md) _2017-08-25 03:46:06 (First version)_
+1. [Shooting of Alton Sterling and Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. ](/news/2016/07/10/shooting-of-alton-sterling-and-protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police.md) _2018-02-06 13:49:29 (First version)_
 1. [Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. ](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.md) _(Current version)_
 
 ### Related:

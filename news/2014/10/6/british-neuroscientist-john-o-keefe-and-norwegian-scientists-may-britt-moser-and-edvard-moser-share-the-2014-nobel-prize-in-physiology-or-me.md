@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/6/british-neuroscientist-john-o-keefe-and-norwegia
 
 ### Changes:
 
-1. [Nobel Prize in Physiology or Medicine: British neuroscientist John O'Keefe and Norwegian scientists May-Britt Moser and Edvard Moser share the 2014 Nobel Prize in Physiology or Medicine. ](/news/2014/10/6/nobel-prize-in-physiology-or-medicine-british-neuroscientist-john-o-keefe-and-norwegian-scientists-may-britt-moser-and-edvard-moser-share-t.md) _2017-08-27 03:41:22 (First version)_
+1. [Nobel Prize in Physiology or Medicine: British neuroscientist John O'Keefe and Norwegian scientists May-Britt Moser and Edvard Moser share the 2014 Nobel Prize in Physiology or Medicine. ](/news/2014/10/6/nobel-prize-in-physiology-or-medicine-british-neuroscientist-john-o-keefe-and-norwegian-scientists-may-britt-moser-and-edvard-moser-share-t.md) _2018-02-06 13:49:26 (First version)_
 1. [British neuroscientist John O'Keefe and Norwegian scientists May-Britt Moser and Edvard Moser share the 2014 Nobel Prize in Physiology or Medicine. ](/news/2014/10/6/british-neuroscientist-john-o-keefe-and-norwegian-scientists-may-britt-moser-and-edvard-moser-share-the-2014-nobel-prize-in-physiology-or-me.md) _(Current version)_
 
 ### Related:

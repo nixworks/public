@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/03/7/armed-men-ndash-thought-to-be-russian-ndash-atte
 
 ### Changes:
 
-1. [2014 Crimean crisis:Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/2014-crimean-crisis-parmed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing-s.md) _2017-08-25 03:40:08 (First version)_
-2. [2014 Crimean crisis:: Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/2014-crimean-crisis-armed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing.md) _2017-08-27 03:40:26 (Update)_
+1. [2014 Crimean crisis:Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/2014-crimean-crisis-parmed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing-s.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:: Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/2014-crimean-crisis-armed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing.md) _2018-02-06 13:49:26 (Update)_
 2. [Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/armed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing-soon-afterwards.md) _(Current version)_
 
 ### Related:

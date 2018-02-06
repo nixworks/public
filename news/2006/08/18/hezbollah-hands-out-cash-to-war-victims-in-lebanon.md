@@ -20,8 +20,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Hezbollah hands out cash to war victims in Lebanon. ](/news/2006/08/18/2006-israel-lebanon-conflict-p-hezbollah-hands-out-cash-to-war-victims-in-lebanon.md) _2017-08-25 03:18:13 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Hezbollah hands out cash to war victims in Lebanon. ](/news/2006/08/18/2006-israel-lebanon-conflict-hezbollah-hands-out-cash-to-war-victims-in-lebanon.md) _2017-08-27 03:18:09 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Hezbollah hands out cash to war victims in Lebanon. ](/news/2006/08/18/2006-israel-lebanon-conflict-p-hezbollah-hands-out-cash-to-war-victims-in-lebanon.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Hezbollah hands out cash to war victims in Lebanon. ](/news/2006/08/18/2006-israel-lebanon-conflict-hezbollah-hands-out-cash-to-war-victims-in-lebanon.md) _2018-02-06 13:49:17 (Update)_
 2. [ Hezbollah hands out cash to war victims in Lebanon. ](/news/2006/08/18/hezbollah-hands-out-cash-to-war-victims-in-lebanon.md) _(Current version)_
 
 ### Related:

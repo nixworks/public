@@ -16,8 +16,8 @@ Two people in Egypt are fatally shot in dawn clashes between protesters and poli
 
 ### Changes:
 
-1. [2012-2013 Egyptian protests:Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/2012a2013-egyptian-protests-ptwo-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md) _2017-08-25 03:37:23 (First version)_
-2. [2012-2013 Egyptian protests:: Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/2012-2013-egyptian-protests-two-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md) _2017-08-27 03:37:33 (Update)_
+1. [2012-2013 Egyptian protests:Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/2012a2013-egyptian-protests-ptwo-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Egyptian protests:: Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/2012-2013-egyptian-protests-two-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md) _2018-02-06 13:49:24 (Update)_
 2. [Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/two-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md) _(Current version)_
 
 ### Related:

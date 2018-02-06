@@ -16,8 +16,8 @@ Dozens of people have been killed in air strikes on the northern Syrian city of 
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian Air Force air strikes in Aleppo, Syria, killing dozens of people; 14 others are killed by barrel bombing in the neighborhood of Baeedeen. ](/news/2014/04/21/syrian-civil-war-psyrian-air-force-air-strikes-in-aleppo-syria-killing-dozens-of-people-14-others-are-killed-by-barrel-bombing-in-the-nei.md) _2017-08-25 03:40:19 (First version)_
-2. [Syrian Civil War:: Syrian Air Force air strikes in Aleppo, Syria, killing dozens of people; 14 others are killed by barrel bombing in the neighborhood of Baeedeen. ](/news/2014/04/21/syrian-civil-war-syrian-air-force-air-strikes-in-aleppo-syria-killing-dozens-of-people-14-others-are-killed-by-barrel-bombing-in-the-ne.md) _2017-08-27 03:40:37 (Update)_
+1. [Syrian Civil War:: Syrian Air Force air strikes in Aleppo, Syria, killing dozens of people; 14 others are killed by barrel bombing in the neighborhood of Baeedeen. ](/news/2014/04/21/syrian-civil-war-syrian-air-force-air-strikes-in-aleppo-syria-killing-dozens-of-people-14-others-are-killed-by-barrel-bombing-in-the-ne.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:Syrian Air Force air strikes in Aleppo, Syria, killing dozens of people; 14 others are killed by barrel bombing in the neighborhood of Baeedeen. ](/news/2014/04/21/syrian-civil-war-psyrian-air-force-air-strikes-in-aleppo-syria-killing-dozens-of-people-14-others-are-killed-by-barrel-bombing-in-the-nei.md) _2018-02-06 13:49:26 (Update)_
 2. [Syrian Air Force air strikes in Aleppo, Syria, killing dozens of people; 14 others are killed by barrel bombing in the neighborhood of Baeedeen. ](/news/2014/04/21/syrian-air-force-air-strikes-in-aleppo-syria-killing-dozens-of-people-14-others-are-killed-by-barrel-bombing-in-the-neighborhood-of-baeed.md) _(Current version)_
 
 ### Related:

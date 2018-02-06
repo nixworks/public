@@ -16,8 +16,8 @@ At least 42 people are shot dead outside an army barracks in Cairo where support
 
 ### Changes:
 
-1. [Aftermath of the 2013 Egyptian coup d'etat:At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-pat-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-suppo.md) _2017-08-25 03:38:58 (First version)_
-2. [Aftermath of the 2013 Egyptian coup d'etat:: At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-at-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-supp.md) _2017-08-27 03:39:13 (Update)_
+1. [Aftermath of the 2013 Egyptian coup d'etat:At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-pat-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-suppo.md) _2018-02-06 13:49:25 (First version)_
+2. [Aftermath of the 2013 Egyptian coup d'etat:: At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-at-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-supp.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 42 people have been killed and hundreds injured after the Army raids a sit-in by supporters of former President Mohamed Morsi in the Nasr City district of Cairo. ](/news/2013/07/8/at-least-42-people-have-been-killed-and-hundreds-injured-after-the-army-raids-a-sit-in-by-supporters-of-former-president-mohamed-morsi-in-th.md) _(Current version)_
 
 ### Related:

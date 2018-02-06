@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ Mannheim, Germany-Ernst Zundel, a German white supremacist extradited from Canada on accusations he repeatedly denied the Holocaust, returned to court Thursday to face charges of incitement, libel and disparaging the dead. ](/news/2006/02/9/mannheim-germany-ernst-za1-4ndel-a-german-white-supremacist-extradited-from-canada-on-accusations-he-repeatedly-denied-the-holocaust-ret.md) _2017-08-27 03:17:26 (First version)_
+1. [ Mannheim, Germany-Ernst Zundel, a German white supremacist extradited from Canada on accusations he repeatedly denied the Holocaust, returned to court Thursday to face charges of incitement, libel and disparaging the dead. ](/news/2006/02/9/mannheim-germany-ernst-za1-4ndel-a-german-white-supremacist-extradited-from-canada-on-accusations-he-repeatedly-denied-the-holocaust-ret.md) _2018-02-06 13:49:17 (First version)_
 1. [ Mannheim, Germany--Ernst Zundel, a German white supremacist extradited from Canada on accusations he repeatedly denied the Holocaust, returned to court Thursday to face charges of incitement, libel and disparaging the dead. ](/news/2006/02/9/mannheim-germanyaernst-za1-4ndel-a-german-white-supremacist-extradited-from-canada-on-accusations-he-repeatedly-denied-the-holocaust-ret.md) _(Current version)_
 
 ### Related:

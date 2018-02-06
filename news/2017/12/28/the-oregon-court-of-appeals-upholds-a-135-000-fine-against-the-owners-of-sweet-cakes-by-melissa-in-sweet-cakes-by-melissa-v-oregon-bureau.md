@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-f
 
 ### Changes:
 
-1. [The Oregon Court of Appeals upholds a $135,000 fine against the Sweet Cakes by Melissa Christian owners for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-sweet-cakes-by-melissa-christian-owners-for-refusing-to-make-a-wedding-cake.md) _2017-12-29 16:30:05 (First version)_
+1. [The Oregon Court of Appeals upholds a $135,000 fine against the Sweet Cakes by Melissa Christian owners for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-sweet-cakes-by-melissa-christian-owners-for-refusing-to-make-a-wedding-cake.md) _2018-02-06 13:49:31 (First version)_
 1. [The Oregon Court of Appeals upholds a $135,000 fine against the owners of Sweet Cakes by Melissa in "Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries" for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-owners-of-sweet-cakes-by-melissa-in-sweet-cakes-by-melissa-v-oregon-bureau.md) _(Current version)_
 
 ### Related:

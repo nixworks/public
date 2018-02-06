@@ -16,7 +16,7 @@ A Scottish newspaper names a footballer accused of being linked to a privacy inj
 
 ### Changes:
 
-1. [Scottish newspaper ''The Sunday Herald'' names a footballer accused of being linked to a privacy superinjunction by users of social networking website Twitter, arguing that the injunction is only enforceable under English law and does not apply in Scots law. ](/news/2011/05/22/scottish-newspaper-the-sunday-herald-names-a-footballer-accused-of-being-linked-to-a-privacy-superinjunction-by-users-of-social-networki.md) _2017-08-25 03:33:13 (First version)_
+1. [Scottish newspaper ''The Sunday Herald'' names a footballer accused of being linked to a privacy superinjunction by users of social networking website Twitter, arguing that the injunction is only enforceable under English law and does not apply in Scots law. ](/news/2011/05/22/scottish-newspaper-the-sunday-herald-names-a-footballer-accused-of-being-linked-to-a-privacy-superinjunction-by-users-of-social-networki.md) _2018-02-06 13:49:22 (First version)_
 1. [Scottish newspaper "The Sunday Herald" names a footballer accused of being linked to a privacy superinjunction by users of social networking website Twitter, arguing that the injunction is only enforceable under English law and does not apply in Scots law. ](/news/2011/05/22/scottish-newspaper-the-sunday-herald-names-a-footballer-accused-of-being-linked-to-a-privacy-superinjunction-by-users-of-social-networking.md) _(Current version)_
 
 ### Related:

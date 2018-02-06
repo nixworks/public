@@ -9,7 +9,7 @@ The biggest leak of military records in US history, released by Wikileaks, shows
 
 ##### Kirovohrad
 ### [Three bombs explode in front of government offices in Kirovohrad, Ukraine, ahead of a visit by President Viktor Yanukovych. ](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.md)
-_Context: Ukraine, Viktor Yanukovych, Kirovohrad_
+_Context: Kirovohrad, Ukraine, Viktor Yanukovych_
 
 ##### Indonesia
 ### [Indonesia admits that the men seen torturing Papuan villagers in a video were soldiers of the Indonesian National Armed Forces. ](/news/2010/10/22/indonesia-admits-that-the-men-seen-torturing-papuan-villagers-in-a-video-were-soldiers-of-the-indonesian-national-armed-forces.md)
@@ -25,7 +25,7 @@ At least 3 people were killed and 22 others sustained severe injuries when a hom
 
 ##### Islam
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Somalia, Kenya, Islam, Beled-Hawa_
+_Context: Beled-Hawa, Kenya, Islam, Somalia_
 
 ##### Iran
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
@@ -33,7 +33,7 @@ _Context: Italy, Iran, International Religions Today Film Festival_
 
 ##### National Film Awards
 ### [Fifty-seventh National Film Awards given away by President Pratibha Patel in New Delhi. ](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.md)
-_Context: National Film Awards, New Delhi, Pratibha Patel_
+_Context: Pratibha Patel, New Delhi, National Film Awards_
 
 ##### Chile
 ### [Chilean writer and social critic Pablo Huneeus registers the copyright in "Estamos bien en el refugio los 33" on behalf of the man who wrote it. ](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.md)
@@ -45,7 +45,7 @@ Clashes break out outside a major oil refinery in France after riot police move 
 
 ##### Premier
 ### [The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. ](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.md)
-_Context: Brad Wall, BHP Billiton, Premier, Potash Corporation of Saskatchewan, Canadian government, takeover_
+_Context: Brad Wall, BHP Billiton, Canadian government, takeover, Potash Corporation of Saskatchewan, Premier_
 
 ##### China
 ### [China's urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-september.md)
@@ -57,7 +57,7 @@ Nearly half of U.S. states reported drops in their unemployment rates last month
 
 ##### Haiti
 ### [The Haitian Health Ministry informs the World Health Organisation of a cholera outbreak north of Port-au-Prince; at least 150 people have been killed. ](/news/2010/10/22/the-haitian-health-ministry-informs-the-world-health-organisation-of-a-cholera-outbreak-north-of-port-au-prince-at-least-150-people-have-be.md)
-_Context: cholera outbreak, World Health Organisation, Haiti, Port-au-Prince_
+_Context: cholera outbreak, Port-au-Prince, World Health Organisation, Haiti_
 
 ##### Uganda
 ### [An outbreak of jiggers, a rotting disease, kills 20 people in Uganda and sickens a further 20,000. ](/news/2010/10/22/an-outbreak-of-jiggers-a-rotting-disease-kills-20-people-in-uganda-and-sickens-a-further-20-000.md)
@@ -65,15 +65,15 @@ _Context: Uganda_
 
 ##### United Nations Secretary-General
 ### [Secretary-General of the United Nations Ban Ki-moon warns that North Korea is headed for a "chronic" food crisis with droughts and floods in various parts of the country. ](/news/2010/10/22/secretary-general-of-the-united-nations-ban-ki-moon-warns-that-north-korea-is-headed-for-a-chronic-food-crisis-with-droughts-and-floods-in.md)
-_Context: drought, United Nations Secretary-General, Ban Ki-moon, flood, North Korea_
+_Context: North Korea, flood, drought, United Nations Secretary-General, Ban Ki-moon_
 
 ##### Typhoon Megi
 ### [Typhoon Megi kills 7 people and leaves 23 missing after triggering landslides in Taiwan. ](/news/2010/10/22/typhoon-megi-kills-7-people-and-leaves-23-missing-after-triggering-landslides-in-taiwan.md)
-_Context: Taiwan, Typhoon Megi_
+_Context: Typhoon Megi, Taiwan_
 
 ##### Cyclone Giri
 ### [Cyclone Giri, which rapidly intensified with winds of 144mph, makes landfall in western Burma. ](/news/2010/10/22/cyclone-giri-which-rapidly-intensified-with-winds-of-144mph-makes-landfall-in-western-burma.md)
-_Context: Burma, Cyclone Giri_
+_Context: Cyclone Giri, Burma_
 
 ##### Forest fire
 ### [Forest fires in Sumatra, Indonesia, cause a thick haze to drift over Singapore. ](/news/2010/10/22/forest-fires-in-sumatra-indonesia-cause-a-thick-haze-to-drift-over-singapore.md)
@@ -99,7 +99,7 @@ Three South Koreans, including a medical doctor, are being investigated after al
 ### [Several people are attacked in Uganda after a newspaper publishes the names and addresses of homosexuals. ](/news/2010/10/22/several-people-are-attacked-in-uganda-after-a-newspaper-publishes-the-names-and-addresses-of-homosexuals.md)
 Several people have been attacked in Uganda after a newspaper printed their names and photos, saying they were homosexual, an activist tells the BBC.
 
-##### British
+##### United Kingdom
 ### [Files on the death of British biological weapons inspector David Kelly, which had previously been kept secret by the British government for 7 years, are released, stating that his wounds were typical of "self-inflicted injury". ](/news/2010/10/22/files-on-the-death-of-british-biological-weapons-inspector-david-kelly-which-had-previously-been-kept-secret-by-the-british-government-for.md)
 Wounds to the body of weapons inspector David Kelly were &#039;&#039;typical of self-inflicted injury&#039;&#039;, according to previously secret medical documents released today.
 

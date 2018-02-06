@@ -18,7 +18,7 @@ A suicide bomber targets a Kabul auditorium packed with people watching a drama 
 
 ### Changes:
 
-1. [Taliban insurgency: A Taliban suicide bomber kills at least six Afghan National Army soldiers in Tangi Tarakhil on the outskirts of Kabul. ](/news/2014/12/11/taliban-insurgency-a-taliban-suicide-bomber-kills-at-least-six-afghan-national-army-soldiers-in-tangi-tarakhil-on-the-outskirts-of-kabul.md) _2017-08-27 03:41:37 (First version)_
+1. [Taliban insurgency: A Taliban suicide bomber kills at least six Afghan National Army soldiers in Tangi Tarakhil on the outskirts of Kabul. ](/news/2014/12/11/taliban-insurgency-a-taliban-suicide-bomber-kills-at-least-six-afghan-national-army-soldiers-in-tangi-tarakhil-on-the-outskirts-of-kabul.md) _2018-02-06 13:49:26 (First version)_
 1. [A Taliban suicide bomber kills at least six Afghan National Army soldiers in Tangi Tarakhil on the outskirts of Kabul. ](/news/2014/12/11/a-taliban-suicide-bomber-kills-at-least-six-afghan-national-army-soldiers-in-tangi-tarakhil-on-the-outskirts-of-kabul.md) _(Current version)_
 
 ### Related:

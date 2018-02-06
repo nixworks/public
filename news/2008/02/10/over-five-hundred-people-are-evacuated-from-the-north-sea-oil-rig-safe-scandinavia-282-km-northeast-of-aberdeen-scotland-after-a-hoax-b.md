@@ -16,9 +16,9 @@ Personnel are understood to be returning to a North Sea oil rig after a security
 
 ### Changes:
 
-1. [ Over five hundred people are evacuated from the North Sea oil rig ''Safe Scandinavia'', {{convert|282|km|mi}} northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-convert-282-km-mi-northeast-of-aberdeen-scotla.md) _2017-05-01 03:22:39 (First version)_
-2. [ Over five hundred people are evacuated from the North Sea oil rig ''Safe Scandinavia'', 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-h.md) _2017-08-25 03:21:45 (Update)_
-3. [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-hoa.md) _2017-08-29 03:21:50 (Update)_
+1. [ Over five hundred people are evacuated from the North Sea oil rig ''Safe Scandinavia'', {{convert|282|km|mi}} northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-convert-282-km-mi-northeast-of-aberdeen-scotla.md) _2018-02-06 13:49:18 (First version)_
+2. [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-hoa.md) _2018-02-06 13:49:18 (Update)_
+3. [ Over five hundred people are evacuated from the North Sea oil rig ''Safe Scandinavia'', 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-h.md) _2018-02-06 13:49:18 (Update)_
 3. [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282 km northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-northeast-of-aberdeen-scotland-after-a-hoax-b.md) _(Current version)_
 
 ### Related:

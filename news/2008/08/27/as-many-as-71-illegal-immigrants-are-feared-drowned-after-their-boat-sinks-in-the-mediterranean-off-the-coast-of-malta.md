@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-dro
 
 ### Changes:
 
-1. [ As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean Sea off the coast of Malta. ](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-drowned-after-their-boat-sinks-in-the-mediterranean-sea-off-the-coast-of-malta.md) _2017-09-24 03:25:29 (First version)_
+1. [ As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean Sea off the coast of Malta. ](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-drowned-after-their-boat-sinks-in-the-mediterranean-sea-off-the-coast-of-malta.md) _2018-02-06 13:49:18 (First version)_
 1. [ As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean off the coast of Malta. ](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-drowned-after-their-boat-sinks-in-the-mediterranean-off-the-coast-of-malta.md) _(Current version)_
 
 ### Related:

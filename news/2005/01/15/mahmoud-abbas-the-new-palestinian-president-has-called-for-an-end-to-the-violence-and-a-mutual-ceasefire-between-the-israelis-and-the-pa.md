@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/01/15/mahmoud-abbas-the-new-palestinian-president-has
 
 ### Changes:
 
-1. [ Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-between-the-israelis-and-the-p.md) _2017-08-25 03:15:31 (First version)_
-2. [ Israeli-Palestinian Conflict: Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/israeli-palestinian-conflict-mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-b.md) _2017-08-27 03:15:33 (Update)_
+1. [ Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-between-the-israelis-and-the-p.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict: Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/israeli-palestinian-conflict-mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-b.md) _2018-02-06 13:49:16 (Update)_
 2. [ Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-between-the-israelis-and-the-pa.md) _(Current version)_
 
 ### Related:

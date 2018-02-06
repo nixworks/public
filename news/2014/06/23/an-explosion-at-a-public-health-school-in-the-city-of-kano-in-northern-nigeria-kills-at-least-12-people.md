@@ -16,8 +16,8 @@ An explosion hits a college in the northern Nigerian city of Kano, killing at le
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-pan-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md) _2017-08-25 03:40:35 (First version)_
-2. [Islamist insurgency in Nigeria:: An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md) _2017-08-27 03:40:53 (Update)_
+1. [Islamist insurgency in Nigeria:An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-pan-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md) _2018-02-06 13:49:26 (Update)_
 2. [An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md) _(Current version)_
 
 ### Related:

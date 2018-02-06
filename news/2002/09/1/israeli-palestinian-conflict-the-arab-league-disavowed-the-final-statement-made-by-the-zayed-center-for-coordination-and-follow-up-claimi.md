@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/09/1/israeli-palestinian-conflict-the-arab-league-dis
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: The Arab League disavowed the final statement made by the Zayed Center for Coordination and Follow-Up, claiming that they adhere to a policy of supporting Israel's right to exist within pre-1967 borders, and restating that the conflict in the Middle East is between Palestinians and Israelis, not all Jews.](/news/2002/09/1/israeli-palestinian-conflict-the-arab-league-disavowed-the-final-statement-made-by-the-zayed-center-for-coordination-and-follow-up-claim.md) _2017-08-25 03:15:14 (First version)_
+1. [ Israeli-Palestinian conflict: The Arab League disavowed the final statement made by the Zayed Center for Coordination and Follow-Up, claiming that they adhere to a policy of supporting Israel's right to exist within pre-1967 borders, and restating that the conflict in the Middle East is between Palestinians and Israelis, not all Jews.](/news/2002/09/1/israeli-palestinian-conflict-the-arab-league-disavowed-the-final-statement-made-by-the-zayed-center-for-coordination-and-follow-up-claim.md) _2018-02-06 13:49:15 (First version)_
 1. [ Israeli-Palestinian conflict: The Arab League disavowed the final statement made by the Zayed Center for Coordination and Follow-Up, claiming that they adhere to a policy of supporting Israel's right to exist within pre-1967 borders, and restating that the conflict in the Middle East is between Palestinians and Israelis, not all Jews.](/news/2002/09/1/israeli-palestinian-conflict-the-arab-league-disavowed-the-final-statement-made-by-the-zayed-center-for-coordination-and-follow-up-claimi.md) _(Current version)_
 
 ### Related:

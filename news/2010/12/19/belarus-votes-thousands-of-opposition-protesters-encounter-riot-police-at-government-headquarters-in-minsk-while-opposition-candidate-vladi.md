@@ -19,8 +19,8 @@ Thousands of opposition protesters in Belarus try to storm the main government b
 
 ### Changes:
 
-1. [Belarusian presidential election, 2010:Belarus votes.Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-pbelarus-votes-pthousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters-i.md) _2017-08-25 03:31:26 (First version)_
-2. [Belarusian presidential election, 2010:: Belarus votes.: Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-belarus-votes-thousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters.md) _2017-08-27 03:31:34 (Update)_
+1. [Belarusian presidential election, 2010:Belarus votes.Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-pbelarus-votes-pthousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters-i.md) _2018-02-06 13:49:21 (First version)_
+2. [Belarusian presidential election, 2010:: Belarus votes.: Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-belarus-votes-thousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters.md) _2018-02-06 13:49:21 (Update)_
 2. [Belarus votes.Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarus-votes-thousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters-in-minsk-while-opposition-candidate-vladi.md) _(Current version)_
 
 ### Related:

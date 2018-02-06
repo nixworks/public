@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/6/a-bomb-detonates-in-a-tribal-elder-s-home-in-khy
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/war-in-north-west-pakistan-pa-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md) _2017-08-25 03:39:49 (First version)_
-2. [War in North-West Pakistan:: A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/war-in-north-west-pakistan-a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md) _2017-08-27 03:40:07 (Update)_
+1. [War in North-West Pakistan:A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/war-in-north-west-pakistan-pa-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/war-in-north-west-pakistan-a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md) _(Current version)_
 
 ### Related:

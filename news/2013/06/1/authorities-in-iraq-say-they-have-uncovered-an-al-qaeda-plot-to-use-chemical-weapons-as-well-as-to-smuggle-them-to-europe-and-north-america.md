@@ -18,7 +18,7 @@ The authorities in Iraq say they have uncovered an al-Qaeda plot to use chemical
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): Authorities in Iraq say they have uncovered an Al-Qaeda plot to use chemical weapons, as well as to smuggle them to Europe and North America. ](/news/2013/06/1/iraqi-insurgency-post-u-s-withdrawal-authorities-in-iraq-say-they-have-uncovered-an-al-qaeda-plot-to-use-chemical-weapons-as-well-as-to.md) _2017-08-27 03:38:59 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): Authorities in Iraq say they have uncovered an Al-Qaeda plot to use chemical weapons, as well as to smuggle them to Europe and North America. ](/news/2013/06/1/iraqi-insurgency-post-u-s-withdrawal-authorities-in-iraq-say-they-have-uncovered-an-al-qaeda-plot-to-use-chemical-weapons-as-well-as-to.md) _2018-02-06 13:49:25 (First version)_
 1. [Authorities in Iraq say they have uncovered an Al-Qaeda plot to use chemical weapons, as well as to smuggle them to Europe and North America. ](/news/2013/06/1/authorities-in-iraq-say-they-have-uncovered-an-al-qaeda-plot-to-use-chemical-weapons-as-well-as-to-smuggle-them-to-europe-and-north-america.md) _(Current version)_
 
 ### Related:

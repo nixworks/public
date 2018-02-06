@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/28/gunmen-from-the-islamist-group-boko-haram-kill-
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-pgunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md) _2017-08-25 03:39:20 (First version)_
-2. [Islamist insurgency in Nigeria:: Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-gunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md) _2017-08-27 03:39:37 (Update)_
+1. [Islamist insurgency in Nigeria:Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-pgunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-gunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/gunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md) _(Current version)_
 
 ### Related:

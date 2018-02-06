@@ -18,8 +18,8 @@ Bad weather is again obstructing efforts to get aid to the survivors of the Indo
 
 ### Changes:
 
-1. [Indonesian tsunamiThe death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunamipthe-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _2017-08-25 03:30:45 (First version)_
-2. [Indonesian tsunami: The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunami-the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _2017-08-27 03:30:51 (Update)_
+1. [Indonesian tsunamiThe death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunamipthe-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _2018-02-06 13:49:20 (First version)_
+2. [Indonesian tsunami: The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunami-the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _2018-02-06 13:49:20 (Update)_
 2. [The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling
 
 ### Changes:
 
-1. [The United States Supreme Court, in a 6-2 ruling written by Justice Anthony Kennedy, upholds the 8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-m.md) _2017-08-25 03:44:59 (First version)_
+1. [The United States Supreme Court, in a 6-2 ruling written by Justice Anthony Kennedy, upholds the 8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-m.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Supreme Court, in a 6-2 ruling written by Justice Anthony Kennedy, upholds the 8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-mil.md) _(Current version)_
 
 ### Related:

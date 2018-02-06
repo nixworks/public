@@ -17,7 +17,7 @@ A US aircraft carrier passes through the Strait of Hormuz for the second time in
 
 ##### Sudan
 ### [A Sudanese air strike hits the South Sudanese state of Unity, injuring four soldiers in a contested area. ](/news/2012/02/14/a-sudanese-air-strike-hits-the-south-sudanese-state-of-unity-injuring-four-soldiers-in-a-contested-area.md)
-_Context: Unity State, Sudan, South Sudan_
+_Context: South Sudan, Sudan, Unity State_
 
 ##### Thai Society
 ### [Two explosions are reported in the Thai capital Bangkok, injuring one Iranian man. ](/news/2012/02/14/two-explosions-are-reported-in-the-thai-capital-bangkok-injuring-one-iranian-man.md)
@@ -33,7 +33,7 @@ The first bronze statue of the late North Korean leader Kim Jong Il was unveiled
 
 ##### Wellesley College
 ### [Wellesley College and Baylor University publish love letters between English poets Robert Browning and Elizabeth Barrett online. ](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.md)
-_Context: Elizabeth Barrett, Wellesley College, Robert Browning, love letter, Baylor University, English_
+_Context: Wellesley College, English, Robert Browning, Baylor University, Elizabeth Barrett, love letter_
 
 ##### China
 ### [China issues new regulations on foreign television programmes being aired in the country - banning all imported programmes during prime time. ](/news/2012/02/14/china-issues-new-regulations-on-foreign-television-programmes-being-aired-in-the-country-banning-all-imported-programmes-during-prime-time.md)
@@ -41,7 +41,7 @@ A new set of regulations seek to restrict comedies, dramas and movies from abroa
 
 ##### U.S.
 ### [Authorities in the U.S. say that the recent mortgage settlement with the country's largest banks will provide $1 billion to the Federal Housing Administration, replenishing the FHA's badly depleted capital reserves. ](/news/2012/02/14/authorities-in-the-u-s-say-that-the-recent-mortgage-settlement-with-the-country-s-largest-banks-will-provide-1-billion-to-the-federal-hous.md)
-_Context: Federal Housing Administration, U.S., mortgage settlement_
+_Context: U.S., mortgage settlement, Federal Housing Administration_
 
 ##### Jean-Claude Juncker
 ### [Jean-Claude Juncker, the head of the Euro Group, cancels a meeting on Wednesday to discuss the Greek bailout stating that they are still seeking information from the Greek government. ](/news/2012/02/14/jean-claude-juncker-the-head-of-the-euro-group-cancels-a-meeting-on-wednesday-to-discuss-the-greek-bailout-stating-that-they-are-still-see.md)
@@ -57,19 +57,19 @@ _Context: Gaza Strip_
 
 ##### Sean Penn
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)
-_Context: Sean Penn, Cristina Fernandez de Kirchner, Malvinas Islands_
+_Context: Malvinas Islands, Cristina Fernandez de Kirchner, Sean Penn_
 
 ##### Vice-President of the People's Republic of China
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: U.S. President, Barack Obama, United States, Vice-President of the People's Republic of China, Xi Jinping_
+_Context: U.S. President, United States, Barack Obama, Vice-President of the People's Republic of China, Xi Jinping_
 
 ##### United States
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: Islamabad, Peshawar, Pakistan, United States_
+_Context: Islamabad, United States, Peshawar, Pakistan_
 
 ##### Venezuela
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
-_Context: opposition, Supreme Court, Venezuela_
+_Context: Supreme Court, Venezuela, opposition_
 
 ##### World Bank
 ### [The World Bank announces that its President, Robert Zoellick, is stepping down when his term ends in June. ](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.md)
@@ -85,7 +85,7 @@ _Context: Kuwait_
 
 ##### Iran
 ### [Thousands of opposition supporters from Iran's Green Movement march silently through the capital Tehran calling for the release of political prisoners. ](/news/2012/02/14/thousands-of-opposition-supporters-from-iran-s-green-movement-march-silently-through-the-capital-tehran-calling-for-the-release-of-political.md)
-_Context: Iran, Tehran, Iranian opposition_
+_Context: Iranian opposition, Tehran, Iran_
 
 ## [Previous Day...](/news/2012/02/13/index.md)
 

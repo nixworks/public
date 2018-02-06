@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/27/the-iraqi-army-declares-victory-over-islamic-st
 
 ### Changes:
 
-1. [Battle of Ramadi: The Iraqi Army declares victory over Islamic State militants as their forces retake an important government compound in Ramadi. ](/news/2015/12/27/battle-of-ramadi-the-iraqi-army-declares-victory-over-islamic-state-militants-as-their-forces-retake-an-important-government-compound-in-ra.md) _2017-08-27 03:44:32 (First version)_
+1. [Battle of Ramadi: The Iraqi Army declares victory over Islamic State militants as their forces retake an important government compound in Ramadi. ](/news/2015/12/27/battle-of-ramadi-the-iraqi-army-declares-victory-over-islamic-state-militants-as-their-forces-retake-an-important-government-compound-in-ra.md) _2018-02-06 13:49:28 (First version)_
 1. [The Iraqi Army declares victory over Islamic State militants as their forces retake an important government compound in Ramadi. ](/news/2015/12/27/the-iraqi-army-declares-victory-over-islamic-state-militants-as-their-forces-retake-an-important-government-compound-in-ramadi.md) _(Current version)_
 
 ### Related:

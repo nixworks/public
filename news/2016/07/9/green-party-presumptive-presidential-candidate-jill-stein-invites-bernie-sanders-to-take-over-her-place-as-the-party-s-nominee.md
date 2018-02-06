@@ -16,7 +16,7 @@ The Greens’ probable presidential candidate Jill Stein has invited the Vermont
 
 ### Changes:
 
-1. [United States presidential elections, 2016: Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/united-states-presidential-elections-2016-green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-he.md) _2017-08-27 03:46:27 (First version)_
+1. [United States presidential elections, 2016: Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/united-states-presidential-elections-2016-green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-he.md) _2018-02-06 13:49:29 (First version)_
 1. [Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.md) _(Current version)_
 
 ### Related:

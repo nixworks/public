@@ -16,7 +16,7 @@ Israeli commandos fired 308 live bullets aboard a Gaza-bound aid ship last May t
 
 ### Changes:
 
-1. ["Israeli commandos fired 308 live bullets at the MV ''Mavi Marmara'' to repel passengers who attacked them with lethal weapons",says Israel's top general as he testifies before a state-appointed inquest into May's Gaza flotilla raid. ](/news/2010/10/24/israeli-commandos-fired-308-live-bullets-at-the-mv-mavi-marmara-to-repel-passengers-who-attacked-them-with-lethal-weapons-says-israel.md) _2017-08-25 03:30:39 (First version)_
+1. ["Israeli commandos fired 308 live bullets at the MV ''Mavi Marmara'' to repel passengers who attacked them with lethal weapons",says Israel's top general as he testifies before a state-appointed inquest into May's Gaza flotilla raid. ](/news/2010/10/24/israeli-commandos-fired-308-live-bullets-at-the-mv-mavi-marmara-to-repel-passengers-who-attacked-them-with-lethal-weapons-says-israel.md) _2018-02-06 13:49:20 (First version)_
 1. ["Israeli commandos fired 308 live bullets at the MV "Mavi Marmara" to repel passengers who attacked them with lethal weapons",says Israel's top general as he testifies before a state-appointed inquest into May's Gaza flotilla raid. ](/news/2010/10/24/israeli-commandos-fired-308-live-bullets-at-the-mv-mavi-marmara-to-repel-passengers-who-attacked-them-with-lethal-weapons-says-israel-s.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Actress Luise Rainer, who became the first winner of consecutive Oscars in the 1
 
 ### Changes:
 
-1. [Luise Rainer, German-born American actress (''The Great Ziegfeld'', ''The Good Earth''), Academy Award winner (1936, 1937), dies of pneumonia at the age of 104. ](/news/2014/12/30/luise-rainer-german-born-american-actress-the-great-ziegfeld-the-good-earth-academy-award-winner-1936-1937-dies-of-pneumoni.md) _2017-08-25 03:41:24 (First version)_
+1. [Luise Rainer, German-born American actress (''The Great Ziegfeld'', ''The Good Earth''), Academy Award winner (1936, 1937), dies of pneumonia at the age of 104. ](/news/2014/12/30/luise-rainer-german-born-american-actress-the-great-ziegfeld-the-good-earth-academy-award-winner-1936-1937-dies-of-pneumoni.md) _2018-02-06 13:49:26 (First version)_
 1. [Luise Rainer, German-born American actress ("The Great Ziegfeld", "The Good Earth"), Academy Award winner (1936, 1937), dies of pneumonia at the age of 104. ](/news/2014/12/30/luise-rainer-german-born-american-actress-the-great-ziegfeld-the-good-earth-academy-award-winner-1936-1937-dies-of-pneumonia-at.md) _(Current version)_
 
 ### Related:

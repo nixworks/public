@@ -33,7 +33,7 @@ Senior wanted Palestinian terror suspect Muhammad Deif, commander of Hamas&#39; 
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: An Israeli air strike destroys the Palestinian Foreign Ministry Building in Gaza City. ](/news/2006/07/12/israeli-palestinian-conflict-an-israeli-air-strike-destroys-the-palestinian-foreign-ministry-building-in-gaza-city.md) _2017-08-27 03:17:58 (First version)_
+1. [ Israeli-Palestinian conflict: An Israeli air strike destroys the Palestinian Foreign Ministry Building in Gaza City. ](/news/2006/07/12/israeli-palestinian-conflict-an-israeli-air-strike-destroys-the-palestinian-foreign-ministry-building-in-gaza-city.md) _2018-02-06 13:49:17 (First version)_
 1. [ An Israeli air strike destroys the Palestinian Foreign Ministry Building in Gaza City. ](/news/2006/07/12/an-israeli-air-strike-destroys-the-palestinian-foreign-ministry-building-in-gaza-city.md) _(Current version)_
 
 ### Related:

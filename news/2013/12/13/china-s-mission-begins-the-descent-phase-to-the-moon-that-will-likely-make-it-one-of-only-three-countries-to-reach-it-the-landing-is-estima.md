@@ -17,8 +17,8 @@ All systems appear to be “GO” for the world’s first attempt to soft land a
 
 ### Changes:
 
-1. [Chang'e-3:China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/chang-e-3-pchina-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landin.md) _2017-08-25 03:39:41 (First version)_
-2. [Chang'e-3:: China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/chang-e-3-china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landi.md) _2017-08-27 03:39:59 (Update)_
+1. [Chang'e-3:China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/chang-e-3-pchina-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landin.md) _2018-02-06 13:49:25 (First version)_
+2. [Chang'e-3:: China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/chang-e-3-china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landi.md) _2018-02-06 13:49:25 (Update)_
 2. [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md) _(Current version)_
 
 ### Related:

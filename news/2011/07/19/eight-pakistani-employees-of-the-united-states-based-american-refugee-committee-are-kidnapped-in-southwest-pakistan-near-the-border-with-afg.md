@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-
 
 ### Changes:
 
-1. [War in North-West Pakistan:Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-peight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakis.md) _2017-08-25 03:33:49 (First version)_
-2. [War in North-West Pakistan:: Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-paki.md) _2017-08-27 03:33:57 (Update)_
+1. [War in North-West Pakistan:Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-peight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakis.md) _2018-02-06 13:49:22 (First version)_
+2. [War in North-West Pakistan:: Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-paki.md) _2018-02-06 13:49:22 (Update)_
 2. [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md) _(Current version)_
 
 ### Related:

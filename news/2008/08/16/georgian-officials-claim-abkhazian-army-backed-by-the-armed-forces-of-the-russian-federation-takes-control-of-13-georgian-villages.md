@@ -17,8 +17,8 @@ Rebels from the breakaway region of Abkhazia, backed by Russian forces, have sei
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: Georgian officials claim Abkhazian army, backed by the Armed Forces of the Russian Federation, takes control of 13 Georgian villages. ](/news/2008/08/16/2008-south-ossetia-war-p-georgian-officials-claim-abkhazian-army-backed-by-the-armed-forces-of-the-russian-federation-takes-control-of-13.md) _2017-08-25 03:22:42 (First version)_
-2. [ 2008 South Ossetia war:: Georgian officials claim Abkhazian army, backed by the Armed Forces of the Russian Federation, takes control of 13 Georgian villages. ](/news/2008/08/16/2008-south-ossetia-war-georgian-officials-claim-abkhazian-army-backed-by-the-armed-forces-of-the-russian-federation-takes-control-of-13.md) _2017-08-27 03:22:36 (Update)_
+1. [ 2008 South Ossetia war: Georgian officials claim Abkhazian army, backed by the Armed Forces of the Russian Federation, takes control of 13 Georgian villages. ](/news/2008/08/16/2008-south-ossetia-war-p-georgian-officials-claim-abkhazian-army-backed-by-the-armed-forces-of-the-russian-federation-takes-control-of-13.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war:: Georgian officials claim Abkhazian army, backed by the Armed Forces of the Russian Federation, takes control of 13 Georgian villages. ](/news/2008/08/16/2008-south-ossetia-war-georgian-officials-claim-abkhazian-army-backed-by-the-armed-forces-of-the-russian-federation-takes-control-of-13.md) _2018-02-06 13:49:18 (Update)_
 2. [ Georgian officials claim Abkhazian army, backed by the Armed Forces of the Russian Federation, takes control of 13 Georgian villages. ](/news/2008/08/16/georgian-officials-claim-abkhazian-army-backed-by-the-armed-forces-of-the-russian-federation-takes-control-of-13-georgian-villages.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Ash spewing from two volcanoes in Indonesia prompts the closure of three more ai
 
 ### Changes:
 
-1. [Indonesian volcano eruptionsThousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/indonesian-volcano-eruptionspthousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain.md) _2017-08-25 03:42:26 (First version)_
-2. [Indonesian volcano eruptions: Thousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/indonesian-volcano-eruptions-thousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain.md) _2017-08-27 03:42:43 (Update)_
+1. [Indonesian volcano eruptionsThousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/indonesian-volcano-eruptionspthousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain.md) _2018-02-06 13:49:27 (First version)_
+2. [Indonesian volcano eruptions: Thousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/indonesian-volcano-eruptions-thousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain.md) _2018-02-06 13:49:27 (Update)_
 2. [Thousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/thousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain-closed-as-a-result-of-the-eru.md) _(Current version)_
 
 ### Related:

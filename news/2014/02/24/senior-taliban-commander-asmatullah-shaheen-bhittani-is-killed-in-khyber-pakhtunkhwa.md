@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/24/senior-taliban-commander-asmatullah-shaheen-bhi
 
 ### Changes:
 
-1. [War in Afghanistan:Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-psenior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _2017-08-25 03:40:04 (First version)_
-2. [War in Afghanistan:: Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _2017-08-27 03:40:22 (Update)_
+1. [War in Afghanistan:: Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan:Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-psenior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _2018-02-06 13:49:25 (Update)_
 2. [Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md) _(Current version)_
 
 ### Related:

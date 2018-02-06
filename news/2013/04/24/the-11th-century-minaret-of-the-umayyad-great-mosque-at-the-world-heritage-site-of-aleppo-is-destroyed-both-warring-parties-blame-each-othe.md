@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/04/24/the-11th-century-minaret-of-the-umayyad-great-m
 
 ### Changes:
 
-1. [Syrian Civil War:The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-pthe-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parti.md) _2017-08-25 03:38:28 (First version)_
-2. [Syrian Civil War:: The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-part.md) _2017-08-27 03:38:40 (Update)_
+1. [Syrian Civil War:: The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-part.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian Civil War:The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-pthe-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parti.md) _2018-02-06 13:49:24 (Update)_
 2. [The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parties-blame-each-othe.md) _(Current version)_
 
 ### Related:

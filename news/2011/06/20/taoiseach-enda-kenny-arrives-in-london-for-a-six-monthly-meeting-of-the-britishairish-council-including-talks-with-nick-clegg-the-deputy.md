@@ -16,7 +16,7 @@ Taoiseach Enda Kenny has insisted that a new European Union bailout for Greece, 
 
 ### Changes:
 
-1. [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-british-irish-council-including-talks-with-nick-clegg-the-deputy.md) _2017-08-27 03:33:39 (First version)_
+1. [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-british-irish-council-including-talks-with-nick-clegg-the-deputy.md) _2018-02-06 13:49:22 (First version)_
 1. [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-britishairish-council-including-talks-with-nick-clegg-the-deputy.md) _(Current version)_
 
 ### Related:

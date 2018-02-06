@@ -17,8 +17,8 @@ Despite confusion over whether Netanyahu or security cabinet took decision, anno
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israel suspends peace talks with the Palestinian Authority following an announcement of a unity agreement between the ruling Palestinian faction Fatah and the militant Hamas rulers of Gaza. ](/news/2014/04/24/israeliapalestinian-conflict-pisrael-suspends-peace-talks-with-the-palestinian-authority-following-an-announcement-of-a-unity-agreement-be.md) _2017-08-25 03:40:20 (First version)_
-2. [Israeli-Palestinian conflict:: Israel suspends peace talks with the Palestinian Authority following an announcement of a unity agreement between the ruling Palestinian faction Fatah and the militant Hamas rulers of Gaza. ](/news/2014/04/24/israeli-palestinian-conflict-israel-suspends-peace-talks-with-the-palestinian-authority-following-an-announcement-of-a-unity-agreement-b.md) _2017-08-27 03:40:38 (Update)_
+1. [Israeli-Palestinian conflict:Israel suspends peace talks with the Palestinian Authority following an announcement of a unity agreement between the ruling Palestinian faction Fatah and the militant Hamas rulers of Gaza. ](/news/2014/04/24/israeliapalestinian-conflict-pisrael-suspends-peace-talks-with-the-palestinian-authority-following-an-announcement-of-a-unity-agreement-be.md) _2018-02-06 13:49:26 (First version)_
+2. [Israeli-Palestinian conflict:: Israel suspends peace talks with the Palestinian Authority following an announcement of a unity agreement between the ruling Palestinian faction Fatah and the militant Hamas rulers of Gaza. ](/news/2014/04/24/israeli-palestinian-conflict-israel-suspends-peace-talks-with-the-palestinian-authority-following-an-announcement-of-a-unity-agreement-b.md) _2018-02-06 13:49:26 (Update)_
 2. [Israel suspends peace talks with the Palestinian Authority following an announcement of a unity agreement between the ruling Palestinian faction Fatah and the militant Hamas rulers of Gaza. ](/news/2014/04/24/israel-suspends-peace-talks-with-the-palestinian-authority-following-an-announcement-of-a-unity-agreement-between-the-ruling-palestinian-fac.md) _(Current version)_
 
 ### Related:

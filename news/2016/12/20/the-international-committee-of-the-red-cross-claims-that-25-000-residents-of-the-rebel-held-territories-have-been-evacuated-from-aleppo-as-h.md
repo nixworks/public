@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/20/the-international-committee-of-the-red-cross-cl
 
 ### Changes:
 
-1. [Aleppo offensive (November-December 2016): The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/aleppo-offensive-november-december-2016-the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-ter.md) _2017-08-27 03:47:28 (First version)_
+1. [Aleppo offensive (November-December 2016): The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/aleppo-offensive-november-december-2016-the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-ter.md) _2018-02-06 13:49:30 (First version)_
 1. [The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-territories-have-been-evacuated-from-aleppo-as-h.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-th
 
 ### Changes:
 
-1. [A study published in the journal ''Cell'' reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with.md) _2017-08-25 03:29:52 (First version)_
+1. [A study published in the journal ''Cell'' reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with.md) _2018-02-06 13:49:20 (First version)_
 1. [A study published in the journal "Cell" reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with-m.md) _(Current version)_
 
 ### Related:

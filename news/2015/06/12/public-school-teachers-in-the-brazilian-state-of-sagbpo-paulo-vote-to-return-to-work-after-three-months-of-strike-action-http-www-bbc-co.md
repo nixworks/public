@@ -11,7 +11,7 @@ Formats: [HTML](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-o
 
 ### Changes:
 
-1. [Public school teachers in the Brazilian state of Sao Paulo vote to return to work after three months of strike action. [http:--www.bbc.com-news-world-latin-america-33120843 (BBC)]|](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-of-sapso-paulo-vote-to-return-to-work-after-three-months-of-strike-action-http-www-bbc-com.md) _2017-08-25 03:42:13 (First version)_
+1. [Public school teachers in the Brazilian state of Sao Paulo vote to return to work after three months of strike action. [http:--www.bbc.com-news-world-latin-america-33120843 (BBC)]|](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-of-sapso-paulo-vote-to-return-to-work-after-three-months-of-strike-action-http-www-bbc-com.md) _2018-02-06 13:49:27 (First version)_
 1. [Public school teachers in the Brazilian state of SGBPo Paulo vote to return to work after three months of strike action. [http:--www.bbc.com-news-world-latin-america-33120843 (BBC)]|](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-of-sagbpo-paulo-vote-to-return-to-work-after-three-months-of-strike-action-http-www-bbc-co.md) _(Current version)_
 
 ### Related:

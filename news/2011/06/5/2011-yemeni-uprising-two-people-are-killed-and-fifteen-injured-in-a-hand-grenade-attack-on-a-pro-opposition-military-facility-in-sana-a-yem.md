@@ -19,8 +19,8 @@ A large protest in northwest Syria was the latest to turn deadly, as Syrian secu
 
 ### Changes:
 
-1. [2011 Yemeni uprising:Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/2011-yemeni-uprising-ptwo-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility-in-sana-a-ye.md) _2017-08-25 03:33:22 (First version)_
-2. [Arab Spring: 2011 Yemeni uprising:: Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/arab-spring-2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility.md) _2017-08-27 03:33:31 (Update)_
+1. [Arab Spring: 2011 Yemeni uprising:: Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/arab-spring-2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni uprising:Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/2011-yemeni-uprising-ptwo-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility-in-sana-a-ye.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Yemeni uprising:Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility-in-sana-a-yem.md) _(Current version)_
 
 ### Related:

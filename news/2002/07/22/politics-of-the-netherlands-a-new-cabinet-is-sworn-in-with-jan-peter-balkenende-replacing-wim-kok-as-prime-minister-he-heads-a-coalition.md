@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/07/22/politics-of-the-netherlands-a-new-cabinet-is-sw
 
 ### Changes:
 
-1. [ Politics of the Netherlands. A new cabinet is sworn in, with Jan Peter Balkenende replacing Wim Kok as Prime Minister. He heads a coalition of three parties: Christen Democratisch Appl, Lijst Pim Fortuyn and Volkspartij voor Vrijheid en Democratie. One of the state secretaries of the new cabinet resigned a few hours later.](/news/2002/07/22/politics-of-the-netherlands-a-new-cabinet-is-sworn-in-with-jan-peter-balkenende-replacing-wim-kok-as-prime-minister-he-heads-a-coalitio.md) _2017-08-25 03:15:13 (First version)_
+1. [ Politics of the Netherlands. A new cabinet is sworn in, with Jan Peter Balkenende replacing Wim Kok as Prime Minister. He heads a coalition of three parties: Christen Democratisch Appl, Lijst Pim Fortuyn and Volkspartij voor Vrijheid en Democratie. One of the state secretaries of the new cabinet resigned a few hours later.](/news/2002/07/22/politics-of-the-netherlands-a-new-cabinet-is-sworn-in-with-jan-peter-balkenende-replacing-wim-kok-as-prime-minister-he-heads-a-coalitio.md) _2018-02-06 13:49:15 (First version)_
 1. [ Politics of the Netherlands. A new cabinet is sworn in, with Jan Peter Balkenende replacing Wim Kok as Prime Minister. He heads a coalition of three parties: Christen Democratisch Appl, Lijst Pim Fortuyn and Volkspartij voor Vrijheid en Democratie. One of the state secretaries of the new cabinet resigned a few hours later.](/news/2002/07/22/politics-of-the-netherlands-a-new-cabinet-is-sworn-in-with-jan-peter-balkenende-replacing-wim-kok-as-prime-minister-he-heads-a-coalition.md) _(Current version)_
 
 ### Related:

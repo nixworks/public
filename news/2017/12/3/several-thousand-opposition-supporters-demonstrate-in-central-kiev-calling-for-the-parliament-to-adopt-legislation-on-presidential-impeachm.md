@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/12/3/several-thousand-opposition-supporters-demonstra
 
 ### Changes:
 
-1. [Several thousand demonstrators protested in central Kiev for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-demonstrators-protested-in-central-kiev-for-the-parliament-to-adopt-legislation-on-presidential-impeachment.md) _2017-12-03 22:30:14 (First version)_
-2. [Several thousand oppposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-oppposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeach.md) _2017-12-03 23:30:15 (Update)_
+1. [Several thousand oppposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-oppposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeach.md) _2018-02-06 13:49:31 (First version)_
+2. [Several thousand demonstrators protested in central Kiev for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-demonstrators-protested-in-central-kiev-for-the-parliament-to-adopt-legislation-on-presidential-impeachment.md) _2018-02-06 13:49:31 (Update)_
 2. [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md) _(Current version)_
 
 ### Related:

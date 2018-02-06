@@ -17,7 +17,7 @@ New Zealand is considering changing its flag. The public was encouraged to come 
 
 ### Changes:
 
-1. [New Zealand flag debate: A government appointed panel chooses 40 finalist flag designs out of more than 10,000 submitted. ](/news/2015/08/12/new-zealand-flag-debate-a-government-appointed-panel-chooses-40-finalist-flag-designs-out-of-more-than-10-000-submitted.md) _2017-08-27 03:42:49 (First version)_
+1. [New Zealand flag debate: A government appointed panel chooses 40 finalist flag designs out of more than 10,000 submitted. ](/news/2015/08/12/new-zealand-flag-debate-a-government-appointed-panel-chooses-40-finalist-flag-designs-out-of-more-than-10-000-submitted.md) _2018-02-06 13:49:27 (First version)_
 1. [A government appointed panel chooses 40 finalist flag designs out of more than 10,000 submitted. ](/news/2015/08/12/a-government-appointed-panel-chooses-40-finalist-flag-designs-out-of-more-than-10-000-submitted.md) _(Current version)_
 
 ### Related:

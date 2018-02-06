@@ -37,7 +37,7 @@ Eight convicted drug smugglers are executed by firing squad in Indonesia, but a 
 
 ##### Sinking of the MV ''Sewol''
 ### [Sinking of the MV "Sewol": Lee Jun-seok, the Captain of the MV "Sewol", is given a life sentence for murder for his role in the incident. ](/news/2015/04/28/sinking-of-the-mv-sewol-lee-jun-seok-the-captain-of-the-mv-sewol-is-given-a-life-sentence-for-murder-for-his-role-in-the-incident.md)
-_Context: Sinking of the MV ''Sewol'', MV ''Sewol''_
+_Context: MV ''Sewol'', Sinking of the MV ''Sewol''_
 
 ##### Death of Freddie Gray
 ### [Death of Freddie Gray, 2015 Baltimore riots: About 200 people have been arrested in the American city of Baltimore for rioting; 20 Baltimore Police Department officers are injured and 144 cars set on fire. Schools in the city have been closed. ](/news/2015/04/28/death-of-freddie-gray-2015-baltimore-riots-about-200-people-have-been-arrested-in-the-american-city-of-baltimore-for-rioting-20-baltimore.md)

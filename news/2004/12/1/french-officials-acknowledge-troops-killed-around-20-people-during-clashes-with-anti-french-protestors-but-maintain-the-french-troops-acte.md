@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/12/1/french-officials-acknowledge-troops-killed-aroun
 
 ### Changes:
 
-1. [Ivorian Civil War: French officials acknowledge troops killed around 20 people during clashes with anti-French protestors, but maintain the French troops acted in self-defense and gave warning shots, contrary to Ivoirian police claims. ](/news/2004/12/1/ivorian-civil-war-french-officials-acknowledge-troops-killed-around-20-people-during-clashes-with-anti-french-protestors-but-maintain-the.md) _2017-08-27 03:15:29 (First version)_
+1. [Ivorian Civil War: French officials acknowledge troops killed around 20 people during clashes with anti-French protestors, but maintain the French troops acted in self-defense and gave warning shots, contrary to Ivoirian police claims. ](/news/2004/12/1/ivorian-civil-war-french-officials-acknowledge-troops-killed-around-20-people-during-clashes-with-anti-french-protestors-but-maintain-the.md) _2018-02-06 13:49:16 (First version)_
 1. [ French officials acknowledge troops killed around 20 people during clashes with anti-French protestors, but maintain the French troops acted in self-defense and gave warning shots, contrary to Ivoirian police claims. ](/news/2004/12/1/french-officials-acknowledge-troops-killed-around-20-people-during-clashes-with-anti-french-protestors-but-maintain-the-french-troops-acte.md) _(Current version)_
 
 ### Related:

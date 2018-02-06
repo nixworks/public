@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/3/mouwaffak-al-rubaie-iraq-s-national-security-adv
 
 ### Changes:
 
-1. [ Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-most-senior-figur.md) _2017-08-25 03:18:19 (First version)_
-2. [ Iraqi insurgency: Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/iraqi-insurgency-mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-m.md) _2017-08-27 03:18:14 (Update)_
+1. [ Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-most-senior-figur.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraqi insurgency: Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/iraqi-insurgency-mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-m.md) _2018-02-06 13:49:17 (Update)_
 2. [ Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-most-senior-figure.md) _(Current version)_
 
 ### Related:

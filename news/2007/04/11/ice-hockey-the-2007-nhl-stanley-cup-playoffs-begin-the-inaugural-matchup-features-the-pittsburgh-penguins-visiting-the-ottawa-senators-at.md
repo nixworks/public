@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-be
 
 ### Changes:
 
-1. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin. The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-a.md) _2017-08-25 03:19:34 (First version)_
+1. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin. The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-a.md) _2018-02-06 13:49:17 (First version)_
 1. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin. The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-at.md) _(Current version)_
 
 ### Related:

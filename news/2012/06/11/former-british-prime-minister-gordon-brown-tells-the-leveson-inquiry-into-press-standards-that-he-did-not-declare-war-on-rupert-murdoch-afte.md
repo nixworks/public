@@ -18,7 +18,7 @@ Gordon Brown has categorically denied making an &#034;unbalanced&#034; declarati
 
 ### Changes:
 
-1. [Leveson Inquiry: Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/leveson-inquiry-former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-ru.md) _2017-08-27 03:36:02 (First version)_
+1. [Leveson Inquiry: Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/leveson-inquiry-former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-ru.md) _2018-02-06 13:49:23 (First version)_
 1. [Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-rupert-murdoch-afte.md) _(Current version)_
 
 ### Related:

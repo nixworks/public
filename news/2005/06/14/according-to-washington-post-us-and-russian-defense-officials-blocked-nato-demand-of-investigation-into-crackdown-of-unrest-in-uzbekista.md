@@ -18,7 +18,7 @@ Formats: [HTML](/news/2005/06/14/according-to-washington-post-us-and-russian-def
 
 ### Changes:
 
-1. [ According to ''Washington Post'', US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekis.md) _2017-08-25 03:16:23 (First version)_
+1. [ According to ''Washington Post'', US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekis.md) _2018-02-06 13:49:16 (First version)_
 1. [ According to "Washington Post", US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekista.md) _(Current version)_
 
 ### Related:

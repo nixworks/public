@@ -16,6 +16,6 @@ Formats: [HTML](/news/2007/05/7/search-officials-confirm-that-there-were-no-surv
 
 ### Changes:
 
-1. [ Kenya Airways Flight 507: Search officials confirm that there were no survivors. ](/news/2007/05/7/kenya-airways-flight-507-p-search-officials-confirm-that-there-were-no-survivors.md) _2017-08-25 03:19:46 (First version)_
-2. [ Kenya Airways Flight 507:: Search officials confirm that there were no survivors. ](/news/2007/05/7/kenya-airways-flight-507-search-officials-confirm-that-there-were-no-survivors.md) _2017-08-27 03:19:43 (Update)_
+1. [ Kenya Airways Flight 507:: Search officials confirm that there were no survivors. ](/news/2007/05/7/kenya-airways-flight-507-search-officials-confirm-that-there-were-no-survivors.md) _2018-02-06 13:49:17 (First version)_
+2. [ Kenya Airways Flight 507: Search officials confirm that there were no survivors. ](/news/2007/05/7/kenya-airways-flight-507-p-search-officials-confirm-that-there-were-no-survivors.md) _2018-02-06 13:49:17 (Update)_
 2. [ Search officials confirm that there were no survivors. ](/news/2007/05/7/search-officials-confirm-that-there-were-no-survivors.md) _(Current version)_

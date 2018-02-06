@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/12/president-barack-obama-announces-the-end-of-the
 
 ### Changes:
 
-1. [Cuba-United States relations: President Barack Obama announces the end of the wet feet, dry feet policy, which previously allowed undocumented immigrants from Cuba to become permanent residents. ](/news/2017/01/12/cuba-united-states-relations-president-barack-obama-announces-the-end-of-the-wet-feet-dry-feet-policy-which-previously-allowed-undocume.md) _2017-08-27 03:47:36 (First version)_
+1. [Cuba-United States relations: President Barack Obama announces the end of the wet feet, dry feet policy, which previously allowed undocumented immigrants from Cuba to become permanent residents. ](/news/2017/01/12/cuba-united-states-relations-president-barack-obama-announces-the-end-of-the-wet-feet-dry-feet-policy-which-previously-allowed-undocume.md) _2018-02-06 13:49:30 (First version)_
 1. [President Barack Obama announces the end of the wet feet, dry feet policy, which previously allowed undocumented immigrants from Cuba to become permanent residents. ](/news/2017/01/12/president-barack-obama-announces-the-end-of-the-wet-feet-dry-feet-policy-which-previously-allowed-undocumented-immigrants-from-cuba-to-bec.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/6/republican-forces-of-ca-te-d-ivoire-soldiers-lau
 
 ### Changes:
 
-1. [2017 Ivory Coast mutiny: Republican Forces of Cote d'Ivoire soldiers launch mutinies in three cities across Ivory Coast. The Defense Minister Alain Donwahi says talks are ongoing with the soldiers, calling for all troops to return to their barracks. ](/news/2017/01/6/2017-ivory-coast-mutiny-republican-forces-of-ca-te-d-ivoire-soldiers-launch-mutinies-in-three-cities-across-ivory-coast-the-defense-minist.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Ivory Coast mutiny: Republican Forces of Cote d'Ivoire soldiers launch mutinies in three cities across Ivory Coast. The Defense Minister Alain Donwahi says talks are ongoing with the soldiers, calling for all troops to return to their barracks. ](/news/2017/01/6/2017-ivory-coast-mutiny-republican-forces-of-ca-te-d-ivoire-soldiers-launch-mutinies-in-three-cities-across-ivory-coast-the-defense-minist.md) _2018-02-06 13:49:30 (First version)_
 1. [Republican Forces of Cote d'Ivoire soldiers launch mutinies in three cities across Ivory Coast. The Defense Minister Alain Donwahi says talks are ongoing with the soldiers, calling for all troops to return to their barracks. ](/news/2017/01/6/republican-forces-of-ca-te-d-ivoire-soldiers-launch-mutinies-in-three-cities-across-ivory-coast-the-defense-minister-alain-donwahi-says-tal.md) _(Current version)_
 
 ### Related:

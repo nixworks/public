@@ -11,7 +11,7 @@ Formats: [HTML](/news/1999/12/31/the-panama-canal-authority-took-over-the-admini
 
 ### Changes:
 
-1. [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijos-carter-treaties.md) _2017-08-27 03:15:07 (First version)_
+1. [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijos-carter-treaties.md) _2018-02-06 13:49:15 (First version)_
 1. [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijosacarter-treaties.md) _(Current version)_
 
 ### Related:

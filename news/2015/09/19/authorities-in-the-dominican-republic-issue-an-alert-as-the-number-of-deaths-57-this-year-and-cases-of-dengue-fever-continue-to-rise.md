@@ -17,7 +17,7 @@ The Delhi government has ordered deferring all planned surgeries to facilitate a
 
 ### Changes:
 
-1. [2015 Dengue fever outbreaks: Authorities in the Dominican Republic issue an alert as the number of deaths (57 this year) and cases of dengue fever continue to rise. ](/news/2015/09/19/2015-dengue-fever-outbreaks-authorities-in-the-dominican-republic-issue-an-alert-as-the-number-of-deaths-57-this-year-and-cases-of-dengue.md) _2017-08-27 03:43:05 (First version)_
+1. [2015 Dengue fever outbreaks: Authorities in the Dominican Republic issue an alert as the number of deaths (57 this year) and cases of dengue fever continue to rise. ](/news/2015/09/19/2015-dengue-fever-outbreaks-authorities-in-the-dominican-republic-issue-an-alert-as-the-number-of-deaths-57-this-year-and-cases-of-dengue.md) _2018-02-06 13:49:27 (First version)_
 1. [Authorities in the Dominican Republic issue an alert as the number of deaths (57 this year) and cases of dengue fever continue to rise. ](/news/2015/09/19/authorities-in-the-dominican-republic-issue-an-alert-as-the-number-of-deaths-57-this-year-and-cases-of-dengue-fever-continue-to-rise.md) _(Current version)_
 
 ### Related:

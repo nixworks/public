@@ -18,7 +18,7 @@ TAMPAMeteorologists may have remained divided Friday evening on the fate of Trop
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Dominican Prime Minister Roosevelt Skerrit reports that Tropical Storm Erika has left at least 12 dead and more than 20 missing. Erika deposited almost 12 inches of rain in less than 10 hours and caused extensive damage across the island as floods wiped out roads, swamped villages, and started mudslides. ](/news/2015/08/28/2015-atlantic-hurricane-season-dominican-prime-minister-roosevelt-skerrit-reports-that-tropical-storm-erika-has-left-at-least-12-dead-and-m.md) _2017-08-27 03:42:55 (First version)_
+1. [2015 Atlantic hurricane season: Dominican Prime Minister Roosevelt Skerrit reports that Tropical Storm Erika has left at least 12 dead and more than 20 missing. Erika deposited almost 12 inches of rain in less than 10 hours and caused extensive damage across the island as floods wiped out roads, swamped villages, and started mudslides. ](/news/2015/08/28/2015-atlantic-hurricane-season-dominican-prime-minister-roosevelt-skerrit-reports-that-tropical-storm-erika-has-left-at-least-12-dead-and-m.md) _2018-02-06 13:49:27 (First version)_
 1. [Dominican Prime Minister Roosevelt Skerrit reports that Tropical Storm Erika has left at least 12 dead and more than 20 missing. Erika deposited almost 12 inches of rain in less than 10 hours and caused extensive damage across the island as floods wiped out roads, swamped villages, and started mudslides. ](/news/2015/08/28/dominican-prime-minister-roosevelt-skerrit-reports-that-tropical-storm-erika-has-left-at-least-12-dead-and-more-than-20-missing-erika-depos.md) _(Current version)_
 
 ### Related:

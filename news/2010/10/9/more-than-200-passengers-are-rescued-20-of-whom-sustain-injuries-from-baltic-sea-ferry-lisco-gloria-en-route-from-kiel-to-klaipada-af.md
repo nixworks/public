@@ -17,7 +17,7 @@ More than 200 passengers and crew are rescued after a Baltic Sea ferry catches f
 
 ### Changes:
 
-1. [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry ''Lisco Gloria'', en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada.md) _2017-08-25 03:30:26 (First version)_
+1. [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry ''Lisco Gloria'', en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada.md) _2018-02-06 13:49:21 (First version)_
 1. [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry "Lisco Gloria", en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada-af.md) _(Current version)_
 
 ### Related:

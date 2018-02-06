@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donov
 
 ### Changes:
 
-1. [Zimbabwe convicts an American citizen trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-convicts-an-american-citizen-trying-to-overthrow-the-regime-of-robert-mugabe.md) _2017-11-04 00:30:05 (First version)_
+1. [Zimbabwe convicts an American citizen trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-convicts-an-american-citizen-trying-to-overthrow-the-regime-of-robert-mugabe.md) _2018-02-06 13:49:31 (First version)_
 1. [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md) _(Current version)_
 
 ### Related:

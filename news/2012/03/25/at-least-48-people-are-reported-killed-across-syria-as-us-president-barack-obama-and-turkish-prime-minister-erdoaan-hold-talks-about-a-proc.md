@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/03/25/at-least-48-people-are-reported-killed-across-s
 
 ### Changes:
 
-1. [Syrian uprising:At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-pat-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-t.md) _2017-08-25 03:35:21 (First version)_
-2. [Syrian uprising:: At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-at-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold.md) _2017-08-27 03:35:30 (Update)_
+1. [Syrian uprising:At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-pat-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-t.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:: At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-at-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/at-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-talks-about-a-proc.md) _(Current version)_
 
 ### Related:

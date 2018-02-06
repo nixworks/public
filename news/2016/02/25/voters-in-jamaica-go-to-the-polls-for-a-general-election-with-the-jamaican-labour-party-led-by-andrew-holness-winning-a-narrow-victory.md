@@ -17,7 +17,7 @@ Jamaica’s austerity policy that has brought three credit updates in the past y
 
 ### Changes:
 
-1. [Jamaican general election, 2016: Voters in Jamaica go to the polls for a general election, with the Jamaican Labour Party, led by Andrew Holness, winning a narrow victory. ](/news/2016/02/25/jamaican-general-election-2016-voters-in-jamaica-go-to-the-polls-for-a-general-election-with-the-jamaican-labour-party-led-by-andrew-hol.md) _2017-08-27 03:45:02 (First version)_
+1. [Jamaican general election, 2016: Voters in Jamaica go to the polls for a general election, with the Jamaican Labour Party, led by Andrew Holness, winning a narrow victory. ](/news/2016/02/25/jamaican-general-election-2016-voters-in-jamaica-go-to-the-polls-for-a-general-election-with-the-jamaican-labour-party-led-by-andrew-hol.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Jamaica go to the polls for a general election, with the Jamaican Labour Party, led by Andrew Holness, winning a narrow victory. ](/news/2016/02/25/voters-in-jamaica-go-to-the-polls-for-a-general-election-with-the-jamaican-labour-party-led-by-andrew-holness-winning-a-narrow-victory.md) _(Current version)_
 
 ### Related:

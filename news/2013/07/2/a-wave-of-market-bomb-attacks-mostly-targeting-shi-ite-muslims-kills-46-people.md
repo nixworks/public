@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/07/2/a-wave-of-market-bomb-attacks-mostly-targeting-s
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md) _2017-08-25 03:38:56 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md) _2017-08-27 03:39:11 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/a-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md) _(Current version)_
 
 ### Related:

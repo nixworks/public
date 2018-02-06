@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are
 
 ### Changes:
 
-1. [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul Afghanistan after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in-t.md) _2017-06-02 16:30:06 (First version)_
-2. [War in Afghanistan (2015-present): Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/war-in-afghanistan-2015-present-five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-deman.md) _2017-08-27 03:48:25 (Update)_
+1. [War in Afghanistan (2015-present): Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/war-in-afghanistan-2015-present-five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-deman.md) _2018-02-06 13:49:30 (First version)_
+2. [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul Afghanistan after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in-t.md) _2018-02-06 13:49:30 (Update)_
 2. [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md) _(Current version)_
 
 ### Related:

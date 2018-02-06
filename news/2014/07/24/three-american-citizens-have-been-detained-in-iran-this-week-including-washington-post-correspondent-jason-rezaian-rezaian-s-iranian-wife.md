@@ -15,7 +15,7 @@ Tehran bureau chief Jason Rezaian and three others believed detained;
 
 ### Changes:
 
-1. [Three American citizens have been detained in Iran this week including ''Washington Post'' correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wi.md) _2017-08-25 03:40:44 (First version)_
+1. [Three American citizens have been detained in Iran this week including ''Washington Post'' correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wi.md) _2018-02-06 13:49:26 (First version)_
 1. [Three American citizens have been detained in Iran this week including "Washington Post" correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wife.md) _(Current version)_
 
 ### Related:

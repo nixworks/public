@@ -16,7 +16,7 @@ The move comes amid a backdrop of mounting American pressure on China to be more
 
 ### Changes:
 
-1. [China-North Korea relations: Fearing lack of payment, China National Petroleum Corporation stops selling oil to North Korea. ](/news/2017/06/28/china-north-korea-relations-fearing-lack-of-payment-china-national-petroleum-corporation-stops-selling-oil-to-north-korea.md) _2017-08-27 03:48:34 (First version)_
+1. [China-North Korea relations: Fearing lack of payment, China National Petroleum Corporation stops selling oil to North Korea. ](/news/2017/06/28/china-north-korea-relations-fearing-lack-of-payment-china-national-petroleum-corporation-stops-selling-oil-to-north-korea.md) _2018-02-06 13:49:30 (First version)_
 1. [Fearing lack of payment, China National Petroleum Corporation stops selling oil to North Korea. ](/news/2017/06/28/fearing-lack-of-payment-china-national-petroleum-corporation-stops-selling-oil-to-north-korea.md) _(Current version)_
 
 ### Related:

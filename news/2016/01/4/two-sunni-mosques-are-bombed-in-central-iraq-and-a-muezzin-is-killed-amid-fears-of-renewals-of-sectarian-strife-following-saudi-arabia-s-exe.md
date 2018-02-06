@@ -16,7 +16,7 @@ HILLA, Iraq (AFP) - Blasts rocked two Sunni mosques in central Iraq Monday (Jan 
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Two Sunni mosques are bombed in central Iraq and a muezzin is killed amid fears of renewals of sectarian strife following Saudi Arabia's execution of Shi'ite cleric Nimr al-Nimr in Saudi Arabia. ](/news/2016/01/4/iraqi-civil-war-2014-present-two-sunni-mosques-are-bombed-in-central-iraq-and-a-muezzin-is-killed-amid-fears-of-renewals-of-sectarian-s.md) _2017-08-27 03:44:35 (First version)_
+1. [Iraqi Civil War (2014-present): Two Sunni mosques are bombed in central Iraq and a muezzin is killed amid fears of renewals of sectarian strife following Saudi Arabia's execution of Shi'ite cleric Nimr al-Nimr in Saudi Arabia. ](/news/2016/01/4/iraqi-civil-war-2014-present-two-sunni-mosques-are-bombed-in-central-iraq-and-a-muezzin-is-killed-amid-fears-of-renewals-of-sectarian-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Sunni mosques are bombed in central Iraq and a muezzin is killed amid fears of renewals of sectarian strife following Saudi Arabia's execution of Shi'ite cleric Nimr al-Nimr in Saudi Arabia. ](/news/2016/01/4/two-sunni-mosques-are-bombed-in-central-iraq-and-a-muezzin-is-killed-amid-fears-of-renewals-of-sectarian-strife-following-saudi-arabia-s-exe.md) _(Current version)_
 
 ### Related:

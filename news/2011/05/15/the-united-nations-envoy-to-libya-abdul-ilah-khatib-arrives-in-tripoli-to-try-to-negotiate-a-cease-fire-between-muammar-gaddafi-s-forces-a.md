@@ -16,8 +16,8 @@ A U.N. envoy held talks in Libya on Sunday, as NATO warplanes kept up their bomb
 
 ### Changes:
 
-1. [2011 Libyan civil war:The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/2011-libyan-civil-war-pthe-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-mua.md) _2017-08-25 03:33:07 (First version)_
-2. [2011 Libyan civil war:: The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/2011-libyan-civil-war-the-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-mu.md) _2017-08-27 03:33:16 (Update)_
+1. [2011 Libyan civil war:: The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/2011-libyan-civil-war-the-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-mu.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/2011-libyan-civil-war-pthe-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-mua.md) _2018-02-06 13:49:22 (Update)_
 2. [The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/the-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-muammar-gaddafi-s-forces-a.md) _(Current version)_
 
 ### Related:

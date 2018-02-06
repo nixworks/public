@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/04/22/an-episode-of-the-american-television-series-so
 
 ### Changes:
 
-1. [An episode of the American television series ''South Park'' is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depict.md) _2017-08-25 03:27:42 (First version)_
+1. [An episode of the American television series ''South Park'' is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depict.md) _2018-02-06 13:49:19 (First version)_
 1. [An episode of the American television series "South Park" is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depictio.md) _(Current version)_
 
 ### Related:

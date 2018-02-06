@@ -16,7 +16,7 @@ A Pakistani police official says a twin bombing has killed a police officer and 
 
 ### Changes:
 
-1. [War in North-West Pakistan: Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/war-in-north-west-pakistan-twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _2017-08-27 03:46:03 (First version)_
+1. [War in North-West Pakistan: Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/war-in-north-west-pakistan-twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _2018-02-06 13:49:29 (First version)_
 1. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _(Current version)_
 
 ### Related:

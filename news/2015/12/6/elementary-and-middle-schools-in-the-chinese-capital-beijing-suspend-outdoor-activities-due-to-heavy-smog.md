@@ -16,7 +16,7 @@ BEIJING (Bloomberg) - Elementary and middle schools in Beijing will suspend outd
 
 ### Changes:
 
-1. [Pollution in China: Elementary and middle schools in the Chinese capital Beijing suspend outdoor activities due to heavy smog. ](/news/2015/12/6/pollution-in-china-elementary-and-middle-schools-in-the-chinese-capital-beijing-suspend-outdoor-activities-due-to-heavy-smog.md) _2017-08-27 03:44:12 (First version)_
+1. [Pollution in China: Elementary and middle schools in the Chinese capital Beijing suspend outdoor activities due to heavy smog. ](/news/2015/12/6/pollution-in-china-elementary-and-middle-schools-in-the-chinese-capital-beijing-suspend-outdoor-activities-due-to-heavy-smog.md) _2018-02-06 13:49:28 (First version)_
 1. [Elementary and middle schools in the Chinese capital Beijing suspend outdoor activities due to heavy smog. ](/news/2015/12/6/elementary-and-middle-schools-in-the-chinese-capital-beijing-suspend-outdoor-activities-due-to-heavy-smog.md) _(Current version)_
 
 ### Related:

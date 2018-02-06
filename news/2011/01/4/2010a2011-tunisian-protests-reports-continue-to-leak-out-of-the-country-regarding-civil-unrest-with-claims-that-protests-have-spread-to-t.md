@@ -16,7 +16,7 @@ Protests over unemployment continue to spread across the country as the governme
 
 ### Changes:
 
-1. [2010-2011 Tunisian protests: Reports continue to leak out of the country regarding civil unrest with claims that protests have spread to the city of Thala, where the ruling Constitutional Democratic Rally's offices have been attacked. ](/news/2011/01/4/2010-2011-tunisian-protests-reports-continue-to-leak-out-of-the-country-regarding-civil-unrest-with-claims-that-protests-have-spread-to-t.md) _2017-08-27 03:31:46 (First version)_
+1. [2010-2011 Tunisian protests: Reports continue to leak out of the country regarding civil unrest with claims that protests have spread to the city of Thala, where the ruling Constitutional Democratic Rally's offices have been attacked. ](/news/2011/01/4/2010-2011-tunisian-protests-reports-continue-to-leak-out-of-the-country-regarding-civil-unrest-with-claims-that-protests-have-spread-to-t.md) _2018-02-06 13:49:21 (First version)_
 1. [2010-2011 Tunisian protests: Reports continue to leak out of the country regarding civil unrest with claims that protests have spread to the city of Thala, where the ruling Constitutional Democratic Rally's offices have been attacked. ](/news/2011/01/4/2010a2011-tunisian-protests-reports-continue-to-leak-out-of-the-country-regarding-civil-unrest-with-claims-that-protests-have-spread-to-t.md) _(Current version)_
 
 ### Related:

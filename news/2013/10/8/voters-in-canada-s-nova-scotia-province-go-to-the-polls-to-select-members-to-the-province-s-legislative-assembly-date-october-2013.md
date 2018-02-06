@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-th
 
 ### Changes:
 
-1. [Voters in Canada's Nova Scotia Province go to the polls to select members to the province's Legislative Assembly.{{citation needed|date=October 2013}}](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly-citation-needed-date-octo.md) _2017-05-01 03:42:42 (First version)_
+1. [Voters in Canada's Nova Scotia Province go to the polls to select members to the province's Legislative Assembly.{{citation needed|date=October 2013}}](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly-citation-needed-date-octo.md) _2018-02-06 13:49:25 (First version)_
 1. [Voters in Canada's Nova Scotia Province go to the polls to select members to the province's Legislative Assembly.date=October 2013](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly-date-october-2013.md) _(Current version)_
 
 ### Related:

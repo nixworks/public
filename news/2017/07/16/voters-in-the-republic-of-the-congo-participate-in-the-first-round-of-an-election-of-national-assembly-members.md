@@ -16,7 +16,7 @@ The A.U. team is headed by former Mali Prime Minister, Django Sissoko, he leads 
 
 ### Changes:
 
-1. [Republic of the Congo parliamentary election, 2017: Voters in the Republic of the Congo participate in the first round of an election of National Assembly members. ](/news/2017/07/16/republic-of-the-congo-parliamentary-election-2017-voters-in-the-republic-of-the-congo-participate-in-the-first-round-of-an-election-of-nat.md) _2017-08-27 03:48:40 (First version)_
+1. [Republic of the Congo parliamentary election, 2017: Voters in the Republic of the Congo participate in the first round of an election of National Assembly members. ](/news/2017/07/16/republic-of-the-congo-parliamentary-election-2017-voters-in-the-republic-of-the-congo-participate-in-the-first-round-of-an-election-of-nat.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in the Republic of the Congo participate in the first round of an election of National Assembly members. ](/news/2017/07/16/voters-in-the-republic-of-the-congo-participate-in-the-first-round-of-an-election-of-national-assembly-members.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/24/a-syrian-military-helicopter-crashes-near-the-t
 
 ### Changes:
 
-1. [Syrian Civil War: A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/syrian-civil-war-a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md) _2017-08-27 03:42:22 (First version)_
+1. [Syrian Civil War: A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/syrian-civil-war-a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md) _2018-02-06 13:49:27 (First version)_
 1. [A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md) _(Current version)_
 
 ### Related:

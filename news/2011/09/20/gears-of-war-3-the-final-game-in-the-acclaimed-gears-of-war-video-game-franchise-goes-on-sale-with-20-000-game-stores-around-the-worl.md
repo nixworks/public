@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-
 
 ### Changes:
 
-1. [''Gears of War 3'', the final game in the acclaimed ''Gears of War'' video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the.md) _2017-08-25 03:34:12 (First version)_
+1. [''Gears of War 3'', the final game in the acclaimed ''Gears of War'' video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the.md) _2018-02-06 13:49:22 (First version)_
 1. ["Gears of War 3", the final game in the acclaimed "Gears of War" video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the-worl.md) _(Current version)_
 
 ### Related:

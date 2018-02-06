@@ -18,7 +18,7 @@ Family says woman was at petrol station to fill up her car, but Israel&#39;s mil
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): Israeli forces shoot and kill a 72-year-old woman in Halhul, a town near Hebron. The soldiers say she attempted to wound them with her car. Her son denies this, saying his mother was on her way to lunch with her sister. Later, three Israelis are shot and wounded, one seriously, in two incidents in Hebron. ](/news/2015/11/6/israeli-palestinian-conflict-2015-israeli-forces-shoot-and-kill-a-72-year-old-woman-in-halhul-a-town-near-hebron-the-soldiers-say-she.md) _2017-08-27 03:43:42 (First version)_
+1. [Israeli-Palestinian conflict (2015): Israeli forces shoot and kill a 72-year-old woman in Halhul, a town near Hebron. The soldiers say she attempted to wound them with her car. Her son denies this, saying his mother was on her way to lunch with her sister. Later, three Israelis are shot and wounded, one seriously, in two incidents in Hebron. ](/news/2015/11/6/israeli-palestinian-conflict-2015-israeli-forces-shoot-and-kill-a-72-year-old-woman-in-halhul-a-town-near-hebron-the-soldiers-say-she.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli forces shoot and kill a 72-year-old woman in Halhul, a town near Hebron. The soldiers say she attempted to wound them with her car. Her son denies this, saying his mother was on her way to lunch with her sister. Later, three Israelis are shot and wounded, one seriously, in two incidents in Hebron. ](/news/2015/11/6/israeli-forces-shoot-and-kill-a-72-year-old-woman-in-halhul-a-town-near-hebron-the-soldiers-say-she-attempted-to-wound-them-with-her-car.md) _(Current version)_
 
 ### Related:

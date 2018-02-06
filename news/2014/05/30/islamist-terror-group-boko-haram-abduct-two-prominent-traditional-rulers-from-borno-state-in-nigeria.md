@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/30/islamist-terror-group-boko-haram-abduct-two-pro
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in Nigeria. ](/news/2014/05/30/islamist-insurgency-in-nigeria-islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md) _2017-08-27 03:40:46 (First version)_
+1. [Islamist insurgency in Nigeria: Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in Nigeria. ](/news/2014/05/30/islamist-insurgency-in-nigeria-islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in Nigeria. ](/news/2014/05/30/islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md) _(Current version)_
 
 ### Related:

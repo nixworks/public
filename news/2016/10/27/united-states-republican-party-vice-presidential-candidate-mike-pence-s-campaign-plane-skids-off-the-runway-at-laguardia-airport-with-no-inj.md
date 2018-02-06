@@ -18,7 +18,7 @@ The aircraft slid off the runway during rainy conditions.
 
 ### Changes:
 
-1. [United States Republican Party vice presidential candidate Mike Pence's campaign plane skids off the runway at LaGuardia Airport with no injuries reported. The runway is said to have sustained damage causing the closure of the airport; a planned fundraiser was also canceled. ](/news/2016/10/27/united-states-republican-party-vice-presidential-candidate-mike-pence-s-campaign-plane-skids-off-the-runway-at-laguardia-airport-with-no-in.md) _2017-08-25 03:46:43 (First version)_
+1. [United States Republican Party vice presidential candidate Mike Pence's campaign plane skids off the runway at LaGuardia Airport with no injuries reported. The runway is said to have sustained damage causing the closure of the airport; a planned fundraiser was also canceled. ](/news/2016/10/27/united-states-republican-party-vice-presidential-candidate-mike-pence-s-campaign-plane-skids-off-the-runway-at-laguardia-airport-with-no-in.md) _2018-02-06 13:49:29 (First version)_
 1. [United States Republican Party vice presidential candidate Mike Pence's campaign plane skids off the runway at LaGuardia Airport with no injuries reported. The runway is said to have sustained damage causing the closure of the airport; a planned fundraiser was also canceled. ](/news/2016/10/27/united-states-republican-party-vice-presidential-candidate-mike-pence-s-campaign-plane-skids-off-the-runway-at-laguardia-airport-with-no-inj.md) _(Current version)_
 
 ### Related:

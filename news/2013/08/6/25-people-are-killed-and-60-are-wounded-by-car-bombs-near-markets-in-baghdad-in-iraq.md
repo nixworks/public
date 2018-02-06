@@ -16,8 +16,8 @@ A series of car bombs targeting busy markets and shopping streets in and around 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):25 people are killed and 60 are wounded by car bombs near markets in Baghdad in Iraq. ](/news/2013/08/6/iraqi-insurgency-post-u-s-withdrawal-p25-people-are-killed-and-60-are-wounded-by-car-bombs-near-markets-in-baghdad-in-iraq.md) _2017-08-25 03:39:06 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 25 people are killed and 60 are wounded by car bombs near markets in Baghdad in Iraq. ](/news/2013/08/6/iraqi-insurgency-post-u-s-withdrawal-25-people-are-killed-and-60-are-wounded-by-car-bombs-near-markets-in-baghdad-in-iraq.md) _2017-08-27 03:39:22 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):25 people are killed and 60 are wounded by car bombs near markets in Baghdad in Iraq. ](/news/2013/08/6/iraqi-insurgency-post-u-s-withdrawal-p25-people-are-killed-and-60-are-wounded-by-car-bombs-near-markets-in-baghdad-in-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 25 people are killed and 60 are wounded by car bombs near markets in Baghdad in Iraq. ](/news/2013/08/6/iraqi-insurgency-post-u-s-withdrawal-25-people-are-killed-and-60-are-wounded-by-car-bombs-near-markets-in-baghdad-in-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [25 people are killed and 60 are wounded by car bombs near markets in Baghdad in Iraq. ](/news/2013/08/6/25-people-are-killed-and-60-are-wounded-by-car-bombs-near-markets-in-baghdad-in-iraq.md) _(Current version)_
 
 ### Related:

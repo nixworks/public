@@ -18,7 +18,7 @@ An unprecedented downpour of torrential rain triggered &quot;extremely dangerous
 
 ### Changes:
 
-1. [Texas-Oklahoma floods: Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/texas-oklahoma-floods-flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-an.md) _2017-08-27 03:42:24 (First version)_
+1. [Texas-Oklahoma floods: Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/texas-oklahoma-floods-flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-an.md) _2018-02-06 13:49:27 (First version)_
 1. [Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-and-buses-in-houston.md) _(Current version)_
 
 ### Related:

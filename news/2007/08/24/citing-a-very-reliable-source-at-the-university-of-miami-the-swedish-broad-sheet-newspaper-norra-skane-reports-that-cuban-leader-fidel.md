@@ -17,7 +17,7 @@ Formats: [HTML](/news/2007/08/24/citing-a-very-reliable-source-at-the-university
 
 ### Changes:
 
-1. [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper ''Norra Skne'' reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fid.md) _2017-08-25 03:20:42 (First version)_
+1. [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper ''Norra Skne'' reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fid.md) _2018-02-06 13:49:18 (First version)_
 1. [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper "Norra Skne" reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fidel.md) _(Current version)_
 
 ### Related:

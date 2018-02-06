@@ -18,7 +18,7 @@ Former Prime Minister Tony Blair is to donate the reported £4m advance and all 
 
 ### Changes:
 
-1. [Former British Prime Minister Tony Blair is to give the PS4.6 million advance and all royalties from his forthcoming memoirs, ''A Journey'', to a sports centre for badly injured soldiers; pacifists and the families of soldiers killed under his leadership call it "blood money". ](/news/2010/08/16/former-british-prime-minister-tony-blair-is-to-give-the-aps4-6-million-advance-and-all-royalties-from-his-forthcoming-memoirs-a-journey.md) _2017-08-25 03:29:29 (First version)_
+1. [Former British Prime Minister Tony Blair is to give the PS4.6 million advance and all royalties from his forthcoming memoirs, ''A Journey'', to a sports centre for badly injured soldiers; pacifists and the families of soldiers killed under his leadership call it "blood money". ](/news/2010/08/16/former-british-prime-minister-tony-blair-is-to-give-the-aps4-6-million-advance-and-all-royalties-from-his-forthcoming-memoirs-a-journey.md) _2018-02-06 13:49:20 (First version)_
 1. [Former British Prime Minister Tony Blair is to give the GBP4.6 million advance and all royalties from his forthcoming memoirs, "A Journey", to a sports centre for badly injured soldiers; pacifists and the families of soldiers killed under his leadership call it "blood money". ](/news/2010/08/16/former-british-prime-minister-tony-blair-is-to-give-the-agbp4-6-million-advance-and-all-royalties-from-his-forthcoming-memoirs-a-journey.md) _(Current version)_
 
 ### Related:

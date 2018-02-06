@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/19/a-roadside-bomb-kills-at-least-11-people-all-fr
 
 ### Changes:
 
-1. [War in Afghanistan: A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/war-in-afghanistan-a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md) _2017-08-27 03:48:21 (First version)_
+1. [War in Afghanistan: A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/war-in-afghanistan-a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md) _2018-02-06 13:49:30 (First version)_
 1. [A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md) _(Current version)_
 
 ### Related:

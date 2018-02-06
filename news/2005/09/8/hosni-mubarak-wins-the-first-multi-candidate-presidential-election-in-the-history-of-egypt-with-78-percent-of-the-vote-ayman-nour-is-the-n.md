@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/09/8/hosni-mubarak-wins-the-first-multi-candidate-pre
 
 ### Changes:
 
-1. [ Hosni Mubarak wins the first multi-candidate presidential election in the history of Egypt with 78 percent of the vote. Ayman Nour is the nearest runner-up with 12 percent. ](/news/2005/09/8/hosni-mubarak-wins-the-first-multi-candidate-presidential-election-in-the-history-of-egypt-with-78-percent-of-the-vote-ayman-nour-is-the.md) _2017-08-25 03:16:46 (First version)_
+1. [ Hosni Mubarak wins the first multi-candidate presidential election in the history of Egypt with 78 percent of the vote. Ayman Nour is the nearest runner-up with 12 percent. ](/news/2005/09/8/hosni-mubarak-wins-the-first-multi-candidate-presidential-election-in-the-history-of-egypt-with-78-percent-of-the-vote-ayman-nour-is-the.md) _2018-02-06 13:49:16 (First version)_
 1. [ Hosni Mubarak wins the first multi-candidate presidential election in the history of Egypt with 78 percent of the vote. Ayman Nour is the nearest runner-up with 12 percent. ](/news/2005/09/8/hosni-mubarak-wins-the-first-multi-candidate-presidential-election-in-the-history-of-egypt-with-78-percent-of-the-vote-ayman-nour-is-the-n.md) _(Current version)_
 
 ### Related:

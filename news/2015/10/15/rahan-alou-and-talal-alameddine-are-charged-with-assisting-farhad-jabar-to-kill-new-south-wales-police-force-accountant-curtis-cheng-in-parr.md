@@ -17,7 +17,7 @@ Raban Alou, 18, from Wentworthville, faces terrorism charges, while Talal Alamed
 
 ### Changes:
 
-1. [2015 Parramatta shooting: Rahan Alou and Talal Alameddine are charged with assisting Farhad Jabar to kill New South Wales Police Force accountant Curtis Cheng in Parramatta, Australia on 2 October 2015. ](/news/2015/10/15/2015-parramatta-shooting-rahan-alou-and-talal-alameddine-are-charged-with-assisting-farhad-jabar-to-kill-new-south-wales-police-force-accou.md) _2017-08-27 03:43:21 (First version)_
+1. [2015 Parramatta shooting: Rahan Alou and Talal Alameddine are charged with assisting Farhad Jabar to kill New South Wales Police Force accountant Curtis Cheng in Parramatta, Australia on 2 October 2015. ](/news/2015/10/15/2015-parramatta-shooting-rahan-alou-and-talal-alameddine-are-charged-with-assisting-farhad-jabar-to-kill-new-south-wales-police-force-accou.md) _2018-02-06 13:49:27 (First version)_
 1. [Rahan Alou and Talal Alameddine are charged with assisting Farhad Jabar to kill New South Wales Police Force accountant Curtis Cheng in Parramatta, Australia on 2 October 2015. ](/news/2015/10/15/rahan-alou-and-talal-alameddine-are-charged-with-assisting-farhad-jabar-to-kill-new-south-wales-police-force-accountant-curtis-cheng-in-parr.md) _(Current version)_
 
 ### Related:

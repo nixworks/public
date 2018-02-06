@@ -17,7 +17,7 @@ A doctor shot six people inside a New York City hospital, one of them fatally, b
 
 ### Changes:
 
-1. [2017 Bronx Lebanon Hospital attack: A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/2017-bronx-lebanon-hospital-attack-a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-fiv.md) _2017-08-27 03:48:35 (First version)_
+1. [2017 Bronx Lebanon Hospital attack: A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/2017-bronx-lebanon-hospital-attack-a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-fiv.md) _2018-02-06 13:49:30 (First version)_
 1. [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md) _(Current version)_
 
 ### Related:

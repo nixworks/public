@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in
 
 ### Changes:
 
-1. [Mexican Drug War: Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-drug-war-mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes.md) _2017-08-27 03:42:21 (First version)_
+1. [Mexican Drug War: Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-drug-war-mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes.md) _2018-02-06 13:49:27 (First version)_
 1. [Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes-with-alleged-links.md) _(Current version)_
 
 ### Related:

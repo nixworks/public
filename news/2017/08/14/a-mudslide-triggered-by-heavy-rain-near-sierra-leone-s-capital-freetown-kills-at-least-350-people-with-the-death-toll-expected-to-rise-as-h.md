@@ -17,9 +17,9 @@ There are fears for many who may have been asleep when the mudslide hit near Fre
 
 ### Changes:
 
-1. [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 179 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-179-people-with-the-death-toll-expected-to-rise.md) _2017-08-15 00:30:05 (First version)_
-2. [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 200 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-200-people-with-the-death-toll-expected-to-rise.md) _2017-08-15 03:49:42 (Update)_
-3. [2017 Sierra Leone mudslides: A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/2017-sierra-leone-mudslides-a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-dea.md) _2017-08-27 03:48:48 (Update)_
+1. [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 200 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-200-people-with-the-death-toll-expected-to-rise.md) _2018-02-06 13:49:31 (First version)_
+2. [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 179 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-179-people-with-the-death-toll-expected-to-rise.md) _2018-02-06 13:49:31 (Update)_
+3. [2017 Sierra Leone mudslides: A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/2017-sierra-leone-mudslides-a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-dea.md) _2018-02-06 13:49:31 (Update)_
 3. [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md) _(Current version)_
 
 ### Related:

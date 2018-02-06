@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/6/the-death-toll-from-the-sinking-of-the-dong-fang
 
 ### Changes:
 
-1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the "Dong Fang Zhi Xing" rises to 396 with 46 unaccounted for. ](/news/2015/06/6/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-dong-fang-zhi-xing-rises-to-396-with-46-unaccounted-for.md) _2017-08-27 03:42:29 (First version)_
+1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the "Dong Fang Zhi Xing" rises to 396 with 46 unaccounted for. ](/news/2015/06/6/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-dong-fang-zhi-xing-rises-to-396-with-46-unaccounted-for.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the sinking of the "Dong Fang Zhi Xing" rises to 396 with 46 unaccounted for. ](/news/2015/06/6/the-death-toll-from-the-sinking-of-the-dong-fang-zhi-xing-rises-to-396-with-46-unaccounted-for.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Hundreds of suspected al-Qaeda gunmen have captured the southern Yemeni city of 
 
 ### Changes:
 
-1. [2011 Yemeni uprising:Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-pthree-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md) _2017-08-25 03:33:17 (First version)_
-2. [2011 Yemeni uprising:: Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md) _2017-08-27 03:33:27 (Update)_
+1. [2011 Yemeni uprising:: Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni uprising:Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-pthree-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md) _2018-02-06 13:49:22 (Update)_
 2. [Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md) _(Current version)_
 
 ### Related:

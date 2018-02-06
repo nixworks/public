@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/06/14/time-reports-that-a-federal-grand-jury-is-inves
 
 ### Changes:
 
-1. [Iraq War:''Time'' reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-p-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md) _2017-08-25 03:33:29 (First version)_
-2. [Iraq War:: "Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md) _2017-08-27 03:33:37 (Update)_
+1. [Iraq War:: "Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md) _2018-02-06 13:49:22 (First version)_
+2. [Iraq War:''Time'' reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-p-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md) _2018-02-06 13:49:22 (Update)_
 2. ["Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency-at-iraq-s-a.md) _(Current version)_
 
 ### Related:

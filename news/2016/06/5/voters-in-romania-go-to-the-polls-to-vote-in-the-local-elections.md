@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/06/5/voters-in-romania-go-to-the-polls-to-vote-in-the
 
 ### Changes:
 
-1. [Romanian local elections, 2016: Voters in Romania go to the polls to vote in the local elections. ](/news/2016/06/5/romanian-local-elections-2016-voters-in-romania-go-to-the-polls-to-vote-in-the-local-elections.md) _2017-08-27 03:46:12 (First version)_
+1. [Romanian local elections, 2016: Voters in Romania go to the polls to vote in the local elections. ](/news/2016/06/5/romanian-local-elections-2016-voters-in-romania-go-to-the-polls-to-vote-in-the-local-elections.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Romania go to the polls to vote in the local elections. ](/news/2016/06/5/voters-in-romania-go-to-the-polls-to-vote-in-the-local-elections.md) _(Current version)_
 
 ### Related:

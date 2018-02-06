@@ -19,8 +19,8 @@ Repercussions of Japan&#39;s triple disaster came into clearer focus Monday afte
 
 ### Changes:
 
-1. [Fukushima I nuclear accidents:The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/fukushima-i-nuclear-accidents-pthe-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-even.md) _2017-08-25 03:32:35 (First version)_
-2. [Fukushima I nuclear accidents:: The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/fukushima-i-nuclear-accidents-the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-eve.md) _2017-08-27 03:32:42 (Update)_
+1. [Fukushima I nuclear accidents:: The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/fukushima-i-nuclear-accidents-the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-eve.md) _2018-02-06 13:49:22 (First version)_
+2. [Fukushima I nuclear accidents:The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/fukushima-i-nuclear-accidents-pthe-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-even.md) _2018-02-06 13:49:22 (Update)_
 2. [The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-events-scale-the-same-as-the-three.md) _(Current version)_
 
 ### Related:

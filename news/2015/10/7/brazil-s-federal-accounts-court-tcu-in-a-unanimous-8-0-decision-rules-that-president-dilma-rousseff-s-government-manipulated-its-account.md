@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/10/7/brazil-s-federal-accounts-court-tcu-in-a-unanimo
 
 ### Changes:
 
-1. [Brazil's Federal Accounts Court (TCU), in a unanimous 8-0 decision, rules that President Dilma Rousseff's government manipulated its accounts in 2014 to disguise a widening fiscal deficit. The ruling, while not legally binding, is expected to be used by opposition lawmakers who are calling for impeachment proceedings. ](/news/2015/10/7/brazil-s-federal-accounts-court-tcu-in-a-unanimous-8-0-decision-rules-that-president-dilma-rousseff-s-government-manipulated-its-accoun.md) _2017-08-25 03:42:58 (First version)_
+1. [Brazil's Federal Accounts Court (TCU), in a unanimous 8-0 decision, rules that President Dilma Rousseff's government manipulated its accounts in 2014 to disguise a widening fiscal deficit. The ruling, while not legally binding, is expected to be used by opposition lawmakers who are calling for impeachment proceedings. ](/news/2015/10/7/brazil-s-federal-accounts-court-tcu-in-a-unanimous-8-0-decision-rules-that-president-dilma-rousseff-s-government-manipulated-its-accoun.md) _2018-02-06 13:49:28 (First version)_
 1. [Brazil's Federal Accounts Court (TCU), in a unanimous 8-0 decision, rules that President Dilma Rousseff's government manipulated its accounts in 2014 to disguise a widening fiscal deficit. The ruling, while not legally binding, is expected to be used by opposition lawmakers who are calling for impeachment proceedings. ](/news/2015/10/7/brazil-s-federal-accounts-court-tcu-in-a-unanimous-8-0-decision-rules-that-president-dilma-rousseff-s-government-manipulated-its-account.md) _(Current version)_
 
 ### Related:

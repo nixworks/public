@@ -16,7 +16,7 @@ Irish police say they believe the woman was murdered in a house in south Dublin 
 
 ### Changes:
 
-1. [Killing of Patricia O'Connor: The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/killing-of-patricia-o-connor-the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-tod.md) _2017-08-27 03:48:29 (First version)_
+1. [Killing of Patricia O'Connor: The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/killing-of-patricia-o-connor-the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-tod.md) _2018-02-06 13:49:30 (First version)_
 1. [The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.md) _(Current version)_
 
 ### Related:

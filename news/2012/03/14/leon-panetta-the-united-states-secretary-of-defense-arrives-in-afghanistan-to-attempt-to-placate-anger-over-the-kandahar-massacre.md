@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/03/14/leon-panetta-the-united-states-secretary-of-def
 
 ### Changes:
 
-1. [Afghanistan:Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/afghanistan-pleon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-mass.md) _2017-08-25 03:35:17 (First version)_
-2. [Afghanistan:: Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/afghanistan-leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-mas.md) _2017-08-27 03:35:26 (Update)_
+1. [Afghanistan:Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/afghanistan-pleon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-mass.md) _2018-02-06 13:49:23 (First version)_
+2. [Afghanistan:: Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/afghanistan-leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-mas.md) _2018-02-06 13:49:23 (Update)_
 2. [Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-massacre.md) _(Current version)_
 
 ### Related:

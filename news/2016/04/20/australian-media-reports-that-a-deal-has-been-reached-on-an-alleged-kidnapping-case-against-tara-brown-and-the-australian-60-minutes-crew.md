@@ -16,7 +16,7 @@ A deal has reportedly been reached in the case of the Brisbane mother Sally Faul
 
 ### Changes:
 
-1. [Australian media reports that a deal has been reached on an alleged kidnapping case against Tara Brown and the Australian ''60 Minutes'' crew. ](/news/2016/04/20/australian-media-reports-that-a-deal-has-been-reached-on-an-alleged-kidnapping-case-against-tara-brown-and-the-australian-60-minutes-cre.md) _2017-08-25 03:45:20 (First version)_
+1. [Australian media reports that a deal has been reached on an alleged kidnapping case against Tara Brown and the Australian ''60 Minutes'' crew. ](/news/2016/04/20/australian-media-reports-that-a-deal-has-been-reached-on-an-alleged-kidnapping-case-against-tara-brown-and-the-australian-60-minutes-cre.md) _2018-02-06 13:49:28 (First version)_
 1. [Australian media reports that a deal has been reached on an alleged kidnapping case against Tara Brown and the Australian "60 Minutes" crew. ](/news/2016/04/20/australian-media-reports-that-a-deal-has-been-reached-on-an-alleged-kidnapping-case-against-tara-brown-and-the-australian-60-minutes-crew.md) _(Current version)_
 
 ### Related:

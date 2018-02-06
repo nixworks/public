@@ -16,8 +16,8 @@ At least 25 people have been killed in coordinated attacks by unidentified men a
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/nigerian-sharia-conflict-p25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propelle.md) _2017-08-25 03:38:00 (First version)_
-2. [Nigerian Sharia conflict:: 25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/nigerian-sharia-conflict-25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propell.md) _2017-08-27 03:38:11 (Update)_
+1. [Nigerian Sharia conflict:25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/nigerian-sharia-conflict-p25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propelle.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: 25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/nigerian-sharia-conflict-25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propell.md) _2018-02-06 13:49:24 (Update)_
 2. [25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propelled-grenades-in-northern-nig.md) _(Current version)_
 
 ### Related:

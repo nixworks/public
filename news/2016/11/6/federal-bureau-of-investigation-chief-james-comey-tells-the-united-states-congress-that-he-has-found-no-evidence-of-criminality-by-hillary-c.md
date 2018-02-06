@@ -17,7 +17,7 @@ An FBI investigation finds no evidence of criminality in the latest batch of Hil
 
 ### Changes:
 
-1. [Hillary Clinton email controversy: Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/hillary-clinton-email-controversy-federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-e.md) _2017-08-27 03:47:11 (First version)_
+1. [Hillary Clinton email controversy: Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/hillary-clinton-email-controversy-federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-e.md) _2018-02-06 13:49:29 (First version)_
 1. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _(Current version)_
 
 ### Related:

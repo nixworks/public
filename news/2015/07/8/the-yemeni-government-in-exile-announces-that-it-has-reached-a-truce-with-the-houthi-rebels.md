@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/yemeni-crisis-2011-present-the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _2017-08-27 03:42:40 (First version)_
+1. [Yemeni Crisis (2011-present): The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/yemeni-crisis-2011-present-the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _2018-02-06 13:49:27 (First version)_
 1. [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _(Current version)_
 
 ### Related:

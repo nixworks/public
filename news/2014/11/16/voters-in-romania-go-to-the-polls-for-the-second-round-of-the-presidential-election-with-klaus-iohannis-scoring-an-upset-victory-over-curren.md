@@ -17,7 +17,7 @@ People in Romania go to the polls to elect a new president in a run-off between 
 
 ### Changes:
 
-1. [Romanian presidential election, 2014: Voters in Romania go to the polls for the second round of the presidential election with Klaus Iohannis scoring an upset victory over current Prime Minister Victor Ponta. ](/news/2014/11/16/romanian-presidential-election-2014-voters-in-romania-go-to-the-polls-for-the-second-round-of-the-presidential-election-with-klaus-iohanni.md) _2017-08-27 03:41:31 (First version)_
+1. [Romanian presidential election, 2014: Voters in Romania go to the polls for the second round of the presidential election with Klaus Iohannis scoring an upset victory over current Prime Minister Victor Ponta. ](/news/2014/11/16/romanian-presidential-election-2014-voters-in-romania-go-to-the-polls-for-the-second-round-of-the-presidential-election-with-klaus-iohanni.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Romania go to the polls for the second round of the presidential election with Klaus Iohannis scoring an upset victory over current Prime Minister Victor Ponta. ](/news/2014/11/16/voters-in-romania-go-to-the-polls-for-the-second-round-of-the-presidential-election-with-klaus-iohannis-scoring-an-upset-victory-over-curren.md) _(Current version)_
 
 ### Related:

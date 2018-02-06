@@ -5,7 +5,7 @@ Formats: [HTML](2012/06/1/index.html)  [JSON](2012/06/1/index.json)  [XML](2012/
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md)
-_Context: China, Cuba, Syrian uprising (2011-present), Human Rights Council, massacre, Houla, Russia_
+_Context: Russia, Syrian uprising (2011-present), massacre, Cuba, Houla, Human Rights Council, China_
 
 ##### The New York Times
 ### ["The New York Times" reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-stux.md)
@@ -47,7 +47,7 @@ A US government agency goes to court to secure supplies of a drug used in lethal
 
 ##### Irish referendum
 ### [Counting of votes in the Irish referendum on the European Fiscal Compact gets underway, with early tallies indicating the Compact has been approved. ](/news/2012/06/1/counting-of-votes-in-the-irish-referendum-on-the-european-fiscal-compact-gets-underway-with-early-tallies-indicating-the-compact-has-been-a.md)
-_Context: European Fiscal Compact, Irish referendum_
+_Context: Irish referendum, European Fiscal Compact_
 
 ## [Previous Day...](/news/2012/05/31/index.md)
 

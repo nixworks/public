@@ -18,7 +18,7 @@ Officials in a popular stretch of coastal North Carolina ordered all visitors to
 
 ### Changes:
 
-1. [Hurricane Irene: Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coa.md) _2017-08-27 03:34:11 (First version)_
+1. [Hurricane Irene: Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coa.md) _2018-02-06 13:49:22 (First version)_
 1. [Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coast-of-the-united.md) _(Current version)_
 
 ### Related:

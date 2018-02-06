@@ -18,8 +18,8 @@ At least 136 people reportedly killed in violence throughout the country, a day 
 
 ### Changes:
 
-1. [Ramadan Massacre:At least 121 people are killed in a Syrian Army tank raid on the town of Hama and over 150 people are reportedly killed across the country. ](/news/2011/07/31/ramadan-massacre-pat-least-121-people-are-killed-in-a-syrian-army-tank-raid-on-the-town-of-hama-and-over-150-people-are-reportedly-killed-ac.md) _2017-08-25 03:33:54 (First version)_
-2. [Ramadan Massacre:: At least 121 people are killed in a Syrian Army tank raid on the town of Hama and over 150 people are reportedly killed across the country. ](/news/2011/07/31/ramadan-massacre-at-least-121-people-are-killed-in-a-syrian-army-tank-raid-on-the-town-of-hama-and-over-150-people-are-reportedly-killed-a.md) _2017-08-27 03:34:02 (Update)_
+1. [Ramadan Massacre:At least 121 people are killed in a Syrian Army tank raid on the town of Hama and over 150 people are reportedly killed across the country. ](/news/2011/07/31/ramadan-massacre-pat-least-121-people-are-killed-in-a-syrian-army-tank-raid-on-the-town-of-hama-and-over-150-people-are-reportedly-killed-ac.md) _2018-02-06 13:49:22 (First version)_
+2. [Ramadan Massacre:: At least 121 people are killed in a Syrian Army tank raid on the town of Hama and over 150 people are reportedly killed across the country. ](/news/2011/07/31/ramadan-massacre-at-least-121-people-are-killed-in-a-syrian-army-tank-raid-on-the-town-of-hama-and-over-150-people-are-reportedly-killed-a.md) _2018-02-06 13:49:22 (Update)_
 2. [At least 121 people are killed in a Syrian Army tank raid on the town of Hama and over 150 people are reportedly killed across the country. ](/news/2011/07/31/at-least-121-people-are-killed-in-a-syrian-army-tank-raid-on-the-town-of-hama-and-over-150-people-are-reportedly-killed-across-the-country.md) _(Current version)_
 
 ### Related:

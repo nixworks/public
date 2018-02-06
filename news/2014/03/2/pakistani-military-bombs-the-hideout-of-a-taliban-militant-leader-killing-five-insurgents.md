@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/2/pakistani-military-bombs-the-hideout-of-a-taliba
 
 ### Changes:
 
-1. [War in North-West Pakistan:Pakistani military bombs the hideout of a Taliban militant leader killing five insurgents. ](/news/2014/03/2/war-in-north-west-pakistan-ppakistani-military-bombs-the-hideout-of-a-taliban-militant-leader-killing-five-insurgents.md) _2017-08-25 03:40:06 (First version)_
-2. [War in North-West Pakistan:: Pakistani military bombs the hideout of a Taliban militant leader killing five insurgents. ](/news/2014/03/2/war-in-north-west-pakistan-pakistani-military-bombs-the-hideout-of-a-taliban-militant-leader-killing-five-insurgents.md) _2017-08-27 03:40:24 (Update)_
+1. [War in North-West Pakistan:Pakistani military bombs the hideout of a Taliban militant leader killing five insurgents. ](/news/2014/03/2/war-in-north-west-pakistan-ppakistani-military-bombs-the-hideout-of-a-taliban-militant-leader-killing-five-insurgents.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: Pakistani military bombs the hideout of a Taliban militant leader killing five insurgents. ](/news/2014/03/2/war-in-north-west-pakistan-pakistani-military-bombs-the-hideout-of-a-taliban-militant-leader-killing-five-insurgents.md) _2018-02-06 13:49:25 (Update)_
 2. [Pakistani military bombs the hideout of a Taliban militant leader killing five insurgents. ](/news/2014/03/2/pakistani-military-bombs-the-hideout-of-a-taliban-militant-leader-killing-five-insurgents.md) _(Current version)_
 
 ### Related:

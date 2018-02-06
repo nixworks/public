@@ -17,8 +17,8 @@ Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the 
 
 ### Changes:
 
-1. [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chief of Staffs amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chief-of-staffs-amid-criticism-ov.md) _2017-06-12 15:30:07 (First version)_
-2. [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chiefs-of-staff-amid-criticism-ov.md) _2017-08-25 03:48:01 (Update)_
+1. [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chiefs-of-staff-amid-criticism-ov.md) _2018-02-06 13:49:30 (First version)_
+2. [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chief of Staffs amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chief-of-staffs-amid-criticism-ov.md) _2018-02-06 13:49:30 (Update)_
 2. [Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chiefs-of-staff-amid-criticism-over-their-role-in.md) _(Current version)_
 
 ### Related:

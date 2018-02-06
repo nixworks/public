@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ Abducted Italian journalist Giuliana Sgrena, a reporter for ''Il Manifesto'', is released in Iraq. An Italian secret service agent, Nicola Calipari, was killed and Sgrena wounded when a U.S. armored vehicle opened fire on her car after it allegedly failed to slow as it approached a checkpoint. ](/news/2005/03/4/abducted-italian-journalist-giuliana-sgrena-a-reporter-for-il-manifesto-is-released-in-iraq-an-italian-secret-service-agent-nicola.md) _2017-08-25 03:15:44 (First version)_
+1. [ Abducted Italian journalist Giuliana Sgrena, a reporter for ''Il Manifesto'', is released in Iraq. An Italian secret service agent, Nicola Calipari, was killed and Sgrena wounded when a U.S. armored vehicle opened fire on her car after it allegedly failed to slow as it approached a checkpoint. ](/news/2005/03/4/abducted-italian-journalist-giuliana-sgrena-a-reporter-for-il-manifesto-is-released-in-iraq-an-italian-secret-service-agent-nicola.md) _2018-02-06 13:49:16 (First version)_
 1. [ Abducted Italian journalist Giuliana Sgrena, a reporter for "Il Manifesto", is released in Iraq. An Italian secret service agent, Nicola Calipari, was killed and Sgrena wounded when a U.S. armored vehicle opened fire on her car after it allegedly failed to slow as it approached a checkpoint. ](/news/2005/03/4/abducted-italian-journalist-giuliana-sgrena-a-reporter-for-il-manifesto-is-released-in-iraq-an-italian-secret-service-agent-nicola-ca.md) _(Current version)_
 
 ### Related:

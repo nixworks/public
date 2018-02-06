@@ -16,7 +16,7 @@ Defense lawyers for James E. Holmes, charged with opening fire on a packed Auror
 
 ### Changes:
 
-1. [Paperwork filled on behalf of Aurora shooting suspect James E. Holmes states that he plans to plead not guilty by reason of insanity. ](/news/2013/05/7/paperwork-filled-on-behalf-of-aurora-shooting-suspect-james-e-holmes-states-that-he-plans-to-plead-not-guilty-by-reason-of-insanity.md) _2017-10-17 03:44:55 (First version)_
+1. [Paperwork filled on behalf of Aurora shooting suspect James E. Holmes states that he plans to plead not guilty by reason of insanity. ](/news/2013/05/7/paperwork-filled-on-behalf-of-aurora-shooting-suspect-james-e-holmes-states-that-he-plans-to-plead-not-guilty-by-reason-of-insanity.md) _2018-02-06 13:49:25 (First version)_
 1. [Paperwork filled on behalf of Aurora shooting suspect James Holmes states that he plans to plead not guilty by reason of insanity. ](/news/2013/05/7/paperwork-filled-on-behalf-of-aurora-shooting-suspect-james-holmes-states-that-he-plans-to-plead-not-guilty-by-reason-of-insanity.md) _(Current version)_
 
 ### Related:

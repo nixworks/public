@@ -16,8 +16,8 @@ Two Cuban diplomats were kicked out of their embassy in Washington by the State 
 
 ### Changes:
 
-1. [Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C. after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-forced-u-s-officials-to-return-ho.md) _2017-08-10 00:30:05 (First version)_
-2. [Cuba-United States relations: Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/cuba-united-states-relations-two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-f.md) _2017-08-27 03:48:47 (Update)_
+1. [Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C. after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-forced-u-s-officials-to-return-ho.md) _2018-02-06 13:49:31 (First version)_
+2. [Cuba-United States relations: Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/cuba-united-states-relations-two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-f.md) _2018-02-06 13:49:31 (Update)_
 2. [Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-forced-u-s-officials-to-return-h.md) _(Current version)_
 
 ### Related:

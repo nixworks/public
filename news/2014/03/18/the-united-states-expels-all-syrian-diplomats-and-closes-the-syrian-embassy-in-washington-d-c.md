@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-a
 
 ### Changes:
 
-1. [United States-Syria relations:The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-pthe-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _2017-08-25 03:40:11 (First version)_
-2. [United States-Syria relations:: The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _2017-08-27 03:40:29 (Update)_
+1. [United States-Syria relations:: The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _2018-02-06 13:49:25 (First version)_
+2. [United States-Syria relations:The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-pthe-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _(Current version)_
 
 ### Related:

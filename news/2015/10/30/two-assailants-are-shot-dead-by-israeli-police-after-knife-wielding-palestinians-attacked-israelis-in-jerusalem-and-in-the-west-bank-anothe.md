@@ -17,7 +17,7 @@ Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/israeli-palestinian-conflict-2015-two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in.md) _2017-08-27 03:43:36 (First version)_
+1. [Israeli-Palestinian conflict (2015): Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/israeli-palestinian-conflict-2015-two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-
 
 ### Changes:
 
-1. [The Broadway production ''Spider-Man: Turn Off the Dark'' is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osh.md) _2017-08-25 03:32:25 (First version)_
+1. [The Broadway production ''Spider-Man: Turn Off the Dark'' is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osh.md) _2018-02-06 13:49:22 (First version)_
 1. [The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.md) _(Current version)_
 
 ### Related:

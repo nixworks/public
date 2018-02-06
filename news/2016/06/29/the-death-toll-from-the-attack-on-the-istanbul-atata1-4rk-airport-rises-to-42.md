@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/29/the-death-toll-from-the-attack-on-the-istanbul-
 
 ### Changes:
 
-1. [2016 Istanbul airport attack: The death toll from the attack on the Istanbul Ataturk Airport rises to 42. ](/news/2016/06/29/2016-istanbul-airport-attack-the-death-toll-from-the-attack-on-the-istanbul-atata1-4rk-airport-rises-to-42.md) _2017-08-27 03:46:22 (First version)_
+1. [2016 Istanbul airport attack: The death toll from the attack on the Istanbul Ataturk Airport rises to 42. ](/news/2016/06/29/2016-istanbul-airport-attack-the-death-toll-from-the-attack-on-the-istanbul-atata1-4rk-airport-rises-to-42.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll from the attack on the Istanbul Ataturk Airport rises to 42. ](/news/2016/06/29/the-death-toll-from-the-attack-on-the-istanbul-atata1-4rk-airport-rises-to-42.md) _(Current version)_
 
 ### Related:

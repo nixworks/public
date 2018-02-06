@@ -18,8 +18,8 @@ At least 27 people were killed and 27 injured in a mass shooting at a church in 
 
 ### Changes:
 
-1. [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 27 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-27-people-and-injuring-30-others.md) _2017-11-05 23:30:06 (First version)_
-2. [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 25 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-25-people-and-injuring-30-others.md) _2017-11-06 00:30:07 (Update)_
+1. [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 27 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-27-people-and-injuring-30-others.md) _2018-02-06 13:49:31 (First version)_
+2. [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 25 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-25-people-and-injuring-30-others.md) _2018-02-06 13:49:31 (Update)_
 2. [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas in the San Antonio area, killing at least 26 people and injuring many others. The 26-year-old gunman is later found dead in his car from a self-inflicted gunshot wound. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.md) _(Current version)_
 
 ### Related:

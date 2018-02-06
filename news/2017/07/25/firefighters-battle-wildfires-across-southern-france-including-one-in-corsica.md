@@ -17,10 +17,10 @@ Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;acro
 
 ### Changes:
 
-1. [European heatwaveFirefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-heatwavepfirefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-07-25 11:30:06 (First version)_
-2. [European Firefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-firefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-07-25 13:30:06 (Update)_
-3. [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-08-25 03:48:16 (Update)_
-4. [2017 heat wave in Europe: Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europe-firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2017-08-27 03:48:43 (Update)_
+1. [European heatwaveFirefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-heatwavepfirefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2018-02-06 13:49:30 (First version)_
+2. [European Firefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-firefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2018-02-06 13:49:30 (Update)_
+3. [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2018-02-06 13:49:30 (Update)_
+4. [2017 heat wave in Europe: Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europe-firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _2018-02-06 13:49:30 (Update)_
 4. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _(Current version)_
 
 ### Related:

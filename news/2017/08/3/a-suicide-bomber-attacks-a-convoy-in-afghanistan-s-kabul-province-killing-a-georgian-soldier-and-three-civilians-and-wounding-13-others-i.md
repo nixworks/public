@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan
 
 ### Changes:
 
-1. [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md) _2017-08-05 03:49:10 (First version)_
-2. [War in Afghanistan (2015-present): A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/war-in-afghanistan-2015-present-a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three.md) _2017-08-27 03:48:46 (Update)_
+1. [War in Afghanistan (2015-present): A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/war-in-afghanistan-2015-present-a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three.md) _2018-02-06 13:49:31 (First version)_
+2. [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md) _2018-02-06 13:49:31 (Update)_
 2. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _(Current version)_
 
 ### Related:

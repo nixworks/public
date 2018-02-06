@@ -16,7 +16,7 @@ It is the second kidnapping in the Philippine region in a week.
 
 ### Changes:
 
-1. [Moro conflict: Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/moro-conflict-six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _2017-08-27 03:47:13 (First version)_
+1. [Moro conflict: Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/moro-conflict-six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _2018-02-06 13:49:29 (First version)_
 1. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _(Current version)_
 
 ### Related:

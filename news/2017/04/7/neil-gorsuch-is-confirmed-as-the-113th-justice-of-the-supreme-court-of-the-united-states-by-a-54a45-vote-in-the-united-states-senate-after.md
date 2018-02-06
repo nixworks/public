@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-o
 
 ### Changes:
 
-1. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54-45-vote-in-the-united-states-senate-after.md) _2017-08-27 03:48:07 (First version)_
+1. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54-45-vote-in-the-united-states-senate-after.md) _2018-02-06 13:49:30 (First version)_
 1. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md) _(Current version)_
 
 ### Related:

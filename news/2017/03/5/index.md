@@ -13,7 +13,7 @@ First-time offenders will face $270 fine if caught using marijuana in a public p
 
 ##### South Korea
 ### [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md)
-_Context: defects, North Korea, $, South Korea_
+_Context: defects, $, South Korea, North Korea_
 
 ## [Previous Day...](/news/2017/03/4/index.md)
 

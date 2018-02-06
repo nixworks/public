@@ -18,7 +18,7 @@ A court sentenced five men to death and jailed seven for life on Wednesday for p
 
 ### Changes:
 
-1. [2006 Mumbai train bombings: An Indian court sentences five suspected Islamic militants to death and seven others to life imprisonment for bombing attacks nine years ago on seven Mumbai commuter trains that killed 188 people and wounded more than 800. ](/news/2015/09/30/2006-mumbai-train-bombings-an-indian-court-sentences-five-suspected-islamic-militants-to-death-and-seven-others-to-life-imprisonment-for-bo.md) _2017-08-27 03:43:12 (First version)_
+1. [2006 Mumbai train bombings: An Indian court sentences five suspected Islamic militants to death and seven others to life imprisonment for bombing attacks nine years ago on seven Mumbai commuter trains that killed 188 people and wounded more than 800. ](/news/2015/09/30/2006-mumbai-train-bombings-an-indian-court-sentences-five-suspected-islamic-militants-to-death-and-seven-others-to-life-imprisonment-for-bo.md) _2018-02-06 13:49:27 (First version)_
 1. [An Indian court sentences five suspected Islamic militants to death and seven others to life imprisonment for bombing attacks nine years ago on seven Mumbai commuter trains that killed 188 people and wounded more than 800. ](/news/2015/09/30/an-indian-court-sentences-five-suspected-islamic-militants-to-death-and-seven-others-to-life-imprisonment-for-bombing-attacks-nine-years-ago.md) _(Current version)_
 
 ### Related:

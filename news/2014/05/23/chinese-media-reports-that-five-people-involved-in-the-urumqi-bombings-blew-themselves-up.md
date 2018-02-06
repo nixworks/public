@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/23/chinese-media-reports-that-five-people-involved
 
 ### Changes:
 
-1. [May 2014 rmqi attack:Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/may-2014-urumqi-attack-pchinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md) _2017-08-25 03:40:26 (First version)_
-2. [May 2014 rmqi attack:: Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/may-2014-urumqi-attack-chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md) _2017-08-27 03:40:44 (Update)_
+1. [May 2014 rmqi attack:Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/may-2014-urumqi-attack-pchinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md) _2018-02-06 13:49:26 (First version)_
+2. [May 2014 rmqi attack:: Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/may-2014-urumqi-attack-chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md) _2018-02-06 13:49:26 (Update)_
 2. [Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md) _(Current version)_
 
 ### Related:

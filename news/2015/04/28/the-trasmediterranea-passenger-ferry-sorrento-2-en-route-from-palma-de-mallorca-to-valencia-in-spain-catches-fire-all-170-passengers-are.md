@@ -16,8 +16,8 @@ About 170 people were rescued and three lightly injured after a passenger ferry 
 
 ### Changes:
 
-1. [The Trasmediterranea passenger ferry {{MV|Sorrento|2003|2}}, en route from Palma de Mallorca to Valencia in Spain, catches fire. All 170 passengers are rescued. ](/news/2015/04/28/the-trasmediterranea-passenger-ferry-mv-sorrento-2003-2-en-route-from-palma-de-mallorca-to-valencia-in-spain-catches-fire-all-170-pas.md) _2017-05-01 03:45:33 (First version)_
-2. [The Trasmediterranea passenger ferry Sorrento|2003|2, en route from Palma de Mallorca to Valencia in Spain, catches fire. All 170 passengers are rescued. ](/news/2015/04/28/the-trasmediterranea-passenger-ferry-sorrento-2003-2-en-route-from-palma-de-mallorca-to-valencia-in-spain-catches-fire-all-170-passengers.md) _2017-08-29 03:41:54 (Update)_
+1. [The Trasmediterranea passenger ferry Sorrento|2003|2, en route from Palma de Mallorca to Valencia in Spain, catches fire. All 170 passengers are rescued. ](/news/2015/04/28/the-trasmediterranea-passenger-ferry-sorrento-2003-2-en-route-from-palma-de-mallorca-to-valencia-in-spain-catches-fire-all-170-passengers.md) _2018-02-06 13:49:27 (First version)_
+2. [The Trasmediterranea passenger ferry {{MV|Sorrento|2003|2}}, en route from Palma de Mallorca to Valencia in Spain, catches fire. All 170 passengers are rescued. ](/news/2015/04/28/the-trasmediterranea-passenger-ferry-mv-sorrento-2003-2-en-route-from-palma-de-mallorca-to-valencia-in-spain-catches-fire-all-170-pas.md) _2018-02-06 13:49:27 (Update)_
 2. [The Trasmediterranea passenger ferry Sorrento 2, en route from Palma de Mallorca to Valencia in Spain, catches fire. All 170 passengers are rescued. ](/news/2015/04/28/the-trasmediterranea-passenger-ferry-sorrento-2-en-route-from-palma-de-mallorca-to-valencia-in-spain-catches-fire-all-170-passengers-are.md) _(Current version)_
 
 ### Related:

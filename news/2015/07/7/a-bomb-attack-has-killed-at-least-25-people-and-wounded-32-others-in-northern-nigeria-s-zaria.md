@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/7/a-bomb-attack-has-killed-at-least-25-people-and-
 
 ### Changes:
 
-1. [Boko Haram insurgency: Timeline of Boko Haram insurgency: A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/boko-haram-insurgency-timeline-of-boko-haram-insurgency-a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nige.md) _2017-08-27 03:42:40 (First version)_
+1. [Boko Haram insurgency: Timeline of Boko Haram insurgency: A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/boko-haram-insurgency-timeline-of-boko-haram-insurgency-a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nige.md) _2018-02-06 13:49:27 (First version)_
 1. [ A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nigeria-s-zaria.md) _(Current version)_
 
 ### Related:

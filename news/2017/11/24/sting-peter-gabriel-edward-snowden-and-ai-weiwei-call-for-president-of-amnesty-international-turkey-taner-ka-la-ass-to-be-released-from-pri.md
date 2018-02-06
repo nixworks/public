@@ -15,7 +15,7 @@ Amnesty says musicians Sting and Peter Gabriel and whistle-blower Edward Snowden
 
 ### Changes:
 
-1. [Sting, Peter Gabriel, Ed Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-ed-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-prison.md) _2017-11-25 06:30:05 (First version)_
+1. [Sting, Peter Gabriel, Ed Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-ed-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-prison.md) _2018-02-06 13:49:31 (First version)_
 1. [Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-pri.md) _(Current version)_
 
 ### Related:

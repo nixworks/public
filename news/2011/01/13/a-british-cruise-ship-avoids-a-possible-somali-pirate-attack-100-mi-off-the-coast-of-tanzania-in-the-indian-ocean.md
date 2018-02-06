@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-
 
 ### [2011-01-13](/news/2011/01/13/index.md)
 
-##### British
+##### United Kingdom
 # A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-
 
 ### Changes:
 
-1. [A British cruise ship avoids a possible Somali pirate attack {{convert|100|mi|km}} off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-convert-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _2017-05-01 03:33:50 (First version)_
-2. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _2017-08-29 03:31:53 (Update)_
+1. [A British cruise ship avoids a possible Somali pirate attack {{convert|100|mi|km}} off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-convert-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _2018-02-06 13:49:21 (First version)_
+2. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _2018-02-06 13:49:21 (Update)_
 2. [A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-off-the-coast-of-tanzania-in-the-indian-ocean.md) _(Current version)_
 
 ### Related:

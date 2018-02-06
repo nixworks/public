@@ -16,7 +16,7 @@ South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his 
 
 ### Changes:
 
-1. [South Sudanese Civil War: Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. ](/news/2016/02/12/south-sudanese-civil-war-salva-kiir-the-president-of-south-sudan-appoints-rebel-leader-riek-machar-as-vice-president-in-a-bid-to-end-a-tw.md) _2017-08-27 03:44:53 (First version)_
+1. [South Sudanese Civil War: Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. ](/news/2016/02/12/south-sudanese-civil-war-salva-kiir-the-president-of-south-sudan-appoints-rebel-leader-riek-machar-as-vice-president-in-a-bid-to-end-a-tw.md) _2018-02-06 13:49:28 (First version)_
 1. [Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. ](/news/2016/02/12/salva-kiir-the-president-of-south-sudan-appoints-rebel-leader-riek-machar-as-vice-president-in-a-bid-to-end-a-two-year-civil-war.md) _(Current version)_
 
 ### Related:

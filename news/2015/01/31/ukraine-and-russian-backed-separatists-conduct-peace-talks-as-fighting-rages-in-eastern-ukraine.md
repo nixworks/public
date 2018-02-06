@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-
 
 ### Changes:
 
-1. [2014-15 Russian military intervention in Ukraine: Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/2014-15-russian-military-intervention-in-ukraine-ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern.md) _2017-08-27 03:41:52 (First version)_
+1. [2014-15 Russian military intervention in Ukraine: Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/2014-15-russian-military-intervention-in-ukraine-ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern-ukraine.md) _(Current version)_
 
 ### Related:

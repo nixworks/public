@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-he
 
 ### Changes:
 
-1. [Hundreds of people gather outside ''Daily Mail'' headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teach.md) _2017-08-25 03:38:00 (First version)_
+1. [Hundreds of people gather outside ''Daily Mail'' headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teach.md) _2018-02-06 13:49:24 (First version)_
 1. [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md) _(Current version)_
 
 ### Related:

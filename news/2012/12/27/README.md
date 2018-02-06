@@ -17,15 +17,15 @@ Toyota Motor Corp., moving to put years of legal problems behind it, has agreed 
 
 ##### New York
 ### [A New York state appeals court dismissed a lawsuit brought by several hedge funds against Porsche Automobil Holding, in a controversy that dates to the volatility of the stock price of Volkswagen in October 2008. ](/news/2012/12/27/a-new-york-state-appeals-court-dismissed-a-lawsuit-brought-by-several-hedge-funds-against-porsche-automobil-holding-in-a-controversy-that-d.md)
-_Context: state appeals court, hedge funds, New York, Volkswagen, Porsche Automobil Holding_
+_Context: state appeals court, Porsche Automobil Holding, Volkswagen, New York, hedge funds_
 
 ##### Japan
 ### [Japan's Coast Guard sends a rescue team to the Russian fishing trawler "Alanet" with 24 fishermen on board which is in distress off Japanese Hokkaido Island. ](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.md)
-_Context: fishermen, Japan Coast Guard, Russia, Japan, rescue team, fishing trawler, Hokkaido Island_
+_Context: fishermen, fishing trawler, rescue team, Japan Coast Guard, Russia, Japan, Hokkaido Island_
 
 ##### Private investigator
 ### [Private investigator Paul Huebl claims Whitney Houston was killed by drug dealers in February 2012 after clocking up a $1.5 million debt. ](/news/2012/12/27/private-investigator-paul-huebl-claims-whitney-houston-was-killed-by-drug-dealers-in-february-2012-after-clocking-up-a-1-5-million-debt.md)
-_Context: Private investigator, Whitney Houston_
+_Context: Whitney Houston, Private investigator_
 
 ##### Marzieh Vahid-Dastjerdi
 ### [Marzieh Vahid-Dastjerdi, the only female minister ever appointed in the Islamic Republic of Iran, is sacked after a dispute with President of Iran Mahmoud Ahmadinejad. ](/news/2012/12/27/marzieh-vahid-dastjerdi-the-only-female-minister-ever-appointed-in-the-islamic-republic-of-iran-is-sacked-after-a-dispute-with-president-o.md)
@@ -33,11 +33,11 @@ Iranian President MahmoudAhmadinejad on Thursday dismissed his only female cabin
 
 ##### Bilawal Bhutto Zardari
 ### [Bilawal Bhutto Zardari, the son of Pakistan's murdered ex-Prime Minister Benazir Bhutto, promises to fight militancy and maintain democracy, in his first major political speech marking five years since his mother's death. ](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.md)
-_Context: Prime Minister, Benazir Bhutto, Pakistan, Bilawal Bhutto Zardari, Assassination of Benazir Bhutto_
+_Context: Benazir Bhutto, Prime Minister, Assassination of Benazir Bhutto, Bilawal Bhutto Zardari, Pakistan_
 
 ##### Catholic
 ### [Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. ](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.md)
-_Context: Abortion in the Republic of Ireland, abortion, Ireland, Catholic Church, Catholic, Sean Brady_
+_Context: Sean Brady, abortion, Abortion in the Republic of Ireland, Catholic Church, Ireland, Catholic_
 
 ##### Harry Reid
 ### [Harry Reid, the Democratic US Senate leader, says the U.S. appears to be heading over the fiscal cliff, with tax raises and spending cuts imminent. ](/news/2012/12/27/harry-reid-the-democratic-us-senate-leader-says-the-u-s-appears-to-be-heading-over-the-fiscal-cliff-with-tax-raises-and-spending-cuts-im.md)

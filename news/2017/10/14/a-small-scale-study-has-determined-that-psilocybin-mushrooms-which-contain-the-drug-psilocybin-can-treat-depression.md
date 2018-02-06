@@ -16,7 +16,7 @@ Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression
 
 ### Changes:
 
-1. [A small-scale study has determined that psilocybin mushrooms, that contain the drug psilocybin, can treat depression. ](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-that-contain-the-drug-psilocybin-can-treat-depression.md) _2017-10-14 22:30:06 (First version)_
+1. [A small-scale study has determined that psilocybin mushrooms, that contain the drug psilocybin, can treat depression. ](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-that-contain-the-drug-psilocybin-can-treat-depression.md) _2018-02-06 13:49:31 (First version)_
 1. [A small-scale study has determined that psilocybin mushrooms, which contain the drug psilocybin, can treat depression. ](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-which-contain-the-drug-psilocybin-can-treat-depression.md) _(Current version)_
 
 ### Related:

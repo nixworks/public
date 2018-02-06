@@ -9,19 +9,19 @@ _Context: CIA, Romania, Council of Europe, Poland_
 
 ##### China
 ### [ Chinese police rescue 31 workers kept as slaves at a brickworks in Linfen, in Shanxi province, run by the son of a local official of the Communist Party of China. ](/news/2007/06/8/chinese-police-rescue-31-workers-kept-as-slaves-at-a-brickworks-in-linfen-in-shanxi-province-run-by-the-son-of-a-local-official-of-the-co.md)
-_Context: slave, Linfen, Communist Party of China, brickworks, Shanxi province, China, police_
+_Context: slave, China, Shanxi province, Linfen, brickworks, police, Communist Party of China_
 
 ##### bomb
 ### [ At least 14 people are killed in two bomb explosions in Qurna near Basra in Iraq. ](/news/2007/06/8/at-least-14-people-are-killed-in-two-bomb-explosions-in-qurna-near-basra-in-iraq.md)
-_Context: bomb, Iraq, Qurna, Basra_
+_Context: Basra, bomb, Iraq, Qurna_
 
 ##### NSW
 ### [ New South Wales in Australia is battered with severe storms, killing at least nine people and causing major flooding in Newcastle, the Hunter region, and the Central Coast. The coal freighter "Pasha Bulker" is forced to run aground on Nobby's Beach, a major Newcastle beach. ](/news/2007/06/8/new-south-wales-in-australia-is-battered-with-severe-storms-killing-at-least-nine-people-and-causing-major-flooding-in-newcastle-the-hunt.md)
-_Context: Newcastle, Central Coast, Pasha Bulker, battered with severe storms, NSW, Hunter Valley, Australia_
+_Context: battered with severe storms, Pasha Bulker, Central Coast, NSW, Newcastle, Australia, Hunter Valley_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Atlantis" is launched with a crew of seven on an assembly mission to the International Space Station on mission STS-117. ](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-crew-of-seven-on-an-assembly-mission-to-the-international-space-station-on-mission-sts-117.md)
-_Context: Space Shuttle, International Space Station, Space Shuttle Atlantis, STS-117_
+_Context: STS-117, Space Shuttle, International Space Station, Space Shuttle Atlantis_
 
 ## [Previous Day...](/news/2007/06/7/index.md)
 

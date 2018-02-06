@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carl
 
 ### Changes:
 
-1. [Catalan independence: The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/catalan-independence-the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s.md) _2017-08-27 03:44:38 (First version)_
+1. [Catalan independence: The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/catalan-independence-the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s.md) _2018-02-06 13:49:28 (First version)_
 1. [The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s-plans-to-secede-from.md) _(Current version)_
 
 ### Related:

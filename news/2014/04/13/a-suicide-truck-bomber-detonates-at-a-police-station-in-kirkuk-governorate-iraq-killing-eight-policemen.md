@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/13/a-suicide-truck-bomber-detonates-at-a-police-st
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-poli.md) _2017-08-25 03:40:17 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/iraqi-insurgency-post-u-s-withdrawal-a-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-pol.md) _2017-08-27 03:40:35 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-poli.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/iraqi-insurgency-post-u-s-withdrawal-a-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-pol.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/a-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-policemen.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Seven people were killed in a clash between Vietnamese border guards and migrant
 
 ### Changes:
 
-1. [Sino-Vietnamese border incidents:Seven people are killed in border clash between illegal Chinese migrants and Vietnamese security forces at Quang Ninh province. ](/news/2014/04/18/sino-vietnamese-border-incidents-pseven-people-are-killed-in-border-clash-between-illegal-chinese-migrants-and-vietnamese-security-forces-at.md) _2017-08-25 03:40:18 (First version)_
-2. [Sino-Vietnamese border incidents:: Seven people are killed in border clash between illegal Chinese migrants and Vietnamese security forces at Quang Ninh province. ](/news/2014/04/18/sino-vietnamese-border-incidents-seven-people-are-killed-in-border-clash-between-illegal-chinese-migrants-and-vietnamese-security-forces-a.md) _2017-08-27 03:40:36 (Update)_
+1. [Sino-Vietnamese border incidents:: Seven people are killed in border clash between illegal Chinese migrants and Vietnamese security forces at Quang Ninh province. ](/news/2014/04/18/sino-vietnamese-border-incidents-seven-people-are-killed-in-border-clash-between-illegal-chinese-migrants-and-vietnamese-security-forces-a.md) _2018-02-06 13:49:26 (First version)_
+2. [Sino-Vietnamese border incidents:Seven people are killed in border clash between illegal Chinese migrants and Vietnamese security forces at Quang Ninh province. ](/news/2014/04/18/sino-vietnamese-border-incidents-pseven-people-are-killed-in-border-clash-between-illegal-chinese-migrants-and-vietnamese-security-forces-at.md) _2018-02-06 13:49:26 (Update)_
 2. [Seven people are killed in border clash between illegal Chinese migrants and Vietnamese security forces at Quang Ninh province. ](/news/2014/04/18/seven-people-are-killed-in-border-clash-between-illegal-chinese-migrants-and-vietnamese-security-forces-at-quang-ninh-province.md) _(Current version)_
 
 ### Related:

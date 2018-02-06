@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-
 
 ### Changes:
 
-1. [At least three people are killed in a school shooting at Aztec High School in New Mexico. A suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-a-suspect-is-reportedly-in-custody.md) _2017-12-07 19:30:06 (First version)_
-2. [At least three people, including a suspect, are killed in a school shooting at Aztec High School in New Mexico. Multiple others are badly injured. A second suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-including-a-suspect-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-multiple-others-are-badly-in.md) _2017-12-07 20:30:05 (Update)_
+1. [At least three people, including a suspect, are killed in a school shooting at Aztec High School in New Mexico. Multiple others are badly injured. A second suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-including-a-suspect-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-multiple-others-are-badly-in.md) _2018-02-06 13:49:31 (First version)_
+2. [At least three people are killed in a school shooting at Aztec High School in New Mexico. A suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-a-suspect-is-reportedly-in-custody.md) _2018-02-06 13:49:31 (Update)_
 2. [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md) _(Current version)_
 
 ### Related:

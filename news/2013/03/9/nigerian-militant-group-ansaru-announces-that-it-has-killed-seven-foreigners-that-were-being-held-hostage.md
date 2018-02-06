@@ -18,8 +18,8 @@ Diplomats investigate claims by Nigerian militant group Ansaru that it has kille
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _2017-08-25 03:37:46 (First version)_
-2. [Nigerian Sharia conflict:: Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _2017-08-27 03:37:57 (Update)_
+1. [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _2018-02-06 13:49:24 (Update)_
 2. [Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Three people are killed in wild weather in NSW&#039;s Central Hunter region, whe
 
 ### Changes:
 
-1. [Australian east coast low: Three people have died in floods in the Australian town of Dungog, New South Wales as heavy rains and cyclonic winds hits the state of New South Wales causing widespread flooding, loss of power to over 100,000 homes and disruption of transport services. ](/news/2015/04/21/australian-east-coast-low-three-people-have-died-in-floods-in-the-australian-town-of-dungog-new-south-wales-as-heavy-rains-and-cyclonic-wi.md) _2017-08-27 03:42:13 (First version)_
+1. [Australian east coast low: Three people have died in floods in the Australian town of Dungog, New South Wales as heavy rains and cyclonic winds hits the state of New South Wales causing widespread flooding, loss of power to over 100,000 homes and disruption of transport services. ](/news/2015/04/21/australian-east-coast-low-three-people-have-died-in-floods-in-the-australian-town-of-dungog-new-south-wales-as-heavy-rains-and-cyclonic-wi.md) _2018-02-06 13:49:27 (First version)_
 1. [Three people have died in floods in the Australian town of Dungog, New South Wales as heavy rains and cyclonic winds hits the state of New South Wales causing widespread flooding, loss of power to over 100,000 homes and disruption of transport services. ](/news/2015/04/21/three-people-have-died-in-floods-in-the-australian-town-of-dungog-new-south-wales-as-heavy-rains-and-cyclonic-winds-hits-the-state-of-new-s.md) _(Current version)_
 
 ### Related:

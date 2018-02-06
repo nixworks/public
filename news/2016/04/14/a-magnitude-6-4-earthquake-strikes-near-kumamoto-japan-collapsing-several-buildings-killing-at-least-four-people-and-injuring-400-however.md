@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamot
 
 ### Changes:
 
-1. [2016 Kumamoto earthquake: A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/2016-kumamoto-earthquake-a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people.md) _2017-08-27 03:45:37 (First version)_
+1. [2016 Kumamoto earthquake: A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/2016-kumamoto-earthquake-a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md) _(Current version)_
 
 ### Related:

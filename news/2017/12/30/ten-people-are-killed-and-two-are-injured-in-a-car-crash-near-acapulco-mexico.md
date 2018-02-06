@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-
 
 ### Changes:
 
-1. [Ten people die and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-die-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _2018-01-01 00:30:05 (First version)_
+1. [Ten people die and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-die-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _2018-02-06 13:49:31 (First version)_
 1. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _(Current version)_
 
 ### Related:

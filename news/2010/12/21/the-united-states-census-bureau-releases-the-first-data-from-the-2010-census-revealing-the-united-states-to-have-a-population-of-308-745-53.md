@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/12/21/the-united-states-census-bureau-releases-the-fi
 
 ### Changes:
 
-1. [2010 United States Census: The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/2010-united-states-census-the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have.md) _2017-08-27 03:31:36 (First version)_
+1. [2010 United States Census: The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/2010-united-states-census-the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have.md) _2018-02-06 13:49:21 (First version)_
 1. [The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have-a-population-of-308-745-53.md) _(Current version)_
 
 ### Related:

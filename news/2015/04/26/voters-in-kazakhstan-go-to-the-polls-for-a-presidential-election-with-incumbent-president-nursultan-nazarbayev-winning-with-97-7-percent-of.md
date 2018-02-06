@@ -17,7 +17,7 @@ Kazakhstan&#039;s President Nursultan Nazarbayev has won re-election with 97.7 p
 
 ### Changes:
 
-1. [Kazakhstani presidential election, 2015: Voters in Kazakhstan go to the polls for a presidential election with incumbent President Nursultan Nazarbayev winning with 97.7 percent of the vote. He has been ruling the country since 1984 in one form or another. ](/news/2015/04/26/kazakhstani-presidential-election-2015-voters-in-kazakhstan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-nursultan.md) _2017-08-27 03:42:15 (First version)_
+1. [Kazakhstani presidential election, 2015: Voters in Kazakhstan go to the polls for a presidential election with incumbent President Nursultan Nazarbayev winning with 97.7 percent of the vote. He has been ruling the country since 1984 in one form or another. ](/news/2015/04/26/kazakhstani-presidential-election-2015-voters-in-kazakhstan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-nursultan.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Kazakhstan go to the polls for a presidential election with incumbent President Nursultan Nazarbayev winning with 97.7 percent of the vote. He has been ruling the country since 1984 in one form or another. ](/news/2015/04/26/voters-in-kazakhstan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-nursultan-nazarbayev-winning-with-97-7-percent-of.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/30/fourteen-car-bombs-targeting-shi-ite-neighborho
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/iraqi-insurgency-post-u-s-withdrawal-pfourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md) _2017-08-25 03:39:20 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/iraqi-insurgency-post-u-s-withdrawal-fourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md) _2017-08-27 03:39:37 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/iraqi-insurgency-post-u-s-withdrawal-pfourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/iraqi-insurgency-post-u-s-withdrawal-fourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md) _2018-02-06 13:49:25 (Update)_
 2. [Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/fourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md) _(Current version)_
 
 ### Related:

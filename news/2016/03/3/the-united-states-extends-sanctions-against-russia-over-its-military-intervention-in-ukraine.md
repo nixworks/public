@@ -16,7 +16,7 @@ President Obama has extended for another year U.S. sanctions imposed on Russia o
 
 ### Changes:
 
-1. [Russian military intervention in Ukraine (2014-present): The United States extends sanctions against Russia over its military intervention in Ukraine. ](/news/2016/03/3/russian-military-intervention-in-ukraine-2014-present-the-united-states-extends-sanctions-against-russia-over-its-military-intervention.md) _2017-08-27 03:45:07 (First version)_
+1. [Russian military intervention in Ukraine (2014-present): The United States extends sanctions against Russia over its military intervention in Ukraine. ](/news/2016/03/3/russian-military-intervention-in-ukraine-2014-present-the-united-states-extends-sanctions-against-russia-over-its-military-intervention.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States extends sanctions against Russia over its military intervention in Ukraine. ](/news/2016/03/3/the-united-states-extends-sanctions-against-russia-over-its-military-intervention-in-ukraine.md) _(Current version)_
 
 ### Related:

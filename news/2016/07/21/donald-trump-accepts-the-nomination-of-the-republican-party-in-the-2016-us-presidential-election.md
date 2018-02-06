@@ -16,7 +16,7 @@ Donald J. Trump accepted the Republican presidential nomination with an unusuall
 
 ### Changes:
 
-1. [2016 Republican National Convention: Donald Trump accepts the nomination of the Republican Party in the 2016 US Presidential election. ](/news/2016/07/21/2016-republican-national-convention-donald-trump-accepts-the-nomination-of-the-republican-party-in-the-2016-us-presidential-election.md) _2017-08-27 03:46:31 (First version)_
+1. [2016 Republican National Convention: Donald Trump accepts the nomination of the Republican Party in the 2016 US Presidential election. ](/news/2016/07/21/2016-republican-national-convention-donald-trump-accepts-the-nomination-of-the-republican-party-in-the-2016-us-presidential-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Donald Trump accepts the nomination of the Republican Party in the 2016 US Presidential election. ](/news/2016/07/21/donald-trump-accepts-the-nomination-of-the-republican-party-in-the-2016-us-presidential-election.md) _(Current version)_
 
 ### Related:

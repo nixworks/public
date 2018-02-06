@@ -17,7 +17,7 @@ President Obama nominates veteran judge Merrick Garland to be the next US Suprem
 
 ### Changes:
 
-1. [Barack Obama Supreme Court candidates: President Barack Obama nominates Merrick Garland to replace Antonin Scalia on the Supreme Court of the United States. ](/news/2016/03/16/barack-obama-supreme-court-candidates-president-barack-obama-nominates-merrick-garland-to-replace-antonin-scalia-on-the-supreme-court-of-th.md) _2017-08-27 03:45:15 (First version)_
+1. [Barack Obama Supreme Court candidates: President Barack Obama nominates Merrick Garland to replace Antonin Scalia on the Supreme Court of the United States. ](/news/2016/03/16/barack-obama-supreme-court-candidates-president-barack-obama-nominates-merrick-garland-to-replace-antonin-scalia-on-the-supreme-court-of-th.md) _2018-02-06 13:49:28 (First version)_
 1. [ President Barack Obama nominates Merrick Garland to replace Antonin Scalia on the Supreme Court of the United States. ](/news/2016/03/16/president-barack-obama-nominates-merrick-garland-to-replace-antonin-scalia-on-the-supreme-court-of-the-united-states.md) _(Current version)_
 
 ### Related:

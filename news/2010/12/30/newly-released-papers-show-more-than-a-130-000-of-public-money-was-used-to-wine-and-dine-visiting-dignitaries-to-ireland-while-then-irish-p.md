@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/30/newly-released-papers-show-more-than-a-130-000-
 
 ### Changes:
 
-1. [Newly released papers show more than -130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". ](/news/2010/12/30/newly-released-papers-show-more-than-130-000-of-public-money-was-used-to-wine-and-dine-visiting-dignitaries-to-ireland-while-then-irish-p.md) _2017-08-27 03:31:43 (First version)_
+1. [Newly released papers show more than -130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". ](/news/2010/12/30/newly-released-papers-show-more-than-130-000-of-public-money-was-used-to-wine-and-dine-visiting-dignitaries-to-ireland-while-then-irish-p.md) _2018-02-06 13:49:21 (First version)_
 1. [Newly released papers show more than EUR130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". ](/news/2010/12/30/newly-released-papers-show-more-than-a-130-000-of-public-money-was-used-to-wine-and-dine-visiting-dignitaries-to-ireland-while-then-irish-p.md) _(Current version)_
 
 ### Related:

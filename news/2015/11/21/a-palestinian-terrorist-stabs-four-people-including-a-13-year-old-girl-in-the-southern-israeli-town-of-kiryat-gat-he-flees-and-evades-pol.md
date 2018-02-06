@@ -16,7 +16,7 @@ After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private res
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): A Palestinian terrorist stabs four people, including a 13-year-old girl, in the southern Israeli town of Kiryat Gat; he flees and evades police for five hours before being arrested. ](/news/2015/11/21/israeli-palestinian-conflict-2015-a-palestinian-terrorist-stabs-four-people-including-a-13-year-old-girl-in-the-southern-israeli-town-o.md) _2017-08-27 03:43:59 (First version)_
+1. [Israeli-Palestinian conflict (2015): A Palestinian terrorist stabs four people, including a 13-year-old girl, in the southern Israeli town of Kiryat Gat; he flees and evades police for five hours before being arrested. ](/news/2015/11/21/israeli-palestinian-conflict-2015-a-palestinian-terrorist-stabs-four-people-including-a-13-year-old-girl-in-the-southern-israeli-town-o.md) _2018-02-06 13:49:28 (First version)_
 1. [A Palestinian terrorist stabs four people, including a 13-year-old girl, in the southern Israeli town of Kiryat Gat; he flees and evades police for five hours before being arrested. ](/news/2015/11/21/a-palestinian-terrorist-stabs-four-people-including-a-13-year-old-girl-in-the-southern-israeli-town-of-kiryat-gat-he-flees-and-evades-pol.md) _(Current version)_
 
 ### Related:

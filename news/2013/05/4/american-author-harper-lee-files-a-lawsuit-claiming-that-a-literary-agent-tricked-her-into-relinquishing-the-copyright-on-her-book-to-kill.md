@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claim
 
 ### Changes:
 
-1. [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, ''To Kill a Mockingbird''. ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kil.md) _2017-08-25 03:38:33 (First version)_
+1. [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, ''To Kill a Mockingbird''. ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kil.md) _2018-02-06 13:49:25 (First version)_
 1. [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, "To Kill a Mockingbird". ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kill.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/12/24/steve-jobs-agbp85m-high-tech-yacht-venus-is-fre
 
 ### Changes:
 
-1. [Steve Jobs' PS85m high-tech yacht ''Venus'' is freed from the Port of Amsterdam after his estate paid off the last of its bills. ](/news/2012/12/24/steve-jobs-aps85m-high-tech-yacht-venus-is-freed-from-the-port-of-amsterdam-after-his-estate-paid-off-the-last-of-its-bills.md) _2017-08-25 03:37:07 (First version)_
+1. [Steve Jobs' PS85m high-tech yacht ''Venus'' is freed from the Port of Amsterdam after his estate paid off the last of its bills. ](/news/2012/12/24/steve-jobs-aps85m-high-tech-yacht-venus-is-freed-from-the-port-of-amsterdam-after-his-estate-paid-off-the-last-of-its-bills.md) _2018-02-06 13:49:24 (First version)_
 1. [Steve Jobs' GBP85m high-tech yacht "Venus" is freed from the Port of Amsterdam after his estate paid off the last of its bills. ](/news/2012/12/24/steve-jobs-agbp85m-high-tech-yacht-venus-is-freed-from-the-port-of-amsterdam-after-his-estate-paid-off-the-last-of-its-bills.md) _(Current version)_
 
 ### Related:

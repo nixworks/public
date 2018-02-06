@@ -16,7 +16,7 @@ Afghan officials sent reinforcements to Tarin Kot, in Uruzgan province, in an at
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban militants storm the city of Tarinkot, the provincial capital of Afghanistan's Urozgan Province, with fighting reported on multiple fronts throughout the city. Local officials flee to the nearby Tarinkot Airport for shelter. ](/news/2016/09/8/war-in-afghanistan-2015-present-taliban-militants-storm-the-city-of-tarinkot-the-provincial-capital-of-afghanistan-s-urozgan-province.md) _2017-08-27 03:46:48 (First version)_
+1. [War in Afghanistan (2015-present): Taliban militants storm the city of Tarinkot, the provincial capital of Afghanistan's Urozgan Province, with fighting reported on multiple fronts throughout the city. Local officials flee to the nearby Tarinkot Airport for shelter. ](/news/2016/09/8/war-in-afghanistan-2015-present-taliban-militants-storm-the-city-of-tarinkot-the-provincial-capital-of-afghanistan-s-urozgan-province.md) _2018-02-06 13:49:29 (First version)_
 1. [Taliban militants storm the city of Tarinkot, the provincial capital of Afghanistan's Urozgan Province, with fighting reported on multiple fronts throughout the city. Local officials flee to the nearby Tarinkot Airport for shelter. ](/news/2016/09/8/taliban-militants-storm-the-city-of-tarinkot-the-provincial-capital-of-afghanistan-s-urozgan-province-with-fighting-reported-on-multiple-f.md) _(Current version)_
 
 ### Related:

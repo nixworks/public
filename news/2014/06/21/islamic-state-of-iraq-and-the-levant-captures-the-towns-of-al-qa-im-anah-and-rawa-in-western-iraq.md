@@ -16,7 +16,7 @@ Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki co
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: Islamic State of Iraq and the Levant captures the towns of al-Qa'im, Anah and Rawa in Western Iraq. ](/news/2014/06/21/2014-northern-iraq-offensive-islamic-state-of-iraq-and-the-levant-captures-the-towns-of-al-qa-im-anah-and-rawa-in-western-iraq.md) _2017-08-27 03:40:53 (First version)_
+1. [2014 Northern Iraq offensive: Islamic State of Iraq and the Levant captures the towns of al-Qa'im, Anah and Rawa in Western Iraq. ](/news/2014/06/21/2014-northern-iraq-offensive-islamic-state-of-iraq-and-the-levant-captures-the-towns-of-al-qa-im-anah-and-rawa-in-western-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State of Iraq and the Levant captures the towns of al-Qa'im, Anah and Rawa in Western Iraq. ](/news/2014/06/21/islamic-state-of-iraq-and-the-levant-captures-the-towns-of-al-qa-im-anah-and-rawa-in-western-iraq.md) _(Current version)_
 
 ### Related:

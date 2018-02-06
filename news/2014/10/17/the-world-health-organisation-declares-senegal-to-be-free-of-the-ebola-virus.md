@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/17/the-world-health-organisation-declares-senegal-
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _2017-08-27 03:41:24 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _(Current version)_
 
 ### Related:

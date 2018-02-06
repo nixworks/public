@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/11/20/at-least-forty-people-died-following-a-series-o
 
 ### Changes:
 
-1. [ Conflict in Iraq: At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/conflict-in-iraq-p-at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _2017-08-25 03:17:08 (First version)_
-2. [ Conflict in Iraq:: At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/conflict-in-iraq-at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _2017-08-27 03:17:08 (Update)_
+1. [ Conflict in Iraq: At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/conflict-in-iraq-p-at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/conflict-in-iraq-at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _2018-02-06 13:49:16 (Update)_
 2. [ At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md) _(Current version)_
 
 ### Related:

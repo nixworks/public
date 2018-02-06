@@ -16,7 +16,7 @@ Police clashed with supporters of presidential candidate Maryse Narcisse in Port
 
 ### Changes:
 
-1. [Haitian presidential election, 2016-17: Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/haitian-presidential-election-2016-17-tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-o.md) _2017-08-27 03:47:17 (First version)_
+1. [Haitian presidential election, 2016-17: Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/haitian-presidential-election-2016-17-tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-of-the-haitian-ta-t-kale-party-declare-them.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated
 
 ### Changes:
 
-1. [The United States Navy sends a remotely operated underwater craft to investigate a wreck which they believe is the remains of the {{SS|El Faro}} which disappeared on October 1 near the Bahamas during Hurricane Joaquin with 33 people on board. ](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated-underwater-craft-to-investigate-a-wreck-which-they-believe-is-the-remains-of-the-ss-el-fa.md) _2017-05-01 03:47:04 (First version)_
+1. [The United States Navy sends a remotely operated underwater craft to investigate a wreck which they believe is the remains of the {{SS|El Faro}} which disappeared on October 1 near the Bahamas during Hurricane Joaquin with 33 people on board. ](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated-underwater-craft-to-investigate-a-wreck-which-they-believe-is-the-remains-of-the-ss-el-fa.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Navy sends a remotely operated underwater craft to investigate a wreck which they believe is the remains of the El Faro which disappeared on October 1 near the Bahamas during Hurricane Joaquin with 33 people on board. ](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated-underwater-craft-to-investigate-a-wreck-which-they-believe-is-the-remains-of-the-el-faro-wh.md) _(Current version)_
 
 ### Related:

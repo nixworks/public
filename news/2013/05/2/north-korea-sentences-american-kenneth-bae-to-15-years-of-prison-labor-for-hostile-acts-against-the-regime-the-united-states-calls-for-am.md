@@ -17,7 +17,7 @@ The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentence
 
 ### Changes:
 
-1. [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-a.md) _2017-08-25 03:38:32 (First version)_
+1. [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-a.md) _2018-02-06 13:49:24 (First version)_
 1. [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-am.md) _(Current version)_
 
 ### Related:

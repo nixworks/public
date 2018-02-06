@@ -19,7 +19,7 @@ The departure time is being adjusted so passengers can get a rare look over the 
 
 ### Changes:
 
-1. [U.S. carrier Alaska Airlines reschedules Flight 870 from Anchorage, Alaska, to Honolulu, Hawaii, to depart at 2:00 p.m. local time (23:00 UTC) so passengers can view 2016's only total solar eclipse for 1 minute and 59 seconds, 695 miles north of Honolulu at 37,000 feet. ](/news/2016/03/8/u-s-carrier-alaska-airlines-reschedules-flight-870-from-anchorage-alaska-to-honolulu-hawaii-to-depart-at-2-00-p-m-local-time-23-00.md) _2017-08-25 03:44:50 (First version)_
+1. [U.S. carrier Alaska Airlines reschedules Flight 870 from Anchorage, Alaska, to Honolulu, Hawaii, to depart at 2:00 p.m. local time (23:00 UTC) so passengers can view 2016's only total solar eclipse for 1 minute and 59 seconds, 695 miles north of Honolulu at 37,000 feet. ](/news/2016/03/8/u-s-carrier-alaska-airlines-reschedules-flight-870-from-anchorage-alaska-to-honolulu-hawaii-to-depart-at-2-00-p-m-local-time-23-00.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. carrier Alaska Airlines reschedules Flight 870 from Anchorage, Alaska, to Honolulu, Hawaii, to depart at 2:00 p.m. local time (23:00 UTC) so passengers can view 2016's only total solar eclipse for 1 minute and 59 seconds, 695 miles north of Honolulu at 37,000 feet. ](/news/2016/03/8/u-s-carrier-alaska-airlines-reschedules-flight-870-from-anchorage-alaska-to-honolulu-hawaii-to-depart-at-2-00-p-m-local-time-23-00-ut.md) _(Current version)_
 
 ### Related:

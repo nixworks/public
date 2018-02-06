@@ -11,8 +11,8 @@ Formats: [HTML](/news/2000/10/11/250-million-us-gallons-950-000-m-3-of-coal-slud
 
 ### Changes:
 
-1. [ 250 million US gallons ({{Nowrap|950,000 m 3 )}} of coal sludge spill in Martin County, Kentucky. Considered a greater environmental disaster than the Exxon Valdez oil spill.](/news/2000/10/11/250-million-us-gallons-nowrap-950-000-m3-of-coal-sludge-spill-in-martin-county-kentucky-considered-a-greater-environmental-disaster.md) _2017-05-01 03:15:09 (First version)_
-2. [ 250 million US gallons (950,000 m 3 ) of coal sludge spill in Martin County, Kentucky. Considered a greater environmental disaster than the Exxon Valdez oil spill.](/news/2000/10/11/250-million-us-gallons-950-000-m3-of-coal-sludge-spill-in-martin-county-kentucky-considered-a-greater-environmental-disaster-than-the-e.md) _2017-10-02 03:15:08 (Update)_
+1. [ 250 million US gallons ({{Nowrap|950,000 m 3 )}} of coal sludge spill in Martin County, Kentucky. Considered a greater environmental disaster than the Exxon Valdez oil spill.](/news/2000/10/11/250-million-us-gallons-nowrap-950-000-m3-of-coal-sludge-spill-in-martin-county-kentucky-considered-a-greater-environmental-disaster.md) _2018-02-06 13:49:15 (First version)_
+2. [ 250 million US gallons (950,000 m 3 ) of coal sludge spill in Martin County, Kentucky. Considered a greater environmental disaster than the Exxon Valdez oil spill.](/news/2000/10/11/250-million-us-gallons-950-000-m3-of-coal-sludge-spill-in-martin-county-kentucky-considered-a-greater-environmental-disaster-than-the-e.md) _2018-02-06 13:49:15 (Update)_
 2. [ 250 million US gallons (950,000 m 3 ) of coal sludge spill in Martin County, Kentucky. Considered a greater environmental disaster than the Exxon Valdez oil spill.](/news/2000/10/11/250-million-us-gallons-950-000-m-3-of-coal-sludge-spill-in-martin-county-kentucky-considered-a-greater-environmental-disaster-than-the.md) _(Current version)_
 
 ### Related:

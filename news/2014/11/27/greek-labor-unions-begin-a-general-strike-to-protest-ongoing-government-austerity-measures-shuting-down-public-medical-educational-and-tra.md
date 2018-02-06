@@ -16,8 +16,8 @@ A nationwide general strike to protest continued austerity measures has shut dow
 
 ### Changes:
 
-1. [Greek government-debt crisis:Greek labor unions begin a general strike to protest ongoing government austerity measures shuting down public medical, educational, and transportational services. ](/news/2014/11/27/greek-government-debt-crisis-pgreek-labor-unions-begin-a-general-strike-to-protest-ongoing-government-austerity-measures-shuting-down-public.md) _2017-08-25 03:41:15 (First version)_
-2. [Greek government-debt crisis:: Greek labor unions begin a general strike to protest ongoing government austerity measures shuting down public medical, educational, and transportational services. ](/news/2014/11/27/greek-government-debt-crisis-greek-labor-unions-begin-a-general-strike-to-protest-ongoing-government-austerity-measures-shuting-down-publi.md) _2017-08-27 03:41:33 (Update)_
+1. [Greek government-debt crisis:Greek labor unions begin a general strike to protest ongoing government austerity measures shuting down public medical, educational, and transportational services. ](/news/2014/11/27/greek-government-debt-crisis-pgreek-labor-unions-begin-a-general-strike-to-protest-ongoing-government-austerity-measures-shuting-down-public.md) _2018-02-06 13:49:26 (First version)_
+2. [Greek government-debt crisis:: Greek labor unions begin a general strike to protest ongoing government austerity measures shuting down public medical, educational, and transportational services. ](/news/2014/11/27/greek-government-debt-crisis-greek-labor-unions-begin-a-general-strike-to-protest-ongoing-government-austerity-measures-shuting-down-publi.md) _2018-02-06 13:49:26 (Update)_
 2. [Greek labor unions begin a general strike to protest ongoing government austerity measures shuting down public medical, educational, and transportational services. ](/news/2014/11/27/greek-labor-unions-begin-a-general-strike-to-protest-ongoing-government-austerity-measures-shuting-down-public-medical-educational-and-tra.md) _(Current version)_
 
 ### Related:

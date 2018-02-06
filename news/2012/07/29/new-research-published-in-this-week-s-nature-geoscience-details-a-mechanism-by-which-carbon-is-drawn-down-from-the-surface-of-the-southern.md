@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/07/29/new-research-published-in-this-week-s-nature-ge
 
 ### Changes:
 
-1. [New research published in this week's ''Nature Geoscience'' details a mechanism by which carbon is drawn down from the surface of the Southern Ocean to deeper water below. ](/news/2012/07/29/new-research-published-in-this-week-s-nature-geoscience-details-a-mechanism-by-which-carbon-is-drawn-down-from-the-surface-of-the-southe.md) _2017-08-25 03:36:11 (First version)_
+1. [New research published in this week's ''Nature Geoscience'' details a mechanism by which carbon is drawn down from the surface of the Southern Ocean to deeper water below. ](/news/2012/07/29/new-research-published-in-this-week-s-nature-geoscience-details-a-mechanism-by-which-carbon-is-drawn-down-from-the-surface-of-the-southe.md) _2018-02-06 13:49:23 (First version)_
 1. [New research published in this week's "Nature Geoscience" details a mechanism by which carbon is drawn down from the surface of the Southern Ocean to deeper water below. ](/news/2012/07/29/new-research-published-in-this-week-s-nature-geoscience-details-a-mechanism-by-which-carbon-is-drawn-down-from-the-surface-of-the-southern.md) _(Current version)_
 
 ### Related:

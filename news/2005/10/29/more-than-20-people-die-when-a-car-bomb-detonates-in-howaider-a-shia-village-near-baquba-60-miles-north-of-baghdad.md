@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/10/29/more-than-20-people-die-when-a-car-bomb-detonat
 
 ### Changes:
 
-1. [ Conflict in Iraq: More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/conflict-in-iraq-p-more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _2017-08-25 03:17:02 (First version)_
-2. [ Conflict in Iraq:: More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/conflict-in-iraq-more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _2017-08-27 03:17:02 (Update)_
+1. [ Conflict in Iraq: More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/conflict-in-iraq-p-more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/conflict-in-iraq-more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _2018-02-06 13:49:16 (Update)_
 2. [ More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _(Current version)_
 
 ### Related:

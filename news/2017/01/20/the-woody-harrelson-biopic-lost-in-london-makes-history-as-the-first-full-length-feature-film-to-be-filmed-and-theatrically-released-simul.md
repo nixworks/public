@@ -18,7 +18,7 @@ Woody Harrelson says he has no intention of making another live movie like Lost 
 
 ### Changes:
 
-1. [The Woody Harrelson biopic ''Lost in London'' makes history as the first full-length feature film to be filmed and theatrically released simultaneously. ](/news/2017/01/20/the-woody-harrelson-biopic-lost-in-london-makes-history-as-the-first-full-length-feature-film-to-be-filmed-and-theatrically-released-sim.md) _2017-08-25 03:47:14 (First version)_
+1. [The Woody Harrelson biopic ''Lost in London'' makes history as the first full-length feature film to be filmed and theatrically released simultaneously. ](/news/2017/01/20/the-woody-harrelson-biopic-lost-in-london-makes-history-as-the-first-full-length-feature-film-to-be-filmed-and-theatrically-released-sim.md) _2018-02-06 13:49:30 (First version)_
 1. [The Woody Harrelson biopic "Lost in London" makes history as the first full-length feature film to be filmed and theatrically released simultaneously. ](/news/2017/01/20/the-woody-harrelson-biopic-lost-in-london-makes-history-as-the-first-full-length-feature-film-to-be-filmed-and-theatrically-released-simul.md) _(Current version)_
 
 ### Related:

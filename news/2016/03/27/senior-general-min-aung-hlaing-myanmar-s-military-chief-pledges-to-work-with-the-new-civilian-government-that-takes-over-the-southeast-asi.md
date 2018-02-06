@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/27/senior-general-min-aung-hlaing-myanmar-s-milita
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/myanmar-general-election-2015-senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-t.md) _2017-08-27 03:45:23 (First version)_
+1. [Myanmar general election, 2015: Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/myanmar-general-election-2015-senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-that-takes-over-the-southeast-asi.md) _(Current version)_
 
 ### Related:

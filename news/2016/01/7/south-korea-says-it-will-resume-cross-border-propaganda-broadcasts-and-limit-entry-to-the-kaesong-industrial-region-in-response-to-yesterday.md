@@ -16,7 +16,7 @@ South Korea also cancels cross-border initiatives after Pyongyang’s claim that
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". ](/news/2016/01/7/2016-north-korean-nuclear-test-south-korea-says-it-will-resume-cross-border-propaganda-broadcasts-and-limit-entry-to-the-kaesong-industrial.md) _2017-08-27 03:44:37 (First version)_
+1. [2016 North Korean nuclear test: South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". ](/news/2016/01/7/2016-north-korean-nuclear-test-south-korea-says-it-will-resume-cross-border-propaganda-broadcasts-and-limit-entry-to-the-kaesong-industrial.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". ](/news/2016/01/7/south-korea-says-it-will-resume-cross-border-propaganda-broadcasts-and-limit-entry-to-the-kaesong-industrial-region-in-response-to-yesterday.md) _(Current version)_
 
 ### Related:

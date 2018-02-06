@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-bor
 
 ### Changes:
 
-1. [European migrant crisis: The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/european-migrant-crisis-the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md) _2017-08-27 03:43:23 (First version)_
+1. [European migrant crisis: The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/european-migrant-crisis-the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md) _2018-02-06 13:49:27 (First version)_
 1. [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md) _(Current version)_
 
 ### Related:

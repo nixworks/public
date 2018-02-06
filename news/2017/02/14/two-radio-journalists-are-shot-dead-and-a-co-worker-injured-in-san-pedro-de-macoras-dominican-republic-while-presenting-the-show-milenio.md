@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-wo
 
 ### Changes:
 
-1. [Two radio journalists are shot dead and a co-worker injured in San Pedro de Macoris, Dominican Republic, while presenting the show "Milenio Caliente" on Facebook Live. Three people were arrested. ](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-worker-injured-in-san-pedro-de-macoras-dominican-republic-while-presenting-the-show-milen.md) _2017-08-25 03:47:24 (First version)_
+1. [Two radio journalists are shot dead and a co-worker injured in San Pedro de Macoris, Dominican Republic, while presenting the show "Milenio Caliente" on Facebook Live. Three people were arrested. ](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-worker-injured-in-san-pedro-de-macoras-dominican-republic-while-presenting-the-show-milen.md) _2018-02-06 13:49:30 (First version)_
 1. [Two radio journalists are shot dead and a co-worker injured in San Pedro de Macoris, Dominican Republic, while presenting the show "Milenio Caliente" on Facebook Live. Three people were arrested. ](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-worker-injured-in-san-pedro-de-macoras-dominican-republic-while-presenting-the-show-milenio.md) _(Current version)_
 
 ### Related:

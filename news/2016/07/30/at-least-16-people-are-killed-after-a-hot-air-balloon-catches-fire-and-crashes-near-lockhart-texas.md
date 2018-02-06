@@ -16,5 +16,5 @@ A hot air balloon carrying at least 16 people catches fire and crashes in the US
 
 ### Changes:
 
-1. [2016 Lockhart hot air balloon crash: At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/2016-lockhart-hot-air-balloon-crash-at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _2017-08-27 03:46:34 (First version)_
+1. [2016 Lockhart hot air balloon crash: At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/2016-lockhart-hot-air-balloon-crash-at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _(Current version)_

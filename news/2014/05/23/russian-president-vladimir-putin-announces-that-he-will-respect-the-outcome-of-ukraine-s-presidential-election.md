@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/23/russian-president-vladimir-putin-announces-that
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-prussian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-el.md) _2017-08-25 03:40:26 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-e.md) _2017-08-27 03:40:44 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-e.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-prussian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-el.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-election.md) _(Current version)_
 
 ### Related:

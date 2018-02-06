@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/10/a-fierce-battle-has-gone-on-over-the-last-24-ho
 
 ### Changes:
 
-1. [Syrian civil war:A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-pa-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-r.md) _2017-08-25 03:38:49 (First version)_
-2. [Syrian civil war:: A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-a-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last.md) _2017-08-27 03:39:02 (Update)_
+1. [Syrian civil war:A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-pa-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-r.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-a-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last.md) _2018-02-06 13:49:25 (Update)_
 2. [A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/a-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-remaining-syrian-go.md) _(Current version)_
 
 ### Related:

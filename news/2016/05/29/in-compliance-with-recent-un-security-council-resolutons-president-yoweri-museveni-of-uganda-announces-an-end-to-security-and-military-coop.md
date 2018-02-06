@@ -16,7 +16,7 @@ Ugandan President Yoweri Museveni said his country would halt security and milit
 
 ### Changes:
 
-1. [Foreign relations of North Korea: In compliance with recent UN Security Council resolutons, President Yoweri Museveni of Uganda announces an end to security and military cooperation with North Korea. ](/news/2016/05/29/foreign-relations-of-north-korea-in-compliance-with-recent-un-security-council-resolutons-president-yoweri-museveni-of-uganda-announces-an.md) _2017-08-27 03:46:09 (First version)_
+1. [Foreign relations of North Korea: In compliance with recent UN Security Council resolutons, President Yoweri Museveni of Uganda announces an end to security and military cooperation with North Korea. ](/news/2016/05/29/foreign-relations-of-north-korea-in-compliance-with-recent-un-security-council-resolutons-president-yoweri-museveni-of-uganda-announces-an.md) _2018-02-06 13:49:29 (First version)_
 1. [In compliance with recent UN Security Council resolutons, President Yoweri Museveni of Uganda announces an end to security and military cooperation with North Korea. ](/news/2016/05/29/in-compliance-with-recent-un-security-council-resolutons-president-yoweri-museveni-of-uganda-announces-an-end-to-security-and-military-coop.md) _(Current version)_
 
 ### Related:

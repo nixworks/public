@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/1/former-port-authority-of-new-york-and-new-jersey
 
 ### Changes:
 
-1. [Fort Lee lane closure scandal: Former Port Authority of New York and New Jersey official David Wildstein pleads guilty for his role in creating traffic jams near the George Washington Bridge for political retribution in 2013. ](/news/2015/05/1/fort-lee-lane-closure-scandal-former-port-authority-of-new-york-and-new-jersey-official-david-wildstein-pleads-guilty-for-his-role-in-creat.md) _2017-08-27 03:42:16 (First version)_
+1. [Fort Lee lane closure scandal: Former Port Authority of New York and New Jersey official David Wildstein pleads guilty for his role in creating traffic jams near the George Washington Bridge for political retribution in 2013. ](/news/2015/05/1/fort-lee-lane-closure-scandal-former-port-authority-of-new-york-and-new-jersey-official-david-wildstein-pleads-guilty-for-his-role-in-creat.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Port Authority of New York and New Jersey official David Wildstein pleads guilty for his role in creating traffic jams near the George Washington Bridge for political retribution in 2013. ](/news/2015/05/1/former-port-authority-of-new-york-and-new-jersey-official-david-wildstein-pleads-guilty-for-his-role-in-creating-traffic-jams-near-the-georg.md) _(Current version)_
 
 ### Related:

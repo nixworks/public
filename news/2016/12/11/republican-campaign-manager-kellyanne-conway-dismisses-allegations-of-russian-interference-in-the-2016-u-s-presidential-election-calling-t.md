@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/11/republican-campaign-manager-kellyanne-conway-di
 
 ### Changes:
 
-1. [United States presidential election, 2016: Republican campaign manager Kellyanne Conway dismisses allegations of Russian interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous". ](/news/2016/12/11/united-states-presidential-election-2016-republican-campaign-manager-kellyanne-conway-dismisses-allegations-of-russian-interference-in-the.md) _2017-08-27 03:47:25 (First version)_
+1. [United States presidential election, 2016: Republican campaign manager Kellyanne Conway dismisses allegations of Russian interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous". ](/news/2016/12/11/united-states-presidential-election-2016-republican-campaign-manager-kellyanne-conway-dismisses-allegations-of-russian-interference-in-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Republican campaign manager Kellyanne Conway dismisses allegations of Russian interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous". ](/news/2016/12/11/republican-campaign-manager-kellyanne-conway-dismisses-allegations-of-russian-interference-in-the-2016-u-s-presidential-election-calling-t.md) _(Current version)_
 
 ### Related:

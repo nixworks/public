@@ -18,7 +18,7 @@ At least 717 people taking part in the Hajj pilgrimage have been killed in a sta
 
 ### Changes:
 
-1. [2015 Hajj stampede: At least 719 people are dead and 863 people injured in a stampede near Mecca during the Hajj pilgrimage in Saudi Arabia. ](/news/2015/09/24/2015-hajj-stampede-at-least-719-people-are-dead-and-863-people-injured-in-a-stampede-near-mecca-during-the-hajj-pilgrimage-in-saudi-arabia.md) _2017-08-27 03:43:08 (First version)_
+1. [2015 Hajj stampede: At least 719 people are dead and 863 people injured in a stampede near Mecca during the Hajj pilgrimage in Saudi Arabia. ](/news/2015/09/24/2015-hajj-stampede-at-least-719-people-are-dead-and-863-people-injured-in-a-stampede-near-mecca-during-the-hajj-pilgrimage-in-saudi-arabia.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 719 people are dead and 863 people injured in a stampede near Mecca during the Hajj pilgrimage in Saudi Arabia. ](/news/2015/09/24/at-least-719-people-are-dead-and-863-people-injured-in-a-stampede-near-mecca-during-the-hajj-pilgrimage-in-saudi-arabia.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ The United States has suspended its evacuations of critically injured Haitians u
 
 ### Changes:
 
-1. [Aftermath of the 2010 Haiti earthquake:The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/aftermath-of-the-2010-haiti-earthquake-pthe-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to.md) _2017-08-25 03:27:04 (First version)_
-2. [Aftermath of the 2010 Haiti earthquake:: The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/aftermath-of-the-2010-haiti-earthquake-the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to.md) _2017-08-27 03:26:57 (Update)_
+1. [Aftermath of the 2010 Haiti earthquake:: The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/aftermath-of-the-2010-haiti-earthquake-the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to.md) _2018-02-06 13:49:19 (First version)_
+2. [Aftermath of the 2010 Haiti earthquake:The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/aftermath-of-the-2010-haiti-earthquake-pthe-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to.md) _2018-02-06 13:49:19 (Update)_
 2. [The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to-a-dispute-as-to-who-should-pay-for-treat.md) _(Current version)_
 
 ### Related:

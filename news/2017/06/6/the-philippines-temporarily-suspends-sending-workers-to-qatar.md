@@ -16,7 +16,7 @@ The Philippines has partially lifted the ban on overseas Filipino workers (OFWs)
 
 ### Changes:
 
-1. [2017 Qatar diplomatic crisis: The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/2017-qatar-diplomatic-crisis-the-philippines-temporarily-suspends-sending-workers-to-qatar.md) _2017-08-27 03:48:26 (First version)_
+1. [2017 Qatar diplomatic crisis: The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/2017-qatar-diplomatic-crisis-the-philippines-temporarily-suspends-sending-workers-to-qatar.md) _2018-02-06 13:49:30 (First version)_
 1. [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md) _(Current version)_
 
 ### Related:

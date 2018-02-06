@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muamma
 
 ### Changes:
 
-1. [2011 Libyan civil war: Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/2011-libyan-civil-war-al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md) _2017-08-27 03:32:31 (First version)_
+1. [2011 Libyan civil war: Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/2011-libyan-civil-war-al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md) _2018-02-06 13:49:22 (First version)_
 1. [Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md) _(Current version)_
 
 ### Related:

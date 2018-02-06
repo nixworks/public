@@ -19,8 +19,8 @@ The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one
 
 ### Changes:
 
-1. [Typhoon Haiyan:Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-pphilippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-ta.md) _2017-08-25 03:39:30 (First version)_
-2. [Typhoon Haiyan:: Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-t.md) _2017-08-27 03:39:48 (Update)_
+1. [Typhoon Haiyan:Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-pphilippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-ta.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-t.md) _2018-02-06 13:49:25 (Update)_
 2. [Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-tacloban-and-200-i.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/11/at-least-six-civilians-and-four-militants-are-k
 
 ### Changes:
 
-1. [War in Somalia (2009-present): At least six civilians and four militants are killed in attacks on two hotels in the Somali capital of Mogadishu. ](/news/2015/07/11/war-in-somalia-2009-present-at-least-six-civilians-and-four-militants-are-killed-in-attacks-on-two-hotels-in-the-somali-capital-of-moga.md) _2017-08-27 03:42:41 (First version)_
+1. [War in Somalia (2009-present): At least six civilians and four militants are killed in attacks on two hotels in the Somali capital of Mogadishu. ](/news/2015/07/11/war-in-somalia-2009-present-at-least-six-civilians-and-four-militants-are-killed-in-attacks-on-two-hotels-in-the-somali-capital-of-moga.md) _2018-02-06 13:49:27 (First version)_
 1. [At least six civilians and four militants are killed in attacks on two hotels in the Somali capital of Mogadishu. ](/news/2015/07/11/at-least-six-civilians-and-four-militants-are-killed-in-attacks-on-two-hotels-in-the-somali-capital-of-mogadishu.md) _(Current version)_
 
 ### Related:

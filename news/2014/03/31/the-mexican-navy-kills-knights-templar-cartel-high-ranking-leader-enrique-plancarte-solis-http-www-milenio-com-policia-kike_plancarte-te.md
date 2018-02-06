@@ -11,8 +11,8 @@ Formats: [HTML](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-h
 
 ### Changes:
 
-1. [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. ](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis.md) _2017-08-25 03:40:14 (First version)_
-2. [Mexican Drug War: The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http:--www.milenio.com-policia-Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/mexican-drug-war-the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia.md) _2017-08-27 03:40:32 (Update)_
+1. [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. ](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis.md) _2018-02-06 13:49:26 (First version)_
+2. [Mexican Drug War: The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http:--www.milenio.com-policia-Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/mexican-drug-war-the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia.md) _2018-02-06 13:49:26 (Update)_
 2. [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http:--www.milenio.com-policia-Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia-kike_plancarte-te.md) _(Current version)_
 
 ### Related:

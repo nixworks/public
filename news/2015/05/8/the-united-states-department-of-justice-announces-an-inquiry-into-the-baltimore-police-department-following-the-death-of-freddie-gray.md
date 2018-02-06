@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/05/8/the-united-states-department-of-justice-announce
 
 ### Changes:
 
-1. [Death of Freddie Gray: The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. ](/news/2015/05/8/death-of-freddie-gray-the-united-states-department-of-justice-announces-an-inquiry-into-the-baltimore-police-department-following-the-death.md) _2017-08-27 03:42:16 (First version)_
+1. [Death of Freddie Gray: The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. ](/news/2015/05/8/death-of-freddie-gray-the-united-states-department-of-justice-announces-an-inquiry-into-the-baltimore-police-department-following-the-death.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. ](/news/2015/05/8/the-united-states-department-of-justice-announces-an-inquiry-into-the-baltimore-police-department-following-the-death-of-freddie-gray.md) _(Current version)_
 
 ### Related:

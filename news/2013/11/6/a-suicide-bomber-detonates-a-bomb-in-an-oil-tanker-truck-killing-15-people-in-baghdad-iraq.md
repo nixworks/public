@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/6/a-suicide-bomber-detonates-a-bomb-in-an-oil-tank
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md) _2017-08-25 03:39:29 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md) _2017-08-27 03:39:47 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/a-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md) _(Current version)_
 
 ### Related:

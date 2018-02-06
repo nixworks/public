@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-new
 
 ### Changes:
 
-1. [ Iran lifts a ban on one of its best-selling newspapers, ''Hamshahri'', a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-pictur.md) _2017-08-25 03:26:26 (First version)_
+1. [ Iran lifts a ban on one of its best-selling newspapers, ''Hamshahri'', a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-pictur.md) _2018-02-06 13:49:19 (First version)_
 1. [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md) _(Current version)_
 
 ### Related:

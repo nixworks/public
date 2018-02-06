@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/25/index.html)  [JSON](2008/07/25/index.json)  [XML](200
 
 ##### Dennis Kucinich
 ### [ Congressman Dennis Kucinich (D-Ohio) presents the articles for the impeachment of President George W. Bush to the U.S. House Judiciary Committee. ](/news/2008/07/25/congressman-dennis-kucinich-d-ohio-presents-the-articles-for-the-impeachment-of-president-george-w-bush-to-the-u-s-house-judiciary-comm.md)
-_Context: impeachment of President George W. Bush, Dennis Kucinich, U.S. House Judiciary Committee_
+_Context: Dennis Kucinich, impeachment of President George W. Bush, U.S. House Judiciary Committee_
 
 ##### seven bomb blasts
 ### [ A series of seven bomb blasts rock Bangalore, India, killing 2 and injuring 20. ](/news/2008/07/25/a-series-of-seven-bomb-blasts-rock-bangalore-india-killing-2-and-injuring-20.md)
@@ -21,7 +21,7 @@ _Context: indexed, Google_
 
 ##### Kapiliele Faupala
 ### [ Kapiliele Faupala is crowned the new King of Wallis (Uvea), succeeding the late Tomasi Kulimoetoke II, who died in 2007. ](/news/2008/07/25/kapiliele-faupala-is-crowned-the-new-king-of-wallis-uvea-succeeding-the-late-tomasi-kulimoetoke-ii-who-died-in-2007.md)
-_Context: Kapiliele Faupala, Tomasi Kulimoetoke II, King of Wallis (Uvea)_
+_Context: Kapiliele Faupala, King of Wallis (Uvea), Tomasi Kulimoetoke II_
 
 ## [Previous Day...](/news/2008/07/24/index.md)
 

@@ -16,8 +16,8 @@ At least 23 people were killed in bombings and shootings in Iraq on Friday, poli
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):23 people are killed in bombing and shootings in Iraq. ](/news/2013/11/22/iraqi-insurgency-post-u-s-withdrawal-p23-people-are-killed-in-bombing-and-shootings-in-iraq.md) _2017-08-25 03:39:34 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 23 people are killed in bombing and shootings in Iraq. ](/news/2013/11/22/iraqi-insurgency-post-u-s-withdrawal-23-people-are-killed-in-bombing-and-shootings-in-iraq.md) _2017-08-27 03:39:52 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):23 people are killed in bombing and shootings in Iraq. ](/news/2013/11/22/iraqi-insurgency-post-u-s-withdrawal-p23-people-are-killed-in-bombing-and-shootings-in-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 23 people are killed in bombing and shootings in Iraq. ](/news/2013/11/22/iraqi-insurgency-post-u-s-withdrawal-23-people-are-killed-in-bombing-and-shootings-in-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [23 people are killed in bombing and shootings in Iraq. ](/news/2013/11/22/23-people-are-killed-in-bombing-and-shootings-in-iraq.md) _(Current version)_
 
 ### Related:

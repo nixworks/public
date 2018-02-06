@@ -18,8 +18,8 @@ At least 39 people have been killed after gunmen burst into a shopping centre in
 
 ### Changes:
 
-1. [Aftermath of Operation Linda Nchi:A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/aftermath-of-operation-linda-nchi-pa-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150-w.md) _2017-08-25 03:39:18 (First version)_
-2. [Aftermath of Operation Linda Nchi:: A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/aftermath-of-operation-linda-nchi-a-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150.md) _2017-08-27 03:39:35 (Update)_
+1. [Aftermath of Operation Linda Nchi:A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/aftermath-of-operation-linda-nchi-pa-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150-w.md) _2018-02-06 13:49:25 (First version)_
+2. [Aftermath of Operation Linda Nchi:: A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/aftermath-of-operation-linda-nchi-a-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150.md) _2018-02-06 13:49:25 (Update)_
 2. [A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/a-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150-wounded-a-hostage-situation-is-evo.md) _(Current version)_
 
 ### Related:

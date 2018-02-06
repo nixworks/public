@@ -15,7 +15,7 @@ Several people killed in explosion near a mosque and police offices in western p
 
 ### Changes:
 
-1. [War in Afghanistan: 2017 Herat bombing: An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/war-in-afghanistan-2017-herat-bombing-an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md) _2017-08-27 03:48:26 (First version)_
+1. [War in Afghanistan: 2017 Herat bombing: An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/war-in-afghanistan-2017-herat-bombing-an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md) _2018-02-06 13:49:30 (First version)_
 1. [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md) _(Current version)_
 
 ### Related:

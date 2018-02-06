@@ -17,7 +17,7 @@ Suspected Islamist militants armed with axes or knives hacked a prominent gay ac
 
 ### Changes:
 
-1. [Attacks on secularists in Bangladesh: Xulhaz Mannan, a Bangladeshi employee of a U.S. charity (USAID), who is also an editor for the country's only LGBT magazine, and a friend are hacked to death in Dhaka, Bangladesh, by suspected Islamist militants. Guards at the building were also injured. ](/news/2016/04/25/attacks-on-secularists-in-bangladesh-xulhaz-mannan-a-bangladeshi-employee-of-a-u-s-charity-usaid-who-is-also-an-editor-for-the-country.md) _2017-08-27 03:45:50 (First version)_
+1. [Attacks on secularists in Bangladesh: Xulhaz Mannan, a Bangladeshi employee of a U.S. charity (USAID), who is also an editor for the country's only LGBT magazine, and a friend are hacked to death in Dhaka, Bangladesh, by suspected Islamist militants. Guards at the building were also injured. ](/news/2016/04/25/attacks-on-secularists-in-bangladesh-xulhaz-mannan-a-bangladeshi-employee-of-a-u-s-charity-usaid-who-is-also-an-editor-for-the-country.md) _2018-02-06 13:49:28 (First version)_
 1. [Xulhaz Mannan, a Bangladeshi employee of a U.S. charity (USAID), who is also an editor for the country's only LGBT magazine, and a friend are hacked to death in Dhaka, Bangladesh, by suspected Islamist militants. Guards at the building were also injured. ](/news/2016/04/25/xulhaz-mannan-a-bangladeshi-employee-of-a-u-s-charity-usaid-who-is-also-an-editor-for-the-country-s-only-lgbt-magazine-and-a-friend-ar.md) _(Current version)_
 
 ### Related:

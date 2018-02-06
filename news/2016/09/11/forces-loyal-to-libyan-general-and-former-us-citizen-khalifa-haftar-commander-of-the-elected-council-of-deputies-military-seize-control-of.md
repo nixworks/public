@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-ci
 
 ### Changes:
 
-1. [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-o.md) _2017-08-25 03:46:26 (First version)_
-2. [Libyan Civil War (2014-present): Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/libyan-civil-war-2014-present-forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of.md) _2017-08-27 03:46:49 (Update)_
+1. [Libyan Civil War (2014-present): Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/libyan-civil-war-2014-present-forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of.md) _2018-02-06 13:49:29 (First version)_
+2. [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-o.md) _2018-02-06 13:49:29 (Update)_
 2. [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-of.md) _(Current version)_
 
 ### Related:

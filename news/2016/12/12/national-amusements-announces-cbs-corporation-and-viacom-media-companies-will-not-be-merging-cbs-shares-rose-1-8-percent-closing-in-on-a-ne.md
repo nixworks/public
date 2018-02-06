@@ -16,7 +16,7 @@ Media mogul Sumner Redstone and his daughter Shari called off their failed effor
 
 ### Changes:
 
-1. [National Amusements announces CBS Corporation and Viacom media companies will not be merging. CBS shares rose 1.8 percent closing in on a nearly 2-1-2 year high while Viacom fell 6.9 percent. ](/news/2016/12/12/national-amusements-announces-cbs-corporation-and-viacom-media-companies-will-not-be-merging-cbs-shares-rose-1-8-percent-closing-in-on-a-n.md) _2017-08-25 03:47:02 (First version)_
+1. [National Amusements announces CBS Corporation and Viacom media companies will not be merging. CBS shares rose 1.8 percent closing in on a nearly 2-1-2 year high while Viacom fell 6.9 percent. ](/news/2016/12/12/national-amusements-announces-cbs-corporation-and-viacom-media-companies-will-not-be-merging-cbs-shares-rose-1-8-percent-closing-in-on-a-n.md) _2018-02-06 13:49:29 (First version)_
 1. [National Amusements announces CBS Corporation and Viacom media companies will not be merging. CBS shares rose 1.8 percent closing in on a nearly 2-1-2 year high while Viacom fell 6.9 percent. ](/news/2016/12/12/national-amusements-announces-cbs-corporation-and-viacom-media-companies-will-not-be-merging-cbs-shares-rose-1-8-percent-closing-in-on-a-ne.md) _(Current version)_
 
 ### Related:

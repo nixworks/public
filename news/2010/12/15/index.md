@@ -13,19 +13,19 @@ At least 41 people killed and dozens injured after a suicide bombing near a mosq
 
 ##### mummified
 ### [The mummified remains of the head of King Henri IV of France have been discovered in the garage of a French retiree. ](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri-iv-of-france-have-been-discovered-in-the-garage-of-a-french-retiree.md)
-_Context: Henri IV of France, mummified_
+_Context: mummified, Henri IV of France_
 
 ##### Cuba
 ### [Cuba unveils its own version of Wikipedia. ](/news/2010/12/15/cuba-unveils-its-own-version-of-wikipedia.md)
-_Context: Wikipedia, Cuba_
+_Context: Cuba, Wikipedia_
 
 ##### Facebook
 ### [Facebook founder Mark Zuckerberg is TIME's 2010 Person of the Year. WikiLeaks founder Julian Assange wins top place in the reader's poll. ](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.md)
-_Context: Facebook, TIME, Mark Zuckerberg, WikiLeaks, Julian Assange_
+_Context: WikiLeaks, TIME, Facebook, Mark Zuckerberg, Julian Assange_
 
 ##### Lehman Brothers
 ### [Lehman Brothers bondholders, including hedge fund manager Paulson & Co., file a plan for the reorganization of that defunct broker-dealer, presenting the New York bankruptcy court with an alternative to the plan Lehman itself filed earlier in the year. ](/news/2010/12/15/lehman-brothers-bondholders-including-hedge-fund-manager-paulson-co-file-a-plan-for-the-reorganization-of-that-defunct-broker-dealer-p.md)
-_Context: Paulson & Co., New York City, Lehman Brothers, broker-dealer, bankruptcy_
+_Context: New York City, broker-dealer, bankruptcy, Lehman Brothers, Paulson & Co._
 
 ##### Ghana
 ### [Ghana is to begin pumping its first oil since a discovery in an offshore field three years ago. ](/news/2010/12/15/ghana-is-to-begin-pumping-its-first-oil-since-a-discovery-in-an-offshore-field-three-years-ago.md)
@@ -45,11 +45,11 @@ All 22 people travelling in a small passenger plane that crashed in Nepal are de
 
 ##### Battambang Province
 ### [Four children are seriously injured in a mine explosion in Battambang Province, northwestern Cambodia. ](/news/2010/12/15/four-children-are-seriously-injured-in-a-mine-explosion-in-battambang-province-northwestern-cambodia.md)
-_Context: Cambodia, Battambang Province_
+_Context: Battambang Province, Cambodia_
 
 ##### Air Force
 ### [Two Air Force pilots are killed after their twin-seat trainer aircraft crashed during a training mission in Taiwan. ](/news/2010/12/15/two-air-force-pilots-are-killed-after-their-twin-seat-trainer-aircraft-crashed-during-a-training-mission-in-taiwan.md)
-_Context: Air Force, Taiwan_
+_Context: Taiwan, Air Force_
 
 ##### Senegal
 ### [Senegal recalls its ambassador to Iran, saying that Iran had not provided an adequate explanation for an arms shipment seized in Nigeria. ](/news/2010/12/15/senegal-recalls-its-ambassador-to-iran-saying-that-iran-had-not-provided-an-adequate-explanation-for-an-arms-shipment-seized-in-nigeria.md)
@@ -67,7 +67,7 @@ The UN Security Council lifts most international sanctions imposed on Iraq durin
 ### [Palestinian firefighters who helped fight the Carmel fire in Israel last week are refused a permit to enter Israel for a ceremony in their honor. Officials said the firemen were denied entry as result of a "technical mishap". ](/news/2010/12/15/palestinian-firefighters-who-helped-fight-the-carmel-fire-in-israel-last-week-are-refused-a-permit-to-enter-israel-for-a-ceremony-in-their-h.md)
 ##### Moscow
 ### [700 people are arrested in Moscow, Russia, in attempt to prevent ethnic clashes over the shooting of a football fan. ](/news/2010/12/15/700-people-are-arrested-in-moscow-russia-in-attempt-to-prevent-ethnic-clashes-over-the-shooting-of-a-football-fan.md)
-_Context: Moscow, Russia_
+_Context: Russia, Moscow_
 
 ##### Obama administration
 ### [The Obama administration launches legal action against BP and its partners to recover the cost of cleaning up the Deepwater Horizon oil spill. ](/news/2010/12/15/the-obama-administration-launches-legal-action-against-bp-and-its-partners-to-recover-the-cost-of-cleaning-up-the-deepwater-horizon-oil-spil.md)
@@ -75,7 +75,7 @@ The Obama administration on Wednesday launched a legal battle against BP Plc and
 
 ##### Sudan
 ### [The Constitutional Court in Sudan agrees to hear a petition by lawyers for the dissolution of the body organising the referendum on Southern Sudan's independence. ](/news/2010/12/15/the-constitutional-court-in-sudan-agrees-to-hear-a-petition-by-lawyers-for-the-dissolution-of-the-body-organising-the-referendum-on-southern.md)
-_Context: Sudan, Southern Sudan, Southern Sudanese Independence Referendum_
+_Context: Southern Sudanese Independence Referendum, Southern Sudan, Sudan_
 
 ##### Alassane Ouattara
 ### [An alliance of opposition parties that endorse the presidency of Alassane Ouattara in the Ivory Coast call for mass protests, following the presidential election. ](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.md)
@@ -83,7 +83,7 @@ Ouattara’s camp asks supporters to help them take over state television and go
 
 ##### Cuba
 ### [Cuba refuses to grant a visa to dissident Guillermo Farias so that he could receive the Sakharov Prize in France. ](/news/2010/12/15/cuba-refuses-to-grant-a-visa-to-dissident-guillermo-farinas-so-that-he-could-receive-the-sakharov-prize-in-france.md)
-_Context: France, Cuba, Guillermo Farias, Sakharov Prize, visa_
+_Context: Guillermo Farias, France, visa, Cuba, Sakharov Prize_
 
 ##### Visa Inc.
 ### [Credit card companies such as Visa and MasterCard that prevented card-holders from donating money to the whistleblower website WikiLeaks could have their operating licenses taken away in Iceland. A parliament investigation is ongoing. ](/news/2010/12/15/credit-card-companies-such-as-visa-and-mastercard-that-prevented-card-holders-from-donating-money-to-the-whistleblower-website-wikileaks-cou.md)
@@ -99,7 +99,7 @@ _Context: Japan, Oncorhynchus nerka kawamurae_
 
 ##### Voyager 1
 ### [Data confirms that Voyager 1 has entered the heliopause, the area of space where the Sun's solar wind is stopped by the interstellar wind. It is believed the probe will now leave the Solar System within the next four years. ](/news/2010/12/15/data-confirms-that-voyager-1-has-entered-the-heliopause-the-area-of-space-where-the-sun-s-solar-wind-is-stopped-by-the-interstellar-wind-i.md)
-_Context: solar wind, heliopause, Voyager 1, Solar System, Sun, interstellar wind_
+_Context: solar wind, Voyager 1, interstellar wind, heliopause, Solar System, Sun_
 
 ## [Previous Day...](/news/2010/12/14/index.md)
 

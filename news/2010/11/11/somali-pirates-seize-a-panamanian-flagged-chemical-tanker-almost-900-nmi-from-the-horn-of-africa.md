@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemi
 
 ### Changes:
 
-1. [Somali pirates seize a Panamanian-flagged chemical tanker almost {{convert|900|nmi|km|abbr=on}} from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-convert-900-nmi-km-abbr-on-from-the-horn-of-africa.md) _2017-05-01 03:32:56 (First version)_
-2. [Somali pirates seize a Panamanian-flagged chemical tanker almost 900|nmi|km|abbr=on from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-km-abbr-on-from-the-horn-of-africa.md) _2017-08-29 03:31:07 (Update)_
+1. [Somali pirates seize a Panamanian-flagged chemical tanker almost {{convert|900|nmi|km|abbr=on}} from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-convert-900-nmi-km-abbr-on-from-the-horn-of-africa.md) _2018-02-06 13:49:21 (First version)_
+2. [Somali pirates seize a Panamanian-flagged chemical tanker almost 900|nmi|km|abbr=on from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-km-abbr-on-from-the-horn-of-africa.md) _2018-02-06 13:49:21 (Update)_
 2. [Somali pirates seize a Panamanian-flagged chemical tanker almost 900 nmi from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-from-the-horn-of-africa.md) _(Current version)_
 
 ### Related:

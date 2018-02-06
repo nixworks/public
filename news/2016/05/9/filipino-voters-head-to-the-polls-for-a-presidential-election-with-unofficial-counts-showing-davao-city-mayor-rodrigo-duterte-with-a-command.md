@@ -17,7 +17,7 @@ MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to 
 
 ### Changes:
 
-1. [Philippine general election, 2016: Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead. ](/news/2016/05/9/philippine-general-election-2016-filipino-voters-head-to-the-polls-for-a-presidential-election-with-unofficial-counts-showing-davao-city-m.md) _2017-08-27 03:46:00 (First version)_
+1. [Philippine general election, 2016: Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead. ](/news/2016/05/9/philippine-general-election-2016-filipino-voters-head-to-the-polls-for-a-presidential-election-with-unofficial-counts-showing-davao-city-m.md) _2018-02-06 13:49:29 (First version)_
 1. [Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead. ](/news/2016/05/9/filipino-voters-head-to-the-polls-for-a-presidential-election-with-unofficial-counts-showing-davao-city-mayor-rodrigo-duterte-with-a-command.md) _(Current version)_
 
 ### Related:

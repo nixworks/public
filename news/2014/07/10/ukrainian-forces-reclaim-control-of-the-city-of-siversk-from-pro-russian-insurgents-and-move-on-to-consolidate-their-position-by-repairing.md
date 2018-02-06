@@ -16,7 +16,7 @@ Leaders of the pro-Russia separatists said they had decided to surrender another
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Ukrainian forces reclaim control of the city of Siversk from pro-Russian insurgents, and move on to consolidate their position by repairing damaged infrastructure and funneling aid into recently recaptured territory. ](/news/2014/07/10/2014-pro-russian-conflict-in-ukraine-ukrainian-forces-reclaim-control-of-the-city-of-siversk-from-pro-russian-insurgents-and-move-on-to-co.md) _2017-08-27 03:40:58 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Ukrainian forces reclaim control of the city of Siversk from pro-Russian insurgents, and move on to consolidate their position by repairing damaged infrastructure and funneling aid into recently recaptured territory. ](/news/2014/07/10/2014-pro-russian-conflict-in-ukraine-ukrainian-forces-reclaim-control-of-the-city-of-siversk-from-pro-russian-insurgents-and-move-on-to-co.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukrainian forces reclaim control of the city of Siversk from pro-Russian insurgents, and move on to consolidate their position by repairing damaged infrastructure and funneling aid into recently recaptured territory. ](/news/2014/07/10/ukrainian-forces-reclaim-control-of-the-city-of-siversk-from-pro-russian-insurgents-and-move-on-to-consolidate-their-position-by-repairing.md) _(Current version)_
 
 ### Related:

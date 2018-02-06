@@ -17,7 +17,7 @@ Heavy rainfall caused the banks of the Mocoa River and three tributaries to over
 
 ### Changes:
 
-1. [2017 Putumayo landslide: A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/2017-putumayo-landslide-a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-kill.md) _2017-08-27 03:48:05 (First version)_
+1. [2017 Putumayo landslide: A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/2017-putumayo-landslide-a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-kill.md) _2018-02-06 13:49:30 (First version)_
 1. [A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-killing-over-250-people-and-i.md) _(Current version)_
 
 ### Related:

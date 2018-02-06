@@ -18,7 +18,7 @@ The death toll from the Christchurch earthquake is now 98 with police holding gr
 
 ### Changes:
 
-1. [2011 Canterbury earthquake: The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/2011-canterbury-earthquake-the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _2017-08-27 03:32:27 (First version)_
+1. [2011 Canterbury earthquake: The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/2011-canterbury-earthquake-the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _2018-02-06 13:49:22 (First version)_
 1. [The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _(Current version)_
 
 ### Related:

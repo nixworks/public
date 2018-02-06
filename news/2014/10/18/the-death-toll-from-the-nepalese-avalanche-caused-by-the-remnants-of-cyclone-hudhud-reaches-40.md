@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/18/the-death-toll-from-the-nepalese-avalanche-caus
 
 ### Changes:
 
-1. [Cyclone Hudhud: The death toll from the Nepalese avalanche caused by the remnants of Cyclone Hudhud reaches 40. ](/news/2014/10/18/cyclone-hudhud-the-death-toll-from-the-nepalese-avalanche-caused-by-the-remnants-of-cyclone-hudhud-reaches-40.md) _2017-08-27 03:41:24 (First version)_
+1. [Cyclone Hudhud: The death toll from the Nepalese avalanche caused by the remnants of Cyclone Hudhud reaches 40. ](/news/2014/10/18/cyclone-hudhud-the-death-toll-from-the-nepalese-avalanche-caused-by-the-remnants-of-cyclone-hudhud-reaches-40.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from the Nepalese avalanche caused by the remnants of Cyclone Hudhud reaches 40. ](/news/2014/10/18/the-death-toll-from-the-nepalese-avalanche-caused-by-the-remnants-of-cyclone-hudhud-reaches-40.md) _(Current version)_
 
 ### Related:

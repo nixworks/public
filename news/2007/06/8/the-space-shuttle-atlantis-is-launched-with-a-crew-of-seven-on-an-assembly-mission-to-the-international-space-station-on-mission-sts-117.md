@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-cr
 
 ### Changes:
 
-1. [ The Space Shuttle ''Atlantis'' is launched with a crew of seven on an assembly mission to the International Space Station on mission STS-117. ](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-crew-of-seven-on-an-assembly-mission-to-the-international-space-station-on-mission-sts-11.md) _2017-08-25 03:19:57 (First version)_
+1. [ The Space Shuttle ''Atlantis'' is launched with a crew of seven on an assembly mission to the International Space Station on mission STS-117. ](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-crew-of-seven-on-an-assembly-mission-to-the-international-space-station-on-mission-sts-11.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Space Shuttle "Atlantis" is launched with a crew of seven on an assembly mission to the International Space Station on mission STS-117. ](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-crew-of-seven-on-an-assembly-mission-to-the-international-space-station-on-mission-sts-117.md) _(Current version)_
 
 ### Related:

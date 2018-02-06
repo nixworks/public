@@ -19,7 +19,7 @@ The US House of Representatives has approved legislation to avert a disastrous d
 
 ### Changes:
 
-1. [2011 U.S. debt ceiling crisis: The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/2011-u-s-debt-ceiling-crisis-the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u.md) _2017-08-27 03:34:03 (First version)_
+1. [2011 U.S. debt ceiling crisis: The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/2011-u-s-debt-ceiling-crisis-the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u.md) _2018-02-06 13:49:22 (First version)_
 1. [The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u-s-debt-ceiling-crisis.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Medecins Sans Frontieres says hospitals it supports in Syria treated about 3,600
 
 ### Changes:
 
-1. [Syrian civil war:Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-pmedecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _2017-08-25 03:39:12 (First version)_
-2. [Syrian civil war:: Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _2017-08-27 03:39:28 (Update)_
+1. [Syrian civil war:Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-pmedecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _2018-02-06 13:49:25 (Update)_
 2. [Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md) _(Current version)_
 
 ### Related:

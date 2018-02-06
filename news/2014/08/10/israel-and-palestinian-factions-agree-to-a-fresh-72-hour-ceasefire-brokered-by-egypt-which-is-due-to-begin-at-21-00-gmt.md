@@ -17,7 +17,7 @@ A three-day truce comes into effect between Israel and the Palestinians in Gaza,
 
 ### Changes:
 
-1. [2014 Israel-Gaza Conflict: Israel and Palestinian factions agree to a fresh 72-hour ceasefire, brokered by Egypt, which is due to begin at 21:00 GMT. ](/news/2014/08/10/2014-israel-gaza-conflict-israel-and-palestinian-factions-agree-to-a-fresh-72-hour-ceasefire-brokered-by-egypt-which-is-due-to-begin-at-2.md) _2017-08-27 03:41:08 (First version)_
+1. [2014 Israel-Gaza Conflict: Israel and Palestinian factions agree to a fresh 72-hour ceasefire, brokered by Egypt, which is due to begin at 21:00 GMT. ](/news/2014/08/10/2014-israel-gaza-conflict-israel-and-palestinian-factions-agree-to-a-fresh-72-hour-ceasefire-brokered-by-egypt-which-is-due-to-begin-at-2.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel and Palestinian factions agree to a fresh 72-hour ceasefire, brokered by Egypt, which is due to begin at 21:00 GMT. ](/news/2014/08/10/israel-and-palestinian-factions-agree-to-a-fresh-72-hour-ceasefire-brokered-by-egypt-which-is-due-to-begin-at-21-00-gmt.md) _(Current version)_
 
 ### Related:

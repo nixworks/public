@@ -25,8 +25,8 @@ For those of us who have never been held hostage, now we know what it feels like
 
 ### Changes:
 
-1. [Super Tuesday:Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-pvoters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _2017-08-25 03:35:12 (First version)_
-2. [Super Tuesday:: Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _2017-08-27 03:35:22 (Update)_
+1. [Super Tuesday:: Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _2018-02-06 13:49:23 (First version)_
+2. [Super Tuesday:Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-pvoters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md) _(Current version)_
 
 ### Related:

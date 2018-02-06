@@ -16,8 +16,8 @@ MSF said three people were pulled alive from the rubble of a recently destroyed 
 
 ### Changes:
 
-1. [Medecins Sans Frontieres (Doctors Without Borders) reports three people are found alive in the rubble of a hospital in northwest Syria hit by Russian airstrikes Monday. ](/news/2016/02/17/ma-c-decins-sans-frontia-res-doctors-without-borders-reports-three-people-are-found-alive-in-the-rubble-of-a-hospital-in-northwest-syria-hi.md) _2017-08-25 03:44:35 (First version)_
-2. [Syrian Civil War: Medecins Sans Frontieres (Doctors Without Borders) reports three people are found alive in the rubble of a hospital in northwest Syria hit by Russian airstrikes Monday. ](/news/2016/02/17/syrian-civil-war-ma-c-decins-sans-frontia-res-doctors-without-borders-reports-three-people-are-found-alive-in-the-rubble-of-a-hospital-in-n.md) _2017-08-27 03:44:56 (Update)_
+1. [Syrian Civil War: Medecins Sans Frontieres (Doctors Without Borders) reports three people are found alive in the rubble of a hospital in northwest Syria hit by Russian airstrikes Monday. ](/news/2016/02/17/syrian-civil-war-ma-c-decins-sans-frontia-res-doctors-without-borders-reports-three-people-are-found-alive-in-the-rubble-of-a-hospital-in-n.md) _2018-02-06 13:49:28 (First version)_
+2. [Medecins Sans Frontieres (Doctors Without Borders) reports three people are found alive in the rubble of a hospital in northwest Syria hit by Russian airstrikes Monday. ](/news/2016/02/17/ma-c-decins-sans-frontia-res-doctors-without-borders-reports-three-people-are-found-alive-in-the-rubble-of-a-hospital-in-northwest-syria-hi.md) _2018-02-06 13:49:28 (Update)_
 2. [Medecins Sans Frontieres (Doctors Without Borders) reports three people are found alive in the rubble of a hospital in northwest Syria hit by Russian airstrikes Monday. ](/news/2016/02/17/ma-c-decins-sans-frontia-res-doctors-without-borders-reports-three-people-are-found-alive-in-the-rubble-of-a-hospital-in-northwest-syria-hit.md) _(Current version)_
 
 ### Related:

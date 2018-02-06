@@ -17,7 +17,7 @@ The U.S. government has declared a public health emergency in Puerto Rico becaus
 
 ### Changes:
 
-1. [Zika virus outbreak timeline: The United States declares a public health emergency in Puerto Rico over an outbreak of the Zika virus which has infected nearly 11,000 people. ](/news/2016/08/12/zika-virus-outbreak-timeline-the-united-states-declares-a-public-health-emergency-in-puerto-rico-over-an-outbreak-of-the-zika-virus-which-h.md) _2017-08-27 03:46:39 (First version)_
+1. [Zika virus outbreak timeline: The United States declares a public health emergency in Puerto Rico over an outbreak of the Zika virus which has infected nearly 11,000 people. ](/news/2016/08/12/zika-virus-outbreak-timeline-the-united-states-declares-a-public-health-emergency-in-puerto-rico-over-an-outbreak-of-the-zika-virus-which-h.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States declares a public health emergency in Puerto Rico over an outbreak of the Zika virus which has infected nearly 11,000 people. ](/news/2016/08/12/the-united-states-declares-a-public-health-emergency-in-puerto-rico-over-an-outbreak-of-the-zika-virus-which-has-infected-nearly-11-000-peop.md) _(Current version)_
 
 ### Related:

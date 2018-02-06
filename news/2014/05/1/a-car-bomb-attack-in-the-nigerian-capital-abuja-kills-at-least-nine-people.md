@@ -16,8 +16,8 @@ A car bomb attack in the Nigerian capital Abuja, the second in recent weeks, kil
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/islamist-insurgency-in-nigeria-pa-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md) _2017-08-25 03:40:22 (First version)_
-2. [Islamist insurgency in Nigeria:: A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/islamist-insurgency-in-nigeria-a-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md) _2017-08-27 03:40:39 (Update)_
+1. [Islamist insurgency in Nigeria:A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/islamist-insurgency-in-nigeria-pa-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/islamist-insurgency-in-nigeria-a-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md) _2018-02-06 13:49:26 (Update)_
 2. [A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/a-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md) _(Current version)_
 
 ### Related:

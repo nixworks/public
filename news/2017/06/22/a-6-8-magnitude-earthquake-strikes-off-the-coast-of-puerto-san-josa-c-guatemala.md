@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coas
 
 ### Changes:
 
-1. [Earthquakes in 2017: A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/earthquakes-in-2017-a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _2017-08-27 03:48:32 (First version)_
+1. [Earthquakes in 2017: A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/earthquakes-in-2017-a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _2018-02-06 13:49:30 (First version)_
 1. [A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _(Current version)_
 
 ### Related:

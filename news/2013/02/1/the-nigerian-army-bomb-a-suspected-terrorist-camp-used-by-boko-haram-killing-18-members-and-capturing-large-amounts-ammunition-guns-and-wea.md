@@ -17,8 +17,8 @@ The JTF said it lost one of its officials in the attack in Northern Nigeria
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-pthe-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amount.md) _2017-08-25 03:37:24 (First version)_
-2. [Nigerian Sharia conflict:: The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amoun.md) _2017-08-27 03:37:34 (Update)_
+1. [Nigerian Sharia conflict:: The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amoun.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-pthe-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amount.md) _2018-02-06 13:49:24 (Update)_
 2. [The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Kofi Annan, the U.N.-Arab League envoy to Syria, said he would urge President Ba
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/2011a2012-syrian-uprising-pabdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md) _2017-08-25 03:35:14 (First version)_
-2. [2011-2012 Syrian uprising:: Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/2011-2012-syrian-uprising-abdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md) _2017-08-27 03:35:23 (Update)_
+1. [2011-2012 Syrian uprising:Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/2011a2012-syrian-uprising-pabdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/2011-2012-syrian-uprising-abdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md) _2018-02-06 13:49:23 (Update)_
 2. [Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/abdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md) _(Current version)_
 
 ### Related:

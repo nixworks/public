@@ -20,8 +20,8 @@ At least 41 people were killed and 64 wounded in an attack on a camp filled with
 
 ### Changes:
 
-1. [April 2010 Kohat bombings:Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/april-2010-kohat-bombings-ptwin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-do.md) _2017-08-25 03:27:39 (First version)_
-2. [April 2010 Kohat bombings:: Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/april-2010-kohat-bombings-twin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-d.md) _2017-08-27 03:27:37 (Update)_
+1. [April 2010 Kohat bombings:: Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/april-2010-kohat-bombings-twin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-d.md) _2018-02-06 13:49:19 (First version)_
+2. [April 2010 Kohat bombings:Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/april-2010-kohat-bombings-ptwin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-do.md) _2018-02-06 13:49:19 (Update)_
 2. [Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/twin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-dozens-of-others.md) _(Current version)_
 
 ### Related:

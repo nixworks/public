@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-c
 
 ### Changes:
 
-1. [The Japanese Minister of Defense says his country is to procures cruise missiles able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procures-cruise-missiles-able-to-reach-north-korea.md) _2017-12-08 11:30:06 (First version)_
-2. [The Japanese Minister of Defense says his country is to procure missiles, able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-missiles-able-to-reach-north-korea.md) _2017-12-09 18:30:07 (Update)_
-3. [The Japanese Minister of Defense says his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-that-ren.md) _2017-12-09 19:30:06 (Update)_
+1. [The Japanese Minister of Defense says his country is to procures cruise missiles able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procures-cruise-missiles-able-to-reach-north-korea.md) _2018-02-06 13:49:31 (First version)_
+2. [The Japanese Minister of Defense says his country is to procure missiles, able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-missiles-able-to-reach-north-korea.md) _2018-02-06 13:49:31 (Update)_
+3. [The Japanese Minister of Defense says his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-that-ren.md) _2018-02-06 13:49:31 (Update)_
 3. [The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-tha.md) _(Current version)_
 
 ### Related:

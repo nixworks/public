@@ -16,7 +16,7 @@ Gunmen rounded up and shot dozens of civilians in a remote part of Afghanistan o
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Ghor Province Governor's spokesman claims ISIL insurgents killed 26-42 civilians in his governed province, Afghanistan. ](/news/2016/10/26/war-in-afghanistan-2015-present-ghor-province-governor-s-spokesman-claims-isil-insurgents-killed-26-42-civilians-in-his-governed-provin.md) _2017-08-27 03:47:07 (First version)_
+1. [War in Afghanistan (2015-present): Ghor Province Governor's spokesman claims ISIL insurgents killed 26-42 civilians in his governed province, Afghanistan. ](/news/2016/10/26/war-in-afghanistan-2015-present-ghor-province-governor-s-spokesman-claims-isil-insurgents-killed-26-42-civilians-in-his-governed-provin.md) _2018-02-06 13:49:29 (First version)_
 1. [Ghor Province Governor's spokesman claims ISIL insurgents killed 26-42 civilians in his governed province, Afghanistan. ](/news/2016/10/26/ghor-province-governor-s-spokesman-claims-isil-insurgents-killed-26-42-civilians-in-his-governed-province-afghanistan.md) _(Current version)_
 
 ### Related:

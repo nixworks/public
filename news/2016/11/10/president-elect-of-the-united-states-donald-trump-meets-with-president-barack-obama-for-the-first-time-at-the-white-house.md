@@ -16,7 +16,7 @@ President Barack Obama describes White House transition talks with Donald Trump 
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect of the United States Donald Trump meets with President Barack Obama for the first time at the White House. ](/news/2016/11/10/presidential-transition-of-donald-trump-president-elect-of-the-united-states-donald-trump-meets-with-president-barack-obama-for-the-first-t.md) _2017-08-27 03:47:13 (First version)_
+1. [Presidential transition of Donald Trump: President-elect of the United States Donald Trump meets with President Barack Obama for the first time at the White House. ](/news/2016/11/10/presidential-transition-of-donald-trump-president-elect-of-the-united-states-donald-trump-meets-with-president-barack-obama-for-the-first-t.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect of the United States Donald Trump meets with President Barack Obama for the first time at the White House. ](/news/2016/11/10/president-elect-of-the-united-states-donald-trump-meets-with-president-barack-obama-for-the-first-time-at-the-white-house.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Typhoon Muifa, which traveled north along the West Sea on Monday carrying winds 
 
 ### Changes:
 
-1. [Tropical Storm MufiaAt least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufiapat-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md) _2017-08-25 03:33:58 (First version)_
-2. [Tropical Storm Mufia: At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufia-at-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md) _2017-08-27 03:34:06 (Update)_
+1. [Tropical Storm MufiaAt least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufiapat-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md) _2018-02-06 13:49:22 (First version)_
+2. [Tropical Storm Mufia: At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufia-at-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md) _2018-02-06 13:49:22 (Update)_
 2. [At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/at-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been-destroyed-in-the-peop.md) _(Current version)_
 
 ### Related:

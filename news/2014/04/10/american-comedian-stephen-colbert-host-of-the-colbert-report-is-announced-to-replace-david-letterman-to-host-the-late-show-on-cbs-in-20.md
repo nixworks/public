@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-c
 
 ### Changes:
 
-1. [American comedian Stephen Colbert, host of ''The Colbert Report'' is announced to replace David Letterman to host the ''Late Show'' on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-i.md) _2017-08-25 03:40:16 (First version)_
+1. [American comedian Stephen Colbert, host of ''The Colbert Report'' is announced to replace David Letterman to host the ''Late Show'' on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-i.md) _2018-02-06 13:49:26 (First version)_
 1. [American comedian Stephen Colbert, host of "The Colbert Report" is announced to replace David Letterman to host the "Late Show" on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-in-20.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/14/index.html)  [JSON](2007/12/14/index.json)  [XML](200
 
 ##### King
 ### [ King Abdullah of Saudi Arabia invites the President of Iran Mahmoud Ahmadinejad to visit Mecca for the Hajj pilgrimage. ](/news/2007/12/14/king-abdullah-of-saudi-arabia-invites-the-president-of-iran-mahmoud-ahmadinejad-to-visit-mecca-for-the-hajj-pilgrimage.md)
-_Context: President, pilgrimage, King, Abdullah, Mecca, Hajj, Mahmoud Ahmadinejad_
+_Context: President, Mecca, Mahmoud Ahmadinejad, pilgrimage, Hajj, Abdullah, King_
 
 ## [Previous Day...](/news/2007/12/13/index.md)
 

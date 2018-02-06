@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/08/8/hamas-rejects-the-continuation-of-a-72-hour-ceas
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict:Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/2014-israelagaza-conflict-phamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-isr.md) _2017-08-25 03:40:49 (First version)_
-2. [2014 Israel-Gaza conflict:: Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/2014-israel-gaza-conflict-hamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-is.md) _2017-08-27 03:41:07 (Update)_
+1. [2014 Israel-Gaza conflict:Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/2014-israelagaza-conflict-phamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-isr.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Israel-Gaza conflict:: Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/2014-israel-gaza-conflict-hamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-is.md) _2018-02-06 13:49:26 (Update)_
 2. [Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/hamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-israel-israel-launches-air-stri.md) _(Current version)_
 
 ### Related:

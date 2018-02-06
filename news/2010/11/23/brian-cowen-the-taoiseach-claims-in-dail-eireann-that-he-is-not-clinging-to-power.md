@@ -21,8 +21,8 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 
 ### Changes:
 
-1. [The Irish financial crisis:Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/the-irish-financial-crisis-pbrian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md) _2017-08-25 03:31:08 (First version)_
-2. [The Irish financial crisis:: Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/the-irish-financial-crisis-brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md) _2017-08-27 03:31:15 (Update)_
+1. [The Irish financial crisis:Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/the-irish-financial-crisis-pbrian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md) _2018-02-06 13:49:21 (First version)_
+2. [The Irish financial crisis:: Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/the-irish-financial-crisis-brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md) _2018-02-06 13:49:21 (Update)_
 2. [Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md) _(Current version)_
 
 ### Related:

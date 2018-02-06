@@ -16,7 +16,7 @@ The White House charged that Sudan’s recent election, the first multiparty vot
 
 ### Changes:
 
-1. [The U.S. Obama administration charges that Sudan-s recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly. ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudan-s-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md) _2017-08-27 03:27:39 (First version)_
+1. [The U.S. Obama administration charges that Sudan-s recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly. ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudan-s-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md) _2018-02-06 13:49:19 (First version)_
 1. [The U.S. Obama administration charges that Sudan's recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly. ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudanas-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md) _(Current version)_
 
 ### Related:

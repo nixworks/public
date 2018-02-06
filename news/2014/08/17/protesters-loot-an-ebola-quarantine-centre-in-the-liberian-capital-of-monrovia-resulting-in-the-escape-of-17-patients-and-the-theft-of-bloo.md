@@ -16,8 +16,8 @@ There are conflicting reports over the fate of 17 suspected Ebola patients who d
 
 ### Changes:
 
-1. [2014 West Africa Ebola virus outbreak:Protesters loot an Ebola quarantine centre in the Liberian capital of Monrovia, resulting in the escape of 17 patients and the theft of blood-stained bedding and medical equipment. ](/news/2014/08/17/2014-west-africa-ebola-virus-outbreak-pprotesters-loot-an-ebola-quarantine-centre-in-the-liberian-capital-of-monrovia-resulting-in-the-esca.md) _2017-08-25 03:40:51 (First version)_
-2. [2014 West Africa Ebola virus outbreak:: Protesters loot an Ebola quarantine centre in the Liberian capital of Monrovia, resulting in the escape of 17 patients and the theft of blood-stained bedding and medical equipment. ](/news/2014/08/17/2014-west-africa-ebola-virus-outbreak-protesters-loot-an-ebola-quarantine-centre-in-the-liberian-capital-of-monrovia-resulting-in-the-esc.md) _2017-08-27 03:41:09 (Update)_
+1. [2014 West Africa Ebola virus outbreak:: Protesters loot an Ebola quarantine centre in the Liberian capital of Monrovia, resulting in the escape of 17 patients and the theft of blood-stained bedding and medical equipment. ](/news/2014/08/17/2014-west-africa-ebola-virus-outbreak-protesters-loot-an-ebola-quarantine-centre-in-the-liberian-capital-of-monrovia-resulting-in-the-esc.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola virus outbreak:Protesters loot an Ebola quarantine centre in the Liberian capital of Monrovia, resulting in the escape of 17 patients and the theft of blood-stained bedding and medical equipment. ](/news/2014/08/17/2014-west-africa-ebola-virus-outbreak-pprotesters-loot-an-ebola-quarantine-centre-in-the-liberian-capital-of-monrovia-resulting-in-the-esca.md) _2018-02-06 13:49:26 (Update)_
 2. [Protesters loot an Ebola quarantine centre in the Liberian capital of Monrovia, resulting in the escape of 17 patients and the theft of blood-stained bedding and medical equipment. ](/news/2014/08/17/protesters-loot-an-ebola-quarantine-centre-in-the-liberian-capital-of-monrovia-resulting-in-the-escape-of-17-patients-and-the-theft-of-bloo.md) _(Current version)_
 
 ### Related:

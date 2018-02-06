@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/11/forces-loyal-to-general-khalifa-haftar-conduct-
 
 ### Changes:
 
-1. [2014 Libyan Uprising:Forces loyal to General Khalifa Haftar conduct at least three separate airstrikes on Ansar al-Sharia militia bases in Benghazi. ](/news/2014/06/11/2014-libyan-uprising-pforces-loyal-to-general-khalifa-haftar-conduct-at-least-three-separate-airstrikes-on-ansar-al-sharia-militia-bases-in.md) _2017-08-25 03:40:32 (First version)_
-2. [2014 Libyan Uprising:: Forces loyal to General Khalifa Haftar conduct at least three separate airstrikes on Ansar al-Sharia militia bases in Benghazi. ](/news/2014/06/11/2014-libyan-uprising-forces-loyal-to-general-khalifa-haftar-conduct-at-least-three-separate-airstrikes-on-ansar-al-sharia-militia-bases-in.md) _2017-08-27 03:40:50 (Update)_
+1. [2014 Libyan Uprising:Forces loyal to General Khalifa Haftar conduct at least three separate airstrikes on Ansar al-Sharia militia bases in Benghazi. ](/news/2014/06/11/2014-libyan-uprising-pforces-loyal-to-general-khalifa-haftar-conduct-at-least-three-separate-airstrikes-on-ansar-al-sharia-militia-bases-in.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Libyan Uprising:: Forces loyal to General Khalifa Haftar conduct at least three separate airstrikes on Ansar al-Sharia militia bases in Benghazi. ](/news/2014/06/11/2014-libyan-uprising-forces-loyal-to-general-khalifa-haftar-conduct-at-least-three-separate-airstrikes-on-ansar-al-sharia-militia-bases-in.md) _2018-02-06 13:49:26 (Update)_
 2. [Forces loyal to General Khalifa Haftar conduct at least three separate airstrikes on Ansar al-Sharia militia bases in Benghazi. ](/news/2014/06/11/forces-loyal-to-general-khalifa-haftar-conduct-at-least-three-separate-airstrikes-on-ansar-al-sharia-militia-bases-in-benghazi.md) _(Current version)_
 
 ### Related:

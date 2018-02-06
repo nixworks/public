@@ -17,7 +17,7 @@ A Palestinian youth died on Saturday at a West Bank hospital following a clash w
 
 ### Changes:
 
-1. [Arab-Israeli conflict: Israeli forces in separate incidents in violent riots protesting an arson attack that burned an infant to death result in the death of two 17-year-old Palestinians. ](/news/2015/08/1/arab-israeli-conflict-israeli-forces-in-separate-incidents-in-violent-riots-protesting-an-arson-attack-that-burned-an-infant-to-death-res.md) _2017-08-27 03:42:46 (First version)_
+1. [Arab-Israeli conflict: Israeli forces in separate incidents in violent riots protesting an arson attack that burned an infant to death result in the death of two 17-year-old Palestinians. ](/news/2015/08/1/arab-israeli-conflict-israeli-forces-in-separate-incidents-in-violent-riots-protesting-an-arson-attack-that-burned-an-infant-to-death-res.md) _2018-02-06 13:49:27 (First version)_
 1. [Israeli forces in separate incidents in violent riots protesting an arson attack that burned an infant to death result in the death of two 17-year-old Palestinians. ](/news/2015/08/1/israeli-forces-in-separate-incidents-in-violent-riots-protesting-an-arson-attack-that-burned-an-infant-to-death-result-in-the-death-of-two-1.md) _(Current version)_
 
 ### Related:

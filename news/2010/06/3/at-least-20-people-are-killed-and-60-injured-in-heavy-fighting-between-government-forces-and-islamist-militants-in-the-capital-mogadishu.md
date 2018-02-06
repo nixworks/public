@@ -21,8 +21,8 @@ Heavy fighting between government forces and Islamist militants in Mogadishu kil
 
 ### Changes:
 
-1. [Somalia:At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-pat-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-moga.md) _2017-08-25 03:28:07 (First version)_
-2. [Somalia:: At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mog.md) _2017-08-27 03:28:06 (Update)_
+1. [Somalia:At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-pat-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-moga.md) _2018-02-06 13:49:20 (First version)_
+2. [Somalia:: At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mog.md) _2018-02-06 13:49:20 (Update)_
 2. [At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mogadishu.md) _(Current version)_
 
 ### Related:

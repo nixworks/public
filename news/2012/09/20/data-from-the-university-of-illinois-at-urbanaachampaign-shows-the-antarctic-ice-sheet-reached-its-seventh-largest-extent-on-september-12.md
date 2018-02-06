@@ -16,7 +16,7 @@ Will the mainstream media retract stories about ice levels falling?
 
 ### Changes:
 
-1. [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km 2 . ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbana-champaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md) _2017-08-27 03:36:44 (First version)_
+1. [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km 2 . ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbana-champaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md) _2018-02-06 13:49:23 (First version)_
 1. [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km 2 . ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbanaachampaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md) _(Current version)_
 
 ### Related:

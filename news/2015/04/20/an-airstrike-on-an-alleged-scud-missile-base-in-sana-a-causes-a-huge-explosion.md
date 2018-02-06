@@ -17,7 +17,7 @@ Saudi-led airstrikes on weapons caches in Yemen&#39;s rebel-held capital Monday 
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): An airstrike on an alleged Scud missile base in Sana'a causes a huge explosion. ](/news/2015/04/20/yemeni-civil-war-2015-an-airstrike-on-an-alleged-scud-missile-base-in-sana-a-causes-a-huge-explosion.md) _2017-08-27 03:42:13 (First version)_
+1. [Yemeni Civil War (2015): An airstrike on an alleged Scud missile base in Sana'a causes a huge explosion. ](/news/2015/04/20/yemeni-civil-war-2015-an-airstrike-on-an-alleged-scud-missile-base-in-sana-a-causes-a-huge-explosion.md) _2018-02-06 13:49:27 (First version)_
 1. [An airstrike on an alleged Scud missile base in Sana'a causes a huge explosion. ](/news/2015/04/20/an-airstrike-on-an-alleged-scud-missile-base-in-sana-a-causes-a-huge-explosion.md) _(Current version)_
 
 ### Related:

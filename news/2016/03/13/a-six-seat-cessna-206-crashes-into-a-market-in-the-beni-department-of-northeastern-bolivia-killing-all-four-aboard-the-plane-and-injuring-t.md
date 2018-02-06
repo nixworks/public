@@ -17,7 +17,7 @@ A small plane crashed into a market in rural Santa Ana del Yacuma in northeast B
 
 ### Changes:
 
-1. [A six-seat Cessna 206 crashes into a market in the Beni Department of northeastern Bolivia, killing all four aboard the plane and injuring three others. (Another report states seven were killed with 15 injured). The plane was flying from Santa Ana del Yacuma to departmental capital Trinidad. ](/news/2016/03/13/a-six-seat-cessna-206-crashes-into-a-market-in-the-beni-department-of-northeastern-bolivia-killing-all-four-aboard-the-plane-and-injuring.md) _2017-08-25 03:44:52 (First version)_
+1. [A six-seat Cessna 206 crashes into a market in the Beni Department of northeastern Bolivia, killing all four aboard the plane and injuring three others. (Another report states seven were killed with 15 injured). The plane was flying from Santa Ana del Yacuma to departmental capital Trinidad. ](/news/2016/03/13/a-six-seat-cessna-206-crashes-into-a-market-in-the-beni-department-of-northeastern-bolivia-killing-all-four-aboard-the-plane-and-injuring.md) _2018-02-06 13:49:28 (First version)_
 1. [A six-seat Cessna 206 crashes into a market in the Beni Department of northeastern Bolivia, killing all four aboard the plane and injuring three others. (Another report states seven were killed with 15 injured). The plane was flying from Santa Ana del Yacuma to departmental capital Trinidad. ](/news/2016/03/13/a-six-seat-cessna-206-crashes-into-a-market-in-the-beni-department-of-northeastern-bolivia-killing-all-four-aboard-the-plane-and-injuring-t.md) _(Current version)_
 
 ### Related:

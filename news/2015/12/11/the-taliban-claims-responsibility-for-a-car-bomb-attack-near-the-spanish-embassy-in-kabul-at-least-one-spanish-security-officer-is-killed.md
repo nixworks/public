@@ -16,7 +16,7 @@ Taliban fighters mounted a car bomb attack on a guest house near the Spanish emb
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban claims responsibility for a car bomb attack near the Spanish embassy in Kabul. At least one Spanish security officer is killed. ](/news/2015/12/11/war-in-afghanistan-2015-present-the-taliban-claims-responsibility-for-a-car-bomb-attack-near-the-spanish-embassy-in-kabul-at-least-one.md) _2017-08-27 03:44:19 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban claims responsibility for a car bomb attack near the Spanish embassy in Kabul. At least one Spanish security officer is killed. ](/news/2015/12/11/war-in-afghanistan-2015-present-the-taliban-claims-responsibility-for-a-car-bomb-attack-near-the-spanish-embassy-in-kabul-at-least-one.md) _2018-02-06 13:49:28 (First version)_
 1. [The Taliban claims responsibility for a car bomb attack near the Spanish embassy in Kabul. At least one Spanish security officer is killed. ](/news/2015/12/11/the-taliban-claims-responsibility-for-a-car-bomb-attack-near-the-spanish-embassy-in-kabul-at-least-one-spanish-security-officer-is-killed.md) _(Current version)_
 
 ### Related:

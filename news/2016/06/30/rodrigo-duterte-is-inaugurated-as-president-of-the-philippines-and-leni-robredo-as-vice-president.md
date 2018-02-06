@@ -17,7 +17,7 @@ A sharp increase in killings of criminal suspects since the election of Rodrigo 
 
 ### Changes:
 
-1. [Presidential transition of Rodrigo Duterte: Rodrigo Duterte is inaugurated as President of the Philippines and Leni Robredo as Vice President. ](/news/2016/06/30/presidential-transition-of-rodrigo-duterte-rodrigo-duterte-is-inaugurated-as-president-of-the-philippines-and-leni-robredo-as-vice-presiden.md) _2017-08-27 03:46:22 (First version)_
+1. [Presidential transition of Rodrigo Duterte: Rodrigo Duterte is inaugurated as President of the Philippines and Leni Robredo as Vice President. ](/news/2016/06/30/presidential-transition-of-rodrigo-duterte-rodrigo-duterte-is-inaugurated-as-president-of-the-philippines-and-leni-robredo-as-vice-presiden.md) _2018-02-06 13:49:29 (First version)_
 1. [Rodrigo Duterte is inaugurated as President of the Philippines and Leni Robredo as Vice President. ](/news/2016/06/30/rodrigo-duterte-is-inaugurated-as-president-of-the-philippines-and-leni-robredo-as-vice-president.md) _(Current version)_
 
 ### Related:

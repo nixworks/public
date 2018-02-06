@@ -16,7 +16,7 @@ Theresa May loses second cabinet minister in a week as pro-Brexit international 
 
 ### Changes:
 
-1. [Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. ](/news/2017/11/8/priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-unauthorized-meeting.md) _2017-11-09 00:30:06 (First version)_
+1. [Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. ](/news/2017/11/8/priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-unauthorized-meeting.md) _2018-02-06 13:49:31 (First version)_
 1. [British politician Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. ](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.md) _(Current version)_
 
 ### Related:

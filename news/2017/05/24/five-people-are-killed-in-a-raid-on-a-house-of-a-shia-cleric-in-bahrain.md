@@ -16,8 +16,8 @@ The interior ministry calls those killed &quot;outlaws&quot;, but activists say 
 
 ### Changes:
 
-1. [A raid in the house of a Shia cleric in Bahrain kills five. ](/news/2017/05/24/a-raid-in-the-house-of-a-shia-cleric-in-bahrain-kills-five.md) _2017-05-24 17:30:07 (First version)_
-2. [A raid on a house of a Shia cleric in Bahrain, kills five people. ](/news/2017/05/24/a-raid-on-a-house-of-a-shia-cleric-in-bahrain-kills-five-people.md) _2017-05-24 18:30:07 (Update)_
+1. [A raid on a house of a Shia cleric in Bahrain, kills five people. ](/news/2017/05/24/a-raid-on-a-house-of-a-shia-cleric-in-bahrain-kills-five-people.md) _2018-02-06 13:49:30 (First version)_
+2. [A raid in the house of a Shia cleric in Bahrain kills five. ](/news/2017/05/24/a-raid-in-the-house-of-a-shia-cleric-in-bahrain-kills-five.md) _2018-02-06 13:49:30 (Update)_
 2. [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md) _(Current version)_
 
 ### Related:

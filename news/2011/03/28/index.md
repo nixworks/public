@@ -9,15 +9,15 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 
 ##### Alassane Ouattara
 ### [Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/rebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoire-from-government-forces.md)
-_Context: Cote d'Ivoire, Duekoue, Alassane Ouattara_
+_Context: Alassane Ouattara, Duekoue, Cote d'Ivoire_
 
 ##### car bomb
 ### [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md)
-_Context: car bomb, Paktika Province, Afghanistan_
+_Context: car bomb, Afghanistan, Paktika Province_
 
 ##### Russia
 ### [Seventeen militants and three Russian security force members die in fighting in Ingushetia while two suspects in the Domodedovo International Airport bombing are arrested. ](/news/2011/03/28/seventeen-militants-and-three-russian-security-force-members-die-in-fighting-in-ingushetia-while-two-suspects-in-the-domodedovo-internationa.md)
-_Context: Russia, Ingushetia, Domodedovo International Airport bombing_
+_Context: Ingushetia, Domodedovo International Airport bombing, Russia_
 
 ##### brain
 ### [A 2,500-year-old preserved human brain dating from the Iron Age is found in Heslington in the English city of York. ](/news/2011/03/28/a-2-500-year-old-preserved-human-brain-dating-from-the-iron-age-is-found-in-heslington-in-the-english-city-of-york.md)
@@ -25,19 +25,19 @@ A 2,500-year-old human skull uncovered in England was less of a surprise than wh
 
 ##### Qatar
 ### [Qatar recognizes Libyan rebels as the representative of the Libyan people, after a deal to market crude oil. ](/news/2011/03/28/qatar-recognizes-libyan-rebels-as-the-representative-of-the-libyan-people-after-a-deal-to-market-crude-oil.md)
-_Context: crude oil, National Transitional Council, Qatar_
+_Context: National Transitional Council, crude oil, Qatar_
 
 ##### Volkswagen
 ### [Volkswagen recalls 71000 2011 model Jetta sedans due to a wiring problem. ](/news/2011/03/28/volkswagen-recalls-71000-2011-model-jetta-sedans-due-to-a-wiring-problem.md)
-_Context: sedans, Volkswagen, Jetta_
+_Context: Volkswagen, sedans, Jetta_
 
 ##### Fukushima I nuclear accidents
 ### [Radioactive seawater from the accidents travels further from the Fukushima I Nuclear Power Plant. ](/news/2011/03/28/radioactive-seawater-from-the-accidents-travels-further-from-the-fukushima-i-nuclear-power-plant.md)
-_Context: Fukushima I nuclear accidents, Fukushima I Nuclear Power Plant_
+_Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 
 ##### IAEA
 ### [The International Atomic Energy Agency calls a summit in Vienna to tackle concerns about nuclear safety following the Fukushima crisis. ](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.md)
-_Context: Fukushima Daiichi nuclear disaster, IAEA, Vienna_
+_Context: Fukushima Daiichi nuclear disaster, Vienna, IAEA_
 
 ##### Ethiopian
 ### [More than 500 Ethiopian and Somalian migrants arrive in Malta from Libya. ](/news/2011/03/28/more-than-500-ethiopian-and-somalian-migrants-arrive-in-malta-from-libya.md)
@@ -53,7 +53,7 @@ Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer char
 
 ##### southern Vietnam
 ### [A court in southern Vietnam sentences a zoo owner to three years imprisonment for selling the carcasses of dead tigers. ](/news/2011/03/28/a-court-in-southern-vietnam-sentences-a-zoo-owner-to-three-years-imprisonment-for-selling-the-carcasses-of-dead-tigers.md)
-_Context: southern Vietnam, tiger_
+_Context: tiger, southern Vietnam_
 
 ##### Egypt
 ### [Egypt is to hold parliamentary elections in September 2011. ](/news/2011/03/28/egypt-is-to-hold-parliamentary-elections-in-september-2011.md)
@@ -61,11 +61,11 @@ _Context: Egypt, parliamentary elections_
 
 ##### Barry O'Farrell
 ### [Barry O'Farrell is sworn as the Premier of the Australian state of New South Wales following Saturday's state election. ](/news/2011/03/28/barry-o-farrell-is-sworn-as-the-premier-of-the-australian-state-of-new-south-wales-following-saturday-s-state-election.md)
-_Context: Australia, Premier, NSW, state election, Barry O'Farrell_
+_Context: Australia, state election, Barry O'Farrell, Premier, NSW_
 
 ##### Governor
 ### [The Governor of the US state of Michigan Rick Snyder signs legislation lowering the period that jobless workers can claim state unemployment benefits from 26 weeks to 20 weeks. ](/news/2011/03/28/the-governor-of-the-us-state-of-michigan-rick-snyder-signs-legislation-lowering-the-period-that-jobless-workers-can-claim-state-unemployment.md)
-_Context: unemployment benefits, Governor, Rick Snyder, Mich._
+_Context: Mich., unemployment benefits, Rick Snyder, Governor_
 
 ## [Previous Day...](/news/2011/03/27/index.md)
 

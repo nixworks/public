@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/1/three-other-victims-of-the-nightclub-fire-die-at
 
 ### Changes:
 
-1. [Colectiv nightclub fire: Three other victims of the nightclub fire die at hospital, bringing the death toll to 30. ](/news/2015/11/1/colectiv-nightclub-fire-three-other-victims-of-the-nightclub-fire-die-at-hospital-bringing-the-death-toll-to-30.md) _2017-08-27 03:43:38 (First version)_
+1. [Colectiv nightclub fire: Three other victims of the nightclub fire die at hospital, bringing the death toll to 30. ](/news/2015/11/1/colectiv-nightclub-fire-three-other-victims-of-the-nightclub-fire-die-at-hospital-bringing-the-death-toll-to-30.md) _2018-02-06 13:49:28 (First version)_
 1. [Three other victims of the nightclub fire die at hospital, bringing the death toll to 30. ](/news/2015/11/1/three-other-victims-of-the-nightclub-fire-die-at-hospital-bringing-the-death-toll-to-30.md) _(Current version)_
 
 ### Related:

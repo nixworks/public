@@ -17,7 +17,7 @@ Thirty-six years after their capture, the Americans taken hostage in Tehran in 1
 
 ### Changes:
 
-1. [The 53 Americans taken hostage in Tehran, Iran, in 1979, or their families, will receive compensation of $4.4 million each from the United States government as a result of a provision in the spending deal signed into law last week. ](/news/2015/12/24/the-53-americans-taken-hostage-in-tehran-iran-in-1979-or-their-families-will-receive-compensation-of-4-4-million-each-from-the-united.md) _2017-08-25 03:44:09 (First version)_
+1. [The 53 Americans taken hostage in Tehran, Iran, in 1979, or their families, will receive compensation of $4.4 million each from the United States government as a result of a provision in the spending deal signed into law last week. ](/news/2015/12/24/the-53-americans-taken-hostage-in-tehran-iran-in-1979-or-their-families-will-receive-compensation-of-4-4-million-each-from-the-united.md) _2018-02-06 13:49:28 (First version)_
 1. [The 53 Americans taken hostage in Tehran, Iran, in 1979, or their families, will receive compensation of $4.4 million each from the United States government as a result of a provision in the spending deal signed into law last week. ](/news/2015/12/24/the-53-americans-taken-hostage-in-tehran-iran-in-1979-or-their-families-will-receive-compensation-of-4-4-million-each-from-the-united-s.md) _(Current version)_
 
 ### Related:

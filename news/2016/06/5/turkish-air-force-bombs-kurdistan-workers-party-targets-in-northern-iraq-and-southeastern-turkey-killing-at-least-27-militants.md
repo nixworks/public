@@ -16,7 +16,7 @@ Turkish warplanes struck Kurdish militant targets in northern Iraq and southeast
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict (2015-present): Turkish Air Force bombs Kurdistan Workers' Party targets in northern Iraq and southeastern Turkey killing at least 27 militants. ](/news/2016/06/5/kurdish-turkish-conflict-2015-present-turkish-air-force-bombs-kurdistan-workers-party-targets-in-northern-iraq-and-southeastern-turk.md) _2017-08-27 03:46:12 (First version)_
+1. [Kurdish-Turkish conflict (2015-present): Turkish Air Force bombs Kurdistan Workers' Party targets in northern Iraq and southeastern Turkey killing at least 27 militants. ](/news/2016/06/5/kurdish-turkish-conflict-2015-present-turkish-air-force-bombs-kurdistan-workers-party-targets-in-northern-iraq-and-southeastern-turk.md) _2018-02-06 13:49:29 (First version)_
 1. [Turkish Air Force bombs Kurdistan Workers' Party targets in northern Iraq and southeastern Turkey killing at least 27 militants. ](/news/2016/06/5/turkish-air-force-bombs-kurdistan-workers-party-targets-in-northern-iraq-and-southeastern-turkey-killing-at-least-27-militants.md) _(Current version)_
 
 ### Related:

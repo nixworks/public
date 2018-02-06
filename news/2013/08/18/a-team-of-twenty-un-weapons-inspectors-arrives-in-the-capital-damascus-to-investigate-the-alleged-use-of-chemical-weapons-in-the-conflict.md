@@ -16,7 +16,7 @@ A team of UN weapons inspectors arrives in the Syrian capital of Damascus to inv
 
 ### Changes:
 
-1. [Syrian civil war: A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/syrian-civil-war-a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapon.md) _2017-08-27 03:39:26 (First version)_
+1. [Syrian civil war: A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/syrian-civil-war-a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapon.md) _2018-02-06 13:49:25 (First version)_
 1. [A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapons-in-the-conflict.md) _(Current version)_
 
 ### Related:

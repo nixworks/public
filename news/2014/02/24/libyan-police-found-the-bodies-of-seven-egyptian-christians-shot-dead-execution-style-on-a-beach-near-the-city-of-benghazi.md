@@ -16,7 +16,7 @@ Seven Egyptian Christians were found shot dead on a beach in eastern Libya after
 
 ### Changes:
 
-1. [Post-civil war violence in Libya: Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/post-civil-war-violence-in-libya-libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the.md) _2017-08-27 03:40:23 (First version)_
+1. [Post-civil war violence in Libya: Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/post-civil-war-violence-in-libya-libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the.md) _2018-02-06 13:49:25 (First version)_
 1. [Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the-city-of-benghazi.md) _(Current version)_
 
 ### Related:

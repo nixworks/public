@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/30/the-senate-postpones-the-impeachment-vote-on-su
 
 ### Changes:
 
-1. [Impeachment of Dilma Rousseff: The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. ](/news/2016/08/30/impeachment-of-dilma-rousseff-the-senate-postpones-the-impeachment-vote-on-suspended-president-dilma-rousseff-to-wednesday.md) _2017-08-27 03:46:44 (First version)_
+1. [Impeachment of Dilma Rousseff: The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. ](/news/2016/08/30/impeachment-of-dilma-rousseff-the-senate-postpones-the-impeachment-vote-on-suspended-president-dilma-rousseff-to-wednesday.md) _2018-02-06 13:49:29 (First version)_
 1. [The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. ](/news/2016/08/30/the-senate-postpones-the-impeachment-vote-on-suspended-president-dilma-rousseff-to-wednesday.md) _(Current version)_
 
 ### Related:

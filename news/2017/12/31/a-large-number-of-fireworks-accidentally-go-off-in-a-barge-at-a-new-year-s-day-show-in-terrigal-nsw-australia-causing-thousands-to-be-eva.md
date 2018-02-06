@@ -16,7 +16,7 @@ Two people are hurt and thousands evacuated as fireworks on a barge ignited at r
 
 ### Changes:
 
-1. [A large number of fireworks accidentally go off in a barge at a New Year's Day show Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-terrigal-nsw-australia-causing-thousands-to-be-evacua.md) _2018-01-01 19:30:04 (First version)_
+1. [A large number of fireworks accidentally go off in a barge at a New Year's Day show Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-terrigal-nsw-australia-causing-thousands-to-be-evacua.md) _2018-02-06 13:49:31 (First version)_
 1. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _(Current version)_
 
 ### Related:

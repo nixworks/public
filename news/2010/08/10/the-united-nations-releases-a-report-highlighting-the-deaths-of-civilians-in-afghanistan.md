@@ -17,7 +17,7 @@ A sharp rise in insurgent attacks in Afghanistan causes a 31% rise in civilian c
 
 ### Changes:
 
-1. [War in Afghanistan: The United Nations releases a report highlighting the deaths of civilians in Afghanistan. ](/news/2010/08/10/war-in-afghanistan-the-united-nations-releases-a-report-highlighting-the-deaths-of-civilians-in-afghanistan.md) _2017-08-27 03:29:23 (First version)_
+1. [War in Afghanistan: The United Nations releases a report highlighting the deaths of civilians in Afghanistan. ](/news/2010/08/10/war-in-afghanistan-the-united-nations-releases-a-report-highlighting-the-deaths-of-civilians-in-afghanistan.md) _2018-02-06 13:49:20 (First version)_
 1. [The United Nations releases a report highlighting the deaths of civilians in Afghanistan. ](/news/2010/08/10/the-united-nations-releases-a-report-highlighting-the-deaths-of-civilians-in-afghanistan.md) _(Current version)_
 
 ### Related:

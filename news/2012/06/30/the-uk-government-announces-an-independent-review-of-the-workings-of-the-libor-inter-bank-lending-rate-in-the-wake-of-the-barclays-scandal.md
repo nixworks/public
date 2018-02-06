@@ -17,7 +17,7 @@ The government announces an independent review of the workings of the Libor inte
 
 ### Changes:
 
-1. [Libor Inter-bank interest rate: The UK government announces an independent review of the workings of the Libor inter-bank lending rate in the wake of the Barclays scandal. ](/news/2012/06/30/libor-inter-bank-interest-rate-the-uk-government-announces-an-independent-review-of-the-workings-of-the-libor-inter-bank-lending-rate-in-th.md) _2017-08-27 03:36:12 (First version)_
+1. [Libor Inter-bank interest rate: The UK government announces an independent review of the workings of the Libor inter-bank lending rate in the wake of the Barclays scandal. ](/news/2012/06/30/libor-inter-bank-interest-rate-the-uk-government-announces-an-independent-review-of-the-workings-of-the-libor-inter-bank-lending-rate-in-th.md) _2018-02-06 13:49:23 (First version)_
 1. [The UK government announces an independent review of the workings of the Libor inter-bank lending rate in the wake of the Barclays scandal. ](/news/2012/06/30/the-uk-government-announces-an-independent-review-of-the-workings-of-the-libor-inter-bank-lending-rate-in-the-wake-of-the-barclays-scandal.md) _(Current version)_
 
 ### Related:

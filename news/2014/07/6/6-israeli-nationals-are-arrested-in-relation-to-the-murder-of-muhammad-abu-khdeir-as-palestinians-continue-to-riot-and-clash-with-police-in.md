@@ -17,7 +17,7 @@ Hundreds of Palestinians try to block traffic, cause closing of Route 70 and cla
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: 6 Israeli nationals are arrested in relation to the murder of Muhammad Abu Khdeir as Palestinians continue to riot and clash with police in East Jerusalem and Nazareth. ](/news/2014/07/6/israeli-palestinian-conflict-6-israeli-nationals-are-arrested-in-relation-to-the-murder-of-muhammad-abu-khdeir-as-palestinians-continue-t.md) _2017-08-27 03:40:56 (First version)_
+1. [Israeli-Palestinian conflict: 6 Israeli nationals are arrested in relation to the murder of Muhammad Abu Khdeir as Palestinians continue to riot and clash with police in East Jerusalem and Nazareth. ](/news/2014/07/6/israeli-palestinian-conflict-6-israeli-nationals-are-arrested-in-relation-to-the-murder-of-muhammad-abu-khdeir-as-palestinians-continue-t.md) _2018-02-06 13:49:26 (First version)_
 1. [6 Israeli nationals are arrested in relation to the murder of Muhammad Abu Khdeir as Palestinians continue to riot and clash with police in East Jerusalem and Nazareth. ](/news/2014/07/6/6-israeli-nationals-are-arrested-in-relation-to-the-murder-of-muhammad-abu-khdeir-as-palestinians-continue-to-riot-and-clash-with-police-in.md) _(Current version)_
 
 ### Related:

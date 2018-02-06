@@ -16,7 +16,7 @@ At least three African Union soldiers, five fighters and one civilian contractor
 
 ### Changes:
 
-1. [Somali civil war: Al-Shabab militants attack AMISOM's headquarters in Mogadishu, leaving three peacekeeping soldiers and a civilian contractor dead. Five of the attackers are also killed. ](/news/2014/12/25/somali-civil-war-al-shabab-militants-attack-amisom-s-headquarters-in-mogadishu-leaving-three-peacekeeping-soldiers-and-a-civilian-contract.md) _2017-08-27 03:41:41 (First version)_
+1. [Somali civil war: Al-Shabab militants attack AMISOM's headquarters in Mogadishu, leaving three peacekeeping soldiers and a civilian contractor dead. Five of the attackers are also killed. ](/news/2014/12/25/somali-civil-war-al-shabab-militants-attack-amisom-s-headquarters-in-mogadishu-leaving-three-peacekeeping-soldiers-and-a-civilian-contract.md) _2018-02-06 13:49:26 (First version)_
 1. [Al-Shabab militants attack AMISOM's headquarters in Mogadishu, leaving three peacekeeping soldiers and a civilian contractor dead. Five of the attackers are also killed. ](/news/2014/12/25/al-shabab-militants-attack-amisom-s-headquarters-in-mogadishu-leaving-three-peacekeeping-soldiers-and-a-civilian-contractor-dead-five-of-t.md) _(Current version)_
 
 ### Related:

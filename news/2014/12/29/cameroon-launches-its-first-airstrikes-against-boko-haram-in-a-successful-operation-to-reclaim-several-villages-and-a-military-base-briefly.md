@@ -16,7 +16,7 @@ Cameroon has carried out air strikes against militant Islamist group Boko Haram 
 
 ### Changes:
 
-1. [Boko Haram: Cameroon launches its first airstrikes against Boko Haram in a successful operation to reclaim several villages and a military base briefly seized by the militant group in the Far North Region. ](/news/2014/12/29/boko-haram-cameroon-launches-its-first-airstrikes-against-boko-haram-in-a-successful-operation-to-reclaim-several-villages-and-a-military-b.md) _2017-08-27 03:41:42 (First version)_
+1. [Boko Haram: Cameroon launches its first airstrikes against Boko Haram in a successful operation to reclaim several villages and a military base briefly seized by the militant group in the Far North Region. ](/news/2014/12/29/boko-haram-cameroon-launches-its-first-airstrikes-against-boko-haram-in-a-successful-operation-to-reclaim-several-villages-and-a-military-b.md) _2018-02-06 13:49:26 (First version)_
 1. [Cameroon launches its first airstrikes against Boko Haram in a successful operation to reclaim several villages and a military base briefly seized by the militant group in the Far North Region. ](/news/2014/12/29/cameroon-launches-its-first-airstrikes-against-boko-haram-in-a-successful-operation-to-reclaim-several-villages-and-a-military-base-briefly.md) _(Current version)_
 
 ### Related:

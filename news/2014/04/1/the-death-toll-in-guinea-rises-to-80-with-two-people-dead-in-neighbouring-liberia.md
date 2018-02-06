@@ -16,8 +16,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Changes:
 
-1. [2014 Guinea Ebola outbreak:The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/2014-guinea-ebola-outbreak-pthe-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md) _2017-08-25 03:40:14 (First version)_
-2. [2014 Guinea Ebola outbreak:: The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/2014-guinea-ebola-outbreak-the-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md) _2017-08-27 03:40:32 (Update)_
+1. [2014 Guinea Ebola outbreak:: The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/2014-guinea-ebola-outbreak-the-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Guinea Ebola outbreak:The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/2014-guinea-ebola-outbreak-pthe-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/the-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md) _(Current version)_
 
 ### Related:

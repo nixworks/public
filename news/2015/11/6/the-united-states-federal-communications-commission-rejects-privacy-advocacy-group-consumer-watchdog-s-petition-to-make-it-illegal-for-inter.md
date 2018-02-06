@@ -16,7 +16,7 @@ The FCC decided Friday that it can&#x27;t force Internet companies like Google, 
 
 ### Changes:
 
-1. [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inte.md) _2017-08-25 03:43:24 (First version)_
+1. [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inte.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inter.md) _(Current version)_
 
 ### Related:

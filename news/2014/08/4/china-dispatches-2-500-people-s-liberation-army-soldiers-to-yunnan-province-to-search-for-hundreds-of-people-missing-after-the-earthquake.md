@@ -16,7 +16,7 @@ China sends 2,500 soldiers to boost rescue efforts in Yunnan province, after an 
 
 ### Changes:
 
-1. [2014 Ludian earthquake: China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/2014-ludian-earthquake-china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing.md) _2017-08-27 03:41:06 (First version)_
+1. [2014 Ludian earthquake: China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/2014-ludian-earthquake-china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing.md) _2018-02-06 13:49:26 (First version)_
 1. [China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing-after-the-earthquake.md) _(Current version)_
 
 ### Related:

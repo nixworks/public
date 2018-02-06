@@ -17,7 +17,7 @@ A federal judge sentenced a key player in a decade-long scheme to evade federal 
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Former Volkswagen engineer James Liang is sentenced by U.S. District Court Judge Sean Cox to 40 months in prison and a $200,000 fine for his role in the decade-long scheme to cheat on federal emissions tests for diesel-powered cars sold in the United States. He is the first company employee sent to prison in the scandal. ](/news/2017/08/25/volkswagen-emissions-scandal-former-volkswagen-engineer-james-liang-is-sentenced-by-u-s-district-court-judge-sean-cox-to-40-months-in-pris.md) _2017-08-27 17:30:05 (First version)_
+1. [Volkswagen emissions scandal: Former Volkswagen engineer James Liang is sentenced by U.S. District Court Judge Sean Cox to 40 months in prison and a $200,000 fine for his role in the decade-long scheme to cheat on federal emissions tests for diesel-powered cars sold in the United States. He is the first company employee sent to prison in the scandal. ](/news/2017/08/25/volkswagen-emissions-scandal-former-volkswagen-engineer-james-liang-is-sentenced-by-u-s-district-court-judge-sean-cox-to-40-months-in-pris.md) _2018-02-06 13:49:31 (First version)_
 1. [Former Volkswagen engineer James Liang is sentenced by U.S. District Court Judge Sean Cox to 40 months in prison and a $200,000 fine for his role in the decade-long scheme to cheat on federal emissions tests for diesel-powered cars sold in the United States. He is the first company employee sent to prison in the scandal. ](/news/2017/08/25/former-volkswagen-engineer-james-liang-is-sentenced-by-u-s-district-court-judge-sean-cox-to-40-months-in-prison-and-a-200-000-fine-for-his.md) _(Current version)_
 
 ### Related:

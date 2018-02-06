@@ -16,7 +16,7 @@ North Korea threatened a pre-emptive nuclear strike against South Korea and the 
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea threatens a pre-emptive nuclear strike against South Korea and the United States in response to the two nations' annual joint military exercise which Pyongyang considers is a pretext for an invasion. ](/news/2016/03/6/north-korea-and-weapons-of-mass-destruction-north-korea-threatens-a-pre-emptive-nuclear-strike-against-south-korea-and-the-united-states-in.md) _2017-08-27 03:45:09 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea threatens a pre-emptive nuclear strike against South Korea and the United States in response to the two nations' annual joint military exercise which Pyongyang considers is a pretext for an invasion. ](/news/2016/03/6/north-korea-and-weapons-of-mass-destruction-north-korea-threatens-a-pre-emptive-nuclear-strike-against-south-korea-and-the-united-states-in.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea threatens a pre-emptive nuclear strike against South Korea and the United States in response to the two nations' annual joint military exercise which Pyongyang considers is a pretext for an invasion. ](/news/2016/03/6/north-korea-threatens-a-pre-emptive-nuclear-strike-against-south-korea-and-the-united-states-in-response-to-the-two-nations-annual-joint-mi.md) _(Current version)_
 
 ### Related:

@@ -17,10 +17,10 @@ At least 41 people are killed and more than 80 injured in a fire at a hospital i
 
 ### Changes:
 
-1. [A "'fire"' in a hospital in the South Korean city of Miryang kills at least 31 people and injures another 40. ](/news/2018/01/26/a-fire-in-a-hospital-in-the-south-korean-city-of-miryang-kills-at-least-31-people-and-injures-another-40.md) _2018-01-26 07:30:13 (First version)_
-2. [A fire breaks out in a Miryang, South Korean hospital, killing at least 31 people and injuring another 40. ](/news/2018/01/26/a-fire-breaks-out-in-a-miryang-south-korean-hospital-killing-at-least-31-people-and-injuring-another-40.md) _2018-01-26 08:30:10 (Update)_
-3. [A fire breaks out at a South Korean hospital in the city of Miryang, killing at least 41 people and injuring 80 others. ](/news/2018/01/26/a-fire-breaks-out-at-a-south-korean-hospital-in-the-city-of-miryang-killing-at-least-41-people-and-injuring-80-others.md) _2018-01-26 18:30:30 (Update)_
-4. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 125 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-125-others.md) _2018-01-26 22:30:26 (Update)_
+1. [A "'fire"' in a hospital in the South Korean city of Miryang kills at least 31 people and injures another 40. ](/news/2018/01/26/a-fire-in-a-hospital-in-the-south-korean-city-of-miryang-kills-at-least-31-people-and-injures-another-40.md) _2018-02-06 13:49:31 (First version)_
+2. [A fire breaks out in a Miryang, South Korean hospital, killing at least 31 people and injuring another 40. ](/news/2018/01/26/a-fire-breaks-out-in-a-miryang-south-korean-hospital-killing-at-least-31-people-and-injuring-another-40.md) _2018-02-06 13:49:31 (Update)_
+3. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 125 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-125-others.md) _2018-02-06 13:49:31 (Update)_
+4. [A fire breaks out at a South Korean hospital in the city of Miryang, killing at least 41 people and injuring 80 others. ](/news/2018/01/26/a-fire-breaks-out-at-a-south-korean-hospital-in-the-city-of-miryang-killing-at-least-41-people-and-injuring-80-others.md) _2018-02-06 13:49:31 (Update)_
 4. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _(Current version)_
 
 ### Related:

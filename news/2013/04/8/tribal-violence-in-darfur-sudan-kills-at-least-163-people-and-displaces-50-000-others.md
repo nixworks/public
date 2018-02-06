@@ -17,8 +17,8 @@ Sudanese President Omar Hassan al-Bashir said on Friday he wanted peace and norm
 
 ### Changes:
 
-1. [Sudanese nomadic conflicts:Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-ptribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _2017-08-25 03:38:13 (First version)_
-2. [Sudanese nomadic conflicts:: Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-tribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _2017-08-27 03:38:25 (Update)_
+1. [Sudanese nomadic conflicts:: Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-tribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _2018-02-06 13:49:24 (First version)_
+2. [Sudanese nomadic conflicts:Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-ptribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _2018-02-06 13:49:24 (Update)_
 2. [Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/tribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/09/28/a-student-protester-hurls-the-book-formosa-betr
 
 ### Changes:
 
-1. [A student protester hurls the book ''Formosa Betrayed'' at President Ma Ying-jeou of Taiwan and hits the president; the Presidential Office condemns the act of violence. ](/news/2014/09/28/a-student-protester-hurls-the-book-formosa-betrayed-at-president-ma-ying-jeou-of-taiwan-and-hits-the-president-the-presidential-office.md) _2017-08-25 03:41:02 (First version)_
+1. [A student protester hurls the book ''Formosa Betrayed'' at President Ma Ying-jeou of Taiwan and hits the president; the Presidential Office condemns the act of violence. ](/news/2014/09/28/a-student-protester-hurls-the-book-formosa-betrayed-at-president-ma-ying-jeou-of-taiwan-and-hits-the-president-the-presidential-office.md) _2018-02-06 13:49:26 (First version)_
 1. [A student protester hurls the book "Formosa Betrayed" at President Ma Ying-jeou of Taiwan and hits the president; the Presidential Office condemns the act of violence. ](/news/2014/09/28/a-student-protester-hurls-the-book-formosa-betrayed-at-president-ma-ying-jeou-of-taiwan-and-hits-the-president-the-presidential-office-co.md) _(Current version)_
 
 ### Related:

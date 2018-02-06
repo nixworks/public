@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/1/israel-s-military-hits-34-targets-across-the-ham
 
 ### Changes:
 
-1. [Gaza-Israel conflict: Israel's military hits 34 targets across the Hamas-controlled Gaza Strip in response to the more than 20 rockets that were fired into Israel from Gaza since Sunday. One Palestinian man is killed after throwing a grenade at security forces in the raids. ](/news/2014/07/1/gaza-israel-conflict-israel-s-military-hits-34-targets-across-the-hamas-controlled-gaza-strip-in-response-to-the-more-than-20-rockets-that.md) _2017-08-27 03:40:55 (First version)_
+1. [Gaza-Israel conflict: Israel's military hits 34 targets across the Hamas-controlled Gaza Strip in response to the more than 20 rockets that were fired into Israel from Gaza since Sunday. One Palestinian man is killed after throwing a grenade at security forces in the raids. ](/news/2014/07/1/gaza-israel-conflict-israel-s-military-hits-34-targets-across-the-hamas-controlled-gaza-strip-in-response-to-the-more-than-20-rockets-that.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel's military hits 34 targets across the Hamas-controlled Gaza Strip in response to the more than 20 rockets that were fired into Israel from Gaza since Sunday. One Palestinian man is killed after throwing a grenade at security forces in the raids. ](/news/2014/07/1/israel-s-military-hits-34-targets-across-the-hamas-controlled-gaza-strip-in-response-to-the-more-than-20-rockets-that-were-fired-into-israel.md) _(Current version)_
 
 ### Related:

@@ -11,9 +11,9 @@ Formats: [HTML](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-
 
 ### Changes:
 
-1. [An Imam in Australia that married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-that-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md) _2017-06-22 06:30:07 (First version)_
-2. [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md) _2017-08-25 03:48:05 (Update)_
-3. [Child marriage in Australia: An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. [http:--www.mirror.co.uk-news-world-news-imam-marries-14-year-old-10661681 ("Daily Mirror") ]](/news/2017/06/21/child-marriage-in-australia-an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction-ht.md) _2017-08-27 03:48:32 (Update)_
+1. [Child marriage in Australia: An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. [http:--www.mirror.co.uk-news-world-news-imam-marries-14-year-old-10661681 ("Daily Mirror") ]](/news/2017/06/21/child-marriage-in-australia-an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction-ht.md) _2018-02-06 13:49:30 (First version)_
+2. [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md) _2018-02-06 13:49:30 (Update)_
+3. [An Imam in Australia that married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-that-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md) _2018-02-06 13:49:30 (Update)_
 3. [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. [http:--www.mirror.co.uk-news-world-news-imam-marries-14-year-old-10661681 ("Daily Mirror") ]](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction-http-www-mirror-co-uk-news-wo.md) _(Current version)_
 
 ### Related:

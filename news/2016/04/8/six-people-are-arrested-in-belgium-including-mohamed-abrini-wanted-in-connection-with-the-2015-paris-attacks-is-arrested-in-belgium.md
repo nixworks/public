@@ -17,8 +17,8 @@ Belgian prosecutors say a suspect has admitted being the &quot;man in the hat&qu
 
 ### Changes:
 
-1. [Aftermath of the Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/aftermath-of-the-six-people-are-arrested-in-belgium-including-pmohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested.md) _2017-08-25 03:45:11 (First version)_
-2. [Aftermath of the November 2015 Paris attacks: Six people are arrested in Belgium including:: Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/aftermath-of-the-november-2015-paris-attacks-six-people-are-arrested-in-belgium-including-mohamed-abrini-wanted-in-connection-with-the-2.md) _2017-08-27 03:45:31 (Update)_
+1. [Aftermath of the Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/aftermath-of-the-six-people-are-arrested-in-belgium-including-pmohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested.md) _2018-02-06 13:49:29 (First version)_
+2. [Aftermath of the November 2015 Paris attacks: Six people are arrested in Belgium including:: Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/aftermath-of-the-november-2015-paris-attacks-six-people-are-arrested-in-belgium-including-mohamed-abrini-wanted-in-connection-with-the-2.md) _2018-02-06 13:49:29 (Update)_
 2. [Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/six-people-are-arrested-in-belgium-including-mohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested-in-belgium.md) _(Current version)_
 
 ### Related:

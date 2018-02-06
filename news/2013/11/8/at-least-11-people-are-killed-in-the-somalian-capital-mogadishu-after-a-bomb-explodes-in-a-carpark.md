@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/8/at-least-11-people-are-killed-in-the-somalian-ca
 
 ### Changes:
 
-1. [War in Somalia (2009-present):At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/war-in-somalia-2009apresent-pat-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md) _2017-08-25 03:39:30 (First version)_
-2. [War in Somalia (2009-present):: At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/war-in-somalia-2009-present-at-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md) _2017-08-27 03:39:48 (Update)_
+1. [War in Somalia (2009-present):At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/war-in-somalia-2009apresent-pat-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/war-in-somalia-2009-present-at-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/at-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md) _(Current version)_
 
 ### Related:

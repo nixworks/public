@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/02/19/demonstrators-chase-away-riot-police-in-manama.
 
 ### Changes:
 
-1. [2011 Bahraini protests:Demonstrators chase away riot police in Manama. ](/news/2011/02/19/2011-bahraini-protests-pdemonstrators-chase-away-riot-police-in-manama.md) _2017-08-25 03:32:17 (First version)_
-2. [2011 Bahraini protests:: Demonstrators chase away riot police in Manama. ](/news/2011/02/19/2011-bahraini-protests-demonstrators-chase-away-riot-police-in-manama.md) _2017-08-27 03:32:24 (Update)_
+1. [2011 Bahraini protests:Demonstrators chase away riot police in Manama. ](/news/2011/02/19/2011-bahraini-protests-pdemonstrators-chase-away-riot-police-in-manama.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Bahraini protests:: Demonstrators chase away riot police in Manama. ](/news/2011/02/19/2011-bahraini-protests-demonstrators-chase-away-riot-police-in-manama.md) _2018-02-06 13:49:22 (Update)_
 2. [Demonstrators chase away riot police in Manama. ](/news/2011/02/19/demonstrators-chase-away-riot-police-in-manama.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A surveillance center dedicated to monitoring possible military provocations fro
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea establishes a surveillance center on its northernmost island of Baengnyeongdo to better deter North Korean threats. ](/news/2015/08/16/north-korea-south-korea-relations-south-korea-establishes-a-surveillance-center-on-its-northernmost-island-of-baengnyeongdo-to-better-det.md) _2017-08-27 03:42:50 (First version)_
+1. [North Korea-South Korea relations: South Korea establishes a surveillance center on its northernmost island of Baengnyeongdo to better deter North Korean threats. ](/news/2015/08/16/north-korea-south-korea-relations-south-korea-establishes-a-surveillance-center-on-its-northernmost-island-of-baengnyeongdo-to-better-det.md) _2018-02-06 13:49:27 (First version)_
 1. [South Korea establishes a surveillance center on its northernmost island of Baengnyeongdo to better deter North Korean threats. ](/news/2015/08/16/south-korea-establishes-a-surveillance-center-on-its-northernmost-island-of-baengnyeongdo-to-better-deter-north-korean-threats.md) _(Current version)_
 
 ### Related:

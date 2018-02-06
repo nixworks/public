@@ -16,7 +16,7 @@ Carme Forcadell and others are accused of rebellion over the Catalan bid for ind
 
 ### Changes:
 
-1. [The Supreme Court sends to preventive prision the Speaker of the Parliament of Catalonia, Carme Forcadell.She leaves the prison the next day, after the payment of a bail. Four of the members of the Bureau of the Parliaments are condemned to pay a fine, while one of them not receives any precautionary measure. ](/news/2017/11/9/the-supreme-court-sends-to-preventive-prision-the-speaker-of-the-parliament-of-catalonia-carme-forcadell-she-leaves-the-prison-the-next-day.md) _2017-11-16 23:30:04 (First version)_
+1. [The Supreme Court sends to preventive prision the Speaker of the Parliament of Catalonia, Carme Forcadell.She leaves the prison the next day, after the payment of a bail. Four of the members of the Bureau of the Parliaments are condemned to pay a fine, while one of them not receives any precautionary measure. ](/news/2017/11/9/the-supreme-court-sends-to-preventive-prision-the-speaker-of-the-parliament-of-catalonia-carme-forcadell-she-leaves-the-prison-the-next-day.md) _2018-02-06 13:49:31 (First version)_
 1. [The Supreme Court sends to preventive prison the Speaker of the Parliament of Catalonia, Carme Forcadell. She leaves the prison the next day, after the payment of a bail. Four of the members of the Bureau of the Parliaments are condemned to pay a fine, while one of them not receives any precautionary measure. ](/news/2017/11/9/the-supreme-court-sends-to-preventive-prison-the-speaker-of-the-parliament-of-catalonia-carme-forcadell-she-leaves-the-prison-the-next-day.md) _(Current version)_
 
 ### Related:

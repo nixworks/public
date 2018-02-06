@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/09/26/five-school-teachers-were-killed-in-an-insurgen
 
 ### Changes:
 
-1. [ Conflict in Iraq: Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/conflict-in-iraq-p-five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md) _2017-08-25 03:16:51 (First version)_
-2. [ Conflict in Iraq:: Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/conflict-in-iraq-five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md) _2017-08-27 03:16:52 (Update)_
+1. [ Conflict in Iraq: Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/conflict-in-iraq-p-five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/conflict-in-iraq-five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md) _2018-02-06 13:49:16 (Update)_
 2. [ Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md) _(Current version)_
 
 ### Related:

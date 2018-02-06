@@ -16,7 +16,7 @@ Malian Islamist militant group Ansar Dine said it carried out a suicide and rock
 
 ### Changes:
 
-1. [Northern Mali conflict: Ansar Dine, a militant Islamist group linked to Al-Qaeda in the Islamic Maghreb claims responsibility for yesterday's attack on a United Nations base in Kidal, northern Mali, that killed six UN peacekeepers, all from neighboring Guinea. ](/news/2016/02/13/northern-mali-conflict-ansar-dine-a-militant-islamist-group-linked-to-al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-yesterday.md) _2017-08-27 03:44:54 (First version)_
+1. [Northern Mali conflict: Ansar Dine, a militant Islamist group linked to Al-Qaeda in the Islamic Maghreb claims responsibility for yesterday's attack on a United Nations base in Kidal, northern Mali, that killed six UN peacekeepers, all from neighboring Guinea. ](/news/2016/02/13/northern-mali-conflict-ansar-dine-a-militant-islamist-group-linked-to-al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-yesterday.md) _2018-02-06 13:49:28 (First version)_
 1. [Ansar Dine, a militant Islamist group linked to Al-Qaeda in the Islamic Maghreb claims responsibility for yesterday's attack on a United Nations base in Kidal, northern Mali, that killed six UN peacekeepers, all from neighboring Guinea. ](/news/2016/02/13/ansar-dine-a-militant-islamist-group-linked-to-al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-yesterday-s-attack-on-a-united-nat.md) _(Current version)_
 
 ### Related:

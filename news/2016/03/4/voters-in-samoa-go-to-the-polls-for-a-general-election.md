@@ -16,7 +16,7 @@ Polling is underway in Samoa&#39;s general election.
 
 ### Changes:
 
-1. [Samoan general election, 2016: Voters in Samoa go to the polls for a general election. ](/news/2016/03/4/samoan-general-election-2016-voters-in-samoa-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:45:08 (First version)_
+1. [Samoan general election, 2016: Voters in Samoa go to the polls for a general election. ](/news/2016/03/4/samoan-general-election-2016-voters-in-samoa-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Samoa go to the polls for a general election. ](/news/2016/03/4/voters-in-samoa-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ The operation was launched just hours ahead of a planned visit to Turkey by Vice
 
 ### Changes:
 
-1. [Syrian civil war: The Turkish Armed Forces and US-backed Syrian rebels launch an initially successful campaign to capture the town of Jarabulus from ISIL. The Turkish Land Forces are also shelling YPG positions to prevent them from capturing areas that ISIL will retreat from. ](/news/2016/08/24/syrian-civil-war-the-turkish-armed-forces-and-us-backed-syrian-rebels-launch-an-initially-successful-campaign-to-capture-the-town-of-jarabu.md) _2017-08-27 03:46:42 (First version)_
+1. [Syrian civil war: The Turkish Armed Forces and US-backed Syrian rebels launch an initially successful campaign to capture the town of Jarabulus from ISIL. The Turkish Land Forces are also shelling YPG positions to prevent them from capturing areas that ISIL will retreat from. ](/news/2016/08/24/syrian-civil-war-the-turkish-armed-forces-and-us-backed-syrian-rebels-launch-an-initially-successful-campaign-to-capture-the-town-of-jarabu.md) _2018-02-06 13:49:29 (First version)_
 1. [The Turkish Armed Forces and US-backed Syrian rebels launch an initially successful campaign to capture the town of Jarabulus from ISIL. The Turkish Land Forces are also shelling YPG positions to prevent them from capturing areas that ISIL will retreat from. ](/news/2016/08/24/the-turkish-armed-forces-and-us-backed-syrian-rebels-launch-an-initially-successful-campaign-to-capture-the-town-of-jarabulus-from-isil-the.md) _(Current version)_
 
 ### Related:

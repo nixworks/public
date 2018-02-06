@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/06/27/facebook-inc-announces-that-its-social-media-se
 
 ### Changes:
 
-1. [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md) _2017-08-25 03:48:06 (First version)_
-2. [Social networking service: Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/social-networking-service-facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-th.md) _2017-08-27 03:48:33 (Update)_
+1. [Social networking service: Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/social-networking-service-facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-th.md) _2018-02-06 13:49:30 (First version)_
+2. [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md) _2018-02-06 13:49:30 (Update)_
 2. [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twitt.md) _(Current version)_
 
 ### Related:

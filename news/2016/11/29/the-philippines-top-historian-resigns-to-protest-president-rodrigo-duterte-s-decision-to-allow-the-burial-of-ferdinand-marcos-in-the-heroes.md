@@ -15,7 +15,7 @@ MANILA, Philippines (AP) — The Philippine government&#039;s top historian resi
 
 ### Changes:
 
-1. [Burial of Ferdinand Marcos: The Philippines top historian resigns to protest President Rodrigo Duterte's decision to allow the burial of Ferdinand Marcos in the Heroes' Cemetery at Fort Bonifacio in Manila. ](/news/2016/11/29/burial-of-ferdinand-marcos-the-philippines-top-historian-resigns-to-protest-president-rodrigo-duterte-s-decision-to-allow-the-burial-of-fer.md) _2017-08-27 03:47:20 (First version)_
+1. [Burial of Ferdinand Marcos: The Philippines top historian resigns to protest President Rodrigo Duterte's decision to allow the burial of Ferdinand Marcos in the Heroes' Cemetery at Fort Bonifacio in Manila. ](/news/2016/11/29/burial-of-ferdinand-marcos-the-philippines-top-historian-resigns-to-protest-president-rodrigo-duterte-s-decision-to-allow-the-burial-of-fer.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippines top historian resigns to protest President Rodrigo Duterte's decision to allow the burial of Ferdinand Marcos in the Heroes' Cemetery at Fort Bonifacio in Manila. ](/news/2016/11/29/the-philippines-top-historian-resigns-to-protest-president-rodrigo-duterte-s-decision-to-allow-the-burial-of-ferdinand-marcos-in-the-heroes.md) _(Current version)_
 
 ### Related:

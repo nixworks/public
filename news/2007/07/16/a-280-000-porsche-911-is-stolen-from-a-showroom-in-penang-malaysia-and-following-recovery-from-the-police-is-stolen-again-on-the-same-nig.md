@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/07/16/a-280-000-porsche-911-is-stolen-from-a-showroom
 
 ### Changes:
 
-1. [ A $280,000 Porsche 911 is stolen from a showroom in Penang, Malaysia and following recovery from the police is stolen again on the same night.](/news/2007/07/16/a-280-000-porsche-911-is-stolen-from-a-showroom-in-penang-malaysia-and-following-recovery-from-the-police-is-stolen-again-on-the-same-ni.md) _2017-08-25 03:20:12 (First version)_
+1. [ A $280,000 Porsche 911 is stolen from a showroom in Penang, Malaysia and following recovery from the police is stolen again on the same night.](/news/2007/07/16/a-280-000-porsche-911-is-stolen-from-a-showroom-in-penang-malaysia-and-following-recovery-from-the-police-is-stolen-again-on-the-same-ni.md) _2018-02-06 13:49:17 (First version)_
 1. [ A $280,000 Porsche 911 is stolen from a showroom in Penang, Malaysia and following recovery from the police is stolen again on the same night.](/news/2007/07/16/a-280-000-porsche-911-is-stolen-from-a-showroom-in-penang-malaysia-and-following-recovery-from-the-police-is-stolen-again-on-the-same-nig.md) _(Current version)_
 
 ### Related:

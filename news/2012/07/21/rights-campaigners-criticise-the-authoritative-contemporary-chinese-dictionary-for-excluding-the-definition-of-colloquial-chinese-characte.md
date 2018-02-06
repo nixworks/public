@@ -16,7 +16,7 @@ A newly published edition of a Chinese dictionary is criticised by rights campai
 
 ### Changes:
 
-1. [Rights campaigners criticise the authoritative ''Contemporary Chinese Dictionary'' for excluding the definition of colloquial Chinese characters for "gay." ](/news/2012/07/21/rights-campaigners-criticise-the-authoritative-contemporary-chinese-dictionary-for-excluding-the-definition-of-colloquial-chinese-charac.md) _2017-08-25 03:36:09 (First version)_
+1. [Rights campaigners criticise the authoritative ''Contemporary Chinese Dictionary'' for excluding the definition of colloquial Chinese characters for "gay." ](/news/2012/07/21/rights-campaigners-criticise-the-authoritative-contemporary-chinese-dictionary-for-excluding-the-definition-of-colloquial-chinese-charac.md) _2018-02-06 13:49:23 (First version)_
 1. [Rights campaigners criticise the authoritative "Contemporary Chinese Dictionary" for excluding the definition of colloquial Chinese characters for "gay." ](/news/2012/07/21/rights-campaigners-criticise-the-authoritative-contemporary-chinese-dictionary-for-excluding-the-definition-of-colloquial-chinese-characte.md) _(Current version)_
 
 ### Related:

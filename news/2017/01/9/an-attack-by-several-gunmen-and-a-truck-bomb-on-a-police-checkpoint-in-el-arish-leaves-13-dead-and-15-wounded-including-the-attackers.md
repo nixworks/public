@@ -15,7 +15,7 @@ No immediate claim of responsibility for incident in El-Arish that has left at l
 
 ### Changes:
 
-1. [Sinai insurgency: An attack by several gunmen and a truck bomb on a police checkpoint in El-Arish leaves 13 dead and 15 wounded, including the attackers. ](/news/2017/01/9/sinai-insurgency-an-attack-by-several-gunmen-and-a-truck-bomb-on-a-police-checkpoint-in-el-arish-leaves-13-dead-and-15-wounded-including-t.md) _2017-08-27 03:47:35 (First version)_
+1. [Sinai insurgency: An attack by several gunmen and a truck bomb on a police checkpoint in El-Arish leaves 13 dead and 15 wounded, including the attackers. ](/news/2017/01/9/sinai-insurgency-an-attack-by-several-gunmen-and-a-truck-bomb-on-a-police-checkpoint-in-el-arish-leaves-13-dead-and-15-wounded-including-t.md) _2018-02-06 13:49:30 (First version)_
 1. [An attack by several gunmen and a truck bomb on a police checkpoint in El-Arish leaves 13 dead and 15 wounded, including the attackers. ](/news/2017/01/9/an-attack-by-several-gunmen-and-a-truck-bomb-on-a-police-checkpoint-in-el-arish-leaves-13-dead-and-15-wounded-including-the-attackers.md) _(Current version)_
 
 ### Related:

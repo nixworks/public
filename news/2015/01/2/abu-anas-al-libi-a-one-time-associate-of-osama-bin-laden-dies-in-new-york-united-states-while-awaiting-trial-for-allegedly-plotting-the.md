@@ -16,7 +16,7 @@ Terror suspect Abu Anas al-Libi has died in New York while awaiting trial for al
 
 ### Changes:
 
-1. [1998 United States embassy bombings: Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/1998-united-states-embassy-bombings-abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-await.md) _2017-08-27 03:41:42 (First version)_
+1. [1998 United States embassy bombings: Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/1998-united-states-embassy-bombings-abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-await.md) _2018-02-06 13:49:26 (First version)_
 1. [Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-awaiting-trial-for-allegedly-plotting-the.md) _(Current version)_
 
 ### Related:

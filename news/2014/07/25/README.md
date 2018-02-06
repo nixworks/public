@@ -5,7 +5,7 @@ Formats: [HTML](2014/07/25/index.html)  [JSON](2014/07/25/index.json)  [XML](201
 
 ##### Indian Air Force
 ### [Indian Air Force landing chopper-307 crashed in the Sitapur area of Uttar Pradesh, taking the lives of 7 people. ](/news/2014/07/25/indian-air-force-landing-chopper-307-crashed-in-the-sitapur-area-of-uttar-pradesh-taking-the-lives-of-7-people.md)
-_Context: Uttar Pradesh, Sitapur, Indian Air Force_
+_Context: Indian Air Force, Sitapur, Uttar Pradesh_
 
 ##### United States Secretary of State
 ### [A cease fire deal proposed by U.S. Secretary of State John Kerry is rejected by Israel and not commented on by Hamas. Israel agrees to a uni-lateral 12 hour humanitarian ceasefire as negotiations continue. ](/news/2014/07/25/a-cease-fire-deal-proposed-by-u-s-secretary-of-state-john-kerry-is-rejected-by-israel-and-not-commented-on-by-hamas-israel-agrees-to-a-uni.md)
@@ -29,7 +29,7 @@ _Context: Liberia, Lagos, Nigeria_
 
 ##### McDonald's restaurants
 ### [McDonald's restaurants stop selling Chicken McNuggets and some other chicken products in Hong Kong, China and Japan from Shanghai Husi Foods that allegedly sold out-of-date items to fast food restaurants. ](/news/2014/07/25/mcdonald-s-restaurants-stop-selling-chicken-mcnuggets-and-some-other-chicken-products-in-hong-kong-china-and-japan-from-shanghai-husi-foods.md)
-_Context: China, Hong Kong, Chicken McNuggets, fast food, McDonald's restaurants, Japan_
+_Context: fast food, China, McDonald's restaurants, Hong Kong, Japan, Chicken McNuggets_
 
 ##### Vietnam
 ### [Vietnamese authorities confirm that a shipment of Vietnamese-owned air-to-air missile parts bound for Ukraine was detained by Finland on June 24 after raising concerns the consignment of military hardware violated arms-export regulations. ](/news/2014/07/25/vietnamese-authorities-confirm-that-a-shipment-of-vietnamese-owned-air-to-air-missile-parts-bound-for-ukraine-was-detained-by-finland-on-jun.md)

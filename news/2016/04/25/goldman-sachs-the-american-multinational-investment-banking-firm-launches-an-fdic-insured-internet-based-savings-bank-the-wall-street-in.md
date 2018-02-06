@@ -17,7 +17,7 @@ Goldman Sachs has traditionally functioned like a run-of-the-mill investment ban
 
 ### Changes:
 
-1. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank. The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-i.md) _2017-08-25 03:45:27 (First version)_
+1. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank. The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank. The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-in.md) _(Current version)_
 
 ### Related:

@@ -23,7 +23,7 @@ US conservative Rick Santorum wins races for the Republican presidential nominat
 
 ### Changes:
 
-1. [U.S. Republican Party presidential primaries: Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/u-s-republican-party-presidential-primaries-republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santo.md) _2017-08-27 03:35:09 (First version)_
+1. [U.S. Republican Party presidential primaries: Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/u-s-republican-party-presidential-primaries-republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santo.md) _2018-02-06 13:49:23 (First version)_
 1. [Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santorum-wins-with-mitt-romney-placing-second.md) _(Current version)_
 
 ### Related:

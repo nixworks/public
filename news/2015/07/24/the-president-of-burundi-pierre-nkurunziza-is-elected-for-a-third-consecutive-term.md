@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/24/the-president-of-burundi-pierre-nkurunziza-is-e
 
 ### Changes:
 
-1. [Burundian presidential election, 2015: The President of Burundi, Pierre Nkurunziza, is elected for a third consecutive term. ](/news/2015/07/24/burundian-presidential-election-2015-the-president-of-burundi-pierre-nkurunziza-is-elected-for-a-third-consecutive-term.md) _2017-08-27 03:42:44 (First version)_
+1. [Burundian presidential election, 2015: The President of Burundi, Pierre Nkurunziza, is elected for a third consecutive term. ](/news/2015/07/24/burundian-presidential-election-2015-the-president-of-burundi-pierre-nkurunziza-is-elected-for-a-third-consecutive-term.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of Burundi, Pierre Nkurunziza, is elected for a third consecutive term. ](/news/2015/07/24/the-president-of-burundi-pierre-nkurunziza-is-elected-for-a-third-consecutive-term.md) _(Current version)_
 
 ### Related:

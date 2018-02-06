@@ -16,8 +16,8 @@ Ex-Ch Supt David Duckenfield faces 95 charges of manslaughter while five others 
 
 ### Changes:
 
-1. [Aftermath of the Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/aftermath-of-the-six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster.md) _2017-08-25 03:48:06 (First version)_
-2. [Aftermath of the Hillsborough disaster: Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/aftermath-of-the-hillsborough-disaster-six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-th.md) _2017-08-27 03:48:34 (Update)_
+1. [Aftermath of the Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/aftermath-of-the-six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster.md) _2018-02-06 13:49:30 (First version)_
+2. [Aftermath of the Hillsborough disaster: Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/aftermath-of-the-hillsborough-disaster-six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-th.md) _2018-02-06 13:49:30 (Update)_
 2. [Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster-in-1989.md) _(Current version)_
 
 ### Related:

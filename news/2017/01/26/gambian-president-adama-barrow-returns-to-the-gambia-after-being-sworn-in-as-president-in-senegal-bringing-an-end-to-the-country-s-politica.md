@@ -16,7 +16,7 @@ Return ends anxious wait after crisis sparked by predecessor Yahya Jammeh’s re
 
 ### Changes:
 
-1. [2016-2017 Gambian constitutional crisis: Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/2016-2017-gambian-constitutional-crisis-gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal.md) _2017-08-27 03:47:41 (First version)_
+1. [2016-2017 Gambian constitutional crisis: Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/2016-2017-gambian-constitutional-crisis-gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal.md) _2018-02-06 13:49:30 (First version)_
 1. [Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal-bringing-an-end-to-the-country-s-politica.md) _(Current version)_
 
 ### Related:

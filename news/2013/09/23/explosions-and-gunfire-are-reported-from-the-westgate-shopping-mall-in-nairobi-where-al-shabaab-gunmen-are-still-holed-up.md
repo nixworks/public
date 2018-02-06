@@ -17,8 +17,8 @@ Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capita
 
 ### Changes:
 
-1. [Westgate shopping mall shooting:Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/westgate-shopping-mall-shooting-pexplosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are.md) _2017-08-25 03:39:19 (First version)_
-2. [Westgate shopping mall shooting:: Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/westgate-shopping-mall-shooting-explosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are.md) _2017-08-27 03:39:35 (Update)_
+1. [Westgate shopping mall shooting:Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/westgate-shopping-mall-shooting-pexplosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are.md) _2018-02-06 13:49:25 (First version)_
+2. [Westgate shopping mall shooting:: Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/westgate-shopping-mall-shooting-explosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are.md) _2018-02-06 13:49:25 (Update)_
 2. [Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/explosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are-still-holed-up.md) _(Current version)_
 
 ### Related:

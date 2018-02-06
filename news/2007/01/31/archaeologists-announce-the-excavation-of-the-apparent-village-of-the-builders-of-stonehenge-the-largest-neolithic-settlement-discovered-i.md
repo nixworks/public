@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/01/31/archaeologists-announce-the-excavation-of-the-a
 
 ### Changes:
 
-1. [ Archaeologists announce the excavation of the apparent village of the builders of Stonehenge, the largest Neolithic settlement discovered in Britain. ](/news/2007/01/31/archaeologists-announce-the-excavation-of-the-apparent-village-of-the-builders-of-stonehenge-the-largest-neolithic-settlement-discovered.md) _2017-08-25 03:19:05 (First version)_
+1. [ Archaeologists announce the excavation of the apparent village of the builders of Stonehenge, the largest Neolithic settlement discovered in Britain. ](/news/2007/01/31/archaeologists-announce-the-excavation-of-the-apparent-village-of-the-builders-of-stonehenge-the-largest-neolithic-settlement-discovered.md) _2018-02-06 13:49:17 (First version)_
 1. [ Archaeologists announce the excavation of the apparent village of the builders of Stonehenge, the largest Neolithic settlement discovered in Britain. [http:--news.bbc.co.uk-1-hi-sci-tech-6311939.stm (BBC)] (Wikinews) ](/news/2007/01/31/archaeologists-announce-the-excavation-of-the-apparent-village-of-the-builders-of-stonehenge-the-largest-neolithic-settlement-discovered-i.md) _(Current version)_
 
 ### Related:

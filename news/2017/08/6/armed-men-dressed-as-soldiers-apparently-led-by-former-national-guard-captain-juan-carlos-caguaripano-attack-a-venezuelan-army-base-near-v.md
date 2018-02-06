@@ -17,7 +17,7 @@ Army chief says ‘peace has triumphed’, though TV footage is inconclusive, af
 
 ### Changes:
 
-1. [2017 Venezuelan constitutional crisis: Armed men dressed as soldiers, apparently led by former National Guard captain Juan Carlos Caguaripano, attack a Venezuelan Army base near Valencia, Carabobo, declaring themselves in rebellion against the National Constituent Assembly and President Nicolas Maduro. At least two people are killed. ](/news/2017/08/6/2017-venezuelan-constitutional-crisis-armed-men-dressed-as-soldiers-apparently-led-by-former-national-guard-captain-juan-carlos-caguaripan.md) _2017-08-27 03:48:47 (First version)_
+1. [2017 Venezuelan constitutional crisis: Armed men dressed as soldiers, apparently led by former National Guard captain Juan Carlos Caguaripano, attack a Venezuelan Army base near Valencia, Carabobo, declaring themselves in rebellion against the National Constituent Assembly and President Nicolas Maduro. At least two people are killed. ](/news/2017/08/6/2017-venezuelan-constitutional-crisis-armed-men-dressed-as-soldiers-apparently-led-by-former-national-guard-captain-juan-carlos-caguaripan.md) _2018-02-06 13:49:31 (First version)_
 1. [Armed men dressed as soldiers, apparently led by former National Guard captain Juan Carlos Caguaripano, attack a Venezuelan Army base near Valencia, Carabobo, declaring themselves in rebellion against the National Constituent Assembly and President Nicolas Maduro. At least two people are killed. ](/news/2017/08/6/armed-men-dressed-as-soldiers-apparently-led-by-former-national-guard-captain-juan-carlos-caguaripano-attack-a-venezuelan-army-base-near-v.md) _(Current version)_
 
 ### Related:

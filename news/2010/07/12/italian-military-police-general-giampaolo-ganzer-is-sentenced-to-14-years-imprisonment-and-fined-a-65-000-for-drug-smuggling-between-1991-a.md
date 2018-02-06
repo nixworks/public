@@ -16,7 +16,7 @@ Italian military police general Giampaolo Ganzer is sentenced to 14 years in pri
 
 ### Changes:
 
-1. [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined -65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-65-000-for-drug-smuggling-between-1991-a.md) _2017-08-27 03:28:42 (First version)_
+1. [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined -65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-65-000-for-drug-smuggling-between-1991-a.md) _2018-02-06 13:49:20 (First version)_
 1. [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined EUR65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-a-65-000-for-drug-smuggling-between-1991-a.md) _(Current version)_
 
 ### Related:

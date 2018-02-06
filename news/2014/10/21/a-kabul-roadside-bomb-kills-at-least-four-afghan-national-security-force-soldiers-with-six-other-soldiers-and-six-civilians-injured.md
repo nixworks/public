@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/21/a-kabul-roadside-bomb-kills-at-least-four-afgha
 
 ### Changes:
 
-1. [Taliban insurgency: A Kabul roadside bomb kills at least four Afghan National Security Force soldiers with six other soldiers and six civilians injured. ](/news/2014/10/21/taliban-insurgency-a-kabul-roadside-bomb-kills-at-least-four-afghan-national-security-force-soldiers-with-six-other-soldiers-and-six-civili.md) _2017-08-27 03:41:25 (First version)_
+1. [Taliban insurgency: A Kabul roadside bomb kills at least four Afghan National Security Force soldiers with six other soldiers and six civilians injured. ](/news/2014/10/21/taliban-insurgency-a-kabul-roadside-bomb-kills-at-least-four-afghan-national-security-force-soldiers-with-six-other-soldiers-and-six-civili.md) _2018-02-06 13:49:26 (First version)_
 1. [A Kabul roadside bomb kills at least four Afghan National Security Force soldiers with six other soldiers and six civilians injured. ](/news/2014/10/21/a-kabul-roadside-bomb-kills-at-least-four-afghan-national-security-force-soldiers-with-six-other-soldiers-and-six-civilians-injured.md) _(Current version)_
 
 ### Related:

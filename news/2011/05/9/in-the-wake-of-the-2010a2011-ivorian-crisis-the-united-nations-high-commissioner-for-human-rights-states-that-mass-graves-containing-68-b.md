@@ -17,7 +17,7 @@ Forensic experts have unearthed about 68 bodies from another cluster of mass gra
 
 ### Changes:
 
-1. [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010-2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md) _2017-08-27 03:33:11 (First version)_
+1. [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010-2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md) _2018-02-06 13:49:22 (First version)_
 1. [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010a2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/02/10/the-united-states-files-a-complaint-with-the-wo
 
 ### Changes:
 
-1. [India-United States relations:The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/india-united-states-relations-pthe-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminating.md) _2017-08-25 03:40:00 (First version)_
-2. [India-United States relations:: The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/india-united-states-relations-the-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminatin.md) _2017-08-27 03:40:18 (Update)_
+1. [India-United States relations:: The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/india-united-states-relations-the-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminatin.md) _2018-02-06 13:49:25 (First version)_
+2. [India-United States relations:The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/india-united-states-relations-pthe-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminating.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/the-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminating-against-us-solar-panel-manufac.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/29/index.html)  [JSON](2013/06/29/index.json)  [XML](201
 
 ##### Royal Thai Army
 ### [Eight Royal Thai Army soldiers are killed during an ambush in Krong Pinang District in Yala Province located in Southern Thailand. ](/news/2013/06/29/eight-royal-thai-army-soldiers-are-killed-during-an-ambush-in-krong-pinang-district-in-yala-province-located-in-southern-thailand.md)
-_Context: Yala Province, Krong Pinang District, Royal Thai Army, soldiers are killed, Southern Thailand_
+_Context: Royal Thai Army, Krong Pinang District, Southern Thailand, soldiers are killed, Yala Province_
 
 ##### Insurgency in the North Caucasus
 ### [One policeman is killed and 14 are wounded in a clash with the North Caucasian rebels in Chechnya, Russia. ](/news/2013/06/29/one-policeman-is-killed-and-14-are-wounded-in-a-clash-with-the-north-caucasian-rebels-in-chechnya-russia.md)
@@ -29,7 +29,7 @@ _Context: Uttarakhand, 2013 North India floods_
 
 ##### Las Vegas
 ### [Extreme heat in Las Vegas, Nevada, US, leads to dozens of hospitalizations. ](/news/2013/06/29/extreme-heat-in-las-vegas-nevada-us-leads-to-dozens-of-hospitalizations.md)
-_Context: Nevada, Las Vegas_
+_Context: Las Vegas, Nevada_
 
 ##### U.S. Vice President
 ### [Vice President of the United States Joe Biden asks Ecuador to reject an asylum request by Edward Snowden. ](/news/2013/06/29/vice-president-of-the-united-states-joe-biden-asks-ecuador-to-reject-an-asylum-request-by-edward-snowden.md)
@@ -49,11 +49,11 @@ _Context: Nelson Mandela, F. W. de Klerk_
 
 ##### gay pride
 ### [Dozens of people are arrested at a gay pride parade in the Russian city of St. Petersburg. ](/news/2013/06/29/dozens-of-people-are-arrested-at-a-gay-pride-parade-in-the-russian-city-of-st-petersburg.md)
-_Context: St. Petersburg, gay pride, Russia_
+_Context: Russia, St. Petersburg, gay pride_
 
 ##### 2013 protests in Brazil
 ### [2013 protests in Brazil: Brazilian president, Dilma Rousseff, experiences a sharp drop in popularity. Only 30 percent of people asked by the Datafolha's opinion poll considered Rousseff's administration "great" or "good". ](/news/2013/06/29/2013-protests-in-brazil-brazilian-president-dilma-rousseff-experiences-a-sharp-drop-in-popularity-only-30-percent-of-people-asked-by-the.md)
-_Context: popularity, Datafolha, 2013 protests in Brazil, opinion poll, Dilma Rousseff_
+_Context: Datafolha, popularity, opinion poll, Dilma Rousseff, 2013 protests in Brazil_
 
 ## [Previous Day...](/news/2013/06/28/index.md)
 

@@ -16,8 +16,8 @@ Gardaí recorded phone conversations with two main witnesses during the Sophie T
 
 ### Changes:
 
-1. [Garda phone tapping scandal:Court documents seen by RTE Radio 1's ''This Week'' indicate that Gardai recorded phone conversations with two main witnesses during the 1996 Sophie Toscan du Plantier murder investigation. ](/news/2014/03/30/garda-phone-tapping-scandal-pcourt-documents-seen-by-rta-radio-1-s-this-week-indicate-that-gardaa-recorded-phone-conversations-with-t.md) _2017-08-25 03:40:14 (First version)_
-2. [Garda phone tapping scandal:: Court documents seen by RTE Radio 1's "This Week" indicate that Gardai recorded phone conversations with two main witnesses during the 1996 Sophie Toscan du Plantier murder investigation. ](/news/2014/03/30/garda-phone-tapping-scandal-court-documents-seen-by-rta-radio-1-s-this-week-indicate-that-gardaa-recorded-phone-conversations-with-two.md) _2017-08-27 03:40:32 (Update)_
+1. [Garda phone tapping scandal:Court documents seen by RTE Radio 1's ''This Week'' indicate that Gardai recorded phone conversations with two main witnesses during the 1996 Sophie Toscan du Plantier murder investigation. ](/news/2014/03/30/garda-phone-tapping-scandal-pcourt-documents-seen-by-rta-radio-1-s-this-week-indicate-that-gardaa-recorded-phone-conversations-with-t.md) _2018-02-06 13:49:26 (First version)_
+2. [Garda phone tapping scandal:: Court documents seen by RTE Radio 1's "This Week" indicate that Gardai recorded phone conversations with two main witnesses during the 1996 Sophie Toscan du Plantier murder investigation. ](/news/2014/03/30/garda-phone-tapping-scandal-court-documents-seen-by-rta-radio-1-s-this-week-indicate-that-gardaa-recorded-phone-conversations-with-two.md) _2018-02-06 13:49:26 (Update)_
 2. [Court documents seen by RTE Radio 1's "This Week" indicate that Gardai recorded phone conversations with two main witnesses during the 1996 Sophie Toscan du Plantier murder investigation. ](/news/2014/03/30/court-documents-seen-by-rta-radio-1-s-this-week-indicate-that-gardaa-recorded-phone-conversations-with-two-main-witnesses-during-the-199.md) _(Current version)_
 
 ### Related:

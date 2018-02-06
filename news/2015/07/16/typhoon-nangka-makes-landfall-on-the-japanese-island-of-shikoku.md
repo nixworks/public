@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/16/typhoon-nangka-makes-landfall-on-the-japanese-i
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Nangka makes landfall on the Japanese island of Shikoku. ](/news/2015/07/16/2015-pacific-typhoon-season-typhoon-nangka-makes-landfall-on-the-japanese-island-of-shikoku.md) _2017-08-27 03:42:42 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Nangka makes landfall on the Japanese island of Shikoku. ](/news/2015/07/16/2015-pacific-typhoon-season-typhoon-nangka-makes-landfall-on-the-japanese-island-of-shikoku.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Nangka makes landfall on the Japanese island of Shikoku. ](/news/2015/07/16/typhoon-nangka-makes-landfall-on-the-japanese-island-of-shikoku.md) _(Current version)_
 
 ### Related:

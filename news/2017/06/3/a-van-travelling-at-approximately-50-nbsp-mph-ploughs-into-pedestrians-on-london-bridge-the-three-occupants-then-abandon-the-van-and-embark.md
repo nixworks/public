@@ -17,7 +17,7 @@ Police said a vehicle veered off the road and mowed down pedestrians on London B
 
 ### Changes:
 
-1. [June 2017 London attack: A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/june-2017-london-attack-a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-a.md) _2017-08-27 03:48:25 (First version)_
+1. [June 2017 London attack: A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/june-2017-london-attack-a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-a.md) _2018-02-06 13:49:30 (First version)_
 1. [A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-abandon-the-van-and-embark.md) _(Current version)_
 
 ### Related:

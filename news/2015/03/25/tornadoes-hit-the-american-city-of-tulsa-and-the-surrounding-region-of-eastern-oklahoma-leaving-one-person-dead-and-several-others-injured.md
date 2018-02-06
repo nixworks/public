@@ -17,7 +17,7 @@ At least one person is killed and several others are injured after a tornado roa
 
 ### Changes:
 
-1. [North American tornado outbreaks: Tornadoes hit the American city of Tulsa and the surrounding region of eastern Oklahoma leaving one person dead and several others injured. ](/news/2015/03/25/north-american-tornado-outbreaks-tornadoes-hit-the-american-city-of-tulsa-and-the-surrounding-region-of-eastern-oklahoma-leaving-one-person.md) _2017-08-27 03:42:08 (First version)_
+1. [North American tornado outbreaks: Tornadoes hit the American city of Tulsa and the surrounding region of eastern Oklahoma leaving one person dead and several others injured. ](/news/2015/03/25/north-american-tornado-outbreaks-tornadoes-hit-the-american-city-of-tulsa-and-the-surrounding-region-of-eastern-oklahoma-leaving-one-person.md) _2018-02-06 13:49:26 (First version)_
 1. [Tornadoes hit the American city of Tulsa and the surrounding region of eastern Oklahoma leaving one person dead and several others injured. ](/news/2015/03/25/tornadoes-hit-the-american-city-of-tulsa-and-the-surrounding-region-of-eastern-oklahoma-leaving-one-person-dead-and-several-others-injured.md) _(Current version)_
 
 ### Related:

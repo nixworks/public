@@ -16,7 +16,7 @@ No minutes will be taken. No reporters will be allowed in. There will be no open
 
 ### Changes:
 
-1. [2016 Bilderberg Conference: The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/2016-bilderberg-conference-the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresd.md) _2017-08-27 03:46:13 (First version)_
+1. [2016 Bilderberg Conference: The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/2016-bilderberg-conference-the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresd.md) _2018-02-06 13:49:29 (First version)_
 1. [The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresden-germany.md) _(Current version)_
 
 ### Related:

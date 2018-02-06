@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/06/9/the-syrian-government-declares-a-general-amnesty
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-pthe-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _2017-08-25 03:40:31 (First version)_
-2. [Syrian civil war:: The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-the-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _2017-08-27 03:40:49 (Update)_
+1. [Syrian civil war:: The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-the-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian civil war:The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-pthe-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _2018-02-06 13:49:26 (Update)_
 2. [The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/the-syrian-government-declares-a-general-amnesty-for-all-citizens.md) _(Current version)_
 
 ### Related:

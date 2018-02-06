@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/7/in-india-over-60-million-people-vote-in-64-const
 
 ### Changes:
 
-1. [Indian general election, 2014:In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/indian-general-election-2014-pin-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md) _2017-08-25 03:40:23 (First version)_
-2. [Indian general election, 2014:: In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/indian-general-election-2014-in-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md) _2017-08-27 03:40:41 (Update)_
+1. [Indian general election, 2014:In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/indian-general-election-2014-pin-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md) _2018-02-06 13:49:26 (First version)_
+2. [Indian general election, 2014:: In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/indian-general-election-2014-in-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md) _2018-02-06 13:49:26 (Update)_
 2. [In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/in-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md) _(Current version)_
 
 ### Related:

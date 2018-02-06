@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/31/yemen-s-top-salafist-cleric-samahan-abdel-aziz-
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemeni-civil-war-2015-present-yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman.md) _2017-08-27 03:44:47 (First version)_
+1. [Yemeni Civil War (2015-present): Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemeni-civil-war-2015-present-yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman.md) _2018-02-06 13:49:28 (First version)_
 1. [Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman-aden-governorate-after-being-abduc.md) _(Current version)_
 
 ### Related:

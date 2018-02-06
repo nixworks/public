@@ -19,7 +19,7 @@ Belgian police sealed off streets in the centre of Brussels during raids late on
 
 ### Changes:
 
-1. [2015 Brussels lockdown: Belgian Prime Minister Charles Michel announces Brussels remains on the highest state of alert; concern a new, Paris-style mass attack may be imminent. ](/news/2015/11/22/2015-brussels-lockdown-belgian-prime-minister-charles-michel-announces-brussels-remains-on-the-highest-state-of-alert-concern-a-new-paris.md) _2017-08-27 03:44:00 (First version)_
+1. [2015 Brussels lockdown: Belgian Prime Minister Charles Michel announces Brussels remains on the highest state of alert; concern a new, Paris-style mass attack may be imminent. ](/news/2015/11/22/2015-brussels-lockdown-belgian-prime-minister-charles-michel-announces-brussels-remains-on-the-highest-state-of-alert-concern-a-new-paris.md) _2018-02-06 13:49:28 (First version)_
 1. [Belgian Prime Minister Charles Michel announces Brussels remains on the highest state of alert; concern a new, Paris-style mass attack may be imminent. ](/news/2015/11/22/belgian-prime-minister-charles-michel-announces-brussels-remains-on-the-highest-state-of-alert-concern-a-new-paris-style-mass-attack-may-b.md) _(Current version)_
 
 ### Related:

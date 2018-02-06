@@ -17,7 +17,7 @@ The exiled Madagascan president is sentenced to life in prison with hard labour 
 
 ### Changes:
 
-1. [Former President of Madagascar Marc Ravalomanana is sentenced ''in absentia'' to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of.md) _2017-08-25 03:29:43 (First version)_
+1. [Former President of Madagascar Marc Ravalomanana is sentenced ''in absentia'' to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of.md) _2018-02-06 13:49:20 (First version)_
 1. [Former President of Madagascar Marc Ravalomanana is sentenced "in absentia" to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of-o.md) _(Current version)_
 
 ### Related:

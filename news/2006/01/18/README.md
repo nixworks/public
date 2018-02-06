@@ -9,7 +9,7 @@ _Context: Tokyo Stock Exchange_
 
 ##### Bangladesh
 ### [ Bangladeshi UN peacekeepers are attacked by Laurent Gbagbo's "Young Patriots" in Cte d'Ivoire. At least three people have been killed, and the UN has warned that the country is sliding towards war. ](/news/2006/01/18/bangladeshi-un-peacekeepers-are-attacked-by-laurent-gbagbo-s-young-patriots-in-cote-d-ivoire-at-least-three-people-have-been-killed-and.md)
-_Context: Laurent Gbagbo, peacekeepers, United Nations, Cte d'Ivoire, Bangladesh, war, Young Patriots_
+_Context: Cte d'Ivoire, Young Patriots, Bangladesh, United Nations, war, peacekeepers, Laurent Gbagbo_
 
 ##### bird flu
 ### [ China has recorded its sixth death from the avian flu virus, according to a report on the Chinese Health Ministry's Web site. ](/news/2006/01/18/china-has-recorded-its-sixth-death-from-the-avian-flu-virus-according-to-a-report-on-the-chinese-health-ministry-s-web-site.md)
@@ -17,7 +17,7 @@ _Context: bird flu_
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-il says he is committed to a peaceful resolution of the standoff over his country's nuclear ambitions. ](/news/2006/01/18/north-korean-leader-kim-jong-il-says-he-is-committed-to-a-peaceful-resolution-of-the-standoff-over-his-country-s-nuclear-ambitions.md)
-_Context: North Korea, Kim Jong-il_
+_Context: Kim Jong-il, North Korea_
 
 ##### New Delhi
 ### [ A building collapses on the outskirts of New Delhi on Wednesday, trapping at least 15 people in the rubble. ](/news/2006/01/18/a-building-collapses-on-the-outskirts-of-new-delhi-on-wednesday-trapping-at-least-15-people-in-the-rubble.md)

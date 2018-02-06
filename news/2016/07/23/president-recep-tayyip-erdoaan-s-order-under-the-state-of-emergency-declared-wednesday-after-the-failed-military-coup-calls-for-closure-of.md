@@ -16,7 +16,7 @@ President Tayyip Erdogan tightened his grip on Turkey on Saturday, ordering the 
 
 ### Changes:
 
-1. [Turkish state of emergency: President Recep Tayyip Erdogan's order under the state of emergency declared Wednesday after the failed military coup calls for closure of thousands of private schools, charities, and other institutions suspected of having links to Fethullah Gulen. ](/news/2016/07/23/turkish-state-of-emergency-president-recep-tayyip-erdoaan-s-order-under-the-state-of-emergency-declared-wednesday-after-the-failed-militar.md) _2017-08-27 03:46:32 (First version)_
+1. [Turkish state of emergency: President Recep Tayyip Erdogan's order under the state of emergency declared Wednesday after the failed military coup calls for closure of thousands of private schools, charities, and other institutions suspected of having links to Fethullah Gulen. ](/news/2016/07/23/turkish-state-of-emergency-president-recep-tayyip-erdoaan-s-order-under-the-state-of-emergency-declared-wednesday-after-the-failed-militar.md) _2018-02-06 13:49:29 (First version)_
 1. [President Recep Tayyip Erdogan's order under the state of emergency declared Wednesday after the failed military coup calls for closure of thousands of private schools, charities, and other institutions suspected of having links to Fethullah Gulen. ](/news/2016/07/23/president-recep-tayyip-erdoaan-s-order-under-the-state-of-emergency-declared-wednesday-after-the-failed-military-coup-calls-for-closure-of.md) _(Current version)_
 
 ### Related:

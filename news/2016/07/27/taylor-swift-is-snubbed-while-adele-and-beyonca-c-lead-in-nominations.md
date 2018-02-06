@@ -17,7 +17,7 @@ If winning an MTV Video Music Award was a squad goal for Taylor Swift this year,
 
 ### Changes:
 
-1. [2016 MTV Video Music Awards: Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/2016-mtv-video-music-awards-taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _2017-08-27 03:46:33 (First version)_
+1. [2016 MTV Video Music Awards: Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/2016-mtv-video-music-awards-taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _2018-02-06 13:49:29 (First version)_
 1. [Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _(Current version)_
 
 ### Related:

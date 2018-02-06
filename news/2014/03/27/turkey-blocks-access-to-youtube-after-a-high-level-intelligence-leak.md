@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/27/turkey-blocks-access-to-youtube-after-a-high-le
 
 ### [2014-03-27](/news/2014/03/27/index.md)
 
-##### Turkish
+##### Turkey
 # Turkey blocks access to YouTube after a high-level intelligence leak. 
 
 Turkey begins blocking access to YouTube after a recording is posted on it purporting to show ministers discussing a possible military operation in Syria.
@@ -17,8 +17,8 @@ Turkey begins blocking access to YouTube after a recording is posted on it purpo
 
 ### Related:
 
-1. [Twitter and YouTube are both inaccessible for hours in Turkey; part of a crack-down on social media by the government there. ](/news/2015/04/6/twitter-and-youtube-are-both-inaccessible-for-hours-in-turkey-part-of-a-crack-down-on-social-media-by-the-government-there.md) _Context: Turkish, YouTube_
-2. [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md) _Context: Turkish, YouTube_
-3. [ A Turkish court bans YouTube for the second time because of clips deemed disrespectful to Mustafa Kemal Atatrk. ](/news/2008/01/21/a-turkish-court-bans-youtube-for-the-second-time-because-of-clips-deemed-disrespectful-to-mustafa-kemal-ataturk.md) _Context: Turkish, YouTube_
-4. [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md) _Context: Turkish, YouTube_
-5. [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md) _Context: YouTube_
+1. [Twitter and YouTube are both inaccessible for hours in Turkey; part of a crack-down on social media by the government there. ](/news/2015/04/6/twitter-and-youtube-are-both-inaccessible-for-hours-in-turkey-part-of-a-crack-down-on-social-media-by-the-government-there.md) _Context: Turkey, YouTube_
+2. [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md) _Context: Turkey, YouTube_
+3. [ A Turkish court bans YouTube for the second time because of clips deemed disrespectful to Mustafa Kemal Atatrk. ](/news/2008/01/21/a-turkish-court-bans-youtube-for-the-second-time-because-of-clips-deemed-disrespectful-to-mustafa-kemal-ataturk.md) _Context: Turkey, YouTube_
+4. [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md) _Context: Turkey, YouTube_
+5. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_

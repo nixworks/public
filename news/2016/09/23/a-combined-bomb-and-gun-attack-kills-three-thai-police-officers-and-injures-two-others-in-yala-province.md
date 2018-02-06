@@ -16,7 +16,7 @@ Three Thai policemen were killed and two wounded on Friday in a bomb and gun att
 
 ### Changes:
 
-1. [South Thailand insurgency: A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/south-thailand-insurgency-a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _2017-08-27 03:46:54 (First version)_
+1. [South Thailand insurgency: A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/south-thailand-insurgency-a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _2018-02-06 13:49:29 (First version)_
 1. [A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _(Current version)_
 
 ### Related:

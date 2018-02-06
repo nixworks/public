@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-preven
 
 ### Changes:
 
-1. [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md) _2017-08-25 03:33:43 (First version)_
+1. [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md) _2018-02-06 13:49:22 (First version)_
 1. [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md) _(Current version)_
 
 ### Related:

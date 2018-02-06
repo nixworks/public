@@ -16,7 +16,7 @@ The star of the Hitchcock classics &quot;Suspicion&quot; and &quot;Rebecca&quot;
 
 ### Changes:
 
-1. [British and American actress Joan Fontaine, best known for her two roles under Alfred Hitchcock (''Rebecca'', ''Suspicion''), and the sister of Olivia de Havilland, dies at the age of 96. ](/news/2013/12/15/british-and-american-actress-joan-fontaine-best-known-for-her-two-roles-under-alfred-hitchcock-rebecca-suspicion-and-the-sister.md) _2017-08-25 03:39:42 (First version)_
+1. [British and American actress Joan Fontaine, best known for her two roles under Alfred Hitchcock (''Rebecca'', ''Suspicion''), and the sister of Olivia de Havilland, dies at the age of 96. ](/news/2013/12/15/british-and-american-actress-joan-fontaine-best-known-for-her-two-roles-under-alfred-hitchcock-rebecca-suspicion-and-the-sister.md) _2018-02-06 13:49:25 (First version)_
 1. [British and American actress Joan Fontaine, best known for her two roles under Alfred Hitchcock ("Rebecca", "Suspicion"), and the sister of Olivia de Havilland, dies at the age of 96. ](/news/2013/12/15/british-and-american-actress-joan-fontaine-best-known-for-her-two-roles-under-alfred-hitchcock-rebecca-suspicion-and-the-sister-of.md) _(Current version)_
 
 ### Related:

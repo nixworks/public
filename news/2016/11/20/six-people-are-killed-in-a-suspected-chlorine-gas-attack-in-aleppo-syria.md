@@ -18,7 +18,7 @@ Rebel shelling killed eight children at a school in the government-held part of 
 
 ### Changes:
 
-1. [Syrian Civil War: Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/syrian-civil-war-six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _2017-08-27 03:47:16 (First version)_
+1. [Syrian Civil War: Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/syrian-civil-war-six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _2018-02-06 13:49:29 (First version)_
 1. [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _(Current version)_
 
 ### Related:

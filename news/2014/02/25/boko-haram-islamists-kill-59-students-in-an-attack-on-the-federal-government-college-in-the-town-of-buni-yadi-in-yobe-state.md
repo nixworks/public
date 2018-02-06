@@ -17,8 +17,8 @@ Gunmen from Islamist group Boko Haram shot or burned to death 59 pupils in a boa
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Boko Haram Islamists kill 59 students in an attack on the Federal Government College in the town of Buni Yadi in Yobe State. ](/news/2014/02/25/islamist-insurgency-in-nigeria-pboko-haram-islamists-kill-59-students-in-an-attack-on-the-federal-government-college-in-the-town-of-buni-yad.md) _2017-08-25 03:40:05 (First version)_
-2. [Islamist insurgency in Nigeria:: Boko Haram Islamists kill 59 students in an attack on the Federal Government College in the town of Buni Yadi in Yobe State. ](/news/2014/02/25/islamist-insurgency-in-nigeria-boko-haram-islamists-kill-59-students-in-an-attack-on-the-federal-government-college-in-the-town-of-buni-ya.md) _2017-08-27 03:40:23 (Update)_
+1. [Islamist insurgency in Nigeria:Boko Haram Islamists kill 59 students in an attack on the Federal Government College in the town of Buni Yadi in Yobe State. ](/news/2014/02/25/islamist-insurgency-in-nigeria-pboko-haram-islamists-kill-59-students-in-an-attack-on-the-federal-government-college-in-the-town-of-buni-yad.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram Islamists kill 59 students in an attack on the Federal Government College in the town of Buni Yadi in Yobe State. ](/news/2014/02/25/islamist-insurgency-in-nigeria-boko-haram-islamists-kill-59-students-in-an-attack-on-the-federal-government-college-in-the-town-of-buni-ya.md) _2018-02-06 13:49:25 (Update)_
 2. [Boko Haram Islamists kill 59 students in an attack on the Federal Government College in the town of Buni Yadi in Yobe State. ](/news/2014/02/25/boko-haram-islamists-kill-59-students-in-an-attack-on-the-federal-government-college-in-the-town-of-buni-yadi-in-yobe-state.md) _(Current version)_
 
 ### Related:

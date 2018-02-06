@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/07/9/chinese-president-hu-jintao-returns-to-beijing-a
 
 ### Changes:
 
-1. [ July 2009 rmqi riots: Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/july-2009-urumqi-riots-chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits.md) _2017-08-27 03:24:59 (First version)_
+1. [ July 2009 rmqi riots: Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/july-2009-urumqi-riots-chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits-as-the-social-order-in.md) _(Current version)_
 
 ### Related:

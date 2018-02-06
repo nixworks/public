@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/28/the-death-toll-from-the-march-27-hotel-siege-in
 
 ### Changes:
 
-1. [War in Somalia (2009-present): The death toll from the March 27 hotel siege in Mogadishu rises to 20. ](/news/2015/03/28/war-in-somalia-2009-present-the-death-toll-from-the-march-27-hotel-siege-in-mogadishu-rises-to-20.md) _2017-08-27 03:42:08 (First version)_
+1. [War in Somalia (2009-present): The death toll from the March 27 hotel siege in Mogadishu rises to 20. ](/news/2015/03/28/war-in-somalia-2009-present-the-death-toll-from-the-march-27-hotel-siege-in-mogadishu-rises-to-20.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the March 27 hotel siege in Mogadishu rises to 20. ](/news/2015/03/28/the-death-toll-from-the-march-27-hotel-siege-in-mogadishu-rises-to-20.md) _(Current version)_
 
 ### Related:

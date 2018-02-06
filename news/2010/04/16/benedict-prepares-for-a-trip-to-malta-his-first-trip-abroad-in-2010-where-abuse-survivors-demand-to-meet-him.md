@@ -20,8 +20,8 @@ The Government is to establish a statutory fund for former residents of institut
 
 ### Changes:
 
-1. [Child sexual abuse in the Roman Catholic Church:Benedict prepares for a trip to Malta, his first trip abroad in 2010, where abuse survivors demand to meet him. ](/news/2010/04/16/child-sexual-abuse-in-the-roman-catholic-church-pbenedict-prepares-for-a-trip-to-malta-his-first-trip-abroad-in-2010-where-abuse-survivors.md) _2017-08-25 03:27:39 (First version)_
-2. [Child sexual abuse in the Roman Catholic Church:: Benedict prepares for a trip to Malta, his first trip abroad in 2010, where abuse survivors demand to meet him. ](/news/2010/04/16/child-sexual-abuse-in-the-roman-catholic-church-benedict-prepares-for-a-trip-to-malta-his-first-trip-abroad-in-2010-where-abuse-survivor.md) _2017-08-27 03:27:36 (Update)_
+1. [Child sexual abuse in the Roman Catholic Church:Benedict prepares for a trip to Malta, his first trip abroad in 2010, where abuse survivors demand to meet him. ](/news/2010/04/16/child-sexual-abuse-in-the-roman-catholic-church-pbenedict-prepares-for-a-trip-to-malta-his-first-trip-abroad-in-2010-where-abuse-survivors.md) _2018-02-06 13:49:19 (First version)_
+2. [Child sexual abuse in the Roman Catholic Church:: Benedict prepares for a trip to Malta, his first trip abroad in 2010, where abuse survivors demand to meet him. ](/news/2010/04/16/child-sexual-abuse-in-the-roman-catholic-church-benedict-prepares-for-a-trip-to-malta-his-first-trip-abroad-in-2010-where-abuse-survivor.md) _2018-02-06 13:49:19 (Update)_
 2. [Benedict prepares for a trip to Malta, his first trip abroad in 2010, where abuse survivors demand to meet him. ](/news/2010/04/16/benedict-prepares-for-a-trip-to-malta-his-first-trip-abroad-in-2010-where-abuse-survivors-demand-to-meet-him.md) _(Current version)_
 
 ### Related:

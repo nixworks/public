@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/16/in-the-second-round-run-off-ricardo-lagos-is-el
 
 ### Changes:
 
-1. [Chilean presidential election, 1999-2000: In the second round run-off, Ricardo Lagos is elected president of Chile, as candidate of the Party for Democracy.](/news/2000/01/16/chilean-presidential-election-1999-2000-in-the-second-round-run-off-ricardo-lagos-is-elected-president-of-chile-as-candidate-of-the-pa.md) _2017-08-27 03:15:07 (First version)_
+1. [Chilean presidential election, 1999-2000: In the second round run-off, Ricardo Lagos is elected president of Chile, as candidate of the Party for Democracy.](/news/2000/01/16/chilean-presidential-election-1999-2000-in-the-second-round-run-off-ricardo-lagos-is-elected-president-of-chile-as-candidate-of-the-pa.md) _2018-02-06 13:49:15 (First version)_
 1. [In the second round run-off, Ricardo Lagos is elected president of Chile, as candidate of the Party for Democracy.](/news/2000/01/16/in-the-second-round-run-off-ricardo-lagos-is-elected-president-of-chile-as-candidate-of-the-party-for-democracy.md) _(Current version)_
 
 ### Related:

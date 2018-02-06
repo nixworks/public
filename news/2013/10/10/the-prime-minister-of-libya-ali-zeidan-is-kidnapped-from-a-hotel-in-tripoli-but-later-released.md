@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/10/10/the-prime-minister-of-libya-ali-zeidan-is-kidna
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-pthe-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md) _2017-08-25 03:39:22 (First version)_
-2. [Post-civil war violence in Libya:: The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md) _2017-08-27 03:39:39 (Update)_
+1. [Post-civil war violence in Libya:: The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-pthe-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md) _2018-02-06 13:49:25 (Update)_
 2. [The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md) _(Current version)_
 
 ### Related:

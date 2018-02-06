@@ -18,8 +18,8 @@ Syrian troops fire on tens of thousands of protesters as they hold rallies in fr
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/2011-syrian-uprising-pthe-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-leagu.md) _2017-08-25 03:34:46 (First version)_
-2. [2011 Syrian uprising:: The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/2011-syrian-uprising-the-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-leag.md) _2017-08-27 03:34:55 (Update)_
+1. [2011 Syrian uprising:: The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/2011-syrian-uprising-the-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-leag.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/2011-syrian-uprising-pthe-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-leagu.md) _2018-02-06 13:49:23 (Update)_
 2. [The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/the-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-league-monitors.md) _(Current version)_
 
 ### Related:

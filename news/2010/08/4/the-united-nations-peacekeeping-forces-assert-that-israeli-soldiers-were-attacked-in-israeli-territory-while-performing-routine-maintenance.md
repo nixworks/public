@@ -21,8 +21,8 @@ The UN tells Israel and Lebanon to show restraint, after a clash between troops 
 
 ### Changes:
 
-1. [Adaisseh incident:The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/adaisseh-incident-pthe-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing-r.md) _2017-08-25 03:29:10 (First version)_
-2. [Adaisseh incident:: The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/adaisseh-incident-the-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing.md) _2017-08-27 03:29:12 (Update)_
+1. [Adaisseh incident:: The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/adaisseh-incident-the-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing.md) _2018-02-06 13:49:20 (First version)_
+2. [Adaisseh incident:The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/adaisseh-incident-pthe-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing-r.md) _2018-02-06 13:49:20 (Update)_
 2. [The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/the-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing-routine-maintenance.md) _(Current version)_
 
 ### Related:

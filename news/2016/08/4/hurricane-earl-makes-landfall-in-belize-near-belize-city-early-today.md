@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-bel
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/2016-atlantic-hurricane-season-hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _2017-08-27 03:46:36 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/2016-atlantic-hurricane-season-hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _(Current version)_
 
 ### Related:

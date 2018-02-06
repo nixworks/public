@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-pres
 
 ### Changes:
 
-1. [Inauguration of Noynoy Aquino:Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-pbenigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-v.md) _2017-08-25 03:28:31 (First version)_
-2. [Inauguration of Noynoy Aquino:: Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th.md) _2017-08-27 03:28:30 (Update)_
+1. [Inauguration of Noynoy Aquino:Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-pbenigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-v.md) _2018-02-06 13:49:20 (First version)_
+2. [Inauguration of Noynoy Aquino:: Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th.md) _2018-02-06 13:49:20 (Update)_
 2. [Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-vice-president-of-the-philippine.md) _(Current version)_
 
 ### Related:

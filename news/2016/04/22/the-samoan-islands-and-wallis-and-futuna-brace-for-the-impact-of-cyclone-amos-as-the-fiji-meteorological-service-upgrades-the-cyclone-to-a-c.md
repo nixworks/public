@@ -16,7 +16,7 @@ Tropical Cyclone Amos was upgraded to a category three on Friday night, and was 
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: The Samoan Islands and Wallis and Futuna brace for the impact of Cyclone Amos as the Fiji Meteorological Service upgrades the cyclone to a category three storm, with sustained winds as high as 140 km-h at its centre. ](/news/2016/04/22/2015-16-south-pacific-cyclone-season-the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorolog.md) _2017-08-27 03:45:46 (First version)_
+1. [2015-16 South Pacific cyclone season: The Samoan Islands and Wallis and Futuna brace for the impact of Cyclone Amos as the Fiji Meteorological Service upgrades the cyclone to a category three storm, with sustained winds as high as 140 km-h at its centre. ](/news/2016/04/22/2015-16-south-pacific-cyclone-season-the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorolog.md) _2018-02-06 13:49:28 (First version)_
 1. [The Samoan Islands and Wallis and Futuna brace for the impact of Cyclone Amos as the Fiji Meteorological Service upgrades the cyclone to a category three storm, with sustained winds as high as 140 km-h at its centre. ](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A storm forecast to be the worst in decades leaves floods, power cuts and downed
 
 ### Changes:
 
-1. [2016-17 South Pacific cyclone season: A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/2016-17-south-pacific-cyclone-season-a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cycl.md) _2017-08-27 03:48:08 (First version)_
+1. [2016-17 South Pacific cyclone season: A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/2016-17-south-pacific-cyclone-season-a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cycl.md) _2018-02-06 13:49:30 (First version)_
 1. [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md) _(Current version)_
 
 ### Related:

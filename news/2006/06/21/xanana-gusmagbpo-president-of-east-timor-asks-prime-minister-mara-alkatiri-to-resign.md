@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/21/xanana-gusmagbpo-president-of-east-timor-asks-p
 
 ### Changes:
 
-1. [ Xanana Gusmao, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmapso-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md) _2017-08-25 03:17:48 (First version)_
+1. [ Xanana Gusmao, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmapso-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md) _2018-02-06 13:49:17 (First version)_
 1. [ Xanana GusmGBPo, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmagbpo-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md) _(Current version)_
 
 ### Related:

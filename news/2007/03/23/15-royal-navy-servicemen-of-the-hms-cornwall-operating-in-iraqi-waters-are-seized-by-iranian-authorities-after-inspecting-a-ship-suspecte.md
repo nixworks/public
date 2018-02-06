@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-op
 
 ### Changes:
 
-1. [ 15 Royal Navy servicemen of the HMS ''Cornwall'' operating in Iraqi waters are seized by Iranian authorities after inspecting a ship suspected of smuggling. ](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-operating-in-iraqi-waters-are-seized-by-iranian-authorities-after-inspecting-a-ship-suspec.md) _2017-08-25 03:19:27 (First version)_
+1. [ 15 Royal Navy servicemen of the HMS ''Cornwall'' operating in Iraqi waters are seized by Iranian authorities after inspecting a ship suspected of smuggling. ](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-operating-in-iraqi-waters-are-seized-by-iranian-authorities-after-inspecting-a-ship-suspec.md) _2018-02-06 13:49:17 (First version)_
 1. [ 15 Royal Navy servicemen of the HMS "Cornwall" operating in Iraqi waters are seized by Iranian authorities after inspecting a ship suspected of smuggling. ](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-operating-in-iraqi-waters-are-seized-by-iranian-authorities-after-inspecting-a-ship-suspecte.md) _(Current version)_
 
 ### Related:

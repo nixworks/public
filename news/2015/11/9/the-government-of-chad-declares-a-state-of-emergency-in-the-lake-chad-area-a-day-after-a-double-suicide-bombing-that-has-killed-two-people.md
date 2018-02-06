@@ -16,7 +16,7 @@ N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergenc
 
 ### Changes:
 
-1. [Boko Haram insurgency: The government of Chad declares a state of emergency in the Lake Chad area a day after a double suicide bombing that has killed two people. ](/news/2015/11/9/boko-haram-insurgency-the-government-of-chad-declares-a-state-of-emergency-in-the-lake-chad-area-a-day-after-a-double-suicide-bombing-that.md) _2017-08-27 03:43:46 (First version)_
+1. [Boko Haram insurgency: The government of Chad declares a state of emergency in the Lake Chad area a day after a double suicide bombing that has killed two people. ](/news/2015/11/9/boko-haram-insurgency-the-government-of-chad-declares-a-state-of-emergency-in-the-lake-chad-area-a-day-after-a-double-suicide-bombing-that.md) _2018-02-06 13:49:28 (First version)_
 1. [The government of Chad declares a state of emergency in the Lake Chad area a day after a double suicide bombing that has killed two people. ](/news/2015/11/9/the-government-of-chad-declares-a-state-of-emergency-in-the-lake-chad-area-a-day-after-a-double-suicide-bombing-that-has-killed-two-people.md) _(Current version)_
 
 ### Related:

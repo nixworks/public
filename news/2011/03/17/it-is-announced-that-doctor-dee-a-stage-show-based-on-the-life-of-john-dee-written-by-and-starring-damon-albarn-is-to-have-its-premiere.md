@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-ba
 
 ### Changes:
 
-1. [It is announced that ''Doctor Dee'', a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premier.md) _2017-08-25 03:32:34 (First version)_
+1. [It is announced that ''Doctor Dee'', a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premier.md) _2018-02-06 13:49:22 (First version)_
 1. [It is announced that "Doctor Dee", a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premiere.md) _(Current version)_
 
 ### Related:

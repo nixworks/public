@@ -18,7 +18,7 @@ Security forces seized control of a violent slum, claiming victory in a weeklong
 
 ### Changes:
 
-1. [More than 2,000 Brazilian police and military personnel enter the Alemao slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemapso-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts-t.md) _2017-08-25 03:31:11 (First version)_
+1. [More than 2,000 Brazilian police and military personnel enter the Alemao slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemapso-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts-t.md) _2018-02-06 13:49:21 (First version)_
 1. [More than 2,000 Brazilian police and military personnel enter the AlemGBPo slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemagbpo-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts.md) _(Current version)_
 
 ### Related:

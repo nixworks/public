@@ -16,5 +16,5 @@ Attorney general says 201 people are being held for questioning, some of them re
 
 ### Changes:
 
-1. [Saudi Arabia's attorney general says at least $100bn (GBP76bn) has been misused through systemic corruption and embezzlement in recent decades. ](/news/2017/11/9/saudi-arabia-s-attorney-general-says-at-least-100bn-agbp76bn-has-been-misused-through-systemic-corruption-and-embezzlement-in-recent-deca.md) _2017-11-11 12:30:05 (First version)_
+1. [Saudi Arabia's attorney general says at least $100bn (GBP76bn) has been misused through systemic corruption and embezzlement in recent decades. ](/news/2017/11/9/saudi-arabia-s-attorney-general-says-at-least-100bn-agbp76bn-has-been-misused-through-systemic-corruption-and-embezzlement-in-recent-deca.md) _2018-02-06 13:49:31 (First version)_
 1. [Saudi Arabia's attorney general says at least $100bn (GBP76bn) has been misused through systemic corruption and embezzlement in recent decades. ](/news/2017/11/9/saudi-arabia-s-attorney-general-says-at-least-100bn-gbp76bn-has-been-misused-through-systemic-corruption-and-embezzlement-in-recent-decad.md) _(Current version)_

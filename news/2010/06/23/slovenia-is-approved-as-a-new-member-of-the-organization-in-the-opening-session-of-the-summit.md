@@ -20,8 +20,8 @@ Formats: [HTML](/news/2010/06/23/slovenia-is-approved-as-a-new-member-of-the-org
 
 ### Changes:
 
-1. [Southeast European Cooperation Process summit:Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/southeast-european-cooperation-process-summit-pslovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summit.md) _2017-08-25 03:28:24 (First version)_
-2. [Southeast European Cooperation Process summit:: Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/southeast-european-cooperation-process-summit-slovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summi.md) _2017-08-27 03:28:23 (Update)_
+1. [Southeast European Cooperation Process summit:: Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/southeast-european-cooperation-process-summit-slovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summi.md) _2018-02-06 13:49:20 (First version)_
+2. [Southeast European Cooperation Process summit:Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/southeast-european-cooperation-process-summit-pslovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summit.md) _2018-02-06 13:49:20 (Update)_
 2. [Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/slovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summit.md) _(Current version)_
 
 ### Related:

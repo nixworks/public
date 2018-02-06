@@ -16,7 +16,7 @@ He was then booed off the stage.
 
 ### Changes:
 
-1. [2016 Republican National Convention: Senator Ted Cruz, the runner-up in the race for the Republican Party nomination, is booed off stage after giving a speech and refusing to endorse Donald Trump. ](/news/2016/07/20/2016-republican-national-convention-senator-ted-cruz-the-runner-up-in-the-race-for-the-republican-party-nomination-is-booed-off-stage-aft.md) _2017-08-27 03:46:31 (First version)_
+1. [2016 Republican National Convention: Senator Ted Cruz, the runner-up in the race for the Republican Party nomination, is booed off stage after giving a speech and refusing to endorse Donald Trump. ](/news/2016/07/20/2016-republican-national-convention-senator-ted-cruz-the-runner-up-in-the-race-for-the-republican-party-nomination-is-booed-off-stage-aft.md) _2018-02-06 13:49:29 (First version)_
 1. [Senator Ted Cruz, the runner-up in the race for the Republican Party nomination, is booed off stage after giving a speech and refusing to endorse Donald Trump. ](/news/2016/07/20/senator-ted-cruz-the-runner-up-in-the-race-for-the-republican-party-nomination-is-booed-off-stage-after-giving-a-speech-and-refusing-to-en.md) _(Current version)_
 
 ### Related:

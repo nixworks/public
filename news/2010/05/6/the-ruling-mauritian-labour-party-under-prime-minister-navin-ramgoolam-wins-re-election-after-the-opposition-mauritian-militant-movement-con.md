@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/05/6/the-ruling-mauritian-labour-party-under-prime-mi
 
 ### Changes:
 
-1. [The ruling Mauritian Labour Party under Prime Minister Navin Ramgoolam wins re-election after the opposition Mauritian Militant Movement concedes the 2010 general election. ](/news/2010/05/6/the-ruling-mauritian-labour-party-under-prime-minister-navin-ramgoolam-wins-re-election-after-the-opposition-mauritian-militant-movement-co.md) _2017-08-25 03:27:51 (First version)_
+1. [The ruling Mauritian Labour Party under Prime Minister Navin Ramgoolam wins re-election after the opposition Mauritian Militant Movement concedes the 2010 general election. ](/news/2010/05/6/the-ruling-mauritian-labour-party-under-prime-minister-navin-ramgoolam-wins-re-election-after-the-opposition-mauritian-militant-movement-co.md) _2018-02-06 13:49:20 (First version)_
 1. [The ruling Mauritian Labour Party under Prime Minister Navin Ramgoolam wins re-election after the opposition Mauritian Militant Movement concedes the 2010 general election. ](/news/2010/05/6/the-ruling-mauritian-labour-party-under-prime-minister-navin-ramgoolam-wins-re-election-after-the-opposition-mauritian-militant-movement-con.md) _(Current version)_
 
 ### Related:

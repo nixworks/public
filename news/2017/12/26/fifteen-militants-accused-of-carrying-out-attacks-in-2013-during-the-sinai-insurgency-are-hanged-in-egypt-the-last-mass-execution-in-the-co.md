@@ -16,7 +16,7 @@ It is the biggest series of hangings since 2015 in Egypt, which is battling an i
 
 ### Changes:
 
-1. [15 militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when 6 jihadists were executed. ](/news/2017/12/26/15-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-country.md) _2017-12-26 16:30:06 (First version)_
+1. [15 militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when 6 jihadists were executed. ](/news/2017/12/26/15-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-country.md) _2018-02-06 13:49:31 (First version)_
 1. [Fifteen militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when six jihadists were executed. ](/news/2017/12/26/fifteen-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-co.md) _(Current version)_
 
 ### Related:

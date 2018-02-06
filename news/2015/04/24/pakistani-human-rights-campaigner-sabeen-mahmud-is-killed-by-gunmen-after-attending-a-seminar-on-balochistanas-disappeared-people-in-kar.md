@@ -16,7 +16,7 @@ Prominent rights activist killed shortly after hosting an event on people missin
 
 ### Changes:
 
-1. [Balochistan conflict: Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan-s "disappeared people" in Karachi. ](/news/2015/04/24/balochistan-conflict-pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistan-s-disa.md) _2017-08-27 03:42:14 (First version)_
+1. [Balochistan conflict: Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan-s "disappeared people" in Karachi. ](/news/2015/04/24/balochistan-conflict-pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistan-s-disa.md) _2018-02-06 13:49:27 (First version)_
 1. [Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan's "disappeared people" in Karachi. ](/news/2015/04/24/pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistanas-disappeared-people-in-kar.md) _(Current version)_
 
 ### Related:

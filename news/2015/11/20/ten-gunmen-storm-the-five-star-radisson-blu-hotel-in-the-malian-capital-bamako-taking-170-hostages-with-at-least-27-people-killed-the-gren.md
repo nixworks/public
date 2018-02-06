@@ -24,7 +24,7 @@ Gunmen took at least 170 people hostage at a hotel in the former French colony o
 
 ### Changes:
 
-1. [2015 Bamako hotel attack: Ten gunmen storm the five-star Radisson Blu Hotel in the Malian capital Bamako, taking 170 hostages with at least 27 people killed. The grenade-toting assailants free captives who are able to recite the Quran. The hotel is "often used" by Air France staff. ](/news/2015/11/20/2015-bamako-hotel-attack-ten-gunmen-storm-the-five-star-radisson-blu-hotel-in-the-malian-capital-bamako-taking-170-hostages-with-at-least.md) _2017-08-27 03:43:58 (First version)_
+1. [2015 Bamako hotel attack: Ten gunmen storm the five-star Radisson Blu Hotel in the Malian capital Bamako, taking 170 hostages with at least 27 people killed. The grenade-toting assailants free captives who are able to recite the Quran. The hotel is "often used" by Air France staff. ](/news/2015/11/20/2015-bamako-hotel-attack-ten-gunmen-storm-the-five-star-radisson-blu-hotel-in-the-malian-capital-bamako-taking-170-hostages-with-at-least.md) _2018-02-06 13:49:28 (First version)_
 1. [Ten gunmen storm the five-star Radisson Blu Hotel in the Malian capital Bamako, taking 170 hostages with at least 27 people killed. The grenade-toting assailants free captives who are able to recite the Quran. The hotel is "often used" by Air France staff. ](/news/2015/11/20/ten-gunmen-storm-the-five-star-radisson-blu-hotel-in-the-malian-capital-bamako-taking-170-hostages-with-at-least-27-people-killed-the-gren.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly
 
 ### Changes:
 
-1. [An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. ](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly-after-takeoff-from-poso-kills-13-passengers-their-mission-was-to-try-to-capture-indonesia.md) _2017-08-25 03:44:58 (First version)_
+1. [An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. ](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly-after-takeoff-from-poso-kills-13-passengers-their-mission-was-to-try-to-capture-indonesia.md) _2018-02-06 13:49:28 (First version)_
 1. [An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. ](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly-after-takeoff-from-poso-kills-13-passengers-their-mission-was-to-try-to-capture-indonesia-s.md) _(Current version)_
 
 ### Related:

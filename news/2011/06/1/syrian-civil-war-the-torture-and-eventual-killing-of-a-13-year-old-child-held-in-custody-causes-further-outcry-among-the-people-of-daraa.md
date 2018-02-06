@@ -19,8 +19,8 @@ The mutilation and death in custody of a 13-year-old child has sparked further f
 
 ### Changes:
 
-1. [Arab Spring:Syrian civil war:The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-psyrian-civil-war-pthe-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peopl.md) _2017-08-25 03:33:20 (First version)_
-2. [Arab Spring:: Syrian civil war:: The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-syrian-civil-war-the-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peo.md) _2017-08-27 03:33:28 (Update)_
+1. [Arab Spring:: Syrian civil war:: The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-syrian-civil-war-the-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peo.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:Syrian civil war:The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-psyrian-civil-war-pthe-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peopl.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian civil war:The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/syrian-civil-war-the-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-people-of-daraa.md) _(Current version)_
 
 ### Related:

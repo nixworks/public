@@ -16,7 +16,7 @@ The surprise hit musical won a total of six Tonys, including best musical actor 
 
 ### Changes:
 
-1. [71st Tony Awards: The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/71st-tony-awards-the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-win.md) _2017-08-27 03:48:28 (First version)_
+1. [71st Tony Awards: The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/71st-tony-awards-the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-win.md) _2018-02-06 13:49:30 (First version)_
 1. [The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-winning-best-play.md) _(Current version)_
 
 ### Related:

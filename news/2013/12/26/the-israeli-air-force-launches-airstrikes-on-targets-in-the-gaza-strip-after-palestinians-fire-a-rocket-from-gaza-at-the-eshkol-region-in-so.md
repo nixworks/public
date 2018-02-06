@@ -16,8 +16,8 @@ One Palestinian reported injured in apparent retaliation for Kassam strike; Neta
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/israeliapalestinian-conflict-pthe-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-from.md) _2017-08-25 03:39:46 (First version)_
-2. [Israeli-Palestinian conflict:: The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/israeli-palestinian-conflict-the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-fro.md) _2017-08-27 03:40:05 (Update)_
+1. [Israeli-Palestinian conflict:The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/israeliapalestinian-conflict-pthe-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-from.md) _2018-02-06 13:49:25 (First version)_
+2. [Israeli-Palestinian conflict:: The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/israeli-palestinian-conflict-the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-fro.md) _2018-02-06 13:49:25 (Update)_
 2. [The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-from-gaza-at-the-eshkol-region-in-so.md) _(Current version)_
 
 ### Related:

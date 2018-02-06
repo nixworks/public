@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/13/the-world-health-organization-reports-that-the-
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organization reports that the death toll in the three worst affected countries in West Africa - Guinea, Liberia and Sierra Leone - has passed 5,000. ](/news/2014/11/13/ebola-virus-epidemic-in-west-africa-the-world-health-organization-reports-that-the-death-toll-in-the-three-worst-affected-countries-in-west.md) _2017-08-27 03:41:30 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organization reports that the death toll in the three worst affected countries in West Africa - Guinea, Liberia and Sierra Leone - has passed 5,000. ](/news/2014/11/13/ebola-virus-epidemic-in-west-africa-the-world-health-organization-reports-that-the-death-toll-in-the-three-worst-affected-countries-in-west.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organization reports that the death toll in the three worst affected countries in West Africa - Guinea, Liberia and Sierra Leone - has passed 5,000. ](/news/2014/11/13/the-world-health-organization-reports-that-the-death-toll-in-the-three-worst-affected-countries-in-west-africa-guinea-liberia-and-sierra.md) _(Current version)_
 
 ### Related:

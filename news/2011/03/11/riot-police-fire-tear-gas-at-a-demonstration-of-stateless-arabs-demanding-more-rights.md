@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/03/11/riot-police-fire-tear-gas-at-a-demonstration-of
 
 ### Changes:
 
-1. [2011 Kuwaiti protests:Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/2011-kuwaiti-protests-priot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md) _2017-08-25 03:32:30 (First version)_
-2. [2011 Kuwaiti protests:: Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/2011-kuwaiti-protests-riot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md) _2017-08-27 03:32:39 (Update)_
+1. [2011 Kuwaiti protests:: Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/2011-kuwaiti-protests-riot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Kuwaiti protests:Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/2011-kuwaiti-protests-priot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md) _2018-02-06 13:49:22 (Update)_
 2. [Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/riot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md) _(Current version)_
 
 ### Related:

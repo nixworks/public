@@ -25,7 +25,7 @@ _Context: Libya, International Organization for Migration, Chad_
 
 ##### Brown University
 ### [Research by Brown University finds the U.S. wars on Iraq and Afghanistan are expected to cost at least $3.2 trillion, and maybe as much as $4.4 trillion, higher than previously expected. ](/news/2011/06/29/research-by-brown-university-finds-the-u-s-wars-on-iraq-and-afghanistan-are-expected-to-cost-at-least-3-2-trillion-and-maybe-as-much-as.md)
-_Context: Iraq War, Brown University, War in Afghanistan (2001-present)_
+_Context: Brown University, Iraq War, War in Afghanistan (2001-present)_
 
 ##### Abuja
 ### [A curfew is imposed on Abuja by the Nigerian government due to recent deadly attacks. ](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.md)
@@ -51,13 +51,13 @@ Chinese artist and government critic Ai Weiwei is to challenge a bill of more th
 ### [The Greek parliament votes in favor of austerity measures to deal with the country's economic crisis; global markets rise as a result. ](/news/2011/06/29/the-greek-parliament-votes-in-favor-of-austerity-measures-to-deal-with-the-country-s-economic-crisis-global-markets-rise-as-a-result.md)
 Parliament passes an austerity plan to slash $40bn off national debt, with 155 MPs voting in favour and 138 against.
 
-##### British
+##### United Kingdom
 ### [Approximately 750,000 workers in the United Kingdom commence strike action over pension reform plans. ](/news/2011/06/29/approximately-750-000-workers-in-the-united-kingdom-commence-strike-action-over-pension-reform-plans.md)
-_Context: British_
+_Context: United Kingdom_
 
 ##### Alderney Gambling Control Commission
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: Full Tilt Poker, Department of Justice, Alderney Gambling Control Commission, indicted_
+_Context: Alderney Gambling Control Commission, Department of Justice, indicted, Full Tilt Poker_
 
 ##### Media conglomerate
 ### [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md)
@@ -81,7 +81,7 @@ South Sudan claims the North is using rebels to sow chaos ahead of its official 
 
 ##### North Korea
 ### [North Korea accuses South Korea of slander and threatens "a retaliatory sacred war". ](/news/2011/06/29/north-korea-accuses-south-korea-of-slander-and-threatens-a-retaliatory-sacred-war.md)
-_Context: North Korea, slander, South Korea_
+_Context: slander, North Korea, South Korea_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir of Sudan and Hu Jintao of the People's Republic of China meet. ](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.md)
@@ -121,7 +121,7 @@ Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39
 
 ##### Rhode Island General Assembly
 ### [The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. ](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.md)
-_Context: Rhode Island General Assembly, civil union_
+_Context: civil union, Rhode Island General Assembly_
 
 ## [Previous Day...](/news/2011/06/28/index.md)
 

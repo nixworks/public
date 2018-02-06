@@ -16,8 +16,8 @@ Turkish police fire tear gas at thousands of protesters in town of Soma where so
 
 ### Changes:
 
-1. [Soma mine disaster:Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-pturkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-th.md) _2017-08-25 03:40:24 (First version)_
-2. [Soma mine disaster:: Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-t.md) _2017-08-27 03:40:42 (Update)_
+1. [Soma mine disaster:: Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-t.md) _2018-02-06 13:49:26 (First version)_
+2. [Soma mine disaster:Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-pturkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-th.md) _2018-02-06 13:49:26 (Update)_
 2. [Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-thousands-of-protestor.md) _(Current version)_
 
 ### Related:

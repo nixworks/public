@@ -17,7 +17,7 @@ Agriculture continues to suffer the biggest loss, with damage already pegged at 
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: The death toll for Typhoon Koppu (Lando) in the Philippines rises to 54 with more than 1.2 million affected. ](/news/2015/10/22/2015-pacific-typhoon-season-the-death-toll-for-typhoon-koppu-lando-in-the-philippines-rises-to-54-with-more-than-1-2-million-affected.md) _2017-08-27 03:43:28 (First version)_
+1. [2015 Pacific typhoon season: The death toll for Typhoon Koppu (Lando) in the Philippines rises to 54 with more than 1.2 million affected. ](/news/2015/10/22/2015-pacific-typhoon-season-the-death-toll-for-typhoon-koppu-lando-in-the-philippines-rises-to-54-with-more-than-1-2-million-affected.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll for Typhoon Koppu (Lando) in the Philippines rises to 54 with more than 1.2 million affected. ](/news/2015/10/22/the-death-toll-for-typhoon-koppu-lando-in-the-philippines-rises-to-54-with-more-than-1-2-million-affected.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/04/18/aid-starts-to-flow-in-after-an-earthquake-kills
 
 ### Changes:
 
-1. [2016 Ecuador earthquake: Aid starts to flow in after an earthquake kills over 270 people in Ecuador. ](/news/2016/04/18/2016-ecuador-earthquake-aid-starts-to-flow-in-after-an-earthquake-kills-over-270-people-in-ecuador.md) _2017-08-27 03:45:40 (First version)_
+1. [2016 Ecuador earthquake: Aid starts to flow in after an earthquake kills over 270 people in Ecuador. ](/news/2016/04/18/2016-ecuador-earthquake-aid-starts-to-flow-in-after-an-earthquake-kills-over-270-people-in-ecuador.md) _2018-02-06 13:49:28 (First version)_
 1. [Aid starts to flow in after an earthquake kills over 270 people in Ecuador. ](/news/2016/04/18/aid-starts-to-flow-in-after-an-earthquake-kills-over-270-people-in-ecuador.md) _(Current version)_
 
 ### Related:

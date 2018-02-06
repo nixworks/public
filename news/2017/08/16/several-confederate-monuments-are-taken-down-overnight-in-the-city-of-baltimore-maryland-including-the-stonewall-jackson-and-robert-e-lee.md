@@ -16,7 +16,7 @@ City leaders had vowed to remove the city&#x27;s four Confederacy-linked monumen
 
 ### Changes:
 
-1. [Several more Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture. The Baltimore City Council unanimously voted to remove and destroy the monuments on August 14. ](/news/2017/08/16/several-more-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e.md) _2017-08-16 19:30:04 (First version)_
+1. [Several more Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture. The Baltimore City Council unanimously voted to remove and destroy the monuments on August 14. ](/news/2017/08/16/several-more-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e.md) _2018-02-06 13:49:31 (First version)_
 1. [Several Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture. The Baltimore City Council unanimously voted to remove the monuments on August 14. ](/news/2017/08/16/several-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e-lee.md) _(Current version)_
 
 ### Related:

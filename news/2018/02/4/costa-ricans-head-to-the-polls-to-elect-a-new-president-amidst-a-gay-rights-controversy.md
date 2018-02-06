@@ -12,7 +12,8 @@ Costa Ricans went to the polls on Sunday to choose a new president in a race upe
 ### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-costarica-election/costa-rica-votes-for-new-president-amid-gay-rights-controversy-idUSKBN1FO04W)
-1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20180204&t=2&i=1228073579&w=1200&r=LYNXMPEE13026)
+2. [The Tico Times](http://www.ticotimes.net/2018/02/05/costa-rica-meets-its-new-presidential-candidates-fresh-from-the-middle-of-the-pack)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20180204&t=2&i=1228073579&w=1200&r=LYNXMPEE13026)
 
 ### Related:
 

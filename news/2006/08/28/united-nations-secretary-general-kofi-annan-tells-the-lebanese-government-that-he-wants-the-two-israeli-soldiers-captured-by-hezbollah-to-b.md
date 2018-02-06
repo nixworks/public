@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/08/28/united-nations-secretary-general-kofi-annan-tel
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/2006-israel-lebanon-conflict-p-united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-sold.md) _2017-08-25 03:18:17 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/2006-israel-lebanon-conflict-united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-sold.md) _2017-08-27 03:18:12 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/2006-israel-lebanon-conflict-united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-sold.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/2006-israel-lebanon-conflict-p-united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-sold.md) _2018-02-06 13:49:17 (Update)_
 2. [ United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-soldiers-captured-by-hezbollah-to-b.md) _(Current version)_
 
 ### Related:

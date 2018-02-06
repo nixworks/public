@@ -16,7 +16,7 @@ Jalaluddin Haqqani, the Afghan founder of the militant Haqqani network, died at 
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Jalaluddin Haqqani, the founder of the Haqqani Network, is reported as having died in 2014. ](/news/2015/07/31/war-in-afghanistan-2001-present-jalaluddin-haqqani-the-founder-of-the-haqqani-network-is-reported-as-having-died-in-2014.md) _2017-08-27 03:42:46 (First version)_
+1. [War in Afghanistan (2001-present): Jalaluddin Haqqani, the founder of the Haqqani Network, is reported as having died in 2014. ](/news/2015/07/31/war-in-afghanistan-2001-present-jalaluddin-haqqani-the-founder-of-the-haqqani-network-is-reported-as-having-died-in-2014.md) _2018-02-06 13:49:27 (First version)_
 1. [Jalaluddin Haqqani, the founder of the Haqqani Network, is reported as having died in 2014. ](/news/2015/07/31/jalaluddin-haqqani-the-founder-of-the-haqqani-network-is-reported-as-having-died-in-2014.md) _(Current version)_
 
 ### Related:

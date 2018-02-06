@@ -17,6 +17,6 @@ Saleh supporter killed in Hadramaut, while anti-government protester shot in pol
 
 ### Changes:
 
-1. [2011 Yemeni protests:Two people die in continuing demonstrations across the country. ](/news/2011/03/9/2011-yemeni-protests-ptwo-people-die-in-continuing-demonstrations-across-the-country.md) _2017-08-25 03:32:28 (First version)_
-2. [2011 Yemeni protests:: Two people die in continuing demonstrations across the country. ](/news/2011/03/9/2011-yemeni-protests-two-people-die-in-continuing-demonstrations-across-the-country.md) _2017-08-27 03:32:37 (Update)_
+1. [2011 Yemeni protests:: Two people die in continuing demonstrations across the country. ](/news/2011/03/9/2011-yemeni-protests-two-people-die-in-continuing-demonstrations-across-the-country.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:Two people die in continuing demonstrations across the country. ](/news/2011/03/9/2011-yemeni-protests-ptwo-people-die-in-continuing-demonstrations-across-the-country.md) _2018-02-06 13:49:22 (Update)_
 2. [Two people die in continuing demonstrations across the country. ](/news/2011/03/9/two-people-die-in-continuing-demonstrations-across-the-country.md) _(Current version)_

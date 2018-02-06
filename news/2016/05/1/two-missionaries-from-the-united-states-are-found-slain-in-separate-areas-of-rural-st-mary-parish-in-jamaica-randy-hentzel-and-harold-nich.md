@@ -18,7 +18,7 @@ Battered bodies of the two men were found in bushes in separate areas in rural J
 
 ### Changes:
 
-1. [Two missionaries from the United States are found slain in separate areas of rural St. Mary parish in Jamaica. Randy Hentzel and Harold Nichols both worked for a Pennsylvania-based Christian charity called Teams for Medical Missions. ](/news/2016/05/1/two-missionaries-from-the-united-states-are-found-slain-in-separate-areas-of-rural-st-mary-parish-in-jamaica-randy-hentzel-and-harold-nic.md) _2017-08-25 03:45:34 (First version)_
+1. [Two missionaries from the United States are found slain in separate areas of rural St. Mary parish in Jamaica. Randy Hentzel and Harold Nichols both worked for a Pennsylvania-based Christian charity called Teams for Medical Missions. ](/news/2016/05/1/two-missionaries-from-the-united-states-are-found-slain-in-separate-areas-of-rural-st-mary-parish-in-jamaica-randy-hentzel-and-harold-nic.md) _2018-02-06 13:49:29 (First version)_
 1. [Two missionaries from the United States are found slain in separate areas of rural St. Mary parish in Jamaica. Randy Hentzel and Harold Nichols both worked for a Pennsylvania-based Christian charity called Teams for Medical Missions. ](/news/2016/05/1/two-missionaries-from-the-united-states-are-found-slain-in-separate-areas-of-rural-st-mary-parish-in-jamaica-randy-hentzel-and-harold-nich.md) _(Current version)_
 
 ### Related:

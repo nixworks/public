@@ -16,7 +16,7 @@ Hunt on for vessel sailing from Singapore to Quang Tri port in Vietnam.
 
 ### Changes:
 
-1. [A major search operation is underway for the ''Sunrise-689'', a Vietnamese vessel carrying 18 crew members and 5,226 tonnes of oil which lost both radio and radar contact on October 3 40 minutes after its departure from Singapore. ](/news/2014/10/7/a-major-search-operation-is-underway-for-the-sunrise-689-a-vietnamese-vessel-carrying-18-crew-members-and-5-226-tonnes-of-oil-which-los.md) _2017-08-25 03:41:03 (First version)_
+1. [A major search operation is underway for the ''Sunrise-689'', a Vietnamese vessel carrying 18 crew members and 5,226 tonnes of oil which lost both radio and radar contact on October 3 40 minutes after its departure from Singapore. ](/news/2014/10/7/a-major-search-operation-is-underway-for-the-sunrise-689-a-vietnamese-vessel-carrying-18-crew-members-and-5-226-tonnes-of-oil-which-los.md) _2018-02-06 13:49:26 (First version)_
 1. [A major search operation is underway for the "Sunrise-689", a Vietnamese vessel carrying 18 crew members and 5,226 tonnes of oil which lost both radio and radar contact on October 3 40 minutes after its departure from Singapore. ](/news/2014/10/7/a-major-search-operation-is-underway-for-the-sunrise-689-a-vietnamese-vessel-carrying-18-crew-members-and-5-226-tonnes-of-oil-which-lost.md) _(Current version)_
 
 ### Related:

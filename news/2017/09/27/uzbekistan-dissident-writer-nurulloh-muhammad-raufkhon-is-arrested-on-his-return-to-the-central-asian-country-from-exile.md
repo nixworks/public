@@ -16,7 +16,7 @@ Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned
 
 ### Changes:
 
-1. [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country.md) _2017-09-27 13:30:05 (First version)_
+1. [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country.md) _2018-02-06 13:49:31 (First version)_
 1. [Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country from exile. ](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-raufkhon-is-arrested-on-his-return-to-the-central-asian-country-from-exile.md) _(Current version)_
 
 ### Related:

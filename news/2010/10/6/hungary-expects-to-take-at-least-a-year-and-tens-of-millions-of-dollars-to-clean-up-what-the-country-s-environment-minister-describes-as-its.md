@@ -17,8 +17,8 @@ Hungary has opened a criminal investigation into the toxic sludge flood which ha
 
 ### Changes:
 
-1. [Ajka alumina plant accident:Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/ajka-alumina-plant-accident-phungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environm.md) _2017-08-25 03:30:21 (First version)_
-2. [Ajka alumina plant accident:: Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/ajka-alumina-plant-accident-hungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environ.md) _2017-08-27 03:30:27 (Update)_
+1. [Ajka alumina plant accident:Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/ajka-alumina-plant-accident-phungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environm.md) _2018-02-06 13:49:20 (First version)_
+2. [Ajka alumina plant accident:: Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/ajka-alumina-plant-accident-hungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environ.md) _2018-02-06 13:49:20 (Update)_
 2. [Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/hungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environment-minister-describes-as-its.md) _(Current version)_
 
 ### Related:

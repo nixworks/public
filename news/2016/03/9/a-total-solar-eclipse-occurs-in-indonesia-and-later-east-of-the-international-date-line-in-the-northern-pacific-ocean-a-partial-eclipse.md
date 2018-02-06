@@ -16,7 +16,7 @@ A solar eclipse sweeps across the vast Indonesian archipelago, with sky gazers t
 
 ### Changes:
 
-1. [Solar eclipse of March 9, 2016: A total solar eclipse occurs in Indonesia, and later, east of the international date line, in the northern Pacific Ocean. A partial eclipse occurs in northern Australia, South-East Asia, and the Pacific. ](/news/2016/03/9/solar-eclipse-of-march-9-2016-a-total-solar-eclipse-occurs-in-indonesia-and-later-east-of-the-international-date-line-in-the-northern-p.md) _2017-08-27 03:45:11 (First version)_
+1. [Solar eclipse of March 9, 2016: A total solar eclipse occurs in Indonesia, and later, east of the international date line, in the northern Pacific Ocean. A partial eclipse occurs in northern Australia, South-East Asia, and the Pacific. ](/news/2016/03/9/solar-eclipse-of-march-9-2016-a-total-solar-eclipse-occurs-in-indonesia-and-later-east-of-the-international-date-line-in-the-northern-p.md) _2018-02-06 13:49:28 (First version)_
 1. [A total solar eclipse occurs in Indonesia, and later, east of the international date line, in the northern Pacific Ocean. A partial eclipse occurs in northern Australia, South-East Asia, and the Pacific. ](/news/2016/03/9/a-total-solar-eclipse-occurs-in-indonesia-and-later-east-of-the-international-date-line-in-the-northern-pacific-ocean-a-partial-eclipse.md) _(Current version)_
 
 ### Related:

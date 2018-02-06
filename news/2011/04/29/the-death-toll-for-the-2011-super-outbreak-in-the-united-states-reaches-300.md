@@ -16,8 +16,8 @@ A horrific storm system that killed more than 290 people in seven states across 
 
 ### Changes:
 
-1. [The death toll for the April 25-28, 2011 tornado outbreak in the United States reaches 300. ](/news/2011/04/29/the-death-toll-for-the-april-25-28-2011-tornado-outbreak-in-the-united-states-reaches-300.md) _2017-08-27 03:33:05 (First version)_
-2. [The death toll for the April 25-28, 2011 tornado outbreak in the United States reaches 300. ](/news/2011/04/29/the-death-toll-for-the-april-25a28-2011-tornado-outbreak-in-the-united-states-reaches-300.md) _2017-10-17 03:38:17 (Update)_
+1. [The death toll for the April 25-28, 2011 tornado outbreak in the United States reaches 300. ](/news/2011/04/29/the-death-toll-for-the-april-25a28-2011-tornado-outbreak-in-the-united-states-reaches-300.md) _2018-02-06 13:49:22 (First version)_
+2. [The death toll for the April 25-28, 2011 tornado outbreak in the United States reaches 300. ](/news/2011/04/29/the-death-toll-for-the-april-25-28-2011-tornado-outbreak-in-the-united-states-reaches-300.md) _2018-02-06 13:49:22 (Update)_
 2. [The death toll for the 2011 Super Outbreak in the United States reaches 300. ](/news/2011/04/29/the-death-toll-for-the-2011-super-outbreak-in-the-united-states-reaches-300.md) _(Current version)_
 
 ### Related:

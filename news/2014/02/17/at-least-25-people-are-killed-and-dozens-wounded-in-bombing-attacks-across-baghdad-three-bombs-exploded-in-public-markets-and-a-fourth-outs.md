@@ -16,8 +16,8 @@ Three bombs targeted public markets and a Shiite mosque, the police said, the la
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/iraqi-insurgency-post-u-s-withdrawal-pat-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-exp.md) _2017-08-25 03:40:03 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/iraqi-insurgency-post-u-s-withdrawal-at-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-ex.md) _2017-08-27 03:40:21 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/iraqi-insurgency-post-u-s-withdrawal-pat-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-exp.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/iraqi-insurgency-post-u-s-withdrawal-at-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-ex.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/at-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-exploded-in-public-markets-and-a-fourth-outs.md) _(Current version)_
 
 ### Related:

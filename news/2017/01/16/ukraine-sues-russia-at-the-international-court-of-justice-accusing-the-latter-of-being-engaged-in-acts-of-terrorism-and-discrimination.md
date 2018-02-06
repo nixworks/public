@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-
 
 ### Changes:
 
-1. [War in Donbass: Russia-Ukraine relations: Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/war-in-donbass-russia-ukraine-relations-ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged.md) _2017-08-27 03:47:37 (First version)_
+1. [War in Donbass: Russia-Ukraine relations: Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/war-in-donbass-russia-ukraine-relations-ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged.md) _2018-02-06 13:49:30 (First version)_
 1. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _(Current version)_
 
 ### Related:

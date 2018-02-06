@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/9/index.html)  [JSON](2005/12/9/index.json)  [XML](2005/
 
 ##### Viacom
 ### [ Viacom's Paramount Pictures agrees to buy the DreamWorks SKG company founded by Steven Spielberg, Jeffrey Katzenberg and David Geffen for $1.6 billion. ](/news/2005/12/9/viacom-s-paramount-pictures-agrees-to-buy-the-dreamworks-skg-company-founded-by-steven-spielberg-jeffrey-katzenberg-and-david-geffen-for.md)
-_Context: David Geffen, Paramount Pictures, Jeffrey Katzenberg, Steven Spielberg, Viacom, DreamWorks SKG_
+_Context: DreamWorks SKG, Jeffrey Katzenberg, Viacom, David Geffen, Paramount Pictures, Steven Spielberg_
 
 ##### FIFA
 ### [ The Groups for the 2006 FIFA World Cup to be held in Germany are finalized. ](/news/2005/12/9/the-groups-for-the-2006-fifa-world-cup-to-be-held-in-germany-are-finalized.md)
@@ -13,15 +13,15 @@ _Context: FIFA, World Cup, German_
 
 ##### George W. Bush
 ### [ The Bush administration summons Canadian ambassador Frank McKenna, and is expected to formally lodge a complaint after Prime Minister Paul Martin's criticism on December 7 of the United States at the Montreal conference on climate change. U.S.-Canada relations are already a major issue in the upcoming Canadian federal election. ](/news/2005/12/9/the-bush-administration-summons-canadian-ambassador-frank-mckenna-and-is-expected-to-formally-lodge-a-complaint-after-prime-minister-paul.md)
-_Context: ambassador, Frank McKenna, U.S.-Canada relations, United Nations Climate Change Conference, Prime Minister of Canada, Paul Martin, Canadian, United States, criticism on December 7, Canadian federal election, 2006, George W. Bush_
+_Context: ambassador, criticism on December 7, Canadian federal election, 2006, Prime Minister of Canada, Paul Martin, U.S.-Canada relations, United Nations Climate Change Conference, George W. Bush, United States, Frank McKenna, Canadian_
 
 ##### massacres
 ### [ Reports emerge of an alleged massacre of protesting farmers and fishermen in Dongzhou, Guangdong, China by police forces. The protesters are believed to be upset with government plans to build a new power plant in the area and infill part of the bay. The death toll, pegged at 20, is the worst act of violence by Chinese security forces since the Tiananmen Square protests of 1989. The town is reportedly still sealed off by government forces. ](/news/2005/12/9/reports-emerge-of-an-alleged-massacre-of-protesting-farmers-and-fishermen-in-dongzhou-guangdong-china-by-police-forces-the-protesters-ar.md)
-_Context: China, massacres, Tiananmen Square protests of 1989, infill, Dongzhou, Guangdong, violence, protesting farmers and fishermen_
+_Context: infill, Dongzhou, Guangdong, China, Tiananmen Square protests of 1989, massacres, violence, protesting farmers and fishermen_
 
 ##### Routemaster
 ### [ The last London Routemaster double-decker bus makes its final journey on route 159 before being withdrawn from general service. ](/news/2005/12/9/the-last-london-routemaster-double-decker-bus-makes-its-final-journey-on-route-159-before-being-withdrawn-from-general-service.md)
-_Context: route 159, Routemaster_
+_Context: Routemaster, route 159_
 
 ## [Previous Day...](/news/2005/12/8/index.md)
 

@@ -17,7 +17,7 @@ SAUDI warplanes have been accused of “deliberately” striking Iran’s embass
 
 ### Changes:
 
-1. [Iran-Saudi Arabia relations: Iran bans imports of all products made in Saudi Arabia and reiterates that the ban on Iranians traveling to the Saudi holy city of Mecca remains in place.](/news/2016/01/7/iran-saudi-arabia-relations-iran-bans-imports-of-all-products-made-in-saudi-arabia-and-reiterates-that-the-ban-on-iranians-traveling-to-t.md) _2017-08-27 03:44:37 (First version)_
+1. [Iran-Saudi Arabia relations: Iran bans imports of all products made in Saudi Arabia and reiterates that the ban on Iranians traveling to the Saudi holy city of Mecca remains in place.](/news/2016/01/7/iran-saudi-arabia-relations-iran-bans-imports-of-all-products-made-in-saudi-arabia-and-reiterates-that-the-ban-on-iranians-traveling-to-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran bans imports of all products made in Saudi Arabia and reiterates that the ban on Iranians traveling to the Saudi holy city of Mecca remains in place.](/news/2016/01/7/iran-bans-imports-of-all-products-made-in-saudi-arabia-and-reiterates-that-the-ban-on-iranians-traveling-to-the-saudi-holy-city-of-mecca-rem.md) _(Current version)_
 
 ### Related:

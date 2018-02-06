@@ -19,7 +19,7 @@ Syrian rebels including jihadists counter-attacked the army and its allies on Fr
 
 ### Changes:
 
-1. [Aleppo offensive: More than 15 civilians are reported killed and another 100 injured as Syria's Army of Conquest and other jihadist rebels launch an offensive to break the government-led siege on eastern Aleppo. ](/news/2016/10/28/aleppo-offensive-more-than-15-civilians-are-reported-killed-and-another-100-injured-as-syria-s-army-of-conquest-and-other-jihadist-rebels-l.md) _2017-08-27 03:47:08 (First version)_
+1. [Aleppo offensive: More than 15 civilians are reported killed and another 100 injured as Syria's Army of Conquest and other jihadist rebels launch an offensive to break the government-led siege on eastern Aleppo. ](/news/2016/10/28/aleppo-offensive-more-than-15-civilians-are-reported-killed-and-another-100-injured-as-syria-s-army-of-conquest-and-other-jihadist-rebels-l.md) _2018-02-06 13:49:29 (First version)_
 1. [More than 15 civilians are reported killed and another 100 injured as Syria's Army of Conquest and other jihadist rebels launch an offensive to break the government-led siege on eastern Aleppo. ](/news/2016/10/28/more-than-15-civilians-are-reported-killed-and-another-100-injured-as-syria-s-army-of-conquest-and-other-jihadist-rebels-launch-an-offensive.md) _(Current version)_
 
 ### Related:

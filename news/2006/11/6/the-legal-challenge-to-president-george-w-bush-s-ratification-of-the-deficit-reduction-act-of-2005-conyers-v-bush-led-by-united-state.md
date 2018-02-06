@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [ The legal challenge to President George W. Bush's ratification of the Deficit Reduction Act of 2005 (''Conyers v. Bush'') led by United States Congressman and member of the House Judiciary Committee John Conyers (together with ten other representatives of the House of Representatives) is dismissed due to lack of standing ](/news/2006/11/6/the-legal-challenge-to-president-george-w-bush-s-ratification-of-the-deficit-reduction-act-of-2005-conyers-v-bush-led-by-united-sta.md) _2017-08-25 03:18:44 (First version)_
+1. [ The legal challenge to President George W. Bush's ratification of the Deficit Reduction Act of 2005 (''Conyers v. Bush'') led by United States Congressman and member of the House Judiciary Committee John Conyers (together with ten other representatives of the House of Representatives) is dismissed due to lack of standing ](/news/2006/11/6/the-legal-challenge-to-president-george-w-bush-s-ratification-of-the-deficit-reduction-act-of-2005-conyers-v-bush-led-by-united-sta.md) _2018-02-06 13:49:17 (First version)_
 1. [ The legal challenge to President George W. Bush's ratification of the Deficit Reduction Act of 2005 ("Conyers v. Bush") led by United States Congressman and member of the House Judiciary Committee John Conyers (together with ten other representatives of the House of Representatives) is dismissed due to lack of standing ](/news/2006/11/6/the-legal-challenge-to-president-george-w-bush-s-ratification-of-the-deficit-reduction-act-of-2005-conyers-v-bush-led-by-united-state.md) _(Current version)_
 
 ### Related:

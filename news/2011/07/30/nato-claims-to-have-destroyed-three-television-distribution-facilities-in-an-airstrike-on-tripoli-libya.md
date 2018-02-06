@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/07/30/nato-claims-to-have-destroyed-three-television-
 
 ### Changes:
 
-1. [Libyan Civil War:(NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/libyan-civil-war-p-nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md) _2017-08-25 03:33:54 (First version)_
-2. [Libyan Civil War:: (NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/libyan-civil-war-nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md) _2017-08-27 03:34:02 (Update)_
+1. [Libyan Civil War:(NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/libyan-civil-war-p-nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: (NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/libyan-civil-war-nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md) _2018-02-06 13:49:22 (Update)_
 2. [(NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md) _(Current version)_
 
 ### Related:

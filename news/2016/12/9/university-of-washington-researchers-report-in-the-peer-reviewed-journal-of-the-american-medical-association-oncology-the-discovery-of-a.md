@@ -18,7 +18,7 @@ Scientists examining the jawbone of a saber-toothed, mammal-like beast that prow
 
 ### Changes:
 
-1. [University of Washington researchers report, in the peer-reviewed ''Journal of the American Medical Association Oncology'', the discovery of an odontoma -- a ''benign tumor'' -- in the fossil of a 255-million-year old Tanzanian mammal-like saber-toothed gorgonopsia. This is one of the oldest-known tumors ever found. ](/news/2016/12/9/university-of-washington-researchers-report-in-the-peer-reviewed-journal-of-the-american-medical-association-oncology-the-discovery-of.md) _2017-08-25 03:47:00 (First version)_
+1. [University of Washington researchers report, in the peer-reviewed ''Journal of the American Medical Association Oncology'', the discovery of an odontoma -- a ''benign tumor'' -- in the fossil of a 255-million-year old Tanzanian mammal-like saber-toothed gorgonopsia. This is one of the oldest-known tumors ever found. ](/news/2016/12/9/university-of-washington-researchers-report-in-the-peer-reviewed-journal-of-the-american-medical-association-oncology-the-discovery-of.md) _2018-02-06 13:49:30 (First version)_
 1. [University of Washington researchers report, in the peer-reviewed "Journal of the American Medical Association Oncology", the discovery of an odontoma -- a "benign tumor" -- in the fossil of a 255-million-year old Tanzanian mammal-like saber-toothed gorgonopsia. This is one of the oldest-known tumors ever found. ](/news/2016/12/9/university-of-washington-researchers-report-in-the-peer-reviewed-journal-of-the-american-medical-association-oncology-the-discovery-of-a.md) _(Current version)_
 
 ### Related:

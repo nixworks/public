@@ -16,7 +16,7 @@ The British Library raises £9m to buy the 7th Century St Cuthbert Gospel - the 
 
 ### Changes:
 
-1. [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the PS9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-aps9-million-raised-for-purchase-by-the-britis.md) _2017-08-25 03:35:31 (First version)_
+1. [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the PS9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-aps9-million-raised-for-purchase-by-the-britis.md) _2018-02-06 13:49:23 (First version)_
 1. [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the GBP9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-agbp9-million-raised-for-purchase-by-the-brit.md) _(Current version)_
 
 ### Related:

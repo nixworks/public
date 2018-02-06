@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/01/18/nasaas-cassini-spacecraft-observations-show-tha
 
 ### Changes:
 
-1. [NASA-s Cassini spacecraft observations show that the craters on Saturn-s moon Titan are disappearing. ](/news/2013/01/18/nasa-s-cassini-spacecraft-observations-show-that-the-craters-on-saturn-s-moon-titan-are-disappearing.md) _2017-08-27 03:37:27 (First version)_
+1. [NASA-s Cassini spacecraft observations show that the craters on Saturn-s moon Titan are disappearing. ](/news/2013/01/18/nasa-s-cassini-spacecraft-observations-show-that-the-craters-on-saturn-s-moon-titan-are-disappearing.md) _2018-02-06 13:49:24 (First version)_
 1. [NASA's Cassini spacecraft observations show that the craters on Saturn's moon Titan are disappearing. ](/news/2013/01/18/nasaas-cassini-spacecraft-observations-show-that-the-craters-on-saturnas-moon-titan-are-disappearing.md) _(Current version)_
 
 ### Related:

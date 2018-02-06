@@ -19,7 +19,7 @@ The bodies of at least 200 people were found in a town close to Damascus on Satu
 
 ### Changes:
 
-1. [Syrian civil war: At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/syrian-civil-war-at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposi.md) _2017-08-27 03:36:31 (First version)_
+1. [Syrian civil war: At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/syrian-civil-war-at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposi.md) _2018-02-06 13:49:23 (First version)_
 1. [At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposition.md) _(Current version)_
 
 ### Related:

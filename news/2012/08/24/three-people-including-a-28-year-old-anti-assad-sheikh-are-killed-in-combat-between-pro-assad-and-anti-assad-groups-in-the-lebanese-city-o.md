@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/24/three-people-including-a-28-year-old-anti-assad
 
 ### Changes:
 
-1. [Syrian civil war:Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-pthree-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in-t.md) _2017-08-25 03:36:20 (First version)_
-2. [Syrian civil war:: Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in.md) _2017-08-27 03:36:31 (Update)_
+1. [Syrian civil war:: Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-pthree-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in-t.md) _2018-02-06 13:49:23 (Update)_
 2. [Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in-the-lebanese-city-o.md) _(Current version)_
 
 ### Related:

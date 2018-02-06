@@ -16,7 +16,7 @@ The top U.S. commander for the Iraq and Afghanistan wars said on Tuesday he woul
 
 ### Changes:
 
-1. [ Admiral William Fallon resigns as Commander of the U.S. Central Command due to reports in ''Esquire Magazine'' of disagreement with President George W. Bush over the administration's policy with Iran. ](/news/2008/03/11/admiral-william-fallon-resigns-as-commander-of-the-u-s-central-command-due-to-reports-in-esquire-magazine-of-disagreement-with-preside.md) _2017-08-25 03:21:53 (First version)_
+1. [ Admiral William Fallon resigns as Commander of the U.S. Central Command due to reports in ''Esquire Magazine'' of disagreement with President George W. Bush over the administration's policy with Iran. ](/news/2008/03/11/admiral-william-fallon-resigns-as-commander-of-the-u-s-central-command-due-to-reports-in-esquire-magazine-of-disagreement-with-preside.md) _2018-02-06 13:49:18 (First version)_
 1. [ Admiral William Fallon resigns as Commander of the U.S. Central Command due to reports in "Esquire Magazine" of disagreement with President George W. Bush over the administration's policy with Iran. ](/news/2008/03/11/admiral-william-fallon-resigns-as-commander-of-the-u-s-central-command-due-to-reports-in-esquire-magazine-of-disagreement-with-president.md) _(Current version)_
 
 ### Related:

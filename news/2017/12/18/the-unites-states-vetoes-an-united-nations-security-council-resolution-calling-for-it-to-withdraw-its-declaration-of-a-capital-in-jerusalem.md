@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-secu
 
 ### Changes:
 
-1. [The Unites States vetoes an United Nations Security Council resolution, approved by the other 14 members, calling for the declaration to be withdrawn. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-approved-by-the-other-14-members-calling-for-the-declaration-to-be.md) _2017-12-18 19:30:06 (First version)_
-2. [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-jerusalem-wh.md) _2017-12-18 20:30:06 (Update)_
+1. [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-jerusalem-wh.md) _2018-02-06 13:49:31 (First version)_
+2. [The Unites States vetoes an United Nations Security Council resolution, approved by the other 14 members, calling for the declaration to be withdrawn. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-approved-by-the-other-14-members-calling-for-the-declaration-to-be.md) _2018-02-06 13:49:31 (Update)_
 2. [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md) _(Current version)_
 
 ### Related:

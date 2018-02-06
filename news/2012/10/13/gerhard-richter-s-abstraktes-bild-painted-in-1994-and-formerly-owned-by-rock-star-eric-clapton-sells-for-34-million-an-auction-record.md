@@ -16,7 +16,7 @@ An oil painting by Gerhard Richter owned by Eric Clapton sells for £21m ($34m) 
 
 ### Changes:
 
-1. [Gerhard Richter's ''Abstraktes Bild'', painted in 1994 and formerly owned by rock star Eric Clapton, sells for $34 million - an auction record for a work by a living artist. ](/news/2012/10/13/gerhard-richter-s-abstraktes-bild-painted-in-1994-and-formerly-owned-by-rock-star-eric-clapton-sells-for-34-million-an-auction-reco.md) _2017-08-25 03:36:41 (First version)_
+1. [Gerhard Richter's ''Abstraktes Bild'', painted in 1994 and formerly owned by rock star Eric Clapton, sells for $34 million - an auction record for a work by a living artist. ](/news/2012/10/13/gerhard-richter-s-abstraktes-bild-painted-in-1994-and-formerly-owned-by-rock-star-eric-clapton-sells-for-34-million-an-auction-reco.md) _2018-02-06 13:49:24 (First version)_
 1. [Gerhard Richter's "Abstraktes Bild", painted in 1994 and formerly owned by rock star Eric Clapton, sells for $34 million - an auction record for a work by a living artist. ](/news/2012/10/13/gerhard-richter-s-abstraktes-bild-painted-in-1994-and-formerly-owned-by-rock-star-eric-clapton-sells-for-34-million-an-auction-record.md) _(Current version)_
 
 ### Related:

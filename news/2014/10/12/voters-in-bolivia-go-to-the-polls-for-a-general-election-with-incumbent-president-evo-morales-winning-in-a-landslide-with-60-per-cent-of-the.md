@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general
 
 ### Changes:
 
-1. [Bolivian general election, 2014: Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/bolivian-general-election-2014-voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a.md) _2017-08-27 03:41:23 (First version)_
+1. [Bolivian general election, 2014: Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/bolivian-general-election-2014-voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.md) _(Current version)_
 
 ### Related:

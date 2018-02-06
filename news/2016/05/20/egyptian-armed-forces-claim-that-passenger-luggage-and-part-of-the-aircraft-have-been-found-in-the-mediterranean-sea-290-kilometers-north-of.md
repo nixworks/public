@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-lugg
 
 ### Changes:
 
-1. [Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-290-kilometers-north-o.md) _2017-08-25 03:45:43 (First version)_
-2. [EgyptAir Flight 804: Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptair-flight-804-egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-29.md) _2017-08-27 03:46:04 (Update)_
+1. [Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-290-kilometers-north-o.md) _2018-02-06 13:49:29 (First version)_
+2. [EgyptAir Flight 804: Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptair-flight-804-egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-29.md) _2018-02-06 13:49:29 (Update)_
 2. [Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-290-kilometers-north-of.md) _(Current version)_
 
 ### Related:

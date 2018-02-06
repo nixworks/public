@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more
 
 ### Changes:
 
-1. [ An outbreak of ''E. coli'' bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials.md) _2017-08-25 03:18:53 (First version)_
+1. [ An outbreak of ''E. coli'' bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials.md) _2018-02-06 13:49:17 (First version)_
 1. [ An outbreak of "E. coli" bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials-h.md) _(Current version)_
 
 ### Related:

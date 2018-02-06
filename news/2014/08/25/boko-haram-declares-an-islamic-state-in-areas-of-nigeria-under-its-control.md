@@ -16,8 +16,8 @@ Militant group Boko Haram says it has set up an Islamic state in towns and villa
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Boko Haram declares an Islamic state in areas of Nigeria under its control. ](/news/2014/08/25/islamist-insurgency-in-nigeria-pboko-haram-declares-an-islamic-state-in-areas-of-nigeria-under-its-control.md) _2017-08-25 03:40:53 (First version)_
-2. [Islamist insurgency in Nigeria:: Boko Haram declares an Islamic state in areas of Nigeria under its control. ](/news/2014/08/25/islamist-insurgency-in-nigeria-boko-haram-declares-an-islamic-state-in-areas-of-nigeria-under-its-control.md) _2017-08-27 03:41:11 (Update)_
+1. [Islamist insurgency in Nigeria:Boko Haram declares an Islamic state in areas of Nigeria under its control. ](/news/2014/08/25/islamist-insurgency-in-nigeria-pboko-haram-declares-an-islamic-state-in-areas-of-nigeria-under-its-control.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram declares an Islamic state in areas of Nigeria under its control. ](/news/2014/08/25/islamist-insurgency-in-nigeria-boko-haram-declares-an-islamic-state-in-areas-of-nigeria-under-its-control.md) _2018-02-06 13:49:26 (Update)_
 2. [Boko Haram declares an Islamic state in areas of Nigeria under its control. ](/news/2014/08/25/boko-haram-declares-an-islamic-state-in-areas-of-nigeria-under-its-control.md) _(Current version)_
 
 ### Related:

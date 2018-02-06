@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/14/seven-yemeni-army-soldiers-and-16-al-qaeda-in-t
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/al-qaeda-insurgency-in-yemen-pseven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the.md) _2017-08-25 03:40:24 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/al-qaeda-insurgency-in-yemen-seven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the.md) _2017-08-27 03:40:42 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/al-qaeda-insurgency-in-yemen-seven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/al-qaeda-insurgency-in-yemen-pseven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the.md) _2018-02-06 13:49:26 (Update)_
 2. [Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/seven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the-town-of-azan-in-shabwa-provinc.md) _(Current version)_
 
 ### Related:

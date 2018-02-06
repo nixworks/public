@@ -16,7 +16,7 @@ American army private is free after serving seven years of 35-year sentence for 
 
 ### Changes:
 
-1. [Former United States Army soldier Chelsea Manning is released from prison after serving seven years of her 35-year sentence. ](/news/2017/05/17/former-united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-of-her-35-year-sentence.md) _2017-05-20 20:30:06 (First version)_
+1. [Former United States Army soldier Chelsea Manning is released from prison after serving seven years of her 35-year sentence. ](/news/2017/05/17/former-united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-of-her-35-year-sentence.md) _2018-02-06 13:49:30 (First version)_
 1. [United States Army soldier Chelsea Manning is released from prison after serving seven years. Manning was sentenced by a U.S. military court to 35 years in prison, but her sentence was commuted by President Barack Obama. ](/news/2017/05/17/united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-manning-was-sentenced-by-a-u-s-military-court.md) _(Current version)_
 
 ### Related:

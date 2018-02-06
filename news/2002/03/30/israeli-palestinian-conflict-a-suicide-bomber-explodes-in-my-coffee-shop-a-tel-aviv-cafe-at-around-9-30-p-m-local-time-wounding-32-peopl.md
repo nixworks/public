@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/03/30/israeli-palestinian-conflict-a-suicide-bomber-e
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: A suicide bomber explodes in My Coffee Shop, a Tel Aviv caf at around {{Nowrap|9:30 p.m.}} local time, wounding 32 people.](/news/2002/03/30/israeli-palestinian-conflict-a-suicide-bomber-explodes-in-my-coffee-shop-a-tel-aviv-cafe-at-around-nowrap-9-30-p-m-local-time-woundi.md) _2017-05-01 03:15:13 (First version)_
+1. [Israeli-Palestinian conflict: A suicide bomber explodes in My Coffee Shop, a Tel Aviv caf at around {{Nowrap|9:30 p.m.}} local time, wounding 32 people.](/news/2002/03/30/israeli-palestinian-conflict-a-suicide-bomber-explodes-in-my-coffee-shop-a-tel-aviv-cafe-at-around-nowrap-9-30-p-m-local-time-woundi.md) _2018-02-06 13:49:15 (First version)_
 1. [Israeli-Palestinian conflict: A suicide bomber explodes in My Coffee Shop, a Tel Aviv caf at around 9:30 p.m. local time, wounding 32 people.](/news/2002/03/30/israeli-palestinian-conflict-a-suicide-bomber-explodes-in-my-coffee-shop-a-tel-aviv-cafe-at-around-9-30-p-m-local-time-wounding-32-peopl.md) _(Current version)_
 
 ### Related:

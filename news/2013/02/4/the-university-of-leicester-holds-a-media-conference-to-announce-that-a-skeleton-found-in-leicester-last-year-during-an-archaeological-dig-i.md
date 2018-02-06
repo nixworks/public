@@ -18,7 +18,7 @@ An image of a skull which historians believe could be that of Richard III is rel
 
 ### Changes:
 
-1. [Exhumation of Richard III of England: The University of Leicester holds a media conference to announce that a skeleton found in Leicester last year during an archaelogical dig is that of former King Richard III of England. ](/news/2013/02/4/exhumation-of-richard-iii-of-england-the-university-of-leicester-holds-a-media-conference-to-announce-that-a-skeleton-found-in-leicester-la.md) _2017-10-17 03:43:33 (First version)_
+1. [Exhumation of Richard III of England: The University of Leicester holds a media conference to announce that a skeleton found in Leicester last year during an archaelogical dig is that of former King Richard III of England. ](/news/2013/02/4/exhumation-of-richard-iii-of-england-the-university-of-leicester-holds-a-media-conference-to-announce-that-a-skeleton-found-in-leicester-la.md) _2018-02-06 13:49:24 (First version)_
 1. [The University of Leicester holds a media conference to announce that a skeleton found in Leicester last year during an archaeological dig is that of former King Richard III of England. ](/news/2013/02/4/the-university-of-leicester-holds-a-media-conference-to-announce-that-a-skeleton-found-in-leicester-last-year-during-an-archaeological-dig-i.md) _(Current version)_
 
 ### Related:

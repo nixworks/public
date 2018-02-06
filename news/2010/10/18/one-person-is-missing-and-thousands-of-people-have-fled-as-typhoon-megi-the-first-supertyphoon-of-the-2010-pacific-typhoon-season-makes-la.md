@@ -18,8 +18,8 @@ A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and
 
 ### Changes:
 
-1. [Typhoon Megi:One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-pone-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-se.md) _2017-08-25 03:30:34 (First version)_
-2. [Typhoon Megi:: One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-one-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-s.md) _2017-08-27 03:30:40 (Update)_
+1. [Typhoon Megi:One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-pone-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-se.md) _2018-02-06 13:49:20 (First version)_
+2. [Typhoon Megi:: One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-one-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-s.md) _2018-02-06 13:49:20 (Update)_
 2. [One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/one-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-season-makes-la.md) _(Current version)_
 
 ### Related:

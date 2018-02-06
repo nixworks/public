@@ -17,9 +17,9 @@ It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage stat
 
 ### Changes:
 
-1. [UNESCO declares the Lake District in North West England and Iran's City of Yazd as a world heritage site. ](/news/2017/07/9/unesco-declares-the-lake-district-in-north-west-england-and-iran-s-city-of-yazd-as-a-world-heritage-site.md) _2017-07-09 22:30:06 (First version)_
-2. [UNESCO declares the Lake District in North West England and Iran's City of Yazd as world heritage sites. ](/news/2017/07/9/unesco-declares-the-lake-district-in-north-west-england-and-iran-s-city-of-yazd-as-world-heritage-sites.md) _2017-07-11 12:30:06 (Update)_
-3. [World heritage sites: UNESCO declares eight new sites as world heritage sites; including Lake District in North West England and Iran's Historic City of Yazd. ](/news/2017/07/9/world-heritage-sites-unesco-declares-eight-new-sites-as-world-heritage-sites-including-lake-district-in-north-west-england-and-iran-s-hist.md) _2017-08-27 03:48:38 (Update)_
+1. [World heritage sites: UNESCO declares eight new sites as world heritage sites; including Lake District in North West England and Iran's Historic City of Yazd. ](/news/2017/07/9/world-heritage-sites-unesco-declares-eight-new-sites-as-world-heritage-sites-including-lake-district-in-north-west-england-and-iran-s-hist.md) _2018-02-06 13:49:31 (First version)_
+2. [UNESCO declares the Lake District in North West England and Iran's City of Yazd as world heritage sites. ](/news/2017/07/9/unesco-declares-the-lake-district-in-north-west-england-and-iran-s-city-of-yazd-as-world-heritage-sites.md) _2018-02-06 13:49:31 (Update)_
+3. [UNESCO declares the Lake District in North West England and Iran's City of Yazd as a world heritage site. ](/news/2017/07/9/unesco-declares-the-lake-district-in-north-west-england-and-iran-s-city-of-yazd-as-a-world-heritage-site.md) _2018-02-06 13:49:31 (Update)_
 3. [UNESCO declares eight new sites as world heritage sites; including Lake District in North West England and Iran's Historic City of Yazd. ](/news/2017/07/9/unesco-declares-eight-new-sites-as-world-heritage-sites-including-lake-district-in-north-west-england-and-iran-s-historic-city-of-yazd.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/11/a-gunfight-and-two-bombings-leave-at-least-15-m
 
 ### Changes:
 
-1. [War in North-West Pakistan: A gunfight and two bombings leave at least 15 militants and 5 soldiers dead. ](/news/2014/11/11/war-in-north-west-pakistan-a-gunfight-and-two-bombings-leave-at-least-15-militants-and-5-soldiers-dead.md) _2017-08-27 03:41:29 (First version)_
+1. [War in North-West Pakistan: A gunfight and two bombings leave at least 15 militants and 5 soldiers dead. ](/news/2014/11/11/war-in-north-west-pakistan-a-gunfight-and-two-bombings-leave-at-least-15-militants-and-5-soldiers-dead.md) _2018-02-06 13:49:26 (First version)_
 1. [A gunfight and two bombings leave at least 15 militants and 5 soldiers dead. ](/news/2014/11/11/a-gunfight-and-two-bombings-leave-at-least-15-militants-and-5-soldiers-dead.md) _(Current version)_
 
 ### Related:

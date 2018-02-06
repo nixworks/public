@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/12/1/the-philippine-department-of-health-temporarily-
 
 ### Changes:
 
-1. [Philippine Department of Health temporarily suspends the program after a Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/philippine-department-of-health-temporarily-suspends-the-program-after-a-dengvaxia-vaccine-maker-sanofi-pasteur-made-a-statement-that-its-pr.md) _2017-12-01 17:30:04 (First version)_
+1. [Philippine Department of Health temporarily suspends the program after a Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/philippine-department-of-health-temporarily-suspends-the-program-after-a-dengvaxia-vaccine-maker-sanofi-pasteur-made-a-statement-that-its-pr.md) _2018-02-06 13:49:31 (First version)_
 1. [The Philippine Department of Health temporarily suspends a school-based dengue vaccination program after Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/the-philippine-department-of-health-temporarily-suspends-a-school-based-dengue-vaccination-program-after-dengvaxia-vaccine-maker-sanofi-past.md) _(Current version)_
 
 ### Related:

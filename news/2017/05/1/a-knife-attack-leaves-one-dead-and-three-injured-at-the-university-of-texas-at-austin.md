@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured
 
 ### Changes:
 
-1. [A stabbing leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _2017-05-02 14:30:08 (First version)_
+1. [A stabbing leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _2018-02-06 13:49:30 (First version)_
 1. [A knife attack leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _(Current version)_
 
 ### Related:

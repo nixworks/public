@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-n
 
 ### Changes:
 
-1. [ Newly elected President Evo Morales orders the nationalization of Bolivia's gas industry. This process is a result of his plan to nationalize major industries, he said in his election campaign. Further nationalizations are planned in forestry and mining. ](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-nationalization-of-bolivia-s-gas-industry-this-process-is-a-result-of-his-plan-to-national.md) _2017-08-25 03:17:35 (First version)_
+1. [ Newly elected President Evo Morales orders the nationalization of Bolivia's gas industry. This process is a result of his plan to nationalize major industries, he said in his election campaign. Further nationalizations are planned in forestry and mining. ](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-nationalization-of-bolivia-s-gas-industry-this-process-is-a-result-of-his-plan-to-national.md) _2018-02-06 13:49:17 (First version)_
 1. [ Newly elected President Evo Morales orders the nationalization of Bolivia's gas industry. This process is a result of his plan to nationalize major industries, he said in his election campaign. Further nationalizations are planned in forestry and mining. ](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-nationalization-of-bolivia-s-gas-industry-this-process-is-a-result-of-his-plan-to-nationali.md) _(Current version)_
 
 ### Related:

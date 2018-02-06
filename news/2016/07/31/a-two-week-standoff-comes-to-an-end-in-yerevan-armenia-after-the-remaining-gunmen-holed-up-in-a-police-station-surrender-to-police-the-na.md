@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-
 
 ### Changes:
 
-1. [2016 Yerevan hostage crisis: A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/2016-yerevan-hostage-crisis-a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-statio.md) _2017-08-27 03:46:34 (First version)_
+1. [2016 Yerevan hostage crisis: A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/2016-yerevan-hostage-crisis-a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-statio.md) _2018-02-06 13:49:29 (First version)_
 1. [A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-station-surrender-to-police-the-na.md) _(Current version)_
 
 ### Related:

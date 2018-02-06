@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/24/a-suicide-bomber-strikes-a-pakistani-military-c
 
 ### Changes:
 
-1. [War on Terror:A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/war-on-terror-pa-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-sold.md) _2017-08-25 03:38:00 (First version)_
-2. [War on Terror:: A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/war-on-terror-a-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-sol.md) _2017-08-27 03:38:11 (Update)_
+1. [War on Terror:A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/war-on-terror-pa-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-sold.md) _2018-02-06 13:49:24 (First version)_
+2. [War on Terror:: A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/war-on-terror-a-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-sol.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/a-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-soldiers.md) _(Current version)_
 
 ### Related:

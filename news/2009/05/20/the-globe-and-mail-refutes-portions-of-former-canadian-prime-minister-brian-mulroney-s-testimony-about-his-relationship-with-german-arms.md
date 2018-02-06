@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-c
 
 ### Changes:
 
-1. [ ''The Globe and Mail'' refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arm.md) _2017-08-25 03:24:38 (First version)_
+1. [ ''The Globe and Mail'' refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arm.md) _2018-02-06 13:49:19 (First version)_
 1. [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md) _(Current version)_
 
 ### Related:

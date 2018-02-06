@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-presi
 
 ### Changes:
 
-1. [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise a bilateral treaty which caps North Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-a-bilateral-treaty-which-caps-north-korea-s-missile-devel.md) _2017-09-02 17:30:05 (First version)_
+1. [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise a bilateral treaty which caps North Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-a-bilateral-treaty-which-caps-north-korea-s-missile-devel.md) _2018-02-06 13:49:31 (First version)_
 1. [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise the South Korea Ballistic Missile Range Guidelines which caps South Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-the-south-korea-ballistic-missile-range-guidelines-which.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Scientists have added another dinosaur species to the prehistoric catalog, and t
 
 ### Changes:
 
-1. [ A new species of horned dinosaur, ''Machairoceratops cronusi'', thought to have lived about 77 million years ago, is discovered in southern Utah. ](/news/2016/05/19/a-new-species-of-horned-dinosaur-machairoceratops-cronusi-thought-to-have-lived-about-77-million-years-ago-is-discovered-in-souther.md) _2017-08-25 03:45:41 (First version)_
+1. [ A new species of horned dinosaur, ''Machairoceratops cronusi'', thought to have lived about 77 million years ago, is discovered in southern Utah. ](/news/2016/05/19/a-new-species-of-horned-dinosaur-machairoceratops-cronusi-thought-to-have-lived-about-77-million-years-ago-is-discovered-in-souther.md) _2018-02-06 13:49:29 (First version)_
 1. [ A new species of horned dinosaur, "Machairoceratops cronusi", thought to have lived about 77 million years ago, is discovered in southern Utah. ](/news/2016/05/19/a-new-species-of-horned-dinosaur-machairoceratops-cronusi-thought-to-have-lived-about-77-million-years-ago-is-discovered-in-southern-u.md) _(Current version)_
 
 ### Related:

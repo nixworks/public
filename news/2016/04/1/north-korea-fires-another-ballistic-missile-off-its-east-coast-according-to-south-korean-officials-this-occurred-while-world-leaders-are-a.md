@@ -17,7 +17,7 @@ Ballistic missile fired from site in the east, says South Korea, in the middle o
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea fires another ballistic missile off its east coast, according to South Korean officials. This occurred while world leaders are attending the annual Nuclear Security Summit in Washington, D.C., where North Korea is on the agenda for discussion. ](/news/2016/04/1/north-korea-and-weapons-of-mass-destruction-north-korea-fires-another-ballistic-missile-off-its-east-coast-according-to-south-korean-offic.md) _2017-08-27 03:45:27 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea fires another ballistic missile off its east coast, according to South Korean officials. This occurred while world leaders are attending the annual Nuclear Security Summit in Washington, D.C., where North Korea is on the agenda for discussion. ](/news/2016/04/1/north-korea-and-weapons-of-mass-destruction-north-korea-fires-another-ballistic-missile-off-its-east-coast-according-to-south-korean-offic.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea fires another ballistic missile off its east coast, according to South Korean officials. This occurred while world leaders are attending the annual Nuclear Security Summit in Washington, D.C., where North Korea is on the agenda for discussion. ](/news/2016/04/1/north-korea-fires-another-ballistic-missile-off-its-east-coast-according-to-south-korean-officials-this-occurred-while-world-leaders-are-a.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referend
 
 ### Changes:
 
-1. [Hungarian migrant quota referendum, 2016: Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/hungarian-migrant-quota-referendum-2016-voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-q.md) _2017-08-27 03:46:56 (First version)_
+1. [Hungarian migrant quota referendum, 2016: Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/hungarian-migrant-quota-referendum-2016-voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-q.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-quotas-on-relocating-migrants-while-an-ove.md) _(Current version)_
 
 ### Related:

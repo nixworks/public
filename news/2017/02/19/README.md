@@ -21,11 +21,11 @@ MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces kil
 
 ##### Kraft Heinz
 ### [Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. ](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.md)
-_Context: Kraft Heinz, $, Unilever_
+_Context: $, Unilever, Kraft Heinz_
 
 ##### 2017 Afghanistan avalanches
 ### [At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-hit-the-country.md)
-_Context: 2017 Afghanistan avalanches, Afghanistan_
+_Context: Afghanistan, 2017 Afghanistan avalanches_
 
 ##### Mongolia's economy
 ### [An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-international-partners-on.md)
@@ -33,7 +33,7 @@ _Context: 2017 Afghanistan avalanches, Afghanistan_
 
 ##### Ecuadorian general election, 2017
 ### [Voters head to the polls to select the National Assembly and a new president with former vice-president Lenin Moreno facing off against former bank president Guillermo Lasso, and six other opposition candidates. There will be an April 2 runoff unless the leader receives 40 percent of the votes and is at least 10 percentage points ahead of the others. In addition, there's a tax haven referendum. ](/news/2017/02/19/voters-head-to-the-polls-to-select-the-national-assembly-and-a-new-president-with-former-vice-president-lenan-moreno-facing-off-against-for.md)
-_Context: Lenin Moreno, Guillermo Lasso, National Assembly, tax haven referendum, Ecuadorian general election, 2017_
+_Context: tax haven referendum, Guillermo Lasso, Lenin Moreno, Ecuadorian general election, 2017, National Assembly_
 
 ##### South Sudanese Civil War
 ### [Two top level officials overseeing South Sudan's military courts resign from their posts, accusing the government of interfering in the court's moves to discipline soldiers accused of rape and murder. The resignations come less than a week after a military general and the Minister of Labour resigned in protest of President Salva Kiir Mayardit's alleged approval of atrocities against civilians not belonging to the Dinka group. ](/news/2017/02/19/two-top-level-officials-overseeing-south-sudan-s-military-courts-resign-from-their-posts-accusing-the-government-of-interfering-in-the-cour.md)
@@ -45,7 +45,7 @@ _Context: Gomel, 2017 Belarusian protests, second city_
 
 ##### SpaceX CRS-10
 ### [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md)
-_Context: SpaceX CRS-10, SpaceX, Dragon cargo capsule, Kennedy Space Center, Falcon 9, International Space Station_
+_Context: SpaceX CRS-10, Dragon cargo capsule, Kennedy Space Center, Falcon 9, International Space Station, SpaceX_
 
 ## [Previous Day...](/news/2017/02/18/index.md)
 

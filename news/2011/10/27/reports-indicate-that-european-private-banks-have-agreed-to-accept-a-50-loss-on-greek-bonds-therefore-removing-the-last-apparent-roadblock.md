@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/10/27/reports-indicate-that-european-private-banks-ha
 
 ### Changes:
 
-1. [Eurozone rescue deal:Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/eurozone-rescue-deal-preports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the-l.md) _2017-08-25 03:34:23 (First version)_
-2. [Eurozone rescue deal:: Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/eurozone-rescue-deal-reports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the.md) _2017-08-27 03:34:32 (Update)_
+1. [Eurozone rescue deal:: Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/eurozone-rescue-deal-reports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the.md) _2018-02-06 13:49:23 (First version)_
+2. [Eurozone rescue deal:Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/eurozone-rescue-deal-preports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the-l.md) _2018-02-06 13:49:23 (Update)_
 2. [Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/reports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the-last-apparent-roadblock.md) _(Current version)_
 
 ### Related:

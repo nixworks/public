@@ -18,8 +18,8 @@ Protesters loyal to a Shiite cleric breached Baghdad&#x27;s Green Zone Saturday,
 
 ### Changes:
 
-1. [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-in.md) _2017-08-25 03:45:33 (First version)_
-2. [ 2015-16 Iraqi protests: Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq-s parliament in the Green Zone. ](/news/2016/04/30/2015-16-iraqi-protests-iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-m.md) _2017-08-27 03:45:55 (Update)_
+1. [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-in.md) _2018-02-06 13:49:29 (First version)_
+2. [ 2015-16 Iraqi protests: Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq-s parliament in the Green Zone. ](/news/2016/04/30/2015-16-iraqi-protests-iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-m.md) _2018-02-06 13:49:29 (Update)_
 2. [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-int.md) _(Current version)_
 
 ### Related:

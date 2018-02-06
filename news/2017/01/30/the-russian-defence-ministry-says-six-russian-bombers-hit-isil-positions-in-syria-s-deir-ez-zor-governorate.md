@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-b
 
 ### Changes:
 
-1. [Russian military intervention: The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/russian-military-intervention-the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md) _2017-08-27 03:47:43 (First version)_
+1. [Russian military intervention: The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/russian-military-intervention-the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md) _2018-02-06 13:49:30 (First version)_
 1. [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md) _(Current version)_
 
 ### Related:

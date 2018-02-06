@@ -20,7 +20,7 @@ How graphic images are being used on social media.
 
 ### Changes:
 
-1. [Gaza-Israel conflict: A BBC investigation determines that photographs circulating on social media sites allegedly covering the airstrikes on Gaza include photographs taken from conflicts in Iraq and Syria and are up to five years old. ](/news/2014/07/10/gaza-israel-conflict-a-bbc-investigation-determines-that-photographs-circulating-on-social-media-sites-allegedly-covering-the-airstrikes.md) _2017-08-27 03:40:58 (First version)_
+1. [Gaza-Israel conflict: A BBC investigation determines that photographs circulating on social media sites allegedly covering the airstrikes on Gaza include photographs taken from conflicts in Iraq and Syria and are up to five years old. ](/news/2014/07/10/gaza-israel-conflict-a-bbc-investigation-determines-that-photographs-circulating-on-social-media-sites-allegedly-covering-the-airstrikes.md) _2018-02-06 13:49:26 (First version)_
 1. [A BBC investigation determines that photographs circulating on social media sites allegedly covering the airstrikes on Gaza include photographs taken from conflicts in Iraq and Syria and are up to five years old. ](/news/2014/07/10/a-bbc-investigation-determines-that-photographs-circulating-on-social-media-sites-allegedly-covering-the-airstrikes-on-gaza-include-photogra.md) _(Current version)_
 
 ### Related:

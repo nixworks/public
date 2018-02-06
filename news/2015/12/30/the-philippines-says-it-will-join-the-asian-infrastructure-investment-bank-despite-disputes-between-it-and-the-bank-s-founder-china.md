@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/30/the-philippines-says-it-will-join-the-asian-inf
 
 ### Changes:
 
-1. [South China Sea disputes: The Philippines says it will join the Asian Infrastructure Investment Bank despite disputes between it and the bank's founder, China. ](/news/2015/12/30/south-china-sea-disputes-the-philippines-says-it-will-join-the-asian-infrastructure-investment-bank-despite-disputes-between-it-and-the-ban.md) _2017-08-27 03:44:33 (First version)_
+1. [South China Sea disputes: The Philippines says it will join the Asian Infrastructure Investment Bank despite disputes between it and the bank's founder, China. ](/news/2015/12/30/south-china-sea-disputes-the-philippines-says-it-will-join-the-asian-infrastructure-investment-bank-despite-disputes-between-it-and-the-ban.md) _2018-02-06 13:49:28 (First version)_
 1. [The Philippines says it will join the Asian Infrastructure Investment Bank despite disputes between it and the bank's founder, China. ](/news/2015/12/30/the-philippines-says-it-will-join-the-asian-infrastructure-investment-bank-despite-disputes-between-it-and-the-bank-s-founder-china.md) _(Current version)_
 
 ### Related:

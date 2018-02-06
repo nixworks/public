@@ -16,7 +16,7 @@ Regional president, Carles Puigdemont, to set out independence plans for first t
 
 ### Changes:
 
-1. [President of Catalonia Carles Puigdemont gives a speech regarding independence from Spain where he propose to suspend the effect of the independence declaration in order to hold talks with Madrid. ](/news/2017/10/10/president-of-catalonia-carles-puigdemont-gives-a-speech-regarding-independence-from-spain-where-he-propose-to-suspend-the-effect-of-the-inde.md) _2017-10-10 21:30:06 (First version)_
+1. [President of Catalonia Carles Puigdemont gives a speech regarding independence from Spain where he propose to suspend the effect of the independence declaration in order to hold talks with Madrid. ](/news/2017/10/10/president-of-catalonia-carles-puigdemont-gives-a-speech-regarding-independence-from-spain-where-he-propose-to-suspend-the-effect-of-the-inde.md) _2018-02-06 13:49:31 (First version)_
 1. [President of Catalonia Carles Puigdemont gives a speech regarding independence from Spain where he proposes to suspend the effect of the independence declaration in order to hold talks with Madrid. ](/news/2017/10/10/president-of-catalonia-carles-puigdemont-gives-a-speech-regarding-independence-from-spain-where-he-proposes-to-suspend-the-effect-of-the-ind.md) _(Current version)_
 
 ### Related:

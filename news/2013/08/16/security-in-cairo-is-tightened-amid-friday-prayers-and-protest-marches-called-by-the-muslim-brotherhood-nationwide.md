@@ -18,8 +18,8 @@ Security in Cairo tightened amid Friday prayers and protest marches called by th
 
 ### Changes:
 
-1. [Aftermath of 2013 Egyptian coup d'etat:Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-psecurity-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brother.md) _2017-08-25 03:39:09 (First version)_
-2. [Aftermath of 2013 Egyptian coup d'etat:: Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md) _2017-08-27 03:39:25 (Update)_
+1. [Aftermath of 2013 Egyptian coup d'etat:: Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md) _2018-02-06 13:49:25 (First version)_
+2. [Aftermath of 2013 Egyptian coup d'etat:Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-psecurity-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brother.md) _2018-02-06 13:49:25 (Update)_
 2. [Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brotherhood-nationwide.md) _(Current version)_
 
 ### Related:

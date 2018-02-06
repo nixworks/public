@@ -16,7 +16,7 @@ Victoire Ingabire, a Hutu politician, was found guilty of two charges related to
 
 ### Changes:
 
-1. [Rwanda-s high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwanda-s-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md) _2017-08-27 03:36:55 (First version)_
+1. [Rwanda-s high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwanda-s-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md) _2018-02-06 13:49:24 (First version)_
 1. [Rwanda's high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwandaas-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md) _(Current version)_
 
 ### Related:

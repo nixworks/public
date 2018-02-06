@@ -20,8 +20,8 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 
 ### Changes:
 
-1. [2012 Pacific typhoon season:Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-ptyphoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _2017-08-25 03:36:14 (First version)_
-2. [2012 Pacific typhoon season:: Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _2017-08-27 03:36:25 (Update)_
+1. [2012 Pacific typhoon season:: Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Pacific typhoon season:Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-ptyphoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _2018-02-06 13:49:23 (Update)_
 2. [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md) _(Current version)_
 
 ### Related:

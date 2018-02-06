@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/08/1/anna-bligh-the-premier-of-queensland-releases-th
 
 ### Changes:
 
-1. [Anna Bligh, the Premier of Queensland, releases the results of an inquiry into the 2010-2011 Queensland floods which killed 35 people. ](/news/2011/08/1/anna-bligh-the-premier-of-queensland-releases-the-results-of-an-inquiry-into-the-2010-2011-queensland-floods-which-killed-35-people.md) _2017-08-27 03:34:02 (First version)_
+1. [Anna Bligh, the Premier of Queensland, releases the results of an inquiry into the 2010-2011 Queensland floods which killed 35 people. ](/news/2011/08/1/anna-bligh-the-premier-of-queensland-releases-the-results-of-an-inquiry-into-the-2010-2011-queensland-floods-which-killed-35-people.md) _2018-02-06 13:49:22 (First version)_
 1. [Anna Bligh, the Premier of Queensland, releases the results of an inquiry into the 2010-2011 Queensland floods which killed 35 people. ](/news/2011/08/1/anna-bligh-the-premier-of-queensland-releases-the-results-of-an-inquiry-into-the-2010a2011-queensland-floods-which-killed-35-people.md) _(Current version)_
 
 ### Related:

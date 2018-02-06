@@ -16,8 +16,8 @@ Regime loyalists and plainclothes policemen attack protesters, mainly students, 
 
 ### Changes:
 
-1. [2011 Yemeni protests:Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-pclashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2017-08-25 03:32:12 (First version)_
-2. [2011 Yemeni protests:: Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2017-08-27 03:32:20 (Update)_
+1. [2011 Yemeni protests:Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-pclashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Yemeni protests:: Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2018-02-06 13:49:21 (Update)_
 2. [Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _(Current version)_
 
 ### Related:

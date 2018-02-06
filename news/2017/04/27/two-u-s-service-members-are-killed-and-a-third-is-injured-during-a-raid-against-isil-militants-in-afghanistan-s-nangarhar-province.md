@@ -15,7 +15,7 @@ Two U.S. military service members were killed Wednesday night in an anti-ISIS op
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Two U.S. service members are killed and a third is injured during a raid against ISIL militants in Afghanistan's Nangarhar Province. ](/news/2017/04/27/war-in-afghanistan-2015-present-two-u-s-service-members-are-killed-and-a-third-is-injured-during-a-raid-against-isil-militants-in-afgh.md) _2017-08-27 03:48:15 (First version)_
+1. [War in Afghanistan (2015-present): Two U.S. service members are killed and a third is injured during a raid against ISIL militants in Afghanistan's Nangarhar Province. ](/news/2017/04/27/war-in-afghanistan-2015-present-two-u-s-service-members-are-killed-and-a-third-is-injured-during-a-raid-against-isil-militants-in-afgh.md) _2018-02-06 13:49:30 (First version)_
 1. [Two U.S. service members are killed and a third is injured during a raid against ISIL militants in Afghanistan's Nangarhar Province. ](/news/2017/04/27/two-u-s-service-members-are-killed-and-a-third-is-injured-during-a-raid-against-isil-militants-in-afghanistan-s-nangarhar-province.md) _(Current version)_
 
 ### Related:

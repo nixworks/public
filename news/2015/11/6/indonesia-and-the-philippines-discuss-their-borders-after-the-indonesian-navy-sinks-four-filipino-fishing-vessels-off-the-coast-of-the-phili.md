@@ -16,7 +16,7 @@ DAVAO CITY -- The Philippines&#8217; Bureau of Fisheries and Aquatic Resources (
 
 ### Changes:
 
-1. [Indonesia-Philippines relations: Indonesia and the Philippines discuss their borders after the Indonesian Navy sinks four Filipino fishing vessels off the coast of the Philippines triggering a diplomatic dispute. ](/news/2015/11/6/indonesia-philippines-relations-indonesia-and-the-philippines-discuss-their-borders-after-the-indonesian-navy-sinks-four-filipino-fishing.md) _2017-08-27 03:43:42 (First version)_
+1. [Indonesia-Philippines relations: Indonesia and the Philippines discuss their borders after the Indonesian Navy sinks four Filipino fishing vessels off the coast of the Philippines triggering a diplomatic dispute. ](/news/2015/11/6/indonesia-philippines-relations-indonesia-and-the-philippines-discuss-their-borders-after-the-indonesian-navy-sinks-four-filipino-fishing.md) _2018-02-06 13:49:28 (First version)_
 1. [Indonesia and the Philippines discuss their borders after the Indonesian Navy sinks four Filipino fishing vessels off the coast of the Philippines triggering a diplomatic dispute. ](/news/2015/11/6/indonesia-and-the-philippines-discuss-their-borders-after-the-indonesian-navy-sinks-four-filipino-fishing-vessels-off-the-coast-of-the-phili.md) _(Current version)_
 
 ### Related:

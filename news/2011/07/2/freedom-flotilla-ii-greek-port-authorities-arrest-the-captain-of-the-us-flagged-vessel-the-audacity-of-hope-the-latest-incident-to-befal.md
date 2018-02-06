@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arres
 
 ### Changes:
 
-1. [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel ''The Audacity of Hope'', the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-bef.md) _2017-08-25 03:33:40 (First version)_
+1. [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel ''The Audacity of Hope'', the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-bef.md) _2018-02-06 13:49:22 (First version)_
 1. [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel "The Audacity of Hope", the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-befal.md) _(Current version)_
 
 ### Related:

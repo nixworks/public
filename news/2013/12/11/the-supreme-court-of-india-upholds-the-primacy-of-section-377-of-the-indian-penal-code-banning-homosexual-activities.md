@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-
 
 ### Changes:
 
-1. [LGBT rights in India:The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-pthe-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _2017-08-25 03:39:39 (First version)_
-2. [LGBT rights in India:: The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _2017-08-27 03:39:57 (Update)_
+1. [LGBT rights in India:: The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _2018-02-06 13:49:25 (First version)_
+2. [LGBT rights in India:The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-pthe-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _2018-02-06 13:49:25 (Update)_
 2. [The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _(Current version)_
 
 ### Related:

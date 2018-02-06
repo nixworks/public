@@ -20,8 +20,8 @@ BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursd
 
 ### Changes:
 
-1. [Israeli-Lebanese conflict:Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israelialebanese-conflict-pisrael-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governme.md) _2017-08-25 03:31:45 (First version)_
-2. [Israeli-Lebanese conflict:: Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israeli-lebanese-conflict-israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governm.md) _2017-08-27 03:31:53 (Update)_
+1. [Israeli-Lebanese conflict:Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israelialebanese-conflict-pisrael-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governme.md) _2018-02-06 13:49:21 (First version)_
+2. [Israeli-Lebanese conflict:: Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israeli-lebanese-conflict-israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governm.md) _2018-02-06 13:49:21 (Update)_
 2. [Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-government.md) _(Current version)_
 
 ### Related:

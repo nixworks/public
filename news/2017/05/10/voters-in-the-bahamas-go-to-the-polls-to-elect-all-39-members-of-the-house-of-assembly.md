@@ -17,7 +17,7 @@ Prime Minister Perry Christie is seeking a second-consecutive term for his Progr
 
 ### Changes:
 
-1. [Bahamian general election, 2017: Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/bahamian-general-election-2017-voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md) _2017-08-27 03:48:19 (First version)_
+1. [Bahamian general election, 2017: Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/bahamian-general-election-2017-voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md) _(Current version)_
 
 ### Related:

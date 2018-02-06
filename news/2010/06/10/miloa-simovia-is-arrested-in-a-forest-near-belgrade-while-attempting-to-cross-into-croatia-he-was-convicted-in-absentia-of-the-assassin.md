@@ -18,7 +18,7 @@ Second man arrested as accomplice in the killing of Serbian PM Zoran Djindjic in
 
 ### Changes:
 
-1. [Milos Simovic is arrested in a forest near Belgrade while attempting to cross into Croatia. He was convicted ''in absentia'' of the assassination of Serbian Prime Minister Zoran Dindic in 2003. ](/news/2010/06/10/miloa-simovia-is-arrested-in-a-forest-near-belgrade-while-attempting-to-cross-into-croatia-he-was-convicted-in-absentia-of-the-assass.md) _2017-08-25 03:28:12 (First version)_
+1. [Milos Simovic is arrested in a forest near Belgrade while attempting to cross into Croatia. He was convicted ''in absentia'' of the assassination of Serbian Prime Minister Zoran Dindic in 2003. ](/news/2010/06/10/miloa-simovia-is-arrested-in-a-forest-near-belgrade-while-attempting-to-cross-into-croatia-he-was-convicted-in-absentia-of-the-assass.md) _2018-02-06 13:49:20 (First version)_
 1. [Milos Simovic is arrested in a forest near Belgrade while attempting to cross into Croatia. He was convicted "in absentia" of the assassination of Serbian Prime Minister Zoran Dindic in 2003. ](/news/2010/06/10/miloa-simovia-is-arrested-in-a-forest-near-belgrade-while-attempting-to-cross-into-croatia-he-was-convicted-in-absentia-of-the-assassin.md) _(Current version)_
 
 ### Related:

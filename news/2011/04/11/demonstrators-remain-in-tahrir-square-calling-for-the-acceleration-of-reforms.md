@@ -17,8 +17,8 @@ Essam Sharaf apologises for violence against demonstrators in Tahrir Square and 
 
 ### Changes:
 
-1. [2011 Egyptian revolution:Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-pdemonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md) _2017-08-25 03:32:47 (First version)_
-2. [2011 Egyptian revolution:: Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md) _2017-08-27 03:32:55 (Update)_
+1. [2011 Egyptian revolution:Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-pdemonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian revolution:: Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md) _2018-02-06 13:49:22 (Update)_
 2. [Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md) _(Current version)_
 
 ### Related:

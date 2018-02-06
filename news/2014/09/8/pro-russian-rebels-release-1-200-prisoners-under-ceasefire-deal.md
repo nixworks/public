@@ -16,7 +16,7 @@ Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian 
 
 ### Changes:
 
-1. [War in Donbass: Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/war-in-donbass-pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md) _2017-08-27 03:41:15 (First version)_
+1. [War in Donbass: Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/war-in-donbass-pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md) _(Current version)_
 
 ### Related:

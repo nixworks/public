@@ -17,7 +17,7 @@ KATHMANDU, Nepal (AP) — Police in southern Nepal opened fire on ethnic protest
 
 ### Changes:
 
-1. [2015 Nepal fuel crisis: Nepalese police open fire on groups, who were protesting the new constitution proposals by blockading a highway. Two protesters were killed and at least 28 were hurt, including 15 police officers. A third protester was killed in Rajbiraj, the headquarters of the Saptari District. ](/news/2015/11/22/2015-nepal-fuel-crisis-nepalese-police-open-fire-on-groups-who-were-protesting-the-new-constitution-proposals-by-blockading-a-highway-two.md) _2017-08-27 03:44:00 (First version)_
+1. [2015 Nepal fuel crisis: Nepalese police open fire on groups, who were protesting the new constitution proposals by blockading a highway. Two protesters were killed and at least 28 were hurt, including 15 police officers. A third protester was killed in Rajbiraj, the headquarters of the Saptari District. ](/news/2015/11/22/2015-nepal-fuel-crisis-nepalese-police-open-fire-on-groups-who-were-protesting-the-new-constitution-proposals-by-blockading-a-highway-two.md) _2018-02-06 13:49:28 (First version)_
 1. [Nepalese police open fire on groups, who were protesting the new constitution proposals by blockading a highway. Two protesters were killed and at least 28 were hurt, including 15 police officers. A third protester was killed in Rajbiraj, the headquarters of the Saptari District. ](/news/2015/11/22/nepalese-police-open-fire-on-groups-who-were-protesting-the-new-constitution-proposals-by-blockading-a-highway-two-protesters-were-killed.md) _(Current version)_
 
 ### Related:

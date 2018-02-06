@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-el
 
 ### Changes:
 
-1. [Danish general election, 2015: Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/danish-general-election-2015-pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md) _2017-08-27 03:42:38 (First version)_
+1. [Danish general election, 2015: Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/danish-general-election-2015-pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md) _2018-02-06 13:49:27 (First version)_
 1. [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md) _(Current version)_
 
 ### Related:

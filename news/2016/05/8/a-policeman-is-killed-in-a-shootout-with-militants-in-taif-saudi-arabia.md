@@ -17,7 +17,7 @@ A Saudi soldier died in a gunbattle with militants in the western Taif region ou
 
 ### Changes:
 
-1. [ Terrorism in Saudi Arabia: A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/terrorism-in-saudi-arabia-a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _2017-08-27 03:46:00 (First version)_
+1. [ Terrorism in Saudi Arabia: A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/terrorism-in-saudi-arabia-a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _2018-02-06 13:49:29 (First version)_
 1. [ A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _(Current version)_
 
 ### Related:

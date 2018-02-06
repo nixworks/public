@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-decl
 
 ### Changes:
 
-1. [Ugandan general election, 2016: The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/ugandan-general-election-2016-the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the.md) _2017-08-27 03:44:58 (First version)_
+1. [Ugandan general election, 2016: The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/ugandan-general-election-2016-the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the-vote-european-union-observers-s.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A train derailed in Cameroon on Friday reportedly killing more than 50 people an
 
 ### Changes:
 
-1. [2016 Eseka train derailment: A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/2016-esa-c-ka-train-derailment-a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md) _2017-08-27 03:47:06 (First version)_
+1. [2016 Eseka train derailment: A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/2016-esa-c-ka-train-derailment-a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md) _2018-02-06 13:49:29 (First version)_
 1. [A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Thousands of state-run banks, government offices and factories shut as workers r
 
 ### Changes:
 
-1. [Indian general strike of 2016: Around 180 million people are claimed to be striking in India against Prime Minister Narendra Modi's economic privatization plans. The strike is allegedly the largest in human history. ](/news/2016/09/3/indian-general-strike-of-2016-around-180-million-people-are-claimed-to-be-striking-in-india-against-prime-minister-narendra-modi-s-economic.md) _2017-08-27 03:46:45 (First version)_
+1. [Indian general strike of 2016: Around 180 million people are claimed to be striking in India against Prime Minister Narendra Modi's economic privatization plans. The strike is allegedly the largest in human history. ](/news/2016/09/3/indian-general-strike-of-2016-around-180-million-people-are-claimed-to-be-striking-in-india-against-prime-minister-narendra-modi-s-economic.md) _2018-02-06 13:49:29 (First version)_
 1. [Around 180 million people are claimed to be striking in India against Prime Minister Narendra Modi's economic privatization plans. The strike is allegedly the largest in human history. ](/news/2016/09/3/around-180-million-people-are-claimed-to-be-striking-in-india-against-prime-minister-narendra-modi-s-economic-privatization-plans-the-strik.md) _(Current version)_
 
 ### Related:

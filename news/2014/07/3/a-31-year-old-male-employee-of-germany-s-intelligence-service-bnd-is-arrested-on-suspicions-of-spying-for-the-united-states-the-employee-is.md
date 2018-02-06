@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/3/a-31-year-old-male-employee-of-germany-s-intelli
 
 ### Changes:
 
-1. [Global surveillance disclosures: A 31-year-old male employee of Germany's intelligence service BND is arrested on suspicions of spying for the United States. The employee is suspected of spying on a German parliamentary committee investigating U.S. espionage. ](/news/2014/07/3/global-surveillance-disclosures-a-31-year-old-male-employee-of-germany-s-intelligence-service-bnd-is-arrested-on-suspicions-of-spying-for-t.md) _2017-08-27 03:40:55 (First version)_
+1. [Global surveillance disclosures: A 31-year-old male employee of Germany's intelligence service BND is arrested on suspicions of spying for the United States. The employee is suspected of spying on a German parliamentary committee investigating U.S. espionage. ](/news/2014/07/3/global-surveillance-disclosures-a-31-year-old-male-employee-of-germany-s-intelligence-service-bnd-is-arrested-on-suspicions-of-spying-for-t.md) _2018-02-06 13:49:26 (First version)_
 1. [A 31-year-old male employee of Germany's intelligence service BND is arrested on suspicions of spying for the United States. The employee is suspected of spying on a German parliamentary committee investigating U.S. espionage. ](/news/2014/07/3/a-31-year-old-male-employee-of-germany-s-intelligence-service-bnd-is-arrested-on-suspicions-of-spying-for-the-united-states-the-employee-is.md) _(Current version)_
 
 ### Related:

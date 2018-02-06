@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/09/17/producers-on-the-south-african-version-of-the-b
 
 ### Changes:
 
-1. [Producers on the South African version of the ''Big Brother'' TV series evict a male housemate who punched a female housemate, bowing to pressure from women's rights activists after initially accepting the physical confrontation. ](/news/2010/09/17/producers-on-the-south-african-version-of-the-big-brother-tv-series-evict-a-male-housemate-who-punched-a-female-housemate-bowing-to-pre.md) _2017-08-25 03:30:05 (First version)_
+1. [Producers on the South African version of the ''Big Brother'' TV series evict a male housemate who punched a female housemate, bowing to pressure from women's rights activists after initially accepting the physical confrontation. ](/news/2010/09/17/producers-on-the-south-african-version-of-the-big-brother-tv-series-evict-a-male-housemate-who-punched-a-female-housemate-bowing-to-pre.md) _2018-02-06 13:49:20 (First version)_
 1. [Producers on the South African version of the "Big Brother" TV series evict a male housemate who punched a female housemate, bowing to pressure from women's rights activists after initially accepting the physical confrontation. ](/news/2010/09/17/producers-on-the-south-african-version-of-the-big-brother-tv-series-evict-a-male-housemate-who-punched-a-female-housemate-bowing-to-press.md) _(Current version)_
 
 ### Related:

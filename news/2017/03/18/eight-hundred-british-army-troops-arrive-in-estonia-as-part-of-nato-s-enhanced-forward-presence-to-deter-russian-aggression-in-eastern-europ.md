@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-est
 
 ### Changes:
 
-1. [Estonia-United Kingdom relations: Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/estonia-united-kingdom-relations-eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter.md) _2017-08-27 03:48:00 (First version)_
+1. [Estonia-United Kingdom relations: Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/estonia-united-kingdom-relations-eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter.md) _2018-02-06 13:49:30 (First version)_
 1. [Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter-russian-aggression-in-eastern-europ.md) _(Current version)_
 
 ### Related:

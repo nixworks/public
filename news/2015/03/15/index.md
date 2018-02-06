@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### National Assembly
 ### [The National Assembly of Venezuela grants President Nicolas Maduro the power to legislate by decree for nine months. ](/news/2015/03/15/the-national-assembly-of-venezuela-grants-president-nicola-s-maduro-the-power-to-legislate-by-decree-for-nine-months.md)
-_Context: Venezuela, National Assembly, Nicolas Maduro, decree, President_
+_Context: President, Venezuela, National Assembly, decree, Nicolas Maduro_
 
 ## [Previous Day...](/news/2015/03/14/index.md)
 

@@ -17,7 +17,7 @@ Luiz In&aacute;cio Lula da Silva was sentenced to nine years in prison but is ex
 
 ### Changes:
 
-1. [Corruption in Brazil: Operation Car Wash: Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is sentenced to nine and a half years in prison. ](/news/2017/07/12/corruption-in-brazil-operation-car-wash-former-brazilian-president-luiz-inacio-lula-da-silva-is-convicted-on-corruption-and-money-launderi.md) _2017-08-27 03:48:39 (First version)_
+1. [Corruption in Brazil: Operation Car Wash: Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is sentenced to nine and a half years in prison. ](/news/2017/07/12/corruption-in-brazil-operation-car-wash-former-brazilian-president-luiz-inacio-lula-da-silva-is-convicted-on-corruption-and-money-launderi.md) _2018-02-06 13:49:30 (First version)_
 1. [Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is sentenced to nine and a half years in prison. ](/news/2017/07/12/former-brazilian-president-luiz-inacio-lula-da-silva-is-convicted-on-corruption-and-money-laundering-charges-in-connection-with-the-petrobra.md) _(Current version)_
 
 ### Related:

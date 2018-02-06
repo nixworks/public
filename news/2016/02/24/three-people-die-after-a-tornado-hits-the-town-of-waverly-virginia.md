@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/24/three-people-die-after-a-tornado-hits-the-town-
 
 ### Changes:
 
-1. [Tornadoes of 2016: Three people die after a tornado hits the town of Waverly, Virginia. ](/news/2016/02/24/tornadoes-of-2016-three-people-die-after-a-tornado-hits-the-town-of-waverly-virginia.md) _2017-08-27 03:45:00 (First version)_
+1. [Tornadoes of 2016: Three people die after a tornado hits the town of Waverly, Virginia. ](/news/2016/02/24/tornadoes-of-2016-three-people-die-after-a-tornado-hits-the-town-of-waverly-virginia.md) _2018-02-06 13:49:28 (First version)_
 1. [Three people die after a tornado hits the town of Waverly, Virginia. ](/news/2016/02/24/three-people-die-after-a-tornado-hits-the-town-of-waverly-virginia.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A Hague-based arbitration panel rules that it can hear a case brought by the Phi
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/territorial-disputes-in-the-south-china-sea-the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippin.md) _2017-08-27 03:43:36 (First version)_
+1. [Territorial disputes in the South China Sea: The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/territorial-disputes-in-the-south-china-sea-the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippin.md) _2018-02-06 13:49:28 (First version)_
 1. [The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippines-case-against-china-over-maritime-disputes.md) _(Current version)_
 
 ### Related:

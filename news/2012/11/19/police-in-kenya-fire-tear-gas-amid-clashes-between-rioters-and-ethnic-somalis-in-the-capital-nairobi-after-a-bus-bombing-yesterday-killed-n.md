@@ -18,8 +18,8 @@ Scores of Kenyan troops go on the rampage in the eastern town of Garissa, beatin
 
 ### Changes:
 
-1. [2012 terrorist attacks in Kenya:Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-ppolice-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after.md) _2017-08-25 03:36:50 (First version)_
-2. [2012 terrorist attacks in Kenya:: Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-afte.md) _2017-08-27 03:37:00 (Update)_
+1. [2012 terrorist attacks in Kenya:Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-ppolice-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 terrorist attacks in Kenya:: Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-afte.md) _2018-02-06 13:49:24 (Update)_
 2. [Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-
 
 ### Changes:
 
-1. [Political appointments of Donald Trump: The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/political-appointments-of-donald-trump-the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budg.md) _2017-08-27 03:47:49 (First version)_
+1. [Political appointments of Donald Trump: The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/political-appointments-of-donald-trump-the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budg.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md) _(Current version)_
 
 ### Related:

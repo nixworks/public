@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/13/the-body-of-nelson-mandela-is-to-be-flown-to-qu
 
 ### Changes:
 
-1. [Death and state funeral of Nelson Mandela:The body of Nelson Mandela is to be flown to Qunu in the Eastern Cape where he is to be laid to rest. ](/news/2013/12/13/death-and-state-funeral-of-nelson-mandela-pthe-body-of-nelson-mandela-is-to-be-flown-to-qunu-in-the-eastern-cape-where-he-is-to-be-laid-to-r.md) _2017-08-25 03:39:41 (First version)_
-2. [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is to be flown to Qunu in the Eastern Cape where he is to be laid to rest. ](/news/2013/12/13/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-to-be-flown-to-qunu-in-the-eastern-cape-where-he-is-to-be-laid-to.md) _2017-08-27 03:39:59 (Update)_
+1. [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is to be flown to Qunu in the Eastern Cape where he is to be laid to rest. ](/news/2013/12/13/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-to-be-flown-to-qunu-in-the-eastern-cape-where-he-is-to-be-laid-to.md) _2018-02-06 13:49:25 (First version)_
+2. [Death and state funeral of Nelson Mandela:The body of Nelson Mandela is to be flown to Qunu in the Eastern Cape where he is to be laid to rest. ](/news/2013/12/13/death-and-state-funeral-of-nelson-mandela-pthe-body-of-nelson-mandela-is-to-be-flown-to-qunu-in-the-eastern-cape-where-he-is-to-be-laid-to-r.md) _2018-02-06 13:49:25 (Update)_
 2. [The body of Nelson Mandela is to be flown to Qunu in the Eastern Cape where he is to be laid to rest. ](/news/2013/12/13/the-body-of-nelson-mandela-is-to-be-flown-to-qunu-in-the-eastern-cape-where-he-is-to-be-laid-to-rest.md) _(Current version)_
 
 ### Related:

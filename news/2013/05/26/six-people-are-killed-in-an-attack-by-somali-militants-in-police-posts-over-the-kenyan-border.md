@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/05/26/six-people-are-killed-in-an-attack-by-somali-mi
 
 ### Changes:
 
-1. [War in Somalia (2009-present):Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/war-in-somalia-2009apresent-psix-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md) _2017-08-25 03:38:43 (First version)_
-2. [War in Somalia (2009-present):: Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/war-in-somalia-2009-present-six-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md) _2017-08-27 03:38:57 (Update)_
+1. [War in Somalia (2009-present):Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/war-in-somalia-2009apresent-psix-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia (2009-present):: Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/war-in-somalia-2009-present-six-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md) _2018-02-06 13:49:24 (Update)_
 2. [Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/six-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Six suspects charged with attempting to overthrow constitutional order, governme
 
 ### Changes:
 
-1. [Turkey's state news agency announces that prosecutors in Istanbul request life sentences against 6 people, among which triple life sentences each for journalist brothers Ahmet and Mehmet Altan and chronicleress Nazli Ilicak. One of the accusations is that of "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-request-life-sentences-against-6-people-among-which-triple-life-sentences.md) _2017-12-12 00:30:07 (First version)_
+1. [Turkey's state news agency announces that prosecutors in Istanbul request life sentences against 6 people, among which triple life sentences each for journalist brothers Ahmet and Mehmet Altan and chronicleress Nazli Ilicak. One of the accusations is that of "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-request-life-sentences-against-6-people-among-which-triple-life-sentences.md) _2018-02-06 13:49:31 (First version)_
 1. [Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-have-requested-life-sentences-against-six-people-including-journalist-bro.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ At least one protester was shot dead and dozens wounded on Friday when riot poli
 
 ### Changes:
 
-1. [2012-2013 Egyptian protests:The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/2012a2013-egyptian-protests-pthe-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence.md) _2017-08-25 03:37:25 (First version)_
-2. [2012-2013 Egyptian protests:: The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/2012-2013-egyptian-protests-the-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence.md) _2017-08-27 03:37:35 (Update)_
+1. [2012-2013 Egyptian protests:The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/2012a2013-egyptian-protests-pthe-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Egyptian protests:: The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/2012-2013-egyptian-protests-the-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence.md) _2018-02-06 13:49:24 (Update)_
 2. [The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/the-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence-in-which-more-than-60-people-we.md) _(Current version)_
 
 ### Related:

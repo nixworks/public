@@ -13,7 +13,7 @@ Opposition leader Henrique Capriles demands investigation into shooting that kil
 
 ##### Syrian Civil War
 ### [Syrian Civil War: An Islamist group fighting Syrian government troops says it has captured five soldiers from Yemen, whom it alleges were sent to quell the uprising. ](/news/2012/09/30/syrian-civil-war-an-islamist-group-fighting-syrian-government-troops-says-it-has-captured-five-soldiers-from-yemen-whom-it-alleges-were-se.md)
-_Context: Islamist, Yemen, Syrian Civil War_
+_Context: Syrian Civil War, Yemen, Islamist_
 
 ##### eight car bombings
 ### [Car bomb blasts kill at least 32 people across Iraq. ](/news/2012/09/30/car-bomb-blasts-kill-at-least-32-people-across-iraq.md)
@@ -37,11 +37,11 @@ _Context: Spain_
 
 ##### Tokyo Stock Exchange
 ### [Nippon Steel & Sumitomo Metal Corporation's stock debuts on the Tokyo Stock Exchange. The formal merger of Nippon Steel and Sumitomo Metal Industries creates the world's second-largest steelmaker. ](/news/2012/09/30/nippon-steel-sumitomo-metal-corporation-s-stock-debuts-on-the-tokyo-stock-exchange-the-formal-merger-of-nippon-steel-and-sumitomo-metal-i.md)
-_Context: Sumitomo Metal Industries, second-largest steelmaker, Tokyo Stock Exchange, Nippon Steel_
+_Context: Nippon Steel, second-largest steelmaker, Tokyo Stock Exchange, Sumitomo Metal Industries_
 
 ##### Bo Guagua
 ### [Bo Guagua, the son of disgraced Chinese politician Bo Xilai, defends his father in his first comments on the political scandal. ](/news/2012/09/30/bo-guagua-the-son-of-disgraced-chinese-politician-bo-xilai-defends-his-father-in-his-first-comments-on-the-political-scandal.md)
-_Context: China, Bo Guagua, Bo Xilai_
+_Context: Bo Guagua, China, Bo Xilai_
 
 ## [Previous Day...](/news/2012/09/29/index.md)
 

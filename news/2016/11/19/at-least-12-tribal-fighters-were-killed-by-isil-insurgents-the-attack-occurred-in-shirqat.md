@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/19/at-least-12-tribal-fighters-were-killed-by-isil
 
 ### Changes:
 
-1. [Iraqi Civil War: At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/iraqi-civil-war-at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md) _2017-08-27 03:47:15 (First version)_
+1. [Iraqi Civil War: At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/iraqi-civil-war-at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md) _(Current version)_
 
 ### Related:

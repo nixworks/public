@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/29/at-least-three-suspected-militants-are-killed-b
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/insurgency-in-the-north-caucasus-at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt.md) _2017-08-27 03:47:43 (First version)_
+1. [Insurgency in the North Caucasus: At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/insurgency-in-the-north-caucasus-at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt.md) _2018-02-06 13:49:30 (First version)_
 1. [At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.md) _(Current version)_
 
 ### Related:

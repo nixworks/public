@@ -16,5 +16,5 @@ Formats: [HTML](/news/2016/09/17/a-mass-stabbing-at-crossroads-center-in-st-clou
 
 ### Changes:
 
-1. [2016 Minnesota mall stabbing: A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. ](/news/2016/09/17/2016-minnesota-mall-stabbing-a-mass-stabbing-at-crossroads-center-in-st-cloud-minnesota-u-s-leaves-nine-injured-an-off-duty-police-of.md) _2017-08-27 03:46:52 (First version)_
+1. [2016 Minnesota mall stabbing: A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. ](/news/2016/09/17/2016-minnesota-mall-stabbing-a-mass-stabbing-at-crossroads-center-in-st-cloud-minnesota-u-s-leaves-nine-injured-an-off-duty-police-of.md) _2018-02-06 13:49:29 (First version)_
 1. [A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. ](/news/2016/09/17/a-mass-stabbing-at-crossroads-center-in-st-cloud-minnesota-u-s-leaves-nine-injured-an-off-duty-police-officer-shoots-dead-the-perpetra.md) _(Current version)_

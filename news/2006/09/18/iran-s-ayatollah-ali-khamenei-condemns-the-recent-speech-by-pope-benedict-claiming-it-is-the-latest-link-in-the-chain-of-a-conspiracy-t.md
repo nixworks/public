@@ -18,8 +18,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Pope Benedict XVI Islam controversy: Iran's Ayatollah Ali Khamenei condemns the recent speech by Pope Benedict, claiming it is the "latest link" in "the chain of a conspiracy to set in train a crusade against Islam". ](/news/2006/09/18/pope-benedict-xvi-islam-controversy-p-iran-s-ayatollah-ali-khamenei-condemns-the-recent-speech-by-pope-benedict-claiming-it-is-the-latest.md) _2017-08-25 03:18:25 (First version)_
-2. [ Pope Benedict XVI Islam controversy:: Iran's Ayatollah Ali Khamenei condemns the recent speech by Pope Benedict, claiming it is the "latest link" in "the chain of a conspiracy to set in train a crusade against Islam". ](/news/2006/09/18/pope-benedict-xvi-islam-controversy-iran-s-ayatollah-ali-khamenei-condemns-the-recent-speech-by-pope-benedict-claiming-it-is-the-latest.md) _2017-08-27 03:18:19 (Update)_
+1. [ Pope Benedict XVI Islam controversy: Iran's Ayatollah Ali Khamenei condemns the recent speech by Pope Benedict, claiming it is the "latest link" in "the chain of a conspiracy to set in train a crusade against Islam". ](/news/2006/09/18/pope-benedict-xvi-islam-controversy-p-iran-s-ayatollah-ali-khamenei-condemns-the-recent-speech-by-pope-benedict-claiming-it-is-the-latest.md) _2018-02-06 13:49:17 (First version)_
+2. [ Pope Benedict XVI Islam controversy:: Iran's Ayatollah Ali Khamenei condemns the recent speech by Pope Benedict, claiming it is the "latest link" in "the chain of a conspiracy to set in train a crusade against Islam". ](/news/2006/09/18/pope-benedict-xvi-islam-controversy-iran-s-ayatollah-ali-khamenei-condemns-the-recent-speech-by-pope-benedict-claiming-it-is-the-latest.md) _2018-02-06 13:49:17 (Update)_
 2. [ Iran's Ayatollah Ali Khamenei condemns the recent speech by Pope Benedict, claiming it is the "latest link" in "the chain of a conspiracy to set in train a crusade against Islam". ](/news/2006/09/18/iran-s-ayatollah-ali-khamenei-condemns-the-recent-speech-by-pope-benedict-claiming-it-is-the-latest-link-in-the-chain-of-a-conspiracy-t.md) _(Current version)_
 
 ### Related:

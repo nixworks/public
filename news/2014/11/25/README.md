@@ -33,7 +33,7 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 
 ##### 2014 pro-democracy street protests
 ### [Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md)
-_Context: Hong Kong, 2014 pro-democracy street protests, Mong Kok_
+_Context: Hong Kong, Mong Kok, 2014 pro-democracy street protests_
 
 ## [Previous Day...](/news/2014/11/24/index.md)
 

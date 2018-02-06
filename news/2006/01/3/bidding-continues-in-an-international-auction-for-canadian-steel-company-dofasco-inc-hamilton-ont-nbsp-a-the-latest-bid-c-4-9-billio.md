@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/01/3/bidding-continues-in-an-international-auction-fo
 
 ### Changes:
 
-1. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, {{Nowrap|C$4.9 billion}}, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-nowrap-c-4.md) _2017-05-01 03:17:41 (First version)_
-2. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-the-latest-bid-c-4-9-billio.md) _2017-08-27 03:17:20 (Update)_
+1. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-the-latest-bid-c-4-9-billio.md) _2018-02-06 13:49:16 (First version)_
+2. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, {{Nowrap|C$4.9 billion}}, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-nowrap-c-4.md) _2018-02-06 13:49:16 (Update)_
 2. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-c-4-9-billio.md) _(Current version)_
 
 ### Related:

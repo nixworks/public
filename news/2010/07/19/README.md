@@ -13,7 +13,7 @@ Human rights group accuses Khartoum of using torture and abuse to quell politica
 
 ##### Somalia
 ### [Several people are killed in a clash between Somali fighters and government forces in the capital Mogadishu. ](/news/2010/07/19/several-people-are-killed-in-a-clash-between-somali-fighters-and-government-forces-in-the-capital-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Somalia, Mogadishu_
 
 ##### Alan Shadrake
 ### [75-year-old author Alan Shadrake is arrested in Singapore while promoting his book about the use of the death penalty. He is charged with criminal defamation and faces two years imprisonment. ](/news/2010/07/19/75-year-old-author-alan-shadrake-is-arrested-in-singapore-while-promoting-his-book-about-the-use-of-the-death-penalty-he-is-charged-with-cr.md)
@@ -39,9 +39,9 @@ Russian pianist Mikhail Pletnev, accused of raping a 14-year-old boy, returns to
 ### [The Fromelles Military Cemetery is opened in Fromelles in northern France containing the graves of 250 Australian and British soldiers who died in the Battle of Fromelles in World War I and had previously been buried in a mass grave. ](/news/2010/07/19/the-fromelles-military-cemetery-is-opened-in-fromelles-in-northern-france-containing-the-graves-of-250-australian-and-british-soldiers-who-d.md)
 Relatives attend the dedication of the new Fromelles Military Cemetery, built following the discovery of remains of hundreds of Allied soldiers who died there in World War I.
 
-##### British
+##### United Kingdom
 ### [The United Kingdom's oldest person, a Gateshead great-great grandmother, dies at the age of 111. She would have been 112 next month. ](/news/2010/07/19/the-united-kingdom-s-oldest-person-a-gateshead-great-great-grandmother-dies-at-the-age-of-111-she-would-have-been-112-next-month.md)
-_Context: Gateshead, British_
+_Context: Gateshead, United Kingdom_
 
 ##### United States
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
@@ -57,7 +57,7 @@ China launches an operation to clean up an oil spill in the Yellow Sea after two
 
 ##### United States Coast Guard
 ### [Retired United States Coast Guard Admiral Thad Allen, the person in charge of cleaning up the Deepwater Horizon oil spill in the Gulf of Mexico states that the cap is leaking but it is not a major concern so far. ](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.md)
-_Context: Deepwater Horizon oil spill, Admiral, Thad Allen, Gulf of Mexico, United States Coast Guard, cap_
+_Context: Thad Allen, United States Coast Guard, cap, Deepwater Horizon oil spill, Gulf of Mexico, Admiral_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)
@@ -69,7 +69,7 @@ _Context: Kabul, Afghanistan_
 
 ##### United States
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
-_Context: African Union, United States, terrorism, Uganda_
+_Context: African Union, Uganda, United States, terrorism_
 
 ##### The Washington Post
 ### [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md)
@@ -81,7 +81,7 @@ A former Army commanding officer is accused of lying to a public inquiry into th
 
 ##### Kenya
 ### [Kenyan pastor John Kamau Mbugua pleads not guilty to two charges over an alleged plot to bomb a campaign rally for next month's constitutional referendum. ](/news/2010/07/19/kenyan-pastor-john-kamau-mbugua-pleads-not-guilty-to-two-charges-over-an-alleged-plot-to-bomb-a-campaign-rally-for-next-month-s-constitution.md)
-_Context: Kenya, John Kamau Mbugua_
+_Context: John Kamau Mbugua, Kenya_
 
 ##### Taysir Hayb
 ### [Taysir Hayb, the Israeli soldier who shot and killed British volunteer Tom Hurndall, is to be released next month after an Army committee headed by Advocate General Avichai Mandelblit decides to shorten his sentence. ](/news/2010/07/19/taysir-hayb-the-israeli-soldier-who-shot-and-killed-british-volunteer-tom-hurndall-is-to-be-released-next-month-after-an-army-committee-he.md)
@@ -105,11 +105,11 @@ A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hid
 
 ##### Egypt
 ### [A report states that U.S. and European intelligence agencies believe Egyptian President Hosni Mubarak is dying of stomach and pancreatic cancer, and has one year left to live. The report states that Mubarak will likely die before the country's next presidential election. ](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.md)
-_Context: Egypt, Egyptian presidential election in September, Hosni Mubarak, pancreatic cancer, stomach_
+_Context: Hosni Mubarak, Egypt, Egyptian presidential election in September, stomach, pancreatic cancer_
 
 ##### Dsi Bouterse
 ### [Dsi Bouterse is elected President of Suriname by parliament. ](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.md)
-_Context: President of Suriname, Dsi Bouterse_
+_Context: Dsi Bouterse, President of Suriname_
 
 ##### United Nations Economic and Social Council
 ### [The United Nations Economic and Social Council grants the International Gay and Lesbian Human Rights Commission consultative status after a vote of 23 for, 13 against, 13 abstentions, and 5 absent. ](/news/2010/07/19/the-united-nations-economic-and-social-council-grants-the-international-gay-and-lesbian-human-rights-commission-consultative-status-after-a.md)

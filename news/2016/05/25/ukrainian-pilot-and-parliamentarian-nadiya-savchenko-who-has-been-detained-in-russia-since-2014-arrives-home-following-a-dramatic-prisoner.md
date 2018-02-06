@@ -16,7 +16,7 @@ Detained Ukrainian servicewoman Nadiya Savchenko is on board a plane returning t
 
 ### Changes:
 
-1. [Russia-Ukraine relations: War in Donbass: Ukrainian pilot and parliamentarian Nadiya Savchenko, who has been detained in Russia since 2014, arrives home following a dramatic prisoner swap with Russia. ](/news/2016/05/25/russia-ukraine-relations-war-in-donbass-ukrainian-pilot-and-parliamentarian-nadiya-savchenko-who-has-been-detained-in-russia-since-2014.md) _2017-08-27 03:46:08 (First version)_
+1. [Russia-Ukraine relations: War in Donbass: Ukrainian pilot and parliamentarian Nadiya Savchenko, who has been detained in Russia since 2014, arrives home following a dramatic prisoner swap with Russia. ](/news/2016/05/25/russia-ukraine-relations-war-in-donbass-ukrainian-pilot-and-parliamentarian-nadiya-savchenko-who-has-been-detained-in-russia-since-2014.md) _2018-02-06 13:49:29 (First version)_
 1. [Ukrainian pilot and parliamentarian Nadiya Savchenko, who has been detained in Russia since 2014, arrives home following a dramatic prisoner swap with Russia. ](/news/2016/05/25/ukrainian-pilot-and-parliamentarian-nadiya-savchenko-who-has-been-detained-in-russia-since-2014-arrives-home-following-a-dramatic-prisoner.md) _(Current version)_
 
 ### Related:

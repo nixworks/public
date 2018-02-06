@@ -16,7 +16,7 @@ One of Africas longest-surviving rebel groups, the LRA has terrorised parts of c
 
 ### Changes:
 
-1. [Tomorrow, the United States will end a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/25/tomorrow-the-united-states-will-end-a-six-year-central-african-hunt-for-joseph-kony.md) _2017-04-26 22:30:06 (First version)_
+1. [Tomorrow, the United States will end a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/25/tomorrow-the-united-states-will-end-a-six-year-central-african-hunt-for-joseph-kony.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States announced it will end a six-year Central-African hunt for Joseph Kony the following day. ](/news/2017/04/25/the-united-states-announced-it-will-end-a-six-year-central-african-hunt-for-joseph-kony-the-following-day.md) _(Current version)_
 
 ### Related:

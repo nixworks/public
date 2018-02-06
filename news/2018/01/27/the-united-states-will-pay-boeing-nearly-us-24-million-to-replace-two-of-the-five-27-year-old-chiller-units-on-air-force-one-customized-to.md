@@ -17,7 +17,7 @@ The improvement is just the latest example of the bespoke requirements for the p
 
 ### Changes:
 
-1. [The U.S. will pay Boeing nearly $24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-u-s-will-pay-boeing-nearly-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to-carry-70-cu.md) _2018-01-28 00:30:22 (First version)_
+1. [The U.S. will pay Boeing nearly $24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-u-s-will-pay-boeing-nearly-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to-carry-70-cu.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md) _(Current version)_
 
 ### Related:

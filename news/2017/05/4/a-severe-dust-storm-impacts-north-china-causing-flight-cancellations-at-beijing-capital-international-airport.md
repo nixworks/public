@@ -16,7 +16,7 @@ A dust storm enveloped a swathe of northern China yesterday dragging down air qu
 
 ### Changes:
 
-1. [Asian Dust: A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/asian-dust-a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md) _2017-08-27 03:48:18 (First version)_
+1. [Asian Dust: A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/asian-dust-a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md) _2018-02-06 13:49:30 (First version)_
 1. [A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/08/13/three-successive-explosions-in-south-baghdad-ki
 
 ### Changes:
 
-1. [ Iraq sectarian violence: Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/iraq-sectarian-violence-p-three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md) _2017-08-25 03:18:11 (First version)_
-2. [ Iraq sectarian violence:: Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/iraq-sectarian-violence-three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md) _2017-08-27 03:18:08 (Update)_
+1. [ Iraq sectarian violence:: Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/iraq-sectarian-violence-three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq sectarian violence: Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/iraq-sectarian-violence-p-three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md) _2018-02-06 13:49:17 (Update)_
 2. [ Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md) _(Current version)_
 
 ### Related:

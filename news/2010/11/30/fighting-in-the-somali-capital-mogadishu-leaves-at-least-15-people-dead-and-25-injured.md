@@ -16,7 +16,7 @@ At least 15 people died and 25 were injured in fighting in Somalia’s capital, 
 
 ### Changes:
 
-1. [Battle of Mogadishu (2010): Fighting in the Somali capital Mogadishu leaves at least 15 people dead and 25 injured. ](/news/2010/11/30/battle-of-mogadishu-2010-fighting-in-the-somali-capital-mogadishu-leaves-at-least-15-people-dead-and-25-injured.md) _2017-08-27 03:31:20 (First version)_
+1. [Battle of Mogadishu (2010): Fighting in the Somali capital Mogadishu leaves at least 15 people dead and 25 injured. ](/news/2010/11/30/battle-of-mogadishu-2010-fighting-in-the-somali-capital-mogadishu-leaves-at-least-15-people-dead-and-25-injured.md) _2018-02-06 13:49:21 (First version)_
 1. [Fighting in the Somali capital Mogadishu leaves at least 15 people dead and 25 injured. ](/news/2010/11/30/fighting-in-the-somali-capital-mogadishu-leaves-at-least-15-people-dead-and-25-injured.md) _(Current version)_
 
 ### Related:

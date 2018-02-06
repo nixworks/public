@@ -18,8 +18,8 @@ Measure approved under fast-track procedure as European markets rally.
 
 ### Changes:
 
-1. [ Global financial crisis of September-October 2008: The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/global-financial-crisis-of-septemberaoctober-2008-p-the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md) _2017-08-25 03:23:04 (First version)_
-2. [ Global financial crisis of September-October 2008:: The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/global-financial-crisis-of-september-october-2008-the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md) _2017-08-27 03:22:57 (Update)_
+1. [ Global financial crisis of September-October 2008: The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/global-financial-crisis-of-septemberaoctober-2008-p-the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md) _2018-02-06 13:49:18 (First version)_
+2. [ Global financial crisis of September-October 2008:: The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/global-financial-crisis-of-september-october-2008-the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md) _(Current version)_
 
 ### Related:

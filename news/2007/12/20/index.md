@@ -9,15 +9,15 @@ _Context: New Orleans, Louisiana, public housing, Louisiana_
 
 ##### 2008
 ### [ United States presidential election, 2008: Tom Tancredo withdraws as a candidate for the Republican nomination and endorses Mitt Romney. ](/news/2007/12/20/united-states-presidential-election-2008-tom-tancredo-withdraws-as-a-candidate-for-the-republican-nomination-and-endorses-mitt-romney.md)
-_Context: Tom Tancredo, Republican, 2008, Mitt Romney_
+_Context: 2008, Mitt Romney, Tom Tancredo, Republican_
 
 ##### $
 ### [ The US$8 billion buyout of the Tribune Company is completed by Sam Zell. ](/news/2007/12/20/the-us-8-billion-buyout-of-the-tribune-company-is-completed-by-sam-zell.md)
-_Context: $, Sam Zell, Tribune Company_
+_Context: $, Tribune Company, Sam Zell_
 
 ##### Queen Elizabeth
 ### [ At 81 years, 7 months, and 29 days, Queen Elizabeth II becomes the longest-lived British monarch, surpassing the record of Queen Victoria. ](/news/2007/12/20/at-81-years-7-months-and-29-days-queen-elizabeth-ii-becomes-the-longest-lived-british-monarch-surpassing-the-record-of-queen-victoria.md)
-_Context: Queen Victoria, Queen, Queen Elizabeth_
+_Context: Queen Elizabeth, Queen Victoria, Queen_
 
 ##### earthquake
 ### [ A magnitude 6.8 earthquake strikes 50 km (31 miles) southeast of Gisborne, New Zealand at 20:55 local time. ](/news/2007/12/20/a-magnitude-6-8-earthquake-strikes-50-km-31-miles-southeast-of-gisborne-new-zealand-at-20-55-local-time.md)
@@ -25,7 +25,7 @@ Gisborne&amp;#39;s mayor Meng Foon&nbsp;urged residents to head for the hills if
 
 ##### 1998
 ### [ Sean Hoey is found not guilty of all 56 charges against him relating to the 1998 Omagh bombing. ](/news/2007/12/20/sean-hoey-is-found-not-guilty-of-all-56-charges-against-him-relating-to-the-1998-omagh-bombing.md)
-_Context: Omagh bombing, 1998_
+_Context: 1998, Omagh bombing_
 
 ## [Previous Day...](/news/2007/12/19/index.md)
 

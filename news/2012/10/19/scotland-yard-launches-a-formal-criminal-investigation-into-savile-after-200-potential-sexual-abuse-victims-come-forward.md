@@ -17,8 +17,8 @@ Scotland Yard launches a formal criminal investigation into the Sir Jimmy Savile
 
 ### Changes:
 
-1. [Jimmy Savile sexual abuse scandal:Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/jimmy-savile-sexual-abuse-scandal-pscotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-vic.md) _2017-08-25 03:36:43 (First version)_
-2. [Jimmy Savile sexual abuse scandal:: Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/jimmy-savile-sexual-abuse-scandal-scotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-vi.md) _2017-08-27 03:36:53 (Update)_
+1. [Jimmy Savile sexual abuse scandal:: Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/jimmy-savile-sexual-abuse-scandal-scotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-vi.md) _2018-02-06 13:49:24 (First version)_
+2. [Jimmy Savile sexual abuse scandal:Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/jimmy-savile-sexual-abuse-scandal-pscotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-vic.md) _2018-02-06 13:49:24 (Update)_
 2. [Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/scotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-victims-come-forward.md) _(Current version)_
 
 ### Related:

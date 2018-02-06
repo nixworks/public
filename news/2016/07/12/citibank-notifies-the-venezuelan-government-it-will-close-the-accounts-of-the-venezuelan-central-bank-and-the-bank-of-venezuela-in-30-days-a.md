@@ -16,7 +16,7 @@ Citibank will close the accounts of the Venezuelan Central Bank and the Bank of 
 
 ### Changes:
 
-1. [2016 state of emergency in Venezuela: Citibank notifies the Venezuelan government it will close the accounts of the Venezuelan Central Bank and the Bank of Venezuela in 30 days after conducting a "periodic risk management review." Venezuela relies on Citibank to conduct foreign currency transactions due to the country's strict currency controls. ](/news/2016/07/12/2016-state-of-emergency-in-venezuela-citibank-notifies-the-venezuelan-government-it-will-close-the-accounts-of-the-venezuelan-central-bank.md) _2017-08-27 03:46:29 (First version)_
+1. [2016 state of emergency in Venezuela: Citibank notifies the Venezuelan government it will close the accounts of the Venezuelan Central Bank and the Bank of Venezuela in 30 days after conducting a "periodic risk management review." Venezuela relies on Citibank to conduct foreign currency transactions due to the country's strict currency controls. ](/news/2016/07/12/2016-state-of-emergency-in-venezuela-citibank-notifies-the-venezuelan-government-it-will-close-the-accounts-of-the-venezuelan-central-bank.md) _2018-02-06 13:49:29 (First version)_
 1. [Citibank notifies the Venezuelan government it will close the accounts of the Venezuelan Central Bank and the Bank of Venezuela in 30 days after conducting a "periodic risk management review." Venezuela relies on Citibank to conduct foreign currency transactions due to the country's strict currency controls. ](/news/2016/07/12/citibank-notifies-the-venezuelan-government-it-will-close-the-accounts-of-the-venezuelan-central-bank-and-the-bank-of-venezuela-in-30-days-a.md) _(Current version)_
 
 ### Related:

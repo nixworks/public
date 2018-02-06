@@ -22,8 +22,8 @@ Formats: [HTML](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-
 
 ### Changes:
 
-1. [2010 Kyrgyzstan crisis:Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/2010-kyrgyzstan-crisis-proza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern.md) _2017-08-25 03:28:14 (First version)_
-2. [2010 Kyrgyzstan crisis:: Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/2010-kyrgyzstan-crisis-roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-souther.md) _2017-08-27 03:28:14 (Update)_
+1. [2010 Kyrgyzstan crisis:: Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/2010-kyrgyzstan-crisis-roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-souther.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Kyrgyzstan crisis:Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/2010-kyrgyzstan-crisis-proza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern.md) _2018-02-06 13:49:20 (Update)_
 2. [Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern-city-of-osh.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/06/17/a-british-television-commentator-is-sacked-afte
 
 ### Changes:
 
-1. [FIFA World Cup:A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/fifa-world-cup-pa-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-are.md) _2017-08-25 03:28:18 (First version)_
-2. [FIFA World Cup:: A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/fifa-world-cup-a-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-ar.md) _2017-08-27 03:28:18 (Update)_
+1. [FIFA World Cup:A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/fifa-world-cup-pa-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-are.md) _2018-02-06 13:49:20 (First version)_
+2. [FIFA World Cup:: A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/fifa-world-cup-a-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-ar.md) _2018-02-06 13:49:20 (Update)_
 2. [A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/a-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-are-traced-to-him.md) _(Current version)_
 
 ### Related:

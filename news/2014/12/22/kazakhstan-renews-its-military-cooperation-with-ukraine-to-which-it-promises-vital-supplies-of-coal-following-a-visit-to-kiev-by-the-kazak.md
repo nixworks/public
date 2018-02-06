@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/2014-pro-russian-unrest-in-ukraine-kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-fo.md) _2017-08-27 03:41:40 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/2014-pro-russian-unrest-in-ukraine-kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-fo.md) _2018-02-06 13:49:26 (First version)_
 1. [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md) _(Current version)_
 
 ### Related:

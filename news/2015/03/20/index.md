@@ -9,7 +9,7 @@ Islamic State has published a video purporting to show the beheading of three Ku
 
 ##### Yemeni crisis
 ### [Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md)
-_Context: Shiite, suicide bombing, Sana'a, Yemeni crisis_
+_Context: Sana'a, suicide bombing, Shiite, Yemeni crisis_
 
 ##### Mexico
 ### [An ambush on Mexican police in Ocotlan, Jalisco state kills ten with none of the gunmen apprehended. ](/news/2015/03/20/an-ambush-on-mexican-police-in-ocotlan-jalisco-state-kills-ten-with-none-of-the-gunmen-apprehended.md)
@@ -21,7 +21,7 @@ Tropical Cyclone Nathan is downgraded to a category three system after making la
 
 ##### derails
 ### [The Dehradun-Varanasi Janta Express derails near Bachhrawan Railway Station in Uttar Pradesh northern India resulting in at least 30 deaths and 150 people being injured. ](/news/2015/03/20/the-dehradun-varanasi-janta-express-derails-near-bachhrawan-railway-station-in-uttar-pradesh-northern-india-resulting-in-at-least-30-deaths.md)
-_Context: derails, Uttar Pradesh, India_
+_Context: derails, India, Uttar Pradesh_
 
 ##### Uruguayan Air Force
 ### [A Uruguayan Air Force Beechcraft King Air crashes shortly after take-off from Laguna del Sauce airport, killing ten people. ](/news/2015/03/20/a-uruguayan-air-force-beechcraft-king-air-crashes-shortly-after-take-off-from-laguna-del-sauce-airport-killing-ten-people.md)
@@ -29,7 +29,7 @@ An Argentine Beechcraft King Air has crashed and burned leaving 10 dead.
 
 ##### Biogen Idec
 ### [Biogen Idec Inc. reports that a drug in a phase II clinical research trial has achieved the first experimental demonstration of a statistically significant reduction in amyloid plaque as well as a slowing of clinical impairment in patients with Alzheimer's disease. The antibody drug, aducanumab, blocked beta amyloid formation, a protein that forms toxic brain-destroying plaques, and significantly slowed cognitive decline. ](/news/2015/03/20/biogen-idec-inc-reports-that-a-drug-in-a-phase-ii-clinical-research-trial-has-achieved-the-first-experimental-demonstration-of-a-statistica.md)
-_Context: phase II clinical research trial, aducanumab, beta amyloid, Alzheimer's disease, antibodies, Biogen Idec_
+_Context: Alzheimer's disease, phase II clinical research trial, Biogen Idec, aducanumab, antibodies, beta amyloid_
 
 ##### subprime mortgage
 ### [To resolve claims they were misled about the company's subprime mortgage exposure, a U.S. District Court Judge, Laura Swain approves a settlement between shareholders and American multinational insurer AIG, providing for a payout of $970.5 million. ](/news/2015/03/20/to-resolve-claims-they-were-misled-about-the-company-s-subprime-mortgage-exposure-a-u-s-district-court-judge-laura-swain-approves-a-settl.md)

@@ -16,8 +16,8 @@ Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as t
 
 ### Changes:
 
-1. [Thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md) _2017-04-29 20:30:07 (First version)_
-2. [People's Climate March: Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/people-s-climate-march-tens-of-thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md) _2017-08-27 03:48:16 (Update)_
+1. [Thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md) _2018-02-06 13:49:30 (First version)_
+2. [People's Climate March: Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/people-s-climate-march-tens-of-thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md) _2018-02-06 13:49:30 (Update)_
 2. [Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/tens-of-thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md) _(Current version)_
 
 ### Related:

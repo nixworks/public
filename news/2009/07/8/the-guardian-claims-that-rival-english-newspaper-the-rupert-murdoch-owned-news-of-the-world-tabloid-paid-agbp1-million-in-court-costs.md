@@ -18,7 +18,7 @@ Formats: [HTML](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper
 
 ### Changes:
 
-1. [ ''The Guardian'' claims that rival English newspaper, the Rupert Murdoch-owned ''News of the World'' tabloid, paid PS1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-aps1-million-in-court-cos.md) _2017-08-25 03:25:07 (First version)_
+1. [ ''The Guardian'' claims that rival English newspaper, the Rupert Murdoch-owned ''News of the World'' tabloid, paid PS1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-aps1-million-in-court-cos.md) _2018-02-06 13:49:19 (First version)_
 1. [ "The Guardian" claims that rival English newspaper, the Rupert Murdoch-owned "News of the World" tabloid, paid GBP1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-agbp1-million-in-court-costs.md) _(Current version)_
 
 ### Related:

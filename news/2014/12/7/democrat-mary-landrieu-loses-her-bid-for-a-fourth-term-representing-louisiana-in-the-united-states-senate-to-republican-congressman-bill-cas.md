@@ -17,7 +17,7 @@ Mary Landriu had been fighting to remain one of only two Democratic senators fro
 
 ### Changes:
 
-1. [Democrat Mary Landrieu loses her bid for a fourth term representing Louisiana in the United States Senate to Republican Congressman Bill Cassidy in Saturday's runoff election, increasing the GOP majority in the U.S. Senate to 54 seats. ](/news/2014/12/7/democrat-mary-landrieu-loses-her-bid-for-a-fourth-term-representing-louisiana-in-the-united-states-senate-to-republican-congressman-bill-c.md) _2017-08-25 03:41:18 (First version)_
+1. [Democrat Mary Landrieu loses her bid for a fourth term representing Louisiana in the United States Senate to Republican Congressman Bill Cassidy in Saturday's runoff election, increasing the GOP majority in the U.S. Senate to 54 seats. ](/news/2014/12/7/democrat-mary-landrieu-loses-her-bid-for-a-fourth-term-representing-louisiana-in-the-united-states-senate-to-republican-congressman-bill-c.md) _2018-02-06 13:49:26 (First version)_
 1. [Democrat Mary Landrieu loses her bid for a fourth term representing Louisiana in the United States Senate to Republican Congressman Bill Cassidy in Saturday's runoff election, increasing the GOP majority in the U.S. Senate to 54 seats. ](/news/2014/12/7/democrat-mary-landrieu-loses-her-bid-for-a-fourth-term-representing-louisiana-in-the-united-states-senate-to-republican-congressman-bill-cas.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Attacker prematurely detonates explosives after interception by a security guard
 
 ### Changes:
 
-1. [Persecution of Hazara people in Quetta: In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta-s Hazara town, who then detonated their device that contained 6|to|7|kg|abbr=on of explosive material, killing themselves and the guard. ](/news/2015/07/18/persecution-of-hazara-people-in-quetta-in-a-failed-suicide-blast-a-security-guard-intercepted-a-suicide-bomber-clad-in-female-clothing-att.md) _2017-08-27 03:42:43 (First version)_
+1. [Persecution of Hazara people in Quetta: In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta-s Hazara town, who then detonated their device that contained 6|to|7|kg|abbr=on of explosive material, killing themselves and the guard. ](/news/2015/07/18/persecution-of-hazara-people-in-quetta-in-a-failed-suicide-blast-a-security-guard-intercepted-a-suicide-bomber-clad-in-female-clothing-att.md) _2018-02-06 13:49:27 (First version)_
 1. [In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta's Hazara town, who then detonated their device that contained 6 to kg of explosive material, killing themselves and the guard. ](/news/2015/07/18/in-a-failed-suicide-blast-a-security-guard-intercepted-a-suicide-bomber-clad-in-female-clothing-attempting-to-enter-quettaas-hazara-town.md) _(Current version)_
 
 ### Related:

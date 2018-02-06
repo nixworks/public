@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-hum
 
 ### Changes:
 
-1. [Philippine criminal law: Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/philippine-criminal-law-concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-ja.md) _2017-08-27 03:47:16 (First version)_
+1. [Philippine criminal law: Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/philippine-criminal-law-concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-ja.md) _2018-02-06 13:49:29 (First version)_
 1. [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md) _(Current version)_
 
 ### Related:

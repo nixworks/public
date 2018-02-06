@@ -16,7 +16,7 @@ Saudi-led coalition air strikes and clashes killed at least 176 fighters and civ
 
 ### Changes:
 
-1. [Saudi-led military intervention in Yemen (2015-present): Air strikes and combat kill 200 in Yemen, highest daily toll so far. ](/news/2015/07/7/saudi-led-military-intervention-in-yemen-2015-present-air-strikes-and-combat-kill-200-in-yemen-highest-daily-toll-so-far.md) _2017-08-27 03:42:39 (First version)_
+1. [Saudi-led military intervention in Yemen (2015-present): Air strikes and combat kill 200 in Yemen, highest daily toll so far. ](/news/2015/07/7/saudi-led-military-intervention-in-yemen-2015-present-air-strikes-and-combat-kill-200-in-yemen-highest-daily-toll-so-far.md) _2018-02-06 13:49:27 (First version)_
 1. [ Air strikes and combat kill 200 in Yemen, highest daily toll so far. ](/news/2015/07/7/air-strikes-and-combat-kill-200-in-yemen-highest-daily-toll-so-far.md) _(Current version)_
 
 ### Related:

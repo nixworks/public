@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/8/forces-from-niger-and-chad-launch-a-ground-and-a
 
 ### Changes:
 
-1. [Boko Haram: Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/boko-haram-forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md) _2017-08-27 03:42:04 (First version)_
+1. [Boko Haram: Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/boko-haram-forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md) _2018-02-06 13:49:27 (First version)_
 1. [Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

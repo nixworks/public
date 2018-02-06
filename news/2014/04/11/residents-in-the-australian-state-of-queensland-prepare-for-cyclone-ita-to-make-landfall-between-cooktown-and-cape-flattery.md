@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/11/residents-in-the-australian-state-of-queensland
 
 ### Changes:
 
-1. [Cyclone Ita:Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-presidents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md) _2017-08-25 03:40:16 (First version)_
-2. [Cyclone Ita:: Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md) _2017-08-27 03:40:34 (Update)_
+1. [Cyclone Ita:: Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md) _2018-02-06 13:49:26 (First version)_
+2. [Cyclone Ita:Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-presidents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md) _2018-02-06 13:49:26 (Update)_
 2. [Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/20/the-european-union-proposes-offering-ukraine-vi
 
 ### Changes:
 
-1. [Ukraine-European Union relations: The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/ukraine-european-union-relations-the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-uncle.md) _2017-08-27 03:45:43 (First version)_
+1. [Ukraine-European Union relations: The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/ukraine-european-union-relations-the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-uncle.md) _2018-02-06 13:49:28 (First version)_
 1. [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md) _(Current version)_
 
 ### Related:

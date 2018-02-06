@@ -20,7 +20,7 @@ Protests against proposed spending cuts by the Greek government have turned viol
 
 ### Changes:
 
-1. [2010 Greek riots: One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/2010-greek-riots-one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-th.md) _2017-08-27 03:27:48 (First version)_
+1. [2010 Greek riots: One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/2010-greek-riots-one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-th.md) _2018-02-06 13:49:20 (First version)_
 1. [One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-the-recent-papandreo.md) _(Current version)_
 
 ### Related:

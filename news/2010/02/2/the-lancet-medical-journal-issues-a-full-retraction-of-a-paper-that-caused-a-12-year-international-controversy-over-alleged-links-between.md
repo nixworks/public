@@ -17,7 +17,7 @@ The Lancet medical journal formally retracted a paper on Tuesday that caused a 1
 
 ### Changes:
 
-1. [''The Lancet'' medical journal issues a full retraction of a paper that caused a 12-year international controversy over alleged links between the MMR vaccine and autism. ](/news/2010/02/2/the-lancet-medical-journal-issues-a-full-retraction-of-a-paper-that-caused-a-12-year-international-controversy-over-alleged-links-betwee.md) _2017-08-25 03:27:04 (First version)_
+1. [''The Lancet'' medical journal issues a full retraction of a paper that caused a 12-year international controversy over alleged links between the MMR vaccine and autism. ](/news/2010/02/2/the-lancet-medical-journal-issues-a-full-retraction-of-a-paper-that-caused-a-12-year-international-controversy-over-alleged-links-betwee.md) _2018-02-06 13:49:19 (First version)_
 1. ["The Lancet" medical journal issues a full retraction of a paper that caused a 12-year international controversy over alleged links between the MMR vaccine and autism. ](/news/2010/02/2/the-lancet-medical-journal-issues-a-full-retraction-of-a-paper-that-caused-a-12-year-international-controversy-over-alleged-links-between.md) _(Current version)_
 
 ### Related:

@@ -16,5 +16,5 @@ Gerry Anderson, creator of the Thunderbirds and Joe 90 puppet superhero TV shows
 
 ### Changes:
 
-1. [Gerry Anderson, pioneer of "supermarionation" and creator of classic television series such as ''Thunderbirds'' and ''Stingray'', dies aged 83. ](/news/2012/12/26/gerry-anderson-pioneer-of-supermarionation-and-creator-of-classic-television-series-such-as-thunderbirds-and-stingray-dies-aged.md) _2017-08-25 03:37:08 (First version)_
+1. [Gerry Anderson, pioneer of "supermarionation" and creator of classic television series such as ''Thunderbirds'' and ''Stingray'', dies aged 83. ](/news/2012/12/26/gerry-anderson-pioneer-of-supermarionation-and-creator-of-classic-television-series-such-as-thunderbirds-and-stingray-dies-aged.md) _2018-02-06 13:49:24 (First version)_
 1. [Gerry Anderson, pioneer of "supermarionation" and creator of classic television series such as "Thunderbirds" and "Stingray", dies aged 83. ](/news/2012/12/26/gerry-anderson-pioneer-of-supermarionation-and-creator-of-classic-television-series-such-as-thunderbirds-and-stingray-dies-aged-83.md) _(Current version)_

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/13/three-georgian-soldiers-are-killed-and-several-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001apresent-pthree-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-bas.md) _2017-08-25 03:38:39 (First version)_
-2. [War in Afghanistan (2001-present):: Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001-present-three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-ba.md) _2017-08-27 03:38:52 (Update)_
+1. [War in Afghanistan (2001-present):Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001apresent-pthree-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-bas.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001-present-three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-ba.md) _2018-02-06 13:49:24 (Update)_
 2. [Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-base-in-the-helmand-province.md) _(Current version)_
 
 ### Related:

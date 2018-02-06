@@ -18,7 +18,7 @@ Hurricane Hermine sweeps onto Florida&#039;s Gulf coast as officials warn of lif
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Residents of the American state of Florida prepare for the impact of Hurricane Hermine which is expected to make landfall today. A state of emergency has been declared in 51 of the 67 counties in the state. ](/news/2016/09/2/2016-atlantic-hurricane-season-residents-of-the-american-state-of-florida-prepare-for-the-impact-of-hurricane-hermine-which-is-expected-to.md) _2017-08-27 03:46:45 (First version)_
+1. [2016 Atlantic hurricane season: Residents of the American state of Florida prepare for the impact of Hurricane Hermine which is expected to make landfall today. A state of emergency has been declared in 51 of the 67 counties in the state. ](/news/2016/09/2/2016-atlantic-hurricane-season-residents-of-the-american-state-of-florida-prepare-for-the-impact-of-hurricane-hermine-which-is-expected-to.md) _2018-02-06 13:49:29 (First version)_
 1. [Residents of the American state of Florida prepare for the impact of Hurricane Hermine which is expected to make landfall today. A state of emergency has been declared in 51 of the 67 counties in the state. ](/news/2016/09/2/residents-of-the-american-state-of-florida-prepare-for-the-impact-of-hurricane-hermine-which-is-expected-to-make-landfall-today-a-state-of.md) _(Current version)_
 
 ### Related:

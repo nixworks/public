@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-curre
 
 ### Changes:
 
-1. [ Exiled Bangladeshi author Taslima Nasreen, currently living in Sweden, is seeking Indian citizenship. Conservative Muslims of Bangladesh have deemed her works blasphemous and have called for her execution. Nasreen states her wish to live in West Bengal. ](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-currently-living-in-sweden-is-seeking-indian-citizenship-conservative-muslims-of-bangladesh-h.md) _2017-08-25 03:15:40 (First version)_
+1. [ Exiled Bangladeshi author Taslima Nasreen, currently living in Sweden, is seeking Indian citizenship. Conservative Muslims of Bangladesh have deemed her works blasphemous and have called for her execution. Nasreen states her wish to live in West Bengal. ](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-currently-living-in-sweden-is-seeking-indian-citizenship-conservative-muslims-of-bangladesh-h.md) _2018-02-06 13:49:16 (First version)_
 1. [ Exiled Bangladeshi author Taslima Nasreen, currently living in Sweden, is seeking Indian citizenship. Conservative Muslims of Bangladesh have deemed her works blasphemous and have called for her execution. Nasreen states her wish to live in West Bengal. ](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-currently-living-in-sweden-is-seeking-indian-citizenship-conservative-muslims-of-bangladesh-ha.md) _(Current version)_
 
 ### Related:

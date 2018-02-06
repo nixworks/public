@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/03/4/bubble-fusion-scientific-papers-for-and-against-
 
 ### Changes:
 
-1. [Bubble fusion: Scientific papers for and against the observation of apparent nuclear fusion in imploding bubbles become available online. If this can be repeated, this is an important scientific breakthrough. Other physicists fear that this may be a repeat of the cold fusion fiasco.](/news/2002/03/4/bubble-fusion-scientific-papers-for-and-against-the-observation-of-apparent-nuclear-fusion-in-imploding-bubbles-become-available-online-i.md) _2017-08-25 03:15:12 (First version)_
+1. [Bubble fusion: Scientific papers for and against the observation of apparent nuclear fusion in imploding bubbles become available online. If this can be repeated, this is an important scientific breakthrough. Other physicists fear that this may be a repeat of the cold fusion fiasco.](/news/2002/03/4/bubble-fusion-scientific-papers-for-and-against-the-observation-of-apparent-nuclear-fusion-in-imploding-bubbles-become-available-online-i.md) _2018-02-06 13:49:15 (First version)_
 1. [Bubble fusion: Scientific papers for and against the observation of apparent nuclear fusion in imploding bubbles become available online. If this can be repeated, this is an important scientific breakthrough. Other physicists fear that this may be a repeat of the cold fusion fiasco.](/news/2002/03/4/bubble-fusion-scientific-papers-for-and-against-the-observation-of-apparent-nuclear-fusion-in-imploding-bubbles-become-available-online-if.md) _(Current version)_
 
 ### Related:

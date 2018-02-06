@@ -16,7 +16,7 @@ Ukrainian government forces reclaimed the port city of Mariupol from pro-Russian
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/2014-pro-russian-conflict-in-ukraine-arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-por.md) _2017-08-27 03:40:50 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/2014-pro-russian-conflict-in-ukraine-arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-por.md) _2018-02-06 13:49:26 (First version)_
 1. [Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-port-of-mariupol.md) _(Current version)_
 
 ### Related:

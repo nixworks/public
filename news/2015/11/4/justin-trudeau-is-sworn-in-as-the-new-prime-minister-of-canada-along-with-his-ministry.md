@@ -17,8 +17,8 @@ Ethnically diverse ministers include 15 men and 15 women as new prime minister h
 
 ### Changes:
 
-1. [Canadian governmentJustin Trudeau is sworn in as the new Prime Minister of Canada along with his ministry. ](/news/2015/11/4/canadian-governmentpjustin-trudeau-is-sworn-in-as-the-new-prime-minister-of-canada-along-with-his-ministry.md) _2017-08-25 03:43:22 (First version)_
-2. [Canadian government: Justin Trudeau is sworn in as the new Prime Minister of Canada along with his ministry. ](/news/2015/11/4/canadian-government-justin-trudeau-is-sworn-in-as-the-new-prime-minister-of-canada-along-with-his-ministry.md) _2017-08-27 03:43:41 (Update)_
+1. [Canadian governmentJustin Trudeau is sworn in as the new Prime Minister of Canada along with his ministry. ](/news/2015/11/4/canadian-governmentpjustin-trudeau-is-sworn-in-as-the-new-prime-minister-of-canada-along-with-his-ministry.md) _2018-02-06 13:49:28 (First version)_
+2. [Canadian government: Justin Trudeau is sworn in as the new Prime Minister of Canada along with his ministry. ](/news/2015/11/4/canadian-government-justin-trudeau-is-sworn-in-as-the-new-prime-minister-of-canada-along-with-his-ministry.md) _2018-02-06 13:49:28 (Update)_
 2. [Justin Trudeau is sworn in as the new Prime Minister of Canada along with his ministry. ](/news/2015/11/4/justin-trudeau-is-sworn-in-as-the-new-prime-minister-of-canada-along-with-his-ministry.md) _(Current version)_
 
 ### Related:

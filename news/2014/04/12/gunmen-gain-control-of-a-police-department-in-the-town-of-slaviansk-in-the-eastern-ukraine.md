@@ -16,7 +16,7 @@ Ukraine appealed to Russia to halt &quot;provocative actions&quot; in its easter
 
 ### Changes:
 
-1. [2014 pro-Russian protests in Ukraine: Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/2014-pro-russian-protests-in-ukraine-gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md) _2017-08-27 03:40:34 (First version)_
+1. [2014 pro-Russian protests in Ukraine: Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/2014-pro-russian-protests-in-ukraine-gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md) _(Current version)_
 
 ### Related:

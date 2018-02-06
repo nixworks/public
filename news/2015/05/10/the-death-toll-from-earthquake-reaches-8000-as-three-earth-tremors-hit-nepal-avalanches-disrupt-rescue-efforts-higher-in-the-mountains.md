@@ -16,7 +16,7 @@ Three fresh tremors today jolted Nepal, triggering panic among the people alread
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. ](/news/2015/05/10/april-2015-nepal-earthquake-the-death-toll-from-earthquake-reaches-8000-as-three-earth-tremors-hit-nepal-avalanches-disrupt-rescue-efforts.md) _2017-08-27 03:42:17 (First version)_
+1. [April 2015 Nepal earthquake: The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. ](/news/2015/05/10/april-2015-nepal-earthquake-the-death-toll-from-earthquake-reaches-8000-as-three-earth-tremors-hit-nepal-avalanches-disrupt-rescue-efforts.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. ](/news/2015/05/10/the-death-toll-from-earthquake-reaches-8000-as-three-earth-tremors-hit-nepal-avalanches-disrupt-rescue-efforts-higher-in-the-mountains.md) _(Current version)_
 
 ### Related:

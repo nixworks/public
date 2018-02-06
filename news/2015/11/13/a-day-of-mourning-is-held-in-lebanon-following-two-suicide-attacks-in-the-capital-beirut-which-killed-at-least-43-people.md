@@ -16,7 +16,7 @@ Twin explosions in the capital kill at least 43 people with ISIL claiming respon
 
 ### Changes:
 
-1. [2015 Beirut bombings: A day of mourning is held in Lebanon following two suicide attacks in the capital Beirut which killed at least 43 people. ](/news/2015/11/13/2015-beirut-bombings-a-day-of-mourning-is-held-in-lebanon-following-two-suicide-attacks-in-the-capital-beirut-which-killed-at-least-43-peop.md) _2017-08-27 03:43:50 (First version)_
+1. [2015 Beirut bombings: A day of mourning is held in Lebanon following two suicide attacks in the capital Beirut which killed at least 43 people. ](/news/2015/11/13/2015-beirut-bombings-a-day-of-mourning-is-held-in-lebanon-following-two-suicide-attacks-in-the-capital-beirut-which-killed-at-least-43-peop.md) _2018-02-06 13:49:28 (First version)_
 1. [A day of mourning is held in Lebanon following two suicide attacks in the capital Beirut which killed at least 43 people. ](/news/2015/11/13/a-day-of-mourning-is-held-in-lebanon-following-two-suicide-attacks-in-the-capital-beirut-which-killed-at-least-43-people.md) _(Current version)_
 
 ### Related:

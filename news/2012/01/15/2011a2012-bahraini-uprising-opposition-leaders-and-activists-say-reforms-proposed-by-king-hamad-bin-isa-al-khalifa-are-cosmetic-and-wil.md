@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/01/15/2011a2012-bahraini-uprising-opposition-leaders-
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011-2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md) _2017-08-27 03:35:00 (First version)_
+1. [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011-2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011a2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md) _(Current version)_
 
 ### Related:

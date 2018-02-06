@@ -18,8 +18,8 @@ A man died and another was hospitalized in serious condition Saturday afternoon 
 
 ### Changes:
 
-1. [US heatwave:A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-pa-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _2017-08-25 03:38:55 (First version)_
-2. [US heatwave:: A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-a-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _2017-08-27 03:39:10 (Update)_
+1. [US heatwave:A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-pa-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _2018-02-06 13:49:25 (First version)_
+2. [US heatwave:: A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-a-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _2018-02-06 13:49:25 (Update)_
 2. [A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/a-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md) _(Current version)_
 
 ### Related:

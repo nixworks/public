@@ -16,7 +16,7 @@ French Socialist Benoit Hamon called on all leftist voters to unite behind his p
 
 ### Changes:
 
-1. [French presidential election, 2017: Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/french-presidential-election-2017-former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-fo.md) _2017-08-27 03:48:04 (First version)_
+1. [French presidential election, 2017: Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/french-presidential-election-2017-former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-fo.md) _2018-02-06 13:49:30 (First version)_
 1. [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md) _(Current version)_
 
 ### Related:

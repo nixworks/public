@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/20/law-a-go-daddy-software-pursues-verisign-for-da
 
 ### Changes:
 
-1. [ Law - Go Daddy Software pursues VeriSign for damages.](/news/2002/06/20/law-go-daddy-software-pursues-verisign-for-damages.md) _2017-08-27 03:15:13 (First version)_
+1. [ Law - Go Daddy Software pursues VeriSign for damages.](/news/2002/06/20/law-go-daddy-software-pursues-verisign-for-damages.md) _2018-02-06 13:49:15 (First version)_
 1. [ Law - Go Daddy Software pursues VeriSign for damages.](/news/2002/06/20/law-a-go-daddy-software-pursues-verisign-for-damages.md) _(Current version)_
 
 ### Related:

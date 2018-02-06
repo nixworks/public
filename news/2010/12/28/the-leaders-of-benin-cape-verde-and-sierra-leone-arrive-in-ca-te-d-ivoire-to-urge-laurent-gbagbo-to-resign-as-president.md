@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leon
 
 ### [2010-12-28](/news/2010/12/28/index.md)
 
-##### Beninese
+##### Benin
 # The leaders of Benin, Cape Verde and Sierra Leone arrive in Cote d'Ivoire to urge Laurent Gbagbo to resign as President. 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leon
 
 ### Related:
 
-1. [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md) _Context: Beninese, Cape Verde, Cote d'Ivoire, Laurent Gbagbo, President, Sierra Leone_
+1. [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md) _Context: Benin, Cape Verde, Cote d'Ivoire, Laurent Gbagbo, President, Sierra Leone_
 2. [2010-2011 Ivorian crisis: Gunmen shoot four people dead at a roadblock run by supporters of disputed Cote d'Ivoire President Laurent Gbagbo. ](/news/2011/03/15/2010a2011-ivorian-crisis-gunmen-shoot-four-people-dead-at-a-roadblock-run-by-supporters-of-disputed-ca-te-d-ivoire-president-laurent-gbag.md) _Context: Cote d'Ivoire, Laurent Gbagbo, President_
 3. [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md) _Context: Cote d'Ivoire, Laurent Gbagbo, President_
 4. [The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the-country.md) _Context: Cote d'Ivoire, Laurent Gbagbo, President_

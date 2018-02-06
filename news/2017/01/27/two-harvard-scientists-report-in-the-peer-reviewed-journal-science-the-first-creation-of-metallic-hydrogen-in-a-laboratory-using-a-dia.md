@@ -18,7 +18,7 @@ US scientists draw controversy as they claim to have fulfilled the decades-long 
 
 ### Changes:
 
-1. [ Two Harvard scientists report, in the peer-reviewed journal ''Science'', the first creation of metallic hydrogen in a laboratory, using a diamond anvil cell. Other researchers did not agree with this finding when it was first posted on the arXiv preprint server in October 2016, and have not yet changed their positions. ](/news/2017/01/27/two-harvard-scientists-report-in-the-peer-reviewed-journal-science-the-first-creation-of-metallic-hydrogen-in-a-laboratory-using-a-d.md) _2017-08-25 03:47:17 (First version)_
+1. [ Two Harvard scientists report, in the peer-reviewed journal ''Science'', the first creation of metallic hydrogen in a laboratory, using a diamond anvil cell. Other researchers did not agree with this finding when it was first posted on the arXiv preprint server in October 2016, and have not yet changed their positions. ](/news/2017/01/27/two-harvard-scientists-report-in-the-peer-reviewed-journal-science-the-first-creation-of-metallic-hydrogen-in-a-laboratory-using-a-d.md) _2018-02-06 13:49:30 (First version)_
 1. [ Two Harvard scientists report, in the peer-reviewed journal "Science", the first creation of metallic hydrogen in a laboratory, using a diamond anvil cell. Other researchers did not agree with this finding when it was first posted on the arXiv preprint server in October 2016, and have not yet changed their positions. ](/news/2017/01/27/two-harvard-scientists-report-in-the-peer-reviewed-journal-science-the-first-creation-of-metallic-hydrogen-in-a-laboratory-using-a-dia.md) _(Current version)_
 
 ### Related:

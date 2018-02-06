@@ -19,6 +19,6 @@ An intensified campaign with foreign leaders and diplomats this week will press 
 
 ### Changes:
 
-1. [Political violence in Egypt:Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-pisrael-to-call-on-us-eu-to-support-egyptian-army.md) _2017-08-25 03:39:10 (First version)_
-2. [Political violence in Egypt:: Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-israel-to-call-on-us-eu-to-support-egyptian-army.md) _2017-08-27 03:39:25 (Update)_
+1. [Political violence in Egypt:Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-pisrael-to-call-on-us-eu-to-support-egyptian-army.md) _2018-02-06 13:49:25 (First version)_
+2. [Political violence in Egypt:: Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-israel-to-call-on-us-eu-to-support-egyptian-army.md) _2018-02-06 13:49:25 (Update)_
 2. [Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/israel-to-call-on-us-eu-to-support-egyptian-army.md) _(Current version)_

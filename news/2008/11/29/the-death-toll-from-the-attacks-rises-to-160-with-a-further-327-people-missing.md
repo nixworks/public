@@ -16,6 +16,6 @@ Formats: [HTML](/news/2008/11/29/the-death-toll-from-the-attacks-rises-to-160-wi
 
 ### Changes:
 
-1. [ November 2008 Mumbai attacks: The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/november-2008-mumbai-attacks-p-the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md) _2017-08-25 03:23:15 (First version)_
-2. [ November 2008 Mumbai attacks:: The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/november-2008-mumbai-attacks-the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md) _2017-08-27 03:23:07 (Update)_
+1. [ November 2008 Mumbai attacks:: The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/november-2008-mumbai-attacks-the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md) _2018-02-06 13:49:18 (First version)_
+2. [ November 2008 Mumbai attacks: The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/november-2008-mumbai-attacks-p-the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md) _2018-02-06 13:49:18 (Update)_
 2. [ The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md) _(Current version)_

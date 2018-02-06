@@ -21,7 +21,7 @@ A U.S. Navy destroyer sailed within 12 nautical miles of artificial islands clai
 
 ### Changes:
 
-1. [A United States Navy ship, the USS ''Lassen'', sails near the Spratly Islands, challenging Beijing's claim that the islands are Chinese territory. China's Ministry of Foreign Affairs strongly condemned the actions of the United States in the South China Sea, saying "China will firmly react to this deliberate provocation". ](/news/2015/10/27/a-united-states-navy-ship-the-uss-lassen-sails-near-the-spratly-islands-challenging-beijing-s-claim-that-the-islands-are-chinese-terr.md) _2017-08-25 03:43:14 (First version)_
+1. [A United States Navy ship, the USS ''Lassen'', sails near the Spratly Islands, challenging Beijing's claim that the islands are Chinese territory. China's Ministry of Foreign Affairs strongly condemned the actions of the United States in the South China Sea, saying "China will firmly react to this deliberate provocation". ](/news/2015/10/27/a-united-states-navy-ship-the-uss-lassen-sails-near-the-spratly-islands-challenging-beijing-s-claim-that-the-islands-are-chinese-terr.md) _2018-02-06 13:49:28 (First version)_
 1. [A United States Navy ship, the USS "Lassen", sails near the Spratly Islands, challenging Beijing's claim that the islands are Chinese territory. China's Ministry of Foreign Affairs strongly condemned the actions of the United States in the South China Sea, saying "China will firmly react to this deliberate provocation". ](/news/2015/10/27/a-united-states-navy-ship-the-uss-lassen-sails-near-the-spratly-islands-challenging-beijing-s-claim-that-the-islands-are-chinese-territ.md) _(Current version)_
 
 ### Related:

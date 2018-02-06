@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/7/the-finance-minister-of-france-michel-sapin-says
 
 ### Changes:
 
-1. [The Finance Minister of France says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough-brave-decision.md) _2017-10-17 03:46:47 (First version)_
+1. [The Finance Minister of France says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough-brave-decision.md) _2018-02-06 13:49:26 (First version)_
 1. [The Finance Minister of France, Michel Sapin, says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-michel-sapin-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough.md) _(Current version)_
 
 ### Related:

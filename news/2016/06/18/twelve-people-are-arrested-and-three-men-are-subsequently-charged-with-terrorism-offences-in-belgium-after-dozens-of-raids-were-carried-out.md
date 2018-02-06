@@ -16,7 +16,7 @@ Belgian officials charge three men arrested in overnight raids with terrorism of
 
 ### Changes:
 
-1. [Terrorism in the European Union: Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/terrorism-in-the-european-union-twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after.md) _2017-08-27 03:46:18 (First version)_
+1. [Terrorism in the European Union: Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/terrorism-in-the-european-union-twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after.md) _2018-02-06 13:49:29 (First version)_
 1. [Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after-dozens-of-raids-were-carried-out.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-i
 
 ### Changes:
 
-1. [ The 6th United States Circuit Court of Appeals in Ohio rejects a lawsuit against George W. Bush's domestic wiretapping program, saying that the plaintiffs did not have the right to sue. ](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-in-ohio-rejects-a-lawsuit-against-george-w-bush-s-domestic-wiretapping-program-saying-tha.md) _2017-08-25 03:20:07 (First version)_
+1. [ The 6th United States Circuit Court of Appeals in Ohio rejects a lawsuit against George W. Bush's domestic wiretapping program, saying that the plaintiffs did not have the right to sue. ](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-in-ohio-rejects-a-lawsuit-against-george-w-bush-s-domestic-wiretapping-program-saying-tha.md) _2018-02-06 13:49:17 (First version)_
 1. [ The 6th United States Circuit Court of Appeals in Ohio rejects a lawsuit against George W. Bush's domestic wiretapping program, saying that the plaintiffs did not have the right to sue. ](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-in-ohio-rejects-a-lawsuit-against-george-w-bush-s-domestic-wiretapping-program-saying-that.md) _(Current version)_
 
 ### Related:

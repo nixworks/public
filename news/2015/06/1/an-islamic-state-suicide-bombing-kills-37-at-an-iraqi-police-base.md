@@ -16,8 +16,8 @@ A huge suicide bomb attack on an Iraqi police base killed at least 37 people Mon
 
 ### Changes:
 
-1. [Iraq War (2014-present):An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/iraq-war-2014apresent-pan-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md) _2017-08-25 03:42:09 (First version)_
-2. [Iraq War (2014-present):: An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/iraq-war-2014-present-an-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md) _2017-08-27 03:42:27 (Update)_
+1. [Iraq War (2014-present):An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/iraq-war-2014apresent-pan-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md) _2018-02-06 13:49:27 (First version)_
+2. [Iraq War (2014-present):: An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/iraq-war-2014-present-an-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md) _2018-02-06 13:49:27 (Update)_
 2. [An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/an-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md) _(Current version)_
 
 ### Related:

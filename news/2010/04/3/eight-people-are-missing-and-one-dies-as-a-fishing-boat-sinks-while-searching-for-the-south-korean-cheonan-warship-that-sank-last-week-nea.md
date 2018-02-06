@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishi
 
 ### Changes:
 
-1. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean ''Cheonan'' warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-n.md) _2017-08-25 03:27:32 (First version)_
+1. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean ''Cheonan'' warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-n.md) _2018-02-06 13:49:20 (First version)_
 1. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean "Cheonan" warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-nea.md) _(Current version)_
 
 ### Related:

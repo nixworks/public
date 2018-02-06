@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/19/sierra-leone-begins-a-nationwide-lockdown-in-or
 
 ### Changes:
 
-1. [2014 West African ebola outbreak: Sierra Leone begins a nationwide lockdown in order to slow the spread of the disease. ](/news/2014/09/19/2014-west-african-ebola-outbreak-sierra-leone-begins-a-nationwide-lockdown-in-order-to-slow-the-spread-of-the-disease.md) _2017-08-27 03:41:18 (First version)_
+1. [2014 West African ebola outbreak: Sierra Leone begins a nationwide lockdown in order to slow the spread of the disease. ](/news/2014/09/19/2014-west-african-ebola-outbreak-sierra-leone-begins-a-nationwide-lockdown-in-order-to-slow-the-spread-of-the-disease.md) _2018-02-06 13:49:26 (First version)_
 1. [Sierra Leone begins a nationwide lockdown in order to slow the spread of the disease. ](/news/2014/09/19/sierra-leone-begins-a-nationwide-lockdown-in-order-to-slow-the-spread-of-the-disease.md) _(Current version)_
 
 ### Related:

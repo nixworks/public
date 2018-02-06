@@ -16,7 +16,7 @@ By Jean Christou and Andria Kades Incumbent President Nicos Anastasiades on Sund
 
 ### Changes:
 
-1. [Incumbent Nicos Anastasiades wins the first round, but well short of an absolute majority required to win outright. He will face his rival in 2013, Stavros Malas in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-but-well-short-of-an-absolute-majority-required-to-win-outright-he-will-face-his-rival-i.md) _2018-01-29 08:30:24 (First version)_
+1. [Incumbent Nicos Anastasiades wins the first round, but well short of an absolute majority required to win outright. He will face his rival in 2013, Stavros Malas in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-but-well-short-of-an-absolute-majority-required-to-win-outright-he-will-face-his-rival-i.md) _2018-02-06 13:49:31 (First version)_
 1. [Incumbent Nicos Anastasiades wins the first round of the election, but is well short of an absolute majority required to win outright. He will face his rival from the 2013 election, Stavros Malas, in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-of-the-election-but-is-well-short-of-an-absolute-majority-required-to-win-outright-he-wi.md) _(Current version)_
 
 ### Related:

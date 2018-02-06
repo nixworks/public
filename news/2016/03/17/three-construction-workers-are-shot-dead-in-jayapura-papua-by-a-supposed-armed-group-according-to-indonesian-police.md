@@ -16,7 +16,7 @@ Police in Indonesia&#39;s Papua region say at least three construction workers w
 
 ### Changes:
 
-1. [Papua conflict: Three construction workers are shot dead in Jayapura, Papua, by a supposed armed group, according to Indonesian police. ](/news/2016/03/17/papua-conflict-three-construction-workers-are-shot-dead-in-jayapura-papua-by-a-supposed-armed-group-according-to-indonesian-police.md) _2017-08-27 03:45:16 (First version)_
+1. [Papua conflict: Three construction workers are shot dead in Jayapura, Papua, by a supposed armed group, according to Indonesian police. ](/news/2016/03/17/papua-conflict-three-construction-workers-are-shot-dead-in-jayapura-papua-by-a-supposed-armed-group-according-to-indonesian-police.md) _2018-02-06 13:49:28 (First version)_
 1. [Three construction workers are shot dead in Jayapura, Papua, by a supposed armed group, according to Indonesian police. ](/news/2016/03/17/three-construction-workers-are-shot-dead-in-jayapura-papua-by-a-supposed-armed-group-according-to-indonesian-police.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/20/the-magazine-science-chose-the-discovery-of-sma
 
 ### Changes:
 
-1. [The magazine ''Science'' chose the discovery of small interfering RNAs (siRNAs) as the top science story of the year. The molecular switches have the potential to treat such diseases as HIV and cancer.](/news/2002/12/20/the-magazine-science-chose-the-discovery-of-small-interfering-rnas-sirnas-as-the-top-science-story-of-the-year-the-molecular-switche.md) _2017-08-25 03:15:18 (First version)_
+1. [The magazine ''Science'' chose the discovery of small interfering RNAs (siRNAs) as the top science story of the year. The molecular switches have the potential to treat such diseases as HIV and cancer.](/news/2002/12/20/the-magazine-science-chose-the-discovery-of-small-interfering-rnas-sirnas-as-the-top-science-story-of-the-year-the-molecular-switche.md) _2018-02-06 13:49:15 (First version)_
 1. [The magazine "Science" chose the discovery of small interfering RNAs (siRNAs) as the top science story of the year. The molecular switches have the potential to treat such diseases as HIV and cancer.](/news/2002/12/20/the-magazine-science-chose-the-discovery-of-small-interfering-rnas-sirnas-as-the-top-science-story-of-the-year-the-molecular-switches-h.md) _(Current version)_
 
 ### Related:

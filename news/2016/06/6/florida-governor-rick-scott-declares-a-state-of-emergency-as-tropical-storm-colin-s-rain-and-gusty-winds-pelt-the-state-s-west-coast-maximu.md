@@ -18,7 +18,7 @@ Winds, rain and some flooding began pounding parts of Florida&rsquo;s west coast
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Florida Governor Rick Scott declares a state of emergency as Tropical Storm Colin's rain and gusty winds pelt the state's west coast. Maximum sustained winds at 1:00 p.m. EDT are 50 mph (85 kpm). Between three and five inches of rain are forecast for northern Florida, with some areas getting up to eight inches. ](/news/2016/06/6/2016-atlantic-hurricane-season-florida-governor-rick-scott-declares-a-state-of-emergency-as-tropical-storm-colin-s-rain-and-gusty-winds-pel.md) _2017-08-27 03:46:12 (First version)_
+1. [2016 Atlantic hurricane season: Florida Governor Rick Scott declares a state of emergency as Tropical Storm Colin's rain and gusty winds pelt the state's west coast. Maximum sustained winds at 1:00 p.m. EDT are 50 mph (85 kpm). Between three and five inches of rain are forecast for northern Florida, with some areas getting up to eight inches. ](/news/2016/06/6/2016-atlantic-hurricane-season-florida-governor-rick-scott-declares-a-state-of-emergency-as-tropical-storm-colin-s-rain-and-gusty-winds-pel.md) _2018-02-06 13:49:29 (First version)_
 1. [Florida Governor Rick Scott declares a state of emergency as Tropical Storm Colin's rain and gusty winds pelt the state's west coast. Maximum sustained winds at 1:00 p.m. EDT are 50 mph (85 kpm). Between three and five inches of rain are forecast for northern Florida, with some areas getting up to eight inches. ](/news/2016/06/6/florida-governor-rick-scott-declares-a-state-of-emergency-as-tropical-storm-colin-s-rain-and-gusty-winds-pelt-the-state-s-west-coast-maximu.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Activists say an attack in the east may have originated in Iraq.
 
 ### Changes:
 
-1. [Syrian Civil War:The Free Syrian Army accuses the government of Iraq of conducting an airstrike against its forces in Deir ez-Zor, a town in eastern Syria. ](/news/2013/04/27/syrian-civil-war-pthe-free-syrian-army-accuses-the-government-of-iraq-of-conducting-an-airstrike-against-its-forces-in-deir-ez-zor-a-town-i.md) _2017-08-25 03:38:29 (First version)_
-2. [Syrian Civil War:: The Free Syrian Army accuses the government of Iraq of conducting an airstrike against its forces in Deir ez-Zor, a town in eastern Syria. ](/news/2013/04/27/syrian-civil-war-the-free-syrian-army-accuses-the-government-of-iraq-of-conducting-an-airstrike-against-its-forces-in-deir-ez-zor-a-town.md) _2017-08-27 03:38:42 (Update)_
+1. [Syrian Civil War:: The Free Syrian Army accuses the government of Iraq of conducting an airstrike against its forces in Deir ez-Zor, a town in eastern Syria. ](/news/2013/04/27/syrian-civil-war-the-free-syrian-army-accuses-the-government-of-iraq-of-conducting-an-airstrike-against-its-forces-in-deir-ez-zor-a-town.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian Civil War:The Free Syrian Army accuses the government of Iraq of conducting an airstrike against its forces in Deir ez-Zor, a town in eastern Syria. ](/news/2013/04/27/syrian-civil-war-pthe-free-syrian-army-accuses-the-government-of-iraq-of-conducting-an-airstrike-against-its-forces-in-deir-ez-zor-a-town-i.md) _2018-02-06 13:49:24 (Update)_
 2. [The Free Syrian Army accuses the government of Iraq of conducting an airstrike against its forces in Deir ez-Zor, a town in eastern Syria. ](/news/2013/04/27/the-free-syrian-army-accuses-the-government-of-iraq-of-conducting-an-airstrike-against-its-forces-in-deir-ez-zor-a-town-in-eastern-syria.md) _(Current version)_
 
 ### Related:

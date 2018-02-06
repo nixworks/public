@@ -37,7 +37,7 @@ At least 22 people were killed when a truck laden with gravel collided with a bu
 
 ##### President of Niger
 ### [President of Niger Mahamadou Issoufou confirms that French special forces are protecting one of the country's biggest uranium mines, owned by the French company Areva. They are also said to be "strengthening security". ](/news/2013/02/4/president-of-niger-mahamadou-issoufou-confirms-that-french-special-forces-are-protecting-one-of-the-country-s-biggest-uranium-mines-owned-b.md)
-_Context: France, Areva, Niger, uranium mines, Mahamadou Issoufou, President of Niger_
+_Context: Areva, Niger, President of Niger, France, uranium mines, Mahamadou Issoufou_
 
 ##### 10 Downing Street
 ### [Former UK government Minister Chris Huhne pleads guilty to perverting the course of justice over claims he caused his ex-wife to accept speeding points he had incurred. He also announces his intention to resign his House of Commons seat. ](/news/2013/02/4/former-uk-government-minister-chris-huhne-pleads-guilty-to-perverting-the-course-of-justice-over-claims-he-caused-his-ex-wife-to-accept-spee.md)
@@ -45,7 +45,7 @@ Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted th
 
 ##### Parsons/Archer subway station
 ### [Three people are injured after a stabbing on a subway platform in the Parsons-Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
-_Context: United States, Parsons/Archer subway station, New York City, Queens_
+_Context: New York City, United States, Queens, Parsons/Archer subway station_
 
 ##### 2013 Alabama bunker hostage crisis
 ### [The death of Jimmy Lee Dykes results in the end of the 2013 Alabama bunker hostage crisis. ](/news/2013/02/4/the-death-of-jimmy-lee-dykes-results-in-the-end-of-the-2013-alabama-bunker-hostage-crisis.md)
@@ -53,19 +53,19 @@ Authorities rescue five-year-old boy held in a bunker for seven days.
 
 ##### Fidel Castro
 ### [Fidel Castro makes his first public appearance in several months to vote in Cuba's parliamentary elections; he spends an hour talking to voters and the media and a crowd gathers around his car to cheer him. ](/news/2013/02/4/fidel-castro-makes-his-first-public-appearance-in-several-months-to-vote-in-cuba-s-parliamentary-elections-he-spends-an-hour-talking-to-vot.md)
-_Context: Cuba, Fidel Castro, parliamentary elections_
+_Context: Fidel Castro, Cuba, parliamentary elections_
 
 ##### President
 ### [The President of Iran Mahmoud Ahmadinejad announces his desire of becoming the first Iranian astronaut after the successful launching and returning of a monkey sent by its national scientific space program. ](/news/2013/02/4/the-president-of-iran-mahmoud-ahmadinejad-announces-his-desire-of-becoming-the-first-iranian-astronaut-after-the-successful-launching-and-re.md)
-_Context: Iran, President, monkey, astronaut, Mahmoud Ahmadinejad, space program, launching and returning_
+_Context: space program, Iran, President, astronaut, Mahmoud Ahmadinejad, launching and returning, monkey_
 
 ##### Russian government
 ### [The Kremlin announces that Russia will hold the 2014 G8 summit in its southern Black Sea resort of Sochi, the host of the 2014 Winter Olympics. ](/news/2013/02/4/the-kremlin-announces-that-russia-will-hold-the-2014-g8-summit-in-its-southern-black-sea-resort-of-sochi-the-host-of-the-2014-winter-olympi.md)
-_Context: G8 group of nations, 2014 Winter Olympics, Russia, Sochi, Black Sea, Russian government_
+_Context: Russia, Sochi, G8 group of nations, 2014 Winter Olympics, Russian government, Black Sea_
 
 ##### Liechtenstein
 ### [In the Liechtenstein parliamentary election the Progressive Citizens' Party wins a plurality of seats in the Landtag. ](/news/2013/02/4/in-the-liechtenstein-parliamentary-election-the-progressive-citizens-party-wins-a-plurality-of-seats-in-the-landtag.md)
-_Context: Liechtenstein, Progressive Citizens' Party, parliamentary election, Landtag_
+_Context: Liechtenstein, Landtag, parliamentary election, Progressive Citizens' Party_
 
 ## [Previous Day...](/news/2013/02/3/index.md)
 

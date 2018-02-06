@@ -17,7 +17,7 @@ Iraq&#039;s prime minister says an investigation has uncovered the existence of 
 
 ### Changes:
 
-1. [Iraqi insurgency: The Prime Minister of Iraq Haidar al-Abadi promises a crackdown on corruption after an audit shows that there were 50,000 ghost soldiers in the Army. ](/news/2014/12/1/iraqi-insurgency-the-prime-minister-of-iraq-haidar-al-abadi-promises-a-crackdown-on-corruption-after-an-audit-shows-that-there-were-50-000.md) _2017-08-27 03:41:34 (First version)_
+1. [Iraqi insurgency: The Prime Minister of Iraq Haidar al-Abadi promises a crackdown on corruption after an audit shows that there were 50,000 ghost soldiers in the Army. ](/news/2014/12/1/iraqi-insurgency-the-prime-minister-of-iraq-haidar-al-abadi-promises-a-crackdown-on-corruption-after-an-audit-shows-that-there-were-50-000.md) _2018-02-06 13:49:26 (First version)_
 1. [The Prime Minister of Iraq Haidar al-Abadi promises a crackdown on corruption after an audit shows that there were 50,000 ghost soldiers in the Army. ](/news/2014/12/1/the-prime-minister-of-iraq-haidar-al-abadi-promises-a-crackdown-on-corruption-after-an-audit-shows-that-there-were-50-000-ghost-soldiers-in.md) _(Current version)_
 
 ### Related:

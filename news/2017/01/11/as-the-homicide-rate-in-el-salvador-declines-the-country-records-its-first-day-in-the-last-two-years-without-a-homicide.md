@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/11/as-the-homicide-rate-in-el-salvador-declines-th
 
 ### Changes:
 
-1. [Crime in El Salvador: As the homicide rate in El Salvador declines, the country records its first day in the last two years without a homicide. ](/news/2017/01/11/crime-in-el-salvador-as-the-homicide-rate-in-el-salvador-declines-the-country-records-its-first-day-in-the-last-two-years-without-a-homici.md) _2017-08-27 03:47:35 (First version)_
+1. [Crime in El Salvador: As the homicide rate in El Salvador declines, the country records its first day in the last two years without a homicide. ](/news/2017/01/11/crime-in-el-salvador-as-the-homicide-rate-in-el-salvador-declines-the-country-records-its-first-day-in-the-last-two-years-without-a-homici.md) _2018-02-06 13:49:30 (First version)_
 1. [As the homicide rate in El Salvador declines, the country records its first day in the last two years without a homicide. ](/news/2017/01/11/as-the-homicide-rate-in-el-salvador-declines-the-country-records-its-first-day-in-the-last-two-years-without-a-homicide.md) _(Current version)_
 
 ### Related:

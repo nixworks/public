@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/23/floods-kill-at-least-154-in-china-and-300-000-p
 
 ### Changes:
 
-1. [July 2016 North China cyclone: Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/july-2016-north-china-cyclone-floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-ac.md) _2017-08-27 03:46:32 (First version)_
+1. [July 2016 North China cyclone: Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/july-2016-north-china-cyclone-floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-ac.md) _2018-02-06 13:49:29 (First version)_
 1. [Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-accused-local-officials-of-coveri.md) _(Current version)_
 
 ### Related:

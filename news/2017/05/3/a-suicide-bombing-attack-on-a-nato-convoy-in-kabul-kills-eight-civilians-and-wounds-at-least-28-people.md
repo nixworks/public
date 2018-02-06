@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kab
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/war-in-afghanistan-2015-present-a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _2017-08-27 03:48:17 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/war-in-afghanistan-2015-present-a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Jewish settlers confronted Palestinian demonstrators in a West Bank village, acc
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeliapalestinian-conflict-ptwo-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md) _2017-08-25 03:37:36 (First version)_
-2. [Israeli-Palestinian conflict:: Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeli-palestinian-conflict-two-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md) _2017-08-27 03:37:48 (Update)_
+1. [Israeli-Palestinian conflict:Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeliapalestinian-conflict-ptwo-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md) _2018-02-06 13:49:24 (First version)_
+2. [Israeli-Palestinian conflict:: Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeli-palestinian-conflict-two-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md) _2018-02-06 13:49:24 (Update)_
 2. [Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/two-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md) _(Current version)_
 
 ### Related:

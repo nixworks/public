@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/20/u-n-secretary-general-ban-ki-moon-during-a-surp
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/israeli-palestinian-conflict-2015-u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead.md) _2017-08-27 03:43:24 (First version)_
+1. [Israeli-Palestinian conflict (2015): U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/israeli-palestinian-conflict-2015-u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead.md) _2018-02-06 13:49:28 (First version)_
 1. [U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead-of-meetings-with-israeli-and-palestinia.md) _(Current version)_
 
 ### Related:

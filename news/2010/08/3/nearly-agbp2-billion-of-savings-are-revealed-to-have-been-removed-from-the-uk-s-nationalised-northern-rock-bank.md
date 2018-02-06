@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/08/3/nearly-agbp2-billion-of-savings-are-revealed-to-
 
 ### Changes:
 
-1. [Nearly PS2 billion of savings are revealed to have been removed from the UK's nationalised Northern Rock bank. ](/news/2010/08/3/nearly-aps2-billion-of-savings-are-revealed-to-have-been-removed-from-the-uk-s-nationalised-northern-rock-bank.md) _2017-08-25 03:29:10 (First version)_
+1. [Nearly PS2 billion of savings are revealed to have been removed from the UK's nationalised Northern Rock bank. ](/news/2010/08/3/nearly-aps2-billion-of-savings-are-revealed-to-have-been-removed-from-the-uk-s-nationalised-northern-rock-bank.md) _2018-02-06 13:49:20 (First version)_
 1. [Nearly GBP2 billion of savings are revealed to have been removed from the UK's nationalised Northern Rock bank. ](/news/2010/08/3/nearly-agbp2-billion-of-savings-are-revealed-to-have-been-removed-from-the-uk-s-nationalised-northern-rock-bank.md) _(Current version)_
 
 ### Related:

@@ -7,13 +7,13 @@ Formats: [HTML](2016/11/16/index.html)  [JSON](2016/11/16/index.json)  [XML](201
 ### [Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suicide-bomber-attack-near-the-afghan-defe.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [The Saudi-led military coalition and the Houthis (Ansar Allah) arrive at a ceasefire agreement effective as of 17 November 2016, as a result of talks led by US Secretary of State John Kerry with the region's leaders.](/news/2016/11/16/the-saudi-led-military-coalition-and-the-houthis-ansar-allah-arrive-at-a-ceasefire-agreement-effective-as-of-17-november-2016-as-a-result.md)
 Kerry is seeking to end the fighting between the Houthis, allied to Iran, and the Saudi-backed government of the Yemeni president before Obama’s term ends
 
 ##### smog
 ### [As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. ](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.md)
-_Context: Tehran, smog, Health Ministry, Iran_
+_Context: Iran, smog, Health Ministry, Tehran_
 
 ##### Russian President
 ### [Russian President Vladimir Putin signs a symbolic order to withdraw Russia's signature from the Rome Statute of the International Criminal Court (ICC) amid calls by pro-rebel western Non-governmental organisations for an investigation into alleged Russian war crimes in Syria. ](/news/2016/11/16/russian-president-vladimir-putin-signs-a-symbolic-order-to-withdraw-russia-s-signature-from-the-rome-statute-of-the-international-criminal-c.md)

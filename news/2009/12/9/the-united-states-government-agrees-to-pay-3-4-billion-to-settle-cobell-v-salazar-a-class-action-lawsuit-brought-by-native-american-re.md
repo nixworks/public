@@ -18,7 +18,7 @@ The Obama administration on Tuesday announced it would pay Native Americans $3.4
 
 ### Changes:
 
-1. [ The United States government agrees to pay $3.4 billion to settle ''Cobell v. Salazar'', a class-action lawsuit brought by Native American representatives who claimed that it has incorrectly accounted for Native American trust assets. ](/news/2009/12/9/the-united-states-government-agrees-to-pay-3-4-billion-to-settle-cobell-v-salazar-a-class-action-lawsuit-brought-by-native-american.md) _2017-08-25 03:26:33 (First version)_
+1. [ The United States government agrees to pay $3.4 billion to settle ''Cobell v. Salazar'', a class-action lawsuit brought by Native American representatives who claimed that it has incorrectly accounted for Native American trust assets. ](/news/2009/12/9/the-united-states-government-agrees-to-pay-3-4-billion-to-settle-cobell-v-salazar-a-class-action-lawsuit-brought-by-native-american.md) _2018-02-06 13:49:19 (First version)_
 1. [ The United States government agrees to pay $3.4 billion to settle "Cobell v. Salazar", a class-action lawsuit brought by Native American representatives who claimed that it has incorrectly accounted for Native American trust assets. ](/news/2009/12/9/the-united-states-government-agrees-to-pay-3-4-billion-to-settle-cobell-v-salazar-a-class-action-lawsuit-brought-by-native-american-re.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-
 
 ### Changes:
 
-1. [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-hi.md) _2017-08-25 03:23:02 (First version)_
+1. [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-hi.md) _2018-02-06 13:49:18 (First version)_
 1. [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-his.md) _(Current version)_
 
 ### Related:

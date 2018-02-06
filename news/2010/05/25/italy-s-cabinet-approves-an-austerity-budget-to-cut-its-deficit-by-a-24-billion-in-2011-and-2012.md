@@ -18,7 +18,7 @@ Italy becomes the latest European country to announce tough austerity measures i
 
 ### Changes:
 
-1. [Italy's cabinet approves an austerity budget to cut its deficit by -24 billion in 2011 and 2012. ](/news/2010/05/25/italy-s-cabinet-approves-an-austerity-budget-to-cut-its-deficit-by-24-billion-in-2011-and-2012.md) _2017-08-27 03:27:59 (First version)_
+1. [Italy's cabinet approves an austerity budget to cut its deficit by -24 billion in 2011 and 2012. ](/news/2010/05/25/italy-s-cabinet-approves-an-austerity-budget-to-cut-its-deficit-by-24-billion-in-2011-and-2012.md) _2018-02-06 13:49:20 (First version)_
 1. [Italy's cabinet approves an austerity budget to cut its deficit by EUR24 billion in 2011 and 2012. ](/news/2010/05/25/italy-s-cabinet-approves-an-austerity-budget-to-cut-its-deficit-by-a-24-billion-in-2011-and-2012.md) _(Current version)_
 
 ### Related:

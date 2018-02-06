@@ -17,7 +17,7 @@ Three Palestinians were wounded in renewed fighting in the refugee camp of Ain a
 
 ### Changes:
 
-1. [Ain al-Hilweh conflict: Renewed clashes between Islamist extremists and the Fatah-supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon, Lebanon, wound three more Palestinians. ](/news/2017/08/22/ain-al-hilweh-conflict-renewed-clashes-between-islamist-extremists-and-the-fatah-supported-joint-palestinian-security-force-at-the-ain-al-h.md) _2017-08-27 17:30:04 (First version)_
+1. [Ain al-Hilweh conflict: Renewed clashes between Islamist extremists and the Fatah-supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon, Lebanon, wound three more Palestinians. ](/news/2017/08/22/ain-al-hilweh-conflict-renewed-clashes-between-islamist-extremists-and-the-fatah-supported-joint-palestinian-security-force-at-the-ain-al-h.md) _2018-02-06 13:49:31 (First version)_
 1. [Renewed clashes between Islamist extremists and the Fatah-supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon, Lebanon, wound three more Palestinians. ](/news/2017/08/22/renewed-clashes-between-islamist-extremists-and-the-fatah-supported-joint-palestinian-security-force-at-the-ain-al-hilweh-palestinian-refuge.md) _(Current version)_
 
 ### Related:

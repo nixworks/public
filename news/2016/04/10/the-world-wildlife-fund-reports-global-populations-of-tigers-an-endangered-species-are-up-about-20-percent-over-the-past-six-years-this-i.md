@@ -16,7 +16,7 @@ The increase in tiger numbers is primarily seen in India, Russia, Nepal and Bhut
 
 ### Changes:
 
-1. [The World Wildlife Fund reports global populations of tigers, an endangered species, are up about 20 percent over the past six years. This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India. ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this.md) _2017-08-25 03:45:12 (First version)_
+1. [The World Wildlife Fund reports global populations of tigers, an endangered species, are up about 20 percent over the past six years. This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India. ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Wildlife Fund reports global populations of tigers, an endangered species, are up about 20 percent over the past six years. This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India. ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this-i.md) _(Current version)_
 
 ### Related:

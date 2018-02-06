@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-le
 
 ### Changes:
 
-1. [The last edition of the ''Late Show with David Letterman'' goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-dav.md) _2017-08-25 03:42:03 (First version)_
+1. [The last edition of the ''Late Show with David Letterman'' goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-dav.md) _2018-02-06 13:49:27 (First version)_
 1. [The last edition of the "Late Show with David Letterman" goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-david.md) _(Current version)_
 
 ### Related:

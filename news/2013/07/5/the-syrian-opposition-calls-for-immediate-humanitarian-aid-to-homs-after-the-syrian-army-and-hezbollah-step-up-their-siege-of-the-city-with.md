@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/07/5/the-syrian-opposition-calls-for-immediate-humani
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/syrian-civil-war-pthe-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-siege.md) _2017-08-25 03:38:57 (First version)_
-2. [Syrian civil war:: The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/syrian-civil-war-the-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-sieg.md) _2017-08-27 03:39:12 (Update)_
+1. [Syrian civil war:: The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/syrian-civil-war-the-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-sieg.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/syrian-civil-war-pthe-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-siege.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/the-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-siege-of-the-city-with.md) _(Current version)_
 
 ### Related:

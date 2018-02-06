@@ -15,7 +15,7 @@ The race is tight with President John Mahama and his rival Nana Akufo Addo runni
 
 ### Changes:
 
-1. [Ghanaian general election, 2016: Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. ](/news/2016/12/7/ghanaian-general-election-2016-voters-go-to-the-polls-in-ghana-for-the-country-s-presidential-elections-it-is-expected-to-be-a-close-race.md) _2017-08-27 03:47:24 (First version)_
+1. [Ghanaian general election, 2016: Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. ](/news/2016/12/7/ghanaian-general-election-2016-voters-go-to-the-polls-in-ghana-for-the-country-s-presidential-elections-it-is-expected-to-be-a-close-race.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. ](/news/2016/12/7/voters-go-to-the-polls-in-ghana-for-the-country-s-presidential-elections-it-is-expected-to-be-a-close-race-between-incumbent-president-john.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/12/7/united-states-senator-al-franken-announces-that-
 
 ### Changes:
 
-1. [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md) _2017-12-08 00:30:06 (First version)_
+1. [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md) _2018-02-06 13:49:31 (First version)_
 1. [United States Senator Al Franken announces that he will resign "in the coming weeks" amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-announces-that-he-will-resign-in-the-coming-weeks-amid-sexual-harassment-allegations.md) _(Current version)_
 
 ### Related:

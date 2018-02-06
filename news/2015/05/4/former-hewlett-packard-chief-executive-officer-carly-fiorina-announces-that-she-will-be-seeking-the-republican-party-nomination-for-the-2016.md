@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-c
 
 ### Changes:
 
-1. [2016 United States Presidential election: Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/2016-united-states-presidential-election-former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-th.md) _2017-08-27 03:42:16 (First version)_
+1. [2016 United States Presidential election: Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/2016-united-states-presidential-election-former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-th.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/02/26/the-world-s-population-hits-6-5-billion-at-0016
 
 ### Changes:
 
-1. [ The world's population hits {{Nowrap|6.5 billion}} at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-nowrap-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md) _2017-05-01 03:17:50 (First version)_
+1. [ The world's population hits {{Nowrap|6.5 billion}} at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-nowrap-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md) _2018-02-06 13:49:16 (First version)_
 1. [ The world's population hits 6.5 billion at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md) _(Current version)_
 
 ### Related:

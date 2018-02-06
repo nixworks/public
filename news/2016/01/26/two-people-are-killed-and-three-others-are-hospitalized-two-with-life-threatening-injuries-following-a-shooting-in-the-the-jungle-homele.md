@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/01/26/two-people-are-killed-and-three-others-are-hosp
 
 ### Changes:
 
-1. [Homelessness in Seattle: Two people are killed and three others are hospitalized, two with life-threatening injuries, following a shooting in the "The Jungle" homeless encampment in the U.S. city of Seattle. Police are searching for two suspects. ](/news/2016/01/26/homelessness-in-seattle-two-people-are-killed-and-three-others-are-hospitalized-two-with-life-threatening-injuries-following-a-shooting-i.md) _2017-08-27 03:44:46 (First version)_
+1. [Homelessness in Seattle: Two people are killed and three others are hospitalized, two with life-threatening injuries, following a shooting in the "The Jungle" homeless encampment in the U.S. city of Seattle. Police are searching for two suspects. ](/news/2016/01/26/homelessness-in-seattle-two-people-are-killed-and-three-others-are-hospitalized-two-with-life-threatening-injuries-following-a-shooting-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Two people are killed and three others are hospitalized, two with life-threatening injuries, following a shooting in the "The Jungle" homeless encampment in the U.S. city of Seattle. Police are searching for two suspects. ](/news/2016/01/26/two-people-are-killed-and-three-others-are-hospitalized-two-with-life-threatening-injuries-following-a-shooting-in-the-the-jungle-homele.md) _(Current version)_
 
 ### Related:

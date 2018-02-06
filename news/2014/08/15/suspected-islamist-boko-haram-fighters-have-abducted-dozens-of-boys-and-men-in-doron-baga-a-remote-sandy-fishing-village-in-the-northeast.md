@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/08/15/suspected-islamist-boko-haram-fighters-have-abd
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/islamist-insurgency-in-nigeria-psuspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy-f.md) _2017-08-25 03:40:51 (First version)_
-2. [Islamist insurgency in Nigeria:: Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/islamist-insurgency-in-nigeria-suspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy.md) _2017-08-27 03:41:09 (Update)_
+1. [Islamist insurgency in Nigeria:: Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/islamist-insurgency-in-nigeria-suspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/islamist-insurgency-in-nigeria-psuspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy-f.md) _2018-02-06 13:49:26 (Update)_
 2. [Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/suspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy-fishing-village-in-the-northeast.md) _(Current version)_
 
 ### Related:

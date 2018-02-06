@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-toun
 
 ### Changes:
 
-1. [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murder-suicide.md) _2017-08-27 03:27:08 (First version)_
+1. [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murder-suicide.md) _2018-02-06 13:49:19 (First version)_
 1. [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murderasuicide.md) _(Current version)_
 
 ### Related:

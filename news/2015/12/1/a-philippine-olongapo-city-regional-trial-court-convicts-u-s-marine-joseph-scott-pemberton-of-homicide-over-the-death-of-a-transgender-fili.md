@@ -18,7 +18,7 @@ The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of h
 
 ### Changes:
 
-1. [Death of Jennifer Laude: A Philippine Olongapo City Regional Trial Court convicts U.S. Marine Joseph Scott Pemberton of homicide over the death of a transgender Filipina woman. ](/news/2015/12/1/death-of-jennifer-laude-a-philippine-olongapo-city-regional-trial-court-convicts-u-s-marine-joseph-scott-pemberton-of-homicide-over-the-de.md) _2017-08-27 03:44:09 (First version)_
+1. [Death of Jennifer Laude: A Philippine Olongapo City Regional Trial Court convicts U.S. Marine Joseph Scott Pemberton of homicide over the death of a transgender Filipina woman. ](/news/2015/12/1/death-of-jennifer-laude-a-philippine-olongapo-city-regional-trial-court-convicts-u-s-marine-joseph-scott-pemberton-of-homicide-over-the-de.md) _2018-02-06 13:49:28 (First version)_
 1. [A Philippine Olongapo City Regional Trial Court convicts U.S. Marine Joseph Scott Pemberton of homicide over the death of a transgender Filipina woman. ](/news/2015/12/1/a-philippine-olongapo-city-regional-trial-court-convicts-u-s-marine-joseph-scott-pemberton-of-homicide-over-the-death-of-a-transgender-fili.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-
 
 ### Changes:
 
-1. [April 2014 tornado outbreak:Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/april-2014-tornado-outbreak-pseventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unite.md) _2017-08-25 03:40:21 (First version)_
-2. [April 2014 tornado outbreak:: Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/april-2014-tornado-outbreak-seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unit.md) _2017-08-27 03:40:38 (Update)_
+1. [April 2014 tornado outbreak:: Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/april-2014-tornado-outbreak-seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unit.md) _2018-02-06 13:49:26 (First version)_
+2. [April 2014 tornado outbreak:Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/april-2014-tornado-outbreak-pseventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unite.md) _2018-02-06 13:49:26 (Update)_
 2. [Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-united-states.md) _(Current version)_
 
 ### Related:

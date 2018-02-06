@@ -16,7 +16,7 @@ Angela Eagle has pledged to unite her party and the country as she formally anno
 
 ### Changes:
 
-1. [Labour Party (UK) leadership crisis, 2016: The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/labour-party-uk-leadership-crisis-2016-the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-becom.md) _2017-08-27 03:46:28 (First version)_
+1. [Labour Party (UK) leadership crisis, 2016: The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/labour-party-uk-leadership-crisis-2016-the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-becom.md) _2018-02-06 13:49:29 (First version)_
 1. [The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-become-the-new-leader-of-the-labour-party-after.md) _(Current version)_
 
 ### Related:

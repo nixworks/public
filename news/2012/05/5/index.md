@@ -5,7 +5,7 @@ Formats: [HTML](2012/05/5/index.html)  [JSON](2012/05/5/index.json)  [XML](2012/
 
 ##### drones launch
 ### [A U.S. drone attack kills at least nine insurgents in Pakistan's North Waziristan. ](/news/2012/05/5/a-u-s-drone-attack-kills-at-least-nine-insurgents-in-pakistan-s-north-waziristan.md)
-_Context: Pakistan, drones launch, North Waziristan_
+_Context: drones launch, Pakistan, North Waziristan_
 
 ##### detainee
 ### [Five prisoners of the United States at Guantanamo Bay, including Khalid Sheikh Mohammed (a reported subject of torture by U.S. authorities), appear before a military judge. ](/news/2012/05/5/five-prisoners-of-the-united-states-at-guantanamo-bay-including-khalid-sheikh-mohammed-a-reported-subject-of-torture-by-u-s-authorities.md)
@@ -17,7 +17,7 @@ Nabeel Rajab has been arrested on the eve of his court appearance.
 
 ##### Japan
 ### [Japan shuts down its last nuclear reactor, leaving the country without nuclear power for the first time since 1970. ](/news/2012/05/5/japan-shuts-down-its-last-nuclear-reactor-leaving-the-country-without-nuclear-power-for-the-first-time-since-1970.md)
-_Context: nuclear power, nuclear reactor, Japan_
+_Context: nuclear power, Japan, nuclear reactor_
 
 ##### Lima
 ### [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md)
@@ -29,7 +29,7 @@ _Context: flash flood, Nepal_
 
 ##### karaoke
 ### [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md)
-_Context: Busan, South Korea, karaoke_
+_Context: karaoke, South Korea, Busan_
 
 ##### Cambodia
 ### [The Cambodian government closes an investigation into the shooting of anti-logging activist Chhut Vuthy and a military policeman after the arrest of a security guard. ](/news/2012/05/5/the-cambodian-government-closes-an-investigation-into-the-shooting-of-anti-logging-activist-chhut-vuthy-and-a-military-policeman-after-the-a.md)
@@ -37,7 +37,7 @@ _Context: Cambodia_
 
 ##### supermoon
 ### [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md)
-_Context: supermoon, moon, earth_
+_Context: supermoon, earth, moon_
 
 ## [Previous Day...](/news/2012/05/4/index.md)
 

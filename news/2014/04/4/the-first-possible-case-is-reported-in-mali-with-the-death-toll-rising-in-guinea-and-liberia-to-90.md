@@ -16,8 +16,8 @@ By Adama Diarra and Misha Hussain BAMAKO/CONAKRY (Reuters) - Mali said it had id
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak:The first possible case is reported in Mali, with the death toll rising in Guinea and Liberia to 90. ](/news/2014/04/4/2014-west-africa-ebola-outbreak-pthe-first-possible-case-is-reported-in-mali-with-the-death-toll-rising-in-guinea-and-liberia-to-90.md) _2017-08-25 03:40:15 (First version)_
-2. [2014 West Africa Ebola outbreak:: The first possible case is reported in Mali, with the death toll rising in Guinea and Liberia to 90. ](/news/2014/04/4/2014-west-africa-ebola-outbreak-the-first-possible-case-is-reported-in-mali-with-the-death-toll-rising-in-guinea-and-liberia-to-90.md) _2017-08-27 03:40:33 (Update)_
+1. [2014 West Africa Ebola outbreak:: The first possible case is reported in Mali, with the death toll rising in Guinea and Liberia to 90. ](/news/2014/04/4/2014-west-africa-ebola-outbreak-the-first-possible-case-is-reported-in-mali-with-the-death-toll-rising-in-guinea-and-liberia-to-90.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola outbreak:The first possible case is reported in Mali, with the death toll rising in Guinea and Liberia to 90. ](/news/2014/04/4/2014-west-africa-ebola-outbreak-pthe-first-possible-case-is-reported-in-mali-with-the-death-toll-rising-in-guinea-and-liberia-to-90.md) _2018-02-06 13:49:26 (Update)_
 2. [The first possible case is reported in Mali, with the death toll rising in Guinea and Liberia to 90. ](/news/2014/04/4/the-first-possible-case-is-reported-in-mali-with-the-death-toll-rising-in-guinea-and-liberia-to-90.md) _(Current version)_
 
 ### Related:

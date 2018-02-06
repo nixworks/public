@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/21/in-nigeria-a-clash-between-the-military-and-isl
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-pin-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md) _2017-08-25 03:38:26 (First version)_
-2. [Nigerian Sharia conflict:: In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-in-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md) _2017-08-27 03:38:38 (Update)_
+1. [Nigerian Sharia conflict:In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-pin-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-in-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md) _2018-02-06 13:49:24 (Update)_
 2. [In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/in-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md) _(Current version)_
 
 ### Related:

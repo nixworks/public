@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/10/crossair-suffers-the-first-fatal-accident-in-it
 
 ### Changes:
 
-1. [Crossair Flight 498: Crossair suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in Niederhasli, Switzerland, after take off from Zurich, killing all 10 people on board.](/news/2000/01/10/crossair-flight-498-crossair-suffers-the-first-fatal-accident-in-its-25-year-history-when-crossair-flight-498-crashes-in-niederhasli-switz.md) _2017-08-27 03:15:07 (First version)_
+1. [Crossair Flight 498: Crossair suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in Niederhasli, Switzerland, after take off from Zurich, killing all 10 people on board.](/news/2000/01/10/crossair-flight-498-crossair-suffers-the-first-fatal-accident-in-its-25-year-history-when-crossair-flight-498-crashes-in-niederhasli-switz.md) _2018-02-06 13:49:15 (First version)_
 1. [Crossair suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in Niederhasli, Switzerland, after take off from Zurich, killing all 10 people on board.](/news/2000/01/10/crossair-suffers-the-first-fatal-accident-in-its-25-year-history-when-crossair-flight-498-crashes-in-niederhasli-switzerland-after-take-of.md) _(Current version)_
 
 ### Related:

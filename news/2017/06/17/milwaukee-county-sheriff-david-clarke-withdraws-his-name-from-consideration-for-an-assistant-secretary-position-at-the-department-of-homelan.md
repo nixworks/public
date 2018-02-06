@@ -17,7 +17,7 @@ The Department of Homeland Security says Milwaukee County Sheriff David Clarke i
 
 ### Changes:
 
-1. [Political appointments of Donald Trump: Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/political-appointments-of-donald-trump-milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secreta.md) _2017-08-27 03:48:29 (First version)_
+1. [Political appointments of Donald Trump: Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/political-appointments-of-donald-trump-milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secreta.md) _2018-02-06 13:49:30 (First version)_
 1. [Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secretary-position-at-the-department-of-homelan.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Formats: [HTML](/news/2011/04/11/students-take-part-in-a-demonstration-at-damasc
 
 ### Changes:
 
-1. [2011 Syrian protests: Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md) _2017-08-27 03:32:55 (First version)_
+1. [2011 Syrian protests: Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md) _2018-02-06 13:49:22 (First version)_
 1. [Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.md) _(Current version)_
 
 ### Related:

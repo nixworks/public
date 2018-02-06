@@ -17,8 +17,8 @@ Lebanon&#39;s opposition blamed &quot;Syria and its allies&quot; for the killing
 
 ### Changes:
 
-1. [ Cedar Revolution: In Lebanon, opposition leaders blame Syria for the death of Samir Qasir and demand resignation of president mile Lahoud ](/news/2005/06/3/cedar-revolution-p-in-lebanon-opposition-leaders-blame-syria-for-the-death-of-samir-qasir-and-demand-resignation-of-president-emile-lahoud.md) _2017-08-25 03:16:20 (First version)_
-2. [ Cedar Revolution:: In Lebanon, opposition leaders blame Syria for the death of Samir Qasir and demand resignation of president mile Lahoud ](/news/2005/06/3/cedar-revolution-in-lebanon-opposition-leaders-blame-syria-for-the-death-of-samir-qasir-and-demand-resignation-of-president-emile-lahoud.md) _2017-08-27 03:16:22 (Update)_
+1. [ Cedar Revolution: In Lebanon, opposition leaders blame Syria for the death of Samir Qasir and demand resignation of president mile Lahoud ](/news/2005/06/3/cedar-revolution-p-in-lebanon-opposition-leaders-blame-syria-for-the-death-of-samir-qasir-and-demand-resignation-of-president-emile-lahoud.md) _2018-02-06 13:49:16 (First version)_
+2. [ Cedar Revolution:: In Lebanon, opposition leaders blame Syria for the death of Samir Qasir and demand resignation of president mile Lahoud ](/news/2005/06/3/cedar-revolution-in-lebanon-opposition-leaders-blame-syria-for-the-death-of-samir-qasir-and-demand-resignation-of-president-emile-lahoud.md) _2018-02-06 13:49:16 (Update)_
 2. [ In Lebanon, opposition leaders blame Syria for the death of Samir Qasir and demand resignation of president mile Lahoud ](/news/2005/06/3/in-lebanon-opposition-leaders-blame-syria-for-the-death-of-samir-qasir-and-demand-resignation-of-president-emile-lahoud.md) _(Current version)_
 
 ### Related:

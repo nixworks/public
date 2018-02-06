@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/26/nasa-delays-the-launch-of-the-space-shuttle-atl
 
 ### Changes:
 
-1. [ NASA delays the launch of the Space Shuttle ''Atlantis'' (STS-115) for 24 hours. Lightning struck the space shuttle launch pad on Friday but no damage was caused. ](/news/2006/08/26/nasa-delays-the-launch-of-the-space-shuttle-atlantis-sts-115-for-24-hours-lightning-struck-the-space-shuttle-launch-pad-on-friday-bu.md) _2017-08-25 03:18:16 (First version)_
+1. [ NASA delays the launch of the Space Shuttle ''Atlantis'' (STS-115) for 24 hours. Lightning struck the space shuttle launch pad on Friday but no damage was caused. ](/news/2006/08/26/nasa-delays-the-launch-of-the-space-shuttle-atlantis-sts-115-for-24-hours-lightning-struck-the-space-shuttle-launch-pad-on-friday-bu.md) _2018-02-06 13:49:17 (First version)_
 1. [ NASA delays the launch of the Space Shuttle "Atlantis" (STS-115) for 24 hours. Lightning struck the space shuttle launch pad on Friday but no damage was caused. ](/news/2006/08/26/nasa-delays-the-launch-of-the-space-shuttle-atlantis-sts-115-for-24-hours-lightning-struck-the-space-shuttle-launch-pad-on-friday-but.md) _(Current version)_
 
 ### Related:

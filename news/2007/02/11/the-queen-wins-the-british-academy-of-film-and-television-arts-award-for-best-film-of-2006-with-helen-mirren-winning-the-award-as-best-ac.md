@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/11/the-queen-wins-the-british-academy-of-film-and-
 
 ### Changes:
 
-1. [ ''The Queen'' wins the British Academy of Film and Television Arts Award for Best Film of 2006 with Helen Mirren winning the award as Best Actress. Forest Whitaker wins the Best Actor award for his role in the ''The Last King of Scotland'' which won the Best British Film Award. ](/news/2007/02/11/the-queen-wins-the-british-academy-of-film-and-television-arts-award-for-best-film-of-2006-with-helen-mirren-winning-the-award-as-best.md) _2017-08-25 03:19:09 (First version)_
+1. [ ''The Queen'' wins the British Academy of Film and Television Arts Award for Best Film of 2006 with Helen Mirren winning the award as Best Actress. Forest Whitaker wins the Best Actor award for his role in the ''The Last King of Scotland'' which won the Best British Film Award. ](/news/2007/02/11/the-queen-wins-the-british-academy-of-film-and-television-arts-award-for-best-film-of-2006-with-helen-mirren-winning-the-award-as-best.md) _2018-02-06 13:49:17 (First version)_
 1. [ "The Queen" wins the British Academy of Film and Television Arts Award for Best Film of 2006 with Helen Mirren winning the award as Best Actress. Forest Whitaker wins the Best Actor award for his role in the "The Last King of Scotland" which won the Best British Film Award. ](/news/2007/02/11/the-queen-wins-the-british-academy-of-film-and-television-arts-award-for-best-film-of-2006-with-helen-mirren-winning-the-award-as-best-ac.md) _(Current version)_
 
 ### Related:

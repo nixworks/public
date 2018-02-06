@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/16/thousands-of-delegates-of-the-african-national-
 
 ### Changes:
 
-1. [Thousands of delegates of the African National Congress gather in Johannesburg to elect a president to succeed Jacob Zuma. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-president-to-succeed-jacob-zuma.md) _2017-12-17 00:30:06 (First version)_
+1. [Thousands of delegates of the African National Congress gather in Johannesburg to elect a president to succeed Jacob Zuma. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-president-to-succeed-jacob-zuma.md) _2018-02-06 13:49:31 (First version)_
 1. [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md) _(Current version)_
 
 ### Related:

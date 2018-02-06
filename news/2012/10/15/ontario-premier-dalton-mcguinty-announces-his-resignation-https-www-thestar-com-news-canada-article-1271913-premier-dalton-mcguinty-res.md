@@ -11,7 +11,7 @@ Formats: [HTML](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-r
 
 ### Changes:
 
-1. [Ontario premier Dalton McGuinty announces his resignation. [http:--www.thestar.com-news-canada-article-1271913--premier-dalton-mcguinty-resigns (Toronto Star) ]](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation-http-www-thestar-com-news-canada-article-1271913-premier-dalton-mcguinty-resi.md) _2017-10-17 03:42:42 (First version)_
+1. [Ontario premier Dalton McGuinty announces his resignation. [http:--www.thestar.com-news-canada-article-1271913--premier-dalton-mcguinty-resigns (Toronto Star) ]](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation-http-www-thestar-com-news-canada-article-1271913-premier-dalton-mcguinty-resi.md) _2018-02-06 13:49:24 (First version)_
 1. [Ontario premier Dalton McGuinty announces his resignation. [https:--www.thestar.com-news-canada-article-1271913--premier-dalton-mcguinty-resigns (Toronto Star) ]](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation-https-www-thestar-com-news-canada-article-1271913-premier-dalton-mcguinty-res.md) _(Current version)_
 
 ### Related:

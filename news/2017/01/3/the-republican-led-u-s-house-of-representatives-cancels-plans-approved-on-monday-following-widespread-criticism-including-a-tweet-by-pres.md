@@ -19,7 +19,7 @@ The president-elect took to Twitter to criticize the move against an independent
 
 ### Changes:
 
-1. [115th United States Congress: The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/115th-united-states-congress-the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-critic.md) _2017-08-27 03:47:34 (First version)_
+1. [115th United States Congress: The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/115th-united-states-congress-the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-critic.md) _2018-02-06 13:49:30 (First version)_
 1. [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md) _(Current version)_
 
 ### Related:

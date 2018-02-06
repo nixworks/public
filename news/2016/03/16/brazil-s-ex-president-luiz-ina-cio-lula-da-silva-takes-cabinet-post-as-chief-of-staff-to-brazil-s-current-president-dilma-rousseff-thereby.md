@@ -18,7 +18,7 @@ Luiz Inácio Lula da Silva, facing multiple corruption investigations, will beco
 
 ### Changes:
 
-1. [Brazil's ex-president Luiz Inacio Lula da Silva takes Cabinet post as chief of staff to Brazil's current president, Dilma Rousseff, thereby gaining legal shield. Only the Brazilian Supreme Court can try presidential Cabinet members for crimes. ](/news/2016/03/16/brazil-s-ex-president-luiz-ina-cio-lula-da-silva-takes-cabinet-post-as-chief-of-staff-to-brazil-s-current-president-dilma-rousseff-there.md) _2017-08-25 03:44:54 (First version)_
+1. [Brazil's ex-president Luiz Inacio Lula da Silva takes Cabinet post as chief of staff to Brazil's current president, Dilma Rousseff, thereby gaining legal shield. Only the Brazilian Supreme Court can try presidential Cabinet members for crimes. ](/news/2016/03/16/brazil-s-ex-president-luiz-ina-cio-lula-da-silva-takes-cabinet-post-as-chief-of-staff-to-brazil-s-current-president-dilma-rousseff-there.md) _2018-02-06 13:49:28 (First version)_
 1. [Brazil's ex-president Luiz Inacio Lula da Silva takes Cabinet post as chief of staff to Brazil's current president, Dilma Rousseff, thereby gaining legal shield. Only the Brazilian Supreme Court can try presidential Cabinet members for crimes. ](/news/2016/03/16/brazil-s-ex-president-luiz-ina-cio-lula-da-silva-takes-cabinet-post-as-chief-of-staff-to-brazil-s-current-president-dilma-rousseff-thereby.md) _(Current version)_
 
 ### Related:

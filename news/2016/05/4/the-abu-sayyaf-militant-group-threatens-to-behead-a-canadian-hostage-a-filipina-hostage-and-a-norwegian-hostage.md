@@ -16,7 +16,7 @@ Video shows captives from Canada, Norway and the Philippines begging governments
 
 ### Changes:
 
-1. [Moro conflict: The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/moro-conflict-the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _2017-08-27 03:45:58 (First version)_
+1. [Moro conflict: The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/moro-conflict-the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _2018-02-06 13:49:29 (First version)_
 1. [The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _(Current version)_
 
 ### Related:

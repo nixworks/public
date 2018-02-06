@@ -16,7 +16,7 @@ Aftershocks are expected from the quake; no injuries or damage yet reported.
 
 ### Changes:
 
-1. [Earthquakes in 2017: Two people die in an earthquake in Leyte, Philippines. ](/news/2017/08/23/earthquakes-in-2017-two-people-die-in-an-earthquake-in-leyte-philippines.md) _2017-08-27 17:30:04 (First version)_
+1. [Earthquakes in 2017: Two people die in an earthquake in Leyte, Philippines. ](/news/2017/08/23/earthquakes-in-2017-two-people-die-in-an-earthquake-in-leyte-philippines.md) _2018-02-06 13:49:31 (First version)_
 1. [Two people die in an earthquake in Leyte, Philippines. ](/news/2017/08/23/two-people-die-in-an-earthquake-in-leyte-philippines.md) _(Current version)_
 
 ### Related:

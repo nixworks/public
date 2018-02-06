@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legisla
 
 ### Changes:
 
-1. [ Wallace Souza, the former Brazilian state legislator and host of ''Canal Livre'' who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surr.md) _2017-08-25 03:25:59 (First version)_
+1. [ Wallace Souza, the former Brazilian state legislator and host of ''Canal Livre'' who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surr.md) _2018-02-06 13:49:19 (First version)_
 1. [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md) _(Current version)_
 
 ### Related:

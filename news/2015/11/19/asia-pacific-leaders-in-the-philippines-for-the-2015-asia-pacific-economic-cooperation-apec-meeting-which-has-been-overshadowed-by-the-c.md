@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the
 
 ### Changes:
 
-1. [APEC Philippines 2015: Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/apec-philippines-2015-asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-bee.md) _2017-08-27 03:43:56 (First version)_
+1. [APEC Philippines 2015: Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/apec-philippines-2015-asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-bee.md) _2018-02-06 13:49:28 (First version)_
 1. [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md) _(Current version)_
 
 ### Related:

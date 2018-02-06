@@ -17,7 +17,7 @@ The parliamentary elections in Syria will be held on April 13, 2016, said a stat
 
 ### Changes:
 
-1. [Syrian parliamentary election, 2016: Voters in mostly government controlled areas of Syria will head to the polls to elect 250 members to the People's Council of Syria. ](/news/2016/04/13/syrian-parliamentary-election-2016-voters-in-mostly-government-controlled-areas-of-syria-will-head-to-the-polls-to-elect-250-members-to-th.md) _2017-08-27 03:45:37 (First version)_
+1. [Syrian parliamentary election, 2016: Voters in mostly government controlled areas of Syria will head to the polls to elect 250 members to the People's Council of Syria. ](/news/2016/04/13/syrian-parliamentary-election-2016-voters-in-mostly-government-controlled-areas-of-syria-will-head-to-the-polls-to-elect-250-members-to-th.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in mostly government controlled areas of Syria will head to the polls to elect 250 members to the People's Council of Syria. ](/news/2016/04/13/voters-in-mostly-government-controlled-areas-of-syria-will-head-to-the-polls-to-elect-250-members-to-the-people-s-council-of-syria.md) _(Current version)_
 
 ### Related:

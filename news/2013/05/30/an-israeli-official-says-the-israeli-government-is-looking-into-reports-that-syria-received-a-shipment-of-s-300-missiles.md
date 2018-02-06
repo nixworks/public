@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/05/30/an-israeli-official-says-the-israeli-government
 
 ### Changes:
 
-1. [Syrian civil war:An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-pan-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md) _2017-08-25 03:38:45 (First version)_
-2. [Syrian civil war:: An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-an-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md) _2017-08-27 03:38:58 (Update)_
+1. [Syrian civil war:An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-pan-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-an-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md) _2018-02-06 13:49:24 (Update)_
 2. [An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/an-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md) _(Current version)_
 
 ### Related:

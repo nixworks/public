@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Qalat
 ### [A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civilians-along-with-an-afghan-doctor-a.md)
-_Context: Zabul Province, Qalat, U.S., Afghanistan_
+_Context: Zabul Province, Afghanistan, Qalat, U.S._
 
 ##### Tuareg
 ### [Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-azawad.md)
@@ -21,7 +21,7 @@ A Mali government spokesman says clashes between national soldiers and armed pol
 
 ##### Tokyo Electric Power Company
 ### [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md)
-_Context: Tokyo Electric Power Company, Futaba District, Fukushima Daiichi Nuclear Power Plant, Fukushima Prefecture, radioactive, Japan_
+_Context: Fukushima Prefecture, Japan, Fukushima Daiichi Nuclear Power Plant, radioactive, Futaba District, Tokyo Electric Power Company_
 
 ##### 2013 Thane building collapse
 ### [2013 Thane building collapse: Rescuers in India end the search for survivors of a building collapse which killed 74 people in the city of Thane on April 4. ](/news/2013/04/6/2013-thane-building-collapse-rescuers-in-india-end-the-search-for-survivors-of-a-building-collapse-which-killed-74-people-in-the-city-of-th.md)
@@ -35,9 +35,9 @@ Ikea confirms its has withdrawn nearly 18,000 of its elk meat lasagne dishes fro
 ### [Five people are killed in clashes between Muslims and Christians on the outskirts of Cairo, Egypt. ](/news/2013/04/6/five-people-are-killed-in-clashes-between-muslims-and-christians-on-the-outskirts-of-cairo-egypt.md)
 Egyptian security officials say five people have been killed in clashes between Muslims and Christians just outside Cairo.
 
-##### British
+##### United Kingdom
 ### [A 24-year-old British tourist is found dead in a houseboat in Jammu and Kashmir, India. ](/news/2013/04/6/a-24-year-old-british-tourist-is-found-dead-in-a-houseboat-in-jammu-and-kashmir-india.md)
-_Context: India, Jammu and Kashmir, British, houseboat_
+_Context: houseboat, India, Jammu and Kashmir, United Kingdom_
 
 ##### South Africa
 ### [Former South African president Nelson Mandela is discharged after spending nine days in hospital. ](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.md)
@@ -53,7 +53,7 @@ Tammam Salam was officially named the new prime minister of Lebanon on Saturday 
 
 ##### Pope Francis
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders, his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
-_Context: Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Pope Francis, O.F.M., Holy See, Spain, Jose Rodriguez Carballo, Catholic faithful_
+_Context: Holy See, Pope Francis, Spain, Jose Rodriguez Carballo, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Catholic faithful, O.F.M._
 
 ## [Previous Day...](/news/2013/04/5/index.md)
 

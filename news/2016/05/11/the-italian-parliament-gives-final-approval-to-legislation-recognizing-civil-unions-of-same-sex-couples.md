@@ -16,7 +16,7 @@ The law, opposed by the Vatican, stops short of gay marriage but brings Italy mo
 
 ### Changes:
 
-1. [Recognition of same-sex unions in Italy: The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/recognition-of-same-sex-unions-in-italy-the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-cou.md) _2017-08-27 03:46:01 (First version)_
+1. [Recognition of same-sex unions in Italy: The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/recognition-of-same-sex-unions-in-italy-the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-cou.md) _2018-02-06 13:49:29 (First version)_
 1. [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md) _(Current version)_
 
 ### Related:

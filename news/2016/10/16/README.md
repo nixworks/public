@@ -17,7 +17,7 @@ A self-made explosive device went off while Arsen Pavlov, known as Motorola, was
 
 ##### The Simpsons
 ### ["The Simpsons", the longest-running American, prime time, scripted television series, airs its 600th episode. ](/news/2016/10/16/the-simpsons-the-longest-running-american-prime-time-scripted-television-series-airs-its-600th-episode.md)
-_Context: The Simpsons, prime time_
+_Context: prime time, The Simpsons_
 
 ##### Pope Francis
 ### [Pope Francis declares seven new saints. ](/news/2016/10/16/pope-francis-declares-seven-new-saints.md)
@@ -25,7 +25,7 @@ _Context: Pope Francis, saints_
 
 ##### footbridge
 ### [The collapse of a footbridge connecting the islands of Lembongan and Ceningan, near Bali, Indonesia, leaves 9 dead and 30 injured. ](/news/2016/10/16/the-collapse-of-a-footbridge-connecting-the-islands-of-lembongan-and-ceningan-near-bali-indonesia-leaves-9-dead-and-30-injured.md)
-_Context: Ceningan, footbridge, Lembongan, Bali, Indonesia_
+_Context: footbridge, Bali, Indonesia, Lembongan, Ceningan_
 
 ##### Yemeni Crisis
 ### [The United States and the United Kingdom call for, "within hours," an immediate and unconditional ceasefire in Yemen to end the violence following last week's Saudi airstrikes, based on bad information, that killed around 140 people. ](/news/2016/10/16/the-united-states-and-the-united-kingdom-call-for-within-hours-an-immediate-and-unconditional-ceasefire-in-yemen-to-end-the-violence-fol.md)
@@ -33,15 +33,15 @@ The United States and Britain called on Sunday for an immediate and unconditiona
 
 ##### arson
 ### [An arsonist firebombs a Republican Party office in Hillsborough, North Carolina, and leaves a graffiti message reading, "Nazi Republicans get out of town or else." ](/news/2016/10/16/an-arsonist-firebombs-a-republican-party-office-in-hillsborough-north-carolina-and-leaves-a-graffiti-message-reading-nazi-republicans-ge.md)
-_Context: Nazi, arson, Hillsborough, North Carolina, Republican_
+_Context: arson, Republican, Nazi, Hillsborough, North Carolina_
 
 ##### Montenegrin parliamentary election, 2016
 ### [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md)
-_Context: Milo Dukanovic, Prime Minister, Democratic Party of Socialists, Montenegrin parliamentary election, 2016_
+_Context: Prime Minister, Democratic Party of Socialists, Montenegrin parliamentary election, 2016, Milo Dukanovic_
 
 ##### ExoMars project
 ### [The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbiter-spacecraft-b.md)
-_Context: European Space Agency, ExoMars Trace Gas Orbiter, Mars, Roscosmos, ExoMars project, ''Schiaparelli'' lander_
+_Context: ExoMars Trace Gas Orbiter, ''Schiaparelli'' lander, Roscosmos, European Space Agency, Mars, ExoMars project_
 
 ## [Previous Day...](/news/2016/10/15/index.md)
 

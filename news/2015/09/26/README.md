@@ -3,13 +3,13 @@ Formats: [HTML](2015/09/26/index.html)  [JSON](2015/09/26/index.json)  [XML](201
 
 ## [2015-09-26](/news/2015/09/26/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-forces-near-the-border-with-yemen.md)
-_Context: Yemen, Saudi Arabia, Saudi Arabian-led intervention in Yemen, border guards_
+_Context: Yemen, Saudi-led intervention in Yemen, border guards, Saudi Arabia_
 
 ##### Nagorno-Karabakh conflict
 ### [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md)
-_Context: Azerbaijan, Armenia, Nagorno-Karabakh region, Nagorno-Karabakh conflict_
+_Context: Armenia, Nagorno-Karabakh region, Azerbaijan, Nagorno-Karabakh conflict_
 
 ##### Libya
 ### [A prominent Libyan Zuwarah militia leader and migrant smuggler, Salah Al-Maskhout, is reportedly killed in Tripoli by Italian special forces. The EU recently approved military action against people smuggling networks operating out of Libya. ](/news/2015/09/26/a-prominent-libyan-zuwarah-militia-leader-and-migrant-smuggler-salah-al-maskhout-is-reportedly-killed-in-tripoli-by-italian-special-forces.md)
@@ -29,7 +29,7 @@ Porsche’s production chief Oliver Blume is set to succeed Matthias Mueller as 
 
 ##### 2015 Pacific hurricane season
 ### [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island-ov.md)
-_Context: island of Hawaii, Hawaiian islands, 2015 Pacific hurricane season_
+_Context: Hawaiian islands, 2015 Pacific hurricane season, island of Hawaii_
 
 ##### Baitul Futuh Mosque
 ### [A fire severely damages the Baitul Futuh Mosque, London, United Kingdom. ](/news/2015/09/26/a-fire-severely-damages-the-baitul-futuh-mosque-london-united-kingdom.md)

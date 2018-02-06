@@ -15,5 +15,5 @@ Law requires individuals to uncover their faces when receiving public services, 
 
 ### Changes:
 
-1. [The Quebec National Assembly passes legislation banning Muslim women wearing the veil to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-muslim-women-wearing-the-veil-to-receive-or-give-public-services-including-riding-p.md) _2017-10-19 14:30:05 (First version)_
+1. [The Quebec National Assembly passes legislation banning Muslim women wearing the veil to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-muslim-women-wearing-the-veil-to-receive-or-give-public-services-including-riding-p.md) _2018-02-06 13:49:31 (First version)_
 1. [The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.md) _(Current version)_

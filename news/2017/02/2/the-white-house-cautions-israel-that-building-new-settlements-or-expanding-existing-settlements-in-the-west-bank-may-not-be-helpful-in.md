@@ -17,7 +17,7 @@ A carefully worded statement from White House Press Secretary Sean Spicer on Thu
 
 ### Changes:
 
-1. [The White House cautions Israel that building new settlements or expanding existing settlements in the West Bank, "... may not be helpful in achieving (peace)." ](/news/2017/02/2/the-white-house-cautions-israel-that-building-new-settlements-or-expanding-existing-settlements-in-the-west-bank-may-not-be-helpful.md) _2017-08-25 03:47:20 (First version)_
+1. [The White House cautions Israel that building new settlements or expanding existing settlements in the West Bank, "... may not be helpful in achieving (peace)." ](/news/2017/02/2/the-white-house-cautions-israel-that-building-new-settlements-or-expanding-existing-settlements-in-the-west-bank-may-not-be-helpful.md) _2018-02-06 13:49:30 (First version)_
 1. [The White House cautions Israel that building new settlements or expanding existing settlements in the West Bank, "... may not be helpful in achieving (peace)." ](/news/2017/02/2/the-white-house-cautions-israel-that-building-new-settlements-or-expanding-existing-settlements-in-the-west-bank-may-not-be-helpful-in.md) _(Current version)_
 
 ### Related:

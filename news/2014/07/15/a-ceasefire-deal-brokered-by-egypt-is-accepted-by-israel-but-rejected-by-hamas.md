@@ -19,8 +19,8 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 
 ### Changes:
 
-1. [Operation Protective Edge:A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-pa-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _2017-08-25 03:40:41 (First version)_
-2. [Operation Protective Edge:: A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _2017-08-27 03:40:59 (Update)_
+1. [Operation Protective Edge:A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-pa-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _2018-02-06 13:49:26 (First version)_
+2. [Operation Protective Edge:: A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _2018-02-06 13:49:26 (Update)_
 2. [A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _(Current version)_
 
 ### Related:

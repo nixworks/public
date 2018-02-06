@@ -19,7 +19,7 @@ Flash floods turn roads into raging torrents of mud and debris on the fringes of
 
 ### Changes:
 
-1. [Flash floods on the outskirts of the Greek capital Athens kill at least 14 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-14-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _2017-11-16 22:30:04 (First version)_
+1. [Flash floods on the outskirts of the Greek capital Athens kill at least 14 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-14-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _2018-02-06 13:49:31 (First version)_
 1. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _(Current version)_
 
 ### Related:

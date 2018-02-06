@@ -9,11 +9,11 @@ _Context: Saudi Arabia, Mecca, hajj_
 
 ##### Singapore
 ### [ Singapore holds its largest civil counter-terrorism exercise, codenamed Exercise Northstar&nbsp;V, simulating bombing and chemical attacks at four Mass Rapid Transit stations and a bus interchange. Thirteen MRT stations and part of Toa Payoh Bus Interchange are closed for three hours, causing travel disruptions for over 15,000 commuters and triggering a response from some 2,000 personnel from 22 governmental organizations. ](/news/2006/01/8/singapore-holds-its-largest-civil-counter-terrorism-exercise-codenamed-exercise-northstar-nbsp-v-simulating-bombing-and-chemical-attacks.md)
-_Context: Toa Payoh Bus Interchange, governmental organizations, Mass Rapid Transit, counter-terrorism, Singapore, Exercise Northstar&nbsp;V_
+_Context: Mass Rapid Transit, Singapore, Exercise Northstar&nbsp;V, counter-terrorism, governmental organizations, Toa Payoh Bus Interchange_
 
 ##### earthquake
 ### [ A strong earthquake measuring 6.7 on the moment magnitude scale hits Greece at 13:34. The earthquake's epicentre was in the sea region 25&nbsp;km east of the island of Kythira, about 200&nbsp;km south of Athens. Although it was felt as far as Sicily, south Italy, Egypt, and Amman in Jordan, it was not disastrous due to its deep hypocentre and the sea-bed epicentre. Little damage (mainly in Kythira) and few light injuries are reported. ](/news/2006/01/8/a-strong-earthquake-measuring-6-7-on-the-moment-magnitude-scale-hits-greece-at-13-34-the-earthquake-s-epicentre-was-in-the-sea-region-25-n.md)
-_Context: Athens, earthquake, Amman, epicentre, Jordan, M<sub>w</sub>&nbsp;5.2, Kythira, Greece, hypocentre, Sicily, Egypt_
+_Context: Amman, earthquake, M<sub>w</sub>&nbsp;5.2, Jordan, Athens, Egypt, Greece, Kythira, epicentre, Sicily, hypocentre_
 
 ## [Previous Day...](/news/2006/01/7/index.md)
 

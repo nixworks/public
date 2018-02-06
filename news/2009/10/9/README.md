@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/9/index.html)  [JSON](2009/10/9/index.json)  [XML](2009/
 
 ##### United Nations
 ### [ A United Nations plane from Uruguay attached to MINUSTAH monitoring the Haiti&ndash;Dominican Republic border crashes near Fonds-Verrettes, killing at least 11 people from Jordan and Uruguay. ](/news/2009/10/9/a-united-nations-plane-from-uruguay-attached-to-minustah-monitoring-the-haiti-ndash-dominican-republic-border-crashes-near-fonds-verrettes.md)
-_Context: Haiti, Dominican Republic, Fonds-Verrettes, United Nations, MINUSTAH, Uruguay, Jordan_
+_Context: Dominican Republic, MINUSTAH, Uruguay, United Nations, Haiti, Fonds-Verrettes, Jordan_
 
 ##### General Motors
 ### [ General Motors finalizes a deal to sell Hummer to China's Sichuan Tengzhong Heavy Industrial Machinery Company. ](/news/2009/10/9/general-motors-finalizes-a-deal-to-sell-hummer-to-china-s-sichuan-tengzhong-heavy-industrial-machinery-company.md)
@@ -13,7 +13,7 @@ _Context: Hummer, Sichuan Tengzhong Heavy Industrial Machinery Company, General 
 
 ##### lunar ice
 ### [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md)
-_Context: LCROSS, Moon, lunar ice, NASA_
+_Context: LCROSS, lunar ice, NASA, Moon_
 
 ##### Poland
 ### [ A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-saturday-at-1000-gmt.md)
@@ -53,7 +53,7 @@ A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city 
 
 ##### Arizona
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)
-_Context: Arizona, United States_
+_Context: United States, Arizona_
 
 ##### amputee
 ### [ Public amputations on three men accused of robbery occur in Somalia. ](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbery-occur-in-somalia.md)

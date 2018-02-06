@@ -16,8 +16,8 @@ Pro-Russian rebels paraded European monitors they are holding in eastern Ukraine
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Pro-Russian rebels in Ukraine free a Swedish observer, but not the other seven European monitors they have been holding for three days.](/news/2014/04/27/2014-pro-russian-unrest-in-ukraine-ppro-russian-rebels-in-ukraine-free-a-swedish-observer-but-not-the-other-seven-european-monitors-they-ha.md) _2017-08-25 03:40:21 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Pro-Russian rebels in Ukraine free a Swedish observer, but not the other seven European monitors they have been holding for three days.](/news/2014/04/27/2014-pro-russian-unrest-in-ukraine-pro-russian-rebels-in-ukraine-free-a-swedish-observer-but-not-the-other-seven-european-monitors-they-h.md) _2017-08-27 03:40:38 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Pro-Russian rebels in Ukraine free a Swedish observer, but not the other seven European monitors they have been holding for three days.](/news/2014/04/27/2014-pro-russian-unrest-in-ukraine-pro-russian-rebels-in-ukraine-free-a-swedish-observer-but-not-the-other-seven-european-monitors-they-h.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Pro-Russian rebels in Ukraine free a Swedish observer, but not the other seven European monitors they have been holding for three days.](/news/2014/04/27/2014-pro-russian-unrest-in-ukraine-ppro-russian-rebels-in-ukraine-free-a-swedish-observer-but-not-the-other-seven-european-monitors-they-ha.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian rebels in Ukraine free a Swedish observer, but not the other seven European monitors they have been holding for three days.](/news/2014/04/27/pro-russian-rebels-in-ukraine-free-a-swedish-observer-but-not-the-other-seven-european-monitors-they-have-been-holding-for-three-days.md) _(Current version)_
 
 ### Related:

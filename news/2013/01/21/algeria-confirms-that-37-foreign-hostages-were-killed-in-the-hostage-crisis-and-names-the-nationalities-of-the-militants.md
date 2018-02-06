@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-
 
 ### Changes:
 
-1. [In Amnas hostage crisis:Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-palgeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-mi.md) _2017-08-25 03:37:18 (First version)_
-2. [In Amnas hostage crisis:: Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-m.md) _2017-08-27 03:37:28 (Update)_
+1. [In Amnas hostage crisis:Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-palgeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-mi.md) _2018-02-06 13:49:24 (First version)_
+2. [In Amnas hostage crisis:: Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-m.md) _2018-02-06 13:49:24 (Update)_
 2. [Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-militants.md) _(Current version)_
 
 ### Related:

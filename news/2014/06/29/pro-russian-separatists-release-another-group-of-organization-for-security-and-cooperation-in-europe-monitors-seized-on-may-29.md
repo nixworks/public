@@ -16,7 +16,7 @@ Pro-Russian separatist rebels in eastern Ukraine on June 29 released a second gr
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Pro-Russian separatists release another group of Organization for Security and Cooperation in Europe monitors seized on May 29. ](/news/2014/06/29/2014-pro-russian-conflict-in-ukraine-pro-russian-separatists-release-another-group-of-organization-for-security-and-cooperation-in-europe-m.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Pro-Russian separatists release another group of Organization for Security and Cooperation in Europe monitors seized on May 29. ](/news/2014/06/29/2014-pro-russian-conflict-in-ukraine-pro-russian-separatists-release-another-group-of-organization-for-security-and-cooperation-in-europe-m.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian separatists release another group of Organization for Security and Cooperation in Europe monitors seized on May 29. ](/news/2014/06/29/pro-russian-separatists-release-another-group-of-organization-for-security-and-cooperation-in-europe-monitors-seized-on-may-29.md) _(Current version)_
 
 ### Related:

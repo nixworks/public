@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/04/16/the-dismembered-corpse-of-a-palestinian-fighter
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/israeliapalestinian-conflict-pthe-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md) _2017-08-25 03:27:39 (First version)_
-2. [Israeli-Palestinian conflict:: The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/israeli-palestinian-conflict-the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md) _2017-08-27 03:27:36 (Update)_
+1. [Israeli-Palestinian conflict:The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/israeliapalestinian-conflict-pthe-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md) _2018-02-06 13:49:19 (First version)_
+2. [Israeli-Palestinian conflict:: The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/israeli-palestinian-conflict-the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md) _2018-02-06 13:49:19 (Update)_
 2. [The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md) _(Current version)_
 
 ### Related:

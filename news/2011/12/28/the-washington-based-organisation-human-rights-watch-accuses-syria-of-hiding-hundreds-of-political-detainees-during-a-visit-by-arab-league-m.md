@@ -17,8 +17,8 @@ Syria releases 755 people detained in the nine-month uprising against President 
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-pthe-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md) _2017-08-25 03:34:45 (First version)_
-2. [2011 Syrian uprising:: The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-the-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md) _2017-08-27 03:34:55 (Update)_
+1. [2011 Syrian uprising:: The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-the-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-pthe-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md) _2018-02-06 13:49:23 (Update)_
 2. [The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/the-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a-visit-by-arab-league-m.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Fighting erupted in Tripoli overnight after rebels closed in on the Libyan capit
 
 ### Changes:
 
-1. [2011 Libyan civil war: Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/2011-libyan-civil-war-libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md) _2017-08-27 03:34:09 (First version)_
+1. [2011 Libyan civil war: Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/2011-libyan-civil-war-libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md) _2018-02-06 13:49:22 (First version)_
 1. [Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md) _(Current version)_
 
 ### Related:

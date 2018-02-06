@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-
 
 ### Changes:
 
-1. [The coastguard of Libya rescued nearly 500 migrants in three operations on Tuesday, in the seas west of the capital Tripoli. ](/news/2017/08/29/the-coastguard-of-libya-rescued-nearly-500-migrants-in-three-operations-on-tuesday-in-the-seas-west-of-the-capital-tripoli.md) _2017-08-29 17:30:05 (First version)_
+1. [The coastguard of Libya rescued nearly 500 migrants in three operations on Tuesday, in the seas west of the capital Tripoli. ](/news/2017/08/29/the-coastguard-of-libya-rescued-nearly-500-migrants-in-three-operations-on-tuesday-in-the-seas-west-of-the-capital-tripoli.md) _2018-02-06 13:49:31 (First version)_
 1. [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md) _(Current version)_
 
 ### Related:

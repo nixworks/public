@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/30/the-pakistan-army-begins-a-ground-offensive-aga
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/war-in-north-west-pakistan-the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md) _2017-08-27 03:40:55 (First version)_
+1. [War in North-West Pakistan: The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/war-in-north-west-pakistan-the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md) _(Current version)_
 
 ### Related:

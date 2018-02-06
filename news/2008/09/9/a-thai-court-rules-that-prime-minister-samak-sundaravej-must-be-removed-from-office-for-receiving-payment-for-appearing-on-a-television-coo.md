@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sun
 
 ### Changes:
 
-1. [ A Thai court rules that Prime Minister Samak Sundaravej must be removed from office for receiving payment for appearing on a television cooking show. ](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sundaravej-must-be-removed-from-office-for-receiving-payment-for-appearing-on-a-television-co.md) _2017-08-25 03:22:50 (First version)_
+1. [ A Thai court rules that Prime Minister Samak Sundaravej must be removed from office for receiving payment for appearing on a television cooking show. ](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sundaravej-must-be-removed-from-office-for-receiving-payment-for-appearing-on-a-television-co.md) _2018-02-06 13:49:18 (First version)_
 1. [ A Thai court rules that Prime Minister Samak Sundaravej must be removed from office for receiving payment for appearing on a television cooking show. ](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sundaravej-must-be-removed-from-office-for-receiving-payment-for-appearing-on-a-television-coo.md) _(Current version)_
 
 ### Related:

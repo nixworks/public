@@ -16,8 +16,8 @@ Nato says it has lost an unmanned helicopter drone over Libya, as state TV shows
 
 ### Changes:
 
-1. [2011 Libyan civil war:NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/2011-libyan-civil-war-pnato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-lib.md) _2017-08-25 03:33:31 (First version)_
-2. [2011 Libyan civil war:: NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/2011-libyan-civil-war-nato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-li.md) _2017-08-27 03:33:40 (Update)_
+1. [2011 Libyan civil war:NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/2011-libyan-civil-war-pnato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-lib.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/2011-libyan-civil-war-nato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-li.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/nato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-libya.md) _(Current version)_
 
 ### Related:

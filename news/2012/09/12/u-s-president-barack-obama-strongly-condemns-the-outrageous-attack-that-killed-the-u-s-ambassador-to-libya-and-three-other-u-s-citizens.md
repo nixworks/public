@@ -23,7 +23,7 @@ Formats: [HTML](/news/2012/09/12/u-s-president-barack-obama-strongly-condemns-th
 
 ### Changes:
 
-1. [2012 diplomatic missions attacks: U.S. president Barack Obama strongly condemns the "outrageous attack" that killed the U.S. ambassador to Libya and three other U.S. citizens in Benghazi, Libya, saying that the United States rejects denigration of religious beliefs but also rejects the "senseless violence that killed the US diplomat". ](/news/2012/09/12/2012-diplomatic-missions-attacks-u-s-president-barack-obama-strongly-condemns-the-outrageous-attack-that-killed-the-u-s-ambassador-to-l.md) _2017-08-27 03:36:40 (First version)_
+1. [2012 diplomatic missions attacks: U.S. president Barack Obama strongly condemns the "outrageous attack" that killed the U.S. ambassador to Libya and three other U.S. citizens in Benghazi, Libya, saying that the United States rejects denigration of religious beliefs but also rejects the "senseless violence that killed the US diplomat". ](/news/2012/09/12/2012-diplomatic-missions-attacks-u-s-president-barack-obama-strongly-condemns-the-outrageous-attack-that-killed-the-u-s-ambassador-to-l.md) _2018-02-06 13:49:23 (First version)_
 1. [U.S. president Barack Obama strongly condemns the "outrageous attack" that killed the U.S. ambassador to Libya and three other U.S. citizens in Benghazi, Libya, saying that the United States rejects denigration of religious beliefs but also rejects the "senseless violence that killed the US diplomat". ](/news/2012/09/12/u-s-president-barack-obama-strongly-condemns-the-outrageous-attack-that-killed-the-u-s-ambassador-to-libya-and-three-other-u-s-citizens.md) _(Current version)_
 
 ### Related:

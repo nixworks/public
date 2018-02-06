@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/11/5/the-seabourn-cruise-line-cruise-ship-the-seabour
 
 ### Changes:
 
-1. [ The Seabourn Cruise Line cruise ship The Seabourn Spirit evades an attack by pirates off the coast of Somalia. [http:--news.yahoo.com-s-ap-20051106-ap_on_re_af-pirate_attack (Yahoo! News)] (Link dead as of 21:17, 14 January 2007 (UTC))](/news/2005/11/5/the-seabourn-cruise-line-cruise-ship-the-seabourn-spirit-evades-an-attack-by-pirates-off-the-coast-of-somalia-http-news-yahoo-com-s-ap.md) _2017-10-17 03:19:40 (First version)_
+1. [ The Seabourn Cruise Line cruise ship The Seabourn Spirit evades an attack by pirates off the coast of Somalia. [http:--news.yahoo.com-s-ap-20051106-ap_on_re_af-pirate_attack (Yahoo! News)] (Link dead as of 21:17, 14 January 2007 (UTC))](/news/2005/11/5/the-seabourn-cruise-line-cruise-ship-the-seabourn-spirit-evades-an-attack-by-pirates-off-the-coast-of-somalia-http-news-yahoo-com-s-ap.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Seabourn Cruise Line cruise ship The Seabourn Spirit evades an attack by pirates off the coast of Somalia. [https:--news.yahoo.com-s-ap-20051106-ap_on_re_af-pirate_attack (Yahoo! News)] (Link dead as of 21:17, 14 January 2007 (UTC))](/news/2005/11/5/the-seabourn-cruise-line-cruise-ship-the-seabourn-spirit-evades-an-attack-by-pirates-off-the-coast-of-somalia-https-news-yahoo-com-s-ap.md) _(Current version)_
 
 ### Related:

@@ -7,7 +7,7 @@ Formats: [HTML](2015/09/9/index.html)  [JSON](2015/09/9/index.json)  [XML](2015/
 ### [Islamic Front rebels seize Abu al-Duhur military airport while taking control of Syria's northwestern Idlib province. ](/news/2015/09/9/islamic-front-rebels-seize-abu-al-duhur-military-airport-while-taking-control-of-syria-s-northwestern-idlib-province.md)
 A coalition of mainly Islamist Syrian rebels seize a key airbase in north-western province of Idlib after a long battle.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Egypt deploys around 800 troops to Yemen to join the Saudi-led war effort against the Houthis. ](/news/2015/09/9/egypt-deploys-around-800-troops-to-yemen-to-join-the-saudi-led-war-effort-against-the-houthis.md)
 As many as 800 Egyptian soldiers arrived in Yemen late on Tuesday, Egyptian security sources said, swelling the ranks of a Gulf Arab military contingent which aims to rout the Iran-allied Houthi group after a five-month civil war.
 
@@ -17,7 +17,7 @@ Elizabeth, aged 89, surpasses the 63 years her great-great-grandmother Queen Vic
 
 ##### German
 ### [A German court issues an injunction ordering a halt to a Lufthansa airline pilots' strike. Earlier, Germany's biggest airline announced it had canceled 1,000 flights while about 500 would still operate. ](/news/2015/09/9/a-german-court-issues-an-injunction-ordering-a-halt-to-a-lufthansa-airline-pilots-strike-earlier-germany-s-biggest-airline-announced-it-h.md)
-_Context: Lufthansa, German_
+_Context: German, Lufthansa_
 
 ##### refugees from Syria
 ### [Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. ](/news/2015/09/9/australia-announces-that-it-will-accept-an-additional-12-000-syrian-migrants-mostly-from-persecuted-minorities.md)

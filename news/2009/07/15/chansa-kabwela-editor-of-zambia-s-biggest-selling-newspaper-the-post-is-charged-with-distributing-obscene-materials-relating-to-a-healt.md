@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selli
 
 ### Changes:
 
-1. [ Chansa Kabwela, editor of Zambia's biggest-selling newspaper ''The Post'', is charged with distributing obscene materials relating to a health sector crisis. ](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selling-newspaper-the-post-is-charged-with-distributing-obscene-materials-relating-to-a-hea.md) _2017-08-25 03:25:10 (First version)_
+1. [ Chansa Kabwela, editor of Zambia's biggest-selling newspaper ''The Post'', is charged with distributing obscene materials relating to a health sector crisis. ](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selling-newspaper-the-post-is-charged-with-distributing-obscene-materials-relating-to-a-hea.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chansa Kabwela, editor of Zambia's biggest-selling newspaper "The Post", is charged with distributing obscene materials relating to a health sector crisis. ](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selling-newspaper-the-post-is-charged-with-distributing-obscene-materials-relating-to-a-healt.md) _(Current version)_
 
 ### Related:

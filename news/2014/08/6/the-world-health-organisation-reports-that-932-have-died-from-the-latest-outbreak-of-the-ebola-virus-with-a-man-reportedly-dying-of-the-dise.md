@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/6/the-world-health-organisation-reports-that-932-h
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/2014-west-africa-ebola-outbreak-the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a.md) _2017-08-27 03:41:07 (First version)_
+1. [2014 West Africa Ebola outbreak: The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/2014-west-africa-ebola-outbreak-the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md) _(Current version)_
 
 ### Related:

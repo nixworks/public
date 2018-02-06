@@ -21,8 +21,8 @@ Mostly Shia protesters demand changes to naturalisation policy, which they say f
 
 ### Changes:
 
-1. [Arab Spring:Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/arab-spring-pintellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md) _2017-08-25 03:32:29 (First version)_
-2. [Arab Spring:: Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/arab-spring-intellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md) _2017-08-27 03:32:37 (Update)_
+1. [Arab Spring:Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/arab-spring-pintellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/arab-spring-intellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md) _2018-02-06 13:49:22 (Update)_
 2. [Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/intellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md) _(Current version)_
 
 ### Related:

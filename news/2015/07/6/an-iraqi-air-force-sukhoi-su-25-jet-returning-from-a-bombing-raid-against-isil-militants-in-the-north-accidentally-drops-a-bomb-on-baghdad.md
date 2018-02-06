@@ -16,7 +16,7 @@ Seven people die and 11 are hurt as a bomb falls from a Sukhoi Su-25 jet returni
 
 ### Changes:
 
-1. [Iraq War (2014-present): An Iraqi Air Force Sukhoi Su-25 jet, returning from a bombing raid against ISIL militants in the north, accidentally drops a bomb on Baghdad destroying several homes and killing at least 7 civilians. American officials claimed that as many as 65% of Iraqi air force bombers do not drop their bombs due to "lack of targets". ](/news/2015/07/6/iraq-war-2014-present-an-iraqi-air-force-sukhoi-su-25-jet-returning-from-a-bombing-raid-against-isil-militants-in-the-north-accidenta.md) _2017-08-27 03:42:39 (First version)_
+1. [Iraq War (2014-present): An Iraqi Air Force Sukhoi Su-25 jet, returning from a bombing raid against ISIL militants in the north, accidentally drops a bomb on Baghdad destroying several homes and killing at least 7 civilians. American officials claimed that as many as 65% of Iraqi air force bombers do not drop their bombs due to "lack of targets". ](/news/2015/07/6/iraq-war-2014-present-an-iraqi-air-force-sukhoi-su-25-jet-returning-from-a-bombing-raid-against-isil-militants-in-the-north-accidenta.md) _2018-02-06 13:49:27 (First version)_
 1. [An Iraqi Air Force Sukhoi Su-25 jet, returning from a bombing raid against ISIL militants in the north, accidentally drops a bomb on Baghdad destroying several homes and killing at least 7 civilians. American officials claimed that as many as 65% of Iraqi air force bombers do not drop their bombs due to "lack of targets". ](/news/2015/07/6/an-iraqi-air-force-sukhoi-su-25-jet-returning-from-a-bombing-raid-against-isil-militants-in-the-north-accidentally-drops-a-bomb-on-baghdad.md) _(Current version)_
 
 ### Related:

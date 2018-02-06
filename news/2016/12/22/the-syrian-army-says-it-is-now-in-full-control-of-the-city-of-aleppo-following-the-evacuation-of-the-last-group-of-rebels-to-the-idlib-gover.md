@@ -16,7 +16,7 @@ The Syrian city of Aleppo is back fully under government control, the military s
 
 ### Changes:
 
-1. [Syrian Civil War: Battle of Aleppo (2012-16): The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/syrian-civil-war-battle-of-aleppo-2012-16-the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuatio.md) _2017-08-27 03:47:29 (First version)_
+1. [Syrian Civil War: Battle of Aleppo (2012-16): The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/syrian-civil-war-battle-of-aleppo-2012-16-the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuatio.md) _2018-02-06 13:49:30 (First version)_
 1. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _(Current version)_
 
 ### Related:

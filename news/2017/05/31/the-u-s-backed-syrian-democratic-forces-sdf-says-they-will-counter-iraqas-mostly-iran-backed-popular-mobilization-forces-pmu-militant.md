@@ -17,7 +17,7 @@ Spokesman for Syrian Kurdish-Arab coalition says it would &#039;fight&#039; Popu
 
 ### Changes:
 
-1. [Syrian Civil War: The U.S.-backed Syrian Democratic Forces (SDF) says they will counter Iraq-s mostly Iran-backed Popular Mobilization Forces (PMU) militants if the latter enters areas under SDF control, insisting that SDF will never accept the presence of Iran and SDF will never under any circumstances act as a bridge between PMU and the Syria's Assad regime. ](/news/2017/05/31/syrian-civil-war-the-u-s-backed-syrian-democratic-forces-sdf-says-they-will-counter-iraq-s-mostly-iran-backed-popular-mobilization-for.md) _2017-08-27 03:48:25 (First version)_
+1. [Syrian Civil War: The U.S.-backed Syrian Democratic Forces (SDF) says they will counter Iraq-s mostly Iran-backed Popular Mobilization Forces (PMU) militants if the latter enters areas under SDF control, insisting that SDF will never accept the presence of Iran and SDF will never under any circumstances act as a bridge between PMU and the Syria's Assad regime. ](/news/2017/05/31/syrian-civil-war-the-u-s-backed-syrian-democratic-forces-sdf-says-they-will-counter-iraq-s-mostly-iran-backed-popular-mobilization-for.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S.-backed Syrian Democratic Forces (SDF) says they will counter Iraq's mostly Iran-backed Popular Mobilization Forces (PMU) militants if the latter enters areas under SDF control, insisting that SDF will never accept the presence of Iran and SDF will never under any circumstances act as a bridge between PMU and the Syria's Assad regime. ](/news/2017/05/31/the-u-s-backed-syrian-democratic-forces-sdf-says-they-will-counter-iraqas-mostly-iran-backed-popular-mobilization-forces-pmu-militant.md) _(Current version)_
 
 ### Related:

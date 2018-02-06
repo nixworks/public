@@ -16,7 +16,7 @@ Phone hacking appeared to be a &quot;bog-standard journalistic tool&quot; for ga
 
 ### Changes:
 
-1. [Former ''Daily Mirror'' journalist James Hipwell tells the Leveson Inquiry that phone hacking was a "bog standard journalistic tool" at the paper. ](/news/2011/12/21/former-daily-mirror-journalist-james-hipwell-tells-the-leveson-inquiry-that-phone-hacking-was-a-bog-standard-journalistic-tool-at-the.md) _2017-08-25 03:34:41 (First version)_
+1. [Former ''Daily Mirror'' journalist James Hipwell tells the Leveson Inquiry that phone hacking was a "bog standard journalistic tool" at the paper. ](/news/2011/12/21/former-daily-mirror-journalist-james-hipwell-tells-the-leveson-inquiry-that-phone-hacking-was-a-bog-standard-journalistic-tool-at-the.md) _2018-02-06 13:49:23 (First version)_
 1. [Former "Daily Mirror" journalist James Hipwell tells the Leveson Inquiry that phone hacking was a "bog standard journalistic tool" at the paper. ](/news/2011/12/21/former-daily-mirror-journalist-james-hipwell-tells-the-leveson-inquiry-that-phone-hacking-was-a-bog-standard-journalistic-tool-at-the-pa.md) _(Current version)_
 
 ### Related:

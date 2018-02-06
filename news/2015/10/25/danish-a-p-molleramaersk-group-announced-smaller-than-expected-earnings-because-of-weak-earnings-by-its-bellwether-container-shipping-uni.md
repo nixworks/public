@@ -16,7 +16,7 @@ Danish conglomerate A.P. Møller-Maersk cut its full-year profit guidance, sayin
 
 ### Changes:
 
-1. [Danish A.P. Moller-Maersk Group announced smaller-than-expected earnings because of weak earnings by its bellwether container shipping unit, Maersk Line. ](/news/2015/10/25/danish-a-p-moller-maersk-group-announced-smaller-than-expected-earnings-because-of-weak-earnings-by-its-bellwether-container-shipping-uni.md) _2017-08-27 03:43:30 (First version)_
+1. [Danish A.P. Moller-Maersk Group announced smaller-than-expected earnings because of weak earnings by its bellwether container shipping unit, Maersk Line. ](/news/2015/10/25/danish-a-p-moller-maersk-group-announced-smaller-than-expected-earnings-because-of-weak-earnings-by-its-bellwether-container-shipping-uni.md) _2018-02-06 13:49:28 (First version)_
 1. [Danish A.P. Moller-Maersk Group announced smaller-than-expected earnings because of weak earnings by its bellwether container shipping unit, Maersk Line. ](/news/2015/10/25/danish-a-p-molleramaersk-group-announced-smaller-than-expected-earnings-because-of-weak-earnings-by-its-bellwether-container-shipping-uni.md) _(Current version)_
 
 ### Related:

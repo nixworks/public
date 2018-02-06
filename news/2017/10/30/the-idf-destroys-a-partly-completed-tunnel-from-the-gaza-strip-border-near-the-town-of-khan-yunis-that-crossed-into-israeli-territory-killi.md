@@ -16,7 +16,7 @@ Seven Palestinian militants were killed on Monday when Israel blew up what it sa
 
 ### Changes:
 
-1. [The IDF destroys a partly-completed tunnel beneath the Gaza Strip border near the town of Khan Yunis, killing seven Hamas militants. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-beneath-the-gaza-strip-border-near-the-town-of-khan-yunis-killing-seven-hamas-militants.md) _2017-10-31 17:30:05 (First version)_
+1. [The IDF destroys a partly-completed tunnel beneath the Gaza Strip border near the town of Khan Yunis, killing seven Hamas militants. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-beneath-the-gaza-strip-border-near-the-town-of-khan-yunis-killing-seven-hamas-militants.md) _2018-02-06 13:49:31 (First version)_
 1. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _(Current version)_
 
 ### Related:

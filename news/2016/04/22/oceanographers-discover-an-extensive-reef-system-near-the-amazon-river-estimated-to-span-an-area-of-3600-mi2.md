@@ -20,9 +20,9 @@ It’s at the mouth of the Amazon River.
 
 ### Changes:
 
-1. [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of {{convert|3600|mi2|km2}}. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-convert-3600-mi2-km2.md) _2017-05-01 03:49:25 (First version)_
-2. [Amazon Reef: Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. ](/news/2016/04/22/amazon-reef-oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2-km2.md) _2017-08-27 03:45:46 (Update)_
-3. [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2-km2.md) _2017-08-29 03:45:18 (Update)_
+1. [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of {{convert|3600|mi2|km2}}. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-convert-3600-mi2-km2.md) _2018-02-06 13:49:28 (First version)_
+2. [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2-km2.md) _2018-02-06 13:49:28 (Update)_
+3. [Amazon Reef: Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. ](/news/2016/04/22/amazon-reef-oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2-km2.md) _2018-02-06 13:49:28 (Update)_
 3. [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600 mi2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2.md) _(Current version)_
 
 ### Related:

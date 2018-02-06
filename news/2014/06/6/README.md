@@ -9,11 +9,11 @@ _Context: Abdullah Abdullah, National Coalition of Afghanistan, Afghan president
 
 ##### Russian President
 ### [Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-peaceful-end-to-the-violence-in-eastern.md)
-_Context: Vladimir Putin, Petro Poroshenko, eastern Ukraine, Russian President, Ukrainian President-elect_
+_Context: eastern Ukraine, Vladimir Putin, Russian President, Ukrainian President-elect, Petro Poroshenko_
 
 ##### Tehreek-i-Taliban Pakistan
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan. ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
-_Context: North Waziristan, Tehreek-i-Taliban Pakistan, Mehsud, Urmuz, Pakistan_
+_Context: Tehreek-i-Taliban Pakistan, Pakistan, North Waziristan, Urmuz, Mehsud_
 
 ##### Iraq
 ### [Attacks across Iraq kill 27 people. ](/news/2014/06/6/attacks-across-iraq-kill-27-people.md)
@@ -21,11 +21,11 @@ _Context: Iraq_
 
 ##### Normandy
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)
-_Context: Western Allies, France, World War II, Invasion of Normandy, Normandy, D-Day_
+_Context: D-Day, Invasion of Normandy, France, Western Allies, World War II, Normandy_
 
 ##### Nun
 ### [Nun turned singer Cristina Scuccia wins the seventh season of "The Voice of Italy". ](/news/2014/06/6/nun-turned-singer-cristina-scuccia-wins-the-seventh-season-of-the-voice-of-italy.md)
-_Context: Cristina Scuccia, The Voice of Italy, Nun_
+_Context: The Voice of Italy, Nun, Cristina Scuccia_
 
 ##### Vodafone Group Plc
 ### [Vodafone reveals that the governments of six countries have a permanent link to monitor communications throughout Vodafone's networks. ](/news/2014/06/6/vodafone-reveals-that-the-governments-of-six-countries-have-a-permanent-link-to-monitor-communications-throughout-vodafone-s-networks.md)
@@ -53,7 +53,7 @@ Chinese-born Australian artist Guo Jian, detained before the Tiananmen anniversa
 
 ##### Canadian police
 ### [Canadian police arrest Justin Bourque, wanted for the alleged murder of three Royal Canadian Mounted Police officers and shooting two others in Moncton, New Brunswick. ](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.md)
-_Context: murder, Canadian police, New Brunswick, Royal Canadian Mounted Police, Moncton_
+_Context: Moncton, Royal Canadian Mounted Police, New Brunswick, Canadian police, murder_
 
 ##### Diet
 ### [Japan's parliament moves to ban the possession of child pornography. ](/news/2014/06/6/japan-s-parliament-moves-to-ban-the-possession-of-child-pornography.md)
@@ -61,7 +61,7 @@ _Context: Diet, child pornography_
 
 ##### prosecutors
 ### [Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research. ](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.md)
-_Context: prosecutors, organs_
+_Context: organs, prosecutors_
 
 ## [Previous Day...](/news/2014/06/5/index.md)
 

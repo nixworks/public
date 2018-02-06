@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four
 
 ### [2009-02-17](/news/2009/02/17/index.md)
 
-##### British
+##### United Kingdom
 #  British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. 
 
 
@@ -15,12 +15,12 @@ Formats: [HTML](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four
 
 ### Changes:
 
-1. [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a PS400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-aps400-000-bribe-from-italian-prime-minister-silvio.md) _2017-08-25 03:23:48 (First version)_
+1. [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a PS400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-aps400-000-bribe-from-italian-prime-minister-silvio.md) _2018-02-06 13:49:18 (First version)_
 1. [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-agbp400-000-bribe-from-italian-prime-minister-silv.md) _(Current version)_
 
 ### Related:
 
-1. [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly "Nouvel Observateur", Spanish newspaper "El Pas", and Italian newspaper "La Repubblica", and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel. ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais-an.md) _Context: British, Italian Prime Minister, Italy, Silvio Berlusconi_
+1. [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly "Nouvel Observateur", Spanish newspaper "El Pas", and Italian newspaper "La Repubblica", and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel. ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais-an.md) _Context: Italian Prime Minister, Italy, Silvio Berlusconi, United Kingdom_
 2. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: Italian Prime Minister, Italy, Silvio Berlusconi_
 3. [Italy's top court confirms that former Prime Minister Silvio Berlusconi will serve a prison sentence for a tax fraud conviction. ](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.md) _Context: Italian Prime Minister, Italy, Silvio Berlusconi_
 4. [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md) _Context: Italian Prime Minister, Italy, Silvio Berlusconi_

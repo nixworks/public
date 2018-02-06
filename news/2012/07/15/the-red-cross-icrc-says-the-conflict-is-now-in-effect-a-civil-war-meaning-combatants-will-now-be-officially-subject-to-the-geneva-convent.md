@@ -17,8 +17,8 @@ Syria is in effect in civil war, the Red Cross says, meaning combatants will now
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/syrian-uprising-2011-present-pthe-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-official.md) _2017-08-25 03:36:07 (First version)_
-2. [Syrian uprising (2011-present):: The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/syrian-uprising-2011-present-the-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-officia.md) _2017-08-27 03:36:18 (Update)_
+1. [Syrian uprising (2011-present):: The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/syrian-uprising-2011-present-the-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-officia.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/syrian-uprising-2011-present-pthe-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-official.md) _2018-02-06 13:49:23 (Update)_
 2. [The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/the-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-officially-subject-to-the-geneva-convent.md) _(Current version)_
 
 ### Related:

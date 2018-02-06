@@ -16,8 +16,8 @@ Thirty-five militants and a soldier have died in fighting in the restive Khyber 
 
 ### Changes:
 
-1. [War in North-West Pakistan:Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-pthirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pak.md) _2017-08-25 03:38:48 (First version)_
-2. [War in North-West Pakistan:: Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pa.md) _2017-08-27 03:39:02 (Update)_
+1. [War in North-West Pakistan:: Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pa.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-pthirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pak.md) _2018-02-06 13:49:25 (Update)_
 2. [Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pakistan-in-an-operation.md) _(Current version)_
 
 ### Related:

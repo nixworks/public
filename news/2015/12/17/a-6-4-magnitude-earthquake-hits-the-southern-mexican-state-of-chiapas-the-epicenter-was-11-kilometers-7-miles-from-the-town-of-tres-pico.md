@@ -17,7 +17,7 @@ A 6.4-magnitude earthquake shook buildings in the southern Mexican state of Chia
 
 ### Changes:
 
-1. [A 6.4-magnitude earthquake hits the southern Mexican state of Chiapas. The epicenter was 11 kilometers (7 miles) from the town of Tres Picos, not far from the Pacific coast. There are no immediate reports of major damage or injuries. ](/news/2015/12/17/a-6-4-magnitude-earthquake-hits-the-southern-mexican-state-of-chiapas-the-epicenter-was-11-kilometers-7-miles-from-the-town-of-tres-picos.md) _2017-10-17 03:51:12 (First version)_
+1. [A 6.4-magnitude earthquake hits the southern Mexican state of Chiapas. The epicenter was 11 kilometers (7 miles) from the town of Tres Picos, not far from the Pacific coast. There are no immediate reports of major damage or injuries. ](/news/2015/12/17/a-6-4-magnitude-earthquake-hits-the-southern-mexican-state-of-chiapas-the-epicenter-was-11-kilometers-7-miles-from-the-town-of-tres-picos.md) _2018-02-06 13:49:28 (First version)_
 1. [ A 6.4-magnitude earthquake hits the southern Mexican state of Chiapas. The epicenter was 11 kilometers (7 miles) from the town of Tres Picos, not far from the Pacific coast. There are no immediate reports of major damage or injuries. ](/news/2015/12/17/a-6-4-magnitude-earthquake-hits-the-southern-mexican-state-of-chiapas-the-epicenter-was-11-kilometers-7-miles-from-the-town-of-tres-pico.md) _(Current version)_
 
 ### Related:

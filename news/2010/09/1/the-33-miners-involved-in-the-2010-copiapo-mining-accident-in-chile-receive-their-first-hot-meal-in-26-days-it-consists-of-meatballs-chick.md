@@ -18,8 +18,8 @@ Chilean miners trapped underground receive their first hot meal in 26 days, as N
 
 ### Changes:
 
-1. [2010 Copiap mining accident:The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-pthe-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days-i.md) _2017-08-25 03:29:49 (First version)_
-2. [2010 Copiap mining accident:: The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-the-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days.md) _2017-08-27 03:29:53 (Update)_
+1. [2010 Copiap mining accident:: The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-the-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Copiap mining accident:The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-pthe-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days-i.md) _2018-02-06 13:49:20 (Update)_
 2. [The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/the-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days-it-consists-of-meatballs-chick.md) _(Current version)_
 
 ### Related:

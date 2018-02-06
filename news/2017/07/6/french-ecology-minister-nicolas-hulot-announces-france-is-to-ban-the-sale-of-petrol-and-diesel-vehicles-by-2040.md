@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-
 
 ### Changes:
 
-1. [Alternative fuel vehicles: French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/alternative-fuel-vehicles-french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _2017-08-27 03:48:37 (First version)_
+1. [Alternative fuel vehicles: French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/alternative-fuel-vehicles-french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _2018-02-06 13:49:31 (First version)_
 1. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _(Current version)_
 
 ### Related:

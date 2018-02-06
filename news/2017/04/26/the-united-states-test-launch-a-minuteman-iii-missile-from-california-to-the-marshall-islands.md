@@ -16,7 +16,7 @@ An unarmed intercontinental ballistic missile was launched just after midnight W
 
 ### Changes:
 
-1. [United States' policy of deterrence: The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/united-states-policy-of-deterrence-the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md) _2017-08-27 03:48:15 (First version)_
+1. [United States' policy of deterrence: The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/united-states-policy-of-deterrence-the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md) _(Current version)_
 
 ### Related:

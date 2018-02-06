@@ -16,7 +16,7 @@ The searing heatwave in Andhra Pradesh and Telangana has killed 432 people so fa
 
 ### Changes:
 
-1. [2015 India heat wave: The death toll from an Indian heat wave rises to 432 in the states of Andhra Pradesh and Telangana with extreme conditions forecast to continue. ](/news/2015/05/25/2015-india-heat-wave-the-death-toll-from-an-indian-heat-wave-rises-to-432-in-the-states-of-andhra-pradesh-and-telangana-with-extreme-condit.md) _2017-08-27 03:42:24 (First version)_
+1. [2015 India heat wave: The death toll from an Indian heat wave rises to 432 in the states of Andhra Pradesh and Telangana with extreme conditions forecast to continue. ](/news/2015/05/25/2015-india-heat-wave-the-death-toll-from-an-indian-heat-wave-rises-to-432-in-the-states-of-andhra-pradesh-and-telangana-with-extreme-condit.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from an Indian heat wave rises to 432 in the states of Andhra Pradesh and Telangana with extreme conditions forecast to continue. ](/news/2015/05/25/the-death-toll-from-an-indian-heat-wave-rises-to-432-in-the-states-of-andhra-pradesh-and-telangana-with-extreme-conditions-forecast-to-conti.md) _(Current version)_
 
 ### Related:

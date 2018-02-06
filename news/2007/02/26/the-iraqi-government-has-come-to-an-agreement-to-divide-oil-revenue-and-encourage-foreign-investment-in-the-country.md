@@ -17,8 +17,8 @@ The attack was the most serious breach of an Iraqi government building since Nov
 
 ### Changes:
 
-1. [ Iraq: The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-p-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md) _2017-08-25 03:19:17 (First version)_
-2. [ Iraq:: The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md) _2017-08-27 03:19:12 (Update)_
+1. [ Iraq:: The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq: The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-p-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md) _2018-02-06 13:49:17 (Update)_
 2. [ The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md) _(Current version)_
 
 ### Related:

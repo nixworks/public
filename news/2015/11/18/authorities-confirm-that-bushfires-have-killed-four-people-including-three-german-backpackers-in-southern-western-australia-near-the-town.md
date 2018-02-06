@@ -16,7 +16,7 @@ Four people have been killed in out-of-control bushfires on WA&#039;s south coas
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: Authorities confirm that bushfires have killed four people, including three German backpackers, in southern Western Australia near the town of Esperance. ](/news/2015/11/18/2015-16-australian-bushfire-season-authorities-confirm-that-bushfires-have-killed-four-people-including-three-german-backpackers-in-sou.md) _2017-08-27 03:43:55 (First version)_
+1. [2015-16 Australian bushfire season: Authorities confirm that bushfires have killed four people, including three German backpackers, in southern Western Australia near the town of Esperance. ](/news/2015/11/18/2015-16-australian-bushfire-season-authorities-confirm-that-bushfires-have-killed-four-people-including-three-german-backpackers-in-sou.md) _2018-02-06 13:49:28 (First version)_
 1. [Authorities confirm that bushfires have killed four people, including three German backpackers, in southern Western Australia near the town of Esperance. ](/news/2015/11/18/authorities-confirm-that-bushfires-have-killed-four-people-including-three-german-backpackers-in-southern-western-australia-near-the-town.md) _(Current version)_
 
 ### Related:

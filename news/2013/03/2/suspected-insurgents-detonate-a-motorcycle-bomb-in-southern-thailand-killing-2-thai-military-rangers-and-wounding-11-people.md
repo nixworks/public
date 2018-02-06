@@ -16,8 +16,8 @@ Suspected insurgents detonated a motorcycle bomb in southern Thailand on Saturda
 
 ### Changes:
 
-1. [South Thailand insurgency:Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-psuspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-wounding.md) _2017-08-25 03:37:42 (First version)_
-2. [South Thailand insurgency:: Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-woundin.md) _2017-08-27 03:37:53 (Update)_
+1. [South Thailand insurgency:: Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-woundin.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-psuspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-wounding.md) _2018-02-06 13:49:24 (Update)_
 2. [Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-wounding-11-people.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides
 
 ### Changes:
 
-1. [Decommunization in Ukraine:Ukraine's Parliament, the ''Verkhovna Rada'', decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-pukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be.md) _2017-08-25 03:45:42 (First version)_
-2. [Decommunization in Ukraine:: Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-r.md) _2017-08-27 03:46:03 (Update)_
+1. [Decommunization in Ukraine:: Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-r.md) _2018-02-06 13:49:29 (First version)_
+2. [Decommunization in Ukraine:Ukraine's Parliament, the ''Verkhovna Rada'', decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-pukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be.md) _2018-02-06 13:49:29 (Update)_
 2. [Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-renamed-dnipro-as-part-of-the.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Zimbabweans have been voting in a key referendum on a new constitution that woul
 
 ### Changes:
 
-1. [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp.md) _2017-08-27 03:38:02 (First version)_
+1. [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp.md) _2018-02-06 13:49:24 (First version)_
 1. [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md) _(Current version)_
 
 ### Related:

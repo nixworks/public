@@ -16,8 +16,8 @@ The U.S. Justice Department has set up a team to investigate individuals and org
 
 ### Changes:
 
-1. [The U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to investigate Project Cassandra and groups supporting Hezbollah. ](/news/2018/01/11/the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-investigate-project-cassandra-and-groups-supporti.md) _2018-01-11 21:30:06 (First version)_
-2. [The U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the-dea-s-project-cassandra-investiga.md) _2018-01-12 00:30:06 (Update)_
+1. [The U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to investigate Project Cassandra and groups supporting Hezbollah. ](/news/2018/01/11/the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-investigate-project-cassandra-and-groups-supporti.md) _2018-02-06 13:49:31 (First version)_
+2. [The U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the-dea-s-project-cassandra-investiga.md) _2018-02-06 13:49:31 (Update)_
 2. [The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-trump-administration-through-the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the.md) _(Current version)_
 
 ### Related:

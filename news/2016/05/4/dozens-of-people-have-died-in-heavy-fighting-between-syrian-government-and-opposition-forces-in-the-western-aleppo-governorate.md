@@ -16,7 +16,7 @@ The United States said on Wednesday it had agreed with Russia to extend a cessat
 
 ### Changes:
 
-1. [Syrian Civil War: Dozens of people have died in heavy fighting between Syrian government and opposition forces in the western Aleppo Governorate. ](/news/2016/05/4/syrian-civil-war-dozens-of-people-have-died-in-heavy-fighting-between-syrian-government-and-opposition-forces-in-the-western-aleppo-governo.md) _2017-08-27 03:45:58 (First version)_
+1. [Syrian Civil War: Dozens of people have died in heavy fighting between Syrian government and opposition forces in the western Aleppo Governorate. ](/news/2016/05/4/syrian-civil-war-dozens-of-people-have-died-in-heavy-fighting-between-syrian-government-and-opposition-forces-in-the-western-aleppo-governo.md) _2018-02-06 13:49:29 (First version)_
 1. [Dozens of people have died in heavy fighting between Syrian government and opposition forces in the western Aleppo Governorate. ](/news/2016/05/4/dozens-of-people-have-died-in-heavy-fighting-between-syrian-government-and-opposition-forces-in-the-western-aleppo-governorate.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The chairman of the Fine Gael parliamentary party has called for the expulsion o
 
 ### Changes:
 
-1. [Chairman of Ireland's governing Fine Gael parliamentary party Charlie Flanagan calls for Papal Nuncio Giuseppe Leanza to be expelled from the country after the publication of a report into the sexual abuse of children by priests in the Roman Catholic Diocese of Cloyne, while Tanaiste Eamon Gilmore attacks the Vatican's interference in the scandal. ](/news/2011/07/14/chairman-of-ireland-s-governing-fine-gael-parliamentary-party-charlie-flanagan-calls-for-papal-nuncio-giuseppe-leanza-to-be-expelled-from-th.md) _2017-10-17 03:39:18 (First version)_
+1. [Chairman of Ireland's governing Fine Gael parliamentary party Charlie Flanagan calls for Papal Nuncio Giuseppe Leanza to be expelled from the country after the publication of a report into the sexual abuse of children by priests in the Roman Catholic Diocese of Cloyne, while Tanaiste Eamon Gilmore attacks the Vatican's interference in the scandal. ](/news/2011/07/14/chairman-of-ireland-s-governing-fine-gael-parliamentary-party-charlie-flanagan-calls-for-papal-nuncio-giuseppe-leanza-to-be-expelled-from-th.md) _2018-02-06 13:49:22 (First version)_
 1. [Chairman of Ireland's governing Fine Gael parliamentary party Charles Flanagan calls for Papal Nuncio Giuseppe Leanza to be expelled from the country after the publication of a report into the sexual abuse of children by priests in the Roman Catholic Diocese of Cloyne, while Tanaiste Eamon Gilmore attacks the Vatican's interference in the scandal. ](/news/2011/07/14/chairman-of-ireland-s-governing-fine-gael-parliamentary-party-charles-flanagan-calls-for-papal-nuncio-giuseppe-leanza-to-be-expelled-from-th.md) _(Current version)_
 
 ### Related:

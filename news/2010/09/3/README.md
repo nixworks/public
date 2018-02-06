@@ -9,7 +9,7 @@ _Context: Darfur_
 
 ##### suicide bomber
 ### [A suicide bomber injures at least 25 Tajikistan police officers with several missing following an attack on a regional headquarters at Khujand. ](/news/2010/09/3/a-suicide-bomber-injures-at-least-25-tajikistan-police-officers-with-several-missing-following-an-attack-on-a-regional-headquarters-at-khuja.md)
-_Context: Tajikistan, suicide bomber, police, Khujand_
+_Context: suicide bomber, police, Tajikistan, Khujand_
 
 ##### Taliban
 ### [A Taliban bomb attack on a Shiite solidarity rally with the Palestinian people kills at least 53 people in Quetta, Pakistan. ](/news/2010/09/3/a-taliban-bomb-attack-on-a-shiite-solidarity-rally-with-the-palestinian-people-kills-at-least-53-people-in-quetta-pakistan.md)
@@ -25,11 +25,11 @@ UPS plane went down in a ball of fire in military area between Emirates Road and
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts again. ](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.md)
-_Context: Indonesia, North Sumatra, Mount Sinabung_
+_Context: North Sumatra, Mount Sinabung, Indonesia_
 
 ##### New England
 ### [States in the New England region of the United States prepare for a possible impact from Hurricane Earl which has weakened to a tropical storm. ](/news/2010/09/3/states-in-the-new-england-region-of-the-united-states-prepare-for-a-possible-impact-from-hurricane-earl-which-has-weakened-to-a-tropical-sto.md)
-_Context: tropical storm, Hurricane Earl, United States, New England_
+_Context: New England, United States, tropical storm, Hurricane Earl_
 
 ##### Forest fire
 ### [Forest fires flare up in the southern Russian regions of Volgograd and Saratov, killing two people and burning down 500 buildings. ](/news/2010/09/3/forest-fires-flare-up-in-the-southern-russian-regions-of-volgograd-and-saratov-killing-two-people-and-burning-down-500-buildings.md)
@@ -57,15 +57,15 @@ _Context: United Nations Food and Agriculture Organization_
 
 ##### Miami International Airport
 ### [Miami International Airport in the US state of Florida is evacuated after a suspicious package is found. A passenger is taken into custody. ](/news/2010/09/3/miami-international-airport-in-the-us-state-of-florida-is-evacuated-after-a-suspicious-package-is-found-a-passenger-is-taken-into-custody.md)
-_Context: United States, the state, Miami International Airport_
+_Context: Miami International Airport, the state, United States_
 
 ##### President
 ### [The President of the Philippines, Benigno Aquino III, takes responsibility for the handling of the Manila hostage crisis in August. ](/news/2010/09/3/the-president-of-the-philippines-benigno-aquino-iii-takes-responsibility-for-the-handling-of-the-manila-hostage-crisis-in-august.md)
-_Context: Manila hostage crisis, President, his predecessor_
+_Context: Manila hostage crisis, his predecessor, President_
 
 ##### child abuse
 ### [Seven defendants are found guilty of abusing children in the Casa Pia child sex abuse trial in Lisbon, Portugal. ](/news/2010/09/3/seven-defendants-are-found-guilty-of-abusing-children-in-the-casa-pia-child-sex-abuse-trial-in-lisbon-portugal.md)
-_Context: Lisbon, Portugal, Casa Pia, child abuse, child sex abuse_
+_Context: Lisbon, child sex abuse, child abuse, Portugal, Casa Pia_
 
 ##### Iran
 ### [Pro-government crowds in Iran attack the home of opposition leader Mahdi Karroubi ahead of Al-Quds day protests. ](/news/2010/09/3/pro-government-crowds-in-iran-attack-the-home-of-opposition-leader-mahdi-karroubi-ahead-of-al-quds-day-protests.md)
@@ -77,7 +77,7 @@ An Australian Muslim cleric has reportedly called for the beheading of the Dutch
 
 ##### Royal Mail
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
-_Context: postage stamp, Royal Mail, British, image recognition_
+_Context: image recognition, Royal Mail, United Kingdom, postage stamp_
 
 ##### cerebral cortex
 ### [A study published in the journal "Cell" reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with-m.md)

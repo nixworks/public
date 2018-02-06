@@ -16,8 +16,8 @@ North Korea said on Saturday that it would never agree to talks on denuclearisat
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/2013-korean-crisis-pnorth-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md) _2017-08-25 03:38:25 (First version)_
-2. [2013 Korean crisis:: North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/2013-korean-crisis-north-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md) _2017-08-27 03:38:37 (Update)_
+1. [2013 Korean crisis:North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/2013-korean-crisis-pnorth-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/2013-korean-crisis-north-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/north-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md) _(Current version)_
 
 ### Related:

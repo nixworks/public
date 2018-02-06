@@ -16,7 +16,7 @@ North Korea frees a Canadian pastor who was serving a life sentence of hard labo
 
 ### Changes:
 
-1. [Crime in North Korea: North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/crime-in-north-korea-north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _2017-08-27 03:48:47 (First version)_
+1. [Crime in North Korea: North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/crime-in-north-korea-north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _2018-02-06 13:49:31 (First version)_
 1. [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _(Current version)_
 
 ### Related:

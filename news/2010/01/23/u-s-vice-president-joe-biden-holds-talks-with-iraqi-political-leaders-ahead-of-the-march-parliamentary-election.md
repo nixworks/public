@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/01/23/u-s-vice-president-joe-biden-holds-talks-with-i
 
 ### Changes:
 
-1. [Joe Biden's visit to Iraq:U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-pu-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md) _2017-08-25 03:26:59 (First version)_
-2. [Joe Biden's visit to Iraq:: U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md) _2017-08-27 03:26:52 (Update)_
+1. [Joe Biden's visit to Iraq:: U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md) _2018-02-06 13:49:19 (First version)_
+2. [Joe Biden's visit to Iraq:U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-pu-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md) _2018-02-06 13:49:19 (Update)_
 2. [U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md) _(Current version)_
 
 ### Related:

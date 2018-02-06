@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/20/the-death-toll-from-monday-s-landslide-in-the-t
 
 ### Changes:
 
-1. [2015 Colombian landslide: The death toll from Monday's landslide in the town of Salgar rises to 80. ](/news/2015/05/20/2015-colombian-landslide-the-death-toll-from-monday-s-landslide-in-the-town-of-salgar-rises-to-80.md) _2017-08-27 03:42:21 (First version)_
+1. [2015 Colombian landslide: The death toll from Monday's landslide in the town of Salgar rises to 80. ](/news/2015/05/20/2015-colombian-landslide-the-death-toll-from-monday-s-landslide-in-the-town-of-salgar-rises-to-80.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from Monday's landslide in the town of Salgar rises to 80. ](/news/2015/05/20/the-death-toll-from-monday-s-landslide-in-the-town-of-salgar-rises-to-80.md) _(Current version)_
 
 ### Related:

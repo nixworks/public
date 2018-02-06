@@ -16,7 +16,7 @@ A video released on to the internet claims to show that Islamic State militants 
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIL claims to have executed American hostage Abdul-Rahman Kassig. ](/news/2014/11/16/islamic-state-of-iraq-and-the-levant-isil-claims-to-have-executed-american-hostage-abdul-rahman-kassig.md) _2017-08-27 03:41:31 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIL claims to have executed American hostage Abdul-Rahman Kassig. ](/news/2014/11/16/islamic-state-of-iraq-and-the-levant-isil-claims-to-have-executed-american-hostage-abdul-rahman-kassig.md) _2018-02-06 13:49:26 (First version)_
 1. [ISIL claims to have executed American hostage Abdul-Rahman Kassig. ](/news/2014/11/16/isil-claims-to-have-executed-american-hostage-abdul-rahman-kassig.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/17/bundestag-the-german-lower-house-of-parliament-
 
 ### Changes:
 
-1. [Greek government-debt crisis: Bundestag, the German lower house of parliament, approves Greece's bailout plan by 439-119 with 40 abstained. ](/news/2015/07/17/greek-government-debt-crisis-bundestag-the-german-lower-house-of-parliament-approves-greece-s-bailout-plan-by-439-119-with-40-abstained.md) _2017-08-27 03:42:43 (First version)_
+1. [Greek government-debt crisis: Bundestag, the German lower house of parliament, approves Greece's bailout plan by 439-119 with 40 abstained. ](/news/2015/07/17/greek-government-debt-crisis-bundestag-the-german-lower-house-of-parliament-approves-greece-s-bailout-plan-by-439-119-with-40-abstained.md) _2018-02-06 13:49:27 (First version)_
 1. [Bundestag, the German lower house of parliament, approves Greece's bailout plan by 439-119 with 40 abstained. ](/news/2015/07/17/bundestag-the-german-lower-house-of-parliament-approves-greece-s-bailout-plan-by-439a119-with-40-abstained.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted
 
 ### Changes:
 
-1. [Politics of Japan: Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/politics-of-japan-prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md) _2017-08-27 03:48:46 (First version)_
+1. [Politics of Japan: Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/politics-of-japan-prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md) _2018-02-06 13:49:31 (First version)_
 1. [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md) _(Current version)_
 
 ### Related:

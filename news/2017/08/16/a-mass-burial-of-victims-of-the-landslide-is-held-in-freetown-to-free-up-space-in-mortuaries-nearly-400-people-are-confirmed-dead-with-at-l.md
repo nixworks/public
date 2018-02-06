@@ -16,7 +16,7 @@ Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue
 
 ### Changes:
 
-1. [2017 Sierra Leone mudslides: A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/2017-sierra-leone-mudslides-a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people.md) _2017-08-27 03:48:48 (First version)_
+1. [2017 Sierra Leone mudslides: A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/2017-sierra-leone-mudslides-a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people.md) _2018-02-06 13:49:31 (First version)_
 1. [A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people-are-confirmed-dead-with-at-l.md) _(Current version)_
 
 ### Related:

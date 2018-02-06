@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/05/7/wildfires-near-santa-barbara-california-united-s
 
 ### Changes:
 
-1. [ Wildfires near Santa Barbara, California, United States, burn {{convert|3,000|acre|km2}} of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-convert-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md) _2017-05-01 03:25:39 (First version)_
-2. [ Wildfires near Santa Barbara, California, United States, burn 3,000|acre|km2 of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md) _2017-08-29 03:24:35 (Update)_
+1. [ Wildfires near Santa Barbara, California, United States, burn {{convert|3,000|acre|km2}} of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-convert-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md) _2018-02-06 13:49:19 (First version)_
+2. [ Wildfires near Santa Barbara, California, United States, burn 3,000|acre|km2 of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md) _2018-02-06 13:49:19 (Update)_
 2. [ Wildfires near Santa Barbara, California, United States, burn 3,000 acre of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-of-land-and-force-15-000-people-to-evacuate.md) _(Current version)_
 
 ### Related:

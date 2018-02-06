@@ -5,11 +5,11 @@ Formats: [HTML](2014/03/9/index.html)  [JSON](2014/03/9/index.json)  [XML](2014/
 
 ##### Hillah
 ### [A suicide car bomber kills 42 people at a police checkpoint in Hillah, Iraq. ](/news/2014/03/9/a-suicide-car-bomber-kills-42-people-at-a-police-checkpoint-in-hillah-iraq.md)
-_Context: Iraq, Hillah_
+_Context: Hillah, Iraq_
 
 ##### Nazario Moreno Gonzalez
 ### [Mexican authorities confirm that Nazario Moreno Gonzalez, the top leader of the Knights Templar Cartel, was killed in the state of Michoacan. ](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.md)
-_Context: Michoacan, Knights Templar Cartel, Nazario Moreno Gonzalez_
+_Context: Knights Templar Cartel, Nazario Moreno Gonzalez, Michoacan_
 
 ##### Horn of Africa
 ### [At least 42 migrants from the Horn of Africa drown when their boat overturns off the coast of Shabwah Governorate, Yemen. ](/news/2014/03/9/at-least-42-migrants-from-the-horn-of-africa-drown-when-their-boat-overturns-off-the-coast-of-shabwah-governorate-yemen.md)
@@ -29,7 +29,7 @@ Ulf Ekman reportedly shocked and upset the megachurch he founded in Sweden when 
 
 ##### Vice President of Afghanistan
 ### [Vice President of Afghanistan Mohammed Fahim dies at the age of 57 due to natural causes. ](/news/2014/03/9/vice-president-of-afghanistan-mohammed-fahim-dies-at-the-age-of-57-due-to-natural-causes.md)
-_Context: Mohammed Fahim, Vice President of Afghanistan_
+_Context: Vice President of Afghanistan, Mohammed Fahim_
 
 ##### Colombian parliamentary election, 2014
 ### [President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe-is-elected-to-the-senate.md)

@@ -16,7 +16,7 @@ Pope Francis has approved the outline of a new system of accountability for Cath
 
 ### Changes:
 
-1. [Catholic Church sexual abuse cases: Pope Francis approves the outline of a new system giving power to the Vatican's Congregation for the Doctrine of the Faith to judge bishops "with regard to crimes of the abuse of office when connected to the abuse of minors." ](/news/2015/06/10/catholic-church-sexual-abuse-cases-pope-francis-approves-the-outline-of-a-new-system-giving-power-to-the-vatican-s-congregation-for-the-doc.md) _2017-08-27 03:42:30 (First version)_
+1. [Catholic Church sexual abuse cases: Pope Francis approves the outline of a new system giving power to the Vatican's Congregation for the Doctrine of the Faith to judge bishops "with regard to crimes of the abuse of office when connected to the abuse of minors." ](/news/2015/06/10/catholic-church-sexual-abuse-cases-pope-francis-approves-the-outline-of-a-new-system-giving-power-to-the-vatican-s-congregation-for-the-doc.md) _2018-02-06 13:49:27 (First version)_
 1. [Pope Francis approves the outline of a new system giving power to the Vatican's Congregation for the Doctrine of the Faith to judge bishops "with regard to crimes of the abuse of office when connected to the abuse of minors." ](/news/2015/06/10/pope-francis-approves-the-outline-of-a-new-system-giving-power-to-the-vatican-s-congregation-for-the-doctrine-of-the-faith-to-judge-bishops.md) _(Current version)_
 
 ### Related:

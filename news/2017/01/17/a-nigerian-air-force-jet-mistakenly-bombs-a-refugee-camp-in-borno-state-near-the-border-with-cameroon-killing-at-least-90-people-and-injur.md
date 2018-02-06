@@ -16,7 +16,7 @@ Scores are killed when a military jet targets a refugee camp, thinking it was Bo
 
 ### Changes:
 
-1. [Boko Haram insurgency: A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/boko-haram-insurgency-a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-le.md) _2017-08-27 03:47:37 (First version)_
+1. [Boko Haram insurgency: A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/boko-haram-insurgency-a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-le.md) _2018-02-06 13:49:30 (First version)_
 1. [A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-least-90-people-and-injur.md) _(Current version)_
 
 ### Related:

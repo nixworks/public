@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-no
 
 ### Changes:
 
-1. [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers on the same day the European Union bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europ.md) _2017-08-25 03:20:03 (First version)_
+1. [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers on the same day the European Union bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europ.md) _2018-02-06 13:49:17 (First version)_
 1. [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers on the same day the European Union bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europe.md) _(Current version)_
 
 ### Related:

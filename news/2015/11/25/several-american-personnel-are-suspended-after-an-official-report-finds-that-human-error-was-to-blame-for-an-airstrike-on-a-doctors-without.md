@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/25/several-american-personnel-are-suspended-after-
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/war-in-afghanistan-2015-present-several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-f.md) _2017-08-27 03:44:03 (First version)_
+1. [War in Afghanistan (2015-present): Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/war-in-afghanistan-2015-present-several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-f.md) _2018-02-06 13:49:28 (First version)_
 1. [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md) _(Current version)_
 
 ### Related:

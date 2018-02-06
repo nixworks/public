@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-l
 
 ### Changes:
 
-1. [2015 Southeast Asian haze: The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/2015-southeast-asian-haze-the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-sm.md) _2017-08-27 03:43:07 (First version)_
+1. [2015 Southeast Asian haze: The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/2015-southeast-asian-haze-the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-sm.md) _2018-02-06 13:49:27 (First version)_
 1. [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air
 
 ### Changes:
 
-1. [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-dev.md) _2017-08-25 03:32:28 (First version)_
+1. [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-dev.md) _2018-02-06 13:49:22 (First version)_
 1. [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-deve.md) _(Current version)_
 
 ### Related:

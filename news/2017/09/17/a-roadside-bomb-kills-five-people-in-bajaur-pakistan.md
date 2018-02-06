@@ -16,7 +16,7 @@ Deceased include political tehsildar; one Levies official injured
 
 ### Changes:
 
-1. [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md) _2017-09-18 21:30:06 (First version)_
+1. [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md) _2018-02-06 13:49:31 (First version)_
 1. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _(Current version)_
 
 ### Related:

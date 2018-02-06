@@ -17,7 +17,7 @@ Joey Masciantonio vividly remembers the moment his baby daughter Gianna met Pope
 
 ### Changes:
 
-1. [Pope Francis' 2015 visit to North America: A one-year old baby girl with an apparently incurable illness, who was kissed by Pope Francis during his visit to Philadelphia in September, gets MRI results showing her brain tumor has shrunk significantly. Some friends and family call it the "Miracle on Market Street." ](/news/2015/11/25/pope-francis-2015-visit-to-north-america-a-one-year-old-baby-girl-with-an-apparently-incurable-illness-who-was-kissed-by-pope-francis-dur.md) _2017-08-27 03:44:03 (First version)_
+1. [Pope Francis' 2015 visit to North America: A one-year old baby girl with an apparently incurable illness, who was kissed by Pope Francis during his visit to Philadelphia in September, gets MRI results showing her brain tumor has shrunk significantly. Some friends and family call it the "Miracle on Market Street." ](/news/2015/11/25/pope-francis-2015-visit-to-north-america-a-one-year-old-baby-girl-with-an-apparently-incurable-illness-who-was-kissed-by-pope-francis-dur.md) _2018-02-06 13:49:28 (First version)_
 1. [A one-year old baby girl with an apparently incurable illness, who was kissed by Pope Francis during his visit to Philadelphia in September, gets MRI results showing her brain tumor has shrunk significantly. Some friends and family call it the "Miracle on Market Street." ](/news/2015/11/25/a-one-year-old-baby-girl-with-an-apparently-incurable-illness-who-was-kissed-by-pope-francis-during-his-visit-to-philadelphia-in-september.md) _(Current version)_
 
 ### Related:

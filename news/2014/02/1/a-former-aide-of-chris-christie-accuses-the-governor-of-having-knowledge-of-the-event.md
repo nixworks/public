@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/02/1/a-former-aide-of-chris-christie-accuses-the-gove
 
 ### Changes:
 
-1. [Bridgegate scandal:A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/bridgegate-scandal-pa-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md) _2017-08-25 03:39:57 (First version)_
-2. [Bridgegate scandal:: A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/bridgegate-scandal-a-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md) _2017-08-27 03:40:15 (Update)_
+1. [Bridgegate scandal:A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/bridgegate-scandal-pa-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md) _2018-02-06 13:49:25 (First version)_
+2. [Bridgegate scandal:: A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/bridgegate-scandal-a-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md) _2018-02-06 13:49:25 (Update)_
 2. [A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/a-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md) _(Current version)_
 
 ### Related:

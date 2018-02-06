@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/31/a-bomb-kills-two-people-and-injures-six-others-
 
 ### Changes:
 
-1. [Terrorism in Pakistan:A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/terrorism-in-pakistan-pa-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-nat.md) _2017-08-25 03:38:06 (First version)_
-2. [Terrorism in Pakistan:: A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/terrorism-in-pakistan-a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-na.md) _2017-08-27 03:38:18 (Update)_
+1. [Terrorism in Pakistan:A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/terrorism-in-pakistan-pa-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-nat.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Pakistan:: A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/terrorism-in-pakistan-a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-na.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-national-party-in-bannu.md) _(Current version)_
 
 ### Related:

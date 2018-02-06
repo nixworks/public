@@ -17,7 +17,7 @@ Rock of Ages star Tom Cruise and his wife Katie Holmes are divorcing after five 
 
 ### Changes:
 
-1. [''People'' magazine reports that American actors Tom Cruise and Katie Holmes have announced they will be getting a divorce after five years of marriage. ](/news/2012/06/29/people-magazine-reports-that-american-actors-tom-cruise-and-katie-holmes-have-announced-they-will-be-getting-a-divorce-after-five-years.md) _2017-08-25 03:36:00 (First version)_
+1. [''People'' magazine reports that American actors Tom Cruise and Katie Holmes have announced they will be getting a divorce after five years of marriage. ](/news/2012/06/29/people-magazine-reports-that-american-actors-tom-cruise-and-katie-holmes-have-announced-they-will-be-getting-a-divorce-after-five-years.md) _2018-02-06 13:49:23 (First version)_
 1. ["People" magazine reports that American actors Tom Cruise and Katie Holmes have announced they will be getting a divorce after five years of marriage. ](/news/2012/06/29/people-magazine-reports-that-american-actors-tom-cruise-and-katie-holmes-have-announced-they-will-be-getting-a-divorce-after-five-years-of.md) _(Current version)_
 
 ### Related:

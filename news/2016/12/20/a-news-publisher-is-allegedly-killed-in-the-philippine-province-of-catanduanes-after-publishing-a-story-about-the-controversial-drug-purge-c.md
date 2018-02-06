@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-phi
 
 ### Changes:
 
-1. [Philippine Drug War: A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/philippine-drug-war-a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-contr.md) _2017-08-27 03:47:29 (First version)_
+1. [Philippine Drug War: A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/philippine-drug-war-a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-contr.md) _2018-02-06 13:49:30 (First version)_
 1. [A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-controversial-drug-purge-c.md) _(Current version)_
 
 ### Related:

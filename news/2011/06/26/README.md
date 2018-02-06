@@ -25,7 +25,7 @@ _Context: SGBPo Paulo_
 
 ##### Daniel Craig
 ### [It is confirmed that Daniel Craig, the current James Bond, has married the Academy Award-winning actress Rachel Weisz at a private ceremony in the U.S. state of New York. ](/news/2011/06/26/it-is-confirmed-that-daniel-craig-the-current-james-bond-has-married-the-academy-award-winning-actress-rachel-weisz-at-a-private-ceremony.md)
-_Context: New York, Rachel Weisz, Daniel Craig, Academy Award, James Bond, U.S. state_
+_Context: Daniel Craig, New York, U.S. state, Academy Award, Rachel Weisz, James Bond_
 
 ##### Beyonce
 ### [Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of-women-to-have-headlined.md)

@@ -18,7 +18,7 @@ Yahya Jammeh, the dictator of Gambia, is trying to hold on to his throne after a
 
 ### Changes:
 
-1. [Aftermath of the Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/aftermath-of-the-gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refu.md) _2017-08-25 03:47:03 (First version)_
+1. [Aftermath of the Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/aftermath-of-the-gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refu.md) _2018-02-06 13:49:29 (First version)_
 1. [Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refuses-to-accept-the.md) _(Current version)_
 
 ### Related:

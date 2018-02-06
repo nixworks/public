@@ -17,7 +17,7 @@ A policeman and three paramilitary soldiers were killed when gunmen opened fire 
 
 ### Changes:
 
-1. [ Terrorism in Pakistan: At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/terrorism-in-pakistan-at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibilit.md) _2017-08-27 03:47:15 (First version)_
+1. [ Terrorism in Pakistan: At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/terrorism-in-pakistan-at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibilit.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _(Current version)_
 
 ### Related:

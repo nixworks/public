@@ -17,7 +17,7 @@ The Pakistan Taliban is planning to kidnap foreign aid workers delivering assist
 
 ### Changes:
 
-1. [2010 Pakistan floods: Pakistan orders nearly half a million people in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/2010-pakistan-floods-pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods.md) _2017-08-27 03:29:45 (First version)_
+1. [2010 Pakistan floods: Pakistan orders nearly half a million people in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/2010-pakistan-floods-pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods.md) _2018-02-06 13:49:20 (First version)_
 1. [Pakistan orders nearly half a million people in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods-to-evacuate.md) _(Current version)_
 
 ### Related:

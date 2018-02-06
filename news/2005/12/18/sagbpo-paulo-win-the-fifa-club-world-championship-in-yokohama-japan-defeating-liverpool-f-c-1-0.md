@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championsh
 
 ### Changes:
 
-1. [ Sao Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sapso-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _2017-08-25 03:17:17 (First version)_
+1. [ Sao Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sapso-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _2018-02-06 13:49:16 (First version)_
 1. [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/01/31/a-bomb-kills-three-pakistan-army-soldiers-and-i
 
 ### Changes:
 
-1. [Balochistan conflict: A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/balochistan-conflict-a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md) _2017-08-27 03:40:15 (First version)_
+1. [Balochistan conflict: A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/balochistan-conflict-a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md) _2018-02-06 13:49:25 (First version)_
 1. [A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md) _(Current version)_
 
 ### Related:

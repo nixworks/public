@@ -16,7 +16,7 @@ A Pentagon investigation has found that more than 100 civilians were killed afte
 
 ### Changes:
 
-1. [Battle of Mosul: The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 17. ](/news/2017/05/25/battle-of-mosul-the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing.md) _2017-08-27 03:48:23 (First version)_
+1. [Battle of Mosul: The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 17. ](/news/2017/05/25/battle-of-mosul-the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 17. ](/news/2017/05/25/the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing-from-the-bombing.md) _(Current version)_
 
 ### Related:

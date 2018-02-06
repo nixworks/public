@@ -16,8 +16,8 @@ Five American soldiers have been killed accidentally by their own side in southe
 
 ### Changes:
 
-1. [Taliban insurgency in Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2017-08-25 03:40:31 (First version)_
-2. [Taliban insurgency in Afghanistan: Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-afghanistan-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2017-08-27 03:40:49 (Update)_
+1. [Taliban insurgency in Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency in Afghanistan: Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-afghanistan-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2018-02-06 13:49:26 (Update)_
 2. [Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _(Current version)_
 
 ### Related:

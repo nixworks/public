@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/2/the-red-cross-says-that-at-least-36-people-may-b
 
 ### Changes:
 
-1. [War in Somalia: The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/war-in-somalia-the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shaba.md) _2017-08-27 03:41:34 (First version)_
+1. [War in Somalia: The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/war-in-somalia-the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shaba.md) _2018-02-06 13:49:26 (First version)_
 1. [The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shabaab-militants-are.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Fighting raged in northwestern Syria Saturday as Turkish troops and allied milit
 
 ### Changes:
 
-1. [The Turkish presidency says that United States National Security Advisor H. R. McMaster said on Friday that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-united-states-national-security-advisor-h-r-mcmaster-said-on-friday-that-the-u-s-will-not-provide-any-m.md) _2018-01-28 00:30:22 (First version)_
+1. [The Turkish presidency says that United States National Security Advisor H. R. McMaster said on Friday that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-united-states-national-security-advisor-h-r-mcmaster-said-on-friday-that-the-u-s-will-not-provide-any-m.md) _2018-02-06 13:49:31 (First version)_
 1. [According to the Turkish presidency, United States National Security Advisor H. R. McMaster said January 26 that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-said-january-26-that-the-u-s-will-not-provide.md) _(Current version)_
 
 ### Related:

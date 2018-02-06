@@ -16,7 +16,7 @@ Power is being restored in parts of Taiwan after a powerful typhoon slammed into
 
 ### Changes:
 
-1. [Typhoon Nepartak (2016): Taiwan is recovering after Typhoon Nepartak hit yesterday killing two people and injuring 72. ](/news/2016/07/9/typhoon-nepartak-2016-taiwan-is-recovering-after-typhoon-nepartak-hit-yesterday-killing-two-people-and-injuring-72.md) _2017-08-27 03:46:27 (First version)_
+1. [Typhoon Nepartak (2016): Taiwan is recovering after Typhoon Nepartak hit yesterday killing two people and injuring 72. ](/news/2016/07/9/typhoon-nepartak-2016-taiwan-is-recovering-after-typhoon-nepartak-hit-yesterday-killing-two-people-and-injuring-72.md) _2018-02-06 13:49:29 (First version)_
 1. [Taiwan is recovering after Typhoon Nepartak hit yesterday killing two people and injuring 72. ](/news/2016/07/9/taiwan-is-recovering-after-typhoon-nepartak-hit-yesterday-killing-two-people-and-injuring-72.md) _(Current version)_
 
 ### Related:

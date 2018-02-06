@@ -17,7 +17,7 @@ Five U.N. peacekeepers were killed when their base in northern Mali was hit by m
 
 ### Changes:
 
-1. [Northern Mali conflict: An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. ](/news/2016/02/12/northern-mali-conflict-an-attack-by-suspected-islamist-militants-on-a-minusma-base-in-the-town-of-kidal-northern-mali-kills-at-least-five.md) _2017-08-27 03:44:53 (First version)_
+1. [Northern Mali conflict: An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. ](/news/2016/02/12/northern-mali-conflict-an-attack-by-suspected-islamist-militants-on-a-minusma-base-in-the-town-of-kidal-northern-mali-kills-at-least-five.md) _2018-02-06 13:49:28 (First version)_
 1. [An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. ](/news/2016/02/12/an-attack-by-suspected-islamist-militants-on-a-minusma-base-in-the-town-of-kidal-northern-mali-kills-at-least-five-united-nations-peacekee.md) _(Current version)_
 
 ### Related:

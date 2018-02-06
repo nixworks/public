@@ -17,7 +17,7 @@ The extremist group has forced almost 8,000 families to leave the homes, probabl
 
 ### Changes:
 
-1. [ Iraqi Civil War (2014-present): Battle of Mosul (2016): The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/iraqi-civil-war-2014-present-battle-of-mosul-2016-the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic.md) _2017-08-27 03:47:08 (First version)_
+1. [ Iraqi Civil War (2014-present): Battle of Mosul (2016): The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/iraqi-civil-war-2014-present-battle-of-mosul-2016-the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic.md) _2018-02-06 13:49:29 (First version)_
 1. [ The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

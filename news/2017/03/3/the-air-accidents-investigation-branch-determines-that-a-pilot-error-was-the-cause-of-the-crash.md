@@ -16,7 +16,7 @@ A jet crashed on the A27 killing 11 men because it was too low for a manoeuvre, 
 
 ### Changes:
 
-1. [2015 Shoreham Airshow crash: The Air Accidents Investigation Branch determines that a pilot error was the cause of the crash. ](/news/2017/03/3/2015-shoreham-airshow-crash-the-air-accidents-investigation-branch-determines-that-a-pilot-error-was-the-cause-of-the-crash.md) _2017-08-27 03:47:56 (First version)_
+1. [2015 Shoreham Airshow crash: The Air Accidents Investigation Branch determines that a pilot error was the cause of the crash. ](/news/2017/03/3/2015-shoreham-airshow-crash-the-air-accidents-investigation-branch-determines-that-a-pilot-error-was-the-cause-of-the-crash.md) _2018-02-06 13:49:30 (First version)_
 1. [The Air Accidents Investigation Branch determines that a pilot error was the cause of the crash. ](/news/2017/03/3/the-air-accidents-investigation-branch-determines-that-a-pilot-error-was-the-cause-of-the-crash.md) _(Current version)_
 
 ### Related:

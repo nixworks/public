@@ -17,8 +17,8 @@ A bomb explodes in western Kabul on the day Nato formally handed over command of
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/war-in-afghanistan-2001apresent-pa-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md) _2017-08-25 03:38:52 (First version)_
-2. [War in Afghanistan (2001-present):: A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/war-in-afghanistan-2001-present-a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md) _2017-08-27 03:39:06 (Update)_
+1. [War in Afghanistan (2001-present):A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/war-in-afghanistan-2001apresent-pa-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/war-in-afghanistan-2001-present-a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md) _(Current version)_
 
 ### Related:

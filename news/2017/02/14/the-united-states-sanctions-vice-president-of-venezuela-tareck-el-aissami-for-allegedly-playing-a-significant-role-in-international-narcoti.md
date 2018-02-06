@@ -16,7 +16,7 @@ The US says Tareck El Aissami has played &quot;a significant role in internation
 
 ### Changes:
 
-1. [United States-Venezuela relations: The United States sanctions Vice President of Venezuela Tareck El Aissami for allegedly "playing a significant role in international narcotics trafficking". The sanctions freeze his assets in the U.S. and bar him from entering the country. ](/news/2017/02/14/united-states-venezuela-relations-the-united-states-sanctions-vice-president-of-venezuela-tareck-el-aissami-for-allegedly-playing-a-sign.md) _2017-08-27 03:47:49 (First version)_
+1. [United States-Venezuela relations: The United States sanctions Vice President of Venezuela Tareck El Aissami for allegedly "playing a significant role in international narcotics trafficking". The sanctions freeze his assets in the U.S. and bar him from entering the country. ](/news/2017/02/14/united-states-venezuela-relations-the-united-states-sanctions-vice-president-of-venezuela-tareck-el-aissami-for-allegedly-playing-a-sign.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States sanctions Vice President of Venezuela Tareck El Aissami for allegedly "playing a significant role in international narcotics trafficking". The sanctions freeze his assets in the U.S. and bar him from entering the country. ](/news/2017/02/14/the-united-states-sanctions-vice-president-of-venezuela-tareck-el-aissami-for-allegedly-playing-a-significant-role-in-international-narcoti.md) _(Current version)_
 
 ### Related:

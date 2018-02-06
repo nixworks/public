@@ -17,7 +17,7 @@ Minister says other countries need to adopt fixed quota for asylum seekers
 
 ### Changes:
 
-1. [Immigration to Europe: Austria stops processing asylum requests in an effort to pressure other European Union member states to do more to help absorb waves of refugees pouring into the continent. ](/news/2015/06/13/immigration-to-europe-austria-stops-processing-asylum-requests-in-an-effort-to-pressure-other-european-union-member-states-to-do-more-to-he.md) _2017-08-27 03:42:32 (First version)_
+1. [Immigration to Europe: Austria stops processing asylum requests in an effort to pressure other European Union member states to do more to help absorb waves of refugees pouring into the continent. ](/news/2015/06/13/immigration-to-europe-austria-stops-processing-asylum-requests-in-an-effort-to-pressure-other-european-union-member-states-to-do-more-to-he.md) _2018-02-06 13:49:27 (First version)_
 1. [ Austria stops processing asylum requests in an effort to pressure other European Union member states to do more to help absorb waves of refugees pouring into the continent. ](/news/2015/06/13/austria-stops-processing-asylum-requests-in-an-effort-to-pressure-other-european-union-member-states-to-do-more-to-help-absorb-waves-of-ref.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ _Context: European Pressurized Reactor, Finland_
 
 ##### fossil
 ### [ Spanish scientists find fossil evidence of humans living in Europe over a million years ago in Burgos, Spain. ](/news/2007/06/29/spanish-scientists-find-fossil-evidence-of-humans-living-in-europe-over-a-million-years-ago-in-burgos-spain.md)
-_Context: Burgos, Europe, Spain, fossil_
+_Context: Spain, fossil, Burgos, Europe_
 
 ##### Guillaume Soro
 ### [ Rebels unsuccessfully try to assassinate Guillaume Soro, Prime Minister of Ivory Coast, but kill three others in a rocket attack. ](/news/2007/06/29/rebels-unsuccessfully-try-to-assassinate-guillaume-soro-prime-minister-of-ivory-coast-but-kill-three-others-in-a-rocket-attack.md)
@@ -17,15 +17,15 @@ _Context: Guillaume Soro, Prime Minister of Ivory Coast_
 
 ##### defuse a bomb
 ### [ British police defuse a bomb in Central London; a second bomb is found hours later. ](/news/2007/06/29/british-police-defuse-a-bomb-in-central-london-a-second-bomb-is-found-hours-later.md)
-_Context: defuse a bomb, Central London_
+_Context: Central London, defuse a bomb_
 
 ##### India
 ### [ At least 13 people die in clashes between militants and Indian security forces in Jammu and Kashmir. ](/news/2007/06/29/at-least-13-people-die-in-clashes-between-militants-and-indian-security-forces-in-jammu-and-kashmir.md)
-_Context: Jammu and Kashmir, India_
+_Context: India, Jammu and Kashmir_
 
 ##### European Union
 ### [ The European Union revises its list of designated terrorist organizations, removing Anti-Imperialist Territorial Units, Unit for Revolutionary Proletarian Initiative, and Units for Proletarian Initiative while adding Revolutionary Struggle. ](/news/2007/06/29/the-european-union-revises-its-list-of-designated-terrorist-organizations-removing-anti-imperialist-territorial-units-unit-for-revolution.md)
-_Context: European Union, Unit for Revolutionary Proletarian Initiative, Units for Proletarian Initiative, Revolutionary Struggle, Anti-Imperialist Territorial Units_
+_Context: European Union, Unit for Revolutionary Proletarian Initiative, Revolutionary Struggle, Anti-Imperialist Territorial Units, Units for Proletarian Initiative_
 
 ##### National Football League
 ### [ After 16 years of existence, the (U.S.) National Football League announces that it will shut down its European operation known as NFL Europa, with immediate effect. ](/news/2007/06/29/after-16-years-of-existence-the-u-s-national-football-league-announces-that-it-will-shut-down-its-european-operation-known-as-nfl-europ.md)

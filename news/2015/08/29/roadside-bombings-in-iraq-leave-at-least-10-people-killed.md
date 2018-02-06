@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/29/roadside-bombings-in-iraq-leave-at-least-10-peo
 
 ### Changes:
 
-1. [Iraq War (2014-present): Roadside bombings in Iraq leave at least 10 people killed. ](/news/2015/08/29/iraq-war-2014-present-roadside-bombings-in-iraq-leave-at-least-10-people-killed.md) _2017-08-27 03:42:56 (First version)_
+1. [Iraq War (2014-present): Roadside bombings in Iraq leave at least 10 people killed. ](/news/2015/08/29/iraq-war-2014-present-roadside-bombings-in-iraq-leave-at-least-10-people-killed.md) _2018-02-06 13:49:27 (First version)_
 1. [Roadside bombings in Iraq leave at least 10 people killed. ](/news/2015/08/29/roadside-bombings-in-iraq-leave-at-least-10-people-killed.md) _(Current version)_
 
 ### Related:

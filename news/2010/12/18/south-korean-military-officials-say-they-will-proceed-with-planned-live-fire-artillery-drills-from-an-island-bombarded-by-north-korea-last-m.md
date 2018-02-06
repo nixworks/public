@@ -17,7 +17,7 @@ South Korea says it will go ahead with a military drill on a disputed island, de
 
 ### Changes:
 
-1. [South Korean military officials say they will proceed with planned live-fire artillery drills from an island bombarded by North Korea last month, despite threats of retaliation. ](/news/2010/12/18/south-korean-military-officials-say-they-will-proceed-with-planned-live-fire-artillery-drills-from-an-island-bombarded-by-north-korea-last.md) _2017-08-25 03:31:26 (First version)_
+1. [South Korean military officials say they will proceed with planned live-fire artillery drills from an island bombarded by North Korea last month, despite threats of retaliation. ](/news/2010/12/18/south-korean-military-officials-say-they-will-proceed-with-planned-live-fire-artillery-drills-from-an-island-bombarded-by-north-korea-last.md) _2018-02-06 13:49:21 (First version)_
 1. [South Korean military officials say they will proceed with planned live-fire artillery drills from an island bombarded by North Korea last month, despite threats of retaliation. ](/news/2010/12/18/south-korean-military-officials-say-they-will-proceed-with-planned-live-fire-artillery-drills-from-an-island-bombarded-by-north-korea-last-m.md) _(Current version)_
 
 ### Related:

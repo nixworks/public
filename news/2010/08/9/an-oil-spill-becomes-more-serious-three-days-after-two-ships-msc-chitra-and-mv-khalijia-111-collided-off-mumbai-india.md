@@ -18,8 +18,8 @@ Panama ship MSC Chitra, which collided with MSC Khalijia off Mumbai harbour on S
 
 ### Changes:
 
-1. [Mumbai oil spill:An oil spill becomes more serious three days after two ships, MSC ''Chitra'' and MV ''Khalijia-111'' collided off Mumbai, India. ](/news/2010/08/9/mumbai-oil-spill-pan-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai.md) _2017-08-25 03:29:18 (First version)_
-2. [Mumbai oil spill:: An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. ](/news/2010/08/9/mumbai-oil-spill-an-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai-ind.md) _2017-08-27 03:29:20 (Update)_
+1. [Mumbai oil spill:An oil spill becomes more serious three days after two ships, MSC ''Chitra'' and MV ''Khalijia-111'' collided off Mumbai, India. ](/news/2010/08/9/mumbai-oil-spill-pan-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai.md) _2018-02-06 13:49:20 (First version)_
+2. [Mumbai oil spill:: An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. ](/news/2010/08/9/mumbai-oil-spill-an-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai-ind.md) _2018-02-06 13:49:20 (Update)_
 2. [An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. ](/news/2010/08/9/an-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai-india.md) _(Current version)_
 
 ### Related:

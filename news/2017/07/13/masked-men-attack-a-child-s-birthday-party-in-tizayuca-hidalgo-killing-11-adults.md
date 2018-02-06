@@ -16,8 +16,8 @@ Police said they found three children alive but all the adults at the party were
 
 ### Changes:
 
-1. [Masked men attack a birthday party in Tizayuca, Mexico, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-birthday-party-in-tizayuca-mexico-killing-11-adults.md) _2017-07-15 21:30:06 (First version)_
-2. [Crime in Mexico: Masked men attack a child's birthday party in Tizayuca, Hidalgo, killing 11 adults. ](/news/2017/07/13/crime-in-mexico-masked-men-attack-a-child-s-birthday-party-in-tizayuca-hidalgo-killing-11-adults.md) _2017-08-27 03:48:39 (Update)_
+1. [Masked men attack a birthday party in Tizayuca, Mexico, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-birthday-party-in-tizayuca-mexico-killing-11-adults.md) _2018-02-06 13:49:30 (First version)_
+2. [Crime in Mexico: Masked men attack a child's birthday party in Tizayuca, Hidalgo, killing 11 adults. ](/news/2017/07/13/crime-in-mexico-masked-men-attack-a-child-s-birthday-party-in-tizayuca-hidalgo-killing-11-adults.md) _2018-02-06 13:49:30 (Update)_
 2. [Masked men attack a child's birthday party in Tizayuca, Hidalgo, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-child-s-birthday-party-in-tizayuca-hidalgo-killing-11-adults.md) _(Current version)_
 
 ### Related:

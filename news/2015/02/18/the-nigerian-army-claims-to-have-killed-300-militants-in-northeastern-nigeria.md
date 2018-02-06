@@ -16,7 +16,7 @@ Thirty-seven people have died in an air strike in southern Niger during military
 
 ### Changes:
 
-1. [Boko Haram: The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/boko-haram-the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _2017-08-27 03:41:57 (First version)_
+1. [Boko Haram: The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/boko-haram-the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _2018-02-06 13:49:26 (First version)_
 1. [The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

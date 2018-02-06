@@ -16,7 +16,7 @@ MANILA, Philippines (AP) — There was no immediate reaction Monday from Philipp
 
 ### Changes:
 
-1. [Philippines Vice President Leni Robredo resigns her Cabinet post as housing secretary due to major differences in principles and values. Robredo says she is staying on in her elected position as vice president. ](/news/2016/12/4/philippines-vice-president-leni-robredo-resigns-her-cabinet-post-as-housing-secretary-due-to-major-differences-in-principles-and-values-ro.md) _2017-08-25 03:46:58 (First version)_
+1. [Philippines Vice President Leni Robredo resigns her Cabinet post as housing secretary due to major differences in principles and values. Robredo says she is staying on in her elected position as vice president. ](/news/2016/12/4/philippines-vice-president-leni-robredo-resigns-her-cabinet-post-as-housing-secretary-due-to-major-differences-in-principles-and-values-ro.md) _2018-02-06 13:49:30 (First version)_
 1. [Philippines Vice President Leni Robredo resigns her Cabinet post as housing secretary due to major differences in principles and values. Robredo says she is staying on in her elected position as vice president. ](/news/2016/12/4/philippines-vice-president-leni-robredo-resigns-her-cabinet-post-as-housing-secretary-due-to-major-differences-in-principles-and-values-rob.md) _(Current version)_
 
 ### Related:

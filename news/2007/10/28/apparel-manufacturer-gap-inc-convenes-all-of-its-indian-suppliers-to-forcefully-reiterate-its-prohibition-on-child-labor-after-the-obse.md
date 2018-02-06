@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/28/apparel-manufacturer-gap-inc-convenes-all-of-it
 
 ### Changes:
 
-1. [ Apparel manufacturer Gap Inc. convenes all of its Indian suppliers to "forcefully reiterate" its prohibition on child labor after ''The Observer'' found children young as 10 making clothing for it in a New Delhi sweatshop. ](/news/2007/10/28/apparel-manufacturer-gap-inc-convenes-all-of-its-indian-suppliers-to-forcefully-reiterate-its-prohibition-on-child-labor-after-the-obs.md) _2017-08-25 03:21:16 (First version)_
+1. [ Apparel manufacturer Gap Inc. convenes all of its Indian suppliers to "forcefully reiterate" its prohibition on child labor after ''The Observer'' found children young as 10 making clothing for it in a New Delhi sweatshop. ](/news/2007/10/28/apparel-manufacturer-gap-inc-convenes-all-of-its-indian-suppliers-to-forcefully-reiterate-its-prohibition-on-child-labor-after-the-obs.md) _2018-02-06 13:49:18 (First version)_
 1. [ Apparel manufacturer Gap Inc. convenes all of its Indian suppliers to "forcefully reiterate" its prohibition on child labor after "The Observer" found children young as 10 making clothing for it in a New Delhi sweatshop. ](/news/2007/10/28/apparel-manufacturer-gap-inc-convenes-all-of-its-indian-suppliers-to-forcefully-reiterate-its-prohibition-on-child-labor-after-the-obse.md) _(Current version)_
 
 ### Related:

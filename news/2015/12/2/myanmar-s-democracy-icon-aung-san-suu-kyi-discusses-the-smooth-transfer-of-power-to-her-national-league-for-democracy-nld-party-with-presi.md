@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discus
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-general-election-2015-myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for.md) _2017-08-27 03:44:09 (First version)_
+1. [Myanmar general election, 2015: Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-general-election-2015-myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for.md) _2018-02-06 13:49:28 (First version)_
 1. [Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for-democracy-nld-party-with-presi.md) _(Current version)_
 
 ### Related:

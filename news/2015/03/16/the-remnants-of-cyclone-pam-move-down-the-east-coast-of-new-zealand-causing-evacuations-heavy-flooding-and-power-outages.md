@@ -18,7 +18,7 @@ ARE YOU AFFECTED BY THE STORM? SEND IN YOUR PHOTOS AND VIDEO HERE. - New Zealand
 
 ### Changes:
 
-1. [Cyclone Pam: The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/cyclone-pam-the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md) _2017-08-27 03:42:06 (First version)_
+1. [Cyclone Pam: The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/cyclone-pam-the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md) _2018-02-06 13:49:26 (First version)_
 1. [The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md) _(Current version)_
 
 ### Related:

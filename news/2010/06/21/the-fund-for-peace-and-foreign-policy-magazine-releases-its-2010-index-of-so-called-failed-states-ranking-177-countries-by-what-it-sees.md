@@ -16,7 +16,7 @@ Annual report ranks seven African countries among top 10 most unstable in the wo
 
 ### Changes:
 
-1. [The ''Fund for Peace and Foreign Policy Magazine'' releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; ''Foreign Policy'' claims state failure "is a chronic condition". ](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-releases-its-2010-index-of-so-called-failed-states-ranking-177-countries-by-what-it-se.md) _2017-08-25 03:28:21 (First version)_
+1. [The ''Fund for Peace and Foreign Policy Magazine'' releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; ''Foreign Policy'' claims state failure "is a chronic condition". ](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-releases-its-2010-index-of-so-called-failed-states-ranking-177-countries-by-what-it-se.md) _2018-02-06 13:49:20 (First version)_
 1. [The "Fund for Peace and Foreign Policy Magazine" releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; "Foreign Policy" claims state failure "is a chronic condition". ](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-releases-its-2010-index-of-so-called-failed-states-ranking-177-countries-by-what-it-sees.md) _(Current version)_
 
 ### Related:

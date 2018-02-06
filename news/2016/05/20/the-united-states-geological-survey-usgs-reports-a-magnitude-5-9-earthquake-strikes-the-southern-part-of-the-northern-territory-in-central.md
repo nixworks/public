@@ -17,7 +17,7 @@ A 5.9 magnitude earthquake struck central Australia early on Saturday, the U.S. 
 
 ### Changes:
 
-1. [List of earthquakes in Australia: The United States Geological Survey (USGS) reports a magnitude 5.9 earthquake strikes the southern part of the Northern Territory in central Australia. No damage or injuries are reported. ](/news/2016/05/20/list-of-earthquakes-in-australia-the-united-states-geological-survey-usgs-reports-a-magnitude-5-9-earthquake-strikes-the-southern-part-of.md) _2017-08-27 03:46:04 (First version)_
+1. [List of earthquakes in Australia: The United States Geological Survey (USGS) reports a magnitude 5.9 earthquake strikes the southern part of the Northern Territory in central Australia. No damage or injuries are reported. ](/news/2016/05/20/list-of-earthquakes-in-australia-the-united-states-geological-survey-usgs-reports-a-magnitude-5-9-earthquake-strikes-the-southern-part-of.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Geological Survey (USGS) reports a magnitude 5.9 earthquake strikes the southern part of the Northern Territory in central Australia. No damage or injuries are reported. ](/news/2016/05/20/the-united-states-geological-survey-usgs-reports-a-magnitude-5-9-earthquake-strikes-the-southern-part-of-the-northern-territory-in-central.md) _(Current version)_
 
 ### Related:

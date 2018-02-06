@@ -17,8 +17,8 @@ Latest updates as the official memorial service for former South African preside
 
 ### Changes:
 
-1. [Death and state funeral of Nelson Mandela:The life of Nelson Mandela is celebrated in a memorial service in Johannesburg. ](/news/2013/12/10/death-and-state-funeral-of-nelson-mandela-pthe-life-of-nelson-mandela-is-celebrated-in-a-memorial-service-in-johannesburg.md) _2017-08-25 03:39:39 (First version)_
-2. [Death and state funeral of Nelson Mandela:: The life of Nelson Mandela is celebrated in a memorial service in Johannesburg. ](/news/2013/12/10/death-and-state-funeral-of-nelson-mandela-the-life-of-nelson-mandela-is-celebrated-in-a-memorial-service-in-johannesburg.md) _2017-08-27 03:39:57 (Update)_
+1. [Death and state funeral of Nelson Mandela:: The life of Nelson Mandela is celebrated in a memorial service in Johannesburg. ](/news/2013/12/10/death-and-state-funeral-of-nelson-mandela-the-life-of-nelson-mandela-is-celebrated-in-a-memorial-service-in-johannesburg.md) _2018-02-06 13:49:25 (First version)_
+2. [Death and state funeral of Nelson Mandela:The life of Nelson Mandela is celebrated in a memorial service in Johannesburg. ](/news/2013/12/10/death-and-state-funeral-of-nelson-mandela-pthe-life-of-nelson-mandela-is-celebrated-in-a-memorial-service-in-johannesburg.md) _2018-02-06 13:49:25 (Update)_
 2. [The life of Nelson Mandela is celebrated in a memorial service in Johannesburg. ](/news/2013/12/10/the-life-of-nelson-mandela-is-celebrated-in-a-memorial-service-in-johannesburg.md) _(Current version)_
 
 ### Related:

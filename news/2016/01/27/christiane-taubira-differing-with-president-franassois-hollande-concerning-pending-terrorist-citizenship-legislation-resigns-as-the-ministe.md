@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/01/27/christiane-taubira-differing-with-president-fra
 
 ### Changes:
 
-1. [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-minist.md) _2017-08-25 03:44:24 (First version)_
-2. [November 2015 Paris attacks: Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/november-2015-paris-attacks-christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legisl.md) _2017-08-27 03:44:46 (Update)_
+1. [November 2015 Paris attacks: Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/november-2015-paris-attacks-christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legisl.md) _2018-02-06 13:49:28 (First version)_
+2. [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-minist.md) _2018-02-06 13:49:28 (Update)_
 2. [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-ministe.md) _(Current version)_
 
 ### Related:

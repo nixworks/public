@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/03/2/voters-in-iran-head-to-the-polls-to-elect-member
 
 ### Changes:
 
-1. [Iranian elections:Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/iranian-elections-pvoters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md) _2017-08-25 03:35:11 (First version)_
-2. [Iranian elections:: Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/iranian-elections-voters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md) _2017-08-27 03:35:21 (Update)_
+1. [Iranian elections:: Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/iranian-elections-voters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md) _2018-02-06 13:49:23 (First version)_
+2. [Iranian elections:Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/iranian-elections-pvoters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/voters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ School children rendered the Sinhala and Tamil versions of the national anthem a
 
 ### Changes:
 
-1. [Tamil national anthem: Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/tamil-national-anthem-sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _2017-08-27 03:44:49 (First version)_
+1. [Tamil national anthem: Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/tamil-national-anthem-sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _2018-02-06 13:49:28 (First version)_
 1. [Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _(Current version)_
 
 ### Related:

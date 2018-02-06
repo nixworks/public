@@ -16,7 +16,7 @@ Somali Islamist militant group al-Shabab says it has killed 60 Ethiopian soldier
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/war-in-somalia-2009-present-al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somal.md) _2017-08-27 03:46:14 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/war-in-somalia-2009-present-al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somal.md) _2018-02-06 13:49:29 (First version)_
 1. [Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somalia.md) _(Current version)_
 
 ### Related:

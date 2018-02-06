@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/29/tropical-cyclone-stan-gathers-strength-as-it-he
 
 ### Changes:
 
-1. [2015-16 Australian region cyclone season: Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/2015-16-australian-region-cyclone-season-tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of.md) _2017-08-27 03:44:47 (First version)_
+1. [2015-16 Australian region cyclone season: Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/2015-16-australian-region-cyclone-season-tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of.md) _2018-02-06 13:49:28 (First version)_
 1. [Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of-western-australia.md) _(Current version)_
 
 ### Related:

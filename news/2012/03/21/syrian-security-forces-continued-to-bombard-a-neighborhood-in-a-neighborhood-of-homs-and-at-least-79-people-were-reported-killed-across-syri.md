@@ -19,8 +19,8 @@ The US warns Syria to comply with a UN-backed peace plan, as government tanks re
 
 ### Changes:
 
-1. [Syrian uprising:Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-psyrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported-k.md) _2017-08-25 03:35:20 (First version)_
-2. [Syrian uprising:: Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-syrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported.md) _2017-08-27 03:35:28 (Update)_
+1. [Syrian uprising:: Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-syrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-psyrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported-k.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported-killed-across-syri.md) _(Current version)_
 
 ### Related:

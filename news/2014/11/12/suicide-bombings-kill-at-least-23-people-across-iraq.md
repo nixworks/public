@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/12/suicide-bombings-kill-at-least-23-people-across
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/islamic-state-of-iraq-and-the-levant-suicide-bombings-kill-at-least-23-people-across-iraq.md) _2017-08-27 03:41:30 (First version)_
+1. [Islamic State of Iraq and the Levant: Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/islamic-state-of-iraq-and-the-levant-suicide-bombings-kill-at-least-23-people-across-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/suicide-bombings-kill-at-least-23-people-across-iraq.md) _(Current version)_
 
 ### Related:

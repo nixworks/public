@@ -17,7 +17,7 @@ Rescue workers are battling to airlift passengers off a burning ferry adrift in 
 
 ### Changes:
 
-1. [The Italian-owned MS ''Norman Atlantic'' catches fire on a ferry run from Greece to Italy 44 nautical miles northwest of Corfu, with 222 vehicles, 411 passengers and 5 crew on board. Greek and Italian officials report at least one person is dead. ](/news/2014/12/28/the-italian-owned-ms-norman-atlantic-catches-fire-on-a-ferry-run-from-greece-to-italy-44-nautical-miles-northwest-of-corfu-with-222-veh.md) _2017-08-25 03:41:24 (First version)_
+1. [The Italian-owned MS ''Norman Atlantic'' catches fire on a ferry run from Greece to Italy 44 nautical miles northwest of Corfu, with 222 vehicles, 411 passengers and 5 crew on board. Greek and Italian officials report at least one person is dead. ](/news/2014/12/28/the-italian-owned-ms-norman-atlantic-catches-fire-on-a-ferry-run-from-greece-to-italy-44-nautical-miles-northwest-of-corfu-with-222-veh.md) _2018-02-06 13:49:26 (First version)_
 1. [The Italian-owned MS "Norman Atlantic" catches fire on a ferry run from Greece to Italy 44 nautical miles northwest of Corfu, with 222 vehicles, 411 passengers and 5 crew on board. Greek and Italian officials report at least one person is dead. ](/news/2014/12/28/the-italian-owned-ms-norman-atlantic-catches-fire-on-a-ferry-run-from-greece-to-italy-44-nautical-miles-northwest-of-corfu-with-222-vehic.md) _(Current version)_
 
 ### Related:

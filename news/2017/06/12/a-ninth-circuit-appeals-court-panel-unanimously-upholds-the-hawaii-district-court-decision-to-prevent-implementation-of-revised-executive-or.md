@@ -18,7 +18,7 @@ The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal ju
 
 ### Changes:
 
-1. [United States immigration policy: A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/united-states-immigration-policy-a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-impl.md) _2017-08-27 03:48:28 (First version)_
+1. [United States immigration policy: A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/united-states-immigration-policy-a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-impl.md) _2018-02-06 13:49:30 (First version)_
 1. [A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-implementation-of-revised-executive-or.md) _(Current version)_
 
 ### Related:

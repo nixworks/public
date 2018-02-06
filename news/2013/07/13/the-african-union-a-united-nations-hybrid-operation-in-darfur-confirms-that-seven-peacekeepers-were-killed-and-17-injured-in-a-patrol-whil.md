@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/07/13/the-african-union-a-united-nations-hybrid-opera
 
 ### Changes:
 
-1. [The African Union - United Nations Hybrid Operation in Darfur confirms that seven peacekeepers were killed and 17 injured in a patrol while returning to their base in Manawashi near Nyala, the capital of Sudan's South Darfur state. ](/news/2013/07/13/the-african-union-united-nations-hybrid-operation-in-darfur-confirms-that-seven-peacekeepers-were-killed-and-17-injured-in-a-patrol-whil.md) _2017-08-27 03:39:15 (First version)_
+1. [The African Union - United Nations Hybrid Operation in Darfur confirms that seven peacekeepers were killed and 17 injured in a patrol while returning to their base in Manawashi near Nyala, the capital of Sudan's South Darfur state. ](/news/2013/07/13/the-african-union-united-nations-hybrid-operation-in-darfur-confirms-that-seven-peacekeepers-were-killed-and-17-injured-in-a-patrol-whil.md) _2018-02-06 13:49:25 (First version)_
 1. [The African Union - United Nations Hybrid Operation in Darfur confirms that seven peacekeepers were killed and 17 injured in a patrol while returning to their base in Manawashi near Nyala, the capital of Sudan's South Darfur state. ](/news/2013/07/13/the-african-union-a-united-nations-hybrid-operation-in-darfur-confirms-that-seven-peacekeepers-were-killed-and-17-injured-in-a-patrol-whil.md) _(Current version)_
 
 ### Related:

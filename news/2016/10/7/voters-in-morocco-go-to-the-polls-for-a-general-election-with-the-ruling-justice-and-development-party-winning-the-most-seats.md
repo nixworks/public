@@ -17,7 +17,7 @@ The Islamist party which has led the coalition government since the Arab Spring 
 
 ### Changes:
 
-1. [Moroccan general election, 2016: Voters in Morocco go to the polls for a general election with the ruling Justice and Development Party winning the most seats. ](/news/2016/10/7/moroccan-general-election-2016-voters-in-morocco-go-to-the-polls-for-a-general-election-with-the-ruling-justice-and-development-party-winn.md) _2017-08-27 03:46:59 (First version)_
+1. [Moroccan general election, 2016: Voters in Morocco go to the polls for a general election with the ruling Justice and Development Party winning the most seats. ](/news/2016/10/7/moroccan-general-election-2016-voters-in-morocco-go-to-the-polls-for-a-general-election-with-the-ruling-justice-and-development-party-winn.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Morocco go to the polls for a general election with the ruling Justice and Development Party winning the most seats. ](/news/2016/10/7/voters-in-morocco-go-to-the-polls-for-a-general-election-with-the-ruling-justice-and-development-party-winning-the-most-seats.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/27/in-china-the-human-death-toll-from-an-outbreak-
 
 ### Changes:
 
-1. [ In China, the human death toll from an outbreak of the pig pathogen ''Streptococcus suis'' is 24. 21 are in critical condition and number of infections has increased to 117 ](/news/2005/07/27/in-china-the-human-death-toll-from-an-outbreak-of-the-pig-pathogen-streptococcus-suis-is-24-21-are-in-critical-condition-and-number-o.md) _2017-08-25 03:16:35 (First version)_
+1. [ In China, the human death toll from an outbreak of the pig pathogen ''Streptococcus suis'' is 24. 21 are in critical condition and number of infections has increased to 117 ](/news/2005/07/27/in-china-the-human-death-toll-from-an-outbreak-of-the-pig-pathogen-streptococcus-suis-is-24-21-are-in-critical-condition-and-number-o.md) _2018-02-06 13:49:16 (First version)_
 1. [ In China, the human death toll from an outbreak of the pig pathogen "Streptococcus suis" is 24. 21 are in critical condition and number of infections has increased to 117 ](/news/2005/07/27/in-china-the-human-death-toll-from-an-outbreak-of-the-pig-pathogen-streptococcus-suis-is-24-21-are-in-critical-condition-and-number-of.md) _(Current version)_
 
 ### Related:

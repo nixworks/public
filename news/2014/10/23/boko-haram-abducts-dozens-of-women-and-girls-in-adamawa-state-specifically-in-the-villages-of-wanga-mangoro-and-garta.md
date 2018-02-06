@@ -16,7 +16,7 @@ Dozens of women and girls have been abducted from two villages in north-eastern 
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Boko Haram abducts "dozens" of women and girls in Adamawa State, specifically in the villages of Wanga Mangoro and Garta. ](/news/2014/10/23/islamist-insurgency-in-nigeria-boko-haram-abducts-dozens-of-women-and-girls-in-adamawa-state-specifically-in-the-villages-of-wanga-mango.md) _2017-08-27 03:41:25 (First version)_
+1. [Islamist insurgency in Nigeria: Boko Haram abducts "dozens" of women and girls in Adamawa State, specifically in the villages of Wanga Mangoro and Garta. ](/news/2014/10/23/islamist-insurgency-in-nigeria-boko-haram-abducts-dozens-of-women-and-girls-in-adamawa-state-specifically-in-the-villages-of-wanga-mango.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram abducts "dozens" of women and girls in Adamawa State, specifically in the villages of Wanga Mangoro and Garta. ](/news/2014/10/23/boko-haram-abducts-dozens-of-women-and-girls-in-adamawa-state-specifically-in-the-villages-of-wanga-mangoro-and-garta.md) _(Current version)_
 
 ### Related:

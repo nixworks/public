@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/11/18/about-150-soldiers-and-police-officers-from-aus
 
 ### Changes:
 
-1. [ 2006 Tonga riots: About 150 soldiers and police officers from Australia and New Zealand have arrived in Tonga following an appeal for help to restore order after riots. ](/news/2006/11/18/2006-tonga-riots-p-about-150-soldiers-and-police-officers-from-australia-and-new-zealand-have-arrived-in-tonga-following-an-appeal-for-help.md) _2017-08-25 03:18:48 (First version)_
-2. [ 2006 Tonga riots:: About 150 soldiers and police officers from Australia and New Zealand have arrived in Tonga following an appeal for help to restore order after riots. ](/news/2006/11/18/2006-tonga-riots-about-150-soldiers-and-police-officers-from-australia-and-new-zealand-have-arrived-in-tonga-following-an-appeal-for-help.md) _2017-08-27 03:18:42 (Update)_
+1. [ 2006 Tonga riots: About 150 soldiers and police officers from Australia and New Zealand have arrived in Tonga following an appeal for help to restore order after riots. ](/news/2006/11/18/2006-tonga-riots-p-about-150-soldiers-and-police-officers-from-australia-and-new-zealand-have-arrived-in-tonga-following-an-appeal-for-help.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Tonga riots:: About 150 soldiers and police officers from Australia and New Zealand have arrived in Tonga following an appeal for help to restore order after riots. ](/news/2006/11/18/2006-tonga-riots-about-150-soldiers-and-police-officers-from-australia-and-new-zealand-have-arrived-in-tonga-following-an-appeal-for-help.md) _2018-02-06 13:49:17 (Update)_
 2. [ About 150 soldiers and police officers from Australia and New Zealand have arrived in Tonga following an appeal for help to restore order after riots. ](/news/2006/11/18/about-150-soldiers-and-police-officers-from-australia-and-new-zealand-have-arrived-in-tonga-following-an-appeal-for-help-to-restore-order-a.md) _(Current version)_
 
 ### Related:

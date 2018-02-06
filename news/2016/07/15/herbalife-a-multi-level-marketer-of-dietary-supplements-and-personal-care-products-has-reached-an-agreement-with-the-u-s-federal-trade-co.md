@@ -16,7 +16,7 @@ Dietary supplement firm Herbalife has reached a deal with the US Federal Trade C
 
 ### Changes:
 
-1. [Herbalife, a multi-level marketer of dietary supplements and personal care products, has reached an agreement with the U.S. Federal Trade Commission to settle charges arising out of the appearance that it is a pyramid scheme. ](/news/2016/07/15/herbalife-a-multi-level-marketer-of-dietary-supplements-and-personal-care-products-has-reached-an-agreement-with-the-u-s-federal-trade-c.md) _2017-08-25 03:46:07 (First version)_
+1. [Herbalife, a multi-level marketer of dietary supplements and personal care products, has reached an agreement with the U.S. Federal Trade Commission to settle charges arising out of the appearance that it is a pyramid scheme. ](/news/2016/07/15/herbalife-a-multi-level-marketer-of-dietary-supplements-and-personal-care-products-has-reached-an-agreement-with-the-u-s-federal-trade-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Herbalife, a multi-level marketer of dietary supplements and personal care products, has reached an agreement with the U.S. Federal Trade Commission to settle charges arising out of the appearance that it is a pyramid scheme. ](/news/2016/07/15/herbalife-a-multi-level-marketer-of-dietary-supplements-and-personal-care-products-has-reached-an-agreement-with-the-u-s-federal-trade-co.md) _(Current version)_
 
 ### Related:

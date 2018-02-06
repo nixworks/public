@@ -18,7 +18,7 @@ Residents in parts of Lismore have been ordered to immediately evacuate as north
 
 ### Changes:
 
-1. [Cyclone Debbie: Authorities of New South Wales issue a State Emergency Service for the towns of Murwillumbah and Lismore, and at least 12 flood rescues are underway as former Cyclone Debbie moves south from north Queensland. ](/news/2017/03/30/cyclone-debbie-authorities-of-new-south-wales-issue-a-state-emergency-service-for-the-towns-of-murwillumbah-and-lismore-and-at-least-12-fl.md) _2017-08-27 03:48:04 (First version)_
+1. [Cyclone Debbie: Authorities of New South Wales issue a State Emergency Service for the towns of Murwillumbah and Lismore, and at least 12 flood rescues are underway as former Cyclone Debbie moves south from north Queensland. ](/news/2017/03/30/cyclone-debbie-authorities-of-new-south-wales-issue-a-state-emergency-service-for-the-towns-of-murwillumbah-and-lismore-and-at-least-12-fl.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities of New South Wales issue a State Emergency Service for the towns of Murwillumbah and Lismore, and at least 12 flood rescues are underway as former Cyclone Debbie moves south from north Queensland. ](/news/2017/03/30/authorities-of-new-south-wales-issue-a-state-emergency-service-for-the-towns-of-murwillumbah-and-lismore-and-at-least-12-flood-rescues-are.md) _(Current version)_
 
 ### Related:

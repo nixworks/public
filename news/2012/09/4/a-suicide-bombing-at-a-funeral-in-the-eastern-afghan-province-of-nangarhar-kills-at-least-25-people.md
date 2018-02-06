@@ -17,8 +17,8 @@ A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, 
 
 ### Changes:
 
-1. [War in Afghanistan:A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/war-in-afghanistan-pa-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md) _2017-08-25 03:36:25 (First version)_
-2. [War in Afghanistan:: A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/war-in-afghanistan-a-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md) _2017-08-27 03:36:36 (Update)_
+1. [War in Afghanistan:A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/war-in-afghanistan-pa-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/war-in-afghanistan-a-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md) _2018-02-06 13:49:23 (Update)_
 2. [A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/a-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md) _(Current version)_
 
 ### Related:

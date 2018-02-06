@@ -18,9 +18,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Iraq insurgency: A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-p-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-ar.md) _2017-05-25 03:18:43 (First version)_
-2. [ Iraq insurgency: A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-p-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-are.md) _2017-08-25 03:18:27 (Update)_
-3. [ Iraq insurgency:: A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-are.md) _2017-08-27 03:18:21 (Update)_
+1. [ Iraq insurgency: A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-p-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-are.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq insurgency: A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-p-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-ar.md) _2018-02-06 13:49:17 (Update)_
+3. [ Iraq insurgency:: A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/iraq-insurgency-a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-are.md) _2018-02-06 13:49:17 (Update)_
 3. [ A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-are-injured.md) _(Current version)_
 
 ### Related:

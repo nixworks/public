@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/4/index.html)  [JSON](2017/03/4/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [According to provincial officials, at least eight people are killed and another 22 are injured by a roadside bomb in Farah Province. However, according to locals, the attack was actually an airstrike. ](/news/2017/03/4/according-to-provincial-officials-at-least-eight-people-are-killed-and-another-22-are-injured-by-a-roadside-bomb-in-farah-province-however.md)
-_Context: Farah Province, War in Afghanistan (2015-present)_
+_Context: War in Afghanistan (2015-present), Farah Province_
 
 ##### Libyan Civil War (2014-present)
 ### [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md)

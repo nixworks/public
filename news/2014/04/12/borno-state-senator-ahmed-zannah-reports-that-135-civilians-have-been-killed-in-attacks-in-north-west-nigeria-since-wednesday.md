@@ -16,7 +16,7 @@ A senator from north-east Nigeria tells the BBC that 135 civilians have been kil
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Borno State Senator Ahmed Zannah reports that 135 civilians have been killed in attacks in north west Nigeria since Wednesday. ](/news/2014/04/12/islamist-insurgency-in-nigeria-borno-state-senator-ahmed-zannah-reports-that-135-civilians-have-been-killed-in-attacks-in-north-west-nigeri.md) _2017-08-27 03:40:34 (First version)_
+1. [Islamist insurgency in Nigeria: Borno State Senator Ahmed Zannah reports that 135 civilians have been killed in attacks in north west Nigeria since Wednesday. ](/news/2014/04/12/islamist-insurgency-in-nigeria-borno-state-senator-ahmed-zannah-reports-that-135-civilians-have-been-killed-in-attacks-in-north-west-nigeri.md) _2018-02-06 13:49:26 (First version)_
 1. [Borno State Senator Ahmed Zannah reports that 135 civilians have been killed in attacks in north west Nigeria since Wednesday. ](/news/2014/04/12/borno-state-senator-ahmed-zannah-reports-that-135-civilians-have-been-killed-in-attacks-in-north-west-nigeria-since-wednesday.md) _(Current version)_
 
 ### Related:

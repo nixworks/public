@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/17/a-suicide-bomber-kills-at-least-13-recruits-at-
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): A suicide bomber kills at least 13 recruits at a Yemeni Army base run by forces loyal to ousted President Abdrabbuh Mansur Hadi in the southern port city of Aden. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/02/17/yemeni-civil-war-2015-present-a-suicide-bomber-kills-at-least-13-recruits-at-a-yemeni-army-base-run-by-forces-loyal-to-ousted-president.md) _2017-08-27 03:44:56 (First version)_
+1. [Yemeni Civil War (2015-present): A suicide bomber kills at least 13 recruits at a Yemeni Army base run by forces loyal to ousted President Abdrabbuh Mansur Hadi in the southern port city of Aden. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/02/17/yemeni-civil-war-2015-present-a-suicide-bomber-kills-at-least-13-recruits-at-a-yemeni-army-base-run-by-forces-loyal-to-ousted-president.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills at least 13 recruits at a Yemeni Army base run by forces loyal to ousted President Abdrabbuh Mansur Hadi in the southern port city of Aden. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/02/17/a-suicide-bomber-kills-at-least-13-recruits-at-a-yemeni-army-base-run-by-forces-loyal-to-ousted-president-abdrabbuh-mansur-hadi-in-the-south.md) _(Current version)_
 
 ### Related:

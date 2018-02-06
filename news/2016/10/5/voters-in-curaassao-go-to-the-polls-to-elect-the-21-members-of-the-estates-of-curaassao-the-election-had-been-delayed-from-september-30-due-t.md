@@ -16,7 +16,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 
 ### Changes:
 
-1. [Curacao general election, 2016: Voters in Curacao go to the polls to elect the 21 members of the Estates of Curacao. The election had been delayed from September 30 due to Hurricane Matthew. ](/news/2016/10/5/curaassao-general-election-2016-voters-in-curaassao-go-to-the-polls-to-elect-the-21-members-of-the-estates-of-curaassao-the-election-had-bee.md) _2017-08-27 03:46:58 (First version)_
+1. [Curacao general election, 2016: Voters in Curacao go to the polls to elect the 21 members of the Estates of Curacao. The election had been delayed from September 30 due to Hurricane Matthew. ](/news/2016/10/5/curaassao-general-election-2016-voters-in-curaassao-go-to-the-polls-to-elect-the-21-members-of-the-estates-of-curaassao-the-election-had-bee.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Curacao go to the polls to elect the 21 members of the Estates of Curacao. The election had been delayed from September 30 due to Hurricane Matthew. ](/news/2016/10/5/voters-in-curaassao-go-to-the-polls-to-elect-the-21-members-of-the-estates-of-curaassao-the-election-had-been-delayed-from-september-30-due-t.md) _(Current version)_
 
 ### Related:

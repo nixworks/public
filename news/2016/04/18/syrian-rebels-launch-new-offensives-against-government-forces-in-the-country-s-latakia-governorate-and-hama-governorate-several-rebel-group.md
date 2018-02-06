@@ -17,7 +17,7 @@ Rockets fired from northern Syria have killed four Syrians - three of them child
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian rebels launch new offensives against government forces in the country's Latakia Governorate and Hama Governorate. Several rebel groups earlier announced they were launching a new battle against government forces in response to claimed violations of the cease-fire agreement, further putting a strain on the Syrian peace process. ](/news/2016/04/18/syrian-civil-war-syrian-rebels-launch-new-offensives-against-government-forces-in-the-country-s-latakia-governorate-and-hama-governorate-s.md) _2017-08-27 03:45:40 (First version)_
+1. [Syrian Civil War: Syrian rebels launch new offensives against government forces in the country's Latakia Governorate and Hama Governorate. Several rebel groups earlier announced they were launching a new battle against government forces in response to claimed violations of the cease-fire agreement, further putting a strain on the Syrian peace process. ](/news/2016/04/18/syrian-civil-war-syrian-rebels-launch-new-offensives-against-government-forces-in-the-country-s-latakia-governorate-and-hama-governorate-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Syrian rebels launch new offensives against government forces in the country's Latakia Governorate and Hama Governorate. Several rebel groups earlier announced they were launching a new battle against government forces in response to claimed violations of the cease-fire agreement, further putting a strain on the Syrian peace process. ](/news/2016/04/18/syrian-rebels-launch-new-offensives-against-government-forces-in-the-country-s-latakia-governorate-and-hama-governorate-several-rebel-group.md) _(Current version)_
 
 ### Related:

@@ -16,5 +16,5 @@ Formats: [HTML](/news/2008/05/28/australian-paleontologists-discover-materpiscis
 
 ### Changes:
 
-1. [ Australian paleontologists discover ''Materpiscis'', a 380-million-year-old placoderm fish which is the earliest known animal to bear live young. ](/news/2008/05/28/australian-paleontologists-discover-materpiscis-a-380-million-year-old-placoderm-fish-which-is-the-earliest-known-animal-to-bear-live.md) _2017-08-25 03:22:14 (First version)_
+1. [ Australian paleontologists discover ''Materpiscis'', a 380-million-year-old placoderm fish which is the earliest known animal to bear live young. ](/news/2008/05/28/australian-paleontologists-discover-materpiscis-a-380-million-year-old-placoderm-fish-which-is-the-earliest-known-animal-to-bear-live.md) _2018-02-06 13:49:18 (First version)_
 1. [ Australian paleontologists discover "Materpiscis", a 380-million-year-old placoderm fish which is the earliest known animal to bear live young. ](/news/2008/05/28/australian-paleontologists-discover-materpiscis-a-380-million-year-old-placoderm-fish-which-is-the-earliest-known-animal-to-bear-live-yo.md) _(Current version)_

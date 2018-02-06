@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilia
 
 ### Changes:
 
-1. [Women's rights: Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/women-s-rights-belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-ne.md) _2017-08-27 03:47:41 (First version)_
+1. [Women's rights: Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/women-s-rights-belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-ne.md) _2018-02-06 13:49:30 (First version)_
 1. [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md) _(Current version)_
 
 ### Related:

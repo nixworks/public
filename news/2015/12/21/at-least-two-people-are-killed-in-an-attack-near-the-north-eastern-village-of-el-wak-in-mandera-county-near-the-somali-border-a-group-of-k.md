@@ -16,7 +16,7 @@ A group of Kenyan Muslims on a bus attacked by Islamist gunmen protected Christi
 
 ### Changes:
 
-1. [War in Somalia: At least two people are killed in an attack, near the north-eastern village of El Wak in Mandera County near the Somali border. A group of Kenyan Muslims traveling on a bus ambushed by suspected Al-Shabaab insurgents, protected Christian passengers by refusing to be split into groups, according to eyewitnesses. ](/news/2015/12/21/war-in-somalia-at-least-two-people-are-killed-in-an-attack-near-the-north-eastern-village-of-el-wak-in-mandera-county-near-the-somali-bord.md) _2017-08-27 03:44:27 (First version)_
+1. [War in Somalia: At least two people are killed in an attack, near the north-eastern village of El Wak in Mandera County near the Somali border. A group of Kenyan Muslims traveling on a bus ambushed by suspected Al-Shabaab insurgents, protected Christian passengers by refusing to be split into groups, according to eyewitnesses. ](/news/2015/12/21/war-in-somalia-at-least-two-people-are-killed-in-an-attack-near-the-north-eastern-village-of-el-wak-in-mandera-county-near-the-somali-bord.md) _2018-02-06 13:49:28 (First version)_
 1. [At least two people are killed in an attack, near the north-eastern village of El Wak in Mandera County near the Somali border. A group of Kenyan Muslims traveling on a bus ambushed by suspected Al-Shabaab insurgents, protected Christian passengers by refusing to be split into groups, according to eyewitnesses. ](/news/2015/12/21/at-least-two-people-are-killed-in-an-attack-near-the-north-eastern-village-of-el-wak-in-mandera-county-near-the-somali-border-a-group-of-k.md) _(Current version)_
 
 ### Related:

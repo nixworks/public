@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/16/the-united-states-department-of-defense-announc
 
 ### Changes:
 
-1. [Syrian Civil War: The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/syrian-civil-war-the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spri.md) _2017-08-27 03:41:48 (First version)_
+1. [Syrian Civil War: The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/syrian-civil-war-the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spri.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spring-of-2015.md) _(Current version)_
 
 ### Related:

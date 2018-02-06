@@ -17,8 +17,8 @@ The 2016 Emmy Award nominees were announced this morning by Anthony Anderson and
 
 ### Changes:
 
-1. [The nominees are announced in Los Angeles. ''Game of Thrones'', ''Veep'' and ''The People v. O. J. Simpson: American Crime Story'' lead in nominations. ](/news/2016/07/14/the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american-crime-story-lead-in-n.md) _2017-08-25 03:46:07 (First version)_
-2. [68th Primetime Emmy Awards: The nominees are announced in Los Angeles. "Game of Thrones", "Veep" and "The People v. O. J. Simpson: American Crime Story" lead in nominations. ](/news/2016/07/14/68th-primetime-emmy-awards-the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american.md) _2017-08-27 03:46:29 (Update)_
+1. [The nominees are announced in Los Angeles. ''Game of Thrones'', ''Veep'' and ''The People v. O. J. Simpson: American Crime Story'' lead in nominations. ](/news/2016/07/14/the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american-crime-story-lead-in-n.md) _2018-02-06 13:49:29 (First version)_
+2. [68th Primetime Emmy Awards: The nominees are announced in Los Angeles. "Game of Thrones", "Veep" and "The People v. O. J. Simpson: American Crime Story" lead in nominations. ](/news/2016/07/14/68th-primetime-emmy-awards-the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american.md) _2018-02-06 13:49:29 (Update)_
 2. [The nominees are announced in Los Angeles. "Game of Thrones", "Veep" and "The People v. O. J. Simpson: American Crime Story" lead in nominations. ](/news/2016/07/14/the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american-crime-story-lead-in-nominat.md) _(Current version)_
 
 ### Related:

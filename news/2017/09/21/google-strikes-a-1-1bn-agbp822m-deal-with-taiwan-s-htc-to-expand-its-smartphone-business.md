@@ -16,8 +16,8 @@ The tie-up marks the latest push by Google to boost its hardware business.
 
 ### Changes:
 
-1. [ Alphabet's Google has struck a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/alphabet-s-google-has-struck-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _2017-09-21 20:30:05 (First version)_
-2. [ Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _2017-09-22 03:53:29 (Update)_
+1. [ Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _2018-02-06 13:49:31 (First version)_
+2. [ Alphabet's Google has struck a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/alphabet-s-google-has-struck-a-1-1bn-gbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _2018-02-06 13:49:31 (Update)_
 2. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _(Current version)_
 
 ### Related:

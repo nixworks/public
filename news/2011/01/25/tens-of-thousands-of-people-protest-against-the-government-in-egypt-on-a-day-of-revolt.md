@@ -19,8 +19,8 @@ Police fire tear gas at anti-government demonstrators in Cairo as thousands call
 
 ### Changes:
 
-1. [2011 Egyptian protests:Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-ptens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md) _2017-08-25 03:31:56 (First version)_
-2. [2011 Egyptian protests:: Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md) _2017-08-27 03:32:04 (Update)_
+1. [2011 Egyptian protests:: Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-ptens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md) _2018-02-06 13:49:21 (Update)_
 2. [Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md) _(Current version)_
 
 ### Related:

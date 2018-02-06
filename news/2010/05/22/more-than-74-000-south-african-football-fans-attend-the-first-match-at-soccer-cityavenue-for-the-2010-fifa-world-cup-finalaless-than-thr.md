@@ -16,7 +16,7 @@ More than 74,000 South African football fans attend the first match at Soccer Ci
 
 ### Changes:
 
-1. [More than 74,000 South African football fans attend the first match at Soccer City-venue for the 2010 FIFA World Cup Final-less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-city-venue-for-the-2010-fifa-world-cup-final-less-than-thr.md) _2017-08-27 03:27:57 (First version)_
+1. [More than 74,000 South African football fans attend the first match at Soccer City-venue for the 2010 FIFA World Cup Final-less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-city-venue-for-the-2010-fifa-world-cup-final-less-than-thr.md) _2018-02-06 13:49:20 (First version)_
 1. [More than 74,000 South African football fans attend the first match at Soccer City--venue for the 2010 FIFA World Cup Final--less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-cityavenue-for-the-2010-fifa-world-cup-finalaless-than-thr.md) _(Current version)_
 
 ### Related:

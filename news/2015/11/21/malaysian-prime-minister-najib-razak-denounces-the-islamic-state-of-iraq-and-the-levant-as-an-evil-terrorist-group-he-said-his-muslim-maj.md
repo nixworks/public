@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/11/21/malaysian-prime-minister-najib-razak-denounces-
 
 ### Changes:
 
-1. [Reactions to the November 2015 Paris attacks: Malaysian Prime Minister Najib Razak denounces the Islamic State of Iraq and the Levant as an "evil" terrorist group. He said his Muslim-majority country is ready to join others to defeat it, cautioning that a military solution alone is not enough and that it is also necessary to vanquish the ideology of the group. ](/news/2015/11/21/reactions-to-the-november-2015-paris-attacks-malaysian-prime-minister-najib-razak-denounces-the-islamic-state-of-iraq-and-the-levant-as-an.md) _2017-08-27 03:43:59 (First version)_
+1. [Reactions to the November 2015 Paris attacks: Malaysian Prime Minister Najib Razak denounces the Islamic State of Iraq and the Levant as an "evil" terrorist group. He said his Muslim-majority country is ready to join others to defeat it, cautioning that a military solution alone is not enough and that it is also necessary to vanquish the ideology of the group. ](/news/2015/11/21/reactions-to-the-november-2015-paris-attacks-malaysian-prime-minister-najib-razak-denounces-the-islamic-state-of-iraq-and-the-levant-as-an.md) _2018-02-06 13:49:28 (First version)_
 1. [Malaysian Prime Minister Najib Razak denounces the Islamic State of Iraq and the Levant as an "evil" terrorist group. He said his Muslim-majority country is ready to join others to defeat it, cautioning that a military solution alone is not enough and that it is also necessary to vanquish the ideology of the group. ](/news/2015/11/21/malaysian-prime-minister-najib-razak-denounces-the-islamic-state-of-iraq-and-the-levant-as-an-evil-terrorist-group-he-said-his-muslim-maj.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A gang brought down a helicopter during a police operation in Mexico&#39;s troub
 
 ### Changes:
 
-1. [Mexican Drug War: A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/mexican-drug-war-a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-a.md) _2017-08-27 03:46:47 (First version)_
+1. [Mexican Drug War: A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/mexican-drug-war-a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-a.md) _2018-02-06 13:49:29 (First version)_
 1. [A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-an-operation-agains.md) _(Current version)_
 
 ### Related:

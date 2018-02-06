@@ -24,8 +24,8 @@ The Labour Party has decided to press ahead with a motion of no confidence in th
 
 ### Changes:
 
-1. [Situation in Ireland:Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-pireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follow.md) _2017-08-25 03:31:52 (First version)_
-2. [Situation in Ireland:: Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-ireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follo.md) _2017-08-27 03:32:00 (Update)_
+1. [Situation in Ireland:Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-pireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follow.md) _2018-02-06 13:49:21 (First version)_
+2. [Situation in Ireland:: Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-ireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follo.md) _2018-02-06 13:49:21 (Update)_
 2. [Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/ireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-following-the-events-of-this.md) _(Current version)_
 
 ### Related:

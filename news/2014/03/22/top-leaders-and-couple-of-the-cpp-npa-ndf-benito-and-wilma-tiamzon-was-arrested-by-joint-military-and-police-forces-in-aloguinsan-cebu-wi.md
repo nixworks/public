@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/03/22/top-leaders-and-couple-of-the-cpp-npa-ndf-benit
 
 ### Changes:
 
-1. [Communist insurgency in the Philippines: Top leaders and couple of the CPP-NPA-NDF, Benito and Wilma Tiamzon was arrested by joint military and police forces in Aloguinsan, Cebu. Wilma Tiamzon is the secretary general of militant group while Benito is the chairman. ](/news/2014/03/22/communist-insurgency-in-the-philippines-top-leaders-and-couple-of-the-cpp-npa-ndf-benito-and-wilma-tiamzon-was-arrested-by-joint-military.md) _2017-08-27 03:40:30 (First version)_
+1. [Communist insurgency in the Philippines: Top leaders and couple of the CPP-NPA-NDF, Benito and Wilma Tiamzon was arrested by joint military and police forces in Aloguinsan, Cebu. Wilma Tiamzon is the secretary general of militant group while Benito is the chairman. ](/news/2014/03/22/communist-insurgency-in-the-philippines-top-leaders-and-couple-of-the-cpp-npa-ndf-benito-and-wilma-tiamzon-was-arrested-by-joint-military.md) _2018-02-06 13:49:26 (First version)_
 1. [Top leaders and couple of the CPP-NPA-NDF, Benito and Wilma Tiamzon was arrested by joint military and police forces in Aloguinsan, Cebu. Wilma Tiamzon is the secretary general of militant group while Benito is the chairman. ](/news/2014/03/22/top-leaders-and-couple-of-the-cpp-npa-ndf-benito-and-wilma-tiamzon-was-arrested-by-joint-military-and-police-forces-in-aloguinsan-cebu-wi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duc
 
 ### Changes:
 
-1. [Phil Robertson, featured on the reality show ''Duck Dynasty'', is suspended by A&E in response to controversial statements about homosexuality made during an interview with ''GQ'' magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuali.md) _2017-08-25 03:39:43 (First version)_
+1. [Phil Robertson, featured on the reality show ''Duck Dynasty'', is suspended by A&E in response to controversial statements about homosexuality made during an interview with ''GQ'' magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuali.md) _2018-02-06 13:49:25 (First version)_
 1. [Phil Robertson, featured on the reality show "Duck Dynasty", is suspended by A&E in response to controversial statements about homosexuality made during an interview with "GQ" magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuality.md) _(Current version)_
 
 ### Related:

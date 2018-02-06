@@ -16,9 +16,9 @@ Watch the hearing live on Rappler on Thursday, August 24, at 2 pm
 
 ### Changes:
 
-1. [The Philippines senate investigates the alleged shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/the-philippines-senate-investigates-the-alleged-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-war.md) _2017-08-24 16:30:04 (First version)_
-2. [The Philippine senate investigates the alleged shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/the-philippine-senate-investigates-the-alleged-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-war.md) _2017-08-25 08:30:04 (Update)_
-3. [Philippine Drug War: The Philippine senate investigates the shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/philippine-drug-war-the-philippine-senate-investigates-the-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-w.md) _2017-08-27 17:30:04 (Update)_
+1. [The Philippines senate investigates the alleged shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/the-philippines-senate-investigates-the-alleged-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-war.md) _2018-02-06 13:49:31 (First version)_
+2. [The Philippine senate investigates the alleged shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/the-philippine-senate-investigates-the-alleged-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-war.md) _2018-02-06 13:49:31 (Update)_
+3. [Philippine Drug War: The Philippine senate investigates the shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/philippine-drug-war-the-philippine-senate-investigates-the-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-w.md) _2018-02-06 13:49:31 (Update)_
 3. [The Philippine senate investigates the shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/the-philippine-senate-investigates-the-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-war.md) _(Current version)_
 
 ### Related:

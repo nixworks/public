@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/1/female-victims-of-the-martial-law-dictatorship-o
 
 ### Changes:
 
-1. [Burial of Ferdinand Marcos: Female victims of the martial law dictatorship of Ferdinand Marcos speak at the Philippine Supreme Court about how they endured torture during Marcos' regime. ](/news/2016/09/1/burial-of-ferdinand-marcos-female-victims-of-the-martial-law-dictatorship-of-ferdinand-marcos-speak-at-the-philippine-supreme-court-about-h.md) _2017-08-27 03:46:45 (First version)_
+1. [Burial of Ferdinand Marcos: Female victims of the martial law dictatorship of Ferdinand Marcos speak at the Philippine Supreme Court about how they endured torture during Marcos' regime. ](/news/2016/09/1/burial-of-ferdinand-marcos-female-victims-of-the-martial-law-dictatorship-of-ferdinand-marcos-speak-at-the-philippine-supreme-court-about-h.md) _2018-02-06 13:49:29 (First version)_
 1. [Female victims of the martial law dictatorship of Ferdinand Marcos speak at the Philippine Supreme Court about how they endured torture during Marcos' regime. ](/news/2016/09/1/female-victims-of-the-martial-law-dictatorship-of-ferdinand-marcos-speak-at-the-philippine-supreme-court-about-how-they-endured-torture-duri.md) _(Current version)_
 
 ### Related:

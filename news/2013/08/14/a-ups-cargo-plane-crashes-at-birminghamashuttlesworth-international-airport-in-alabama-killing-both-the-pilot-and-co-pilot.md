@@ -17,7 +17,7 @@ A large UPS cargo plane crashed and burst into flames, killing its pilot and cop
 
 ### Changes:
 
-1. [A UPS cargo plane crashes at Birmingham-Shuttlesworth International Airport in Alabama, killing both the pilot and co-pilot. ](/news/2013/08/14/a-ups-cargo-plane-crashes-at-birmingham-shuttlesworth-international-airport-in-alabama-killing-both-the-pilot-and-co-pilot.md) _2017-08-27 03:39:25 (First version)_
+1. [A UPS cargo plane crashes at Birmingham-Shuttlesworth International Airport in Alabama, killing both the pilot and co-pilot. ](/news/2013/08/14/a-ups-cargo-plane-crashes-at-birmingham-shuttlesworth-international-airport-in-alabama-killing-both-the-pilot-and-co-pilot.md) _2018-02-06 13:49:25 (First version)_
 1. [A UPS cargo plane crashes at Birmingham-Shuttlesworth International Airport in Alabama, killing both the pilot and co-pilot. ](/news/2013/08/14/a-ups-cargo-plane-crashes-at-birminghamashuttlesworth-international-airport-in-alabama-killing-both-the-pilot-and-co-pilot.md) _(Current version)_
 
 ### Related:

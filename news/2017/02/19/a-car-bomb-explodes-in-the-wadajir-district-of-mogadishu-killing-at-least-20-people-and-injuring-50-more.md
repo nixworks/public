@@ -15,7 +15,7 @@ Car bomb rips through a crowded market in Mogadishu, killing 39 people days afte
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A car bomb explodes in the Wadajir District of Mogadishu, killing at least 20 people and injuring 50 more. ](/news/2017/02/19/war-in-somalia-2009-present-a-car-bomb-explodes-in-the-wadajir-district-of-mogadishu-killing-at-least-20-people-and-injuring-50-more.md) _2017-08-27 03:47:50 (First version)_
+1. [War in Somalia (2009-present): A car bomb explodes in the Wadajir District of Mogadishu, killing at least 20 people and injuring 50 more. ](/news/2017/02/19/war-in-somalia-2009-present-a-car-bomb-explodes-in-the-wadajir-district-of-mogadishu-killing-at-least-20-people-and-injuring-50-more.md) _2018-02-06 13:49:30 (First version)_
 1. [A car bomb explodes in the Wadajir District of Mogadishu, killing at least 20 people and injuring 50 more. ](/news/2017/02/19/a-car-bomb-explodes-in-the-wadajir-district-of-mogadishu-killing-at-least-20-people-and-injuring-50-more.md) _(Current version)_
 
 ### Related:

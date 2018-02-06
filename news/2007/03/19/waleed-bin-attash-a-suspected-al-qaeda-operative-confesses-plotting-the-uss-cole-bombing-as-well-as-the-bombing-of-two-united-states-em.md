@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operativ
 
 ### Changes:
 
-1. [ Waleed bin Attash, a suspected al Qaeda operative, confesses plotting the USS ''Cole'' bombing as well as the bombing of two United States embassies in Africa. ](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operative-confesses-plotting-the-uss-cole-bombing-as-well-as-the-bombing-of-two-united-states.md) _2017-08-25 03:19:25 (First version)_
+1. [ Waleed bin Attash, a suspected al Qaeda operative, confesses plotting the USS ''Cole'' bombing as well as the bombing of two United States embassies in Africa. ](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operative-confesses-plotting-the-uss-cole-bombing-as-well-as-the-bombing-of-two-united-states.md) _2018-02-06 13:49:17 (First version)_
 1. [ Waleed bin Attash, a suspected al Qaeda operative, confesses plotting the USS "Cole" bombing as well as the bombing of two United States embassies in Africa. ](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operative-confesses-plotting-the-uss-cole-bombing-as-well-as-the-bombing-of-two-united-states-em.md) _(Current version)_
 
 ### Related:

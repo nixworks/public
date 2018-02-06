@@ -17,8 +17,8 @@ Formats: [HTML](/news/2015/07/31/president-benigno-aquino-iii-endorses-the-presi
 
 ### Changes:
 
-1. [Philippine presidential election, 2016:President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/philippine-presidential-election-2016-ppresident-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-se.md) _2017-08-25 03:42:29 (First version)_
-2. [Philippine presidential election, 2016:: President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/philippine-presidential-election-2016-president-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-s.md) _2017-08-27 03:42:46 (Update)_
+1. [Philippine presidential election, 2016:: President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/philippine-presidential-election-2016-president-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-s.md) _2018-02-06 13:49:27 (First version)_
+2. [Philippine presidential election, 2016:President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/philippine-presidential-election-2016-ppresident-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-se.md) _2018-02-06 13:49:27 (Update)_
 2. [President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/president-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-secretary-mar-roxas-in-2016.md) _(Current version)_
 
 ### Related:

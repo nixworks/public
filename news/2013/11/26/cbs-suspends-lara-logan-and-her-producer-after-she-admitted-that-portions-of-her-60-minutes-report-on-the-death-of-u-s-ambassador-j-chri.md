@@ -16,8 +16,8 @@ CBS suspends star reporter Lara Logan and a producer for a discredited 60 Minute
 
 ### Changes:
 
-1. [2012 Benghazi attack:CBS suspends Lara Logan and her producer after she admitted that portions of her ''60 Minutes'' report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-pcbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _2017-08-25 03:39:35 (First version)_
-2. [2012 Benghazi attack:: CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _2017-08-27 03:39:53 (Update)_
+1. [2012 Benghazi attack:CBS suspends Lara Logan and her producer after she admitted that portions of her ''60 Minutes'' report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-pcbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _2018-02-06 13:49:25 (First version)_
+2. [2012 Benghazi attack:: CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _2018-02-06 13:49:25 (Update)_
 2. [CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of-u-s-ambassador-j-chri.md) _(Current version)_
 
 ### Related:

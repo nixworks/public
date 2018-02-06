@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-int
 
 ### Changes:
 
-1. [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-contro.md) _2017-08-25 03:35:23 (First version)_
+1. [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-contro.md) _2018-02-06 13:49:23 (First version)_
 1. [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-control.md) _(Current version)_
 
 ### Related:

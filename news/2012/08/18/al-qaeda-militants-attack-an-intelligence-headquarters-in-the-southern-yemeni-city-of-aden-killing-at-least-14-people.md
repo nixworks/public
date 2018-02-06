@@ -21,8 +21,8 @@ A top Taliban commander and his deputy are among dozens of insurgents killed in 
 
 ### Changes:
 
-1. [War on Terror:Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/war-on-terror-pal-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md) _2017-08-25 03:36:17 (First version)_
-2. [War on Terror:: Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/war-on-terror-al-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md) _2017-08-27 03:36:28 (Update)_
+1. [War on Terror:Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/war-on-terror-pal-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md) _2018-02-06 13:49:23 (First version)_
+2. [War on Terror:: Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/war-on-terror-al-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md) _2018-02-06 13:49:23 (Update)_
 2. [Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/al-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md) _(Current version)_
 
 ### Related:

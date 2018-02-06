@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/7/australia-is-threatening-to-take-legal-action-ag
 
 ### Changes:
 
-1. [Whaling in Japan: Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. ](/news/2015/12/7/whaling-in-japan-australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-ant.md) _2017-08-27 03:44:14 (First version)_
+1. [Whaling in Japan: Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. ](/news/2015/12/7/whaling-in-japan-australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-ant.md) _2018-02-06 13:49:28 (First version)_
 1. [Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. ](/news/2015/12/7/australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-antarctic-ocean-a-wh.md) _(Current version)_
 
 ### Related:

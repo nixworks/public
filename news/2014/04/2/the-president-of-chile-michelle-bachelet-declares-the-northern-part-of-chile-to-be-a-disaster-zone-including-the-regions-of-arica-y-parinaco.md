@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declare
 
 ### Changes:
 
-1. [2014 Iquique earthquake:The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/2014-iquique-earthquake-pthe-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-re.md) _2017-08-25 03:40:14 (First version)_
-2. [2014 Iquique earthquake:: The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/2014-iquique-earthquake-the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-r.md) _2017-08-27 03:40:32 (Update)_
+1. [2014 Iquique earthquake:: The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/2014-iquique-earthquake-the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-r.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Iquique earthquake:The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/2014-iquique-earthquake-pthe-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-re.md) _2018-02-06 13:49:26 (Update)_
 2. [The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-regions-of-arica-y-parinaco.md) _(Current version)_
 
 ### Related:

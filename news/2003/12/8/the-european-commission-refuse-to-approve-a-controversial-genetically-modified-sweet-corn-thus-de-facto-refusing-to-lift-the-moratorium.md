@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/8/the-european-commission-refuse-to-approve-a-cont
 
 ### Changes:
 
-1. [ The European Commission refuse to approve a controversial genetically modified sweet corn, thus ''de facto'' refusing to lift the moratorium on GMOs. See also Trade war over genetically modified food.](/news/2003/12/8/the-european-commission-refuse-to-approve-a-controversial-genetically-modified-sweet-corn-thus-de-facto-refusing-to-lift-the-moratoriu.md) _2017-08-25 03:15:22 (First version)_
+1. [ The European Commission refuse to approve a controversial genetically modified sweet corn, thus ''de facto'' refusing to lift the moratorium on GMOs. See also Trade war over genetically modified food.](/news/2003/12/8/the-european-commission-refuse-to-approve-a-controversial-genetically-modified-sweet-corn-thus-de-facto-refusing-to-lift-the-moratoriu.md) _2018-02-06 13:49:15 (First version)_
 1. [ The European Commission refuse to approve a controversial genetically modified sweet corn, thus "de facto" refusing to lift the moratorium on GMOs. See also Trade war over genetically modified food.](/news/2003/12/8/the-european-commission-refuse-to-approve-a-controversial-genetically-modified-sweet-corn-thus-de-facto-refusing-to-lift-the-moratorium.md) _(Current version)_
 
 ### Related:

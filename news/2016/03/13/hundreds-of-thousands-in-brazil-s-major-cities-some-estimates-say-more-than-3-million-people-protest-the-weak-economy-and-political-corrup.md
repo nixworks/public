@@ -18,7 +18,7 @@ More than one million people marched through cities across Brazil on Sunday to p
 
 ### Changes:
 
-1. [Hundreds of thousands in Brazil's major cities, some estimates say more than 3 million people, protest the weak economy and political corruption, and call for President Dilma Rousseff's impeachment. ](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-some-estimates-say-more-than-3-million-people-protest-the-weak-economy-and-political-corr.md) _2017-08-25 03:44:52 (First version)_
+1. [Hundreds of thousands in Brazil's major cities, some estimates say more than 3 million people, protest the weak economy and political corruption, and call for President Dilma Rousseff's impeachment. ](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-some-estimates-say-more-than-3-million-people-protest-the-weak-economy-and-political-corr.md) _2018-02-06 13:49:28 (First version)_
 1. [Hundreds of thousands in Brazil's major cities, some estimates say more than 3 million people, protest the weak economy and political corruption, and call for President Dilma Rousseff's impeachment. ](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-some-estimates-say-more-than-3-million-people-protest-the-weak-economy-and-political-corrup.md) _(Current version)_
 
 ### Related:

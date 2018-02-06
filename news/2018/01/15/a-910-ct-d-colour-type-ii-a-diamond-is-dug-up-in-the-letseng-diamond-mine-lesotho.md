@@ -16,7 +16,7 @@ A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesot
 
 ### Changes:
 
-1. [An as yet unnamed, 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/an-as-yet-unnamed-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md) _2018-01-15 20:30:06 (First version)_
+1. [An as yet unnamed, 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/an-as-yet-unnamed-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md) _2018-02-06 13:49:31 (First version)_
 1. [A 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/a-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md) _(Current version)_
 
 ### Related:

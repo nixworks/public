@@ -18,8 +18,8 @@ Peace envoy Kofi Annan arrives for talks with President Bashar al-Assad amid esc
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011apresent-punited-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _2017-08-25 03:36:04 (First version)_
-2. [Syrian uprising (2011-present):: United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011-present-united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _2017-08-27 03:36:15 (Update)_
+1. [Syrian uprising (2011-present):United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011apresent-punited-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011-present-united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _2018-02-06 13:49:23 (Update)_
 2. [United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _(Current version)_
 
 ### Related:

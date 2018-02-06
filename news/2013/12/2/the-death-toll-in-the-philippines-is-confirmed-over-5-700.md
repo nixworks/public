@@ -16,8 +16,8 @@ MANILA &ndash; The official death toll from super typhoon &quot;Yolanda&quot; is
 
 ### Changes:
 
-1. [Typhoon Haiyan:The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-pthe-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _2017-08-25 03:39:36 (First version)_
-2. [Typhoon Haiyan:: The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-the-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _2017-08-27 03:39:55 (Update)_
+1. [Typhoon Haiyan:: The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-the-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-pthe-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/the-death-toll-in-the-philippines-is-confirmed-over-5-700.md) _(Current version)_
 
 ### Related:

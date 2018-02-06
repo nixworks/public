@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/31/u-s-oil-company-exxonmobil-announced-profits-fo
 
 ### Changes:
 
-1. [ U.S. oil company ExxonMobil announced profits for 2005 of {{Nowrap|$36.1 billion}}, a record amount in US corporate history. In anticipation of a public backlash, the company simultaneously posted newspaper advertisements in the US to explain its success. ](/news/2006/01/31/u-s-oil-company-exxonmobil-announced-profits-for-2005-of-nowrap-36-1-billion-a-record-amount-in-us-corporate-history-in-anticipatio.md) _2017-05-01 03:17:46 (First version)_
+1. [ U.S. oil company ExxonMobil announced profits for 2005 of {{Nowrap|$36.1 billion}}, a record amount in US corporate history. In anticipation of a public backlash, the company simultaneously posted newspaper advertisements in the US to explain its success. ](/news/2006/01/31/u-s-oil-company-exxonmobil-announced-profits-for-2005-of-nowrap-36-1-billion-a-record-amount-in-us-corporate-history-in-anticipatio.md) _2018-02-06 13:49:16 (First version)_
 1. [ U.S. oil company ExxonMobil announced profits for 2005 of $36.1 billion, a record amount in US corporate history. In anticipation of a public backlash, the company simultaneously posted newspaper advertisements in the US to explain its success. ](/news/2006/01/31/u-s-oil-company-exxonmobil-announced-profits-for-2005-of-36-1-billion-a-record-amount-in-us-corporate-history-in-anticipation-of-a-publ.md) _(Current version)_
 
 ### Related:

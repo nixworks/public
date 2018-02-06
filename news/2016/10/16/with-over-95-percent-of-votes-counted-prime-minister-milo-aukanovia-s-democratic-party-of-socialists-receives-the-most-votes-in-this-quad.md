@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-min
 
 ### Changes:
 
-1. [Montenegrin parliamentary election, 2016: With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/montenegrin-parliamentary-election-2016-with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socia.md) _2017-08-27 03:47:04 (First version)_
+1. [Montenegrin parliamentary election, 2016: With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/montenegrin-parliamentary-election-2016-with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socia.md) _2018-02-06 13:49:29 (First version)_
 1. [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md) _(Current version)_
 
 ### Related:

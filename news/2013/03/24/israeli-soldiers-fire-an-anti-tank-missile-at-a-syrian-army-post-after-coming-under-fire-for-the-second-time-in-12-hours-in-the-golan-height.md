@@ -17,8 +17,8 @@ Syrian outpost completely destroyed, leaving two wounded; defense minister warns
 
 ### Changes:
 
-1. [Golan Heights clashes (2012-present):Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/golan-heights-clashes-2012apresent-pisraeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-sec.md) _2017-08-25 03:38:00 (First version)_
-2. [Golan Heights clashes (2012-present):: Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/golan-heights-clashes-2012-present-israeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-se.md) _2017-08-27 03:38:11 (Update)_
+1. [Golan Heights clashes (2012-present):Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/golan-heights-clashes-2012apresent-pisraeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-sec.md) _2018-02-06 13:49:24 (First version)_
+2. [Golan Heights clashes (2012-present):: Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/golan-heights-clashes-2012-present-israeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-se.md) _2018-02-06 13:49:24 (Update)_
 2. [Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/israeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-second-time-in-12-hours-in-the-golan-height.md) _(Current version)_
 
 ### Related:

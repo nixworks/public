@@ -17,8 +17,8 @@ Hungarian authorities evacuate the village of Kolontar amid fears of a second wa
 
 ### Changes:
 
-1. [Ajka alumina plant accident:The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/ajka-alumina-plant-accident-pthe-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md) _2017-08-25 03:30:26 (First version)_
-2. [Ajka alumina plant accident:: The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/ajka-alumina-plant-accident-the-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md) _2017-08-27 03:30:32 (Update)_
+1. [Ajka alumina plant accident:: The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/ajka-alumina-plant-accident-the-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md) _2018-02-06 13:49:21 (First version)_
+2. [Ajka alumina plant accident:The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/ajka-alumina-plant-accident-pthe-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md) _2018-02-06 13:49:21 (Update)_
 2. [The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/the-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/12/1/jailed-palestinian-marwan-barghouti-joins-the-ra
 
 ### Changes:
 
-1. [Palestinian presidential election, 2005: Jailed Palestinian Marwan Barghouti joins the race to succeed Yasser Arafat, bringing the total to 10 candidates, drawing criticism from Arafat's Fatah movement. ](/news/2004/12/1/palestinian-presidential-election-2005-jailed-palestinian-marwan-barghouti-joins-the-race-to-succeed-yasser-arafat-bringing-the-total-to.md) _2017-08-27 03:15:29 (First version)_
+1. [Palestinian presidential election, 2005: Jailed Palestinian Marwan Barghouti joins the race to succeed Yasser Arafat, bringing the total to 10 candidates, drawing criticism from Arafat's Fatah movement. ](/news/2004/12/1/palestinian-presidential-election-2005-jailed-palestinian-marwan-barghouti-joins-the-race-to-succeed-yasser-arafat-bringing-the-total-to.md) _2018-02-06 13:49:16 (First version)_
 1. [ Jailed Palestinian Marwan Barghouti joins the race to succeed Yasser Arafat, bringing the total to 10 candidates, drawing criticism from Arafat's Fatah movement. ](/news/2004/12/1/jailed-palestinian-marwan-barghouti-joins-the-race-to-succeed-yasser-arafat-bringing-the-total-to-10-candidates-drawing-criticism-from-ar.md) _(Current version)_
 
 ### Related:

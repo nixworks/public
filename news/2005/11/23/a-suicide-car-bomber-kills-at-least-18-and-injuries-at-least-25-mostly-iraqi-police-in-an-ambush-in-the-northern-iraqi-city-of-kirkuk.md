@@ -16,9 +16,9 @@ Formats: [HTML](/news/2005/11/23/a-suicide-car-bomber-kills-at-least-18-and-inju
 
 ### Changes:
 
-1. [ Iraq War: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-p-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-o.md) _2017-05-25 03:17:25 (First version)_
-2. [ Iraq War: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-p-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md) _2017-08-25 03:17:09 (Update)_
-3. [ Iraq War:: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md) _2017-08-27 03:17:09 (Update)_
+1. [ Iraq War: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-p-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md) _2018-02-06 13:49:16 (First version)_
+2. [ Iraq War: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-p-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-o.md) _2018-02-06 13:49:16 (Update)_
+3. [ Iraq War:: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md) _2018-02-06 13:49:16 (Update)_
 3. [ A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of-kirkuk.md) _(Current version)_
 
 ### Related:

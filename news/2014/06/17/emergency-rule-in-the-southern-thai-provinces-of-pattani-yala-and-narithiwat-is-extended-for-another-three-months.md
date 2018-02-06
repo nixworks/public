@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-o
 
 ### Changes:
 
-1. [South Thailand insurgency: Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/south-thailand-insurgency-emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-month.md) _2017-08-27 03:40:52 (First version)_
+1. [South Thailand insurgency: Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/south-thailand-insurgency-emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-month.md) _2018-02-06 13:49:26 (First version)_
 1. [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md) _(Current version)_
 
 ### Related:

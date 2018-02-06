@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/10/14/the-uk-s-ministry-of-defence-will-hold-an-inves
 
 ### Changes:
 
-1. [The UK's Ministry of Defence will hold an investigation after journalists from ''The Sunday Times'' posed as lobbyists for a defence manufacturer and approached several senior retired officers to ask if they would help them secure contracts. ](/news/2012/10/14/the-uk-s-ministry-of-defence-will-hold-an-investigation-after-journalists-from-the-sunday-times-posed-as-lobbyists-for-a-defence-manufac.md) _2017-08-25 03:36:41 (First version)_
+1. [The UK's Ministry of Defence will hold an investigation after journalists from ''The Sunday Times'' posed as lobbyists for a defence manufacturer and approached several senior retired officers to ask if they would help them secure contracts. ](/news/2012/10/14/the-uk-s-ministry-of-defence-will-hold-an-investigation-after-journalists-from-the-sunday-times-posed-as-lobbyists-for-a-defence-manufac.md) _2018-02-06 13:49:24 (First version)_
 1. [The UK's Ministry of Defence will hold an investigation after journalists from "The Sunday Times" posed as lobbyists for a defence manufacturer and approached several senior retired officers to ask if they would help them secure contracts. ](/news/2012/10/14/the-uk-s-ministry-of-defence-will-hold-an-investigation-after-journalists-from-the-sunday-times-posed-as-lobbyists-for-a-defence-manufactu.md) _(Current version)_
 
 ### Related:

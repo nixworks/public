@@ -18,7 +18,7 @@ Belgian authorities reduce the threat level in Brussels from its highest level n
 
 ### Changes:
 
-1. [Paris attack aftermath: Belgian authorities reduce the threat level in Brussels from its highest level of four to three. The escalation to level four came after suspects in the ISIL attacks in Paris were linked to the city. Suspected Paris gunman, Salah Abdeslam, who lived in Brussels for several years, remains at large. ](/news/2015/11/26/paris-attack-aftermath-belgian-authorities-reduce-the-threat-level-in-brussels-from-its-highest-level-of-four-to-three-the-escalation-to-l.md) _2017-08-27 03:44:04 (First version)_
+1. [Paris attack aftermath: Belgian authorities reduce the threat level in Brussels from its highest level of four to three. The escalation to level four came after suspects in the ISIL attacks in Paris were linked to the city. Suspected Paris gunman, Salah Abdeslam, who lived in Brussels for several years, remains at large. ](/news/2015/11/26/paris-attack-aftermath-belgian-authorities-reduce-the-threat-level-in-brussels-from-its-highest-level-of-four-to-three-the-escalation-to-l.md) _2018-02-06 13:49:28 (First version)_
 1. [Belgian authorities reduce the threat level in Brussels from its highest level of four to three. The escalation to level four came after suspects in the ISIL attacks in Paris were linked to the city. Suspected Paris gunman, Salah Abdeslam, who lived in Brussels for several years, remains at large. ](/news/2015/11/26/belgian-authorities-reduce-the-threat-level-in-brussels-from-its-highest-level-of-four-to-three-the-escalation-to-level-four-came-after-sus.md) _(Current version)_
 
 ### Related:

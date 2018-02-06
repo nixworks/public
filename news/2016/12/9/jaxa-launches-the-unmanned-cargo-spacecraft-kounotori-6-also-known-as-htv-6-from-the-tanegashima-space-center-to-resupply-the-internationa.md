@@ -16,7 +16,7 @@ A robotic Japanese cargo spacecraft began its four-day journey to the Internatio
 
 ### Changes:
 
-1. [JAXA launches the unmanned cargo spacecraft Kounotori 6, also known as HTV-6, from the Tanegashima Space Center to resupply the International Space Station. ](/news/2016/12/9/jaxa-launches-the-unmanned-cargo-spacecraft-kounotori-6-also-known-as-htv-6-from-the-tanegashima-space-center-to-resupply-the-internation.md) _2017-08-25 03:47:00 (First version)_
+1. [JAXA launches the unmanned cargo spacecraft Kounotori 6, also known as HTV-6, from the Tanegashima Space Center to resupply the International Space Station. ](/news/2016/12/9/jaxa-launches-the-unmanned-cargo-spacecraft-kounotori-6-also-known-as-htv-6-from-the-tanegashima-space-center-to-resupply-the-internation.md) _2018-02-06 13:49:30 (First version)_
 1. [JAXA launches the unmanned cargo spacecraft Kounotori 6, also known as HTV-6, from the Tanegashima Space Center to resupply the International Space Station. ](/news/2016/12/9/jaxa-launches-the-unmanned-cargo-spacecraft-kounotori-6-also-known-as-htv-6-from-the-tanegashima-space-center-to-resupply-the-internationa.md) _(Current version)_
 
 ### Related:

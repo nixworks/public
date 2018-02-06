@@ -17,7 +17,7 @@ A cyclone barrels into the south-east coast of India, killing at least four peop
 
 ### Changes:
 
-1. [2016 North Indian Ocean cyclone season: Tropical Cyclone Vardah is expected to make landfall in southern India today bringing heavy rain to the city of Chennai in Tamil Nadu as well as Andhra Pradesh. At least four people have been killed and tens of thousands of people have been evacuated from low lying areas. ](/news/2016/12/12/2016-north-indian-ocean-cyclone-season-tropical-cyclone-vardah-is-expected-to-make-landfall-in-southern-india-today-bringing-heavy-rain-to.md) _2017-08-27 03:47:26 (First version)_
+1. [2016 North Indian Ocean cyclone season: Tropical Cyclone Vardah is expected to make landfall in southern India today bringing heavy rain to the city of Chennai in Tamil Nadu as well as Andhra Pradesh. At least four people have been killed and tens of thousands of people have been evacuated from low lying areas. ](/news/2016/12/12/2016-north-indian-ocean-cyclone-season-tropical-cyclone-vardah-is-expected-to-make-landfall-in-southern-india-today-bringing-heavy-rain-to.md) _2018-02-06 13:49:29 (First version)_
 1. [Tropical Cyclone Vardah is expected to make landfall in southern India today bringing heavy rain to the city of Chennai in Tamil Nadu as well as Andhra Pradesh. At least four people have been killed and tens of thousands of people have been evacuated from low lying areas. ](/news/2016/12/12/tropical-cyclone-vardah-is-expected-to-make-landfall-in-southern-india-today-bringing-heavy-rain-to-the-city-of-chennai-in-tamil-nadu-as-wel.md) _(Current version)_
 
 ### Related:

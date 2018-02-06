@@ -16,7 +16,7 @@ Tunisian security forces killed five Islamist militants after they infiltrated a
 
 ### Changes:
 
-1. [Libyan Crisis (2011-present): The Tunisian Army kills five suspected ISIL militants near the town of Ben Gardane after they infiltrated across the border from neighboring Libya. ](/news/2016/03/2/libyan-crisis-2011-present-the-tunisian-army-kills-five-suspected-isil-militants-near-the-town-of-ben-gardane-after-they-infiltrated-ac.md) _2017-08-27 03:45:06 (First version)_
+1. [Libyan Crisis (2011-present): The Tunisian Army kills five suspected ISIL militants near the town of Ben Gardane after they infiltrated across the border from neighboring Libya. ](/news/2016/03/2/libyan-crisis-2011-present-the-tunisian-army-kills-five-suspected-isil-militants-near-the-town-of-ben-gardane-after-they-infiltrated-ac.md) _2018-02-06 13:49:28 (First version)_
 1. [The Tunisian Army kills five suspected ISIL militants near the town of Ben Gardane after they infiltrated across the border from neighboring Libya. ](/news/2016/03/2/the-tunisian-army-kills-five-suspected-isil-militants-near-the-town-of-ben-gardane-after-they-infiltrated-across-the-border-from-neighboring.md) _(Current version)_
 
 ### Related:

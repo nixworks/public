@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/29/the-front-for-the-liberation-of-the-enclave-of-
 
 ### Changes:
 
-1. [Cabinda War: The Front for the Liberation of the Enclave of Cabinda (FLEC) says it has killed nine Angolan soldiers and wounded 14 others in recent clashes in the oil-rich Cabinda Province. ](/news/2016/07/29/cabinda-war-the-front-for-the-liberation-of-the-enclave-of-cabinda-flec-says-it-has-killed-nine-angolan-soldiers-and-wounded-14-others-in.md) _2017-08-27 03:46:34 (First version)_
+1. [Cabinda War: The Front for the Liberation of the Enclave of Cabinda (FLEC) says it has killed nine Angolan soldiers and wounded 14 others in recent clashes in the oil-rich Cabinda Province. ](/news/2016/07/29/cabinda-war-the-front-for-the-liberation-of-the-enclave-of-cabinda-flec-says-it-has-killed-nine-angolan-soldiers-and-wounded-14-others-in.md) _2018-02-06 13:49:29 (First version)_
 1. [The Front for the Liberation of the Enclave of Cabinda (FLEC) says it has killed nine Angolan soldiers and wounded 14 others in recent clashes in the oil-rich Cabinda Province. ](/news/2016/07/29/the-front-for-the-liberation-of-the-enclave-of-cabinda-flec-says-it-has-killed-nine-angolan-soldiers-and-wounded-14-others-in-recent-clash.md) _(Current version)_
 
 ### Related:

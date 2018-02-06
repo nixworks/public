@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of
 
 ### Changes:
 
-1. [ Over 800,000 people in the Zhejiang province of China are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-w.md) _2017-08-25 03:16:47 (First version)_
+1. [ Over 800,000 people in the Zhejiang province of China are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-w.md) _2018-02-06 13:49:16 (First version)_
 1. [ Over 800,000 people in the Zhejiang province of China are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-wi.md) _(Current version)_
 
 ### Related:

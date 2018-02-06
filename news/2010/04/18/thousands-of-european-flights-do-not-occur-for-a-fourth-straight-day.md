@@ -24,6 +24,6 @@ Tens of thousands of people gathered in the city of Krakow on Sunday for the sta
 
 ### Changes:
 
-1. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-pthousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _2017-08-25 03:27:40 (First version)_
-2. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:: Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _2017-08-27 03:27:37 (Update)_
+1. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:: Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _2018-02-06 13:49:19 (First version)_
+2. [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-pthousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _2018-02-06 13:49:19 (Update)_
 2. [Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md) _(Current version)_

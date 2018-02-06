@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-s
 
 ### Changes:
 
-1. [ Polish police arrest five men and recover the stolen ''Arbeit macht frei'' sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust ](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-stolen-arbeit-macht-frei-sign-that-hung-over-the-nazi-death-camp-at-auschwitz-where-milli.md) _2017-08-25 03:26:39 (First version)_
+1. [ Polish police arrest five men and recover the stolen ''Arbeit macht frei'' sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust ](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-stolen-arbeit-macht-frei-sign-that-hung-over-the-nazi-death-camp-at-auschwitz-where-milli.md) _2018-02-06 13:49:19 (First version)_
 1. [ Polish police arrest five men and recover the stolen "Arbeit macht frei" sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust ](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-stolen-arbeit-macht-frei-sign-that-hung-over-the-nazi-death-camp-at-auschwitz-where-million.md) _(Current version)_
 
 ### Related:

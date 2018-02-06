@@ -28,8 +28,8 @@ China summoned Japan’s ambassador to protest sovereignty of islands in dispute
 
 ### Changes:
 
-1. [Senkaku Islands dispute:China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/senkaku-islands-dispute-pchina-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignty.md) _2017-08-25 03:36:29 (First version)_
-2. [Senkaku Islands dispute:: China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/senkaku-islands-dispute-china-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignt.md) _2017-08-27 03:36:39 (Update)_
+1. [Senkaku Islands dispute:China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/senkaku-islands-dispute-pchina-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignty.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/senkaku-islands-dispute-china-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignt.md) _2018-02-06 13:49:23 (Update)_
 2. [China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/china-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignty-over-the-territory.md) _(Current version)_
 
 ### Related:

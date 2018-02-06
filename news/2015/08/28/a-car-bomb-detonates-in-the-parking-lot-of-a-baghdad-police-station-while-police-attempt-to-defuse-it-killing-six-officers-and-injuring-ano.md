@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-ba
 
 ### Changes:
 
-1. [Iraq War (2014-present): A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/iraq-war-2014-present-a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-si.md) _2017-08-27 03:42:55 (First version)_
+1. [Iraq War (2014-present): A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/iraq-war-2014-present-a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-si.md) _2018-02-06 13:49:27 (First version)_
 1. [A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-six-officers-and-injuring-ano.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Two thousand Chinese soldiers are working to plug an &#034;extremely dangerous&#
 
 ### Changes:
 
-1. [ Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-sixty-thousand-people-rema.md) _2017-08-25 03:22:10 (First version)_
-2. [ 2008 Sichuan earthquake: Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/2008-sichuan-earthquake-xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-si.md) _2017-08-27 03:22:05 (Update)_
+1. [ Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-sixty-thousand-people-rema.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Sichuan earthquake: Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/2008-sichuan-earthquake-xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-si.md) _2018-02-06 13:49:18 (Update)_
 2. [ Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-sixty-thousand-people-remai.md) _(Current version)_
 
 ### Related:

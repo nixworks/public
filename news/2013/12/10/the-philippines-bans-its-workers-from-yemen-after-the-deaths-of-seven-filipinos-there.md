@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/10/the-philippines-bans-its-workers-from-yemen-aft
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/al-qaeda-insurgency-in-yemen-pthe-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md) _2017-08-25 03:39:39 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/al-qaeda-insurgency-in-yemen-the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md) _2017-08-27 03:39:57 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/al-qaeda-insurgency-in-yemen-the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md) _2018-02-06 13:49:25 (First version)_
+2. [Al-Qaeda insurgency in Yemen:The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/al-qaeda-insurgency-in-yemen-pthe-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md) _2018-02-06 13:49:25 (Update)_
 2. [The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md) _(Current version)_
 
 ### Related:

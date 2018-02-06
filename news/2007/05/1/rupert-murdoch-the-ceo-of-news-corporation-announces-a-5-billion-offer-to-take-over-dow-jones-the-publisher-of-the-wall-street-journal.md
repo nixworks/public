@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-annou
 
 ### Changes:
 
-1. [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the ''Wall Street Journal''. ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journa.md) _2017-08-25 03:19:44 (First version)_
+1. [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the ''Wall Street Journal''. ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journa.md) _2018-02-06 13:49:17 (First version)_
 1. [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the "Wall Street Journal". ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journal.md) _(Current version)_
 
 ### Related:

@@ -18,9 +18,9 @@ Formats: [HTML](/news/2008/12/27/israel-launches-operation-cast-lead-against-ham
 
 ### Changes:
 
-1. [ Gaza-Israel conflict: Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/gazaaisrael-conflict-p-israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at.md) _2017-05-25 03:23:56 (First version)_
-2. [ Gaza-Israel conflict: Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/gazaaisrael-conflict-p-israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at-l.md) _2017-08-25 03:23:22 (Update)_
-3. [ Gaza-Israel conflict:: Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/gaza-israel-conflict-israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at-l.md) _2017-08-27 03:23:14 (Update)_
+1. [ Gaza-Israel conflict: Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/gazaaisrael-conflict-p-israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at.md) _2018-02-06 13:49:18 (First version)_
+2. [ Gaza-Israel conflict: Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/gazaaisrael-conflict-p-israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at-l.md) _2018-02-06 13:49:18 (Update)_
+3. [ Gaza-Israel conflict:: Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/gaza-israel-conflict-israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at-l.md) _2018-02-06 13:49:18 (Update)_
 3. [ Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at-least-800.md) _(Current version)_
 
 ### Related:

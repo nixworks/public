@@ -16,7 +16,7 @@ Three suspected burglars who stole millions of dollars from two New York banks w
 
 ### Changes:
 
-1. [New York City Police Commissioner Bill Bratton announces the arraignment of three suspects in the theft of more than $5 million in cash and valuables, including jewelry and baseball cards, from banks in Brooklyn and Queens, in April and May of this year. ](/news/2016/07/26/new-york-city-police-commissioner-bill-bratton-announces-the-arraignment-of-three-suspects-in-the-theft-of-more-than-5-million-in-cash-an.md) _2017-08-25 03:46:10 (First version)_
+1. [New York City Police Commissioner Bill Bratton announces the arraignment of three suspects in the theft of more than $5 million in cash and valuables, including jewelry and baseball cards, from banks in Brooklyn and Queens, in April and May of this year. ](/news/2016/07/26/new-york-city-police-commissioner-bill-bratton-announces-the-arraignment-of-three-suspects-in-the-theft-of-more-than-5-million-in-cash-an.md) _2018-02-06 13:49:29 (First version)_
 1. [New York City Police Commissioner Bill Bratton announces the arraignment of three suspects in the theft of more than $5 million in cash and valuables, including jewelry and baseball cards, from banks in Brooklyn and Queens, in April and May of this year. ](/news/2016/07/26/new-york-city-police-commissioner-bill-bratton-announces-the-arraignment-of-three-suspects-in-the-theft-of-more-than-5-million-in-cash-and.md) _(Current version)_
 
 ### Related:

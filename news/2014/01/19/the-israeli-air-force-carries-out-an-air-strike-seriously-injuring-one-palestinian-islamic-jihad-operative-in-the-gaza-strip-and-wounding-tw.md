@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/19/the-israeli-air-force-carries-out-an-air-strike
 
 ### Changes:
 
-1. [Gaza-Israel conflict:The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gazaaisrael-conflict-pthe-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-ga.md) _2017-08-25 03:39:53 (First version)_
-2. [Gaza-Israel conflict:: The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gaza-israel-conflict-the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-g.md) _2017-08-27 03:40:12 (Update)_
+1. [Gaza-Israel conflict:The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gazaaisrael-conflict-pthe-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-ga.md) _2018-02-06 13:49:25 (First version)_
+2. [Gaza-Israel conflict:: The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gaza-israel-conflict-the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-g.md) _2018-02-06 13:49:25 (Update)_
 2. [The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-gaza-strip-and-wounding-tw.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-m
 
 ### Changes:
 
-1. [French presidential election, 2017: With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/french-presidential-election-2017-with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-nation.md) _2017-08-27 03:48:11 (First version)_
+1. [French presidential election, 2017: With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/french-presidential-election-2017-with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-nation.md) _2018-02-06 13:49:30 (First version)_
 1. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _(Current version)_
 
 ### Related:

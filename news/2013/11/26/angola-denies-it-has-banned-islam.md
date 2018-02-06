@@ -16,8 +16,8 @@ An official at the Angolan Embassy said Angola is a country that does not interf
 
 ### Changes:
 
-1. [Islam in Angola:Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-pangola-denies-it-has-banned-islam.md) _2017-08-25 03:39:35 (First version)_
-2. [Islam in Angola:: Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-angola-denies-it-has-banned-islam.md) _2017-08-27 03:39:53 (Update)_
+1. [Islam in Angola:Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-pangola-denies-it-has-banned-islam.md) _2018-02-06 13:49:25 (First version)_
+2. [Islam in Angola:: Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-angola-denies-it-has-banned-islam.md) _2018-02-06 13:49:25 (Update)_
 2. [Angola denies it has banned Islam. ](/news/2013/11/26/angola-denies-it-has-banned-islam.md) _(Current version)_
 
 ### Related:

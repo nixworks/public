@@ -16,7 +16,7 @@ Thai PM Yingluck Shinawatra is being investigated over a loss-making rice subsid
 
 ### Changes:
 
-1. [2013-14 Thai political crisis: Yingluck Shinawatra is being implicated in a controversial rice subsidy scheme. ](/news/2014/01/16/2013-14-thai-political-crisis-yingluck-shinawatra-is-being-implicated-in-a-controversial-rice-subsidy-scheme.md) _2017-08-27 03:40:11 (First version)_
+1. [2013-14 Thai political crisis: Yingluck Shinawatra is being implicated in a controversial rice subsidy scheme. ](/news/2014/01/16/2013-14-thai-political-crisis-yingluck-shinawatra-is-being-implicated-in-a-controversial-rice-subsidy-scheme.md) _2018-02-06 13:49:25 (First version)_
 1. [Yingluck Shinawatra is being implicated in a controversial rice subsidy scheme. ](/news/2014/01/16/yingluck-shinawatra-is-being-implicated-in-a-controversial-rice-subsidy-scheme.md) _(Current version)_
 
 ### Related:

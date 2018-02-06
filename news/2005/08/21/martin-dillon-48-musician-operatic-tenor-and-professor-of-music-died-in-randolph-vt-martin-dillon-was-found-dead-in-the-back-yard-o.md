@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/08/21/martin-dillon-48-musician-operatic-tenor-and-pr
 
 ### Changes:
 
-1. [ Martin Dillon, 48, musician, operatic tenor, and professor of music, died in Randolph, VT. Martin Dillon was found dead, in the back yard of a Highland Avenue residence, in Randolph, VT. Musicians and supporters of the Central Vermont Chamber Music Festival ](/news/2005/08/21/martin-dillon-48-musician-operatic-tenor-and-professor-of-music-died-in-randolph-vt-martin-dillon-was-found-dead-in-the-back-yard.md) _2017-08-25 03:16:42 (First version)_
+1. [ Martin Dillon, 48, musician, operatic tenor, and professor of music, died in Randolph, VT. Martin Dillon was found dead, in the back yard of a Highland Avenue residence, in Randolph, VT. Musicians and supporters of the Central Vermont Chamber Music Festival ](/news/2005/08/21/martin-dillon-48-musician-operatic-tenor-and-professor-of-music-died-in-randolph-vt-martin-dillon-was-found-dead-in-the-back-yard.md) _2018-02-06 13:49:16 (First version)_
 1. [ Martin Dillon, 48, musician, operatic tenor, and professor of music, died in Randolph, VT. Martin Dillon was found dead, in the back yard of a Highland Avenue residence, in Randolph, VT. Musicians and supporters of the Central Vermont Chamber Music Festival ](/news/2005/08/21/martin-dillon-48-musician-operatic-tenor-and-professor-of-music-died-in-randolph-vt-martin-dillon-was-found-dead-in-the-back-yard-o.md) _(Current version)_
 
 ### Related:

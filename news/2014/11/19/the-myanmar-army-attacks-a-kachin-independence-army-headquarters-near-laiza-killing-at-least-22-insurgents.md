@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Kachin conflict: The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/kachin-conflict-the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md) _2017-08-27 03:41:31 (First version)_
+1. [Kachin conflict: The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/kachin-conflict-the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md) _2018-02-06 13:49:26 (First version)_
 1. [The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md) _(Current version)_
 
 ### Related:

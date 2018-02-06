@@ -18,7 +18,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [ The BNFL nuclear plant at Sellafield, in the United Kingdom, reports that 30 kg (66 lb) of plutonium is "unaccounted for". This amount of missing plutonium would be sufficient to make seven atomic bombs. The UK Atomic Energy Authority states that the discrepancy in the record keeping is merely an auditing issue, and that there was no "real loss" of plutonium. ](/news/2005/02/17/the-bnfl-nuclear-plant-at-sellafield-in-the-united-kingdom-reports-that-30-kg-66-lb-of-plutonium-is-unaccounted-for-this-amount-of.md) _2017-08-25 03:15:40 (First version)_
+1. [ The BNFL nuclear plant at Sellafield, in the United Kingdom, reports that 30 kg (66 lb) of plutonium is "unaccounted for". This amount of missing plutonium would be sufficient to make seven atomic bombs. The UK Atomic Energy Authority states that the discrepancy in the record keeping is merely an auditing issue, and that there was no "real loss" of plutonium. ](/news/2005/02/17/the-bnfl-nuclear-plant-at-sellafield-in-the-united-kingdom-reports-that-30-kg-66-lb-of-plutonium-is-unaccounted-for-this-amount-of.md) _2018-02-06 13:49:16 (First version)_
 1. [ The BNFL nuclear plant at Sellafield, in the United Kingdom, reports that 30 kg (66 lb) of plutonium is "unaccounted for". This amount of missing plutonium would be sufficient to make seven atomic bombs. The UK Atomic Energy Authority states that the discrepancy in the record keeping is merely an auditing issue, and that there was no "real loss" of plutonium. ](/news/2005/02/17/the-bnfl-nuclear-plant-at-sellafield-in-the-united-kingdom-reports-that-30-kg-66-lb-of-plutonium-is-unaccounted-for-this-amount-of-m.md) _(Current version)_
 
 ### Related:

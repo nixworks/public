@@ -16,7 +16,7 @@ The Army approved the requests of 22 women to commission to become officers in t
 
 ### Changes:
 
-1. [The United States Army approves 22 soldiers requests to become the service's first female infantry and armor unit officers. Thirteen women will enter the armor branch, and nine others will enter infantry as second lieutenants. ](/news/2016/04/16/the-united-states-army-approves-22-soldiers-requests-to-become-the-service-s-first-female-infantry-and-armor-unit-officers-thirteen-women.md) _2017-08-25 03:45:16 (First version)_
+1. [The United States Army approves 22 soldiers requests to become the service's first female infantry and armor unit officers. Thirteen women will enter the armor branch, and nine others will enter infantry as second lieutenants. ](/news/2016/04/16/the-united-states-army-approves-22-soldiers-requests-to-become-the-service-s-first-female-infantry-and-armor-unit-officers-thirteen-women.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Army approves 22 soldiers requests to become the service's first female infantry and armor unit officers. Thirteen women will enter the armor branch, and nine others will enter infantry as second lieutenants. ](/news/2016/04/16/the-united-states-army-approves-22-soldiers-requests-to-become-the-service-s-first-female-infantry-and-armor-unit-officers-thirteen-women-w.md) _(Current version)_
 
 ### Related:

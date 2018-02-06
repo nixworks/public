@@ -18,7 +18,7 @@ In the wake of questions of accuracy, a survey by the science journal Nature fin
 
 ### Changes:
 
-1. [ A comparison of 42 articles by the journal ''Nature'' concludes that Wikipedia is almost as accurate on science topics as the ''Encyclopdia Britannica''. The study also notes that Wikipedia's writing is more disorganized than Britannica's. ](/news/2005/12/15/a-comparison-of-42-articles-by-the-journal-nature-concludes-that-wikipedia-is-almost-as-accurate-on-science-topics-as-the-encyclopaedi.md) _2017-08-25 03:17:16 (First version)_
+1. [ A comparison of 42 articles by the journal ''Nature'' concludes that Wikipedia is almost as accurate on science topics as the ''Encyclopdia Britannica''. The study also notes that Wikipedia's writing is more disorganized than Britannica's. ](/news/2005/12/15/a-comparison-of-42-articles-by-the-journal-nature-concludes-that-wikipedia-is-almost-as-accurate-on-science-topics-as-the-encyclopaedi.md) _2018-02-06 13:49:16 (First version)_
 1. [ A comparison of 42 articles by the journal "Nature" concludes that Wikipedia is almost as accurate on science topics as the "Encyclopdia Britannica". The study also notes that Wikipedia's writing is more disorganized than Britannica's. ](/news/2005/12/15/a-comparison-of-42-articles-by-the-journal-nature-concludes-that-wikipedia-is-almost-as-accurate-on-science-topics-as-the-encyclopaedia-b.md) _(Current version)_
 
 ### Related:

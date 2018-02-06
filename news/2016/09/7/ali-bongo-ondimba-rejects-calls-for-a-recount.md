@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/7/ali-bongo-ondimba-rejects-calls-for-a-recount.ht
 
 ### Changes:
 
-1. [Gabonese presidential election, 2016: Ali Bongo Ondimba rejects calls for a recount. ](/news/2016/09/7/gabonese-presidential-election-2016-ali-bongo-ondimba-rejects-calls-for-a-recount.md) _2017-08-27 03:46:47 (First version)_
+1. [Gabonese presidential election, 2016: Ali Bongo Ondimba rejects calls for a recount. ](/news/2016/09/7/gabonese-presidential-election-2016-ali-bongo-ondimba-rejects-calls-for-a-recount.md) _2018-02-06 13:49:29 (First version)_
 1. [Ali Bongo Ondimba rejects calls for a recount. ](/news/2016/09/7/ali-bongo-ondimba-rejects-calls-for-a-recount.md) _(Current version)_
 
 ### Related:

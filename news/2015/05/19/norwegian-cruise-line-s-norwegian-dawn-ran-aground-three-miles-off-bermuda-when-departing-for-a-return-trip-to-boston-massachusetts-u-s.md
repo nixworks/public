@@ -17,7 +17,7 @@ A Norwegian cruise ship has been freed after becoming stuck on a reef for more t
 
 ### Changes:
 
-1. [ Norwegian Cruise Line's ''Norwegian Dawn'' ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u.md) _2017-08-25 03:42:03 (First version)_
+1. [ Norwegian Cruise Line's ''Norwegian Dawn'' ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u.md) _2018-02-06 13:49:27 (First version)_
 1. [ Norwegian Cruise Line's "Norwegian Dawn" ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u-s.md) _(Current version)_
 
 ### Related:

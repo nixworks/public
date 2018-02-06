@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-
 
 ### Changes:
 
-1. [ A Scottish PS1 banknote, dated 1836, sells for a world record PS9,000 price at auction. ](/news/2009/09/23/a-scottish-aps1-banknote-dated-1836-sells-for-a-world-record-aps9-000-price-at-auction.md) _2017-08-25 03:25:50 (First version)_
+1. [ A Scottish PS1 banknote, dated 1836, sells for a world record PS9,000 price at auction. ](/news/2009/09/23/a-scottish-aps1-banknote-dated-1836-sells-for-a-world-record-aps9-000-price-at-auction.md) _2018-02-06 13:49:19 (First version)_
 1. [ A Scottish GBP1 banknote, dated 1836, sells for a world record GBP9,000 price at auction. ](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-a-world-record-agbp9-000-price-at-auction.md) _(Current version)_
 
 ### Related:

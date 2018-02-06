@@ -17,7 +17,7 @@ Islamic State militants fighting in Iraq and Syria released a video on Thursday 
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Islamic State release a video purporting to be from British journalist John Cantlie as propaganda. ](/news/2014/09/18/islamic-state-of-iraq-and-the-levant-islamic-state-release-a-video-purporting-to-be-from-british-journalist-john-cantlie-as-propaganda.md) _2017-08-27 03:41:18 (First version)_
+1. [Islamic State of Iraq and the Levant: Islamic State release a video purporting to be from British journalist John Cantlie as propaganda. ](/news/2014/09/18/islamic-state-of-iraq-and-the-levant-islamic-state-release-a-video-purporting-to-be-from-british-journalist-john-cantlie-as-propaganda.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State release a video purporting to be from British journalist John Cantlie as propaganda. ](/news/2014/09/18/islamic-state-release-a-video-purporting-to-be-from-british-journalist-john-cantlie-as-propaganda.md) _(Current version)_
 
 ### Related:

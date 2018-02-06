@@ -16,7 +16,7 @@ BAGHDAD – The three Americans who were abducted in Baghdad last month have bee
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Three Americans abducted last month in Baghdad are freed by the Iraqi National Intelligence Service. ](/news/2016/02/16/iraqi-civil-war-2014-present-three-americans-abducted-last-month-in-baghdad-are-freed-by-the-iraqi-national-intelligence-service.md) _2017-08-27 03:44:55 (First version)_
+1. [Iraqi Civil War (2014-present): Three Americans abducted last month in Baghdad are freed by the Iraqi National Intelligence Service. ](/news/2016/02/16/iraqi-civil-war-2014-present-three-americans-abducted-last-month-in-baghdad-are-freed-by-the-iraqi-national-intelligence-service.md) _2018-02-06 13:49:28 (First version)_
 1. [Three Americans abducted last month in Baghdad are freed by the Iraqi National Intelligence Service. ](/news/2016/02/16/three-americans-abducted-last-month-in-baghdad-are-freed-by-the-iraqi-national-intelligence-service.md) _(Current version)_
 
 ### Related:

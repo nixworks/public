@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-on
 
 ### Changes:
 
-1. [War in Donbass: Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/war-in-donbass-artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fight.md) _2017-08-27 03:41:52 (First version)_
+1. [War in Donbass: Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/war-in-donbass-artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fight.md) _2018-02-06 13:49:26 (First version)_
 1. [Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fighting.md) _(Current version)_
 
 ### Related:

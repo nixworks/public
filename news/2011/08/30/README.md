@@ -9,7 +9,7 @@ _Context: Russia, Republic of Chechnya, Grozny_
 
 ##### Libya
 ### [The Libyan National Transitional Council gives an ultimatum to supporters of Muammar Gaddafi in Sirte to surrender by the end of Eid ul-Fitr on Saturday. ](/news/2011/08/30/the-libyan-national-transitional-council-gives-an-ultimatum-to-supporters-of-muammar-gaddafi-in-sirte-to-surrender-by-the-end-of-eid-ul-fitr.md)
-_Context: National Transitional Council, Eid ul-Fitr, Sirte, Muammar Gaddafi, Libya_
+_Context: Muammar Gaddafi, Eid ul-Fitr, Sirte, National Transitional Council, Libya_
 
 ##### Muslim
 ### [Muslims celebrate Eid ul-Fitr marking the end of Ramadan, the month of fasting. In Indonesia, however, the government rules that the end of Ramadan should be delayed one day. ](/news/2011/08/30/muslims-celebrate-eid-ul-fitr-marking-the-end-of-ramadan-the-month-of-fasting-in-indonesia-however-the-government-rules-that-the-end-of.md)
@@ -29,7 +29,7 @@ _Context: Gujarat, Monsoon, India_
 
 ##### coal miner
 ### [Nineteen coal miners are rescued from a flooded pit in China's Heilongjiang Province. ](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.md)
-_Context: coal miner, China, Heilongjiang Province_
+_Context: coal miner, Heilongjiang Province, China_
 
 ##### Popocatepetl
 ### [The Popocatepetl volcano south of Mexico City starts spewing ash into the sky. ](/news/2011/08/30/the-popocatepetl-volcano-south-of-mexico-city-starts-spewing-ash-into-the-sky.md)
@@ -37,7 +37,7 @@ _Context: Popocatepetl, Mexico City_
 
 ##### TTC
 ### [A TTC bus collides with a hydraulic crane mounted on a construction truck on Lawrence Avenue Toronto, killing one and injuring thirteen, in the first such incident since the Russell Hill subway accident in 1995. ](/news/2011/08/30/a-ttc-bus-collides-with-a-hydraulic-crane-mounted-on-a-construction-truck-on-lawrence-avenue-toronto-killing-one-and-injuring-thirteen-in.md)
-_Context: Russell Hill subway accident, Toronto, Lawrence Avenue, TTC_
+_Context: Lawrence Avenue, Russell Hill subway accident, TTC, Toronto_
 
 ##### Atlanta
 ### [While reportedly on his way to surrender to police in Atlanta, Georgia to face murder charges, former National Basketball Association player Javaris Crittenton is arrested by the FBI at John Wayne Airport in Orange County, California. ](/news/2011/08/30/while-reportedly-on-his-way-to-surrender-to-police-in-atlanta-georgia-to-face-murder-charges-former-national-basketball-association-player.md)

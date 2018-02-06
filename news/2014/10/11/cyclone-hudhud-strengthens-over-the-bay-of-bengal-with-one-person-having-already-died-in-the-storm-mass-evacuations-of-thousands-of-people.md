@@ -17,7 +17,7 @@ India has begun evacuating thousands of people from fishing villages as it brace
 
 ### Changes:
 
-1. [2014 North Indian Ocean cyclone season: Cyclone Hudhud strengthens over the Bay of Bengal with one person having already died in the storm. Mass evacuations of thousands of people is occurring as the storm approaches the east coast. ](/news/2014/10/11/2014-north-indian-ocean-cyclone-season-cyclone-hudhud-strengthens-over-the-bay-of-bengal-with-one-person-having-already-died-in-the-storm.md) _2017-08-27 03:41:23 (First version)_
+1. [2014 North Indian Ocean cyclone season: Cyclone Hudhud strengthens over the Bay of Bengal with one person having already died in the storm. Mass evacuations of thousands of people is occurring as the storm approaches the east coast. ](/news/2014/10/11/2014-north-indian-ocean-cyclone-season-cyclone-hudhud-strengthens-over-the-bay-of-bengal-with-one-person-having-already-died-in-the-storm.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Hudhud strengthens over the Bay of Bengal with one person having already died in the storm. Mass evacuations of thousands of people is occurring as the storm approaches the east coast. ](/news/2014/10/11/cyclone-hudhud-strengthens-over-the-bay-of-bengal-with-one-person-having-already-died-in-the-storm-mass-evacuations-of-thousands-of-people.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ Renewed clashes broke out in Bahrain overnight between hundreds of anti-governme
 
 ##### RKK
 ### [One RKK (Runda Kumpulan Kecil) separatist group member and a Thai policeman are killed in a firefight in the village of Ruso in Thailand's Narathiwat Province. ](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.md)
-_Context: Thai police officers, Ruso, Thailand, RKK, Narathiwat_
+_Context: RKK, Ruso, Narathiwat, Thai police officers, Thailand_
 
 ##### Sudan
 ### [Sudan launches a fresh incursion into South Sudan. ](/news/2012/04/22/sudan-launches-a-fresh-incursion-into-south-sudan.md)
@@ -25,7 +25,7 @@ The 32nd London Marathon sees more than 37,500 elite runners, amateurs and celeb
 
 ##### Egypt
 ### [Egyptian officials scrap a deeply unpopular agreement to supply Israel with natural gas. Former President of Egypt Hosni Mubarak, ousted in last year's revolution, had been accused of selling the gas too cheaply. ](/news/2012/04/22/egyptian-officials-scrap-a-deeply-unpopular-agreement-to-supply-israel-with-natural-gas-former-president-of-egypt-hosni-mubarak-ousted-in.md)
-_Context: Egypt, President, Israel, 2011 Egyptian revolution, Hosni Mubarak, natural gas_
+_Context: Egypt, natural gas, Hosni Mubarak, Israel, President, 2011 Egyptian revolution_
 
 ##### 
 ### [U.S. and Afghan negotiators finalise an agreement concerning the continuing U.S. presence in Afghanistan after the U.S. withdraws its troops at the end of 2014. ](/news/2012/04/22/u-s-and-afghan-negotiators-finalise-an-agreement-concerning-the-continuing-u-s-presence-in-afghanistan-after-the-u-s-withdraws-its-troops.md)
@@ -37,7 +37,7 @@ The US Army has investigated 56 soldiers in Afghanistan on suspicion of using or
 
 ##### Russia
 ### [Russia and China begin naval exercises in the Yellow Sea. ](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.md)
-_Context: Yellow Sea, naval exercise, China, Russia_
+_Context: Yellow Sea, naval exercise, Russia, China_
 
 ##### France
 ### [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md)

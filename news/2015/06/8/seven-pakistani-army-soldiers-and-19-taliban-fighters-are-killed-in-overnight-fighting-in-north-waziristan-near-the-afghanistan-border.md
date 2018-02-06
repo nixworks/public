@@ -16,7 +16,7 @@ Seven Pakistani soldiers and 19 Taliban fighters killed in overnight fighting in
 
 ### Changes:
 
-1. [War in North-West Pakistan: Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/war-in-north-west-pakistan-seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near.md) _2017-08-27 03:42:30 (First version)_
+1. [War in North-West Pakistan: Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/war-in-north-west-pakistan-seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near.md) _2018-02-06 13:49:27 (First version)_
 1. [Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near-the-afghanistan-border.md) _(Current version)_
 
 ### Related:

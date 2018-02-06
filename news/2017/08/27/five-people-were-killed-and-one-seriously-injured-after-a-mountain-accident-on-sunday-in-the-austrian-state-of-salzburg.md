@@ -16,7 +16,7 @@ Five climbers were killed and one seriously injured after a mountain accident on
 
 ### Changes:
 
-1. [Mountaineering deaths in Austria: Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/mountaineering-deaths-in-austria-five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-stat.md) _2017-08-27 17:30:05 (First version)_
+1. [Mountaineering deaths in Austria: Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/mountaineering-deaths-in-austria-five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-stat.md) _2018-02-06 13:49:31 (First version)_
 1. [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md) _(Current version)_
 
 ### Related:

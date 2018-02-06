@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/02/11/insurgents-launch-an-attack-on-the-strategic-ci
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/northern-mali-conflict-2012apresent-pinsurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a.md) _2017-08-25 03:37:30 (First version)_
-2. [Northern Mali conflict (2012-present):: Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/northern-mali-conflict-2012-present-insurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking.md) _2017-08-27 03:37:40 (Update)_
+1. [Northern Mali conflict (2012-present):Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/northern-mali-conflict-2012apresent-pinsurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/northern-mali-conflict-2012-present-insurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking.md) _2018-02-06 13:49:24 (Update)_
 2. [Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/insurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a-day-long-firefight-that-included-malian.md) _(Current version)_
 
 ### Related:

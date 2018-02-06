@@ -21,7 +21,7 @@ At least 22 officers killed and hostages held as regional leaders meet in Pakist
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-led coalition airstrikes, targeting Houthi rebels battling pro-government fighters, killed and wounded dozens in the port city of Mocha, according to Yemeni security officials. Around 35 fighters on both sides were killed in the battle over a key military base near the city of Taiz. ](/news/2015/12/8/saudi-led-coalition-airstrikes-targeting-houthi-rebels-battling-pro-government-fighters-killed-and-wounded-dozens-in-the-port-city-of-moch.md)
-_Context: Houthi, Saudi Arabian-led intervention in Yemen, Mocha, Yemeni, Yemeni Civil War (2015), Taiz, Yemen_
+_Context: Yemeni, Yemeni Civil War (2015), Yemen, Mocha, Houthi, Saudi-led intervention in Yemen, Taiz_
 
 ##### Russian military intervention
 ### [For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-missiles-launched-from-a-kilo-cla.md)
@@ -31,7 +31,7 @@ Russia has, for the first time, targeted Islamic State targets in Syria with Kal
 ### [Four Egyptian security personnel are killed and another four are injured by a roadside bomb near the border town Rafah in the Sinai Peninsula. Islamist militants are suspected to have remotely detonated the device as an armored vehicle drove by the town's center, near the border with the Gaza Strip and Israel, security sources told Ahram Online. ](/news/2015/12/8/four-egyptian-security-personnel-are-killed-and-another-four-are-injured-by-a-roadside-bomb-near-the-border-town-rafah-in-the-sinai-peninsul.md)
 A roadside bombing killed four Egyptian security personnel in the Sinai Peninsula border town of Rafah.
 
-##### British
+##### United Kingdom
 ### [UK-based Anglo American plc (AAUKF) announces plans to slash 85k jobs and shed 60% of assets over the next several years; it will also halt dividend payments for the rest of 2015-16 and cut capital expenditures. The company cited depressed commodity prices for its actions. ](/news/2015/12/8/uk-based-anglo-american-plc-aaukf-announces-plans-to-slash-85k-jobs-and-shed-60-of-assets-over-the-next-several-years-it-will-also-halt.md)
 Mining giant Anglo American will shed about 85,000 jobs as it sells off 60% of its assets in response to a slump in commodity prices. 
 

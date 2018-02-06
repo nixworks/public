@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-w
 
 ### Changes:
 
-1. [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The {{USS|Essex|LHD-2}} was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-uss-essex-lhd-2-was-prevented-from-l.md) _2017-05-01 03:17:23 (First version)_
-2. [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The Essex|LHD-2 was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-essex-lhd-2-was-prevented-from-leaving-t.md) _2017-08-29 03:17:07 (Update)_
+1. [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The {{USS|Essex|LHD-2}} was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-uss-essex-lhd-2-was-prevented-from-l.md) _2018-02-06 13:49:16 (First version)_
+2. [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The Essex|LHD-2 was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-essex-lhd-2-was-prevented-from-leaving-t.md) _2018-02-06 13:49:16 (Update)_
 2. [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The Essex was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-essex-was-prevented-from-leaving-the-phi.md) _(Current version)_
 
 ### Related:

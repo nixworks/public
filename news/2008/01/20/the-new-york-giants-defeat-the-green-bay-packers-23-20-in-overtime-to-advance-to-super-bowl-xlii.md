@@ -17,8 +17,8 @@ Despite a shaky Tom Brady, the New England Patriots were still too much for the 
 
 ### Changes:
 
-1. [ NFL playoffs, 2007-08: The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/nfl-playoffs-2007-08-p-the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md) _2017-08-25 03:21:40 (First version)_
-2. [ NFL playoffs, 2007-08:: The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/nfl-playoffs-2007-08-the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md) _2017-08-27 03:21:35 (Update)_
+1. [ NFL playoffs, 2007-08:: The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/nfl-playoffs-2007-08-the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md) _2018-02-06 13:49:18 (First version)_
+2. [ NFL playoffs, 2007-08: The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/nfl-playoffs-2007-08-p-the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md) _2018-02-06 13:49:18 (Update)_
 2. [ The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md) _(Current version)_
 
 ### Related:

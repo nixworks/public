@@ -16,7 +16,7 @@ President Michel Djotodia resigns as he is unable to stop the ethnic fighting in
 
 ### Changes:
 
-1. [Central African Republic crisis: Amidst pressure for failing to resolve ongoing conflict, President of the Central African Republic Michel Djotodia resigns nine months after Seleka toppled Francois Bozize. Alexandre-Ferdinand Nguendet becomes acting president. ](/news/2014/01/10/central-african-republic-crisis-amidst-pressure-for-failing-to-resolve-ongoing-conflict-president-of-the-central-african-republic-michel-d.md) _2017-08-27 03:40:08 (First version)_
+1. [Central African Republic crisis: Amidst pressure for failing to resolve ongoing conflict, President of the Central African Republic Michel Djotodia resigns nine months after Seleka toppled Francois Bozize. Alexandre-Ferdinand Nguendet becomes acting president. ](/news/2014/01/10/central-african-republic-crisis-amidst-pressure-for-failing-to-resolve-ongoing-conflict-president-of-the-central-african-republic-michel-d.md) _2018-02-06 13:49:25 (First version)_
 1. [Amidst pressure for failing to resolve ongoing conflict, President of the Central African Republic Michel Djotodia resigns nine months after Seleka toppled Francois Bozize. Alexandre-Ferdinand Nguendet becomes acting president. ](/news/2014/01/10/amidst-pressure-for-failing-to-resolve-ongoing-conflict-president-of-the-central-african-republic-michel-djotodia-resigns-nine-months-after.md) _(Current version)_
 
 ### Related:

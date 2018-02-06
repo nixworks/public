@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/5/republican-presidential-candidate-donald-trump-s
 
 ### Changes:
 
-1. [United States presidential election, 2016: Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/united-states-presidential-election-2016-republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan.md) _2017-08-27 03:46:36 (First version)_
+1. [United States presidential election, 2016: Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/united-states-presidential-election-2016-republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan.md) _2018-02-06 13:49:29 (First version)_
 1. [Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan-iraq-morocco-pakistan-the-philippines.md) _(Current version)_
 
 ### Related:

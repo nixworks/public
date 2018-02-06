@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/09/19/former-president-bill-clinton-under-pressure-fr
 
 ### Changes:
 
-1. [ Former president Bill Clinton under pressure from Democratic party leaders criticises President George W. Bush's policies on Iraq, Hurricane Katrina and budget deficits. [http:--news.yahoo.com-s-afp-20050919-ts_alt_afp-usweatheriraqeconomy_050919063222 (Yahoo News)] (Link dead as of 21:23, 14 January 2007 (UTC))](/news/2005/09/19/former-president-bill-clinton-under-pressure-from-democratic-party-leaders-criticises-president-george-w-bush-s-policies-on-iraq-hurrica.md) _2017-08-25 03:16:49 (First version)_
+1. [ Former president Bill Clinton under pressure from Democratic party leaders criticises President George W. Bush's policies on Iraq, Hurricane Katrina and budget deficits. [http:--news.yahoo.com-s-afp-20050919-ts_alt_afp-usweatheriraqeconomy_050919063222 (Yahoo News)] (Link dead as of 21:23, 14 January 2007 (UTC))](/news/2005/09/19/former-president-bill-clinton-under-pressure-from-democratic-party-leaders-criticises-president-george-w-bush-s-policies-on-iraq-hurrica.md) _2018-02-06 13:49:16 (First version)_
 1. [ Former president Bill Clinton under pressure from Democratic party leaders criticises President George W. Bush's policies on Iraq, Hurricane Katrina and budget deficits. [https:--news.yahoo.com-s-afp-20050919-ts_alt_afp-usweatheriraqeconomy_050919063222 (Yahoo News)] (Link dead as of 21:23, 14 January 2007 (UTC))](/news/2005/09/19/former-president-bill-clinton-under-pressure-from-democratic-party-leaders-criticises-president-george-w-bush-s-policies-on-iraq-hurrican.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/02/12/the-54th-grammy-awards-for-music-are-held-at-th
 
 ### Changes:
 
-1. [Grammy Awards:The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/grammy-awards-pthe-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being.md) _2017-08-25 03:35:02 (First version)_
-2. [Grammy Awards:: The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/grammy-awards-the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being.md) _2017-08-27 03:35:11 (Update)_
+1. [Grammy Awards:: The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/grammy-awards-the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being.md) _2018-02-06 13:49:23 (First version)_
+2. [Grammy Awards:The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/grammy-awards-pthe-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being.md) _2018-02-06 13:49:23 (Update)_
 2. [The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being-re-worked-to-co.md) _(Current version)_
 
 ### Related:

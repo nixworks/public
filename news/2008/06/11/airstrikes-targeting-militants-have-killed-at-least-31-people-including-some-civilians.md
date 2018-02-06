@@ -18,6 +18,6 @@ Pakistan lodged a strong protest with the United States over what it called an u
 
 ### Changes:
 
-1. [ Afghanistan: Airstrikes targeting militants have killed at least 31 people including some civilians. ](/news/2008/06/11/afghanistan-p-airstrikes-targeting-militants-have-killed-at-least-31-people-including-some-civilians.md) _2017-08-25 03:22:20 (First version)_
-2. [ Afghanistan:: Airstrikes targeting militants have killed at least 31 people including some civilians. ](/news/2008/06/11/afghanistan-airstrikes-targeting-militants-have-killed-at-least-31-people-including-some-civilians.md) _2017-08-27 03:22:15 (Update)_
+1. [ Afghanistan: Airstrikes targeting militants have killed at least 31 people including some civilians. ](/news/2008/06/11/afghanistan-p-airstrikes-targeting-militants-have-killed-at-least-31-people-including-some-civilians.md) _2018-02-06 13:49:18 (First version)_
+2. [ Afghanistan:: Airstrikes targeting militants have killed at least 31 people including some civilians. ](/news/2008/06/11/afghanistan-airstrikes-targeting-militants-have-killed-at-least-31-people-including-some-civilians.md) _2018-02-06 13:49:18 (Update)_
 2. [ Airstrikes targeting militants have killed at least 31 people including some civilians. ](/news/2008/06/11/airstrikes-targeting-militants-have-killed-at-least-31-people-including-some-civilians.md) _(Current version)_

@@ -16,7 +16,7 @@ New York Department of Financial Services finds Barclays ‘Last Look’ system 
 
 ### Changes:
 
-1. [The New York State Department of Financial Services fines Barclays $150m (PS98.2m) for the way it treated its foreign exchange customers. ](/news/2015/11/19/the-new-york-state-department-of-financial-services-fines-barclays-150m-aps98-2m-for-the-way-it-treated-its-foreign-exchange-customers.md) _2017-08-25 03:43:38 (First version)_
+1. [The New York State Department of Financial Services fines Barclays $150m (PS98.2m) for the way it treated its foreign exchange customers. ](/news/2015/11/19/the-new-york-state-department-of-financial-services-fines-barclays-150m-aps98-2m-for-the-way-it-treated-its-foreign-exchange-customers.md) _2018-02-06 13:49:28 (First version)_
 1. [The New York State Department of Financial Services fines Barclays $150m (GBP98.2m) for the way it treated its foreign exchange customers. ](/news/2015/11/19/the-new-york-state-department-of-financial-services-fines-barclays-150m-agbp98-2m-for-the-way-it-treated-its-foreign-exchange-customers.md) _(Current version)_
 
 ### Related:

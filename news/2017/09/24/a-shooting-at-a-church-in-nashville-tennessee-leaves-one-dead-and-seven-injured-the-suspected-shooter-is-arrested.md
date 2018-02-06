@@ -16,9 +16,9 @@ Local police and federal authorities worked Monday to determine why a man went o
 
 ### Changes:
 
-1. [A shooting at a church in Nashville, Tennessee, leaves two dead, including the shooter, and six injured. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-two-dead-including-the-shooter-and-six-injured.md) _2017-09-25 03:52:41 (First version)_
-2. [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. The Black shooter will not face hate-crime charges despite his ties to black power groups. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter-the-black-shooter-will-not-face-ha.md) _2017-09-25 15:30:05 (Update)_
-3. [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter.md) _2017-09-25 19:30:05 (Update)_
+1. [A shooting at a church in Nashville, Tennessee, leaves two dead, including the shooter, and six injured. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-two-dead-including-the-shooter-and-six-injured.md) _2018-02-06 13:49:31 (First version)_
+2. [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter.md) _2018-02-06 13:49:31 (Update)_
+3. [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured, including the shooter. The Black shooter will not face hate-crime charges despite his ties to black power groups. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-including-the-shooter-the-black-shooter-will-not-face-ha.md) _2018-02-06 13:49:31 (Update)_
 3. [A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured. The suspected shooter is arrested. ](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-leaves-one-dead-and-seven-injured-the-suspected-shooter-is-arrested.md) _(Current version)_
 
 ### Related:

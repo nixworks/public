@@ -17,7 +17,7 @@ The leader of the deadly 2015 attack on Garissa University in Kenya has been kil
 
 ### Changes:
 
-1. [War in Somalia (2009-present): In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. ](/news/2016/06/2/war-in-somalia-2009-present-in-a-raid-by-somali-forces-near-kismayo-at-least-16-al-shabaab-militants-are-killed-including-the-masterm.md) _2017-08-27 03:46:11 (First version)_
+1. [War in Somalia (2009-present): In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. ](/news/2016/06/2/war-in-somalia-2009-present-in-a-raid-by-somali-forces-near-kismayo-at-least-16-al-shabaab-militants-are-killed-including-the-masterm.md) _2018-02-06 13:49:29 (First version)_
 1. [In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. ](/news/2016/06/2/in-a-raid-by-somali-forces-near-kismayo-at-least-16-al-shabaab-militants-are-killed-including-the-mastermind-of-the-garissa-university-col.md) _(Current version)_
 
 ### Related:

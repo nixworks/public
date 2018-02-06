@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-
 
 ### Changes:
 
-1. [ 10 former members of the Nazi SS are sentenced ''in absentia'' to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. ](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-in-absentia-to-life-imprisonment-for-their-role-in-the-marzabotto-massacre-the-worst-ma.md) _2017-08-25 03:19:01 (First version)_
+1. [ 10 former members of the Nazi SS are sentenced ''in absentia'' to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. ](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-in-absentia-to-life-imprisonment-for-their-role-in-the-marzabotto-massacre-the-worst-ma.md) _2018-02-06 13:49:17 (First version)_
 1. [ 10 former members of the Nazi SS are sentenced "in absentia" to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. ](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-in-absentia-to-life-imprisonment-for-their-role-in-the-marzabotto-massacre-the-worst-mass.md) _(Current version)_
 
 ### Related:

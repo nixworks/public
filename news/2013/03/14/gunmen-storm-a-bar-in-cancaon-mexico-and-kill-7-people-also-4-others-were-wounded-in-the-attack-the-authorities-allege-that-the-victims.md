@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/14/gunmen-storm-a-bar-in-cancaon-mexico-and-kill-7
 
 ### Changes:
 
-1. [Mexican Drug War:Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-pgunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-allege.md) _2017-08-25 03:37:51 (First version)_
-2. [Mexican Drug War:: Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-gunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-alleg.md) _2017-08-27 03:38:02 (Update)_
+1. [Mexican Drug War:Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-pgunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-allege.md) _2018-02-06 13:49:24 (First version)_
+2. [Mexican Drug War:: Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-gunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-alleg.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/gunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-allege-that-the-victims.md) _(Current version)_
 
 ### Related:

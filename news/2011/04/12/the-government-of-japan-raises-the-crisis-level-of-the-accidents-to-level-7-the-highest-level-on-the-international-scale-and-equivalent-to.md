@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/04/12/the-government-of-japan-raises-the-crisis-level
 
 ### Changes:
 
-1. [Fukushima I nuclear accidents The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/fukushima-i-nuclear-accidents-pthe-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-interna.md) _2017-05-25 03:34:06 (First version)_
-2. [Fukushima I nuclear accidents: The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/fukushima-i-nuclear-accidents-the-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-interna.md) _2017-08-27 03:32:56 (Update)_
+1. [Fukushima I nuclear accidents: The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/fukushima-i-nuclear-accidents-the-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-interna.md) _2018-02-06 13:49:22 (First version)_
+2. [Fukushima I nuclear accidents The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/fukushima-i-nuclear-accidents-pthe-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-interna.md) _2018-02-06 13:49:22 (Update)_
 2. [The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/the-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-international-scale-and-equivalent-to.md) _(Current version)_
 
 ### Related:

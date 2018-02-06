@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/18/the-united-nations-says-that-400-to-500-people-
 
 ### Changes:
 
-1. [2013 South Sudanese political crisis:The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/2013-south-sudanese-political-crisis-pthe-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-at.md) _2017-08-25 03:39:43 (First version)_
-2. [2013 South Sudanese political crisis:: The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/2013-south-sudanese-political-crisis-the-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-a.md) _2017-08-27 03:40:01 (Update)_
+1. [2013 South Sudanese political crisis:: The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/2013-south-sudanese-political-crisis-the-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-a.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 South Sudanese political crisis:The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/2013-south-sudanese-political-crisis-pthe-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-at.md) _2018-02-06 13:49:25 (Update)_
 2. [The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/the-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-attacks-in-the-country.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Tal
 
 ### Changes:
 
-1. [ War on Terrorism: NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/war-on-terrorism-p-nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md) _2017-08-25 03:23:01 (First version)_
-2. [ War on Terrorism:: NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/war-on-terrorism-nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md) _2017-08-27 03:22:54 (Update)_
+1. [ War on Terrorism: NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/war-on-terrorism-p-nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md) _2018-02-06 13:49:18 (First version)_
+2. [ War on Terrorism:: NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/war-on-terrorism-nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md) _2018-02-06 13:49:18 (Update)_
 2. [ NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md) _(Current version)_
 
 ### Related:

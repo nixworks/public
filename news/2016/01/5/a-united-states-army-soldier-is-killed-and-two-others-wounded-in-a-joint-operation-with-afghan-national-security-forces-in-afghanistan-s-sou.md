@@ -15,7 +15,7 @@ The death occurred near the town of Marja.
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A United States Army soldier is killed and two others wounded in a joint operation with Afghan National Security Forces in Afghanistan's southern Helmand Province. ](/news/2016/01/5/war-in-afghanistan-2015-present-a-united-states-army-soldier-is-killed-and-two-others-wounded-in-a-joint-operation-with-afghan-national.md) _2017-08-27 03:44:35 (First version)_
+1. [War in Afghanistan (2015-present): A United States Army soldier is killed and two others wounded in a joint operation with Afghan National Security Forces in Afghanistan's southern Helmand Province. ](/news/2016/01/5/war-in-afghanistan-2015-present-a-united-states-army-soldier-is-killed-and-two-others-wounded-in-a-joint-operation-with-afghan-national.md) _2018-02-06 13:49:28 (First version)_
 1. [A United States Army soldier is killed and two others wounded in a joint operation with Afghan National Security Forces in Afghanistan's southern Helmand Province. ](/news/2016/01/5/a-united-states-army-soldier-is-killed-and-two-others-wounded-in-a-joint-operation-with-afghan-national-security-forces-in-afghanistan-s-sou.md) _(Current version)_
 
 ### Related:

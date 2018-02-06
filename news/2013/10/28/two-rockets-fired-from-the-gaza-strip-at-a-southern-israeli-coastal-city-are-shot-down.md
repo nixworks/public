@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-sout
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/israeliapalestinian-conflict-ptwo-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _2017-08-25 03:39:27 (First version)_
-2. [Israeli-Palestinian conflict:: Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/israeli-palestinian-conflict-two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _2017-08-27 03:39:44 (Update)_
+1. [Israeli-Palestinian conflict:Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/israeliapalestinian-conflict-ptwo-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _2018-02-06 13:49:25 (First version)_
+2. [Israeli-Palestinian conflict:: Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/israeli-palestinian-conflict-two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _2018-02-06 13:49:25 (Update)_
 2. [Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md) _(Current version)_
 
 ### Related:

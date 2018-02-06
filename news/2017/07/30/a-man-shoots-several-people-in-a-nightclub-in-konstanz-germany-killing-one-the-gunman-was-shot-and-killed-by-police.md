@@ -16,9 +16,9 @@ A man who opened fire in a nightclub in Constance was then shot by police and la
 
 ### Changes:
 
-1. [A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman is shot and killed by police. ](/news/2017/07/30/a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-is-shot-and-killed-by-police.md) _2017-08-05 03:49:08 (First version)_
-2. [Konstanz shootingA man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/konstanz-shootingpa-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md) _2017-08-25 03:48:17 (Update)_
-3. [Konstanz shooting: A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/konstanz-shooting-a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md) _2017-08-27 03:48:44 (Update)_
+1. [Konstanz shootingA man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/konstanz-shootingpa-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md) _2018-02-06 13:49:31 (First version)_
+2. [Konstanz shooting: A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/konstanz-shooting-a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md) _2018-02-06 13:49:31 (Update)_
+3. [A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman is shot and killed by police. ](/news/2017/07/30/a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-is-shot-and-killed-by-police.md) _2018-02-06 13:49:31 (Update)_
 3. [A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md) _(Current version)_
 
 ### Related:

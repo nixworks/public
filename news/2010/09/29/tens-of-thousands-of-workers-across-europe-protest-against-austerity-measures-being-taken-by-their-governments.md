@@ -27,8 +27,8 @@ Tens of thousands take to the streets of Brussels and other European cities in a
 
 ### Changes:
 
-1. [Protests and strikes across Europe:Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-ptens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gover.md) _2017-08-25 03:30:17 (First version)_
-2. [Protests and strikes across Europe:: Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-tens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gove.md) _2017-08-27 03:30:20 (Update)_
+1. [Protests and strikes across Europe:: Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-tens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gove.md) _2018-02-06 13:49:20 (First version)_
+2. [Protests and strikes across Europe:Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-ptens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gover.md) _2018-02-06 13:49:20 (Update)_
 2. [Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/tens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-governments.md) _(Current version)_
 
 ### Related:

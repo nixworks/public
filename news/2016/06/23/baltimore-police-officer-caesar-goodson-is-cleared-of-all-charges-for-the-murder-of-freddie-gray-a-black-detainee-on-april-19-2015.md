@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/23/baltimore-police-officer-caesar-goodson-is-clea
 
 ### Changes:
 
-1. [Death of Freddie Gray: Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/death-of-freddie-gray-baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-o.md) _2017-08-27 03:46:19 (First version)_
+1. [Death of Freddie Gray: Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/death-of-freddie-gray-baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-on-april-19-2015.md) _(Current version)_
 
 ### Related:

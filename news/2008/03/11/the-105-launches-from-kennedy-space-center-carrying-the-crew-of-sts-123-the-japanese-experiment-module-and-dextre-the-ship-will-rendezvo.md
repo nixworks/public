@@ -16,7 +16,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ### Changes:
 
-1. [ The {{OV|105}} launches from Kennedy Space Center carrying the crew of STS-123, the Japanese Experiment Module, and Dextre. The ship will rendezvous with the International Space Station. ](/news/2008/03/11/the-ov-105-launches-from-kennedy-space-center-carrying-the-crew-of-sts-123-the-japanese-experiment-module-and-dextre-the-ship-will-r.md) _2017-05-01 03:22:47 (First version)_
+1. [ The {{OV|105}} launches from Kennedy Space Center carrying the crew of STS-123, the Japanese Experiment Module, and Dextre. The ship will rendezvous with the International Space Station. ](/news/2008/03/11/the-ov-105-launches-from-kennedy-space-center-carrying-the-crew-of-sts-123-the-japanese-experiment-module-and-dextre-the-ship-will-r.md) _2018-02-06 13:49:18 (First version)_
 1. [ The 105 launches from Kennedy Space Center carrying the crew of STS-123, the Japanese Experiment Module, and Dextre. The ship will rendezvous with the International Space Station. ](/news/2008/03/11/the-105-launches-from-kennedy-space-center-carrying-the-crew-of-sts-123-the-japanese-experiment-module-and-dextre-the-ship-will-rendezvo.md) _(Current version)_
 
 ### Related:

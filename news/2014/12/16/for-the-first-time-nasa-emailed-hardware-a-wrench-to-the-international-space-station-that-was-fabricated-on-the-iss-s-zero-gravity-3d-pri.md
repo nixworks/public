@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/12/16/for-the-first-time-nasa-emailed-hardware-a-wren
 
 ### Changes:
 
-1. [For the first time, NASA emailed hardware, a wrench, to the International Space Station that was fabricated on the ISS's Zero Gravity 3D printer. ](/news/2014/12/16/for-the-first-time-nasa-emailed-hardware-a-wrench-to-the-international-space-station-that-was-fabricated-on-the-iss-s-zero-gravity-3d.md) _2017-08-25 03:41:20 (First version)_
+1. [For the first time, NASA emailed hardware, a wrench, to the International Space Station that was fabricated on the ISS's Zero Gravity 3D printer. ](/news/2014/12/16/for-the-first-time-nasa-emailed-hardware-a-wrench-to-the-international-space-station-that-was-fabricated-on-the-iss-s-zero-gravity-3d.md) _2018-02-06 13:49:26 (First version)_
 1. [For the first time, NASA emailed hardware, a wrench, to the International Space Station that was fabricated on the ISS's Zero Gravity 3D printer. ](/news/2014/12/16/for-the-first-time-nasa-emailed-hardware-a-wrench-to-the-international-space-station-that-was-fabricated-on-the-iss-s-zero-gravity-3d-pri.md) _(Current version)_
 
 ### Related:

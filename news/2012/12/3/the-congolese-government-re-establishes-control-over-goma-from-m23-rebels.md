@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/3/the-congolese-government-re-establishes-control-
 
 ### Changes:
 
-1. [2012 East D.R. Congo conflict:The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-pthe-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _2017-08-25 03:36:56 (First version)_
-2. [2012 East D.R. Congo conflict:: The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _2017-08-27 03:37:05 (Update)_
+1. [2012 East D.R. Congo conflict:: The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 East D.R. Congo conflict:The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-pthe-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _2018-02-06 13:49:24 (Update)_
 2. [The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Minister says bomb attack in Marrakesh set off by remote-control device bearing 
 
 ### Changes:
 
-1. [2011 Moroccan protests:People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/2011-moroccan-protests-ppeople-gather-to-demonstrate-against-terrorism-in-marrakesh.md) _2017-08-25 03:32:55 (First version)_
-2. [2011 Moroccan protests:: People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/2011-moroccan-protests-people-gather-to-demonstrate-against-terrorism-in-marrakesh.md) _2017-08-27 03:33:04 (Update)_
+1. [2011 Moroccan protests:People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/2011-moroccan-protests-ppeople-gather-to-demonstrate-against-terrorism-in-marrakesh.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Moroccan protests:: People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/2011-moroccan-protests-people-gather-to-demonstrate-against-terrorism-in-marrakesh.md) _2018-02-06 13:49:22 (Update)_
 2. [People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/people-gather-to-demonstrate-against-terrorism-in-marrakesh.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/09/30/iran-s-supreme-leader-ayatollah-ali-khamenei-wa
 
 ### Changes:
 
-1. [2015 Hajj stampede: Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/2015-hajj-stampede-iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-rep.md) _2017-08-27 03:43:12 (First version)_
+1. [2015 Hajj stampede: Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/2015-hajj-stampede-iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-rep.md) _2018-02-06 13:49:27 (First version)_
 1. [Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-repatriate-the-bodies-o.md) _(Current version)_
 
 ### Related:

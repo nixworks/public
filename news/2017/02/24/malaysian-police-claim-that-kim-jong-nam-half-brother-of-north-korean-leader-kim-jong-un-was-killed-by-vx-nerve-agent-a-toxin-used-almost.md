@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/24/malaysian-police-claim-that-kim-jong-nam-half-b
 
 ### Changes:
 
-1. [Death of Kim Jong-nam: Malaysian police claim that Kim Jong-nam, half brother of North Korean leader Kim Jong-un, was killed by VX nerve agent, a toxin used almost exclusively for chemical warfare. ](/news/2017/02/24/death-of-kim-jong-nam-malaysian-police-claim-that-kim-jong-nam-half-brother-of-north-korean-leader-kim-jong-un-was-killed-by-vx-nerve-age.md) _2017-08-27 03:47:53 (First version)_
+1. [Death of Kim Jong-nam: Malaysian police claim that Kim Jong-nam, half brother of North Korean leader Kim Jong-un, was killed by VX nerve agent, a toxin used almost exclusively for chemical warfare. ](/news/2017/02/24/death-of-kim-jong-nam-malaysian-police-claim-that-kim-jong-nam-half-brother-of-north-korean-leader-kim-jong-un-was-killed-by-vx-nerve-age.md) _2018-02-06 13:49:30 (First version)_
 1. [Malaysian police claim that Kim Jong-nam, half brother of North Korean leader Kim Jong-un, was killed by VX nerve agent, a toxin used almost exclusively for chemical warfare. ](/news/2017/02/24/malaysian-police-claim-that-kim-jong-nam-half-brother-of-north-korean-leader-kim-jong-un-was-killed-by-vx-nerve-agent-a-toxin-used-almost.md) _(Current version)_
 
 ### Related:

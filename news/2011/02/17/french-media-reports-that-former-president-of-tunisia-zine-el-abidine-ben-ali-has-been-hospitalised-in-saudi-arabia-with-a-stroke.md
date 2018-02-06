@@ -17,8 +17,8 @@ Former Tunisian President Zine el-Abidine Ben Ali suffered a stroke and was in a
 
 ### Changes:
 
-1. [Tunisia:French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-pfrench-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md) _2017-08-25 03:32:14 (First version)_
-2. [Tunisia:: French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md) _2017-08-27 03:32:23 (Update)_
+1. [Tunisia:French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-pfrench-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md) _2018-02-06 13:49:22 (First version)_
+2. [Tunisia:: French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md) _2018-02-06 13:49:22 (Update)_
 2. [French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md) _(Current version)_
 
 ### Related:

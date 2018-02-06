@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldie
 
 ### Changes:
 
-1. [Sinai insurgency: A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/sinai-insurgency-a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _2017-08-27 03:48:03 (First version)_
+1. [Sinai insurgency: A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/sinai-insurgency-a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _2018-02-06 13:49:30 (First version)_
 1. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _(Current version)_
 
 ### Related:

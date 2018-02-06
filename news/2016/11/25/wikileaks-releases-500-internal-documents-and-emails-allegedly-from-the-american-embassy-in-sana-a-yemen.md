@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-e
 
 ### Changes:
 
-1. [United States-Yemen relations: WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/united-states-yemen-relations-wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _2017-08-27 03:47:18 (First version)_
+1. [United States-Yemen relations: WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/united-states-yemen-relations-wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _2018-02-06 13:49:29 (First version)_
 1. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/31/rebels-reject-a-national-unity-government-offer
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/2012-central-african-republic-rebellion-prebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-franass.md) _2017-08-25 03:37:10 (First version)_
-2. [2012 Central African Republic rebellion:: Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/2012-central-african-republic-rebellion-rebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-frana.md) _2017-08-27 03:37:20 (Update)_
+1. [2012 Central African Republic rebellion:: Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/2012-central-african-republic-rebellion-rebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-frana.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/2012-central-african-republic-rebellion-prebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-franass.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/rebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-franassois-boziza-c.md) _(Current version)_
 
 ### Related:

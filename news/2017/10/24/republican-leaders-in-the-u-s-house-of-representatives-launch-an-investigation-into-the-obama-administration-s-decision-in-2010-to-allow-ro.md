@@ -16,7 +16,7 @@ Intelligence Committee chairman who stepped aside from Russia probe to examine O
 
 ### Changes:
 
-1. [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Uranium One to purchase Rosatom. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ur.md) _2017-10-25 07:30:05 (First version)_
+1. [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Uranium One to purchase Rosatom. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ur.md) _2018-02-06 13:49:31 (First version)_
 1. [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Rosatom to purchase Canada-based Uranium One. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.md) _(Current version)_
 
 ### Related:

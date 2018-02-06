@@ -18,7 +18,7 @@ Bangladeshi security officials have killed 11 suspected militants of the banned 
 
 ### Changes:
 
-1. [Terrorism in Bangladesh: Raids by security forces on Jamaat-ul-Mujahideen Bangladesh in Gazipur leave 11 militants dead. ](/news/2016/10/8/terrorism-in-bangladesh-raids-by-security-forces-on-jamaat-ul-mujahideen-bangladesh-in-gazipur-leave-11-militants-dead.md) _2017-08-27 03:46:59 (First version)_
+1. [Terrorism in Bangladesh: Raids by security forces on Jamaat-ul-Mujahideen Bangladesh in Gazipur leave 11 militants dead. ](/news/2016/10/8/terrorism-in-bangladesh-raids-by-security-forces-on-jamaat-ul-mujahideen-bangladesh-in-gazipur-leave-11-militants-dead.md) _2018-02-06 13:49:29 (First version)_
 1. [Raids by security forces on Jamaat-ul-Mujahideen Bangladesh in Gazipur leave 11 militants dead. ](/news/2016/10/8/raids-by-security-forces-on-jamaat-ul-mujahideen-bangladesh-in-gazipur-leave-11-militants-dead.md) _(Current version)_
 
 ### Related:

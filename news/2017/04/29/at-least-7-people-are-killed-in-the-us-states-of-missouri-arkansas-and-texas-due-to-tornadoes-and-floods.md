@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/29/at-least-7-people-are-killed-in-the-us-states-o
 
 ### Changes:
 
-1. [April 2017 North American storm complex: At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/april-2017-north-american-storm-complex-at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and.md) _2017-08-27 03:48:16 (First version)_
+1. [April 2017 North American storm complex: At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/april-2017-north-american-storm-complex-at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and-floods.md) _(Current version)_
 
 ### Related:

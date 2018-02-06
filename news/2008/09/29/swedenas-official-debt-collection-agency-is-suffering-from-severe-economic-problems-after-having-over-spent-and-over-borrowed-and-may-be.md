@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/09/29/swedenas-official-debt-collection-agency-is-suf
 
 ### Changes:
 
-1. [ Sweden-s official debt collection agency is suffering from severe economic problems after having over-spent and over-borrowed and may be forced to cut staff to stop the bleeding. ](/news/2008/09/29/sweden-s-official-debt-collection-agency-is-suffering-from-severe-economic-problems-after-having-over-spent-and-over-borrowed-and-may-be.md) _2017-08-27 03:22:51 (First version)_
+1. [ Sweden-s official debt collection agency is suffering from severe economic problems after having over-spent and over-borrowed and may be forced to cut staff to stop the bleeding. ](/news/2008/09/29/sweden-s-official-debt-collection-agency-is-suffering-from-severe-economic-problems-after-having-over-spent-and-over-borrowed-and-may-be.md) _2018-02-06 13:49:18 (First version)_
 1. [ Sweden's official debt collection agency is suffering from severe economic problems after having over-spent and over-borrowed and may be forced to cut staff to stop the bleeding. ](/news/2008/09/29/swedenas-official-debt-collection-agency-is-suffering-from-severe-economic-problems-after-having-over-spent-and-over-borrowed-and-may-be.md) _(Current version)_
 
 ### Related:

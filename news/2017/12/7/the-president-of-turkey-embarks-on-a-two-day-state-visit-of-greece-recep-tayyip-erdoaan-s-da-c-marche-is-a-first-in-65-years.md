@@ -17,8 +17,8 @@ Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relati
 
 ### Changes:
 
-1. [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. M. Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-m-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _2017-12-07 22:30:06 (First version)_
-2. [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65.md) _2017-12-08 00:30:06 (Update)_
+1. [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65.md) _2018-02-06 13:49:31 (First version)_
+2. [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. M. Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-m-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _2018-02-06 13:49:31 (Update)_
 2. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _(Current version)_
 
 ### Related:

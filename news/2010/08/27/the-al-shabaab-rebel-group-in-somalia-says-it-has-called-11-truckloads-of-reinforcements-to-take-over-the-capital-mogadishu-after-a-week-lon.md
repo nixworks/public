@@ -17,7 +17,7 @@ Al-Shabab sends 11 truckloads of armed fighters to Mogadishu after declaring fin
 
 ### Changes:
 
-1. [Battle of Mogadishu: The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/battle-of-mogadishu-the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogad.md) _2017-08-27 03:29:46 (First version)_
+1. [Battle of Mogadishu: The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/battle-of-mogadishu-the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogad.md) _2018-02-06 13:49:20 (First version)_
 1. [The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogadishu-after-a-week-lon.md) _(Current version)_
 
 ### Related:

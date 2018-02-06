@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/24/thai-prime-minister-yingluck-shinawatra-says-sh
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013a14-thai-political-crisis-pthai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _2017-08-25 03:40:04 (First version)_
-2. [2013-14 Thai political crisis:: Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013-14-thai-political-crisis-thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _2017-08-27 03:40:23 (Update)_
+1. [2013-14 Thai political crisis:Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013a14-thai-political-crisis-pthai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013-14-thai-political-crisis-thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _2018-02-06 13:49:25 (Update)_
 2. [Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md) _(Current version)_
 
 ### Related:

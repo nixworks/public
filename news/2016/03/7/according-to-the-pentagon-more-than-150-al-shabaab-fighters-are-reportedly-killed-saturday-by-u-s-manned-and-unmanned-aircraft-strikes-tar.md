@@ -18,7 +18,7 @@ More than 150 al-Shabaab fighters were killed in a U.S. military strike Saturday
 
 ### Changes:
 
-1. [War in Somalia (2009-present): According to the Pentagon, more than 150 al-Shabaab fighters are reportedly killed Saturday by U.S. manned and unmanned aircraft strikes targeting a training camp near the central Somali town of Buloburde. ](/news/2016/03/7/war-in-somalia-2009-present-according-to-the-pentagon-more-than-150-al-shabaab-fighters-are-reportedly-killed-saturday-by-u-s-manned.md) _2017-08-27 03:45:09 (First version)_
+1. [War in Somalia (2009-present): According to the Pentagon, more than 150 al-Shabaab fighters are reportedly killed Saturday by U.S. manned and unmanned aircraft strikes targeting a training camp near the central Somali town of Buloburde. ](/news/2016/03/7/war-in-somalia-2009-present-according-to-the-pentagon-more-than-150-al-shabaab-fighters-are-reportedly-killed-saturday-by-u-s-manned.md) _2018-02-06 13:49:28 (First version)_
 1. [According to the Pentagon, more than 150 al-Shabaab fighters are reportedly killed Saturday by U.S. manned and unmanned aircraft strikes targeting a training camp near the central Somali town of Buloburde. ](/news/2016/03/7/according-to-the-pentagon-more-than-150-al-shabaab-fighters-are-reportedly-killed-saturday-by-u-s-manned-and-unmanned-aircraft-strikes-tar.md) _(Current version)_
 
 ### Related:

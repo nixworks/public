@@ -17,7 +17,7 @@ Tens of thousands of people are evacuated as wildfires sweep into the Israeli ci
 
 ### Changes:
 
-1. [November 2016 Israel wildfires: Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/november-2016-israel-wildfires-around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-publi.md) _2017-08-27 03:47:17 (First version)_
+1. [November 2016 Israel wildfires: Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/november-2016-israel-wildfires-around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-publi.md) _2018-02-06 13:49:29 (First version)_
 1. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _(Current version)_
 
 ### Related:

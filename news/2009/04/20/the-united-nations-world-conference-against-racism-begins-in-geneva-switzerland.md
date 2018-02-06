@@ -19,8 +19,8 @@ A UN conference on racism is due to open in Geneva today amid controversy over a
 
 ### Changes:
 
-1. [ Durban Review Conference: The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/durban-review-conference-p-the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md) _2017-08-25 03:24:23 (First version)_
-2. [ Durban Review Conference:: The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/durban-review-conference-the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md) _2017-08-27 03:24:14 (Update)_
+1. [ Durban Review Conference:: The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/durban-review-conference-the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md) _2018-02-06 13:49:18 (First version)_
+2. [ Durban Review Conference: The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/durban-review-conference-p-the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md) _(Current version)_
 
 ### Related:

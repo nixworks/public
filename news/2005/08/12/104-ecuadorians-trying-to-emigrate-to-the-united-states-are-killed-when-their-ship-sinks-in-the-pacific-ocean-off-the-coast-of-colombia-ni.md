@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-unite
 
 ### Changes:
 
-1. [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia. Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-n.md) _2017-08-25 03:16:40 (First version)_
+1. [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia. Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-n.md) _2018-02-06 13:49:16 (First version)_
 1. [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia. Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-ni.md) _(Current version)_
 
 ### Related:

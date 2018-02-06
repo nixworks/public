@@ -16,7 +16,7 @@ Uzbekistan’s first and only president was confirmed dead last week.
 
 ### Changes:
 
-1. [Uzbekistan-s parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistan-s-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _2017-08-27 03:46:48 (First version)_
+1. [Uzbekistan-s parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistan-s-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _2018-02-06 13:49:29 (First version)_
 1. [Uzbekistan's parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistanas-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _(Current version)_
 
 ### Related:

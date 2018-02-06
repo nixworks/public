@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-c
 
 ### Changes:
 
-1. [A Canadian National Railway train from Toronto carrying crude oil and propane derails and catches fire in Plaster Rock, New Brunswick, in the northwest part of the province, causing 45 homes to be evacuated in a rural area. No one has yet been injured, and the fire has diminished, so far without the propane exploding. ](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-carrying-crude-oil-and-propane-derails-and-catches-fire-in-plaster-rock-new-brunswick-in-t.md) _2017-08-25 03:39:49 (First version)_
+1. [A Canadian National Railway train from Toronto carrying crude oil and propane derails and catches fire in Plaster Rock, New Brunswick, in the northwest part of the province, causing 45 homes to be evacuated in a rural area. No one has yet been injured, and the fire has diminished, so far without the propane exploding. ](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-carrying-crude-oil-and-propane-derails-and-catches-fire-in-plaster-rock-new-brunswick-in-t.md) _2018-02-06 13:49:25 (First version)_
 1. [A Canadian National Railway train from Toronto carrying crude oil and propane derails and catches fire in Plaster Rock, New Brunswick, in the northwest part of the province, causing 45 homes to be evacuated in a rural area. No one has yet been injured, and the fire has diminished, so far without the propane exploding. ](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-carrying-crude-oil-and-propane-derails-and-catches-fire-in-plaster-rock-new-brunswick-in-th.md) _(Current version)_
 
 ### Related:

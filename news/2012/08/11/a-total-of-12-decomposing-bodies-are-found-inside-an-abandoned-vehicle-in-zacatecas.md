@@ -17,8 +17,8 @@ At least five dead as suspected gang members go on rampage in drug-violence-rava
 
 ### Changes:
 
-1. [Mexican Drug War:A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-pa-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md) _2017-08-25 03:36:15 (First version)_
-2. [Mexican Drug War:: A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md) _2017-08-27 03:36:26 (Update)_
+1. [Mexican Drug War:A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-pa-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md) _2018-02-06 13:49:23 (Update)_
 2. [A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md) _(Current version)_
 
 ### Related:

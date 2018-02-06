@@ -17,7 +17,7 @@ The Zika virus has been associated with a birth defect called microcephaly.
 
 ### Changes:
 
-1. [Zika virus outbreak (2015-present): A pregnant Australian woman in the state of Queensland tests positive for the Zika virus. ](/news/2016/02/10/zika-virus-outbreak-2015-present-a-pregnant-australian-woman-in-the-state-of-queensland-tests-positive-for-the-zika-virus.md) _2017-08-27 03:44:52 (First version)_
+1. [Zika virus outbreak (2015-present): A pregnant Australian woman in the state of Queensland tests positive for the Zika virus. ](/news/2016/02/10/zika-virus-outbreak-2015-present-a-pregnant-australian-woman-in-the-state-of-queensland-tests-positive-for-the-zika-virus.md) _2018-02-06 13:49:28 (First version)_
 1. [A pregnant Australian woman in the state of Queensland tests positive for the Zika virus. ](/news/2016/02/10/a-pregnant-australian-woman-in-the-state-of-queensland-tests-positive-for-the-zika-virus.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/09/4/hurricane-felix-makes-landfall-on-the-miskito-co
 
 ### Changes:
 
-1. [ Hurricane Felix: Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-p-hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md) _2017-08-25 03:20:50 (First version)_
-2. [ Hurricane Felix:: Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md) _2017-08-27 03:20:48 (Update)_
+1. [ Hurricane Felix: Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-p-hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md) _2018-02-06 13:49:18 (First version)_
+2. [ Hurricane Felix:: Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md) _(Current version)_
 
 ### Related:

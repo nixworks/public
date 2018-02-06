@@ -16,7 +16,7 @@ Icelandic Left Green Movement leader Katrin Jakobsdottir has been given a mandat
 
 ### Changes:
 
-1. [Opposition leader Katrn Jakobsdttir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. ](/news/2017/11/2/opposition-leader-katrin-jakobsdottir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-the.md) _2017-11-03 07:30:04 (First version)_
+1. [Opposition leader Katrn Jakobsdttir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. ](/news/2017/11/2/opposition-leader-katrin-jakobsdottir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-the.md) _2018-02-06 13:49:31 (First version)_
 1. [Opposition leader Katrin Jakobsdottir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. ](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.md) _(Current version)_
 
 ### Related:

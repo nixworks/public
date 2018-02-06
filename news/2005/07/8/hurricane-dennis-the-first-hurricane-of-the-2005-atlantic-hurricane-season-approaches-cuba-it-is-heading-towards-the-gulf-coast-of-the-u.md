@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/8/hurricane-dennis-the-first-hurricane-of-the-2005
 
 ### Changes:
 
-1. [ Hurricane Dennis, the first hurricane of the 2005 Atlantic hurricane season, approaches Cuba. It is heading towards the Gulf Coast of the United States, with landfall expected on Sunday or Monday. ](/news/2005/07/8/hurricane-dennis-the-first-hurricane-of-the-2005-atlantic-hurricane-season-approaches-cuba-it-is-heading-towards-the-gulf-coast-of-the.md) _2017-08-25 03:16:30 (First version)_
+1. [ Hurricane Dennis, the first hurricane of the 2005 Atlantic hurricane season, approaches Cuba. It is heading towards the Gulf Coast of the United States, with landfall expected on Sunday or Monday. ](/news/2005/07/8/hurricane-dennis-the-first-hurricane-of-the-2005-atlantic-hurricane-season-approaches-cuba-it-is-heading-towards-the-gulf-coast-of-the.md) _2018-02-06 13:49:16 (First version)_
 1. [ Hurricane Dennis, the first hurricane of the 2005 Atlantic hurricane season, approaches Cuba. It is heading towards the Gulf Coast of the United States, with landfall expected on Sunday or Monday. [http:--www.nhc.noaa.gov-text-refresh-MIATCPAT4+shtml- (NOAA)] (Wikinews)](/news/2005/07/8/hurricane-dennis-the-first-hurricane-of-the-2005-atlantic-hurricane-season-approaches-cuba-it-is-heading-towards-the-gulf-coast-of-the-u.md) _(Current version)_
 
 ### Related:

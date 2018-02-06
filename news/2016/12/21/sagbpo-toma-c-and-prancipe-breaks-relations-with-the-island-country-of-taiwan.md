@@ -16,8 +16,8 @@ The African island nation of Sao Tome has cut diplomatic ties with Taiwan, offic
 
 ### Changes:
 
-1. [ Sao Tome and Principe breaks relations with the island country of Taiwan. ](/news/2016/12/21/sapso-toma-c-and-prancipe-breaks-relations-with-the-island-country-of-taiwan.md) _2017-08-25 03:47:05 (First version)_
-2. [ International recognition of Taiwan: One-China policy: SGBPo Tome and Principe breaks relations with the island country of Taiwan. ](/news/2016/12/21/international-recognition-of-taiwan-one-china-policy-sagbpo-toma-c-and-prancipe-breaks-relations-with-the-island-country-of-taiwan.md) _2017-08-27 03:47:29 (Update)_
+1. [ Sao Tome and Principe breaks relations with the island country of Taiwan. ](/news/2016/12/21/sapso-toma-c-and-prancipe-breaks-relations-with-the-island-country-of-taiwan.md) _2018-02-06 13:49:30 (First version)_
+2. [ International recognition of Taiwan: One-China policy: SGBPo Tome and Principe breaks relations with the island country of Taiwan. ](/news/2016/12/21/international-recognition-of-taiwan-one-china-policy-sagbpo-toma-c-and-prancipe-breaks-relations-with-the-island-country-of-taiwan.md) _2018-02-06 13:49:30 (Update)_
 2. [SGBPo Tome and Principe breaks relations with the island country of Taiwan. ](/news/2016/12/21/sagbpo-toma-c-and-prancipe-breaks-relations-with-the-island-country-of-taiwan.md) _(Current version)_
 
 ### Related:

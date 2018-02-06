@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/8/the-first-person-who-was-diagnosed-with-ebola-in
 
 ### Changes:
 
-1. [Ebola virus disease in the United States: The first person who was diagnosed with ebola in the United States, Thomas Eric Duncan, a Liberian man, dies in Dallas, Texas. ](/news/2014/10/8/ebola-virus-disease-in-the-united-states-the-first-person-who-was-diagnosed-with-ebola-in-the-united-states-thomas-eric-duncan-a-liberian.md) _2017-08-27 03:41:22 (First version)_
+1. [Ebola virus disease in the United States: The first person who was diagnosed with ebola in the United States, Thomas Eric Duncan, a Liberian man, dies in Dallas, Texas. ](/news/2014/10/8/ebola-virus-disease-in-the-united-states-the-first-person-who-was-diagnosed-with-ebola-in-the-united-states-thomas-eric-duncan-a-liberian.md) _2018-02-06 13:49:26 (First version)_
 1. [The first person who was diagnosed with ebola in the United States, Thomas Eric Duncan, a Liberian man, dies in Dallas, Texas. ](/news/2014/10/8/the-first-person-who-was-diagnosed-with-ebola-in-the-united-states-thomas-eric-duncan-a-liberian-man-dies-in-dallas-texas.md) _(Current version)_
 
 ### Related:

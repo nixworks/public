@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-lab
 
 ### Changes:
 
-1. [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the {{Subatomic particle|Bottom Omega-}}, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-subatomic-particle-bottom-omega-a-doubly-strange.md) _2017-05-01 03:23:49 (First version)_
+1. [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the {{Subatomic particle|Bottom Omega-}}, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-subatomic-particle-bottom-omega-a-doubly-strange.md) _2018-02-06 13:49:18 (First version)_
 1. [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the Bottom Omega-, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-bottom-omega-a-doubly-strange-baryon-containing-two.md) _(Current version)_
 
 ### Related:

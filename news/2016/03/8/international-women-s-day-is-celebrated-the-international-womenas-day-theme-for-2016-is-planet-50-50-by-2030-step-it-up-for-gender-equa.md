@@ -15,7 +15,7 @@ Celebrating women from the Philippines to Afghanistan to Poland and beyond.
 
 ### Changes:
 
-1. [International Women's Day is celebrated. The International Women-s Day theme for 2016 is "Planet 50-50 by 2030: Step It Up for Gender Equality". ](/news/2016/03/8/international-women-s-day-is-celebrated-the-international-women-s-day-theme-for-2016-is-planet-50-50-by-2030-step-it-up-for-gender-equa.md) _2017-08-27 03:45:10 (First version)_
+1. [International Women's Day is celebrated. The International Women-s Day theme for 2016 is "Planet 50-50 by 2030: Step It Up for Gender Equality". ](/news/2016/03/8/international-women-s-day-is-celebrated-the-international-women-s-day-theme-for-2016-is-planet-50-50-by-2030-step-it-up-for-gender-equa.md) _2018-02-06 13:49:28 (First version)_
 1. [International Women's Day is celebrated. The International Women's Day theme for 2016 is "Planet 50-50 by 2030: Step It Up for Gender Equality". ](/news/2016/03/8/international-women-s-day-is-celebrated-the-international-womenas-day-theme-for-2016-is-planet-50-50-by-2030-step-it-up-for-gender-equa.md) _(Current version)_
 
 ### Related:

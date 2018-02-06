@@ -18,7 +18,7 @@ Hurricane Matthew slammed into South Carolina on Saturday, packing a diminished 
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/2016-atlantic-hurricane-season-hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-bu.md) _2017-08-27 03:46:59 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/2016-atlantic-hurricane-season-hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-bu.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md) _(Current version)_
 
 ### Related:

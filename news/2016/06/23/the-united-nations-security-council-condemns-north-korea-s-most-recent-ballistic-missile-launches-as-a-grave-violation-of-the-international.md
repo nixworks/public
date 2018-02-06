@@ -17,7 +17,7 @@ UNITED NATIONS (AP) — The U.N. Security Council on Thursday strongly condemned
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: The United Nations Security Council condemns North Korea's most recent ballistic missile launches as a grave violation of the international ban, and urges all countries "to redouble their efforts" to fully implement the March sanctions. ](/news/2016/06/23/north-korea-and-weapons-of-mass-destruction-the-united-nations-security-council-condemns-north-korea-s-most-recent-ballistic-missile-launch.md) _2017-08-27 03:46:19 (First version)_
+1. [North Korea and weapons of mass destruction: The United Nations Security Council condemns North Korea's most recent ballistic missile launches as a grave violation of the international ban, and urges all countries "to redouble their efforts" to fully implement the March sanctions. ](/news/2016/06/23/north-korea-and-weapons-of-mass-destruction-the-united-nations-security-council-condemns-north-korea-s-most-recent-ballistic-missile-launch.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations Security Council condemns North Korea's most recent ballistic missile launches as a grave violation of the international ban, and urges all countries "to redouble their efforts" to fully implement the March sanctions. ](/news/2016/06/23/the-united-nations-security-council-condemns-north-korea-s-most-recent-ballistic-missile-launches-as-a-grave-violation-of-the-international.md) _(Current version)_
 
 ### Related:

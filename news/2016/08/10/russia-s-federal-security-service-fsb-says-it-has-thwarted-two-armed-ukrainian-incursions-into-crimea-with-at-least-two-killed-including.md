@@ -17,7 +17,7 @@ Vladimir Putin accused Ukraine on Wednesday of using terrorist tactics to try to
 
 ### Changes:
 
-1. [Ukrainian crisis: Russia's Federal Security Service (FSB) says it has thwarted two armed Ukrainian incursions into Crimea with at least two killed, including one FSB officer, following a "massive fire fight" with "sabotage-terrorist" groups. Ukraine denies the Russian claims. ](/news/2016/08/10/ukrainian-crisis-russia-s-federal-security-service-fsb-says-it-has-thwarted-two-armed-ukrainian-incursions-into-crimea-with-at-least-two.md) _2017-08-27 03:46:38 (First version)_
+1. [Ukrainian crisis: Russia's Federal Security Service (FSB) says it has thwarted two armed Ukrainian incursions into Crimea with at least two killed, including one FSB officer, following a "massive fire fight" with "sabotage-terrorist" groups. Ukraine denies the Russian claims. ](/news/2016/08/10/ukrainian-crisis-russia-s-federal-security-service-fsb-says-it-has-thwarted-two-armed-ukrainian-incursions-into-crimea-with-at-least-two.md) _2018-02-06 13:49:29 (First version)_
 1. [Russia's Federal Security Service (FSB) says it has thwarted two armed Ukrainian incursions into Crimea with at least two killed, including one FSB officer, following a "massive fire fight" with "sabotage-terrorist" groups. Ukraine denies the Russian claims. ](/news/2016/08/10/russia-s-federal-security-service-fsb-says-it-has-thwarted-two-armed-ukrainian-incursions-into-crimea-with-at-least-two-killed-including.md) _(Current version)_
 
 ### Related:

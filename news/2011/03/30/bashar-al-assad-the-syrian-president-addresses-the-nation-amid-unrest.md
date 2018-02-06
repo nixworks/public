@@ -26,8 +26,8 @@ Syrian president delivers first public speech since security forces curbed anti-
 
 ### Changes:
 
-1. [Arab Spring:Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-pbashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md) _2017-08-25 03:32:41 (First version)_
-2. [Arab Spring:: 2011 Syrian protests: Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md) _2017-08-27 03:32:49 (Update)_
+1. [Arab Spring:Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-pbashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian protests: Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md) _2018-02-06 13:49:22 (Update)_
 2. [Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-m
 
 ### Changes:
 
-1. [French presidential election, 2017: New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/french-presidential-election-2017-new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-m.md) _2017-08-27 03:48:12 (First version)_
+1. [French presidential election, 2017: New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/french-presidential-election-2017-new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-m.md) _2018-02-06 13:49:30 (First version)_
 1. [New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-macron-and-marine-le-pen-ahead-of-the.md) _(Current version)_
 
 ### Related:

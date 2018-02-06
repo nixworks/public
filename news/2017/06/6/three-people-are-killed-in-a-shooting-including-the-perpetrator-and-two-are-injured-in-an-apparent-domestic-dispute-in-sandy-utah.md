@@ -16,5 +16,5 @@ Boy who died went to elementary school blocks from where violence unfolded, poli
 
 ### Changes:
 
-1. [2017 Sandy attack: Three people are killed in a shooting, including the perpetrator, and two are injured in an apparent domestic dispute in Sandy, Utah. ](/news/2017/06/6/2017-sandy-attack-three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in.md) _2017-08-27 03:48:26 (First version)_
+1. [2017 Sandy attack: Three people are killed in a shooting, including the perpetrator, and two are injured in an apparent domestic dispute in Sandy, Utah. ](/news/2017/06/6/2017-sandy-attack-three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in.md) _2018-02-06 13:49:30 (First version)_
 1. [Three people are killed in a shooting, including the perpetrator, and two are injured in an apparent domestic dispute in Sandy, Utah. ](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.md) _(Current version)_

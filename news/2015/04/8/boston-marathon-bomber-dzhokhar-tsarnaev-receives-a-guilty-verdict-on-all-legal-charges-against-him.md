@@ -17,7 +17,7 @@ Dzhokhar Tsarnaev was convicted in the Boston Marathon bombings.. A second trial
 
 ### Changes:
 
-1. [Boston Marathon bombings: Boston Marathon bomber Dzhokhar Tsarnaev receives a guilty verdict on all legal charges against him. ](/news/2015/04/8/boston-marathon-bombings-boston-marathon-bomber-dzhokhar-tsarnaev-receives-a-guilty-verdict-on-all-legal-charges-against-him.md) _2017-08-27 03:42:10 (First version)_
+1. [Boston Marathon bombings: Boston Marathon bomber Dzhokhar Tsarnaev receives a guilty verdict on all legal charges against him. ](/news/2015/04/8/boston-marathon-bombings-boston-marathon-bomber-dzhokhar-tsarnaev-receives-a-guilty-verdict-on-all-legal-charges-against-him.md) _2018-02-06 13:49:27 (First version)_
 1. [Boston Marathon bomber Dzhokhar Tsarnaev receives a guilty verdict on all legal charges against him. ](/news/2015/04/8/boston-marathon-bomber-dzhokhar-tsarnaev-receives-a-guilty-verdict-on-all-legal-charges-against-him.md) _(Current version)_
 
 ### Related:

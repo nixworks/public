@@ -16,8 +16,8 @@ At least 60 people have been killed and 120 injured at a funeral in the mainly S
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-pover-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bombi.md) _2017-08-25 03:39:18 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-over-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bomb.md) _2017-08-27 03:39:35 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-pover-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bombi.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-over-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bomb.md) _2018-02-06 13:49:25 (Update)_
 2. [Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/over-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bombing-at-a-shiite-funeral-in-baghdad-s-sadr.md) _(Current version)_
 
 ### Related:

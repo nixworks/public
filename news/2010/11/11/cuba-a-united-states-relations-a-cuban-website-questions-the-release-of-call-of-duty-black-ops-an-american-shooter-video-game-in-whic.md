@@ -16,8 +16,8 @@ Cuba has condemned the release of a new video game in which United States specia
 
 ### Changes:
 
-1. [Cuba - United States relations: A Cuban website questions the release of ''Call of Duty: Black Ops'', an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-a-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-wh.md) _2017-08-25 03:30:58 (First version)_
-2. [Cuba - United States relations: A Cuban website questions the release of "Call of Duty: Black Ops", an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-whic.md) _2017-08-27 03:31:05 (Update)_
+1. [Cuba - United States relations: A Cuban website questions the release of "Call of Duty: Black Ops", an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-whic.md) _2018-02-06 13:49:21 (First version)_
+2. [Cuba - United States relations: A Cuban website questions the release of ''Call of Duty: Black Ops'', an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-a-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-wh.md) _2018-02-06 13:49:21 (Update)_
 2. [Cuba - United States relations: A Cuban website questions the release of "Call of Duty: Black Ops", an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-a-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-whic.md) _(Current version)_
 
 ### Related:

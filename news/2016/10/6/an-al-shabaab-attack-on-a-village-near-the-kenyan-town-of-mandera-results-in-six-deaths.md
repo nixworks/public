@@ -17,7 +17,7 @@ Islamist militants from the Somali group al Shabaab killed six people in an atta
 
 ### Changes:
 
-1. [War in Somalia (2009-present): An al-Shabaab attack on a village near the Kenyan town of Mandera results in six deaths. ](/news/2016/10/6/war-in-somalia-2009-present-an-al-shabaab-attack-on-a-village-near-the-kenyan-town-of-mandera-results-in-six-deaths.md) _2017-08-27 03:46:59 (First version)_
+1. [War in Somalia (2009-present): An al-Shabaab attack on a village near the Kenyan town of Mandera results in six deaths. ](/news/2016/10/6/war-in-somalia-2009-present-an-al-shabaab-attack-on-a-village-near-the-kenyan-town-of-mandera-results-in-six-deaths.md) _2018-02-06 13:49:29 (First version)_
 1. [An al-Shabaab attack on a village near the Kenyan town of Mandera results in six deaths. ](/news/2016/10/6/an-al-shabaab-attack-on-a-village-near-the-kenyan-town-of-mandera-results-in-six-deaths.md) _(Current version)_
 
 ### Related:

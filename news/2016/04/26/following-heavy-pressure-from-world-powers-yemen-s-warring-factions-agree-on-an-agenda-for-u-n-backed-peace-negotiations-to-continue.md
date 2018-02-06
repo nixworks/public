@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/26/following-heavy-pressure-from-world-powers-yeme
 
 ### Changes:
 
-1. [Yemeni Civil War: Following heavy pressure from world powers, Yemen's warring factions agree on an agenda for U.N.-backed peace negotiations to continue. ](/news/2016/04/26/yemeni-civil-war-following-heavy-pressure-from-world-powers-yemen-s-warring-factions-agree-on-an-agenda-for-u-n-backed-peace-negotiations.md) _2017-08-27 03:45:50 (First version)_
+1. [Yemeni Civil War: Following heavy pressure from world powers, Yemen's warring factions agree on an agenda for U.N.-backed peace negotiations to continue. ](/news/2016/04/26/yemeni-civil-war-following-heavy-pressure-from-world-powers-yemen-s-warring-factions-agree-on-an-agenda-for-u-n-backed-peace-negotiations.md) _2018-02-06 13:49:28 (First version)_
 1. [Following heavy pressure from world powers, Yemen's warring factions agree on an agenda for U.N.-backed peace negotiations to continue. ](/news/2016/04/26/following-heavy-pressure-from-world-powers-yemen-s-warring-factions-agree-on-an-agenda-for-u-n-backed-peace-negotiations-to-continue.md) _(Current version)_
 
 ### Related:

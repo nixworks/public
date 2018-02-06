@@ -18,7 +18,7 @@ At least 100 terrorists are killed in the Egyptian army’s strikes against terr
 
 ### Changes:
 
-1. [Sinai Insurgency: Egypt launches strikes around Sheikh Zuweid in retaliation for the 15 Egyptian soldiers that were killed by ISIL-affiliated groups in the past week, killing about 100 terrorists according to Egyptian military sources. ](/news/2015/04/4/sinai-insurgency-egypt-launches-strikes-around-sheikh-zuweid-in-retaliation-for-the-15-egyptian-soldiers-that-were-killed-by-isil-affiliate.md) _2017-08-27 03:42:10 (First version)_
+1. [Sinai Insurgency: Egypt launches strikes around Sheikh Zuweid in retaliation for the 15 Egyptian soldiers that were killed by ISIL-affiliated groups in the past week, killing about 100 terrorists according to Egyptian military sources. ](/news/2015/04/4/sinai-insurgency-egypt-launches-strikes-around-sheikh-zuweid-in-retaliation-for-the-15-egyptian-soldiers-that-were-killed-by-isil-affiliate.md) _2018-02-06 13:49:27 (First version)_
 1. [Egypt launches strikes around Sheikh Zuweid in retaliation for the 15 Egyptian soldiers that were killed by ISIL-affiliated groups in the past week, killing about 100 terrorists according to Egyptian military sources. ](/news/2015/04/4/egypt-launches-strikes-around-sheikh-zuweid-in-retaliation-for-the-15-egyptian-soldiers-that-were-killed-by-isil-affiliated-groups-in-the-pa.md) _(Current version)_
 
 ### Related:

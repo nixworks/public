@@ -17,7 +17,7 @@ The Kurdish rebel group, the PKK, tells the BBC it is ready to escalate its figh
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict (2015-present): Two Turkish soldiers are killed and four are wounded in an attack by Kurdish militants in southeastern Turkey. ](/news/2016/04/25/kurdish-turkish-conflict-2015-present-two-turkish-soldiers-are-killed-and-four-are-wounded-in-an-attack-by-kurdish-militants-in-south.md) _2017-08-27 03:45:50 (First version)_
+1. [Kurdish-Turkish conflict (2015-present): Two Turkish soldiers are killed and four are wounded in an attack by Kurdish militants in southeastern Turkey. ](/news/2016/04/25/kurdish-turkish-conflict-2015-present-two-turkish-soldiers-are-killed-and-four-are-wounded-in-an-attack-by-kurdish-militants-in-south.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Turkish soldiers are killed and four are wounded in an attack by Kurdish militants in southeastern Turkey. ](/news/2016/04/25/two-turkish-soldiers-are-killed-and-four-are-wounded-in-an-attack-by-kurdish-militants-in-southeastern-turkey.md) _(Current version)_
 
 ### Related:

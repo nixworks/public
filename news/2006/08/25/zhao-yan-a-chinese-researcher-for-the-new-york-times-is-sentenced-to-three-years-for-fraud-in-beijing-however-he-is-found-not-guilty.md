@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/25/zhao-yan-a-chinese-researcher-for-the-new-york-
 
 ### Changes:
 
-1. [ Zhao Yan, a Chinese researcher for the ''New York Times,'' is sentenced to three years for fraud in Beijing. However, he is found not guilty of leaking state secrets. ](/news/2006/08/25/zhao-yan-a-chinese-researcher-for-the-new-york-times-is-sentenced-to-three-years-for-fraud-in-beijing-however-he-is-found-not-guilt.md) _2017-08-25 03:18:16 (First version)_
+1. [ Zhao Yan, a Chinese researcher for the ''New York Times,'' is sentenced to three years for fraud in Beijing. However, he is found not guilty of leaking state secrets. ](/news/2006/08/25/zhao-yan-a-chinese-researcher-for-the-new-york-times-is-sentenced-to-three-years-for-fraud-in-beijing-however-he-is-found-not-guilt.md) _2018-02-06 13:49:17 (First version)_
 1. [ Zhao Yan, a Chinese researcher for the "New York Times," is sentenced to three years for fraud in Beijing. However, he is found not guilty of leaking state secrets. ](/news/2006/08/25/zhao-yan-a-chinese-researcher-for-the-new-york-times-is-sentenced-to-three-years-for-fraud-in-beijing-however-he-is-found-not-guilty.md) _(Current version)_
 
 ### Related:

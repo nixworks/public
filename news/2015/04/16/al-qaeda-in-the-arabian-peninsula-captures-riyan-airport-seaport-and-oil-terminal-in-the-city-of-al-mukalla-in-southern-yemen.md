@@ -17,7 +17,7 @@ Military officials and residents say al Qaeda has taken control of a major airpo
 
 ### Changes:
 
-1. [Yemeni Civil War: Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/yemeni-civil-war-al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-y.md) _2017-08-27 03:42:13 (First version)_
+1. [Yemeni Civil War: Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/yemeni-civil-war-al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-y.md) _2018-02-06 13:49:27 (First version)_
 1. [Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-yemen.md) _(Current version)_
 
 ### Related:

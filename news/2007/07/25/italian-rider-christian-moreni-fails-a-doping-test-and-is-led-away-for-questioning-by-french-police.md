@@ -17,7 +17,7 @@ Formats: [HTML](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-t
 
 ### Changes:
 
-1. [ 2007 Tour de France: Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/2007-tour-de-france-italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md) _2017-08-27 03:20:16 (First version)_
+1. [ 2007 Tour de France: Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/2007-tour-de-france-italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md) _2018-02-06 13:49:17 (First version)_
 1. [ Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md) _(Current version)_
 
 ### Related:

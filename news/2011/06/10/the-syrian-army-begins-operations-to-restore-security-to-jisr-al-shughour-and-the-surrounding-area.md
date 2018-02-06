@@ -19,8 +19,8 @@ Syrian state TV reports the army has begun operations in Jisr al-Shughour, where
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-pthe-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _2017-08-25 03:33:27 (First version)_
-2. [2011 Syrian uprising:: The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _2017-08-27 03:33:35 (Update)_
+1. [2011 Syrian uprising:: The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-pthe-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _2018-02-06 13:49:22 (Update)_
 2. [The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md) _(Current version)_
 
 ### Related:

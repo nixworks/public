@@ -17,7 +17,7 @@ Two brothers, who belong to a New Orleans gang, have been charged with opening f
 
 ### Changes:
 
-1. [Two brothers are arrested in connection with the Mother-s Day parade shooting that wounded 20 in New Orleans. ](/news/2013/05/16/two-brothers-are-arrested-in-connection-with-the-mother-s-day-parade-shooting-that-wounded-20-in-new-orleans.md) _2017-08-27 03:38:54 (First version)_
+1. [Two brothers are arrested in connection with the Mother-s Day parade shooting that wounded 20 in New Orleans. ](/news/2013/05/16/two-brothers-are-arrested-in-connection-with-the-mother-s-day-parade-shooting-that-wounded-20-in-new-orleans.md) _2018-02-06 13:49:24 (First version)_
 1. [Two brothers are arrested in connection with the Mother's Day parade shooting that wounded 20 in New Orleans. ](/news/2013/05/16/two-brothers-are-arrested-in-connection-with-the-motheras-day-parade-shooting-that-wounded-20-in-new-orleans.md) _(Current version)_
 
 ### Related:

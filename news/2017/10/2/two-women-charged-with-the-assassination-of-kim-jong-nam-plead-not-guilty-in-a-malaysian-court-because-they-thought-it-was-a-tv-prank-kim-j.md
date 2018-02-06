@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-
 
 ### Changes:
 
-1. [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank.md) _2017-10-03 20:30:06 (First version)_
-2. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md) _2017-10-05 03:57:13 (Update)_
+1. [Two Women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank.md) _2018-02-06 13:49:31 (First version)_
+2. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. He was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-he-wa.md) _2018-02-06 13:49:31 (Update)_
 2. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Mortar fire hits the University of Damascus, killing 15 students and wounding se
 
 ### Changes:
 
-1. [Syrian civil war:Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-pmortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md) _2017-08-25 03:38:04 (First version)_
-2. [Syrian civil war:: Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md) _2017-08-27 03:38:15 (Update)_
+1. [Syrian civil war:Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-pmortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md) _2018-02-06 13:49:24 (Update)_
 2. [Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md) _(Current version)_
 
 ### Related:

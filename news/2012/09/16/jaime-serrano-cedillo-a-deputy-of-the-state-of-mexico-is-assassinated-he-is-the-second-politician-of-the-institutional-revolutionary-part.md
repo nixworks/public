@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/09/16/jaime-serrano-cedillo-a-deputy-of-the-state-of-
 
 ### Changes:
 
-1. [Mexican Drug War: Jaime Serrano Cedillo, a deputy of the State of Mexico, is assassinated; he is the second politician of the Institutional Revolutionary Party (PRI) to be killed in just two days. Eduardo Castro Luque was killed by unknown assailants on Friday night. ](/news/2012/09/16/mexican-drug-war-jaime-serrano-cedillo-a-deputy-of-the-state-of-mexico-is-assassinated-he-is-the-second-politician-of-the-institutional.md) _2017-08-27 03:36:41 (First version)_
+1. [Mexican Drug War: Jaime Serrano Cedillo, a deputy of the State of Mexico, is assassinated; he is the second politician of the Institutional Revolutionary Party (PRI) to be killed in just two days. Eduardo Castro Luque was killed by unknown assailants on Friday night. ](/news/2012/09/16/mexican-drug-war-jaime-serrano-cedillo-a-deputy-of-the-state-of-mexico-is-assassinated-he-is-the-second-politician-of-the-institutional.md) _2018-02-06 13:49:23 (First version)_
 1. [Jaime Serrano Cedillo, a deputy of the State of Mexico, is assassinated; he is the second politician of the Institutional Revolutionary Party (PRI) to be killed in just two days. Eduardo Castro Luque was killed by unknown assailants on Friday night. ](/news/2012/09/16/jaime-serrano-cedillo-a-deputy-of-the-state-of-mexico-is-assassinated-he-is-the-second-politician-of-the-institutional-revolutionary-part.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/26/american-film-director-jonathan-demme-winner-of
 
 ### Changes:
 
-1. [American film director Jonathan Demme, winner of the Academy Award for Best Director for ''The Silence of the Lambs'', dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications.md) _2017-08-25 03:47:48 (First version)_
+1. [American film director Jonathan Demme, winner of the Academy Award for Best Director for ''The Silence of the Lambs'', dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications.md) _2018-02-06 13:49:30 (First version)_
 1. [American film director Jonathan Demme, winner of the Academy Award for Best Director for "The Silence of the Lambs", dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications-f.md) _(Current version)_
 
 ### Related:

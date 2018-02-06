@@ -16,8 +16,8 @@ Shock as authoritarian president’s office reports that he has left official re
 
 ### Changes:
 
-1. [Sri Lankan presidential election, 2015 Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-pmahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _2017-05-25 03:43:22 (First version)_
-2. [Sri Lankan presidential election, 2015: Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _2017-08-27 03:41:46 (Update)_
+1. [Sri Lankan presidential election, 2015 Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-pmahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _2018-02-06 13:49:26 (First version)_
+2. [Sri Lankan presidential election, 2015: Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _2018-02-06 13:49:26 (Update)_
 2. [Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md) _(Current version)_
 
 ### Related:

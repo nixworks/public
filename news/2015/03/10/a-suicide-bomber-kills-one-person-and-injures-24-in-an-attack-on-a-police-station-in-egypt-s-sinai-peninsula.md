@@ -16,7 +16,7 @@ Two bombings in Egypt&#x27;s Sinai Peninsula, one of them a suicide attack on a 
 
 ### Changes:
 
-1. [Sinai insurgency: A suicide bomber kills one person and injures 24 in an attack on a police station in Egypt's Sinai Peninsula. ](/news/2015/03/10/sinai-insurgency-a-suicide-bomber-kills-one-person-and-injures-24-in-an-attack-on-a-police-station-in-egypt-s-sinai-peninsula.md) _2017-08-27 03:42:04 (First version)_
+1. [Sinai insurgency: A suicide bomber kills one person and injures 24 in an attack on a police station in Egypt's Sinai Peninsula. ](/news/2015/03/10/sinai-insurgency-a-suicide-bomber-kills-one-person-and-injures-24-in-an-attack-on-a-police-station-in-egypt-s-sinai-peninsula.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber kills one person and injures 24 in an attack on a police station in Egypt's Sinai Peninsula. ](/news/2015/03/10/a-suicide-bomber-kills-one-person-and-injures-24-in-an-attack-on-a-police-station-in-egypt-s-sinai-peninsula.md) _(Current version)_
 
 ### Related:

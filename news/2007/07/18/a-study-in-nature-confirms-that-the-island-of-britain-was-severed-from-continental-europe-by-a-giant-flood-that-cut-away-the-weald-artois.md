@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-b
 
 ### Changes:
 
-1. [ A study in ''Nature'' confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-arto.md) _2017-08-25 03:20:13 (First version)_
+1. [ A study in ''Nature'' confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-arto.md) _2018-02-06 13:49:17 (First version)_
 1. [ A study in "Nature" confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-artois.md) _(Current version)_
 
 ### Related:

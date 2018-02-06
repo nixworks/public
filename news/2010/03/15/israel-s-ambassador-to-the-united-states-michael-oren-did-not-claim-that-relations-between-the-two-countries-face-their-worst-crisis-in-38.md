@@ -17,8 +17,8 @@ Exclusive: New research report highlights extensive use of civilians during Gaza
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israel's ambassador to the United States, Michael Oren, did not claim that relations between the two countries face their worst crisis in 38 years. ](/news/2010/03/15/israeliapalestinian-conflict-pisrael-s-ambassador-to-the-united-states-michael-oren-did-not-claim-that-relations-between-the-two-countri.md) _2017-08-25 03:27:23 (First version)_
-2. [Israeli-Palestinian conflict:: Israel's ambassador to the United States, Michael Oren, did not claim that relations between the two countries face their worst crisis in 38 years. ](/news/2010/03/15/israeli-palestinian-conflict-israel-s-ambassador-to-the-united-states-michael-oren-did-not-claim-that-relations-between-the-two-countr.md) _2017-08-27 03:27:18 (Update)_
+1. [Israeli-Palestinian conflict:Israel's ambassador to the United States, Michael Oren, did not claim that relations between the two countries face their worst crisis in 38 years. ](/news/2010/03/15/israeliapalestinian-conflict-pisrael-s-ambassador-to-the-united-states-michael-oren-did-not-claim-that-relations-between-the-two-countri.md) _2018-02-06 13:49:19 (First version)_
+2. [Israeli-Palestinian conflict:: Israel's ambassador to the United States, Michael Oren, did not claim that relations between the two countries face their worst crisis in 38 years. ](/news/2010/03/15/israeli-palestinian-conflict-israel-s-ambassador-to-the-united-states-michael-oren-did-not-claim-that-relations-between-the-two-countr.md) _2018-02-06 13:49:19 (Update)_
 2. [Israel's ambassador to the United States, Michael Oren, did not claim that relations between the two countries face their worst crisis in 38 years. ](/news/2010/03/15/israel-s-ambassador-to-the-united-states-michael-oren-did-not-claim-that-relations-between-the-two-countries-face-their-worst-crisis-in-38.md) _(Current version)_
 
 ### Related:

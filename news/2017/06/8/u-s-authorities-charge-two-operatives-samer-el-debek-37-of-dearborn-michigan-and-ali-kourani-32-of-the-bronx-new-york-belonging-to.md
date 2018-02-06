@@ -16,7 +16,7 @@ Targets included an embassy in Central America and Israeli military personnel fa
 
 ### Changes:
 
-1. [Hezbollah: U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. ](/news/2017/06/8/hezbollah-u-s-authorities-charge-two-operatives-samer-el-debek-37-of-dearborn-michigan-and-ali-kourani-32-of-the-bronx-new-york-b.md) _2017-08-27 03:48:26 (First version)_
+1. [Hezbollah: U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. ](/news/2017/06/8/hezbollah-u-s-authorities-charge-two-operatives-samer-el-debek-37-of-dearborn-michigan-and-ali-kourani-32-of-the-bronx-new-york-b.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. ](/news/2017/06/8/u-s-authorities-charge-two-operatives-samer-el-debek-37-of-dearborn-michigan-and-ali-kourani-32-of-the-bronx-new-york-belonging-to.md) _(Current version)_
 
 ### Related:

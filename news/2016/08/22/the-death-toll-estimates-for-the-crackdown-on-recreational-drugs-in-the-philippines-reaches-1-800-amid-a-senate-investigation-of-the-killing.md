@@ -16,7 +16,7 @@ Senator Leila de Lima, a staunch critic of the president, started a two-day cong
 
 ### Changes:
 
-1. [Philippine Drug War: The death toll estimates for the crackdown on recreational drugs in the Philippines reaches 1,800 amid a senate investigation of the killings. ](/news/2016/08/22/philippine-drug-war-the-death-toll-estimates-for-the-crackdown-on-recreational-drugs-in-the-philippines-reaches-1-800-amid-a-senate-investi.md) _2017-08-27 03:46:41 (First version)_
+1. [Philippine Drug War: The death toll estimates for the crackdown on recreational drugs in the Philippines reaches 1,800 amid a senate investigation of the killings. ](/news/2016/08/22/philippine-drug-war-the-death-toll-estimates-for-the-crackdown-on-recreational-drugs-in-the-philippines-reaches-1-800-amid-a-senate-investi.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll estimates for the crackdown on recreational drugs in the Philippines reaches 1,800 amid a senate investigation of the killings. ](/news/2016/08/22/the-death-toll-estimates-for-the-crackdown-on-recreational-drugs-in-the-philippines-reaches-1-800-amid-a-senate-investigation-of-the-killing.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/07/13/the-death-toll-in-the-sinking-of-the-mv-blue-wa
 
 ### Changes:
 
-1. [ Typhoon Man-yi: The death toll in the sinking of the MV ''Blue Water Princess'' of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-p-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md) _2017-08-25 03:20:10 (First version)_
-2. [ Typhoon Man-yi:: The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md) _2017-08-27 03:20:09 (Update)_
+1. [ Typhoon Man-yi:: The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md) _2018-02-06 13:49:17 (First version)_
+2. [ Typhoon Man-yi: The death toll in the sinking of the MV ''Blue Water Princess'' of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-p-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md) _2018-02-06 13:49:17 (Update)_
 2. [ The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md) _(Current version)_
 
 ### Related:

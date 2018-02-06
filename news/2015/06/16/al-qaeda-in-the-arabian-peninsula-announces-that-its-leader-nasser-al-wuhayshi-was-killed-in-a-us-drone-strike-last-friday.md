@@ -16,7 +16,7 @@ Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. ](/news/2015/06/16/al-qaeda-insurgency-in-yemen-al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike.md) _2017-08-27 03:42:33 (First version)_
+1. [al-Qaeda insurgency in Yemen: al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. ](/news/2015/06/16/al-qaeda-insurgency-in-yemen-al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike.md) _2018-02-06 13:49:27 (First version)_
 1. [al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. ](/news/2015/06/16/al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike-last-friday.md) _(Current version)_
 
 ### Related:

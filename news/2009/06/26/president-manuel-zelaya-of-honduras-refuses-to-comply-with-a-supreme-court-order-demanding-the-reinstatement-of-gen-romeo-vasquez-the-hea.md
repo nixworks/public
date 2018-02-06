@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/26/president-manuel-zelaya-of-honduras-refuses-to-
 
 ### Changes:
 
-1. [ President Manuel Zelaya of Honduras refuses to comply with a Supreme Court order demanding the reinstatement of Gen. Romeo Vsquez, the head of the country's armed forces, as part of an ongoing dispute over a planned referendum. ](/news/2009/06/26/president-manuel-zelaya-of-honduras-refuses-to-comply-with-a-supreme-court-order-demanding-the-reinstatement-of-gen-romeo-vasquez-the-he.md) _2017-08-25 03:24:59 (First version)_
+1. [ President Manuel Zelaya of Honduras refuses to comply with a Supreme Court order demanding the reinstatement of Gen. Romeo Vsquez, the head of the country's armed forces, as part of an ongoing dispute over a planned referendum. ](/news/2009/06/26/president-manuel-zelaya-of-honduras-refuses-to-comply-with-a-supreme-court-order-demanding-the-reinstatement-of-gen-romeo-vasquez-the-he.md) _2018-02-06 13:49:19 (First version)_
 1. [ President Manuel Zelaya of Honduras refuses to comply with a Supreme Court order demanding the reinstatement of Gen. Romeo Vsquez, the head of the country's armed forces, as part of an ongoing dispute over a planned referendum. ](/news/2009/06/26/president-manuel-zelaya-of-honduras-refuses-to-comply-with-a-supreme-court-order-demanding-the-reinstatement-of-gen-romeo-vasquez-the-hea.md) _(Current version)_
 
 ### Related:

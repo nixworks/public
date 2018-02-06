@@ -21,8 +21,8 @@ President Ali Abdullah Saleh said he supports &#034;peaceful&#034; change in lin
 
 ### Changes:
 
-1. [Arab Spring:2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/arab-spring-p2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and.md) _2017-08-25 03:32:54 (First version)_
-2. [Arab Spring:: 2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/arab-spring-2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and.md) _2017-08-27 03:33:03 (Update)_
+1. [Arab Spring:2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/arab-spring-p2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/arab-spring-2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and-elsewhere-as.md) _(Current version)_
 
 ### Related:

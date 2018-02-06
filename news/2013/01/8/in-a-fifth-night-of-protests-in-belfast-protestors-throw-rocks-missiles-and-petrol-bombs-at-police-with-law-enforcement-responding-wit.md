@@ -16,8 +16,8 @@ Police fired plastic bullets during a fifth night of rioting in Belfast over a d
 
 ### Changes:
 
-1. [Belfast City Hall flag protests:In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/belfast-city-hall-flag-protests-pin-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-wi.md) _2017-08-25 03:37:13 (First version)_
-2. [Belfast City Hall flag protests:: In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/belfast-city-hall-flag-protests-in-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-w.md) _2017-08-27 03:37:24 (Update)_
+1. [Belfast City Hall flag protests:In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/belfast-city-hall-flag-protests-pin-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-wi.md) _2018-02-06 13:49:24 (First version)_
+2. [Belfast City Hall flag protests:: In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/belfast-city-hall-flag-protests-in-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-w.md) _2018-02-06 13:49:24 (Update)_
 2. [In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/in-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-with-law-enforcement-responding-wit.md) _(Current version)_
 
 ### Related:

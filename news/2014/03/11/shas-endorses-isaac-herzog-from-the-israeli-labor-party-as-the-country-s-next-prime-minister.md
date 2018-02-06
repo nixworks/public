@@ -17,7 +17,7 @@ During a special meeting, Shas head says opposition&#8217;s main goal is to topp
 
 ### Changes:
 
-1. [Politics of Israel: Shas endorses Isaac Herzog from the Israeli Labor Party as the country's next prime minister. ](/news/2014/03/11/politics-of-israel-shas-endorses-isaac-herzog-from-the-israeli-labor-party-as-the-country-s-next-prime-minister.md) _2017-08-27 03:40:27 (First version)_
+1. [Politics of Israel: Shas endorses Isaac Herzog from the Israeli Labor Party as the country's next prime minister. ](/news/2014/03/11/politics-of-israel-shas-endorses-isaac-herzog-from-the-israeli-labor-party-as-the-country-s-next-prime-minister.md) _2018-02-06 13:49:25 (First version)_
 1. [Shas endorses Isaac Herzog from the Israeli Labor Party as the country's next prime minister. ](/news/2014/03/11/shas-endorses-isaac-herzog-from-the-israeli-labor-party-as-the-country-s-next-prime-minister.md) _(Current version)_
 
 ### Related:

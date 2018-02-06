@@ -16,7 +16,7 @@ New Jersey Lt. Gov. Kim Guadagno denies accusation that she tied Superstorm Sand
 
 ### Changes:
 
-1. [Bridgegate scandal: Kim Guadagno denies accusations that she withheld funds for the victims of Hurricane Sandy. ](/news/2014/01/20/bridgegate-scandal-kim-guadagno-denies-accusations-that-she-withheld-funds-for-the-victims-of-hurricane-sandy.md) _2017-08-27 03:40:12 (First version)_
+1. [Bridgegate scandal: Kim Guadagno denies accusations that she withheld funds for the victims of Hurricane Sandy. ](/news/2014/01/20/bridgegate-scandal-kim-guadagno-denies-accusations-that-she-withheld-funds-for-the-victims-of-hurricane-sandy.md) _2018-02-06 13:49:25 (First version)_
 1. [Kim Guadagno denies accusations that she withheld funds for the victims of Hurricane Sandy. ](/news/2014/01/20/kim-guadagno-denies-accusations-that-she-withheld-funds-for-the-victims-of-hurricane-sandy.md) _(Current version)_
 
 ### Related:

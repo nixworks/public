@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/29/law-enforcement-officials-believed-abdul-razak-
 
 ### Changes:
 
-1. [2016 Ohio State University attack: Law enforcement officials believed Abdul Razak Ali Artan, the perpetrator of a car ramming and stabbing attack at Ohio State University (OSU)'s Watts Hall, was inspired by terrorist propaganda from the Islamic State of Iraq and the Levant, and radical Muslim cleric Anwar al-Awlaki. ](/news/2016/11/29/2016-ohio-state-university-attack-law-enforcement-officials-believed-abdul-razak-ali-artan-the-perpetrator-of-a-car-ramming-and-stabbing-a.md) _2017-08-27 03:47:20 (First version)_
+1. [2016 Ohio State University attack: Law enforcement officials believed Abdul Razak Ali Artan, the perpetrator of a car ramming and stabbing attack at Ohio State University (OSU)'s Watts Hall, was inspired by terrorist propaganda from the Islamic State of Iraq and the Levant, and radical Muslim cleric Anwar al-Awlaki. ](/news/2016/11/29/2016-ohio-state-university-attack-law-enforcement-officials-believed-abdul-razak-ali-artan-the-perpetrator-of-a-car-ramming-and-stabbing-a.md) _2018-02-06 13:49:29 (First version)_
 1. [Law enforcement officials believed Abdul Razak Ali Artan, the perpetrator of a car ramming and stabbing attack at Ohio State University (OSU)'s Watts Hall, was inspired by terrorist propaganda from the Islamic State of Iraq and the Levant, and radical Muslim cleric Anwar al-Awlaki. ](/news/2016/11/29/law-enforcement-officials-believed-abdul-razak-ali-artan-the-perpetrator-of-a-car-ramming-and-stabbing-attack-at-ohio-state-university-osu.md) _(Current version)_
 
 ### Related:

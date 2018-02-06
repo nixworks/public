@@ -16,8 +16,8 @@ Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south
 
 ### Changes:
 
-1. [Islamic insurgency in the Philippines:Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/islamic-insurgency-in-the-philippines-pphilippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-in.md) _2017-08-25 03:39:17 (First version)_
-2. [Islamic insurgency in the Philippines:: Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/islamic-insurgency-in-the-philippines-philippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-i.md) _2017-08-27 03:39:34 (Update)_
+1. [Islamic insurgency in the Philippines:Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/islamic-insurgency-in-the-philippines-pphilippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-in.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamic insurgency in the Philippines:: Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/islamic-insurgency-in-the-philippines-philippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-i.md) _2018-02-06 13:49:25 (Update)_
 2. [Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/philippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-in-the-battle-of-zamboanga-city-in-the-ci.md) _(Current version)_
 
 ### Related:

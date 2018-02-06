@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran
 
 ### Changes:
 
-1. [Qatar restores diplomatic ties with Iran. Teheran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-teheran-welcomes-the-move.md) _2017-08-24 17:30:05 (First version)_
-2. [Iran-Qatar relations: Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/iran-qatar-relations-qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _2017-08-27 17:30:04 (Update)_
+1. [Qatar restores diplomatic ties with Iran. Teheran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-teheran-welcomes-the-move.md) _2018-02-06 13:49:31 (First version)_
+2. [Iran-Qatar relations: Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/iran-qatar-relations-qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _2018-02-06 13:49:31 (Update)_
 2. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _(Current version)_
 
 ### Related:

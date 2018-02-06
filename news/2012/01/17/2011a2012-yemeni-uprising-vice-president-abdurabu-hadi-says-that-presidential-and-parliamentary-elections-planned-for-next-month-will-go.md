@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdura
 
 ### Changes:
 
-1. [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011-2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md) _2017-08-27 03:35:00 (First version)_
+1. [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011-2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md) _(Current version)_
 
 ### Related:

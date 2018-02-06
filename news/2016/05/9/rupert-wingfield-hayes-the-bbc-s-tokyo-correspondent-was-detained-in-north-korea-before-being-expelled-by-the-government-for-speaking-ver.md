@@ -16,7 +16,7 @@ BBC correspondent Rupert Wingfield-Hayes and his team fly to Beijing after being
 
 ### Changes:
 
-1. [North Korea-United Kingdom relations: Rupert Wingfield-Hayes, the BBC's Tokyo correspondent, was detained in North Korea before being expelled by the government for "speaking very ill of the system". ](/news/2016/05/9/north-korea-united-kingdom-relations-rupert-wingfield-hayes-the-bbc-s-tokyo-correspondent-was-detained-in-north-korea-before-being-expe.md) _2017-08-27 03:46:00 (First version)_
+1. [North Korea-United Kingdom relations: Rupert Wingfield-Hayes, the BBC's Tokyo correspondent, was detained in North Korea before being expelled by the government for "speaking very ill of the system". ](/news/2016/05/9/north-korea-united-kingdom-relations-rupert-wingfield-hayes-the-bbc-s-tokyo-correspondent-was-detained-in-north-korea-before-being-expe.md) _2018-02-06 13:49:29 (First version)_
 1. [Rupert Wingfield-Hayes, the BBC's Tokyo correspondent, was detained in North Korea before being expelled by the government for "speaking very ill of the system". ](/news/2016/05/9/rupert-wingfield-hayes-the-bbc-s-tokyo-correspondent-was-detained-in-north-korea-before-being-expelled-by-the-government-for-speaking-ver.md) _(Current version)_
 
 ### Related:

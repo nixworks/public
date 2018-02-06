@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/11/28/at-least-54-people-are-killed-and-more-than-120
 
 ### Changes:
 
-1. [Syrian civil war:At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-pat-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascus.md) _2017-08-25 03:36:53 (First version)_
-2. [Syrian civil war:: At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascu.md) _2017-08-27 03:37:04 (Update)_
+1. [Syrian civil war:At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-pat-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascus.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascu.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascus-syria-s-capital.md) _(Current version)_
 
 ### Related:

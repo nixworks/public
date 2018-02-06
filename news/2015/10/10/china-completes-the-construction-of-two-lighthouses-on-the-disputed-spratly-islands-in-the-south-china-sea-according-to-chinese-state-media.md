@@ -16,7 +16,7 @@ The United States and the Philippines opposed the construction, as tensions in t
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: China completes the construction of two lighthouses on the disputed Spratly Islands in the South China Sea according to Chinese state media. The U.S. and the Philippines have opposed the construction efforts. ](/news/2015/10/10/territorial-disputes-in-the-south-china-sea-china-completes-the-construction-of-two-lighthouses-on-the-disputed-spratly-islands-in-the-sout.md) _2017-08-27 03:43:18 (First version)_
+1. [Territorial disputes in the South China Sea: China completes the construction of two lighthouses on the disputed Spratly Islands in the South China Sea according to Chinese state media. The U.S. and the Philippines have opposed the construction efforts. ](/news/2015/10/10/territorial-disputes-in-the-south-china-sea-china-completes-the-construction-of-two-lighthouses-on-the-disputed-spratly-islands-in-the-sout.md) _2018-02-06 13:49:27 (First version)_
 1. [China completes the construction of two lighthouses on the disputed Spratly Islands in the South China Sea according to Chinese state media. The U.S. and the Philippines have opposed the construction efforts. ](/news/2015/10/10/china-completes-the-construction-of-two-lighthouses-on-the-disputed-spratly-islands-in-the-south-china-sea-according-to-chinese-state-media.md) _(Current version)_
 
 ### Related:

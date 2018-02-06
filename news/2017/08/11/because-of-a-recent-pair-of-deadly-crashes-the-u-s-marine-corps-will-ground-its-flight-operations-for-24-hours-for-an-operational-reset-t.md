@@ -17,8 +17,8 @@ The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight
 
 ### Changes:
 
-1. [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset.md) _2017-08-12 23:30:04 (First version)_
-2. [Military of the United States: Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/military-of-the-united-states-because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-ho.md) _2017-08-27 03:48:47 (Update)_
+1. [Military of the United States: Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/military-of-the-united-states-because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-ho.md) _2018-02-06 13:49:31 (First version)_
+2. [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset.md) _2018-02-06 13:49:31 (Update)_
 2. [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset-t.md) _(Current version)_
 
 ### Related:

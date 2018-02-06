@@ -18,7 +18,7 @@ Poland&apos;s former president confirms that he allowed a CIA black site to oper
 
 ### Changes:
 
-1. [Human Rights Day: Amnesty International notes that torture still occurs in some countries. ](/news/2014/12/10/human-rights-day-amnesty-international-notes-that-torture-still-occurs-in-some-countries.md) _2017-08-27 03:41:36 (First version)_
+1. [Human Rights Day: Amnesty International notes that torture still occurs in some countries. ](/news/2014/12/10/human-rights-day-amnesty-international-notes-that-torture-still-occurs-in-some-countries.md) _2018-02-06 13:49:26 (First version)_
 1. [Amnesty International notes that torture still occurs in some countries. ](/news/2014/12/10/amnesty-international-notes-that-torture-still-occurs-in-some-countries.md) _(Current version)_
 
 ### Related:

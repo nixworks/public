@@ -17,7 +17,7 @@ Rebel forces were caught completely off-guard overnight when hundreds of ISIS mi
 
 ### Changes:
 
-1. [Syrian Civil War: The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/syrian-civil-war-the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants.md) _2017-08-27 03:47:51 (First version)_
+1. [Syrian Civil War: The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/syrian-civil-war-the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants.md) _2018-02-06 13:49:30 (First version)_
 1. [The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants-capturing-the-to.md) _(Current version)_
 
 ### Related:

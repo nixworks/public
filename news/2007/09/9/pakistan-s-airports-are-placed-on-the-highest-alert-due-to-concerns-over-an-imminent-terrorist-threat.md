@@ -18,7 +18,7 @@ Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight fro
 
 ### Changes:
 
-1. [ Pakistan: Pakistan's airports are placed on the highest alert due to concerns over an imminent terrorist threat. ](/news/2007/09/9/pakistan-pakistan-s-airports-are-placed-on-the-highest-alert-due-to-concerns-over-an-imminent-terrorist-threat.md) _2017-08-27 03:20:51 (First version)_
+1. [ Pakistan: Pakistan's airports are placed on the highest alert due to concerns over an imminent terrorist threat. ](/news/2007/09/9/pakistan-pakistan-s-airports-are-placed-on-the-highest-alert-due-to-concerns-over-an-imminent-terrorist-threat.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pakistan's airports are placed on the highest alert due to concerns over an imminent terrorist threat. ](/news/2007/09/9/pakistan-s-airports-are-placed-on-the-highest-alert-due-to-concerns-over-an-imminent-terrorist-threat.md) _(Current version)_
 
 ### Related:

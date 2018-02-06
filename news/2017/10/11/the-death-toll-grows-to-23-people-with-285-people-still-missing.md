@@ -18,8 +18,8 @@ More people have been evacuated as crews battle heavy winds Wednesday and a spre
 
 ### Changes:
 
-1. [The death toll grows to 21 people with 380 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-21-people-with-380-people-still-missing.md) _2017-10-12 03:57:01 (First version)_
-2. [The death toll grows to 23 people with 380 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-23-people-with-380-people-still-missing.md) _2017-10-12 07:30:06 (Update)_
+1. [The death toll grows to 23 people with 380 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-23-people-with-380-people-still-missing.md) _2018-02-06 13:49:31 (First version)_
+2. [The death toll grows to 21 people with 380 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-21-people-with-380-people-still-missing.md) _2018-02-06 13:49:31 (Update)_
 2. [The death toll grows to 23 people with 285 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-23-people-with-285-people-still-missing.md) _(Current version)_
 
 ### Related:

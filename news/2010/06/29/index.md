@@ -35,7 +35,7 @@ _Context: Hyderabad_
 ### [Six people are killed in a train derailment in East Java, Indonesia. ](/news/2010/06/29/six-people-are-killed-in-a-train-derailment-in-east-java-indonesia.md)
 _Context: East Java, Indonesia_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md)
 Former French leader Jacques Chirac believed the Iraq war was a &quot;dangerous venture&quot;, the Iraq inquiry is told as hearings restart.
 
@@ -49,11 +49,11 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 
 ##### Indonesia
 ### [Indonesian publisher and blogger, the "Prince of Jihad", is imprisoned for five years after being convicted of concealing information about suicide attacks on two hotels in Jakarta. ](/news/2010/06/29/indonesian-publisher-and-blogger-the-prince-of-jihad-is-imprisoned-for-five-years-after-being-convicted-of-concealing-information-about.md)
-_Context: Indonesia, Jakarta, suicide attacks on two hotels_
+_Context: suicide attacks on two hotels, Jakarta, Indonesia_
 
 ##### Jayant Patel
 ### [Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. ](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.md)
-_Context: Bundaberg, Supreme Court, Jayant Patel, Base Hospital, Australia, Queensland, manslaughter by gross negligence_
+_Context: Queensland, Jayant Patel, Bundaberg, Australia, Base Hospital, Supreme Court, manslaughter by gross negligence_
 
 ##### Sydney
 ### [Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/sydney-experiences-its-coldest-june-day-in-27-years.md)
@@ -61,11 +61,11 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 
 ##### major floods
 ### [At least 21 people die and hundreds are evacuated after major floods in the northeast of Romania. ](/news/2010/06/29/at-least-21-people-die-and-hundreds-are-evacuated-after-major-floods-in-the-northeast-of-romania.md)
-_Context: major floods, Romania_
+_Context: Romania, major floods_
 
 ##### Hurricane Alex
 ### [Hurricane Alex becomes the first hurricane of the 2010 Atlantic hurricane season with warnings posted from Baffin Bay, Texas south to Mexico. ](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.md)
-_Context: Baffin Bay, 2010 Atlantic hurricane season, Texas, Hurricane Alex, Mexico, hurricane_
+_Context: hurricane, Hurricane Alex, Baffin Bay, Mexico, Texas, 2010 Atlantic hurricane season_
 
 ##### swine flu
 ### [21 suspected cases of swine flu A (H1N1), with one death, have been reported in Thanjavur in India. ](/news/2010/06/29/21-suspected-cases-of-swine-flu-a-h1n1-with-one-death-have-been-reported-in-thanjavur-in-india.md)

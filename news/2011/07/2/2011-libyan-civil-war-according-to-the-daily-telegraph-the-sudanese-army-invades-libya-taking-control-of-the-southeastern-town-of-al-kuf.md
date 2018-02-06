@@ -22,9 +22,9 @@ The Sudanese army has seized a town in southern Libya that is the gateway to oil
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war: According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaste.md) _2017-05-25 03:34:58 (First version)_
-2. [Arab Spring:2011 Libyan civil war:According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md) _2017-08-25 03:33:39 (Update)_
-3. [Arab Spring:: 2011 Libyan civil war:: According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md) _2017-08-27 03:33:47 (Update)_
+1. [Arab Spring:2011 Libyan civil war:According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:2011 Libyan civil war: According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaste.md) _2018-02-06 13:49:22 (Update)_
+3. [Arab Spring:: 2011 Libyan civil war:: According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md) _2018-02-06 13:49:22 (Update)_
 3. [2011 Libyan civil war:According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeastern-town-of-al-kuf.md) _(Current version)_
 
 ### Related:

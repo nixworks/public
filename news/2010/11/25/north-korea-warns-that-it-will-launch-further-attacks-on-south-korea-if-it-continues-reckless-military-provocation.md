@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/11/25/north-korea-warns-that-it-will-launch-further-a
 
 ### Changes:
 
-1. [Korean peninsula:North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/korean-peninsula-pnorth-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md) _2017-08-25 03:31:09 (First version)_
-2. [Korean peninsula:: North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/korean-peninsula-north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md) _2017-08-27 03:31:16 (Update)_
+1. [Korean peninsula:North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/korean-peninsula-pnorth-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md) _2018-02-06 13:49:21 (First version)_
+2. [Korean peninsula:: North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/korean-peninsula-north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md) _2018-02-06 13:49:21 (Update)_
 2. [North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md) _(Current version)_
 
 ### Related:

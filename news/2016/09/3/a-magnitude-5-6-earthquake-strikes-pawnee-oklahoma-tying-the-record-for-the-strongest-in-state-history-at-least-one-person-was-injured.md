@@ -19,7 +19,7 @@ Officials with the Pawnee County Emergency Management say buildings there suffer
 
 ### Changes:
 
-1. [2016 Oklahoma earthquake: A magnitude 5.6 earthquake strikes Pawnee, Oklahoma, tying the record for the strongest in state history. At least one person was injured. ](/news/2016/09/3/2016-oklahoma-earthquake-a-magnitude-5-6-earthquake-strikes-pawnee-oklahoma-tying-the-record-for-the-strongest-in-state-history-at-least.md) _2017-08-27 03:46:45 (First version)_
+1. [2016 Oklahoma earthquake: A magnitude 5.6 earthquake strikes Pawnee, Oklahoma, tying the record for the strongest in state history. At least one person was injured. ](/news/2016/09/3/2016-oklahoma-earthquake-a-magnitude-5-6-earthquake-strikes-pawnee-oklahoma-tying-the-record-for-the-strongest-in-state-history-at-least.md) _2018-02-06 13:49:29 (First version)_
 1. [A magnitude 5.6 earthquake strikes Pawnee, Oklahoma, tying the record for the strongest in state history. At least one person was injured. ](/news/2016/09/3/a-magnitude-5-6-earthquake-strikes-pawnee-oklahoma-tying-the-record-for-the-strongest-in-state-history-at-least-one-person-was-injured.md) _(Current version)_
 
 ### Related:

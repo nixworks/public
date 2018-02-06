@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/08/14/alleged-members-of-the-gulf-cartel-storm-a-bar-
 
 ### Changes:
 
-1. [Mexican Drug War:Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-palleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md) _2017-08-25 03:36:16 (First version)_
-2. [Mexican Drug War:: Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-alleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md) _2017-08-27 03:36:27 (Update)_
+1. [Mexican Drug War:Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-palleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-alleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md) _2018-02-06 13:49:23 (Update)_
 2. [Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/alleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md) _(Current version)_
 
 ### Related:

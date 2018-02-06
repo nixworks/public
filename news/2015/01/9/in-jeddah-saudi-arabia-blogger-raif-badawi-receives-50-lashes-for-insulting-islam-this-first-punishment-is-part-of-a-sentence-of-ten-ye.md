@@ -17,7 +17,7 @@ Raif Badawi was sentenced to 10 years in prison and 1,000 lashes, the remainder 
 
 ### Changes:
 
-1. [In Jeddah, Saudi Arabia, blogger Raif Badawi receives 50 lashes for "insulting Islam". This first punishment is part of a sentence of ten years' imprisonment and 1,000 lashes. He will receive 50 lashes a week for 19 more weeks. ](/news/2015/01/9/in-jeddah-saudi-arabia-blogger-raif-badawi-receives-50-lashes-for-insulting-islam-this-first-punishment-is-part-of-a-sentence-of-ten-y.md) _2017-08-25 03:41:28 (First version)_
+1. [In Jeddah, Saudi Arabia, blogger Raif Badawi receives 50 lashes for "insulting Islam". This first punishment is part of a sentence of ten years' imprisonment and 1,000 lashes. He will receive 50 lashes a week for 19 more weeks. ](/news/2015/01/9/in-jeddah-saudi-arabia-blogger-raif-badawi-receives-50-lashes-for-insulting-islam-this-first-punishment-is-part-of-a-sentence-of-ten-y.md) _2018-02-06 13:49:26 (First version)_
 1. [In Jeddah, Saudi Arabia, blogger Raif Badawi receives 50 lashes for "insulting Islam". This first punishment is part of a sentence of ten years' imprisonment and 1,000 lashes. He will receive 50 lashes a week for 19 more weeks. ](/news/2015/01/9/in-jeddah-saudi-arabia-blogger-raif-badawi-receives-50-lashes-for-insulting-islam-this-first-punishment-is-part-of-a-sentence-of-ten-ye.md) _(Current version)_
 
 ### Related:

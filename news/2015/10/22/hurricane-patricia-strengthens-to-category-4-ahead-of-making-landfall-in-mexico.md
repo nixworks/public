@@ -16,7 +16,7 @@ Hurricane Patricia has rapidly strengthened into a major hurricane in the easter
 
 ### Changes:
 
-1. [2015 Pacific hurricane season: Hurricane Patricia strengthens to Category 4 ahead of making landfall in Mexico. ](/news/2015/10/22/2015-pacific-hurricane-season-hurricane-patricia-strengthens-to-category-4-ahead-of-making-landfall-in-mexico.md) _2017-08-27 03:43:28 (First version)_
+1. [2015 Pacific hurricane season: Hurricane Patricia strengthens to Category 4 ahead of making landfall in Mexico. ](/news/2015/10/22/2015-pacific-hurricane-season-hurricane-patricia-strengthens-to-category-4-ahead-of-making-landfall-in-mexico.md) _2018-02-06 13:49:28 (First version)_
 1. [Hurricane Patricia strengthens to Category 4 ahead of making landfall in Mexico. ](/news/2015/10/22/hurricane-patricia-strengthens-to-category-4-ahead-of-making-landfall-in-mexico.md) _(Current version)_
 
 ### Related:

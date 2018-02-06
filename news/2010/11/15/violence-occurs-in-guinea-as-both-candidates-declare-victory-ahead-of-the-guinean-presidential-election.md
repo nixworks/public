@@ -17,8 +17,8 @@ Deadly violence flares in Guinea hours ahead of results of its first democratic 
 
 ### Changes:
 
-1. [Guinea electionViolence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-electionpviolence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md) _2017-08-25 03:31:02 (First version)_
-2. [Guinea election: Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-election-violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md) _2017-08-27 03:31:09 (Update)_
+1. [Guinea electionViolence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-electionpviolence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md) _2018-02-06 13:49:21 (First version)_
+2. [Guinea election: Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-election-violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md) _2018-02-06 13:49:21 (Update)_
 2. [Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md) _(Current version)_
 
 ### Related:

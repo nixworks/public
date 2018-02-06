@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/3/sartaj-aziz-a-top-foreign-affairs-adviser-for-pa
 
 ### Changes:
 
-1. [Taliban insurgency: Sartaj Aziz, a top foreign affairs adviser for Pakistan, publicly admits for the first time that the Afghan Taliban's leadership is living in the country and that Islamabad has "considerable influence" over them. ](/news/2016/03/3/taliban-insurgency-sartaj-aziz-a-top-foreign-affairs-adviser-for-pakistan-publicly-admits-for-the-first-time-that-the-afghan-taliban-s-le.md) _2017-08-27 03:45:07 (First version)_
+1. [Taliban insurgency: Sartaj Aziz, a top foreign affairs adviser for Pakistan, publicly admits for the first time that the Afghan Taliban's leadership is living in the country and that Islamabad has "considerable influence" over them. ](/news/2016/03/3/taliban-insurgency-sartaj-aziz-a-top-foreign-affairs-adviser-for-pakistan-publicly-admits-for-the-first-time-that-the-afghan-taliban-s-le.md) _2018-02-06 13:49:28 (First version)_
 1. [Sartaj Aziz, a top foreign affairs adviser for Pakistan, publicly admits for the first time that the Afghan Taliban's leadership is living in the country and that Islamabad has "considerable influence" over them. ](/news/2016/03/3/sartaj-aziz-a-top-foreign-affairs-adviser-for-pakistan-publicly-admits-for-the-first-time-that-the-afghan-taliban-s-leadership-is-living-i.md) _(Current version)_
 
 ### Related:

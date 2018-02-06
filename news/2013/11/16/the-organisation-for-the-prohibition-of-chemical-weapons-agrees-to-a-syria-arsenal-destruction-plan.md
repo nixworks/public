@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/16/the-organisation-for-the-prohibition-of-chemica
 
 ### Changes:
 
-1. [Syrian civil war:The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-pthe-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md) _2017-08-25 03:39:32 (First version)_
-2. [Syrian civil war:: The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-the-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md) _2017-08-27 03:39:50 (Update)_
+1. [Syrian civil war:: The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-the-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-pthe-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md) _2018-02-06 13:49:25 (Update)_
 2. [The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/the-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md) _(Current version)_
 
 ### Related:

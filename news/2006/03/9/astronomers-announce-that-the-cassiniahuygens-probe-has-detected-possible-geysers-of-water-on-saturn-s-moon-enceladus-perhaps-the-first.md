@@ -16,7 +16,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ### Changes:
 
-1. [ Astronomers announce that the Cassini-Huygens probe has detected possible geysers of water on Saturn's moon Enceladus, perhaps the first example of naturally occurring liquid water beyond Earth. ](/news/2006/03/9/astronomers-announce-that-the-cassini-huygens-probe-has-detected-possible-geysers-of-water-on-saturn-s-moon-enceladus-perhaps-the-first.md) _2017-08-27 03:17:30 (First version)_
+1. [ Astronomers announce that the Cassini-Huygens probe has detected possible geysers of water on Saturn's moon Enceladus, perhaps the first example of naturally occurring liquid water beyond Earth. ](/news/2006/03/9/astronomers-announce-that-the-cassini-huygens-probe-has-detected-possible-geysers-of-water-on-saturn-s-moon-enceladus-perhaps-the-first.md) _2018-02-06 13:49:17 (First version)_
 1. [ Astronomers announce that the Cassini-Huygens probe has detected possible geysers of water on Saturn's moon Enceladus, perhaps the first example of naturally occurring liquid water beyond Earth. ](/news/2006/03/9/astronomers-announce-that-the-cassiniahuygens-probe-has-detected-possible-geysers-of-water-on-saturn-s-moon-enceladus-perhaps-the-first.md) _(Current version)_
 
 ### Related:

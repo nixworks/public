@@ -16,7 +16,7 @@ Today, some of the world’s biggest internet companies and activist groups are 
 
 ### Changes:
 
-1. [Day of Action to Save Net Neutrality: Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/day-of-action-to-save-net-neutrality-several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md) _2017-08-27 03:48:39 (First version)_
+1. [Day of Action to Save Net Neutrality: Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/day-of-action-to-save-net-neutrality-several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md) _2018-02-06 13:49:30 (First version)_
 1. [Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md) _(Current version)_
 
 ### Related:

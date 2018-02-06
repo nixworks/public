@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/6/index.html)  [JSON](2009/12/6/index.json)  [XML](2009/
 
 ##### Flamengo
 ### [ Flamengo wins its sixth Brazilian national football title, following a 2-1 win over Grmio in the last round of 2009 Campeonato Brasileiro Srie A. ](/news/2009/12/6/flamengo-wins-its-sixth-brazilian-national-football-title-following-a-2-1-win-over-gremio-in-the-last-round-of-2009-campeonato-brasileiro.md)
-_Context: Grmio, association football, Brazil, Flamengo, 2009 Campeonato Brasileiro Srie A_
+_Context: association football, Flamengo, Brazil, Grmio, 2009 Campeonato Brasileiro Srie A_
 
 ##### internet access
 ### [ Restrictions on internet access and foreign media are put in place ahead of the Student's Day in Iran, as former President Akbar Hashemi Rafsanjani urges "freedom" in the country. ](/news/2009/12/6/restrictions-on-internet-access-and-foreign-media-are-put-in-place-ahead-of-the-student-s-day-in-iran-as-former-president-akbar-hashemi-ra.md)
@@ -29,7 +29,7 @@ A MAN who is HIV-positive injected his wife with his blood while she slept, infe
 
 ##### Bolivia
 ### [ Voters in Bolivia go to the polls for a general election with exit polls indicating that the President of Bolivia Evo Morales has won. ](/news/2009/12/6/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-exit-polls-indicating-that-the-president-of-bolivia-evo-morales-has-won.md)
-_Context: exit poll, general election, Bolivia, Evo Morales, President of Bolivia_
+_Context: exit poll, Evo Morales, Bolivia, general election, President of Bolivia_
 
 ##### Romania
 ### [ Romanians take part in the 2nd round of a presidential election. ](/news/2009/12/6/romanians-take-part-in-the-2nd-round-of-a-presidential-election.md)
@@ -41,7 +41,7 @@ _Context: Comoros, Legislative elections_
 
 ##### cannibalism
 ### [ Archaeologists discover evidence of mass cannibalism in Europe during the Neolithic period at a 7,000-year-old burial site in Germany. ](/news/2009/12/6/archaeologists-discover-evidence-of-mass-cannibalism-in-europe-during-the-neolithic-period-at-a-7-000-year-old-burial-site-in-germany.md)
-_Context: Neolithic, Europe, German, cannibalism_
+_Context: German, Neolithic, cannibalism, Europe_
 
 ## [Previous Day...](/news/2009/12/5/index.md)
 

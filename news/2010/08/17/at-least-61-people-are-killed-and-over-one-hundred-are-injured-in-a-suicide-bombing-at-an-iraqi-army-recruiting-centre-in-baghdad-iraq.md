@@ -19,7 +19,7 @@ Some&#x20;60&#x20;people&#x20;have&#x20;been&#x20;killed&#x20;and&#x20;scores&#x
 
 ### Changes:
 
-1. [Iraq: At least 61 people are killed and over one hundred are injured in a suicide bombing at an Iraqi Army recruiting centre in Baghdad, Iraq. ](/news/2010/08/17/iraq-at-least-61-people-are-killed-and-over-one-hundred-are-injured-in-a-suicide-bombing-at-an-iraqi-army-recruiting-centre-in-baghdad-ira.md) _2017-08-27 03:29:33 (First version)_
+1. [Iraq: At least 61 people are killed and over one hundred are injured in a suicide bombing at an Iraqi Army recruiting centre in Baghdad, Iraq. ](/news/2010/08/17/iraq-at-least-61-people-are-killed-and-over-one-hundred-are-injured-in-a-suicide-bombing-at-an-iraqi-army-recruiting-centre-in-baghdad-ira.md) _2018-02-06 13:49:20 (First version)_
 1. [At least 61 people are killed and over one hundred are injured in a suicide bombing at an Iraqi Army recruiting centre in Baghdad, Iraq. ](/news/2010/08/17/at-least-61-people-are-killed-and-over-one-hundred-are-injured-in-a-suicide-bombing-at-an-iraqi-army-recruiting-centre-in-baghdad-iraq.md) _(Current version)_
 
 ### Related:

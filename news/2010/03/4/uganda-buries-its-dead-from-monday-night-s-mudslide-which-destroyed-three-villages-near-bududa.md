@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/03/4/uganda-buries-its-dead-from-monday-night-s-mudsl
 
 ### Changes:
 
-1. [2010 Uganda landslide:Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-puganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md) _2017-08-25 03:27:17 (First version)_
-2. [2010 Uganda landslide:: Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-uganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md) _2017-08-27 03:27:12 (Update)_
+1. [2010 Uganda landslide:: Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-uganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Uganda landslide:Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-puganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md) _2018-02-06 13:49:19 (Update)_
 2. [Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/uganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md) _(Current version)_
 
 ### Related:

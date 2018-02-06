@@ -17,7 +17,7 @@ Islamic State has published a video purporting to show the beheading of three Ku
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: Islamic State releases a video showing the execution of three Kurdish peshmerga fighters in northern Iraq with threats to execute dozens more. ](/news/2015/03/20/islamic-state-in-iraq-and-the-levant-islamic-state-releases-a-video-showing-the-execution-of-three-kurdish-peshmerga-fighters-in-northern-i.md) _2017-08-27 03:42:06 (First version)_
+1. [Islamic State in Iraq and the Levant: Islamic State releases a video showing the execution of three Kurdish peshmerga fighters in northern Iraq with threats to execute dozens more. ](/news/2015/03/20/islamic-state-in-iraq-and-the-levant-islamic-state-releases-a-video-showing-the-execution-of-three-kurdish-peshmerga-fighters-in-northern-i.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State releases a video showing the execution of three Kurdish peshmerga fighters in northern Iraq with threats to execute dozens more. ](/news/2015/03/20/islamic-state-releases-a-video-showing-the-execution-of-three-kurdish-peshmerga-fighters-in-northern-iraq-with-threats-to-execute-dozens-mor.md) _(Current version)_
 
 ### Related:

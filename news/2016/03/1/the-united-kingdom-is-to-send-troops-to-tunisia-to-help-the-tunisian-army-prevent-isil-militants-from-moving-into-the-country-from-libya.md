@@ -16,7 +16,7 @@ Britain is to send troops to Tunisia to help prevent Islamic State fighters from
 
 ### Changes:
 
-1. [Libyan Crisis (2011-present): The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/libyan-crisis-2011-present-the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving.md) _2017-08-27 03:45:04 (First version)_
+1. [Libyan Crisis (2011-present): The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/libyan-crisis-2011-present-the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving-into-the-country-from-libya.md) _(Current version)_
 
 ### Related:

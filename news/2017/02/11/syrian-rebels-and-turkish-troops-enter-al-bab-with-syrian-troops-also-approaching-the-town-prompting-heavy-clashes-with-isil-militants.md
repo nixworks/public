@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-w
 
 ### Changes:
 
-1. [Syrian Civil War: Battle of al-Bab: Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-civil-war-battle-of-al-bab-syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-h.md) _2017-08-27 03:47:48 (First version)_
+1. [Syrian Civil War: Battle of al-Bab: Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-civil-war-battle-of-al-bab-syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-h.md) _2018-02-06 13:49:30 (First version)_
 1. [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md) _(Current version)_
 
 ### Related:

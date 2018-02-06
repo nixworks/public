@@ -13,15 +13,15 @@ _Context: ABC, United States of America_
 
 ##### Shenzhou 6
 ### [ "Shenzhou 6" could be brought back one day earlier than planned due to weather conditions at the landing area and the physical condition of the astronauts. The People's Republic of China's second human spaceflight was originally planned for the mission to last five days. ](/news/2005/10/13/shenzhou-6-could-be-brought-back-one-day-earlier-than-planned-due-to-weather-conditions-at-the-landing-area-and-the-physical-condition-of.md)
-_Context: Shenzhou 6, manned launch, China_
+_Context: manned launch, China, Shenzhou 6_
 
 ##### Chechen
 ### [ Scores of suspected Chechen separatist rebels attack the southern Russian city of Nalchik in a coordinated operation against Russian security forces, killing dozens of people. ](/news/2005/10/13/scores-of-suspected-chechen-separatist-rebels-attack-the-southern-russian-city-of-nalchik-in-a-coordinated-operation-against-russian-securi.md)
-_Context: Nalchik, separatist, Russia, Chechen_
+_Context: Chechen, Nalchik, Russia, separatist_
 
 ##### bird flu
 ### [ The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. ](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influenza-virus-is-confirmed-in-dead-birds-found-in-turkey-marking-the-first-cases-of-the-disease.md)
-_Context: Turkish, avian influenza, virus, Europe, bird flu_
+_Context: Europe, Turkey, virus, avian influenza, bird flu_
 
 ##### Stockholm
 ### [ In Stockholm, it is announced that British playwright Harold Pinter is the 2005 winner of the Nobel Prize for Literature. ](/news/2005/10/13/in-stockholm-it-is-announced-that-british-playwright-harold-pinter-is-the-2005-winner-of-the-nobel-prize-for-literature.md)

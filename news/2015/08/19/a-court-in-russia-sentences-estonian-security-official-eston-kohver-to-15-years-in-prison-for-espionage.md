@@ -16,7 +16,7 @@ A court in Russia sentences Estonian security official Eston Kohver to 15 years 
 
 ### Changes:
 
-1. [Estonian-Russian relations: A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for espionage. ](/news/2015/08/19/estonian-russian-relations-a-court-in-russia-sentences-estonian-security-official-eston-kohver-to-15-years-in-prison-for-espionage.md) _2017-08-27 03:42:51 (First version)_
+1. [Estonian-Russian relations: A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for espionage. ](/news/2015/08/19/estonian-russian-relations-a-court-in-russia-sentences-estonian-security-official-eston-kohver-to-15-years-in-prison-for-espionage.md) _2018-02-06 13:49:27 (First version)_
 1. [A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for espionage. ](/news/2015/08/19/a-court-in-russia-sentences-estonian-security-official-eston-kohver-to-15-years-in-prison-for-espionage.md) _(Current version)_
 
 ### Related:

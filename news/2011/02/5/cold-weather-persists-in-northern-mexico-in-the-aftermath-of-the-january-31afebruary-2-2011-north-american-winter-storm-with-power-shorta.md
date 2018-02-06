@@ -17,7 +17,7 @@ Freezing weather and snow paralyse northern Mexico, which is experiencing its lo
 
 ### Changes:
 
-1. [Cold weather persists in northern Mexico in the aftermath of the January 31-February 2, 2011 North American winter storm with power shortages. ](/news/2011/02/5/cold-weather-persists-in-northern-mexico-in-the-aftermath-of-the-january-31-february-2-2011-north-american-winter-storm-with-power-shorta.md) _2017-08-27 03:32:11 (First version)_
+1. [Cold weather persists in northern Mexico in the aftermath of the January 31-February 2, 2011 North American winter storm with power shortages. ](/news/2011/02/5/cold-weather-persists-in-northern-mexico-in-the-aftermath-of-the-january-31-february-2-2011-north-american-winter-storm-with-power-shorta.md) _2018-02-06 13:49:22 (First version)_
 1. [Cold weather persists in northern Mexico in the aftermath of the January 31-February 2, 2011 North American winter storm with power shortages. ](/news/2011/02/5/cold-weather-persists-in-northern-mexico-in-the-aftermath-of-the-january-31afebruary-2-2011-north-american-winter-storm-with-power-shorta.md) _(Current version)_
 
 ### Related:

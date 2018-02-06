@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-
 
 ### Changes:
 
-1. [ Space Shuttle ''Discovery'' successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the.md) _2017-08-25 03:21:14 (First version)_
+1. [ Space Shuttle ''Discovery'' successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the.md) _2018-02-06 13:49:18 (First version)_
 1. [ Space Shuttle "Discovery" successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the-st.md) _(Current version)_
 
 ### Related:

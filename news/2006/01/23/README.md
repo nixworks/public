@@ -5,23 +5,23 @@ Formats: [HTML](2006/01/23/index.html)  [JSON](2006/01/23/index.json)  [XML](200
 
 ##### United States and Venezuela
 ### [ In the ongoing dispute between the United States and Venezuela, the US has tried to veto a sale of Embraer airplanes to Venezuela. Brazilian foreign minister Celso Amorim branded the US attempted veto as "indefensible nonsense". The US recently failed to block a large sale of Spanish military equipment to Venezuela. ](/news/2006/01/23/in-the-ongoing-dispute-between-the-united-states-and-venezuela-the-us-has-tried-to-veto-a-sale-of-embraer-airplanes-to-venezuela-brazilia.md)
-_Context: Brazil, United States and Venezuela, Celso Amorim, Embraer, Venezuela_
+_Context: Brazil, Embraer, Venezuela, United States and Venezuela, Celso Amorim_
 
 ##### Canadian federal election, 2006
 ### [ In the Canadian federal election, the Conservatives win a plurality of seats in the House of Commons to form a minority government. Stephen Harper is to become the next Prime Minister. ](/news/2006/01/23/in-the-canadian-federal-election-the-conservatives-win-a-plurality-of-seats-in-the-house-of-commons-to-form-a-minority-government-stephen.md)
-_Context: Canadian federal election, 2006, minority government, plurality, Stephen Harper, Canadian prime minister, Conservative Party's, Canadian House of Commons_
+_Context: Stephen Harper, plurality, Conservative Party's, Canadian House of Commons, Canadian federal election, 2006, minority government, Canadian prime minister_
 
 ##### archaeological
 ### [ An archeological expedition from Johns Hopkins University uncovers a statue of Queen Tiye, wife of Pharaoh Amenhotep&nbsp;III and mother of Akhenaten, at the temple complex at Karnak. ](/news/2006/01/23/an-archeological-expedition-from-johns-hopkins-university-uncovers-a-statue-of-queen-tiye-wife-of-pharaoh-amenhotep-nbsp-iii-and-mother-of.md)
-_Context: Tiye, Pharaoh, Karnak, Akhenaten, Johns Hopkins University, archaeological, Amenhotep&nbsp;III_
+_Context: archaeological, Pharaoh, Akhenaten, Karnak, Johns Hopkins University, Tiye, Amenhotep&nbsp;III_
 
 ##### Kuwait
 ### [ Kuwait emir Sheikh Saad Al-Abdullah Al-Salim Al-Sabah has agreed to abdicate his position. ](/news/2006/01/23/kuwait-emir-sheikh-saad-al-abdullah-al-salim-al-sabah-has-agreed-to-abdicate-his-position.md)
-_Context: emir, Sheikh Saad Al-Abdullah Al-Salim Al-Sabah, Kuwait_
+_Context: emir, Kuwait, Sheikh Saad Al-Abdullah Al-Salim Al-Sabah_
 
 ##### Bioce
 ### [ After its brakes fail, a train crashes near Bioce, a village nine miles northeast of Podgorica in Montenegro, killing at least 39 and injuring more than 130 people, in the country's worst train disaster. ](/news/2006/01/23/after-its-brakes-fail-a-train-crashes-near-bioae-a-village-nine-miles-northeast-of-podgorica-in-montenegro-killing-at-least-39-and-inju.md)
-_Context: Bioce, Podgorica, Montenegro, worst train disaster_
+_Context: worst train disaster, Bioce, Podgorica, Montenegro_
 
 ##### mad cow disease
 ### [ Another case of mad cow disease has been confirmed in Canada but officials do not expect international borders to close to Canadian beef as a result. ](/news/2006/01/23/another-case-of-mad-cow-disease-has-been-confirmed-in-canada-but-officials-do-not-expect-international-borders-to-close-to-canadian-beef-as.md)
@@ -33,7 +33,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Ford Motor Company
 ### [ Ford Motor Company announces plans to close 14 plants and cut up to 30,000 jobs (25% of its workforce) by 2012. ](/news/2006/01/23/ford-motor-company-announces-plans-to-close-14-plants-and-cut-up-to-30-000-jobs-25-of-its-workforce-by-2012.md)
-_Context: factory, job growth, Ford Motor Company_
+_Context: job growth, Ford Motor Company, factory_
 
 ##### Nairobi
 ### [ A five-story building in Nairobi, Kenya, collapses and kills at least eight people, burying dozens more. Rescuers use their bare hands to dig through the rubble. ](/news/2006/01/23/a-five-story-building-in-nairobi-kenya-collapses-and-kills-at-least-eight-people-burying-dozens-more-rescuers-use-their-bare-hands-to-d.md)
@@ -45,7 +45,7 @@ _Context: Azerbaijan,  Georgian, natural gas_
 
 ##### Supreme Court of the United States
 ### [ The U.S. Supreme Court rejects an appeal from Research In Motion Ltd. which had asked it to reverse a lower-court ruling that found its BlackBerry wireless email device in violation of patents held by NTP, Inc., a Virginia patent-holding firm. The case now moves to a federal district court in Virginia, which will decide whether to reinstate an injunction against the U.S. sale of the popular BlackBerrys. ](/news/2006/01/23/the-u-s-supreme-court-rejects-an-appeal-from-research-in-motion-ltd-which-had-asked-it-to-reverse-a-lower-court-ruling-that-found-its-bla.md)
-_Context: Supreme Court of the United States, federal district court, NTP, Inc., BlackBerry, Research In Motion_
+_Context: Research In Motion, NTP, Inc., BlackBerry, Supreme Court of the United States, federal district court_
 
 ## [Previous Day...](/news/2006/01/22/index.md)
 

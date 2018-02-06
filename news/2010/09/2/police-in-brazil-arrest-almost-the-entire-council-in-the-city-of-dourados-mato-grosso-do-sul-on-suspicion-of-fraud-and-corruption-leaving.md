@@ -17,7 +17,7 @@ Brazilian police arrest almost the entire city council in Dourados on suspicion 
 
 ### Changes:
 
-1. [Police in Brazil arrest almost the entire council in the city of Dourados, Mato Grosso do Sul, on suspicion of fraud and corruption, leaving the city without a government. ](/news/2010/09/2/police-in-brazil-arrest-almost-the-entire-council-in-the-city-of-dourados-mato-grosso-do-sul-on-suspicion-of-fraud-and-corruption-leavin.md) _2017-08-25 03:29:51 (First version)_
+1. [Police in Brazil arrest almost the entire council in the city of Dourados, Mato Grosso do Sul, on suspicion of fraud and corruption, leaving the city without a government. ](/news/2010/09/2/police-in-brazil-arrest-almost-the-entire-council-in-the-city-of-dourados-mato-grosso-do-sul-on-suspicion-of-fraud-and-corruption-leavin.md) _2018-02-06 13:49:20 (First version)_
 1. [Police in Brazil arrest almost the entire council in the city of Dourados, Mato Grosso do Sul, on suspicion of fraud and corruption, leaving the city without a government. ](/news/2010/09/2/police-in-brazil-arrest-almost-the-entire-council-in-the-city-of-dourados-mato-grosso-do-sul-on-suspicion-of-fraud-and-corruption-leaving.md) _(Current version)_
 
 ### Related:

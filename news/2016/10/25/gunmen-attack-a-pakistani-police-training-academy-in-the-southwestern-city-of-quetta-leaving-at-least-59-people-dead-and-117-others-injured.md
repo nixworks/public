@@ -21,7 +21,7 @@ Militant group Islamic State said on Tuesday that fighters loyal to its movement
 
 ### Changes:
 
-1. [2016 Quetta police training college attack: Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/2016-quetta-police-training-college-attack-gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at.md) _2017-08-27 03:47:07 (First version)_
+1. [2016 Quetta police training college attack: Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/2016-quetta-police-training-college-attack-gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at.md) _2018-02-06 13:49:29 (First version)_
 1. [Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at-least-59-people-dead-and-117-others-injured.md) _(Current version)_
 
 ### Related:

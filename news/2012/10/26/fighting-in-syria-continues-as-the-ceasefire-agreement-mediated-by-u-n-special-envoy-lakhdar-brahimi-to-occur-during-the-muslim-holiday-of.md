@@ -17,8 +17,8 @@ Two previous cease-fire attempts failed, and both the Syrian Army and rebels hav
 
 ### Changes:
 
-1. [Syrian civil war:Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/syrian-civil-war-pfighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the.md) _2017-08-25 03:36:44 (First version)_
-2. [Syrian civil war:: Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/syrian-civil-war-fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the.md) _2017-08-27 03:36:54 (Update)_
+1. [Syrian civil war:Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/syrian-civil-war-pfighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/syrian-civil-war-fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the.md) _2018-02-06 13:49:24 (Update)_
 2. [Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the-muslim-holiday-of.md) _(Current version)_
 
 ### Related:

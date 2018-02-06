@@ -17,6 +17,6 @@ Cyclone Laurence has caused significant damage to buildings on Western Australia
 
 ### Changes:
 
-1. [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of {{convert|285|km-h|mph|abbr=on}}. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-convert-285-km-h-mph-abbr-on.md) _2017-05-01 03:28:02 (First version)_
-2. [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285|km-h|mph|abbr=on. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-285-km-h-mph-abbr-on.md) _2017-08-29 03:26:44 (Update)_
+1. [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of {{convert|285|km-h|mph|abbr=on}}. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-convert-285-km-h-mph-abbr-on.md) _2018-02-06 13:49:19 (First version)_
+2. [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285|km-h|mph|abbr=on. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-285-km-h-mph-abbr-on.md) _2018-02-06 13:49:19 (Update)_
 2. [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285 km-h. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-285-km-h.md) _(Current version)_

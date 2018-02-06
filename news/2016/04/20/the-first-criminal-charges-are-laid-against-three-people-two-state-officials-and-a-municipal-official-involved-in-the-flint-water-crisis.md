@@ -16,7 +16,7 @@ Two Michigan officials were accused of misleading other officials about the city
 
 ### Changes:
 
-1. [Flint water crisis: The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. ](/news/2016/04/20/flint-water-crisis-the-first-criminal-charges-are-laid-against-three-people-two-state-officials-and-a-municipal-official-involved-in-the.md) _2017-08-27 03:45:43 (First version)_
+1. [Flint water crisis: The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. ](/news/2016/04/20/flint-water-crisis-the-first-criminal-charges-are-laid-against-three-people-two-state-officials-and-a-municipal-official-involved-in-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. ](/news/2016/04/20/the-first-criminal-charges-are-laid-against-three-people-two-state-officials-and-a-municipal-official-involved-in-the-flint-water-crisis.md) _(Current version)_
 
 ### Related:

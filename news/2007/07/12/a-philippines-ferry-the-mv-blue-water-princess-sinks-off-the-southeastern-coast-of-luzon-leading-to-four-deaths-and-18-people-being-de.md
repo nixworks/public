@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-
 
 ### Changes:
 
-1. [ A Philippines ferry, the MV ''Blue Water Princess'', sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being.md) _2017-08-25 03:20:10 (First version)_
+1. [ A Philippines ferry, the MV ''Blue Water Princess'', sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being.md) _2018-02-06 13:49:17 (First version)_
 1. [ A Philippines ferry, the MV "Blue Water Princess", sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being-de.md) _(Current version)_
 
 ### Related:

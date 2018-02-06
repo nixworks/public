@@ -16,8 +16,8 @@ Kenyan fighter jets bomb the al-Qaeda-linked al-Shabab group in Somalia, killing
 
 ### Changes:
 
-1. [War in Somalia (2009-present):Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009apresent-pkenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-af.md) _2017-08-25 03:40:35 (First version)_
-2. [War in Somalia (2009-present):: Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009-present-kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-a.md) _2017-08-27 03:40:53 (Update)_
+1. [War in Somalia (2009-present):Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009apresent-pkenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-af.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Somalia (2009-present):: Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009-present-kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-a.md) _2018-02-06 13:49:26 (Update)_
 2. [Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-african-union-force-in-somalia.md) _(Current version)_
 
 ### Related:

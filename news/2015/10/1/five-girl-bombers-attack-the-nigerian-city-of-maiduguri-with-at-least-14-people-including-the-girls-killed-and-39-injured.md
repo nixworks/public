@@ -16,7 +16,7 @@ Five children were behind a series of deadly explosions in the north-eastern Nig
 
 ### Changes:
 
-1. [Boko Haram insurgency: Five girl bombers attack the Nigerian city of Maiduguri with at least 14 people, including the girls, killed and 39 injured. ](/news/2015/10/1/boko-haram-insurgency-five-girl-bombers-attack-the-nigerian-city-of-maiduguri-with-at-least-14-people-including-the-girls-killed-and-39-i.md) _2017-08-27 03:43:12 (First version)_
+1. [Boko Haram insurgency: Five girl bombers attack the Nigerian city of Maiduguri with at least 14 people, including the girls, killed and 39 injured. ](/news/2015/10/1/boko-haram-insurgency-five-girl-bombers-attack-the-nigerian-city-of-maiduguri-with-at-least-14-people-including-the-girls-killed-and-39-i.md) _2018-02-06 13:49:27 (First version)_
 1. [Five girl bombers attack the Nigerian city of Maiduguri with at least 14 people, including the girls, killed and 39 injured. ](/news/2015/10/1/five-girl-bombers-attack-the-nigerian-city-of-maiduguri-with-at-least-14-people-including-the-girls-killed-and-39-injured.md) _(Current version)_
 
 ### Related:

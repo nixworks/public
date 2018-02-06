@@ -16,7 +16,7 @@ China&#x27;s Shenzhou 11 space capsule landed safely in the northern region of I
 
 ### Changes:
 
-1. [Shenzhou program: China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/shenzhou-program-china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md) _2017-08-27 03:47:15 (First version)_
+1. [Shenzhou program: China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/shenzhou-program-china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md) _2018-02-06 13:49:29 (First version)_
 1. [China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md) _(Current version)_
 
 ### Related:

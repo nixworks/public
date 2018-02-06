@@ -18,8 +18,8 @@ Formats: [HTML](/news/2008/10/4/colonel-ivan-petrik-chief-of-staff-of-the-russia
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/2008-south-ossetia-war-p-colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he.md) _2017-08-25 03:22:59 (First version)_
-2. [ 2008 South Ossetia war:: Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/2008-south-ossetia-war-colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he.md) _2017-08-27 03:22:53 (Update)_
+1. [ 2008 South Ossetia war: Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/2008-south-ossetia-war-p-colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war:: Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/2008-south-ossetia-war-colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he.md) _2018-02-06 13:49:18 (Update)_
 2. [ Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he-suffered-in-the-friday-b.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Thailand faces more hardship from unseasonable floods that have killed 40 people
 
 ### Changes:
 
-1. [Floods in Thailand: Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/floods-in-thailand-flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md) _2017-08-27 03:47:36 (First version)_
+1. [Floods in Thailand: Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/floods-in-thailand-flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md) _2018-02-06 13:49:30 (First version)_
 1. [Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md) _(Current version)_
 
 ### Related:

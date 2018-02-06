@@ -15,7 +15,7 @@ Secret ballot seen as diplomatic win for Palestinian statehood, as Israel was ac
 
 ### Changes:
 
-1. [Along with the Solomon Islands, the state of Palestine joins Interpol despite objections from the state of Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-the-state-of-israel.md) _2017-09-27 19:30:05 (First version)_
+1. [Along with the Solomon Islands, the state of Palestine joins Interpol despite objections from the state of Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-the-state-of-israel.md) _2018-02-06 13:49:31 (First version)_
 1. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _(Current version)_
 
 ### Related:

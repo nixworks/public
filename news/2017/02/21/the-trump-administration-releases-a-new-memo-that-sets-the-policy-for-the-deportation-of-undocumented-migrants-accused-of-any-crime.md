@@ -16,7 +16,7 @@ Advocates say the immigrant community is bracing for more raids and deportations
 
 ### Changes:
 
-1. [United States immigration ban: The Trump administration releases a new memo that sets the policy for the deportation of undocumented migrants accused of any crime. ](/news/2017/02/21/united-states-immigration-ban-the-trump-administration-releases-a-new-memo-that-sets-the-policy-for-the-deportation-of-undocumented-migrant.md) _2017-08-27 03:47:51 (First version)_
+1. [United States immigration ban: The Trump administration releases a new memo that sets the policy for the deportation of undocumented migrants accused of any crime. ](/news/2017/02/21/united-states-immigration-ban-the-trump-administration-releases-a-new-memo-that-sets-the-policy-for-the-deportation-of-undocumented-migrant.md) _2018-02-06 13:49:30 (First version)_
 1. [The Trump administration releases a new memo that sets the policy for the deportation of undocumented migrants accused of any crime. ](/news/2017/02/21/the-trump-administration-releases-a-new-memo-that-sets-the-policy-for-the-deportation-of-undocumented-migrants-accused-of-any-crime.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The U.S. military has began scaling back its emergency relief operations in the 
 
 ### Changes:
 
-1. [Typhoon Haiyan:The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/typhoon-haiyan-pthe-armed-forces-of-the-united-states-scales-back-its-operations.md) _2017-08-25 03:39:34 (First version)_
-2. [Typhoon Haiyan:: The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/typhoon-haiyan-the-armed-forces-of-the-united-states-scales-back-its-operations.md) _2017-08-27 03:39:52 (Update)_
+1. [Typhoon Haiyan:: The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/typhoon-haiyan-the-armed-forces-of-the-united-states-scales-back-its-operations.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/typhoon-haiyan-pthe-armed-forces-of-the-united-states-scales-back-its-operations.md) _2018-02-06 13:49:25 (Update)_
 2. [The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/the-armed-forces-of-the-united-states-scales-back-its-operations.md) _(Current version)_
 
 ### Related:

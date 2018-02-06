@@ -22,7 +22,7 @@ Pennsylvania, Maryland, Connecticut, Rhode Island and Delaware take their turn i
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in the U.S. states of Connecticut, Delaware, Maryland, Pennsylvania and Rhode Island head to the polls to vote in Democratic and Republican presidential primaries. ](/news/2016/04/26/united-states-presidential-election-2016-voters-in-the-u-s-states-of-connecticut-delaware-maryland-pennsylvania-and-rhode-island-head.md) _2017-08-27 03:45:51 (First version)_
+1. [United States presidential election, 2016: Voters in the U.S. states of Connecticut, Delaware, Maryland, Pennsylvania and Rhode Island head to the polls to vote in Democratic and Republican presidential primaries. ](/news/2016/04/26/united-states-presidential-election-2016-voters-in-the-u-s-states-of-connecticut-delaware-maryland-pennsylvania-and-rhode-island-head.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in the U.S. states of Connecticut, Delaware, Maryland, Pennsylvania and Rhode Island head to the polls to vote in Democratic and Republican presidential primaries. ](/news/2016/04/26/voters-in-the-u-s-states-of-connecticut-delaware-maryland-pennsylvania-and-rhode-island-head-to-the-polls-to-vote-in-democratic-and-repu.md) _(Current version)_
 
 ### Related:

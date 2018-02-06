@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/12/25/the-warmest-temperature-ever-recorded-at-the-so
 
 ### Changes:
 
-1. [The warmest temperature ever recorded at the South Pole is set with a top of -12.3degC set at the Amundsen-Scott South Pole Station. ](/news/2011/12/25/the-warmest-temperature-ever-recorded-at-the-south-pole-is-set-with-a-top-of-12-3adegc-set-at-the-amundsen-scott-south-pole-station.md) _2017-08-27 03:34:53 (First version)_
+1. [The warmest temperature ever recorded at the South Pole is set with a top of -12.3degC set at the Amundsen-Scott South Pole Station. ](/news/2011/12/25/the-warmest-temperature-ever-recorded-at-the-south-pole-is-set-with-a-top-of-12-3adegc-set-at-the-amundsen-scott-south-pole-station.md) _2018-02-06 13:49:23 (First version)_
 1. [The warmest temperature ever recorded at the South Pole is set with a top of -12.3degC set at the Amundsen-Scott South Pole Station. ](/news/2011/12/25/the-warmest-temperature-ever-recorded-at-the-south-pole-is-set-with-a-top-of-12-3adegc-set-at-the-amundsenascott-south-pole-station.md) _(Current version)_
 
 ### Related:

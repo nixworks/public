@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/01/14/new-guidelines-published-in-the-bmj-british-med
 
 ### Changes:
 
-1. [New guidelines published in the ''BMJ'' (''British Medical Journal'') call on mothers to begin weaning their babies off breast milk before six months, contradicting World Health Organization advice from 2001. ](/news/2011/01/14/new-guidelines-published-in-the-bmj-british-medical-journal-call-on-mothers-to-begin-weaning-their-babies-off-breast-milk-before-s.md) _2017-08-25 03:31:47 (First version)_
+1. [New guidelines published in the ''BMJ'' (''British Medical Journal'') call on mothers to begin weaning their babies off breast milk before six months, contradicting World Health Organization advice from 2001. ](/news/2011/01/14/new-guidelines-published-in-the-bmj-british-medical-journal-call-on-mothers-to-begin-weaning-their-babies-off-breast-milk-before-s.md) _2018-02-06 13:49:21 (First version)_
 1. [New guidelines published in the "BMJ" ("British Medical Journal") call on mothers to begin weaning their babies off breast milk before six months, contradicting World Health Organization advice from 2001. ](/news/2011/01/14/new-guidelines-published-in-the-bmj-british-medical-journal-call-on-mothers-to-begin-weaning-their-babies-off-breast-milk-before-six-m.md) _(Current version)_
 
 ### Related:

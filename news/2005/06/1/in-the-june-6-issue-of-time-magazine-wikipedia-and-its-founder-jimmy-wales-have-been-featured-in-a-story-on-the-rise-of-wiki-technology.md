@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-a
 
 ### Changes:
 
-1. [ In the June 6 issue of ''TIME Magazine'', Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technolog.md) _2017-08-25 03:16:19 (First version)_
+1. [ In the June 6 issue of ''TIME Magazine'', Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technolog.md) _2018-02-06 13:49:16 (First version)_
 1. [ In the June 6 issue of "TIME Magazine", Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technology.md) _(Current version)_
 
 ### Related:

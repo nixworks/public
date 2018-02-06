@@ -18,7 +18,7 @@ The Senate today gave final approval to the trade promotion authority bill by a 
 
 ### Changes:
 
-1. [Trans-Pacific Partnership: The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/trans-pacific-partnership-the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-n.md) _2017-08-27 03:42:35 (First version)_
+1. [Trans-Pacific Partnership: The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/trans-pacific-partnership-the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-n.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-negotiations-with-11-countri.md) _(Current version)_
 
 ### Related:

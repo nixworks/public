@@ -18,9 +18,9 @@ Formats: [HTML](/news/2005/02/14/idf-soldiers-shoot-dead-a-palestinian-whom-they
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-p-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-yea.md) _2017-05-25 03:15:45 (First version)_
-2. [ Israeli-Palestinian conflict: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-p-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md) _2017-08-25 03:15:39 (Update)_
-3. [ Israeli-Palestinian conflict:: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md) _2017-08-27 03:15:41 (Update)_
+1. [ Israeli-Palestinian conflict: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-p-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-p-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-yea.md) _2018-02-06 13:49:16 (Update)_
+3. [ Israeli-Palestinian conflict:: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md) _2018-02-06 13:49:16 (Update)_
 3. [ IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year-old-was-armed.md) _(Current version)_
 
 ### Related:

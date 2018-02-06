@@ -16,7 +16,7 @@ The Syrian army backed by heavy Russian aerial bombing said on Thursday it had c
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army, backed by the Russian Air Force, says it has captured the town of Kinsabba in the northwest Latakia Governorate. ](/news/2016/02/18/syrian-civil-war-the-syrian-army-backed-by-the-russian-air-force-says-it-has-captured-the-town-of-kinsabba-in-the-northwest-latakia-gover.md) _2017-08-27 03:44:56 (First version)_
+1. [Syrian Civil War: The Syrian Army, backed by the Russian Air Force, says it has captured the town of Kinsabba in the northwest Latakia Governorate. ](/news/2016/02/18/syrian-civil-war-the-syrian-army-backed-by-the-russian-air-force-says-it-has-captured-the-town-of-kinsabba-in-the-northwest-latakia-gover.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army, backed by the Russian Air Force, says it has captured the town of Kinsabba in the northwest Latakia Governorate. ](/news/2016/02/18/the-syrian-army-backed-by-the-russian-air-force-says-it-has-captured-the-town-of-kinsabba-in-the-northwest-latakia-governorate.md) _(Current version)_
 
 ### Related:

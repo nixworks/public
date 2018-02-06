@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/12/a-texas-nurse-tests-positive-for-ebola-the-heal
 
 ### Changes:
 
-1. [2014 United States Ebola virus outbreak: A Texas nurse tests positive for Ebola. The health care worker is the first person to contract the disease in the United States of America, the first infection in the US to occur by secondary contact, and the second in the world sickened from exposure outside of the African continent. ](/news/2014/10/12/2014-united-states-ebola-virus-outbreak-a-texas-nurse-tests-positive-for-ebola-the-health-care-worker-is-the-first-person-to-contract-the.md) _2017-08-27 03:41:23 (First version)_
+1. [2014 United States Ebola virus outbreak: A Texas nurse tests positive for Ebola. The health care worker is the first person to contract the disease in the United States of America, the first infection in the US to occur by secondary contact, and the second in the world sickened from exposure outside of the African continent. ](/news/2014/10/12/2014-united-states-ebola-virus-outbreak-a-texas-nurse-tests-positive-for-ebola-the-health-care-worker-is-the-first-person-to-contract-the.md) _2018-02-06 13:49:26 (First version)_
 1. [A Texas nurse tests positive for Ebola. The health care worker is the first person to contract the disease in the United States of America, the first infection in the US to occur by secondary contact, and the second in the world sickened from exposure outside of the African continent. ](/news/2014/10/12/a-texas-nurse-tests-positive-for-ebola-the-health-care-worker-is-the-first-person-to-contract-the-disease-in-the-united-states-of-america.md) _(Current version)_
 
 ### Related:

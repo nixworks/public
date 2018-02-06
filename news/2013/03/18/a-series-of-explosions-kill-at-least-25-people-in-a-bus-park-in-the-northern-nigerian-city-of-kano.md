@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/18/a-series-of-explosions-kill-at-least-25-people-
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-pa-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md) _2017-08-25 03:37:54 (First version)_
-2. [Nigerian Sharia conflict:: A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md) _2017-08-27 03:38:04 (Update)_
+1. [Nigerian Sharia conflict:A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-pa-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md) _2018-02-06 13:49:24 (Update)_
 2. [A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md) _(Current version)_
 
 ### Related:

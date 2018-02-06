@@ -21,7 +21,7 @@ Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just
 
 ### Changes:
 
-1. [Arab Spring: 2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. ](/news/2011/07/17/arab-spring-2011-egyptian-revolution-ousted-egyptian-leader-hosni-mubarak-suffers-stroke-falls-into-coma.md) _2017-08-27 03:33:55 (First version)_
+1. [Arab Spring: 2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. ](/news/2011/07/17/arab-spring-2011-egyptian-revolution-ousted-egyptian-leader-hosni-mubarak-suffers-stroke-falls-into-coma.md) _2018-02-06 13:49:22 (First version)_
 1. [2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. ](/news/2011/07/17/2011-egyptian-revolution-ousted-egyptian-leader-hosni-mubarak-suffers-stroke-falls-into-coma.md) _(Current version)_
 
 ### Related:

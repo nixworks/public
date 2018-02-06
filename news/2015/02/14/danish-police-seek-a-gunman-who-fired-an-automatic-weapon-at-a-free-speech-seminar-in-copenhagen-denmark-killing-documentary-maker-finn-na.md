@@ -18,7 +18,7 @@ One person dies after shots are fired at a Copenhagen cafe where a controversial
 
 ### Changes:
 
-1. [2015 Copenhagen shootings: Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killin.md) _2017-08-27 03:41:56 (First version)_
+1. [2015 Copenhagen shootings: Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killin.md) _2018-02-06 13:49:26 (First version)_
 1. [Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killing-documentary-maker-finn-na.md) _(Current version)_
 
 ### Related:

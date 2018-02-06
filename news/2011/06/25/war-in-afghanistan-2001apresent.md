@@ -11,7 +11,7 @@ Formats: [HTML](/news/2011/06/25/war-in-afghanistan-2001apresent.html)  [JSON](/
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001-present.md) _2017-08-27 03:33:42 (First version)_
+1. [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001-present.md) _2018-02-06 13:49:22 (First version)_
 1. [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001apresent.md) _(Current version)_
 
 ### Related:

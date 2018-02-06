@@ -7,7 +7,7 @@ Formats: [HTML](2015/09/15/index.html)  [JSON](2015/09/15/index.json)  [XML](201
 ### [The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Houthi militants backed by Yemeni troops reportedly seize control of al-Rabu'ah, a town in Saudi Arabia's southwestern Asir region near the Yemeni border, forcing Saudi forces to pull out of the area. ](/news/2015/09/15/houthi-militants-backed-by-yemeni-troops-reportedly-seize-control-of-al-rabuaah-a-town-in-saudi-arabia-s-southwestern-asir-region-near-th.md)
 Yemeni Ansarullah fighters, backed by allied forces, seize al-Rabu’ah town in Saudi Arabia’s southwestern Asir region.
 

@@ -21,7 +21,7 @@ _Context: Chad, N'Djamena_
 
 ##### Egypt
 ### [Egypt's state prosecutor Hisham Barakat dies in a bomb attack in Cairo. ](/news/2015/06/29/egypt-s-state-prosecutor-hisham-barakat-dies-in-a-bomb-attack-in-cairo.md)
-_Context: Egypt, Cairo, Hisham Barakat_
+_Context: Hisham Barakat, Egypt, Cairo_
 
 ##### Nangarhar province
 ### [According to witnesses who fled fighting in Nangarhar province, fighters loyal to Islamic State seize substantial territory in Afghanistan for the first time, wresting areas in the east from rival Taliban insurgents in a new threat to stability, scorching opium poppy fields that help to fund the Taliban's campaign to overthrow the Afghan government. ](/news/2015/06/29/according-to-witnesses-who-fled-fighting-in-nangarhar-province-fighters-loyal-to-islamic-state-seize-substantial-territory-in-afghanistan-f.md)
@@ -29,7 +29,7 @@ Hundreds of insurgents pledging allegiance to Islamic State pushed out the Talib
 
 ##### Yemeni Crisis (2011-present)
 ### [A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility. ](/news/2015/06/29/a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-state-has-claimed-responsibility.md)
-_Context: Sana'a, Yemeni Crisis (2011-present), car bomb, Yemen_
+_Context: Yemeni Crisis (2011-present), Sana'a, Yemen, car bomb_
 
 ##### Israeli Navy
 ### [ The Israeli Navy intercepts and takes control of the lone ship still involved in Freedom Flotilla III and pilots it to Ashdod. The other three ships involved had already turned back after being intercepted. Israel offered all ships to unload their humanitarian aid cargo in Israeli ports and transport it into Gaza for free but the ships refused. ](/news/2015/06/29/the-israeli-navy-intercepts-and-takes-control-of-the-lone-ship-still-involved-in-freedom-flotilla-iii-and-pilots-it-to-ashdod-the-other-th.md)
@@ -41,7 +41,7 @@ US Office of Personnel Management shuts down system for background checks in wak
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States upholds the use of capital punishment by lethal injection involving midazolam. ](/news/2015/06/29/the-supreme-court-of-the-united-states-upholds-the-use-of-capital-punishment-by-lethal-injection-involving-midazolam.md)
-_Context: midazolam, capital punishment, Supreme Court of the United States, lethal injection_
+_Context: capital punishment, lethal injection, midazolam, Supreme Court of the United States_
 
 ##### California State Legislature
 ### [The California State Legislature passes a bill which would enact a state requirement for the vaccination of children enrolled in schools. The bill is now pending Governor Jerry Brown's approval before going into law. ](/news/2015/06/29/the-california-state-legislature-passes-a-bill-which-would-enact-a-state-requirement-for-the-vaccination-of-children-enrolled-in-schools-th.md)

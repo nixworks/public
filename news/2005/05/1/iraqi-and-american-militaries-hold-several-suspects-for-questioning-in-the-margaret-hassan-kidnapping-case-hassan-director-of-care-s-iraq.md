@@ -17,7 +17,7 @@ Items belonging to abducted British aid worker Margaret Hassan have been found d
 
 ### Changes:
 
-1. [ Iraqi and American militaries hold several suspects for questioning in the Margaret Hassan kidnapping case. Hassan, director of CARE's Iraq division, was kidnapped by insurgents in late October 2004 and subsequently believed to be killed. ](/news/2005/05/1/iraqi-and-american-militaries-hold-several-suspects-for-questioning-in-the-margaret-hassan-kidnapping-case-hassan-director-of-care-s-ira.md) _2017-08-25 03:16:07 (First version)_
+1. [ Iraqi and American militaries hold several suspects for questioning in the Margaret Hassan kidnapping case. Hassan, director of CARE's Iraq division, was kidnapped by insurgents in late October 2004 and subsequently believed to be killed. ](/news/2005/05/1/iraqi-and-american-militaries-hold-several-suspects-for-questioning-in-the-margaret-hassan-kidnapping-case-hassan-director-of-care-s-ira.md) _2018-02-06 13:49:16 (First version)_
 1. [ Iraqi and American militaries hold several suspects for questioning in the Margaret Hassan kidnapping case. Hassan, director of CARE's Iraq division, was kidnapped by insurgents in late October 2004 and subsequently believed to be killed. ](/news/2005/05/1/iraqi-and-american-militaries-hold-several-suspects-for-questioning-in-the-margaret-hassan-kidnapping-case-hassan-director-of-care-s-iraq.md) _(Current version)_
 
 ### Related:

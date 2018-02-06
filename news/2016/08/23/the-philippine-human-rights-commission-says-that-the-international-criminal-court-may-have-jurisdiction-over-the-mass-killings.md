@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/23/the-philippine-human-rights-commission-says-tha
 
 ### Changes:
 
-1. [Philippine Drug War: The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/philippine-drug-war-the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-k.md) _2017-08-27 03:46:42 (First version)_
+1. [Philippine Drug War: The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/philippine-drug-war-the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-k.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-killings.md) _(Current version)_
 
 ### Related:

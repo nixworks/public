@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pere
 
 ### Changes:
 
-1. [ National People's Assembly Speaker Raimundo Pereira becomes Guinea-Bissau's interim President following the assassination of Joao Bernardo Vieira. ](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pereira-becomes-guinea-bissau-s-interim-president-following-the-assassination-of-joapso-bernardo.md) _2017-08-25 03:23:59 (First version)_
+1. [ National People's Assembly Speaker Raimundo Pereira becomes Guinea-Bissau's interim President following the assassination of Joao Bernardo Vieira. ](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pereira-becomes-guinea-bissau-s-interim-president-following-the-assassination-of-joapso-bernardo.md) _2018-02-06 13:49:18 (First version)_
 1. [ National People's Assembly Speaker Raimundo Pereira becomes Guinea-Bissau's interim President following the assassination of JoGBPo Bernardo Vieira. ](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pereira-becomes-guinea-bissau-s-interim-president-following-the-assassination-of-joagbpo-bernar.md) _(Current version)_
 
 ### Related:

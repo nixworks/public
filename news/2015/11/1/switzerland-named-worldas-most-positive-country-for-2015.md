@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/1/switzerland-named-worldas-most-positive-country-
 
 ### Changes:
 
-1. [ Switzerland Named World-s Most Positive Country For 2015. ](/news/2015/11/1/switzerland-named-world-s-most-positive-country-for-2015.md) _2017-08-27 03:43:38 (First version)_
+1. [ Switzerland Named World-s Most Positive Country For 2015. ](/news/2015/11/1/switzerland-named-world-s-most-positive-country-for-2015.md) _2018-02-06 13:49:28 (First version)_
 1. [ Switzerland Named World's Most Positive Country For 2015. ](/news/2015/11/1/switzerland-named-worldas-most-positive-country-for-2015.md) _(Current version)_
 
 ### Related:

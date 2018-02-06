@@ -17,7 +17,7 @@ Suspect, who was shot and killed, was wanted in assault on officer.
 
 ### Changes:
 
-1. [A St Louis police officer and two U.S. Marshals are shot, one fatally, while serving an arrest warrant in south St. Louis, Missouri. The gunman is killed.](/news/2011/03/8/a-st-louis-police-officer-and-two-u-s-marshals-are-shot-one-fatally-while-serving-an-arrest-warrant-in-south-st-louis-missouri-the-gu.md) _2017-08-25 03:32:28 (First version)_
+1. [A St Louis police officer and two U.S. Marshals are shot, one fatally, while serving an arrest warrant in south St. Louis, Missouri. The gunman is killed.](/news/2011/03/8/a-st-louis-police-officer-and-two-u-s-marshals-are-shot-one-fatally-while-serving-an-arrest-warrant-in-south-st-louis-missouri-the-gu.md) _2018-02-06 13:49:22 (First version)_
 1. [A St Louis police officer and two U.S. Marshals are shot, one fatally, while serving an arrest warrant in south St. Louis, Missouri. The gunman is killed.](/news/2011/03/8/a-st-louis-police-officer-and-two-u-s-marshals-are-shot-one-fatally-while-serving-an-arrest-warrant-in-south-st-louis-missouri-the-gun.md) _(Current version)_
 
 ### Related:

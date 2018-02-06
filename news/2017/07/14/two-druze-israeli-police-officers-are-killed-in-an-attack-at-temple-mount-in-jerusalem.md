@@ -16,10 +16,10 @@ Police say the attackers were killed after opening fire near the holy Temple Mou
 
 ### Changes:
 
-1. [Two Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md) _2017-07-14 18:30:06 (First version)_
-2. [Two non-Jewish Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-non-jewish-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusa.md) _2017-07-14 19:30:06 (Update)_
-3. [Two Druze Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md) _2017-07-15 13:30:05 (Update)_
-4. [2017 Temple Mount shooting: Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/2017-temple-mount-shooting-two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md) _2017-08-27 03:48:39 (Update)_
+1. [Two non-Jewish Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-non-jewish-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusa.md) _2018-02-06 13:49:30 (First version)_
+2. [Two Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md) _2018-02-06 13:49:30 (Update)_
+3. [Two Druze Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md) _2018-02-06 13:49:30 (Update)_
+4. [2017 Temple Mount shooting: Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/2017-temple-mount-shooting-two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md) _2018-02-06 13:49:30 (Update)_
 4. [Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md) _(Current version)_
 
 ### Related:

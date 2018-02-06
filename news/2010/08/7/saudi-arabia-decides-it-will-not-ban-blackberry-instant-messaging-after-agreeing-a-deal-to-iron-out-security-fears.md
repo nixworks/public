@@ -17,8 +17,8 @@ Saudi Arabia and the makers of the BlackBerry smartphone have reached a deal to 
 
 ### Changes:
 
-1. [Saudi Arabia BlackBerry ban:Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-psaudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-fe.md) _2017-08-25 03:29:17 (First version)_
-2. [Saudi Arabia BlackBerry ban:: Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-f.md) _2017-08-27 03:29:17 (Update)_
+1. [Saudi Arabia BlackBerry ban:: Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-f.md) _2018-02-06 13:49:20 (First version)_
+2. [Saudi Arabia BlackBerry ban:Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-psaudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-fe.md) _2018-02-06 13:49:20 (Update)_
 2. [Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-fears.md) _(Current version)_
 
 ### Related:

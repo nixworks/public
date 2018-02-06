@@ -20,7 +20,7 @@ Ukrainian police are continuing to storm the main anti-government protest camp i
 
 ### Changes:
 
-1. [Euromaidan: After protesters had resisted the police, opposition and President Viktor Yanukovych hold talks and reach a truce. The toll of riots over the past couple of days is at least 25 dead and 241 injured. ](/news/2014/02/19/euromaidan-after-protesters-had-resisted-the-police-opposition-and-president-viktor-yanukovych-hold-talks-and-reach-a-truce-the-toll-of-r.md) _2017-08-27 03:40:21 (First version)_
+1. [Euromaidan: After protesters had resisted the police, opposition and President Viktor Yanukovych hold talks and reach a truce. The toll of riots over the past couple of days is at least 25 dead and 241 injured. ](/news/2014/02/19/euromaidan-after-protesters-had-resisted-the-police-opposition-and-president-viktor-yanukovych-hold-talks-and-reach-a-truce-the-toll-of-r.md) _2018-02-06 13:49:25 (First version)_
 1. [After protesters had resisted the police, opposition and President Viktor Yanukovych hold talks and reach a truce. The toll of riots over the past couple of days is at least 25 dead and 241 injured. ](/news/2014/02/19/after-protesters-had-resisted-the-police-opposition-and-president-viktor-yanukovych-hold-talks-and-reach-a-truce-the-toll-of-riots-over-th.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-repriev
 
 ### Changes:
 
-1. [Indonesia-Philippines relations: Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/indonesia-philippines-relations-filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _2017-08-27 03:45:59 (First version)_
+1. [Indonesia-Philippines relations: Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/indonesia-philippines-relations-filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _2018-02-06 13:49:29 (First version)_
 1. [Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _(Current version)_
 
 ### Related:

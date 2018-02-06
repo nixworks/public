@@ -19,8 +19,8 @@ The Yemeni army commander leading the fight against militants in the south of th
 
 ### Changes:
 
-1. [Arab Spring:2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/arab-spring-p2011a2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of.md) _2017-08-25 03:35:54 (First version)_
-2. [Arab Spring:: 2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/arab-spring-2011-2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of.md) _2017-08-27 03:36:05 (Update)_
+1. [Arab Spring:2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/arab-spring-p2011a2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: 2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/arab-spring-2011-2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of.md) _2018-02-06 13:49:23 (Update)_
 2. [2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/2011a2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of-aden-by-a-man.md) _(Current version)_
 
 ### Related:

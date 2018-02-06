@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/14/at-least-three-people-are-killed-and-15-injured
 
 ### Changes:
 
-1. [Religious violence in India:At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. ](/news/2014/05/14/religious-violence-in-india-pat-least-three-people-are-killed-and-15-injured-as-a-result-of-violent-clashes-between-two-religious-communitie.md) _2017-08-25 03:40:24 (First version)_
-2. [Religious violence in India:: At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. ](/news/2014/05/14/religious-violence-in-india-at-least-three-people-are-killed-and-15-injured-as-a-result-of-violent-clashes-between-two-religious-communiti.md) _2017-08-27 03:40:42 (Update)_
+1. [Religious violence in India:At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. ](/news/2014/05/14/religious-violence-in-india-pat-least-three-people-are-killed-and-15-injured-as-a-result-of-violent-clashes-between-two-religious-communitie.md) _2018-02-06 13:49:26 (First version)_
+2. [Religious violence in India:: At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. ](/news/2014/05/14/religious-violence-in-india-at-least-three-people-are-killed-and-15-injured-as-a-result-of-violent-clashes-between-two-religious-communiti.md) _2018-02-06 13:49:26 (Update)_
 2. [At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. ](/news/2014/05/14/at-least-three-people-are-killed-and-15-injured-as-a-result-of-violent-clashes-between-two-religious-communities-in-the-indian-city-of-hyder.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ Activists say 25 people killed as warships and tanks reportedly shell the northe
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-pthe-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-re.md) _2017-08-25 03:34:00 (First version)_
-2. [2011 Syrian uprising:: The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-the-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-r.md) _2017-08-27 03:34:08 (Update)_
+1. [2011 Syrian uprising:: The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-the-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-r.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-pthe-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-re.md) _2018-02-06 13:49:22 (Update)_
 2. [The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/the-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-refugee-camp-in-southern.md) _(Current version)_
 
 ### Related:

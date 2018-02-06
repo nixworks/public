@@ -18,8 +18,8 @@ United Nations human rights investigators have gathered testimony from casualtie
 
 ### Changes:
 
-1. [Syrian civil war:Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/syrian-civil-war-prebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md) _2017-08-25 03:38:34 (First version)_
-2. [Syrian civil war:: Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/syrian-civil-war-rebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md) _2017-08-27 03:38:47 (Update)_
+1. [Syrian civil war:: Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/syrian-civil-war-rebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/syrian-civil-war-prebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md) _2018-02-06 13:49:25 (Update)_
 2. [Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/rebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md) _(Current version)_
 
 ### Related:

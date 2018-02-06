@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/21/clashes-break-out-in-alexandria-egypt-on-the-ev
 
 ### Changes:
 
-1. [2012 Egyptian protests:Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-pclashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _2017-08-25 03:37:06 (First version)_
-2. [2012 Egyptian protests:: Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _2017-08-27 03:37:16 (Update)_
+1. [2012 Egyptian protests:Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-pclashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Egyptian protests:: Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _2018-02-06 13:49:24 (Update)_
 2. [Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _(Current version)_
 
 ### Related:

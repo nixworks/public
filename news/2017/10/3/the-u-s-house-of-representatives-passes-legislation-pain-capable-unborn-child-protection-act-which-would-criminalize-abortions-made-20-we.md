@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislat
 
 ### Changes:
 
-1. [The U.S. House of Representatives passes legislation which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-which-would-criminalize-abortions-made-20-weeks-into-a-pregnancy-except-for-cases-enda.md) _2017-10-04 08:30:06 (First version)_
+1. [The U.S. House of Representatives passes legislation which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-which-would-criminalize-abortions-made-20-weeks-into-a-pregnancy-except-for-cases-enda.md) _2018-02-06 13:49:31 (First version)_
 1. [The U.S. House of Representatives passes legislation (Pain-Capable Unborn Child Protection Act) which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.md) _(Current version)_
 
 ### Related:

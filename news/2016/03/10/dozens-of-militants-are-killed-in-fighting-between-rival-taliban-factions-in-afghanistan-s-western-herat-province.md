@@ -16,7 +16,7 @@ Up to 100 militants die in Herat during latest insurrection against group’s le
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/war-in-afghanistan-2015-present-dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-hera.md) _2017-08-27 03:45:12 (First version)_
+1. [War in Afghanistan (2015-present): Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/war-in-afghanistan-2015-present-dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-hera.md) _2018-02-06 13:49:28 (First version)_
 1. [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md) _(Current version)_
 
 ### Related:

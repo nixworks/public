@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/04/19/long-time-intelligence-chief-omar-suleiman-is-q
 
 ### Changes:
 
-1. [2011 Egyptian revolution:Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-plong-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-of.md) _2017-08-25 03:32:51 (First version)_
-2. [2011 Egyptian revolution:: Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-long-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-o.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Egyptian revolution:Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-plong-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-of.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian revolution:: Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-long-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-o.md) _2018-02-06 13:49:22 (Update)_
 2. [Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/long-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-of-egypt.md) _(Current version)_
 
 ### Related:

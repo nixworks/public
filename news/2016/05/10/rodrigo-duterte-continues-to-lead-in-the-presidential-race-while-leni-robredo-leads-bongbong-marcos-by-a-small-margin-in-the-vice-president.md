@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/10/rodrigo-duterte-continues-to-lead-in-the-presid
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/philippine-presidential-election-2016-rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos.md) _2017-08-27 03:46:00 (First version)_
+1. [Philippine presidential election, 2016: Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/philippine-presidential-election-2016-rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos.md) _2018-02-06 13:49:29 (First version)_
 1. [Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos-by-a-small-margin-in-the-vice-president.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A suicide bomb attack on the Afghan National Directorate of Security building in
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/war-in-afghanistan-2001apresent-pthe-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bom.md) _2017-08-25 03:37:16 (First version)_
-2. [War in Afghanistan (2001-present):: The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/war-in-afghanistan-2001-present-the-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bo.md) _2017-08-27 03:37:26 (Update)_
+1. [War in Afghanistan (2001-present):The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/war-in-afghanistan-2001apresent-pthe-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bom.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/war-in-afghanistan-2001-present-the-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bo.md) _2018-02-06 13:49:24 (Update)_
 2. [The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/the-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bombers-leaving-a-security-guard-dead-a.md) _(Current version)_
 
 ### Related:

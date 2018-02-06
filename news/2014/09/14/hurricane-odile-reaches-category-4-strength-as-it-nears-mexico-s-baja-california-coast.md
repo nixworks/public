@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-
 
 ### Changes:
 
-1. [2014 Pacific hurricane season: Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/2014-pacific-hurricane-season-hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md) _2017-08-27 03:41:17 (First version)_
+1. [2014 Pacific hurricane season: Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/2014-pacific-hurricane-season-hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md) _2018-02-06 13:49:26 (First version)_
 1. [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md) _(Current version)_
 
 ### Related:

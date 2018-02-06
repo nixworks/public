@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/4/the-number-of-people-with-middle-eastern-respira
 
 ### Changes:
 
-1. [ The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/the-number-of-people-with-middle-eastern-respiratory-syndrome-mers-in-south-korea-rises-to-35-with-over-700-schools-suspending-classes-d.md) _2017-08-25 03:42:10 (First version)_
+1. [ The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/the-number-of-people-with-middle-eastern-respiratory-syndrome-mers-in-south-korea-rises-to-35-with-over-700-schools-suspending-classes-d.md) _2018-02-06 13:49:27 (First version)_
 1. [ The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/the-number-of-people-with-middle-eastern-respiratory-syndrome-mers-in-south-korea-rises-to-35-with-over-700-schools-suspending-classes-du.md) _(Current version)_
 
 ### Related:

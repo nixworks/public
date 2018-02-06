@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/03/28/renewed-clashes-in-sabha-libya-raise-the-death-
 
 ### Changes:
 
-1. [2012 Sabha conflict:Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-prenewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md) _2017-08-25 03:35:23 (First version)_
-2. [2012 Sabha conflict:: Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-renewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md) _2017-08-27 03:35:31 (Update)_
+1. [2012 Sabha conflict:: Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-renewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Sabha conflict:Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-prenewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md) _2018-02-06 13:49:23 (Update)_
 2. [Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/renewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md) _(Current version)_
 
 ### Related:

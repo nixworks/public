@@ -17,7 +17,7 @@ With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve n
 
 ### Changes:
 
-1. [Economy of the United States: Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/economy-of-the-united-states-robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-a.md) _2017-08-27 03:48:32 (First version)_
+1. [Economy of the United States: Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/economy-of-the-united-states-robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-a.md) _2018-02-06 13:49:30 (First version)_
 1. [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md) _(Current version)_
 
 ### Related:

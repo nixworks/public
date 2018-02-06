@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/8/saudi-arabia-announces-a-five-day-ceasefire-in-y
 
 ### Changes:
 
-1. [Saudi-led intervention in Yemen (2015-present): Saudi Arabia announces a five day ceasefire in Yemen starting Tuesday next week. ](/news/2015/05/8/saudi-led-intervention-in-yemen-2015-present-saudi-arabia-announces-a-five-day-ceasefire-in-yemen-starting-tuesday-next-week.md) _2017-08-27 03:42:17 (First version)_
+1. [Saudi-led intervention in Yemen (2015-present): Saudi Arabia announces a five day ceasefire in Yemen starting Tuesday next week. ](/news/2015/05/8/saudi-led-intervention-in-yemen-2015-present-saudi-arabia-announces-a-five-day-ceasefire-in-yemen-starting-tuesday-next-week.md) _2018-02-06 13:49:27 (First version)_
 1. [Saudi Arabia announces a five day ceasefire in Yemen starting Tuesday next week. ](/news/2015/05/8/saudi-arabia-announces-a-five-day-ceasefire-in-yemen-starting-tuesday-next-week.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Boko Haram militants are blamed for a suicide bomb attack in a Nigerian church a
 
 ### Changes:
 
-1. [Boko Haram: A suicide bomber attacks a church in the Potiskum area of Nigeria's Yobe State, killing five and raising the toll of Boko Haram attacks for the past week to 200. ](/news/2015/07/5/boko-haram-a-suicide-bomber-attacks-a-church-in-the-potiskum-area-of-nigeria-s-yobe-state-killing-five-and-raising-the-toll-of-boko-haram.md) _2017-08-27 03:42:39 (First version)_
+1. [Boko Haram: A suicide bomber attacks a church in the Potiskum area of Nigeria's Yobe State, killing five and raising the toll of Boko Haram attacks for the past week to 200. ](/news/2015/07/5/boko-haram-a-suicide-bomber-attacks-a-church-in-the-potiskum-area-of-nigeria-s-yobe-state-killing-five-and-raising-the-toll-of-boko-haram.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber attacks a church in the Potiskum area of Nigeria's Yobe State, killing five and raising the toll of Boko Haram attacks for the past week to 200. ](/news/2015/07/5/a-suicide-bomber-attacks-a-church-in-the-potiskum-area-of-nigeria-s-yobe-state-killing-five-and-raising-the-toll-of-boko-haram-attacks-for.md) _(Current version)_
 
 ### Related:

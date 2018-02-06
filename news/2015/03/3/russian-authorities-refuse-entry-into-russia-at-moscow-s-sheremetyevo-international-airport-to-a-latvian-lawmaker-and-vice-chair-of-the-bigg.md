@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Assassination of Boris Nemtsov: Russian authorities refuse entry into Russia at Moscow's Sheremetyevo International Airport to a Latvian lawmaker and vice-chair of the biggest bloc in the EU, Sandra Kalniete. Having received no reasonable explanation for the ban, she flies back to Brussels. ](/news/2015/03/3/assassination-of-boris-nemtsov-russian-authorities-refuse-entry-into-russia-at-moscow-s-sheremetyevo-international-airport-to-a-latvian-law.md) _2017-08-27 03:42:02 (First version)_
+1. [Assassination of Boris Nemtsov: Russian authorities refuse entry into Russia at Moscow's Sheremetyevo International Airport to a Latvian lawmaker and vice-chair of the biggest bloc in the EU, Sandra Kalniete. Having received no reasonable explanation for the ban, she flies back to Brussels. ](/news/2015/03/3/assassination-of-boris-nemtsov-russian-authorities-refuse-entry-into-russia-at-moscow-s-sheremetyevo-international-airport-to-a-latvian-law.md) _2018-02-06 13:49:27 (First version)_
 1. [Russian authorities refuse entry into Russia at Moscow's Sheremetyevo International Airport to a Latvian lawmaker and vice-chair of the biggest bloc in the EU, Sandra Kalniete. Having received no reasonable explanation for the ban, she flies back to Brussels. ](/news/2015/03/3/russian-authorities-refuse-entry-into-russia-at-moscow-s-sheremetyevo-international-airport-to-a-latvian-lawmaker-and-vice-chair-of-the-bigg.md) _(Current version)_
 
 ### Related:

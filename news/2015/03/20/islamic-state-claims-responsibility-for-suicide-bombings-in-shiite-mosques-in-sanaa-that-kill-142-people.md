@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide
 
 ### Changes:
 
-1. [Yemeni crisis: Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/yemeni-crisis-islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md) _2017-08-27 03:42:07 (First version)_
+1. [Yemeni crisis: Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/yemeni-crisis-islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md) _(Current version)_
 
 ### Related:

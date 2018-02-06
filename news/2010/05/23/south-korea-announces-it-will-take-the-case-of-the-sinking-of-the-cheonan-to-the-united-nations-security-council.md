@@ -19,8 +19,8 @@ The South Korean government, which accuses North Korea of sinking one of its war
 
 ### Changes:
 
-1. [Sinking of the ROKS ''Cheonan'':South Korea announces it will take the case of the sinking of the ''Cheonan'' to the United Nations Security Council. ](/news/2010/05/23/sinking-of-the-roks-cheonan-psouth-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-securit.md) _2017-08-25 03:27:59 (First version)_
-2. [Sinking of the ROKS "Cheonan":: South Korea announces it will take the case of the sinking of the "Cheonan" to the United Nations Security Council. ](/news/2010/05/23/sinking-of-the-roks-cheonan-south-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-security-c.md) _2017-08-27 03:27:58 (Update)_
+1. [Sinking of the ROKS "Cheonan":: South Korea announces it will take the case of the sinking of the "Cheonan" to the United Nations Security Council. ](/news/2010/05/23/sinking-of-the-roks-cheonan-south-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-security-c.md) _2018-02-06 13:49:20 (First version)_
+2. [Sinking of the ROKS ''Cheonan'':South Korea announces it will take the case of the sinking of the ''Cheonan'' to the United Nations Security Council. ](/news/2010/05/23/sinking-of-the-roks-cheonan-psouth-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-securit.md) _2018-02-06 13:49:20 (Update)_
 2. [South Korea announces it will take the case of the sinking of the "Cheonan" to the United Nations Security Council. ](/news/2010/05/23/south-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-security-council.md) _(Current version)_
 
 ### Related:

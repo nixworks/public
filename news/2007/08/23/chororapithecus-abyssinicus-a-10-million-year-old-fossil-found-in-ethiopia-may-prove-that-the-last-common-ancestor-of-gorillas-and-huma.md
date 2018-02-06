@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/23/chororapithecus-abyssinicus-a-10-million-year-o
 
 ### Changes:
 
-1. [ ''Chororapithecus abyssinicus'', a 10-million-year-old fossil found in Ethiopia, may prove that the last common ancestor of gorillas and humans existed 2 million years earlier than previously thought.](/news/2007/08/23/chororapithecus-abyssinicus-a-10-million-year-old-fossil-found-in-ethiopia-may-prove-that-the-last-common-ancestor-of-gorillas-and-hu.md) _2017-08-25 03:20:42 (First version)_
+1. [ ''Chororapithecus abyssinicus'', a 10-million-year-old fossil found in Ethiopia, may prove that the last common ancestor of gorillas and humans existed 2 million years earlier than previously thought.](/news/2007/08/23/chororapithecus-abyssinicus-a-10-million-year-old-fossil-found-in-ethiopia-may-prove-that-the-last-common-ancestor-of-gorillas-and-hu.md) _2018-02-06 13:49:18 (First version)_
 1. [ "Chororapithecus abyssinicus", a 10-million-year-old fossil found in Ethiopia, may prove that the last common ancestor of gorillas and humans existed 2 million years earlier than previously thought.](/news/2007/08/23/chororapithecus-abyssinicus-a-10-million-year-old-fossil-found-in-ethiopia-may-prove-that-the-last-common-ancestor-of-gorillas-and-huma.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-t
 
 ### Changes:
 
-1. [Iraq War (2014-present): A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/iraq-war-2014-present-a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md) _2017-08-27 03:42:51 (First version)_
+1. [Iraq War (2014-present): A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/iraq-war-2014-present-a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md) _(Current version)_
 
 ### Related:

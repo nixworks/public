@@ -18,7 +18,7 @@ A huge turnout from the middle classes saw traditional SNP strongholds declare f
 
 ### Changes:
 
-1. [Scottish independence referendum, 2014: Voters in Scotland go to the polls to vote on the referendum on independence. ](/news/2014/09/18/scottish-independence-referendum-2014-voters-in-scotland-go-to-the-polls-to-vote-on-the-referendum-on-independence.md) _2017-08-27 03:41:18 (First version)_
+1. [Scottish independence referendum, 2014: Voters in Scotland go to the polls to vote on the referendum on independence. ](/news/2014/09/18/scottish-independence-referendum-2014-voters-in-scotland-go-to-the-polls-to-vote-on-the-referendum-on-independence.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Scotland go to the polls to vote on the referendum on independence. ](/news/2014/09/18/voters-in-scotland-go-to-the-polls-to-vote-on-the-referendum-on-independence.md) _(Current version)_
 
 ### Related:

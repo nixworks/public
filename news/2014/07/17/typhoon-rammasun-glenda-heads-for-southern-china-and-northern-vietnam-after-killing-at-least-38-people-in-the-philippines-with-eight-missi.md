@@ -18,8 +18,8 @@ The Philippines set to work clearing debris, reconnecting power and rebuilding f
 
 ### Changes:
 
-1. [2014 Pacific typhoon season:Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-ptyphoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the.md) _2017-08-25 03:40:42 (First version)_
-2. [2014 Pacific typhoon season:: Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-th.md) _2017-08-27 03:40:59 (Update)_
+1. [2014 Pacific typhoon season:: Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-th.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Pacific typhoon season:Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-ptyphoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the.md) _2018-02-06 13:49:26 (Update)_
 2. [Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the-philippines-with-eight-missi.md) _(Current version)_
 
 ### Related:

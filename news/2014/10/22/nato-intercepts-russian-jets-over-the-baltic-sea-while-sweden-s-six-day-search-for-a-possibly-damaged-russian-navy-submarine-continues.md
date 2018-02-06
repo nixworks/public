@@ -18,7 +18,7 @@ Sweden could use weapons in the search for a suspected foreign submarine near th
 
 ### Changes:
 
-1. [Swedish submarine incidents: NATO intercepts Russian jets over the Baltic Sea while Sweden's six-day search for a possibly damaged Russian Navy submarine continues. ](/news/2014/10/22/swedish-submarine-incidents-nato-intercepts-russian-jets-over-the-baltic-sea-while-sweden-s-six-day-search-for-a-possibly-damaged-russian-n.md) _2017-08-27 03:41:25 (First version)_
+1. [Swedish submarine incidents: NATO intercepts Russian jets over the Baltic Sea while Sweden's six-day search for a possibly damaged Russian Navy submarine continues. ](/news/2014/10/22/swedish-submarine-incidents-nato-intercepts-russian-jets-over-the-baltic-sea-while-sweden-s-six-day-search-for-a-possibly-damaged-russian-n.md) _2018-02-06 13:49:26 (First version)_
 1. [NATO intercepts Russian jets over the Baltic Sea while Sweden's six-day search for a possibly damaged Russian Navy submarine continues. ](/news/2014/10/22/nato-intercepts-russian-jets-over-the-baltic-sea-while-sweden-s-six-day-search-for-a-possibly-damaged-russian-navy-submarine-continues.md) _(Current version)_
 
 ### Related:

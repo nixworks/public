@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/08/24/a-roadside-ied-near-the-town-of-aemdinli-in-hak
 
 ### Changes:
 
-1. [Turkey-PKK conflict: A roadside IED near the town of Semdinli in Hakkari Province kills two Turkish Army soldiers and injures three others. ](/news/2015/08/24/turkey-pkk-conflict-a-roadside-ied-near-the-town-of-aemdinli-in-hakkari-province-kills-two-turkish-army-soldiers-and-injures-three-other.md) _2017-08-27 03:42:53 (First version)_
+1. [Turkey-PKK conflict: A roadside IED near the town of Semdinli in Hakkari Province kills two Turkish Army soldiers and injures three others. ](/news/2015/08/24/turkey-pkk-conflict-a-roadside-ied-near-the-town-of-aemdinli-in-hakkari-province-kills-two-turkish-army-soldiers-and-injures-three-other.md) _2018-02-06 13:49:27 (First version)_
 1. [A roadside IED near the town of Semdinli in Hakkari Province kills two Turkish Army soldiers and injures three others. ](/news/2015/08/24/a-roadside-ied-near-the-town-of-aemdinli-in-hakkari-province-kills-two-turkish-army-soldiers-and-injures-three-others.md) _(Current version)_
 
 ### Related:

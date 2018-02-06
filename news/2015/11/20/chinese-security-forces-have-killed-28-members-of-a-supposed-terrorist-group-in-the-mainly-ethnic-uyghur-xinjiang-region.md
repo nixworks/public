@@ -16,7 +16,7 @@ Chinese security forces kill 28 people allegedly behind a deadly attack on a coa
 
 ### Changes:
 
-1. [Xinjiang conflict: Chinese security forces have killed 28 members of a supposed terrorist group in the mainly ethnic Uyghur Xinjiang region. ](/news/2015/11/20/xinjiang-conflict-chinese-security-forces-have-killed-28-members-of-a-supposed-terrorist-group-in-the-mainly-ethnic-uyghur-xinjiang-region.md) _2017-08-27 03:43:57 (First version)_
+1. [Xinjiang conflict: Chinese security forces have killed 28 members of a supposed terrorist group in the mainly ethnic Uyghur Xinjiang region. ](/news/2015/11/20/xinjiang-conflict-chinese-security-forces-have-killed-28-members-of-a-supposed-terrorist-group-in-the-mainly-ethnic-uyghur-xinjiang-region.md) _2018-02-06 13:49:28 (First version)_
 1. [Chinese security forces have killed 28 members of a supposed terrorist group in the mainly ethnic Uyghur Xinjiang region. ](/news/2015/11/20/chinese-security-forces-have-killed-28-members-of-a-supposed-terrorist-group-in-the-mainly-ethnic-uyghur-xinjiang-region.md) _(Current version)_
 
 ### Related:

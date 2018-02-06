@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-
 
 ### Changes:
 
-1. [ The U.S. federal government will rescind travel and gift restrictions to Cuba. ](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba.md) _2017-08-25 03:24:20 (First version)_
+1. [ The U.S. federal government will rescind travel and gift restrictions to Cuba. ](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba.md) _2018-02-06 13:49:18 (First version)_
 1. [ The U.S. federal government will rescind travel and gift restrictions to Cuba. [http:--www.miamiherald.com-news-politics-AP-story-997719.html "(Miami Herald)"]](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba-http-www-miamiherald-com-news-politics-ap-story-997719-ht.md) _(Current version)_
 
 ### Related:

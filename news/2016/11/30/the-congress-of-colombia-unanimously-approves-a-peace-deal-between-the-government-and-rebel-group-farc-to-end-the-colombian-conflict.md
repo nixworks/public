@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a
 
 ### Changes:
 
-1. [Colombian peace process: The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/colombian-peace-process-the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-c.md) _2017-08-27 03:47:20 (First version)_
+1. [Colombian peace process: The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/colombian-peace-process-the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-c.md) _2018-02-06 13:49:29 (First version)_
 1. [The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-colombian-conflict.md) _(Current version)_
 
 ### Related:

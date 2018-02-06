@@ -17,7 +17,7 @@ BASF SE is working with advisers and financing banks on the merits of making a c
 
 ### Changes:
 
-1. [Germany's BASF SE, the largest chemical producer in the world, is pursuing a counterbid for DuPont that could short circuit the Delaware-based company's announced merger with fellow American firm, Dow Chemical Company. ](/news/2016/03/7/germany-s-basf-se-the-largest-chemical-producer-in-the-world-is-pursuing-a-counterbid-for-dupont-that-could-short-circuit-the-delaware-b.md) _2017-08-25 03:44:48 (First version)_
+1. [Germany's BASF SE, the largest chemical producer in the world, is pursuing a counterbid for DuPont that could short circuit the Delaware-based company's announced merger with fellow American firm, Dow Chemical Company. ](/news/2016/03/7/germany-s-basf-se-the-largest-chemical-producer-in-the-world-is-pursuing-a-counterbid-for-dupont-that-could-short-circuit-the-delaware-b.md) _2018-02-06 13:49:28 (First version)_
 1. [Germany's BASF SE, the largest chemical producer in the world, is pursuing a counterbid for DuPont that could short circuit the Delaware-based company's announced merger with fellow American firm, Dow Chemical Company. ](/news/2016/03/7/germany-s-basf-se-the-largest-chemical-producer-in-the-world-is-pursuing-a-counterbid-for-dupont-that-could-short-circuit-the-delaware-bas.md) _(Current version)_
 
 ### Related:

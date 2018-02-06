@@ -16,7 +16,7 @@ The incident, which occurred after months of questions about Mrs. Clinton’s he
 
 ### Changes:
 
-1. [United States presidential election, 2016: Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/united-states-presidential-election-2016-hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democr.md) _2017-08-27 03:46:49 (First version)_
+1. [United States presidential election, 2016: Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/united-states-presidential-election-2016-hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democr.md) _2018-02-06 13:49:29 (First version)_
 1. [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Social Democratic Party of Kyrgyzstan, linked to pro-Moscow President Almazb
 
 ### Changes:
 
-1. [Kyrgyzstani parliamentary election, 2015: Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/kyrgyzstani-parliamentary-election-2015-voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-mo.md) _2017-08-27 03:43:14 (First version)_
+1. [Kyrgyzstani parliamentary election, 2015: Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/kyrgyzstani-parliamentary-election-2015-voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-mo.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-most-votes-which-will-lead-to-a-pro-russian.md) _(Current version)_
 
 ### Related:

@@ -17,6 +17,6 @@ He was forced to abdicate in 1947 after the communists took over Romania followi
 
 ### Changes:
 
-1. [Former King of Romania, Michael I of Romania, dies at the age of 96. ](/news/2017/12/5/former-king-of-romania-michael-i-of-romania-dies-at-the-age-of-96.md) _2017-12-05 17:30:05 (First version)_
-2. [The last King of Romania, Michael I of Romania, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-of-romania-dies-at-the-age-of-96.md) _2017-12-05 19:30:06 (Update)_
+1. [The last King of Romania, Michael I of Romania, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-of-romania-dies-at-the-age-of-96.md) _2018-02-06 13:49:31 (First version)_
+2. [Former King of Romania, Michael I of Romania, dies at the age of 96. ](/news/2017/12/5/former-king-of-romania-michael-i-of-romania-dies-at-the-age-of-96.md) _2018-02-06 13:49:31 (Update)_
 2. [The last King of Romania, Michael I, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-dies-at-the-age-of-96.md) _(Current version)_

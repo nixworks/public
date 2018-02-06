@@ -16,8 +16,8 @@ At least 15 people have died in a suicide bomb attack targeting a Shia mosque in
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/iraqi-insurgency-post-u-s-withdrawal-p15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _2017-08-25 03:38:57 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/iraqi-insurgency-post-u-s-withdrawal-15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _2017-08-27 03:39:12 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/iraqi-insurgency-post-u-s-withdrawal-p15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/iraqi-insurgency-post-u-s-withdrawal-15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _2018-02-06 13:49:25 (Update)_
 2. [15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md) _(Current version)_
 
 ### Related:

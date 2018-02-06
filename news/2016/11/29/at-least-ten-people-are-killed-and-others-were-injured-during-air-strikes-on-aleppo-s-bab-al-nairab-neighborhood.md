@@ -18,7 +18,7 @@ Syria and its allies aim to drive rebels from Aleppo before Donald Trump takes o
 
 ### Changes:
 
-1. [Syrian Civil War: Aleppo offensive (November 2016): At least ten people are killed and others were injured during air strikes on Aleppo's Bab al-Nairab neighborhood. ](/news/2016/11/29/syrian-civil-war-aleppo-offensive-november-2016-at-least-ten-people-are-killed-and-others-were-injured-during-air-strikes-on-aleppo-s-ba.md) _2017-08-27 03:47:20 (First version)_
+1. [Syrian Civil War: Aleppo offensive (November 2016): At least ten people are killed and others were injured during air strikes on Aleppo's Bab al-Nairab neighborhood. ](/news/2016/11/29/syrian-civil-war-aleppo-offensive-november-2016-at-least-ten-people-are-killed-and-others-were-injured-during-air-strikes-on-aleppo-s-ba.md) _2018-02-06 13:49:29 (First version)_
 1. [At least ten people are killed and others were injured during air strikes on Aleppo's Bab al-Nairab neighborhood. ](/news/2016/11/29/at-least-ten-people-are-killed-and-others-were-injured-during-air-strikes-on-aleppo-s-bab-al-nairab-neighborhood.md) _(Current version)_
 
 ### Related:

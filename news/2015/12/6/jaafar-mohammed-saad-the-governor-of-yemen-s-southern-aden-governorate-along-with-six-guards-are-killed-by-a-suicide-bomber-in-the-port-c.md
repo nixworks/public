@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/6/jaafar-mohammed-saad-the-governor-of-yemen-s-sou
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Jaafar Mohammed Saad, the governor of Yemen's southern Aden Governorate, along with six guards, are killed by a suicide bomber in the port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/12/6/yemeni-civil-war-2015-jaafar-mohammed-saad-the-governor-of-yemen-s-southern-aden-governorate-along-with-six-guards-are-killed-by-a-sui.md) _2017-08-27 03:44:12 (First version)_
+1. [Yemeni Civil War (2015): Jaafar Mohammed Saad, the governor of Yemen's southern Aden Governorate, along with six guards, are killed by a suicide bomber in the port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/12/6/yemeni-civil-war-2015-jaafar-mohammed-saad-the-governor-of-yemen-s-southern-aden-governorate-along-with-six-guards-are-killed-by-a-sui.md) _2018-02-06 13:49:28 (First version)_
 1. [Jaafar Mohammed Saad, the governor of Yemen's southern Aden Governorate, along with six guards, are killed by a suicide bomber in the port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/12/6/jaafar-mohammed-saad-the-governor-of-yemen-s-southern-aden-governorate-along-with-six-guards-are-killed-by-a-suicide-bomber-in-the-port-c.md) _(Current version)_
 
 ### Related:

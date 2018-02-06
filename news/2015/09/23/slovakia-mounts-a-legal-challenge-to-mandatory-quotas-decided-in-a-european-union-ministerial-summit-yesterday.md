@@ -16,7 +16,7 @@ Splits within the EU on the relocation of migrants are further exposed as leader
 
 ### Changes:
 
-1. [European migrant crisis: Slovakia mounts a legal challenge to mandatory quotas decided in a European Union ministerial summit yesterday. ](/news/2015/09/23/european-migrant-crisis-slovakia-mounts-a-legal-challenge-to-mandatory-quotas-decided-in-a-european-union-ministerial-summit-yesterday.md) _2017-08-27 03:43:08 (First version)_
+1. [European migrant crisis: Slovakia mounts a legal challenge to mandatory quotas decided in a European Union ministerial summit yesterday. ](/news/2015/09/23/european-migrant-crisis-slovakia-mounts-a-legal-challenge-to-mandatory-quotas-decided-in-a-european-union-ministerial-summit-yesterday.md) _2018-02-06 13:49:27 (First version)_
 1. [Slovakia mounts a legal challenge to mandatory quotas decided in a European Union ministerial summit yesterday. ](/news/2015/09/23/slovakia-mounts-a-legal-challenge-to-mandatory-quotas-decided-in-a-european-union-ministerial-summit-yesterday.md) _(Current version)_
 
 ### Related:

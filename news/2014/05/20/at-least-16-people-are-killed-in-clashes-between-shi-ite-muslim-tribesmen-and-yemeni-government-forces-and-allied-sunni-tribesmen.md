@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/05/20/at-least-16-people-are-killed-in-clashes-betwee
 
 ### Changes:
 
-1. [Shia insurgency in Yemen: At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/shia-insurgency-in-yemen-at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied.md) _2017-08-27 03:40:43 (First version)_
+1. [Shia insurgency in Yemen: At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/shia-insurgency-in-yemen-at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied-sunni-tribesmen.md) _(Current version)_
 
 ### Related:

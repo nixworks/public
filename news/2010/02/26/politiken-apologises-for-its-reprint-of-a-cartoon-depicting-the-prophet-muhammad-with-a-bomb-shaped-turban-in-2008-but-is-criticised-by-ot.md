@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-carto
 
 ### Changes:
 
-1. [''Politiken'' apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by.md) _2017-08-25 03:27:14 (First version)_
+1. [''Politiken'' apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by.md) _2018-02-06 13:49:19 (First version)_
 1. ["Politiken" apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by-ot.md) _(Current version)_
 
 ### Related:

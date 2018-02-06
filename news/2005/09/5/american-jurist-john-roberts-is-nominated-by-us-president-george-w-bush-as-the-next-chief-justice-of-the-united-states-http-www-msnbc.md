@@ -11,8 +11,8 @@ Formats: [HTML](/news/2005/09/5/american-jurist-john-roberts-is-nominated-by-us-
 
 ### Changes:
 
-1. [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. ](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states.md) _2017-08-25 03:16:45 (First version)_
-2. [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. [http:--www.msnbc.msn.com-id-9215790- (MSNBC)] Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states-http-ww.md) _2017-10-17 03:19:17 (Update)_
+1. [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. ](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states.md) _2018-02-06 13:49:16 (First version)_
+2. [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. [http:--www.msnbc.msn.com-id-9215790- (MSNBC)] Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states-http-ww.md) _2018-02-06 13:49:16 (Update)_
 2. [ American jurist John Roberts is nominated by US President George W. Bush as the next Chief Justice of the United States. [http:--www.msnbc.msn.com-id-9215790- (MSNBC)] Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.](/news/2005/09/5/american-jurist-john-roberts-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states-http-www-msnbc.md) _(Current version)_
 
 ### Related:

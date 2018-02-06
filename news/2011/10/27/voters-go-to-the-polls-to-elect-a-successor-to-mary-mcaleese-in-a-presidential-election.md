@@ -18,8 +18,8 @@ Polling stations have closed after 15 hours of voting in two elections and on tw
 
 ### Changes:
 
-1. [Elections in Ireland:Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/elections-in-ireland-pvoters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md) _2017-08-25 03:34:23 (First version)_
-2. [Elections in Ireland:: Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/elections-in-ireland-voters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md) _2017-08-27 03:34:32 (Update)_
+1. [Elections in Ireland:: Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/elections-in-ireland-voters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md) _2018-02-06 13:49:23 (First version)_
+2. [Elections in Ireland:Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/elections-in-ireland-pvoters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/voters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md) _(Current version)_
 
 ### Related:

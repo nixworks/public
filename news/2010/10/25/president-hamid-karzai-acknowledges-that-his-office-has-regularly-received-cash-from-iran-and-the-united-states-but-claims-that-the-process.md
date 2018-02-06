@@ -18,7 +18,7 @@ A Dutch aid worker and his Afghan driver have been abducted by gunmen in north e
 
 ### Changes:
 
-1. [Afghanistan: President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/afghanistan-president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that.md) _2017-08-27 03:30:47 (First version)_
+1. [Afghanistan: President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/afghanistan-president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that.md) _2018-02-06 13:49:20 (First version)_
 1. [President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that-the-process.md) _(Current version)_
 
 ### Related:

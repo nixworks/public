@@ -18,8 +18,8 @@ Protesters in Cairo demand the resignation of the head of Egypt governing milita
 
 ### Changes:
 
-1. [2011 Egyptian revolution:At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/2011-egyptian-revolution-pat-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahrir.md) _2017-08-25 03:34:31 (First version)_
-2. [2011 Egyptian revolution:: At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/2011-egyptian-revolution-at-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahri.md) _2017-08-27 03:34:41 (Update)_
+1. [2011 Egyptian revolution:At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/2011-egyptian-revolution-pat-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahrir.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Egyptian revolution:: At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/2011-egyptian-revolution-at-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahri.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/at-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahrir-square.md) _(Current version)_
 
 ### Related:

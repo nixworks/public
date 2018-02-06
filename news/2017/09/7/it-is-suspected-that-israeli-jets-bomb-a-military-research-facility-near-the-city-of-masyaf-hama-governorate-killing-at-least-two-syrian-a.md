@@ -17,7 +17,7 @@ Syrian military appears to confirm media reports of attack on research centre ne
 
 ### Changes:
 
-1. [Israeli jets bomb a suspected chemical weapons depot near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. ](/news/2017/09/7/israeli-jets-bomb-a-suspected-chemical-weapons-depot-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-army-soldiers.md) _2017-09-08 13:30:06 (First version)_
+1. [Israeli jets bomb a suspected chemical weapons depot near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. ](/news/2017/09/7/israeli-jets-bomb-a-suspected-chemical-weapons-depot-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-army-soldiers.md) _2018-02-06 13:49:31 (First version)_
 1. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _(Current version)_
 
 ### Related:

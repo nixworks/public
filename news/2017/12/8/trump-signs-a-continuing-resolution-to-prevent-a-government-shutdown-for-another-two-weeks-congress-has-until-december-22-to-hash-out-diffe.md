@@ -17,7 +17,7 @@ President Trump signed stopgap legislation Friday to prevent a government shutdo
 
 ### Changes:
 
-1. [President Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/president-trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash.md) _2017-12-09 00:30:06 (First version)_
+1. [President Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/president-trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash.md) _2018-02-06 13:49:31 (First version)_
 1. [Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash-out-diffe.md) _(Current version)_
 
 ### Related:

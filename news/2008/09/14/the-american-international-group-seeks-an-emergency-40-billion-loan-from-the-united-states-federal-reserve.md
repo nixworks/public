@@ -20,7 +20,7 @@ Formats: [HTML](/news/2008/09/14/the-american-international-group-seeks-an-emerg
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: The American International Group seeks an emergency $40 billion loan from the United States Federal Reserve. ](/news/2008/09/14/subprime-mortgage-crisis-the-american-international-group-seeks-an-emergency-40-billion-loan-from-the-united-states-federal-reserve.md) _2017-08-27 03:22:46 (First version)_
+1. [ Subprime mortgage crisis: The American International Group seeks an emergency $40 billion loan from the United States Federal Reserve. ](/news/2008/09/14/subprime-mortgage-crisis-the-american-international-group-seeks-an-emergency-40-billion-loan-from-the-united-states-federal-reserve.md) _2018-02-06 13:49:18 (First version)_
 1. [ The American International Group seeks an emergency $40 billion loan from the United States Federal Reserve. ](/news/2008/09/14/the-american-international-group-seeks-an-emergency-40-billion-loan-from-the-united-states-federal-reserve.md) _(Current version)_
 
 ### Related:

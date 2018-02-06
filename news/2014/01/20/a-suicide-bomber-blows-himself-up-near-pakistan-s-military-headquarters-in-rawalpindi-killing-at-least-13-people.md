@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan
 
 ### Changes:
 
-1. [War in North-West Pakistan: A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/war-in-north-west-pakistan-a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md) _2017-08-27 03:40:12 (First version)_
+1. [War in North-West Pakistan: A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/war-in-north-west-pakistan-a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md) _2018-02-06 13:49:25 (First version)_
 1. [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md) _(Current version)_
 
 ### Related:

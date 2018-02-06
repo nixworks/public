@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/2/sierra-leone-quarantines-the-tonkolili-district-
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Sierra Leone quarantines the Tonkolili district with more than half the country under lockdown and the official death toll in the country reaching 1,530 and roughly 7,109 infected. ](/news/2014/12/2/ebola-virus-epidemic-in-west-africa-sierra-leone-quarantines-the-tonkolili-district-with-more-than-half-the-country-under-lockdown-and-the.md) _2017-08-27 03:41:35 (First version)_
+1. [Ebola virus epidemic in West Africa: Sierra Leone quarantines the Tonkolili district with more than half the country under lockdown and the official death toll in the country reaching 1,530 and roughly 7,109 infected. ](/news/2014/12/2/ebola-virus-epidemic-in-west-africa-sierra-leone-quarantines-the-tonkolili-district-with-more-than-half-the-country-under-lockdown-and-the.md) _2018-02-06 13:49:26 (First version)_
 1. [Sierra Leone quarantines the Tonkolili district with more than half the country under lockdown and the official death toll in the country reaching 1,530 and roughly 7,109 infected. ](/news/2014/12/2/sierra-leone-quarantines-the-tonkolili-district-with-more-than-half-the-country-under-lockdown-and-the-official-death-toll-in-the-country-re.md) _(Current version)_
 
 ### Related:

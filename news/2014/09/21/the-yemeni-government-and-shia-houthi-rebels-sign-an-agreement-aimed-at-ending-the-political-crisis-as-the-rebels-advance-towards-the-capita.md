@@ -16,7 +16,7 @@ The Yemeni government and Shia Houthi rebels sign an agreement aimed at ending t
 
 ### Changes:
 
-1. [Shia insurgency in Yemen: The Yemeni government and Shia Houthi rebels sign an agreement aimed at ending the political crisis as the rebels advance towards the capital Sana'a; prime minister Mohammed Basindwa resigns, and under the deal, rebels will nominate a new prime minister within three days. ](/news/2014/09/21/shia-insurgency-in-yemen-the-yemeni-government-and-shia-houthi-rebels-sign-an-agreement-aimed-at-ending-the-political-crisis-as-the-rebels.md) _2017-08-27 03:41:18 (First version)_
+1. [Shia insurgency in Yemen: The Yemeni government and Shia Houthi rebels sign an agreement aimed at ending the political crisis as the rebels advance towards the capital Sana'a; prime minister Mohammed Basindwa resigns, and under the deal, rebels will nominate a new prime minister within three days. ](/news/2014/09/21/shia-insurgency-in-yemen-the-yemeni-government-and-shia-houthi-rebels-sign-an-agreement-aimed-at-ending-the-political-crisis-as-the-rebels.md) _2018-02-06 13:49:26 (First version)_
 1. [The Yemeni government and Shia Houthi rebels sign an agreement aimed at ending the political crisis as the rebels advance towards the capital Sana'a; prime minister Mohammed Basindwa resigns, and under the deal, rebels will nominate a new prime minister within three days. ](/news/2014/09/21/the-yemeni-government-and-shia-houthi-rebels-sign-an-agreement-aimed-at-ending-the-political-crisis-as-the-rebels-advance-towards-the-capita.md) _(Current version)_
 
 ### Related:

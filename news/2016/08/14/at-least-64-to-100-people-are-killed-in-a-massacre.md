@@ -15,5 +15,5 @@ At least 64 bodies recovered near Beni town in North Kivu, but local authorities
 
 ### Changes:
 
-1. [Beni massacre: At least 64 to 100 people are killed in a massacre. ](/news/2016/08/14/beni-massacre-at-least-64-to-100-people-are-killed-in-a-massacre.md) _2017-08-27 03:46:39 (First version)_
+1. [Beni massacre: At least 64 to 100 people are killed in a massacre. ](/news/2016/08/14/beni-massacre-at-least-64-to-100-people-are-killed-in-a-massacre.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 64 to 100 people are killed in a massacre. ](/news/2016/08/14/at-least-64-to-100-people-are-killed-in-a-massacre.md) _(Current version)_

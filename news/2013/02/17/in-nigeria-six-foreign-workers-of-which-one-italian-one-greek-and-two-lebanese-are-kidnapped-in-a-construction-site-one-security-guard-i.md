@@ -16,8 +16,8 @@ Seven foreign workers have been kidnapped by gunmen in northern Nigeria, in the 
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/nigerian-sharia-conflict-pin-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction.md) _2017-08-25 03:37:33 (First version)_
-2. [Nigerian Sharia conflict:: In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/nigerian-sharia-conflict-in-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction.md) _2017-08-27 03:37:44 (Update)_
+1. [Nigerian Sharia conflict:In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/nigerian-sharia-conflict-pin-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/nigerian-sharia-conflict-in-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction.md) _2018-02-06 13:49:24 (Update)_
 2. [In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/in-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction-site-one-security-guard-i.md) _(Current version)_
 
 ### Related:

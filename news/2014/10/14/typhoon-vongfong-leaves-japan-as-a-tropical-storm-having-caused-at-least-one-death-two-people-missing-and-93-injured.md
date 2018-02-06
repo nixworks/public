@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/14/typhoon-vongfong-leaves-japan-as-a-tropical-sto
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/2014-pacific-typhoon-season-typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-i.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Pacific typhoon season: Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/2014-pacific-typhoon-season-typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-i.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-injured.md) _(Current version)_
 
 ### Related:

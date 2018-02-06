@@ -16,7 +16,7 @@ A report alleged the vice-president was tainted by the sale of passports to terr
 
 ### Changes:
 
-1. [Censorship in Venezuela: Venezuela bans CNN en Espanol, CNN's 24-hour Spanish language television channel, after accusing it of spreading propaganda. ](/news/2017/02/15/censorship-in-venezuela-venezuela-bans-cnn-en-espaa-ol-cnn-s-24-hour-spanish-language-television-channel-after-accusing-it-of-spreading-p.md) _2017-08-27 03:47:49 (First version)_
+1. [Censorship in Venezuela: Venezuela bans CNN en Espanol, CNN's 24-hour Spanish language television channel, after accusing it of spreading propaganda. ](/news/2017/02/15/censorship-in-venezuela-venezuela-bans-cnn-en-espaa-ol-cnn-s-24-hour-spanish-language-television-channel-after-accusing-it-of-spreading-p.md) _2018-02-06 13:49:30 (First version)_
 1. [Venezuela bans CNN en Espanol, CNN's 24-hour Spanish language television channel, after accusing it of spreading propaganda. ](/news/2017/02/15/venezuela-bans-cnn-en-espaa-ol-cnn-s-24-hour-spanish-language-television-channel-after-accusing-it-of-spreading-propaganda.md) _(Current version)_
 
 ### Related:

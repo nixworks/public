@@ -17,7 +17,7 @@ Louisiana governor was most recently polling at 1% in national survey of Republi
 
 ### Changes:
 
-1. [United States presidential election, 2016: The Governor of Louisiana Bobby Jindal ends his campaign for the Republican Party nomination. ](/news/2015/11/17/united-states-presidential-election-2016-the-governor-of-louisiana-bobby-jindal-ends-his-campaign-for-the-republican-party-nomination.md) _2017-08-27 03:43:54 (First version)_
+1. [United States presidential election, 2016: The Governor of Louisiana Bobby Jindal ends his campaign for the Republican Party nomination. ](/news/2015/11/17/united-states-presidential-election-2016-the-governor-of-louisiana-bobby-jindal-ends-his-campaign-for-the-republican-party-nomination.md) _2018-02-06 13:49:28 (First version)_
 1. [The Governor of Louisiana Bobby Jindal ends his campaign for the Republican Party nomination. ](/news/2015/11/17/the-governor-of-louisiana-bobby-jindal-ends-his-campaign-for-the-republican-party-nomination.md) _(Current version)_
 
 ### Related:

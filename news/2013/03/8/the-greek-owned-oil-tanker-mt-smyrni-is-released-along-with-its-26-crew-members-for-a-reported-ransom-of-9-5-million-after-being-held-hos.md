@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/8/the-greek-owned-oil-tanker-mt-smyrni-is-released
 
 ### Changes:
 
-1. [Piracy in Somalia:The Greek-owned oil tanker ''MT Smyrni'' is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-pthe-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md) _2017-08-25 03:37:45 (First version)_
-2. [Piracy in Somalia:: The Greek-owned oil tanker "MT Smyrni" is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-the-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md) _2017-08-27 03:37:56 (Update)_
+1. [Piracy in Somalia:: The Greek-owned oil tanker "MT Smyrni" is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-the-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md) _2018-02-06 13:49:24 (First version)_
+2. [Piracy in Somalia:The Greek-owned oil tanker ''MT Smyrni'' is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-pthe-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md) _2018-02-06 13:49:24 (Update)_
 2. [The Greek-owned oil tanker "MT Smyrni" is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/the-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million-after-being-held-hos.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Hong Kong police began to clear a small pro-democracy protest site in Causeway B
 
 ### Changes:
 
-1. [2014 Hong Kong protests: Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/2014-hong-kong-protests-authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md) _2017-08-27 03:41:38 (First version)_
+1. [2014 Hong Kong protests: Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/2014-hong-kong-protests-authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md) _2018-02-06 13:49:26 (First version)_
 1. [Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md) _(Current version)_
 
 ### Related:

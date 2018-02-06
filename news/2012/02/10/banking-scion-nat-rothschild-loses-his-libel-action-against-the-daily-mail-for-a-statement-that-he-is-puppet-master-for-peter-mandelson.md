@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-ac
 
 ### Changes:
 
-1. [Banking scion Nat Rothschild loses his libel action against the ''Daily Mail'' for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelso.md) _2017-08-25 03:35:00 (First version)_
+1. [Banking scion Nat Rothschild loses his libel action against the ''Daily Mail'' for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelso.md) _2018-02-06 13:49:23 (First version)_
 1. [Banking scion Nat Rothschild loses his libel action against the "Daily Mail" for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelson.md) _(Current version)_
 
 ### Related:

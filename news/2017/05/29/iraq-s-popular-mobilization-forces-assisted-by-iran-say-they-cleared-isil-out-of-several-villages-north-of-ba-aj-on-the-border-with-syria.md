@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraqi-civil-war-iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-b.md) _2017-08-27 03:48:24 (First version)_
+1. [Iraqi Civil War: Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraqi-civil-war-iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-b.md) _2018-02-06 13:49:30 (First version)_
 1. [Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md) _(Current version)_
 
 ### Related:

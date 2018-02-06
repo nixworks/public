@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/07/20/the-united-nations-security-council-unanimously
 
 ### Changes:
 
-1. [Joint Comprehensive Plan of Action: The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/joint-comprehensive-plan-of-action-the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-si.md) _2017-08-27 03:42:43 (First version)_
+1. [Joint Comprehensive Plan of Action: The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/joint-comprehensive-plan-of-action-the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-si.md) _2018-02-06 13:49:27 (First version)_
 1. [The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-six-world-powers-in-return-for-sanctio.md) _(Current version)_
 
 ### Related:

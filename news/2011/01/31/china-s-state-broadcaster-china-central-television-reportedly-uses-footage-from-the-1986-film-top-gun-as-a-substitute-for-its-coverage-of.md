@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/01/31/china-s-state-broadcaster-china-central-televis
 
 ### Changes:
 
-1. [China's state broadcaster China Central Television reportedly uses footage from the 1986 film ''Top Gun'' as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-o.md) _2017-08-25 03:31:59 (First version)_
+1. [China's state broadcaster China Central Television reportedly uses footage from the 1986 film ''Top Gun'' as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-o.md) _2018-02-06 13:49:21 (First version)_
 1. [China's state broadcaster China Central Television reportedly uses footage from the 1986 film "Top Gun" as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-of.md) _(Current version)_
 
 ### Related:

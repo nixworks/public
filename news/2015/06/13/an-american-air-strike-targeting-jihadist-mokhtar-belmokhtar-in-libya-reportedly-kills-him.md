@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/13/an-american-air-strike-targeting-jihadist-mokht
 
 ### Changes:
 
-1. [War on Terror: An American air strike targeting jihadist Mokhtar Belmokhtar in Libya reportedly kills him. ](/news/2015/06/13/war-on-terror-an-american-air-strike-targeting-jihadist-mokhtar-belmokhtar-in-libya-reportedly-kills-him.md) _2017-08-27 03:42:32 (First version)_
+1. [War on Terror: An American air strike targeting jihadist Mokhtar Belmokhtar in Libya reportedly kills him. ](/news/2015/06/13/war-on-terror-an-american-air-strike-targeting-jihadist-mokhtar-belmokhtar-in-libya-reportedly-kills-him.md) _2018-02-06 13:49:27 (First version)_
 1. [An American air strike targeting jihadist Mokhtar Belmokhtar in Libya reportedly kills him. ](/news/2015/06/13/an-american-air-strike-targeting-jihadist-mokhtar-belmokhtar-in-libya-reportedly-kills-him.md) _(Current version)_
 
 ### Related:

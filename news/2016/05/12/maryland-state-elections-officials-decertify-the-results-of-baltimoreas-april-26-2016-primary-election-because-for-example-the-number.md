@@ -15,7 +15,7 @@ State elections administrator says the number of ballots cast was hundreds more 
 
 ### Changes:
 
-1. [Baltimore, Maryland, primary election, 2016: Maryland state elections officials decertify the results of Baltimore-s April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. ](/news/2016/05/12/baltimore-maryland-primary-election-2016-maryland-state-elections-officials-decertify-the-results-of-baltimore-s-april-26-2016-prima.md) _2017-08-27 03:46:01 (First version)_
+1. [Baltimore, Maryland, primary election, 2016: Maryland state elections officials decertify the results of Baltimore-s April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. ](/news/2016/05/12/baltimore-maryland-primary-election-2016-maryland-state-elections-officials-decertify-the-results-of-baltimore-s-april-26-2016-prima.md) _2018-02-06 13:49:29 (First version)_
 1. [Maryland state elections officials decertify the results of Baltimore's April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. ](/news/2016/05/12/maryland-state-elections-officials-decertify-the-results-of-baltimoreas-april-26-2016-primary-election-because-for-example-the-number.md) _(Current version)_
 
 ### Related:

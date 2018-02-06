@@ -5,15 +5,15 @@ Formats: [HTML](2012/03/6/index.html)  [JSON](2012/03/6/index.json)  [XML](2012/
 
 ##### South Korea
 ### [A South Korean panel identifies the 95 Koreans who died in the US bombing of Tokyo during World War II. ](/news/2012/03/6/a-south-korean-panel-identifies-the-95-koreans-who-died-in-the-us-bombing-of-tokyo-during-world-war-ii.md)
-_Context: World War II, South Korea, Korean, bombing of Tokyo_
+_Context: South Korea, bombing of Tokyo, World War II, Korean_
 
 ##### Syria
 ### [At least 39 people are killed across Syria, while the Red Cross states that it is still unable to deliver aid to the besieged Bab Amr neighborhood of Homs. ](/news/2012/03/6/at-least-39-people-are-killed-across-syria-while-the-red-cross-states-that-it-is-still-unable-to-deliver-aid-to-the-besieged-bab-amr-neighb.md)
-_Context: Syria, Homs, Red Cross_
+_Context: Syria, Red Cross, Homs_
 
 ##### headmaster
 ### [A gunman kills the headmaster of the Episcopal School of Jacksonville in Jacksonville, Florida, USA, and then kills himself. ](/news/2012/03/6/a-gunman-kills-the-headmaster-of-the-episcopal-school-of-jacksonville-in-jacksonville-florida-usa-and-then-kills-himself.md)
-_Context: Jacksonville, Florida, the state, Episcopal School of Jacksonville, headmaster_
+_Context: Episcopal School of Jacksonville, headmaster, the state, Jacksonville, Florida_
 
 ##### Robert B. Sherman
 ### [Robert B. Sherman, half of the American songwriting duo the Sherman Brothers, dies at the age of 86. ](/news/2012/03/6/robert-b-sherman-half-of-the-american-songwriting-duo-the-sherman-brothers-dies-at-the-age-of-86.md)
@@ -25,15 +25,15 @@ Lehman Brothers, the US investment bank that collapsed in 2008, exits bankruptcy
 
 ##### Turkish Airlines
 ### [Turkish Airlines begins a service to Somalia, the first regular service to the capital Mogadishu except regional East African flights to operate in twenty years. ](/news/2012/03/6/turkish-airlines-begins-a-service-to-somalia-the-first-regular-service-to-the-capital-mogadishu-except-regional-east-african-flights-to-ope.md)
-_Context: Somalia, East Africa, Mogadishu, Turkish Airlines_
+_Context: East Africa, Somalia, Turkish Airlines, Mogadishu_
 
 ##### Australia
 ### [Approximately 9,000 residents of the Australian town of Wagga Wagga, New South Wales, are evacuated as the Murrumbidgee River nears record levels threatening the town's levee. ](/news/2012/03/6/approximately-9-000-residents-of-the-australian-town-of-wagga-wagga-new-south-wales-are-evacuated-as-the-murrumbidgee-river-nears-record-l.md)
-_Context: Australia, Murrumbidgee River, levee, Wagga Wagga, New South Wales_
+_Context: Wagga Wagga, New South Wales, Murrumbidgee River, levee, Australia_
 
 ##### earthquake
 ### [A 5.2 magnitude earthquake occurs in the Philippines near Masbate City on the island of Masbate causing some injuries. ](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philippines-near-masbate-city-on-the-island-of-masbate-causing-some-injuries.md)
-_Context: earthquake, Philippines, Masbate, Masbate City_
+_Context: Masbate City, Philippines, Masbate, earthquake_
 
 ##### Human Rights Watch
 ### [Human Rights Watch claims that the Government of Japan has been too slow in providing health care to survivors of the Fukushima Daiichi nuclear disaster. ](/news/2012/03/6/human-rights-watch-claims-that-the-government-of-japan-has-been-too-slow-in-providing-health-care-to-survivors-of-the-fukushima-daiichi-nucl.md)
@@ -41,7 +41,7 @@ _Context: Human Rights Watch, Fukushima Daiichi nuclear disaster, Japanese gover
 
 ##### Saudi Arabia
 ### [A Saudi Arabian diplomat is killed in the Bangladeshi capital Dhaka. ](/news/2012/03/6/a-saudi-arabian-diplomat-is-killed-in-the-bangladeshi-capital-dhaka.md)
-_Context: Bangladesh, Dhaka, Saudi Arabia_
+_Context: Dhaka, Bangladesh, Saudi Arabia_
 
 ##### Iran
 ### [Iran states that it will allow International Atomic Energy Agency inspectors access to its Parchin military complex. ](/news/2012/03/6/iran-states-that-it-will-allow-international-atomic-energy-agency-inspectors-access-to-its-parchin-military-complex.md)
@@ -65,7 +65,7 @@ _Context: Christopher Tappin, Texas, British_
 
 ##### Japan
 ### [Japan's Securities and Exchange Surveillance Commission says that it will lodge criminal charges against Olympus Corporation as well as former advisers and executives over an accounting fraud. ](/news/2012/03/6/japan-s-securities-and-exchange-surveillance-commission-says-that-it-will-lodge-criminal-charges-against-olympus-corporation-as-well-as-form.md)
-_Context: Securities and Exchange Surveillance Commission, Japan, Olympus Corp_
+_Context: Olympus Corp, Japan, Securities and Exchange Surveillance Commission_
 
 ##### United States
 ### [Law enforcement agencies in the United States, United Kingdom and Ireland arrest alleged senior members of the computer hacking group Lulz Sec, including a member of the FBI. ](/news/2012/03/6/law-enforcement-agencies-in-the-united-states-united-kingdom-and-ireland-arrest-alleged-senior-members-of-the-computer-hacking-group-lulz-s.md)
@@ -97,7 +97,7 @@ The head of the Pakistani Taliban has removed his deputy commander, the militant
 
 ##### lawmakers
 ### [The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. ](/news/2012/03/6/the-united-states-congress-votes-to-restore-higher-tariffs-against-the-people-s-republic-of-china-and-other-nations-that-allegedly-subsidize.md)
-_Context: lawmakers, tariff, United States, China_
+_Context: tariff, United States, lawmakers, China_
 
 ##### Parliament
 ### [The Parliament of New South Wales officially appoints Bob Carr as a member of the Australian Senate filling a casual vacancy left by the resignation of Mark Arbib. ](/news/2012/03/6/the-parliament-of-new-south-wales-officially-appoints-bob-carr-as-a-member-of-the-australian-senate-filling-a-casual-vacancy-left-by-the-res.md)

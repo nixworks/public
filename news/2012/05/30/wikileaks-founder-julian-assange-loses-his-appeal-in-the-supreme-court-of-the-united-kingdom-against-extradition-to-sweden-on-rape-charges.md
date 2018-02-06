@@ -17,8 +17,8 @@ Wikileaks founder Julian Assange loses his Supreme Court fight against extraditi
 
 ### Changes:
 
-1. [''Assange v The Swedish Judicial Authority'':Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-pwikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-a.md) _2017-08-25 03:35:46 (First version)_
-2. ["Assange v The Swedish Judicial Authority":: Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-ag.md) _2017-08-27 03:35:57 (Update)_
+1. ["Assange v The Swedish Judicial Authority":: Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-ag.md) _2018-02-06 13:49:23 (First version)_
+2. [''Assange v The Swedish Judicial Authority'':Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-pwikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-a.md) _2018-02-06 13:49:23 (Update)_
 2. [Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-against-extradition-to-sweden-on-rape-charges.md) _(Current version)_
 
 ### Related:

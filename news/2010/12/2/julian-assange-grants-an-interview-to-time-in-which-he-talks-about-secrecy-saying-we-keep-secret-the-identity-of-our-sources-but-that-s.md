@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-wh
 
 ### Changes:
 
-1. [Julian Assange grants an interview to ''TIME'' in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that.md) _2017-08-25 03:31:15 (First version)_
+1. [Julian Assange grants an interview to ''TIME'' in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that.md) _2018-02-06 13:49:21 (First version)_
 1. [Julian Assange grants an interview to "TIME" in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that-s.md) _(Current version)_
 
 ### Related:

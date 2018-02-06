@@ -17,7 +17,7 @@ Myanmar opposition leader Aung San Suu Kyi said on Thursday she would be &quot;a
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-general-election-2015-myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her.md) _2017-08-27 03:43:41 (First version)_
+1. [Myanmar general election, 2015: Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-general-election-2015-myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her.md) _2018-02-06 13:49:28 (First version)_
 1. [Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.md) _(Current version)_
 
 ### Related:

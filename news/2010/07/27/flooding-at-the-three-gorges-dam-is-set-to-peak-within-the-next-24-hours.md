@@ -19,7 +19,7 @@ Dozens more people are reported dead or missing as the worst torrential rain in 
 
 ### Changes:
 
-1. [South China floods: Flooding at the Three Gorges Dam is set to peak within the next 24 hours. ](/news/2010/07/27/south-china-floods-flooding-at-the-three-gorges-dam-is-set-to-peak-within-the-next-24-hours.md) _2017-08-27 03:29:05 (First version)_
+1. [South China floods: Flooding at the Three Gorges Dam is set to peak within the next 24 hours. ](/news/2010/07/27/south-china-floods-flooding-at-the-three-gorges-dam-is-set-to-peak-within-the-next-24-hours.md) _2018-02-06 13:49:20 (First version)_
 1. [Flooding at the Three Gorges Dam is set to peak within the next 24 hours. ](/news/2010/07/27/flooding-at-the-three-gorges-dam-is-set-to-peak-within-the-next-24-hours.md) _(Current version)_
 
 ### Related:

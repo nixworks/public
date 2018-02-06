@@ -13,7 +13,7 @@ At least two people were found dead and thousands of people lost their homes in 
 
 ##### 2015 downing
 ### [Turkish Prime Minister Ahmet Davutoglu says the body of the pilot from the Sukhoi Su-24 jet downed this past Tuesday will be handed over to Russia. The body is being treated in accordance with the Orthodox tradition. Russia's military attache is going to Hatay in southern Turkey as part of the procedures to recover the remains. Turkish officials refused to comment on how they came to be in possession of the body. ](/news/2015/11/29/turkish-prime-minister-ahmet-davutoalu-says-the-body-of-the-pilot-from-the-sukhoi-su-24-jet-downed-this-past-tuesday-will-be-handed-over-to.md)
-_Context: Sukhoi Su-24, Turkish, Ahmet Davutoglu, Turkish Prime Minister, Hatay Province, 2015 downing, Russia, Russian_
+_Context: Hatay Province, Sukhoi Su-24, Turkey, Russian, 2015 downing, Ahmet Davutoglu, Russia, Turkish Prime Minister_
 
 ##### Pope Francis
 ### [Pope Francis arrives in the Central African Republic, the last stop of his six-day African tour, becoming the first modern pope to enter an active war zone as the country is in a state of civil war. ](/news/2015/11/29/pope-francis-arrives-in-the-central-african-republic-the-last-stop-of-his-six-day-african-tour-becoming-the-first-modern-pope-to-enter-an.md)
@@ -21,7 +21,7 @@ Francis tells people he is ‘pilgrim of peace’ and schedules trip to PK5, kno
 
 ##### November 2015 Paris attacks
 ### [Iran Supreme Leader Ayatollah Ali Khamenei calls the recent Paris attacks "blind terrorism," according to IRNA, the country's official news agency. The Iranian government condemned the attacks immediately after they occurred. ](/news/2015/11/29/iran-supreme-leader-ayatollah-ali-khamenei-calls-the-recent-paris-attacks-ablind-terrorism-a-according-to-irna-the-country-s-official-n.md)
-_Context: Islamic Republic News Agency, November 2015 Paris attacks, Supreme Leader, Ali Khamenei_
+_Context: November 2015 Paris attacks, Islamic Republic News Agency, Supreme Leader, Ali Khamenei_
 
 ##### European migrant crisis
 ### [Turkey agrees with leaders of the European Union to help stem the flow of migrants to Europe in return for cash and visas, and renewal of talks on joining the EU. A key element is 3 billion euros ($3.2 billion) in EU aid for the 2.2 million Syrians now in Turkey. ](/news/2015/11/29/turkey-agrees-with-leaders-of-the-european-union-to-help-stem-the-flow-of-migrants-to-europe-in-return-for-cash-and-visas-and-renewal-of-ta.md)

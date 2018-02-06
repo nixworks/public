@@ -9,11 +9,11 @@ _Context: Somalia, Mogadishu_
 
 ##### Voreqe Bainimarama
 ### [Frank Bainimarama, leader of the 2006 Fijian coup d'tat and current Prime Minister of Fiji, announces that he will retire in 2014. The report is denied by Fiji's Permanent Secretary for Information. ](/news/2010/02/10/frank-bainimarama-leader-of-the-2006-fijian-coup-d-etat-and-current-prime-minister-of-fiji-announces-that-he-will-retire-in-2014-the-repo.md)
-_Context: Prime Minister, coup in 2006, Voreqe Bainimarama_
+_Context: Voreqe Bainimarama, Prime Minister, coup in 2006_
 
 ##### Britain's Court of Appeal
 ### [The Court of Appeal of England and Wales rules that open air funeral pyres can be accommodated under the 1902 Cremation Act as amended. ](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.md)
-_Context: Britain's Court of Appeal, pyre, 1902 Cremation Act_
+_Context: 1902 Cremation Act, Britain's Court of Appeal, pyre_
 
 ##### magnitude
 ### [A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. ](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago-united-states-no-reports-of-major-damage.md)
@@ -25,7 +25,7 @@ _Context: 2010 Haiti earthquake, 2004 Indian Ocean earthquake, Haiti_
 
 ##### Goodluck Jonathan
 ### [Vice President Goodluck Jonathan is appointed acting President of Nigeria in place of Umaru Yar'Adua. ](/news/2010/02/10/vice-president-goodluck-jonathan-is-appointed-acting-president-of-nigeria-in-place-of-umaru-yar-adua.md)
-_Context: Goodluck Jonathan, Umaru Yar'Adua, President_
+_Context: Umaru Yar'Adua, President, Goodluck Jonathan_
 
 ##### Greece
 ### [Nationwide strikes led by Communist and Socialist parties take place in Greece to protest the government's handing of the country's debt. Most of the country was brought to a standstill as factories, schools, airports and hospitals closed down or reduced capacity ](/news/2010/02/10/nationwide-strikes-led-by-communist-and-socialist-parties-take-place-in-greece-to-protest-the-government-s-handing-of-the-country-s-debt-mo.md)

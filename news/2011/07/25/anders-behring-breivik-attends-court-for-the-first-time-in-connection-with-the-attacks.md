@@ -18,7 +18,7 @@ Norwegian police revised down the death toll from Friday&#039;s bomb and shootin
 
 ### Changes:
 
-1. [2011 Norway attacks: Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/2011-norway-attacks-anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md) _2017-08-27 03:34:00 (First version)_
+1. [2011 Norway attacks: Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/2011-norway-attacks-anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md) _2018-02-06 13:49:22 (First version)_
 1. [Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md) _(Current version)_
 
 ### Related:

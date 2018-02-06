@@ -11,7 +11,7 @@ MIDEAST-CRISIS/SYRIA-CLASHES:Islamic State attacks Syrian air base in east, doze
 ### [At least 30 people have been killed in the southeastern Turkish city of Cizre following clashes between Turkish security forces and pro-Kurdish Peoples' Democratic Party (HDP) supporters. Locals say Cizre has been "under siege" since the military imposed a curfew. ](/news/2015/09/10/at-least-30-people-have-been-killed-in-the-southeastern-turkish-city-of-cizre-following-clashes-between-turkish-security-forces-and-pro-kurd.md)
 Dozens of Kurdish militants die in army operations in the Turkish town of Cizre, officials say, as pro-Kurdish MPs say civilians are among the dead.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Air strikes target Houthi political leaders and military bases in Sana'a, Yemen. ](/news/2015/09/10/air-strikes-target-houthi-political-leaders-and-military-bases-in-sana-a-yemen.md)
 Residents say raids were fiercest in last five months, as homes of Houthi political leaders and military bases targeted.
 
@@ -37,7 +37,7 @@ The communist rebellion lives in the so-called Timber and Mining Corridor of the
 
 ##### Azerbaijan
 ### [Azerbaijan jails journalist Khadija Ismayilova after a trial that many believe is politically-motivated. ](/news/2015/09/10/azerbaijan-jails-journalist-khadija-ismayilova-after-a-trial-that-many-believe-is-politically-motivated.md)
-_Context: Khadija Ismayilova, Azerbaijan_
+_Context: Azerbaijan, Khadija Ismayilova_
 
 ##### Venezuela
 ### [Venezuelan opposition leader Leopoldo Lopez is convicted and sentenced to 14 years imprisonment for allegedly inciting violence at anti-government rallies. ](/news/2015/09/10/venezuelan-opposition-leader-leopoldo-la3pez-is-convicted-and-sentenced-to-14-years-imprisonment-for-allegedly-inciting-violence-at-anti-gov.md)
@@ -49,7 +49,7 @@ A federal jury awarded almost $17.5 million to five former female employees of a
 
 ##### Peter Robinson
 ### [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md)
-_Context: Democratic Unionist Party, Peter Robinson, Northern Ireland, First Minister_
+_Context: First Minister, Northern Ireland, Democratic Unionist Party, Peter Robinson_
 
 ##### eLife scientific journal
 ### ["Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. ](/news/2015/09/10/elife-publishes-a-discovery-by-scientists-at-the-university-of-the-witwatersrand-announcing-a-new-species-of-hominid-homo-naledi-in-th.md)

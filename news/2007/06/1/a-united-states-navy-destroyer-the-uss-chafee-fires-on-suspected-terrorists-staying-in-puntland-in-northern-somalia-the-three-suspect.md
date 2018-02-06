@@ -16,7 +16,7 @@ The destroyer USS Chafee fired her deck guns at two or three suspected &quot;hig
 
 ### Changes:
 
-1. [ A United States Navy destroyer, the USS ''Chafee'', fires on suspected terrorists staying in Puntland, in northern Somalia. The three suspects are accused in taking part in the 1998 bombings of the United States embassies in Kenya and Tanzania. ](/news/2007/06/1/a-united-states-navy-destroyer-the-uss-chafee-fires-on-suspected-terrorists-staying-in-puntland-in-northern-somalia-the-three-suspe.md) _2017-08-25 03:19:55 (First version)_
+1. [ A United States Navy destroyer, the USS ''Chafee'', fires on suspected terrorists staying in Puntland, in northern Somalia. The three suspects are accused in taking part in the 1998 bombings of the United States embassies in Kenya and Tanzania. ](/news/2007/06/1/a-united-states-navy-destroyer-the-uss-chafee-fires-on-suspected-terrorists-staying-in-puntland-in-northern-somalia-the-three-suspe.md) _2018-02-06 13:49:17 (First version)_
 1. [ A United States Navy destroyer, the USS "Chafee", fires on suspected terrorists staying in Puntland, in northern Somalia. The three suspects are accused in taking part in the 1998 bombings of the United States embassies in Kenya and Tanzania. ](/news/2007/06/1/a-united-states-navy-destroyer-the-uss-chafee-fires-on-suspected-terrorists-staying-in-puntland-in-northern-somalia-the-three-suspect.md) _(Current version)_
 
 ### Related:

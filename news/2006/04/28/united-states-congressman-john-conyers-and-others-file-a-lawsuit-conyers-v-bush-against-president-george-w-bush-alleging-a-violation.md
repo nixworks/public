@@ -15,7 +15,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ### Changes:
 
-1. [ United States Congressman John Conyers and others file a lawsuit (''Conyers v. Bush'') against President George W. Bush alleging a violation of the United States Constitution in the passing of the Deficit Reduction Act of 2005. ](/news/2006/04/28/united-states-congressman-john-conyers-and-others-file-a-lawsuit-conyers-v-bush-against-president-george-w-bush-alleging-a-violatio.md) _2017-08-25 03:17:35 (First version)_
+1. [ United States Congressman John Conyers and others file a lawsuit (''Conyers v. Bush'') against President George W. Bush alleging a violation of the United States Constitution in the passing of the Deficit Reduction Act of 2005. ](/news/2006/04/28/united-states-congressman-john-conyers-and-others-file-a-lawsuit-conyers-v-bush-against-president-george-w-bush-alleging-a-violatio.md) _2018-02-06 13:49:17 (First version)_
 1. [ United States Congressman John Conyers and others file a lawsuit ("Conyers v. Bush") against President George W. Bush alleging a violation of the United States Constitution in the passing of the Deficit Reduction Act of 2005. ](/news/2006/04/28/united-states-congressman-john-conyers-and-others-file-a-lawsuit-conyers-v-bush-against-president-george-w-bush-alleging-a-violation.md) _(Current version)_
 
 ### Related:

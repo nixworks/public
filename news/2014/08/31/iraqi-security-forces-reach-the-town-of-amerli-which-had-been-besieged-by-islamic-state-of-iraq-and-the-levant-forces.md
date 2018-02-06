@@ -16,7 +16,7 @@ Iraqi forces reach the besieged town of Amerli, where thousands of people have b
 
 ### Changes:
 
-1. [Iraqi insurgency: Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-insurgency-iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md) _2017-08-27 03:41:13 (First version)_
+1. [Iraqi insurgency: Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-insurgency-iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md) _(Current version)_
 
 ### Related:

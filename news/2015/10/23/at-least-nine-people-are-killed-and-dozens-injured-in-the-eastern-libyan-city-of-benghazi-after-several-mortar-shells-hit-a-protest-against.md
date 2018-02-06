@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-inju
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/libyan-civil-war-2014-present-at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-m.md) _2017-08-27 03:43:28 (First version)_
+1. [Libyan Civil War (2014-present): At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/libyan-civil-war-2014-present-at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-m.md) _2018-02-06 13:49:28 (First version)_
 1. [At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-mortar-shells-hit-a-protest-against.md) _(Current version)_
 
 ### Related:

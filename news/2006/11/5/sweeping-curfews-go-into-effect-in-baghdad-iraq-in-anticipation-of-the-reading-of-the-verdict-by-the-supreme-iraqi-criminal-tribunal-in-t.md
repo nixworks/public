@@ -21,8 +21,8 @@ US President George W Bush has welcomed the death penalty verdict in Saddam Huss
 
 ### Changes:
 
-1. [ Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-iraqi-criminal-tribunal-in.md) _2017-08-25 03:18:43 (First version)_
-2. [ Trial of Saddam Hussein: Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/trial-of-saddam-hussein-sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-ira.md) _2017-08-27 03:18:38 (Update)_
+1. [ Trial of Saddam Hussein: Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/trial-of-saddam-hussein-sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-ira.md) _2018-02-06 13:49:17 (First version)_
+2. [ Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-iraqi-criminal-tribunal-in.md) _2018-02-06 13:49:17 (Update)_
 2. [ Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-iraqi-criminal-tribunal-in-t.md) _(Current version)_
 
 ### Related:

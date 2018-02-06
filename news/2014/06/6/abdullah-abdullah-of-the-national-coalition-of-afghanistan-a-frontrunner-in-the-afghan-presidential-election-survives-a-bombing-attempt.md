@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/6/abdullah-abdullah-of-the-national-coalition-of-a
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001apresent-pabdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-el.md) _2017-08-25 03:40:30 (First version)_
-2. [War in Afghanistan (2001-present):: Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001-present-abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-e.md) _2017-08-27 03:40:48 (Update)_
+1. [War in Afghanistan (2001-present):Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001apresent-pabdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-el.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan (2001-present):: Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001-present-abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-e.md) _2018-02-06 13:49:26 (Update)_
 2. [Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-election-survives-a-bombing-attempt.md) _(Current version)_
 
 ### Related:

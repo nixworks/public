@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mec
 
 ### Changes:
 
-1. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses two murders and two attempts at murder ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-two-murders-and-two-attempts-at-murder-ahead-of-his-february-assiz.md) _2018-01-31 20:30:26 (First version)_
-2. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and to two attempts at murder ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-to-two-attempts-at-murder-ahead-of-his-february.md) _2018-01-31 21:30:23 (Update)_
+1. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses two murders and two attempts at murder ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-two-murders-and-two-attempts-at-murder-ahead-of-his-february-assiz.md) _2018-02-06 13:49:31 (First version)_
+2. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and to two attempts at murder ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-to-two-attempts-at-murder-ahead-of-his-february.md) _2018-02-06 13:49:31 (Update)_
 2. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md) _(Current version)_
 
 ### Related:

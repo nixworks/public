@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/22/new-hampshire-sets-january-8-2008-as-the-date-f
 
 ### Changes:
 
-1. [ United States presidential election, 2008: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-p-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md) _2017-08-25 03:21:27 (First version)_
-2. [ United States presidential election, 2008:: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md) _2017-08-27 03:21:23 (Update)_
+1. [ United States presidential election, 2008: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-p-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008:: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md) _2018-02-06 13:49:18 (Update)_
 2. [ New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tradition-of-being-the-first-state-to-vote.md) _(Current version)_
 
 ### Related:

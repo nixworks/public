@@ -16,8 +16,8 @@ Four police officers have been killed and five others were injured when a vehicl
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/insurgency-in-the-north-caucasus-pfour-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dagest.md) _2017-08-25 03:37:32 (First version)_
-2. [Insurgency in the North Caucasus:: Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/insurgency-in-the-north-caucasus-four-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dages.md) _2017-08-27 03:37:42 (Update)_
+1. [Insurgency in the North Caucasus:Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/insurgency-in-the-north-caucasus-pfour-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dagest.md) _2018-02-06 13:49:24 (First version)_
+2. [Insurgency in the North Caucasus:: Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/insurgency-in-the-north-caucasus-four-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dages.md) _2018-02-06 13:49:24 (Update)_
 2. [Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/four-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dagestan.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Kala Brown told a prosecutor that she and her boyfriend were responding to an ad
 
 ### Changes:
 
-1. [Todd Kohlhepp: A man identified as Todd Kohlhepp is arrested after authorities discover a missing woman chained up in a storage container on his property. The woman had gone missing along with her boyfriend around the end of August. ](/news/2016/11/3/todd-kohlhepp-a-man-identified-as-todd-kohlhepp-is-arrested-after-authorities-discover-a-missing-woman-chained-up-in-a-storage-container-on.md) _2017-08-27 03:47:10 (First version)_
+1. [Todd Kohlhepp: A man identified as Todd Kohlhepp is arrested after authorities discover a missing woman chained up in a storage container on his property. The woman had gone missing along with her boyfriend around the end of August. ](/news/2016/11/3/todd-kohlhepp-a-man-identified-as-todd-kohlhepp-is-arrested-after-authorities-discover-a-missing-woman-chained-up-in-a-storage-container-on.md) _2018-02-06 13:49:29 (First version)_
 1. [A man identified as Todd Kohlhepp is arrested after authorities discover a missing woman chained up in a storage container on his property. The woman had gone missing along with her boyfriend around the end of August. ](/news/2016/11/3/a-man-identified-as-todd-kohlhepp-is-arrested-after-authorities-discover-a-missing-woman-chained-up-in-a-storage-container-on-his-property.md) _(Current version)_
 
 ### Related:

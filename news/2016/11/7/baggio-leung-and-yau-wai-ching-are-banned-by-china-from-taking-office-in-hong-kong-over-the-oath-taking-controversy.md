@@ -16,7 +16,7 @@ The rare intervention by Beijing could spark more social unrest.
 
 ### Changes:
 
-1. [Youngspiration: Baggio Leung and Yau Wai-ching are banned by China from taking office in Hong Kong over the oath-taking controversy. ](/news/2016/11/7/youngspiration-baggio-leung-and-yau-wai-ching-are-banned-by-china-from-taking-office-in-hong-kong-over-the-oath-taking-controversy.md) _2017-08-27 03:47:11 (First version)_
+1. [Youngspiration: Baggio Leung and Yau Wai-ching are banned by China from taking office in Hong Kong over the oath-taking controversy. ](/news/2016/11/7/youngspiration-baggio-leung-and-yau-wai-ching-are-banned-by-china-from-taking-office-in-hong-kong-over-the-oath-taking-controversy.md) _2018-02-06 13:49:29 (First version)_
 1. [Baggio Leung and Yau Wai-ching are banned by China from taking office in Hong Kong over the oath-taking controversy. ](/news/2016/11/7/baggio-leung-and-yau-wai-ching-are-banned-by-china-from-taking-office-in-hong-kong-over-the-oath-taking-controversy.md) _(Current version)_
 
 ### Related:

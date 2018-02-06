@@ -17,7 +17,7 @@ _Context: bomb, Baghdad_
 
 ##### suicide
 ### [ An Israeli security officer shoots himself as French President Nicolas Sarkozy is about to board his plane after a 3-day trip to Israel and the West Bank. ](/news/2008/06/24/an-israeli-security-officer-shoots-himself-as-french-president-nicolas-sarkozy-is-about-to-board-his-plane-after-a-3-day-trip-to-israel-and.md)
-_Context: suicide, Nicolas Sarkozy, West Bank, Israel, French President_
+_Context: suicide, Israel, Nicolas Sarkozy, French President, West Bank_
 
 ##### Mexico City
 ### [ The authorities in Mexico City sack 17 police officers for their role in a stampede during a raid at a nightclub that caused the death of 12 people. ](/news/2008/06/24/the-authorities-in-mexico-city-sack-17-police-officers-for-their-role-in-a-stampede-during-a-raid-at-a-nightclub-that-caused-the-death-of-1.md)
@@ -25,11 +25,11 @@ _Context: Mexico City_
 
 ##### National Assembly
 ### [ The National Assembly of Niger votes to try former Prime Minister Hama Amadou on graft charges. ](/news/2008/06/24/the-national-assembly-of-niger-votes-to-try-former-prime-minister-hama-amadou-on-graft-charges.md)
-_Context: Hama Amadou, Prime Minister, corruption, National Assembly_
+_Context: corruption, Hama Amadou, National Assembly, Prime Minister_
 
 ##### the state
 ### [ The U.S. state of Florida purchases 187,000 acres from the US Sugar Corporation to add to protected lands in the Everglades. ](/news/2008/06/24/the-u-s-state-of-florida-purchases-187-000-acres-from-the-us-sugar-corporation-to-add-to-protected-lands-in-the-everglades.md)
-_Context: US Sugar Corporation, the state, Everglades_
+_Context: Everglades, the state, US Sugar Corporation_
 
 ##### Franz Josef Jung
 ### [ Franz Josef Jung, the German Minister of Defence, announces plans to commit a thousand extra troops to Afghanistan. ](/news/2008/06/24/franz-josef-jung-the-german-minister-of-defence-announces-plans-to-commit-a-thousand-extra-troops-to-afghanistan.md)
@@ -37,7 +37,7 @@ Defence Minister Franz Josef Jung said on Tuesday that Germany planned to increa
 
 ##### MV ''Princess of the Stars
 ### [ Divers see bodies in the wreck of the MV "Princess of the Stars" off the coast of the Philippines, but no sign of survivors. ](/news/2008/06/24/divers-see-bodies-in-the-wreck-of-the-mv-princess-of-the-stars-off-the-coast-of-the-philippines-but-no-sign-of-survivors.md)
-_Context: Philippines, MV ''Princess of the Stars_
+_Context: MV ''Princess of the Stars, Philippines_
 
 ##### current economic crisis
 ### [ Ireland's Economic and Social Research Institute (ESRI) says the country is in the grip of a recession for the first time in a quarter of a century. However, it predicts the economy will return to positive growth in 2009 and normal growth by 2010. ](/news/2008/06/24/ireland-s-economic-and-social-research-institute-esri-says-the-country-is-in-the-grip-of-a-recession-for-the-first-time-in-a-quarter-of-a.md)

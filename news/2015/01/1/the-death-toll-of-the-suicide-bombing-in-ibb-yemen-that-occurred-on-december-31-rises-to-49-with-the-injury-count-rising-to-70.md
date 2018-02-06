@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/1/the-death-toll-of-the-suicide-bombing-in-ibb-yem
 
 ### Changes:
 
-1. [Terrorism in Yemen: The death toll of the suicide bombing in Ibb, Yemen, that occurred on December 31 rises to 49 with the injury count rising to 70. ](/news/2015/01/1/terrorism-in-yemen-the-death-toll-of-the-suicide-bombing-in-ibb-yemen-that-occurred-on-december-31-rises-to-49-with-the-injury-count-risi.md) _2017-08-27 03:41:42 (First version)_
+1. [Terrorism in Yemen: The death toll of the suicide bombing in Ibb, Yemen, that occurred on December 31 rises to 49 with the injury count rising to 70. ](/news/2015/01/1/terrorism-in-yemen-the-death-toll-of-the-suicide-bombing-in-ibb-yemen-that-occurred-on-december-31-rises-to-49-with-the-injury-count-risi.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll of the suicide bombing in Ibb, Yemen, that occurred on December 31 rises to 49 with the injury count rising to 70. ](/news/2015/01/1/the-death-toll-of-the-suicide-bombing-in-ibb-yemen-that-occurred-on-december-31-rises-to-49-with-the-injury-count-rising-to-70.md) _(Current version)_
 
 ### Related:

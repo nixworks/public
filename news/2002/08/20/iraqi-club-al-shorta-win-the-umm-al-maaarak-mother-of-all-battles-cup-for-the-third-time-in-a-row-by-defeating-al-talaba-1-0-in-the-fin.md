@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-maaarak-mot
 
 ### Changes:
 
-1. [ Iraqi club Al-Shorta win the Umm Al Ma-arak (mother of all battles) Cup for the third time in a row by defeating Al-Talaba 1-0 in the final.](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-ma-arak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.md) _2017-08-27 03:15:14 (First version)_
+1. [ Iraqi club Al-Shorta win the Umm Al Ma-arak (mother of all battles) Cup for the third time in a row by defeating Al-Talaba 1-0 in the final.](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-ma-arak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.md) _2018-02-06 13:49:15 (First version)_
 1. [ Iraqi club Al-Shorta win the Umm Al Ma'arak (mother of all battles) Cup for the third time in a row by defeating Al-Talaba 1-0 in the final.](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-maaarak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.md) _(Current version)_
 
 ### Related:

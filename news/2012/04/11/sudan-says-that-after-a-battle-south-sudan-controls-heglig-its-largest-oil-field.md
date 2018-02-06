@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/04/11/sudan-says-that-after-a-battle-south-sudan-cont
 
 ### Changes:
 
-1. [2012 South Sudan-Sudan border conflict:Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudanasudan-border-conflict-psudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md) _2017-08-25 03:35:28 (First version)_
-2. [2012 South Sudan-Sudan border conflict:: Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudan-sudan-border-conflict-sudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md) _2017-08-27 03:35:37 (Update)_
+1. [2012 South Sudan-Sudan border conflict:Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudanasudan-border-conflict-psudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 South Sudan-Sudan border conflict:: Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudan-sudan-border-conflict-sudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md) _2018-02-06 13:49:23 (Update)_
 2. [Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/sudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md) _(Current version)_
 
 ### Related:

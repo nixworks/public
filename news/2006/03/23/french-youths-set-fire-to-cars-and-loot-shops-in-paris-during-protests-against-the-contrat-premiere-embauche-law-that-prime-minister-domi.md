@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ French youths set fire to cars and loot shops in Paris during protests against the ''contrat premire embauche'' law that Prime Minister Dominique de Villepin had agreed to discuss with unions. ](/news/2006/03/23/french-youths-set-fire-to-cars-and-loot-shops-in-paris-during-protests-against-the-contrat-premiere-embauche-law-that-prime-minister-do.md) _2017-08-25 03:17:32 (First version)_
+1. [ French youths set fire to cars and loot shops in Paris during protests against the ''contrat premire embauche'' law that Prime Minister Dominique de Villepin had agreed to discuss with unions. ](/news/2006/03/23/french-youths-set-fire-to-cars-and-loot-shops-in-paris-during-protests-against-the-contrat-premiere-embauche-law-that-prime-minister-do.md) _2018-02-06 13:49:17 (First version)_
 1. [ French youths set fire to cars and loot shops in Paris during protests against the "contrat premire embauche" law that Prime Minister Dominique de Villepin had agreed to discuss with unions. ](/news/2006/03/23/french-youths-set-fire-to-cars-and-loot-shops-in-paris-during-protests-against-the-contrat-premiere-embauche-law-that-prime-minister-domi.md) _(Current version)_
 
 ### Related:

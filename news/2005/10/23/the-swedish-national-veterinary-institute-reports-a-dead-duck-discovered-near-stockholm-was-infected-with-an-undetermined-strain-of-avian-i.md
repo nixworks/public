@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/10/23/the-swedish-national-veterinary-institute-repor
 
 ### Changes:
 
-1. [ Avian influenza: The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-p-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md) _2017-08-25 03:17:00 (First version)_
-2. [ Avian influenza:: The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md) _2017-08-27 03:16:59 (Update)_
+1. [ Avian influenza:: The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md) _2018-02-06 13:49:16 (First version)_
+2. [ Avian influenza: The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-p-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md) _2018-02-06 13:49:16 (Update)_
 2. [ The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined-strain-of-avian-i.md) _(Current version)_
 
 ### Related:

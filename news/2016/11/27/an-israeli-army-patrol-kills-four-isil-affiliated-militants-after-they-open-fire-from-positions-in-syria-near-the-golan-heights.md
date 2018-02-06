@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Spillover of the Syrian Civil War: An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/spillover-of-the-syrian-civil-war-an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria.md) _2017-08-27 03:47:19 (First version)_
+1. [Spillover of the Syrian Civil War: An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/spillover-of-the-syrian-civil-war-an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria.md) _2018-02-06 13:49:29 (First version)_
 1. [An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria-near-the-golan-heights.md) _(Current version)_
 
 ### Related:

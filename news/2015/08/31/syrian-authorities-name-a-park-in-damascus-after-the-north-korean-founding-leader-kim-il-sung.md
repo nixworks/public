@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/08/31/syrian-authorities-name-a-park-in-damascus-afte
 
 ### Changes:
 
-1. [Syria-North Korea relationsSyrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syriaanorth-korea-relationspsyrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _2017-08-25 03:42:39 (First version)_
-2. [Syria-North Korea relations: Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syria-north-korea-relations-syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _2017-08-27 03:42:56 (Update)_
+1. [Syria-North Korea relationsSyrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syriaanorth-korea-relationspsyrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _2018-02-06 13:49:27 (First version)_
+2. [Syria-North Korea relations: Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syria-north-korea-relations-syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _2018-02-06 13:49:27 (Update)_
 2. [Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md) _(Current version)_
 
 ### Related:

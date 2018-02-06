@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/07/23/cambodia-and-laos-cause-discord-at-the-associat
 
 ### Changes:
 
-1. [''Philippines v. China''Cambodia and Laos cause discord at the Association of Southeast Asian Nations meeting after they block a joint statement by the group regarding the South China Sea. ](/news/2016/07/23/philippines-v-china-pcambodia-and-laos-cause-discord-at-the-association-of-southeast-asian-nations-meeting-after-they-block-a-joint-stat.md) _2017-08-25 03:46:09 (First version)_
-2. ["Philippines v. China": Cambodia and Laos cause discord at the Association of Southeast Asian Nations meeting after they block a joint statement by the group regarding the South China Sea. ](/news/2016/07/23/philippines-v-china-cambodia-and-laos-cause-discord-at-the-association-of-southeast-asian-nations-meeting-after-they-block-a-joint-state.md) _2017-08-27 03:46:32 (Update)_
+1. [''Philippines v. China''Cambodia and Laos cause discord at the Association of Southeast Asian Nations meeting after they block a joint statement by the group regarding the South China Sea. ](/news/2016/07/23/philippines-v-china-pcambodia-and-laos-cause-discord-at-the-association-of-southeast-asian-nations-meeting-after-they-block-a-joint-stat.md) _2018-02-06 13:49:29 (First version)_
+2. ["Philippines v. China": Cambodia and Laos cause discord at the Association of Southeast Asian Nations meeting after they block a joint statement by the group regarding the South China Sea. ](/news/2016/07/23/philippines-v-china-cambodia-and-laos-cause-discord-at-the-association-of-southeast-asian-nations-meeting-after-they-block-a-joint-state.md) _2018-02-06 13:49:29 (Update)_
 2. [Cambodia and Laos cause discord at the Association of Southeast Asian Nations meeting after they block a joint statement by the group regarding the South China Sea. ](/news/2016/07/23/cambodia-and-laos-cause-discord-at-the-association-of-southeast-asian-nations-meeting-after-they-block-a-joint-statement-by-the-group-regard.md) _(Current version)_
 
 ### Related:

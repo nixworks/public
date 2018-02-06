@@ -18,7 +18,7 @@ The diplomatic initiative amounted to a pivot for the Obama administration, whic
 
 ### Changes:
 
-1. [Syrian Civil War: Russia moves its first tactical fighter jets to Syria, according to American sources. ](/news/2015/09/18/syrian-civil-war-russia-moves-its-first-tactical-fighter-jets-to-syria-according-to-american-sources.md) _2017-08-27 03:43:05 (First version)_
+1. [Syrian Civil War: Russia moves its first tactical fighter jets to Syria, according to American sources. ](/news/2015/09/18/syrian-civil-war-russia-moves-its-first-tactical-fighter-jets-to-syria-according-to-american-sources.md) _2018-02-06 13:49:27 (First version)_
 1. [Russia moves its first tactical fighter jets to Syria, according to American sources. ](/news/2015/09/18/russia-moves-its-first-tactical-fighter-jets-to-syria-according-to-american-sources.md) _(Current version)_
 
 ### Related:

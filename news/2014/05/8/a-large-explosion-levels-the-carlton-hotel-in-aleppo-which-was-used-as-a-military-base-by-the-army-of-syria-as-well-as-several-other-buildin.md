@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/8/a-large-explosion-levels-the-carlton-hotel-in-al
 
 ### Changes:
 
-1. [Syrian Civil War: A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/syrian-civil-war-a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-sev.md) _2017-08-27 03:40:41 (First version)_
+1. [Syrian Civil War: A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/syrian-civil-war-a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-sev.md) _2018-02-06 13:49:26 (First version)_
 1. [A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-several-other-buildin.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/06/28/at-least-5-people-have-been-killed-in-an-explos
 
 ### Changes:
 
-1. [At least 5 people have been killed in an explosion at the world's largest ship breaking yard at Alang in Indian state of Gujarat.](/news/2014/06/28/at-least-5-people-have-been-killed-in-an-explosion-at-the-world-s-largest-ship-breaking-yard-at-alang-in-indian-state-of-gujarat.md) _2017-08-25 03:40:36 (First version)_
+1. [At least 5 people have been killed in an explosion at the world's largest ship breaking yard at Alang in Indian state of Gujarat.](/news/2014/06/28/at-least-5-people-have-been-killed-in-an-explosion-at-the-world-s-largest-ship-breaking-yard-at-alang-in-indian-state-of-gujarat.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 5 people have been killed in an explosion at the world's largest ship breaking yard at Alang in Indian state of Gujarat.[http:--news.biharprabha.com-2014-06-5-killed-in-alang-port-shipbreaking-yard-blast-in-gujarat- (IANS via Biharprabha) ]](/news/2014/06/28/at-least-5-people-have-been-killed-in-an-explosion-at-the-world-s-largest-ship-breaking-yard-at-alang-in-indian-state-of-gujarat-http-new.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ MAIDUGURI, Nigeria - Suspected Islamist insurgents who hid weapons inside a coff
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/nigerian-sharia-conflict-psuspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _2017-08-25 03:38:48 (First version)_
-2. [Nigerian Sharia conflict:: Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/nigerian-sharia-conflict-suspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _2017-08-27 03:39:02 (Update)_
+1. [Nigerian Sharia conflict:: Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/nigerian-sharia-conflict-suspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/nigerian-sharia-conflict-psuspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _2018-02-06 13:49:25 (Update)_
 2. [Suspected Islamist insurgents kill 13 people in Maiduguri, Nigeria after hiding their weapons in a coffin. ](/news/2013/06/9/suspected-islamist-insurgents-kill-13-people-in-maiduguri-nigeria-after-hiding-their-weapons-in-a-coffin.md) _(Current version)_
 
 ### Related:

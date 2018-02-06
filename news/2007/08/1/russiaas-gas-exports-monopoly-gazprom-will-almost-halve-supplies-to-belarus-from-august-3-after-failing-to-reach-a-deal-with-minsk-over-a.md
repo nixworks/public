@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/1/russiaas-gas-exports-monopoly-gazprom-will-almos
 
 ### Changes:
 
-1. [ Russia-s gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russia-s-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md) _2017-08-27 03:20:21 (First version)_
+1. [ Russia-s gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russia-s-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md) _2018-02-06 13:49:17 (First version)_
 1. [ Russia's gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russiaas-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md) _(Current version)_
 
 ### Related:

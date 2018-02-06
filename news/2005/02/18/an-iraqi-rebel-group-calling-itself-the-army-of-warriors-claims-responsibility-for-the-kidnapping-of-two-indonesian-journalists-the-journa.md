@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/02/18/an-iraqi-rebel-group-calling-itself-the-army-of
 
 ### Changes:
 
-1. [ An Iraqi rebel group calling itself the Army of Warriors claims responsibility for the kidnapping of two Indonesian journalists. The journalists had been last seen near Ramadi in central Iraq three days ago. ](/news/2005/02/18/an-iraqi-rebel-group-calling-itself-the-army-of-warriors-claims-responsibility-for-the-kidnapping-of-two-indonesian-journalists-the-journ.md) _2017-08-25 03:15:40 (First version)_
+1. [ An Iraqi rebel group calling itself the Army of Warriors claims responsibility for the kidnapping of two Indonesian journalists. The journalists had been last seen near Ramadi in central Iraq three days ago. ](/news/2005/02/18/an-iraqi-rebel-group-calling-itself-the-army-of-warriors-claims-responsibility-for-the-kidnapping-of-two-indonesian-journalists-the-journ.md) _2018-02-06 13:49:16 (First version)_
 1. [ An Iraqi rebel group calling itself the Army of Warriors claims responsibility for the kidnapping of two Indonesian journalists. The journalists had been last seen near Ramadi in central Iraq three days ago. ](/news/2005/02/18/an-iraqi-rebel-group-calling-itself-the-army-of-warriors-claims-responsibility-for-the-kidnapping-of-two-indonesian-journalists-the-journa.md) _(Current version)_
 
 ### Related:

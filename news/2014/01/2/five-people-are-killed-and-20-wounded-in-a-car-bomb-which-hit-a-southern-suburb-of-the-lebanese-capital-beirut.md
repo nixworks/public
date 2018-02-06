@@ -16,8 +16,8 @@ A car bomb explodes in a southern suburb of the Lebanese capital Beirut, killing
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon:Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-pfive-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capit.md) _2017-08-25 03:39:48 (First version)_
-2. [Syrian Civil War spillover in Lebanon:: Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-five-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capi.md) _2017-08-27 03:40:07 (Update)_
+1. [Syrian Civil War spillover in Lebanon:Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-pfive-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capit.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-five-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capi.md) _2018-02-06 13:49:25 (Update)_
 2. [Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/five-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capital-beirut.md) _(Current version)_
 
 ### Related:

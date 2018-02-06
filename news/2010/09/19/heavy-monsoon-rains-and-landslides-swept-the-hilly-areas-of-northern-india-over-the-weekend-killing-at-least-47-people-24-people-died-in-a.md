@@ -17,7 +17,7 @@ At Least 47 People Killed as Villages Devastated by Falling Boulders, Residents 
 
 ### Changes:
 
-1. [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in.md) _2017-08-25 03:30:07 (First version)_
+1. [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in.md) _2018-02-06 13:49:20 (First version)_
 1. [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in-a.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-poli
 
 ### Changes:
 
-1. [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a manned mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-manned-mission-to-the-moon-while-als.md) _2017-12-12 07:30:07 (First version)_
+1. [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a manned mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-manned-mission-to-the-moon-while-als.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md) _(Current version)_
 
 ### Related:

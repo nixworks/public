@@ -16,7 +16,7 @@ The Philippine government will present the human rights situation before the Uni
 
 ### Changes:
 
-1. [Philippine Drug War: The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/philippine-drug-war-the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _2017-08-27 03:48:18 (First version)_
+1. [Philippine Drug War: The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/philippine-drug-war-the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _2018-02-06 13:49:30 (First version)_
 1. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _(Current version)_
 
 ### Related:

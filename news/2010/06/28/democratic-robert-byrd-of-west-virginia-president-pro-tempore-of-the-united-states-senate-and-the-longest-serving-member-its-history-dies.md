@@ -18,7 +18,7 @@ A look at the life and career of US Senator Robert Byrd, who has died aged 92.
 
 ### Changes:
 
-1. [Death of oldest, longest serving Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/death-of-oldest-longest-serving-democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-united-states-senate-and-the-longest.md) _2017-08-25 03:28:28 (First version)_
+1. [Death of oldest, longest serving Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/death-of-oldest-longest-serving-democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-united-states-senate-and-the-longest.md) _2018-02-06 13:49:20 (First version)_
 1. [Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-united-states-senate-and-the-longest-serving-member-its-history-dies.md) _(Current version)_
 
 ### Related:

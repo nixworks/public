@@ -15,8 +15,8 @@ At least four people were killed in the shooting at Fort Hood, a toll that inclu
 
 ### Changes:
 
-1. [2014 Fort Hood shooting:A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/2014-fort-hood-shooting-pa-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four.md) _2017-08-25 03:40:14 (First version)_
-2. [2014 Fort Hood shooting:: A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/2014-fort-hood-shooting-a-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four.md) _2017-08-27 03:40:32 (Update)_
+1. [2014 Fort Hood shooting:A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/2014-fort-hood-shooting-pa-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Fort Hood shooting:: A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/2014-fort-hood-shooting-a-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four.md) _2018-02-06 13:49:26 (Update)_
 2. [A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/a-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four-deaths-including-the-gun.md) _(Current version)_
 
 ### Related:

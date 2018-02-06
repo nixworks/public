@@ -17,7 +17,7 @@ A suspected tornado slammed into a trailer park in Sugar Hill RV park near Conve
 
 ### Changes:
 
-1. [Tornadoes of 2016: At least two people are dead and 30 injured after a suspected tornado hits a trailer park near the village of Convent, Louisiana. At least one other person has died in the Deep South of the United States. ](/news/2016/02/23/tornadoes-of-2016-at-least-two-people-are-dead-and-30-injured-after-a-suspected-tornado-hits-a-trailer-park-near-the-village-of-convent-lo.md) _2017-08-27 03:45:00 (First version)_
+1. [Tornadoes of 2016: At least two people are dead and 30 injured after a suspected tornado hits a trailer park near the village of Convent, Louisiana. At least one other person has died in the Deep South of the United States. ](/news/2016/02/23/tornadoes-of-2016-at-least-two-people-are-dead-and-30-injured-after-a-suspected-tornado-hits-a-trailer-park-near-the-village-of-convent-lo.md) _2018-02-06 13:49:28 (First version)_
 1. [At least two people are dead and 30 injured after a suspected tornado hits a trailer park near the village of Convent, Louisiana. At least one other person has died in the Deep South of the United States. ](/news/2016/02/23/at-least-two-people-are-dead-and-30-injured-after-a-suspected-tornado-hits-a-trailer-park-near-the-village-of-convent-louisiana-at-least-o.md) _(Current version)_
 
 ### Related:

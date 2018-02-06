@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/13/in-tripoli-the-moroccan-embassy-is-damaged-by-a
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/libyan-civil-war-2014-present-in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south.md) _2017-08-27 03:42:11 (First version)_
+1. [Libyan Civil War (2014-present): In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/libyan-civil-war-2014-present-in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south.md) _2018-02-06 13:49:27 (First version)_
 1. [In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south-korean-mission-isil-loyalists-tak.md) _(Current version)_
 
 ### Related:

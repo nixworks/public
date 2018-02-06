@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outsi
 
 ### Changes:
 
-1. [Turkish police fire tear gas at protesters outside the Istanbul headquarters of the ''Zaman'' newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-been-taken-over-by-the-tur.md) _2017-08-25 03:44:47 (First version)_
-2. [Media freedom in Turkey: Turkish police fire tear gas at protesters outside the Istanbul headquarters of the "Zaman" newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/media-freedom-in-turkey-turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-bee.md) _2017-08-27 03:45:08 (Update)_
+1. [Turkish police fire tear gas at protesters outside the Istanbul headquarters of the ''Zaman'' newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-been-taken-over-by-the-tur.md) _2018-02-06 13:49:28 (First version)_
+2. [Media freedom in Turkey: Turkish police fire tear gas at protesters outside the Istanbul headquarters of the "Zaman" newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/media-freedom-in-turkey-turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-bee.md) _2018-02-06 13:49:28 (Update)_
 2. [Turkish police fire tear gas at protesters outside the Istanbul headquarters of the "Zaman" newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-been-taken-over-by-the-turki.md) _(Current version)_
 
 ### Related:

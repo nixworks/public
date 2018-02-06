@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/25/nine-people-are-killed-in-clashes-between-the-l
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:Nine people are killed in clashes between the Libyan Army and militias in the city of Benghazi. ](/news/2013/11/25/post-civil-war-violence-in-libya-pnine-people-are-killed-in-clashes-between-the-libyan-army-and-militias-in-the-city-of-benghazi.md) _2017-08-25 03:39:35 (First version)_
-2. [Post-civil war violence in Libya:: Nine people are killed in clashes between the Libyan Army and militias in the city of Benghazi. ](/news/2013/11/25/post-civil-war-violence-in-libya-nine-people-are-killed-in-clashes-between-the-libyan-army-and-militias-in-the-city-of-benghazi.md) _2017-08-27 03:39:53 (Update)_
+1. [Post-civil war violence in Libya:Nine people are killed in clashes between the Libyan Army and militias in the city of Benghazi. ](/news/2013/11/25/post-civil-war-violence-in-libya-pnine-people-are-killed-in-clashes-between-the-libyan-army-and-militias-in-the-city-of-benghazi.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:: Nine people are killed in clashes between the Libyan Army and militias in the city of Benghazi. ](/news/2013/11/25/post-civil-war-violence-in-libya-nine-people-are-killed-in-clashes-between-the-libyan-army-and-militias-in-the-city-of-benghazi.md) _2018-02-06 13:49:25 (Update)_
 2. [Nine people are killed in clashes between the Libyan Army and militias in the city of Benghazi. ](/news/2013/11/25/nine-people-are-killed-in-clashes-between-the-libyan-army-and-militias-in-the-city-of-benghazi.md) _(Current version)_
 
 ### Related:

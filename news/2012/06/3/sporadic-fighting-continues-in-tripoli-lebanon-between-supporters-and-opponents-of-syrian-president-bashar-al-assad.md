@@ -16,8 +16,8 @@ Sporadic gunfire punctuates a cautious calm in the north Lebanon city of Tripoli
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/syrian-uprising-2011apresent-psporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bash.md) _2017-08-25 03:35:48 (First version)_
-2. [Syrian uprising (2011-present):: Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/syrian-uprising-2011-present-sporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bas.md) _2017-08-27 03:35:59 (Update)_
+1. [Syrian uprising (2011-present):Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/syrian-uprising-2011apresent-psporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bash.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/syrian-uprising-2011-present-sporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bas.md) _2018-02-06 13:49:23 (Update)_
 2. [Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/sporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md) _(Current version)_
 
 ### Related:

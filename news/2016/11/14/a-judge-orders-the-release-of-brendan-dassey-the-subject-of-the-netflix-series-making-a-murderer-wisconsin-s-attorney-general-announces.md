@@ -16,7 +16,7 @@ A federal judge has ordered the release of Brendan Dassey.
 
 ### Changes:
 
-1. [ A judge orders the release of Brendan Dassey, the subject of the Netflix series ''Making a Murderer''. Wisconsin's Attorney General announces he intends to file an emergency appeal. ](/news/2016/11/14/a-judge-orders-the-release-of-brendan-dassey-the-subject-of-the-netflix-series-making-a-murderer-wisconsin-s-attorney-general-announc.md) _2017-08-25 03:46:49 (First version)_
+1. [ A judge orders the release of Brendan Dassey, the subject of the Netflix series ''Making a Murderer''. Wisconsin's Attorney General announces he intends to file an emergency appeal. ](/news/2016/11/14/a-judge-orders-the-release-of-brendan-dassey-the-subject-of-the-netflix-series-making-a-murderer-wisconsin-s-attorney-general-announc.md) _2018-02-06 13:49:29 (First version)_
 1. [ A judge orders the release of Brendan Dassey, the subject of the Netflix series "Making a Murderer". Wisconsin's Attorney General announces he intends to file an emergency appeal. ](/news/2016/11/14/a-judge-orders-the-release-of-brendan-dassey-the-subject-of-the-netflix-series-making-a-murderer-wisconsin-s-attorney-general-announces.md) _(Current version)_
 
 ### Related:

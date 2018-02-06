@@ -13,7 +13,7 @@ _Context: NASA, water on Mars_
 
 ##### Massachusetts governor
 ### [ The Governor of Massachusetts Deval Patrick signs legislation allowing gay and lesbian couples from other states to get married in Massachusetts. ](/news/2008/07/31/the-governor-of-massachusetts-deval-patrick-signs-legislation-allowing-gay-and-lesbian-couples-from-other-states-to-get-married-in-massachu.md)
-_Context: homosexual, Massachusetts, Massachusetts governor, to get married, Deval Patrick_
+_Context: to get married, Massachusetts governor, homosexual, Deval Patrick, Massachusetts_
 
 ##### Radovan Karadzic
 ### [ Radovan Karadzic, former Bosnian Serb leader, announces that he will defend himself at his trial for war crimes at the International Criminal Tribunal for the former Yugoslavia. ](/news/2008/07/31/radovan-karada3-4ia-former-bosnian-serb-leader-announces-that-he-will-defend-himself-at-his-trial-for-war-crimes-at-the-international-crim.md)
@@ -21,11 +21,11 @@ _Context: Radovan Karadzic, war crimes, International Criminal Tribunal for the 
 
 ##### Anwar Ibrahim
 ### [ Anwar Ibrahim, former Deputy Prime Minister of Malaysia, will contest a by-election to return to parliament after his wife Wan Azizah Wan Ismail vacated her Permatang Pauh seat in Penang. ](/news/2008/07/31/anwar-ibrahim-former-deputy-prime-minister-of-malaysia-will-contest-a-by-election-to-return-to-parliament-after-his-wife-wan-azizah-wan-i.md)
-_Context: by-election in Permatang Pauh, Permatang Pauh, Parliament of Malaysia, Wan Azizah Wan Ismail, Anwar Ibrahim, Deputy Prime Minister, Penang_
+_Context: Permatang Pauh, Wan Azizah Wan Ismail, Parliament of Malaysia, Anwar Ibrahim, Penang, Deputy Prime Minister, by-election in Permatang Pauh_
 
 ##### Thailand
 ### [ A Thai court sentences Pojaman Shinawatra, the wife of former Prime Minister of Thailand Thaksin Shinawatra, to jail for three years for tax evasion. ](/news/2008/07/31/a-thai-court-sentences-pojaman-shinawatra-the-wife-of-former-prime-minister-of-thailand-thaksin-shinawatra-to-jail-for-three-years-for-ta.md)
-_Context: Thaksin Shinawatra, Pojaman Shinawatra, tax fraud, Thailand, Prime Minister_
+_Context: Thailand, Pojaman Shinawatra, Thaksin Shinawatra, tax fraud, Prime Minister_
 
 ## [Previous Day...](/news/2008/07/30/index.md)
 

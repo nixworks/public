@@ -17,7 +17,7 @@ Saleh, who led Yemen for over three decades before resigning several years ago, 
 
 ### Changes:
 
-1. [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md) _2017-12-05 00:30:06 (First version)_
+1. [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md) _2018-02-06 13:49:31 (First version)_
 1. [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md) _(Current version)_
 
 ### Related:

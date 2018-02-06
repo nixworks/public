@@ -17,7 +17,7 @@ Formats: [HTML](/news/2008/05/14/the-prime-minister-of-israel-ehud-olmert-warns-
 
 ### Changes:
 
-1. [ Israel: The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/israel-the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md) _2017-08-27 03:22:04 (First version)_
+1. [ Israel: The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/israel-the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md) _(Current version)_
 
 ### Related:

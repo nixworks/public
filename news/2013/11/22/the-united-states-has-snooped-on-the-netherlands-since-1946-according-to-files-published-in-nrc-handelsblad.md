@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/11/22/the-united-states-has-snooped-on-the-netherland
 
 ### Changes:
 
-1. [2013 global surveillance disclosures:The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/2013-global-surveillance-disclosures-pthe-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-hande.md) _2017-08-25 03:39:34 (First version)_
-2. [2013 global surveillance disclosures:: The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/2013-global-surveillance-disclosures-the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-hand.md) _2017-08-27 03:39:52 (Update)_
+1. [2013 global surveillance disclosures:: The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/2013-global-surveillance-disclosures-the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-hand.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 global surveillance disclosures:The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/2013-global-surveillance-disclosures-pthe-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-hande.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-handelsblad.md) _(Current version)_
 
 ### Related:

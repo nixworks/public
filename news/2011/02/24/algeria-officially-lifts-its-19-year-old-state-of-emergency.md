@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/02/24/algeria-officially-lifts-its-19-year-old-state-
 
 ### Changes:
 
-1. [2010-2011 Algerian protests:Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/2010-2011-algerian-protests-palgeria-officially-lifts-its-19-year-old-state-of-emergency.md) _2017-08-25 03:32:19 (First version)_
-2. [2010-2011 Algerian protests:: Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/2010-2011-algerian-protests-algeria-officially-lifts-its-19-year-old-state-of-emergency.md) _2017-08-27 03:32:27 (Update)_
+1. [2010-2011 Algerian protests:Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/2010-2011-algerian-protests-palgeria-officially-lifts-its-19-year-old-state-of-emergency.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Algerian protests:: Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/2010-2011-algerian-protests-algeria-officially-lifts-its-19-year-old-state-of-emergency.md) _2018-02-06 13:49:22 (Update)_
 2. [Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/algeria-officially-lifts-its-19-year-old-state-of-emergency.md) _(Current version)_
 
 ### Related:

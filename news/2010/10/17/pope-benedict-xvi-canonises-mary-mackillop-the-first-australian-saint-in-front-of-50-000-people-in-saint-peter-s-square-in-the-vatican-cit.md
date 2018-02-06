@@ -20,8 +20,8 @@ Formats: [HTML](/news/2010/10/17/pope-benedict-xvi-canonises-mary-mackillop-the-
 
 ### Changes:
 
-1. [Canonization:Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/canonization-ppope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-t.md) _2017-08-25 03:30:34 (First version)_
-2. [Canonization:: Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/canonization-pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in.md) _2017-08-27 03:30:39 (Update)_
+1. [Canonization:Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/canonization-ppope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-t.md) _2018-02-06 13:49:20 (First version)_
+2. [Canonization:: Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/canonization-pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in.md) _2018-02-06 13:49:20 (Update)_
 2. [Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-the-vatican-cit.md) _(Current version)_
 
 ### Related:

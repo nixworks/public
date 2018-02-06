@@ -21,7 +21,7 @@ President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/2016-atlantic-hurricane-season-hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from.md) _2017-08-27 03:46:59 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/2016-atlantic-hurricane-season-hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md) _(Current version)_
 
 ### Related:

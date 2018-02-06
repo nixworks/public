@@ -16,7 +16,7 @@ President Benigno Aquino III says group that beheaded Canadian man also plotted 
 
 ### Changes:
 
-1. [Moro conflict: Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/moro-conflict-philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and.md) _2017-08-27 03:45:52 (First version)_
+1. [Moro conflict: Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/moro-conflict-philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and.md) _2018-02-06 13:49:28 (First version)_
 1. [Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and-boxer-manny-pac.md) _(Current version)_
 
 ### Related:

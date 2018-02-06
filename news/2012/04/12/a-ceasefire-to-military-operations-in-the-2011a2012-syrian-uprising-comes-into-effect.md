@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011a
 
 ### Changes:
 
-1. [A ceasefire to military operations in the 2011-2012 Syrian uprising comes into effect. ](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011-2012-syrian-uprising-comes-into-effect.md) _2017-08-27 03:35:37 (First version)_
+1. [A ceasefire to military operations in the 2011-2012 Syrian uprising comes into effect. ](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011-2012-syrian-uprising-comes-into-effect.md) _2018-02-06 13:49:23 (First version)_
 1. [A ceasefire to military operations in the 2011-2012 Syrian uprising comes into effect. ](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011a2012-syrian-uprising-comes-into-effect.md) _(Current version)_
 
 ### Related:

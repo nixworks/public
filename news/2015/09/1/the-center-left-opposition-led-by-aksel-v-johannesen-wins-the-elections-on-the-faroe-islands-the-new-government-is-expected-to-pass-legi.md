@@ -16,7 +16,7 @@ The Faroe Islands could become the final Nordic territory to recognize same-sex 
 
 ### Changes:
 
-1. [Faroese general election, 2015: The center-left opposition, led by Aksel V. Johannesen, wins the elections on the Faroe Islands; the new government is expected to pass legislation allowing same-sex unions. ](/news/2015/09/1/faroese-general-election-2015-the-center-left-opposition-led-by-aksel-v-johannesen-wins-the-elections-on-the-faroe-islands-the-new-gov.md) _2017-08-27 03:42:56 (First version)_
+1. [Faroese general election, 2015: The center-left opposition, led by Aksel V. Johannesen, wins the elections on the Faroe Islands; the new government is expected to pass legislation allowing same-sex unions. ](/news/2015/09/1/faroese-general-election-2015-the-center-left-opposition-led-by-aksel-v-johannesen-wins-the-elections-on-the-faroe-islands-the-new-gov.md) _2018-02-06 13:49:27 (First version)_
 1. [The center-left opposition, led by Aksel V. Johannesen, wins the elections on the Faroe Islands; the new government is expected to pass legislation allowing same-sex unions. ](/news/2015/09/1/the-center-left-opposition-led-by-aksel-v-johannesen-wins-the-elections-on-the-faroe-islands-the-new-government-is-expected-to-pass-legi.md) _(Current version)_
 
 ### Related:

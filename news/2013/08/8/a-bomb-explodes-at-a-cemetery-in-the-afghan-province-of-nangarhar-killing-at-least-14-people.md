@@ -16,8 +16,8 @@ A bomb kills 12 women and two children in eastern Afghanistan as they visit a gr
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/war-in-afghanistan-2001apresent-pa-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md) _2017-08-25 03:39:07 (First version)_
-2. [War in Afghanistan (2001-present):: A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md) _2017-08-27 03:39:23 (Update)_
+1. [War in Afghanistan (2001-present):A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/war-in-afghanistan-2001apresent-pa-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/14/al-shabab-gunmen-enter-the-higher-education-min
 
 ### Changes:
 
-1. [War in Somalia: al-Shabab gunmen enter the Higher Education Ministry building in Mogadishu after a large explosion is reported. ](/news/2015/04/14/war-in-somalia-al-shabab-gunmen-enter-the-higher-education-ministry-building-in-mogadishu-after-a-large-explosion-is-reported.md) _2017-08-27 03:42:12 (First version)_
+1. [War in Somalia: al-Shabab gunmen enter the Higher Education Ministry building in Mogadishu after a large explosion is reported. ](/news/2015/04/14/war-in-somalia-al-shabab-gunmen-enter-the-higher-education-ministry-building-in-mogadishu-after-a-large-explosion-is-reported.md) _2018-02-06 13:49:27 (First version)_
 1. [al-Shabab gunmen enter the Higher Education Ministry building in Mogadishu after a large explosion is reported. ](/news/2015/04/14/al-shabab-gunmen-enter-the-higher-education-ministry-building-in-mogadishu-after-a-large-explosion-is-reported.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ One member of Afghanistan&#x27;s NATO force and two insurgents were killed in an
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/war-in-afghanistan-2015-present-an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight.md) _2017-08-27 03:42:48 (First version)_
+1. [War in Afghanistan (2015-present): An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/war-in-afghanistan-2015-present-an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight.md) _2018-02-06 13:49:27 (First version)_
 1. [An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight-support-staff-and-two-taliban-insurge.md) _(Current version)_
 
 ### Related:

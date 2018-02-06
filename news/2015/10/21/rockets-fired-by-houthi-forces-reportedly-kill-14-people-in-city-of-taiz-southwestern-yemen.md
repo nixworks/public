@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/yemeni-civil-war-2015-rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md) _2017-08-27 03:43:26 (First version)_
+1. [Yemeni Civil War (2015): Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/yemeni-civil-war-2015-rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md) _2018-02-06 13:49:28 (First version)_
 1. [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md) _(Current version)_
 
 ### Related:

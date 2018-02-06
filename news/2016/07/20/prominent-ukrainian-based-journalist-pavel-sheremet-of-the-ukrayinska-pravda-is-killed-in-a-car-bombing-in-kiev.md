@@ -16,7 +16,7 @@ Reporter for Ukrainian Pravda and critic of leaders in Ukraine, Belarus and Russ
 
 ### Changes:
 
-1. [Ukrainian crisis: Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. ](/news/2016/07/20/ukrainian-crisis-prominent-ukrainian-based-journalist-pavel-sheremet-of-the-ukrayinska-pravda-is-killed-in-a-car-bombing-in-kiev.md) _2017-08-27 03:46:31 (First version)_
+1. [Ukrainian crisis: Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. ](/news/2016/07/20/ukrainian-crisis-prominent-ukrainian-based-journalist-pavel-sheremet-of-the-ukrayinska-pravda-is-killed-in-a-car-bombing-in-kiev.md) _2018-02-06 13:49:29 (First version)_
 1. [Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. ](/news/2016/07/20/prominent-ukrainian-based-journalist-pavel-sheremet-of-the-ukrayinska-pravda-is-killed-in-a-car-bombing-in-kiev.md) _(Current version)_
 
 ### Related:

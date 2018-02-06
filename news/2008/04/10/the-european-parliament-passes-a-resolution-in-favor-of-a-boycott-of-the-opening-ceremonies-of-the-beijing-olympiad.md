@@ -18,8 +18,8 @@ The Olympic torch arrives in Argentina with organisers desperate to avoid repeat
 
 ### Changes:
 
-1. [ 2008 Summer Olympics: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-p-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _2017-08-25 03:22:02 (First version)_
-2. [ 2008 Summer Olympics:: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _2017-08-27 03:21:56 (Update)_
+1. [ 2008 Summer Olympics:: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Summer Olympics: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-p-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _2018-02-06 13:49:18 (Update)_
 2. [ The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md) _(Current version)_
 
 ### Related:

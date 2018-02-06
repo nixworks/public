@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/06/19/zimbabwe-police-arrest-an-opposition-movement-f
 
 ### Changes:
 
-1. [ Zimbabwean presidential election, 2008: Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwean-presidential-election-2008-p-zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others.md) _2017-08-25 03:22:25 (First version)_
-2. [ Zimbabwean presidential election, 2008:: Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwean-presidential-election-2008-zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others.md) _2017-08-27 03:22:19 (Update)_
+1. [ Zimbabwean presidential election, 2008:: Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwean-presidential-election-2008-zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others.md) _2018-02-06 13:49:18 (First version)_
+2. [ Zimbabwean presidential election, 2008: Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwean-presidential-election-2008-p-zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others.md) _2018-02-06 13:49:18 (Update)_
 2. [ Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others-on-a-wanted-list.md) _(Current version)_
 
 ### Related:

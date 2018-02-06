@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-bei
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon:A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-pa-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _2017-08-25 03:39:55 (First version)_
-2. [Syrian Civil War spillover in Lebanon:: A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _2017-08-27 03:40:14 (Update)_
+1. [Syrian Civil War spillover in Lebanon:A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-pa-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _(Current version)_
 
 ### Related:

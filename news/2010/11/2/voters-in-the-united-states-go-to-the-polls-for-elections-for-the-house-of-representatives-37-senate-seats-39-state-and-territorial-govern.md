@@ -20,7 +20,7 @@ Tuesday’s GOP victory is the party’s largest win congressional elections sin
 
 ### Changes:
 
-1. [U.S. Midterms: Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/u-s-midterms-voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-ter.md) _2017-08-27 03:30:56 (First version)_
+1. [U.S. Midterms: Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/u-s-midterms-voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-ter.md) _2018-02-06 13:49:21 (First version)_
 1. [Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-territorial-govern.md) _(Current version)_
 
 ### Related:

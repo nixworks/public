@@ -13,7 +13,7 @@ The top rate of VAT rises from 17.5% to 20% as the government looks to boost tax
 
 ##### Russia
 ### [Russia begins an operation to free 500 people stranded in ships by ice in the Sea of Okhotsk. ](/news/2011/01/4/russia-begins-an-operation-to-free-500-people-stranded-in-ships-by-ice-in-the-sea-of-okhotsk.md)
-_Context: Sea of Okhotsk, Russia_
+_Context: Russia, Sea of Okhotsk_
 
 ##### Queensland
 ### [More evacuations take place in Queensland, Australia, as flood waters continued to rise and the Australian prime minister says damages could amount to hundreds of millions of dollars. ](/news/2011/01/4/more-evacuations-take-place-in-queensland-australia-as-flood-waters-continued-to-rise-and-the-australian-prime-minister-says-damages-could.md)
@@ -21,7 +21,7 @@ _Context: Queensland, Australia_
 
 ##### Salmaan Taseer
 ### [Salmaan Taseer, the Governor of the Pakistani province of Punjab, is assassinated by Malik Mumtaz Hussain Qadri, one of his security guards at Koshar Market, Islamabad. ](/news/2011/01/4/salmaan-taseer-the-governor-of-the-pakistani-province-of-punjab-is-assassinated-by-malik-mumtaz-hussain-qadri-one-of-his-security-guards.md)
-_Context: Islamabad, assassination, Pakistani Punjab governor, Punjab Province, Salmaan Taseer, Pakistan, Malik Mumtaz Hussain Qadri_
+_Context: Malik Mumtaz Hussain Qadri, Salmaan Taseer, assassination, Punjab Province, Islamabad, Pakistani Punjab governor, Pakistan_
 
 ##### Texas
 ### [51-year-old Texan Cornelius Dupree, freed on parole in July 2010 after serving 30 of a 75 year sentence for aggravated robbery, has his conviction quashed after he was found to be innocent of the crime through DNA evidence. ](/news/2011/01/4/51-year-old-texan-cornelius-dupree-freed-on-parole-in-july-2010-after-serving-30-of-a-75-year-sentence-for-aggravated-robbery-has-his-conv.md)

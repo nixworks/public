@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-cel
 
 ### Changes:
 
-1. [ Thousands of people in Pyongyang, North Korea, celebrate the -successful- launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-successful-launch-of-the-bright-star-2-communications-satellite-into-ear.md) _2017-08-27 03:24:09 (First version)_
+1. [ Thousands of people in Pyongyang, North Korea, celebrate the -successful- launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-successful-launch-of-the-bright-star-2-communications-satellite-into-ear.md) _2018-02-06 13:49:18 (First version)_
 1. [ Thousands of people in Pyongyang, North Korea, celebrate the "successful" launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-asuccessfula-launch-of-the-bright-star-2-communications-satellite-into-ear.md) _(Current version)_
 
 ### Related:

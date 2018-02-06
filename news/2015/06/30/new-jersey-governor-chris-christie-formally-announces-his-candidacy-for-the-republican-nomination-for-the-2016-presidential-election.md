@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/06/30/new-jersey-governor-chris-christie-formally-ann
 
 ### Changes:
 
-1. [ United States presidential election, 2016: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-p-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2017-08-25 03:42:19 (First version)_
-2. [ United States presidential election, 2016:: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2017-08-27 03:42:37 (Update)_
+1. [ United States presidential election, 2016: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-p-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2018-02-06 13:49:27 (First version)_
+2. [ United States presidential election, 2016:: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2018-02-06 13:49:27 (Update)_
 2. [ New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.md) _(Current version)_
 
 ### Related:

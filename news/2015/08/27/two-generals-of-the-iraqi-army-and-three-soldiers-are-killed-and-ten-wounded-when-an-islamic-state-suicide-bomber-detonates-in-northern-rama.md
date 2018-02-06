@@ -16,7 +16,7 @@ In a demoralizing blow to Iraq’s offensive against Islamic State , a suicide b
 
 ### Changes:
 
-1. [Iraq War (2014-present): Two generals of the Iraqi Army and three soldiers are killed and ten wounded when an Islamic State suicide bomber detonates in northern Ramadi. ](/news/2015/08/27/iraq-war-2014-present-two-generals-of-the-iraqi-army-and-three-soldiers-are-killed-and-ten-wounded-when-an-islamic-state-suicide-bomber.md) _2017-08-27 03:42:54 (First version)_
+1. [Iraq War (2014-present): Two generals of the Iraqi Army and three soldiers are killed and ten wounded when an Islamic State suicide bomber detonates in northern Ramadi. ](/news/2015/08/27/iraq-war-2014-present-two-generals-of-the-iraqi-army-and-three-soldiers-are-killed-and-ten-wounded-when-an-islamic-state-suicide-bomber.md) _2018-02-06 13:49:27 (First version)_
 1. [Two generals of the Iraqi Army and three soldiers are killed and ten wounded when an Islamic State suicide bomber detonates in northern Ramadi. ](/news/2015/08/27/two-generals-of-the-iraqi-army-and-three-soldiers-are-killed-and-ten-wounded-when-an-islamic-state-suicide-bomber-detonates-in-northern-rama.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Abdelhamid Abaaoud was killed during a violent police raid conducted by Paris au
 
 ### Changes:
 
-1. [November 2015 Paris attacks: The French National Assembly approves President Francois Hollande's request to extend the current state of emergency for three months. The Senate must still approve the measure. ](/news/2015/11/19/november-2015-paris-attacks-the-french-national-assembly-approves-president-franassois-hollande-s-request-to-extend-the-current-state-of-eme.md) _2017-08-27 03:43:57 (First version)_
+1. [November 2015 Paris attacks: The French National Assembly approves President Francois Hollande's request to extend the current state of emergency for three months. The Senate must still approve the measure. ](/news/2015/11/19/november-2015-paris-attacks-the-french-national-assembly-approves-president-franassois-hollande-s-request-to-extend-the-current-state-of-eme.md) _2018-02-06 13:49:28 (First version)_
 1. [The French National Assembly approves President Francois Hollande's request to extend the current state of emergency for three months. The Senate must still approve the measure. ](/news/2015/11/19/the-french-national-assembly-approves-president-franassois-hollande-s-request-to-extend-the-current-state-of-emergency-for-three-months-the.md) _(Current version)_
 
 ### Related:

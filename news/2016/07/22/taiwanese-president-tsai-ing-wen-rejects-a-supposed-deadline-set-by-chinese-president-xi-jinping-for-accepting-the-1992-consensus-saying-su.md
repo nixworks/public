@@ -17,7 +17,7 @@ The People&rsquo;s Republic has cut off official communications with the island.
 
 ### Changes:
 
-1. [Cross-Strait relations: Taiwanese President Tsai Ing-wen rejects a supposed deadline set by Chinese President Xi Jinping for accepting the 1992 Consensus, saying such a deadline is against the will of the people. ](/news/2016/07/22/cross-strait-relations-taiwanese-president-tsai-ing-wen-rejects-a-supposed-deadline-set-by-chinese-president-xi-jinping-for-accepting-the-1.md) _2017-08-27 03:46:32 (First version)_
+1. [Cross-Strait relations: Taiwanese President Tsai Ing-wen rejects a supposed deadline set by Chinese President Xi Jinping for accepting the 1992 Consensus, saying such a deadline is against the will of the people. ](/news/2016/07/22/cross-strait-relations-taiwanese-president-tsai-ing-wen-rejects-a-supposed-deadline-set-by-chinese-president-xi-jinping-for-accepting-the-1.md) _2018-02-06 13:49:29 (First version)_
 1. [Taiwanese President Tsai Ing-wen rejects a supposed deadline set by Chinese President Xi Jinping for accepting the 1992 Consensus, saying such a deadline is against the will of the people. ](/news/2016/07/22/taiwanese-president-tsai-ing-wen-rejects-a-supposed-deadline-set-by-chinese-president-xi-jinping-for-accepting-the-1992-consensus-saying-su.md) _(Current version)_
 
 ### Related:

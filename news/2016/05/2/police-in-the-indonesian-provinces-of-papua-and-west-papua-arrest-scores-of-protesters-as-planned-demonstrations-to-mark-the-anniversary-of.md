@@ -16,7 +16,7 @@ Indonesian police have made widespread arrests in Papua region as West Papuans p
 
 ### Changes:
 
-1. [Papua conflict: Police in the Indonesian provinces of Papua and West Papua arrest scores of protesters as planned demonstrations to mark the anniversary of the incorporation of the region with Indonesia were to take place today. ](/news/2016/05/2/papua-conflict-police-in-the-indonesian-provinces-of-papua-and-west-papua-arrest-scores-of-protesters-as-planned-demonstrations-to-mark-the.md) _2017-08-27 03:45:57 (First version)_
+1. [Papua conflict: Police in the Indonesian provinces of Papua and West Papua arrest scores of protesters as planned demonstrations to mark the anniversary of the incorporation of the region with Indonesia were to take place today. ](/news/2016/05/2/papua-conflict-police-in-the-indonesian-provinces-of-papua-and-west-papua-arrest-scores-of-protesters-as-planned-demonstrations-to-mark-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Police in the Indonesian provinces of Papua and West Papua arrest scores of protesters as planned demonstrations to mark the anniversary of the incorporation of the region with Indonesia were to take place today. ](/news/2016/05/2/police-in-the-indonesian-provinces-of-papua-and-west-papua-arrest-scores-of-protesters-as-planned-demonstrations-to-mark-the-anniversary-of.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The United States military said on Friday it was preparing for the biggest land 
 
 ### Changes:
 
-1. [ The United States military says it will shortly return 4,000 hectares of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. ](/news/2016/07/29/the-united-states-military-says-it-will-shortly-return-4-000-hectares-of-its-okinawa-military-installation-17-percent-of-the-area-it-cont.md) _2017-08-25 03:46:12 (First version)_
-2. [Japan-United States relations: The United States military says it will shortly return 4,000 hectares of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. ](/news/2016/07/29/japan-united-states-relations-the-united-states-military-says-it-will-shortly-return-4-000-hectares-of-its-okinawa-military-installation.md) _2017-08-27 03:46:34 (Update)_
+1. [ The United States military says it will shortly return 4,000 hectares of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. ](/news/2016/07/29/the-united-states-military-says-it-will-shortly-return-4-000-hectares-of-its-okinawa-military-installation-17-percent-of-the-area-it-cont.md) _2018-02-06 13:49:29 (First version)_
+2. [Japan-United States relations: The United States military says it will shortly return 4,000 hectares of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. ](/news/2016/07/29/japan-united-states-relations-the-united-states-military-says-it-will-shortly-return-4-000-hectares-of-its-okinawa-military-installation.md) _2018-02-06 13:49:29 (Update)_
 2. [ The United States military says it will shortly return 4,000 hectares of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. ](/news/2016/07/29/the-united-states-military-says-it-will-shortly-return-4-000-hectares-of-its-okinawa-military-installation-17-percent-of-the-area-it-contr.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/08/30/the-cabinet-of-former-prime-minister-of-japan-n
 
 ### Changes:
 
-1. [New Japanese Prime Minister:The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/new-japanese-prime-minister-pthe-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-no.md) _2017-08-25 03:34:05 (First version)_
-2. [New Japanese Prime Minister:: The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/new-japanese-prime-minister-the-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-n.md) _2017-08-27 03:34:13 (Update)_
+1. [New Japanese Prime Minister:: The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/new-japanese-prime-minister-the-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-n.md) _2018-02-06 13:49:22 (First version)_
+2. [New Japanese Prime Minister:The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/new-japanese-prime-minister-pthe-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-no.md) _2018-02-06 13:49:22 (Update)_
 2. [The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/the-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-noda-as-the-presumptive-prime-m.md) _(Current version)_
 
 ### Related:

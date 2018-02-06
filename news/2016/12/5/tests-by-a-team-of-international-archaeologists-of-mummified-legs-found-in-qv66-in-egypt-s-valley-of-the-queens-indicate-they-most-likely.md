@@ -18,7 +18,7 @@ A team of international archaeologists believe a pair of mummified legs on displ
 
 ### Changes:
 
-1. [Tests, by a team of international archaeologists, of mummified legs found in QV66 in Egypt's Valley of the Queens indicate they most likely belong to Queen Nefertari, Pharaoh Ramesses II's first and favorite wife. ](/news/2016/12/5/tests-by-a-team-of-international-archaeologists-of-mummified-legs-found-in-qv66-in-egypt-s-valley-of-the-queens-indicate-they-most-li.md) _2017-08-25 03:46:58 (First version)_
+1. [Tests, by a team of international archaeologists, of mummified legs found in QV66 in Egypt's Valley of the Queens indicate they most likely belong to Queen Nefertari, Pharaoh Ramesses II's first and favorite wife. ](/news/2016/12/5/tests-by-a-team-of-international-archaeologists-of-mummified-legs-found-in-qv66-in-egypt-s-valley-of-the-queens-indicate-they-most-li.md) _2018-02-06 13:49:30 (First version)_
 1. [Tests, by a team of international archaeologists, of mummified legs found in QV66 in Egypt's Valley of the Queens indicate they most likely belong to Queen Nefertari, Pharaoh Ramesses II's first and favorite wife. ](/news/2016/12/5/tests-by-a-team-of-international-archaeologists-of-mummified-legs-found-in-qv66-in-egypt-s-valley-of-the-queens-indicate-they-most-likely.md) _(Current version)_
 
 ### Related:

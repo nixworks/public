@@ -5,19 +5,19 @@ Formats: [HTML](2009/04/11/index.html)  [JSON](2009/04/11/index.json)  [XML](200
 
 ##### political crisis
 ### [ Anti-government protests cancel the Fourth East Asia Summit in Pattaya, Thailand. ](/news/2009/04/11/anti-government-protests-cancel-the-fourth-east-asia-summit-in-pattaya-thailand.md)
-_Context: Thailand, Pattaya, Fourth, political crisis, East Asia Summit_
+_Context: political crisis, Fourth, Thailand, East Asia Summit, Pattaya_
 
 ##### Abdelaziz Bouteflika
 ### [ Abdelaziz Bouteflika is reelected as President of Algeria. ](/news/2009/04/11/abdelaziz-bouteflika-is-reelected-as-president-of-algeria.md)
-_Context: President, Algeria, Abdelaziz Bouteflika, reelected_
+_Context: Abdelaziz Bouteflika, Algeria, reelected, President_
 
 ##### Rotterdam
 ### [ A gunman kills one person and injures three others in Rotterdam, Netherlands. ](/news/2009/04/11/a-gunman-kills-one-person-and-injures-three-others-in-rotterdam-netherlands.md)
-_Context: Rotterdam, Netherlands_
+_Context: Netherlands, Rotterdam_
 
 ##### France
 ### [ The French Navy rescues four hostages and kills two Somali pirates on the hijacked yacht "Tanit" in the Gulf of Aden. ](/news/2009/04/11/the-french-navy-rescues-four-hostages-and-kills-two-somali-pirates-on-the-hijacked-yacht-tanit-in-the-gulf-of-aden.md)
-_Context: ''Tanit'', Somalia, rescues, hostage, French naval, Somali pirates, France, yacht, Gulf of Aden_
+_Context: Somalia, yacht, Somali pirates, hostage, French naval, France, ''Tanit'', Gulf of Aden, rescues_
 
 ## [Previous Day...](/news/2009/04/10/index.md)
 

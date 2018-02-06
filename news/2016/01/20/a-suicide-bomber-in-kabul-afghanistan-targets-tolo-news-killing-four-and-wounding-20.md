@@ -16,7 +16,7 @@ Seven employees of a popular Afghan TV channel are killed after their bus is tar
 
 ### Changes:
 
-1. [War in Afghanistan: A suicide bomber in Kabul, Afghanistan, targets Tolo News, killing four and wounding 20. ](/news/2016/01/20/war-in-afghanistan-a-suicide-bomber-in-kabul-afghanistan-targets-tolo-news-killing-four-and-wounding-20.md) _2017-08-27 03:44:44 (First version)_
+1. [War in Afghanistan: A suicide bomber in Kabul, Afghanistan, targets Tolo News, killing four and wounding 20. ](/news/2016/01/20/war-in-afghanistan-a-suicide-bomber-in-kabul-afghanistan-targets-tolo-news-killing-four-and-wounding-20.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber in Kabul, Afghanistan, targets Tolo News, killing four and wounding 20. ](/news/2016/01/20/a-suicide-bomber-in-kabul-afghanistan-targets-tolo-news-killing-four-and-wounding-20.md) _(Current version)_
 
 ### Related:

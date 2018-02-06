@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/21/over-150-chadian-soldiers-are-killed-in-eastern
 
 ### Changes:
 
-1. [ Over 150 Chadian soldiers are killed in eastern Chad by members of the rebel UFDC. The growing rebel movement seeks to overthrow Chadian president Idriss Deby. ](/news/2006/03/21/over-150-chadian-soldiers-are-killed-in-eastern-chad-by-members-of-the-rebel-ufdc-the-growing-rebel-movement-seeks-to-overthrow-chadian-p.md) _2017-08-25 03:17:31 (First version)_
+1. [ Over 150 Chadian soldiers are killed in eastern Chad by members of the rebel UFDC. The growing rebel movement seeks to overthrow Chadian president Idriss Deby. ](/news/2006/03/21/over-150-chadian-soldiers-are-killed-in-eastern-chad-by-members-of-the-rebel-ufdc-the-growing-rebel-movement-seeks-to-overthrow-chadian-p.md) _2018-02-06 13:49:17 (First version)_
 1. [ Over 150 Chadian soldiers are killed in eastern Chad by members of the rebel UFDC. The growing rebel movement seeks to overthrow Chadian president Idriss Deby. ](/news/2006/03/21/over-150-chadian-soldiers-are-killed-in-eastern-chad-by-members-of-the-rebel-ufdc-the-growing-rebel-movement-seeks-to-overthrow-chadian-pr.md) _(Current version)_
 
 ### Related:

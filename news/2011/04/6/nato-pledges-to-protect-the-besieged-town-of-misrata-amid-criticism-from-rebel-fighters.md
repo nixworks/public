@@ -16,8 +16,8 @@ Military alliance says besieged town is now its top priority after rebels accuse
 
 ### Changes:
 
-1. [2011 Libyan civil war:NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-pnato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md) _2017-08-25 03:32:45 (First version)_
-2. [2011 Libyan civil war:: NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md) _2017-08-27 03:32:53 (Update)_
+1. [2011 Libyan civil war:NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-pnato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md) _(Current version)_
 
 ### Related:

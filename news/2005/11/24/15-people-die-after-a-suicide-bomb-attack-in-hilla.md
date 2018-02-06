@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/11/24/15-people-die-after-a-suicide-bomb-attack-in-hi
 
 ### Changes:
 
-1. [ Conflict in Iraq: 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/conflict-in-iraq-p-15-people-die-after-a-suicide-bomb-attack-in-hilla.md) _2017-08-25 03:17:09 (First version)_
-2. [ Conflict in Iraq:: 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/conflict-in-iraq-15-people-die-after-a-suicide-bomb-attack-in-hilla.md) _2017-08-27 03:17:09 (Update)_
+1. [ Conflict in Iraq: 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/conflict-in-iraq-p-15-people-die-after-a-suicide-bomb-attack-in-hilla.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/conflict-in-iraq-15-people-die-after-a-suicide-bomb-attack-in-hilla.md) _2018-02-06 13:49:16 (Update)_
 2. [ 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/15-people-die-after-a-suicide-bomb-attack-in-hilla.md) _(Current version)_
 
 ### Related:

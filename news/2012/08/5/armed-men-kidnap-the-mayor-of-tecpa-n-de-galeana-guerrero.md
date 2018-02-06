@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/5/armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana
 
 ### Changes:
 
-1. [Mexican Drug War:Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-parmed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _2017-08-25 03:36:13 (First version)_
-2. [Mexican Drug War:: Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _2017-08-27 03:36:24 (Update)_
+1. [Mexican Drug War:Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-parmed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _2018-02-06 13:49:23 (Update)_
 2. [Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md) _(Current version)_
 
 ### Related:

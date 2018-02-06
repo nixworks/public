@@ -19,8 +19,8 @@ Guns mostly fell silent in Syria and Russian air raids stopped on Saturday, the 
 
 ### Changes:
 
-1. [The Syrian cessation of hostilities truce is in effect, as of midnight, Saturday, local Syrian time (10:00 p.m. UTC Friday-5:00 p.m. EST Friday). ](/news/2016/02/26/the-syrian-cessation-of-hostilities-truce-is-in-effect-as-of-midnight-saturday-local-syrian-time-10-00-p-m-utc-friday-5-00-p-m-est-fr.md) _2017-08-25 03:44:41 (First version)_
-2. [Syrian Civil War peace process: The Syrian cessation of hostilities truce is in effect, as of midnight, Saturday, local Syrian time (10:00 p.m. UTC Friday-5:00 p.m. EST Friday). ](/news/2016/02/26/syrian-civil-war-peace-process-the-syrian-cessation-of-hostilities-truce-is-in-effect-as-of-midnight-saturday-local-syrian-time-10-00-p.md) _2017-08-27 03:45:03 (Update)_
+1. [The Syrian cessation of hostilities truce is in effect, as of midnight, Saturday, local Syrian time (10:00 p.m. UTC Friday-5:00 p.m. EST Friday). ](/news/2016/02/26/the-syrian-cessation-of-hostilities-truce-is-in-effect-as-of-midnight-saturday-local-syrian-time-10-00-p-m-utc-friday-5-00-p-m-est-fr.md) _2018-02-06 13:49:28 (First version)_
+2. [Syrian Civil War peace process: The Syrian cessation of hostilities truce is in effect, as of midnight, Saturday, local Syrian time (10:00 p.m. UTC Friday-5:00 p.m. EST Friday). ](/news/2016/02/26/syrian-civil-war-peace-process-the-syrian-cessation-of-hostilities-truce-is-in-effect-as-of-midnight-saturday-local-syrian-time-10-00-p.md) _2018-02-06 13:49:28 (Update)_
 2. [The Syrian cessation of hostilities truce is in effect, as of midnight, Saturday, local Syrian time (10:00 p.m. UTC Friday-5:00 p.m. EST Friday). ](/news/2016/02/26/the-syrian-cessation-of-hostilities-truce-is-in-effect-as-of-midnight-saturday-local-syrian-time-10-00-p-m-utc-friday-5-00-p-m-est-fri.md) _(Current version)_
 
 ### Related:

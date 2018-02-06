@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/23/elections-in-argentina-2005-candidates-supporti
 
 ### Changes:
 
-1. [ Elections in Argentina, 2005.Candidates supporting Argentina's President, Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. ](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aire.md) _2017-08-25 03:17:00 (First version)_
+1. [ Elections in Argentina, 2005.Candidates supporting Argentina's President, Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. ](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aire.md) _2018-02-06 13:49:16 (First version)_
 1. [ Elections in Argentina, 2005.Candidates supporting Argentina's President, Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. ](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aires.md) _(Current version)_
 
 ### Related:

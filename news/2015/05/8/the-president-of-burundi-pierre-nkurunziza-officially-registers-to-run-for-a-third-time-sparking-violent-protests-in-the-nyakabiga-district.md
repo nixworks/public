@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/8/the-president-of-burundi-pierre-nkurunziza-offic
 
 ### Changes:
 
-1. [2015 Burundian protests: The President of Burundi Pierre Nkurunziza officially registers to run for a third time sparking violent protests in the Nyakabiga district of Bujumbura. ](/news/2015/05/8/2015-burundian-protests-the-president-of-burundi-pierre-nkurunziza-officially-registers-to-run-for-a-third-time-sparking-violent-protests-i.md) _2017-08-27 03:42:16 (First version)_
+1. [2015 Burundian protests: The President of Burundi Pierre Nkurunziza officially registers to run for a third time sparking violent protests in the Nyakabiga district of Bujumbura. ](/news/2015/05/8/2015-burundian-protests-the-president-of-burundi-pierre-nkurunziza-officially-registers-to-run-for-a-third-time-sparking-violent-protests-i.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of Burundi Pierre Nkurunziza officially registers to run for a third time sparking violent protests in the Nyakabiga district of Bujumbura. ](/news/2015/05/8/the-president-of-burundi-pierre-nkurunziza-officially-registers-to-run-for-a-third-time-sparking-violent-protests-in-the-nyakabiga-district.md) _(Current version)_
 
 ### Related:

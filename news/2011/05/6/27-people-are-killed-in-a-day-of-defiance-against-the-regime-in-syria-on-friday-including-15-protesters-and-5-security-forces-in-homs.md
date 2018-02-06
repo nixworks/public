@@ -19,9 +19,9 @@ The White House warns Syria it will take &quot;additional steps&quot; if Damascu
 
 ### Changes:
 
-1. [2011 Syrian uprising: 27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-sec.md) _2017-05-25 03:34:20 (First version)_
-2. [2011 Syrian uprising:27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-secu.md) _2017-08-25 03:33:00 (Update)_
-3. [2011 Syrian uprising:: 27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-sec.md) _2017-08-27 03:33:10 (Update)_
+1. [2011 Syrian uprising:27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-secu.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising: 27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-sec.md) _2018-02-06 13:49:22 (Update)_
+3. [2011 Syrian uprising:: 27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-sec.md) _2018-02-06 13:49:22 (Update)_
 3. [27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-security-forces-in-homs.md) _(Current version)_
 
 ### Related:

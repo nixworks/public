@@ -18,8 +18,8 @@ Japan and Turkey join 11 countries in concerted move over massacre as Annan says
 
 ### Changes:
 
-1. [Syrian uprising:Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-pseveral-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _2017-08-25 03:35:46 (First version)_
-2. [Syrian uprising:: Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _2017-08-27 03:35:57 (Update)_
+1. [Syrian uprising:: Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-pseveral-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _2018-02-06 13:49:23 (Update)_
 2. [Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md) _(Current version)_
 
 ### Related:

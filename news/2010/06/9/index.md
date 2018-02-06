@@ -9,7 +9,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### Dandong
 ### [China announces that 3 residents of Dandong city in Liaoning province were shot dead and one injured in a China-North Korea border incident last week. ](/news/2010/06/9/china-announces-that-3-residents-of-dandong-city-in-liaoning-province-were-shot-dead-and-one-injured-in-a-china-north-korea-border-incident.md)
-_Context: North Korea, Dandong, China, Liaoning province_
+_Context: North Korea, Dandong, Liaoning province, China_
 
 ##### Mogadishu
 ### [At least 12 people are killed and at least 22 others are wounded during fighting and a roadside blast in Mogadishu. ](/news/2010/06/9/at-least-12-people-are-killed-and-at-least-22-others-are-wounded-during-fighting-and-a-roadside-blast-in-mogadishu.md)
@@ -17,7 +17,7 @@ _Context: Mogadishu_
 
 ##### Shanghai Television Festival
 ### [Environmental themes will feature during this week's Shanghai Television Festival and the upcoming Shanghai International Film Festival, officials said at a press conference to mark World Ocean Day. ](/news/2010/06/9/environmental-themes-will-feature-during-this-week-s-shanghai-television-festival-and-the-upcoming-shanghai-international-film-festival-off.md)
-_Context: Shanghai Television Festival, Shanghai International Film Festival, World Ocean Day_
+_Context: Shanghai Television Festival, World Ocean Day, Shanghai International Film Festival_
 
 ##### Michael Jackson
 ### [Michael Jackson's estate makes $1 billion since his death. ](/news/2010/06/9/michael-jackson-s-estate-makes-1-billion-since-his-death.md)
@@ -41,7 +41,7 @@ Muslim Brotherhood MP Mohamed Beltagy, who was on Gaza-bound flotilla, recounts 
 
 ##### French President
 ### [President Nicolas Sarkozy defends his plans to sell up to four French warships to Russia, despite concerns raised by his Georgian counterpart Mikheil Saakashvili during talks taking place a few days before a visit to Paris of Russian Prime Minister Vladimir Putin. ](/news/2010/06/9/president-nicolas-sarkozy-defends-his-plans-to-sell-up-to-four-french-warships-to-russia-despite-concerns-raised-by-his-georgian-counterpar.md)
-_Context:  Georgian, Paris, Russia, Prime Minister of Russia, French warships, Nicolas Sarkozy, Mikheil Saakashvili, Vladimir Putin, French President_
+_Context: Nicolas Sarkozy, Mikheil Saakashvili, Vladimir Putin, Prime Minister of Russia, Russia, French President, French warships,  Georgian, Paris_
 
 ##### Senegal
 ### [France closes its military bases in Senegal and removes 900 of its 1,200 troops based there. ](/news/2010/06/9/france-closes-its-military-bases-in-senegal-and-removes-900-of-its-1-200-troops-based-there.md)
@@ -49,7 +49,7 @@ France is closing its military bases in Senegal - 50 years after the independenc
 
 ##### Georgia
 ### [The U.S. state of Georgia executes its 24th death row inmate Melbert Ford by lethal injection. ](/news/2010/06/9/the-u-s-state-of-georgia-executes-its-24th-death-row-inmate-melbert-ford-by-lethal-injection.md)
-_Context: lethal injection, Georgia, Melbert Ford, Capital punishment in the United States, death row_
+_Context: Georgia, Melbert Ford, death row, Capital punishment in the United States, lethal injection_
 
 ##### Iran
 ### [Three men are arrested, two protesters are kicked and pushed downstairs and eggs are thrown during demonstrations as Iran's Foreign Minister Manouchehr Mottaki hides under an umbrella while leaving the Institute of International and European Affairs in Dublin. ](/news/2010/06/9/three-men-are-arrested-two-protesters-are-kicked-and-pushed-downstairs-and-eggs-are-thrown-during-demonstrations-as-iran-s-foreign-minister.md)
@@ -113,7 +113,7 @@ _Context: South Africa, 2010 FIFA World Cup, Nelson Mandela_
 
 ##### Chicago Blackhawks
 ### [The Chicago Blackhawks defeat the Philadelphia Flyers 4-3 in overtime to win the 2010 Stanley Cup Finals in six games. Blackhawks' captain Jonathan Toews is awarded the Conn Smythe Trophy as Most Valuable Player. ](/news/2010/06/9/the-chicago-blackhawks-defeat-the-philadelphia-flyers-4-3-in-overtime-to-win-the-2010-stanley-cup-finals-in-six-games-blackhawks-captain-j.md)
-_Context: Most Valuable Player, Jonathan Toews, captain, Chicago Blackhawks, 2010 Stanley Cup Finals, Philadelphia Flyers, Conn Smythe Trophy_
+_Context: Most Valuable Player, Chicago Blackhawks, Conn Smythe Trophy, 2010 Stanley Cup Finals, Jonathan Toews, Philadelphia Flyers, captain_
 
 ## [Previous Day...](/news/2010/06/8/index.md)
 

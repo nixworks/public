@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/03/6/cyrenaica-the-eastern-libyan-region-announces-a-
 
 ### Changes:
 
-1. [Cyrenaican bid for semi-autonomy:Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-pcyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _2017-08-25 03:35:13 (First version)_
-2. [Cyrenaican bid for semi-autonomy:: Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _2017-08-27 03:35:23 (Update)_
+1. [Cyrenaican bid for semi-autonomy:Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-pcyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _2018-02-06 13:49:23 (First version)_
+2. [Cyrenaican bid for semi-autonomy:: Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _2018-02-06 13:49:23 (Update)_
 2. [Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _(Current version)_
 
 ### Related:

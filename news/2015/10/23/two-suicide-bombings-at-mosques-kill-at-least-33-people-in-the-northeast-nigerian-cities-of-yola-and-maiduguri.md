@@ -19,7 +19,7 @@ It is not clear at this point if the attack was a suicide bombing or not.
 
 ### Changes:
 
-1. [Boko Haram: Two suicide bombings at mosques kill at least 33 people in the northeast Nigerian cities of Yola and Maiduguri. ](/news/2015/10/23/boko-haram-two-suicide-bombings-at-mosques-kill-at-least-33-people-in-the-northeast-nigerian-cities-of-yola-and-maiduguri.md) _2017-08-27 03:43:28 (First version)_
+1. [Boko Haram: Two suicide bombings at mosques kill at least 33 people in the northeast Nigerian cities of Yola and Maiduguri. ](/news/2015/10/23/boko-haram-two-suicide-bombings-at-mosques-kill-at-least-33-people-in-the-northeast-nigerian-cities-of-yola-and-maiduguri.md) _2018-02-06 13:49:28 (First version)_
 1. [Two suicide bombings at mosques kill at least 33 people in the northeast Nigerian cities of Yola and Maiduguri. ](/news/2015/10/23/two-suicide-bombings-at-mosques-kill-at-least-33-people-in-the-northeast-nigerian-cities-of-yola-and-maiduguri.md) _(Current version)_
 
 ### Related:

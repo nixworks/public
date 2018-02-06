@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/6/more-than-72-are-killed-in-clashes-between-al-nu
 
 ### Changes:
 
-1. [ Syrian Civil War: Aleppo offensive (May 2016): More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria. ](/news/2016/05/6/syrian-civil-war-aleppo-offensive-may-2016-more-than-72-are-killed-in-clashes-between-al-nusra-front-and-syrian-government-forces-in-kh.md) _2017-08-27 03:45:59 (First version)_
+1. [ Syrian Civil War: Aleppo offensive (May 2016): More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria. ](/news/2016/05/6/syrian-civil-war-aleppo-offensive-may-2016-more-than-72-are-killed-in-clashes-between-al-nusra-front-and-syrian-government-forces-in-kh.md) _2018-02-06 13:49:29 (First version)_
 1. [ More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria. ](/news/2016/05/6/more-than-72-are-killed-in-clashes-between-al-nusra-front-and-syrian-government-forces-in-khan-tuman-south-of-aleppo-syria.md) _(Current version)_
 
 ### Related:

@@ -20,7 +20,7 @@ Afghan forces retake control of Kunduz from Taliban insurgents after fierce figh
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Battle of Kunduz: The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/war-in-afghanistan-2015-present-battle-of-kunduz-the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md) _2017-08-27 03:43:12 (First version)_
+1. [War in Afghanistan (2015-present): Battle of Kunduz: The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/war-in-afghanistan-2015-present-battle-of-kunduz-the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md) _2018-02-06 13:49:27 (First version)_
 1. [The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md) _(Current version)_
 
 ### Related:

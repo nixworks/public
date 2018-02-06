@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/05/14/frederik-crown-prince-of-denmark-marries-austra
 
 ### Changes:
 
-1. [ Danish Crown Prince Frederik marries Australian Mary Donaldson in Copenhagen. The service is attended by royalty and dignitaries from around the world, amidst very high security in the face of terrorism fears. ](/news/2004/05/14/danish-crown-prince-frederik-marries-australian-mary-donaldson-in-copenhagen-the-service-is-attended-by-royalty-and-dignitaries-from-aroun.md) _2017-10-16 03:16:49 (First version)_
+1. [ Danish Crown Prince Frederik marries Australian Mary Donaldson in Copenhagen. The service is attended by royalty and dignitaries from around the world, amidst very high security in the face of terrorism fears. ](/news/2004/05/14/danish-crown-prince-frederik-marries-australian-mary-donaldson-in-copenhagen-the-service-is-attended-by-royalty-and-dignitaries-from-aroun.md) _2018-02-06 13:49:15 (First version)_
 1. [ Frederik, Crown Prince of Denmark, marries Australian Mary Donaldson in Copenhagen. The service is attended by royalty and dignitaries from around the world, amidst very high security in the face of terrorism fears. ](/news/2004/05/14/frederik-crown-prince-of-denmark-marries-australian-mary-donaldson-in-copenhagen-the-service-is-attended-by-royalty-and-dignitaries-from.md) _(Current version)_
 
 ### Related:

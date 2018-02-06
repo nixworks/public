@@ -19,7 +19,7 @@ Formats: [HTML](/news/2006/07/17/a-7-7-m-w-earthquake-off-the-coast-of-indonesia
 
 ### Changes:
 
-1. [ A 7.7 M w earthquake off the coast of Indonesia causes a tsunami to crash into Java, causing significant property damage and killing over 100 people. Concern is raised over lack of a warning system for the south coast despite warnings from international agencies.](/news/2006/07/17/a-7-7-mw-earthquake-off-the-coast-of-indonesia-causes-a-tsunami-to-crash-into-java-causing-significant-property-damage-and-killing-over-10.md) _2017-10-02 03:20:34 (First version)_
+1. [ A 7.7 M w earthquake off the coast of Indonesia causes a tsunami to crash into Java, causing significant property damage and killing over 100 people. Concern is raised over lack of a warning system for the south coast despite warnings from international agencies.](/news/2006/07/17/a-7-7-mw-earthquake-off-the-coast-of-indonesia-causes-a-tsunami-to-crash-into-java-causing-significant-property-damage-and-killing-over-10.md) _2018-02-06 13:49:17 (First version)_
 1. [ A 7.7 M w earthquake off the coast of Indonesia causes a tsunami to crash into Java, causing significant property damage and killing over 100 people. Concern is raised over lack of a warning system for the south coast despite warnings from international agencies.](/news/2006/07/17/a-7-7-m-w-earthquake-off-the-coast-of-indonesia-causes-a-tsunami-to-crash-into-java-causing-significant-property-damage-and-killing-over-1.md) _(Current version)_
 
 ### Related:

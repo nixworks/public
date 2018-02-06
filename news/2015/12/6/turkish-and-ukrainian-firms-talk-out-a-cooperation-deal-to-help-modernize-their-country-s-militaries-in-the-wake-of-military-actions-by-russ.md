@@ -16,5 +16,5 @@ ANKARA, Turkey — Turkey and Ukraine&#039;s biggest defense firms have started 
 
 ### Changes:
 
-1. [Turkey-Ukraine relations: Turkish and Ukrainian firms talk out a cooperation deal to help modernize their country's militaries in the wake of military actions by Russia. ](/news/2015/12/6/turkey-ukraine-relations-turkish-and-ukrainian-firms-talk-out-a-cooperation-deal-to-help-modernize-their-country-s-militaries-in-the-wake.md) _2017-08-27 03:44:12 (First version)_
+1. [Turkey-Ukraine relations: Turkish and Ukrainian firms talk out a cooperation deal to help modernize their country's militaries in the wake of military actions by Russia. ](/news/2015/12/6/turkey-ukraine-relations-turkish-and-ukrainian-firms-talk-out-a-cooperation-deal-to-help-modernize-their-country-s-militaries-in-the-wake.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish and Ukrainian firms talk out a cooperation deal to help modernize their country's militaries in the wake of military actions by Russia. ](/news/2015/12/6/turkish-and-ukrainian-firms-talk-out-a-cooperation-deal-to-help-modernize-their-country-s-militaries-in-the-wake-of-military-actions-by-russ.md) _(Current version)_

@@ -13,11 +13,11 @@ French President NicolasSarkozy and a dozen heads of state from around Africa ga
 
 ##### Russia
 ### [ Russia vetoes a plan to extend the United Nations Observer Mission in Georgia. ](/news/2009/06/16/russia-vetoes-a-plan-to-extend-the-united-nations-observer-mission-in-georgia.md)
-_Context:  Georgian, United Nations Observer Mission, Russia_
+_Context: Russia,  Georgian, United Nations Observer Mission_
 
 ##### Brian Friel
 ### [ Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. ](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.md)
-_Context: Bloomsday, University College Dublin, Brian Friel, Ulysses Medal_
+_Context: Ulysses Medal, Brian Friel, Bloomsday, University College Dublin_
 
 ##### Indonesia
 ### [ A coal mine collapses in Indonesia, killing at least six people. ](/news/2009/06/16/a-coal-mine-collapses-in-indonesia-killing-at-least-six-people.md)
@@ -29,11 +29,11 @@ Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to
 
 ##### China
 ### [ China announces plan to provide a US$ 10 billion credit loan to member states of the Shanghai Cooperation Organisation. ](/news/2009/06/16/china-announces-plan-to-provide-a-us-10-billion-credit-loan-to-member-states-of-the-shanghai-cooperation-organisation.md)
-_Context: China, Shanghai Cooperation Organisation, US$_
+_Context: Shanghai Cooperation Organisation, US$, China_
 
 ##### presidential election
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
-_Context: presidential election, Afghanistan_
+_Context: Afghanistan, presidential election_
 
 ##### General Motors
 ### [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md)
@@ -41,7 +41,7 @@ _Context: Koenigsegg, General Motors, Saab Automobile_
 
 ##### Sri Lanka
 ### [ A Sri Lankan government investigation into human rights abuses during its offensive with Tamil Tiger rebels disbands. ](/news/2009/06/16/a-sri-lankan-government-investigation-into-human-rights-abuses-during-its-offensive-with-tamil-tiger-rebels-disbands.md)
-_Context: human rights, offensive, Sri Lanka, LTTE, government_
+_Context: government, human rights, LTTE, Sri Lanka, offensive_
 
 ##### Irish
 ### [ 15 laptops containing confidential information owned by Ireland's Health Service Executive are stolen in Roscommon. ](/news/2009/06/16/15-laptops-containing-confidential-information-owned-by-ireland-s-health-service-executive-are-stolen-in-roscommon.md)
@@ -61,7 +61,7 @@ Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home
 
 ##### Food & Drug Administration
 ### [ The U.S. Food & Drug Administration advised people not to use Zicam intranasal products that contain zinc, due to the risk of anosmia. ](/news/2009/06/16/the-u-s-food-drug-administration-advised-people-not-to-use-zicam-intranasal-products-that-contain-zinc-due-to-the-risk-of-anosmia.md)
-_Context: Food & Drug Administration, anosmia, Zicam_
+_Context: anosmia, Zicam, Food & Drug Administration_
 
 ## [Previous Day...](/news/2009/06/15/index.md)
 

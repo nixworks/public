@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-peop
 
 ### Changes:
 
-1. [Taliban insurgency: Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-insurgency-taliban-attacks-across-afghanistan-kill-17-people.md) _2017-08-27 03:41:51 (First version)_
+1. [Taliban insurgency: Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-insurgency-taliban-attacks-across-afghanistan-kill-17-people.md) _2018-02-06 13:49:26 (First version)_
 1. [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md) _(Current version)_
 
 ### Related:

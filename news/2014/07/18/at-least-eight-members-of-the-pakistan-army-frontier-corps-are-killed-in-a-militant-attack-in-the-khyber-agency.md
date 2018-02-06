@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/18/at-least-eight-members-of-the-pakistan-army-fro
 
 ### Changes:
 
-1. [War in North-West Pakistan:At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/war-in-north-west-pakistan-pat-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md) _2017-08-25 03:40:42 (First version)_
-2. [War in North-West Pakistan:: At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/war-in-north-west-pakistan-at-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md) _2017-08-27 03:41:00 (Update)_
+1. [War in North-West Pakistan:At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/war-in-north-west-pakistan-pat-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/war-in-north-west-pakistan-at-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md) _2018-02-06 13:49:26 (Update)_
 2. [At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/at-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md) _(Current version)_
 
 ### Related:

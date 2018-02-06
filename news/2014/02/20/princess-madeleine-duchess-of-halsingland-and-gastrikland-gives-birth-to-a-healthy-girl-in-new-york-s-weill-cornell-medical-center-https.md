@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/02/20/princess-madeleine-duchess-of-halsingland-and-g
 
 ### Changes:
 
-1. [Princess Madeleine, Duchess of Hlsingland and Gstrikland, gives birth to a healthy girl in New York's Weill Cornell Medical Center. [http:--www.theguardian.com-world-2014-feb-21-sweden-princess-madeleine-gives-birth-daughter]](/news/2014/02/20/princess-madeleine-duchess-of-halsingland-and-gastrikland-gives-birth-to-a-healthy-girl-in-new-york-s-weill-cornell-medical-center-http.md) _2017-10-17 03:46:34 (First version)_
+1. [Princess Madeleine, Duchess of Hlsingland and Gstrikland, gives birth to a healthy girl in New York's Weill Cornell Medical Center. [http:--www.theguardian.com-world-2014-feb-21-sweden-princess-madeleine-gives-birth-daughter]](/news/2014/02/20/princess-madeleine-duchess-of-halsingland-and-gastrikland-gives-birth-to-a-healthy-girl-in-new-york-s-weill-cornell-medical-center-http.md) _2018-02-06 13:49:25 (First version)_
 1. [Princess Madeleine, Duchess of Hlsingland and Gstrikland, gives birth to a healthy girl in New York's Weill Cornell Medical Center. [https:--www.theguardian.com-world-2014-feb-21-sweden-princess-madeleine-gives-birth-daughter]](/news/2014/02/20/princess-madeleine-duchess-of-halsingland-and-gastrikland-gives-birth-to-a-healthy-girl-in-new-york-s-weill-cornell-medical-center-https.md) _(Current version)_
 
 ### Related:

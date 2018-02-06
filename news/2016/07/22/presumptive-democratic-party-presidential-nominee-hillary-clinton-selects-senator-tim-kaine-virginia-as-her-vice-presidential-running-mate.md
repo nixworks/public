@@ -16,8 +16,8 @@ Hillary Clinton on Friday announced Virginia Sen. Timothy Kaine as her running m
 
 ### Changes:
 
-1. [Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virginia-as-her-vice-presidential-running-mat.md) _2017-08-25 03:46:09 (First version)_
-2. [United States presidential election, 2016: Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/united-states-presidential-election-2016-presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virg.md) _2017-08-27 03:46:32 (Update)_
+1. [United States presidential election, 2016: Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/united-states-presidential-election-2016-presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virg.md) _2018-02-06 13:49:29 (First version)_
+2. [Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virginia-as-her-vice-presidential-running-mat.md) _2018-02-06 13:49:29 (Update)_
 2. [Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virginia-as-her-vice-presidential-running-mate.md) _(Current version)_
 
 ### Related:

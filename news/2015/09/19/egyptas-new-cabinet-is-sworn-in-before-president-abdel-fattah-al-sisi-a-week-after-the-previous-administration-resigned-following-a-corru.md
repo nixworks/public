@@ -17,7 +17,7 @@ Egypt&#039;s new Cabinet was sworn in before President Abdel Fattah al-Sisi at t
 
 ### Changes:
 
-1. [Egypt-s new Cabinet is sworn in before President Abdel Fattah al-Sisi, a week after the previous administration resigned following a corruption scandal, and a month before parliamentary elections. The 33-member body has 16 new ministers, including two women. Sherif Ismail, petroleum minister in the last cabinet, is the new prime minister. ](/news/2015/09/19/egypt-s-new-cabinet-is-sworn-in-before-president-abdel-fattah-al-sisi-a-week-after-the-previous-administration-resigned-following-a-corru.md) _2017-08-27 03:43:06 (First version)_
+1. [Egypt-s new Cabinet is sworn in before President Abdel Fattah al-Sisi, a week after the previous administration resigned following a corruption scandal, and a month before parliamentary elections. The 33-member body has 16 new ministers, including two women. Sherif Ismail, petroleum minister in the last cabinet, is the new prime minister. ](/news/2015/09/19/egypt-s-new-cabinet-is-sworn-in-before-president-abdel-fattah-al-sisi-a-week-after-the-previous-administration-resigned-following-a-corru.md) _2018-02-06 13:49:27 (First version)_
 1. [Egypt's new Cabinet is sworn in before President Abdel Fattah al-Sisi, a week after the previous administration resigned following a corruption scandal, and a month before parliamentary elections. The 33-member body has 16 new ministers, including two women. Sherif Ismail, petroleum minister in the last cabinet, is the new prime minister. ](/news/2015/09/19/egyptas-new-cabinet-is-sworn-in-before-president-abdel-fattah-al-sisi-a-week-after-the-previous-administration-resigned-following-a-corru.md) _(Current version)_
 
 ### Related:

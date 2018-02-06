@@ -18,7 +18,7 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 
 ### Changes:
 
-1. [Barclays Bank plc is fined PS290m after trying to manipulate interbank interest rates. Chief Executive Bob Diamond also forgoes his bonus. ](/news/2012/06/27/barclays-bank-plc-is-fined-aps290m-after-trying-to-manipulate-interbank-interest-rates-chief-executive-bob-diamond-also-forgoes-his-bonus.md) _2017-08-25 03:35:59 (First version)_
+1. [Barclays Bank plc is fined PS290m after trying to manipulate interbank interest rates. Chief Executive Bob Diamond also forgoes his bonus. ](/news/2012/06/27/barclays-bank-plc-is-fined-aps290m-after-trying-to-manipulate-interbank-interest-rates-chief-executive-bob-diamond-also-forgoes-his-bonus.md) _2018-02-06 13:49:23 (First version)_
 1. [Barclays Bank plc is fined GBP290m after trying to manipulate interbank interest rates. Chief Executive Bob Diamond also forgoes his bonus. ](/news/2012/06/27/barclays-bank-plc-is-fined-agbp290m-after-trying-to-manipulate-interbank-interest-rates-chief-executive-bob-diamond-also-forgoes-his-bonus.md) _(Current version)_
 
 ### Related:

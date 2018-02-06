@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/07/14/mikhail-margelov-the-president-of-russia-s-spec
 
 ### Changes:
 
-1. [Libyan Civil War:Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-pmikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suici.md) _2017-08-25 03:33:47 (First version)_
-2. [Libyan Civil War:: Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suic.md) _2017-08-27 03:33:54 (Update)_
+1. [Libyan Civil War:Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-pmikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suici.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suic.md) _2018-02-06 13:49:22 (Update)_
 2. [Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suicidal-plan-to-destr.md) _(Current version)_
 
 ### Related:

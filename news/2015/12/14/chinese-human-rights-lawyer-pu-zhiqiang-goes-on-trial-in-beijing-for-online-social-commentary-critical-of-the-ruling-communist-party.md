@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/12/14/chinese-human-rights-lawyer-pu-zhiqiang-goes-on
 
 ### Changes:
 
-1. [Censorship in China: Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/censorship-in-china-chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-co.md) _2017-08-27 03:44:21 (First version)_
+1. [Censorship in China: Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/censorship-in-china-chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-co.md) _2018-02-06 13:49:28 (First version)_
 1. [Chinese human rights lawyer Pu Zhiqiang goes on trial in Beijing for online social commentary critical of the ruling Communist Party. ](/news/2015/12/14/chinese-human-rights-lawyer-pu-zhiqiang-goes-on-trial-in-beijing-for-online-social-commentary-critical-of-the-ruling-communist-party.md) _(Current version)_
 
 ### Related:

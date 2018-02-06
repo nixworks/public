@@ -17,7 +17,7 @@ The ruble plunged more than 11 percent against the dollar on Tuesday in its stee
 
 ### Changes:
 
-1. [2014 Russian financial crisis: The Bank of Russia announces an increase of its key interest rate, the Russian weekly repo rate, from 10.5 to 17 percent as an emergency move to halt the collapse of the ruble's value and, thereby, stabilize the Russian economy. ](/news/2014/12/16/2014-russian-financial-crisis-the-bank-of-russia-announces-an-increase-of-its-key-interest-rate-the-russian-weekly-repo-rate-from-10-5-to.md) _2017-08-27 03:41:38 (First version)_
+1. [2014 Russian financial crisis: The Bank of Russia announces an increase of its key interest rate, the Russian weekly repo rate, from 10.5 to 17 percent as an emergency move to halt the collapse of the ruble's value and, thereby, stabilize the Russian economy. ](/news/2014/12/16/2014-russian-financial-crisis-the-bank-of-russia-announces-an-increase-of-its-key-interest-rate-the-russian-weekly-repo-rate-from-10-5-to.md) _2018-02-06 13:49:26 (First version)_
 1. [The Bank of Russia announces an increase of its key interest rate, the Russian weekly repo rate, from 10.5 to 17 percent as an emergency move to halt the collapse of the ruble's value and, thereby, stabilize the Russian economy. ](/news/2014/12/16/the-bank-of-russia-announces-an-increase-of-its-key-interest-rate-the-russian-weekly-repo-rate-from-10-5-to-17-percent-as-an-emergency-mov.md) _(Current version)_
 
 ### Related:

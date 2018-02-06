@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010-2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md) _2017-08-27 03:32:36 (First version)_
+1. [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010-2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md) _2018-02-06 13:49:22 (First version)_
 1. [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/02/25/thousands-of-people-stage-an-anti-government-pr
 
 ### Changes:
 
-1. [2011 Bahraini protests: Thousands of people stage an anti-government protest in the capital Manama, on a day of mourning declared by the government following the deaths of protesters. ](/news/2011/02/25/2011-bahraini-protests-thousands-of-people-stage-an-anti-government-protest-in-the-capital-manama-on-a-day-of-mourning-declared-by-the-gov.md) _2017-08-27 03:32:28 (First version)_
+1. [2011 Bahraini protests: Thousands of people stage an anti-government protest in the capital Manama, on a day of mourning declared by the government following the deaths of protesters. ](/news/2011/02/25/2011-bahraini-protests-thousands-of-people-stage-an-anti-government-protest-in-the-capital-manama-on-a-day-of-mourning-declared-by-the-gov.md) _2018-02-06 13:49:22 (First version)_
 1. [Thousands of people stage an anti-government protest in the capital Manama, on a day of mourning declared by the government following the deaths of protesters. ](/news/2011/02/25/thousands-of-people-stage-an-anti-government-protest-in-the-capital-manama-on-a-day-of-mourning-declared-by-the-government-following-the-de.md) _(Current version)_
 
 ### Related:

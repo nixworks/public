@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/08/19/the-governor-of-minnesota-tim-pawlenty-declares
 
 ### Changes:
 
-1. [ United States floods: The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/united-states-floods-p-the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-floodi.md) _2017-08-25 03:20:39 (First version)_
-2. [ United States floods:: The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/united-states-floods-the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-floodi.md) _2017-08-27 03:20:37 (Update)_
+1. [ United States floods:: The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/united-states-floods-the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-floodi.md) _2018-02-06 13:49:17 (First version)_
+2. [ United States floods: The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/united-states-floods-p-the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-floodi.md) _2018-02-06 13:49:17 (Update)_
 2. [ The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-flooding-with-six-deaths-repo.md) _(Current version)_
 
 ### Related:

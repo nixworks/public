@@ -15,7 +15,7 @@ Survivors tell authorities 15 women and five children among the missing after bo
 
 ### Changes:
 
-1. [European migrant crisis: A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/european-migrant-crisis-a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-t.md) _2017-08-27 03:48:08 (First version)_
+1. [European migrant crisis: A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/european-migrant-crisis-a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-t.md) _2018-02-06 13:49:30 (First version)_
 1. [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md) _(Current version)_
 
 ### Related:

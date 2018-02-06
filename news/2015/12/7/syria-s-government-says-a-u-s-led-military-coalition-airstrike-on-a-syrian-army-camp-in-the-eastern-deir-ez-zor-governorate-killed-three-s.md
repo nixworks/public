@@ -18,7 +18,7 @@ At least 26 civilians, including children, have been killed in north-east Syria 
 
 ### Changes:
 
-1. [Syrian Civil War: Syria's government says a U.S.-led military coalition airstrike on a Syrian Army camp in the eastern Deir ez-Zor Governorate, killed three Syrian soldiers and wounded 13 others. A senior U.S. military official denied responsibility for the airstrike and said that the U.S. is certain it was a Russian airstrike. ](/news/2015/12/7/syrian-civil-war-syria-s-government-says-a-u-s-led-military-coalition-airstrike-on-a-syrian-army-camp-in-the-eastern-deir-ez-zor-governora.md) _2017-08-27 03:44:13 (First version)_
+1. [Syrian Civil War: Syria's government says a U.S.-led military coalition airstrike on a Syrian Army camp in the eastern Deir ez-Zor Governorate, killed three Syrian soldiers and wounded 13 others. A senior U.S. military official denied responsibility for the airstrike and said that the U.S. is certain it was a Russian airstrike. ](/news/2015/12/7/syrian-civil-war-syria-s-government-says-a-u-s-led-military-coalition-airstrike-on-a-syrian-army-camp-in-the-eastern-deir-ez-zor-governora.md) _2018-02-06 13:49:28 (First version)_
 1. [Syria's government says a U.S.-led military coalition airstrike on a Syrian Army camp in the eastern Deir ez-Zor Governorate, killed three Syrian soldiers and wounded 13 others. A senior U.S. military official denied responsibility for the airstrike and said that the U.S. is certain it was a Russian airstrike. ](/news/2015/12/7/syria-s-government-says-a-u-s-led-military-coalition-airstrike-on-a-syrian-army-camp-in-the-eastern-deir-ez-zor-governorate-killed-three-s.md) _(Current version)_
 
 ### Related:

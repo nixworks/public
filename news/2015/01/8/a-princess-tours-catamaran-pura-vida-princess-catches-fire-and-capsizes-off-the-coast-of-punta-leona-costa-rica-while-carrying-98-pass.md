@@ -17,7 +17,7 @@ According to an official government report, there were 106 people rescued, inclu
 
 ### Changes:
 
-1. [A Princess Tours catamaran, ''Pura Vida Princess'', catches fire and capsizes off the coast of Punta Leona, Costa Rica, while carrying 98 passengers and ten crew; the Costa Rican Red Cross confirms that three are dead. ](/news/2015/01/8/a-princess-tours-catamaran-pura-vida-princess-catches-fire-and-capsizes-off-the-coast-of-punta-leona-costa-rica-while-carrying-98-pa.md) _2017-08-25 03:41:27 (First version)_
+1. [A Princess Tours catamaran, ''Pura Vida Princess'', catches fire and capsizes off the coast of Punta Leona, Costa Rica, while carrying 98 passengers and ten crew; the Costa Rican Red Cross confirms that three are dead. ](/news/2015/01/8/a-princess-tours-catamaran-pura-vida-princess-catches-fire-and-capsizes-off-the-coast-of-punta-leona-costa-rica-while-carrying-98-pa.md) _2018-02-06 13:49:26 (First version)_
 1. [A Princess Tours catamaran, "Pura Vida Princess", catches fire and capsizes off the coast of Punta Leona, Costa Rica, while carrying 98 passengers and ten crew; the Costa Rican Red Cross confirms that three are dead. ](/news/2015/01/8/a-princess-tours-catamaran-pura-vida-princess-catches-fire-and-capsizes-off-the-coast-of-punta-leona-costa-rica-while-carrying-98-pass.md) _(Current version)_
 
 ### Related:

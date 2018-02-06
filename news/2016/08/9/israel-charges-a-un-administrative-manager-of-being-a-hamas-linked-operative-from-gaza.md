@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-be
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israeli-palestinian-conflict-israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _2017-08-27 03:46:38 (First version)_
+1. [Israeli-Palestinian conflict: Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israeli-palestinian-conflict-israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _2018-02-06 13:49:29 (First version)_
 1. [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/2/gimps-has-confirmed-that-2-20996011-1-is-prime-a
 
 ### Changes:
 
-1. [ GIMPS has confirmed that 2 20996011 -1 is prime. At 6320430 decimal digits, it is easily the largest known prime number. 2 20996011 -1 is the 40th known Mersenne prime and the 6th Mersenne prime discovered by GIMPS. [http:--mersenne.org-primes-20996011.htm]](/news/2003/12/2/gimps-has-confirmed-that-220996011-1-is-prime-at-6320430-decimal-digits-it-is-easily-the-largest-known-prime-number-220996011-1-is-the-4.md) _2017-10-02 03:16:06 (First version)_
+1. [ GIMPS has confirmed that 2 20996011 -1 is prime. At 6320430 decimal digits, it is easily the largest known prime number. 2 20996011 -1 is the 40th known Mersenne prime and the 6th Mersenne prime discovered by GIMPS. [http:--mersenne.org-primes-20996011.htm]](/news/2003/12/2/gimps-has-confirmed-that-220996011-1-is-prime-at-6320430-decimal-digits-it-is-easily-the-largest-known-prime-number-220996011-1-is-the-4.md) _2018-02-06 13:49:15 (First version)_
 1. [ GIMPS has confirmed that 2 20996011 -1 is prime. At 6320430 decimal digits, it is easily the largest known prime number. 2 20996011 -1 is the 40th known Mersenne prime and the 6th Mersenne prime discovered by GIMPS. [http:--mersenne.org-primes-20996011.htm]](/news/2003/12/2/gimps-has-confirmed-that-2-20996011-1-is-prime-at-6320430-decimal-digits-it-is-easily-the-largest-known-prime-number-2-20996011-1-is-t.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ The last of the 33 miners trapped deep underground in northern Chile for more th
 
 ### Changes:
 
-1. [2010 Copiapo mining accident rescue:Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-pchile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md) _2017-08-25 03:30:29 (First version)_
-2. [2010 Copiapo mining accident rescue:: Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md) _2017-08-27 03:30:34 (Update)_
+1. [2010 Copiapo mining accident rescue:Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-pchile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Copiapo mining accident rescue:: Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md) _2018-02-06 13:49:20 (Update)_
 2. [Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining-accident.md) _(Current version)_
 
 ### Related:

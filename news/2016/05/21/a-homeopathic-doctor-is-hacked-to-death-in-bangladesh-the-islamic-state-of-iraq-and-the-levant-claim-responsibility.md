@@ -17,7 +17,7 @@ Machete-wielding assailants hacked to death a village doctor and wounded a unive
 
 ### Changes:
 
-1. [ Attacks on secularists in Bangladesh: A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/attacks-on-secularists-in-bangladesh-a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim.md) _2017-08-27 03:46:05 (First version)_
+1. [ Attacks on secularists in Bangladesh: A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/attacks-on-secularists-in-bangladesh-a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim.md) _2018-02-06 13:49:29 (First version)_
 1. [ A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.md) _(Current version)_
 
 ### Related:

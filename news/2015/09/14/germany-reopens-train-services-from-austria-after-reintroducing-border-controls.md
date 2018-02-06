@@ -17,7 +17,7 @@ Rail services have resumed between Austria and Germany after all trains were sto
 
 ### Changes:
 
-1. [European migrant crisis: Germany reopens train services from Austria after reintroducing border controls. ](/news/2015/09/14/european-migrant-crisis-germany-reopens-train-services-from-austria-after-reintroducing-border-controls.md) _2017-08-27 03:43:03 (First version)_
+1. [European migrant crisis: Germany reopens train services from Austria after reintroducing border controls. ](/news/2015/09/14/european-migrant-crisis-germany-reopens-train-services-from-austria-after-reintroducing-border-controls.md) _2018-02-06 13:49:27 (First version)_
 1. [Germany reopens train services from Austria after reintroducing border controls. ](/news/2015/09/14/germany-reopens-train-services-from-austria-after-reintroducing-border-controls.md) _(Current version)_
 
 ### Related:

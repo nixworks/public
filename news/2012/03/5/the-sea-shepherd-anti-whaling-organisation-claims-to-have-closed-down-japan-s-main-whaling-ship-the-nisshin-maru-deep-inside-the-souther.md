@@ -16,7 +16,7 @@ After a marathon pursuit, Sea Shepherd says it has found and shut down Japan&#03
 
 ### Changes:
 
-1. [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the ''Nisshin Maru'', deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-south.md) _2017-08-25 03:35:12 (First version)_
+1. [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the ''Nisshin Maru'', deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-south.md) _2018-02-06 13:49:23 (First version)_
 1. [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the "Nisshin Maru", deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-souther.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Pope Francis celebrates Mass in the Philippine city of Tacloban, devastated by a
 
 ### Changes:
 
-1. [2015 Papal visit to Sri Lanka and the Philippines: Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/2015-papal-visit-to-sri-lanka-and-the-philippines-pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-aud.md) _2017-08-27 03:41:48 (First version)_
+1. [2015 Papal visit to Sri Lanka and the Philippines: Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/2015-papal-visit-to-sri-lanka-and-the-philippines-pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-aud.md) _2018-02-06 13:49:26 (First version)_
 1. [Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-audience-of-half-a-million-people.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 
 ### Changes:
 
-1. [Islamic State: The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/islamic-state-the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md) _2017-08-27 03:41:57 (First version)_
+1. [Islamic State: The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/islamic-state-the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md) _(Current version)_
 
 ### Related:

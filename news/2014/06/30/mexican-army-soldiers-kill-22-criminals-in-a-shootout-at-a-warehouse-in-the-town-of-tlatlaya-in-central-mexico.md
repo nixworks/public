@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-sh
 
 ### Changes:
 
-1. [Mexican Drug War: Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-drug-war-mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _2017-08-27 03:40:55 (First version)_
+1. [Mexican Drug War: Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-drug-war-mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _2018-02-06 13:49:26 (First version)_
 1. [Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _(Current version)_
 
 ### Related:

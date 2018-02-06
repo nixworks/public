@@ -19,8 +19,8 @@ Vessel originally from Libya, loaded with arms reportedly destined for Syrian op
 
 ### Changes:
 
-1. [2011 Syrian uprising:Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-psyrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md) _2017-08-25 03:35:35 (First version)_
-2. [2011 Syrian uprising:: Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md) _2017-08-27 03:35:44 (Update)_
+1. [2011 Syrian uprising:: Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-psyrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md) _(Current version)_
 
 ### Related:

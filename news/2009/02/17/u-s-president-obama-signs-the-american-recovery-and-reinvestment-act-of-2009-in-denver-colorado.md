@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/17/u-s-president-obama-signs-the-american-recovery
 
 ### Changes:
 
-1. [ Late 2000s recession in the Americas: U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-p-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md) _2017-08-25 03:23:48 (First version)_
-2. [ Late 2000s recession in the Americas:: U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md) _2017-08-27 03:23:39 (Update)_
+1. [ Late 2000s recession in the Americas:: U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession in the Americas: U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-p-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md) _2018-02-06 13:49:18 (Update)_
 2. [ U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md) _(Current version)_
 
 ### Related:

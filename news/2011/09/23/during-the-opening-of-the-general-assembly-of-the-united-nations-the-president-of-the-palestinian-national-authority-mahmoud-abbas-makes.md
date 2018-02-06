@@ -18,7 +18,7 @@ The Middle East Quartet urges Israel and the Palestinians to resume peace talks 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/israeli-palestinian-conflict-during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national.md) _2017-08-27 03:34:21 (First version)_
+1. [Israeli-Palestinian conflict: During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/israeli-palestinian-conflict-during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national.md) _2018-02-06 13:49:22 (First version)_
 1. [During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national-authority-mahmoud-abbas-makes.md) _(Current version)_
 
 ### Related:

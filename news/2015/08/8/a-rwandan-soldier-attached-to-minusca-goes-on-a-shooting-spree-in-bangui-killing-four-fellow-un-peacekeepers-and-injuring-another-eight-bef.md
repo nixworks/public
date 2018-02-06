@@ -16,7 +16,7 @@ Soldier kills himself after shooting spree in Bangui’s Rwandan battalion headq
 
 ### Changes:
 
-1. [Civil war in the Central African Republic: A Rwandan soldier attached to MINUSCA goes on a shooting spree in Bangui, killing four fellow UN peacekeepers and injuring another eight before turning the gun on himself. ](/news/2015/08/8/civil-war-in-the-central-african-republic-a-rwandan-soldier-attached-to-minusca-goes-on-a-shooting-spree-in-bangui-killing-four-fellow-un.md) _2017-08-27 03:42:48 (First version)_
+1. [Civil war in the Central African Republic: A Rwandan soldier attached to MINUSCA goes on a shooting spree in Bangui, killing four fellow UN peacekeepers and injuring another eight before turning the gun on himself. ](/news/2015/08/8/civil-war-in-the-central-african-republic-a-rwandan-soldier-attached-to-minusca-goes-on-a-shooting-spree-in-bangui-killing-four-fellow-un.md) _2018-02-06 13:49:27 (First version)_
 1. [A Rwandan soldier attached to MINUSCA goes on a shooting spree in Bangui, killing four fellow UN peacekeepers and injuring another eight before turning the gun on himself. ](/news/2015/08/8/a-rwandan-soldier-attached-to-minusca-goes-on-a-shooting-spree-in-bangui-killing-four-fellow-un-peacekeepers-and-injuring-another-eight-bef.md) _(Current version)_
 
 ### Related:

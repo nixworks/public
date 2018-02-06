@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/21/two-rockets-fired-from-gaza-strip-land-in-sdero
 
 ### Changes:
 
-1. [Gaza-Israel conflict:Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/gazaaisrael-conflict-ptwo-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-day.md) _2017-08-25 03:37:56 (First version)_
-2. [Gaza-Israel conflict:: Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/gaza-israel-conflict-two-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-da.md) _2017-08-27 03:38:08 (Update)_
+1. [Gaza-Israel conflict:Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/gazaaisrael-conflict-ptwo-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-day.md) _2018-02-06 13:49:24 (First version)_
+2. [Gaza-Israel conflict:: Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/gaza-israel-conflict-two-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-da.md) _2018-02-06 13:49:24 (Update)_
 2. [Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/two-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-day-conflict-in-november-20.md) _(Current version)_
 
 ### Related:

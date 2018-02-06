@@ -16,7 +16,7 @@ The investigative arm of the U.S. Congress is launching a probe into the safety 
 
 ### Changes:
 
-1. [The U.S. Government Accountability Office starts a study into the--currently unregulated--length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-theacurrently-unregulatedalength-of-freight-trains.md) _2017-12-07 12:30:06 (First version)_
+1. [The U.S. Government Accountability Office starts a study into the--currently unregulated--length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-theacurrently-unregulatedalength-of-freight-trains.md) _2018-02-06 13:49:31 (First version)_
 1. [The U.S. Government Accountability Office starts a study into the (currently unregulated) length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-the-currently-unregulated-length-of-freight-trains.md) _(Current version)_
 
 ### Related:

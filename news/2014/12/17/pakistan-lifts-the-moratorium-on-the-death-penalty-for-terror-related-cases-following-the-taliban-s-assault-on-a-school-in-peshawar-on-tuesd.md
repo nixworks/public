@@ -16,7 +16,7 @@ Nawaz Sharif lifts moratorium in place since 2008 in response to Taliban atrocit
 
 ### Changes:
 
-1. [Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tues.md) _2017-08-25 03:41:21 (First version)_
+1. [Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tues.md) _2018-02-06 13:49:26 (First version)_
 1. [Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tuesd.md) _(Current version)_
 
 ### Related:

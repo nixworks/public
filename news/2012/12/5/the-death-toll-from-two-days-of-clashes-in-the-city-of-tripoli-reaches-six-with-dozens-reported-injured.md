@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/5/the-death-toll-from-two-days-of-clashes-in-the-c
 
 ### Changes:
 
-1. [2011-2012 conflict in Lebanon:The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011a2012-conflict-in-lebanon-pthe-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md) _2017-08-25 03:36:57 (First version)_
-2. [2011-2012 conflict in Lebanon:: The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011-2012-conflict-in-lebanon-the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md) _2017-08-27 03:37:07 (Update)_
+1. [2011-2012 conflict in Lebanon:The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011a2012-conflict-in-lebanon-pthe-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md) _2018-02-06 13:49:24 (First version)_
+2. [2011-2012 conflict in Lebanon:: The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011-2012-conflict-in-lebanon-the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Attacks by five suicide bombers on an Iraqi military base north of Baghdad on Su
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): The Islamic State of Iraq and the Levant claims responsibility for a suicide bomb attack on a Iraqi Army base (Camp Speicher, now known as Tikrit Air Academy), near the town of Tikrit, north of Baghdad, that killed at least 15 and injured 22. ](/news/2016/01/3/iraqi-civil-war-2014-present-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-a-suicide-bomb-attack-on-a-iraqi-army-b.md) _2017-08-27 03:44:34 (First version)_
+1. [Iraqi Civil War (2014-present): The Islamic State of Iraq and the Levant claims responsibility for a suicide bomb attack on a Iraqi Army base (Camp Speicher, now known as Tikrit Air Academy), near the town of Tikrit, north of Baghdad, that killed at least 15 and injured 22. ](/news/2016/01/3/iraqi-civil-war-2014-present-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-a-suicide-bomb-attack-on-a-iraqi-army-b.md) _2018-02-06 13:49:28 (First version)_
 1. [The Islamic State of Iraq and the Levant claims responsibility for a suicide bomb attack on a Iraqi Army base (Camp Speicher, now known as Tikrit Air Academy), near the town of Tikrit, north of Baghdad, that killed at least 15 and injured 22. ](/news/2016/01/3/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-a-suicide-bomb-attack-on-a-iraqi-army-base-camp-speicher-now-known-as-t.md) _(Current version)_
 
 ### Related:

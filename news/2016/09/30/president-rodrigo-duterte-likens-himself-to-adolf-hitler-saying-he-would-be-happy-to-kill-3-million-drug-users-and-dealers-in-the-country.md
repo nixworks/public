@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/30/president-rodrigo-duterte-likens-himself-to-ado
 
 ### Changes:
 
-1. [Philippines and the United Nations: President Rodrigo Duterte likens himself to Adolf Hitler saying he would "be happy" to kill 3 million drug users and dealers in the country. United Nations adviser Adama Dieng cautions Duterte that his use of language could lead to "crimes against humanity". ](/news/2016/09/30/philippines-and-the-united-nations-president-rodrigo-duterte-likens-himself-to-adolf-hitler-saying-he-would-be-happy-to-kill-3-million-dr.md) _2017-08-27 03:46:55 (First version)_
+1. [Philippines and the United Nations: President Rodrigo Duterte likens himself to Adolf Hitler saying he would "be happy" to kill 3 million drug users and dealers in the country. United Nations adviser Adama Dieng cautions Duterte that his use of language could lead to "crimes against humanity". ](/news/2016/09/30/philippines-and-the-united-nations-president-rodrigo-duterte-likens-himself-to-adolf-hitler-saying-he-would-be-happy-to-kill-3-million-dr.md) _2018-02-06 13:49:29 (First version)_
 1. [President Rodrigo Duterte likens himself to Adolf Hitler saying he would "be happy" to kill 3 million drug users and dealers in the country. United Nations adviser Adama Dieng cautions Duterte that his use of language could lead to "crimes against humanity". ](/news/2016/09/30/president-rodrigo-duterte-likens-himself-to-adolf-hitler-saying-he-would-be-happy-to-kill-3-million-drug-users-and-dealers-in-the-country.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ _Context: Egypt, Cairo_
 
 ##### Florence Green
 ### [Florence Green, the last known veteran from World War I, dies at the age of 110 in the United Kingdom. ](/news/2012/02/4/florence-green-the-last-known-veteran-from-world-war-i-dies-at-the-age-of-110-in-the-united-kingdom.md)
-_Context: First World War, Florence Green, British_
+_Context: United Kingdom, Florence Green, First World War_
 
 ##### Australia
 ### [Tens of thousands of people are stranded by floods in the Australian states of New South Wales and Queensland. ](/news/2012/02/4/tens-of-thousands-of-people-are-stranded-by-floods-in-the-australian-states-of-new-south-wales-and-queensland.md)
@@ -29,19 +29,19 @@ _Context: NSW, Queensland, Australia_
 
 ##### Mike deGruy
 ### [Filmmakers Mike deGruy of Santa Barbara, California and Andrew Wight of Victoria die in a helicopter crash in the Australian town of Berry, New South Wales. ](/news/2012/02/4/filmmakers-mike-degruy-of-santa-barbara-california-and-andrew-wight-of-victoria-die-in-a-helicopter-crash-in-the-australian-town-of-berry.md)
-_Context: Mike deGruy, Andrew Wight, Berry, NSW, Victoria, Australian, Santa Barbara, California_
+_Context: NSW, Andrew Wight, Australian, Berry, Victoria, Santa Barbara, California, Mike deGruy_
 
 ##### Charlie White
 ### [Charlie White, the Secretary of State of the US state of Indiana, is convicted of multiple voter fraud related offences. ](/news/2012/02/4/charlie-white-the-secretary-of-state-of-the-us-state-of-indiana-is-convicted-of-multiple-voter-fraud-related-offences.md)
-_Context: voter fraud, Charlie White, Indiana, Secretary of State_
+_Context: Indiana, Secretary of State, voter fraud, Charlie White_
 
 ##### Tibet
 ### [Three more Tibetan protesters set themselves on fire in Sichuan, China. ](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.md)
-_Context: Tibet, China, Sichuan_
+_Context: China, Sichuan, Tibet_
 
 ##### rally
 ### [2011-2012 Russian protests: Over 100,000 people protest for and against Russian Prime Minister Vladimir Putin in Moscow. ](/news/2012/02/4/2011a2012-russian-protests-over-100-000-people-protest-for-and-against-russian-prime-minister-vladimir-putin-in-moscow.md)
-_Context: Russia, Vladimir Putin, Moscow, rally_
+_Context: Vladimir Putin, rally, Russia, Moscow_
 
 ##### Julius Malema
 ### [Julius Malema, formerly of the African National Congress Youth League, loses an appeal against a decision by South Africa's ruling African National Congress party to suspend him. ](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.md)
@@ -49,7 +49,7 @@ _Context: South Africa, African National Congress, Julius Malema, ANC Youth Leag
 
 ##### Republican
 ### [Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.md)
-_Context: Nevada, Republican, Mitt Romney, party caucuses_
+_Context: Republican, Mitt Romney, Nevada, party caucuses_
 
 ## [Previous Day...](/news/2012/02/3/index.md)
 

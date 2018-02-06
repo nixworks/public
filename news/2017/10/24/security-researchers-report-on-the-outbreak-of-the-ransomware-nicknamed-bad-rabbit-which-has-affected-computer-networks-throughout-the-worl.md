@@ -17,7 +17,7 @@ Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly amon
 
 ### Changes:
 
-1. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks in Russia, Ukraine, and has been detected throughout the world. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-in-russia-ukraine.md) _2017-10-25 23:30:05 (First version)_
+1. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks in Russia, Ukraine, and has been detected throughout the world. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-in-russia-ukraine.md) _2018-02-06 13:49:31 (First version)_
 1. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md) _(Current version)_
 
 ### Related:

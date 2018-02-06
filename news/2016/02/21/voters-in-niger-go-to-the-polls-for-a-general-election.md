@@ -16,7 +16,7 @@ The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x2
 
 ### Changes:
 
-1. [Nigerien general election, 2016: Voters in Niger go to the polls for a general election. ](/news/2016/02/21/nigerien-general-election-2016-voters-in-niger-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:44:58 (First version)_
+1. [Nigerien general election, 2016: Voters in Niger go to the polls for a general election. ](/news/2016/02/21/nigerien-general-election-2016-voters-in-niger-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Niger go to the polls for a general election. ](/news/2016/02/21/voters-in-niger-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

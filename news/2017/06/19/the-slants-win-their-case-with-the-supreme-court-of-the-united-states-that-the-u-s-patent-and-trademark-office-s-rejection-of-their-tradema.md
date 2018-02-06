@@ -16,7 +16,7 @@ The case could have broad impact on how the First Amendment is applied in other 
 
 ### Changes:
 
-1. [Freedom of speech in the United States: The Slants win their case with the Supreme Court of the United States that the U.S. Patent and Trademark Office's rejection of their trademark under the Lanham Act due to their name being "disparaging" is an unconstitutional violation of their free speech rights under the First Amendment. ](/news/2017/06/19/freedom-of-speech-in-the-united-states-the-slants-win-their-case-with-the-supreme-court-of-the-united-states-that-the-u-s-patent-and-trade.md) _2017-08-27 03:48:31 (First version)_
+1. [Freedom of speech in the United States: The Slants win their case with the Supreme Court of the United States that the U.S. Patent and Trademark Office's rejection of their trademark under the Lanham Act due to their name being "disparaging" is an unconstitutional violation of their free speech rights under the First Amendment. ](/news/2017/06/19/freedom-of-speech-in-the-united-states-the-slants-win-their-case-with-the-supreme-court-of-the-united-states-that-the-u-s-patent-and-trade.md) _2018-02-06 13:49:30 (First version)_
 1. [The Slants win their case with the Supreme Court of the United States that the U.S. Patent and Trademark Office's rejection of their trademark under the Lanham Act due to their name being "disparaging" is an unconstitutional violation of their free speech rights under the First Amendment. ](/news/2017/06/19/the-slants-win-their-case-with-the-supreme-court-of-the-united-states-that-the-u-s-patent-and-trademark-office-s-rejection-of-their-tradema.md) _(Current version)_
 
 ### Related:

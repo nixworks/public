@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/14/the-president-of-nigeria-goodluck-jonathan-decl
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-pthe-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md) _2017-08-25 03:38:39 (First version)_
-2. [Nigerian Sharia conflict:: The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md) _2017-08-27 03:38:53 (Update)_
+1. [Nigerian Sharia conflict:: The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-pthe-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md) _2018-02-06 13:49:24 (Update)_
 2. [The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an-islamist-insurgency.md) _(Current version)_
 
 ### Related:

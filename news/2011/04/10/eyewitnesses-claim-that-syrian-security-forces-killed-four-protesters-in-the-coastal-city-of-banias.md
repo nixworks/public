@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/04/10/eyewitnesses-claim-that-syrian-security-forces-
 
 ### Changes:
 
-1. [2011 Syrian protests: Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. ](/news/2011/04/10/2011-syrian-protests-eyewitnesses-claim-that-syrian-security-forces-killed-four-protesters-in-the-coastal-city-of-banias.md) _2017-08-27 03:32:55 (First version)_
+1. [2011 Syrian protests: Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. ](/news/2011/04/10/2011-syrian-protests-eyewitnesses-claim-that-syrian-security-forces-killed-four-protesters-in-the-coastal-city-of-banias.md) _2018-02-06 13:49:22 (First version)_
 1. [Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. ](/news/2011/04/10/eyewitnesses-claim-that-syrian-security-forces-killed-four-protesters-in-the-coastal-city-of-banias.md) _(Current version)_
 
 ### Related:

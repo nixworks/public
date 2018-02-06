@@ -16,7 +16,7 @@ Amid a tense and dramatic confirmation process for President Donald Trump&#039;s
 
 ### Changes:
 
-1. [Formation of Donald Trump's cabinet: The United States Senate, in a 56-43 vote, confirms Rex Tillerson's nomination as United States Secretary of State. ](/news/2017/02/1/formation-of-donald-trump-s-cabinet-the-united-states-senate-in-a-56-43-vote-confirms-rex-tillerson-s-nomination-as-united-states-secre.md) _2017-08-27 03:47:44 (First version)_
+1. [Formation of Donald Trump's cabinet: The United States Senate, in a 56-43 vote, confirms Rex Tillerson's nomination as United States Secretary of State. ](/news/2017/02/1/formation-of-donald-trump-s-cabinet-the-united-states-senate-in-a-56-43-vote-confirms-rex-tillerson-s-nomination-as-united-states-secre.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Senate, in a 56-43 vote, confirms Rex Tillerson's nomination as United States Secretary of State. ](/news/2017/02/1/the-united-states-senate-in-a-56a43-vote-confirms-rex-tillerson-s-nomination-as-united-states-secretary-of-state.md) _(Current version)_
 
 ### Related:

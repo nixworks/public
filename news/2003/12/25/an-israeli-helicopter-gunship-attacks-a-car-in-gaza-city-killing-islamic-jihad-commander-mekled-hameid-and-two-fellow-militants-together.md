@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/12/25/an-israeli-helicopter-gunship-attacks-a-car-in-
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: An Israeli helicopter gunship attacks a car in Gaza City, killing Islamic Jihad commander Mekled Hameid and two fellow militants, together with two bystanders. ](/news/2003/12/25/israeli-palestinian-conflict-p-an-israeli-helicopter-gunship-attacks-a-car-in-gaza-city-killing-islamic-jihad-commander-mekled-hameid-and.md) _2017-08-25 03:15:26 (First version)_
-2. [ Israeli-Palestinian Conflict:: An Israeli helicopter gunship attacks a car in Gaza City, killing Islamic Jihad commander Mekled Hameid and two fellow militants, together with two bystanders. ](/news/2003/12/25/israeli-palestinian-conflict-an-israeli-helicopter-gunship-attacks-a-car-in-gaza-city-killing-islamic-jihad-commander-mekled-hameid-and.md) _2017-08-27 03:15:28 (Update)_
+1. [ Israeli-Palestinian Conflict: An Israeli helicopter gunship attacks a car in Gaza City, killing Islamic Jihad commander Mekled Hameid and two fellow militants, together with two bystanders. ](/news/2003/12/25/israeli-palestinian-conflict-p-an-israeli-helicopter-gunship-attacks-a-car-in-gaza-city-killing-islamic-jihad-commander-mekled-hameid-and.md) _2018-02-06 13:49:15 (First version)_
+2. [ Israeli-Palestinian Conflict:: An Israeli helicopter gunship attacks a car in Gaza City, killing Islamic Jihad commander Mekled Hameid and two fellow militants, together with two bystanders. ](/news/2003/12/25/israeli-palestinian-conflict-an-israeli-helicopter-gunship-attacks-a-car-in-gaza-city-killing-islamic-jihad-commander-mekled-hameid-and.md) _2018-02-06 13:49:15 (Update)_
 2. [ An Israeli helicopter gunship attacks a car in Gaza City, killing Islamic Jihad commander Mekled Hameid and two fellow militants, together with two bystanders. ](/news/2003/12/25/an-israeli-helicopter-gunship-attacks-a-car-in-gaza-city-killing-islamic-jihad-commander-mekled-hameid-and-two-fellow-militants-together.md) _(Current version)_
 
 ### Related:

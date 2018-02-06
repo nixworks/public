@@ -16,8 +16,8 @@ Bomb attacks across Iraq kill at least 46 people, police and medical sources say
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-bomb-attacks-kill-41-people-in-iraq.md) _2017-08-25 03:39:12 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bomb-attacks-kill-41-people-in-iraq.md) _2017-08-27 03:39:28 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-bomb-attacks-kill-41-people-in-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bomb-attacks-kill-41-people-in-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/a-wave-of-bomb-attacks-kill-41-people-in-iraq.md) _(Current version)_
 
 ### Related:

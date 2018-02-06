@@ -16,7 +16,7 @@ Regulators issued the company a $1.35 billion fine for failing to comply with a 
 
 ### Changes:
 
-1. [ Microsoft is fined a record -899 million by the EU anti-trust commission. ](/news/2008/02/27/microsoft-is-fined-a-record-899-million-by-the-eu-anti-trust-commission.md) _2017-08-27 03:21:43 (First version)_
+1. [ Microsoft is fined a record -899 million by the EU anti-trust commission. ](/news/2008/02/27/microsoft-is-fined-a-record-899-million-by-the-eu-anti-trust-commission.md) _2018-02-06 13:49:18 (First version)_
 1. [ Microsoft is fined a record EUR899 million by the EU anti-trust commission. ](/news/2008/02/27/microsoft-is-fined-a-record-a-899-million-by-the-eu-anti-trust-commission.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-op
 
 ### Changes:
 
-1. [Israel plans to shut down all of Al Jazeera's operations in the country, citing the station's support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-citing-the-station-s-support-of-terrorism.md) _2017-08-06 20:30:05 (First version)_
-2. [Al Jazeera controversies and criticism: Israel plans to shut down all of Al Jazeera's operations in the country, alleging support of terrorism. ](/news/2017/08/6/al-jazeera-controversies-and-criticism-israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-alleging-support-of-terrori.md) _2017-08-27 03:48:46 (Update)_
+1. [Israel plans to shut down all of Al Jazeera's operations in the country, citing the station's support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-citing-the-station-s-support-of-terrorism.md) _2018-02-06 13:49:31 (First version)_
+2. [Al Jazeera controversies and criticism: Israel plans to shut down all of Al Jazeera's operations in the country, alleging support of terrorism. ](/news/2017/08/6/al-jazeera-controversies-and-criticism-israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-alleging-support-of-terrori.md) _2018-02-06 13:49:31 (Update)_
 2. [Israel plans to shut down all of Al Jazeera's operations in the country, alleging support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-alleging-support-of-terrorism.md) _(Current version)_
 
 ### Related:

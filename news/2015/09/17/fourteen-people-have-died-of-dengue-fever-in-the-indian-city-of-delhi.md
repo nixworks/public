@@ -16,7 +16,7 @@ A three-year-old girl has died of dengue, taking the total number of dead to 15 
 
 ### Changes:
 
-1. [2015 Dengue fever outbreaks: Fourteen people have died of dengue fever in the Indian city of Delhi. ](/news/2015/09/17/2015-dengue-fever-outbreaks-fourteen-people-have-died-of-dengue-fever-in-the-indian-city-of-delhi.md) _2017-08-27 03:43:04 (First version)_
+1. [2015 Dengue fever outbreaks: Fourteen people have died of dengue fever in the Indian city of Delhi. ](/news/2015/09/17/2015-dengue-fever-outbreaks-fourteen-people-have-died-of-dengue-fever-in-the-indian-city-of-delhi.md) _2018-02-06 13:49:27 (First version)_
 1. [Fourteen people have died of dengue fever in the Indian city of Delhi. ](/news/2015/09/17/fourteen-people-have-died-of-dengue-fever-in-the-indian-city-of-delhi.md) _(Current version)_
 
 ### Related:

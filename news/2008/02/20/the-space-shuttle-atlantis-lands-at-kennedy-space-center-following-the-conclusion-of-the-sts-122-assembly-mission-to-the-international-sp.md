@@ -16,7 +16,7 @@ NASA.gov brings you the latest images, videos and news from America&#039;s space
 
 ### Changes:
 
-1. [ The Space Shuttle ''Atlantis'' lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international.md) _2017-08-25 03:21:47 (First version)_
+1. [ The Space Shuttle ''Atlantis'' lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Space Shuttle "Atlantis" lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international-sp.md) _(Current version)_
 
 ### Related:

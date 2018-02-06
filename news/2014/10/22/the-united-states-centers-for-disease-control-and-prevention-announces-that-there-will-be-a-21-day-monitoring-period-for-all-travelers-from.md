@@ -16,7 +16,7 @@ The Centers for Disease Control and Prevention on Wednesday announced that all t
 
 ### Changes:
 
-1. [Ebola virus disease in the United States: The United States Centers for Disease Control and Prevention announces that there will be a 21-day monitoring period for all travelers from Liberia, Sierra Leone and Guinea. ](/news/2014/10/22/ebola-virus-disease-in-the-united-states-the-united-states-centers-for-disease-control-and-prevention-announces-that-there-will-be-a-21-day.md) _2017-08-27 03:41:25 (First version)_
+1. [Ebola virus disease in the United States: The United States Centers for Disease Control and Prevention announces that there will be a 21-day monitoring period for all travelers from Liberia, Sierra Leone and Guinea. ](/news/2014/10/22/ebola-virus-disease-in-the-united-states-the-united-states-centers-for-disease-control-and-prevention-announces-that-there-will-be-a-21-day.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States Centers for Disease Control and Prevention announces that there will be a 21-day monitoring period for all travelers from Liberia, Sierra Leone and Guinea. ](/news/2014/10/22/the-united-states-centers-for-disease-control-and-prevention-announces-that-there-will-be-a-21-day-monitoring-period-for-all-travelers-from.md) _(Current version)_
 
 ### Related:

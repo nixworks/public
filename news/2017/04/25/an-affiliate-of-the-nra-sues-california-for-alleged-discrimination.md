@@ -16,7 +16,7 @@ The national gun lobbying group on Monday filed a lawsuit aimed at overturning a
 
 ### Changes:
 
-1. [Gun politics in the United States: An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/gun-politics-in-the-united-states-an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _2017-08-27 03:48:14 (First version)_
+1. [Gun politics in the United States: An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/gun-politics-in-the-united-states-an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _2018-02-06 13:49:30 (First version)_
 1. [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _(Current version)_
 
 ### Related:

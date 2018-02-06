@@ -16,7 +16,7 @@ Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indi
 
 ### Changes:
 
-1. [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md) _2018-01-18 00:30:05 (First version)_
+1. [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md) _2018-02-06 13:49:31 (First version)_
 1. [The nephew of assassinated Egyptian president Mohamed Anwar al-Sadat announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/the-nephew-of-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marchas-presidential-election-blam.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ Charlie Gard has died following his near year-long battle with a rare genetic di
 
 ##### North Korea's nuclear program
 ### [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md)
-_Context: Sea of Japan, 2017 North Korean missile tests, South Korea, North Korea's nuclear program, Japan, United States_
+_Context: Sea of Japan, United States, 2017 North Korean missile tests, South Korea, North Korea's nuclear program, Japan_
 
 ##### Iran-United States relations
 ### [The United States Treasury Department imposes sanctions on six Shahid Hemmat Industrial Group satellite companies following a recent Iranian rocket launch that the U.S. says breached United Nations Security Council Resolution 2231. ](/news/2017/07/28/the-united-states-treasury-department-imposes-sanctions-on-six-shahid-hemmat-industrial-group-satellite-companies-following-a-recent-iranian.md)

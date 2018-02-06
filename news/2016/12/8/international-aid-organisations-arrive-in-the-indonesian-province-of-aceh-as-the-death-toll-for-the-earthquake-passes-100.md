@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/8/international-aid-organisations-arrive-in-the-in
 
 ### Changes:
 
-1. [2016 Aceh earthquake: International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/2016-aceh-earthquake-international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes.md) _2017-08-27 03:47:24 (First version)_
+1. [2016 Aceh earthquake: International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/2016-aceh-earthquake-international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes.md) _2018-02-06 13:49:30 (First version)_
 1. [International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes-100.md) _(Current version)_
 
 ### Related:

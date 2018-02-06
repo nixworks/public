@@ -16,7 +16,7 @@ The police were guarding road workers in Chhattisgarh when they came under attac
 
 ### Changes:
 
-1. [2017 Sukma attack: Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/2017-sukma-attack-suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhatt.md) _2017-08-27 03:48:14 (First version)_
+1. [2017 Sukma attack: Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/2017-sukma-attack-suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhatt.md) _2018-02-06 13:49:30 (First version)_
 1. [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md) _(Current version)_
 
 ### Related:

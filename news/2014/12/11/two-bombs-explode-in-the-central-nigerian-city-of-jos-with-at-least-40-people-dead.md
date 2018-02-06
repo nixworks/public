@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/11/two-bombs-explode-in-the-central-nigerian-city-
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Two bombs explode in the central Nigerian city of Jos with at least 40 people dead. ](/news/2014/12/11/islamist-insurgency-in-nigeria-ptwo-bombs-explode-in-the-central-nigerian-city-of-jos-with-at-least-40-people-dead.md) _2017-08-25 03:41:19 (First version)_
-2. [Islamist insurgency in Nigeria:: Two bombs explode in the central Nigerian city of Jos with at least 40 people dead. ](/news/2014/12/11/islamist-insurgency-in-nigeria-two-bombs-explode-in-the-central-nigerian-city-of-jos-with-at-least-40-people-dead.md) _2017-08-27 03:41:37 (Update)_
+1. [Islamist insurgency in Nigeria:: Two bombs explode in the central Nigerian city of Jos with at least 40 people dead. ](/news/2014/12/11/islamist-insurgency-in-nigeria-two-bombs-explode-in-the-central-nigerian-city-of-jos-with-at-least-40-people-dead.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:Two bombs explode in the central Nigerian city of Jos with at least 40 people dead. ](/news/2014/12/11/islamist-insurgency-in-nigeria-ptwo-bombs-explode-in-the-central-nigerian-city-of-jos-with-at-least-40-people-dead.md) _2018-02-06 13:49:26 (Update)_
 2. [Two bombs explode in the central Nigerian city of Jos with at least 40 people dead. ](/news/2014/12/11/two-bombs-explode-in-the-central-nigerian-city-of-jos-with-at-least-40-people-dead.md) _(Current version)_
 
 ### Related:

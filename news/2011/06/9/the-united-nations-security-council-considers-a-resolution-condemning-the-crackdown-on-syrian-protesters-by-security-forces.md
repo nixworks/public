@@ -18,9 +18,9 @@ Video emerges appearing to show body of Syrian boy killed in crackdown, as Russi
 
 ### Changes:
 
-1. [2011 Syrian uprising: The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-pthe-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md) _2017-05-25 03:34:44 (First version)_
-2. [2011 Syrian uprising:The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-pthe-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security-f.md) _2017-08-25 03:33:26 (Update)_
-3. [2011 Syrian uprising:: The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-the-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md) _2017-08-27 03:33:34 (Update)_
+1. [2011 Syrian uprising:: The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-the-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising: The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-pthe-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md) _2018-02-06 13:49:22 (Update)_
+3. [2011 Syrian uprising:The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-pthe-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security-f.md) _2018-02-06 13:49:22 (Update)_
 3. [The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/the-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security-forces.md) _(Current version)_
 
 ### Related:

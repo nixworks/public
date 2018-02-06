@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Martin Kobler, United Nations envoy to Libya, announces the country's two rival parliaments agreement to set a target date of Dec. 16 to sign a U.N.-sponsored agreement on forming a national unity government. ](/news/2015/12/11/libyan-civil-war-2014-present-martin-kobler-united-nations-envoy-to-libya-announces-the-country-s-two-rival-parliaments-agreement-to.md) _2017-08-27 03:44:19 (First version)_
+1. [Libyan Civil War (2014-present): Martin Kobler, United Nations envoy to Libya, announces the country's two rival parliaments agreement to set a target date of Dec. 16 to sign a U.N.-sponsored agreement on forming a national unity government. ](/news/2015/12/11/libyan-civil-war-2014-present-martin-kobler-united-nations-envoy-to-libya-announces-the-country-s-two-rival-parliaments-agreement-to.md) _2018-02-06 13:49:28 (First version)_
 1. [Martin Kobler, United Nations envoy to Libya, announces the country's two rival parliaments agreement to set a target date of Dec. 16 to sign a U.N.-sponsored agreement on forming a national unity government. ](/news/2015/12/11/martin-kobler-united-nations-envoy-to-libya-announces-the-country-s-two-rival-parliaments-agreement-to-set-a-target-date-of-dec-16-to-sig.md) _(Current version)_
 
 ### Related:

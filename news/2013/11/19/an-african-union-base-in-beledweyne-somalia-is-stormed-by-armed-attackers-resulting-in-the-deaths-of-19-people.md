@@ -16,8 +16,8 @@ At least 19 people are killed in an al-Shabab attack on an African Union base in
 
 ### Changes:
 
-1. [War in Somalia (2009-present):An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/war-in-somalia-2009apresent-pan-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19.md) _2017-08-25 03:39:33 (First version)_
-2. [War in Somalia (2009-present):: An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/war-in-somalia-2009-present-an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19.md) _2017-08-27 03:39:51 (Update)_
+1. [War in Somalia (2009-present):An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/war-in-somalia-2009apresent-pan-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/war-in-somalia-2009-present-an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19.md) _2018-02-06 13:49:25 (Update)_
 2. [An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19-people.md) _(Current version)_
 
 ### Related:

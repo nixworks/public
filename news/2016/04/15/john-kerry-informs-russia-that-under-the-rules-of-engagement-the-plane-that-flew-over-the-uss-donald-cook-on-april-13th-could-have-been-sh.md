@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/04/15/john-kerry-informs-russia-that-under-the-rules-
 
 ### Changes:
 
-1. [John Kerry informs Russia that under the rules of engagement the plane that flew over the ''USS Donald Cook'' on April 13th could have been shot down. ](/news/2016/04/15/john-kerry-informs-russia-that-under-the-rules-of-engagement-the-plane-that-flew-over-the-uss-donald-cook-on-april-13th-could-have-been.md) _2017-08-25 03:45:16 (First version)_
-2. [Russia-United States relations: John Kerry informs Russia that under the rules of engagement the plane that flew over the "USS Donald Cook" on April 13th could have been shot down. ](/news/2016/04/15/russia-united-states-relations-john-kerry-informs-russia-that-under-the-rules-of-engagement-the-plane-that-flew-over-the-uss-donald-cook.md) _2017-08-27 03:45:38 (Update)_
+1. [Russia-United States relations: John Kerry informs Russia that under the rules of engagement the plane that flew over the "USS Donald Cook" on April 13th could have been shot down. ](/news/2016/04/15/russia-united-states-relations-john-kerry-informs-russia-that-under-the-rules-of-engagement-the-plane-that-flew-over-the-uss-donald-cook.md) _2018-02-06 13:49:28 (First version)_
+2. [John Kerry informs Russia that under the rules of engagement the plane that flew over the ''USS Donald Cook'' on April 13th could have been shot down. ](/news/2016/04/15/john-kerry-informs-russia-that-under-the-rules-of-engagement-the-plane-that-flew-over-the-uss-donald-cook-on-april-13th-could-have-been.md) _2018-02-06 13:49:28 (Update)_
 2. [John Kerry informs Russia that under the rules of engagement the plane that flew over the "USS Donald Cook" on April 13th could have been shot down. ](/news/2016/04/15/john-kerry-informs-russia-that-under-the-rules-of-engagement-the-plane-that-flew-over-the-uss-donald-cook-on-april-13th-could-have-been-sh.md) _(Current version)_
 
 ### Related:

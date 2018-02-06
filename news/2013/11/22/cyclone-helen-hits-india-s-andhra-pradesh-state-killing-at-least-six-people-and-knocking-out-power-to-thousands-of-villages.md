@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/22/cyclone-helen-hits-india-s-andhra-pradesh-state
 
 ### Changes:
 
-1. [2013 North Indian Ocean cyclone season:Cyclone Helen hits India's Andhra Pradesh state killing at least six people and knocking out power to thousands of villages. ](/news/2013/11/22/2013-north-indian-ocean-cyclone-season-pcyclone-helen-hits-india-s-andhra-pradesh-state-killing-at-least-six-people-and-knocking-out-power-t.md) _2017-08-25 03:39:34 (First version)_
-2. [2013 North Indian Ocean cyclone season:: Cyclone Helen hits India's Andhra Pradesh state killing at least six people and knocking out power to thousands of villages. ](/news/2013/11/22/2013-north-indian-ocean-cyclone-season-cyclone-helen-hits-india-s-andhra-pradesh-state-killing-at-least-six-people-and-knocking-out-power.md) _2017-08-27 03:39:52 (Update)_
+1. [2013 North Indian Ocean cyclone season:Cyclone Helen hits India's Andhra Pradesh state killing at least six people and knocking out power to thousands of villages. ](/news/2013/11/22/2013-north-indian-ocean-cyclone-season-pcyclone-helen-hits-india-s-andhra-pradesh-state-killing-at-least-six-people-and-knocking-out-power-t.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 North Indian Ocean cyclone season:: Cyclone Helen hits India's Andhra Pradesh state killing at least six people and knocking out power to thousands of villages. ](/news/2013/11/22/2013-north-indian-ocean-cyclone-season-cyclone-helen-hits-india-s-andhra-pradesh-state-killing-at-least-six-people-and-knocking-out-power.md) _2018-02-06 13:49:25 (Update)_
 2. [Cyclone Helen hits India's Andhra Pradesh state killing at least six people and knocking out power to thousands of villages. ](/news/2013/11/22/cyclone-helen-hits-india-s-andhra-pradesh-state-killing-at-least-six-people-and-knocking-out-power-to-thousands-of-villages.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A day after launching two ballistic missiles from a base near the border with ar
 
 ### Changes:
 
-1. [Korean maritime border incidents:South Korea claims that North Korea has fired dozens of artillery shells into the sea near the disputed border. ](/news/2014/07/14/korean-maritime-border-incidents-psouth-korea-claims-that-north-korea-has-fired-dozens-of-artillery-shells-into-the-sea-near-the-disputed-bo.md) _2017-08-25 03:40:41 (First version)_
-2. [Korean maritime border incidents:: South Korea claims that North Korea has fired dozens of artillery shells into the sea near the disputed border. ](/news/2014/07/14/korean-maritime-border-incidents-south-korea-claims-that-north-korea-has-fired-dozens-of-artillery-shells-into-the-sea-near-the-disputed-b.md) _2017-08-27 03:40:59 (Update)_
+1. [Korean maritime border incidents:: South Korea claims that North Korea has fired dozens of artillery shells into the sea near the disputed border. ](/news/2014/07/14/korean-maritime-border-incidents-south-korea-claims-that-north-korea-has-fired-dozens-of-artillery-shells-into-the-sea-near-the-disputed-b.md) _2018-02-06 13:49:26 (First version)_
+2. [Korean maritime border incidents:South Korea claims that North Korea has fired dozens of artillery shells into the sea near the disputed border. ](/news/2014/07/14/korean-maritime-border-incidents-psouth-korea-claims-that-north-korea-has-fired-dozens-of-artillery-shells-into-the-sea-near-the-disputed-bo.md) _2018-02-06 13:49:26 (Update)_
 2. [South Korea claims that North Korea has fired dozens of artillery shells into the sea near the disputed border. ](/news/2014/07/14/south-korea-claims-that-north-korea-has-fired-dozens-of-artillery-shells-into-the-sea-near-the-disputed-border.md) _(Current version)_
 
 ### Related:

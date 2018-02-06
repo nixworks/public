@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legi
 
 ### Changes:
 
-1. [Russia-Ukraine relations: Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/russia-ukraine-relations-ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the.md) _2017-08-27 03:45:44 (First version)_
+1. [Russia-Ukraine relations: Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/russia-ukraine-relations-ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the.md) _2018-02-06 13:49:28 (First version)_
 1. [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md) _(Current version)_
 
 ### Related:

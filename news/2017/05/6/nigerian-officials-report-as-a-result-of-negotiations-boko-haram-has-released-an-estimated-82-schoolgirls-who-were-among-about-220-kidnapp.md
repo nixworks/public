@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotia
 
 ### Changes:
 
-1. [Nigerian officials report, as a result of negotiations, Boko Haram has released 82 schoolgirls who were among about 220 kidnapped from a college in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-82-schoolgirls-who-were-among-about-220-kidnapped-from-a-col.md) _2017-05-06 23:30:06 (First version)_
+1. [Nigerian officials report, as a result of negotiations, Boko Haram has released 82 schoolgirls who were among about 220 kidnapped from a college in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-82-schoolgirls-who-were-among-about-220-kidnapped-from-a-col.md) _2018-02-06 13:49:30 (First version)_
 1. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _(Current version)_
 
 ### Related:

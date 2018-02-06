@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/22/police-use-water-cannon-tear-gas-and-rubber-bul
 
 ### Changes:
 
-1. [2013 protests in Turkey:Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-ppolice-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-square.md) _2017-08-25 03:38:53 (First version)_
-2. [2013 protests in Turkey:: Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-squar.md) _2017-08-27 03:39:08 (Update)_
+1. [2013 protests in Turkey:Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-ppolice-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-square.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 protests in Turkey:: Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-squar.md) _2018-02-06 13:49:25 (Update)_
 2. [Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-square-for-a-memorial-to-the-4.md) _(Current version)_
 
 ### Related:

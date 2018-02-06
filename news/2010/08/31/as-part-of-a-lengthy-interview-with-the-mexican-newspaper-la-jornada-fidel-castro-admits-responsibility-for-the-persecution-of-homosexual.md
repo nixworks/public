@@ -18,7 +18,7 @@ Former Cuban President Fidel Castro says he is to blame for the persecution of h
 
 ### Changes:
 
-1. [As part of a lengthy interview with the Mexican newspaper ''La Jornada'', Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican-newspaper-la-jornada-fidel-castro-admits-responsibility-for-the-persecution-of-homosexu.md) _2017-08-25 03:29:48 (First version)_
+1. [As part of a lengthy interview with the Mexican newspaper ''La Jornada'', Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican-newspaper-la-jornada-fidel-castro-admits-responsibility-for-the-persecution-of-homosexu.md) _2018-02-06 13:49:20 (First version)_
 1. [As part of a lengthy interview with the Mexican newspaper "La Jornada", Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican-newspaper-la-jornada-fidel-castro-admits-responsibility-for-the-persecution-of-homosexual.md) _(Current version)_
 
 ### Related:

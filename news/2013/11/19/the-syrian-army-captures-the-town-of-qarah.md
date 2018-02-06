@@ -16,8 +16,8 @@ Syrian troops captured a key town from rebels near the Lebanese border on Tuesda
 
 ### Changes:
 
-1. [Syrian Civil War, Battle of Qalamoun:The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-pthe-syrian-army-captures-the-town-of-qarah.md) _2017-05-01 03:42:56 (First version)_
-2. [Syrian Civil War: Battle of Qalamoun: The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-the-syrian-army-captures-the-town-of-qarah.md) _2017-08-27 03:39:51 (Update)_
+1. [Syrian Civil War: Battle of Qalamoun: The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-the-syrian-army-captures-the-town-of-qarah.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War, Battle of Qalamoun:The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-pthe-syrian-army-captures-the-town-of-qarah.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian Army captures the town of Qarah. ](/news/2013/11/19/the-syrian-army-captures-the-town-of-qarah.md) _(Current version)_
 
 ### Related:

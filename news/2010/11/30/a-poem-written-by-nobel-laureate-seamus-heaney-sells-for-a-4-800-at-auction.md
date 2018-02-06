@@ -16,7 +16,7 @@ A handwritten poem by Nobel laureate Seamus Heaney has fetched &euro;4,800 at au
 
 ### Changes:
 
-1. [A poem written by Nobel laureate Seamus Heaney sells for -4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-4-800-at-auction.md) _2017-08-27 03:31:20 (First version)_
+1. [A poem written by Nobel laureate Seamus Heaney sells for -4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-4-800-at-auction.md) _2018-02-06 13:49:21 (First version)_
 1. [A poem written by Nobel laureate Seamus Heaney sells for EUR4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-a-4-800-at-auction.md) _(Current version)_
 
 ### Related:

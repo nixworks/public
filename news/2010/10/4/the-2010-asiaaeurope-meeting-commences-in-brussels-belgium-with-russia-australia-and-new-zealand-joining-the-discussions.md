@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brusse
 
 ### Changes:
 
-1. [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asia-europe-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md) _2017-08-27 03:30:24 (First version)_
+1. [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asia-europe-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md) _2018-02-06 13:49:20 (First version)_
 1. [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md) _(Current version)_
 
 ### Related:

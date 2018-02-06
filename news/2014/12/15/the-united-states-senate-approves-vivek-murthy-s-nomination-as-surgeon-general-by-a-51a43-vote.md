@@ -16,7 +16,7 @@ Dr. Vivek Murthy had his long-awaited Senate confirmation vote Monday evening
 
 ### Changes:
 
-1. [The United States Senate approves Vivek Murthy's nomination as Surgeon General by a 51-43 vote. ](/news/2014/12/15/the-united-states-senate-approves-vivek-murthy-s-nomination-as-surgeon-general-by-a-51-43-vote.md) _2017-08-27 03:41:38 (First version)_
+1. [The United States Senate approves Vivek Murthy's nomination as Surgeon General by a 51-43 vote. ](/news/2014/12/15/the-united-states-senate-approves-vivek-murthy-s-nomination-as-surgeon-general-by-a-51-43-vote.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States Senate approves Vivek Murthy's nomination as Surgeon General by a 51-43 vote. ](/news/2014/12/15/the-united-states-senate-approves-vivek-murthy-s-nomination-as-surgeon-general-by-a-51a43-vote.md) _(Current version)_
 
 ### Related:

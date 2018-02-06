@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representative
 
 ### Changes:
 
-1. [Lithuanian parliamentary election, 2016: Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/lithuanian-parliamentary-election-2016-voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _2017-08-27 03:47:00 (First version)_
+1. [Lithuanian parliamentary election, 2016: Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/lithuanian-parliamentary-election-2016-voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _(Current version)_
 
 ### Related:

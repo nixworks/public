@@ -16,8 +16,8 @@ Eighteen gas pipeline workers, most of them Iranians, have been shot dead in an 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/iraqi-insurgency-post-u-s-withdrawal-p15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md) _2017-08-25 03:39:41 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/iraqi-insurgency-post-u-s-withdrawal-15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md) _2017-08-27 03:39:59 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/iraqi-insurgency-post-u-s-withdrawal-p15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/iraqi-insurgency-post-u-s-withdrawal-15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md) _2018-02-06 13:49:25 (Update)_
 2. [15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md) _(Current version)_
 
 ### Related:

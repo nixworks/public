@@ -16,7 +16,7 @@ Reviewing the Pathankot air base attack, Prime Minister Narendra Modi is current
 
 ### Changes:
 
-1. [2016 Pathankot attack: Five of the terrorists who attacked an Indian Air Force base in Pathankot, Punjab are reported to have been killed; mopping-up and search operations continue. National Security Guard officials state the operations will continue until the air base is made safe. ](/news/2016/01/4/2016-pathankot-attack-five-of-the-terrorists-who-attacked-an-indian-air-force-base-in-pathankot-punjab-are-reported-to-have-been-killed-m.md) _2017-08-27 03:44:35 (First version)_
+1. [2016 Pathankot attack: Five of the terrorists who attacked an Indian Air Force base in Pathankot, Punjab are reported to have been killed; mopping-up and search operations continue. National Security Guard officials state the operations will continue until the air base is made safe. ](/news/2016/01/4/2016-pathankot-attack-five-of-the-terrorists-who-attacked-an-indian-air-force-base-in-pathankot-punjab-are-reported-to-have-been-killed-m.md) _2018-02-06 13:49:28 (First version)_
 1. [Five of the terrorists who attacked an Indian Air Force base in Pathankot, Punjab are reported to have been killed; mopping-up and search operations continue. National Security Guard officials state the operations will continue until the air base is made safe. ](/news/2016/01/4/five-of-the-terrorists-who-attacked-an-indian-air-force-base-in-pathankot-punjab-are-reported-to-have-been-killed-mopping-up-and-search-op.md) _(Current version)_
 
 ### Related:

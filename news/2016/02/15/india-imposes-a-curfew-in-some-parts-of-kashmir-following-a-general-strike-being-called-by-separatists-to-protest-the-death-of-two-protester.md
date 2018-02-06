@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir
 
 ### Changes:
 
-1. [Kashmir conflict: India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/kashmir-conflict-india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-deat.md) _2017-08-27 03:44:55 (First version)_
+1. [Kashmir conflict: India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/kashmir-conflict-india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-deat.md) _2018-02-06 13:49:28 (First version)_
 1. [India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-death-of-two-protester.md) _(Current version)_
 
 ### Related:

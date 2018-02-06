@@ -16,7 +16,7 @@ Snap elections are being called in Turkey after efforts to form a coalition gove
 
 ### Changes:
 
-1. [Turkish general election, November 2015: Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-general-election-november-2015-turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previo.md) _2017-08-27 03:42:52 (First version)_
+1. [Turkish general election, November 2015: Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-general-election-november-2015-turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previo.md) _2018-02-06 13:49:27 (First version)_
 1. [Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ YEMEN-MILITANTS/RAID (UPDATE 1):UPDATE 1-At least 27 dead in overnight raid on Y
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/al-qaeda-insurgency-in-yemen-pat-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md) _2017-08-25 03:40:27 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/al-qaeda-insurgency-in-yemen-at-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md) _2017-08-27 03:40:44 (Update)_
+1. [Al-Qaeda insurgency in Yemen:At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/al-qaeda-insurgency-in-yemen-pat-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/al-qaeda-insurgency-in-yemen-at-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/at-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md) _(Current version)_
 
 ### Related:

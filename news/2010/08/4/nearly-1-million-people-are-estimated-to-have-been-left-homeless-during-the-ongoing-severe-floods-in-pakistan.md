@@ -20,8 +20,8 @@ Poor weather forces more evacuations as Pakistan endures its worst floods in 80 
 
 ### Changes:
 
-1. [2010 Pakistan floods:Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/2010-pakistan-floods-pnearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md) _2017-08-25 03:29:12 (First version)_
-2. [2010 Pakistan floods:: Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/2010-pakistan-floods-nearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md) _2017-08-27 03:29:13 (Update)_
+1. [2010 Pakistan floods:Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/2010-pakistan-floods-pnearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:: Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/2010-pakistan-floods-nearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md) _2018-02-06 13:49:20 (Update)_
 2. [Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/nearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md) _(Current version)_
 
 ### Related:

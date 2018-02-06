@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-
 
 ### Changes:
 
-1. [ Portugal votes on an abortion referendum which despite failing due to low turnout, has a clear result in favor of legalizing abortion, prompting Portuguese Prime Minister Jose Socrates to say abortion will be legalized through the parliament. ](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-despite-failing-due-to-low-turnout-has-a-clear-result-in-favor-of-legalizing-abortion-pro.md) _2017-08-25 03:19:09 (First version)_
+1. [ Portugal votes on an abortion referendum which despite failing due to low turnout, has a clear result in favor of legalizing abortion, prompting Portuguese Prime Minister Jose Socrates to say abortion will be legalized through the parliament. ](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-despite-failing-due-to-low-turnout-has-a-clear-result-in-favor-of-legalizing-abortion-pro.md) _2018-02-06 13:49:17 (First version)_
 1. [ Portugal votes on an abortion referendum which despite failing due to low turnout, has a clear result in favor of legalizing abortion, prompting Portuguese Prime Minister Jose Socrates to say abortion will be legalized through the parliament. ](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-despite-failing-due-to-low-turnout-has-a-clear-result-in-favor-of-legalizing-abortion-prom.md) _(Current version)_
 
 ### Related:

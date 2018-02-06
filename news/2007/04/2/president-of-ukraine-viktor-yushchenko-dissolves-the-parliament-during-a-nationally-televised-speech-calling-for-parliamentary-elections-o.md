@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves
 
 ### Changes:
 
-1. [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections.md) _2017-08-25 03:19:31 (First version)_
+1. [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections.md) _2018-02-06 13:49:17 (First version)_
 1. [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections-o.md) _(Current version)_
 
 ### Related:

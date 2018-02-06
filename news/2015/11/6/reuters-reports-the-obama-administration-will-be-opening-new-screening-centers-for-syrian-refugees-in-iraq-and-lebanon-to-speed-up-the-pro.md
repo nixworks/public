@@ -16,8 +16,8 @@ The Obama administration is moving to increase and accelerate the number of Syri
 
 ### Changes:
 
-1. [''Reuters'' reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-p.md) _2017-08-25 03:43:24 (First version)_
-2. [European migrant crisis: "Reuters" reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/european-migrant-crisis-reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-le.md) _2017-08-27 03:43:42 (Update)_
+1. [''Reuters'' reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-p.md) _2018-02-06 13:49:28 (First version)_
+2. [European migrant crisis: "Reuters" reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/european-migrant-crisis-reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-le.md) _2018-02-06 13:49:28 (Update)_
 2. ["Reuters" reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-pro.md) _(Current version)_
 
 ### Related:

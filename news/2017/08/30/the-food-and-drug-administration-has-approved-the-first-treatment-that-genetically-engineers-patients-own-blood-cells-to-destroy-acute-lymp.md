@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/08/30/the-food-and-drug-administration-has-approved-t
 
 ### Changes:
 
-1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy childhood leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-childhood.md) _2017-08-31 19:30:05 (First version)_
+1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy childhood leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-childhood.md) _2018-02-06 13:49:31 (First version)_
 1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md) _(Current version)_
 
 ### Related:

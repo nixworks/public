@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/09/18/insurgents-in-the-iraqi-capital-of-baghdad-kill
 
 ### Changes:
 
-1. [ Conflict in Iraq: Insurgents in the Iraqi capital of Baghdad kill three, including the Kurdish Member of Parliament, Faris Hussein. ](/news/2005/09/18/conflict-in-iraq-p-insurgents-in-the-iraqi-capital-of-baghdad-kill-three-including-the-kurdish-member-of-parliament-faris-hussein.md) _2017-08-25 03:16:48 (First version)_
-2. [ Conflict in Iraq:: Insurgents in the Iraqi capital of Baghdad kill three, including the Kurdish Member of Parliament, Faris Hussein. ](/news/2005/09/18/conflict-in-iraq-insurgents-in-the-iraqi-capital-of-baghdad-kill-three-including-the-kurdish-member-of-parliament-faris-hussein.md) _2017-08-27 03:16:50 (Update)_
+1. [ Conflict in Iraq: Insurgents in the Iraqi capital of Baghdad kill three, including the Kurdish Member of Parliament, Faris Hussein. ](/news/2005/09/18/conflict-in-iraq-p-insurgents-in-the-iraqi-capital-of-baghdad-kill-three-including-the-kurdish-member-of-parliament-faris-hussein.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: Insurgents in the Iraqi capital of Baghdad kill three, including the Kurdish Member of Parliament, Faris Hussein. ](/news/2005/09/18/conflict-in-iraq-insurgents-in-the-iraqi-capital-of-baghdad-kill-three-including-the-kurdish-member-of-parliament-faris-hussein.md) _2018-02-06 13:49:16 (Update)_
 2. [ Insurgents in the Iraqi capital of Baghdad kill three, including the Kurdish Member of Parliament, Faris Hussein. ](/news/2005/09/18/insurgents-in-the-iraqi-capital-of-baghdad-kill-three-including-the-kurdish-member-of-parliament-faris-hussein.md) _(Current version)_
 
 ### Related:

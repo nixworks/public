@@ -19,8 +19,8 @@ Prime Minister Mykola Azarov&#8217;s exit, along with the reversal of legislatio
 
 ### Changes:
 
-1. [Euromaidan:Ukrainian Prime Minister Mykola Azarov submits his resignation to President Viktor Yanukovich "for the sake of a peaceful settlement of the conflict." ](/news/2014/01/28/euromaidan-pukrainian-prime-minister-mykola-azarov-submits-his-resignation-to-president-viktor-yanukovich-for-the-sake-of-a-peaceful-settle.md) _2017-08-25 03:39:56 (First version)_
-2. [Euromaidan:: Ukrainian Prime Minister Mykola Azarov submits his resignation to President Viktor Yanukovich "for the sake of a peaceful settlement of the conflict." ](/news/2014/01/28/euromaidan-ukrainian-prime-minister-mykola-azarov-submits-his-resignation-to-president-viktor-yanukovich-for-the-sake-of-a-peaceful-settl.md) _2017-08-27 03:40:15 (Update)_
+1. [Euromaidan:: Ukrainian Prime Minister Mykola Azarov submits his resignation to President Viktor Yanukovich "for the sake of a peaceful settlement of the conflict." ](/news/2014/01/28/euromaidan-ukrainian-prime-minister-mykola-azarov-submits-his-resignation-to-president-viktor-yanukovich-for-the-sake-of-a-peaceful-settl.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:Ukrainian Prime Minister Mykola Azarov submits his resignation to President Viktor Yanukovich "for the sake of a peaceful settlement of the conflict." ](/news/2014/01/28/euromaidan-pukrainian-prime-minister-mykola-azarov-submits-his-resignation-to-president-viktor-yanukovich-for-the-sake-of-a-peaceful-settle.md) _2018-02-06 13:49:25 (Update)_
 2. [Ukrainian Prime Minister Mykola Azarov submits his resignation to President Viktor Yanukovich "for the sake of a peaceful settlement of the conflict." ](/news/2014/01/28/ukrainian-prime-minister-mykola-azarov-submits-his-resignation-to-president-viktor-yanukovich-for-the-sake-of-a-peaceful-settlement-of-the.md) _(Current version)_
 
 ### Related:

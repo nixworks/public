@@ -21,8 +21,8 @@ Capping one of the tightest races in recent Academy Awards history, director Ste
 
 ### Changes:
 
-1. [86th Academy Awards:''12 Years a Slave'' wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/86th-academy-awards-p-12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md) _2017-08-25 03:40:06 (First version)_
-2. [86th Academy Awards:: "12 Years a Slave" wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/86th-academy-awards-12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md) _2017-08-27 03:40:25 (Update)_
+1. [86th Academy Awards:''12 Years a Slave'' wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/86th-academy-awards-p-12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md) _2018-02-06 13:49:26 (First version)_
+2. [86th Academy Awards:: "12 Years a Slave" wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/86th-academy-awards-12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md) _2018-02-06 13:49:26 (Update)_
 2. ["12 Years a Slave" wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md) _(Current version)_
 
 ### Related:

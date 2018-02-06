@@ -16,5 +16,5 @@ Monsignor Nunzio Scarano is arrested over allegations of corruption and fraud in
 
 ### Changes:
 
-1. [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling -20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-20-million-into-italy-from.md) _2017-08-27 03:39:09 (First version)_
+1. [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling -20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-20-million-into-italy-from.md) _2018-02-06 13:49:25 (First version)_
 1. [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling EUR20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-a-20-million-into-italy-from.md) _(Current version)_

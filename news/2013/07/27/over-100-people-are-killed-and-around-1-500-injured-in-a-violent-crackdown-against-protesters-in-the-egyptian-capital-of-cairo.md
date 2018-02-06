@@ -17,8 +17,8 @@ More than 100 people are reported killed in clashes at a protest held by support
 
 ### Changes:
 
-1. [Aftermath of the 2013 Egyptian coup d'tat:Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/aftermath-of-the-2013-egyptian-coup-d-etat-pover-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-in.md) _2017-08-25 03:39:03 (First version)_
-2. [Aftermath of the 2013 Egyptian coup d'tat:: Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/aftermath-of-the-2013-egyptian-coup-d-etat-over-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-i.md) _2017-08-27 03:39:19 (Update)_
+1. [Aftermath of the 2013 Egyptian coup d'tat:Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/aftermath-of-the-2013-egyptian-coup-d-etat-pover-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-in.md) _2018-02-06 13:49:25 (First version)_
+2. [Aftermath of the 2013 Egyptian coup d'tat:: Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/aftermath-of-the-2013-egyptian-coup-d-etat-over-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-i.md) _2018-02-06 13:49:25 (Update)_
 2. [Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/over-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-in-the-egyptian-capital-of-cairo.md) _(Current version)_
 
 ### Related:

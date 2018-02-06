@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-t
 
 ### Changes:
 
-1. [2017 Mexico-United States diplomatic crisis: Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/2017-mexico-united-states-diplomatic-crisis-mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-p.md) _2017-08-27 03:47:41 (First version)_
+1. [2017 Mexico-United States diplomatic crisis: Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/2017-mexico-united-states-diplomatic-crisis-mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-p.md) _2018-02-06 13:49:30 (First version)_
 1. [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md) _(Current version)_
 
 ### Related:

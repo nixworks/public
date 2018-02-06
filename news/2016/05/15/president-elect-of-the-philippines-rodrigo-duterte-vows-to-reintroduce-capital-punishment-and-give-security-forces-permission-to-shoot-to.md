@@ -16,7 +16,7 @@ The Philippine president-elect says he will seek to reintroduce the death penalt
 
 ### Changes:
 
-1. [Capital punishment in the Philippines: President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016. ](/news/2016/05/15/capital-punishment-in-the-philippines-president-elect-of-the-philippines-rodrigo-duterte-vows-to-reintroduce-capital-punishment-and-give.md) _2017-08-27 03:46:02 (First version)_
+1. [Capital punishment in the Philippines: President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016. ](/news/2016/05/15/capital-punishment-in-the-philippines-president-elect-of-the-philippines-rodrigo-duterte-vows-to-reintroduce-capital-punishment-and-give.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016. ](/news/2016/05/15/president-elect-of-the-philippines-rodrigo-duterte-vows-to-reintroduce-capital-punishment-and-give-security-forces-permission-to-shoot-to.md) _(Current version)_
 
 ### Related:

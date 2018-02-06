@@ -18,7 +18,7 @@ Dozens of Afghan civilians were killed on Thursday in air strikes called in when
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Battle of Boz Qandahari: Two United States military personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the Taliban in Kunduz province, Afghanistan. ](/news/2016/11/3/war-in-afghanistan-2015-present-battle-of-boz-qandahari-two-united-states-military-personnel-four-afghan-commandos-and-30-civilians.md) _2017-08-27 03:47:10 (First version)_
+1. [War in Afghanistan (2015-present): Battle of Boz Qandahari: Two United States military personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the Taliban in Kunduz province, Afghanistan. ](/news/2016/11/3/war-in-afghanistan-2015-present-battle-of-boz-qandahari-two-united-states-military-personnel-four-afghan-commandos-and-30-civilians.md) _2018-02-06 13:49:29 (First version)_
 1. [Battle of Boz Qandahari: Two United States military personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the Taliban in Kunduz province, Afghanistan. ](/news/2016/11/3/battle-of-boz-qandahari-two-united-states-military-personnel-four-afghan-commandos-and-30-civilians-are-killed-in-clashes-with-the-taliba.md) _(Current version)_
 
 ### Related:

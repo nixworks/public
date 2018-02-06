@@ -16,7 +16,7 @@ The latest news from the trail the day after the latest Democratic debate, as ca
 
 ### Changes:
 
-1. [2016 United States presidential election: Jim Gilmore suspends his campaign for the Republican Party nomination. ](/news/2016/02/12/2016-united-states-presidential-election-jim-gilmore-suspends-his-campaign-for-the-republican-party-nomination.md) _2017-08-27 03:44:53 (First version)_
+1. [2016 United States presidential election: Jim Gilmore suspends his campaign for the Republican Party nomination. ](/news/2016/02/12/2016-united-states-presidential-election-jim-gilmore-suspends-his-campaign-for-the-republican-party-nomination.md) _2018-02-06 13:49:28 (First version)_
 1. [Jim Gilmore suspends his campaign for the Republican Party nomination. ](/news/2016/02/12/jim-gilmore-suspends-his-campaign-for-the-republican-party-nomination.md) _(Current version)_
 
 ### Related:

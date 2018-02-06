@@ -15,8 +15,8 @@ A handwritten score by Gustav Mahler fetches a record-breaking £4.5m at auction
 
 ### Changes:
 
-1. [A manuscript by the Austrian composer Gustav Mahler sells for about PS4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-aps4-5-million-at-sothebyas.md) _2017-08-25 03:46:56 (First version)_
-2. [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby-s. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sotheby-s.md) _2017-08-27 03:47:21 (Update)_
+1. [A manuscript by the Austrian composer Gustav Mahler sells for about PS4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-aps4-5-million-at-sothebyas.md) _2018-02-06 13:49:29 (First version)_
+2. [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby-s. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sotheby-s.md) _2018-02-06 13:49:29 (Update)_
 2. [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sothebyas.md) _(Current version)_
 
 ### Related:

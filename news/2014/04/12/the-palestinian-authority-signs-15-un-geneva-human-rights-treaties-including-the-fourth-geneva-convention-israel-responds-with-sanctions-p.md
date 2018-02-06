@@ -17,8 +17,8 @@ Israel sets a tax sanction on the Palestinian Authority in the latest retaliator
 
 ### Changes:
 
-1. [Palestinian-Israeli conflictThe Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflictpthe-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isra.md) _2017-08-25 03:40:16 (First version)_
-2. [Palestinian-Israeli conflict: The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflict-the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isr.md) _2017-08-27 03:40:34 (Update)_
+1. [Palestinian-Israeli conflictThe Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflictpthe-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isra.md) _2018-02-06 13:49:26 (First version)_
+2. [Palestinian-Israeli conflict: The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflict-the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isr.md) _2018-02-06 13:49:26 (Update)_
 2. [The Palestinian Authority signs 15 UN-Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-israel-responds-with-sanctions-p.md) _(Current version)_
 
 ### Related:

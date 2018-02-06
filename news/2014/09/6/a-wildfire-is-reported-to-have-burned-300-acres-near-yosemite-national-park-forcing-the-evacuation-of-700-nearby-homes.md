@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [2014 California wildfires: A wildfire is reported to have burned 300 acres near Yosemite National Park, forcing the evacuation of 700 nearby homes. ](/news/2014/09/6/2014-california-wildfires-a-wildfire-is-reported-to-have-burned-300-acres-near-yosemite-national-park-forcing-the-evacuation-of-700-nearby.md) _2017-08-27 03:41:14 (First version)_
+1. [2014 California wildfires: A wildfire is reported to have burned 300 acres near Yosemite National Park, forcing the evacuation of 700 nearby homes. ](/news/2014/09/6/2014-california-wildfires-a-wildfire-is-reported-to-have-burned-300-acres-near-yosemite-national-park-forcing-the-evacuation-of-700-nearby.md) _2018-02-06 13:49:26 (First version)_
 1. [A wildfire is reported to have burned 300 acres near Yosemite National Park, forcing the evacuation of 700 nearby homes. ](/news/2014/09/6/a-wildfire-is-reported-to-have-burned-300-acres-near-yosemite-national-park-forcing-the-evacuation-of-700-nearby-homes.md) _(Current version)_
 
 ### Related:

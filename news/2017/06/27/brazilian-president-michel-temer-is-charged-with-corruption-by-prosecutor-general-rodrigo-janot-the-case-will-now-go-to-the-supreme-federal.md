@@ -16,7 +16,7 @@ Temer is accused of accepting bribes – but any move towards trial would have t
 
 ### Changes:
 
-1. [Corruption in Brazil: Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/corruption-in-brazil-brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go.md) _2017-08-27 03:48:33 (First version)_
+1. [Corruption in Brazil: Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/corruption-in-brazil-brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go.md) _2018-02-06 13:49:30 (First version)_
 1. [Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go-to-the-supreme-federal.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Honduras President Porfirio Lobo suspends prison officials and vows a full inqui
 
 ### Changes:
 
-1. [Comayagua prison fire:358 people perish in a fire at a Honduran prison in the city of Comayagua. Many others are injured. ](/news/2012/02/15/comayagua-prison-fire-p358-people-perish-in-a-fire-at-a-honduran-prison-in-the-city-of-comayagua-many-others-are-injured.md) _2017-08-25 03:35:04 (First version)_
-2. [Comayagua prison fire:: 358 people perish in a fire at a Honduran prison in the city of Comayagua. Many others are injured. ](/news/2012/02/15/comayagua-prison-fire-358-people-perish-in-a-fire-at-a-honduran-prison-in-the-city-of-comayagua-many-others-are-injured.md) _2017-08-27 03:35:13 (Update)_
+1. [Comayagua prison fire:358 people perish in a fire at a Honduran prison in the city of Comayagua. Many others are injured. ](/news/2012/02/15/comayagua-prison-fire-p358-people-perish-in-a-fire-at-a-honduran-prison-in-the-city-of-comayagua-many-others-are-injured.md) _2018-02-06 13:49:23 (First version)_
+2. [Comayagua prison fire:: 358 people perish in a fire at a Honduran prison in the city of Comayagua. Many others are injured. ](/news/2012/02/15/comayagua-prison-fire-358-people-perish-in-a-fire-at-a-honduran-prison-in-the-city-of-comayagua-many-others-are-injured.md) _2018-02-06 13:49:23 (Update)_
 2. [358 people perish in a fire at a Honduran prison in the city of Comayagua. Many others are injured. ](/news/2012/02/15/358-people-perish-in-a-fire-at-a-honduran-prison-in-the-city-of-comayagua-many-others-are-injured.md) _(Current version)_
 
 ### Related:

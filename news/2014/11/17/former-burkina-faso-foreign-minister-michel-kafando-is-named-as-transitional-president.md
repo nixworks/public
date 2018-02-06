@@ -16,7 +16,7 @@ Authorities in Burkina Faso named former foreign minister Michel Kafando as tran
 
 ### Changes:
 
-1. [Burkinab uprising: Former Burkina Faso foreign minister Michel Kafando is named as transitional President. ](/news/2014/11/17/burkinabe-uprising-former-burkina-faso-foreign-minister-michel-kafando-is-named-as-transitional-president.md) _2017-08-27 03:41:31 (First version)_
+1. [Burkinab uprising: Former Burkina Faso foreign minister Michel Kafando is named as transitional President. ](/news/2014/11/17/burkinabe-uprising-former-burkina-faso-foreign-minister-michel-kafando-is-named-as-transitional-president.md) _2018-02-06 13:49:26 (First version)_
 1. [Former Burkina Faso foreign minister Michel Kafando is named as transitional President. ](/news/2014/11/17/former-burkina-faso-foreign-minister-michel-kafando-is-named-as-transitional-president.md) _(Current version)_
 
 ### Related:

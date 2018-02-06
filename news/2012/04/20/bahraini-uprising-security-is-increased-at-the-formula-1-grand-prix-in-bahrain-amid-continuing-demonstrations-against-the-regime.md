@@ -21,8 +21,8 @@ Formats: [HTML](/news/2012/04/20/bahraini-uprising-security-is-increased-at-the-
 
 ### Changes:
 
-1. [Arab Spring:Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-pbahraini-uprising-psecurity-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regi.md) _2017-08-25 03:35:32 (First version)_
-2. [Arab Spring:: Bahraini uprising:: Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-re.md) _2017-08-27 03:35:41 (Update)_
+1. [Arab Spring:Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-pbahraini-uprising-psecurity-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regi.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: Bahraini uprising:: Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-re.md) _2018-02-06 13:49:23 (Update)_
 2. [Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regime.md) _(Current version)_
 
 ### Related:

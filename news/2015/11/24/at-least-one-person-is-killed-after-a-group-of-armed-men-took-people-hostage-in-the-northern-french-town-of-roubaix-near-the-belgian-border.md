@@ -16,7 +16,7 @@ A hostage situation in a town in northern France has ended tonight.
 
 ### Changes:
 
-1. [2015 Roubaix shootings: At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/2015-roubaix-shootings-at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix.md) _2017-08-27 03:44:02 (First version)_
+1. [2015 Roubaix shootings: At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/2015-roubaix-shootings-at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix.md) _2018-02-06 13:49:28 (First version)_
 1. [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md) _(Current version)_
 
 ### Related:

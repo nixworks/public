@@ -16,7 +16,7 @@ An official says more than a dozen suicide bombers have attacked a residential a
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least 14 suicide bombers attack a complex, killing themselves and at least 6 people. ](/news/2016/05/14/iraqi-civil-war-2014-present-at-least-14-suicide-bombers-attack-a-complex-killing-themselves-and-at-least-6-people.md) _2017-08-27 03:46:02 (First version)_
+1. [Iraqi Civil War (2014-present): At least 14 suicide bombers attack a complex, killing themselves and at least 6 people. ](/news/2016/05/14/iraqi-civil-war-2014-present-at-least-14-suicide-bombers-attack-a-complex-killing-themselves-and-at-least-6-people.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 14 suicide bombers attack a complex, killing themselves and at least 6 people. ](/news/2016/05/14/at-least-14-suicide-bombers-attack-a-complex-killing-themselves-and-at-least-6-people.md) _(Current version)_
 
 ### Related:

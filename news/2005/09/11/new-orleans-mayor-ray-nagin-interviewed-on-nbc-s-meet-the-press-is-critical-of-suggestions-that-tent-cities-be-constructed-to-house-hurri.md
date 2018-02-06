@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/09/11/new-orleans-mayor-ray-nagin-interviewed-on-nbc-
 
 ### Changes:
 
-1. [ New Orleans mayor Ray Nagin interviewed on NBC's ''Meet the Press'' is critical of suggestions that tent cities be constructed to house Hurricane Katrina survivors. He promises to lead the rebuilding of the city saying: "New Orleaneans are the only ones to rebuild. We're going to rebuild New Orleans and make sure we have resources to get the job done." ](/news/2005/09/11/new-orleans-mayor-ray-nagin-interviewed-on-nbc-s-meet-the-press-is-critical-of-suggestions-that-tent-cities-be-constructed-to-house-hur.md) _2017-08-25 03:16:47 (First version)_
+1. [ New Orleans mayor Ray Nagin interviewed on NBC's ''Meet the Press'' is critical of suggestions that tent cities be constructed to house Hurricane Katrina survivors. He promises to lead the rebuilding of the city saying: "New Orleaneans are the only ones to rebuild. We're going to rebuild New Orleans and make sure we have resources to get the job done." ](/news/2005/09/11/new-orleans-mayor-ray-nagin-interviewed-on-nbc-s-meet-the-press-is-critical-of-suggestions-that-tent-cities-be-constructed-to-house-hur.md) _2018-02-06 13:49:16 (First version)_
 1. [ New Orleans mayor Ray Nagin interviewed on NBC's "Meet the Press" is critical of suggestions that tent cities be constructed to house Hurricane Katrina survivors. He promises to lead the rebuilding of the city saying: "New Orleaneans are the only ones to rebuild. We're going to rebuild New Orleans and make sure we have resources to get the job done." ](/news/2005/09/11/new-orleans-mayor-ray-nagin-interviewed-on-nbc-s-meet-the-press-is-critical-of-suggestions-that-tent-cities-be-constructed-to-house-hurri.md) _(Current version)_
 
 ### Related:

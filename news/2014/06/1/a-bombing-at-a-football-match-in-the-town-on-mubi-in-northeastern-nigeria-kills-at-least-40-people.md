@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/06/1/a-bombing-at-a-football-match-in-the-town-on-mub
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: A bombing at a football match in the town on Mubi in northeastern Nigeria kills at least 40 people. ](/news/2014/06/1/islamist-insurgency-in-nigeria-a-bombing-at-a-football-match-in-the-town-on-mubi-in-northeastern-nigeria-kills-at-least-40-people.md) _2017-08-27 03:40:47 (First version)_
+1. [Islamist insurgency in Nigeria: A bombing at a football match in the town on Mubi in northeastern Nigeria kills at least 40 people. ](/news/2014/06/1/islamist-insurgency-in-nigeria-a-bombing-at-a-football-match-in-the-town-on-mubi-in-northeastern-nigeria-kills-at-least-40-people.md) _2018-02-06 13:49:26 (First version)_
 1. [A bombing at a football match in the town on Mubi in northeastern Nigeria kills at least 40 people. ](/news/2014/06/1/a-bombing-at-a-football-match-in-the-town-on-mubi-in-northeastern-nigeria-kills-at-least-40-people.md) _(Current version)_
 
 ### Related:

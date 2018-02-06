@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nympho
 
 ### Changes:
 
-1. [Shia LeBeouf walks out of the premiere of ''Nymphomaniac'' with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controvers.md) _2017-08-25 03:39:59 (First version)_
+1. [Shia LeBeouf walks out of the premiere of ''Nymphomaniac'' with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controvers.md) _2018-02-06 13:49:25 (First version)_
 1. [Shia LeBeouf walks out of the premiere of "Nymphomaniac" with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controversy.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united
 
 ### Changes:
 
-1. [Death of Jennifer Laude: The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/death-of-jennifer-laude-the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md) _2017-08-27 03:41:39 (First version)_
+1. [Death of Jennifer Laude: The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/death-of-jennifer-laude-the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md) _(Current version)_
 
 ### Related:

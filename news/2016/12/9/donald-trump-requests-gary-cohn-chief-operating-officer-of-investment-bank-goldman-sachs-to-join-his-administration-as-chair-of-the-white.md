@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-
 
 ### Changes:
 
-1. [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-whit.md) _2017-08-25 03:47:00 (First version)_
-2. [ Presidential transition of Donald Trump: Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/presidential-transition-of-donald-trump-donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join.md) _2017-08-27 03:47:24 (Update)_
+1. [ Presidential transition of Donald Trump: Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/presidential-transition-of-donald-trump-donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join.md) _2018-02-06 13:49:30 (First version)_
+2. [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-whit.md) _2018-02-06 13:49:30 (Update)_
 2. [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces
 
 ### Changes:
 
-1. [2015 Southeast Asian haze: The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/2015-southeast-asian-haze-the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegal.md) _2017-08-27 03:43:16 (First version)_
+1. [2015 Southeast Asian haze: The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/2015-southeast-asian-haze-the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegal.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegally-lit-forest-fires-that-ha.md) _(Current version)_
 
 ### Related:

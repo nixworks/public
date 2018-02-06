@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2
 
 ### Changes:
 
-1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7-6-4-6-7-6-2-6-6-2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _2017-08-27 03:20:07 (First version)_
+1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7-6-4-6-7-6-2-6-6-2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _2018-02-06 13:49:17 (First version)_
 1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _(Current version)_
 
 ### Related:

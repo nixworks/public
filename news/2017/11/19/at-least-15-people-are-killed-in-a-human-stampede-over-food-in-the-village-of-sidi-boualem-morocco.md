@@ -16,8 +16,8 @@ The incident occurred as a charity aid was distributing aid in the town of Sidi 
 
 ### Changes:
 
-1. [At least 15 people are killed in human stampedes over food in Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-human-stampedes-over-food-in-morocco.md) _2017-11-19 18:30:05 (First version)_
-2. [At least 15 people are killed in human a stampede over food in the village of Sidi Boualem, Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-human-a-stampede-over-food-in-the-village-of-sidi-boualem-morocco.md) _2017-11-19 19:30:05 (Update)_
+1. [At least 15 people are killed in human stampedes over food in Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-human-stampedes-over-food-in-morocco.md) _2018-02-06 13:49:31 (First version)_
+2. [At least 15 people are killed in human a stampede over food in the village of Sidi Boualem, Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-human-a-stampede-over-food-in-the-village-of-sidi-boualem-morocco.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 15 people are killed in a human stampede over food in the village of Sidi Boualem, Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-a-human-stampede-over-food-in-the-village-of-sidi-boualem-morocco.md) _(Current version)_
 
 ### Related:

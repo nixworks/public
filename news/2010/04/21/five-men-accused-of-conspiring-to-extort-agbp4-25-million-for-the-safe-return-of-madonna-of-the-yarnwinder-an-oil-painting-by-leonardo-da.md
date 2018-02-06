@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-agbp4-
 
 ### Changes:
 
-1. [Five men accused of conspiring to extort PS4.25 million for the safe return of ''Madonna of the Yarnwinder'', an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-aps4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md) _2017-08-25 03:27:42 (First version)_
+1. [Five men accused of conspiring to extort PS4.25 million for the safe return of ''Madonna of the Yarnwinder'', an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-aps4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md) _2018-02-06 13:49:19 (First version)_
 1. [Five men accused of conspiring to extort GBP4.25 million for the safe return of "Madonna of the Yarnwinder", an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-agbp4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md) _(Current version)_
 
 ### Related:

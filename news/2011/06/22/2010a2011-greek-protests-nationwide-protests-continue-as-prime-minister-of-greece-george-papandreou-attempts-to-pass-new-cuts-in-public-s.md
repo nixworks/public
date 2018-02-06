@@ -16,7 +16,7 @@ Greek PM George Papandreou tries to persuade MPs to pass further austerity measu
 
 ### Changes:
 
-1. [2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. ](/news/2011/06/22/2010-2011-greek-protests-nationwide-protests-continue-as-prime-minister-of-greece-george-papandreou-attempts-to-pass-new-cuts-in-public-s.md) _2017-08-27 03:33:40 (First version)_
+1. [2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. ](/news/2011/06/22/2010-2011-greek-protests-nationwide-protests-continue-as-prime-minister-of-greece-george-papandreou-attempts-to-pass-new-cuts-in-public-s.md) _2018-02-06 13:49:22 (First version)_
 1. [2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. ](/news/2011/06/22/2010a2011-greek-protests-nationwide-protests-continue-as-prime-minister-of-greece-george-papandreou-attempts-to-pass-new-cuts-in-public-s.md) _(Current version)_
 
 ### Related:

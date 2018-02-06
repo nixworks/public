@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-came
 
 ### Changes:
 
-1. [Boko Haram insurgency: A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/boko-haram-insurgency-a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine.md) _2017-08-27 03:43:59 (First version)_
+1. [Boko Haram insurgency: A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/boko-haram-insurgency-a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.md) _(Current version)_
 
 ### Related:

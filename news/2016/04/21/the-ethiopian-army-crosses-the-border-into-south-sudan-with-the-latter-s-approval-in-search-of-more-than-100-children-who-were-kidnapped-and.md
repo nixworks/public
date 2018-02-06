@@ -15,7 +15,7 @@ Troops cross into South Sudan in search of more than 100 children believed abduc
 
 ### Changes:
 
-1. [Ethnic violence in South Sudan: The Ethiopian Army crosses the border into South Sudan with the latter's approval in search of more than 100 children who were kidnapped and spirited across the border in a surprise attack by unknown assailants that also killed 208 people a few days ago. ](/news/2016/04/21/ethnic-violence-in-south-sudan-the-ethiopian-army-crosses-the-border-into-south-sudan-with-the-latter-s-approval-in-search-of-more-than-100.md) _2017-08-27 03:45:45 (First version)_
+1. [Ethnic violence in South Sudan: The Ethiopian Army crosses the border into South Sudan with the latter's approval in search of more than 100 children who were kidnapped and spirited across the border in a surprise attack by unknown assailants that also killed 208 people a few days ago. ](/news/2016/04/21/ethnic-violence-in-south-sudan-the-ethiopian-army-crosses-the-border-into-south-sudan-with-the-latter-s-approval-in-search-of-more-than-100.md) _2018-02-06 13:49:28 (First version)_
 1. [The Ethiopian Army crosses the border into South Sudan with the latter's approval in search of more than 100 children who were kidnapped and spirited across the border in a surprise attack by unknown assailants that also killed 208 people a few days ago. ](/news/2016/04/21/the-ethiopian-army-crosses-the-border-into-south-sudan-with-the-latter-s-approval-in-search-of-more-than-100-children-who-were-kidnapped-and.md) _(Current version)_
 
 ### Related:

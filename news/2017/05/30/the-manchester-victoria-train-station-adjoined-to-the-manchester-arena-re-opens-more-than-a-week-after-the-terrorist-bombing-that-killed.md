@@ -11,7 +11,7 @@ Formats: [HTML](/news/2017/05/30/the-manchester-victoria-train-station-adjoined-
 
 ### Changes:
 
-1. [ 2017 Manchester Arena bombing: The Manchester Victoria train station, adjoined to the Manchester Arena, re-opens more than a week after the terrorist bombing that killed 22.](/news/2017/05/30/2017-manchester-arena-bombing-the-manchester-victoria-train-station-adjoined-to-the-manchester-arena-re-opens-more-than-a-week-after-the.md) _2017-08-27 03:48:24 (First version)_
+1. [ 2017 Manchester Arena bombing: The Manchester Victoria train station, adjoined to the Manchester Arena, re-opens more than a week after the terrorist bombing that killed 22.](/news/2017/05/30/2017-manchester-arena-bombing-the-manchester-victoria-train-station-adjoined-to-the-manchester-arena-re-opens-more-than-a-week-after-the.md) _2018-02-06 13:49:30 (First version)_
 1. [ The Manchester Victoria train station, adjoined to the Manchester Arena, re-opens more than a week after the terrorist bombing that killed 22.](/news/2017/05/30/the-manchester-victoria-train-station-adjoined-to-the-manchester-arena-re-opens-more-than-a-week-after-the-terrorist-bombing-that-killed.md) _(Current version)_
 
 ### Related:

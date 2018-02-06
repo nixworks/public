@@ -19,8 +19,8 @@ Gunman stormed a university, killed three guards and blew up a bridge leading to
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Islamic State of Iraq and the Levant gunmen storm the campus of the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/iraqi-insurgency-post-u-s-withdrawal-pislamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3.md) _2017-08-25 03:40:31 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Islamic State of Iraq and the Levant gunmen storm the campus of the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/iraqi-insurgency-post-u-s-withdrawal-islamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3.md) _2017-08-27 03:40:48 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Islamic State of Iraq and the Levant gunmen storm the campus of the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/iraqi-insurgency-post-u-s-withdrawal-pislamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Islamic State of Iraq and the Levant gunmen storm the campus of the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/iraqi-insurgency-post-u-s-withdrawal-islamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3.md) _2018-02-06 13:49:26 (Update)_
 2. [Islamic State of Iraq and the Levant gunmen storm the campus of the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/islamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3-guards-and-holding-dozens-of-students-hos.md) _(Current version)_
 
 ### Related:

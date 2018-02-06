@@ -17,7 +17,7 @@ Three bridges on roads leading into Donetsk are destroyed ahead of an expected b
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Minister of Defense of Ukraine Valeriy Heletey says that special forces have retaken the city of Kostiantynivka, Donetsk from armed insurgents. ](/news/2014/07/7/2014-pro-russian-conflict-in-ukraine-minister-of-defense-of-ukraine-valeriy-heletey-says-that-special-forces-have-retaken-the-city-of-kosti.md) _2017-08-27 03:40:56 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Minister of Defense of Ukraine Valeriy Heletey says that special forces have retaken the city of Kostiantynivka, Donetsk from armed insurgents. ](/news/2014/07/7/2014-pro-russian-conflict-in-ukraine-minister-of-defense-of-ukraine-valeriy-heletey-says-that-special-forces-have-retaken-the-city-of-kosti.md) _2018-02-06 13:49:26 (First version)_
 1. [Minister of Defense of Ukraine Valeriy Heletey says that special forces have retaken the city of Kostiantynivka, Donetsk from armed insurgents. ](/news/2014/07/7/minister-of-defense-of-ukraine-valeriy-heletey-says-that-special-forces-have-retaken-the-city-of-kostiantynivka-donetsk-from-armed-insurgen.md) _(Current version)_
 
 ### Related:

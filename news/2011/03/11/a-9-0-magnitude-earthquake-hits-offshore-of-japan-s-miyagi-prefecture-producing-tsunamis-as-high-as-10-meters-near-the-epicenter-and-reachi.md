@@ -26,7 +26,7 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 
 ### Changes:
 
-1. [2011 Tohoku earthquake and tsunami: A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/2011-tahoku-earthquake-and-tsunami-a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10.md) _2017-08-27 03:32:38 (First version)_
+1. [2011 Tohoku earthquake and tsunami: A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/2011-tahoku-earthquake-and-tsunami-a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10.md) _2018-02-06 13:49:22 (First version)_
 1. [A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10-meters-near-the-epicenter-and-reachi.md) _(Current version)_
 
 ### Related:

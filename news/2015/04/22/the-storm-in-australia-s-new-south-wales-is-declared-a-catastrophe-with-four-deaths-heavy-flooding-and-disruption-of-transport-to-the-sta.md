@@ -18,8 +18,8 @@ The body of an 86-year-old woman has been recovered from the floodwaters into wh
 
 ### Changes:
 
-1. [The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disruption-of-transport-to-the-st.md) _2017-08-25 03:41:55 (First version)_
-2. [Australian east coast low: The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/australian-east-coast-low-the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disrupt.md) _2017-08-27 03:42:14 (Update)_
+1. [The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disruption-of-transport-to-the-st.md) _2018-02-06 13:49:27 (First version)_
+2. [Australian east coast low: The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/australian-east-coast-low-the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disrupt.md) _2018-02-06 13:49:27 (Update)_
 2. [The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disruption-of-transport-to-the-sta.md) _(Current version)_
 
 ### Related:

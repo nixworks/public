@@ -16,7 +16,7 @@ At least 12 persons were killed and two were injured when a cable car (doli) ins
 
 ### Changes:
 
-1. [Charra Pani cable car accident: At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/charra-pani-cable-car-accident-at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-i.md) _2017-08-27 03:48:34 (First version)_
+1. [Charra Pani cable car accident: At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/charra-pani-cable-car-accident-at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-i.md) _2018-02-06 13:49:30 (First version)_
 1. [At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-in-charra-pani-galyat-pakistan.md) _(Current version)_
 
 ### Related:

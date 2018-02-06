@@ -16,7 +16,7 @@ The faction of Anonymous that launched the anti-Scientology movement Chanology a
 
 ### Changes:
 
-1. [2010-2011 Tunisian protests: Hacktivist group Anonymous announces 'Operation Tunisia' in solidarity with protestors, successfully bringing down a number of Tunisian state-run websites. ](/news/2011/01/2/2010-2011-tunisian-protests-hacktivist-group-anonymous-announces-operation-tunisia-in-solidarity-with-protestors-successfully-bringing.md) _2017-08-27 03:31:45 (First version)_
+1. [2010-2011 Tunisian protests: Hacktivist group Anonymous announces 'Operation Tunisia' in solidarity with protestors, successfully bringing down a number of Tunisian state-run websites. ](/news/2011/01/2/2010-2011-tunisian-protests-hacktivist-group-anonymous-announces-operation-tunisia-in-solidarity-with-protestors-successfully-bringing.md) _2018-02-06 13:49:21 (First version)_
 1. [2010-2011 Tunisian protests: Hacktivist group Anonymous announces 'Operation Tunisia' in solidarity with protestors, successfully bringing down a number of Tunisian state-run websites. ](/news/2011/01/2/2010a2011-tunisian-protests-hacktivist-group-anonymous-announces-operation-tunisia-in-solidarity-with-protestors-successfully-bringing.md) _(Current version)_
 
 ### Related:

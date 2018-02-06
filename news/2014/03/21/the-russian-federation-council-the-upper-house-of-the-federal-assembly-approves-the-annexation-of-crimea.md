@@ -17,8 +17,8 @@ MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x
 
 ### Changes:
 
-1. [2014 Crimean Crisis:The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/2014-crimean-crisis-pthe-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md) _2017-08-25 03:40:12 (First version)_
-2. [2014 Crimean Crisis:: The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/2014-crimean-crisis-the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md) _2017-08-27 03:40:30 (Update)_
+1. [2014 Crimean Crisis:: The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/2014-crimean-crisis-the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Crimean Crisis:The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/2014-crimean-crisis-pthe-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md) _2018-02-06 13:49:25 (Update)_
 2. [The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md) _(Current version)_
 
 ### Related:

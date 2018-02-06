@@ -16,7 +16,7 @@ The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japa
 
 ### Changes:
 
-1. [The Sea Shepherd Conservation Society's anti-whaling speedboat ''Ady Gil'', which was damaged on Wednesday during a confrontation with the Japanese security vessel ''Shonan Maru 2'', sinks in the Southern Ocean shortly before 3:30 a.m. AEDT as the Society's ''Bob Barker'' attempts to salvage the boat. ](/news/2010/01/8/the-sea-shepherd-conservation-society-s-anti-whaling-speedboat-ady-gil-which-was-damaged-on-wednesday-during-a-confrontation-with-the-j.md) _2017-08-25 03:26:49 (First version)_
+1. [The Sea Shepherd Conservation Society's anti-whaling speedboat ''Ady Gil'', which was damaged on Wednesday during a confrontation with the Japanese security vessel ''Shonan Maru 2'', sinks in the Southern Ocean shortly before 3:30 a.m. AEDT as the Society's ''Bob Barker'' attempts to salvage the boat. ](/news/2010/01/8/the-sea-shepherd-conservation-society-s-anti-whaling-speedboat-ady-gil-which-was-damaged-on-wednesday-during-a-confrontation-with-the-j.md) _2018-02-06 13:49:19 (First version)_
 1. [The Sea Shepherd Conservation Society's anti-whaling speedboat "Ady Gil", which was damaged on Wednesday during a confrontation with the Japanese security vessel "Shonan Maru 2", sinks in the Southern Ocean shortly before 3:30 a.m. AEDT as the Society's "Bob Barker" attempts to salvage the boat. ](/news/2010/01/8/the-sea-shepherd-conservation-society-s-anti-whaling-speedboat-ady-gil-which-was-damaged-on-wednesday-during-a-confrontation-with-the-jap.md) _(Current version)_
 
 ### Related:

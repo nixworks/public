@@ -3,7 +3,7 @@ Formats: [HTML](2016/10/8/index.html)  [JSON](2016/10/8/index.json)  [XML](2016/
 
 ## [2016-10-8](/news/2016/10/8/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Saudi-led coalition jets launch airstrikes on civilians at the funeral of the father of the Houthi government's Interior Minister in Sana'a, killing at least 140 people, and injuring over 500 more. One of the dead is the mayor of Sana'a, Abdul-Qader Hilal. ](/news/2016/10/8/saudi-led-coalition-jets-launch-airstrikes-on-civilians-at-the-funeral-of-the-father-of-the-houthi-government-s-interior-minister-in-sana-a.md)
  An air strike has killed at least 140 people and wounded more than 500 after it hit a funeral hall packed with mourners in Sanaa, Yemen&#039;s capital. The death toll is one of the largest in any single incident since a Saudi-led alliance began military operations to try to restore President Abed R...
 
@@ -13,7 +13,7 @@ Bangladeshi security officials have killed 11 suspected militants of the banned 
 
 ##### Hungary
 ### [The Hungarian newspaper "Nepszabadsag" shuts down after 60 years amid significant financial losses. ](/news/2016/10/8/the-hungarian-newspaper-na-c-pszabadsa-g-shuts-down-after-60-years-amid-significant-financial-losses.md)
-_Context: Hungary, Nepszabadsag_
+_Context: Nepszabadsag, Hungary_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md)

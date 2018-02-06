@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-
 
 ### Changes:
 
-1. [French presidential election, 2017: Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/french-presidential-election-2017-files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say.md) _2017-08-27 03:48:18 (First version)_
+1. [French presidential election, 2017: Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/french-presidential-election-2017-files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say.md) _2018-02-06 13:49:30 (First version)_
 1. [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md) _(Current version)_
 
 ### Related:

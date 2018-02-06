@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-sec
 
 ### Changes:
 
-1. [Ivorian soldiers block access to Bouak, the second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-report.md) _2017-08-25 03:47:53 (First version)_
+1. [Ivorian soldiers block access to Bouak, the second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-report.md) _2018-02-06 13:49:30 (First version)_
 1. [Ivorian soldiers block access to Bouak, the second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-reporte.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Indonesia&#039;s benchmark share gauge rose to highest level in weeks, and the r
 
 ### Changes:
 
-1. [Indonesian presidential election, 2014: Voters in Indonesia go to the polls for a presidential election. ](/news/2014/07/9/indonesian-presidential-election-2014-voters-in-indonesia-go-to-the-polls-for-a-presidential-election.md) _2017-08-27 03:40:57 (First version)_
+1. [Indonesian presidential election, 2014: Voters in Indonesia go to the polls for a presidential election. ](/news/2014/07/9/indonesian-presidential-election-2014-voters-in-indonesia-go-to-the-polls-for-a-presidential-election.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Indonesia go to the polls for a presidential election. ](/news/2014/07/9/voters-in-indonesia-go-to-the-polls-for-a-presidential-election.md) _(Current version)_
 
 ### Related:

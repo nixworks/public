@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/25/republican-u-s-senator-david-vitter-and-democra
 
 ### Changes:
 
-1. [Elections in the United States; Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/elections-in-the-united-states-republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican.md) _2017-08-25 03:43:12 (First version)_
+1. [Elections in the United States; Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/elections-in-the-united-states-republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican.md) _2018-02-06 13:49:28 (First version)_
 1. [Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican-candidates-for-spots-in-the-nov.md) _(Current version)_
 
 ### Related:

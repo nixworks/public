@@ -17,7 +17,7 @@ Pope Francis called on Wednesday for ethnic and religious reconciliation at the 
 
 ### Changes:
 
-1. [Pope Francis%27 visit to Kenya: Pope Francis makes his first official visit to Africa. ](/news/2015/11/25/pope-francis-27-visit-to-kenya-pope-francis-makes-his-first-official-visit-to-africa.md) _2017-08-27 03:44:03 (First version)_
+1. [Pope Francis%27 visit to Kenya: Pope Francis makes his first official visit to Africa. ](/news/2015/11/25/pope-francis-27-visit-to-kenya-pope-francis-makes-his-first-official-visit-to-africa.md) _2018-02-06 13:49:28 (First version)_
 1. [Pope Francis makes his first official visit to Africa. ](/news/2015/11/25/pope-francis-makes-his-first-official-visit-to-africa.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Hungarians have overwhelmingly rejected the EU&#39;s refugee quota plan in a ref
 
 ### Changes:
 
-1. [Colombian peace agreement referendum, 2016: Referendum voters in Colombia narrowly fail to ratify a peace deal between the Government of Colombia and FARC. ](/news/2016/10/2/colombian-peace-agreement-referendum-2016-referendum-voters-in-colombia-narrowly-fail-to-ratify-a-peace-deal-between-the-government-of-col.md) _2017-08-27 03:46:56 (First version)_
+1. [Colombian peace agreement referendum, 2016: Referendum voters in Colombia narrowly fail to ratify a peace deal between the Government of Colombia and FARC. ](/news/2016/10/2/colombian-peace-agreement-referendum-2016-referendum-voters-in-colombia-narrowly-fail-to-ratify-a-peace-deal-between-the-government-of-col.md) _2018-02-06 13:49:29 (First version)_
 1. [Referendum voters in Colombia narrowly fail to ratify a peace deal between the Government of Colombia and FARC. ](/news/2016/10/2/referendum-voters-in-colombia-narrowly-fail-to-ratify-a-peace-deal-between-the-government-of-colombia-and-farc.md) _(Current version)_
 
 ### Related:

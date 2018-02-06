@@ -16,7 +16,7 @@ Eighteen people were killed and 100 homes torched in an attack in the dead of ni
 
 ### Changes:
 
-1. [Islamist insurgency in West Africa: At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/islamist-insurgency-in-west-africa-at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-n.md) _2017-08-27 03:44:04 (First version)_
+1. [Islamist insurgency in West Africa: At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/islamist-insurgency-in-west-africa-at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-n.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.md) _(Current version)_
 
 ### Related:

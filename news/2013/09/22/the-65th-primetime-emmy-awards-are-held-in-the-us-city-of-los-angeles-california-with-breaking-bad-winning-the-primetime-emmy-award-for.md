@@ -16,7 +16,7 @@ Jeff Daniels and Claire Danes win dramatic acting awards, Julia Louis-Dreyfus an
 
 ### Changes:
 
-1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with ''Breaking Bad'' winning the Primetime Emmy Award for Outstanding Drama Series and ''Modern Family'' winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-fo.md) _2017-08-25 03:39:18 (First version)_
+1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with ''Breaking Bad'' winning the Primetime Emmy Award for Outstanding Drama Series and ''Modern Family'' winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-fo.md) _2018-02-06 13:49:25 (First version)_
 1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.md) _(Current version)_
 
 ### Related:

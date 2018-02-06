@@ -17,7 +17,7 @@ Children among those killed by roadside bomb as troops try to push armed group f
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least 13 civilians have been killed by a roadside bomb while fleeing from fighting between Iraqi security forces and ISIL near Ramadi. ](/news/2016/01/17/iraqi-civil-war-2014-present-at-least-13-civilians-have-been-killed-by-a-roadside-bomb-while-fleeing-from-fighting-between-iraqi-securi.md) _2017-08-27 03:44:42 (First version)_
+1. [Iraqi Civil War (2014-present): At least 13 civilians have been killed by a roadside bomb while fleeing from fighting between Iraqi security forces and ISIL near Ramadi. ](/news/2016/01/17/iraqi-civil-war-2014-present-at-least-13-civilians-have-been-killed-by-a-roadside-bomb-while-fleeing-from-fighting-between-iraqi-securi.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 13 civilians have been killed by a roadside bomb while fleeing from fighting between Iraqi security forces and ISIL near Ramadi. ](/news/2016/01/17/at-least-13-civilians-have-been-killed-by-a-roadside-bomb-while-fleeing-from-fighting-between-iraqi-security-forces-and-isil-near-ramadi.md) _(Current version)_
 
 ### Related:

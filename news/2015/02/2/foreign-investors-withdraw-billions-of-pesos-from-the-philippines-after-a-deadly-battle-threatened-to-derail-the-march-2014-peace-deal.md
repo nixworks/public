@@ -17,7 +17,7 @@ COTABATO, Philippines (AFP) - A bloodbath in the southern Philippines has placed
 
 ### Changes:
 
-1. [Moro insurgency in the Philippines: Foreign investors withdraw "billions of pesos" from the Philippines after a deadly battle threatened to derail the March 2014 peace deal. ](/news/2015/02/2/moro-insurgency-in-the-philippines-foreign-investors-withdraw-billions-of-pesos-from-the-philippines-after-a-deadly-battle-threatened-to.md) _2017-08-27 03:41:52 (First version)_
+1. [Moro insurgency in the Philippines: Foreign investors withdraw "billions of pesos" from the Philippines after a deadly battle threatened to derail the March 2014 peace deal. ](/news/2015/02/2/moro-insurgency-in-the-philippines-foreign-investors-withdraw-billions-of-pesos-from-the-philippines-after-a-deadly-battle-threatened-to.md) _2018-02-06 13:49:26 (First version)_
 1. [Foreign investors withdraw "billions of pesos" from the Philippines after a deadly battle threatened to derail the March 2014 peace deal. ](/news/2015/02/2/foreign-investors-withdraw-billions-of-pesos-from-the-philippines-after-a-deadly-battle-threatened-to-derail-the-march-2014-peace-deal.md) _(Current version)_
 
 ### Related:

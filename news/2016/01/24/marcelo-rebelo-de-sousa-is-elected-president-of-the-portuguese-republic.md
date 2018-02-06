@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Portuguese presidential election, 2016: Marcelo Rebelo de Sousa is elected President of the Portuguese Republic. ](/news/2016/01/24/portuguese-presidential-election-2016-marcelo-rebelo-de-sousa-is-elected-president-of-the-portuguese-republic.md) _2017-08-27 03:44:45 (First version)_
+1. [Portuguese presidential election, 2016: Marcelo Rebelo de Sousa is elected President of the Portuguese Republic. ](/news/2016/01/24/portuguese-presidential-election-2016-marcelo-rebelo-de-sousa-is-elected-president-of-the-portuguese-republic.md) _2018-02-06 13:49:28 (First version)_
 1. [Marcelo Rebelo de Sousa is elected President of the Portuguese Republic. ](/news/2016/01/24/marcelo-rebelo-de-sousa-is-elected-president-of-the-portuguese-republic.md) _(Current version)_
 
 ### Related:

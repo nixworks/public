@@ -11,8 +11,8 @@ Formats: [HTML](/news/2008/10/9/french-writer-jean-marie-gustave-le-cla-c-zio-is
 
 ### Changes:
 
-1. [ Nobel Prize: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-p-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _2017-08-25 03:23:01 (First version)_
-2. [ Nobel Prize:: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _2017-08-27 03:22:54 (Update)_
+1. [ Nobel Prize: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-p-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _2018-02-06 13:49:18 (First version)_
+2. [ Nobel Prize:: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _2018-02-06 13:49:18 (Update)_
 2. [ French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ North Korea offered the United States and South Korea a list of conditions on Th
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-pnorth-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-states.md) _2017-08-25 03:38:24 (First version)_
-2. [2013 Korean crisis:: North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-north-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-state.md) _2017-08-27 03:38:37 (Update)_
+1. [2013 Korean crisis:North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-pnorth-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-states.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-north-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-state.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/north-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-states.md) _(Current version)_
 
 ### Related:

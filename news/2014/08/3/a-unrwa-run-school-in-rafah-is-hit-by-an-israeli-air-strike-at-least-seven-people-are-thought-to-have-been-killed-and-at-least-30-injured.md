@@ -17,7 +17,7 @@ There have been renewed clashes between Israeli military and militants in Gaza o
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: A UNRWA-run school in Rafah is hit by an Israeli air strike. At least seven people are thought to have been killed, and at least 30 injured. ](/news/2014/08/3/2014-israel-gaza-conflict-a-unrwa-run-school-in-rafah-is-hit-by-an-israeli-air-strike-at-least-seven-people-are-thought-to-have-been-kil.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 Israel-Gaza conflict: A UNRWA-run school in Rafah is hit by an Israeli air strike. At least seven people are thought to have been killed, and at least 30 injured. ](/news/2014/08/3/2014-israel-gaza-conflict-a-unrwa-run-school-in-rafah-is-hit-by-an-israeli-air-strike-at-least-seven-people-are-thought-to-have-been-kil.md) _2018-02-06 13:49:26 (First version)_
 1. [A UNRWA-run school in Rafah is hit by an Israeli air strike. At least seven people are thought to have been killed, and at least 30 injured. ](/news/2014/08/3/a-unrwa-run-school-in-rafah-is-hit-by-an-israeli-air-strike-at-least-seven-people-are-thought-to-have-been-killed-and-at-least-30-injured.md) _(Current version)_
 
 ### Related:

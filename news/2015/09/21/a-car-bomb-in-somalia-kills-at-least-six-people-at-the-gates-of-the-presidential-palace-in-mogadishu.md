@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/war-in-somalia-2009-present-a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _2017-08-27 03:43:07 (First version)_
+1. [War in Somalia (2009-present): A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/war-in-somalia-2009-present-a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _2018-02-06 13:49:27 (First version)_
 1. [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _(Current version)_
 
 ### Related:

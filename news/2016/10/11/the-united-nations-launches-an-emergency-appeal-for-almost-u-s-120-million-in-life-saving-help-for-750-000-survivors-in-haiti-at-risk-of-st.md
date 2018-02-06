@@ -16,7 +16,7 @@ Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought
 
 ### Changes:
 
-1. [Hurricane Matthew: The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/hurricane-matthew-the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in.md) _2017-08-27 03:47:01 (First version)_
+1. [Hurricane Matthew: The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/hurricane-matthew-the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md) _(Current version)_
 
 ### Related:

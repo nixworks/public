@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/13/73-people-are-released-from-captivity-by-the-ta
 
 ### Changes:
 
-1. [War in North-West Pakistan:73 people are released from captivity by the Taliban, a day after they were kidnapped. ](/news/2014/04/13/war-in-north-west-pakistan-p73-people-are-released-from-captivity-by-the-taliban-a-day-after-they-were-kidnapped.md) _2017-08-25 03:40:17 (First version)_
-2. [War in North-West Pakistan:: 73 people are released from captivity by the Taliban, a day after they were kidnapped. ](/news/2014/04/13/war-in-north-west-pakistan-73-people-are-released-from-captivity-by-the-taliban-a-day-after-they-were-kidnapped.md) _2017-08-27 03:40:35 (Update)_
+1. [War in North-West Pakistan:73 people are released from captivity by the Taliban, a day after they were kidnapped. ](/news/2014/04/13/war-in-north-west-pakistan-p73-people-are-released-from-captivity-by-the-taliban-a-day-after-they-were-kidnapped.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: 73 people are released from captivity by the Taliban, a day after they were kidnapped. ](/news/2014/04/13/war-in-north-west-pakistan-73-people-are-released-from-captivity-by-the-taliban-a-day-after-they-were-kidnapped.md) _2018-02-06 13:49:26 (Update)_
 2. [73 people are released from captivity by the Taliban, a day after they were kidnapped. ](/news/2014/04/13/73-people-are-released-from-captivity-by-the-taliban-a-day-after-they-were-kidnapped.md) _(Current version)_
 
 ### Related:

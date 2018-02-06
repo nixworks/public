@@ -16,8 +16,8 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 
 ### Changes:
 
-1. [Delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their garbage from reaching the seas. ](/news/2017/06/8/delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into-the-oceans-pledge-to-reduce-their.md) _2017-06-08 07:30:06 (First version)_
-2. [United Nations Ocean Conference: At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/united-nations-ocean-conference-at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-t.md) _2017-08-27 03:48:27 (Update)_
+1. [United Nations Ocean Conference: At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/united-nations-ocean-conference-at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-t.md) _2018-02-06 13:49:30 (First version)_
+2. [Delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their garbage from reaching the seas. ](/news/2017/06/8/delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into-the-oceans-pledge-to-reduce-their.md) _2018-02-06 13:49:30 (Update)_
 2. [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md) _(Current version)_
 
 ### Related:

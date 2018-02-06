@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/05/15/gunmen-using-silenced-weapons-attack-at-least-n
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-pgunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twelv.md) _2017-08-25 03:38:40 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twel.md) _2017-08-27 03:38:53 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-pgunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twelv.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twel.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twelve-people.md) _(Current version)_
 
 ### Related:

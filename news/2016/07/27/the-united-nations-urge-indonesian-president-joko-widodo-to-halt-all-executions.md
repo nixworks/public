@@ -15,7 +15,7 @@ UN express alarm at planned executions of convicts, including citizens from Nige
 
 ### Changes:
 
-1. [Capital punishment in Indonesia: The United Nations urge Indonesian president Joko Widodo to halt all executions. ](/news/2016/07/27/capital-punishment-in-indonesia-the-united-nations-urge-indonesian-president-joko-widodo-to-halt-all-executions.md) _2017-08-27 03:46:33 (First version)_
+1. [Capital punishment in Indonesia: The United Nations urge Indonesian president Joko Widodo to halt all executions. ](/news/2016/07/27/capital-punishment-in-indonesia-the-united-nations-urge-indonesian-president-joko-widodo-to-halt-all-executions.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations urge Indonesian president Joko Widodo to halt all executions. ](/news/2016/07/27/the-united-nations-urge-indonesian-president-joko-widodo-to-halt-all-executions.md) _(Current version)_
 
 ### Related:

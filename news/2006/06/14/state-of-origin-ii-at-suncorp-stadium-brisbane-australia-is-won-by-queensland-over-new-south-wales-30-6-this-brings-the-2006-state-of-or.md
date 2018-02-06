@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/06/14/state-of-origin-ii-at-suncorp-stadium-brisbane-
 
 ### Changes:
 
-1. [ State of Origin II at Suncorp Stadium, Brisbane, Australia is won by Queensland over New South Wales 30-6. This brings the 2006 State of Origin series to 1 all even after New South Wales won the first game on 24 May 2006](/news/2006/06/14/state-of-origin-ii-at-suncorp-stadium-brisbane-australia-is-won-by-queensland-over-new-south-wales-30-6-this-brings-the-2006-state-of-o.md) _2017-08-25 03:17:46 (First version)_
+1. [ State of Origin II at Suncorp Stadium, Brisbane, Australia is won by Queensland over New South Wales 30-6. This brings the 2006 State of Origin series to 1 all even after New South Wales won the first game on 24 May 2006](/news/2006/06/14/state-of-origin-ii-at-suncorp-stadium-brisbane-australia-is-won-by-queensland-over-new-south-wales-30-6-this-brings-the-2006-state-of-o.md) _2018-02-06 13:49:17 (First version)_
 1. [ State of Origin II at Suncorp Stadium, Brisbane, Australia is won by Queensland over New South Wales 30-6. This brings the 2006 State of Origin series to 1 all even after New South Wales won the first game on 24 May 2006](/news/2006/06/14/state-of-origin-ii-at-suncorp-stadium-brisbane-australia-is-won-by-queensland-over-new-south-wales-30-6-this-brings-the-2006-state-of-or.md) _(Current version)_
 
 ### Related:

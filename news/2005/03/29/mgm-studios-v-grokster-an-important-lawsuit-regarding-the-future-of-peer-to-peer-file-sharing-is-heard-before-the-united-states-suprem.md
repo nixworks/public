@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-reg
 
 ### Changes:
 
-1. [ ''MGM Studios v. Grokster'', an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-supr.md) _2017-08-25 03:15:51 (First version)_
+1. [ ''MGM Studios v. Grokster'', an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-supr.md) _2018-02-06 13:49:16 (First version)_
 1. [ "MGM Studios v. Grokster", an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-suprem.md) _(Current version)_
 
 ### Related:

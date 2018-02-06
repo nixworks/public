@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/02/3/the-armed-forces-claim-to-have-captured-an-under
 
 ### Changes:
 
-1. [ Sri Lankan Civil War: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/sri-lankan-civil-war-p-the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md) _2017-08-25 03:23:39 (First version)_
-2. [ Sri Lankan Civil War:: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/sri-lankan-civil-war-the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md) _2017-08-27 03:23:30 (Update)_
+1. [ Sri Lankan Civil War:: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/sri-lankan-civil-war-the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md) _2018-02-06 13:49:18 (First version)_
+2. [ Sri Lankan Civil War: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/sri-lankan-civil-war-p-the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md) _(Current version)_
 
 ### Related:

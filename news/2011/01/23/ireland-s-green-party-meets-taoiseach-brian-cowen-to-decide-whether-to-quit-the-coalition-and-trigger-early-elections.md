@@ -27,8 +27,8 @@ The Greens in the Republic of Ireland are to decide whether to leave the coaliti
 
 ### Changes:
 
-1. [Situation in Ireland:Ireland's Green Party meets Taoiseach Brian Cowen to decide whether to quit the coalition and trigger early elections. ](/news/2011/01/23/situation-in-ireland-pireland-s-green-party-meets-taoiseach-brian-cowen-to-decide-whether-to-quit-the-coalition-and-trigger-early-elections.md) _2017-08-25 03:31:54 (First version)_
-2. [Situation in Ireland:: Ireland's Green Party meets Taoiseach Brian Cowen to decide whether to quit the coalition and trigger early elections. ](/news/2011/01/23/situation-in-ireland-ireland-s-green-party-meets-taoiseach-brian-cowen-to-decide-whether-to-quit-the-coalition-and-trigger-early-elections.md) _2017-08-27 03:32:02 (Update)_
+1. [Situation in Ireland:Ireland's Green Party meets Taoiseach Brian Cowen to decide whether to quit the coalition and trigger early elections. ](/news/2011/01/23/situation-in-ireland-pireland-s-green-party-meets-taoiseach-brian-cowen-to-decide-whether-to-quit-the-coalition-and-trigger-early-elections.md) _2018-02-06 13:49:21 (First version)_
+2. [Situation in Ireland:: Ireland's Green Party meets Taoiseach Brian Cowen to decide whether to quit the coalition and trigger early elections. ](/news/2011/01/23/situation-in-ireland-ireland-s-green-party-meets-taoiseach-brian-cowen-to-decide-whether-to-quit-the-coalition-and-trigger-early-elections.md) _2018-02-06 13:49:21 (Update)_
 2. [Ireland's Green Party meets Taoiseach Brian Cowen to decide whether to quit the coalition and trigger early elections. ](/news/2011/01/23/ireland-s-green-party-meets-taoiseach-brian-cowen-to-decide-whether-to-quit-the-coalition-and-trigger-early-elections.md) _(Current version)_
 
 ### Related:

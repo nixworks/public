@@ -25,15 +25,15 @@ The government announces an independent review of the workings of the Libor inte
 
 ##### Samsung
 ### [Samsung is barred from selling its Galaxy Nexus phone in the United States due to a patent dispute with Apple Inc. ](/news/2012/06/30/samsung-is-barred-from-selling-its-galaxy-nexus-phone-in-the-united-states-due-to-a-patent-dispute-with-apple-inc.md)
-_Context: Galaxy Nexus, Apple Inc, Samsung_
+_Context: Apple Inc, Samsung, Galaxy Nexus_
 
 ##### Xinjiang
 ### [A strong earthquake hits the Xinjiang region of western China with rescuers dispatched to search for casualties. ](/news/2012/06/30/a-strong-earthquake-hits-the-xinjiang-region-of-western-china-with-rescuers-dispatched-to-search-for-casualties.md)
-_Context: Chinese, Xinjiang_
+_Context: Xinjiang, Chinese_
 
 ##### strong storms
 ### [The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. ](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-states-of-the-united-states-reaches-13-with-millions-out-of-power-and-states-of-emergencies.md)
-_Context: Virginia, state of emergency, United States, West Virginia, District of Columbia, Maryland, Mid-Atlantic, strong storms, Ohio_
+_Context: Virginia, District of Columbia, Mid-Atlantic, United States, strong storms, state of emergency, West Virginia, Ohio, Maryland_
 
 ##### Barrio Azteca
 ### [A top leader of the Texan gang known as Barrio Azteca is extradited to the United States from Mexico. The gang member was responsible for killing two U.S. consulate workers in Ciudad Juarez in March 2010. ](/news/2012/06/30/a-top-leader-of-the-texan-gang-known-as-barrio-azteca-is-extradited-to-the-united-states-from-mexico-the-gang-member-was-responsible-for-ki.md)
@@ -41,15 +41,15 @@ MEXICO CITY (Reuters) - Mexico has extradited a drug gang leader to face charges
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi is sworn in as President of Egypt, the first president elected since Hosni Mubarak was ousted in last year's revolution. ](/news/2012/06/30/mohamed-morsi-is-sworn-in-as-president-of-egypt-the-first-president-elected-since-hosni-mubarak-was-ousted-in-last-year-s-revolution.md)
-_Context: 2011 Egyptian revolution, President, Hosni Mubarak, Mohamed Morsi_
+_Context: Hosni Mubarak, President, Mohamed Morsi, 2011 Egyptian revolution_
 
 ##### President of Georgia
 ### [President of Georgia Mikheil Saakashvili names Interior Minister Vano Merabishvili as the country's new Prime Minister. ](/news/2012/06/30/president-of-georgia-mikheil-saakashvili-names-interior-minister-vano-merabishvili-as-the-country-s-new-prime-minister.md)
-_Context: Vano Merabishvili, Prime Minister of Georgia, Mikheil Saakashvili, President of Georgia_
+_Context: Mikheil Saakashvili, Vano Merabishvili, Prime Minister of Georgia, President of Georgia_
 
 ##### Molecule of the Year
 ### [The Molecule of the Year 2011 is BMP7 as announced by Isidro A. T. Savillo, President, ISMCBBPR. ](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.md)
-_Context: ISMCBBPR, BMP7, Molecule of the Year_
+_Context: ISMCBBPR, Molecule of the Year, BMP7_
 
 ## [Previous Day...](/news/2012/06/29/index.md)
 

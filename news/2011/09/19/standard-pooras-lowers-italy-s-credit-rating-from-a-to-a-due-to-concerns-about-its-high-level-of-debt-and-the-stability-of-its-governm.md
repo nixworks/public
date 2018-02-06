@@ -17,7 +17,7 @@ Italy’s credit rating was cut by Standard &amp; Poor’s, the country’s firs
 
 ### Changes:
 
-1. [Standard & Poor-s lowers Italy's credit rating from A+ to A, due to concerns about its high level of debt and the stability of its government. ](/news/2011/09/19/standard-poor-s-lowers-italy-s-credit-rating-from-a-to-a-due-to-concerns-about-its-high-level-of-debt-and-the-stability-of-its-governm.md) _2017-08-27 03:34:19 (First version)_
+1. [Standard & Poor-s lowers Italy's credit rating from A+ to A, due to concerns about its high level of debt and the stability of its government. ](/news/2011/09/19/standard-poor-s-lowers-italy-s-credit-rating-from-a-to-a-due-to-concerns-about-its-high-level-of-debt-and-the-stability-of-its-governm.md) _2018-02-06 13:49:22 (First version)_
 1. [Standard & Poor's lowers Italy's credit rating from A+ to A, due to concerns about its high level of debt and the stability of its government. ](/news/2011/09/19/standard-pooras-lowers-italy-s-credit-rating-from-a-to-a-due-to-concerns-about-its-high-level-of-debt-and-the-stability-of-its-governm.md) _(Current version)_
 
 ### Related:

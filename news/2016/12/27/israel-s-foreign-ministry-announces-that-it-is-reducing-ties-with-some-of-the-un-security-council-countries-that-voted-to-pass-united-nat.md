@@ -17,7 +17,7 @@ Israel curbed relations with countries that voted in favor of a recent U.N. Secu
 
 ### Changes:
 
-1. [ Israel's Foreign Ministry announces that it is "reducing" ties with some of the UN Security Council countries that voted to pass United Nations Security Council Resolution 2334. ](/news/2016/12/27/israel-s-foreign-ministry-announces-that-it-is-reducing-ties-with-some-of-the-un-security-council-countries-that-voted-to-pass-united-n.md) _2017-08-25 03:47:08 (First version)_
+1. [ Israel's Foreign Ministry announces that it is "reducing" ties with some of the UN Security Council countries that voted to pass United Nations Security Council Resolution 2334. ](/news/2016/12/27/israel-s-foreign-ministry-announces-that-it-is-reducing-ties-with-some-of-the-un-security-council-countries-that-voted-to-pass-united-n.md) _2018-02-06 13:49:30 (First version)_
 1. [ Israel's Foreign Ministry announces that it is "reducing" ties with some of the UN Security Council countries that voted to pass United Nations Security Council Resolution 2334. ](/news/2016/12/27/israel-s-foreign-ministry-announces-that-it-is-reducing-ties-with-some-of-the-un-security-council-countries-that-voted-to-pass-united-nat.md) _(Current version)_
 
 ### Related:

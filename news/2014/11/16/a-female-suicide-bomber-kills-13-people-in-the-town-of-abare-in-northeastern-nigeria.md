@@ -17,8 +17,8 @@ The Nigerian army says it has recaptured the north-eastern Nigerian town of Chib
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. ](/news/2014/11/16/islamist-insurgency-in-nigeria-pa-female-suicide-bomber-kills-13-people-in-the-town-of-abare-in-northeastern-nigeria.md) _2017-08-25 03:41:12 (First version)_
-2. [Islamist insurgency in Nigeria:: A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. ](/news/2014/11/16/islamist-insurgency-in-nigeria-a-female-suicide-bomber-kills-13-people-in-the-town-of-abare-in-northeastern-nigeria.md) _2017-08-27 03:41:31 (Update)_
+1. [Islamist insurgency in Nigeria:A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. ](/news/2014/11/16/islamist-insurgency-in-nigeria-pa-female-suicide-bomber-kills-13-people-in-the-town-of-abare-in-northeastern-nigeria.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. ](/news/2014/11/16/islamist-insurgency-in-nigeria-a-female-suicide-bomber-kills-13-people-in-the-town-of-abare-in-northeastern-nigeria.md) _2018-02-06 13:49:26 (Update)_
 2. [A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. ](/news/2014/11/16/a-female-suicide-bomber-kills-13-people-in-the-town-of-abare-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

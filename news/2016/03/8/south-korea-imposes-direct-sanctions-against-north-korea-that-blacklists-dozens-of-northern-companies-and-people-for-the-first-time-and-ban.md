@@ -17,7 +17,7 @@ The miniaturization claim comes as the South imposed a ne wave of sanctions.
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea imposes direct sanctions against North Korea that blacklists dozens of Northern companies and people for the first time, and bans ships that have visited North Korean ports in the previous 180 days from its waters. ](/news/2016/03/8/north-korea-south-korea-relations-south-korea-imposes-direct-sanctions-against-north-korea-that-blacklists-dozens-of-northern-companies-a.md) _2017-08-27 03:45:10 (First version)_
+1. [North Korea-South Korea relations: South Korea imposes direct sanctions against North Korea that blacklists dozens of Northern companies and people for the first time, and bans ships that have visited North Korean ports in the previous 180 days from its waters. ](/news/2016/03/8/north-korea-south-korea-relations-south-korea-imposes-direct-sanctions-against-north-korea-that-blacklists-dozens-of-northern-companies-a.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea imposes direct sanctions against North Korea that blacklists dozens of Northern companies and people for the first time, and bans ships that have visited North Korean ports in the previous 180 days from its waters. ](/news/2016/03/8/south-korea-imposes-direct-sanctions-against-north-korea-that-blacklists-dozens-of-northern-companies-and-people-for-the-first-time-and-ban.md) _(Current version)_
 
 ### Related:

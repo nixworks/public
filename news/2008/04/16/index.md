@@ -9,11 +9,11 @@ _Context: journalist, run-off presidential election, Zimbabwe_
 
 ##### Narmada River
 ### [ Around 44 people, mostly children, die after a bus plunges into the Narmada River in the western Indian state of Gujarat. ](/news/2008/04/16/around-44-people-mostly-children-die-after-a-bus-plunges-into-the-narmada-river-in-the-western-indian-state-of-gujarat.md)
-_Context: Narmada River, Gujarat, India_
+_Context: Narmada River, India, Gujarat_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court upholds the constitutionality of lethal injection as a form of capital punishment over Eighth Amendment "cruel and unusual punishment" challenges. ](/news/2008/04/16/the-united-states-supreme-court-upholds-the-constitutionality-of-lethal-injection-as-a-form-of-capital-punishment-over-eighth-amendment-cr.md)
-_Context: cruel and unusual punishment, capital punishment, constitutionality, United States Supreme Court, upholds, constitutional rights, lethal injection_
+_Context: constitutional rights, capital punishment, constitutionality, cruel and unusual punishment, lethal injection, upholds, United States Supreme Court_
 
 ## [Previous Day...](/news/2008/04/15/index.md)
 

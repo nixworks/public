@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/18/bongbong-marcos-the-son-of-dictator-ferdinand-m
 
 ### Changes:
 
-1. [Philippine general election, 2016: Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/philippine-general-election-2016-bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-dutert.md) _2017-08-27 03:45:40 (First version)_
+1. [Philippine general election, 2016: Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/philippine-general-election-2016-bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-dutert.md) _2018-02-06 13:49:28 (First version)_
 1. [Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-duterte-s-remarks-about-rape.md) _(Current version)_
 
 ### Related:

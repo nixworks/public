@@ -16,7 +16,7 @@ A Yemeni security official says some 1,200 inmates fled a prison after guards de
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/al-qaeda-insurgency-in-yemen-some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _2017-08-27 03:42:37 (First version)_
+1. [al-Qaeda insurgency in Yemen: Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/al-qaeda-insurgency-in-yemen-some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _2018-02-06 13:49:27 (First version)_
 1. [Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _(Current version)_
 
 ### Related:

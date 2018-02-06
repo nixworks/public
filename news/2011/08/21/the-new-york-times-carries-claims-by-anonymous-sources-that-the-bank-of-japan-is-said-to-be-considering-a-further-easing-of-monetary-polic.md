@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-
 
 ### Changes:
 
-1. [''The New York Times'' carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-pol.md) _2017-08-25 03:34:02 (First version)_
+1. [''The New York Times'' carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-pol.md) _2018-02-06 13:49:22 (First version)_
 1. ["The New York Times" carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-polic.md) _(Current version)_
 
 ### Related:

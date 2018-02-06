@@ -16,7 +16,7 @@ Mr. Sabri, a prominent singer of Sufi devotional songs, had been named in a blas
 
 ### Changes:
 
-1. [Sectarianism in Pakistan: Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/sectarianism-in-pakistan-gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-respon.md) _2017-08-27 03:46:19 (First version)_
+1. [Sectarianism in Pakistan: Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/sectarianism-in-pakistan-gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-respon.md) _2018-02-06 13:49:29 (First version)_
 1. [Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-responsibility.md) _(Current version)_
 
 ### Related:

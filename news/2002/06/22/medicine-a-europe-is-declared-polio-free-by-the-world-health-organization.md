@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/22/medicine-a-europe-is-declared-polio-free-by-the
 
 ### Changes:
 
-1. [ Medicine - Europe is declared polio-free by the World Health Organization.](/news/2002/06/22/medicine-europe-is-declared-polio-free-by-the-world-health-organization.md) _2017-08-27 03:15:13 (First version)_
+1. [ Medicine - Europe is declared polio-free by the World Health Organization.](/news/2002/06/22/medicine-europe-is-declared-polio-free-by-the-world-health-organization.md) _2018-02-06 13:49:15 (First version)_
 1. [ Medicine - Europe is declared polio-free by the World Health Organization.](/news/2002/06/22/medicine-a-europe-is-declared-polio-free-by-the-world-health-organization.md) _(Current version)_
 
 ### Related:

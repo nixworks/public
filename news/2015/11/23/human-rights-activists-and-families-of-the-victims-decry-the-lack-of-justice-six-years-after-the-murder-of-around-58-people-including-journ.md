@@ -18,7 +18,7 @@ Six years after gunmen flagged down a convoy of cars in the southern Philippine 
 
 ### Changes:
 
-1. [Maguindanao massacre: Human rights activists and families of the victims decry the lack of justice six years after the murder of around 58 people, including journalists and politicians, in Maguindanao, Mindanao. They criticize the regime of Philippines President Benigno Aquino III for the lack of convictions in the trial. ](/news/2015/11/23/maguindanao-massacre-human-rights-activists-and-families-of-the-victims-decry-the-lack-of-justice-six-years-after-the-murder-of-around-58-p.md) _2017-08-27 03:44:01 (First version)_
+1. [Maguindanao massacre: Human rights activists and families of the victims decry the lack of justice six years after the murder of around 58 people, including journalists and politicians, in Maguindanao, Mindanao. They criticize the regime of Philippines President Benigno Aquino III for the lack of convictions in the trial. ](/news/2015/11/23/maguindanao-massacre-human-rights-activists-and-families-of-the-victims-decry-the-lack-of-justice-six-years-after-the-murder-of-around-58-p.md) _2018-02-06 13:49:28 (First version)_
 1. [Human rights activists and families of the victims decry the lack of justice six years after the murder of around 58 people, including journalists and politicians, in Maguindanao, Mindanao. They criticize the regime of Philippines President Benigno Aquino III for the lack of convictions in the trial. ](/news/2015/11/23/human-rights-activists-and-families-of-the-victims-decry-the-lack-of-justice-six-years-after-the-murder-of-around-58-people-including-journ.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Formats: [HTML](/news/2005/05/20/star-wars-episode-iii-revenge-of-the-sith-reach
 
 ### Changes:
 
-1. [ ''Star Wars Episode III: Revenge of the Sith'' reaches a record high at the box offices on opening day with $50 million on 9,400 screens at 3,661 theaters worldwide, edging out ''Spider-Man 2'''s top opening day record of $40.4 million and ''Shrek 2's'' top single day record of $44.8 million. ](/news/2005/05/20/star-wars-episode-iii-revenge-of-the-sith-reaches-a-record-high-at-the-box-offices-on-opening-day-with-50-million-on-9-400-screens-at.md) _2017-08-25 03:16:14 (First version)_
+1. [ ''Star Wars Episode III: Revenge of the Sith'' reaches a record high at the box offices on opening day with $50 million on 9,400 screens at 3,661 theaters worldwide, edging out ''Spider-Man 2'''s top opening day record of $40.4 million and ''Shrek 2's'' top single day record of $44.8 million. ](/news/2005/05/20/star-wars-episode-iii-revenge-of-the-sith-reaches-a-record-high-at-the-box-offices-on-opening-day-with-50-million-on-9-400-screens-at.md) _2018-02-06 13:49:16 (First version)_
 1. [ "Star Wars Episode III: Revenge of the Sith" reaches a record high at the box offices on opening day with $50 million on 9,400 screens at 3,661 theaters worldwide, edging out "Spider-Man 2"'s top opening day record of $40.4 million and "Shrek 2's" top single day record of $44.8 million. ](/news/2005/05/20/star-wars-episode-iii-revenge-of-the-sith-reaches-a-record-high-at-the-box-offices-on-opening-day-with-50-million-on-9-400-screens-at-3.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A Somali man is shot dead after injuring a soldier with a machete in the centre 
 
 ### Changes:
 
-1. [2017 stabbing of Brussels police officers: A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/2017-stabbing-of-brussels-police-officers-a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-pros.md) _2017-08-27 09:30:04 (First version)_
-2. [August 2017 Brussels attack: A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/august-2017-brussels-attack-a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-prosecutors-are-tr.md) _2017-08-27 17:30:04 (Update)_
+1. [August 2017 Brussels attack: A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/august-2017-brussels-attack-a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-prosecutors-are-tr.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 stabbing of Brussels police officers: A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/2017-stabbing-of-brussels-police-officers-a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-pros.md) _2018-02-06 13:49:31 (Update)_
 2. [A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-prosecutors-are-treating-as-a-terror-attack.md) _(Current version)_
 
 ### Related:

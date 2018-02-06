@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/03/2/nestla-c-and-danone-are-said-to-be-bidding-for-t
 
 ### Changes:
 
-1. [Nestl and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestle-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md) _2017-10-17 03:40:56 (First version)_
+1. [Nestl and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestle-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md) _2018-02-06 13:49:23 (First version)_
 1. [Nestle and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestla-c-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md) _(Current version)_
 
 ### Related:

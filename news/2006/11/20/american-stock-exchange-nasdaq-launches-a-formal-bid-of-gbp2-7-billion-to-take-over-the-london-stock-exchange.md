@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-forma
 
 ### Changes:
 
-1. [ American stock exchange Nasdaq launches a formal bid of 2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-ps2-7-billion-to-take-over-the-london-stock-exchange.md) _2017-08-25 03:18:48 (First version)_
+1. [ American stock exchange Nasdaq launches a formal bid of 2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-ps2-7-billion-to-take-over-the-london-stock-exchange.md) _2018-02-06 13:49:17 (First version)_
 1. [ American stock exchange Nasdaq launches a formal bid of GBP2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-gbp2-7-billion-to-take-over-the-london-stock-exchange.md) _(Current version)_
 
 ### Related:

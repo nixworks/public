@@ -21,8 +21,8 @@ U.N. monitors entered the Syrian hamlet of Mazraat al-Qubeir where up to 78 peop
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising:United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-psyrian-uprising-punited-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-reporte.md) _2017-08-25 03:35:50 (First version)_
-2. [Arab Spring:: Syrian uprising:: United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-repor.md) _2017-08-27 03:36:01 (Update)_
+1. [Arab Spring:: Syrian uprising:: United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-repor.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising:United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-psyrian-uprising-punited-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-reporte.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising:United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-reported-to-have-been.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Some of the world’s biggest buyers have stopped trading with Korindo after the
 
 ### Changes:
 
-1. [2016 Southeast Asian haze: A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/2016-southeast-asian-haze-a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md) _2017-08-27 03:46:45 (First version)_
+1. [2016 Southeast Asian haze: A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/2016-southeast-asian-haze-a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md) _2018-02-06 13:49:29 (First version)_
 1. [A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ China extends its national defence perimeter to include islands in the East Chin
 
 ### Changes:
 
-1. [Senkaku Islands dispute:China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/senkaku-islands-dispute-pchina-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-isl.md) _2017-08-25 03:39:34 (First version)_
-2. [Senkaku Islands dispute:: China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/senkaku-islands-dispute-china-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-is.md) _2017-08-27 03:39:52 (Update)_
+1. [Senkaku Islands dispute:China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/senkaku-islands-dispute-pchina-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-isl.md) _2018-02-06 13:49:25 (First version)_
+2. [Senkaku Islands dispute:: China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/senkaku-islands-dispute-china-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-is.md) _2018-02-06 13:49:25 (Update)_
 2. [China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/china-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-islands-also-claimed-by-jap.md) _(Current version)_
 
 ### Related:

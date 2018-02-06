@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bo
 
 ### Changes:
 
-1. [ Jamal al-Bedawi, who masterminded the USS ''Cole'' bombing, and Fawaz al-Rabeiee, who planned the 2002 attack on the French tanker ''Limburg'', escape from a prison in Yemen along with 22 other prisoners, 12 of whom were convicted members of Al-Qaida. ](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bombing-and-fawaz-al-rabeiee-who-planned-the-2002-attack-on-the-french-tanker-limbur.md) _2017-08-25 03:17:26 (First version)_
+1. [ Jamal al-Bedawi, who masterminded the USS ''Cole'' bombing, and Fawaz al-Rabeiee, who planned the 2002 attack on the French tanker ''Limburg'', escape from a prison in Yemen along with 22 other prisoners, 12 of whom were convicted members of Al-Qaida. ](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bombing-and-fawaz-al-rabeiee-who-planned-the-2002-attack-on-the-french-tanker-limbur.md) _2018-02-06 13:49:16 (First version)_
 1. [ Jamal al-Bedawi, who masterminded the USS "Cole" bombing, and Fawaz al-Rabeiee, who planned the 2002 attack on the French tanker "Limburg", escape from a prison in Yemen along with 22 other prisoners, 12 of whom were convicted members of Al-Qaida. ](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bombing-and-fawaz-al-rabeiee-who-planned-the-2002-attack-on-the-french-tanker-limburg.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ KUNDUZ, Afghanistan -- Six village police officers were poisoned and then shot t
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Six police officers are poisoned and fatally shot in Kunduz Province, Afghanistan while another one is missing. ](/news/2013/04/26/war-in-afghanistan-2001-present-six-police-officers-are-poisoned-and-fatally-shot-in-kunduz-province-afghanistan-while-another-one-is-mi.md) _2017-08-27 03:38:41 (First version)_
+1. [War in Afghanistan (2001-present): Six police officers are poisoned and fatally shot in Kunduz Province, Afghanistan while another one is missing. ](/news/2013/04/26/war-in-afghanistan-2001-present-six-police-officers-are-poisoned-and-fatally-shot-in-kunduz-province-afghanistan-while-another-one-is-mi.md) _2018-02-06 13:49:24 (First version)_
 1. [Six police officers are poisoned and fatally shot in Kunduz Province, Afghanistan while another one is missing. ](/news/2013/04/26/six-police-officers-are-poisoned-and-fatally-shot-in-kunduz-province-afghanistan-while-another-one-is-missing.md) _(Current version)_
 
 ### Related:

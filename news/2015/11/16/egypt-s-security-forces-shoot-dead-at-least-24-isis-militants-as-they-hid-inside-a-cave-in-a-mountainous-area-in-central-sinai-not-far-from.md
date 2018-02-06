@@ -17,7 +17,7 @@ Egyptian security forces shot dead 24 Islamic State militants in central Sinai, 
 
 ### Changes:
 
-1. [Sinai insurgency: Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/sinai-insurgency-egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-s.md) _2017-08-27 03:43:52 (First version)_
+1. [Sinai insurgency: Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/sinai-insurgency-egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-sinai-not-far-from.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-st
 
 ### Changes:
 
-1. [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md) _2017-08-25 03:33:01 (First version)_
+1. [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md) _2018-02-06 13:49:22 (First version)_
 1. [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md) _(Current version)_
 
 ### Related:

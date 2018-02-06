@@ -16,8 +16,8 @@ At least 69 people are known to have died in a Boko Haram ambush of an oil explo
 
 ### Changes:
 
-1. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno state, Nigeria, killing 69. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-69.md) _2017-07-30 15:30:06 (First version)_
-2. [Boko Haram insurgency: Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgency-boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-6.md) _2017-08-27 03:48:44 (Update)_
+1. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno state, Nigeria, killing 69. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-69.md) _2018-02-06 13:49:31 (First version)_
+2. [Boko Haram insurgency: Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgency-boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-6.md) _2018-02-06 13:49:31 (Update)_
 2. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _(Current version)_
 
 ### Related:

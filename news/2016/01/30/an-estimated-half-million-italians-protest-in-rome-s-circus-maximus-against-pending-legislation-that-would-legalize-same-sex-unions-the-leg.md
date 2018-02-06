@@ -19,7 +19,7 @@ Hundreds of thousands of Italians descended on Rome on Saturday to protest a bil
 
 ### Changes:
 
-1. [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-le.md) _2017-08-25 03:44:25 (First version)_
+1. [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-le.md) _2018-02-06 13:49:28 (First version)_
 1. [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-leg.md) _(Current version)_
 
 ### Related:

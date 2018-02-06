@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/15/united-states-pacific-fleet-commander-scott-h-s
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: United States Pacific Fleet commander Scott H. Swift warns of a possible South China Sea arms race. ](/news/2015/12/15/territorial-disputes-in-the-south-china-sea-united-states-pacific-fleet-commander-scott-h-swift-warns-of-a-possible-south-china-sea-arms-r.md) _2017-08-27 03:44:22 (First version)_
+1. [Territorial disputes in the South China Sea: United States Pacific Fleet commander Scott H. Swift warns of a possible South China Sea arms race. ](/news/2015/12/15/territorial-disputes-in-the-south-china-sea-united-states-pacific-fleet-commander-scott-h-swift-warns-of-a-possible-south-china-sea-arms-r.md) _2018-02-06 13:49:28 (First version)_
 1. [United States Pacific Fleet commander Scott H. Swift warns of a possible South China Sea arms race. ](/news/2015/12/15/united-states-pacific-fleet-commander-scott-h-swift-warns-of-a-possible-south-china-sea-arms-race.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The UN is set to host a second day of talks on Libya with the aim of creating a 
 
 ### Changes:
 
-1. [Second Libyan Civil War: UN-backed talks are underway in Tunis regarding the future of Libya, including discussions on forming a unified army for the Government of National Accord. ](/news/2016/07/17/second-libyan-civil-war-un-backed-talks-are-underway-in-tunis-regarding-the-future-of-libya-including-discussions-on-forming-a-unified-arm.md) _2017-08-27 03:46:30 (First version)_
+1. [Second Libyan Civil War: UN-backed talks are underway in Tunis regarding the future of Libya, including discussions on forming a unified army for the Government of National Accord. ](/news/2016/07/17/second-libyan-civil-war-un-backed-talks-are-underway-in-tunis-regarding-the-future-of-libya-including-discussions-on-forming-a-unified-arm.md) _2018-02-06 13:49:29 (First version)_
 1. [UN-backed talks are underway in Tunis regarding the future of Libya, including discussions on forming a unified army for the Government of National Accord. ](/news/2016/07/17/un-backed-talks-are-underway-in-tunis-regarding-the-future-of-libya-including-discussions-on-forming-a-unified-army-for-the-government-of-n.md) _(Current version)_
 
 ### Related:

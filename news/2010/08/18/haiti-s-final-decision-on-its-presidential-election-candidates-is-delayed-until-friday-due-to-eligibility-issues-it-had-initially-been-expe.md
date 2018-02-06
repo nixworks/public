@@ -20,8 +20,8 @@ Electoral commission to rule of presidential bid by Wyclef Jean and others on Fr
 
 ### Changes:
 
-1. [Elections in Haiti:Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-phaiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had.md) _2017-08-25 03:29:31 (First version)_
-2. [Elections in Haiti:: Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-ha.md) _2017-08-27 03:29:36 (Update)_
+1. [Elections in Haiti:Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-phaiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had.md) _2018-02-06 13:49:20 (First version)_
+2. [Elections in Haiti:: Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-ha.md) _2018-02-06 13:49:20 (Update)_
 2. [Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had-initially-been-expe.md) _(Current version)_
 
 ### Related:

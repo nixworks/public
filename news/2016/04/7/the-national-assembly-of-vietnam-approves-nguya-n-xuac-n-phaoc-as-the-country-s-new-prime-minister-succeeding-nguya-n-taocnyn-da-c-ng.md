@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-
 
 ### Changes:
 
-1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen Tan Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taoy-n-da-c-ng.md) _2017-08-25 03:45:10 (First version)_
+1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen Tan Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taoy-n-da-c-ng.md) _2018-02-06 13:49:29 (First version)_
 1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen TCNYn Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.md) _(Current version)_
 
 ### Related:

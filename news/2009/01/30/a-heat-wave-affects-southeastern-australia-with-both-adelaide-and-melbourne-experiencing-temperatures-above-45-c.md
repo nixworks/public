@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with
 
 ### Changes:
 
-1. [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above {{convert|45|C}}. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-convert-45-c.md) _2017-05-01 03:24:40 (First version)_
+1. [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above {{convert|45|C}}. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-convert-45-c.md) _2018-02-06 13:49:18 (First version)_
 1. [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above 45 C. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-45-c.md) _(Current version)_
 
 ### Related:

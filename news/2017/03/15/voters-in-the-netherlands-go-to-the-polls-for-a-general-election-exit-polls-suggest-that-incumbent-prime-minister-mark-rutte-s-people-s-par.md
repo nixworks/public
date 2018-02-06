@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/15/voters-in-the-netherlands-go-to-the-polls-for-a
 
 ### Changes:
 
-1. [Dutch general election, 2017: Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/dutch-general-election-2017-voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-mini.md) _2017-08-27 03:47:59 (First version)_
+1. [Dutch general election, 2017: Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/dutch-general-election-2017-voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-mini.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-minister-mark-rutte-s-people-s-par.md) _(Current version)_
 
 ### Related:

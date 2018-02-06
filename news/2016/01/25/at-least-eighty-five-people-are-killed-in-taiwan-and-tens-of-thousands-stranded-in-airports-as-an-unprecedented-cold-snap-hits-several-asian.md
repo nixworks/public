@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwa
 
 ### Changes:
 
-1. [January 2016 East Asia cold wave: At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/january-2016-east-asia-cold-wave-at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unpreced.md) _2017-08-27 03:44:45 (First version)_
+1. [January 2016 East Asia cold wave: At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/january-2016-east-asia-cold-wave-at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unpreced.md) _2018-02-06 13:49:28 (First version)_
 1. [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md) _(Current version)_
 
 ### Related:

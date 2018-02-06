@@ -16,7 +16,7 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 
 ### Changes:
 
-1. [Two trains collide in Andermatt railway station, located in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-located-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _2017-09-12 00:30:04 (First version)_
+1. [Two trains collide in Andermatt railway station, located in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-located-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _2018-02-06 13:49:31 (First version)_
 1. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _(Current version)_
 
 ### Related:

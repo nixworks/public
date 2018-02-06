@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/10/7/since-august-1-another-round-of-pneumonic-buboni
 
 ### Changes:
 
-1. [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md) _2017-10-09 23:30:06 (First version)_
+1. [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md) _2018-02-06 13:49:31 (First version)_
 1. [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md) _(Current version)_
 
 ### Related:

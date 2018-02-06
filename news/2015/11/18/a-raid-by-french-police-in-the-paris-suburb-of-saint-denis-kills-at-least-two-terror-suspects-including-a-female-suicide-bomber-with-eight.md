@@ -22,7 +22,7 @@ SAINT-DENIS, France — A woman blew herself up in a Paris suburb early Wednesda
 
 ### Changes:
 
-1. [November 2015 Paris attacks: A raid by French police in the Paris suburb of Saint-Denis kills at least two terror suspects, including a female suicide bomber, with eight others arrested. ](/news/2015/11/18/november-2015-paris-attacks-a-raid-by-french-police-in-the-paris-suburb-of-saint-denis-kills-at-least-two-terror-suspects-including-a-fema.md) _2017-08-27 03:43:55 (First version)_
+1. [November 2015 Paris attacks: A raid by French police in the Paris suburb of Saint-Denis kills at least two terror suspects, including a female suicide bomber, with eight others arrested. ](/news/2015/11/18/november-2015-paris-attacks-a-raid-by-french-police-in-the-paris-suburb-of-saint-denis-kills-at-least-two-terror-suspects-including-a-fema.md) _2018-02-06 13:49:28 (First version)_
 1. [A raid by French police in the Paris suburb of Saint-Denis kills at least two terror suspects, including a female suicide bomber, with eight others arrested. ](/news/2015/11/18/a-raid-by-french-police-in-the-paris-suburb-of-saint-denis-kills-at-least-two-terror-suspects-including-a-female-suicide-bomber-with-eight.md) _(Current version)_
 
 ### Related:

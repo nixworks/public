@@ -16,7 +16,7 @@ Libertas founder Declan Ganley says next month&#39;s referendum on the Lisbon Tr
 
 ### Changes:
 
-1. [ In an interview with ''The Wall Street Journal'', Libertas founder Declan Ganley says the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/11/in-an-interview-with-the-wall-street-journal-libertas-founder-declan-ganley-says-the-second-irish-referendum-on-the-treaty-of-lisbon-i.md) _2017-08-25 03:25:42 (First version)_
+1. [ In an interview with ''The Wall Street Journal'', Libertas founder Declan Ganley says the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/11/in-an-interview-with-the-wall-street-journal-libertas-founder-declan-ganley-says-the-second-irish-referendum-on-the-treaty-of-lisbon-i.md) _2018-02-06 13:49:19 (First version)_
 1. [ In an interview with "The Wall Street Journal", Libertas founder Declan Ganley says the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/11/in-an-interview-with-the-wall-street-journal-libertas-founder-declan-ganley-says-the-second-irish-referendum-on-the-treaty-of-lisbon-is.md) _(Current version)_
 
 ### Related:

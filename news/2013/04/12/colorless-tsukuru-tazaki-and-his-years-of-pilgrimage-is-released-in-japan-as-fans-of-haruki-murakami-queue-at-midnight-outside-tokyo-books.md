@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgr
 
 ### Changes:
 
-1. [''Colorless Tsukuru Tazaki and His Years of Pilgrimage'' is released in Japan as fans of Haruki Murakami queue at midnight outside Tokyo bookshops. ](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-is-released-in-japan-as-fans-of-haruki-murakami-queue-at-midnight-outside-tokyo-boo.md) _2017-08-25 03:38:18 (First version)_
+1. [''Colorless Tsukuru Tazaki and His Years of Pilgrimage'' is released in Japan as fans of Haruki Murakami queue at midnight outside Tokyo bookshops. ](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-is-released-in-japan-as-fans-of-haruki-murakami-queue-at-midnight-outside-tokyo-boo.md) _2018-02-06 13:49:24 (First version)_
 1. ["Colorless Tsukuru Tazaki and His Years of Pilgrimage" is released in Japan as fans of Haruki Murakami queue at midnight outside Tokyo bookshops. ](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-is-released-in-japan-as-fans-of-haruki-murakami-queue-at-midnight-outside-tokyo-books.md) _(Current version)_
 
 ### Related:

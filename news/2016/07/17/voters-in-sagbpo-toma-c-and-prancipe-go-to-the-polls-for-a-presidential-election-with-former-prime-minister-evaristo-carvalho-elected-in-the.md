@@ -16,7 +16,7 @@ The ruling party candidate and former prime minister Evaristo Carvalho has won t
 
 ### Changes:
 
-1. [Voters in Sao Tome and Principe go to the polls for a presidential election with former Prime Minister Evaristo Carvalho elected in the first round. ](/news/2016/07/17/voters-in-sapso-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-former-prime-minister-evaristo-carvalho-elected-in-the-f.md) _2017-08-25 03:46:08 (First version)_
+1. [Voters in Sao Tome and Principe go to the polls for a presidential election with former Prime Minister Evaristo Carvalho elected in the first round. ](/news/2016/07/17/voters-in-sapso-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-former-prime-minister-evaristo-carvalho-elected-in-the-f.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in SGBPo Tome and Principe go to the polls for a presidential election with former Prime Minister Evaristo Carvalho elected in the first round. ](/news/2016/07/17/voters-in-sagbpo-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-former-prime-minister-evaristo-carvalho-elected-in-the.md) _(Current version)_
 
 ### Related:

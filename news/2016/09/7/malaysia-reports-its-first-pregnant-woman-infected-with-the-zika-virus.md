@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/7/malaysia-reports-its-first-pregnant-woman-infect
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Malaysia reports its first pregnant woman infected with the Zika virus. ](/news/2016/09/7/2015-16-zika-virus-epidemic-malaysia-reports-its-first-pregnant-woman-infected-with-the-zika-virus.md) _2017-08-27 03:46:48 (First version)_
+1. [2015-16 Zika virus epidemic: Malaysia reports its first pregnant woman infected with the Zika virus. ](/news/2016/09/7/2015-16-zika-virus-epidemic-malaysia-reports-its-first-pregnant-woman-infected-with-the-zika-virus.md) _2018-02-06 13:49:29 (First version)_
 1. [Malaysia reports its first pregnant woman infected with the Zika virus. ](/news/2016/09/7/malaysia-reports-its-first-pregnant-woman-infected-with-the-zika-virus.md) _(Current version)_
 
 ### Related:

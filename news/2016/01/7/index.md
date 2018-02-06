@@ -5,19 +5,19 @@ Formats: [HTML](2016/01/7/index.html)  [JSON](2016/01/7/index.json)  [XML](2016/
 
 ##### Libyan Civil War (2014-present)
 ### [At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-the-libyan-town-of-zliten.md)
-_Context: Libyan, Libyan Civil War (2014-present), Zliten truck bombing, Zliten_
+_Context: Zliten truck bombing, Zliten, Libyan Civil War (2014-present), Libyan_
 
 ##### Terrorism in Egypt
 ### [Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused-some-damage-to-the.md)
 Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists boarded a coach outside, Egyptian security sources say.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Iran says last night, Saudi warplanes bombed its embassy in the Yemeni capital, Sana'a, wounding several of its guards. The Associated Press reports there is no visible damage to the building. A Saudi-alliance spokesman promises to investigate the accusations. ](/news/2016/01/7/iran-says-last-night-saudi-warplanes-bombed-its-embassy-in-the-yemeni-capital-sana-a-wounding-several-of-its-guards-the-associated-press.md)
 Iran has accused Saudi Arabia of using warplanes to attack the Iranian embassy in the Yemeni capital Sana&#039;a. Some guards were reportedly wounded in the attack, according to state news channel IRIB. 
 
 ##### Militia occupation of the Malheur National Wildlife Refuge
 ### [Tribal chair Charlotte Rodrique of the local Burns Paiute Tribe has joined in asking the occupiers to leave saying "The protesters have no claim to this land". Rodrique further cites a treaty, never ratified by the United States Congress, giving ownership of the land to the tribe. ](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.md)
-_Context: lawmakers, Militia occupation of the Malheur National Wildlife Refuge, Burns Paiute Tribe_
+_Context: Militia occupation of the Malheur National Wildlife Refuge, lawmakers, Burns Paiute Tribe_
 
 ##### January 2016 Paris police station attack
 ### [French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. ](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.md)
@@ -25,11 +25,11 @@ Paris police shoot dead a man carrying a meat cleaver exactly a year after the C
 
 ##### The Church of Jesus Christ of Latter-day Saints
 ### [The Church of Jesus Christ of Latter-day Saints announces the formation of three new missions, each in Vietnam, the Democratic Republic of the Congo, and Nigeria. ](/news/2016/01/7/the-church-of-jesus-christ-of-latter-day-saints-announces-the-formation-of-three-new-missions-each-in-vietnam-the-democratic-republic-of-t.md)
-_Context: The Church of Jesus Christ of Latter-day Saints, DR Congo, Nigeria, missions, Vietnam_
+_Context: DR Congo, Vietnam, missions, The Church of Jesus Christ of Latter-day Saints, Nigeria_
 
 ##### 2015-16 Chinese stock market crisis
 ### [Trade is suspended on the Shanghai Stock Exchange and Shenzhen Stock Exchange for a second time in a week after share prices tumble following the devaluation of the yuan. ](/news/2016/01/7/trade-is-suspended-on-the-shanghai-stock-exchange-and-shenzhen-stock-exchange-for-a-second-time-in-a-week-after-share-prices-tumble-followin.md)
-_Context: yuan, Shenzhen Stock Exchange, 2015-16 Chinese stock market crisis, Shanghai Stock Exchange_
+_Context: yuan, 2015-16 Chinese stock market crisis, Shanghai Stock Exchange, Shenzhen Stock Exchange_
 
 ##### 2009-16 Oklahoma earthquake swarms
 ### [In the United States, a swarm of 30 ("and counting") earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude 4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. ](/news/2016/01/7/in-the-united-states-a-swarm-of-30-and-counting-earthquakes-of-magnitude-2-5-or-greater-struck-oklahoma-from-wednesday-evening-through.md)
@@ -45,7 +45,7 @@ SAUDI warplanes have been accused of “deliberately” striking Iran’s embass
 
 ##### Guerrero
 ### [The bodies of six people are found in a rural village in Guerrero state in southern Mexico. ](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.md)
-_Context: Guerrero, Mexico_
+_Context: Mexico, Guerrero_
 
 ##### Metropolitan Police Service
 ### [Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. ](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.md)

@@ -16,8 +16,8 @@ The US says it targeted a militant headquarters in the Euphrates valley, in Deir
 
 ### Changes:
 
-1. [The US-led coalition against the jihadist group Islamic State (IS) says it has killed up to 150 militants in air strikes on a headquarters in Syria.](/news/2018/01/24/the-us-led-coalition-against-the-jihadist-group-islamic-state-is-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-i.md) _2018-01-24 19:30:08 (First version)_
-2. [The US-led coalition against jihadist group Islamic State (IS) says it has killed up to 150 militants in air strikes on a headquarters in Syria. ](/news/2018/01/24/the-us-led-coalition-against-jihadist-group-islamic-state-is-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-sy.md) _2018-01-24 22:30:11 (Update)_
+1. [The US-led coalition against the jihadist group Islamic State (IS) says it has killed up to 150 militants in air strikes on a headquarters in Syria.](/news/2018/01/24/the-us-led-coalition-against-the-jihadist-group-islamic-state-is-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-i.md) _2018-02-06 13:49:31 (First version)_
+2. [The US-led coalition against jihadist group Islamic State (IS) says it has killed up to 150 militants in air strikes on a headquarters in Syria. ](/news/2018/01/24/the-us-led-coalition-against-jihadist-group-islamic-state-is-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-sy.md) _2018-02-06 13:49:31 (Update)_
 2. [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md) _(Current version)_
 
 ### Related:

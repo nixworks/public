@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-
 
 ### Changes:
 
-1. [Rupert Murdoch's News Corporation launches the ''The Sun on Sunday'' to replace the ''News of the World'', which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacki.md) _2017-08-25 03:35:09 (First version)_
+1. [Rupert Murdoch's News Corporation launches the ''The Sun on Sunday'' to replace the ''News of the World'', which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacki.md) _2018-02-06 13:49:23 (First version)_
 1. [Rupert Murdoch's News Corporation launches the "The Sun on Sunday" to replace the "News of the World", which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacking-c.md) _(Current version)_
 
 ### Related:

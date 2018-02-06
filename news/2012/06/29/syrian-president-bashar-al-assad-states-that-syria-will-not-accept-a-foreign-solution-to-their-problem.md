@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/06/29/syrian-president-bashar-al-assad-states-that-sy
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-uprising-2011apresent-psyrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md) _2017-08-25 03:36:00 (First version)_
-2. [Syrian uprising (2011-present):: Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-uprising-2011-present-syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md) _2017-08-27 03:36:11 (Update)_
+1. [Syrian uprising (2011-present):Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-uprising-2011apresent-psyrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-uprising-2011-present-syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md) _(Current version)_
 
 ### Related:

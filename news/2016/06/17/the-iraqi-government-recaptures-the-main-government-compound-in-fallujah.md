@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/17/the-iraqi-government-recaptures-the-main-govern
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present), The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/iraqi-civil-war-2014apresent-the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md) _2017-08-25 03:45:54 (First version)_
+1. [Iraqi Civil War (2014-present), The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/iraqi-civil-war-2014apresent-the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md) _2018-02-06 13:49:29 (First version)_
 1. [The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md) _(Current version)_
 
 ### Related:

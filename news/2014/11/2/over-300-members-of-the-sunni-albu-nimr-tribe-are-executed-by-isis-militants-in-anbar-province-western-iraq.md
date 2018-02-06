@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/11/2/over-300-members-of-the-sunni-albu-nimr-tribe-ar
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant:Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/islamic-state-in-iraq-and-the-levant-pover-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-wester.md) _2017-08-25 03:41:09 (First version)_
-2. [Islamic State in Iraq and the Levant:: Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/islamic-state-in-iraq-and-the-levant-over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-weste.md) _2017-08-27 03:41:28 (Update)_
+1. [Islamic State in Iraq and the Levant:Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/islamic-state-in-iraq-and-the-levant-pover-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-wester.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamic State in Iraq and the Levant:: Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/islamic-state-in-iraq-and-the-levant-over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-weste.md) _2018-02-06 13:49:26 (Update)_
 2. [Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-western-iraq.md) _(Current version)_
 
 ### Related:

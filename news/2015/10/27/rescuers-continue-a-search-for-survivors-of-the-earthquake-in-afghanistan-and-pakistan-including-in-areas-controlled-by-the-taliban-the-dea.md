@@ -19,7 +19,7 @@ Rescuers pick their way through rugged terrain and pockets of Taliban insurgency
 
 ### Changes:
 
-1. [2015 Hindu Kush earthquake: Rescuers continue a search for survivors of the earthquake in Afghanistan and Pakistan including in areas controlled by the Taliban. The death toll from the earthquake is 339 with many thousands injured. ](/news/2015/10/27/2015-hindu-kush-earthquake-rescuers-continue-a-search-for-survivors-of-the-earthquake-in-afghanistan-and-pakistan-including-in-areas-contro.md) _2017-08-27 03:43:33 (First version)_
+1. [2015 Hindu Kush earthquake: Rescuers continue a search for survivors of the earthquake in Afghanistan and Pakistan including in areas controlled by the Taliban. The death toll from the earthquake is 339 with many thousands injured. ](/news/2015/10/27/2015-hindu-kush-earthquake-rescuers-continue-a-search-for-survivors-of-the-earthquake-in-afghanistan-and-pakistan-including-in-areas-contro.md) _2018-02-06 13:49:28 (First version)_
 1. [Rescuers continue a search for survivors of the earthquake in Afghanistan and Pakistan including in areas controlled by the Taliban. The death toll from the earthquake is 339 with many thousands injured. ](/news/2015/10/27/rescuers-continue-a-search-for-survivors-of-the-earthquake-in-afghanistan-and-pakistan-including-in-areas-controlled-by-the-taliban-the-dea.md) _(Current version)_
 
 ### Related:

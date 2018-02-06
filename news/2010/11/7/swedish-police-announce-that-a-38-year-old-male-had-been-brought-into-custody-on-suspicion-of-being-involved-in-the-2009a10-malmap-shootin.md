@@ -17,7 +17,7 @@ A man is arrested in the Swedish city of Malmo over a series of gun attacks over
 
 ### Changes:
 
-1. [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009-10-malmap-shootin.md) _2017-08-27 03:31:01 (First version)_
+1. [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009-10-malmap-shootin.md) _2018-02-06 13:49:21 (First version)_
 1. [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009a10-malmap-shootin.md) _(Current version)_
 
 ### Related:

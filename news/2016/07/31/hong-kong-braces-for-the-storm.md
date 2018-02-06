@@ -16,7 +16,7 @@ China issued an &quot;orange alert&quot; for Typhoon Nida on Sunday, predicting 
 
 ### Changes:
 
-1. [Typhoon Nida (2016) : Hong Kong braces for the storm. ](/news/2016/07/31/typhoon-nida-2016-hong-kong-braces-for-the-storm.md) _2017-08-27 03:46:34 (First version)_
+1. [Typhoon Nida (2016) : Hong Kong braces for the storm. ](/news/2016/07/31/typhoon-nida-2016-hong-kong-braces-for-the-storm.md) _2018-02-06 13:49:29 (First version)_
 1. [Hong Kong braces for the storm. ](/news/2016/07/31/hong-kong-braces-for-the-storm.md) _(Current version)_
 
 ### Related:

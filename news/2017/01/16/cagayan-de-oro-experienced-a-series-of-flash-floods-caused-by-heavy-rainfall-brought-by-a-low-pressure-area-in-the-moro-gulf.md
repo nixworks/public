@@ -16,7 +16,7 @@ Cagayan de Oro City is now under “orange alert,” paving the way for preempti
 
 ### Changes:
 
-1. [2017 Visayas and Mindanao floods: Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low pressure area in the Moro Gulf. ](/news/2017/01/16/2017-visayas-and-mindanao-floods-cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-are.md) _2017-08-27 03:47:37 (First version)_
+1. [2017 Visayas and Mindanao floods: Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low pressure area in the Moro Gulf. ](/news/2017/01/16/2017-visayas-and-mindanao-floods-cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-are.md) _2018-02-06 13:49:30 (First version)_
 1. [Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low-pressure area in the Moro Gulf. ](/news/2017/01/16/cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-area-in-the-moro-gulf.md) _(Current version)_
 
 ### Related:

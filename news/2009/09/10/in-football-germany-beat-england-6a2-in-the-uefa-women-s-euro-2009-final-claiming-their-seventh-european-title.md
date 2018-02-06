@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/10/in-football-germany-beat-england-6a2-in-the-uef
 
 ### Changes:
 
-1. [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6-2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md) _2017-08-27 03:25:34 (First version)_
+1. [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6-2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md) _2018-02-06 13:49:19 (First version)_
 1. [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6a2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The ultimate news source for music, celebrity, entertainment, movies, and curren
 
 ### Changes:
 
-1. [James Cameron's film ''Avatar'' is expected to become the second-highest grossing movie of all time, just passing ''The Lord of the Rings: The Return of the King''. ](/news/2010/01/7/james-cameron-s-film-avatar-is-expected-to-become-the-second-highest-grossing-movie-of-all-time-just-passing-the-lord-of-the-rings-t.md) _2017-08-25 03:26:49 (First version)_
+1. [James Cameron's film ''Avatar'' is expected to become the second-highest grossing movie of all time, just passing ''The Lord of the Rings: The Return of the King''. ](/news/2010/01/7/james-cameron-s-film-avatar-is-expected-to-become-the-second-highest-grossing-movie-of-all-time-just-passing-the-lord-of-the-rings-t.md) _2018-02-06 13:49:19 (First version)_
 1. [James Cameron's film "Avatar" is expected to become the second-highest grossing movie of all time, just passing "The Lord of the Rings: The Return of the King". ](/news/2010/01/7/james-cameron-s-film-avatar-is-expected-to-become-the-second-highest-grossing-movie-of-all-time-just-passing-the-lord-of-the-rings-the.md) _(Current version)_
 
 ### Related:

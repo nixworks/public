@@ -16,7 +16,7 @@ Shahidullah Shahid says the attack, that killed four people, was in response to 
 
 ### Changes:
 
-1. [War in North-West Pakistan: Three people are killed in a bombing in Peshawar. ](/news/2014/09/23/war-in-north-west-pakistan-three-people-are-killed-in-a-bombing-in-peshawar.md) _2017-08-27 03:41:19 (First version)_
+1. [War in North-West Pakistan: Three people are killed in a bombing in Peshawar. ](/news/2014/09/23/war-in-north-west-pakistan-three-people-are-killed-in-a-bombing-in-peshawar.md) _2018-02-06 13:49:26 (First version)_
 1. [Three people are killed in a bombing in Peshawar. ](/news/2014/09/23/three-people-are-killed-in-a-bombing-in-peshawar.md) _(Current version)_
 
 ### Related:

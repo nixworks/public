@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-o
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/north-korea-and-weapons-of-mass-destruction-kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuc.md) _2017-08-27 03:45:12 (First version)_
+1. [North Korea and weapons of mass destruction: Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/north-korea-and-weapons-of-mass-destruction-kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuc.md) _2018-02-06 13:49:28 (First version)_
 1. [Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuclear-weapons-to-improve-its-capacity.md) _(Current version)_
 
 ### Related:

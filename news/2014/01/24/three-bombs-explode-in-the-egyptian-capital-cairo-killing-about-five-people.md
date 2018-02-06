@@ -16,8 +16,8 @@ Six people are killed and some 100 others wounded as militants step up attacks a
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:Three bombs explode in the Egyptian capital, Cairo, killing about five people. ](/news/2014/01/24/post-coup-unrest-in-egypt-pthree-bombs-explode-in-the-egyptian-capital-cairo-killing-about-five-people.md) _2017-08-25 03:39:56 (First version)_
-2. [Post-coup unrest in Egypt:: Three bombs explode in the Egyptian capital, Cairo, killing about five people. ](/news/2014/01/24/post-coup-unrest-in-egypt-three-bombs-explode-in-the-egyptian-capital-cairo-killing-about-five-people.md) _2017-08-27 03:40:14 (Update)_
+1. [Post-coup unrest in Egypt:: Three bombs explode in the Egyptian capital, Cairo, killing about five people. ](/news/2014/01/24/post-coup-unrest-in-egypt-three-bombs-explode-in-the-egyptian-capital-cairo-killing-about-five-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-coup unrest in Egypt:Three bombs explode in the Egyptian capital, Cairo, killing about five people. ](/news/2014/01/24/post-coup-unrest-in-egypt-pthree-bombs-explode-in-the-egyptian-capital-cairo-killing-about-five-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Three bombs explode in the Egyptian capital, Cairo, killing about five people. ](/news/2014/01/24/three-bombs-explode-in-the-egyptian-capital-cairo-killing-about-five-people.md) _(Current version)_
 
 ### Related:

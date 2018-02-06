@@ -16,7 +16,7 @@ Pollution from China is travelling in large quantities to the US, with a large p
 
 ### Changes:
 
-1. [The US National Academy of Sciences found that pollution from China-s manufacturing industry drifts across the Pacific Ocean and affects US cities. ](/news/2014/01/21/the-us-national-academy-of-sciences-found-that-pollution-from-china-s-manufacturing-industry-drifts-across-the-pacific-ocean-and-affects-u.md) _2017-08-27 03:40:14 (First version)_
+1. [The US National Academy of Sciences found that pollution from China-s manufacturing industry drifts across the Pacific Ocean and affects US cities. ](/news/2014/01/21/the-us-national-academy-of-sciences-found-that-pollution-from-china-s-manufacturing-industry-drifts-across-the-pacific-ocean-and-affects-u.md) _2018-02-06 13:49:25 (First version)_
 1. [The US National Academy of Sciences found that pollution from China's manufacturing industry drifts across the Pacific Ocean and affects US cities. ](/news/2014/01/21/the-us-national-academy-of-sciences-found-that-pollution-from-chinaas-manufacturing-industry-drifts-across-the-pacific-ocean-and-affects-u.md) _(Current version)_
 
 ### Related:

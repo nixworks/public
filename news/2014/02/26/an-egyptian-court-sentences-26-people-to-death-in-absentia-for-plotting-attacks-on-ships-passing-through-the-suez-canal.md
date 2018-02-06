@@ -16,8 +16,8 @@ An Egyptian court sentenced 26 people to death for plotting attacks on ships in 
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/post-coup-unrest-in-egypt-pan-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-suez.md) _2017-08-25 03:40:05 (First version)_
-2. [Post-coup unrest in Egypt:: An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/post-coup-unrest-in-egypt-an-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-sue.md) _2017-08-27 03:40:23 (Update)_
+1. [Post-coup unrest in Egypt:An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/post-coup-unrest-in-egypt-pan-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-suez.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-coup unrest in Egypt:: An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/post-coup-unrest-in-egypt-an-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-sue.md) _2018-02-06 13:49:25 (Update)_
 2. [An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/an-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-suez-canal.md) _(Current version)_
 
 ### Related:

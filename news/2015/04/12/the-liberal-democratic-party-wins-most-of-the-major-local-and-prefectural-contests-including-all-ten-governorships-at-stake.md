@@ -17,7 +17,7 @@ Prime Minister Shinzo Abe’s Liberal Democratic Party cruised to victory in Jap
 
 ### Changes:
 
-1. [Japanese unified local elections, 2015: The Liberal Democratic Party wins most of the major local and prefectural contests, including all ten governorships at stake. ](/news/2015/04/12/japanese-unified-local-elections-2015-the-liberal-democratic-party-wins-most-of-the-major-local-and-prefectural-contests-including-all-te.md) _2017-08-27 03:42:11 (First version)_
+1. [Japanese unified local elections, 2015: The Liberal Democratic Party wins most of the major local and prefectural contests, including all ten governorships at stake. ](/news/2015/04/12/japanese-unified-local-elections-2015-the-liberal-democratic-party-wins-most-of-the-major-local-and-prefectural-contests-including-all-te.md) _2018-02-06 13:49:27 (First version)_
 1. [The Liberal Democratic Party wins most of the major local and prefectural contests, including all ten governorships at stake. ](/news/2015/04/12/the-liberal-democratic-party-wins-most-of-the-major-local-and-prefectural-contests-including-all-ten-governorships-at-stake.md) _(Current version)_
 
 ### Related:

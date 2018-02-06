@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scr
 
 ### Changes:
 
-1. [Plans by the Scottish Maritime Museum (SMM) to scrap ''City of Adelaide''-HMS ''Carrick'', one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunde.md) _2017-08-25 03:27:19 (First version)_
+1. [Plans by the Scottish Maritime Museum (SMM) to scrap ''City of Adelaide''-HMS ''Carrick'', one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunde.md) _2018-02-06 13:49:19 (First version)_
 1. [Plans by the Scottish Maritime Museum (SMM) to scrap "City of Adelaide"-HMS "Carrick", one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunderlan.md) _(Current version)_
 
 ### Related:

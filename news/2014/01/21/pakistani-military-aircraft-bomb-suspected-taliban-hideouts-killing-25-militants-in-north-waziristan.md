@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-tali
 
 ### Changes:
 
-1. [War in North-West Pakistan:Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-ppakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _2017-08-25 03:39:55 (First version)_
-2. [War in North-West Pakistan:: Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _2017-08-27 03:40:14 (Update)_
+1. [War in North-West Pakistan:Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-ppakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _2018-02-06 13:49:25 (Update)_
 2. [Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _(Current version)_
 
 ### Related:

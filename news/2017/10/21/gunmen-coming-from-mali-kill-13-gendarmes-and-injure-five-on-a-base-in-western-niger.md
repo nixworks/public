@@ -16,7 +16,7 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 
 ### Changes:
 
-1. [On a base in western Niger, gunmen coming from Mali kill 13 gendarmes and injure five. ](/news/2017/10/21/on-a-base-in-western-niger-gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five.md) _2017-10-21 20:30:05 (First version)_
+1. [On a base in western Niger, gunmen coming from Mali kill 13 gendarmes and injure five. ](/news/2017/10/21/on-a-base-in-western-niger-gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five.md) _2018-02-06 13:49:31 (First version)_
 1. [Gunmen coming from Mali kill 13 gendarmes and injure five on a base in western Niger. ](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.md) _(Current version)_
 
 ### Related:

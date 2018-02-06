@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-s
 
 ### Changes:
 
-1. [Sinai insurgency:Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/sinai-insurgency-pegyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-m.md) _2017-08-25 03:40:26 (First version)_
-2. [Sinai insurgency:: Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/sinai-insurgency-egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior.md) _2017-08-27 03:40:44 (Update)_
+1. [Sinai insurgency:Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/sinai-insurgency-pegyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-m.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinai insurgency:: Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/sinai-insurgency-egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior.md) _2018-02-06 13:49:26 (Update)_
 2. [Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-members-in-overnigh.md) _(Current version)_
 
 ### Related:

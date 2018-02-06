@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three
 
 ### Changes:
 
-1. [Israel:An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-pan-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md) _2017-08-25 03:30:44 (First version)_
-2. [Israel:: An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md) _2017-08-27 03:30:48 (Update)_
+1. [Israel:An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-pan-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md) _2018-02-06 13:49:20 (First version)_
+2. [Israel:: An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md) _2018-02-06 13:49:20 (Update)_
 2. [An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by-israel-de.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-inj
 
 ### Changes:
 
-1. [Boko Haram insurgency: Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/boko-haram-insurgency-suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _2017-08-27 03:44:45 (First version)_
+1. [Boko Haram insurgency: Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/boko-haram-insurgency-suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _2018-02-06 13:49:28 (First version)_
 1. [Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Colombia and Venezuela recall their ambassadors amid growing tension, a week aft
 
 ### Changes:
 
-1. [Colombia-Venezuela relations: Colombia and Venezuela recall their respective ambassadors amid rising tensions after a Venezuelan crackdown on Colombian migrants. ](/news/2015/08/28/colombia-venezuela-relations-colombia-and-venezuela-recall-their-respective-ambassadors-amid-rising-tensions-after-a-venezuelan-crackdown.md) _2017-08-27 03:42:55 (First version)_
+1. [Colombia-Venezuela relations: Colombia and Venezuela recall their respective ambassadors amid rising tensions after a Venezuelan crackdown on Colombian migrants. ](/news/2015/08/28/colombia-venezuela-relations-colombia-and-venezuela-recall-their-respective-ambassadors-amid-rising-tensions-after-a-venezuelan-crackdown.md) _2018-02-06 13:49:27 (First version)_
 1. [Colombia and Venezuela recall their respective ambassadors amid rising tensions after a Venezuelan crackdown on Colombian migrants. ](/news/2015/08/28/colombia-and-venezuela-recall-their-respective-ambassadors-amid-rising-tensions-after-a-venezuelan-crackdown-on-colombian-migrants.md) _(Current version)_
 
 ### Related:

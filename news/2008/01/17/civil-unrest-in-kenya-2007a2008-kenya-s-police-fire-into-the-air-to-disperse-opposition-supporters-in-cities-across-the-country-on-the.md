@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/17/civil-unrest-in-kenya-2007a2008-kenya-s-police-
 
 ### Changes:
 
-1. [ Civil unrest in Kenya (2007-2008): Kenya's police fire into the air to disperse opposition supporters in cities across the country on the second day of protests against disputed polls. ](/news/2008/01/17/civil-unrest-in-kenya-2007-2008-kenya-s-police-fire-into-the-air-to-disperse-opposition-supporters-in-cities-across-the-country-on-the.md) _2017-08-27 03:21:34 (First version)_
+1. [ Civil unrest in Kenya (2007-2008): Kenya's police fire into the air to disperse opposition supporters in cities across the country on the second day of protests against disputed polls. ](/news/2008/01/17/civil-unrest-in-kenya-2007-2008-kenya-s-police-fire-into-the-air-to-disperse-opposition-supporters-in-cities-across-the-country-on-the.md) _2018-02-06 13:49:18 (First version)_
 1. [ Civil unrest in Kenya (2007-2008): Kenya's police fire into the air to disperse opposition supporters in cities across the country on the second day of protests against disputed polls. ](/news/2008/01/17/civil-unrest-in-kenya-2007a2008-kenya-s-police-fire-into-the-air-to-disperse-opposition-supporters-in-cities-across-the-country-on-the.md) _(Current version)_
 
 ### Related:

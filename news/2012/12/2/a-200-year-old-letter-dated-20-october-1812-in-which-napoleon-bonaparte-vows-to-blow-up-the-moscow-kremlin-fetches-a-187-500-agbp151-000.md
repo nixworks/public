@@ -18,8 +18,8 @@ A coded letter written by Napoleon containing his plan to defeat the Russians se
 
 ### Changes:
 
-1. [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches EUR187,500 (PS151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-a-187-500-aps151-000-2.md) _2017-08-25 03:36:55 (First version)_
-2. [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches -187,500 (GBP151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-187-500-agbp151-000.md) _2017-08-27 03:37:05 (Update)_
+1. [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches EUR187,500 (PS151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-a-187-500-aps151-000-2.md) _2018-02-06 13:49:24 (First version)_
+2. [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches -187,500 (GBP151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-187-500-agbp151-000.md) _2018-02-06 13:49:24 (Update)_
 2. [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches EUR187,500 (GBP151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-a-187-500-agbp151-000.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Federal judges in three states have followed one in New York in barring authorit
 
 ### Changes:
 
-1. [Executive Order 13769: U.S. federal judges in the states of Massachusetts, Virginia, and Washington sign orders halting implementation of parts of the executive order. ](/news/2017/01/29/executive-order-13769-u-s-federal-judges-in-the-states-of-massachusetts-virginia-and-washington-sign-orders-halting-implementation-of-pa.md) _2017-08-27 03:47:43 (First version)_
+1. [Executive Order 13769: U.S. federal judges in the states of Massachusetts, Virginia, and Washington sign orders halting implementation of parts of the executive order. ](/news/2017/01/29/executive-order-13769-u-s-federal-judges-in-the-states-of-massachusetts-virginia-and-washington-sign-orders-halting-implementation-of-pa.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. federal judges in the states of Massachusetts, Virginia, and Washington sign orders halting implementation of parts of the executive order. ](/news/2017/01/29/u-s-federal-judges-in-the-states-of-massachusetts-virginia-and-washington-sign-orders-halting-implementation-of-parts-of-the-executive-or.md) _(Current version)_
 
 ### Related:

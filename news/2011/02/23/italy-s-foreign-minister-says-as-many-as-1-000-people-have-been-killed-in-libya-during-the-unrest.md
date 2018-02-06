@@ -23,7 +23,7 @@ Formats: [HTML](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-
 
 ### Changes:
 
-1. [2011 Libyan civil war: Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/2011-libyan-civil-war-italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md) _2017-08-27 03:32:26 (First version)_
+1. [2011 Libyan civil war: Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/2011-libyan-civil-war-italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md) _2018-02-06 13:49:22 (First version)_
 1. [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md) _(Current version)_
 
 ### Related:

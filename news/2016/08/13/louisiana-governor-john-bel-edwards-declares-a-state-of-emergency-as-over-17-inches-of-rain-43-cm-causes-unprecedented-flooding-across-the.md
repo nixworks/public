@@ -17,7 +17,7 @@ U.S. President Barack Obama issued a disaster declaration on Sunday for flood-ra
 
 ### Changes:
 
-1. [2016 Louisiana floods: Louisiana Governor John Bel Edwards declares a state of emergency as over 17 inches of rain (43 cm) causes unprecedented flooding across the region and takes at least three lives in his state, with more rain expected through Sunday. ](/news/2016/08/13/2016-louisiana-floods-louisiana-governor-john-bel-edwards-declares-a-state-of-emergency-as-over-17-inches-of-rain-43-cm-causes-unpreceden.md) _2017-08-27 03:46:39 (First version)_
+1. [2016 Louisiana floods: Louisiana Governor John Bel Edwards declares a state of emergency as over 17 inches of rain (43 cm) causes unprecedented flooding across the region and takes at least three lives in his state, with more rain expected through Sunday. ](/news/2016/08/13/2016-louisiana-floods-louisiana-governor-john-bel-edwards-declares-a-state-of-emergency-as-over-17-inches-of-rain-43-cm-causes-unpreceden.md) _2018-02-06 13:49:29 (First version)_
 1. [Louisiana Governor John Bel Edwards declares a state of emergency as over 17 inches of rain (43 cm) causes unprecedented flooding across the region and takes at least three lives in his state, with more rain expected through Sunday. ](/news/2016/08/13/louisiana-governor-john-bel-edwards-declares-a-state-of-emergency-as-over-17-inches-of-rain-43-cm-causes-unprecedented-flooding-across-the.md) _(Current version)_
 
 ### Related:

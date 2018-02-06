@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/9/sohaib-al-rawi-governor-of-al-anbar-governorate-
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/islamic-state-of-iraq-and-the-levant-sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostl.md) _2017-08-27 03:42:11 (First version)_
+1. [Islamic State of Iraq and the Levant: Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/islamic-state-of-iraq-and-the-levant-sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostl.md) _2018-02-06 13:49:27 (First version)_
 1. [Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostly-police-officers-on-the-border-with-s.md) _(Current version)_
 
 ### Related:

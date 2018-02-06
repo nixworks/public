@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: United Nations, Austria, Golan Heights, peacekeepers_
+_Context: peacekeepers, Austria, United Nations, Golan Heights_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -65,7 +65,7 @@ _Context: anti-government protests_
 
 ##### UNICEF
 ### [New figures from UNICEF show that 150 million children are engaged in child labor worldwide. ](/news/2013/06/12/new-figures-from-unicef-show-that-150-million-children-are-engaged-in-child-labor-worldwide.md)
-_Context: UNICEF, child labor_
+_Context: child labor, UNICEF_
 
 ##### State Duma
 ### [Russia's Duma passes a law banning "gay propaganda". ](/news/2013/06/12/russia-s-duma-passes-a-law-banning-gay-propaganda.md)
@@ -77,7 +77,7 @@ Time to rewrite the textbooks!
 
 ##### altitude
 ### [A new study suggests that altitude plays a role in language evolution, explaining why ejective sounds are more popular in languages of high-altitude regions. ](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.md)
-_Context: ejective, altitude, language evolution_
+_Context: altitude, language evolution, ejective_
 
 ## [Previous Day...](/news/2013/06/11/index.md)
 

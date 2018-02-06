@@ -18,7 +18,7 @@ A rescued sailor who was adrift in the Atlantic Ocean for two months says he sur
 
 ### Changes:
 
-1. [ An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker. He survived on a diet of solely raw fish and rainwater. ](/news/2015/04/3/an-american-sailor-who-was-lost-for-66-days-in-the-atlantic-ocean-is-found-by-a-german-tanker-he-survived-on-a-diet-of-solely-raw-fish-an.md) _2017-08-25 03:41:50 (First version)_
+1. [ An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker. He survived on a diet of solely raw fish and rainwater. ](/news/2015/04/3/an-american-sailor-who-was-lost-for-66-days-in-the-atlantic-ocean-is-found-by-a-german-tanker-he-survived-on-a-diet-of-solely-raw-fish-an.md) _2018-02-06 13:49:27 (First version)_
 1. [ An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker. He survived on a diet of solely raw fish and rainwater. ](/news/2015/04/3/an-american-sailor-who-was-lost-for-66-days-in-the-atlantic-ocean-is-found-by-a-german-tanker-he-survived-on-a-diet-of-solely-raw-fish-and.md) _(Current version)_
 
 ### Related:

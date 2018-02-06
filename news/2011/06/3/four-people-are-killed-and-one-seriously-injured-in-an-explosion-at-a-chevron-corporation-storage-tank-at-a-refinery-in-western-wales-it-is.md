@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured
 
 ### Changes:
 
-1. [Four people are killed and one seriously injured in an explosion at a Chevron Corporation storage tank at a refinery in western Wales; it is not immediately clear what caused the explosion. ](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured-in-an-explosion-at-a-chevron-corporation-storage-tank-at-a-refinery-in-western-wales-it-i.md) _2017-08-25 03:33:21 (First version)_
+1. [Four people are killed and one seriously injured in an explosion at a Chevron Corporation storage tank at a refinery in western Wales; it is not immediately clear what caused the explosion. ](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured-in-an-explosion-at-a-chevron-corporation-storage-tank-at-a-refinery-in-western-wales-it-i.md) _2018-02-06 13:49:22 (First version)_
 1. [Four people are killed and one seriously injured in an explosion at a Chevron Corporation storage tank at a refinery in western Wales; it is not immediately clear what caused the explosion. ](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured-in-an-explosion-at-a-chevron-corporation-storage-tank-at-a-refinery-in-western-wales-it-is.md) _(Current version)_
 
 ### Related:

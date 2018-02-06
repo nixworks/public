@@ -16,8 +16,8 @@ The Sewol sank on 16 April 2014 killing 304 people, almost all school children o
 
 ### Changes:
 
-1. [The South Korean government raises the wreckage of the MV ''Sewol'' from the sea near the South Korean island of Donggeochado. The ferry sank in April 2014, killing 304 people. ](/news/2017/03/23/the-south-korean-government-raises-the-wreckage-of-the-mv-sewol-from-the-sea-near-the-south-korean-island-of-donggeochado-the-ferry-san.md) _2017-08-25 03:47:36 (First version)_
-2. [Sinking of MV Sewol: The South Korean government raises the wreckage of the MV "Sewol" from the sea near the South Korean island of Donggeochado. The ferry sank in April 2014, killing 304 people. ](/news/2017/03/23/sinking-of-mv-sewol-the-south-korean-government-raises-the-wreckage-of-the-mv-sewol-from-the-sea-near-the-south-korean-island-of-donggeoc.md) _2017-08-27 03:48:02 (Update)_
+1. [The South Korean government raises the wreckage of the MV ''Sewol'' from the sea near the South Korean island of Donggeochado. The ferry sank in April 2014, killing 304 people. ](/news/2017/03/23/the-south-korean-government-raises-the-wreckage-of-the-mv-sewol-from-the-sea-near-the-south-korean-island-of-donggeochado-the-ferry-san.md) _2018-02-06 13:49:30 (First version)_
+2. [Sinking of MV Sewol: The South Korean government raises the wreckage of the MV "Sewol" from the sea near the South Korean island of Donggeochado. The ferry sank in April 2014, killing 304 people. ](/news/2017/03/23/sinking-of-mv-sewol-the-south-korean-government-raises-the-wreckage-of-the-mv-sewol-from-the-sea-near-the-south-korean-island-of-donggeoc.md) _2018-02-06 13:49:30 (Update)_
 2. [The South Korean government raises the wreckage of the MV "Sewol" from the sea near the South Korean island of Donggeochado. The ferry sank in April 2014, killing 304 people. ](/news/2017/03/23/the-south-korean-government-raises-the-wreckage-of-the-mv-sewol-from-the-sea-near-the-south-korean-island-of-donggeochado-the-ferry-sank.md) _(Current version)_
 
 ### Related:

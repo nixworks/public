@@ -21,7 +21,7 @@ At least a dozen deaths reported after a massive bomb blast hits central Oslo an
 
 ### Changes:
 
-1. [2011 Norway attacks: An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. ](/news/2011/07/22/2011-norway-attacks-an-explosion-damages-government-buildings-in-oslo-norway-at-15-25-at-eight-people-are-killed-and-several-are-reported.md) _2017-08-27 03:33:58 (First version)_
+1. [2011 Norway attacks: An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. ](/news/2011/07/22/2011-norway-attacks-an-explosion-damages-government-buildings-in-oslo-norway-at-15-25-at-eight-people-are-killed-and-several-are-reported.md) _2018-02-06 13:49:22 (First version)_
 1. [An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. ](/news/2011/07/22/an-explosion-damages-government-buildings-in-oslo-norway-at-15-25-at-eight-people-are-killed-and-several-are-reportedly-injured.md) _(Current version)_
 
 ### Related:

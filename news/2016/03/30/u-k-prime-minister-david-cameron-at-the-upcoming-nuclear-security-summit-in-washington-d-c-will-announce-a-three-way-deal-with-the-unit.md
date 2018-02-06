@@ -16,7 +16,7 @@ U.K. Prime Minister David Cameron will set out measures intended to boost securi
 
 ### Changes:
 
-1. [U.K. Prime Minister David Cameron, at the upcoming Nuclear Security Summit in Washington, D.C., will announce a three-way deal with the United States and Euratom, the European Union nuclear agency, to turn nuclear waste into medical isotopes to help fight cancer. ](/news/2016/03/30/u-k-prime-minister-david-cameron-at-the-upcoming-nuclear-security-summit-in-washington-d-c-will-announce-a-three-way-deal-with-the-u.md) _2017-08-25 03:45:04 (First version)_
+1. [U.K. Prime Minister David Cameron, at the upcoming Nuclear Security Summit in Washington, D.C., will announce a three-way deal with the United States and Euratom, the European Union nuclear agency, to turn nuclear waste into medical isotopes to help fight cancer. ](/news/2016/03/30/u-k-prime-minister-david-cameron-at-the-upcoming-nuclear-security-summit-in-washington-d-c-will-announce-a-three-way-deal-with-the-u.md) _2018-02-06 13:49:28 (First version)_
 1. [U.K. Prime Minister David Cameron, at the upcoming Nuclear Security Summit in Washington, D.C., will announce a three-way deal with the United States and Euratom, the European Union nuclear agency, to turn nuclear waste into medical isotopes to help fight cancer. ](/news/2016/03/30/u-k-prime-minister-david-cameron-at-the-upcoming-nuclear-security-summit-in-washington-d-c-will-announce-a-three-way-deal-with-the-unit.md) _(Current version)_
 
 ### Related:

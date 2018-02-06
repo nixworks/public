@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian
 
 ### Changes:
 
-1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md) _2017-08-25 03:20:48 (First version)_
+1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md) _2018-02-06 13:49:18 (First version)_
 1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.md) _(Current version)_
 
 ### Related:

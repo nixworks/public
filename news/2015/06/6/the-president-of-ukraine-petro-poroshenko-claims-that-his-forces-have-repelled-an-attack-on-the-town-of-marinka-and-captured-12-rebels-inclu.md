@@ -16,7 +16,7 @@ President Poroshenko says Ukrainian forces have restored control over Maryinka, 
 
 ### Changes:
 
-1. [War in Donbass: The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/war-in-donbass-the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured.md) _2017-08-27 03:42:29 (First version)_
+1. [War in Donbass: The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/war-in-donbass-the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md) _(Current version)_
 
 ### Related:

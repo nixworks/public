@@ -5,11 +5,11 @@ Formats: [HTML](2007/05/30/index.html)  [JSON](2007/05/30/index.json)  [XML](200
 
 ##### CH-47 Chinook
 ### [ A CH-47 Chinook helicopter on a NATO mission in Helmand Province, southern Afghanistan, is shot down killing all seven service personnel (5 American, 1 Canadian and 1 British) aboard. Taliban fighters claim responsibility for the attack. ](/news/2007/05/30/a-ch-47-chinook-helicopter-on-a-nato-mission-in-helmand-province-southern-afghanistan-is-shot-down-killing-all-seven-service-personnel-5.md)
-_Context: UK, CH-47 Chinook, Taliban, International Security Assistance Force, Afghanistan, Canadian, US, NATO, Helmand Province_
+_Context: CH-47 Chinook, Taliban, US, NATO, Canadian, Helmand Province, Afghanistan, UK, International Security Assistance Force_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council establishes an international tribunal to try suspects in the killings of Lebanese political figures including the former Prime Minister Rafik Hariri. ](/news/2007/05/30/the-united-nations-security-council-establishes-an-international-tribunal-to-try-suspects-in-the-killings-of-lebanese-political-figures-inc.md)
-_Context: Rafik Hariri, Special Tribunal for Lebanon, United Nations Security Council, Prime Minister of Lebanon, Lebanon_
+_Context: Prime Minister of Lebanon, Rafik Hariri, Lebanon, Special Tribunal for Lebanon, United Nations Security Council_
 
 ##### Thailand
 ### [ Thailand's Constitutional Court clears the Democrat Party of electoral fraud, but finds former Prime Minister Thaksin Shinawatra's Thai Rak Thai party guilty of bribery and rules it must be disbanded. ](/news/2007/05/30/thailand-s-constitutional-court-clears-the-democrat-party-of-electoral-fraud-but-finds-former-prime-minister-thaksin-shinawatra-s-thai-rak.md)

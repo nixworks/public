@@ -16,7 +16,7 @@ US brokerage firm MF Global files for bankruptcy protection after revealing £4b
 
 ### Changes:
 
-1. [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring 4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-ps4bn-of-eurozone-debt-exposure.md) _2017-08-25 03:34:25 (First version)_
+1. [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring 4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-ps4bn-of-eurozone-debt-exposure.md) _2018-02-06 13:49:23 (First version)_
 1. [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring GBP4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-gbp4bn-of-eurozone-debt-exposure.md) _(Current version)_
 
 ### Related:

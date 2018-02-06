@@ -17,7 +17,7 @@ Afghanistan said on Wednesday that Mullah Omar, the elusive leader of the Taliba
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/war-in-afghanistan-2001-present-the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natura.md) _2017-08-27 03:42:45 (First version)_
+1. [War in Afghanistan (2001-present): The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/war-in-afghanistan-2001-present-the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natura.md) _2018-02-06 13:49:27 (First version)_
 1. [The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natural-causes.md) _(Current version)_
 
 ### Related:

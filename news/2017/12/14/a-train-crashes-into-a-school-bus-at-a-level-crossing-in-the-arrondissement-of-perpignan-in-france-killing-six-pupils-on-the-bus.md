@@ -16,9 +16,9 @@ A train and a school bus collide in southern France, leaving at least four child
 
 ### Changes:
 
-1. [A train crashes into a school bus in the Arrondissement of Perpignan in France, killing four pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus.md) _2017-12-14 18:30:06 (First version)_
-2. [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing four pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus.md) _2017-12-17 18:30:05 (Update)_
-3. [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing four pupils on the bus. A fifth victim dies the next day. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus-a-fifth.md) _2017-12-18 23:30:04 (Update)_
+1. [A train crashes into a school bus in the Arrondissement of Perpignan in France, killing four pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus.md) _2018-02-06 13:49:31 (First version)_
+2. [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing four pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus.md) _2018-02-06 13:49:31 (Update)_
+3. [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing four pupils on the bus. A fifth victim dies the next day. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus-a-fifth.md) _2018-02-06 13:49:31 (Update)_
 3. [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing six pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-six-pupils-on-the-bus.md) _(Current version)_
 
 ### Related:

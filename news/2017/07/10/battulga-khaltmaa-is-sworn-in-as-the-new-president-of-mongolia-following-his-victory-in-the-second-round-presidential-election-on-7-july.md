@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-presid
 
 ### Changes:
 
-1. [Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. [http:--newsinfo.inquirer.net-912663-populist-tycoon-and-ex-judo-star-inaugurated-as-mongolias-president (''The Inquirer'')](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-round-presidential-election-on-7-july-h.md) _2017-07-13 12:30:05 (First version)_
-2. [Mongolian presidential election, 2017: Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. ](/news/2017/07/10/mongolian-presidential-election-2017-battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-ro.md) _2017-08-27 03:48:38 (Update)_
+1. [Mongolian presidential election, 2017: Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. ](/news/2017/07/10/mongolian-presidential-election-2017-battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-ro.md) _2018-02-06 13:49:30 (First version)_
+2. [Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. [http:--newsinfo.inquirer.net-912663-populist-tycoon-and-ex-judo-star-inaugurated-as-mongolias-president (''The Inquirer'')](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-round-presidential-election-on-7-july-h.md) _2018-02-06 13:49:30 (Update)_
 2. [Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. ](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-round-presidential-election-on-7-july.md) _(Current version)_
 
 ### Related:

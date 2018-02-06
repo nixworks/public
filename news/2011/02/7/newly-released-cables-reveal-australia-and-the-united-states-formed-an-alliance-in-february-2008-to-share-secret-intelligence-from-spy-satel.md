@@ -18,8 +18,8 @@ AUSTRALIA and the US have formed a partnership to share top-secret intelligence 
 
 ### Changes:
 
-1. [United States diplomatic cables leak:Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/united-states-diplomatic-cables-leak-pnewly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-sh.md) _2017-08-25 03:32:05 (First version)_
-2. [United States diplomatic cables leak:: Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/united-states-diplomatic-cables-leak-newly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-s.md) _2017-08-27 03:32:13 (Update)_
+1. [United States diplomatic cables leak:Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/united-states-diplomatic-cables-leak-pnewly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-sh.md) _2018-02-06 13:49:22 (First version)_
+2. [United States diplomatic cables leak:: Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/united-states-diplomatic-cables-leak-newly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-s.md) _2018-02-06 13:49:22 (Update)_
 2. [Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/newly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-share-secret-intelligence-from-spy-satel.md) _(Current version)_
 
 ### Related:

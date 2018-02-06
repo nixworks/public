@@ -18,8 +18,8 @@ Formats: [HTML](/news/2008/08/30/the-national-hurricane-center-advises-that-hurr
 
 ### Changes:
 
-1. [ Hurricane Gustav: The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-p-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md) _2017-08-25 03:22:47 (First version)_
-2. [ Hurricane Gustav:: The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md) _2017-08-27 03:22:40 (Update)_
+1. [ Hurricane Gustav:: The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md) _2018-02-06 13:49:18 (First version)_
+2. [ Hurricane Gustav: The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-p-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md) _2018-02-06 13:49:18 (Update)_
 2. [ The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md) _(Current version)_
 
 ### Related:

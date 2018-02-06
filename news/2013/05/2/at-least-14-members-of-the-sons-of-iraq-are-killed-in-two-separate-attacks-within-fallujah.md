@@ -16,8 +16,8 @@ At least 14 members of an anti-al-Qaeda Sunni militia are killed in two attacks 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-pat-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md) _2017-08-25 03:38:32 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-at-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md) _2017-08-27 03:38:45 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-pat-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-at-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/at-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md) _(Current version)_
 
 ### Related:

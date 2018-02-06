@@ -16,7 +16,7 @@ Kala Brown told a prosecutor that she and her boyfriend were responding to an ad
 
 ### Changes:
 
-1. [Todd Kohlhepp: A body, later identified as the boyfriend of a missing woman rescued on the previous day, was discovered on Kohlhepp's property. ](/news/2016/11/4/todd-kohlhepp-a-body-later-identified-as-the-boyfriend-of-a-missing-woman-rescued-on-the-previous-day-was-discovered-on-kohlhepp-s-proper.md) _2017-08-27 03:47:10 (First version)_
+1. [Todd Kohlhepp: A body, later identified as the boyfriend of a missing woman rescued on the previous day, was discovered on Kohlhepp's property. ](/news/2016/11/4/todd-kohlhepp-a-body-later-identified-as-the-boyfriend-of-a-missing-woman-rescued-on-the-previous-day-was-discovered-on-kohlhepp-s-proper.md) _2018-02-06 13:49:29 (First version)_
 1. [A body, later identified as the boyfriend of a missing woman rescued on the previous day, was discovered on Kohlhepp's property. ](/news/2016/11/4/a-body-later-identified-as-the-boyfriend-of-a-missing-woman-rescued-on-the-previous-day-was-discovered-on-kohlhepp-s-property.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/17/index.html)  [JSON](2015/01/17/index.json)  [XML](201
 
 ##### Terrorism in Yemen
 ### [Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-houthi-rebels-or-al-qa.md)
-_Context: Sana'a, Terrorism in Yemen, Yemen, Ahmed Awad bin Mubarak, al-Qaeda_
+_Context: Ahmed Awad bin Mubarak, Terrorism in Yemen, al-Qaeda, Sana'a, Yemen_
 
 ##### Charlie Hebdo
 ### [Violence surrounding various protests against "Charlie Hebdo" leaves five protesters dead as well as some churches set ablaze in Niger. ](/news/2015/01/17/violence-surrounding-various-protests-against-charlie-hebdo-leaves-five-protesters-dead-as-well-as-some-churches-set-ablaze-in-niger.md)
@@ -13,15 +13,15 @@ Second day of violence in Niger as protests continue
 
 ##### Chad
 ### [Following the January 16 Chad authorities decision to send troops to Nigeria and Cameroon to fight Boko Haram militants, the Russian ambassador to the country pledges to supply Cameroon with more modern weapons to combat the Islamist insurgents. ](/news/2015/01/17/following-the-january-16-chad-authorities-decision-to-send-troops-to-nigeria-and-cameroon-to-fight-boko-haram-militants-the-russian-ambassa.md)
-_Context: Chad, Boko Haram, Cameroon, Nigeria_
+_Context: Nigeria, Cameroon, Chad, Boko Haram_
 
 ##### Ukraine
 ### [Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md)
-_Context: Russia, Donetsk International Airport, army, Ukraine_
+_Context: Ukraine, army, Russia, Donetsk International Airport_
 
 ##### Athens
 ### [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md)
-_Context: terrorist, Athens, Greece, Belgium_
+_Context: Greece, Belgium, Athens, terrorist_
 
 ##### 2015 Papal visit to Sri Lanka and the Philippines
 ### [Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-audience-of-half-a-million-people.md)

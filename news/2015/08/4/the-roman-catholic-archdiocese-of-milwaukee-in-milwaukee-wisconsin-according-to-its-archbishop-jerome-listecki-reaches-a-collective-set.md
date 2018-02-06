@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-m
 
 ### Changes:
 
-1. [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-se.md) _2017-08-25 03:42:30 (First version)_
+1. [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-se.md) _2018-02-06 13:49:27 (First version)_
 1. [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-set.md) _(Current version)_
 
 ### Related:

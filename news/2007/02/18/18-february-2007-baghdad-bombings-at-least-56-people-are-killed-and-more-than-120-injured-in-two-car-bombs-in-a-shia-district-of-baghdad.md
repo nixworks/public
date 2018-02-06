@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/02/18/18-february-2007-baghdad-bombings-at-least-56-p
 
 ### Changes:
 
-1. [ Iraq War: 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/iraq-war-p-18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-o.md) _2017-08-25 03:19:14 (First version)_
-2. [ Iraq War:: 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/iraq-war-18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-o.md) _2017-08-27 03:19:09 (Update)_
+1. [ Iraq War: 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/iraq-war-p-18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-o.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/iraq-war-18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-o.md) _2018-02-06 13:49:17 (Update)_
 2. [ 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-of-baghdad.md) _(Current version)_
 
 ### Related:

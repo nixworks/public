@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/iraqi-civil-war-2014-present-a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killi.md) _2017-08-27 03:44:20 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/iraqi-civil-war-2014-present-a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killi.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killing-at-least-six-guards.md) _(Current version)_
 
 ### Related:

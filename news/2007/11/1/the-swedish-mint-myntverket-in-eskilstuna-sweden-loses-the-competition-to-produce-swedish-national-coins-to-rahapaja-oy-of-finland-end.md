@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/11/1/the-swedish-mint-myntverket-in-eskilstuna-sweden
 
 ### Changes:
 
-1. [ The Swedish Mint ({{lang-sv|Myntverket}}) in Eskilstuna, Sweden, loses the competition to produce Swedish national coins to Rahapaja Oy of Finland, ending a more than 1000-year-long tradition of minting Swedish coins in Sweden. ](/news/2007/11/1/the-swedish-mint-lang-sv-myntverket-in-eskilstuna-sweden-loses-the-competition-to-produce-swedish-national-coins-to-rahapaja-oy-of.md) _2017-05-01 03:22:10 (First version)_
+1. [ The Swedish Mint ({{lang-sv|Myntverket}}) in Eskilstuna, Sweden, loses the competition to produce Swedish national coins to Rahapaja Oy of Finland, ending a more than 1000-year-long tradition of minting Swedish coins in Sweden. ](/news/2007/11/1/the-swedish-mint-lang-sv-myntverket-in-eskilstuna-sweden-loses-the-competition-to-produce-swedish-national-coins-to-rahapaja-oy-of.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Swedish Mint (Myntverket) in Eskilstuna, Sweden, loses the competition to produce Swedish national coins to Rahapaja Oy of Finland, ending a more than 1000-year-long tradition of minting Swedish coins in Sweden. ](/news/2007/11/1/the-swedish-mint-myntverket-in-eskilstuna-sweden-loses-the-competition-to-produce-swedish-national-coins-to-rahapaja-oy-of-finland-end.md) _(Current version)_
 
 ### Related:

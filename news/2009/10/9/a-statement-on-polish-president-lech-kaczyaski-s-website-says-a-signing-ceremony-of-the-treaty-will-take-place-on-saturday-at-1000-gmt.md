@@ -19,8 +19,8 @@ Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Righ
 
 ### Changes:
 
-1. [ Treaty of Lisbon: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-p-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md) _2017-08-25 03:26:00 (First version)_
-2. [ Treaty of Lisbon:: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md) _2017-08-27 03:25:52 (Update)_
+1. [ Treaty of Lisbon: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-p-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md) _2018-02-06 13:49:19 (First version)_
+2. [ Treaty of Lisbon:: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md) _2018-02-06 13:49:19 (Update)_
 2. [ A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-saturday-at-1000-gmt.md) _(Current version)_
 
 ### Related:

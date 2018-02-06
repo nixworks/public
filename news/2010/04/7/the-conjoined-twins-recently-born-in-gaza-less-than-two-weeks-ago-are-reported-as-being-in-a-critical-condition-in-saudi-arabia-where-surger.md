@@ -20,8 +20,8 @@ Conjoined twins Hassan and Hussein Benhaffaf from Cork are undergoing surgery to
 
 ### Changes:
 
-1. [Conjoined twins:The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/conjoined-twins-pthe-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-ar.md) _2017-08-25 03:27:34 (First version)_
-2. [Conjoined twins:: The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/conjoined-twins-the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-a.md) _2017-08-27 03:27:31 (Update)_
+1. [Conjoined twins:: The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/conjoined-twins-the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-a.md) _2018-02-06 13:49:20 (First version)_
+2. [Conjoined twins:The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/conjoined-twins-pthe-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-ar.md) _2018-02-06 13:49:20 (Update)_
 2. [The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-arabia-where-surger.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Security forces in Niger killed around 12 fighters of the Islamist militant grou
 
 ### Changes:
 
-1. [ Boko Haram insurgency: Niger security forces kill 12 Boko Haram militants in Bosso. ](/news/2016/05/29/boko-haram-insurgency-niger-security-forces-kill-12-boko-haram-militants-in-bosso.md) _2017-08-27 03:46:09 (First version)_
+1. [ Boko Haram insurgency: Niger security forces kill 12 Boko Haram militants in Bosso. ](/news/2016/05/29/boko-haram-insurgency-niger-security-forces-kill-12-boko-haram-militants-in-bosso.md) _2018-02-06 13:49:29 (First version)_
 1. [ Niger security forces kill 12 Boko Haram militants in Bosso. ](/news/2016/05/29/niger-security-forces-kill-12-boko-haram-militants-in-bosso.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ In a statement, the Iranian foreign ministry said that Iran was &quot;hoping it 
 
 ### Changes:
 
-1. [Seizure of ''Maersk Tigris''Iran claims that the seizure of the ''Maersk Tigris'' in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/seizure-of-maersk-tigris-piran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md) _2017-08-25 03:41:57 (First version)_
-2. [Seizure of "Maersk Tigris": Iran claims that the seizure of the "Maersk Tigris" in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/seizure-of-maersk-tigris-iran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md) _2017-08-27 03:42:15 (Update)_
+1. [Seizure of ''Maersk Tigris''Iran claims that the seizure of the ''Maersk Tigris'' in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/seizure-of-maersk-tigris-piran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md) _2018-02-06 13:49:27 (First version)_
+2. [Seizure of "Maersk Tigris": Iran claims that the seizure of the "Maersk Tigris" in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/seizure-of-maersk-tigris-iran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md) _2018-02-06 13:49:27 (Update)_
 2. [Iran claims that the seizure of the "Maersk Tigris" in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/iran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md) _(Current version)_
 
 ### Related:

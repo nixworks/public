@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/11/15/north-korea-denies-giving-military-aid-to-syria
 
 ### Changes:
 
-1. [Syrian civil war:North Korea denies giving military aid to Syria. ](/news/2013/11/15/syrian-civil-war-pnorth-korea-denies-giving-military-aid-to-syria.md) _2017-08-25 03:39:32 (First version)_
-2. [Syrian civil war:: North Korea denies giving military aid to Syria. ](/news/2013/11/15/syrian-civil-war-north-korea-denies-giving-military-aid-to-syria.md) _2017-08-27 03:39:50 (Update)_
+1. [Syrian civil war:North Korea denies giving military aid to Syria. ](/news/2013/11/15/syrian-civil-war-pnorth-korea-denies-giving-military-aid-to-syria.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: North Korea denies giving military aid to Syria. ](/news/2013/11/15/syrian-civil-war-north-korea-denies-giving-military-aid-to-syria.md) _2018-02-06 13:49:25 (Update)_
 2. [North Korea denies giving military aid to Syria. ](/news/2013/11/15/north-korea-denies-giving-military-aid-to-syria.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/13/a-winter-storm-pours-ice-rain-on-the-great-plai
 
 ### Changes:
 
-1. [Mid-January 2017 North American ice storm: A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. ](/news/2017/01/13/mid-january-2017-north-american-ice-storm-a-winter-storm-pours-ice-rain-on-the-great-plains-and-american-midwest-causes-power-outages-sch.md) _2017-08-27 03:47:36 (First version)_
+1. [Mid-January 2017 North American ice storm: A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. ](/news/2017/01/13/mid-january-2017-north-american-ice-storm-a-winter-storm-pours-ice-rain-on-the-great-plains-and-american-midwest-causes-power-outages-sch.md) _2018-02-06 13:49:30 (First version)_
 1. [A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. ](/news/2017/01/13/a-winter-storm-pours-ice-rain-on-the-great-plains-and-american-midwest-causes-power-outages-school-closures-and-a-traffic-fatality-in-mis.md) _(Current version)_
 
 ### Related:

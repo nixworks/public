@@ -63,6 +63,6 @@ Al Jazeera English is available free-to-air through satellite and cable provider
 
 ### Changes:
 
-1. [2011 Egyptian protests:Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-pdemonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-contin.md) _2017-08-25 03:31:58 (First version)_
-2. [2011 Egyptian protests:: Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-conti.md) _2017-08-27 03:32:06 (Update)_
+1. [2011 Egyptian protests:Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-pdemonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-contin.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:: Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-conti.md) _2018-02-06 13:49:21 (Update)_
 2. [Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-continue.md) _(Current version)_

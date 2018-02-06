@@ -16,7 +16,7 @@ For almost 40 years, Rupert Murdoch’s newspaper has fought against European in
 
 ### Changes:
 
-1. [Rupert Murdoch-controlled tabloid ''The Sun'', Britain's second biggest selling newspaper, endorses Brexit, saying that the people of UK should "Take back control and BeLeave in Britain". ](/news/2016/06/14/rupert-murdoch-controlled-tabloid-the-sun-britain-s-second-biggest-selling-newspaper-endorses-brexit-saying-that-the-people-of-uk-sho.md) _2017-08-25 03:45:53 (First version)_
+1. [Rupert Murdoch-controlled tabloid ''The Sun'', Britain's second biggest selling newspaper, endorses Brexit, saying that the people of UK should "Take back control and BeLeave in Britain". ](/news/2016/06/14/rupert-murdoch-controlled-tabloid-the-sun-britain-s-second-biggest-selling-newspaper-endorses-brexit-saying-that-the-people-of-uk-sho.md) _2018-02-06 13:49:29 (First version)_
 1. [Rupert Murdoch-controlled tabloid "The Sun", Britain's second biggest selling newspaper, endorses Brexit, saying that the people of UK should "Take back control and BeLeave in Britain". ](/news/2016/06/14/rupert-murdoch-controlled-tabloid-the-sun-britain-s-second-biggest-selling-newspaper-endorses-brexit-saying-that-the-people-of-uk-shoul.md) _(Current version)_
 
 ### Related:

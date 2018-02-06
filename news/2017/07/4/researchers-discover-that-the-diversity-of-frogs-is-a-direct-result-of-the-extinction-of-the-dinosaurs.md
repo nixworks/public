@@ -16,7 +16,7 @@ Frogs are &quot;master survivors,&quot; able to take advantage of the ecological
 
 ### Changes:
 
-1. [Evolution: Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/evolution-researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _2017-08-27 03:48:36 (First version)_
+1. [Evolution: Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/evolution-researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _2018-02-06 13:49:31 (First version)_
 1. [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _(Current version)_
 
 ### Related:

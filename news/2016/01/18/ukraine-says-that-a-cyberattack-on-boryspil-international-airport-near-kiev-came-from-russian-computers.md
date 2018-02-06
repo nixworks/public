@@ -16,7 +16,7 @@ Malware which infected the airport&#039;s network has been compared a virus that
 
 ### Changes:
 
-1. [2014-16 Russian military intervention in Ukraine: Ukraine says that a cyberattack on Boryspil International Airport near Kiev came from Russian computers. ](/news/2016/01/18/2014-16-russian-military-intervention-in-ukraine-ukraine-says-that-a-cyberattack-on-boryspil-international-airport-near-kiev-came-from-ru.md) _2017-08-27 03:44:43 (First version)_
+1. [2014-16 Russian military intervention in Ukraine: Ukraine says that a cyberattack on Boryspil International Airport near Kiev came from Russian computers. ](/news/2016/01/18/2014-16-russian-military-intervention-in-ukraine-ukraine-says-that-a-cyberattack-on-boryspil-international-airport-near-kiev-came-from-ru.md) _2018-02-06 13:49:28 (First version)_
 1. [Ukraine says that a cyberattack on Boryspil International Airport near Kiev came from Russian computers. ](/news/2016/01/18/ukraine-says-that-a-cyberattack-on-boryspil-international-airport-near-kiev-came-from-russian-computers.md) _(Current version)_
 
 ### Related:

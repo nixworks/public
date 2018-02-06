@@ -15,8 +15,8 @@ KABUL, Afghanistan (AP) — An Afghan official says at least 10 people have been
 
 ### Changes:
 
-1. [At least 10 people are killed by a pair of explosions in the Tsamkani District in the eastern Afghan province of Paktia. Spokesman Naqib Ahmad Atal says the Taliban are to blame. ](/news/2016/08/5/at-least-10-people-are-killed-by-a-pair-of-explosions-in-the-tsamkani-district-in-the-eastern-afghan-province-of-paktia-spokesman-naqib-ah.md) _2017-08-25 03:46:14 (First version)_
-2. [War in Afghanistan: At least 10 people are killed by a pair of explosions in the Tsamkani District in the eastern Afghan province of Paktia. Spokesman Naqib Ahmad Atal says the Taliban are to blame. ](/news/2016/08/5/war-in-afghanistan-at-least-10-people-are-killed-by-a-pair-of-explosions-in-the-tsamkani-district-in-the-eastern-afghan-province-of-paktia.md) _2017-08-27 03:46:36 (Update)_
+1. [War in Afghanistan: At least 10 people are killed by a pair of explosions in the Tsamkani District in the eastern Afghan province of Paktia. Spokesman Naqib Ahmad Atal says the Taliban are to blame. ](/news/2016/08/5/war-in-afghanistan-at-least-10-people-are-killed-by-a-pair-of-explosions-in-the-tsamkani-district-in-the-eastern-afghan-province-of-paktia.md) _2018-02-06 13:49:29 (First version)_
+2. [At least 10 people are killed by a pair of explosions in the Tsamkani District in the eastern Afghan province of Paktia. Spokesman Naqib Ahmad Atal says the Taliban are to blame. ](/news/2016/08/5/at-least-10-people-are-killed-by-a-pair-of-explosions-in-the-tsamkani-district-in-the-eastern-afghan-province-of-paktia-spokesman-naqib-ah.md) _2018-02-06 13:49:29 (Update)_
 2. [At least 10 people are killed by a pair of explosions in the Tsamkani District in the eastern Afghan province of Paktia. Spokesman Naqib Ahmad Atal says the Taliban are to blame. ](/news/2016/08/5/at-least-10-people-are-killed-by-a-pair-of-explosions-in-the-tsamkani-district-in-the-eastern-afghan-province-of-paktia-spokesman-naqib-ahm.md) _(Current version)_
 
 ### Related:

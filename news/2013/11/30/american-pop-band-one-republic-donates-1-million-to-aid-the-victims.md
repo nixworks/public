@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/30/american-pop-band-one-republic-donates-1-millio
 
 ### Changes:
 
-1. [Typhoon Haiyan:American pop band One Republic donates $1 million to aid the victims. ](/news/2013/11/30/typhoon-haiyan-pamerican-pop-band-one-republic-donates-1-million-to-aid-the-victims.md) _2017-08-25 03:39:36 (First version)_
-2. [Typhoon Haiyan:: American pop band One Republic donates $1 million to aid the victims. ](/news/2013/11/30/typhoon-haiyan-american-pop-band-one-republic-donates-1-million-to-aid-the-victims.md) _2017-08-27 03:39:54 (Update)_
+1. [Typhoon Haiyan:American pop band One Republic donates $1 million to aid the victims. ](/news/2013/11/30/typhoon-haiyan-pamerican-pop-band-one-republic-donates-1-million-to-aid-the-victims.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: American pop band One Republic donates $1 million to aid the victims. ](/news/2013/11/30/typhoon-haiyan-american-pop-band-one-republic-donates-1-million-to-aid-the-victims.md) _2018-02-06 13:49:25 (Update)_
 2. [American pop band One Republic donates $1 million to aid the victims. ](/news/2013/11/30/american-pop-band-one-republic-donates-1-million-to-aid-the-victims.md) _(Current version)_
 
 ### Related:

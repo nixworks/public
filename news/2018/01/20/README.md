@@ -9,13 +9,13 @@ The Syrian army and allied forces captured Abu al-Duhur airport in Idlib provinc
 
 ##### 2018 Inter-Continental Hotel Kabul attack
 ### [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md)
-_Context: 2018 Inter-Continental Hotel Kabul attack, Intercontinental Hotel, Kabul, Afghanistan_
+_Context: Kabul, Intercontinental Hotel, 2018 Inter-Continental Hotel Kabul attack, Afghanistan_
 
 ##### United States federal government shutdown of 2018
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
 The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.
 
-##### Turkish
+##### Turkey
 ### [A bus crash in Turkey's northwestern Eskisehir Province kills at least 11 people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-11-people-and-injures-46-others.md)
 The bus taking families on a skiing trip crashed in the north-west in reportedly good road conditions.
 
@@ -37,7 +37,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 
 ##### Odebrecht case in Guatemala
 ### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Manuel Baldizon, United States, Odebrecht case in Guatemala_
+_Context: United States, Manuel Baldizon, Odebrecht case in Guatemala_
 
 ## [Previous Day...](/news/2018/01/19/index.md)
 

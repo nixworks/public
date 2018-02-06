@@ -16,7 +16,7 @@ An official says Burundi&#8217;s president has fired his defense minister and tw
 
 ### Changes:
 
-1. [2015 Burundian unrest: After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/2015-burundian-unrest-after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister.md) _2017-08-27 03:42:20 (First version)_
+1. [2015 Burundian unrest: After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/2015-burundian-unrest-after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister.md) _2018-02-06 13:49:27 (First version)_
 1. [After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister-of-defence.md) _(Current version)_
 
 ### Related:

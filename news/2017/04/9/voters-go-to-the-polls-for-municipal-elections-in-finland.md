@@ -17,8 +17,8 @@ Finland&amp;#039;s municipal elections are underway, as today Sunday, April 9 is
 
 ### Changes:
 
-1. [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md) _2017-05-25 03:50:21 (First version)_
-2. [Finnish municipal elections, 2017: Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-voters-go-to-the-polls-for-municipal-elections-in-finland.md) _2017-08-27 03:48:08 (Update)_
+1. [Finnish municipal elections, 2017: Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-voters-go-to-the-polls-for-municipal-elections-in-finland.md) _2018-02-06 13:49:30 (First version)_
+2. [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md) _2018-02-06 13:49:30 (Update)_
 2. [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md) _(Current version)_
 
 ### Related:

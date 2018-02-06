@@ -16,8 +16,8 @@ A 6.5-magnitude earthquake struck southwest of Ioannina in Greece at a depth of 
 
 ### Changes:
 
-1. [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of {{convert|6.2|mi|km}} killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-convert-6-2-mi-km-killing-at-least-two-people-the-qua.md) _2017-05-01 03:47:23 (First version)_
-2. [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of 6.2|mi|km killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-6-2-mi-km-killing-at-least-two-people-the-quake-damages-t.md) _2017-08-29 03:43:29 (Update)_
+1. [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of {{convert|6.2|mi|km}} killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-convert-6-2-mi-km-killing-at-least-two-people-the-qua.md) _2018-02-06 13:49:28 (First version)_
+2. [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of 6.2|mi|km killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-6-2-mi-km-killing-at-least-two-people-the-quake-damages-t.md) _2018-02-06 13:49:28 (Update)_
 2. [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of 6.2 mi killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-6-2-mi-killing-at-least-two-people-the-quake-damages-the.md) _(Current version)_
 
 ### Related:

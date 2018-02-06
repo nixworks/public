@@ -16,7 +16,7 @@ A debris field was spotted in the ocean after the Army Black Hawk went down near
 
 ### Changes:
 
-1. [Accidents and incidents involving helicopters: A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/accidents-and-incidents-involving-helicopters-a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coas.md) _2017-08-27 03:48:48 (First version)_
+1. [Accidents and incidents involving helicopters: A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/accidents-and-incidents-involving-helicopters-a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coas.md) _2018-02-06 13:49:31 (First version)_
 1. [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md) _(Current version)_
 
 ### Related:

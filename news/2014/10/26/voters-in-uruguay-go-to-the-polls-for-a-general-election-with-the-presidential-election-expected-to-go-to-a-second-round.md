@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/26/voters-in-uruguay-go-to-the-polls-for-a-general
 
 ### Changes:
 
-1. [Uruguayan general election, 2014: Voters in Uruguay go to the polls for a general election with the presidential election expected to go to a second round. ](/news/2014/10/26/uruguayan-general-election-2014-voters-in-uruguay-go-to-the-polls-for-a-general-election-with-the-presidential-election-expected-to-go-to.md) _2017-08-27 03:41:26 (First version)_
+1. [Uruguayan general election, 2014: Voters in Uruguay go to the polls for a general election with the presidential election expected to go to a second round. ](/news/2014/10/26/uruguayan-general-election-2014-voters-in-uruguay-go-to-the-polls-for-a-general-election-with-the-presidential-election-expected-to-go-to.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Uruguay go to the polls for a general election with the presidential election expected to go to a second round. ](/news/2014/10/26/voters-in-uruguay-go-to-the-polls-for-a-general-election-with-the-presidential-election-expected-to-go-to-a-second-round.md) _(Current version)_
 
 ### Related:

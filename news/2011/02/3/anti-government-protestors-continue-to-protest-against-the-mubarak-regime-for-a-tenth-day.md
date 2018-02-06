@@ -53,6 +53,6 @@ Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo
 
 ### Changes:
 
-1. [2011 Egyptian protests:Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-panti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _2017-08-25 03:32:02 (First version)_
-2. [2011 Egyptian protests:: Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _2017-08-27 03:32:10 (Update)_
+1. [2011 Egyptian protests:Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-panti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian protests:: Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md) _(Current version)_

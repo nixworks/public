@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/4/a-coolant-leak-at-kra-ko-nuclear-power-plant-in-
 
 ### Changes:
 
-1. [ A coolant leak at Krsko Nuclear Power Plant in Slovenia triggers the European Union's ECURIE nuclear emergency alert system. Slovenian authorities state the situation is under control, with no radiation leak into the environment. ](/news/2008/06/4/a-coolant-leak-at-kra-ko-nuclear-power-plant-in-slovenia-triggers-the-european-union-s-ecurie-nuclear-emergency-alert-system-slovenian-au.md) _2017-08-25 03:22:17 (First version)_
+1. [ A coolant leak at Krsko Nuclear Power Plant in Slovenia triggers the European Union's ECURIE nuclear emergency alert system. Slovenian authorities state the situation is under control, with no radiation leak into the environment. ](/news/2008/06/4/a-coolant-leak-at-kra-ko-nuclear-power-plant-in-slovenia-triggers-the-european-union-s-ecurie-nuclear-emergency-alert-system-slovenian-au.md) _2018-02-06 13:49:18 (First version)_
 1. [ A coolant leak at Krsko Nuclear Power Plant in Slovenia triggers the European Union's ECURIE nuclear emergency alert system. Slovenian authorities state the situation is under control, with no radiation leak into the environment. ](/news/2008/06/4/a-coolant-leak-at-kra-ko-nuclear-power-plant-in-slovenia-triggers-the-european-union-s-ecurie-nuclear-emergency-alert-system-slovenian-aut.md) _(Current version)_
 
 ### Related:

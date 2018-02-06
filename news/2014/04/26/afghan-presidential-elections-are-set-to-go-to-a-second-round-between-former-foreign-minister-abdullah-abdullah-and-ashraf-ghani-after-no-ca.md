@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/26/afghan-presidential-elections-are-set-to-go-to-
 
 ### Changes:
 
-1. [Afghan presidential election:Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-election-pafghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdulla.md) _2017-08-25 03:40:20 (First version)_
-2. [Afghan presidential election:: Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-election-afghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdull.md) _2017-08-27 03:40:38 (Update)_
+1. [Afghan presidential election:Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-election-pafghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdulla.md) _2018-02-06 13:49:26 (First version)_
+2. [Afghan presidential election:: Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-election-afghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdull.md) _2018-02-06 13:49:26 (Update)_
 2. [Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdullah-and-ashraf-ghani-after-no-ca.md) _(Current version)_
 
 ### Related:

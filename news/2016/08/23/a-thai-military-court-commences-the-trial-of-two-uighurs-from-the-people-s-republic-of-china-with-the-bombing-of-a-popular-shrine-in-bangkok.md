@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-tw
 
 ### Changes:
 
-1. [2015 Bangkok bombing: A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/2015-bangkok-bombing-a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-pop.md) _2017-08-27 03:46:41 (First version)_
+1. [2015 Bangkok bombing: A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/2015-bangkok-bombing-a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-pop.md) _2018-02-06 13:49:29 (First version)_
 1. [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md) _(Current version)_
 
 ### Related:

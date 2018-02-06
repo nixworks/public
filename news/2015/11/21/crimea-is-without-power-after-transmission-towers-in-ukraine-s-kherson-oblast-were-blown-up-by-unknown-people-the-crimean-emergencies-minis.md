@@ -16,7 +16,7 @@ Russia’s Crimea has switched to autonomous reserve power after transmission to
 
 ### Changes:
 
-1. [Ukrainian crisis: Crimea is without power after transmission towers in Ukraine's Kherson Oblast were blown up by unknown people. The Crimean Emergencies Ministry declares a state of emergency due to the power outage and puts rescue teams on high alert. ](/news/2015/11/21/ukrainian-crisis-crimea-is-without-power-after-transmission-towers-in-ukraine-s-kherson-oblast-were-blown-up-by-unknown-people-the-crimean.md) _2017-08-27 03:43:59 (First version)_
+1. [Ukrainian crisis: Crimea is without power after transmission towers in Ukraine's Kherson Oblast were blown up by unknown people. The Crimean Emergencies Ministry declares a state of emergency due to the power outage and puts rescue teams on high alert. ](/news/2015/11/21/ukrainian-crisis-crimea-is-without-power-after-transmission-towers-in-ukraine-s-kherson-oblast-were-blown-up-by-unknown-people-the-crimean.md) _2018-02-06 13:49:28 (First version)_
 1. [Crimea is without power after transmission towers in Ukraine's Kherson Oblast were blown up by unknown people. The Crimean Emergencies Ministry declares a state of emergency due to the power outage and puts rescue teams on high alert. ](/news/2015/11/21/crimea-is-without-power-after-transmission-towers-in-ukraine-s-kherson-oblast-were-blown-up-by-unknown-people-the-crimean-emergencies-minis.md) _(Current version)_
 
 ### Related:

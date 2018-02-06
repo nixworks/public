@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/26/kurdish-fighters-recapture-at-least-90-of-koban
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Kurdish fighters recapture at least 90% of Kobani, Syria. ](/news/2015/01/26/islamic-state-of-iraq-and-the-levant-kurdish-fighters-recapture-at-least-90-of-kobana-r-syria.md) _2017-08-27 03:41:50 (First version)_
+1. [Islamic State of Iraq and the Levant: Kurdish fighters recapture at least 90% of Kobani, Syria. ](/news/2015/01/26/islamic-state-of-iraq-and-the-levant-kurdish-fighters-recapture-at-least-90-of-kobana-r-syria.md) _2018-02-06 13:49:26 (First version)_
 1. [Kurdish fighters recapture at least 90% of Kobani, Syria. ](/news/2015/01/26/kurdish-fighters-recapture-at-least-90-of-kobana-r-syria.md) _(Current version)_
 
 ### Related:

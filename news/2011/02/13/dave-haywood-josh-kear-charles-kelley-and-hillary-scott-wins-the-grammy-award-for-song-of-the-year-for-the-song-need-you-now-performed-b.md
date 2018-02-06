@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/02/13/dave-haywood-josh-kear-charles-kelley-and-hilla
 
 ### Changes:
 
-1. [53rd Grammy Awards:Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-pdave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md) _2017-08-25 03:32:09 (First version)_
-2. [53rd Grammy Awards:: Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-dave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md) _2017-08-27 03:32:18 (Update)_
+1. [53rd Grammy Awards:Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-pdave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md) _2018-02-06 13:49:21 (First version)_
+2. [53rd Grammy Awards:: Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-dave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md) _2018-02-06 13:49:21 (Update)_
 2. [Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/dave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need-you-now-performed-b.md) _(Current version)_
 
 ### Related:

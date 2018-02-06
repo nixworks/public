@@ -17,8 +17,8 @@ Opposition fighters are to be allowed to withdraw from besieged parts of the Syr
 
 ### Changes:
 
-1. [Syrian Civil War (Siege of Homs):A 24-hour ceasefire deal is reached in Syria's city of Homs allowing rebels to withdraw from their last stronghold in the central city. ](/news/2014/05/2/syrian-civil-war-siege-of-homs-pa-24-hour-ceasefire-deal-is-reached-in-syria-s-city-of-homs-allowing-rebels-to-withdraw-from-their-last-st.md) _2017-08-25 03:40:22 (First version)_
-2. [Syrian Civil War (Siege of Homs):: A 24-hour ceasefire deal is reached in Syria's city of Homs allowing rebels to withdraw from their last stronghold in the central city. ](/news/2014/05/2/syrian-civil-war-siege-of-homs-a-24-hour-ceasefire-deal-is-reached-in-syria-s-city-of-homs-allowing-rebels-to-withdraw-from-their-last-s.md) _2017-08-27 03:40:40 (Update)_
+1. [Syrian Civil War (Siege of Homs):A 24-hour ceasefire deal is reached in Syria's city of Homs allowing rebels to withdraw from their last stronghold in the central city. ](/news/2014/05/2/syrian-civil-war-siege-of-homs-pa-24-hour-ceasefire-deal-is-reached-in-syria-s-city-of-homs-allowing-rebels-to-withdraw-from-their-last-st.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War (Siege of Homs):: A 24-hour ceasefire deal is reached in Syria's city of Homs allowing rebels to withdraw from their last stronghold in the central city. ](/news/2014/05/2/syrian-civil-war-siege-of-homs-a-24-hour-ceasefire-deal-is-reached-in-syria-s-city-of-homs-allowing-rebels-to-withdraw-from-their-last-s.md) _2018-02-06 13:49:26 (Update)_
 2. [A 24-hour ceasefire deal is reached in Syria's city of Homs allowing rebels to withdraw from their last stronghold in the central city. ](/news/2014/05/2/a-24-hour-ceasefire-deal-is-reached-in-syria-s-city-of-homs-allowing-rebels-to-withdraw-from-their-last-stronghold-in-the-central-city.md) _(Current version)_
 
 ### Related:

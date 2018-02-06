@@ -11,7 +11,7 @@ Formats: [HTML](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-a
 
 ### Changes:
 
-1. [ British police charge Muslim cleric Abu Hamza al-Masri with 16 crimes, including encouraging the murder of non-Muslims. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6543585 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-al-masri-with-16-crimes-including-encouraging-the-murder-of-non-muslims-http-www-reuters.md) _2017-10-17 03:17:22 (First version)_
+1. [ British police charge Muslim cleric Abu Hamza al-Masri with 16 crimes, including encouraging the murder of non-Muslims. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6543585 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-al-masri-with-16-crimes-including-encouraging-the-murder-of-non-muslims-http-www-reuters.md) _2018-02-06 13:49:16 (First version)_
 1. [ British police charge Muslim cleric Abu Hamza al-Masri with 16 crimes, including encouraging the murder of non-Muslims. [https:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6543585 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-al-masri-with-16-crimes-including-encouraging-the-murder-of-non-muslims-https-www-reuter.md) _(Current version)_
 
 ### Related:

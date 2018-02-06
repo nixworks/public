@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/16/a-suicide-bomber-kills-4-people-and-injures-26-
 
 ### Changes:
 
-1. [Syrian Civil War:A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/syrian-civil-war-pa-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-bord.md) _2017-08-25 03:39:52 (First version)_
-2. [Syrian Civil War:: A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/syrian-civil-war-a-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-bor.md) _2017-08-27 03:40:11 (Update)_
+1. [Syrian Civil War:A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/syrian-civil-war-pa-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-bord.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/syrian-civil-war-a-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-bor.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/a-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-border.md) _(Current version)_
 
 ### Related:

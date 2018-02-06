@@ -18,7 +18,7 @@ BP says it will sell some business interests in Vietnam and Venezuela for $1.8bn
 
 ### Changes:
 
-1. [BP is to sell assets worth an estimated $1.8 billion as part of series of sales to help pay for damages caused by the explosion on its Deepwater Horizon rig in April, which killed 11 workers and spilled more than 200 million gallons of crude oil into the Gulf of Mexico. ](/news/2010/10/18/bp-is-to-sell-assets-worth-an-estimated-1-8-billion-as-part-of-series-of-sales-to-help-pay-for-damages-caused-by-the-explosion-on-its-deep.md) _2017-08-25 03:30:34 (First version)_
+1. [BP is to sell assets worth an estimated $1.8 billion as part of series of sales to help pay for damages caused by the explosion on its Deepwater Horizon rig in April, which killed 11 workers and spilled more than 200 million gallons of crude oil into the Gulf of Mexico. ](/news/2010/10/18/bp-is-to-sell-assets-worth-an-estimated-1-8-billion-as-part-of-series-of-sales-to-help-pay-for-damages-caused-by-the-explosion-on-its-deep.md) _2018-02-06 13:49:20 (First version)_
 1. [BP is to sell assets worth an estimated $1.8 billion as part of series of sales to help pay for damages caused by the explosion on its Deepwater Horizon rig in April, which killed 11 workers and spilled more than 200 million gallons of crude oil into the Gulf of Mexico. ](/news/2010/10/18/bp-is-to-sell-assets-worth-an-estimated-1-8-billion-as-part-of-series-of-sales-to-help-pay-for-damages-caused-by-the-explosion-on-its-deepw.md) _(Current version)_
 
 ### Related:

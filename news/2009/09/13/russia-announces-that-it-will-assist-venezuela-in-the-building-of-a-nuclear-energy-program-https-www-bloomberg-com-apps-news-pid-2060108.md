@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/09/13/russia-announces-that-it-will-assist-venezuela-
 
 ### Changes:
 
-1. [ Russia announces that it will assist Venezuela in the building of a nuclear energy program.[http:--www.bloomberg.com-apps-news?pid=20601086&sid=aElQ3UEU9eYM(Bloomberg)]](/news/2009/09/13/russia-announces-that-it-will-assist-venezuela-in-the-building-of-a-nuclear-energy-program-http-www-bloomberg-com-apps-news-pid-20601086.md) _2017-10-17 03:29:52 (First version)_
+1. [ Russia announces that it will assist Venezuela in the building of a nuclear energy program.[http:--www.bloomberg.com-apps-news?pid=20601086&sid=aElQ3UEU9eYM(Bloomberg)]](/news/2009/09/13/russia-announces-that-it-will-assist-venezuela-in-the-building-of-a-nuclear-energy-program-http-www-bloomberg-com-apps-news-pid-20601086.md) _2018-02-06 13:49:19 (First version)_
 1. [ Russia announces that it will assist Venezuela in the building of a nuclear energy program.[https:--www.bloomberg.com-apps-news?pid=20601086&sid=aElQ3UEU9eYM(Bloomberg)]](/news/2009/09/13/russia-announces-that-it-will-assist-venezuela-in-the-building-of-a-nuclear-energy-program-https-www-bloomberg-com-apps-news-pid-2060108.md) _(Current version)_
 
 ### Related:

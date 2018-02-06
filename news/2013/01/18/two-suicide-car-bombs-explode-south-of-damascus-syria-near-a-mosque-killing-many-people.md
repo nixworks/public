@@ -19,8 +19,8 @@ A large blast hit a neighborhood of the Syrian city of Aleppo on Friday and caus
 
 ### Changes:
 
-1. [Syrian civil war:Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-ptwo-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _2017-08-25 03:37:17 (First version)_
-2. [Syrian civil war:: Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-two-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _2017-08-27 03:37:27 (Update)_
+1. [Syrian civil war:: Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-two-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-ptwo-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _2018-02-06 13:49:24 (Update)_
 2. [Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/two-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md) _(Current version)_
 
 ### Related:

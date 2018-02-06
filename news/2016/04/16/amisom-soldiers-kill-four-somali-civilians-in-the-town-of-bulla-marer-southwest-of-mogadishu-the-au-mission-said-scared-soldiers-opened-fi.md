@@ -16,7 +16,7 @@ African Union (AU) kill four civilians travelling in a car in southern Somalia, 
 
 ### Changes:
 
-1. [War in Somalia (2009-present): AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. ](/news/2016/04/16/war-in-somalia-2009-present-amisom-soldiers-kill-four-somali-civilians-in-the-town-of-bulla-marer-southwest-of-mogadishu-the-au-missi.md) _2017-08-27 03:45:38 (First version)_
+1. [War in Somalia (2009-present): AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. ](/news/2016/04/16/war-in-somalia-2009-present-amisom-soldiers-kill-four-somali-civilians-in-the-town-of-bulla-marer-southwest-of-mogadishu-the-au-missi.md) _2018-02-06 13:49:28 (First version)_
 1. [AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. ](/news/2016/04/16/amisom-soldiers-kill-four-somali-civilians-in-the-town-of-bulla-marer-southwest-of-mogadishu-the-au-mission-said-scared-soldiers-opened-fi.md) _(Current version)_
 
 ### Related:

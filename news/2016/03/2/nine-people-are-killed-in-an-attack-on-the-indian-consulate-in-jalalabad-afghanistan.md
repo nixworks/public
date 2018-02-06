@@ -16,7 +16,7 @@ In the fourth attack since 2007, heavily-armed terrorists, including suicide bom
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Nine people are killed in an attack on the Indian consulate In Jalalabad, Afghanistan. ](/news/2016/03/2/war-in-afghanistan-2015-present-nine-people-are-killed-in-an-attack-on-the-indian-consulate-in-jalalabad-afghanistan.md) _2017-08-27 03:45:06 (First version)_
+1. [War in Afghanistan (2015-present): Nine people are killed in an attack on the Indian consulate In Jalalabad, Afghanistan. ](/news/2016/03/2/war-in-afghanistan-2015-present-nine-people-are-killed-in-an-attack-on-the-indian-consulate-in-jalalabad-afghanistan.md) _2018-02-06 13:49:28 (First version)_
 1. [ Nine people are killed in an attack on the Indian consulate In Jalalabad, Afghanistan. ](/news/2016/03/2/nine-people-are-killed-in-an-attack-on-the-indian-consulate-in-jalalabad-afghanistan.md) _(Current version)_
 
 ### Related:

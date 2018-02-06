@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/30/new-york-times-journalist-judith-miller-testifi
 
 ### Changes:
 
-1. [ ''New York Times'' journalist Judith Miller testifies before a federal grand jury and identifies Lewis Libby, Vice President Dick Cheney's chief of staff, as her confidential source for a non-published story about the unmasking of a CIA agent in 2003. ](/news/2005/09/30/new-york-times-journalist-judith-miller-testifies-before-a-federal-grand-jury-and-identifies-lewis-libby-vice-president-dick-cheney-s.md) _2017-08-25 03:16:52 (First version)_
+1. [ ''New York Times'' journalist Judith Miller testifies before a federal grand jury and identifies Lewis Libby, Vice President Dick Cheney's chief of staff, as her confidential source for a non-published story about the unmasking of a CIA agent in 2003. ](/news/2005/09/30/new-york-times-journalist-judith-miller-testifies-before-a-federal-grand-jury-and-identifies-lewis-libby-vice-president-dick-cheney-s.md) _2018-02-06 13:49:16 (First version)_
 1. [ "New York Times" journalist Judith Miller testifies before a federal grand jury and identifies Lewis Libby, Vice President Dick Cheney's chief of staff, as her confidential source for a non-published story about the unmasking of a CIA agent in 2003. ](/news/2005/09/30/new-york-times-journalist-judith-miller-testifies-before-a-federal-grand-jury-and-identifies-lewis-libby-vice-president-dick-cheney-s-ch.md) _(Current version)_
 
 ### Related:

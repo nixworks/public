@@ -17,7 +17,7 @@ Divers found the remains of missing sailors in a search of the Navy destroyer Jo
 
 ### Changes:
 
-1. [The United States Navy relieves Admiral Joseph Aucoin as Commander of the United States Seventh Fleet following the death of 12 sailors in four collisions in Asia. ](/news/2017/08/23/the-united-states-navy-relieves-admiral-joseph-aucoin-as-commander-of-the-united-states-seventh-fleet-following-the-death-of-12-sailors-in-f.md) _2017-08-23 10:30:05 (First version)_
+1. [The United States Navy relieves Admiral Joseph Aucoin as Commander of the United States Seventh Fleet following the death of 12 sailors in four collisions in Asia. ](/news/2017/08/23/the-united-states-navy-relieves-admiral-joseph-aucoin-as-commander-of-the-united-states-seventh-fleet-following-the-death-of-12-sailors-in-f.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States Navy relieves vice admiral Joseph Aucoin as commander of the United States Seventh Fleet following four collisions in Asia this year that claimed the lives of 17 sailors. ](/news/2017/08/23/the-united-states-navy-relieves-vice-admiral-joseph-aucoin-as-commander-of-the-united-states-seventh-fleet-following-four-collisions-in-asia.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/19/manila-is-inundated-by-massive-flooding-causing
 
 ### Changes:
 
-1. [Tropical Storm Fung-wong: Manila is inundated by massive flooding causing flights to the international airport to be cancelled and businesses to shut down. ](/news/2014/09/19/tropical-storm-fung-wong-manila-is-inundated-by-massive-flooding-causing-flights-to-the-international-airport-to-be-cancelled-and-businesse.md) _2017-08-27 03:41:18 (First version)_
+1. [Tropical Storm Fung-wong: Manila is inundated by massive flooding causing flights to the international airport to be cancelled and businesses to shut down. ](/news/2014/09/19/tropical-storm-fung-wong-manila-is-inundated-by-massive-flooding-causing-flights-to-the-international-airport-to-be-cancelled-and-businesse.md) _2018-02-06 13:49:26 (First version)_
 1. [Manila is inundated by massive flooding causing flights to the international airport to be cancelled and businesses to shut down. ](/news/2014/09/19/manila-is-inundated-by-massive-flooding-causing-flights-to-the-international-airport-to-be-cancelled-and-businesses-to-shut-down.md) _(Current version)_
 
 ### Related:

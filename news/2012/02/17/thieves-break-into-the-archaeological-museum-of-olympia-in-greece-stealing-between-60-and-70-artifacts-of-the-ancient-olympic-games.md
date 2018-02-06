@@ -17,8 +17,8 @@ Armed robbers steal dozens of priceless artefacts from a Greek museum in Olympia
 
 ### Changes:
 
-1. [Archaeological Museum of Olympia robbery:Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-pthieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-arti.md) _2017-08-25 03:35:04 (First version)_
-2. [Archaeological Museum of Olympia robbery:: Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-art.md) _2017-08-27 03:35:14 (Update)_
+1. [Archaeological Museum of Olympia robbery:: Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-art.md) _2018-02-06 13:49:23 (First version)_
+2. [Archaeological Museum of Olympia robbery:Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-pthieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-arti.md) _2018-02-06 13:49:23 (Update)_
 2. [Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-artifacts-of-the-ancient-olympic-games.md) _(Current version)_
 
 ### Related:

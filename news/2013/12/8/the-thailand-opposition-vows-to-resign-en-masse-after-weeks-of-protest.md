@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/8/the-thailand-opposition-vows-to-resign-en-masse-
 
 ### Changes:
 
-1. [2013 Thai protests:The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/2013-thai-protests-pthe-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md) _2017-08-25 03:39:39 (First version)_
-2. [2013 Thai protests:: The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/2013-thai-protests-the-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md) _2017-08-27 03:39:57 (Update)_
+1. [2013 Thai protests:: The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/2013-thai-protests-the-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/2013-thai-protests-pthe-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md) _2018-02-06 13:49:25 (Update)_
 2. [The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/the-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md) _(Current version)_
 
 ### Related:

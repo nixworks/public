@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-n
 
 ### Changes:
 
-1. [ Zhao Yan, a Chinese journalist working for the ''New York Times'', is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for.md) _2017-08-25 03:20:58 (First version)_
+1. [ Zhao Yan, a Chinese journalist working for the ''New York Times'', is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for.md) _2018-02-06 13:49:18 (First version)_
 1. [ Zhao Yan, a Chinese journalist working for the "New York Times", is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for-le.md) _(Current version)_
 
 ### Related:

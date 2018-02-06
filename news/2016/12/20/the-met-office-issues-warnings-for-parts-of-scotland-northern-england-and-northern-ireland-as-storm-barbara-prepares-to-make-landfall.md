@@ -16,7 +16,7 @@ Christmas travel plans look set to be thrown into chaos, with 90mph winds threat
 
 ### Changes:
 
-1. [2016-17 UK and Ireland windstorm season: The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/2016-17-uk-and-ireland-windstorm-season-the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-st.md) _2017-08-27 03:47:29 (First version)_
+1. [2016-17 UK and Ireland windstorm season: The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/2016-17-uk-and-ireland-windstorm-season-the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-st.md) _2018-02-06 13:49:30 (First version)_
 1. [The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-storm-barbara-prepares-to-make-landfall.md) _(Current version)_
 
 ### Related:

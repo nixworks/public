@@ -22,8 +22,8 @@ Taoiseach Brian Cowen has confirmed that a major financial assistance plan for I
 
 ### Changes:
 
-1. [Irish Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _2017-08-25 03:31:07 (First version)_
-2. [Irish financial crisis: Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-financial-crisis-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _2017-08-27 03:31:14 (Update)_
+1. [Irish Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _2018-02-06 13:49:21 (First version)_
+2. [Irish financial crisis: Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-financial-crisis-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _2018-02-06 13:49:21 (Update)_
 2. [Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/01/18/palestinian-suicide-bomber-killed-one-and-wound
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. ](/news/2005/01/18/israeli-palestinian-conflict-p-palestinian-suicide-bomber-killed-one-and-wounded-six-israelis-in-gush-katif-junction-in-the-gaza-strip-ham.md) _2017-08-25 03:15:32 (First version)_
-2. [ Israeli-Palestinian conflict:: Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. ](/news/2005/01/18/israeli-palestinian-conflict-palestinian-suicide-bomber-killed-one-and-wounded-six-israelis-in-gush-katif-junction-in-the-gaza-strip-ham.md) _2017-08-27 03:15:33 (Update)_
+1. [ Israeli-Palestinian conflict:: Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. ](/news/2005/01/18/israeli-palestinian-conflict-palestinian-suicide-bomber-killed-one-and-wounded-six-israelis-in-gush-katif-junction-in-the-gaza-strip-ham.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict: Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. ](/news/2005/01/18/israeli-palestinian-conflict-p-palestinian-suicide-bomber-killed-one-and-wounded-six-israelis-in-gush-katif-junction-in-the-gaza-strip-ham.md) _2018-02-06 13:49:16 (Update)_
 2. [ Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. ](/news/2005/01/18/palestinian-suicide-bomber-killed-one-and-wounded-six-israelis-in-gush-katif-junction-in-the-gaza-strip-hamas-claimed-responsibility.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Private US company sends a spacecraft into orbit in a move that could pave way f
 
 ### Changes:
 
-1. [SpaceX Dragon -- SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-dragon-a-spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-launch-complex-40-ca.md) _2017-08-25 03:31:20 (First version)_
-2. [SpaceX Dragon - COTS Demo Flight 1: SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-dragon-cots-demo-flight-1-spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-l.md) _2017-08-27 03:31:27 (Update)_
+1. [SpaceX Dragon - COTS Demo Flight 1: SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-dragon-cots-demo-flight-1-spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-l.md) _2018-02-06 13:49:21 (First version)_
+2. [SpaceX Dragon -- SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-dragon-a-spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-launch-complex-40-ca.md) _2018-02-06 13:49:21 (Update)_
 2. [SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-launch-complex-40-cape-canaveral-air-f.md) _(Current version)_
 
 ### Related:

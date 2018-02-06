@@ -15,7 +15,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ### Changes:
 
-1. [Abortion in Poland: Thousands of people attended a pro-choice rally outside Parliament of Poland in Warsaw after Jaroslaw Kaczynski, the leader of the ruling Law and Justice party, backed a call by Polish Catholic bishops for a full ban on abortion. ](/news/2016/04/3/abortion-in-poland-thousands-of-people-attended-a-pro-choice-rally-outside-parliament-of-poland-in-warsaw-after-jarosaaw-kaczyaski-the-l.md) _2017-08-27 03:45:28 (First version)_
+1. [Abortion in Poland: Thousands of people attended a pro-choice rally outside Parliament of Poland in Warsaw after Jaroslaw Kaczynski, the leader of the ruling Law and Justice party, backed a call by Polish Catholic bishops for a full ban on abortion. ](/news/2016/04/3/abortion-in-poland-thousands-of-people-attended-a-pro-choice-rally-outside-parliament-of-poland-in-warsaw-after-jarosaaw-kaczyaski-the-l.md) _2018-02-06 13:49:29 (First version)_
 1. [Thousands of people attended a pro-choice rally outside Parliament of Poland in Warsaw after Jaroslaw Kaczynski, the leader of the ruling Law and Justice party, backed a call by Polish Catholic bishops for a full ban on abortion. ](/news/2016/04/3/thousands-of-people-attended-a-pro-choice-rally-outside-parliament-of-poland-in-warsaw-after-jarosaaw-kaczyaski-the-leader-of-the-ruling.md) _(Current version)_
 
 ### Related:

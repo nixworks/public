@@ -19,8 +19,8 @@ As many as 50,000 political prisoners may still be trapped in underground jails 
 
 ### Changes:
 
-1. [2011 Libyan civil war:The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/2011-libyan-civil-war-pthe-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-go.md) _2017-08-25 03:34:04 (First version)_
-2. [2011 Libyan civil war:: The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/2011-libyan-civil-war-the-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-g.md) _2017-08-27 03:34:12 (Update)_
+1. [2011 Libyan civil war:: The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/2011-libyan-civil-war-the-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-g.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/2011-libyan-civil-war-pthe-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-go.md) _2018-02-06 13:49:22 (Update)_
 2. [The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/the-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-government.md) _(Current version)_
 
 ### Related:

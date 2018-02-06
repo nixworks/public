@@ -17,7 +17,7 @@ AU-PRINCE (Reuters) - Haitians have chosen banana exporter Jovenel Moise as thei
 
 ### Changes:
 
-1. [Haitian presidential election, 2016-17: Jovenel Moise provisionally wins the Haitian election. With Moise earning over 50% of the vote, a runoff election will not be required unless the losing candidates contest the result. ](/news/2016/11/29/haitian-presidential-election-2016-17-jovenel-moa-se-provisionally-wins-the-haitian-election-with-moa-se-earning-over-50-of-the-vote.md) _2017-08-27 03:47:20 (First version)_
+1. [Haitian presidential election, 2016-17: Jovenel Moise provisionally wins the Haitian election. With Moise earning over 50% of the vote, a runoff election will not be required unless the losing candidates contest the result. ](/news/2016/11/29/haitian-presidential-election-2016-17-jovenel-moa-se-provisionally-wins-the-haitian-election-with-moa-se-earning-over-50-of-the-vote.md) _2018-02-06 13:49:29 (First version)_
 1. [Jovenel Moise provisionally wins the Haitian election. With Moise earning over 50% of the vote, a runoff election will not be required unless the losing candidates contest the result. ](/news/2016/11/29/jovenel-moa-se-provisionally-wins-the-haitian-election-with-moa-se-earning-over-50-of-the-vote-a-runoff-election-will-not-be-required-unl.md) _(Current version)_
 
 ### Related:

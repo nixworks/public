@@ -17,8 +17,8 @@ With the state Senate at an impasse over his temporary budget fix, and tens of t
 
 ### Changes:
 
-1. [Wisconsin:Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/wisconsin-pschools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md) _2017-08-25 03:32:13 (First version)_
-2. [Wisconsin:: Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/wisconsin-schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md) _2017-08-27 03:32:21 (Update)_
+1. [Wisconsin:: Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/wisconsin-schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md) _2018-02-06 13:49:22 (First version)_
+2. [Wisconsin:Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/wisconsin-pschools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md) _2018-02-06 13:49:22 (Update)_
 2. [Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for-state-emplo.md) _(Current version)_
 
 ### Related:

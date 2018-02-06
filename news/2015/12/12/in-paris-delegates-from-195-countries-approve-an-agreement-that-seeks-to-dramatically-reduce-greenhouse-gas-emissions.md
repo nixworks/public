@@ -17,7 +17,7 @@ Organisers of climate talks in Paris say a final draft text has been reached aft
 
 ### Changes:
 
-1. [2015 United Nations Climate Change Conference: In Paris, delegates from 195 countries approve an agreement that seeks to dramatically reduce greenhouse gas emissions.](/news/2015/12/12/2015-united-nations-climate-change-conference-in-paris-delegates-from-195-countries-approve-an-agreement-that-seeks-to-dramatically-reduce.md) _2017-08-27 03:44:19 (First version)_
+1. [2015 United Nations Climate Change Conference: In Paris, delegates from 195 countries approve an agreement that seeks to dramatically reduce greenhouse gas emissions.](/news/2015/12/12/2015-united-nations-climate-change-conference-in-paris-delegates-from-195-countries-approve-an-agreement-that-seeks-to-dramatically-reduce.md) _2018-02-06 13:49:28 (First version)_
 1. [In Paris, delegates from 195 countries approve an agreement that seeks to dramatically reduce greenhouse gas emissions.](/news/2015/12/12/in-paris-delegates-from-195-countries-approve-an-agreement-that-seeks-to-dramatically-reduce-greenhouse-gas-emissions.md) _(Current version)_
 
 ### Related:

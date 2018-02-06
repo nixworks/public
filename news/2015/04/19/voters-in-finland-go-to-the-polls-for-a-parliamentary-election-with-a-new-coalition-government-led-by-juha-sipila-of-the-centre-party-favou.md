@@ -17,7 +17,7 @@ Finns are tipped to oust apro-European and pro-NATO prime minister in elections 
 
 ### Changes:
 
-1. [Finnish parliamentary election, 2015: Voters in Finland go to the polls for a parliamentary election with a new coalition government led by Juha Sipila of the Centre Party favoured to form government after negotiation. ](/news/2015/04/19/finnish-parliamentary-election-2015-voters-in-finland-go-to-the-polls-for-a-parliamentary-election-with-a-new-coalition-government-led-by.md) _2017-08-27 03:42:13 (First version)_
+1. [Finnish parliamentary election, 2015: Voters in Finland go to the polls for a parliamentary election with a new coalition government led by Juha Sipila of the Centre Party favoured to form government after negotiation. ](/news/2015/04/19/finnish-parliamentary-election-2015-voters-in-finland-go-to-the-polls-for-a-parliamentary-election-with-a-new-coalition-government-led-by.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Finland go to the polls for a parliamentary election with a new coalition government led by Juha Sipila of the Centre Party favoured to form government after negotiation. ](/news/2015/04/19/voters-in-finland-go-to-the-polls-for-a-parliamentary-election-with-a-new-coalition-government-led-by-juha-sipila-of-the-centre-party-favou.md) _(Current version)_
 
 ### Related:

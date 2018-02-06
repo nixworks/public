@@ -18,7 +18,7 @@ Embassy had shut down in 2012 after protesters stormed the building in protest o
 
 ### Changes:
 
-1. [Egypt-Israel relations: Israel reopens its embassy in Cairo, Egypt, after closing it in 2011 after violent protests. ](/news/2015/09/9/egypt-israel-relations-israel-reopens-its-embassy-in-cairo-egypt-after-closing-it-in-2011-after-violent-protests.md) _2017-08-27 03:43:00 (First version)_
+1. [Egypt-Israel relations: Israel reopens its embassy in Cairo, Egypt, after closing it in 2011 after violent protests. ](/news/2015/09/9/egypt-israel-relations-israel-reopens-its-embassy-in-cairo-egypt-after-closing-it-in-2011-after-violent-protests.md) _2018-02-06 13:49:27 (First version)_
 1. [Israel reopens its embassy in Cairo, Egypt, after closing it in 2011 after violent protests. ](/news/2015/09/9/israel-reopens-its-embassy-in-cairo-egypt-after-closing-it-in-2011-after-violent-protests.md) _(Current version)_
 
 ### Related:

@@ -22,7 +22,7 @@ Following is an abridged version of the text of the statement issued by Al Qaeda
 
 ### Changes:
 
-1. [Death of Osama bin Laden: The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/death-of-osama-bin-laden-the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden.md) _2017-08-27 03:33:10 (First version)_
+1. [Death of Osama bin Laden: The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/death-of-osama-bin-laden-the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden.md) _2018-02-06 13:49:22 (First version)_
 1. [The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden-at-fort-campbell-and-award.md) _(Current version)_
 
 ### Related:

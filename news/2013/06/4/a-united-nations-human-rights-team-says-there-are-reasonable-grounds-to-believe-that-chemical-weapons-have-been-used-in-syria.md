@@ -17,8 +17,8 @@ UN investigators say they have reasonable grounds to believe chemical weapons we
 
 ### Changes:
 
-1. [Syrian Civil War:A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/syrian-civil-war-pa-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in.md) _2017-08-25 03:38:46 (First version)_
-2. [Syrian Civil War:: A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/syrian-civil-war-a-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in.md) _2017-08-27 03:39:00 (Update)_
+1. [Syrian Civil War:A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/syrian-civil-war-pa-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/syrian-civil-war-a-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in.md) _2018-02-06 13:49:25 (Update)_
 2. [A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/a-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in-syria.md) _(Current version)_
 
 ### Related:

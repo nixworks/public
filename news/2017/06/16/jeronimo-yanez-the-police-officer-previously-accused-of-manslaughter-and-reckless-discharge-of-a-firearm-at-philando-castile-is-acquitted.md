@@ -16,7 +16,7 @@ A jury has acquitted a Minnesota police officer in the shooting death of a black
 
 ### Changes:
 
-1. [Shooting of Philando Castile: Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. ](/news/2017/06/16/shooting-of-philando-castile-jeronimo-yanez-the-police-officer-previously-accused-of-manslaughter-and-reckless-discharge-of-a-firearm-at-p.md) _2017-08-27 03:48:29 (First version)_
+1. [Shooting of Philando Castile: Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. ](/news/2017/06/16/shooting-of-philando-castile-jeronimo-yanez-the-police-officer-previously-accused-of-manslaughter-and-reckless-discharge-of-a-firearm-at-p.md) _2018-02-06 13:49:30 (First version)_
 1. [Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. ](/news/2017/06/16/jeronimo-yanez-the-police-officer-previously-accused-of-manslaughter-and-reckless-discharge-of-a-firearm-at-philando-castile-is-acquitted.md) _(Current version)_
 
 ### Related:

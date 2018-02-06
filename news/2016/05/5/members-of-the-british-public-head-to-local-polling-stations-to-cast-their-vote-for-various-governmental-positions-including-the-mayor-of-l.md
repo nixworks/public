@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/5/members-of-the-british-public-head-to-local-poll
 
 ### Changes:
 
-1. [United Kingdom local elections, 2016: Members of the British public head to local polling stations to cast their vote for various governmental positions, including the Mayor of London. ](/news/2016/05/5/united-kingdom-local-elections-2016-members-of-the-british-public-head-to-local-polling-stations-to-cast-their-vote-for-various-government.md) _2017-08-27 03:45:59 (First version)_
+1. [United Kingdom local elections, 2016: Members of the British public head to local polling stations to cast their vote for various governmental positions, including the Mayor of London. ](/news/2016/05/5/united-kingdom-local-elections-2016-members-of-the-british-public-head-to-local-polling-stations-to-cast-their-vote-for-various-government.md) _2018-02-06 13:49:29 (First version)_
 1. [Members of the British public head to local polling stations to cast their vote for various governmental positions, including the Mayor of London. ](/news/2016/05/5/members-of-the-british-public-head-to-local-polling-stations-to-cast-their-vote-for-various-governmental-positions-including-the-mayor-of-l.md) _(Current version)_
 
 ### Related:

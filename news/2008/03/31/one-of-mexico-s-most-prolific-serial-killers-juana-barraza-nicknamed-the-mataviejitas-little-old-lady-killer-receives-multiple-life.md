@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-ju
 
 ### Changes:
 
-1. [ One of Mexico's most prolific serial killers, Juana Barraza, nicknamed the ''Mataviejitas'' (Little Old Lady Killer), receives multiple life sentences for the murders of at least 11 women. ](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-juana-barraza-nicknamed-the-mataviejitas-little-old-lady-killer-receives-multiple-lif.md) _2017-08-25 03:22:00 (First version)_
+1. [ One of Mexico's most prolific serial killers, Juana Barraza, nicknamed the ''Mataviejitas'' (Little Old Lady Killer), receives multiple life sentences for the murders of at least 11 women. ](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-juana-barraza-nicknamed-the-mataviejitas-little-old-lady-killer-receives-multiple-lif.md) _2018-02-06 13:49:18 (First version)_
 1. [ One of Mexico's most prolific serial killers, Juana Barraza, nicknamed the "Mataviejitas" (Little Old Lady Killer), receives multiple life sentences for the murders of at least 11 women. ](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-juana-barraza-nicknamed-the-mataviejitas-little-old-lady-killer-receives-multiple-life.md) _(Current version)_
 
 ### Related:

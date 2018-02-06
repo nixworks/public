@@ -9,11 +9,11 @@ _Context: Thailand, Muslim, car bomb, Sungai Kolok_
 
 ##### garda
 ### [ Irish police arrest four people in Cork and three in Dublin in raids concentrating on the financing of the Provisional IRA. Over 2.3 million pounds sterling were seized in Cork, and GBP60,000 in Northern Bank notes believed to be from the GBP26.5 million robbery in Belfast just before Christmas. Reportedly, among the people arrested are former Sinn Fin councillor Tom Hanlon and someone working in the banking industry. ](/news/2005/02/17/irish-police-arrest-four-people-in-cork-and-three-in-dublin-in-raids-concentrating-on-the-financing-of-the-provisional-ira-over-2-3-millio.md)
-_Context: banking, Belfast, Cork, councillor, Sinn Fin, GBP, garda, Northern Bank, GBP26.5 million robbery, Dublin, IRA_
+_Context: councillor, Cork, Belfast, Sinn Fin, banking, Northern Bank, IRA, GBP, GBP26.5 million robbery, garda, Dublin_
 
 ##### Chubu Centrair International Airport
 ### [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-third.md)
-_Context: Nagoya Airport, Ise Bay, Nagoya, artificial island, Chubu Centrair International Airport_
+_Context: Ise Bay, Chubu Centrair International Airport, Nagoya, artificial island, Nagoya Airport_
 
 ##### European Union
 ### [ The European Union introduces new laws that increase the rights of air passengers so that they receive higher compensation for overbooking, delays and cancellation of flights. ](/news/2005/02/17/the-european-union-introduces-new-laws-that-increase-the-rights-of-air-passengers-so-that-they-receive-higher-compensation-for-overbooking.md)
@@ -37,11 +37,11 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### Exile
 ### [ Exiled Bangladeshi author Taslima Nasreen, currently living in Sweden, is seeking Indian citizenship. Conservative Muslims of Bangladesh have deemed her works blasphemous and have called for her execution. Nasreen states her wish to live in West Bengal. ](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-currently-living-in-sweden-is-seeking-indian-citizenship-conservative-muslims-of-bangladesh-ha.md)
-_Context: blasphemy, West Bengal, Muslim, Exile, Taslima Nasreen, execution, citizenship_
+_Context: blasphemy, citizenship, Taslima Nasreen, West Bengal, Muslim, Exile, execution_
 
 ##### House of Representatives
 ### [ The United States House of Representatives passes a Class Action Fairness Act that intends to curb class action suits, moving them from state courts to federal courts. ](/news/2005/02/17/the-united-states-house-of-representatives-passes-a-class-action-fairness-act-that-intends-to-curb-class-action-suits-moving-them-from-sta.md)
-_Context: class action, state courts, U.S. federal court, House of Representatives, Class Action Fairness Act_
+_Context: state courts, U.S. federal court, House of Representatives, class action, Class Action Fairness Act_
 
 ##### Politics of Brazil
 ### [ The Brazilian government intends to create a protected rainforest region in the aftermath of the murder of US missionary Dorothy Stang. ](/news/2005/02/17/the-brazilian-government-intends-to-create-a-protected-rainforest-region-in-the-aftermath-of-the-murder-of-us-missionary-dorothy-stang.md)
@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Sudanese cabinet
 ### [ The government of Sudan rejects the United Nations' demand that the suspects of war crimes in the violence ridden western Sudanese region of Darfur would be put before the International Criminal Court in The Hague. ](/news/2005/02/17/the-government-of-sudan-rejects-the-united-nations-demand-that-the-suspects-of-war-crimes-in-the-violence-ridden-western-sudanese-region-o.md)
-_Context: Sudanese cabinet, ICC, Darfur conflict, Sudan, United Nations, war crime, The Hague, Darfur_
+_Context: war crime, Darfur conflict, Sudanese cabinet, ICC, Darfur, Sudan, United Nations, The Hague_
 
 ## [Previous Day...](/news/2005/02/16/index.md)
 

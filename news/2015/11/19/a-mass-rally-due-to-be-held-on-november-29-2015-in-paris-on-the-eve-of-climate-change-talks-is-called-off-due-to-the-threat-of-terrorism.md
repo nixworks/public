@@ -16,7 +16,7 @@ A Paris rally to demand strong action on climate change has been cancelled due t
 
 ### Changes:
 
-1. [2015 United Nations Climate Change Conference: A mass rally due to be held on November 29, 2015 in Paris on the eve of climate change talks is called off due to the threat of terrorism. ](/news/2015/11/19/2015-united-nations-climate-change-conference-a-mass-rally-due-to-be-held-on-november-29-2015-in-paris-on-the-eve-of-climate-change-talks.md) _2017-08-27 03:43:57 (First version)_
+1. [2015 United Nations Climate Change Conference: A mass rally due to be held on November 29, 2015 in Paris on the eve of climate change talks is called off due to the threat of terrorism. ](/news/2015/11/19/2015-united-nations-climate-change-conference-a-mass-rally-due-to-be-held-on-november-29-2015-in-paris-on-the-eve-of-climate-change-talks.md) _2018-02-06 13:49:28 (First version)_
 1. [A mass rally due to be held on November 29, 2015 in Paris on the eve of climate change talks is called off due to the threat of terrorism. ](/news/2015/11/19/a-mass-rally-due-to-be-held-on-november-29-2015-in-paris-on-the-eve-of-climate-change-talks-is-called-off-due-to-the-threat-of-terrorism.md) _(Current version)_
 
 ### Related:

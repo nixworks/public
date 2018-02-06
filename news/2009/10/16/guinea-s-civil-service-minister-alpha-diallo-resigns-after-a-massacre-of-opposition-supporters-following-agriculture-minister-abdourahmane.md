@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/10/16/guinea-s-civil-service-minister-alpha-diallo-re
 
 ### Changes:
 
-1. [ Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdourahman.md) _2017-08-25 03:26:04 (First version)_
-2. [ Guinea: Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdo.md) _2017-08-27 03:25:56 (Update)_
+1. [ Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdourahman.md) _2018-02-06 13:49:19 (First version)_
+2. [ Guinea: Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdo.md) _2018-02-06 13:49:19 (Update)_
 2. [ Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdourahmane.md) _(Current version)_
 
 ### Related:

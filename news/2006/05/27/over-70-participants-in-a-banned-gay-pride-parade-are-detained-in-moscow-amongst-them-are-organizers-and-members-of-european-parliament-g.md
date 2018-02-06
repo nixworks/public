@@ -18,7 +18,7 @@ Formats: [HTML](/news/2006/05/27/over-70-participants-in-a-banned-gay-pride-para
 
 ### Changes:
 
-1. [ Over 70 participants in a banned gay pride parade are detained in Moscow. Amongst them are organizers and members of European Parliament. German parliamentary member Volker Beck is punched in the face and arrested by police. Moscow's mayor, Yuriy Luzhkov banned the march, saying "homosexuality is unnatural." ](/news/2006/05/27/over-70-participants-in-a-banned-gay-pride-parade-are-detained-in-moscow-amongst-them-are-organizers-and-members-of-european-parliament.md) _2017-08-25 03:17:41 (First version)_
+1. [ Over 70 participants in a banned gay pride parade are detained in Moscow. Amongst them are organizers and members of European Parliament. German parliamentary member Volker Beck is punched in the face and arrested by police. Moscow's mayor, Yuriy Luzhkov banned the march, saying "homosexuality is unnatural." ](/news/2006/05/27/over-70-participants-in-a-banned-gay-pride-parade-are-detained-in-moscow-amongst-them-are-organizers-and-members-of-european-parliament.md) _2018-02-06 13:49:17 (First version)_
 1. [ Over 70 participants in a banned gay pride parade are detained in Moscow. Amongst them are organizers and members of European Parliament. German parliamentary member Volker Beck is punched in the face and arrested by police. Moscow's mayor, Yuriy Luzhkov banned the march, saying "homosexuality is unnatural." ](/news/2006/05/27/over-70-participants-in-a-banned-gay-pride-parade-are-detained-in-moscow-amongst-them-are-organizers-and-members-of-european-parliament-g.md) _(Current version)_
 
 ### Related:

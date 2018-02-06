@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/10/27/some-fires-are-reported-in-the-mexican-state-of
 
 ### Changes:
 
-1. [ California wildfires: Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/california-wildfires-p-some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-b.md) _2017-08-25 03:21:16 (First version)_
-2. [ California wildfires:: Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/california-wildfires-some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-b.md) _2017-08-27 03:21:11 (Update)_
+1. [ California wildfires:: Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/california-wildfires-some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-b.md) _2018-02-06 13:49:18 (First version)_
+2. [ California wildfires: Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/california-wildfires-p-some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-b.md) _2018-02-06 13:49:18 (Update)_
 2. [ Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-brought-fairly-swiftly-u.md) _(Current version)_
 
 ### Related:

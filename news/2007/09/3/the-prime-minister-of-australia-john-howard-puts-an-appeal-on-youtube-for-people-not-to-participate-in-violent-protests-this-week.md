@@ -18,8 +18,8 @@ The Sydney Morning Herald 404 Page
 
 ### Changes:
 
-1. [ APEC: The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/apec-p-the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md) _2017-08-25 03:20:50 (First version)_
-2. [ APEC:: The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/apec-the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md) _2017-08-27 03:20:47 (Update)_
+1. [ APEC:: The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/apec-the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md) _2018-02-06 13:49:18 (First version)_
+2. [ APEC: The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/apec-p-the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md) _(Current version)_
 
 ### Related:

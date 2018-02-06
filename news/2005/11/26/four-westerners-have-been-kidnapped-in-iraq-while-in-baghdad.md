@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/11/26/four-westerners-have-been-kidnapped-in-iraq-whi
 
 ### Changes:
 
-1. [ Conflict in Iraq: Four Westerners have been kidnapped in Iraq while in Baghdad. ](/news/2005/11/26/conflict-in-iraq-p-four-westerners-have-been-kidnapped-in-iraq-while-in-baghdad.md) _2017-08-25 03:17:10 (First version)_
+1. [ Conflict in Iraq: Four Westerners have been kidnapped in Iraq while in Baghdad. ](/news/2005/11/26/conflict-in-iraq-p-four-westerners-have-been-kidnapped-in-iraq-while-in-baghdad.md) _2018-02-06 13:49:16 (First version)_
 1. [ Four Westerners have been kidnapped in Iraq while in Baghdad. ](/news/2005/11/26/four-westerners-have-been-kidnapped-in-iraq-while-in-baghdad.md) _(Current version)_
 
 ### Related:

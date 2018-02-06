@@ -19,8 +19,8 @@ Colombians vote in a presidential election to replace Alvaro Uribe, who is stand
 
 ### Changes:
 
-1. [Colombian presidential election:Colombians vote to replace Alvaro Uribe, who is standing down after two terms. ](/news/2010/05/30/colombian-presidential-election-pcolombians-vote-to-replace-alvaro-uribe-who-is-standing-down-after-two-terms.md) _2017-08-25 03:28:04 (First version)_
-2. [Colombian presidential election:: Colombians vote to replace Alvaro Uribe, who is standing down after two terms. ](/news/2010/05/30/colombian-presidential-election-colombians-vote-to-replace-alvaro-uribe-who-is-standing-down-after-two-terms.md) _2017-08-27 03:28:04 (Update)_
+1. [Colombian presidential election:Colombians vote to replace Alvaro Uribe, who is standing down after two terms. ](/news/2010/05/30/colombian-presidential-election-pcolombians-vote-to-replace-alvaro-uribe-who-is-standing-down-after-two-terms.md) _2018-02-06 13:49:20 (First version)_
+2. [Colombian presidential election:: Colombians vote to replace Alvaro Uribe, who is standing down after two terms. ](/news/2010/05/30/colombian-presidential-election-colombians-vote-to-replace-alvaro-uribe-who-is-standing-down-after-two-terms.md) _2018-02-06 13:49:20 (Update)_
 2. [Colombians vote to replace Alvaro Uribe, who is standing down after two terms. ](/news/2010/05/30/colombians-vote-to-replace-alvaro-uribe-who-is-standing-down-after-two-terms.md) _(Current version)_
 
 ### Related:

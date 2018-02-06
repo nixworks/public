@@ -17,7 +17,7 @@ The African Union said it was ready to send 5,000 peacekeepers to Burundi to pro
 
 ### Changes:
 
-1. [2015 Burundian unrest: The African Union's Peace and Security Council approves the plan to send 5,000 peacekeepers to Burundi to protect civilians caught up in the growing crisis; approval by the U.N. Security Council is required. Burundi's Philippe Nzobonariba says the force would not be allowed in without government permission. ](/news/2015/12/18/2015-burundian-unrest-the-african-union-s-peace-and-security-council-approves-the-plan-to-send-5-000-peacekeepers-to-burundi-to-protect-civ.md) _2017-08-27 03:44:25 (First version)_
+1. [2015 Burundian unrest: The African Union's Peace and Security Council approves the plan to send 5,000 peacekeepers to Burundi to protect civilians caught up in the growing crisis; approval by the U.N. Security Council is required. Burundi's Philippe Nzobonariba says the force would not be allowed in without government permission. ](/news/2015/12/18/2015-burundian-unrest-the-african-union-s-peace-and-security-council-approves-the-plan-to-send-5-000-peacekeepers-to-burundi-to-protect-civ.md) _2018-02-06 13:49:28 (First version)_
 1. [The African Union's Peace and Security Council approves the plan to send 5,000 peacekeepers to Burundi to protect civilians caught up in the growing crisis; approval by the U.N. Security Council is required. Burundi's Philippe Nzobonariba says the force would not be allowed in without government permission. ](/news/2015/12/18/the-african-union-s-peace-and-security-council-approves-the-plan-to-send-5-000-peacekeepers-to-burundi-to-protect-civilians-caught-up-in-the.md) _(Current version)_
 
 ### Related:

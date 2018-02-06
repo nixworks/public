@@ -16,7 +16,7 @@ Five men accused of involvement in a Pakistan school massacre have been arrested
 
 ### Changes:
 
-1. [2014 Peshawar school massacre: Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/2014-peshawar-school-massacre-afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan.md) _2017-08-27 03:41:47 (First version)_
+1. [2014 Peshawar school massacre: Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/2014-peshawar-school-massacre-afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan.md) _2018-02-06 13:49:26 (First version)_
 1. [Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan-school-massacre.md) _(Current version)_
 
 ### Related:

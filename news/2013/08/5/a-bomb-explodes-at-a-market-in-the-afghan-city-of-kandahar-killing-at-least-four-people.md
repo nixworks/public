@@ -16,8 +16,8 @@ Afghan officials say at least four people have been killed and more than 20 woun
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001apresent-pa-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md) _2017-08-25 03:39:06 (First version)_
-2. [War in Afghanistan (2001-present):: A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md) _2017-08-27 03:39:21 (Update)_
+1. [War in Afghanistan (2001-present):A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001apresent-pa-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/a-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md) _(Current version)_
 
 ### Related:

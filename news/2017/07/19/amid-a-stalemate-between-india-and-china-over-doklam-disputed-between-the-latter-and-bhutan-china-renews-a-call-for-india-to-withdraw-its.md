@@ -11,7 +11,7 @@ Formats: [HTML](/news/2017/07/19/amid-a-stalemate-between-india-and-china-over-d
 
 ### Changes:
 
-1. [2017 Doklam crisis: Amid a stalemate between India and China over Doklam, disputed between the latter and Bhutan, China renews a call for India to withdraw its troops from Doklam. It follows reports claiming China held live firing drills in the region. "[http:--www.arabnews.com-node-1131641-world (Arab News)]"](/news/2017/07/19/2017-doklam-crisis-amid-a-stalemate-between-india-and-china-over-doklam-disputed-between-the-latter-and-bhutan-china-renews-a-call-for-in.md) _2017-08-27 03:48:40 (First version)_
+1. [2017 Doklam crisis: Amid a stalemate between India and China over Doklam, disputed between the latter and Bhutan, China renews a call for India to withdraw its troops from Doklam. It follows reports claiming China held live firing drills in the region. "[http:--www.arabnews.com-node-1131641-world (Arab News)]"](/news/2017/07/19/2017-doklam-crisis-amid-a-stalemate-between-india-and-china-over-doklam-disputed-between-the-latter-and-bhutan-china-renews-a-call-for-in.md) _2018-02-06 13:49:30 (First version)_
 1. [Amid a stalemate between India and China over Doklam, disputed between the latter and Bhutan, China renews a call for India to withdraw its troops from Doklam. It follows reports claiming China held live firing drills in the region. "[http:--www.arabnews.com-node-1131641-world (Arab News)]"](/news/2017/07/19/amid-a-stalemate-between-india-and-china-over-doklam-disputed-between-the-latter-and-bhutan-china-renews-a-call-for-india-to-withdraw-its.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-de
 
 ### Changes:
 
-1. [Pakistan's government has called for troops to be deployed in the capital, Islamabad, after violence broke out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-has-called-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-broke-out-during-protests-by-islamists.md) _2017-11-26 17:30:06 (First version)_
-2. [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists.md) _2017-11-26 23:30:06 (Update)_
+1. [Pakistan's government has called for troops to be deployed in the capital, Islamabad, after violence broke out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-has-called-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-broke-out-during-protests-by-islamists.md) _2018-02-06 13:49:31 (First version)_
+2. [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists.md) _2018-02-06 13:49:31 (Update)_
 2. [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists that were organized by the Tehreek-e-Labaik. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists-that.md) _(Current version)_
 
 ### Related:

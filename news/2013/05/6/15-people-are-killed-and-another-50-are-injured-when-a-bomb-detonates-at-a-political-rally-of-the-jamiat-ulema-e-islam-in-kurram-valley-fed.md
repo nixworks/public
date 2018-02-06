@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/6/15-people-are-killed-and-another-50-are-injured-
 
 ### Changes:
 
-1. [War in North-West Pakistan:15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-p15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e.md) _2017-08-25 03:38:35 (First version)_
-2. [War in North-West Pakistan:: 15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema.md) _2017-08-27 03:38:47 (Update)_
+1. [War in North-West Pakistan:15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-p15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: 15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema.md) _2018-02-06 13:49:25 (Update)_
 2. [15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e-islam-in-kurram-valley-fed.md) _(Current version)_
 
 ### Related:

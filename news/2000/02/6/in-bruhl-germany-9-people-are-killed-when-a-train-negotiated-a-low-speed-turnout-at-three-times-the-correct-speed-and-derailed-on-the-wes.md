@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-trai
 
 ### Changes:
 
-1. [Brhl train disaster: In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/bruhl-train-disaster-in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-an.md) _2017-08-27 03:15:07 (First version)_
+1. [Brhl train disaster: In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/bruhl-train-disaster-in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-an.md) _2018-02-06 13:49:15 (First version)_
 1. [In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-and-derailed-on-the-wes.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Smugglers have caused more than 50 to drown, the U.N. migration agency says
 
 ### Changes:
 
-1. [Migrant crisis: The United Nations International Organization for Migration reports, over the last two days in two incidents, smugglers have thrown 280 migrants from Ethiopia and other Horn of Africa countries into the sea off the coast of Yemen. More than 50 refugees have drowned with over 30 people still missing. ](/news/2017/08/10/migrant-crisis-the-united-nations-international-organization-for-migration-reports-over-the-last-two-days-in-two-incidents-smugglers-have.md) _2017-08-27 03:48:47 (First version)_
+1. [Migrant crisis: The United Nations International Organization for Migration reports, over the last two days in two incidents, smugglers have thrown 280 migrants from Ethiopia and other Horn of Africa countries into the sea off the coast of Yemen. More than 50 refugees have drowned with over 30 people still missing. ](/news/2017/08/10/migrant-crisis-the-united-nations-international-organization-for-migration-reports-over-the-last-two-days-in-two-incidents-smugglers-have.md) _2018-02-06 13:49:31 (First version)_
 1. [The United Nations International Organization for Migration reports, over the last two days in two incidents, smugglers have thrown 280 migrants from Ethiopia and other Horn of Africa countries into the sea off the coast of Yemen. More than 50 refugees have drowned with over 30 people still missing. ](/news/2017/08/10/the-united-nations-international-organization-for-migration-reports-over-the-last-two-days-in-two-incidents-smugglers-have-thrown-280-migr.md) _(Current version)_
 
 ### Related:

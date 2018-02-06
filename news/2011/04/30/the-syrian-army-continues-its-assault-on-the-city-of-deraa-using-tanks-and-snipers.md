@@ -17,8 +17,8 @@ Six people are killed as Syrian troops seize control of a mosque which was a cen
 
 ### Changes:
 
-1. [2011 Syrian protests:The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/2011-syrian-protests-pthe-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md) _2017-08-25 03:32:55 (First version)_
-2. [2011 Syrian protests:: The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/2011-syrian-protests-the-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md) _2017-08-27 03:33:05 (Update)_
+1. [2011 Syrian protests:: The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/2011-syrian-protests-the-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/2011-syrian-protests-pthe-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md) _2018-02-06 13:49:22 (Update)_
 2. [The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/the-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md) _(Current version)_
 
 ### Related:

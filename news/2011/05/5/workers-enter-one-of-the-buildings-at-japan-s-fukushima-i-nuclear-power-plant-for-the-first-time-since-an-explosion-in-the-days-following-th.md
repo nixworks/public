@@ -17,7 +17,7 @@ Workers entered a reactor building at the Fukushima Daiichi nuclear power plant 
 
 ### Changes:
 
-1. [Workers enter one of the buildings at Japan's Fukushima I Nuclear Power Plant for the first time since an explosion in the days following the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/5/workers-enter-one-of-the-buildings-at-japan-s-fukushima-i-nuclear-power-plant-for-the-first-time-since-an-explosion-in-the-days-following-t.md) _2017-08-25 03:32:59 (First version)_
+1. [Workers enter one of the buildings at Japan's Fukushima I Nuclear Power Plant for the first time since an explosion in the days following the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/5/workers-enter-one-of-the-buildings-at-japan-s-fukushima-i-nuclear-power-plant-for-the-first-time-since-an-explosion-in-the-days-following-t.md) _2018-02-06 13:49:22 (First version)_
 1. [Workers enter one of the buildings at Japan's Fukushima I Nuclear Power Plant for the first time since an explosion in the days following the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/5/workers-enter-one-of-the-buildings-at-japan-s-fukushima-i-nuclear-power-plant-for-the-first-time-since-an-explosion-in-the-days-following-th.md) _(Current version)_
 
 ### Related:

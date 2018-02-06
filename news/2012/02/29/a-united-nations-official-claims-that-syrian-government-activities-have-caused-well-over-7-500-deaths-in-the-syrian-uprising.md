@@ -18,8 +18,8 @@ Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troo
 
 ### Changes:
 
-1. [Syria:A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-pa-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md) _2017-08-25 03:35:10 (First version)_
-2. [Syria:: A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md) _2017-08-27 03:35:19 (Update)_
+1. [Syria:A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-pa-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md) _2018-02-06 13:49:23 (First version)_
+2. [Syria:: A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md) _2018-02-06 13:49:23 (Update)_
 2. [A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md) _(Current version)_
 
 ### Related:

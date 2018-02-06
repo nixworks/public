@@ -17,7 +17,7 @@ Since the federal government reinstated the death penalty in 1988, only three me
 
 ### Changes:
 
-1. [Boston Marathon bombing: Dzhokhar Tsarnaev is formally sentenced to death in a federal court. He confirms his guilt and apologizes to the victims. ](/news/2015/06/24/boston-marathon-bombing-dzhokhar-tsarnaev-is-formally-sentenced-to-death-in-a-federal-court-he-confirms-his-guilt-and-apologizes-to-the-vi.md) _2017-08-27 03:42:35 (First version)_
+1. [Boston Marathon bombing: Dzhokhar Tsarnaev is formally sentenced to death in a federal court. He confirms his guilt and apologizes to the victims. ](/news/2015/06/24/boston-marathon-bombing-dzhokhar-tsarnaev-is-formally-sentenced-to-death-in-a-federal-court-he-confirms-his-guilt-and-apologizes-to-the-vi.md) _2018-02-06 13:49:27 (First version)_
 1. [Dzhokhar Tsarnaev is formally sentenced to death in a federal court. He confirms his guilt and apologizes to the victims. ](/news/2015/06/24/dzhokhar-tsarnaev-is-formally-sentenced-to-death-in-a-federal-court-he-confirms-his-guilt-and-apologizes-to-the-victims.md) _(Current version)_
 
 ### Related:

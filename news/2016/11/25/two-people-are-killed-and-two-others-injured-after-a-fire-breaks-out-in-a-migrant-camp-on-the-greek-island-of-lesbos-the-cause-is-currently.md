@@ -19,7 +19,7 @@ Angry migrants set fire to a camp on the Greek island of Lesbos on Thursday afte
 
 ### Changes:
 
-1. [European migrant crisis: Two people are killed and two others injured after a fire breaks out in a migrant camp on the Greek island of Lesbos. The cause is currently under investigation, although some believe the fire was deliberately started in protest of poor living conditions, after a 66-year-old woman and a six-year-old child were killed in a gas explosion. ](/news/2016/11/25/european-migrant-crisis-two-people-are-killed-and-two-others-injured-after-a-fire-breaks-out-in-a-migrant-camp-on-the-greek-island-of-lesbo.md) _2017-08-27 03:47:18 (First version)_
+1. [European migrant crisis: Two people are killed and two others injured after a fire breaks out in a migrant camp on the Greek island of Lesbos. The cause is currently under investigation, although some believe the fire was deliberately started in protest of poor living conditions, after a 66-year-old woman and a six-year-old child were killed in a gas explosion. ](/news/2016/11/25/european-migrant-crisis-two-people-are-killed-and-two-others-injured-after-a-fire-breaks-out-in-a-migrant-camp-on-the-greek-island-of-lesbo.md) _2018-02-06 13:49:29 (First version)_
 1. [Two people are killed and two others injured after a fire breaks out in a migrant camp on the Greek island of Lesbos. The cause is currently under investigation, although some believe the fire was deliberately started in protest of poor living conditions, after a 66-year-old woman and a six-year-old child were killed in a gas explosion. ](/news/2016/11/25/two-people-are-killed-and-two-others-injured-after-a-fire-breaks-out-in-a-migrant-camp-on-the-greek-island-of-lesbos-the-cause-is-currently.md) _(Current version)_
 
 ### Related:

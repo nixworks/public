@@ -16,8 +16,8 @@ BEIRUT--Syrian rebels released four U.N. peacekeepers Sunday, five days after th
 
 ### Changes:
 
-1. [Syrian civil war:Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-pfour-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md) _2017-08-25 03:38:38 (First version)_
-2. [Syrian civil war:: Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md) _2017-08-27 03:38:51 (Update)_
+1. [Syrian civil war:Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-pfour-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md) _2018-02-06 13:49:24 (Update)_
 2. [Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md) _(Current version)_
 
 ### Related:

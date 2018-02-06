@@ -16,7 +16,7 @@ Romanian weather officials announced on Wednesday that snow and wind will intens
 
 ### Changes:
 
-1. [Snow and heavy winds affecting areas around Constanta, Romania, are predicted to continue until late Friday evening. ](/news/2011/02/23/snow-and-heavy-winds-affecting-areas-around-constanapsa-romania-are-predicted-to-continue-until-late-friday-evening.md) _2017-08-25 03:32:18 (First version)_
+1. [Snow and heavy winds affecting areas around Constanta, Romania, are predicted to continue until late Friday evening. ](/news/2011/02/23/snow-and-heavy-winds-affecting-areas-around-constanapsa-romania-are-predicted-to-continue-until-late-friday-evening.md) _2018-02-06 13:49:22 (First version)_
 1. [Snow and heavy winds affecting areas around ConstanGBPa, Romania, are predicted to continue until late Friday evening. ](/news/2011/02/23/snow-and-heavy-winds-affecting-areas-around-constanagbpa-romania-are-predicted-to-continue-until-late-friday-evening.md) _(Current version)_
 
 ### Related:

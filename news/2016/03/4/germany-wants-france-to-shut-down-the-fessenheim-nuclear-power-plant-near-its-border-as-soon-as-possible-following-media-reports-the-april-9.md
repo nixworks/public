@@ -17,7 +17,7 @@ An incident at the Fessenheim nuclear facility in France in 2014 was more seriou
 
 ### Changes:
 
-1. [France-Germany relations: Germany wants France to shut down the Fessenheim Nuclear Power Plant near its border as soon as possible following media reports the April 9, 2014, incident was more serious than reported. ](/news/2016/03/4/france-germany-relations-germany-wants-france-to-shut-down-the-fessenheim-nuclear-power-plant-near-its-border-as-soon-as-possible-followi.md) _2017-08-27 03:45:07 (First version)_
+1. [France-Germany relations: Germany wants France to shut down the Fessenheim Nuclear Power Plant near its border as soon as possible following media reports the April 9, 2014, incident was more serious than reported. ](/news/2016/03/4/france-germany-relations-germany-wants-france-to-shut-down-the-fessenheim-nuclear-power-plant-near-its-border-as-soon-as-possible-followi.md) _2018-02-06 13:49:28 (First version)_
 1. [Germany wants France to shut down the Fessenheim Nuclear Power Plant near its border as soon as possible following media reports the April 9, 2014, incident was more serious than reported. ](/news/2016/03/4/germany-wants-france-to-shut-down-the-fessenheim-nuclear-power-plant-near-its-border-as-soon-as-possible-following-media-reports-the-april-9.md) _(Current version)_
 
 ### Related:

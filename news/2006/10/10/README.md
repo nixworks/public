@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/10/index.html)  [JSON](2006/10/10/index.json)  [XML](200
 
 ##### Chiantla
 ### [ A passenger bus plunges into a ravine near the city of Chiantla in northwestern Guatemala, killing 42 people. ](/news/2006/10/10/a-passenger-bus-plunges-into-a-ravine-near-the-city-of-chiantla-in-northwestern-guatemala-killing-42-people.md)
-_Context: Chiantla, Guatemala_
+_Context: Guatemala, Chiantla_
 
 ##### BP
 ### [ BP shuts down the Prudhoe Bay oil fields due to losing power as a result of high winds. ](/news/2006/10/10/bp-shuts-down-the-prudhoe-bay-oil-fields-due-to-losing-power-as-a-result-of-high-winds.md)
@@ -25,15 +25,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### bomb attack
 ### [ Six people die in a bomb attack on a festival in the town of Makilala in the Philippines. Two others are killed and four injured in a blast at a market in Tacurong, Sultan Kudarat. Officials blame Muslim extremist groups. ](/news/2006/10/10/six-people-die-in-a-bomb-attack-on-a-festival-in-the-town-of-makilala-in-the-philippines-two-others-are-killed-and-four-injured-in-a-blast.md)
-_Context: Tacurong, Philippines, Makilala, bomb attack, Sultan Kudarat_
+_Context: Sultan Kudarat, Makilala, Tacurong, bomb attack, Philippines_
 
 ##### Bayelsa
 ### [ A naval base and oil facility in Bayelsa State, Nigeria, are captured by armed attackers who are now thought to be holding 60 people hostage. ](/news/2006/10/10/a-naval-base-and-oil-facility-in-bayelsa-state-nigeria-are-captured-by-armed-attackers-who-are-now-thought-to-be-holding-60-people-hostag.md)
-_Context: Bayelsa, Nigeria_
+_Context: Nigeria, Bayelsa_
 
 ##### made a protest
 ### [ Hundreds of thousands of people made a protest against President Chen Shui-bian in Taipei, Taiwan, surrounding Office of the President, where Chen took part in ceremony marking Double Tenth Day. ](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.md)
-_Context: Taiwan, Office of the President, President, Chen Shui-bian, made a protest, Taipei, Double Tenth Day_
+_Context: Taipei, President, Chen Shui-bian, made a protest, Office of the President, Double Tenth Day, Taiwan_
 
 ## [Previous Day...](/news/2006/10/9/index.md)
 

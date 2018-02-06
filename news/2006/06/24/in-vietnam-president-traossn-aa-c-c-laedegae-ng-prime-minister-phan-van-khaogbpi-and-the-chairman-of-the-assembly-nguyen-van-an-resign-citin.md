@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng
 
 ### Changes:
 
-1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van Khai and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaopsi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citing.md) _2017-08-25 03:17:49 (First version)_
+1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van Khai and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaopsi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citing.md) _2018-02-06 13:49:17 (First version)_
 1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van KhGBPi and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaogbpi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citin.md) _(Current version)_
 
 ### Related:

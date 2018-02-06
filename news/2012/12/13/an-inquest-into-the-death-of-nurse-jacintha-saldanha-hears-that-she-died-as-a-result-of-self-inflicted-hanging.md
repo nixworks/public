@@ -17,8 +17,8 @@ The nurse duped by a prank call from an Australian Radio DJs while she was carin
 
 ### Changes:
 
-1. [2012 royal hoax call incident:An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-pan-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangin.md) _2017-08-25 03:37:01 (First version)_
-2. [2012 royal hoax call incident:: An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-an-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangi.md) _2017-08-27 03:37:11 (Update)_
+1. [2012 royal hoax call incident:An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-pan-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangin.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 royal hoax call incident:: An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-an-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangi.md) _2018-02-06 13:49:24 (Update)_
 2. [An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/an-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hanging.md) _(Current version)_
 
 ### Related:

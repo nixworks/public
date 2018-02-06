@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth
 
 ### Changes:
 
-1. [The 9th Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-9th-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents-cousins-and-others-with-a-bona-fide-r.md) _2017-09-08 03:49:02 (First version)_
+1. [The 9th Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-9th-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents-cousins-and-others-with-a-bona-fide-r.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md) _(Current version)_
 
 ### Related:

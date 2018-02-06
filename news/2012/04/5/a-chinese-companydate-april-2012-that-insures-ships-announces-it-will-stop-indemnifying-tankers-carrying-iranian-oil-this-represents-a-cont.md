@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/04/5/a-chinese-companydate-april-2012-that-insures-sh
 
 ### Changes:
 
-1. [A Chinese company{{what?|date=April 2012}} that insures ships announces it will stop indemnifying tankers carrying Iranian oil. This represents a continued tightening of world sanctions on Iran. ](/news/2012/04/5/a-chinese-company-what-date-april-2012-that-insures-ships-announces-it-will-stop-indemnifying-tankers-carrying-iranian-oil-this-represe.md) _2017-05-01 03:38:00 (First version)_
+1. [A Chinese company{{what?|date=April 2012}} that insures ships announces it will stop indemnifying tankers carrying Iranian oil. This represents a continued tightening of world sanctions on Iran. ](/news/2012/04/5/a-chinese-company-what-date-april-2012-that-insures-ships-announces-it-will-stop-indemnifying-tankers-carrying-iranian-oil-this-represe.md) _2018-02-06 13:49:23 (First version)_
 1. [A Chinese companydate=April 2012 that insures ships announces it will stop indemnifying tankers carrying Iranian oil. This represents a continued tightening of world sanctions on Iran. ](/news/2012/04/5/a-chinese-companydate-april-2012-that-insures-ships-announces-it-will-stop-indemnifying-tankers-carrying-iranian-oil-this-represents-a-cont.md) _(Current version)_
 
 ### Related:

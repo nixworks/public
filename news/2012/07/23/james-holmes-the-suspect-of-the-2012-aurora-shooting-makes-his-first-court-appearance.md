@@ -16,7 +16,7 @@ The proceeding offered the first public glimpse of James E. Holmes since he was 
 
 ### Changes:
 
-1. [James Eagan Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-eagan-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md) _2017-10-17 03:42:05 (First version)_
+1. [James Eagan Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-eagan-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md) _2018-02-06 13:49:23 (First version)_
 1. [James Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md) _(Current version)_
 
 ### Related:

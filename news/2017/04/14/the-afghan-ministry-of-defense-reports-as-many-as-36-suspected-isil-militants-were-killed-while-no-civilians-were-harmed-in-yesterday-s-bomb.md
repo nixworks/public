@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/14/the-afghan-ministry-of-defense-reports-as-many-
 
 ### Changes:
 
-1. [War in Afghanistan: The Afghan Ministry of Defense reports as many as 36 suspected ISIL militants were killed while no civilians were harmed in yesterday's bombing in Nangarhar Province using the so-called "mother of all bombs" (GBU-43). The ministry spokesman added these deaths have not been independently verified. ](/news/2017/04/14/war-in-afghanistan-the-afghan-ministry-of-defense-reports-as-many-as-36-suspected-isil-militants-were-killed-while-no-civilians-were-harmed.md) _2017-08-27 03:48:09 (First version)_
+1. [War in Afghanistan: The Afghan Ministry of Defense reports as many as 36 suspected ISIL militants were killed while no civilians were harmed in yesterday's bombing in Nangarhar Province using the so-called "mother of all bombs" (GBU-43). The ministry spokesman added these deaths have not been independently verified. ](/news/2017/04/14/war-in-afghanistan-the-afghan-ministry-of-defense-reports-as-many-as-36-suspected-isil-militants-were-killed-while-no-civilians-were-harmed.md) _2018-02-06 13:49:30 (First version)_
 1. [The Afghan Ministry of Defense reports as many as 36 suspected ISIL militants were killed while no civilians were harmed in yesterday's bombing in Nangarhar Province using the so-called "mother of all bombs" (GBU-43). The ministry spokesman added these deaths have not been independently verified. ](/news/2017/04/14/the-afghan-ministry-of-defense-reports-as-many-as-36-suspected-isil-militants-were-killed-while-no-civilians-were-harmed-in-yesterday-s-bomb.md) _(Current version)_
 
 ### Related:

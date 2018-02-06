@@ -17,7 +17,7 @@ The Trump strategy was deny, impede and delay, while destroying documents the co
 
 ### Changes:
 
-1. [Donald Trump presidential campaign, 2016: Kurt Eichenwald claims that Donald Trump and his businesses have been destroying documents, even in ongoing court cases and under subpoena, during the last decades. ](/news/2016/10/31/donald-trump-presidential-campaign-2016-kurt-eichenwald-claims-that-donald-trump-and-his-businesses-have-been-destroying-documents-even-i.md) _2017-08-27 03:47:09 (First version)_
+1. [Donald Trump presidential campaign, 2016: Kurt Eichenwald claims that Donald Trump and his businesses have been destroying documents, even in ongoing court cases and under subpoena, during the last decades. ](/news/2016/10/31/donald-trump-presidential-campaign-2016-kurt-eichenwald-claims-that-donald-trump-and-his-businesses-have-been-destroying-documents-even-i.md) _2018-02-06 13:49:29 (First version)_
 1. [Kurt Eichenwald claims that Donald Trump and his businesses have been destroying documents, even in ongoing court cases and under subpoena, during the last decades. ](/news/2016/10/31/kurt-eichenwald-claims-that-donald-trump-and-his-businesses-have-been-destroying-documents-even-in-ongoing-court-cases-and-under-subpoena.md) _(Current version)_
 
 ### Related:

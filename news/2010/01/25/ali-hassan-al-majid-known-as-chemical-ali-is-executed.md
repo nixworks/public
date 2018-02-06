@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-ex
 
 ### Changes:
 
-1. [Iraq:Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-pali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _2017-08-25 03:27:01 (First version)_
-2. [Iraq:: Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-ali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _2017-08-27 03:26:54 (Update)_
+1. [Iraq:Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-pali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _2018-02-06 13:49:19 (First version)_
+2. [Iraq:: Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-ali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _2018-02-06 13:49:19 (Update)_
 2. [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md) _(Current version)_
 
 ### Related:

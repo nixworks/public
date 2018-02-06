@@ -16,7 +16,7 @@ China will return an underwater U.S. drone seized by a naval vessel this week in
 
 ### Changes:
 
-1. [China's People's Liberation Army Navy seizes an underwater drone deployed by USNS ''Bowditch'' in the South China Sea; the United States files a formal diplomatic protest and a demand for its return. ](/news/2016/12/16/china-s-people-s-liberation-army-navy-seizes-an-underwater-drone-deployed-by-usns-bowditch-in-the-south-china-sea-the-united-states-fil.md) _2017-08-25 03:47:03 (First version)_
+1. [China's People's Liberation Army Navy seizes an underwater drone deployed by USNS ''Bowditch'' in the South China Sea; the United States files a formal diplomatic protest and a demand for its return. ](/news/2016/12/16/china-s-people-s-liberation-army-navy-seizes-an-underwater-drone-deployed-by-usns-bowditch-in-the-south-china-sea-the-united-states-fil.md) _2018-02-06 13:49:29 (First version)_
 1. [China's People's Liberation Army Navy seizes an underwater drone deployed by USNS "Bowditch" in the South China Sea; the United States files a formal diplomatic protest and a demand for its return. ](/news/2016/12/16/china-s-people-s-liberation-army-navy-seizes-an-underwater-drone-deployed-by-usns-bowditch-in-the-south-china-sea-the-united-states-files.md) _(Current version)_
 
 ### Related:

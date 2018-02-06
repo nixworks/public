@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-el
 
 ### Changes:
 
-1. [Peruvian general election, 2016: Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/peruvian-general-election-2016-voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through.md) _2017-08-27 03:45:34 (First version)_
+1. [Peruvian general election, 2016: Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/peruvian-general-election-2016-voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _(Current version)_
 
 ### Related:

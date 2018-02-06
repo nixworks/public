@@ -17,7 +17,7 @@ Hussain and his wife, Sally Jones, from Kent, had been dubbed &#039;Mr and Mrs T
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/islamic-state-of-iraq-and-the-levant-isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md) _2017-08-27 03:42:54 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/islamic-state-of-iraq-and-the-levant-isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md) _2018-02-06 13:49:27 (First version)_
 1. [ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md) _(Current version)_
 
 ### Related:

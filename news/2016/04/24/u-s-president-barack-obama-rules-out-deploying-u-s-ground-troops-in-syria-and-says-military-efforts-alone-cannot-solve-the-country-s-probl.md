@@ -18,7 +18,7 @@ The Pentagon has already admitted there are 50 special forces inside Syria fight
 
 ### Changes:
 
-1. [Syrian Civil War: U.S. President Barack Obama rules out deploying U.S. ground troops in Syria and says military efforts alone cannot solve the country's problems. He also said he did not think that ISIL would be defeated in his last nine months of office. ](/news/2016/04/24/syrian-civil-war-u-s-president-barack-obama-rules-out-deploying-u-s-ground-troops-in-syria-and-says-military-efforts-alone-cannot-solve-t.md) _2017-08-27 03:45:49 (First version)_
+1. [Syrian Civil War: U.S. President Barack Obama rules out deploying U.S. ground troops in Syria and says military efforts alone cannot solve the country's problems. He also said he did not think that ISIL would be defeated in his last nine months of office. ](/news/2016/04/24/syrian-civil-war-u-s-president-barack-obama-rules-out-deploying-u-s-ground-troops-in-syria-and-says-military-efforts-alone-cannot-solve-t.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. President Barack Obama rules out deploying U.S. ground troops in Syria and says military efforts alone cannot solve the country's problems. He also said he did not think that ISIL would be defeated in his last nine months of office. ](/news/2016/04/24/u-s-president-barack-obama-rules-out-deploying-u-s-ground-troops-in-syria-and-says-military-efforts-alone-cannot-solve-the-country-s-probl.md) _(Current version)_
 
 ### Related:

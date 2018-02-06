@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/10/1/russian-president-vladimir-putin-has-said-georgi
 
 ### Changes:
 
-1. [ Georgia-Russia spying dispute: Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-p-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md) _2017-08-25 03:18:30 (First version)_
-2. [ Georgia-Russia spying dispute:: Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md) _2017-08-27 03:18:24 (Update)_
+1. [ Georgia-Russia spying dispute:: Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md) _2018-02-06 13:49:17 (First version)_
+2. [ Georgia-Russia spying dispute: Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-p-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md) _2018-02-06 13:49:17 (Update)_
 2. [ Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an-act-of-state-terrorism-with-hos.md) _(Current version)_
 
 ### Related:

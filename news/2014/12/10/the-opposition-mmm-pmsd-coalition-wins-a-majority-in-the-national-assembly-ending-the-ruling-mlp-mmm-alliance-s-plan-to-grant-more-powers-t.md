@@ -16,7 +16,7 @@ Mauritius voters rejected plans to grant more powers to the president by handing
 
 ### Changes:
 
-1. [Mauritian general election: The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. ](/news/2014/12/10/mauritian-general-election-the-opposition-mmm-pmsd-coalition-wins-a-majority-in-the-national-assembly-ending-the-ruling-mlp-mmm-alliance-s.md) _2017-08-27 03:41:36 (First version)_
+1. [Mauritian general election: The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. ](/news/2014/12/10/mauritian-general-election-the-opposition-mmm-pmsd-coalition-wins-a-majority-in-the-national-assembly-ending-the-ruling-mlp-mmm-alliance-s.md) _2018-02-06 13:49:26 (First version)_
 1. [The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. ](/news/2014/12/10/the-opposition-mmm-pmsd-coalition-wins-a-majority-in-the-national-assembly-ending-the-ruling-mlp-mmm-alliance-s-plan-to-grant-more-powers-t.md) _(Current version)_
 
 ### Related:

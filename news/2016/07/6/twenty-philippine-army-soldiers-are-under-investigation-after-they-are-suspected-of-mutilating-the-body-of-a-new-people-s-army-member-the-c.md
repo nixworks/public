@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/6/twenty-philippine-army-soldiers-are-under-invest
 
 ### Changes:
 
-1. [CPP-NPA-NDF rebellion: Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. ](/news/2016/07/6/cpp-npa-ndf-rebellion-twenty-philippine-army-soldiers-are-under-investigation-after-they-are-suspected-of-mutilating-the-body-of-a-new-peop.md) _2017-08-27 03:46:25 (First version)_
+1. [CPP-NPA-NDF rebellion: Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. ](/news/2016/07/6/cpp-npa-ndf-rebellion-twenty-philippine-army-soldiers-are-under-investigation-after-they-are-suspected-of-mutilating-the-body-of-a-new-peop.md) _2018-02-06 13:49:29 (First version)_
 1. [Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. ](/news/2016/07/6/twenty-philippine-army-soldiers-are-under-investigation-after-they-are-suspected-of-mutilating-the-body-of-a-new-people-s-army-member-the-c.md) _(Current version)_
 
 ### Related:

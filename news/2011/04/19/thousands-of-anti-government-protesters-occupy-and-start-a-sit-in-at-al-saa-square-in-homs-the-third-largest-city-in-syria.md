@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/04/19/thousands-of-anti-government-protesters-occupy-
 
 ### Changes:
 
-1. [2011 Syrian protests:Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/2011-syrian-protests-pthousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in.md) _2017-08-25 03:32:51 (First version)_
-2. [2011 Syrian protests:: Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/2011-syrian-protests-thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Syrian protests:: Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/2011-syrian-protests-thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/2011-syrian-protests-pthousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in.md) _2018-02-06 13:49:22 (Update)_
 2. [Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in-syria.md) _(Current version)_
 
 ### Related:

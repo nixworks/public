@@ -17,7 +17,7 @@ Magistrates in France have placed Marine Le Pen under formal investigation. This
 
 ### Changes:
 
-1. [Politics of France: France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/politics-of-france-france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md) _2017-08-27 03:48:35 (First version)_
+1. [Politics of France: France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/politics-of-france-france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md) _2018-02-06 13:49:30 (First version)_
 1. [France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md) _(Current version)_
 
 ### Related:

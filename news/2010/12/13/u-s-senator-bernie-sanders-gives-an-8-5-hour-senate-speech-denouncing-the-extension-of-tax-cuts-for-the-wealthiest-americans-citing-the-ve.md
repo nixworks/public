@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-se
 
 ### Changes:
 
-1. [U.S. senator Bernie Sanders gives an 8.5 hour senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large inequality in income and wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-v.md) _2017-08-25 03:31:23 (First version)_
+1. [U.S. senator Bernie Sanders gives an 8.5 hour senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large inequality in income and wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-v.md) _2018-02-06 13:49:21 (First version)_
 1. [U.S. senator Bernie Sanders gives an 8.5 hour senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large inequality in income and wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-ve.md) _(Current version)_
 
 ### Related:

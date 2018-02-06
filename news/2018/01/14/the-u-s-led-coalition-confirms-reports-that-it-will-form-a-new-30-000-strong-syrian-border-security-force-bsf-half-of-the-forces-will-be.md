@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-
 
 ### Changes:
 
-1. [The U.S.-led coalition confrmed reports that it is to form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confrmed-reports-that-it-is-to-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-b.md) _2018-01-14 21:30:06 (First version)_
+1. [The U.S.-led coalition confrmed reports that it is to form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confrmed-reports-that-it-is-to-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-b.md) _2018-02-06 13:49:31 (First version)_
 1. [The U.S.-led coalition confirms reports that it will form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-will-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-be.md) _(Current version)_
 
 ### Related:

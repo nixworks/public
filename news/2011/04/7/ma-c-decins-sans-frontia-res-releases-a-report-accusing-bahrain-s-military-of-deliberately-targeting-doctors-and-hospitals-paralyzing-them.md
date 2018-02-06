@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/04/7/ma-c-decins-sans-frontia-res-releases-a-report-a
 
 ### Changes:
 
-1. [Bahrain:Medecins Sans Frontieres releases a report accusing Bahrain's military of deliberately targeting doctors and hospitals, "paralyzing" them, and turning them into "places to be feared". ](/news/2011/04/7/bahrain-pma-c-decins-sans-frontia-res-releases-a-report-accusing-bahrain-s-military-of-deliberately-targeting-doctors-and-hospitals-paralyzi.md) _2017-08-25 03:32:45 (First version)_
-2. [Bahrain:: Medecins Sans Frontieres releases a report accusing Bahrain's military of deliberately targeting doctors and hospitals, "paralyzing" them, and turning them into "places to be feared". ](/news/2011/04/7/bahrain-ma-c-decins-sans-frontia-res-releases-a-report-accusing-bahrain-s-military-of-deliberately-targeting-doctors-and-hospitals-paralyz.md) _2017-08-27 03:32:54 (Update)_
+1. [Bahrain:Medecins Sans Frontieres releases a report accusing Bahrain's military of deliberately targeting doctors and hospitals, "paralyzing" them, and turning them into "places to be feared". ](/news/2011/04/7/bahrain-pma-c-decins-sans-frontia-res-releases-a-report-accusing-bahrain-s-military-of-deliberately-targeting-doctors-and-hospitals-paralyzi.md) _2018-02-06 13:49:22 (First version)_
+2. [Bahrain:: Medecins Sans Frontieres releases a report accusing Bahrain's military of deliberately targeting doctors and hospitals, "paralyzing" them, and turning them into "places to be feared". ](/news/2011/04/7/bahrain-ma-c-decins-sans-frontia-res-releases-a-report-accusing-bahrain-s-military-of-deliberately-targeting-doctors-and-hospitals-paralyz.md) _2018-02-06 13:49:22 (Update)_
 2. [Medecins Sans Frontieres releases a report accusing Bahrain's military of deliberately targeting doctors and hospitals, "paralyzing" them, and turning them into "places to be feared". ](/news/2011/04/7/ma-c-decins-sans-frontia-res-releases-a-report-accusing-bahrain-s-military-of-deliberately-targeting-doctors-and-hospitals-paralyzing-them.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ JERUSALEM: Speculation was widespread in Israel last night over the identity of 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/israeliapalestinian-conflict-pthe-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-surr.md) _2017-08-25 03:28:23 (First version)_
-2. [Israeli-Palestinian conflict:: The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/israeli-palestinian-conflict-the-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-sur.md) _2017-08-27 03:28:23 (Update)_
+1. [Israeli-Palestinian conflict:The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/israeliapalestinian-conflict-pthe-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-surr.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/israeli-palestinian-conflict-the-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-sur.md) _2018-02-06 13:49:20 (Update)_
 2. [The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/the-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-surrounding-the-jailing-of-a-mister.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Pakistani intelligence officials say a roadside bomb attack has killed three par
 
 ### Changes:
 
-1. [War in North-West Pakistan: A roadside bomb in North Waziristan kills at least three Pakistan Army soldiers and injures six others. ](/news/2015/07/5/war-in-north-west-pakistan-a-roadside-bomb-in-north-waziristan-kills-at-least-three-pakistan-army-soldiers-and-injures-six-others.md) _2017-08-27 03:42:39 (First version)_
+1. [War in North-West Pakistan: A roadside bomb in North Waziristan kills at least three Pakistan Army soldiers and injures six others. ](/news/2015/07/5/war-in-north-west-pakistan-a-roadside-bomb-in-north-waziristan-kills-at-least-three-pakistan-army-soldiers-and-injures-six-others.md) _2018-02-06 13:49:27 (First version)_
 1. [A roadside bomb in North Waziristan kills at least three Pakistan Army soldiers and injures six others. ](/news/2015/07/5/a-roadside-bomb-in-north-waziristan-kills-at-least-three-pakistan-army-soldiers-and-injures-six-others.md) _(Current version)_
 
 ### Related:

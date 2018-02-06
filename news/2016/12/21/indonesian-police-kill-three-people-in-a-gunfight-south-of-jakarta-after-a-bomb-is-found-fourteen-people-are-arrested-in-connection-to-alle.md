@@ -17,7 +17,7 @@ Indonesian anti-terrorism police killed three suspects in a gunfight on the outs
 
 ### Changes:
 
-1. [Terrorism in Indonesia: Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/terrorism-in-indonesia-indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrest.md) _2017-08-27 03:47:29 (First version)_
+1. [Terrorism in Indonesia: Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/terrorism-in-indonesia-indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrest.md) _2018-02-06 13:49:30 (First version)_
 1. [Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrested-in-connection-to-alle.md) _(Current version)_
 
 ### Related:

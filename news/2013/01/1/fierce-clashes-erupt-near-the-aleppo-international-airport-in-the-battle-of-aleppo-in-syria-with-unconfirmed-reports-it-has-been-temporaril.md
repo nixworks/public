@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/1/fierce-clashes-erupt-near-the-aleppo-internation
 
 ### Changes:
 
-1. [Syrian civil war:Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-pfierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it-h.md) _2017-08-25 03:37:10 (First version)_
-2. [Syrian civil war:: Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-fierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it.md) _2017-08-27 03:37:21 (Update)_
+1. [Syrian civil war:Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-pfierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it-h.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-fierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it.md) _2018-02-06 13:49:24 (Update)_
 2. [Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/fierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it-has-been-temporaril.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Amnesty International director among the six jailed for &#39;helping an armed te
 
 ### Changes:
 
-1. [Judicial system of Turkey: Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/judicial-system-of-turkey-turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terro.md) _2017-08-27 03:48:40 (First version)_
+1. [Judicial system of Turkey: Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/judicial-system-of-turkey-turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terro.md) _2018-02-06 13:49:30 (First version)_
 1. [Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terrorist-organisation.md) _(Current version)_
 
 ### Related:

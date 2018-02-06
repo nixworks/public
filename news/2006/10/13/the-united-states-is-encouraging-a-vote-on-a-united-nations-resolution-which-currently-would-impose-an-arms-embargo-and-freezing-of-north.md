@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ 2006 North Korean nuclear test: The United States is encouraging a vote on a United Nations resolution, which currently would impose an arms embargo and freezing of North Korean funds connected to North Korean nuclear and ballistic missile programs, despite opposition from the People's Republic of China, which has veto power. ](/news/2006/10/13/2006-north-korean-nuclear-test-the-united-states-is-encouraging-a-vote-on-a-united-nations-resolution-which-currently-would-impose-an-arm.md) _2017-08-27 03:18:28 (First version)_
+1. [ 2006 North Korean nuclear test: The United States is encouraging a vote on a United Nations resolution, which currently would impose an arms embargo and freezing of North Korean funds connected to North Korean nuclear and ballistic missile programs, despite opposition from the People's Republic of China, which has veto power. ](/news/2006/10/13/2006-north-korean-nuclear-test-the-united-states-is-encouraging-a-vote-on-a-united-nations-resolution-which-currently-would-impose-an-arm.md) _2018-02-06 13:49:17 (First version)_
 1. [ The United States is encouraging a vote on a United Nations resolution, which currently would impose an arms embargo and freezing of North Korean funds connected to North Korean nuclear and ballistic missile programs, despite opposition from the People's Republic of China, which has veto power. ](/news/2006/10/13/the-united-states-is-encouraging-a-vote-on-a-united-nations-resolution-which-currently-would-impose-an-arms-embargo-and-freezing-of-north.md) _(Current version)_
 
 ### Related:

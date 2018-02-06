@@ -5,19 +5,19 @@ Formats: [HTML](2007/10/3/index.html)  [JSON](2007/10/3/index.json)  [XML](2007/
 
 ##### gold mine
 ### [ More than 3,000 gold miners are trapped underground in the Elandskraal mine at Elandsrand, northwest of Johannesburg, South Africa, owned by Harmony Gold Mining. ](/news/2007/10/3/more-than-3-000-gold-miners-are-trapped-underground-in-the-elandskraal-mine-at-elandsrand-northwest-of-johannesburg-south-africa-owned-b.md)
-_Context: Elandskraal mine, Johannesburg, South Africa, Elandsrand, gold mine, Harmony Gold_
+_Context: gold mine, Elandsrand, Elandskraal mine, Harmony Gold, South Africa, Johannesburg_
 
 ##### United States
 ### [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md)
-_Context: water, NASA, Mars, moon, Russia, United States_
+_Context: United States, Mars, NASA, water, Russia, moon_
 
 ##### United States
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)
-_Context: United States, U.S. President, State Children's Health Insurance Program, George W. Bush_
+_Context: George W. Bush, United States, State Children's Health Insurance Program, U.S. President_
 
 ##### Edward Pietrzyk
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
-_Context: IED, Baghdad, Iraq, bodyguard, Edward Pietrzyk, ambassador, Poland_
+_Context: Baghdad, Iraq, Edward Pietrzyk, bodyguard, Poland, IED, ambassador_
 
 ##### Pakistan
 ### [ Former Pakistani Prime Minister Benazir Bhutto says that the corruption charges against her have not been dropped, and that Minister Shaikh Rasheed Ahmad's announcement is part of a disinformation campaign. ](/news/2007/10/3/former-pakistani-prime-minister-benazir-bhutto-says-that-the-corruption-charges-against-her-have-not-been-dropped-and-that-minister-shaikh.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/29/the-government-of-the-united-states-rules-that-
 
 ### Changes:
 
-1. [Hillary Clinton email controversy: The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". ](/news/2016/01/29/hillary-clinton-email-controversy-the-government-of-the-united-states-rules-that-22-emails-on-hillary-clinton-s-home-server-contained-close.md) _2017-08-27 03:44:47 (First version)_
+1. [Hillary Clinton email controversy: The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". ](/news/2016/01/29/hillary-clinton-email-controversy-the-government-of-the-united-states-rules-that-22-emails-on-hillary-clinton-s-home-server-contained-close.md) _2018-02-06 13:49:28 (First version)_
 1. [The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". ](/news/2016/01/29/the-government-of-the-united-states-rules-that-22-emails-on-hillary-clinton-s-home-server-contained-closely-guarded-information-rated-as-to.md) _(Current version)_
 
 ### Related:

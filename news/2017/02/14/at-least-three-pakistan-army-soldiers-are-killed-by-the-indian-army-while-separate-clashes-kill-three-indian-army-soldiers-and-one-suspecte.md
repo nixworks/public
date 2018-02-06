@@ -15,7 +15,7 @@ Pakistani soldiers, Indian troops and one suspected rebel killed in separate inc
 
 ### Changes:
 
-1. [Kashmir conflict: At least three Pakistan Army soldiers are killed by the Indian Army, while separate clashes kill three Indian Army soldiers and one suspected militant, at the Line of Control. ](/news/2017/02/14/kashmir-conflict-at-least-three-pakistan-army-soldiers-are-killed-by-the-indian-army-while-separate-clashes-kill-three-indian-army-soldier.md) _2017-08-27 03:47:49 (First version)_
+1. [Kashmir conflict: At least three Pakistan Army soldiers are killed by the Indian Army, while separate clashes kill three Indian Army soldiers and one suspected militant, at the Line of Control. ](/news/2017/02/14/kashmir-conflict-at-least-three-pakistan-army-soldiers-are-killed-by-the-indian-army-while-separate-clashes-kill-three-indian-army-soldier.md) _2018-02-06 13:49:30 (First version)_
 1. [At least three Pakistan Army soldiers are killed by the Indian Army, while separate clashes kill three Indian Army soldiers and one suspected militant, at the Line of Control. ](/news/2017/02/14/at-least-three-pakistan-army-soldiers-are-killed-by-the-indian-army-while-separate-clashes-kill-three-indian-army-soldiers-and-one-suspecte.md) _(Current version)_
 
 ### Related:

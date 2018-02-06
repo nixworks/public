@@ -25,8 +25,8 @@ LIBYAN leader Muammar Gaddafi, facing the greatest challenge to his four-decade 
 
 ### Changes:
 
-1. [2011 Libyan civil war:The leader of Libya Muammar Gaddafi appears on state television to disprove claims that he has fled. ](/news/2011/02/22/2011-libyan-civil-war-pthe-leader-of-libya-muammar-gaddafi-appears-on-state-television-to-disprove-claims-that-he-has-fled.md) _2017-08-25 03:32:18 (First version)_
-2. [2011 Libyan civil war:: The leader of Libya Muammar Gaddafi appears on state television to disprove claims that he has fled. ](/news/2011/02/22/2011-libyan-civil-war-the-leader-of-libya-muammar-gaddafi-appears-on-state-television-to-disprove-claims-that-he-has-fled.md) _2017-08-27 03:32:26 (Update)_
+1. [2011 Libyan civil war:: The leader of Libya Muammar Gaddafi appears on state television to disprove claims that he has fled. ](/news/2011/02/22/2011-libyan-civil-war-the-leader-of-libya-muammar-gaddafi-appears-on-state-television-to-disprove-claims-that-he-has-fled.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:The leader of Libya Muammar Gaddafi appears on state television to disprove claims that he has fled. ](/news/2011/02/22/2011-libyan-civil-war-pthe-leader-of-libya-muammar-gaddafi-appears-on-state-television-to-disprove-claims-that-he-has-fled.md) _2018-02-06 13:49:22 (Update)_
 2. [The leader of Libya Muammar Gaddafi appears on state television to disprove claims that he has fled. ](/news/2011/02/22/the-leader-of-libya-muammar-gaddafi-appears-on-state-television-to-disprove-claims-that-he-has-fled.md) _(Current version)_
 
 ### Related:

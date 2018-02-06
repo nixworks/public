@@ -16,7 +16,7 @@ These interactive map and charts show the drug-related fatalities reported since
 
 ### Changes:
 
-1. [Philippine Drug War: The Philippines' current crackdown on controlled substances passes a death toll of 500. ](/news/2016/07/21/philippine-drug-war-the-philippines-current-crackdown-on-controlled-substances-passes-a-death-toll-of-500.md) _2017-08-27 03:46:31 (First version)_
+1. [Philippine Drug War: The Philippines' current crackdown on controlled substances passes a death toll of 500. ](/news/2016/07/21/philippine-drug-war-the-philippines-current-crackdown-on-controlled-substances-passes-a-death-toll-of-500.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippines' current crackdown on controlled substances passes a death toll of 500. ](/news/2016/07/21/the-philippines-current-crackdown-on-controlled-substances-passes-a-death-toll-of-500.md) _(Current version)_
 
 ### Related:

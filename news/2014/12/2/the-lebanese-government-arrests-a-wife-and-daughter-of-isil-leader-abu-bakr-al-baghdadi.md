@@ -16,7 +16,7 @@ One of ISIS leader Abu Bakr al-Baghdadi&#x27;s wives and children has been arres
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: The Lebanese government arrests a wife and daughter of ISIL leader Abu Bakr al-Baghdadi. ](/news/2014/12/2/islamic-state-in-iraq-and-the-levant-the-lebanese-government-arrests-a-wife-and-daughter-of-isil-leader-abu-bakr-al-baghdadi.md) _2017-08-27 03:41:35 (First version)_
+1. [Islamic State in Iraq and the Levant: The Lebanese government arrests a wife and daughter of ISIL leader Abu Bakr al-Baghdadi. ](/news/2014/12/2/islamic-state-in-iraq-and-the-levant-the-lebanese-government-arrests-a-wife-and-daughter-of-isil-leader-abu-bakr-al-baghdadi.md) _2018-02-06 13:49:26 (First version)_
 1. [The Lebanese government arrests a wife and daughter of ISIL leader Abu Bakr al-Baghdadi. ](/news/2014/12/2/the-lebanese-government-arrests-a-wife-and-daughter-of-isil-leader-abu-bakr-al-baghdadi.md) _(Current version)_
 
 ### Related:

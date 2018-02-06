@@ -16,7 +16,7 @@ At the top of the agenda in the Virginia forum is assessing how the Trump admini
 
 ### Changes:
 
-1. [2017 Bilderberg Conference: The secretive Bilderberg Group meet in Chantilly, Virginia, for its annual conference. ](/news/2017/06/1/2017-bilderberg-conference-the-secretive-bilderberg-group-meet-in-chantilly-virginia-for-its-annual-conference.md) _2017-08-27 03:48:25 (First version)_
+1. [2017 Bilderberg Conference: The secretive Bilderberg Group meet in Chantilly, Virginia, for its annual conference. ](/news/2017/06/1/2017-bilderberg-conference-the-secretive-bilderberg-group-meet-in-chantilly-virginia-for-its-annual-conference.md) _2018-02-06 13:49:30 (First version)_
 1. [The secretive Bilderberg Group meet in Chantilly, Virginia, for its annual conference. ](/news/2017/06/1/the-secretive-bilderberg-group-meet-in-chantilly-virginia-for-its-annual-conference.md) _(Current version)_
 
 ### Related:

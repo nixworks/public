@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/26/rebel-leader-riek-machar-arrives-in-the-capital
 
 ### Changes:
 
-1. [South Sudanese Civil War: Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. ](/news/2016/04/26/south-sudanese-civil-war-rebel-leader-riek-machar-arrives-in-the-capital-juba-and-is-immediately-sworn-is-as-vice-president-upon-arrival-i.md) _2017-08-27 03:45:51 (First version)_
+1. [South Sudanese Civil War: Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. ](/news/2016/04/26/south-sudanese-civil-war-rebel-leader-riek-machar-arrives-in-the-capital-juba-and-is-immediately-sworn-is-as-vice-president-upon-arrival-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. ](/news/2016/04/26/rebel-leader-riek-machar-arrives-in-the-capital-juba-and-is-immediately-sworn-is-as-vice-president-upon-arrival-it-is-hoped-that-this-appoi.md) _(Current version)_
 
 ### Related:

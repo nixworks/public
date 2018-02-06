@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/4/an-israel-defense-force-investigation-concludes-
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/2008-2009-israel-gaza-conflict-p-an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md) _2017-08-25 03:23:40 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/2008-2009-israel-gaza-conflict-an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md) _2017-08-27 03:23:31 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/2008-2009-israel-gaza-conflict-p-an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/2008-2009-israel-gaza-conflict-an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md) _2018-02-06 13:49:18 (Update)_
 2. [ An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md) _(Current version)_
 
 ### Related:

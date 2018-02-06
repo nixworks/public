@@ -5,23 +5,23 @@ Formats: [HTML](2009/05/21/index.html)  [JSON](2009/05/21/index.json)  [XML](200
 
 ##### arrest
 ### [ Four men are arrested for planning to bomb two synagogues and destroy military aircraft in New York, United States. ](/news/2009/05/21/four-men-are-arrested-for-planning-to-bomb-two-synagogues-and-destroy-military-aircraft-in-new-york-united-states.md)
-_Context: military plane, New York City, bomb, arrest, United States, synagogue_
+_Context: military plane, synagogue, New York City, bomb, United States, arrest_
 
 ##### Egypt
 ### [ Egyptian businessman Hisham Talaat Moustafa is convicted of murdering Lebanese pop singer Suzanne Tamim. ](/news/2009/05/21/egyptian-businessman-hisham-talaat-moustafa-is-convicted-of-murdering-lebanese-pop-singer-suzanne-tamim.md)
-_Context: Egypt, pop, murder, convicted, Lebanon, Hisham Talaat Moustafa, Suzanne Tamim, businessman_
+_Context: Hisham Talaat Moustafa, businessman, Lebanon, Suzanne Tamim, Egypt, pop, convicted, murder_
 
 ##### President of Serbia
 ### [ A man who entered the President's official residence in Belgrade, Serbia, with at least one hand grenade surrenders. ](/news/2009/05/21/a-man-who-entered-the-president-s-official-residence-in-belgrade-serbia-with-at-least-one-hand-grenade-surrenders.md)
-_Context: grenade, President of Serbia, Belgrade, official residence, Serbia_
+_Context: grenade, Serbia, Belgrade, President of Serbia, official residence_
 
 ##### His Majesty's Government
 ### [ Her Majesty's Government will allow retired Gurkhas who served in the Armed Forces to settle in the United Kingdom. ](/news/2009/05/21/her-majesty-s-government-will-allow-retired-gurkhas-who-served-in-the-armed-forces-to-settle-in-the-united-kingdom.md)
-_Context: His Majesty's Government, Gurkha, British, British military personnel_
+_Context: British military personnel, His Majesty's Government, Gurkha, United Kingdom_
 
 ##### Apa
 ### [ Apa Sherpa summits Mount Everest for the 19th time. ](/news/2009/05/21/apa-sherpa-summits-mount-everest-for-the-19th-time.md)
-_Context: Mount Everest, Apa_
+_Context: Apa, Mount Everest_
 
 ##### Israel
 ### [ Israel evicts Jewish settlers from a hilltop in the West Bank. ](/news/2009/05/21/israel-evicts-jewish-settlers-from-a-hilltop-in-the-west-bank.md)
@@ -29,11 +29,11 @@ Israeli police evicted Jewish settlers from a West Bank hilltop on Thursday, a d
 
 ##### United States
 ### [ The U.S. develops a framework to provide the United Arab Emirates with nuclear energy. ](/news/2009/05/21/the-u-s-develops-a-framework-to-provide-the-united-arab-emirates-with-nuclear-energy.md)
-_Context: nuclear program, framework, United States, United Arab Emirates_
+_Context: nuclear program, United Arab Emirates, framework, United States_
 
 ##### Communist Party of India
 ### [ The Communist Party kills 16 police officers near Nagpur, Maharashtra, India. ](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.md)
-_Context: Naxalite-Maoist insurgency, Nagpur, Communist Party of India, India, Indian police, Maharashtra_
+_Context: Nagpur, India, Maharashtra, Naxalite-Maoist insurgency, Communist Party of India, Indian police_
 
 ## [Previous Day...](/news/2009/05/20/index.md)
 

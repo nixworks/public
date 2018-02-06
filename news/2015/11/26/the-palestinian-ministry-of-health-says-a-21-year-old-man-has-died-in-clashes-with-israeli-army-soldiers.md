@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/26/the-palestinian-ministry-of-health-says-a-21-ye
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): The Palestinian Ministry of Health says a 21 year-old man has died in clashes with Israeli Army soldiers. ](/news/2015/11/26/israeli-palestinian-conflict-2015-the-palestinian-ministry-of-health-says-a-21-year-old-man-has-died-in-clashes-with-israeli-army-soldi.md) _2017-08-27 03:44:03 (First version)_
+1. [Israeli-Palestinian conflict (2015): The Palestinian Ministry of Health says a 21 year-old man has died in clashes with Israeli Army soldiers. ](/news/2015/11/26/israeli-palestinian-conflict-2015-the-palestinian-ministry-of-health-says-a-21-year-old-man-has-died-in-clashes-with-israeli-army-soldi.md) _2018-02-06 13:49:28 (First version)_
 1. [The Palestinian Ministry of Health says a 21 year-old man has died in clashes with Israeli Army soldiers. ](/news/2015/11/26/the-palestinian-ministry-of-health-says-a-21-year-old-man-has-died-in-clashes-with-israeli-army-soldiers.md) _(Current version)_
 
 ### Related:

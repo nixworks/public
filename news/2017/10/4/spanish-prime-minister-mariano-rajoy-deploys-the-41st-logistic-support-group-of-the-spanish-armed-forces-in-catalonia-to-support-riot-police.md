@@ -16,8 +16,8 @@ SPAIN has sent in the army to support the Barcelona riot cops despite the Catala
 
 ### Changes:
 
-1. [The Spanish government sends Logistic Support armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/the-spanish-government-sends-logistic-support-armed-forces-into-catalonia-to-support-riot-police-in-barcelona.md) _2017-10-04 19:30:07 (First version)_
-2. [Spanish Prime Minister Mariano Rajoy sends the Spanish Legion Logistic Support Group of armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-sends-the-spanish-legion-logistic-support-group-of-armed-forces-into-catalonia-to-support-riot-police-i.md) _2017-10-04 22:30:07 (Update)_
+1. [The Spanish government sends Logistic Support armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/the-spanish-government-sends-logistic-support-armed-forces-into-catalonia-to-support-riot-police-in-barcelona.md) _2018-02-06 13:49:31 (First version)_
+2. [Spanish Prime Minister Mariano Rajoy sends the Spanish Legion Logistic Support Group of armed forces into Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-sends-the-spanish-legion-logistic-support-group-of-armed-forces-into-catalonia-to-support-riot-police-i.md) _2018-02-06 13:49:31 (Update)_
 2. [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [Death of Freddie Gray: A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/death-of-freddie-gray-a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-p.md) _2017-08-27 03:42:21 (First version)_
+1. [Death of Freddie Gray: A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/death-of-freddie-gray-a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-p.md) _2018-02-06 13:49:27 (First version)_
 1. [A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-police-custody-all-six.md) _(Current version)_
 
 ### Related:

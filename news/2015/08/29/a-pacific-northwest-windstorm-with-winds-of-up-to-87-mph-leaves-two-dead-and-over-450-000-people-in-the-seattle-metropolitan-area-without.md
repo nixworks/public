@@ -16,8 +16,8 @@ A powerful and rare summertime windstorm packing 50-70 mph winds is being blamed
 
 ### Changes:
 
-1. [A Pacific Northwest windstorm, with winds of up to {{convert|87|mph|kph}}, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-convert-87-mph-kph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolit.md) _2017-05-01 03:46:18 (First version)_
-2. [A Pacific Northwest windstorm, with winds of up to 87|mph|kph, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-87-mph-kph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolitan-area-with.md) _2017-08-29 03:42:33 (Update)_
+1. [A Pacific Northwest windstorm, with winds of up to {{convert|87|mph|kph}}, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-convert-87-mph-kph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolit.md) _2018-02-06 13:49:27 (First version)_
+2. [A Pacific Northwest windstorm, with winds of up to 87|mph|kph, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-87-mph-kph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolitan-area-with.md) _2018-02-06 13:49:27 (Update)_
 2. [A Pacific Northwest windstorm, with winds of up to 87 mph, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-87-mph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolitan-area-without.md) _(Current version)_
 
 ### Related:

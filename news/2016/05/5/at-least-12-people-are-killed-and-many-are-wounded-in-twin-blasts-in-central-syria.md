@@ -18,7 +18,7 @@ Khalidi and Lisa Barrington
 
 ### Changes:
 
-1. [Syrian Civil War: At least 12 people are killed and many are wounded in twin blasts in central Syria. ](/news/2016/05/5/syrian-civil-war-at-least-12-people-are-killed-and-many-are-wounded-in-twin-blasts-in-central-syria.md) _2017-08-27 03:45:59 (First version)_
+1. [Syrian Civil War: At least 12 people are killed and many are wounded in twin blasts in central Syria. ](/news/2016/05/5/syrian-civil-war-at-least-12-people-are-killed-and-many-are-wounded-in-twin-blasts-in-central-syria.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 12 people are killed and many are wounded in twin blasts in central Syria. ](/news/2016/05/5/at-least-12-people-are-killed-and-many-are-wounded-in-twin-blasts-in-central-syria.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/04/14/an-editorial-in-the-lancet-an-influential-medic
 
 ### Changes:
 
-1. [ An editorial in ''The Lancet'', an influential medical journal, says that researchers should study the effects of drugs by using them themselves, and thereby weakening the force of the social demonization of such substances. ](/news/2006/04/14/an-editorial-in-the-lancet-an-influential-medical-journal-says-that-researchers-should-study-the-effects-of-drugs-by-using-them-thems.md) _2017-08-25 03:17:34 (First version)_
+1. [ An editorial in ''The Lancet'', an influential medical journal, says that researchers should study the effects of drugs by using them themselves, and thereby weakening the force of the social demonization of such substances. ](/news/2006/04/14/an-editorial-in-the-lancet-an-influential-medical-journal-says-that-researchers-should-study-the-effects-of-drugs-by-using-them-thems.md) _2018-02-06 13:49:17 (First version)_
 1. [ An editorial in "The Lancet", an influential medical journal, says that researchers should study the effects of drugs by using them themselves, and thereby weakening the force of the social demonization of such substances. ](/news/2006/04/14/an-editorial-in-the-lancet-an-influential-medical-journal-says-that-researchers-should-study-the-effects-of-drugs-by-using-them-themsel.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/09/18/russian-voters-head-to-the-polls-to-elect-all-4
 
 ### Changes:
 
-1. [Russian legislative election, 2016: Russian voters head to the polls to elect all 450 MPs to the 7th State Duma of the Russian Federation. Exit polls show the governing United Russia party with a comfortable lead. ](/news/2016/09/18/russian-legislative-election-2016-russian-voters-head-to-the-polls-to-elect-all-450-mps-to-the-7th-state-duma-of-the-russian-federation-e.md) _2017-08-27 03:46:52 (First version)_
+1. [Russian legislative election, 2016: Russian voters head to the polls to elect all 450 MPs to the 7th State Duma of the Russian Federation. Exit polls show the governing United Russia party with a comfortable lead. ](/news/2016/09/18/russian-legislative-election-2016-russian-voters-head-to-the-polls-to-elect-all-450-mps-to-the-7th-state-duma-of-the-russian-federation-e.md) _2018-02-06 13:49:29 (First version)_
 1. [Russian voters head to the polls to elect all 450 MPs to the 7th State Duma of the Russian Federation. Exit polls show the governing United Russia party with a comfortable lead. ](/news/2016/09/18/russian-voters-head-to-the-polls-to-elect-all-450-mps-to-the-7th-state-duma-of-the-russian-federation-exit-polls-show-the-governing-united.md) _(Current version)_
 
 ### Related:

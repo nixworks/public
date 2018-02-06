@@ -17,8 +17,8 @@ Emergency warnings have been issued for 10 areas throughout the state as bushfir
 
 ### Changes:
 
-1. [2013-14 Australian bushfire season:Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/2013a14-australian-bushfire-season-pauthorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-the.md) _2017-08-25 03:39:59 (First version)_
-2. [2013-14 Australian bushfire season:: Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/2013-14-australian-bushfire-season-authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-th.md) _2017-08-27 03:40:17 (Update)_
+1. [2013-14 Australian bushfire season:Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/2013a14-australian-bushfire-season-pauthorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-the.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Australian bushfire season:: Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/2013-14-australian-bushfire-season-authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-th.md) _2018-02-06 13:49:25 (Update)_
 2. [Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-the-worst-recorded-since-black-saturday-b.md) _(Current version)_
 
 ### Related:

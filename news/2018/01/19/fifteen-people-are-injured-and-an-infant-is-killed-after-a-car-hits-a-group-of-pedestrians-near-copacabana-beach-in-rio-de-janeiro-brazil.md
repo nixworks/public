@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-kil
 
 ### Changes:
 
-1. [Fifteen people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the.md) _2018-01-19 18:30:06 (First version)_
-2. [15 people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/15-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the-polic.md) _2018-01-19 23:30:07 (Update)_
+1. [Fifteen people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the.md) _2018-02-06 13:49:31 (First version)_
+2. [15 people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/15-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the-polic.md) _2018-02-06 13:49:31 (Update)_
 2. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _(Current version)_
 
 ### Related:

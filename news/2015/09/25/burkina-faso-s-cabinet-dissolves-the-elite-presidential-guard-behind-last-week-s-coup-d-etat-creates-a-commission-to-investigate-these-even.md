@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/25/burkina-faso-s-cabinet-dissolves-the-elite-pres
 
 ### Changes:
 
-1. [2015 Burkinab coup d'tat: Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/2015-burkinabe-coup-d-etat-burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commissi.md) _2017-08-27 03:43:09 (First version)_
+1. [2015 Burkinab coup d'tat: Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/2015-burkinabe-coup-d-etat-burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commissi.md) _2018-02-06 13:49:27 (First version)_
 1. [Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commission-to-investigate-these-even.md) _(Current version)_
 
 ### Related:

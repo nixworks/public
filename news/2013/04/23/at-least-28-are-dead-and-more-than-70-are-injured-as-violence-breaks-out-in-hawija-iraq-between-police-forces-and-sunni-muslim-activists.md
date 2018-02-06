@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/23/at-least-28-are-dead-and-more-than-70-are-injur
 
 ### Changes:
 
-1. [2013 Hawija clashes:At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-pat-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-sun.md) _2017-08-25 03:38:27 (First version)_
-2. [2013 Hawija clashes:: At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-at-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-su.md) _2017-08-27 03:38:39 (Update)_
+1. [2013 Hawija clashes:At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-pat-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-sun.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Hawija clashes:: At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-at-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-su.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/at-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-sunni-muslim-activists.md) _(Current version)_
 
 ### Related:

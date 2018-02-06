@@ -18,7 +18,7 @@ No injuries or major damage after massive barrage targets north, Jerusalem, and 
 
 ### Changes:
 
-1. [Gaza-Israel conflict: The Israeli cabinet approves the call up of 40,000 reserve soldiers as Prime Minister Benjamin Netanyahu warns of a ground operation against Palestinian rockets attacks and infiltration attempts into Israel. ](/news/2014/07/8/gaza-israel-conflict-the-israeli-cabinet-approves-the-call-up-of-40-000-reserve-soldiers-as-prime-minister-benjamin-netanyahu-warns-of-a.md) _2017-08-27 03:40:57 (First version)_
+1. [Gaza-Israel conflict: The Israeli cabinet approves the call up of 40,000 reserve soldiers as Prime Minister Benjamin Netanyahu warns of a ground operation against Palestinian rockets attacks and infiltration attempts into Israel. ](/news/2014/07/8/gaza-israel-conflict-the-israeli-cabinet-approves-the-call-up-of-40-000-reserve-soldiers-as-prime-minister-benjamin-netanyahu-warns-of-a.md) _2018-02-06 13:49:26 (First version)_
 1. [The Israeli cabinet approves the call up of 40,000 reserve soldiers as Prime Minister Benjamin Netanyahu warns of a ground operation against Palestinian rockets attacks and infiltration attempts into Israel. ](/news/2014/07/8/the-israeli-cabinet-approves-the-call-up-of-40-000-reserve-soldiers-as-prime-minister-benjamin-netanyahu-warns-of-a-ground-operation-against.md) _(Current version)_
 
 ### Related:

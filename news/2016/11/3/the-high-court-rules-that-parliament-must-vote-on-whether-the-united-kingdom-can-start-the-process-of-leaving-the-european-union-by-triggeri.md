@@ -16,7 +16,7 @@ The UK government must consult MPs before triggering Article 50 to leave the EU,
 
 ### Changes:
 
-1. [Brexit aftermath: The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/brexit-aftermath-the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european.md) _2017-08-27 03:47:10 (First version)_
+1. [Brexit aftermath: The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/brexit-aftermath-the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european.md) _2018-02-06 13:49:29 (First version)_
 1. [The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european-union-by-triggeri.md) _(Current version)_
 
 ### Related:

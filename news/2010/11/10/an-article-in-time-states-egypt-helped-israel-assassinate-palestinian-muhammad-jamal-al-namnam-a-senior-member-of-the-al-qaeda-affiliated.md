@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-a
 
 ### Changes:
 
-1. [An article in ''Time'' states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliat.md) _2017-08-25 03:30:58 (First version)_
+1. [An article in ''Time'' states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliat.md) _2018-02-06 13:49:21 (First version)_
 1. [An article in "Time" states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliated.md) _(Current version)_
 
 ### Related:

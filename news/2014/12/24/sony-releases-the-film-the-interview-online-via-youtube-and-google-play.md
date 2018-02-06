@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/24/sony-releases-the-film-the-interview-online-via
 
 ### Changes:
 
-1. [Sony Pictures Entertainment hack: Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-pictures-entertainment-hack-sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md) _2017-08-27 03:41:41 (First version)_
+1. [Sony Pictures Entertainment hack: Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-pictures-entertainment-hack-sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md) _2018-02-06 13:49:26 (First version)_
 1. [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md) _(Current version)_
 
 ### Related:

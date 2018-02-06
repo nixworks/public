@@ -17,7 +17,7 @@ Wreckage of the EgyptAir Paris-Cairo flight MS804 has been found in the Mediterr
 
 ### Changes:
 
-1. [EgyptAir Flight 804: A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. ](/news/2016/06/15/egyptair-flight-804-a-deep-sea-search-vessel-discovers-the-wreckage-of-the-lost-aircraft-in-the-mediterranean-sea.md) _2017-08-27 03:46:16 (First version)_
+1. [EgyptAir Flight 804: A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. ](/news/2016/06/15/egyptair-flight-804-a-deep-sea-search-vessel-discovers-the-wreckage-of-the-lost-aircraft-in-the-mediterranean-sea.md) _2018-02-06 13:49:29 (First version)_
 1. [A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. ](/news/2016/06/15/a-deep-sea-search-vessel-discovers-the-wreckage-of-the-lost-aircraft-in-the-mediterranean-sea.md) _(Current version)_
 
 ### Related:

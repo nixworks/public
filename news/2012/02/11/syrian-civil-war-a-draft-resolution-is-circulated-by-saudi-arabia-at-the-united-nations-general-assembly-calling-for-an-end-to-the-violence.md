@@ -24,8 +24,8 @@ Several wounded in second day of violence involving supporters and opponents of 
 
 ### Changes:
 
-1. [Arab Spring:Syrian Civil War:A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-psyrian-civil-war-pa-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end-to.md) _2017-08-25 03:35:01 (First version)_
-2. [Arab Spring:: Syrian Civil War:: A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-syrian-civil-war-a-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end.md) _2017-08-27 03:35:11 (Update)_
+1. [Arab Spring:: Syrian Civil War:: A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-syrian-civil-war-a-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian Civil War:A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-psyrian-civil-war-pa-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end-to.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian Civil War:A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/syrian-civil-war-a-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end-to-the-violence.md) _(Current version)_
 
 ### Related:

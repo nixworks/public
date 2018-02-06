@@ -16,7 +16,7 @@ A military court in Rwanda sentences four former top officials, now in exile, to
 
 ### Changes:
 
-1. [A military court in Rwanda sentences four former top officials who were allies of President Paul Kagame to long prison sentences ''in absentia''. ](/news/2011/01/14/a-military-court-in-rwanda-sentences-four-former-top-officials-who-were-allies-of-president-paul-kagame-to-long-prison-sentences-in-absent.md) _2017-08-25 03:31:47 (First version)_
+1. [A military court in Rwanda sentences four former top officials who were allies of President Paul Kagame to long prison sentences ''in absentia''. ](/news/2011/01/14/a-military-court-in-rwanda-sentences-four-former-top-officials-who-were-allies-of-president-paul-kagame-to-long-prison-sentences-in-absent.md) _2018-02-06 13:49:21 (First version)_
 1. [A military court in Rwanda sentences four former top officials who were allies of President Paul Kagame to long prison sentences "in absentia". ](/news/2011/01/14/a-military-court-in-rwanda-sentences-four-former-top-officials-who-were-allies-of-president-paul-kagame-to-long-prison-sentences-in-absenti.md) _(Current version)_
 
 ### Related:

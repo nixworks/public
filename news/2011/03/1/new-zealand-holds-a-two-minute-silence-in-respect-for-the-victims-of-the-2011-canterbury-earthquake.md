@@ -17,8 +17,8 @@ The death toll from the Christchurch earthquake is likely to be about 240, polic
 
 ### Changes:
 
-1. [2011 Canterbury earthquakeNew Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/2011-canterbury-earthquakepnew-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md) _2017-08-25 03:32:23 (First version)_
-2. [2011 Canterbury earthquake: New Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/2011-canterbury-earthquake-new-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md) _2017-08-27 03:32:30 (Update)_
+1. [2011 Canterbury earthquakeNew Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/2011-canterbury-earthquakepnew-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Canterbury earthquake: New Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/2011-canterbury-earthquake-new-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md) _2018-02-06 13:49:22 (Update)_
 2. [New Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/new-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md) _(Current version)_
 
 ### Related:

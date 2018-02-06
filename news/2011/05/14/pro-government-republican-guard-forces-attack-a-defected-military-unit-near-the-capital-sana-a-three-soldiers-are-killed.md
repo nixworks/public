@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/05/14/pro-government-republican-guard-forces-attack-a
 
 ### Changes:
 
-1. [2011 Yemeni protests:Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-ppro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-kil.md) _2017-08-25 03:33:06 (First version)_
-2. [2011 Yemeni protests:: Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-pro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-ki.md) _2017-08-27 03:33:16 (Update)_
+1. [2011 Yemeni protests:: Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-pro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-ki.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-ppro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-kil.md) _2018-02-06 13:49:22 (Update)_
 2. [Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/pro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-killed.md) _(Current version)_
 
 ### Related:

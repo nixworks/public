@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/17/a-rocket-attack-by-pro-russian-separatists-in-e
 
 ### Changes:
 
-1. [War in Donbass: A rocket attack by pro-Russian separatists in eastern Ukraine kills 10 civilians and injures 12 others in the village of Nyzhnya Krynka near Donetsk. ](/news/2014/09/17/war-in-donbass-a-rocket-attack-by-pro-russian-separatists-in-eastern-ukraine-kills-10-civilians-and-injures-12-others-in-the-village-of-nyz.md) _2017-08-27 03:41:17 (First version)_
+1. [War in Donbass: A rocket attack by pro-Russian separatists in eastern Ukraine kills 10 civilians and injures 12 others in the village of Nyzhnya Krynka near Donetsk. ](/news/2014/09/17/war-in-donbass-a-rocket-attack-by-pro-russian-separatists-in-eastern-ukraine-kills-10-civilians-and-injures-12-others-in-the-village-of-nyz.md) _2018-02-06 13:49:26 (First version)_
 1. [A rocket attack by pro-Russian separatists in eastern Ukraine kills 10 civilians and injures 12 others in the village of Nyzhnya Krynka near Donetsk. ](/news/2014/09/17/a-rocket-attack-by-pro-russian-separatists-in-eastern-ukraine-kills-10-civilians-and-injures-12-others-in-the-village-of-nyzhnya-krynka-near.md) _(Current version)_
 
 ### Related:

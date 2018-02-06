@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agre
 
 ### Changes:
 
-1. [ Canadian publisher The Thomson Corporation agrees to buy Reuters for 8.7 billion creating the world's biggest financial news and data group. ](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agrees-to-buy-reuters-for-ps8-7-billion-creating-the-world-s-biggest-financial-news-and-data-grou.md) _2017-08-25 03:19:48 (First version)_
+1. [ Canadian publisher The Thomson Corporation agrees to buy Reuters for 8.7 billion creating the world's biggest financial news and data group. ](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agrees-to-buy-reuters-for-ps8-7-billion-creating-the-world-s-biggest-financial-news-and-data-grou.md) _2018-02-06 13:49:17 (First version)_
 1. [ Canadian publisher The Thomson Corporation agrees to buy Reuters for GBP8.7 billion creating the world's biggest financial news and data group. ](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agrees-to-buy-reuters-for-gbp8-7-billion-creating-the-world-s-biggest-financial-news-and-data-gr.md) _(Current version)_
 
 ### Related:

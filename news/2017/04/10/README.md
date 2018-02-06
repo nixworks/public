@@ -19,7 +19,7 @@ The acclaimed slavery novel has been rewarded alongside Lynn Nottage’s factory
 ### [Aspen Skiing Company and KSL Capital Partners agree to acquire Intrawest for $1.5 billion. ](/news/2017/04/10/aspen-skiing-company-and-ksl-capital-partners-agree-to-acquire-intrawest-for-1-5-billion.md)
 (Updates Swift Transportation, Anglo American, AT&T, Rent-A-Center, Eskom and Bain Capital; adds Maersk, Whole Foods, Stefanel, Banco and Xcerra)
 
-##### British
+##### United Kingdom
 ### [The United Kingdom-based Jaeger fashion chain collapses into administration after failing to find a buyer. ](/news/2017/04/10/the-united-kingdom-based-jaeger-fashion-chain-collapses-into-administration-after-failing-to-find-a-buyer.md)
 Jaeger collapses into administration after failing to find a buyer, putting 700 UK jobs at risk.
 
@@ -45,7 +45,7 @@ Jadhav, a former Indian naval officer, was sentenced for spying, sabotage in Kar
 
 ##### Neil Gorsuch Supreme Court nomination
 ### [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md)
-_Context: White House, Donald Trump, Neil Gorsuch, U.S. Supreme Court, Neil Gorsuch Supreme Court nomination_
+_Context: Neil Gorsuch Supreme Court nomination, U.S. Supreme Court, White House, Donald Trump, Neil Gorsuch_
 
 ##### Alabama Governor
 ### [Alabama Governor Robert Bentley resigns as the Alabama House Judiciary Committee began impeachment proceedings against him over a relationship with a former aide. In addition, Bentley pleads guilty to two "failure to disclose" misdemeanors. Kay Ivey is sworn in as Alabama Governor. Under terms of the plea bargain, Bentley is forbidden from ever running for elected office in Alabama again. ](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.md)

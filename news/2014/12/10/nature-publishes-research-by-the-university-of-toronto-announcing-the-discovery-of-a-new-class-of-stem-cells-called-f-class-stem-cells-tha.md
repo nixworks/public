@@ -16,7 +16,7 @@ Canadian researchers have discovered a new class of stem cells they say could be
 
 ### Changes:
 
-1. [''Nature'' publishes research by the University of Toronto announcing the discovery of a new class of stem cells called F-class stem cells that have the potential to be better and safer to use in medical research. ](/news/2014/12/10/nature-publishes-research-by-the-university-of-toronto-announcing-the-discovery-of-a-new-class-of-stem-cells-called-f-class-stem-cells-t.md) _2017-08-25 03:41:18 (First version)_
+1. [''Nature'' publishes research by the University of Toronto announcing the discovery of a new class of stem cells called F-class stem cells that have the potential to be better and safer to use in medical research. ](/news/2014/12/10/nature-publishes-research-by-the-university-of-toronto-announcing-the-discovery-of-a-new-class-of-stem-cells-called-f-class-stem-cells-t.md) _2018-02-06 13:49:26 (First version)_
 1. ["Nature" publishes research by the University of Toronto announcing the discovery of a new class of stem cells called F-class stem cells that have the potential to be better and safer to use in medical research. ](/news/2014/12/10/nature-publishes-research-by-the-university-of-toronto-announcing-the-discovery-of-a-new-class-of-stem-cells-called-f-class-stem-cells-tha.md) _(Current version)_
 
 ### Related:

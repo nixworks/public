@@ -17,7 +17,7 @@ President Obama said today that he takes &quot;full responsibility&quot; for a U
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/war-in-afghanistan-2015-present-the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-h.md) _2017-08-27 03:42:14 (First version)_
+1. [War in Afghanistan (2015-present): The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/war-in-afghanistan-2015-present-the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-h.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-has-killed-american-and-italian-al-qae.md) _(Current version)_
 
 ### Related:

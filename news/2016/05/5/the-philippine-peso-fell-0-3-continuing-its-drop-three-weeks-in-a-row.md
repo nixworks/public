@@ -18,7 +18,7 @@ The Philippine peso keeps on sliding as the May 9 presidential elections get clo
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The Philippine peso fell 0.3% continuing its drop three weeks in a row. ](/news/2016/05/5/philippine-presidential-election-2016-the-philippine-peso-fell-0-3-continuing-its-drop-three-weeks-in-a-row.md) _2017-08-27 03:45:59 (First version)_
+1. [Philippine presidential election, 2016: The Philippine peso fell 0.3% continuing its drop three weeks in a row. ](/news/2016/05/5/philippine-presidential-election-2016-the-philippine-peso-fell-0-3-continuing-its-drop-three-weeks-in-a-row.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippine peso fell 0.3% continuing its drop three weeks in a row. ](/news/2016/05/5/the-philippine-peso-fell-0-3-continuing-its-drop-three-weeks-in-a-row.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Syrian troops clashed with rebels in the city of Aleppo for a second day Saturda
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011apresent-pheavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _2017-08-25 03:36:09 (First version)_
-2. [Syrian uprising (2011-present):: Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011-present-heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _2017-08-27 03:36:20 (Update)_
+1. [Syrian uprising (2011-present):Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011apresent-pheavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011-present-heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _2018-02-06 13:49:23 (Update)_
 2. [Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _(Current version)_
 
 ### Related:

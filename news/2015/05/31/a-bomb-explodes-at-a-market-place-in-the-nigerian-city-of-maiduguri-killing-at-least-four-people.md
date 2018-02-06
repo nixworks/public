@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/31/a-bomb-explodes-at-a-market-place-in-the-nigeri
 
 ### Changes:
 
-1. [Boko Haram: A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/boko-haram-a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md) _2017-08-27 03:42:27 (First version)_
+1. [Boko Haram: A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/boko-haram-a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md) _2018-02-06 13:49:27 (First version)_
 1. [A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md) _(Current version)_
 
 ### Related:

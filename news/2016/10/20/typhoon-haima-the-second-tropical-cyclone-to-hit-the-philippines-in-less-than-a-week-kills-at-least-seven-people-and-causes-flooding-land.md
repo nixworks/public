@@ -18,7 +18,7 @@ VIGAN, Philippines— Super Typhoon Haima weakened and blew out to sea Thursday 
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Haima, the second tropical cyclone to hit the Philippines in less than a week, kills at least seven people and causes flooding, landslides, and power outages before heading out to sea. ](/news/2016/10/20/2016-pacific-typhoon-season-typhoon-haima-the-second-tropical-cyclone-to-hit-the-philippines-in-less-than-a-week-kills-at-least-seven-peo.md) _2017-08-27 17:30:03 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Haima, the second tropical cyclone to hit the Philippines in less than a week, kills at least seven people and causes flooding, landslides, and power outages before heading out to sea. ](/news/2016/10/20/2016-pacific-typhoon-season-typhoon-haima-the-second-tropical-cyclone-to-hit-the-philippines-in-less-than-a-week-kills-at-least-seven-peo.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Haima, the second tropical cyclone to hit the Philippines in less than a week, kills at least seven people and causes flooding, landslides, and power outages before heading out to sea. ](/news/2016/10/20/typhoon-haima-the-second-tropical-cyclone-to-hit-the-philippines-in-less-than-a-week-kills-at-least-seven-people-and-causes-flooding-land.md) _(Current version)_
 
 ### Related:

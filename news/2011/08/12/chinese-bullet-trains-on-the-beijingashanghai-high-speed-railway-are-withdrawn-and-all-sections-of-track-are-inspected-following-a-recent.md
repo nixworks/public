@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/08/12/chinese-bullet-trains-on-the-beijingashanghai-h
 
 ### Changes:
 
-1. [Chinese Bullet trains on the Beijing-Shanghai High-Speed Railway are withdrawn and all sections of track are inspected following a recent crash. ](/news/2011/08/12/chinese-bullet-trains-on-the-beijing-shanghai-high-speed-railway-are-withdrawn-and-all-sections-of-track-are-inspected-following-a-recent.md) _2017-08-27 03:34:07 (First version)_
+1. [Chinese Bullet trains on the Beijing-Shanghai High-Speed Railway are withdrawn and all sections of track are inspected following a recent crash. ](/news/2011/08/12/chinese-bullet-trains-on-the-beijing-shanghai-high-speed-railway-are-withdrawn-and-all-sections-of-track-are-inspected-following-a-recent.md) _2018-02-06 13:49:22 (First version)_
 1. [Chinese Bullet trains on the Beijing-Shanghai High-Speed Railway are withdrawn and all sections of track are inspected following a recent crash. ](/news/2011/08/12/chinese-bullet-trains-on-the-beijingashanghai-high-speed-railway-are-withdrawn-and-all-sections-of-track-are-inspected-following-a-recent.md) _(Current version)_
 
 ### Related:

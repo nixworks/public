@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-co
 
 ### Changes:
 
-1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966-1968-and-president-jimmy-carter-s-national-s.md) _2017-08-27 03:48:23 (First version)_
+1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966-1968-and-president-jimmy-carter-s-national-s.md) _2018-02-06 13:49:30 (First version)_
 1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md) _(Current version)_
 
 ### Related:

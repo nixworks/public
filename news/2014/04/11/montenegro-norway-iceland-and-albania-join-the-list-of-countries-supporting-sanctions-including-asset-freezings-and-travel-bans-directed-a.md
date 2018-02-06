@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-
 
 ### Changes:
 
-1. [2014 Crimean crisis: Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/2014-crimean-crisis-montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-t.md) _2017-08-27 03:40:34 (First version)_
+1. [2014 Crimean crisis: Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/2014-crimean-crisis-montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md) _(Current version)_
 
 ### Related:

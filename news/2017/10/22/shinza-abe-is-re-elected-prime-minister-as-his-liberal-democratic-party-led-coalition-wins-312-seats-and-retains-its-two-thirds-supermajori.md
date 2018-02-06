@@ -17,8 +17,8 @@ Millions are voting in the election, which was called by Prime Minister Shinzo A
 
 ### Changes:
 
-1. [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds "super majority" in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-asuper-maj.md) _2017-10-24 17:30:05 (First version)_
-2. [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajorit.md) _2017-10-29 23:30:03 (Update)_
+1. [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajorit.md) _2018-02-06 13:49:31 (First version)_
+2. [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds "super majority" in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-asuper-maj.md) _2018-02-06 13:49:31 (Update)_
 2. [Shinzo Abe is re-elected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-re-elected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajori.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Individuals who pretended to be a family and arrived in the U.S. through the div
 
 ### Changes:
 
-1. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of Somali Americans allegedly abusing the Diversity Immigrant Visa. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-somali-americans-allegedly-abusing-the-diversity-i.md) _2017-11-07 00:30:06 (First version)_
+1. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of Somali Americans allegedly abusing the Diversity Immigrant Visa. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-somali-americans-allegedly-abusing-the-diversity-i.md) _2018-02-06 13:49:31 (First version)_
 1. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md) _(Current version)_
 
 ### Related:

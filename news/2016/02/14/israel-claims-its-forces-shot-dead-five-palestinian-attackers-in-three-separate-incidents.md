@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palesti
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israeli-palestinian-conflict-israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md) _2017-08-27 03:44:54 (First version)_
+1. [Israeli-Palestinian conflict: Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israeli-palestinian-conflict-israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md) _2018-02-06 13:49:28 (First version)_
 1. [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md) _(Current version)_
 
 ### Related:

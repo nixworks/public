@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/01/22/heavy-rains-in-zambia-cause-delays-in-voting-an
 
 ### Changes:
 
-1. [Zambian presidential election, 2015:Heavy rains in Zambia cause delays in voting and counting in the presidential election with announcements to resume today. ](/news/2015/01/22/zambian-presidential-election-2015-pheavy-rains-in-zambia-cause-delays-in-voting-and-counting-in-the-presidential-election-with-announcemen.md) _2017-08-25 03:41:31 (First version)_
-2. [Zambian presidential election, 2015:: Heavy rains in Zambia cause delays in voting and counting in the presidential election with announcements to resume today. ](/news/2015/01/22/zambian-presidential-election-2015-heavy-rains-in-zambia-cause-delays-in-voting-and-counting-in-the-presidential-election-with-announceme.md) _2017-08-27 03:41:49 (Update)_
+1. [Zambian presidential election, 2015:Heavy rains in Zambia cause delays in voting and counting in the presidential election with announcements to resume today. ](/news/2015/01/22/zambian-presidential-election-2015-pheavy-rains-in-zambia-cause-delays-in-voting-and-counting-in-the-presidential-election-with-announcemen.md) _2018-02-06 13:49:26 (First version)_
+2. [Zambian presidential election, 2015:: Heavy rains in Zambia cause delays in voting and counting in the presidential election with announcements to resume today. ](/news/2015/01/22/zambian-presidential-election-2015-heavy-rains-in-zambia-cause-delays-in-voting-and-counting-in-the-presidential-election-with-announceme.md) _2018-02-06 13:49:26 (Update)_
 2. [Heavy rains in Zambia cause delays in voting and counting in the presidential election with announcements to resume today. ](/news/2015/01/22/heavy-rains-in-zambia-cause-delays-in-voting-and-counting-in-the-presidential-election-with-announcements-to-resume-today.md) _(Current version)_
 
 ### Related:

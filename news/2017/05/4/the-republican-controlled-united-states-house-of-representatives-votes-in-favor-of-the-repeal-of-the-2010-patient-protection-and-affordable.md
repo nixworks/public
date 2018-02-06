@@ -17,7 +17,7 @@ House Republicans plan to vote Thursday on the latest version of the American He
 
 ### Changes:
 
-1. [The United States House of Representatives votes in favor of the repeal of the Patient Protection and Affordable Care Act and the passage of the American Health Care Act into a vote in the United States Senate, with a narrow vote of 217 to 213 with Republicans voting in favor and Democrats against. ](/news/2017/05/4/the-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-patient-protection-and-affordable-care-act-and-the-passage-of.md) _2017-05-04 20:30:06 (First version)_
+1. [The United States House of Representatives votes in favor of the repeal of the Patient Protection and Affordable Care Act and the passage of the American Health Care Act into a vote in the United States Senate, with a narrow vote of 217 to 213 with Republicans voting in favor and Democrats against. ](/news/2017/05/4/the-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-patient-protection-and-affordable-care-act-and-the-passage-of.md) _2018-02-06 13:49:30 (First version)_
 1. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-a
 
 ### Changes:
 
-1. [Tainan mayor William Lai is appointed as the new Premier by the President of Taiwan: Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-taiwan-tsai-ing-wen.md) _2017-09-05 08:30:05 (First version)_
-2. [Tainan Mayor William Lai is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _2017-09-05 18:30:06 (Update)_
+1. [Tainan Mayor William Lai is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _2018-02-06 13:49:31 (First version)_
+2. [Tainan mayor William Lai is appointed as the new Premier by the President of Taiwan: Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-taiwan-tsai-ing-wen.md) _2018-02-06 13:49:31 (Update)_
 2. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _(Current version)_
 
 ### Related:

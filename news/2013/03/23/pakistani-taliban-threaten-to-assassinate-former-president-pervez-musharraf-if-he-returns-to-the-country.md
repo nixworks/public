@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/03/23/pakistani-taliban-threaten-to-assassinate-forme
 
 ### Changes:
 
-1. [War on Terror:Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-ppakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _2017-08-25 03:38:00 (First version)_
-2. [War on Terror:: Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _2017-08-27 03:38:10 (Update)_
+1. [War on Terror:Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-ppakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _2018-02-06 13:49:24 (First version)_
+2. [War on Terror:: Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _2018-02-06 13:49:24 (Update)_
 2. [Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _(Current version)_
 
 ### Related:

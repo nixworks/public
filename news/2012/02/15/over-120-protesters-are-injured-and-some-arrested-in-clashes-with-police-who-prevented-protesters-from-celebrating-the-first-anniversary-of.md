@@ -18,8 +18,8 @@ The leader of Bahrain&#8217;s largest opposition party Wednesday confirmed that 
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising:Over 120 protesters are injured and some arrested in clashes with police who prevented protesters from celebrating the first anniversary of the uprising. ](/news/2012/02/15/2011a2012-bahraini-uprising-pover-120-protesters-are-injured-and-some-arrested-in-clashes-with-police-who-prevented-protesters-from-celebr.md) _2017-08-25 03:35:04 (First version)_
-2. [2011-2012 Bahraini uprising:: Over 120 protesters are injured and some arrested in clashes with police who prevented protesters from celebrating the first anniversary of the uprising. ](/news/2012/02/15/2011-2012-bahraini-uprising-over-120-protesters-are-injured-and-some-arrested-in-clashes-with-police-who-prevented-protesters-from-celeb.md) _2017-08-27 03:35:13 (Update)_
+1. [2011-2012 Bahraini uprising:Over 120 protesters are injured and some arrested in clashes with police who prevented protesters from celebrating the first anniversary of the uprising. ](/news/2012/02/15/2011a2012-bahraini-uprising-pover-120-protesters-are-injured-and-some-arrested-in-clashes-with-police-who-prevented-protesters-from-celebr.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Bahraini uprising:: Over 120 protesters are injured and some arrested in clashes with police who prevented protesters from celebrating the first anniversary of the uprising. ](/news/2012/02/15/2011-2012-bahraini-uprising-over-120-protesters-are-injured-and-some-arrested-in-clashes-with-police-who-prevented-protesters-from-celeb.md) _2018-02-06 13:49:23 (Update)_
 2. [Over 120 protesters are injured and some arrested in clashes with police who prevented protesters from celebrating the first anniversary of the uprising. ](/news/2012/02/15/over-120-protesters-are-injured-and-some-arrested-in-clashes-with-police-who-prevented-protesters-from-celebrating-the-first-anniversary-of.md) _(Current version)_
 
 ### Related:

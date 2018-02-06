@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/11/at-least-eight-people-are-killed-following-a-su
 
 ### Changes:
 
-1. [Boko Haram insurgency in Cameroon: At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/boko-haram-insurgency-in-cameroon-at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region.md) _2017-08-27 03:43:18 (First version)_
+1. [Boko Haram insurgency in Cameroon: At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/boko-haram-insurgency-in-cameroon-at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region.md) _2018-02-06 13:49:27 (First version)_
 1. [At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region-near-the-nigerian-border-boko-har.md) _(Current version)_
 
 ### Related:

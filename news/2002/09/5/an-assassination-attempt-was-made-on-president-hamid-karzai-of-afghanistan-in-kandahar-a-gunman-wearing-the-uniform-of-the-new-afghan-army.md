@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/09/5/an-assassination-attempt-was-made-on-president-h
 
 ### Changes:
 
-1. [ An assassination attempt was made on President Hamid Karzai of Afghanistan in Kandahar. A gunman wearing the uniform of the new Afghan Army opened fire, wounding the Governor of Kandahar and an American Special Operations officer. The gunman and one of the President's bodyguards were killed.](/news/2002/09/5/an-assassination-attempt-was-made-on-president-hamid-karzai-of-afghanistan-in-kandahar-a-gunman-wearing-the-uniform-of-the-new-afghan-arm.md) _2017-08-25 03:15:14 (First version)_
+1. [ An assassination attempt was made on President Hamid Karzai of Afghanistan in Kandahar. A gunman wearing the uniform of the new Afghan Army opened fire, wounding the Governor of Kandahar and an American Special Operations officer. The gunman and one of the President's bodyguards were killed.](/news/2002/09/5/an-assassination-attempt-was-made-on-president-hamid-karzai-of-afghanistan-in-kandahar-a-gunman-wearing-the-uniform-of-the-new-afghan-arm.md) _2018-02-06 13:49:15 (First version)_
 1. [ An assassination attempt was made on President Hamid Karzai of Afghanistan in Kandahar. A gunman wearing the uniform of the new Afghan Army opened fire, wounding the Governor of Kandahar and an American Special Operations officer. The gunman and one of the President's bodyguards were killed.](/news/2002/09/5/an-assassination-attempt-was-made-on-president-hamid-karzai-of-afghanistan-in-kandahar-a-gunman-wearing-the-uniform-of-the-new-afghan-army.md) _(Current version)_
 
 ### Related:

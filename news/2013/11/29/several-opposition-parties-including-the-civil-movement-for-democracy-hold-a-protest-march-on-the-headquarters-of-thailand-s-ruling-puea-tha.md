@@ -18,8 +18,8 @@ About 1,500 anti-government protesters have forced their way into the compound o
 
 ### Changes:
 
-1. [2013 Thai protests:Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/2013-thai-protests-pseveral-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thaila.md) _2017-08-25 03:39:36 (First version)_
-2. [2013 Thai protests:: Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/2013-thai-protests-several-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thail.md) _2017-08-27 03:39:54 (Update)_
+1. [2013 Thai protests:: Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/2013-thai-protests-several-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thail.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/2013-thai-protests-pseveral-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thaila.md) _2018-02-06 13:49:25 (Update)_
 2. [Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/several-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thailand-s-ruling-puea-tha.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ A UN panel considering the &quot;arbitrary detention&quot; of Wikileaks founder 
 
 ### Changes:
 
-1. [Julian Assange: The UN Working Group on Arbitrary Detention rules that Julian Assange is being arbitrarily detained. ](/news/2016/02/4/julian-assange-the-un-working-group-on-arbitrary-detention-rules-that-julian-assange-is-being-arbitrarily-detained.md) _2017-08-27 03:44:49 (First version)_
+1. [Julian Assange: The UN Working Group on Arbitrary Detention rules that Julian Assange is being arbitrarily detained. ](/news/2016/02/4/julian-assange-the-un-working-group-on-arbitrary-detention-rules-that-julian-assange-is-being-arbitrarily-detained.md) _2018-02-06 13:49:28 (First version)_
 1. [The UN Working Group on Arbitrary Detention rules that Julian Assange is being arbitrarily detained. ](/news/2016/02/4/the-un-working-group-on-arbitrary-detention-rules-that-julian-assange-is-being-arbitrarily-detained.md) _(Current version)_
 
 ### Related:

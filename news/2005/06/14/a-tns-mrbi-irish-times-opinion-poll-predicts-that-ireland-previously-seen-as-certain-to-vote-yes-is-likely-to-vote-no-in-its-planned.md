@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-th
 
 ### Changes:
 
-1. [ A TNS-MRBI Irish Times opinion poll predicts that Ireland, previously seen as certain to vote ''yes'', is likely to vote ''no'' in its planned referendum on the European Constitution. Only 30% of voters indicated that they would vote for the constitution, the lowest level in any country in the European Union to date. ](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-that-ireland-previously-seen-as-certain-to-vote-yes-is-likely-to-vote-no-in-its-plan.md) _2017-08-25 03:16:23 (First version)_
+1. [ A TNS-MRBI Irish Times opinion poll predicts that Ireland, previously seen as certain to vote ''yes'', is likely to vote ''no'' in its planned referendum on the European Constitution. Only 30% of voters indicated that they would vote for the constitution, the lowest level in any country in the European Union to date. ](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-that-ireland-previously-seen-as-certain-to-vote-yes-is-likely-to-vote-no-in-its-plan.md) _2018-02-06 13:49:16 (First version)_
 1. [ A TNS-MRBI Irish Times opinion poll predicts that Ireland, previously seen as certain to vote "yes", is likely to vote "no" in its planned referendum on the European Constitution. Only 30% of voters indicated that they would vote for the constitution, the lowest level in any country in the European Union to date. ](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-that-ireland-previously-seen-as-certain-to-vote-yes-is-likely-to-vote-no-in-its-planned.md) _(Current version)_
 
 ### Related:

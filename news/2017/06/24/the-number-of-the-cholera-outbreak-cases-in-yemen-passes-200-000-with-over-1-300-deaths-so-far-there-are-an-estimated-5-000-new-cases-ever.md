@@ -16,9 +16,9 @@ So far more than 1,300 people have died, 25% children, with numbers expected to 
 
 ### Changes:
 
-1. [The number of cholera cases in Yemen passes 200,000 with 1,500 deaths so far. There are 5000 cases reported everyday. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-1-500-deaths-so-far-there-are-5000-cases-reported-everyday.md) _2017-06-25 03:50:38 (First version)_
-2. [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md) _2017-06-26 15:30:07 (Update)_
-3. [2016-17 Yemen cholera outbreak: The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/2016-17-yemen-cholera-outbreak-the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are.md) _2017-08-27 03:48:33 (Update)_
+1. [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md) _2018-02-06 13:49:30 (First version)_
+2. [The number of cholera cases in Yemen passes 200,000 with 1,500 deaths so far. There are 5000 cases reported everyday. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-1-500-deaths-so-far-there-are-5000-cases-reported-everyday.md) _2018-02-06 13:49:30 (Update)_
+3. [2016-17 Yemen cholera outbreak: The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/2016-17-yemen-cholera-outbreak-the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are.md) _2018-02-06 13:49:30 (Update)_
 3. [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md) _(Current version)_
 
 ### Related:

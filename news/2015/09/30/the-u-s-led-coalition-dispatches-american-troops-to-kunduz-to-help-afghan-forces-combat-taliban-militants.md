@@ -15,7 +15,7 @@ The American soldiers were sent to &ldquo;train, advise and assist&rdquo; the Af
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Battle of Kunduz: The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/war-in-afghanistan-2015-present-battle-of-kunduz-the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-com.md) _2017-08-27 03:43:11 (First version)_
+1. [War in Afghanistan (2015-present): Battle of Kunduz: The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/war-in-afghanistan-2015-present-battle-of-kunduz-the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-com.md) _2018-02-06 13:49:27 (First version)_
 1. [The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.md) _(Current version)_
 
 ### Related:

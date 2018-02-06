@@ -16,8 +16,8 @@ At least three civilians killed and six wounded in attack on Kachin Independence
 
 ### Changes:
 
-1. [Kachin conflict:Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/kachin-conflict-pmyanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-201.md) _2017-08-25 03:37:15 (First version)_
-2. [Kachin conflict:: Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/kachin-conflict-myanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-20.md) _2017-08-27 03:37:25 (Update)_
+1. [Kachin conflict:Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/kachin-conflict-pmyanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-201.md) _2018-02-06 13:49:24 (First version)_
+2. [Kachin conflict:: Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/kachin-conflict-myanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-20.md) _2018-02-06 13:49:24 (Update)_
 2. [Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/myanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-2011-killing-3-civi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Group claims its gunmen carried out the two separate attacks in Karachi but offi
 
 ### Changes:
 
-1. [War in North-West Pakistan: Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/war-in-north-west-pakistan-pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-admini.md) _2017-08-27 03:45:42 (First version)_
+1. [War in North-West Pakistan: Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/war-in-north-west-pakistan-pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-admini.md) _2018-02-06 13:49:28 (First version)_
 1. [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md) _(Current version)_
 
 ### Related:

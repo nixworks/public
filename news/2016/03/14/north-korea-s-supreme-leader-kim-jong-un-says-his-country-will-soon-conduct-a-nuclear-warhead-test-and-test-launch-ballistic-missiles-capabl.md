@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-h
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-and-weapons-of-mass-destruction-north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-t.md) _2017-08-27 03:45:14 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-and-weapons-of-mass-destruction-north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-t.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-test-and-test-launch-ballistic-missiles-capabl.md) _(Current version)_
 
 ### Related:

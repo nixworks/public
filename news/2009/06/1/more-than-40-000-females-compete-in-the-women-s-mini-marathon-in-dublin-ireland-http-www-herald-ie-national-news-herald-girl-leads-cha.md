@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/06/1/more-than-40-000-females-compete-in-the-women-s-
 
 ### Changes:
 
-1. [ More than 40,000 females compete in the Women's Mini Marathon in Dublin, Ireland. ](/news/2009/06/1/more-than-40-000-females-compete-in-the-women-s-mini-marathon-in-dublin-ireland.md) _2017-08-25 03:24:44 (First version)_
+1. [ More than 40,000 females compete in the Women's Mini Marathon in Dublin, Ireland. ](/news/2009/06/1/more-than-40-000-females-compete-in-the-women-s-mini-marathon-in-dublin-ireland.md) _2018-02-06 13:49:19 (First version)_
 1. [ More than 40,000 females compete in the Women's Mini Marathon in Dublin, Ireland. [http:--www.herald.ie-national-news-herald-girl-leads-charge-as-40000-cross-the-finish-line-1757378.html "(Evening Herald)"] [http:--www.irishtimes.com-newspaper-breaking-2009-0601-breaking4.html?via=mr "(The Irish Times)"]](/news/2009/06/1/more-than-40-000-females-compete-in-the-women-s-mini-marathon-in-dublin-ireland-http-www-herald-ie-national-news-herald-girl-leads-cha.md) _(Current version)_
 
 ### Related:

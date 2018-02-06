@@ -17,7 +17,7 @@ Motorists may have to be reimbursed for the fall in value of their cars after th
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: U.K. transport secretary Patrick McLoughlin says Volkswagen has to start financially addressing this problem by compensating motorists with, the estimated total is GBP600m (US$925 million). ](/news/2015/10/30/volkswagen-emissions-scandal-u-k-transport-secretary-patrick-mcloughlin-says-volkswagen-has-to-start-financially-addressing-this-problem-b.md) _2017-08-27 03:43:36 (First version)_
+1. [Volkswagen emissions scandal: U.K. transport secretary Patrick McLoughlin says Volkswagen has to start financially addressing this problem by compensating motorists with, the estimated total is GBP600m (US$925 million). ](/news/2015/10/30/volkswagen-emissions-scandal-u-k-transport-secretary-patrick-mcloughlin-says-volkswagen-has-to-start-financially-addressing-this-problem-b.md) _2018-02-06 13:49:28 (First version)_
 1. [U.K. transport secretary Patrick McLoughlin says Volkswagen has to start financially addressing this problem by compensating motorists with, the estimated total is GBP600m (US$925 million). ](/news/2015/10/30/u-k-transport-secretary-patrick-mcloughlin-says-volkswagen-has-to-start-financially-addressing-this-problem-by-compensating-motorists-with.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ French conservatives vote on a presidential candidate, with ex-President Sarkozy
 
 ### Changes:
 
-1. [French presidential election, 2017: The Republicans hold a primary election to select a candidate for next year's election. Partial results indicate that a second round of voting will occur with Francois Fillon and Alain Juppe as the two candidates in the second round. ](/news/2016/11/20/french-presidential-election-2017-the-republicans-hold-a-primary-election-to-select-a-candidate-for-next-year-s-election-partial-results.md) _2017-08-27 03:47:16 (First version)_
+1. [French presidential election, 2017: The Republicans hold a primary election to select a candidate for next year's election. Partial results indicate that a second round of voting will occur with Francois Fillon and Alain Juppe as the two candidates in the second round. ](/news/2016/11/20/french-presidential-election-2017-the-republicans-hold-a-primary-election-to-select-a-candidate-for-next-year-s-election-partial-results.md) _2018-02-06 13:49:29 (First version)_
 1. [The Republicans hold a primary election to select a candidate for next year's election. Partial results indicate that a second round of voting will occur with Francois Fillon and Alain Juppe as the two candidates in the second round. ](/news/2016/11/20/the-republicans-hold-a-primary-election-to-select-a-candidate-for-next-year-s-election-partial-results-indicate-that-a-second-round-of-voti.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ New analysis suggests that Lucy—one of the most complete hominin fossils ever 
 
 ### Changes:
 
-1. [Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. ](/news/2016/08/29/scientists-from-the-university-of-texas-at-austin-postulate-that-the-hominin-fossil-lucy-dinkinesh-died-due-to-a-fall-from-a-tree-paleoa.md) _2017-08-25 03:46:20 (First version)_
+1. [Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. ](/news/2016/08/29/scientists-from-the-university-of-texas-at-austin-postulate-that-the-hominin-fossil-lucy-dinkinesh-died-due-to-a-fall-from-a-tree-paleoa.md) _2018-02-06 13:49:29 (First version)_
 1. [Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. ](/news/2016/08/29/scientists-from-the-university-of-texas-at-austin-postulate-that-the-hominin-fossil-lucy-dinkinesh-died-due-to-a-fall-from-a-tree-paleoan.md) _(Current version)_
 
 ### Related:

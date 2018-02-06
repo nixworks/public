@@ -17,7 +17,7 @@ Manning convicted of five violations of Espionage Act and numerous other charges
 
 ### Changes:
 
-1. [In ''United States v. Bradley Manning'', Bradley Manning is acquitted of aiding the enemy for giving classified United States Army information to WikiLeaks. Manning is found guilty of five espionage charges and five theft charges. ](/news/2013/07/30/in-united-states-v-bradley-manning-bradley-manning-is-acquitted-of-aiding-the-enemy-for-giving-classified-united-states-army-informati.md) _2017-08-25 03:39:04 (First version)_
+1. [In ''United States v. Bradley Manning'', Bradley Manning is acquitted of aiding the enemy for giving classified United States Army information to WikiLeaks. Manning is found guilty of five espionage charges and five theft charges. ](/news/2013/07/30/in-united-states-v-bradley-manning-bradley-manning-is-acquitted-of-aiding-the-enemy-for-giving-classified-united-states-army-informati.md) _2018-02-06 13:49:25 (First version)_
 1. [In "United States v. Bradley Manning", Bradley Manning is acquitted of aiding the enemy for giving classified United States Army information to WikiLeaks. Manning is found guilty of five espionage charges and five theft charges. ](/news/2013/07/30/in-united-states-v-bradley-manning-bradley-manning-is-acquitted-of-aiding-the-enemy-for-giving-classified-united-states-army-information.md) _(Current version)_
 
 ### Related:

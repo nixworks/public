@@ -9,7 +9,7 @@ Gunmen from Islamist group Boko Haram shot or burned to death 59 pupils in a boa
 
 ##### Gold Country
 ### [1,427 gold coins from the mid-19th century that were buried in eight cans are discovered by an anonymous couple while walking their dog in Gold Country, California. The find dubbed the Saddle Ridge Hoard is expected to be worth over $10 million dollars (USD) and is the largest known hoard of gold coins ever found in the United States.](/news/2014/02/25/1-427-gold-coins-from-the-mid-19th-century-that-were-buried-in-eight-cans-are-discovered-by-an-anonymous-couple-while-walking-their-dog-in-g.md)
-_Context: Gold Country, Saddle Ridge Hoard, hoard_
+_Context: Saddle Ridge Hoard, hoard, Gold Country_
 
 ##### Asiana Airlines
 ### [Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md)
@@ -17,7 +17,7 @@ _Context: Asiana Airlines_
 
 ##### United States
 ### [The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas-president-as-his-actions-h.md)
-_Context: Viktor Yanukovych, United States_
+_Context: United States, Viktor Yanukovych_
 
 ##### Hyde Park and Regent's Park bombings
 ### [A court in the UK rules that a man arrested in connection with the 1982 Hyde Park and Regent's Park bombings will not be prosecuted for his involvement.](/news/2014/02/25/a-court-in-the-uk-rules-that-a-man-arrested-in-connection-with-the-1982-hyde-park-and-regent-s-park-bombings-will-not-be-prosecuted-for-his.md)
@@ -33,7 +33,7 @@ While a crowd outside the court chanted “freedom” and “shame”, a judge i
 
 ##### China
 ### [China's National Meteorological Center of CMA warns of heavy smog in northern and central China over the next two days. ](/news/2014/02/25/china-s-national-meteorological-center-of-cma-warns-of-heavy-smog-in-northern-and-central-china-over-the-next-two-days.md)
-_Context: smog, China, China, National Meteorological Center_
+_Context: National Meteorological Center, China, smog, China_
 
 ## [Previous Day...](/news/2014/02/24/index.md)
 

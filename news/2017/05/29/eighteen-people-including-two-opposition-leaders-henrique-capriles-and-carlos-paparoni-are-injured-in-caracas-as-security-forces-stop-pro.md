@@ -17,8 +17,8 @@ Two Venezuelan opposition leaders were wounded on Monday by security forces disp
 
 ### Changes:
 
-1. [Eighteen people, including two opposition leaders, Henrique Capriles and Carlos Paparoni, are injured in Caracas as security forces stop protestors from reaching the government ombudsman's office. ](/news/2017/05/29/eighteen-people-including-two-opposition-leaders-henrique-capriles-and-carlos-paparoni-are-injured-in-caracas-as-security-forces-stop-p.md) _2017-08-25 03:47:57 (First version)_
-2. [Venezuelan protests: Eighteen people, including two opposition leaders, Henrique Capriles and Carlos Paparoni, are injured in Caracas as security forces stop protestors from reaching the government ombudsman's office. ](/news/2017/05/29/venezuelan-protests-eighteen-people-including-two-opposition-leaders-henrique-capriles-and-carlos-paparoni-are-injured-in-caracas-as-sec.md) _2017-08-27 03:48:24 (Update)_
+1. [Venezuelan protests: Eighteen people, including two opposition leaders, Henrique Capriles and Carlos Paparoni, are injured in Caracas as security forces stop protestors from reaching the government ombudsman's office. ](/news/2017/05/29/venezuelan-protests-eighteen-people-including-two-opposition-leaders-henrique-capriles-and-carlos-paparoni-are-injured-in-caracas-as-sec.md) _2018-02-06 13:49:30 (First version)_
+2. [Eighteen people, including two opposition leaders, Henrique Capriles and Carlos Paparoni, are injured in Caracas as security forces stop protestors from reaching the government ombudsman's office. ](/news/2017/05/29/eighteen-people-including-two-opposition-leaders-henrique-capriles-and-carlos-paparoni-are-injured-in-caracas-as-security-forces-stop-p.md) _2018-02-06 13:49:30 (Update)_
 2. [Eighteen people, including two opposition leaders, Henrique Capriles and Carlos Paparoni, are injured in Caracas as security forces stop protestors from reaching the government ombudsman's office. ](/news/2017/05/29/eighteen-people-including-two-opposition-leaders-henrique-capriles-and-carlos-paparoni-are-injured-in-caracas-as-security-forces-stop-pro.md) _(Current version)_
 
 ### Related:

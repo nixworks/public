@@ -17,8 +17,8 @@ The Taliban has announced the start of their spring offensive, signaling plans t
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The Taliban announces the start of their spring offensive, signaling plans to step up attacks as the weather warms across Afghanistan, making both travel and fighting easier. ](/news/2013/04/27/war-in-afghanistan-2001apresent-pthe-taliban-announces-the-start-of-their-spring-offensive-signaling-plans-to-step-up-attacks-as-the-we.md) _2017-08-25 03:38:29 (First version)_
-2. [War in Afghanistan (2001-present):: The Taliban announces the start of their spring offensive, signaling plans to step up attacks as the weather warms across Afghanistan, making both travel and fighting easier. ](/news/2013/04/27/war-in-afghanistan-2001-present-the-taliban-announces-the-start-of-their-spring-offensive-signaling-plans-to-step-up-attacks-as-the-w.md) _2017-08-27 03:38:42 (Update)_
+1. [War in Afghanistan (2001-present):The Taliban announces the start of their spring offensive, signaling plans to step up attacks as the weather warms across Afghanistan, making both travel and fighting easier. ](/news/2013/04/27/war-in-afghanistan-2001apresent-pthe-taliban-announces-the-start-of-their-spring-offensive-signaling-plans-to-step-up-attacks-as-the-we.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: The Taliban announces the start of their spring offensive, signaling plans to step up attacks as the weather warms across Afghanistan, making both travel and fighting easier. ](/news/2013/04/27/war-in-afghanistan-2001-present-the-taliban-announces-the-start-of-their-spring-offensive-signaling-plans-to-step-up-attacks-as-the-w.md) _2018-02-06 13:49:24 (Update)_
 2. [The Taliban announces the start of their spring offensive, signaling plans to step up attacks as the weather warms across Afghanistan, making both travel and fighting easier. ](/news/2013/04/27/the-taliban-announces-the-start-of-their-spring-offensive-signaling-plans-to-step-up-attacks-as-the-weather-warms-across-afghanistan-makin.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Pressure grows on the president to stand aside as thousands march to welcome the
 
 ### Changes:
 
-1. [Thousands of people celebrate the downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _2017-11-18 11:30:05 (First version)_
+1. [Thousands of people celebrate the downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _2018-02-06 13:49:31 (First version)_
 1. [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _(Current version)_
 
 ### Related:

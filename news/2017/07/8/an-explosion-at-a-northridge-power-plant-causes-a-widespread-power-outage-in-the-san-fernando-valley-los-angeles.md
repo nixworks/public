@@ -17,7 +17,7 @@ An explosion Saturday at a Los Angeles Department of Water and Power plant in th
 
 ### Changes:
 
-1. [Energy in California: An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/energy-in-california-an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md) _2017-08-27 03:48:38 (First version)_
+1. [Energy in California: An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/energy-in-california-an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md) _2018-02-06 13:49:31 (First version)_
 1. [An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md) _(Current version)_
 
 ### Related:

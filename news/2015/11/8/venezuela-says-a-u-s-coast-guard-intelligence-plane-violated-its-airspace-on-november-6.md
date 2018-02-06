@@ -16,7 +16,7 @@ Venezuela said a U.S. Coast Guard intelligence plane violated its airspace on Fr
 
 ### Changes:
 
-1. [United States-Venezuela relations: Venezuela says a U.S. Coast Guard intelligence plane violated its airspace on November 6. ](/news/2015/11/8/united-states-venezuela-relations-venezuela-says-a-u-s-coast-guard-intelligence-plane-violated-its-airspace-on-november-6.md) _2017-08-27 03:43:45 (First version)_
+1. [United States-Venezuela relations: Venezuela says a U.S. Coast Guard intelligence plane violated its airspace on November 6. ](/news/2015/11/8/united-states-venezuela-relations-venezuela-says-a-u-s-coast-guard-intelligence-plane-violated-its-airspace-on-november-6.md) _2018-02-06 13:49:28 (First version)_
 1. [Venezuela says a U.S. Coast Guard intelligence plane violated its airspace on November 6. ](/news/2015/11/8/venezuela-says-a-u-s-coast-guard-intelligence-plane-violated-its-airspace-on-november-6.md) _(Current version)_
 
 ### Related:

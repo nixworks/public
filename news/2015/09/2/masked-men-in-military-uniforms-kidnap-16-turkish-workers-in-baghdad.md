@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkis
 
 ### Changes:
 
-1. [Iraq War (2014-present): Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/iraq-war-2014-present-masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md) _2017-08-27 03:42:57 (First version)_
+1. [Iraq War (2014-present): Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/iraq-war-2014-present-masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md) _2018-02-06 13:49:27 (First version)_
 1. [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md) _(Current version)_
 
 ### Related:

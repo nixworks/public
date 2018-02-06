@@ -18,6 +18,6 @@ Formats: [HTML](/news/2012/02/9/talks-continue-in-order-to-resolve-the-debt-cris
 
 ### Changes:
 
-1. [Greek government debt crisis:Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-ptalks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md) _2017-08-25 03:35:00 (First version)_
-2. [Greek government debt crisis:: Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-talks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md) _2017-08-27 03:35:09 (Update)_
+1. [Greek government debt crisis:: Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-talks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md) _2018-02-06 13:49:23 (First version)_
+2. [Greek government debt crisis:Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-ptalks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md) _2018-02-06 13:49:23 (Update)_
 2. [Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/talks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md) _(Current version)_

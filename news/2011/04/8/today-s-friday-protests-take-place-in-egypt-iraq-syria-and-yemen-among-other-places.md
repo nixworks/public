@@ -21,7 +21,7 @@ At least 27 deaths reported in the city of Daraa as fresh pro-reform demonstrati
 
 ### Changes:
 
-1. [Arab Spring: Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/arab-spring-today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md) _2017-08-27 03:32:54 (First version)_
+1. [Arab Spring: Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/arab-spring-today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md) _2018-02-06 13:49:22 (First version)_
 1. [Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/09/21/hurricane-rita-reaches-category-5-intensity-the
 
 ### Changes:
 
-1. [ Hurricane Rita reaches Category 5 intensity, the third most intense in recorded history. The current path tracks landfall at Galveston, Texas on Saturday. The inbound causeway to the Island has been closed and mandatory evacuation has been ordered. Residents on the Gulf Coast south of Galveston are urged to evacuate. ](/news/2005/09/21/hurricane-rita-reaches-category-5-intensity-the-third-most-intense-in-recorded-history-the-current-path-tracks-landfall-at-galveston-te.md) _2017-08-25 03:16:49 (First version)_
+1. [ Hurricane Rita reaches Category 5 intensity, the third most intense in recorded history. The current path tracks landfall at Galveston, Texas on Saturday. The inbound causeway to the Island has been closed and mandatory evacuation has been ordered. Residents on the Gulf Coast south of Galveston are urged to evacuate. ](/news/2005/09/21/hurricane-rita-reaches-category-5-intensity-the-third-most-intense-in-recorded-history-the-current-path-tracks-landfall-at-galveston-te.md) _2018-02-06 13:49:16 (First version)_
 1. [ Hurricane Rita reaches Category 5 intensity, the third most intense in recorded history. The current path tracks landfall at Galveston, Texas on Saturday. The inbound causeway to the Island has been closed and mandatory evacuation has been ordered. Residents on the Gulf Coast south of Galveston are urged to evacuate. ](/news/2005/09/21/hurricane-rita-reaches-category-5-intensity-the-third-most-intense-in-recorded-history-the-current-path-tracks-landfall-at-galveston-tex.md) _(Current version)_
 
 ### Related:

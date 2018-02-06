@@ -18,8 +18,8 @@ Chinese dissident Chen Guangcheng leaves his refuge in the US embassy in Beijing
 
 ### Changes:
 
-1. [Visit to China by Hillary Clinton:United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/visit-to-china-by-hillary-clinton-punited-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-governm.md) _2017-08-25 03:35:36 (First version)_
-2. [Visit to China by Hillary Clinton:: United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/visit-to-china-by-hillary-clinton-united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-govern.md) _2017-08-27 03:35:46 (Update)_
+1. [Visit to China by Hillary Clinton:: United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/visit-to-china-by-hillary-clinton-united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-govern.md) _2018-02-06 13:49:23 (First version)_
+2. [Visit to China by Hillary Clinton:United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/visit-to-china-by-hillary-clinton-punited-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-governm.md) _2018-02-06 13:49:23 (Update)_
 2. [United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-government-of-china-she-also-contacts-dis.md) _(Current version)_
 
 ### Related:

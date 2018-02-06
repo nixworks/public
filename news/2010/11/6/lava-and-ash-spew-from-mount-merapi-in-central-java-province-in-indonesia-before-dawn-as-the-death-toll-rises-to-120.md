@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-j
 
 ### Changes:
 
-1. [2010 eruption of Mount Merapi: Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md) _2017-08-27 03:31:00 (First version)_
+1. [2010 eruption of Mount Merapi: Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md) _2018-02-06 13:49:21 (First version)_
 1. [Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises-to-120.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/13/the-people-s-republic-of-china-further-devalues
 
 ### Changes:
 
-1. [2015 Chinese stock market crash: The People's Republic of China further devalues the yuan (Renminbi) by 1 percent after two previous devaluings. ](/news/2015/08/13/2015-chinese-stock-market-crash-the-people-s-republic-of-china-further-devalues-the-yuan-renminbi-by-1-percent-after-two-previous-devalui.md) _2017-08-27 03:42:49 (First version)_
+1. [2015 Chinese stock market crash: The People's Republic of China further devalues the yuan (Renminbi) by 1 percent after two previous devaluings. ](/news/2015/08/13/2015-chinese-stock-market-crash-the-people-s-republic-of-china-further-devalues-the-yuan-renminbi-by-1-percent-after-two-previous-devalui.md) _2018-02-06 13:49:27 (First version)_
 1. [The People's Republic of China further devalues the yuan (Renminbi) by 1 percent after two previous devaluings. ](/news/2015/08/13/the-people-s-republic-of-china-further-devalues-the-yuan-renminbi-by-1-percent-after-two-previous-devaluings.md) _(Current version)_
 
 ### Related:

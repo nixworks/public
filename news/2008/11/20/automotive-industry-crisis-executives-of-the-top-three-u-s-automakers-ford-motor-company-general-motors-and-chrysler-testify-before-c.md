@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/11/20/automotive-industry-crisis-executives-of-the-to
 
 ### Changes:
 
-1. [ Global financial crisis of 2008: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-p-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2017-08-25 03:23:12 (First version)_
-2. [ Global financial crisis of 2008:: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2017-08-27 03:23:04 (Update)_
+1. [ Global financial crisis of 2008: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-p-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2018-02-06 13:49:18 (First version)_
+2. [ Global financial crisis of 2008:: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2018-02-06 13:49:18 (Update)_
 2. [ Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.md) _(Current version)_
 
 ### Related:

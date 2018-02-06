@@ -17,7 +17,7 @@ The Nobel Peace Prize, which President Obama described as a â€œcall to action,â€
 
 ### Changes:
 
-1. [ U.S. president Barack Obama wins the Nobel Peace Prize -for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.- ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-for-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md) _2017-08-27 03:25:53 (First version)_
+1. [ U.S. president Barack Obama wins the Nobel Peace Prize -for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.- ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-for-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md) _2018-02-06 13:49:19 (First version)_
 1. [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples." ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md) _(Current version)_
 
 ### Related:

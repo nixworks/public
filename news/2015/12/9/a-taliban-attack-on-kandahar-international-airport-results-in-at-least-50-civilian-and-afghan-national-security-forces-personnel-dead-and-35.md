@@ -17,7 +17,7 @@ At least 37 civilians and members of Afghan security forces have been killed and
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A Taliban attack on Kandahar International Airport results in at least 50 civilian and Afghan National Security Forces personnel dead and 35 injured. ](/news/2015/12/9/war-in-afghanistan-2015-present-a-taliban-attack-on-kandahar-international-airport-results-in-at-least-50-civilian-and-afghan-national.md) _2017-08-27 03:44:17 (First version)_
+1. [War in Afghanistan (2015-present): A Taliban attack on Kandahar International Airport results in at least 50 civilian and Afghan National Security Forces personnel dead and 35 injured. ](/news/2015/12/9/war-in-afghanistan-2015-present-a-taliban-attack-on-kandahar-international-airport-results-in-at-least-50-civilian-and-afghan-national.md) _2018-02-06 13:49:28 (First version)_
 1. [A Taliban attack on Kandahar International Airport results in at least 50 civilian and Afghan National Security Forces personnel dead and 35 injured. ](/news/2015/12/9/a-taliban-attack-on-kandahar-international-airport-results-in-at-least-50-civilian-and-afghan-national-security-forces-personnel-dead-and-35.md) _(Current version)_
 
 ### Related:

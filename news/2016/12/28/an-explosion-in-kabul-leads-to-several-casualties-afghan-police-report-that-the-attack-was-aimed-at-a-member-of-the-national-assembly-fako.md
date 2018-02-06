@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/28/an-explosion-in-kabul-leads-to-several-casualti
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): An explosion in Kabul leads to several casualties. Afghan police report that the attack was aimed at a member of the National Assembly, Fakori Behishti. ](/news/2016/12/28/war-in-afghanistan-2015-present-an-explosion-in-kabul-leads-to-several-casualties-afghan-police-report-that-the-attack-was-aimed-at-a.md) _2017-08-27 03:47:32 (First version)_
+1. [War in Afghanistan (2015-present): An explosion in Kabul leads to several casualties. Afghan police report that the attack was aimed at a member of the National Assembly, Fakori Behishti. ](/news/2016/12/28/war-in-afghanistan-2015-present-an-explosion-in-kabul-leads-to-several-casualties-afghan-police-report-that-the-attack-was-aimed-at-a.md) _2018-02-06 13:49:30 (First version)_
 1. [An explosion in Kabul leads to several casualties. Afghan police report that the attack was aimed at a member of the National Assembly, Fakori Behishti. ](/news/2016/12/28/an-explosion-in-kabul-leads-to-several-casualties-afghan-police-report-that-the-attack-was-aimed-at-a-member-of-the-national-assembly-fako.md) _(Current version)_
 
 ### Related:

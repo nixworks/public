@@ -16,7 +16,7 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _2017-08-27 03:40:50 (First version)_
+1. [War in North-West Pakistan: At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _2018-02-06 13:49:26 (First version)_
 1. [At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _(Current version)_
 
 ### Related:

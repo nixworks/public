@@ -11,7 +11,7 @@ Formats: [HTML](/news/2011/11/7/the-swedish-enforcement-administration-kronofogd
 
 ### Changes:
 
-1. [The Swedish Enforcement Administration (''Kronofogden'') announces the public auction of seven paintings originally believed to be painted by German leader Adolf Hitler.[http:--www.dn.se-nyheter-sverige-kronofogden-saljer-hitlertavlor (TT via ''Dagens Nyheter'')] (Swedish)](/news/2011/11/7/the-swedish-enforcement-administration-kronofogden-announces-the-public-auction-of-seven-paintings-originally-believed-to-be-painted-b.md) _2017-08-25 03:34:27 (First version)_
+1. [The Swedish Enforcement Administration (''Kronofogden'') announces the public auction of seven paintings originally believed to be painted by German leader Adolf Hitler.[http:--www.dn.se-nyheter-sverige-kronofogden-saljer-hitlertavlor (TT via ''Dagens Nyheter'')] (Swedish)](/news/2011/11/7/the-swedish-enforcement-administration-kronofogden-announces-the-public-auction-of-seven-paintings-originally-believed-to-be-painted-b.md) _2018-02-06 13:49:23 (First version)_
 1. [The Swedish Enforcement Administration ("Kronofogden") announces the public auction of seven paintings originally believed to be painted by German leader Adolf Hitler.[http:--www.dn.se-nyheter-sverige-kronofogden-saljer-hitlertavlor (TT via "Dagens Nyheter")] (Swedish)](/news/2011/11/7/the-swedish-enforcement-administration-kronofogden-announces-the-public-auction-of-seven-paintings-originally-believed-to-be-painted-by.md) _(Current version)_
 
 ### Related:

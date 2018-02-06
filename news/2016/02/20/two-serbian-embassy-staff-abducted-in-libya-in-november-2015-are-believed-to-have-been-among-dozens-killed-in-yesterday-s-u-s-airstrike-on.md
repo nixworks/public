@@ -17,7 +17,7 @@ Heavy clashes in the eastern Libyan city of Benghazi have left at least 14 peopl
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Two Serbian embassy staff abducted in Libya in November 2015 are believed to have been among dozens killed in yesterday's U.S. airstrike on a ISIL camp in Sabratha, according to Serbia's Foreign Minister Ivica Dacic. ](/news/2016/02/20/libyan-civil-war-2014-present-two-serbian-embassy-staff-abducted-in-libya-in-november-2015-are-believed-to-have-been-among-dozens-kille.md) _2017-08-27 03:44:58 (First version)_
+1. [Libyan Civil War (2014-present): Two Serbian embassy staff abducted in Libya in November 2015 are believed to have been among dozens killed in yesterday's U.S. airstrike on a ISIL camp in Sabratha, according to Serbia's Foreign Minister Ivica Dacic. ](/news/2016/02/20/libyan-civil-war-2014-present-two-serbian-embassy-staff-abducted-in-libya-in-november-2015-are-believed-to-have-been-among-dozens-kille.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Serbian embassy staff abducted in Libya in November 2015 are believed to have been among dozens killed in yesterday's U.S. airstrike on a ISIL camp in Sabratha, according to Serbia's Foreign Minister Ivica Dacic. ](/news/2016/02/20/two-serbian-embassy-staff-abducted-in-libya-in-november-2015-are-believed-to-have-been-among-dozens-killed-in-yesterday-s-u-s-airstrike-on.md) _(Current version)_
 
 ### Related:

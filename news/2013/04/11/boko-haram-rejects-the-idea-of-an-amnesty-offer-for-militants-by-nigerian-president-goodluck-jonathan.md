@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/11/boko-haram-rejects-the-idea-of-an-amnesty-offer
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/nigerian-sharia-conflict-pboko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md) _2017-08-25 03:38:16 (First version)_
-2. [Nigerian Sharia conflict:: Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/nigerian-sharia-conflict-boko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md) _2017-08-27 03:38:29 (Update)_
+1. [Nigerian Sharia conflict:Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/nigerian-sharia-conflict-pboko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/nigerian-sharia-conflict-boko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md) _2018-02-06 13:49:24 (Update)_
 2. [Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/boko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md) _(Current version)_
 
 ### Related:

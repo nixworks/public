@@ -20,8 +20,8 @@ It is not known if political detainees are among the 7,114 prisoners due to be r
 
 ### Changes:
 
-1. [ Burma: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-p-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _2017-08-25 03:25:47 (First version)_
-2. [ Burma:: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _2017-08-27 03:25:39 (Update)_
+1. [ Burma: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-p-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _2018-02-06 13:49:19 (First version)_
+2. [ Burma:: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _2018-02-06 13:49:19 (Update)_
 2. [ Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md) _(Current version)_
 
 ### Related:

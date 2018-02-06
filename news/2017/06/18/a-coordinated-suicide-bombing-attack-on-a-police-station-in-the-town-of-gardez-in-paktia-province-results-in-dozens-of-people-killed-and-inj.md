@@ -16,8 +16,8 @@ As many as five suicide bombers attack a police headquarters in eastern Afghanis
 
 ### Changes:
 
-1. [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province resulting in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-resulting-in-dozens-of-people-killed-and-i.md) _2017-06-18 22:30:06 (First version)_
-2. [War in Afghanistan: A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/war-in-afghanistan-a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-p.md) _2017-08-27 03:48:30 (Update)_
+1. [War in Afghanistan: A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/war-in-afghanistan-a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-p.md) _2018-02-06 13:49:30 (First version)_
+2. [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province resulting in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-resulting-in-dozens-of-people-killed-and-i.md) _2018-02-06 13:49:30 (Update)_
 2. [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md) _(Current version)_
 
 ### Related:

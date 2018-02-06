@@ -17,7 +17,7 @@ A Texas jury on Wednesday found former Republican House Majority Leader Tom DeLa
 
 ### Changes:
 
-1. [Former United States House of Representatives Majority Leader and former ''Dancing with the Stars'' contestant Tom DeLay is convicted of money laundering and conspiracy in relation to Republican fundraising for the 2002 Texas state elections. ](/news/2010/11/24/former-united-states-house-of-representatives-majority-leader-and-former-dancing-with-the-stars-contestant-tom-delay-is-convicted-of-mon.md) _2017-08-25 03:31:09 (First version)_
+1. [Former United States House of Representatives Majority Leader and former ''Dancing with the Stars'' contestant Tom DeLay is convicted of money laundering and conspiracy in relation to Republican fundraising for the 2002 Texas state elections. ](/news/2010/11/24/former-united-states-house-of-representatives-majority-leader-and-former-dancing-with-the-stars-contestant-tom-delay-is-convicted-of-mon.md) _2018-02-06 13:49:21 (First version)_
 1. [Former United States House of Representatives Majority Leader and former "Dancing with the Stars" contestant Tom DeLay is convicted of money laundering and conspiracy in relation to Republican fundraising for the 2002 Texas state elections. ](/news/2010/11/24/former-united-states-house-of-representatives-majority-leader-and-former-dancing-with-the-stars-contestant-tom-delay-is-convicted-of-money.md) _(Current version)_
 
 ### Related:

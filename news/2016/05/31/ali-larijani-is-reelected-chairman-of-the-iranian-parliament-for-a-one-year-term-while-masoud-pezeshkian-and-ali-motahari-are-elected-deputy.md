@@ -18,7 +18,7 @@ Mr. Larijani, scion of a powerful Iranian family, managed the Parliament’s app
 
 ### Changes:
 
-1. [Iranian legislative election, 2016: Ali Larijani is reelected chairman of the Iranian Parliament for a one year term while Masoud Pezeshkian and Ali Motahari are elected deputy chairpersons. All three elected members were supported by List of Hope in the recent election. ](/news/2016/05/31/iranian-legislative-election-2016-ali-larijani-is-reelected-chairman-of-the-iranian-parliament-for-a-one-year-term-while-masoud-pezeshkian.md) _2017-08-27 03:46:10 (First version)_
+1. [Iranian legislative election, 2016: Ali Larijani is reelected chairman of the Iranian Parliament for a one year term while Masoud Pezeshkian and Ali Motahari are elected deputy chairpersons. All three elected members were supported by List of Hope in the recent election. ](/news/2016/05/31/iranian-legislative-election-2016-ali-larijani-is-reelected-chairman-of-the-iranian-parliament-for-a-one-year-term-while-masoud-pezeshkian.md) _2018-02-06 13:49:29 (First version)_
 1. [Ali Larijani is reelected chairman of the Iranian Parliament for a one year term while Masoud Pezeshkian and Ali Motahari are elected deputy chairpersons. All three elected members were supported by List of Hope in the recent election. ](/news/2016/05/31/ali-larijani-is-reelected-chairman-of-the-iranian-parliament-for-a-one-year-term-while-masoud-pezeshkian-and-ali-motahari-are-elected-deputy.md) _(Current version)_
 
 ### Related:

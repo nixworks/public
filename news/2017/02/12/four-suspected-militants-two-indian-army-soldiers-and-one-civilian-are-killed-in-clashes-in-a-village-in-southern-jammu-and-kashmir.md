@@ -15,7 +15,7 @@ Four suspected fighters and two Indian soldiers killed in gun battle in a villag
 
 ### Changes:
 
-1. [Kashmir conflict: Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/kashmir-conflict-four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu.md) _2017-08-27 03:47:48 (First version)_
+1. [Kashmir conflict: Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/kashmir-conflict-four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu.md) _2018-02-06 13:49:30 (First version)_
 1. [Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.md) _(Current version)_
 
 ### Related:

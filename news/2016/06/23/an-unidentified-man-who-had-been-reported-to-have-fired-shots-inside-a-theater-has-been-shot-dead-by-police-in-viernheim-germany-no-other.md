@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-ha
 
 ### Changes:
 
-1. [Viernheim shooting: An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/viernheim-shooting-an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim.md) _2017-08-27 03:46:19 (First version)_
+1. [Viernheim shooting: An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/viernheim-shooting-an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim.md) _2018-02-06 13:49:29 (First version)_
 1. [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md) _(Current version)_
 
 ### Related:

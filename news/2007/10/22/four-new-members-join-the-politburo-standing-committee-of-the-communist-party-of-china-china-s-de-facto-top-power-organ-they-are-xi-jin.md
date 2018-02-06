@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/22/four-new-members-join-the-politburo-standing-co
 
 ### Changes:
 
-1. [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's ''de facto'' top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-j.md) _2017-08-25 03:21:14 (First version)_
+1. [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's ''de facto'' top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-j.md) _2018-02-06 13:49:18 (First version)_
 1. [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's "de facto" top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-jin.md) _(Current version)_
 
 ### Related:

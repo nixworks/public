@@ -17,8 +17,8 @@ King Salman ordered the reform in a royal decree delivered on Tuesday night, req
 
 ### Changes:
 
-1. [The king of Saudi Arabia issues a decree requiring that women be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-requiring-that-women-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sove.md) _2017-09-27 03:52:38 (First version)_
-2. [The king of Saudi Arabia issues a decree will allow women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-will-allow-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sover.md) _2017-09-27 13:30:05 (Update)_
+1. [The king of Saudi Arabia issues a decree will allow women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-will-allow-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sover.md) _2018-02-06 13:49:31 (First version)_
+2. [The king of Saudi Arabia issues a decree requiring that women be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-requiring-that-women-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-sove.md) _2018-02-06 13:49:31 (Update)_
 2. [The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-allowing-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-soverei.md) _(Current version)_
 
 ### Related:

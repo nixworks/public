@@ -20,7 +20,7 @@ The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where Presid
 
 ### Changes:
 
-1. [Humanitarian aid during the Syrian Civil War: A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/humanitarian-aid-during-the-syrian-civil-war-a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-t.md) _2017-08-27 03:46:11 (First version)_
+1. [Humanitarian aid during the Syrian Civil War: A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/humanitarian-aid-during-the-syrian-civil-war-a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-t.md) _2018-02-06 13:49:29 (First version)_
 1. [A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-the-first-time-since-2012-the-only-food-delive.md) _(Current version)_
 
 ### Related:

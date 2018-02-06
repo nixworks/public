@@ -16,7 +16,7 @@ A suspected arson fire badly damaged a Bellevue mosque early Saturday morning. P
 
 ### Changes:
 
-1. [ Islamophobia in the United States: A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/islamophobia-in-the-united-states-a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _2017-08-27 03:47:36 (First version)_
+1. [ Islamophobia in the United States: A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/islamophobia-in-the-united-states-a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _2018-02-06 13:49:30 (First version)_
 1. [ A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md) _(Current version)_
 
 ### Related:

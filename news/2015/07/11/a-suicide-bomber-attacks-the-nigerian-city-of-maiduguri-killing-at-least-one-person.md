@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/07/11/a-suicide-bomber-attacks-the-nigerian-city-of-m
 
 ### Changes:
 
-1. [Boko Haram insurgency: A suicide bomber attacks the Nigerian city of Maiduguri killing at least one person. ](/news/2015/07/11/boko-haram-insurgency-a-suicide-bomber-attacks-the-nigerian-city-of-maiduguri-killing-at-least-one-person.md) _2017-08-27 03:42:41 (First version)_
+1. [Boko Haram insurgency: A suicide bomber attacks the Nigerian city of Maiduguri killing at least one person. ](/news/2015/07/11/boko-haram-insurgency-a-suicide-bomber-attacks-the-nigerian-city-of-maiduguri-killing-at-least-one-person.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber attacks the Nigerian city of Maiduguri killing at least one person. ](/news/2015/07/11/a-suicide-bomber-attacks-the-nigerian-city-of-maiduguri-killing-at-least-one-person.md) _(Current version)_
 
 ### Related:

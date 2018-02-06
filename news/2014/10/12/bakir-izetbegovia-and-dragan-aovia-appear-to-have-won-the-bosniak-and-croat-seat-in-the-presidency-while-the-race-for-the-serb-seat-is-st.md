@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/12/bakir-izetbegovia-and-dragan-aovia-appear-to-ha
 
 ### Changes:
 
-1. [Bosnia and Herzegovina general election, 2014: Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bosnia-and-herzegovina-general-election-2014-bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-pr.md) _2017-08-27 03:41:23 (First version)_
+1. [Bosnia and Herzegovina general election, 2014: Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bosnia-and-herzegovina-general-election-2014-bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-pr.md) _2018-02-06 13:49:26 (First version)_
 1. [Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-presidency-while-the-race-for-the-serb-seat-is-st.md) _(Current version)_
 
 ### Related:

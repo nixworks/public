@@ -19,8 +19,8 @@ Hurricane Dean has intensified and developed into a category three hurricane, wi
 
 ### Changes:
 
-1. [ Hurricane Dean: Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-p-hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md) _2017-08-25 03:20:38 (First version)_
-2. [ Hurricane Dean:: Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md) _2017-08-27 03:20:36 (Update)_
+1. [ Hurricane Dean: Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-p-hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md) _2018-02-06 13:49:17 (First version)_
+2. [ Hurricane Dean:: Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md) _2018-02-06 13:49:17 (Update)_
 2. [ Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md) _(Current version)_
 
 ### Related:

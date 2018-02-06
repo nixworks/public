@@ -17,8 +17,8 @@ Egypt says its army will continue its offensive in the Sinai Peninsula until it 
 
 ### Changes:
 
-1. [Sinai insurgency: Egypt vows to continue an offensive on the Sinai Peninsula until ISIL militants have been removed. A hundred people have been killed in fighting in the past two days. ](/news/2015/07/2/sinai-insurgency-egypt-vows-to-continue-an-offensive-on-the-sinai-peninsula-until-isil-militants-have-been-removed-a-hundred-people-have-b.md) _2017-08-25 03:42:20 (First version)_
-2. [Sinai insurgency: July 2015 Sinai attacks: Egypt vows to continue an offensive on the Sinai Peninsula until ISIL militants have been removed. A hundred people have been killed in fighting in the past two days. ](/news/2015/07/2/sinai-insurgency-july-2015-sinai-attacks-egypt-vows-to-continue-an-offensive-on-the-sinai-peninsula-until-isil-militants-have-been-removed.md) _2017-08-27 03:42:38 (Update)_
+1. [Sinai insurgency: July 2015 Sinai attacks: Egypt vows to continue an offensive on the Sinai Peninsula until ISIL militants have been removed. A hundred people have been killed in fighting in the past two days. ](/news/2015/07/2/sinai-insurgency-july-2015-sinai-attacks-egypt-vows-to-continue-an-offensive-on-the-sinai-peninsula-until-isil-militants-have-been-removed.md) _2018-02-06 13:49:27 (First version)_
+2. [Sinai insurgency: Egypt vows to continue an offensive on the Sinai Peninsula until ISIL militants have been removed. A hundred people have been killed in fighting in the past two days. ](/news/2015/07/2/sinai-insurgency-egypt-vows-to-continue-an-offensive-on-the-sinai-peninsula-until-isil-militants-have-been-removed-a-hundred-people-have-b.md) _2018-02-06 13:49:27 (Update)_
 2. [Egypt vows to continue an offensive on the Sinai Peninsula until ISIL militants have been removed. A hundred people have been killed in fighting in the past two days. ](/news/2015/07/2/egypt-vows-to-continue-an-offensive-on-the-sinai-peninsula-until-isil-militants-have-been-removed-a-hundred-people-have-been-killed-in-figh.md) _(Current version)_
 
 ### Related:

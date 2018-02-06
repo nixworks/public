@@ -17,5 +17,5 @@ Formats: [HTML](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guian
 
 ### Changes:
 
-1. [After two weeks of social unrest in French Guiana, the French government promises -1 billion for education, healthcare, security, and justice. ](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guiana-the-french-government-promises-1-billion-for-education-healthcare-security-and-just.md) _2017-08-27 03:48:05 (First version)_
+1. [After two weeks of social unrest in French Guiana, the French government promises -1 billion for education, healthcare, security, and justice. ](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guiana-the-french-government-promises-1-billion-for-education-healthcare-security-and-just.md) _2018-02-06 13:49:30 (First version)_
 1. [After two weeks of social unrest in French Guiana, the French government promises EUR1 billion for education, healthcare, security, and justice. ](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guiana-the-french-government-promises-a-1-billion-for-education-healthcare-security-and-just.md) _(Current version)_

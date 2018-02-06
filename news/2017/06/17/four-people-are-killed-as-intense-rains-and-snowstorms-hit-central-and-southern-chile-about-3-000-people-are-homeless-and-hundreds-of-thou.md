@@ -16,7 +16,7 @@ Intense rains and snowstorms in central and southern Chile have left four people
 
 ### Changes:
 
-1. [Climate of Chile: Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/climate-of-chile-four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-an.md) _2017-08-27 03:48:30 (First version)_
+1. [Climate of Chile: Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/climate-of-chile-four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-an.md) _2018-02-06 13:49:30 (First version)_
 1. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Brain-eating amoeba are blamed in the death of a 21-year-old California woman. H
 
 ### Changes:
 
-1. [Health officials announced that a 21-year-old woman from Bishop, California had died June 20th at Renown Regional Medical Center in Reno, Nevada from cardiac arrest caused by the rare brain-eating amoeba ''Naegleria fowleri''. ](/news/2015/07/2/health-officials-announced-that-a-21-year-old-woman-from-bishop-california-had-died-june-20th-at-renown-regional-medical-center-in-reno-n.md) _2017-08-25 03:42:20 (First version)_
+1. [Health officials announced that a 21-year-old woman from Bishop, California had died June 20th at Renown Regional Medical Center in Reno, Nevada from cardiac arrest caused by the rare brain-eating amoeba ''Naegleria fowleri''. ](/news/2015/07/2/health-officials-announced-that-a-21-year-old-woman-from-bishop-california-had-died-june-20th-at-renown-regional-medical-center-in-reno-n.md) _2018-02-06 13:49:27 (First version)_
 1. [Health officials announced that a 21-year-old woman from Bishop, California had died June 20th at Renown Regional Medical Center in Reno, Nevada from cardiac arrest caused by the rare brain-eating amoeba "Naegleria fowleri". ](/news/2015/07/2/health-officials-announced-that-a-21-year-old-woman-from-bishop-california-had-died-june-20th-at-renown-regional-medical-center-in-reno-ne.md) _(Current version)_
 
 ### Related:

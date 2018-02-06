@@ -17,7 +17,7 @@ North Korea mocks outgoing United Nations Secretary-General Ban Ki-moon over his
 
 ### Changes:
 
-1. [South Korean presidential election, 2017: United Nations secretary-general Ban Ki-moon and liberal candidate Moon Jae-in plan to contest the position vacated by Park Geun-hye. ](/news/2016/12/22/south-korean-presidential-election-2017-united-nations-secretary-general-ban-ki-moon-and-liberal-candidate-moon-jae-in-plan-to-contest-the.md) _2017-08-27 03:47:30 (First version)_
+1. [South Korean presidential election, 2017: United Nations secretary-general Ban Ki-moon and liberal candidate Moon Jae-in plan to contest the position vacated by Park Geun-hye. ](/news/2016/12/22/south-korean-presidential-election-2017-united-nations-secretary-general-ban-ki-moon-and-liberal-candidate-moon-jae-in-plan-to-contest-the.md) _2018-02-06 13:49:30 (First version)_
 1. [United Nations secretary-general Ban Ki-moon and liberal candidate Moon Jae-in plan to contest the position vacated by Park Geun-hye. ](/news/2016/12/22/united-nations-secretary-general-ban-ki-moon-and-liberal-candidate-moon-jae-in-plan-to-contest-the-position-vacated-by-park-geun-hye.md) _(Current version)_
 
 ### Related:

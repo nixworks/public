@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [2017 Mexico-United States diplomatic crisis: Mexico states that it will reject third-country deportees. ](/news/2017/02/24/2017-mexico-united-states-diplomatic-crisis-mexico-states-that-it-will-reject-third-country-deportees.md) _2017-08-27 03:47:53 (First version)_
+1. [2017 Mexico-United States diplomatic crisis: Mexico states that it will reject third-country deportees. ](/news/2017/02/24/2017-mexico-united-states-diplomatic-crisis-mexico-states-that-it-will-reject-third-country-deportees.md) _2018-02-06 13:49:30 (First version)_
 1. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-
 
 ### Changes:
 
-1. [ Chad-Sudan conflict: The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/chad-sudan-conflict-the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _2017-08-27 03:17:44 (First version)_
+1. [ Chad-Sudan conflict: The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/chad-sudan-conflict-the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _(Current version)_
 
 ### Related:

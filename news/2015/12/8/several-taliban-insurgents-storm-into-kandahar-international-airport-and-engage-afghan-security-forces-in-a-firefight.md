@@ -16,7 +16,7 @@ At least 22 officers killed and hostages held as regional leaders meet in Pakist
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Several Taliban insurgents storm into Kandahar International Airport and engage Afghan security forces in a firefight. ](/news/2015/12/8/war-in-afghanistan-2015-present-several-taliban-insurgents-storm-into-kandahar-international-airport-and-engage-afghan-security-forces.md) _2017-08-27 03:44:16 (First version)_
+1. [War in Afghanistan (2015-present): Several Taliban insurgents storm into Kandahar International Airport and engage Afghan security forces in a firefight. ](/news/2015/12/8/war-in-afghanistan-2015-present-several-taliban-insurgents-storm-into-kandahar-international-airport-and-engage-afghan-security-forces.md) _2018-02-06 13:49:28 (First version)_
 1. [Several Taliban insurgents storm into Kandahar International Airport and engage Afghan security forces in a firefight. ](/news/2015/12/8/several-taliban-insurgents-storm-into-kandahar-international-airport-and-engage-afghan-security-forces-in-a-firefight.md) _(Current version)_
 
 ### Related:

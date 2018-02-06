@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-i
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/war-in-afghanistan-2015-present-a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuri.md) _2017-08-27 03:46:14 (First version)_
+1. [War in Afghanistan (2015-present): A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/war-in-afghanistan-2015-present-a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuri.md) _2018-02-06 13:49:29 (First version)_
 1. [A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuring-nearly-40-more.md) _(Current version)_
 
 ### Related:

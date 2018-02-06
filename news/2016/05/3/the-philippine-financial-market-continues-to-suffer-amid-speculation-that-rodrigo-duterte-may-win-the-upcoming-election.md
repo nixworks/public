@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/3/the-philippine-financial-market-continues-to-suf
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/philippine-presidential-election-2016-the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-th.md) _2017-08-27 03:45:58 (First version)_
+1. [Philippine presidential election, 2016: The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/philippine-presidential-election-2016-the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-th.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-the-upcoming-election.md) _(Current version)_
 
 ### Related:

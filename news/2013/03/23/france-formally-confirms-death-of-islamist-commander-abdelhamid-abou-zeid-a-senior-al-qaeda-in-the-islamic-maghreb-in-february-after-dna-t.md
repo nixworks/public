@@ -16,8 +16,8 @@ The French presidency confirms &quot;with certainty&quot; reports that Islamist 
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012apresent-pfrance-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the.md) _2017-08-25 03:37:59 (First version)_
-2. [Northern Mali conflict (2012-present):: France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012-present-france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-th.md) _2017-08-27 03:38:10 (Update)_
+1. [Northern Mali conflict (2012-present):France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012apresent-pfrance-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012-present-france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-th.md) _2018-02-06 13:49:24 (Update)_
 2. [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md) _(Current version)_
 
 ### Related:

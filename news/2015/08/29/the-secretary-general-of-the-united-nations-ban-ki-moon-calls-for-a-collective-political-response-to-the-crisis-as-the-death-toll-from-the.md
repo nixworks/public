@@ -17,7 +17,7 @@ The UN says &quot;much more is required&quot; to prevent fatalities among migran
 
 ### Changes:
 
-1. [European migrant crisis: The Secretary-General of the United Nations Ban Ki-moon calls for a "collective political response" to the crisis as the death toll from the latest boat to sink in the Mediterranean Sea rises to 171. ](/news/2015/08/29/european-migrant-crisis-the-secretary-general-of-the-united-nations-ban-ki-moon-calls-for-a-collective-political-response-to-the-crisis-a.md) _2017-08-27 03:42:55 (First version)_
+1. [European migrant crisis: The Secretary-General of the United Nations Ban Ki-moon calls for a "collective political response" to the crisis as the death toll from the latest boat to sink in the Mediterranean Sea rises to 171. ](/news/2015/08/29/european-migrant-crisis-the-secretary-general-of-the-united-nations-ban-ki-moon-calls-for-a-collective-political-response-to-the-crisis-a.md) _2018-02-06 13:49:27 (First version)_
 1. [The Secretary-General of the United Nations Ban Ki-moon calls for a "collective political response" to the crisis as the death toll from the latest boat to sink in the Mediterranean Sea rises to 171. ](/news/2015/08/29/the-secretary-general-of-the-united-nations-ban-ki-moon-calls-for-a-collective-political-response-to-the-crisis-as-the-death-toll-from-the.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/17/ugandan-police-release-theatre-producer-david-c
 
 ### Changes:
 
-1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of ''The River and the Mountain'', a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountai.md) _2017-08-25 03:36:32 (First version)_
+1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of ''The River and the Mountain'', a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountai.md) _2018-02-06 13:49:23 (First version)_
 1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md) _(Current version)_
 
 ### Related:

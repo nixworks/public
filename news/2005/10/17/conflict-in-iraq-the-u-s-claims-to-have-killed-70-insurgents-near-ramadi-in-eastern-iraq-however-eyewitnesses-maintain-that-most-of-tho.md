@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/10/17/conflict-in-iraq-the-u-s-claims-to-have-killed-
 
 ### Changes:
 
-1. [ Conflict in Iraq: The U.S. claims to have killed 70 insurgents near Ramadi in eastern Iraq. However, eyewitnesses maintain that most of those killed were innocent civilians, and photographs released show locals burying at least 18 children, including infants. ](/news/2005/10/17/conflict-in-iraq-the-u-s-claims-to-have-killed-70-insurgents-near-ramadi-in-eastern-iraq-however-eyewitnesses-maintain-that-most-of-th.md) _2017-08-25 03:16:59 (First version)_
+1. [ Conflict in Iraq: The U.S. claims to have killed 70 insurgents near Ramadi in eastern Iraq. However, eyewitnesses maintain that most of those killed were innocent civilians, and photographs released show locals burying at least 18 children, including infants. ](/news/2005/10/17/conflict-in-iraq-the-u-s-claims-to-have-killed-70-insurgents-near-ramadi-in-eastern-iraq-however-eyewitnesses-maintain-that-most-of-th.md) _2018-02-06 13:49:16 (First version)_
 1. [ Conflict in Iraq: The U.S. claims to have killed 70 insurgents near Ramadi in eastern Iraq. However, eyewitnesses maintain that most of those killed were innocent civilians, and photographs released show locals burying at least 18 children, including infants. ](/news/2005/10/17/conflict-in-iraq-the-u-s-claims-to-have-killed-70-insurgents-near-ramadi-in-eastern-iraq-however-eyewitnesses-maintain-that-most-of-tho.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Four policemen have been killed in a drive-by shooting at a security checkpoint 
 
 ### Changes:
 
-1. [Terrorism in Egypt: At least four Egyptian police officers are killed in a drive-by shooting in Saqqara, south of Cairo. An Islamic State of Iraq and the Levant affiliate claims responsibility. ](/news/2015/11/28/terrorism-in-egypt-at-least-four-egyptian-police-officers-are-killed-in-a-drive-by-shooting-in-saqqara-south-of-cairo-an-islamic-state-of.md) _2017-08-27 03:44:05 (First version)_
+1. [Terrorism in Egypt: At least four Egyptian police officers are killed in a drive-by shooting in Saqqara, south of Cairo. An Islamic State of Iraq and the Levant affiliate claims responsibility. ](/news/2015/11/28/terrorism-in-egypt-at-least-four-egyptian-police-officers-are-killed-in-a-drive-by-shooting-in-saqqara-south-of-cairo-an-islamic-state-of.md) _2018-02-06 13:49:28 (First version)_
 1. [At least four Egyptian police officers are killed in a drive-by shooting in Saqqara, south of Cairo. An Islamic State of Iraq and the Levant affiliate claims responsibility. ](/news/2015/11/28/at-least-four-egyptian-police-officers-are-killed-in-a-drive-by-shooting-in-saqqara-south-of-cairo-an-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Gang violence in El Salvador left 907 people dead last month, a level of bloodsh
 
 ### Changes:
 
-1. [Crime in El Salvador: There have been 907 deaths last month in El Salvador as a result of gang violence, a death rate not seen since the Salvadoran Civil War of the 1980s. ](/news/2015/09/2/crime-in-el-salvador-there-have-been-907-deaths-last-month-in-el-salvador-as-a-result-of-gang-violence-a-death-rate-not-seen-since-the-sal.md) _2017-08-27 03:42:57 (First version)_
+1. [Crime in El Salvador: There have been 907 deaths last month in El Salvador as a result of gang violence, a death rate not seen since the Salvadoran Civil War of the 1980s. ](/news/2015/09/2/crime-in-el-salvador-there-have-been-907-deaths-last-month-in-el-salvador-as-a-result-of-gang-violence-a-death-rate-not-seen-since-the-sal.md) _2018-02-06 13:49:27 (First version)_
 1. [There have been 907 deaths last month in El Salvador as a result of gang violence, a death rate not seen since the Salvadoran Civil War of the 1980s. ](/news/2015/09/2/there-have-been-907-deaths-last-month-in-el-salvador-as-a-result-of-gang-violence-a-death-rate-not-seen-since-the-salvadoran-civil-war-of-t.md) _(Current version)_
 
 ### Related:

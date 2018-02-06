@@ -16,8 +16,8 @@ Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
 
 ### Changes:
 
-1. [Two Indonesian men are publicly caned by local authorities on accusation of homosexual intercourse, which is illegal in the Muslim-majority autonomous province of Aceh. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-on-accusation-of-homosexual-intercourse-which-is-illegal-in-the-muslim-majority.md) _2017-05-24 03:49:45 (First version)_
-2. [LGBT rights in Indonesia: Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/lgbt-rights-in-indonesia-two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _2017-08-27 03:48:23 (Update)_
+1. [Two Indonesian men are publicly caned by local authorities on accusation of homosexual intercourse, which is illegal in the Muslim-majority autonomous province of Aceh. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-on-accusation-of-homosexual-intercourse-which-is-illegal-in-the-muslim-majority.md) _2018-02-06 13:49:30 (First version)_
+2. [LGBT rights in Indonesia: Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/lgbt-rights-in-indonesia-two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _2018-02-06 13:49:30 (Update)_
 2. [Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _(Current version)_
 
 ### Related:

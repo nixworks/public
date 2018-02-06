@@ -17,7 +17,7 @@ A leading Russian opposition politician Boris Nemtsov has been shot dead in Mosc
 
 ### Changes:
 
-1. [Assassination of Boris Nemtsov: In Moscow, an unidentified attacker assassinates leading Russian opposition politician Boris Nemtsov, the former Deputy Chairman of the Government of the Russian Federation and current member of regional parliament of Yaroslavl Oblast. ](/news/2015/02/27/assassination-of-boris-nemtsov-in-moscow-an-unidentified-attacker-assassinates-leading-russian-opposition-politician-boris-nemtsov-the-fo.md) _2017-08-27 03:42:01 (First version)_
+1. [Assassination of Boris Nemtsov: In Moscow, an unidentified attacker assassinates leading Russian opposition politician Boris Nemtsov, the former Deputy Chairman of the Government of the Russian Federation and current member of regional parliament of Yaroslavl Oblast. ](/news/2015/02/27/assassination-of-boris-nemtsov-in-moscow-an-unidentified-attacker-assassinates-leading-russian-opposition-politician-boris-nemtsov-the-fo.md) _2018-02-06 13:49:26 (First version)_
 1. [In Moscow, an unidentified attacker assassinates leading Russian opposition politician Boris Nemtsov, the former Deputy Chairman of the Government of the Russian Federation and current member of regional parliament of Yaroslavl Oblast. ](/news/2015/02/27/in-moscow-an-unidentified-attacker-assassinates-leading-russian-opposition-politician-boris-nemtsov-the-former-deputy-chairman-of-the-gove.md) _(Current version)_
 
 ### Related:

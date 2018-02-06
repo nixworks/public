@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-
 
 ### Changes:
 
-1. [Acting on requests from neighboring Italy, Swiss authorities arrest 15 people sought as suspected members of the 'Ndrangheta organized crime syndicate, a Mafia-type organization centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-cri.md) _2017-08-25 03:44:50 (First version)_
+1. [Acting on requests from neighboring Italy, Swiss authorities arrest 15 people sought as suspected members of the 'Ndrangheta organized crime syndicate, a Mafia-type organization centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-cri.md) _2018-02-06 13:49:28 (First version)_
 1. [Acting on requests from neighboring Italy, Swiss authorities arrest 15 people sought as suspected members of the 'Ndrangheta organized crime syndicate, a Mafia-type organization centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-crime.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ IDF carries out heaviest strikes to date in northern Gaza. Territory plunged int
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict:Eighteen people die in airstrikes on Gaza City as the fighting intensifies. IDF reported performing over 200 airstrikes today. ](/news/2014/07/29/2014-israelagaza-conflict-peighteen-people-die-in-airstrikes-on-gaza-city-as-the-fighting-intensifies-idf-reported-performing-over-200-ai.md) _2017-08-25 03:40:46 (First version)_
-2. [2014 Israel-Gaza conflict:: Eighteen people die in airstrikes on Gaza City as the fighting intensifies. IDF reported performing over 200 airstrikes today. ](/news/2014/07/29/2014-israel-gaza-conflict-eighteen-people-die-in-airstrikes-on-gaza-city-as-the-fighting-intensifies-idf-reported-performing-over-200-a.md) _2017-08-27 03:41:04 (Update)_
+1. [2014 Israel-Gaza conflict:Eighteen people die in airstrikes on Gaza City as the fighting intensifies. IDF reported performing over 200 airstrikes today. ](/news/2014/07/29/2014-israelagaza-conflict-peighteen-people-die-in-airstrikes-on-gaza-city-as-the-fighting-intensifies-idf-reported-performing-over-200-ai.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Israel-Gaza conflict:: Eighteen people die in airstrikes on Gaza City as the fighting intensifies. IDF reported performing over 200 airstrikes today. ](/news/2014/07/29/2014-israel-gaza-conflict-eighteen-people-die-in-airstrikes-on-gaza-city-as-the-fighting-intensifies-idf-reported-performing-over-200-a.md) _2018-02-06 13:49:26 (Update)_
 2. [Eighteen people die in airstrikes on Gaza City as the fighting intensifies. IDF reported performing over 200 airstrikes today. ](/news/2014/07/29/eighteen-people-die-in-airstrikes-on-gaza-city-as-the-fighting-intensifies-idf-reported-performing-over-200-airstrikes-today.md) _(Current version)_
 
 ### Related:

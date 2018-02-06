@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-pas
 
 ### Changes:
 
-1. [European migrant crisis: EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed -serious deficiencies- at the Greek border that endanger the overall area. ](/news/2015/12/3/european-migrant-crisis-eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant.md) _2017-08-27 03:44:10 (First version)_
+1. [European migrant crisis: EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed -serious deficiencies- at the Greek border that endanger the overall area. ](/news/2015/12/3/european-migrant-crisis-eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant.md) _2018-02-06 13:49:28 (First version)_
 1. [EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed "serious deficiencies" at the Greek border that endanger the overall area. ](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant-crisis-has-exposed-ase.md) _(Current version)_
 
 ### Related:

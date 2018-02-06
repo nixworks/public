@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/07/10/one-person-is-killed-by-a-bull-the-third-fatali
 
 ### Changes:
 
-1. [ One person is killed by a bull, the first such fatality in 14 years, during the Running of the Bulls in Pamplona, Spain. ](/news/2009/07/10/one-person-is-killed-by-a-bull-the-first-such-fatality-in-14-years-during-the-running-of-the-bulls-in-pamplona-spain.md) _2017-10-12 03:29:19 (First version)_
+1. [ One person is killed by a bull, the first such fatality in 14 years, during the Running of the Bulls in Pamplona, Spain. ](/news/2009/07/10/one-person-is-killed-by-a-bull-the-first-such-fatality-in-14-years-during-the-running-of-the-bulls-in-pamplona-spain.md) _2018-02-06 13:49:19 (First version)_
 1. [ One person is killed by a bull, (the third fatality since 1980), during the Running of the Bulls in Pamplona, Spain. ](/news/2009/07/10/one-person-is-killed-by-a-bull-the-third-fatality-since-1980-during-the-running-of-the-bulls-in-pamplona-spain.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ One man has been killed and two others taken to hospital during a shooting at a 
 
 ### Changes:
 
-1. [A gunman, who killed one man, injured two others, and was holding three people hostage, is found dead when an armed tactical response police team storms a building in the Ingleburn industrial area in suburban Sydney, Australia. All hostages were unharmed. ](/news/2016/03/7/a-gunman-who-killed-one-man-injured-two-others-and-was-holding-three-people-hostage-is-found-dead-when-an-armed-tactical-response-polic.md) _2017-08-25 03:44:49 (First version)_
+1. [A gunman, who killed one man, injured two others, and was holding three people hostage, is found dead when an armed tactical response police team storms a building in the Ingleburn industrial area in suburban Sydney, Australia. All hostages were unharmed. ](/news/2016/03/7/a-gunman-who-killed-one-man-injured-two-others-and-was-holding-three-people-hostage-is-found-dead-when-an-armed-tactical-response-polic.md) _2018-02-06 13:49:28 (First version)_
 1. [A gunman, who killed one man, injured two others, and was holding three people hostage, is found dead when an armed tactical response police team storms a building in the Ingleburn industrial area in suburban Sydney, Australia. All hostages were unharmed. ](/news/2016/03/7/a-gunman-who-killed-one-man-injured-two-others-and-was-holding-three-people-hostage-is-found-dead-when-an-armed-tactical-response-police.md) _(Current version)_
 
 ### Related:

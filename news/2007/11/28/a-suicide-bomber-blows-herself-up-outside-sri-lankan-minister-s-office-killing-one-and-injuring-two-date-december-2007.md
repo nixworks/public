@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-l
 
 ### Changes:
 
-1. [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.{{Fact|date=December 2007}} ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-fact-date-december-2007.md) _2017-05-01 03:22:24 (First version)_
+1. [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.{{Fact|date=December 2007}} ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.date=December 2007 ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-date-december-2007.md) _(Current version)_
 
 ### Related:

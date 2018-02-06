@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/31/islamic-state-militants-attack-two-gas-faciliti
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/iraqi-civil-war-2014-present-islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-f.md) _2017-08-27 03:46:34 (First version)_
+1. [Iraqi Civil War (2014-present): Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/iraqi-civil-war-2014-present-islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-f.md) _2018-02-06 13:49:29 (First version)_
 1. [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md) _(Current version)_
 
 ### Related:

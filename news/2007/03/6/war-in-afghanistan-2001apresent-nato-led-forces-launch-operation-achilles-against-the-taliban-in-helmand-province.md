@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/6/war-in-afghanistan-2001apresent-nato-led-forces-
 
 ### Changes:
 
-1. [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001-present-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md) _2017-08-27 03:19:16 (First version)_
+1. [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001-present-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md) _2018-02-06 13:49:17 (First version)_
 1. [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001apresent-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md) _(Current version)_
 
 ### Related:

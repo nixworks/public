@@ -16,8 +16,8 @@ U.S. missiles slammed into three compounds close to the Afghan border Friday, ki
 
 ### Changes:
 
-1. [War on terror:Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-pafghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2017-08-25 03:36:19 (First version)_
-2. [War on terror:: Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2017-08-27 03:36:31 (Update)_
+1. [War on terror:Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-pafghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2018-02-06 13:49:23 (First version)_
+2. [War on terror:: Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2018-02-06 13:49:23 (Update)_
 2. [Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _(Current version)_
 
 ### Related:

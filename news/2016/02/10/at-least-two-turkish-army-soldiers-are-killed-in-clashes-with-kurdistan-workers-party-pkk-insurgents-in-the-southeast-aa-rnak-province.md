@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/10/at-least-two-turkish-army-soldiers-are-killed-i
 
 ### Changes:
 
-1. [PKK rebellion (2015-present): At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/pkk-rebellion-2015-present-at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-t.md) _2017-08-27 03:44:52 (First version)_
+1. [PKK rebellion (2015-present): At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/pkk-rebellion-2015-present-at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-t.md) _2018-02-06 13:49:28 (First version)_
 1. [At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-the-southeast-aa-rnak-province.md) _(Current version)_
 
 ### Related:

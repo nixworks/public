@@ -16,7 +16,7 @@ A United Nations human rights body accused Israeli forces on Thursday of mistrea
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeli-palestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md) _2017-08-27 03:39:07 (First version)_
+1. [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeli-palestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md) _2018-02-06 13:49:25 (First version)_
 1. [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeliapalestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md) _(Current version)_
 
 ### Related:

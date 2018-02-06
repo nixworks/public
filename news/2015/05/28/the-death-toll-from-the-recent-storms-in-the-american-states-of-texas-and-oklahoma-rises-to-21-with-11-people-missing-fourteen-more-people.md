@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [Tornadoes of 2015 and The death toll from the recent storms in the American states of Texas and Oklahoma rises to 21 with 11 people missing. Fourteen more people have been killed in northern Mexico. ](/news/2015/05/28/tornadoes-of-2015-and-the-death-toll-from-the-recent-storms-in-the-american-states-of-texas-and-oklahoma-rises-to-21-with-11-people-missing.md) _2017-08-25 03:42:07 (First version)_
+1. [Tornadoes of 2015 and The death toll from the recent storms in the American states of Texas and Oklahoma rises to 21 with 11 people missing. Fourteen more people have been killed in northern Mexico. ](/news/2015/05/28/tornadoes-of-2015-and-the-death-toll-from-the-recent-storms-in-the-american-states-of-texas-and-oklahoma-rises-to-21-with-11-people-missing.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the recent storms in the American states of Texas and Oklahoma rises to 21 with 11 people missing. Fourteen more people have been killed in northern Mexico. ](/news/2015/05/28/the-death-toll-from-the-recent-storms-in-the-american-states-of-texas-and-oklahoma-rises-to-21-with-11-people-missing-fourteen-more-people.md) _(Current version)_
 
 ### Related:

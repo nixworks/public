@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/11/following-a-court-injunction-authorising-the-cl
 
 ### Changes:
 
-1. [Umbrella Revolution: Following a court injunction authorising the clearance of protest sites, pro-democracy protesters in Hong Kong are warned they could face arrest if they do not leave the sites. ](/news/2014/11/11/umbrella-revolution-following-a-court-injunction-authorising-the-clearance-of-protest-sites-pro-democracy-protesters-in-hong-kong-are-warn.md) _2017-08-27 03:41:30 (First version)_
+1. [Umbrella Revolution: Following a court injunction authorising the clearance of protest sites, pro-democracy protesters in Hong Kong are warned they could face arrest if they do not leave the sites. ](/news/2014/11/11/umbrella-revolution-following-a-court-injunction-authorising-the-clearance-of-protest-sites-pro-democracy-protesters-in-hong-kong-are-warn.md) _2018-02-06 13:49:26 (First version)_
 1. [Following a court injunction authorising the clearance of protest sites, pro-democracy protesters in Hong Kong are warned they could face arrest if they do not leave the sites. ](/news/2014/11/11/following-a-court-injunction-authorising-the-clearance-of-protest-sites-pro-democracy-protesters-in-hong-kong-are-warned-they-could-face-ar.md) _(Current version)_
 
 ### Related:

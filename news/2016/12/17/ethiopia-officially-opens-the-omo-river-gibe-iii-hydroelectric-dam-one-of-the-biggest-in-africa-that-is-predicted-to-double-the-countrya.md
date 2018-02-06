@@ -17,7 +17,7 @@ But environmentalists and rights groups warn the project will dramatically decre
 
 ### Changes:
 
-1. [ Ethiopia officially opens the Omo River Gibe III hydroelectric dam, one of the biggest in Africa, that is predicted to double the country-s electricity output. Critics are concerned about this dam's impact on locals, on the environment, including Kenya's Lake Turkana, and on neighboring countries. ](/news/2016/12/17/ethiopia-officially-opens-the-omo-river-gibe-iii-hydroelectric-dam-one-of-the-biggest-in-africa-that-is-predicted-to-double-the-country.md) _2017-08-27 03:47:27 (First version)_
+1. [ Ethiopia officially opens the Omo River Gibe III hydroelectric dam, one of the biggest in Africa, that is predicted to double the country-s electricity output. Critics are concerned about this dam's impact on locals, on the environment, including Kenya's Lake Turkana, and on neighboring countries. ](/news/2016/12/17/ethiopia-officially-opens-the-omo-river-gibe-iii-hydroelectric-dam-one-of-the-biggest-in-africa-that-is-predicted-to-double-the-country.md) _2018-02-06 13:49:30 (First version)_
 1. [ Ethiopia officially opens the Omo River Gibe III hydroelectric dam, one of the biggest in Africa, that is predicted to double the country's electricity output. Critics are concerned about this dam's impact on locals, on the environment, including Kenya's Lake Turkana, and on neighboring countries. ](/news/2016/12/17/ethiopia-officially-opens-the-omo-river-gibe-iii-hydroelectric-dam-one-of-the-biggest-in-africa-that-is-predicted-to-double-the-countrya.md) _(Current version)_
 
 ### Related:

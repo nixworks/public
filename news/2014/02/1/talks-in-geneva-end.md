@@ -16,8 +16,8 @@ Syrian rival delegations end a week-long peace conference in Geneva by trading i
 
 ### Changes:
 
-1. [Syrian Civil War:Talks in Geneva end. ](/news/2014/02/1/syrian-civil-war-ptalks-in-geneva-end.md) _2017-08-25 03:39:57 (First version)_
-2. [Syrian Civil War:: Talks in Geneva end. ](/news/2014/02/1/syrian-civil-war-talks-in-geneva-end.md) _2017-08-27 03:40:15 (Update)_
+1. [Syrian Civil War:: Talks in Geneva end. ](/news/2014/02/1/syrian-civil-war-talks-in-geneva-end.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Talks in Geneva end. ](/news/2014/02/1/syrian-civil-war-ptalks-in-geneva-end.md) _2018-02-06 13:49:25 (Update)_
 2. [Talks in Geneva end. ](/news/2014/02/1/talks-in-geneva-end.md) _(Current version)_
 
 ### Related:

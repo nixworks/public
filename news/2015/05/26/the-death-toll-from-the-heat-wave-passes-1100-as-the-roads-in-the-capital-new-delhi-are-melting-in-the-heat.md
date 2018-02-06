@@ -16,7 +16,7 @@ HYDERABAD, India - At least 800 people have died in a major heatwave that has sw
 
 ### Changes:
 
-1. [2015 India heat wave: The death toll from the heat wave passes 1100 as the roads in the capital New Delhi are melting in the heat. ](/news/2015/05/26/2015-india-heat-wave-the-death-toll-from-the-heat-wave-passes-1100-as-the-roads-in-the-capital-new-delhi-are-melting-in-the-heat.md) _2017-08-27 03:42:24 (First version)_
+1. [2015 India heat wave: The death toll from the heat wave passes 1100 as the roads in the capital New Delhi are melting in the heat. ](/news/2015/05/26/2015-india-heat-wave-the-death-toll-from-the-heat-wave-passes-1100-as-the-roads-in-the-capital-new-delhi-are-melting-in-the-heat.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the heat wave passes 1100 as the roads in the capital New Delhi are melting in the heat. ](/news/2015/05/26/the-death-toll-from-the-heat-wave-passes-1100-as-the-roads-in-the-capital-new-delhi-are-melting-in-the-heat.md) _(Current version)_
 
 ### Related:

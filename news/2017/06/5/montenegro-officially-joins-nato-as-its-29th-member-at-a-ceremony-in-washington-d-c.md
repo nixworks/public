@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-mem
 
 ### Changes:
 
-1. [Montenegro-NATO relations: Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-nato-relations-montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md) _2017-08-27 03:48:26 (First version)_
+1. [Montenegro-NATO relations: Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-nato-relations-montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md) _2018-02-06 13:49:30 (First version)_
 1. [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md) _(Current version)_
 
 ### Related:

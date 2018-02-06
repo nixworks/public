@@ -16,7 +16,7 @@ Journalists at the Financial Times have voted for strike action over proposed ch
 
 ### Changes:
 
-1. [Britain's National Union of Journalists announces a strike against the ''Financial Times'', protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-s.md) _2017-08-25 03:43:39 (First version)_
+1. [Britain's National Union of Journalists announces a strike against the ''Financial Times'', protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Britain's National Union of Journalists announces a strike against the "Financial Times", protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-sin.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Morocco rejoins the AU after a 33-year absence, despite resistance from member s
 
 ### Changes:
 
-1. [Enlargement of the African Union: Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/enlargement-of-the-african-union-morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-o.md) _2017-08-27 03:47:44 (First version)_
+1. [Enlargement of the African Union: Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/enlargement-of-the-african-union-morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-o.md) _2018-02-06 13:49:30 (First version)_
 1. [Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-over-the-political-status-of-wester.md) _(Current version)_
 
 ### Related:

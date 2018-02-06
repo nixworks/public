@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/10/the-prime-minister-of-lebanon-fuad-saniora-accu
 
 ### Changes:
 
-1. [ 2008 unrest in Lebanon: The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/2008-unrest-in-lebanon-p-the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md) _2017-08-25 03:22:09 (First version)_
-2. [ 2008 unrest in Lebanon:: The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/2008-unrest-in-lebanon-the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md) _2017-08-27 03:22:03 (Update)_
+1. [ 2008 unrest in Lebanon:: The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/2008-unrest-in-lebanon-the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Lebanon: The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/2008-unrest-in-lebanon-p-the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md) _(Current version)_
 
 ### Related:

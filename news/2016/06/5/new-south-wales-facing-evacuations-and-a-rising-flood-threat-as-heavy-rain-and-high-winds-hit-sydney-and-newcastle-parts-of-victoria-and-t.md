@@ -16,8 +16,8 @@ Northern NSW faces flooding threat, while Victoria and Tasmania prepare for the 
 
 ### Changes:
 
-1. [ New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcastle-parts-of-victoria-and.md) _2017-08-25 03:45:50 (First version)_
-2. [ Australian east coast low: New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/australian-east-coast-low-new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcast.md) _2017-08-27 03:46:12 (Update)_
+1. [ New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcastle-parts-of-victoria-and.md) _2018-02-06 13:49:29 (First version)_
+2. [ Australian east coast low: New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/australian-east-coast-low-new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcast.md) _2018-02-06 13:49:29 (Update)_
 2. [ New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcastle-parts-of-victoria-and-t.md) _(Current version)_
 
 ### Related:

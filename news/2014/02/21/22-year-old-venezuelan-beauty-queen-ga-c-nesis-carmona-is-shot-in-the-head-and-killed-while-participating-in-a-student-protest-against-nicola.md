@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/21/22-year-old-venezuelan-beauty-queen-ga-c-nesis-
 
 ### Changes:
 
-1. [2014 Venezuelan protests:22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-p22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stude.md) _2017-08-25 03:40:04 (First version)_
-2. [2014 Venezuelan protests:: 22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stud.md) _2017-08-27 03:40:22 (Update)_
+1. [2014 Venezuelan protests:22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-p22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stude.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Venezuelan protests:: 22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stud.md) _2018-02-06 13:49:25 (Update)_
 2. [22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-student-protest-against-nicola.md) _(Current version)_
 
 ### Related:

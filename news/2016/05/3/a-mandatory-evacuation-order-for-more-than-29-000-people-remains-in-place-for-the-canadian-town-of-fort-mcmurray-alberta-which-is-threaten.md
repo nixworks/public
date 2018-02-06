@@ -17,7 +17,7 @@ Crews had seemed to be making progress controlling the blaze, burning since the 
 
 ### Changes:
 
-1. [May 2016 Fort McMurray wildfire: A mandatory evacuation order for more than 29,000 people remains in place for the Canadian town of Fort McMurray, Alberta, which is threatened by an out of control wildfire. ](/news/2016/05/3/may-2016-fort-mcmurray-wildfire-a-mandatory-evacuation-order-for-more-than-29-000-people-remains-in-place-for-the-canadian-town-of-fort-mcm.md) _2017-08-27 03:45:58 (First version)_
+1. [May 2016 Fort McMurray wildfire: A mandatory evacuation order for more than 29,000 people remains in place for the Canadian town of Fort McMurray, Alberta, which is threatened by an out of control wildfire. ](/news/2016/05/3/may-2016-fort-mcmurray-wildfire-a-mandatory-evacuation-order-for-more-than-29-000-people-remains-in-place-for-the-canadian-town-of-fort-mcm.md) _2018-02-06 13:49:29 (First version)_
 1. [A mandatory evacuation order for more than 29,000 people remains in place for the Canadian town of Fort McMurray, Alberta, which is threatened by an out of control wildfire. ](/news/2016/05/3/a-mandatory-evacuation-order-for-more-than-29-000-people-remains-in-place-for-the-canadian-town-of-fort-mcmurray-alberta-which-is-threaten.md) _(Current version)_
 
 ### Related:

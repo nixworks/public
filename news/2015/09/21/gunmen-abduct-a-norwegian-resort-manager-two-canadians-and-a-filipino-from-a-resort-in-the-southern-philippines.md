@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/21/gunmen-abduct-a-norwegian-resort-manager-two-ca
 
 ### Changes:
 
-1. [Moro conflict: Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/moro-conflict-gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md) _2017-08-27 03:43:07 (First version)_
+1. [Moro conflict: Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/moro-conflict-gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md) _2018-02-06 13:49:27 (First version)_
 1. [Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md) _(Current version)_
 
 ### Related:

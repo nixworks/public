@@ -25,8 +25,8 @@ Defense Ministry reports that Barak will remain in Israel until team of experts 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/israeliapalestinian-conflict-parriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-ar.md) _2017-08-25 03:28:15 (First version)_
-2. [Israeli-Palestinian conflict:: Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/israeli-palestinian-conflict-arriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-a.md) _2017-08-27 03:28:15 (Update)_
+1. [Israeli-Palestinian conflict:Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/israeliapalestinian-conflict-parriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-ar.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/israeli-palestinian-conflict-arriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-a.md) _2018-02-06 13:49:20 (Update)_
 2. [Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/arriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-arab-league-amr-moussa-calls-for.md) _(Current version)_
 
 ### Related:

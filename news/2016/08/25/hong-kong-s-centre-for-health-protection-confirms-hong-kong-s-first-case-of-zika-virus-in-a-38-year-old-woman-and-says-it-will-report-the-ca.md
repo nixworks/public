@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confir
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/2015-16-zika-virus-epidemic-hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman.md) _2017-08-27 03:46:42 (First version)_
+1. [2015-16 Zika virus epidemic: Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/2015-16-zika-virus-epidemic-hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman.md) _2018-02-06 13:49:29 (First version)_
 1. [Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman-and-says-it-will-report-the-ca.md) _(Current version)_
 
 ### Related:

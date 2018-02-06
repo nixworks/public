@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/06/16/ukraine-s-president-petro-poroshenko-says-he-wi
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine:Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-pukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md) _2017-08-25 03:40:34 (First version)_
-2. [2014 pro-Russian conflict in Ukraine:: Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md) _2017-08-27 03:40:51 (Update)_
+1. [2014 pro-Russian conflict in Ukraine:: Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian conflict in Ukraine:Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-pukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include-a-ceasefire-in-the-conflict.md) _(Current version)_
 
 ### Related:

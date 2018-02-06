@@ -16,7 +16,7 @@ The Supreme Court orders a new vote citing irregularities, sparking joy among op
 
 ### Changes:
 
-1. [The Supreme Court of Kenya annuls the results of the recent presidential election due to irregularities and orders a new election. ](/news/2017/09/1/the-supreme-court-of-kenya-annuls-the-results-of-the-recent-presidential-election-due-to-irregularities-and-orders-a-new-election.md) _2017-09-01 14:30:05 (First version)_
+1. [The Supreme Court of Kenya annuls the results of the recent presidential election due to irregularities and orders a new election. ](/news/2017/09/1/the-supreme-court-of-kenya-annuls-the-results-of-the-recent-presidential-election-due-to-irregularities-and-orders-a-new-election.md) _2018-02-06 13:49:31 (First version)_
 1. [The Supreme Court of Kenya annuls the results of the recent presidential election, that indicated President Uhuru Kenyatta was reelected, due to irregularities, and orders a new election. ](/news/2017/09/1/the-supreme-court-of-kenya-annuls-the-results-of-the-recent-presidential-election-that-indicated-president-uhuru-kenyatta-was-reelected-du.md) _(Current version)_
 
 ### Related:

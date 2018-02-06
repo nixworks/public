@@ -15,7 +15,7 @@ The House bill would impose new sanctions on Russia, Iran and North Korea, and p
 
 ### Changes:
 
-1. [United States embargoes: The U.S. House of Representatives votes in favor of economic sanctions against Russia for its interference in the 2016 U.S. election, and against Iran and North Korea for their weapons programs. ](/news/2017/07/25/united-states-embargoes-the-u-s-house-of-representatives-votes-in-favor-of-economic-sanctions-against-russia-for-its-interference-in-the-2.md) _2017-08-27 03:48:43 (First version)_
+1. [United States embargoes: The U.S. House of Representatives votes in favor of economic sanctions against Russia for its interference in the 2016 U.S. election, and against Iran and North Korea for their weapons programs. ](/news/2017/07/25/united-states-embargoes-the-u-s-house-of-representatives-votes-in-favor-of-economic-sanctions-against-russia-for-its-interference-in-the-2.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. House of Representatives votes in favor of economic sanctions against Russia for its interference in the 2016 U.S. election, and against Iran and North Korea for their weapons programs. ](/news/2017/07/25/the-u-s-house-of-representatives-votes-in-favor-of-economic-sanctions-against-russia-for-its-interference-in-the-2016-u-s-election-and-ag.md) _(Current version)_
 
 ### Related:

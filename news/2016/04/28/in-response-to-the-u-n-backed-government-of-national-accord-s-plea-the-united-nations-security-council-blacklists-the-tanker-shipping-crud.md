@@ -16,7 +16,7 @@ Security council blacklists Indian-flagged cargo ship for illegally transporting
 
 ### Changes:
 
-1. [Libyan Civil War: In response to the U.N.-backed Government of National Accord's plea, the United Nations Security Council blacklists the tanker shipping crude oil by the unrecognized rival House of Representatives government in eastern Libya. ](/news/2016/04/28/libyan-civil-war-in-response-to-the-u-n-backed-government-of-national-accord-s-plea-the-united-nations-security-council-blacklists-the-ta.md) _2017-08-27 03:45:54 (First version)_
+1. [Libyan Civil War: In response to the U.N.-backed Government of National Accord's plea, the United Nations Security Council blacklists the tanker shipping crude oil by the unrecognized rival House of Representatives government in eastern Libya. ](/news/2016/04/28/libyan-civil-war-in-response-to-the-u-n-backed-government-of-national-accord-s-plea-the-united-nations-security-council-blacklists-the-ta.md) _2018-02-06 13:49:29 (First version)_
 1. [In response to the U.N.-backed Government of National Accord's plea, the United Nations Security Council blacklists the tanker shipping crude oil by the unrecognized rival House of Representatives government in eastern Libya. ](/news/2016/04/28/in-response-to-the-u-n-backed-government-of-national-accord-s-plea-the-united-nations-security-council-blacklists-the-tanker-shipping-crud.md) _(Current version)_
 
 ### Related:

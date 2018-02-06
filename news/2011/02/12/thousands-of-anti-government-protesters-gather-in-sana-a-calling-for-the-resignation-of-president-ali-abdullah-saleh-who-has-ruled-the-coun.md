@@ -24,8 +24,8 @@ Anti-government protesters have taken to the streets of Yemen, calling for an en
 
 ### Changes:
 
-1. [2011 Yemeni protests:Thousands of anti-government protesters gather in Sana'a calling for the resignation of President Ali Abdullah Saleh, who has ruled the country since 1978. ](/news/2011/02/12/2011-yemeni-protests-pthousands-of-anti-government-protesters-gather-in-sana-a-calling-for-the-resignation-of-president-ali-abdullah-saleh.md) _2017-08-25 03:32:08 (First version)_
-2. [2011 Yemeni protests:: Thousands of anti-government protesters gather in Sana'a calling for the resignation of President Ali Abdullah Saleh, who has ruled the country since 1978. ](/news/2011/02/12/2011-yemeni-protests-thousands-of-anti-government-protesters-gather-in-sana-a-calling-for-the-resignation-of-president-ali-abdullah-saleh.md) _2017-08-27 03:32:17 (Update)_
+1. [2011 Yemeni protests:: Thousands of anti-government protesters gather in Sana'a calling for the resignation of President Ali Abdullah Saleh, who has ruled the country since 1978. ](/news/2011/02/12/2011-yemeni-protests-thousands-of-anti-government-protesters-gather-in-sana-a-calling-for-the-resignation-of-president-ali-abdullah-saleh.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Yemeni protests:Thousands of anti-government protesters gather in Sana'a calling for the resignation of President Ali Abdullah Saleh, who has ruled the country since 1978. ](/news/2011/02/12/2011-yemeni-protests-pthousands-of-anti-government-protesters-gather-in-sana-a-calling-for-the-resignation-of-president-ali-abdullah-saleh.md) _2018-02-06 13:49:21 (Update)_
 2. [Thousands of anti-government protesters gather in Sana'a calling for the resignation of President Ali Abdullah Saleh, who has ruled the country since 1978. ](/news/2011/02/12/thousands-of-anti-government-protesters-gather-in-sana-a-calling-for-the-resignation-of-president-ali-abdullah-saleh-who-has-ruled-the-coun.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/7/there-is-an-exchange-of-gunfire-as-a-north-korea
 
 ### Changes:
 
-1. [Korean maritime border incidents: There is an exchange of gunfire as a North Korean patrol boat breaches the South Korean western sea border. ](/news/2014/10/7/korean-maritime-border-incidents-there-is-an-exchange-of-gunfire-as-a-north-korean-patrol-boat-breaches-the-south-korean-western-sea-border.md) _2017-08-27 03:41:22 (First version)_
+1. [Korean maritime border incidents: There is an exchange of gunfire as a North Korean patrol boat breaches the South Korean western sea border. ](/news/2014/10/7/korean-maritime-border-incidents-there-is-an-exchange-of-gunfire-as-a-north-korean-patrol-boat-breaches-the-south-korean-western-sea-border.md) _2018-02-06 13:49:26 (First version)_
 1. [There is an exchange of gunfire as a North Korean patrol boat breaches the South Korean western sea border. ](/news/2014/10/7/there-is-an-exchange-of-gunfire-as-a-north-korean-patrol-boat-breaches-the-south-korean-western-sea-border.md) _(Current version)_
 
 ### Related:

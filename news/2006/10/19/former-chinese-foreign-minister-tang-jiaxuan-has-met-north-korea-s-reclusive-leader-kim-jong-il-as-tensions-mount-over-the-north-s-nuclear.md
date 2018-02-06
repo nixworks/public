@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-ha
 
 ### Changes:
 
-1. [ 2006 North Korean nuclear testing: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-p-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2017-08-25 03:18:36 (First version)_
-2. [ 2006 North Korean nuclear testing:: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2017-08-27 03:18:30 (Update)_
+1. [ 2006 North Korean nuclear testing: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-p-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 North Korean nuclear testing:: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2018-02-06 13:49:17 (Update)_
 2. [ former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tensions-mount-over-the-north-s-nuclear.md) _(Current version)_
 
 ### Related:

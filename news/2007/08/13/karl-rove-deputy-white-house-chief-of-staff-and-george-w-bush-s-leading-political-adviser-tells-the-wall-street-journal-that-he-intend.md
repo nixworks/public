@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and
 
 ### Changes:
 
-1. [ Karl Rove, Deputy White House Chief of Staff and George W. Bush's leading political adviser, tells the ''Wall Street Journal'' that he intends to resign at the end of August. ](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and-george-w-bush-s-leading-political-adviser-tells-the-wall-street-journal-that-he-inte.md) _2017-08-25 03:20:32 (First version)_
+1. [ Karl Rove, Deputy White House Chief of Staff and George W. Bush's leading political adviser, tells the ''Wall Street Journal'' that he intends to resign at the end of August. ](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and-george-w-bush-s-leading-political-adviser-tells-the-wall-street-journal-that-he-inte.md) _2018-02-06 13:49:17 (First version)_
 1. [ Karl Rove, Deputy White House Chief of Staff and George W. Bush's leading political adviser, tells the "Wall Street Journal" that he intends to resign at the end of August. ](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and-george-w-bush-s-leading-political-adviser-tells-the-wall-street-journal-that-he-intend.md) _(Current version)_
 
 ### Related:

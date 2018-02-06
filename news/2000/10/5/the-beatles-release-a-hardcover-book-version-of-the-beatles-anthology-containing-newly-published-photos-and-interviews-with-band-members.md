@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/10/5/the-beatles-release-a-hardcover-book-version-of-
 
 ### Changes:
 
-1. [The Beatles release a hardcover book version of ''The Beatles Anthology'', containing newly published photos and interviews with band members. The book went straight to the top of the ''New York Times'' bestsellers list.](/news/2000/10/5/the-beatles-release-a-hardcover-book-version-of-the-beatles-anthology-containing-newly-published-photos-and-interviews-with-band-member.md) _2017-08-25 03:15:08 (First version)_
+1. [The Beatles release a hardcover book version of ''The Beatles Anthology'', containing newly published photos and interviews with band members. The book went straight to the top of the ''New York Times'' bestsellers list.](/news/2000/10/5/the-beatles-release-a-hardcover-book-version-of-the-beatles-anthology-containing-newly-published-photos-and-interviews-with-band-member.md) _2018-02-06 13:49:15 (First version)_
 1. [The Beatles release a hardcover book version of "The Beatles Anthology", containing newly published photos and interviews with band members. The book went straight to the top of the "New York Times" bestsellers list.](/news/2000/10/5/the-beatles-release-a-hardcover-book-version-of-the-beatles-anthology-containing-newly-published-photos-and-interviews-with-band-members.md) _(Current version)_
 
 ### Related:

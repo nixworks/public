@@ -16,8 +16,8 @@ The World Health Organization and presidents of West African nations affected by
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak:The World Health Organization announces a US$100 million emergency response plan to combat the outbreak, which has killed at least 729 people. ](/news/2014/07/31/2014-west-africa-ebola-outbreak-pthe-world-health-organization-announces-a-us-100-million-emergency-response-plan-to-combat-the-outbreak-wh.md) _2017-08-25 03:40:47 (First version)_
-2. [2014 West Africa Ebola outbreak:: The World Health Organization announces a US$100 million emergency response plan to combat the outbreak, which has killed at least 729 people. ](/news/2014/07/31/2014-west-africa-ebola-outbreak-the-world-health-organization-announces-a-us-100-million-emergency-response-plan-to-combat-the-outbreak-w.md) _2017-08-27 03:41:05 (Update)_
+1. [2014 West Africa Ebola outbreak:: The World Health Organization announces a US$100 million emergency response plan to combat the outbreak, which has killed at least 729 people. ](/news/2014/07/31/2014-west-africa-ebola-outbreak-the-world-health-organization-announces-a-us-100-million-emergency-response-plan-to-combat-the-outbreak-w.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola outbreak:The World Health Organization announces a US$100 million emergency response plan to combat the outbreak, which has killed at least 729 people. ](/news/2014/07/31/2014-west-africa-ebola-outbreak-pthe-world-health-organization-announces-a-us-100-million-emergency-response-plan-to-combat-the-outbreak-wh.md) _2018-02-06 13:49:26 (Update)_
 2. [The World Health Organization announces a US$100 million emergency response plan to combat the outbreak, which has killed at least 729 people. ](/news/2014/07/31/the-world-health-organization-announces-a-us-100-million-emergency-response-plan-to-combat-the-outbreak-which-has-killed-at-least-729-peopl.md) _(Current version)_
 
 ### Related:

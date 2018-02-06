@@ -16,7 +16,7 @@ Human Rights Watch says Iraqi insurgents executed at least 160 captives earlier 
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: American human rights group Human Rights Watch claims that Islamic State of Iraq and the Levant executed at least 160 captives earlier this month in Tikrit. ](/news/2014/06/27/2014-northern-iraq-offensive-american-human-rights-group-human-rights-watch-claims-that-islamic-state-of-iraq-and-the-levant-executed-at-le.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 Northern Iraq offensive: American human rights group Human Rights Watch claims that Islamic State of Iraq and the Levant executed at least 160 captives earlier this month in Tikrit. ](/news/2014/06/27/2014-northern-iraq-offensive-american-human-rights-group-human-rights-watch-claims-that-islamic-state-of-iraq-and-the-levant-executed-at-le.md) _2018-02-06 13:49:26 (First version)_
 1. [American human rights group Human Rights Watch claims that Islamic State of Iraq and the Levant executed at least 160 captives earlier this month in Tikrit. ](/news/2014/06/27/american-human-rights-group-human-rights-watch-claims-that-islamic-state-of-iraq-and-the-levant-executed-at-least-160-captives-earlier-this.md) _(Current version)_
 
 ### Related:

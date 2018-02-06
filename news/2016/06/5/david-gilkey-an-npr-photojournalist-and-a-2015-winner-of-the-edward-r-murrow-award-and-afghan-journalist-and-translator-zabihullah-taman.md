@@ -18,7 +18,7 @@ WASHINGTON (AP) — David Gilkey, a veteran news photographer and video editor f
 
 ### Changes:
 
-1. [War in Afghanistan: David Gilkey, an NPR photojournalist and a 2015 winner of the Edward R. Murrow Award, and Afghan journalist and translator Zabihullah Tamanna are killed when the Afghan army unit they were accompanying comes under fire near Marjah in Helmand Province. ](/news/2016/06/5/war-in-afghanistan-david-gilkey-an-npr-photojournalist-and-a-2015-winner-of-the-edward-r-murrow-award-and-afghan-journalist-and-translat.md) _2017-08-27 03:46:12 (First version)_
+1. [War in Afghanistan: David Gilkey, an NPR photojournalist and a 2015 winner of the Edward R. Murrow Award, and Afghan journalist and translator Zabihullah Tamanna are killed when the Afghan army unit they were accompanying comes under fire near Marjah in Helmand Province. ](/news/2016/06/5/war-in-afghanistan-david-gilkey-an-npr-photojournalist-and-a-2015-winner-of-the-edward-r-murrow-award-and-afghan-journalist-and-translat.md) _2018-02-06 13:49:29 (First version)_
 1. [ David Gilkey, an NPR photojournalist and a 2015 winner of the Edward R. Murrow Award, and Afghan journalist and translator Zabihullah Tamanna are killed when the Afghan army unit they were accompanying comes under fire near Marjah in Helmand Province. ](/news/2016/06/5/david-gilkey-an-npr-photojournalist-and-a-2015-winner-of-the-edward-r-murrow-award-and-afghan-journalist-and-translator-zabihullah-taman.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Three Russian citizens have been arrested in southern Turkey during a raid on a 
 
 ### Changes:
 
-1. [January 2016 Istanbul bombing: Turkish Interior Minister Efkan Ala says yesterday's ISIS suicide bomber had registered with Turkish immigration authorities but was not on any known militant suspects list. ](/news/2016/01/13/january-2016-istanbul-bombing-turkish-interior-minister-efkan-ala-says-yesterday-s-isis-suicide-bomber-had-registered-with-turkish-immigrat.md) _2017-08-27 03:44:40 (First version)_
+1. [January 2016 Istanbul bombing: Turkish Interior Minister Efkan Ala says yesterday's ISIS suicide bomber had registered with Turkish immigration authorities but was not on any known militant suspects list. ](/news/2016/01/13/january-2016-istanbul-bombing-turkish-interior-minister-efkan-ala-says-yesterday-s-isis-suicide-bomber-had-registered-with-turkish-immigrat.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish Interior Minister Efkan Ala says yesterday's ISIS suicide bomber had registered with Turkish immigration authorities but was not on any known militant suspects list. ](/news/2016/01/13/turkish-interior-minister-efkan-ala-says-yesterday-s-isis-suicide-bomber-had-registered-with-turkish-immigration-authorities-but-was-not-on.md) _(Current version)_
 
 ### Related:

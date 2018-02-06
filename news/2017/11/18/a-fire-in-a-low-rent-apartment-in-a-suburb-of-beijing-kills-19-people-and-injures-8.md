@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-b
 
 ### Changes:
 
-1. [A fire in an apartment in Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-an-apartment-in-beijing-kills-19-people-and-injures-8.md) _2017-11-25 06:30:04 (First version)_
+1. [A fire in an apartment in Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-an-apartment-in-beijing-kills-19-people-and-injures-8.md) _2018-02-06 13:49:31 (First version)_
 1. [A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-beijing-kills-19-people-and-injures-8.md) _(Current version)_
 
 ### Related:

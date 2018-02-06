@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sha
 
 ### Changes:
 
-1. [Yemen: Houthi rebellion: Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/yemen-houthi-rebellion-fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-gove.md) _2017-08-27 03:41:30 (First version)_
+1. [Yemen: Houthi rebellion: Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/yemen-houthi-rebellion-fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-gove.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md) _(Current version)_
 
 ### Related:

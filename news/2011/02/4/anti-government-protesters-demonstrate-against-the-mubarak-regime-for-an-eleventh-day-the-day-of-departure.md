@@ -30,6 +30,6 @@ Formats: [HTML](/news/2011/02/4/anti-government-protesters-demonstrate-against-t
 
 ### Changes:
 
-1. [2011 Egyptian protests:Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-panti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _2017-08-25 03:32:02 (First version)_
-2. [2011 Egyptian protests:: Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _2017-08-27 03:32:10 (Update)_
+1. [2011 Egyptian protests:Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-panti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian protests:: Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md) _(Current version)_

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/12/2/the-united-states-senate-passes-the-republican-t
 
 ### Changes:
 
-1. [The United States Senate passes the controversial Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-controversial-republican-tax-reform-bill.md) _2017-12-02 18:30:05 (First version)_
-2. [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md) _2017-12-02 23:30:05 (Update)_
+1. [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md) _2018-02-06 13:49:31 (First version)_
+2. [The United States Senate passes the controversial Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-controversial-republican-tax-reform-bill.md) _2018-02-06 13:49:31 (Update)_
 2. [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md) _(Current version)_
 
 ### Related:

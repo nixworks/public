@@ -16,7 +16,7 @@ A rogue officer who &quot;went berserk&quot; was responsible for an attack on a 
 
 ### Changes:
 
-1. [War in Somalia: A suspected militant of Al-Shabaab shoots and kills four Kenyan police officers at a police station in Kapenguria, Kenya, where he was being held. The militant was later killed following a shootout with police. ](/news/2016/07/14/war-in-somalia-a-suspected-militant-of-al-shabaab-shoots-and-kills-four-kenyan-police-officers-at-a-police-station-in-kapenguria-kenya-wh.md) _2017-08-27 03:46:30 (First version)_
+1. [War in Somalia: A suspected militant of Al-Shabaab shoots and kills four Kenyan police officers at a police station in Kapenguria, Kenya, where he was being held. The militant was later killed following a shootout with police. ](/news/2016/07/14/war-in-somalia-a-suspected-militant-of-al-shabaab-shoots-and-kills-four-kenyan-police-officers-at-a-police-station-in-kapenguria-kenya-wh.md) _2018-02-06 13:49:29 (First version)_
 1. [A suspected militant of Al-Shabaab shoots and kills four Kenyan police officers at a police station in Kapenguria, Kenya, where he was being held. The militant was later killed following a shootout with police. ](/news/2016/07/14/a-suspected-militant-of-al-shabaab-shoots-and-kills-four-kenyan-police-officers-at-a-police-station-in-kapenguria-kenya-where-he-was-being.md) _(Current version)_
 
 ### Related:

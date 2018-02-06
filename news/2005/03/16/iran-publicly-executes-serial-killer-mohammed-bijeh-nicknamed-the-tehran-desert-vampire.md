@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/03/16/iran-publicly-executes-serial-killer-mohammed-b
 
 ### Changes:
 
-1. [ Iran publicly executes serial killer Mohammad Bijeh, nicknamed the "Tehran Desert Vampire". ](/news/2005/03/16/iran-publicly-executes-serial-killer-mohammad-bijeh-nicknamed-the-tehran-desert-vampire.md) _2017-10-13 03:18:14 (First version)_
+1. [ Iran publicly executes serial killer Mohammad Bijeh, nicknamed the "Tehran Desert Vampire". ](/news/2005/03/16/iran-publicly-executes-serial-killer-mohammad-bijeh-nicknamed-the-tehran-desert-vampire.md) _2018-02-06 13:49:16 (First version)_
 1. [ Iran publicly executes serial killer Mohammed Bijeh, nicknamed the "Tehran Desert Vampire". ](/news/2005/03/16/iran-publicly-executes-serial-killer-mohammed-bijeh-nicknamed-the-tehran-desert-vampire.md) _(Current version)_
 
 ### Related:

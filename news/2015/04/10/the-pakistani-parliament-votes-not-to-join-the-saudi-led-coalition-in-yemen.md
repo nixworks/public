@@ -16,7 +16,7 @@ Vote indicates country will not join Saudi-led military coalition but will &quot
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): The Pakistani parliament votes not to join the Saudi led coalition in Yemen. ](/news/2015/04/10/yemeni-civil-war-2015-the-pakistani-parliament-votes-not-to-join-the-saudi-led-coalition-in-yemen.md) _2017-08-27 03:42:11 (First version)_
+1. [Yemeni Civil War (2015): The Pakistani parliament votes not to join the Saudi led coalition in Yemen. ](/news/2015/04/10/yemeni-civil-war-2015-the-pakistani-parliament-votes-not-to-join-the-saudi-led-coalition-in-yemen.md) _2018-02-06 13:49:27 (First version)_
 1. [The Pakistani parliament votes not to join the Saudi led coalition in Yemen. ](/news/2015/04/10/the-pakistani-parliament-votes-not-to-join-the-saudi-led-coalition-in-yemen.md) _(Current version)_
 
 ### Related:

@@ -11,8 +11,8 @@ Formats: [HTML](/news/2006/02/8/thousands-of-native-south-americans-march-900-mi
 
 ### Changes:
 
-1. [ Thousands of native South Americans march {{convert|900|mi|km}} south of Rio de Janeiro to the spot where Sepe Tiaraju was killed in 1756, demanding that land in Brazil be given for a new "Guaran nation."](/news/2006/02/8/thousands-of-native-south-americans-march-convert-900-mi-km-south-of-rio-de-janeiro-to-the-spot-where-sepe-tiaraju-was-killed-in-1756.md) _2017-05-01 03:17:48 (First version)_
-2. [ Thousands of native South Americans march 900|mi|km south of Rio de Janeiro to the spot where Sepe Tiaraju was killed in 1756, demanding that land in Brazil be given for a new "Guaran nation."](/news/2006/02/8/thousands-of-native-south-americans-march-900-mi-km-south-of-rio-de-janeiro-to-the-spot-where-sepe-tiaraju-was-killed-in-1756-demanding-th.md) _2017-08-29 03:17:31 (Update)_
+1. [ Thousands of native South Americans march {{convert|900|mi|km}} south of Rio de Janeiro to the spot where Sepe Tiaraju was killed in 1756, demanding that land in Brazil be given for a new "Guaran nation."](/news/2006/02/8/thousands-of-native-south-americans-march-convert-900-mi-km-south-of-rio-de-janeiro-to-the-spot-where-sepe-tiaraju-was-killed-in-1756.md) _2018-02-06 13:49:16 (First version)_
+2. [ Thousands of native South Americans march 900|mi|km south of Rio de Janeiro to the spot where Sepe Tiaraju was killed in 1756, demanding that land in Brazil be given for a new "Guaran nation."](/news/2006/02/8/thousands-of-native-south-americans-march-900-mi-km-south-of-rio-de-janeiro-to-the-spot-where-sepe-tiaraju-was-killed-in-1756-demanding-th.md) _2018-02-06 13:49:16 (Update)_
 2. [ Thousands of native South Americans march 900 mi south of Rio de Janeiro to the spot where Sepe Tiaraju was killed in 1756, demanding that land in Brazil be given for a new "Guaran nation."](/news/2006/02/8/thousands-of-native-south-americans-march-900-mi-south-of-rio-de-janeiro-to-the-spot-where-sepe-tiaraju-was-killed-in-1756-demanding-that.md) _(Current version)_
 
 ### Related:

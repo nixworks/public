@@ -18,7 +18,7 @@ Hillary Rodham Clinton threw up a roadblock to Barack Obama&#8217;s path to the 
 
 ### Changes:
 
-1. [ Arizona Senator John McCain wins the Vermont, Texas, Rhode Island, and Ohio Republican primaries, giving him enough delegates to be able to win the Republican Party nomination. ](/news/2008/03/4/arizona-senator-john-mccain-wins-the-vermont-texas-rhode-island-and-ohio-republican-primaries-giving-him-enough-delegates-to-be-able-t.md) _2017-08-25 03:21:51 (First version)_
+1. [ Arizona Senator John McCain wins the Vermont, Texas, Rhode Island, and Ohio Republican primaries, giving him enough delegates to be able to win the Republican Party nomination. ](/news/2008/03/4/arizona-senator-john-mccain-wins-the-vermont-texas-rhode-island-and-ohio-republican-primaries-giving-him-enough-delegates-to-be-able-t.md) _2018-02-06 13:49:18 (First version)_
 1. [ Arizona Senator John McCain wins the Vermont, Texas, Rhode Island, and Ohio Republican primaries, giving him enough delegates to be able to win the Republican Party nomination. ](/news/2008/03/4/arizona-senator-john-mccain-wins-the-vermont-texas-rhode-island-and-ohio-republican-primaries-giving-him-enough-delegates-to-be-able-to.md) _(Current version)_
 
 ### Related:

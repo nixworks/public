@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/07/19/at-least-nine-palestinians-have-been-killed-in-
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict (Operation Summer Rains): At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-p-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md) _2017-08-25 03:18:03 (First version)_
-2. [ Israeli-Palestinian conflict (Operation Summer Rains):: At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md) _2017-08-27 03:18:01 (Update)_
+1. [ Israeli-Palestinian conflict (Operation Summer Rains): At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-p-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md) _2018-02-06 13:49:17 (First version)_
+2. [ Israeli-Palestinian conflict (Operation Summer Rains):: At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md) _2018-02-06 13:49:17 (Update)_
 2. [ At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and-the-west-bank.md) _(Current version)_
 
 ### Related:

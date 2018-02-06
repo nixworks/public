@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-n
 
 ### Changes:
 
-1. [Yemeni Civil War: Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemeni-civil-war-yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _2017-08-27 03:47:19 (First version)_
+1. [Yemeni Civil War: Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemeni-civil-war-yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _2018-02-06 13:49:29 (First version)_
 1. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _(Current version)_
 
 ### Related:

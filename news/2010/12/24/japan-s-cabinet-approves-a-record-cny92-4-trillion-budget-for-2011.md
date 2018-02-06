@@ -17,7 +17,7 @@ Japan approves a record 92.4 trillion yen of spending for the next financial yea
 
 ### Changes:
 
-1. [Japan's Cabinet approves a record 92.4 trillion budget for 2011. ](/news/2010/12/24/japan-s-cabinet-approves-a-record-y-92-4-trillion-budget-for-2011.md) _2017-08-25 03:31:30 (First version)_
+1. [Japan's Cabinet approves a record 92.4 trillion budget for 2011. ](/news/2010/12/24/japan-s-cabinet-approves-a-record-y-92-4-trillion-budget-for-2011.md) _2018-02-06 13:49:21 (First version)_
 1. [Japan's Cabinet approves a record CNY92.4 trillion budget for 2011. ](/news/2010/12/24/japan-s-cabinet-approves-a-record-cny92-4-trillion-budget-for-2011.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/25/the-united-states-administration-formally-decla
 
 ### Changes:
 
-1. [2014 Ukrainian revolution:The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/2014-ukrainian-revolution-pthe-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas.md) _2017-08-25 03:40:05 (First version)_
-2. [2014 Ukrainian revolution:: The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine-s president as "his actions have undermined his legitimacy". ](/news/2014/02/25/2014-ukrainian-revolution-the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraine-s.md) _2017-08-27 03:40:23 (Update)_
+1. [2014 Ukrainian revolution:: The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine-s president as "his actions have undermined his legitimacy". ](/news/2014/02/25/2014-ukrainian-revolution-the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraine-s.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Ukrainian revolution:The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/2014-ukrainian-revolution-pthe-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas-president-as-his-actions-h.md) _(Current version)_
 
 ### Related:

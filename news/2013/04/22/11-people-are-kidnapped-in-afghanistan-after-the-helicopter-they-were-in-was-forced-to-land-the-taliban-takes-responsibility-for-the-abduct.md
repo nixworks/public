@@ -16,8 +16,8 @@ KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captu
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/war-in-afghanistan-2001apresent-p11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-taliba.md) _2017-08-25 03:38:26 (First version)_
-2. [War in Afghanistan (2001-present):: 11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/war-in-afghanistan-2001-present-11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-talib.md) _2017-08-27 03:38:39 (Update)_
+1. [War in Afghanistan (2001-present):11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/war-in-afghanistan-2001apresent-p11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-taliba.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: 11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/war-in-afghanistan-2001-present-11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-talib.md) _2018-02-06 13:49:24 (Update)_
 2. [11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-taliban-takes-responsibility-for-the-abduct.md) _(Current version)_
 
 ### Related:

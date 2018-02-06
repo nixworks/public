@@ -18,7 +18,7 @@ A roadside bomb planted by Kurdish militants ripped apart a military armored veh
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict: Turkish Armed Forces state two soldiers are killed and three wounded in a pair of attacks by Kurdistan Workers' Party fighters in Diyarbakir Province in the country's southeast. ](/news/2016/06/28/kurdish-turkish-conflict-turkish-armed-forces-state-two-soldiers-are-killed-and-three-wounded-in-a-pair-of-attacks-by-kurdistan-workers.md) _2017-08-27 03:46:22 (First version)_
+1. [Kurdish-Turkish conflict: Turkish Armed Forces state two soldiers are killed and three wounded in a pair of attacks by Kurdistan Workers' Party fighters in Diyarbakir Province in the country's southeast. ](/news/2016/06/28/kurdish-turkish-conflict-turkish-armed-forces-state-two-soldiers-are-killed-and-three-wounded-in-a-pair-of-attacks-by-kurdistan-workers.md) _2018-02-06 13:49:29 (First version)_
 1. [Turkish Armed Forces state two soldiers are killed and three wounded in a pair of attacks by Kurdistan Workers' Party fighters in Diyarbakir Province in the country's southeast. ](/news/2016/06/28/turkish-armed-forces-state-two-soldiers-are-killed-and-three-wounded-in-a-pair-of-attacks-by-kurdistan-workers-party-fighters-in-diyarbaka.md) _(Current version)_
 
 ### Related:

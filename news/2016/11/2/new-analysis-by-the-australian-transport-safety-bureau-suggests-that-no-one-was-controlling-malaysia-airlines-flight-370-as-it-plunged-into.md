@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/2/new-analysis-by-the-australian-transport-safety-
 
 ### Changes:
 
-1. [Search for Malaysia Airlines Flight 370: New analysis by the Australian Transport Safety Bureau suggests that no-one was controlling Malaysia Airlines Flight 370 as it plunged into the southern Indian Ocean in 2014. ](/news/2016/11/2/search-for-malaysia-airlines-flight-370-new-analysis-by-the-australian-transport-safety-bureau-suggests-that-no-one-was-controlling-malaysi.md) _2017-08-27 03:47:09 (First version)_
+1. [Search for Malaysia Airlines Flight 370: New analysis by the Australian Transport Safety Bureau suggests that no-one was controlling Malaysia Airlines Flight 370 as it plunged into the southern Indian Ocean in 2014. ](/news/2016/11/2/search-for-malaysia-airlines-flight-370-new-analysis-by-the-australian-transport-safety-bureau-suggests-that-no-one-was-controlling-malaysi.md) _2018-02-06 13:49:29 (First version)_
 1. [New analysis by the Australian Transport Safety Bureau suggests that no-one was controlling Malaysia Airlines Flight 370 as it plunged into the southern Indian Ocean in 2014. ](/news/2016/11/2/new-analysis-by-the-australian-transport-safety-bureau-suggests-that-no-one-was-controlling-malaysia-airlines-flight-370-as-it-plunged-into.md) _(Current version)_
 
 ### Related:

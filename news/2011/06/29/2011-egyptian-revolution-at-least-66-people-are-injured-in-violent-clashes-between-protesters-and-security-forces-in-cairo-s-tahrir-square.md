@@ -23,8 +23,8 @@ Military spokesman says June air drops in Nafusa Mountains, south of Tripoli, co
 
 ### Changes:
 
-1. [Arab Spring:2011 Egyptian revolution:At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/arab-spring-p2011-egyptian-revolution-pat-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s-t.md) _2017-08-25 03:33:37 (First version)_
-2. [Arab Spring:: 2011 Egyptian revolution:: At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/arab-spring-2011-egyptian-revolution-at-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s.md) _2017-08-27 03:33:45 (Update)_
+1. [Arab Spring:2011 Egyptian revolution:At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/arab-spring-p2011-egyptian-revolution-pat-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s-t.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Egyptian revolution:: At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/arab-spring-2011-egyptian-revolution-at-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Egyptian revolution:At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/2011-egyptian-revolution-at-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s-tahrir-square.md) _(Current version)_
 
 ### Related:

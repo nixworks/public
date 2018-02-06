@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/16/the-united-states-and-cuba-reach-an-understandi
 
 ### Changes:
 
-1. [Cuba-United States relations: The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/cuba-united-states-relations-the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-curre.md) _2017-08-27 03:44:23 (First version)_
+1. [Cuba-United States relations: The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/cuba-united-states-relations-the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-curre.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md) _(Current version)_
 
 ### Related:

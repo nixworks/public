@@ -16,7 +16,7 @@ Rivers were still rising and rescue work continued in southeast Texas, where off
 
 ### Changes:
 
-1. [The death toll from Hurricane Harvey reaches 19 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-19-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _2017-08-30 07:30:05 (First version)_
+1. [The death toll from Hurricane Harvey reaches 19 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-19-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _2018-02-06 13:49:31 (First version)_
 1. [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _(Current version)_
 
 ### Related:

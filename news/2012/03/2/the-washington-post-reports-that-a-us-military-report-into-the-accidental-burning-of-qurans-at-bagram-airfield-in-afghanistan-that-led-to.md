@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/03/2/the-washington-post-reports-that-a-us-military-r
 
 ### Changes:
 
-1. [The ''Washington Post'' reports that a US military report into the accidental burning of Qurans at Bagram airfield in Afghanistan that led to widespread protests has found that five US service personnel were involved. ](/news/2012/03/2/the-washington-post-reports-that-a-us-military-report-into-the-accidental-burning-of-qurans-at-bagram-airfield-in-afghanistan-that-led-t.md) _2017-08-25 03:35:11 (First version)_
+1. [The ''Washington Post'' reports that a US military report into the accidental burning of Qurans at Bagram airfield in Afghanistan that led to widespread protests has found that five US service personnel were involved. ](/news/2012/03/2/the-washington-post-reports-that-a-us-military-report-into-the-accidental-burning-of-qurans-at-bagram-airfield-in-afghanistan-that-led-t.md) _2018-02-06 13:49:23 (First version)_
 1. [The "Washington Post" reports that a US military report into the accidental burning of Qurans at Bagram airfield in Afghanistan that led to widespread protests has found that five US service personnel were involved. ](/news/2012/03/2/the-washington-post-reports-that-a-us-military-report-into-the-accidental-burning-of-qurans-at-bagram-airfield-in-afghanistan-that-led-to.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-a
 
 ### Changes:
 
-1. [Greek government-debt crisis: Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greek-government-debt-crisis-greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md) _2017-08-27 03:42:33 (First version)_
+1. [Greek government-debt crisis: Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greek-government-debt-crisis-greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md) _2018-02-06 13:49:27 (First version)_
 1. [Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md) _(Current version)_
 
 ### Related:

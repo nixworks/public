@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/31/despite-massive-protests-in-recent-days-romania
 
 ### Changes:
 
-1. [ 2017 Romanian protests: Despite massive protests in recent days, Romania's government adopts an emergency ordinance to decriminalize some graft offences.](/news/2017/01/31/2017-romanian-protests-despite-massive-protests-in-recent-days-romania-s-government-adopts-an-emergency-ordinance-to-decriminalize-some-g.md) _2017-08-27 03:47:44 (First version)_
+1. [ 2017 Romanian protests: Despite massive protests in recent days, Romania's government adopts an emergency ordinance to decriminalize some graft offences.](/news/2017/01/31/2017-romanian-protests-despite-massive-protests-in-recent-days-romania-s-government-adopts-an-emergency-ordinance-to-decriminalize-some-g.md) _2018-02-06 13:49:30 (First version)_
 1. [ Despite massive protests in recent days, Romania's government adopts an emergency ordinance to decriminalize some graft offences.](/news/2017/01/31/despite-massive-protests-in-recent-days-romania-s-government-adopts-an-emergency-ordinance-to-decriminalize-some-graft-offences.md) _(Current version)_
 
 ### Related:

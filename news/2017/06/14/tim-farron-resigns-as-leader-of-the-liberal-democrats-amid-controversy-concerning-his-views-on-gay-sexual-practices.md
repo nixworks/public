@@ -16,9 +16,9 @@ Tim Farron has resigned as leader of the Liberal Democrats, following a furore o
 
 ### Changes:
 
-1. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on same-sex marriage in the United Kingdom. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-same-sex-marriage-in-the-uni.md) _2017-06-14 20:30:08 (First version)_
-2. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _2017-08-25 03:48:02 (Update)_
-3. [Aftermath of the United Kingdom general election, 2017: Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-united-kingdom-general-election-2017-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-hi.md) _2017-08-27 03:48:28 (Update)_
+1. [Aftermath of the United Kingdom general election, 2017: Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-united-kingdom-general-election-2017-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-hi.md) _2018-02-06 13:49:30 (First version)_
+2. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on same-sex marriage in the United Kingdom. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-same-sex-marriage-in-the-uni.md) _2018-02-06 13:49:30 (Update)_
+3. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _2018-02-06 13:49:30 (Update)_
 3. [Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _(Current version)_
 
 ### Related:

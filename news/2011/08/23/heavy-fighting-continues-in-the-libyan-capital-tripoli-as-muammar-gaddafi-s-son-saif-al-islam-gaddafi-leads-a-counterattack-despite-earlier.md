@@ -17,7 +17,7 @@ Moamar Gaddafi&#039;s son Saif al-Islam leads a regime fightback in Tripoli as f
 
 ### Changes:
 
-1. [2011 Battle of Tripoli: Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. ](/news/2011/08/23/2011-battle-of-tripoli-heavy-fighting-continues-in-the-libyan-capital-tripoli-as-muammar-gaddafi-s-son-saif-al-islam-gaddafi-leads-a-counte.md) _2017-08-27 03:34:11 (First version)_
+1. [2011 Battle of Tripoli: Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. ](/news/2011/08/23/2011-battle-of-tripoli-heavy-fighting-continues-in-the-libyan-capital-tripoli-as-muammar-gaddafi-s-son-saif-al-islam-gaddafi-leads-a-counte.md) _2018-02-06 13:49:22 (First version)_
 1. [Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. ](/news/2011/08/23/heavy-fighting-continues-in-the-libyan-capital-tripoli-as-muammar-gaddafi-s-son-saif-al-islam-gaddafi-leads-a-counterattack-despite-earlier.md) _(Current version)_
 
 ### Related:

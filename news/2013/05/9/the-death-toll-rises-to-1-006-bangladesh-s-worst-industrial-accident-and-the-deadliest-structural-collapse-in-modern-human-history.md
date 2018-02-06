@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/9/the-death-toll-rises-to-1-006-bangladesh-s-worst
 
 ### Changes:
 
-1. [2013 Savar building collapse:The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/2013-savar-building-collapse-pthe-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse-i.md) _2017-08-25 03:38:36 (First version)_
-2. [2013 Savar building collapse:: The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/2013-savar-building-collapse-the-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse.md) _2017-08-27 03:38:49 (Update)_
+1. [2013 Savar building collapse:: The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/2013-savar-building-collapse-the-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Savar building collapse:The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/2013-savar-building-collapse-pthe-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse-i.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/the-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse-in-modern-human-history.md) _(Current version)_
 
 ### Related:

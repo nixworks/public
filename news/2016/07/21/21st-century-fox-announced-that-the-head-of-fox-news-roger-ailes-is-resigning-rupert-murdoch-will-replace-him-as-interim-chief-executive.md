@@ -18,7 +18,7 @@ Fox News chief Roger Ailes is leaving the network following sexual harassment al
 
 ### Changes:
 
-1. [Fox News Channel controversies: 21st Century Fox announced that the head of Fox News, Roger Ailes, is resigning. Rupert Murdoch will replace him as interim Chief Executive and Chairman. ](/news/2016/07/21/fox-news-channel-controversies-21st-century-fox-announced-that-the-head-of-fox-news-roger-ailes-is-resigning-rupert-murdoch-will-replace.md) _2017-08-27 03:46:31 (First version)_
+1. [Fox News Channel controversies: 21st Century Fox announced that the head of Fox News, Roger Ailes, is resigning. Rupert Murdoch will replace him as interim Chief Executive and Chairman. ](/news/2016/07/21/fox-news-channel-controversies-21st-century-fox-announced-that-the-head-of-fox-news-roger-ailes-is-resigning-rupert-murdoch-will-replace.md) _2018-02-06 13:49:29 (First version)_
 1. [21st Century Fox announced that the head of Fox News, Roger Ailes, is resigning. Rupert Murdoch will replace him as interim Chief Executive and Chairman. ](/news/2016/07/21/21st-century-fox-announced-that-the-head-of-fox-news-roger-ailes-is-resigning-rupert-murdoch-will-replace-him-as-interim-chief-executive.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-e
 
 ### Changes:
 
-1. [January 2016 United States blizzard: The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/january-2016-united-states-blizzard-the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md) _2017-08-27 03:44:46 (First version)_
+1. [January 2016 United States blizzard: The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/january-2016-united-states-blizzard-the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A powerful earthquake measuring 7.2 struck islands popular with tourists in the 
 
 ### Changes:
 
-1. [2013 Bohol earthquake:A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. ](/news/2013/10/15/2013-bohol-earthquake-pa-magnitude-7-2-earthquake-is-reported-in-the-philippines-near-the-town-of-balilihan-in-bohol-province-resulting-in-a.md) _2017-08-25 03:39:23 (First version)_
-2. [2013 Bohol earthquake:: A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. ](/news/2013/10/15/2013-bohol-earthquake-a-magnitude-7-2-earthquake-is-reported-in-the-philippines-near-the-town-of-balilihan-in-bohol-province-resulting-in.md) _2017-08-27 03:39:40 (Update)_
+1. [2013 Bohol earthquake:A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. ](/news/2013/10/15/2013-bohol-earthquake-pa-magnitude-7-2-earthquake-is-reported-in-the-philippines-near-the-town-of-balilihan-in-bohol-province-resulting-in-a.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Bohol earthquake:: A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. ](/news/2013/10/15/2013-bohol-earthquake-a-magnitude-7-2-earthquake-is-reported-in-the-philippines-near-the-town-of-balilihan-in-bohol-province-resulting-in.md) _2018-02-06 13:49:25 (Update)_
 2. [A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. ](/news/2013/10/15/a-magnitude-7-2-earthquake-is-reported-in-the-philippines-near-the-town-of-balilihan-in-bohol-province-resulting-in-at-least-74-deaths.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A train has derailed and smashed into homes in southeastern Brazil, killing 8.
 
 ### Changes:
 
-1. [A cargo train laden with corn derails in Sao Jose do Rio Preto in southeastern Brazil, smashing into houses and killing at least eight and injuring another six. ](/news/2013/11/25/a-cargo-train-laden-with-corn-derails-in-sapso-josa-c-do-rio-preto-in-southeastern-brazil-smashing-into-houses-and-killing-at-least-eight-and.md) _2017-08-25 03:39:35 (First version)_
+1. [A cargo train laden with corn derails in Sao Jose do Rio Preto in southeastern Brazil, smashing into houses and killing at least eight and injuring another six. ](/news/2013/11/25/a-cargo-train-laden-with-corn-derails-in-sapso-josa-c-do-rio-preto-in-southeastern-brazil-smashing-into-houses-and-killing-at-least-eight-and.md) _2018-02-06 13:49:25 (First version)_
 1. [A cargo train laden with corn derails in SGBPo Jose do Rio Preto in southeastern Brazil, smashing into houses and killing at least eight and injuring another six. ](/news/2013/11/25/a-cargo-train-laden-with-corn-derails-in-sagbpo-josa-c-do-rio-preto-in-southeastern-brazil-smashing-into-houses-and-killing-at-least-eight-a.md) _(Current version)_
 
 ### Related:

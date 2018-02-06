@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbp
 
 ### Changes:
 
-1. [ Five people die in a helicopter crash in a Sao Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sapso-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md) _2017-08-25 03:41:50 (First version)_
+1. [ Five people die in a helicopter crash in a Sao Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sapso-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md) _2018-02-06 13:49:27 (First version)_
 1. [ Five people die in a helicopter crash in a SGBPo Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbpo-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md) _(Current version)_
 
 ### Related:

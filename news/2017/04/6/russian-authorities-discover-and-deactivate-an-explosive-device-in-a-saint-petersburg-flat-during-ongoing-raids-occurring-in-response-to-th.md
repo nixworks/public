@@ -16,7 +16,7 @@ A device is made safe as Russian police investigating the metro bombing make fur
 
 ### Changes:
 
-1. [2017 Saint Petersburg Metro bombing: Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/2017-saint-petersburg-metro-bombing-russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongo.md) _2017-08-27 03:48:07 (First version)_
+1. [2017 Saint Petersburg Metro bombing: Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/2017-saint-petersburg-metro-bombing-russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongo.md) _2018-02-06 13:49:30 (First version)_
 1. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/23/the-president-of-the-united-states-barack-obama
 
 ### Changes:
 
-1. [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-stat.md) _2017-08-25 03:44:39 (First version)_
+1. [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-stat.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-state.md) _(Current version)_
 
 ### Related:

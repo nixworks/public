@@ -20,7 +20,7 @@ Israel has said no one was injured in its takeover of the Canadian ship Tahrir
 
 ### Changes:
 
-1. [Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship ''Tahrir'' that, along with the Irish MV ''Saoirse'', who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship; Israel says no one was hurt.](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-activists-on-the-canadian-ship-tahrir-that-along-with-the-irish-mv-saoirse-who-were.md) _2017-08-25 03:34:26 (First version)_
+1. [Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship ''Tahrir'' that, along with the Irish MV ''Saoirse'', who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship; Israel says no one was hurt.](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-activists-on-the-canadian-ship-tahrir-that-along-with-the-irish-mv-saoirse-who-were.md) _2018-02-06 13:49:23 (First version)_
 1. [Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship "Tahrir" that, along with the Irish MV "Saoirse", who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship; Israel says no one was hurt.](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-activists-on-the-canadian-ship-tahrir-that-along-with-the-irish-mv-saoirse-who-were-head.md) _(Current version)_
 
 ### Related:

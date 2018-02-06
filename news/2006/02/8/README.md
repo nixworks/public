@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/8/index.html)  [JSON](2006/02/8/index.json)  [XML](2006/
 
 ##### Chad
 ### [ Chad and Sudan sign the Tripoli Agreement, ending the Chadian-Sudanese conflict. ](/news/2006/02/8/chad-and-sudan-sign-the-tripoli-agreement-ending-the-chadian-sudanese-conflict.md)
-_Context: Chadian-Sudanese conflict, Chad, Sudan, Tripoli Agreement_
+_Context: Tripoli Agreement, Chadian-Sudanese conflict, Sudan, Chad_
 
 ##### Heather Wilson
 ### [ Heather Wilson, a New Mexico Congresswoman with NSA oversight authority, became the first Republican on an intelligence committee to call for a congressional investigation into Bush's warrantless wiretap program. ](/news/2006/02/8/heather-wilson-a-new-mexico-congresswoman-with-nsa-oversight-authority-became-the-first-republican-on-an-intelligence-committee-to-call-f.md)
@@ -21,7 +21,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Jyllands-Posten Muhammad cartoons controversy
 ### [ Jyllands-Posten Muhammad cartoons controversy: in Afghanistan, four people are killed and eleven others are wounded by police firing on hundreds of protesters attempting to storm US military base. ](/news/2006/02/8/jyllands-posten-muhammad-cartoons-controversy-in-afghanistan-four-people-are-killed-and-eleven-others-are-wounded-by-police-firing-on-hun.md)
-_Context: Jyllands-Posten Muhammad cartoons controversy, Afghanistan_
+_Context: Afghanistan, Jyllands-Posten Muhammad cartoons controversy_
 
 ## [Previous Day...](/news/2006/02/7/index.md)
 

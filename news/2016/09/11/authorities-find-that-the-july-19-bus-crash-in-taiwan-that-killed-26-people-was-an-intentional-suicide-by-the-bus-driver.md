@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/11/authorities-find-that-the-july-19-bus-crash-in-
 
 ### Changes:
 
-1. [2016 Taoyuan bus crash: Authorities find that the July 19 bus crash in Taiwan that killed 26 people was an intentional suicide by the bus driver. ](/news/2016/09/11/2016-taoyuan-bus-crash-authorities-find-that-the-july-19-bus-crash-in-taiwan-that-killed-26-people-was-an-intentional-suicide-by-the-bus-dr.md) _2017-08-27 03:46:49 (First version)_
+1. [2016 Taoyuan bus crash: Authorities find that the July 19 bus crash in Taiwan that killed 26 people was an intentional suicide by the bus driver. ](/news/2016/09/11/2016-taoyuan-bus-crash-authorities-find-that-the-july-19-bus-crash-in-taiwan-that-killed-26-people-was-an-intentional-suicide-by-the-bus-dr.md) _2018-02-06 13:49:29 (First version)_
 1. [Authorities find that the July 19 bus crash in Taiwan that killed 26 people was an intentional suicide by the bus driver. ](/news/2016/09/11/authorities-find-that-the-july-19-bus-crash-in-taiwan-that-killed-26-people-was-an-intentional-suicide-by-the-bus-driver.md) _(Current version)_
 
 ### Related:

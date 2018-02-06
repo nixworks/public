@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/12/5/preliminary-results-are-released-from-the-russia
 
 ### Changes:
 
-1. [Russian election:Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/russian-election-ppreliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percent.md) _2017-08-25 03:34:34 (First version)_
-2. [Russian election:: Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/russian-election-preliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percen.md) _2017-08-27 03:34:44 (Update)_
+1. [Russian election:: Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/russian-election-preliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percen.md) _2018-02-06 13:49:23 (First version)_
+2. [Russian election:Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/russian-election-ppreliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percent.md) _2018-02-06 13:49:23 (Update)_
 2. [Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/preliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percent-of-the-vote-well.md) _(Current version)_
 
 ### Related:

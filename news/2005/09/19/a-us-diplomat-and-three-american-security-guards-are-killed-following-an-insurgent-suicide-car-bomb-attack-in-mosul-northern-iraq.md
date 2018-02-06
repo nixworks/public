@@ -23,8 +23,8 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [ Conflict in Iraq: A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-p-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-no.md) _2017-08-25 03:16:49 (First version)_
-2. [ Conflict in Iraq:: A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-nor.md) _2017-08-27 03:16:50 (Update)_
+1. [ Conflict in Iraq: A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-p-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-no.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-nor.md) _2018-02-06 13:49:16 (Update)_
 2. [ A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-northern-iraq.md) _(Current version)_
 
 ### Related:

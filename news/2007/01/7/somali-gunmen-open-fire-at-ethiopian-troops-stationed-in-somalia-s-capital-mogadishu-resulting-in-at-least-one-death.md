@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ War in Somalia: Somali gunmen open fire at Ethiopian troops stationed in Somalia's capital Mogadishu resulting in at least one death. ](/news/2007/01/7/war-in-somalia-p-somali-gunmen-open-fire-at-ethiopian-troops-stationed-in-somalia-s-capital-mogadishu-resulting-in-at-least-one-death.md) _2017-08-25 03:18:58 (First version)_
-2. [ War in Somalia:: Somali gunmen open fire at Ethiopian troops stationed in Somalia's capital Mogadishu resulting in at least one death. ](/news/2007/01/7/war-in-somalia-somali-gunmen-open-fire-at-ethiopian-troops-stationed-in-somalia-s-capital-mogadishu-resulting-in-at-least-one-death.md) _2017-08-27 03:18:54 (Update)_
+1. [ War in Somalia:: Somali gunmen open fire at Ethiopian troops stationed in Somalia's capital Mogadishu resulting in at least one death. ](/news/2007/01/7/war-in-somalia-somali-gunmen-open-fire-at-ethiopian-troops-stationed-in-somalia-s-capital-mogadishu-resulting-in-at-least-one-death.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Somalia: Somali gunmen open fire at Ethiopian troops stationed in Somalia's capital Mogadishu resulting in at least one death. ](/news/2007/01/7/war-in-somalia-p-somali-gunmen-open-fire-at-ethiopian-troops-stationed-in-somalia-s-capital-mogadishu-resulting-in-at-least-one-death.md) _2018-02-06 13:49:17 (Update)_
 2. [ Somali gunmen open fire at Ethiopian troops stationed in Somalia's capital Mogadishu resulting in at least one death. ](/news/2007/01/7/somali-gunmen-open-fire-at-ethiopian-troops-stationed-in-somalia-s-capital-mogadishu-resulting-in-at-least-one-death.md) _(Current version)_
 
 ### Related:

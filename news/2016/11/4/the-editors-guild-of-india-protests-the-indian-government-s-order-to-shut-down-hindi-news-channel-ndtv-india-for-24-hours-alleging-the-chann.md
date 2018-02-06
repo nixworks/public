@@ -17,7 +17,7 @@ The government directed NDTV India to go off air for 24 hours starting November 
 
 ### Changes:
 
-1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chan.md) _2017-08-25 03:46:45 (First version)_
+1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chan.md) _2018-02-06 13:49:29 (First version)_
 1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chann.md) _(Current version)_
 
 ### Related:

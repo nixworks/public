@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is
 
 ### Changes:
 
-1. [Ukrainian Revolution of 2014:Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-pformer-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to.md) _2017-08-25 03:40:04 (First version)_
-2. [Ukrainian Revolution of 2014:: Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-t.md) _2017-08-27 03:40:22 (Update)_
+1. [Ukrainian Revolution of 2014:Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-pformer-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to.md) _2018-02-06 13:49:25 (First version)_
+2. [Ukrainian Revolution of 2014:: Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-t.md) _2018-02-06 13:49:25 (Update)_
 2. [Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.md) _(Current version)_
 
 ### Related:

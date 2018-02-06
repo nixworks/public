@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-m
 
 ### Changes:
 
-1. [An Indonesian maritime patrol boat, the ''KM Hiu Macan 001'', intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-po.md) _2017-08-25 03:47:55 (First version)_
+1. [An Indonesian maritime patrol boat, the ''KM Hiu Macan 001'', intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-po.md) _2018-02-06 13:49:30 (First version)_
 1. [An Indonesian maritime patrol boat, the "KM Hiu Macan 001", intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-poac.md) _(Current version)_
 
 ### Related:

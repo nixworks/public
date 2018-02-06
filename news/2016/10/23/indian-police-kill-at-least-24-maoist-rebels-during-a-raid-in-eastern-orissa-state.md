@@ -16,7 +16,7 @@ Police in India say they have killed at least 24 Maoist rebels in the eastern st
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/naxalite-maoist-insurgency-indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md) _2017-08-27 03:47:07 (First version)_
+1. [Naxalite-Maoist insurgency: Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/naxalite-maoist-insurgency-indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md) _2018-02-06 13:49:29 (First version)_
 1. [Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md) _(Current version)_
 
 ### Related:

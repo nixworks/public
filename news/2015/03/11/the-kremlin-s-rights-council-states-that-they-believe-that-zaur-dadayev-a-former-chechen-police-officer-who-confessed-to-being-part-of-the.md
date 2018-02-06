@@ -16,7 +16,7 @@ A former Chechen police officer was likely tortured into confessing to the murde
 
 ### Changes:
 
-1. [Assassination of Boris Nemtsov: The Kremlin's Rights Council states that they believe that Zaur Dadayev, a former Chechen police officer, who confessed to being part of the murder of Boris Nemtsov did so after being tortured. ](/news/2015/03/11/assassination-of-boris-nemtsov-the-kremlin-s-rights-council-states-that-they-believe-that-zaur-dadayev-a-former-chechen-police-officer-wh.md) _2017-08-27 03:42:04 (First version)_
+1. [Assassination of Boris Nemtsov: The Kremlin's Rights Council states that they believe that Zaur Dadayev, a former Chechen police officer, who confessed to being part of the murder of Boris Nemtsov did so after being tortured. ](/news/2015/03/11/assassination-of-boris-nemtsov-the-kremlin-s-rights-council-states-that-they-believe-that-zaur-dadayev-a-former-chechen-police-officer-wh.md) _2018-02-06 13:49:26 (First version)_
 1. [The Kremlin's Rights Council states that they believe that Zaur Dadayev, a former Chechen police officer, who confessed to being part of the murder of Boris Nemtsov did so after being tortured. ](/news/2015/03/11/the-kremlin-s-rights-council-states-that-they-believe-that-zaur-dadayev-a-former-chechen-police-officer-who-confessed-to-being-part-of-the.md) _(Current version)_
 
 ### Related:

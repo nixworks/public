@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/01/29/a-suicide-attack-against-the-somali-government-
 
 ### Changes:
 
-1. [War in Somalia (2009-present):A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009apresent-pa-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-moga.md) _2017-08-25 03:37:22 (First version)_
-2. [War in Somalia (2009-present):: A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009-present-a-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-mog.md) _2017-08-27 03:37:32 (Update)_
+1. [War in Somalia (2009-present):A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009apresent-pa-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-moga.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia (2009-present):: A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009-present-a-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-mog.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/a-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-mogadishu.md) _(Current version)_
 
 ### Related:

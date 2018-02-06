@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/29/the-results-of-the-recent-tunisian-parliamentar
 
 ### Changes:
 
-1. [Tunisian parliamentary election, 2014: The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/tunisian-parliamentary-election-2014-the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes.md) _2017-08-27 03:41:26 (First version)_
+1. [Tunisian parliamentary election, 2014: The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/tunisian-parliamentary-election-2014-the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes.md) _2018-02-06 13:49:26 (First version)_
 1. [The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes-party-winning-a-plurality-of-seats.md) _(Current version)_
 
 ### Related:

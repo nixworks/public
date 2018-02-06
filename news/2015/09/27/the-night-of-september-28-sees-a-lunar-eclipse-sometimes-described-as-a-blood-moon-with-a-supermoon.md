@@ -16,8 +16,8 @@ Seen from the UK, a rare blood-red eclipse started at 1:10am (BST) on Monday - j
 
 ### Changes:
 
-1. [September 2015 lunar eclipse: The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/september-2015-lunar-eclipse-the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _2017-08-27 03:43:09 (First version)_
-2. [The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _2017-10-17 03:49:47 (Update)_
+1. [The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _2018-02-06 13:49:27 (First version)_
+2. [September 2015 lunar eclipse: The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/september-2015-lunar-eclipse-the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _2018-02-06 13:49:27 (Update)_
 2. [The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with a supermoon. ](/news/2015/09/27/the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-a-supermoon.md) _(Current version)_
 
 ### Related:

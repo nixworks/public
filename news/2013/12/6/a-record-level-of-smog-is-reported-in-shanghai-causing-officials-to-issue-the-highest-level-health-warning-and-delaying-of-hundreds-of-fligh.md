@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/6/a-record-level-of-smog-is-reported-in-shanghai-c
 
 ### Changes:
 
-1. [Pollution in China:A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-pa-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md) _2017-08-25 03:39:38 (First version)_
-2. [Pollution in China:: A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md) _2017-08-27 03:39:56 (Update)_
+1. [Pollution in China:A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-pa-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md) _2018-02-06 13:49:25 (First version)_
+2. [Pollution in China:: A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md) _2018-02-06 13:49:25 (Update)_
 2. [A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying-of-hundreds-of-fligh.md) _(Current version)_
 
 ### Related:

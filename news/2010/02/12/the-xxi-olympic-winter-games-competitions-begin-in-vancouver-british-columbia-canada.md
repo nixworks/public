@@ -20,8 +20,8 @@ The Winter Olympic Games opening ceremony has been launched in a flurry of ticke
 
 ### Changes:
 
-1. [2010 Winter Olympics:The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/2010-winter-olympics-pthe-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md) _2017-08-25 03:27:08 (First version)_
-2. [2010 Winter Olympics:: The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/2010-winter-olympics-the-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md) _2017-08-27 03:27:03 (Update)_
+1. [2010 Winter Olympics:: The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/2010-winter-olympics-the-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Winter Olympics:The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/2010-winter-olympics-pthe-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md) _2018-02-06 13:49:19 (Update)_
 2. [The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/the-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Chicago police are investigating a video appearing to show a man tied up and ass
 
 ### Changes:
 
-1. [2017 Chicago torture incident: Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/2017-chicago-torture-incident-chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Chicago torture incident: Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/2017-chicago-torture-incident-chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves.md) _2018-02-06 13:49:30 (First version)_
 1. [Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves-torturing-and-scalping-a-bound.md) _(Current version)_
 
 ### Related:

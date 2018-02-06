@@ -17,8 +17,8 @@ Explosions rip through Homs and Damascus suburb as world leaders attempt to get 
 
 ### Changes:
 
-1. [U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being.md) _2017-08-25 03:44:37 (First version)_
-2. [Syrian Civil War peace process: U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/syrian-civil-war-peace-process-u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-ministe.md) _2017-08-27 03:44:59 (Update)_
+1. [U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being.md) _2018-02-06 13:49:28 (First version)_
+2. [Syrian Civil War peace process: U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/syrian-civil-war-peace-process-u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-ministe.md) _2018-02-06 13:49:28 (Update)_
 2. [U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being-pre.md) _(Current version)_
 
 ### Related:

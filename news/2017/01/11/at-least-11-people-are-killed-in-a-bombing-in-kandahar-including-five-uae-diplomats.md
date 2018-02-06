@@ -15,7 +15,7 @@ Bombing in Kandahar kills seven people, including five UAE diplomats, and wounds
 
 ### Changes:
 
-1. [War in Afghanistan: At least 11 people are killed in a bombing in Kandahar, including five UAE diplomats. ](/news/2017/01/11/war-in-afghanistan-at-least-11-people-are-killed-in-a-bombing-in-kandahar-including-five-uae-diplomats.md) _2017-08-27 03:47:35 (First version)_
+1. [War in Afghanistan: At least 11 people are killed in a bombing in Kandahar, including five UAE diplomats. ](/news/2017/01/11/war-in-afghanistan-at-least-11-people-are-killed-in-a-bombing-in-kandahar-including-five-uae-diplomats.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 11 people are killed in a bombing in Kandahar, including five UAE diplomats. ](/news/2017/01/11/at-least-11-people-are-killed-in-a-bombing-in-kandahar-including-five-uae-diplomats.md) _(Current version)_
 
 ### Related:

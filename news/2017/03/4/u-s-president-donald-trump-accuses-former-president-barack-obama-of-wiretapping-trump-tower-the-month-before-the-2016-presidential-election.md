@@ -18,7 +18,7 @@ Barack Obama has rejected claims by Donald Trump that he wiretapped him during t
 
 ### Changes:
 
-1. [Trump Tower wiretapping allegations: U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/trump-tower-wiretapping-allegations-u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month.md) _2017-08-27 03:47:56 (First version)_
+1. [Trump Tower wiretapping allegations: U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/trump-tower-wiretapping-allegations-u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month-before-the-2016-presidential-election.md) _(Current version)_
 
 ### Related:

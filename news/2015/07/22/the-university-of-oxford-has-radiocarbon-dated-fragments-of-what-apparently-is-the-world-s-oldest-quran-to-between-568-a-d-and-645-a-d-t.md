@@ -17,7 +17,7 @@ Scientists in the UK say they have found fragments of one of the world&#39;s old
 
 ### Changes:
 
-1. [The University of Oxford has radiocarbon dated fragments, of what apparently is the world's oldest Quran, to between 568 A.D. and 645 A.D. The animal skin parchment was found hidden inside the pages of another book in England's University of Birmingham library. ](/news/2015/07/22/the-university-of-oxford-has-radiocarbon-dated-fragments-of-what-apparently-is-the-world-s-oldest-quran-to-between-568-a-d-and-645-a-d.md) _2017-08-25 03:42:27 (First version)_
+1. [The University of Oxford has radiocarbon dated fragments, of what apparently is the world's oldest Quran, to between 568 A.D. and 645 A.D. The animal skin parchment was found hidden inside the pages of another book in England's University of Birmingham library. ](/news/2015/07/22/the-university-of-oxford-has-radiocarbon-dated-fragments-of-what-apparently-is-the-world-s-oldest-quran-to-between-568-a-d-and-645-a-d.md) _2018-02-06 13:49:27 (First version)_
 1. [The University of Oxford has radiocarbon dated fragments, of what apparently is the world's oldest Quran, to between 568 A.D. and 645 A.D. The animal skin parchment was found hidden inside the pages of another book in England's University of Birmingham library. ](/news/2015/07/22/the-university-of-oxford-has-radiocarbon-dated-fragments-of-what-apparently-is-the-world-s-oldest-quran-to-between-568-a-d-and-645-a-d-t.md) _(Current version)_
 
 ### Related:

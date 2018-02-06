@@ -18,8 +18,8 @@ The official Xinhua News translation of a Communist Party statement expelling di
 
 ### Changes:
 
-1. [China:The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-pthe-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2017-08-25 03:36:37 (First version)_
-2. [China:: The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2017-08-27 03:36:47 (Update)_
+1. [China:: The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2018-02-06 13:49:23 (First version)_
+2. [China:The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-pthe-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2018-02-06 13:49:23 (Update)_
 2. [The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _(Current version)_
 
 ### Related:

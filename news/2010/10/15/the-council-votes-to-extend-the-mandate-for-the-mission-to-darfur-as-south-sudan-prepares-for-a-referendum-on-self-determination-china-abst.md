@@ -20,8 +20,8 @@ The U.N. Security Council voted to extend the mandate for the mission to Darfur 
 
 ### Changes:
 
-1. [United Nations Security Council:The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-pthe-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md) _2017-08-25 03:30:32 (First version)_
-2. [United Nations Security Council:: The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-the-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md) _2017-08-27 03:30:38 (Update)_
+1. [United Nations Security Council:: The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-the-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md) _2018-02-06 13:49:20 (First version)_
+2. [United Nations Security Council:The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-pthe-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md) _2018-02-06 13:49:20 (Update)_
 2. [The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/the-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum-on-self-determination-china-abst.md) _(Current version)_
 
 ### Related:

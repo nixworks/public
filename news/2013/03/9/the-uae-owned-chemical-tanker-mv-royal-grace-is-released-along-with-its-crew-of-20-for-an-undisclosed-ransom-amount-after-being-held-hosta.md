@@ -16,8 +16,8 @@ Somali pirates have released a chemical tanker they hijacked a year ago with abo
 
 ### Changes:
 
-1. [Piracy in Somalia:The UAE-owned chemical tanker ''MV Royal Grace'' is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/piracy-in-somalia-pthe-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-a.md) _2017-08-25 03:37:46 (First version)_
-2. [Piracy in Somalia:: The UAE-owned chemical tanker "MV Royal Grace" is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/piracy-in-somalia-the-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-af.md) _2017-08-27 03:37:57 (Update)_
+1. [Piracy in Somalia:: The UAE-owned chemical tanker "MV Royal Grace" is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/piracy-in-somalia-the-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-af.md) _2018-02-06 13:49:24 (First version)_
+2. [Piracy in Somalia:The UAE-owned chemical tanker ''MV Royal Grace'' is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/piracy-in-somalia-pthe-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-a.md) _2018-02-06 13:49:24 (Update)_
 2. [The UAE-owned chemical tanker "MV Royal Grace" is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/the-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-after-being-held-hosta.md) _(Current version)_
 
 ### Related:

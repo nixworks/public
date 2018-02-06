@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-k
 
 ### Changes:
 
-1. [War in North-West Pakistan:A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakist.md) _2017-08-25 03:38:20 (First version)_
-2. [War in North-West Pakistan:: A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakis.md) _2017-08-27 03:38:33 (Update)_
+1. [War in North-West Pakistan:A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakist.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakis.md) _2018-02-06 13:49:24 (Update)_
 2. [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md) _(Current version)_
 
 ### Related:

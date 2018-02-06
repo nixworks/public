@@ -16,7 +16,7 @@ President Obama will keep 5,500 US troops in Afghanistan when he leaves office i
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): President of the United States Barack Obama announces that he will keep 5,500 troops in Afghanistan. ](/news/2015/10/15/war-in-afghanistan-2015-present-president-of-the-united-states-barack-obama-announces-that-he-will-keep-5-500-troops-in-afghanistan.md) _2017-08-27 03:43:21 (First version)_
+1. [War in Afghanistan (2015-present): President of the United States Barack Obama announces that he will keep 5,500 troops in Afghanistan. ](/news/2015/10/15/war-in-afghanistan-2015-present-president-of-the-united-states-barack-obama-announces-that-he-will-keep-5-500-troops-in-afghanistan.md) _2018-02-06 13:49:27 (First version)_
 1. [President of the United States Barack Obama announces that he will keep 5,500 troops in Afghanistan. ](/news/2015/10/15/president-of-the-united-states-barack-obama-announces-that-he-will-keep-5-500-troops-in-afghanistan.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least 42 people drown after a migrant boat carrying about 600 passengers caps
 
 ### Changes:
 
-1. [2016 Egypt migrant shipwreck: A migrant boat carrying some 600 passengers capsizes off the coast of Kafr el-Sheikh Governorate, Egypt, killing at least 52 people, with hundreds more missing. ](/news/2016/09/21/2016-egypt-migrant-shipwreck-a-migrant-boat-carrying-some-600-passengers-capsizes-off-the-coast-of-kafr-el-sheikh-governorate-egypt-killi.md) _2017-08-27 03:46:53 (First version)_
+1. [2016 Egypt migrant shipwreck: A migrant boat carrying some 600 passengers capsizes off the coast of Kafr el-Sheikh Governorate, Egypt, killing at least 52 people, with hundreds more missing. ](/news/2016/09/21/2016-egypt-migrant-shipwreck-a-migrant-boat-carrying-some-600-passengers-capsizes-off-the-coast-of-kafr-el-sheikh-governorate-egypt-killi.md) _2018-02-06 13:49:29 (First version)_
 1. [A migrant boat carrying some 600 passengers capsizes off the coast of Kafr el-Sheikh Governorate, Egypt, killing at least 52 people, with hundreds more missing. ](/news/2016/09/21/a-migrant-boat-carrying-some-600-passengers-capsizes-off-the-coast-of-kafr-el-sheikh-governorate-egypt-killing-at-least-52-people-with-hu.md) _(Current version)_
 
 ### Related:

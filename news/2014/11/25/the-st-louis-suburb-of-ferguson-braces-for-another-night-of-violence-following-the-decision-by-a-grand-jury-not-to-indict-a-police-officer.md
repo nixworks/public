@@ -16,7 +16,7 @@ Missouri&#039;s governor ordered hundreds more state militia into a St. Louis su
 
 ### Changes:
 
-1. [2014 Ferguson unrest: The St. Louis suburb of Ferguson braces for another night of violence following the decision by a grand jury not to indict a police officer in relation to the shooting of Michael Brown. ](/news/2014/11/25/2014-ferguson-unrest-the-st-louis-suburb-of-ferguson-braces-for-another-night-of-violence-following-the-decision-by-a-grand-jury-not-to-in.md) _2017-08-27 03:41:33 (First version)_
+1. [2014 Ferguson unrest: The St. Louis suburb of Ferguson braces for another night of violence following the decision by a grand jury not to indict a police officer in relation to the shooting of Michael Brown. ](/news/2014/11/25/2014-ferguson-unrest-the-st-louis-suburb-of-ferguson-braces-for-another-night-of-violence-following-the-decision-by-a-grand-jury-not-to-in.md) _2018-02-06 13:49:26 (First version)_
 1. [The St. Louis suburb of Ferguson braces for another night of violence following the decision by a grand jury not to indict a police officer in relation to the shooting of Michael Brown. ](/news/2014/11/25/the-st-louis-suburb-of-ferguson-braces-for-another-night-of-violence-following-the-decision-by-a-grand-jury-not-to-indict-a-police-officer.md) _(Current version)_
 
 ### Related:

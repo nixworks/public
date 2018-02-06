@@ -16,7 +16,7 @@ Jodrell Bank showered with cash for European Spallation Source and exoplanet-spo
 
 ### Changes:
 
-1. [David Willetts, the UK science minister, announces PS11m of funding for data processing linked to the Square Kilometre Array. ](/news/2014/03/13/david-willetts-the-uk-science-minister-announces-aps11m-of-funding-for-data-processing-linked-to-the-square-kilometre-array.md) _2017-08-25 03:40:09 (First version)_
+1. [David Willetts, the UK science minister, announces PS11m of funding for data processing linked to the Square Kilometre Array. ](/news/2014/03/13/david-willetts-the-uk-science-minister-announces-aps11m-of-funding-for-data-processing-linked-to-the-square-kilometre-array.md) _2018-02-06 13:49:25 (First version)_
 1. [David Willetts, the UK science minister, announces GBP11m of funding for data processing linked to the Square Kilometre Array. ](/news/2014/03/13/david-willetts-the-uk-science-minister-announces-agbp11m-of-funding-for-data-processing-linked-to-the-square-kilometre-array.md) _(Current version)_
 
 ### Related:

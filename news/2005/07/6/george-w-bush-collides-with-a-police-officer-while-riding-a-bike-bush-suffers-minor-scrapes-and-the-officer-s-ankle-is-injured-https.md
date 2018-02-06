@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/6/george-w-bush-collides-with-a-police-officer-whi
 
 ### Changes:
 
-1. [ George W. Bush collides with a police officer while riding a bike. Bush suffers minor scrapes and the officer's ankle is injured. [http:--news.yahoo.com-news?tmpl=story&u=-ap-20050706-ap_on_re_eu-g_8_bush_bike_accident_8 (Yahoo! News)] (Link dead as of 04:20, 16 January 2007 (UTC))](/news/2005/07/6/george-w-bush-collides-with-a-police-officer-while-riding-a-bike-bush-suffers-minor-scrapes-and-the-officer-s-ankle-is-injured-http-n.md) _2017-10-17 03:18:57 (First version)_
+1. [ George W. Bush collides with a police officer while riding a bike. Bush suffers minor scrapes and the officer's ankle is injured. [http:--news.yahoo.com-news?tmpl=story&u=-ap-20050706-ap_on_re_eu-g_8_bush_bike_accident_8 (Yahoo! News)] (Link dead as of 04:20, 16 January 2007 (UTC))](/news/2005/07/6/george-w-bush-collides-with-a-police-officer-while-riding-a-bike-bush-suffers-minor-scrapes-and-the-officer-s-ankle-is-injured-http-n.md) _2018-02-06 13:49:16 (First version)_
 1. [ George W. Bush collides with a police officer while riding a bike. Bush suffers minor scrapes and the officer's ankle is injured. [https:--news.yahoo.com-news?tmpl=story&u=-ap-20050706-ap_on_re_eu-g_8_bush_bike_accident_8 (Yahoo! News)] (Link dead as of 04:20, 16 January 2007 (UTC))](/news/2005/07/6/george-w-bush-collides-with-a-police-officer-while-riding-a-bike-bush-suffers-minor-scrapes-and-the-officer-s-ankle-is-injured-https.md) _(Current version)_
 
 ### Related:

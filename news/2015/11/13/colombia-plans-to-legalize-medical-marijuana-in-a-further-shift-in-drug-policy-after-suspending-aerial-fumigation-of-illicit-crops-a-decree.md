@@ -17,7 +17,7 @@ Colombia said on Friday it plans to legalize medical marijuana in a further shif
 
 ### Changes:
 
-1. [Colombia plans to legalize medical marijuana in a further shift in drug policy after suspending aerial fumigation of illicit crops. A decree approving the therapeutic use of marijuana will be signed in the coming days. Growing, distributing and selling cannabis will remain illegal. ](/news/2015/11/13/colombia-plans-to-legalize-medical-marijuana-in-a-further-shift-in-drug-policy-after-suspending-aerial-fumigation-of-illicit-crops-a-decre.md) _2017-08-25 03:43:30 (First version)_
+1. [Colombia plans to legalize medical marijuana in a further shift in drug policy after suspending aerial fumigation of illicit crops. A decree approving the therapeutic use of marijuana will be signed in the coming days. Growing, distributing and selling cannabis will remain illegal. ](/news/2015/11/13/colombia-plans-to-legalize-medical-marijuana-in-a-further-shift-in-drug-policy-after-suspending-aerial-fumigation-of-illicit-crops-a-decre.md) _2018-02-06 13:49:28 (First version)_
 1. [Colombia plans to legalize medical marijuana in a further shift in drug policy after suspending aerial fumigation of illicit crops. A decree approving the therapeutic use of marijuana will be signed in the coming days. Growing, distributing and selling cannabis will remain illegal. ](/news/2015/11/13/colombia-plans-to-legalize-medical-marijuana-in-a-further-shift-in-drug-policy-after-suspending-aerial-fumigation-of-illicit-crops-a-decree.md) _(Current version)_
 
 ### Related:

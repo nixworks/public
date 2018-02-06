@@ -16,7 +16,7 @@ Two bomb attacks - on a restaurant and a mosque - in the central Nigerian city o
 
 ### Changes:
 
-1. [Boko Haram insurgency: Timeline of Boko Haram insurgency: Two bomb attacks on the central Nigerian city of Jos have left at least 44 people dead. ](/news/2015/07/6/boko-haram-insurgency-timeline-of-boko-haram-insurgency-two-bomb-attacks-on-the-central-nigerian-city-of-jos-have-left-at-least-44-people.md) _2017-08-27 03:42:39 (First version)_
+1. [Boko Haram insurgency: Timeline of Boko Haram insurgency: Two bomb attacks on the central Nigerian city of Jos have left at least 44 people dead. ](/news/2015/07/6/boko-haram-insurgency-timeline-of-boko-haram-insurgency-two-bomb-attacks-on-the-central-nigerian-city-of-jos-have-left-at-least-44-people.md) _2018-02-06 13:49:27 (First version)_
 1. [ Two bomb attacks on the central Nigerian city of Jos have left at least 44 people dead. ](/news/2015/07/6/two-bomb-attacks-on-the-central-nigerian-city-of-jos-have-left-at-least-44-people-dead.md) _(Current version)_
 
 ### Related:

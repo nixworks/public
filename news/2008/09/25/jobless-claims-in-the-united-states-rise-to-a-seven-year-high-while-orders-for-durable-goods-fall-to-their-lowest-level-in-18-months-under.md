@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-s
 
 ### Changes:
 
-1. [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-unde.md) _2017-08-25 03:22:56 (First version)_
-2. [ United States economy: Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/united-states-economy-jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-le.md) _2017-08-27 03:22:50 (Update)_
+1. [ United States economy: Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/united-states-economy-jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-le.md) _2018-02-06 13:49:18 (First version)_
+2. [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-unde.md) _2018-02-06 13:49:18 (Update)_
 2. [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-under.md) _(Current version)_
 
 ### Related:

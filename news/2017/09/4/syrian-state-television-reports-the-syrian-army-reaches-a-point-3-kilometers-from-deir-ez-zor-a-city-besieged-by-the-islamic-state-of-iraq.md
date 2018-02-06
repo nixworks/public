@@ -17,7 +17,7 @@ With a sudden lunge through jihadist lines, the Syrian military and its allies o
 
 ### Changes:
 
-1. [Syrian state television reports the Syrian Army reaches a point 3 km from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-km-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq-and-the.md) _2017-09-04 21:30:05 (First version)_
+1. [Syrian state television reports the Syrian Army reaches a point 3 km from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-km-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq-and-the.md) _2018-02-06 13:49:31 (First version)_
 1. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/08/2/in-ohio-s-second-district-voters-are-choosing-a-
 
 ### Changes:
 
-1. [ In Ohio's Second District, voters are choosing a new congressman. The candidates are Jean Schmidt and Paul Hackett. Schmidt ultimately wins the election.](/news/2005/08/2/in-ohio-s-second-district-voters-are-choosing-a-new-congressman-the-candidates-are-jean-schmidt-and-paul-hackett-schmidt-ultimately-win.md) _2017-08-25 03:16:37 (First version)_
+1. [ In Ohio's Second District, voters are choosing a new congressman. The candidates are Jean Schmidt and Paul Hackett. Schmidt ultimately wins the election.](/news/2005/08/2/in-ohio-s-second-district-voters-are-choosing-a-new-congressman-the-candidates-are-jean-schmidt-and-paul-hackett-schmidt-ultimately-win.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Ohio's Second District, voters are choosing a new congressman. The candidates are Jean Schmidt and Paul Hackett. Schmidt ultimately wins the election.](/news/2005/08/2/in-ohio-s-second-district-voters-are-choosing-a-new-congressman-the-candidates-are-jean-schmidt-and-paul-hackett-schmidt-ultimately-wins.md) _(Current version)_
 
 ### Related:

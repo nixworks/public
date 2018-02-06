@@ -18,8 +18,8 @@ The best of British &amp; international news, opinion, sport, people &amp; busin
 
 ### Changes:
 
-1. [2011 Libyan civil war:Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/2011-libyan-civil-war-pgaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md) _2017-08-25 03:32:50 (First version)_
-2. [2011 Libyan civil war:: Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/2011-libyan-civil-war-gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Libyan civil war:Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/2011-libyan-civil-war-pgaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/2011-libyan-civil-war-gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md) _2018-02-06 13:49:22 (Update)_
 2. [Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md) _(Current version)_
 
 ### Related:

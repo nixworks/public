@@ -16,8 +16,8 @@ Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Satur
 
 ### Changes:
 
-1. [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at three locations in rural Mississippi. ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi.md) _2017-05-28 17:30:06 (First version)_
-2. [2017 Mississippi shootings: Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/2017-mississippi-shootings-eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locati.md) _2017-08-27 03:48:24 (Update)_
+1. [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at three locations in rural Mississippi. ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Mississippi shootings: Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/2017-mississippi-shootings-eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locati.md) _2018-02-06 13:49:30 (Update)_
 2. [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi-a.md) _(Current version)_
 
 ### Related:

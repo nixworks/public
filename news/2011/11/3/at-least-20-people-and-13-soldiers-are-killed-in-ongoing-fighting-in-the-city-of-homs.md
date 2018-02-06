@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/11/3/at-least-20-people-and-13-soldiers-are-killed-in
 
 ### Changes:
 
-1. [2011 Syrian uprising:At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-pat-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _2017-08-25 03:34:26 (First version)_
-2. [2011 Syrian uprising:: At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-at-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _2017-08-27 03:34:35 (Update)_
+1. [2011 Syrian uprising:At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-pat-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:: At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-at-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/at-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md) _(Current version)_
 
 ### Related:

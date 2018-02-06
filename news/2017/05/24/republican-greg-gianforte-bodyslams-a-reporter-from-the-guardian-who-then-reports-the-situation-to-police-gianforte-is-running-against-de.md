@@ -16,8 +16,8 @@ Audio of Greg Gianforte attacking Ben Jacobs corroborated by Fox News journalist
 
 ### Changes:
 
-1. [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who reported the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-reported-the-situation-to-police-gianforte-is-running-against-demo.md) _2017-05-25 14:30:07 (First version)_
-2. [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against.md) _2017-08-25 03:47:56 (Update)_
+1. [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against.md) _2018-02-06 13:49:30 (First version)_
+2. [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who reported the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-reported-the-situation-to-police-gianforte-is-running-against-demo.md) _2018-02-06 13:49:30 (Update)_
 2. [Republican Greg Gianforte bodyslams a reporter from "The Guardian" who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against-de.md) _(Current version)_
 
 ### Related:

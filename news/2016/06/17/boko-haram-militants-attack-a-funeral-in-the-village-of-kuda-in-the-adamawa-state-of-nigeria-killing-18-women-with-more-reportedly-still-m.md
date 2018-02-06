@@ -15,7 +15,7 @@ Gunmen on motorbikes attack village near Madagali in Adamawa state, killing mour
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram militants attack a funeral in the village of Kuda in the Adamawa State of Nigeria, killing 18 women, with more reportedly still missing. ](/news/2016/06/17/boko-haram-insurgency-boko-haram-militants-attack-a-funeral-in-the-village-of-kuda-in-the-adamawa-state-of-nigeria-killing-18-women-with.md) _2017-08-27 03:46:17 (First version)_
+1. [Boko Haram insurgency: Boko Haram militants attack a funeral in the village of Kuda in the Adamawa State of Nigeria, killing 18 women, with more reportedly still missing. ](/news/2016/06/17/boko-haram-insurgency-boko-haram-militants-attack-a-funeral-in-the-village-of-kuda-in-the-adamawa-state-of-nigeria-killing-18-women-with.md) _2018-02-06 13:49:29 (First version)_
 1. [Boko Haram militants attack a funeral in the village of Kuda in the Adamawa State of Nigeria, killing 18 women, with more reportedly still missing. ](/news/2016/06/17/boko-haram-militants-attack-a-funeral-in-the-village-of-kuda-in-the-adamawa-state-of-nigeria-killing-18-women-with-more-reportedly-still-m.md) _(Current version)_
 
 ### Related:

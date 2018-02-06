@@ -16,8 +16,8 @@ The Lebanese Army fires on a Syrian warplane over the northeast border town of A
 
 ### Changes:
 
-1. [Syrian Civil War:The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/syrian-civil-war-pthe-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md) _2017-08-25 03:39:47 (First version)_
-2. [Syrian Civil War:: The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/syrian-civil-war-the-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md) _2017-08-27 03:40:06 (Update)_
+1. [Syrian Civil War:: The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/syrian-civil-war-the-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/syrian-civil-war-pthe-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md) _2018-02-06 13:49:25 (Update)_
 2. [The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/the-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md) _(Current version)_
 
 ### Related:

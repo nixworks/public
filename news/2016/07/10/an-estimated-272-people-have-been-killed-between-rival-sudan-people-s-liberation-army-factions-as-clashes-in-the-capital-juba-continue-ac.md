@@ -17,7 +17,7 @@ South Sudan is &quot;back to war&quot;, a spokesman for the vice-president tells
 
 ### Changes:
 
-1. [South Sudanese Civil War: An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. ](/news/2016/07/10/south-sudanese-civil-war-an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-c.md) _2017-08-27 03:46:28 (First version)_
+1. [South Sudanese Civil War: An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. ](/news/2016/07/10/south-sudanese-civil-war-an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-c.md) _2018-02-06 13:49:29 (First version)_
 1. [An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. ](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hu
 
 ### Changes:
 
-1. [2016 Ecuador earthquake: The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/2016-ecuador-earthquake-the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md) _2017-08-27 03:45:39 (First version)_
+1. [2016 Ecuador earthquake: The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/2016-ecuador-earthquake-the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md) _(Current version)_
 
 ### Related:

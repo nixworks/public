@@ -16,8 +16,8 @@ The decree refers to the resolution adopted on November 30, 2016, as a response 
 
 ### Changes:
 
-1. [Russian president signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _2017-10-16 19:30:06 (First version)_
-2. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _2017-10-17 22:30:05 (Update)_
+1. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _2018-02-06 13:49:31 (First version)_
+2. [Russian president signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _2018-02-06 13:49:31 (Update)_
 2. [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md) _(Current version)_
 
 ### Related:

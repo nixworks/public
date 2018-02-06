@@ -17,7 +17,7 @@ Bolivian President Evo Morales abandons a public event in the face of a food pro
 
 ##### Israel
 ### [Israeli forces fire gas agents and rubber-coated bullets against Palestinian protesters in Silwan, injuring dozens.](/news/2011/02/11/israeli-forces-fire-gas-agents-and-rubber-coated-bullets-against-palestinian-protesters-in-silwan-injuring-dozens.md)
-_Context: Israel, Palestinian, Silwan_
+_Context: Silwan, Israel, Palestinian_
 
 ##### Department of Agriculture
 ### [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food. The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questio.md)
@@ -45,7 +45,7 @@ In a dramatic and poignant sign of a state nearing collapse, North Korea has ask
 
 ##### McAfee
 ### [Computer security company McAfee says hackers based in the People's Republic of China have targeted computer networks of global oil companies and individuals in Kazakhstan, Taiwan, Greece, and the United States, to steal information starting in 2009. ](/news/2011/02/11/computer-security-company-mcafee-says-hackers-based-in-the-people-s-republic-of-china-have-targeted-computer-networks-of-global-oil-companie.md)
-_Context: United States, oil companies, attack, Taiwan, Greece, hackers, China, McAfee, Kazakhstan_
+_Context: Kazakhstan, attack, hackers, McAfee, United States, Taiwan, China, oil companies, Greece_
 
 ##### President of Liberia
 ### [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md)
@@ -53,7 +53,7 @@ _Context: Charles Taylor, President of Liberia, The Hague_
 
 ##### Somali pirates
 ### [Seven Somali pirates are charged with firearms offences in a Malaysian court, in a move that could see them hanged. ](/news/2011/02/11/seven-somali-pirates-are-charged-with-firearms-offences-in-a-malaysian-court-in-a-move-that-could-see-them-hanged.md)
-_Context: Malaysia, Somali pirates_
+_Context: Somali pirates, Malaysia_
 
 ##### Indonesia
 ### [Indonesian police arrest 13 people over two incidents of religious violence in which three people were killed and churches burnt. ](/news/2011/02/11/indonesian-police-arrest-13-people-over-two-incidents-of-religious-violence-in-which-three-people-were-killed-and-churches-burnt.md)

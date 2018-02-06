@@ -16,7 +16,7 @@ Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night t
 
 ### Changes:
 
-1. [2015 anti-government protest in Montenegro: Thousands protest and clash with police in Montenegro's capital Podgorica, demanding the immediate resignation of Prime Minister Milo Dukanovic. Dukanovic has rejected calls to resign and has accused the opposition of trying to prevent the country's NATO membership, saying he is convinced Russia is behind the unrest. ](/news/2015/10/24/2015-anti-government-protest-in-montenegro-thousands-protest-and-clash-with-police-in-montenegro-s-capital-podgorica-demanding-the-immedia.md) _2017-08-27 03:43:29 (First version)_
+1. [2015 anti-government protest in Montenegro: Thousands protest and clash with police in Montenegro's capital Podgorica, demanding the immediate resignation of Prime Minister Milo Dukanovic. Dukanovic has rejected calls to resign and has accused the opposition of trying to prevent the country's NATO membership, saying he is convinced Russia is behind the unrest. ](/news/2015/10/24/2015-anti-government-protest-in-montenegro-thousands-protest-and-clash-with-police-in-montenegro-s-capital-podgorica-demanding-the-immedia.md) _2018-02-06 13:49:28 (First version)_
 1. [Thousands protest and clash with police in Montenegro's capital Podgorica, demanding the immediate resignation of Prime Minister Milo Dukanovic. Dukanovic has rejected calls to resign and has accused the opposition of trying to prevent the country's NATO membership, saying he is convinced Russia is behind the unrest. ](/news/2015/10/24/thousands-protest-and-clash-with-police-in-montenegro-s-capital-podgorica-demanding-the-immediate-resignation-of-prime-minister-milo-aukan.md) _(Current version)_
 
 ### Related:

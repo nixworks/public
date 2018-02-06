@@ -18,7 +18,7 @@ A comprehensive operation against terrorists is being launched upon direction of
 
 ### Changes:
 
-1. [War in North-West Pakistan: Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/war-in-north-west-pakistan-airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md) _2017-08-27 03:40:51 (First version)_
+1. [War in North-West Pakistan: Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/war-in-north-west-pakistan-airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md) _2018-02-06 13:49:26 (First version)_
 1. [Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md) _(Current version)_
 
 ### Related:

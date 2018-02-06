@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-
 
 ### Changes:
 
-1. [2017 Australian constitutional crisis: Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/2017-australian-constitutional-crisis-australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md) _2017-08-27 03:48:49 (First version)_
+1. [2017 Australian constitutional crisis: Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/2017-australian-constitutional-crisis-australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md) _2018-02-06 13:49:31 (First version)_
 1. [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md) _(Current version)_
 
 ### Related:

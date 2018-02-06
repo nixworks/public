@@ -17,8 +17,8 @@ The United States took complete charge of Kandahar Thursday, formally ending ove
 
 ### Changes:
 
-1. [War in Afghanistan:Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-pcanada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _2017-08-25 03:33:42 (First version)_
-2. [War in Afghanistan:: Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _2017-08-27 03:33:51 (Update)_
+1. [War in Afghanistan:Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-pcanada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan:: Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _2018-02-06 13:49:22 (Update)_
 2. [Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _(Current version)_
 
 ### Related:

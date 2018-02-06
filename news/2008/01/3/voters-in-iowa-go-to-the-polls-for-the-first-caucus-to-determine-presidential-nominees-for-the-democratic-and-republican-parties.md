@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/01/3/voters-in-iowa-go-to-the-polls-for-the-first-cau
 
 ### Changes:
 
-1. [ United States presidential election, 2008: Voters in Iowa go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/united-states-presidential-election-2008-p-voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the.md) _2017-08-25 03:21:38 (First version)_
-2. [ United States presidential election, 2008:: Voters in Iowa go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/united-states-presidential-election-2008-voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the.md) _2017-08-27 03:21:32 (Update)_
+1. [ United States presidential election, 2008:: Voters in Iowa go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/united-states-presidential-election-2008-voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008: Voters in Iowa go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/united-states-presidential-election-2008-p-voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the.md) _2018-02-06 13:49:18 (Update)_
 2. [ Voters in Iowa go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the-democratic-and-republican-parties.md) _(Current version)_
 
 ### Related:

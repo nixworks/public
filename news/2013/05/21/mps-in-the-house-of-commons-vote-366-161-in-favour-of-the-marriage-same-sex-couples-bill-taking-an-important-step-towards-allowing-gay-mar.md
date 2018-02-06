@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-fav
 
 ### Changes:
 
-1. [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-ma.md) _2017-08-25 03:38:42 (First version)_
+1. [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-ma.md) _2018-02-06 13:49:24 (First version)_
 1. [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-mar.md) _(Current version)_
 
 ### Related:

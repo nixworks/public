@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/4/united-states-president-george-w-bush-expresses-
 
 ### Changes:
 
-1. [ United States President George W. Bush expresses concern for a potential avian flu outbreak. He requests Congressional legislation permitting the military to impose a quarantine in the event of a deadly flu pandemic. ](/news/2005/10/4/united-states-president-george-w-bush-expresses-concern-for-a-potential-avian-flu-outbreak-he-requests-congressional-legislation-permitt.md) _2017-08-25 03:16:53 (First version)_
+1. [ United States President George W. Bush expresses concern for a potential avian flu outbreak. He requests Congressional legislation permitting the military to impose a quarantine in the event of a deadly flu pandemic. ](/news/2005/10/4/united-states-president-george-w-bush-expresses-concern-for-a-potential-avian-flu-outbreak-he-requests-congressional-legislation-permitt.md) _2018-02-06 13:49:16 (First version)_
 1. [ United States President George W. Bush expresses concern for a potential avian flu outbreak. He requests Congressional legislation permitting the military to impose a quarantine in the event of a deadly flu pandemic. ](/news/2005/10/4/united-states-president-george-w-bush-expresses-concern-for-a-potential-avian-flu-outbreak-he-requests-congressional-legislation-permitti.md) _(Current version)_
 
 ### Related:

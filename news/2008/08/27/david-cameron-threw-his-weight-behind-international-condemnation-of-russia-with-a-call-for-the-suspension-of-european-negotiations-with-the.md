@@ -29,8 +29,8 @@ Ukrainian President Viktor Yushchenko has condemned Russia&#39;s &#39;unacceptab
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: David Cameron threw his weight behind international condemnation of Russia with a call for the suspension of European negotiations with the superpower. ](/news/2008/08/27/2008-south-ossetia-war-p-david-cameron-threw-his-weight-behind-international-condemnation-of-russia-with-a-call-for-the-suspension-of-europ.md) _2017-08-25 03:22:46 (First version)_
-2. [ 2008 South Ossetia war:: David Cameron threw his weight behind international condemnation of Russia with a call for the suspension of European negotiations with the superpower. ](/news/2008/08/27/2008-south-ossetia-war-david-cameron-threw-his-weight-behind-international-condemnation-of-russia-with-a-call-for-the-suspension-of-europ.md) _2017-08-27 03:22:40 (Update)_
+1. [ 2008 South Ossetia war: David Cameron threw his weight behind international condemnation of Russia with a call for the suspension of European negotiations with the superpower. ](/news/2008/08/27/2008-south-ossetia-war-p-david-cameron-threw-his-weight-behind-international-condemnation-of-russia-with-a-call-for-the-suspension-of-europ.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war:: David Cameron threw his weight behind international condemnation of Russia with a call for the suspension of European negotiations with the superpower. ](/news/2008/08/27/2008-south-ossetia-war-david-cameron-threw-his-weight-behind-international-condemnation-of-russia-with-a-call-for-the-suspension-of-europ.md) _2018-02-06 13:49:18 (Update)_
 2. [ David Cameron threw his weight behind international condemnation of Russia with a call for the suspension of European negotiations with the superpower. ](/news/2008/08/27/david-cameron-threw-his-weight-behind-international-condemnation-of-russia-with-a-call-for-the-suspension-of-european-negotiations-with-the.md) _(Current version)_
 
 ### Related:

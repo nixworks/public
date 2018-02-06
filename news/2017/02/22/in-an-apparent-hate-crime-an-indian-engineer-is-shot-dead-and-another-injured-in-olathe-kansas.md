@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/22/in-an-apparent-hate-crime-an-indian-engineer-is
 
 ### Changes:
 
-1. [2017 Olathe, Kansas shooting: In an apparent hate crime, an Indian engineer is shot dead and another injured in Olathe, Kansas. ](/news/2017/02/22/2017-olathe-kansas-shooting-in-an-apparent-hate-crime-an-indian-engineer-is-shot-dead-and-another-injured-in-olathe-kansas.md) _2017-08-27 03:47:52 (First version)_
+1. [2017 Olathe, Kansas shooting: In an apparent hate crime, an Indian engineer is shot dead and another injured in Olathe, Kansas. ](/news/2017/02/22/2017-olathe-kansas-shooting-in-an-apparent-hate-crime-an-indian-engineer-is-shot-dead-and-another-injured-in-olathe-kansas.md) _2018-02-06 13:49:30 (First version)_
 1. [In an apparent hate crime, an Indian engineer is shot dead and another injured in Olathe, Kansas. ](/news/2017/02/22/in-an-apparent-hate-crime-an-indian-engineer-is-shot-dead-and-another-injured-in-olathe-kansas.md) _(Current version)_
 
 ### Related:

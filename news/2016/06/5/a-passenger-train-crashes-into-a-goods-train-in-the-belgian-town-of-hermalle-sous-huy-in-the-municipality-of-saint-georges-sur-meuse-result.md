@@ -17,7 +17,7 @@ A passenger train crashed into the back of a freight train in the eastern Belgia
 
 ### Changes:
 
-1. [Hermalle-sous-Huy train collision: A passenger train crashes into a goods train in the Belgian town of Hermalle-sous-Huy in the municipality of Saint-Georges-sur-Meuse, resulting in at least three deaths and more than 40 injuries. ](/news/2016/06/5/hermalle-sous-huy-train-collision-a-passenger-train-crashes-into-a-goods-train-in-the-belgian-town-of-hermalle-sous-huy-in-the-municipality.md) _2017-08-27 03:46:12 (First version)_
+1. [Hermalle-sous-Huy train collision: A passenger train crashes into a goods train in the Belgian town of Hermalle-sous-Huy in the municipality of Saint-Georges-sur-Meuse, resulting in at least three deaths and more than 40 injuries. ](/news/2016/06/5/hermalle-sous-huy-train-collision-a-passenger-train-crashes-into-a-goods-train-in-the-belgian-town-of-hermalle-sous-huy-in-the-municipality.md) _2018-02-06 13:49:29 (First version)_
 1. [A passenger train crashes into a goods train in the Belgian town of Hermalle-sous-Huy in the municipality of Saint-Georges-sur-Meuse, resulting in at least three deaths and more than 40 injuries. ](/news/2016/06/5/a-passenger-train-crashes-into-a-goods-train-in-the-belgian-town-of-hermalle-sous-huy-in-the-municipality-of-saint-georges-sur-meuse-result.md) _(Current version)_
 
 ### Related:

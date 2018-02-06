@@ -16,7 +16,7 @@ Indonesia shut down at least 11radical websites and several social media account
 
 ### Changes:
 
-1. [2016 Jakarta attacks: Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/2016-jakarta-attacks-indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _2017-08-27 03:44:41 (First version)_
+1. [2016 Jakarta attacks: Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/2016-jakarta-attacks-indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _2018-02-06 13:49:28 (First version)_
 1. [Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _(Current version)_
 
 ### Related:

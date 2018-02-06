@@ -16,8 +16,8 @@ A suicide bomb blast claimed by Islamic State killed at least 16 people in the m
 
 ### Changes:
 
-1. [A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three-children-and-two.md) _2017-08-25 03:46:03 (First version)_
-2. [ISIL involvement: A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/isil-involvement-a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three.md) _2017-08-27 03:46:25 (Update)_
+1. [ISIL involvement: A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/isil-involvement-a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three.md) _2018-02-06 13:49:29 (First version)_
+2. [A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three-children-and-two.md) _2018-02-06 13:49:29 (Update)_
 2. [A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three-children-and-two-w.md) _(Current version)_
 
 ### Related:

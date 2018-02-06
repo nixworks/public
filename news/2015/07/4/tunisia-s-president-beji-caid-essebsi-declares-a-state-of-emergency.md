@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/4/tunisia-s-president-beji-caid-essebsi-declares-a
 
 ### Changes:
 
-1. [ 2015 Sousse attacks: Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/2015-sousse-attacks-tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md) _2017-08-27 03:42:39 (First version)_
+1. [ 2015 Sousse attacks: Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/2015-sousse-attacks-tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md) _2018-02-06 13:49:27 (First version)_
 1. [ Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md) _(Current version)_
 
 ### Related:

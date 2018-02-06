@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/14/the-famous-italian-opera-house-la-fenice-in-ven
 
 ### Changes:
 
-1. [The famous Italian opera house La Fenice in Venice reopens after being destroyed by fire in 1996. It was rebuilt at the cost of -90mn.[http:--launch.yahoo.com-read-news.asp?contentID=215989]](/news/2003/12/14/the-famous-italian-opera-house-la-fenice-in-venice-reopens-after-being-destroyed-by-fire-in-1996-it-was-rebuilt-at-the-cost-of-90mn-htt.md) _2017-08-27 03:15:25 (First version)_
+1. [The famous Italian opera house La Fenice in Venice reopens after being destroyed by fire in 1996. It was rebuilt at the cost of -90mn.[http:--launch.yahoo.com-read-news.asp?contentID=215989]](/news/2003/12/14/the-famous-italian-opera-house-la-fenice-in-venice-reopens-after-being-destroyed-by-fire-in-1996-it-was-rebuilt-at-the-cost-of-90mn-htt.md) _2018-02-06 13:49:15 (First version)_
 1. [The famous Italian opera house La Fenice in Venice reopens after being destroyed by fire in 1996. It was rebuilt at the cost of EUR90mn.[http:--launch.yahoo.com-read-news.asp?contentID=215989]](/news/2003/12/14/the-famous-italian-opera-house-la-fenice-in-venice-reopens-after-being-destroyed-by-fire-in-1996-it-was-rebuilt-at-the-cost-of-a-90mn-htt.md) _(Current version)_
 
 ### Related:

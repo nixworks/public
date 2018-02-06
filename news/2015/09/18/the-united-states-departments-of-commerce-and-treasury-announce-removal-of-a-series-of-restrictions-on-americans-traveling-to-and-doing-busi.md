@@ -17,7 +17,7 @@ The United States announced new rules on Friday to further ease trade, travel an
 
 ### Changes:
 
-1. [Cuba-United States relations: The United States departments of Commerce and Treasury announce removal of a series of restrictions on Americans traveling to and doing business with Cuba effective September 21, 2015. The U.S. economic embargo, itself, remains in place until Congress acts. ](/news/2015/09/18/cuba-united-states-relations-the-united-states-departments-of-commerce-and-treasury-announce-removal-of-a-series-of-restrictions-on-ameri.md) _2017-08-27 03:43:05 (First version)_
+1. [Cuba-United States relations: The United States departments of Commerce and Treasury announce removal of a series of restrictions on Americans traveling to and doing business with Cuba effective September 21, 2015. The U.S. economic embargo, itself, remains in place until Congress acts. ](/news/2015/09/18/cuba-united-states-relations-the-united-states-departments-of-commerce-and-treasury-announce-removal-of-a-series-of-restrictions-on-ameri.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States departments of Commerce and Treasury announce removal of a series of restrictions on Americans traveling to and doing business with Cuba effective September 21, 2015. The U.S. economic embargo, itself, remains in place until Congress acts. ](/news/2015/09/18/the-united-states-departments-of-commerce-and-treasury-announce-removal-of-a-series-of-restrictions-on-americans-traveling-to-and-doing-busi.md) _(Current version)_
 
 ### Related:

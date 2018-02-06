@@ -15,8 +15,8 @@ Israeli security forces detained a female Palestinian lawmaker on Sunday for all
 
 ### Changes:
 
-1. [Israel arrests Palesrinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palesrinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _2017-07-02 21:30:07 (First version)_
-2. [Law in Israel: Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/law-in-israel-israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _2017-08-27 03:48:35 (Update)_
+1. [Law in Israel: Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/law-in-israel-israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _2018-02-06 13:49:30 (First version)_
+2. [Israel arrests Palesrinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palesrinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _2018-02-06 13:49:30 (Update)_
 2. [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _(Current version)_
 
 ### Related:

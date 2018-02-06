@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/20/former-united-states-officials-report-that-18a2
 
 ### Changes:
 
-1. [China-United States relations: Former United States officials report that 18-20 Central Intelligence Agency sources were killed or imprisoned by the Government of China between 2010 and 2012, which significantly hampered the United States Intelligence Community. ](/news/2017/05/20/china-united-states-relations-former-united-states-officials-report-that-18-20-central-intelligence-agency-sources-were-killed-or-impri.md) _2017-08-27 03:48:21 (First version)_
+1. [China-United States relations: Former United States officials report that 18-20 Central Intelligence Agency sources were killed or imprisoned by the Government of China between 2010 and 2012, which significantly hampered the United States Intelligence Community. ](/news/2017/05/20/china-united-states-relations-former-united-states-officials-report-that-18-20-central-intelligence-agency-sources-were-killed-or-impri.md) _2018-02-06 13:49:30 (First version)_
 1. [Former United States officials report that 18-20 Central Intelligence Agency sources were killed or imprisoned by the Government of China between 2010 and 2012, which significantly hampered the United States Intelligence Community. ](/news/2017/05/20/former-united-states-officials-report-that-18a20-central-intelligence-agency-sources-were-killed-or-imprisoned-by-the-government-of-china.md) _(Current version)_
 
 ### Related:

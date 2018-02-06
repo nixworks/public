@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/4/the-house-of-keys-elects-howard-quayle-chief-min
 
 ### Changes:
 
-1. [Manx general election, 2016: The House of Keys elects Howard Quayle Chief Minister of the Isle of Man with a majority of 21 votes ](/news/2016/10/4/manx-general-election-2016-the-house-of-keys-elects-howard-quayle-chief-minister-of-the-isle-of-man-with-a-majority-of-21-votes.md) _2017-08-27 03:46:57 (First version)_
+1. [Manx general election, 2016: The House of Keys elects Howard Quayle Chief Minister of the Isle of Man with a majority of 21 votes ](/news/2016/10/4/manx-general-election-2016-the-house-of-keys-elects-howard-quayle-chief-minister-of-the-isle-of-man-with-a-majority-of-21-votes.md) _2018-02-06 13:49:29 (First version)_
 1. [The House of Keys elects Howard Quayle Chief Minister of the Isle of Man with a majority of 21 votes ](/news/2016/10/4/the-house-of-keys-elects-howard-quayle-chief-minister-of-the-isle-of-man-with-a-majority-of-21-votes.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-s
 
 ### Changes:
 
-1. [South Sudan Conflict: A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/south-sudan-conflict-a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action.md) _2017-08-27 03:47:16 (First version)_
+1. [South Sudan Conflict: A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/south-sudan-conflict-a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action.md) _2018-02-06 13:49:29 (First version)_
 1. [A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action-since-world-war-ii.md) _(Current version)_
 
 ### Related:

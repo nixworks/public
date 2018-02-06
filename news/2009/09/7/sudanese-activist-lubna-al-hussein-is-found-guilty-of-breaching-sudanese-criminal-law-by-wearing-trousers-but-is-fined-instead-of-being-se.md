@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/09/7/sudanese-activist-lubna-al-hussein-is-found-guil
 
 ### Changes:
 
-1. [ Sudanese activist Lubna al-Hussein is found guilty of breaching Sudanese criminal law by wearing trousers, but is fined instead of being sentenced to flogging due to international concern over the trial. She has stated she will not pay and instead face a month in jail. ](/news/2009/09/7/sudanese-activist-lubna-al-hussein-is-found-guilty-of-breaching-sudanese-criminal-law-by-wearing-trousers-but-is-fined-instead-of-being-s.md) _2017-08-25 03:25:40 (First version)_
+1. [ Sudanese activist Lubna al-Hussein is found guilty of breaching Sudanese criminal law by wearing trousers, but is fined instead of being sentenced to flogging due to international concern over the trial. She has stated she will not pay and instead face a month in jail. ](/news/2009/09/7/sudanese-activist-lubna-al-hussein-is-found-guilty-of-breaching-sudanese-criminal-law-by-wearing-trousers-but-is-fined-instead-of-being-s.md) _2018-02-06 13:49:19 (First version)_
 1. [ Sudanese activist Lubna al-Hussein is found guilty of breaching Sudanese criminal law by wearing trousers, but is fined instead of being sentenced to flogging due to international concern over the trial. She has stated she will not pay and instead face a month in jail. ](/news/2009/09/7/sudanese-activist-lubna-al-hussein-is-found-guilty-of-breaching-sudanese-criminal-law-by-wearing-trousers-but-is-fined-instead-of-being-se.md) _(Current version)_
 
 ### Related:

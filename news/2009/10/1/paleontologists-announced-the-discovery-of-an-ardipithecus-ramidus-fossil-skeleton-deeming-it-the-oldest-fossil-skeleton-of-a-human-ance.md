@@ -16,7 +16,7 @@ Scientists said that Ardi, short for Ardipithecus ramidus, was the earliest know
 
 ### Changes:
 
-1. [ Paleontologists announced the discovery of an ''Ardipithecus ramidus'' fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-an.md) _2017-08-25 03:25:55 (First version)_
+1. [ Paleontologists announced the discovery of an ''Ardipithecus ramidus'' fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-an.md) _2018-02-06 13:49:19 (First version)_
 1. [ Paleontologists announced the discovery of an "Ardipithecus ramidus" fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-ance.md) _(Current version)_
 
 ### Related:

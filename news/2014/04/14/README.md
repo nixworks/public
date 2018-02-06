@@ -21,7 +21,7 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 
 ##### Washington Post
 ### [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md)
-_Context: Edward Snowden, The Guardian, Washington Post, Pulitzer Prize for Public Service, National Security Agency_
+_Context: Edward Snowden, National Security Agency, Washington Post, Pulitzer Prize for Public Service, The Guardian_
 
 ##### United States
 ### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
@@ -35,9 +35,9 @@ The trial of Abu Hamza al-Masri, the radical cleric extradited from the UK to th
 ### [A United States court overturns the conviction of Andrew Auernheimer (known as weev), who was sentenced to 41-months in prison in 2010 for hacking the AT&T website, stealing millions of iPad user e-mails. ](/news/2014/04/14/a-united-states-court-overturns-the-conviction-of-andrew-auernheimer-known-as-weev-who-was-sentenced-to-41-months-in-prison-in-2010-for-h.md)
 A federal appeals court has ruled that the venue for Auernheimer&#039;s prosecution wasn&#039;t appropriate
 
-##### Macedonian
+##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia head to the polls for a runoff presidential election. ](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.md)
-_Context: runoff presidential election, Macedonian_
+_Context: runoff presidential election, Republic of Macedonia_
 
 ##### Vietnam
 ### [Vietnam frees Nguyen Tien Trung and Vi Duc Hoi. ](/news/2014/04/14/vietnam-frees-nguyen-tien-trung-and-vi-duc-hoi.md)

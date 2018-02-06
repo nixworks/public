@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-
 
 ### Changes:
 
-1. [Former Soviet leader Mikhail Gorbachev says it was -impossible- for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-impossible-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md) _2017-08-27 03:30:49 (First version)_
+1. [Former Soviet leader Mikhail Gorbachev says it was -impossible- for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-impossible-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md) _2018-02-06 13:49:20 (First version)_
 1. [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md) _(Current version)_
 
 ### Related:

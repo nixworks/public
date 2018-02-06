@@ -16,7 +16,7 @@ At least 57 people were killed on Monday in car bomb attacks in Baghdad and the 
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Car-bombings across Iraq kill at least 57 people. The attacks include a rare bombing in the southern Basra province leaving 10 people dead. The Islamic State of Iraq and the Levant is suspected of being behind the attacks. ](/news/2015/10/5/iraqi-civil-war-2014-present-car-bombings-across-iraq-kill-at-least-57-people-the-attacks-include-a-rare-bombing-in-the-southern-basra.md) _2017-08-27 03:43:14 (First version)_
+1. [Iraqi Civil War (2014-present): Car-bombings across Iraq kill at least 57 people. The attacks include a rare bombing in the southern Basra province leaving 10 people dead. The Islamic State of Iraq and the Levant is suspected of being behind the attacks. ](/news/2015/10/5/iraqi-civil-war-2014-present-car-bombings-across-iraq-kill-at-least-57-people-the-attacks-include-a-rare-bombing-in-the-southern-basra.md) _2018-02-06 13:49:28 (First version)_
 1. [Car-bombings across Iraq kill at least 57 people. The attacks include a rare bombing in the southern Basra province leaving 10 people dead. The Islamic State of Iraq and the Levant is suspected of being behind the attacks. ](/news/2015/10/5/car-bombings-across-iraq-kill-at-least-57-people-the-attacks-include-a-rare-bombing-in-the-southern-basra-province-leaving-10-people-dead.md) _(Current version)_
 
 ### Related:

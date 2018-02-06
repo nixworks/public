@@ -15,7 +15,7 @@ Civil society urges election commission to quickly release results, as ruling pa
 
 ### Changes:
 
-1. [Ghanaian general election, 2016: Opposition leader Nana Akufo-Addo wins the presidency. ](/news/2016/12/9/ghanaian-general-election-2016-opposition-leader-nana-akufo-addo-wins-the-presidency.md) _2017-08-27 03:47:24 (First version)_
+1. [Ghanaian general election, 2016: Opposition leader Nana Akufo-Addo wins the presidency. ](/news/2016/12/9/ghanaian-general-election-2016-opposition-leader-nana-akufo-addo-wins-the-presidency.md) _2018-02-06 13:49:30 (First version)_
 1. [Opposition leader Nana Akufo-Addo wins the presidency. ](/news/2016/12/9/opposition-leader-nana-akufo-addo-wins-the-presidency.md) _(Current version)_
 
 ### Related:

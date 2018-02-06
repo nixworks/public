@@ -16,7 +16,7 @@ By Maria Carolina Marcello and Alonso Soto BRASILIA (Reuters) - Brazil&#x27;s le
 
 ### Changes:
 
-1. [Impeachment process against Dilma Rousseff: Brazil's Chamber of Deputies votes overwhelmingly (367-137) in favor of impeachment procedures against President Dilma Rousseff. ](/news/2016/04/17/impeachment-process-against-dilma-rousseff-brazil-s-chamber-of-deputies-votes-overwhelmingly-367-137-in-favor-of-impeachment-procedures-a.md) _2017-08-27 03:45:40 (First version)_
+1. [Impeachment process against Dilma Rousseff: Brazil's Chamber of Deputies votes overwhelmingly (367-137) in favor of impeachment procedures against President Dilma Rousseff. ](/news/2016/04/17/impeachment-process-against-dilma-rousseff-brazil-s-chamber-of-deputies-votes-overwhelmingly-367-137-in-favor-of-impeachment-procedures-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Brazil's Chamber of Deputies votes overwhelmingly (367-137) in favor of impeachment procedures against President Dilma Rousseff. ](/news/2016/04/17/brazil-s-chamber-of-deputies-votes-overwhelmingly-367-137-in-favor-of-impeachment-procedures-against-president-dilma-rousseff.md) _(Current version)_
 
 ### Related:

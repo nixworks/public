@@ -18,8 +18,8 @@ The UN says a helicopter from its peacekeeping mission has been shot down by the
 
 ### Changes:
 
-1. [United Nations Flight 544 shootdown:A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-pa-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down-a.md) _2017-08-25 03:37:05 (First version)_
-2. [United Nations Flight 544 shootdown:: A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down.md) _2017-08-27 03:37:16 (Update)_
+1. [United Nations Flight 544 shootdown:A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-pa-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down-a.md) _2018-02-06 13:49:24 (First version)_
+2. [United Nations Flight 544 shootdown:: A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down.md) _2018-02-06 13:49:24 (Update)_
 2. [A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down-and-crashes-near-likuangole-in-the-sou.md) _(Current version)_
 
 ### Related:

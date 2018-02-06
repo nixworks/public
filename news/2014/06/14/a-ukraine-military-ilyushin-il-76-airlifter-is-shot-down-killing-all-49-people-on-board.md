@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/14/a-ukraine-military-ilyushin-il-76-airlifter-is-
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board. ](/news/2014/06/14/2014-pro-russian-conflict-in-ukraine-a-ukraine-military-ilyushin-il-76-airlifter-is-shot-down-killing-all-49-people-on-board.md) _2017-08-27 03:40:51 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board. ](/news/2014/06/14/2014-pro-russian-conflict-in-ukraine-a-ukraine-military-ilyushin-il-76-airlifter-is-shot-down-killing-all-49-people-on-board.md) _2018-02-06 13:49:26 (First version)_
 1. [A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board. ](/news/2014/06/14/a-ukraine-military-ilyushin-il-76-airlifter-is-shot-down-killing-all-49-people-on-board.md) _(Current version)_
 
 ### Related:

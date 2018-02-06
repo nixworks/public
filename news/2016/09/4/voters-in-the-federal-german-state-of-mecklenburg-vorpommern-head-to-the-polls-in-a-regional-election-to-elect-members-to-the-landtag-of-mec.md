@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenbur
 
 ### Changes:
 
-1. [Mecklenburg-Vorpommern state election, 2016: Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/mecklenburg-vorpommern-state-election-2016-voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-el.md) _2017-08-27 03:46:46 (First version)_
+1. [Mecklenburg-Vorpommern state election, 2016: Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/mecklenburg-vorpommern-state-election-2016-voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-el.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-election-to-elect-members-to-the-landtag-of-mec.md) _(Current version)_
 
 ### Related:

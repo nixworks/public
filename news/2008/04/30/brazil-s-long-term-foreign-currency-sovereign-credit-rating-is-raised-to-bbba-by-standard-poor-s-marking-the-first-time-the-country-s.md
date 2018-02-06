@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/04/30/brazil-s-long-term-foreign-currency-sovereign-c
 
 ### Changes:
 
-1. [ Brazil's long-term foreign currency sovereign credit rating is raised to BBB- by Standard & Poor's, marking the first time the country's foreign currency debt receives an investment grade rating. ](/news/2008/04/30/brazil-s-long-term-foreign-currency-sovereign-credit-rating-is-raised-to-bbb-by-standard-poor-s-marking-the-first-time-the-country-s.md) _2017-08-27 03:21:59 (First version)_
+1. [ Brazil's long-term foreign currency sovereign credit rating is raised to BBB- by Standard & Poor's, marking the first time the country's foreign currency debt receives an investment grade rating. ](/news/2008/04/30/brazil-s-long-term-foreign-currency-sovereign-credit-rating-is-raised-to-bbb-by-standard-poor-s-marking-the-first-time-the-country-s.md) _2018-02-06 13:49:18 (First version)_
 1. [ Brazil's long-term foreign currency sovereign credit rating is raised to BBB[?] by Standard & Poor's, marking the first time the country's foreign currency debt receives an investment grade rating. ](/news/2008/04/30/brazil-s-long-term-foreign-currency-sovereign-credit-rating-is-raised-to-bbba-by-standard-poor-s-marking-the-first-time-the-country-s.md) _(Current version)_
 
 ### Related:

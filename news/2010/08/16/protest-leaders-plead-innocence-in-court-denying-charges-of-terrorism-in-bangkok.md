@@ -20,8 +20,8 @@ BANGKOK: Leaders of the anti-government Red-Shirt movement have pleaded not guil
 
 ### Changes:
 
-1. [2010 Thai political protests:Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/2010-thai-political-protests-pprotest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md) _2017-08-25 03:29:29 (First version)_
-2. [2010 Thai political protests:: Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/2010-thai-political-protests-protest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md) _2017-08-27 03:29:32 (Update)_
+1. [2010 Thai political protests:: Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/2010-thai-political-protests-protest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Thai political protests:Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/2010-thai-political-protests-pprotest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md) _2018-02-06 13:49:20 (Update)_
 2. [Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/protest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md) _(Current version)_
 
 ### Related:

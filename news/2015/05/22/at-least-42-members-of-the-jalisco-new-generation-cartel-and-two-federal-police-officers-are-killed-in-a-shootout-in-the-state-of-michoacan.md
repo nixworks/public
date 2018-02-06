@@ -16,7 +16,7 @@ Government security forces killed 42 suspected drug cartel henchmen and suffered
 
 ### Changes:
 
-1. [Mexican Drug War: At least 42 members of the Jalisco New Generation Cartel and two Federal Police officers are killed in a shootout in the state of Michoacn. The death toll is preliminary and is expected to rise. ](/news/2015/05/22/mexican-drug-war-at-least-42-members-of-the-jalisco-new-generation-cartel-and-two-federal-police-officers-are-killed-in-a-shootout-in-the-s.md) _2017-08-27 03:42:21 (First version)_
+1. [Mexican Drug War: At least 42 members of the Jalisco New Generation Cartel and two Federal Police officers are killed in a shootout in the state of Michoacn. The death toll is preliminary and is expected to rise. ](/news/2015/05/22/mexican-drug-war-at-least-42-members-of-the-jalisco-new-generation-cartel-and-two-federal-police-officers-are-killed-in-a-shootout-in-the-s.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 42 members of the Jalisco New Generation Cartel and two Federal Police officers are killed in a shootout in the state of Michoacn. The death toll is preliminary and is expected to rise. ](/news/2015/05/22/at-least-42-members-of-the-jalisco-new-generation-cartel-and-two-federal-police-officers-are-killed-in-a-shootout-in-the-state-of-michoacan.md) _(Current version)_
 
 ### Related:

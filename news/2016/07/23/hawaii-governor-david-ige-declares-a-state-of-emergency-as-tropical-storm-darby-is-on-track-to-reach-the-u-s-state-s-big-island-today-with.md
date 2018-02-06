@@ -17,7 +17,7 @@ Tropical Storm Darby bore down on Hawaii on Saturday, prompting its governor to 
 
 ### Changes:
 
-1. [2016 Pacific hurricane season: Hawaii Governor David Ige declares a state of emergency as Tropical Storm Darby is on track to reach the U.S. state's Big Island today with maximum sustained winds approaching 50 mph (80 kph). The storm, which previously was a Category 3 hurricane, could produce up to 15 inches (40 cm) of rain. ](/news/2016/07/23/2016-pacific-hurricane-season-hawaii-governor-david-ige-declares-a-state-of-emergency-as-tropical-storm-darby-is-on-track-to-reach-the-u-s.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Pacific hurricane season: Hawaii Governor David Ige declares a state of emergency as Tropical Storm Darby is on track to reach the U.S. state's Big Island today with maximum sustained winds approaching 50 mph (80 kph). The storm, which previously was a Category 3 hurricane, could produce up to 15 inches (40 cm) of rain. ](/news/2016/07/23/2016-pacific-hurricane-season-hawaii-governor-david-ige-declares-a-state-of-emergency-as-tropical-storm-darby-is-on-track-to-reach-the-u-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Hawaii Governor David Ige declares a state of emergency as Tropical Storm Darby is on track to reach the U.S. state's Big Island today with maximum sustained winds approaching 50 mph (80 kph). The storm, which previously was a Category 3 hurricane, could produce up to 15 inches (40 cm) of rain. ](/news/2016/07/23/hawaii-governor-david-ige-declares-a-state-of-emergency-as-tropical-storm-darby-is-on-track-to-reach-the-u-s-state-s-big-island-today-with.md) _(Current version)_
 
 ### Related:

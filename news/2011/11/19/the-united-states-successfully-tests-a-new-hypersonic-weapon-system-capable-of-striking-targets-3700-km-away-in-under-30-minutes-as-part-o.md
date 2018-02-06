@@ -16,8 +16,8 @@ The US test-fires a weapon that can travel at five times the speed of sound, as 
 
 ### Changes:
 
-1. [The United States successfully tests a new hypersonic weapon system, capable of striking targets {{convert|3700|km|mi}} away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-convert-3700-km-mi-away-in-under-30-min.md) _2017-05-01 03:36:56 (First version)_
-2. [The United States successfully tests a new hypersonic weapon system, capable of striking targets 3700|km|mi away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-3700-km-mi-away-in-under-30-minutes-as-par.md) _2017-08-29 03:34:34 (Update)_
+1. [The United States successfully tests a new hypersonic weapon system, capable of striking targets {{convert|3700|km|mi}} away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-convert-3700-km-mi-away-in-under-30-min.md) _2018-02-06 13:49:23 (First version)_
+2. [The United States successfully tests a new hypersonic weapon system, capable of striking targets 3700|km|mi away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-3700-km-mi-away-in-under-30-minutes-as-par.md) _2018-02-06 13:49:23 (Update)_
 2. [The United States successfully tests a new hypersonic weapon system, capable of striking targets 3700 km away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-3700-km-away-in-under-30-minutes-as-part-o.md) _(Current version)_
 
 ### Related:

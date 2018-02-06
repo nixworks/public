@@ -15,7 +15,7 @@ The Senate has confirmed Heather Wilson as Air Force secretary, making her Presi
 
 ### Changes:
 
-1. [Political appointments of Donald Trump: The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/political-appointments-of-donald-trump-the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _2017-08-27 03:48:18 (First version)_
+1. [Political appointments of Donald Trump: The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/political-appointments-of-donald-trump-the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _(Current version)_
 
 ### Related:

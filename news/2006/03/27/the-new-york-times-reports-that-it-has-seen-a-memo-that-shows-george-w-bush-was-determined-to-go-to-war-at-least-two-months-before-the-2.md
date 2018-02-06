@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-m
 
 ### Changes:
 
-1. [ ''The New York Times'' reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the.md) _2017-08-25 03:17:32 (First version)_
+1. [ ''The New York Times'' reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the.md) _2018-02-06 13:49:17 (First version)_
 1. [ "The New York Times" reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/12/vanuatu-prepares-for-tropical-cyclone-pam-which
 
 ### Changes:
 
-1. [2014-15 South Pacific cyclone season: Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/2014-15-south-pacific-cyclone-season-vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-t.md) _2017-08-27 03:42:05 (First version)_
+1. [2014-15 South Pacific cyclone season: Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/2014-15-south-pacific-cyclone-season-vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-tropical-cyclone-intensity-scale.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A stalled storm system poured heavy rain on parts of the Midwest, setting off se
 
 ### Changes:
 
-1. [ June 2008 Midwest Flood: A stalled storm system in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wis.md) _2017-08-25 03:22:19 (First version)_
+1. [ June 2008 Midwest Flood: A stalled storm system in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wis.md) _2018-02-06 13:49:18 (First version)_
 1. [ June 2008 Midwest Flood: A stalled storm system in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wisc.md) _(Current version)_
 
 ### Related:

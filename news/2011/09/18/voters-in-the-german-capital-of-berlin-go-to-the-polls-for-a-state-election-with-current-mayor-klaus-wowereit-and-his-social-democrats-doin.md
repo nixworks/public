@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/09/18/voters-in-the-german-capital-of-berlin-go-to-th
 
 ### Changes:
 
-1. [Berlin election:Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/berlin-election-pvoters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-soci.md) _2017-08-25 03:34:10 (First version)_
-2. [Berlin election:: Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/berlin-election-voters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-soc.md) _2017-08-27 03:34:18 (Update)_
+1. [Berlin election:: Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/berlin-election-voters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-soc.md) _2018-02-06 13:49:22 (First version)_
+2. [Berlin election:Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/berlin-election-pvoters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-soci.md) _2018-02-06 13:49:22 (Update)_
 2. [Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/voters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-social-democrats-doin.md) _(Current version)_
 
 ### Related:

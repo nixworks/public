@@ -16,8 +16,8 @@ More than 130 separate tape-recorded conversations have emerged between gardaí,
 
 ### Changes:
 
-1. [2014 Garda phone recordings controversy:Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. ](/news/2014/04/3/2014-garda-phone-recordings-controversy-precordings-of-133-conversations-between-gardai-witnesses-and-journalists-relating-to-the-1996-murd.md) _2017-08-25 03:40:15 (First version)_
-2. [2014 Garda phone recordings controversy:: Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. ](/news/2014/04/3/2014-garda-phone-recordings-controversy-recordings-of-133-conversations-between-gardai-witnesses-and-journalists-relating-to-the-1996-mur.md) _2017-08-27 03:40:33 (Update)_
+1. [2014 Garda phone recordings controversy:: Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. ](/news/2014/04/3/2014-garda-phone-recordings-controversy-recordings-of-133-conversations-between-gardai-witnesses-and-journalists-relating-to-the-1996-mur.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Garda phone recordings controversy:Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. ](/news/2014/04/3/2014-garda-phone-recordings-controversy-precordings-of-133-conversations-between-gardai-witnesses-and-journalists-relating-to-the-1996-murd.md) _2018-02-06 13:49:26 (Update)_
 2. [Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. ](/news/2014/04/3/recordings-of-133-conversations-between-gardai-witnesses-and-journalists-relating-to-the-1996-murder-of-sophie-toscan-du-plantier-emerge.md) _(Current version)_
 
 ### Related:

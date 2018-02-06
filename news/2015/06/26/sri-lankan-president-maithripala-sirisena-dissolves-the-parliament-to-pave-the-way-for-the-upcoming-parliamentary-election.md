@@ -16,7 +16,7 @@ Sri Lankan President Maithripala Sirisena dissolves parliament, paving the way f
 
 ### Changes:
 
-1. [ Sri Lankan parliamentary election, 2015: Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-parliamentary-election-2015-sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcomin.md) _2017-08-27 03:42:36 (First version)_
+1. [ Sri Lankan parliamentary election, 2015: Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-parliamentary-election-2015-sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcomin.md) _2018-02-06 13:49:27 (First version)_
 1. [ Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcoming-parliamentary-election.md) _(Current version)_
 
 ### Related:

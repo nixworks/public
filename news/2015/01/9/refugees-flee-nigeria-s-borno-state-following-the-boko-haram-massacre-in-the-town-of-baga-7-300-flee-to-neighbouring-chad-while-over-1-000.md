@@ -17,7 +17,7 @@ UNHCR teams in Chad are at the border and seeking information on the new arrival
 
 ### Changes:
 
-1. [2015 Baga massacre: Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/2015-baga-massacre-refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-ch.md) _2017-08-27 03:41:46 (First version)_
+1. [2015 Baga massacre: Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/2015-baga-massacre-refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-ch.md) _2018-02-06 13:49:26 (First version)_
 1. [Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-chad-while-over-1-000.md) _(Current version)_
 
 ### Related:

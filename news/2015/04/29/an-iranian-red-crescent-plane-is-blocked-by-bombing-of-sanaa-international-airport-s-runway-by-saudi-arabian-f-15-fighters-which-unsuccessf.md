@@ -16,8 +16,8 @@ Bombing by aircraft that had ignored warning to turn back intended to prevent Ir
 
 ### Changes:
 
-1. [An Iranian Red Crescent plane is blocked by bombing of Sanaa International Airport's runway by Saudi Arabian F-15 fighters, which unsuccessfully intercepted and issued warnings to the plane to turn back. ](/news/2015/04/29/an-iranian-red-crescent-plane-is-blocked-by-bombing-of-sanaa-international-airport-s-runway-by-saudi-arabian-f-15-fighters-which-unsuccess.md) _2017-08-25 03:41:57 (First version)_
-2. [Yemeni Civil War (2015): An Iranian Red Crescent plane is blocked by bombing of Sanaa International Airport's runway by Saudi Arabian F-15 fighters, which unsuccessfully intercepted and issued warnings to the plane to turn back. ](/news/2015/04/29/yemeni-civil-war-2015-an-iranian-red-crescent-plane-is-blocked-by-bombing-of-sanaa-international-airport-s-runway-by-saudi-arabian-f-15-f.md) _2017-08-27 03:42:15 (Update)_
+1. [Yemeni Civil War (2015): An Iranian Red Crescent plane is blocked by bombing of Sanaa International Airport's runway by Saudi Arabian F-15 fighters, which unsuccessfully intercepted and issued warnings to the plane to turn back. ](/news/2015/04/29/yemeni-civil-war-2015-an-iranian-red-crescent-plane-is-blocked-by-bombing-of-sanaa-international-airport-s-runway-by-saudi-arabian-f-15-f.md) _2018-02-06 13:49:27 (First version)_
+2. [An Iranian Red Crescent plane is blocked by bombing of Sanaa International Airport's runway by Saudi Arabian F-15 fighters, which unsuccessfully intercepted and issued warnings to the plane to turn back. ](/news/2015/04/29/an-iranian-red-crescent-plane-is-blocked-by-bombing-of-sanaa-international-airport-s-runway-by-saudi-arabian-f-15-fighters-which-unsuccess.md) _2018-02-06 13:49:27 (Update)_
 2. [An Iranian Red Crescent plane is blocked by bombing of Sanaa International Airport's runway by Saudi Arabian F-15 fighters, which unsuccessfully intercepted and issued warnings to the plane to turn back. ](/news/2015/04/29/an-iranian-red-crescent-plane-is-blocked-by-bombing-of-sanaa-international-airport-s-runway-by-saudi-arabian-f-15-fighters-which-unsuccessf.md) _(Current version)_
 
 ### Related:

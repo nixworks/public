@@ -22,8 +22,8 @@ Iran said on Monday it had successfully test-fired what it described as two long
 
 ### Changes:
 
-1. [Iran:Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-piran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md) _2017-08-25 03:34:47 (First version)_
-2. [Iran:: Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md) _2017-08-27 03:34:56 (Update)_
+1. [Iran:Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-piran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md) _2018-02-06 13:49:23 (First version)_
+2. [Iran:: Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md) _2018-02-06 13:49:23 (Update)_
 2. [Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian-gulf.md) _(Current version)_
 
 ### Related:

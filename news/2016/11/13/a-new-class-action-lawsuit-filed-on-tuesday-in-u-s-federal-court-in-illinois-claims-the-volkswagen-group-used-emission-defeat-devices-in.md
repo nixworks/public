@@ -18,8 +18,8 @@ A newly filed class action lawsuit accuses Audi of using defeat devices in at le
 
 ### Changes:
 
-1. [A new class action lawsuit, filed on Tuesday in U.S. federal court in Illinois, claims the Volkswagen Group used emission defeat devices in at least six of its Audi V6 gasoline engines. ](/news/2016/11/13/a-new-class-action-lawsuit-filed-on-tuesday-in-u-s-federal-court-in-illinois-claims-the-volkswagen-group-used-emission-defeat-devices-i.md) _2017-08-25 03:46:48 (First version)_
-2. [Volkswagen emissions scandal: A new class action lawsuit, filed on Tuesday in U.S. federal court in Illinois, claims the Volkswagen Group used emission defeat devices in at least six of its Audi V6 gasoline engines. ](/news/2016/11/13/volkswagen-emissions-scandal-a-new-class-action-lawsuit-filed-on-tuesday-in-u-s-federal-court-in-illinois-claims-the-volkswagen-group-us.md) _2017-08-27 03:47:14 (Update)_
+1. [Volkswagen emissions scandal: A new class action lawsuit, filed on Tuesday in U.S. federal court in Illinois, claims the Volkswagen Group used emission defeat devices in at least six of its Audi V6 gasoline engines. ](/news/2016/11/13/volkswagen-emissions-scandal-a-new-class-action-lawsuit-filed-on-tuesday-in-u-s-federal-court-in-illinois-claims-the-volkswagen-group-us.md) _2018-02-06 13:49:29 (First version)_
+2. [A new class action lawsuit, filed on Tuesday in U.S. federal court in Illinois, claims the Volkswagen Group used emission defeat devices in at least six of its Audi V6 gasoline engines. ](/news/2016/11/13/a-new-class-action-lawsuit-filed-on-tuesday-in-u-s-federal-court-in-illinois-claims-the-volkswagen-group-used-emission-defeat-devices-i.md) _2018-02-06 13:49:29 (Update)_
 2. [A new class action lawsuit, filed on Tuesday in U.S. federal court in Illinois, claims the Volkswagen Group used emission defeat devices in at least six of its Audi V6 gasoline engines. ](/news/2016/11/13/a-new-class-action-lawsuit-filed-on-tuesday-in-u-s-federal-court-in-illinois-claims-the-volkswagen-group-used-emission-defeat-devices-in.md) _(Current version)_
 
 ### Related:

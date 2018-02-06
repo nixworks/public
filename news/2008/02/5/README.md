@@ -9,7 +9,7 @@ Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a vic
 
 ##### Red Cross
 ### [ The Red Cross estimates that hundreds of civilians have been killed in the Battle of N'Djamena in Chad. ](/news/2008/02/5/the-red-cross-estimates-that-hundreds-of-civilians-have-been-killed-in-the-battle-of-n-djamena-in-chad.md)
-_Context: Battle of N'Djamena, Chad, Red Cross_
+_Context: Chad, Battle of N'Djamena, Red Cross_
 
 ##### Israel
 ### [ Israeli attacks kill eight Hamas members on the Gaza Strip as Hamas claims responsibility for the Dimona attack. ](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.md)
@@ -17,11 +17,11 @@ _Context: Hamas, Dimona attack, Gaza Strip, Israel_
 
 ##### Speaker
 ### [ Philippine House Speaker Jose de Venecia was ousted by the majority of the representatives of the House of Representatives and Davao City Rep. Prospero Nograles was elected as the 13th House Speaker and the first Speaker from Mindanao. ](/news/2008/02/5/philippine-house-speaker-jose-de-venecia-was-ousted-by-the-majority-of-the-representatives-of-the-house-of-representatives-and-davao-city-r.md)
-_Context: Speaker, Jose de Venecia, Prospero Nograles, Davao City_
+_Context: Prospero Nograles, Jose de Venecia, Speaker, Davao City_
 
 ##### 2008 Chinese winter storms
 ### [ 2008 Chinese winter storms: Chinese Premier Wen Jiabao visits disaster-affected region in Guizhou Province, one of the worst-hit provinces, to direct relief efforts. This is his third trip to disaster regions in eight days. ](/news/2008/02/5/2008-chinese-winter-storms-chinese-premier-wen-jiabao-visits-disaster-affected-region-in-guizhou-province-one-of-the-worst-hit-provinces.md)
-_Context: Premier of the People's Republic of China, 2008 Chinese winter storms, Wen Jiabao, Guizhou_
+_Context: Guizhou, Wen Jiabao, 2008 Chinese winter storms, Premier of the People's Republic of China_
 
 ##### major tornado outbreak
 ### [ A major tornado outbreak across the Southern United States leaves 57 people dead, and causes some polling places to be closed early. The hardest hit areas are in Alabama, Kentucky, Tennessee, Mississippi, and Arkansas including the Memphis area, northern Middle Tennessee and Jackson, Tennessee. ](/news/2008/02/5/a-major-tornado-outbreak-across-the-southern-united-states-leaves-57-people-dead-and-causes-some-polling-places-to-be-closed-early-the-ha.md)

@@ -16,7 +16,7 @@ SAN JOSE, Calif. -- Fabricio Werdum turned the MMA world on its ear with his stu
 
 ### Changes:
 
-1. [Fedor Emelianenko records only the second loss of his career as he is tapped out by Fabrcio Werdum at the ''Strikeforce: Fedor vs. Werdum'' mixed martial arts match in San Jose, California, US. ](/news/2010/06/26/fedor-emelianenko-records-only-the-second-loss-of-his-career-as-he-is-tapped-out-by-fabricio-werdum-at-the-strikeforce-fedor-vs-werdum.md) _2017-08-25 03:28:26 (First version)_
+1. [Fedor Emelianenko records only the second loss of his career as he is tapped out by Fabrcio Werdum at the ''Strikeforce: Fedor vs. Werdum'' mixed martial arts match in San Jose, California, US. ](/news/2010/06/26/fedor-emelianenko-records-only-the-second-loss-of-his-career-as-he-is-tapped-out-by-fabricio-werdum-at-the-strikeforce-fedor-vs-werdum.md) _2018-02-06 13:49:20 (First version)_
 1. [Fedor Emelianenko records only the second loss of his career as he is tapped out by Fabrcio Werdum at the "Strikeforce: Fedor vs. Werdum" mixed martial arts match in San Jose, California, US. ](/news/2010/06/26/fedor-emelianenko-records-only-the-second-loss-of-his-career-as-he-is-tapped-out-by-fabricio-werdum-at-the-strikeforce-fedor-vs-werdum-m.md) _(Current version)_
 
 ### Related:

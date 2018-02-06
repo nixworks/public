@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/09/30/a-military-transport-plane-crashes-after-take-o
 
 ### Changes:
 
-1. [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo. All 12 Russian crew members die in the crash. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-all-12-russian-crew-membe.md) _2017-09-30 17:30:06 (First version)_
-2. [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-killing-all-12-russian-cr.md) _2017-09-30 19:30:06 (Update)_
+1. [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-killing-all-12-russian-cr.md) _2018-02-06 13:49:31 (First version)_
+2. [A military transport plane crashes after take-off from N'djili Airport in Kinshasha, Democratic Republic of Congo. All 12 Russian crew members die in the crash. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasha-democratic-republic-of-congo-all-12-russian-crew-membe.md) _2018-02-06 13:49:31 (Update)_
 2. [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md) _(Current version)_
 
 ### Related:

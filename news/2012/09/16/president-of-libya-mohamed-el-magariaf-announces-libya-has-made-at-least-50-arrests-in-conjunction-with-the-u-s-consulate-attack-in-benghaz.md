@@ -17,8 +17,8 @@ Suspects comprise affiliates, sympathizers, few foreigners says Libyan National 
 
 ### Changes:
 
-1. [2012 diplomatic missions attacks falloutPresident of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/2012-diplomatic-missions-attacks-falloutppresident-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction.md) _2017-08-25 03:36:31 (First version)_
-2. [2012 diplomatic missions attacks fallout: President of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/2012-diplomatic-missions-attacks-fallout-president-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction.md) _2017-08-27 03:36:42 (Update)_
+1. [2012 diplomatic missions attacks falloutPresident of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/2012-diplomatic-missions-attacks-falloutppresident-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 diplomatic missions attacks fallout: President of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/2012-diplomatic-missions-attacks-fallout-president-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction.md) _2018-02-06 13:49:23 (Update)_
 2. [President of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/president-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction-with-the-u-s-consulate-attack-in-benghaz.md) _(Current version)_
 
 ### Related:

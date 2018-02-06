@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/27/islamic-state-militants-have-carried-out-multip
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-in-iraq-and-the-levant-islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-p.md) _2017-08-27 03:42:24 (First version)_
+1. [Islamic State in Iraq and the Levant: Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-in-iraq-and-the-levant-islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-p.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-province-killing-at-least-17-people.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ The longer chemical weapons inspectors wait in a Damascus luxury hotel for permi
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-pthe-united-nations-reports-that-there-are-a-million-child-refugees.md) _2017-08-25 03:39:12 (First version)_
-2. [Syrian civil war:: The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-the-united-nations-reports-that-there-are-a-million-child-refugees.md) _2017-08-27 03:39:27 (Update)_
+1. [Syrian civil war:: The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-the-united-nations-reports-that-there-are-a-million-child-refugees.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-pthe-united-nations-reports-that-there-are-a-million-child-refugees.md) _2018-02-06 13:49:25 (Update)_
 2. [The United Nations reports that there are a million child refugees. ](/news/2013/08/23/the-united-nations-reports-that-there-are-a-million-child-refugees.md) _(Current version)_
 
 ### Related:

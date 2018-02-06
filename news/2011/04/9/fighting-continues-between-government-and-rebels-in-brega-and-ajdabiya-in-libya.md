@@ -16,8 +16,8 @@ Gaddafi forces reportedly attacking eastern town of Ajdabiya as fighters are als
 
 ### Changes:
 
-1. [2011 Libyan civil war:Fighting continues between government and rebels in Brega and Ajdabiya in Libya. ](/news/2011/04/9/2011-libyan-civil-war-pfighting-continues-between-government-and-rebels-in-brega-and-ajdabiya-in-libya.md) _2017-08-25 03:32:47 (First version)_
-2. [2011 Libyan civil war:: Fighting continues between government and rebels in Brega and Ajdabiya in Libya. ](/news/2011/04/9/2011-libyan-civil-war-fighting-continues-between-government-and-rebels-in-brega-and-ajdabiya-in-libya.md) _2017-08-27 03:32:55 (Update)_
+1. [2011 Libyan civil war:Fighting continues between government and rebels in Brega and Ajdabiya in Libya. ](/news/2011/04/9/2011-libyan-civil-war-pfighting-continues-between-government-and-rebels-in-brega-and-ajdabiya-in-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Fighting continues between government and rebels in Brega and Ajdabiya in Libya. ](/news/2011/04/9/2011-libyan-civil-war-fighting-continues-between-government-and-rebels-in-brega-and-ajdabiya-in-libya.md) _2018-02-06 13:49:22 (Update)_
 2. [Fighting continues between government and rebels in Brega and Ajdabiya in Libya. ](/news/2011/04/9/fighting-continues-between-government-and-rebels-in-brega-and-ajdabiya-in-libya.md) _(Current version)_
 
 ### Related:

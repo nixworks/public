@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-order
 
 ### Changes:
 
-1. [2011 Yemeni protests:The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-pthe-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2017-08-25 03:32:19 (First version)_
-2. [2011 Yemeni protests:: The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2017-08-27 03:32:28 (Update)_
+1. [2011 Yemeni protests:: The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-pthe-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2018-02-06 13:49:22 (Update)_
 2. [The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _(Current version)_
 
 ### Related:

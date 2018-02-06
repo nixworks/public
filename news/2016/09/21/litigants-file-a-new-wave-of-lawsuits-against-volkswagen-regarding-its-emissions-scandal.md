@@ -16,7 +16,7 @@ Volkswagen is facing €8.2bn in damages claims from 1,400 German investors over
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/volkswagen-emissions-scandal-litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _2017-08-27 03:46:53 (First version)_
+1. [Volkswagen emissions scandal: Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/volkswagen-emissions-scandal-litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _2018-02-06 13:49:29 (First version)_
 1. [Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _(Current version)_
 
 ### Related:

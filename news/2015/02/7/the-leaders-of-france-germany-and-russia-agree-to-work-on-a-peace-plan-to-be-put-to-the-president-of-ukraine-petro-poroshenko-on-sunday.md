@@ -16,7 +16,7 @@ A peace plan drawn up by France and Germany is &quot;one of the last chances&quo
 
 ### Changes:
 
-1. [War in Donbass: The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/war-in-donbass-the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshen.md) _2017-08-27 03:41:54 (First version)_
+1. [War in Donbass: The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/war-in-donbass-the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshen.md) _2018-02-06 13:49:26 (First version)_
 1. [The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshenko-on-sunday.md) _(Current version)_
 
 ### Related:

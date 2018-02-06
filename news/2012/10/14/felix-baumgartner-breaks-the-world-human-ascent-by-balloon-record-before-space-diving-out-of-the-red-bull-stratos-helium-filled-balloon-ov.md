@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent
 
 ### Changes:
 
-1. [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the ''Red Bull Stratos'' helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon.md) _2017-08-25 03:36:41 (First version)_
+1. [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the ''Red Bull Stratos'' helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon.md) _2018-02-06 13:49:24 (First version)_
 1. [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md) _(Current version)_
 
 ### Related:

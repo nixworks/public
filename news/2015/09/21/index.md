@@ -9,23 +9,23 @@ ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the 
 
 ##### War in Somalia (2009-present)
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: President, Somalia, car bomb, Mogadishu, War in Somalia (2009-present)_
+_Context: Somalia, War in Somalia (2009-present), car bomb, President, Mogadishu_
 
 ##### Iraq War (2014-present)
 ### [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md)
 At least 17 people were killed in and around the Iraqi capital on Monday in four bomb attacks, including a car bomb claimed by Islamic State militants, while rockets landed near Baghdad airport.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A Saudi-led military coalition bombardment in the Yemeni capital, Sana'a, kills at least 50 people. ](/news/2015/09/21/a-saudi-led-military-coalition-bombardment-in-the-yemeni-capital-sana-a-kills-at-least-50-people.md)
 Air strikes by a Saudi-led coalition killed 50 people in Yemen when they hit a Houthi-held security compound in the north and a house in Sanaa, medical sources and officials said, in an escalating campaign that has claimed increasing civilian lives.
 
 ##### Moro conflict
 ### [Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md)
-_Context: Moro conflict, Filipino, Philippines, Canadian, Norwegian_
+_Context: Philippines, Norwegian, Canadian, Filipino, Moro conflict_
 
 ##### Pope Francis
 ### [Pope Francis, on the second day of his journey in Cuba, leaves Havana for Holguin. He says a Mass at Revolution Plaza, blesses Holguin from the Loma de la Cruz area, arrives in Santiago de Cuba, flies to Santiago de Cuba, meets with the Cuban Bishops at Saint Basil the Great Seminary, and says a prayer with them at the Minor Basilica of the Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre (Shrine of Our Lady of del Cobre). ](/news/2015/09/21/pope-francis-on-the-second-day-of-his-journey-in-cuba-leaves-havana-for-holguin-he-says-a-mass-at-revolution-plaza-blesses-holguin-from.md)
-_Context: Havana, Holguin, Santiago de Cuba, Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre, Minor Basilica, Saint Basil the Great, Pope Francis_
+_Context: Santiago de Cuba, Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre, Saint Basil the Great, Havana, Holguin, Pope Francis, Minor Basilica_
 
 ##### CNIL
 ### [French regulator Commission nationale de l'informatique et des libertes (CNIL) rejects Google, Inc.'s appeal of their order that the company remove 'Right to be forgotten (RTBF)' search results worldwide. Failure to comply could subject Google to sanctions, from EUR300,000 (US$460,000) to 5 percent of global operating costs. ](/news/2015/09/21/french-regulator-commission-nationale-de-l-informatique-et-des-liberta-c-s-cnil-rejects-google-inc-s-appeal-of-their-order-that-the-compan.md)
@@ -57,7 +57,7 @@ Eight people were killed — including a 14-year-old boy — and at least 45 oth
 
 ##### Denver
 ### [A Denver, Colorado federal jury convicts Harold Henthorn of murder in the death of his wife Toni Henthorn, who fell off a cliff as they hiked in Colorado's Rocky Mountain National Park to celebrate their wedding anniversary. His previous wife had also died in suspicious circumstances. ](/news/2015/09/21/a-denver-colorado-federal-jury-convicts-harold-henthorn-of-murder-in-the-death-of-his-wife-toni-henthorn-who-fell-off-a-cliff-as-they-hike.md)
-_Context: Denver, Rocky Mountain National Park, federal_
+_Context: Rocky Mountain National Park, federal, Denver_
 
 ##### Peanut Corporation of America
 ### [Peanut Corporation of America owner Stewart Parnell is sentenced to 28 years for "Salmonella typhimurium"-tainted peanut butter, the most severe punishment ever handed out to a producer in a foodborne illness case. In late 2008 and early 2009, nine people died and at least 714 people in 46 states, half of them children, fell ill. Parnell and his brother were convicted in September 2014 of 71 criminal counts. His brother Michael Parnell is sentenced to 20 years, and the plant's former quality control manager Mary Wilkerson is sentenced to five years. ](/news/2015/09/21/peanut-corporation-of-america-owner-stewart-parnell-is-sentenced-to-28-years-for-salmonella-typhimurium-tainted-peanut-butter-the-most-se.md)

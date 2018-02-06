@@ -17,7 +17,7 @@ Further, the bench said people must show respect to the national anthem and the 
 
 ### Changes:
 
-1. [The Indian Supreme Court orders all cinemas must play the national anthem, and the audience must stand during its performance, before a film is screened. Order is effective in 10 days. ](/news/2016/11/30/the-indian-supreme-court-orders-all-cinemas-must-play-the-national-anthem-and-the-audience-must-stand-during-its-performance-before-a-fil.md) _2017-08-25 03:46:56 (First version)_
+1. [The Indian Supreme Court orders all cinemas must play the national anthem, and the audience must stand during its performance, before a film is screened. Order is effective in 10 days. ](/news/2016/11/30/the-indian-supreme-court-orders-all-cinemas-must-play-the-national-anthem-and-the-audience-must-stand-during-its-performance-before-a-fil.md) _2018-02-06 13:49:29 (First version)_
 1. [The Indian Supreme Court orders all cinemas must play the national anthem, and the audience must stand during its performance, before a film is screened. Order is effective in 10 days. ](/news/2016/11/30/the-indian-supreme-court-orders-all-cinemas-must-play-the-national-anthem-and-the-audience-must-stand-during-its-performance-before-a-film.md) _(Current version)_
 
 ### Related:

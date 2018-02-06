@@ -16,7 +16,7 @@ Slovenian incumbent Borut Pahor is poised to win the first round of a presidenti
 
 ### Changes:
 
-1. [Voters in Slovenia go to the polls to elect the President of Slovenia. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-the-president-of-slovenia-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will.md) _2017-10-22 00:30:05 (First version)_
+1. [Voters in Slovenia go to the polls to elect the President of Slovenia. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-the-president-of-slovenia-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Slovenia go to the polls to elect their president. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by noted actor and comedian Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md) _(Current version)_
 
 ### Related:

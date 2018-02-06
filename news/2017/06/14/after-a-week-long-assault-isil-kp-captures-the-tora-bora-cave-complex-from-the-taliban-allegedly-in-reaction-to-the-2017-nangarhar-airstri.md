@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-
 
 ### Changes:
 
-1. [War in Afghanistan: After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/war-in-afghanistan-after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-20.md) _2017-08-27 03:48:29 (First version)_
+1. [War in Afghanistan: After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/war-in-afghanistan-after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-20.md) _2018-02-06 13:49:30 (First version)_
 1. [After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.md) _(Current version)_
 
 ### Related:

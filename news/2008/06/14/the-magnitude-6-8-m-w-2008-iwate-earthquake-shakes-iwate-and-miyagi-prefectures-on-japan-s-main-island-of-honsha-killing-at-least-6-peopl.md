@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-sha
 
 ### Changes:
 
-1. [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-mw-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md) _2017-08-25 03:22:22 (First version)_
-2. [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-mw-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-people.md) _2017-10-02 03:25:22 (Update)_
+1. [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-mw-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-people.md) _2018-02-06 13:49:18 (First version)_
+2. [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-mw-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md) _2018-02-06 13:49:18 (Update)_
 2. [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md) _(Current version)_
 
 ### Related:

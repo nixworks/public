@@ -17,7 +17,7 @@ The cyclone, which crossed the Visakhapatnam coast, seems to be in a period of l
 
 ### Changes:
 
-1. [2014 North Indian Ocean cyclone season: Eastern India feels the impact of Cyclone Hudhud which makes landfall around noon near the city of Visakhapatnam. The death toll in Andhra Pradesh is at least three.](/news/2014/10/12/2014-north-indian-ocean-cyclone-season-eastern-india-feels-the-impact-of-cyclone-hudhud-which-makes-landfall-around-noon-near-the-city-of-v.md) _2017-08-27 03:41:23 (First version)_
+1. [2014 North Indian Ocean cyclone season: Eastern India feels the impact of Cyclone Hudhud which makes landfall around noon near the city of Visakhapatnam. The death toll in Andhra Pradesh is at least three.](/news/2014/10/12/2014-north-indian-ocean-cyclone-season-eastern-india-feels-the-impact-of-cyclone-hudhud-which-makes-landfall-around-noon-near-the-city-of-v.md) _2018-02-06 13:49:26 (First version)_
 1. [Eastern India feels the impact of Cyclone Hudhud which makes landfall around noon near the city of Visakhapatnam. The death toll in Andhra Pradesh is at least three.](/news/2014/10/12/eastern-india-feels-the-impact-of-cyclone-hudhud-which-makes-landfall-around-noon-near-the-city-of-visakhapatnam-the-death-toll-in-andhra-p.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2008/08/25/the-federation-council-of-russia-the-upper-hous
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/2008-south-ossetia-war-p-the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-in.md) _2017-08-25 03:22:46 (First version)_
-2. [ 2008 South Ossetia war:: The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/2008-south-ossetia-war-the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-in.md) _2017-08-27 03:22:39 (Update)_
+1. [ 2008 South Ossetia war:: The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/2008-south-ossetia-war-the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-in.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war: The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/2008-south-ossetia-war-p-the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-in.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-independence-of-georgia-s-b.md) _(Current version)_
 
 ### Related:

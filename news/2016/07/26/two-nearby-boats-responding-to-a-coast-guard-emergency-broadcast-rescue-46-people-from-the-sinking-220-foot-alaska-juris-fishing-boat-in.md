@@ -15,7 +15,7 @@ ANCHORAGE, Alaska (AP) — Two Good Samaritan vessels rescued 46 people Tuesday 
 
 ### Changes:
 
-1. [Two nearby boats, responding to a Coast Guard emergency broadcast, rescue 46 people from the sinking 220-foot ''Alaska Juris'' fishing boat in the Bering Sea off Alaska's Aleutian Islands. There are no reports of injuries; all on board were wearing survival suits. ](/news/2016/07/26/two-nearby-boats-responding-to-a-coast-guard-emergency-broadcast-rescue-46-people-from-the-sinking-220-foot-alaska-juris-fishing-boat.md) _2017-08-25 03:46:10 (First version)_
+1. [Two nearby boats, responding to a Coast Guard emergency broadcast, rescue 46 people from the sinking 220-foot ''Alaska Juris'' fishing boat in the Bering Sea off Alaska's Aleutian Islands. There are no reports of injuries; all on board were wearing survival suits. ](/news/2016/07/26/two-nearby-boats-responding-to-a-coast-guard-emergency-broadcast-rescue-46-people-from-the-sinking-220-foot-alaska-juris-fishing-boat.md) _2018-02-06 13:49:29 (First version)_
 1. [Two nearby boats, responding to a Coast Guard emergency broadcast, rescue 46 people from the sinking 220-foot "Alaska Juris" fishing boat in the Bering Sea off Alaska's Aleutian Islands. There are no reports of injuries; all on board were wearing survival suits. ](/news/2016/07/26/two-nearby-boats-responding-to-a-coast-guard-emergency-broadcast-rescue-46-people-from-the-sinking-220-foot-alaska-juris-fishing-boat-in.md) _(Current version)_
 
 ### Related:

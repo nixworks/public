@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/25/kurdish-peshmergas-retake-the-city-of-zumar-and
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Kurdish peshmergas retake the city of Zumar and several nearby villages from ISIS, while Iraqi government forces and Shi'ite militias seize control of Jurf Al Sakhar. ](/news/2014/10/25/iraqi-insurgency-2011-present-kurdish-peshmergas-retake-the-city-of-zumar-and-several-nearby-villages-from-isis-while-iraqi-government-f.md) _2017-08-27 03:41:26 (First version)_
+1. [Iraqi insurgency (2011-present): Kurdish peshmergas retake the city of Zumar and several nearby villages from ISIS, while Iraqi government forces and Shi'ite militias seize control of Jurf Al Sakhar. ](/news/2014/10/25/iraqi-insurgency-2011-present-kurdish-peshmergas-retake-the-city-of-zumar-and-several-nearby-villages-from-isis-while-iraqi-government-f.md) _2018-02-06 13:49:26 (First version)_
 1. [Kurdish peshmergas retake the city of Zumar and several nearby villages from ISIS, while Iraqi government forces and Shi'ite militias seize control of Jurf Al Sakhar. ](/news/2014/10/25/kurdish-peshmergas-retake-the-city-of-zumar-and-several-nearby-villages-from-isis-while-iraqi-government-forces-and-shi-ite-militias-seize.md) _(Current version)_
 
 ### Related:

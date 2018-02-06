@@ -16,7 +16,7 @@ From Tuesday midnight to Thursday midnight, entry into Israel will be permitted 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015-present): Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israeli-palestinian-conflict-2015-present-israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-r.md) _2017-08-27 03:46:01 (First version)_
+1. [Israeli-Palestinian conflict (2015-present): Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israeli-palestinian-conflict-2015-present-israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-r.md) _2018-02-06 13:49:29 (First version)_
 1. [Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-remembrance-day-and-independence-day-is-celebrate.md) _(Current version)_
 
 ### Related:

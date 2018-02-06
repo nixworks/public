@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/05/27/spain-s-parliament-approves-by-one-vote-a-a-15-
 
 ### Changes:
 
-1. [Spain's parliament approves by one vote a -15 billion austerity package to rein in the country's budget deficit. ](/news/2010/05/27/spain-s-parliament-approves-by-one-vote-a-15-billion-austerity-package-to-rein-in-the-country-s-budget-deficit.md) _2017-08-27 03:28:01 (First version)_
+1. [Spain's parliament approves by one vote a -15 billion austerity package to rein in the country's budget deficit. ](/news/2010/05/27/spain-s-parliament-approves-by-one-vote-a-15-billion-austerity-package-to-rein-in-the-country-s-budget-deficit.md) _2018-02-06 13:49:20 (First version)_
 1. [Spain's parliament approves by one vote a EUR15 billion austerity package to rein in the country's budget deficit. ](/news/2010/05/27/spain-s-parliament-approves-by-one-vote-a-a-15-billion-austerity-package-to-rein-in-the-country-s-budget-deficit.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Rising dream-pop artist Hazel English is from Melbourne, Australia by way of Oak
 
 ### Changes:
 
-1. [2014 BRIT Awards: The BRIT awards are held at The O2 Arena in London with David Bowie winning Best Solo British Male Artist, Ellie Goulding winning Best Female British Solo Artist and the Arctic Monkeys winning best British Group. ](/news/2014/02/19/2014-brit-awards-the-brit-awards-are-held-at-the-o2-arena-in-london-with-david-bowie-winning-best-solo-british-male-artist-ellie-goulding.md) _2017-08-27 03:40:21 (First version)_
+1. [2014 BRIT Awards: The BRIT awards are held at The O2 Arena in London with David Bowie winning Best Solo British Male Artist, Ellie Goulding winning Best Female British Solo Artist and the Arctic Monkeys winning best British Group. ](/news/2014/02/19/2014-brit-awards-the-brit-awards-are-held-at-the-o2-arena-in-london-with-david-bowie-winning-best-solo-british-male-artist-ellie-goulding.md) _2018-02-06 13:49:25 (First version)_
 1. [The BRIT awards are held at The O2 Arena in London with David Bowie winning Best Solo British Male Artist, Ellie Goulding winning Best Female British Solo Artist and the Arctic Monkeys winning best British Group. ](/news/2014/02/19/the-brit-awards-are-held-at-the-o2-arena-in-london-with-david-bowie-winning-best-solo-british-male-artist-ellie-goulding-winning-best-femal.md) _(Current version)_
 
 ### Related:

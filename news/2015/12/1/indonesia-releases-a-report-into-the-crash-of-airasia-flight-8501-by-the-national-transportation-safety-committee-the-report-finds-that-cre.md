@@ -17,7 +17,7 @@ Indonesia’s National Transportation Safety Committee (NTSC) is ready to public
 
 ### Changes:
 
-1. [Indonesia AirAsia Flight 8501: Indonesia releases a report into the crash of AirAsia Flight 8501 by the National Transportation Safety Committee. The report finds that crew error was responsible for the crash that claimed 162 lives. ](/news/2015/12/1/indonesia-airasia-flight-8501-indonesia-releases-a-report-into-the-crash-of-airasia-flight-8501-by-the-national-transportation-safety-commi.md) _2017-08-27 03:44:08 (First version)_
+1. [Indonesia AirAsia Flight 8501: Indonesia releases a report into the crash of AirAsia Flight 8501 by the National Transportation Safety Committee. The report finds that crew error was responsible for the crash that claimed 162 lives. ](/news/2015/12/1/indonesia-airasia-flight-8501-indonesia-releases-a-report-into-the-crash-of-airasia-flight-8501-by-the-national-transportation-safety-commi.md) _2018-02-06 13:49:28 (First version)_
 1. [Indonesia releases a report into the crash of AirAsia Flight 8501 by the National Transportation Safety Committee. The report finds that crew error was responsible for the crash that claimed 162 lives. ](/news/2015/12/1/indonesia-releases-a-report-into-the-crash-of-airasia-flight-8501-by-the-national-transportation-safety-committee-the-report-finds-that-cre.md) _(Current version)_
 
 ### Related:

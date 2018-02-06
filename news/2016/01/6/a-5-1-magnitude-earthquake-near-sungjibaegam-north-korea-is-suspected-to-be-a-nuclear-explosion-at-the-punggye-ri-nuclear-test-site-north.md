@@ -20,7 +20,7 @@ A 5.1-magnitude earthquake detected near North Korea’s nuclear test site appea
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: A 5.1 magnitude earthquake near Sungjibaegam, North Korea, is suspected to be a nuclear explosion at the Punggye-ri Nuclear Test Site. North Korea announces it has conducted a hydrogen bomb test. They claim to have tested a miniaturized bomb. If not true it would mean that the test partially failed. ](/news/2016/01/6/2016-north-korean-nuclear-test-a-5-1-magnitude-earthquake-near-sungjibaegam-north-korea-is-suspected-to-be-a-nuclear-explosion-at-the-pun.md) _2017-08-27 03:44:36 (First version)_
+1. [2016 North Korean nuclear test: A 5.1 magnitude earthquake near Sungjibaegam, North Korea, is suspected to be a nuclear explosion at the Punggye-ri Nuclear Test Site. North Korea announces it has conducted a hydrogen bomb test. They claim to have tested a miniaturized bomb. If not true it would mean that the test partially failed. ](/news/2016/01/6/2016-north-korean-nuclear-test-a-5-1-magnitude-earthquake-near-sungjibaegam-north-korea-is-suspected-to-be-a-nuclear-explosion-at-the-pun.md) _2018-02-06 13:49:28 (First version)_
 1. [A 5.1 magnitude earthquake near Sungjibaegam, North Korea, is suspected to be a nuclear explosion at the Punggye-ri Nuclear Test Site. North Korea announces it has conducted a hydrogen bomb test. They claim to have tested a miniaturized bomb. If not true it would mean that the test partially failed. ](/news/2016/01/6/a-5-1-magnitude-earthquake-near-sungjibaegam-north-korea-is-suspected-to-be-a-nuclear-explosion-at-the-punggye-ri-nuclear-test-site-north.md) _(Current version)_
 
 ### Related:

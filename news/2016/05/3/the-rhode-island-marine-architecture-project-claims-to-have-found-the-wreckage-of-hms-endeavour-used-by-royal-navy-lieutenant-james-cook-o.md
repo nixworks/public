@@ -16,7 +16,7 @@ Researchers say they believe they have located the wreckage of the Endeavour, th
 
 ### Changes:
 
-1. [The Rhode Island Marine Architecture Project claims to have found the wreckage of HMS ''Endeavour'' used by Royal Navy Lieutenant James Cook on his voyage to Australia, New Zealand and Tahiti between 1768 and 1771. The ship was scuttled in 1778 in Newport Harbor ahead of the Battle of Rhode Island in the American War of Independence. ](/news/2016/05/3/the-rhode-island-marine-architecture-project-claims-to-have-found-the-wreckage-of-hms-endeavour-used-by-royal-navy-lieutenant-james-cook.md) _2017-08-25 03:45:36 (First version)_
+1. [The Rhode Island Marine Architecture Project claims to have found the wreckage of HMS ''Endeavour'' used by Royal Navy Lieutenant James Cook on his voyage to Australia, New Zealand and Tahiti between 1768 and 1771. The ship was scuttled in 1778 in Newport Harbor ahead of the Battle of Rhode Island in the American War of Independence. ](/news/2016/05/3/the-rhode-island-marine-architecture-project-claims-to-have-found-the-wreckage-of-hms-endeavour-used-by-royal-navy-lieutenant-james-cook.md) _2018-02-06 13:49:29 (First version)_
 1. [The Rhode Island Marine Architecture Project claims to have found the wreckage of HMS "Endeavour" used by Royal Navy Lieutenant James Cook on his voyage to Australia, New Zealand and Tahiti between 1768 and 1771. The ship was scuttled in 1778 in Newport Harbor ahead of the Battle of Rhode Island in the American War of Independence. ](/news/2016/05/3/the-rhode-island-marine-architecture-project-claims-to-have-found-the-wreckage-of-hms-endeavour-used-by-royal-navy-lieutenant-james-cook-o.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ As presidential candidates in the Philippines kick off their electoral campaigns
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The campaign period for the election begins in what international media dubs as a "cliffhanger" between five candidates: Jejomar Binay, Miriam Defensor Santiago, Rodrigo R. Duterte, Grace Poe, and Mar Roxas. ](/news/2016/02/9/philippine-presidential-election-2016-the-campaign-period-for-the-election-begins-in-what-international-media-dubs-as-a-cliffhanger-betw.md) _2017-08-27 03:44:52 (First version)_
+1. [Philippine presidential election, 2016: The campaign period for the election begins in what international media dubs as a "cliffhanger" between five candidates: Jejomar Binay, Miriam Defensor Santiago, Rodrigo R. Duterte, Grace Poe, and Mar Roxas. ](/news/2016/02/9/philippine-presidential-election-2016-the-campaign-period-for-the-election-begins-in-what-international-media-dubs-as-a-cliffhanger-betw.md) _2018-02-06 13:49:28 (First version)_
 1. [The campaign period for the election begins in what international media dubs as a "cliffhanger" between five candidates: Jejomar Binay, Miriam Defensor Santiago, Rodrigo R. Duterte, Grace Poe, and Mar Roxas. ](/news/2016/02/9/the-campaign-period-for-the-election-begins-in-what-international-media-dubs-as-a-cliffhanger-between-five-candidates-jejomar-binay-miri.md) _(Current version)_
 
 ### Related:

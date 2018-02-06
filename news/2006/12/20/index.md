@@ -9,15 +9,15 @@ _Context: Home Office, His Majesty's Government_
 
 ##### Albania
 ### [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md)
-_Context: Bosnia and Herzegovina, Albania, Romania, free trade zone, Macedonian, Central European Free Trade Agreement, Montenegro, Kosovo, Serbia, Croatia, Bulgaria, Moldova_
+_Context: Croatia, Albania, Kosovo, Serbia, Romania, free trade zone, Bosnia and Herzegovina, Bulgaria, Republic of Macedonia, Montenegro, Central European Free Trade Agreement, Moldova_
 
 ##### Government of Kazakhstan
 ### [ The Government of Kazakhstan is considering giving Kyrgyzstan USD $100 million in aid. ](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.md)
-_Context: USD, Kyrgyzstan, Government of Kazakhstan_
+_Context: Kyrgyzstan, USD, Government of Kazakhstan_
 
 ##### 2006 Malaysian floods
 ### [ The 2006 Malaysian floods caused by heavy monsoon rain force the evacuation of 26,000 people in the southern Malaysian state of Johor. Flooding is also reported in the southern states of Malacca and Negeri Sembilan but the situation there is not as serious. ](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.md)
-_Context: 2006 Malaysian floods, Malacca, Johor, monsoon, Negeri Sembilan, Malaysia_
+_Context: 2006 Malaysian floods, Malaysia, Negeri Sembilan, Malacca, Johor, monsoon_
 
 ##### Somali Civil War
 ### [ Somali Civil War: Heavy fighting breaks out on at least two fronts near the Somali interim government's base in Baidoa. Somalia's interim government and the Islamic Courts Union pledge to begin peace negotiations. ](/news/2006/12/20/somali-civil-war-heavy-fighting-breaks-out-on-at-least-two-fronts-near-the-somali-interim-government-s-base-in-baidoa-somalia-s-interim-g.md)

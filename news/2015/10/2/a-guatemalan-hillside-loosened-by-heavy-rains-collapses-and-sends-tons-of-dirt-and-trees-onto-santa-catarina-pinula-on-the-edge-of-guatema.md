@@ -17,7 +17,7 @@ Rescue workers scrabbled through earth and rubble on Saturday in search of survi
 
 ### Changes:
 
-1. [2015 El Cambray Dos landslide: A Guatemalan hillside, loosened by heavy rains, collapses and sends tons of dirt and trees onto Santa Catarina Pinula on the edge of Guatemala City, killing at least 56 with as many as 600 people missing. ](/news/2015/10/2/2015-el-cambray-dos-landslide-a-guatemalan-hillside-loosened-by-heavy-rains-collapses-and-sends-tons-of-dirt-and-trees-onto-santa-catarin.md) _2017-08-27 03:43:13 (First version)_
+1. [2015 El Cambray Dos landslide: A Guatemalan hillside, loosened by heavy rains, collapses and sends tons of dirt and trees onto Santa Catarina Pinula on the edge of Guatemala City, killing at least 56 with as many as 600 people missing. ](/news/2015/10/2/2015-el-cambray-dos-landslide-a-guatemalan-hillside-loosened-by-heavy-rains-collapses-and-sends-tons-of-dirt-and-trees-onto-santa-catarin.md) _2018-02-06 13:49:27 (First version)_
 1. [A Guatemalan hillside, loosened by heavy rains, collapses and sends tons of dirt and trees onto Santa Catarina Pinula on the edge of Guatemala City, killing at least 56 with as many as 600 people missing. ](/news/2015/10/2/a-guatemalan-hillside-loosened-by-heavy-rains-collapses-and-sends-tons-of-dirt-and-trees-onto-santa-catarina-pinula-on-the-edge-of-guatema.md) _(Current version)_
 
 ### Related:

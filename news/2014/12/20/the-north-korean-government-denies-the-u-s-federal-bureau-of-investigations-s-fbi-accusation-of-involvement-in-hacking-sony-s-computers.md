@@ -19,7 +19,7 @@ Decrying U.S. allegations that it was behind a cyberattack on Sony Pictures as a
 
 ### Changes:
 
-1. [Sony Pictures Entertainment hack: The North Korean government denies the U.S. Federal Bureau of Investigations's (FBI) accusation of involvement in hacking Sony's computers, asking the U.S. for a joint investigation and threatening "serious consequences" if the United States refuses the offer of cooperation. ](/news/2014/12/20/sony-pictures-entertainment-hack-the-north-korean-government-denies-the-u-s-federal-bureau-of-investigations-s-fbi-accusation-of-involve.md) _2017-08-27 03:41:39 (First version)_
+1. [Sony Pictures Entertainment hack: The North Korean government denies the U.S. Federal Bureau of Investigations's (FBI) accusation of involvement in hacking Sony's computers, asking the U.S. for a joint investigation and threatening "serious consequences" if the United States refuses the offer of cooperation. ](/news/2014/12/20/sony-pictures-entertainment-hack-the-north-korean-government-denies-the-u-s-federal-bureau-of-investigations-s-fbi-accusation-of-involve.md) _2018-02-06 13:49:26 (First version)_
 1. [The North Korean government denies the U.S. Federal Bureau of Investigations's (FBI) accusation of involvement in hacking Sony's computers, asking the U.S. for a joint investigation and threatening "serious consequences" if the United States refuses the offer of cooperation. ](/news/2014/12/20/the-north-korean-government-denies-the-u-s-federal-bureau-of-investigations-s-fbi-accusation-of-involvement-in-hacking-sony-s-computers.md) _(Current version)_
 
 ### Related:

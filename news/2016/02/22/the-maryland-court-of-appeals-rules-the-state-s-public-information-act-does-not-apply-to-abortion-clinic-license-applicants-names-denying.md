@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [The Maryland Court of Appeals rules the state's Public Information Act does not apply to abortion clinic license applicants' names, denying the Maryland Coalition for Life's appeal which had noted that courts in Illinois, Kansas and Minnesota have ordered these names released. The ruling can not be appealed to federal courts. ](/news/2016/02/22/the-maryland-court-of-appeals-rules-the-state-s-public-information-act-does-not-apply-to-abortion-clinic-license-applicants-names-deny.md) _2017-08-25 03:44:38 (First version)_
+1. [The Maryland Court of Appeals rules the state's Public Information Act does not apply to abortion clinic license applicants' names, denying the Maryland Coalition for Life's appeal which had noted that courts in Illinois, Kansas and Minnesota have ordered these names released. The ruling can not be appealed to federal courts. ](/news/2016/02/22/the-maryland-court-of-appeals-rules-the-state-s-public-information-act-does-not-apply-to-abortion-clinic-license-applicants-names-deny.md) _2018-02-06 13:49:28 (First version)_
 1. [The Maryland Court of Appeals rules the state's Public Information Act does not apply to abortion clinic license applicants' names, denying the Maryland Coalition for Life's appeal which had noted that courts in Illinois, Kansas and Minnesota have ordered these names released. The ruling can not be appealed to federal courts. ](/news/2016/02/22/the-maryland-court-of-appeals-rules-the-state-s-public-information-act-does-not-apply-to-abortion-clinic-license-applicants-names-denying.md) _(Current version)_
 
 ### Related:

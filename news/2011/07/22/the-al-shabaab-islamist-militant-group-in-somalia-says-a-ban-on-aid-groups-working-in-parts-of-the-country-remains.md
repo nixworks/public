@@ -17,7 +17,7 @@ Rejecting UN famine claims, opposition group says it will not allow certain supp
 
 ### Changes:
 
-1. [2011 Horn of Africa famine: The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/2011-horn-of-africa-famine-the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remai.md) _2017-08-27 03:33:58 (First version)_
+1. [2011 Horn of Africa famine: The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/2011-horn-of-africa-famine-the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remai.md) _2018-02-06 13:49:22 (First version)_
 1. [The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remains.md) _(Current version)_
 
 ### Related:

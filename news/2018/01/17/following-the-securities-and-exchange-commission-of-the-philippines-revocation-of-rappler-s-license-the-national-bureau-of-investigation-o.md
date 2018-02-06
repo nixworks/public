@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/17/following-the-securities-and-exchange-commissio
 
 ### Changes:
 
-1. [Following the Securities and Exchange Commission revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-revocation-of-rappler-s-license-the-national-bureau-of-investigation-of-the-philippines-la.md) _2018-01-18 11:30:06 (First version)_
+1. [Following the Securities and Exchange Commission revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-revocation-of-rappler-s-license-the-national-bureau-of-investigation-of-the-philippines-la.md) _2018-02-06 13:49:31 (First version)_
 1. [Following the Securities and Exchange Commission of the Philippines' revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-of-the-philippines-revocation-of-rappler-s-license-the-national-bureau-of-investigation-o.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/11/index.html)  [JSON](2012/12/11/index.json)  [XML](201
 
 ##### bombings
 ### [At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md)
-_Context: Syria, Alawite, Aqrab, bombings_
+_Context: Syria, bombings, Aqrab, Alawite_
 
 ##### Yemeni Army
 ### [A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md)
@@ -17,11 +17,11 @@ Egypt&#039;s army chief calls for talks on national unity to end the country&#03
 
 ##### Ulster Unionist Party
 ### [Ulster Unionist Party leader Mike Nesbitt calls for an end to street protests over Belfast City Council's decision to restrict the flying of the union flag after loyalists threw a petrol bomb into a police vehicle in which a female officer was sitting at the time. ](/news/2012/12/11/ulster-unionist-party-leader-mike-nesbitt-calls-for-an-end-to-street-protests-over-belfast-city-council-s-decision-to-restrict-the-flying-of.md)
-_Context: Ulster loyalism, Ulster Unionist Party, police vehicle, Mike Nesbitt, petrol bomb, union flag, Belfast City Council_
+_Context: petrol bomb, Ulster loyalism, Mike Nesbitt, Ulster Unionist Party, police vehicle, Belfast City Council, union flag_
 
 ##### Russia
 ### [Russian soprano opera singer Galina Vishnevskaya, wife of Mstislav Rostropovich, dies in Moscow at the age of 86. ](/news/2012/12/11/russian-soprano-opera-singer-galina-vishnevskaya-wife-of-mstislav-rostropovich-dies-in-moscow-at-the-age-of-86.md)
-_Context: Galina Vishnevskaya, Moscow, soprano, opera, Mstislav Rostropovich, Russia_
+_Context: Mstislav Rostropovich, soprano, opera, Russia, Moscow, Galina Vishnevskaya_
 
 ##### Indians
 ### [Indian sitar virtuoso and classical composer Ravi Shankar dies in the U.S. city of San Diego at the age of 92. ](/news/2012/12/11/indian-sitar-virtuoso-and-classical-composer-ravi-shankar-dies-in-the-u-s-city-of-san-diego-at-the-age-of-92.md)
@@ -35,7 +35,7 @@ Schools in America are to drop classic books such as Harper Lee&#039;s To Kill a
 ### [The UK government sets out proposals to legalise gay marriages in England and Wales. The Church of England and Church in Wales will be banned from conducting wedding ceremonies for same-sex couples, but other religious organisations will be allowed to conduct gay weddings if they wish. ](/news/2012/12/11/the-uk-government-sets-out-proposals-to-legalise-gay-marriages-in-england-and-wales-the-church-of-england-and-church-in-wales-will-be-banne.md)
 The Church of England and Church in Wales will be banned in law from offering same-sex marriages, the government announces.
 
-##### British
+##### United Kingdom
 ### [British-based bank HSBC will pay U.S. authorities $1.9 billion in a settlement over money laundering for drug cartels and countries under sanctions, the largest ever such penalty. ](/news/2012/12/11/british-based-bank-hsbc-will-pay-u-s-authorities-1-9-billion-in-a-settlement-over-money-laundering-for-drug-cartels-and-countries-under-sa.md)
 HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing to prevent money passing to &quot;drug kingpins and rogue nations&quot;.
 
@@ -49,11 +49,11 @@ An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “nat
 
 ##### United States Court of Appeals for the Seventh Circuit
 ### [The United States Court of Appeals for the Seventh Circuit overturns an Illinois law banning the carrying of concealed weapons. ](/news/2012/12/11/the-united-states-court-of-appeals-for-the-seventh-circuit-overturns-an-illinois-law-banning-the-carrying-of-concealed-weapons.md)
-_Context: Illinois, United States Court of Appeals for the Seventh Circuit_
+_Context: United States Court of Appeals for the Seventh Circuit, Illinois_
 
 ##### opens fire
 ### [A gunman opens fire in the Clackamas Town Center mall in the U.S. state of Oregon. Three people, including the suspected shooter, are killed and another is injured. ](/news/2012/12/11/a-gunman-opens-fire-in-the-clackamas-town-center-mall-in-the-u-s-state-of-oregon-three-people-including-the-suspected-shooter-are-killed.md)
-_Context: Oregon, Clackamas Town Center, opens fire, U.S._
+_Context: Clackamas Town Center, Oregon, U.S., opens fire_
 
 ##### McKeeva Bush
 ### [McKeeva Bush, the Premier of the Cayman Islands, is arrested for fraud and importation of explosives as part of a corruption investigation. ](/news/2012/12/11/mckeeva-bush-the-premier-of-the-cayman-islands-is-arrested-for-fraud-and-importation-of-explosives-as-part-of-a-corruption-investigation.md)
@@ -69,15 +69,15 @@ Mali&#039;s prime minister Cheick Modibo Diarra has resigned hours after he was 
 
 ##### Mich.
 ### [Michigan's state government passes right to work legislation, making Michigan the 24th state and the most highly unionized state in the US to have such laws. Thousands of union employees protest outside the Michigan State Capitol in Lansing. ](/news/2012/12/11/michigan-s-state-government-passes-right-to-work-legislation-making-michigan-the-24th-state-and-the-most-highly-unionized-state-in-the-us-t.md)
-_Context: Lansing, Mich., Michigan State Capitol, right to work_
+_Context: Lansing, right to work, Michigan State Capitol, Mich._
 
 ##### Hugo Chvez
 ### [Hugo Chvez, the President of Venezuela, undergoes cancer surgery in Cuba. ](/news/2012/12/11/hugo-chavez-the-president-of-venezuela-undergoes-cancer-surgery-in-cuba.md)
-_Context: President, Cuba, Hugo Chvez, cancer surgery_
+_Context: cancer surgery, Hugo Chvez, Cuba, President_
 
 ##### Fundamental Physics Prize
 ### [The $3 million special Fundamental Physics Prize is awarded to Stephen Hawking, a British theoretical physicist. Seven scientists who led the Large Hadron Collider and discovered Higgs-like particle share another $3 million special prize which was founded by a Russian physicist and internet entrepreneur Yuri Milner. ](/news/2012/12/11/the-3-million-special-fundamental-physics-prize-is-awarded-to-stephen-hawking-a-british-theoretical-physicist-seven-scientists-who-led-th.md)
-_Context: British, Russia, Stephen Hawking, Higgs boson, Yuri Milner, Large Hadron Collider, Fundamental Physics Prize, Theoretical physicists_
+_Context: Large Hadron Collider, Theoretical physicists, Stephen Hawking, Higgs boson, Russia, Fundamental Physics Prize, Yuri Milner, British_
 
 ## [Previous Day...](/news/2012/12/10/index.md)
 

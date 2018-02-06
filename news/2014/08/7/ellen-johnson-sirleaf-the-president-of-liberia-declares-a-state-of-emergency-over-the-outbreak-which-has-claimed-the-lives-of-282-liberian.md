@@ -16,8 +16,8 @@ Liberian President Ellen Johnson Sirleaf declares a state of emergency as the co
 
 ### Changes:
 
-1. [2014 West Africa ebola outbreak:Ellen Johnson Sirleaf, the President of Liberia, declares a state of emergency over the outbreak which has claimed the lives of 282 Liberian people so far. ](/news/2014/08/7/2014-west-africa-ebola-outbreak-pellen-johnson-sirleaf-the-president-of-liberia-declares-a-state-of-emergency-over-the-outbreak-which-has.md) _2017-08-25 03:40:49 (First version)_
-2. [2014 West Africa ebola outbreak:: Ellen Johnson Sirleaf, the President of Liberia, declares a state of emergency over the outbreak which has claimed the lives of 282 Liberian people so far. ](/news/2014/08/7/2014-west-africa-ebola-outbreak-ellen-johnson-sirleaf-the-president-of-liberia-declares-a-state-of-emergency-over-the-outbreak-which-has.md) _2017-08-27 03:41:07 (Update)_
+1. [2014 West Africa ebola outbreak:Ellen Johnson Sirleaf, the President of Liberia, declares a state of emergency over the outbreak which has claimed the lives of 282 Liberian people so far. ](/news/2014/08/7/2014-west-africa-ebola-outbreak-pellen-johnson-sirleaf-the-president-of-liberia-declares-a-state-of-emergency-over-the-outbreak-which-has.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa ebola outbreak:: Ellen Johnson Sirleaf, the President of Liberia, declares a state of emergency over the outbreak which has claimed the lives of 282 Liberian people so far. ](/news/2014/08/7/2014-west-africa-ebola-outbreak-ellen-johnson-sirleaf-the-president-of-liberia-declares-a-state-of-emergency-over-the-outbreak-which-has.md) _2018-02-06 13:49:26 (Update)_
 2. [Ellen Johnson Sirleaf, the President of Liberia, declares a state of emergency over the outbreak which has claimed the lives of 282 Liberian people so far. ](/news/2014/08/7/ellen-johnson-sirleaf-the-president-of-liberia-declares-a-state-of-emergency-over-the-outbreak-which-has-claimed-the-lives-of-282-liberian.md) _(Current version)_
 
 ### Related:

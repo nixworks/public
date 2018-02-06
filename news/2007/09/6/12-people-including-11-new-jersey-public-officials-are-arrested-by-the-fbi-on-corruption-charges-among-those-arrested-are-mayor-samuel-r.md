@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/6/12-people-including-11-new-jersey-public-officia
 
 ### Changes:
 
-1. [ 12 people, including 11 New Jersey public officials, are arrested by the FBI on corruption charges. Among those arrested are Mayor Samuel Rivera of Passaic and Mayor Mims Hackett of Orange. ](/news/2007/09/6/12-people-including-11-new-jersey-public-officials-are-arrested-by-the-fbi-on-corruption-charges-among-those-arrested-are-mayor-samuel.md) _2017-08-25 03:20:53 (First version)_
+1. [ 12 people, including 11 New Jersey public officials, are arrested by the FBI on corruption charges. Among those arrested are Mayor Samuel Rivera of Passaic and Mayor Mims Hackett of Orange. ](/news/2007/09/6/12-people-including-11-new-jersey-public-officials-are-arrested-by-the-fbi-on-corruption-charges-among-those-arrested-are-mayor-samuel.md) _2018-02-06 13:49:18 (First version)_
 1. [ 12 people, including 11 New Jersey public officials, are arrested by the FBI on corruption charges. Among those arrested are Mayor Samuel Rivera of Passaic and Mayor Mims Hackett of Orange. ](/news/2007/09/6/12-people-including-11-new-jersey-public-officials-are-arrested-by-the-fbi-on-corruption-charges-among-those-arrested-are-mayor-samuel-r.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/04/9/despite-a-ceasefire-eta-shoot-a-french-policeman
 
 ### Changes:
 
-1. [Basque conflict:Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/basque-conflict-pdespite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md) _2017-08-25 03:32:46 (First version)_
-2. [Basque conflict:: Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/basque-conflict-despite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md) _2017-08-27 03:32:55 (Update)_
+1. [Basque conflict:Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/basque-conflict-pdespite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md) _2018-02-06 13:49:22 (First version)_
+2. [Basque conflict:: Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/basque-conflict-despite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md) _2018-02-06 13:49:22 (Update)_
 2. [Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/despite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md) _(Current version)_
 
 ### Related:

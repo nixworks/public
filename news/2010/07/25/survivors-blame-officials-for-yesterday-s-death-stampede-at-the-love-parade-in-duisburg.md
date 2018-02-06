@@ -21,8 +21,8 @@ Survivors of a stampede at a dance music festival in Germany, in which 19 people
 
 ### Changes:
 
-1. [Love Parade stampede:Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-psurvivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _2017-08-25 03:29:02 (First version)_
-2. [Love Parade stampede:: Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _2017-08-27 03:29:04 (Update)_
+1. [Love Parade stampede:: Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _2018-02-06 13:49:20 (First version)_
+2. [Love Parade stampede:Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-psurvivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _2018-02-06 13:49:20 (Update)_
 2. [Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _(Current version)_
 
 ### Related:

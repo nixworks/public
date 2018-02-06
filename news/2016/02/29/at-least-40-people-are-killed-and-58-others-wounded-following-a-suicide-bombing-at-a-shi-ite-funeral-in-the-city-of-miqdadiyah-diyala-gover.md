@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wou
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/iraqi-civil-war-2014-present-at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-th.md) _2017-08-27 03:45:04 (First version)_
+1. [Iraqi Civil War (2014-present): At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/iraqi-civil-war-2014-present-at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-th.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-the-city-of-miqdadiyah-diyala-gover.md) _(Current version)_
 
 ### Related:

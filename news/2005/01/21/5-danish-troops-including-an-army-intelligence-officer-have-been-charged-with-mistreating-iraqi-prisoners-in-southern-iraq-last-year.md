@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/01/21/5-danish-troops-including-an-army-intelligence-
 
 ### Changes:
 
-1. [ Conflict in Iraq: 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-p-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md) _2017-08-25 03:15:33 (First version)_
-2. [ Conflict in Iraq:: 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md) _2017-08-27 03:15:34 (Update)_
+1. [ Conflict in Iraq: 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-p-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md) _2018-02-06 13:49:16 (Update)_
 2. [ 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern-iraq-last-year.md) _(Current version)_
 
 ### Related:

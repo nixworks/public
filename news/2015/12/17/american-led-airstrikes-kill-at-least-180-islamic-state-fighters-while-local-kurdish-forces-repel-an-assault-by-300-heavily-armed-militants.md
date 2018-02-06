@@ -15,7 +15,7 @@ At least 180 Islamist militants were killed in U.S. and allied airstrikes to sup
 
 ### Changes:
 
-1. [American-led airstrikes kill at least 180 Islamic State fighters while local Kurdish forces repel an assault by 300 heavily armed militants in northern Iraq. ](/news/2015/12/17/american-led-airstrikes-kill-at-least-180-islamic-state-fighters-while-local-kurdish-forcesa-repel-an-assault-by-300-heavily-armed-militant.md) _2017-10-17 03:51:12 (First version)_
+1. [American-led airstrikes kill at least 180 Islamic State fighters while local Kurdish forces repel an assault by 300 heavily armed militants in northern Iraq. ](/news/2015/12/17/american-led-airstrikes-kill-at-least-180-islamic-state-fighters-while-local-kurdish-forcesa-repel-an-assault-by-300-heavily-armed-militant.md) _2018-02-06 13:49:28 (First version)_
 1. [ American-led airstrikes kill at least 180 Islamic State fighters while local Kurdish forces repel an assault by 300 heavily armed militants in northern Iraq. ](/news/2015/12/17/american-led-airstrikes-kill-at-least-180-islamic-state-fighters-while-local-kurdish-forces-repel-an-assault-by-300-heavily-armed-militants.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/29/human-rights-activists-claim-that-three-pro-dem
 
 ### Changes:
 
-1. [Human rights in China: Human rights activists claim that three pro-democracy advocates have been sentenced to up to five years imprisonment on charges of attempting to overthrow the Communist Party government in Guangzhou. ](/news/2016/01/29/human-rights-in-china-human-rights-activists-claim-that-three-pro-democracy-advocates-have-been-sentenced-to-up-to-five-years-imprisonment.md) _2017-08-27 03:44:47 (First version)_
+1. [Human rights in China: Human rights activists claim that three pro-democracy advocates have been sentenced to up to five years imprisonment on charges of attempting to overthrow the Communist Party government in Guangzhou. ](/news/2016/01/29/human-rights-in-china-human-rights-activists-claim-that-three-pro-democracy-advocates-have-been-sentenced-to-up-to-five-years-imprisonment.md) _2018-02-06 13:49:28 (First version)_
 1. [Human rights activists claim that three pro-democracy advocates have been sentenced to up to five years imprisonment on charges of attempting to overthrow the Communist Party government in Guangzhou. ](/news/2016/01/29/human-rights-activists-claim-that-three-pro-democracy-advocates-have-been-sentenced-to-up-to-five-years-imprisonment-on-charges-of-attemptin.md) _(Current version)_
 
 ### Related:

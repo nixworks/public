@@ -16,7 +16,7 @@ A female suicide bomber blows herself up in the north-east Nigerian city of Gomb
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: A female suicide bomber attacks minutes after the President of Nigeria leaves an election rally in the city of Gombe resulting in at least one death and eighteen people injured. ](/news/2015/02/2/islamist-insurgency-in-nigeria-a-female-suicide-bomber-attacks-minutes-after-the-president-of-nigeria-leaves-an-election-rally-in-the-city.md) _2017-08-27 03:41:52 (First version)_
+1. [Islamist insurgency in Nigeria: A female suicide bomber attacks minutes after the President of Nigeria leaves an election rally in the city of Gombe resulting in at least one death and eighteen people injured. ](/news/2015/02/2/islamist-insurgency-in-nigeria-a-female-suicide-bomber-attacks-minutes-after-the-president-of-nigeria-leaves-an-election-rally-in-the-city.md) _2018-02-06 13:49:26 (First version)_
 1. [A female suicide bomber attacks minutes after the President of Nigeria leaves an election rally in the city of Gombe resulting in at least one death and eighteen people injured. ](/news/2015/02/2/a-female-suicide-bomber-attacks-minutes-after-the-president-of-nigeria-leaves-an-election-rally-in-the-city-of-gombe-resulting-in-at-least-o.md) _(Current version)_
 
 ### Related:

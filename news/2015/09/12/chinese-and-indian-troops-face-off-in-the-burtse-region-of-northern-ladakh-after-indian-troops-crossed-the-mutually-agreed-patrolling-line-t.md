@@ -16,7 +16,7 @@ According to officials, the Chinese troops had built a temporary hut in Burtse, 
 
 ### Changes:
 
-1. [Sino-Indian border dispute: Chinese and Indian troops face-off in the Burtse region of northern Ladakh after Indian troops crossed the mutually-agreed patrolling line to dismantle a disputed watchtower the Chinese were building close to line. ](/news/2015/09/12/sino-indian-border-dispute-chinese-and-indian-troops-face-off-in-the-burtse-region-of-northern-ladakh-after-indian-troops-crossed-the-mutua.md) _2017-08-27 03:43:02 (First version)_
+1. [Sino-Indian border dispute: Chinese and Indian troops face-off in the Burtse region of northern Ladakh after Indian troops crossed the mutually-agreed patrolling line to dismantle a disputed watchtower the Chinese were building close to line. ](/news/2015/09/12/sino-indian-border-dispute-chinese-and-indian-troops-face-off-in-the-burtse-region-of-northern-ladakh-after-indian-troops-crossed-the-mutua.md) _2018-02-06 13:49:27 (First version)_
 1. [Chinese and Indian troops face-off in the Burtse region of northern Ladakh after Indian troops crossed the mutually-agreed patrolling line to dismantle a disputed watchtower the Chinese were building close to line. ](/news/2015/09/12/chinese-and-indian-troops-face-off-in-the-burtse-region-of-northern-ladakh-after-indian-troops-crossed-the-mutually-agreed-patrolling-line-t.md) _(Current version)_
 
 ### Related:

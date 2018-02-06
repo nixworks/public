@@ -17,7 +17,7 @@ The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist
 
 ### Changes:
 
-1. [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-t.md) _2017-08-25 03:31:37 (First version)_
+1. [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-t.md) _2018-02-06 13:49:21 (First version)_
 1. [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md) _(Current version)_
 
 ### Related:

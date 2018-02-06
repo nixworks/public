@@ -17,7 +17,7 @@ Residents voted to move Shishmaref from a barrier island that has been disappear
 
 ### Changes:
 
-1. [The American town of Shishmaref, Alaska, votes to relocate the village from its current location on a barrier island, that has been disappearing through erosion and rising sea levels, to a site on the mainland. ](/news/2016/08/19/the-american-town-of-shishmaref-alaska-votes-to-relocate-the-village-from-its-current-location-on-a-barrier-island-that-has-been-disa.md) _2017-08-25 03:46:17 (First version)_
+1. [The American town of Shishmaref, Alaska, votes to relocate the village from its current location on a barrier island, that has been disappearing through erosion and rising sea levels, to a site on the mainland. ](/news/2016/08/19/the-american-town-of-shishmaref-alaska-votes-to-relocate-the-village-from-its-current-location-on-a-barrier-island-that-has-been-disa.md) _2018-02-06 13:49:29 (First version)_
 1. [The American town of Shishmaref, Alaska, votes to relocate the village from its current location on a barrier island, that has been disappearing through erosion and rising sea levels, to a site on the mainland. ](/news/2016/08/19/the-american-town-of-shishmaref-alaska-votes-to-relocate-the-village-from-its-current-location-on-a-barrier-island-that-has-been-disappea.md) _(Current version)_
 
 ### Related:

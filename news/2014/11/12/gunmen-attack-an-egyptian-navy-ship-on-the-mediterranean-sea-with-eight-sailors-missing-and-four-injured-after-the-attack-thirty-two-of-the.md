@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/12/gunmen-attack-an-egyptian-navy-ship-on-the-medi
 
 ### Changes:
 
-1. [Islamist unrest in Egypt (2013-14): Gunmen attack an Egyptian Navy ship on the Mediterranean Sea with eight sailors missing and four injured after the attack. Thirty-two of the gunmen have been captured with four reported as dead. ](/news/2014/11/12/islamist-unrest-in-egypt-2013-14-gunmen-attack-an-egyptian-navy-ship-on-the-mediterranean-sea-with-eight-sailors-missing-and-four-injur.md) _2017-08-27 03:41:30 (First version)_
+1. [Islamist unrest in Egypt (2013-14): Gunmen attack an Egyptian Navy ship on the Mediterranean Sea with eight sailors missing and four injured after the attack. Thirty-two of the gunmen have been captured with four reported as dead. ](/news/2014/11/12/islamist-unrest-in-egypt-2013-14-gunmen-attack-an-egyptian-navy-ship-on-the-mediterranean-sea-with-eight-sailors-missing-and-four-injur.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen attack an Egyptian Navy ship on the Mediterranean Sea with eight sailors missing and four injured after the attack. Thirty-two of the gunmen have been captured with four reported as dead. ](/news/2014/11/12/gunmen-attack-an-egyptian-navy-ship-on-the-mediterranean-sea-with-eight-sailors-missing-and-four-injured-after-the-attack-thirty-two-of-the.md) _(Current version)_
 
 ### Related:

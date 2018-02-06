@@ -17,8 +17,8 @@ The somber ceremony dedicating the National September 11 Memorial Museum was hel
 
 ### Changes:
 
-1. [National September 11 Memorial & Museum:First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/national-september-11-memorial-museum-pfirst-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memori.md) _2017-08-25 03:40:24 (First version)_
-2. [National September 11 Memorial & Museum:: First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/national-september-11-memorial-museum-first-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memor.md) _2017-08-27 03:40:42 (Update)_
+1. [National September 11 Memorial & Museum:First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/national-september-11-memorial-museum-pfirst-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memori.md) _2018-02-06 13:49:26 (First version)_
+2. [National September 11 Memorial & Museum:: First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/national-september-11-memorial-museum-first-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memor.md) _2018-02-06 13:49:26 (Update)_
 2. [First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/first-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memorial-with-the-victims-on-ground-zero.md) _(Current version)_
 
 ### Related:

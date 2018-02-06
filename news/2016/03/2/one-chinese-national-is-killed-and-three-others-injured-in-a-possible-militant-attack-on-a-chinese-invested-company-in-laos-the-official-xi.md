@@ -16,7 +16,7 @@ One Chinese national was killed and three wounded in a &quot;militant&quot; atta
 
 ### Changes:
 
-1. [One Chinese national is killed and three others injured in a possible militant attack on a Chinese-invested company in Laos, the official Xinhua News Agency reports. ](/news/2016/03/2/one-chinese-national-is-killed-and-three-others-injured-in-a-possible-militant-attack-on-a-chinese-invested-company-in-laos-the-official-x.md) _2017-08-25 03:44:45 (First version)_
+1. [One Chinese national is killed and three others injured in a possible militant attack on a Chinese-invested company in Laos, the official Xinhua News Agency reports. ](/news/2016/03/2/one-chinese-national-is-killed-and-three-others-injured-in-a-possible-militant-attack-on-a-chinese-invested-company-in-laos-the-official-x.md) _2018-02-06 13:49:28 (First version)_
 1. [One Chinese national is killed and three others injured in a possible militant attack on a Chinese-invested company in Laos, the official Xinhua News Agency reports. ](/news/2016/03/2/one-chinese-national-is-killed-and-three-others-injured-in-a-possible-militant-attack-on-a-chinese-invested-company-in-laos-the-official-xi.md) _(Current version)_
 
 ### Related:

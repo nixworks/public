@@ -17,8 +17,8 @@ The Egyptian opposition maintains protests outside the presidential palace in Ca
 
 ### Changes:
 
-1. [2012 Egyptian protests:Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-ptens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md) _2017-08-25 03:36:58 (First version)_
-2. [2012 Egyptian protests:: Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-tens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md) _2017-08-27 03:37:08 (Update)_
+1. [2012 Egyptian protests:: Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-tens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Egyptian protests:Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-ptens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md) _2018-02-06 13:49:24 (Update)_
 2. [Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/tens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/05/1/pro-russian-militants-seize-the-regional-prosecu
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk. ](/news/2014/05/1/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md) _2017-08-25 03:40:22 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk. ](/news/2014/05/1/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md) _2017-08-27 03:40:40 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk. ](/news/2014/05/1/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk. ](/news/2014/05/1/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk. ](/news/2014/05/1/pro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md) _(Current version)_
 
 ### Related:

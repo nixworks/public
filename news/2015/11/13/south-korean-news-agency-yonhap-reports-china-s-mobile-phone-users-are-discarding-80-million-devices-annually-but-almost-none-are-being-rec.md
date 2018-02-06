@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s
 
 ### Changes:
 
-1. [South Korean news agency Yonhap reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-re.md) _2017-08-25 03:43:31 (First version)_
+1. [South Korean news agency Yonhap reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-re.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korean news agency Yonhap reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-rec.md) _(Current version)_
 
 ### Related:

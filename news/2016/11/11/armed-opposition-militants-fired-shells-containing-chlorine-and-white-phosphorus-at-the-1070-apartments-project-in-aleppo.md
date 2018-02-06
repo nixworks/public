@@ -16,7 +16,7 @@ Militants fired shells containing banned poisonous substances at apartments in A
 
 ### Changes:
 
-1. [Syrian Civil War: Armed opposition militants fired shells containing chlorine and white phosphorus at the 1070 Apartments project in Aleppo. ](/news/2016/11/11/syrian-civil-war-armed-opposition-militants-fired-shells-containing-chlorine-and-white-phosphorus-at-the-1070-apartments-project-in-aleppo.md) _2017-08-27 03:47:13 (First version)_
+1. [Syrian Civil War: Armed opposition militants fired shells containing chlorine and white phosphorus at the 1070 Apartments project in Aleppo. ](/news/2016/11/11/syrian-civil-war-armed-opposition-militants-fired-shells-containing-chlorine-and-white-phosphorus-at-the-1070-apartments-project-in-aleppo.md) _2018-02-06 13:49:29 (First version)_
 1. [Armed opposition militants fired shells containing chlorine and white phosphorus at the 1070 Apartments project in Aleppo. ](/news/2016/11/11/armed-opposition-militants-fired-shells-containing-chlorine-and-white-phosphorus-at-the-1070-apartments-project-in-aleppo.md) _(Current version)_
 
 ### Related:

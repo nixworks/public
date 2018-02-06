@@ -17,7 +17,7 @@ France confirms an Algerian jihadist group linked to IS has beheaded 55-year-old
 
 ### Changes:
 
-1. [Islamic State of Iraq and Syria: Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/islamic-state-of-iraq-and-syria-algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed.md) _2017-08-27 03:41:19 (First version)_
+1. [Islamic State of Iraq and Syria: Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/islamic-state-of-iraq-and-syria-algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed.md) _2018-02-06 13:49:26 (First version)_
 1. [Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed-because-of-french-participation-i.md) _(Current version)_
 
 ### Related:

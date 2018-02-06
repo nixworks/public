@@ -18,8 +18,8 @@ Royal Bank of Scotland, one of Britain&#039;s biggest banks, was yesterday drive
 
 ### Changes:
 
-1. [ Global financial crisis of 2008-2009: European Central Bank President Jean-Claude Trichet says that global economic growth in 2009 will be "substantially below" December 2008 forecasts. ](/news/2009/01/19/global-financial-crisis-of-2008a2009-p-european-central-bank-president-jean-claude-trichet-says-that-global-economic-growth-in-2009-will.md) _2017-08-25 03:23:30 (First version)_
-2. [ Global financial crisis of 2008-2009:: European Central Bank President Jean-Claude Trichet says that global economic growth in 2009 will be "substantially below" December 2008 forecasts. ](/news/2009/01/19/global-financial-crisis-of-2008-2009-european-central-bank-president-jean-claude-trichet-says-that-global-economic-growth-in-2009-will.md) _2017-08-27 03:23:22 (Update)_
+1. [ Global financial crisis of 2008-2009: European Central Bank President Jean-Claude Trichet says that global economic growth in 2009 will be "substantially below" December 2008 forecasts. ](/news/2009/01/19/global-financial-crisis-of-2008a2009-p-european-central-bank-president-jean-claude-trichet-says-that-global-economic-growth-in-2009-will.md) _2018-02-06 13:49:18 (First version)_
+2. [ Global financial crisis of 2008-2009:: European Central Bank President Jean-Claude Trichet says that global economic growth in 2009 will be "substantially below" December 2008 forecasts. ](/news/2009/01/19/global-financial-crisis-of-2008-2009-european-central-bank-president-jean-claude-trichet-says-that-global-economic-growth-in-2009-will.md) _2018-02-06 13:49:18 (Update)_
 2. [ European Central Bank President Jean-Claude Trichet says that global economic growth in 2009 will be "substantially below" December 2008 forecasts. ](/news/2009/01/19/european-central-bank-president-jean-claude-trichet-says-that-global-economic-growth-in-2009-will-be-substantially-below-december-2008-fo.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Afghan President Hamid Karzai today condemned US troops for killing a four-year-
 
 ### Changes:
 
-1. [War in Afghanistan: A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/war-in-afghanistan-a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md) _2017-08-27 03:40:09 (First version)_
+1. [War in Afghanistan: A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/war-in-afghanistan-a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md) _2018-02-06 13:49:25 (First version)_
 1. [A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md) _(Current version)_
 
 ### Related:

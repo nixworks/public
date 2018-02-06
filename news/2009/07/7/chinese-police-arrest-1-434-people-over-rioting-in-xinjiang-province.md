@@ -23,7 +23,7 @@ Rival ethnic Uighur and Han Chinese groups take to streets defying security crac
 
 ### Changes:
 
-1. [ July 2009 rmqi riots: Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/july-2009-urumqi-riots-chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md) _2017-08-27 03:24:56 (First version)_
+1. [ July 2009 rmqi riots: Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/july-2009-urumqi-riots-chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md) _(Current version)_
 
 ### Related:

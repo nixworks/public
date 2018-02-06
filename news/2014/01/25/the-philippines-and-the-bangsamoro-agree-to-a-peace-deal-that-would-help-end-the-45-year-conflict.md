@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-p
 
 ### Changes:
 
-1. [Civil conflict in the Philippines: The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _2017-08-27 03:40:15 (First version)_
+1. [Civil conflict in the Philippines: The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _2018-02-06 13:49:25 (First version)_
 1. [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _(Current version)_
 
 ### Related:

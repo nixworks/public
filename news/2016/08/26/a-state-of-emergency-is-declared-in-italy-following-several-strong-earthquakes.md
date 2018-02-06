@@ -17,7 +17,7 @@ One of more than 1000 aftershocks has cut off a key route into earthquake-strick
 
 ### Changes:
 
-1. [2016 Central Italy earthquake: A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/2016-central-italy-earthquake-a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _2017-08-27 03:46:43 (First version)_
+1. [2016 Central Italy earthquake: A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/2016-central-italy-earthquake-a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _2018-02-06 13:49:29 (First version)_
 1. [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _(Current version)_
 
 ### Related:

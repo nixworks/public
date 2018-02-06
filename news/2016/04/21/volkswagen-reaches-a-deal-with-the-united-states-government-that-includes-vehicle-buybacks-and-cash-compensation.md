@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-state
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-emissions-scandal-volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensati.md) _2017-08-27 03:45:44 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-emissions-scandal-volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensati.md) _2018-02-06 13:49:28 (First version)_
 1. [Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.md) _(Current version)_
 
 ### Related:

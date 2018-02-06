@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/8/the-death-toll-from-last-week-s-sinking-on-china
 
 ### Changes:
 
-1. [Sinking of "Dong Fang Zhi Xing": The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/sinking-of-dong-fang-zhi-xing-the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and.md) _2017-08-27 03:42:30 (First version)_
+1. [Sinking of "Dong Fang Zhi Xing": The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/sinking-of-dong-fang-zhi-xing-the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and-14-survivors.md) _(Current version)_
 
 ### Related:

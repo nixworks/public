@@ -17,7 +17,7 @@ BEIJING: Chinese authorities battling to prevent an environmental disaster after
 
 ### Changes:
 
-1. [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md) _2018-01-14 12:30:04 (First version)_
+1. [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md) _2018-02-06 13:49:31 (First version)_
 1. [China says no major oil spill has been detected after Sanchi disaster. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected-after-sanchi-disaster.md) _(Current version)_
 
 ### Related:

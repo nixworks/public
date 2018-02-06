@@ -20,7 +20,7 @@ Forces loyal to Libyan leader Muammar Gaddafi reportedly seize control of the ea
 
 ### Changes:
 
-1. [Arab Spring: 2011 Libyan civil war: Rebels are forced from the town of Brega by troops loyal to Muammar Gaddafi but later claim to have recaptured it. ](/news/2011/03/13/arab-spring-2011-libyan-civil-war-rebels-are-forced-from-the-town-of-brega-by-troops-loyal-to-muammar-gaddafi-but-later-claim-to-have-reca.md) _2017-08-27 03:32:39 (First version)_
+1. [Arab Spring: 2011 Libyan civil war: Rebels are forced from the town of Brega by troops loyal to Muammar Gaddafi but later claim to have recaptured it. ](/news/2011/03/13/arab-spring-2011-libyan-civil-war-rebels-are-forced-from-the-town-of-brega-by-troops-loyal-to-muammar-gaddafi-but-later-claim-to-have-reca.md) _2018-02-06 13:49:22 (First version)_
 1. [2011 Libyan civil war: Rebels are forced from the town of Brega by troops loyal to Muammar Gaddafi but later claim to have recaptured it. ](/news/2011/03/13/2011-libyan-civil-war-rebels-are-forced-from-the-town-of-brega-by-troops-loyal-to-muammar-gaddafi-but-later-claim-to-have-recaptured-it.md) _(Current version)_
 
 ### Related:

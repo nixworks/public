@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/08/6/saudi-arabia-sends-new-military-equipment-includ
 
 ### Changes:
 
-1. [Yemeni Civil War:Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/yemeni-civil-war-psaudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-fi.md) _2017-08-25 03:42:30 (First version)_
-2. [Yemeni Civil War:: Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/yemeni-civil-war-saudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-f.md) _2017-08-27 03:42:47 (Update)_
+1. [Yemeni Civil War:: Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/yemeni-civil-war-saudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-f.md) _2018-02-06 13:49:27 (First version)_
+2. [Yemeni Civil War:Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/yemeni-civil-war-psaudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-fi.md) _2018-02-06 13:49:27 (Update)_
 2. [Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/saudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-fighting-iran-backed.md) _(Current version)_
 
 ### Related:

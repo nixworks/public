@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/yemeni-crisis-2011-present-a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md) _2017-08-27 03:42:38 (First version)_
+1. [Yemeni Crisis (2011-present): A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/yemeni-crisis-2011-present-a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md) _2018-02-06 13:49:27 (First version)_
 1. [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md) _(Current version)_
 
 ### Related:

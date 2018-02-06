@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/08/12/the-international-assistance-mission-says-it-no
 
 ### Changes:
 
-1. [War in Afghanistan:The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-pthe-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massa.md) _2017-08-25 03:29:24 (First version)_
-2. [War in Afghanistan:: The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-mass.md) _2017-08-27 03:29:26 (Update)_
+1. [War in Afghanistan:: The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-mass.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Afghanistan:The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-pthe-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massa.md) _2018-02-06 13:49:20 (Update)_
 2. [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md) _(Current version)_
 
 ### Related:

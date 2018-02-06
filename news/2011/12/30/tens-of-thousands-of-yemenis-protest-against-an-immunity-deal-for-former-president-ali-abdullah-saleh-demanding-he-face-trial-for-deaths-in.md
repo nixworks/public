@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/12/30/tens-of-thousands-of-yemenis-protest-against-an
 
 ### Changes:
 
-1. [2011 Yemeni uprising:Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-ptens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fac.md) _2017-08-25 03:34:46 (First version)_
-2. [2011 Yemeni uprising:: Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fa.md) _2017-08-27 03:34:55 (Update)_
+1. [2011 Yemeni uprising:: Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fa.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Yemeni uprising:Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-ptens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fac.md) _2018-02-06 13:49:23 (Update)_
 2. [Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-face-trial-for-deaths-in.md) _(Current version)_
 
 ### Related:

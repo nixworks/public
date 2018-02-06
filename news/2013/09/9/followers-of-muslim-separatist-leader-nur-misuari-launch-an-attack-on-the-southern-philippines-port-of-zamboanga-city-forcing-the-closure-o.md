@@ -16,8 +16,8 @@ An attack by dozens of Muslim rebels shut down the major southern Philippine por
 
 ### Changes:
 
-1. [Islamic insurgency in the Philippines:Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/islamic-insurgency-in-the-philippines-pfollowers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port-o.md) _2017-08-25 03:39:15 (First version)_
-2. [Islamic insurgency in the Philippines:: Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/islamic-insurgency-in-the-philippines-followers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port.md) _2017-08-27 03:39:31 (Update)_
+1. [Islamic insurgency in the Philippines:Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/islamic-insurgency-in-the-philippines-pfollowers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port-o.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamic insurgency in the Philippines:: Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/islamic-insurgency-in-the-philippines-followers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port.md) _2018-02-06 13:49:25 (Update)_
 2. [Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/followers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port-of-zamboanga-city-forcing-the-closure-o.md) _(Current version)_
 
 ### Related:

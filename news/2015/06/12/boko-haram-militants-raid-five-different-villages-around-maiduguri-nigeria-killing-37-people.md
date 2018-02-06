@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/12/boko-haram-militants-raid-five-different-villag
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-insurgency-boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md) _2017-08-27 03:42:31 (First version)_
+1. [Boko Haram insurgency: Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-insurgency-boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md) _(Current version)_
 
 ### Related:

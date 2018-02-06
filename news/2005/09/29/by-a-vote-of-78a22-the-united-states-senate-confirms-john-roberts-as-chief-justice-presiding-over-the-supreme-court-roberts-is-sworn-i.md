@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/09/29/by-a-vote-of-78a22-the-united-states-senate-con
 
 ### Changes:
 
-1. [ By a vote of 78-22, the United States Senate confirms John G. Roberts, Jr. as Chief Justice, presiding over the Supreme Court. Roberts is sworn in later in the afternoon, and will preside over the Court's Fall term beginning October 3.](/news/2005/09/29/by-a-vote-of-78-22-the-united-states-senate-confirms-john-g-roberts-jr-as-chief-justice-presiding-over-the-supreme-court-roberts-is-s.md) _2017-10-17 03:19:25 (First version)_
+1. [ By a vote of 78-22, the United States Senate confirms John G. Roberts, Jr. as Chief Justice, presiding over the Supreme Court. Roberts is sworn in later in the afternoon, and will preside over the Court's Fall term beginning October 3.](/news/2005/09/29/by-a-vote-of-78-22-the-united-states-senate-confirms-john-g-roberts-jr-as-chief-justice-presiding-over-the-supreme-court-roberts-is-s.md) _2018-02-06 13:49:16 (First version)_
 1. [ By a vote of 78-22, the United States Senate confirms John Roberts as Chief Justice, presiding over the Supreme Court. Roberts is sworn in later in the afternoon, and will preside over the Court's Fall term beginning October 3.](/news/2005/09/29/by-a-vote-of-78a22-the-united-states-senate-confirms-john-roberts-as-chief-justice-presiding-over-the-supreme-court-roberts-is-sworn-i.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ More than 100 people were killed in a suicide car bombing at a busy market in an
 
 ##### Tolikara riot
 ### [12 people injured, 1 boy killed, and several home and kiosk burned in Tolikara Regency, Papua, Indonesia. ](/news/2015/07/17/12-people-injured-1-boy-killed-and-several-home-and-kiosk-burned-in-tolikara-regency-papua-indonesia.md)
-_Context: Tolikara Regency, Tolikara riot, Indonesia, Papua_
+_Context: Tolikara riot, Papua, Tolikara Regency, Indonesia_
 
 ##### Australian
 ### [Australian artist Nigel Milsom wins the 2015 Archibald Prize for a portrait of barrister Charles Waterstreet who represented Milsom when he was sentenced for armed robbery. ](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.md)
@@ -33,7 +33,7 @@ The Holy Trinity University in Puerto Princesa, Palawan, has been selected for a
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Nangka passes through the western part of the main Japanese island of Honshu, causing at least two deaths, widespread flooding and the evacuation of 100,000 people. ](/news/2015/07/17/typhoon-nangka-passes-through-the-western-part-of-the-main-japanese-island-of-honshu-causing-at-least-two-deaths-widespread-flooding-and-t.md)
-_Context: Typhoon Nangka, Japan, Honshu Island, 2015 Pacific typhoon season_
+_Context: Japan, 2015 Pacific typhoon season, Honshu Island, Typhoon Nangka_
 
 ##### Indonesia
 ### [Thousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/thousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain-closed-as-a-result-of-the-eru.md)
@@ -41,7 +41,7 @@ Ash spewing from two volcanoes in Indonesia prompts the closure of three more ai
 
 ##### Philippines
 ### [At least five people are dead and three are missing after a coal mine in the Philippines province of Antique collapses. ](/news/2015/07/17/at-least-five-people-are-dead-and-three-are-missing-after-a-coal-mine-in-the-philippines-province-of-antique-collapses.md)
-_Context: Philippines, Antique_
+_Context: Antique, Philippines_
 
 ##### Johannesburg
 ### [Two commuter trains collide at the Booysens train station in Johannesburg, South Africa, injuring more than 250 people. ](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.md)

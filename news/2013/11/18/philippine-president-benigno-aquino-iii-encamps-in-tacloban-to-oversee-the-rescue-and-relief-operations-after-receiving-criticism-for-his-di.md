@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/18/philippine-president-benigno-aquino-iii-encamps
 
 ### Changes:
 
-1. [Typhoon Haiyan:Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/typhoon-haiyan-pphilippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-crit.md) _2017-08-25 03:39:32 (First version)_
-2. [Typhoon Haiyan:: Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/typhoon-haiyan-philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-cri.md) _2017-08-27 03:39:50 (Update)_
+1. [Typhoon Haiyan:Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/typhoon-haiyan-pphilippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-crit.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/typhoon-haiyan-philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-cri.md) _2018-02-06 13:49:25 (Update)_
 2. [Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-criticism-for-his-di.md) _(Current version)_
 
 ### Related:

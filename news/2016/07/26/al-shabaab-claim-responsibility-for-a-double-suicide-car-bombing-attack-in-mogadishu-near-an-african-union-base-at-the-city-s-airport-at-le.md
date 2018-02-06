@@ -17,7 +17,7 @@ MOGADISHU, Somalia (AP) — Two suicide bombers detonated explosives-laden cars 
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab claim responsibility for a double suicide car bombing attack in Mogadishu near an African Union base at the city's airport. At least 13 people are killed, including seven UN guards. ](/news/2016/07/26/war-in-somalia-2009-present-al-shabaab-claim-responsibility-for-a-double-suicide-car-bombing-attack-in-mogadishu-near-an-african-union.md) _2017-08-27 03:46:33 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab claim responsibility for a double suicide car bombing attack in Mogadishu near an African Union base at the city's airport. At least 13 people are killed, including seven UN guards. ](/news/2016/07/26/war-in-somalia-2009-present-al-shabaab-claim-responsibility-for-a-double-suicide-car-bombing-attack-in-mogadishu-near-an-african-union.md) _2018-02-06 13:49:29 (First version)_
 1. [Al-Shabaab claim responsibility for a double suicide car bombing attack in Mogadishu near an African Union base at the city's airport. At least 13 people are killed, including seven UN guards. ](/news/2016/07/26/al-shabaab-claim-responsibility-for-a-double-suicide-car-bombing-attack-in-mogadishu-near-an-african-union-base-at-the-city-s-airport-at-le.md) _(Current version)_
 
 ### Related:

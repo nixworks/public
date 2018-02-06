@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/10/5/burmese-security-forces-claim-that-they-are-look
 
 ### Changes:
 
-1. [ 2007 Burmese anti-government protests: Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-p-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _2017-08-25 03:21:07 (First version)_
-2. [ 2007 Burmese anti-government protests:: Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _2017-08-27 03:21:03 (Update)_
+1. [ 2007 Burmese anti-government protests: Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-p-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Burmese anti-government protests:: Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _2018-02-06 13:49:18 (Update)_
 2. [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md) _(Current version)_
 
 ### Related:

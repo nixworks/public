@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-c
 
 ### Changes:
 
-1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. '''''[Newslink missing]''''' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md) _2017-08-25 03:15:40 (First version)_
+1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. '''''[Newslink missing]''''' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md) _2018-02-06 13:49:16 (First version)_
 1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/02/20/the-pakistan-army-kills-up-to-15-insurgents-in-
 
 ### Changes:
 
-1. [War in Pakistan:The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-pthe-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md) _2017-08-25 03:32:17 (First version)_
-2. [War in Pakistan:: The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md) _2017-08-27 03:32:25 (Update)_
+1. [War in Pakistan:: The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Pakistan:The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-pthe-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md) _2018-02-06 13:49:22 (Update)_
 2. [The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Ivory Coast&#39;s President Alassane Ouattara announced he has reached an agreem
 
 ### Changes:
 
-1. [2017 Ivory Coast mutiny: Ivory Coast president Alassane Ouattara reaches a deal with soldiers who seized the town of Bouake in a pay protest. The soldiers are seeking bonuses, pay rises and faster promotion. ](/news/2017/01/7/2017-ivory-coast-mutiny-ivory-coast-president-alassane-ouattara-reaches-a-deal-with-soldiers-who-seized-the-town-of-bouake-in-a-pay-protest.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Ivory Coast mutiny: Ivory Coast president Alassane Ouattara reaches a deal with soldiers who seized the town of Bouake in a pay protest. The soldiers are seeking bonuses, pay rises and faster promotion. ](/news/2017/01/7/2017-ivory-coast-mutiny-ivory-coast-president-alassane-ouattara-reaches-a-deal-with-soldiers-who-seized-the-town-of-bouake-in-a-pay-protest.md) _2018-02-06 13:49:30 (First version)_
 1. [Ivory Coast president Alassane Ouattara reaches a deal with soldiers who seized the town of Bouake in a pay protest. The soldiers are seeking bonuses, pay rises and faster promotion. ](/news/2017/01/7/ivory-coast-president-alassane-ouattara-reaches-a-deal-with-soldiers-who-seized-the-town-of-bouake-in-a-pay-protest-the-soldiers-are-seekin.md) _(Current version)_
 
 ### Related:

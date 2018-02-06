@@ -16,5 +16,5 @@ Antonio Feliu killed two people, took off in his SUV, and led police on a high-s
 
 ### Changes:
 
-1. [In Fort Lauderdale, Florida, Antonio Feliu fatally shot his ex-girlfriend and her adult daughter, and killed another woman in a head-on crash during a police chase. He shot himself as police approached his stopped car. ](/news/2013/09/18/in-fort-lauderdale-florida-antonio-feliu-fatally-shot-his-ex-girlfriend-and-her-adult-daughter-and-killed-another-woman-in-a-head-on-cra.md) _2017-08-25 03:39:17 (First version)_
+1. [In Fort Lauderdale, Florida, Antonio Feliu fatally shot his ex-girlfriend and her adult daughter, and killed another woman in a head-on crash during a police chase. He shot himself as police approached his stopped car. ](/news/2013/09/18/in-fort-lauderdale-florida-antonio-feliu-fatally-shot-his-ex-girlfriend-and-her-adult-daughter-and-killed-another-woman-in-a-head-on-cra.md) _2018-02-06 13:49:25 (First version)_
 1. [In Fort Lauderdale, Florida, Antonio Feliu fatally shot his ex-girlfriend and her adult daughter, and killed another woman in a head-on crash during a police chase. He shot himself as police approached his stopped car. ](/news/2013/09/18/in-fort-lauderdale-florida-antonio-feliu-fatally-shot-his-ex-girlfriend-and-her-adult-daughter-and-killed-another-woman-in-a-head-on-cras.md) _(Current version)_

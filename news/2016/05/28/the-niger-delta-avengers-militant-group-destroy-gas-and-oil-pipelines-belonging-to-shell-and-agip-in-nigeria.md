@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy
 
 ### Changes:
 
-1. [Conflict in the Niger Delta: The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/conflict-in-the-niger-delta-the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _2017-08-27 03:46:09 (First version)_
+1. [Conflict in the Niger Delta: The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/conflict-in-the-niger-delta-the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _2018-02-06 13:49:29 (First version)_
 1. [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _(Current version)_
 
 ### Related:

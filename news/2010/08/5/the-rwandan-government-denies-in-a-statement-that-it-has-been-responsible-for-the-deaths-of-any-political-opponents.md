@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/08/5/the-rwandan-government-denies-in-a-statement-tha
 
 ### Changes:
 
-1. [Rwanda:The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-pthe-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md) _2017-08-25 03:29:12 (First version)_
-2. [Rwanda:: The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-the-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md) _2017-08-27 03:29:15 (Update)_
+1. [Rwanda:: The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-the-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md) _2018-02-06 13:49:20 (First version)_
+2. [Rwanda:The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-pthe-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md) _2018-02-06 13:49:20 (Update)_
 2. [The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/the-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md) _(Current version)_
 
 ### Related:

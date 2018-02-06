@@ -16,7 +16,7 @@ After deliberating for most of the year, Isis Pharmaceuticals Inc said on Friday
 
 ### Changes:
 
-1. [Isis Pharmaceuticals Inc. announces it will change its name to Ionis Pharmaceuticals Inc. on December 22. Its stock exchange ticker symbol will be IONS. ](/news/2015/12/18/isis-pharmaceuticals-inc-announces-it-will-change-its-name-to-ionis-pharmaceuticals-inc-on-december-22-its-stock-exchange-ticker-symbol.md) _2017-08-25 03:44:05 (First version)_
+1. [Isis Pharmaceuticals Inc. announces it will change its name to Ionis Pharmaceuticals Inc. on December 22. Its stock exchange ticker symbol will be IONS. ](/news/2015/12/18/isis-pharmaceuticals-inc-announces-it-will-change-its-name-to-ionis-pharmaceuticals-inc-on-december-22-its-stock-exchange-ticker-symbol.md) _2018-02-06 13:49:28 (First version)_
 1. [Isis Pharmaceuticals Inc. announces it will change its name to Ionis Pharmaceuticals Inc. on December 22. Its stock exchange ticker symbol will be IONS. ](/news/2015/12/18/isis-pharmaceuticals-inc-announces-it-will-change-its-name-to-ionis-pharmaceuticals-inc-on-december-22-its-stock-exchange-ticker-symbol-w.md) _(Current version)_
 
 ### Related:

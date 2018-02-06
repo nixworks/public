@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/31/seven-people-are-killed-in-tibet-s-worst-snowst
 
 ### Changes:
 
-1. [ Seven people are killed in Tibet's worst snowstorm in recorded history. [http:--edition.cnn.com-2008-WORLD-asiapcf-10-31-tibet.snowstorm-index.html?eref=edition_asia (Xinhua)].](/news/2008/10/31/seven-people-are-killed-in-tibet-s-worst-snowstorm-in-recorded-history-http-edition-cnn-com-2008-world-asiapcf-10-31-tibet-snowstorm-in.md) _2017-06-18 03:23:35 (First version)_
+1. [ Seven people are killed in Tibet's worst snowstorm in recorded history. [http:--edition.cnn.com-2008-WORLD-asiapcf-10-31-tibet.snowstorm-index.html?eref=edition_asia (Xinhua)].](/news/2008/10/31/seven-people-are-killed-in-tibet-s-worst-snowstorm-in-recorded-history-http-edition-cnn-com-2008-world-asiapcf-10-31-tibet-snowstorm-in.md) _2018-02-06 13:49:18 (First version)_
 1. [ Seven people are killed in Tibet's worst snowstorm in recorded history. ](/news/2008/10/31/seven-people-are-killed-in-tibet-s-worst-snowstorm-in-recorded-history.md) _(Current version)_
 
 ### Related:

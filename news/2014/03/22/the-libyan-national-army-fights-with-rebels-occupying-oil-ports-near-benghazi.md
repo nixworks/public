@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/22/the-libyan-national-army-fights-with-rebels-occ
 
 ### Changes:
 
-1. [Post-civil war violence in Libya: The Libyan National Army fights with rebels occupying oil ports near Benghazi. ](/news/2014/03/22/post-civil-war-violence-in-libya-the-libyan-national-army-fights-with-rebels-occupying-oil-ports-near-benghazi.md) _2017-08-27 03:40:30 (First version)_
+1. [Post-civil war violence in Libya: The Libyan National Army fights with rebels occupying oil ports near Benghazi. ](/news/2014/03/22/post-civil-war-violence-in-libya-the-libyan-national-army-fights-with-rebels-occupying-oil-ports-near-benghazi.md) _2018-02-06 13:49:26 (First version)_
 1. [The Libyan National Army fights with rebels occupying oil ports near Benghazi. ](/news/2014/03/22/the-libyan-national-army-fights-with-rebels-occupying-oil-ports-near-benghazi.md) _(Current version)_
 
 ### Related:

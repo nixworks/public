@@ -16,8 +16,8 @@ Syrians in Aleppo protest against a rebel siege of government-controlled distric
 
 ### Changes:
 
-1. [Syrian civil war:Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrian-civil-war-psyrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md) _2017-08-25 03:38:58 (First version)_
-2. [Syrian civil war:: Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrian-civil-war-syrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md) _2017-08-27 03:39:13 (Update)_
+1. [Syrian civil war:: Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrian-civil-war-syrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrian-civil-war-psyrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md) _(Current version)_
 
 ### Related:

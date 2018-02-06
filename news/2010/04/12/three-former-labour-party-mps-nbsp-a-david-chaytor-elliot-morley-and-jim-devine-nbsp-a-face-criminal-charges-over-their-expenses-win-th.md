@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/12/three-former-labour-party-mps-nbsp-a-david-chay
 
 ### Changes:
 
-1. [Three former Labour Party MPs&nbsp;- David Chaytor, Elliot Morley and Jim Devine&nbsp;- face criminal charges over their expenses win the right to have their legal fees paid for by the taxpayer. ](/news/2010/04/12/three-former-labour-party-mps-nbsp-david-chaytor-elliot-morley-and-jim-devine-nbsp-face-criminal-charges-over-their-expenses-win-th.md) _2017-08-27 03:27:34 (First version)_
+1. [Three former Labour Party MPs&nbsp;- David Chaytor, Elliot Morley and Jim Devine&nbsp;- face criminal charges over their expenses win the right to have their legal fees paid for by the taxpayer. ](/news/2010/04/12/three-former-labour-party-mps-nbsp-david-chaytor-elliot-morley-and-jim-devine-nbsp-face-criminal-charges-over-their-expenses-win-th.md) _2018-02-06 13:49:19 (First version)_
 1. [Three former Labour Party MPs&nbsp;- David Chaytor, Elliot Morley and Jim Devine&nbsp;- face criminal charges over their expenses win the right to have their legal fees paid for by the taxpayer. ](/news/2010/04/12/three-former-labour-party-mps-nbsp-a-david-chaytor-elliot-morley-and-jim-devine-nbsp-a-face-criminal-charges-over-their-expenses-win-th.md) _(Current version)_
 
 ### Related:

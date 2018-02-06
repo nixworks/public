@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/17/five-southern-africans-including-archbishop-des
 
 ### Changes:
 
-1. [Five southern Africans, including Archbishop Desmond Tutu, have their genomes analysed by scientists and published in ''Nature'', with Tutu excited to discover he is "related to the San people, the first people to inhabit Southern Africa". ](/news/2010/02/17/five-southern-africans-including-archbishop-desmond-tutu-have-their-genomes-analysed-by-scientists-and-published-in-nature-with-tutu.md) _2017-08-25 03:27:10 (First version)_
+1. [Five southern Africans, including Archbishop Desmond Tutu, have their genomes analysed by scientists and published in ''Nature'', with Tutu excited to discover he is "related to the San people, the first people to inhabit Southern Africa". ](/news/2010/02/17/five-southern-africans-including-archbishop-desmond-tutu-have-their-genomes-analysed-by-scientists-and-published-in-nature-with-tutu.md) _2018-02-06 13:49:19 (First version)_
 1. [Five southern Africans, including Archbishop Desmond Tutu, have their genomes analysed by scientists and published in "Nature", with Tutu excited to discover he is "related to the San people, the first people to inhabit Southern Africa". ](/news/2010/02/17/five-southern-africans-including-archbishop-desmond-tutu-have-their-genomes-analysed-by-scientists-and-published-in-nature-with-tutu-ex.md) _(Current version)_
 
 ### Related:

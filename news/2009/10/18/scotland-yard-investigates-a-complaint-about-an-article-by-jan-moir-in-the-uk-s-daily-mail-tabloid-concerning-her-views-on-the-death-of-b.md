@@ -16,7 +16,7 @@ Scotland Yard has said that it has received a complaint about an article written
 
 ### Changes:
 
-1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's ''Daily Mail'' tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of.md) _2017-08-25 03:26:05 (First version)_
+1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's ''Daily Mail'' tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of.md) _2018-02-06 13:49:19 (First version)_
 1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.md) _(Current version)_
 
 ### Related:

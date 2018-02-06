@@ -16,7 +16,7 @@ Thousands turned up at Lawson Tama stadium in Honiara yesterday to farewell the 
 
 ### Changes:
 
-1. [RAMSI: A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/ramsi-a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _2017-08-27 03:48:34 (First version)_
+1. [RAMSI: A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/ramsi-a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _2018-02-06 13:49:30 (First version)_
 1. [A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _(Current version)_
 
 ### Related:

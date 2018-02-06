@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/12/ss-columbia-feared-lost-at-sea-after-the-8-8-ma
 
 ### Changes:
 
-1. [SS ''Columbia'', feared lost at sea after the 8.8-magnitude Chile earthquake, arrives in a Chilean port, more than a month after it was scheduled to dock. ](/news/2010/04/12/ss-columbia-feared-lost-at-sea-after-the-8-8-magnitude-chile-earthquake-arrives-in-a-chilean-port-more-than-a-month-after-it-was-sche.md) _2017-08-25 03:27:37 (First version)_
+1. [SS ''Columbia'', feared lost at sea after the 8.8-magnitude Chile earthquake, arrives in a Chilean port, more than a month after it was scheduled to dock. ](/news/2010/04/12/ss-columbia-feared-lost-at-sea-after-the-8-8-magnitude-chile-earthquake-arrives-in-a-chilean-port-more-than-a-month-after-it-was-sche.md) _2018-02-06 13:49:19 (First version)_
 1. [SS "Columbia", feared lost at sea after the 8.8-magnitude Chile earthquake, arrives in a Chilean port, more than a month after it was scheduled to dock. ](/news/2010/04/12/ss-columbia-feared-lost-at-sea-after-the-8-8-magnitude-chile-earthquake-arrives-in-a-chilean-port-more-than-a-month-after-it-was-schedu.md) _(Current version)_
 
 ### Related:

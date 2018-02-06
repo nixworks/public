@@ -16,7 +16,7 @@ Ugandan rebels wielding machetes and axes kill 36 people in eastern Democratic R
 
 ### Changes:
 
-1. [Allied Democratic Forces insurgency: Ugandan rebels from the Allied Democratic Forces and National Army for the Liberation of Uganda kill 36 people in the Democratic Republic of the Congo's North Kivu province. ](/news/2014/12/7/allied-democratic-forces-insurgency-ugandan-rebels-from-the-allied-democratic-forces-and-national-army-for-the-liberation-of-uganda-kill-36.md) _2017-08-27 03:41:36 (First version)_
+1. [Allied Democratic Forces insurgency: Ugandan rebels from the Allied Democratic Forces and National Army for the Liberation of Uganda kill 36 people in the Democratic Republic of the Congo's North Kivu province. ](/news/2014/12/7/allied-democratic-forces-insurgency-ugandan-rebels-from-the-allied-democratic-forces-and-national-army-for-the-liberation-of-uganda-kill-36.md) _2018-02-06 13:49:26 (First version)_
 1. [Ugandan rebels from the Allied Democratic Forces and National Army for the Liberation of Uganda kill 36 people in the Democratic Republic of the Congo's North Kivu province. ](/news/2014/12/7/ugandan-rebels-from-the-allied-democratic-forces-and-national-army-for-the-liberation-of-uganda-kill-36-people-in-the-democratic-republic-of.md) _(Current version)_
 
 ### Related:

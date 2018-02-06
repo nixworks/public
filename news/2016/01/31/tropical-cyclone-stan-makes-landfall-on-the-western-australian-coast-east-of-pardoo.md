@@ -16,7 +16,7 @@ Cyclone Stan is starting to weaken as it moves over WA&#039;s Pilbara but locals
 
 ### Changes:
 
-1. [2015-16 Australian region cyclone season: Tropical Cyclone Stan makes landfall on the Western Australian coast east of Pardoo. ](/news/2016/01/31/2015-16-australian-region-cyclone-season-tropical-cyclone-stan-makes-landfall-on-the-western-australian-coast-east-of-pardoo.md) _2017-08-27 03:44:47 (First version)_
+1. [2015-16 Australian region cyclone season: Tropical Cyclone Stan makes landfall on the Western Australian coast east of Pardoo. ](/news/2016/01/31/2015-16-australian-region-cyclone-season-tropical-cyclone-stan-makes-landfall-on-the-western-australian-coast-east-of-pardoo.md) _2018-02-06 13:49:28 (First version)_
 1. [Tropical Cyclone Stan makes landfall on the Western Australian coast east of Pardoo. ](/news/2016/01/31/tropical-cyclone-stan-makes-landfall-on-the-western-australian-coast-east-of-pardoo.md) _(Current version)_
 
 ### Related:

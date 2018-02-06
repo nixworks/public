@@ -16,7 +16,7 @@ A truce aimed at ending more than a year of war in Yemen appears to be largely h
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/yemeni-civil-war-2015-present-clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis.md) _2017-08-27 03:45:34 (First version)_
+1. [Yemeni Civil War (2015-present): Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/yemeni-civil-war-2015-present-clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis.md) _2018-02-06 13:49:28 (First version)_
 1. [Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis-taking-effect-however-the-truce-a.md) _(Current version)_
 
 ### Related:

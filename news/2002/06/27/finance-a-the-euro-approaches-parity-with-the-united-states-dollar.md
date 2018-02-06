@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/27/finance-a-the-euro-approaches-parity-with-the-u
 
 ### Changes:
 
-1. [ Finance - The euro approaches parity with the United States dollar.](/news/2002/06/27/finance-the-euro-approaches-parity-with-the-united-states-dollar.md) _2017-08-27 03:15:13 (First version)_
+1. [ Finance - The euro approaches parity with the United States dollar.](/news/2002/06/27/finance-the-euro-approaches-parity-with-the-united-states-dollar.md) _2018-02-06 13:49:15 (First version)_
 1. [ Finance - The euro approaches parity with the United States dollar.](/news/2002/06/27/finance-a-the-euro-approaches-parity-with-the-united-states-dollar.md) _(Current version)_
 
 ### Related:

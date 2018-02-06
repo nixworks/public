@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant
 
 ### Changes:
 
-1. [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electi.md) _2017-08-25 03:31:23 (First version)_
+1. [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electi.md) _2018-02-06 13:49:21 (First version)_
 1. [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electio.md) _(Current version)_
 
 ### Related:

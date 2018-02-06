@@ -18,7 +18,7 @@ Amy Thomasson, 38 and a single mother of three, spent her last night on the Loui
 
 ### Changes:
 
-1. [2011 Mississippi River floods: It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/2011-mississippi-river-floods-it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-resta.md) _2017-08-27 03:33:17 (First version)_
+1. [2011 Mississippi River floods: It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/2011-mississippi-river-floods-it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-resta.md) _2018-02-06 13:49:22 (First version)_
 1. [It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-restarted-three-days-ago-after-a-ref.md) _(Current version)_
 
 ### Related:

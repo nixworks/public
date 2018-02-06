@@ -31,7 +31,7 @@ Americans in five major states prepared to vote Tuesday in make-or-break preside
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/united-states-presidential-election-2016-voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonweal.md) _2017-08-27 03:45:15 (First version)_
+1. [United States presidential election, 2016: Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/united-states-presidential-election-2016-voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonweal.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonwealth-of-the-northern-mariana-islands-head-to.md) _(Current version)_
 
 ### Related:

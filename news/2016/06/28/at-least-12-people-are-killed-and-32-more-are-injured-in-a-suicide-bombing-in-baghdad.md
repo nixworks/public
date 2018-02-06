@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/28/at-least-12-people-are-killed-and-32-more-are-i
 
 ### Changes:
 
-1. [Iraqi Civil War : At least 12 people are killed and 32 more are injured in a suicide bombing in Baghdad. ](/news/2016/06/28/iraqi-civil-war-at-least-12-people-are-killed-and-32-more-are-injured-in-a-suicide-bombing-in-baghdad.md) _2017-08-27 03:46:22 (First version)_
+1. [Iraqi Civil War : At least 12 people are killed and 32 more are injured in a suicide bombing in Baghdad. ](/news/2016/06/28/iraqi-civil-war-at-least-12-people-are-killed-and-32-more-are-injured-in-a-suicide-bombing-in-baghdad.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 12 people are killed and 32 more are injured in a suicide bombing in Baghdad. ](/news/2016/06/28/at-least-12-people-are-killed-and-32-more-are-injured-in-a-suicide-bombing-in-baghdad.md) _(Current version)_
 
 ### Related:

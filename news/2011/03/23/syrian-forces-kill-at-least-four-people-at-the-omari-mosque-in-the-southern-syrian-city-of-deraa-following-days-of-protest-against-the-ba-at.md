@@ -18,7 +18,7 @@ At least six people have died after security forces fired on protesters outside 
 
 ### Changes:
 
-1. [2011 Syrian protests: Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. ](/news/2011/03/23/2011-syrian-protests-syrian-forces-kill-at-least-four-people-at-the-omari-mosque-in-the-southern-syrian-city-of-deraa-following-days-of-pro.md) _2017-08-27 03:32:46 (First version)_
+1. [2011 Syrian protests: Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. ](/news/2011/03/23/2011-syrian-protests-syrian-forces-kill-at-least-four-people-at-the-omari-mosque-in-the-southern-syrian-city-of-deraa-following-days-of-pro.md) _2018-02-06 13:49:22 (First version)_
 1. [Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. ](/news/2011/03/23/syrian-forces-kill-at-least-four-people-at-the-omari-mosque-in-the-southern-syrian-city-of-deraa-following-days-of-protest-against-the-ba-at.md) _(Current version)_
 
 ### Related:

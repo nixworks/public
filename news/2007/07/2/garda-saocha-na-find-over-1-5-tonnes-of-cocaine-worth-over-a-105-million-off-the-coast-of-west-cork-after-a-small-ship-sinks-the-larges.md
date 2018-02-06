@@ -16,7 +16,7 @@ Customs officials have recovered 61 bales of cocaine in west Cork in the largest
 
 ### Changes:
 
-1. [ Garda Siochana find over 1.5 tonnes of cocaine worth over -105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md) _2017-08-27 03:20:04 (First version)_
+1. [ Garda Siochana find over 1.5 tonnes of cocaine worth over -105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md) _2018-02-06 13:49:17 (First version)_
 1. [ Garda Siochana find over 1.5 tonnes of cocaine worth over EUR105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-a-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md) _(Current version)_
 
 ### Related:

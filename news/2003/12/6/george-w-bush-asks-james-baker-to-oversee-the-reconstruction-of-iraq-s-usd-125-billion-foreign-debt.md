@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/12/6/george-w-bush-asks-james-baker-to-oversee-the-re
 
 ### Changes:
 
-1. [ Occupation of Iraq: George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/occupation-of-iraq-p-george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md) _2017-08-25 03:15:21 (First version)_
-2. [ Occupation of Iraq:: George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/occupation-of-iraq-george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md) _2017-08-27 03:15:22 (Update)_
+1. [ Occupation of Iraq: George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/occupation-of-iraq-p-george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md) _2018-02-06 13:49:15 (First version)_
+2. [ Occupation of Iraq:: George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/occupation-of-iraq-george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md) _2018-02-06 13:49:15 (Update)_
 2. [ George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md) _(Current version)_
 
 ### Related:

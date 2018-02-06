@@ -16,7 +16,7 @@ Iran, Syria change usual smuggling route due to close surveillance by Israel, US
 
 ### Changes:
 
-1. [The Israeli Navy intercepts the cargo ship ''Victoria'' which was carrying a long list of advanced weapons that were smuggled from Iran and were allegedly bound for the militant organizations operating in the Gaza Strip. ](/news/2011/03/15/the-israeli-navy-intercepts-the-cargo-ship-victoria-which-was-carrying-a-long-list-of-advanced-weapons-that-were-smuggled-from-iran-and.md) _2017-08-25 03:32:32 (First version)_
+1. [The Israeli Navy intercepts the cargo ship ''Victoria'' which was carrying a long list of advanced weapons that were smuggled from Iran and were allegedly bound for the militant organizations operating in the Gaza Strip. ](/news/2011/03/15/the-israeli-navy-intercepts-the-cargo-ship-victoria-which-was-carrying-a-long-list-of-advanced-weapons-that-were-smuggled-from-iran-and.md) _2018-02-06 13:49:22 (First version)_
 1. [The Israeli Navy intercepts the cargo ship "Victoria" which was carrying a long list of advanced weapons that were smuggled from Iran and were allegedly bound for the militant organizations operating in the Gaza Strip. ](/news/2011/03/15/the-israeli-navy-intercepts-the-cargo-ship-victoria-which-was-carrying-a-long-list-of-advanced-weapons-that-were-smuggled-from-iran-and-we.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/09/6/philippine-president-rodrigo-duterte-declares-a-
 
 ### Changes:
 
-1. [2016 Davao City bombing: Philippine president Rodrigo Duterte declares a state of emergency in the whole country. In a warning to Abu Sayyaf, Duterte says "I will eat you alive." ](/news/2016/09/6/2016-davao-city-bombing-philippine-president-rodrigo-duterte-declares-a-state-of-emergency-in-the-whole-country-in-a-warning-to-abu-sayyaf.md) _2017-08-27 03:46:47 (First version)_
+1. [2016 Davao City bombing: Philippine president Rodrigo Duterte declares a state of emergency in the whole country. In a warning to Abu Sayyaf, Duterte says "I will eat you alive." ](/news/2016/09/6/2016-davao-city-bombing-philippine-president-rodrigo-duterte-declares-a-state-of-emergency-in-the-whole-country-in-a-warning-to-abu-sayyaf.md) _2018-02-06 13:49:29 (First version)_
 1. [Philippine president Rodrigo Duterte declares a state of emergency in the whole country. In a warning to Abu Sayyaf, Duterte says "I will eat you alive." ](/news/2016/09/6/philippine-president-rodrigo-duterte-declares-a-state-of-emergency-in-the-whole-country-in-a-warning-to-abu-sayyaf-duterte-says-i-will-ea.md) _(Current version)_
 
 ### Related:

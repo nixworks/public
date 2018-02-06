@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/21/the-islamic-state-in-iraq-and-the-levant-destro
 
 ### Changes:
 
-1. [Destruction of cultural heritage by ISIL: The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. ](/news/2015/08/21/destruction-of-cultural-heritage-by-isil-the-islamic-state-in-iraq-and-the-levant-destroys-the-historic-mar-elian-monastery-near-the-town-o.md) _2017-08-27 03:42:52 (First version)_
+1. [Destruction of cultural heritage by ISIL: The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. ](/news/2015/08/21/destruction-of-cultural-heritage-by-isil-the-islamic-state-in-iraq-and-the-levant-destroys-the-historic-mar-elian-monastery-near-the-town-o.md) _2018-02-06 13:49:27 (First version)_
 1. [The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. ](/news/2015/08/21/the-islamic-state-in-iraq-and-the-levant-destroys-the-historic-mar-elian-monastery-near-the-town-of-al-qaryatayn-in-the-homs-governorate-in.md) _(Current version)_
 
 ### Related:

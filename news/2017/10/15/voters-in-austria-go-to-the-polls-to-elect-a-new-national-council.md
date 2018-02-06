@@ -16,8 +16,8 @@ Voting is underway in Austria’s parliamentary election. Embattled Chancellor C
 
 ### Changes:
 
-1. [Voters in Austria go to the polls for a legislative election. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-for-a-legislative-election.md) _2017-10-15 18:30:06 (First version)_
-2. [Voters in Venezuela go to the polls to elect new state governors. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors.md) _2017-10-16 03:57:11 (Update)_
+1. [Voters in Venezuela go to the polls to elect new state governors. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors.md) _2018-02-06 13:49:31 (First version)_
+2. [Voters in Austria go to the polls for a legislative election. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-for-a-legislative-election.md) _2018-02-06 13:49:31 (Update)_
 2. [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md) _(Current version)_
 
 ### Related:

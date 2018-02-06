@@ -16,7 +16,7 @@ Saudi Arabia will lift a ban on internet phone calls, a government spokesman sai
 
 ### Changes:
 
-1. [Saudi Arabia lifts its ban on internet calls (VoIP), introduced in 2013, effective midnight local time (2100 UTC-5:00 PM EDT). ](/news/2017/09/20/saudi-arabia-lifts-its-ban-on-internet-calls-voip-introduced-in-2013-effective-midnight-local-time-2100-utc-5-00-pm-edt.md) _2017-09-20 20:30:05 (First version)_
+1. [Saudi Arabia lifts its ban on internet calls (VoIP), introduced in 2013, effective midnight local time (2100 UTC-5:00 PM EDT). ](/news/2017/09/20/saudi-arabia-lifts-its-ban-on-internet-calls-voip-introduced-in-2013-effective-midnight-local-time-2100-utc-5-00-pm-edt.md) _2018-02-06 13:49:31 (First version)_
 1. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _(Current version)_
 
 ### Related:

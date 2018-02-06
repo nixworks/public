@@ -23,8 +23,8 @@ Formats: [HTML](/news/2011/02/27/the-83rd-academy-awards-are-held-to-honor-the-b
 
 ### Changes:
 
-1. [Academy AwardsThe 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/academy-awardspthe-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md) _2017-08-25 03:32:21 (First version)_
-2. [Academy Awards: The 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/academy-awards-the-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md) _2017-08-27 03:32:29 (Update)_
+1. [Academy AwardsThe 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/academy-awardspthe-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md) _2018-02-06 13:49:22 (First version)_
+2. [Academy Awards: The 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/academy-awards-the-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md) _2018-02-06 13:49:22 (Update)_
 2. [The 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/the-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md) _(Current version)_
 
 ### Related:

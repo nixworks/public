@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/4/german-police-begin-investigations-into-a-gang-o
 
 ### Changes:
 
-1. [New Year's Eve sexual assaults in Germany: German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/new-year-s-eve-sexual-assaults-in-germany-german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appea.md) _2017-08-27 03:44:35 (First version)_
+1. [New Year's Eve sexual assaults in Germany: German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/new-year-s-eve-sexual-assaults-in-germany-german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appea.md) _2018-02-06 13:49:28 (First version)_
 1. [German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appearance-who-committed-sexual-assaults-on-wome.md) _(Current version)_
 
 ### Related:

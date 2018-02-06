@@ -17,7 +17,7 @@ Dozens more injured in bombing believed to have been carried out by Russia fight
 
 ### Changes:
 
-1. [ Syrian Civil War: At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/syrian-civil-war-at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md) _2017-08-27 03:47:23 (First version)_
+1. [ Syrian Civil War: At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/syrian-civil-war-at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md) _2018-02-06 13:49:30 (First version)_
 1. [ At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md) _(Current version)_
 
 ### Related:

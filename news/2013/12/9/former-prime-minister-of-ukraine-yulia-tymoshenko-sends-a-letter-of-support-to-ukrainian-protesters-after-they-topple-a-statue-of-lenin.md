@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/9/former-prime-minister-of-ukraine-yulia-tymoshenk
 
 ### Changes:
 
-1. [Euromaidan:Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/euromaidan-pformer-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-o.md) _2017-08-25 03:39:39 (First version)_
-2. [Euromaidan:: Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/euromaidan-former-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue.md) _2017-08-27 03:39:57 (Update)_
+1. [Euromaidan:Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/euromaidan-pformer-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-o.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:: Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/euromaidan-former-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue.md) _2018-02-06 13:49:25 (Update)_
 2. [Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/former-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-of-lenin.md) _(Current version)_
 
 ### Related:

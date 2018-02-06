@@ -16,8 +16,8 @@ Yemeni security forces killed seven suspected al Qaeda militants on Thursday whe
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/al-qaeda-insurgency-in-yemen-pyemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _2017-08-25 03:40:49 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/al-qaeda-insurgency-in-yemen-yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _2017-08-27 03:41:07 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/al-qaeda-insurgency-in-yemen-yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/al-qaeda-insurgency-in-yemen-pyemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _2018-02-06 13:49:26 (Update)_
 2. [Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _(Current version)_
 
 ### Related:

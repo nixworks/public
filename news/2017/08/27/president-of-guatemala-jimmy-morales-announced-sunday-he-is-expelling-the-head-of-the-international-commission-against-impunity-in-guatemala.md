@@ -18,8 +18,8 @@ Guatemalan President Jimmy Morales on Sunday appeared to defy a court ruling tha
 
 ### Changes:
 
-1. [Politics of Guatemala: President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/politics-of-guatemala-president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-t.md) _2017-08-27 17:30:05 (First version)_
-2. [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-that-is-investigating-th.md) _2017-08-27 20:30:04 (Update)_
+1. [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-that-is-investigating-th.md) _2018-02-06 13:49:31 (First version)_
+2. [Politics of Guatemala: President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/politics-of-guatemala-president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-t.md) _2018-02-06 13:49:31 (Update)_
 2. [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/28/dozens-of-people-are-rescued-from-japan-s-mount
 
 ### Changes:
 
-1. [2014 Mount Ontake eruption:Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/2014-mount-ontake-eruption-pdozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-de.md) _2017-08-25 03:41:02 (First version)_
-2. [2014 Mount Ontake eruption:: Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/2014-mount-ontake-eruption-dozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-d.md) _2017-08-27 03:41:20 (Update)_
+1. [2014 Mount Ontake eruption:Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/2014-mount-ontake-eruption-pdozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-de.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Mount Ontake eruption:: Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/2014-mount-ontake-eruption-dozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-d.md) _2018-02-06 13:49:26 (Update)_
 2. [Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/dozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-dead-this-is-the-first-deadly.md) _(Current version)_
 
 ### Related:

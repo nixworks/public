@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/17/a-suicide-bomber-detonates-a-tricycle-taxi-fill
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/islamist-insurgency-in-nigeria-a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-f.md) _2017-08-27 03:40:52 (First version)_
+1. [Islamist insurgency in Nigeria: A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/islamist-insurgency-in-nigeria-a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-f.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-fifa-world-cup-in-damaturu-niger.md) _(Current version)_
 
 ### Related:

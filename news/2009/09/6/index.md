@@ -13,7 +13,7 @@ _Context: ferry, Philippines_
 
 ##### Gabon
 ### [ A third day of clashes take place in Gabon's second largest city, Port-Gentil, over the disputed presidential election. ](/news/2009/09/6/a-third-day-of-clashes-take-place-in-gabon-s-second-largest-city-port-gentil-over-the-disputed-presidential-election.md)
-_Context: Port-Gentil, Gabon, disputed presidential election_
+_Context: Gabon, disputed presidential election, Port-Gentil_
 
 ##### acid attack
 ### [ Ten people are injured in an acid attack in Hong Kong. ](/news/2009/09/6/ten-people-are-injured-in-an-acid-attack-in-hong-kong.md)

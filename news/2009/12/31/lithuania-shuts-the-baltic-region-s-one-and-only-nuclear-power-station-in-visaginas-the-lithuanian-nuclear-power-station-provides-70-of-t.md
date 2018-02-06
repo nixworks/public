@@ -17,7 +17,7 @@ Lithuanians are braced for a devastating increase in energy prices when the stru
 
 ### Changes:
 
-1. [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas. The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of.md) _2017-08-25 03:26:45 (First version)_
+1. [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas. The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of.md) _2018-02-06 13:49:19 (First version)_
 1. [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas. The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of-t.md) _(Current version)_
 
 ### Related:

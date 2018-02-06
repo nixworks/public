@@ -16,7 +16,7 @@ Russia&rsquo;s president travels seven time zones away to change the subject fro
 
 ### Changes:
 
-1. [Russian President Vladimir Putin broke with a long tradition of Soviet and Russian heads of state and delivered two New Year-s speeches instead of one. The second New Year-s address was made from Khabarovsk, a far-eastern city hit by devastating floods in summer, instead of the Moscow Kremlin. ](/news/2013/12/31/russian-president-vladimir-putin-broke-with-a-long-tradition-of-soviet-and-russian-heads-of-state-and-delivered-two-new-year-s-speeches-in.md) _2017-08-27 03:40:06 (First version)_
+1. [Russian President Vladimir Putin broke with a long tradition of Soviet and Russian heads of state and delivered two New Year-s speeches instead of one. The second New Year-s address was made from Khabarovsk, a far-eastern city hit by devastating floods in summer, instead of the Moscow Kremlin. ](/news/2013/12/31/russian-president-vladimir-putin-broke-with-a-long-tradition-of-soviet-and-russian-heads-of-state-and-delivered-two-new-year-s-speeches-in.md) _2018-02-06 13:49:25 (First version)_
 1. [Russian President Vladimir Putin broke with a long tradition of Soviet and Russian heads of state and delivered two New Year's speeches instead of one. The second New Year's address was made from Khabarovsk, a far-eastern city hit by devastating floods in summer, instead of the Moscow Kremlin. ](/news/2013/12/31/russian-president-vladimir-putin-broke-with-a-long-tradition-of-soviet-and-russian-heads-of-state-and-delivered-two-new-yearas-speeches-in.md) _(Current version)_
 
 ### Related:

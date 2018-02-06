@@ -16,8 +16,8 @@ Five people are killed at anti-government protests in Yemen, four as police open
 
 ### Changes:
 
-1. [2011 Yemeni protests:At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/2011-yemeni-protests-pat-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md) _2017-08-25 03:32:16 (First version)_
-2. [2011 Yemeni protests:: At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/2011-yemeni-protests-at-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md) _2017-08-27 03:32:24 (Update)_
+1. [2011 Yemeni protests:At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/2011-yemeni-protests-pat-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/2011-yemeni-protests-at-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md) _2018-02-06 13:49:22 (Update)_
 2. [At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/at-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md) _(Current version)_
 
 ### Related:

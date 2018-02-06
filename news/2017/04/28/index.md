@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/28/index.html)  [JSON](2017/04/28/index.json)  [XML](201
 
 ##### earthquake
 ### [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md)
-_Context: Mindanao, Philippines, tsunami, earthquake_
+_Context: Philippines, earthquake, tsunami, Mindanao_
 
 ##### Western Sahara conflict
 ### [The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauritania. ](/news/2017/04/28/the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sahara-peace-process-negoti.md)
@@ -21,11 +21,11 @@ A man described as one of the ringleaders in the 2012 theft of $18.7 million wor
 
 ##### Albanian presidential election, 2017
 ### [Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md)
-_Context: Ilir Meta, parliament, Albanian presidential election, 2017, President of Albania_
+_Context: Ilir Meta, President of Albania, Albanian presidential election, 2017, parliament_
 
 ##### Accession of Montenegro to NATO
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
-_Context: NATO, Montenegro, Parliament of Montenegro, membership, Accession of Montenegro to NATO_
+_Context: Montenegro, Parliament of Montenegro, NATO, Accession of Montenegro to NATO, membership_
 
 ##### re-elected
 ### [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md)
@@ -37,11 +37,11 @@ Her party’s top official was forced to step aside after he was cited questioni
 
 ##### general strike
 ### [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md)
-_Context: general strike, Brazil_
+_Context: Brazil, general strike_
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-candidate-jon-ossoff.md)
-_Context: Jon Ossoff, Georgia's 6th congressional district special election, 2017, Donald Trump, NRA_
+_Context: Jon Ossoff, Georgia's 6th congressional district special election, 2017, NRA, Donald Trump_
 
 ## [Previous Day...](/news/2017/04/27/index.md)
 

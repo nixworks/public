@@ -18,7 +18,7 @@ The following press release was issued by the European Council on September 13, 
 
 ### Changes:
 
-1. [The European Union extends the asset freeze and travel ban against 146 persons and 37 entities, including close associates of Russian President Vladimir Putin, by six months until 15 March 2017 for the annexation of Crimea from Ukraine. ](/news/2016/09/15/the-european-union-extends-the-asset-freeze-and-travel-ban-against-146-persons-and-37-entities-including-close-associates-of-russian-presi.md) _2017-08-25 03:46:27 (First version)_
+1. [The European Union extends the asset freeze and travel ban against 146 persons and 37 entities, including close associates of Russian President Vladimir Putin, by six months until 15 March 2017 for the annexation of Crimea from Ukraine. ](/news/2016/09/15/the-european-union-extends-the-asset-freeze-and-travel-ban-against-146-persons-and-37-entities-including-close-associates-of-russian-presi.md) _2018-02-06 13:49:29 (First version)_
 1. [The European Union extends the asset freeze and travel ban against 146 persons and 37 entities, including close associates of Russian President Vladimir Putin, by six months until 15 March 2017 for the annexation of Crimea from Ukraine. ](/news/2016/09/15/the-european-union-extends-the-asset-freeze-and-travel-ban-against-146-persons-and-37-entities-including-close-associates-of-russian-presid.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-she
 
 ### Changes:
 
-1. [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed in the capital Mogadishu. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-in-the-capital-mogadishu.md) _2017-05-04 15:30:07 (First version)_
+1. [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed in the capital Mogadishu. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-in-the-capital-mogadishu.md) _2018-02-06 13:49:30 (First version)_
 1. [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md) _(Current version)_
 
 ### Related:

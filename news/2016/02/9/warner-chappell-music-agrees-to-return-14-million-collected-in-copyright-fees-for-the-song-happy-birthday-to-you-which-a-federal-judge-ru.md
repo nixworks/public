@@ -16,7 +16,7 @@ The details of the copyright case that placed the song &quot;Happy Birthday&quot
 
 ### Changes:
 
-1. [Warner-Chappell Music agrees to return $14 million collected in copyright fees for the song ''Happy Birthday to You'' which a federal judge ruled in September belongs in the public domain. ](/news/2016/02/9/warner-chappell-music-agrees-to-return-14-million-collected-in-copyright-fees-for-the-song-happy-birthday-to-you-which-a-federal-judge.md) _2017-08-25 03:44:30 (First version)_
+1. [Warner-Chappell Music agrees to return $14 million collected in copyright fees for the song ''Happy Birthday to You'' which a federal judge ruled in September belongs in the public domain. ](/news/2016/02/9/warner-chappell-music-agrees-to-return-14-million-collected-in-copyright-fees-for-the-song-happy-birthday-to-you-which-a-federal-judge.md) _2018-02-06 13:49:28 (First version)_
 1. [Warner-Chappell Music agrees to return $14 million collected in copyright fees for the song "Happy Birthday to You" which a federal judge ruled in September belongs in the public domain. ](/news/2016/02/9/warner-chappell-music-agrees-to-return-14-million-collected-in-copyright-fees-for-the-song-happy-birthday-to-you-which-a-federal-judge-ru.md) _(Current version)_
 
 ### Related:

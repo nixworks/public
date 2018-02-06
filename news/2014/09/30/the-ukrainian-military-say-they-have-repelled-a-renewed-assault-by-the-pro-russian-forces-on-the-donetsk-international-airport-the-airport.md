@@ -16,7 +16,7 @@ Ukrainian forces repelled two fresh assaults by pro-Russia rebels on the airport
 
 ### Changes:
 
-1. [War in Donbass: The Ukrainian military say they have repelled a renewed assault by the pro-Russian forces on the Donetsk International Airport. The airport has been under sustained assaults for over 2 weeks despite an official ceasefire. ](/news/2014/09/30/war-in-donbass-the-ukrainian-military-say-they-have-repelled-a-renewed-assault-by-the-pro-russian-forces-on-the-donetsk-international-airpo.md) _2017-08-27 03:41:21 (First version)_
+1. [War in Donbass: The Ukrainian military say they have repelled a renewed assault by the pro-Russian forces on the Donetsk International Airport. The airport has been under sustained assaults for over 2 weeks despite an official ceasefire. ](/news/2014/09/30/war-in-donbass-the-ukrainian-military-say-they-have-repelled-a-renewed-assault-by-the-pro-russian-forces-on-the-donetsk-international-airpo.md) _2018-02-06 13:49:26 (First version)_
 1. [The Ukrainian military say they have repelled a renewed assault by the pro-Russian forces on the Donetsk International Airport. The airport has been under sustained assaults for over 2 weeks despite an official ceasefire. ](/news/2014/09/30/the-ukrainian-military-say-they-have-repelled-a-renewed-assault-by-the-pro-russian-forces-on-the-donetsk-international-airport-the-airport.md) _(Current version)_
 
 ### Related:

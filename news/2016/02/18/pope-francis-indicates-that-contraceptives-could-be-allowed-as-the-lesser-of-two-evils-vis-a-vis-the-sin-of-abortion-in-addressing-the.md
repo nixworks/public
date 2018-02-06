@@ -20,7 +20,7 @@ Vatican City, Feb 18, 2016 / 11:00 am (CNA).- In his hour-long inflight news con
 
 ### Changes:
 
-1. [Zika virus outbreak: Pope Francis indicates that contraceptives could be allowed, as the "lesser of two evils" vis-a-vis the sin of abortion, in addressing the life-threatening problem the Zika virus presents. He noted that Pope Paul VI, "in a difficult situation in Africa, permitted nuns to use contraceptives in cases of rape". ](/news/2016/02/18/zika-virus-outbreak-pope-francis-indicates-that-contraceptives-could-be-allowed-as-the-lesser-of-two-evils-vis-a-vis-the-sin-of-abortio.md) _2017-08-27 03:44:57 (First version)_
+1. [Zika virus outbreak: Pope Francis indicates that contraceptives could be allowed, as the "lesser of two evils" vis-a-vis the sin of abortion, in addressing the life-threatening problem the Zika virus presents. He noted that Pope Paul VI, "in a difficult situation in Africa, permitted nuns to use contraceptives in cases of rape". ](/news/2016/02/18/zika-virus-outbreak-pope-francis-indicates-that-contraceptives-could-be-allowed-as-the-lesser-of-two-evils-vis-a-vis-the-sin-of-abortio.md) _2018-02-06 13:49:28 (First version)_
 1. [Pope Francis indicates that contraceptives could be allowed, as the "lesser of two evils" vis-a-vis the sin of abortion, in addressing the life-threatening problem the Zika virus presents. He noted that Pope Paul VI, "in a difficult situation in Africa, permitted nuns to use contraceptives in cases of rape". ](/news/2016/02/18/pope-francis-indicates-that-contraceptives-could-be-allowed-as-the-lesser-of-two-evils-vis-a-vis-the-sin-of-abortion-in-addressing-the.md) _(Current version)_
 
 ### Related:

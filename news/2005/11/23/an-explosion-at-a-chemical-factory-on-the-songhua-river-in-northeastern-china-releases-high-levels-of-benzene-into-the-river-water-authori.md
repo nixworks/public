@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songh
 
 ### Changes:
 
-1. [ An explosion at a chemical factory on the Songhua River in northeastern China releases high levels of benzene into the river water. Authorities shut off the water supply for the downstream city of Harbin. ](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songhua-river-in-northeastern-china-releases-high-levels-of-benzene-into-the-river-water-author.md) _2017-08-25 03:17:09 (First version)_
+1. [ An explosion at a chemical factory on the Songhua River in northeastern China releases high levels of benzene into the river water. Authorities shut off the water supply for the downstream city of Harbin. ](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songhua-river-in-northeastern-china-releases-high-levels-of-benzene-into-the-river-water-author.md) _2018-02-06 13:49:16 (First version)_
 1. [ An explosion at a chemical factory on the Songhua River in northeastern China releases high levels of benzene into the river water. Authorities shut off the water supply for the downstream city of Harbin. ](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songhua-river-in-northeastern-china-releases-high-levels-of-benzene-into-the-river-water-authori.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Ted Dawe’s Into the River is banned from shops, schools and distribution acros
 
 ### Changes:
 
-1. [New Zealand temporarily bans the sale or lending of the book ''Into the River'' by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restr.md) _2017-08-25 03:42:43 (First version)_
+1. [New Zealand temporarily bans the sale or lending of the book ''Into the River'' by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restr.md) _2018-02-06 13:49:27 (First version)_
 1. [New Zealand temporarily bans the sale or lending of the book "Into the River" by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restric.md) _(Current version)_
 
 ### Related:

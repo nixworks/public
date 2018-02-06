@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/25/according-to-officials-at-least-11-people-mostl
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/war-in-afghanistan-2015-present-according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowz.md) _2017-08-27 03:47:53 (First version)_
+1. [War in Afghanistan (2015-present): According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/war-in-afghanistan-2015-present-according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowz.md) _2018-02-06 13:49:30 (First version)_
 1. [According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowzjan-province-in-an-ambush-by-militant.md) _(Current version)_
 
 ### Related:

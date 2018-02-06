@@ -16,7 +16,7 @@ Five questions and answers regarding the adoption of the agreement, when it take
 
 ### Changes:
 
-1. [Joint Comprehensive Plan of Action: The United States Senate fails to pass a resolution blocking approval of the nuclear agreement with Iran, meaning it will be formally adopted on October 19. ](/news/2015/09/10/joint-comprehensive-plan-of-action-the-united-states-senate-fails-to-pass-a-resolution-blocking-approval-of-the-nuclear-agreement-with-iran.md) _2017-08-27 03:43:01 (First version)_
+1. [Joint Comprehensive Plan of Action: The United States Senate fails to pass a resolution blocking approval of the nuclear agreement with Iran, meaning it will be formally adopted on October 19. ](/news/2015/09/10/joint-comprehensive-plan-of-action-the-united-states-senate-fails-to-pass-a-resolution-blocking-approval-of-the-nuclear-agreement-with-iran.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States Senate fails to pass a resolution blocking approval of the nuclear agreement with Iran, meaning it will be formally adopted on October 19. ](/news/2015/09/10/the-united-states-senate-fails-to-pass-a-resolution-blocking-approval-of-the-nuclear-agreement-with-iran-meaning-it-will-be-formally-adopte.md) _(Current version)_
 
 ### Related:

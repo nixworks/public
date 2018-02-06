@@ -17,8 +17,8 @@ At least three people were killed and two injured when a man dressed in a UPS un
 
 ### Changes:
 
-1. [At least two people are dead and several are injured after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/at-least-two-people-are-dead-and-several-are-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighborhood-of.md) _2017-06-14 19:30:07 (First version)_
-2. [UPS shooting in San Francisco: Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/ups-shooting-in-san-francisco-four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-build.md) _2017-08-27 03:48:28 (Update)_
+1. [UPS shooting in San Francisco: Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/ups-shooting-in-san-francisco-four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-build.md) _2018-02-06 13:49:30 (First version)_
+2. [At least two people are dead and several are injured after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/at-least-two-people-are-dead-and-several-are-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighborhood-of.md) _2018-02-06 13:49:30 (Update)_
 2. [Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.md) _(Current version)_
 
 ### Related:

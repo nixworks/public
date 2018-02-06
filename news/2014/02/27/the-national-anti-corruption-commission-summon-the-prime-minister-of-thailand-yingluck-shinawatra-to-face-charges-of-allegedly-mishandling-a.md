@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/27/the-national-anti-corruption-commission-summon-
 
 ### Changes:
 
-1. [2013-14 Thai political crisis: The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/2013-14-thai-political-crisis-the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-c.md) _2017-08-27 03:40:23 (First version)_
+1. [2013-14 Thai political crisis: The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/2013-14-thai-political-crisis-the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-c.md) _2018-02-06 13:49:25 (First version)_
 1. [The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-charges-of-allegedly-mishandling-a.md) _(Current version)_
 
 ### Related:

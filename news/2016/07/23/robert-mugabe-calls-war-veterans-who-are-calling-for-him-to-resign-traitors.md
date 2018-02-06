@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-callin
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/2016-zimbabwe-protests-robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Zimbabwe protests: Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/2016-zimbabwe-protests-robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _2018-02-06 13:49:29 (First version)_
 1. [Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _(Current version)_
 
 ### Related:

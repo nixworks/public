@@ -17,8 +17,8 @@ Venezuela is holding the biggest military exercise in its history this weekend, 
 
 ### Changes:
 
-1. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of.md) _2017-08-25 03:45:43 (First version)_
-2. [ 2014-16 Venezuelan protests: The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/2014-16-venezuelan-protests-the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security.md) _2017-08-27 03:46:05 (Update)_
+1. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of.md) _2018-02-06 13:49:29 (First version)_
+2. [ 2014-16 Venezuelan protests: The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/2014-16-venezuelan-protests-the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security.md) _2018-02-06 13:49:29 (Update)_
 2. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of-a.md) _(Current version)_
 
 ### Related:

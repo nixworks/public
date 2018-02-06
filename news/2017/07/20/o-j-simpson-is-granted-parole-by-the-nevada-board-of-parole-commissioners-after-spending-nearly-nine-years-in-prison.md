@@ -15,8 +15,8 @@ Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as h
 
 ### Changes:
 
-1. [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md) _2017-07-21 08:30:05 (First version)_
-2. [O. J. Simpson robbery case: O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-robbery-case-o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-spending-nearly-nine-years-in.md) _2017-08-27 03:48:41 (Update)_
+1. [O. J. Simpson robbery case: O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-robbery-case-o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-spending-nearly-nine-years-in.md) _2018-02-06 13:49:30 (First version)_
+2. [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md) _2018-02-06 13:49:30 (Update)_
 2. [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-spending-nearly-nine-years-in-prison.md) _(Current version)_
 
 ### Related:

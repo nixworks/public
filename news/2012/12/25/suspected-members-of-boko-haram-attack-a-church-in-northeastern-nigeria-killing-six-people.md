@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/25/suspected-members-of-boko-haram-attack-a-church
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-psuspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _2017-08-25 03:37:08 (First version)_
-2. [Nigerian Sharia conflict:: Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _2017-08-27 03:37:18 (Update)_
+1. [Nigerian Sharia conflict:: Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-psuspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _2018-02-06 13:49:24 (Update)_
 2. [Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md) _(Current version)_
 
 ### Related:

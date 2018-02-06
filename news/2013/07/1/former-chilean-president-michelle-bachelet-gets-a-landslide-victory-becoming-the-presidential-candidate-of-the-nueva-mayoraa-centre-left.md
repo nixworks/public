@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/07/1/former-chilean-president-michelle-bachelet-gets-
 
 ### Changes:
 
-1. [Former Chilean president Michelle Bachelet gets a landslide victory, becoming the presidential candidate of the ''Nueva Mayoria'' centre-left coalition for the next November elections. Pablo Longueira, former Minister of Economy, wins the centre-right primary. ](/news/2013/07/1/former-chilean-president-michelle-bachelet-gets-a-landslide-victory-becoming-the-presidential-candidate-of-the-nueva-mayoraa-centre-le.md) _2017-08-25 03:38:55 (First version)_
+1. [Former Chilean president Michelle Bachelet gets a landslide victory, becoming the presidential candidate of the ''Nueva Mayoria'' centre-left coalition for the next November elections. Pablo Longueira, former Minister of Economy, wins the centre-right primary. ](/news/2013/07/1/former-chilean-president-michelle-bachelet-gets-a-landslide-victory-becoming-the-presidential-candidate-of-the-nueva-mayoraa-centre-le.md) _2018-02-06 13:49:25 (First version)_
 1. [Former Chilean president Michelle Bachelet gets a landslide victory, becoming the presidential candidate of the "Nueva Mayoria" centre-left coalition for the next November elections. Pablo Longueira, former Minister of Economy, wins the centre-right primary. ](/news/2013/07/1/former-chilean-president-michelle-bachelet-gets-a-landslide-victory-becoming-the-presidential-candidate-of-the-nueva-mayoraa-centre-left.md) _(Current version)_
 
 ### Related:

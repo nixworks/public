@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/08/22/eric-rudolph-is-sentenced-to-three-more-life-te
 
 ### Changes:
 
-1. [ Eric Rudolph is sentenced to three more life terms without possibility of parole for the Centennial Olympic Park bombing of the 1996 Summer Olympics in Atlanta. ](/news/2005/08/22/eric-rudolph-is-sentenced-to-three-more-life-terms-without-possibility-of-parole-for-the-centennial-olympic-park-bombing-of-the-1996-summe.md) _2017-08-25 03:16:42 (First version)_
+1. [ Eric Rudolph is sentenced to three more life terms without possibility of parole for the Centennial Olympic Park bombing of the 1996 Summer Olympics in Atlanta. ](/news/2005/08/22/eric-rudolph-is-sentenced-to-three-more-life-terms-without-possibility-of-parole-for-the-centennial-olympic-park-bombing-of-the-1996-summe.md) _2018-02-06 13:49:16 (First version)_
 1. [ Eric Rudolph is sentenced to three more life terms without possibility of parole for the Centennial Olympic Park bombing of the 1996 Summer Olympics in Atlanta. ](/news/2005/08/22/eric-rudolph-is-sentenced-to-three-more-life-terms-without-possibility-of-parole-for-the-centennial-olympic-park-bombing-of-the-1996-summer.md) _(Current version)_
 
 ### Related:

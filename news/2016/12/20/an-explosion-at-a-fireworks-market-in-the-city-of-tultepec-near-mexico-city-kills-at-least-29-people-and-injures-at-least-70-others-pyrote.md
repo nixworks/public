@@ -18,7 +18,7 @@ Images broadcast by Milenio showed smoke rising from the scorched ground and fir
 
 ### Changes:
 
-1. [2016 San Pablito Market fireworks explosion: An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/2016-san-pablito-market-fireworks-explosion-an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29.md) _2017-08-27 03:47:29 (First version)_
+1. [2016 San Pablito Market fireworks explosion: An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/2016-san-pablito-market-fireworks-explosion-an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29.md) _2018-02-06 13:49:30 (First version)_
 1. [An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29-people-and-injures-at-least-70-others-pyrote.md) _(Current version)_
 
 ### Related:

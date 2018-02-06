@@ -16,7 +16,7 @@ A freight train derailed in Ukraine, releasing a cloud of toxic gas and that poi
 
 ### Changes:
 
-1. [ A train carrying yellow phosphorus derails in western Ukraine, sending a toxic cloud over several villages. At least twenty people are hospitalized and hundreds are forced to evacuate. ](/news/2007/07/17/a-train-carrying-yellow-phosphorus-derails-in-western-ukraine-sending-a-toxic-cloud-over-several-villages-at-least-twenty-people-are-hos.md) _2017-08-25 03:20:12 (First version)_
+1. [ A train carrying yellow phosphorus derails in western Ukraine, sending a toxic cloud over several villages. At least twenty people are hospitalized and hundreds are forced to evacuate. ](/news/2007/07/17/a-train-carrying-yellow-phosphorus-derails-in-western-ukraine-sending-a-toxic-cloud-over-several-villages-at-least-twenty-people-are-hos.md) _2018-02-06 13:49:17 (First version)_
 1. [ A train carrying yellow phosphorus derails in western Ukraine, sending a toxic cloud over several villages. At least twenty people are hospitalized and hundreds are forced to evacuate. ](/news/2007/07/17/a-train-carrying-yellow-phosphorus-derails-in-western-ukraine-sending-a-toxic-cloud-over-several-villages-at-least-twenty-people-are-hosp.md) _(Current version)_
 
 ### Related:

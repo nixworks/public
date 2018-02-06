@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/10/philippines-president-benigno-aquino-iii-submit
 
 ### Changes:
 
-1. [Moro insurgency in the Philippines:Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-pphilippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-giv.md) _2017-08-25 03:40:57 (First version)_
-2. [Moro insurgency in the Philippines:: Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-philippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-gi.md) _2017-08-27 03:41:16 (Update)_
+1. [Moro insurgency in the Philippines:Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-pphilippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-giv.md) _2018-02-06 13:49:26 (First version)_
+2. [Moro insurgency in the Philippines:: Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-philippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-gi.md) _2018-02-06 13:49:26 (Update)_
 2. [Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/philippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-give-autonomy-to-filipino-muslims-in-ba.md) _(Current version)_
 
 ### Related:

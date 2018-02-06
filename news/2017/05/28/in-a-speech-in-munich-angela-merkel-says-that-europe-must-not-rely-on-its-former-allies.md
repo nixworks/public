@@ -16,7 +16,7 @@ There’s a statesmanship – a vision, a morality and a core – to her that wa
 
 ### Changes:
 
-1. [German federal election, 2017: In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/german-federal-election-2017-in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _2017-08-27 03:48:24 (First version)_
+1. [German federal election, 2017: In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/german-federal-election-2017-in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _2018-02-06 13:49:30 (First version)_
 1. [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _(Current version)_
 
 ### Related:

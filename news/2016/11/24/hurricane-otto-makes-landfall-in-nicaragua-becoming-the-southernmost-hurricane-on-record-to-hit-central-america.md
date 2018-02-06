@@ -17,7 +17,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/2016-atlantic-hurricane-season-hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-ame.md) _2017-08-27 03:47:18 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/2016-atlantic-hurricane-season-hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-ame.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md) _(Current version)_
 
 ### Related:

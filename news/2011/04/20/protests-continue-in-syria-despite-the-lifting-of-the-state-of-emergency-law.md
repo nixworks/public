@@ -17,8 +17,8 @@ Anti-government activists to continue rallies and strikes despite cabinet approv
 
 ### Changes:
 
-1. [2011 Syrian protests:Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-pprotests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _2017-08-25 03:32:51 (First version)_
-2. [2011 Syrian protests:: Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _2017-08-27 03:33:00 (Update)_
+1. [2011 Syrian protests:: Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-pprotests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _2018-02-06 13:49:22 (Update)_
 2. [Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _(Current version)_
 
 ### Related:

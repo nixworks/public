@@ -16,7 +16,7 @@ Tunisia has completed a 200-km (125 mile) barrier along its frontier with Libya 
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): Tunisia completes the construction of a 200km (125 mile) barrier along its border with Libya, intended to keep out terrorists trained in Libya. ](/news/2016/02/6/insurgency-in-the-maghreb-2002-present-tunisia-completes-the-construction-of-a-200km-125-mile-barrier-along-its-border-with-libya-in.md) _2017-08-27 03:44:50 (First version)_
+1. [Insurgency in the Maghreb (2002-present): Tunisia completes the construction of a 200km (125 mile) barrier along its border with Libya, intended to keep out terrorists trained in Libya. ](/news/2016/02/6/insurgency-in-the-maghreb-2002-present-tunisia-completes-the-construction-of-a-200km-125-mile-barrier-along-its-border-with-libya-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Tunisia completes the construction of a 200km (125 mile) barrier along its border with Libya, intended to keep out terrorists trained in Libya. ](/news/2016/02/6/tunisia-completes-the-construction-of-a-200km-125-mile-barrier-along-its-border-with-libya-intended-to-keep-out-terrorists-trained-in-lib.md) _(Current version)_
 
 ### Related:

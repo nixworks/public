@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Venezuela buys a further US $312 million of Argentina's national debt, adding to the US $1 billion already purchased. The government of Hugo Chvez says that the scheme will further South American integration. ](/news/2006/01/24/venezuela-buys-a-further-us-312-million-of-argentina-s-national-debt-adding-to-the-us-1-billion-already-purchased-the-government-of-hugo.md) _2017-10-02 03:19:50 (First version)_
+1. [ Venezuela buys a further US $312 million of Argentina's national debt, adding to the US $1 billion already purchased. The government of Hugo Chvez says that the scheme will further South American integration. ](/news/2006/01/24/venezuela-buys-a-further-us-312-million-of-argentina-s-national-debt-adding-to-the-us-1-billion-already-purchased-the-government-of-hugo.md) _2018-02-06 13:49:16 (First version)_
 1. [ Venezuela buys a further US $312 million of Argentina's national debt, adding to the US $1 billion already purchased. The government of Hugo Chvez says that the scheme will further South American integration. ](/news/2006/01/24/venezuela-buys-a-further-us-312-million-of-argentina-s-national-debt-adding-to-the-us-1-billion-already-purchased-the-government-of-hug.md) _(Current version)_
 
 ### Related:

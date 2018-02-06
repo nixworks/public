@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/04/3/saudi-arabia-donates-a-plethora-of-weapons-and-m
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/yemeni-crisis-2011-present-saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md) _2017-08-27 03:42:09 (First version)_
+1. [Yemeni Crisis (2011-present): Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/yemeni-crisis-2011-present-saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md) _2018-02-06 13:49:27 (First version)_
 1. [ Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md) _(Current version)_
 
 ### Related:

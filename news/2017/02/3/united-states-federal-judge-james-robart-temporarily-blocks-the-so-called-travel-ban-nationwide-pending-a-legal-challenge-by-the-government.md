@@ -24,7 +24,7 @@ The temporary restraining order issued by a federal judge halts implementation o
 
 ### Changes:
 
-1. [U.S. immigration suspension: United States federal judge James Robart temporarily blocks the so-called travel ban nationwide pending a legal challenge by the government. ](/news/2017/02/3/u-s-immigration-suspension-united-states-federal-judge-james-robart-temporarily-blocks-the-so-called-travel-ban-nationwide-pending-a-legal.md) _2017-08-27 03:47:45 (First version)_
+1. [U.S. immigration suspension: United States federal judge James Robart temporarily blocks the so-called travel ban nationwide pending a legal challenge by the government. ](/news/2017/02/3/u-s-immigration-suspension-united-states-federal-judge-james-robart-temporarily-blocks-the-so-called-travel-ban-nationwide-pending-a-legal.md) _2018-02-06 13:49:30 (First version)_
 1. [United States federal judge James Robart temporarily blocks the so-called travel ban nationwide pending a legal challenge by the government. ](/news/2017/02/3/united-states-federal-judge-james-robart-temporarily-blocks-the-so-called-travel-ban-nationwide-pending-a-legal-challenge-by-the-government.md) _(Current version)_
 
 ### Related:

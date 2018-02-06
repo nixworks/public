@@ -17,7 +17,7 @@ Yanis Varoufakis has stood down as the Greek finance minister
 
 ### Changes:
 
-1. [Greek bailout referendum, 2015: Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. ](/news/2015/07/6/greek-bailout-referendum-2015-yanis-varoufakis-resigns-as-the-greek-minister-of-finance-despite-the-success-of-the-no-vote-which-support.md) _2017-08-27 03:42:39 (First version)_
+1. [Greek bailout referendum, 2015: Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. ](/news/2015/07/6/greek-bailout-referendum-2015-yanis-varoufakis-resigns-as-the-greek-minister-of-finance-despite-the-success-of-the-no-vote-which-support.md) _2018-02-06 13:49:27 (First version)_
 1. [Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. ](/news/2015/07/6/yanis-varoufakis-resigns-as-the-greek-minister-of-finance-despite-the-success-of-the-no-vote-which-supported-his-views.md) _(Current version)_
 
 ### Related:

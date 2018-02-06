@@ -16,8 +16,8 @@ One Palestinian was killed and four wounded by IDF fire in several incidents on 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeliapalestinian-conflict-pisraeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violence.md) _2017-08-25 03:39:44 (First version)_
-2. [Israeli-Palestinian conflict:: Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeli-palestinian-conflict-israeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violenc.md) _2017-08-27 03:40:03 (Update)_
+1. [Israeli-Palestinian conflict:Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeliapalestinian-conflict-pisraeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violence.md) _2018-02-06 13:49:25 (First version)_
+2. [Israeli-Palestinian conflict:: Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeli-palestinian-conflict-israeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violenc.md) _2018-02-06 13:49:25 (Update)_
 2. [Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violence-in-the-gaza-strip.md) _(Current version)_
 
 ### Related:

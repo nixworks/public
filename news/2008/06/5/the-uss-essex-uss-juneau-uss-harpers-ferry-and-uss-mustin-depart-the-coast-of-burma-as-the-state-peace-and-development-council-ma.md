@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/5/the-uss-essex-uss-juneau-uss-harpers-ferry-and-u
 
 ### Changes:
 
-1. [ The USS ''Essex'', USS ''Juneau'', USS ''Harpers Ferry'' and USS ''Mustin'' depart the coast of Burma as the State Peace and Development Council maintains its refusal of the ships' aid in Cyclone Nargis relief. ](/news/2008/06/5/the-uss-essex-uss-juneau-uss-harpers-ferry-and-uss-mustin-depart-the-coast-of-burma-as-the-state-peace-and-development-co.md) _2017-08-25 03:22:17 (First version)_
+1. [ The USS ''Essex'', USS ''Juneau'', USS ''Harpers Ferry'' and USS ''Mustin'' depart the coast of Burma as the State Peace and Development Council maintains its refusal of the ships' aid in Cyclone Nargis relief. ](/news/2008/06/5/the-uss-essex-uss-juneau-uss-harpers-ferry-and-uss-mustin-depart-the-coast-of-burma-as-the-state-peace-and-development-co.md) _2018-02-06 13:49:18 (First version)_
 1. [ The USS "Essex", USS "Juneau", USS "Harpers Ferry" and USS "Mustin" depart the coast of Burma as the State Peace and Development Council maintains its refusal of the ships' aid in Cyclone Nargis relief. ](/news/2008/06/5/the-uss-essex-uss-juneau-uss-harpers-ferry-and-uss-mustin-depart-the-coast-of-burma-as-the-state-peace-and-development-council-ma.md) _(Current version)_
 
 ### Related:

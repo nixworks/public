@@ -15,7 +15,7 @@ Two Palestinian teens were killed in clashes with the Israeli military on Thursd
 
 ### Changes:
 
-1. [Two 16-year-old Palestinians are shot and killed in clashes with the Israeli army. ](/news/2018/01/11/two-16-year-old-palestinians-are-shot-and-killed-in-clashes-with-the-israeli-army.md) _2018-01-11 20:30:05 (First version)_
+1. [Two 16-year-old Palestinians are shot and killed in clashes with the Israeli army. ](/news/2018/01/11/two-16-year-old-palestinians-are-shot-and-killed-in-clashes-with-the-israeli-army.md) _2018-02-06 13:49:31 (First version)_
 1. [Two 16-year-old Palestinians are shot and killed in separate clashes with the Israeli army. ](/news/2018/01/11/two-16-year-old-palestinians-are-shot-and-killed-in-separate-clashes-with-the-israeli-army.md) _(Current version)_
 
 ### Related:

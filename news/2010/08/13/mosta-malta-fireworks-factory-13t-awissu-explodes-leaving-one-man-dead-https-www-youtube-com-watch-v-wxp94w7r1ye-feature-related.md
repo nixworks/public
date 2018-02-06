@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/08/13/mosta-malta-fireworks-factory-13t-awissu-explod
 
 ### Changes:
 
-1. [Mosta - Malta Fireworks Factory (13t'Awissu) explodes leaving one man dead.[http:--www.youtube.com-watch?v=wXP94W7r1YE&feature=related]](/news/2010/08/13/mosta-malta-fireworks-factory-13t-awissu-explodes-leaving-one-man-dead-http-www-youtube-com-watch-v-wxp94w7r1ye-feature-related.md) _2017-10-17 03:34:10 (First version)_
+1. [Mosta - Malta Fireworks Factory (13t'Awissu) explodes leaving one man dead.[http:--www.youtube.com-watch?v=wXP94W7r1YE&feature=related]](/news/2010/08/13/mosta-malta-fireworks-factory-13t-awissu-explodes-leaving-one-man-dead-http-www-youtube-com-watch-v-wxp94w7r1ye-feature-related.md) _2018-02-06 13:49:20 (First version)_
 1. [Mosta - Malta Fireworks Factory (13t'Awissu) explodes leaving one man dead.[https:--www.youtube.com-watch?v=wXP94W7r1YE&feature=related]](/news/2010/08/13/mosta-malta-fireworks-factory-13t-awissu-explodes-leaving-one-man-dead-https-www-youtube-com-watch-v-wxp94w7r1ye-feature-related.md) _(Current version)_
 
 ### Related:

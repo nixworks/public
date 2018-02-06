@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/10/10/official-alternative-names-are-announced-for-th
 
 ### Changes:
 
-1. [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-r.md) _2017-08-25 03:39:22 (First version)_
+1. [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-r.md) _2018-02-06 13:49:25 (First version)_
 1. [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-re.md) _(Current version)_
 
 ### Related:

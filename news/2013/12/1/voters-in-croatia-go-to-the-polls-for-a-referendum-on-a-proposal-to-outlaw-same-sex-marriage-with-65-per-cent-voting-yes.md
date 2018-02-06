@@ -16,8 +16,8 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ### Changes:
 
-1. [Croatian constitutional referendum, 2013:Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/croatian-constitutional-referendum-2013-pvoters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with.md) _2017-08-25 03:39:36 (First version)_
-2. [Croatian constitutional referendum, 2013:: Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/croatian-constitutional-referendum-2013-voters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with.md) _2017-08-27 03:39:54 (Update)_
+1. [Croatian constitutional referendum, 2013:: Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/croatian-constitutional-referendum-2013-voters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with.md) _2018-02-06 13:49:25 (First version)_
+2. [Croatian constitutional referendum, 2013:Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/croatian-constitutional-referendum-2013-pvoters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/voters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with-65-per-cent-voting-yes.md) _(Current version)_
 
 ### Related:

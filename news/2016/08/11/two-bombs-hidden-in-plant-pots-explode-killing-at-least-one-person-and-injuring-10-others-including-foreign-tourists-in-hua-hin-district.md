@@ -16,7 +16,7 @@ Two bombs explode in the Thai resort of Hua Hin, killing one woman and injuring 
 
 ### Changes:
 
-1. [August 2016 Thailand bombings: Two bombs hidden in plant pots explode killing at least one person and injuring 10 others, including foreign tourists, in Hua Hin District, Thailand. ](/news/2016/08/11/august-2016-thailand-bombings-two-bombs-hidden-in-plant-pots-explode-killing-at-least-one-person-and-injuring-10-others-including-foreign.md) _2017-08-27 03:46:38 (First version)_
+1. [August 2016 Thailand bombings: Two bombs hidden in plant pots explode killing at least one person and injuring 10 others, including foreign tourists, in Hua Hin District, Thailand. ](/news/2016/08/11/august-2016-thailand-bombings-two-bombs-hidden-in-plant-pots-explode-killing-at-least-one-person-and-injuring-10-others-including-foreign.md) _2018-02-06 13:49:29 (First version)_
 1. [Two bombs hidden in plant pots explode killing at least one person and injuring 10 others, including foreign tourists, in Hua Hin District, Thailand. ](/news/2016/08/11/two-bombs-hidden-in-plant-pots-explode-killing-at-least-one-person-and-injuring-10-others-including-foreign-tourists-in-hua-hin-district.md) _(Current version)_
 
 ### Related:

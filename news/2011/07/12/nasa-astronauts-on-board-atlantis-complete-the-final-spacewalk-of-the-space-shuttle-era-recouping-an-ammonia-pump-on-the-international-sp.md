@@ -16,7 +16,7 @@ The last spacewalk of the shuttle era is completed, as astronauts remove a fault
 
 ### Changes:
 
-1. [NASA astronauts on board ''Atlantis'' complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international.md) _2017-08-25 03:33:45 (First version)_
+1. [NASA astronauts on board ''Atlantis'' complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international.md) _2018-02-06 13:49:22 (First version)_
 1. [NASA astronauts on board "Atlantis" complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international-sp.md) _(Current version)_
 
 ### Related:

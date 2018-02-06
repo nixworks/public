@@ -16,7 +16,7 @@ MONTPELIER, Vt. (AP) — Promising to fight what he deems &quot;obscene levels&q
 
 ### Changes:
 
-1. [2016 United States Presidential election: Nominally independent Senator Bernie Sanders from Vermont announces that he will be seeking the Democratic Party nomination in the US Presidential election. ](/news/2015/04/29/2016-united-states-presidential-election-nominally-independent-senator-bernie-sanders-from-vermont-announces-that-he-will-be-seeking-the-de.md) _2017-08-27 03:42:15 (First version)_
+1. [2016 United States Presidential election: Nominally independent Senator Bernie Sanders from Vermont announces that he will be seeking the Democratic Party nomination in the US Presidential election. ](/news/2015/04/29/2016-united-states-presidential-election-nominally-independent-senator-bernie-sanders-from-vermont-announces-that-he-will-be-seeking-the-de.md) _2018-02-06 13:49:27 (First version)_
 1. [Nominally independent Senator Bernie Sanders from Vermont announces that he will be seeking the Democratic Party nomination in the US Presidential election. ](/news/2015/04/29/nominally-independent-senator-bernie-sanders-from-vermont-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-us-presid.md) _(Current version)_
 
 ### Related:

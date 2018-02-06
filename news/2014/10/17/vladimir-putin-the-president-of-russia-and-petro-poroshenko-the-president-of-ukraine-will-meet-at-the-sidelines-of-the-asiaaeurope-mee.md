@@ -16,7 +16,7 @@ The most anticipated meeting of the Asia-Europe summit (ASEM) in Milan will take
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/2014-pro-russian-unrest-in-ukraine-vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-th.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/2014-pro-russian-unrest-in-ukraine-vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md) _(Current version)_
 
 ### Related:

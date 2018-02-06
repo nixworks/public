@@ -16,7 +16,7 @@ A tsunami alert issued after a powerful earthquake off the coast of Chile has no
 
 ### Changes:
 
-1. [2016 Chiloe earthquake: A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/2016-chiloa-c-earthquake-a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _2017-08-27 03:47:30 (First version)_
+1. [2016 Chiloe earthquake: A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/2016-chiloa-c-earthquake-a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _2018-02-06 13:49:30 (First version)_
 1. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _(Current version)_
 
 ### Related:

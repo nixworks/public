@@ -16,7 +16,7 @@ US and Afghan forces find the kidnapped son of a former Pakistani prime minister
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. ](/news/2016/05/10/war-in-afghanistan-2015-present-ali-haider-gilani-the-son-of-former-prime-minister-of-pakistan-yousaf-raza-gilani-is-rescued-in-a-joi.md) _2017-08-27 03:46:00 (First version)_
+1. [War in Afghanistan (2015-present): Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. ](/news/2016/05/10/war-in-afghanistan-2015-present-ali-haider-gilani-the-son-of-former-prime-minister-of-pakistan-yousaf-raza-gilani-is-rescued-in-a-joi.md) _2018-02-06 13:49:29 (First version)_
 1. [Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. ](/news/2016/05/10/ali-haider-gilani-the-son-of-former-prime-minister-of-pakistan-yousaf-raza-gilani-is-rescued-in-a-joint-operation-by-u-s-and-afghan-force.md) _(Current version)_
 
 ### Related:

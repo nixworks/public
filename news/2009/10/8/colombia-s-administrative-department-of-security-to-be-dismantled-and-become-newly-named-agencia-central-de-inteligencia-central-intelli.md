@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/10/8/colombia-s-administrative-department-of-security
 
 ### Changes:
 
-1. [ Colombia's Administrative Department of Security to be dismantled and become newly named ''Agencia Central de Inteligencia'' (Central Intelligence Agency).](/news/2009/10/8/colombia-s-administrative-department-of-security-to-be-dismantled-and-become-newly-named-agencia-central-de-inteligencia-central-intel.md) _2017-08-25 03:25:59 (First version)_
+1. [ Colombia's Administrative Department of Security to be dismantled and become newly named ''Agencia Central de Inteligencia'' (Central Intelligence Agency).](/news/2009/10/8/colombia-s-administrative-department-of-security-to-be-dismantled-and-become-newly-named-agencia-central-de-inteligencia-central-intel.md) _2018-02-06 13:49:19 (First version)_
 1. [ Colombia's Administrative Department of Security to be dismantled and become newly named "Agencia Central de Inteligencia" (Central Intelligence Agency).](/news/2009/10/8/colombia-s-administrative-department-of-security-to-be-dismantled-and-become-newly-named-agencia-central-de-inteligencia-central-intelli.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Foreign Minister Ahmet Davutoglu urges Israel not to stop next Gaza-bound flotil
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeliapalestinian-conflict-ppreparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _2017-08-25 03:32:53 (First version)_
-2. [Israeli-Palestinian conflict:: Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeli-palestinian-conflict-preparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _2017-08-27 03:33:03 (Update)_
+1. [Israeli-Palestinian conflict:Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeliapalestinian-conflict-ppreparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _2018-02-06 13:49:22 (First version)_
+2. [Israeli-Palestinian conflict:: Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeli-palestinian-conflict-preparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _2018-02-06 13:49:22 (Update)_
 2. [Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/preparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md) _(Current version)_
 
 ### Related:

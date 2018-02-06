@@ -17,7 +17,7 @@ Microsoft is buying the professional networking website LinkedIn for about $26bn
 
 ### Changes:
 
-1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _2017-08-25 03:45:52 (First version)_
+1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _2018-02-06 13:49:29 (First version)_
 1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (GBP18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.md) _(Current version)_
 
 ### Related:

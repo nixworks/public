@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/08/9/at-least-5-police-officers-and-3-militants-are-k
 
 ### Changes:
 
-1. [North Caucasus insurgency:At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/north-caucasus-insurgency-pat-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-cauca.md) _2017-08-25 03:36:15 (First version)_
-2. [North Caucasus insurgency:: At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/north-caucasus-insurgency-at-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-cauc.md) _2017-08-27 03:36:26 (Update)_
+1. [North Caucasus insurgency:At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/north-caucasus-insurgency-pat-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-cauca.md) _2018-02-06 13:49:23 (First version)_
+2. [North Caucasus insurgency:: At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/north-caucasus-insurgency-at-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-cauc.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/at-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-caucasus-republic-of-dagestan.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ New research shows that more than 5.5 million people die prematurely every year 
 
 ### Changes:
 
-1. [ University of British Columbia's Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbiaas-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from.md) _2017-08-25 03:44:31 (First version)_
-2. [ University of British Columbia-s Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbia-s-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from-a.md) _2017-08-27 03:44:53 (Update)_
+1. [ University of British Columbia's Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbiaas-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from.md) _2018-02-06 13:49:28 (First version)_
+2. [ University of British Columbia-s Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbia-s-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from-a.md) _2018-02-06 13:49:28 (Update)_
 2. [ University of British Columbia's Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbiaas-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from-a.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ A suspected U.S. drone strike killed two men believed to be al-Qaeda militants i
 
 ### Changes:
 
-1. [Yemeni Civil War: A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/yemeni-civil-war-a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tr.md) _2017-08-27 03:47:43 (First version)_
+1. [Yemeni Civil War: A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/yemeni-civil-war-a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tr.md) _2018-02-06 13:49:30 (First version)_
 1. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _(Current version)_
 
 ### Related:

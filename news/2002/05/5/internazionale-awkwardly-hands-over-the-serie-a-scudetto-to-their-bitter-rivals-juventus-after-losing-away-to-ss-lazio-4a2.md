@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/05/5/internazionale-awkwardly-hands-over-the-serie-a-
 
 ### Changes:
 
-1. [ Internazionale awkwardly hands over the Serie A Scudetto to their bitter rivals Juventus after losing away to SS Lazio, 4-2.](/news/2002/05/5/internazionale-awkwardly-hands-over-the-serie-a-scudetto-to-their-bitter-rivals-juventus-after-losing-away-to-ss-lazio-4-2.md) _2017-08-27 03:15:13 (First version)_
+1. [ Internazionale awkwardly hands over the Serie A Scudetto to their bitter rivals Juventus after losing away to SS Lazio, 4-2.](/news/2002/05/5/internazionale-awkwardly-hands-over-the-serie-a-scudetto-to-their-bitter-rivals-juventus-after-losing-away-to-ss-lazio-4-2.md) _2018-02-06 13:49:15 (First version)_
 1. [ Internazionale awkwardly hands over the Serie A Scudetto to their bitter rivals Juventus after losing away to SS Lazio, 4-2.](/news/2002/05/5/internazionale-awkwardly-hands-over-the-serie-a-scudetto-to-their-bitter-rivals-juventus-after-losing-away-to-ss-lazio-4a2.md) _(Current version)_
 
 ### Related:

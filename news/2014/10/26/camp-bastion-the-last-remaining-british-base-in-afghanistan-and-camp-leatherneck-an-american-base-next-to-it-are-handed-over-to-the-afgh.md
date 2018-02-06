@@ -16,7 +16,7 @@ The last UK base and a key US base in Afghanistan are handed over to Afghan secu
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Camp Bastion, the last remaining British base in Afghanistan, and Camp Leatherneck, an American base next to it, are handed over to the Afghan Government. ](/news/2014/10/26/war-in-afghanistan-2001-present-camp-bastion-the-last-remaining-british-base-in-afghanistan-and-camp-leatherneck-an-american-base-ne.md) _2017-08-27 03:41:26 (First version)_
+1. [War in Afghanistan (2001-present): Camp Bastion, the last remaining British base in Afghanistan, and Camp Leatherneck, an American base next to it, are handed over to the Afghan Government. ](/news/2014/10/26/war-in-afghanistan-2001-present-camp-bastion-the-last-remaining-british-base-in-afghanistan-and-camp-leatherneck-an-american-base-ne.md) _2018-02-06 13:49:26 (First version)_
 1. [Camp Bastion, the last remaining British base in Afghanistan, and Camp Leatherneck, an American base next to it, are handed over to the Afghan Government. ](/news/2014/10/26/camp-bastion-the-last-remaining-british-base-in-afghanistan-and-camp-leatherneck-an-american-base-next-to-it-are-handed-over-to-the-afgh.md) _(Current version)_
 
 ### Related:

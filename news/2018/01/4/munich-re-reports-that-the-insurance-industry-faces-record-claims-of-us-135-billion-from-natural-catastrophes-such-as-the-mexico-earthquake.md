@@ -16,7 +16,7 @@ The insurance industry will pay record claims of US$135 billion from last year&#
 
 ### Changes:
 
-1. [Munich Re reports that the insurance industry faces record claims of $135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquakes.md) _2018-01-04 18:30:05 (First version)_
+1. [Munich Re reports that the insurance industry faces record claims of $135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquakes.md) _2018-02-06 13:49:31 (First version)_
 1. [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md) _(Current version)_
 
 ### Related:

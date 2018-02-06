@@ -16,8 +16,8 @@ The Syrian government agrees to allow UN inspectors immediate access to the site
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/syrian-civil-war-pthe-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-da.md) _2017-08-25 03:39:12 (First version)_
-2. [Syrian civil war:: The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/syrian-civil-war-the-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-d.md) _2017-08-27 03:39:28 (Update)_
+1. [Syrian civil war:: The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/syrian-civil-war-the-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-d.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/syrian-civil-war-pthe-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-da.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/the-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-damascus.md) _(Current version)_
 
 ### Related:

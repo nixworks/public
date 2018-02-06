@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: drug lord, United States, Jamaica, Kingston, Christopher "Dudus" Coke_
+_Context: Jamaica, United States, drug lord, Christopher "Dudus" Coke, Kingston_
 
 ##### United States
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
@@ -29,7 +29,7 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 
 ##### Cox's Bazar
 ### [At least 49 people are killed during landslides in Cox's Bazar, Bangladesh, with many swept to their deaths as they slept. ](/news/2010/06/16/at-least-49-people-are-killed-during-landslides-in-cox-s-bazar-bangladesh-with-many-swept-to-their-deaths-as-they-slept.md)
-_Context: Cox's Bazar, Bangladesh_
+_Context: Bangladesh, Cox's Bazar_
 
 ##### flooding
 ### [At least 25 people die during flooding in the Var department of Cote d'Azur, Southern France. ](/news/2010/06/16/at-least-25-people-die-during-flooding-in-the-var-department-of-ca-te-d-azur-southern-france.md)
@@ -69,7 +69,7 @@ Colombian informants share a $1.2m reward for helping the rescue of four securit
 
 ##### LeTV
 ### [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md)
-_Context: LeTV, Voole, Sohu_
+_Context: LeTV, Sohu, Voole_
 
 ##### Dutch
 ### [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md)

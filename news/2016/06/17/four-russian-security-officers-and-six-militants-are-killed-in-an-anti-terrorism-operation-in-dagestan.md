@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/17/four-russian-security-officers-and-six-militant
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/insurgency-in-the-north-caucasus-four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md) _2017-08-27 03:46:17 (First version)_
+1. [Insurgency in the North Caucasus: Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/insurgency-in-the-north-caucasus-four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md) _2018-02-06 13:49:29 (First version)_
 1. [Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md) _(Current version)_
 
 ### Related:

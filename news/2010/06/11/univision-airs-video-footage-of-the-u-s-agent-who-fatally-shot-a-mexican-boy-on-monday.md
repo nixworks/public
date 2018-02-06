@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-w
 
 ### Changes:
 
-1. [Mexico - United States relations:Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/mexico-a-united-states-relations-punivision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md) _2017-08-25 03:28:13 (First version)_
-2. [Mexico - United States relations:: Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/mexico-united-states-relations-univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md) _2017-08-27 03:28:13 (Update)_
+1. [Mexico - United States relations:: Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/mexico-united-states-relations-univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md) _2018-02-06 13:49:20 (First version)_
+2. [Mexico - United States relations:Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/mexico-a-united-states-relations-punivision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md) _2018-02-06 13:49:20 (Update)_
 2. [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md) _(Current version)_
 
 ### Related:

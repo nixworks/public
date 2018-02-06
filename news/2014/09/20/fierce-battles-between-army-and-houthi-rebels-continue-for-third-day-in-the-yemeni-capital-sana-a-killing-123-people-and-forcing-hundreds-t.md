@@ -16,7 +16,7 @@ Fierce battles between army and rebels continue for third day in the capital, fo
 
 ### Changes:
 
-1. [Shia insurgency in Yemen: Fierce battles between army and Houthi rebels continue for third day in the Yemeni capital Sana'a, killing 123 people and forcing hundreds to flee their homes. ](/news/2014/09/20/shia-insurgency-in-yemen-fierce-battles-between-army-and-houthi-rebels-continue-for-third-day-in-the-yemeni-capital-sana-a-killing-123-peo.md) _2017-08-27 03:41:18 (First version)_
+1. [Shia insurgency in Yemen: Fierce battles between army and Houthi rebels continue for third day in the Yemeni capital Sana'a, killing 123 people and forcing hundreds to flee their homes. ](/news/2014/09/20/shia-insurgency-in-yemen-fierce-battles-between-army-and-houthi-rebels-continue-for-third-day-in-the-yemeni-capital-sana-a-killing-123-peo.md) _2018-02-06 13:49:26 (First version)_
 1. [Fierce battles between army and Houthi rebels continue for third day in the Yemeni capital Sana'a, killing 123 people and forcing hundreds to flee their homes. ](/news/2014/09/20/fierce-battles-between-army-and-houthi-rebels-continue-for-third-day-in-the-yemeni-capital-sana-a-killing-123-people-and-forcing-hundreds-t.md) _(Current version)_
 
 ### Related:

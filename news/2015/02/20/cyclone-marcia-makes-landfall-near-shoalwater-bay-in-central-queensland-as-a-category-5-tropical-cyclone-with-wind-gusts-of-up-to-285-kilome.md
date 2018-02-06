@@ -17,7 +17,7 @@ Tropical Cyclone Marcia is downgraded to a category two storm after battering th
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Cyclone Marcia makes landfall near Shoalwater Bay in central Queensland as a Category 5 tropical cyclone with wind gusts of up to 285 kilometres per hour. ](/news/2015/02/20/2014-15-australian-region-cyclone-season-cyclone-marcia-makes-landfall-near-shoalwater-bay-in-central-queensland-as-a-category-5-tropical.md) _2017-08-27 03:41:58 (First version)_
+1. [2014-15 Australian region cyclone season: Cyclone Marcia makes landfall near Shoalwater Bay in central Queensland as a Category 5 tropical cyclone with wind gusts of up to 285 kilometres per hour. ](/news/2015/02/20/2014-15-australian-region-cyclone-season-cyclone-marcia-makes-landfall-near-shoalwater-bay-in-central-queensland-as-a-category-5-tropical.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Marcia makes landfall near Shoalwater Bay in central Queensland as a Category 5 tropical cyclone with wind gusts of up to 285 kilometres per hour. ](/news/2015/02/20/cyclone-marcia-makes-landfall-near-shoalwater-bay-in-central-queensland-as-a-category-5-tropical-cyclone-with-wind-gusts-of-up-to-285-kilome.md) _(Current version)_
 
 ### Related:

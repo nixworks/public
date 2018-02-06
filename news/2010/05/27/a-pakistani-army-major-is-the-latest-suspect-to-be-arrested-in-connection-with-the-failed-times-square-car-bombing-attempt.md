@@ -17,8 +17,8 @@ A Pakistani Army major, who was until recently a serving officer, has been arres
 
 ### Changes:
 
-1. [Pakistan:A Pakistani army major is the latest suspect to be arrested in connection with the failed Times Square car bombing attempt. ](/news/2010/05/27/pakistan-pa-pakistani-army-major-is-the-latest-suspect-to-be-arrested-in-connection-with-the-failed-times-square-car-bombing-attempt.md) _2017-08-25 03:28:03 (First version)_
-2. [Pakistan:: A Pakistani army major is the latest suspect to be arrested in connection with the failed Times Square car bombing attempt. ](/news/2010/05/27/pakistan-a-pakistani-army-major-is-the-latest-suspect-to-be-arrested-in-connection-with-the-failed-times-square-car-bombing-attempt.md) _2017-08-27 03:28:01 (Update)_
+1. [Pakistan:A Pakistani army major is the latest suspect to be arrested in connection with the failed Times Square car bombing attempt. ](/news/2010/05/27/pakistan-pa-pakistani-army-major-is-the-latest-suspect-to-be-arrested-in-connection-with-the-failed-times-square-car-bombing-attempt.md) _2018-02-06 13:49:20 (First version)_
+2. [Pakistan:: A Pakistani army major is the latest suspect to be arrested in connection with the failed Times Square car bombing attempt. ](/news/2010/05/27/pakistan-a-pakistani-army-major-is-the-latest-suspect-to-be-arrested-in-connection-with-the-failed-times-square-car-bombing-attempt.md) _2018-02-06 13:49:20 (Update)_
 2. [A Pakistani army major is the latest suspect to be arrested in connection with the failed Times Square car bombing attempt. ](/news/2010/05/27/a-pakistani-army-major-is-the-latest-suspect-to-be-arrested-in-connection-with-the-failed-times-square-car-bombing-attempt.md) _(Current version)_
 
 ### Related:

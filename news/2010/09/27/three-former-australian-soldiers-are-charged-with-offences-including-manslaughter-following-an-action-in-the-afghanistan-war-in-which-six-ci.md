@@ -17,8 +17,8 @@ Taliban militants are holding the British woman kidnapped in Afghanistan and wan
 
 ### Changes:
 
-1. [Afghanistan:Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-pthree-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-in.md) _2017-08-25 03:30:14 (First version)_
-2. [Afghanistan:: Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-three-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-i.md) _2017-08-27 03:30:18 (Update)_
+1. [Afghanistan:: Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-three-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-i.md) _2018-02-06 13:49:20 (First version)_
+2. [Afghanistan:Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-pthree-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-in.md) _2018-02-06 13:49:20 (Update)_
 2. [Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/three-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-in-which-six-ci.md) _(Current version)_
 
 ### Related:

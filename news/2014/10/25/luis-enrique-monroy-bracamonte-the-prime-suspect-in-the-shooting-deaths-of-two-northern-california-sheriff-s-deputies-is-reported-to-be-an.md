@@ -16,7 +16,7 @@ U.S. immigration officials said Saturday that the man accused of killing two Nor
 
 ### Changes:
 
-1. [2014 shooting of Sacramento police officers: Luis Enrique Monroy Bracamonte, the prime suspect in the shooting deaths of two Northern California sheriff's deputies, is reported to be an illegal immigrant from Mexico. ](/news/2014/10/25/2014-shooting-of-sacramento-police-officers-luis-enrique-monroy-bracamonte-the-prime-suspect-in-the-shooting-deaths-of-two-northern-califo.md) _2017-08-27 03:41:26 (First version)_
+1. [2014 shooting of Sacramento police officers: Luis Enrique Monroy Bracamonte, the prime suspect in the shooting deaths of two Northern California sheriff's deputies, is reported to be an illegal immigrant from Mexico. ](/news/2014/10/25/2014-shooting-of-sacramento-police-officers-luis-enrique-monroy-bracamonte-the-prime-suspect-in-the-shooting-deaths-of-two-northern-califo.md) _2018-02-06 13:49:26 (First version)_
 1. [Luis Enrique Monroy Bracamonte, the prime suspect in the shooting deaths of two Northern California sheriff's deputies, is reported to be an illegal immigrant from Mexico. ](/news/2014/10/25/luis-enrique-monroy-bracamonte-the-prime-suspect-in-the-shooting-deaths-of-two-northern-california-sheriff-s-deputies-is-reported-to-be-an.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/06/2/two-alleged-islamic-jihad-members-involved-in-a-
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/israeli-palestinian-conflict-p-two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by.md) _2017-08-25 03:16:19 (First version)_
-2. [ Israeli-Palestinian Conflict:: Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/israeli-palestinian-conflict-two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by.md) _2017-08-27 03:16:22 (Update)_
+1. [ Israeli-Palestinian Conflict:: Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/israeli-palestinian-conflict-two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict: Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/israeli-palestinian-conflict-p-two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by.md) _2018-02-06 13:49:16 (Update)_
 2. [ Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by-idf-forces.md) _(Current version)_
 
 ### Related:

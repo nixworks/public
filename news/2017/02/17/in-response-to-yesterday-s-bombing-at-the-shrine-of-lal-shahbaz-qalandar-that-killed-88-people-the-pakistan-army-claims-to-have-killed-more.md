@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/17/in-response-to-yesterday-s-bombing-at-the-shrin
 
 ### Changes:
 
-1. [War in North-West Pakistan: In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/war-in-north-west-pakistan-in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-arm.md) _2017-08-27 03:47:50 (First version)_
+1. [War in North-West Pakistan: In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/war-in-north-west-pakistan-in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-arm.md) _2018-02-06 13:49:30 (First version)_
 1. [In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-army-claims-to-have-killed-more.md) _(Current version)_
 
 ### Related:

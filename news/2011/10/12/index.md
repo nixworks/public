@@ -17,7 +17,7 @@ _Context: 2011 United States listeriosis outbreak, foodborne illness_
 
 ##### a shooting at a hair salon
 ### [At least eight people are killed and one is seriously injured in a shooting at a hair salon in Seal Beach, California, USA. ](/news/2011/10/12/at-least-eight-people-are-killed-and-one-is-seriously-injured-in-a-shooting-at-a-hair-salon-in-seal-beach-california-usa.md)
-_Context: a shooting at a hair salon, Seal Beach, California_
+_Context: Seal Beach, California, a shooting at a hair salon_
 
 ##### Umar Farouk Abdulmutallab
 ### [Umar Farouk Abdulmutallab, a Nigerian man also known as the "underwear bomber", pleads guilty to attempting to blow up an airliner on Christmas Day 2009 in a trial in the U.S. city of Detroit, Michigan. ](/news/2011/10/12/umar-farouk-abdulmutallab-a-nigerian-man-also-known-as-the-underwear-bomber-pleads-guilty-to-attempting-to-blow-up-an-airliner-on-christ.md)

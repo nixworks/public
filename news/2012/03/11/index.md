@@ -9,7 +9,7 @@ A US soldier in Afghanistan shoots dead 16 civilians and wounds others after ent
 
 ##### Inter-ethnic violence
 ### [Inter-ethnic violence is reported in the Macedonian cities of Skopje and Tetovo overnight. ](/news/2012/03/11/inter-ethnic-violence-is-reported-in-the-macedonian-cities-of-skopje-and-tetovo-overnight.md)
-_Context: Inter-ethnic violence, Tetovo, Macedonian, Skopje_
+_Context: Tetovo, Skopje, Inter-ethnic violence, Republic of Macedonia_
 
 ##### Krsna Hrka
 ### [Slovakia's Krsna Hrka castle is heavily damaged in a fire. ](/news/2012/03/11/slovakia-s-krasna-horka-castle-is-heavily-damaged-in-a-fire.md)

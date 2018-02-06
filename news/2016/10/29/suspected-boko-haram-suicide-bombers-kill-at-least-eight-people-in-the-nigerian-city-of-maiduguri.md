@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-le
 
 ### Changes:
 
-1. [Boko Haram insurgency: Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/boko-haram-insurgency-suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _2017-08-27 03:47:08 (First version)_
+1. [Boko Haram insurgency: Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/boko-haram-insurgency-suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _2018-02-06 13:49:29 (First version)_
 1. [Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md) _(Current version)_
 
 ### Related:

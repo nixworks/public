@@ -16,7 +16,7 @@ Another @BmoreCityDOT warning about traffic congestion, &quot;unpredictable cond
 
 ### Changes:
 
-1. [Death of Freddie Gray: Twelve people are arrested in the American city of Baltimore as protests against the death of Freddie Gray in police custody turn violent. ](/news/2015/04/25/death-of-freddie-gray-twelve-people-are-arrested-in-the-american-city-of-baltimore-as-protests-against-the-death-of-freddie-gray-in-police.md) _2017-08-27 03:42:15 (First version)_
+1. [Death of Freddie Gray: Twelve people are arrested in the American city of Baltimore as protests against the death of Freddie Gray in police custody turn violent. ](/news/2015/04/25/death-of-freddie-gray-twelve-people-are-arrested-in-the-american-city-of-baltimore-as-protests-against-the-death-of-freddie-gray-in-police.md) _2018-02-06 13:49:27 (First version)_
 1. [Twelve people are arrested in the American city of Baltimore as protests against the death of Freddie Gray in police custody turn violent. ](/news/2015/04/25/twelve-people-are-arrested-in-the-american-city-of-baltimore-as-protests-against-the-death-of-freddie-gray-in-police-custody-turn-violent.md) _(Current version)_
 
 ### Related:

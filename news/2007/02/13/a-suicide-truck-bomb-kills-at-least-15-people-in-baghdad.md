@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-i
 
 ### Changes:
 
-1. [ Iraq War: A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-p-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md) _2017-08-25 03:19:11 (First version)_
-2. [ Iraq War:: A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md) _2017-08-27 03:19:07 (Update)_
+1. [ Iraq War: A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-p-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md) _2018-02-06 13:49:17 (Update)_
 2. [ A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md) _(Current version)_
 
 ### Related:

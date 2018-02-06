@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/12/people-in-the-breakaway-state-of-abkhazia-go-to
 
 ### Changes:
 
-1. [Abkhazian parliamentary election, 2017: People in the breakaway state of Abkhazia go to the polls for an election. ](/news/2017/03/12/abkhazian-parliamentary-election-2017-people-in-the-breakaway-state-of-abkhazia-go-to-the-polls-for-an-election.md) _2017-08-27 03:47:58 (First version)_
+1. [Abkhazian parliamentary election, 2017: People in the breakaway state of Abkhazia go to the polls for an election. ](/news/2017/03/12/abkhazian-parliamentary-election-2017-people-in-the-breakaway-state-of-abkhazia-go-to-the-polls-for-an-election.md) _2018-02-06 13:49:30 (First version)_
 1. [People in the breakaway state of Abkhazia go to the polls for an election. ](/news/2017/03/12/people-in-the-breakaway-state-of-abkhazia-go-to-the-polls-for-an-election.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/11/15/after-a-meeting-with-russian-officials-in-mosco
 
 ### Changes:
 
-1. [Syrian uprising:After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/syrian-uprising-pafter-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-in.md) _2017-08-25 03:34:29 (First version)_
-2. [Syrian uprising:: After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/syrian-uprising-after-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-i.md) _2017-08-27 03:34:39 (Update)_
+1. [Syrian uprising:After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/syrian-uprising-pafter-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-in.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:: After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/syrian-uprising-after-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-i.md) _2018-02-06 13:49:23 (Update)_
 2. [After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/after-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-introduced-into-syr.md) _(Current version)_
 
 ### Related:

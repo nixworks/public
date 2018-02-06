@@ -17,8 +17,8 @@ EU names 13 Syrian officials on sanctions list, including a brother and influent
 
 ### Changes:
 
-1. [2011 Syrian uprising:The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/2011-syrian-uprising-pthe-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-coun.md) _2017-08-25 03:33:04 (First version)_
-2. [2011 Syrian uprising:: The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/2011-syrian-uprising-the-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-cou.md) _2017-08-27 03:33:13 (Update)_
+1. [2011 Syrian uprising:: The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/2011-syrian-uprising-the-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-cou.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/2011-syrian-uprising-pthe-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-coun.md) _2018-02-06 13:49:22 (Update)_
 2. [The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/the-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-country.md) _(Current version)_
 
 ### Related:

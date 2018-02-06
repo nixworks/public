@@ -20,8 +20,8 @@ Police moved WikiLeaks chief Julian Assange to the segregation unit of a London 
 
 ### Changes:
 
-1. [Detention of Julian Assange:WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/detention-of-julian-assange-pwikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his-o.md) _2017-08-25 03:31:22 (First version)_
-2. [Detention of Julian Assange:: WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/detention-of-julian-assange-wikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his.md) _2017-08-27 03:31:29 (Update)_
+1. [Detention of Julian Assange:: WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/detention-of-julian-assange-wikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his.md) _2018-02-06 13:49:21 (First version)_
+2. [Detention of Julian Assange:WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/detention-of-julian-assange-pwikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his-o.md) _2018-02-06 13:49:21 (Update)_
 2. [WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/wikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his-own-safety-presumably-says.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/9/nato-members-in-warsaw-poland-agree-to-extend-th
 
 ### Changes:
 
-1. [2016 Warsaw summit: NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/2016-warsaw-summit-nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-cont.md) _2017-08-27 03:46:27 (First version)_
+1. [2016 Warsaw summit: NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/2016-warsaw-summit-nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-cont.md) _2018-02-06 13:49:29 (First version)_
 1. [NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-continue-to-fund-the-afg.md) _(Current version)_
 
 ### Related:

@@ -17,9 +17,9 @@ Formats: [HTML](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-pa
 
 ### Changes:
 
-1. [An unknown person or organization leaks a draft campaign manifesto of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-of-the-labour-party.md) _2017-05-11 19:30:07 (First version)_
-2. [An unknown person or organization leaks a draft campaign manifesto, described as "the most left-wing," of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party.md) _2017-05-11 23:30:06 (Update)_
-3. [United Kingdom general election, 2017: An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/united-kingdom-general-election-2017-an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-le.md) _2017-08-27 03:48:19 (Update)_
+1. [United Kingdom general election, 2017: An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/united-kingdom-general-election-2017-an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-le.md) _2018-02-06 13:49:30 (First version)_
+2. [An unknown person or organization leaks a draft campaign manifesto of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-of-the-labour-party.md) _2018-02-06 13:49:30 (Update)_
+3. [An unknown person or organization leaks a draft campaign manifesto, described as "the most left-wing," of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party.md) _2018-02-06 13:49:30 (Update)_
 3. [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md) _(Current version)_
 
 ### Related:

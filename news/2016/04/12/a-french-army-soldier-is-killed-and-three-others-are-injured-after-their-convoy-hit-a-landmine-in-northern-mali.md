@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ Operation Barkhane: A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. ](/news/2016/04/12/operation-barkhane-a-french-army-soldier-is-killed-and-three-others-are-injured-after-their-convoy-hit-a-landmine-in-northern-mali.md) _2017-08-27 03:45:35 (First version)_
+1. [ Operation Barkhane: A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. ](/news/2016/04/12/operation-barkhane-a-french-army-soldier-is-killed-and-three-others-are-injured-after-their-convoy-hit-a-landmine-in-northern-mali.md) _2018-02-06 13:49:28 (First version)_
 1. [ A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. ](/news/2016/04/12/a-french-army-soldier-is-killed-and-three-others-are-injured-after-their-convoy-hit-a-landmine-in-northern-mali.md) _(Current version)_
 
 ### Related:

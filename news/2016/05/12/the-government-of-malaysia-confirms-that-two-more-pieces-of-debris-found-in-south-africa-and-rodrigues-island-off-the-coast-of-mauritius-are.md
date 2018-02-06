@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/12/the-government-of-malaysia-confirms-that-two-mo
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: The Government of Malaysia confirms that two more pieces of debris found in South Africa and Rodrigues Island off the coast of Mauritius are "almost certainly" from Malaysia Airlines 370 that disappeared two years ago. ](/news/2016/05/12/malaysia-airlines-flight-370-the-government-of-malaysia-confirms-that-two-more-pieces-of-debris-found-in-south-africa-and-rodrigues-island.md) _2017-08-27 03:46:01 (First version)_
+1. [Malaysia Airlines Flight 370: The Government of Malaysia confirms that two more pieces of debris found in South Africa and Rodrigues Island off the coast of Mauritius are "almost certainly" from Malaysia Airlines 370 that disappeared two years ago. ](/news/2016/05/12/malaysia-airlines-flight-370-the-government-of-malaysia-confirms-that-two-more-pieces-of-debris-found-in-south-africa-and-rodrigues-island.md) _2018-02-06 13:49:29 (First version)_
 1. [The Government of Malaysia confirms that two more pieces of debris found in South Africa and Rodrigues Island off the coast of Mauritius are "almost certainly" from Malaysia Airlines 370 that disappeared two years ago. ](/news/2016/05/12/the-government-of-malaysia-confirms-that-two-more-pieces-of-debris-found-in-south-africa-and-rodrigues-island-off-the-coast-of-mauritius-are.md) _(Current version)_
 
 ### Related:

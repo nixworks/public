@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athen
 
 ### Changes:
 
-1. [Tens of thousands of people manifest in Athens against the willingness demonstrated by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-manifest-in-athens-against-the-willingness-demonstrated-by-the-cabinet-of-greece-to-make-concessions-in-the-long.md) _2018-02-04 19:30:14 (First version)_
+1. [Tens of thousands of people manifest in Athens against the willingness demonstrated by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-manifest-in-athens-against-the-willingness-demonstrated-by-the-cabinet-of-greece-to-make-concessions-in-the-long.md) _2018-02-06 13:49:31 (First version)_
 1. [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md) _(Current version)_
 
 ### Related:

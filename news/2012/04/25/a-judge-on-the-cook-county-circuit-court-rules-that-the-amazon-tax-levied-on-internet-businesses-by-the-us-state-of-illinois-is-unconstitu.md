@@ -16,7 +16,7 @@ An Illinois law aimed at leveling competition between online and offline retaile
 
 ### Changes:
 
-1. [A judge on the Cook County Circuit Court rules that the ''Amazon tax'' levied on Internet businesses by the US state of Illinois is unconstitutional. ](/news/2012/04/25/a-judge-on-the-cook-county-circuit-court-rules-that-the-amazon-tax-levied-on-internet-businesses-by-the-us-state-of-illinois-is-unconsti.md) _2017-08-25 03:35:33 (First version)_
+1. [A judge on the Cook County Circuit Court rules that the ''Amazon tax'' levied on Internet businesses by the US state of Illinois is unconstitutional. ](/news/2012/04/25/a-judge-on-the-cook-county-circuit-court-rules-that-the-amazon-tax-levied-on-internet-businesses-by-the-us-state-of-illinois-is-unconsti.md) _2018-02-06 13:49:23 (First version)_
 1. [A judge on the Cook County Circuit Court rules that the "Amazon tax" levied on Internet businesses by the US state of Illinois is unconstitutional. ](/news/2012/04/25/a-judge-on-the-cook-county-circuit-court-rules-that-the-amazon-tax-levied-on-internet-businesses-by-the-us-state-of-illinois-is-unconstitu.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A disease known as white-nose syndrome is likely to wipe out a once-common speci
 
 ### Changes:
 
-1. [According to scientists, one million little brown bats (''Myotis lucifugus'') have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-am.md) _2017-08-25 03:29:14 (First version)_
+1. [According to scientists, one million little brown bats (''Myotis lucifugus'') have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-am.md) _2018-02-06 13:49:20 (First version)_
 1. [According to scientists, one million little brown bats ("Myotis lucifugus") have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-amer.md) _(Current version)_
 
 ### Related:

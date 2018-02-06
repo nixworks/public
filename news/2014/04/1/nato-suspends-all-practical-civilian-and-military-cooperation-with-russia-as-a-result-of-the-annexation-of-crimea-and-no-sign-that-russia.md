@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/1/nato-suspends-all-practical-civilian-and-militar
 
 ### Changes:
 
-1. [2014 Crimean crisis:NATO suspends "all practical civilian and military cooperation" with Russia as a result of the annexation of Crimea, and no sign that Russian troops have withdrawn from the Ukrainian border. ](/news/2014/04/1/2014-crimean-crisis-pnato-suspends-all-practical-civilian-and-military-cooperation-with-russia-as-a-result-of-the-annexation-of-crimea-an.md) _2017-08-25 03:40:14 (First version)_
-2. [2014 Crimean crisis:: NATO suspends "all practical civilian and military cooperation" with Russia as a result of the annexation of Crimea, and no sign that Russian troops have withdrawn from the Ukrainian border. ](/news/2014/04/1/2014-crimean-crisis-nato-suspends-all-practical-civilian-and-military-cooperation-with-russia-as-a-result-of-the-annexation-of-crimea-a.md) _2017-08-27 03:40:32 (Update)_
+1. [2014 Crimean crisis:NATO suspends "all practical civilian and military cooperation" with Russia as a result of the annexation of Crimea, and no sign that Russian troops have withdrawn from the Ukrainian border. ](/news/2014/04/1/2014-crimean-crisis-pnato-suspends-all-practical-civilian-and-military-cooperation-with-russia-as-a-result-of-the-annexation-of-crimea-an.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:: NATO suspends "all practical civilian and military cooperation" with Russia as a result of the annexation of Crimea, and no sign that Russian troops have withdrawn from the Ukrainian border. ](/news/2014/04/1/2014-crimean-crisis-nato-suspends-all-practical-civilian-and-military-cooperation-with-russia-as-a-result-of-the-annexation-of-crimea-a.md) _2018-02-06 13:49:26 (Update)_
 2. [NATO suspends "all practical civilian and military cooperation" with Russia as a result of the annexation of Crimea, and no sign that Russian troops have withdrawn from the Ukrainian border. ](/news/2014/04/1/nato-suspends-all-practical-civilian-and-military-cooperation-with-russia-as-a-result-of-the-annexation-of-crimea-and-no-sign-that-russia.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Guam - A website dedicated to stopping cyber bullying on Guam has been launched.
 
 ### Changes:
 
-1. [ The 11th Micronesian Chief Executives- Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executives-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _2017-08-27 03:25:02 (First version)_
+1. [ The 11th Micronesian Chief Executives- Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executives-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _2018-02-06 13:49:19 (First version)_
 1. [ The 11th Micronesian Chief Executives' Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _(Current version)_
 
 ### Related:

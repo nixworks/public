@@ -16,7 +16,7 @@ Syrian rebel fighters launch an assault on government-held districts of Aleppo, 
 
 ### Changes:
 
-1. [Syrian Civil War: Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. ](/news/2016/07/11/syrian-civil-war-rebels-in-aleppo-launch-an-assault-on-government-controlled-areas-in-the-city-this-comes-after-the-syrian-army-blocked-of.md) _2017-08-27 03:46:28 (First version)_
+1. [Syrian Civil War: Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. ](/news/2016/07/11/syrian-civil-war-rebels-in-aleppo-launch-an-assault-on-government-controlled-areas-in-the-city-this-comes-after-the-syrian-army-blocked-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. ](/news/2016/07/11/rebels-in-aleppo-launch-an-assault-on-government-controlled-areas-in-the-city-this-comes-after-the-syrian-army-blocked-off-the-only-road-le.md) _(Current version)_
 
 ### Related:

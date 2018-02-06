@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/03/1/one-of-islamist-organization-al-qaeda-s-most-fea
 
 ### Changes:
 
-1. [Northern Mali conflict:One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-pone-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian.md) _2017-08-25 03:37:42 (First version)_
-2. [Northern Mali conflict:: One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadia.md) _2017-08-27 03:37:53 (Update)_
+1. [Northern Mali conflict:One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-pone-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:: One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadia.md) _2018-02-06 13:49:24 (Update)_
 2. [One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian-forces-in-northern-mali.md) _(Current version)_
 
 ### Related:

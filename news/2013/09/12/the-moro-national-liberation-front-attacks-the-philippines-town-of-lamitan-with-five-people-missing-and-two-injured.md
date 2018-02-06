@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/09/12/the-moro-national-liberation-front-attacks-the-
 
 ### Changes:
 
-1. [Islamic insurgency in the Philippines:The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/islamic-insurgency-in-the-philippines-pthe-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing-a.md) _2017-08-25 03:39:15 (First version)_
-2. [Islamic insurgency in the Philippines:: The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/islamic-insurgency-in-the-philippines-the-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing.md) _2017-08-27 03:39:32 (Update)_
+1. [Islamic insurgency in the Philippines:: The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/islamic-insurgency-in-the-philippines-the-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamic insurgency in the Philippines:The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/islamic-insurgency-in-the-philippines-pthe-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing-a.md) _2018-02-06 13:49:25 (Update)_
 2. [The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/the-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing-and-two-injured.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/03/29/king-abdullah-of-saudi-arabia-describes-u-s-pre
 
 ### Changes:
 
-1. [ War in Iraq: King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/war-in-iraq-p-king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md) _2017-08-25 03:19:30 (First version)_
-2. [ War in Iraq:: King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/war-in-iraq-king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md) _2017-08-27 03:19:26 (Update)_
+1. [ War in Iraq: King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/war-in-iraq-p-king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Iraq:: King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/war-in-iraq-king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md) _2018-02-06 13:49:17 (Update)_
 2. [ King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md) _(Current version)_
 
 ### Related:

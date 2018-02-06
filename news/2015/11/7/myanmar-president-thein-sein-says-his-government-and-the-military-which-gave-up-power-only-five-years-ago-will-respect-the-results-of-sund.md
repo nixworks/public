@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/7/myanmar-president-thein-sein-says-his-government
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Myanmar president Thein Sein says his government and the military, which gave up power only five years ago, will respect the results of Sunday's historic elections that are expected to be won by opposition leader Aung San Suu Kyi's NLD party. ](/news/2015/11/7/myanmar-general-election-2015-myanmar-president-thein-sein-says-his-government-and-the-military-which-gave-up-power-only-five-years-ago.md) _2017-08-27 03:43:43 (First version)_
+1. [Myanmar general election, 2015: Myanmar president Thein Sein says his government and the military, which gave up power only five years ago, will respect the results of Sunday's historic elections that are expected to be won by opposition leader Aung San Suu Kyi's NLD party. ](/news/2015/11/7/myanmar-general-election-2015-myanmar-president-thein-sein-says-his-government-and-the-military-which-gave-up-power-only-five-years-ago.md) _2018-02-06 13:49:28 (First version)_
 1. [Myanmar president Thein Sein says his government and the military, which gave up power only five years ago, will respect the results of Sunday's historic elections that are expected to be won by opposition leader Aung San Suu Kyi's NLD party. ](/news/2015/11/7/myanmar-president-thein-sein-says-his-government-and-the-military-which-gave-up-power-only-five-years-ago-will-respect-the-results-of-sund.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Indian authorities urged hospitals to treat heatstroke as an emergency as the to
 
 ### Changes:
 
-1. [2015 Indian heat wave: The official death toll from the Indian heat wave passes 1,800 making it the deadliest heatwave in more than two decades. ](/news/2015/05/29/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-passes-1-800-making-it-the-deadliest-heatwave-in-more-than-two-deca.md) _2017-08-27 03:42:26 (First version)_
+1. [2015 Indian heat wave: The official death toll from the Indian heat wave passes 1,800 making it the deadliest heatwave in more than two decades. ](/news/2015/05/29/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-passes-1-800-making-it-the-deadliest-heatwave-in-more-than-two-deca.md) _2018-02-06 13:49:27 (First version)_
 1. [The official death toll from the Indian heat wave passes 1,800 making it the deadliest heatwave in more than two decades. ](/news/2015/05/29/the-official-death-toll-from-the-indian-heat-wave-passes-1-800-making-it-the-deadliest-heatwave-in-more-than-two-decades.md) _(Current version)_
 
 ### Related:

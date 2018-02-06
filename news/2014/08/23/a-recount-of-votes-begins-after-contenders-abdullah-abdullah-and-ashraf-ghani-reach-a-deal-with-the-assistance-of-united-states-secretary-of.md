@@ -16,7 +16,7 @@ Afghan presidential hopeful Ashraf Ghani says US Secretary of State John Kerry h
 
 ### Changes:
 
-1. [Afghan presidential election, 2014: A recount of votes begins after contenders Abdullah Abdullah and Ashraf Ghani reach a deal with the assistance of United States Secretary of State John Kerry. ](/news/2014/08/23/afghan-presidential-election-2014-a-recount-of-votes-begins-after-contenders-abdullah-abdullah-and-ashraf-ghani-reach-a-deal-with-the-assi.md) _2017-08-27 03:41:11 (First version)_
+1. [Afghan presidential election, 2014: A recount of votes begins after contenders Abdullah Abdullah and Ashraf Ghani reach a deal with the assistance of United States Secretary of State John Kerry. ](/news/2014/08/23/afghan-presidential-election-2014-a-recount-of-votes-begins-after-contenders-abdullah-abdullah-and-ashraf-ghani-reach-a-deal-with-the-assi.md) _2018-02-06 13:49:26 (First version)_
 1. [A recount of votes begins after contenders Abdullah Abdullah and Ashraf Ghani reach a deal with the assistance of United States Secretary of State John Kerry. ](/news/2014/08/23/a-recount-of-votes-begins-after-contenders-abdullah-abdullah-and-ashraf-ghani-reach-a-deal-with-the-assistance-of-united-states-secretary-of.md) _(Current version)_
 
 ### Related:

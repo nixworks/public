@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/08/13/xvi-international-aids-conference-2006-is-conve
 
 ### Changes:
 
-1. [ XVI International AIDS Conference, 2006 is convened in Toronto, Canada. ](/news/2006/08/13/xvi-international-aids-conference-2006-is-convened-in-toronto-canada.md) _2017-08-25 03:18:11 (First version)_
+1. [ XVI International AIDS Conference, 2006 is convened in Toronto, Canada. ](/news/2006/08/13/xvi-international-aids-conference-2006-is-convened-in-toronto-canada.md) _2018-02-06 13:49:17 (First version)_
 1. [ XVI International AIDS Conference, 2006 is convened in Toronto, Canada. [http:--www.cbc.ca-canada-story-2006-08-13-aids-conference.html (CBC)], [http:--news.bbc.co.uk-1-hi-health-4783521.stm (BBC)], (Wikinews)](/news/2006/08/13/xvi-international-aids-conference-2006-is-convened-in-toronto-canada-http-www-cbc-ca-canada-story-2006-08-13-aids-conference-html-cb.md) _(Current version)_
 
 ### Related:

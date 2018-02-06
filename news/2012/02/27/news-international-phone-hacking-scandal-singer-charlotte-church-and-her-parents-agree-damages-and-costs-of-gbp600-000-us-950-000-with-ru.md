@@ -16,7 +16,7 @@ Singer Charlotte Church says she is &quot;sickened&quot; by what she discovered 
 
 ### Changes:
 
-1. [News International phone hacking scandal: Singer Charlotte Church and her parents agree damages and costs of 600,000 (US$950,000) with Rupert Murdoch's News Group, publishers of the defunct ''News of the World''. ](/news/2012/02/27/news-international-phone-hacking-scandal-singer-charlotte-church-and-her-parents-agree-damages-and-costs-of-ps600-000-us-950-000-with-rupe.md) _2017-08-25 03:35:09 (First version)_
+1. [News International phone hacking scandal: Singer Charlotte Church and her parents agree damages and costs of 600,000 (US$950,000) with Rupert Murdoch's News Group, publishers of the defunct ''News of the World''. ](/news/2012/02/27/news-international-phone-hacking-scandal-singer-charlotte-church-and-her-parents-agree-damages-and-costs-of-ps600-000-us-950-000-with-rupe.md) _2018-02-06 13:49:23 (First version)_
 1. [News International phone hacking scandal: Singer Charlotte Church and her parents agree damages and costs of GBP600,000 (US$950,000) with Rupert Murdoch's News Group, publishers of the defunct "News of the World". ](/news/2012/02/27/news-international-phone-hacking-scandal-singer-charlotte-church-and-her-parents-agree-damages-and-costs-of-gbp600-000-us-950-000-with-ru.md) _(Current version)_
 
 ### Related:

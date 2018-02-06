@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/11/7/chinese-president-xi-jinping-and-taiwanese-presi
 
 ### Changes:
 
-1. [ Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-first-meeting-between-a-chinese-and-taiwanese-lea.md) _2017-08-25 03:43:24 (First version)_
-2. [ Cross-Strait relations: 2015 Ma-Xi Meeting: Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/cross-strait-relations-2015-ma-xi-meeting-chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-firs.md) _2017-08-27 03:43:43 (Update)_
+1. [ Cross-Strait relations: 2015 Ma-Xi Meeting: Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/cross-strait-relations-2015-ma-xi-meeting-chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-firs.md) _2018-02-06 13:49:28 (First version)_
+2. [ Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-first-meeting-between-a-chinese-and-taiwanese-lea.md) _2018-02-06 13:49:28 (Update)_
 2. [ Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-first-meeting-between-a-chinese-and-taiwanese-lead.md) _(Current version)_
 
 ### Related:

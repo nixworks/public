@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/13/four-people-are-killed-and-over-50-injured-when
 
 ### Changes:
 
-1. [ Four people are killed and over 50 injured when rear carriages of Probhati Express derails near Dhaka, Bangladesh.{{Fact|date=December 2007}}](/news/2007/10/13/four-people-are-killed-and-over-50-injured-when-rear-carriages-of-probhati-express-derails-near-dhaka-bangladesh-fact-date-december-2007.md) _2017-05-01 03:22:02 (First version)_
+1. [ Four people are killed and over 50 injured when rear carriages of Probhati Express derails near Dhaka, Bangladesh.{{Fact|date=December 2007}}](/news/2007/10/13/four-people-are-killed-and-over-50-injured-when-rear-carriages-of-probhati-express-derails-near-dhaka-bangladesh-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ Four people are killed and over 50 injured when rear carriages of Probhati Express derails near Dhaka, Bangladesh.date=December 2007](/news/2007/10/13/four-people-are-killed-and-over-50-injured-when-rear-carriages-of-probhati-express-derails-near-dhaka-bangladesh-date-december-2007.md) _(Current version)_
 
 ### Related:

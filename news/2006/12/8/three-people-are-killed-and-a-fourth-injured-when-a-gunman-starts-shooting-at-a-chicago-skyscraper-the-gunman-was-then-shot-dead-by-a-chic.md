@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/8/three-people-are-killed-and-a-fourth-injured-whe
 
 ### Changes:
 
-1. [ Three people are killed and a fourth injured when a gunman starts shooting at a Chicago skyscraper. The gunman was then shot dead by a Chicago Police Department SWAT sniper. ](/news/2006/12/8/three-people-are-killed-and-a-fourth-injured-when-a-gunman-starts-shooting-at-a-chicago-skyscraper-the-gunman-was-then-shot-dead-by-a-chi.md) _2017-08-25 03:18:54 (First version)_
+1. [ Three people are killed and a fourth injured when a gunman starts shooting at a Chicago skyscraper. The gunman was then shot dead by a Chicago Police Department SWAT sniper. ](/news/2006/12/8/three-people-are-killed-and-a-fourth-injured-when-a-gunman-starts-shooting-at-a-chicago-skyscraper-the-gunman-was-then-shot-dead-by-a-chi.md) _2018-02-06 13:49:17 (First version)_
 1. [ Three people are killed and a fourth injured when a gunman starts shooting at a Chicago skyscraper. The gunman was then shot dead by a Chicago Police Department SWAT sniper. ](/news/2006/12/8/three-people-are-killed-and-a-fourth-injured-when-a-gunman-starts-shooting-at-a-chicago-skyscraper-the-gunman-was-then-shot-dead-by-a-chic.md) _(Current version)_
 
 ### Related:

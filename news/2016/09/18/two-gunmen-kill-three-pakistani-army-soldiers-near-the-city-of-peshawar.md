@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-n
 
 ### Changes:
 
-1. [War in North-West Pakistan: Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/war-in-north-west-pakistan-two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md) _2017-08-27 03:46:52 (First version)_
+1. [War in North-West Pakistan: Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/war-in-north-west-pakistan-two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md) _2018-02-06 13:49:29 (First version)_
 1. [Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md) _(Current version)_
 
 ### Related:

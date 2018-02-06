@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/11/iraq-s-embattled-prime-minister-nouri-al-maliki
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Iraq's embattled Prime Minister Nouri al-Maliki says that he will file a legal complaint against President Fuad Masum for opposing Maliki's reappointment. ](/news/2014/08/11/iraqi-insurgency-2011-present-iraq-s-embattled-prime-minister-nouri-al-maliki-says-that-he-will-file-a-legal-complaint-against-presiden.md) _2017-08-27 03:41:08 (First version)_
+1. [Iraqi insurgency (2011-present): Iraq's embattled Prime Minister Nouri al-Maliki says that he will file a legal complaint against President Fuad Masum for opposing Maliki's reappointment. ](/news/2014/08/11/iraqi-insurgency-2011-present-iraq-s-embattled-prime-minister-nouri-al-maliki-says-that-he-will-file-a-legal-complaint-against-presiden.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraq's embattled Prime Minister Nouri al-Maliki says that he will file a legal complaint against President Fuad Masum for opposing Maliki's reappointment. ](/news/2014/08/11/iraq-s-embattled-prime-minister-nouri-al-maliki-says-that-he-will-file-a-legal-complaint-against-president-fuad-masum-for-opposing-maliki-s.md) _(Current version)_
 
 ### Related:

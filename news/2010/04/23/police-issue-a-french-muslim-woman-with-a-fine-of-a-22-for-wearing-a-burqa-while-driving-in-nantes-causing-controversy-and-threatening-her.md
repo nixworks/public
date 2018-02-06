@@ -19,7 +19,7 @@ A FRENCH Muslim woman has been fined for driving while wearing a full-face veil,
 
 ### Changes:
 
-1. [Police issue a French Muslim woman with a fine of -22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _2017-08-27 03:27:41 (First version)_
+1. [Police issue a French Muslim woman with a fine of -22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _2018-02-06 13:49:19 (First version)_
 1. [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _(Current version)_
 
 ### Related:

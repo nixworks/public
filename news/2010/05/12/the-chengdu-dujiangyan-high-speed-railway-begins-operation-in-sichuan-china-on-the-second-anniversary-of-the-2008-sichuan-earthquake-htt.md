@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/05/12/the-chengdu-dujiangyan-high-speed-railway-begin
 
 ### Changes:
 
-1. [The Chengdu-Dujiangyan High-Speed Railway begins operation in Sichuan, China, on the second anniversary of the 2008 Sichuan earthquake. ](/news/2010/05/12/the-chengdu-dujiangyan-high-speed-railway-begins-operation-in-sichuan-china-on-the-second-anniversary-of-the-2008-sichuan-earthquake.md) _2017-08-25 03:27:54 (First version)_
+1. [The Chengdu-Dujiangyan High-Speed Railway begins operation in Sichuan, China, on the second anniversary of the 2008 Sichuan earthquake. ](/news/2010/05/12/the-chengdu-dujiangyan-high-speed-railway-begins-operation-in-sichuan-china-on-the-second-anniversary-of-the-2008-sichuan-earthquake.md) _2018-02-06 13:49:20 (First version)_
 1. [The Chengdu-Dujiangyan High-Speed Railway begins operation in Sichuan, China, on the second anniversary of the 2008 Sichuan earthquake. [http:--www.chinadaily.com.cn-regional-2010-05-12-content_9842320.htm "(China Daily)"]](/news/2010/05/12/the-chengdu-dujiangyan-high-speed-railway-begins-operation-in-sichuan-china-on-the-second-anniversary-of-the-2008-sichuan-earthquake-htt.md) _(Current version)_
 
 ### Related:

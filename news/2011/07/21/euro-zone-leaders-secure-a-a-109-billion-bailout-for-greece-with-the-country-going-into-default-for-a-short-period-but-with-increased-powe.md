@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/07/21/euro-zone-leaders-secure-a-a-109-billion-bailou
 
 ### Changes:
 
-1. [Euro zone leaders secure a -109 billion bailout for Greece with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as Spain and Italy. ](/news/2011/07/21/euro-zone-leaders-secure-a-109-billion-bailout-for-greece-with-the-country-going-into-default-for-a-short-period-but-with-increased-powe.md) _2017-08-27 03:33:57 (First version)_
+1. [Euro zone leaders secure a -109 billion bailout for Greece with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as Spain and Italy. ](/news/2011/07/21/euro-zone-leaders-secure-a-109-billion-bailout-for-greece-with-the-country-going-into-default-for-a-short-period-but-with-increased-powe.md) _2018-02-06 13:49:22 (First version)_
 1. [Euro zone leaders secure a EUR109 billion bailout for Greece with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as Spain and Italy. ](/news/2011/07/21/euro-zone-leaders-secure-a-a-109-billion-bailout-for-greece-with-the-country-going-into-default-for-a-short-period-but-with-increased-powe.md) _(Current version)_
 
 ### Related:

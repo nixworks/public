@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-regist
 
 ### Changes:
 
-1. [ Lloyds Banking Group warns that HBOS wil register a loss of PS8.5 billion for 2008. ](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-register-a-loss-of-aps8-5-billion-for-2008.md) _2017-08-25 03:23:45 (First version)_
+1. [ Lloyds Banking Group warns that HBOS wil register a loss of PS8.5 billion for 2008. ](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-register-a-loss-of-aps8-5-billion-for-2008.md) _2018-02-06 13:49:18 (First version)_
 1. [ Lloyds Banking Group warns that HBOS wil register a loss of GBP8.5 billion for 2008. ](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-register-a-loss-of-agbp8-5-billion-for-2008.md) _(Current version)_
 
 ### Related:

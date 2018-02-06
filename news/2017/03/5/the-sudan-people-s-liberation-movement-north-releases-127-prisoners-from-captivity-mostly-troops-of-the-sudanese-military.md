@@ -15,7 +15,7 @@ Most of those freed by SPLM-N described by army as troops captured in fighting i
 
 ### Changes:
 
-1. [Sudanese conflict in South Kordofan and Blue Nile: The Sudan People's Liberation Movement-North releases 127 prisoners from captivity, mostly troops of the Sudanese military. ](/news/2017/03/5/sudanese-conflict-in-south-kordofan-and-blue-nile-the-sudan-people-s-liberation-movement-north-releases-127-prisoners-from-captivity-mostl.md) _2017-08-27 03:47:56 (First version)_
+1. [Sudanese conflict in South Kordofan and Blue Nile: The Sudan People's Liberation Movement-North releases 127 prisoners from captivity, mostly troops of the Sudanese military. ](/news/2017/03/5/sudanese-conflict-in-south-kordofan-and-blue-nile-the-sudan-people-s-liberation-movement-north-releases-127-prisoners-from-captivity-mostl.md) _2018-02-06 13:49:30 (First version)_
 1. [The Sudan People's Liberation Movement-North releases 127 prisoners from captivity, mostly troops of the Sudanese military. ](/news/2017/03/5/the-sudan-people-s-liberation-movement-north-releases-127-prisoners-from-captivity-mostly-troops-of-the-sudanese-military.md) _(Current version)_
 
 ### Related:

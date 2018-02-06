@@ -15,7 +15,7 @@ Zimbabweans carry out nationwide strike and protests in the capital against the 
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: Zimbabwean authorities arrest dozens of protesters as anti-government protests spread across the country. ](/news/2016/07/7/2016-zimbabwe-protests-zimbabwean-authorities-arrest-dozens-of-protesters-as-anti-government-protests-spread-across-the-country.md) _2017-08-27 03:46:26 (First version)_
+1. [2016 Zimbabwe protests: Zimbabwean authorities arrest dozens of protesters as anti-government protests spread across the country. ](/news/2016/07/7/2016-zimbabwe-protests-zimbabwean-authorities-arrest-dozens-of-protesters-as-anti-government-protests-spread-across-the-country.md) _2018-02-06 13:49:29 (First version)_
 1. [Zimbabwean authorities arrest dozens of protesters as anti-government protests spread across the country. ](/news/2016/07/7/zimbabwean-authorities-arrest-dozens-of-protesters-as-anti-government-protests-spread-across-the-country.md) _(Current version)_
 
 ### Related:

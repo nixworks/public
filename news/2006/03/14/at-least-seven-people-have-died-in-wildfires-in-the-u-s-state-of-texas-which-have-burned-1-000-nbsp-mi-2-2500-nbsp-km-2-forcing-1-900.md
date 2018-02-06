@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in
 
 ### Changes:
 
-1. [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi2-2500-nbsp-km2-forcing-1-900-peo.md) _2017-10-02 03:19:58 (First version)_
+1. [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi2-2500-nbsp-km2-forcing-1-900-peo.md) _2018-02-06 13:49:17 (First version)_
 1. [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi-2-2500-nbsp-km-2-forcing-1-900.md) _(Current version)_
 
 ### Related:

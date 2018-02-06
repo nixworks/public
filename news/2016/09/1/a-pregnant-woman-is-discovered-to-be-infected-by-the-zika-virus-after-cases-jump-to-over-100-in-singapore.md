@@ -17,7 +17,7 @@ Singapore, a city-state about two-thirds the size of Washington, D.C., has 115 c
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: A pregnant woman is discovered to be infected by the Zika virus after cases jump to over 100 in Singapore. ](/news/2016/09/1/2015-16-zika-virus-epidemic-a-pregnant-woman-is-discovered-to-be-infected-by-the-zika-virus-after-cases-jump-to-over-100-in-singapore.md) _2017-08-27 03:46:45 (First version)_
+1. [2015-16 Zika virus epidemic: A pregnant woman is discovered to be infected by the Zika virus after cases jump to over 100 in Singapore. ](/news/2016/09/1/2015-16-zika-virus-epidemic-a-pregnant-woman-is-discovered-to-be-infected-by-the-zika-virus-after-cases-jump-to-over-100-in-singapore.md) _2018-02-06 13:49:29 (First version)_
 1. [A pregnant woman is discovered to be infected by the Zika virus after cases jump to over 100 in Singapore. ](/news/2016/09/1/a-pregnant-woman-is-discovered-to-be-infected-by-the-zika-virus-after-cases-jump-to-over-100-in-singapore.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ In separate incident, two 12-year-old Palestinian kids arrested with knives in J
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/israeli-palestinian-conflict-a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-p.md) _2017-08-27 03:45:37 (First version)_
+1. [Israeli-Palestinian conflict: A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/israeli-palestinian-conflict-a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-p.md) _2018-02-06 13:49:28 (First version)_
 1. [A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-palestinians-in-jerusalem-are-arr.md) _(Current version)_
 
 ### Related:

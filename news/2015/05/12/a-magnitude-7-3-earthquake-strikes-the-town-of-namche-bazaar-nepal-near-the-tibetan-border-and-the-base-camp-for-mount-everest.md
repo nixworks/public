@@ -23,7 +23,7 @@ Dozens die as a new earthquake of magnitude 7.3 strikes Nepal, two weeks after a
 
 ### Changes:
 
-1. [May 2015 Nepal earthquake: A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/may-2015-nepal-earthquake-a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-fo.md) _2017-08-27 03:42:19 (First version)_
+1. [May 2015 Nepal earthquake: A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/may-2015-nepal-earthquake-a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-fo.md) _2018-02-06 13:49:27 (First version)_
 1. [A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-for-mount-everest.md) _(Current version)_
 
 ### Related:

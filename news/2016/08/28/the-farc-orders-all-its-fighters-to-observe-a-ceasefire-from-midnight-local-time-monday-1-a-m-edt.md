@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/28/the-farc-orders-all-its-fighters-to-observe-a-c
 
 ### Changes:
 
-1. [Colombian conflict: The FARC orders all its fighters to observe a ceasefire from midnight local time (Monday 1 a.m. EDT). ](/news/2016/08/28/colombian-conflict-the-farc-orders-all-its-fighters-to-observe-a-ceasefire-from-midnight-local-time-monday-1-a-m-edt.md) _2017-08-27 03:46:43 (First version)_
+1. [Colombian conflict: The FARC orders all its fighters to observe a ceasefire from midnight local time (Monday 1 a.m. EDT). ](/news/2016/08/28/colombian-conflict-the-farc-orders-all-its-fighters-to-observe-a-ceasefire-from-midnight-local-time-monday-1-a-m-edt.md) _2018-02-06 13:49:29 (First version)_
 1. [The FARC orders all its fighters to observe a ceasefire from midnight local time (Monday 1 a.m. EDT). ](/news/2016/08/28/the-farc-orders-all-its-fighters-to-observe-a-ceasefire-from-midnight-local-time-monday-1-a-m-edt.md) _(Current version)_
 
 ### Related:

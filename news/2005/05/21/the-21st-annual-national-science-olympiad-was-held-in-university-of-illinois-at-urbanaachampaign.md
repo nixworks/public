@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-h
 
 ### Changes:
 
-1. [ The 21st annual National Science Olympiad was held in University of Illinois at Urbana-Champaign.](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-held-in-university-of-illinois-at-urbana-champaign.md) _2017-08-27 03:16:16 (First version)_
+1. [ The 21st annual National Science Olympiad was held in University of Illinois at Urbana-Champaign.](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-held-in-university-of-illinois-at-urbana-champaign.md) _2018-02-06 13:49:16 (First version)_
 1. [ The 21st annual National Science Olympiad was held in University of Illinois at Urbana-Champaign.](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-held-in-university-of-illinois-at-urbanaachampaign.md) _(Current version)_
 
 ### Related:

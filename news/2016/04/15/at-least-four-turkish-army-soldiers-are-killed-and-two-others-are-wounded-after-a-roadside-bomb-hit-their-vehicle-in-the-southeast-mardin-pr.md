@@ -16,7 +16,7 @@ Four soldiers were killed and two wounded when a bomb hit a military vehicle tra
 
 ### Changes:
 
-1. [PKK rebellion (2015-present): At least four Turkish Army soldiers are killed and two others are wounded after a roadside bomb hit their vehicle in the southeast Mardin Province. ](/news/2016/04/15/pkk-rebellion-2015-present-at-least-four-turkish-army-soldiers-are-killed-and-two-others-are-wounded-after-a-roadside-bomb-hit-their-ve.md) _2017-08-27 03:45:38 (First version)_
+1. [PKK rebellion (2015-present): At least four Turkish Army soldiers are killed and two others are wounded after a roadside bomb hit their vehicle in the southeast Mardin Province. ](/news/2016/04/15/pkk-rebellion-2015-present-at-least-four-turkish-army-soldiers-are-killed-and-two-others-are-wounded-after-a-roadside-bomb-hit-their-ve.md) _2018-02-06 13:49:28 (First version)_
 1. [At least four Turkish Army soldiers are killed and two others are wounded after a roadside bomb hit their vehicle in the southeast Mardin Province. ](/news/2016/04/15/at-least-four-turkish-army-soldiers-are-killed-and-two-others-are-wounded-after-a-roadside-bomb-hit-their-vehicle-in-the-southeast-mardin-pr.md) _(Current version)_
 
 ### Related:

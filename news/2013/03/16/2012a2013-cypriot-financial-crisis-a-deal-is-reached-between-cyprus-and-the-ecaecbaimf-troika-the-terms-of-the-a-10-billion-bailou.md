@@ -18,7 +18,7 @@ Eurozone finance ministers agree a 10bn-euro (£8.7bn) bailout package for Cypru
 
 ### Changes:
 
-1. [2012-2013 Cypriot financial crisis: A deal is reached between Cyprus and the EC-ECB-IMF troika. The terms of the -10 billion "bailout" package cause widespread anger among Cypriots who queue from early morning to withdraw their savings as it emerges that up to 10% of each citizen's deposits are to be wiped out to raise billions. ](/news/2013/03/16/2012-2013-cypriot-financial-crisis-a-deal-is-reached-between-cyprus-and-the-ec-ecb-imf-troika-the-terms-of-the-10-billion-bailou.md) _2017-08-27 03:38:03 (First version)_
+1. [2012-2013 Cypriot financial crisis: A deal is reached between Cyprus and the EC-ECB-IMF troika. The terms of the -10 billion "bailout" package cause widespread anger among Cypriots who queue from early morning to withdraw their savings as it emerges that up to 10% of each citizen's deposits are to be wiped out to raise billions. ](/news/2013/03/16/2012-2013-cypriot-financial-crisis-a-deal-is-reached-between-cyprus-and-the-ec-ecb-imf-troika-the-terms-of-the-10-billion-bailou.md) _2018-02-06 13:49:24 (First version)_
 1. [2012-2013 Cypriot financial crisis: A deal is reached between Cyprus and the EC-ECB-IMF troika. The terms of the EUR10 billion "bailout" package cause widespread anger among Cypriots who queue from early morning to withdraw their savings as it emerges that up to 10% of each citizen's deposits are to be wiped out to raise billions. ](/news/2013/03/16/2012a2013-cypriot-financial-crisis-a-deal-is-reached-between-cyprus-and-the-ecaecbaimf-troika-the-terms-of-the-a-10-billion-bailou.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ At least 175 people were killed when three suicide bombers driving fuel tankers 
 
 ### Changes:
 
-1. [ War in Iraq: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-p-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md) _2017-08-25 03:20:33 (First version)_
-2. [ War in Iraq:: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md) _2017-08-27 03:20:31 (Update)_
+1. [ War in Iraq: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-p-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Iraq:: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md) _2018-02-06 13:49:17 (Update)_
 2. [ 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide-bombers-drive.md) _(Current version)_
 
 ### Related:

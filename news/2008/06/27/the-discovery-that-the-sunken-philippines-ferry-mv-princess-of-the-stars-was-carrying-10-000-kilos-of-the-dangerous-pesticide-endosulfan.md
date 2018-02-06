@@ -16,7 +16,7 @@ Philippine officials suspended the retrieval Friday of hundreds of bodies believ
 
 ### Changes:
 
-1. [ The discovery that the sunken Philippines ferry MV ''Princess of the Stars'' was carrying 10,000 kilos of the dangerous pesticide endosulfan leads to the temporary cessation of the recovery of the bodies on board. ](/news/2008/06/27/the-discovery-that-the-sunken-philippines-ferry-mv-princess-of-the-stars-was-carrying-10-000-kilos-of-the-dangerous-pesticide-endosulfa.md) _2017-08-25 03:22:29 (First version)_
+1. [ The discovery that the sunken Philippines ferry MV ''Princess of the Stars'' was carrying 10,000 kilos of the dangerous pesticide endosulfan leads to the temporary cessation of the recovery of the bodies on board. ](/news/2008/06/27/the-discovery-that-the-sunken-philippines-ferry-mv-princess-of-the-stars-was-carrying-10-000-kilos-of-the-dangerous-pesticide-endosulfa.md) _2018-02-06 13:49:18 (First version)_
 1. [ The discovery that the sunken Philippines ferry MV "Princess of the Stars" was carrying 10,000 kilos of the dangerous pesticide endosulfan leads to the temporary cessation of the recovery of the bodies on board. ](/news/2008/06/27/the-discovery-that-the-sunken-philippines-ferry-mv-princess-of-the-stars-was-carrying-10-000-kilos-of-the-dangerous-pesticide-endosulfan.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/12/21/fresh-heavy-fighting-is-reported-near-the-weak-
 
 ### Changes:
 
-1. [ War in Somalia: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-p-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md) _2017-08-25 03:18:56 (First version)_
-2. [ War in Somalia:: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md) _2017-08-27 03:18:51 (Update)_
+1. [ War in Somalia: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-p-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Somalia:: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md) _2018-02-06 13:49:17 (Update)_
 2. [ Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entire-horn-of-africa.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### crude oil
 ### [ Light Sweet Crude futures close at an all-time high at $75.19-barrel, with an intraday all-time high of $75.40-barrel in New York. Analysts have downplayed the effect of North Korea's missile launch. ](/news/2006/07/5/light-sweet-crude-futures-close-at-an-all-time-high-at-75-19-barrel-with-an-intraday-all-time-high-of-75-40-barrel-in-new-york-analysts.md)
-_Context: North Korea, New York City, crude oil_
+_Context: North Korea, crude oil, New York City_
 
 ##### Enron
 ### [ Former Enron executive Kenneth Lay has died of a heart attack at the age of 64. ](/news/2006/07/5/former-enron-executive-kenneth-lay-has-died-of-a-heart-attack-at-the-age-of-64.md)
@@ -25,7 +25,7 @@ _Context: North Korea, United States_
 
 ##### Casino
 ### [ Casinos in the U.S. state of New Jersey have shut down for the first time in their history. The closure started at 8 AM Local Time, 1200 GMT, since the state's budget has not been decided, necessitating the shutdown of nonessential state offices, including casino regulators.](/news/2006/07/5/casinos-in-the-u-s-state-of-new-jersey-have-shut-down-for-the-first-time-in-their-history-the-closure-started-at-8-am-local-time-1200-gm.md)
-_Context: New Jersey, EDT, U.S. state, GMT, Casino_
+_Context: Casino, GMT, U.S. state, New Jersey, EDT_
 
 ##### North Korea
 ### [ North Korea launches a 7th missile, despite earlier condemnation of its earlier tests. One of the missiles landed "near Russian territory." The U.N. Security Council has scheduled an emergency meeting for Wednesday, and Japan warns of economic sanctions against the country. ](/news/2006/07/5/north-korea-launches-a-7th-missile-despite-earlier-condemnation-of-its-earlier-tests-one-of-the-missiles-landed-near-russian-territory.md)

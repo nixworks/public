@@ -16,7 +16,7 @@ So-called Islamic State says one of its militants carried out the deadly Berlin 
 
 ### Changes:
 
-1. [2016 Berlin attack: The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/2016-berlin-attack-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germ.md) _2017-08-27 03:47:28 (First version)_
+1. [2016 Berlin attack: The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/2016-berlin-attack-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germ.md) _2018-02-06 13:49:30 (First version)_
 1. [The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germany-which-left-at-l.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ _Context: Pakistan_
 
 ##### Naples
 ### [ 30 suspected mobsters arrested around Naples in "war against the Camorra". ](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.md)
-_Context: Camorra, Naples_
+_Context: Naples, Camorra_
 
 ##### Faina
 ### [ Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-coast.md)

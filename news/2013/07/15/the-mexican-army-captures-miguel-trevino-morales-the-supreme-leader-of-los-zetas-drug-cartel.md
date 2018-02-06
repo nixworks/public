@@ -16,7 +16,7 @@ U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being lead
 
 ### Changes:
 
-1. [Mexican Drug War: The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/mexican-drug-war-the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md) _2017-08-27 03:39:15 (First version)_
+1. [Mexican Drug War: The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/mexican-drug-war-the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md) _2018-02-06 13:49:25 (First version)_
 1. [The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md) _(Current version)_
 
 ### Related:

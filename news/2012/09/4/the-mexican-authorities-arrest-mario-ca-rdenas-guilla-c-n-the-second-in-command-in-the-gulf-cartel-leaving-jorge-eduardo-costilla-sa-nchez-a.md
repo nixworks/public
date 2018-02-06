@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/09/4/the-mexican-authorities-arrest-mario-ca-rdenas-g
 
 ### Changes:
 
-1. [Mexican Drug War:The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/mexican-drug-war-pthe-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo-c.md) _2017-08-25 03:36:25 (First version)_
-2. [Mexican Drug War:: The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/mexican-drug-war-the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo.md) _2017-08-27 03:36:36 (Update)_
+1. [Mexican Drug War:: The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/mexican-drug-war-the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/mexican-drug-war-pthe-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo-c.md) _2018-02-06 13:49:23 (Update)_
 2. [The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo-costilla-sa-nchez-a.md) _(Current version)_
 
 ### Related:

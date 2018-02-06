@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/28/at-least-seven-people-are-killed-in-a-suicide-b
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): At least seven people are killed in a suicide bomb attack near the presidential palace in Aden, Yemen. The Islamic State of Iraq and the Levant claims it was behind the attack. ](/news/2016/01/28/yemeni-civil-war-2015-present-at-least-seven-people-are-killed-in-a-suicide-bomb-attack-near-the-presidential-palace-in-aden-yemen-th.md) _2017-08-27 03:44:46 (First version)_
+1. [Yemeni Civil War (2015-present): At least seven people are killed in a suicide bomb attack near the presidential palace in Aden, Yemen. The Islamic State of Iraq and the Levant claims it was behind the attack. ](/news/2016/01/28/yemeni-civil-war-2015-present-at-least-seven-people-are-killed-in-a-suicide-bomb-attack-near-the-presidential-palace-in-aden-yemen-th.md) _2018-02-06 13:49:28 (First version)_
 1. [At least seven people are killed in a suicide bomb attack near the presidential palace in Aden, Yemen. The Islamic State of Iraq and the Levant claims it was behind the attack. ](/news/2016/01/28/at-least-seven-people-are-killed-in-a-suicide-bomb-attack-near-the-presidential-palace-in-aden-yemen-the-islamic-state-of-iraq-and-the-lev.md) _(Current version)_
 
 ### Related:

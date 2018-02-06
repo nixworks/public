@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influen
 
 ### Changes:
 
-1. [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md) _2017-08-27 03:38:17 (First version)_
+1. [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md) _2018-02-06 13:49:24 (First version)_
 1. [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md) _(Current version)_
 
 ### Related:

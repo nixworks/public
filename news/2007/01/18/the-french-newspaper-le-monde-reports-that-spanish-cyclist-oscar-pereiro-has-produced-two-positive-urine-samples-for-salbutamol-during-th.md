@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-span
 
 ### Changes:
 
-1. [ The French newspaper ''Le Monde'' reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during.md) _2017-08-25 03:19:02 (First version)_
+1. [ The French newspaper ''Le Monde'' reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during.md) _2018-02-06 13:49:17 (First version)_
 1. [ The French newspaper "Le Monde" reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during-th.md) _(Current version)_
 
 ### Related:

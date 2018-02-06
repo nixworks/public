@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/23/an-egyptian-general-is-killed-and-a-police-offi
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/post-coup-unrest-in-egypt-pan-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-exploded.md) _2017-08-25 03:40:19 (First version)_
-2. [Post-coup unrest in Egypt:: An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/post-coup-unrest-in-egypt-an-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-explode.md) _2017-08-27 03:40:37 (Update)_
+1. [Post-coup unrest in Egypt:An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/post-coup-unrest-in-egypt-pan-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-exploded.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt:: An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/post-coup-unrest-in-egypt-an-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-explode.md) _2018-02-06 13:49:26 (Update)_
 2. [An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/an-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-exploded.md) _(Current version)_
 
 ### Related:

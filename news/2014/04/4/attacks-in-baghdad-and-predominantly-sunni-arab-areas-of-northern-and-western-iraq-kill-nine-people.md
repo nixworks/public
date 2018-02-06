@@ -16,8 +16,8 @@ BAGHDAD: Attacks in Baghdad and predominantly Sunni Arab areas of northern and w
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Attacks in Baghdad and predominantly Sunni Arab areas of northern and western Iraq kill nine people. ](/news/2014/04/4/iraqi-insurgency-post-u-s-withdrawal-pattacks-in-baghdad-and-predominantly-sunni-arab-areas-of-northern-and-western-iraq-kill-nine-people.md) _2017-08-25 03:40:15 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Attacks in Baghdad and predominantly Sunni Arab areas of northern and western Iraq kill nine people. ](/news/2014/04/4/iraqi-insurgency-post-u-s-withdrawal-attacks-in-baghdad-and-predominantly-sunni-arab-areas-of-northern-and-western-iraq-kill-nine-peopl.md) _2017-08-27 03:40:33 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Attacks in Baghdad and predominantly Sunni Arab areas of northern and western Iraq kill nine people. ](/news/2014/04/4/iraqi-insurgency-post-u-s-withdrawal-pattacks-in-baghdad-and-predominantly-sunni-arab-areas-of-northern-and-western-iraq-kill-nine-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Attacks in Baghdad and predominantly Sunni Arab areas of northern and western Iraq kill nine people. ](/news/2014/04/4/iraqi-insurgency-post-u-s-withdrawal-attacks-in-baghdad-and-predominantly-sunni-arab-areas-of-northern-and-western-iraq-kill-nine-peopl.md) _2018-02-06 13:49:26 (Update)_
 2. [Attacks in Baghdad and predominantly Sunni Arab areas of northern and western Iraq kill nine people. ](/news/2014/04/4/attacks-in-baghdad-and-predominantly-sunni-arab-areas-of-northern-and-western-iraq-kill-nine-people.md) _(Current version)_
 
 ### Related:

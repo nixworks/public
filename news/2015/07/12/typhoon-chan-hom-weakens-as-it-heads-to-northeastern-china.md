@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/12/typhoon-chan-hom-weakens-as-it-heads-to-northea
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Chan-hom weakens as it heads to northeastern China. ](/news/2015/07/12/2015-pacific-typhoon-season-typhoon-chan-hom-weakens-as-it-heads-to-northeastern-china.md) _2017-08-27 03:42:41 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Chan-hom weakens as it heads to northeastern China. ](/news/2015/07/12/2015-pacific-typhoon-season-typhoon-chan-hom-weakens-as-it-heads-to-northeastern-china.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Chan-hom weakens as it heads to northeastern China. ](/news/2015/07/12/typhoon-chan-hom-weakens-as-it-heads-to-northeastern-china.md) _(Current version)_
 
 ### Related:

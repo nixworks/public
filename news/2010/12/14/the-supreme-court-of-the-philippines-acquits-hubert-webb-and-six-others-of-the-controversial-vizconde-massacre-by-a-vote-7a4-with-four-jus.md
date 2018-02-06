@@ -16,7 +16,7 @@ MANILA, Philippines (4th UPDATE) - Hubert Webb and 5 others accused in the Vizco
 
 ### Changes:
 
-1. [The Supreme Court of the Philippines acquits Hubert Webb and six others of the controversial Vizconde massacre by a vote 7-4 with four justices abstaining. ](/news/2010/12/14/the-supreme-court-of-the-philippines-acquits-hubert-webb-and-six-others-of-the-controversial-vizconde-massacre-by-a-vote-7-4-with-four-jus.md) _2017-08-27 03:31:31 (First version)_
+1. [The Supreme Court of the Philippines acquits Hubert Webb and six others of the controversial Vizconde massacre by a vote 7-4 with four justices abstaining. ](/news/2010/12/14/the-supreme-court-of-the-philippines-acquits-hubert-webb-and-six-others-of-the-controversial-vizconde-massacre-by-a-vote-7-4-with-four-jus.md) _2018-02-06 13:49:21 (First version)_
 1. [The Supreme Court of the Philippines acquits Hubert Webb and six others of the controversial Vizconde massacre by a vote 7-4 with four justices abstaining. ](/news/2010/12/14/the-supreme-court-of-the-philippines-acquits-hubert-webb-and-six-others-of-the-controversial-vizconde-massacre-by-a-vote-7a4-with-four-jus.md) _(Current version)_
 
 ### Related:

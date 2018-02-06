@@ -16,7 +16,7 @@ Tehran (AFP) - Iran said on Saturday that it had successfully tested a new mediu
 
 ### Changes:
 
-1. [Iran successfully tests the Khoramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khoramshahr-missile.md) _2017-09-23 11:30:05 (First version)_
+1. [Iran successfully tests the Khoramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khoramshahr-missile.md) _2018-02-06 13:49:31 (First version)_
 1. [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md) _(Current version)_
 
 ### Related:

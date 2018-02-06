@@ -16,7 +16,7 @@ Study says long hours spent studying and lack of outdoor light to blame for 90 p
 
 ### Changes:
 
-1. [A new study published in ''The Lancet'' finds that up to 90 per cent of school-leavers in Asia's major cities are suffering from myopia, or short-sightedness and that 10 to 20 per cent have high myopia, which can lead to blindness. ](/news/2012/05/4/a-new-study-published-in-the-lancet-finds-that-up-to-90-per-cent-of-school-leavers-in-asia-s-major-cities-are-suffering-from-myopia-or.md) _2017-08-25 03:35:37 (First version)_
+1. [A new study published in ''The Lancet'' finds that up to 90 per cent of school-leavers in Asia's major cities are suffering from myopia, or short-sightedness and that 10 to 20 per cent have high myopia, which can lead to blindness. ](/news/2012/05/4/a-new-study-published-in-the-lancet-finds-that-up-to-90-per-cent-of-school-leavers-in-asia-s-major-cities-are-suffering-from-myopia-or.md) _2018-02-06 13:49:23 (First version)_
 1. [A new study published in "The Lancet" finds that up to 90 per cent of school-leavers in Asia's major cities are suffering from myopia, or short-sightedness and that 10 to 20 per cent have high myopia, which can lead to blindness. ](/news/2012/05/4/a-new-study-published-in-the-lancet-finds-that-up-to-90-per-cent-of-school-leavers-in-asia-s-major-cities-are-suffering-from-myopia-or-sh.md) _(Current version)_
 
 ### Related:

@@ -23,7 +23,7 @@ Forces loyal to Muammar Gaddafi launched air strikes on Monday on the rebel-held
 
 ### Changes:
 
-1. [Arab Spring: Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/arab-spring-rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md) _2017-08-27 03:32:39 (First version)_
+1. [Arab Spring: Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/arab-spring-rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md) _2018-02-06 13:49:22 (First version)_
 1. [Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md) _(Current version)_
 
 ### Related:

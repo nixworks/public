@@ -16,7 +16,7 @@ More than 90 percent turnout reported in vote in which 26-year ruler Islam Karim
 
 ### Changes:
 
-1. [Uzbekistani presidential election, 2015: Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/uzbekistani-presidential-election-2015-voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-kar.md) _2017-08-27 03:42:08 (First version)_
+1. [Uzbekistani presidential election, 2015: Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/uzbekistani-presidential-election-2015-voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-kar.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.md) _(Current version)_
 
 ### Related:

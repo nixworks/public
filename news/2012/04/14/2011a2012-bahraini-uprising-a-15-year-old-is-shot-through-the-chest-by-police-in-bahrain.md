@@ -16,7 +16,7 @@ Boy among several people wounded when police opened fire as thousands joined fun
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising: A 15-year-old is shot through the chest by police in Bahrain. ](/news/2012/04/14/2011-2012-bahraini-uprising-a-15-year-old-is-shot-through-the-chest-by-police-in-bahrain.md) _2017-08-27 03:35:38 (First version)_
+1. [2011-2012 Bahraini uprising: A 15-year-old is shot through the chest by police in Bahrain. ](/news/2012/04/14/2011-2012-bahraini-uprising-a-15-year-old-is-shot-through-the-chest-by-police-in-bahrain.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Bahraini uprising: A 15-year-old is shot through the chest by police in Bahrain. ](/news/2012/04/14/2011a2012-bahraini-uprising-a-15-year-old-is-shot-through-the-chest-by-police-in-bahrain.md) _(Current version)_
 
 ### Related:

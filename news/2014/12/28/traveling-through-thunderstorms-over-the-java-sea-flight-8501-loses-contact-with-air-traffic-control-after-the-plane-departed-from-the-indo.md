@@ -16,7 +16,7 @@ AirAsia Indonesia flight QZ8501 travelling from Indonesia to Singapore goes miss
 
 ### Changes:
 
-1. [Indonesia AirAsia Flight 8501: Traveling through thunderstorms over the Java Sea, Flight 8501 loses contact with air traffic control after the plane departed from the Indonesian city of Surabaya en route to Singapore with 162 people on board. ](/news/2014/12/28/indonesia-airasia-flight-8501-traveling-through-thunderstorms-over-the-java-sea-flight-8501-loses-contact-with-air-traffic-control-after-t.md) _2017-08-27 03:41:41 (First version)_
+1. [Indonesia AirAsia Flight 8501: Traveling through thunderstorms over the Java Sea, Flight 8501 loses contact with air traffic control after the plane departed from the Indonesian city of Surabaya en route to Singapore with 162 people on board. ](/news/2014/12/28/indonesia-airasia-flight-8501-traveling-through-thunderstorms-over-the-java-sea-flight-8501-loses-contact-with-air-traffic-control-after-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Traveling through thunderstorms over the Java Sea, Flight 8501 loses contact with air traffic control after the plane departed from the Indonesian city of Surabaya en route to Singapore with 162 people on board. ](/news/2014/12/28/traveling-through-thunderstorms-over-the-java-sea-flight-8501-loses-contact-with-air-traffic-control-after-the-plane-departed-from-the-indo.md) _(Current version)_
 
 ### Related:

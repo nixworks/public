@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-minis
 
 ### Changes:
 
-1. [South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them with people linked to a breakaway faction of Machar's SPLM-IO party. ](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-ministers-allied-to-his-long-time-rival-riek-machar-replacing-them-with-people-linked-to-a-brea.md) _2017-08-25 03:46:13 (First version)_
+1. [South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them with people linked to a breakaway faction of Machar's SPLM-IO party. ](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-ministers-allied-to-his-long-time-rival-riek-machar-replacing-them-with-people-linked-to-a-brea.md) _2018-02-06 13:49:29 (First version)_
 1. [South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them with people linked to a breakaway faction of Machar's SPLM-IO party. ](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-ministers-allied-to-his-long-time-rival-riek-machar-replacing-them-with-people-linked-to-a-break.md) _(Current version)_
 
 ### Related:

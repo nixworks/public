@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeli-palestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _2017-08-27 03:15:32 (First version)_
+1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeli-palestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _(Current version)_
 
 ### Related:

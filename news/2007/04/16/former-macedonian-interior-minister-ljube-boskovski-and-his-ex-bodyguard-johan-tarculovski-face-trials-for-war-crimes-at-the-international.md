@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/16/former-macedonian-interior-minister-ljube-bosko
 
 ### [2007-04-16](/news/2007/04/16/index.md)
 
-##### Macedonian
+##### Republic of Macedonia
 #  Former Macedonian Interior Minister Ljube Boskovski and his ex-bodyguard Johan Tarculovski face trials for war crimes at the International Criminal Tribunal for the Former Yugoslavia at The Hague. 
 
 

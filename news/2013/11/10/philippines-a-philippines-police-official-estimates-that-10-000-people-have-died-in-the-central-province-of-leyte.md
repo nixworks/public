@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/11/10/philippines-a-philippines-police-official-estim
 
 ### Changes:
 
-1. [Typhoon Haiyan:Philippines: A Philippines police official estimates that 10,000 people have died in the central province of Leyte. ](/news/2013/11/10/typhoon-haiyan-pphilippines-a-philippines-police-official-estimates-that-10-000-people-have-died-in-the-central-province-of-leyte.md) _2017-08-25 03:39:30 (First version)_
-2. [Typhoon Haiyan:: Philippines: A Philippines police official estimates that 10,000 people have died in the central province of Leyte. ](/news/2013/11/10/typhoon-haiyan-philippines-a-philippines-police-official-estimates-that-10-000-people-have-died-in-the-central-province-of-leyte.md) _2017-08-27 03:39:48 (Update)_
+1. [Typhoon Haiyan:Philippines: A Philippines police official estimates that 10,000 people have died in the central province of Leyte. ](/news/2013/11/10/typhoon-haiyan-pphilippines-a-philippines-police-official-estimates-that-10-000-people-have-died-in-the-central-province-of-leyte.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: Philippines: A Philippines police official estimates that 10,000 people have died in the central province of Leyte. ](/news/2013/11/10/typhoon-haiyan-philippines-a-philippines-police-official-estimates-that-10-000-people-have-died-in-the-central-province-of-leyte.md) _2018-02-06 13:49:25 (Update)_
 2. [Philippines: A Philippines police official estimates that 10,000 people have died in the central province of Leyte. ](/news/2013/11/10/philippines-a-philippines-police-official-estimates-that-10-000-people-have-died-in-the-central-province-of-leyte.md) _(Current version)_
 
 ### Related:

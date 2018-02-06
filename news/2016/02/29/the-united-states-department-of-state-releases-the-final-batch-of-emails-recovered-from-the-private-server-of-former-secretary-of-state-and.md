@@ -16,7 +16,7 @@ The State Department will release later today the final batch of emails from Hil
 
 ### Changes:
 
-1. [Hillary Clinton email controversy: The United States Department of State releases the final batch of emails recovered from the private server of former Secretary of State and Democratic Party front runner in the race for the nomination for the 2016 presidential election. ](/news/2016/02/29/hillary-clinton-email-controversy-the-united-states-department-of-state-releases-the-final-batch-of-emails-recovered-from-the-private-serve.md) _2017-08-27 03:45:04 (First version)_
+1. [Hillary Clinton email controversy: The United States Department of State releases the final batch of emails recovered from the private server of former Secretary of State and Democratic Party front runner in the race for the nomination for the 2016 presidential election. ](/news/2016/02/29/hillary-clinton-email-controversy-the-united-states-department-of-state-releases-the-final-batch-of-emails-recovered-from-the-private-serve.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Department of State releases the final batch of emails recovered from the private server of former Secretary of State and Democratic Party front runner in the race for the nomination for the 2016 presidential election. ](/news/2016/02/29/the-united-states-department-of-state-releases-the-final-batch-of-emails-recovered-from-the-private-server-of-former-secretary-of-state-and.md) _(Current version)_
 
 ### Related:

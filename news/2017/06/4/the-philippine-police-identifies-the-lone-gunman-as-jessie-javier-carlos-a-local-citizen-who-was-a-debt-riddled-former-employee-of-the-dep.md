@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman
 
 ### Changes:
 
-1. [ The Philippine police identified the lone gunman as Jessie Javier Carlos, a local citizen, who is a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identified-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-is-a-debt-riddled-former-employee-of-the-de.md) _2017-06-07 03:52:34 (First version)_
-2. [2017 Resorts World Manila attack: The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/2017-resorts-world-manila-attack-the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt.md) _2017-08-27 03:48:25 (Update)_
+1. [ The Philippine police identified the lone gunman as Jessie Javier Carlos, a local citizen, who is a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identified-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-is-a-debt-riddled-former-employee-of-the-de.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Resorts World Manila attack: The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/2017-resorts-world-manila-attack-the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt.md) _2018-02-06 13:49:30 (Update)_
 2. [The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt-riddled-former-employee-of-the-dep.md) _(Current version)_
 
 ### Related:

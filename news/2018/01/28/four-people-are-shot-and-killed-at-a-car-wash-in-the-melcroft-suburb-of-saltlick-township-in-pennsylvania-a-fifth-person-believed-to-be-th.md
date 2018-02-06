@@ -17,8 +17,8 @@ The shooting happened overnight at a car wash in the small town of Melcroft sout
 
 ### Changes:
 
-1. [Five people are shot and killed in a mass shooting at a car wash in the Melcroft, Pennsylvania suburb of Saltlick Township. A sixth person was injured. ](/news/2018/01/28/five-people-are-shot-and-killed-in-a-mass-shooting-at-a-car-wash-in-the-melcroft-pennsylvania-suburb-of-saltlick-township-a-sixth-person-w.md) _2018-01-29 00:30:14 (First version)_
-2. [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-is-severely-injure.md) _2018-01-30 17:30:15 (Update)_
+1. [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-is-severely-injure.md) _2018-02-06 13:49:31 (First version)_
+2. [Five people are shot and killed in a mass shooting at a car wash in the Melcroft, Pennsylvania suburb of Saltlick Township. A sixth person was injured. ](/news/2018/01/28/five-people-are-shot-and-killed-in-a-mass-shooting-at-a-car-wash-in-the-melcroft-pennsylvania-suburb-of-saltlick-township-a-sixth-person-w.md) _2018-02-06 13:49:31 (Update)_
 2. [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person, believed to be the gunman, is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-believed-to-be-th.md) _(Current version)_
 
 ### Related:

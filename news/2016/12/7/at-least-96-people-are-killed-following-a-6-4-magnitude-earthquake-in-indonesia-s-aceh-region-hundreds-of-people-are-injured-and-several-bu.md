@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-ma
 
 ### Changes:
 
-1. [2016 Aceh earthquake: At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/2016-aceh-earthquake-at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are.md) _2017-08-27 03:47:24 (First version)_
+1. [2016 Aceh earthquake: At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/2016-aceh-earthquake-at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.md) _(Current version)_
 
 ### Related:

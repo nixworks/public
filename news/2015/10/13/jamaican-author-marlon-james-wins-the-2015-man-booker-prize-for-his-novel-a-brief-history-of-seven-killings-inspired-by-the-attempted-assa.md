@@ -16,5 +16,5 @@ Author Marlon James wins the £50,000 Man Booker Prize for his novel A Brief His
 
 ### Changes:
 
-1. [Jamaican author Marlon James wins the 2015 Man Booker Prize for his novel ''A Brief History of Seven Killings'' inspired by the attempted assassination of Bob Marley in the 1970s. ](/news/2015/10/13/jamaican-author-marlon-james-wins-the-2015-man-booker-prize-for-his-novel-a-brief-history-of-seven-killings-inspired-by-the-attempted-as.md) _2017-08-25 03:43:02 (First version)_
+1. [Jamaican author Marlon James wins the 2015 Man Booker Prize for his novel ''A Brief History of Seven Killings'' inspired by the attempted assassination of Bob Marley in the 1970s. ](/news/2015/10/13/jamaican-author-marlon-james-wins-the-2015-man-booker-prize-for-his-novel-a-brief-history-of-seven-killings-inspired-by-the-attempted-as.md) _2018-02-06 13:49:27 (First version)_
 1. [Jamaican author Marlon James wins the 2015 Man Booker Prize for his novel "A Brief History of Seven Killings" inspired by the attempted assassination of Bob Marley in the 1970s. ](/news/2015/10/13/jamaican-author-marlon-james-wins-the-2015-man-booker-prize-for-his-novel-a-brief-history-of-seven-killings-inspired-by-the-attempted-assa.md) _(Current version)_

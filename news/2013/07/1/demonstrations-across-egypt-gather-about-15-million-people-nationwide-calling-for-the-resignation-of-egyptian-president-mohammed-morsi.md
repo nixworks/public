@@ -20,8 +20,8 @@ The Arab Spring, take two.
 
 ### Changes:
 
-1. [2012-2013 Egyptian protests:Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/2012a2013-egyptian-protests-pdemonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptian.md) _2017-08-25 03:38:55 (First version)_
-2. [2012-2013 Egyptian protests:: Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/2012-2013-egyptian-protests-demonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptia.md) _2017-08-27 03:39:11 (Update)_
+1. [2012-2013 Egyptian protests:Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/2012a2013-egyptian-protests-pdemonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptian.md) _2018-02-06 13:49:25 (First version)_
+2. [2012-2013 Egyptian protests:: Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/2012-2013-egyptian-protests-demonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptia.md) _2018-02-06 13:49:25 (Update)_
 2. [Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/demonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptian-president-mohammed-morsi.md) _(Current version)_
 
 ### Related:

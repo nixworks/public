@@ -16,7 +16,7 @@ Twenty-three people have been killed and many more hurt in a head-on collision i
 
 ### Changes:
 
-1. [Andria train collision: 23 people are killed and 50 others are injured after two trains collide head-on near Andria in the province of Puglia, southern Italy. ](/news/2016/07/12/andria-train-collision-23-people-are-killed-and-50-others-are-injured-after-two-trains-collide-head-on-near-andria-in-the-province-of-pugli.md) _2017-08-27 03:46:29 (First version)_
+1. [Andria train collision: 23 people are killed and 50 others are injured after two trains collide head-on near Andria in the province of Puglia, southern Italy. ](/news/2016/07/12/andria-train-collision-23-people-are-killed-and-50-others-are-injured-after-two-trains-collide-head-on-near-andria-in-the-province-of-pugli.md) _2018-02-06 13:49:29 (First version)_
 1. [ 23 people are killed and 50 others are injured after two trains collide head-on near Andria in the province of Puglia, southern Italy. ](/news/2016/07/12/23-people-are-killed-and-50-others-are-injured-after-two-trains-collide-head-on-near-andria-in-the-province-of-puglia-southern-italy.md) _(Current version)_
 
 ### Related:

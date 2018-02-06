@@ -16,7 +16,7 @@ N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday
 
 ### Changes:
 
-1. [Boko Haram insurgency: A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/boko-haram-insurgency-a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly.md) _2017-08-27 03:43:15 (First version)_
+1. [Boko Haram insurgency: A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/boko-haram-insurgency-a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly.md) _2018-02-06 13:49:28 (First version)_
 1. [A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly-killed-in-the-fighting.md) _(Current version)_
 
 ### Related:

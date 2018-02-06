@@ -19,8 +19,8 @@ A local staff member of the United Nations in Myanmar and three of her family me
 
 ### Changes:
 
-1. [ 2007 Burmese anti-government protests: The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/2007-burmese-anti-government-protests-p-the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _2017-08-25 03:21:06 (First version)_
-2. [ 2007 Burmese anti-government protests:: The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/2007-burmese-anti-government-protests-the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _2017-08-27 03:21:02 (Update)_
+1. [ 2007 Burmese anti-government protests:: The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/2007-burmese-anti-government-protests-the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Burmese anti-government protests: The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/2007-burmese-anti-government-protests-p-the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _2018-02-06 13:49:18 (Update)_
 2. [ The State Peace and Development Council releases 80 Buddhist monks and 149 Buddhist nuns. ](/news/2007/10/3/the-state-peace-and-development-council-releases-80-buddhist-monks-and-149-buddhist-nuns.md) _(Current version)_
 
 ### Related:

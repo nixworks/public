@@ -16,7 +16,7 @@ The captain of the cruise ship that capsized on Friday, Francesco Schettino, has
 
 ### Changes:
 
-1. [Italian cruise ship captain Francesco Schettino admits having made navigational errors that led to the capsizing of the ''Costa Concordia'' in Italian waters on January 13, killing at least 11 people. ](/news/2012/01/18/italian-cruise-ship-captain-francesco-schettino-admits-having-made-navigational-errors-that-led-to-the-capsizing-of-the-costa-concordia.md) _2017-08-25 03:34:51 (First version)_
+1. [Italian cruise ship captain Francesco Schettino admits having made navigational errors that led to the capsizing of the ''Costa Concordia'' in Italian waters on January 13, killing at least 11 people. ](/news/2012/01/18/italian-cruise-ship-captain-francesco-schettino-admits-having-made-navigational-errors-that-led-to-the-capsizing-of-the-costa-concordia.md) _2018-02-06 13:49:23 (First version)_
 1. [Italian cruise ship captain Francesco Schettino admits having made navigational errors that led to the capsizing of the "Costa Concordia" in Italian waters on January 13, killing at least 11 people. ](/news/2012/01/18/italian-cruise-ship-captain-francesco-schettino-admits-having-made-navigational-errors-that-led-to-the-capsizing-of-the-costa-concordia-in.md) _(Current version)_
 
 ### Related:

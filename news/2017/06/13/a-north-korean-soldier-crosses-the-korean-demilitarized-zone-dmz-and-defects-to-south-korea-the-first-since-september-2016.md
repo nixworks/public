@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demil
 
 ### Changes:
 
-1. [North Korean defectors: A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/north-korean-defectors-a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-septe.md) _2017-08-27 03:48:28 (First version)_
+1. [North Korean defectors: A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/north-korean-defectors-a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-septe.md) _2018-02-06 13:49:30 (First version)_
 1. [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md) _(Current version)_
 
 ### Related:

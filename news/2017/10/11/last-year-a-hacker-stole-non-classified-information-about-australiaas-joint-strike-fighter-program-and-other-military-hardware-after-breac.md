@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/10/11/last-year-a-hacker-stole-non-classified-informa
 
 ### Changes:
 
-1. [A hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware last year after breaching the network of a defense contractor. ](/news/2017/10/11/a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-last-year-after-breac.md) _2017-10-12 06:30:06 (First version)_
+1. [A hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware last year after breaching the network of a defense contractor. ](/news/2017/10/11/a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-last-year-after-breac.md) _2018-02-06 13:49:31 (First version)_
 1. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _(Current version)_
 
 ### Related:

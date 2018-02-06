@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/26/the-government-of-south-korea-announces-the-com
 
 ### Changes:
 
-1. [ The Government of South Korea announces the completion of the world-s longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-world-s-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md) _2017-08-27 03:27:42 (First version)_
+1. [ The Government of South Korea announces the completion of the world-s longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-world-s-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md) _2018-02-06 13:49:20 (First version)_
 1. [ The Government of South Korea announces the completion of the world's longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-worldas-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md) _(Current version)_
 
 ### Related:

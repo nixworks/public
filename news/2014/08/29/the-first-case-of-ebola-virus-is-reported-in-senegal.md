@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/29/the-first-case-of-ebola-virus-is-reported-in-se
 
 ### Changes:
 
-1. [2014 West Africa Ebola virus outbreak: The first case of Ebola virus is reported in Senegal. ](/news/2014/08/29/2014-west-africa-ebola-virus-outbreak-the-first-case-of-ebola-virus-is-reported-in-senegal.md) _2017-08-27 03:41:13 (First version)_
+1. [2014 West Africa Ebola virus outbreak: The first case of Ebola virus is reported in Senegal. ](/news/2014/08/29/2014-west-africa-ebola-virus-outbreak-the-first-case-of-ebola-virus-is-reported-in-senegal.md) _2018-02-06 13:49:26 (First version)_
 1. [The first case of Ebola virus is reported in Senegal. ](/news/2014/08/29/the-first-case-of-ebola-virus-is-reported-in-senegal.md) _(Current version)_
 
 ### Related:

@@ -20,7 +20,7 @@ The ACLU filed a legal challenge to President Donald Trump&#039;s order to deny 
 
 ### Changes:
 
-1. [Executive Order 13769: Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/executive-order-13769-travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the.md) _2017-08-27 03:47:42 (First version)_
+1. [Executive Order 13769: Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/executive-order-13769-travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the.md) _2018-02-06 13:49:30 (First version)_
 1. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _(Current version)_
 
 ### Related:

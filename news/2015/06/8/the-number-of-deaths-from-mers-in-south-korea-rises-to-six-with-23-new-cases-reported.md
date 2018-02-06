@@ -16,5 +16,5 @@ SEOUL (AFP/REUTERS) - South Korea recorded its sixth death and biggest single-da
 
 ### Changes:
 
-1. [2015 South Korean MERS outbreak: The number of deaths from MERS in South Korea rises to six with 23 new cases reported. ](/news/2015/06/8/2015-south-korean-mers-outbreak-the-number-of-deaths-from-mers-in-south-korea-rises-to-six-with-23-new-cases-reported.md) _2017-08-27 03:42:30 (First version)_
+1. [2015 South Korean MERS outbreak: The number of deaths from MERS in South Korea rises to six with 23 new cases reported. ](/news/2015/06/8/2015-south-korean-mers-outbreak-the-number-of-deaths-from-mers-in-south-korea-rises-to-six-with-23-new-cases-reported.md) _2018-02-06 13:49:27 (First version)_
 1. [The number of deaths from MERS in South Korea rises to six with 23 new cases reported. ](/news/2015/06/8/the-number-of-deaths-from-mers-in-south-korea-rises-to-six-with-23-new-cases-reported.md) _(Current version)_

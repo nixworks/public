@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-so
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/war-in-somalia-2009-present-a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s.md) _2017-08-27 03:46:44 (First version)_
+1. [War in Somalia (2009-present): A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/war-in-somalia-2009-present-a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s.md) _2018-02-06 13:49:29 (First version)_
 1. [A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s-lives-al-shabaab-has-claimed-re.md) _(Current version)_
 
 ### Related:

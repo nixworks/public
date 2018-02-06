@@ -17,7 +17,7 @@ THE forthcoming May 9 national and local elections have prompted the Foreign and
 
 ### Changes:
 
-1. [Moro conflict: The U.K. Foreign Office and the U.S. State Department issue travel advisories regarding the Philippine island of Mindanao and the Sulu Archipelago after a recent kidnapping near Davao City. ](/news/2016/04/22/moro-conflict-the-u-k-foreign-office-and-the-u-s-state-department-issue-travel-advisories-regarding-the-philippine-island-of-mindanao-and.md) _2017-08-27 03:45:47 (First version)_
+1. [Moro conflict: The U.K. Foreign Office and the U.S. State Department issue travel advisories regarding the Philippine island of Mindanao and the Sulu Archipelago after a recent kidnapping near Davao City. ](/news/2016/04/22/moro-conflict-the-u-k-foreign-office-and-the-u-s-state-department-issue-travel-advisories-regarding-the-philippine-island-of-mindanao-and.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.K. Foreign Office and the U.S. State Department issue travel advisories regarding the Philippine island of Mindanao and the Sulu Archipelago after a recent kidnapping near Davao City. ](/news/2016/04/22/the-u-k-foreign-office-and-the-u-s-state-department-issue-travel-advisories-regarding-the-philippine-island-of-mindanao-and-the-sulu-archi.md) _(Current version)_
 
 ### Related:

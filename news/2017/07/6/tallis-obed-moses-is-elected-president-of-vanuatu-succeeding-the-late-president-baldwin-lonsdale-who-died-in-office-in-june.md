@@ -16,7 +16,7 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 
 ### Changes:
 
-1. [Elections in Vanuatu: Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/elections-in-vanuatu-tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office.md) _2017-08-27 03:48:37 (First version)_
+1. [Elections in Vanuatu: Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/elections-in-vanuatu-tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office.md) _2018-02-06 13:49:31 (First version)_
 1. [Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office-in-june.md) _(Current version)_
 
 ### Related:

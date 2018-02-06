@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011-2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md) _2017-08-27 03:35:05 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011-2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md) _(Current version)_
 
 ### Related:

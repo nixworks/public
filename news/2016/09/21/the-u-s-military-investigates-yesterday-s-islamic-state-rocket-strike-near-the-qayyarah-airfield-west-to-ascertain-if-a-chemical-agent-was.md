@@ -16,7 +16,7 @@ The U.S. military is testing to see if a chemical agent may have been used in a 
 
 ### Changes:
 
-1. [Iraqi Civil War: The U.S. military investigates yesterday's Islamic State rocket strike near the Qayyarah Airfield West to ascertain if a chemical agent was used. ](/news/2016/09/21/iraqi-civil-war-the-u-s-military-investigates-yesterday-s-islamic-state-rocket-strike-near-the-qayyarah-airfield-west-to-ascertain-if-a-ch.md) _2017-08-27 03:46:53 (First version)_
+1. [Iraqi Civil War: The U.S. military investigates yesterday's Islamic State rocket strike near the Qayyarah Airfield West to ascertain if a chemical agent was used. ](/news/2016/09/21/iraqi-civil-war-the-u-s-military-investigates-yesterday-s-islamic-state-rocket-strike-near-the-qayyarah-airfield-west-to-ascertain-if-a-ch.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. military investigates yesterday's Islamic State rocket strike near the Qayyarah Airfield West to ascertain if a chemical agent was used. ](/news/2016/09/21/the-u-s-military-investigates-yesterday-s-islamic-state-rocket-strike-near-the-qayyarah-airfield-west-to-ascertain-if-a-chemical-agent-was.md) _(Current version)_
 
 ### Related:

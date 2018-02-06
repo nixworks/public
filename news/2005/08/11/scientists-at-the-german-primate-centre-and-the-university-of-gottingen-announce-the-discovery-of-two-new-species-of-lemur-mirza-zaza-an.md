@@ -16,5 +16,5 @@ Formats: [HTML](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the
 
 ### Changes:
 
-1. [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, ''Mirza zaza'' and ''Microcebus lehilahytsara''. ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza.md) _2017-08-25 03:16:40 (First version)_
+1. [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, ''Mirza zaza'' and ''Microcebus lehilahytsara''. ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza.md) _2018-02-06 13:49:16 (First version)_
 1. [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, "Mirza zaza" and "Microcebus lehilahytsara". ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza-an.md) _(Current version)_

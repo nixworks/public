@@ -16,7 +16,7 @@ Extraordinary readings pile pressure on operator Tepco in its efforts to decommi
 
 ### Changes:
 
-1. [Fukushima Daiichi nuclear disaster: According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/fukushima-daiichi-nuclear-disaster-according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-dai.md) _2017-08-27 03:47:45 (First version)_
+1. [Fukushima Daiichi nuclear disaster: According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/fukushima-daiichi-nuclear-disaster-according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-dai.md) _2018-02-06 13:49:30 (First version)_
 1. [According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-daiichi-nuclear-power-plant-damaged-by.md) _(Current version)_
 
 ### Related:

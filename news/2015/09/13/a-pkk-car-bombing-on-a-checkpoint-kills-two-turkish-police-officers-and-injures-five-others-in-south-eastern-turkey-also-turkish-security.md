@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/13/a-pkk-car-bombing-on-a-checkpoint-kills-two-tur
 
 ### Changes:
 
-1. [Turkey-PKK conflict: A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/turkey-pkk-conflict-a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey.md) _2017-08-27 03:43:02 (First version)_
+1. [Turkey-PKK conflict: A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/turkey-pkk-conflict-a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey.md) _2018-02-06 13:49:27 (First version)_
 1. [A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey-also-turkish-security.md) _(Current version)_
 
 ### Related:

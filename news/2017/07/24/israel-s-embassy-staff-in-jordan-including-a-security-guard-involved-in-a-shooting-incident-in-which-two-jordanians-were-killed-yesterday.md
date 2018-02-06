@@ -17,7 +17,7 @@ A security officer who killed an alleged attacker in Amman is among those to ret
 
 ### Changes:
 
-1. [Israel-Jordan relations: 2017 Amman incident: Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-jordan-relations-2017-amman-incident-israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident.md) _2017-08-27 03:48:43 (First version)_
+1. [Israel-Jordan relations: 2017 Amman incident: Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-jordan-relations-2017-amman-incident-israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident.md) _2018-02-06 13:49:30 (First version)_
 1. [Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident-in-which-two-jordanians-were-killed-yesterday.md) _(Current version)_
 
 ### Related:

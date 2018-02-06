@@ -18,7 +18,7 @@ A 12-year dispute has ended with an agreement that a 1912 oil painting will be r
 
 ### Changes:
 
-1. [Austria's Leopold Museum agrees to pay $19 million to the estate of Jewish art dealer Egon Schiele's for ''Portrait of Wally'', stolen from her by Nazism in World War II. ](/news/2010/07/21/austria-s-leopold-museum-agrees-to-pay-19-million-to-the-estate-of-jewish-art-dealer-egon-schiele-s-for-portrait-of-wally-stolen-from.md) _2017-08-25 03:28:56 (First version)_
+1. [Austria's Leopold Museum agrees to pay $19 million to the estate of Jewish art dealer Egon Schiele's for ''Portrait of Wally'', stolen from her by Nazism in World War II. ](/news/2010/07/21/austria-s-leopold-museum-agrees-to-pay-19-million-to-the-estate-of-jewish-art-dealer-egon-schiele-s-for-portrait-of-wally-stolen-from.md) _2018-02-06 13:49:20 (First version)_
 1. [Austria's Leopold Museum agrees to pay $19 million to the estate of Jewish art dealer Egon Schiele's for "Portrait of Wally", stolen from her by Nazism in World War II. ](/news/2010/07/21/austria-s-leopold-museum-agrees-to-pay-19-million-to-the-estate-of-jewish-art-dealer-egon-schiele-s-for-portrait-of-wally-stolen-from-he.md) _(Current version)_
 
 ### Related:

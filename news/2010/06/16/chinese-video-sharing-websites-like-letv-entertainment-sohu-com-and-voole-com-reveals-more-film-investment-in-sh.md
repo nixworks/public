@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entert
 
 ### Changes:
 
-1. [Shanghai International Film Festival:Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-pchinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-in.md) _2017-08-25 03:28:17 (First version)_
-2. [Shanghai International Film Festival:: Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-i.md) _2017-08-27 03:28:17 (Update)_
+1. [Shanghai International Film Festival:Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-pchinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-in.md) _2018-02-06 13:49:20 (First version)_
+2. [Shanghai International Film Festival:: Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-i.md) _2018-02-06 13:49:20 (Update)_
 2. [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md) _(Current version)_
 
 ### Related:

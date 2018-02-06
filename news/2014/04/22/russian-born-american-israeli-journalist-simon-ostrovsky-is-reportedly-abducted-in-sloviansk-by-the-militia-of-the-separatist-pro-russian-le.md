@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/22/russian-born-american-israeli-journalist-simon-
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-prussian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mili.md) _2017-08-25 03:40:19 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mil.md) _2017-08-27 03:40:37 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mil.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-prussian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mili.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/02/26/internal-and-international-pressure-continues-o
 
 ### Changes:
 
-1. [2011 Libyan civil war: Internal and international pressure continues on leader Muammar Gaddafi to stand down from power. ](/news/2011/02/26/2011-libyan-civil-war-internal-and-international-pressure-continues-on-leader-muammar-gaddafi-to-stand-down-from-power.md) _2017-08-27 03:32:29 (First version)_
+1. [2011 Libyan civil war: Internal and international pressure continues on leader Muammar Gaddafi to stand down from power. ](/news/2011/02/26/2011-libyan-civil-war-internal-and-international-pressure-continues-on-leader-muammar-gaddafi-to-stand-down-from-power.md) _2018-02-06 13:49:22 (First version)_
 1. [Internal and international pressure continues on leader Muammar Gaddafi to stand down from power. ](/news/2011/02/26/internal-and-international-pressure-continues-on-leader-muammar-gaddafi-to-stand-down-from-power.md) _(Current version)_
 
 ### Related:

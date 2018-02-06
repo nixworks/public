@@ -22,7 +22,7 @@ Fighting escalates in the Libyan port of Misrata and elsewhere as government for
 
 ### Changes:
 
-1. [Arab Spring: 2011 Syrian protests: President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/arab-spring-2011-syrian-protests-president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md) _2017-08-27 03:32:58 (First version)_
+1. [Arab Spring: 2011 Syrian protests: President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/arab-spring-2011-syrian-protests-president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md) _2018-02-06 13:49:22 (First version)_
 1. [President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md) _(Current version)_
 
 ### Related:

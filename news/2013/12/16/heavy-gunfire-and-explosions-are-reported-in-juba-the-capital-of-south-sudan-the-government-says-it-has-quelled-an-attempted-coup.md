@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/16/heavy-gunfire-and-explosions-are-reported-in-ju
 
 ### Changes:
 
-1. [2013 South Sudanese political crisis:Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/2013-south-sudanese-political-crisis-pheavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it.md) _2017-08-25 03:39:42 (First version)_
-2. [2013 South Sudanese political crisis:: Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/2013-south-sudanese-political-crisis-heavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it.md) _2017-08-27 03:40:00 (Update)_
+1. [2013 South Sudanese political crisis:Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/2013-south-sudanese-political-crisis-pheavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 South Sudanese political crisis:: Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/2013-south-sudanese-political-crisis-heavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it.md) _2018-02-06 13:49:25 (Update)_
 2. [Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/heavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it-has-quelled-an-attempted-coup.md) _(Current version)_
 
 ### Related:

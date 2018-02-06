@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/24/unofficial-reports-from-hong-kong-say-the-secon
 
 ### Changes:
 
-1. [ Unofficial reports from Hong Kong say the second Chinese human spaceflight, ''Shenzhou 6'', is expected to launch October 13 carrying two astronauts on a five day mission. ](/news/2005/09/24/unofficial-reports-from-hong-kong-say-the-second-chinese-human-spaceflight-shenzhou-6-is-expected-to-launch-october-13-carrying-two.md) _2017-08-25 03:16:50 (First version)_
+1. [ Unofficial reports from Hong Kong say the second Chinese human spaceflight, ''Shenzhou 6'', is expected to launch October 13 carrying two astronauts on a five day mission. ](/news/2005/09/24/unofficial-reports-from-hong-kong-say-the-second-chinese-human-spaceflight-shenzhou-6-is-expected-to-launch-october-13-carrying-two.md) _2018-02-06 13:49:16 (First version)_
 1. [ Unofficial reports from Hong Kong say the second Chinese human spaceflight, "Shenzhou 6", is expected to launch October 13 carrying two astronauts on a five day mission. ](/news/2005/09/24/unofficial-reports-from-hong-kong-say-the-second-chinese-human-spaceflight-shenzhou-6-is-expected-to-launch-october-13-carrying-two-ast.md) _(Current version)_
 
 ### Related:

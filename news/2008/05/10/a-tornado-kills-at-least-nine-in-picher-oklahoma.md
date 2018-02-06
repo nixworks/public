@@ -20,8 +20,8 @@ Formats: [HTML](/news/2008/05/10/a-tornado-kills-at-least-nine-in-picher-oklahom
 
 ### Changes:
 
-1. [ May 2008 tornado outbreak sequence: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-p-a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _2017-08-25 03:22:09 (First version)_
-2. [ May 2008 tornado outbreak sequence:: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _2017-08-27 03:22:03 (Update)_
+1. [ May 2008 tornado outbreak sequence: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-p-a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _2018-02-06 13:49:18 (First version)_
+2. [ May 2008 tornado outbreak sequence:: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _2018-02-06 13:49:18 (Update)_
 2. [ A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/a-tornado-kills-at-least-nine-in-picher-oklahoma.md) _(Current version)_
 
 ### Related:

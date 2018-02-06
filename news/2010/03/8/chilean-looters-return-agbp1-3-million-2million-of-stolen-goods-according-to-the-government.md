@@ -16,7 +16,7 @@ Looters in Chile have handed back stolen goods worth &pound;1.3 million ($2milli
 
 ### Changes:
 
-1. [Chilean looters return PS1.3 million ($2million) of stolen goods, according to the government. ](/news/2010/03/8/chilean-looters-return-aps1-3-million-2million-of-stolen-goods-according-to-the-government.md) _2017-08-25 03:27:19 (First version)_
+1. [Chilean looters return PS1.3 million ($2million) of stolen goods, according to the government. ](/news/2010/03/8/chilean-looters-return-aps1-3-million-2million-of-stolen-goods-according-to-the-government.md) _2018-02-06 13:49:19 (First version)_
 1. [Chilean looters return GBP1.3 million ($2million) of stolen goods, according to the government. ](/news/2010/03/8/chilean-looters-return-agbp1-3-million-2million-of-stolen-goods-according-to-the-government.md) _(Current version)_
 
 ### Related:

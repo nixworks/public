@@ -13,13 +13,13 @@ Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out 
 
 ##### Bani Jamra
 ### [A bomb detonates in Bani Jamra, Bahrain, injuring 3 police officers. ](/news/2014/12/20/a-bomb-detonates-in-bani-jamra-bahrain-injuring-3-police-officers.md)
-_Context: Bahrain, Bani Jamra_
+_Context: Bani Jamra, Bahrain_
 
 ##### Sony Pictures Entertainment hack
 ### [The North Korean government denies the U.S. Federal Bureau of Investigations's (FBI) accusation of involvement in hacking Sony's computers, asking the U.S. for a joint investigation and threatening "serious consequences" if the United States refuses the offer of cooperation. ](/news/2014/12/20/the-north-korean-government-denies-the-u-s-federal-bureau-of-investigations-s-fbi-accusation-of-involvement-in-hacking-sony-s-computers.md)
 Decrying U.S. allegations that it was behind a cyberattack on Sony Pictures as an “unfounded rumor,” North Korea on Saturday proposed a “joint investigation” into the hacking that prompted the studio to cancel the theatrical release of the comedy “The Interview,” which centers on a plot ...
 
-##### Turkish
+##### Turkey
 ### [Turkey issues an arrest warrant for Fethullah Gulen, who currently lives in self-imposed exile in the United States. ](/news/2014/12/20/turkey-issues-an-arrest-warrant-for-fethullah-ga1-4len-who-currently-lives-in-self-imposed-exile-in-the-united-states.md)
 The cleric facing arrest, Fethullah Gulen, lives in Pennsylvania but still has a broad following in Turkey that has reached into elite law enforcement, judiciary and business circles.
 
@@ -33,7 +33,7 @@ The suspect posted anti-police rants on Instagram before the fatal shooting.
 
 ##### Black Lives Matter
 ### [Hundreds of people from the group Black Lives Matter Minneapolis protest at the Mall of America, leading to its partial shutdown and 25 arrests. ](/news/2014/12/20/hundreds-of-people-from-the-group-black-lives-matter-minneapolis-protest-at-the-mall-of-america-leading-to-its-partial-shutdown-and-25-arre.md)
-_Context: Black Lives Matter, Mall of America_
+_Context: Mall of America, Black Lives Matter_
 
 ##### anthropologists
 ### [In preparation for a government-proposed transportation tunnel, anthropologists discover 6,000-year-old charcoal at a site near Stonehenge suggesting an encampment existed much earlier than previously theorized. ](/news/2014/12/20/in-preparation-for-a-government-proposed-transportation-tunnel-anthropologists-discover-6-000-year-old-charcoal-at-a-site-near-stonehenge-s.md)

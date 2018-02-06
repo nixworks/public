@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/11/19/the-indian-navy-frigate-ins-tabar-destroys-a-pi
 
 ### Changes:
 
-1. [ Piracy in Somalia: The Indian Navy frigate INS ''Tabar'' destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-p-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-th.md) _2017-08-25 03:23:12 (First version)_
-2. [ Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _2017-08-27 03:23:04 (Update)_
+1. [ Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _2018-02-06 13:49:18 (First version)_
+2. [ Piracy in Somalia: The Indian Navy frigate INS ''Tabar'' destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-p-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-th.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the-coast-of-somalia.md) _(Current version)_
 
 ### Related:

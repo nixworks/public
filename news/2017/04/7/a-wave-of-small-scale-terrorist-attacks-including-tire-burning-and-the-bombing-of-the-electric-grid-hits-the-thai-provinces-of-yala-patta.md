@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-includin
 
 ### Changes:
 
-1. [South Thailand insurgency: A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/south-thailand-insurgency-a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-th.md) _2017-08-27 03:48:07 (First version)_
+1. [South Thailand insurgency: A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/south-thailand-insurgency-a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-th.md) _2018-02-06 13:49:30 (First version)_
 1. [A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-thai-provinces-of-yala-patta.md) _(Current version)_
 
 ### Related:

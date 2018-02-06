@@ -16,7 +16,7 @@ Indian and Pakistan security forces trade fire along their troubled frontier, le
 
 ### Changes:
 
-1. [Kashmir conflict: India and Pakistan trade fire across the borders resulting in five civilian deaths in India and four in Pakistan. ](/news/2014/10/6/kashmir-conflict-india-and-pakistan-trade-fire-across-the-borders-resulting-in-five-civilian-deaths-in-india-and-four-in-pakistan.md) _2017-08-27 03:41:21 (First version)_
+1. [Kashmir conflict: India and Pakistan trade fire across the borders resulting in five civilian deaths in India and four in Pakistan. ](/news/2014/10/6/kashmir-conflict-india-and-pakistan-trade-fire-across-the-borders-resulting-in-five-civilian-deaths-in-india-and-four-in-pakistan.md) _2018-02-06 13:49:26 (First version)_
 1. [India and Pakistan trade fire across the borders resulting in five civilian deaths in India and four in Pakistan. ](/news/2014/10/6/india-and-pakistan-trade-fire-across-the-borders-resulting-in-five-civilian-deaths-in-india-and-four-in-pakistan.md) _(Current version)_
 
 ### Related:

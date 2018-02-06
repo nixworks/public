@@ -19,8 +19,8 @@ Seven people have been killed at a Syrian pro-government TV channel, state media
 
 ### Changes:
 
-1. [Syrian uprising:President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-ppresident-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md) _2017-08-25 03:35:59 (First version)_
-2. [Syrian uprising:: President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md) _2017-08-27 03:36:10 (Update)_
+1. [Syrian uprising:: President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-ppresident-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md) _2018-02-06 13:49:23 (Update)_
 2. [President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-
 
 ### Changes:
 
-1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md) _2017-08-27 03:46:43 (First version)_
+1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md) _2018-02-06 13:49:29 (First version)_
 1. [Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md) _(Current version)_
 
 ### Related:

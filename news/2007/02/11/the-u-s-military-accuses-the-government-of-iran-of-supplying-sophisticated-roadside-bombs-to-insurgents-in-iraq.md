@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran
 
 ### Changes:
 
-1. [ Iran: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-p-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2017-08-25 03:19:09 (First version)_
-2. [ Iran:: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2017-08-27 03:19:05 (Update)_
+1. [ Iran:: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iran: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-p-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2018-02-06 13:49:17 (Update)_
 2. [ The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ His children would need to fill out a security questionnaire and go through back
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump is seeking top secret security clearances for his children, according to CBS News. ](/news/2016/11/14/presidential-transition-of-donald-trump-president-elect-donald-trump-is-seeking-top-secret-security-clearances-for-his-children-according.md) _2017-08-27 03:47:14 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump is seeking top secret security clearances for his children, according to CBS News. ](/news/2016/11/14/presidential-transition-of-donald-trump-president-elect-donald-trump-is-seeking-top-secret-security-clearances-for-his-children-according.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect Donald Trump is seeking top secret security clearances for his children, according to CBS News. ](/news/2016/11/14/president-elect-donald-trump-is-seeking-top-secret-security-clearances-for-his-children-according-to-cbs-news.md) _(Current version)_
 
 ### Related:

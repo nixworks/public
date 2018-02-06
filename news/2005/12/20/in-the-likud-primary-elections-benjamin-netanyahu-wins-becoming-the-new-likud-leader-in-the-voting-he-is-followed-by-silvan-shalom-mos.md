@@ -17,8 +17,8 @@ New Likud leader addresses ruling party activists following primaries win, says 
 
 ### Changes:
 
-1. [ Israel: In the Likud primary elections, Benjamin Netanyahu wins, becoming the new Likud leader. In the voting, he is followed by Silvan Shalom, Moshe Feyglin, and Yisrael Katz. ](/news/2005/12/20/israel-p-in-the-likud-primary-elections-benjamin-netanyahu-wins-becoming-the-new-likud-leader-in-the-voting-he-is-followed-by-silvan-sh.md) _2017-08-25 03:17:18 (First version)_
-2. [ Israel:: In the Likud primary elections, Benjamin Netanyahu wins, becoming the new Likud leader. In the voting, he is followed by Silvan Shalom, Moshe Feyglin, and Yisrael Katz. ](/news/2005/12/20/israel-in-the-likud-primary-elections-benjamin-netanyahu-wins-becoming-the-new-likud-leader-in-the-voting-he-is-followed-by-silvan-sh.md) _2017-08-27 03:17:18 (Update)_
+1. [ Israel: In the Likud primary elections, Benjamin Netanyahu wins, becoming the new Likud leader. In the voting, he is followed by Silvan Shalom, Moshe Feyglin, and Yisrael Katz. ](/news/2005/12/20/israel-p-in-the-likud-primary-elections-benjamin-netanyahu-wins-becoming-the-new-likud-leader-in-the-voting-he-is-followed-by-silvan-sh.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israel:: In the Likud primary elections, Benjamin Netanyahu wins, becoming the new Likud leader. In the voting, he is followed by Silvan Shalom, Moshe Feyglin, and Yisrael Katz. ](/news/2005/12/20/israel-in-the-likud-primary-elections-benjamin-netanyahu-wins-becoming-the-new-likud-leader-in-the-voting-he-is-followed-by-silvan-sh.md) _2018-02-06 13:49:16 (Update)_
 2. [ In the Likud primary elections, Benjamin Netanyahu wins, becoming the new Likud leader. In the voting, he is followed by Silvan Shalom, Moshe Feyglin, and Yisrael Katz. ](/news/2005/12/20/in-the-likud-primary-elections-benjamin-netanyahu-wins-becoming-the-new-likud-leader-in-the-voting-he-is-followed-by-silvan-shalom-mos.md) _(Current version)_
 
 ### Related:

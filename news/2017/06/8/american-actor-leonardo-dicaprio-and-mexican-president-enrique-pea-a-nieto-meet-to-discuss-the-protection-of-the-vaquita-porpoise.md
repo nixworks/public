@@ -17,9 +17,9 @@ But it&#039;s going to take a lot more than star power to save the Mexican vaqui
 
 ### Changes:
 
-1. [American actor Leonardo DiCaprio locks the support of Mexican president Enrique Pea Nieto in the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-locks-the-support-of-mexican-president-enrique-pena-nieto-in-the-protection-of-the-vaquita-porpoise.md) _2017-06-08 13:30:07 (First version)_
-2. [American actor Leonardo DiCaprio locks the support of Mexican president Enrique Pena Nieto in the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-locks-the-support-of-mexican-president-enrique-pea-a-nieto-in-the-protection-of-the-vaquita-porpoise.md) _2017-06-08 14:30:06 (Update)_
-3. [IUCN Red List: American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. ](/news/2017/06/8/iucn-red-list-american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porp.md) _2017-08-27 03:48:27 (Update)_
+1. [IUCN Red List: American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. ](/news/2017/06/8/iucn-red-list-american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porp.md) _2018-02-06 13:49:30 (First version)_
+2. [American actor Leonardo DiCaprio locks the support of Mexican president Enrique Pea Nieto in the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-locks-the-support-of-mexican-president-enrique-pena-nieto-in-the-protection-of-the-vaquita-porpoise.md) _2018-02-06 13:49:30 (Update)_
+3. [American actor Leonardo DiCaprio locks the support of Mexican president Enrique Pena Nieto in the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-locks-the-support-of-mexican-president-enrique-pea-a-nieto-in-the-protection-of-the-vaquita-porpoise.md) _2018-02-06 13:49:30 (Update)_
 3. [American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.md) _(Current version)_
 
 ### Related:

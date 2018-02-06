@@ -16,7 +16,7 @@ Two prominent members of the Al Wefaq party held after one of them criticised th
 
 ### Changes:
 
-1. [Bahraini uprising (2011-present): Bahrain arrests two senior members of the Opposition Al Wefaq party, Jawad Ferooz and Mattar Ibrahim Mattar. ](/news/2011/05/2/bahraini-uprising-2011-present-bahrain-arrests-two-senior-members-of-the-opposition-al-wefaq-party-jawad-ferooz-and-mattar-ibrahim-mat.md) _2017-08-27 03:33:07 (First version)_
+1. [Bahraini uprising (2011-present): Bahrain arrests two senior members of the Opposition Al Wefaq party, Jawad Ferooz and Mattar Ibrahim Mattar. ](/news/2011/05/2/bahraini-uprising-2011-present-bahrain-arrests-two-senior-members-of-the-opposition-al-wefaq-party-jawad-ferooz-and-mattar-ibrahim-mat.md) _2018-02-06 13:49:22 (First version)_
 1. [Bahraini uprising (2011-present): Bahrain arrests two senior members of the Opposition Al Wefaq party, Jawad Ferooz and Mattar Ibrahim Mattar. ](/news/2011/05/2/bahraini-uprising-2011apresent-bahrain-arrests-two-senior-members-of-the-opposition-al-wefaq-party-jawad-ferooz-and-mattar-ibrahim-mat.md) _(Current version)_
 
 ### Related:

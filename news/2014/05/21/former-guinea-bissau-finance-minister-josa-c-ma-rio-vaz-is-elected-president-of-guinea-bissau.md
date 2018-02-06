@@ -16,8 +16,8 @@ By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a 
 
 ### Changes:
 
-1. [Guinea-Bissau general election, 2014:Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-pformer-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _2017-08-25 03:40:25 (First version)_
-2. [Guinea-Bissau general election, 2014:: Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-former-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _2017-08-27 03:40:43 (Update)_
+1. [Guinea-Bissau general election, 2014:Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-pformer-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _2018-02-06 13:49:26 (First version)_
+2. [Guinea-Bissau general election, 2014:: Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-former-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _2018-02-06 13:49:26 (Update)_
 2. [Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/former-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md) _(Current version)_
 
 ### Related:

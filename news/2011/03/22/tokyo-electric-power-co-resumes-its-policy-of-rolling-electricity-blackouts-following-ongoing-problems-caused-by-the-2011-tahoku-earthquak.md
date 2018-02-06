@@ -23,8 +23,8 @@ Tokyo Electric Power will have to compensate farmers for losses caused by the nu
 
 ### Changes:
 
-1. [2011 Tohoku earthquake and tsunami:Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/2011-tahoku-earthquake-and-tsunami-ptokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problems.md) _2017-08-25 03:32:37 (First version)_
-2. [2011 Tohoku earthquake and tsunami:: Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/2011-tahoku-earthquake-and-tsunami-tokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problem.md) _2017-08-27 03:32:45 (Update)_
+1. [2011 Tohoku earthquake and tsunami:: Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/2011-tahoku-earthquake-and-tsunami-tokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problem.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Tohoku earthquake and tsunami:Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/2011-tahoku-earthquake-and-tsunami-ptokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problems.md) _2018-02-06 13:49:22 (Update)_
 2. [Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/tokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problems-caused-by-the-2011-tahoku-earthquak.md) _(Current version)_
 
 ### Related:

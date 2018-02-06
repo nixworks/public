@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-
 
 ### Changes:
 
-1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians.md) _2017-08-25 03:18:57 (First version)_
+1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians.md) _2018-02-06 13:49:17 (First version)_
 1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians-o.md) _(Current version)_
 
 ### Related:

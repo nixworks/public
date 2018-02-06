@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-und
 
 ### Changes:
 
-1. [Lou Reed, lead singer of the band The Velvet Underground, dies at the age of 71. {{citation needed|date=October 2013}}](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-underground-dies-at-the-age-of-71-citation-needed-date-october-2013.md) _2017-05-01 03:42:48 (First version)_
+1. [Lou Reed, lead singer of the band The Velvet Underground, dies at the age of 71. {{citation needed|date=October 2013}}](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-underground-dies-at-the-age-of-71-citation-needed-date-october-2013.md) _2018-02-06 13:49:25 (First version)_
 1. [Lou Reed, lead singer of the band The Velvet Underground, dies at the age of 71. date=October 2013](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-underground-dies-at-the-age-of-71-date-october-2013.md) _(Current version)_
 
 ### Related:

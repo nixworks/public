@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/02/18/at-least-8-people-are-injured-during-an-attack-
 
 ### Changes:
 
-1. [2011 Jordanian protests:At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-pat-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _2017-08-25 03:32:15 (First version)_
-2. [2011 Jordanian protests:: At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _2017-08-27 03:32:24 (Update)_
+1. [2011 Jordanian protests:At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-pat-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Jordanian protests:: At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _2018-02-06 13:49:22 (Update)_
 2. [At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md) _(Current version)_
 
 ### Related:

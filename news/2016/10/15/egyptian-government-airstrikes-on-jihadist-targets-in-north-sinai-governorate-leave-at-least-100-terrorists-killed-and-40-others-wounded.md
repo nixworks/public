@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/15/egyptian-government-airstrikes-on-jihadist-targ
 
 ### Changes:
 
-1. [Sinai insurgency: Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. ](/news/2016/10/15/sinai-insurgency-egyptian-government-airstrikes-on-jihadist-targets-in-north-sinai-governorate-leave-at-least-100-terrorists-killed-and-40.md) _2017-08-27 03:47:03 (First version)_
+1. [Sinai insurgency: Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. ](/news/2016/10/15/sinai-insurgency-egyptian-government-airstrikes-on-jihadist-targets-in-north-sinai-governorate-leave-at-least-100-terrorists-killed-and-40.md) _2018-02-06 13:49:29 (First version)_
 1. [Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. ](/news/2016/10/15/egyptian-government-airstrikes-on-jihadist-targets-in-north-sinai-governorate-leave-at-least-100-terrorists-killed-and-40-others-wounded.md) _(Current version)_
 
 ### Related:

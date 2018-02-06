@@ -17,8 +17,8 @@ Two Nigerian politicians die during an attack by gunmen on a funeral for victims
 
 ### Changes:
 
-1. [Nigeria violence:Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-pgunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _2017-08-25 03:36:04 (First version)_
-2. [Nigeria violence:: Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _2017-08-27 03:36:15 (Update)_
+1. [Nigeria violence:Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-pgunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _2018-02-06 13:49:23 (First version)_
+2. [Nigeria violence:: Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _2018-02-06 13:49:23 (Update)_
 2. [Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md) _(Current version)_
 
 ### Related:

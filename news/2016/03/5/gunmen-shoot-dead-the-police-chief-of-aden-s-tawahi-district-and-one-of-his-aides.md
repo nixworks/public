@@ -16,7 +16,7 @@ Gunmen opened fire and killed a police colonel and his aide as their vehicle was
 
 ### Changes:
 
-1. [Aden unrest (2015-present): Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/aden-unrest-2015-present-gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md) _2017-08-27 03:45:08 (First version)_
+1. [Aden unrest (2015-present): Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/aden-unrest-2015-present-gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md) _(Current version)_
 
 ### Related:

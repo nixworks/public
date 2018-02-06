@@ -16,7 +16,7 @@ Sirens heard in southern Israel as missile fire pierces calm for fourth time in 
 
 ### Changes:
 
-1. [Palestinian rocket attacks on Israel: A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/palestinian-rocket-attacks-on-israel-a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-w.md) _2017-08-27 03:42:30 (First version)_
+1. [Palestinian rocket attacks on Israel: A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/palestinian-rocket-attacks-on-israel-a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-w.md) _2018-02-06 13:49:27 (First version)_
 1. [A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-with-palestinian-sources-indicating-it.md) _(Current version)_
 
 ### Related:

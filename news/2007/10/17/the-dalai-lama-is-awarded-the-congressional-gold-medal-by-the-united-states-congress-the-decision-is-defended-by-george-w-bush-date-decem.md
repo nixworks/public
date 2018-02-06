@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gol
 
 ### Changes:
 
-1. [ The Dalai Lama is awarded the Congressional Gold Medal by the United States Congress; the decision is defended by George W. Bush.{{Fact|date=December 2007}}](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gold-medal-by-the-united-states-congress-the-decision-is-defended-by-george-w-bush-fact-dat.md) _2017-05-01 03:22:03 (First version)_
+1. [ The Dalai Lama is awarded the Congressional Gold Medal by the United States Congress; the decision is defended by George W. Bush.{{Fact|date=December 2007}}](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gold-medal-by-the-united-states-congress-the-decision-is-defended-by-george-w-bush-fact-dat.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Dalai Lama is awarded the Congressional Gold Medal by the United States Congress; the decision is defended by George W. Bush.date=December 2007](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gold-medal-by-the-united-states-congress-the-decision-is-defended-by-george-w-bush-date-decem.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A federal judge on Tuesday night issued a nationwide injunction ordering the Tru
 
 ### Changes:
 
-1. [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the Deferred Action for Childhood Arrivals (DACA) program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-defer.md) _2018-01-11 06:30:05 (First version)_
+1. [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the Deferred Action for Childhood Arrivals (DACA) program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-defer.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the DACA program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-daca.md) _(Current version)_
 
 ### Related:

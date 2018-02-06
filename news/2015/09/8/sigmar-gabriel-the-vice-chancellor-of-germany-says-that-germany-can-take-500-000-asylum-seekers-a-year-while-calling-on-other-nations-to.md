@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/8/sigmar-gabriel-the-vice-chancellor-of-germany-sa
 
 ### Changes:
 
-1. [European migrant crisis: Sigmar Gabriel, the Vice Chancellor of Germany, says that Germany "can take 500,000 asylum seekers a year" while calling on other nations to take their fair share. ](/news/2015/09/8/european-migrant-crisis-sigmar-gabriel-the-vice-chancellor-of-germany-says-that-germany-can-take-500-000-asylum-seekers-a-year-while-ca.md) _2017-08-27 03:42:59 (First version)_
+1. [European migrant crisis: Sigmar Gabriel, the Vice Chancellor of Germany, says that Germany "can take 500,000 asylum seekers a year" while calling on other nations to take their fair share. ](/news/2015/09/8/european-migrant-crisis-sigmar-gabriel-the-vice-chancellor-of-germany-says-that-germany-can-take-500-000-asylum-seekers-a-year-while-ca.md) _2018-02-06 13:49:27 (First version)_
 1. [Sigmar Gabriel, the Vice Chancellor of Germany, says that Germany "can take 500,000 asylum seekers a year" while calling on other nations to take their fair share. ](/news/2015/09/8/sigmar-gabriel-the-vice-chancellor-of-germany-says-that-germany-can-take-500-000-asylum-seekers-a-year-while-calling-on-other-nations-to.md) _(Current version)_
 
 ### Related:

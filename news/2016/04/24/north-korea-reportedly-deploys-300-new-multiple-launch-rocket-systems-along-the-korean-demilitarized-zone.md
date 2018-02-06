@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/24/north-korea-reportedly-deploys-300-new-multiple
 
 ### Changes:
 
-1. [North Korea-South Korea relations: North Korea reportedly deploys 300 new multiple launch rocket systems along the Korean Demilitarized Zone. ](/news/2016/04/24/north-korea-south-korea-relations-north-korea-reportedly-deploys-300-new-multiple-launch-rocket-systems-along-the-korean-demilitarized-zo.md) _2017-08-27 03:45:48 (First version)_
+1. [North Korea-South Korea relations: North Korea reportedly deploys 300 new multiple launch rocket systems along the Korean Demilitarized Zone. ](/news/2016/04/24/north-korea-south-korea-relations-north-korea-reportedly-deploys-300-new-multiple-launch-rocket-systems-along-the-korean-demilitarized-zo.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea reportedly deploys 300 new multiple launch rocket systems along the Korean Demilitarized Zone. ](/news/2016/04/24/north-korea-reportedly-deploys-300-new-multiple-launch-rocket-systems-along-the-korean-demilitarized-zone.md) _(Current version)_
 
 ### Related:

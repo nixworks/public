@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### suicide bomb
 ### [ Two suicide bombings in the Iraqi capital, Baghdad, leave at least 22 people dead and 26 wounded. ](/news/2006/01/19/two-suicide-bombings-in-the-iraqi-capital-baghdad-leave-at-least-22-people-dead-and-26-wounded.md)
-_Context: capital, Baghdad, suicide bomb, Iraq_
+_Context: suicide bomb, capital, Iraq, Baghdad_
 
 ##### Iraq
 ### [ Italy will conclude its mission in Iraq by the end of the year, in the first clear timetable for Rome to withdraw its troops, says Defense Minister Antonio Martino. ](/news/2006/01/19/italy-will-conclude-its-mission-in-iraq-by-the-end-of-the-year-in-the-first-clear-timetable-for-rome-to-withdraw-its-troops-says-defense.md)
@@ -37,7 +37,7 @@ _Context: Isabelle Dinoire, face transplant_
 
 ##### Slovakia
 ### [ A Slovak Antonov An-24 military aircraft carrying troops back from Kosovo crashes into a mountainside in northeastern Hungary, killing 42 people. Only one person survived. ](/news/2006/01/19/a-slovak-antonov-an-24-military-aircraft-carrying-troops-back-from-kosovo-crashes-into-a-mountainside-in-northeastern-hungary-killing-42-p.md)
-_Context: Antonov An-24, Hungary, crashes, military, Slovakia, Kosovo_
+_Context: military, Hungary, Slovakia, Kosovo, crashes, Antonov An-24_
 
 ##### temperatures
 ### [ At least thirty-one people have died during a four-day cold snap in Russia where temperatures have plunged to as low as [?]42&nbsp;degC ([?]44&nbsp;degF). ](/news/2006/01/19/at-least-thirty-one-people-have-died-during-a-four-day-cold-snap-in-russia-where-temperatures-have-plunged-to-as-low-as-a42-nbsp-adegc-a.md)
@@ -53,7 +53,7 @@ New Horizons launched on Jan. 19, 2006 and conducted a six-month-long reconnaiss
 
 ##### Azerbaijan
 ### [ In Azerbaijan, two students (Turan Aliev from Baku State University and Namik Feiziev of Azerbaijan State Pedagogical University) are readmitted and end their 22-day hunger strike, started in protest at their expulsion which they claim resulted from their political activities. ](/news/2006/01/19/in-azerbaijan-two-students-turan-aliev-from-baku-state-university-and-namik-feiziev-of-azerbaijan-state-pedagogical-university-are-readm.md)
-_Context: Azerbaijan State Pedagogical University, hunger strike, Baku State University, Azerbaijan_
+_Context: Azerbaijan State Pedagogical University, hunger strike, Azerbaijan, Baku State University_
 
 ## [Previous Day...](/news/2006/01/18/index.md)
 

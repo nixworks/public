@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-t
 
 ### Changes:
 
-1. [Six-time U.S. NASA astronaut John Young dies at the age of 87. He was the 9th man to set foot on the moon. [http:--amp.timeinc.net-fortune-2018-01-06-astronaut-john-young-dead "(Time Magazine)"]](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-the-age-of-87-he-was-the-9th-man-to-set-foot-on-the-moon-http-amp-timeinc-net-fortune-2.md) _2018-01-09 11:30:04 (First version)_
+1. [Six-time U.S. NASA astronaut John Young dies at the age of 87. He was the 9th man to set foot on the moon. [http:--amp.timeinc.net-fortune-2018-01-06-astronaut-john-young-dead "(Time Magazine)"]](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-the-age-of-87-he-was-the-9th-man-to-set-foot-on-the-moon-http-amp-timeinc-net-fortune-2.md) _2018-02-06 13:49:31 (First version)_
 1. [Six-time U.S. NASA astronaut John Young dies at the age of 87. He was the 9th man who walked on the Moon. [http:--amp.timeinc.net-fortune-2018-01-06-astronaut-john-young-dead "(Time Magazine)"]](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-the-age-of-87-he-was-the-9th-man-who-walked-on-the-moon-http-amp-timeinc-net-fortune-20.md) _(Current version)_
 
 ### Related:

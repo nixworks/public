@@ -16,7 +16,7 @@ Libyan Islamist group Ansar al-Sharia, a group linked to Al-Qaeda, is formally d
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Ansar al-Sharia announces it is formally dissolving amid heavy losses that have wiped out its leadership and decimated its fighters. The group was responsible for the 2012 Benghazi attack. ](/news/2017/05/27/libyan-civil-war-2014-present-ansar-al-sharia-announces-it-is-formally-dissolving-amid-heavy-losses-that-have-wiped-out-its-leadership.md) _2017-08-27 03:48:24 (First version)_
+1. [Libyan Civil War (2014-present): Ansar al-Sharia announces it is formally dissolving amid heavy losses that have wiped out its leadership and decimated its fighters. The group was responsible for the 2012 Benghazi attack. ](/news/2017/05/27/libyan-civil-war-2014-present-ansar-al-sharia-announces-it-is-formally-dissolving-amid-heavy-losses-that-have-wiped-out-its-leadership.md) _2018-02-06 13:49:30 (First version)_
 1. [Ansar al-Sharia announces it is formally dissolving amid heavy losses that have wiped out its leadership and decimated its fighters. The group was responsible for the 2012 Benghazi attack. ](/news/2017/05/27/ansar-al-sharia-announces-it-is-formally-dissolving-amid-heavy-losses-that-have-wiped-out-its-leadership-and-decimated-its-fighters-the-gro.md) _(Current version)_
 
 ### Related:

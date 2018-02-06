@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Somali Civil War:Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-civil-war-psomali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md) _2017-08-25 03:40:55 (First version)_
-2. [Somali Civil War:: Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-civil-war-somali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md) _2017-08-27 03:41:13 (Update)_
+1. [Somali Civil War:: Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-civil-war-somali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md) _2018-02-06 13:49:26 (First version)_
+2. [Somali Civil War:Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-civil-war-psomali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md) _2018-02-06 13:49:26 (Update)_
 2. [Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md) _(Current version)_
 
 ### Related:

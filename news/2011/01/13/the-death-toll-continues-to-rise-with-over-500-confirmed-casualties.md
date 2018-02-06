@@ -17,6 +17,6 @@ More than 500 people have been confirmed dead in mudslides and floods near Rio d
 
 ### Changes:
 
-1. [Floods in Rio de Janeiro, Brazil:The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/floods-in-rio-de-janeiro-brazil-pthe-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md) _2017-08-25 03:31:45 (First version)_
-2. [Floods in Rio de Janeiro, Brazil:: The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/floods-in-rio-de-janeiro-brazil-the-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md) _2017-08-27 03:31:53 (Update)_
+1. [Floods in Rio de Janeiro, Brazil:: The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/floods-in-rio-de-janeiro-brazil-the-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md) _2018-02-06 13:49:21 (First version)_
+2. [Floods in Rio de Janeiro, Brazil:The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/floods-in-rio-de-janeiro-brazil-pthe-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md) _2018-02-06 13:49:21 (Update)_
 2. [The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/the-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md) _(Current version)_

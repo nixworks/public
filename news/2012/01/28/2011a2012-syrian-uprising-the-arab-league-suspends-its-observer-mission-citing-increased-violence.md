@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspe
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011-2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md) _2017-08-27 03:35:04 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011-2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md) _(Current version)_
 
 ### Related:

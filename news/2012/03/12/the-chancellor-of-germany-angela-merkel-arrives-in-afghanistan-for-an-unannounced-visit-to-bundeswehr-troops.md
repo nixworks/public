@@ -18,8 +18,8 @@ Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick min
 
 ### Changes:
 
-1. [Afghanistan:The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/afghanistan-pthe-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md) _2017-08-25 03:35:16 (First version)_
-2. [Afghanistan:: The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/afghanistan-the-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md) _2017-08-27 03:35:25 (Update)_
+1. [Afghanistan:: The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/afghanistan-the-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md) _2018-02-06 13:49:23 (First version)_
+2. [Afghanistan:The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/afghanistan-pthe-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md) _2018-02-06 13:49:23 (Update)_
 2. [The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/the-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md) _(Current version)_
 
 ### Related:

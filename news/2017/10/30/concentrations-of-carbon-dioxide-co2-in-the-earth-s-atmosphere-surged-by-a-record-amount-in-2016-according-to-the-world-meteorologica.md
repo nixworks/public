@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-ear
 
 ### Changes:
 
-1. [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged to a record high in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-to-a-record-high-in-2016-according-to-the-world-meteorological.md) _2017-10-30 16:30:05 (First version)_
+1. [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged to a record high in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-to-a-record-high-in-2016-according-to-the-world-meteorological.md) _2018-02-06 13:49:31 (First version)_
 1. [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged by a record amount in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.md) _(Current version)_
 
 ### Related:

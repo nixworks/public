@@ -16,7 +16,7 @@ Several officials, including a top aide to Prime Minister Petr Necas, are report
 
 ### Changes:
 
-1. [Czech investigative authorities start a raid against organized crime, affecting the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.](/news/2013/06/13/czech-investigative-authorities-start-a-raid-against-organized-crime-affecting-the-top-levels-of-czech-politics-including-prime-minister.md) _2017-08-25 03:38:50 (First version)_
+1. [Czech investigative authorities start a raid against organized crime, affecting the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.](/news/2013/06/13/czech-investigative-authorities-start-a-raid-against-organized-crime-affecting-the-top-levels-of-czech-politics-including-prime-minister.md) _2018-02-06 13:49:25 (First version)_
 1. [Czech investigative authorities start a raid against organized crime, affecting the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.](/news/2013/06/13/czech-investigative-authorities-start-a-raid-against-organized-crime-affecting-the-top-levels-of-czech-politics-including-prime-minister-p.md) _(Current version)_
 
 ### Related:

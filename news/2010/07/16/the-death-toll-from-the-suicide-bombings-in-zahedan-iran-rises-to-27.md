@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/07/16/the-death-toll-from-the-suicide-bombings-in-zah
 
 ### Changes:
 
-1. [July 2010 Zahedan bombings: The death toll from the suicide bombings in Zahedan, Iran, rises to 27. ](/news/2010/07/16/july-2010-zahedan-bombings-the-death-toll-from-the-suicide-bombings-in-zahedan-iran-rises-to-27.md) _2017-08-27 03:28:48 (First version)_
+1. [July 2010 Zahedan bombings: The death toll from the suicide bombings in Zahedan, Iran, rises to 27. ](/news/2010/07/16/july-2010-zahedan-bombings-the-death-toll-from-the-suicide-bombings-in-zahedan-iran-rises-to-27.md) _2018-02-06 13:49:20 (First version)_
 1. [The death toll from the suicide bombings in Zahedan, Iran, rises to 27. ](/news/2010/07/16/the-death-toll-from-the-suicide-bombings-in-zahedan-iran-rises-to-27.md) _(Current version)_
 
 ### Related:

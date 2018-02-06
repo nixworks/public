@@ -16,7 +16,7 @@ Rights groups raise concerns as Hungary approves the automatic detention of asyl
 
 ### Changes:
 
-1. [European migrant crisis: The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/european-migrant-crisis-the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _2017-08-27 03:47:57 (First version)_
+1. [European migrant crisis: The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/european-migrant-crisis-the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _2018-02-06 13:49:30 (First version)_
 1. [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _(Current version)_
 
 ### Related:

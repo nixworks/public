@@ -16,7 +16,7 @@ Senator had come under fire for his views on race and civil rights in a tempestu
 
 ### Changes:
 
-1. [Cabinet of Donald Trump: The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/cabinet-of-donald-trump-the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-ge.md) _2017-08-27 03:47:47 (First version)_
+1. [Cabinet of Donald Trump: The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/cabinet-of-donald-trump-the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-ge.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md) _(Current version)_
 
 ### Related:

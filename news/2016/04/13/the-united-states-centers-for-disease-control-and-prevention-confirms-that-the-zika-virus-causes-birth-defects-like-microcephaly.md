@@ -16,7 +16,7 @@ The Centers for Disease Control and Prevention (CDC) said Wednesday evening that
 
 ### Changes:
 
-1. [Zika virus outbreak (2015-present): The United States Centers for Disease Control and Prevention confirms that the Zika virus causes birth defects like microcephaly. ](/news/2016/04/13/zika-virus-outbreak-2015-present-the-united-states-centers-for-disease-control-and-prevention-confirms-that-the-zika-virus-causes-birth.md) _2017-08-27 03:45:36 (First version)_
+1. [Zika virus outbreak (2015-present): The United States Centers for Disease Control and Prevention confirms that the Zika virus causes birth defects like microcephaly. ](/news/2016/04/13/zika-virus-outbreak-2015-present-the-united-states-centers-for-disease-control-and-prevention-confirms-that-the-zika-virus-causes-birth.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Centers for Disease Control and Prevention confirms that the Zika virus causes birth defects like microcephaly. ](/news/2016/04/13/the-united-states-centers-for-disease-control-and-prevention-confirms-that-the-zika-virus-causes-birth-defects-like-microcephaly.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ At least 17 soldiers have been killed, while 4 militants were shot dead by India
 
 ### Changes:
 
-1. [Kashmir insurgency: Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/kashmir-insurgency-four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-m.md) _2017-08-27 03:46:52 (First version)_
+1. [Kashmir insurgency: Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/kashmir-insurgency-four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-m.md) _2018-02-06 13:49:29 (First version)_
 1. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _(Current version)_
 
 ### Related:

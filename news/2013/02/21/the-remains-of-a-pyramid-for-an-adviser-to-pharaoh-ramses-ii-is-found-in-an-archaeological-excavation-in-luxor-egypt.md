@@ -16,7 +16,7 @@ A pyramid that dates back more than 3000 years and was built for an adviser to K
 
 ### Changes:
 
-1. [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaelogical excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaelogical-excavation-in-luxor-egypt.md) _2017-10-17 03:43:44 (First version)_
+1. [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaelogical excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaelogical-excavation-in-luxor-egypt.md) _2018-02-06 13:49:24 (First version)_
 1. [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaeological excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaeological-excavation-in-luxor-egypt.md) _(Current version)_
 
 ### Related:

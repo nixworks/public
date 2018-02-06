@@ -17,8 +17,8 @@ A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel
 
 ### Changes:
 
-1. [Libyan Civil War:Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-pfriendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _2017-08-25 03:32:43 (First version)_
-2. [Libyan Civil War:: Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-friendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _2017-08-27 03:32:51 (Update)_
+1. [Libyan Civil War:Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-pfriendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-friendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _2018-02-06 13:49:22 (Update)_
 2. [Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/friendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md) _(Current version)_
 
 ### Related:

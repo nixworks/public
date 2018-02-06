@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels
 
 ### Changes:
 
-1. [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time ''As the World Turns'' after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in.md) _2017-08-25 03:26:33 (First version)_
+1. [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time ''As the World Turns'' after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in.md) _2018-02-06 13:49:19 (First version)_
 1. [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time "As the World Turns" after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in-ef.md) _(Current version)_
 
 ### Related:

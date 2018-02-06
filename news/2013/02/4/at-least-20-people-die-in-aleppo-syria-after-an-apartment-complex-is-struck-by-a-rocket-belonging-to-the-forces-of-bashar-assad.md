@@ -17,8 +17,8 @@ An airstrike by Syrian government forces leveled an apartment building in a&nbsp
 
 ### Changes:
 
-1. [Syrian civil war:At least 20 people die in Aleppo, Syria, after an apartment complex is struck by a rocket belonging to the forces of Bashar Assad. ](/news/2013/02/4/syrian-civil-war-pat-least-20-people-die-in-aleppo-syria-after-an-apartment-complex-is-struck-by-a-rocket-belonging-to-the-forces-of-basha.md) _2017-08-25 03:37:25 (First version)_
-2. [Syrian civil war:: At least 20 people die in Aleppo, Syria, after an apartment complex is struck by a rocket belonging to the forces of Bashar Assad. ](/news/2013/02/4/syrian-civil-war-at-least-20-people-die-in-aleppo-syria-after-an-apartment-complex-is-struck-by-a-rocket-belonging-to-the-forces-of-bash.md) _2017-08-27 03:37:35 (Update)_
+1. [Syrian civil war:At least 20 people die in Aleppo, Syria, after an apartment complex is struck by a rocket belonging to the forces of Bashar Assad. ](/news/2013/02/4/syrian-civil-war-pat-least-20-people-die-in-aleppo-syria-after-an-apartment-complex-is-struck-by-a-rocket-belonging-to-the-forces-of-basha.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 20 people die in Aleppo, Syria, after an apartment complex is struck by a rocket belonging to the forces of Bashar Assad. ](/news/2013/02/4/syrian-civil-war-at-least-20-people-die-in-aleppo-syria-after-an-apartment-complex-is-struck-by-a-rocket-belonging-to-the-forces-of-bash.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 20 people die in Aleppo, Syria, after an apartment complex is struck by a rocket belonging to the forces of Bashar Assad. ](/news/2013/02/4/at-least-20-people-die-in-aleppo-syria-after-an-apartment-complex-is-struck-by-a-rocket-belonging-to-the-forces-of-bashar-assad.md) _(Current version)_
 
 ### Related:

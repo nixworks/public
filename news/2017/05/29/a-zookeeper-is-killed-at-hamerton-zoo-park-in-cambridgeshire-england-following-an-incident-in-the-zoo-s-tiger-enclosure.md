@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/29/a-zookeeper-is-killed-at-hamerton-zoo-park-in-c
 
 ### Changes:
 
-1. [A female zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-female-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md) _2017-06-01 15:30:05 (First version)_
+1. [A female zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-female-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md) _2018-02-06 13:49:30 (First version)_
 1. [A zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md) _(Current version)_
 
 ### Related:

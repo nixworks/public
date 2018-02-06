@@ -16,8 +16,8 @@ A search operation for three US marines missing off the Queensland coast has bee
 
 ### Changes:
 
-1. [The search for three members of the United States Marines Corp lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corp-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-que.md) _2017-08-06 12:30:06 (First version)_
-2. [2017 V-22 Osprey crash: The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/2017-v-22-osprey-crash-the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-th.md) _2017-08-27 03:48:47 (Update)_
+1. [The search for three members of the United States Marines Corp lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corp-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-que.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 V-22 Osprey crash: The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/2017-v-22-osprey-crash-the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-th.md) _2018-02-06 13:49:31 (Update)_
 2. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _(Current version)_
 
 ### Related:

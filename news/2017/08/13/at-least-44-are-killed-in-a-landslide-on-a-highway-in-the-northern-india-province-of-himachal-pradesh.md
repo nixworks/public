@@ -17,9 +17,9 @@ Formats: [HTML](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-high
 
 ### Changes:
 
-1. [Monsoons in At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/monsoons-in-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _2017-08-15 10:30:05 (First version)_
-2. [Monsoons in Nepal and At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/monsoons-in-nepal-and-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _2017-08-15 22:30:05 (Update)_
-3. [August 2017 Nepal and India floods: At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/august-2017-nepal-and-india-floods-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _2017-08-27 03:48:48 (Update)_
+1. [Monsoons in Nepal and At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/monsoons-in-nepal-and-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _2018-02-06 13:49:31 (First version)_
+2. [Monsoons in At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/monsoons-in-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _2018-02-06 13:49:31 (Update)_
+3. [August 2017 Nepal and India floods: At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/august-2017-nepal-and-india-floods-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _2018-02-06 13:49:31 (Update)_
 3. [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _(Current version)_
 
 ### Related:

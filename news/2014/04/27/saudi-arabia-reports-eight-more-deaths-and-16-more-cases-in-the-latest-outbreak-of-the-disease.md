@@ -16,8 +16,8 @@ RIYADH, Saudi Arabia (AP) — Saudi Arabia&#x27;s Health Ministry said Sunday th
 
 ### Changes:
 
-1. [Middle East respiratory syndrome:Saudi Arabia reports eight more deaths and 16 more cases in the latest outbreak of the disease. ](/news/2014/04/27/middle-east-respiratory-syndrome-psaudi-arabia-reports-eight-more-deaths-and-16-more-cases-in-the-latest-outbreak-of-the-disease.md) _2017-08-25 03:40:20 (First version)_
-2. [Middle East respiratory syndrome:: Saudi Arabia reports eight more deaths and 16 more cases in the latest outbreak of the disease. ](/news/2014/04/27/middle-east-respiratory-syndrome-saudi-arabia-reports-eight-more-deaths-and-16-more-cases-in-the-latest-outbreak-of-the-disease.md) _2017-08-27 03:40:38 (Update)_
+1. [Middle East respiratory syndrome:: Saudi Arabia reports eight more deaths and 16 more cases in the latest outbreak of the disease. ](/news/2014/04/27/middle-east-respiratory-syndrome-saudi-arabia-reports-eight-more-deaths-and-16-more-cases-in-the-latest-outbreak-of-the-disease.md) _2018-02-06 13:49:26 (First version)_
+2. [Middle East respiratory syndrome:Saudi Arabia reports eight more deaths and 16 more cases in the latest outbreak of the disease. ](/news/2014/04/27/middle-east-respiratory-syndrome-psaudi-arabia-reports-eight-more-deaths-and-16-more-cases-in-the-latest-outbreak-of-the-disease.md) _2018-02-06 13:49:26 (Update)_
 2. [Saudi Arabia reports eight more deaths and 16 more cases in the latest outbreak of the disease. ](/news/2014/04/27/saudi-arabia-reports-eight-more-deaths-and-16-more-cases-in-the-latest-outbreak-of-the-disease.md) _(Current version)_
 
 ### Related:

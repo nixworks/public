@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/12/12/bush-v-gore-the-u-s-supreme-court-stops-the-flo
 
 ### Changes:
 
-1. [ ''Bush v. Gore'': The U.S. Supreme Court stops the Florida presidential recount, effectively giving the state, and the Presidency, to George W. Bush, although some sources claimed Gore had won, by many overvotes, rejected by computer, showing votes for Gore plus write-in "Gore".](/news/2000/12/12/bush-v-gore-the-u-s-supreme-court-stops-the-florida-presidential-recount-effectively-giving-the-state-and-the-presidency-to-georg.md) _2017-08-25 03:15:09 (First version)_
+1. [ ''Bush v. Gore'': The U.S. Supreme Court stops the Florida presidential recount, effectively giving the state, and the Presidency, to George W. Bush, although some sources claimed Gore had won, by many overvotes, rejected by computer, showing votes for Gore plus write-in "Gore".](/news/2000/12/12/bush-v-gore-the-u-s-supreme-court-stops-the-florida-presidential-recount-effectively-giving-the-state-and-the-presidency-to-georg.md) _2018-02-06 13:49:15 (First version)_
 1. [ "Bush v. Gore": The U.S. Supreme Court stops the Florida presidential recount, effectively giving the state, and the Presidency, to George W. Bush, although some sources claimed Gore had won, by many overvotes, rejected by computer, showing votes for Gore plus write-in "Gore".](/news/2000/12/12/bush-v-gore-the-u-s-supreme-court-stops-the-florida-presidential-recount-effectively-giving-the-state-and-the-presidency-to-george.md) _(Current version)_
 
 ### Related:

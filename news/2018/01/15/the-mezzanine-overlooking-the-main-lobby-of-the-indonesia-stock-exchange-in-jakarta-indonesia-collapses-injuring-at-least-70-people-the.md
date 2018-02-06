@@ -17,7 +17,7 @@ MORE than 70 people are said to be injured after a floor of the Indonesian stock
 
 ### Changes:
 
-1. [At least 70 people are injured after the mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta collapses. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/at-least-70-people-are-injured-after-the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-collapses-the-indo.md) _2018-01-15 10:30:06 (First version)_
+1. [At least 70 people are injured after the mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta collapses. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/at-least-70-people-are-injured-after-the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-collapses-the-indo.md) _2018-02-06 13:49:31 (First version)_
 1. [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md) _(Current version)_
 
 ### Related:

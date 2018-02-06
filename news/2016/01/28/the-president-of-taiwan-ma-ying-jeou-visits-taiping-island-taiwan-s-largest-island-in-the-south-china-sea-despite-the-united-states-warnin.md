@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-tai
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/territorial-disputes-in-the-south-china-sea-the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-sout.md) _2017-08-27 03:44:47 (First version)_
+1. [Territorial disputes in the South China Sea: The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/territorial-disputes-in-the-south-china-sea-the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-sout.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md) _(Current version)_
 
 ### Related:

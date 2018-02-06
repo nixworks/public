@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-fa
 
 ### Changes:
 
-1. [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose ''nom de guerre'' was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by.md) _2017-08-25 03:30:12 (First version)_
+1. [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose ''nom de guerre'' was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by.md) _2018-02-06 13:49:20 (First version)_
 1. [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md) _(Current version)_
 
 ### Related:

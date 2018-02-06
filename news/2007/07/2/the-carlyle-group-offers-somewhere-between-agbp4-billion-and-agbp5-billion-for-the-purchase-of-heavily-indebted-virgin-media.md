@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-agbp4
 
 ### Changes:
 
-1. [ The Carlyle Group offers somewhere between PS4 billion and PS5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-aps4-billion-and-aps5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md) _2017-08-25 03:20:05 (First version)_
+1. [ The Carlyle Group offers somewhere between PS4 billion and PS5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-aps4-billion-and-aps5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Carlyle Group offers somewhere between GBP4 billion and GBP5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-agbp4-billion-and-agbp5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md) _(Current version)_
 
 ### Related:

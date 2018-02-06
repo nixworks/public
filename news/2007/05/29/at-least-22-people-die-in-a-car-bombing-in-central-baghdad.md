@@ -18,8 +18,8 @@ Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the d
 
 ### Changes:
 
-1. [ Iraqi insurgency: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-p-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _2017-08-25 03:19:54 (First version)_
-2. [ Iraqi insurgency:: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _2017-08-27 03:19:52 (Update)_
+1. [ Iraqi insurgency: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-p-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraqi insurgency:: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _2018-02-06 13:49:17 (Update)_
 2. [ At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _(Current version)_
 
 ### Related:

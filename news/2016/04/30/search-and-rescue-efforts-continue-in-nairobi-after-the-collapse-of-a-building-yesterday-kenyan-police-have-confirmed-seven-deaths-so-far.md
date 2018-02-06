@@ -17,8 +17,8 @@ NAIROBI, Kenya Apr 30 - Two people were killed on Friday night after their vehic
 
 ### Changes:
 
-1. [2016 Kenya floodsSearch and rescue efforts continue in Nairobi after the collapse of a building yesterday. Kenyan police have confirmed seven deaths so far. ](/news/2016/04/30/2016-kenya-floodspsearch-and-rescue-efforts-continue-in-nairobi-after-the-collapse-of-a-building-yesterday-kenyan-police-have-confirmed-sev.md) _2017-08-25 03:45:33 (First version)_
-2. [2016 Kenya floods: Search and rescue efforts continue in Nairobi after the collapse of a building yesterday. Kenyan police have confirmed seven deaths so far. ](/news/2016/04/30/2016-kenya-floods-search-and-rescue-efforts-continue-in-nairobi-after-the-collapse-of-a-building-yesterday-kenyan-police-have-confirmed-se.md) _2017-08-27 03:45:55 (Update)_
+1. [2016 Kenya floodsSearch and rescue efforts continue in Nairobi after the collapse of a building yesterday. Kenyan police have confirmed seven deaths so far. ](/news/2016/04/30/2016-kenya-floodspsearch-and-rescue-efforts-continue-in-nairobi-after-the-collapse-of-a-building-yesterday-kenyan-police-have-confirmed-sev.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Kenya floods: Search and rescue efforts continue in Nairobi after the collapse of a building yesterday. Kenyan police have confirmed seven deaths so far. ](/news/2016/04/30/2016-kenya-floods-search-and-rescue-efforts-continue-in-nairobi-after-the-collapse-of-a-building-yesterday-kenyan-police-have-confirmed-se.md) _2018-02-06 13:49:29 (Update)_
 2. [Search and rescue efforts continue in Nairobi after the collapse of a building yesterday. Kenyan police have confirmed seven deaths so far. ](/news/2016/04/30/search-and-rescue-efforts-continue-in-nairobi-after-the-collapse-of-a-building-yesterday-kenyan-police-have-confirmed-seven-deaths-so-far.md) _(Current version)_
 
 ### Related:

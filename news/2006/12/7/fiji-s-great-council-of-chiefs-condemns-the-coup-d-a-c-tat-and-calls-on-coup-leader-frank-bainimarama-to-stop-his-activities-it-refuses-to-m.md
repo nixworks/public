@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/12/7/fiji-s-great-council-of-chiefs-condemns-the-coup
 
 ### Changes:
 
-1. [ 2006 Fijian coup d'etat: Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/2006-fijian-coup-d-a-c-tat-p-fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his.md) _2017-08-25 03:18:54 (First version)_
-2. [ 2006 Fijian coup d'etat:: Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/2006-fijian-coup-d-a-c-tat-fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his.md) _2017-08-27 03:18:49 (Update)_
+1. [ 2006 Fijian coup d'etat: Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/2006-fijian-coup-d-a-c-tat-p-fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Fijian coup d'etat:: Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/2006-fijian-coup-d-a-c-tat-fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his.md) _2018-02-06 13:49:17 (Update)_
 2. [ Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his-activities-it-refuses-to-m.md) _(Current version)_
 
 ### Related:

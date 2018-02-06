@@ -16,7 +16,7 @@ The Israeli High Court of Justice has questioned the state policy of terrorism d
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: The Israeli Supreme Court questions the demolition of convicted terrorists' homes by the Israeli government after claims that the practice is used against Palestinians and not Israelis. The government has 30 days to respond before the court makes a decision on the practice. ](/news/2016/11/25/israeli-palestinian-conflict-the-israeli-supreme-court-questions-the-demolition-of-convicted-terrorists-homes-by-the-israeli-government.md) _2017-08-27 03:47:18 (First version)_
+1. [Israeli-Palestinian conflict: The Israeli Supreme Court questions the demolition of convicted terrorists' homes by the Israeli government after claims that the practice is used against Palestinians and not Israelis. The government has 30 days to respond before the court makes a decision on the practice. ](/news/2016/11/25/israeli-palestinian-conflict-the-israeli-supreme-court-questions-the-demolition-of-convicted-terrorists-homes-by-the-israeli-government.md) _2018-02-06 13:49:29 (First version)_
 1. [The Israeli Supreme Court questions the demolition of convicted terrorists' homes by the Israeli government after claims that the practice is used against Palestinians and not Israelis. The government has 30 days to respond before the court makes a decision on the practice. ](/news/2016/11/25/the-israeli-supreme-court-questions-the-demolition-of-convicted-terrorists-homes-by-the-israeli-government-after-claims-that-the-practice-i.md) _(Current version)_
 
 ### Related:

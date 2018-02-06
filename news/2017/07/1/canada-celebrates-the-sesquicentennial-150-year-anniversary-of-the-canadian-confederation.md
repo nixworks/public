@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-
 
 ### Changes:
 
-1. [Canada celebrates the sesquicentennial anniversary of Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-anniversary-of-canadian-confederation.md) _2017-07-01 19:30:06 (First version)_
-2. [Canada Day: Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-day-canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _2017-08-27 03:48:35 (Update)_
+1. [Canada Day: Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-day-canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _2018-02-06 13:49:30 (First version)_
+2. [Canada celebrates the sesquicentennial anniversary of Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-anniversary-of-canadian-confederation.md) _2018-02-06 13:49:30 (Update)_
 2. [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _(Current version)_
 
 ### Related:

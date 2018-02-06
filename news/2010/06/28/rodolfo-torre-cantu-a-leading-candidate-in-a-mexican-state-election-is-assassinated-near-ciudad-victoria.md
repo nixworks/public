@@ -18,8 +18,8 @@ Front-running candidate for governor in border state shot dead with four aides.
 
 ### Changes:
 
-1. [Assassination of Rodolfo Torre Cantu:Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-prodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vict.md) _2017-08-25 03:28:27 (First version)_
-2. [Assassination of Rodolfo Torre Cantu:: Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vic.md) _2017-08-27 03:28:29 (Update)_
+1. [Assassination of Rodolfo Torre Cantu:: Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vic.md) _2018-02-06 13:49:20 (First version)_
+2. [Assassination of Rodolfo Torre Cantu:Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-prodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vict.md) _2018-02-06 13:49:20 (Update)_
 2. [Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-victoria.md) _(Current version)_
 
 ### Related:

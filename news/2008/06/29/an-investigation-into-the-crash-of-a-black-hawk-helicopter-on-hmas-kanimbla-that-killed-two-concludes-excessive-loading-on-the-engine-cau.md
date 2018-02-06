@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/29/an-investigation-into-the-crash-of-a-black-hawk
 
 ### Changes:
 
-1. [ An investigation into the crash of a Black Hawk helicopter on HMAS ''Kanimbla'' that killed two concludes excessive loading on the engine caused it to lose power. ](/news/2008/06/29/an-investigation-into-the-crash-of-a-black-hawk-helicopter-on-hmas-kanimbla-that-killed-two-concludes-excessive-loading-on-the-engine-c.md) _2017-08-25 03:22:30 (First version)_
+1. [ An investigation into the crash of a Black Hawk helicopter on HMAS ''Kanimbla'' that killed two concludes excessive loading on the engine caused it to lose power. ](/news/2008/06/29/an-investigation-into-the-crash-of-a-black-hawk-helicopter-on-hmas-kanimbla-that-killed-two-concludes-excessive-loading-on-the-engine-c.md) _2018-02-06 13:49:18 (First version)_
 1. [ An investigation into the crash of a Black Hawk helicopter on HMAS "Kanimbla" that killed two concludes excessive loading on the engine caused it to lose power. ](/news/2008/06/29/an-investigation-into-the-crash-of-a-black-hawk-helicopter-on-hmas-kanimbla-that-killed-two-concludes-excessive-loading-on-the-engine-cau.md) _(Current version)_
 
 ### Related:

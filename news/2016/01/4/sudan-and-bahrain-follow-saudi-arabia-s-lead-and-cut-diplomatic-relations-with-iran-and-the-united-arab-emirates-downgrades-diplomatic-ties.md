@@ -18,7 +18,7 @@ Saudi Arabia widened its rift with Iran on Monday, saying it would end air traff
 
 ### Changes:
 
-1. [Foreign relations of Iran: Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. ](/news/2016/01/4/foreign-relations-of-iran-sudan-and-bahrain-follow-saudi-arabia-s-lead-and-cut-diplomatic-relations-with-iran-and-the-united-arab-emirates.md) _2017-08-27 03:44:35 (First version)_
+1. [Foreign relations of Iran: Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. ](/news/2016/01/4/foreign-relations-of-iran-sudan-and-bahrain-follow-saudi-arabia-s-lead-and-cut-diplomatic-relations-with-iran-and-the-united-arab-emirates.md) _2018-02-06 13:49:28 (First version)_
 1. [Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. ](/news/2016/01/4/sudan-and-bahrain-follow-saudi-arabia-s-lead-and-cut-diplomatic-relations-with-iran-and-the-united-arab-emirates-downgrades-diplomatic-ties.md) _(Current version)_
 
 ### Related:

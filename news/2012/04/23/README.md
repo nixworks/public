@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/23/index.html)  [JSON](2012/04/23/index.json)  [XML](201
 
 ##### Bangladesh
 ### [At least two people are killed and hundreds of others injured in clashes between police and protestors during a nationwide strike in Bangladesh, which was triggered by the unexplained disappearance of opposition politician Ilyas Ali. ](/news/2012/04/23/at-least-two-people-are-killed-and-hundreds-of-others-injured-in-clashes-between-police-and-protestors-during-a-nationwide-strike-in-banglad.md)
-_Context: Bangladesh, Ilyas Ali_
+_Context: Ilyas Ali, Bangladesh_
 
 ##### Iran's oil ministry
 ### [Iran's oil ministry and its National Iranian Oil Company suffers a malware attack by a computer virus. ](/news/2012/04/23/iran-s-oil-ministry-and-its-national-iranian-oil-company-suffers-a-malware-attack-by-a-computer-virus.md)
@@ -17,7 +17,7 @@ Shells and gunfire from Syrian security forces have killed 33 people in the city
 
 ##### William Shakespeare
 ### [A festival of William Shakespeare's 37 plays performed polyglotically, from Swahili to sign language, begins as part of the World Shakespeare Festival on the anniversary of the Bard of Avon's birth. ](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.md)
-_Context: William Shakespeare, Swahili, sign language_
+_Context: William Shakespeare, sign language, Swahili_
 
 ##### Tiago Klimeck
 ### [Brazilian actor Tiago Klimeck dies at the age of 27 after accidentally hanging himself while playing Judas in an Easter Passion play performed in Itarare, SGBPo Paulo. ](/news/2012/04/23/brazilian-actor-tiago-klimeck-dies-at-the-age-of-27-after-accidentally-hanging-himself-while-playing-judas-in-an-easter-passion-play-perform.md)
@@ -29,15 +29,15 @@ _Context: White House_
 
 ##### Kazakhstan
 ### [Kazakhstan issues an official 'thank you' to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md)
-_Context: Borat Sagdiyev, Kazakhstan, Sacha Baron Cohen_
+_Context: Borat Sagdiyev, Sacha Baron Cohen, Kazakhstan_
 
 ##### European Union
 ### [The European Union suspends most trade sanctions against Myanmar for a year but leaves an arms embargo in place. ](/news/2012/04/23/the-european-union-suspends-most-trade-sanctions-against-myanmar-for-a-year-but-leaves-an-arms-embargo-in-place.md)
-_Context: European Union, Myanmar_
+_Context: Myanmar, European Union_
 
 ##### North Korea
 ### [North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. ](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.md)
-_Context: South Korea, failed North Korean rocket launch, North Korea_
+_Context: failed North Korean rocket launch, South Korea, North Korea_
 
 ##### China
 ### [In accordance with a request from the South Korean government, China stops the deportation of North Korean defectors who escape to China. ](/news/2012/04/23/in-accordance-with-a-request-from-the-south-korean-government-china-stops-the-deportation-of-north-korean-defectors-who-escape-to-china.md)
@@ -61,7 +61,7 @@ The police chief who chose not to arrest George Zimmerman after he shot and kill
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: John Edwards, an affair, United States Senate, North Carolina_
+_Context: United States Senate, John Edwards, an affair, North Carolina_
 
 ##### China
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
@@ -73,11 +73,11 @@ Three men appear in court in Newry charged with involvement in terrorist activit
 
 ##### Prime Minister
 ### [Prime Minister of the Netherlands Mark Rutte tenders his government's resignation to Queen Beatrix, paving the way for early elections. ](/news/2012/04/23/prime-minister-of-the-netherlands-mark-rutte-tenders-his-government-s-resignation-to-queen-beatrix-paving-the-way-for-early-elections.md)
-_Context: Beatrix, Mark Rutte, Prime Minister_
+_Context: Mark Rutte, Prime Minister, Beatrix_
 
 ##### Burma
 ### [Burma's parliament opens without the party of Aung San Suu Kyi who boycotted the legislature over a disagreement on the wording of the oath of office. ](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.md)
-_Context: parliament, Burma, National League for Democracy, oath of office, Aung San Suu Kyi_
+_Context: oath of office, National League for Democracy, Burma, parliament, Aung San Suu Kyi_
 
 ##### Canadian
 ### [Voters in the Canadian province of Alberta go to the polls for a general election with the incumbent Progressive Conservatives being reelected. ](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.md)
@@ -89,7 +89,7 @@ Venezuelan President Hugo Chavez phones state TV to deny rumours he has died whi
 
 ##### orca
 ### [Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. ](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-first-adult-white-orca-in-the-wild-off-the-coast-of-kamchatka-russia.md)
-_Context: Russia, Kamchatka, orca_
+_Context: orca, Kamchatka, Russia_
 
 ## [Previous Day...](/news/2012/04/22/index.md)
 

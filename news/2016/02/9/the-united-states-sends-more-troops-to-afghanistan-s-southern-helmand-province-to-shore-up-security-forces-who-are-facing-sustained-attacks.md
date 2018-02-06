@@ -16,7 +16,7 @@ Hundreds more U.S. troops are headed for Afghanistan’s strife-torn Helmand pro
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The United States sends more troops to Afghanistan's southern Helmand province to shore up security forces who are facing sustained attacks from the Taliban. ](/news/2016/02/9/war-in-afghanistan-2015-present-the-united-states-sends-more-troops-to-afghanistan-s-southern-helmand-province-to-shore-up-security-for.md) _2017-08-27 03:44:52 (First version)_
+1. [War in Afghanistan (2015-present): The United States sends more troops to Afghanistan's southern Helmand province to shore up security forces who are facing sustained attacks from the Taliban. ](/news/2016/02/9/war-in-afghanistan-2015-present-the-united-states-sends-more-troops-to-afghanistan-s-southern-helmand-province-to-shore-up-security-for.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States sends more troops to Afghanistan's southern Helmand province to shore up security forces who are facing sustained attacks from the Taliban. ](/news/2016/02/9/the-united-states-sends-more-troops-to-afghanistan-s-southern-helmand-province-to-shore-up-security-forces-who-are-facing-sustained-attacks.md) _(Current version)_
 
 ### Related:

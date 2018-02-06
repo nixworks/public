@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/11/divers-retrieve-the-flight-data-recorder-from-t
 
 ### Changes:
 
-1. [Indonesia AirAsia Flight 8501: Divers retrieve the flight data recorder from the crashed jet. ](/news/2015/01/11/indonesia-airasia-flight-8501-divers-retrieve-the-flight-data-recorder-from-the-crashed-jet.md) _2017-08-27 03:41:46 (First version)_
+1. [Indonesia AirAsia Flight 8501: Divers retrieve the flight data recorder from the crashed jet. ](/news/2015/01/11/indonesia-airasia-flight-8501-divers-retrieve-the-flight-data-recorder-from-the-crashed-jet.md) _2018-02-06 13:49:26 (First version)_
 1. [Divers retrieve the flight data recorder from the crashed jet. ](/news/2015/01/11/divers-retrieve-the-flight-data-recorder-from-the-crashed-jet.md) _(Current version)_
 
 ### Related:

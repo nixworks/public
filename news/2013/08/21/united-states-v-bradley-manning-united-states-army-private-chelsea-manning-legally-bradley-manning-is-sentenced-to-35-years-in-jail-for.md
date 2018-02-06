@@ -16,7 +16,7 @@ Bradley Manning, the Army private convicted of leaking hundreds of thousands of 
 
 ### Changes:
 
-1. [''United States v Bradley Manning'': United States Army private Chelsea Manning (legally Bradley Manning) is sentenced to 35 years in jail for providing classified material to WikiLeaks. ](/news/2013/08/21/united-states-v-bradley-manning-united-states-army-private-chelsea-manning-legally-bradley-manning-is-sentenced-to-35-years-in-jail-f.md) _2017-08-25 03:39:11 (First version)_
+1. [''United States v Bradley Manning'': United States Army private Chelsea Manning (legally Bradley Manning) is sentenced to 35 years in jail for providing classified material to WikiLeaks. ](/news/2013/08/21/united-states-v-bradley-manning-united-states-army-private-chelsea-manning-legally-bradley-manning-is-sentenced-to-35-years-in-jail-f.md) _2018-02-06 13:49:25 (First version)_
 1. ["United States v Bradley Manning": United States Army private Chelsea Manning (legally Bradley Manning) is sentenced to 35 years in jail for providing classified material to WikiLeaks. ](/news/2013/08/21/united-states-v-bradley-manning-united-states-army-private-chelsea-manning-legally-bradley-manning-is-sentenced-to-35-years-in-jail-for.md) _(Current version)_
 
 ### Related:

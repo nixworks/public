@@ -17,7 +17,7 @@ Thousands of migrants streamed through the Balkans Thursday as German Chancellor
 
 ### Changes:
 
-1. [European migrant crisis: Ten thousand migrants enter Hungary, mostly from Croatia, despite efforts by the Hungarian government and military to stop them. ](/news/2015/09/24/european-migrant-crisis-ten-thousand-migrants-enter-hungary-mostly-from-croatia-despite-efforts-by-the-hungarian-government-and-military.md) _2017-08-27 03:43:08 (First version)_
+1. [European migrant crisis: Ten thousand migrants enter Hungary, mostly from Croatia, despite efforts by the Hungarian government and military to stop them. ](/news/2015/09/24/european-migrant-crisis-ten-thousand-migrants-enter-hungary-mostly-from-croatia-despite-efforts-by-the-hungarian-government-and-military.md) _2018-02-06 13:49:27 (First version)_
 1. [Ten thousand migrants enter Hungary, mostly from Croatia, despite efforts by the Hungarian government and military to stop them. ](/news/2015/09/24/ten-thousand-migrants-enter-hungary-mostly-from-croatia-despite-efforts-by-the-hungarian-government-and-military-to-stop-them.md) _(Current version)_
 
 ### Related:

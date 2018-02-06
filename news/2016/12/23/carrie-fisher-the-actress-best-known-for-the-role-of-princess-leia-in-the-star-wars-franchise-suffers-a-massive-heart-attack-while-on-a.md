@@ -16,7 +16,7 @@ The actress - most famous for playing Princess Leia in the Star Wars franchise -
 
 ### Changes:
 
-1. [Carrie Fisher, the actress best known for the role of Princess Leia in the ''Star Wars'' franchise, suffers a massive heart attack while on a flight and is rushed to a hospital near Los Angeles International Airport in critical condition. ](/news/2016/12/23/carrie-fisher-the-actress-best-known-for-the-role-of-princess-leia-in-the-star-wars-franchise-suffers-a-massive-heart-attack-while-on.md) _2017-08-25 03:47:07 (First version)_
+1. [Carrie Fisher, the actress best known for the role of Princess Leia in the ''Star Wars'' franchise, suffers a massive heart attack while on a flight and is rushed to a hospital near Los Angeles International Airport in critical condition. ](/news/2016/12/23/carrie-fisher-the-actress-best-known-for-the-role-of-princess-leia-in-the-star-wars-franchise-suffers-a-massive-heart-attack-while-on.md) _2018-02-06 13:49:30 (First version)_
 1. [Carrie Fisher, the actress best known for the role of Princess Leia in the "Star Wars" franchise, suffers a massive heart attack while on a flight and is rushed to a hospital near Los Angeles International Airport in critical condition. ](/news/2016/12/23/carrie-fisher-the-actress-best-known-for-the-role-of-princess-leia-in-the-star-wars-franchise-suffers-a-massive-heart-attack-while-on-a.md) _(Current version)_
 
 ### Related:

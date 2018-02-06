@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-ra
 ### [2018-02-1](/news/2018/02/1/index.md)
 
 ##### Persecution of Muslims in Myanmar
-# The existence of five mass graves in northern Rakhine State is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. This is considered further proof of genocide against the Rohingya Muslims. 
+# The existence of five mass graves in northern Rakhine State is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. 
 
  BALUKHALI REFUGEE CAMP, Bangladesh (AP) — The faces of the men half-buried in the mass graves had been burned away by acid or blasted by bullets. Noor Kadir finally recognized his
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-ra
 
 ### Changes:
 
-1. [The existence of five mass graves in northern Rakhine State, Myanmar is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-myanmar-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testim.md) _2018-02-02 20:30:13 (First version)_
-1. [The existence of five mass graves in northern Rakhine State is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. This is considered further proof of genocide against the Rohingya Muslims. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testimonies-and.md) _(Current version)_
+1. [The existence of five mass graves in northern Rakhine State, Myanmar is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-myanmar-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testim.md) _2018-02-06 13:49:31 (First version)_
+1. [The existence of five mass graves in northern Rakhine State is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testimonies-and.md) _(Current version)_
 
 ### Related:
 

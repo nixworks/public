@@ -17,7 +17,7 @@ Brazil&#x27;s Senate voted to impeach President Dilma Rousseff early Thursday am
 
 ### Changes:
 
-1. [ Impeachment of Dilma Rousseff: Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. ](/news/2016/05/13/impeachment-of-dilma-rousseff-vice-president-of-brazil-michel-temer-assumes-the-presidential-powers-and-duties-as-acting-president-of-br.md) _2017-08-27 03:46:01 (First version)_
+1. [ Impeachment of Dilma Rousseff: Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. ](/news/2016/05/13/impeachment-of-dilma-rousseff-vice-president-of-brazil-michel-temer-assumes-the-presidential-powers-and-duties-as-acting-president-of-br.md) _2018-02-06 13:49:29 (First version)_
 1. [ Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. ](/news/2016/05/13/vice-president-of-brazil-michel-temer-assumes-the-presidential-powers-and-duties-as-acting-president-of-brazil.md) _(Current version)_
 
 ### Related:

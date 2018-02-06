@@ -19,9 +19,9 @@ Germany is the latest country to report horsemeat DNA in processed beef, as auth
 
 ### Changes:
 
-1. [2013 meat adulteration scandal: German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-pgerman-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md) _2017-05-25 03:39:03 (First version)_
-2. [2013 meat adulteration scandal:German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-pgerman-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted-s.md) _2017-08-25 03:37:32 (Update)_
-3. [2013 meat adulteration scandal:: German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-german-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md) _2017-08-27 03:37:42 (Update)_
+1. [2013 meat adulteration scandal: German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-pgerman-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 meat adulteration scandal:German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-pgerman-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted-s.md) _2018-02-06 13:49:24 (Update)_
+3. [2013 meat adulteration scandal:: German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-german-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md) _2018-02-06 13:49:24 (Update)_
 3. [German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/german-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted-soon.md) _(Current version)_
 
 ### Related:

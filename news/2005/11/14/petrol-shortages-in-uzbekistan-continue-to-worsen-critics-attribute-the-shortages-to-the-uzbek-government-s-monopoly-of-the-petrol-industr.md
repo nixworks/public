@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-wors
 
 ### Changes:
 
-1. [ Uzbekistan: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-p-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md) _2017-08-25 03:17:07 (First version)_
-2. [ Uzbekistan:: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md) _2017-08-27 03:17:07 (Update)_
+1. [ Uzbekistan:: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md) _2018-02-06 13:49:16 (First version)_
+2. [ Uzbekistan: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-p-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md) _2018-02-06 13:49:16 (Update)_
 2. [ Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-petrol-industr.md) _(Current version)_
 
 ### Related:

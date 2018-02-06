@@ -18,7 +18,7 @@ Police officer is stabbed in Parliament and a women among several people struck 
 
 ### Changes:
 
-1. [2017 Westminster attack: An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/2017-westminster-attack-an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-poli.md) _2017-08-27 03:48:01 (First version)_
+1. [2017 Westminster attack: An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/2017-westminster-attack-an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-poli.md) _2018-02-06 13:49:30 (First version)_
 1. [An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-police-officer-and-subsequent.md) _(Current version)_
 
 ### Related:

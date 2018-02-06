@@ -16,8 +16,8 @@ In Pakistan, at least 22 paramilitary policemen are reported to have been kidnap
 
 ### Changes:
 
-1. [War in North-West Pakistan:In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/war-in-north-west-pakistan-pin-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md) _2017-08-25 03:37:08 (First version)_
-2. [War in North-West Pakistan:: In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/war-in-north-west-pakistan-in-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md) _2017-08-27 03:37:19 (Update)_
+1. [War in North-West Pakistan:In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/war-in-north-west-pakistan-pin-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/war-in-north-west-pakistan-in-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md) _2018-02-06 13:49:24 (Update)_
 2. [In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/in-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md) _(Current version)_
 
 ### Related:

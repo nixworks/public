@@ -21,7 +21,7 @@ Mortgages gone sour have led the Bloomington company to reduce its Minnesota wor
 
 ##### Japan
 ### [ Japan's Kyodo news agency reports that North Korea has started rebuilding the Yongbyon Nuclear Scientific Research Center in retaliation for the United States failing to remove it from a list of states that sponsor terrorism. ](/news/2008/09/3/japan-s-kyodo-news-agency-reports-that-north-korea-has-started-rebuilding-the-yongbyon-nuclear-scientific-research-center-in-retaliation-fo.md)
-_Context: Japan, Kyodo, terrorism, United States, North Korea, Yongbyon Nuclear Scientific Research Center_
+_Context: Japan, Kyodo, North Korea, terrorism, United States, Yongbyon Nuclear Scientific Research Center_
 
 ##### 8th U.S. Circuit Court of Appeals'
 ### [ The United States Court of Appeals for the Eighth Circuit finds "that a reliance on information in Wikipedia is insufficient grounds for a ruling" in an immigration case. ](/news/2008/09/3/the-united-states-court-of-appeals-for-the-eighth-circuit-finds-that-a-reliance-on-information-in-wikipedia-is-insufficient-grounds-for-a.md)
@@ -29,7 +29,7 @@ _Context: 8th U.S. Circuit Court of Appeals', Wikipedia_
 
 ##### Prime Minister
 ### [ Prime Minister of Pakistan Yousaf Raza Gilani survives an assassination attempt. ](/news/2008/09/3/prime-minister-of-pakistan-yousaf-raza-gilani-survives-an-assassination-attempt.md)
-_Context: Yousaf Raza Gilani, Prime Minister, Pakistan_
+_Context: Yousaf Raza Gilani, Pakistan, Prime Minister_
 
 ##### Independent Monitoring Commission
 ### [ The Independent Monitoring Commission reports that the Provisional IRA has effectively been disbanded as a terrorist organization, but the Provisional IRA Army Council still exists. ](/news/2008/09/3/the-independent-monitoring-commission-reports-that-the-provisional-ira-has-effectively-been-disbanded-as-a-terrorist-organization-but-the.md)

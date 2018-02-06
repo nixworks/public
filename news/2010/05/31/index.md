@@ -21,11 +21,11 @@ German President Horst Koehler says he is resigning, following criticism of rema
 
 ##### Colombia
 ### [Colombia's former Minister of National Defence, Juan Manuel Santos, wins the first round of the country's presidential election, but without the majority needed to avoid a June run-off with rival Antanas Mockus ](/news/2010/05/31/colombia-s-former-minister-of-national-defence-juan-manuel-santos-wins-the-first-round-of-the-country-s-presidential-election-but-without.md)
-_Context: Minister of National Defence, Colombia, Antanas Mockus, Juan Manuel Santos, Colombian presidential election_
+_Context: Colombia, Colombian presidential election, Juan Manuel Santos, Minister of National Defence, Antanas Mockus_
 
 ##### undersea volcano
 ### [An undersea volcano erupts near Sarigan, Northern Mariana Islands, sending an eruption cloud 40,000 feet into the atmosphere, prompting Governor Benigno Fitial to declare a state of emergency. ](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.md)
-_Context: atmosphere, eruption cloud, Benigno Fitial, undersea volcano, Northern Mariana Islands, Sarigan, state of emergency_
+_Context: state of emergency, atmosphere, Northern Mariana Islands, Sarigan, undersea volcano, Benigno Fitial, eruption cloud_
 
 ##### Nicolas Sarkozy
 ### [French President Nicolas Sarkozy, speaking at the launch of the 25th Africa-France summit in Nice, calls for Africa to be represented on the United Nations Security Council, and promises to back changes when France chairs the G8 and G-20 major economies groups in 2011. ](/news/2010/05/31/french-president-nicolas-sarkozy-speaking-at-the-launch-of-the-25th-africa-france-summit-in-nice-calls-for-africa-to-be-represented-on-the.md)
@@ -33,7 +33,7 @@ Sarkozy urges Security Council overhaul, saying Africa should get permanent seat
 
 ##### Sudanese government troops
 ### [The Sudanese army clashes with rebel groups, among them the Justice and Equality Movement, in the Um Sauna area in western Darfur. ](/news/2010/05/31/the-sudanese-army-clashes-with-rebel-groups-among-them-the-justice-and-equality-movement-in-the-um-sauna-area-in-western-darfur.md)
-_Context: Um Sauna, Sudanese government troops, Justice and Equality Movement, Darfur conflict_
+_Context: Darfur conflict, Sudanese government troops, Justice and Equality Movement, Um Sauna_
 
 ##### IAEA
 ### [In the International Atomic Energy Agency's report before the United Nations Security Council votes on sanctions against Iran, international nuclear inspectors state that Iran has now produced a stockpile of nuclear fuel that would be enough, with further enrichment, to make two nuclear weapons, and it appears to bolster the Obama administration's case for a fourth round of economic sanctions against Iran. ](/news/2010/05/31/in-the-international-atomic-energy-agency-s-report-before-the-united-nations-security-council-votes-on-sanctions-against-iran-international.md)
@@ -45,7 +45,7 @@ _Context: Wildfires, Cape Cod, Ottawa_
 
 ##### Afghanistan
 ### [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md)
-_Context: Afghanistan, Norwegian Church Aid, proselytizing, Christian, Church World Service, Islamic republic_
+_Context: Afghanistan, Church World Service, Islamic republic, Norwegian Church Aid, Christian, proselytizing_
 
 ##### Israel
 ### [A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-flies-overhead.md)
@@ -59,13 +59,13 @@ The Vatican is to launch an investigation in the autumn into clerical child sex 
 ### [The 25th EU-Russia summit begins in Rostov-on-Don with talks on industrial and trade links, human rights and a visa-free regime. ](/news/2010/05/31/the-25th-eu-russia-summit-begins-in-rostov-on-don-with-talks-on-industrial-and-trade-links-human-rights-and-a-visa-free-regime.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-##### Turkish
+##### Turkey
 ### [Six Turkish soldiers are killed in a rocket attack on a navy base by suspected Kurdish rebels in the south of the country. ](/news/2010/05/31/six-turkish-soldiers-are-killed-in-a-rocket-attack-on-a-navy-base-by-suspected-kurdish-rebels-in-the-south-of-the-country.md)
 State media blames Kurdish fighters for attack that killed six soldiers and wounded seven.
 
 ##### Pakistan
 ### [A court in Pakistan lifts a ban on Facebook imposed two weeks ago after an "Everybody Draw Mohammed Day" group appeared on the site. ](/news/2010/05/31/a-court-in-pakistan-lifts-a-ban-on-facebook-imposed-two-weeks-ago-after-an-everybody-draw-mohammed-day-group-appeared-on-the-site.md)
-_Context: Pakistan, Facebook, Everybody Draw Mohammed Day_
+_Context: Pakistan, Everybody Draw Mohammed Day, Facebook_
 
 ## [Previous Day...](/news/2010/05/30/index.md)
 

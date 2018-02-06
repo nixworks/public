@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/04/15/presidential-candidate-miriam-defensor-santiago
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: Presidential candidate Miriam Defensor Santiago, who lags in surveys, accuses pollsters of fabricating results by excluding her name in opinion polls. ](/news/2016/04/15/philippine-presidential-election-2016-presidential-candidate-miriam-defensor-santiago-who-lags-in-surveys-accuses-pollsters-of-fabricati.md) _2017-08-27 03:45:37 (First version)_
+1. [Philippine presidential election, 2016: Presidential candidate Miriam Defensor Santiago, who lags in surveys, accuses pollsters of fabricating results by excluding her name in opinion polls. ](/news/2016/04/15/philippine-presidential-election-2016-presidential-candidate-miriam-defensor-santiago-who-lags-in-surveys-accuses-pollsters-of-fabricati.md) _2018-02-06 13:49:28 (First version)_
 1. [Presidential candidate Miriam Defensor Santiago, who lags in surveys, accuses pollsters of fabricating results by excluding her name in opinion polls. ](/news/2016/04/15/presidential-candidate-miriam-defensor-santiago-who-lags-in-surveys-accuses-pollsters-of-fabricating-results-by-excluding-her-name-in-opin.md) _(Current version)_
 
 ### Related:

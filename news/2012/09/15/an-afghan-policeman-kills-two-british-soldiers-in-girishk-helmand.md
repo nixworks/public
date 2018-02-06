@@ -15,8 +15,8 @@ Afghan official identified the dead soldiers as British and said four others wer
 
 ### Changes:
 
-1. [War in Afghanistan:An Afghan policeman kills two British soldiers in Girishk, Helmand. ](/news/2012/09/15/war-in-afghanistan-pan-afghan-policeman-kills-two-british-soldiers-in-girishk-helmand.md) _2017-08-25 03:36:31 (First version)_
-2. [War in Afghanistan:: An Afghan policeman kills two British soldiers in Girishk, Helmand. ](/news/2012/09/15/war-in-afghanistan-an-afghan-policeman-kills-two-british-soldiers-in-girishk-helmand.md) _2017-08-27 03:36:41 (Update)_
+1. [War in Afghanistan:An Afghan policeman kills two British soldiers in Girishk, Helmand. ](/news/2012/09/15/war-in-afghanistan-pan-afghan-policeman-kills-two-british-soldiers-in-girishk-helmand.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: An Afghan policeman kills two British soldiers in Girishk, Helmand. ](/news/2012/09/15/war-in-afghanistan-an-afghan-policeman-kills-two-british-soldiers-in-girishk-helmand.md) _2018-02-06 13:49:23 (Update)_
 2. [An Afghan policeman kills two British soldiers in Girishk, Helmand. ](/news/2012/09/15/an-afghan-policeman-kills-two-british-soldiers-in-girishk-helmand.md) _(Current version)_
 
 ### Related:

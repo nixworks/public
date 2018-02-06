@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-th
 
 ### Changes:
 
-1. [Philippine Drug War: With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/philippine-drug-war-with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in.md) _2017-08-27 03:46:46 (First version)_
+1. [Philippine Drug War: With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/philippine-drug-war-with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in.md) _2018-02-06 13:49:29 (First version)_
 1. [With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in-the-war-against-drugs.md) _(Current version)_
 
 ### Related:

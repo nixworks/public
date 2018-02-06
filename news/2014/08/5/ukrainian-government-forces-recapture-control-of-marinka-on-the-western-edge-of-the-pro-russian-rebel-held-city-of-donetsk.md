@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/08/5/ukrainian-government-forces-recapture-control-of
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: War in Donbass:Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro.md) _2017-08-25 03:40:48 (First version)_
-2. [2014 pro-Russian unrest in Ukraine: War in Donbass:: Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/2014-pro-russian-unrest-in-ukraine-war-in-donbass-ukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro.md) _2017-08-27 03:41:06 (Update)_
+1. [2014 pro-Russian unrest in Ukraine: War in Donbass:: Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/2014-pro-russian-unrest-in-ukraine-war-in-donbass-ukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine: War in Donbass:Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/ukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro-russian-rebel-held-city-of-donetsk.md) _(Current version)_
 
 ### Related:

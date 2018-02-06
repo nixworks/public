@@ -17,7 +17,7 @@ Rachid Ghannouchi, leader of the previously banned al-Nahda party, returns home 
 
 ### Changes:
 
-1. [2010-2011 Tunisian uprising: Rachid Ghannounchi, leader of the once banned Ennahda party, flies back to the country from London after 22 years in exile following the ousting of President Zine El Abidine Ben Ali. ](/news/2011/01/30/2010-2011-tunisian-uprising-rachid-ghannounchi-leader-of-the-once-banned-ennahda-party-flies-back-to-the-country-from-london-after-22-y.md) _2017-08-27 03:32:06 (First version)_
+1. [2010-2011 Tunisian uprising: Rachid Ghannounchi, leader of the once banned Ennahda party, flies back to the country from London after 22 years in exile following the ousting of President Zine El Abidine Ben Ali. ](/news/2011/01/30/2010-2011-tunisian-uprising-rachid-ghannounchi-leader-of-the-once-banned-ennahda-party-flies-back-to-the-country-from-london-after-22-y.md) _2018-02-06 13:49:21 (First version)_
 1. [2010-2011 Tunisian uprising: Rachid Ghannounchi, leader of the once banned Ennahda party, flies back to the country from London after 22 years in exile following the ousting of President Zine El Abidine Ben Ali. ](/news/2011/01/30/2010a2011-tunisian-uprising-rachid-ghannounchi-leader-of-the-once-banned-ennahda-party-flies-back-to-the-country-from-london-after-22-y.md) _(Current version)_
 
 ### Related:

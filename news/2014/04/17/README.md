@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/17/index.html)  [JSON](2014/04/17/index.json)  [XML](201
 
 ##### Pakistani Taliban
 ### [The Pakistani Taliban announces that it will not extend a ceasefire with the Pakistani government. ](/news/2014/04/17/the-pakistani-taliban-announces-that-it-will-not-extend-a-ceasefire-with-the-pakistani-government.md)
-_Context: government, Pakistani Taliban_
+_Context: Pakistani Taliban, government_
 
 ##### Republic of Korea Coast Guard
 ### [Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-ferry-capsizing-off-the-coast-of-the.md)

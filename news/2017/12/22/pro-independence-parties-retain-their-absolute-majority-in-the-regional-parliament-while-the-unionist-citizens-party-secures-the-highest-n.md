@@ -18,7 +18,7 @@ Separatist parties retain a slim majority but face tough coalition talks to form
 
 ### Changes:
 
-1. [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md) _2017-12-23 15:30:06 (First version)_
+1. [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md) _2018-02-06 13:49:31 (First version)_
 1. [ Pro-independence parties retain their absolute majority in the regional parliament, while the unionist Citizens party secures the highest number of seats. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament-while-the-unionist-citizens-party-secures-the-highest-n.md) _(Current version)_
 
 ### Related:

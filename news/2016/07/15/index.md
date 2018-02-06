@@ -25,7 +25,7 @@ Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Cri
 
 ##### Republican Party vice presidential candidate selection, 2016
 ### [Donald Trump chooses Indiana governor Mike Pence as his vice presidential running mate. ](/news/2016/07/15/donald-trump-chooses-indiana-governor-mike-pence-as-his-vice-presidential-running-mate.md)
-_Context: Republican Party vice presidential candidate selection, 2016, Indiana, Donald Trump, Mike Pence_
+_Context: Indiana, Donald Trump, Republican Party vice presidential candidate selection, 2016, Mike Pence_
 
 ## [Previous Day...](/news/2016/07/14/index.md)
 

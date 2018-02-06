@@ -16,8 +16,8 @@ Mexican security forces on Saturday caught the leader of the cocaine-trafficking
 
 ### Changes:
 
-1. [Mexican Drug War:Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-pgulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _2017-08-25 03:39:09 (First version)_
-2. [Mexican Drug War:: Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-gulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _2017-08-27 03:39:25 (Update)_
+1. [Mexican Drug War:Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-pgulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _2018-02-06 13:49:25 (First version)_
+2. [Mexican Drug War:: Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-gulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _2018-02-06 13:49:25 (Update)_
 2. [Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/gulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _(Current version)_
 
 ### Related:

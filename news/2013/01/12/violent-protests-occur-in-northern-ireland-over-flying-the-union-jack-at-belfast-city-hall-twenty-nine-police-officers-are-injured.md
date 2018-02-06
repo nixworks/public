@@ -16,8 +16,8 @@ Twenty-nine police officers are injured in rioting in east Belfast following a l
 
 ### Changes:
 
-1. [Belfast City Hall flag protests:Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/belfast-city-hall-flag-protests-pviolent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-pol.md) _2017-08-25 03:37:15 (First version)_
-2. [Belfast City Hall flag protests:: Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/belfast-city-hall-flag-protests-violent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-po.md) _2017-08-27 03:37:25 (Update)_
+1. [Belfast City Hall flag protests:: Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/belfast-city-hall-flag-protests-violent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-po.md) _2018-02-06 13:49:24 (First version)_
+2. [Belfast City Hall flag protests:Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/belfast-city-hall-flag-protests-pviolent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-pol.md) _2018-02-06 13:49:24 (Update)_
 2. [Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/violent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-police-officers-are-injured.md) _(Current version)_
 
 ### Related:

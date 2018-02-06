@@ -11,8 +11,8 @@ Formats: [HTML](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-an
 
 ### Changes:
 
-1. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. ](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas.md) _2017-08-25 03:37:25 (First version)_
-2. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. [http:--www.nytimes.com-2013-02-04-us-chris-kyle-american-sniper-author-reported-killed.html?_r=0 "(The New York Times)"]](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas-http-ww.md) _2017-10-17 03:43:31 (Update)_
+1. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. ](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas.md) _2018-02-06 13:49:24 (First version)_
+2. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. [http:--www.nytimes.com-2013-02-04-us-chris-kyle-american-sniper-author-reported-killed.html?_r=0 "(The New York Times)"]](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas-http-ww.md) _2018-02-06 13:49:24 (Update)_
 2. [Former United States Navy SEAL Chris Kyle and another man are killed at a shooting range near Glen Rose, Somervell County, Texas. [https:--www.nytimes.com-2013-02-04-us-chris-kyle-american-sniper-author-reported-killed.html?_r=0 "(The New York Times)"]](/news/2013/02/2/former-united-states-navy-seal-chris-kyle-and-another-man-are-killed-at-a-shooting-range-near-glen-rose-somervell-county-texas-https-w.md) _(Current version)_
 
 ### Related:

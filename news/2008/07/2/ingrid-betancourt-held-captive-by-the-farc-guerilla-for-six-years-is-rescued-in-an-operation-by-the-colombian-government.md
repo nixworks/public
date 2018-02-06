@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/07/2/ingrid-betancourt-held-captive-by-the-farc-gueri
 
 ### Changes:
 
-1. [ Colombia: ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/colombia-ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md) _2017-08-27 03:22:24 (First version)_
+1. [ Colombia: ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/colombia-ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md) _2018-02-06 13:49:18 (First version)_
 1. [ ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md) _(Current version)_
 
 ### Related:

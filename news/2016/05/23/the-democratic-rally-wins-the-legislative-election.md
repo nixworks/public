@@ -18,7 +18,7 @@ The leading opposition party, the Progressive Party of Working People, will have
 
 ### Changes:
 
-1. [ Cypriot legislative election, 2016: The Democratic Rally wins the legislative election. ](/news/2016/05/23/cypriot-legislative-election-2016-the-democratic-rally-wins-the-legislative-election.md) _2017-08-27 03:46:06 (First version)_
+1. [ Cypriot legislative election, 2016: The Democratic Rally wins the legislative election. ](/news/2016/05/23/cypriot-legislative-election-2016-the-democratic-rally-wins-the-legislative-election.md) _2018-02-06 13:49:29 (First version)_
 1. [ The Democratic Rally wins the legislative election. ](/news/2016/05/23/the-democratic-rally-wins-the-legislative-election.md) _(Current version)_
 
 ### Related:

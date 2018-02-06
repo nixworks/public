@@ -16,5 +16,5 @@ The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039;
 
 ### Changes:
 
-1. [Typhoon Hagupit (Ruby): The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/typhoon-hagupit-ruby-the-death-toll-from-typhoon-hagupit-rises-to-18.md) _2017-08-27 03:41:37 (First version)_
+1. [Typhoon Hagupit (Ruby): The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/typhoon-hagupit-ruby-the-death-toll-from-typhoon-hagupit-rises-to-18.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/the-death-toll-from-typhoon-hagupit-rises-to-18.md) _(Current version)_

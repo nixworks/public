@@ -17,8 +17,8 @@ Quebec provincial police now say only one of the two men arrested Sunday night f
 
 ### Changes:
 
-1. [ A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-killed-two-suspects-were-apprehe.md) _2017-08-25 03:47:18 (First version)_
-2. [ Quebec City mosque shooting: A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/quebec-city-mosque-shooting-a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-kill.md) _2017-08-27 03:47:42 (Update)_
+1. [ Quebec City mosque shooting: A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/quebec-city-mosque-shooting-a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-kill.md) _2018-02-06 13:49:30 (First version)_
+2. [ A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-killed-two-suspects-were-apprehe.md) _2018-02-06 13:49:30 (Update)_
 2. [A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-killed-two-suspects-were-apprehen.md) _(Current version)_
 
 ### Related:

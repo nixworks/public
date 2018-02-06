@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/24/the-president-of-malawi-joyce-banda-annuls-the-
 
 ### Changes:
 
-1. [Malawian general election:The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-pthe-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md) _2017-08-25 03:40:27 (First version)_
-2. [Malawian general election:: The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md) _2017-08-27 03:40:44 (Update)_
+1. [Malawian general election:: The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md) _2018-02-06 13:49:26 (First version)_
+2. [Malawian general election:The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-pthe-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md) _2018-02-06 13:49:26 (Update)_
 2. [The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed-electoral-irregularities.md) _(Current version)_
 
 ### Related:

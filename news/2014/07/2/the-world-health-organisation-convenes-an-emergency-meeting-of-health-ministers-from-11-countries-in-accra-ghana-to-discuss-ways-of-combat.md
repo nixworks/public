@@ -16,7 +16,7 @@ Health ministers from 11 African countries are meeting in Accra, Ghana, in an at
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/2014-west-africa-ebola-outbreak-the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra.md) _2017-08-27 03:40:55 (First version)_
+1. [2014 West Africa Ebola outbreak: The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/2014-west-africa-ebola-outbreak-the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra-ghana-to-discuss-ways-of-combat.md) _(Current version)_
 
 ### Related:

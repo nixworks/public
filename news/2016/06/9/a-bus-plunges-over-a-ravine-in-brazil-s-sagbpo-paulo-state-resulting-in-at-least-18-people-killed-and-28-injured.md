@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-p
 
 ### Changes:
 
-1. [A bus plunges over a ravine in Brazil's Sao Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sapso-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md) _2017-08-25 03:45:51 (First version)_
+1. [A bus plunges over a ravine in Brazil's Sao Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sapso-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md) _2018-02-06 13:49:29 (First version)_
 1. [A bus plunges over a ravine in Brazil's SGBPo Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md) _(Current version)_
 
 ### Related:

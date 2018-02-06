@@ -17,7 +17,7 @@ Heavy firing is on at an army base in Tangdhar near the border in Jammu and Kash
 
 ### Changes:
 
-1. [Insurgency in Jammu and Kashmir: Insurgents attack an Indian Army base in northern Kashmir. At least three attackers are killed. ](/news/2015/11/25/insurgency-in-jammu-and-kashmir-insurgents-attack-an-indian-army-base-in-northern-kashmir-at-least-three-attackers-are-killed.md) _2017-08-27 03:44:03 (First version)_
+1. [Insurgency in Jammu and Kashmir: Insurgents attack an Indian Army base in northern Kashmir. At least three attackers are killed. ](/news/2015/11/25/insurgency-in-jammu-and-kashmir-insurgents-attack-an-indian-army-base-in-northern-kashmir-at-least-three-attackers-are-killed.md) _2018-02-06 13:49:28 (First version)_
 1. [Insurgents attack an Indian Army base in northern Kashmir. At least three attackers are killed. ](/news/2015/11/25/insurgents-attack-an-indian-army-base-in-northern-kashmir-at-least-three-attackers-are-killed.md) _(Current version)_
 
 ### Related:

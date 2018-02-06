@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001apresent-pa-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md) _2017-08-25 03:36:06 (First version)_
-2. [War in Afghanistan (2001-present):: A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001-present-a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md) _2017-08-27 03:36:17 (Update)_
+1. [War in Afghanistan (2001-present):A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001apresent-pa-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan (2001-present):: A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001-present-a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md) _2018-02-06 13:49:23 (Update)_
 2. [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md) _(Current version)_
 
 ### Related:

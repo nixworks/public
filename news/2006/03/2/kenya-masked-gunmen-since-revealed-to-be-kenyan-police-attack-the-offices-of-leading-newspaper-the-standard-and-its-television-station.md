@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/03/2/kenya-masked-gunmen-since-revealed-to-be-kenyan-
 
 ### Changes:
 
-1. [ Kenya: Masked gunmen, since revealed to be Kenyan police, attack the offices of leading newspaper ''The Standard'' and its television station KTN, following their report that President Mwai Kibaki held secret meetings with key opposition figure Kalonzo Musyoka. ](/news/2006/03/2/kenya-masked-gunmen-since-revealed-to-be-kenyan-police-attack-the-offices-of-leading-newspaper-the-standard-and-its-television-stati.md) _2017-08-25 03:17:29 (First version)_
+1. [ Kenya: Masked gunmen, since revealed to be Kenyan police, attack the offices of leading newspaper ''The Standard'' and its television station KTN, following their report that President Mwai Kibaki held secret meetings with key opposition figure Kalonzo Musyoka. ](/news/2006/03/2/kenya-masked-gunmen-since-revealed-to-be-kenyan-police-attack-the-offices-of-leading-newspaper-the-standard-and-its-television-stati.md) _2018-02-06 13:49:17 (First version)_
 1. [ Kenya: Masked gunmen, since revealed to be Kenyan police, attack the offices of leading newspaper "The Standard" and its television station KTN, following their report that President Mwai Kibaki held secret meetings with key opposition figure Kalonzo Musyoka. ](/news/2006/03/2/kenya-masked-gunmen-since-revealed-to-be-kenyan-police-attack-the-offices-of-leading-newspaper-the-standard-and-its-television-station.md) _(Current version)_
 
 ### Related:

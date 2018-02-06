@@ -17,7 +17,7 @@ Indian army troops have encircled militants in a government-run training institu
 
 ### Changes:
 
-1. [2016 Pampore stand-off: A group of Islamic terrorists exchange fire with Indian Armed Forces troops for the second consecutive day in Pampore, Jammu and Kashmir, India. At least five soldiers and one civilian have been killed. ](/news/2016/02/21/2016-pampore-stand-off-a-group-of-islamic-terrorists-exchange-fire-with-indian-armed-forces-troops-for-the-second-consecutive-day-in-pampor.md) _2017-08-27 03:44:59 (First version)_
+1. [2016 Pampore stand-off: A group of Islamic terrorists exchange fire with Indian Armed Forces troops for the second consecutive day in Pampore, Jammu and Kashmir, India. At least five soldiers and one civilian have been killed. ](/news/2016/02/21/2016-pampore-stand-off-a-group-of-islamic-terrorists-exchange-fire-with-indian-armed-forces-troops-for-the-second-consecutive-day-in-pampor.md) _2018-02-06 13:49:28 (First version)_
 1. [A group of Islamic terrorists exchange fire with Indian Armed Forces troops for the second consecutive day in Pampore, Jammu and Kashmir, India. At least five soldiers and one civilian have been killed. ](/news/2016/02/21/a-group-of-islamic-terrorists-exchange-fire-with-indian-armed-forces-troops-for-the-second-consecutive-day-in-pampore-jammu-and-kashmir-in.md) _(Current version)_
 
 ### Related:

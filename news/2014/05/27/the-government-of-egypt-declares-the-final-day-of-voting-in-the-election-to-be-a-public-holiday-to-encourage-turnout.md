@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/27/the-government-of-egypt-declares-the-final-day-
 
 ### Changes:
 
-1. [Egyptian presidential election, 2014:The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/egyptian-presidential-election-2014-pthe-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-enc.md) _2017-08-25 03:40:27 (First version)_
-2. [Egyptian presidential election, 2014:: The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/egyptian-presidential-election-2014-the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-en.md) _2017-08-27 03:40:46 (Update)_
+1. [Egyptian presidential election, 2014:: The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/egyptian-presidential-election-2014-the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-en.md) _2018-02-06 13:49:26 (First version)_
+2. [Egyptian presidential election, 2014:The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/egyptian-presidential-election-2014-pthe-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-enc.md) _2018-02-06 13:49:26 (Update)_
 2. [The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-encourage-turnout.md) _(Current version)_
 
 ### Related:

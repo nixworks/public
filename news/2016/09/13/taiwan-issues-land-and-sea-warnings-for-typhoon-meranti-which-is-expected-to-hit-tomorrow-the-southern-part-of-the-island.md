@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/13/taiwan-issues-land-and-sea-warnings-for-typhoon
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Taiwan issues land and sea warnings for Typhoon Meranti which is expected to hit tomorrow the southern part of the island. ](/news/2016/09/13/2016-pacific-typhoon-season-taiwan-issues-land-and-sea-warnings-for-typhoon-meranti-which-is-expected-to-hit-tomorrow-the-southern-part-of.md) _2017-08-27 03:46:50 (First version)_
+1. [2016 Pacific typhoon season: Taiwan issues land and sea warnings for Typhoon Meranti which is expected to hit tomorrow the southern part of the island. ](/news/2016/09/13/2016-pacific-typhoon-season-taiwan-issues-land-and-sea-warnings-for-typhoon-meranti-which-is-expected-to-hit-tomorrow-the-southern-part-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Taiwan issues land and sea warnings for Typhoon Meranti which is expected to hit tomorrow the southern part of the island. ](/news/2016/09/13/taiwan-issues-land-and-sea-warnings-for-typhoon-meranti-which-is-expected-to-hit-tomorrow-the-southern-part-of-the-island.md) _(Current version)_
 
 ### Related:

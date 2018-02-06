@@ -15,6 +15,6 @@ Formats: [HTML](/news/2011/04/6/syria-reverses-a-ban-on-teachers-wearing-veils-a
 
 ### Changes:
 
-1. [2011 Syrian protests:Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-psyria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md) _2017-08-25 03:32:45 (First version)_
-2. [2011 Syrian protests:: Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-syria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md) _2017-08-27 03:32:53 (Update)_
+1. [2011 Syrian protests:: Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-syria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-psyria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/syria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md) _(Current version)_

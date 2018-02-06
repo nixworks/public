@@ -17,7 +17,7 @@ The Government is to seek EU approval to inject up to &euro;4 billion of capital
 
 ### Changes:
 
-1. [ Ireland's government intends to further recapitalize Anglo Irish Bank by -4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-4-billion.md) _2017-08-27 03:24:34 (First version)_
+1. [ Ireland's government intends to further recapitalize Anglo Irish Bank by -4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-4-billion.md) _2018-02-06 13:49:19 (First version)_
 1. [ Ireland's government intends to further recapitalize Anglo Irish Bank by EUR4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-a-4-billion.md) _(Current version)_
 
 ### Related:

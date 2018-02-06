@@ -17,7 +17,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 
 ### Changes:
 
-1. [Taiwan-United States relations: The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/taiwan-united-states-relations-the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relatio.md) _2017-08-27 03:45:45 (First version)_
+1. [Taiwan-United States relations: The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/taiwan-united-states-relations-the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relatio.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md) _(Current version)_
 
 ### Related:

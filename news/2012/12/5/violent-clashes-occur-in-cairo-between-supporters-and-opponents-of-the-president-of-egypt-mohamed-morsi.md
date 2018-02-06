@@ -15,8 +15,8 @@ The political crisis in Egypt is deepening, with supporters and opponents of Pre
 
 ### Changes:
 
-1. [2012 Egyptian protests:Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-pviolent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md) _2017-08-25 03:36:57 (First version)_
-2. [2012 Egyptian protests:: Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md) _2017-08-27 03:37:06 (Update)_
+1. [2012 Egyptian protests:: Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Egyptian protests:Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-pviolent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md) _2018-02-06 13:49:24 (Update)_
 2. [Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Six activists given up to 15 years in prison for allegedly working with Iran to 
 
 ### Changes:
 
-1. [Arab Spring:Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-psix-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2017-08-25 03:35:45 (First version)_
-2. [Arab Spring:: Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2017-08-27 03:35:56 (Update)_
+1. [Arab Spring:: Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-psix-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2018-02-06 13:49:23 (Update)_
 2. [Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Planned Parenthood shooting: 3 killed, including 1 police officer in Colorado Sp
 
 ### Changes:
 
-1. [Colorado Springs Planned Parenthood shooting: An active shooter in a Planned Parenthood facility in the American city of Colorado Springs, Colorado shoots at least four members of the Colorado Springs Police Department with one officer later dying. Two civilians were also killed, and six were injured. The shooter later surrendered. ](/news/2015/11/27/colorado-springs-planned-parenthood-shooting-an-active-shooter-in-a-planned-parenthood-facility-in-the-american-city-of-colorado-springs-c.md) _2017-08-27 03:44:05 (First version)_
+1. [Colorado Springs Planned Parenthood shooting: An active shooter in a Planned Parenthood facility in the American city of Colorado Springs, Colorado shoots at least four members of the Colorado Springs Police Department with one officer later dying. Two civilians were also killed, and six were injured. The shooter later surrendered. ](/news/2015/11/27/colorado-springs-planned-parenthood-shooting-an-active-shooter-in-a-planned-parenthood-facility-in-the-american-city-of-colorado-springs-c.md) _2018-02-06 13:49:28 (First version)_
 1. [An active shooter in a Planned Parenthood facility in the American city of Colorado Springs, Colorado shoots at least four members of the Colorado Springs Police Department with one officer later dying. Two civilians were also killed, and six were injured. The shooter later surrendered. ](/news/2015/11/27/an-active-shooter-in-a-planned-parenthood-facility-in-the-american-city-of-colorado-springs-colorado-shoots-at-least-four-members-of-the-co.md) _(Current version)_
 
 ### Related:

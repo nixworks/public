@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kga
 
 ### Changes:
 
-1. [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of {{Nowrap|EUR14.6 billion}}. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-nowrap-a-14-6-billion-merck-and-scher.md) _2017-05-01 03:17:52 (First version)_
-2. [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of -14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-14-6-billion-merck-and-schering-would-b.md) _2017-08-27 03:17:30 (Update)_
+1. [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of {{Nowrap|EUR14.6 billion}}. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-nowrap-a-14-6-billion-merck-and-scher.md) _2018-02-06 13:49:17 (First version)_
+2. [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of -14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-14-6-billion-merck-and-schering-would-b.md) _2018-02-06 13:49:17 (Update)_
 2. [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of EUR14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-a-14-6-billion-merck-and-schering-would-b.md) _(Current version)_
 
 ### Related:

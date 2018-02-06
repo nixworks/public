@@ -16,7 +16,7 @@ North Korea accuses the United States of pushing the Korean peninsula to the bri
 
 ### Changes:
 
-1. [North Korea-United States relations: Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/north-korea-united-states-relations-two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-lead.md) _2017-08-27 03:48:16 (First version)_
+1. [North Korea-United States relations: Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/north-korea-united-states-relations-two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-lead.md) _2018-02-06 13:49:30 (First version)_
 1. [Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-leading-north-korea-to-accuse-the-us-of-pre.md) _(Current version)_
 
 ### Related:

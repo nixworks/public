@@ -21,9 +21,9 @@ Syrian tanks and helicopters opened fire and killed at least two civilians as th
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising: The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-p2011-syrian-uprising-pthe-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of.md) _2017-05-25 03:34:57 (First version)_
-2. [Arab Spring:2011 Syrian uprising:The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-p2011-syrian-uprising-pthe-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of-a.md) _2017-08-25 03:33:38 (Update)_
-3. [Arab Spring:: 2011 Syrian uprising:: The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-2011-syrian-uprising-the-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of.md) _2017-08-27 03:33:45 (Update)_
+1. [Arab Spring:2011 Syrian uprising: The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-p2011-syrian-uprising-pthe-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:2011 Syrian uprising:The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-p2011-syrian-uprising-pthe-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of-a.md) _2018-02-06 13:49:22 (Update)_
+3. [Arab Spring:: 2011 Syrian uprising:: The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-2011-syrian-uprising-the-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of.md) _2018-02-06 13:49:22 (Update)_
 3. [2011 Syrian uprising:The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/2011-syrian-uprising-the-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of-al-bara.md) _(Current version)_
 
 ### Related:

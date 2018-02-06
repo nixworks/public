@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/06/21/mexican-drug-war-mexican-marines-detain-jesaos-
 
 ### Changes:
 
-1. [War on Drugs:Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias ''El Chapo''), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-pmexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md) _2017-08-25 03:35:56 (First version)_
-2. [War on Drugs:: Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md) _2017-08-27 03:36:07 (Update)_
+1. [War on Drugs:Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias ''El Chapo''), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-pmexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md) _2018-02-06 13:49:23 (First version)_
+2. [War on Drugs:: Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md) _2018-02-06 13:49:23 (Update)_
 2. [Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo-mexico-s-most.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-ina
 
 ### Changes:
 
-1. [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation [http:--news.bbc.co.uk-2-hi-south_asia-4649742.stm (BBC news)].](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation-http-news-bbc-co-uk-2-h.md) _2017-06-18 03:17:31 (First version)_
+1. [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation [http:--news.bbc.co.uk-2-hi-south_asia-4649742.stm (BBC news)].](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation-http-news-bbc-co-uk-2-h.md) _2018-02-06 13:49:16 (First version)_
 1. [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation ](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation.md) _(Current version)_
 
 ### Related:

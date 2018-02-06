@@ -17,7 +17,7 @@ At least 23 people have been killed by air strikes overnight on the rebel-held c
 
 ### Changes:
 
-1. [ Syrian Civil War: At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/syrian-civil-war-at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md) _2017-08-27 03:46:10 (First version)_
+1. [ Syrian Civil War: At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/syrian-civil-war-at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md) _(Current version)_
 
 ### Related:

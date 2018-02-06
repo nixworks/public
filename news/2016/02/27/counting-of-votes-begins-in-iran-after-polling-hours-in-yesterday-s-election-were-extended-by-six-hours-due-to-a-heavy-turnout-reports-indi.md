@@ -19,7 +19,7 @@ Supporters of Rouhani, who championed the nuclear deal, are pitted against hardl
 
 ### Changes:
 
-1. [Elections in Iran: Counting of votes begins in Iran after polling hours in yesterday's election were extended by six hours due to a heavy turnout. Reports indicate that reformist candidates are doing well in the early count. ](/news/2016/02/27/elections-in-iran-counting-of-votes-begins-in-iran-after-polling-hours-in-yesterday-s-election-were-extended-by-six-hours-due-to-a-heavy-tu.md) _2017-08-27 03:45:03 (First version)_
+1. [Elections in Iran: Counting of votes begins in Iran after polling hours in yesterday's election were extended by six hours due to a heavy turnout. Reports indicate that reformist candidates are doing well in the early count. ](/news/2016/02/27/elections-in-iran-counting-of-votes-begins-in-iran-after-polling-hours-in-yesterday-s-election-were-extended-by-six-hours-due-to-a-heavy-tu.md) _2018-02-06 13:49:28 (First version)_
 1. [Counting of votes begins in Iran after polling hours in yesterday's election were extended by six hours due to a heavy turnout. Reports indicate that reformist candidates are doing well in the early count. ](/news/2016/02/27/counting-of-votes-begins-in-iran-after-polling-hours-in-yesterday-s-election-were-extended-by-six-hours-due-to-a-heavy-turnout-reports-indi.md) _(Current version)_
 
 ### Related:

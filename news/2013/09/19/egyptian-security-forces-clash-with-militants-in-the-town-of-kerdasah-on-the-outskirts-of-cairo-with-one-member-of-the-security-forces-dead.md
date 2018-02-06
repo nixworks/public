@@ -16,8 +16,8 @@ An Egyptian police general is killed in fighting as security forces storm the Mu
 
 ### Changes:
 
-1. [Political violence in Egypt, 2013:Egyptian security forces clash with militants in the town of Kerdasah on the outskirts of Cairo with one member of the security forces dead. ](/news/2013/09/19/political-violence-in-egypt-2013-pegyptian-security-forces-clash-with-militants-in-the-town-of-kerdasah-on-the-outskirts-of-cairo-with-one.md) _2017-08-25 03:39:18 (First version)_
-2. [Political violence in Egypt, 2013:: Egyptian security forces clash with militants in the town of Kerdasah on the outskirts of Cairo with one member of the security forces dead. ](/news/2013/09/19/political-violence-in-egypt-2013-egyptian-security-forces-clash-with-militants-in-the-town-of-kerdasah-on-the-outskirts-of-cairo-with-one.md) _2017-08-27 03:39:34 (Update)_
+1. [Political violence in Egypt, 2013:Egyptian security forces clash with militants in the town of Kerdasah on the outskirts of Cairo with one member of the security forces dead. ](/news/2013/09/19/political-violence-in-egypt-2013-pegyptian-security-forces-clash-with-militants-in-the-town-of-kerdasah-on-the-outskirts-of-cairo-with-one.md) _2018-02-06 13:49:25 (First version)_
+2. [Political violence in Egypt, 2013:: Egyptian security forces clash with militants in the town of Kerdasah on the outskirts of Cairo with one member of the security forces dead. ](/news/2013/09/19/political-violence-in-egypt-2013-egyptian-security-forces-clash-with-militants-in-the-town-of-kerdasah-on-the-outskirts-of-cairo-with-one.md) _2018-02-06 13:49:25 (Update)_
 2. [Egyptian security forces clash with militants in the town of Kerdasah on the outskirts of Cairo with one member of the security forces dead. ](/news/2013/09/19/egyptian-security-forces-clash-with-militants-in-the-town-of-kerdasah-on-the-outskirts-of-cairo-with-one-member-of-the-security-forces-dead.md) _(Current version)_
 
 ### Related:

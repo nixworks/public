@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-ei
 
 ### Changes:
 
-1. [War in Donbass: Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/war-in-donbass-three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-cont.md) _2017-08-27 03:46:10 (First version)_
+1. [War in Donbass: Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/war-in-donbass-three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-cont.md) _2018-02-06 13:49:29 (First version)_
 1. [Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-controlled-mariupol.md) _(Current version)_
 
 ### Related:

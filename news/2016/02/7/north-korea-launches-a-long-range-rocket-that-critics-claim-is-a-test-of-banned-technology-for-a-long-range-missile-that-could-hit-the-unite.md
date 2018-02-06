@@ -23,7 +23,7 @@ min Park and Louis Charbonneau
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for.md) _2017-08-27 03:44:51 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for-a-long-range-missile-that-could-hit-the-unite.md) _(Current version)_
 
 ### Related:

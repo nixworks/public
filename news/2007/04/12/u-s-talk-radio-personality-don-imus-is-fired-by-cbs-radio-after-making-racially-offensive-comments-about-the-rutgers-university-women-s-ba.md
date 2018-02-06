@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/12/u-s-talk-radio-personality-don-imus-is-fired-by
 
 ### Changes:
 
-1. [ U.S. talk radio personality Don Imus is fired by CBS Radio after making racially offensive comments about the Rutgers University women's basketball team. His simulcasted television show "Imus in the Morning" on MSNBC is also cancelled. ](/news/2007/04/12/u-s-talk-radio-personality-don-imus-is-fired-by-cbs-radio-after-making-racially-offensive-comments-about-the-rutgers-university-women-s-b.md) _2017-08-25 03:19:35 (First version)_
+1. [ U.S. talk radio personality Don Imus is fired by CBS Radio after making racially offensive comments about the Rutgers University women's basketball team. His simulcasted television show "Imus in the Morning" on MSNBC is also cancelled. ](/news/2007/04/12/u-s-talk-radio-personality-don-imus-is-fired-by-cbs-radio-after-making-racially-offensive-comments-about-the-rutgers-university-women-s-b.md) _2018-02-06 13:49:17 (First version)_
 1. [ U.S. talk radio personality Don Imus is fired by CBS Radio after making racially offensive comments about the Rutgers University women's basketball team. His simulcasted television show "Imus in the Morning" on MSNBC is also cancelled. ](/news/2007/04/12/u-s-talk-radio-personality-don-imus-is-fired-by-cbs-radio-after-making-racially-offensive-comments-about-the-rutgers-university-women-s-ba.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front
 
 ### Changes:
 
-1. [Assam conflict: A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/assam-conflict-a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-p.md) _2017-08-27 03:41:56 (First version)_
+1. [Assam conflict: A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/assam-conflict-a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-p.md) _2018-02-06 13:49:26 (First version)_
 1. [A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.md) _(Current version)_
 
 ### Related:

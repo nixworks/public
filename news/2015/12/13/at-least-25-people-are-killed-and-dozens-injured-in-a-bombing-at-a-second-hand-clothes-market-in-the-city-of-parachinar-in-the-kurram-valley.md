@@ -17,7 +17,7 @@ Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least 25 people are killed and dozens injured in a bombing at a second-hand clothes market in the city of Parachinar in the Kurram Valley. ](/news/2015/12/13/war-in-north-west-pakistan-at-least-25-people-are-killed-and-dozens-injured-in-a-bombing-at-a-second-hand-clothes-market-in-the-city-of-par.md) _2017-08-27 03:44:20 (First version)_
+1. [War in North-West Pakistan: At least 25 people are killed and dozens injured in a bombing at a second-hand clothes market in the city of Parachinar in the Kurram Valley. ](/news/2015/12/13/war-in-north-west-pakistan-at-least-25-people-are-killed-and-dozens-injured-in-a-bombing-at-a-second-hand-clothes-market-in-the-city-of-par.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 25 people are killed and dozens injured in a bombing at a second-hand clothes market in the city of Parachinar in the Kurram Valley. ](/news/2015/12/13/at-least-25-people-are-killed-and-dozens-injured-in-a-bombing-at-a-second-hand-clothes-market-in-the-city-of-parachinar-in-the-kurram-valley.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A Taliban suicide bomber detonated himself on Tuesday outside Kabul Internationa
 
 ### Changes:
 
-1. [Taliban insurgency:A Taliban suicide bomber blows himself up outside Kabul International Airport killing three foreign advisers and an Afghan interpreter. ](/news/2014/07/22/taliban-insurgency-pa-taliban-suicide-bomber-blows-himself-up-outside-kabul-international-airport-killing-three-foreign-advisers-and-an-afgh.md) _2017-08-25 03:40:44 (First version)_
-2. [Taliban insurgency:: A Taliban suicide bomber blows himself up outside Kabul International Airport killing three foreign advisers and an Afghan interpreter. ](/news/2014/07/22/taliban-insurgency-a-taliban-suicide-bomber-blows-himself-up-outside-kabul-international-airport-killing-three-foreign-advisers-and-an-afg.md) _2017-08-27 03:41:02 (Update)_
+1. [Taliban insurgency:A Taliban suicide bomber blows himself up outside Kabul International Airport killing three foreign advisers and an Afghan interpreter. ](/news/2014/07/22/taliban-insurgency-pa-taliban-suicide-bomber-blows-himself-up-outside-kabul-international-airport-killing-three-foreign-advisers-and-an-afgh.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency:: A Taliban suicide bomber blows himself up outside Kabul International Airport killing three foreign advisers and an Afghan interpreter. ](/news/2014/07/22/taliban-insurgency-a-taliban-suicide-bomber-blows-himself-up-outside-kabul-international-airport-killing-three-foreign-advisers-and-an-afg.md) _2018-02-06 13:49:26 (Update)_
 2. [A Taliban suicide bomber blows himself up outside Kabul International Airport killing three foreign advisers and an Afghan interpreter. ](/news/2014/07/22/a-taliban-suicide-bomber-blows-himself-up-outside-kabul-international-airport-killing-three-foreign-advisers-and-an-afghan-interpreter.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Anti-Aquino sentiment gathers momentum in the wake of a bungled police raid that
 
 ### Changes:
 
-1. [2015 Mamasapano clash: The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/2015-mamasapano-clash-the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-r.md) _2017-08-27 03:41:53 (First version)_
+1. [2015 Mamasapano clash: The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/2015-mamasapano-clash-the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-r.md) _2018-02-06 13:49:26 (First version)_
 1. [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md) _(Current version)_
 
 ### Related:

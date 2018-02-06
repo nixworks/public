@@ -18,7 +18,7 @@ Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies
 
 ### Changes:
 
-1. [Syrian Civil War: Iranian involvement in the Syrian Civil War: Two officers from the Iranian Revolutionary Guards are reportedly killed in Syria. ](/news/2015/10/14/syrian-civil-war-iranian-involvement-in-the-syrian-civil-war-two-officers-from-the-iranian-revolutionary-guards-are-reportedly-killed-in-s.md) _2017-08-27 03:43:20 (First version)_
+1. [Syrian Civil War: Iranian involvement in the Syrian Civil War: Two officers from the Iranian Revolutionary Guards are reportedly killed in Syria. ](/news/2015/10/14/syrian-civil-war-iranian-involvement-in-the-syrian-civil-war-two-officers-from-the-iranian-revolutionary-guards-are-reportedly-killed-in-s.md) _2018-02-06 13:49:27 (First version)_
 1. [Two officers from the Iranian Revolutionary Guards are reportedly killed in Syria. ](/news/2015/10/14/two-officers-from-the-iranian-revolutionary-guards-are-reportedly-killed-in-syria.md) _(Current version)_
 
 ### Related:

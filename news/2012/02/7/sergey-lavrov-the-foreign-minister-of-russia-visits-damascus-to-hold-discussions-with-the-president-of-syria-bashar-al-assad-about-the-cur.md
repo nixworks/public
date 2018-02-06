@@ -21,7 +21,7 @@ Russia won a promise from Syrian President Bashar al-Assad on Tuesday to bring a
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: Sergey Lavrov, the Foreign Minister of Russia, visits Damascus to hold discussions with the President of Syria Bashar al-Assad about the current violence. ](/news/2012/02/7/2011-2012-syrian-uprising-sergey-lavrov-the-foreign-minister-of-russia-visits-damascus-to-hold-discussions-with-the-president-of-syria-ba.md) _2017-08-27 03:35:09 (First version)_
+1. [2011-2012 Syrian uprising: Sergey Lavrov, the Foreign Minister of Russia, visits Damascus to hold discussions with the President of Syria Bashar al-Assad about the current violence. ](/news/2012/02/7/2011-2012-syrian-uprising-sergey-lavrov-the-foreign-minister-of-russia-visits-damascus-to-hold-discussions-with-the-president-of-syria-ba.md) _2018-02-06 13:49:23 (First version)_
 1. [Sergey Lavrov, the Foreign Minister of Russia, visits Damascus to hold discussions with the President of Syria Bashar al-Assad about the current violence. ](/news/2012/02/7/sergey-lavrov-the-foreign-minister-of-russia-visits-damascus-to-hold-discussions-with-the-president-of-syria-bashar-al-assad-about-the-cur.md) _(Current version)_
 
 ### Related:

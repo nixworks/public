@@ -16,8 +16,8 @@ Three Egyptian policemen were killed on Monday when masked men attacked a checkp
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present):Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/islamist-protests-in-egypt-july-2013apresent-pthree-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile.md) _2017-08-25 03:39:26 (First version)_
-2. [Islamist protests in Egypt (July 2013-present):: Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/islamist-protests-in-egypt-july-2013-present-three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nil.md) _2017-08-27 03:39:44 (Update)_
+1. [Islamist protests in Egypt (July 2013-present):Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/islamist-protests-in-egypt-july-2013apresent-pthree-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/islamist-protests-in-egypt-july-2013-present-three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nil.md) _2018-02-06 13:49:25 (Update)_
 2. [Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.md) _(Current version)_
 
 ### Related:

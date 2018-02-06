@@ -16,6 +16,6 @@ A general strike was being observed on Sunday in several regions of Syria to ste
 
 ### Changes:
 
-1. [2011 Syrian uprising:A general strike is observed in several regions of Syria. ](/news/2011/12/11/2011-syrian-uprising-pa-general-strike-is-observed-in-several-regions-of-syria.md) _2017-08-25 03:34:37 (First version)_
-2. [2011 Syrian uprising:: A general strike is observed in several regions of Syria. ](/news/2011/12/11/2011-syrian-uprising-a-general-strike-is-observed-in-several-regions-of-syria.md) _2017-08-27 03:34:46 (Update)_
+1. [2011 Syrian uprising:A general strike is observed in several regions of Syria. ](/news/2011/12/11/2011-syrian-uprising-pa-general-strike-is-observed-in-several-regions-of-syria.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:: A general strike is observed in several regions of Syria. ](/news/2011/12/11/2011-syrian-uprising-a-general-strike-is-observed-in-several-regions-of-syria.md) _2018-02-06 13:49:23 (Update)_
 2. [A general strike is observed in several regions of Syria. ](/news/2011/12/11/a-general-strike-is-observed-in-several-regions-of-syria.md) _(Current version)_

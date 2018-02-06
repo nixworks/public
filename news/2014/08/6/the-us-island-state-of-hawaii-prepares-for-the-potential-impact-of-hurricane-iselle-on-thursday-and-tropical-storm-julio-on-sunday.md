@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/6/the-us-island-state-of-hawaii-prepares-for-the-p
 
 ### Changes:
 
-1. [2014 Pacific hurricane season: The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/2014-pacific-hurricane-season-the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical.md) _2017-08-27 03:41:07 (First version)_
+1. [2014 Pacific hurricane season: The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/2014-pacific-hurricane-season-the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical.md) _2018-02-06 13:49:26 (First version)_
 1. [The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical-storm-julio-on-sunday.md) _(Current version)_
 
 ### Related:

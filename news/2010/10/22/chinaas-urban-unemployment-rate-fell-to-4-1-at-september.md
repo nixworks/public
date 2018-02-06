@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-
 
 ### Changes:
 
-1. [China-s urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/china-s-urban-unemployment-rate-fell-to-4-1-at-september.md) _2017-08-27 03:30:43 (First version)_
+1. [China-s urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/china-s-urban-unemployment-rate-fell-to-4-1-at-september.md) _2018-02-06 13:49:20 (First version)_
 1. [China's urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-september.md) _(Current version)_
 
 ### Related:

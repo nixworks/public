@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-ko
 
 ### Changes:
 
-1. [2013 Korean crisis:The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-pthe-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _2017-08-25 03:38:35 (First version)_
-2. [2013 Korean crisis:: The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _2017-08-27 03:38:48 (Update)_
+1. [2013 Korean crisis:: The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Korean crisis:The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-pthe-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _2018-02-06 13:49:25 (Update)_
 2. [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md) _(Current version)_
 
 ### Related:

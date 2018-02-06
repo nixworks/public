@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/13/israel-defense-forces-special-forces-raid-a-mis
 
 ### Changes:
 
-1. [Operation Protective Edge:Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/operation-protective-edge-pisrael-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md) _2017-08-25 03:40:40 (First version)_
-2. [Operation Protective Edge:: Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/operation-protective-edge-israel-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md) _2017-08-27 03:40:58 (Update)_
+1. [Operation Protective Edge:Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/operation-protective-edge-pisrael-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md) _2018-02-06 13:49:26 (First version)_
+2. [Operation Protective Edge:: Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/operation-protective-edge-israel-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md) _2018-02-06 13:49:26 (Update)_
 2. [Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/israel-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md) _(Current version)_
 
 ### Related:

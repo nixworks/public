@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/27/gunmen-believed-to-be-members-of-boko-haram-abd
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/islamist-insurgency-in-nigeria-pgunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md) _2017-08-25 03:40:46 (First version)_
-2. [Islamist insurgency in Nigeria:: Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/islamist-insurgency-in-nigeria-gunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md) _2017-08-27 03:41:04 (Update)_
+1. [Islamist insurgency in Nigeria:Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/islamist-insurgency-in-nigeria-pgunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/islamist-insurgency-in-nigeria-gunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md) _2018-02-06 13:49:26 (Update)_
 2. [Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/gunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md) _(Current version)_
 
 ### Related:

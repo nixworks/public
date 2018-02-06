@@ -15,8 +15,8 @@ Taliban insurgents claimed responsibility for the attack, which they said target
 
 ### Changes:
 
-1. [A suicide bomber kills at least 95 people and wounds 158 in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-kills-at-least-95-people-and-wounds-158-in-kabul-afghanistan.md) _2018-01-27 17:30:20 (First version)_
-2. [A suicide bomber in an ambulance packed with explosives kills at least 95 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-95-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _2018-01-27 19:30:20 (Update)_
+1. [A suicide bomber kills at least 95 people and wounds 158 in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-kills-at-least-95-people-and-wounds-158-in-kabul-afghanistan.md) _2018-02-06 13:49:31 (First version)_
+2. [A suicide bomber in an ambulance packed with explosives kills at least 95 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-95-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _2018-02-06 13:49:31 (Update)_
 2. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _(Current version)_
 
 ### Related:

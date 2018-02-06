@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/05/31/world-health-organization-calls-for-complete-ba
 
 ### Changes:
 
-1. [ World Health Organization calls for complete ban on tobacco advertising; the organization says recent studies prove the more young people are exposed to tobacco advertising, the more likely they are to start smoking. The call comes as part of the WHO's annual World No Tobacco Day. ](/news/2008/05/31/world-health-organization-calls-for-complete-ban-on-tobacco-advertising-the-organization-says-recent-studies-prove-the-more-young-people.md) _2017-08-25 03:22:16 (First version)_
+1. [ World Health Organization calls for complete ban on tobacco advertising; the organization says recent studies prove the more young people are exposed to tobacco advertising, the more likely they are to start smoking. The call comes as part of the WHO's annual World No Tobacco Day. ](/news/2008/05/31/world-health-organization-calls-for-complete-ban-on-tobacco-advertising-the-organization-says-recent-studies-prove-the-more-young-people.md) _2018-02-06 13:49:18 (First version)_
 1. [ World Health Organization calls for complete ban on tobacco advertising; the organization says recent studies prove the more young people are exposed to tobacco advertising, the more likely they are to start smoking. The call comes as part of the WHO's annual World No Tobacco Day. ](/news/2008/05/31/world-health-organization-calls-for-complete-ban-on-tobacco-advertising-the-organization-says-recent-studies-prove-the-more-young-people-a.md) _(Current version)_
 
 ### Related:

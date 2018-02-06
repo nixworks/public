@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/25/typhoon-goni-makes-landfall-in-southwestern-jap
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/2015-pacific-typhoon-season-typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-dea.md) _2017-08-27 03:42:54 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/2015-pacific-typhoon-season-typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-dea.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-death-toll-in-the-philippines-ri.md) _(Current version)_
 
 ### Related:

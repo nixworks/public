@@ -17,8 +17,8 @@ Syrian rebels killed at least 11 people, including civilians, in an attack on a 
 
 ### Changes:
 
-1. [Syrian civil war:Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-civil-war-psyrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md) _2017-08-25 03:39:10 (First version)_
-2. [Syrian civil war:: Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-civil-war-syrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md) _2017-08-27 03:39:25 (Update)_
+1. [Syrian civil war:: Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-civil-war-syrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-civil-war-psyrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md) _(Current version)_
 
 ### Related:

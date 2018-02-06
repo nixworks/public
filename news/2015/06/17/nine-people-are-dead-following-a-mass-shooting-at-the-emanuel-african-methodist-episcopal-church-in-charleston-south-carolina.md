@@ -18,7 +18,7 @@ The 21-year-old white man suspected of shooting dead nine people at a black chur
 
 ### Changes:
 
-1. [Charleston church shooting: Nine people are dead following a mass shooting at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina. ](/news/2015/06/17/charleston-church-shooting-nine-people-are-dead-following-a-mass-shooting-at-the-emanuel-african-methodist-episcopal-church-in-charleston.md) _2017-08-27 03:42:33 (First version)_
+1. [Charleston church shooting: Nine people are dead following a mass shooting at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina. ](/news/2015/06/17/charleston-church-shooting-nine-people-are-dead-following-a-mass-shooting-at-the-emanuel-african-methodist-episcopal-church-in-charleston.md) _2018-02-06 13:49:27 (First version)_
 1. [Nine people are dead following a mass shooting at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina. ](/news/2015/06/17/nine-people-are-dead-following-a-mass-shooting-at-the-emanuel-african-methodist-episcopal-church-in-charleston-south-carolina.md) _(Current version)_
 
 ### Related:

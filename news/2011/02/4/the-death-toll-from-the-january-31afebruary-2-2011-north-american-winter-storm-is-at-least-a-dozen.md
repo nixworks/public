@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/4/the-death-toll-from-the-january-31afebruary-2-20
 
 ### Changes:
 
-1. [The death toll from the January 31-February 2, 2011 North American winter storm is at least a dozen. ](/news/2011/02/4/the-death-toll-from-the-january-31-february-2-2011-north-american-winter-storm-is-at-least-a-dozen.md) _2017-08-27 03:32:10 (First version)_
+1. [The death toll from the January 31-February 2, 2011 North American winter storm is at least a dozen. ](/news/2011/02/4/the-death-toll-from-the-january-31-february-2-2011-north-american-winter-storm-is-at-least-a-dozen.md) _2018-02-06 13:49:22 (First version)_
 1. [The death toll from the January 31-February 2, 2011 North American winter storm is at least a dozen. ](/news/2011/02/4/the-death-toll-from-the-january-31afebruary-2-2011-north-american-winter-storm-is-at-least-a-dozen.md) _(Current version)_
 
 ### Related:

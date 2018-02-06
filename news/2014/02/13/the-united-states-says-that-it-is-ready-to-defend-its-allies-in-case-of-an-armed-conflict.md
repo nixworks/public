@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defe
 
 ### Changes:
 
-1. [South China Sea dispute:The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/south-china-sea-dispute-pthe-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md) _2017-08-25 03:40:02 (First version)_
-2. [South China Sea dispute:: The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/south-china-sea-dispute-the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md) _2017-08-27 03:40:20 (Update)_
+1. [South China Sea dispute:: The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/south-china-sea-dispute-the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md) _2018-02-06 13:49:25 (First version)_
+2. [South China Sea dispute:The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/south-china-sea-dispute-pthe-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md) _(Current version)_
 
 ### Related:

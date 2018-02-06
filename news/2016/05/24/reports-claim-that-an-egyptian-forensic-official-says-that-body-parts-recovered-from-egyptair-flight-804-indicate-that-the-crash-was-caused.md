@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/24/reports-claim-that-an-egyptian-forensic-officia
 
 ### Changes:
 
-1. [EgyptAir Flight 804: Reports claim that an Egyptian forensic official says that body parts recovered from EgyptAir flight 804 indicate that the crash was caused by an explosion. ](/news/2016/05/24/egyptair-flight-804-reports-claim-that-an-egyptian-forensic-official-says-that-body-parts-recovered-from-egyptair-flight-804-indicate-that.md) _2017-08-27 03:46:07 (First version)_
+1. [EgyptAir Flight 804: Reports claim that an Egyptian forensic official says that body parts recovered from EgyptAir flight 804 indicate that the crash was caused by an explosion. ](/news/2016/05/24/egyptair-flight-804-reports-claim-that-an-egyptian-forensic-official-says-that-body-parts-recovered-from-egyptair-flight-804-indicate-that.md) _2018-02-06 13:49:29 (First version)_
 1. [Reports claim that an Egyptian forensic official says that body parts recovered from EgyptAir flight 804 indicate that the crash was caused by an explosion. ](/news/2016/05/24/reports-claim-that-an-egyptian-forensic-official-says-that-body-parts-recovered-from-egyptair-flight-804-indicate-that-the-crash-was-caused.md) _(Current version)_
 
 ### Related:

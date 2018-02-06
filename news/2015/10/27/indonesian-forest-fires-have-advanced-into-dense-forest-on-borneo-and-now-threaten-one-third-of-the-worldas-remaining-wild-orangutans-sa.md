@@ -17,7 +17,7 @@ A species of the Great Apes is among the biggest casualties of the fires ravagin
 
 ### Changes:
 
-1. [2015 Southeast Asian haze: Indonesian forest fires have advanced into dense forest on Borneo and now threaten one third of the world-s remaining wild orangutans, say conservationists. ](/news/2015/10/27/2015-southeast-asian-haze-indonesian-forest-fires-have-advanced-into-dense-forest-on-borneo-and-now-threaten-one-third-of-the-world-s-rem.md) _2017-08-27 03:43:32 (First version)_
+1. [2015 Southeast Asian haze: Indonesian forest fires have advanced into dense forest on Borneo and now threaten one third of the world-s remaining wild orangutans, say conservationists. ](/news/2015/10/27/2015-southeast-asian-haze-indonesian-forest-fires-have-advanced-into-dense-forest-on-borneo-and-now-threaten-one-third-of-the-world-s-rem.md) _2018-02-06 13:49:28 (First version)_
 1. [ Indonesian forest fires have advanced into dense forest on Borneo and now threaten one third of the world's remaining wild orangutans, say conservationists. ](/news/2015/10/27/indonesian-forest-fires-have-advanced-into-dense-forest-on-borneo-and-now-threaten-one-third-of-the-worldas-remaining-wild-orangutans-sa.md) _(Current version)_
 
 ### Related:

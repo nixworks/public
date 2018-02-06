@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/1/kim-jong-un-the-leader-of-north-korea-claims-tha
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: Kim Jong Un, the leader of North Korea, claims that the country is close to developing an intercontinental ballistic missile. ](/news/2017/01/1/north-korea-and-weapons-of-mass-destruction-kim-jong-un-the-leader-of-north-korea-claims-that-the-country-is-close-to-developing-an-inter.md) _2017-08-27 03:47:33 (First version)_
+1. [North Korea and weapons of mass destruction: Kim Jong Un, the leader of North Korea, claims that the country is close to developing an intercontinental ballistic missile. ](/news/2017/01/1/north-korea-and-weapons-of-mass-destruction-kim-jong-un-the-leader-of-north-korea-claims-that-the-country-is-close-to-developing-an-inter.md) _2018-02-06 13:49:30 (First version)_
 1. [Kim Jong Un, the leader of North Korea, claims that the country is close to developing an intercontinental ballistic missile. ](/news/2017/01/1/kim-jong-un-the-leader-of-north-korea-claims-that-the-country-is-close-to-developing-an-intercontinental-ballistic-missile.md) _(Current version)_
 
 ### Related:

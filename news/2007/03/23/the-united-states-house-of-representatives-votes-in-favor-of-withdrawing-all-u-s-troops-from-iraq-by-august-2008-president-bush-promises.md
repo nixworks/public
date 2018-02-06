@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/03/23/the-united-states-house-of-representatives-vote
 
 ### Changes:
 
-1. [ Iraq War: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-p-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md) _2017-08-25 03:19:27 (First version)_
-2. [ Iraq War:: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md) _2017-08-27 03:19:23 (Update)_
+1. [ Iraq War:: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-p-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md) _2018-02-06 13:49:17 (Update)_
 2. [ The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bush-promises.md) _(Current version)_
 
 ### Related:

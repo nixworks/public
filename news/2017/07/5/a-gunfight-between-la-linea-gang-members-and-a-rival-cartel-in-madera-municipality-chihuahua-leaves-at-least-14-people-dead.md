@@ -15,8 +15,8 @@ The shootout in Chihuahua comes amid rising violence nationwide.
 
 ### Changes:
 
-1. [A gunfight between La Linea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-lanea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md) _2017-07-07 20:30:07 (First version)_
-2. [Mexican Drug War: A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/mexican-drug-war-a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-d.md) _2017-08-27 03:48:37 (Update)_
+1. [Mexican Drug War: A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/mexican-drug-war-a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-d.md) _2018-02-06 13:49:31 (First version)_
+2. [A gunfight between La Linea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-lanea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md) _2018-02-06 13:49:31 (Update)_
 2. [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md) _(Current version)_
 
 ### Related:

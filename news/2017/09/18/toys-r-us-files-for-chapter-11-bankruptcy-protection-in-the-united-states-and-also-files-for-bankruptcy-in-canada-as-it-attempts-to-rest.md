@@ -17,8 +17,8 @@ The once dominant toy retailer has struggled against larger rivals such as Amazo
 
 ### Changes:
 
-1. [Toys "R" Us files for bankruptcy protection in the US and Canada as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-bankruptcy-protection-in-the-us-and-canada-as-it-attempts-to-restructure-its-debts.md) _2017-09-19 13:30:06 (First version)_
-2. [Toys "R" Us files for bankruptcy protection in the United States and Canada as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-bankruptcy-protection-in-the-united-states-and-canada-as-it-attempts-to-restructure-its-debts.md) _2017-09-19 20:30:05 (Update)_
+1. [Toys "R" Us files for bankruptcy protection in the US and Canada as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-bankruptcy-protection-in-the-us-and-canada-as-it-attempts-to-restructure-its-debts.md) _2018-02-06 13:49:31 (First version)_
+2. [Toys "R" Us files for bankruptcy protection in the United States and Canada as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-bankruptcy-protection-in-the-united-states-and-canada-as-it-attempts-to-restructure-its-debts.md) _2018-02-06 13:49:31 (Update)_
 2. [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md) _(Current version)_
 
 ### Related:

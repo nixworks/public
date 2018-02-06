@@ -16,8 +16,8 @@ Syrian warplanes bombed a bakery run by Islamic State in the city of Raqqa, kill
 
 ### Changes:
 
-1. [Syrian Civil War:The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/syrian-civil-war-pthe-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah.md) _2017-08-25 03:40:56 (First version)_
-2. [Syrian Civil War:: The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/syrian-civil-war-the-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah.md) _2017-08-27 03:41:15 (Update)_
+1. [Syrian Civil War:: The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/syrian-civil-war-the-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/syrian-civil-war-pthe-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah.md) _2018-02-06 13:49:26 (Update)_
 2. [The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/the-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah-killing-25-people.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least 50 bodies were retrieved from buildings leveled to the ground after Syr
 
 ### Changes:
 
-1. [Syrian Civil War: Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/syrian-civil-war-missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-d.md) _2017-08-27 03:42:52 (First version)_
+1. [Syrian Civil War: Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/syrian-civil-war-missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-d.md) _2018-02-06 13:49:27 (First version)_
 1. [Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-damascus.md) _(Current version)_
 
 ### Related:

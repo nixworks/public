@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/01/20/at-4-o-clock-utc-nasa-s-pluto-probe-new-horizon
 
 ### Changes:
 
-1. [ At 4 o'clock UTC NASA's Pluto probe ''New Horizons'' crossed the orbit of the Moon, eight hours and thirty-five minutes after launch. This is a new Earth-to-Moon-distance flight record.](/news/2006/01/20/at-4-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-the-moon-eight-hours-and-thirty-five-minutes-after-launch-this.md) _2017-08-25 03:17:23 (First version)_
+1. [ At 4 o'clock UTC NASA's Pluto probe ''New Horizons'' crossed the orbit of the Moon, eight hours and thirty-five minutes after launch. This is a new Earth-to-Moon-distance flight record.](/news/2006/01/20/at-4-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-the-moon-eight-hours-and-thirty-five-minutes-after-launch-this.md) _2018-02-06 13:49:16 (First version)_
 1. [ At 4 o'clock UTC NASA's Pluto probe "New Horizons" crossed the orbit of the Moon, eight hours and thirty-five minutes after launch. This is a new Earth-to-Moon-distance flight record.](/news/2006/01/20/at-4-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-the-moon-eight-hours-and-thirty-five-minutes-after-launch-this-is.md) _(Current version)_
 
 ### Related:

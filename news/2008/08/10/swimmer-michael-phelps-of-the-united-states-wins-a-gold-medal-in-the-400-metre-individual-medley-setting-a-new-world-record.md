@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/08/10/swimmer-michael-phelps-of-the-united-states-win
 
 ### Changes:
 
-1. [ 2008 Summer Olympics: Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/2008-summer-olympics-p-swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world.md) _2017-08-25 03:22:41 (First version)_
-2. [ 2008 Summer Olympics:: Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/2008-summer-olympics-swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world.md) _2017-08-27 03:22:34 (Update)_
+1. [ 2008 Summer Olympics:: Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/2008-summer-olympics-swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Summer Olympics: Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/2008-summer-olympics-p-swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world.md) _2018-02-06 13:49:18 (Update)_
 2. [ Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world-record.md) _(Current version)_
 
 ### Related:

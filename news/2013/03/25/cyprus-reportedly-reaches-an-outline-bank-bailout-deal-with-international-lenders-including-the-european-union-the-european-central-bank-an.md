@@ -17,8 +17,8 @@ Cyprus reached an outline deal with international lenders for a 10 billion euro 
 
 ### Changes:
 
-1. [2012-2013 Cypriot financial crisis:Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012a2013-cypriot-financial-crisis-pcyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europe.md) _2017-08-25 03:38:01 (First version)_
-2. [2012-2013 Cypriot financial crisis:: Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012-2013-cypriot-financial-crisis-cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europ.md) _2017-08-27 03:38:12 (Update)_
+1. [2012-2013 Cypriot financial crisis:Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012a2013-cypriot-financial-crisis-pcyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europe.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Cypriot financial crisis:: Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012-2013-cypriot-financial-crisis-cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europ.md) _2018-02-06 13:49:24 (Update)_
 2. [Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-european-union-the-european-central-bank-an.md) _(Current version)_
 
 ### Related:

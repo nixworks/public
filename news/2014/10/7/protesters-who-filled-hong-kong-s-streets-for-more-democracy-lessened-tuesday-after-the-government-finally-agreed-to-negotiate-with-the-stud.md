@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/7/protesters-who-filled-hong-kong-s-streets-for-mo
 
 ### Changes:
 
-1. [Umbrella revolution: Protesters who filled Hong Kong's streets for more democracy lessened Tuesday after the government finally agreed to negotiate with the student leaders. ](/news/2014/10/7/umbrella-revolution-protesters-who-filled-hong-kong-s-streets-for-more-democracy-lessened-tuesday-after-the-government-finally-agreed-to-ne.md) _2017-08-27 03:41:22 (First version)_
+1. [Umbrella revolution: Protesters who filled Hong Kong's streets for more democracy lessened Tuesday after the government finally agreed to negotiate with the student leaders. ](/news/2014/10/7/umbrella-revolution-protesters-who-filled-hong-kong-s-streets-for-more-democracy-lessened-tuesday-after-the-government-finally-agreed-to-ne.md) _2018-02-06 13:49:26 (First version)_
 1. [Protesters who filled Hong Kong's streets for more democracy lessened Tuesday after the government finally agreed to negotiate with the student leaders. ](/news/2014/10/7/protesters-who-filled-hong-kong-s-streets-for-more-democracy-lessened-tuesday-after-the-government-finally-agreed-to-negotiate-with-the-stud.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ The UN declares its highest level of emergency in Iraq as a humanitarian crisis 
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): The United Nations declares its highest state of emergency in Iraq following the advance of Islamic State of Iraq and the Levant. ](/news/2014/08/14/iraqi-insurgency-2011-present-the-united-nations-declares-its-highest-state-of-emergency-in-iraq-following-the-advance-of-islamic-state.md) _2017-08-27 03:41:09 (First version)_
+1. [Iraqi insurgency (2011-present): The United Nations declares its highest state of emergency in Iraq following the advance of Islamic State of Iraq and the Levant. ](/news/2014/08/14/iraqi-insurgency-2011-present-the-united-nations-declares-its-highest-state-of-emergency-in-iraq-following-the-advance-of-islamic-state.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Nations declares its highest state of emergency in Iraq following the advance of Islamic State of Iraq and the Levant. ](/news/2014/08/14/the-united-nations-declares-its-highest-state-of-emergency-in-iraq-following-the-advance-of-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Some of those infected sexually have been pregnant women, the Centers for Diseas
 
 ### Changes:
 
-1. [Zika virus outbreak (2015-present): The United States Centers for Disease Control and Prevention is investigating 14 cases where the Zika virus may have been sexually transmitted. ](/news/2016/02/23/zika-virus-outbreak-2015-present-the-united-states-centers-for-disease-control-and-prevention-is-investigating-14-cases-where-the-zika.md) _2017-08-27 03:45:00 (First version)_
+1. [Zika virus outbreak (2015-present): The United States Centers for Disease Control and Prevention is investigating 14 cases where the Zika virus may have been sexually transmitted. ](/news/2016/02/23/zika-virus-outbreak-2015-present-the-united-states-centers-for-disease-control-and-prevention-is-investigating-14-cases-where-the-zika.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Centers for Disease Control and Prevention is investigating 14 cases where the Zika virus may have been sexually transmitted. ](/news/2016/02/23/the-united-states-centers-for-disease-control-and-prevention-is-investigating-14-cases-where-the-zika-virus-may-have-been-sexually-transmitt.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-yousso
 
 ### Changes:
 
-1. [Djibouti-Eritrea relationsDjiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutiaeritrea-relationspdjiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-an.md) _2017-06-16 16:30:07 (First version)_
-2. [Djibouti-Eritrea relations: Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djibouti-eritrea-relations-djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-a.md) _2017-08-27 03:48:29 (Update)_
+1. [Djibouti-Eritrea relationsDjiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutiaeritrea-relationspdjiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-an.md) _2018-02-06 13:49:30 (First version)_
+2. [Djibouti-Eritrea relations: Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djibouti-eritrea-relations-djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-a.md) _2018-02-06 13:49:30 (Update)_
 2. [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md) _(Current version)_
 
 ### Related:

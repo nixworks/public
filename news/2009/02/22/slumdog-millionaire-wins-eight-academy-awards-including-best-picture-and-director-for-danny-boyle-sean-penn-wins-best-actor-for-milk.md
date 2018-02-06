@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-i
 
 ### Changes:
 
-1. [ ''Slumdog Millionaire'' wins eight Academy Awards, including Best Picture and Director for Danny Boyle. Sean Penn wins Best Actor for ''Milk'' and Kate Winslet wins Best Actress for ''The Reader''. ](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-including-best-picture-and-director-for-danny-boyle-sean-penn-wins-best-actor-for-mil.md) _2017-08-25 03:23:51 (First version)_
+1. [ ''Slumdog Millionaire'' wins eight Academy Awards, including Best Picture and Director for Danny Boyle. Sean Penn wins Best Actor for ''Milk'' and Kate Winslet wins Best Actress for ''The Reader''. ](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-including-best-picture-and-director-for-danny-boyle-sean-penn-wins-best-actor-for-mil.md) _2018-02-06 13:49:18 (First version)_
 1. [ "Slumdog Millionaire" wins eight Academy Awards, including Best Picture and Director for Danny Boyle. Sean Penn wins Best Actor for "Milk" and Kate Winslet wins Best Actress for "The Reader". ](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-including-best-picture-and-director-for-danny-boyle-sean-penn-wins-best-actor-for-milk.md) _(Current version)_
 
 ### Related:

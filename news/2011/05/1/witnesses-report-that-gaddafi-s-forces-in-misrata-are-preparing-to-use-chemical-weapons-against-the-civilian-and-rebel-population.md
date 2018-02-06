@@ -18,8 +18,8 @@ Pro-Gaddaffi forces have been seen roaming the streets of Misurata wearing gas m
 
 ### Changes:
 
-1. [Libyan Civil War:Witnesses report that Gaddafi's forces in Misrata are preparing to use chemical weapons against the civilian and rebel population. ](/news/2011/05/1/libyan-civil-war-pwitnesses-report-that-gaddafi-s-forces-in-misrata-are-preparing-to-use-chemical-weapons-against-the-civilian-and-rebel-pop.md) _2017-08-25 03:32:57 (First version)_
-2. [Libyan Civil War:: Witnesses report that Gaddafi's forces in Misrata are preparing to use chemical weapons against the civilian and rebel population. ](/news/2011/05/1/libyan-civil-war-witnesses-report-that-gaddafi-s-forces-in-misrata-are-preparing-to-use-chemical-weapons-against-the-civilian-and-rebel-po.md) _2017-08-27 03:33:05 (Update)_
+1. [Libyan Civil War:: Witnesses report that Gaddafi's forces in Misrata are preparing to use chemical weapons against the civilian and rebel population. ](/news/2011/05/1/libyan-civil-war-witnesses-report-that-gaddafi-s-forces-in-misrata-are-preparing-to-use-chemical-weapons-against-the-civilian-and-rebel-po.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:Witnesses report that Gaddafi's forces in Misrata are preparing to use chemical weapons against the civilian and rebel population. ](/news/2011/05/1/libyan-civil-war-pwitnesses-report-that-gaddafi-s-forces-in-misrata-are-preparing-to-use-chemical-weapons-against-the-civilian-and-rebel-pop.md) _2018-02-06 13:49:22 (Update)_
 2. [Witnesses report that Gaddafi's forces in Misrata are preparing to use chemical weapons against the civilian and rebel population. ](/news/2011/05/1/witnesses-report-that-gaddafi-s-forces-in-misrata-are-preparing-to-use-chemical-weapons-against-the-civilian-and-rebel-population.md) _(Current version)_
 
 ### Related:

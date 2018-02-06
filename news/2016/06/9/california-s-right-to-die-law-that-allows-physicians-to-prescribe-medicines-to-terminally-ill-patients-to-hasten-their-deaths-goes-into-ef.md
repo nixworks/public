@@ -16,7 +16,7 @@ As California&apos;s aid-in-dying law took effect Thursday, the Life Legal Defen
 
 ### Changes:
 
-1. [California's right to die law, that allows physicians to prescribe medicines to terminally ill patients to hasten their deaths, goes into effect. California is the fifth state in America where this practice is legal. Opponents sue to overturn the law as unconstitutional because it denies terminally ill patients protections afforded other citizens. ](/news/2016/06/9/california-s-right-to-die-law-that-allows-physicians-to-prescribe-medicines-to-terminally-ill-patients-to-hasten-their-deaths-goes-into-e.md) _2017-08-25 03:45:51 (First version)_
+1. [California's right to die law, that allows physicians to prescribe medicines to terminally ill patients to hasten their deaths, goes into effect. California is the fifth state in America where this practice is legal. Opponents sue to overturn the law as unconstitutional because it denies terminally ill patients protections afforded other citizens. ](/news/2016/06/9/california-s-right-to-die-law-that-allows-physicians-to-prescribe-medicines-to-terminally-ill-patients-to-hasten-their-deaths-goes-into-e.md) _2018-02-06 13:49:29 (First version)_
 1. [California's right to die law, that allows physicians to prescribe medicines to terminally ill patients to hasten their deaths, goes into effect. California is the fifth state in America where this practice is legal. Opponents sue to overturn the law as unconstitutional because it denies terminally ill patients protections afforded other citizens. ](/news/2016/06/9/california-s-right-to-die-law-that-allows-physicians-to-prescribe-medicines-to-terminally-ill-patients-to-hasten-their-deaths-goes-into-ef.md) _(Current version)_
 
 ### Related:

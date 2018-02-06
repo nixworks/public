@@ -18,7 +18,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 
 ### Changes:
 
-1. [2016 European floods: At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/2016-european-floods-at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md) _2017-08-27 03:46:11 (First version)_
+1. [2016 European floods: At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/2016-european-floods-at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md) _2018-02-06 13:49:29 (First version)_
 1. [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md) _(Current version)_
 
 ### Related:

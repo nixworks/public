@@ -16,7 +16,7 @@ Israeli ground forces will completely withdraw from the Gaza Strip ahead of an E
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Israeli ground forces will leave the Gaza Strip ahead of an Egyptian mediated ceasefire starting at 0500 GMT today. ](/news/2014/08/5/2014-israel-gaza-conflict-israeli-ground-forces-will-leave-the-gaza-strip-ahead-of-an-egyptian-mediated-ceasefire-starting-at-0500-gmt-to.md) _2017-08-27 03:41:06 (First version)_
+1. [2014 Israel-Gaza conflict: Israeli ground forces will leave the Gaza Strip ahead of an Egyptian mediated ceasefire starting at 0500 GMT today. ](/news/2014/08/5/2014-israel-gaza-conflict-israeli-ground-forces-will-leave-the-gaza-strip-ahead-of-an-egyptian-mediated-ceasefire-starting-at-0500-gmt-to.md) _2018-02-06 13:49:26 (First version)_
 1. [Israeli ground forces will leave the Gaza Strip ahead of an Egyptian mediated ceasefire starting at 0500 GMT today. ](/news/2014/08/5/israeli-ground-forces-will-leave-the-gaza-strip-ahead-of-an-egyptian-mediated-ceasefire-starting-at-0500-gmt-today.md) _(Current version)_
 
 ### Related:

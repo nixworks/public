@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/17/officials-announce-that-afghan-security-forces-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/war-in-afghanistan-2001-present-officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md) _2017-08-27 03:48:40 (First version)_
+1. [War in Afghanistan (2001-present): Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/war-in-afghanistan-2001-present-officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md) _2018-02-06 13:49:30 (First version)_
 1. [Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md) _(Current version)_
 
 ### Related:

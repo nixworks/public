@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the
 
 ### Changes:
 
-1. [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for {{Nowrap|US$150 million}} to feed the hungry. {{Nowrap|2.5 million}} people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-nowrap-us-150-million-to-feed.md) _2017-05-01 03:17:43 (First version)_
+1. [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for {{Nowrap|US$150 million}} to feed the hungry. {{Nowrap|2.5 million}} people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-nowrap-us-150-million-to-feed.md) _2018-02-06 13:49:16 (First version)_
 1. [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for US$150 million to feed the hungry. 2.5 million people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-us-150-million-to-feed-the-hungry.md) _(Current version)_
 
 ### Related:

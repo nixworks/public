@@ -15,9 +15,9 @@ Formats: [HTML](/news/2007/08/22/a-suicide-bomber-kills-at-least-20-people-and-w
 
 ### Changes:
 
-1. [ War in An American A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2017-08-25 03:20:41 (First version)_
-2. [ War in Iraq: An American (Wikinews): A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-iraq-an-american-wikinews-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2017-08-27 03:20:39 (Update)_
-3. [ An American A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2017-09-24 03:23:17 (Update)_
+1. [ War in Iraq: An American (Wikinews): A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-iraq-an-american-wikinews-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in An American A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2018-02-06 13:49:18 (Update)_
+3. [ An American A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _2018-02-06 13:49:18 (Update)_
 3. [ A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md) _(Current version)_
 
 ### Related:

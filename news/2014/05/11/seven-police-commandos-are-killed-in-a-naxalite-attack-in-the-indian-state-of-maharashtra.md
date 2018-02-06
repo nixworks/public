@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/11/seven-police-commandos-are-killed-in-a-naxalite
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: Seven police commandos are killed in a Naxalite attack in the Indian state of Maharashtra. ](/news/2014/05/11/naxalite-maoist-insurgency-seven-police-commandos-are-killed-in-a-naxalite-attack-in-the-indian-state-of-maharashtra.md) _2017-08-27 03:40:41 (First version)_
+1. [Naxalite-Maoist insurgency: Seven police commandos are killed in a Naxalite attack in the Indian state of Maharashtra. ](/news/2014/05/11/naxalite-maoist-insurgency-seven-police-commandos-are-killed-in-a-naxalite-attack-in-the-indian-state-of-maharashtra.md) _2018-02-06 13:49:26 (First version)_
 1. [Seven police commandos are killed in a Naxalite attack in the Indian state of Maharashtra. ](/news/2014/05/11/seven-police-commandos-are-killed-in-a-naxalite-attack-in-the-indian-state-of-maharashtra.md) _(Current version)_
 
 ### Related:

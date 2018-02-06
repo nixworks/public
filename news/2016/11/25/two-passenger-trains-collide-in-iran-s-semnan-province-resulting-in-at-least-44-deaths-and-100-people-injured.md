@@ -18,7 +18,7 @@ Forty-four people were killed and 103 injured when one Iranian passenger train c
 
 ### Changes:
 
-1. [Semnan-Damghan train collision: Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. ](/news/2016/11/25/semnan-damghan-train-collision-two-passenger-trains-collide-in-iran-s-semnan-province-resulting-in-at-least-44-deaths-and-100-people-inju.md) _2017-08-27 03:47:18 (First version)_
+1. [Semnan-Damghan train collision: Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. ](/news/2016/11/25/semnan-damghan-train-collision-two-passenger-trains-collide-in-iran-s-semnan-province-resulting-in-at-least-44-deaths-and-100-people-inju.md) _2018-02-06 13:49:29 (First version)_
 1. [Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. ](/news/2016/11/25/two-passenger-trains-collide-in-iran-s-semnan-province-resulting-in-at-least-44-deaths-and-100-people-injured.md) _(Current version)_
 
 ### Related:

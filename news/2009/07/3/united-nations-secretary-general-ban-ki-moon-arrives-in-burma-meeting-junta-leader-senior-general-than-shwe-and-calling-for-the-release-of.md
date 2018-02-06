@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arr
 
 ### Changes:
 
-1. [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-o.md) _2017-08-25 03:25:02 (First version)_
+1. [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-o.md) _2018-02-06 13:49:19 (First version)_
 1. [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-of.md) _(Current version)_
 
 ### Related:

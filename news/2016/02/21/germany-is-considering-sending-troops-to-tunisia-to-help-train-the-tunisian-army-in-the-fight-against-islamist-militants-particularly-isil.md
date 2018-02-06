@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisi
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/insurgency-in-the-maghreb-2002-present-germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-ag.md) _2017-08-27 03:44:58 (First version)_
+1. [Insurgency in the Maghreb (2002-present): Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/insurgency-in-the-maghreb-2002-present-germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-ag.md) _2018-02-06 13:49:28 (First version)_
 1. [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md) _(Current version)_
 
 ### Related:

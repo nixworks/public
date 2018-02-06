@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/14/astrophysics-a-an-asteroid-2002-mn-the-size-of-
 
 ### Changes:
 
-1. [ Astrophysics - An asteroid (2002 MN), the size of a soccer field, barely misses hitting the Earth. It was the second closest asteroid approach to Earth in recorded history. The asteroid was first observed three days after its close approach, on June 17, 2002.](/news/2002/06/14/astrophysics-an-asteroid-2002-mn-the-size-of-a-soccer-field-barely-misses-hitting-the-earth-it-was-the-second-closest-asteroid-app.md) _2017-08-27 03:15:13 (First version)_
+1. [ Astrophysics - An asteroid (2002 MN), the size of a soccer field, barely misses hitting the Earth. It was the second closest asteroid approach to Earth in recorded history. The asteroid was first observed three days after its close approach, on June 17, 2002.](/news/2002/06/14/astrophysics-an-asteroid-2002-mn-the-size-of-a-soccer-field-barely-misses-hitting-the-earth-it-was-the-second-closest-asteroid-app.md) _2018-02-06 13:49:15 (First version)_
 1. [ Astrophysics - An asteroid (2002 MN), the size of a soccer field, barely misses hitting the Earth. It was the second closest asteroid approach to Earth in recorded history. The asteroid was first observed three days after its close approach, on June 17, 2002.](/news/2002/06/14/astrophysics-a-an-asteroid-2002-mn-the-size-of-a-soccer-field-barely-misses-hitting-the-earth-it-was-the-second-closest-asteroid-app.md) _(Current version)_
 
 ### Related:

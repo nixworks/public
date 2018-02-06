@@ -17,7 +17,7 @@ The Philippines has put off signing an agreement to join the China-led Asian Inf
 
 ### Changes:
 
-1. [Asian Infrastructure Investment Bank: Seven out of 57 countries defer joining the China-dominated bank. While most of them cite temporary procedural constraints at home, political reasons are involved with the case of the Philippines amid a territorial dispute with China in South China Sea. ](/news/2015/06/30/asian-infrastructure-investment-bank-seven-out-of-57-countries-defer-joining-the-china-dominated-bank-while-most-of-them-cite-temporary-pr.md) _2017-08-27 03:42:37 (First version)_
+1. [Asian Infrastructure Investment Bank: Seven out of 57 countries defer joining the China-dominated bank. While most of them cite temporary procedural constraints at home, political reasons are involved with the case of the Philippines amid a territorial dispute with China in South China Sea. ](/news/2015/06/30/asian-infrastructure-investment-bank-seven-out-of-57-countries-defer-joining-the-china-dominated-bank-while-most-of-them-cite-temporary-pr.md) _2018-02-06 13:49:27 (First version)_
 1. [Seven out of 57 countries defer joining the China-dominated bank. While most of them cite temporary procedural constraints at home, political reasons are involved with the case of the Philippines amid a territorial dispute with China in South China Sea. ](/news/2015/06/30/seven-out-of-57-countries-defer-joining-the-china-dominated-bank-while-most-of-them-cite-temporary-procedural-constraints-at-home-politica.md) _(Current version)_
 
 ### Related:

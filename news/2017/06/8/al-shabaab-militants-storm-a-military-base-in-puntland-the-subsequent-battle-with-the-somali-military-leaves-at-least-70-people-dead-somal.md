@@ -15,7 +15,7 @@ Gun battle in military base in Somalia&#39;s semi-autonomous Puntland region kil
 
 ### Changes:
 
-1. [War in Somalia: Al-Shabaab militants storm a military base in Puntland. The subsequent battle with the Somali military leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. ](/news/2017/06/8/war-in-somalia-al-shabaab-militants-storm-a-military-base-in-puntland-the-subsequent-battle-with-the-somali-military-leaves-at-least-70-pe.md) _2017-08-27 03:48:27 (First version)_
+1. [War in Somalia: Al-Shabaab militants storm a military base in Puntland. The subsequent battle with the Somali military leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. ](/news/2017/06/8/war-in-somalia-al-shabaab-militants-storm-a-military-base-in-puntland-the-subsequent-battle-with-the-somali-military-leaves-at-least-70-pe.md) _2018-02-06 13:49:30 (First version)_
 1. [Al-Shabaab militants storm a military base in Puntland. The subsequent battle with the Somali military leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. ](/news/2017/06/8/al-shabaab-militants-storm-a-military-base-in-puntland-the-subsequent-battle-with-the-somali-military-leaves-at-least-70-people-dead-somal.md) _(Current version)_
 
 ### Related:

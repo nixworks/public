@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/21/the-government-of-el-salvador-unveils-and-deplo
 
 ### Changes:
 
-1. [Crime in El Salvador: The government of El Salvador unveils and deploys a new heavily armed special forces unit to fight criminal gangs in rural areas of the country. Officials say it will target gang leaders who left the cities because of a government crackdown. ](/news/2016/04/21/crime-in-el-salvador-the-government-of-el-salvador-unveils-and-deploys-a-new-heavily-armed-special-forces-unit-to-fight-criminal-gangs-in-r.md) _2017-08-27 03:45:43 (First version)_
+1. [Crime in El Salvador: The government of El Salvador unveils and deploys a new heavily armed special forces unit to fight criminal gangs in rural areas of the country. Officials say it will target gang leaders who left the cities because of a government crackdown. ](/news/2016/04/21/crime-in-el-salvador-the-government-of-el-salvador-unveils-and-deploys-a-new-heavily-armed-special-forces-unit-to-fight-criminal-gangs-in-r.md) _2018-02-06 13:49:28 (First version)_
 1. [The government of El Salvador unveils and deploys a new heavily armed special forces unit to fight criminal gangs in rural areas of the country. Officials say it will target gang leaders who left the cities because of a government crackdown. ](/news/2016/04/21/the-government-of-el-salvador-unveils-and-deploys-a-new-heavily-armed-special-forces-unit-to-fight-criminal-gangs-in-rural-areas-of-the-coun.md) _(Current version)_
 
 ### Related:

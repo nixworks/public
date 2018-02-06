@@ -16,9 +16,9 @@ Formats: [HTML](/news/2006/12/24/ethiopia-has-confirmed-that-its-troops-have-inv
 
 ### Changes:
 
-1. [ Ethiopian intervention in Somalia: Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopian-intervention-in-somalia-p-ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-m.md) _2017-05-25 03:19:15 (First version)_
-2. [ Ethiopian intervention in Somalia: Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopian-intervention-in-somalia-p-ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-mu.md) _2017-08-25 03:18:56 (Update)_
-3. [ Ethiopian intervention in Somalia:: Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopian-intervention-in-somalia-ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-mu.md) _2017-08-27 03:18:52 (Update)_
+1. [ Ethiopian intervention in Somalia: Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopian-intervention-in-somalia-p-ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-mu.md) _2018-02-06 13:49:17 (First version)_
+2. [ Ethiopian intervention in Somalia: Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopian-intervention-in-somalia-p-ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-m.md) _2018-02-06 13:49:17 (Update)_
+3. [ Ethiopian intervention in Somalia:: Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopian-intervention-in-somalia-ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-mu.md) _2018-02-06 13:49:17 (Update)_
 3. [ Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-much-of-somalia.md) _(Current version)_
 
 ### Related:

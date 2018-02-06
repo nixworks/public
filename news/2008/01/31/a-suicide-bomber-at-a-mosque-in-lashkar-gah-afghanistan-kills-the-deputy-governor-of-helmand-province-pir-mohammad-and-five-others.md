@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/01/31/a-suicide-bomber-at-a-mosque-in-lashkar-gah-afg
 
 ### Changes:
 
-1. [ War in Afghanistan: A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/war-in-afghanistan-p-a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad.md) _2017-08-25 03:21:43 (First version)_
-2. [ War in Afghanistan:: A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/war-in-afghanistan-a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad.md) _2017-08-27 03:21:37 (Update)_
+1. [ War in Afghanistan: A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/war-in-afghanistan-p-a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Afghanistan:: A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/war-in-afghanistan-a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad.md) _2018-02-06 13:49:18 (Update)_
 2. [ A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad-and-five-others.md) _(Current version)_
 
 ### Related:

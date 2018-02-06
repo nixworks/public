@@ -17,7 +17,7 @@ North Korea has fired several missiles into the sea, says South Korea.
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/north-korea-and-weapons-of-mass-destruction-south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launchi.md) _2017-08-27 03:47:57 (First version)_
+1. [North Korea and weapons of mass destruction: South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/north-korea-and-weapons-of-mass-destruction-south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launchi.md) _2018-02-06 13:49:30 (First version)_
 1. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _(Current version)_
 
 ### Related:

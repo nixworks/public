@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/02/3/2010a2011-algerian-protests-president-abdelaziz-
 
 ### Changes:
 
-1. [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010-2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md) _2017-08-27 03:32:10 (First version)_
+1. [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010-2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md) _2018-02-06 13:49:22 (First version)_
 1. [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010a2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md) _(Current version)_
 
 ### Related:

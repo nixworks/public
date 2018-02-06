@@ -19,8 +19,8 @@ Beijing, Feb 20 (IANS) Hundreds of people gathered Sunday in Chinas major cities
 
 ### Changes:
 
-1. [Protests in other parts of the world:2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-p2011-chinese-protests-ppolice-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine.md) _2017-08-25 03:32:17 (First version)_
-2. [Protests in other parts of the world:: 2011 Chinese protests:: Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmin.md) _2017-08-27 03:32:25 (Update)_
+1. [Protests in other parts of the world:2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-p2011-chinese-protests-ppolice-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine.md) _2018-02-06 13:49:22 (First version)_
+2. [Protests in other parts of the world:: 2011 Chinese protests:: Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmin.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.md) _(Current version)_
 
 ### Related:

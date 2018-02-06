@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-trom
 
 ### Changes:
 
-1. [ A meteorite impact event occurs in northern Troms County, Norway. Locals compare the resultant explosion to the nuclear explosion at Hiroshima. The impact location was apparently desolate, and no structural damage or casualties are reported. ](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-troms-county-norway-locals-compare-the-resultant-explosion-to-the-nuclear-explosion-at-hiros.md) _2017-08-25 03:17:44 (First version)_
+1. [ A meteorite impact event occurs in northern Troms County, Norway. Locals compare the resultant explosion to the nuclear explosion at Hiroshima. The impact location was apparently desolate, and no structural damage or casualties are reported. ](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-troms-county-norway-locals-compare-the-resultant-explosion-to-the-nuclear-explosion-at-hiros.md) _2018-02-06 13:49:17 (First version)_
 1. [ A meteorite impact event occurs in northern Troms County, Norway. Locals compare the resultant explosion to the nuclear explosion at Hiroshima. The impact location was apparently desolate, and no structural damage or casualties are reported. ](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-troms-county-norway-locals-compare-the-resultant-explosion-to-the-nuclear-explosion-at-hirosh.md) _(Current version)_
 
 ### Related:

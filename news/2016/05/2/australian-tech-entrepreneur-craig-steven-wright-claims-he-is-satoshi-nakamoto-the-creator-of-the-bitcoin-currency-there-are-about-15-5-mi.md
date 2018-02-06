@@ -19,7 +19,7 @@ Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin 
 
 ### Changes:
 
-1. [Australian tech entrepreneur Craig Steven Wright claims he is Satoshi Nakamoto, the creator of the Bitcoin currency. There are about 15.5 million bitcoins in circulation. However, questions have been raised as to authenticity of his assertion. ](/news/2016/05/2/australian-tech-entrepreneur-craig-steven-wright-claims-he-is-satoshi-nakamoto-the-creator-of-the-bitcoin-currency-there-are-about-15-5-m.md) _2017-08-25 03:45:35 (First version)_
+1. [Australian tech entrepreneur Craig Steven Wright claims he is Satoshi Nakamoto, the creator of the Bitcoin currency. There are about 15.5 million bitcoins in circulation. However, questions have been raised as to authenticity of his assertion. ](/news/2016/05/2/australian-tech-entrepreneur-craig-steven-wright-claims-he-is-satoshi-nakamoto-the-creator-of-the-bitcoin-currency-there-are-about-15-5-m.md) _2018-02-06 13:49:29 (First version)_
 1. [Australian tech entrepreneur Craig Steven Wright claims he is Satoshi Nakamoto, the creator of the Bitcoin currency. There are about 15.5 million bitcoins in circulation. However, questions have been raised as to authenticity of his assertion. ](/news/2016/05/2/australian-tech-entrepreneur-craig-steven-wright-claims-he-is-satoshi-nakamoto-the-creator-of-the-bitcoin-currency-there-are-about-15-5-mi.md) _(Current version)_
 
 ### Related:

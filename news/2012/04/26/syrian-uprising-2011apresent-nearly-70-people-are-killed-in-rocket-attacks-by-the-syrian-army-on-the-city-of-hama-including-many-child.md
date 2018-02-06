@@ -16,7 +16,7 @@ Up to 69 people, many of them children, reported to have died in rocket attack o
 
 ### Changes:
 
-1. [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011-present-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md) _2017-08-27 03:35:44 (First version)_
+1. [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011-present-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md) _2018-02-06 13:49:23 (First version)_
 1. [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011apresent-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Behind the scenes at the Commonwealth Heads of Government Meeting in Perth there
 
 ### Changes:
 
-1. [Commonwealth Heads of Government Meeting 2011:The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-pthe-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-of.md) _2017-08-25 03:34:23 (First version)_
-2. [Commonwealth Heads of Government Meeting 2011:: The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-o.md) _2017-08-27 03:34:33 (Update)_
+1. [Commonwealth Heads of Government Meeting 2011:: The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-o.md) _2018-02-06 13:49:23 (First version)_
+2. [Commonwealth Heads of Government Meeting 2011:The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-pthe-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-of.md) _2018-02-06 13:49:23 (Update)_
 2. [The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-of-perth.md) _(Current version)_
 
 ### Related:

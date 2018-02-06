@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/29/data-from-one-of-the-flight-recorders-from-egyp
 
 ### Changes:
 
-1. [EgyptAir Flight 804: Data from one of the flight recorders from EgyptAir Flight 804 shows that there was smoke on board when the Airbus A320 crashed into the water. Soot has also been found on the wreckage. ](/news/2016/06/29/egyptair-flight-804-data-from-one-of-the-flight-recorders-from-egyptair-flight-804-shows-that-there-was-smoke-on-board-when-the-airbus-a320.md) _2017-08-27 03:46:22 (First version)_
+1. [EgyptAir Flight 804: Data from one of the flight recorders from EgyptAir Flight 804 shows that there was smoke on board when the Airbus A320 crashed into the water. Soot has also been found on the wreckage. ](/news/2016/06/29/egyptair-flight-804-data-from-one-of-the-flight-recorders-from-egyptair-flight-804-shows-that-there-was-smoke-on-board-when-the-airbus-a320.md) _2018-02-06 13:49:29 (First version)_
 1. [Data from one of the flight recorders from EgyptAir Flight 804 shows that there was smoke on board when the Airbus A320 crashed into the water. Soot has also been found on the wreckage. ](/news/2016/06/29/data-from-one-of-the-flight-recorders-from-egyptair-flight-804-shows-that-there-was-smoke-on-board-when-the-airbus-a320-crashed-into-the-wat.md) _(Current version)_
 
 ### Related:

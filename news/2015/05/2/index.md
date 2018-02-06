@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/2/index.html)  [JSON](2015/05/2/index.json)  [XML](2015/
 
 ##### 2015 West African offensive
 ### [2015 West African offensive: The Nigerian Armed Forces announce they rescued another 234 women and girls from Boko Haram control in the Sambisa Forest on April 30. ](/news/2015/05/2/2015-west-african-offensive-the-nigerian-armed-forces-announce-they-rescued-another-234-women-and-girls-from-boko-haram-control-in-the-samb.md)
-_Context: Boko Haram, Sambisa Forest, 2015 West African offensive, Nigerian Armed Forces_
+_Context: 2015 West African offensive, Sambisa Forest, Nigerian Armed Forces, Boko Haram_
 
 ##### Burundi
 ### [Two policemen and a civilian are killed and three others injured after a grenade attack in Burundi's capital Bujumbura. The attack takes place a day after a similar incident injured three officers, and comes in the midst of intensifying protests against current president Pierre Nkurunziza. ](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.md)

@@ -18,7 +18,7 @@ Goshen &#8212; Minutes before Chilean special forces were to swarm government an
 
 ### Changes:
 
-1. [Easter Island: Community leaders in Easter Island threaten to secede from Chile, prompting the resignation of Governor Pedro Edmunds Paoa. ](/news/2010/08/16/easter-island-community-leaders-in-easter-island-threaten-to-secede-from-chile-prompting-the-resignation-of-governor-pedro-edmunds-paoa.md) _2017-08-27 03:29:31 (First version)_
+1. [Easter Island: Community leaders in Easter Island threaten to secede from Chile, prompting the resignation of Governor Pedro Edmunds Paoa. ](/news/2010/08/16/easter-island-community-leaders-in-easter-island-threaten-to-secede-from-chile-prompting-the-resignation-of-governor-pedro-edmunds-paoa.md) _2018-02-06 13:49:20 (First version)_
 1. [Community leaders in Easter Island threaten to secede from Chile, prompting the resignation of Governor Pedro Edmunds Paoa. ](/news/2010/08/16/community-leaders-in-easter-island-threaten-to-secede-from-chile-prompting-the-resignation-of-governor-pedro-edmunds-paoa.md) _(Current version)_
 
 ### Related:

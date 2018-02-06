@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/20/syrian-refugees-fleeing-the-violence-from-the-s
 
 ### Changes:
 
-1. [Syrian civil war:Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-psyrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-th.md) _2017-08-25 03:37:18 (First version)_
-2. [Syrian civil war:: Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-syrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-t.md) _2017-08-27 03:37:28 (Update)_
+1. [Syrian civil war:: Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-syrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-t.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-psyrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-th.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-the-jordanian-border.md) _(Current version)_
 
 ### Related:

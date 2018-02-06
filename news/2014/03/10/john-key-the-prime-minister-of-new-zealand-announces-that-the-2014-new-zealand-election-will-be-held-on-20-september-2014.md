@@ -16,8 +16,8 @@ New Zealand will go to the polls on September 20. - New Zealand Herald
 
 ### Changes:
 
-1. [New Zealand general election, 2014:John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/new-zealand-general-election-2014-pjohn-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held-o.md) _2017-08-25 03:40:08 (First version)_
-2. [New Zealand general election, 2014:: John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/new-zealand-general-election-2014-john-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held.md) _2017-08-27 03:40:26 (Update)_
+1. [New Zealand general election, 2014:John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/new-zealand-general-election-2014-pjohn-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held-o.md) _2018-02-06 13:49:25 (First version)_
+2. [New Zealand general election, 2014:: John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/new-zealand-general-election-2014-john-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held.md) _2018-02-06 13:49:25 (Update)_
 2. [John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/john-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held-on-20-september-2014.md) _(Current version)_
 
 ### Related:

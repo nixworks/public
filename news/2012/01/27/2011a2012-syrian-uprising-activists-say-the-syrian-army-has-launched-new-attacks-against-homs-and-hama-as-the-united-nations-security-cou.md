@@ -19,8 +19,8 @@ Amnesty International has called for an investigation into what it says is the m
 
 ### Changes:
 
-1. [Arab Spring:2011-2012 Syrian uprising:Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/arab-spring-p2011a2012-syrian-uprising-pactivists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nation.md) _2017-08-25 03:34:54 (First version)_
-2. [Arab Spring:: 2011-2012 Syrian uprising:: Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/arab-spring-2011-2012-syrian-uprising-activists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nati.md) _2017-08-27 03:35:04 (Update)_
+1. [Arab Spring:2011-2012 Syrian uprising:Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/arab-spring-p2011a2012-syrian-uprising-pactivists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nation.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: 2011-2012 Syrian uprising:: Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/arab-spring-2011-2012-syrian-uprising-activists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nati.md) _2018-02-06 13:49:23 (Update)_
 2. [2011-2012 Syrian uprising:Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/2011a2012-syrian-uprising-activists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nations-security-cou.md) _(Current version)_
 
 ### Related:

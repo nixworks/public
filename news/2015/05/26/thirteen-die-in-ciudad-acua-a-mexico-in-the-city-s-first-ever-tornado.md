@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-cit
 
 ### Changes:
 
-1. [Tornadoes of 2015: Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/tornadoes-of-2015-thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md) _2017-08-27 03:42:24 (First version)_
+1. [Tornadoes of 2015: Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/tornadoes-of-2015-thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md) _2018-02-06 13:49:27 (First version)_
 1. [Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Deutsche Bank settled a long-running investigation into the manipulation of inte
 
 ### Changes:
 
-1. [Libor scandal: Deutsche Bank pays $2.5 billion to settle an investigation by the United States and the United Kingdom related to manipulation of the Libor or London Interbank Offered Rate. It will also plead guilty in a US court case. ](/news/2015/04/23/libor-scandal-deutsche-bank-pays-2-5-billion-to-settle-an-investigation-by-the-united-states-and-the-united-kingdom-related-to-manipulatio.md) _2017-08-27 03:42:14 (First version)_
+1. [Libor scandal: Deutsche Bank pays $2.5 billion to settle an investigation by the United States and the United Kingdom related to manipulation of the Libor or London Interbank Offered Rate. It will also plead guilty in a US court case. ](/news/2015/04/23/libor-scandal-deutsche-bank-pays-2-5-billion-to-settle-an-investigation-by-the-united-states-and-the-united-kingdom-related-to-manipulatio.md) _2018-02-06 13:49:27 (First version)_
 1. [Deutsche Bank pays $2.5 billion to settle an investigation by the United States and the United Kingdom related to manipulation of the Libor or London Interbank Offered Rate. It will also plead guilty in a US court case. ](/news/2015/04/23/deutsche-bank-pays-2-5-billion-to-settle-an-investigation-by-the-united-states-and-the-united-kingdom-related-to-manipulation-of-the-libor.md) _(Current version)_
 
 ### Related:

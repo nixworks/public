@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/03/14/the-syrian-army-captures-the-former-rebel-held-
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-pthe-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _2017-08-25 03:35:17 (First version)_
-2. [2011-2012 Syrian uprising:: The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _2017-08-27 03:35:26 (Update)_
+1. [2011-2012 Syrian uprising:: The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-pthe-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md) _(Current version)_
 
 ### Related:

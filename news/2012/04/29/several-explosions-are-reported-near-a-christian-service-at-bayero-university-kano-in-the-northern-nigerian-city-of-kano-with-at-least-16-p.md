@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/04/29/several-explosions-are-reported-near-a-christia
 
 ### Changes:
 
-1. [African church attacks:Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-pseveral-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md) _2017-08-25 03:35:35 (First version)_
-2. [African church attacks:: Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md) _2017-08-27 03:35:45 (Update)_
+1. [African church attacks:: Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md) _2018-02-06 13:49:23 (First version)_
+2. [African church attacks:Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-pseveral-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md) _2018-02-06 13:49:23 (Update)_
 2. [Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of-kano-with-at-least-16-p.md) _(Current version)_
 
 ### Related:

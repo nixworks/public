@@ -19,7 +19,7 @@ San Bernardino shooters Syed Farook and Tashfeen Malik first met in person and b
 
 ### Changes:
 
-1. [2015 San Bernardino attack investigation: A $28,500 deposit was made to Syed Farook-s bank account two weeks before he and his wife, Tashfeen Malik, carried out the San Bernardino massacre, a source close to the investigation says. Investigators are exploring whether the transaction was a personal loan or something else. ](/news/2015/12/8/2015-san-bernardino-attack-investigation-a-28-500-deposit-was-made-to-syed-farook-s-bank-account-two-weeks-before-he-and-his-wife-tashf.md) _2017-08-27 03:44:16 (First version)_
+1. [2015 San Bernardino attack investigation: A $28,500 deposit was made to Syed Farook-s bank account two weeks before he and his wife, Tashfeen Malik, carried out the San Bernardino massacre, a source close to the investigation says. Investigators are exploring whether the transaction was a personal loan or something else. ](/news/2015/12/8/2015-san-bernardino-attack-investigation-a-28-500-deposit-was-made-to-syed-farook-s-bank-account-two-weeks-before-he-and-his-wife-tashf.md) _2018-02-06 13:49:28 (First version)_
 1. [A $28,500 deposit was made to Syed Farook's bank account two weeks before he and his wife, Tashfeen Malik, carried out the San Bernardino massacre, a source close to the investigation says. Investigators are exploring whether the transaction was a personal loan or something else. ](/news/2015/12/8/a-28-500-deposit-was-made-to-syed-farookas-bank-account-two-weeks-before-he-and-his-wife-tashfeen-malik-carried-out-the-san-bernardino.md) _(Current version)_
 
 ### Related:

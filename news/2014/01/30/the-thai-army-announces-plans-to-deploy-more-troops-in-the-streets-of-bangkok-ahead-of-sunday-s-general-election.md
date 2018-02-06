@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/30/the-thai-army-announces-plans-to-deploy-more-tr
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/2013a14-thai-political-crisis-pthe-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-ele.md) _2017-08-25 03:39:56 (First version)_
-2. [2013-14 Thai political crisis:: The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/2013-14-thai-political-crisis-the-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-el.md) _2017-08-27 03:40:15 (Update)_
+1. [2013-14 Thai political crisis:The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/2013a14-thai-political-crisis-pthe-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-ele.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/2013-14-thai-political-crisis-the-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-el.md) _2018-02-06 13:49:25 (Update)_
 2. [The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/the-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-election.md) _(Current version)_
 
 ### Related:

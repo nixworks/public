@@ -9,7 +9,7 @@ In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act am
 
 ##### Bea Rose Santiago
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
-_Context: Miss International 2013, Bea Rose Santiago, Philippines_
+_Context: Bea Rose Santiago, Miss International 2013, Philippines_
 
 ##### Jamaica
 ### [Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition "The Voice". ](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.md)
@@ -19,7 +19,7 @@ It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won 
 ### [Target refuses to sell the album "Beyonce" after it was flash released by the artist. ](/news/2013/12/17/target-refuses-to-sell-the-album-beyonca-c-after-it-was-flash-released-by-the-artist.md)
 _Context: Beyonce, Target_
 
-##### Turkish
+##### Turkey
 ### [Several prominent Turkish businessmen and the sons of three cabinet ministers are arrested as part of an investigation into alleged bribery and corruption. ](/news/2013/12/17/several-prominent-turkish-businessmen-and-the-sons-of-three-cabinet-ministers-are-arrested-as-part-of-an-investigation-into-alleged-bribery.md)
 Turkish police arrest the sons of three cabinet ministers as part of an investigation into alleged bribery relating to public tenders.
 
@@ -37,7 +37,7 @@ Michaella McCollum Connolly and Melissa Reid are sentenced to prison after admit
 
 ##### Renown Regional Medical Center
 ### [A gunman is dead after shooting and killing one person and wounding two others at the Renown Regional Medical Center in Reno, Nevada, United States. ](/news/2013/12/17/a-gunman-is-dead-after-shooting-and-killing-one-person-and-wounding-two-others-at-the-renown-regional-medical-center-in-reno-nevada-united.md)
-_Context: Nevada, Renown Regional Medical Center, Reno, Nevada_
+_Context: Renown Regional Medical Center, Reno, Nevada, Nevada_
 
 ##### British
 ### [British singer Harry Styles, with the boy band One Direction, wins a limited ban on stalking in a London court case against paparazzi regarding the privacy rights of celebrities. ](/news/2013/12/17/british-singer-harry-styles-with-the-boy-band-one-direction-wins-a-limited-ban-on-stalking-in-a-london-court-case-against-paparazzi-regard.md)
@@ -65,11 +65,11 @@ Ukrainian President Viktor Yanukovych is seeking as much as $15 billion in loans
 
 ##### Angela Merkel
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)
-_Context: Angela Merkel, Chancellor_
+_Context: Chancellor, Angela Merkel_
 
 ##### Japan
 ### [Japan intends to increase spending for the Japan Self-Defense Forces and transform it into a modern military. ](/news/2013/12/17/japan-intends-to-increase-spending-for-the-japan-self-defense-forces-and-transform-it-into-a-modern-military.md)
-_Context: Japan, military_
+_Context: military, Japan_
 
 ##### Sa Pa
 ### [Snow falls in Sa Pa, Vietnam. ](/news/2013/12/17/snow-falls-in-sa-pa-vietnam.md)

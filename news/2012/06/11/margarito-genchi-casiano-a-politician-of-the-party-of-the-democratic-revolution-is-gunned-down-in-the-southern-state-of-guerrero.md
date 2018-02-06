@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/06/11/margarito-genchi-casiano-a-politician-of-the-pa
 
 ### Changes:
 
-1. [Mexican Drug War:Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-pmargarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md) _2017-08-25 03:35:51 (First version)_
-2. [Mexican Drug War:: Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-margarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md) _2017-08-27 03:36:02 (Update)_
+1. [Mexican Drug War:Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-pmargarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-margarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md) _2018-02-06 13:49:23 (Update)_
 2. [Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/margarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of-guerrero.md) _(Current version)_
 
 ### Related:

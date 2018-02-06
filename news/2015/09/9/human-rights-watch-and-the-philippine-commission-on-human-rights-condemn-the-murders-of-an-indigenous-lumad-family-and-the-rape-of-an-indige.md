@@ -18,7 +18,7 @@ A dispatch from an international human rights organization criticized on Wednesd
 
 ### Changes:
 
-1. [Human Rights Watch and the Philippine Commission on Human Rights condemn the murders of an indigenous Lumad family and the rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army under the guise of fighting a communist rebellion. ](/news/2015/09/9/human-rights-watch-and-the-philippine-commission-on-human-rights-condemn-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indig.md) _2017-08-25 03:42:43 (First version)_
+1. [Human Rights Watch and the Philippine Commission on Human Rights condemn the murders of an indigenous Lumad family and the rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army under the guise of fighting a communist rebellion. ](/news/2015/09/9/human-rights-watch-and-the-philippine-commission-on-human-rights-condemn-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indig.md) _2018-02-06 13:49:27 (First version)_
 1. [Human Rights Watch and the Philippine Commission on Human Rights condemn the murders of an indigenous Lumad family and the rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army under the guise of fighting a communist rebellion. ](/news/2015/09/9/human-rights-watch-and-the-philippine-commission-on-human-rights-condemn-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indige.md) _(Current version)_
 
 ### Related:

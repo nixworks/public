@@ -18,7 +18,7 @@ Saenuri Party Chairman Kim Moo Sung is resigning as its chairman, following a su
 
 ### Changes:
 
-1. [South Korean legislative election, 2016: Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. ](/news/2016/04/13/south-korean-legislative-election-2016-voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-ruling-saenuri-party-losi.md) _2017-08-27 03:45:36 (First version)_
+1. [South Korean legislative election, 2016: Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. ](/news/2016/04/13/south-korean-legislative-election-2016-voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-ruling-saenuri-party-losi.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. ](/news/2016/04/13/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-ruling-saenuri-party-losing-seats-in-a-surprise-setback.md) _(Current version)_
 
 ### Related:

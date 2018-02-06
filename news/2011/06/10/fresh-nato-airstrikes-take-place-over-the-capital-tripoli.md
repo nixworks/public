@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capit
 
 ### Changes:
 
-1. [2011 Libyan civil war:Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-pfresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _2017-08-25 03:33:26 (First version)_
-2. [2011 Libyan civil war:: Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _2017-08-27 03:33:35 (Update)_
+1. [2011 Libyan civil war:Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-pfresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _2018-02-06 13:49:22 (Update)_
 2. [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md) _(Current version)_
 
 ### Related:

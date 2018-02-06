@@ -19,7 +19,7 @@ AN AUSTRALIAN was among the 64 people, including high school students, forced to
 
 ### Changes:
 
-1. [The Canadian three-masted ship SV ''Concordia'' capsizes in a storm off the coast of Brazil. The entire crew, 64 people, are rescued after spending 48 hours on life rafts in rough seas. ](/news/2010/02/20/the-canadian-three-masted-ship-sv-concordia-capsizes-in-a-storm-off-the-coast-of-brazil-the-entire-crew-64-people-are-rescued-after-s.md) _2017-08-25 03:27:12 (First version)_
+1. [The Canadian three-masted ship SV ''Concordia'' capsizes in a storm off the coast of Brazil. The entire crew, 64 people, are rescued after spending 48 hours on life rafts in rough seas. ](/news/2010/02/20/the-canadian-three-masted-ship-sv-concordia-capsizes-in-a-storm-off-the-coast-of-brazil-the-entire-crew-64-people-are-rescued-after-s.md) _2018-02-06 13:49:19 (First version)_
 1. [The Canadian three-masted ship SV "Concordia" capsizes in a storm off the coast of Brazil. The entire crew, 64 people, are rescued after spending 48 hours on life rafts in rough seas. ](/news/2010/02/20/the-canadian-three-masted-ship-sv-concordia-capsizes-in-a-storm-off-the-coast-of-brazil-the-entire-crew-64-people-are-rescued-after-spe.md) _(Current version)_
 
 ### Related:

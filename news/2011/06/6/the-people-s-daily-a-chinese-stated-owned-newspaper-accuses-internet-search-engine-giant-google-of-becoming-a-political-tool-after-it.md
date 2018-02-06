@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspa
 
 ### Changes:
 
-1. [The ''People's Daily'', a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-i.md) _2017-08-25 03:33:23 (First version)_
+1. [The ''People's Daily'', a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-i.md) _2018-02-06 13:49:22 (First version)_
 1. [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md) _(Current version)_
 
 ### Related:

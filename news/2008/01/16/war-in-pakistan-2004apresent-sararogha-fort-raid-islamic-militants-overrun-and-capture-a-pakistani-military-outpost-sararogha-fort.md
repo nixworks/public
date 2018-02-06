@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-rai
 
 ### Changes:
 
-1. [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004-present-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md) _2017-08-27 03:21:34 (First version)_
+1. [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004-present-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md) _2018-02-06 13:49:18 (First version)_
 1. [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md) _(Current version)_
 
 ### Related:

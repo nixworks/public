@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/11/10/john-allen-muhammad-mastermind-of-the-2002-belt
 
 ### Changes:
 
-1. [ John Allen Muhammad, mastermind of the 2002 Beltway sniper attacks, is executed in Virginia. ](/news/2009/11/10/john-allen-muhammad-mastermind-of-the-2002-beltway-sniper-attacks-is-executed-in-virginia.md) _2017-08-25 03:26:18 (First version)_
+1. [ John Allen Muhammad, mastermind of the 2002 Beltway sniper attacks, is executed in Virginia. ](/news/2009/11/10/john-allen-muhammad-mastermind-of-the-2002-beltway-sniper-attacks-is-executed-in-virginia.md) _2018-02-06 13:49:19 (First version)_
 1. [ John Allen Muhammad, mastermind of the 2002 Beltway sniper attacks, is executed in Virginia. [http:--www.foxnews.com-story-0,2933,573829,00.html (AP via Fox News (US))]](/news/2009/11/10/john-allen-muhammad-mastermind-of-the-2002-beltway-sniper-attacks-is-executed-in-virginia-http-www-foxnews-com-story-0-2933-573829-00.md) _(Current version)_
 
 ### Related:

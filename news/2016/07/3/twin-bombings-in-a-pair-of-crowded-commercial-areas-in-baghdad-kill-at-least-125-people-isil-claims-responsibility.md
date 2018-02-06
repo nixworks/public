@@ -18,7 +18,7 @@ At least 125 people have been killed in two separate bomb attacks in Baghdad, Ir
 
 ### Changes:
 
-1. [Iraqi Civil War: Twin bombings in a pair of crowded commercial areas in Baghdad kill at least 125 people. ISIL claims responsibility. ](/news/2016/07/3/iraqi-civil-war-twin-bombings-in-a-pair-of-crowded-commercial-areas-in-baghdad-kill-at-least-125-people-isil-claims-responsibility.md) _2017-08-27 03:46:24 (First version)_
+1. [Iraqi Civil War: Twin bombings in a pair of crowded commercial areas in Baghdad kill at least 125 people. ISIL claims responsibility. ](/news/2016/07/3/iraqi-civil-war-twin-bombings-in-a-pair-of-crowded-commercial-areas-in-baghdad-kill-at-least-125-people-isil-claims-responsibility.md) _2018-02-06 13:49:29 (First version)_
 1. [Twin bombings in a pair of crowded commercial areas in Baghdad kill at least 125 people. ISIL claims responsibility. ](/news/2016/07/3/twin-bombings-in-a-pair-of-crowded-commercial-areas-in-baghdad-kill-at-least-125-people-isil-claims-responsibility.md) _(Current version)_
 
 ### Related:

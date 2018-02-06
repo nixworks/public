@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/07/29/the-death-toll-in-nigeria-s-worst-violence-sinc
 
 ### Changes:
 
-1. [ Nigerian battles: The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/nigerian-battles-the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md) _2017-08-27 03:25:09 (First version)_
+1. [ Nigerian battles: The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/nigerian-battles-the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md) _2018-02-06 13:49:19 (First version)_
 1. [ The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md) _(Current version)_
 
 ### Related:

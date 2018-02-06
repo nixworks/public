@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented
 
 ### Changes:
 
-1. [Sir Nicholas Winton and Denis Avey are presented with the new British Hero of the Holocaust medal by Prime Minister Gordon Brown. ](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented-with-the-new-british-hero-of-the-holocaust-medal-by-prime-minister-gordon-brown.md) _2017-08-25 03:27:19 (First version)_
+1. [Sir Nicholas Winton and Denis Avey are presented with the new British Hero of the Holocaust medal by Prime Minister Gordon Brown. ](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented-with-the-new-british-hero-of-the-holocaust-medal-by-prime-minister-gordon-brown.md) _2018-02-06 13:49:19 (First version)_
 1. [Sir Nicholas Winton and Denis Avey are presented with the new British Hero of the Holocaust medal by Prime Minister Gordon Brown. [http:--www.telegraph.co.uk-news-newstopics-britainatwar-7402443-Britons-honoured-for-holocaust-heroism.html "(Daily Telegraph)"]](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented-with-the-new-british-hero-of-the-holocaust-medal-by-prime-minister-gordon-brown-http-ww.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-lose
 
 ### Changes:
 
-1. [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimi.md) _2017-08-25 03:34:14 (First version)_
+1. [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimi.md) _2018-02-06 13:49:22 (First version)_
 1. [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimin.md) _(Current version)_
 
 ### Related:

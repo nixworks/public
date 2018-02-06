@@ -21,7 +21,7 @@ The artwork Orange, red, yellow by Mark Rothko fetches $86.9 million (£53.8m), 
 
 ##### Andy Warhol
 ### [Andy Warhol's "Double Elvis" sells at an auction for $37 million at Sotheby's in New York City. ](/news/2012/05/9/andy-warhol-s-double-elvis-sells-at-an-auction-for-37-million-at-sotheby-s-in-new-york-city.md)
-_Context: Andy Warhol, Sotheby's, New York City_
+_Context: New York City, Andy Warhol, Sotheby's_
 
 ##### Portugal
 ### [Portugal scraps four public holidays as an austerity measure. ](/news/2012/05/9/portugal-scraps-four-public-holidays-as-an-austerity-measure.md)
@@ -45,15 +45,15 @@ A new Russian Sukhoi Superjet passenger plane carrying 50 people goes missing on
 
 ##### India
 ### [India halts a plan to re-introduce cheetahs to the country by shipments from Africa. ](/news/2012/05/9/india-halts-a-plan-to-re-introduce-cheetahs-to-the-country-by-shipments-from-africa.md)
-_Context: Africa, cheetah, India_
+_Context: cheetah, Africa, India_
 
 ##### Israel
 ### [Two Palestinian prisoners held in Israel enter the 71st day of their hunger strikes. United Nations Secretary General Ban Ki-Moon expressed his concern about the condition of the hunger strikers. ](/news/2012/05/9/two-palestinian-prisoners-held-in-israel-enter-the-71st-day-of-their-hunger-strikes-united-nations-secretary-general-ban-ki-moon-expressed.md)
-_Context: United Nations, hunger strike, Israel, Ban Ki-Moon_
+_Context: Ban Ki-Moon, hunger strike, United Nations, Israel_
 
 ##### Adam Mayes
 ### [Adam Mayes, wanted by authorities on suspicion of four charges of kidnapping and two charges of first-degree murder, is spotted on store cameras in a Guntown, Mississippi store and is added to the Tennessee Bureau of Investigation's Most Wanted List. ](/news/2012/05/9/adam-mayes-wanted-by-authorities-on-suspicion-of-four-charges-of-kidnapping-and-two-charges-of-first-degree-murder-is-spotted-on-store-cam.md)
-_Context: Most Wanted List, Guntown, Mississippi, Adam Mayes, first-degree murder, kidnapping, Tennessee Bureau of Investigation_
+_Context: first-degree murder, Adam Mayes, kidnapping, Most Wanted List, Tennessee Bureau of Investigation, Guntown, Mississippi_
 
 ##### Honduras
 ### [A Honduras radio journalist is kidnapped days after another journalist is killed. ](/news/2012/05/9/a-honduras-radio-journalist-is-kidnapped-days-after-another-journalist-is-killed.md)

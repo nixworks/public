@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/6/kachin-rebels-claim-the-government-has-fired-she
 
 ### Changes:
 
-1. [Kachin conflict:Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-conflict-pkachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md) _2017-08-25 03:37:12 (First version)_
-2. [Kachin conflict:: Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-conflict-kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md) _2017-08-27 03:37:23 (Update)_
+1. [Kachin conflict:Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-conflict-pkachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md) _2018-02-06 13:49:24 (First version)_
+2. [Kachin conflict:: Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-conflict-kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md) _2018-02-06 13:49:24 (Update)_
 2. [Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Government has sold a 5.4% stake in Royal Bank of Scotland for £2.1bn, but 
 
 ### Changes:
 
-1. [The Government of the United Kingdom sells 5.4% of the Royal Bank of Scotland raising 2.1bn. ](/news/2015/08/4/the-government-of-the-united-kingdom-sells-5-4-of-the-royal-bank-of-scotland-raising-ps2-1bn.md) _2017-08-25 03:42:30 (First version)_
+1. [The Government of the United Kingdom sells 5.4% of the Royal Bank of Scotland raising 2.1bn. ](/news/2015/08/4/the-government-of-the-united-kingdom-sells-5-4-of-the-royal-bank-of-scotland-raising-ps2-1bn.md) _2018-02-06 13:49:27 (First version)_
 1. [The Government of the United Kingdom sells 5.4% of the Royal Bank of Scotland raising GBP2.1bn. ](/news/2015/08/4/the-government-of-the-united-kingdom-sells-5-4-of-the-royal-bank-of-scotland-raising-gbp2-1bn.md) _(Current version)_
 
 ### Related:

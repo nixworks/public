@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/07/7/the-philippines-house-of-representatives-seeks-t
 
 ### Changes:
 
-1. [Human rights in the Philippines; The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/human-rights-in-the-philippines-the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers.md) _2017-08-25 03:46:04 (First version)_
-2. [Human rights in the Philippines; Philippine Drug War: The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/human-rights-in-the-philippines-philippine-drug-war-the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-su.md) _2017-08-27 03:46:26 (Update)_
+1. [Human rights in the Philippines; The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/human-rights-in-the-philippines-the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers.md) _2018-02-06 13:49:29 (First version)_
+2. [Human rights in the Philippines; Philippine Drug War: The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/human-rights-in-the-philippines-philippine-drug-war-the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-su.md) _2018-02-06 13:49:29 (Update)_
 2. [The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers-in-the-country.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/02/8/somali-politicians-gather-inside-a-high-security
 
 ### Changes:
 
-1. [Somali presidential election, 2017: Somali politicians gather inside a high-security compound at Aden Adde International Airport in Mogadishu to elect a President for the country, with current president Hassan Sheikh Mohamud running for a second term. ](/news/2017/02/8/somali-presidential-election-2017-somali-politicians-gather-inside-a-high-security-compound-at-aden-adde-international-airport-in-mogadish.md) _2017-08-27 03:47:46 (First version)_
+1. [Somali presidential election, 2017: Somali politicians gather inside a high-security compound at Aden Adde International Airport in Mogadishu to elect a President for the country, with current president Hassan Sheikh Mohamud running for a second term. ](/news/2017/02/8/somali-presidential-election-2017-somali-politicians-gather-inside-a-high-security-compound-at-aden-adde-international-airport-in-mogadish.md) _2018-02-06 13:49:30 (First version)_
 1. [Somali politicians gather inside a high-security compound at Aden Adde International Airport in Mogadishu to elect a President for the country, with current president Hassan Sheikh Mohamud running for a second term. ](/news/2017/02/8/somali-politicians-gather-inside-a-high-security-compound-at-aden-adde-international-airport-in-mogadishu-to-elect-a-president-for-the-count.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ The world has finally reached &quot;the beginning of the end&quot; of the AIDS p
 
 ### Changes:
 
-1. [World AIDS Day:Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/world-aids-day-presearchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was.md) _2017-08-25 03:41:16 (First version)_
-2. [World AIDS Day:: Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/world-aids-day-researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-wa.md) _2017-08-27 03:41:34 (Update)_
+1. [World AIDS Day:: Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/world-aids-day-researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-wa.md) _2018-02-06 13:49:26 (First version)_
+2. [World AIDS Day:Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/world-aids-day-presearchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was.md) _2018-02-06 13:49:26 (Update)_
 2. [Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was-greater-than-th.md) _(Current version)_
 
 ### Related:

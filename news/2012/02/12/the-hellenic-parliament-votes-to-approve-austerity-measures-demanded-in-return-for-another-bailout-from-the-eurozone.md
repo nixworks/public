@@ -21,8 +21,8 @@ Protests grow in the Greek capital, Athens, with buildings set alight as MPs vot
 
 ### Changes:
 
-1. [Greek bailout and protests:The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-pthe-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-euro.md) _2017-08-25 03:35:02 (First version)_
-2. [Greek bailout and protests:: The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eur.md) _2017-08-27 03:35:11 (Update)_
+1. [Greek bailout and protests:: The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eur.md) _2018-02-06 13:49:23 (First version)_
+2. [Greek bailout and protests:The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-pthe-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-euro.md) _2018-02-06 13:49:23 (Update)_
 2. [The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eurozone.md) _(Current version)_
 
 ### Related:

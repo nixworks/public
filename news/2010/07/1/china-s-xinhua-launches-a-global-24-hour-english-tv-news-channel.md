@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english
 
 ### Changes:
 
-1. [China: China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md) _2017-08-27 03:28:32 (First version)_
+1. [China: China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md) _2018-02-06 13:49:20 (First version)_
 1. [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md) _(Current version)_
 
 ### Related:

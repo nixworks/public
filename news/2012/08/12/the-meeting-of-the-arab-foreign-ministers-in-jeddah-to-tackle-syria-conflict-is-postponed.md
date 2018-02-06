@@ -18,8 +18,8 @@ Foreign ministers of the Arab League postpone a meeting on the Syrian crisis, of
 
 ### Changes:
 
-1. [Syrian civil war:The meeting of the Arab Foreign ministers in Jeddah to tackle Syria conflict is postponed. ](/news/2012/08/12/syrian-civil-war-pthe-meeting-of-the-arab-foreign-ministers-in-jeddah-to-tackle-syria-conflict-is-postponed.md) _2017-08-25 03:36:15 (First version)_
-2. [Syrian civil war:: The meeting of the Arab Foreign ministers in Jeddah to tackle Syria conflict is postponed. ](/news/2012/08/12/syrian-civil-war-the-meeting-of-the-arab-foreign-ministers-in-jeddah-to-tackle-syria-conflict-is-postponed.md) _2017-08-27 03:36:26 (Update)_
+1. [Syrian civil war:: The meeting of the Arab Foreign ministers in Jeddah to tackle Syria conflict is postponed. ](/news/2012/08/12/syrian-civil-war-the-meeting-of-the-arab-foreign-ministers-in-jeddah-to-tackle-syria-conflict-is-postponed.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The meeting of the Arab Foreign ministers in Jeddah to tackle Syria conflict is postponed. ](/news/2012/08/12/syrian-civil-war-pthe-meeting-of-the-arab-foreign-ministers-in-jeddah-to-tackle-syria-conflict-is-postponed.md) _2018-02-06 13:49:23 (Update)_
 2. [The meeting of the Arab Foreign ministers in Jeddah to tackle Syria conflict is postponed. ](/news/2012/08/12/the-meeting-of-the-arab-foreign-ministers-in-jeddah-to-tackle-syria-conflict-is-postponed.md) _(Current version)_
 
 ### Related:

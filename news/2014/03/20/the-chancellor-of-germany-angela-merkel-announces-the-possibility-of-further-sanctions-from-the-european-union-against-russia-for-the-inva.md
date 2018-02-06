@@ -17,7 +17,7 @@ German Chancellor Angela Merkel says Russia will face escalating EU sanctions if
 
 ### Changes:
 
-1. [2014 Crimean crisis: The Chancellor of Germany, Angela Merkel, announces the possibility of further sanctions from the European Union against Russia for the invasion and annexation of Crimea. ](/news/2014/03/20/2014-crimean-crisis-the-chancellor-of-germany-angela-merkel-announces-the-possibility-of-further-sanctions-from-the-european-union-agains.md) _2017-08-27 03:40:29 (First version)_
+1. [2014 Crimean crisis: The Chancellor of Germany, Angela Merkel, announces the possibility of further sanctions from the European Union against Russia for the invasion and annexation of Crimea. ](/news/2014/03/20/2014-crimean-crisis-the-chancellor-of-germany-angela-merkel-announces-the-possibility-of-further-sanctions-from-the-european-union-agains.md) _2018-02-06 13:49:25 (First version)_
 1. [The Chancellor of Germany, Angela Merkel, announces the possibility of further sanctions from the European Union against Russia for the invasion and annexation of Crimea. ](/news/2014/03/20/the-chancellor-of-germany-angela-merkel-announces-the-possibility-of-further-sanctions-from-the-european-union-against-russia-for-the-inva.md) _(Current version)_
 
 ### Related:

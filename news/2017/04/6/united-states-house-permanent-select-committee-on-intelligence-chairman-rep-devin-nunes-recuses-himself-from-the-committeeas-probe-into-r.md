@@ -17,7 +17,7 @@ The House intelligence chairman Devin Nunes is now himself under scrutiny from a
 
 ### Changes:
 
-1. [United States House Permanent Select Committee on Intelligence Chairman Rep. Devin Nunes recuses himself from the committee-s probe into Russian interference in the 2016 presidential election; Rep. Mike Conaway will take the lead in this investigation. ](/news/2017/04/6/united-states-house-permanent-select-committee-on-intelligence-chairman-rep-devin-nunes-recuses-himself-from-the-committee-s-probe-into-r.md) _2017-08-27 03:48:07 (First version)_
+1. [United States House Permanent Select Committee on Intelligence Chairman Rep. Devin Nunes recuses himself from the committee-s probe into Russian interference in the 2016 presidential election; Rep. Mike Conaway will take the lead in this investigation. ](/news/2017/04/6/united-states-house-permanent-select-committee-on-intelligence-chairman-rep-devin-nunes-recuses-himself-from-the-committee-s-probe-into-r.md) _2018-02-06 13:49:30 (First version)_
 1. [United States House Permanent Select Committee on Intelligence Chairman Rep. Devin Nunes recuses himself from the committee's probe into Russian interference in the 2016 presidential election; Rep. Mike Conaway will take the lead in this investigation. ](/news/2017/04/6/united-states-house-permanent-select-committee-on-intelligence-chairman-rep-devin-nunes-recuses-himself-from-the-committeeas-probe-into-r.md) _(Current version)_
 
 ### Related:

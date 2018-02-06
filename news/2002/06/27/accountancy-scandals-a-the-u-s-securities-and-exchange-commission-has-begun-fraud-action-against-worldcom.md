@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/27/accountancy-scandals-a-the-u-s-securities-and-e
 
 ### Changes:
 
-1. [ Accountancy scandals - The U.S. Securities and Exchange Commission has begun fraud action against WorldCom.](/news/2002/06/27/accountancy-scandals-the-u-s-securities-and-exchange-commission-has-begun-fraud-action-against-worldcom.md) _2017-08-27 03:15:13 (First version)_
+1. [ Accountancy scandals - The U.S. Securities and Exchange Commission has begun fraud action against WorldCom.](/news/2002/06/27/accountancy-scandals-the-u-s-securities-and-exchange-commission-has-begun-fraud-action-against-worldcom.md) _2018-02-06 13:49:15 (First version)_
 1. [ Accountancy scandals - The U.S. Securities and Exchange Commission has begun fraud action against WorldCom.](/news/2002/06/27/accountancy-scandals-a-the-u-s-securities-and-exchange-commission-has-begun-fraud-action-against-worldcom.md) _(Current version)_
 
 ### Related:

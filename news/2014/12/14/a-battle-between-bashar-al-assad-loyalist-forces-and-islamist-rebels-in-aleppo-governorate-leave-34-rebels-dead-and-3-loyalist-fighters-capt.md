@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/14/a-battle-between-bashar-al-assad-loyalist-force
 
 ### Changes:
 
-1. [Syrian Civil War:A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-pa-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loya.md) _2017-08-25 03:41:19 (First version)_
-2. [Syrian Civil War:: A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-a-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loy.md) _2017-08-27 03:41:37 (Update)_
+1. [Syrian Civil War:A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-pa-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loya.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-a-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loy.md) _2018-02-06 13:49:26 (Update)_
 2. [A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/a-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loyalist-fighters-capt.md) _(Current version)_
 
 ### Related:

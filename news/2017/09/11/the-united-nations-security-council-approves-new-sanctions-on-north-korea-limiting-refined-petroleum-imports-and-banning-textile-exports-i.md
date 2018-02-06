@@ -16,7 +16,7 @@ The United Nations Security Council approved new sanctions aimed at punishing No
 
 ### Changes:
 
-1. [The United Nations Security Council approves new sanctions on North Korea as punishment for its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-as-punishment-for-its-recent-nuclear-test.md) _2017-09-12 17:30:05 (First version)_
+1. [The United Nations Security Council approves new sanctions on North Korea as punishment for its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-as-punishment-for-its-recent-nuclear-test.md) _2018-02-06 13:49:31 (First version)_
 1. [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md) _(Current version)_
 
 ### Related:

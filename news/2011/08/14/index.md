@@ -9,11 +9,11 @@ Formats: [HTML](2011/08/14/index.html)  [JSON](2011/08/14/index.json)  [XML](201
 
 ##### Iran
 ### [Iran confirms the arrest of the second-in-command of the Kurdistan Workers' Party (PKK), Murat Karayilan, by the country's intelligence agency. ](/news/2011/08/14/iran-confirms-the-arrest-of-the-second-in-command-of-the-kurdistan-workers-party-pkk-murat-karaya-lan-by-the-country-s-intelligence-age.md)
-_Context: Murat Karayilan, Iran, Kurdistan Workers' Party, Iranian Intelligence Ministry_
+_Context: Iranian Intelligence Ministry, Murat Karayilan, Iran, Kurdistan Workers' Party_
 
 ##### Muammar Gaddafi
 ### [Anti-Muammar Gaddafi rebels make major progress in the 2011 Libyan civil war, advancing into Zawiya, only 50 km west of the capital city, Tripoli. ](/news/2011/08/14/anti-muammar-gaddafi-rebels-make-major-progress-in-the-2011-libyan-civil-war-advancing-into-zawiya-only-50-km-west-of-the-capital-city-tr.md)
-_Context: Tripoli, Muammar Gaddafi, Zawiya, civil war_
+_Context: Tripoli, civil war, Muammar Gaddafi, Zawiya_
 
 ##### Asmaa Mahfouz
 ### [Egyptian activist Asmaa Mahfouz is charged with inciting violence in what seems to be a clear violation of human rights. ](/news/2011/08/14/egyptian-activist-asmaa-mahfouz-is-charged-with-inciting-violence-in-what-seems-to-be-a-clear-violation-of-human-rights.md)
@@ -21,7 +21,7 @@ _Context: Asmaa Mahfouz, human rights_
 
 ##### Channel Islands
 ### [Six people are killed in a stabbing incident on the Channel Island of Jersey ](/news/2011/08/14/six-people-are-killed-in-a-stabbing-incident-on-the-channel-island-of-jersey.md)
-_Context: Jersey, Channel Islands_
+_Context: Channel Islands, Jersey_
 
 ##### 2011 England riots
 ### [A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md)

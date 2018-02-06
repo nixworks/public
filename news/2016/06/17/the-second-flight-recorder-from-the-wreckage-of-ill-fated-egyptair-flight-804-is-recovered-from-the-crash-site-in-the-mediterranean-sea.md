@@ -16,7 +16,7 @@ The second flight data recorder belonging to ill-fated EgyptAir flight MS804 has
 
 ### Changes:
 
-1. [EgyptAir Flight 804: The second flight recorder from the wreckage of ill-fated EgyptAir Flight 804 is recovered from the crash site in the Mediterranean Sea. ](/news/2016/06/17/egyptair-flight-804-the-second-flight-recorder-from-the-wreckage-of-ill-fated-egyptair-flight-804-is-recovered-from-the-crash-site-in-the-m.md) _2017-08-27 03:46:17 (First version)_
+1. [EgyptAir Flight 804: The second flight recorder from the wreckage of ill-fated EgyptAir Flight 804 is recovered from the crash site in the Mediterranean Sea. ](/news/2016/06/17/egyptair-flight-804-the-second-flight-recorder-from-the-wreckage-of-ill-fated-egyptair-flight-804-is-recovered-from-the-crash-site-in-the-m.md) _2018-02-06 13:49:29 (First version)_
 1. [The second flight recorder from the wreckage of ill-fated EgyptAir Flight 804 is recovered from the crash site in the Mediterranean Sea. ](/news/2016/06/17/the-second-flight-recorder-from-the-wreckage-of-ill-fated-egyptair-flight-804-is-recovered-from-the-crash-site-in-the-mediterranean-sea.md) _(Current version)_
 
 ### Related:

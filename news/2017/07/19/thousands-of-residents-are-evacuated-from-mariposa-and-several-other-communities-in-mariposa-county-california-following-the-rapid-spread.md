@@ -16,8 +16,8 @@ A 25,000-acre wildfire in central California, one of three dozen major blazes bu
 
 ### Changes:
 
-1. [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread-o.md) _2017-07-20 03:50:54 (First version)_
-2. [2017 California wildfires: Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/2017-california-wildfires-thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california.md) _2017-08-27 03:48:40 (Update)_
+1. [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread-o.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 California wildfires: Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/2017-california-wildfires-thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california.md) _2018-02-06 13:49:30 (Update)_
 2. [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread.md) _(Current version)_
 
 ### Related:

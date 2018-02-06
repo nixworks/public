@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-i
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/northern-mali-conflict-2012apresent-pa-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-def.md) _2017-08-25 03:37:15 (First version)_
-2. [Northern Mali conflict (2012-present):: A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/northern-mali-conflict-2012-present-a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-de.md) _2017-08-27 03:37:25 (Update)_
+1. [Northern Mali conflict (2012-present):A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/northern-mali-conflict-2012apresent-pa-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-def.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/northern-mali-conflict-2012-present-a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-de.md) _2018-02-06 13:49:24 (Update)_
 2. [A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-defence-jean-yves-le-drian.md) _(Current version)_
 
 ### Related:

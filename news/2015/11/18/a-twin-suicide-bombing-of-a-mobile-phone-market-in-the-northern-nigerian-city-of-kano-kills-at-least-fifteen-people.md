@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/18/a-twin-suicide-bombing-of-a-mobile-phone-market
 
 ### Changes:
 
-1. [Boko Haram insurgency: A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/boko-haram-insurgency-a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md) _2017-08-27 03:43:55 (First version)_
+1. [Boko Haram insurgency: A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/boko-haram-insurgency-a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md) _(Current version)_
 
 ### Related:

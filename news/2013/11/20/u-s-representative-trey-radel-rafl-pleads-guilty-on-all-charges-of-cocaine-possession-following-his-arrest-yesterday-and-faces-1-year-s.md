@@ -15,7 +15,7 @@ Freshman lawmaker is set to be arraigned Wednesday, admits he is an alcoholic.
 
 ### Changes:
 
-1. [U.S. Representative Trey Radel (R-FL) pleads guilty on all charges of cocaine possession following his arrest yesterday and faces 1 year supervised probation. ](/news/2013/11/20/u-s-representative-trey-radel-r-fl-pleads-guilty-on-all-charges-of-cocaine-possession-following-his-arrest-yesterday-and-faces-1-year-s.md) _2017-08-27 03:39:51 (First version)_
+1. [U.S. Representative Trey Radel (R-FL) pleads guilty on all charges of cocaine possession following his arrest yesterday and faces 1 year supervised probation. ](/news/2013/11/20/u-s-representative-trey-radel-r-fl-pleads-guilty-on-all-charges-of-cocaine-possession-following-his-arrest-yesterday-and-faces-1-year-s.md) _2018-02-06 13:49:25 (First version)_
 1. [U.S. Representative Trey Radel (R-FL) pleads guilty on all charges of cocaine possession following his arrest yesterday and faces 1 year supervised probation. ](/news/2013/11/20/u-s-representative-trey-radel-rafl-pleads-guilty-on-all-charges-of-cocaine-possession-following-his-arrest-yesterday-and-faces-1-year-s.md) _(Current version)_
 
 ### Related:

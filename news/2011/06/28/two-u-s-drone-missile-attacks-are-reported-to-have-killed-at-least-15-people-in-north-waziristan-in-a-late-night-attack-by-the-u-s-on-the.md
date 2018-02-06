@@ -17,8 +17,8 @@ Two US drone missile attacks kill at least 15 people in the Pakistani tribal reg
 
 ### Changes:
 
-1. [U.S. drone attacks on North Waziristan:Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-ptwo-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in.md) _2017-08-25 03:33:37 (First version)_
-2. [U.S. drone attacks on North Waziristan:: Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-i.md) _2017-08-27 03:33:44 (Update)_
+1. [U.S. drone attacks on North Waziristan:: Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-i.md) _2018-02-06 13:49:22 (First version)_
+2. [U.S. drone attacks on North Waziristan:Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-ptwo-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in.md) _2018-02-06 13:49:22 (Update)_
 2. [Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in-a-late-night-attack-by-the-u-s-on-the.md) _(Current version)_
 
 ### Related:

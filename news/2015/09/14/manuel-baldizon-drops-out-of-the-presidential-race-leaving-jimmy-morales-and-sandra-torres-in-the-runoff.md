@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Guatemalan general election, 2015: Manuel Baldizon drops out of the presidential race leaving Jimmy Morales and Sandra Torres in the runoff. ](/news/2015/09/14/guatemalan-general-election-2015-manuel-baldizon-drops-out-of-the-presidential-race-leaving-jimmy-morales-and-sandra-torres-in-the-runoff.md) _2017-08-27 03:43:03 (First version)_
+1. [Guatemalan general election, 2015: Manuel Baldizon drops out of the presidential race leaving Jimmy Morales and Sandra Torres in the runoff. ](/news/2015/09/14/guatemalan-general-election-2015-manuel-baldizon-drops-out-of-the-presidential-race-leaving-jimmy-morales-and-sandra-torres-in-the-runoff.md) _2018-02-06 13:49:27 (First version)_
 1. [Manuel Baldizon drops out of the presidential race leaving Jimmy Morales and Sandra Torres in the runoff. ](/news/2015/09/14/manuel-baldizon-drops-out-of-the-presidential-race-leaving-jimmy-morales-and-sandra-torres-in-the-runoff.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/07/8/the-un-development-program-suspends-feeding-oper
 
 ### Changes:
 
-1. [ July 2009 Mindanao bombings The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-p-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md) _2017-05-25 03:25:54 (First version)_
-2. [ July 2009 Mindanao bombings: The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md) _2017-08-27 03:24:58 (Update)_
+1. [ July 2009 Mindanao bombings: The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md) _2018-02-06 13:49:19 (First version)_
+2. [ July 2009 Mindanao bombings The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-p-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md) _2018-02-06 13:49:19 (Update)_
 2. [ The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md) _(Current version)_
 
 ### Related:

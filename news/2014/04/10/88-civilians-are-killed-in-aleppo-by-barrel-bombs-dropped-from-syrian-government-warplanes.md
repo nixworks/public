@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/10/88-civilians-are-killed-in-aleppo-by-barrel-bom
 
 ### Changes:
 
-1. [Syrian civil war:88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/syrian-civil-war-p88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md) _2017-08-25 03:40:16 (First version)_
-2. [Syrian civil war:: 88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/syrian-civil-war-88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md) _2017-08-27 03:40:34 (Update)_
+1. [Syrian civil war:88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/syrian-civil-war-p88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian civil war:: 88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/syrian-civil-war-88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md) _2018-02-06 13:49:26 (Update)_
 2. [88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md) _(Current version)_
 
 ### Related:

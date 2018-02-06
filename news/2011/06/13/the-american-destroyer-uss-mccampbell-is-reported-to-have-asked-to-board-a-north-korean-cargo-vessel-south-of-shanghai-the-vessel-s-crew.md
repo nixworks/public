@@ -16,7 +16,7 @@ The US Navy halted a North Korean cargo vessel bound for Burma two weeks ago ove
 
 ### Changes:
 
-1. [The American destroyer USS ''McCampbell'' is reported to have asked to board a North Korean cargo vessel south of Shanghai; the vessel's crew refused and later returned home after what ''The New York Times'' described as "several days of pressure" from the U.S. warship. ](/news/2011/06/13/the-american-destroyer-uss-mccampbell-is-reported-to-have-asked-to-board-a-north-korean-cargo-vessel-south-of-shanghai-the-vessel-s-cre.md) _2017-08-25 03:33:28 (First version)_
+1. [The American destroyer USS ''McCampbell'' is reported to have asked to board a North Korean cargo vessel south of Shanghai; the vessel's crew refused and later returned home after what ''The New York Times'' described as "several days of pressure" from the U.S. warship. ](/news/2011/06/13/the-american-destroyer-uss-mccampbell-is-reported-to-have-asked-to-board-a-north-korean-cargo-vessel-south-of-shanghai-the-vessel-s-cre.md) _2018-02-06 13:49:22 (First version)_
 1. [The American destroyer USS "McCampbell" is reported to have asked to board a North Korean cargo vessel south of Shanghai; the vessel's crew refused and later returned home after what "The New York Times" described as "several days of pressure" from the U.S. warship. ](/news/2011/06/13/the-american-destroyer-uss-mccampbell-is-reported-to-have-asked-to-board-a-north-korean-cargo-vessel-south-of-shanghai-the-vessel-s-crew.md) _(Current version)_
 
 ### Related:

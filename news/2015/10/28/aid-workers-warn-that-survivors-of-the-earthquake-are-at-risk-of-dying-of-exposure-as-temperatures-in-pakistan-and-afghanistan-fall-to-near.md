@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/28/aid-workers-warn-that-survivors-of-the-earthqua
 
 ### Changes:
 
-1. [2015 Hindu Kush earthquake: Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/2015-hindu-kush-earthquake-aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-a.md) _2017-08-27 03:43:34 (First version)_
+1. [2015 Hindu Kush earthquake: Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/2015-hindu-kush-earthquake-aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-and-afghanistan-fall-to-near.md) _(Current version)_
 
 ### Related:

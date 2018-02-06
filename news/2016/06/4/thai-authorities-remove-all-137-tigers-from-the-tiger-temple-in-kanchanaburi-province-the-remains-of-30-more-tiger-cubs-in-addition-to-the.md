@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/4/thai-authorities-remove-all-137-tigers-from-the-
 
 ### Changes:
 
-1. [Thai authorities remove all 137 tigers from the Tiger Temple in Kanchanaburi Province. The remains of 30 more tiger cubs, in addition to the 40 carcasses found earlier, were discovered Thursday. Five men have been charged with possession of endangered animal parts without permission. ](/news/2016/06/4/thai-authorities-remove-all-137-tigers-from-the-tiger-temple-in-kanchanaburi-province-the-remains-of-30-more-tiger-cubs-in-addition-to-th.md) _2017-08-25 03:45:49 (First version)_
+1. [Thai authorities remove all 137 tigers from the Tiger Temple in Kanchanaburi Province. The remains of 30 more tiger cubs, in addition to the 40 carcasses found earlier, were discovered Thursday. Five men have been charged with possession of endangered animal parts without permission. ](/news/2016/06/4/thai-authorities-remove-all-137-tigers-from-the-tiger-temple-in-kanchanaburi-province-the-remains-of-30-more-tiger-cubs-in-addition-to-th.md) _2018-02-06 13:49:29 (First version)_
 1. [Thai authorities remove all 137 tigers from the Tiger Temple in Kanchanaburi Province. The remains of 30 more tiger cubs, in addition to the 40 carcasses found earlier, were discovered Thursday. Five men have been charged with possession of endangered animal parts without permission. ](/news/2016/06/4/thai-authorities-remove-all-137-tigers-from-the-tiger-temple-in-kanchanaburi-province-the-remains-of-30-more-tiger-cubs-in-addition-to-the.md) _(Current version)_
 
 ### Related:

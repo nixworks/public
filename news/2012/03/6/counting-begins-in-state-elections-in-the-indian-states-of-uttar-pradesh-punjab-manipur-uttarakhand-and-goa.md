@@ -17,8 +17,8 @@ Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punja
 
 ### Changes:
 
-1. [Indian elections:Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/indian-elections-pcounting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md) _2017-08-25 03:35:12 (First version)_
-2. [Indian elections:: Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/indian-elections-counting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md) _2017-08-27 03:35:23 (Update)_
+1. [Indian elections:Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/indian-elections-pcounting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md) _2018-02-06 13:49:23 (First version)_
+2. [Indian elections:: Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/indian-elections-counting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md) _2018-02-06 13:49:23 (Update)_
 2. [Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/counting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md) _(Current version)_
 
 ### Related:

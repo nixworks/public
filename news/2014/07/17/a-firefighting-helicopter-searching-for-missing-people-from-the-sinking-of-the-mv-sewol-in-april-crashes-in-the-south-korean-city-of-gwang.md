@@ -16,7 +16,7 @@ A firefighting helicopter crashed Thursday near an apartment complex and school 
 
 ### Changes:
 
-1. [A firefighting helicopter searching for missing people from the sinking of the MV ''Sewol'' in April crashes in the South Korean city of Gwangju with five people aboard. ](/news/2014/07/17/a-firefighting-helicopter-searching-for-missing-people-from-the-sinking-of-the-mv-sewol-in-april-crashes-in-the-south-korean-city-of-gwa.md) _2017-08-25 03:40:41 (First version)_
+1. [A firefighting helicopter searching for missing people from the sinking of the MV ''Sewol'' in April crashes in the South Korean city of Gwangju with five people aboard. ](/news/2014/07/17/a-firefighting-helicopter-searching-for-missing-people-from-the-sinking-of-the-mv-sewol-in-april-crashes-in-the-south-korean-city-of-gwa.md) _2018-02-06 13:49:26 (First version)_
 1. [A firefighting helicopter searching for missing people from the sinking of the MV "Sewol" in April crashes in the South Korean city of Gwangju with five people aboard. ](/news/2014/07/17/a-firefighting-helicopter-searching-for-missing-people-from-the-sinking-of-the-mv-sewol-in-april-crashes-in-the-south-korean-city-of-gwang.md) _(Current version)_
 
 ### Related:

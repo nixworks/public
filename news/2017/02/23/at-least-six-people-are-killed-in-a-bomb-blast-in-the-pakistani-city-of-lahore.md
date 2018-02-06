@@ -16,7 +16,7 @@ Police are investigating the cause of the blast, which ripped through a shopping
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/war-in-north-west-pakistan-at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _2017-08-27 03:47:53 (First version)_
+1. [War in North-West Pakistan: At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/war-in-north-west-pakistan-at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _2018-02-06 13:49:30 (First version)_
 1. [At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _(Current version)_
 
 ### Related:

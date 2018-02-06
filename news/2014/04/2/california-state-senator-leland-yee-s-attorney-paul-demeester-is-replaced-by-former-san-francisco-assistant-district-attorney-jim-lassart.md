@@ -16,8 +16,8 @@ State Sen. Leland Yee picks new lawyer in gun, corruption case
 
 ### Changes:
 
-1. [Leland Yee corruption scandal:California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/leland-yee-corruption-scandal-pcalifornia-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant-d.md) _2017-08-25 03:40:14 (First version)_
-2. [Leland Yee corruption scandal:: California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/leland-yee-corruption-scandal-california-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant.md) _2017-08-27 03:40:32 (Update)_
+1. [Leland Yee corruption scandal:California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/leland-yee-corruption-scandal-pcalifornia-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant-d.md) _2018-02-06 13:49:26 (First version)_
+2. [Leland Yee corruption scandal:: California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/leland-yee-corruption-scandal-california-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant.md) _2018-02-06 13:49:26 (Update)_
 2. [California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/california-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant-district-attorney-jim-lassart.md) _(Current version)_
 
 ### Related:

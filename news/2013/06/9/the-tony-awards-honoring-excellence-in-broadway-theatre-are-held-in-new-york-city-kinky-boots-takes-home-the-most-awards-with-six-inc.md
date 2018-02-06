@@ -16,7 +16,7 @@ The Tonys live...
 
 ### Changes:
 
-1. [The Tony Awards, honoring excellence in Broadway theatre, are held in New York City. ''Kinky Boots'' takes home the most awards, with six, including Best Musical. ](/news/2013/06/9/the-tony-awards-honoring-excellence-in-broadway-theatre-are-held-in-new-york-city-kinky-boots-takes-home-the-most-awards-with-six-i.md) _2017-08-25 03:38:48 (First version)_
+1. [The Tony Awards, honoring excellence in Broadway theatre, are held in New York City. ''Kinky Boots'' takes home the most awards, with six, including Best Musical. ](/news/2013/06/9/the-tony-awards-honoring-excellence-in-broadway-theatre-are-held-in-new-york-city-kinky-boots-takes-home-the-most-awards-with-six-i.md) _2018-02-06 13:49:25 (First version)_
 1. [The Tony Awards, honoring excellence in Broadway theatre, are held in New York City. "Kinky Boots" takes home the most awards, with six, including Best Musical. ](/news/2013/06/9/the-tony-awards-honoring-excellence-in-broadway-theatre-are-held-in-new-york-city-kinky-boots-takes-home-the-most-awards-with-six-inc.md) _(Current version)_
 
 ### Related:

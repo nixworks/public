@@ -17,7 +17,7 @@ The European Union renewed economic sanctions on Russia for another six months a
 
 ### Changes:
 
-1. [War in Donbass: The European Union extends Russian sanctions for interference in Ukraine another six months, until 31 July 2016. The EU says it's extending the sanctions because the Minsk peace accords would not be fully implemented by the end of this year. ](/news/2015/12/21/war-in-donbass-the-european-union-extends-russian-sanctions-for-interference-in-ukraine-another-six-months-until-31-july-2016-the-eu-says.md) _2017-08-27 03:44:27 (First version)_
+1. [War in Donbass: The European Union extends Russian sanctions for interference in Ukraine another six months, until 31 July 2016. The EU says it's extending the sanctions because the Minsk peace accords would not be fully implemented by the end of this year. ](/news/2015/12/21/war-in-donbass-the-european-union-extends-russian-sanctions-for-interference-in-ukraine-another-six-months-until-31-july-2016-the-eu-says.md) _2018-02-06 13:49:28 (First version)_
 1. [The European Union extends Russian sanctions for interference in Ukraine another six months, until 31 July 2016. The EU says it's extending the sanctions because the Minsk peace accords would not be fully implemented by the end of this year. ](/news/2015/12/21/the-european-union-extends-russian-sanctions-for-interference-in-ukraine-another-six-months-until-31-july-2016-the-eu-says-it-s-extending.md) _(Current version)_
 
 ### Related:

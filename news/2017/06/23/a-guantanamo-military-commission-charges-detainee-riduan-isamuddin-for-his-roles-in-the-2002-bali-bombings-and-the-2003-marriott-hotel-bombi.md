@@ -16,7 +16,7 @@ The war court prosecutor has filed terror charges against an Indonesian captive 
 
 ### Changes:
 
-1. [Guantanamo military commission: A Guantanamo military commission charges detainee Riduan Isamuddin for his roles in the 2002 Bali bombings and the 2003 Marriott Hotel bombing. The Pentagon is yet to decide whether to threaten capital punishment. ](/news/2017/06/23/guantanamo-military-commission-a-guantanamo-military-commission-charges-detainee-riduan-isamuddin-for-his-roles-in-the-2002-bali-bombings-a.md) _2017-08-27 03:48:32 (First version)_
+1. [Guantanamo military commission: A Guantanamo military commission charges detainee Riduan Isamuddin for his roles in the 2002 Bali bombings and the 2003 Marriott Hotel bombing. The Pentagon is yet to decide whether to threaten capital punishment. ](/news/2017/06/23/guantanamo-military-commission-a-guantanamo-military-commission-charges-detainee-riduan-isamuddin-for-his-roles-in-the-2002-bali-bombings-a.md) _2018-02-06 13:49:30 (First version)_
 1. [A Guantanamo military commission charges detainee Riduan Isamuddin for his roles in the 2002 Bali bombings and the 2003 Marriott Hotel bombing. The Pentagon is yet to decide whether to threaten capital punishment. ](/news/2017/06/23/a-guantanamo-military-commission-charges-detainee-riduan-isamuddin-for-his-roles-in-the-2002-bali-bombings-and-the-2003-marriott-hotel-bombi.md) _(Current version)_
 
 ### Related:

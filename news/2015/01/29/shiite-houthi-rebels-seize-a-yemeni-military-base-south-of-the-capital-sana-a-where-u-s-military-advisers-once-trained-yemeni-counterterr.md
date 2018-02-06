@@ -16,7 +16,7 @@ Yemeni officials said that Houthis have captured a camp south of the capital, wh
 
 ### Changes:
 
-1. [Shia insurgency in Yemen: Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shia-insurgency-in-yemen-shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once.md) _2017-08-27 03:41:51 (First version)_
+1. [Shia insurgency in Yemen: Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shia-insurgency-in-yemen-shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once.md) _2018-02-06 13:49:26 (First version)_
 1. [Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once-trained-yemeni-counterterr.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-u
 
 ### Changes:
 
-1. [May 5-10, 2015 tornado outbreak sequence: The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/may-5-10-2015-tornado-outbreak-sequence-the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-an.md) _2017-08-27 03:42:18 (First version)_
+1. [May 5-10, 2015 tornado outbreak sequence: The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/may-5-10-2015-tornado-outbreak-sequence-the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-an.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-and-eight-people-missing.md) _(Current version)_
 
 ### Related:

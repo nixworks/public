@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/06/5/voters-in-switzerland-go-to-the-polls-to-vote-in
 
 ### Changes:
 
-1. [Swiss referendums, 2016: Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/swiss-referendums-2016-voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2.md) _2017-08-27 03:46:12 (First version)_
+1. [Swiss referendums, 2016: Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/swiss-referendums-2016-voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2-500-francs-a-month.md) _(Current version)_
 
 ### Related:

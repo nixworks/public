@@ -18,7 +18,7 @@ It’s a reminder to her supporters that more Americans voted the way they did t
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/united-states-presidential-election-2016-former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in.md) _2017-08-27 03:47:17 (First version)_
+1. [United States presidential election, 2016: Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/united-states-presidential-election-2016-former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in-michigan-pennsylvania-and-wisconsin.md) _(Current version)_
 
 ### Related:

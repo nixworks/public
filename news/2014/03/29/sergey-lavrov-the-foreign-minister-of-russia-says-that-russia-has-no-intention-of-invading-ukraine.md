@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/29/sergey-lavrov-the-foreign-minister-of-russia-sa
 
 ### Changes:
 
-1. [2014 Crimean crisis:Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-psergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _2017-08-25 03:40:14 (First version)_
-2. [2014 Crimean crisis:: Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _2017-08-27 03:40:32 (Update)_
+1. [2014 Crimean crisis:: Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-psergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _2018-02-06 13:49:26 (Update)_
 2. [Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md) _(Current version)_
 
 ### Related:

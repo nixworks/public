@@ -16,7 +16,7 @@ Volkswagen AG Chief Executive Officer Matthias Mueller will brief the leadership
 
 ### Changes:
 
-1. [Volkswagen emissions violations: Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/volkswagen-emissions-violations-oliver-blume-is-appointed-the-new-ceo-of-porsche.md) _2017-08-27 03:43:11 (First version)_
+1. [Volkswagen emissions violations: Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/volkswagen-emissions-violations-oliver-blume-is-appointed-the-new-ceo-of-porsche.md) _2018-02-06 13:49:27 (First version)_
 1. [Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/oliver-blume-is-appointed-the-new-ceo-of-porsche.md) _(Current version)_
 
 ### Related:

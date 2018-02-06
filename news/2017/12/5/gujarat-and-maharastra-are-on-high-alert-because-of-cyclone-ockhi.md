@@ -16,7 +16,7 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 
 ### Changes:
 
-1. [Gujrat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujrat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md) _2017-12-05 14:30:09 (First version)_
+1. [Gujrat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujrat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md) _2018-02-06 13:49:31 (First version)_
 1. [Gujarat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujarat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md) _(Current version)_
 
 ### Related:

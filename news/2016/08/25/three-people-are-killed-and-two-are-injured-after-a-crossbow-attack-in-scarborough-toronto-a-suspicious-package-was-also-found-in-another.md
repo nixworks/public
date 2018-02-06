@@ -16,7 +16,7 @@ Toronto police confirm there is a link between the three deaths involving a cros
 
 ### Changes:
 
-1. [Scarborough crossbow attack: Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/scarborough-crossbow-attack-three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-packa.md) _2017-08-27 03:46:43 (First version)_
+1. [Scarborough crossbow attack: Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/scarborough-crossbow-attack-three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-packa.md) _2018-02-06 13:49:29 (First version)_
 1. [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md) _(Current version)_
 
 ### Related:

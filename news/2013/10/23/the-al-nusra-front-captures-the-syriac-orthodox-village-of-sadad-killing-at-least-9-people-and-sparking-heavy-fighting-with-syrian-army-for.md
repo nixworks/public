@@ -17,8 +17,8 @@ Much of Syria, including the capital Damascus, was hit by a power cut late on We
 
 ### Changes:
 
-1. [Syrian civil war:The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/syrian-civil-war-pthe-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-wi.md) _2017-08-25 03:39:25 (First version)_
-2. [Syrian civil war:: The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/syrian-civil-war-the-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-w.md) _2017-08-27 03:39:43 (Update)_
+1. [Syrian civil war:: The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/syrian-civil-war-the-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-w.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/syrian-civil-war-pthe-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-wi.md) _2018-02-06 13:49:25 (Update)_
 2. [The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/the-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-with-syrian-army-for.md) _(Current version)_
 
 ### Related:

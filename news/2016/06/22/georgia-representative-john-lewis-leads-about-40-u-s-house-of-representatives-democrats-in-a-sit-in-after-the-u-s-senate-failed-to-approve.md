@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/06/22/georgia-representative-john-lewis-leads-about-4
 
 ### Changes:
 
-1. [2016 House Democrats sit-in: Georgia Representative John Lewis leads about 40 U.S. House of Representatives Democrats in a sit-in after the U.S. Senate failed to approve any of four gun control measures Monday night. ](/news/2016/06/22/2016-house-democrats-sit-in-georgia-representative-john-lewis-leads-about-40-u-s-house-of-representatives-democrats-in-a-sit-in-after-the.md) _2017-08-27 03:46:19 (First version)_
+1. [2016 House Democrats sit-in: Georgia Representative John Lewis leads about 40 U.S. House of Representatives Democrats in a sit-in after the U.S. Senate failed to approve any of four gun control measures Monday night. ](/news/2016/06/22/2016-house-democrats-sit-in-georgia-representative-john-lewis-leads-about-40-u-s-house-of-representatives-democrats-in-a-sit-in-after-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Georgia Representative John Lewis leads about 40 U.S. House of Representatives Democrats in a sit-in after the U.S. Senate failed to approve any of four gun control measures Monday night. ](/news/2016/06/22/georgia-representative-john-lewis-leads-about-40-u-s-house-of-representatives-democrats-in-a-sit-in-after-the-u-s-senate-failed-to-approve.md) _(Current version)_
 
 ### Related:

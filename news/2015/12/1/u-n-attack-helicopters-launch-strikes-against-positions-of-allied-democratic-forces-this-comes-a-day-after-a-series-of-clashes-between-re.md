@@ -18,7 +18,7 @@ Kinshasa (AFP) - Fierce fighting between UN peacekeepers and Ugandan rebels rage
 
 ### Changes:
 
-1. [Allied Democratic Forces insurgency: U. N. attack helicopters launch strikes against positions of Allied Democratic Forces. This comes a day after a series of clashes between rebels and soldiers in a town in eastern Congo killed at least 30 people. ](/news/2015/12/1/allied-democratic-forces-insurgency-u-n-attack-helicopters-launch-strikes-against-positions-of-allied-democratic-forces-this-comes-a-day.md) _2017-08-27 03:44:08 (First version)_
+1. [Allied Democratic Forces insurgency: U. N. attack helicopters launch strikes against positions of Allied Democratic Forces. This comes a day after a series of clashes between rebels and soldiers in a town in eastern Congo killed at least 30 people. ](/news/2015/12/1/allied-democratic-forces-insurgency-u-n-attack-helicopters-launch-strikes-against-positions-of-allied-democratic-forces-this-comes-a-day.md) _2018-02-06 13:49:28 (First version)_
 1. [U. N. attack helicopters launch strikes against positions of Allied Democratic Forces. This comes a day after a series of clashes between rebels and soldiers in a town in eastern Congo killed at least 30 people. ](/news/2015/12/1/u-n-attack-helicopters-launch-strikes-against-positions-of-allied-democratic-forces-this-comes-a-day-after-a-series-of-clashes-between-re.md) _(Current version)_
 
 ### Related:

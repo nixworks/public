@@ -21,8 +21,8 @@ Thousands celebrate in Yemen as President Saleh leaves for treatment in Saudi Ar
 
 ### Changes:
 
-1. [Arab Spring:NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-pnato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md) _2017-08-25 03:33:21 (First version)_
-2. [Arab Spring:: NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-nato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md) _2017-08-27 03:33:30 (Update)_
+1. [Arab Spring:NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-pnato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-nato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/nato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ NYC&#39;s narrow reelection&nbsp;makes Dems skeptical.
 
 ### Changes:
 
-1. [ United States elections, 2009: Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/united-states-elections-2009-michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _2017-08-27 03:26:06 (First version)_
+1. [ United States elections, 2009: Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/united-states-elections-2009-michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _2018-02-06 13:49:19 (First version)_
 1. [ Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _(Current version)_
 
 ### Related:

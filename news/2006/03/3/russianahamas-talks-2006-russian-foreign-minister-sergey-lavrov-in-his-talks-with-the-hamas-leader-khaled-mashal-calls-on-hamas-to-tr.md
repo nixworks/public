@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Russian-Hamas talks, 2006: Russian Foreign Minister Sergey Lavrov, in his talks with the Hamas leader Khaled Mashal, calls on Hamas to transform itself into a political organisation, recognise Israel's right to exist, and to keep previous peace accords. ](/news/2006/03/3/russian-hamas-talks-2006-russian-foreign-minister-sergey-lavrov-in-his-talks-with-the-hamas-leader-khaled-mashal-calls-on-hamas-to-tr.md) _2017-08-27 03:17:29 (First version)_
+1. [ Russian-Hamas talks, 2006: Russian Foreign Minister Sergey Lavrov, in his talks with the Hamas leader Khaled Mashal, calls on Hamas to transform itself into a political organisation, recognise Israel's right to exist, and to keep previous peace accords. ](/news/2006/03/3/russian-hamas-talks-2006-russian-foreign-minister-sergey-lavrov-in-his-talks-with-the-hamas-leader-khaled-mashal-calls-on-hamas-to-tr.md) _2018-02-06 13:49:17 (First version)_
 1. [ Russian-Hamas talks, 2006: Russian Foreign Minister Sergey Lavrov, in his talks with the Hamas leader Khaled Mashal, calls on Hamas to transform itself into a political organisation, recognise Israel's right to exist, and to keep previous peace accords. ](/news/2006/03/3/russianahamas-talks-2006-russian-foreign-minister-sergey-lavrov-in-his-talks-with-the-hamas-leader-khaled-mashal-calls-on-hamas-to-tr.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Sony Music Ireland has said it is looking into an incident on its website after 
 
 ### Changes:
 
-1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, ''The X Factor'' and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-fact.md) _2017-08-25 03:33:41 (First version)_
+1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, ''The X Factor'' and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-fact.md) _2018-02-06 13:49:22 (First version)_
 1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, "The X Factor" and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-facto.md) _(Current version)_
 
 ### Related:

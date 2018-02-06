@@ -18,8 +18,8 @@ The death toll from Hurricane Irene has spiralled to 38 across 11 states in the 
 
 ### Changes:
 
-1. [Hurricane Irene:The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. ](/news/2011/08/30/hurricane-irene-pthe-death-toll-from-hurricane-irene-reaches-40-in-the-contiguous-united-states-plus-three-people-in-the-dominican-republic.md) _2017-08-25 03:34:05 (First version)_
-2. [Hurricane Irene:: The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. ](/news/2011/08/30/hurricane-irene-the-death-toll-from-hurricane-irene-reaches-40-in-the-contiguous-united-states-plus-three-people-in-the-dominican-republic.md) _2017-08-27 03:34:12 (Update)_
+1. [Hurricane Irene:: The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. ](/news/2011/08/30/hurricane-irene-the-death-toll-from-hurricane-irene-reaches-40-in-the-contiguous-united-states-plus-three-people-in-the-dominican-republic.md) _2018-02-06 13:49:22 (First version)_
+2. [Hurricane Irene:The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. ](/news/2011/08/30/hurricane-irene-pthe-death-toll-from-hurricane-irene-reaches-40-in-the-contiguous-united-states-plus-three-people-in-the-dominican-republic.md) _2018-02-06 13:49:22 (Update)_
 2. [The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. ](/news/2011/08/30/the-death-toll-from-hurricane-irene-reaches-40-in-the-contiguous-united-states-plus-three-people-in-the-dominican-republic-and-one-in-puerto.md) _(Current version)_
 
 ### Related:

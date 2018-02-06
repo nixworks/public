@@ -27,8 +27,8 @@ Formats: [HTML](/news/2008/09/29/the-united-states-house-of-representatives-reje
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/subprime-mortgage-crisis-p-the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md) _2017-08-25 03:22:57 (First version)_
-2. [ Subprime mortgage crisis:: The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/subprime-mortgage-crisis-the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md) _2017-08-27 03:22:51 (Update)_
+1. [ Subprime mortgage crisis:: The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/subprime-mortgage-crisis-the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md) _2018-02-06 13:49:18 (First version)_
+2. [ Subprime mortgage crisis: The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/subprime-mortgage-crisis-p-the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md) _(Current version)_
 
 ### Related:

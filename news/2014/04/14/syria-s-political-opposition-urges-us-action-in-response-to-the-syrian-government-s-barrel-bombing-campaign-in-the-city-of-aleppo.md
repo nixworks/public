@@ -17,8 +17,8 @@ Syrian government troops seize at least three border communities, including an a
 
 ### Changes:
 
-1. [Syrian Civil War:Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syrian-civil-war-psyria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-of.md) _2017-08-25 03:40:17 (First version)_
-2. [Syrian Civil War:: Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syrian-civil-war-syria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-o.md) _2017-08-27 03:40:35 (Update)_
+1. [Syrian Civil War:: Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syrian-civil-war-syria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-o.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syrian-civil-war-psyria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-of.md) _2018-02-06 13:49:26 (Update)_
 2. [Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-of-aleppo.md) _(Current version)_
 
 ### Related:

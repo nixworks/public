@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/22/index.html)  [JSON](2013/01/22/index.json)  [XML](201
 
 ##### Jordan
 ### [The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md)
-_Context: Jordan, Syria_
+_Context: Syria, Jordan_
 
 ##### Baghdad
 ### [Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md)
@@ -13,11 +13,11 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: FARC, ceasefire, Colombia, oil pipeline_
+_Context: oil pipeline, FARC, ceasefire, Colombia_
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: Skyfall, Censorship in China, China, James Bond_
+_Context: Censorship in China, Skyfall, James Bond, China_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
@@ -35,13 +35,13 @@ The prime minister of the Irish Republic says he hopes other rape victims will n
 ### [A Canadian man shoots dead two people in a court in Cebu, Philippines, and seriously injures another. ](/news/2013/01/22/a-canadian-man-shoots-dead-two-people-in-a-court-in-cebu-philippines-and-seriously-injures-another.md)
 A Canadian man opens fire in a Philippine court, killing two people and wounding another, reports say.
 
-##### British
+##### United Kingdom
 ### [A British woman, Lindsay Sandiford is sentenced to death by a court in Indonesia following a conviction for drug trafficking. ](/news/2013/01/22/a-british-woman-lindsay-sandiford-is-sentenced-to-death-by-a-court-in-indonesia-following-a-conviction-for-drug-trafficking.md)
 British grandmother Lindsay Sandiford is sentenced to death by firing squad in Bali for trafficking cocaine.
 
 ##### Lone Star College-North Harris
 ### [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-collegeanorth-harris-in-houston-texas.md)
-_Context: Lone Star College-North Harris, Houston, Texas_
+_Context: Houston, Texas, Lone Star College-North Harris_
 
 ##### Elections for the 19th Knesset
 ### [The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. ](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.md)

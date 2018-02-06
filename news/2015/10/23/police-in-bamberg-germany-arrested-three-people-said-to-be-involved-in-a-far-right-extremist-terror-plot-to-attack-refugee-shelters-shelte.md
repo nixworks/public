@@ -16,7 +16,7 @@ The discovery comes as a leaked police report suggests far-Right nationalists co
 
 ### Changes:
 
-1. [European migrant crisis: Police in Bamberg, Germany arrested three people said to be involved in a far-right extremist terror plot to attack refugee shelters, shelter staff and public officials supportive of refugees. ](/news/2015/10/23/european-migrant-crisis-police-in-bamberg-germany-arrested-three-people-said-to-be-involved-in-a-far-right-extremist-terror-plot-to-attack.md) _2017-08-27 03:43:28 (First version)_
+1. [European migrant crisis: Police in Bamberg, Germany arrested three people said to be involved in a far-right extremist terror plot to attack refugee shelters, shelter staff and public officials supportive of refugees. ](/news/2015/10/23/european-migrant-crisis-police-in-bamberg-germany-arrested-three-people-said-to-be-involved-in-a-far-right-extremist-terror-plot-to-attack.md) _2018-02-06 13:49:28 (First version)_
 1. [Police in Bamberg, Germany arrested three people said to be involved in a far-right extremist terror plot to attack refugee shelters, shelter staff and public officials supportive of refugees. ](/news/2015/10/23/police-in-bamberg-germany-arrested-three-people-said-to-be-involved-in-a-far-right-extremist-terror-plot-to-attack-refugee-shelters-shelte.md) _(Current version)_
 
 ### Related:

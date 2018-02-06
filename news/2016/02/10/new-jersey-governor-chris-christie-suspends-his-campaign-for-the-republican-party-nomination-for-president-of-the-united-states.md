@@ -18,7 +18,7 @@ Republican Chris Christie drops out of the US presidential race after a disappoi
 
 ### Changes:
 
-1. [United States presidential election, 2016: New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/united-states-presidential-election-2016-new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for.md) _2017-08-27 03:44:52 (First version)_
+1. [United States presidential election, 2016: New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/united-states-presidential-election-2016-new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for.md) _2018-02-06 13:49:28 (First version)_
 1. [New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md) _(Current version)_
 
 ### Related:

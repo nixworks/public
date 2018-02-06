@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/08/7/georgian-and-separatist-south-ossetian-forces-ha
 
 ### Changes:
 
-1. [ Georgian-Ossetian conflict: Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-ossetian-conflict-p-georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding.md) _2017-08-25 03:22:40 (First version)_
-2. [ Georgian-Ossetian conflict:: Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-ossetian-conflict-georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding.md) _2017-08-27 03:22:33 (Update)_
+1. [ Georgian-Ossetian conflict: Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-ossetian-conflict-p-georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding.md) _2018-02-06 13:49:18 (First version)_
+2. [ Georgian-Ossetian conflict:: Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-ossetian-conflict-georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding.md) _2018-02-06 13:49:18 (Update)_
 2. [ Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding-up-to-20-people-officials-sa.md) _(Current version)_
 
 ### Related:

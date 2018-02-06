@@ -17,7 +17,7 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 
 ### Changes:
 
-1. [2014 Sydney hostage crisis: A coronial inquest into the siege at the Lindt Cafe in the center of Sydney begins. The inquest hears that one hostage was killed by gunman Man Haron Monis while another was killed by fragments of a bullet or bullets fired by New South Wales Police Force officers. ](/news/2015/01/29/2014-sydney-hostage-crisis-a-coronial-inquest-into-the-siege-at-the-lindt-cafe-in-the-center-of-sydney-begins-the-inquest-hears-that-one-h.md) _2017-08-27 03:41:51 (First version)_
+1. [2014 Sydney hostage crisis: A coronial inquest into the siege at the Lindt Cafe in the center of Sydney begins. The inquest hears that one hostage was killed by gunman Man Haron Monis while another was killed by fragments of a bullet or bullets fired by New South Wales Police Force officers. ](/news/2015/01/29/2014-sydney-hostage-crisis-a-coronial-inquest-into-the-siege-at-the-lindt-cafe-in-the-center-of-sydney-begins-the-inquest-hears-that-one-h.md) _2018-02-06 13:49:26 (First version)_
 1. [A coronial inquest into the siege at the Lindt Cafe in the center of Sydney begins. The inquest hears that one hostage was killed by gunman Man Haron Monis while another was killed by fragments of a bullet or bullets fired by New South Wales Police Force officers. ](/news/2015/01/29/a-coronial-inquest-into-the-siege-at-the-lindt-cafe-in-the-center-of-sydney-begins-the-inquest-hears-that-one-hostage-was-killed-by-gunman.md) _(Current version)_
 
 ### Related:

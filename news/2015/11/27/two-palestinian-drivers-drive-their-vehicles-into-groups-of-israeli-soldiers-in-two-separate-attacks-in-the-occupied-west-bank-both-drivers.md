@@ -17,7 +17,7 @@ Two Palestinians rammed vehicles into Israeli soldiers in separate attacks in th
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): Two Palestinian drivers drive their vehicles into groups of Israeli soldiers in two separate attacks in the occupied West bank. Both drivers are shot dead. In this current wave of violence that began in October, 19 Israelis, one U.S. citizen, and 93 Palestinians have died. ](/news/2015/11/27/israeli-palestinian-conflict-2015-two-palestinian-drivers-drive-their-vehicles-into-groups-of-israeli-soldiers-in-two-separate-attacks.md) _2017-08-27 03:44:05 (First version)_
+1. [Israeli-Palestinian conflict (2015): Two Palestinian drivers drive their vehicles into groups of Israeli soldiers in two separate attacks in the occupied West bank. Both drivers are shot dead. In this current wave of violence that began in October, 19 Israelis, one U.S. citizen, and 93 Palestinians have died. ](/news/2015/11/27/israeli-palestinian-conflict-2015-two-palestinian-drivers-drive-their-vehicles-into-groups-of-israeli-soldiers-in-two-separate-attacks.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Palestinian drivers drive their vehicles into groups of Israeli soldiers in two separate attacks in the occupied West bank. Both drivers are shot dead. In this current wave of violence that began in October, 19 Israelis, one U.S. citizen, and 93 Palestinians have died. ](/news/2015/11/27/two-palestinian-drivers-drive-their-vehicles-into-groups-of-israeli-soldiers-in-two-separate-attacks-in-the-occupied-west-bank-both-drivers.md) _(Current version)_
 
 ### Related:

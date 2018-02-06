@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/03/5/a-car-bomb-in-baghdad-kills-at-least-26-people.h
 
 ### Changes:
 
-1. [ Iraq War: A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/iraq-war-p-a-car-bomb-in-baghdad-kills-at-least-26-people.md) _2017-08-25 03:19:20 (First version)_
-2. [ Iraq War:: A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/iraq-war-a-car-bomb-in-baghdad-kills-at-least-26-people.md) _2017-08-27 03:19:16 (Update)_
+1. [ Iraq War: A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/iraq-war-p-a-car-bomb-in-baghdad-kills-at-least-26-people.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/iraq-war-a-car-bomb-in-baghdad-kills-at-least-26-people.md) _2018-02-06 13:49:17 (Update)_
 2. [ A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/a-car-bomb-in-baghdad-kills-at-least-26-people.md) _(Current version)_
 
 ### Related:

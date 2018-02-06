@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-t
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/war-in-north-west-pakistan-pa-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-pe.md) _2017-08-25 03:38:36 (First version)_
-2. [War in North-West Pakistan:: A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/war-in-north-west-pakistan-a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-p.md) _2017-08-27 03:38:49 (Update)_
+1. [War in North-West Pakistan:A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/war-in-north-west-pakistan-pa-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-pe.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/war-in-north-west-pakistan-a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-p.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-people-and-injuring-twenty.md) _(Current version)_
 
 ### Related:

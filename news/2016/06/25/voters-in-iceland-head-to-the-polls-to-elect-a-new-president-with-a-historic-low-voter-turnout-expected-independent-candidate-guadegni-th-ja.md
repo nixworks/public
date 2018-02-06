@@ -17,7 +17,7 @@ Voter turnout could be at a historic low in tomorrow’s presidential election i
 
 ### Changes:
 
-1. [Icelandic presidential election, 2016: Voters in Iceland head to the polls to elect a new president with a historic low voter turnout expected. Independent candidate Gudni Th. Johannesson claims victory. ](/news/2016/06/25/icelandic-presidential-election-2016-voters-in-iceland-head-to-the-polls-to-elect-a-new-president-with-a-historic-low-voter-turnout-expect.md) _2017-08-27 03:46:20 (First version)_
+1. [Icelandic presidential election, 2016: Voters in Iceland head to the polls to elect a new president with a historic low voter turnout expected. Independent candidate Gudni Th. Johannesson claims victory. ](/news/2016/06/25/icelandic-presidential-election-2016-voters-in-iceland-head-to-the-polls-to-elect-a-new-president-with-a-historic-low-voter-turnout-expect.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Iceland head to the polls to elect a new president with a historic low voter turnout expected. Independent candidate Gudni Th. Johannesson claims victory. ](/news/2016/06/25/voters-in-iceland-head-to-the-polls-to-elect-a-new-president-with-a-historic-low-voter-turnout-expected-independent-candidate-guadegni-th-ja.md) _(Current version)_
 
 ### Related:

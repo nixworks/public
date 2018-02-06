@@ -17,8 +17,8 @@ Chinese authorities are preparing to drain a &#039;quake lake&#039;.
 
 ### Changes:
 
-1. [ China: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-p-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md) _2017-08-25 03:22:16 (First version)_
-2. [ China:: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md) _2017-08-27 03:22:10 (Update)_
+1. [ China: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-p-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md) _2018-02-06 13:49:18 (First version)_
+2. [ China:: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md) _2018-02-06 13:49:18 (Update)_
 2. [ Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-prepare-to.md) _(Current version)_
 
 ### Related:

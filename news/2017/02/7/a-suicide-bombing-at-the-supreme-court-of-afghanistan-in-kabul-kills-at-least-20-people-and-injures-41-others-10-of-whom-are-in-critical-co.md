@@ -17,7 +17,7 @@ At least 41 other were wounded in the Kabul explosion, including 10 of them in c
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bombing at the Supreme Court of Afghanistan in Kabul kills at least 20 people and injures 41 others, 10 of whom are in critical condition. ](/news/2017/02/7/war-in-afghanistan-2015-present-a-suicide-bombing-at-the-supreme-court-of-afghanistan-in-kabul-kills-at-least-20-people-and-injures-41.md) _2017-08-27 03:47:46 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bombing at the Supreme Court of Afghanistan in Kabul kills at least 20 people and injures 41 others, 10 of whom are in critical condition. ](/news/2017/02/7/war-in-afghanistan-2015-present-a-suicide-bombing-at-the-supreme-court-of-afghanistan-in-kabul-kills-at-least-20-people-and-injures-41.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bombing at the Supreme Court of Afghanistan in Kabul kills at least 20 people and injures 41 others, 10 of whom are in critical condition. ](/news/2017/02/7/a-suicide-bombing-at-the-supreme-court-of-afghanistan-in-kabul-kills-at-least-20-people-and-injures-41-others-10-of-whom-are-in-critical-co.md) _(Current version)_
 
 ### Related:

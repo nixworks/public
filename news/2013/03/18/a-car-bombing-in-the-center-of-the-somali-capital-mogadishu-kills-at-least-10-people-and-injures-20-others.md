@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capit
 
 ### Changes:
 
-1. [War in Somalia:A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-pa-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md) _2017-08-25 03:37:54 (First version)_
-2. [War in Somalia:: A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md) _2017-08-27 03:38:05 (Update)_
+1. [War in Somalia:A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-pa-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia:: A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md) _2018-02-06 13:49:24 (Update)_
 2. [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md) _(Current version)_
 
 ### Related:

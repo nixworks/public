@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/29/the-charles-kuonen-bridge-in-the-swiss-alps-in-
 
 ### Changes:
 
-1. [The Charles Kuonen Bridge in the Swiss Alps in Randa, Switzerland, opens. At 1,621 feet (494 meters), it is the longest pedestrian suspension bridge in the world. ](/news/2017/07/29/the-charles-kuonen-bridge-in-the-swiss-alps-in-randa-switzerland-opens-at-1-621-feet-494-meters-it-is-the-longest-pedestrian-suspensi.md) _2017-08-25 03:48:17 (First version)_
+1. [The Charles Kuonen Bridge in the Swiss Alps in Randa, Switzerland, opens. At 1,621 feet (494 meters), it is the longest pedestrian suspension bridge in the world. ](/news/2017/07/29/the-charles-kuonen-bridge-in-the-swiss-alps-in-randa-switzerland-opens-at-1-621-feet-494-meters-it-is-the-longest-pedestrian-suspensi.md) _2018-02-06 13:49:31 (First version)_
 1. [The Charles Kuonen Bridge in the Swiss Alps in Randa, Switzerland, opens. At 1,621 feet (494 meters), it is the longest pedestrian suspension bridge in the world. ](/news/2017/07/29/the-charles-kuonen-bridge-in-the-swiss-alps-in-randa-switzerland-opens-at-1-621-feet-494-meters-it-is-the-longest-pedestrian-suspensio.md) _(Current version)_
 
 ### Related:

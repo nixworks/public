@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimo
 
 ### Changes:
 
-1. [ In Maharashtra, India, the state Assembly unanimously adopts a Bill amending the Bombay Police Act, 1951 which will ban dance bars across the state. ](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimously-adopts-a-bill-amending-the-bombay-police-act-1951-which-will-ban-dance-bars-across.md) _2017-08-25 03:16:33 (First version)_
+1. [ In Maharashtra, India, the state Assembly unanimously adopts a Bill amending the Bombay Police Act, 1951 which will ban dance bars across the state. ](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimously-adopts-a-bill-amending-the-bombay-police-act-1951-which-will-ban-dance-bars-across.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Maharashtra, India, the state Assembly unanimously adopts a Bill amending the Bombay Police Act, 1951 which will ban dance bars across the state. ](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimously-adopts-a-bill-amending-the-bombay-police-act-1951-which-will-ban-dance-bars-across-t.md) _(Current version)_
 
 ### Related:

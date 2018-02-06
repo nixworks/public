@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/09/27/delegates-arrive-in-the-north-korean-capital-py
 
 ### Changes:
 
-1. [North KoreaDelegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-koreapdelegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md) _2017-08-25 03:30:15 (First version)_
-2. [North Korea: Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-korea-delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md) _2017-08-27 03:30:18 (Update)_
+1. [North KoreaDelegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-koreapdelegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md) _2018-02-06 13:49:20 (First version)_
+2. [North Korea: Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-korea-delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md) _2018-02-06 13:49:20 (Update)_
 2. [Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md) _(Current version)_
 
 ### Related:

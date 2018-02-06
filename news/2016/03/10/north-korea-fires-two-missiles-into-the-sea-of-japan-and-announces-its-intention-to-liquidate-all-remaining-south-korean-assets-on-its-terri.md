@@ -16,7 +16,7 @@ North Korea looked to ratchet up already elevated tensions on the Korean peninsu
 
 ### Changes:
 
-1. [North Korea-South Korea relations: North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-south-korea-relations-north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remai.md) _2017-08-27 03:45:12 (First version)_
+1. [North Korea-South Korea relations: North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-south-korea-relations-north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remai.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remaining-south-korean-assets-on-its-terri.md) _(Current version)_
 
 ### Related:

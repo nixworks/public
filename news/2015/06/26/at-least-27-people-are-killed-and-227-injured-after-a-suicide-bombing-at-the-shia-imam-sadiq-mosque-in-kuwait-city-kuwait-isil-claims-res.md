@@ -17,8 +17,8 @@ At least eight people killed in explosion at Shia Imam Sadiq mosque in Kuwait Ci
 
 ### Changes:
 
-1. [ At least 27 people are killed and 227 injured after a suicide bombing at the Shia Imam Sadiq mosque in Kuwait City, Kuwait. ISIL claims responsibility for the attack. ](/news/2015/06/26/at-least-27-people-are-killed-and-227-injured-after-a-suicide-bombing-at-the-shia-imam-sadiq-mosque-in-kuwait-city-kuwait-isil-claims-r.md) _2017-08-25 03:42:18 (First version)_
-2. [ 2015 Kuwait mosque bombing: At least 27 people are killed and 227 injured after a suicide bombing at the Shia Imam Sadiq mosque in Kuwait City, Kuwait. ISIL claims responsibility for the attack. ](/news/2015/06/26/2015-kuwait-mosque-bombing-at-least-27-people-are-killed-and-227-injured-after-a-suicide-bombing-at-the-shia-imam-sadiq-mosque-in-kuwait-c.md) _2017-08-27 03:42:36 (Update)_
+1. [ At least 27 people are killed and 227 injured after a suicide bombing at the Shia Imam Sadiq mosque in Kuwait City, Kuwait. ISIL claims responsibility for the attack. ](/news/2015/06/26/at-least-27-people-are-killed-and-227-injured-after-a-suicide-bombing-at-the-shia-imam-sadiq-mosque-in-kuwait-city-kuwait-isil-claims-r.md) _2018-02-06 13:49:27 (First version)_
+2. [ 2015 Kuwait mosque bombing: At least 27 people are killed and 227 injured after a suicide bombing at the Shia Imam Sadiq mosque in Kuwait City, Kuwait. ISIL claims responsibility for the attack. ](/news/2015/06/26/2015-kuwait-mosque-bombing-at-least-27-people-are-killed-and-227-injured-after-a-suicide-bombing-at-the-shia-imam-sadiq-mosque-in-kuwait-c.md) _2018-02-06 13:49:27 (Update)_
 2. [ At least 27 people are killed and 227 injured after a suicide bombing at the Shia Imam Sadiq mosque in Kuwait City, Kuwait. ISIL claims responsibility for the attack. ](/news/2015/06/26/at-least-27-people-are-killed-and-227-injured-after-a-suicide-bombing-at-the-shia-imam-sadiq-mosque-in-kuwait-city-kuwait-isil-claims-res.md) _(Current version)_
 
 ### Related:

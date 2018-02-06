@@ -17,7 +17,7 @@ Rights group urges investigation into death of Boko Haram leader blamed for atta
 
 ### Changes:
 
-1. [ Nigerian battles: The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/nigerian-battles-the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when.md) _2017-08-27 03:25:11 (First version)_
+1. [ Nigerian battles: The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/nigerian-battles-the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when.md) _2018-02-06 13:49:19 (First version)_
 1. [ The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when-captured.md) _(Current version)_
 
 ### Related:

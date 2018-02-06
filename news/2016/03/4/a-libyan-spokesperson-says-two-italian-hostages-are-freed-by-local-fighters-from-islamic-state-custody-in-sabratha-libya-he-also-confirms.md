@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A Libyan spokesperson says two Italian hostages are freed by local fighters from Islamic State custody in Sabratha, Libya. He also confirms that two other Italian hostages were recently killed during local forces clashes with IS militants. ](/news/2016/03/4/libyan-civil-war-2014-present-a-libyan-spokesperson-says-two-italian-hostages-are-freed-by-local-fighters-from-islamic-state-custody-in.md) _2017-08-27 03:45:07 (First version)_
+1. [Libyan Civil War (2014-present): A Libyan spokesperson says two Italian hostages are freed by local fighters from Islamic State custody in Sabratha, Libya. He also confirms that two other Italian hostages were recently killed during local forces clashes with IS militants. ](/news/2016/03/4/libyan-civil-war-2014-present-a-libyan-spokesperson-says-two-italian-hostages-are-freed-by-local-fighters-from-islamic-state-custody-in.md) _2018-02-06 13:49:28 (First version)_
 1. [A Libyan spokesperson says two Italian hostages are freed by local fighters from Islamic State custody in Sabratha, Libya. He also confirms that two other Italian hostages were recently killed during local forces clashes with IS militants. ](/news/2016/03/4/a-libyan-spokesperson-says-two-italian-hostages-are-freed-by-local-fighters-from-islamic-state-custody-in-sabratha-libya-he-also-confirms.md) _(Current version)_
 
 ### Related:

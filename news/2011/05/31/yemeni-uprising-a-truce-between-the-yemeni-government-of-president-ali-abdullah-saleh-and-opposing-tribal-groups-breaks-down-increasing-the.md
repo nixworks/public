@@ -25,8 +25,8 @@ More than 50 people have been killed in demonstrations in the southern Yemeni ci
 
 ### Changes:
 
-1. [Arab Spring:Yemeni uprising:A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-pyemeni-uprising-pa-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down-i.md) _2017-08-25 03:33:19 (First version)_
-2. [Arab Spring:: Yemeni uprising:: A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-yemeni-uprising-a-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down.md) _2017-08-27 03:33:28 (Update)_
+1. [Arab Spring:: Yemeni uprising:: A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-yemeni-uprising-a-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:Yemeni uprising:A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-pyemeni-uprising-pa-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down-i.md) _2018-02-06 13:49:22 (Update)_
 2. [Yemeni uprising:A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/yemeni-uprising-a-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down-increasing-the.md) _(Current version)_
 
 ### Related:

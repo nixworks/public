@@ -16,7 +16,7 @@ Alberto Fujimori, 79, is being released by current President Pedro Pablo Kuczyns
 
 ### Changes:
 
-1. [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for human rights abuses. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-human-rights-abuses.md) _2017-12-26 18:30:06 (First version)_
+1. [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for human rights abuses. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-human-rights-abuses.md) _2018-02-06 13:49:31 (First version)_
 1. [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for corruption and human rights violations. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-corruption-and-human-rights-violat.md) _(Current version)_
 
 ### Related:

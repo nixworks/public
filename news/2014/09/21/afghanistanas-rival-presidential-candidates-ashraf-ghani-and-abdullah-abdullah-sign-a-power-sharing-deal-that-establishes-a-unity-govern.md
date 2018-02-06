@@ -17,7 +17,7 @@ Afghanistan’s rival presidential candidates have signed a power-sharing deal t
 
 ### Changes:
 
-1. [Afghanistan-s rival presidential candidates, Ashraf Ghani and Abdullah Abdullah, sign a power-sharing deal that establishes a unity government with Ghani as President and Abdullah as Chief Executive. ](/news/2014/09/21/afghanistan-s-rival-presidential-candidates-ashraf-ghani-and-abdullah-abdullah-sign-a-power-sharing-deal-that-establishes-a-unity-govern.md) _2017-08-27 03:41:19 (First version)_
+1. [Afghanistan-s rival presidential candidates, Ashraf Ghani and Abdullah Abdullah, sign a power-sharing deal that establishes a unity government with Ghani as President and Abdullah as Chief Executive. ](/news/2014/09/21/afghanistan-s-rival-presidential-candidates-ashraf-ghani-and-abdullah-abdullah-sign-a-power-sharing-deal-that-establishes-a-unity-govern.md) _2018-02-06 13:49:26 (First version)_
 1. [Afghanistan's rival presidential candidates, Ashraf Ghani and Abdullah Abdullah, sign a power-sharing deal that establishes a unity government with Ghani as President and Abdullah as Chief Executive. ](/news/2014/09/21/afghanistanas-rival-presidential-candidates-ashraf-ghani-and-abdullah-abdullah-sign-a-power-sharing-deal-that-establishes-a-unity-govern.md) _(Current version)_
 
 ### Related:

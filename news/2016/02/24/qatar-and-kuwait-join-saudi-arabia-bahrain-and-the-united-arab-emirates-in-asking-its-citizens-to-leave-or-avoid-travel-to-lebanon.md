@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-
 
 ### Changes:
 
-1. [Foreign relations of Lebanon: Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/foreign-relations-of-lebanon-qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-av.md) _2017-08-27 03:45:00 (First version)_
+1. [Foreign relations of Lebanon: Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/foreign-relations-of-lebanon-qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-av.md) _2018-02-06 13:49:28 (First version)_
 1. [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md) _(Current version)_
 
 ### Related:

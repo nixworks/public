@@ -17,7 +17,7 @@ Heavy rain and floods are affecting dozens of villages, after Typhoon Koppu swep
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Rising floodwaters are causing problems in the northern Philippines as Typhoon Koppu (Lando in the Philippines) is set to linger over the island of Luzon until Wednesday. Eleven people have died so far. ](/news/2015/10/19/2015-pacific-typhoon-season-rising-floodwaters-are-causing-problems-in-the-northern-philippines-as-typhoon-koppu-lando-in-the-philippines.md) _2017-08-27 03:43:24 (First version)_
+1. [2015 Pacific typhoon season: Rising floodwaters are causing problems in the northern Philippines as Typhoon Koppu (Lando in the Philippines) is set to linger over the island of Luzon until Wednesday. Eleven people have died so far. ](/news/2015/10/19/2015-pacific-typhoon-season-rising-floodwaters-are-causing-problems-in-the-northern-philippines-as-typhoon-koppu-lando-in-the-philippines.md) _2018-02-06 13:49:27 (First version)_
 1. [Rising floodwaters are causing problems in the northern Philippines as Typhoon Koppu (Lando in the Philippines) is set to linger over the island of Luzon until Wednesday. Eleven people have died so far. ](/news/2015/10/19/rising-floodwaters-are-causing-problems-in-the-northern-philippines-as-typhoon-koppu-lando-in-the-philippines-is-set-to-linger-over-the-is.md) _(Current version)_
 
 ### Related:

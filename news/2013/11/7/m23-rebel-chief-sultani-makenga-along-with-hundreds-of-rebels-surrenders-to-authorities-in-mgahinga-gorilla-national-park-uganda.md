@@ -16,8 +16,8 @@ The commander of the M23 rebel group in the eastern Democratic Republic of Congo
 
 ### Changes:
 
-1. [M23 rebellion:M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebellion-pm23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park.md) _2017-08-25 03:39:30 (First version)_
-2. [M23 rebellion:: M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebellion-m23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park.md) _2017-08-27 03:39:47 (Update)_
+1. [M23 rebellion:M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebellion-pm23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park.md) _2018-02-06 13:49:25 (First version)_
+2. [M23 rebellion:: M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebellion-m23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park.md) _2018-02-06 13:49:25 (Update)_
 2. [M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park-uganda.md) _(Current version)_
 
 ### Related:

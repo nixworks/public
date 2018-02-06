@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-offic
 
 ### Changes:
 
-1. [ ''The Dark Knight'' sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betw.md) _2017-08-25 03:22:36 (First version)_
+1. [ ''The Dark Knight'' sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betw.md) _2018-02-06 13:49:18 (First version)_
 1. [ "The Dark Knight" sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betwee.md) _(Current version)_
 
 ### Related:

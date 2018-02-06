@@ -18,8 +18,8 @@ At least four people lost their lives on Friday evening after a perimeter wall c
 
 ### Changes:
 
-1. [Kenya floodingHeavy rain in Nairobi, Kenya, causes floods killing at least four people. ](/news/2016/04/29/kenya-floodingpheavy-rain-in-nairobi-kenya-causes-floods-killing-at-least-four-people.md) _2017-08-25 03:45:32 (First version)_
-2. [Kenya flooding: Heavy rain in Nairobi, Kenya, causes floods killing at least four people. ](/news/2016/04/29/kenya-flooding-heavy-rain-in-nairobi-kenya-causes-floods-killing-at-least-four-people.md) _2017-08-27 03:45:55 (Update)_
+1. [Kenya floodingHeavy rain in Nairobi, Kenya, causes floods killing at least four people. ](/news/2016/04/29/kenya-floodingpheavy-rain-in-nairobi-kenya-causes-floods-killing-at-least-four-people.md) _2018-02-06 13:49:29 (First version)_
+2. [Kenya flooding: Heavy rain in Nairobi, Kenya, causes floods killing at least four people. ](/news/2016/04/29/kenya-flooding-heavy-rain-in-nairobi-kenya-causes-floods-killing-at-least-four-people.md) _2018-02-06 13:49:29 (Update)_
 2. [Heavy rain in Nairobi, Kenya, causes floods killing at least four people. ](/news/2016/04/29/heavy-rain-in-nairobi-kenya-causes-floods-killing-at-least-four-people.md) _(Current version)_
 
 ### Related:

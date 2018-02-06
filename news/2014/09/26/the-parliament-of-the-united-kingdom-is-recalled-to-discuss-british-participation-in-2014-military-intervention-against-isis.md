@@ -18,7 +18,7 @@ David Cameron insists that there is no legal barrier to extending air-strikes in
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The Parliament of the United Kingdom is recalled to discuss British participation in 2014 military intervention against ISIS. ](/news/2014/09/26/islamic-state-of-iraq-and-the-levant-the-parliament-of-the-united-kingdom-is-recalled-to-discuss-british-participation-in-2014-military-int.md) _2017-08-27 03:41:20 (First version)_
+1. [Islamic State of Iraq and the Levant: The Parliament of the United Kingdom is recalled to discuss British participation in 2014 military intervention against ISIS. ](/news/2014/09/26/islamic-state-of-iraq-and-the-levant-the-parliament-of-the-united-kingdom-is-recalled-to-discuss-british-participation-in-2014-military-int.md) _2018-02-06 13:49:26 (First version)_
 1. [The Parliament of the United Kingdom is recalled to discuss British participation in 2014 military intervention against ISIS. ](/news/2014/09/26/the-parliament-of-the-united-kingdom-is-recalled-to-discuss-british-participation-in-2014-military-intervention-against-isis.md) _(Current version)_
 
 ### Related:

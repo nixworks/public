@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/1/the-royal-thai-armed-forces-deploy-against-major
 
 ### Changes:
 
-1. [2014 Thai coup d'etat: The Royal Thai Armed Forces deploy against major protests planned for today but a small protest goes ahead outside a shopping mall in central Bangkok. ](/news/2014/06/1/2014-thai-coup-d-a-c-tat-the-royal-thai-armed-forces-deploy-against-major-protests-planned-for-today-but-a-small-protest-goes-ahead-outside-a.md) _2017-08-27 03:40:47 (First version)_
+1. [2014 Thai coup d'etat: The Royal Thai Armed Forces deploy against major protests planned for today but a small protest goes ahead outside a shopping mall in central Bangkok. ](/news/2014/06/1/2014-thai-coup-d-a-c-tat-the-royal-thai-armed-forces-deploy-against-major-protests-planned-for-today-but-a-small-protest-goes-ahead-outside-a.md) _2018-02-06 13:49:26 (First version)_
 1. [The Royal Thai Armed Forces deploy against major protests planned for today but a small protest goes ahead outside a shopping mall in central Bangkok. ](/news/2014/06/1/the-royal-thai-armed-forces-deploy-against-major-protests-planned-for-today-but-a-small-protest-goes-ahead-outside-a-shopping-mall-in-centra.md) _(Current version)_
 
 ### Related:

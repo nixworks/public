@@ -21,7 +21,7 @@ French President Francois Hollande has said Muslims are the &quot;main victims&q
 
 ### Changes:
 
-1. ["Charlie Hebdo" shooting: The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/charlie-hebdo-shooting-the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french.md) _2017-08-27 03:41:45 (First version)_
+1. ["Charlie Hebdo" shooting: The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/charlie-hebdo-shooting-the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french.md) _2018-02-06 13:49:26 (First version)_
 1. [The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french-town-of-dammartin-en-goa-l.md) _(Current version)_
 
 ### Related:

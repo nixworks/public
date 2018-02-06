@@ -16,7 +16,7 @@ The shakeup in women&rsquo;s fashion merchandising continues with the bankruptcy
 
 ### Changes:
 
-1. [A judge in the Netherlands declares Dutch clothing company Mexx bankrupt. The bankruptcy ruling affects over 300 stores worldwide, including 95 locations in Canada. ](/news/2014/12/5/a-judge-in-the-netherlands-declares-dutch-clothing-company-mexx-bankrupt-the-bankruptcy-ruling-affects-over-300-stores-worldwide-includin.md) _2017-08-25 03:41:17 (First version)_
+1. [A judge in the Netherlands declares Dutch clothing company Mexx bankrupt. The bankruptcy ruling affects over 300 stores worldwide, including 95 locations in Canada. ](/news/2014/12/5/a-judge-in-the-netherlands-declares-dutch-clothing-company-mexx-bankrupt-the-bankruptcy-ruling-affects-over-300-stores-worldwide-includin.md) _2018-02-06 13:49:26 (First version)_
 1. [A judge in the Netherlands declares Dutch clothing company Mexx bankrupt. The bankruptcy ruling affects over 300 stores worldwide, including 95 locations in Canada. ](/news/2014/12/5/a-judge-in-the-netherlands-declares-dutch-clothing-company-mexx-bankrupt-the-bankruptcy-ruling-affects-over-300-stores-worldwide-including.md) _(Current version)_
 
 ### Related:

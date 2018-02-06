@@ -16,7 +16,7 @@ Rescue workers still searching for victims on the ground after Hercules military
 
 ### Changes:
 
-1. [2015 Indonesia Hercules C-130 crash: The death toll from yesterday's crash in the Indonesian city of Medan rises to 141. ](/news/2015/07/1/2015-indonesia-hercules-c-130-crash-the-death-toll-from-yesterday-s-crash-in-the-indonesian-city-of-medan-rises-to-141.md) _2017-08-27 03:42:37 (First version)_
+1. [2015 Indonesia Hercules C-130 crash: The death toll from yesterday's crash in the Indonesian city of Medan rises to 141. ](/news/2015/07/1/2015-indonesia-hercules-c-130-crash-the-death-toll-from-yesterday-s-crash-in-the-indonesian-city-of-medan-rises-to-141.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from yesterday's crash in the Indonesian city of Medan rises to 141. ](/news/2015/07/1/the-death-toll-from-yesterday-s-crash-in-the-indonesian-city-of-medan-rises-to-141.md) _(Current version)_
 
 ### Related:

@@ -21,23 +21,23 @@ About 84 children have died over the past three months after taking a teething d
 
 ##### Pakistan
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan is released from house arrest in Islamabad. ](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.md)
-_Context: Islamabad, Abdul Qadeer Khan, house arrest, nuclear scientist, Pakistan_
+_Context: Pakistan, Abdul Qadeer Khan, nuclear scientist, house arrest, Islamabad_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon visits Iraq to meet with Prime Minister Nouri al-Maliki. ](/news/2009/02/6/united-nations-secretary-general-ban-ki-moon-visits-iraq-to-meet-with-prime-minister-nouri-al-maliki.md)
-_Context: Nouri al-Maliki, United Nations, Iraq Prime Minister, Ban Ki-moon, Iraq, United Nations Secretary-General_
+_Context: Iraq, Ban Ki-moon, United Nations Secretary-General, United Nations, Iraq Prime Minister, Nouri al-Maliki_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government refuses to negotiate with the Tamil Tigers at what it calls a "crucial and final stage" of the ongoing civil war. ](/news/2009/02/6/sri-lanka-s-government-refuses-to-negotiate-with-the-tamil-tigers-at-what-it-calls-a-crucial-and-final-stage-of-the-ongoing-civil-war.md)
-_Context: Sri Lanka, LTTE, government, Sri Lankan Civil War_
+_Context: government, LTTE, Sri Lankan Civil War, Sri Lanka_
 
 ##### Russia
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: United States, Russia, United States military personnel, Russian government, nonlethal equipment, Afghanistan_
+_Context: Russian government, Afghanistan, United States military personnel, United States, nonlethal equipment, Russia_
 
 ##### Somalia
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
-_Context: Egypt, MV, ransom, Somali pirates, Somalia_
+_Context: Egypt, ransom, MV, Somalia, Somali pirates_
 
 ##### USS
 ### [ The USS "Port Royal" runs aground off Hawaii. ](/news/2009/02/6/the-uss-port-royal-runs-aground-off-hawaii.md)
@@ -45,11 +45,11 @@ Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off 
 
 ##### Chief Minister
 ### [ Chief Minister of Perak, Malaysia, Mohammad Nizar Jamaluddin is forcibly removed from office and threatens legal action. ](/news/2009/02/6/chief-minister-of-perak-malaysia-mohammad-nizar-jamaluddin-is-forcibly-removed-from-office-and-threatens-legal-action.md)
-_Context: Perak, Mohammad Nizar Jamaluddin, Malaysia, Chief Minister_
+_Context: Perak, Mohammad Nizar Jamaluddin, Chief Minister, Malaysia_
 
 ##### Desmond Tutu
 ### [ Archbishop Desmond Tutu will help establish a Truth and Reconciliation Commission in the Solomon Islands. ](/news/2009/02/6/archbishop-desmond-tutu-will-help-establish-a-truth-and-reconciliation-commission-in-the-solomon-islands.md)
-_Context: Truth and Reconciliation Commission, Solomon Islands, Desmond Tutu_
+_Context: Solomon Islands, Desmond Tutu, Truth and Reconciliation Commission_
 
 ## [Previous Day...](/news/2009/02/5/index.md)
 

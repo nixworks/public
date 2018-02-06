@@ -19,8 +19,8 @@ John Everard, former UK Ambassador, explains that North Korea &quot;believe that
 
 ### Changes:
 
-1. [2013 Korean crisis:South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-psouth-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-read.md) _2017-08-25 03:38:11 (First version)_
-2. [2013 Korean crisis:: South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-rea.md) _2017-08-27 03:38:22 (Update)_
+1. [2013 Korean crisis:: South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-rea.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-psouth-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-read.md) _2018-02-06 13:49:24 (Update)_
 2. [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md) _(Current version)_
 
 ### Related:

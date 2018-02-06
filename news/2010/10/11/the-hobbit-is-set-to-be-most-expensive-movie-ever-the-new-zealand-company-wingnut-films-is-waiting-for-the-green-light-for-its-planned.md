@@ -16,7 +16,7 @@ The film adaptation of The Hobbit could become the most expensive movie of all t
 
 ### Changes:
 
-1. [''The Hobbit'' is set to be most expensive movie ever. The New Zealand company, Wingnut Films, is waiting for the green light for its planned adaptation. ](/news/2010/10/11/the-hobbit-is-set-to-be-most-expensive-movie-ever-the-new-zealand-company-wingnut-films-is-waiting-for-the-green-light-for-its-planne.md) _2017-08-25 03:30:28 (First version)_
+1. [''The Hobbit'' is set to be most expensive movie ever. The New Zealand company, Wingnut Films, is waiting for the green light for its planned adaptation. ](/news/2010/10/11/the-hobbit-is-set-to-be-most-expensive-movie-ever-the-new-zealand-company-wingnut-films-is-waiting-for-the-green-light-for-its-planne.md) _2018-02-06 13:49:20 (First version)_
 1. ["The Hobbit" is set to be most expensive movie ever. The New Zealand company, Wingnut Films, is waiting for the green light for its planned adaptation. ](/news/2010/10/11/the-hobbit-is-set-to-be-most-expensive-movie-ever-the-new-zealand-company-wingnut-films-is-waiting-for-the-green-light-for-its-planned.md) _(Current version)_
 
 ### Related:

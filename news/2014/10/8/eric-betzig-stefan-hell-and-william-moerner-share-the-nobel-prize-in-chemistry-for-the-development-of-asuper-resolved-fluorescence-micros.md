@@ -16,7 +16,7 @@ Two US and one German scientist win Nobels for opening a window into the nanowor
 
 ### Changes:
 
-1. [Nobel Prize in Chemistry: Eric Betzig, Stefan Hell and William Moerner share the Nobel Prize in Chemistry for the development of -super-resolved fluorescence microscopy-. ](/news/2014/10/8/nobel-prize-in-chemistry-eric-betzig-stefan-hell-and-william-moerner-share-the-nobel-prize-in-chemistry-for-the-development-of-super-re.md) _2017-08-27 03:41:22 (First version)_
+1. [Nobel Prize in Chemistry: Eric Betzig, Stefan Hell and William Moerner share the Nobel Prize in Chemistry for the development of -super-resolved fluorescence microscopy-. ](/news/2014/10/8/nobel-prize-in-chemistry-eric-betzig-stefan-hell-and-william-moerner-share-the-nobel-prize-in-chemistry-for-the-development-of-super-re.md) _2018-02-06 13:49:26 (First version)_
 1. [Eric Betzig, Stefan Hell and William Moerner share the Nobel Prize in Chemistry for the development of 'super-resolved fluorescence microscopy'. ](/news/2014/10/8/eric-betzig-stefan-hell-and-william-moerner-share-the-nobel-prize-in-chemistry-for-the-development-of-asuper-resolved-fluorescence-micros.md) _(Current version)_
 
 ### Related:

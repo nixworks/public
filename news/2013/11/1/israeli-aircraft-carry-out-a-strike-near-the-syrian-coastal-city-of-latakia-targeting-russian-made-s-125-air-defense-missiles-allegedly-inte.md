@@ -16,8 +16,8 @@ Israeli aircraft have carried out a strike near the Syrian coastal city of Latak
 
 ### Changes:
 
-1. [Syrian civil war:Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-pisraeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-missi.md) _2017-08-25 03:39:28 (First version)_
-2. [Syrian civil war:: Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-israeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-miss.md) _2017-08-27 03:39:46 (Update)_
+1. [Syrian civil war:Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-pisraeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-missi.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-israeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-miss.md) _2018-02-06 13:49:25 (Update)_
 2. [Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/israeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-missiles-allegedly-inte.md) _(Current version)_
 
 ### Related:

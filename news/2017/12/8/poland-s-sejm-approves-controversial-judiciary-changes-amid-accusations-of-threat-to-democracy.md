@@ -16,7 +16,7 @@ Opponents see bill as an erosion of judicial independence under populist Law and
 
 ### Changes:
 
-1. [Poland's Sejm approves controversial judiciary changes. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes.md) _2017-12-08 22:30:05 (First version)_
+1. [Poland's Sejm approves controversial judiciary changes. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes.md) _2018-02-06 13:49:31 (First version)_
 1. [Poland's Sejm approves controversial judiciary changes amid accusations of threat to democracy. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes-amid-accusations-of-threat-to-democracy.md) _(Current version)_
 
 ### Related:

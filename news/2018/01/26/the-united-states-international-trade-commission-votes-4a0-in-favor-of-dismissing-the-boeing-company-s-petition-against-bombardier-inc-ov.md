@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/26/the-united-states-international-trade-commissio
 
 ### Changes:
 
-1. [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4-0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-over.md) _2018-01-27 18:30:28 (First version)_
+1. [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4-0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-over.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md) _(Current version)_
 
 ### Related:

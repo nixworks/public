@@ -16,7 +16,7 @@ Sixty-four civilians were killed and eight were injured in 24 U.S.-led coalition
 
 ### Changes:
 
-1. [Operation Inherent Resolve: The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. ](/news/2016/11/9/operation-inherent-resolve-the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syr.md) _2017-08-27 03:47:12 (First version)_
+1. [Operation Inherent Resolve: The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. ](/news/2016/11/9/operation-inherent-resolve-the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syr.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. ](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.md) _(Current version)_
 
 ### Related:

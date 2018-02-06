@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/12/5/newly-released-cables-show-the-united-states-lob
 
 ### Changes:
 
-1. [United States diplomatic cables leak:Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-pnewly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapa.md) _2017-08-25 03:31:17 (First version)_
-2. [United States diplomatic cables leak:: Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zap.md) _2017-08-27 03:31:24 (Update)_
+1. [United States diplomatic cables leak:Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-pnewly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapa.md) _2018-02-06 13:49:21 (First version)_
+2. [United States diplomatic cables leak:: Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zap.md) _2018-02-06 13:49:21 (Update)_
 2. [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-sout
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): Yakla raid: A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/yemeni-civil-war-2015-present-yakla-raid-a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medic.md) _2017-08-27 03:47:43 (First version)_
+1. [Yemeni Civil War (2015-present): Yakla raid: A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/yemeni-civil-war-2015-present-yakla-raid-a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medic.md) _2018-02-06 13:49:30 (First version)_
 1. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _(Current version)_
 
 ### Related:

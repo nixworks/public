@@ -16,7 +16,7 @@ Libyan vessel changes course following warning from Israeli navy.
 
 ### Changes:
 
-1. [A ship bound from Libya, the ''Al-Amal'', due to deliver humanitarian aid from Algeria, Morocco and Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". ](/news/2010/07/13/a-ship-bound-from-libya-the-al-amal-due-to-deliver-humanitarian-aid-from-algeria-morocco-and-nigeria-to-the-gaza-strip-changes-cour.md) _2017-08-25 03:28:43 (First version)_
+1. [A ship bound from Libya, the ''Al-Amal'', due to deliver humanitarian aid from Algeria, Morocco and Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". ](/news/2010/07/13/a-ship-bound-from-libya-the-al-amal-due-to-deliver-humanitarian-aid-from-algeria-morocco-and-nigeria-to-the-gaza-strip-changes-cour.md) _2018-02-06 13:49:20 (First version)_
 1. [A ship bound from Libya, the "Al-Amal", due to deliver humanitarian aid from Algeria, Morocco and Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". ](/news/2010/07/13/a-ship-bound-from-libya-the-al-amal-due-to-deliver-humanitarian-aid-from-algeria-morocco-and-nigeria-to-the-gaza-strip-changes-course.md) _(Current version)_
 
 ### Related:

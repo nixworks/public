@@ -18,7 +18,7 @@ Reports reaching Manila indicate the Al-Qaeda linked Abu Sayyaf Group released l
 
 ### Changes:
 
-1. [Moro conflict: Abu Sayyaf frees a Norwegian hostage for a ransom of -30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/moro-conflict-abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from.md) _2017-08-27 03:46:52 (First version)_
+1. [Moro conflict: Abu Sayyaf frees a Norwegian hostage for a ransom of -30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/moro-conflict-abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from.md) _2018-02-06 13:49:29 (First version)_
 1. [Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.md) _(Current version)_
 
 ### Related:

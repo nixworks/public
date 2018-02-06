@@ -17,7 +17,7 @@ A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed 
 
 ### Changes:
 
-1. [Three people are killed in a rampage involving swords near a shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-a-shrine-in-japan.md) _2017-12-08 14:30:07 (First version)_
+1. [Three people are killed in a rampage involving swords near a shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-a-shrine-in-japan.md) _2018-02-06 13:49:31 (First version)_
 1. [Three people are killed in a rampage involving swords near the Tomioka Hachiman Shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-the-tomioka-hachiman-shrine-in-japan.md) _(Current version)_
 
 ### Related:

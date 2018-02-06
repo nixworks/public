@@ -16,7 +16,7 @@ Egypt declares a three-month state of emergency in parts of the Sinai Peninsula 
 
 ### Changes:
 
-1. [Sinai insurgency: Egypt declares a three month state of emergency for parts of the Sinai Peninsula after at least 31 soldiers are killed in two attacks there. ](/news/2014/10/25/sinai-insurgency-egypt-declares-a-three-month-state-of-emergency-for-parts-of-the-sinai-peninsula-after-at-least-31-soldiers-are-killed-in.md) _2017-08-27 03:41:26 (First version)_
+1. [Sinai insurgency: Egypt declares a three month state of emergency for parts of the Sinai Peninsula after at least 31 soldiers are killed in two attacks there. ](/news/2014/10/25/sinai-insurgency-egypt-declares-a-three-month-state-of-emergency-for-parts-of-the-sinai-peninsula-after-at-least-31-soldiers-are-killed-in.md) _2018-02-06 13:49:26 (First version)_
 1. [Egypt declares a three month state of emergency for parts of the Sinai Peninsula after at least 31 soldiers are killed in two attacks there. ](/news/2014/10/25/egypt-declares-a-three-month-state-of-emergency-for-parts-of-the-sinai-peninsula-after-at-least-31-soldiers-are-killed-in-two-attacks-there.md) _(Current version)_
 
 ### Related:

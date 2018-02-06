@@ -24,8 +24,8 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: Israel withdraws the last of its troops from the Gaza Strip, effectively completing its unilateral disengagement plan. ](/news/2005/09/12/israeli-palestinian-conflict-p-israel-withdraws-the-last-of-its-troops-from-the-gaza-strip-effectively-completing-its-unilateral-disengage.md) _2017-08-25 03:16:47 (First version)_
-2. [ Israeli-Palestinian Conflict:: Israel withdraws the last of its troops from the Gaza Strip, effectively completing its unilateral disengagement plan. ](/news/2005/09/12/israeli-palestinian-conflict-israel-withdraws-the-last-of-its-troops-from-the-gaza-strip-effectively-completing-its-unilateral-disengage.md) _2017-08-27 03:16:48 (Update)_
+1. [ Israeli-Palestinian Conflict: Israel withdraws the last of its troops from the Gaza Strip, effectively completing its unilateral disengagement plan. ](/news/2005/09/12/israeli-palestinian-conflict-p-israel-withdraws-the-last-of-its-troops-from-the-gaza-strip-effectively-completing-its-unilateral-disengage.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict:: Israel withdraws the last of its troops from the Gaza Strip, effectively completing its unilateral disengagement plan. ](/news/2005/09/12/israeli-palestinian-conflict-israel-withdraws-the-last-of-its-troops-from-the-gaza-strip-effectively-completing-its-unilateral-disengage.md) _2018-02-06 13:49:16 (Update)_
 2. [ Israel withdraws the last of its troops from the Gaza Strip, effectively completing its unilateral disengagement plan. ](/news/2005/09/12/israel-withdraws-the-last-of-its-troops-from-the-gaza-strip-effectively-completing-its-unilateral-disengagement-plan.md) _(Current version)_
 
 ### Related:

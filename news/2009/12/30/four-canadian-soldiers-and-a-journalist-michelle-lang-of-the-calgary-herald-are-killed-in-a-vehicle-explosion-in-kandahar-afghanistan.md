@@ -17,7 +17,7 @@ Four Canadian soldiers and Calgary Herald reporter Michelle Lang were killed in 
 
 ### Changes:
 
-1. [ Four Canadian soldiers and a journalist, Michelle Lang of the ''Calgary Herald, ''are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanista.md) _2017-08-25 03:26:45 (First version)_
+1. [ Four Canadian soldiers and a journalist, Michelle Lang of the ''Calgary Herald, ''are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanista.md) _2018-02-06 13:49:19 (First version)_
 1. [ Four Canadian soldiers and a journalist, Michelle Lang of the "Calgary Herald, "are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanistan.md) _(Current version)_
 
 ### Related:

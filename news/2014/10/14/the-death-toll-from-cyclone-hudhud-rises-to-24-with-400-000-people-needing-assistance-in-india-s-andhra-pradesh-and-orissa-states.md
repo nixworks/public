@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/14/the-death-toll-from-cyclone-hudhud-rises-to-24-
 
 ### Changes:
 
-1. [2014 North Indian Ocean cyclone season: The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/2014-north-indian-ocean-cyclone-season-the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-and.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 North Indian Ocean cyclone season: The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/2014-north-indian-ocean-cyclone-season-the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-and.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-andhra-pradesh-and-orissa-states.md) _(Current version)_
 
 ### Related:

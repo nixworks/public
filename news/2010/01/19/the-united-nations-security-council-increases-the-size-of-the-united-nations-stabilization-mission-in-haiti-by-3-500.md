@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/01/19/the-united-nations-security-council-increases-t
 
 ### Changes:
 
-1. [2010 Haiti earthquake:The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/2010-haiti-earthquake-pthe-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md) _2017-08-25 03:26:54 (First version)_
-2. [2010 Haiti earthquake:: The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/2010-haiti-earthquake-the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md) _2017-08-27 03:26:47 (Update)_
+1. [2010 Haiti earthquake:: The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/2010-haiti-earthquake-the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Haiti earthquake:The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/2010-haiti-earthquake-pthe-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md) _2018-02-06 13:49:19 (Update)_
 2. [The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md) _(Current version)_
 
 ### Related:

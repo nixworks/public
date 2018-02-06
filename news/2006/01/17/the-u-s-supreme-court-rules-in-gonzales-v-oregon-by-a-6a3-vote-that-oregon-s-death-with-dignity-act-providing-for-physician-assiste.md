@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-orego
 
 ### Changes:
 
-1. [ The U.S. Supreme Court rules in ''Gonzales v. Oregon'' by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6a3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assis.md) _2017-08-25 03:17:23 (First version)_
-2. [ The U.S. Supreme Court rules in "Gonzales v. Oregon" by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6-3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assiste.md) _2017-08-27 03:17:22 (Update)_
+1. [ The U.S. Supreme Court rules in ''Gonzales v. Oregon'' by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6a3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assis.md) _2018-02-06 13:49:16 (First version)_
+2. [ The U.S. Supreme Court rules in "Gonzales v. Oregon" by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6-3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assiste.md) _2018-02-06 13:49:16 (Update)_
 2. [ The U.S. Supreme Court rules in "Gonzales v. Oregon" by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6a3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assiste.md) _(Current version)_
 
 ### Related:

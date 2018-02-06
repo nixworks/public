@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chi
 
 ### Changes:
 
-1. [ China pledges to rescue the crew aboard the Chinese ship ''De Xin Hai'' after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pir.md) _2017-08-25 03:26:06 (First version)_
+1. [ China pledges to rescue the crew aboard the Chinese ship ''De Xin Hai'' after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pir.md) _2018-02-06 13:49:19 (First version)_
 1. [ China pledges to rescue the crew aboard the Chinese ship "De Xin Hai" after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pirat.md) _(Current version)_
 
 ### Related:

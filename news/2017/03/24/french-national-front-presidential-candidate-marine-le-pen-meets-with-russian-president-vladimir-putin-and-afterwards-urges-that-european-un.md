@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/24/french-national-front-presidential-candidate-ma
 
 ### Changes:
 
-1. [France-Russia relations: French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/france-russia-relations-french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterw.md) _2017-08-27 03:48:02 (First version)_
+1. [France-Russia relations: French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/france-russia-relations-french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterw.md) _2018-02-06 13:49:30 (First version)_
 1. [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md) _(Current version)_
 
 ### Related:

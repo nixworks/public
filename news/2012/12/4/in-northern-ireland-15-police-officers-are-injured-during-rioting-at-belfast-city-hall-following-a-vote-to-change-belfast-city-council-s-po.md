@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/4/in-northern-ireland-15-police-officers-are-injur
 
 ### Changes:
 
-1. [Belfast City Hall flag protests:In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/belfast-city-hall-flag-protests-pin-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-to.md) _2017-08-25 03:36:56 (First version)_
-2. [Belfast City Hall flag protests:: In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/belfast-city-hall-flag-protests-in-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-t.md) _2017-08-27 03:37:06 (Update)_
+1. [Belfast City Hall flag protests:In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/belfast-city-hall-flag-protests-pin-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-to.md) _2018-02-06 13:49:24 (First version)_
+2. [Belfast City Hall flag protests:: In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/belfast-city-hall-flag-protests-in-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-t.md) _2018-02-06 13:49:24 (Update)_
 2. [In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/in-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-to-change-belfast-city-council-s-po.md) _(Current version)_
 
 ### Related:

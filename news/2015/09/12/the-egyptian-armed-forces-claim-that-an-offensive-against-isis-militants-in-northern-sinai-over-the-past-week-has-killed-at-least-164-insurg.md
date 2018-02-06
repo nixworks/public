@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensi
 
 ### Changes:
 
-1. [Sinai insurgency: The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/sinai-insurgency-the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-a.md) _2017-08-27 03:43:02 (First version)_
+1. [Sinai insurgency: The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/sinai-insurgency-the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-a.md) _2018-02-06 13:49:27 (First version)_
 1. [The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.md) _(Current version)_
 
 ### Related:

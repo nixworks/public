@@ -21,7 +21,7 @@ An explosion has reportedly rocked a central square popular with tourists in Tur
 
 ### Changes:
 
-1. [January 2016 Istanbul bombing: At least 10 people are killed and 15 injured, mostly German tourists, following an explosion in Istanbul's Sultanahmet Square. A Syrian suicide bomber, an ISIL member, is responsible, according to Turkish Prime Minister Ahmet Davutoglu. ](/news/2016/01/12/january-2016-istanbul-bombing-at-least-10-people-are-killed-and-15-injured-mostly-german-tourists-following-an-explosion-in-istanbul-s-su.md) _2017-08-27 03:44:39 (First version)_
+1. [January 2016 Istanbul bombing: At least 10 people are killed and 15 injured, mostly German tourists, following an explosion in Istanbul's Sultanahmet Square. A Syrian suicide bomber, an ISIL member, is responsible, according to Turkish Prime Minister Ahmet Davutoglu. ](/news/2016/01/12/january-2016-istanbul-bombing-at-least-10-people-are-killed-and-15-injured-mostly-german-tourists-following-an-explosion-in-istanbul-s-su.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 10 people are killed and 15 injured, mostly German tourists, following an explosion in Istanbul's Sultanahmet Square. A Syrian suicide bomber, an ISIL member, is responsible, according to Turkish Prime Minister Ahmet Davutoglu. ](/news/2016/01/12/at-least-10-people-are-killed-and-15-injured-mostly-german-tourists-following-an-explosion-in-istanbul-s-sultanahmet-square-a-syrian-suic.md) _(Current version)_
 
 ### Related:

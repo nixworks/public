@@ -16,7 +16,7 @@ The credit ratings agency says the negative outlook on Australia reflects its vi
 
 ### Changes:
 
-1. [Australian federal election, 2016: Standard & Poor's drops Australia's debt outlook from stable to negative following the country's surprisingly close election this weekend. ](/news/2016/07/6/australian-federal-election-2016-standard-poor-s-drops-australia-s-debt-outlook-from-stable-to-negative-following-the-country-s-surprisi.md) _2017-08-27 03:46:26 (First version)_
+1. [Australian federal election, 2016: Standard & Poor's drops Australia's debt outlook from stable to negative following the country's surprisingly close election this weekend. ](/news/2016/07/6/australian-federal-election-2016-standard-poor-s-drops-australia-s-debt-outlook-from-stable-to-negative-following-the-country-s-surprisi.md) _2018-02-06 13:49:29 (First version)_
 1. [Standard & Poor's drops Australia's debt outlook from stable to negative following the country's surprisingly close election this weekend. ](/news/2016/07/6/standard-poor-s-drops-australia-s-debt-outlook-from-stable-to-negative-following-the-country-s-surprisingly-close-election-this-weekend.md) _(Current version)_
 
 ### Related:

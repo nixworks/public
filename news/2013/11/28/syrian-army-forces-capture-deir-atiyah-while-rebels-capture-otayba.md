@@ -22,8 +22,8 @@ The Syrian army recaptures the strategic town of Deir Attiyeh, less than a week 
 
 ### Changes:
 
-1. [Syrian civil war:Syrian Army forces capture Deir Atiyah while rebels capture Otayba. ](/news/2013/11/28/syrian-civil-war-psyrian-army-forces-capture-deir-atiyah-while-rebels-capture-otayba.md) _2017-08-25 03:39:36 (First version)_
-2. [Syrian civil war:: Syrian Army forces capture Deir Atiyah while rebels capture Otayba. ](/news/2013/11/28/syrian-civil-war-syrian-army-forces-capture-deir-atiyah-while-rebels-capture-otayba.md) _2017-08-27 03:39:54 (Update)_
+1. [Syrian civil war:: Syrian Army forces capture Deir Atiyah while rebels capture Otayba. ](/news/2013/11/28/syrian-civil-war-syrian-army-forces-capture-deir-atiyah-while-rebels-capture-otayba.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian Army forces capture Deir Atiyah while rebels capture Otayba. ](/news/2013/11/28/syrian-civil-war-psyrian-army-forces-capture-deir-atiyah-while-rebels-capture-otayba.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian Army forces capture Deir Atiyah while rebels capture Otayba. ](/news/2013/11/28/syrian-army-forces-capture-deir-atiyah-while-rebels-capture-otayba.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ MIAMI — A U.S. military official says Cuba will attend an annual Caribbean sec
 
 ### Changes:
 
-1. [Cuba-United States relations: A major indication that relations between Cuba and the U.S. are increasingly normalized will be the island nation-s participation later this month at an annual Caribbean security conference in Jamaica, according to the outgoing head of the United States Southern Command, General John F. Kelly. ](/news/2016/01/13/cuba-united-states-relations-a-major-indication-that-relations-between-cuba-and-the-u-s-are-increasingly-normalized-will-be-the-island-n.md) _2017-08-27 03:44:40 (First version)_
+1. [Cuba-United States relations: A major indication that relations between Cuba and the U.S. are increasingly normalized will be the island nation-s participation later this month at an annual Caribbean security conference in Jamaica, according to the outgoing head of the United States Southern Command, General John F. Kelly. ](/news/2016/01/13/cuba-united-states-relations-a-major-indication-that-relations-between-cuba-and-the-u-s-are-increasingly-normalized-will-be-the-island-n.md) _2018-02-06 13:49:28 (First version)_
 1. [A major indication that relations between Cuba and the U.S. are increasingly normalized will be the island nation's participation later this month at an annual Caribbean security conference in Jamaica, according to the outgoing head of the United States Southern Command, General John F. Kelly. ](/news/2016/01/13/a-major-indication-that-relations-between-cuba-and-the-u-s-are-increasingly-normalized-will-be-the-island-nationas-participation-later-th.md) _(Current version)_
 
 ### Related:

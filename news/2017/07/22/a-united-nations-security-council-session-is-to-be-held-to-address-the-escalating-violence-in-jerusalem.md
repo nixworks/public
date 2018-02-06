@@ -16,7 +16,7 @@ The US, Russia, EU and United Nations have expressed concern about escalating vi
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: 2017 Temple Mount crisis: A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/israeli-palestinian-conflict-2017-temple-mount-crisis-a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating.md) _2017-08-27 03:48:42 (First version)_
+1. [Israeli-Palestinian conflict: 2017 Temple Mount crisis: A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/israeli-palestinian-conflict-2017-temple-mount-crisis-a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating.md) _2018-02-06 13:49:30 (First version)_
 1. [A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating-violence-in-jerusalem.md) _(Current version)_
 
 ### Related:

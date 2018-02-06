@@ -17,8 +17,8 @@ The death toll from an Islamist attack on the northeast Nigerian market town of 
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:At least 125 people are killed in a massacre in Gamboru Ngala, Borno State. ](/news/2014/05/7/islamist-insurgency-in-nigeria-pat-least-125-people-are-killed-in-a-massacre-in-gamboru-ngala-borno-state.md) _2017-08-25 03:40:23 (First version)_
-2. [Islamist insurgency in Nigeria:: At least 125 people are killed in a massacre in Gamboru Ngala, Borno State. ](/news/2014/05/7/islamist-insurgency-in-nigeria-at-least-125-people-are-killed-in-a-massacre-in-gamboru-ngala-borno-state.md) _2017-08-27 03:40:40 (Update)_
+1. [Islamist insurgency in Nigeria:At least 125 people are killed in a massacre in Gamboru Ngala, Borno State. ](/news/2014/05/7/islamist-insurgency-in-nigeria-pat-least-125-people-are-killed-in-a-massacre-in-gamboru-ngala-borno-state.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: At least 125 people are killed in a massacre in Gamboru Ngala, Borno State. ](/news/2014/05/7/islamist-insurgency-in-nigeria-at-least-125-people-are-killed-in-a-massacre-in-gamboru-ngala-borno-state.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 125 people are killed in a massacre in Gamboru Ngala, Borno State. ](/news/2014/05/7/at-least-125-people-are-killed-in-a-massacre-in-gamboru-ngala-borno-state.md) _(Current version)_
 
 ### Related:

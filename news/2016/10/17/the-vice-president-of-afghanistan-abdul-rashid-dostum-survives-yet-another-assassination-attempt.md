@@ -16,7 +16,7 @@ Afghan Vice-President Abdul Rashim Dostum escaped unhurt from an ambush by Talib
 
 ### Changes:
 
-1. [War in Afghanistan: The Vice President of Afghanistan, Abdul Rashid Dostum, survives yet another assassination attempt. ](/news/2016/10/17/war-in-afghanistan-the-vice-president-of-afghanistan-abdul-rashid-dostum-survives-yet-another-assassination-attempt.md) _2017-08-27 03:47:05 (First version)_
+1. [War in Afghanistan: The Vice President of Afghanistan, Abdul Rashid Dostum, survives yet another assassination attempt. ](/news/2016/10/17/war-in-afghanistan-the-vice-president-of-afghanistan-abdul-rashid-dostum-survives-yet-another-assassination-attempt.md) _2018-02-06 13:49:29 (First version)_
 1. [The Vice President of Afghanistan, Abdul Rashid Dostum, survives yet another assassination attempt. ](/news/2016/10/17/the-vice-president-of-afghanistan-abdul-rashid-dostum-survives-yet-another-assassination-attempt.md) _(Current version)_
 
 ### Related:

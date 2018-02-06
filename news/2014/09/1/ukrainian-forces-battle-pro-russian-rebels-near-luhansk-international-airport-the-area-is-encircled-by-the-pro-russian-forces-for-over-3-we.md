@@ -17,7 +17,7 @@ Ukrainian troops abandon Luhansk airport after clashes with pro-Russian rebels, 
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Ukrainian forces battle pro-Russian rebels near Luhansk International Airport. The area is encircled by the pro-Russian forces for over 3 weeks. ](/news/2014/09/1/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-battle-pro-russian-rebels-near-luhansk-international-airport-the-area-is-encircled-by.md) _2017-08-27 03:41:14 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Ukrainian forces battle pro-Russian rebels near Luhansk International Airport. The area is encircled by the pro-Russian forces for over 3 weeks. ](/news/2014/09/1/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-battle-pro-russian-rebels-near-luhansk-international-airport-the-area-is-encircled-by.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukrainian forces battle pro-Russian rebels near Luhansk International Airport. The area is encircled by the pro-Russian forces for over 3 weeks. ](/news/2014/09/1/ukrainian-forces-battle-pro-russian-rebels-near-luhansk-international-airport-the-area-is-encircled-by-the-pro-russian-forces-for-over-3-we.md) _(Current version)_
 
 ### Related:

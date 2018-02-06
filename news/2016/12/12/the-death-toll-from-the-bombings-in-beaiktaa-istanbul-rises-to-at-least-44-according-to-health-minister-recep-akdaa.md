@@ -18,7 +18,7 @@ About 100 people are getting treatment in various hospitals, according to interi
 
 ### Changes:
 
-1. [December 2016 Istanbul bombings: The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/december-2016-istanbul-bombings-the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-ministe.md) _2017-08-27 03:47:26 (First version)_
+1. [December 2016 Istanbul bombings: The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/december-2016-istanbul-bombings-the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-ministe.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.md) _(Current version)_
 
 ### Related:

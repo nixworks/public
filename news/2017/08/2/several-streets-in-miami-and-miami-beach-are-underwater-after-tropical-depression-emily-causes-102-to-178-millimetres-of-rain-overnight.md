@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-und
 
 ### Changes:
 
-1. [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md) _2017-08-17 03:48:44 (First version)_
-2. [Floods in the United States: Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 102 to 178 millimetres of rain overnight. ](/news/2017/08/2/floods-in-the-united-states-several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-102-to-178-milli.md) _2017-08-27 03:48:45 (Update)_
+1. [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md) _2018-02-06 13:49:31 (First version)_
+2. [Floods in the United States: Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 102 to 178 millimetres of rain overnight. ](/news/2017/08/2/floods-in-the-united-states-several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-102-to-178-milli.md) _2018-02-06 13:49:31 (Update)_
 2. [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 102 to 178 millimetres of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-102-to-178-millimetres-of-rain-overnight.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/04/22/argentina-claims-1700000-km2-of-the-world-ocean
 
 ### Changes:
 
-1. [ Argentina claims {{convert|1700000|km2|mi2}} of the World Ocean. ](/news/2009/04/22/argentina-claims-convert-1700000-km2-mi2-of-the-world-ocean.md) _2017-05-01 03:25:32 (First version)_
-2. [ Argentina claims 1700000|km2|mi2 of the World Ocean. ](/news/2009/04/22/argentina-claims-1700000-km2-mi2-of-the-world-ocean.md) _2017-08-29 03:24:30 (Update)_
+1. [ Argentina claims {{convert|1700000|km2|mi2}} of the World Ocean. ](/news/2009/04/22/argentina-claims-convert-1700000-km2-mi2-of-the-world-ocean.md) _2018-02-06 13:49:18 (First version)_
+2. [ Argentina claims 1700000|km2|mi2 of the World Ocean. ](/news/2009/04/22/argentina-claims-1700000-km2-mi2-of-the-world-ocean.md) _2018-02-06 13:49:18 (Update)_
 2. [ Argentina claims 1700000 km2 of the World Ocean. ](/news/2009/04/22/argentina-claims-1700000-km2-of-the-world-ocean.md) _(Current version)_
 
 ### Related:

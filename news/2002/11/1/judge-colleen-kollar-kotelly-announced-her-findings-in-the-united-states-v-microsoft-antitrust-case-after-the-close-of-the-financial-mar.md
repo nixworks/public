@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/11/1/judge-colleen-kollar-kotelly-announced-her-findi
 
 ### Changes:
 
-1. [ Judge Colleen Kollar-Kotelly announced her findings in the ''United States v. Microsoft'' antitrust case after the close of the financial markets.](/news/2002/11/1/judge-colleen-kollar-kotelly-announced-her-findings-in-the-united-states-v-microsoft-antitrust-case-after-the-close-of-the-financial-m.md) _2017-08-25 03:15:16 (First version)_
+1. [ Judge Colleen Kollar-Kotelly announced her findings in the ''United States v. Microsoft'' antitrust case after the close of the financial markets.](/news/2002/11/1/judge-colleen-kollar-kotelly-announced-her-findings-in-the-united-states-v-microsoft-antitrust-case-after-the-close-of-the-financial-m.md) _2018-02-06 13:49:15 (First version)_
 1. [ Judge Colleen Kollar-Kotelly announced her findings in the "United States v. Microsoft" antitrust case after the close of the financial markets.](/news/2002/11/1/judge-colleen-kollar-kotelly-announced-her-findings-in-the-united-states-v-microsoft-antitrust-case-after-the-close-of-the-financial-mar.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Google has been fined €145,000 by a German privacy regulator for the systemati
 
 ### Changes:
 
-1. [In Germany, a Hamburg court fines Google -145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _2017-08-27 03:38:39 (First version)_
+1. [In Germany, a Hamburg court fines Google -145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _2018-02-06 13:49:24 (First version)_
 1. [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _(Current version)_
 
 ### Related:

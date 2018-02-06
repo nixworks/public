@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million
 
 ### Changes:
 
-1. [Reacting on a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the scientific reviewing process. ](/news/2017/12/12/reacting-on-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md) _2017-12-12 18:30:08 (First version)_
+1. [Reacting on a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the scientific reviewing process. ](/news/2017/12/12/reacting-on-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md) _2018-02-06 13:49:31 (First version)_
 1. [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md) _(Current version)_
 
 ### Related:

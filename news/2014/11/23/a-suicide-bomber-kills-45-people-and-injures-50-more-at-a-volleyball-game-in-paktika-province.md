@@ -16,8 +16,8 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 
 ### Changes:
 
-1. [War in Afghanistan:A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/war-in-afghanistan-pa-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _2017-08-25 03:41:14 (First version)_
-2. [War in Afghanistan:: A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/war-in-afghanistan-a-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _2017-08-27 03:41:33 (Update)_
+1. [War in Afghanistan:A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/war-in-afghanistan-pa-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan:: A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/war-in-afghanistan-a-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. ](/news/2014/11/23/a-suicide-bomber-kills-45-people-and-injures-50-more-at-a-volleyball-game-in-paktika-province.md) _(Current version)_
 
 ### Related:

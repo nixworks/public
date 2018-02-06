@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-
 
 ### Changes:
 
-1. [United States-Venezuela relations: Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/united-states-venezuela-relations-venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-bara.md) _2017-08-27 03:45:12 (First version)_
+1. [United States-Venezuela relations: Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/united-states-venezuela-relations-venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-bara.md) _2018-02-06 13:49:28 (First version)_
 1. [Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-barack-obama-renewed-a-decree-imposing-sa.md) _(Current version)_
 
 ### Related:

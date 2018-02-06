@@ -16,7 +16,7 @@ Iraqi forces have launched an offensive to retake Ramadi from Islamic State mili
 
 ### Changes:
 
-1. [Iraqi Civil War, With the support of Combined Joint Task Force - Operation Inherent Resolve, Iraqi Armed Forces have launched operations to retake Ramadi from ISIL. ](/news/2015/11/30/iraqi-civil-war-with-the-support-of-combined-joint-task-force-a-operation-inherent-resolve-iraqi-armed-forces-have-launched-operations-t.md) _2017-08-25 03:43:47 (First version)_
+1. [Iraqi Civil War, With the support of Combined Joint Task Force - Operation Inherent Resolve, Iraqi Armed Forces have launched operations to retake Ramadi from ISIL. ](/news/2015/11/30/iraqi-civil-war-with-the-support-of-combined-joint-task-force-a-operation-inherent-resolve-iraqi-armed-forces-have-launched-operations-t.md) _2018-02-06 13:49:28 (First version)_
 1. [With the support of Combined Joint Task Force - Operation Inherent Resolve, Iraqi Armed Forces have launched operations to retake Ramadi from ISIL. ](/news/2015/11/30/with-the-support-of-combined-joint-task-force-a-operation-inherent-resolve-iraqi-armed-forces-have-launched-operations-to-retake-ramadi-f.md) _(Current version)_
 
 ### Related:

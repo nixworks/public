@@ -18,7 +18,7 @@ The United States shot down a pro-Syrian government drone that fired toward U.S.
 
 ### Changes:
 
-1. [American-led intervention in Syria: In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. ](/news/2017/06/8/american-led-intervention-in-syria-in-its-third-strike-near-the-town-of-al-tanf-in-recent-weeks-the-united-states-bombs-syrian-government.md) _2017-08-27 03:48:26 (First version)_
+1. [American-led intervention in Syria: In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. ](/news/2017/06/8/american-led-intervention-in-syria-in-its-third-strike-near-the-town-of-al-tanf-in-recent-weeks-the-united-states-bombs-syrian-government.md) _2018-02-06 13:49:30 (First version)_
 1. [In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. ](/news/2017/06/8/in-its-third-strike-near-the-town-of-al-tanf-in-recent-weeks-the-united-states-bombs-syrian-government-and-allied-troops-striking-two-out.md) _(Current version)_
 
 ### Related:

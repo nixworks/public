@@ -17,7 +17,7 @@ Democracy leader’s party will now be able to push through legislation, form a 
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Aung San Suu Kyi's National League for Democracy (NLD) wins an absolute majority with 348 seats taken in the country's parliament, 19 seats more than the required 329, marking Myanmar's first democratically-elected government since the 1962 Burmese coup d'etat. ](/news/2015/11/13/myanmar-general-election-2015-aung-san-suu-kyi-s-national-league-for-democracy-nld-wins-an-absolute-majority-with-348-seats-taken-in-the.md) _2017-08-27 03:43:50 (First version)_
+1. [Myanmar general election, 2015: Aung San Suu Kyi's National League for Democracy (NLD) wins an absolute majority with 348 seats taken in the country's parliament, 19 seats more than the required 329, marking Myanmar's first democratically-elected government since the 1962 Burmese coup d'etat. ](/news/2015/11/13/myanmar-general-election-2015-aung-san-suu-kyi-s-national-league-for-democracy-nld-wins-an-absolute-majority-with-348-seats-taken-in-the.md) _2018-02-06 13:49:28 (First version)_
 1. [Aung San Suu Kyi's National League for Democracy (NLD) wins an absolute majority with 348 seats taken in the country's parliament, 19 seats more than the required 329, marking Myanmar's first democratically-elected government since the 1962 Burmese coup d'etat. ](/news/2015/11/13/aung-san-suu-kyi-s-national-league-for-democracy-nld-wins-an-absolute-majority-with-348-seats-taken-in-the-country-s-parliament-19-seats.md) _(Current version)_
 
 ### Related:

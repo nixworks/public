@@ -16,7 +16,7 @@ Myanmar wants to rid the country of its Muslim minority, a senior UN official te
 
 ### Changes:
 
-1. [Rohingya conflict: A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/rohingya-conflict-a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _2017-08-27 03:47:18 (First version)_
+1. [Rohingya conflict: A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/rohingya-conflict-a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _2018-02-06 13:49:29 (First version)_
 1. [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/28/three-crew-members-are-missing-and-one-worker-i
 
 ### Changes:
 
-1. [Three crew members are missing and one worker is injured following the head-on collision of two BNSF Railway freight trains near the American town of Panhandle, Texas. Officials, concerned that flames from box car fires could cause a fast-moving grass fire, order an evacuation of some nearby areas. ](/news/2016/06/28/three-crew-members-are-missing-and-one-worker-is-injured-following-the-head-on-collision-of-two-bnsf-railway-freight-trains-near-the-americ.md) _2017-08-25 03:45:59 (First version)_
+1. [Three crew members are missing and one worker is injured following the head-on collision of two BNSF Railway freight trains near the American town of Panhandle, Texas. Officials, concerned that flames from box car fires could cause a fast-moving grass fire, order an evacuation of some nearby areas. ](/news/2016/06/28/three-crew-members-are-missing-and-one-worker-is-injured-following-the-head-on-collision-of-two-bnsf-railway-freight-trains-near-the-americ.md) _2018-02-06 13:49:29 (First version)_
 1. [Three crew members are missing and one worker is injured following the head-on collision of two BNSF Railway freight trains near the American town of Panhandle, Texas. Officials, concerned that flames from box car fires could cause a fast-moving grass fire, order an evacuation of some nearby areas. ](/news/2016/06/28/three-crew-members-are-missing-and-one-worker-is-injured-following-the-head-on-collision-of-two-bnsf-railway-freight-trains-near-the-america.md) _(Current version)_
 
 ### Related:

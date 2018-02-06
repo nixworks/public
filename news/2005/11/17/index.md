@@ -9,27 +9,27 @@ Amidst boycott by Tamils, Lanka elected Marxist-backed PM Mahinda Rajapakse as i
 
 ##### Conrad Black
 ### [ The press baron Conrad Black is charged with multiple counts of fraud regarding his dealings with Hollinger International. ](/news/2005/11/17/the-press-baron-conrad-black-is-charged-with-multiple-counts-of-fraud-regarding-his-dealings-with-hollinger-international.md)
-_Context: Conrad Black, Hollinger International, fraud_
+_Context: fraud, Conrad Black, Hollinger International_
 
 ##### David Irving
 ### [ English writer David Irving is arrested in Vienna on charges of denying the Holocaust, a criminal offence in Austria. ](/news/2005/11/17/english-writer-david-irving-is-arrested-in-vienna-on-charges-of-denying-the-holocaust-a-criminal-offence-in-austria.md)
-_Context: Vienna, David Irving, Holocaust denial, Austria_
+_Context: David Irving, Vienna, Holocaust denial, Austria_
 
 ##### Rock and roll
 ### [ Former rock star Gary Glitter, previously convicted on child pornography charges, is being sought by Vietnamese authorities who seek to question him about under-age sex allegations. ](/news/2005/11/17/former-rock-star-gary-glitter-previously-convicted-on-child-pornography-charges-is-being-sought-by-vietnamese-authorities-who-seek-to-que.md)
-_Context: Rock and roll, child pornography, Vietnam, Gary Glitter_
+_Context: Gary Glitter, child pornography, Rock and roll, Vietnam_
 
 ##### Archbishop of Canterbury
 ### [ The Archbishop of Canterbury Rowan Williams, the leader of the world-wide Anglican Communion, is challenged to rethink his personal stance on the ordination of gay clergy in the light of scripture by nearly half of all the Anglican Primates. ](/news/2005/11/17/the-archbishop-of-canterbury-rowan-williams-the-leader-of-the-world-wide-anglican-communion-is-challenged-to-rethink-his-personal-stance.md)
-_Context: homosexuality, scripture, ordained, Primate, Archbishop of Canterbury, clergy, Rowan Williams, Anglican Communion_
+_Context: Anglican Communion, ordained, scripture, Primate, homosexuality, Archbishop of Canterbury, clergy, Rowan Williams_
 
 ##### French Police
 ### [ French Police declare a "return to normalcy throughout France" as civil unrest subsides. ](/news/2005/11/17/french-police-declare-a-return-to-normalcy-throughout-france-as-civil-unrest-subsides.md)
-_Context: French Police, civil unrest_
+_Context: civil unrest, French Police_
 
-##### British
+##### United Kingdom
 ### [ British Secretary of State for Education Ruth Kelly promises that student selection will not return to schools. ](/news/2005/11/17/british-secretary-of-state-for-education-ruth-kelly-promises-that-student-selection-will-not-return-to-schools.md)
-_Context: Secretary of State for Education, British, Ruth Kelly, student selection_
+_Context: student selection, Secretary of State for Education, Ruth Kelly, United Kingdom_
 
 ##### European Parliament
 ### [ Members of the European Parliament pass an item of controversial chemical safety testing legislation, known as the Registration, Evaluation and Authorization of Chemicals (REACH) law. ](/news/2005/11/17/members-of-the-european-parliament-pass-an-item-of-controversial-chemical-safety-testing-legislation-known-as-the-registration-evaluation.md)

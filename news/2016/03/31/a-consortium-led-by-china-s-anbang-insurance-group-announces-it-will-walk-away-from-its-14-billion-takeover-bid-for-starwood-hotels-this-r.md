@@ -17,7 +17,7 @@ A group led by China’s Anbang Insurance Group Co. withdrew its $14 billion tak
 
 ### Changes:
 
-1. [A consortium led by China's Anbang Insurance Group announces it will walk away from its $14 billion takeover bid for Starwood Hotels. This restores Marriott International as the highest bidder ($13.6 billion). ](/news/2016/03/31/a-consortium-led-by-china-s-anbang-insurance-group-announces-it-will-walk-away-from-its-14-billion-takeover-bid-for-starwood-hotels-this.md) _2017-08-25 03:45:05 (First version)_
+1. [A consortium led by China's Anbang Insurance Group announces it will walk away from its $14 billion takeover bid for Starwood Hotels. This restores Marriott International as the highest bidder ($13.6 billion). ](/news/2016/03/31/a-consortium-led-by-china-s-anbang-insurance-group-announces-it-will-walk-away-from-its-14-billion-takeover-bid-for-starwood-hotels-this.md) _2018-02-06 13:49:28 (First version)_
 1. [A consortium led by China's Anbang Insurance Group announces it will walk away from its $14 billion takeover bid for Starwood Hotels. This restores Marriott International as the highest bidder ($13.6 billion). ](/news/2016/03/31/a-consortium-led-by-china-s-anbang-insurance-group-announces-it-will-walk-away-from-its-14-billion-takeover-bid-for-starwood-hotels-this-r.md) _(Current version)_
 
 ### Related:

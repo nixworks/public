@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/20/the-senate-judiciary-committee-begins-hearings-
 
 ### Changes:
 
-1. [Neil Gorsuch Supreme Court nomination: The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/neil-gorsuch-supreme-court-nomination-the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supr.md) _2017-08-27 03:48:00 (First version)_
+1. [Neil Gorsuch Supreme Court nomination: The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/neil-gorsuch-supreme-court-nomination-the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supr.md) _2018-02-06 13:49:30 (First version)_
 1. [The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supreme-court-of-the-united-states.md) _(Current version)_
 
 ### Related:

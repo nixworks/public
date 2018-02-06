@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/03/16/the-australian-government-announces-that-the-wr
 
 ### Changes:
 
-1. [ The Australian Government announces that the wreck of the German auxiliary cruiser ''Kormoran'' has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-aus.md) _2017-08-25 03:21:55 (First version)_
+1. [ The Australian Government announces that the wreck of the German auxiliary cruiser ''Kormoran'' has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-aus.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Australian Government announces that the wreck of the German auxiliary cruiser "Kormoran" has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-austr.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan
 
 ### Changes:
 
-1. [ Libyan leader Muammar al-Gaddafi and Venezuelan President Hugo Chavez sign eight accords in Caracas following the weekend's second ASA summit. ](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan-president-hugo-cha-vez-sign-eight-accords-in-caracas-following-the-weekend-s-second-asa-su.md) _2017-08-25 03:25:54 (First version)_
+1. [ Libyan leader Muammar al-Gaddafi and Venezuelan President Hugo Chavez sign eight accords in Caracas following the weekend's second ASA summit. ](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan-president-hugo-cha-vez-sign-eight-accords-in-caracas-following-the-weekend-s-second-asa-su.md) _2018-02-06 13:49:19 (First version)_
 1. [ Libyan leader Muammar al-Gaddafi and Venezuelan President Hugo Chavez sign eight accords in Caracas following the weekend's second ASA summit. ](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan-president-hugo-cha-vez-sign-eight-accords-in-caracas-following-the-weekend-s-second-asa-sum.md) _(Current version)_
 
 ### Related:

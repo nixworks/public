@@ -17,8 +17,8 @@ The biggest march scheduled during the APEC summit has ended in central Sydney w
 
 ### Changes:
 
-1. [ Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction-in-g.md) _2017-08-25 03:20:54 (First version)_
-2. [ APEC: Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/apec-leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction.md) _2017-08-27 03:20:51 (Update)_
+1. [ Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction-in-g.md) _2018-02-06 13:49:18 (First version)_
+2. [ APEC: Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/apec-leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction.md) _2018-02-06 13:49:18 (Update)_
 2. [ Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction-in-gr.md) _(Current version)_
 
 ### Related:

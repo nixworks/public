@@ -16,7 +16,7 @@ The public is questioning the legitimacy of a qualification process so narrow th
 
 ### Changes:
 
-1. [Halimah Yacob is appointed as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _2017-09-13 16:30:05 (First version)_
+1. [Halimah Yacob is appointed as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _2018-02-06 13:49:31 (First version)_
 1. [Halimah Yacob is elected as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-elected-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _(Current version)_
 
 ### Related:

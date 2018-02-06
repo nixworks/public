@@ -15,7 +15,7 @@ South Korean and US officials say they have detected a failed missile launch att
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: According to South Korean and United States officials, a missile test in North Korea ends in failure, with the missile exploding seconds after launch. ](/news/2017/03/22/north-korea-and-weapons-of-mass-destruction-according-to-south-korean-and-united-states-officials-a-missile-test-in-north-korea-ends-in-fa.md) _2017-08-27 03:48:01 (First version)_
+1. [North Korea and weapons of mass destruction: According to South Korean and United States officials, a missile test in North Korea ends in failure, with the missile exploding seconds after launch. ](/news/2017/03/22/north-korea-and-weapons-of-mass-destruction-according-to-south-korean-and-united-states-officials-a-missile-test-in-north-korea-ends-in-fa.md) _2018-02-06 13:49:30 (First version)_
 1. [According to South Korean and United States officials, a missile test in North Korea ends in failure, with the missile exploding seconds after launch. ](/news/2017/03/22/according-to-south-korean-and-united-states-officials-a-missile-test-in-north-korea-ends-in-failure-with-the-missile-exploding-seconds-aft.md) _(Current version)_
 
 ### Related:

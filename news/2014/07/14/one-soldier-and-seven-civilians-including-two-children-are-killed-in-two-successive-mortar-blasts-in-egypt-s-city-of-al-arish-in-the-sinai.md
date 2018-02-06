@@ -16,8 +16,8 @@ Sinai is facing a series of terrorist attacks by Islamists since the ouster of e
 
 ### Changes:
 
-1. [Sinai insurgency:One soldier and seven civilians, including two children, are killed in two successive mortar blasts in Egypt's city of Al-Arish in the Sinai Peninsula. ](/news/2014/07/14/sinai-insurgency-pone-soldier-and-seven-civilians-including-two-children-are-killed-in-two-successive-mortar-blasts-in-egypt-s-city-of-al.md) _2017-08-25 03:40:40 (First version)_
-2. [Sinai insurgency:: One soldier and seven civilians, including two children, are killed in two successive mortar blasts in Egypt's city of Al-Arish in the Sinai Peninsula. ](/news/2014/07/14/sinai-insurgency-one-soldier-and-seven-civilians-including-two-children-are-killed-in-two-successive-mortar-blasts-in-egypt-s-city-of-al.md) _2017-08-27 03:40:58 (Update)_
+1. [Sinai insurgency:One soldier and seven civilians, including two children, are killed in two successive mortar blasts in Egypt's city of Al-Arish in the Sinai Peninsula. ](/news/2014/07/14/sinai-insurgency-pone-soldier-and-seven-civilians-including-two-children-are-killed-in-two-successive-mortar-blasts-in-egypt-s-city-of-al.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinai insurgency:: One soldier and seven civilians, including two children, are killed in two successive mortar blasts in Egypt's city of Al-Arish in the Sinai Peninsula. ](/news/2014/07/14/sinai-insurgency-one-soldier-and-seven-civilians-including-two-children-are-killed-in-two-successive-mortar-blasts-in-egypt-s-city-of-al.md) _2018-02-06 13:49:26 (Update)_
 2. [One soldier and seven civilians, including two children, are killed in two successive mortar blasts in Egypt's city of Al-Arish in the Sinai Peninsula. ](/news/2014/07/14/one-soldier-and-seven-civilians-including-two-children-are-killed-in-two-successive-mortar-blasts-in-egypt-s-city-of-al-arish-in-the-sinai.md) _(Current version)_
 
 ### Related:

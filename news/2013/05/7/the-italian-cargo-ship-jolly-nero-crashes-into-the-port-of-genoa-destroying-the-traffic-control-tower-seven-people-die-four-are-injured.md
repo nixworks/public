@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-t
 
 ### Changes:
 
-1. [The Italian cargo ship ''Jolly Nero'' crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injur.md) _2017-08-25 03:38:35 (First version)_
+1. [The Italian cargo ship ''Jolly Nero'' crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injur.md) _2018-02-06 13:49:25 (First version)_
 1. [The Italian cargo ship "Jolly Nero" crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injured.md) _(Current version)_
 
 ### Related:

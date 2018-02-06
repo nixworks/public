@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunma
 
 ### Changes:
 
-1. [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-college-north-harris-in-houston-texas.md) _2017-08-27 03:37:29 (First version)_
+1. [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-college-north-harris-in-houston-texas.md) _2018-02-06 13:49:24 (First version)_
 1. [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-collegeanorth-harris-in-houston-texas.md) _(Current version)_
 
 ### Related:

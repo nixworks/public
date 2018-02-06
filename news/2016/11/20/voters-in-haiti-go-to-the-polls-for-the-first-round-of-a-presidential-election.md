@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/20/voters-in-haiti-go-to-the-polls-for-the-first-r
 
 ### Changes:
 
-1. [Haitian presidential election, 2016-17: Voters in Haiti go to the polls for the first round of a presidential election. ](/news/2016/11/20/haitian-presidential-election-2016-17-voters-in-haiti-go-to-the-polls-for-the-first-round-of-a-presidential-election.md) _2017-08-27 03:47:16 (First version)_
+1. [Haitian presidential election, 2016-17: Voters in Haiti go to the polls for the first round of a presidential election. ](/news/2016/11/20/haitian-presidential-election-2016-17-voters-in-haiti-go-to-the-polls-for-the-first-round-of-a-presidential-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Haiti go to the polls for the first round of a presidential election. ](/news/2016/11/20/voters-in-haiti-go-to-the-polls-for-the-first-round-of-a-presidential-election.md) _(Current version)_
 
 ### Related:

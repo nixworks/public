@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/02/21/a-car-bomb-attack-in-somalia-kills-13-people.ht
 
 ### Changes:
 
-1. [Situation in Somalia:A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-pa-car-bomb-attack-in-somalia-kills-13-people.md) _2017-08-25 03:32:18 (First version)_
-2. [Situation in Somalia:: A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-a-car-bomb-attack-in-somalia-kills-13-people.md) _2017-08-27 03:32:26 (Update)_
+1. [Situation in Somalia:A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-pa-car-bomb-attack-in-somalia-kills-13-people.md) _2018-02-06 13:49:22 (First version)_
+2. [Situation in Somalia:: A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-a-car-bomb-attack-in-somalia-kills-13-people.md) _2018-02-06 13:49:22 (Update)_
 2. [A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/a-car-bomb-attack-in-somalia-kills-13-people.md) _(Current version)_
 
 ### Related:

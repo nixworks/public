@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/03/10/syrian-uprising-at-least-45-women-and-children-
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/arab-spring-psyrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president.md) _2017-08-25 03:35:15 (First version)_
-2. [Arab Spring:: Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/arab-spring-syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-presiden.md) _2017-08-27 03:35:24 (Update)_
+1. [Arab Spring:: Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/arab-spring-syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-presiden.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/arab-spring-psyrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president-bashar-al-as.md) _(Current version)_
 
 ### Related:

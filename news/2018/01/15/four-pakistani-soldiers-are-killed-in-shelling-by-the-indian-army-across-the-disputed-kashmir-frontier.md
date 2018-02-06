@@ -16,7 +16,7 @@ Four Pakistani soldiers were killed on Monday in shelling by Indian forces in th
 
 ### Changes:
 
-1. [Four Pakistani soldiers killed in Indian fire across tense Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-killed-in-indian-fire-across-tense-kashmir-frontier.md) _2018-01-15 15:30:05 (First version)_
+1. [Four Pakistani soldiers killed in Indian fire across tense Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-killed-in-indian-fire-across-tense-kashmir-frontier.md) _2018-02-06 13:49:31 (First version)_
 1. [Four Pakistani soldiers are killed in shelling by the Indian Army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md) _(Current version)_
 
 ### Related:

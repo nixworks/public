@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armita
 
 ### Changes:
 
-1. [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of ''Coronation Street'' are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-f.md) _2017-08-25 03:35:57 (First version)_
+1. [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of ''Coronation Street'' are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-f.md) _2018-02-06 13:49:23 (First version)_
 1. [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of "Coronation Street" are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-for.md) _(Current version)_
 
 ### Related:

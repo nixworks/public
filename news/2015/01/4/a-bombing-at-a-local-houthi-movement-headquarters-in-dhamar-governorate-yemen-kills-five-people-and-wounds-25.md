@@ -16,8 +16,8 @@ Yemeni security officials say unknown assailants have attacked Houthis south of 
 
 ### Changes:
 
-1. [Shia insurgency in Yemen:A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/shia-insurgency-in-yemen-pa-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md) _2017-08-25 03:41:25 (First version)_
-2. [Shia insurgency in Yemen:: A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/shia-insurgency-in-yemen-a-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md) _2017-08-27 03:41:43 (Update)_
+1. [Shia insurgency in Yemen:A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/shia-insurgency-in-yemen-pa-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md) _2018-02-06 13:49:26 (First version)_
+2. [Shia insurgency in Yemen:: A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/shia-insurgency-in-yemen-a-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md) _2018-02-06 13:49:26 (Update)_
 2. [A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/a-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md) _(Current version)_
 
 ### Related:

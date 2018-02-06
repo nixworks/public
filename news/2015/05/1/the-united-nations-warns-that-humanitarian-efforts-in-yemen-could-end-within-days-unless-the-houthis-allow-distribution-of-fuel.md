@@ -16,7 +16,7 @@ UN agency calls on Houthis to release fuel supplies, saying it needs 200,000 lit
 
 ### Changes:
 
-1. [Yemeni Civil War: The United Nations warns that humanitarian efforts in Yemen could end within days unless the Houthis allow distribution of fuel. ](/news/2015/05/1/yemeni-civil-war-the-united-nations-warns-that-humanitarian-efforts-in-yemen-could-end-within-days-unless-the-houthis-allow-distribution-of.md) _2017-08-27 03:42:15 (First version)_
+1. [Yemeni Civil War: The United Nations warns that humanitarian efforts in Yemen could end within days unless the Houthis allow distribution of fuel. ](/news/2015/05/1/yemeni-civil-war-the-united-nations-warns-that-humanitarian-efforts-in-yemen-could-end-within-days-unless-the-houthis-allow-distribution-of.md) _2018-02-06 13:49:27 (First version)_
 1. [The United Nations warns that humanitarian efforts in Yemen could end within days unless the Houthis allow distribution of fuel. ](/news/2015/05/1/the-united-nations-warns-that-humanitarian-efforts-in-yemen-could-end-within-days-unless-the-houthis-allow-distribution-of-fuel.md) _(Current version)_
 
 ### Related:

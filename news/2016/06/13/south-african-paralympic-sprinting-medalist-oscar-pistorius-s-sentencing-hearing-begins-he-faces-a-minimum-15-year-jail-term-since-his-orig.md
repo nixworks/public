@@ -17,7 +17,7 @@ Oscar Pistorius is a &quot;broken&quot; man who should not be jailed for the mur
 
 ### Changes:
 
-1. [Trial of Oscar Pistorius: South African Paralympic sprinting medalist Oscar Pistorius's sentencing hearing begins. He faces a minimum 15-year jail term since his original manslaughter charge for the 2013 killing of Reeva Steenkamp has been upgraded to murder. The hearing is set to last for five days. ](/news/2016/06/13/trial-of-oscar-pistorius-south-african-paralympic-sprinting-medalist-oscar-pistorius-s-sentencing-hearing-begins-he-faces-a-minimum-15-yea.md) _2017-08-27 03:46:15 (First version)_
+1. [Trial of Oscar Pistorius: South African Paralympic sprinting medalist Oscar Pistorius's sentencing hearing begins. He faces a minimum 15-year jail term since his original manslaughter charge for the 2013 killing of Reeva Steenkamp has been upgraded to murder. The hearing is set to last for five days. ](/news/2016/06/13/trial-of-oscar-pistorius-south-african-paralympic-sprinting-medalist-oscar-pistorius-s-sentencing-hearing-begins-he-faces-a-minimum-15-yea.md) _2018-02-06 13:49:29 (First version)_
 1. [South African Paralympic sprinting medalist Oscar Pistorius's sentencing hearing begins. He faces a minimum 15-year jail term since his original manslaughter charge for the 2013 killing of Reeva Steenkamp has been upgraded to murder. The hearing is set to last for five days. ](/news/2016/06/13/south-african-paralympic-sprinting-medalist-oscar-pistorius-s-sentencing-hearing-begins-he-faces-a-minimum-15-year-jail-term-since-his-orig.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/01/9/arabaisraeli-conflict-a-french-officer-working-f
 
 ### Changes:
 
-1. [ Arab-Israeli conflict: A French officer, working for the United Nations, is killed by shelling in the disputed Shebaa Farms area of Southern Lebanon. Israeli planes and artillery had been firing on suspected Hezbollah positions in the area in retaliation for Hezbollah's attack which killed an Israeli officer. ](/news/2005/01/9/arab-israeli-conflict-a-french-officer-working-for-the-united-nations-is-killed-by-shelling-in-the-disputed-shebaa-farms-area-of-south.md) _2017-08-27 03:15:31 (First version)_
+1. [ Arab-Israeli conflict: A French officer, working for the United Nations, is killed by shelling in the disputed Shebaa Farms area of Southern Lebanon. Israeli planes and artillery had been firing on suspected Hezbollah positions in the area in retaliation for Hezbollah's attack which killed an Israeli officer. ](/news/2005/01/9/arab-israeli-conflict-a-french-officer-working-for-the-united-nations-is-killed-by-shelling-in-the-disputed-shebaa-farms-area-of-south.md) _2018-02-06 13:49:16 (First version)_
 1. [ Arab-Israeli conflict: A French officer, working for the United Nations, is killed by shelling in the disputed Shebaa Farms area of Southern Lebanon. Israeli planes and artillery had been firing on suspected Hezbollah positions in the area in retaliation for Hezbollah's attack which killed an Israeli officer. ](/news/2005/01/9/arabaisraeli-conflict-a-french-officer-working-for-the-united-nations-is-killed-by-shelling-in-the-disputed-shebaa-farms-area-of-south.md) _(Current version)_
 
 ### Related:

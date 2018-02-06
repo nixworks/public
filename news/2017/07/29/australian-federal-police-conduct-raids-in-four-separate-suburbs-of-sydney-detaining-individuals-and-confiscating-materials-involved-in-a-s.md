@@ -16,8 +16,8 @@ Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks
 
 ### Changes:
 
-1. [Australian federal police conduct raids in four separate suburbs of Sydney detaining individuals and confiscating materials in a suspected plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-in-a-suspected-p.md) _2017-07-30 03:49:41 (First version)_
-2. [Australian federal police conduct raids in four separate suburbs of Sydney detaining individuals and confiscating materials in a suspected Islamic plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-in-a-suspected-i.md) _2017-07-30 06:30:05 (Update)_
+1. [Australian federal police conduct raids in four separate suburbs of Sydney detaining individuals and confiscating materials in a suspected plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-in-a-suspected-p.md) _2018-02-06 13:49:31 (First version)_
+2. [Australian federal police conduct raids in four separate suburbs of Sydney detaining individuals and confiscating materials in a suspected Islamic plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-in-a-suspected-i.md) _2018-02-06 13:49:31 (Update)_
 2. [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/03/6/egyptian-interior-minister-magdy-abdel-ghaffar-a
 
 ### Changes:
 
-1. [Egyptian interior minister Magdy Abdel-Ghaffar accuses Hamas and the Egyptian Muslim Brotherhood in the June 2015 assassination of Attorney General Hisham Barakat. ](/news/2016/03/6/egyptian-interior-minister-magdy-abdel-ghaffar-accuses-hamas-and-the-egyptian-muslim-brotherhood-in-the-june-2015-assassination-of-attorne.md) _2017-08-25 03:44:47 (First version)_
+1. [Egyptian interior minister Magdy Abdel-Ghaffar accuses Hamas and the Egyptian Muslim Brotherhood in the June 2015 assassination of Attorney General Hisham Barakat. ](/news/2016/03/6/egyptian-interior-minister-magdy-abdel-ghaffar-accuses-hamas-and-the-egyptian-muslim-brotherhood-in-the-june-2015-assassination-of-attorne.md) _2018-02-06 13:49:28 (First version)_
 1. [Egyptian interior minister Magdy Abdel-Ghaffar accuses Hamas and the Egyptian Muslim Brotherhood in the June 2015 assassination of Attorney General Hisham Barakat. ](/news/2016/03/6/egyptian-interior-minister-magdy-abdel-ghaffar-accuses-hamas-and-the-egyptian-muslim-brotherhood-in-the-june-2015-assassination-of-attorney.md) _(Current version)_
 
 ### Related:

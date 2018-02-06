@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-ba
 
 ### Changes:
 
-1. [ Somali Civil War: Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/somali-civil-war-al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-s.md) _2017-08-27 03:42:36 (First version)_
+1. [ Somali Civil War: Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/somali-civil-war-al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-s.md) _2018-02-06 13:49:27 (First version)_
 1. [Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md) _(Current version)_
 
 ### Related:

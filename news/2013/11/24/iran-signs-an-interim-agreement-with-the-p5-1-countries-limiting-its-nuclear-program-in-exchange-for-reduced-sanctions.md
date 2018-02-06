@@ -18,8 +18,8 @@ Iran agrees to halt some of its work on uranium enrichment for six months, as pa
 
 ### Changes:
 
-1. [Nuclear program of Iran:Iran signs an interim agreement with the P5+1 countries limiting its nuclear program in exchange for reduced sanctions. ](/news/2013/11/24/nuclear-program-of-iran-piran-signs-an-interim-agreement-with-the-p5-1-countries-limiting-its-nuclear-program-in-exchange-for-reduced-sancti.md) _2017-08-25 03:39:35 (First version)_
-2. [Nuclear program of Iran:: Iran signs an interim agreement with the P5+1 countries limiting its nuclear program in exchange for reduced sanctions. ](/news/2013/11/24/nuclear-program-of-iran-iran-signs-an-interim-agreement-with-the-p5-1-countries-limiting-its-nuclear-program-in-exchange-for-reduced-sanct.md) _2017-08-27 03:39:53 (Update)_
+1. [Nuclear program of Iran:Iran signs an interim agreement with the P5+1 countries limiting its nuclear program in exchange for reduced sanctions. ](/news/2013/11/24/nuclear-program-of-iran-piran-signs-an-interim-agreement-with-the-p5-1-countries-limiting-its-nuclear-program-in-exchange-for-reduced-sancti.md) _2018-02-06 13:49:25 (First version)_
+2. [Nuclear program of Iran:: Iran signs an interim agreement with the P5+1 countries limiting its nuclear program in exchange for reduced sanctions. ](/news/2013/11/24/nuclear-program-of-iran-iran-signs-an-interim-agreement-with-the-p5-1-countries-limiting-its-nuclear-program-in-exchange-for-reduced-sanct.md) _2018-02-06 13:49:25 (Update)_
 2. [Iran signs an interim agreement with the P5+1 countries limiting its nuclear program in exchange for reduced sanctions. ](/news/2013/11/24/iran-signs-an-interim-agreement-with-the-p5-1-countries-limiting-its-nuclear-program-in-exchange-for-reduced-sanctions.md) _(Current version)_
 
 ### Related:

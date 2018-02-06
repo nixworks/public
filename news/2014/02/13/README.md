@@ -9,7 +9,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ##### policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: suicide bomb, policemen, Karachi_
+_Context: policemen, Karachi, suicide bomb_
 
 ##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
@@ -17,7 +17,7 @@ _Context: United States_
 
 ##### Typhoon Haiyan (Yolanda)
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
-_Context: footballer, Typhoon Haiyan (Yolanda), David Beckham_
+_Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
 
 ##### Luxor
 ### [Archaeologists unearth a painted, human-shaped sarcophagus that's 3,600 years old -- with a mummy still inside in Luxor, Egypt. ](/news/2014/02/13/archaeologists-unearth-a-painted-human-shaped-sarcophagus-that-s-3-600-years-old-with-a-mummy-still-inside-in-luxor-egypt.md)
@@ -25,7 +25,7 @@ _Context: Luxor_
 
 ##### Comcast
 ### [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md)
-_Context: United States dollars, Time Warner Cable, Comcast_
+_Context: Comcast, United States dollars, Time Warner Cable_
 
 ##### Reuters
 ### [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md)
@@ -61,7 +61,7 @@ Belgian lawmakers voted overwhelmingly on Thursday to extend the country&#039;s 
 
 ##### India
 ### [Lawmakers riot in the lower house of India's parliament in protest of a plan creating the state of Telangana. ](/news/2014/02/13/lawmakers-riot-in-the-lower-house-of-india-s-parliament-in-protest-of-a-plan-creating-the-state-of-telangana.md)
-_Context: India, Telangana_
+_Context: Telangana, India_
 
 ##### Venezuela
 ### [Venezuelan President Nicolas Maduro arrests opposition activists in reaction to an "attempted coup" against his government. ](/news/2014/02/13/venezuelan-president-nicola-s-maduro-arrests-opposition-activists-in-reaction-to-an-attempted-coup-against-his-government.md)

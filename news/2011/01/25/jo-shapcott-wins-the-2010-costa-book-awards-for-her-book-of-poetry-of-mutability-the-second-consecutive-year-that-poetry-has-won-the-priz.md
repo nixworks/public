@@ -16,7 +16,7 @@ A book of poetry inspired in part by the writer&rsquo;s experience of breast can
 
 ### Changes:
 
-1. [Jo Shapcott wins the 2010 Costa Book Awards for her book of poetry ''Of Mutability'', the second consecutive year that poetry has won the prize. ](/news/2011/01/25/jo-shapcott-wins-the-2010-costa-book-awards-for-her-book-of-poetry-of-mutability-the-second-consecutive-year-that-poetry-has-won-the-pr.md) _2017-08-25 03:31:56 (First version)_
+1. [Jo Shapcott wins the 2010 Costa Book Awards for her book of poetry ''Of Mutability'', the second consecutive year that poetry has won the prize. ](/news/2011/01/25/jo-shapcott-wins-the-2010-costa-book-awards-for-her-book-of-poetry-of-mutability-the-second-consecutive-year-that-poetry-has-won-the-pr.md) _2018-02-06 13:49:21 (First version)_
 1. [Jo Shapcott wins the 2010 Costa Book Awards for her book of poetry "Of Mutability", the second consecutive year that poetry has won the prize. ](/news/2011/01/25/jo-shapcott-wins-the-2010-costa-book-awards-for-her-book-of-poetry-of-mutability-the-second-consecutive-year-that-poetry-has-won-the-priz.md) _(Current version)_
 
 ### Related:

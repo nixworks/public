@@ -16,8 +16,8 @@ Rebels in the Central AfricanRepublic on Sunday seized the town of Bambari, the 
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/2012-central-african-republic-rebellion-pthe-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of.md) _2017-08-25 03:37:06 (First version)_
-2. [2012 Central African Republic rebellion:: The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/2012-central-african-republic-rebellion-the-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of.md) _2017-08-27 03:37:17 (Update)_
+1. [2012 Central African Republic rebellion:: The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/2012-central-african-republic-rebellion-the-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/2012-central-african-republic-rebellion-pthe-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of.md) _2018-02-06 13:49:24 (Update)_
 2. [The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/the-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of-similar-successes-in-recent-weeks.md) _(Current version)_
 
 ### Related:

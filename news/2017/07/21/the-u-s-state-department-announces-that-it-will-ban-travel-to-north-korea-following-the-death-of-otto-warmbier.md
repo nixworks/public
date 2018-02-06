@@ -16,7 +16,7 @@ U.S. citizens will be banned from traveling to North Korea after Trump action
 
 ### Changes:
 
-1. [North Korea-United States relations: The U.S. State Department announces that it will ban travel to North Korea, following the death of Otto Warmbier. ](/news/2017/07/21/north-korea-united-states-relations-the-u-s-state-department-announces-that-it-will-ban-travel-to-north-korea-following-the-death-of-ot.md) _2017-08-27 03:48:41 (First version)_
+1. [North Korea-United States relations: The U.S. State Department announces that it will ban travel to North Korea, following the death of Otto Warmbier. ](/news/2017/07/21/north-korea-united-states-relations-the-u-s-state-department-announces-that-it-will-ban-travel-to-north-korea-following-the-death-of-ot.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. State Department announces that it will ban travel to North Korea, following the death of Otto Warmbier. ](/news/2017/07/21/the-u-s-state-department-announces-that-it-will-ban-travel-to-north-korea-following-the-death-of-otto-warmbier.md) _(Current version)_
 
 ### Related:

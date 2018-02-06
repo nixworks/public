@@ -16,8 +16,8 @@ Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, sa
 
 ### Changes:
 
-1. [An influential member of the Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/an-influential-member-of-the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace.md) _2017-12-12 21:30:07 (First version)_
-2. [The Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace-talks.md) _2017-12-12 22:30:08 (Update)_
+1. [The Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace-talks.md) _2018-02-06 13:49:31 (First version)_
+2. [An influential member of the Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/an-influential-member-of-the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace.md) _2018-02-06 13:49:31 (Update)_
 2. [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md) _(Current version)_
 
 ### Related:

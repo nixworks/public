@@ -16,7 +16,7 @@ Three of the biggest managers of U.S. money market funds said on Wednesday they 
 
 ### Changes:
 
-1. [Three of the largest managers of U.S.-based money market funds announce a change of policy toward greater transparency - they will give daily rather than monthly data on fund assets. ](/news/2013/01/23/three-of-the-largest-managers-of-u-s-based-money-market-funds-announce-a-change-of-policy-toward-greater-transparency-they-will-give-da.md) _2017-08-27 03:37:29 (First version)_
+1. [Three of the largest managers of U.S.-based money market funds announce a change of policy toward greater transparency - they will give daily rather than monthly data on fund assets. ](/news/2013/01/23/three-of-the-largest-managers-of-u-s-based-money-market-funds-announce-a-change-of-policy-toward-greater-transparency-they-will-give-da.md) _2018-02-06 13:49:24 (First version)_
 1. [Three of the largest managers of U.S.-based money market funds announce a change of policy toward greater transparency - they will give daily rather than monthly data on fund assets. ](/news/2013/01/23/three-of-the-largest-managers-of-u-s-based-money-market-funds-announce-a-change-of-policy-toward-greater-transparency-a-they-will-give-da.md) _(Current version)_
 
 ### Related:

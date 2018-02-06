@@ -16,7 +16,7 @@ The United States warned on Tuesday it would consider &quot;other&quot; options,
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/north-korea-and-weapons-of-mass-destruction-according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launc.md) _2017-08-27 03:45:51 (First version)_
+1. [North Korea and weapons of mass destruction: According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/north-korea-and-weapons-of-mass-destruction-according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launc.md) _2018-02-06 13:49:28 (First version)_
 1. [According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launch-of-an-intermediate-range-ballistic-missile.md) _(Current version)_
 
 ### Related:

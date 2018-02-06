@@ -19,7 +19,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [2009 United Nations Climate Change Conference: Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/2009-united-nations-climate-change-conference-danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demo.md) _2017-08-27 03:26:27 (First version)_
+1. [2009 United Nations Climate Change Conference: Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/2009-united-nations-climate-change-conference-danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demo.md) _2018-02-06 13:49:19 (First version)_
 1. [ Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demonstrations-at-the-united-nations-climate-chang.md) _(Current version)_
 
 ### Related:

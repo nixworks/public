@@ -15,7 +15,7 @@ At least 10 soldiers killed after a coordinated assault on an army base southwes
 
 ### Changes:
 
-1. [War in Somalia: At least 10 Somali Armed Forces soldiers and 12 Al-Shabaab militants are killed in fighting near the town of Afgooye, Lower Shabelle. ](/news/2016/07/11/war-in-somalia-at-least-10-somali-armed-forces-soldiers-and-12-al-shabaab-militants-are-killed-in-fighting-near-the-town-of-afgooye-lower.md) _2017-08-27 03:46:28 (First version)_
+1. [War in Somalia: At least 10 Somali Armed Forces soldiers and 12 Al-Shabaab militants are killed in fighting near the town of Afgooye, Lower Shabelle. ](/news/2016/07/11/war-in-somalia-at-least-10-somali-armed-forces-soldiers-and-12-al-shabaab-militants-are-killed-in-fighting-near-the-town-of-afgooye-lower.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 10 Somali Armed Forces soldiers and 12 Al-Shabaab militants are killed in fighting near the town of Afgooye, Lower Shabelle. ](/news/2016/07/11/at-least-10-somali-armed-forces-soldiers-and-12-al-shabaab-militants-are-killed-in-fighting-near-the-town-of-afgooye-lower-shabelle.md) _(Current version)_
 
 ### Related:

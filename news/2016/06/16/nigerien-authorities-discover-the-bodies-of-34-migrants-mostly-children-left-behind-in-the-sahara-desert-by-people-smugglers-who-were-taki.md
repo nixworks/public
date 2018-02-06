@@ -16,7 +16,7 @@ Five men, nine women and 20 children abandoned by people smugglers die while try
 
 ### Changes:
 
-1. [European migrant crisis: Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/european-migrant-crisis-nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-peopl.md) _2017-08-27 03:46:16 (First version)_
+1. [European migrant crisis: Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/european-migrant-crisis-nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-peopl.md) _2018-02-06 13:49:29 (First version)_
 1. [Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-people-smugglers-who-were-taki.md) _(Current version)_
 
 ### Related:

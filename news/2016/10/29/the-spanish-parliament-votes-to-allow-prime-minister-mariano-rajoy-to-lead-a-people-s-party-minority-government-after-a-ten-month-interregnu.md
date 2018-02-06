@@ -16,7 +16,7 @@ Parliament in Spain votes to allow Mariano Rajoy to lead a minority government, 
 
 ### Changes:
 
-1. [2015-16 Spanish government formation: The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/2015-16-spanish-government-formation-the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority.md) _2017-08-27 03:47:08 (First version)_
+1. [2015-16 Spanish government formation: The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/2015-16-spanish-government-formation-the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority.md) _2018-02-06 13:49:29 (First version)_
 1. [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md) _(Current version)_
 
 ### Related:

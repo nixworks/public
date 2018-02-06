@@ -17,8 +17,8 @@ A suicide bomb and gun attack on a courthouse in the Afghan city of Farah leaves
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001apresent-pat-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md) _2017-08-25 03:38:09 (First version)_
-2. [War in Afghanistan (2001-present):: At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001-present-at-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md) _2017-08-27 03:38:21 (Update)_
+1. [War in Afghanistan (2001-present):At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001apresent-pat-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001-present-at-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/at-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed-with-suicide-vests-on-a-courthouse-in.md) _(Current version)_
 
 ### Related:

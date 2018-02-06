@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-be
 
 ### Changes:
 
-1. [ New Zealand-s Prime Minister John Key says he believes Fiji-s self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealand-s-prime-minister-john-key-says-he-believes-fiji-s-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md) _2017-08-27 03:25:16 (First version)_
+1. [ New Zealand-s Prime Minister John Key says he believes Fiji-s self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealand-s-prime-minister-john-key-says-he-believes-fiji-s-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md) _2018-02-06 13:49:19 (First version)_
 1. [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md) _(Current version)_
 
 ### Related:

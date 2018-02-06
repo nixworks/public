@@ -16,7 +16,7 @@ A U.S. Marine was in custody aboard the USS Peleliu in the Philippines after the
 
 ### Changes:
 
-1. [A United States Marine is detained on the ''USS Peleliu'', which is docked in Subic Bay, Philippines, after he allegedy murdered Filipino transgender woman Jennifer Laude. ](/news/2014/10/13/a-united-states-marine-is-detained-on-the-uss-peleliu-which-is-docked-in-subic-bay-philippines-after-he-allegedy-murdered-filipino-tr.md) _2017-08-25 03:41:05 (First version)_
+1. [A United States Marine is detained on the ''USS Peleliu'', which is docked in Subic Bay, Philippines, after he allegedy murdered Filipino transgender woman Jennifer Laude. ](/news/2014/10/13/a-united-states-marine-is-detained-on-the-uss-peleliu-which-is-docked-in-subic-bay-philippines-after-he-allegedy-murdered-filipino-tr.md) _2018-02-06 13:49:26 (First version)_
 1. [A United States Marine is detained on the "USS Peleliu", which is docked in Subic Bay, Philippines, after he allegedy murdered Filipino transgender woman Jennifer Laude. ](/news/2014/10/13/a-united-states-marine-is-detained-on-the-uss-peleliu-which-is-docked-in-subic-bay-philippines-after-he-allegedy-murdered-filipino-tran.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/20/citing-improved-airport-security-u-s-officials-
 
 ### Changes:
 
-1. [2017 electronics ban: Citing improved airport security, U.S. officials lift the ban on electronics on certain flights to some Middle Eastern countries. ](/news/2017/07/20/2017-electronics-ban-citing-improved-airport-security-u-s-officials-lift-the-ban-on-electronics-on-certain-flights-to-some-middle-eastern.md) _2017-08-27 03:48:41 (First version)_
+1. [2017 electronics ban: Citing improved airport security, U.S. officials lift the ban on electronics on certain flights to some Middle Eastern countries. ](/news/2017/07/20/2017-electronics-ban-citing-improved-airport-security-u-s-officials-lift-the-ban-on-electronics-on-certain-flights-to-some-middle-eastern.md) _2018-02-06 13:49:30 (First version)_
 1. [Citing improved airport security, U.S. officials lift the ban on electronics on certain flights to some Middle Eastern countries. ](/news/2017/07/20/citing-improved-airport-security-u-s-officials-lift-the-ban-on-electronics-on-certain-flights-to-some-middle-eastern-countries.md) _(Current version)_
 
 ### Related:

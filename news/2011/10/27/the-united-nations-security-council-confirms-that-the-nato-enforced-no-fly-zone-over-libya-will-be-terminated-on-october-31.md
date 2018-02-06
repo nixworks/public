@@ -18,9 +18,9 @@ The UN Security Council votes to end seven months of international military acti
 
 ### Changes:
 
-1. [Aftermath of Libyan civil war: The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-pthe-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminate.md) _2017-05-25 03:35:45 (First version)_
-2. [Aftermath of Libyan civil war:The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-pthe-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated.md) _2017-08-25 03:34:23 (Update)_
-3. [Aftermath of Libyan civil war:: The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminate.md) _2017-08-27 03:34:32 (Update)_
+1. [Aftermath of Libyan civil war:: The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminate.md) _2018-02-06 13:49:23 (First version)_
+2. [Aftermath of Libyan civil war:The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-pthe-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated.md) _2018-02-06 13:49:23 (Update)_
+3. [Aftermath of Libyan civil war: The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-pthe-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminate.md) _2018-02-06 13:49:23 (Update)_
 3. [The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated-on-october-31.md) _(Current version)_
 
 ### Related:

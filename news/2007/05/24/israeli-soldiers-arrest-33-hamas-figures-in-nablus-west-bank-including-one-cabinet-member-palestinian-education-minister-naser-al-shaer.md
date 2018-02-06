@@ -18,8 +18,8 @@ Israeli forces seized a Palestinian minister and other officials on Thursday in 
 
 ### Changes:
 
-1. [ 2007 Israel-Gaza conflict: Israeli soldiers arrest 33 Hamas figures in Nablus, West Bank, including one cabinet member, Palestinian Education Minister Naser al-Shaer. ](/news/2007/05/24/2007-israel-gaza-conflict-p-israeli-soldiers-arrest-33-hamas-figures-in-nablus-west-bank-including-one-cabinet-member-palestinian-educat.md) _2017-08-25 03:19:51 (First version)_
-2. [ 2007 Israel-Gaza conflict:: Israeli soldiers arrest 33 Hamas figures in Nablus, West Bank, including one cabinet member, Palestinian Education Minister Naser al-Shaer. ](/news/2007/05/24/2007-israel-gaza-conflict-israeli-soldiers-arrest-33-hamas-figures-in-nablus-west-bank-including-one-cabinet-member-palestinian-educat.md) _2017-08-27 03:19:49 (Update)_
+1. [ 2007 Israel-Gaza conflict: Israeli soldiers arrest 33 Hamas figures in Nablus, West Bank, including one cabinet member, Palestinian Education Minister Naser al-Shaer. ](/news/2007/05/24/2007-israel-gaza-conflict-p-israeli-soldiers-arrest-33-hamas-figures-in-nablus-west-bank-including-one-cabinet-member-palestinian-educat.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2007 Israel-Gaza conflict:: Israeli soldiers arrest 33 Hamas figures in Nablus, West Bank, including one cabinet member, Palestinian Education Minister Naser al-Shaer. ](/news/2007/05/24/2007-israel-gaza-conflict-israeli-soldiers-arrest-33-hamas-figures-in-nablus-west-bank-including-one-cabinet-member-palestinian-educat.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israeli soldiers arrest 33 Hamas figures in Nablus, West Bank, including one cabinet member, Palestinian Education Minister Naser al-Shaer. ](/news/2007/05/24/israeli-soldiers-arrest-33-hamas-figures-in-nablus-west-bank-including-one-cabinet-member-palestinian-education-minister-naser-al-shaer.md) _(Current version)_
 
 ### Related:

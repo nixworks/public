@@ -17,7 +17,7 @@ Strathclyde Police are investigating phone hacking and breaches of data protecti
 
 ### Changes:
 
-1. [News International phone hacking scandal: The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/news-international-phone-hacking-scandal-the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-d.md) _2017-08-27 03:33:59 (First version)_
+1. [News International phone hacking scandal: The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/news-international-phone-hacking-scandal-the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-d.md) _2018-02-06 13:49:22 (First version)_
 1. [The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-data-protection-in-scotland.md) _(Current version)_
 
 ### Related:

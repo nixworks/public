@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc
 
 ### Changes:
 
-1. [2017 Women's March and A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/2017-women-s-march-and-a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of.md) _2017-08-25 03:47:14 (First version)_
+1. [2017 Women's March and A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/2017-women-s-march-and-a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of.md) _2018-02-06 13:49:30 (First version)_
 1. [A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Ukraine said on Tuesday seven of its servicemen had been killed in the past 24 h
 
 ### Changes:
 
-1. [ War in Donbass: Seven Ukrainian servicemen are killed in suspected attacks by pro-Russian rebels. ](/news/2016/05/24/war-in-donbass-seven-ukrainian-servicemen-are-killed-in-suspected-attacks-by-pro-russian-rebels.md) _2017-08-27 03:46:07 (First version)_
+1. [ War in Donbass: Seven Ukrainian servicemen are killed in suspected attacks by pro-Russian rebels. ](/news/2016/05/24/war-in-donbass-seven-ukrainian-servicemen-are-killed-in-suspected-attacks-by-pro-russian-rebels.md) _2018-02-06 13:49:29 (First version)_
 1. [ Seven Ukrainian servicemen are killed in suspected attacks by pro-Russian rebels. ](/news/2016/05/24/seven-ukrainian-servicemen-are-killed-in-suspected-attacks-by-pro-russian-rebels.md) _(Current version)_
 
 ### Related:

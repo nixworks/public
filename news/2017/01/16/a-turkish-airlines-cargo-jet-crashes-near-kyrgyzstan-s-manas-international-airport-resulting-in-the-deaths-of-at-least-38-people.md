@@ -15,7 +15,7 @@ Andrei Yevdochenko noted that it was with deep sympathy and grief that Belarus l
 
 ### Changes:
 
-1. [Turkish Airlines Flight 6491: A Turkish Airlines cargo jet crashes near Kyrgyzstan's Manas International Airport resulting in the deaths of at least 38 people. ](/news/2017/01/16/turkish-airlines-flight-6491-a-turkish-airlines-cargo-jet-crashes-near-kyrgyzstan-s-manas-international-airport-resulting-in-the-deaths-of.md) _2017-08-27 03:47:37 (First version)_
+1. [Turkish Airlines Flight 6491: A Turkish Airlines cargo jet crashes near Kyrgyzstan's Manas International Airport resulting in the deaths of at least 38 people. ](/news/2017/01/16/turkish-airlines-flight-6491-a-turkish-airlines-cargo-jet-crashes-near-kyrgyzstan-s-manas-international-airport-resulting-in-the-deaths-of.md) _2018-02-06 13:49:30 (First version)_
 1. [A Turkish Airlines cargo jet crashes near Kyrgyzstan's Manas International Airport resulting in the deaths of at least 38 people. ](/news/2017/01/16/a-turkish-airlines-cargo-jet-crashes-near-kyrgyzstan-s-manas-international-airport-resulting-in-the-deaths-of-at-least-38-people.md) _(Current version)_
 
 ### Related:

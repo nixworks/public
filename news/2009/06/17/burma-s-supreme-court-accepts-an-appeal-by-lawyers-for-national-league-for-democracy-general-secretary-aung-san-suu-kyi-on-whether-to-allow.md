@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/17/burma-s-supreme-court-accepts-an-appeal-by-lawy
 
 ### Changes:
 
-1. [ Burma's Supreme Court accepts an appeal by lawyers for National League for Democracy General Secretary Aung San Suu Kyi on whether to allow more defense witnesses to testify at her trial. ](/news/2009/06/17/burma-s-supreme-court-accepts-an-appeal-by-lawyers-for-national-league-for-democracy-general-secretary-aung-san-suu-kyi-on-whether-to-allo.md) _2017-08-25 03:24:54 (First version)_
+1. [ Burma's Supreme Court accepts an appeal by lawyers for National League for Democracy General Secretary Aung San Suu Kyi on whether to allow more defense witnesses to testify at her trial. ](/news/2009/06/17/burma-s-supreme-court-accepts-an-appeal-by-lawyers-for-national-league-for-democracy-general-secretary-aung-san-suu-kyi-on-whether-to-allo.md) _2018-02-06 13:49:19 (First version)_
 1. [ Burma's Supreme Court accepts an appeal by lawyers for National League for Democracy General Secretary Aung San Suu Kyi on whether to allow more defense witnesses to testify at her trial. ](/news/2009/06/17/burma-s-supreme-court-accepts-an-appeal-by-lawyers-for-national-league-for-democracy-general-secretary-aung-san-suu-kyi-on-whether-to-allow.md) _(Current version)_
 
 ### Related:

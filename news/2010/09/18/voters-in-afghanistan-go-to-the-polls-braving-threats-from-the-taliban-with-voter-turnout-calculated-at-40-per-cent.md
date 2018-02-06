@@ -23,9 +23,9 @@ Afghan officials hail a parliamentary vote as a success despite low turnout, att
 
 ### Changes:
 
-1. [Afghan parliamentary election, 2010: Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-pvoters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-a.md) _2017-05-25 03:31:17 (First version)_
-2. [Afghan parliamentary election, 2010:Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-pvoters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at.md) _2017-08-25 03:30:06 (Update)_
-3. [Afghan parliamentary election, 2010:: Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-a.md) _2017-08-27 03:30:09 (Update)_
+1. [Afghan parliamentary election, 2010:: Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-a.md) _2018-02-06 13:49:20 (First version)_
+2. [Afghan parliamentary election, 2010:Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-pvoters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at.md) _2018-02-06 13:49:20 (Update)_
+3. [Afghan parliamentary election, 2010: Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-pvoters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-a.md) _2018-02-06 13:49:20 (Update)_
 3. [Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at-40-per-cent.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Russia is constructing hundreds of military buildings on two of the disputed Kur
 
 ### Changes:
 
-1. [Kuril Islands dispute: Russia is reportedly constructing hundreds of buildings for military use on the disputed Kunashir and Iturup islands, also claimed by Japan, in the Sea of Okhotsk. The Russian Defence Ministry said the new military buildings would help -raise the combat readiness of troops on the eastern frontiers of Russia". ](/news/2015/12/2/kuril-islands-dispute-russia-is-reportedly-constructing-hundreds-of-buildings-for-military-use-on-the-disputed-kunashir-and-iturup-islands.md) _2017-08-27 03:44:10 (First version)_
+1. [Kuril Islands dispute: Russia is reportedly constructing hundreds of buildings for military use on the disputed Kunashir and Iturup islands, also claimed by Japan, in the Sea of Okhotsk. The Russian Defence Ministry said the new military buildings would help -raise the combat readiness of troops on the eastern frontiers of Russia". ](/news/2015/12/2/kuril-islands-dispute-russia-is-reportedly-constructing-hundreds-of-buildings-for-military-use-on-the-disputed-kunashir-and-iturup-islands.md) _2018-02-06 13:49:28 (First version)_
 1. [Russia is reportedly constructing hundreds of buildings for military use on the disputed Kunashir and Iturup islands, also claimed by Japan, in the Sea of Okhotsk. The Russian Defence Ministry said the new military buildings would help "raise the combat readiness of troops on the eastern frontiers of Russia". ](/news/2015/12/2/russia-is-reportedly-constructing-hundreds-of-buildings-for-military-use-on-the-disputed-kunashir-and-iturup-islands-also-claimed-by-japan.md) _(Current version)_
 
 ### Related:

@@ -18,5 +18,5 @@ One or more shooters are believed to be on the loose, armed and dangerous, after
 
 ### Changes:
 
-1. [2016 Pike County, Ohio, shootings: Eight family members are murdered in four different locations in Pike County, Ohio. Three children, including a four-day-old baby, survived the killings. ](/news/2016/04/22/2016-pike-county-ohio-shootings-eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-inclu.md) _2017-08-27 03:45:47 (First version)_
+1. [2016 Pike County, Ohio, shootings: Eight family members are murdered in four different locations in Pike County, Ohio. Three children, including a four-day-old baby, survived the killings. ](/news/2016/04/22/2016-pike-county-ohio-shootings-eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-inclu.md) _2018-02-06 13:49:28 (First version)_
 1. [Eight family members are murdered in four different locations in Pike County, Ohio. Three children, including a four-day-old baby, survived the killings. ](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.md) _(Current version)_

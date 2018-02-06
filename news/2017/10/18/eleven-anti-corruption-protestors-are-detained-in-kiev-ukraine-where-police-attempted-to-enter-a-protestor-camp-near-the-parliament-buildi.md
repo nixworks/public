@@ -16,7 +16,7 @@ Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear g
 
 ### Changes:
 
-1. [Eleven anti-corruption protestors were detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-were-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-build.md) _2017-10-18 22:30:06 (First version)_
+1. [Eleven anti-corruption protestors were detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-were-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-build.md) _2018-02-06 13:49:31 (First version)_
 1. [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md) _(Current version)_
 
 ### Related:

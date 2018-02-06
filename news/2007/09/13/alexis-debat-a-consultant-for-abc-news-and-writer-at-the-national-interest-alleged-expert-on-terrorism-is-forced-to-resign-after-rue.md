@@ -18,7 +18,7 @@ Formats: [HTML](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writ
 
 ### Changes:
 
-1. [ Alexis Debat, a consultant for ABC News and writer at ''The National Interest'', alleged expert on terrorism, is forced to resign after ''Rue 89'' revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after.md) _2017-08-25 03:20:57 (First version)_
+1. [ Alexis Debat, a consultant for ABC News and writer at ''The National Interest'', alleged expert on terrorism, is forced to resign after ''Rue 89'' revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after.md) _2018-02-06 13:49:18 (First version)_
 1. [ Alexis Debat, a consultant for ABC News and writer at "The National Interest", alleged expert on terrorism, is forced to resign after "Rue 89" revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after-rue.md) _(Current version)_
 
 ### Related:

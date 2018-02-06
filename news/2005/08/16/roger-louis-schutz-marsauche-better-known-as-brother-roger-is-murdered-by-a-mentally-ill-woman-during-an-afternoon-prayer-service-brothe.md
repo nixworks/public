@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/08/16/roger-louis-schutz-marsauche-better-known-as-br
 
 ### Changes:
 
-1. [ Roger Louis Schutz-Marsauche, better known as Brother Roger, is murdered by a mentally-ill woman during an afternoon prayer service. Brother Roger is best known for founding the Taize Community in 1940. His death saddened many officials and leaders across Europe, including Pope Benedict XVI. ](/news/2005/08/16/roger-louis-schutz-marsauche-better-known-as-brother-roger-is-murdered-by-a-mentally-ill-woman-during-an-afternoon-prayer-service-broth.md) _2017-08-25 03:16:41 (First version)_
+1. [ Roger Louis Schutz-Marsauche, better known as Brother Roger, is murdered by a mentally-ill woman during an afternoon prayer service. Brother Roger is best known for founding the Taize Community in 1940. His death saddened many officials and leaders across Europe, including Pope Benedict XVI. ](/news/2005/08/16/roger-louis-schutz-marsauche-better-known-as-brother-roger-is-murdered-by-a-mentally-ill-woman-during-an-afternoon-prayer-service-broth.md) _2018-02-06 13:49:16 (First version)_
 1. [ Roger Louis Schutz-Marsauche, better known as Brother Roger, is murdered by a mentally-ill woman during an afternoon prayer service. Brother Roger is best known for founding the Taize Community in 1940. His death saddened many officials and leaders across Europe, including Pope Benedict XVI. ](/news/2005/08/16/roger-louis-schutz-marsauche-better-known-as-brother-roger-is-murdered-by-a-mentally-ill-woman-during-an-afternoon-prayer-service-brothe.md) _(Current version)_
 
 ### Related:

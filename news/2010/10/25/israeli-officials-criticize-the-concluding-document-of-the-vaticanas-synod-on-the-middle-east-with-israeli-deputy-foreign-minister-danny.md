@@ -18,7 +18,7 @@ THE VATICAN&rsquo;s two-week long synod on the Middle East ended on a polemical 
 
 ### Changes:
 
-1. [Israeli officials criticize the concluding document of the Vatican-s synod on the Middle East, with Israeli deputy foreign minister Danny Ayalon accusing the synod of being "a forum for Arab propaganda". ](/news/2010/10/25/israeli-officials-criticize-the-concluding-document-of-the-vatican-s-synod-on-the-middle-east-with-israeli-deputy-foreign-minister-danny.md) _2017-08-27 03:30:47 (First version)_
+1. [Israeli officials criticize the concluding document of the Vatican-s synod on the Middle East, with Israeli deputy foreign minister Danny Ayalon accusing the synod of being "a forum for Arab propaganda". ](/news/2010/10/25/israeli-officials-criticize-the-concluding-document-of-the-vatican-s-synod-on-the-middle-east-with-israeli-deputy-foreign-minister-danny.md) _2018-02-06 13:49:20 (First version)_
 1. [Israeli officials criticize the concluding document of the Vatican's synod on the Middle East, with Israeli deputy foreign minister Danny Ayalon accusing the synod of being "a forum for Arab propaganda". ](/news/2010/10/25/israeli-officials-criticize-the-concluding-document-of-the-vaticanas-synod-on-the-middle-east-with-israeli-deputy-foreign-minister-danny.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/01/17/japan-decides-to-build-the-worldas-largest-offs
 
 ### Changes:
 
-1. [Japan decides to build the world-s largest offshore wind farm near the site of Fukushima Daiichi Nuclear Power Plant in Fukushima Prefecture. ](/news/2013/01/17/japan-decides-to-build-the-world-s-largest-offshore-wind-farm-near-the-site-of-fukushima-daiichi-nuclear-power-plant-in-fukushima-prefectu.md) _2017-08-27 03:37:26 (First version)_
+1. [Japan decides to build the world-s largest offshore wind farm near the site of Fukushima Daiichi Nuclear Power Plant in Fukushima Prefecture. ](/news/2013/01/17/japan-decides-to-build-the-world-s-largest-offshore-wind-farm-near-the-site-of-fukushima-daiichi-nuclear-power-plant-in-fukushima-prefectu.md) _2018-02-06 13:49:24 (First version)_
 1. [Japan decides to build the world's largest offshore wind farm near the site of Fukushima Daiichi Nuclear Power Plant in Fukushima Prefecture. ](/news/2013/01/17/japan-decides-to-build-the-worldas-largest-offshore-wind-farm-near-the-site-of-fukushima-daiichi-nuclear-power-plant-in-fukushima-prefectu.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2009/09/3/the-results-of-gabon-s-presidential-election-wer
 
 ### Changes:
 
-1. [ The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside-the-offices-of-the-electoral-co.md) _2017-08-25 03:25:39 (First version)_
-2. [ Gabonese presidential election: The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/gabonese-presidential-election-the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside.md) _2017-08-27 03:25:30 (Update)_
+1. [ The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside-the-offices-of-the-electoral-co.md) _2018-02-06 13:49:19 (First version)_
+2. [ Gabonese presidential election: The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/gabonese-presidential-election-the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside.md) _2018-02-06 13:49:19 (Update)_
 2. [ The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside-the-offices-of-the-electoral-com.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ A car bomb hit the center of Kabul late on Monday, just hours after a Taliban su
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/war-in-afghanistan-2015-present-two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-s.md) _2017-08-27 03:46:46 (First version)_
+1. [War in Afghanistan (2015-present): Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/war-in-afghanistan-2015-present-two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.md) _(Current version)_
 
 ### Related:

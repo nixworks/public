@@ -17,7 +17,7 @@ Togo security forces fired tear gas at hundreds of anti-government protesters ca
 
 ### Changes:
 
-1. [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-as-50-year-family-dynasty-pa.md) _2017-09-08 09:30:05 (First version)_
+1. [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-as-50-year-family-dynasty-pa.md) _2018-02-06 13:49:31 (First version)_
 1. [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-s-50-year-family-dynasty-parl.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/20/bahraini-authorities-strip-isa-qassim-the-kingd
 
 ### Changes:
 
-1. [Human rights in Bahrain: Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/human-rights-in-bahrain-bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-ac.md) _2017-08-27 03:46:18 (First version)_
+1. [Human rights in Bahrain: Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/human-rights-in-bahrain-bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-ac.md) _2018-02-06 13:49:29 (First version)_
 1. [Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-accused-him-of-promoting-s.md) _(Current version)_
 
 ### Related:

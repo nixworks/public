@@ -16,7 +16,7 @@ A federal judge on Thursday ordered Georgia to temporarily reopen voter registra
 
 ### Changes:
 
-1. [Georgia's 6th congressional district special election, 2017: The campaign of Jon Ossoff wins a lawsuit extending voter registration. ](/news/2017/05/4/georgia-s-6th-congressional-district-special-election-2017-the-campaign-of-jon-ossoff-wins-a-lawsuit-extending-voter-registration.md) _2017-08-27 03:48:18 (First version)_
+1. [Georgia's 6th congressional district special election, 2017: The campaign of Jon Ossoff wins a lawsuit extending voter registration. ](/news/2017/05/4/georgia-s-6th-congressional-district-special-election-2017-the-campaign-of-jon-ossoff-wins-a-lawsuit-extending-voter-registration.md) _2018-02-06 13:49:30 (First version)_
 1. [The campaign of Jon Ossoff wins a lawsuit extending voter registration. ](/news/2017/05/4/the-campaign-of-jon-ossoff-wins-a-lawsuit-extending-voter-registration.md) _(Current version)_
 
 ### Related:

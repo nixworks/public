@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/28/a-blast-in-a-brothel-in-the-northeastern-city-o
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: A blast in a brothel in the northeastern city of Bauchi kills at least 11 people and injures 28. ](/news/2014/06/28/islamist-insurgency-in-nigeria-a-blast-in-a-brothel-in-the-northeastern-city-of-bauchi-kills-at-least-11-people-and-injures-28.md) _2017-08-27 03:40:54 (First version)_
+1. [Islamist insurgency in Nigeria: A blast in a brothel in the northeastern city of Bauchi kills at least 11 people and injures 28. ](/news/2014/06/28/islamist-insurgency-in-nigeria-a-blast-in-a-brothel-in-the-northeastern-city-of-bauchi-kills-at-least-11-people-and-injures-28.md) _2018-02-06 13:49:26 (First version)_
 1. [A blast in a brothel in the northeastern city of Bauchi kills at least 11 people and injures 28. ](/news/2014/06/28/a-blast-in-a-brothel-in-the-northeastern-city-of-bauchi-kills-at-least-11-people-and-injures-28.md) _(Current version)_
 
 ### Related:

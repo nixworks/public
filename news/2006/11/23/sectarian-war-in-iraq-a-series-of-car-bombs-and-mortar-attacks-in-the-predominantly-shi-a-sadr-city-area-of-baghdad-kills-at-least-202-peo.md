@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/11/23/sectarian-war-in-iraq-a-series-of-car-bombs-and
 
 ### Changes:
 
-1. [ Sectarian war in Iraq: A series of car bombs and mortar attacks in the predominantly Shi'a Sadr City area of Baghdad kills at least 202 people and wounds another 257. The incidents comprise the deadliest coordinated attack since the Iraq War started. ](/news/2006/11/23/sectarian-war-in-iraq-a-series-of-car-bombs-and-mortar-attacks-in-the-predominantly-shi-a-sadr-city-area-of-baghdad-kills-at-least-202-pe.md) _2017-08-25 03:18:50 (First version)_
+1. [ Sectarian war in Iraq: A series of car bombs and mortar attacks in the predominantly Shi'a Sadr City area of Baghdad kills at least 202 people and wounds another 257. The incidents comprise the deadliest coordinated attack since the Iraq War started. ](/news/2006/11/23/sectarian-war-in-iraq-a-series-of-car-bombs-and-mortar-attacks-in-the-predominantly-shi-a-sadr-city-area-of-baghdad-kills-at-least-202-pe.md) _2018-02-06 13:49:17 (First version)_
 1. [ Sectarian war in Iraq: A series of car bombs and mortar attacks in the predominantly Shi'a Sadr City area of Baghdad kills at least 202 people and wounds another 257. The incidents comprise the deadliest coordinated attack since the Iraq War started. ](/news/2006/11/23/sectarian-war-in-iraq-a-series-of-car-bombs-and-mortar-attacks-in-the-predominantly-shi-a-sadr-city-area-of-baghdad-kills-at-least-202-peo.md) _(Current version)_
 
 ### Related:

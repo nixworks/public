@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-p
 
 ### Changes:
 
-1. [Israeli settlement: Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/israeli-settlement-following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-ne.md) _2017-08-27 03:47:39 (First version)_
+1. [Israeli settlement: Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/israeli-settlement-following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-ne.md) _2018-02-06 13:49:30 (First version)_
 1. [Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-new-settlement-homes-i.md) _(Current version)_
 
 ### Related:

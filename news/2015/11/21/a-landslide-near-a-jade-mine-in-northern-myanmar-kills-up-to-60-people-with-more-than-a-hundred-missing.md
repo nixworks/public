@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Hpakant jade mine disaster: A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/hpakant-jade-mine-disaster-a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md) _2017-08-27 03:43:59 (First version)_
+1. [Hpakant jade mine disaster: A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/hpakant-jade-mine-disaster-a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md) _2018-02-06 13:49:28 (First version)_
 1. [A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md) _(Current version)_
 
 ### Related:

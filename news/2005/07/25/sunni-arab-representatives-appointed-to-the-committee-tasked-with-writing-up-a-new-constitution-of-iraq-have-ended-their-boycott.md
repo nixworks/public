@@ -15,9 +15,9 @@ Formats: [HTML](/news/2005/07/25/sunni-arab-representatives-appointed-to-the-com
 
 ### Changes:
 
-1. [ Conflict in Iraq: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-p-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-thei.md) _2017-05-25 03:16:50 (First version)_
-2. [ Conflict in Iraq: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-p-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md) _2017-08-25 03:16:35 (Update)_
-3. [ Conflict in Iraq:: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md) _2017-08-27 03:16:37 (Update)_
+1. [ Conflict in Iraq:: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-p-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md) _2018-02-06 13:49:16 (Update)_
+3. [ Conflict in Iraq: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-p-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-thei.md) _2018-02-06 13:49:16 (Update)_
 3. [ Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their-boycott.md) _(Current version)_
 
 ### Related:

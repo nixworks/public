@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutriti
 
 ### Changes:
 
-1. [2011 Horn of Africa famine: Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/2011-horn-of-africa-famine-unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md) _2017-08-27 03:33:59 (First version)_
+1. [2011 Horn of Africa famine: Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/2011-horn-of-africa-famine-unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md) _2018-02-06 13:49:22 (First version)_
 1. [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md) _(Current version)_
 
 ### Related:

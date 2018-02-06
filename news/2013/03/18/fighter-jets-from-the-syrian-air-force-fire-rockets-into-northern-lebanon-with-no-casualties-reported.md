@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/18/fighter-jets-from-the-syrian-air-force-fire-roc
 
 ### Changes:
 
-1. [Syrian civil war:Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-pfighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md) _2017-08-25 03:37:53 (First version)_
-2. [Syrian civil war:: Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md) _2017-08-27 03:38:05 (Update)_
+1. [Syrian civil war:Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-pfighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md) _2018-02-06 13:49:24 (Update)_
 2. [Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md) _(Current version)_
 
 ### Related:

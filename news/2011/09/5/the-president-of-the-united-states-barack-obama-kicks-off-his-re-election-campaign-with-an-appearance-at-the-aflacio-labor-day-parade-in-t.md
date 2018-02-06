@@ -15,8 +15,8 @@ He won the state in 2008 by nearly 18 percentage points and pumped billions of t
 
 ### Changes:
 
-1. [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit, Michigan. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-afl-cio-labor-day-parade-in-the.md) _2017-08-16 03:34:38 (First version)_
-2. [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-afl-cio-labor-day-parade-in-t.md) _2017-08-27 03:34:13 (Update)_
+1. [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit, Michigan. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-afl-cio-labor-day-parade-in-the.md) _2018-02-06 13:49:22 (First version)_
+2. [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-afl-cio-labor-day-parade-in-t.md) _2018-02-06 13:49:22 (Update)_
 2. [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-aflacio-labor-day-parade-in-t.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/11/united-states-embassy-guards-in-tel-aviv-israel
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: United States embassy guards in Tel Aviv, Israel, stopped a suicide bomber from setting off a bomb in a crowded beachfront cafe.](/news/2002/10/11/israeli-palestinian-conflict-united-states-embassy-guards-in-tel-aviv-israel-stopped-a-suicide-bomber-from-setting-off-a-bomb-in-a-crowd.md) _2017-08-27 03:15:16 (First version)_
+1. [ Israeli-Palestinian conflict: United States embassy guards in Tel Aviv, Israel, stopped a suicide bomber from setting off a bomb in a crowded beachfront cafe.](/news/2002/10/11/israeli-palestinian-conflict-united-states-embassy-guards-in-tel-aviv-israel-stopped-a-suicide-bomber-from-setting-off-a-bomb-in-a-crowd.md) _2018-02-06 13:49:15 (First version)_
 1. [ United States embassy guards in Tel Aviv, Israel, stopped a suicide bomber from setting off a bomb in a crowded beachfront cafe.](/news/2002/10/11/united-states-embassy-guards-in-tel-aviv-israel-stopped-a-suicide-bomber-from-setting-off-a-bomb-in-a-crowded-beachfront-cafe.md) _(Current version)_
 
 ### Related:

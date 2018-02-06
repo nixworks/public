@@ -16,7 +16,7 @@ A Malaysian oil tanker that was believed to have been hijacked was actually comm
 
 ### Changes:
 
-1. [A Malaysian oil tanker, MT ''Vier Harmoni'', is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-n.md) _2017-08-25 03:46:17 (First version)_
+1. [A Malaysian oil tanker, MT ''Vier Harmoni'', is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-n.md) _2018-02-06 13:49:29 (First version)_
 1. [A Malaysian oil tanker, MT "Vier Harmoni", is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-nea.md) _(Current version)_
 
 ### Related:

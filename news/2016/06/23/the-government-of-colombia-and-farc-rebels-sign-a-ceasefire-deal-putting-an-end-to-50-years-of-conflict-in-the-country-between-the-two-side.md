@@ -16,7 +16,7 @@ The Colombian government and leftist Farc rebels sign a ceasefire deal to end fi
 
 ### Changes:
 
-1. [Colombian conflict: The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/colombian-conflict-the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country.md) _2017-08-27 03:46:19 (First version)_
+1. [Colombian conflict: The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/colombian-conflict-the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country.md) _2018-02-06 13:49:29 (First version)_
 1. [The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country-between-the-two-side.md) _(Current version)_
 
 ### Related:

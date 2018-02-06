@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/13/negotiations-between-the-nigerian-president-s-a
 
 ### Changes:
 
-1. [Boko Haram: Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). ](/news/2016/10/13/boko-haram-negotiations-between-the-nigerian-president-s-administration-and-islamist-militants-free-21-of-the-270-schoolgirls-kidnapped-in.md) _2017-08-27 03:47:02 (First version)_
+1. [Boko Haram: Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). ](/news/2016/10/13/boko-haram-negotiations-between-the-nigerian-president-s-administration-and-islamist-militants-free-21-of-the-270-schoolgirls-kidnapped-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). ](/news/2016/10/13/negotiations-between-the-nigerian-president-s-administration-and-islamist-militants-free-21-of-the-270-schoolgirls-kidnapped-in-2014-by-boko.md) _(Current version)_
 
 ### Related:

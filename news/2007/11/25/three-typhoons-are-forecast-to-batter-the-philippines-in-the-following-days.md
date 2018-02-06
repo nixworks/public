@@ -18,8 +18,8 @@ Officials in the Philippines say seven people have been killed in two provinces 
 
 ### Changes:
 
-1. [ 2007 Pacific typhoon season: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-p-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _2017-08-25 03:21:29 (First version)_
-2. [ 2007 Pacific typhoon season:: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _2017-08-27 03:21:24 (Update)_
+1. [ 2007 Pacific typhoon season:: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pacific typhoon season: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-p-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _2018-02-06 13:49:18 (Update)_
 2. [ Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md) _(Current version)_
 
 ### Related:

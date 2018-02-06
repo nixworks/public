@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/02/2/battle-of-n-djamena-chadian-rebels-enter-the-cap
 
 ### Changes:
 
-1. [ War in Chad (2005-present): Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005apresent-p-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _2017-08-25 03:21:43 (First version)_
-2. [ War in Chad (2005-present):: Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005-present-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _2017-08-27 03:21:37 (Update)_
+1. [ War in Chad (2005-present): Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005apresent-p-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Chad (2005-present):: Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005-present-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _2018-02-06 13:49:18 (Update)_
 2. [ Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _(Current version)_
 
 ### Related:

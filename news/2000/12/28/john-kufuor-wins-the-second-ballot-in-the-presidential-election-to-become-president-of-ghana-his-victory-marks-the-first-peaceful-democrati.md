@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/12/28/john-kufuor-wins-the-second-ballot-in-the-presi
 
 ### Changes:
 
-1. [John Kufuor wins the second ballot in the presidential election to become President of Ghana. His victory marks the first peaceful democratic transition of power in Ghana since the country achieved independence in 1957.](/news/2000/12/28/john-kufuor-wins-the-second-ballot-in-the-presidential-election-to-become-president-of-ghana-his-victory-marks-the-first-peaceful-democrat.md) _2017-08-25 03:15:09 (First version)_
+1. [John Kufuor wins the second ballot in the presidential election to become President of Ghana. His victory marks the first peaceful democratic transition of power in Ghana since the country achieved independence in 1957.](/news/2000/12/28/john-kufuor-wins-the-second-ballot-in-the-presidential-election-to-become-president-of-ghana-his-victory-marks-the-first-peaceful-democrat.md) _2018-02-06 13:49:15 (First version)_
 1. [John Kufuor wins the second ballot in the presidential election to become President of Ghana. His victory marks the first peaceful democratic transition of power in Ghana since the country achieved independence in 1957.](/news/2000/12/28/john-kufuor-wins-the-second-ballot-in-the-presidential-election-to-become-president-of-ghana-his-victory-marks-the-first-peaceful-democrati.md) _(Current version)_
 
 ### Related:

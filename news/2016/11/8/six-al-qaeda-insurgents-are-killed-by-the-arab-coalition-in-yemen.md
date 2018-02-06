@@ -16,7 +16,7 @@ Arab coalition forces killed six al Qaeda militants and arrested four others dur
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/yemeni-civil-war-2015-present-six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _2017-08-27 03:47:12 (First version)_
+1. [Yemeni Civil War (2015-present): Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/yemeni-civil-war-2015-present-six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _2018-02-06 13:49:29 (First version)_
 1. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _(Current version)_
 
 ### Related:

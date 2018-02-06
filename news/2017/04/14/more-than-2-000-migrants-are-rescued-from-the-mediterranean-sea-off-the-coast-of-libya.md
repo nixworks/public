@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-m
 
 ### Changes:
 
-1. [European migrant crisis: More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/european-migrant-crisis-more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _2017-08-27 03:48:09 (First version)_
+1. [European migrant crisis: More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/european-migrant-crisis-more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _2018-02-06 13:49:30 (First version)_
 1. [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _(Current version)_
 
 ### Related:

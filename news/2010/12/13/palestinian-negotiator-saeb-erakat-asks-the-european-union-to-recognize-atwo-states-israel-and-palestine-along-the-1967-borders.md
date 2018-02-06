@@ -16,7 +16,7 @@ Chief Palestinian negotiator Saeb Erakat formally asked the European Union in a 
 
 ### Changes:
 
-1. [Palestinian negotiator Saeb Erakat asks the European Union to recognize -two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-two-states-israel-and-palestine-along-the-1967-borders.md) _2017-08-27 03:31:30 (First version)_
+1. [Palestinian negotiator Saeb Erakat asks the European Union to recognize -two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-two-states-israel-and-palestine-along-the-1967-borders.md) _2018-02-06 13:49:21 (First version)_
 1. [Palestinian negotiator Saeb Erakat asks the European Union to recognize "two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-atwo-states-israel-and-palestine-along-the-1967-borders.md) _(Current version)_
 
 ### Related:

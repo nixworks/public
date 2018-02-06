@@ -16,6 +16,6 @@ Four U.S. soldiers accused of murdering suspected insurgents during a raid in Ir
 
 ### Changes:
 
-1. [ Iraq War: Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/iraq-war-p-four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md) _2017-08-25 03:18:04 (First version)_
-2. [ Iraq War:: Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/iraq-war-four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md) _2017-08-27 03:18:02 (Update)_
+1. [ Iraq War: Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/iraq-war-p-four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/iraq-war-four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md) _2018-02-06 13:49:17 (Update)_
 2. [ Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md) _(Current version)_

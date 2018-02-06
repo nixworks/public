@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/9/lawrence-lessig-argues-eldred-v-ashcroft-in-fron
 
 ### Changes:
 
-1. [ Lawrence Lessig argues Eldred v. Ashcroft in front of the U.S. Supreme Court. The case challenges retroactive copyright extensions passed by Congress, and potentially affects millions of copyrighted works.](/news/2002/10/9/lawrence-lessig-argues-eldred-v-ashcroft-in-front-of-the-u-s-supreme-court-the-case-challenges-retroactive-copyright-extensions-passed.md) _2017-08-25 03:15:15 (First version)_
+1. [ Lawrence Lessig argues Eldred v. Ashcroft in front of the U.S. Supreme Court. The case challenges retroactive copyright extensions passed by Congress, and potentially affects millions of copyrighted works.](/news/2002/10/9/lawrence-lessig-argues-eldred-v-ashcroft-in-front-of-the-u-s-supreme-court-the-case-challenges-retroactive-copyright-extensions-passed.md) _2018-02-06 13:49:15 (First version)_
 1. [ Lawrence Lessig argues Eldred v. Ashcroft in front of the U.S. Supreme Court. The case challenges retroactive copyright extensions passed by Congress, and potentially affects millions of copyrighted works.](/news/2002/10/9/lawrence-lessig-argues-eldred-v-ashcroft-in-front-of-the-u-s-supreme-court-the-case-challenges-retroactive-copyright-extensions-passed-b.md) _(Current version)_
 
 ### Related:

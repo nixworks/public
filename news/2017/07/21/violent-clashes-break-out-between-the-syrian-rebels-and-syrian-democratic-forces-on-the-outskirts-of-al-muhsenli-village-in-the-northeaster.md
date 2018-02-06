@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/07/21/violent-clashes-break-out-between-the-syrian-re
 
 ### Changes:
 
-1. [Syrian Civil War: Violent clashes break out between the Syrian rebels and Syrian Democratic Forces on the outskirts of al-Muhsenli Village, in the northeastern countryside of Aleppo, but no casualties are reported. ](/news/2017/07/21/syrian-civil-war-violent-clashes-break-out-between-the-syrian-rebels-and-syrian-democratic-forces-on-the-outskirts-of-al-muhsenli-village.md) _2017-08-27 03:48:41 (First version)_
+1. [Syrian Civil War: Violent clashes break out between the Syrian rebels and Syrian Democratic Forces on the outskirts of al-Muhsenli Village, in the northeastern countryside of Aleppo, but no casualties are reported. ](/news/2017/07/21/syrian-civil-war-violent-clashes-break-out-between-the-syrian-rebels-and-syrian-democratic-forces-on-the-outskirts-of-al-muhsenli-village.md) _2018-02-06 13:49:30 (First version)_
 1. [Violent clashes break out between the Syrian rebels and Syrian Democratic Forces on the outskirts of al-Muhsenli Village, in the northeastern countryside of Aleppo, but no casualties are reported. ](/news/2017/07/21/violent-clashes-break-out-between-the-syrian-rebels-and-syrian-democratic-forces-on-the-outskirts-of-al-muhsenli-village-in-the-northeaster.md) _(Current version)_
 
 ### Related:

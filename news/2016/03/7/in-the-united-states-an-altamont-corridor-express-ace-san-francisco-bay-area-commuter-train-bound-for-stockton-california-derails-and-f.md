@@ -17,7 +17,7 @@ A Bay Area commuter train en route to Stockton derailed Monday night, authoritie
 
 ### Changes:
 
-1. [In the United States, an Altamont Corridor Express (ACE) San Francisco Bay Area commuter train bound for Stockton, California, derails and falls into a creek, injuring 14 people, four in serious condition. The crash shuts down service along the ACE system through Tuesday. ](/news/2016/03/7/in-the-united-states-an-altamont-corridor-express-ace-san-francisco-bay-area-commuter-train-bound-for-stockton-california-derails-and.md) _2017-08-25 03:44:49 (First version)_
+1. [In the United States, an Altamont Corridor Express (ACE) San Francisco Bay Area commuter train bound for Stockton, California, derails and falls into a creek, injuring 14 people, four in serious condition. The crash shuts down service along the ACE system through Tuesday. ](/news/2016/03/7/in-the-united-states-an-altamont-corridor-express-ace-san-francisco-bay-area-commuter-train-bound-for-stockton-california-derails-and.md) _2018-02-06 13:49:28 (First version)_
 1. [In the United States, an Altamont Corridor Express (ACE) San Francisco Bay Area commuter train bound for Stockton, California, derails and falls into a creek, injuring 14 people, four in serious condition. The crash shuts down service along the ACE system through Tuesday. ](/news/2016/03/7/in-the-united-states-an-altamont-corridor-express-ace-san-francisco-bay-area-commuter-train-bound-for-stockton-california-derails-and-f.md) _(Current version)_
 
 ### Related:

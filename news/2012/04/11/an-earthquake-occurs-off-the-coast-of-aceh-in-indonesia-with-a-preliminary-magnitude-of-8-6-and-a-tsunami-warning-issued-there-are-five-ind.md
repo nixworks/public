@@ -17,8 +17,8 @@ AS IT HAPPENED: A magnitude-8.2 aftershock has followed a massive 8.6 quake that
 
 ### Changes:
 
-1. [Indonesian earthquakes:An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/indonesian-earthquakes-pan-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-is.md) _2017-08-25 03:35:28 (First version)_
-2. [Indonesian earthquakes:: An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/indonesian-earthquakes-an-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-i.md) _2017-08-27 03:35:37 (Update)_
+1. [Indonesian earthquakes:An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/indonesian-earthquakes-pan-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-is.md) _2018-02-06 13:49:23 (First version)_
+2. [Indonesian earthquakes:: An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/indonesian-earthquakes-an-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-i.md) _2018-02-06 13:49:23 (Update)_
 2. [An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/an-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-issued-there-are-five-ind.md) _(Current version)_
 
 ### Related:

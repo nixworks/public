@@ -17,7 +17,7 @@ Three US police officers have been killed and three injured in a shooting in the
 
 ### Changes:
 
-1. [2016 shooting of Baton Rouge police officers: At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/2016-shooting-of-baton-rouge-police-officers-at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wou.md) _2017-08-27 03:46:30 (First version)_
+1. [2016 shooting of Baton Rouge police officers: At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/2016-shooting-of-baton-rouge-police-officers-at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wou.md) _2018-02-06 13:49:29 (First version)_
 1. [At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wounded-by-a-gunman-in-baton-rouge-louisiana.md) _(Current version)_
 
 ### Related:

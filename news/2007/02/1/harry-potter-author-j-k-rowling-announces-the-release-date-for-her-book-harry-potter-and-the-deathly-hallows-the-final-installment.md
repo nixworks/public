@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/1/harry-potter-author-j-k-rowling-announces-the-re
 
 ### Changes:
 
-1. [ ''Harry Potter'' author J. K. Rowling announces the release date for her book, ''Harry Potter and the Deathly Hallows'', the final installment in the ''Potter'' series to be 21 July 2007. ](/news/2007/02/1/harry-potter-author-j-k-rowling-announces-the-release-date-for-her-book-harry-potter-and-the-deathly-hallows-the-final-installm.md) _2017-08-25 03:19:05 (First version)_
+1. [ ''Harry Potter'' author J. K. Rowling announces the release date for her book, ''Harry Potter and the Deathly Hallows'', the final installment in the ''Potter'' series to be 21 July 2007. ](/news/2007/02/1/harry-potter-author-j-k-rowling-announces-the-release-date-for-her-book-harry-potter-and-the-deathly-hallows-the-final-installm.md) _2018-02-06 13:49:17 (First version)_
 1. [ "Harry Potter" author J. K. Rowling announces the release date for her book, "Harry Potter and the Deathly Hallows", the final installment in the "Potter" series to be 21 July 2007. ](/news/2007/02/1/harry-potter-author-j-k-rowling-announces-the-release-date-for-her-book-harry-potter-and-the-deathly-hallows-the-final-installment.md) _(Current version)_
 
 ### Related:

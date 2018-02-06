@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/09/6/former-prime-minister-of-the-united-kingdom-tony
 
 ### Changes:
 
-1. [Former Prime Minister of the United Kingdom Tony Blair cancels a London book signing for his memoir, ''A Journey,'' because of protests by the British National Party and anti-Iraq War demonstrators. ](/news/2010/09/6/former-prime-minister-of-the-united-kingdom-tony-blair-cancels-a-london-book-signing-for-his-memoir-a-journey-because-of-protests-by-t.md) _2017-08-25 03:29:53 (First version)_
+1. [Former Prime Minister of the United Kingdom Tony Blair cancels a London book signing for his memoir, ''A Journey,'' because of protests by the British National Party and anti-Iraq War demonstrators. ](/news/2010/09/6/former-prime-minister-of-the-united-kingdom-tony-blair-cancels-a-london-book-signing-for-his-memoir-a-journey-because-of-protests-by-t.md) _2018-02-06 13:49:20 (First version)_
 1. [Former Prime Minister of the United Kingdom Tony Blair cancels a London book signing for his memoir, "A Journey," because of protests by the British National Party and anti-Iraq War demonstrators. ](/news/2010/09/6/former-prime-minister-of-the-united-kingdom-tony-blair-cancels-a-london-book-signing-for-his-memoir-a-journey-because-of-protests-by-the.md) _(Current version)_
 
 ### Related:

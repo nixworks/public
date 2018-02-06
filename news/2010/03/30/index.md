@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/30/index.html)  [JSON](2010/03/30/index.json)  [XML](201
 
 ##### Colombia
 ### [Colombian soldier Pablo Emilio Moncayo is released after 12 years in FARC captivity. ](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.md)
-_Context: Pablo Emilio Moncayo, FARC, Colombia_
+_Context: FARC, Colombia, Pablo Emilio Moncayo_
 
 ##### Russia
 ### [Russia has a day of mourning following the train bombs in Moscow. ](/news/2010/03/30/russia-has-a-day-of-mourning-following-the-train-bombs-in-moscow.md)
@@ -13,7 +13,7 @@ Russians observed an official day of mourning Tuesday after suicide bombers atta
 
 ##### Andaman Islands
 ### [The Andaman Islands are rattled by a 6.6 magnitude earthquake. ](/news/2010/03/30/the-andaman-islands-are-rattled-by-a-6-6-magnitude-earthquake.md)
-_Context: Andaman Islands, 6.6 magnitude earthquake_
+_Context: 6.6 magnitude earthquake, Andaman Islands_
 
 ##### Shandong
 ### [Two mortuary staff in Shandong are arrested after 21 baby corpses are found in a river. ](/news/2010/03/30/two-mortuary-staff-in-shandong-are-arrested-after-21-baby-corpses-are-found-in-a-river.md)
@@ -21,7 +21,7 @@ TWO senior hospital staff and two mortuary workers have been fired in eastern Ch
 
 ##### Sheikh Ahmed bin Zayed Al Nahyan
 ### [The body of Sheikh Ahmed bin Zayed Al Nahyan is found by a team of Moroccan and French divers four days after his aircraft crashed into a lake in Morocco. ](/news/2010/03/30/the-body-of-sheikh-ahmed-bin-zayed-al-nahyan-is-found-by-a-team-of-moroccan-and-french-divers-four-days-after-his-aircraft-crashed-into-a-la.md)
-_Context: Sheikh Ahmed bin Zayed Al Nahyan, Morocco_
+_Context: Morocco, Sheikh Ahmed bin Zayed Al Nahyan_
 
 ##### Somali pirates
 ### [Somali pirates hijack 8 Indian vessels abducting 120 sailors, biggest abduction count till date, off the coast of Kismayo. ](/news/2010/03/30/somali-pirates-hijack-8-indian-vessels-abducting-120-sailors-biggest-abduction-count-till-date-off-the-coast-of-kismayo.md)
@@ -29,7 +29,7 @@ In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 1
 
 ##### Mexico
 ### [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md)
-_Context: Durango, Mexican states, Mexico_
+_Context: Mexican states, Mexico, Durango_
 
 ##### China
 ### [Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. ](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.md)

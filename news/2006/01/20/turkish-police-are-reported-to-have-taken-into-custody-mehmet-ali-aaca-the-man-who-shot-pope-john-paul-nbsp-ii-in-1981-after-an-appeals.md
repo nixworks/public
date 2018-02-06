@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-
 
 ### [2006-01-20](/news/2006/01/20/index.md)
 
-##### Turkish
+##### Turkey
 #  Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-
 
 ### Related:
 
-1. [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md) _Context: Mehmet Ali Agca, Turkish_
+1. [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md) _Context: Mehmet Ali Agca, Turkey_
 2. [ Mehmet Ali Agca, who tried to assassinate Pope John Paul&nbsp;II in 1981, is released from jail. ](/news/2006/01/12/mehmet-ali-aaca-who-tried-to-assassinate-pope-john-paul-nbsp-ii-in-1981-is-released-from-jail.md) _Context: Mehmet Ali Agca, Pope John Paul&nbsp;II_
-3. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkish_
-4. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: Turkish_
-5. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: Turkish_
+3. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_
+4. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkey_
+5. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: Turkey_

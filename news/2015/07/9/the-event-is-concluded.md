@@ -16,5 +16,5 @@ Formats: [HTML](/news/2015/07/9/the-event-is-concluded.html)  [JSON](/news/2015/
 
 ### Changes:
 
-1. [7th BRICS summit: The event is concluded. ](/news/2015/07/9/7th-brics-summit-the-event-is-concluded.md) _2017-08-27 03:42:40 (First version)_
+1. [7th BRICS summit: The event is concluded. ](/news/2015/07/9/7th-brics-summit-the-event-is-concluded.md) _2018-02-06 13:49:27 (First version)_
 1. [ The event is concluded. ](/news/2015/07/9/the-event-is-concluded.md) _(Current version)_

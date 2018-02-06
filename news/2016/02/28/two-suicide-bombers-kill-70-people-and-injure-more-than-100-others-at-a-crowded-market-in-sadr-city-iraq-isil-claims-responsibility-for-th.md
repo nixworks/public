@@ -17,7 +17,7 @@ Over 70 people were killed and 100 others wounded in Sadr City, a southern subur
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack. ](/news/2016/02/28/iraqi-civil-war-2014-present-two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq.md) _2017-08-27 03:45:03 (First version)_
+1. [Iraqi Civil War (2014-present): Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack. ](/news/2016/02/28/iraqi-civil-war-2014-present-two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq.md) _2018-02-06 13:49:28 (First version)_
 1. [Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack. ](/news/2016/02/28/two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq-isil-claims-responsibility-for-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ MI5 was directly involved in the rendition of a Moroccan national, illegally tak
 
 ### Changes:
 
-1. [An investigation by ''The Independent'' uncovers the first evidence of a UK-based rendition recruitment drive, free of American involvement, suggesting MI5 was directly involved in the 2004 "illegal" transfer of a Moroccan national from a Belgian prison to London. ](/news/2010/07/23/an-investigation-by-the-independent-uncovers-the-first-evidence-of-a-uk-based-rendition-recruitment-drive-free-of-american-involvement.md) _2017-08-25 03:29:01 (First version)_
+1. [An investigation by ''The Independent'' uncovers the first evidence of a UK-based rendition recruitment drive, free of American involvement, suggesting MI5 was directly involved in the 2004 "illegal" transfer of a Moroccan national from a Belgian prison to London. ](/news/2010/07/23/an-investigation-by-the-independent-uncovers-the-first-evidence-of-a-uk-based-rendition-recruitment-drive-free-of-american-involvement.md) _2018-02-06 13:49:20 (First version)_
 1. [An investigation by "The Independent" uncovers the first evidence of a UK-based rendition recruitment drive, free of American involvement, suggesting MI5 was directly involved in the 2004 "illegal" transfer of a Moroccan national from a Belgian prison to London. ](/news/2010/07/23/an-investigation-by-the-independent-uncovers-the-first-evidence-of-a-uk-based-rendition-recruitment-drive-free-of-american-involvement-s.md) _(Current version)_
 
 ### Related:

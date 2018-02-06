@@ -16,7 +16,7 @@ President Barack Obama formally announced the lifting of U.S. sanctions on Myanm
 
 ### Changes:
 
-1. [Myanmar-United States relations: The Obama administration lifts U.S. sanctions on Myanmar by terminating an emergency order that deemed the policies of the former military government a threat to U.S. national security. ](/news/2016/10/7/myanmar-united-states-relations-the-obama-administration-lifts-u-s-sanctions-on-myanmar-by-terminating-an-emergency-order-that-deemed-th.md) _2017-08-27 03:46:59 (First version)_
+1. [Myanmar-United States relations: The Obama administration lifts U.S. sanctions on Myanmar by terminating an emergency order that deemed the policies of the former military government a threat to U.S. national security. ](/news/2016/10/7/myanmar-united-states-relations-the-obama-administration-lifts-u-s-sanctions-on-myanmar-by-terminating-an-emergency-order-that-deemed-th.md) _2018-02-06 13:49:29 (First version)_
 1. [The Obama administration lifts U.S. sanctions on Myanmar by terminating an emergency order that deemed the policies of the former military government a threat to U.S. national security. ](/news/2016/10/7/the-obama-administration-lifts-u-s-sanctions-on-myanmar-by-terminating-an-emergency-order-that-deemed-the-policies-of-the-former-military-g.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Five people - including two policemen - have been killed in clashes between prot
 
 ### Changes:
 
-1. [2012-2013 Egyptian protests:Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/2012a2013-egyptian-protests-pfive-people-die-in-clashes-between-protestors-and-egyptian-police.md) _2017-08-25 03:37:43 (First version)_
-2. [2012-2013 Egyptian protests:: Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/2012-2013-egyptian-protests-five-people-die-in-clashes-between-protestors-and-egyptian-police.md) _2017-08-27 03:37:54 (Update)_
+1. [2012-2013 Egyptian protests:Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/2012a2013-egyptian-protests-pfive-people-die-in-clashes-between-protestors-and-egyptian-police.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Egyptian protests:: Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/2012-2013-egyptian-protests-five-people-die-in-clashes-between-protestors-and-egyptian-police.md) _2018-02-06 13:49:24 (Update)_
 2. [Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/five-people-die-in-clashes-between-protestors-and-egyptian-police.md) _(Current version)_
 
 ### Related:

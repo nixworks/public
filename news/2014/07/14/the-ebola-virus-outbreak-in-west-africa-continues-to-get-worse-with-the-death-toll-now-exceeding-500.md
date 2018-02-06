@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continu
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak:The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/2014-west-africa-ebola-outbreak-pthe-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md) _2017-08-25 03:40:40 (First version)_
-2. [2014 West Africa Ebola outbreak:: The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/2014-west-africa-ebola-outbreak-the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md) _2017-08-27 03:40:58 (Update)_
+1. [2014 West Africa Ebola outbreak:: The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/2014-west-africa-ebola-outbreak-the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola outbreak:The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/2014-west-africa-ebola-outbreak-pthe-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md) _2018-02-06 13:49:26 (Update)_
 2. [The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Rioters hurled bricks, looted businesses and set fires in Baltimore on Monday in
 
 ### Changes:
 
-1. [Death of Freddie Gray: 2015 Baltimore riots: Violent rioting and protests including looting occur near the Mondawmin Mall in Baltimore after the funeral of Freddie Gray with fifteen Baltimorean police officers being injured. ](/news/2015/04/27/death-of-freddie-gray-2015-baltimore-riots-violent-rioting-and-protests-including-looting-occur-near-the-mondawmin-mall-in-baltimore-after.md) _2017-08-27 03:42:15 (First version)_
+1. [Death of Freddie Gray: 2015 Baltimore riots: Violent rioting and protests including looting occur near the Mondawmin Mall in Baltimore after the funeral of Freddie Gray with fifteen Baltimorean police officers being injured. ](/news/2015/04/27/death-of-freddie-gray-2015-baltimore-riots-violent-rioting-and-protests-including-looting-occur-near-the-mondawmin-mall-in-baltimore-after.md) _2018-02-06 13:49:27 (First version)_
 1. [Violent rioting and protests including looting occur near the Mondawmin Mall in Baltimore after the funeral of Freddie Gray with fifteen Baltimorean police officers being injured. ](/news/2015/04/27/violent-rioting-and-protests-including-looting-occur-near-the-mondawmin-mall-in-baltimore-after-the-funeral-of-freddie-gray-with-fifteen-bal.md) _(Current version)_
 
 ### Related:

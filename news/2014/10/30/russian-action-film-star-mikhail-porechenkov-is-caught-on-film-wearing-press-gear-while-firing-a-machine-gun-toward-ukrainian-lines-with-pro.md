@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/10/30/russian-action-film-star-mikhail-porechenkov-is
 
 ### Changes:
 
-1. [2014 War in Donbass:Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/2014-war-in-donbass-prussian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-ukr.md) _2017-08-25 03:41:08 (First version)_
-2. [2014 War in Donbass:: Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/2014-war-in-donbass-russian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-uk.md) _2017-08-27 03:41:27 (Update)_
+1. [2014 War in Donbass:: Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/2014-war-in-donbass-russian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-uk.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 War in Donbass:Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/2014-war-in-donbass-prussian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-ukr.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/russian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-ukrainian-lines-with-pro.md) _(Current version)_
 
 ### Related:

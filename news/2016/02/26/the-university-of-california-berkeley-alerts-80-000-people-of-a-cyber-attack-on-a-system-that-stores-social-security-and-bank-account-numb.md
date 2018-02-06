@@ -16,7 +16,7 @@ Officials at the University of California Berkeley said on Friday that they were
 
 ### Changes:
 
-1. [ The University of California, Berkeley alerts 80,000 people of a cyber-attack on a system that stores Social Security and bank account numbers. There is no evidence the hacker(s) took any personal information. ](/news/2016/02/26/the-university-of-california-berkeley-alerts-80-000-people-of-a-cyber-attack-on-a-system-that-stores-social-security-and-bank-account-num.md) _2017-08-25 03:44:41 (First version)_
+1. [ The University of California, Berkeley alerts 80,000 people of a cyber-attack on a system that stores Social Security and bank account numbers. There is no evidence the hacker(s) took any personal information. ](/news/2016/02/26/the-university-of-california-berkeley-alerts-80-000-people-of-a-cyber-attack-on-a-system-that-stores-social-security-and-bank-account-num.md) _2018-02-06 13:49:28 (First version)_
 1. [ The University of California, Berkeley alerts 80,000 people of a cyber-attack on a system that stores Social Security and bank account numbers. There is no evidence the hacker(s) took any personal information. ](/news/2016/02/26/the-university-of-california-berkeley-alerts-80-000-people-of-a-cyber-attack-on-a-system-that-stores-social-security-and-bank-account-numb.md) _(Current version)_
 
 ### Related:

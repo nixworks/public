@@ -18,7 +18,7 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ### Changes:
 
-1. [Burma: Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/burma-two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _2017-08-27 03:31:07 (First version)_
+1. [Burma: Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/burma-two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _2018-02-06 13:49:21 (First version)_
 1. [Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _(Current version)_
 
 ### Related:

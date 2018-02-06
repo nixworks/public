@@ -16,7 +16,7 @@ Underscoring how the economic crisis is spreading across the global auto industr
 
 ### Changes:
 
-1. [ Toyota Motor Corporation, the world-s largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-world-s-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md) _2017-08-27 03:23:12 (First version)_
+1. [ Toyota Motor Corporation, the world-s largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-world-s-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md) _2018-02-06 13:49:18 (First version)_
 1. [ Toyota Motor Corporation, the world's largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-worldas-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md) _(Current version)_
 
 ### Related:

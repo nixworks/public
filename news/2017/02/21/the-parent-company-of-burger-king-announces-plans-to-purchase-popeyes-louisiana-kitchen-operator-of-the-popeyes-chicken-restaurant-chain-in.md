@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/21/the-parent-company-of-burger-king-announces-pla
 
 ### Changes:
 
-1. [Restaurant Brands International: The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/restaurant-brands-international-the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-po.md) _2017-08-27 03:47:51 (First version)_
+1. [Restaurant Brands International: The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/restaurant-brands-international-the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-po.md) _2018-02-06 13:49:30 (First version)_
 1. [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md) _(Current version)_
 
 ### Related:

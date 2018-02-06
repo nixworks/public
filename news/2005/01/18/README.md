@@ -13,35 +13,35 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 
 ##### Sudan
 ### [ The government of Sudan signs a preliminary peace treaty with the National Democratic Alliance, an opposition umbrella group of rebels in the north and east of the country. ](/news/2005/01/18/the-government-of-sudan-signs-a-preliminary-peace-treaty-with-the-national-democratic-alliance-an-opposition-umbrella-group-of-rebels-in-t.md)
-_Context: peace treaty, umbrella group, National Democratic Alliance, Sudan_
+_Context: umbrella group, Sudan, National Democratic Alliance, peace treaty_
 
 ##### A380
 ### [ The Airbus A380 is officially launched at a ceremony in the main French Airbus factory in Toulouse. Carrying between 550 and 840 passengers (depending on configuration), the double decker A380 is now the largest passenger airliner in the world. ](/news/2005/01/18/the-airbus-a380-is-officially-launched-at-a-ceremony-in-the-main-french-airbus-factory-in-toulouse-carrying-between-550-and-840-passengers.md)
-_Context: France, airliner, Toulouse, A380, Airbus_
+_Context: Airbus, Toulouse, airliner, A380, France_
 
 ##### United Nations World Food Program
 ### [ The United Nations World Food Program appeals for aid to Mauritania, after drought and large locust swarms destroy the harvest. ](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.md)
-_Context: swarm, drought, Mauritanian, United Nations World Food Program, locust_
+_Context: locust, Mauritanian, drought, swarm, United Nations World Food Program_
 
 ##### United Nations
 ### [ A U.N. World Conference on Disaster Reduction in Kobe, Japan begins. About 3,000 government officials, non-governmental experts and other specialists from around the world will discuss the growing trend of people affected by natural disasters. ](/news/2005/01/18/a-u-n-world-conference-on-disaster-reduction-in-kobe-japan-begins-about-3-000-government-officials-non-governmental-experts-and-other-s.md)
-_Context: natural disaster, World Conference on Disaster Reduction, United Nations, Kobe, Japan_
+_Context: United Nations, Kobe, Japan, natural disaster, World Conference on Disaster Reduction_
 
 ##### Bao Tong
 ### [ Bao Tong, Zhao Ziyang's former secretary and the highest ranking official to be jailed after the Tiananmen Square protests of 1989 is blocked from paying his respects at a mourning hall set up in Zhao's Beijing home. Bao's wife, Jiang Zongcao, was injured in the scuffle with plain-clothes police and had to be hospitalized.](/news/2005/01/18/bao-tong-zhao-ziyang-s-former-secretary-and-the-highest-ranking-official-to-be-jailed-after-the-tiananmen-square-protests-of-1989-is-block.md)
-_Context: Zhao Ziyang, Tiananmen Square protests of 1989, police, Bao Tong, Beijing_
+_Context: Zhao Ziyang, Bao Tong, Tiananmen Square protests of 1989, Beijing, police_
 
 ##### Bosnia and Herzegovina
 ### [ Two former Bosnian Serb officers, Vidoje Blagojevic and Dragan Jokic, have been convicted and imprisoned for their complicity in the Srebrenica massacre in 1995. ](/news/2005/01/18/two-former-bosnian-serb-officers-vidoje-blagojevic-and-dragan-jokic-have-been-convicted-and-imprisoned-for-their-complicity-in-the-srebre.md)
-_Context: Srebrenica, Vidoje Blagojevic, Bosnia and Herzegovina, Serb, Dragan Jokic, 1995_
+_Context: 1995, Serb, Srebrenica, Vidoje Blagojevic, Dragan Jokic, Bosnia and Herzegovina_
 
 ##### France
 ### [ In France, labour unions are threatening to begin a succession of strikes to protest against the government of president Jacques Chirac. ](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.md)
-_Context: strike, Jacques Chirac, France, labour union_
+_Context: Jacques Chirac, France, labour union, strike_
 
 ##### Mark Latham
 ### [ Mark Latham, leader of Australia's opposition Labor Party, resigns from his position and from parliament due to ill health. Possible replacements include former deputy prime minister Kim Beazley, shadow foreign minister Kevin Rudd and shadow health minister Julia Gillard. ](/news/2005/01/18/mark-latham-leader-of-australia-s-opposition-labor-party-resigns-from-his-position-and-from-parliament-due-to-ill-health-possible-replac.md)
-_Context: Australian Labor Party, Australia, Mark Latham, Parliament of Australia, Julia Gillard, Kevin Rudd, Kim Beazley_
+_Context: Australia, Parliament of Australia, Kevin Rudd, Julia Gillard, Mark Latham, Kim Beazley, Australian Labor Party_
 
 ## [Previous Day...](/news/2005/01/17/index.md)
 

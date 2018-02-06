@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/23/troops-in-somalia-s-region-of-puntland-free-22-
 
 ### Changes:
 
-1. [Piracy in Somalia:Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-ptroops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md) _2017-08-25 03:37:06 (First version)_
-2. [Piracy in Somalia:: Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md) _2017-08-27 03:37:17 (Update)_
+1. [Piracy in Somalia:: Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md) _2018-02-06 13:49:24 (First version)_
+2. [Piracy in Somalia:Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-ptroops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md) _2018-02-06 13:49:24 (Update)_
 2. [Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md) _(Current version)_
 
 ### Related:

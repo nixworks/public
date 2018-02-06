@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/03/5/the-indian-government-censors-the-documentary-in
 
 ### Changes:
 
-1. [The Indian government censors the documentary ''India's Daughter'' depicting a December 2012 gang rape and murder due to perceived incitement to violence that the outrage about the film might cause. Nevertheless, the BBC telecasts the film. ](/news/2015/03/5/the-indian-government-censors-the-documentary-india-s-daughter-depicting-a-december-2012-gang-rape-and-murder-due-to-perceived-incitemen.md) _2017-08-25 03:41:43 (First version)_
+1. [The Indian government censors the documentary ''India's Daughter'' depicting a December 2012 gang rape and murder due to perceived incitement to violence that the outrage about the film might cause. Nevertheless, the BBC telecasts the film. ](/news/2015/03/5/the-indian-government-censors-the-documentary-india-s-daughter-depicting-a-december-2012-gang-rape-and-murder-due-to-perceived-incitemen.md) _2018-02-06 13:49:27 (First version)_
 1. [The Indian government censors the documentary "India's Daughter" depicting a December 2012 gang rape and murder due to perceived incitement to violence that the outrage about the film might cause. Nevertheless, the BBC telecasts the film. ](/news/2015/03/5/the-indian-government-censors-the-documentary-india-s-daughter-depicting-a-december-2012-gang-rape-and-murder-due-to-perceived-incitement.md) _(Current version)_
 
 ### Related:

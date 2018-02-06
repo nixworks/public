@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-
 
 ### Changes:
 
-1. [Taliban insurgency:A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/taliban-insurgency-pa-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring.md) _2017-08-25 03:40:41 (First version)_
-2. [Taliban insurgency:: A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/taliban-insurgency-a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring.md) _2017-08-27 03:40:59 (Update)_
+1. [Taliban insurgency:A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/taliban-insurgency-pa-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency:: A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/taliban-insurgency-a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring.md) _2018-02-06 13:49:26 (Update)_
 2. [A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring-scores-more-in-one-o.md) _(Current version)_
 
 ### Related:

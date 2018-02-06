@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/09/27/united-nations-inspectors-are-investigating-thr
 
 ### Changes:
 
-1. [Syrian civil war: United Nations inspectors are investigating three alleged instances of use of chemical weapons in the Syrian civil war since the Ghouta chemical attack on 21 August. ](/news/2013/09/27/syrian-civil-war-united-nations-inspectors-are-investigating-three-alleged-instances-of-use-of-chemical-weapons-in-the-syrian-civil-war-sin.md) _2017-08-27 03:39:37 (First version)_
+1. [Syrian civil war: United Nations inspectors are investigating three alleged instances of use of chemical weapons in the Syrian civil war since the Ghouta chemical attack on 21 August. ](/news/2013/09/27/syrian-civil-war-united-nations-inspectors-are-investigating-three-alleged-instances-of-use-of-chemical-weapons-in-the-syrian-civil-war-sin.md) _2018-02-06 13:49:25 (First version)_
 1. [United Nations inspectors are investigating three alleged instances of use of chemical weapons in the Syrian civil war since the Ghouta chemical attack on 21 August. ](/news/2013/09/27/united-nations-inspectors-are-investigating-three-alleged-instances-of-use-of-chemical-weapons-in-the-syrian-civil-war-since-the-ghouta-chem.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Shia Houthi rebels and al-Qaeda militants engage in heavy fighting in southern Y
 
 ### Changes:
 
-1. [Shia insurgency in Yemen and Shia Houthi rebels and suspected al-Qaeda militants clash near the town of Radaa in Al Bayda' Governorate province resulting in at least 10 deaths. ](/news/2014/10/15/shia-insurgency-in-yemen-and-shia-houthi-rebels-and-suspected-al-qaeda-militants-clash-near-the-town-of-radaa-in-al-bayda-governorate-provi.md) _2017-08-25 03:41:06 (First version)_
+1. [Shia insurgency in Yemen and Shia Houthi rebels and suspected al-Qaeda militants clash near the town of Radaa in Al Bayda' Governorate province resulting in at least 10 deaths. ](/news/2014/10/15/shia-insurgency-in-yemen-and-shia-houthi-rebels-and-suspected-al-qaeda-militants-clash-near-the-town-of-radaa-in-al-bayda-governorate-provi.md) _2018-02-06 13:49:26 (First version)_
 1. [Shia Houthi rebels and suspected al-Qaeda militants clash near the town of Radaa in Al Bayda' Governorate province resulting in at least 10 deaths. ](/news/2014/10/15/shia-houthi-rebels-and-suspected-al-qaeda-militants-clash-near-the-town-of-radaa-in-al-bayda-governorate-province-resulting-in-at-least-10.md) _(Current version)_
 
 ### Related:

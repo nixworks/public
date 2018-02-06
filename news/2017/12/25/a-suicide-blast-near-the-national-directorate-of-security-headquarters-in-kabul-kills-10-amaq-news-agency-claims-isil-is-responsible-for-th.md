@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-o
 
 ### Changes:
 
-1. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. ISIS claims responsibilty for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-isis-claims-responsibilty-for-the-attack.md) _2017-12-25 22:30:06 (First version)_
-2. [A suicide blast near the National Directorate of Security headquarters in Kabul kills ten. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-ten-amaq-news-agency-claims-isis-is-responsible-for-t.md) _2017-12-26 00:30:06 (Update)_
-3. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isis-is-responsible-for-th.md) _2017-12-27 22:30:06 (Update)_
+1. [A suicide blast near the National Directorate of Security headquarters in Kabul kills ten. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-ten-amaq-news-agency-claims-isis-is-responsible-for-t.md) _2018-02-06 13:49:31 (First version)_
+2. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. ISIS claims responsibilty for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-isis-claims-responsibilty-for-the-attack.md) _2018-02-06 13:49:31 (Update)_
+3. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isis-is-responsible-for-th.md) _2018-02-06 13:49:31 (Update)_
 3. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md) _(Current version)_
 
 ### Related:

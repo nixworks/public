@@ -18,8 +18,8 @@ SPLM denies ruling party claims that southern soldiers shot dead nine of its mem
 
 ### Changes:
 
-1. [Sudanese general election, 2010:Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-general-election-2010-psudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the.md) _2017-08-25 03:27:38 (First version)_
-2. [Sudanese general election, 2010:: Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-general-election-2010-sudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the.md) _2017-08-27 03:27:35 (Update)_
+1. [Sudanese general election, 2010:: Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-general-election-2010-sudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the.md) _2018-02-06 13:49:19 (First version)_
+2. [Sudanese general election, 2010:Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-general-election-2010-psudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the.md) _2018-02-06 13:49:19 (Update)_
 2. [Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the-country-the-sudan-people-s-liber.md) _(Current version)_
 
 ### Related:

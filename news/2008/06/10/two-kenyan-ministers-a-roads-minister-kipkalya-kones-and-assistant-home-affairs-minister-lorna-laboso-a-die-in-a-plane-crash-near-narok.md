@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/10/two-kenyan-ministers-a-roads-minister-kipkalya-
 
 ### Changes:
 
-1. [ Two Kenyan ministers - Roads Minister Kipkalya Kones and Assistant Home Affairs Minister Lorna Laboso - die in a plane crash near Narok in western Kenya while traveling to campaign in by-elections. ](/news/2008/06/10/two-kenyan-ministers-roads-minister-kipkalya-kones-and-assistant-home-affairs-minister-lorna-laboso-die-in-a-plane-crash-near-narok.md) _2017-08-27 03:22:13 (First version)_
+1. [ Two Kenyan ministers - Roads Minister Kipkalya Kones and Assistant Home Affairs Minister Lorna Laboso - die in a plane crash near Narok in western Kenya while traveling to campaign in by-elections. ](/news/2008/06/10/two-kenyan-ministers-roads-minister-kipkalya-kones-and-assistant-home-affairs-minister-lorna-laboso-die-in-a-plane-crash-near-narok.md) _2018-02-06 13:49:18 (First version)_
 1. [ Two Kenyan ministers - Roads Minister Kipkalya Kones and Assistant Home Affairs Minister Lorna Laboso - die in a plane crash near Narok in western Kenya while traveling to campaign in by-elections. ](/news/2008/06/10/two-kenyan-ministers-a-roads-minister-kipkalya-kones-and-assistant-home-affairs-minister-lorna-laboso-a-die-in-a-plane-crash-near-narok.md) _(Current version)_
 
 ### Related:

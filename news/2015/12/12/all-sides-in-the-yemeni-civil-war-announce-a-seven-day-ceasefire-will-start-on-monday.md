@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/12/all-sides-in-the-yemeni-civil-war-announce-a-se
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): All sides in the Yemeni civil war announce a seven-day ceasefire will start on Monday. ](/news/2015/12/12/yemeni-civil-war-2015-all-sides-in-the-yemeni-civil-war-announce-a-seven-day-ceasefire-will-start-on-monday.md) _2017-08-27 03:44:20 (First version)_
+1. [Yemeni Civil War (2015): All sides in the Yemeni civil war announce a seven-day ceasefire will start on Monday. ](/news/2015/12/12/yemeni-civil-war-2015-all-sides-in-the-yemeni-civil-war-announce-a-seven-day-ceasefire-will-start-on-monday.md) _2018-02-06 13:49:28 (First version)_
 1. [All sides in the Yemeni civil war announce a seven-day ceasefire will start on Monday. ](/news/2015/12/12/all-sides-in-the-yemeni-civil-war-announce-a-seven-day-ceasefire-will-start-on-monday.md) _(Current version)_
 
 ### Related:

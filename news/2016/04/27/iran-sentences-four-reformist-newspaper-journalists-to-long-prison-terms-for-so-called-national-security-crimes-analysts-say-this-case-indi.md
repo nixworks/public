@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/27/iran-sentences-four-reformist-newspaper-journal
 
 ### Changes:
 
-1. [Censorship in Iran: Iran sentences four reformist newspaper journalists to long prison terms for so-called national security crimes. Analysts say this case indicates that President Hassan Rouhani's calls for press freedoms will likey face an unsympathetic hearing from Iran's conservative judiciary. ](/news/2016/04/27/censorship-in-iran-iran-sentences-four-reformist-newspaper-journalists-to-long-prison-terms-for-so-called-national-security-crimes-analyst.md) _2017-08-27 03:45:51 (First version)_
+1. [Censorship in Iran: Iran sentences four reformist newspaper journalists to long prison terms for so-called national security crimes. Analysts say this case indicates that President Hassan Rouhani's calls for press freedoms will likey face an unsympathetic hearing from Iran's conservative judiciary. ](/news/2016/04/27/censorship-in-iran-iran-sentences-four-reformist-newspaper-journalists-to-long-prison-terms-for-so-called-national-security-crimes-analyst.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran sentences four reformist newspaper journalists to long prison terms for so-called national security crimes. Analysts say this case indicates that President Hassan Rouhani's calls for press freedoms will likey face an unsympathetic hearing from Iran's conservative judiciary. ](/news/2016/04/27/iran-sentences-four-reformist-newspaper-journalists-to-long-prison-terms-for-so-called-national-security-crimes-analysts-say-this-case-indi.md) _(Current version)_
 
 ### Related:

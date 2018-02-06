@@ -16,7 +16,7 @@ The new rule could strip birth control coverage from millions of women, demolish
 
 ### Changes:
 
-1. [A Trump administration executive order reverses an Obama-era policy and allows employers and insurers to decline to provide birth control if doing so violates their "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obama-era-policy-and-allows-employers-and-insurers-to-decline-to-provide-birth-control-if.md) _2017-10-07 06:30:07 (First version)_
+1. [A Trump administration executive order reverses an Obama-era policy and allows employers and insurers to decline to provide birth control if doing so violates their "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obama-era-policy-and-allows-employers-and-insurers-to-decline-to-provide-birth-control-if.md) _2018-02-06 13:49:31 (First version)_
 1. [A Trump administration executive order reverses an Obamacare policy which mandated that employers and insurers provide their employees with birth control, regardless of one's "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obamacare-policy-which-mandated-that-employers-and-insurers-provide-their-employees-with.md) _(Current version)_
 
 ### Related:

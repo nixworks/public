@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/04/8/voters-in-djibouti-go-to-the-polls-for-the-first
 
 ### Changes:
 
-1. [Djiboutian presidential election, 2016: Voters in Djibouti go to the polls for the first round of voting in a presidential election with current President Ismail Omar Guelleh winning a fourth term in office. ](/news/2016/04/8/djiboutian-presidential-election-2016-voters-in-djibouti-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-cur.md) _2017-08-27 03:45:31 (First version)_
+1. [Djiboutian presidential election, 2016: Voters in Djibouti go to the polls for the first round of voting in a presidential election with current President Ismail Omar Guelleh winning a fourth term in office. ](/news/2016/04/8/djiboutian-presidential-election-2016-voters-in-djibouti-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-cur.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Djibouti go to the polls for the first round of voting in a presidential election with current President Ismail Omar Guelleh winning a fourth term in office. ](/news/2016/04/8/voters-in-djibouti-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-president-ismaa-l-omar-guelleh-winn.md) _(Current version)_
 
 ### Related:

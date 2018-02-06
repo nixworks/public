@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/09/10/human-rights-watch-issues-a-report-concluding-t
 
 ### Changes:
 
-1. [Syrian civil war:Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-phuman-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemica.md) _2017-08-25 03:39:15 (First version)_
-2. [Syrian civil war:: Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-human-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemic.md) _2017-08-27 03:39:31 (Update)_
+1. [Syrian civil war:Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-phuman-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemica.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-human-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemic.md) _2018-02-06 13:49:25 (Update)_
 2. [Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/human-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemical-weapons-attacks.md) _(Current version)_
 
 ### Related:

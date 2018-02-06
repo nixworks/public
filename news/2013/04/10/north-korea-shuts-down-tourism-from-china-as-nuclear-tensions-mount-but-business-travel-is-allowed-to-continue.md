@@ -18,8 +18,8 @@ The biggest border crossing between North Korea and China has been closed to tou
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/2013-korean-crisis-pnorth-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md) _2017-08-25 03:38:16 (First version)_
-2. [2013 Korean crisis:: North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/2013-korean-crisis-north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md) _2017-08-27 03:38:28 (Update)_
+1. [2013 Korean crisis:North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/2013-korean-crisis-pnorth-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/2013-korean-crisis-north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-bord
 
 ### Changes:
 
-1. [Conflict in Najran: Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/conflict-in-najran-saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the.md) _2017-08-27 03:46:33 (First version)_
+1. [Conflict in Najran: Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/conflict-in-najran-saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the-border-with-yemen.md) _(Current version)_
 
 ### Related:

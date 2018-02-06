@@ -19,7 +19,7 @@ Israeli warplanes raided at leasttwo targets in the Gaza Strip on Friday, Palest
 
 ### Changes:
 
-1. [Responding to Palestinians firing phosphorus shells and mortars into Israel, the Israel Air Force bombs at least two targets in the Gaza Strip and will file a complaint with the UN. The Salah al-Din Brigades claim responsibility, saying the rockets were responding to the killing of two members of the al-Qaida affiliated Army of Islam in Gaza. ](/news/2010/11/19/responding-to-palestinians-firing-phosphorus-shells-and-mortars-into-israel-the-israel-air-force-bombs-at-least-two-targets-in-the-gaza-st.md) _2017-08-25 03:31:06 (First version)_
+1. [Responding to Palestinians firing phosphorus shells and mortars into Israel, the Israel Air Force bombs at least two targets in the Gaza Strip and will file a complaint with the UN. The Salah al-Din Brigades claim responsibility, saying the rockets were responding to the killing of two members of the al-Qaida affiliated Army of Islam in Gaza. ](/news/2010/11/19/responding-to-palestinians-firing-phosphorus-shells-and-mortars-into-israel-the-israel-air-force-bombs-at-least-two-targets-in-the-gaza-st.md) _2018-02-06 13:49:21 (First version)_
 1. [Responding to Palestinians firing phosphorus shells and mortars into Israel, the Israel Air Force bombs at least two targets in the Gaza Strip and will file a complaint with the UN. The Salah al-Din Brigades claim responsibility, saying the rockets were responding to the killing of two members of the al-Qaida affiliated Army of Islam in Gaza. ](/news/2010/11/19/responding-to-palestinians-firing-phosphorus-shells-and-mortars-into-israel-the-israel-air-force-bombs-at-least-two-targets-in-the-gaza-str.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50
 
 ### Changes:
 
-1. [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md) _2017-08-25 03:37:42 (First version)_
+1. [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md) _2018-02-06 13:49:24 (First version)_
 1. [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. [http:--www.theaustralian.com.au-business-economics-china-office-pmi-for-february-down-to-501-reignites-slowdown-worry-story-e6frg926-1226588359770 ("The Australian)"]](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy-http-www-theaustralian-com-au-b.md) _(Current version)_
 
 ### Related:

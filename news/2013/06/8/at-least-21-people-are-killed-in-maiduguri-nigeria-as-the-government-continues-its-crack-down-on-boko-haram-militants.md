@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/8/at-least-21-people-are-killed-in-maiduguri-niger
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/nigerian-sharia-conflict-pat-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-mili.md) _2017-08-25 03:38:48 (First version)_
-2. [Nigerian Sharia conflict:: At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/nigerian-sharia-conflict-at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-mil.md) _2017-08-27 03:39:01 (Update)_
+1. [Nigerian Sharia conflict:At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/nigerian-sharia-conflict-pat-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-mili.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/nigerian-sharia-conflict-at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-mil.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-militants.md) _(Current version)_
 
 ### Related:

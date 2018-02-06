@@ -17,8 +17,8 @@ More than 1,000 people are preparing to leave their homes in New South Wales as 
 
 ### Changes:
 
-1. [Australian floods:Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/australian-floods-presidents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md) _2017-08-25 03:35:11 (First version)_
-2. [Australian floods:: Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/australian-floods-residents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md) _2017-08-27 03:35:21 (Update)_
+1. [Australian floods:: Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/australian-floods-residents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md) _2018-02-06 13:49:23 (First version)_
+2. [Australian floods:Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/australian-floods-presidents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md) _2018-02-06 13:49:23 (Update)_
 2. [Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/residents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md) _(Current version)_
 
 ### Related:

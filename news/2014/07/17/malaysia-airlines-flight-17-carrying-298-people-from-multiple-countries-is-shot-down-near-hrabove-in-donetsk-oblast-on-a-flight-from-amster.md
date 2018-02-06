@@ -18,8 +18,8 @@ A Malaysian airliner was shot down over eastern Ukraine by militants on Thursday
 
 ### Changes:
 
-1. [2014 insurgency in Donbass:Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/2014-insurgency-in-donbass-pmalaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-obl.md) _2017-08-25 03:40:42 (First version)_
-2. [2014 insurgency in Donbass:: Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/2014-insurgency-in-donbass-malaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-ob.md) _2017-08-27 03:40:59 (Update)_
+1. [2014 insurgency in Donbass:Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/2014-insurgency-in-donbass-pmalaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-obl.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 insurgency in Donbass:: Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/2014-insurgency-in-donbass-malaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-ob.md) _2018-02-06 13:49:26 (Update)_
 2. [Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/malaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-oblast-on-a-flight-from-amster.md) _(Current version)_
 
 ### Related:

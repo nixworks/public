@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/27/guyana-s-president-david-granger-accuses-venezu
 
 ### Changes:
 
-1. [Guyana-Venezuela relations: Guyana's President David Granger accuses Venezuela of massing troops, armored vehicles, and rockets along its disputed border. ](/news/2015/09/27/guyana-venezuela-relations-guyana-s-president-david-granger-accuses-venezuela-of-massing-troops-armored-vehicles-and-rockets-along-its.md) _2017-08-27 03:43:10 (First version)_
+1. [Guyana-Venezuela relations: Guyana's President David Granger accuses Venezuela of massing troops, armored vehicles, and rockets along its disputed border. ](/news/2015/09/27/guyana-venezuela-relations-guyana-s-president-david-granger-accuses-venezuela-of-massing-troops-armored-vehicles-and-rockets-along-its.md) _2018-02-06 13:49:27 (First version)_
 1. [Guyana's President David Granger accuses Venezuela of massing troops, armored vehicles, and rockets along its disputed border. ](/news/2015/09/27/guyana-s-president-david-granger-accuses-venezuela-of-massing-troops-armored-vehicles-and-rockets-along-its-disputed-border.md) _(Current version)_
 
 ### Related:

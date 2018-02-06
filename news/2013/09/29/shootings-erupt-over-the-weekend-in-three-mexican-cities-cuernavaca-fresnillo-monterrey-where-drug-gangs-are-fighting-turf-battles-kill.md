@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Mexican Drug War:Shootings erupt over the weekend in three Mexican cities (Cuernavaca, Fresnillo, Monterrey) where drug gangs are fighting turf battles, killing at least nine people and wounding six more. ](/news/2013/09/29/mexican-drug-war-pshootings-erupt-over-the-weekend-in-three-mexican-cities-cuernavaca-fresnillo-monterrey-where-drug-gangs-are-fighting.md) _2017-08-25 03:39:20 (First version)_
-2. [Mexican Drug War:: Shootings erupt over the weekend in three Mexican cities (Cuernavaca, Fresnillo, Monterrey) where drug gangs are fighting turf battles, killing at least nine people and wounding six more. ](/news/2013/09/29/mexican-drug-war-shootings-erupt-over-the-weekend-in-three-mexican-cities-cuernavaca-fresnillo-monterrey-where-drug-gangs-are-fighting.md) _2017-08-27 03:39:37 (Update)_
+1. [Mexican Drug War:: Shootings erupt over the weekend in three Mexican cities (Cuernavaca, Fresnillo, Monterrey) where drug gangs are fighting turf battles, killing at least nine people and wounding six more. ](/news/2013/09/29/mexican-drug-war-shootings-erupt-over-the-weekend-in-three-mexican-cities-cuernavaca-fresnillo-monterrey-where-drug-gangs-are-fighting.md) _2018-02-06 13:49:25 (First version)_
+2. [Mexican Drug War:Shootings erupt over the weekend in three Mexican cities (Cuernavaca, Fresnillo, Monterrey) where drug gangs are fighting turf battles, killing at least nine people and wounding six more. ](/news/2013/09/29/mexican-drug-war-pshootings-erupt-over-the-weekend-in-three-mexican-cities-cuernavaca-fresnillo-monterrey-where-drug-gangs-are-fighting.md) _2018-02-06 13:49:25 (Update)_
 2. [Shootings erupt over the weekend in three Mexican cities (Cuernavaca, Fresnillo, Monterrey) where drug gangs are fighting turf battles, killing at least nine people and wounding six more. ](/news/2013/09/29/shootings-erupt-over-the-weekend-in-three-mexican-cities-cuernavaca-fresnillo-monterrey-where-drug-gangs-are-fighting-turf-battles-kill.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Nicole battered Bermuda during its long journey through the Atlantic.
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Nicole impacts Bermuda at Category 3 strength, making it the strongest hurricane to effect the British Overseas Territory since Hurricane Fabian in 2003. ](/news/2016/10/13/2016-atlantic-hurricane-season-hurricane-nicole-impacts-bermuda-at-category-3-strength-making-it-the-strongest-hurricane-to-effect-the-bri.md) _2017-08-27 03:47:01 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Nicole impacts Bermuda at Category 3 strength, making it the strongest hurricane to effect the British Overseas Territory since Hurricane Fabian in 2003. ](/news/2016/10/13/2016-atlantic-hurricane-season-hurricane-nicole-impacts-bermuda-at-category-3-strength-making-it-the-strongest-hurricane-to-effect-the-bri.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Nicole impacts Bermuda at Category 3 strength, making it the strongest hurricane to effect the British Overseas Territory since Hurricane Fabian in 2003. ](/news/2016/10/13/hurricane-nicole-impacts-bermuda-at-category-3-strength-making-it-the-strongest-hurricane-to-effect-the-british-overseas-territory-since-hu.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Scientists from Kew Gardens have rediscovered a plant that has been presumed ext
 
 ### Changes:
 
-1. [Four specimens of ''Anogramma ascensionis'', a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and.md) _2017-08-25 03:28:24 (First version)_
+1. [Four specimens of ''Anogramma ascensionis'', a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and.md) _2018-02-06 13:49:20 (First version)_
 1. [Four specimens of "Anogramma ascensionis", a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and-we.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Prime Minister Malcolm Turnbull says Australians will go to the polls on July 2 
 
 ### Changes:
 
-1. [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissol.md) _2017-08-25 03:45:38 (First version)_
-2. [ Australian federal election, 2016: Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/australian-federal-election-2016-prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both.md) _2017-08-27 03:46:00 (Update)_
+1. [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissol.md) _2018-02-06 13:49:29 (First version)_
+2. [ Australian federal election, 2016: Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/australian-federal-election-2016-prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both.md) _2018-02-06 13:49:29 (Update)_
 2. [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissolv.md) _(Current version)_
 
 ### Related:

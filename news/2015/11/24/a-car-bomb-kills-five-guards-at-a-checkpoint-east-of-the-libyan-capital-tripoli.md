@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-ea
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/libyan-civil-war-2014-present-a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md) _2017-08-27 03:44:02 (First version)_
+1. [Libyan Civil War (2014-present): A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/libyan-civil-war-2014-present-a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md) _2018-02-06 13:49:28 (First version)_
 1. [A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md) _(Current version)_
 
 ### Related:

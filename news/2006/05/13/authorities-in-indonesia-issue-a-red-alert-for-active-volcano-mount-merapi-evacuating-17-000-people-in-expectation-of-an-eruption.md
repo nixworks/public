@@ -17,7 +17,7 @@ Lava streamed down the sides of Indonesia&#8217;s Mount Merapi on Tuesday, but t
 
 ### Changes:
 
-1. [ Authorities in Indonesia issue a red alert for active volcano Mt. Merapi, evacuating 17,000 people in expectation of an eruption. ](/news/2006/05/13/authorities-in-indonesia-issue-a-red-alert-for-active-volcano-mt-merapi-evacuating-17-000-people-in-expectation-of-an-eruption.md) _2017-09-24 03:19:59 (First version)_
+1. [ Authorities in Indonesia issue a red alert for active volcano Mt. Merapi, evacuating 17,000 people in expectation of an eruption. ](/news/2006/05/13/authorities-in-indonesia-issue-a-red-alert-for-active-volcano-mt-merapi-evacuating-17-000-people-in-expectation-of-an-eruption.md) _2018-02-06 13:49:17 (First version)_
 1. [ Authorities in Indonesia issue a red alert for active volcano Mount Merapi, evacuating 17,000 people in expectation of an eruption. ](/news/2006/05/13/authorities-in-indonesia-issue-a-red-alert-for-active-volcano-mount-merapi-evacuating-17-000-people-in-expectation-of-an-eruption.md) _(Current version)_
 
 ### Related:

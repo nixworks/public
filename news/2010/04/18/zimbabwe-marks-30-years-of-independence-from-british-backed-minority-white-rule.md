@@ -21,8 +21,8 @@ Celebrations likely to be subdued as country faces tough economic challenges.
 
 ### Changes:
 
-1. [Independence Day in Zimbabwe:Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/independence-day-in-zimbabwe-pzimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md) _2017-08-25 03:27:40 (First version)_
-2. [Independence Day in Zimbabwe:: Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/independence-day-in-zimbabwe-zimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md) _2017-08-27 03:27:37 (Update)_
+1. [Independence Day in Zimbabwe:: Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/independence-day-in-zimbabwe-zimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md) _2018-02-06 13:49:19 (First version)_
+2. [Independence Day in Zimbabwe:Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/independence-day-in-zimbabwe-pzimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md) _2018-02-06 13:49:19 (Update)_
 2. [Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/zimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md) _(Current version)_
 
 ### Related:

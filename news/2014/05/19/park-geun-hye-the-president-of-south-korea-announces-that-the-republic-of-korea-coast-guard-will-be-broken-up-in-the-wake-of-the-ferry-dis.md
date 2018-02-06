@@ -16,8 +16,8 @@ South Korea plans to break up its coastguard in the wake of the ferry disaster i
 
 ### Changes:
 
-1. [Sinking of the MV ''Sewol'':Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/sinking-of-the-mv-sewol-ppark-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up.md) _2017-08-25 03:40:25 (First version)_
-2. [Sinking of the MV "Sewol":: Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/sinking-of-the-mv-sewol-park-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up.md) _2017-08-27 03:40:43 (Update)_
+1. [Sinking of the MV ''Sewol'':Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/sinking-of-the-mv-sewol-ppark-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinking of the MV "Sewol":: Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/sinking-of-the-mv-sewol-park-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up.md) _2018-02-06 13:49:26 (Update)_
 2. [Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/park-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up-in-the-wake-of-the-ferry-dis.md) _(Current version)_
 
 ### Related:

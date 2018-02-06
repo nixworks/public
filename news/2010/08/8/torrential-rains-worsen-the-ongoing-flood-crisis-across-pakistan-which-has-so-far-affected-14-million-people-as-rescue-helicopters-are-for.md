@@ -19,8 +19,8 @@ Prime minister visits flood-hit areas in Sindh as people take refuge in governme
 
 ### Changes:
 
-1. [2010 Pakistan floods:Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-ptorrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-resc.md) _2017-08-25 03:29:18 (First version)_
-2. [2010 Pakistan floods:: Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-res.md) _2017-08-27 03:29:19 (Update)_
+1. [2010 Pakistan floods:: Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-res.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-ptorrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-resc.md) _2018-02-06 13:49:20 (Update)_
 2. [Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-rescue-helicopters-are-for.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitio
 
 ### Changes:
 
-1. [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi-s hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafi-s-hometown-of-sirt.md) _2017-08-27 03:34:13 (First version)_
+1. [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi-s hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafi-s-hometown-of-sirt.md) _2018-02-06 13:49:22 (First version)_
 1. [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafias-hometown-of-sirt.md) _(Current version)_
 
 ### Related:

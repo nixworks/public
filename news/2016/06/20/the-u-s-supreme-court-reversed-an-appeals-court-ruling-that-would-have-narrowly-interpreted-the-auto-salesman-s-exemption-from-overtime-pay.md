@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/20/the-u-s-supreme-court-reversed-an-appeals-court
 
 ### Changes:
 
-1. [The U.S. Supreme Court reversed an appeals court ruling that would have narrowly interpreted the auto salesman's exemption from overtime pay rules mandated by statute under rules promulgated by the U.S. Labor Department, remanding the matter for further consideration. ](/news/2016/06/20/the-u-s-supreme-court-reversed-an-appeals-court-ruling-that-would-have-narrowly-interpreted-the-auto-salesman-s-exemption-from-overtime-pa.md) _2017-08-25 03:45:55 (First version)_
+1. [The U.S. Supreme Court reversed an appeals court ruling that would have narrowly interpreted the auto salesman's exemption from overtime pay rules mandated by statute under rules promulgated by the U.S. Labor Department, remanding the matter for further consideration. ](/news/2016/06/20/the-u-s-supreme-court-reversed-an-appeals-court-ruling-that-would-have-narrowly-interpreted-the-auto-salesman-s-exemption-from-overtime-pa.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. Supreme Court reversed an appeals court ruling that would have narrowly interpreted the auto salesman's exemption from overtime pay rules mandated by statute under rules promulgated by the U.S. Labor Department, remanding the matter for further consideration. ](/news/2016/06/20/the-u-s-supreme-court-reversed-an-appeals-court-ruling-that-would-have-narrowly-interpreted-the-auto-salesman-s-exemption-from-overtime-pay.md) _(Current version)_
 
 ### Related:

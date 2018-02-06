@@ -18,8 +18,8 @@ Two teenagers have been charged in connection with racist attacks on Romanian fa
 
 ### Changes:
 
-1. [ Attacks on Romanians in An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/attacks-on-romanians-in-an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _2017-08-25 03:24:56 (First version)_
-2. [ Attacks on Romanians in Belfast: An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/attacks-on-romanians-in-belfast-an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _2017-08-27 03:24:47 (Update)_
+1. [ Attacks on Romanians in Belfast: An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/attacks-on-romanians-in-belfast-an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _2018-02-06 13:49:19 (First version)_
+2. [ Attacks on Romanians in An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/attacks-on-romanians-in-an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _2018-02-06 13:49:19 (Update)_
 2. [ An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _(Current version)_
 
 ### Related:

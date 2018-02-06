@@ -16,7 +16,7 @@ Rebel group clashes with army as week-long offensive continues into the Azawad a
 
 ### Changes:
 
-1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011-present-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _2017-08-27 03:35:03 (First version)_
+1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011-present-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _2018-02-06 13:49:23 (First version)_
 1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011apresent-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _(Current version)_
 
 ### Related:

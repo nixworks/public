@@ -17,7 +17,7 @@ Satellite analysis confirms the destruction of the most significant temple in th
 
 ### Changes:
 
-1. [Destruction of cultural heritage by ISIL: The United Nations confirms the Islamic State of Iraq and the Levant has completely destroyed the Temple of Bel in Palmyra, Syria, after earlier reports that the structure was mostly intact. ](/news/2015/09/1/destruction-of-cultural-heritage-by-isil-the-united-nations-confirms-the-islamic-state-of-iraq-and-the-levant-has-completely-destroyed-the.md) _2017-08-27 03:42:56 (First version)_
+1. [Destruction of cultural heritage by ISIL: The United Nations confirms the Islamic State of Iraq and the Levant has completely destroyed the Temple of Bel in Palmyra, Syria, after earlier reports that the structure was mostly intact. ](/news/2015/09/1/destruction-of-cultural-heritage-by-isil-the-united-nations-confirms-the-islamic-state-of-iraq-and-the-levant-has-completely-destroyed-the.md) _2018-02-06 13:49:27 (First version)_
 1. [The United Nations confirms the Islamic State of Iraq and the Levant has completely destroyed the Temple of Bel in Palmyra, Syria, after earlier reports that the structure was mostly intact. ](/news/2015/09/1/the-united-nations-confirms-the-islamic-state-of-iraq-and-the-levant-has-completely-destroyed-the-temple-of-bel-in-palmyra-syria-after-ear.md) _(Current version)_
 
 ### Related:

@@ -5,11 +5,11 @@ Formats: [HTML](2014/04/22/index.html)  [JSON](2014/04/22/index.json)  [XML](201
 
 ##### Simon Ostrovsky
 ### [Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.md)
-_Context: Sloviansk, Simon Ostrovsky, Vyacheslav Ponomarev_
+_Context: Vyacheslav Ponomarev, Simon Ostrovsky, Sloviansk_
 
 ##### War in North-West Pakistan
 ### [Nine people are killed and dozens wounded in two separate bomb and gun attacks in north west Pakistan. ](/news/2014/04/22/nine-people-are-killed-and-dozens-wounded-in-two-separate-bomb-and-gun-attacks-in-north-west-pakistan.md)
-_Context: War in North-West Pakistan, Pakistan_
+_Context: Pakistan, War in North-West Pakistan_
 
 ##### Mogadishu
 ### [A Somali lawmaker is shot and killed as he leaves his home in Mogadishu, Somalia. ](/news/2014/04/22/a-somali-lawmaker-is-shot-and-killed-as-he-leaves-his-home-in-mogadishu-somalia.md)

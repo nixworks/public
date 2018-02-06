@@ -18,7 +18,7 @@ Italian coastguard, navy, as well as humanitarian agency Doctors Without Borders
 
 ### Changes:
 
-1. [European migrant crisis: Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/european-migrant-crisis-italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md) _2017-08-27 03:43:05 (First version)_
+1. [European migrant crisis: Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/european-migrant-crisis-italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md) _2018-02-06 13:49:27 (First version)_
 1. [Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md) _(Current version)_
 
 ### Related:

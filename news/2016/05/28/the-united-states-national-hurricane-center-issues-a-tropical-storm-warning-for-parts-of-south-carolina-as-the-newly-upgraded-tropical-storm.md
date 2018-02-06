@@ -18,7 +18,7 @@ The storm is forecast to bring up to three inches of rain to the Carolinas. In T
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/2016-atlantic-hurricane-season-the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-t.md) _2017-08-27 03:46:09 (First version)_
+1. [2016 Atlantic hurricane season: The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/2016-atlantic-hurricane-season-the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-t.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-the-newly-upgraded-tropical-storm.md) _(Current version)_
 
 ### Related:

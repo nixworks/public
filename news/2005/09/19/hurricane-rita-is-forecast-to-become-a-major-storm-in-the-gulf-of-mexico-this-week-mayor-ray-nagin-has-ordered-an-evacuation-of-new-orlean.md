@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-st
 
 ### Changes:
 
-1. [ Hurricane Rita is forecast to become a major storm in the Gulf of Mexico this week. Mayor Ray Nagin has ordered an evacuation of New Orleans. ](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-storm-in-the-gulf-of-mexico-this-week-mayor-ray-nagin-has-ordered-an-evacuation-of-new-orle.md) _2017-08-25 03:16:49 (First version)_
+1. [ Hurricane Rita is forecast to become a major storm in the Gulf of Mexico this week. Mayor Ray Nagin has ordered an evacuation of New Orleans. ](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-storm-in-the-gulf-of-mexico-this-week-mayor-ray-nagin-has-ordered-an-evacuation-of-new-orle.md) _2018-02-06 13:49:16 (First version)_
 1. [ Hurricane Rita is forecast to become a major storm in the Gulf of Mexico this week. Mayor Ray Nagin has ordered an evacuation of New Orleans. ](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-storm-in-the-gulf-of-mexico-this-week-mayor-ray-nagin-has-ordered-an-evacuation-of-new-orlean.md) _(Current version)_
 
 ### Related:

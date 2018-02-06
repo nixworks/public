@@ -17,8 +17,8 @@ Eleven men were shot dead in Cape Verde on Tuesday, including eight soldiers, a 
 
 ### Changes:
 
-1. [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-s.md) _2017-08-25 03:45:28 (First version)_
-2. [Monte Tchota massacre: Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/monte-tchota-massacre-eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a.md) _2017-08-27 03:45:51 (Update)_
+1. [Monte Tchota massacre: Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/monte-tchota-massacre-eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a.md) _2018-02-06 13:49:28 (First version)_
+2. [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-s.md) _2018-02-06 13:49:28 (Update)_
 2. [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-so.md) _(Current version)_
 
 ### Related:

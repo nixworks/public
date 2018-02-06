@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/8/a-chinese-court-sentences-eight-people-to-death-
 
 ### Changes:
 
-1. [May 2014 rmqi attack:A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-pa-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _2017-08-25 03:41:18 (First version)_
-2. [May 2014 rmqi attack:: A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-a-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _2017-08-27 03:41:36 (Update)_
+1. [May 2014 rmqi attack:A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-pa-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _2018-02-06 13:49:26 (First version)_
+2. [May 2014 rmqi attack:: A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-a-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _2018-02-06 13:49:26 (Update)_
 2. [A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/a-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A roadside bomb in eastern Afghanistan killed 18 people, including at least five
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001apresent-pa-roadside-bomb-in-eastern-afghanistan-kills-18-people.md) _2017-08-25 03:39:26 (First version)_
-2. [War in Afghanistan (2001-present):: A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001-present-a-roadside-bomb-in-eastern-afghanistan-kills-18-people.md) _2017-08-27 03:39:44 (Update)_
+1. [War in Afghanistan (2001-present):A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001apresent-pa-roadside-bomb-in-eastern-afghanistan-kills-18-people.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001-present-a-roadside-bomb-in-eastern-afghanistan-kills-18-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/a-roadside-bomb-in-eastern-afghanistan-kills-18-people.md) _(Current version)_
 
 ### Related:

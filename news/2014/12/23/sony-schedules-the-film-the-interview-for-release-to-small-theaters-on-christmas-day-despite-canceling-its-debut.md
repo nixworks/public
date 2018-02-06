@@ -16,7 +16,7 @@ NEW YORK — Sony Pictures Entertainment announced Tuesday a limited theatrical 
 
 ### Changes:
 
-1. [Sony Pictures Entertainment hack: Sony schedules the film "The Interview" for release to small theaters on Christmas Day despite canceling its debut. ](/news/2014/12/23/sony-pictures-entertainment-hack-sony-schedules-the-film-the-interview-for-release-to-small-theaters-on-christmas-day-despite-canceling-i.md) _2017-08-27 03:41:40 (First version)_
+1. [Sony Pictures Entertainment hack: Sony schedules the film "The Interview" for release to small theaters on Christmas Day despite canceling its debut. ](/news/2014/12/23/sony-pictures-entertainment-hack-sony-schedules-the-film-the-interview-for-release-to-small-theaters-on-christmas-day-despite-canceling-i.md) _2018-02-06 13:49:26 (First version)_
 1. [Sony schedules the film "The Interview" for release to small theaters on Christmas Day despite canceling its debut. ](/news/2014/12/23/sony-schedules-the-film-the-interview-for-release-to-small-theaters-on-christmas-day-despite-canceling-its-debut.md) _(Current version)_
 
 ### Related:

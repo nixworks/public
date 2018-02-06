@@ -16,7 +16,7 @@ The Arab League is delaying sending more monitors to Syria, as its mission runs 
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011-2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _2017-08-27 03:34:59 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011-2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _(Current version)_
 
 ### Related:

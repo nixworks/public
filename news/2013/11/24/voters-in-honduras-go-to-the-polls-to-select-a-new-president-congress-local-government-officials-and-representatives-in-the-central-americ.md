@@ -16,8 +16,8 @@ Juan Orlando Hernandez, a lawyer and former head of Congress, is leading the pre
 
 ### Changes:
 
-1. [Honduran general election, 2013:Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/honduran-general-election-2013-pvoters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-repr.md) _2017-08-25 03:39:35 (First version)_
-2. [Honduran general election, 2013:: Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/honduran-general-election-2013-voters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-rep.md) _2017-08-27 03:39:53 (Update)_
+1. [Honduran general election, 2013:: Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/honduran-general-election-2013-voters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-rep.md) _2018-02-06 13:49:25 (First version)_
+2. [Honduran general election, 2013:Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/honduran-general-election-2013-pvoters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-repr.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/voters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-representatives-in-the-central-americ.md) _(Current version)_
 
 ### Related:

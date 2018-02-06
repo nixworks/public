@@ -16,7 +16,7 @@ The Syrian army, fighting alongside Lebanon&#39;s Hezbollah, has seized the last
 
 ### Changes:
 
-1. [The Syrian army and its allies capture Albu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-albu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _2017-11-09 10:30:06 (First version)_
+1. [The Syrian army and its allies capture Albu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-albu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _2018-02-06 13:49:31 (First version)_
 1. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

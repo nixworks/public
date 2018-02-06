@@ -16,7 +16,7 @@ Seven persons were today killed and 30 others injured after a bus overturned nea
 
 ### Changes:
 
-1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkand.md) _2017-06-24 03:48:10 (First version)_
+1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkand.md) _2018-02-06 13:49:29 (First version)_
 1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkhand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.md) _(Current version)_
 
 ### Related:

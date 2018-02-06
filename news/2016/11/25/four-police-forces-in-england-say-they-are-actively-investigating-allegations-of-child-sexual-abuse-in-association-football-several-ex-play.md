@@ -16,7 +16,7 @@ Four police forces say they are looking into allegations of historical child sex
 
 ### Changes:
 
-1. [English football sexual abuse scandal: Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/english-football-sexual-abuse-scandal-four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-i.md) _2017-08-27 03:47:18 (First version)_
+1. [English football sexual abuse scandal: Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/english-football-sexual-abuse-scandal-four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-i.md) _2018-02-06 13:49:29 (First version)_
 1. [Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. ](/news/2016/11/25/four-police-forces-in-england-say-they-are-actively-investigating-allegations-of-child-sexual-abuse-in-association-football-several-ex-play.md) _(Current version)_
 
 ### Related:

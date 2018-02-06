@@ -19,8 +19,8 @@ Rioting spreads to a number of cities with unrest in Manchester and Liverpool, w
 
 ### Changes:
 
-1. [England riots:Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-prioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-large.md) _2017-08-25 03:33:59 (First version)_
-2. [England riots:: Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-larg.md) _2017-08-27 03:34:06 (Update)_
+1. [England riots:: Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-larg.md) _2018-02-06 13:49:22 (First version)_
+2. [England riots:Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/england-riots-prioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-large.md) _2018-02-06 13:49:22 (Update)_
 2. [Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-largely-quiet.md) _(Current version)_
 
 ### Related:

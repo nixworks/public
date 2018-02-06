@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a
 
 ### Changes:
 
-1. [ Jyllands-Posten Muhammad cartoons controversy: A Finnish editor of the paper ''Kaltio'', Jussi Vilkuna, was fired after refusing to remove a Muhammed-cartoon on the online version of the paper. This cartoon featured a westerner in the grips of Muhammad (who was masked), and Finnish politicians burning Danish flags. ](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a-finnish-editor-of-the-paper-kaltio-jussi-vilkuna-was-fired-after-refusing-to-remove.md) _2017-08-25 03:17:28 (First version)_
+1. [ Jyllands-Posten Muhammad cartoons controversy: A Finnish editor of the paper ''Kaltio'', Jussi Vilkuna, was fired after refusing to remove a Muhammed-cartoon on the online version of the paper. This cartoon featured a westerner in the grips of Muhammad (who was masked), and Finnish politicians burning Danish flags. ](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a-finnish-editor-of-the-paper-kaltio-jussi-vilkuna-was-fired-after-refusing-to-remove.md) _2018-02-06 13:49:16 (First version)_
 1. [ Jyllands-Posten Muhammad cartoons controversy: A Finnish editor of the paper "Kaltio", Jussi Vilkuna, was fired after refusing to remove a Muhammed-cartoon on the online version of the paper. This cartoon featured a westerner in the grips of Muhammad (who was masked), and Finnish politicians burning Danish flags. ](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a-finnish-editor-of-the-paper-kaltio-jussi-vilkuna-was-fired-after-refusing-to-remove-a.md) _(Current version)_
 
 ### Related:

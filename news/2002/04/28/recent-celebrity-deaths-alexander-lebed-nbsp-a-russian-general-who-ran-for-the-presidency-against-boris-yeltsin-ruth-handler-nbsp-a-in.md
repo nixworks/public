@@ -11,8 +11,8 @@ Formats: [HTML](/news/2002/04/28/recent-celebrity-deaths-alexander-lebed-nbsp-a-
 
 ### Changes:
 
-1. [Recent celebrity deaths: Alexander Lebed&nbsp;- Russian General who ran for the presidency against Boris Yeltsin; Ruth Handler&nbsp;- inventor of the Barbie Doll](/news/2002/04/28/recent-celebrity-deaths-alexander-lebed-nbsp-a-russian-general-who-ran-for-the-presidency-against-boris-yeltsin-ruth-handler-nbsp-a-i.md) _2017-08-25 03:15:12 (First version)_
-2. [Recent celebrity deaths: Alexander Lebed&nbsp;- Russian General who ran for the presidency against Boris Yeltsin; Ruth Handler&nbsp;- inventor of the Barbie Doll](/news/2002/04/28/recent-celebrity-deaths-alexander-lebed-nbsp-russian-general-who-ran-for-the-presidency-against-boris-yeltsin-ruth-handler-nbsp-in.md) _2017-08-27 03:15:13 (Update)_
+1. [Recent celebrity deaths: Alexander Lebed&nbsp;- Russian General who ran for the presidency against Boris Yeltsin; Ruth Handler&nbsp;- inventor of the Barbie Doll](/news/2002/04/28/recent-celebrity-deaths-alexander-lebed-nbsp-russian-general-who-ran-for-the-presidency-against-boris-yeltsin-ruth-handler-nbsp-in.md) _2018-02-06 13:49:15 (First version)_
+2. [Recent celebrity deaths: Alexander Lebed&nbsp;- Russian General who ran for the presidency against Boris Yeltsin; Ruth Handler&nbsp;- inventor of the Barbie Doll](/news/2002/04/28/recent-celebrity-deaths-alexander-lebed-nbsp-a-russian-general-who-ran-for-the-presidency-against-boris-yeltsin-ruth-handler-nbsp-a-i.md) _2018-02-06 13:49:15 (Update)_
 2. [Recent celebrity deaths: Alexander Lebed&nbsp;- Russian General who ran for the presidency against Boris Yeltsin; Ruth Handler&nbsp;- inventor of the Barbie Doll](/news/2002/04/28/recent-celebrity-deaths-alexander-lebed-nbsp-a-russian-general-who-ran-for-the-presidency-against-boris-yeltsin-ruth-handler-nbsp-a-in.md) _(Current version)_
 
 ### Related:

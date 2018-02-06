@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/10/18/former-prime-minister-of-pakistan-benazir-bhutt
 
 ### Changes:
 
-1. [ Return of Benazir Bhutto: Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/return-of-benazir-bhutto-p-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-cro.md) _2017-08-25 03:21:12 (First version)_
-2. [ Return of Benazir Bhutto:: Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/return-of-benazir-bhutto-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-cro.md) _2017-08-27 03:21:07 (Update)_
+1. [ Return of Benazir Bhutto: Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/return-of-benazir-bhutto-p-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-cro.md) _2018-02-06 13:49:18 (First version)_
+2. [ Return of Benazir Bhutto:: Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/return-of-benazir-bhutto-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-cro.md) _2018-02-06 13:49:18 (Update)_
 2. [ Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-crowd-of-a-million-expected-in.md) _(Current version)_
 
 ### Related:

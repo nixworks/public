@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/3/index.html)  [JSON](2015/05/3/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-mission.md)
-_Context: Yemen, Yemeni Civil War (2015), Aden_
+_Context: Aden, Yemeni Civil War (2015), Yemen_
 
 ##### Moro insurgency in the Philippines
 ### [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md)
@@ -33,11 +33,11 @@ Two suspects opened fire outside the Curtis Culwell Center during a Muhammad art
 
 ##### Madison, Wisconsin
 ### [Madison, Wisconsin, becomes one of the first cities in the United States to make discrimination against atheists illegal. ](/news/2015/05/3/madison-wisconsin-becomes-one-of-the-first-cities-in-the-united-states-to-make-discrimination-against-atheists-illegal.md)
-_Context: Madison, Wisconsin, discrimination against atheists_
+_Context: discrimination against atheists, Madison, Wisconsin_
 
 ##### 2016 U.S. presidential election
 ### [Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-annou.md)
-_Context: the state, Republican, 2016 U.S. presidential election, neurosurgeon, Ben Carson, Detroit_
+_Context: neurosurgeon, Republican, Detroit, Ben Carson, 2016 U.S. presidential election, the state_
 
 ##### Nagorno-Karabakh parliamentary election, 2015
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)

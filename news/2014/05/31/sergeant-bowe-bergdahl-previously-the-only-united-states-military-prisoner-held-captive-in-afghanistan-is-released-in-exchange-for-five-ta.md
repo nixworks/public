@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-unit
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/war-in-afghanistan-2001-present-sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan.md) _2017-08-27 03:40:46 (First version)_
+1. [War in Afghanistan (2001-present): Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/war-in-afghanistan-2001-present-sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan.md) _2018-02-06 13:49:26 (First version)_
 1. [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md) _(Current version)_
 
 ### Related:

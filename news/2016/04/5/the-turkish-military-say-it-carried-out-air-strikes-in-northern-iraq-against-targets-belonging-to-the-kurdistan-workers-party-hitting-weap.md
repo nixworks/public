@@ -15,7 +15,7 @@ Turkish army says air strikes hit weapon stores, shelters in Qandil area of nort
 
 ### Changes:
 
-1. [PKK rebellion (2015-present): The Turkish military say it carried out air strikes in northern Iraq against targets belonging to the Kurdistan Workers' Party, hitting weapon stores and shelters. ](/news/2016/04/5/pkk-rebellion-2015-present-the-turkish-military-say-it-carried-out-air-strikes-in-northern-iraq-against-targets-belonging-to-the-kurdis.md) _2017-08-27 03:45:30 (First version)_
+1. [PKK rebellion (2015-present): The Turkish military say it carried out air strikes in northern Iraq against targets belonging to the Kurdistan Workers' Party, hitting weapon stores and shelters. ](/news/2016/04/5/pkk-rebellion-2015-present-the-turkish-military-say-it-carried-out-air-strikes-in-northern-iraq-against-targets-belonging-to-the-kurdis.md) _2018-02-06 13:49:29 (First version)_
 1. [The Turkish military say it carried out air strikes in northern Iraq against targets belonging to the Kurdistan Workers' Party, hitting weapon stores and shelters. ](/news/2016/04/5/the-turkish-military-say-it-carried-out-air-strikes-in-northern-iraq-against-targets-belonging-to-the-kurdistan-workers-party-hitting-weap.md) _(Current version)_
 
 ### Related:

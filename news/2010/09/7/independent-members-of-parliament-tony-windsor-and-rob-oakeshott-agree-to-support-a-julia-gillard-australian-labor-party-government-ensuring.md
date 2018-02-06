@@ -17,7 +17,7 @@ Key independent MP Bob Katter has announced he will back the Coalition in a mino
 
 ### Changes:
 
-1. [2010 Australian federal election: Independent members of parliament Tony Windsor and Rob Oakeshott agree to support a Julia Gillard Australian Labor Party Government ensuring that Labor will be able to form a Government. ](/news/2010/09/7/2010-australian-federal-election-independent-members-of-parliament-tony-windsor-and-rob-oakeshott-agree-to-support-a-julia-gillard-australi.md) _2017-08-27 03:29:58 (First version)_
+1. [2010 Australian federal election: Independent members of parliament Tony Windsor and Rob Oakeshott agree to support a Julia Gillard Australian Labor Party Government ensuring that Labor will be able to form a Government. ](/news/2010/09/7/2010-australian-federal-election-independent-members-of-parliament-tony-windsor-and-rob-oakeshott-agree-to-support-a-julia-gillard-australi.md) _2018-02-06 13:49:20 (First version)_
 1. [Independent members of parliament Tony Windsor and Rob Oakeshott agree to support a Julia Gillard Australian Labor Party Government ensuring that Labor will be able to form a Government. ](/news/2010/09/7/independent-members-of-parliament-tony-windsor-and-rob-oakeshott-agree-to-support-a-julia-gillard-australian-labor-party-government-ensuring.md) _(Current version)_
 
 ### Related:

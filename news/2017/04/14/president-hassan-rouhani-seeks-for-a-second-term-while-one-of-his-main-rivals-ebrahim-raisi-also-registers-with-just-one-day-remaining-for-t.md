@@ -16,7 +16,7 @@ Upcoming vote will be seen, among other things, as a referendum on the landmark 
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: President Hassan Rouhani seeks for a second term while one of his main rivals Ebrahim Raisi also registers with just one day remaining for the submission. ](/news/2017/04/14/iranian-presidential-election-2017-president-hassan-rouhani-seeks-for-a-second-term-while-one-of-his-main-rivals-ebrahim-raisi-also-regist.md) _2017-08-27 03:48:09 (First version)_
+1. [Iranian presidential election, 2017: President Hassan Rouhani seeks for a second term while one of his main rivals Ebrahim Raisi also registers with just one day remaining for the submission. ](/news/2017/04/14/iranian-presidential-election-2017-president-hassan-rouhani-seeks-for-a-second-term-while-one-of-his-main-rivals-ebrahim-raisi-also-regist.md) _2018-02-06 13:49:30 (First version)_
 1. [President Hassan Rouhani seeks for a second term while one of his main rivals Ebrahim Raisi also registers with just one day remaining for the submission. ](/news/2017/04/14/president-hassan-rouhani-seeks-for-a-second-term-while-one-of-his-main-rivals-ebrahim-raisi-also-registers-with-just-one-day-remaining-for-t.md) _(Current version)_
 
 ### Related:

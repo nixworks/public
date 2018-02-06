@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/16/france-deports-twenty-russian-football-fans-inc
 
 ### Changes:
 
-1. [Violence at UEFA Euro 2016: France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/violence-at-uefa-euro-2016-france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporter.md) _2017-08-27 03:46:17 (First version)_
+1. [Violence at UEFA Euro 2016: France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/violence-at-uefa-euro-2016-france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporter.md) _2018-02-06 13:49:29 (First version)_
 1. [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md) _(Current version)_
 
 ### Related:

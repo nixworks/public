@@ -16,7 +16,7 @@ Rescue teams worked Sunday to reopen roads to remote communities in Dominica aft
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Dominican Prime Minister Roosevelt Skerrit declares disaster status for nine local areas where access by road is impossible after flooding and mudslides from Tropical Storm Erika which killed at least 20 people and left more than 50 missing. Skerrit also appealed for international aid. ](/news/2015/08/30/2015-atlantic-hurricane-season-dominican-prime-minister-roosevelt-skerrit-declares-disaster-status-for-nine-local-areas-where-access-by-roa.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Atlantic hurricane season: Dominican Prime Minister Roosevelt Skerrit declares disaster status for nine local areas where access by road is impossible after flooding and mudslides from Tropical Storm Erika which killed at least 20 people and left more than 50 missing. Skerrit also appealed for international aid. ](/news/2015/08/30/2015-atlantic-hurricane-season-dominican-prime-minister-roosevelt-skerrit-declares-disaster-status-for-nine-local-areas-where-access-by-roa.md) _2018-02-06 13:49:27 (First version)_
 1. [Dominican Prime Minister Roosevelt Skerrit declares disaster status for nine local areas where access by road is impossible after flooding and mudslides from Tropical Storm Erika which killed at least 20 people and left more than 50 missing. Skerrit also appealed for international aid. ](/news/2015/08/30/dominican-prime-minister-roosevelt-skerrit-declares-disaster-status-for-nine-local-areas-where-access-by-road-is-impossible-after-flooding-a.md) _(Current version)_
 
 ### Related:

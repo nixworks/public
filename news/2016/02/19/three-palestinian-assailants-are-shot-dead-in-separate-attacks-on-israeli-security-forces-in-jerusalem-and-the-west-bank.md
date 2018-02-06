@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-s
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-i.md) _2017-08-27 03:44:57 (First version)_
+1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md) _(Current version)_
 
 ### Related:

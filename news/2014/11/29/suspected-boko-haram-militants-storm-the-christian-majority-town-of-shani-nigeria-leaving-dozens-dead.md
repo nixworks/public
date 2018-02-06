@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/11/29/suspected-boko-haram-militants-storm-the-christ
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/islamist-insurgency-in-nigeria-psuspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _2017-08-25 03:41:16 (First version)_
-2. [Islamist insurgency in Nigeria:: Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _2017-08-27 03:41:34 (Update)_
+1. [Islamist insurgency in Nigeria:: Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/islamist-insurgency-in-nigeria-psuspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _2018-02-06 13:49:26 (Update)_
 2. [Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md) _(Current version)_
 
 ### Related:

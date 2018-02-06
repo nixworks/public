@@ -16,7 +16,7 @@ Here is the text of Gov. Mark Dayton’s announcement that he would be appointin
 
 ### Changes:
 
-1. [Minnesota Governor Mark Dayton is scheduled to announce the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-is-scheduled-to-announce-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-u.md) _2017-12-13 22:30:07 (First version)_
+1. [Minnesota Governor Mark Dayton is scheduled to announce the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-is-scheduled-to-announce-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-u.md) _2018-02-06 13:49:31 (First version)_
 1. [Minnesota Governor Mark Dayton announces the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-announces-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-united-states-se.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ North Korea and weapons of mass destruction: A top U.S. general says that he believes North Korea may conduct another nuclear test in the future. ](/news/2007/01/9/north-korea-and-weapons-of-mass-destruction-p-a-top-u-s-general-says-that-he-believes-north-korea-may-conduct-another-nuclear-test-in-the.md) _2017-08-25 03:18:59 (First version)_
-2. [ North Korea and weapons of mass destruction:: A top U.S. general says that he believes North Korea may conduct another nuclear test in the future. ](/news/2007/01/9/north-korea-and-weapons-of-mass-destruction-a-top-u-s-general-says-that-he-believes-north-korea-may-conduct-another-nuclear-test-in-the.md) _2017-08-27 03:18:55 (Update)_
+1. [ North Korea and weapons of mass destruction: A top U.S. general says that he believes North Korea may conduct another nuclear test in the future. ](/news/2007/01/9/north-korea-and-weapons-of-mass-destruction-p-a-top-u-s-general-says-that-he-believes-north-korea-may-conduct-another-nuclear-test-in-the.md) _2018-02-06 13:49:17 (First version)_
+2. [ North Korea and weapons of mass destruction:: A top U.S. general says that he believes North Korea may conduct another nuclear test in the future. ](/news/2007/01/9/north-korea-and-weapons-of-mass-destruction-a-top-u-s-general-says-that-he-believes-north-korea-may-conduct-another-nuclear-test-in-the.md) _2018-02-06 13:49:17 (Update)_
 2. [ A top U.S. general says that he believes North Korea may conduct another nuclear test in the future. ](/news/2007/01/9/a-top-u-s-general-says-that-he-believes-north-korea-may-conduct-another-nuclear-test-in-the-future.md) _(Current version)_
 
 ### Related:

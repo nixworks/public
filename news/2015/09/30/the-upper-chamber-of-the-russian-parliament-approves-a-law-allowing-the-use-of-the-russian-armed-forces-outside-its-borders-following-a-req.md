@@ -20,7 +20,7 @@ The escalation comes after Russia&rsquo;s parliament backed the use of military 
 
 ### Changes:
 
-1. [Russian involvement in the Syrian Civil War: The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/russian-involvement-in-the-syrian-civil-war-the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-arme.md) _2017-08-27 03:43:12 (First version)_
+1. [Russian involvement in the Syrian Civil War: The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/russian-involvement-in-the-syrian-civil-war-the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-arme.md) _2018-02-06 13:49:27 (First version)_
 1. [The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-armed-forces-outside-its-borders-following-a-req.md) _(Current version)_
 
 ### Related:

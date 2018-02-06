@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ H5N1 bird flu virus: The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/h5n1-bird-flu-virus-p-the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md) _2017-08-25 03:17:27 (First version)_
-2. [ H5N1 bird flu virus:: The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/h5n1-bird-flu-virus-the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md) _2017-08-27 03:17:26 (Update)_
+1. [ H5N1 bird flu virus:: The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/h5n1-bird-flu-virus-the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md) _2018-02-06 13:49:16 (First version)_
+2. [ H5N1 bird flu virus: The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/h5n1-bird-flu-virus-p-the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md) _2018-02-06 13:49:16 (Update)_
 2. [ The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md) _(Current version)_
 
 ### Related:

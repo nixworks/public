@@ -20,8 +20,8 @@ SIX bodies, including that of a child, have been found in the sodden wreckage le
 
 ### Changes:
 
-1. [2013 Solomon Islands earthquake:A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-pa-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqua.md) _2017-08-25 03:37:27 (First version)_
-2. [2013 Solomon Islands earthquake:: A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-a-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqu.md) _2017-08-27 03:37:37 (Update)_
+1. [2013 Solomon Islands earthquake:A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-pa-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqua.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Solomon Islands earthquake:: A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-a-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqu.md) _2018-02-06 13:49:24 (Update)_
 2. [A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/a-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthquake-occurs-off-the-coast-of-the-so.md) _(Current version)_
 
 ### Related:

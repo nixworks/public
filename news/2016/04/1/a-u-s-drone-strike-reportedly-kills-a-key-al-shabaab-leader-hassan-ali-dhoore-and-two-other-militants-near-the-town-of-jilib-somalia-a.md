@@ -16,7 +16,7 @@ WASHINGTON (AP) — A U.S. drone strike in Somalia has targeted a key leader of 
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A U.S. drone strike reportedly kills a key Al-Shabaab leader, Hassan Ali Dhoore, and two other militants, near the town of Jilib, Somalia, according to several U.S. officials. ](/news/2016/04/1/war-in-somalia-2009-present-a-u-s-drone-strike-reportedly-kills-a-key-al-shabaab-leader-hassan-ali-dhoore-and-two-other-militants-n.md) _2017-08-27 03:45:27 (First version)_
+1. [War in Somalia (2009-present): A U.S. drone strike reportedly kills a key Al-Shabaab leader, Hassan Ali Dhoore, and two other militants, near the town of Jilib, Somalia, according to several U.S. officials. ](/news/2016/04/1/war-in-somalia-2009-present-a-u-s-drone-strike-reportedly-kills-a-key-al-shabaab-leader-hassan-ali-dhoore-and-two-other-militants-n.md) _2018-02-06 13:49:28 (First version)_
 1. [A U.S. drone strike reportedly kills a key Al-Shabaab leader, Hassan Ali Dhoore, and two other militants, near the town of Jilib, Somalia, according to several U.S. officials. ](/news/2016/04/1/a-u-s-drone-strike-reportedly-kills-a-key-al-shabaab-leader-hassan-ali-dhoore-and-two-other-militants-near-the-town-of-jilib-somalia-a.md) _(Current version)_
 
 ### Related:

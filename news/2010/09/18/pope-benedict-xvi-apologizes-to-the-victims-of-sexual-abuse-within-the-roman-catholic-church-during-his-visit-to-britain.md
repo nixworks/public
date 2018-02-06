@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/09/18/pope-benedict-xvi-apologizes-to-the-victims-of-
 
 ### Changes:
 
-1. [Pope Benedict XVI's visit to the United Kingdom:Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-s-visit-to-the-united-kingdom-ppope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-churc.md) _2017-08-25 03:30:06 (First version)_
-2. [Pope Benedict XVI's visit to the United Kingdom:: Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-s-visit-to-the-united-kingdom-pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-chur.md) _2017-08-27 03:30:10 (Update)_
+1. [Pope Benedict XVI's visit to the United Kingdom:Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-s-visit-to-the-united-kingdom-ppope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-churc.md) _2018-02-06 13:49:20 (First version)_
+2. [Pope Benedict XVI's visit to the United Kingdom:: Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-s-visit-to-the-united-kingdom-pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-chur.md) _2018-02-06 13:49:20 (Update)_
 2. [Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-church-during-his-visit-to-britain.md) _(Current version)_
 
 ### Related:

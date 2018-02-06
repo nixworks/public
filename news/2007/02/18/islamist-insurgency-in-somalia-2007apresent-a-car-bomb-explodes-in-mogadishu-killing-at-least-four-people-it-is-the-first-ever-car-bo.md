@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/18/islamist-insurgency-in-somalia-2007apresent-a-c
 
 ### Changes:
 
-1. [ Islamist insurgency in Somalia (2007-present): A car bomb explodes in Mogadishu killing at least four people. It is the first ever car bomb in the capital. ](/news/2007/02/18/islamist-insurgency-in-somalia-2007-present-a-car-bomb-explodes-in-mogadishu-killing-at-least-four-people-it-is-the-first-ever-car-bo.md) _2017-08-27 03:19:09 (First version)_
+1. [ Islamist insurgency in Somalia (2007-present): A car bomb explodes in Mogadishu killing at least four people. It is the first ever car bomb in the capital. ](/news/2007/02/18/islamist-insurgency-in-somalia-2007-present-a-car-bomb-explodes-in-mogadishu-killing-at-least-four-people-it-is-the-first-ever-car-bo.md) _2018-02-06 13:49:17 (First version)_
 1. [ Islamist insurgency in Somalia (2007-present): A car bomb explodes in Mogadishu killing at least four people. It is the first ever car bomb in the capital. ](/news/2007/02/18/islamist-insurgency-in-somalia-2007apresent-a-car-bomb-explodes-in-mogadishu-killing-at-least-four-people-it-is-the-first-ever-car-bo.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Researchers in China have teleported a photon from the ground to a satellite orb
 
 ### Changes:
 
-1. [Quantum Experiments at Space Scale: Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/quantum-experiments-at-space-scale-scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-ti.md) _2017-08-27 03:48:38 (First version)_
+1. [Quantum Experiments at Space Scale: Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/quantum-experiments-at-space-scale-scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-ti.md) _2018-02-06 13:49:30 (First version)_
 1. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _(Current version)_
 
 ### Related:

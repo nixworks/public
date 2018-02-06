@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenia
 
 ### Changes:
 
-1. [ Nagorno-Karabakh conflict: The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/nagorno-karabakh-conflict-the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense.md) _2017-08-27 03:42:39 (First version)_
+1. [ Nagorno-Karabakh conflict: The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/nagorno-karabakh-conflict-the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense.md) _2018-02-06 13:49:27 (First version)_
 1. [ The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.md) _(Current version)_
 
 ### Related:

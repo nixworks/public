@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/21/pakistani-officials-claim-that-an-american-dron
 
 ### Changes:
 
-1. [Drone attacks in Pakistan:Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/drone-attacks-in-pakistan-ppakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including-t.md) _2017-08-25 03:39:33 (First version)_
-2. [Drone attacks in Pakistan:: Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/drone-attacks-in-pakistan-pakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including.md) _2017-08-27 03:39:51 (Update)_
+1. [Drone attacks in Pakistan:Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/drone-attacks-in-pakistan-ppakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including-t.md) _2018-02-06 13:49:25 (First version)_
+2. [Drone attacks in Pakistan:: Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/drone-attacks-in-pakistan-pakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including.md) _2018-02-06 13:49:25 (Update)_
 2. [Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/pakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including-two-afghan-taliban-leaders-a.md) _(Current version)_
 
 ### Related:

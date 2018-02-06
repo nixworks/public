@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/01/1/nigeria-s-military-kill-13-members-of-the-islami
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigerian-sharia-conflict-pnigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle.md) _2017-08-25 03:37:10 (First version)_
-2. [Nigerian Sharia conflict:: Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigerian-sharia-conflict-nigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle.md) _2017-08-27 03:37:21 (Update)_
+1. [Nigerian Sharia conflict:Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigerian-sharia-conflict-pnigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigerian-sharia-conflict-nigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle.md) _2018-02-06 13:49:24 (Update)_
 2. [Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle-in-maiduguri.md) _(Current version)_
 
 ### Related:

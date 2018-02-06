@@ -27,8 +27,8 @@ The International Committee of the Red Cross pulls out of the Libyan rebel stron
 
 ### Changes:
 
-1. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-pthe-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _2017-08-25 03:32:33 (First version)_
-2. [Arab Spring: Libyan Civil War:: The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/arab-spring-libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing.md) _2017-08-27 03:32:41 (Update)_
+1. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-pthe-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring: Libyan Civil War:: The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/arab-spring-libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing.md) _2018-02-06 13:49:22 (Update)_
 2. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _(Current version)_
 
 ### Related:

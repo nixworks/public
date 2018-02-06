@@ -17,7 +17,7 @@ Israeli soldiers shot dead two Palestinian teens who had attacked an Israeli set
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/israeli-palestinian-conflict-two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-i.md) _2017-08-27 03:45:06 (First version)_
+1. [Israeli-Palestinian conflict: Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/israeli-palestinian-conflict-two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.md) _(Current version)_
 
 ### Related:

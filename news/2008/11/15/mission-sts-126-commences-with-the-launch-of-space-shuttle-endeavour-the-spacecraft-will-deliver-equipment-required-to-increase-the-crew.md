@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-sp
 
 ### Changes:
 
-1. [ Mission STS-126 commences with the launch of Space Shuttle ''Endeavour''. The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-cr.md) _2017-08-25 03:23:11 (First version)_
+1. [ Mission STS-126 commences with the launch of Space Shuttle ''Endeavour''. The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-cr.md) _2018-02-06 13:49:18 (First version)_
 1. [ Mission STS-126 commences with the launch of Space Shuttle "Endeavour". The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-crew.md) _(Current version)_
 
 ### Related:

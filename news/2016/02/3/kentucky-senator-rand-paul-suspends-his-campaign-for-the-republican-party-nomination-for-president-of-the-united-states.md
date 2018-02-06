@@ -18,7 +18,7 @@ Paul was running for a GOP that turned out not to exist.
 
 ### Changes:
 
-1. [United States presidential election, 2016: Kentucky Senator Rand Paul suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/3/united-states-presidential-election-2016-kentucky-senator-rand-paul-suspends-his-campaign-for-the-republican-party-nomination-for-presiden.md) _2017-08-27 03:44:49 (First version)_
+1. [United States presidential election, 2016: Kentucky Senator Rand Paul suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/3/united-states-presidential-election-2016-kentucky-senator-rand-paul-suspends-his-campaign-for-the-republican-party-nomination-for-presiden.md) _2018-02-06 13:49:28 (First version)_
 1. [Kentucky Senator Rand Paul suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/3/kentucky-senator-rand-paul-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md) _(Current version)_
 
 ### Related:

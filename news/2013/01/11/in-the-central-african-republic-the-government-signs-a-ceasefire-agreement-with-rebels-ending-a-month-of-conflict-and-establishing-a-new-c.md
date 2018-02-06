@@ -16,8 +16,8 @@ Rebels fighting the government in the Central African Republic have signed a for
 
 ### Changes:
 
-1. [2012-2013 Central African Republic conflict:In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/2012a2013-central-african-republic-conflict-pin-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-endi.md) _2017-08-25 03:37:15 (First version)_
-2. [2012-2013 Central African Republic conflict:: In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/2012-2013-central-african-republic-conflict-in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-end.md) _2017-08-27 03:37:25 (Update)_
+1. [2012-2013 Central African Republic conflict:In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/2012a2013-central-african-republic-conflict-pin-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-endi.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Central African Republic conflict:: In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/2012-2013-central-african-republic-conflict-in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-end.md) _2018-02-06 13:49:24 (Update)_
 2. [In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-ending-a-month-of-conflict-and-establishing-a-new-c.md) _(Current version)_
 
 ### Related:

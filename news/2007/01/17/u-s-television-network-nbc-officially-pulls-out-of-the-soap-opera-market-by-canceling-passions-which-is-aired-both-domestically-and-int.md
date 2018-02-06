@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/01/17/u-s-television-network-nbc-officially-pulls-out
 
 ### Changes:
 
-1. [ U.S. television network NBC officially pulls out of the soap opera market by canceling ''Passions'', which is aired both domestically and internationally. NBC Universal Television president Jeff Zucker remarks that the network's other daytime drama, ''Days of Our Lives'', is "unlikely to continue" when its contract expires in 2009. ](/news/2007/01/17/u-s-television-network-nbc-officially-pulls-out-of-the-soap-opera-market-by-canceling-passions-which-is-aired-both-domestically-and-i.md) _2017-08-25 03:19:02 (First version)_
+1. [ U.S. television network NBC officially pulls out of the soap opera market by canceling ''Passions'', which is aired both domestically and internationally. NBC Universal Television president Jeff Zucker remarks that the network's other daytime drama, ''Days of Our Lives'', is "unlikely to continue" when its contract expires in 2009. ](/news/2007/01/17/u-s-television-network-nbc-officially-pulls-out-of-the-soap-opera-market-by-canceling-passions-which-is-aired-both-domestically-and-i.md) _2018-02-06 13:49:17 (First version)_
 1. [ U.S. television network NBC officially pulls out of the soap opera market by canceling "Passions", which is aired both domestically and internationally. NBC Universal Television president Jeff Zucker remarks that the network's other daytime drama, "Days of Our Lives", is "unlikely to continue" when its contract expires in 2009. ](/news/2007/01/17/u-s-television-network-nbc-officially-pulls-out-of-the-soap-opera-market-by-canceling-passions-which-is-aired-both-domestically-and-int.md) _(Current version)_
 
 ### Related:

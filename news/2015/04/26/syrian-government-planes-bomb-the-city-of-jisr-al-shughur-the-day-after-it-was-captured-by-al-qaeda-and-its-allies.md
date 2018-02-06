@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/26/syrian-government-planes-bomb-the-city-of-jisr-
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian government planes bomb the city of Jisr al-Shughur the day after it was captured by al-Qaeda and its allies. ](/news/2015/04/26/syrian-civil-war-syrian-government-planes-bomb-the-city-of-jisr-al-shughur-the-day-after-it-was-captured-by-al-qaeda-and-its-allies.md) _2017-08-27 03:42:15 (First version)_
+1. [Syrian Civil War: Syrian government planes bomb the city of Jisr al-Shughur the day after it was captured by al-Qaeda and its allies. ](/news/2015/04/26/syrian-civil-war-syrian-government-planes-bomb-the-city-of-jisr-al-shughur-the-day-after-it-was-captured-by-al-qaeda-and-its-allies.md) _2018-02-06 13:49:27 (First version)_
 1. [Syrian government planes bomb the city of Jisr al-Shughur the day after it was captured by al-Qaeda and its allies. ](/news/2015/04/26/syrian-government-planes-bomb-the-city-of-jisr-al-shughur-the-day-after-it-was-captured-by-al-qaeda-and-its-allies.md) _(Current version)_
 
 ### Related:

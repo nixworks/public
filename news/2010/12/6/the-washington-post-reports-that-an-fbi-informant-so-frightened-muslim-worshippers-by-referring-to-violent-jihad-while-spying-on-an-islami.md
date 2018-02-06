@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informan
 
 ### Changes:
 
-1. [''The Washington Post'' reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-isla.md) _2017-08-25 03:31:18 (First version)_
+1. [''The Washington Post'' reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-isla.md) _2018-02-06 13:49:21 (First version)_
 1. ["The Washington Post" reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-islami.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Boko Haram insurgency: 2015 West African offensive: The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/boko-haram-insurgency-2015-west-african-offensive-the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md) _2017-08-27 03:43:03 (First version)_
+1. [Boko Haram insurgency: 2015 West African offensive: The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/boko-haram-insurgency-2015-west-african-offensive-the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md) _2018-02-06 13:49:27 (First version)_
 1. [The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md) _(Current version)_
 
 ### Related:

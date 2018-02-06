@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/10/the-supreme-court-of-the-philippines-issues-gui
 
 ### Changes:
 
-1. [Maguindanao massacre:The Supreme Court of the Philippines issues guidelines in order to hasten a resolution for the trial. ](/news/2013/12/10/maguindanao-massacre-pthe-supreme-court-of-the-philippines-issues-guidelines-in-order-to-hasten-a-resolution-for-the-trial.md) _2017-08-25 03:39:39 (First version)_
-2. [Maguindanao massacre:: The Supreme Court of the Philippines issues guidelines in order to hasten a resolution for the trial. ](/news/2013/12/10/maguindanao-massacre-the-supreme-court-of-the-philippines-issues-guidelines-in-order-to-hasten-a-resolution-for-the-trial.md) _2017-08-27 03:39:57 (Update)_
+1. [Maguindanao massacre:: The Supreme Court of the Philippines issues guidelines in order to hasten a resolution for the trial. ](/news/2013/12/10/maguindanao-massacre-the-supreme-court-of-the-philippines-issues-guidelines-in-order-to-hasten-a-resolution-for-the-trial.md) _2018-02-06 13:49:25 (First version)_
+2. [Maguindanao massacre:The Supreme Court of the Philippines issues guidelines in order to hasten a resolution for the trial. ](/news/2013/12/10/maguindanao-massacre-pthe-supreme-court-of-the-philippines-issues-guidelines-in-order-to-hasten-a-resolution-for-the-trial.md) _2018-02-06 13:49:25 (Update)_
 2. [The Supreme Court of the Philippines issues guidelines in order to hasten a resolution for the trial. ](/news/2013/12/10/the-supreme-court-of-the-philippines-issues-guidelines-in-order-to-hasten-a-resolution-for-the-trial.md) _(Current version)_
 
 ### Related:

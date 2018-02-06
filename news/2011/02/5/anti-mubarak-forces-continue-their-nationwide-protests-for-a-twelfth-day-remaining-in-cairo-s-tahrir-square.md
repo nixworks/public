@@ -27,8 +27,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Changes:
 
-1. [2011 Egyptian protests:Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-panti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _2017-08-25 03:32:03 (First version)_
-2. [2011 Egyptian protests:: Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-anti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _2017-08-27 03:32:11 (Update)_
+1. [2011 Egyptian protests:Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-panti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian protests:: Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/2011-egyptian-protests-anti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-Mubarak forces continue their nationwide protests for a twelfth day, remaining in Cairo's Tahrir Square. ](/news/2011/02/5/anti-mubarak-forces-continue-their-nationwide-protests-for-a-twelfth-day-remaining-in-cairo-s-tahrir-square.md) _(Current version)_
 
 ### Related:

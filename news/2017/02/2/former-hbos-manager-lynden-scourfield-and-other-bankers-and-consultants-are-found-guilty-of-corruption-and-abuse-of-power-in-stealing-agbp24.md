@@ -16,7 +16,7 @@ Fraud bankers and consultants indulged in sex parties and luxury holidays as the
 
 ### Changes:
 
-1. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing PS245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-aps245.md) _2017-08-25 03:47:20 (First version)_
+1. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing PS245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-aps245.md) _2018-02-06 13:49:30 (First version)_
 1. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing GBP245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-agbp24.md) _(Current version)_
 
 ### Related:

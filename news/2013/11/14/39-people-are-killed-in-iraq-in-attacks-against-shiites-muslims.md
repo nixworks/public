@@ -16,8 +16,8 @@ Attacks mostly against Shiites, including the suicide bombing of a religious pro
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):39 people are killed in Iraq in attacks against Shiites Muslims. ](/news/2013/11/14/iraqi-insurgency-post-u-s-withdrawal-p39-people-are-killed-in-iraq-in-attacks-against-shiites-muslims.md) _2017-08-25 03:39:32 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 39 people are killed in Iraq in attacks against Shiites Muslims. ](/news/2013/11/14/iraqi-insurgency-post-u-s-withdrawal-39-people-are-killed-in-iraq-in-attacks-against-shiites-muslims.md) _2017-08-27 03:39:49 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):39 people are killed in Iraq in attacks against Shiites Muslims. ](/news/2013/11/14/iraqi-insurgency-post-u-s-withdrawal-p39-people-are-killed-in-iraq-in-attacks-against-shiites-muslims.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 39 people are killed in Iraq in attacks against Shiites Muslims. ](/news/2013/11/14/iraqi-insurgency-post-u-s-withdrawal-39-people-are-killed-in-iraq-in-attacks-against-shiites-muslims.md) _2018-02-06 13:49:25 (Update)_
 2. [39 people are killed in Iraq in attacks against Shiites Muslims. ](/news/2013/11/14/39-people-are-killed-in-iraq-in-attacks-against-shiites-muslims.md) _(Current version)_
 
 ### Related:

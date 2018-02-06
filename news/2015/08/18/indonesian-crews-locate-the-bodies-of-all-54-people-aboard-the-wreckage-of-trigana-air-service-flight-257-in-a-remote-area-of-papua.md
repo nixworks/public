@@ -17,7 +17,7 @@ Rescue teams reached the crash site of a commercial aircraft that went down over
 
 ### Changes:
 
-1. [Trigana Air Service Flight 257: Indonesian crews locate the bodies of all 54 people aboard the wreckage of Trigana Air Service Flight 257 in a remote area of Papua. ](/news/2015/08/18/trigana-air-service-flight-257-indonesian-crews-locate-the-bodies-of-all-54-people-aboard-the-wreckage-of-trigana-air-service-flight-257-in.md) _2017-08-27 03:42:51 (First version)_
+1. [Trigana Air Service Flight 257: Indonesian crews locate the bodies of all 54 people aboard the wreckage of Trigana Air Service Flight 257 in a remote area of Papua. ](/news/2015/08/18/trigana-air-service-flight-257-indonesian-crews-locate-the-bodies-of-all-54-people-aboard-the-wreckage-of-trigana-air-service-flight-257-in.md) _2018-02-06 13:49:27 (First version)_
 1. [Indonesian crews locate the bodies of all 54 people aboard the wreckage of Trigana Air Service Flight 257 in a remote area of Papua. ](/news/2015/08/18/indonesian-crews-locate-the-bodies-of-all-54-people-aboard-the-wreckage-of-trigana-air-service-flight-257-in-a-remote-area-of-papua.md) _(Current version)_
 
 ### Related:

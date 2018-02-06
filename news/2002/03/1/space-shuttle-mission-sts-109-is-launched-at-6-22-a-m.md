@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/03/1/space-shuttle-mission-sts-109-is-launched-at-6-2
 
 ### Changes:
 
-1. [Space Shuttle mission STS-109 is launched at {{Nowrap|6:22 a.m.}}](/news/2002/03/1/space-shuttle-mission-sts-109-is-launched-at-nowrap-6-22-a-m.md) _2017-05-01 03:15:13 (First version)_
+1. [Space Shuttle mission STS-109 is launched at {{Nowrap|6:22 a.m.}}](/news/2002/03/1/space-shuttle-mission-sts-109-is-launched-at-nowrap-6-22-a-m.md) _2018-02-06 13:49:15 (First version)_
 1. [Space Shuttle mission STS-109 is launched at 6:22 a.m.](/news/2002/03/1/space-shuttle-mission-sts-109-is-launched-at-6-22-a-m.md) _(Current version)_
 
 ### Related:

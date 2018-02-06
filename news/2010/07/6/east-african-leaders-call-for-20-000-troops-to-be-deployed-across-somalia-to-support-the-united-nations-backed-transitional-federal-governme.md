@@ -18,7 +18,7 @@ East African leaders have called for 20,000 troops to be deployed across Somalia
 
 ### Changes:
 
-1. [Somali Civil War: East African leaders call for 20,000 troops to be deployed across Somalia to support the United Nations-backed Transitional Federal Government and for the United Nations to replace the African Union Mission to Somalia. ](/news/2010/07/6/somali-civil-war-east-african-leaders-call-for-20-000-troops-to-be-deployed-across-somalia-to-support-the-united-nations-backed-transitiona.md) _2017-08-27 03:28:36 (First version)_
+1. [Somali Civil War: East African leaders call for 20,000 troops to be deployed across Somalia to support the United Nations-backed Transitional Federal Government and for the United Nations to replace the African Union Mission to Somalia. ](/news/2010/07/6/somali-civil-war-east-african-leaders-call-for-20-000-troops-to-be-deployed-across-somalia-to-support-the-united-nations-backed-transitiona.md) _2018-02-06 13:49:20 (First version)_
 1. [East African leaders call for 20,000 troops to be deployed across Somalia to support the United Nations-backed Transitional Federal Government and for the United Nations to replace the African Union Mission to Somalia. ](/news/2010/07/6/east-african-leaders-call-for-20-000-troops-to-be-deployed-across-somalia-to-support-the-united-nations-backed-transitional-federal-governme.md) _(Current version)_
 
 ### Related:

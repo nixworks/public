@@ -16,7 +16,7 @@ Alex Rodriguez met head-on allegations that he tested positive for steroids six 
 
 ### Changes:
 
-1. [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between {{mlby|2001}} and {{mlby|2003}}. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-mlby-2001-and-mlby-2003.md) _2017-05-01 03:24:46 (First version)_
+1. [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between {{mlby|2001}} and {{mlby|2003}}. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-mlby-2001-and-mlby-2003.md) _2018-02-06 13:49:18 (First version)_
 1. [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between 2001 and 2003. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-2001-and-2003.md) _(Current version)_
 
 ### Related:

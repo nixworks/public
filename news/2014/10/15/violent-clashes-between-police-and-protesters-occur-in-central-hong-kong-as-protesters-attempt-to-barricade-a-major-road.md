@@ -16,7 +16,7 @@ The police pushed protesters out of a park using pepper spray and wrestled some 
 
 ### Changes:
 
-1. [2014 Hong Kong protests: Violent clashes between police and protesters occur in central Hong Kong as protesters attempt to barricade a major road. ](/news/2014/10/15/2014-hong-kong-protests-violent-clashes-between-police-and-protesters-occur-in-central-hong-kong-as-protesters-attempt-to-barricade-a-major.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Hong Kong protests: Violent clashes between police and protesters occur in central Hong Kong as protesters attempt to barricade a major road. ](/news/2014/10/15/2014-hong-kong-protests-violent-clashes-between-police-and-protesters-occur-in-central-hong-kong-as-protesters-attempt-to-barricade-a-major.md) _2018-02-06 13:49:26 (First version)_
 1. [Violent clashes between police and protesters occur in central Hong Kong as protesters attempt to barricade a major road. ](/news/2014/10/15/violent-clashes-between-police-and-protesters-occur-in-central-hong-kong-as-protesters-attempt-to-barricade-a-major-road.md) _(Current version)_
 
 ### Related:

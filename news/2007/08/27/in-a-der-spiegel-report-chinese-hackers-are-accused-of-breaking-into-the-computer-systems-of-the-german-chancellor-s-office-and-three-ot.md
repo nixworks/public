@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-acc
 
 ### Changes:
 
-1. [ In a ''Der Spiegel'' report, Chinese hackers are accused of breaking into the computer systems of the German Chancellor's office and three other government ministries. ](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-accused-of-breaking-into-the-computer-systems-of-the-german-chancellor-s-office-and-three.md) _2017-08-25 03:20:44 (First version)_
+1. [ In a ''Der Spiegel'' report, Chinese hackers are accused of breaking into the computer systems of the German Chancellor's office and three other government ministries. ](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-accused-of-breaking-into-the-computer-systems-of-the-german-chancellor-s-office-and-three.md) _2018-02-06 13:49:18 (First version)_
 1. [ In a "Der Spiegel" report, Chinese hackers are accused of breaking into the computer systems of the German Chancellor's office and three other government ministries. ](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-accused-of-breaking-into-the-computer-systems-of-the-german-chancellor-s-office-and-three-ot.md) _(Current version)_
 
 ### Related:

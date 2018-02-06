@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/29/the-death-toll-for-the-earthquake-reaches-6-100
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: The death toll for the earthquake reaches 6,100 as the first food aid reaches Nepal. This includes 6000+ people in Nepal, 19 people on Mount Everest, 76 in India, 25 in China, and 4 in Bangladesh. ](/news/2015/04/29/april-2015-nepal-earthquake-the-death-toll-for-the-earthquake-reaches-6-100-as-the-first-food-aid-reaches-nepal-this-includes-6000-people.md) _2017-08-27 03:42:15 (First version)_
+1. [April 2015 Nepal earthquake: The death toll for the earthquake reaches 6,100 as the first food aid reaches Nepal. This includes 6000+ people in Nepal, 19 people on Mount Everest, 76 in India, 25 in China, and 4 in Bangladesh. ](/news/2015/04/29/april-2015-nepal-earthquake-the-death-toll-for-the-earthquake-reaches-6-100-as-the-first-food-aid-reaches-nepal-this-includes-6000-people.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll for the earthquake reaches 6,100 as the first food aid reaches Nepal. This includes 6000+ people in Nepal, 19 people on Mount Everest, 76 in India, 25 in China, and 4 in Bangladesh. ](/news/2015/04/29/the-death-toll-for-the-earthquake-reaches-6-100-as-the-first-food-aid-reaches-nepal-this-includes-6000-people-in-nepal-19-people-on-mount.md) _(Current version)_
 
 ### Related:

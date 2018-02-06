@@ -16,7 +16,7 @@ A Molotov cocktail hurled at a Cairo restaurant killed 16 people and wounded two
 
 ### Changes:
 
-1. [2015 Cairo restaurant fire: A firebomb is thrown into a restaurant in the Egyptian capital of Cairo killing 17 people. ](/news/2015/12/4/2015-cairo-restaurant-fire-a-firebomb-is-thrown-into-a-restaurant-in-the-egyptian-capital-of-cairo-killing-17-people.md) _2017-08-27 03:44:11 (First version)_
+1. [2015 Cairo restaurant fire: A firebomb is thrown into a restaurant in the Egyptian capital of Cairo killing 17 people. ](/news/2015/12/4/2015-cairo-restaurant-fire-a-firebomb-is-thrown-into-a-restaurant-in-the-egyptian-capital-of-cairo-killing-17-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A firebomb is thrown into a restaurant in the Egyptian capital of Cairo killing 17 people. ](/news/2015/12/4/a-firebomb-is-thrown-into-a-restaurant-in-the-egyptian-capital-of-cairo-killing-17-people.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ An explosion at a mosque in the Syrian capital on Thursday killed at least 42 pe
 
 ### Changes:
 
-1. [Syrian civil war:At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-pat-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md) _2017-08-25 03:37:56 (First version)_
-2. [Syrian civil war:: At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-at-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md) _2017-08-27 03:38:08 (Update)_
+1. [Syrian civil war:At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-pat-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-at-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/at-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government-sunni-cleric-moham.md) _(Current version)_
 
 ### Related:

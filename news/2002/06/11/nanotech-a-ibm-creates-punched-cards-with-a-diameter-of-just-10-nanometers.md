@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/11/nanotech-a-ibm-creates-punched-cards-with-a-dia
 
 ### Changes:
 
-1. [ Nanotech - IBM creates punched cards with a diameter of just 10 nanometers.](/news/2002/06/11/nanotech-ibm-creates-punched-cards-with-a-diameter-of-just-10-nanometers.md) _2017-08-27 03:15:13 (First version)_
+1. [ Nanotech - IBM creates punched cards with a diameter of just 10 nanometers.](/news/2002/06/11/nanotech-ibm-creates-punched-cards-with-a-diameter-of-just-10-nanometers.md) _2018-02-06 13:49:15 (First version)_
 1. [ Nanotech - IBM creates punched cards with a diameter of just 10 nanometers.](/news/2002/06/11/nanotech-a-ibm-creates-punched-cards-with-a-diameter-of-just-10-nanometers.md) _(Current version)_
 
 ### Related:

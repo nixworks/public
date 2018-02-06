@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/6/islamic-state-of-iraq-and-the-levant-conquers-th
 
 ### Changes:
 
-1. [Syrian Civil War: Islamic State of Iraq and the Levant conquers the key transport hub Al-Qaryatain, allowing its forces in the Qalamun region to be supplied through this city. ](/news/2015/08/6/syrian-civil-war-islamic-state-of-iraq-and-the-levant-conquers-the-key-transport-hub-al-qaryatain-allowing-its-forces-in-the-qalamun-regio.md) _2017-08-27 03:42:47 (First version)_
+1. [Syrian Civil War: Islamic State of Iraq and the Levant conquers the key transport hub Al-Qaryatain, allowing its forces in the Qalamun region to be supplied through this city. ](/news/2015/08/6/syrian-civil-war-islamic-state-of-iraq-and-the-levant-conquers-the-key-transport-hub-al-qaryatain-allowing-its-forces-in-the-qalamun-regio.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic State of Iraq and the Levant conquers the key transport hub Al-Qaryatain, allowing its forces in the Qalamun region to be supplied through this city. ](/news/2015/08/6/islamic-state-of-iraq-and-the-levant-conquers-the-key-transport-hub-al-qaryatain-allowing-its-forces-in-the-qalamun-region-to-be-supplied-t.md) _(Current version)_
 
 ### Related:

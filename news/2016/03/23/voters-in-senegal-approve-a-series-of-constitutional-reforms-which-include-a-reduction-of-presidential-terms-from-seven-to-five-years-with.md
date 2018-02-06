@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/23/voters-in-senegal-approve-a-series-of-constitut
 
 ### Changes:
 
-1. [Senegalese constitutional referendum, 2016: Voters in Senegal approve a series of constitutional reforms, which include a reduction of presidential terms from seven to five years, with 63 percent of the vote. ](/news/2016/03/23/senegalese-constitutional-referendum-2016-voters-in-senegal-approve-a-series-of-constitutional-reforms-which-include-a-reduction-of-presi.md) _2017-08-27 03:45:21 (First version)_
+1. [Senegalese constitutional referendum, 2016: Voters in Senegal approve a series of constitutional reforms, which include a reduction of presidential terms from seven to five years, with 63 percent of the vote. ](/news/2016/03/23/senegalese-constitutional-referendum-2016-voters-in-senegal-approve-a-series-of-constitutional-reforms-which-include-a-reduction-of-presi.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Senegal approve a series of constitutional reforms, which include a reduction of presidential terms from seven to five years, with 63 percent of the vote. ](/news/2016/03/23/voters-in-senegal-approve-a-series-of-constitutional-reforms-which-include-a-reduction-of-presidential-terms-from-seven-to-five-years-with.md) _(Current version)_
 
 ### Related:

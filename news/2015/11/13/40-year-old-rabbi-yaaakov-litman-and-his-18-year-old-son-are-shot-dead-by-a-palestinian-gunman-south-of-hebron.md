@@ -16,7 +16,7 @@ Yaakov Litman and Netanel, 18, were shot dead four days before daughter&#8217;s 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): 40 year old Rabbi Ya-akov Litman and his 18 year-old son are shot dead by a Palestinian gunman, south of Hebron. ](/news/2015/11/13/israeli-palestinian-conflict-2015-40-year-old-rabbi-ya-akov-litman-and-his-18-year-old-son-are-shot-dead-by-a-palestinian-gunman-south.md) _2017-08-27 03:43:50 (First version)_
+1. [Israeli-Palestinian conflict (2015): 40 year old Rabbi Ya-akov Litman and his 18 year-old son are shot dead by a Palestinian gunman, south of Hebron. ](/news/2015/11/13/israeli-palestinian-conflict-2015-40-year-old-rabbi-ya-akov-litman-and-his-18-year-old-son-are-shot-dead-by-a-palestinian-gunman-south.md) _2018-02-06 13:49:28 (First version)_
 1. [40 year old Rabbi Ya'akov Litman and his 18 year-old son are shot dead by a Palestinian gunman, south of Hebron. ](/news/2015/11/13/40-year-old-rabbi-yaaakov-litman-and-his-18-year-old-son-are-shot-dead-by-a-palestinian-gunman-south-of-hebron.md) _(Current version)_
 
 ### Related:

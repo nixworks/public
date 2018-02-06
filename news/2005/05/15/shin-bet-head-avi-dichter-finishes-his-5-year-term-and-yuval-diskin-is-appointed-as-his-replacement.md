@@ -18,8 +18,8 @@ About 20 right-wing activists initiate unlimited hunger strike to protest upcomi
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-p-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md) _2017-08-25 03:16:12 (First version)_
-2. [ Israeli-Palestinian conflict:: Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md) _2017-08-27 03:16:14 (Update)_
+1. [ Israeli-Palestinian conflict:: Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict: Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-p-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md) _2018-02-06 13:49:16 (Update)_
 2. [ Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md) _(Current version)_
 
 ### Related:

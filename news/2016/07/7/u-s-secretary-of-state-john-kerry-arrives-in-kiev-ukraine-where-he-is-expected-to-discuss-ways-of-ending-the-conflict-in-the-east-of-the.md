@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kie
 
 ### Changes:
 
-1. [Ukraine-United States relations: U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/ukraine-united-states-relations-u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-endi.md) _2017-08-27 03:46:26 (First version)_
+1. [Ukraine-United States relations: U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/ukraine-united-states-relations-u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-endi.md) _2018-02-06 13:49:29 (First version)_
 1. [U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-ending-the-conflict-in-the-east-of-the.md) _(Current version)_
 
 ### Related:

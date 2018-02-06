@@ -17,7 +17,7 @@ Heavy explosions rocked the Yemeni capital Sanaa in the small hours of Thursday 
 
 ##### Turkish police
 ### [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md)
-_Context: Istanbul, Turkish, Turkish police_
+_Context: Turkey, Turkish police, Istanbul_
 
 ##### Salva Kiir Mayardit
 ### [Salva Kiir Mayardit, the President of Southern Sudan, calls on the government of Sudan to withdraw its forces from the province of Abyei. ](/news/2011/05/26/salva-kiir-mayardit-the-president-of-southern-sudan-calls-on-the-government-of-sudan-to-withdraw-its-forces-from-the-province-of-abyei.md)
@@ -25,11 +25,11 @@ Salva Kiir calls on Khartoum to withdraw its troops from the oil-rich region to 
 
 ##### Vietnam
 ### [Authorities in Vietnam find a mass grave of North Vietnamese soldiers killed during the Vietnam War 40 years ago. ](/news/2011/05/26/authorities-in-vietnam-find-a-mass-grave-of-north-vietnamese-soldiers-killed-during-the-vietnam-war-40-years-ago.md)
-_Context: Vietnam, mass grave, Vietnam War, North Vietnam_
+_Context: Vietnam War, mass grave, Vietnam, North Vietnam_
 
 ##### Somali
 ### [Rebels in the ethnically Somali Ogaden region of Ethiopia say they have seized a town from government troops and freed two United Nations workers. ](/news/2011/05/26/rebels-in-the-ethnically-somali-ogaden-region-of-ethiopia-say-they-have-seized-a-town-from-government-troops-and-freed-two-united-nations-wo.md)
-_Context: Somali, Ogaden, Ethiopia, United Nations_
+_Context: Ogaden, Somali, United Nations, Ethiopia_
 
 #####  Georgian
 ### [Two people are killed in an anti-government demonstration in the Georgian capital Tbilisi. ](/news/2011/05/26/two-people-are-killed-in-an-anti-government-demonstration-in-the-georgian-capital-tbilisi.md)
@@ -37,15 +37,15 @@ _Context:  Georgian, Tbilisi_
 
 ##### series of bombings
 ### [A series of bombings take place against two government buildings in the city of Fuzhou, Jiangxi, China; at least two people are killed. ](/news/2011/05/26/a-series-of-bombings-take-place-against-two-government-buildings-in-the-city-of-fuzhou-jiangxi-china-at-least-two-people-are-killed.md)
-_Context: Fuzhou, series of bombings, Jiangxi_
+_Context: Jiangxi, series of bombings, Fuzhou_
 
 ##### John Banville
 ### [John Banville wins the 2011 Franz Kafka Prize. ](/news/2011/05/26/john-banville-wins-the-2011-franz-kafka-prize.md)
-_Context: Franz Kafka Prize, John Banville_
+_Context: John Banville, Franz Kafka Prize_
 
 ##### Financial Industry Regulatory Authority
 ### [The US Financial Industry Regulatory Authority reports that Merrill Lynch and Credit Suisse have agreed to pay multi-million fines for subprime mortgage securities they sold in the lead up to the global financial crisis of 2008. ](/news/2011/05/26/the-us-financial-industry-regulatory-authority-reports-that-merrill-lynch-and-credit-suisse-have-agreed-to-pay-multi-million-fines-for-subpr.md)
-_Context: Credit Suisse, subprime mortgage crisis, global financial crisis, Financial Industry Regulatory Authority, Merrill Lynch_
+_Context: global financial crisis, Financial Industry Regulatory Authority, Merrill Lynch, Credit Suisse, subprime mortgage crisis_
 
 ##### New Delhi
 ### [A small plane carrying 10 people crashes into a suburban area of New Delhi, India, killing all on board. ](/news/2011/05/26/a-small-plane-carrying-10-people-crashes-into-a-suburban-area-of-new-delhi-india-killing-all-on-board.md)
@@ -53,7 +53,7 @@ _Context: India, New Delhi_
 
 ##### Atlanta, Georgia
 ### [Severe storms in the US city of Atlanta, Georgia, kill at least three people and leave 193,000 people without power. ](/news/2011/05/26/severe-storms-in-the-us-city-of-atlanta-georgia-kill-at-least-three-people-and-leave-193-000-people-without-power.md)
-_Context: Georgia, Atlanta, Georgia_
+_Context: Atlanta, Georgia, Georgia_
 
 ##### United States
 ### [The United States announces the removal of a number of troops from Pakistan, following a request from the Pakistani government. ](/news/2011/05/26/the-united-states-announces-the-removal-of-a-number-of-troops-from-pakistan-following-a-request-from-the-pakistani-government.md)
@@ -61,7 +61,7 @@ The US military says it is withdrawing some of the more than 200 troops it has i
 
 ##### Group of Eight
 ### [Leaders of the Group of Eight countries meet in Deauville, France, for the 37th G8 summit. ](/news/2011/05/26/leaders-of-the-group-of-eight-countries-meet-in-deauville-france-for-the-37th-g8-summit.md)
-_Context: Group of Eight, France, Deauville, 37th G8 summit_
+_Context: Deauville, Group of Eight, 37th G8 summit, France_
 
 ##### Rwanda
 ### [Rwandan genocide suspect Bernard Munyagishari is arrested, accused of murdering Tutsis and moderate Hutus in 1994. ](/news/2011/05/26/rwandan-genocide-suspect-bernard-munyagishari-is-arrested-accused-of-murdering-tutsis-and-moderate-hutus-in-1994.md)
@@ -71,7 +71,7 @@ A Rwandan genocide suspect, Bernard Munyagishari, is arrested in eastern DR of C
 ### [War crimes fugitive, former Chief of Staff of the Army of the Republika Srpska and former Colonel General Ratko Mladic has been arrested in Serbia. ](/news/2011/05/26/war-crimes-fugitive-former-chief-of-staff-of-the-army-of-the-republika-srpska-and-former-colonel-general-ratko-mladia-has-been-arrested-in.md)
 Serbian President Boris Tadic has confirmed that Serbian authorities have arrested former Bosnian Serb military chief Ratko Mladic. 
 
-##### British
+##### United Kingdom
 ### [In Britain, the former leader of Essex County Council and Conservative peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses. ](/news/2011/05/26/in-britain-the-former-leader-of-essex-county-council-and-conservative-peer-lord-hanningfield-is-found-guilty-of-six-counts-of-false-account.md)
 Former Essex Council leader and former Tory peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses.
 

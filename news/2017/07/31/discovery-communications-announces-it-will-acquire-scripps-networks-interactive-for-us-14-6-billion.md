@@ -15,7 +15,7 @@ Discovery Communications is acquiring Scripps Networks Interactive in a cash-and
 
 ### Changes:
 
-1. [Scripps Networks Interactive: Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/scripps-networks-interactive-discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md) _2017-08-27 03:48:45 (First version)_
+1. [Scripps Networks Interactive: Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/scripps-networks-interactive-discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md) _2018-02-06 13:49:31 (First version)_
 1. [Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md) _(Current version)_
 
 ### Related:

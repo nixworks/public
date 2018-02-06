@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Libyan Civil War:The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/libyan-civil-war-pthe-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-la.md) _2017-08-25 03:41:09 (First version)_
-2. [Libyan Civil War:: The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/libyan-civil-war-the-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-l.md) _2017-08-27 03:41:28 (Update)_
+1. [Libyan Civil War:: The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/libyan-civil-war-the-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-l.md) _2018-02-06 13:49:26 (First version)_
+2. [Libyan Civil War:The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/libyan-civil-war-pthe-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-la.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/the-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-launched-by-khalifa.md) _(Current version)_
 
 ### Related:

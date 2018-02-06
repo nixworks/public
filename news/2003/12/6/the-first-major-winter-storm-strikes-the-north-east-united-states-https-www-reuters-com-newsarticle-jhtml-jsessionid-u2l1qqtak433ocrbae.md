@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/6/the-first-major-winter-storm-strikes-the-north-e
 
 ### Changes:
 
-1. [ The first major winter storm strikes the North East United States. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=U2L1QQTAK433OCRBAEOCFEY?type=topNews&storyID=3949879]](/news/2003/12/6/the-first-major-winter-storm-strikes-the-north-east-united-states-http-www-reuters-com-newsarticle-jhtml-jsessionid-u2l1qqtak433ocrbaeo.md) _2017-10-17 03:16:12 (First version)_
+1. [ The first major winter storm strikes the North East United States. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=U2L1QQTAK433OCRBAEOCFEY?type=topNews&storyID=3949879]](/news/2003/12/6/the-first-major-winter-storm-strikes-the-north-east-united-states-http-www-reuters-com-newsarticle-jhtml-jsessionid-u2l1qqtak433ocrbaeo.md) _2018-02-06 13:49:15 (First version)_
 1. [ The first major winter storm strikes the North East United States. [https:--www.reuters.com-newsArticle.jhtml;jsessionid=U2L1QQTAK433OCRBAEOCFEY?type=topNews&storyID=3949879]](/news/2003/12/6/the-first-major-winter-storm-strikes-the-north-east-united-states-https-www-reuters-com-newsarticle-jhtml-jsessionid-u2l1qqtak433ocrbae.md) _(Current version)_
 
 ### Related:

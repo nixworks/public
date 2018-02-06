@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intel
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/war-in-somalia-2009-present-a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md) _2017-08-27 03:47:07 (First version)_
+1. [War in Somalia (2009-present): A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/war-in-somalia-2009-present-a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md) _2018-02-06 13:49:29 (First version)_
 1. [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md) _(Current version)_
 
 ### Related:

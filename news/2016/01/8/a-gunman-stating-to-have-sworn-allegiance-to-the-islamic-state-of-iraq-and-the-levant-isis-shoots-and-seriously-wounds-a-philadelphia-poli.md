@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/8/a-gunman-stating-to-have-sworn-allegiance-to-the
 
 ### Changes:
 
-1. [2016 shooting of Philadelphia police officer: A gunman stating to have sworn allegiance to the Islamic State of Iraq and the Levant (ISIS) shoots and seriously wounds a Philadelphia police officer before being arrested. ](/news/2016/01/8/2016-shooting-of-philadelphia-police-officer-a-gunman-stating-to-have-sworn-allegiance-to-the-islamic-state-of-iraq-and-the-levant-isis-s.md) _2017-08-27 03:44:37 (First version)_
+1. [2016 shooting of Philadelphia police officer: A gunman stating to have sworn allegiance to the Islamic State of Iraq and the Levant (ISIS) shoots and seriously wounds a Philadelphia police officer before being arrested. ](/news/2016/01/8/2016-shooting-of-philadelphia-police-officer-a-gunman-stating-to-have-sworn-allegiance-to-the-islamic-state-of-iraq-and-the-levant-isis-s.md) _2018-02-06 13:49:28 (First version)_
 1. [A gunman stating to have sworn allegiance to the Islamic State of Iraq and the Levant (ISIS) shoots and seriously wounds a Philadelphia police officer before being arrested. ](/news/2016/01/8/a-gunman-stating-to-have-sworn-allegiance-to-the-islamic-state-of-iraq-and-the-levant-isis-shoots-and-seriously-wounds-a-philadelphia-poli.md) _(Current version)_
 
 ### Related:

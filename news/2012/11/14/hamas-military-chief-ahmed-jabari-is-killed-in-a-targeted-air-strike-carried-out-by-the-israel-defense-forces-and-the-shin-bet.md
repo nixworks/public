@@ -16,8 +16,8 @@ As part of Israeli operation against terrorists, Hamas military chief Jabari kil
 
 ### Changes:
 
-1. [Operation Pillar of Defense:Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/operation-pillar-of-defense-phamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces-a.md) _2017-08-25 03:36:49 (First version)_
-2. [Operation Pillar of Defense:: Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/operation-pillar-of-defense-hamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces.md) _2017-08-27 03:36:59 (Update)_
+1. [Operation Pillar of Defense:Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/operation-pillar-of-defense-phamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces-a.md) _2018-02-06 13:49:24 (First version)_
+2. [Operation Pillar of Defense:: Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/operation-pillar-of-defense-hamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces.md) _2018-02-06 13:49:24 (Update)_
 2. [Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/hamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces-and-the-shin-bet.md) _(Current version)_
 
 ### Related:

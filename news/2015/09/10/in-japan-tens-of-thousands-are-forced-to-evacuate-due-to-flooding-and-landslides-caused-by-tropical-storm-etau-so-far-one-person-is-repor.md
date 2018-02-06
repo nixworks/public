@@ -19,7 +19,7 @@ Authorities in central Japan have ordered tens of thousands to flee their homes 
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/2015-pacific-typhoon-season-in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau.md) _2017-08-27 03:43:00 (First version)_
+1. [2015 Pacific typhoon season: In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/2015-pacific-typhoon-season-in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau.md) _2018-02-06 13:49:27 (First version)_
 1. [In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau-so-far-one-person-is-repor.md) _(Current version)_
 
 ### Related:

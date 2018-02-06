@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/02/11/the-danish-editor-who-first-published-the-muham
 
 ### Changes:
 
-1. [ ''Jyllands-Posten'' Muhammad cartoons controversy: The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/jyllands-posten-muhammad-cartoons-controversy-p-the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protest.md) _2017-08-25 03:17:27 (First version)_
-2. [ "Jyllands-Posten" Muhammad cartoons controversy:: The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/jyllands-posten-muhammad-cartoons-controversy-the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protests.md) _2017-08-27 03:17:26 (Update)_
+1. [ "Jyllands-Posten" Muhammad cartoons controversy:: The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/jyllands-posten-muhammad-cartoons-controversy-the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protests.md) _2018-02-06 13:49:16 (First version)_
+2. [ ''Jyllands-Posten'' Muhammad cartoons controversy: The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/jyllands-posten-muhammad-cartoons-controversy-p-the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protest.md) _2018-02-06 13:49:16 (Update)_
 2. [ The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protests-has-been-placed-on-leave.md) _(Current version)_
 
 ### Related:

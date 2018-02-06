@@ -16,7 +16,7 @@ Russian Airborne Troops are planning to expand their military exercises into the
 
 ### Changes:
 
-1. [Arctic Joint Strategic Command (Russia): A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/arctic-joint-strategic-command-russia-a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-int.md) _2017-08-27 03:44:07 (First version)_
+1. [Arctic Joint Strategic Command (Russia): A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/arctic-joint-strategic-command-russia-a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-int.md) _2018-02-06 13:49:28 (First version)_
 1. [A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-into-the-north-pole-area-of-the-arctic-in-20.md) _(Current version)_
 
 ### Related:

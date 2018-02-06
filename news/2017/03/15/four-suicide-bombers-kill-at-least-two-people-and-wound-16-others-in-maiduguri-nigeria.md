@@ -15,7 +15,7 @@ In a new tactic targeting an individual home, four teenage girls detonated explo
 
 ### Changes:
 
-1. [Boko Haram insurgency: Four suicide bombers kill at least two people and wound 16 others in Maiduguri, Nigeria. ](/news/2017/03/15/boko-haram-insurgency-four-suicide-bombers-kill-at-least-two-people-and-wound-16-others-in-maiduguri-nigeria.md) _2017-08-27 03:47:59 (First version)_
+1. [Boko Haram insurgency: Four suicide bombers kill at least two people and wound 16 others in Maiduguri, Nigeria. ](/news/2017/03/15/boko-haram-insurgency-four-suicide-bombers-kill-at-least-two-people-and-wound-16-others-in-maiduguri-nigeria.md) _2018-02-06 13:49:30 (First version)_
 1. [Four suicide bombers kill at least two people and wound 16 others in Maiduguri, Nigeria. ](/news/2017/03/15/four-suicide-bombers-kill-at-least-two-people-and-wound-16-others-in-maiduguri-nigeria.md) _(Current version)_
 
 ### Related:

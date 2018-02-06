@@ -18,7 +18,7 @@ A Ukrainian-Russian Zenit rocket carrying a US-made telecommunications satellite
 
 ### Changes:
 
-1. [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainian-russian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md) _2017-08-27 03:37:34 (First version)_
+1. [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainian-russian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md) _2018-02-06 13:49:24 (First version)_
 1. [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainianarussian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md) _(Current version)_
 
 ### Related:

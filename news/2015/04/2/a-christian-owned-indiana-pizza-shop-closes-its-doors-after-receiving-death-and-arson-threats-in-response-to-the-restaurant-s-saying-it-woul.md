@@ -17,7 +17,7 @@ Supporters of the Indiana family under attack for refusing to cater a hypothetic
 
 ### Changes:
 
-1. [Indiana Senate Bill 101: A Christian-owned Indiana pizza shop closes its doors after receiving death and arson threats in response to the restaurant's saying it would not cater a same-sex wedding; the owners are afraid they may close permanently or leave town. ](/news/2015/04/2/indiana-senate-bill-101-a-christian-owned-indiana-pizza-shop-closes-its-doors-after-receiving-death-and-arson-threats-in-response-to-the-re.md) _2017-08-27 03:42:09 (First version)_
+1. [Indiana Senate Bill 101: A Christian-owned Indiana pizza shop closes its doors after receiving death and arson threats in response to the restaurant's saying it would not cater a same-sex wedding; the owners are afraid they may close permanently or leave town. ](/news/2015/04/2/indiana-senate-bill-101-a-christian-owned-indiana-pizza-shop-closes-its-doors-after-receiving-death-and-arson-threats-in-response-to-the-re.md) _2018-02-06 13:49:27 (First version)_
 1. [A Christian-owned Indiana pizza shop closes its doors after receiving death and arson threats in response to the restaurant's saying it would not cater a same-sex wedding; the owners are afraid they may close permanently or leave town. ](/news/2015/04/2/a-christian-owned-indiana-pizza-shop-closes-its-doors-after-receiving-death-and-arson-threats-in-response-to-the-restaurant-s-saying-it-woul.md) _(Current version)_
 
 ### Related:

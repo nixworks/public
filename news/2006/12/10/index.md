@@ -5,7 +5,7 @@ Formats: [HTML](2006/12/10/index.html)  [JSON](2006/12/10/index.json)  [XML](200
 
 ##### Igor Smirnov
 ### [ Incumbent Igor Smirnov wins the presidential elections in the self-declared state of Transnistria. ](/news/2006/12/10/incumbent-igor-smirnov-wins-the-presidential-elections-in-the-self-declared-state-of-transnistria.md)
-_Context: Igor Smirnov, presidential elections, Transnistria_
+_Context: Transnistria, presidential elections, Igor Smirnov_
 
 ##### Chile
 ### [ Ex Chilean president Augusto Pinochet dies. ](/news/2006/12/10/ex-chilean-president-augusto-pinochet-dies.md)
@@ -17,11 +17,11 @@ _Context: Stjepan Mesic, Independent State of Croatia_
 
 ##### Madagascar
 ### [ According to results released by the Interior Ministry of Madagascar, a total of 61.45% of the country's registered 7.3 million voters went to the polling stations on December 3 and re-elected Marc Ravalomanana as President with 54.8% of the votes, Jean Lahiniriko and Roland Ratsiraka received 11.68% and 10.1%, respectively. ](/news/2006/12/10/according-to-results-released-by-the-interior-ministry-of-madagascar-a-total-of-61-45-of-the-country-s-registered-7-3-million-voters-went.md)
-_Context: Madagascar, Marc Ravalomanana, Roland Ratsiraka, went to the polling stations on December 3, President, Jean Lahiniriko_
+_Context: President, Marc Ravalomanana, went to the polling stations on December 3, Madagascar, Roland Ratsiraka, Jean Lahiniriko_
 
 ##### Nobel Prize
 ### [ Nobel Prizes: Bangladeshi economist Muhammad Yunus accepts the Peace Prize, urging world leaders to end terrorism by fighting poverty. ](/news/2006/12/10/nobel-prizes-bangladeshi-economist-muhammad-yunus-accepts-the-peace-prize-urging-world-leaders-to-end-terrorism-by-fighting-poverty.md)
-_Context: economist, Bangladesh, Nobel Prize, terrorism, Muhammad Yunus, poverty_
+_Context: Muhammad Yunus, Bangladesh, Nobel Prize, terrorism, poverty, economist_
 
 ## [Previous Day...](/news/2006/12/9/index.md)
 

@@ -15,7 +15,7 @@ The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s 
 
 ### Changes:
 
-1. [The Iraqi Army and allied militias continue to seize Iraqi Kurdistan territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-iraqi-kurdistan-territory-taking-over-several-key-cities-including-khanaqin-near-the-i.md) _2017-10-17 20:30:06 (First version)_
+1. [The Iraqi Army and allied militias continue to seize Iraqi Kurdistan territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-iraqi-kurdistan-territory-taking-over-several-key-cities-including-khanaqin-near-the-i.md) _2018-02-06 13:49:31 (First version)_
 1. [The Iraqi Army and allied militias continue to seize Kurdish-held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ President Obama vowed Thursday that Americans will move beyond the Boston Marath
 
 ### Changes:
 
-1. [Boston Marathon bombings:U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/boston-marathon-bombings-pu-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md) _2017-08-25 03:38:24 (First version)_
-2. [Boston Marathon bombings:: U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/boston-marathon-bombings-u-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md) _2017-08-27 03:38:36 (Update)_
+1. [Boston Marathon bombings:: U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/boston-marathon-bombings-u-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md) _2018-02-06 13:49:24 (First version)_
+2. [Boston Marathon bombings:U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/boston-marathon-bombings-pu-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md) _2018-02-06 13:49:24 (Update)_
 2. [U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/u-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md) _(Current version)_
 
 ### Related:

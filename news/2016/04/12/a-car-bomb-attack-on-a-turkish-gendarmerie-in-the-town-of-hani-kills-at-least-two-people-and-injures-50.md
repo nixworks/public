@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/12/a-car-bomb-attack-on-a-turkish-gendarmerie-in-t
 
 ### Changes:
 
-1. [ PKK rebellion (2015-present): A car bomb attack on a Turkish gendarmerie in the town of Hani kills at least two people and injures 50. ](/news/2016/04/12/pkk-rebellion-2015-present-a-car-bomb-attack-on-a-turkish-gendarmerie-in-the-town-of-hani-kills-at-least-two-people-and-injures-50.md) _2017-08-27 03:45:35 (First version)_
+1. [ PKK rebellion (2015-present): A car bomb attack on a Turkish gendarmerie in the town of Hani kills at least two people and injures 50. ](/news/2016/04/12/pkk-rebellion-2015-present-a-car-bomb-attack-on-a-turkish-gendarmerie-in-the-town-of-hani-kills-at-least-two-people-and-injures-50.md) _2018-02-06 13:49:28 (First version)_
 1. [ A car bomb attack on a Turkish gendarmerie in the town of Hani kills at least two people and injures 50. ](/news/2016/04/12/a-car-bomb-attack-on-a-turkish-gendarmerie-in-the-town-of-hani-kills-at-least-two-people-and-injures-50.md) _(Current version)_
 
 ### Related:

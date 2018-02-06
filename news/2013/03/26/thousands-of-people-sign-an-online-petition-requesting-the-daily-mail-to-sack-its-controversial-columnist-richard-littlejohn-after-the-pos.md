@@ -16,7 +16,7 @@ An online petition calls for the sacking of Daily Mail columnist Richard Littlej
 
 ### Changes:
 
-1. [Thousands of people sign an online petition requesting the ''Daily Mail'' to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-p.md) _2017-08-25 03:38:02 (First version)_
+1. [Thousands of people sign an online petition requesting the ''Daily Mail'' to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-p.md) _2018-02-06 13:49:24 (First version)_
 1. [Thousands of people sign an online petition requesting the "Daily Mail" to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.md) _(Current version)_
 
 ### Related:

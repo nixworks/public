@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legal
 
 ### Changes:
 
-1. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2017-05-25 11:30:06 (First version)_
-2. [Legality of cannabis: Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/legality-of-cannabis-vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2017-08-27 03:48:23 (Update)_
+1. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2018-02-06 13:49:30 (First version)_
+2. [Legality of cannabis: Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/legality-of-cannabis-vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2018-02-06 13:49:30 (Update)_
 2. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _(Current version)_
 
 ### Related:

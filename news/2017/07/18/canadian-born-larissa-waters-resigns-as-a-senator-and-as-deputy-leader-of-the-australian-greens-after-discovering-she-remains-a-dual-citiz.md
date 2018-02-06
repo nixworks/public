@@ -16,7 +16,7 @@ Greens senator Larissa Waters resigns from Parliament because of issues over her
 
 ### Changes:
 
-1. [Politics of Australia: Canadian-born Larissa Waters resigns as a Senator, and as deputy leader of the Australian Greens, after discovering she remains a dual citizen of Canada, rendering her election unconstitutional under section 44. The move comes four days after Scott Ludlam, Waters' co-deputy, resigned due to his New Zealand citizenship. ](/news/2017/07/18/politics-of-australia-canadian-born-larissa-waters-resigns-as-a-senator-and-as-deputy-leader-of-the-australian-greens-after-discovering-s.md) _2017-08-27 03:48:40 (First version)_
+1. [Politics of Australia: Canadian-born Larissa Waters resigns as a Senator, and as deputy leader of the Australian Greens, after discovering she remains a dual citizen of Canada, rendering her election unconstitutional under section 44. The move comes four days after Scott Ludlam, Waters' co-deputy, resigned due to his New Zealand citizenship. ](/news/2017/07/18/politics-of-australia-canadian-born-larissa-waters-resigns-as-a-senator-and-as-deputy-leader-of-the-australian-greens-after-discovering-s.md) _2018-02-06 13:49:30 (First version)_
 1. [Canadian-born Larissa Waters resigns as a Senator, and as deputy leader of the Australian Greens, after discovering she remains a dual citizen of Canada, rendering her election unconstitutional under section 44. The move comes four days after Scott Ludlam, Waters' co-deputy, resigned due to his New Zealand citizenship. ](/news/2017/07/18/canadian-born-larissa-waters-resigns-as-a-senator-and-as-deputy-leader-of-the-australian-greens-after-discovering-she-remains-a-dual-citiz.md) _(Current version)_
 
 ### Related:

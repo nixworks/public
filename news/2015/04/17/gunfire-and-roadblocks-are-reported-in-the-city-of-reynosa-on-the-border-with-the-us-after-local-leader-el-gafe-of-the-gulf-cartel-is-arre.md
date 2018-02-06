@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/17/gunfire-and-roadblocks-are-reported-in-the-city
 
 ### Changes:
 
-1. [Mexican Drug War: Gunfire and roadblocks are reported in the city of Reynosa on the border with the US after local leader "El Gafe" of the Gulf Cartel is arrested. ](/news/2015/04/17/mexican-drug-war-gunfire-and-roadblocks-are-reported-in-the-city-of-reynosa-on-the-border-with-the-us-after-local-leader-el-gafe-of-the-g.md) _2017-08-27 03:42:13 (First version)_
+1. [Mexican Drug War: Gunfire and roadblocks are reported in the city of Reynosa on the border with the US after local leader "El Gafe" of the Gulf Cartel is arrested. ](/news/2015/04/17/mexican-drug-war-gunfire-and-roadblocks-are-reported-in-the-city-of-reynosa-on-the-border-with-the-us-after-local-leader-el-gafe-of-the-g.md) _2018-02-06 13:49:27 (First version)_
 1. [Gunfire and roadblocks are reported in the city of Reynosa on the border with the US after local leader "El Gafe" of the Gulf Cartel is arrested. ](/news/2015/04/17/gunfire-and-roadblocks-are-reported-in-the-city-of-reynosa-on-the-border-with-the-us-after-local-leader-el-gafe-of-the-gulf-cartel-is-arre.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ Libyan leader Moammar Gadhafi vowed Tuesday that &quot;we will not surrender,&qu
 
 ### Changes:
 
-1. [Libyan Civil War:Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-ptripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _2017-08-25 03:33:24 (First version)_
-2. [Libyan Civil War:: Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _2017-08-27 03:33:32 (Update)_
+1. [Libyan Civil War:: Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-ptripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _2018-02-06 13:49:22 (Update)_
 2. [Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md) _(Current version)_
 
 ### Related:

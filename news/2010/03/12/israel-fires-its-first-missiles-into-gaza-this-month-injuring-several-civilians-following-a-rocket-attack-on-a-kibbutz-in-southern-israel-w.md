@@ -28,8 +28,8 @@ In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smu
 
 ### Changes:
 
-1. [Middle East:Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/middle-east-pisrael-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-sout.md) _2017-08-25 03:27:21 (First version)_
-2. [Middle East:: Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/middle-east-israel-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-sou.md) _2017-08-27 03:27:16 (Update)_
+1. [Middle East:Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/middle-east-pisrael-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-sout.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/middle-east-israel-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-sou.md) _2018-02-06 13:49:19 (Update)_
 2. [Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/israel-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-southern-israel-w.md) _(Current version)_
 
 ### Related:

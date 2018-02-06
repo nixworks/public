@@ -16,7 +16,7 @@ Images reportedly shows Russia pressing ahead with a military buildup in Syria, 
 
 ### Changes:
 
-1. [Russia-United States relations: The United States expresses concern about alleged escalations of Russian military activities in Syria. ](/news/2015/09/10/russia-united-states-relations-the-united-states-expresses-concern-about-alleged-escalations-of-russian-military-activities-in-syria.md) _2017-08-27 03:43:00 (First version)_
+1. [Russia-United States relations: The United States expresses concern about alleged escalations of Russian military activities in Syria. ](/news/2015/09/10/russia-united-states-relations-the-united-states-expresses-concern-about-alleged-escalations-of-russian-military-activities-in-syria.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States expresses concern about alleged escalations of Russian military activities in Syria. ](/news/2015/09/10/the-united-states-expresses-concern-about-alleged-escalations-of-russian-military-activities-in-syria.md) _(Current version)_
 
 ### Related:

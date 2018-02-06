@@ -16,7 +16,7 @@ Pyongyang said the Tumen river, which partially marks the border with China and 
 
 ### Changes:
 
-1. [Typhoon Lionrock (2016): The death toll rises to at least 114 as 60 more people are killed in floods after the typhoon hits North Korea, displacing over 44,000 people. Fifteen people are also missing. ](/news/2016/09/6/typhoon-lionrock-2016-the-death-toll-rises-to-at-least-114-as-60-more-people-are-killed-in-floods-after-the-typhoon-hits-north-korea-dis.md) _2017-08-27 03:46:47 (First version)_
+1. [Typhoon Lionrock (2016): The death toll rises to at least 114 as 60 more people are killed in floods after the typhoon hits North Korea, displacing over 44,000 people. Fifteen people are also missing. ](/news/2016/09/6/typhoon-lionrock-2016-the-death-toll-rises-to-at-least-114-as-60-more-people-are-killed-in-floods-after-the-typhoon-hits-north-korea-dis.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll rises to at least 114 as 60 more people are killed in floods after the typhoon hits North Korea, displacing over 44,000 people. Fifteen people are also missing. ](/news/2016/09/6/the-death-toll-rises-to-at-least-114-as-60-more-people-are-killed-in-floods-after-the-typhoon-hits-north-korea-displacing-over-44-000-peopl.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The US has issued sanctions against hundreds of Syrian scientists and officials 
 
 ### Changes:
 
-1. [Syria-United States relations: The United States imposes sanctions on 271 employees of the Syrian Scientific Studies and Research Center for their alleged role in developing weapons used in the Khan Shaykhun chemical attack. ](/news/2017/04/24/syria-united-states-relations-the-united-states-imposes-sanctions-on-271-employees-of-the-syrian-scientific-studies-and-research-center-f.md) _2017-08-27 03:48:14 (First version)_
+1. [Syria-United States relations: The United States imposes sanctions on 271 employees of the Syrian Scientific Studies and Research Center for their alleged role in developing weapons used in the Khan Shaykhun chemical attack. ](/news/2017/04/24/syria-united-states-relations-the-united-states-imposes-sanctions-on-271-employees-of-the-syrian-scientific-studies-and-research-center-f.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States imposes sanctions on 271 employees of the Syrian Scientific Studies and Research Center for their alleged role in developing weapons used in the Khan Shaykhun chemical attack. ](/news/2017/04/24/the-united-states-imposes-sanctions-on-271-employees-of-the-syrian-scientific-studies-and-research-center-for-their-alleged-role-in-developi.md) _(Current version)_
 
 ### Related:

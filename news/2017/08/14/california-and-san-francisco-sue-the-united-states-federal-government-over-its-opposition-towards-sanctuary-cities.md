@@ -16,7 +16,7 @@ California is joining two localities already suing over the policy change the Tr
 
 ### Changes:
 
-1. [Sanctuary cities: California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/sanctuary-cities-california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _2017-08-27 03:48:48 (First version)_
+1. [Sanctuary cities: California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/sanctuary-cities-california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _2018-02-06 13:49:31 (First version)_
 1. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _(Current version)_
 
 ### Related:

@@ -5,11 +5,11 @@ Formats: [HTML](2014/05/28/index.html)  [JSON](2014/05/28/index.json)  [XML](201
 
 ##### Tunisia
 ### [Gunmen attack the home of Tunisia's top security official Lotfi Ben Jeddou resulting in the death of 4 police officers. ](/news/2014/05/28/gunmen-attack-the-home-of-tunisia-s-top-security-official-lotfi-ben-jeddou-resulting-in-the-death-of-4-police-officers.md)
-_Context: Lotfi Ben Jeddou, Tunisia_
+_Context: Tunisia, Lotfi Ben Jeddou_
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Ukraine, Chechen Republic leader, Ramzan Kadyrov_
+_Context: Ramzan Kadyrov, Ukraine, Chechen Republic leader_
 
 ##### Pakistani Taliban
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
@@ -25,7 +25,7 @@ _Context: Apple Inc., Beats Electronics_
 
 ##### South Korea
 ### [A fire at the Hyosarang hospital, a hospital for the elderly in South Korea's Jangseong County, kills at least 21 people and injures 7. ](/news/2014/05/28/a-fire-at-the-hyosarang-hospital-a-hospital-for-the-elderly-in-south-korea-s-jangseong-county-kills-at-least-21-people-and-injures-7.md)
-_Context: Jangseong County, South Korea_
+_Context: South Korea, Jangseong County_
 
 ##### French police
 ### [French police raid a camp site in the port city of Calais containing 800 migrants from Asia, Africa and the Middle East. ](/news/2014/05/28/french-police-raid-a-camp-site-in-the-port-city-of-calais-containing-800-migrants-from-asia-africa-and-the-middle-east.md)

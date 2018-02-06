@@ -16,8 +16,8 @@ Twenty-eight people were wounded, seven of them seriously, in a blast at an anti
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/2013a14-thai-political-crisis-pa-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them-s.md) _2017-08-25 03:39:53 (First version)_
-2. [2013-14 Thai political crisis:: A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/2013-14-thai-political-crisis-a-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them.md) _2017-08-27 03:40:12 (Update)_
+1. [2013-14 Thai political crisis:A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/2013a14-thai-political-crisis-pa-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them-s.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/2013-14-thai-political-crisis-a-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them.md) _2018-02-06 13:49:25 (Update)_
 2. [A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/a-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them-seriously.md) _(Current version)_
 
 ### Related:

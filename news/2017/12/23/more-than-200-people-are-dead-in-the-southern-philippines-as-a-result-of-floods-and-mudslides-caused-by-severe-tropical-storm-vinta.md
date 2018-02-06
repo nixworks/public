@@ -16,9 +16,9 @@ A tropical storm in the Philippines triggered mudslides and flooding that killed
 
 ### Changes:
 
-1. [Nearly ninety people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-ninety-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _2017-12-23 14:30:06 (First version)_
-2. [Nearly 90 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-90-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _2017-12-23 16:30:06 (Update)_
-3. [Nearly 114 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-114-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _2017-12-24 00:30:06 (Update)_
+1. [Nearly ninety people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-ninety-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _2018-02-06 13:49:31 (First version)_
+2. [Nearly 90 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-90-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _2018-02-06 13:49:31 (Update)_
+3. [Nearly 114 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-114-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _2018-02-06 13:49:31 (Update)_
 3. [More than 200 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/more-than-200-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _(Current version)_
 
 ### Related:

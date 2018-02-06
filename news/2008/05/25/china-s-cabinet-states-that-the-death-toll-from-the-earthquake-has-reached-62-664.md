@@ -17,7 +17,7 @@ The official death toll rose to more than 65,000, Chinese state media said, as r
 
 ### Changes:
 
-1. [ 2008 Sichuan earthquake: China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/2008-sichuan-earthquake-china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md) _2017-08-27 03:22:08 (First version)_
+1. [ 2008 Sichuan earthquake: China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/2008-sichuan-earthquake-china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md) _2018-02-06 13:49:18 (First version)_
 1. [ China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md) _(Current version)_
 
 ### Related:

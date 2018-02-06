@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfal
 
 ### Changes:
 
-1. [2014 Pacific typhoon season:Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/2014-pacific-typhoon-season-ptyphoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md) _2017-08-25 03:40:43 (First version)_
-2. [2014 Pacific typhoon season:: Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/2014-pacific-typhoon-season-typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md) _2017-08-27 03:41:02 (Update)_
+1. [2014 Pacific typhoon season:: Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/2014-pacific-typhoon-season-typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Pacific typhoon season:Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/2014-pacific-typhoon-season-ptyphoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md) _2018-02-06 13:49:26 (Update)_
 2. [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md) _(Current version)_
 
 ### Related:

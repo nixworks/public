@@ -16,7 +16,7 @@ The fire broke out in a house in Changshu city in Jiangsu province.
 
 ### Changes:
 
-1. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-and-injures-three.md) _2017-07-16 15:30:07 (First version)_
+1. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-and-injures-three.md) _2018-02-06 13:49:30 (First version)_
 1. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _(Current version)_
 
 ### Related:

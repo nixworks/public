@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afg
 
 ### Changes:
 
-1. [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the ''Official Secrets Act'' by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-ci.md) _2017-08-25 03:23:40 (First version)_
+1. [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the ''Official Secrets Act'' by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-ci.md) _2018-02-06 13:49:18 (First version)_
 1. [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the "Official Secrets Act" by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-civi.md) _(Current version)_
 
 ### Related:

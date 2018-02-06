@@ -16,8 +16,8 @@ Thai government supporters and opposition protesters open fire on each other ahe
 
 ### Changes:
 
-1. [Thai general election, 2014:Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/thai-general-election-2014-pvoters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md) _2017-08-25 03:39:57 (First version)_
-2. [Thai general election, 2014:: Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/thai-general-election-2014-voters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md) _2017-08-27 03:40:16 (Update)_
+1. [Thai general election, 2014:: Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/thai-general-election-2014-voters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md) _2018-02-06 13:49:25 (First version)_
+2. [Thai general election, 2014:Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/thai-general-election-2014-pvoters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/voters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md) _(Current version)_
 
 ### Related:

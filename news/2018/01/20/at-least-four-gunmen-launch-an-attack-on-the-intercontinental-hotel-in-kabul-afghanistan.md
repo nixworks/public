@@ -15,9 +15,9 @@ Formats: [HTML](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-in
 
 ### Changes:
 
-1. [Gunmen launch an attack on the Intercontinental Hotel in the Afghanistan capital of Kabul. ](/news/2018/01/20/gunmen-launch-an-attack-on-the-intercontinental-hotel-in-the-afghanistan-capital-of-kabul.md) _2018-01-20 20:30:06 (First version)_
-2. [Gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md) _2018-01-21 00:30:06 (Update)_
-3. [At least 4 gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/at-least-4-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md) _2018-01-22 23:30:06 (Update)_
+1. [Gunmen launch an attack on the Intercontinental Hotel in the Afghanistan capital of Kabul. ](/news/2018/01/20/gunmen-launch-an-attack-on-the-intercontinental-hotel-in-the-afghanistan-capital-of-kabul.md) _2018-02-06 13:49:31 (First version)_
+2. [Gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md) _2018-02-06 13:49:31 (Update)_
+3. [At least 4 gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/at-least-4-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md) _2018-02-06 13:49:31 (Update)_
 3. [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md) _(Current version)_
 
 ### Related:

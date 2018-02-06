@@ -17,7 +17,7 @@ When Nepalis head to the polls today for the first time since 1999, it will be h
 
 ### Changes:
 
-1. [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md) _2017-12-07 19:30:06 (First version)_
+1. [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/06/23/israeli-air-force-planes-carry-out-a-series-of-
 
 ### Changes:
 
-1. [Arab-Israeli conflict:Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arabaisraeli-conflict-pisraeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-d.md) _2017-08-25 03:40:35 (First version)_
-2. [Arab-Israeli conflict:: Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arab-israeli-conflict-israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the.md) _2017-08-27 03:40:53 (Update)_
+1. [Arab-Israeli conflict:Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arabaisraeli-conflict-pisraeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-d.md) _2018-02-06 13:49:26 (First version)_
+2. [Arab-Israeli conflict:: Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arab-israeli-conflict-israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the.md) _2018-02-06 13:49:26 (Update)_
 2. [Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-death-of-an-israeli-teenag.md) _(Current version)_
 
 ### Related:

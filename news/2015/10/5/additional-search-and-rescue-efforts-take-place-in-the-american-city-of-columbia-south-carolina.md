@@ -19,8 +19,8 @@ South Carolina Gov. Nikki Haley confirmed nine weather-related fatalities amid h
 
 ### Changes:
 
-1. [October 2015 nor'easter Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/october-2015-nor-easter-padditional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md) _2017-05-25 03:45:06 (First version)_
-2. [October 2015 nor'easter: Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/october-2015-nor-easter-additional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md) _2017-08-27 03:43:14 (Update)_
+1. [October 2015 nor'easter Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/october-2015-nor-easter-padditional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md) _2018-02-06 13:49:28 (First version)_
+2. [October 2015 nor'easter: Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/october-2015-nor-easter-additional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md) _2018-02-06 13:49:28 (Update)_
 2. [Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/additional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md) _(Current version)_
 
 ### Related:

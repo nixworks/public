@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/31/the-death-toll-from-the-heat-wave-reaches-2-100
 
 ### Changes:
 
-1. [2015 Indian heat wave: The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/2015-indian-heat-wave-the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md) _2017-08-27 03:42:27 (First version)_
+1. [2015 Indian heat wave: The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/2015-indian-heat-wave-the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md) _(Current version)_
 
 ### Related:

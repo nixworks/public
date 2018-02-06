@@ -16,7 +16,7 @@ A trusted aide of Aung San Suu Kyi looks certain to be become Myanmar&#039;s nex
 
 ### Changes:
 
-1. [Three candidates are put forward to become President of Myanmar: Htin Kyaw and Sai Nyunt Lwin from the National League for Democracy and Khin Aung Myint from the military. ](/news/2016/03/10/three-candidates-are-put-forward-to-become-president-of-myanmar-htin-kyaw-and-sai-nyunt-lwin-from-the-national-league-for-democracy-and-kh.md) _2017-08-25 03:44:51 (First version)_
+1. [Three candidates are put forward to become President of Myanmar: Htin Kyaw and Sai Nyunt Lwin from the National League for Democracy and Khin Aung Myint from the military. ](/news/2016/03/10/three-candidates-are-put-forward-to-become-president-of-myanmar-htin-kyaw-and-sai-nyunt-lwin-from-the-national-league-for-democracy-and-kh.md) _2018-02-06 13:49:28 (First version)_
 1. [Three candidates are put forward to become President of Myanmar: Htin Kyaw and Sai Nyunt Lwin from the National League for Democracy and Khin Aung Myint from the military. ](/news/2016/03/10/three-candidates-are-put-forward-to-become-president-of-myanmar-htin-kyaw-and-sai-nyunt-lwin-from-the-national-league-for-democracy-and-khi.md) _(Current version)_
 
 ### Related:

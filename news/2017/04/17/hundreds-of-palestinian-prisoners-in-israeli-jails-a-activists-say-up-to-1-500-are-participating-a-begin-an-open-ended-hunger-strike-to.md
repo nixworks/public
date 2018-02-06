@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-ja
 
 ### Changes:
 
-1. [Palestinian prisoners of Israel: Hundreds of Palestinian prisoners in Israeli jails - activists say up to 1,500 are participating - begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/palestinian-prisoners-of-israel-hundreds-of-palestinian-prisoners-in-israeli-jails-activists-say-up-to-1-500-are-participating-begi.md) _2017-08-27 03:48:11 (First version)_
+1. [Palestinian prisoners of Israel: Hundreds of Palestinian prisoners in Israeli jails - activists say up to 1,500 are participating - begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/palestinian-prisoners-of-israel-hundreds-of-palestinian-prisoners-in-israeli-jails-activists-say-up-to-1-500-are-participating-begi.md) _2018-02-06 13:49:30 (First version)_
 1. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _(Current version)_
 
 ### Related:

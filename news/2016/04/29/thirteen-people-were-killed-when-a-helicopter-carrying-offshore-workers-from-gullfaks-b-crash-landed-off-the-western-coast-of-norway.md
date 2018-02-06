@@ -17,7 +17,7 @@ Norwegian rescue officials said the search operation after a helicopter crash is
 
 ### Changes:
 
-1. [2016 Turoy helicopter crash: Thirteen people were killed when a helicopter carrying offshore workers from Gullfaks B crash landed off the western coast of Norway. ](/news/2016/04/29/2016-tura-y-helicopter-crash-thirteen-people-were-killed-when-a-helicopter-carrying-offshore-workers-from-gullfaks-b-crash-landed-off-the-w.md) _2017-08-27 03:45:55 (First version)_
+1. [2016 Turoy helicopter crash: Thirteen people were killed when a helicopter carrying offshore workers from Gullfaks B crash landed off the western coast of Norway. ](/news/2016/04/29/2016-tura-y-helicopter-crash-thirteen-people-were-killed-when-a-helicopter-carrying-offshore-workers-from-gullfaks-b-crash-landed-off-the-w.md) _2018-02-06 13:49:29 (First version)_
 1. [Thirteen people were killed when a helicopter carrying offshore workers from Gullfaks B crash landed off the western coast of Norway. ](/news/2016/04/29/thirteen-people-were-killed-when-a-helicopter-carrying-offshore-workers-from-gullfaks-b-crash-landed-off-the-western-coast-of-norway.md) _(Current version)_
 
 ### Related:

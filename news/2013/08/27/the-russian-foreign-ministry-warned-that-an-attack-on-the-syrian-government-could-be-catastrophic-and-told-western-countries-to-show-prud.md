@@ -22,7 +22,7 @@ Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20
 
 ### Changes:
 
-1. [Syrian civil war: The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/syrian-civil-war-the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-count.md) _2017-08-27 03:39:28 (First version)_
+1. [Syrian civil war: The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/syrian-civil-war-the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-count.md) _2018-02-06 13:49:25 (First version)_
 1. [The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-countries-to-show-prud.md) _(Current version)_
 
 ### Related:

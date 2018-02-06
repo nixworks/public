@@ -23,7 +23,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Iranian presidential election, 2005: Second round of voting begins in presidential elections between candidates Akbar Hashemi Rafsanjani and Mahmoud Ahmadinejad. ](/news/2005/06/24/iranian-presidential-election-2005-second-round-of-voting-begins-in-presidential-elections-between-candidates-akbar-hashemi-rafsanjani-an.md) _2017-08-27 03:16:27 (First version)_
+1. [ Iranian presidential election, 2005: Second round of voting begins in presidential elections between candidates Akbar Hashemi Rafsanjani and Mahmoud Ahmadinejad. ](/news/2005/06/24/iranian-presidential-election-2005-second-round-of-voting-begins-in-presidential-elections-between-candidates-akbar-hashemi-rafsanjani-an.md) _2018-02-06 13:49:16 (First version)_
 1. [ Second round of voting begins in presidential elections between candidates Akbar Hashemi Rafsanjani and Mahmoud Ahmadinejad. ](/news/2005/06/24/second-round-of-voting-begins-in-presidential-elections-between-candidates-akbar-hashemi-rafsanjani-and-mahmoud-ahmadinejad.md) _(Current version)_
 
 ### Related:

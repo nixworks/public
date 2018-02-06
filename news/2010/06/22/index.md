@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/22/index.html)  [JSON](2010/06/22/index.json)  [XML](201
 
 ##### yesterday's train crash
 ### [At least 60 people are killed and hundreds disappear after a derailed train plunges into a ravine in the Republic of the Congo. The accident happened after the train left the coastal town of Pointe-Noire on the Chemin de Fer Congo Ocean (CFCO) line to the capital Brazzaville. ](/news/2010/06/22/at-least-60-people-are-killed-and-hundreds-disappear-after-a-derailed-train-plunges-into-a-ravine-in-the-republic-of-the-congo-the-accident.md)
-_Context: Brazzaville, Chemin de Fer Congo Ocean, Pointe-Noire, Republic of the Congo, yesterday's train crash_
+_Context: Chemin de Fer Congo Ocean, Brazzaville, Republic of the Congo, yesterday's train crash, Pointe-Noire_
 
 ##### the widespread floods
 ### [The death toll from floods and mudslides reaches at least 31 people in Alagoas and Pernambuco in northeastern Brazil. ](/news/2010/06/22/the-death-toll-from-floods-and-mudslides-reaches-at-least-31-people-in-alagoas-and-pernambuco-in-northeastern-brazil.md)
@@ -13,11 +13,11 @@ Mudslides and Heavy Rain Force Thousands From Their Hillside Homes
 
 ##### Environmentalist
 ### [Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-government-said-it-had-been-contain.md)
-_Context: Egypt, Environmentalist, sea bird, Hurghada, oil spill, turtle, Red Sea, oil_
+_Context: turtle, Egypt, sea bird, Hurghada, oil spill, oil, Red Sea, Environmentalist_
 
 ##### Kyrgyzstan
 ### [The death toll from unrest in southern Kyrgyzstan riots reaches 251. ](/news/2010/06/22/the-death-toll-from-unrest-in-southern-kyrgyzstan-riots-reaches-251.md)
-_Context: Kyrgyzstan, ethnic riots_
+_Context: ethnic riots, Kyrgyzstan_
 
 ##### War crimes
 ### [War crimes charges are formally requested against 12 Belgian government officials and military officers in connection with the assassination of Congo's first democratically elected prime minister, Patrice Lumumba, as historians agree on a high-level Belgian conspiracy, with Western-backed dictator Mobutu Sese Seko succeeding Lumumba until he was overthrown in 1997. ](/news/2010/06/22/war-crimes-charges-are-formally-requested-against-12-belgian-government-officials-and-military-officers-in-connection-with-the-assassination.md)
@@ -45,7 +45,7 @@ U.N. Secretary-General on Tuesday announced the formation of a three-member pane
 
 ##### Ghana
 ### [During a two-day visit to Ghana, President of Angola Jos Eduardo dos Santos visits Kwame Nkrumah Memorial Park in Accra among other engagements. ](/news/2010/06/22/during-a-two-day-visit-to-ghana-president-of-angola-jose-eduardo-dos-santos-visits-kwame-nkrumah-memorial-park-in-accra-among-other-engagem.md)
-_Context: president, Kwame Nkrumah, Jos Eduardo dos Santos, Accra, Ghana_
+_Context: president, Jos Eduardo dos Santos, Ghana, Accra, Kwame Nkrumah_
 
 ##### Istanbul
 ### [Five people are killed and 12 injured in a bus bomb in Istanbul, Turkey. Kurdish rebels later claim responsibility for the attack. ](/news/2010/06/22/five-people-are-killed-and-12-injured-in-a-bus-bomb-in-istanbul-turkey-kurdish-rebels-later-claim-responsibility-for-the-attack.md)
@@ -57,19 +57,19 @@ A fight breaks out between rival Nigerian lawmakers in the National Assembly, le
 
 ##### American Samoa
 ### [The American Samoa Constitutional Convention, the first to be held since 1986, opens in Pago Pago. ](/news/2010/06/22/the-american-samoa-constitutional-convention-the-first-to-be-held-since-1986-opens-in-pago-pago.md)
-_Context: Constitutional Convention, American Samoa, Pago Pago_
+_Context: Constitutional Convention, Pago Pago, American Samoa_
 
 ##### Federal District Judge
 ### [United States federal judge Martin Leach-Cross Feldman issues a preliminary injunction blocking a six month moratorium on deep water offshore drilling. ](/news/2010/06/22/united-states-federal-judge-martin-leach-cross-feldman-issues-a-preliminary-injunction-blocking-a-six-month-moratorium-on-deep-water-offshor.md)
-_Context: offshore, Federal District Judge, Martin Leach-Cross Feldman, moratorium, injunction_
+_Context: Martin Leach-Cross Feldman, offshore, moratorium, injunction, Federal District Judge_
 
 ##### George Osborne
 ### [In the United Kingdom, Chancellor George Osborne presents the coalition government's emergency budget statement to the House of Commons. ](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.md)
-_Context: emergency budget statement, George Osborne_
+_Context: George Osborne, emergency budget statement_
 
 ##### Nikki Haley
 ### [Nikki Haley wins the Republican Party primary to be the Republican candidate in the South Carolina gubernatorial election in the United States. ](/news/2010/06/22/nikki-haley-wins-the-republican-party-primary-to-be-the-republican-candidate-in-the-south-carolina-gubernatorial-election-in-the-united-stat.md)
-_Context: United States, Republican, primary election, gubernatorial election, South Carolina, Nikki Haley_
+_Context: United States, South Carolina, Nikki Haley, primary election, Republican, gubernatorial election_
 
 ##### Mazda
 ### [One person is killed and 10 injured after a former worker at a Mazda factory in Japan drives his car at colleagues. ](/news/2010/06/22/one-person-is-killed-and-10-injured-after-a-former-worker-at-a-mazda-factory-in-japan-drives-his-car-at-colleagues.md)

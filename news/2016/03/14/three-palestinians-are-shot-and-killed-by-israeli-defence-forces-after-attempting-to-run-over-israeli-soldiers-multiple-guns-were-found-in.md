@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/14/three-palestinians-are-shot-and-killed-by-israe
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015-present): Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. ](/news/2016/03/14/israeli-palestinian-conflict-2015-present-three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-ov.md) _2017-08-27 03:45:14 (First version)_
+1. [Israeli-Palestinian conflict (2015-present): Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. ](/news/2016/03/14/israeli-palestinian-conflict-2015-present-three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-ov.md) _2018-02-06 13:49:28 (First version)_
 1. [Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. ](/news/2016/03/14/three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-over-israeli-soldiers-multiple-guns-were-found-in.md) _(Current version)_
 
 ### Related:

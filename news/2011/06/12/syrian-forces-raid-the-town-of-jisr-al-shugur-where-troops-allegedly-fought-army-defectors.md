@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/06/12/syrian-forces-raid-the-town-of-jisr-al-shugur-w
 
 ### Changes:
 
-1. [2011 Syrian uprising:Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-psyrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _2017-08-25 03:33:28 (First version)_
-2. [2011 Syrian uprising:: Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _2017-08-27 03:33:36 (Update)_
+1. [2011 Syrian uprising:: Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-psyrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md) _(Current version)_
 
 ### Related:

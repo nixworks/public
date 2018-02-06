@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/11/the-new-sri-lankan-government-announces-that-it
 
 ### Changes:
 
-1. [Sri Lankan presidential election, 2015: The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/sri-lankan-presidential-election-2015-the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-ma.md) _2017-08-27 03:41:46 (First version)_
+1. [Sri Lankan presidential election, 2015: The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/sri-lankan-presidential-election-2015-the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-ma.md) _2018-02-06 13:49:26 (First version)_
 1. [The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-mahinda-rajapaksa-in-a-bid-to-retain-powe.md) _(Current version)_
 
 ### Related:

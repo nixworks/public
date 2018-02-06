@@ -18,8 +18,8 @@ As the White House tried to mollify Pakistan over an airstrike, officials said t
 
 ### Changes:
 
-1. [United States helicopter strike on Pakistan:The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-pthe-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post.md) _2017-08-25 03:30:24 (First version)_
-2. [United States helicopter strike on Pakistan:: The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-pos.md) _2017-08-27 03:30:28 (Update)_
+1. [United States helicopter strike on Pakistan:: The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-pos.md) _2018-02-06 13:49:21 (First version)_
+2. [United States helicopter strike on Pakistan:The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-pthe-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post.md) _2018-02-06 13:49:21 (Update)_
 2. [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md) _(Current version)_
 
 ### Related:

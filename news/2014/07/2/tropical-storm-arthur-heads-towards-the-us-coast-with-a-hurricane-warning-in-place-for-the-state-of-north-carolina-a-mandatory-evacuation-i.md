@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast
 
 ### Changes:
 
-1. [2014 Atlantic hurricane season: Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/2014-atlantic-hurricane-season-tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-ca.md) _2017-08-27 03:40:55 (First version)_
+1. [2014 Atlantic hurricane season: Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/2014-atlantic-hurricane-season-tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-ca.md) _2018-02-06 13:49:26 (First version)_
 1. [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md) _(Current version)_
 
 ### Related:

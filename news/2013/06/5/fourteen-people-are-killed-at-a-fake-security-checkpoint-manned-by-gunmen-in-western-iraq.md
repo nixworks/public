@@ -16,8 +16,8 @@ At least 14 people have been killed at a fake security checkpoint manned by gunm
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/iraqi-insurgency-post-u-s-withdrawal-pfourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md) _2017-08-25 03:38:47 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md) _2017-08-27 03:39:00 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/iraqi-insurgency-post-u-s-withdrawal-pfourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/fourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md) _(Current version)_
 
 ### Related:

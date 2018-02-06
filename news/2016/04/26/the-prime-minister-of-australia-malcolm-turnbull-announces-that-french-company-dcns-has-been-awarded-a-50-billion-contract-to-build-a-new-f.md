@@ -16,7 +16,7 @@ French company wins the contract to build Australia&#039;s next fleet of submari
 
 ### Changes:
 
-1. [Collins-class submarine replacement project: The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/collins-class-submarine-replacement-project-the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-aw.md) _2017-08-27 03:45:51 (First version)_
+1. [Collins-class submarine replacement project: The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/collins-class-submarine-replacement-project-the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-aw.md) _2018-02-06 13:49:28 (First version)_
 1. [The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-awarded-a-50-billion-contract-to-build-a-new-f.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/11/2/the-film-facing-mirrors-hits-cinemas-in-tehran-t
 
 ### Changes:
 
-1. [The film ''Facing Mirrors'' hits cinemas in Tehran. Though transsexualism has been legal in Iran since a fatwa was issued in 1987 by Ayatollah Ruhollah Khomeini and Iran permits more sex-change operations than any country except Thailand, this is the first time the subject has been treated on the big screen. ](/news/2012/11/2/the-film-facing-mirrors-hits-cinemas-in-tehran-though-transsexualism-has-been-legal-in-iran-since-a-fatwa-was-issued-in-1987-by-ayatol.md) _2017-08-25 03:36:46 (First version)_
+1. [The film ''Facing Mirrors'' hits cinemas in Tehran. Though transsexualism has been legal in Iran since a fatwa was issued in 1987 by Ayatollah Ruhollah Khomeini and Iran permits more sex-change operations than any country except Thailand, this is the first time the subject has been treated on the big screen. ](/news/2012/11/2/the-film-facing-mirrors-hits-cinemas-in-tehran-though-transsexualism-has-been-legal-in-iran-since-a-fatwa-was-issued-in-1987-by-ayatol.md) _2018-02-06 13:49:24 (First version)_
 1. [The film "Facing Mirrors" hits cinemas in Tehran. Though transsexualism has been legal in Iran since a fatwa was issued in 1987 by Ayatollah Ruhollah Khomeini and Iran permits more sex-change operations than any country except Thailand, this is the first time the subject has been treated on the big screen. ](/news/2012/11/2/the-film-facing-mirrors-hits-cinemas-in-tehran-though-transsexualism-has-been-legal-in-iran-since-a-fatwa-was-issued-in-1987-by-ayatolla.md) _(Current version)_
 
 ### Related:

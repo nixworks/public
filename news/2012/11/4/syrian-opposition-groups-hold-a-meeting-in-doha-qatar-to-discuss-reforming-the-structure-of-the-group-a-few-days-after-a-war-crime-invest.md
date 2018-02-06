@@ -17,8 +17,8 @@ Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists s
 
 ### Changes:
 
-1. [Syrian civil war:Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-psyrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md) _2017-08-25 03:36:46 (First version)_
-2. [Syrian civil war:: Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-syrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md) _2017-08-27 03:36:56 (Update)_
+1. [Syrian civil war:: Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-syrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-psyrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after-a-war-crime-invest.md) _(Current version)_
 
 ### Related:

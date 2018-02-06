@@ -19,8 +19,8 @@ British police investigating whether a News Corporation subsidiary hacked into c
 
 ### Changes:
 
-1. [ British phone tapping controversy David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned ''News of the World'' tabloid. ](/news/2009/07/9/british-phone-tapping-controversyp-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md) _2017-08-25 03:25:08 (First version)_
-2. [ British phone tapping controversy: David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned "News of the World" tabloid. ](/news/2009/07/9/british-phone-tapping-controversy-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md) _2017-08-27 03:24:59 (Update)_
+1. [ British phone tapping controversy David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned ''News of the World'' tabloid. ](/news/2009/07/9/british-phone-tapping-controversyp-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md) _2018-02-06 13:49:19 (First version)_
+2. [ British phone tapping controversy: David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned "News of the World" tabloid. ](/news/2009/07/9/british-phone-tapping-controversy-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md) _2018-02-06 13:49:19 (Update)_
 2. [ David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned "News of the World" tabloid. ](/news/2009/07/9/david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hacking-by-the-rupert-murdoch-owned-n.md) _(Current version)_
 
 ### Related:

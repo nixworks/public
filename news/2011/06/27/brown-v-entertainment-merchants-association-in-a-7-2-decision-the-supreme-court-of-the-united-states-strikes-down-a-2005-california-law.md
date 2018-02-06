@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/06/27/brown-v-entertainment-merchants-association-in-
 
 ### Changes:
 
-1. [''Brown v. Entertainment Merchants Association'': In a 7-2 decision, the Supreme Court of the United States strikes down a 2005 California law prohibiting minors' access to violent or offensive video games, citing them as protected speech under the First Amendment. ](/news/2011/06/27/brown-v-entertainment-merchants-association-in-a-7-2-decision-the-supreme-court-of-the-united-states-strikes-down-a-2005-california-l.md) _2017-08-25 03:33:35 (First version)_
+1. [''Brown v. Entertainment Merchants Association'': In a 7-2 decision, the Supreme Court of the United States strikes down a 2005 California law prohibiting minors' access to violent or offensive video games, citing them as protected speech under the First Amendment. ](/news/2011/06/27/brown-v-entertainment-merchants-association-in-a-7-2-decision-the-supreme-court-of-the-united-states-strikes-down-a-2005-california-l.md) _2018-02-06 13:49:22 (First version)_
 1. ["Brown v. Entertainment Merchants Association": In a 7-2 decision, the Supreme Court of the United States strikes down a 2005 California law prohibiting minors' access to violent or offensive video games, citing them as protected speech under the First Amendment. ](/news/2011/06/27/brown-v-entertainment-merchants-association-in-a-7-2-decision-the-supreme-court-of-the-united-states-strikes-down-a-2005-california-law.md) _(Current version)_
 
 ### Related:

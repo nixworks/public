@@ -16,7 +16,7 @@ A bomb has exploded under a van in east Belfast, seriously injuring a prison off
 
 ### Changes:
 
-1. [Dissident Irish Republican campaign (1998-present): A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/dissident-irish-republican-campaign-1998-present-a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republ.md) _2017-08-27 03:45:07 (First version)_
+1. [Dissident Irish Republican campaign (1998-present): A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/dissident-irish-republican-campaign-1998-present-a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republ.md) _2018-02-06 13:49:28 (First version)_
 1. [A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republicans-have-claimed-responsibility.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Somali security forces retake control of a popular beachside restaurant in the c
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/war-in-somalia-2009-present-al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md) _2017-08-27 03:44:44 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/war-in-somalia-2009-present-al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md) _2018-02-06 13:49:28 (First version)_
 1. [Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md) _(Current version)_
 
 ### Related:

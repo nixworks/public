@@ -24,8 +24,8 @@ Formats: [HTML](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/senkaku-islands-dispute-pdozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-jap.md) _2017-08-25 03:36:35 (First version)_
-2. [Senkaku Islands dispute:: Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/senkaku-islands-dispute-dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-ja.md) _2017-08-27 03:36:45 (Update)_
+1. [Senkaku Islands dispute:Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/senkaku-islands-dispute-pdozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-jap.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/senkaku-islands-dispute-dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-ja.md) _2018-02-06 13:49:23 (Update)_
 2. [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md) _(Current version)_
 
 ### Related:

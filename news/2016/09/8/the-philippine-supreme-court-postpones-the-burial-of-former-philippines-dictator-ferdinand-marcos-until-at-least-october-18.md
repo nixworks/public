@@ -16,7 +16,7 @@ The Supreme Court yesterday extended until Oct. 18 its order temporarily stoppin
 
 ### Changes:
 
-1. [Burial of Ferdinand Marcos: The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. ](/news/2016/09/8/burial-of-ferdinand-marcos-the-philippine-supreme-court-postpones-the-burial-of-former-philippines-dictator-ferdinand-marcos-until-at-least.md) _2017-08-27 03:46:48 (First version)_
+1. [Burial of Ferdinand Marcos: The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. ](/news/2016/09/8/burial-of-ferdinand-marcos-the-philippine-supreme-court-postpones-the-burial-of-former-philippines-dictator-ferdinand-marcos-until-at-least.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. ](/news/2016/09/8/the-philippine-supreme-court-postpones-the-burial-of-former-philippines-dictator-ferdinand-marcos-until-at-least-october-18.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-i
 
 ### Changes:
 
-1. [Vault 7: WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/vault-7-wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-centra.md) _2017-08-27 03:47:57 (First version)_
+1. [Vault 7: WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/vault-7-wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-centra.md) _2018-02-06 13:49:30 (First version)_
 1. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _(Current version)_
 
 ### Related:

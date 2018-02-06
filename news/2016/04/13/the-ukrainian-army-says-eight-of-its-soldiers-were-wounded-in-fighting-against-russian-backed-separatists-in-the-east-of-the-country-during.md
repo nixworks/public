@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/13/the-ukrainian-army-says-eight-of-its-soldiers-w
 
 ### Changes:
 
-1. [War in Donbass: The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/war-in-donbass-the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the.md) _2017-08-27 03:45:36 (First version)_
+1. [War in Donbass: The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/war-in-donbass-the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the-country-during.md) _(Current version)_
 
 ### Related:

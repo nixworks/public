@@ -17,7 +17,7 @@ Floods that swept housesoff their foundations and crushed others under landslide
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: At least three people die, 27 are injured, and 26 people are missing, the majority of them in and around Joso city in Ibaraki Prefecture, as a result of floods and landslides in Japan after heavy rainfall caused by Tropical Storm Etau. ](/news/2015/09/11/2015-pacific-typhoon-season-at-least-three-people-die-27-are-injured-and-26-people-are-missing-the-majority-of-them-in-and-around-jasa.md) _2017-08-27 03:43:01 (First version)_
+1. [2015 Pacific typhoon season: At least three people die, 27 are injured, and 26 people are missing, the majority of them in and around Joso city in Ibaraki Prefecture, as a result of floods and landslides in Japan after heavy rainfall caused by Tropical Storm Etau. ](/news/2015/09/11/2015-pacific-typhoon-season-at-least-three-people-die-27-are-injured-and-26-people-are-missing-the-majority-of-them-in-and-around-jasa.md) _2018-02-06 13:49:27 (First version)_
 1. [At least three people die, 27 are injured, and 26 people are missing, the majority of them in and around Joso city in Ibaraki Prefecture, as a result of floods and landslides in Japan after heavy rainfall caused by Tropical Storm Etau. ](/news/2015/09/11/at-least-three-people-die-27-are-injured-and-26-people-are-missing-the-majority-of-them-in-and-around-jasa-city-in-ibaraki-prefecture.md) _(Current version)_
 
 ### Related:

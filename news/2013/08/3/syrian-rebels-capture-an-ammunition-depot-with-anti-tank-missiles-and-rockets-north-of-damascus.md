@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/08/3/syrian-rebels-capture-an-ammunition-depot-with-a
 
 ### Changes:
 
-1. [Syrian civil war:Syrian rebels capture an ammunition depot with anti-tank missiles and rockets north of Damascus. ](/news/2013/08/3/syrian-civil-war-psyrian-rebels-capture-an-ammunition-depot-with-anti-tank-missiles-and-rockets-north-of-damascus.md) _2017-08-25 03:39:05 (First version)_
-2. [Syrian civil war:: Syrian rebels capture an ammunition depot with anti-tank missiles and rockets north of Damascus. ](/news/2013/08/3/syrian-civil-war-syrian-rebels-capture-an-ammunition-depot-with-anti-tank-missiles-and-rockets-north-of-damascus.md) _2017-08-27 03:39:21 (Update)_
+1. [Syrian civil war:: Syrian rebels capture an ammunition depot with anti-tank missiles and rockets north of Damascus. ](/news/2013/08/3/syrian-civil-war-syrian-rebels-capture-an-ammunition-depot-with-anti-tank-missiles-and-rockets-north-of-damascus.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian rebels capture an ammunition depot with anti-tank missiles and rockets north of Damascus. ](/news/2013/08/3/syrian-civil-war-psyrian-rebels-capture-an-ammunition-depot-with-anti-tank-missiles-and-rockets-north-of-damascus.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian rebels capture an ammunition depot with anti-tank missiles and rockets north of Damascus. ](/news/2013/08/3/syrian-rebels-capture-an-ammunition-depot-with-anti-tank-missiles-and-rockets-north-of-damascus.md) _(Current version)_
 
 ### Related:

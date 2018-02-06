@@ -16,7 +16,7 @@ A recovery team will attempt to reach the wreckage of a sightseeing plane Friday
 
 ### Changes:
 
-1. [The wreckage of a small plane carrying eight passengers on a shore excursion from Holland America Line's ''MS Westerdam'' cruise ship is discovered near the Alaskan town of Ketchikan. All nine people on board including the pilot died. ](/news/2015/06/25/the-wreckage-of-a-small-plane-carrying-eight-passengers-on-a-shore-excursion-from-holland-america-line-s-ms-westerdam-cruise-ship-is-dis.md) _2017-08-25 03:42:17 (First version)_
+1. [The wreckage of a small plane carrying eight passengers on a shore excursion from Holland America Line's ''MS Westerdam'' cruise ship is discovered near the Alaskan town of Ketchikan. All nine people on board including the pilot died. ](/news/2015/06/25/the-wreckage-of-a-small-plane-carrying-eight-passengers-on-a-shore-excursion-from-holland-america-line-s-ms-westerdam-cruise-ship-is-dis.md) _2018-02-06 13:49:27 (First version)_
 1. [The wreckage of a small plane carrying eight passengers on a shore excursion from Holland America Line's "MS Westerdam" cruise ship is discovered near the Alaskan town of Ketchikan. All nine people on board including the pilot died. ](/news/2015/06/25/the-wreckage-of-a-small-plane-carrying-eight-passengers-on-a-shore-excursion-from-holland-america-line-s-ms-westerdam-cruise-ship-is-disco.md) _(Current version)_
 
 ### Related:

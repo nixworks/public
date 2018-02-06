@@ -16,7 +16,7 @@ Volkswagen agrees to compensation U.S. dealers $1.2 billion over emissions scand
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. ](/news/2016/10/1/volkswagen-emissions-scandal-volkswagen-agrees-to-pay-its-u-s-dealers-up-to-us-1-2-billion-to-compensate-them-for-their-losses-resulting-f.md) _2017-08-27 03:46:56 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. ](/news/2016/10/1/volkswagen-emissions-scandal-volkswagen-agrees-to-pay-its-u-s-dealers-up-to-us-1-2-billion-to-compensate-them-for-their-losses-resulting-f.md) _2018-02-06 13:49:29 (First version)_
 1. [Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. ](/news/2016/10/1/volkswagen-agrees-to-pay-its-u-s-dealers-up-to-us-1-2-billion-to-compensate-them-for-their-losses-resulting-from-the-company-s-emissions-ch.md) _(Current version)_
 
 ### Related:

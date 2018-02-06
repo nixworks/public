@@ -17,7 +17,7 @@ At least five people die and thousands are rescued as &quot;historic&quot; flood
 
 ### Changes:
 
-1. [2016 Louisiana floods: At least seven people have died and thousands have been rescued in the American state of Louisiana. President of the United States Barack Obama has declared a federal emergency in the state. ](/news/2016/08/15/2016-louisiana-floods-at-least-seven-people-have-died-and-thousands-have-been-rescued-in-the-american-state-of-louisiana-president-of-the.md) _2017-08-27 03:46:39 (First version)_
+1. [2016 Louisiana floods: At least seven people have died and thousands have been rescued in the American state of Louisiana. President of the United States Barack Obama has declared a federal emergency in the state. ](/news/2016/08/15/2016-louisiana-floods-at-least-seven-people-have-died-and-thousands-have-been-rescued-in-the-american-state-of-louisiana-president-of-the.md) _2018-02-06 13:49:29 (First version)_
 1. [At least seven people have died and thousands have been rescued in the American state of Louisiana. President of the United States Barack Obama has declared a federal emergency in the state. ](/news/2016/08/15/at-least-seven-people-have-died-and-thousands-have-been-rescued-in-the-american-state-of-louisiana-president-of-the-united-states-barack-ob.md) _(Current version)_
 
 ### Related:

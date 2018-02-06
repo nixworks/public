@@ -16,7 +16,7 @@ The European Union and Cuba on Monday signed a deal to normalise ties that had b
 
 ### Changes:
 
-1. [Cuba-European Union relations: Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-european-union-relations-cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-p.md) _2017-08-27 03:47:26 (First version)_
+1. [Cuba-European Union relations: Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-european-union-relations-cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-p.md) _2018-02-06 13:49:29 (First version)_
 1. [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md) _(Current version)_
 
 ### Related:

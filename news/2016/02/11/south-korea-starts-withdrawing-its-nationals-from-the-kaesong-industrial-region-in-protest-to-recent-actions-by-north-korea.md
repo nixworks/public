@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-fr
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/north-korea-south-korea-relations-south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-ac.md) _2017-08-27 03:44:53 (First version)_
+1. [North Korea-South Korea relations: South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/north-korea-south-korea-relations-south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-ac.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.md) _(Current version)_
 
 ### Related:

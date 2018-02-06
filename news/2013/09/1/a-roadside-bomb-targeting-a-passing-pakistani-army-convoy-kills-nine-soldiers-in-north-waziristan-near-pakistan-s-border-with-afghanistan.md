@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in North-West Pakistan:A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-pa-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md) _2017-08-25 03:39:14 (First version)_
-2. [War in North-West Pakistan:: A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md) _2017-08-27 03:39:30 (Update)_
+1. [War in North-West Pakistan:A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-pa-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md) _2018-02-06 13:49:25 (Update)_
 2. [A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan-s-border-with-afghanistan.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-
 
 ### Changes:
 
-1. [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.{{Fact|date=December 2007}} ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-fact-date-decembe.md) _2017-05-01 03:22:11 (First version)_
+1. [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.{{Fact|date=December 2007}} ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-fact-date-decembe.md) _2018-02-06 13:49:18 (First version)_
 1. [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.date=December 2007 ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-date-december-2007.md) _(Current version)_
 
 ### Related:

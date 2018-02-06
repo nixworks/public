@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-agb
 
 ### Changes:
 
-1. [Julian Assange is to be released on bail of PS240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-aps240-000-gbp.md) _2017-08-25 03:31:23 (First version)_
+1. [Julian Assange is to be released on bail of PS240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-aps240-000-gbp.md) _2018-02-06 13:49:21 (First version)_
 1. [Julian Assange is to be released on bail of GBP240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-agbp240-000-gbp.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ The emails detail how bitter the relationship became, Bernie Sanders emerged as 
 
 ### Changes:
 
-1. [2016 Democratic National Committee email leak: Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/2016-democratic-national-committee-email-leak-emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Democratic National Committee email leak: Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/2016-democratic-national-committee-email-leak-emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie.md) _2018-02-06 13:49:29 (First version)_
 1. [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md) _(Current version)_
 
 ### Related:

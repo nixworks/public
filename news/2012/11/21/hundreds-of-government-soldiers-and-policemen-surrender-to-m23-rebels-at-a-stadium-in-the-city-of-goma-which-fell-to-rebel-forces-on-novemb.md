@@ -16,8 +16,8 @@ Thousands of soldiers and police surrender to M23 at a stadium in Goma after the
 
 ### Changes:
 
-1. [2012 East DR Congo conflict:Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/2012-east-dr-congo-conflict-phundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which-f.md) _2017-08-25 03:36:51 (First version)_
-2. [2012 East DR Congo conflict:: Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/2012-east-dr-congo-conflict-hundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which.md) _2017-08-27 03:37:01 (Update)_
+1. [2012 East DR Congo conflict:Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/2012-east-dr-congo-conflict-phundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which-f.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 East DR Congo conflict:: Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/2012-east-dr-congo-conflict-hundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which.md) _2018-02-06 13:49:24 (Update)_
 2. [Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/hundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which-fell-to-rebel-forces-on-novemb.md) _(Current version)_
 
 ### Related:

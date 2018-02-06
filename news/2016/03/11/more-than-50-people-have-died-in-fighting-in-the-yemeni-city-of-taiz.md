@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-th
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/yemeni-civil-war-2015-present-more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md) _2017-08-27 03:45:12 (First version)_
+1. [Yemeni Civil War (2015-present): More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/yemeni-civil-war-2015-present-more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md) _2018-02-06 13:49:28 (First version)_
 1. [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Park Geun-hye is taken to a detention centre south of Seoul after a court approv
 
 ### Changes:
 
-1. [2016 South Korean political scandal: Authorities arrest Impeached South Korean President Park Geun-hye on charges of bribery, abuse of authority, coercion, and leaking government secrets. ](/news/2017/03/30/2016-south-korean-political-scandal-authorities-arrest-impeached-south-korean-president-park-geun-hye-on-charges-of-bribery-abuse-of-autho.md) _2017-08-27 03:48:05 (First version)_
+1. [2016 South Korean political scandal: Authorities arrest Impeached South Korean President Park Geun-hye on charges of bribery, abuse of authority, coercion, and leaking government secrets. ](/news/2017/03/30/2016-south-korean-political-scandal-authorities-arrest-impeached-south-korean-president-park-geun-hye-on-charges-of-bribery-abuse-of-autho.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities arrest Impeached South Korean President Park Geun-hye on charges of bribery, abuse of authority, coercion, and leaking government secrets. ](/news/2017/03/30/authorities-arrest-impeached-south-korean-president-park-geun-hye-on-charges-of-bribery-abuse-of-authority-coercion-and-leaking-governmen.md) _(Current version)_
 
 ### Related:

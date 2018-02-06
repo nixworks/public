@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/24/at-least-29-people-are-killed-in-a-bombing-of-a
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): At least 29 people are killed in a bombing of a mosque in the Yemeni capital Sana'a during prayers for Eid al-Adha. ](/news/2015/09/24/yemeni-crisis-2011-present-at-least-29-people-are-killed-in-a-bombing-of-a-mosque-in-the-yemeni-capital-sana-a-during-prayers-for-eid-a.md) _2017-08-27 03:43:08 (First version)_
+1. [Yemeni Crisis (2011-present): At least 29 people are killed in a bombing of a mosque in the Yemeni capital Sana'a during prayers for Eid al-Adha. ](/news/2015/09/24/yemeni-crisis-2011-present-at-least-29-people-are-killed-in-a-bombing-of-a-mosque-in-the-yemeni-capital-sana-a-during-prayers-for-eid-a.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 29 people are killed in a bombing of a mosque in the Yemeni capital Sana'a during prayers for Eid al-Adha. ](/news/2015/09/24/at-least-29-people-are-killed-in-a-bombing-of-a-mosque-in-the-yemeni-capital-sana-a-during-prayers-for-eid-al-adha.md) _(Current version)_
 
 ### Related:

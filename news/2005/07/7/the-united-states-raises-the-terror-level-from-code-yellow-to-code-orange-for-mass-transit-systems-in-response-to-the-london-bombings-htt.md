@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/7/the-united-states-raises-the-terror-level-from-c
 
 ### Changes:
 
-1. [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings.md) _2017-08-25 03:16:29 (First version)_
+1. [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings.md) _2018-02-06 13:49:16 (First version)_
 1. [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. [http:--www.guardian.co.uk-worldlatest-story-0,1280,-5125518,00.html (Guardian)] [http:--www.emergencyemail.org-homeland2005.asp (EmergencyEmail)] [http:--www.cnn.com-2005-US-07-07-us.response-index.html (CNN)] (Wikinews) ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings-htt.md) _(Current version)_
 
 ### Related:

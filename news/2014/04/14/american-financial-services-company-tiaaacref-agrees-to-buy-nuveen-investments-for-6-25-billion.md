@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/04/14/american-financial-services-company-tiaaacref-a
 
 ### Changes:
 
-1. [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaa-cref-agrees-to-buy-nuveen-investments-for-6-25-billion.md) _2017-08-27 03:40:35 (First version)_
+1. [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaa-cref-agrees-to-buy-nuveen-investments-for-6-25-billion.md) _2018-02-06 13:49:26 (First version)_
 1. [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md) _(Current version)_
 
 ### Related:

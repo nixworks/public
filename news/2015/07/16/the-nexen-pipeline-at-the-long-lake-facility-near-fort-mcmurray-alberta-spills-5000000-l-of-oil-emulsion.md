@@ -16,5 +16,5 @@ One of the largest leaks in Alberta history has spilled about five million litre
 
 ### Changes:
 
-1. [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills {{convert|5000000|l}} of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-convert-5000000-l-of-oil-emulsion.md) _2017-05-01 03:46:02 (First version)_
+1. [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills {{convert|5000000|l}} of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-convert-5000000-l-of-oil-emulsion.md) _2018-02-06 13:49:27 (First version)_
 1. [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills 5000000 l of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-5000000-l-of-oil-emulsion.md) _(Current version)_

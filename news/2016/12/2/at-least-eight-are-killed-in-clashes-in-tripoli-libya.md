@@ -17,7 +17,7 @@ Rival militias have clashed in neighbourhoods across the Libyan capital of Tripo
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/libyan-civil-war-2014-present-at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _2017-08-27 03:47:22 (First version)_
+1. [Libyan Civil War (2014-present): At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/libyan-civil-war-2014-present-at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _2018-02-06 13:49:30 (First version)_
 1. [ At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ The protest in Libya that killed U.S. Ambassador Chris Stevens and three other A
 
 ### Changes:
 
-1. [2012 diplomatic missions attacks fallout:The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-pthe-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-at.md) _2017-08-25 03:36:32 (First version)_
-2. [2012 diplomatic missions attacks fallout:: The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-a.md) _2017-08-27 03:36:43 (Update)_
+1. [2012 diplomatic missions attacks fallout:: The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-a.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 diplomatic missions attacks fallout:The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-pthe-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-at.md) _2018-02-06 13:49:23 (Update)_
 2. [The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-attack-in-benghazi.md) _(Current version)_
 
 ### Related:

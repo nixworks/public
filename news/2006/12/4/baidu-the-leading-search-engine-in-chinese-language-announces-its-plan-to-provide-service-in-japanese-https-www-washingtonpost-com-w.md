@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/12/4/baidu-the-leading-search-engine-in-chinese-langu
 
 ### Changes:
 
-1. [ Baidu, the leading search engine in Chinese language, announces its plan to provide service in Japanese. ([http:--www.washingtonpost.com-wp-dyn-content-article-2006-12-04-AR2006120400678.html Reuters via The Washington Post])](/news/2006/12/4/baidu-the-leading-search-engine-in-chinese-language-announces-its-plan-to-provide-service-in-japanese-http-www-washingtonpost-com-wp.md) _2017-10-17 03:21:55 (First version)_
+1. [ Baidu, the leading search engine in Chinese language, announces its plan to provide service in Japanese. ([http:--www.washingtonpost.com-wp-dyn-content-article-2006-12-04-AR2006120400678.html Reuters via The Washington Post])](/news/2006/12/4/baidu-the-leading-search-engine-in-chinese-language-announces-its-plan-to-provide-service-in-japanese-http-www-washingtonpost-com-wp.md) _2018-02-06 13:49:17 (First version)_
 1. [ Baidu, the leading search engine in Chinese language, announces its plan to provide service in Japanese. ([https:--www.washingtonpost.com-wp-dyn-content-article-2006-12-04-AR2006120400678.html Reuters via The Washington Post])](/news/2006/12/4/baidu-the-leading-search-engine-in-chinese-language-announces-its-plan-to-provide-service-in-japanese-https-www-washingtonpost-com-w.md) _(Current version)_
 
 ### Related:

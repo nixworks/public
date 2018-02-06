@@ -16,7 +16,7 @@ At least 12 people are killed by a bomb targeting police recruits on a bus in ea
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber kills 12 new police recruits in the Nangarhar Province of Afghanistan. The Taliban claims responsibility for the attack. ](/news/2016/04/11/war-in-afghanistan-2015-present-a-suicide-bomber-kills-12-new-police-recruits-in-the-nangarhar-province-of-afghanistan-the-taliban-cla.md) _2017-08-27 03:45:34 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber kills 12 new police recruits in the Nangarhar Province of Afghanistan. The Taliban claims responsibility for the attack. ](/news/2016/04/11/war-in-afghanistan-2015-present-a-suicide-bomber-kills-12-new-police-recruits-in-the-nangarhar-province-of-afghanistan-the-taliban-cla.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills 12 new police recruits in the Nangarhar Province of Afghanistan. The Taliban claims responsibility for the attack. ](/news/2016/04/11/a-suicide-bomber-kills-12-new-police-recruits-in-the-nangarhar-province-of-afghanistan-the-taliban-claims-responsibility-for-the-attack.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalyn
 
 ### Changes:
 
-1. [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 kilometres southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-kilometres-southwest-of-kiev-the-governmen.md) _2017-09-28 17:30:06 (First version)_
-2. [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-government-of-ukr.md) _2017-09-29 19:30:04 (Update)_
+1. [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-government-of-ukr.md) _2018-02-06 13:49:31 (First version)_
+2. [Thirty thousand people are evacuated in Ukraine following an explosion in an ammunition dump 180 kilometres southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-in-ukraine-following-an-explosion-in-an-ammunition-dump-180-kilometres-southwest-of-kiev-the-governmen.md) _2018-02-06 13:49:31 (Update)_
 2. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _(Current version)_
 
 ### Related:

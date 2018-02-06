@@ -17,8 +17,8 @@ Venezuela has arrested several opposition activists accused of plotting violence
 
 ### Changes:
 
-1. [Venezuelan officials arrest several opposition activists, including Popular Will Party leaders, just days before Thursday's scheduled national protest against the rule of President Nicolas Maduro. ](/news/2016/08/30/venezuelan-officials-arrest-several-opposition-activists-including-popular-will-party-leaders-just-days-before-thursday-s-scheduled-nat.md) _2017-08-25 03:46:21 (First version)_
-2. [Venezuelan protests: Venezuelan officials arrest several opposition activists, including Popular Will Party leaders, just days before Thursday's scheduled national protest against the rule of President Nicolas Maduro. ](/news/2016/08/30/venezuelan-protests-venezuelan-officials-arrest-several-opposition-activists-including-popular-will-party-leaders-just-days-before-thursd.md) _2017-08-27 03:46:44 (Update)_
+1. [Venezuelan protests: Venezuelan officials arrest several opposition activists, including Popular Will Party leaders, just days before Thursday's scheduled national protest against the rule of President Nicolas Maduro. ](/news/2016/08/30/venezuelan-protests-venezuelan-officials-arrest-several-opposition-activists-including-popular-will-party-leaders-just-days-before-thursd.md) _2018-02-06 13:49:29 (First version)_
+2. [Venezuelan officials arrest several opposition activists, including Popular Will Party leaders, just days before Thursday's scheduled national protest against the rule of President Nicolas Maduro. ](/news/2016/08/30/venezuelan-officials-arrest-several-opposition-activists-including-popular-will-party-leaders-just-days-before-thursday-s-scheduled-nat.md) _2018-02-06 13:49:29 (Update)_
 2. [Venezuelan officials arrest several opposition activists, including Popular Will Party leaders, just days before Thursday's scheduled national protest against the rule of President Nicolas Maduro. ](/news/2016/08/30/venezuelan-officials-arrest-several-opposition-activists-including-popular-will-party-leaders-just-days-before-thursday-s-scheduled-nation.md) _(Current version)_
 
 ### Related:

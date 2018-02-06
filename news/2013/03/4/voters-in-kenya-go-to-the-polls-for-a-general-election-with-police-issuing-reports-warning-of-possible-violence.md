@@ -19,8 +19,8 @@ At least four Kenyan police officers, deployed to keep the peace in a tense pres
 
 ### Changes:
 
-1. [Kenyan general election, 2013:Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/kenyan-general-election-2013-pvoters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-violen.md) _2017-08-25 03:37:43 (First version)_
-2. [Kenyan general election, 2013:: Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/kenyan-general-election-2013-voters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-viole.md) _2017-08-27 03:37:54 (Update)_
+1. [Kenyan general election, 2013:: Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/kenyan-general-election-2013-voters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-viole.md) _2018-02-06 13:49:24 (First version)_
+2. [Kenyan general election, 2013:Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/kenyan-general-election-2013-pvoters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-violen.md) _2018-02-06 13:49:24 (Update)_
 2. [Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/voters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-violence.md) _(Current version)_
 
 ### Related:

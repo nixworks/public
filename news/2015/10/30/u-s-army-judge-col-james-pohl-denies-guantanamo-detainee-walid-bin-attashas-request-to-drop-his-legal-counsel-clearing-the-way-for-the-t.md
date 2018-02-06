@@ -16,7 +16,7 @@ A military judge denied a Guantanamo detainee’s attempt Thursday to remove his
 
 ### Changes:
 
-1. [U.S. Army judge Col. James Pohl denies Guantanamo detainee Walid bin Attash-s request to drop his legal counsel clearing the way for the trial-s continuation. ](/news/2015/10/30/u-s-army-judge-col-james-pohl-denies-guantanamo-detainee-walid-bin-attash-s-request-to-drop-his-legal-counsel-clearing-the-way-for-the-t.md) _2017-08-27 03:43:36 (First version)_
+1. [U.S. Army judge Col. James Pohl denies Guantanamo detainee Walid bin Attash-s request to drop his legal counsel clearing the way for the trial-s continuation. ](/news/2015/10/30/u-s-army-judge-col-james-pohl-denies-guantanamo-detainee-walid-bin-attash-s-request-to-drop-his-legal-counsel-clearing-the-way-for-the-t.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. Army judge Col. James Pohl denies Guantanamo detainee Walid bin Attash's request to drop his legal counsel clearing the way for the trial's continuation. ](/news/2015/10/30/u-s-army-judge-col-james-pohl-denies-guantanamo-detainee-walid-bin-attashas-request-to-drop-his-legal-counsel-clearing-the-way-for-the-t.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ General Motors says it will immediately halt operations in Venezuela after its p
 ### [American high-speed electronic trading company Virtu Financial agrees to buy its rival KCG Holdings for $1.4 billion. ](/news/2017/04/20/american-high-speed-electronic-trading-company-virtu-financial-agrees-to-buy-its-rival-kcg-holdings-for-1-4-billion.md)
 (Adds Anthem, EDP, Televisa, Novo Banco, Frontline, Societe Generale, Schroders and National Aluminium; updates Virtu Financial)
 
-##### British
+##### United Kingdom
 ### [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md)
 (Adds Anthem, EDP, Televisa, Novo Banco, Frontline, Societe Generale, Schroders and National Aluminium; updates Virtu Financial)
 
@@ -73,7 +73,7 @@ Weeks of protests in Venezuela are shifting the spotlight onto the nation’s mi
 
 ##### China
 ### [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md)
-_Context: cargo spacecraft, China, Tianzhou 1, Long March 7_
+_Context: China, Long March 7, Tianzhou 1, cargo spacecraft_
 
 ## [Previous Day...](/news/2017/04/19/index.md)
 

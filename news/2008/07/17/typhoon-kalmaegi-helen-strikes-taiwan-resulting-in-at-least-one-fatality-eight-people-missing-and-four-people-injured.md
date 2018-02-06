@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/07/17/typhoon-kalmaegi-helen-strikes-taiwan-resulting
 
 ### Changes:
 
-1. [ 2008 Pacific typhoon season: Typhoon Kalmaegi (Helen) strikes Taiwan, resulting in at least one fatality, eight people missing and four people injured. ](/news/2008/07/17/2008-pacific-typhoon-season-p-typhoon-kalmaegi-helen-strikes-taiwan-resulting-in-at-least-one-fatality-eight-people-missing-and-four-pe.md) _2017-08-25 03:22:35 (First version)_
-2. [ 2008 Pacific typhoon season:: Typhoon Kalmaegi (Helen) strikes Taiwan, resulting in at least one fatality, eight people missing and four people injured. ](/news/2008/07/17/2008-pacific-typhoon-season-typhoon-kalmaegi-helen-strikes-taiwan-resulting-in-at-least-one-fatality-eight-people-missing-and-four-pe.md) _2017-08-27 03:22:28 (Update)_
+1. [ 2008 Pacific typhoon season:: Typhoon Kalmaegi (Helen) strikes Taiwan, resulting in at least one fatality, eight people missing and four people injured. ](/news/2008/07/17/2008-pacific-typhoon-season-typhoon-kalmaegi-helen-strikes-taiwan-resulting-in-at-least-one-fatality-eight-people-missing-and-four-pe.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Pacific typhoon season: Typhoon Kalmaegi (Helen) strikes Taiwan, resulting in at least one fatality, eight people missing and four people injured. ](/news/2008/07/17/2008-pacific-typhoon-season-p-typhoon-kalmaegi-helen-strikes-taiwan-resulting-in-at-least-one-fatality-eight-people-missing-and-four-pe.md) _2018-02-06 13:49:18 (Update)_
 2. [ Typhoon Kalmaegi (Helen) strikes Taiwan, resulting in at least one fatality, eight people missing and four people injured. ](/news/2008/07/17/typhoon-kalmaegi-helen-strikes-taiwan-resulting-in-at-least-one-fatality-eight-people-missing-and-four-people-injured.md) _(Current version)_
 
 ### Related:

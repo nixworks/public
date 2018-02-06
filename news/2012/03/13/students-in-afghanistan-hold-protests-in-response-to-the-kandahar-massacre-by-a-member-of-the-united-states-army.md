@@ -17,8 +17,8 @@ Gunmen in Afghanistan have launched an attack on a government delegation at a me
 
 ### Changes:
 
-1. [Afghanistan:Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/afghanistan-pstudents-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md) _2017-08-25 03:35:16 (First version)_
-2. [Afghanistan:: Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/afghanistan-students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md) _2017-08-27 03:35:25 (Update)_
+1. [Afghanistan:: Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/afghanistan-students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md) _2018-02-06 13:49:23 (First version)_
+2. [Afghanistan:Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/afghanistan-pstudents-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md) _2018-02-06 13:49:23 (Update)_
 2. [Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md) _(Current version)_
 
 ### Related:

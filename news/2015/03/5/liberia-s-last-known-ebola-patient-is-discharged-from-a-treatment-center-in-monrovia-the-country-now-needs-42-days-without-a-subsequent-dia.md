@@ -16,7 +16,7 @@ Beatrice Yardolo lost two sons and a daughter to the disease, but she gave thank
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/ebola-virus-epidemic-in-west-africa-liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-n.md) _2017-08-27 03:42:03 (First version)_
+1. [Ebola virus epidemic in West Africa: Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/ebola-virus-epidemic-in-west-africa-liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-n.md) _2018-02-06 13:49:27 (First version)_
 1. [Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-needs-42-days-without-a-subsequent-dia.md) _(Current version)_
 
 ### Related:

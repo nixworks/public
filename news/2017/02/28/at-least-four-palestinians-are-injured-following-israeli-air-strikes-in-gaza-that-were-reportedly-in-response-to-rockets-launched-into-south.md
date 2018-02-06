@@ -16,7 +16,7 @@ At least four Palestinians have reportedly been wounded in Gaza after the Israel
 
 ### Changes:
 
-1. [Gaza-Israel conflict: At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/gaza-israel-conflict-at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-roc.md) _2017-08-27 03:47:54 (First version)_
+1. [Gaza-Israel conflict: At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/gaza-israel-conflict-at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-roc.md) _2018-02-06 13:49:30 (First version)_
 1. [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md) _(Current version)_
 
 ### Related:

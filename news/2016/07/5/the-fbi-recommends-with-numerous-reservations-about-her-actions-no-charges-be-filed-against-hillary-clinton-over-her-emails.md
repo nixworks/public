@@ -17,7 +17,7 @@ The FBI tells Hillary Clinton she will not face criminal charges over her use of
 
 ### Changes:
 
-1. [Hillary Clinton email investigation: The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/hillary-clinton-email-investigation-the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-c.md) _2017-08-27 03:46:25 (First version)_
+1. [Hillary Clinton email investigation: The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/hillary-clinton-email-investigation-the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-c.md) _2018-02-06 13:49:29 (First version)_
 1. [The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-clinton-over-her-emails.md) _(Current version)_
 
 ### Related:

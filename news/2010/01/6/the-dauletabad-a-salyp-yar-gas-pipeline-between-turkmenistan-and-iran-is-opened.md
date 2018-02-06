@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-
 
 ### Changes:
 
-1. [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md) _2017-08-27 03:26:40 (First version)_
+1. [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md) _2018-02-06 13:49:19 (First version)_
 1. [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md) _(Current version)_
 
 ### Related:

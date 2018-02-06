@@ -15,8 +15,8 @@ Joko &quot;Jokowi&quot; Widodo, is officially Indonesia&#039;s seventh president
 
 ### Changes:
 
-1. [Indonesian presidential election, 2014:Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/indonesian-presidential-election-2014-pjoko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md) _2017-08-25 03:40:43 (First version)_
-2. [Indonesian presidential election, 2014:: Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/indonesian-presidential-election-2014-joko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md) _2017-08-27 03:41:01 (Update)_
+1. [Indonesian presidential election, 2014:Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/indonesian-presidential-election-2014-pjoko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md) _2018-02-06 13:49:26 (First version)_
+2. [Indonesian presidential election, 2014:: Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/indonesian-presidential-election-2014-joko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md) _2018-02-06 13:49:26 (Update)_
 2. [Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/joko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md) _(Current version)_
 
 ### Related:

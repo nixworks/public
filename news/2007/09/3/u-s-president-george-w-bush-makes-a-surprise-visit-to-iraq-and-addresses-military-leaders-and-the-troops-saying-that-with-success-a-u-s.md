@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/09/3/u-s-president-george-w-bush-makes-a-surprise-vis
 
 ### Changes:
 
-1. [ War in Iraq: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-p-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _2017-08-25 03:20:50 (First version)_
-2. [ War in Iraq:: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _2017-08-27 03:20:48 (Update)_
+1. [ War in Iraq:: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Iraq: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-p-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _2018-02-06 13:49:18 (Update)_
 2. [ U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with-success-a-u-s.md) _(Current version)_
 
 ### Related:

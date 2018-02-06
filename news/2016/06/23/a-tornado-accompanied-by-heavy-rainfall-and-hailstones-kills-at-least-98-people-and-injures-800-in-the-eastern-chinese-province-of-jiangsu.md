@@ -18,7 +18,7 @@ A tornado, hail storms and driving rain killed at least 78 people and injured so
 
 ### Changes:
 
-1. [2016 Jiangsu tornado: A tornado, accompanied by heavy rainfall and hailstones, kills at least 98 people and injures 800 in the eastern Chinese province of Jiangsu ](/news/2016/06/23/2016-jiangsu-tornado-a-tornado-accompanied-by-heavy-rainfall-and-hailstones-kills-at-least-98-people-and-injures-800-in-the-eastern-chine.md) _2017-08-27 03:46:19 (First version)_
+1. [2016 Jiangsu tornado: A tornado, accompanied by heavy rainfall and hailstones, kills at least 98 people and injures 800 in the eastern Chinese province of Jiangsu ](/news/2016/06/23/2016-jiangsu-tornado-a-tornado-accompanied-by-heavy-rainfall-and-hailstones-kills-at-least-98-people-and-injures-800-in-the-eastern-chine.md) _2018-02-06 13:49:29 (First version)_
 1. [A tornado, accompanied by heavy rainfall and hailstones, kills at least 98 people and injures 800 in the eastern Chinese province of Jiangsu ](/news/2016/06/23/a-tornado-accompanied-by-heavy-rainfall-and-hailstones-kills-at-least-98-people-and-injures-800-in-the-eastern-chinese-province-of-jiangsu.md) _(Current version)_
 
 ### Related:

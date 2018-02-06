@@ -16,7 +16,7 @@ Two suicide bombers posing as food vendors killed at least 24 people and injured
 
 ### Changes:
 
-1. [Boko Haram insurgency: Two suicide bombers kill at least 24 people and injure 112 others at a market in northern Cameroon. ](/news/2016/02/19/boko-haram-insurgency-two-suicide-bombers-kill-at-least-24-people-and-injure-112-others-at-a-market-in-northern-cameroon.md) _2017-08-27 03:44:57 (First version)_
+1. [Boko Haram insurgency: Two suicide bombers kill at least 24 people and injure 112 others at a market in northern Cameroon. ](/news/2016/02/19/boko-haram-insurgency-two-suicide-bombers-kill-at-least-24-people-and-injure-112-others-at-a-market-in-northern-cameroon.md) _2018-02-06 13:49:28 (First version)_
 1. [Two suicide bombers kill at least 24 people and injure 112 others at a market in northern Cameroon. ](/news/2016/02/19/two-suicide-bombers-kill-at-least-24-people-and-injure-112-others-at-a-market-in-northern-cameroon.md) _(Current version)_
 
 ### Related:

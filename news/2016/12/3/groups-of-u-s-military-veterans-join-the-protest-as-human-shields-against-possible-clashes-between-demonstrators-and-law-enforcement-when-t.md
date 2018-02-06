@@ -17,7 +17,7 @@ U.S. military veterans were building barracks on Friday at a protest camp in Nor
 
 ### Changes:
 
-1. [Dakota Access Pipeline protests: Groups of U.S. military veterans join the protest as human shields against possible clashes between demonstrators and law enforcement when the United States Army Corps of Engineers' eviction deadline expires on Monday. They are building barracks for shelter in North Dakota's winter weather. ](/news/2016/12/3/dakota-access-pipeline-protests-groups-of-u-s-military-veterans-join-the-protest-as-human-shields-against-possible-clashes-between-demonst.md) _2017-08-27 03:47:22 (First version)_
+1. [Dakota Access Pipeline protests: Groups of U.S. military veterans join the protest as human shields against possible clashes between demonstrators and law enforcement when the United States Army Corps of Engineers' eviction deadline expires on Monday. They are building barracks for shelter in North Dakota's winter weather. ](/news/2016/12/3/dakota-access-pipeline-protests-groups-of-u-s-military-veterans-join-the-protest-as-human-shields-against-possible-clashes-between-demonst.md) _2018-02-06 13:49:30 (First version)_
 1. [Groups of U.S. military veterans join the protest as human shields against possible clashes between demonstrators and law enforcement when the United States Army Corps of Engineers' eviction deadline expires on Monday. They are building barracks for shelter in North Dakota's winter weather. ](/news/2016/12/3/groups-of-u-s-military-veterans-join-the-protest-as-human-shields-against-possible-clashes-between-demonstrators-and-law-enforcement-when-t.md) _(Current version)_
 
 ### Related:

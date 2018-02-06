@@ -17,8 +17,8 @@ B.C. has seen more than 50 new wildfires over the weekend that have put people o
 
 ### Changes:
 
-1. [Canadian wildfiresMore than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/canadian-wildfirespmore-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities.md) _2017-08-25 03:42:21 (First version)_
-2. [Canadian wildfires: More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/canadian-wildfires-more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communitie.md) _2017-08-27 03:42:39 (Update)_
+1. [Canadian wildfiresMore than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/canadian-wildfirespmore-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities.md) _2018-02-06 13:49:27 (First version)_
+2. [Canadian wildfires: More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/canadian-wildfires-more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communitie.md) _2018-02-06 13:49:27 (Update)_
 2. [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md) _(Current version)_
 
 ### Related:

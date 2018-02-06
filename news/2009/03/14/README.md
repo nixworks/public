@@ -5,23 +5,23 @@ Formats: [HTML](2009/03/14/index.html)  [JSON](2009/03/14/index.json)  [XML](200
 
 ##### G-20
 ### [ The G20 meets in Horsham, West Sussex, England, to discuss the global financial crisis. ](/news/2009/03/14/the-g20-meets-in-horsham-west-sussex-england-to-discuss-the-global-financial-crisis.md)
-_Context: G-20, England, Horsham, 4th quarter of 2007 and the second quarter of 2009, West Sussex_
+_Context: G-20, England, 4th quarter of 2007 and the second quarter of 2009, Horsham, West Sussex_
 
 ##### Antananarivo
 ### [ Former Antananarivo Mayor Andry Rajoelina demands that Malagasy President Marc Ravalomanana resign. ](/news/2009/03/14/former-antananarivo-mayor-andry-rajoelina-demands-that-malagasy-president-marc-ravalomanana-resign.md)
-_Context: Mayor, Andry Rajoelina, Madagascar, President, Marc Ravalomanana, Antananarivo_
+_Context: Madagascar, Mayor, President, Andry Rajoelina, Marc Ravalomanana, Antananarivo_
 
 ##### Pasifika Festival
 ### [ The 17th annual Pasifika Festival opens in Auckland City, New Zealand. ](/news/2009/03/14/the-17th-annual-pasifika-festival-opens-in-auckland-city-new-zealand.md)
-_Context: New Zealand, Pasifika Festival, Auckland City_
+_Context: Auckland City, New Zealand, Pasifika Festival_
 
 ##### Vietnam
 ### [ A Vietnamese cargo ship sinks in the South China Sea, killing three people. ](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.md)
-_Context: South China Sea, Vietnam, cargo ship_
+_Context: South China Sea, cargo ship, Vietnam_
 
 ##### Japanese Navy
 ### [ Maritime Self-Defense Force destroyers "Sazanami" and "Samidare" depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md)
-_Context: Samidare, Japan, destroyer, pirates, Somalia, Sazanami, Japanese Navy_
+_Context: pirates, Japan, Japanese Navy, Somalia, destroyer, Samidare, Sazanami_
 
 ##### Russia
 ### [ Russia's Air Force says the country may base strategic bombers in Cuba or on a Venezuelan island. ](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.md)

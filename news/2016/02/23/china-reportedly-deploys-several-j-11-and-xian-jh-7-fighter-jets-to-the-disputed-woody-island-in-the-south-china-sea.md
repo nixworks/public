@@ -16,7 +16,7 @@ In a move likely to further increase already volatile tensions in the South Chin
 
 ### Changes:
 
-1. [South China Sea disputes: China reportedly deploys several J-11 and Xian JH-7 fighter jets to the disputed Woody Island in the South China Sea. ](/news/2016/02/23/south-china-sea-disputes-china-reportedly-deploys-several-j-11-and-xian-jh-7-fighter-jets-to-the-disputed-woody-island-in-the-south-china-s.md) _2017-08-27 03:45:00 (First version)_
+1. [South China Sea disputes: China reportedly deploys several J-11 and Xian JH-7 fighter jets to the disputed Woody Island in the South China Sea. ](/news/2016/02/23/south-china-sea-disputes-china-reportedly-deploys-several-j-11-and-xian-jh-7-fighter-jets-to-the-disputed-woody-island-in-the-south-china-s.md) _2018-02-06 13:49:28 (First version)_
 1. [China reportedly deploys several J-11 and Xian JH-7 fighter jets to the disputed Woody Island in the South China Sea. ](/news/2016/02/23/china-reportedly-deploys-several-j-11-and-xian-jh-7-fighter-jets-to-the-disputed-woody-island-in-the-south-china-sea.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ BENGHAZI, Libya -- A suicide car bombing at a security checkpoint in eastern Lib
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/post-civil-war-violence-in-libya-p13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-eastern.md) _2017-08-25 03:39:45 (First version)_
-2. [Post-civil war violence in Libya:: 13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/post-civil-war-violence-in-libya-13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-easter.md) _2017-08-27 03:40:03 (Update)_
+1. [Post-civil war violence in Libya:13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/post-civil-war-violence-in-libya-p13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-eastern.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:: 13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/post-civil-war-violence-in-libya-13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-easter.md) _2018-02-06 13:49:25 (Update)_
 2. [13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-eastern-libyan-city-of-benghazi.md) _(Current version)_
 
 ### Related:

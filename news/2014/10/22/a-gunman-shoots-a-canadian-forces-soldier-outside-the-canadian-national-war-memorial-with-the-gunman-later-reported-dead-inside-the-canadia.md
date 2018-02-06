@@ -20,7 +20,7 @@ Martin Couture Rouleau shot dead by Quebec police after driving his car into two
 
 ### Changes:
 
-1. [2014 shootings at Parliament Hill, Ottawa: A gunman shoots a Canadian Forces soldier outside the Canadian National War Memorial, with the gunman later reported dead inside the Canadian Parliament buildings. The incident came hours after Canada raised its terror threat level from low to medium following Monday's fatal hit-and-run attack on two soldiers in Quebec. ](/news/2014/10/22/2014-shootings-at-parliament-hill-ottawa-a-gunman-shoots-a-canadian-forces-soldier-outside-the-canadian-national-war-memorial-with-the-gu.md) _2017-08-27 03:41:25 (First version)_
+1. [2014 shootings at Parliament Hill, Ottawa: A gunman shoots a Canadian Forces soldier outside the Canadian National War Memorial, with the gunman later reported dead inside the Canadian Parliament buildings. The incident came hours after Canada raised its terror threat level from low to medium following Monday's fatal hit-and-run attack on two soldiers in Quebec. ](/news/2014/10/22/2014-shootings-at-parliament-hill-ottawa-a-gunman-shoots-a-canadian-forces-soldier-outside-the-canadian-national-war-memorial-with-the-gu.md) _2018-02-06 13:49:26 (First version)_
 1. [A gunman shoots a Canadian Forces soldier outside the Canadian National War Memorial, with the gunman later reported dead inside the Canadian Parliament buildings. The incident came hours after Canada raised its terror threat level from low to medium following Monday's fatal hit-and-run attack on two soldiers in Quebec. ](/news/2014/10/22/a-gunman-shoots-a-canadian-forces-soldier-outside-the-canadian-national-war-memorial-with-the-gunman-later-reported-dead-inside-the-canadia.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-m
 
 ### Changes:
 
-1. [ The launch of Space Shuttle ''Atlantis'''s STS-122 mission, which will deliver ESA's Columbus module to the International Space Station, is delayed for one day due to a sensor malfunction. ](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-mission-which-will-deliver-esa-s-columbus-module-to-the-international-space-station-is.md) _2017-08-25 03:21:32 (First version)_
+1. [ The launch of Space Shuttle ''Atlantis'''s STS-122 mission, which will deliver ESA's Columbus module to the International Space Station, is delayed for one day due to a sensor malfunction. ](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-mission-which-will-deliver-esa-s-columbus-module-to-the-international-space-station-is.md) _2018-02-06 13:49:18 (First version)_
 1. [ The launch of Space Shuttle "Atlantis"'s STS-122 mission, which will deliver ESA's Columbus module to the International Space Station, is delayed for one day due to a sensor malfunction. ](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-mission-which-will-deliver-esa-s-columbus-module-to-the-international-space-station-is-d.md) _(Current version)_
 
 ### Related:

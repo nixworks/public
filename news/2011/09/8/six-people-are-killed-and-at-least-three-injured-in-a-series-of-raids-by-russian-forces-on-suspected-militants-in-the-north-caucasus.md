@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured
 
 ### Changes:
 
-1. [North Caucasus insurgency-Ingushetia civil war:Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-psix-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-s.md) _2017-08-25 03:34:07 (First version)_
-2. [North Caucasus insurgency-Ingushetia civil war:: Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on.md) _2017-08-27 03:34:14 (Update)_
+1. [North Caucasus insurgency-Ingushetia civil war:: Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on.md) _2018-02-06 13:49:22 (First version)_
+2. [North Caucasus insurgency-Ingushetia civil war:Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-psix-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-s.md) _2018-02-06 13:49:22 (Update)_
 2. [Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.md) _(Current version)_
 
 ### Related:

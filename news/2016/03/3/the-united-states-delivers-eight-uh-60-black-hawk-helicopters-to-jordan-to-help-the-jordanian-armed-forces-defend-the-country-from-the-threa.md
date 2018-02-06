@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/3/the-united-states-delivers-eight-uh-60-black-haw
 
 ### Changes:
 
-1. [Jordan-United States relations: The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL. ](/news/2016/03/3/jordan-united-states-relations-the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces.md) _2017-08-27 03:45:07 (First version)_
+1. [Jordan-United States relations: The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL. ](/news/2016/03/3/jordan-united-states-relations-the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL. ](/news/2016/03/3/the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces-defend-the-country-from-the-threa.md) _(Current version)_
 
 ### Related:

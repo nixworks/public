@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/02/22/at-least-four-people-are-dead-in-bangladesh-fol
 
 ### Changes:
 
-1. [2013 Bangladesh protests:At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-pat-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _2017-08-25 03:37:35 (First version)_
-2. [2013 Bangladesh protests:: At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _2017-08-27 03:37:46 (Update)_
+1. [2013 Bangladesh protests:At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-pat-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Bangladesh protests:: At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _2018-02-06 13:49:24 (Update)_
 2. [At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The company will keep its headquarters in Bethesda following the $12.2 billion d
 
 ### Changes:
 
-1. [Marriott International announces it has agreed to buy Starwood Hotels & Resorts in a $12.2 billion deal that would create the world-s largest hotel company. ](/news/2015/11/16/marriott-international-announces-it-has-agreed-to-buy-starwood-hotels-resorts-in-a-12-2-billion-deal-that-would-create-the-world-s-larg.md) _2017-08-27 03:43:52 (First version)_
+1. [Marriott International announces it has agreed to buy Starwood Hotels & Resorts in a $12.2 billion deal that would create the world-s largest hotel company. ](/news/2015/11/16/marriott-international-announces-it-has-agreed-to-buy-starwood-hotels-resorts-in-a-12-2-billion-deal-that-would-create-the-world-s-larg.md) _2018-02-06 13:49:28 (First version)_
 1. [Marriott International announces it has agreed to buy Starwood Hotels & Resorts in a $12.2 billion deal that would create the world's largest hotel company. ](/news/2015/11/16/marriott-international-announces-it-has-agreed-to-buy-starwood-hotels-resorts-in-a-12-2-billion-deal-that-would-create-the-worldas-larg.md) _(Current version)_
 
 ### Related:

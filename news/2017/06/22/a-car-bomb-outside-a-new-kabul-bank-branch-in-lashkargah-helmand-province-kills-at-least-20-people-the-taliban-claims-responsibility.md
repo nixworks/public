@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-l
 
 ### Changes:
 
-1. [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. There are no immediate claims of responsibility.](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-there-are-no-immediate-claims-of-respo.md) _2017-06-22 14:30:07 (First version)_
-2. [War in Afghanistan: 2017 Lashkargah bombing: A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/war-in-afghanistan-2017-lashkargah-bombing-a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-p.md) _2017-08-27 03:48:32 (Update)_
+1. [War in Afghanistan: 2017 Lashkargah bombing: A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/war-in-afghanistan-2017-lashkargah-bombing-a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-p.md) _2018-02-06 13:49:30 (First version)_
+2. [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. There are no immediate claims of responsibility.](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-there-are-no-immediate-claims-of-respo.md) _2018-02-06 13:49:30 (Update)_
 2. [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md) _(Current version)_
 
 ### Related:

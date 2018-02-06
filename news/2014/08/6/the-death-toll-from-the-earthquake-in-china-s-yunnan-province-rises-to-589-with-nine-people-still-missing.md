@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/6/the-death-toll-from-the-earthquake-in-china-s-yu
 
 ### Changes:
 
-1. [2014 Ludian earthquake: The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/2014-ludian-earthquake-the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md) _2017-08-27 03:41:07 (First version)_
+1. [2014 Ludian earthquake: The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/2014-ludian-earthquake-the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md) _(Current version)_
 
 ### Related:

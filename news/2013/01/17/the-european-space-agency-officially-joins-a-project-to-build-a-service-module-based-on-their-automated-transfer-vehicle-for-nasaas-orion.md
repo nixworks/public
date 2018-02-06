@@ -18,7 +18,7 @@ NASA signed an agreement for the European Space Agency to provide a service modu
 
 ### Changes:
 
-1. [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA-s Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasa-s-orion.md) _2017-08-27 03:37:27 (First version)_
+1. [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA-s Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasa-s-orion.md) _2018-02-06 13:49:24 (First version)_
 1. [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md) _(Current version)_
 
 ### Related:

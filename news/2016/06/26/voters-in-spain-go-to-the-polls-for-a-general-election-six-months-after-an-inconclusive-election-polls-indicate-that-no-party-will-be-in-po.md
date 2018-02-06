@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-e
 
 ### Changes:
 
-1. [Spanish general election, 2016: Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/spanish-general-election-2016-voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indi.md) _2017-08-27 03:46:21 (First version)_
+1. [Spanish general election, 2016: Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/spanish-general-election-2016-voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indi.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md) _(Current version)_
 
 ### Related:

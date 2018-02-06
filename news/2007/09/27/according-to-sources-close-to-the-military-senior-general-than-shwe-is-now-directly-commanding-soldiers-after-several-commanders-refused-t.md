@@ -23,8 +23,8 @@ Formats: [HTML](/news/2007/09/27/according-to-sources-close-to-the-military-seni
 
 ### Changes:
 
-1. [ 2007 Burmese anti-government protests: According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/2007-burmese-anti-government-protests-p-according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-sol.md) _2017-08-25 03:21:04 (First version)_
-2. [ 2007 Burmese anti-government protests:: According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/2007-burmese-anti-government-protests-according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-sol.md) _2017-08-27 03:21:00 (Update)_
+1. [ 2007 Burmese anti-government protests: According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/2007-burmese-anti-government-protests-p-according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-sol.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Burmese anti-government protests:: According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/2007-burmese-anti-government-protests-according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-sol.md) _2018-02-06 13:49:18 (Update)_
 2. [ According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-soldiers-after-several-commanders-refused-t.md) _(Current version)_
 
 ### Related:

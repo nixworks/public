@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/15/the-united-states-defense-department-reports-it
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/north-korea-and-weapons-of-mass-destruction-the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-no.md) _2017-08-27 03:47:03 (First version)_
+1. [North Korea and weapons of mass destruction: The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/north-korea-and-weapons-of-mass-destruction-the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-no.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md) _(Current version)_
 
 ### Related:

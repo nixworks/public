@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/12/2013-kidal-suicide-attack-two-suicide-bombers-k
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012apresent-p2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-civ.md) _2017-08-25 03:38:19 (First version)_
-2. [Northern Mali conflict (2012-present):: 2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012-present-2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-ci.md) _2017-08-27 03:38:30 (Update)_
+1. [Northern Mali conflict (2012-present):2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012apresent-p2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-civ.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: 2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012-present-2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-ci.md) _2018-02-06 13:49:24 (Update)_
 2. [2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-civilians-at-a-market-in-kidal-mali.md) _(Current version)_
 
 ### Related:

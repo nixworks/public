@@ -19,7 +19,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Changes:
 
-1. [ Prime Minister Zurab Zhvania of Georgia dies of gas poisoning. Zhvania was found dead by security guards, an apparent victim of carbon monoxide exposure. ](/news/2005/02/3/prime-minister-zurab-zhvania-of-georgia-dies-of-gas-poisoning-zhvania-was-found-dead-by-security-guards-an-apparent-victim-of-carbon-mon.md) _2017-08-25 03:15:37 (First version)_
+1. [ Prime Minister Zurab Zhvania of Georgia dies of gas poisoning. Zhvania was found dead by security guards, an apparent victim of carbon monoxide exposure. ](/news/2005/02/3/prime-minister-zurab-zhvania-of-georgia-dies-of-gas-poisoning-zhvania-was-found-dead-by-security-guards-an-apparent-victim-of-carbon-mon.md) _2018-02-06 13:49:16 (First version)_
 1. [ Prime Minister Zurab Zhvania of Georgia dies of gas poisoning. Zhvania was found dead by security guards, an apparent victim of carbon monoxide exposure. ](/news/2005/02/3/prime-minister-zurab-zhvania-of-georgia-dies-of-gas-poisoning-zhvania-was-found-dead-by-security-guards-an-apparent-victim-of-carbon-mono.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ José Manuel Maza led efforts to charge Catalan leaders over the recent independ
 
 ### Changes:
 
-1. [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an unspecified illness in Buenos Aires. The office is now vacant. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-unspecified-illness-in-buenos-aires-the-office-is-now-vacant.md) _2017-11-25 23:30:03 (First version)_
+1. [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an unspecified illness in Buenos Aires. The office is now vacant. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-unspecified-illness-in-buenos-aires-the-office-is-now-vacant.md) _2018-02-06 13:49:31 (First version)_
 1. [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an illness in Buenos Aires at the age of 66. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-illness-in-buenos-aires-at-the-age-of-66.md) _(Current version)_
 
 ### Related:

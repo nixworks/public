@@ -16,7 +16,7 @@ Jordan confirms the death of pilot Moaz al-Kasasbeh after a video published onli
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The Islamic State of Iraq and the Levant posts pictures of Jordanian Air Force pilot Muath Al-Kasasbeh being burnt alive which Jordan believes are a month old. ](/news/2015/02/3/islamic-state-of-iraq-and-the-levant-the-islamic-state-of-iraq-and-the-levant-posts-pictures-of-jordanian-air-force-pilot-muath-al-kasasbeh.md) _2017-08-27 03:41:52 (First version)_
+1. [Islamic State of Iraq and the Levant: The Islamic State of Iraq and the Levant posts pictures of Jordanian Air Force pilot Muath Al-Kasasbeh being burnt alive which Jordan believes are a month old. ](/news/2015/02/3/islamic-state-of-iraq-and-the-levant-the-islamic-state-of-iraq-and-the-levant-posts-pictures-of-jordanian-air-force-pilot-muath-al-kasasbeh.md) _2018-02-06 13:49:26 (First version)_
 1. [The Islamic State of Iraq and the Levant posts pictures of Jordanian Air Force pilot Muath Al-Kasasbeh being burnt alive which Jordan believes are a month old. ](/news/2015/02/3/the-islamic-state-of-iraq-and-the-levant-posts-pictures-of-jordanian-air-force-pilot-muath-al-kasasbeh-being-burnt-alive-which-jordan-believ.md) _(Current version)_
 
 ### Related:

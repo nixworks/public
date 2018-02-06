@@ -16,8 +16,8 @@ A Malaysian court on Monday upheld death sentences handed down to nine men from 
 
 ### Changes:
 
-1. [Malaysia upholds death sentences for nine Filipinos over 2013 incursion. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipinos-over-2013-incursion.md) _2018-01-15 15:30:05 (First version)_
-2. [Malaysia upholds death sentences for nine Suluk Filipinos over 2013 incursion by a faction of the Sultanate of Sulu in Sabah. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-suluk-filipinos-over-2013-incursion-by-a-faction-of-the-sultanate-of-sulu-in-sabah.md) _2018-01-18 08:30:05 (Update)_
+1. [Malaysia upholds death sentences for nine Suluk Filipinos over 2013 incursion by a faction of the Sultanate of Sulu in Sabah. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-suluk-filipinos-over-2013-incursion-by-a-faction-of-the-sultanate-of-sulu-in-sabah.md) _2018-02-06 13:49:31 (First version)_
+2. [Malaysia upholds death sentences for nine Filipinos over 2013 incursion. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipinos-over-2013-incursion.md) _2018-02-06 13:49:31 (Update)_
 2. [Malaysia upholds death sentences for nine Filipino Tausugs over 2013 incursion in Sabah by a faction of claimant to the Sultanate of Sulu throne. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipino-tausa-gs-over-2013-incursion-in-sabah-by-a-faction-of-claimant-to-the-sultanate-of-sulu-t.md) _(Current version)_
 
 ### Related:

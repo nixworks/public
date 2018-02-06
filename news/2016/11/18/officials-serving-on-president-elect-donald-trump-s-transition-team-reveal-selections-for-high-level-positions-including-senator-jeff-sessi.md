@@ -16,7 +16,7 @@ Sen. Jeff Sessions has been offered the post of attorney general, while Rep. Mik
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/presidential-transition-of-donald-trump-officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-leve.md) _2017-08-27 03:47:15 (First version)_
+1. [Presidential transition of Donald Trump: Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/presidential-transition-of-donald-trump-officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-leve.md) _2018-02-06 13:49:29 (First version)_
 1. [Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-level-positions-including-senator-jeff-sessi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/25/in-the-first-declared-visit-to-the-town-since-t
 
 ### Changes:
 
-1. [Politics of Syria: In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/politics-of-syria-in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr.md) _2017-08-27 03:48:33 (First version)_
+1. [Politics of Syria: In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/politics-of-syria-in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr.md) _2018-02-06 13:49:30 (First version)_
 1. [In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr-prayer-in-hama.md) _(Current version)_
 
 ### Related:

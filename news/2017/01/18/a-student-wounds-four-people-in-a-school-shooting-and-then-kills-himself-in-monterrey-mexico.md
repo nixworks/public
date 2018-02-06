@@ -16,5 +16,5 @@ Formats: [HTML](/news/2017/01/18/a-student-wounds-four-people-in-a-school-shooti
 
 ### Changes:
 
-1. [Colegio Americano del Noreste 2017 shootings: A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. ](/news/2017/01/18/colegio-americano-del-noreste-2017-shootings-a-student-wounds-four-people-in-a-school-shooting-and-then-kills-himself-in-monterrey-mexico.md) _2017-08-27 03:47:38 (First version)_
+1. [Colegio Americano del Noreste 2017 shootings: A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. ](/news/2017/01/18/colegio-americano-del-noreste-2017-shootings-a-student-wounds-four-people-in-a-school-shooting-and-then-kills-himself-in-monterrey-mexico.md) _2018-02-06 13:49:30 (First version)_
 1. [A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. ](/news/2017/01/18/a-student-wounds-four-people-in-a-school-shooting-and-then-kills-himself-in-monterrey-mexico.md) _(Current version)_

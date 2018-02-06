@@ -15,9 +15,9 @@ Formats: [HTML](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-p
 
 ### Changes:
 
-1. [Winston Blackmore James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md) _2017-07-25 11:30:06 (First version)_
-2. [Winston Blackmore and James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md) _2017-07-25 13:30:05 (Update)_
-3. [Freedom of religion in Canada: Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/freedom-of-religion-in-canada-winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _2017-08-27 03:48:43 (Update)_
+1. [Winston Blackmore James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md) _2018-02-06 13:49:30 (First version)_
+2. [Winston Blackmore and James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md) _2018-02-06 13:49:30 (Update)_
+3. [Freedom of religion in Canada: Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/freedom-of-religion-in-canada-winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _2018-02-06 13:49:30 (Update)_
 3. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _(Current version)_
 
 ### Related:

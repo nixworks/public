@@ -16,7 +16,7 @@ France&#039;s capital replaces fireworks with a video as Brussels cancels festiv
 
 ### Changes:
 
-1. [War on Terror: Belgium cancels New Year's Eve firework celebrations in Brussels amid fears of an Islamic terrorist attack in an unspecified European capital city. ](/news/2015/12/30/war-on-terror-belgium-cancels-new-year-s-eve-firework-celebrations-in-brussels-amid-fears-of-an-islamic-terrorist-attack-in-an-unspecified.md) _2017-08-27 03:44:33 (First version)_
+1. [War on Terror: Belgium cancels New Year's Eve firework celebrations in Brussels amid fears of an Islamic terrorist attack in an unspecified European capital city. ](/news/2015/12/30/war-on-terror-belgium-cancels-new-year-s-eve-firework-celebrations-in-brussels-amid-fears-of-an-islamic-terrorist-attack-in-an-unspecified.md) _2018-02-06 13:49:28 (First version)_
 1. [Belgium cancels New Year's Eve firework celebrations in Brussels amid fears of an Islamic terrorist attack in an unspecified European capital city. ](/news/2015/12/30/belgium-cancels-new-year-s-eve-firework-celebrations-in-brussels-amid-fears-of-an-islamic-terrorist-attack-in-an-unspecified-european-capita.md) _(Current version)_
 
 ### Related:

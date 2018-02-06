@@ -16,5 +16,5 @@ Formats: [HTML](/news/2016/08/5/gunmen-open-fire-in-a-market-in-assam-india-kill
 
 ### Changes:
 
-1. [2016 Assam attacks: Gunmen open fire in a market in Assam, India, killing 13 people and injuring 18. ](/news/2016/08/5/2016-assam-attacks-gunmen-open-fire-in-a-market-in-assam-india-killing-13-people-and-injuring-18.md) _2017-08-27 03:46:36 (First version)_
+1. [2016 Assam attacks: Gunmen open fire in a market in Assam, India, killing 13 people and injuring 18. ](/news/2016/08/5/2016-assam-attacks-gunmen-open-fire-in-a-market-in-assam-india-killing-13-people-and-injuring-18.md) _2018-02-06 13:49:29 (First version)_
 1. [Gunmen open fire in a market in Assam, India, killing 13 people and injuring 18. ](/news/2016/08/5/gunmen-open-fire-in-a-market-in-assam-india-killing-13-people-and-injuring-18.md) _(Current version)_

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/12/japan-resumes-a-search-for-16-missing-persons-a
 
 ### Changes:
 
-1. [Tropical Storm Etau (2015): Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/tropical-storm-etau-2015-japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-re.md) _2017-08-27 03:43:02 (First version)_
+1. [Tropical Storm Etau (2015): Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/tropical-storm-etau-2015-japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-re.md) _2018-02-06 13:49:27 (First version)_
 1. [Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-return-home.md) _(Current version)_
 
 ### Related:

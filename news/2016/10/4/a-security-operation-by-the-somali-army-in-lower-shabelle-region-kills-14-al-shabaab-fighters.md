@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/4/a-security-operation-by-the-somali-army-in-lower
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/war-in-somalia-2009-present-a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md) _2017-08-27 03:46:57 (First version)_
+1. [War in Somalia (2009-present): A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/war-in-somalia-2009-present-a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md) _2018-02-06 13:49:29 (First version)_
 1. [A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md) _(Current version)_
 
 ### Related:

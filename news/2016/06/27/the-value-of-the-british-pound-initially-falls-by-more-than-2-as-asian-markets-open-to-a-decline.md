@@ -19,7 +19,7 @@ U.S. stocks closed about 1.5 percent lower or more Monday, extending Friday&#039
 
 ### Changes:
 
-1. [Brexit impact: The value of the British pound initially falls by more than 2% as Asian markets open to a decline. ](/news/2016/06/27/brexit-impact-the-value-of-the-british-pound-initially-falls-by-more-than-2-as-asian-markets-open-to-a-decline.md) _2017-08-27 03:46:21 (First version)_
+1. [Brexit impact: The value of the British pound initially falls by more than 2% as Asian markets open to a decline. ](/news/2016/06/27/brexit-impact-the-value-of-the-british-pound-initially-falls-by-more-than-2-as-asian-markets-open-to-a-decline.md) _2018-02-06 13:49:29 (First version)_
 1. [The value of the British pound initially falls by more than 2% as Asian markets open to a decline. ](/news/2016/06/27/the-value-of-the-british-pound-initially-falls-by-more-than-2-as-asian-markets-open-to-a-decline.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Roxana Baldetti, a former vice-president of Guatemala, appears in court accused 
 
 ### Changes:
 
-1. [La Linea corruption case: Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. ](/news/2015/08/24/la-linea-corruption-case-former-vice-president-of-guatemala-roxana-baldetti-appears-in-court-to-face-corruption-charges-as-finance-minister.md) _2017-08-27 03:42:54 (First version)_
+1. [La Linea corruption case: Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. ](/news/2015/08/24/la-linea-corruption-case-former-vice-president-of-guatemala-roxana-baldetti-appears-in-court-to-face-corruption-charges-as-finance-minister.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. ](/news/2015/08/24/former-vice-president-of-guatemala-roxana-baldetti-appears-in-court-to-face-corruption-charges-as-finance-minister-dorval-caraas-resigns.md) _(Current version)_
 
 ### Related:

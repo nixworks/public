@@ -16,7 +16,7 @@ Volkswagen AG (VOWG_p.DE), in another step to move past its costly diesel emissi
 
 ### Changes:
 
-1. [Volkswagen diesel emissions cheating scandal: Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-diesel-emissions-cheating-scandal-volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-b.md) _2017-08-27 03:47:02 (First version)_
+1. [Volkswagen diesel emissions cheating scandal: Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-diesel-emissions-cheating-scandal-volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-b.md) _2018-02-06 13:49:29 (First version)_
 1. [Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-behalf-of-the-owners-of-475-000-polluting-vehic.md) _(Current version)_
 
 ### Related:

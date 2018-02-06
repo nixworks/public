@@ -18,7 +18,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Changes:
 
-1. [ In Moldova, ruling Pro-Western Communist Party of the Republic of Moldova wins a narrow majority in parliamentary elections but will be probably unable to elect a president without further political alliances with other parties ](/news/2005/03/7/in-moldova-ruling-pro-western-communist-party-of-the-republic-of-moldova-wins-a-narrow-majority-in-parliamentary-elections-but-will-be-pr.md) _2017-08-25 03:15:45 (First version)_
+1. [ In Moldova, ruling Pro-Western Communist Party of the Republic of Moldova wins a narrow majority in parliamentary elections but will be probably unable to elect a president without further political alliances with other parties ](/news/2005/03/7/in-moldova-ruling-pro-western-communist-party-of-the-republic-of-moldova-wins-a-narrow-majority-in-parliamentary-elections-but-will-be-pr.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Moldova, ruling Pro-Western Communist Party of the Republic of Moldova wins a narrow majority in parliamentary elections but will be probably unable to elect a president without further political alliances with other parties ](/news/2005/03/7/in-moldova-ruling-pro-western-communist-party-of-the-republic-of-moldova-wins-a-narrow-majority-in-parliamentary-elections-but-will-be-pro.md) _(Current version)_
 
 ### Related:

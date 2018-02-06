@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/12/cuba-announces-plans-to-send-165-medical-staff-
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa:Cuba announces plans to send 165 medical staff to West Africa to help combat the Ebola virus outbreak that has claimed more than 2,400 lives. ](/news/2014/09/12/ebola-virus-epidemic-in-west-africa-pcuba-announces-plans-to-send-165-medical-staff-to-west-africa-to-help-combat-the-ebola-virus-outbreak-t.md) _2017-08-25 03:40:58 (First version)_
-2. [Ebola virus epidemic in West Africa:: Cuba announces plans to send 165 medical staff to West Africa to help combat the Ebola virus outbreak that has claimed more than 2,400 lives. ](/news/2014/09/12/ebola-virus-epidemic-in-west-africa-cuba-announces-plans-to-send-165-medical-staff-to-west-africa-to-help-combat-the-ebola-virus-outbreak.md) _2017-08-27 03:41:16 (Update)_
+1. [Ebola virus epidemic in West Africa:Cuba announces plans to send 165 medical staff to West Africa to help combat the Ebola virus outbreak that has claimed more than 2,400 lives. ](/news/2014/09/12/ebola-virus-epidemic-in-west-africa-pcuba-announces-plans-to-send-165-medical-staff-to-west-africa-to-help-combat-the-ebola-virus-outbreak-t.md) _2018-02-06 13:49:26 (First version)_
+2. [Ebola virus epidemic in West Africa:: Cuba announces plans to send 165 medical staff to West Africa to help combat the Ebola virus outbreak that has claimed more than 2,400 lives. ](/news/2014/09/12/ebola-virus-epidemic-in-west-africa-cuba-announces-plans-to-send-165-medical-staff-to-west-africa-to-help-combat-the-ebola-virus-outbreak.md) _2018-02-06 13:49:26 (Update)_
 2. [Cuba announces plans to send 165 medical staff to West Africa to help combat the Ebola virus outbreak that has claimed more than 2,400 lives. ](/news/2014/09/12/cuba-announces-plans-to-send-165-medical-staff-to-west-africa-to-help-combat-the-ebola-virus-outbreak-that-has-claimed-more-than-2-400-lives.md) _(Current version)_
 
 ### Related:

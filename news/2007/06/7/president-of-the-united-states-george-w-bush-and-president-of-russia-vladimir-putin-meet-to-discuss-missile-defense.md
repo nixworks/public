@@ -19,8 +19,8 @@ Formats: [HTML](/news/2007/06/7/president-of-the-united-states-george-w-bush-and
 
 ### Changes:
 
-1. [ ''33rd G8 summit:'' President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-p-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md) _2017-08-25 03:19:57 (First version)_
-2. [ "33rd G8 summit:": President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md) _2017-08-27 03:19:55 (Update)_
+1. [ "33rd G8 summit:": President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md) _2018-02-06 13:49:17 (First version)_
+2. [ ''33rd G8 summit:'' President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-p-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md) _2018-02-06 13:49:17 (Update)_
 2. [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md) _(Current version)_
 
 ### Related:

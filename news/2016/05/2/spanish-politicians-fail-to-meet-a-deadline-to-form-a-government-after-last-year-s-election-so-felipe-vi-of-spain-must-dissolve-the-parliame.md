@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Spanish general election, 2016: Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-general-election-2016-spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of.md) _2017-08-27 03:45:57 (First version)_
+1. [Spanish general election, 2016: Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-general-election-2016-spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of-spain-must-dissolve-the-parliame.md) _(Current version)_
 
 ### Related:

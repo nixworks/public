@@ -19,7 +19,7 @@ Malcolm McLaren, the former manager of the Sex Pistols and impresario, has died 
 
 ### Changes:
 
-1. [Sex Pistols manager Malcolm McLaren, notorious for the banned "God Save the Queen" single, dies in New York. ](/news/2010/04/8/sex-pistols-manager-malcolm-mclaren-notorious-for-the-banned-god-save-the-queen-single-dies-in-new-york.md) _2017-08-03 03:28:12 (First version)_
+1. [Sex Pistols manager Malcolm McLaren, notorious for the banned "God Save the Queen" single, dies in New York. ](/news/2010/04/8/sex-pistols-manager-malcolm-mclaren-notorious-for-the-banned-god-save-the-queen-single-dies-in-new-york.md) _2018-02-06 13:49:20 (First version)_
 1. [Sex Pistols manager Malcolm McLaren, notorious for the banned "God Save the Queen" single, dies in Switzerland. ](/news/2010/04/8/sex-pistols-manager-malcolm-mclaren-notorious-for-the-banned-god-save-the-queen-single-dies-in-switzerland.md) _(Current version)_
 
 ### Related:

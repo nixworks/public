@@ -17,7 +17,7 @@ Police in Athens destroy a letter bomb sent to the French embassy, the 14th susp
 
 ### Changes:
 
-1. [Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14 th bomb addressed to the French embassy in Athens is detonated by police. ](/news/2010/11/4/two-men-are-charged-with-terrorism-following-parcel-bomb-attacks-in-greece-as-a-14th-bomb-addressed-to-the-french-embassy-in-athens-is-deto.md) _2017-10-02 03:34:32 (First version)_
+1. [Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14 th bomb addressed to the French embassy in Athens is detonated by police. ](/news/2010/11/4/two-men-are-charged-with-terrorism-following-parcel-bomb-attacks-in-greece-as-a-14th-bomb-addressed-to-the-french-embassy-in-athens-is-deto.md) _2018-02-06 13:49:21 (First version)_
 1. [Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14 th bomb addressed to the French embassy in Athens is detonated by police. ](/news/2010/11/4/two-men-are-charged-with-terrorism-following-parcel-bomb-attacks-in-greece-as-a-14-th-bomb-addressed-to-the-french-embassy-in-athens-is-det.md) _(Current version)_
 
 ### Related:

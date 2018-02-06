@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/18/the-bank-of-england-injects-gbp4-4-billion-of-l
 
 ### Changes:
 
-1. [ The Bank of England injects 4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after 2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-ps4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-crisi.md) _2017-08-25 03:20:59 (First version)_
+1. [ The Bank of England injects 4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after 2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-ps4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-crisi.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Bank of England injects GBP4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after GBP2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-gbp4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-cri.md) _(Current version)_
 
 ### Related:

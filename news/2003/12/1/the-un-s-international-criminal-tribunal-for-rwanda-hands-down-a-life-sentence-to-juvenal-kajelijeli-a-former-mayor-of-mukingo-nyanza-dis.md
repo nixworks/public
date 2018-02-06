@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwa
 
 ### Changes:
 
-1. [ The UN's International Criminal Tribunal for Rwanda hands down a life sentence to Juvenal Kajelijeli, a former mayor of Mukingo, for his role in the 1994 genocide in which more than 500,000 Rwandans were killed. [http:--story.news.yahoo.com-news?tmpl=story&cid=515&ncid=723&e=5&u=-ap-20031201-ap_on_re_af-un_rwanda_tribunal]](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwanda-hands-down-a-life-sentence-to-juvenal-kajelijeli-a-former-mayor-of-mukingo-for-his-ro.md) _2017-09-18 03:15:46 (First version)_
+1. [ The UN's International Criminal Tribunal for Rwanda hands down a life sentence to Juvenal Kajelijeli, a former mayor of Mukingo, for his role in the 1994 genocide in which more than 500,000 Rwandans were killed. [http:--story.news.yahoo.com-news?tmpl=story&cid=515&ncid=723&e=5&u=-ap-20031201-ap_on_re_af-un_rwanda_tribunal]](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwanda-hands-down-a-life-sentence-to-juvenal-kajelijeli-a-former-mayor-of-mukingo-for-his-ro.md) _2018-02-06 13:49:15 (First version)_
 1. [ The UN's International Criminal Tribunal for Rwanda hands down a life sentence to Juvenal Kajelijeli, a former mayor of Mukingo, Nyanza District, for his role in the 1994 genocide in which more than 500,000 Rwandans were killed. [http:--story.news.yahoo.com-news?tmpl=story&cid=515&ncid=723&e=5&u=-ap-20031201-ap_on_re_af-un_rwanda_tribunal]](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwanda-hands-down-a-life-sentence-to-juvenal-kajelijeli-a-former-mayor-of-mukingo-nyanza-dis.md) _(Current version)_
 
 ### Related:

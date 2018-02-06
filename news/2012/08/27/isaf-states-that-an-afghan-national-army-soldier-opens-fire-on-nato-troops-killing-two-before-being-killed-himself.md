@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/27/isaf-states-that-an-afghan-national-army-soldie
 
 ### Changes:
 
-1. [War on Terror:ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/war-on-terror-pisaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md) _2017-08-25 03:36:21 (First version)_
-2. [War on Terror:: ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/war-on-terror-isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md) _2017-08-27 03:36:32 (Update)_
+1. [War on Terror:ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/war-on-terror-pisaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md) _2018-02-06 13:49:23 (First version)_
+2. [War on Terror:: ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/war-on-terror-isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md) _2018-02-06 13:49:23 (Update)_
 2. [ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md) _(Current version)_
 
 ### Related:

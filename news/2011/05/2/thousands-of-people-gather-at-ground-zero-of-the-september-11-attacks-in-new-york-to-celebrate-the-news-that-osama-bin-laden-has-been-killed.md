@@ -25,8 +25,8 @@ The inability to find bin Laden has frustrated lawmakers throughout Washington f
 
 ### Changes:
 
-1. [Reactions to the death of Osama bin Laden:Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-pthousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-th.md) _2017-08-25 03:32:57 (First version)_
-2. [Reactions to the death of Osama bin Laden:: Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-t.md) _2017-08-27 03:33:06 (Update)_
+1. [Reactions to the death of Osama bin Laden:: Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-t.md) _2018-02-06 13:49:22 (First version)_
+2. [Reactions to the death of Osama bin Laden:Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-pthousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-th.md) _2018-02-06 13:49:22 (Update)_
 2. [Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-the-news-that-osama-bin-laden-has-been-killed.md) _(Current version)_
 
 ### Related:

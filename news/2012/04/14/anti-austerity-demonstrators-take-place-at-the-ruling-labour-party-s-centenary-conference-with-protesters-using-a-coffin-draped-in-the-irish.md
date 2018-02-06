@@ -18,7 +18,7 @@ There were rowdy scenes outside the Labour Party conference this afternoon as pr
 
 ### Changes:
 
-1. [Anti-austerity demonstrators take place at the ruling Labour Party's centenary conference with protesters using a coffin draped in the Irish tricolour. ](/news/2012/04/14/anti-austerity-demonstrators-take-place-at-the-ruling-labour-party-s-centenary-conference-with-protesters-using-a-coffin-draped-in-the-iris.md) _2017-08-25 03:35:29 (First version)_
+1. [Anti-austerity demonstrators take place at the ruling Labour Party's centenary conference with protesters using a coffin draped in the Irish tricolour. ](/news/2012/04/14/anti-austerity-demonstrators-take-place-at-the-ruling-labour-party-s-centenary-conference-with-protesters-using-a-coffin-draped-in-the-iris.md) _2018-02-06 13:49:23 (First version)_
 1. [Anti-austerity demonstrators take place at the ruling Labour Party's centenary conference with protesters using a coffin draped in the Irish tricolour. ](/news/2012/04/14/anti-austerity-demonstrators-take-place-at-the-ruling-labour-party-s-centenary-conference-with-protesters-using-a-coffin-draped-in-the-irish.md) _(Current version)_
 
 ### Related:

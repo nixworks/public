@@ -16,7 +16,7 @@ Convicted murderer and escaped inmate David Sweat was shot near the Canadian bor
 
 ### Changes:
 
-1. [2015 Clinton Correctional Facility escape: Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/2015-clinton-correctional-facility-escape-remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canad.md) _2017-08-27 03:42:36 (First version)_
+1. [2015 Clinton Correctional Facility escape: Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/2015-clinton-correctional-facility-escape-remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canad.md) _2018-02-06 13:49:27 (First version)_
 1. [Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canada.md) _(Current version)_
 
 ### Related:

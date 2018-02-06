@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/04/7/lawyer-ca1-huy-ha-va-c-one-of-vietnamas-most-fam
 
 ### Changes:
 
-1. [Lawyer Cu Huy Ha Vu, one of Vietnam-s most famous dissidents, is released early from prison. Afterwards, he travels to the United States. ](/news/2014/04/7/lawyer-ca1-huy-ha-va-c-one-of-vietnam-s-most-famous-dissidents-is-released-early-from-prison-afterwards-he-travels-to-the-united-state.md) _2017-08-27 03:40:34 (First version)_
+1. [Lawyer Cu Huy Ha Vu, one of Vietnam-s most famous dissidents, is released early from prison. Afterwards, he travels to the United States. ](/news/2014/04/7/lawyer-ca1-huy-ha-va-c-one-of-vietnam-s-most-famous-dissidents-is-released-early-from-prison-afterwards-he-travels-to-the-united-state.md) _2018-02-06 13:49:26 (First version)_
 1. [Lawyer Cu Huy Ha Vu, one of Vietnam's most famous dissidents, is released early from prison. Afterwards, he travels to the United States. ](/news/2014/04/7/lawyer-ca1-huy-ha-va-c-one-of-vietnamas-most-famous-dissidents-is-released-early-from-prison-afterwards-he-travels-to-the-united-state.md) _(Current version)_
 
 ### Related:

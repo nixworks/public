@@ -17,8 +17,8 @@ Syrian government forces killed at least 100 people on Tuesday in assaults on vi
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/2011a2012-syrian-uprising-pthe-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md) _2017-08-25 03:35:06 (First version)_
-2. [2011-2012 Syrian uprising:: The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/2011-2012-syrian-uprising-the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md) _2017-08-27 03:35:16 (Update)_
+1. [2011-2012 Syrian uprising:The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/2011a2012-syrian-uprising-pthe-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/2011-2012-syrian-uprising-the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md) _2018-02-06 13:49:23 (Update)_
 2. [The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md) _(Current version)_
 
 ### Related:

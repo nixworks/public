@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-c
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/2014-israel-gaza-conflict-israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _2017-08-27 03:41:10 (First version)_
+1. [2014 Israel-Gaza conflict: Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/2014-israel-gaza-conflict-israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _2018-02-06 13:49:26 (First version)_
 1. [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _(Current version)_
 
 ### Related:

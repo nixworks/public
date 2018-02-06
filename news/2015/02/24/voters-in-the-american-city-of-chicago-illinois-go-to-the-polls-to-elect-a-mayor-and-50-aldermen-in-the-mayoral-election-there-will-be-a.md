@@ -17,7 +17,7 @@ Chicago voters on Tuesday will decide whether Mayor Rahm Emanuel collects a majo
 
 ### Changes:
 
-1. [Chicago aldermanic elections, 2015: Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia. ](/news/2015/02/24/chicago-aldermanic-elections-2015-voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-t.md) _2017-08-27 03:42:00 (First version)_
+1. [Chicago aldermanic elections, 2015: Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia. ](/news/2015/02/24/chicago-aldermanic-elections-2015-voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia. ](/news/2015/02/24/voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-the-mayoral-election-there-will-be-a.md) _(Current version)_
 
 ### Related:

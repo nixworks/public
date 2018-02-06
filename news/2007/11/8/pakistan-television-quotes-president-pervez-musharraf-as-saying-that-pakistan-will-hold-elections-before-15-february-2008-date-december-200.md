@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/8/pakistan-television-quotes-president-pervez-mush
 
 ### Changes:
 
-1. [ Pakistan Television quotes President Pervez Musharraf as saying that Pakistan will hold elections before 15 February 2008.{{Fact|date=December 2007}} ](/news/2007/11/8/pakistan-television-quotes-president-pervez-musharraf-as-saying-that-pakistan-will-hold-elections-before-15-february-2008-fact-date-decem.md) _2017-05-01 03:22:12 (First version)_
+1. [ Pakistan Television quotes President Pervez Musharraf as saying that Pakistan will hold elections before 15 February 2008.{{Fact|date=December 2007}} ](/news/2007/11/8/pakistan-television-quotes-president-pervez-musharraf-as-saying-that-pakistan-will-hold-elections-before-15-february-2008-fact-date-decem.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pakistan Television quotes President Pervez Musharraf as saying that Pakistan will hold elections before 15 February 2008.date=December 2007 ](/news/2007/11/8/pakistan-television-quotes-president-pervez-musharraf-as-saying-that-pakistan-will-hold-elections-before-15-february-2008-date-december-200.md) _(Current version)_
 
 ### Related:

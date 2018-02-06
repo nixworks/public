@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/13/shenzhou-6-could-be-brought-back-one-day-earlie
 
 ### Changes:
 
-1. [ ''Shenzhou 6'' could be brought back one day earlier than planned due to weather conditions at the landing area and the physical condition of the astronauts. The People's Republic of China's second human spaceflight was originally planned for the mission to last five days. ](/news/2005/10/13/shenzhou-6-could-be-brought-back-one-day-earlier-than-planned-due-to-weather-conditions-at-the-landing-area-and-the-physical-condition.md) _2017-08-25 03:16:56 (First version)_
+1. [ ''Shenzhou 6'' could be brought back one day earlier than planned due to weather conditions at the landing area and the physical condition of the astronauts. The People's Republic of China's second human spaceflight was originally planned for the mission to last five days. ](/news/2005/10/13/shenzhou-6-could-be-brought-back-one-day-earlier-than-planned-due-to-weather-conditions-at-the-landing-area-and-the-physical-condition.md) _2018-02-06 13:49:16 (First version)_
 1. [ "Shenzhou 6" could be brought back one day earlier than planned due to weather conditions at the landing area and the physical condition of the astronauts. The People's Republic of China's second human spaceflight was originally planned for the mission to last five days. ](/news/2005/10/13/shenzhou-6-could-be-brought-back-one-day-earlier-than-planned-due-to-weather-conditions-at-the-landing-area-and-the-physical-condition-of.md) _(Current version)_
 
 ### Related:

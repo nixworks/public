@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/08/30/philippines-president-rodrigo-duterte-says-he-w
 
 ### Changes:
 
-1. [''Philippines v. China''Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-v-china-pphilippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-b.md) _2017-08-25 03:46:21 (First version)_
-2. ["Philippines v. China": Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-v-china-philippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-bu.md) _2017-08-27 03:46:44 (Update)_
+1. [''Philippines v. China''Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-v-china-pphilippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-b.md) _2018-02-06 13:49:29 (First version)_
+2. ["Philippines v. China": Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-v-china-philippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-bu.md) _2018-02-06 13:49:29 (Update)_
 2. [Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-but-he-might-do-so-in-the.md) _(Current version)_
 
 ### Related:

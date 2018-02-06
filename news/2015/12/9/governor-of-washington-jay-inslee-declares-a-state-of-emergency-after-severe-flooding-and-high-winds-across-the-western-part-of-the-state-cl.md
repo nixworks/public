@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-sta
 
 ### Changes:
 
-1. [Floods in the United States: 2001-present: Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/floods-in-the-united-states-2001-present-governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high.md) _2017-08-27 03:44:17 (First version)_
+1. [Floods in the United States: 2001-present: Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/floods-in-the-united-states-2001-present-governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high.md) _2018-02-06 13:49:28 (First version)_
 1. [Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high-winds-across-the-western-part-of-the-state-cl.md) _(Current version)_
 
 ### Related:

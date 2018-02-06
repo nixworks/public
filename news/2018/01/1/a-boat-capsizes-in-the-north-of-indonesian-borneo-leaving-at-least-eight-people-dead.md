@@ -16,8 +16,8 @@ Several others are missing after the vessel, whose passengers included children,
 
 ### Changes:
 
-1. [A boat capsizes in the north of Indonesian Borneo, with at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-with-at-least-8-people-dead.md) _2018-01-01 20:30:05 (First version)_
-2. [A boat capsizes in the north of Indonesian Borneo, leaving at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-leaving-at-least-8-people-dead.md) _2018-01-01 21:30:05 (Update)_
+1. [A boat capsizes in the north of Indonesian Borneo, with at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-with-at-least-8-people-dead.md) _2018-02-06 13:49:31 (First version)_
+2. [A boat capsizes in the north of Indonesian Borneo, leaving at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-leaving-at-least-8-people-dead.md) _2018-02-06 13:49:31 (Update)_
 2. [A boat capsizes in the north of Indonesian Borneo, leaving at least eight people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-leaving-at-least-eight-people-dead.md) _(Current version)_
 
 ### Related:

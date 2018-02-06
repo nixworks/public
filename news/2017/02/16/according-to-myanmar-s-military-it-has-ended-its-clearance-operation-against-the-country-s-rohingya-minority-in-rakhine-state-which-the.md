@@ -16,7 +16,7 @@ Army completes ‘clearance operation’ which UN says has caused 69,000 people 
 
 ### Changes:
 
-1. [2016-17 Rohingya persecution in Myanmar: According to Myanmar's military, it has ended its "clearance operation" against the country's Rohingya minority in Rakhine State, which the United Nations says may amount to ethnic cleansing and crimes against humanity. ](/news/2017/02/16/2016-17-rohingya-persecution-in-myanmar-according-to-myanmar-s-military-it-has-ended-its-clearance-operation-against-the-country-s-roh.md) _2017-08-27 03:47:50 (First version)_
+1. [2016-17 Rohingya persecution in Myanmar: According to Myanmar's military, it has ended its "clearance operation" against the country's Rohingya minority in Rakhine State, which the United Nations says may amount to ethnic cleansing and crimes against humanity. ](/news/2017/02/16/2016-17-rohingya-persecution-in-myanmar-according-to-myanmar-s-military-it-has-ended-its-clearance-operation-against-the-country-s-roh.md) _2018-02-06 13:49:30 (First version)_
 1. [According to Myanmar's military, it has ended its "clearance operation" against the country's Rohingya minority in Rakhine State, which the United Nations says may amount to ethnic cleansing and crimes against humanity. ](/news/2017/02/16/according-to-myanmar-s-military-it-has-ended-its-clearance-operation-against-the-country-s-rohingya-minority-in-rakhine-state-which-the.md) _(Current version)_
 
 ### Related:

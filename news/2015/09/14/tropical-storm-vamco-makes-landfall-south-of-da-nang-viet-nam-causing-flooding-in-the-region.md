@@ -16,7 +16,7 @@ Tropical Rainstorm Vamco will bring flooding rainfall to portions of Indochina t
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Tropical Storm Vamco makes landfall south of Da Nang, Viet Nam, causing flooding in the region. ](/news/2015/09/14/2015-pacific-typhoon-season-tropical-storm-vamco-makes-landfall-south-of-da-nang-viet-nam-causing-flooding-in-the-region.md) _2017-08-27 03:43:03 (First version)_
+1. [2015 Pacific typhoon season: Tropical Storm Vamco makes landfall south of Da Nang, Viet Nam, causing flooding in the region. ](/news/2015/09/14/2015-pacific-typhoon-season-tropical-storm-vamco-makes-landfall-south-of-da-nang-viet-nam-causing-flooding-in-the-region.md) _2018-02-06 13:49:27 (First version)_
 1. [Tropical Storm Vamco makes landfall south of Da Nang, Viet Nam, causing flooding in the region. ](/news/2015/09/14/tropical-storm-vamco-makes-landfall-south-of-da-nang-viet-nam-causing-flooding-in-the-region.md) _(Current version)_
 
 ### Related:

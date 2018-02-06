@@ -30,8 +30,8 @@ The Russian Prime Minister Vladimir Putin has said he suspects unnamed persons i
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: Russia's PM Vladimir Putin accuses unnamed individuals in the U.S. of orchestrating Georgia's military actions preceding the conflict with Russia. ](/news/2008/08/28/2008-south-ossetia-war-p-russia-s-pm-vladimir-putin-accuses-unnamed-individuals-in-the-u-s-of-orchestrating-georgia-s-military-actions-pre.md) _2017-08-25 03:22:47 (First version)_
-2. [ 2008 South Ossetia war:: Russia's PM Vladimir Putin accuses unnamed individuals in the U.S. of orchestrating Georgia's military actions preceding the conflict with Russia. ](/news/2008/08/28/2008-south-ossetia-war-russia-s-pm-vladimir-putin-accuses-unnamed-individuals-in-the-u-s-of-orchestrating-georgia-s-military-actions-pre.md) _2017-08-27 03:22:40 (Update)_
+1. [ 2008 South Ossetia war:: Russia's PM Vladimir Putin accuses unnamed individuals in the U.S. of orchestrating Georgia's military actions preceding the conflict with Russia. ](/news/2008/08/28/2008-south-ossetia-war-russia-s-pm-vladimir-putin-accuses-unnamed-individuals-in-the-u-s-of-orchestrating-georgia-s-military-actions-pre.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war: Russia's PM Vladimir Putin accuses unnamed individuals in the U.S. of orchestrating Georgia's military actions preceding the conflict with Russia. ](/news/2008/08/28/2008-south-ossetia-war-p-russia-s-pm-vladimir-putin-accuses-unnamed-individuals-in-the-u-s-of-orchestrating-georgia-s-military-actions-pre.md) _2018-02-06 13:49:18 (Update)_
 2. [ Russia's PM Vladimir Putin accuses unnamed individuals in the U.S. of orchestrating Georgia's military actions preceding the conflict with Russia. ](/news/2008/08/28/russia-s-pm-vladimir-putin-accuses-unnamed-individuals-in-the-u-s-of-orchestrating-georgia-s-military-actions-preceding-the-conflict-with.md) _(Current version)_
 
 ### Related:

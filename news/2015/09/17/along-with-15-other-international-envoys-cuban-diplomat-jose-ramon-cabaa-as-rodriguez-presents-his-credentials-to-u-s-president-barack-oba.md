@@ -17,7 +17,7 @@ Diplomat Jose Ramon Cabañas Rodriguez handed President Barack Obama his credent
 
 ### Changes:
 
-1. [Cuba-United States relations: Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/cuba-united-states-relations-along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credenti.md) _2017-08-27 03:43:04 (First version)_
+1. [Cuba-United States relations: Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/cuba-united-states-relations-along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credenti.md) _2018-02-06 13:49:27 (First version)_
 1. [Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.md) _(Current version)_
 
 ### Related:

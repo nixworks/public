@@ -16,7 +16,7 @@ A Russian fighter jet flew dangerously close to a U.S. RC-135 reconnaissance air
 
 ### Changes:
 
-1. [Russia-United States relations: Cold War II: A United States Air Force Boeing RC-135 reconnaissance aircraft was intercepted and threatened by a Russian Sukhoi Su-27 fighter jet in international airspace over the Baltic Sea on Thursday (April 14), according to the United States European Command (EUCOM). ](/news/2016/04/16/russia-united-states-relations-cold-war-ii-a-united-states-air-force-boeing-rc-135-reconnaissance-aircraft-was-intercepted-and-threatene.md) _2017-08-27 03:45:39 (First version)_
+1. [Russia-United States relations: Cold War II: A United States Air Force Boeing RC-135 reconnaissance aircraft was intercepted and threatened by a Russian Sukhoi Su-27 fighter jet in international airspace over the Baltic Sea on Thursday (April 14), according to the United States European Command (EUCOM). ](/news/2016/04/16/russia-united-states-relations-cold-war-ii-a-united-states-air-force-boeing-rc-135-reconnaissance-aircraft-was-intercepted-and-threatene.md) _2018-02-06 13:49:28 (First version)_
 1. [A United States Air Force Boeing RC-135 reconnaissance aircraft was intercepted and threatened by a Russian Sukhoi Su-27 fighter jet in international airspace over the Baltic Sea on Thursday (April 14), according to the United States European Command (EUCOM). ](/news/2016/04/16/a-united-states-air-force-boeing-rc-135-reconnaissance-aircraft-was-intercepted-and-threatened-by-a-russian-sukhoi-su-27-fighter-jet-in-inte.md) _(Current version)_
 
 ### Related:

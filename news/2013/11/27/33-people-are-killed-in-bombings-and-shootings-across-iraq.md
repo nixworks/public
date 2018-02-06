@@ -16,8 +16,8 @@ A series of shootings and bombings have left at least 33 people dead across Iraq
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/iraqi-insurgency-post-u-s-withdrawal-p33-people-are-killed-in-bombings-and-shootings-across-iraq.md) _2017-08-25 03:39:35 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/iraqi-insurgency-post-u-s-withdrawal-33-people-are-killed-in-bombings-and-shootings-across-iraq.md) _2017-08-27 03:39:53 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/iraqi-insurgency-post-u-s-withdrawal-p33-people-are-killed-in-bombings-and-shootings-across-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/iraqi-insurgency-post-u-s-withdrawal-33-people-are-killed-in-bombings-and-shootings-across-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/33-people-are-killed-in-bombings-and-shootings-across-iraq.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ Dozens of people are killed in a government air strike on a bakery in central Sy
 
 ##### Somalia
 ### [Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md)
-_Context: Somali pirates, Somalia, Puntland_
+_Context: Somalia, Somali pirates, Puntland_
 
 ##### Mali
 ### [Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-in-the-historic-city-of-timbuk.md)
@@ -37,7 +37,7 @@ _Context: train, snow, avalanche, Swiss Alps_
 
 ##### fire
 ### [At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. ](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-sweeps-through-a-market-and-money-exchange-in-kabul-afghanistan.md)
-_Context: Kabul, Afghanistan, money exchange, market, fire_
+_Context: Kabul, fire, Afghanistan, market, money exchange_
 
 ##### South Korea
 ### [The South Korean defence ministry says the launch of a satellite into space by North Korea was a disguised test of a 10,000 km range missile. ](/news/2012/12/23/the-south-korean-defence-ministry-says-the-launch-of-a-satellite-into-space-by-north-korea-was-a-disguised-test-of-a-10-000-km-range-missile.md)

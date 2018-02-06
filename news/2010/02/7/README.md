@@ -9,7 +9,7 @@ An oil crunch more serious than the financial crisis threatens to strike Britain
 
 ##### New Orleans Saints
 ### [New Orleans Saints beat the Indianapolis Colts 31-17 to win Super Bowl XLIV. ](/news/2010/02/7/new-orleans-saints-beat-the-indianapolis-colts-31-17-to-win-super-bowl-xliv.md)
-_Context: New Orleans Saints, Indianapolis Colts, Super Bowl XLIV_
+_Context: New Orleans Saints, Super Bowl XLIV, Indianapolis Colts_
 
 ##### Laura Chinchilla
 ### [Laura Chinchilla is elected President of Costa Rica, the first woman to take the office, following the 2010 general election. ](/news/2010/02/7/laura-chinchilla-is-elected-president-of-costa-rica-the-first-woman-to-take-the-office-following-the-2010-general-election.md)
@@ -21,7 +21,7 @@ _Context: President of Argentina, carotid artery, Nstor Kirchner, Argentina_
 
 ##### Nigeria
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
-_Context: Nigeria, Governor of Anambra state, Peter Obi_
+_Context: Governor of Anambra state, Nigeria, Peter Obi_
 
 ##### Middletown, Connecticut
 ### [The Kleen Energy Systems plant in Middletown, Connecticut, explodes, killing at least five people and injuring at least 14 others. ](/news/2010/02/7/the-kleen-energy-systems-plant-in-middletown-connecticut-explodes-killing-at-least-five-people-and-injuring-at-least-14-others.md)
@@ -45,15 +45,15 @@ Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne M
 
 ##### Huang Yizhong
 ### [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md)
-_Context: Jiangmen, pornography, Guangdong, Huang Yizhong_
+_Context: pornography, Guangdong, Huang Yizhong, Jiangmen_
 
-##### British
+##### United Kingdom
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)
 Britain is to tighten the rules on immigrants entering Britain on a student visa, the government said Sunday in a clampdown on a system which some security experts say has been exploited by Islamist militants.
 
 ##### Iran
 ### [Iranian President Mahmoud Ahmadinejad orders his country's atomic agency to begin enriching uranium to a higher level. ](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.md)
-_Context: Mahmoud Ahmadinejad, Iran, uranium_
+_Context: uranium, Iran, Mahmoud Ahmadinejad_
 
 ##### Libya
 ### [Libya bans YouTube, independent news sites and opposition web sites in crackdown on controversial subjects, including human rights abuses by the Libyan government. ](/news/2010/02/7/libya-bans-youtube-independent-news-sites-and-opposition-web-sites-in-crackdown-on-controversial-subjects-including-human-rights-abuses-by.md)

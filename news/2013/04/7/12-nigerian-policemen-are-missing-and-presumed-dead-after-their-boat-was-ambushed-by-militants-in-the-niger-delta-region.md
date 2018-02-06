@@ -16,8 +16,8 @@ Nigerian militants claiming to be from a group that has been inactive since 2009
 
 ### Changes:
 
-1. [Conflict in the Niger Delta:12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-p12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-del.md) _2017-08-25 03:38:13 (First version)_
-2. [Conflict in the Niger Delta:: 12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-de.md) _2017-08-27 03:38:24 (Update)_
+1. [Conflict in the Niger Delta:12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-p12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-del.md) _2018-02-06 13:49:24 (First version)_
+2. [Conflict in the Niger Delta:: 12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-de.md) _2018-02-06 13:49:24 (Update)_
 2. [12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-delta-region.md) _(Current version)_
 
 ### Related:

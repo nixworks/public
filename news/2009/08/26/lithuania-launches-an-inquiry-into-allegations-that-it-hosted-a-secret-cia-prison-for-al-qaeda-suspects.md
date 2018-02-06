@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-
 
 ### Changes:
 
-1. [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. [http:--news.bbc.co.uk-2-hi-europe-8221469.stm (BBC)].](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects-http-news-bbc-co-uk-2-hi-europe.md) _2017-06-18 03:26:12 (First version)_
+1. [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. [http:--news.bbc.co.uk-2-hi-europe-8221469.stm (BBC)].](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects-http-news-bbc-co-uk-2-hi-europe.md) _2018-02-06 13:49:19 (First version)_
 1. [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. ](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects.md) _(Current version)_
 
 ### Related:

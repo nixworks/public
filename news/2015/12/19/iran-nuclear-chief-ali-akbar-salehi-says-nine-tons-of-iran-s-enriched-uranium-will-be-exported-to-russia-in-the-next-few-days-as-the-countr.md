@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/19/iran-nuclear-chief-ali-akbar-salehi-says-nine-t
 
 ### Changes:
 
-1. [Joint Comprehensive Plan of Action: Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/joint-comprehensive-plan-of-action-iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia.md) _2017-08-27 03:44:26 (First version)_
+1. [Joint Comprehensive Plan of Action: Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/joint-comprehensive-plan-of-action-iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia-in-the-next-few-days-as-the-countr.md) _(Current version)_
 
 ### Related:

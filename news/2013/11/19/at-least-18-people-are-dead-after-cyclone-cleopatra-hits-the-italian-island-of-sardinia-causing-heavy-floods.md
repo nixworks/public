@@ -17,8 +17,8 @@ At least 18 people are killed in flooding after a cyclone lashes the island of S
 
 ### Changes:
 
-1. [Cyclone Cleopatra:At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/cyclone-cleopatra-pat-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md) _2017-08-25 03:39:33 (First version)_
-2. [Cyclone Cleopatra:: At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/cyclone-cleopatra-at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md) _2017-08-27 03:39:51 (Update)_
+1. [Cyclone Cleopatra:At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/cyclone-cleopatra-pat-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md) _2018-02-06 13:49:25 (First version)_
+2. [Cyclone Cleopatra:: At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/cyclone-cleopatra-at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md) _(Current version)_
 
 ### Related:

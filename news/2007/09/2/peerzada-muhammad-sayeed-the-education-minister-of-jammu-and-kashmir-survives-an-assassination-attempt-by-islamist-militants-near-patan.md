@@ -15,8 +15,8 @@ Formats: [HTML](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-
 
 ### Changes:
 
-1. [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patan{{dn|date=April 2012}}. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patan-d.md) _2017-05-01 03:21:39 (First version)_
-2. [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patandate=April 2012. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patandat.md) _2017-10-17 03:24:11 (Update)_
+1. [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patandate=April 2012. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patandat.md) _2018-02-06 13:49:18 (First version)_
+2. [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patan{{dn|date=April 2012}}. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patan-d.md) _2018-02-06 13:49:18 (Update)_
 2. [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patan. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patan.md) _(Current version)_
 
 ### Related:

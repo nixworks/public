@@ -16,7 +16,7 @@ A Native American leader asked thousands of protesters to return home after the 
 
 ### Changes:
 
-1. [Dakota Access Pipeline protests: The United States Army Corps of Engineers denies a permit for Energy Transfer Partners planned Dakota Access Pipeline running through North Dakota and will begin exploring alternative routes for the pipeline following weeks of protests. ](/news/2016/12/4/dakota-access-pipeline-protests-the-united-states-army-corps-of-engineers-denies-a-permit-for-energy-transfer-partners-planned-dakota-acces.md) _2017-08-27 03:47:23 (First version)_
+1. [Dakota Access Pipeline protests: The United States Army Corps of Engineers denies a permit for Energy Transfer Partners planned Dakota Access Pipeline running through North Dakota and will begin exploring alternative routes for the pipeline following weeks of protests. ](/news/2016/12/4/dakota-access-pipeline-protests-the-united-states-army-corps-of-engineers-denies-a-permit-for-energy-transfer-partners-planned-dakota-acces.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Army Corps of Engineers denies a permit for Energy Transfer Partners planned Dakota Access Pipeline running through North Dakota and will begin exploring alternative routes for the pipeline following weeks of protests. ](/news/2016/12/4/the-united-states-army-corps-of-engineers-denies-a-permit-for-energy-transfer-partners-planned-dakota-access-pipeline-running-through-north.md) _(Current version)_
 
 ### Related:

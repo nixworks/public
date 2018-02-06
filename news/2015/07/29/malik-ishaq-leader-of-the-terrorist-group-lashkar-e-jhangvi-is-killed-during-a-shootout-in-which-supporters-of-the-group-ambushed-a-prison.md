@@ -16,7 +16,7 @@ The leader of Lashkar-e-Jhangvi, a banned extremist group, died in a shootout af
 
 ### Changes:
 
-1. [War in North-West Pakistan: Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/war-in-north-west-pakistan-malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of.md) _2017-08-27 03:42:45 (First version)_
+1. [War in North-West Pakistan: Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/war-in-north-west-pakistan-malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of.md) _2018-02-06 13:49:27 (First version)_
 1. [Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of-the-group-ambushed-a-prison.md) _(Current version)_
 
 ### Related:

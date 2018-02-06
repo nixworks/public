@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/29/voters-in-burundi-go-to-the-polls-for-a-legisla
 
 ### Changes:
 
-1. [Burundian legislative election, 2015: Voters in Burundi go to the polls for a legislative election with several polling places attacked overnight. ](/news/2015/06/29/burundian-legislative-election-2015-voters-in-burundi-go-to-the-polls-for-a-legislative-election-with-several-polling-places-attacked-over.md) _2017-08-27 03:42:36 (First version)_
+1. [Burundian legislative election, 2015: Voters in Burundi go to the polls for a legislative election with several polling places attacked overnight. ](/news/2015/06/29/burundian-legislative-election-2015-voters-in-burundi-go-to-the-polls-for-a-legislative-election-with-several-polling-places-attacked-over.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Burundi go to the polls for a legislative election with several polling places attacked overnight. ](/news/2015/06/29/voters-in-burundi-go-to-the-polls-for-a-legislative-election-with-several-polling-places-attacked-overnight.md) _(Current version)_
 
 ### Related:

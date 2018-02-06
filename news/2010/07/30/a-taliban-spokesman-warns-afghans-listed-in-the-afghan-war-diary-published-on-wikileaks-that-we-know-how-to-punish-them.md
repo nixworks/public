@@ -19,8 +19,8 @@ The Taliban has issued a warning to Afghans whose names might appear on the leak
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A Taliban spokesman warns Afghans listed in the Afghan War Diary published on Wikileaks that "we know how to punish them". ](/news/2010/07/30/war-in-afghanistan-2001apresent-pa-taliban-spokesman-warns-afghans-listed-in-the-afghan-war-diary-published-on-wikileaks-that-we-know-h.md) _2017-08-25 03:29:06 (First version)_
-2. [War in Afghanistan (2001-present):: A Taliban spokesman warns Afghans listed in the Afghan War Diary published on Wikileaks that "we know how to punish them". ](/news/2010/07/30/war-in-afghanistan-2001-present-a-taliban-spokesman-warns-afghans-listed-in-the-afghan-war-diary-published-on-wikileaks-that-we-know.md) _2017-08-27 03:29:07 (Update)_
+1. [War in Afghanistan (2001-present):A Taliban spokesman warns Afghans listed in the Afghan War Diary published on Wikileaks that "we know how to punish them". ](/news/2010/07/30/war-in-afghanistan-2001apresent-pa-taliban-spokesman-warns-afghans-listed-in-the-afghan-war-diary-published-on-wikileaks-that-we-know-h.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Afghanistan (2001-present):: A Taliban spokesman warns Afghans listed in the Afghan War Diary published on Wikileaks that "we know how to punish them". ](/news/2010/07/30/war-in-afghanistan-2001-present-a-taliban-spokesman-warns-afghans-listed-in-the-afghan-war-diary-published-on-wikileaks-that-we-know.md) _2018-02-06 13:49:20 (Update)_
 2. [A Taliban spokesman warns Afghans listed in the Afghan War Diary published on Wikileaks that "we know how to punish them". ](/news/2010/07/30/a-taliban-spokesman-warns-afghans-listed-in-the-afghan-war-diary-published-on-wikileaks-that-we-know-how-to-punish-them.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/2/thousands-of-anti-government-protesters-demonstr
 
 ### Changes:
 
-1. [2011 Yemeni protests: Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/2011-yemeni-protests-thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-sa.md) _2017-08-27 03:32:31 (First version)_
+1. [2011 Yemeni protests: Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/2011-yemeni-protests-thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-sa.md) _2018-02-06 13:49:22 (First version)_
 1. [Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-saleh-to-step-down.md) _(Current version)_
 
 ### Related:

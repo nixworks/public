@@ -17,7 +17,7 @@ Saudi Arabia, the world’s largest oil exporter, arrested a Shiite human rights
 
 ### Changes:
 
-1. [Saudi Arabian protests: Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/saudi-arabian-protests-human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-partic.md) _2017-08-27 03:33:07 (First version)_
+1. [Saudi Arabian protests: Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/saudi-arabian-protests-human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-partic.md) _2018-02-06 13:49:22 (First version)_
 1. [Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-participating-in-peaceful-demo.md) _(Current version)_
 
 ### Related:

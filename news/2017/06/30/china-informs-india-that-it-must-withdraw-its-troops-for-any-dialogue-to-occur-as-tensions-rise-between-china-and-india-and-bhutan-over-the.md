@@ -16,7 +16,7 @@ In the midst of face off between India and Chinese troops over road construction
 
 ### Changes:
 
-1. [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan and China over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-and-china.md) _2017-06-30 08:30:06 (First version)_
+1. [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan and China over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-and-china.md) _2018-02-06 13:49:30 (First version)_
 1. [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-over-the.md) _(Current version)_
 
 ### Related:

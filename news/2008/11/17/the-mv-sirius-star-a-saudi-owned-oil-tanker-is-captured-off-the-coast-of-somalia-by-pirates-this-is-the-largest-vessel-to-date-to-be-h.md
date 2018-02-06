@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/11/17/the-mv-sirius-star-a-saudi-owned-oil-tanker-is-
 
 ### Changes:
 
-1. [ The MV ''Sirius Star'', a Saudi-owned oil tanker, is captured off the coast of Somalia by pirates. This is the largest vessel to date to be hijacked by Somali pirates. ](/news/2008/11/17/the-mv-sirius-star-a-saudi-owned-oil-tanker-is-captured-off-the-coast-of-somalia-by-pirates-this-is-the-largest-vessel-to-date-to-be.md) _2017-08-25 03:23:11 (First version)_
+1. [ The MV ''Sirius Star'', a Saudi-owned oil tanker, is captured off the coast of Somalia by pirates. This is the largest vessel to date to be hijacked by Somali pirates. ](/news/2008/11/17/the-mv-sirius-star-a-saudi-owned-oil-tanker-is-captured-off-the-coast-of-somalia-by-pirates-this-is-the-largest-vessel-to-date-to-be.md) _2018-02-06 13:49:18 (First version)_
 1. [ The MV "Sirius Star", a Saudi-owned oil tanker, is captured off the coast of Somalia by pirates. This is the largest vessel to date to be hijacked by Somali pirates. ](/news/2008/11/17/the-mv-sirius-star-a-saudi-owned-oil-tanker-is-captured-off-the-coast-of-somalia-by-pirates-this-is-the-largest-vessel-to-date-to-be-h.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestin
 
 ### Changes:
 
-1. [A 16-year-old Israeli boy injured by a Palestinian missile attack on his school bus on April 7 dies. ](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestinian-missile-attack-on-his-school-bus-on-april-7-dies.md) _2017-08-25 03:32:51 (First version)_
+1. [A 16-year-old Israeli boy injured by a Palestinian missile attack on his school bus on April 7 dies. ](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestinian-missile-attack-on-his-school-bus-on-april-7-dies.md) _2018-02-06 13:49:22 (First version)_
 1. [A 16-year-old Israeli boy injured by a Palestinian missile attack on his school bus on April 7 dies. [http:--www.bbc.co.uk-news-world-middle-east-13115127 ("BBC")] ("Wikinews")](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestinian-missile-attack-on-his-school-bus-on-april-7-dies-http-www-bbc-co-uk-news-world-middle.md) _(Current version)_
 
 ### Related:

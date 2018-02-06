@@ -17,8 +17,8 @@ The Civil Rights Congress of Nigeria, a Nigerian human rights group, has announc
 
 ### Changes:
 
-1. [Violence in Nigeria:A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-pa-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-preside.md) _2017-08-25 03:32:53 (First version)_
-2. [Violence in Nigeria:: A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presid.md) _2017-08-27 03:33:01 (Update)_
+1. [Violence in Nigeria:A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-pa-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-preside.md) _2018-02-06 13:49:22 (First version)_
+2. [Violence in Nigeria:: A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presid.md) _2018-02-06 13:49:22 (Update)_
 2. [A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presidential-election.md) _(Current version)_
 
 ### Related:

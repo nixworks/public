@@ -16,7 +16,7 @@ Dozens of professional Russian soldiers are facing trial after abandoning a trai
 
 ### Changes:
 
-1. [Russian military intervention in Ukraine: Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/russian-military-intervention-in-ukraine-dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment.md) _2017-08-27 03:42:41 (First version)_
+1. [Russian military intervention in Ukraine: Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/russian-military-intervention-in-ukraine-dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment.md) _2018-02-06 13:49:27 (First version)_
 1. [Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment-to-ukraine.md) _(Current version)_
 
 ### Related:

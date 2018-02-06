@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-
 
 ### Changes:
 
-1. [Reform of the banking system was one of the key themes at this year-s World Economic Forum in Davos. European Parliament Vice-President Silvana Koch-Mehrin said "There was general disapproval of the disproportionate self-rewarding in the banking sector". ](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-themes-at-this-year-s-world-economic-forum-in-davos-european-parliament-vice-president-si.md) _2017-08-27 03:27:00 (First version)_
+1. [Reform of the banking system was one of the key themes at this year-s World Economic Forum in Davos. European Parliament Vice-President Silvana Koch-Mehrin said "There was general disapproval of the disproportionate self-rewarding in the banking sector". ](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-themes-at-this-year-s-world-economic-forum-in-davos-european-parliament-vice-president-si.md) _2018-02-06 13:49:19 (First version)_
 1. [Reform of the banking system was one of the key themes at this year's World Economic Forum in Davos. European Parliament Vice-President Silvana Koch-Mehrin said "There was general disapproval of the disproportionate self-rewarding in the banking sector". ](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-themes-at-this-yearas-world-economic-forum-in-davos-european-parliament-vice-president-si.md) _(Current version)_
 
 ### Related:

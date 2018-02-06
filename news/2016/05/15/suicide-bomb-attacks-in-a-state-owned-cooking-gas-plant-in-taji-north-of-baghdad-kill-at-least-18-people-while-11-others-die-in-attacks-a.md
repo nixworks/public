@@ -16,7 +16,7 @@ ISIL attacks on a natural gas plant and other targets in or close to Baghdad kil
 
 ### Changes:
 
-1. [Iraqi civil war (2014-present): Suicide bomb attacks in a state owned cooking gas plant in Taji, north of Baghdad, kill at least 18 people, while 11 others die in attacks across the country. ](/news/2016/05/15/iraqi-civil-war-2014-present-suicide-bomb-attacks-in-a-state-owned-cooking-gas-plant-in-taji-north-of-baghdad-kill-at-least-18-people.md) _2017-08-27 03:46:02 (First version)_
+1. [Iraqi civil war (2014-present): Suicide bomb attacks in a state owned cooking gas plant in Taji, north of Baghdad, kill at least 18 people, while 11 others die in attacks across the country. ](/news/2016/05/15/iraqi-civil-war-2014-present-suicide-bomb-attacks-in-a-state-owned-cooking-gas-plant-in-taji-north-of-baghdad-kill-at-least-18-people.md) _2018-02-06 13:49:29 (First version)_
 1. [Suicide bomb attacks in a state owned cooking gas plant in Taji, north of Baghdad, kill at least 18 people, while 11 others die in attacks across the country. ](/news/2016/05/15/suicide-bomb-attacks-in-a-state-owned-cooking-gas-plant-in-taji-north-of-baghdad-kill-at-least-18-people-while-11-others-die-in-attacks-a.md) _(Current version)_
 
 ### Related:

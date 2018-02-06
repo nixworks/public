@@ -11,8 +11,8 @@ Formats: [HTML](/news/2013/07/6/paulo-portas-becomes-deputy-prime-minister-the-f
 
 ### Changes:
 
-1. [Portuguese political crisis, 2013:Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-ppaulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md) _2017-08-25 03:38:57 (First version)_
-2. [Portuguese political crisis, 2013:: Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-paulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md) _2017-08-27 03:39:12 (Update)_
+1. [Portuguese political crisis, 2013:Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-ppaulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md) _2018-02-06 13:49:25 (First version)_
+2. [Portuguese political crisis, 2013:: Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-paulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md) _2018-02-06 13:49:25 (Update)_
 2. [Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/paulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make-additional-reshuffles-to-his-cabine.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ SINGAPORE - June 8 has been declared a Day of National Remembrance for the victi
 
 ### Changes:
 
-1. [2015 Sabah earthquake: The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/2015-sabah-earthquake-the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _2017-08-27 03:42:30 (First version)_
+1. [2015 Sabah earthquake: The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/2015-sabah-earthquake-the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _2018-02-06 13:49:27 (First version)_
 1. [The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _(Current version)_
 
 ### Related:

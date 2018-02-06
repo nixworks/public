@@ -16,8 +16,8 @@ An attack hits a mosque in an area of the Afghan capital Kabul dominated by mino
 
 ### Changes:
 
-1. [A terrorist attack, involving a blast and gunfire, occurred at Shia mosque in Kabul, Afghanistan, on a crowded mosque killed several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurred-at-shia-mosque-in-kabul-afghanistan-on-a-crowded-mosque-killed-several-people.md) _2017-06-15 22:30:07 (First version)_
-2. [War in Afghanistan: June 2017 Kabul mosque attack: A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/war-in-afghanistan-june-2017-kabul-mosque-attack-a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afgh.md) _2017-08-27 03:48:29 (Update)_
+1. [War in Afghanistan: June 2017 Kabul mosque attack: A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/war-in-afghanistan-june-2017-kabul-mosque-attack-a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afgh.md) _2018-02-06 13:49:30 (First version)_
+2. [A terrorist attack, involving a blast and gunfire, occurred at Shia mosque in Kabul, Afghanistan, on a crowded mosque killed several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurred-at-shia-mosque-in-kabul-afghanistan-on-a-crowded-mosque-killed-several-people.md) _2018-02-06 13:49:30 (Update)_
 2. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _(Current version)_
 
 ### Related:

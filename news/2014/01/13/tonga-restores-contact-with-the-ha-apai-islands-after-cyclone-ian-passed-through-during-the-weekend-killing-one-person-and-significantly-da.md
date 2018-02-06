@@ -16,8 +16,8 @@ Contact has been made with Tonga&#039;s isolated islands as relief efforts get u
 
 ### Changes:
 
-1. [2013-14 South Pacific cyclone season:Tonga restores contact with the Ha'apai islands after Cyclone Ian passed through during the weekend, killing one person and significantly damaging structures. ](/news/2014/01/13/2013a14-south-pacific-cyclone-season-ptonga-restores-contact-with-the-ha-apai-islands-after-cyclone-ian-passed-through-during-the-weekend.md) _2017-08-25 03:39:51 (First version)_
-2. [2013-14 South Pacific cyclone season:: Tonga restores contact with the Ha'apai islands after Cyclone Ian passed through during the weekend, killing one person and significantly damaging structures. ](/news/2014/01/13/2013-14-south-pacific-cyclone-season-tonga-restores-contact-with-the-ha-apai-islands-after-cyclone-ian-passed-through-during-the-weekend.md) _2017-08-27 03:40:10 (Update)_
+1. [2013-14 South Pacific cyclone season:Tonga restores contact with the Ha'apai islands after Cyclone Ian passed through during the weekend, killing one person and significantly damaging structures. ](/news/2014/01/13/2013a14-south-pacific-cyclone-season-ptonga-restores-contact-with-the-ha-apai-islands-after-cyclone-ian-passed-through-during-the-weekend.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 South Pacific cyclone season:: Tonga restores contact with the Ha'apai islands after Cyclone Ian passed through during the weekend, killing one person and significantly damaging structures. ](/news/2014/01/13/2013-14-south-pacific-cyclone-season-tonga-restores-contact-with-the-ha-apai-islands-after-cyclone-ian-passed-through-during-the-weekend.md) _2018-02-06 13:49:25 (Update)_
 2. [Tonga restores contact with the Ha'apai islands after Cyclone Ian passed through during the weekend, killing one person and significantly damaging structures. ](/news/2014/01/13/tonga-restores-contact-with-the-ha-apai-islands-after-cyclone-ian-passed-through-during-the-weekend-killing-one-person-and-significantly-da.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A Navy F/A-18E pilot has been safely recovered after ejecting from his fighter j
 
 ### Changes:
 
-1. [A U.S. Navy F-A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS ''Carl Vinson''. The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-e.md) _2017-08-25 03:47:46 (First version)_
+1. [A U.S. Navy F-A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS ''Carl Vinson''. The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-e.md) _2018-02-06 13:49:30 (First version)_
 1. [A U.S. Navy F-A-18 Hornet crashes in the Celebes Sea off the Philippines during an attempted landing on the USS "Carl Vinson". The pilot ejected and was recovered safely. ](/news/2017/04/21/a-u-s-navy-f-a-18-hornet-crashes-in-the-celebes-sea-off-the-philippines-during-an-attempted-landing-on-the-uss-carl-vinson-the-pilot-eje.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Seoul (AFP) - North Korea fired short-range projectiles into the sea off its eas
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: South Korea claims that North Korea has launched several short range missiles into the Sea of Japan. ](/news/2016/03/3/north-korea-and-weapons-of-mass-destruction-south-korea-claims-that-north-korea-has-launched-several-short-range-missiles-into-the-sea-of-j.md) _2017-08-27 03:45:07 (First version)_
+1. [North Korea and weapons of mass destruction: South Korea claims that North Korea has launched several short range missiles into the Sea of Japan. ](/news/2016/03/3/north-korea-and-weapons-of-mass-destruction-south-korea-claims-that-north-korea-has-launched-several-short-range-missiles-into-the-sea-of-j.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea claims that North Korea has launched several short range missiles into the Sea of Japan. ](/news/2016/03/3/south-korea-claims-that-north-korea-has-launched-several-short-range-missiles-into-the-sea-of-japan.md) _(Current version)_
 
 ### Related:

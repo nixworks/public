@@ -17,7 +17,7 @@ Exclusive: Perfectly preserved HMS Terror vessel sank during disastrous expediti
 
 ##### Asia
 ### [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md)
-_Context: Asia, stock market, Dow Jones, Federal Reserve_
+_Context: stock market, Asia, Dow Jones, Federal Reserve_
 
 ##### University of California, San Francisco
 ### [A researcher from the University of California, San Francisco discovers that the sugar industry may have manipulated studies about heart diseases. ](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.md)
@@ -29,7 +29,7 @@ SEOUL (AFP) - The death toll from severe flooding in the north-east of North Kor
 
 ##### 2016 Gyeongju earthquake
 ### [A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing-nationwide-panic-it-is-th.md)
-_Context: 2016 Gyeongju earthquake, South Korea, Gyeongju, earthquake_
+_Context: South Korea, Gyeongju, earthquake, 2016 Gyeongju earthquake_
 
 ##### Piton de la Fournaise
 ### [The Piton de la Fournaise (Peak of the Furnace) shield volcano on France's Reunion island in the Indian Ocean erupts for the second time this year. It is one of the world's most active. ](/news/2016/09/12/the-piton-de-la-fournaise-peak-of-the-furnace-shield-volcano-on-france-s-ra-c-union-island-in-the-indian-ocean-erupts-for-the-second-time-th.md)
@@ -49,11 +49,11 @@ Social scientists who study extrajudicial killings say the real story is more co
 
 ##### Indonesia-Philippines relations
 ### [In last week's meeting between Indonesian president Joko Widodo and Philippine president Rodrigo Duterte, Widodo today says that Duterte allegedly said that he '(would) not interfere' in the execution of accused drug smuggler and Philippine national Mary Jane Veloso. However, today a "Manila Bulletin" article says that Manny Pinol, the Philippines Agriculture Secretary, states that Duterte actually asked for clemency for Veloso. ](/news/2016/09/12/in-last-week-s-meeting-between-indonesian-president-joko-widodo-and-philippine-president-rodrigo-duterte-widodo-today-says-that-duterte-all.md)
-_Context: Joko Widodo, Indonesia, Indonesia-Philippines relations, Manny Pinol, Manila Bulletin, Rodrigo Duterte, Mary Jane Veloso, Philippine_
+_Context: Manila Bulletin, Rodrigo Duterte, Mary Jane Veloso, Indonesia-Philippines relations, Joko Widodo, Manny Pinol, Indonesia, Philippine_
 
 ##### Catalan independence
 ### [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md)
-_Context: Barcelona, Catalan independence, Spain, Madrid_
+_Context: Catalan independence, Barcelona, Spain, Madrid_
 
 ##### Prime Minister
 ### [Former Prime Minister of the United Kingdom David Cameron resigns as MP for Witney, triggering a by-election. ](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.md)
@@ -65,7 +65,7 @@ Turkey appointed new administrators in two dozen Kurdish-run municipalities on S
 
 ##### Eduardo Cunha
 ### [Eduardo Cunha, former President of the Brazilian Chamber of Deputies loses his position as a Deputy following a vote of the Chamber as a result of a series of corruption scandals. ](/news/2016/09/12/eduardo-cunha-former-president-of-the-brazilian-chamber-of-deputies-loses-his-position-as-a-deputy-following-a-vote-of-the-chamber-as-a-res.md)
-_Context: President of the Brazilian Chamber of Deputies, Eduardo Cunha_
+_Context: Eduardo Cunha, President of the Brazilian Chamber of Deputies_
 
 ##### Baracktrema obamai
 ### ["Baracktrema obamai", a new species of parasite is named after Barack Obama. ](/news/2016/09/12/baracktrema-obamai-a-new-species-of-parasite-is-named-after-barack-obama.md)

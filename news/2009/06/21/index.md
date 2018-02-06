@@ -9,7 +9,7 @@ Corn was the royalty of Maya food crops, celebrated in religion and cosmology, b
 
 ##### Pakistan
 ### [ The Pakistan Cricket Team wins the 2009 ICC World Twenty20 world cup after a hard match against Sri Lanka at Lord's Cricket Ground in London, England. ](/news/2009/06/21/the-pakistan-cricket-team-wins-the-2009-icc-world-twenty20-world-cup-after-a-hard-match-against-sri-lanka-at-lord-s-cricket-ground-in-londo.md)
-_Context: London, England, Pakistan, Lord's Cricket Ground, Sri Lanka, 2009 ICC World Twenty20_
+_Context: London, Lord's Cricket Ground, Sri Lanka, Pakistan, England, 2009 ICC World Twenty20_
 
 ##### England
 ### [ England defeats New Zealand in the 2009 ICC Women's World Twenty20. ](/news/2009/06/21/england-defeats-new-zealand-in-the-2009-icc-women-s-world-twenty20.md)
@@ -21,11 +21,11 @@ The Taoiseach has said a Yes vote on Lisbon would provide Ireland with a better 
 
 ##### Somalia
 ### [ The Somali government declares a state of emergency. ](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.md)
-_Context: state of emergency, Somalia, declares_
+_Context: declares, Somalia, state of emergency_
 
 ##### Self-rule
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
-_Context: Self-rule, Greenland, 2008 referendum_
+_Context: 2008 referendum, Self-rule, Greenland_
 
 ##### France
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
@@ -49,11 +49,11 @@ _Context: Belfast_
 
 ##### Salvatore Miceli
 ### [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md)
-_Context: Venezuela, Salvatore Miceli, Mafia, Italy_
+_Context: Italy, Mafia, Salvatore Miceli, Venezuela_
 
 ##### United States
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: South Pacific Ocean, North Korea, U.S. President, United States, Barack Obama_
+_Context: U.S. President, United States, South Pacific Ocean, Barack Obama, North Korea_
 
 ## [Previous Day...](/news/2009/06/20/index.md)
 

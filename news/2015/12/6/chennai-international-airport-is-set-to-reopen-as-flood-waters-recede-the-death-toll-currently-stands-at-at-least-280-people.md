@@ -17,7 +17,7 @@ The Regional Meteorological Centre has forecast light rains in the next 24 hours
 
 ### Changes:
 
-1. [2015 South Indian floods: Chennai International Airport is set to reopen as flood waters recede. The death toll currently stands at at least 280 people. ](/news/2015/12/6/2015-south-indian-floods-chennai-international-airport-is-set-to-reopen-as-flood-waters-recede-the-death-toll-currently-stands-at-at-least.md) _2017-08-27 03:44:12 (First version)_
+1. [2015 South Indian floods: Chennai International Airport is set to reopen as flood waters recede. The death toll currently stands at at least 280 people. ](/news/2015/12/6/2015-south-indian-floods-chennai-international-airport-is-set-to-reopen-as-flood-waters-recede-the-death-toll-currently-stands-at-at-least.md) _2018-02-06 13:49:28 (First version)_
 1. [Chennai International Airport is set to reopen as flood waters recede. The death toll currently stands at at least 280 people. ](/news/2015/12/6/chennai-international-airport-is-set-to-reopen-as-flood-waters-recede-the-death-toll-currently-stands-at-at-least-280-people.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/22/university-of-wisconsinamadison-scientists-beli
 
 ### Changes:
 
-1. [ University of Wisconsin-Madison scientists believe they may have discovered a reason why the deadly H5N1 bird flu virus cannot yet jump easily between humans. ](/news/2006/03/22/university-of-wisconsin-madison-scientists-believe-they-may-have-discovered-a-reason-why-the-deadly-h5n1-bird-flu-virus-cannot-yet-jump-e.md) _2017-08-27 03:17:31 (First version)_
+1. [ University of Wisconsin-Madison scientists believe they may have discovered a reason why the deadly H5N1 bird flu virus cannot yet jump easily between humans. ](/news/2006/03/22/university-of-wisconsin-madison-scientists-believe-they-may-have-discovered-a-reason-why-the-deadly-h5n1-bird-flu-virus-cannot-yet-jump-e.md) _2018-02-06 13:49:17 (First version)_
 1. [ University of Wisconsin-Madison scientists believe they may have discovered a reason why the deadly H5N1 bird flu virus cannot yet jump easily between humans. ](/news/2006/03/22/university-of-wisconsinamadison-scientists-believe-they-may-have-discovered-a-reason-why-the-deadly-h5n1-bird-flu-virus-cannot-yet-jump-e.md) _(Current version)_
 
 ### Related:

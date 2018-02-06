@@ -16,7 +16,7 @@ Firefighters are battling to control a Northern California blaze that destroyed 
 
 ### Changes:
 
-1. [2016 California wildfires: 100 homes are destroyed and thousands of people are forced to leave due to wildfire in Lower Lake, California. ](/news/2016/08/14/2016-california-wildfires-100-homes-are-destroyed-and-thousands-of-people-are-forced-to-leave-due-to-wildfire-in-lower-lake-california.md) _2017-08-27 03:46:39 (First version)_
+1. [2016 California wildfires: 100 homes are destroyed and thousands of people are forced to leave due to wildfire in Lower Lake, California. ](/news/2016/08/14/2016-california-wildfires-100-homes-are-destroyed-and-thousands-of-people-are-forced-to-leave-due-to-wildfire-in-lower-lake-california.md) _2018-02-06 13:49:29 (First version)_
 1. [100 homes are destroyed and thousands of people are forced to leave due to wildfire in Lower Lake, California. ](/news/2016/08/14/100-homes-are-destroyed-and-thousands-of-people-are-forced-to-leave-due-to-wildfire-in-lower-lake-california.md) _(Current version)_
 
 ### Related:

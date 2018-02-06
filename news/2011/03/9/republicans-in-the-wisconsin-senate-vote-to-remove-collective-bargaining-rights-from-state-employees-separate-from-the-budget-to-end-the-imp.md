@@ -19,7 +19,7 @@ Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers o
 
 ### Changes:
 
-1. [2011 Wisconsin budget protests: Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/2011-wisconsin-budget-protests-republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separat.md) _2017-08-27 03:32:37 (First version)_
+1. [2011 Wisconsin budget protests: Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/2011-wisconsin-budget-protests-republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separat.md) _2018-02-06 13:49:22 (First version)_
 1. [Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separate-from-the-budget-to-end-the-imp.md) _(Current version)_
 
 ### Related:

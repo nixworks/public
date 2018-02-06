@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/05/8/a-suicide-bomber-kills-at-least-10-people-and-in
 
 ### Changes:
 
-1. [ War in Iraq: A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/war-in-iraq-p-a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md) _2017-08-25 03:19:46 (First version)_
-2. [ War in Iraq:: A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/war-in-iraq-a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md) _2017-08-27 03:19:44 (Update)_
+1. [ War in Iraq: A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/war-in-iraq-p-a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Iraq:: A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/war-in-iraq-a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md) _2018-02-06 13:49:17 (Update)_
 2. [ A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md) _(Current version)_
 
 ### Related:

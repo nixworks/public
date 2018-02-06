@@ -17,8 +17,8 @@ Israeli troops shot to death a Palestinian man on Tuesday after he and others hu
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeliapalestinian-conflict-pa-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md) _2017-08-25 03:37:49 (First version)_
-2. [Israeli-Palestinian conflict:: A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeli-palestinian-conflict-a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md) _2017-08-27 03:38:00 (Update)_
+1. [Israeli-Palestinian conflict:A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeliapalestinian-conflict-pa-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md) _2018-02-06 13:49:24 (First version)_
+2. [Israeli-Palestinian conflict:: A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeli-palestinian-conflict-a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md) _2018-02-06 13:49:24 (Update)_
 2. [A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west-bank.md) _(Current version)_
 
 ### Related:

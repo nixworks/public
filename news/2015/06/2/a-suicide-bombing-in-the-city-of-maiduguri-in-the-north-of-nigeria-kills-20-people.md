@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/2/a-suicide-bombing-in-the-city-of-maiduguri-in-th
 
 ### Changes:
 
-1. [Boko Haram: A suicide bombing in the city of Maiduguri in the north of Nigeria kills 20 people. ](/news/2015/06/2/boko-haram-a-suicide-bombing-in-the-city-of-maiduguri-in-the-north-of-nigeria-kills-20-people.md) _2017-08-27 03:42:28 (First version)_
+1. [Boko Haram: A suicide bombing in the city of Maiduguri in the north of Nigeria kills 20 people. ](/news/2015/06/2/boko-haram-a-suicide-bombing-in-the-city-of-maiduguri-in-the-north-of-nigeria-kills-20-people.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bombing in the city of Maiduguri in the north of Nigeria kills 20 people. ](/news/2015/06/2/a-suicide-bombing-in-the-city-of-maiduguri-in-the-north-of-nigeria-kills-20-people.md) _(Current version)_
 
 ### Related:

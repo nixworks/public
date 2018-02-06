@@ -19,7 +19,7 @@ French President Francois Hollande blamed the &quot;cowardly acts&quot; on ISIS-
 
 ### Changes:
 
-1. [2016 Normandy church attack: Two men armed with knives take a priest, two nuns and two parishioners hostage in a church near Rouen in the French region of Normandy. French police kill the hostage-takers after the 86-year-old priest, Jacques Hamel, was killed by slitting his throat. ](/news/2016/07/26/2016-normandy-church-attack-two-men-armed-with-knives-take-a-priest-two-nuns-and-two-parishioners-hostage-in-a-church-near-rouen-in-the-fr.md) _2017-08-27 03:46:33 (First version)_
+1. [2016 Normandy church attack: Two men armed with knives take a priest, two nuns and two parishioners hostage in a church near Rouen in the French region of Normandy. French police kill the hostage-takers after the 86-year-old priest, Jacques Hamel, was killed by slitting his throat. ](/news/2016/07/26/2016-normandy-church-attack-two-men-armed-with-knives-take-a-priest-two-nuns-and-two-parishioners-hostage-in-a-church-near-rouen-in-the-fr.md) _2018-02-06 13:49:29 (First version)_
 1. [Two men armed with knives take a priest, two nuns and two parishioners hostage in a church near Rouen in the French region of Normandy. French police kill the hostage-takers after the 86-year-old priest, Jacques Hamel, was killed by slitting his throat. ](/news/2016/07/26/two-men-armed-with-knives-take-a-priest-two-nuns-and-two-parishioners-hostage-in-a-church-near-rouen-in-the-french-region-of-normandy-fren.md) _(Current version)_
 
 ### Related:

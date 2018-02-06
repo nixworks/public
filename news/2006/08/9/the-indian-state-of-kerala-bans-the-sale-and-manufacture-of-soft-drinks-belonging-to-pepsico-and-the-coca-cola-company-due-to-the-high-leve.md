@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-man
 
 ### Changes:
 
-1. [ The Indian state of Kerala bans the sale and manufacture of soft drinks belonging to PepsiCo and The Coca-Cola Company due to the high levels of pesticide residue in the water used in these products. ](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-manufacture-of-soft-drinks-belonging-to-pepsico-and-the-coca-cola-company-due-to-the-high-le.md) _2017-08-25 03:18:10 (First version)_
+1. [ The Indian state of Kerala bans the sale and manufacture of soft drinks belonging to PepsiCo and The Coca-Cola Company due to the high levels of pesticide residue in the water used in these products. ](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-manufacture-of-soft-drinks-belonging-to-pepsico-and-the-coca-cola-company-due-to-the-high-le.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Indian state of Kerala bans the sale and manufacture of soft drinks belonging to PepsiCo and The Coca-Cola Company due to the high levels of pesticide residue in the water used in these products. ](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-manufacture-of-soft-drinks-belonging-to-pepsico-and-the-coca-cola-company-due-to-the-high-leve.md) _(Current version)_
 
 ### Related:

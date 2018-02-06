@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/10/4/u-s-president-barack-obama-declares-a-state-of-e
 
 ### Changes:
 
-1. [October 2015 nor'easter: U.S. President Barack Obama declares a state of emergency for South Carolina, after the state receives over two feet of rain in some areas. More than 250 roads across the state close. A low pressure area funnels heavy tropical moisture into the region, as well as, pulls in Hurricane Joaquin-related precipitation. ](/news/2015/10/4/october-2015-nor-easter-u-s-president-barack-obama-declares-a-state-of-emergency-for-south-carolina-after-the-state-receives-over-two-fee.md) _2017-08-27 03:43:14 (First version)_
+1. [October 2015 nor'easter: U.S. President Barack Obama declares a state of emergency for South Carolina, after the state receives over two feet of rain in some areas. More than 250 roads across the state close. A low pressure area funnels heavy tropical moisture into the region, as well as, pulls in Hurricane Joaquin-related precipitation. ](/news/2015/10/4/october-2015-nor-easter-u-s-president-barack-obama-declares-a-state-of-emergency-for-south-carolina-after-the-state-receives-over-two-fee.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. President Barack Obama declares a state of emergency for South Carolina, after the state receives over two feet of rain in some areas. More than 250 roads across the state close. A low pressure area funnels heavy tropical moisture into the region, as well as, pulls in Hurricane Joaquin-related precipitation. ](/news/2015/10/4/u-s-president-barack-obama-declares-a-state-of-emergency-for-south-carolina-after-the-state-receives-over-two-feet-of-rain-in-some-areas.md) _(Current version)_
 
 ### Related:

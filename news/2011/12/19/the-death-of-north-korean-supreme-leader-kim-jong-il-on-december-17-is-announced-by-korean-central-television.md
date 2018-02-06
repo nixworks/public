@@ -20,7 +20,7 @@ Formats: [HTML](/news/2011/12/19/the-death-of-north-korean-supreme-leader-kim-jo
 
 ### Changes:
 
-1. [Death of Kim Jong-il: The death of North Korean supreme leader Kim Jong-il on December 17 is announced by Korean Central Television. ](/news/2011/12/19/death-of-kim-jong-il-the-death-of-north-korean-supreme-leader-kim-jong-il-on-december-17-is-announced-by-korean-central-television.md) _2017-08-27 03:34:50 (First version)_
+1. [Death of Kim Jong-il: The death of North Korean supreme leader Kim Jong-il on December 17 is announced by Korean Central Television. ](/news/2011/12/19/death-of-kim-jong-il-the-death-of-north-korean-supreme-leader-kim-jong-il-on-december-17-is-announced-by-korean-central-television.md) _2018-02-06 13:49:23 (First version)_
 1. [The death of North Korean supreme leader Kim Jong-il on December 17 is announced by Korean Central Television. ](/news/2011/12/19/the-death-of-north-korean-supreme-leader-kim-jong-il-on-december-17-is-announced-by-korean-central-television.md) _(Current version)_
 
 ### Related:

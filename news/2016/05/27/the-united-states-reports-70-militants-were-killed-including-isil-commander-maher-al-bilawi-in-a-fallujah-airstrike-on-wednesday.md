@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/27/the-united-states-reports-70-militants-were-kil
 
 ### Changes:
 
-1. [Iraqi civil war: Operation Breaking Terrorism: The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/iraqi-civil-war-operation-breaking-terrorism-the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi.md) _2017-08-27 03:46:09 (First version)_
+1. [Iraqi civil war: Operation Breaking Terrorism: The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/iraqi-civil-war-operation-breaking-terrorism-the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md) _(Current version)_
 
 ### Related:

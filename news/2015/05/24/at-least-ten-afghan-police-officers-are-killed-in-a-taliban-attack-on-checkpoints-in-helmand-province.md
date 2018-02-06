@@ -16,7 +16,7 @@ Taliban insurgents attacked police checkpoints Sunday in volatile southern Afgha
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): At least ten Afghan police officers are killed in a Taliban attack on checkpoints in Helmand Province. ](/news/2015/05/24/war-in-afghanistan-2015-present-at-least-ten-afghan-police-officers-are-killed-in-a-taliban-attack-on-checkpoints-in-helmand-province.md) _2017-08-27 03:42:22 (First version)_
+1. [War in Afghanistan (2015-present): At least ten Afghan police officers are killed in a Taliban attack on checkpoints in Helmand Province. ](/news/2015/05/24/war-in-afghanistan-2015-present-at-least-ten-afghan-police-officers-are-killed-in-a-taliban-attack-on-checkpoints-in-helmand-province.md) _2018-02-06 13:49:27 (First version)_
 1. [At least ten Afghan police officers are killed in a Taliban attack on checkpoints in Helmand Province. ](/news/2015/05/24/at-least-ten-afghan-police-officers-are-killed-in-a-taliban-attack-on-checkpoints-in-helmand-province.md) _(Current version)_
 
 ### Related:

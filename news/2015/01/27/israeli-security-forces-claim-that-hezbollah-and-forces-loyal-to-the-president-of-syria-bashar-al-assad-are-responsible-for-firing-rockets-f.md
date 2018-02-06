@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/27/israeli-security-forces-claim-that-hezbollah-an
 
 ### Changes:
 
-1. [Israeli-Lebanese conflict: Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-lebanese-conflict-israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-res.md) _2017-08-27 03:41:51 (First version)_
+1. [Israeli-Lebanese conflict: Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-lebanese-conflict-israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-res.md) _2018-02-06 13:49:26 (First version)_
 1. [Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-responsible-for-firing-rockets-f.md) _(Current version)_
 
 ### Related:

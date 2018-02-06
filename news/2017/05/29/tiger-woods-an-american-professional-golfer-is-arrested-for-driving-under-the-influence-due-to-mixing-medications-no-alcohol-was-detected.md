@@ -16,9 +16,9 @@ A look at Tiger Woods&#x27; troubles since the Thanksgiving incident of 2009.
 
 ### Changes:
 
-1. [Tiger Woods, a former professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-former-professional-golfer-is-arrested-for-driving-under-the-influence.md) _2017-05-29 23:30:07 (First version)_
-2. [Tiger Woods, a professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-professional-golfer-is-arrested-for-driving-under-the-influence.md) _2017-05-30 03:50:22 (Update)_
-3. [Tiger Woods, an American professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence.md) _2017-05-30 21:30:06 (Update)_
+1. [Tiger Woods, an American professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence.md) _2018-02-06 13:49:30 (First version)_
+2. [Tiger Woods, a professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-professional-golfer-is-arrested-for-driving-under-the-influence.md) _2018-02-06 13:49:30 (Update)_
+3. [Tiger Woods, a former professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-former-professional-golfer-is-arrested-for-driving-under-the-influence.md) _2018-02-06 13:49:30 (Update)_
 3. [Tiger Woods, an American professional golfer, is arrested for driving under the influence due to mixing medications, no alcohol was detected in his system. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence-due-to-mixing-medications-no-alcohol-was-detected.md) _(Current version)_
 
 ### Related:

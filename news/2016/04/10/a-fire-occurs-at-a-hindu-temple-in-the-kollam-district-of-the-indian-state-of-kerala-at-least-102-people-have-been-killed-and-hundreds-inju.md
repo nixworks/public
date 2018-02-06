@@ -19,7 +19,7 @@ The incident took place at the 500-year-old Devi Temple at Puttingal of Paravur 
 
 ### Changes:
 
-1. [Kollam temple fire: A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. ](/news/2016/04/10/kollam-temple-fire-a-fire-occurs-at-a-hindu-temple-in-the-kollam-district-of-the-indian-state-of-kerala-at-least-102-people-have-been-kill.md) _2017-08-27 03:45:34 (First version)_
+1. [Kollam temple fire: A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. ](/news/2016/04/10/kollam-temple-fire-a-fire-occurs-at-a-hindu-temple-in-the-kollam-district-of-the-indian-state-of-kerala-at-least-102-people-have-been-kill.md) _2018-02-06 13:49:28 (First version)_
 1. [A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. ](/news/2016/04/10/a-fire-occurs-at-a-hindu-temple-in-the-kollam-district-of-the-indian-state-of-kerala-at-least-102-people-have-been-killed-and-hundreds-inju.md) _(Current version)_
 
 ### Related:

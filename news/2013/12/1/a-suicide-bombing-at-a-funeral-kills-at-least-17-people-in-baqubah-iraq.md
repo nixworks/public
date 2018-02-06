@@ -16,8 +16,8 @@ Suicide attacker targets funeral of son of Sunni Awakening movement leader in Ba
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _2017-08-25 03:39:36 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _2017-08-27 03:39:54 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bombing at a funeral kills at least 17 people in Baqubah, Iraq. ](/news/2013/12/1/a-suicide-bombing-at-a-funeral-kills-at-least-17-people-in-baqubah-iraq.md) _(Current version)_
 
 ### Related:

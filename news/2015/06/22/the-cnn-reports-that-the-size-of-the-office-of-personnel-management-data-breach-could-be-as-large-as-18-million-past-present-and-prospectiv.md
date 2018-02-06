@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/22/the-cnn-reports-that-the-size-of-the-office-of-
 
 ### Changes:
 
-1. [Office of Personnel Management data breach: The CNN reports that the size of the Office of Personnel Management data breach could be as large as 18 million past, present and prospective employees of the United States Government. ](/news/2015/06/22/office-of-personnel-management-data-breach-the-cnn-reports-that-the-size-of-the-office-of-personnel-management-data-breach-could-be-as-larg.md) _2017-08-27 03:42:34 (First version)_
+1. [Office of Personnel Management data breach: The CNN reports that the size of the Office of Personnel Management data breach could be as large as 18 million past, present and prospective employees of the United States Government. ](/news/2015/06/22/office-of-personnel-management-data-breach-the-cnn-reports-that-the-size-of-the-office-of-personnel-management-data-breach-could-be-as-larg.md) _2018-02-06 13:49:27 (First version)_
 1. [The CNN reports that the size of the Office of Personnel Management data breach could be as large as 18 million past, present and prospective employees of the United States Government. ](/news/2015/06/22/the-cnn-reports-that-the-size-of-the-office-of-personnel-management-data-breach-could-be-as-large-as-18-million-past-present-and-prospectiv.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 
 ### Changes:
 
-1. [Xi Jinping's visit to Ireland:Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-s-visit-to-ireland-pxi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md) _2017-08-25 03:35:05 (First version)_
-2. [Xi Jinping's visit to Ireland:: Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-s-visit-to-ireland-xi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md) _2017-08-27 03:35:15 (Update)_
+1. [Xi Jinping's visit to Ireland:: Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-s-visit-to-ireland-xi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md) _2018-02-06 13:49:23 (First version)_
+2. [Xi Jinping's visit to Ireland:Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-s-visit-to-ireland-pxi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md) _2018-02-06 13:49:23 (Update)_
 2. [Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md) _(Current version)_
 
 ### Related:

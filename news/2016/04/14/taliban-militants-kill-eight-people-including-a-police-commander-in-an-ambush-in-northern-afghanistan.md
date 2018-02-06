@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/14/taliban-militants-kill-eight-people-including-a
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/war-in-afghanistan-2015-present-taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md) _2017-08-27 03:45:37 (First version)_
+1. [War in Afghanistan (2015-present): Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/war-in-afghanistan-2015-present-taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md) _2018-02-06 13:49:28 (First version)_
 1. [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md) _(Current version)_
 
 ### Related:

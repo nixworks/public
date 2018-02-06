@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/09/2/an-explosion-at-a-night-market-in-davao-city-phi
 
 ### Changes:
 
-1. [Moro conflict: An explosion at a night market in Davao City, Philippines, kills at least 14 people and injures 60. President of the Philippines and former Davao City mayor Rodrigo Duterte was in the city at the time. Abu Sayyaf have claimed responsibility for the attack. ](/news/2016/09/2/moro-conflict-an-explosion-at-a-night-market-in-davao-city-philippines-kills-at-least-14-people-and-injures-60-president-of-the-philippi.md) _2017-08-27 03:46:45 (First version)_
+1. [Moro conflict: An explosion at a night market in Davao City, Philippines, kills at least 14 people and injures 60. President of the Philippines and former Davao City mayor Rodrigo Duterte was in the city at the time. Abu Sayyaf have claimed responsibility for the attack. ](/news/2016/09/2/moro-conflict-an-explosion-at-a-night-market-in-davao-city-philippines-kills-at-least-14-people-and-injures-60-president-of-the-philippi.md) _2018-02-06 13:49:29 (First version)_
 1. [An explosion at a night market in Davao City, Philippines, kills at least 14 people and injures 60. President of the Philippines and former Davao City mayor Rodrigo Duterte was in the city at the time. Abu Sayyaf have claimed responsibility for the attack. ](/news/2016/09/2/an-explosion-at-a-night-market-in-davao-city-philippines-kills-at-least-14-people-and-injures-60-president-of-the-philippines-and-former.md) _(Current version)_
 
 ### Related:

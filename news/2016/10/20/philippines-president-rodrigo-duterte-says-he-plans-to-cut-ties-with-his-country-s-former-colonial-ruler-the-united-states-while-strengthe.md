@@ -16,7 +16,7 @@ On visit to China the leader repeats his denunciation of Barack Obama as a ‘so
 
 ### Changes:
 
-1. [Philippines-United States relations: Philippines president Rodrigo Duterte says he plans to cut ties with his country's former colonial ruler, the United States, while strengthening ties with China. ](/news/2016/10/20/philippines-united-states-relations-philippines-president-rodrigo-duterte-says-he-plans-to-cut-ties-with-his-country-s-former-colonial-ru.md) _2017-08-27 17:30:04 (First version)_
+1. [Philippines-United States relations: Philippines president Rodrigo Duterte says he plans to cut ties with his country's former colonial ruler, the United States, while strengthening ties with China. ](/news/2016/10/20/philippines-united-states-relations-philippines-president-rodrigo-duterte-says-he-plans-to-cut-ties-with-his-country-s-former-colonial-ru.md) _2018-02-06 13:49:29 (First version)_
 1. [Philippines president Rodrigo Duterte says he plans to cut ties with his country's former colonial ruler, the United States, while strengthening ties with China. ](/news/2016/10/20/philippines-president-rodrigo-duterte-says-he-plans-to-cut-ties-with-his-country-s-former-colonial-ruler-the-united-states-while-strengthe.md) _(Current version)_
 
 ### Related:

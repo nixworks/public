@@ -27,8 +27,8 @@ Unrest in Yemen turns ugly as protesters clash with police and government loyali
 
 ### Changes:
 
-1. [Other Arab Spring events:New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-pnew-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _2017-08-25 03:32:10 (First version)_
-2. [Other Arab Spring events:: New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _2017-08-27 03:32:19 (Update)_
+1. [Other Arab Spring events:New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-pnew-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _2018-02-06 13:49:21 (First version)_
+2. [Other Arab Spring events:: New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _2018-02-06 13:49:21 (Update)_
 2. [New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _(Current version)_
 
 ### Related:

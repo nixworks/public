@@ -16,8 +16,8 @@ Jamaican sprinter Usain Bolt crushed the world record in the 100 meters in theat
 
 ### Changes:
 
-1. [ Athletics at the 2008 Summer Olympics: Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. ](/news/2008/08/16/athletics-at-the-2008-summer-olympics-p-sprinter-usain-bolt-of-jamaica-wins-the-100-metre-title-in-a-world-record-time.md) _2017-08-25 03:22:42 (First version)_
-2. [ Athletics at the 2008 Summer Olympics:: Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. ](/news/2008/08/16/athletics-at-the-2008-summer-olympics-sprinter-usain-bolt-of-jamaica-wins-the-100-metre-title-in-a-world-record-time.md) _2017-08-27 03:22:36 (Update)_
+1. [ Athletics at the 2008 Summer Olympics:: Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. ](/news/2008/08/16/athletics-at-the-2008-summer-olympics-sprinter-usain-bolt-of-jamaica-wins-the-100-metre-title-in-a-world-record-time.md) _2018-02-06 13:49:18 (First version)_
+2. [ Athletics at the 2008 Summer Olympics: Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. ](/news/2008/08/16/athletics-at-the-2008-summer-olympics-p-sprinter-usain-bolt-of-jamaica-wins-the-100-metre-title-in-a-world-record-time.md) _2018-02-06 13:49:18 (Update)_
 2. [ Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. ](/news/2008/08/16/sprinter-usain-bolt-of-jamaica-wins-the-100-metre-title-in-a-world-record-time.md) _(Current version)_
 
 ### Related:

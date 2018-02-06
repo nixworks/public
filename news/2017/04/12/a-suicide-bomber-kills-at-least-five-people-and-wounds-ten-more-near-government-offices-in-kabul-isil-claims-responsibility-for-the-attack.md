@@ -15,7 +15,7 @@ ISIL claims responsibility for deadly suicide bomb blast near government offices
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber kills at least five people and wounds ten more near government offices in Kabul. ISIL claims responsibility for the attack. ](/news/2017/04/12/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-five-people-and-wounds-ten-more-near-government-offices-in-kabul-isil.md) _2017-08-27 03:48:08 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber kills at least five people and wounds ten more near government offices in Kabul. ISIL claims responsibility for the attack. ](/news/2017/04/12/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-five-people-and-wounds-ten-more-near-government-offices-in-kabul-isil.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bomber kills at least five people and wounds ten more near government offices in Kabul. ISIL claims responsibility for the attack. ](/news/2017/04/12/a-suicide-bomber-kills-at-least-five-people-and-wounds-ten-more-near-government-offices-in-kabul-isil-claims-responsibility-for-the-attack.md) _(Current version)_
 
 ### Related:

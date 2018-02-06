@@ -17,7 +17,7 @@ A high-speed TGV train derails on a test run near the French city of Strasbourg,
 
 ### Changes:
 
-1. [Eckwersheim derailment: Ten people are dead and eleven injured after a high-speed TGV train catches fire and derails near the northeastern French city of Strasbourg. ](/news/2015/11/14/eckwersheim-derailment-ten-people-are-dead-and-eleven-injured-after-a-high-speed-tgv-train-catches-fire-and-derails-near-the-northeastern-f.md) _2017-08-27 03:43:51 (First version)_
+1. [Eckwersheim derailment: Ten people are dead and eleven injured after a high-speed TGV train catches fire and derails near the northeastern French city of Strasbourg. ](/news/2015/11/14/eckwersheim-derailment-ten-people-are-dead-and-eleven-injured-after-a-high-speed-tgv-train-catches-fire-and-derails-near-the-northeastern-f.md) _2018-02-06 13:49:28 (First version)_
 1. [Ten people are dead and eleven injured after a high-speed TGV train catches fire and derails near the northeastern French city of Strasbourg. ](/news/2015/11/14/ten-people-are-dead-and-eleven-injured-after-a-high-speed-tgv-train-catches-fire-and-derails-near-the-northeastern-french-city-of-strasbourg.md) _(Current version)_
 
 ### Related:

@@ -16,9 +16,9 @@ FOUR people have been killed and more than 20 injured when a homemade bomb was d
 
 ### Changes:
 
-1. [Terrorism in Thailand:At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/terrorism-in-thailand-pat-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-mah.md) _2017-08-25 03:37:37 (First version)_
-2. [Terrorism in Thailand:: At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/terrorism-in-thailand-at-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-ma.md) _2017-08-27 03:37:49 (Update)_
-3. [At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/at-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-maha-sarakham-province.md) _2017-10-17 03:43:47 (Update)_
+1. [Terrorism in Thailand:At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/terrorism-in-thailand-pat-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-mah.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Thailand:: At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/terrorism-in-thailand-at-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-ma.md) _2018-02-06 13:49:24 (Update)_
+3. [At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/at-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-maha-sarakham-province.md) _2018-02-06 13:49:24 (Update)_
 3. [At least four people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/at-least-four-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-maha-sarakham-province.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-an
 
 ### Changes:
 
-1. [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-china-strategic-and-economic-dialogue-begins-in-beijing-china.md) _2017-08-27 03:27:58 (First version)_
+1. [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-china-strategic-and-economic-dialogue-begins-in-beijing-china.md) _2018-02-06 13:49:20 (First version)_
 1. [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md) _(Current version)_
 
 ### Related:

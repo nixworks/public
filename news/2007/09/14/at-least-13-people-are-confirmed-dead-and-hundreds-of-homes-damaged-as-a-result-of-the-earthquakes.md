@@ -17,7 +17,7 @@ At least 13 people have been confirmed dead and hundreds of homes damaged as rel
 
 ### Changes:
 
-1. [ September 2007 Sumatra earthquakes: At least 13 people are confirmed dead and hundreds of homes damaged as a result of the earthquakes. ](/news/2007/09/14/september-2007-sumatra-earthquakes-at-least-13-people-are-confirmed-dead-and-hundreds-of-homes-damaged-as-a-result-of-the-earthquakes.md) _2017-08-27 03:20:54 (First version)_
+1. [ September 2007 Sumatra earthquakes: At least 13 people are confirmed dead and hundreds of homes damaged as a result of the earthquakes. ](/news/2007/09/14/september-2007-sumatra-earthquakes-at-least-13-people-are-confirmed-dead-and-hundreds-of-homes-damaged-as-a-result-of-the-earthquakes.md) _2018-02-06 13:49:18 (First version)_
 1. [ At least 13 people are confirmed dead and hundreds of homes damaged as a result of the earthquakes. ](/news/2007/09/14/at-least-13-people-are-confirmed-dead-and-hundreds-of-homes-damaged-as-a-result-of-the-earthquakes.md) _(Current version)_
 
 ### Related:

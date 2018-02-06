@@ -16,7 +16,7 @@ More than 100 stores will eventually occupy 365,000 square feet of retail space 
 
 ### Changes:
 
-1. [ Westfield World Trade Center s'ouvre sur le calendrier, une partie du ramnagement World Trade Center Ground Zero dans New York City. [Http:--newyork.cbslocal.com-2016-08-16-westfield-world-trade-center-mall- (CBS NY)]](/news/2016/08/16/westfield-world-trade-center-s-ouvre-sur-le-calendrier-une-partie-du-reamenagement-world-trade-center-ground-zero-dans-new-york-city-ht.md) _2017-07-05 15:30:04 (First version)_
+1. [ Westfield World Trade Center s'ouvre sur le calendrier, une partie du ramnagement World Trade Center Ground Zero dans New York City. [Http:--newyork.cbslocal.com-2016-08-16-westfield-world-trade-center-mall- (CBS NY)]](/news/2016/08/16/westfield-world-trade-center-s-ouvre-sur-le-calendrier-une-partie-du-reamenagement-world-trade-center-ground-zero-dans-new-york-city-ht.md) _2018-02-06 13:49:29 (First version)_
 1. [Westfield World Trade Center opens on schedule, part of the World Trade Center Ground Zero redevelopment in New York City. ](/news/2016/08/16/westfield-world-trade-center-opens-on-schedule-part-of-the-world-trade-center-ground-zero-redevelopment-in-new-york-city.md) _(Current version)_
 
 ### Related:

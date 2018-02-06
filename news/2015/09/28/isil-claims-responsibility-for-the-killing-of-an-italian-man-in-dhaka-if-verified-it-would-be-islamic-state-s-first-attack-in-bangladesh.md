@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-a
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/islamic-state-of-iraq-and-the-levant-isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islami.md) _2017-08-27 03:43:10 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/islamic-state-of-iraq-and-the-levant-isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islami.md) _2018-02-06 13:49:27 (First version)_
 1. [ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islamic-state-s-first-attack-in-bangladesh.md) _(Current version)_
 
 ### Related:

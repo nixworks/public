@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/04/11/football-the-semi-finals-of-copa-del-rey-begin-
 
 ### Changes:
 
-1. [ Football: The semi-finals of Copa del Rey begin in Nou Camp. Argentinian Lionel Messi scored a spectacular goal against Getafe CF.That goal is very similar to a Diego Maradona's goal against England in Mexico World Cup 1986.Both of them passed six defenders including goalkeeper and scored.](/news/2007/04/11/football-the-semi-finals-of-copa-del-rey-begin-in-nou-camp-argentinian-lionel-messi-scored-a-spectacular-goal-against-getafe-cf-that-goa.md) _2017-08-25 03:19:34 (First version)_
+1. [ Football: The semi-finals of Copa del Rey begin in Nou Camp. Argentinian Lionel Messi scored a spectacular goal against Getafe CF.That goal is very similar to a Diego Maradona's goal against England in Mexico World Cup 1986.Both of them passed six defenders including goalkeeper and scored.](/news/2007/04/11/football-the-semi-finals-of-copa-del-rey-begin-in-nou-camp-argentinian-lionel-messi-scored-a-spectacular-goal-against-getafe-cf-that-goa.md) _2018-02-06 13:49:17 (First version)_
 1. [ Football: The semi-finals of Copa del Rey begin in Nou Camp. Argentinian Lionel Messi scored a spectacular goal against Getafe CF.That goal is very similar to a Diego Maradona's goal against England in Mexico World Cup 1986.Both of them passed six defenders including goalkeeper and scored.](/news/2007/04/11/football-the-semi-finals-of-copa-del-rey-begin-in-nou-camp-argentinian-lionel-messi-scored-a-spectacular-goal-against-getafe-cf-that-goal.md) _(Current version)_
 
 ### Related:

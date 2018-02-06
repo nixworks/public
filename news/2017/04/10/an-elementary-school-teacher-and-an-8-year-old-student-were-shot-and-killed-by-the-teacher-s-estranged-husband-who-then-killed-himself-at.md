@@ -18,7 +18,7 @@ A gunman opened fire inside his wife&#x27;s elementary school classroom in San B
 
 ### Changes:
 
-1. [North Park Elementary School shooting: An elementary school teacher and an 8-year-old student were shot and killed by the teacher's estranged husband, who then killed himself, at North Park Elementary School in San Bernardino, California. Another student, a 9-year-old boy who was also behind the teacher, was wounded. ](/news/2017/04/10/north-park-elementary-school-shooting-an-elementary-school-teacher-and-an-8-year-old-student-were-shot-and-killed-by-the-teacher-s-estrange.md) _2017-08-27 03:48:08 (First version)_
+1. [North Park Elementary School shooting: An elementary school teacher and an 8-year-old student were shot and killed by the teacher's estranged husband, who then killed himself, at North Park Elementary School in San Bernardino, California. Another student, a 9-year-old boy who was also behind the teacher, was wounded. ](/news/2017/04/10/north-park-elementary-school-shooting-an-elementary-school-teacher-and-an-8-year-old-student-were-shot-and-killed-by-the-teacher-s-estrange.md) _2018-02-06 13:49:30 (First version)_
 1. [An elementary school teacher and an 8-year-old student were shot and killed by the teacher's estranged husband, who then killed himself, at North Park Elementary School in San Bernardino, California. Another student, a 9-year-old boy who was also behind the teacher, was wounded. ](/news/2017/04/10/an-elementary-school-teacher-and-an-8-year-old-student-were-shot-and-killed-by-the-teacher-s-estranged-husband-who-then-killed-himself-at.md) _(Current version)_
 
 ### Related:

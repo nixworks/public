@@ -16,8 +16,8 @@ German automotive watchdog KBA ordered Volkswagen to recall 2.4 million vehicles
 
 ### Changes:
 
-1. [The German automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emissions-scandal-becomes-public.md) _2017-08-25 03:43:04 (First version)_
-2. [Volkswagen emissions scandal: The German automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/volkswagen-emissions-scandal-the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emis.md) _2017-08-27 03:43:21 (Update)_
+1. [Volkswagen emissions scandal: The German automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/volkswagen-emissions-scandal-the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emis.md) _2018-02-06 13:49:27 (First version)_
+2. [The German automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emissions-scandal-becomes-public.md) _2018-02-06 13:49:27 (Update)_
 2. [The German automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emissions-scandal-becomes-public-k.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ M23 spokesman says the group is doing a phased pullout from territory they have 
 
 ### Changes:
 
-1. [2012 East D.R. Congo conflict:M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-pm23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md) _2017-08-25 03:36:53 (First version)_
-2. [2012 East D.R. Congo conflict:: M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md) _2017-08-27 03:37:03 (Update)_
+1. [2012 East D.R. Congo conflict:M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-pm23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 East D.R. Congo conflict:: M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md) _2018-02-06 13:49:24 (Update)_
 2. [M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was-reached-in-uganda.md) _(Current version)_
 
 ### Related:

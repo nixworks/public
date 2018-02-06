@@ -18,7 +18,7 @@ President Trump announced Wednesday that he will be asking for a “major invest
 
 ### Changes:
 
-1. [Presidency of Donald Trump: United States President Donald Trump announces that he intends to seek an investigation into possible voter fraud from last year's election. ](/news/2017/01/25/presidency-of-donald-trump-united-states-president-donald-trump-announces-that-he-intends-to-seek-an-investigation-into-possible-voter-frau.md) _2017-08-27 03:47:41 (First version)_
+1. [Presidency of Donald Trump: United States President Donald Trump announces that he intends to seek an investigation into possible voter fraud from last year's election. ](/news/2017/01/25/presidency-of-donald-trump-united-states-president-donald-trump-announces-that-he-intends-to-seek-an-investigation-into-possible-voter-frau.md) _2018-02-06 13:49:30 (First version)_
 1. [United States President Donald Trump announces that he intends to seek an investigation into possible voter fraud from last year's election. ](/news/2017/01/25/united-states-president-donald-trump-announces-that-he-intends-to-seek-an-investigation-into-possible-voter-fraud-from-last-year-s-election.md) _(Current version)_
 
 ### Related:

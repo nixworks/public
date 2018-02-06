@@ -17,6 +17,6 @@ Armed supporters of Yemen&#039;s government have shot dead two students who were
 
 ### Changes:
 
-1. [2011 Yemeni protests:Clashes take place between pro and anti-government demonstrators across the country. ](/news/2011/02/22/2011-yemeni-protests-pclashes-take-place-between-pro-and-anti-government-demonstrators-across-the-country.md) _2017-08-25 03:32:18 (First version)_
-2. [2011 Yemeni protests:: Clashes take place between pro and anti-government demonstrators across the country. ](/news/2011/02/22/2011-yemeni-protests-clashes-take-place-between-pro-and-anti-government-demonstrators-across-the-country.md) _2017-08-27 03:32:26 (Update)_
+1. [2011 Yemeni protests:Clashes take place between pro and anti-government demonstrators across the country. ](/news/2011/02/22/2011-yemeni-protests-pclashes-take-place-between-pro-and-anti-government-demonstrators-across-the-country.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Clashes take place between pro and anti-government demonstrators across the country. ](/news/2011/02/22/2011-yemeni-protests-clashes-take-place-between-pro-and-anti-government-demonstrators-across-the-country.md) _2018-02-06 13:49:22 (Update)_
 2. [Clashes take place between pro and anti-government demonstrators across the country. ](/news/2011/02/22/clashes-take-place-between-pro-and-anti-government-demonstrators-across-the-country.md) _(Current version)_

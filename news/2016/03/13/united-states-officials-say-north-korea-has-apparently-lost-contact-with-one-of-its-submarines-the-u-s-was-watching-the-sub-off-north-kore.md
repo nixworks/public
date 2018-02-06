@@ -17,7 +17,7 @@ US officials claim the secretive Communist state lost contact with the submarine
 
 ### Changes:
 
-1. [United States officials say North Korea has apparently lost contact with one of its submarines. The U.S. was watching the sub off North Korea's eastern coast when it vanished earlier this week. Officials are unsure whether the missing vessel is adrift or has sunk. ](/news/2016/03/13/united-states-officials-say-north-korea-has-apparently-lost-contact-with-one-of-its-submarines-the-u-s-was-watching-the-sub-off-north-kor.md) _2017-08-25 03:44:52 (First version)_
+1. [United States officials say North Korea has apparently lost contact with one of its submarines. The U.S. was watching the sub off North Korea's eastern coast when it vanished earlier this week. Officials are unsure whether the missing vessel is adrift or has sunk. ](/news/2016/03/13/united-states-officials-say-north-korea-has-apparently-lost-contact-with-one-of-its-submarines-the-u-s-was-watching-the-sub-off-north-kor.md) _2018-02-06 13:49:28 (First version)_
 1. [United States officials say North Korea has apparently lost contact with one of its submarines. The U.S. was watching the sub off North Korea's eastern coast when it vanished earlier this week. Officials are unsure whether the missing vessel is adrift or has sunk. ](/news/2016/03/13/united-states-officials-say-north-korea-has-apparently-lost-contact-with-one-of-its-submarines-the-u-s-was-watching-the-sub-off-north-kore.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/12/the-brazilian-senate-votes-55-22-to-begin-the-i
 
 ### Changes:
 
-1. [Impeachment process against Dilma Rousseff: The Brazilian Senate votes (55-22) to begin the impeachment process against the President of Brazil Dilma Rousseff and suspend her from office while the trial takes place. ](/news/2016/05/12/impeachment-process-against-dilma-rousseff-the-brazilian-senate-votes-55-22-to-begin-the-impeachment-process-against-the-president-of-bra.md) _2017-08-27 03:46:01 (First version)_
+1. [Impeachment process against Dilma Rousseff: The Brazilian Senate votes (55-22) to begin the impeachment process against the President of Brazil Dilma Rousseff and suspend her from office while the trial takes place. ](/news/2016/05/12/impeachment-process-against-dilma-rousseff-the-brazilian-senate-votes-55-22-to-begin-the-impeachment-process-against-the-president-of-bra.md) _2018-02-06 13:49:29 (First version)_
 1. [The Brazilian Senate votes (55-22) to begin the impeachment process against the President of Brazil Dilma Rousseff and suspend her from office while the trial takes place. ](/news/2016/05/12/the-brazilian-senate-votes-55-22-to-begin-the-impeachment-process-against-the-president-of-brazil-dilma-rousseff-and-suspend-her-from-offi.md) _(Current version)_
 
 ### Related:

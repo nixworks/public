@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/07/6/at-least-two-are-killed-and-power-supply-is-inte
 
 ### Changes:
 
-1. [At least two are killed and power interruptions cripple Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-interruptions-cripple-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-leyte.md) _2017-07-07 09:30:06 (First version)_
-2. [2017 Leyte earthquake: At least two are killed and power supply is interrupted in Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/2017-leyte-earthquake-at-least-two-are-killed-and-power-supply-is-interrupted-in-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake.md) _2017-08-27 03:48:37 (Update)_
+1. [At least two are killed and power interruptions cripple Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-interruptions-cripple-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-leyte.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 Leyte earthquake: At least two are killed and power supply is interrupted in Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/2017-leyte-earthquake-at-least-two-are-killed-and-power-supply-is-interrupted-in-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake.md) _2018-02-06 13:49:31 (Update)_
 2. [At least two are killed and power supply is interrupted in Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-supply-is-interrupted-in-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-le.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/04/7/the-da-vinci-code-author-dan-brown-and-his-publi
 
 ### Changes:
 
-1. [ ''The Da Vinci Code'' author Dan Brown and his publisher, Random House, win the lawsuit that claimed that Brown committed copyright infringement by using ideas similar to those in ''The Holy Blood and the Holy Grail''. ](/news/2006/04/7/the-da-vinci-code-author-dan-brown-and-his-publisher-random-house-win-the-lawsuit-that-claimed-that-brown-committed-copyright-infring.md) _2017-08-25 03:17:33 (First version)_
+1. [ ''The Da Vinci Code'' author Dan Brown and his publisher, Random House, win the lawsuit that claimed that Brown committed copyright infringement by using ideas similar to those in ''The Holy Blood and the Holy Grail''. ](/news/2006/04/7/the-da-vinci-code-author-dan-brown-and-his-publisher-random-house-win-the-lawsuit-that-claimed-that-brown-committed-copyright-infring.md) _2018-02-06 13:49:17 (First version)_
 1. [ "The Da Vinci Code" author Dan Brown and his publisher, Random House, win the lawsuit that claimed that Brown committed copyright infringement by using ideas similar to those in "The Holy Blood and the Holy Grail". ](/news/2006/04/7/the-da-vinci-code-author-dan-brown-and-his-publisher-random-house-win-the-lawsuit-that-claimed-that-brown-committed-copyright-infringem.md) _(Current version)_
 
 ### Related:

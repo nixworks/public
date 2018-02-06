@@ -17,8 +17,8 @@ The unmanned aircraft targeted a house and a vehicle in the area.
 
 ### Changes:
 
-1. [War in North-West Pakistan:A drone strike kills at least 20 people in North Waziristan near the border with Afghanistan. ](/news/2014/07/16/war-in-north-west-pakistan-pa-drone-strike-kills-at-least-20-people-in-north-waziristan-near-the-border-with-afghanistan.md) _2017-08-25 03:40:41 (First version)_
-2. [War in North-West Pakistan:: A drone strike kills at least 20 people in North Waziristan near the border with Afghanistan. ](/news/2014/07/16/war-in-north-west-pakistan-a-drone-strike-kills-at-least-20-people-in-north-waziristan-near-the-border-with-afghanistan.md) _2017-08-27 03:40:59 (Update)_
+1. [War in North-West Pakistan:A drone strike kills at least 20 people in North Waziristan near the border with Afghanistan. ](/news/2014/07/16/war-in-north-west-pakistan-pa-drone-strike-kills-at-least-20-people-in-north-waziristan-near-the-border-with-afghanistan.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: A drone strike kills at least 20 people in North Waziristan near the border with Afghanistan. ](/news/2014/07/16/war-in-north-west-pakistan-a-drone-strike-kills-at-least-20-people-in-north-waziristan-near-the-border-with-afghanistan.md) _2018-02-06 13:49:26 (Update)_
 2. [A drone strike kills at least 20 people in North Waziristan near the border with Afghanistan. ](/news/2014/07/16/a-drone-strike-kills-at-least-20-people-in-north-waziristan-near-the-border-with-afghanistan.md) _(Current version)_
 
 ### Related:

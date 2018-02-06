@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tard
 
 ### Changes:
 
-1. [A newly-published paper suggest that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggest-that-some-tardigrades-may-outlive-most-life-on-earth.md) _2017-07-17 06:30:05 (First version)_
-2. [Tardigrade: A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/tardigrade-a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _2017-08-27 03:48:40 (Update)_
+1. [Tardigrade: A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/tardigrade-a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _2018-02-06 13:49:30 (First version)_
+2. [A newly-published paper suggest that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggest-that-some-tardigrades-may-outlive-most-life-on-earth.md) _2018-02-06 13:49:30 (Update)_
 2. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _(Current version)_
 
 ### Related:

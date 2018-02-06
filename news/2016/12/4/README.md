@@ -5,7 +5,7 @@ Formats: [HTML](2016/12/4/index.html)  [JSON](2016/12/4/index.json)  [XML](2016/
 
 ##### Insurgency in the North Caucasus
 ### [The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-state-of-iraq-and-the-levant-s-caucas.md)
-_Context: Russia, Insurgency in the North Caucasus, Federal Security Service, Rustam Asildarov, ISIL, Dagestan, Caucasus Province_
+_Context: ISIL, Dagestan, Rustam Asildarov, Russia, Caucasus Province, Federal Security Service, Insurgency in the North Caucasus_
 
 ##### Syrian Civil War
 ### [ At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md)
@@ -13,7 +13,7 @@ Dozens more injured in bombing believed to have been carried out by Russia fight
 
 ##### Indonesian police
 ### [Human remains are found in the sea near where an Indonesian police plane carrying 13 people crashed. The plane was traveling to the island of Batam. ](/news/2016/12/4/human-remains-are-found-in-the-sea-near-where-an-indonesian-police-plane-carrying-13-people-crashed-the-plane-was-traveling-to-the-island-o.md)
-_Context: Batam, Indonesian police_
+_Context: Indonesian police, Batam_
 
 ##### Vietnam
 ### [Floods caused by heavy rain over the past week has caused at least 13 deaths in central Vietnam with more heavy rain forecast. ](/news/2016/12/4/floods-caused-by-heavy-rain-over-the-past-week-has-caused-at-least-13-deaths-in-central-vietnam-with-more-heavy-rain-forecast.md)
@@ -41,7 +41,7 @@ A deadly shooting has occurred in the city of Imatra in South-East Finland. Poli
 
 ##### Uzbekistani presidential election, 2016
 ### [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md)
-_Context: Islam Karimov, Uzbekistan, Uzbekistani presidential election, 2016_
+_Context: Islam Karimov, Uzbekistani presidential election, 2016, Uzbekistan_
 
 ##### Austrian presidential election, 2016
 ### [Voters in Austria go to the polls to elect a new President in a second round run-off between Green candidate Alexander Van der Bellen and Freedom Party of Austria candidate Norbert Hofer. Projections show that Van der Bellen has won with Hofer conceding defeat. ](/news/2016/12/4/voters-in-austria-go-to-the-polls-to-elect-a-new-president-in-a-second-round-run-off-between-green-candidate-alexander-van-der-bellen-and-fr.md)
@@ -61,7 +61,7 @@ KUALA LUMPUR, Malaysia (AP) — Malaysian Prime Minister Najib Razak led a prote
 
 ##### died
 ### [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md)
-_Context: Fidel Castro, Jose Marti, Cuba, died_
+_Context: Cuba, died, Jose Marti, Fidel Castro_
 
 ##### Vice President of the Philippines
 ### [Philippines Vice President Leni Robredo resigns her Cabinet post as housing secretary due to major differences in principles and values. Robredo says she is staying on in her elected position as vice president. ](/news/2016/12/4/philippines-vice-president-leni-robredo-resigns-her-cabinet-post-as-housing-secretary-due-to-major-differences-in-principles-and-values-rob.md)

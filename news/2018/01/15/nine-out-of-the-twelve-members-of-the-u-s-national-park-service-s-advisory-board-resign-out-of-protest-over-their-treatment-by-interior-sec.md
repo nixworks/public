@@ -17,7 +17,7 @@ The chairman of the board, former Alaska Gov. Tony Knowles, said in a letter tha
 
 ### Changes:
 
-1. [Nine out of the twelve members of the U.S. National Park System's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-system-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-secr.md) _2018-01-17 14:30:05 (First version)_
+1. [Nine out of the twelve members of the U.S. National Park System's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-system-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-secr.md) _2018-02-06 13:49:31 (First version)_
 1. [Nine out of the twelve members of the U.S. National Park Service's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-service-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-sec.md) _(Current version)_
 
 ### Related:

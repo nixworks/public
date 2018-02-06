@@ -19,7 +19,7 @@ Starwood Hotels and Resorts Worldwide Inc. announced Monday it approved an impro
 
 ### Changes:
 
-1. [In response to the $13.6 billion cash-and-stock offer by the Marriott International to purchase Starwood Hotels and Resorts Worldwide, Anbang Insurance Group raises its bidding offer to $14 billion. ](/news/2016/03/28/in-response-to-the-13-6-billion-cash-and-stock-offer-by-the-marriott-international-to-purchase-starwood-hotels-and-resorts-worldwide-anban.md) _2017-10-17 03:52:22 (First version)_
+1. [In response to the $13.6 billion cash-and-stock offer by the Marriott International to purchase Starwood Hotels and Resorts Worldwide, Anbang Insurance Group raises its bidding offer to $14 billion. ](/news/2016/03/28/in-response-to-the-13-6-billion-cash-and-stock-offer-by-the-marriott-international-to-purchase-starwood-hotels-and-resorts-worldwide-anban.md) _2018-02-06 13:49:28 (First version)_
 1. [ In response to the $13.6 billion cash-and-stock offer by the Marriott International to purchase Starwood Hotels and Resorts Worldwide, Anbang Insurance Group raises its bidding offer to $14 billion. ](/news/2016/03/28/in-response-to-the-13-6-billion-cash-and-stock-offer-by-the-marriott-international-to-purchase-starwood-hotels-and-resorts-worldwide-anba.md) _(Current version)_
 
 ### Related:

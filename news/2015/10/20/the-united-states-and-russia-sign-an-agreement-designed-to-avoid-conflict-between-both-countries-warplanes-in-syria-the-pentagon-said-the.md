@@ -17,7 +17,7 @@ Terms attempting to avoid conflict in Syrian airspace comes days after closest a
 
 ### Changes:
 
-1. [Syrian Civil War: The United States and Russia sign an agreement designed to avoid conflict between both countries' warplanes in Syria. The Pentagon said the agreement will remain secret; a hotline will enable both countries to directly communicate. ](/news/2015/10/20/syrian-civil-war-the-united-states-and-russia-sign-an-agreement-designed-to-avoid-conflict-between-both-countries-warplanes-in-syria-the.md) _2017-08-27 03:43:26 (First version)_
+1. [Syrian Civil War: The United States and Russia sign an agreement designed to avoid conflict between both countries' warplanes in Syria. The Pentagon said the agreement will remain secret; a hotline will enable both countries to directly communicate. ](/news/2015/10/20/syrian-civil-war-the-united-states-and-russia-sign-an-agreement-designed-to-avoid-conflict-between-both-countries-warplanes-in-syria-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States and Russia sign an agreement designed to avoid conflict between both countries' warplanes in Syria. The Pentagon said the agreement will remain secret; a hotline will enable both countries to directly communicate. ](/news/2015/10/20/the-united-states-and-russia-sign-an-agreement-designed-to-avoid-conflict-between-both-countries-warplanes-in-syria-the-pentagon-said-the.md) _(Current version)_
 
 ### Related:

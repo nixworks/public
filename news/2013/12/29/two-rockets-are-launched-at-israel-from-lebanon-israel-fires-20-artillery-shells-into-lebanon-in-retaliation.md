@@ -18,7 +18,7 @@ Rockets launched from south Lebanon struck northern Israel on Sunday and Israel 
 
 ### Changes:
 
-1. [Israeli-Lebanese conflict: Two rockets are launched at Israel from Lebanon. Israel fires 20 artillery shells into Lebanon in retaliation. ](/news/2013/12/29/israeli-lebanese-conflict-two-rockets-are-launched-at-israel-from-lebanon-israel-fires-20-artillery-shells-into-lebanon-in-retaliation.md) _2017-08-27 03:40:06 (First version)_
+1. [Israeli-Lebanese conflict: Two rockets are launched at Israel from Lebanon. Israel fires 20 artillery shells into Lebanon in retaliation. ](/news/2013/12/29/israeli-lebanese-conflict-two-rockets-are-launched-at-israel-from-lebanon-israel-fires-20-artillery-shells-into-lebanon-in-retaliation.md) _2018-02-06 13:49:25 (First version)_
 1. [Two rockets are launched at Israel from Lebanon. Israel fires 20 artillery shells into Lebanon in retaliation. ](/news/2013/12/29/two-rockets-are-launched-at-israel-from-lebanon-israel-fires-20-artillery-shells-into-lebanon-in-retaliation.md) _(Current version)_
 
 ### Related:

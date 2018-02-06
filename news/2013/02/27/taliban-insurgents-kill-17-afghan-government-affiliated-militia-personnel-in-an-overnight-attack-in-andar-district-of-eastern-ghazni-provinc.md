@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in Afghanistan:Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-ptaliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-ea.md) _2017-08-25 03:37:40 (First version)_
-2. [War in Afghanistan:: Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-taliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-e.md) _2017-08-27 03:37:51 (Update)_
+1. [War in Afghanistan:: Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-taliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-e.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan:Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-ptaliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-ea.md) _2018-02-06 13:49:24 (Update)_
 2. [Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/taliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-eastern-ghazni-provinc.md) _(Current version)_
 
 ### Related:

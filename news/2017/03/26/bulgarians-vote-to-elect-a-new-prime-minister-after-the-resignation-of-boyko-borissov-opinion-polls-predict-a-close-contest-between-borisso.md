@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-a
 
 ### Changes:
 
-1. [Bulgarian parliamentary election, 2017: Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarian-parliamentary-election-2017-bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls.md) _2017-08-27 03:48:03 (First version)_
+1. [Bulgarian parliamentary election, 2017: Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarian-parliamentary-election-2017-bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls.md) _2018-02-06 13:49:30 (First version)_
 1. [Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls-predict-a-close-contest-between-borisso.md) _(Current version)_
 
 ### Related:

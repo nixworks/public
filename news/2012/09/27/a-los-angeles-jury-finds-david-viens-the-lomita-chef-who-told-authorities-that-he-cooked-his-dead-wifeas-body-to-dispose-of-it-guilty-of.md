@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita
 
 ### Changes:
 
-1. [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife-s body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wife-s-body-to-dispose-of-it-guilty-of.md) _2017-08-27 03:36:47 (First version)_
+1. [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife-s body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wife-s-body-to-dispose-of-it-guilty-of.md) _2018-02-06 13:49:23 (First version)_
 1. [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife's body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wifeas-body-to-dispose-of-it-guilty-of.md) _(Current version)_
 
 ### Related:

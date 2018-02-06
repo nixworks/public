@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-phili
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/2015-pacific-typhoon-season-thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md) _2017-08-27 03:42:17 (First version)_
+1. [2015 Pacific typhoon season: Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/2015-pacific-typhoon-season-thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md) _2018-02-06 13:49:27 (First version)_
 1. [Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md) _(Current version)_
 
 ### Related:

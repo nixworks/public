@@ -16,7 +16,7 @@ Bernie Sanders will appear with Hillary Clinton at an event in Portsmouth, New H
 
 ### Changes:
 
-1. [United States presidential election, 2016: Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/united-states-presidential-election-2016-vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a.md) _2017-08-27 03:46:29 (First version)_
+1. [United States presidential election, 2016: Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/united-states-presidential-election-2016-vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a.md) _2018-02-06 13:49:29 (First version)_
 1. [Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a-rally-in-new-hampshire-effectively-suspen.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-
 
 ### Changes:
 
-1. [ Madeleine McCann disappears from her hotel room in Praia da Luz, Portugal. {{Fact|date=September 2008}}](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-in-praia-da-luz-portugal-fact-date-september-2008.md) _2017-05-01 03:20:26 (First version)_
+1. [ Madeleine McCann disappears from her hotel room in Praia da Luz, Portugal. {{Fact|date=September 2008}}](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-in-praia-da-luz-portugal-fact-date-september-2008.md) _2018-02-06 13:49:17 (First version)_
 1. [ Madeleine McCann disappears from her hotel room in Praia da Luz, Portugal. date=September 2008](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-in-praia-da-luz-portugal-date-september-2008.md) _(Current version)_
 
 ### Related:

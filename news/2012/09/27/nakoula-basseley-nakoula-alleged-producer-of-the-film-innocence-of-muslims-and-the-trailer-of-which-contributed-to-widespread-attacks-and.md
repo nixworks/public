@@ -16,7 +16,7 @@ The alleged producer of an anti-Islamic film that sparked violent protests has b
 
 ### Changes:
 
-1. [Nakoula Basseley Nakoula, alleged producer of the film ''Innocence of Muslims'' and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-a.md) _2017-08-25 03:36:37 (First version)_
+1. [Nakoula Basseley Nakoula, alleged producer of the film ''Innocence of Muslims'' and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-a.md) _2018-02-06 13:49:23 (First version)_
 1. [Nakoula Basseley Nakoula, alleged producer of the film "Innocence of Muslims" and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-and.md) _(Current version)_
 
 ### Related:

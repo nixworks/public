@@ -19,7 +19,7 @@ At least 13 people were killed on Wednesday when three suicide bombers blew them
 
 ### Changes:
 
-1. [Boko Haram insurgency: Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. ](/news/2016/01/27/boko-haram-insurgency-suicide-bombers-blow-themselves-up-in-the-northeast-nigerian-town-of-chibok-killing-at-least-13-and-injuring-at-leas.md) _2017-08-27 03:44:46 (First version)_
+1. [Boko Haram insurgency: Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. ](/news/2016/01/27/boko-haram-insurgency-suicide-bombers-blow-themselves-up-in-the-northeast-nigerian-town-of-chibok-killing-at-least-13-and-injuring-at-leas.md) _2018-02-06 13:49:28 (First version)_
 1. [Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. ](/news/2016/01/27/suicide-bombers-blow-themselves-up-in-the-northeast-nigerian-town-of-chibok-killing-at-least-13-and-injuring-at-least-30-others.md) _(Current version)_
 
 ### Related:

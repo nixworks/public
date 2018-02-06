@@ -18,7 +18,7 @@ BP&#39;s massive oil spill became the largest ever in the Gulf of Mexico on Thur
 
 ### Changes:
 
-1. [Deepwater Horizon oil spill: According to recent estimates, the Deepwater Horizon oil spill has overtaken Ixtoc I in volume to become the United States' worst oceanic oil spill in recorded history. ](/news/2010/07/1/deepwater-horizon-oil-spill-according-to-recent-estimates-the-deepwater-horizon-oil-spill-has-overtaken-ixtoc-i-in-volume-to-become-the-un.md) _2017-08-27 03:28:31 (First version)_
+1. [Deepwater Horizon oil spill: According to recent estimates, the Deepwater Horizon oil spill has overtaken Ixtoc I in volume to become the United States' worst oceanic oil spill in recorded history. ](/news/2010/07/1/deepwater-horizon-oil-spill-according-to-recent-estimates-the-deepwater-horizon-oil-spill-has-overtaken-ixtoc-i-in-volume-to-become-the-un.md) _2018-02-06 13:49:20 (First version)_
 1. [According to recent estimates, the Deepwater Horizon oil spill has overtaken Ixtoc I in volume to become the United States' worst oceanic oil spill in recorded history. ](/news/2010/07/1/according-to-recent-estimates-the-deepwater-horizon-oil-spill-has-overtaken-ixtoc-i-in-volume-to-become-the-united-states-worst-oceanic-oi.md) _(Current version)_
 
 ### Related:

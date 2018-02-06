@@ -16,8 +16,8 @@ THE UN Security Council has unanimously backed sending up to 12,600 internationa
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012apresent-pthe-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-an.md) _2017-08-25 03:38:28 (First version)_
-2. [Northern Mali conflict (2012-present):: The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012-present-the-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-a.md) _2017-08-27 03:38:41 (Update)_
+1. [Northern Mali conflict (2012-present):The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012apresent-pthe-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-an.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012-present-the-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-a.md) _2018-02-06 13:49:24 (Update)_
 2. [The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/the-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-and-african-forces-battling-islamist-guerri.md) _(Current version)_
 
 ### Related:

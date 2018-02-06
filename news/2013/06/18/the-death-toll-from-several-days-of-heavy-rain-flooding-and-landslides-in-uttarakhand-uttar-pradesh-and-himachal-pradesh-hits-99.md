@@ -16,8 +16,8 @@ The rains left 102 people dead in Uttarakhand, almost as many injured, and smash
 
 ### Changes:
 
-1. [2013 North India floods:The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-pthe-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himacha.md) _2017-08-25 03:38:52 (First version)_
-2. [2013 North India floods:: The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himach.md) _2017-08-27 03:39:06 (Update)_
+1. [2013 North India floods:: The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himach.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 North India floods:The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-pthe-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himacha.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himachal-pradesh-hits-99.md) _(Current version)_
 
 ### Related:

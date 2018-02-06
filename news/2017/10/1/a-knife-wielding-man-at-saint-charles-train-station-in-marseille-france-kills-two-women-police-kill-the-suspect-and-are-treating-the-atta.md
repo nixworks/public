@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-stat
 
 ### Changes:
 
-1. [Two women are killed by a knife-wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. ](/news/2017/10/1/two-women-are-killed-by-a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-the-suspect-is-killed-by-police-who-are-t.md) _2017-10-01 18:30:06 (First version)_
+1. [Two women are killed by a knife-wielding man at Saint Charles train station in Marseille, France. The suspect is killed by police, who are treating the attack as a terrorist incident. ](/news/2017/10/1/two-women-are-killed-by-a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-the-suspect-is-killed-by-police-who-are-t.md) _2018-02-06 13:49:31 (First version)_
 1. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _(Current version)_
 
 ### Related:

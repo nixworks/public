@@ -17,7 +17,7 @@ Republicans faced their first defeat, failing to pass a measure that they&#x27;v
 
 ### Changes:
 
-1. [Efforts to repeal Obamacare: The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/efforts-to-repeal-obamacare-the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _2017-08-27 03:48:43 (First version)_
+1. [Efforts to repeal Obamacare: The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/efforts-to-repeal-obamacare-the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third
 
 ### Changes:
 
-1. [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he.md) _2017-08-25 03:21:11 (First version)_
+1. [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he-w.md) _(Current version)_
 
 ### Related:

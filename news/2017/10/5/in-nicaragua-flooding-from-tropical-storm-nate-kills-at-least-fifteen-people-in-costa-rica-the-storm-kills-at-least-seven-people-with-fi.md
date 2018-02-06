@@ -19,7 +19,7 @@ The Latest on Tropical Storm Nate (all times local): 5:30 p.m. Louisiana Gov. Jo
 
 ### Changes:
 
-1. [In Nicaragua, flooding from Tropical Storm Nate, kills at least 15 people. In Costa Rica, the storm kills at least seven people with 15 others missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-15-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-15-othe.md) _2017-10-06 00:30:06 (First version)_
+1. [In Nicaragua, flooding from Tropical Storm Nate, kills at least 15 people. In Costa Rica, the storm kills at least seven people with 15 others missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-15-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-15-othe.md) _2018-02-06 13:49:31 (First version)_
 1. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ As thousands of residents of Chennai and suburbs were rescued from inundated are
 
 ### Changes:
 
-1. [2015 South Indian floods: Many parts of Chennai still remain flooded, including almost all of South Chennai. Food and other basics are in short supply throughout the city. ](/news/2015/12/4/2015-south-indian-floods-many-parts-of-chennai-still-remain-flooded-including-almost-all-of-south-chennai-food-and-other-basics-are-in-sh.md) _2017-08-27 03:44:11 (First version)_
+1. [2015 South Indian floods: Many parts of Chennai still remain flooded, including almost all of South Chennai. Food and other basics are in short supply throughout the city. ](/news/2015/12/4/2015-south-indian-floods-many-parts-of-chennai-still-remain-flooded-including-almost-all-of-south-chennai-food-and-other-basics-are-in-sh.md) _2018-02-06 13:49:28 (First version)_
 1. [Many parts of Chennai still remain flooded, including almost all of South Chennai. Food and other basics are in short supply throughout the city. ](/news/2015/12/4/many-parts-of-chennai-still-remain-flooded-including-almost-all-of-south-chennai-food-and-other-basics-are-in-short-supply-throughout-the.md) _(Current version)_
 
 ### Related:

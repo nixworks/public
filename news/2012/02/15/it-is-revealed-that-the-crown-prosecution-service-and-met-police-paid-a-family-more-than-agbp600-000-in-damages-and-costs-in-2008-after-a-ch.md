@@ -17,7 +17,7 @@ A family was paid more than £600,000 in damages and costs by the Crown Prosecut
 
 ### Changes:
 
-1. [It is revealed that the Crown Prosecution Service and Met Police paid a family more than PS600,000 in damages and costs in 2008 after a child witness was identified to a gang. It is believed to be one of the largest of its kind. ](/news/2012/02/15/it-is-revealed-that-the-crown-prosecution-service-and-met-police-paid-a-family-more-than-aps600-000-in-damages-and-costs-in-2008-after-a-chil.md) _2017-08-25 03:35:04 (First version)_
+1. [It is revealed that the Crown Prosecution Service and Met Police paid a family more than PS600,000 in damages and costs in 2008 after a child witness was identified to a gang. It is believed to be one of the largest of its kind. ](/news/2012/02/15/it-is-revealed-that-the-crown-prosecution-service-and-met-police-paid-a-family-more-than-aps600-000-in-damages-and-costs-in-2008-after-a-chil.md) _2018-02-06 13:49:23 (First version)_
 1. [It is revealed that the Crown Prosecution Service and Met Police paid a family more than GBP600,000 in damages and costs in 2008 after a child witness was identified to a gang. It is believed to be one of the largest of its kind. ](/news/2012/02/15/it-is-revealed-that-the-crown-prosecution-service-and-met-police-paid-a-family-more-than-agbp600-000-in-damages-and-costs-in-2008-after-a-ch.md) _(Current version)_
 
 ### Related:

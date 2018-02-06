@@ -16,7 +16,7 @@ The owner of the News of the World says sorry over the phone hacking scandal and
 
 ### Changes:
 
-1. [The Rupert Murdoch-owned News International admits liability in several cases brought against ''The News of the World'' newspaper for alleged phone hacking, and issues an "unreserved apology". ](/news/2011/04/8/the-rupert-murdoch-owned-news-international-admits-liability-in-several-cases-brought-against-the-news-of-the-world-newspaper-for-allege.md) _2017-08-25 03:32:46 (First version)_
+1. [The Rupert Murdoch-owned News International admits liability in several cases brought against ''The News of the World'' newspaper for alleged phone hacking, and issues an "unreserved apology". ](/news/2011/04/8/the-rupert-murdoch-owned-news-international-admits-liability-in-several-cases-brought-against-the-news-of-the-world-newspaper-for-allege.md) _2018-02-06 13:49:22 (First version)_
 1. [The Rupert Murdoch-owned News International admits liability in several cases brought against "The News of the World" newspaper for alleged phone hacking, and issues an "unreserved apology". ](/news/2011/04/8/the-rupert-murdoch-owned-news-international-admits-liability-in-several-cases-brought-against-the-news-of-the-world-newspaper-for-alleged.md) _(Current version)_
 
 ### Related:

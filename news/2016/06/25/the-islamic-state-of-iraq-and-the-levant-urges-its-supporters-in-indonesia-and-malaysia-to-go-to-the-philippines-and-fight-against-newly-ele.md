@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-
 
 ### Changes:
 
-1. [Moro conflict: The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/moro-conflict-the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-ag.md) _2017-08-27 03:46:20 (First version)_
+1. [Moro conflict: The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/moro-conflict-the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-ag.md) _2018-02-06 13:49:29 (First version)_
 1. [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/9/hong-kong-starts-closing-schools-as-typhoon-linf
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Hong Kong starts closing schools as Typhoon Linfa approaches. ](/news/2015/07/9/2015-pacific-typhoon-season-hong-kong-starts-closing-schools-as-typhoon-linfa-approaches.md) _2017-08-27 03:42:40 (First version)_
+1. [2015 Pacific typhoon season: Hong Kong starts closing schools as Typhoon Linfa approaches. ](/news/2015/07/9/2015-pacific-typhoon-season-hong-kong-starts-closing-schools-as-typhoon-linfa-approaches.md) _2018-02-06 13:49:27 (First version)_
 1. [Hong Kong starts closing schools as Typhoon Linfa approaches. ](/news/2015/07/9/hong-kong-starts-closing-schools-as-typhoon-linfa-approaches.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ UN Secretary General Ban Ki-moon says Syria has failed to comply with a peace pl
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-psyrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-of.md) _2017-08-25 03:35:32 (First version)_
-2. [Arab Spring:: Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-syrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-o.md) _2017-08-27 03:35:41 (Update)_
+1. [Arab Spring:: Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-syrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-o.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-psyrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-of.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/syrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-of-urban-areas.md) _(Current version)_
 
 ### Related:

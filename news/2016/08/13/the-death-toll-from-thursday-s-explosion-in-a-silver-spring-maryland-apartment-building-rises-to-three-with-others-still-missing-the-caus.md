@@ -16,7 +16,7 @@ Another body has been found after an explosion and fire ripped through at a Mary
 
 ### Changes:
 
-1. [The death toll from Thursday's explosion in a Silver Spring, Maryland, apartment building rises to three with others still missing. The cause of the blast has not yet been officially determined. ](/news/2016/08/13/the-death-toll-from-thursday-s-explosion-in-a-silver-spring-maryland-apartment-building-rises-to-three-with-others-still-missing-the-cau.md) _2017-08-25 03:46:16 (First version)_
+1. [The death toll from Thursday's explosion in a Silver Spring, Maryland, apartment building rises to three with others still missing. The cause of the blast has not yet been officially determined. ](/news/2016/08/13/the-death-toll-from-thursday-s-explosion-in-a-silver-spring-maryland-apartment-building-rises-to-three-with-others-still-missing-the-cau.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll from Thursday's explosion in a Silver Spring, Maryland, apartment building rises to three with others still missing. The cause of the blast has not yet been officially determined. ](/news/2016/08/13/the-death-toll-from-thursday-s-explosion-in-a-silver-spring-maryland-apartment-building-rises-to-three-with-others-still-missing-the-caus.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ _Context: Denmark, Libya, National Transitional Council_
 
 ##### army
 ### [Philippine Army soldiers capture five suspected members of the terrorist group Abu Sayyaf in a raid on Basilan Island. ](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.md)
-_Context: terrorism, Basilan Island, army, Abu Sayyaf_
+_Context: Basilan Island, terrorism, army, Abu Sayyaf_
 
 ##### Belfast
 ### [A photographer is shot during violence in east Belfast in Northern Ireland. ](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.md)
@@ -41,35 +41,35 @@ Greek PM George Papandreou tries to persuade MPs to pass further austerity measu
 
 ##### Rolls-Royce
 ### [Rolls-Royce and Qantas announce an out-of-court settlement of their dispute over an Airbus engine explosion over Indonesia in November 2010. ](/news/2011/06/22/rolls-royce-and-qantas-announce-an-out-of-court-settlement-of-their-dispute-over-an-airbus-engine-explosion-over-indonesia-in-november-2010.md)
-_Context: Airbus, Qantas, Rolls-Royce, Indonesia_
+_Context: Qantas, Indonesia, Airbus, Rolls-Royce_
 
 ##### Australia
 ### [Flights resume in southeast Australia as the volcanic ash cloud from the 2011 Puyehue-Cordon Caulle eruption clears although flights to Tasmania and New Zealand are still affected. ](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.md)
-_Context: Australia, Tasmania, New Zealand, 2011 Puyehue-Cordon Caulle eruption_
+_Context: New Zealand, 2011 Puyehue-Cordon Caulle eruption, Australia, Tasmania_
 
 ##### China
 ### [Officials from the People's Republic of China warn that the 2011 China floods will have a negative impact on food prices. ](/news/2011/06/22/officials-from-the-people-s-republic-of-china-warn-that-the-2011-china-floods-will-have-a-negative-impact-on-food-prices.md)
-_Context: heavy flood, China_
+_Context: China, heavy flood_
 
 ##### RusAir Flight 9605
 ### [The death toll from RusAir Flight 9605 in Petrozavodsk, Russia, rises to 45. ](/news/2011/06/22/the-death-toll-from-rusair-flight-9605-in-petrozavodsk-russia-rises-to-45.md)
-_Context: RusAir Flight 9605, Petrozavodsk, Russia_
+_Context: Russia, RusAir Flight 9605, Petrozavodsk_
 
 ##### tornado
 ### [A tornado touches down in the US city of Louisville, Kentucky near the University of Louisville Belknap campus, damaging some buildings at the Churchill Downs horse racing track. ](/news/2011/06/22/a-tornado-touches-down-in-the-us-city-of-louisville-kentucky-near-the-university-of-louisville-belknap-campus-damaging-some-buildings-at-t.md)
-_Context: Churchill Downs, University of Louisville, tornado, Louisville, Kentucky, Kentucky_
+_Context: Churchill Downs, University of Louisville, Louisville, Kentucky, tornado, Kentucky_
 
 ##### Indonesia
 ### [Indonesia bans its domestic servants from working in Saudi Arabia following the execution of a maid who was beheaded with a sword. ](/news/2011/06/22/indonesia-bans-its-domestic-servants-from-working-in-saudi-arabia-following-the-execution-of-a-maid-who-was-beheaded-with-a-sword.md)
-_Context: Saudi Arabia, Indonesia_
+_Context: Indonesia, Saudi Arabia_
 
 ##### South Korea
 ### [South Korea announces that it will build a new resettlement centre for refugees from North Korea. ](/news/2011/06/22/south-korea-announces-that-it-will-build-a-new-resettlement-centre-for-refugees-from-north-korea.md)
-_Context: refugee, North Korea, South Korea_
+_Context: refugee, South Korea, North Korea_
 
 ##### President of Sudan
 ### [President of Sudan Omar al-Bashir threatens to cut off pipelines carrying Southern Sudanese petroleum (oil) on July 1 unless a deal is done. ](/news/2011/06/22/president-of-sudan-omar-al-bashir-threatens-to-cut-off-pipelines-carrying-southern-sudanese-petroleum-oil-on-july-1-unless-a-deal-is-done.md)
-_Context: petroleum, Southern Sudan, Omar al-Bashir, President of Sudan_
+_Context: Omar al-Bashir, Southern Sudan, President of Sudan, petroleum_
 
 ##### China
 ### [Chinese artist and dissident Ai Weiwei is freed on bail. Under the terms of his bail agreement, he is not permitted to disclose the reason for his arrest and detention. ](/news/2011/06/22/chinese-artist-and-dissident-ai-weiwei-is-freed-on-bail-under-the-terms-of-his-bail-agreement-he-is-not-permitted-to-disclose-the-reason-f.md)
@@ -81,7 +81,7 @@ The High Court has been told that the State has an obligation to compensate thos
 
 ##### Magadan
 ### [Journalist Anatoly Bitkov, the chief editor of the Kolyma Plus TV channel, is found dead in his apartment in the town of Magadan in the Russian Far East. ](/news/2011/06/22/journalist-anatoly-bitkov-the-chief-editor-of-the-kolyma-plus-tv-channel-is-found-dead-in-his-apartment-in-the-town-of-magadan-in-the-russ.md)
-_Context: Magadan, Far East_
+_Context: Far East, Magadan_
 
 ##### 
 ### [In the United Kingdom, the first coordinated, nationwide Police National Database is launched, making information easier to share between forces ](/news/2011/06/22/in-the-united-kingdom-the-first-coordinated-nationwide-police-national-database-is-launched-making-information-easier-to-share-between-fo.md)
@@ -89,7 +89,7 @@ The personal details of 15 million people, a quarter of the population of Britai
 
 ##### Fugitive
 ### [Fugitive alleged Boston crime boss James J. Bulger is arrested in the US city of Santa Monica, California. ](/news/2011/06/22/fugitive-alleged-boston-crime-boss-james-j-bulger-is-arrested-in-the-us-city-of-santa-monica-california.md)
-_Context: California, Fugitive, James J. Bulger, Santa Monica, California, Boston, Massachusetts_
+_Context: California, Fugitive, Santa Monica, California, James J. Bulger, Boston, Massachusetts_
 
 ##### London
 ### [A vigil is held in London to demand the release of journalist Urunboy Usmonov, imprisoned by authorities in Tajikistan last week. Usmonov is reported to be in ill health. ](/news/2011/06/22/a-vigil-is-held-in-london-to-demand-the-release-of-journalist-urunboy-usmonov-imprisoned-by-authorities-in-tajikistan-last-week-usmonov-is.md)
@@ -101,7 +101,7 @@ _Context: Belarus, Government_
 
 ##### Japan
 ### [The Japanese Diet votes to extend its session until August 31 so that it can consider key legislation. ](/news/2011/06/22/the-japanese-diet-votes-to-extend-its-session-until-august-31-so-that-it-can-consider-key-legislation.md)
-_Context: Japan, Diet_
+_Context: Diet, Japan_
 
 ## [Previous Day...](/news/2011/06/21/index.md)
 

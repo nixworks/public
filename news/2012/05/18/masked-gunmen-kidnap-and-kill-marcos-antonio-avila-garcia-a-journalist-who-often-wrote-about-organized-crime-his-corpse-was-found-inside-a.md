@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/05/18/masked-gunmen-kidnap-and-kill-marcos-antonio-av
 
 ### Changes:
 
-1. [Mexican Drug War:Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/mexican-drug-war-pmasked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse.md) _2017-08-25 03:35:43 (First version)_
-2. [Mexican Drug War:: Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/mexican-drug-war-masked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse.md) _2017-08-27 03:35:54 (Update)_
+1. [Mexican Drug War:Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/mexican-drug-war-pmasked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/mexican-drug-war-masked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse.md) _2018-02-06 13:49:23 (Update)_
 2. [Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/masked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse-was-found-inside-a.md) _(Current version)_
 
 ### Related:

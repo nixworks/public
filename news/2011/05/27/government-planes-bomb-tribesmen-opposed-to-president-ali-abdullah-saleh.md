@@ -18,8 +18,8 @@ The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali
 
 ### Changes:
 
-1. [2011 Yemeni protests:Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _2017-08-25 03:33:16 (First version)_
-2. [2011 Yemeni protests:: Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _2017-08-27 03:33:26 (Update)_
+1. [2011 Yemeni protests:Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _2018-02-06 13:49:22 (Update)_
 2. [Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _(Current version)_
 
 ### Related:

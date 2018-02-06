@@ -16,8 +16,8 @@ Three people are killed in fresh clashes between Muslim Brotherhood supporters a
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present):Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/islamist-protests-in-egypt-july-2013apresent-pthree-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-across.md) _2017-08-25 03:39:46 (First version)_
-2. [Islamist protests in Egypt (July 2013-present):: Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/islamist-protests-in-egypt-july-2013-present-three-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-acros.md) _2017-08-27 03:40:05 (Update)_
+1. [Islamist protests in Egypt (July 2013-present):Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/islamist-protests-in-egypt-july-2013apresent-pthree-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-across.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/islamist-protests-in-egypt-july-2013-present-three-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-acros.md) _2018-02-06 13:49:25 (Update)_
 2. [Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/three-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-across-egypt.md) _(Current version)_
 
 ### Related:

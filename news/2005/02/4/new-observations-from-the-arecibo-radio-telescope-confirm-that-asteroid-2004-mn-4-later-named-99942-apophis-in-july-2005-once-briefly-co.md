@@ -16,7 +16,7 @@ An asteroid expected to fly past Earth in 2029 inside the orbits of some satelli
 
 ### Changes:
 
-1. [ New observations from the Arecibo radio telescope confirm that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005), once briefly considered an impact risk, will pass Earth on April 13 2029 at a distance of 36,350 km (22,600 mi) and will reach magnitude 3.3, easily visible to the naked eye from Europe, Africa and western Asia. ](/news/2005/02/4/new-observations-from-the-arecibo-radio-telescope-confirm-that-asteroid-2004-mn4-later-named-99942-apophis-in-july-2005-once-briefly-con.md) _2017-10-02 03:17:42 (First version)_
+1. [ New observations from the Arecibo radio telescope confirm that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005), once briefly considered an impact risk, will pass Earth on April 13 2029 at a distance of 36,350 km (22,600 mi) and will reach magnitude 3.3, easily visible to the naked eye from Europe, Africa and western Asia. ](/news/2005/02/4/new-observations-from-the-arecibo-radio-telescope-confirm-that-asteroid-2004-mn4-later-named-99942-apophis-in-july-2005-once-briefly-con.md) _2018-02-06 13:49:16 (First version)_
 1. [ New observations from the Arecibo radio telescope confirm that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005), once briefly considered an impact risk, will pass Earth on April 13 2029 at a distance of 36,350 km (22,600 mi) and will reach magnitude 3.3, easily visible to the naked eye from Europe, Africa and western Asia. ](/news/2005/02/4/new-observations-from-the-arecibo-radio-telescope-confirm-that-asteroid-2004-mn-4-later-named-99942-apophis-in-july-2005-once-briefly-co.md) _(Current version)_
 
 ### Related:

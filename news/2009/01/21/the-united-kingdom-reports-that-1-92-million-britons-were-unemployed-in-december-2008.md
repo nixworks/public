@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-br
 
 ### [2009-01-21](/news/2009/01/21/index.md)
 
-##### British
+##### United Kingdom
 #  The United Kingdom reports that 1.92 million Britons were unemployed in December 2008. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-br
 
 ### Related:
 
-1. [U.S. President Barack Obama, in an op-ed in London's "Daily Telegraph", urges Britons to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-obam.md) _Context: British, British_
-2. [ All pleas to halt British hacker Gary McKinnon being extradited to the United States to face trial for breaking into NASA and military computers looking for UFO evidence fail as UK Home Secretary orders his extradition. ](/news/2009/11/26/all-pleas-to-halt-british-hacker-gary-mckinnon-being-extradited-to-the-united-states-to-face-trial-for-breaking-into-nasa-and-military-comp.md) _Context: British, British_
-3. [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md) _Context: British, Unemployment_
-4. [ The United Kingdom's consumer price inflation falls from 4.1% in November 2008 to 3.1% in December 2008. ](/news/2009/01/20/the-united-kingdom-s-consumer-price-inflation-falls-from-4-1-in-november-2008-to-3-1-in-december-2008.md) _Context: 2008, British_
-5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+1. [U.S. President Barack Obama, in an op-ed in London's "Daily Telegraph", urges Britons to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-obam.md) _Context: British, United Kingdom_
+2. [ All pleas to halt British hacker Gary McKinnon being extradited to the United States to face trial for breaking into NASA and military computers looking for UFO evidence fail as UK Home Secretary orders his extradition. ](/news/2009/11/26/all-pleas-to-halt-british-hacker-gary-mckinnon-being-extradited-to-the-united-states-to-face-trial-for-breaking-into-nasa-and-military-comp.md) _Context: British, United Kingdom_
+3. [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md) _Context: Unemployment, United Kingdom_
+4. [ The United Kingdom's consumer price inflation falls from 4.1% in November 2008 to 3.1% in December 2008. ](/news/2009/01/20/the-united-kingdom-s-consumer-price-inflation-falls-from-4-1-in-november-2008-to-3-1-in-december-2008.md) _Context: 2008, United Kingdom_
+5. [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md) _Context: United Kingdom_

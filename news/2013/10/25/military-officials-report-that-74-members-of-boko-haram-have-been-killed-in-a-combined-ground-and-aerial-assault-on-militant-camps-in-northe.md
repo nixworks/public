@@ -16,8 +16,8 @@ Nigerian troops killed 74 members of Boko Haram in an air and ground assault, th
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/islamist-insurgency-in-nigeria-pmilitary-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-ass.md) _2017-08-25 03:39:26 (First version)_
-2. [Islamist insurgency in Nigeria:: Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/islamist-insurgency-in-nigeria-military-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-as.md) _2017-08-27 03:39:43 (Update)_
+1. [Islamist insurgency in Nigeria:Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/islamist-insurgency-in-nigeria-pmilitary-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-ass.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/islamist-insurgency-in-nigeria-military-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-as.md) _2018-02-06 13:49:25 (Update)_
 2. [Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/military-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-assault-on-militant-camps-in-northe.md) _(Current version)_
 
 ### Related:

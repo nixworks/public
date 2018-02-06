@@ -18,7 +18,7 @@ Economic growth expanded only modestly in the first three months of the year, re
 
 ### Changes:
 
-1. [ Economy of the United States: The Bush administration brings back the one year Treasury bill in order to cope with rising budget deficits. ](/news/2008/04/30/economy-of-the-united-states-the-bush-administration-brings-back-the-one-year-treasury-bill-in-order-to-cope-with-rising-budget-deficits.md) _2017-08-27 03:21:59 (First version)_
+1. [ Economy of the United States: The Bush administration brings back the one year Treasury bill in order to cope with rising budget deficits. ](/news/2008/04/30/economy-of-the-united-states-the-bush-administration-brings-back-the-one-year-treasury-bill-in-order-to-cope-with-rising-budget-deficits.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Bush administration brings back the one year Treasury bill in order to cope with rising budget deficits. ](/news/2008/04/30/the-bush-administration-brings-back-the-one-year-treasury-bill-in-order-to-cope-with-rising-budget-deficits.md) _(Current version)_
 
 ### Related:

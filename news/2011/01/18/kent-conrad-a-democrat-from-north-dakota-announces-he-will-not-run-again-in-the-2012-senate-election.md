@@ -17,8 +17,8 @@ Sen. Kent Conrad said Tuesday he wants to concentrate on the problems facing Ame
 
 ### Changes:
 
-1. [United States Senate:Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/united-states-senate-pkent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _2017-08-25 03:31:50 (First version)_
-2. [United States Senate:: Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/united-states-senate-kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _2017-08-27 03:31:58 (Update)_
+1. [United States Senate:Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/united-states-senate-pkent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _2018-02-06 13:49:21 (First version)_
+2. [United States Senate:: Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/united-states-senate-kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _2018-02-06 13:49:21 (Update)_
 2. [Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _(Current version)_
 
 ### Related:

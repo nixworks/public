@@ -16,7 +16,7 @@ USAA, one of the nation’s largest issuers of debit cards and credit cards, is 
 
 ### Changes:
 
-1. [USAA, one of the largest financial services companies in the U.S., announced the ending of its long-term relationship with MasterCard. The tenth-largest credit card issuer in the U.S. will replace the old credit cards with Visa cards next year. ](/news/2015/10/26/usaa-one-of-the-largest-financial-services-companies-in-the-u-s-announced-the-ending-of-its-long-term-relationship-with-mastercard-the.md) _2017-08-25 03:43:13 (First version)_
+1. [USAA, one of the largest financial services companies in the U.S., announced the ending of its long-term relationship with MasterCard. The tenth-largest credit card issuer in the U.S. will replace the old credit cards with Visa cards next year. ](/news/2015/10/26/usaa-one-of-the-largest-financial-services-companies-in-the-u-s-announced-the-ending-of-its-long-term-relationship-with-mastercard-the.md) _2018-02-06 13:49:28 (First version)_
 1. [USAA, one of the largest financial services companies in the U.S., announced the ending of its long-term relationship with MasterCard. The tenth-largest credit card issuer in the U.S. will replace the old credit cards with Visa cards next year. ](/news/2015/10/26/usaa-one-of-the-largest-financial-services-companies-in-the-u-s-announced-the-ending-of-its-long-term-relationship-with-mastercard-the-t.md) _(Current version)_
 
 ### Related:

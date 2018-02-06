@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/2016-pacific-typhoon-season-taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _2017-08-27 03:46:54 (First version)_
+1. [2016 Pacific typhoon season: Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/2016-pacific-typhoon-season-taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _2018-02-06 13:49:29 (First version)_
 1. [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _(Current version)_
 
 ### Related:

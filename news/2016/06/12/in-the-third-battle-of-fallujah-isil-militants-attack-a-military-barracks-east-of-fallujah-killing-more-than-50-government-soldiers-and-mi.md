@@ -15,7 +15,7 @@ Government forces and allied Shia militias targeted east of Iraqi city, leaving 
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): In the Third Battle of Fallujah, ISIL militants attack a military barracks east of Fallujah, killing more than 50 government soldiers and militia members. At least 12 militants were also killed in the assault. ](/news/2016/06/12/iraqi-civil-war-2014-present-in-the-third-battle-of-fallujah-isil-militants-attack-a-military-barracks-east-of-fallujah-killing-more.md) _2017-08-27 03:46:15 (First version)_
+1. [Iraqi Civil War (2014-present): In the Third Battle of Fallujah, ISIL militants attack a military barracks east of Fallujah, killing more than 50 government soldiers and militia members. At least 12 militants were also killed in the assault. ](/news/2016/06/12/iraqi-civil-war-2014-present-in-the-third-battle-of-fallujah-isil-militants-attack-a-military-barracks-east-of-fallujah-killing-more.md) _2018-02-06 13:49:29 (First version)_
 1. [In the Third Battle of Fallujah, ISIL militants attack a military barracks east of Fallujah, killing more than 50 government soldiers and militia members. At least 12 militants were also killed in the assault. ](/news/2016/06/12/in-the-third-battle-of-fallujah-isil-militants-attack-a-military-barracks-east-of-fallujah-killing-more-than-50-government-soldiers-and-mi.md) _(Current version)_
 
 ### Related:

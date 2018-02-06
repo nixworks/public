@@ -19,7 +19,7 @@ More than 40 people are arrested after rioting saw police attacked, buildings lo
 
 ### Changes:
 
-1. [2011 London riots: The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. ](/news/2011/08/7/2011-london-riots-the-metropolitan-police-service-restores-order-in-tottenham-north-london-after-a-riot-on-saturday-night-in-which-twenty.md) _2017-08-27 03:34:05 (First version)_
+1. [2011 London riots: The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. ](/news/2011/08/7/2011-london-riots-the-metropolitan-police-service-restores-order-in-tottenham-north-london-after-a-riot-on-saturday-night-in-which-twenty.md) _2018-02-06 13:49:22 (First version)_
 1. [The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. ](/news/2011/08/7/the-metropolitan-police-service-restores-order-in-tottenham-north-london-after-a-riot-on-saturday-night-in-which-twenty-six-police-officer.md) _(Current version)_
 
 ### Related:

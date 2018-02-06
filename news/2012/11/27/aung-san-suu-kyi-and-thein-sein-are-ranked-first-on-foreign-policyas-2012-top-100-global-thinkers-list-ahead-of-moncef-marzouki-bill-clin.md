@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-firs
 
 ### Changes:
 
-1. [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy-s 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policy-s-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md) _2017-08-27 03:37:03 (First version)_
+1. [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy-s 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policy-s-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md) _2018-02-06 13:49:24 (First version)_
 1. [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy's 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policyas-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md) _(Current version)_
 
 ### Related:

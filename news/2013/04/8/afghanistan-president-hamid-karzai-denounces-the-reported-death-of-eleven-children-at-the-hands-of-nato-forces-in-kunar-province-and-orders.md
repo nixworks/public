@@ -17,8 +17,8 @@ President Hamid Karzai denounces reported death of 11 children by NATO forces in
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001apresent-pafghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato.md) _2017-08-25 03:38:14 (First version)_
-2. [War in Afghanistan (2001-present):: Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001-present-afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nat.md) _2017-08-27 03:38:26 (Update)_
+1. [War in Afghanistan (2001-present):Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001apresent-pafghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001-present-afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nat.md) _2018-02-06 13:49:24 (Update)_
 2. [Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.md) _(Current version)_
 
 ### Related:

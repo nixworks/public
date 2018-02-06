@@ -16,8 +16,8 @@ Suspected Boko Haram militants in Nigeria opened fire on villagers who had gathe
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/islamist-insurgency-in-nigeria-psuspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidugu.md) _2017-08-25 03:40:30 (First version)_
-2. [Islamist insurgency in Nigeria:: Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidug.md) _2017-08-27 03:40:48 (Update)_
+1. [Islamist insurgency in Nigeria:: Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidug.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/islamist-insurgency-in-nigeria-psuspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidugu.md) _2018-02-06 13:49:26 (Update)_
 2. [Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/suspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maiduguri-killing-approximately-45-peo.md) _(Current version)_
 
 ### Related:

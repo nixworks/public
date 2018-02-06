@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/10/7/at-least-twenty-nine-iraqi-fighters-and-six-u-s-
 
 ### Changes:
 
-1. [ Conflict in Iraq: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-p-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md) _2017-08-25 03:16:55 (First version)_
-2. [ Conflict in Iraq:: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md) _2017-08-27 03:16:55 (Update)_
+1. [ Conflict in Iraq: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-p-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md) _2018-02-06 13:49:16 (Update)_
 2. [ At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md) _(Current version)_
 
 ### Related:

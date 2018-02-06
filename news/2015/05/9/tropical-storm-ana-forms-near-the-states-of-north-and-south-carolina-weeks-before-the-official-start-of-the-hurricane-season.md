@@ -16,7 +16,7 @@ Ana has weakened but will still continue to soak eastern North Carolina through 
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Tropical storm Ana forms near the states of North and South Carolina weeks before the official start of the hurricane season. ](/news/2015/05/9/2015-atlantic-hurricane-season-tropical-storm-ana-forms-near-the-states-of-north-and-south-carolina-weeks-before-the-official-start-of-the.md) _2017-08-27 03:42:17 (First version)_
+1. [2015 Atlantic hurricane season: Tropical storm Ana forms near the states of North and South Carolina weeks before the official start of the hurricane season. ](/news/2015/05/9/2015-atlantic-hurricane-season-tropical-storm-ana-forms-near-the-states-of-north-and-south-carolina-weeks-before-the-official-start-of-the.md) _2018-02-06 13:49:27 (First version)_
 1. [Tropical storm Ana forms near the states of North and South Carolina weeks before the official start of the hurricane season. ](/news/2015/05/9/tropical-storm-ana-forms-near-the-states-of-north-and-south-carolina-weeks-before-the-official-start-of-the-hurricane-season.md) _(Current version)_
 
 ### Related:

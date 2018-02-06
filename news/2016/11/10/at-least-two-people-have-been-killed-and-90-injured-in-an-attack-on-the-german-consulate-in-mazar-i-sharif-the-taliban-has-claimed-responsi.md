@@ -16,7 +16,7 @@ At least two people were killed and 84 wounded when the insurgents struck with a
 
 ### Changes:
 
-1. [German consulate in Mazar-i-Sharif attack: At least two people have been killed and 90 injured in an attack on the German consulate in Mazar-i-Sharif. The Taliban has claimed responsibility. ](/news/2016/11/10/german-consulate-in-mazar-i-sharif-attack-at-least-two-people-have-been-killed-and-90-injured-in-an-attack-on-the-german-consulate-in-mazar.md) _2017-08-27 03:47:13 (First version)_
+1. [German consulate in Mazar-i-Sharif attack: At least two people have been killed and 90 injured in an attack on the German consulate in Mazar-i-Sharif. The Taliban has claimed responsibility. ](/news/2016/11/10/german-consulate-in-mazar-i-sharif-attack-at-least-two-people-have-been-killed-and-90-injured-in-an-attack-on-the-german-consulate-in-mazar.md) _2018-02-06 13:49:29 (First version)_
 1. [At least two people have been killed and 90 injured in an attack on the German consulate in Mazar-i-Sharif. The Taliban has claimed responsibility. ](/news/2016/11/10/at-least-two-people-have-been-killed-and-90-injured-in-an-attack-on-the-german-consulate-in-mazar-i-sharif-the-taliban-has-claimed-responsi.md) _(Current version)_
 
 ### Related:

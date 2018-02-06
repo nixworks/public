@@ -18,8 +18,8 @@ The BBC was forced to replace a tranche of senior news executives following a da
 
 ### Changes:
 
-1. [Jimmy Savile sexual abuse scandal:The Pollard report into practices at the BBC is published, and finds there was a "complete inability" to deal with the Jimmy Savile crisis. ](/news/2012/12/19/jimmy-savile-sexual-abuse-scandal-pthe-pollard-report-into-practices-at-the-bbc-is-published-and-finds-there-was-a-acomplete-inabilitya.md) _2017-08-25 03:37:04 (First version)_
-2. [Jimmy Savile sexual abuse scandal:: The Pollard report into practices at the BBC is published, and finds there was a -complete inability- to deal with the Jimmy Savile crisis. ](/news/2012/12/19/jimmy-savile-sexual-abuse-scandal-the-pollard-report-into-practices-at-the-bbc-is-published-and-finds-there-was-a-complete-inability.md) _2017-08-27 03:37:15 (Update)_
+1. [Jimmy Savile sexual abuse scandal:: The Pollard report into practices at the BBC is published, and finds there was a -complete inability- to deal with the Jimmy Savile crisis. ](/news/2012/12/19/jimmy-savile-sexual-abuse-scandal-the-pollard-report-into-practices-at-the-bbc-is-published-and-finds-there-was-a-complete-inability.md) _2018-02-06 13:49:24 (First version)_
+2. [Jimmy Savile sexual abuse scandal:The Pollard report into practices at the BBC is published, and finds there was a "complete inability" to deal with the Jimmy Savile crisis. ](/news/2012/12/19/jimmy-savile-sexual-abuse-scandal-pthe-pollard-report-into-practices-at-the-bbc-is-published-and-finds-there-was-a-acomplete-inabilitya.md) _2018-02-06 13:49:24 (Update)_
 2. [The Pollard report into practices at the BBC is published, and finds there was a "complete inability" to deal with the Jimmy Savile crisis. ](/news/2012/12/19/the-pollard-report-into-practices-at-the-bbc-is-published-and-finds-there-was-a-acomplete-inabilitya-to-deal-with-the-jimmy-savile-cris.md) _(Current version)_
 
 ### Related:

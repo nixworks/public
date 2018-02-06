@@ -17,7 +17,7 @@ Thousands in Istanbul greet the Mavi Marmara, the ship on which protesters were 
 
 ### Changes:
 
-1. [Thousands of people shouting "death to Israel" gather at Sarayburnu port in Istanbul to welcome back the MV ''Mavi Marmara'', draped with a banner containing faces of the 9 people killed during the Gaza flotilla raid. ](/news/2010/12/26/thousands-of-people-shouting-death-to-israel-gather-at-sarayburnu-port-in-istanbul-to-welcome-back-the-mv-mavi-marmara-draped-with-a.md) _2017-08-25 03:31:33 (First version)_
+1. [Thousands of people shouting "death to Israel" gather at Sarayburnu port in Istanbul to welcome back the MV ''Mavi Marmara'', draped with a banner containing faces of the 9 people killed during the Gaza flotilla raid. ](/news/2010/12/26/thousands-of-people-shouting-death-to-israel-gather-at-sarayburnu-port-in-istanbul-to-welcome-back-the-mv-mavi-marmara-draped-with-a.md) _2018-02-06 13:49:21 (First version)_
 1. [Thousands of people shouting "death to Israel" gather at Sarayburnu port in Istanbul to welcome back the MV "Mavi Marmara", draped with a banner containing faces of the 9 people killed during the Gaza flotilla raid. ](/news/2010/12/26/thousands-of-people-shouting-death-to-israel-gather-at-sarayburnu-port-in-istanbul-to-welcome-back-the-mv-mavi-marmara-draped-with-a-ba.md) _(Current version)_
 
 ### Related:

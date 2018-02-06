@@ -17,7 +17,7 @@ A roof collapses during a church ceremony in south-eastern Nigeria, killing at l
 
 ### Changes:
 
-1. [Uyo church collapse: At least 60 are killed in a collapse of a church in Uyo, Nigeria. ](/news/2016/12/10/uyo-church-collapse-at-least-60-are-killed-in-a-collapse-of-a-church-in-uyo-nigeria.md) _2017-08-27 03:47:25 (First version)_
+1. [Uyo church collapse: At least 60 are killed in a collapse of a church in Uyo, Nigeria. ](/news/2016/12/10/uyo-church-collapse-at-least-60-are-killed-in-a-collapse-of-a-church-in-uyo-nigeria.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 60 are killed in a collapse of a church in Uyo, Nigeria. ](/news/2016/12/10/at-least-60-are-killed-in-a-collapse-of-a-church-in-uyo-nigeria.md) _(Current version)_
 
 ### Related:

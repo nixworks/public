@@ -16,8 +16,8 @@ In a bid to appease protesters, the Syrian president continues to make new gover
 
 ### Changes:
 
-1. [2011 Syrian protests:Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/2011-syrian-protests-psyrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprece.md) _2017-08-25 03:32:44 (First version)_
-2. [2011 Syrian protests:: Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/2011-syrian-protests-syrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprec.md) _2017-08-27 03:32:52 (Update)_
+1. [2011 Syrian protests:: Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/2011-syrian-protests-syrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprec.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/2011-syrian-protests-psyrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprece.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/syrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprecedented-protests-agains.md) _(Current version)_
 
 ### Related:

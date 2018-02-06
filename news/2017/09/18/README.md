@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/18/index.html)  [JSON](2017/09/18/index.json)  [XML](201
 
 ##### Northern Rakhine State clashes
 ### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.md)
-_Context: Northern Rakhine State clashes, Yangon, Myanmar, Rohingya_
+_Context: Rohingya, Yangon, Northern Rakhine State clashes, Myanmar_
 
 ##### Bankruptcy in the United States
 ### [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md)
@@ -17,7 +17,7 @@ Maria grew from a tropical storm into a Category 5 hurricane and was bearing dow
 
 ##### Politics of the Netherlands
 ### [Eberhard van der Laan, the mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md)
-_Context: metastatic, terminal, mayor of Amsterdam, Politics of the Netherlands, lung cancer, leave of absence, Eberhard van der Laan_
+_Context: Eberhard van der Laan, metastatic, terminal, mayor of Amsterdam, leave of absence, Politics of the Netherlands, lung cancer_
 
 ## [Previous Day...](/news/2017/09/17/index.md)
 

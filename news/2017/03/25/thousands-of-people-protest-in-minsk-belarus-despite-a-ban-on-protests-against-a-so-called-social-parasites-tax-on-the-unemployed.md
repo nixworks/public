@@ -16,7 +16,7 @@ Demonstrators opposed to a tax on the under-employed take to the streets despite
 
 ### Changes:
 
-1. [2017 Belarusian protests: Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/2017-belarusian-protests-thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-t.md) _2017-08-27 03:48:03 (First version)_
+1. [2017 Belarusian protests: Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/2017-belarusian-protests-thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-t.md) _2018-02-06 13:49:30 (First version)_
 1. [Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-tax-on-the-unemployed.md) _(Current version)_
 
 ### Related:

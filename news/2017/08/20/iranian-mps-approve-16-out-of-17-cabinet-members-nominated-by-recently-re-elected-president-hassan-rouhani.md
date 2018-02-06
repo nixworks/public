@@ -15,9 +15,9 @@ Iranian lawmakers on Sunday approved 16 Cabinet members nominated by recently re
 
 ### Changes:
 
-1. [Iranian MPs approved 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approved-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _2017-08-20 21:30:05 (First version)_
-2. [Iranian MPs approves 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approves-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _2017-08-21 03:48:02 (Update)_
-3. [Politics of Iran: Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/politics-of-iran-iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _2017-08-27 17:30:04 (Update)_
+1. [Politics of Iran: Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/politics-of-iran-iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _2018-02-06 13:49:31 (First version)_
+2. [Iranian MPs approves 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approves-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _2018-02-06 13:49:31 (Update)_
+3. [Iranian MPs approved 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approved-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _2018-02-06 13:49:31 (Update)_
 3. [Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _(Current version)_
 
 ### Related:

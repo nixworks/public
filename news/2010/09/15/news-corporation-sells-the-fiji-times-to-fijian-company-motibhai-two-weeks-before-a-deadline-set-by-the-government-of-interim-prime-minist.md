@@ -16,7 +16,7 @@ Australia&#39;s News Limited has sold the Fiji Times for an undisclosed sum to F
 
 ### Changes:
 
-1. [News Corporation sells the ''Fiji Times'' to Fijian company Motibhai two weeks before a deadline set by the government of interim Prime Minister Frank Bainimarama. ](/news/2010/09/15/news-corporation-sells-the-fiji-times-to-fijian-company-motibhai-two-weeks-before-a-deadline-set-by-the-government-of-interim-prime-mini.md) _2017-08-25 03:30:03 (First version)_
+1. [News Corporation sells the ''Fiji Times'' to Fijian company Motibhai two weeks before a deadline set by the government of interim Prime Minister Frank Bainimarama. ](/news/2010/09/15/news-corporation-sells-the-fiji-times-to-fijian-company-motibhai-two-weeks-before-a-deadline-set-by-the-government-of-interim-prime-mini.md) _2018-02-06 13:49:20 (First version)_
 1. [News Corporation sells the "Fiji Times" to Fijian company Motibhai two weeks before a deadline set by the government of interim Prime Minister Frank Bainimarama. ](/news/2010/09/15/news-corporation-sells-the-fiji-times-to-fijian-company-motibhai-two-weeks-before-a-deadline-set-by-the-government-of-interim-prime-minist.md) _(Current version)_
 
 ### Related:

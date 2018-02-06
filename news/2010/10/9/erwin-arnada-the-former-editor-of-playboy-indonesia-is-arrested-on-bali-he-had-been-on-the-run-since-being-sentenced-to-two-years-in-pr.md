@@ -17,7 +17,7 @@ Police have arrested the former editor of Indonesian Playboy, Erwin Arnada, to f
 
 ### Changes:
 
-1. [Erwin Arnada, the former editor of ''Playboy Indonesia'', is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in.md) _2017-08-25 03:30:26 (First version)_
+1. [Erwin Arnada, the former editor of ''Playboy Indonesia'', is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in.md) _2018-02-06 13:49:21 (First version)_
 1. [Erwin Arnada, the former editor of "Playboy Indonesia", is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in-pr.md) _(Current version)_
 
 ### Related:

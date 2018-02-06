@@ -15,5 +15,5 @@ Formats: [HTML](/news/2012/09/21/harvard-theological-review-does-not-yet-publish
 
 ### Changes:
 
-1. [''Harvard Theological Review'' does not yet publish a study that claims a papyrus bears testimony that Jesus of Nazareth used the word(s) "my wife". ](/news/2012/09/21/harvard-theological-review-does-not-yet-publish-a-study-that-claims-a-papyrus-bears-testimony-that-jesus-of-nazareth-used-the-word-s-m.md) _2017-08-25 03:36:34 (First version)_
+1. [''Harvard Theological Review'' does not yet publish a study that claims a papyrus bears testimony that Jesus of Nazareth used the word(s) "my wife". ](/news/2012/09/21/harvard-theological-review-does-not-yet-publish-a-study-that-claims-a-papyrus-bears-testimony-that-jesus-of-nazareth-used-the-word-s-m.md) _2018-02-06 13:49:23 (First version)_
 1. ["Harvard Theological Review" does not yet publish a study that claims a papyrus bears testimony that Jesus of Nazareth used the word(s) "my wife". ](/news/2012/09/21/harvard-theological-review-does-not-yet-publish-a-study-that-claims-a-papyrus-bears-testimony-that-jesus-of-nazareth-used-the-word-s-my.md) _(Current version)_

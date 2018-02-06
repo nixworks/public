@@ -16,8 +16,8 @@ Many students and teachers have reportedly been killed after gunmen suspected to
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/nigerian-sharia-conflict-pseven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-nig.md) _2017-08-25 03:38:52 (First version)_
-2. [Nigerian Sharia conflict:: Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/nigerian-sharia-conflict-seven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-ni.md) _2017-08-27 03:39:06 (Update)_
+1. [Nigerian Sharia conflict:: Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/nigerian-sharia-conflict-seven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-ni.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/nigerian-sharia-conflict-pseven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-nig.md) _2018-02-06 13:49:25 (Update)_
 2. [Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/seven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-nigeria.md) _(Current version)_
 
 ### Related:

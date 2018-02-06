@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/05/12/libyan-leader-muammar-gaddafi-appears-on-state-
 
 ### Changes:
 
-1. [2011 Libyan civil war:Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-plibyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md) _2017-08-25 03:33:05 (First version)_
-2. [2011 Libyan civil war:: Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md) _2017-08-27 03:33:14 (Update)_
+1. [2011 Libyan civil war:Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-plibyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md) _2018-02-06 13:49:22 (Update)_
 2. [Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md) _(Current version)_
 
 ### Related:

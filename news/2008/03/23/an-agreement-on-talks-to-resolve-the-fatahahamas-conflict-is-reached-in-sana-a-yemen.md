@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahama
 
 ### Changes:
 
-1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatah-hamas-conflict-is-reached-in-sana-a-yemen.md) _2017-08-27 03:21:52 (First version)_
+1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatah-hamas-conflict-is-reached-in-sana-a-yemen.md) _2018-02-06 13:49:18 (First version)_
 1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/8/a-suicide-bomber-targets-a-police-checkpoint-in-
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/iraqi-insurgency-2011-present-a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md) _2017-08-27 03:41:45 (First version)_
+1. [Iraqi insurgency (2011-present): A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/iraqi-insurgency-2011-present-a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md) _(Current version)_
 
 ### Related:

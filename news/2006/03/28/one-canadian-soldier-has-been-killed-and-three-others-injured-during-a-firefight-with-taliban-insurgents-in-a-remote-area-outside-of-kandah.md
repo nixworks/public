@@ -16,7 +16,7 @@ A Canadian soldier was killed early Wednesday when Taliban insurgents attacked a
 
 ### Changes:
 
-1. [ One Canadian soldier has been killed and three others injured during a firefight with Taliban insurgents in a remote area outside of Kandahar. ](/news/2006/03/28/one-canadian-soldier-has-been-killed-and-three-others-injured-during-a-firefight-with-taliban-insurgents-in-a-remote-area-outside-of-kanda.md) _2017-08-25 03:17:32 (First version)_
+1. [ One Canadian soldier has been killed and three others injured during a firefight with Taliban insurgents in a remote area outside of Kandahar. ](/news/2006/03/28/one-canadian-soldier-has-been-killed-and-three-others-injured-during-a-firefight-with-taliban-insurgents-in-a-remote-area-outside-of-kanda.md) _2018-02-06 13:49:17 (First version)_
 1. [ One Canadian soldier has been killed and three others injured during a firefight with Taliban insurgents in a remote area outside of Kandahar. ](/news/2006/03/28/one-canadian-soldier-has-been-killed-and-three-others-injured-during-a-firefight-with-taliban-insurgents-in-a-remote-area-outside-of-kandah.md) _(Current version)_
 
 ### Related:

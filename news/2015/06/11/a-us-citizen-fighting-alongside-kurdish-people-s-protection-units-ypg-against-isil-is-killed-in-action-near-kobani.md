@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-
 
 ### Changes:
 
-1. [Military intervention against ISIL: A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/military-intervention-against-isil-a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action.md) _2017-08-27 03:42:30 (First version)_
+1. [Military intervention against ISIL: A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/military-intervention-against-isil-a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action.md) _2018-02-06 13:49:27 (First version)_
 1. [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md) _(Current version)_
 
 ### Related:

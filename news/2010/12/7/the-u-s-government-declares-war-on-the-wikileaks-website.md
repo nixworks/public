@@ -23,8 +23,8 @@ The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Fo
 
 ### Changes:
 
-1. [War on WikiLeaks and arrest of Julian Assange:The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/war-on-wikileaks-and-arrest-of-julian-assange-pthe-u-s-government-declares-war-on-the-wikileaks-website.md) _2017-08-25 03:31:19 (First version)_
-2. [War on WikiLeaks and arrest of Julian Assange:: The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/war-on-wikileaks-and-arrest-of-julian-assange-the-u-s-government-declares-war-on-the-wikileaks-website.md) _2017-08-27 03:31:26 (Update)_
+1. [War on WikiLeaks and arrest of Julian Assange:: The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/war-on-wikileaks-and-arrest-of-julian-assange-the-u-s-government-declares-war-on-the-wikileaks-website.md) _2018-02-06 13:49:21 (First version)_
+2. [War on WikiLeaks and arrest of Julian Assange:The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/war-on-wikileaks-and-arrest-of-julian-assange-pthe-u-s-government-declares-war-on-the-wikileaks-website.md) _2018-02-06 13:49:21 (Update)_
 2. [The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/the-u-s-government-declares-war-on-the-wikileaks-website.md) _(Current version)_
 
 ### Related:

@@ -23,7 +23,7 @@ Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions
 
 ### Changes:
 
-1. [ Xinjiang: Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _2017-08-27 03:25:32 (First version)_
+1. [ Xinjiang: Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _2018-02-06 13:49:19 (First version)_
 1. [ Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _(Current version)_
 
 ### Related:

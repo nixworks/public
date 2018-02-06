@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/08/8/accountancy-scandals-worldcom-announced-it-had-d
 
 ### Changes:
 
-1. [ Accountancy scandals: WorldCom announced it had discovered {{Nowrap|$3.3 billion}} in false accounting in addition to the {{Nowrap|$3.8 billion}} discovered earlier.](/news/2002/08/8/accountancy-scandals-worldcom-announced-it-had-discovered-nowrap-3-3-billion-in-false-accounting-in-addition-to-the-nowrap-3-8-bil.md) _2017-05-01 03:15:15 (First version)_
+1. [ Accountancy scandals: WorldCom announced it had discovered {{Nowrap|$3.3 billion}} in false accounting in addition to the {{Nowrap|$3.8 billion}} discovered earlier.](/news/2002/08/8/accountancy-scandals-worldcom-announced-it-had-discovered-nowrap-3-3-billion-in-false-accounting-in-addition-to-the-nowrap-3-8-bil.md) _2018-02-06 13:49:15 (First version)_
 1. [ Accountancy scandals: WorldCom announced it had discovered $3.3 billion in false accounting in addition to the $3.8 billion discovered earlier.](/news/2002/08/8/accountancy-scandals-worldcom-announced-it-had-discovered-3-3-billion-in-false-accounting-in-addition-to-the-3-8-billion-discovered-earl.md) _(Current version)_
 
 ### Related:

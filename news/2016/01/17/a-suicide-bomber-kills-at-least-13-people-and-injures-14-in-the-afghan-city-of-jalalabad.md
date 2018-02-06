@@ -17,7 +17,7 @@ Fourteen people were killed Sunday when a suicide bomber struck a gathering of t
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. ](/news/2016/01/17/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-13-people-and-injures-14-in-the-afghan-city-of-jalalabad.md) _2017-08-27 03:44:42 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. ](/news/2016/01/17/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-13-people-and-injures-14-in-the-afghan-city-of-jalalabad.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. ](/news/2016/01/17/a-suicide-bomber-kills-at-least-13-people-and-injures-14-in-the-afghan-city-of-jalalabad.md) _(Current version)_
 
 ### Related:

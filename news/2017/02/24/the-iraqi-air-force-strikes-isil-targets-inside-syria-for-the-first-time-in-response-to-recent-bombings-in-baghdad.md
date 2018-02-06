@@ -16,7 +16,7 @@ The Iraqi prime minister said he had directed the military to conduct airstrikes
 
 ### Changes:
 
-1. [Foreign involvement in the Syrian Civil War: The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/foreign-involvement-in-the-syrian-civil-war-the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent.md) _2017-08-27 03:47:53 (First version)_
+1. [Foreign involvement in the Syrian Civil War: The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/foreign-involvement-in-the-syrian-civil-war-the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent.md) _2018-02-06 13:49:30 (First version)_
 1. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _(Current version)_
 
 ### Related:

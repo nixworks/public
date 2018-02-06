@@ -19,7 +19,7 @@ An Australian security contractor is killed in a shooting near the Australian em
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): An Australian security contractor is killed outside the Australian embassy in Baghdad. There are unconfirmed reports that he was shot. ](/news/2016/05/13/iraqi-civil-war-2014-present-an-australian-security-contractor-is-killed-outside-the-australian-embassy-in-baghdad-there-are-unconfirm.md) _2017-08-27 03:46:01 (First version)_
+1. [Iraqi Civil War (2014-present): An Australian security contractor is killed outside the Australian embassy in Baghdad. There are unconfirmed reports that he was shot. ](/news/2016/05/13/iraqi-civil-war-2014-present-an-australian-security-contractor-is-killed-outside-the-australian-embassy-in-baghdad-there-are-unconfirm.md) _2018-02-06 13:49:29 (First version)_
 1. [An Australian security contractor is killed outside the Australian embassy in Baghdad. There are unconfirmed reports that he was shot. ](/news/2016/05/13/an-australian-security-contractor-is-killed-outside-the-australian-embassy-in-baghdad-there-are-unconfirmed-reports-that-he-was-shot.md) _(Current version)_
 
 ### Related:

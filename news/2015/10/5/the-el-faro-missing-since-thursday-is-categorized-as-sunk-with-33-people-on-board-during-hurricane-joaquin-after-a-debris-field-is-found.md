@@ -16,7 +16,7 @@ A 225-square-mile &quot;debris field&quot; was discovered by crews looking for s
 
 ### Changes:
 
-1. [Hurricane Joaquin: The El Faro, missing since Thursday, is categorized as sunk with 33 people on board during Hurricane Joaquin after a debris field is found. ](/news/2015/10/5/hurricane-joaquin-the-el-faro-missing-since-thursday-is-categorized-as-sunk-with-33-people-on-board-during-hurricane-joaquin-after-a-debr.md) _2017-08-27 03:43:14 (First version)_
+1. [Hurricane Joaquin: The El Faro, missing since Thursday, is categorized as sunk with 33 people on board during Hurricane Joaquin after a debris field is found. ](/news/2015/10/5/hurricane-joaquin-the-el-faro-missing-since-thursday-is-categorized-as-sunk-with-33-people-on-board-during-hurricane-joaquin-after-a-debr.md) _2018-02-06 13:49:28 (First version)_
 1. [The El Faro, missing since Thursday, is categorized as sunk with 33 people on board during Hurricane Joaquin after a debris field is found. ](/news/2015/10/5/the-el-faro-missing-since-thursday-is-categorized-as-sunk-with-33-people-on-board-during-hurricane-joaquin-after-a-debris-field-is-found.md) _(Current version)_
 
 ### Related:

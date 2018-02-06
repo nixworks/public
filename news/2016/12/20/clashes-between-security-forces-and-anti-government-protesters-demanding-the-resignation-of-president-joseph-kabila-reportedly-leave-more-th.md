@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/20/clashes-between-security-forces-and-anti-govern
 
 ### Changes:
 
-1. [December 2016 Congolese protests: Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/december-2016-congolese-protests-clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-jose.md) _2017-08-27 03:47:29 (First version)_
+1. [December 2016 Congolese protests: Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/december-2016-congolese-protests-clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-jose.md) _2018-02-06 13:49:30 (First version)_
 1. [Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-joseph-kabila-reportedly-leave-more-th.md) _(Current version)_
 
 ### Related:

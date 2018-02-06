@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/13/relatives-of-the-17-victims-of-the-uss-cole-bom
 
 ### Changes:
 
-1. [ Relatives of the 17 victims of the USS ''Cole'' bombing take Sudan to court in a civil suit claiming that the terrorist attack could not have happened without Sudan's help. ](/news/2007/03/13/relatives-of-the-17-victims-of-the-uss-cole-bombing-take-sudan-to-court-in-a-civil-suit-claiming-that-the-terrorist-attack-could-not-ha.md) _2017-08-25 03:19:23 (First version)_
+1. [ Relatives of the 17 victims of the USS ''Cole'' bombing take Sudan to court in a civil suit claiming that the terrorist attack could not have happened without Sudan's help. ](/news/2007/03/13/relatives-of-the-17-victims-of-the-uss-cole-bombing-take-sudan-to-court-in-a-civil-suit-claiming-that-the-terrorist-attack-could-not-ha.md) _2018-02-06 13:49:17 (First version)_
 1. [ Relatives of the 17 victims of the USS "Cole" bombing take Sudan to court in a civil suit claiming that the terrorist attack could not have happened without Sudan's help. ](/news/2007/03/13/relatives-of-the-17-victims-of-the-uss-cole-bombing-take-sudan-to-court-in-a-civil-suit-claiming-that-the-terrorist-attack-could-not-have.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/7/isil-claims-responsibility-for-the-machete-attac
 
 ### Changes:
 
-1. [2016 stabbing of Charleroi police officers: ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/2016-stabbing-of-charleroi-police-officers-isil-claims-responsibility-for-the-machete-attack-in-belgium.md) _2017-08-27 03:46:37 (First version)_
+1. [2016 stabbing of Charleroi police officers: ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/2016-stabbing-of-charleroi-police-officers-isil-claims-responsibility-for-the-machete-attack-in-belgium.md) _2018-02-06 13:49:29 (First version)_
 1. [ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/isil-claims-responsibility-for-the-machete-attack-in-belgium.md) _(Current version)_
 
 ### Related:

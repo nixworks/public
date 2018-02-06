@@ -17,7 +17,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [ China-Mongolia relations: Mongolia bans the 14th Dalai Lama from leisure in the country after China cancels a Mongolian loan. ](/news/2016/12/21/china-mongolia-relations-mongolia-bans-the-14th-dalai-lama-from-leisure-in-the-country-after-china-cancels-a-mongolian-loan.md) _2017-08-27 03:47:29 (First version)_
+1. [ China-Mongolia relations: Mongolia bans the 14th Dalai Lama from leisure in the country after China cancels a Mongolian loan. ](/news/2016/12/21/china-mongolia-relations-mongolia-bans-the-14th-dalai-lama-from-leisure-in-the-country-after-china-cancels-a-mongolian-loan.md) _2018-02-06 13:49:30 (First version)_
 1. [Mongolia bans the 14th Dalai Lama from leisure in the country after China cancels a Mongolian loan. ](/news/2016/12/21/mongolia-bans-the-14th-dalai-lama-from-leisure-in-the-country-after-china-cancels-a-mongolian-loan.md) _(Current version)_
 
 ### Related:

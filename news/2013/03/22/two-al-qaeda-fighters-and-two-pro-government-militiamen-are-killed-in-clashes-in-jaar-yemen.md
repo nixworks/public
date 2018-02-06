@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/22/two-al-qaeda-fighters-and-two-pro-government-mi
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/al-qaeda-insurgency-in-yemen-ptwo-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md) _2017-08-25 03:37:58 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/al-qaeda-insurgency-in-yemen-two-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md) _2017-08-27 03:38:09 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/al-qaeda-insurgency-in-yemen-two-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md) _2018-02-06 13:49:24 (First version)_
+2. [Al-Qaeda insurgency in Yemen:Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/al-qaeda-insurgency-in-yemen-ptwo-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md) _2018-02-06 13:49:24 (Update)_
 2. [Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/two-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md) _(Current version)_
 
 ### Related:

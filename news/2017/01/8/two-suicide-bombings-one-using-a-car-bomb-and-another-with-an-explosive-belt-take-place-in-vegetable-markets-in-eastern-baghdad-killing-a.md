@@ -18,7 +18,7 @@ A wave of attacks in and around Baghdad kills more than 20 people, the latest in
 
 ### Changes:
 
-1. [Iraqi Civil War: Two suicide bombings, one using a car bomb and another with an explosive belt, take place in vegetable markets in eastern Baghdad, killing at least 20 people and injuring more than 50. The Islamic State in Iraq and the Levant claims responsibility. ](/news/2017/01/8/iraqi-civil-war-two-suicide-bombings-one-using-a-car-bomb-and-another-with-an-explosive-belt-take-place-in-vegetable-markets-in-eastern-b.md) _2017-08-27 03:47:35 (First version)_
+1. [Iraqi Civil War: Two suicide bombings, one using a car bomb and another with an explosive belt, take place in vegetable markets in eastern Baghdad, killing at least 20 people and injuring more than 50. The Islamic State in Iraq and the Levant claims responsibility. ](/news/2017/01/8/iraqi-civil-war-two-suicide-bombings-one-using-a-car-bomb-and-another-with-an-explosive-belt-take-place-in-vegetable-markets-in-eastern-b.md) _2018-02-06 13:49:30 (First version)_
 1. [Two suicide bombings, one using a car bomb and another with an explosive belt, take place in vegetable markets in eastern Baghdad, killing at least 20 people and injuring more than 50. The Islamic State in Iraq and the Levant claims responsibility. ](/news/2017/01/8/two-suicide-bombings-one-using-a-car-bomb-and-another-with-an-explosive-belt-take-place-in-vegetable-markets-in-eastern-baghdad-killing-a.md) _(Current version)_
 
 ### Related:

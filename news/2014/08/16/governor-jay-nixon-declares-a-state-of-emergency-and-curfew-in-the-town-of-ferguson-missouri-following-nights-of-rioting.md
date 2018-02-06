@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/08/16/governor-jay-nixon-declares-a-state-of-emergenc
 
 ### Changes:
 
-1. [Shooting of Michael Brown:Governor Jay Nixon declares a state of emergency and curfew in the town of Ferguson, Missouri following nights of rioting. ](/news/2014/08/16/shooting-of-michael-brown-pgovernor-jay-nixon-declares-a-state-of-emergency-and-curfew-in-the-town-of-ferguson-missouri-following-nights-of.md) _2017-08-25 03:40:51 (First version)_
-2. [Shooting of Michael Brown:: Governor Jay Nixon declares a state of emergency and curfew in the town of Ferguson, Missouri following nights of rioting. ](/news/2014/08/16/shooting-of-michael-brown-governor-jay-nixon-declares-a-state-of-emergency-and-curfew-in-the-town-of-ferguson-missouri-following-nights-o.md) _2017-08-27 03:41:09 (Update)_
+1. [Shooting of Michael Brown:Governor Jay Nixon declares a state of emergency and curfew in the town of Ferguson, Missouri following nights of rioting. ](/news/2014/08/16/shooting-of-michael-brown-pgovernor-jay-nixon-declares-a-state-of-emergency-and-curfew-in-the-town-of-ferguson-missouri-following-nights-of.md) _2018-02-06 13:49:26 (First version)_
+2. [Shooting of Michael Brown:: Governor Jay Nixon declares a state of emergency and curfew in the town of Ferguson, Missouri following nights of rioting. ](/news/2014/08/16/shooting-of-michael-brown-governor-jay-nixon-declares-a-state-of-emergency-and-curfew-in-the-town-of-ferguson-missouri-following-nights-o.md) _2018-02-06 13:49:26 (Update)_
 2. [Governor Jay Nixon declares a state of emergency and curfew in the town of Ferguson, Missouri following nights of rioting. ](/news/2014/08/16/governor-jay-nixon-declares-a-state-of-emergency-and-curfew-in-the-town-of-ferguson-missouri-following-nights-of-rioting.md) _(Current version)_
 
 ### Related:

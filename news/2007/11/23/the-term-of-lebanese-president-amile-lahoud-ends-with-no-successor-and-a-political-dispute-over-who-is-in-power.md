@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/11/23/the-term-of-lebanese-president-amile-lahoud-end
 
 ### Changes:
 
-1. [ The term of Lebanese President Emile Lahoud ends with no successor and a political dispute over who is in power. ](/news/2007/11/23/the-term-of-lebanese-president-emile-lahoud-ends-with-no-successor-and-a-political-dispute-over-who-is-in-power.md) _2017-09-24 03:24:06 (First version)_
+1. [ The term of Lebanese President Emile Lahoud ends with no successor and a political dispute over who is in power. ](/news/2007/11/23/the-term-of-lebanese-president-emile-lahoud-ends-with-no-successor-and-a-political-dispute-over-who-is-in-power.md) _2018-02-06 13:49:18 (First version)_
 1. [ The term of Lebanese President Emile Lahoud ends with no successor and a political dispute over who is in power. ](/news/2007/11/23/the-term-of-lebanese-president-amile-lahoud-ends-with-no-successor-and-a-political-dispute-over-who-is-in-power.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The BBC Director-General, George Entwistle, will be fighting for his career toda
 
 ### Changes:
 
-1. [Peter Rippon, the BBC ''Newsnight'' editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile.md) _2017-08-25 03:36:43 (First version)_
+1. [Peter Rippon, the BBC ''Newsnight'' editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile.md) _2018-02-06 13:49:24 (First version)_
 1. [Peter Rippon, the BBC "Newsnight" editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.md) _(Current version)_
 
 ### Related:

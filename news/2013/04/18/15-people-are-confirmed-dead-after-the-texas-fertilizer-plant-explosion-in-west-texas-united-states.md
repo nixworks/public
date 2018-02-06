@@ -18,8 +18,8 @@ Emergency services search for survivors after a deadly blast at a fertiliser pla
 
 ### Changes:
 
-1. [West Fertilizer Company explosion:15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/west-fertilizer-company-explosion-p15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md) _2017-08-25 03:38:24 (First version)_
-2. [West Fertilizer Company explosion:: 15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/west-fertilizer-company-explosion-15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md) _2017-08-27 03:38:36 (Update)_
+1. [West Fertilizer Company explosion:15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/west-fertilizer-company-explosion-p15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md) _2018-02-06 13:49:24 (First version)_
+2. [West Fertilizer Company explosion:: 15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/west-fertilizer-company-explosion-15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md) _2018-02-06 13:49:24 (Update)_
 2. [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md) _(Current version)_
 
 ### Related:

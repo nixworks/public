@@ -16,8 +16,8 @@ First Minister Alex Salmond says &#034;it would cost the UK &pound;500m&#034; no
 
 ### Changes:
 
-1. [Scottish independence referendum:A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/scottish-independence-referendum-pa-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md) _2017-08-25 03:39:35 (First version)_
-2. [Scottish independence referendum:: A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/scottish-independence-referendum-a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md) _2017-08-27 03:39:53 (Update)_
+1. [Scottish independence referendum:A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/scottish-independence-referendum-pa-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md) _2018-02-06 13:49:25 (First version)_
+2. [Scottish independence referendum:: A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/scottish-independence-referendum-a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md) _2018-02-06 13:49:25 (Update)_
 2. [A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md) _(Current version)_
 
 ### Related:

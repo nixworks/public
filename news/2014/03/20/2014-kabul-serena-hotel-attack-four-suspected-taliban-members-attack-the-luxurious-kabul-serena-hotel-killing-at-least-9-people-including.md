@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/03/20/2014-kabul-serena-hotel-attack-four-suspected-t
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/war-in-afghanistan-2001apresent-p2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel.md) _2017-08-25 03:40:11 (First version)_
-2. [War in Afghanistan (2001-present):: 2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/war-in-afghanistan-2001-present-2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel.md) _2017-08-27 03:40:29 (Update)_
+1. [War in Afghanistan (2001-present):2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/war-in-afghanistan-2001apresent-p2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: 2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/war-in-afghanistan-2001-present-2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel.md) _2018-02-06 13:49:25 (Update)_
 2. [2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel-killing-at-least-9-people-including.md) _(Current version)_
 
 ### Related:

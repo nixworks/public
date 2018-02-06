@@ -16,7 +16,7 @@ Russians drop armed guards on to the deck and round up the crew of the Arctic Su
 
 ### Changes:
 
-1. [The Greenpeace ship ''Arctic Sunrise'', which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is.md) _2017-08-25 03:39:18 (First version)_
+1. [The Greenpeace ship ''Arctic Sunrise'', which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is.md) _2018-02-06 13:49:25 (First version)_
 1. [The Greenpeace ship "Arctic Sunrise", which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is-b.md) _(Current version)_
 
 ### Related:

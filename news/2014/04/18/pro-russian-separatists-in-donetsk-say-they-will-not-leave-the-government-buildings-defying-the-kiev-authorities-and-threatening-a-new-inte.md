@@ -16,8 +16,8 @@ Pro-Russian separatists in eastern Ukraine refuse to leave official buildings, j
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Pro-Russian separatists in Donetsk say they will not leave the government buildings, defying the Kiev authorities and threatening a new international deal on Ukraine. ](/news/2014/04/18/2014-pro-russian-unrest-in-ukraine-ppro-russian-separatists-in-donetsk-say-they-will-not-leave-the-government-buildings-defying-the-kiev-au.md) _2017-08-25 03:40:18 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Pro-Russian separatists in Donetsk say they will not leave the government buildings, defying the Kiev authorities and threatening a new international deal on Ukraine. ](/news/2014/04/18/2014-pro-russian-unrest-in-ukraine-pro-russian-separatists-in-donetsk-say-they-will-not-leave-the-government-buildings-defying-the-kiev-a.md) _2017-08-27 03:40:36 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Pro-Russian separatists in Donetsk say they will not leave the government buildings, defying the Kiev authorities and threatening a new international deal on Ukraine. ](/news/2014/04/18/2014-pro-russian-unrest-in-ukraine-pro-russian-separatists-in-donetsk-say-they-will-not-leave-the-government-buildings-defying-the-kiev-a.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Pro-Russian separatists in Donetsk say they will not leave the government buildings, defying the Kiev authorities and threatening a new international deal on Ukraine. ](/news/2014/04/18/2014-pro-russian-unrest-in-ukraine-ppro-russian-separatists-in-donetsk-say-they-will-not-leave-the-government-buildings-defying-the-kiev-au.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian separatists in Donetsk say they will not leave the government buildings, defying the Kiev authorities and threatening a new international deal on Ukraine. ](/news/2014/04/18/pro-russian-separatists-in-donetsk-say-they-will-not-leave-the-government-buildings-defying-the-kiev-authorities-and-threatening-a-new-inte.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least 43,000 people have been displaced by the powerful earthquake that hit I
 
 ### Changes:
 
-1. [2016 Aceh earthquake: At least 43,000 have been displaced by Wednesday's earthquake in the Indonesian province of Aceh. ](/news/2016/12/10/2016-aceh-earthquake-at-least-43-000-have-been-displaced-by-wednesday-s-earthquake-in-the-indonesian-province-of-aceh.md) _2017-08-27 03:47:25 (First version)_
+1. [2016 Aceh earthquake: At least 43,000 have been displaced by Wednesday's earthquake in the Indonesian province of Aceh. ](/news/2016/12/10/2016-aceh-earthquake-at-least-43-000-have-been-displaced-by-wednesday-s-earthquake-in-the-indonesian-province-of-aceh.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 43,000 have been displaced by Wednesday's earthquake in the Indonesian province of Aceh. ](/news/2016/12/10/at-least-43-000-have-been-displaced-by-wednesday-s-earthquake-in-the-indonesian-province-of-aceh.md) _(Current version)_
 
 ### Related:

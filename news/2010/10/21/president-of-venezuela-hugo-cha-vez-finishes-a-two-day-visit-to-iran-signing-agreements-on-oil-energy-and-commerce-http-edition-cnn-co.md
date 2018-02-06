@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-
 
 ### Changes:
 
-1. [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. ](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce.md) _2017-08-25 03:30:37 (First version)_
+1. [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. ](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce.md) _2018-02-06 13:49:20 (First version)_
 1. [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. [http:--edition.cnn.com-2010-WORLD-meast-10-21-iran.chavez.visit-index.html?eref=edition (CNN) ]](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce-http-edition-cnn-co.md) _(Current version)_
 
 ### Related:

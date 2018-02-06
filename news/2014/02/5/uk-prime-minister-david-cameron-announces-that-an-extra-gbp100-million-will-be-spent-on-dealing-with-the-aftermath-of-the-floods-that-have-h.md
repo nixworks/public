@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/5/uk-prime-minister-david-cameron-announces-that-a
 
 ### Changes:
 
-1. [UK Prime Minister David Cameron announces that an extra 100 million will be spent on dealing with the aftermath of the floods that have hit the UK. ](/news/2014/02/5/uk-prime-minister-david-cameron-announces-that-an-extra-ps100-million-will-be-spent-on-dealing-with-the-aftermath-of-the-floods-that-have-hit.md) _2017-08-25 03:39:58 (First version)_
+1. [UK Prime Minister David Cameron announces that an extra 100 million will be spent on dealing with the aftermath of the floods that have hit the UK. ](/news/2014/02/5/uk-prime-minister-david-cameron-announces-that-an-extra-ps100-million-will-be-spent-on-dealing-with-the-aftermath-of-the-floods-that-have-hit.md) _2018-02-06 13:49:25 (First version)_
 1. [UK Prime Minister David Cameron announces that an extra GBP100 million will be spent on dealing with the aftermath of the floods that have hit the UK. ](/news/2014/02/5/uk-prime-minister-david-cameron-announces-that-an-extra-gbp100-million-will-be-spent-on-dealing-with-the-aftermath-of-the-floods-that-have-h.md) _(Current version)_
 
 ### Related:

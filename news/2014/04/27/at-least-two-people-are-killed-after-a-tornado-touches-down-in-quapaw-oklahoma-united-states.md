@@ -17,8 +17,8 @@ Tornadoes rip through the US south-west, killing at least 17 people in Arkansas 
 
 ### Changes:
 
-1. [April 2014 tornado outbreak:At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/april-2014-tornado-outbreak-pat-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md) _2017-08-25 03:40:20 (First version)_
-2. [April 2014 tornado outbreak:: At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/april-2014-tornado-outbreak-at-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md) _2017-08-27 03:40:38 (Update)_
+1. [April 2014 tornado outbreak:At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/april-2014-tornado-outbreak-pat-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md) _2018-02-06 13:49:26 (First version)_
+2. [April 2014 tornado outbreak:: At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/april-2014-tornado-outbreak-at-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md) _2018-02-06 13:49:26 (Update)_
 2. [At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/at-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md) _(Current version)_
 
 ### Related:

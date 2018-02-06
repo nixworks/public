@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro
 
 ### Changes:
 
-1. [An American Atlas V successfully launched an NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-a.md) _2017-08-25 03:47:30 (First version)_
+1. [An American Atlas V successfully launched an NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-a.md) _2018-02-06 13:49:30 (First version)_
 1. [An American Atlas V successfully launched an NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-an.md) _(Current version)_
 
 ### Related:

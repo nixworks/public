@@ -16,7 +16,7 @@ The heir to the Johnson &amp; Johnson pharmaceutical empire originally supported
 
 ### Changes:
 
-1. [United Kingdom-United States relations: U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/united-kingdom-united-states-relations-u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-stat.md) _2017-08-27 03:47:39 (First version)_
+1. [United Kingdom-United States relations: U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/united-kingdom-united-states-relations-u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-stat.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-states-ambassador-to-the-united-kingdom.md) _(Current version)_
 
 ### Related:

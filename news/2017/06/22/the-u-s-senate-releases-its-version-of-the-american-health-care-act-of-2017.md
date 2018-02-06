@@ -16,7 +16,7 @@ Senate Republican leaders released their bill to repeal the Affordable Care Act,
 
 ### Changes:
 
-1. [American Health Care Act of 2017: The U.S. Senate releases its version of the American Health Care Act of 2017. ](/news/2017/06/22/american-health-care-act-of-2017-the-u-s-senate-releases-its-version-of-the-american-health-care-act-of-2017.md) _2017-08-27 03:48:32 (First version)_
+1. [American Health Care Act of 2017: The U.S. Senate releases its version of the American Health Care Act of 2017. ](/news/2017/06/22/american-health-care-act-of-2017-the-u-s-senate-releases-its-version-of-the-american-health-care-act-of-2017.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Senate releases its version of the American Health Care Act of 2017. ](/news/2017/06/22/the-u-s-senate-releases-its-version-of-the-american-health-care-act-of-2017.md) _(Current version)_
 
 ### Related:

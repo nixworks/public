@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-it
 
 ### Changes:
 
-1. [War in Donbass: A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/war-in-donbass-a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest.md) _2017-08-27 03:45:42 (First version)_
+1. [War in Donbass: A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/war-in-donbass-a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest.md) _2018-02-06 13:49:28 (First version)_
 1. [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md) _(Current version)_
 
 ### Related:

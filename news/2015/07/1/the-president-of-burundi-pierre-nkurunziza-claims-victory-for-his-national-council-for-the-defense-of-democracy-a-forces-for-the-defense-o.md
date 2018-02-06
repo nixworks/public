@@ -16,7 +16,7 @@ Pierre Nkurunziza claims an early victory for his ruling CNDD-FDD party, despite
 
 ### Changes:
 
-1. [Burundian legislative election, 2015: The President of Burundi Pierre Nkurunziza claims victory for his National Council for the Defense of Democracy - Forces for the Defense of Democracy coalition despite the fact that opposition parties did not contest the election. ](/news/2015/07/1/burundian-legislative-election-2015-the-president-of-burundi-pierre-nkurunziza-claims-victory-for-his-national-council-for-the-defense-of.md) _2017-08-27 03:42:37 (First version)_
+1. [Burundian legislative election, 2015: The President of Burundi Pierre Nkurunziza claims victory for his National Council for the Defense of Democracy - Forces for the Defense of Democracy coalition despite the fact that opposition parties did not contest the election. ](/news/2015/07/1/burundian-legislative-election-2015-the-president-of-burundi-pierre-nkurunziza-claims-victory-for-his-national-council-for-the-defense-of.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of Burundi Pierre Nkurunziza claims victory for his National Council for the Defense of Democracy - Forces for the Defense of Democracy coalition despite the fact that opposition parties did not contest the election. ](/news/2015/07/1/the-president-of-burundi-pierre-nkurunziza-claims-victory-for-his-national-council-for-the-defense-of-democracy-a-forces-for-the-defense-o.md) _(Current version)_
 
 ### Related:

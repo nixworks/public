@@ -17,7 +17,7 @@ NEW YORK, Dec. 2, 2015 /PRNewswire-USNewswire/ --&amp;#160;Not all air pollution
 
 ### Changes:
 
-1. [A new study by the NYU Langone Medical Center published in the ''Environmental Health Perspectives'' journal today finds exposure to emissions from coal-fired power plants over a long period of time is significantly more harmful, five times higher, to the heart than other forms of carbon pollution. ](/news/2015/12/2/a-new-study-by-the-nyu-langone-medical-center-published-in-the-environmental-health-perspectives-journal-today-finds-exposure-to-emissio.md) _2017-08-25 03:43:49 (First version)_
+1. [A new study by the NYU Langone Medical Center published in the ''Environmental Health Perspectives'' journal today finds exposure to emissions from coal-fired power plants over a long period of time is significantly more harmful, five times higher, to the heart than other forms of carbon pollution. ](/news/2015/12/2/a-new-study-by-the-nyu-langone-medical-center-published-in-the-environmental-health-perspectives-journal-today-finds-exposure-to-emissio.md) _2018-02-06 13:49:28 (First version)_
 1. [A new study by the NYU Langone Medical Center published in the "Environmental Health Perspectives" journal today finds exposure to emissions from coal-fired power plants over a long period of time is significantly more harmful, five times higher, to the heart than other forms of carbon pollution. ](/news/2015/12/2/a-new-study-by-the-nyu-langone-medical-center-published-in-the-environmental-health-perspectives-journal-today-finds-exposure-to-emissions.md) _(Current version)_
 
 ### Related:

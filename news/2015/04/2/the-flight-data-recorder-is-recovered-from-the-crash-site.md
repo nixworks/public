@@ -17,8 +17,8 @@ The co-pilot suspected of deliberately crashing a plane into the Alps had resear
 
 ### Changes:
 
-1. [Germanwings Flight 9525:The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-pthe-flight-data-recorder-is-recovered-from-the-crash-site.md) _2017-08-25 03:41:50 (First version)_
-2. [Germanwings Flight 9525:: The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-the-flight-data-recorder-is-recovered-from-the-crash-site.md) _2017-08-27 03:42:09 (Update)_
+1. [Germanwings Flight 9525:: The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-the-flight-data-recorder-is-recovered-from-the-crash-site.md) _2018-02-06 13:49:27 (First version)_
+2. [Germanwings Flight 9525:The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-pthe-flight-data-recorder-is-recovered-from-the-crash-site.md) _2018-02-06 13:49:27 (Update)_
 2. [The flight data recorder is recovered from the crash site. ](/news/2015/04/2/the-flight-data-recorder-is-recovered-from-the-crash-site.md) _(Current version)_
 
 ### Related:

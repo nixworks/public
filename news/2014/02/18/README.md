@@ -33,7 +33,7 @@ A Zimbabwean immigration official says former U.S. Rep. Melvin Jay Reynolds has 
 
 ##### Kenneth Hayne
 ### [Justice Kenneth Hayne of the High Court of Australia voids the Senate election in the state of Western Australia due to the loss of ballot papers in a very close election. ](/news/2014/02/18/justice-kenneth-hayne-of-the-high-court-of-australia-voids-the-senate-election-in-the-state-of-western-australia-due-to-the-loss-of-ballot-p.md)
-_Context: Western Australia, Kenneth Hayne, Senator, High Court of Australia_
+_Context: High Court of Australia, Western Australia, Senator, Kenneth Hayne_
 
 ##### Ballroom dancers
 ### [Ballroom dancers and aerobics classes have popped up in the midst of an anti-China protest in Hanoi, Vietnam, in an apparent ploy by the government to break up the event. ](/news/2014/02/18/ballroom-dancers-and-aerobics-classes-have-popped-up-in-the-midst-of-an-anti-china-protest-in-hanoi-vietnam-in-an-apparent-ploy-by-the-gov.md)

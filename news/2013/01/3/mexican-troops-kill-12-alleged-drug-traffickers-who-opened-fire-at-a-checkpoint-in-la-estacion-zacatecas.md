@@ -16,8 +16,8 @@ Mexican soldiers kill 12 suspects in a gun battle in Zacatecas state, officials 
 
 ### Changes:
 
-1. [Mexican Drug War:Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-drug-war-pmexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md) _2017-08-25 03:37:11 (First version)_
-2. [Mexican Drug War:: Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-drug-war-mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md) _2017-08-27 03:37:21 (Update)_
+1. [Mexican Drug War:Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-drug-war-pmexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md) _2018-02-06 13:49:24 (First version)_
+2. [Mexican Drug War:: Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-drug-war-mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md) _2018-02-06 13:49:24 (Update)_
 2. [Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md) _(Current version)_
 
 ### Related:

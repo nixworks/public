@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-5
 
 ### Changes:
 
-1. [ Late 2000s recession: German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/late-2000s-recession-p-german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md) _2017-08-25 03:23:28 (First version)_
-2. [ Late 2000s recession:: German Chancellor Angela Merkel announces a -50-billion economic stimulus package. ](/news/2009/01/13/late-2000s-recession-german-chancellor-angela-merkel-announces-a-50-billion-economic-stimulus-package.md) _2017-08-27 03:23:20 (Update)_
+1. [ Late 2000s recession: German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/late-2000s-recession-p-german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession:: German Chancellor Angela Merkel announces a -50-billion economic stimulus package. ](/news/2009/01/13/late-2000s-recession-german-chancellor-angela-merkel-announces-a-50-billion-economic-stimulus-package.md) _2018-02-06 13:49:18 (Update)_
 2. [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md) _(Current version)_
 
 ### Related:

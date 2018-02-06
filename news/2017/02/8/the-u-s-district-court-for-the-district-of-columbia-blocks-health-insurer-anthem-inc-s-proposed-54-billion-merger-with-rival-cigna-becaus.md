@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/8/the-u-s-district-court-for-the-district-of-colum
 
 ### Changes:
 
-1. [The U.S. District Court for the District of Columbia blocks health insurer Anthem Inc.'s proposed $54 billion merger with rival Cigna because it would have exacerbated an already highly concentrated market and likely raised prices. ](/news/2017/02/8/the-u-s-district-court-for-the-district-of-columbia-blocks-health-insurer-anthem-inc-s-proposed-54-billion-merger-with-rival-cigna-becau.md) _2017-08-25 03:47:22 (First version)_
+1. [The U.S. District Court for the District of Columbia blocks health insurer Anthem Inc.'s proposed $54 billion merger with rival Cigna because it would have exacerbated an already highly concentrated market and likely raised prices. ](/news/2017/02/8/the-u-s-district-court-for-the-district-of-columbia-blocks-health-insurer-anthem-inc-s-proposed-54-billion-merger-with-rival-cigna-becau.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. District Court for the District of Columbia blocks health insurer Anthem Inc.'s proposed $54 billion merger with rival Cigna because it would have exacerbated an already highly concentrated market and likely raised prices. ](/news/2017/02/8/the-u-s-district-court-for-the-district-of-columbia-blocks-health-insurer-anthem-inc-s-proposed-54-billion-merger-with-rival-cigna-becaus.md) _(Current version)_
 
 ### Related:

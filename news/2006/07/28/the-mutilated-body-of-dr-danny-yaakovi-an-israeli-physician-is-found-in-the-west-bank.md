@@ -16,8 +16,8 @@ Body of Dr. Danny Yaakovi from West Bank settlement of Yakir found Thursday in c
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict (Operation Summer Rains): The mutilated body of Dr. Danny Yaakovi, an Israeli physician, is found in the West Bank.](/news/2006/07/28/israeli-palestinian-conflict-operation-summer-rains-p-the-mutilated-body-of-dr-danny-yaakovi-an-israeli-physician-is-found-in-the-west.md) _2017-08-25 03:18:06 (First version)_
-2. [ Israeli-Palestinian conflict (Operation Summer Rains):: The mutilated body of Dr. Danny Yaakovi, an Israeli physician, is found in the West Bank.](/news/2006/07/28/israeli-palestinian-conflict-operation-summer-rains-the-mutilated-body-of-dr-danny-yaakovi-an-israeli-physician-is-found-in-the-west.md) _2017-08-27 03:18:04 (Update)_
+1. [ Israeli-Palestinian conflict (Operation Summer Rains):: The mutilated body of Dr. Danny Yaakovi, an Israeli physician, is found in the West Bank.](/news/2006/07/28/israeli-palestinian-conflict-operation-summer-rains-the-mutilated-body-of-dr-danny-yaakovi-an-israeli-physician-is-found-in-the-west.md) _2018-02-06 13:49:17 (First version)_
+2. [ Israeli-Palestinian conflict (Operation Summer Rains): The mutilated body of Dr. Danny Yaakovi, an Israeli physician, is found in the West Bank.](/news/2006/07/28/israeli-palestinian-conflict-operation-summer-rains-p-the-mutilated-body-of-dr-danny-yaakovi-an-israeli-physician-is-found-in-the-west.md) _2018-02-06 13:49:17 (Update)_
 2. [ The mutilated body of Dr. Danny Yaakovi, an Israeli physician, is found in the West Bank.](/news/2006/07/28/the-mutilated-body-of-dr-danny-yaakovi-an-israeli-physician-is-found-in-the-west-bank.md) _(Current version)_
 
 ### Related:

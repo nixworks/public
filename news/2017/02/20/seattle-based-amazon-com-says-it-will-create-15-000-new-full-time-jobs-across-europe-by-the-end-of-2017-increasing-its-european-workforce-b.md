@@ -17,7 +17,7 @@ American tech giant Amazon promised to create 15,000 new full-time jobs across E
 
 ### Changes:
 
-1. [Seattle-based Amazon.com says it will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce.md) _2017-08-25 03:47:26 (First version)_
+1. [Seattle-based Amazon.com says it will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce.md) _2018-02-06 13:49:30 (First version)_
 1. [Seattle-based Amazon.com says it will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce-b.md) _(Current version)_
 
 ### Related:

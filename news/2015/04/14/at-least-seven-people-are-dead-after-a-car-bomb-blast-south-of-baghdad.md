@@ -16,7 +16,7 @@ One vehicle parked near bakery and went off as people were queuing to buy bread
 
 ### Changes:
 
-1. [Iraqi insurgency: At least seven people are dead after a car bomb blast south of Baghdad. ](/news/2015/04/14/iraqi-insurgency-at-least-seven-people-are-dead-after-a-car-bomb-blast-south-of-baghdad.md) _2017-08-27 03:42:12 (First version)_
+1. [Iraqi insurgency: At least seven people are dead after a car bomb blast south of Baghdad. ](/news/2015/04/14/iraqi-insurgency-at-least-seven-people-are-dead-after-a-car-bomb-blast-south-of-baghdad.md) _2018-02-06 13:49:27 (First version)_
 1. [At least seven people are dead after a car bomb blast south of Baghdad. ](/news/2015/04/14/at-least-seven-people-are-dead-after-a-car-bomb-blast-south-of-baghdad.md) _(Current version)_
 
 ### Related:

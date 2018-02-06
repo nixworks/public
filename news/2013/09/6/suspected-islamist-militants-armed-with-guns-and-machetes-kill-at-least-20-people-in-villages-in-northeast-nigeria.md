@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/6/suspected-islamist-militants-armed-with-guns-and
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-psuspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeria.md) _2017-08-25 03:39:14 (First version)_
-2. [Nigerian Sharia conflict:: Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-suspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeri.md) _2017-08-27 03:39:31 (Update)_
+1. [Nigerian Sharia conflict:: Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-suspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeri.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-psuspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeria.md) _2018-02-06 13:49:25 (Update)_
 2. [Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/suspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeria.md) _(Current version)_
 
 ### Related:

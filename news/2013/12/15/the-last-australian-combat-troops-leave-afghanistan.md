@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/15/the-last-australian-combat-troops-leave-afghani
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-pthe-last-australian-combat-troops-leave-afghanistan.md) _2017-08-25 03:39:42 (First version)_
-2. [War in Afghanistan (2001-present):: The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-the-last-australian-combat-troops-leave-afghanistan.md) _2017-08-27 03:39:59 (Update)_
+1. [War in Afghanistan (2001-present):: The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-the-last-australian-combat-troops-leave-afghanistan.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-pthe-last-australian-combat-troops-leave-afghanistan.md) _2018-02-06 13:49:25 (Update)_
 2. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _(Current version)_
 
 ### Related:

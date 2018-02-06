@@ -16,8 +16,8 @@ Taliban militants detonated a car bomb outside an Afghan intelligence office nea
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2017-08-25 03:39:15 (First version)_
-2. [War in Afghanistan (2001-present):: The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001-present-the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2017-08-27 03:39:31 (Update)_
+1. [War in Afghanistan (2001-present):The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001-present-the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2018-02-06 13:49:25 (Update)_
 2. [The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/19/daniele-mastrogiacomo-an-italian-journalist-wor
 
 ### Changes:
 
-1. [ Daniele Mastrogiacomo, an Italian journalist working for ''la Repubblica'', is set free by the Taliban. He had been kidnapped in the Afghan province of Helmand on March 6. ](/news/2007/03/19/daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-is-set-free-by-the-taliban-he-had-been-kidnapped-in-the-afghan.md) _2017-08-25 03:19:25 (First version)_
+1. [ Daniele Mastrogiacomo, an Italian journalist working for ''la Repubblica'', is set free by the Taliban. He had been kidnapped in the Afghan province of Helmand on March 6. ](/news/2007/03/19/daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-is-set-free-by-the-taliban-he-had-been-kidnapped-in-the-afghan.md) _2018-02-06 13:49:17 (First version)_
 1. [ Daniele Mastrogiacomo, an Italian journalist working for "la Repubblica", is set free by the Taliban. He had been kidnapped in the Afghan province of Helmand on March 6. ](/news/2007/03/19/daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-is-set-free-by-the-taliban-he-had-been-kidnapped-in-the-afghan-p.md) _(Current version)_
 
 ### Related:

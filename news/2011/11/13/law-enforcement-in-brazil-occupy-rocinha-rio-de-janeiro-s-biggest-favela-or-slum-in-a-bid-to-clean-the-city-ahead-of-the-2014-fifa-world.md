@@ -16,7 +16,7 @@ More than 3,000 police and soldiers backed by armored personnel carriers raced i
 
 ### Changes:
 
-1. [Law enforcement in Brazil occupy Rocinha, Rio de Janeiro's biggest ''favela'' or slum, in a bid to clean the city ahead of the 2014 FIFA World Cup and 2016 Summer Olympics. ](/news/2011/11/13/law-enforcement-in-brazil-occupy-rocinha-rio-de-janeiro-s-biggest-favela-or-slum-in-a-bid-to-clean-the-city-ahead-of-the-2014-fifa-wor.md) _2017-08-25 03:34:29 (First version)_
+1. [Law enforcement in Brazil occupy Rocinha, Rio de Janeiro's biggest ''favela'' or slum, in a bid to clean the city ahead of the 2014 FIFA World Cup and 2016 Summer Olympics. ](/news/2011/11/13/law-enforcement-in-brazil-occupy-rocinha-rio-de-janeiro-s-biggest-favela-or-slum-in-a-bid-to-clean-the-city-ahead-of-the-2014-fifa-wor.md) _2018-02-06 13:49:23 (First version)_
 1. [Law enforcement in Brazil occupy Rocinha, Rio de Janeiro's biggest "favela" or slum, in a bid to clean the city ahead of the 2014 FIFA World Cup and 2016 Summer Olympics. ](/news/2011/11/13/law-enforcement-in-brazil-occupy-rocinha-rio-de-janeiro-s-biggest-favela-or-slum-in-a-bid-to-clean-the-city-ahead-of-the-2014-fifa-world.md) _(Current version)_
 
 ### Related:

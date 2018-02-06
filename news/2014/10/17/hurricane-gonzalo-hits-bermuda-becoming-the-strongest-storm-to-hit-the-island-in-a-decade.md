@@ -17,7 +17,7 @@ Bermuda issued a hurricane watch for Category 4 Hurricane Gonzalo, which is expe
 
 ### Changes:
 
-1. [2014 Atlantic hurricane season: Hurricane Gonzalo hits Bermuda becoming the strongest storm to hit the island in a decade. ](/news/2014/10/17/2014-atlantic-hurricane-season-hurricane-gonzalo-hits-bermuda-becoming-the-strongest-storm-to-hit-the-island-in-a-decade.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Atlantic hurricane season: Hurricane Gonzalo hits Bermuda becoming the strongest storm to hit the island in a decade. ](/news/2014/10/17/2014-atlantic-hurricane-season-hurricane-gonzalo-hits-bermuda-becoming-the-strongest-storm-to-hit-the-island-in-a-decade.md) _2018-02-06 13:49:26 (First version)_
 1. [Hurricane Gonzalo hits Bermuda becoming the strongest storm to hit the island in a decade. ](/news/2014/10/17/hurricane-gonzalo-hits-bermuda-becoming-the-strongest-storm-to-hit-the-island-in-a-decade.md) _(Current version)_
 
 ### Related:

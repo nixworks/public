@@ -16,7 +16,7 @@ Authorities in Ivory Coast say they are setting up a national commission to inve
 
 ### Changes:
 
-1. [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010-2011-ivorian-crisis.md) _2017-08-27 03:33:38 (First version)_
+1. [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010-2011-ivorian-crisis.md) _2018-02-06 13:49:22 (First version)_
 1. [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010a2011-ivorian-crisis.md) _(Current version)_
 
 ### Related:

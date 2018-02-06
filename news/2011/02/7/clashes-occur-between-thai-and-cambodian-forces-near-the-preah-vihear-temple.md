@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-
 
 ### Changes:
 
-1. [Cambodian-Thai border stand-off: Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/cambodian-thai-border-stand-off-clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _2017-08-27 03:32:13 (First version)_
+1. [Cambodian-Thai border stand-off: Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/cambodian-thai-border-stand-off-clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _2018-02-06 13:49:22 (First version)_
 1. [Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _(Current version)_
 
 ### Related:

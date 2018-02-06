@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/02/16/a-suicide-bombing-kills-general-ali-aouni-the-h
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-of.md) _2017-08-25 03:37:32 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-o.md) _2017-08-27 03:37:43 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-of.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-o.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/a-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-of-his-bodyguards-in-tal-afar.md) _(Current version)_
 
 ### Related:

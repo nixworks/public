@@ -17,8 +17,8 @@ Specially trained dogs this evening found three victims, bringing the total to s
 
 ### Changes:
 
-1. [2010 San Bruno pipeline explosion:The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-pthe-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-f.md) _2017-08-25 03:29:59 (First version)_
-2. [2010 San Bruno pipeline explosion:: The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-the-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san.md) _2017-08-27 03:30:03 (Update)_
+1. [2010 San Bruno pipeline explosion:: The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-the-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 San Bruno pipeline explosion:The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-pthe-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-f.md) _2018-02-06 13:49:20 (Update)_
 2. [The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/the-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md) _(Current version)_
 
 ### Related:

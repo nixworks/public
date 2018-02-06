@@ -16,8 +16,8 @@ Gunmen have killed at least 30 people in an attack in a farming region in northe
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-pgunmen-kill-30-people-in-northeastern-nigeria.md) _2017-08-25 03:39:08 (First version)_
-2. [Nigerian Sharia conflict:: Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-gunmen-kill-30-people-in-northeastern-nigeria.md) _2017-08-27 03:39:24 (Update)_
+1. [Nigerian Sharia conflict:Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-pgunmen-kill-30-people-in-northeastern-nigeria.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-gunmen-kill-30-people-in-northeastern-nigeria.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/gunmen-kill-30-people-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

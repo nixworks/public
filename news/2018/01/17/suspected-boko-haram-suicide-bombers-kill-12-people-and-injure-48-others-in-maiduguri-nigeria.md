@@ -16,7 +16,7 @@ Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in a
 
 ### Changes:
 
-1. [Suspected Boko Haram suicide bombers kill 12, injure 48. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-injure-48.md) _2018-01-18 00:30:06 (First version)_
+1. [Suspected Boko Haram suicide bombers kill 12, injure 48. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-injure-48.md) _2018-02-06 13:49:31 (First version)_
 1. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _(Current version)_
 
 ### Related:

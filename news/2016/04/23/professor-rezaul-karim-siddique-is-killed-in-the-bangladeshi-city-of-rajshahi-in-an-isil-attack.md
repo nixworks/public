@@ -17,7 +17,7 @@ Unidentified attackers hacked to death a university teacher in northwestern Bang
 
 ### Changes:
 
-1. [Attacks on secularists in Bangladesh: Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/attacks-on-secularists-in-bangladesh-professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md) _2017-08-27 03:45:47 (First version)_
+1. [Attacks on secularists in Bangladesh: Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/attacks-on-secularists-in-bangladesh-professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md) _2018-02-06 13:49:28 (First version)_
 1. [Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md) _(Current version)_
 
 ### Related:

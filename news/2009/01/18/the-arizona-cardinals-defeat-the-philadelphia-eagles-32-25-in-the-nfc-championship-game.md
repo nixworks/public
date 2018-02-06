@@ -17,8 +17,8 @@ Get box score updates on the Baltimore Ravens vs. Pittsburgh Steelers football g
 
 ### Changes:
 
-1. [ 2008-09 National Football League playoffs (Super Bowl XLIII): The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/2008-09-national-football-league-playoffs-super-bowl-xliii-p-the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-champi.md) _2017-08-25 03:23:30 (First version)_
-2. [ 2008-09 National Football League playoffs (Super Bowl XLIII):: The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/2008-09-national-football-league-playoffs-super-bowl-xliii-the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-champi.md) _2017-08-27 03:23:22 (Update)_
+1. [ 2008-09 National Football League playoffs (Super Bowl XLIII):: The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/2008-09-national-football-league-playoffs-super-bowl-xliii-the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-champi.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-09 National Football League playoffs (Super Bowl XLIII): The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/2008-09-national-football-league-playoffs-super-bowl-xliii-p-the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-champi.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-championship-game.md) _(Current version)_
 
 ### Related:

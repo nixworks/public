@@ -18,8 +18,8 @@ A huge car bomb has killed at least eight people and injured dozens in the centr
 
 ### Changes:
 
-1. [2011-2012 conflict in Lebanon:A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/2011a2012-conflict-in-lebanon-pa-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and.md) _2017-08-25 03:36:43 (First version)_
-2. [2011-2012 conflict in Lebanon:: A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/2011-2012-conflict-in-lebanon-a-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and.md) _2017-08-27 03:36:53 (Update)_
+1. [2011-2012 conflict in Lebanon:A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/2011a2012-conflict-in-lebanon-pa-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and.md) _2018-02-06 13:49:24 (First version)_
+2. [2011-2012 conflict in Lebanon:: A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/2011-2012-conflict-in-lebanon-a-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and.md) _2018-02-06 13:49:24 (Update)_
 2. [A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/a-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and-wounding-up-to-78-others.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Bars and restaurants in Beirut closed Saturday in solidarity with anti-governmen
 
 ### Changes:
 
-1. [2015 Lebanese protests: Protestors in Beirut continue their protests against the government due to a lack of effective garbage collection in the city during one of the hottest summers on record. ](/news/2015/08/30/2015-lebanese-protests-protestors-in-beirut-continue-their-protests-against-the-government-due-to-a-lack-of-effective-garbage-collection-in.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Lebanese protests: Protestors in Beirut continue their protests against the government due to a lack of effective garbage collection in the city during one of the hottest summers on record. ](/news/2015/08/30/2015-lebanese-protests-protestors-in-beirut-continue-their-protests-against-the-government-due-to-a-lack-of-effective-garbage-collection-in.md) _2018-02-06 13:49:27 (First version)_
 1. [Protestors in Beirut continue their protests against the government due to a lack of effective garbage collection in the city during one of the hottest summers on record. ](/news/2015/08/30/protestors-in-beirut-continue-their-protests-against-the-government-due-to-a-lack-of-effective-garbage-collection-in-the-city-during-one-of.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/11/fresh-violence-in-bolivia-stokes-civil-war-fear
 
 ### Changes:
 
-1. [ 2008 unrest in Bolivia: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-p-fresh-violence-in-bolivia-stokes-civil-war-fears.md) _2017-08-25 03:22:51 (First version)_
-2. [ 2008 unrest in Bolivia:: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-fresh-violence-in-bolivia-stokes-civil-war-fears.md) _2017-08-27 03:22:44 (Update)_
+1. [ 2008 unrest in Bolivia: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-p-fresh-violence-in-bolivia-stokes-civil-war-fears.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Bolivia:: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-fresh-violence-in-bolivia-stokes-civil-war-fears.md) _2018-02-06 13:49:18 (Update)_
 2. [ Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/fresh-violence-in-bolivia-stokes-civil-war-fears.md) _(Current version)_
 
 ### Related:

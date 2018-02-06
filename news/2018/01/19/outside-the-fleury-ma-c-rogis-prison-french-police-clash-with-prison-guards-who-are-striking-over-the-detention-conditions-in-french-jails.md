@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/19/outside-the-fleury-ma-c-rogis-prison-french-pol
 
 ### Changes:
 
-1. [Outside the Fleury-Mrogis prison, French police clash with prison guards who are striking over the detention conditions in French jails. ](/news/2018/01/19/outside-the-fleury-merogis-prison-french-police-clash-with-prison-guards-who-are-striking-over-the-detention-conditions-in-french-jails.md) _2018-01-19 18:30:06 (First version)_
+1. [Outside the Fleury-Mrogis prison, French police clash with prison guards who are striking over the detention conditions in French jails. ](/news/2018/01/19/outside-the-fleury-merogis-prison-french-police-clash-with-prison-guards-who-are-striking-over-the-detention-conditions-in-french-jails.md) _2018-02-06 13:49:31 (First version)_
 1. [Outside the Fleury-Merogis prison, French police clash with prison guards who are striking over the detention conditions in French jails. ](/news/2018/01/19/outside-the-fleury-ma-c-rogis-prison-french-police-clash-with-prison-guards-who-are-striking-over-the-detention-conditions-in-french-jails.md) _(Current version)_
 
 ### Related:

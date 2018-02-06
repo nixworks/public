@@ -16,7 +16,7 @@ At least 12 soldiers from the Philippines have died during heavy fighting with A
 
 ### Changes:
 
-1. [Moro conflict: At least 12 Philippine Army soldiers die in clashes with the Abu Sayyaf. ](/news/2016/08/29/moro-conflict-at-least-12-philippine-army-soldiers-die-in-clashes-with-the-abu-sayyaf.md) _2017-08-27 03:46:44 (First version)_
+1. [Moro conflict: At least 12 Philippine Army soldiers die in clashes with the Abu Sayyaf. ](/news/2016/08/29/moro-conflict-at-least-12-philippine-army-soldiers-die-in-clashes-with-the-abu-sayyaf.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 12 Philippine Army soldiers die in clashes with the Abu Sayyaf. ](/news/2016/08/29/at-least-12-philippine-army-soldiers-die-in-clashes-with-the-abu-sayyaf.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Madonna has suffered an embarrassing fall at the Brit Awards.
 
 ### Changes:
 
-1. [2015 Brit Awards: American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/2015-brit-awards-american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md) _2017-08-27 03:42:00 (First version)_
+1. [2015 Brit Awards: American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/2015-brit-awards-american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md) _2018-02-06 13:49:26 (First version)_
 1. [American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md) _(Current version)_
 
 ### Related:

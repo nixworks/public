@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-los
 
 ### Changes:
 
-1. [ An Australian Army Black Hawk helicopter is lost at sea off the coast of Fiji where it had been operating from HMAS ''Kanimbla'' (L-51) preparing to evacuate Australian civilians in the event of a coup. The Fijian military is holding an exercise in the capital Suva claiming there are fears of a "foreign intervention". ](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-lost-at-sea-off-the-coast-of-fiji-where-it-had-been-operating-from-hmas-kanimbla-l-51-pre.md) _2017-08-25 03:18:52 (First version)_
+1. [ An Australian Army Black Hawk helicopter is lost at sea off the coast of Fiji where it had been operating from HMAS ''Kanimbla'' (L-51) preparing to evacuate Australian civilians in the event of a coup. The Fijian military is holding an exercise in the capital Suva claiming there are fears of a "foreign intervention". ](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-lost-at-sea-off-the-coast-of-fiji-where-it-had-been-operating-from-hmas-kanimbla-l-51-pre.md) _2018-02-06 13:49:17 (First version)_
 1. [ An Australian Army Black Hawk helicopter is lost at sea off the coast of Fiji where it had been operating from HMAS "Kanimbla" (L-51) preparing to evacuate Australian civilians in the event of a coup. The Fijian military is holding an exercise in the capital Suva claiming there are fears of a "foreign intervention". ](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-lost-at-sea-off-the-coast-of-fiji-where-it-had-been-operating-from-hmas-kanimbla-l-51-prepa.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Islamic State-linked Ansar Beit al-Maqdis claims responsibility for wide-ranging
 
 ### Changes:
 
-1. [Sinai insurgency: Ansar Beit al-Maqdis claims responsibility for widespread attacks on Egyptian army and police targets throughout the Sinai Peninsula killing at least 25 people. ](/news/2015/01/29/sinai-insurgency-ansar-beit-al-maqdis-claims-responsibility-for-widespread-attacks-on-egyptian-army-and-police-targets-throughout-the-sinai.md) _2017-08-27 03:41:51 (First version)_
+1. [Sinai insurgency: Ansar Beit al-Maqdis claims responsibility for widespread attacks on Egyptian army and police targets throughout the Sinai Peninsula killing at least 25 people. ](/news/2015/01/29/sinai-insurgency-ansar-beit-al-maqdis-claims-responsibility-for-widespread-attacks-on-egyptian-army-and-police-targets-throughout-the-sinai.md) _2018-02-06 13:49:26 (First version)_
 1. [Ansar Beit al-Maqdis claims responsibility for widespread attacks on Egyptian army and police targets throughout the Sinai Peninsula killing at least 25 people. ](/news/2015/01/29/ansar-beit-al-maqdis-claims-responsibility-for-widespread-attacks-on-egyptian-army-and-police-targets-throughout-the-sinai-peninsula-killing.md) _(Current version)_
 
 ### Related:

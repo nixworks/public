@@ -16,7 +16,7 @@ UK urged to loosen ties with Gulf nation after killing of three Shia Muslims as 
 
 ### Changes:
 
-1. [Bahraini uprising (2011-present): Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. ](/news/2017/01/15/bahraini-uprising-2011-present-bahrain-executes-three-people-for-their-alleged-involvement-in-a-bombing-that-killed-three-police-office.md) _2017-08-27 03:47:36 (First version)_
+1. [Bahraini uprising (2011-present): Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. ](/news/2017/01/15/bahraini-uprising-2011-present-bahrain-executes-three-people-for-their-alleged-involvement-in-a-bombing-that-killed-three-police-office.md) _2018-02-06 13:49:30 (First version)_
 1. [Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. ](/news/2017/01/15/bahrain-executes-three-people-for-their-alleged-involvement-in-a-bombing-that-killed-three-police-officers-in-2014-the-first-executions-in.md) _(Current version)_
 
 ### Related:

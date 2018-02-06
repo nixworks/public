@@ -18,7 +18,7 @@ The most controversial Cabinet pick in recent memory squeaks through with some h
 
 ### Changes:
 
-1. [Cabinet of Donald Trump: The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education. ](/news/2017/02/7/cabinet-of-donald-trump-the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary.md) _2017-08-27 03:47:46 (First version)_
+1. [Cabinet of Donald Trump: The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education. ](/news/2017/02/7/cabinet-of-donald-trump-the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education. ](/news/2017/02/7/the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary-of-education.md) _(Current version)_
 
 ### Related:

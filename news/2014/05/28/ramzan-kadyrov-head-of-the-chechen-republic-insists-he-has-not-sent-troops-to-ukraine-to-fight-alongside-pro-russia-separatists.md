@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-ins
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-pramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongsi.md) _2017-08-25 03:40:28 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongs.md) _2017-08-27 03:40:46 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongs.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-pramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongsi.md) _2018-02-06 13:49:26 (Update)_
 2. [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md) _(Current version)_
 
 ### Related:

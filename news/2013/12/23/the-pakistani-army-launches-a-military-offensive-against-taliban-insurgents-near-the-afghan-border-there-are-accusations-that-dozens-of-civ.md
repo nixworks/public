@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/23/the-pakistani-army-launches-a-military-offensiv
 
 ### Changes:
 
-1. [War in North-West Pakistan:The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-pthe-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-ac.md) _2017-08-25 03:39:45 (First version)_
-2. [War in North-West Pakistan:: The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-a.md) _2017-08-27 03:40:04 (Update)_
+1. [War in North-West Pakistan:: The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-a.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-pthe-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-ac.md) _2018-02-06 13:49:25 (Update)_
 2. [The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-accusations-that-dozens-of-civ.md) _(Current version)_
 
 ### Related:

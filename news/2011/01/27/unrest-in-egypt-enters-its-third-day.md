@@ -18,8 +18,8 @@ Authorities in Egypt brace for more demonstrations, following two days of unrest
 
 ### Changes:
 
-1. [2011 Egyptian protests:Unrest in Egypt enters its third day. ](/news/2011/01/27/2011-egyptian-protests-punrest-in-egypt-enters-its-third-day.md) _2017-08-25 03:31:57 (First version)_
-2. [2011 Egyptian protests:: Unrest in Egypt enters its third day. ](/news/2011/01/27/2011-egyptian-protests-unrest-in-egypt-enters-its-third-day.md) _2017-08-27 03:32:04 (Update)_
+1. [2011 Egyptian protests:: Unrest in Egypt enters its third day. ](/news/2011/01/27/2011-egyptian-protests-unrest-in-egypt-enters-its-third-day.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:Unrest in Egypt enters its third day. ](/news/2011/01/27/2011-egyptian-protests-punrest-in-egypt-enters-its-third-day.md) _2018-02-06 13:49:21 (Update)_
 2. [Unrest in Egypt enters its third day. ](/news/2011/01/27/unrest-in-egypt-enters-its-third-day.md) _(Current version)_
 
 ### Related:

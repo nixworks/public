@@ -18,8 +18,8 @@ Over 30 wounded in explosion on bus carrying Israelis inside Burgas airport; Net
 
 ### Changes:
 
-1. [2012 Burgas bus bombing:At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-pat-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-on.md) _2017-08-25 03:36:08 (First version)_
-2. [2012 Burgas bus bombing:: At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-at-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-o.md) _2017-08-27 03:36:20 (Update)_
+1. [2012 Burgas bus bombing:At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-pat-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-on.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Burgas bus bombing:: At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-at-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-o.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/at-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-on-an-israeli-tourism-bus-a.md) _(Current version)_
 
 ### Related:

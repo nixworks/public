@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/25/mohammed-badie-the-guide-of-egypt-s-muslim-brot
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/post-coup-unrest-in-egypt-pmohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of.md) _2017-08-25 03:40:13 (First version)_
-2. [Post-coup unrest in Egypt:: Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/post-coup-unrest-in-egypt-mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of.md) _2017-08-27 03:40:30 (Update)_
+1. [Post-coup unrest in Egypt:Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/post-coup-unrest-in-egypt-pmohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt:: Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/post-coup-unrest-in-egypt-mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of.md) _2018-02-06 13:49:26 (Update)_
 2. [Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of-incitement-to-kill.md) _(Current version)_
 
 ### Related:

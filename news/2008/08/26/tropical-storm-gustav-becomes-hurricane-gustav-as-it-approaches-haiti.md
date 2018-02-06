@@ -17,7 +17,7 @@ Formats: [HTML](/news/2008/08/26/tropical-storm-gustav-becomes-hurricane-gustav-
 
 ### Changes:
 
-1. [ Hurricane Gustav: Tropical Storm Gustav becomes Hurricane Gustav as it approaches Haiti. ](/news/2008/08/26/hurricane-gustav-tropical-storm-gustav-becomes-hurricane-gustav-as-it-approaches-haiti.md) _2017-08-27 03:22:39 (First version)_
+1. [ Hurricane Gustav: Tropical Storm Gustav becomes Hurricane Gustav as it approaches Haiti. ](/news/2008/08/26/hurricane-gustav-tropical-storm-gustav-becomes-hurricane-gustav-as-it-approaches-haiti.md) _2018-02-06 13:49:18 (First version)_
 1. [ Tropical Storm Gustav becomes Hurricane Gustav as it approaches Haiti. ](/news/2008/08/26/tropical-storm-gustav-becomes-hurricane-gustav-as-it-approaches-haiti.md) _(Current version)_
 
 ### Related:

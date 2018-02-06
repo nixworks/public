@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-secon
 
 ### Changes:
 
-1. [Uruguayan general election: Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/uruguayan-general-election-voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-presid.md) _2017-08-27 03:41:34 (First version)_
+1. [Uruguayan general election: Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/uruguayan-general-election-voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-presid.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-president-tabara-c-va-zquez-of-the.md) _(Current version)_
 
 ### Related:

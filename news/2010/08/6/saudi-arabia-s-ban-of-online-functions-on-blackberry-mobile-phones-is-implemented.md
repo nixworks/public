@@ -17,8 +17,8 @@ A ban on the use of Blackberry phones to send and receive messages is being roll
 
 ### Changes:
 
-1. [Saudi Arabia Blackberry ban:Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-psaudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md) _2017-08-25 03:29:14 (First version)_
-2. [Saudi Arabia Blackberry ban:: Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md) _2017-08-27 03:29:16 (Update)_
+1. [Saudi Arabia Blackberry ban:: Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md) _2018-02-06 13:49:20 (First version)_
+2. [Saudi Arabia Blackberry ban:Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-psaudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md) _2018-02-06 13:49:20 (Update)_
 2. [Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parach
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/war-in-afghanistan-2015-present-united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-no.md) _2017-08-27 03:46:49 (First version)_
+1. [War in Afghanistan (2015-present): United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/war-in-afghanistan-2015-present-united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-no.md) _2018-02-06 13:49:29 (First version)_
 1. [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md) _(Current version)_
 
 ### Related:

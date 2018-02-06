@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [A 6.3 magnitude earthquake struck 25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-report.md) _2017-08-25 03:44:30 (First version)_
+1. [A 6.3 magnitude earthquake struck 25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-report.md) _2018-02-06 13:49:28 (First version)_
 1. [A 6.3 magnitude earthquake struck 25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-reporte.md) _(Current version)_
 
 ### Related:

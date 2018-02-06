@@ -16,7 +16,7 @@ Yahya Jammeh quits after trying to cling to power, paving the way for his electe
 
 ### Changes:
 
-1. [2016-2017 Gambian constitutional crisis: Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/2016-2017-gambian-constitutional-crisis-former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _2017-08-27 03:47:39 (First version)_
+1. [2016-2017 Gambian constitutional crisis: Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/2016-2017-gambian-constitutional-crisis-former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _2018-02-06 13:49:30 (First version)_
 1. [Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _(Current version)_
 
 ### Related:

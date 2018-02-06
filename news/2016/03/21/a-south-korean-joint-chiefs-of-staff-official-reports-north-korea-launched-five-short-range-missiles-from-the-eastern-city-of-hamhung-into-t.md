@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/03/21/a-south-korean-joint-chiefs-of-staff-official-r
 
 ### Changes:
 
-1. [A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-missiles-from-the-eastern-city-of-hamhung-into.md) _2017-08-25 03:44:59 (First version)_
-2. [North Korea and weapons of mass destruction: A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/north-korea-and-weapons-of-mass-destruction-a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-mis.md) _2017-08-27 03:45:20 (Update)_
+1. [North Korea and weapons of mass destruction: A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/north-korea-and-weapons-of-mass-destruction-a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-mis.md) _2018-02-06 13:49:28 (First version)_
+2. [A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-missiles-from-the-eastern-city-of-hamhung-into.md) _2018-02-06 13:49:28 (Update)_
 2. [A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-missiles-from-the-eastern-city-of-hamhung-into-t.md) _(Current version)_
 
 ### Related:

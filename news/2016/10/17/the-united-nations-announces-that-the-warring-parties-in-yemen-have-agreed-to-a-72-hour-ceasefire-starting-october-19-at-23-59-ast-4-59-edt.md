@@ -17,7 +17,7 @@ SANAA, Yemen (AP) — The warring parties in Yemen have agreed to a 72-hour ceas
 
 ### Changes:
 
-1. [Yemeni Civil War: The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/yemeni-civil-war-the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-2.md) _2017-08-27 03:47:04 (First version)_
+1. [Yemeni Civil War: The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/yemeni-civil-war-the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-2.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-23-59-ast-4-59-edt.md) _(Current version)_
 
 ### Related:

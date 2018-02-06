@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spina
 
 ### Changes:
 
-1. [ 2006 United States ''E. coli'' outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of ''E. coli'' in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli.md) _2017-08-25 03:18:24 (First version)_
+1. [ 2006 United States ''E. coli'' outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of ''E. coli'' in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli.md) _2018-02-06 13:49:17 (First version)_
 1. [ 2006 United States "E. coli" outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of "E. coli" in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli-in.md) _(Current version)_
 
 ### Related:

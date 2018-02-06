@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-admini
 
 ### Changes:
 
-1. [ Panel of advisors to the US Food and Drug Administration (FDA) recommends approval of flibanserin by 18-6 to improve a woman's libido. ](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-administration-fda-recommends-approval-of-flibanserin-by-18-6-to-improve-a-woman-s-libido.md) _2017-08-27 03:42:28 (First version)_
+1. [ Panel of advisors to the US Food and Drug Administration (FDA) recommends approval of flibanserin by 18-6 to improve a woman's libido. ](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-administration-fda-recommends-approval-of-flibanserin-by-18-6-to-improve-a-woman-s-libido.md) _2018-02-06 13:49:27 (First version)_
 1. [ Panel of advisors to the US Food and Drug Administration (FDA) recommends approval of flibanserin by 18-6 to improve a woman's libido. ](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-administration-fda-recommends-approval-of-flibanserin-by-18a6-to-improve-a-woman-s-libido.md) _(Current version)_
 
 ### Related:

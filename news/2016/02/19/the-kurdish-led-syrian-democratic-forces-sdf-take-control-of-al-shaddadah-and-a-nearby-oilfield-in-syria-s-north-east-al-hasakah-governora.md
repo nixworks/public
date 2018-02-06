@@ -17,7 +17,7 @@ A Kurdish-led force backed by US-led air strikes has seized an Isis stronghold i
 
 ### Changes:
 
-1. [Syrian Civil War: The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/syrian-civil-war-the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al.md) _2017-08-27 03:44:57 (First version)_
+1. [Syrian Civil War: The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/syrian-civil-war-the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al.md) _2018-02-06 13:49:28 (First version)_
 1. [The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al-hasakah-governora.md) _(Current version)_
 
 ### Related:

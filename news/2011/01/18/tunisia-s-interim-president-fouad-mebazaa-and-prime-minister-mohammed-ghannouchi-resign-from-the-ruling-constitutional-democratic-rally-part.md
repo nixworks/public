@@ -19,8 +19,8 @@ The French foreign minister defends her handling of the Tunisian crisis, saying 
 
 ### Changes:
 
-1. [Situation in Tunisia:Tunisia's interim President Fouad Mebazaa and Prime Minister Mohammed Ghannouchi resign from the ruling Constitutional Democratic Rally party amid a row over the make-up of the new government. ](/news/2011/01/18/situation-in-tunisia-ptunisia-s-interim-president-fouad-mebazaa-and-prime-minister-mohammed-ghannouchi-resign-from-the-ruling-constitutional.md) _2017-08-25 03:31:50 (First version)_
-2. [Situation in Tunisia:: Tunisia's interim President Fouad Mebazaa and Prime Minister Mohammed Ghannouchi resign from the ruling Constitutional Democratic Rally party amid a row over the make-up of the new government. ](/news/2011/01/18/situation-in-tunisia-tunisia-s-interim-president-fouad-mebazaa-and-prime-minister-mohammed-ghannouchi-resign-from-the-ruling-constitutiona.md) _2017-08-27 03:31:58 (Update)_
+1. [Situation in Tunisia:: Tunisia's interim President Fouad Mebazaa and Prime Minister Mohammed Ghannouchi resign from the ruling Constitutional Democratic Rally party amid a row over the make-up of the new government. ](/news/2011/01/18/situation-in-tunisia-tunisia-s-interim-president-fouad-mebazaa-and-prime-minister-mohammed-ghannouchi-resign-from-the-ruling-constitutiona.md) _2018-02-06 13:49:21 (First version)_
+2. [Situation in Tunisia:Tunisia's interim President Fouad Mebazaa and Prime Minister Mohammed Ghannouchi resign from the ruling Constitutional Democratic Rally party amid a row over the make-up of the new government. ](/news/2011/01/18/situation-in-tunisia-ptunisia-s-interim-president-fouad-mebazaa-and-prime-minister-mohammed-ghannouchi-resign-from-the-ruling-constitutional.md) _2018-02-06 13:49:21 (Update)_
 2. [Tunisia's interim President Fouad Mebazaa and Prime Minister Mohammed Ghannouchi resign from the ruling Constitutional Democratic Rally party amid a row over the make-up of the new government. ](/news/2011/01/18/tunisia-s-interim-president-fouad-mebazaa-and-prime-minister-mohammed-ghannouchi-resign-from-the-ruling-constitutional-democratic-rally-part.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-
 
 ### Changes:
 
-1. [Italian constitutional referendum, 2016: Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/italian-constitutional-referendum-2016-paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _2017-08-27 03:47:25 (First version)_
+1. [Italian constitutional referendum, 2016: Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/italian-constitutional-referendum-2016-paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _2018-02-06 13:49:29 (First version)_
 1. [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _(Current version)_
 
 ### Related:

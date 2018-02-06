@@ -17,7 +17,7 @@ Some 15,000 Syrians are massed at the Turkish border after fleeing a government 
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/syrian-civil-war-the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md) _2017-08-27 03:44:50 (First version)_
+1. [Syrian Civil War: The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/syrian-civil-war-the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md) _(Current version)_
 
 ### Related:

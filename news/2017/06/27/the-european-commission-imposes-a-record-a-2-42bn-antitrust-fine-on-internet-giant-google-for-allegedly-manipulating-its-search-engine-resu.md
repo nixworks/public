@@ -17,9 +17,9 @@ The European Commission penalises the US tech giant for illegally favouring its 
 
 ### Changes:
 
-1. [The European Commission impose a record $2.7bn antitrust fine on search engine giant Google. This is related to manipulation of its search engine results. ](/news/2017/06/27/the-european-commission-impose-a-record-2-7bn-antitrust-fine-on-search-engine-giant-google-this-is-related-to-manipulation-of-its-search-e.md) _2017-06-28 00:30:07 (First version)_
-2. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md) _2017-06-29 07:30:06 (Update)_
-3. [European Union competition law: The European Commission imposes a record -2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/european-union-competition-law-the-european-commission-imposes-a-record-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-man.md) _2017-08-27 03:48:33 (Update)_
+1. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md) _2018-02-06 13:49:30 (First version)_
+2. [The European Commission impose a record $2.7bn antitrust fine on search engine giant Google. This is related to manipulation of its search engine results. ](/news/2017/06/27/the-european-commission-impose-a-record-2-7bn-antitrust-fine-on-search-engine-giant-google-this-is-related-to-manipulation-of-its-search-e.md) _2018-02-06 13:49:30 (Update)_
+3. [European Union competition law: The European Commission imposes a record -2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/european-union-competition-law-the-european-commission-imposes-a-record-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-man.md) _2018-02-06 13:49:30 (Update)_
 3. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _(Current version)_
 
 ### Related:

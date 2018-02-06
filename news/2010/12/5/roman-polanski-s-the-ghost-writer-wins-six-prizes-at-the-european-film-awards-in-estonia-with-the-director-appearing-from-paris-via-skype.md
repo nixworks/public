@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prize
 
 ### Changes:
 
-1. [Roman Polanski's ''The Ghost Writer'' wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-sk.md) _2017-08-25 03:31:17 (First version)_
+1. [Roman Polanski's ''The Ghost Writer'' wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-sk.md) _2018-02-06 13:49:21 (First version)_
 1. [Roman Polanski's "The Ghost Writer" wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-skype.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-ord
 
 ### Changes:
 
-1. [Legal challenges to Executive Order 13780: A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/legal-challenges-to-executive-order-13780-a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-or.md) _2017-08-27 03:48:37 (First version)_
+1. [Legal challenges to Executive Order 13780: A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/legal-challenges-to-executive-order-13780-a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-or.md) _2018-02-06 13:49:31 (First version)_
 1. [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md) _(Current version)_
 
 ### Related:

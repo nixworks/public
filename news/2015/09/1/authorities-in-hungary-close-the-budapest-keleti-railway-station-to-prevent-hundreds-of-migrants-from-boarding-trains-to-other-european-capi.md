@@ -19,7 +19,7 @@ Hungary has closed Budapest&amp;#39;s main railway station today as hundreds of 
 
 ### Changes:
 
-1. [European migrant crisis: Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/european-migrant-crisis-authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trai.md) _2017-08-27 03:42:56 (First version)_
+1. [European migrant crisis: Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/european-migrant-crisis-authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trai.md) _2018-02-06 13:49:27 (First version)_
 1. [Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trains-to-other-european-capi.md) _(Current version)_
 
 ### Related:

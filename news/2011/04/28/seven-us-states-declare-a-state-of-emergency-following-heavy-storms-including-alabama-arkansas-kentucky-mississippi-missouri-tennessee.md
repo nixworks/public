@@ -19,8 +19,8 @@ STORMS that spawned deadly tornadoes have flattened buildings and knocked out po
 
 ### Changes:
 
-1. [U.S. tornado outbreak:Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-pseven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississipp.md) _2017-08-25 03:32:55 (First version)_
-2. [U.S. tornado outbreak:: Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississip.md) _2017-08-27 03:33:04 (Update)_
+1. [U.S. tornado outbreak:: Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississip.md) _2018-02-06 13:49:22 (First version)_
+2. [U.S. tornado outbreak:Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-pseven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississipp.md) _2018-02-06 13:49:22 (Update)_
 2. [Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississippi-missouri-tennessee.md) _(Current version)_
 
 ### Related:

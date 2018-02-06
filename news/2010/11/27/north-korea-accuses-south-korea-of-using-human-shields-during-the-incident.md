@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/11/27/north-korea-accuses-south-korea-of-using-human-
 
 ### Changes:
 
-1. [Shelling of Yeonpyeong:North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/shelling-of-yeonpyeong-pnorth-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md) _2017-08-25 03:31:10 (First version)_
-2. [Shelling of Yeonpyeong:: North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/shelling-of-yeonpyeong-north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md) _2017-08-27 03:31:17 (Update)_
+1. [Shelling of Yeonpyeong:North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/shelling-of-yeonpyeong-pnorth-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md) _2018-02-06 13:49:21 (First version)_
+2. [Shelling of Yeonpyeong:: North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/shelling-of-yeonpyeong-north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md) _2018-02-06 13:49:21 (Update)_
 2. [North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md) _(Current version)_
 
 ### Related:

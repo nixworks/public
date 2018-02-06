@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/7/north-korea-releases-85-year-old-american-retire
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-pnorth-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-agai.md) _2017-08-25 03:39:38 (First version)_
-2. [2013 Korean crisis:: North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-aga.md) _2017-08-27 03:39:56 (Update)_
+1. [2013 Korean crisis:North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-pnorth-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-agai.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Korean crisis:: North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-aga.md) _2018-02-06 13:49:25 (Update)_
 2. [North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-again-asks-the-dprk-to-p.md) _(Current version)_
 
 ### Related:

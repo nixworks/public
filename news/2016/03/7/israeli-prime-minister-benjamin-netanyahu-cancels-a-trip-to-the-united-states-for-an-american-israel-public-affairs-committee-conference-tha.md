@@ -18,7 +18,7 @@ Israeli Prime Minister Benjamin Netanyahu said on Tuesday he had declined a prop
 
 ### Changes:
 
-1. [Israel-United States relations: Israeli Prime Minister Benjamin Netanyahu cancels a trip to the United States for an American Israel Public Affairs Committee conference that was to include a meeting with U.S. President Barack Obama. ](/news/2016/03/7/israel-united-states-relations-israeli-prime-minister-benjamin-netanyahu-cancels-a-trip-to-the-united-states-for-an-american-israel-public.md) _2017-08-27 03:45:09 (First version)_
+1. [Israel-United States relations: Israeli Prime Minister Benjamin Netanyahu cancels a trip to the United States for an American Israel Public Affairs Committee conference that was to include a meeting with U.S. President Barack Obama. ](/news/2016/03/7/israel-united-states-relations-israeli-prime-minister-benjamin-netanyahu-cancels-a-trip-to-the-united-states-for-an-american-israel-public.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu cancels a trip to the United States for an American Israel Public Affairs Committee conference that was to include a meeting with U.S. President Barack Obama. ](/news/2016/03/7/israeli-prime-minister-benjamin-netanyahu-cancels-a-trip-to-the-united-states-for-an-american-israel-public-affairs-committee-conference-tha.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/07/13/mexico-s-federal-police-capture-a-man-who-was-a
 
 ### Changes:
 
-1. [Mexican Drug War: Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexican-drug-war-mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md) _2017-08-27 03:33:53 (First version)_
+1. [Mexican Drug War: Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexican-drug-war-mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md) _2018-02-06 13:49:22 (First version)_
 1. [Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md) _(Current version)_
 
 ### Related:

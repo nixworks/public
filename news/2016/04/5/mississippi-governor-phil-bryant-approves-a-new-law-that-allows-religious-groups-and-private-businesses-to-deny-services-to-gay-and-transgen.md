@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/5/mississippi-governor-phil-bryant-approves-a-new-
 
 ### Changes:
 
-1. [LGBT rights in the United States: Mississippi Governor Phil Bryant approves a new law that allows religious groups and private businesses to deny services to gay and transgender people. ](/news/2016/04/5/lgbt-rights-in-the-united-states-mississippi-governor-phil-bryant-approves-a-new-law-that-allows-religious-groups-and-private-businesses-to.md) _2017-08-27 03:45:30 (First version)_
+1. [LGBT rights in the United States: Mississippi Governor Phil Bryant approves a new law that allows religious groups and private businesses to deny services to gay and transgender people. ](/news/2016/04/5/lgbt-rights-in-the-united-states-mississippi-governor-phil-bryant-approves-a-new-law-that-allows-religious-groups-and-private-businesses-to.md) _2018-02-06 13:49:29 (First version)_
 1. [Mississippi Governor Phil Bryant approves a new law that allows religious groups and private businesses to deny services to gay and transgender people. ](/news/2016/04/5/mississippi-governor-phil-bryant-approves-a-new-law-that-allows-religious-groups-and-private-businesses-to-deny-services-to-gay-and-transgen.md) _(Current version)_
 
 ### Related:

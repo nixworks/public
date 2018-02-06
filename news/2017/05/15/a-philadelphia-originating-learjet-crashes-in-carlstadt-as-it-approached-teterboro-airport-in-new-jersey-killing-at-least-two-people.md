@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-c
 
 ### Changes:
 
-1. [A Learjet crash as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-learjet-crash-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _2017-05-15 21:30:06 (First version)_
-2. [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _2017-05-16 03:52:51 (Update)_
+1. [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _2018-02-06 13:49:30 (First version)_
+2. [A Learjet crash as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-learjet-crash-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _2018-02-06 13:49:30 (Update)_
 2. [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md) _(Current version)_
 
 ### Related:

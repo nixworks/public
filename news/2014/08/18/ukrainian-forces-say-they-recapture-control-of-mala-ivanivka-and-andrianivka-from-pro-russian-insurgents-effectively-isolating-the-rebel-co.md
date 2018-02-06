@@ -16,8 +16,8 @@ Ukrainian government forces pressed pro-Russian separatists in fighting overnigh
 
 ### Changes:
 
-1. [War in Donbass:Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/war-in-donbass-pukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isolat.md) _2017-08-25 03:40:51 (First version)_
-2. [War in Donbass:: Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/war-in-donbass-ukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isola.md) _2017-08-27 03:41:10 (Update)_
+1. [War in Donbass:: Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/war-in-donbass-ukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isola.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/war-in-donbass-pukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isolat.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/ukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isolating-the-rebel-co.md) _(Current version)_
 
 ### Related:

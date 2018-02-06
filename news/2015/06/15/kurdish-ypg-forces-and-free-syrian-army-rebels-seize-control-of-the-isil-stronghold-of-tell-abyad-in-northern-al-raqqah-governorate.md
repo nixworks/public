@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-
 
 ### Changes:
 
-1. [Syrian Civil War: Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/syrian-civil-war-kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-go.md) _2017-08-27 03:42:33 (First version)_
+1. [Syrian Civil War: Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/syrian-civil-war-kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-go.md) _2018-02-06 13:49:27 (First version)_
 1. [Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-governorate.md) _(Current version)_
 
 ### Related:

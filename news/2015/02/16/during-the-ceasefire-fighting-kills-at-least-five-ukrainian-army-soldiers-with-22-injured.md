@@ -17,7 +17,7 @@ A two-day-old truce in Ukraine was at risk of collapsing Monday as fighting rage
 
 ### Changes:
 
-1. [War in Donbass: During the ceasefire, fighting kills at least five Ukrainian Army soldiers with 22 injured. ](/news/2015/02/16/war-in-donbass-during-the-ceasefire-fighting-kills-at-least-five-ukrainian-army-soldiers-with-22-injured.md) _2017-08-27 03:41:56 (First version)_
+1. [War in Donbass: During the ceasefire, fighting kills at least five Ukrainian Army soldiers with 22 injured. ](/news/2015/02/16/war-in-donbass-during-the-ceasefire-fighting-kills-at-least-five-ukrainian-army-soldiers-with-22-injured.md) _2018-02-06 13:49:26 (First version)_
 1. [During the ceasefire, fighting kills at least five Ukrainian Army soldiers with 22 injured. ](/news/2015/02/16/during-the-ceasefire-fighting-kills-at-least-five-ukrainian-army-soldiers-with-22-injured.md) _(Current version)_
 
 ### Related:

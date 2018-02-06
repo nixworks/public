@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/05/10/the-victorian-iron-gates-of-a-children-s-home-w
 
 ### Changes:
 
-1. [The Victorian iron gates of a children's home which inspired John Lennon to write the Beatles hit ''Strawberry Fields Forever'' have been removed by the property's owners and placed in storage. ](/news/2011/05/10/the-victorian-iron-gates-of-a-children-s-home-which-inspired-john-lennon-to-write-the-beatles-hit-strawberry-fields-forever-have-been-re.md) _2017-08-25 03:33:04 (First version)_
+1. [The Victorian iron gates of a children's home which inspired John Lennon to write the Beatles hit ''Strawberry Fields Forever'' have been removed by the property's owners and placed in storage. ](/news/2011/05/10/the-victorian-iron-gates-of-a-children-s-home-which-inspired-john-lennon-to-write-the-beatles-hit-strawberry-fields-forever-have-been-re.md) _2018-02-06 13:49:22 (First version)_
 1. [The Victorian iron gates of a children's home which inspired John Lennon to write the Beatles hit "Strawberry Fields Forever" have been removed by the property's owners and placed in storage. ](/news/2011/05/10/the-victorian-iron-gates-of-a-children-s-home-which-inspired-john-lennon-to-write-the-beatles-hit-strawberry-fields-forever-have-been-remo.md) _(Current version)_
 
 ### Related:

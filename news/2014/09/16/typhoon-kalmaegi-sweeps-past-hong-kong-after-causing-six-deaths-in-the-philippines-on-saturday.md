@@ -16,8 +16,8 @@ Hong Kong was shuttered today as a powerful typhoon swept past the city, bringin
 
 ### Changes:
 
-1. [2014 Pacific typhoon season:Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/2014-pacific-typhoon-season-ptyphoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md) _2017-08-25 03:40:59 (First version)_
-2. [2014 Pacific typhoon season:: Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/2014-pacific-typhoon-season-typhoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md) _2017-08-27 03:41:17 (Update)_
+1. [2014 Pacific typhoon season:: Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/2014-pacific-typhoon-season-typhoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Pacific typhoon season:Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/2014-pacific-typhoon-season-ptyphoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md) _2018-02-06 13:49:26 (Update)_
 2. [Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/typhoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md) _(Current version)_
 
 ### Related:

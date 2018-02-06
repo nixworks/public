@@ -17,7 +17,7 @@ Award comes despite peace deal being voted down in a referendum
 
 ### Changes:
 
-1. [2016 Nobel Peace Prize: The Nobel Prize committee awards Colombian president Juan Manuel Santos the Nobel Peace Prize for his resolute efforts to bring the country's more than 50-year-long civil war to an end, a war that has cost the lives of at least 220 thousand Colombians and displaced close to six million people. ](/news/2016/10/7/2016-nobel-peace-prize-the-nobel-prize-committee-awards-colombian-president-juan-manuel-santos-the-nobel-peace-prize-for-his-resolute-effor.md) _2017-08-27 03:46:59 (First version)_
+1. [2016 Nobel Peace Prize: The Nobel Prize committee awards Colombian president Juan Manuel Santos the Nobel Peace Prize for his resolute efforts to bring the country's more than 50-year-long civil war to an end, a war that has cost the lives of at least 220 thousand Colombians and displaced close to six million people. ](/news/2016/10/7/2016-nobel-peace-prize-the-nobel-prize-committee-awards-colombian-president-juan-manuel-santos-the-nobel-peace-prize-for-his-resolute-effor.md) _2018-02-06 13:49:29 (First version)_
 1. [The Nobel Prize committee awards Colombian president Juan Manuel Santos the Nobel Peace Prize for his resolute efforts to bring the country's more than 50-year-long civil war to an end, a war that has cost the lives of at least 220 thousand Colombians and displaced close to six million people. ](/news/2016/10/7/the-nobel-prize-committee-awards-colombian-president-juan-manuel-santos-the-nobel-peace-prize-for-his-resolute-efforts-to-bring-the-country.md) _(Current version)_
 
 ### Related:

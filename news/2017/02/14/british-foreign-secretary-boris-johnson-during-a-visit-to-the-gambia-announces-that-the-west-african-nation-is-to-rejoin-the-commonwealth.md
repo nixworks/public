@@ -16,7 +16,7 @@ Adama Barrow, the new president of The Gambia, says he wants to rekindle ties wi
 
 ### Changes:
 
-1. [Foreign relations of the Gambia: British Foreign Secretary Boris Johnson, during a visit to the Gambia, announces that the West African nation is to rejoin the Commonwealth of Nations following talks with Gambian President Adama Barrow. The Gambia withdrew from the Commonwealth in 2013 under Yahya Jammeh, who considered it a "neo-colonial institution". ](/news/2017/02/14/foreign-relations-of-the-gambia-british-foreign-secretary-boris-johnson-during-a-visit-to-the-gambia-announces-that-the-west-african-nati.md) _2017-08-27 03:47:49 (First version)_
+1. [Foreign relations of the Gambia: British Foreign Secretary Boris Johnson, during a visit to the Gambia, announces that the West African nation is to rejoin the Commonwealth of Nations following talks with Gambian President Adama Barrow. The Gambia withdrew from the Commonwealth in 2013 under Yahya Jammeh, who considered it a "neo-colonial institution". ](/news/2017/02/14/foreign-relations-of-the-gambia-british-foreign-secretary-boris-johnson-during-a-visit-to-the-gambia-announces-that-the-west-african-nati.md) _2018-02-06 13:49:30 (First version)_
 1. [British Foreign Secretary Boris Johnson, during a visit to the Gambia, announces that the West African nation is to rejoin the Commonwealth of Nations following talks with Gambian President Adama Barrow. The Gambia withdrew from the Commonwealth in 2013 under Yahya Jammeh, who considered it a "neo-colonial institution". ](/news/2017/02/14/british-foreign-secretary-boris-johnson-during-a-visit-to-the-gambia-announces-that-the-west-african-nation-is-to-rejoin-the-commonwealth.md) _(Current version)_
 
 ### Related:

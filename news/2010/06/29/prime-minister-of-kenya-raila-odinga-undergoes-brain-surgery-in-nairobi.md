@@ -21,7 +21,7 @@ Rescue workers say there is little chance of finding more survivors after a gold
 
 ### Changes:
 
-1. [Africa: Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/africa-prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md) _2017-08-27 03:28:29 (First version)_
+1. [Africa: Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/africa-prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md) _2018-02-06 13:49:20 (First version)_
 1. [Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md) _(Current version)_
 
 ### Related:

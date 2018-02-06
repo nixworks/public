@@ -16,7 +16,7 @@ Malaysia, southern Thailandand parts of the Philippines have been battered by he
 
 ### Changes:
 
-1. [2014 Southeast Asian floods: Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/2014-southeast-asian-floods-flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md) _2017-08-27 03:41:42 (First version)_
+1. [2014 Southeast Asian floods: Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/2014-southeast-asian-floods-flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md) _2018-02-06 13:49:26 (First version)_
 1. [Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md) _(Current version)_
 
 ### Related:

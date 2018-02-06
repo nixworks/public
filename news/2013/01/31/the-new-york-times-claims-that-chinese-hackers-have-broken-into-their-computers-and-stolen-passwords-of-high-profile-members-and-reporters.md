@@ -17,7 +17,7 @@ The timing of the attacks coincided with reporting for an investigation that fou
 
 ### Changes:
 
-1. [''The New York Times'' claims that Chinese hackers have broken into their computers and stolen passwords of high-profile members and reporters over the past four months, around the same time the paper began an investigation involving wealth accumulation by relatives of Premier Wen Jiabao. ](/news/2013/01/31/the-new-york-times-claims-that-chinese-hackers-have-broken-into-their-computers-and-stolen-passwords-of-high-profile-members-and-reporte.md) _2017-08-25 03:37:24 (First version)_
+1. [''The New York Times'' claims that Chinese hackers have broken into their computers and stolen passwords of high-profile members and reporters over the past four months, around the same time the paper began an investigation involving wealth accumulation by relatives of Premier Wen Jiabao. ](/news/2013/01/31/the-new-york-times-claims-that-chinese-hackers-have-broken-into-their-computers-and-stolen-passwords-of-high-profile-members-and-reporte.md) _2018-02-06 13:49:24 (First version)_
 1. ["The New York Times" claims that Chinese hackers have broken into their computers and stolen passwords of high-profile members and reporters over the past four months, around the same time the paper began an investigation involving wealth accumulation by relatives of Premier Wen Jiabao. ](/news/2013/01/31/the-new-york-times-claims-that-chinese-hackers-have-broken-into-their-computers-and-stolen-passwords-of-high-profile-members-and-reporters.md) _(Current version)_
 
 ### Related:

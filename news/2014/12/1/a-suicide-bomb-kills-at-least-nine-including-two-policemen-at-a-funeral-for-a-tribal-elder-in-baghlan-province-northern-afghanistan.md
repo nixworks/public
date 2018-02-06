@@ -16,8 +16,8 @@ At least nine killed and 20 wounded in suicide attack at funeral in Baghlan prov
 
 ### Changes:
 
-1. [War in Afghanistan:A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/war-in-afghanistan-pa-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northe.md) _2017-08-25 03:41:16 (First version)_
-2. [War in Afghanistan:: A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/war-in-afghanistan-a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-north.md) _2017-08-27 03:41:34 (Update)_
+1. [War in Afghanistan:A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/war-in-afghanistan-pa-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northe.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan:: A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/war-in-afghanistan-a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-north.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northern-afghanistan.md) _(Current version)_
 
 ### Related:

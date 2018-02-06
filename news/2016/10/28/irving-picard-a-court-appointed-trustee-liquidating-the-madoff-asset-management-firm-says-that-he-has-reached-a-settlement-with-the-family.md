@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/28/irving-picard-a-court-appointed-trustee-liquida
 
 ### Changes:
 
-1. [Bernard Madoff: Irving Picard, a court-appointed trustee liquidating the Madoff asset management firm, says that he has reached a settlement with the family of the late Stanley Chais, in connection with monies that had been funneled from California investors, through Chais, into Madoff's Ponzi scheme. ](/news/2016/10/28/bernard-madoff-irving-picard-a-court-appointed-trustee-liquidating-the-madoff-asset-management-firm-says-that-he-has-reached-a-settlement.md) _2017-08-27 03:47:08 (First version)_
+1. [Bernard Madoff: Irving Picard, a court-appointed trustee liquidating the Madoff asset management firm, says that he has reached a settlement with the family of the late Stanley Chais, in connection with monies that had been funneled from California investors, through Chais, into Madoff's Ponzi scheme. ](/news/2016/10/28/bernard-madoff-irving-picard-a-court-appointed-trustee-liquidating-the-madoff-asset-management-firm-says-that-he-has-reached-a-settlement.md) _2018-02-06 13:49:29 (First version)_
 1. [Irving Picard, a court-appointed trustee liquidating the Madoff asset management firm, says that he has reached a settlement with the family of the late Stanley Chais, in connection with monies that had been funneled from California investors, through Chais, into Madoff's Ponzi scheme. ](/news/2016/10/28/irving-picard-a-court-appointed-trustee-liquidating-the-madoff-asset-management-firm-says-that-he-has-reached-a-settlement-with-the-family.md) _(Current version)_
 
 ### Related:

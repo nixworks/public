@@ -16,7 +16,7 @@ The first named storm of winter - Storm Angus - is battering the south coast of 
 
 ### Changes:
 
-1. [2016-17 UK and Ireland windstorm season: Storm Angus brings strong winds and heavy rain to southern England and the Channel Islands. ](/news/2016/11/20/2016-17-uk-and-ireland-windstorm-season-storm-angus-brings-strong-winds-and-heavy-rain-to-southern-england-and-the-channel-islands.md) _2017-08-27 03:47:16 (First version)_
+1. [2016-17 UK and Ireland windstorm season: Storm Angus brings strong winds and heavy rain to southern England and the Channel Islands. ](/news/2016/11/20/2016-17-uk-and-ireland-windstorm-season-storm-angus-brings-strong-winds-and-heavy-rain-to-southern-england-and-the-channel-islands.md) _2018-02-06 13:49:29 (First version)_
 1. [Storm Angus brings strong winds and heavy rain to southern England and the Channel Islands. ](/news/2016/11/20/storm-angus-brings-strong-winds-and-heavy-rain-to-southern-england-and-the-channel-islands.md) _(Current version)_
 
 ### Related:

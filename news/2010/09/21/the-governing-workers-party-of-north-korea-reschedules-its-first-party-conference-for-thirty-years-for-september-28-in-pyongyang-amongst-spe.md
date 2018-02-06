@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/09/21/the-governing-workers-party-of-north-korea-resc
 
 ### Changes:
 
-1. [The governing Workers Party of North Korea reschedules its first party conference for thirty years for September 28 in Pyongyang amongst speculation that Leader Kim Jong-il will name his youngest son Kim Jong-un as his successor. ](/news/2010/09/21/the-governing-workers-party-of-north-korea-reschedules-its-first-party-conference-for-thirty-years-for-september-28-in-pyongyang-amongst-sp.md) _2017-08-25 03:30:09 (First version)_
+1. [The governing Workers Party of North Korea reschedules its first party conference for thirty years for September 28 in Pyongyang amongst speculation that Leader Kim Jong-il will name his youngest son Kim Jong-un as his successor. ](/news/2010/09/21/the-governing-workers-party-of-north-korea-reschedules-its-first-party-conference-for-thirty-years-for-september-28-in-pyongyang-amongst-sp.md) _2018-02-06 13:49:20 (First version)_
 1. [The governing Workers Party of North Korea reschedules its first party conference for thirty years for September 28 in Pyongyang amongst speculation that Leader Kim Jong-il will name his youngest son Kim Jong-un as his successor. ](/news/2010/09/21/the-governing-workers-party-of-north-korea-reschedules-its-first-party-conference-for-thirty-years-for-september-28-in-pyongyang-amongst-spe.md) _(Current version)_
 
 ### Related:

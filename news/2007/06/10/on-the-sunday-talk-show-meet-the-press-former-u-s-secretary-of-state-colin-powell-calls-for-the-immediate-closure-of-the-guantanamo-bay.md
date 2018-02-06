@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u
 
 ### Changes:
 
-1. [ On the Sunday talk show ''Meet the Press'', former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-b.md) _2017-08-25 03:19:57 (First version)_
+1. [ On the Sunday talk show ''Meet the Press'', former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-b.md) _2018-02-06 13:49:17 (First version)_
 1. [ On the Sunday talk show "Meet the Press", former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-bay.md) _(Current version)_
 
 ### Related:

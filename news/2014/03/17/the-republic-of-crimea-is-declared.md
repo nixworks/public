@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/17/the-republic-of-crimea-is-declared.html)  [JSON
 
 ### Changes:
 
-1. [Crimean referendum, 2014: The Republic of Crimea is declared. ](/news/2014/03/17/crimean-referendum-2014-the-republic-of-crimea-is-declared.md) _2017-08-27 03:40:28 (First version)_
+1. [Crimean referendum, 2014: The Republic of Crimea is declared. ](/news/2014/03/17/crimean-referendum-2014-the-republic-of-crimea-is-declared.md) _2018-02-06 13:49:25 (First version)_
 1. [The Republic of Crimea is declared. ](/news/2014/03/17/the-republic-of-crimea-is-declared.md) _(Current version)_
 
 ### Related:

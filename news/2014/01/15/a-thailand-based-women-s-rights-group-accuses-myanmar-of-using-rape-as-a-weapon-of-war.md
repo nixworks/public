@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/15/a-thailand-based-women-s-rights-group-accuses-m
 
 ### Changes:
 
-1. [Internal conflict in Burma:A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/internal-conflict-in-burma-pa-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md) _2017-08-25 03:39:52 (First version)_
-2. [Internal conflict in Burma:: A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/internal-conflict-in-burma-a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md) _2017-08-27 03:40:10 (Update)_
+1. [Internal conflict in Burma:A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/internal-conflict-in-burma-pa-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md) _2018-02-06 13:49:25 (First version)_
+2. [Internal conflict in Burma:: A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/internal-conflict-in-burma-a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md) _2018-02-06 13:49:25 (Update)_
 2. [A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md) _(Current version)_
 
 ### Related:

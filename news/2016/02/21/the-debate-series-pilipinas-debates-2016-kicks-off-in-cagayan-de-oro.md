@@ -16,7 +16,7 @@ CAGAYAN DE ORO, Philippines -- Presidential candidates hoping to succeed incumbe
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. ](/news/2016/02/21/philippine-presidential-election-2016-the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _2017-08-27 03:44:58 (First version)_
+1. [Philippine presidential election, 2016: The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. ](/news/2016/02/21/philippine-presidential-election-2016-the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _2018-02-06 13:49:28 (First version)_
 1. [The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. ](/news/2016/02/21/the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _(Current version)_
 
 ### Related:

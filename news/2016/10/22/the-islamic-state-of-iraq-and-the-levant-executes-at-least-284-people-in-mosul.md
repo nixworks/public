@@ -17,7 +17,7 @@ Islamic State militants have allegedly executed at least 284 men and boys in the
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Battle of Mosul (2016): The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. ](/news/2016/10/22/iraqi-civil-war-2014-present-battle-of-mosul-2016-the-islamic-state-of-iraq-and-the-levant-executes-at-least-284-people-in-mosul.md) _2017-08-27 03:47:06 (First version)_
+1. [Iraqi Civil War (2014-present): Battle of Mosul (2016): The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. ](/news/2016/10/22/iraqi-civil-war-2014-present-battle-of-mosul-2016-the-islamic-state-of-iraq-and-the-levant-executes-at-least-284-people-in-mosul.md) _2018-02-06 13:49:29 (First version)_
 1. [The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. ](/news/2016/10/22/the-islamic-state-of-iraq-and-the-levant-executes-at-least-284-people-in-mosul.md) _(Current version)_
 
 ### Related:

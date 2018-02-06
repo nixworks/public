@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nominat
 
 ### Changes:
 
-1. [ ({{Interlanguage link multi|Moon Chang-keuk|ko|3=muncanggeug}}) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/interlanguage-link-multi-moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-kor.md) _2017-05-01 03:44:08 (First version)_
-2. [ (Moon Chang-keuk|ko|3=muncanggeug) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-histori.md) _2017-08-29 03:40:32 (Update)_
+1. [ (Moon Chang-keuk|ko|3=muncanggeug) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-histori.md) _2018-02-06 13:49:26 (First version)_
+2. [ ({{Interlanguage link multi|Moon Chang-keuk|ko|3=muncanggeug}}) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/interlanguage-link-multi-moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-kor.md) _2018-02-06 13:49:26 (Update)_
 2. [ (Moon Chang-keuk withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.md) _(Current version)_
 
 ### Related:

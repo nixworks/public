@@ -16,8 +16,8 @@ France is considering tripling its forces in Central African Republic as the cou
 
 ### Changes:
 
-1. [Central African Republic conflict (2012-13):France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/central-african-republic-conflict-2012a13-pfrance-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md) _2017-08-25 03:39:35 (First version)_
-2. [Central African Republic conflict (2012-13):: France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/central-african-republic-conflict-2012-13-france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md) _2017-08-27 03:39:53 (Update)_
+1. [Central African Republic conflict (2012-13):France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/central-african-republic-conflict-2012a13-pfrance-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md) _2018-02-06 13:49:25 (First version)_
+2. [Central African Republic conflict (2012-13):: France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/central-african-republic-conflict-2012-13-france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md) _2018-02-06 13:49:25 (Update)_
 2. [France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md) _(Current version)_
 
 ### Related:

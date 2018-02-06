@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/2016-pacific-typhoon-season-typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md) _2017-08-27 03:46:55 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/2016-pacific-typhoon-season-typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md) _(Current version)_
 
 ### Related:

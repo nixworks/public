@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-li
 
 ### Changes:
 
-1. [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (PS14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-aps14-million-to-five-people.md) _2017-08-25 03:27:05 (First version)_
+1. [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (PS14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-aps14-million-to-five-people.md) _2018-02-06 13:49:19 (First version)_
 1. [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (GBP14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-agbp14-million-to-five-peop.md) _(Current version)_
 
 ### Related:

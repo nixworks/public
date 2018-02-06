@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-a
 
 ### Changes:
 
-1. [Terrorism in Saudi Arabia: At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/terrorism-in-saudi-arabia-at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _2017-08-27 03:44:47 (First version)_
+1. [Terrorism in Saudi Arabia: At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/terrorism-in-saudi-arabia-at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _(Current version)_
 
 ### Related:

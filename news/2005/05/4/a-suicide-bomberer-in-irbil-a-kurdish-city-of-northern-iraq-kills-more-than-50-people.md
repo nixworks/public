@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/05/4/a-suicide-bomberer-in-irbil-a-kurdish-city-of-no
 
 ### Changes:
 
-1. [ Conflict in Iraq: A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/conflict-in-iraq-p-a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md) _2017-08-25 03:16:08 (First version)_
-2. [ Conflict in Iraq:: A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/conflict-in-iraq-a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md) _2017-08-27 03:16:10 (Update)_
+1. [ Conflict in Iraq: A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/conflict-in-iraq-p-a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/conflict-in-iraq-a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md) _2018-02-06 13:49:16 (Update)_
 2. [ A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md) _(Current version)_
 
 ### Related:

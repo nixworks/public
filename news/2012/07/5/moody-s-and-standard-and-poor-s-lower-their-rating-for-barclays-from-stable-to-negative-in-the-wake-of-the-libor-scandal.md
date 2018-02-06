@@ -17,7 +17,7 @@ The chancellor accepts that Ed Balls was not personally involved in the Libor ra
 
 ### Changes:
 
-1. [Libor inter-bank lending rate: Moody's and Standard and Poor's lower their rating for Barclays from stable to negative in the wake of the Libor scandal. ](/news/2012/07/5/libor-inter-bank-lending-rate-moody-s-and-standard-and-poor-s-lower-their-rating-for-barclays-from-stable-to-negative-in-the-wake-of-the-li.md) _2017-08-27 03:36:14 (First version)_
+1. [Libor inter-bank lending rate: Moody's and Standard and Poor's lower their rating for Barclays from stable to negative in the wake of the Libor scandal. ](/news/2012/07/5/libor-inter-bank-lending-rate-moody-s-and-standard-and-poor-s-lower-their-rating-for-barclays-from-stable-to-negative-in-the-wake-of-the-li.md) _2018-02-06 13:49:23 (First version)_
 1. [Moody's and Standard and Poor's lower their rating for Barclays from stable to negative in the wake of the Libor scandal. ](/news/2012/07/5/moody-s-and-standard-and-poor-s-lower-their-rating-for-barclays-from-stable-to-negative-in-the-wake-of-the-libor-scandal.md) _(Current version)_
 
 ### Related:

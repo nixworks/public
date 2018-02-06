@@ -16,7 +16,7 @@ The Olympic torch visited the fictional London borough of Walford when it appear
 
 ### Changes:
 
-1. [The Olympic torch features in a special live section of the British soap ''EastEnders'' when actor Perry Fenwick, in character as Billy Mitchell, carries it through the fictional London borough of Walford as part of the 2012 Olympic torch relay. ](/news/2012/07/23/the-olympic-torch-features-in-a-special-live-section-of-the-british-soap-eastenders-when-actor-perry-fenwick-in-character-as-billy-mitc.md) _2017-08-25 03:36:09 (First version)_
+1. [The Olympic torch features in a special live section of the British soap ''EastEnders'' when actor Perry Fenwick, in character as Billy Mitchell, carries it through the fictional London borough of Walford as part of the 2012 Olympic torch relay. ](/news/2012/07/23/the-olympic-torch-features-in-a-special-live-section-of-the-british-soap-eastenders-when-actor-perry-fenwick-in-character-as-billy-mitc.md) _2018-02-06 13:49:23 (First version)_
 1. [The Olympic torch features in a special live section of the British soap "EastEnders" when actor Perry Fenwick, in character as Billy Mitchell, carries it through the fictional London borough of Walford as part of the 2012 Olympic torch relay. ](/news/2012/07/23/the-olympic-torch-features-in-a-special-live-section-of-the-british-soap-eastenders-when-actor-perry-fenwick-in-character-as-billy-mitche.md) _(Current version)_
 
 ### Related:

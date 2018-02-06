@@ -16,8 +16,8 @@ Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapp
 
 ### Changes:
 
-1. [Colombian armed conflict (1964-present):The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/colombian-armed-conflict-1964apresent-pthe-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois.md) _2017-08-25 03:35:46 (First version)_
-2. [Colombian armed conflict (1964-present):: The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/colombian-armed-conflict-1964-present-the-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois.md) _2017-08-27 03:35:56 (Update)_
+1. [Colombian armed conflict (1964-present):The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/colombian-armed-conflict-1964apresent-pthe-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois.md) _2018-02-06 13:49:23 (First version)_
+2. [Colombian armed conflict (1964-present):: The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/colombian-armed-conflict-1964-present-the-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois.md) _2018-02-06 13:49:23 (Update)_
 2. [The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/the-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois-a-french-reporter-they-kidnapped-on-28-april.md) _(Current version)_
 
 ### Related:

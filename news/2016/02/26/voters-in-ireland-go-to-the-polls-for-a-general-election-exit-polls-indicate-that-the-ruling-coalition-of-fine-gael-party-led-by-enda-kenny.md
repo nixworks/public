@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general
 
 ### Changes:
 
-1. [Irish general election, 2016: Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/irish-general-election-2016-voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fin.md) _2017-08-27 03:45:03 (First version)_
+1. [Irish general election, 2016: Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/irish-general-election-2016-voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fin.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md) _(Current version)_
 
 ### Related:

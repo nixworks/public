@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sa
 
 ### Changes:
 
-1. [Kazakhstan issues an official -thank you- to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-thank-you-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md) _2017-08-27 03:35:42 (First version)_
+1. [Kazakhstan issues an official -thank you- to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-thank-you-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md) _2018-02-06 13:49:23 (First version)_
 1. [Kazakhstan issues an official 'thank you' to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/01/14/communitary-forces-take-several-towns-in-mexica
 
 ### Changes:
 
-1. [Mexican Drug War: Communitary forces take several towns in Mexican state of Michoacn trying to expel the Knights Templar Cartel forces, and prompting the intervention of Mexican Army against them.](/news/2014/01/14/mexican-drug-war-communitary-forces-take-several-towns-in-mexican-state-of-michoacan-trying-to-expel-the-knights-templar-cartel-forces-and.md) _2017-08-27 03:40:10 (First version)_
+1. [Mexican Drug War: Communitary forces take several towns in Mexican state of Michoacn trying to expel the Knights Templar Cartel forces, and prompting the intervention of Mexican Army against them.](/news/2014/01/14/mexican-drug-war-communitary-forces-take-several-towns-in-mexican-state-of-michoacan-trying-to-expel-the-knights-templar-cartel-forces-and.md) _2018-02-06 13:49:25 (First version)_
 1. [Communitary forces take several towns in Mexican state of Michoacn trying to expel the Knights Templar Cartel forces, and prompting the intervention of Mexican Army against them.](/news/2014/01/14/communitary-forces-take-several-towns-in-mexican-state-of-michoacan-trying-to-expel-the-knights-templar-cartel-forces-and-prompting-the-int.md) _(Current version)_
 
 ### Related:

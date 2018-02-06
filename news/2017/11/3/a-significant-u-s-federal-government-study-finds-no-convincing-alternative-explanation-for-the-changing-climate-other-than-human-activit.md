@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/11/3/a-significant-u-s-federal-government-study-finds
 
 ### Changes:
 
-1. [A significant US federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.md) _2017-11-10 23:30:04 (First version)_
+1. [A significant US federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.md) _2018-02-06 13:49:31 (First version)_
 1. [A significant U.S. federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-u-s-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activit.md) _(Current version)_
 
 ### Related:

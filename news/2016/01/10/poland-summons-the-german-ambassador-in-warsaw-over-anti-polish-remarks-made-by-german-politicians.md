@@ -16,7 +16,7 @@ Poland criticises German politicians for what it calls &quot;anti-Polish&quot; c
 
 ### Changes:
 
-1. [Germany-Poland relations: Poland summons the German ambassador in Warsaw over "anti-Polish" remarks made by German politicians. ](/news/2016/01/10/germany-poland-relations-poland-summons-the-german-ambassador-in-warsaw-over-anti-polish-remarks-made-by-german-politicians.md) _2017-08-27 03:44:38 (First version)_
+1. [Germany-Poland relations: Poland summons the German ambassador in Warsaw over "anti-Polish" remarks made by German politicians. ](/news/2016/01/10/germany-poland-relations-poland-summons-the-german-ambassador-in-warsaw-over-anti-polish-remarks-made-by-german-politicians.md) _2018-02-06 13:49:28 (First version)_
 1. [Poland summons the German ambassador in Warsaw over "anti-Polish" remarks made by German politicians. ](/news/2016/01/10/poland-summons-the-german-ambassador-in-warsaw-over-anti-polish-remarks-made-by-german-politicians.md) _(Current version)_
 
 ### Related:

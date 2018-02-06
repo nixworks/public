@@ -16,8 +16,8 @@ Mohamed Ibrahim Rageh had fled Mogadishu, the Somali capital, in 2009 after a sp
 
 ### Changes:
 
-1. [War in Somalia (2009-present):A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009apresent-pa-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md) _2017-08-25 03:38:26 (First version)_
-2. [War in Somalia (2009-present):: A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009-present-a-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md) _2017-08-27 03:38:39 (Update)_
+1. [War in Somalia (2009-present):A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009apresent-pa-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia (2009-present):: A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009-present-a-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md) _2018-02-06 13:49:24 (Update)_
 2. [A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/a-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md) _(Current version)_
 
 ### Related:

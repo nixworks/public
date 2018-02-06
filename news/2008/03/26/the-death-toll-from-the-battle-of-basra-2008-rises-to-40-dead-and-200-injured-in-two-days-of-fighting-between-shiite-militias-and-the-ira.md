@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/03/26/the-death-toll-from-the-battle-of-basra-2008-ri
 
 ### Changes:
 
-1. [ Iraq war: The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/iraq-war-p-the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias.md) _2017-08-25 03:21:59 (First version)_
-2. [ Iraq war:: The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/iraq-war-the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias.md) _2017-08-27 03:21:53 (Update)_
+1. [ Iraq war:: The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/iraq-war-the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias.md) _2018-02-06 13:49:18 (First version)_
+2. [ Iraq war: The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/iraq-war-p-the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias.md) _2018-02-06 13:49:18 (Update)_
 2. [ The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias-and-the-ira.md) _(Current version)_
 
 ### Related:

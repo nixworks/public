@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/6/3-people-are-killed-in-shooting-at-a-mcdonald-s-
 
 ### Changes:
 
-1. [Europe: 3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/europe-3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md) _2017-08-27 03:28:36 (First version)_
+1. [Europe: 3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/europe-3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md) _2018-02-06 13:49:20 (First version)_
 1. [3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md) _(Current version)_
 
 ### Related:

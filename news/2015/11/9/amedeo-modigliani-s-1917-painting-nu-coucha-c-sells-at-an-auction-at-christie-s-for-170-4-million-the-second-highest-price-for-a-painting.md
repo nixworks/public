@@ -16,7 +16,7 @@ The price tag for the single work was a far cry from the roughly $4,700 in today
 
 ### Changes:
 
-1. [Amedeo Modigliani's 1917 painting ''Nu couche'' sells at an auction at Christie's for $170.4 million, the second highest price for a painting on record. ](/news/2015/11/9/amedeo-modigliani-s-1917-painting-nu-coucha-c-sells-at-an-auction-at-christie-s-for-170-4-million-the-second-highest-price-for-a-painti.md) _2017-08-25 03:43:27 (First version)_
+1. [Amedeo Modigliani's 1917 painting ''Nu couche'' sells at an auction at Christie's for $170.4 million, the second highest price for a painting on record. ](/news/2015/11/9/amedeo-modigliani-s-1917-painting-nu-coucha-c-sells-at-an-auction-at-christie-s-for-170-4-million-the-second-highest-price-for-a-painti.md) _2018-02-06 13:49:28 (First version)_
 1. [Amedeo Modigliani's 1917 painting "Nu couche" sells at an auction at Christie's for $170.4 million, the second highest price for a painting on record. ](/news/2015/11/9/amedeo-modigliani-s-1917-painting-nu-coucha-c-sells-at-an-auction-at-christie-s-for-170-4-million-the-second-highest-price-for-a-painting.md) _(Current version)_
 
 ### Related:

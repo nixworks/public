@@ -18,8 +18,8 @@ Dozens of people were killed on Friday as Syrian protesters demonstrated over of
 
 ### Changes:
 
-1. [Syrian uprising:At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-pat-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-dur.md) _2017-08-25 03:33:21 (First version)_
-2. [Syrian uprising:: At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-at-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-du.md) _2017-08-27 03:33:30 (Update)_
+1. [Syrian uprising:At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-pat-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-dur.md) _2018-02-06 13:49:22 (First version)_
+2. [Syrian uprising:: At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-at-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-du.md) _2018-02-06 13:49:22 (Update)_
 2. [At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/at-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-during-the-demonstra.md) _(Current version)_
 
 ### Related:

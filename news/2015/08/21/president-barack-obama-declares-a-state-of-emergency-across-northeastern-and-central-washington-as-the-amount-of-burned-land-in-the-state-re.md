@@ -17,7 +17,7 @@ Winds will continue to challenge firefighters across North Central Washington. P
 
 ### Changes:
 
-1. [2015 Washington state wildfires: President Barack Obama declares a state of emergency across northeastern and central Washington as the amount of burned land in the state reaches nearly a half-million acres. ](/news/2015/08/21/2015-washington-state-wildfires-president-barack-obama-declares-a-state-of-emergency-across-northeastern-and-central-washington-as-the-amou.md) _2017-08-27 03:42:52 (First version)_
+1. [2015 Washington state wildfires: President Barack Obama declares a state of emergency across northeastern and central Washington as the amount of burned land in the state reaches nearly a half-million acres. ](/news/2015/08/21/2015-washington-state-wildfires-president-barack-obama-declares-a-state-of-emergency-across-northeastern-and-central-washington-as-the-amou.md) _2018-02-06 13:49:27 (First version)_
 1. [President Barack Obama declares a state of emergency across northeastern and central Washington as the amount of burned land in the state reaches nearly a half-million acres. ](/news/2015/08/21/president-barack-obama-declares-a-state-of-emergency-across-northeastern-and-central-washington-as-the-amount-of-burned-land-in-the-state-re.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Blast takes out Israeli diplomatic vehicle near New Delhi embassy; envoy&#39;s w
 
 ### Changes:
 
-1. [13 February 2012 attacks on Israeli diplomats:An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/13-february-2012-attacks-on-israeli-diplomats-pan-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy-i.md) _2017-08-25 03:35:02 (First version)_
-2. [13 February 2012 attacks on Israeli diplomats:: An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/13-february-2012-attacks-on-israeli-diplomats-an-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy.md) _2017-08-27 03:35:12 (Update)_
+1. [13 February 2012 attacks on Israeli diplomats:An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/13-february-2012-attacks-on-israeli-diplomats-pan-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy-i.md) _2018-02-06 13:49:23 (First version)_
+2. [13 February 2012 attacks on Israeli diplomats:: An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/13-february-2012-attacks-on-israeli-diplomats-an-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy.md) _2018-02-06 13:49:23 (Update)_
 2. [An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/an-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy-in-new-delhi-india-one-woman-is-injured.md) _(Current version)_
 
 ### Related:

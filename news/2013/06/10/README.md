@@ -13,7 +13,7 @@ _Context: Colombia, Venezuela, Nicolas Maduro_
 
 ##### attack
 ### [A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/a-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-remaining-syrian-go.md)
-_Context: Menagh Air Base, Aleppo, attack_
+_Context: attack, Menagh Air Base, Aleppo_
 
 ##### Taliban
 ### [Seven heavily armed Taliban militants launch a coordinated attack near the main international airport of the Afghan capital, Kabul, and seize a five-story building under construction nearby. Afghan security forces retake the building, killing all seven militants and sustaining no military or civilian casualties. ](/news/2013/06/10/seven-heavily-armed-taliban-militants-launch-a-coordinated-attack-near-the-main-international-airport-of-the-afghan-capital-kabul-and-seiz.md)
@@ -33,7 +33,7 @@ William Hague faced anger from MPs of all parties and civil liberties campaigner
 
 ##### Gholam-Ali Haddad-Adel
 ### [Gholam-Ali Haddad-Adel, former Speaker of the Iranian parliament, withdraws his candidacy from the June 14 presidential election. ](/news/2013/06/10/gholam-ali-haddad-adel-former-speaker-of-the-iranian-parliament-withdraws-his-candidacy-from-the-june-14-presidential-election.md)
-_Context: Speaker, Gholam-Ali Haddad-Adel, presidential, MPs_
+_Context: MPs, Gholam-Ali Haddad-Adel, Speaker, presidential_
 
 ## [Previous Day...](/news/2013/06/9/index.md)
 

@@ -16,7 +16,7 @@ Indonesian Navy confirms the cockpit voice recorder from the AirAsia plane that 
 
 ### Changes:
 
-1. [Indonesia AirAsia Flight 8501: Divers recover the cockpit voice recorder from the crashed jet. The Indonesian National Transportation Safety Committee states that by using the now collected recorders a preliminary report on the accident will be produced within a month and a final report after a year. ](/news/2015/01/13/indonesia-airasia-flight-8501-divers-recover-the-cockpit-voice-recorder-from-the-crashed-jet-the-indonesian-national-transportation-safety.md) _2017-08-27 03:41:47 (First version)_
+1. [Indonesia AirAsia Flight 8501: Divers recover the cockpit voice recorder from the crashed jet. The Indonesian National Transportation Safety Committee states that by using the now collected recorders a preliminary report on the accident will be produced within a month and a final report after a year. ](/news/2015/01/13/indonesia-airasia-flight-8501-divers-recover-the-cockpit-voice-recorder-from-the-crashed-jet-the-indonesian-national-transportation-safety.md) _2018-02-06 13:49:26 (First version)_
 1. [Divers recover the cockpit voice recorder from the crashed jet. The Indonesian National Transportation Safety Committee states that by using the now collected recorders a preliminary report on the accident will be produced within a month and a final report after a year. ](/news/2015/01/13/divers-recover-the-cockpit-voice-recorder-from-the-crashed-jet-the-indonesian-national-transportation-safety-committee-states-that-by-using.md) _(Current version)_
 
 ### Related:

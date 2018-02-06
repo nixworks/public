@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-cent
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/islamic-state-of-iraq-and-the-levant-a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md) _2017-08-27 03:41:29 (First version)_
+1. [Islamic State of Iraq and the Levant: A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/islamic-state-of-iraq-and-the-levant-a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md) _(Current version)_
 
 ### Related:

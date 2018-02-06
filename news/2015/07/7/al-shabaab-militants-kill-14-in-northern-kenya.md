@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.h
 
 ### Changes:
 
-1. [Terrorism in Kenya: War in Somalia (2009-present): Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/terrorism-in-kenya-war-in-somalia-2009-present-al-shabaab-militants-kill-14-in-northern-kenya.md) _2017-08-27 03:42:40 (First version)_
+1. [Terrorism in Kenya: War in Somalia (2009-present): Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/terrorism-in-kenya-war-in-somalia-2009-present-al-shabaab-militants-kill-14-in-northern-kenya.md) _2018-02-06 13:49:27 (First version)_
 1. [ Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.md) _(Current version)_
 
 ### Related:

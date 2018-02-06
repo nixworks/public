@@ -16,7 +16,7 @@ A suicide bomber kills at least eight military officers in an attack on an air f
 
 ### Changes:
 
-1. [Taliban insurgency: A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/taliban-insurgency-a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md) _2017-08-27 03:40:55 (First version)_
+1. [Taliban insurgency: A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/taliban-insurgency-a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md) _(Current version)_
 
 ### Related:

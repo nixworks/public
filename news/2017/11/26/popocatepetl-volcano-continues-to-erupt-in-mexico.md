@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexi
 
 ### Changes:
 
-1. [Popocatpetl volcano errupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-errupts-in-mexico.md) _2017-11-26 15:30:06 (First version)_
-2. [Popocatpetl volcano erupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-erupts-in-mexico.md) _2017-11-26 17:30:06 (Update)_
+1. [Popocatpetl volcano erupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-erupts-in-mexico.md) _2018-02-06 13:49:31 (First version)_
+2. [Popocatpetl volcano errupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-errupts-in-mexico.md) _2018-02-06 13:49:31 (Update)_
 2. [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md) _(Current version)_
 
 ### Related:

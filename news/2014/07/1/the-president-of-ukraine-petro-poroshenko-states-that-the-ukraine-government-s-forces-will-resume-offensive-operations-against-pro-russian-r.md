@@ -16,7 +16,7 @@ Ukrainian forces struck at pro-Russian separatist bases in eastern regions with 
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/2014-pro-russian-conflict-in-ukraine-the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offe.md) _2017-08-27 03:40:55 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/2014-pro-russian-conflict-in-ukraine-the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offe.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offensive-operations-against-pro-russian-r.md) _(Current version)_
 
 ### Related:

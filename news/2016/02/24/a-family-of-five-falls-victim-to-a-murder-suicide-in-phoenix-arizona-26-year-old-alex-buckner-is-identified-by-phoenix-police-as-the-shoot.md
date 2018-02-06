@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/24/a-family-of-five-falls-victim-to-a-murder-suici
 
 ### Changes:
 
-1. [2016 Phoenix murders: A family of five falls victim to a murder-suicide in Phoenix, Arizona. 26-year-old Alex Buckner is identified by Phoenix police as the shooter, who was killed in a gunfight with police. ](/news/2016/02/24/2016-phoenix-murders-a-family-of-five-falls-victim-to-a-murder-suicide-in-phoenix-arizona-26-year-old-alex-buckner-is-identified-by-phoen.md) _2017-08-27 03:45:01 (First version)_
+1. [2016 Phoenix murders: A family of five falls victim to a murder-suicide in Phoenix, Arizona. 26-year-old Alex Buckner is identified by Phoenix police as the shooter, who was killed in a gunfight with police. ](/news/2016/02/24/2016-phoenix-murders-a-family-of-five-falls-victim-to-a-murder-suicide-in-phoenix-arizona-26-year-old-alex-buckner-is-identified-by-phoen.md) _2018-02-06 13:49:28 (First version)_
 1. [A family of five falls victim to a murder-suicide in Phoenix, Arizona. 26-year-old Alex Buckner is identified by Phoenix police as the shooter, who was killed in a gunfight with police. ](/news/2016/02/24/a-family-of-five-falls-victim-to-a-murder-suicide-in-phoenix-arizona-26-year-old-alex-buckner-is-identified-by-phoenix-police-as-the-shoot.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Ten police officers are injured as trouble breaks out in east Belfast following 
 
 ### Changes:
 
-1. [Belfast City Hall flag protests:Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/belfast-city-hall-flag-protests-ppolice-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md) _2017-08-25 03:37:11 (First version)_
-2. [Belfast City Hall flag protests:: Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/belfast-city-hall-flag-protests-police-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md) _2017-08-27 03:37:22 (Update)_
+1. [Belfast City Hall flag protests:Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/belfast-city-hall-flag-protests-ppolice-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md) _2018-02-06 13:49:24 (First version)_
+2. [Belfast City Hall flag protests:: Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/belfast-city-hall-flag-protests-police-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md) _2018-02-06 13:49:24 (Update)_
 2. [Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/police-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The 5-year-old patient who is receiving care at HHC Bellevue Hospital Center has
 
 ### Changes:
 
-1. [Ebola virus disease in the United States: A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/ebola-virus-disease-in-the-united-states-a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-af.md) _2017-08-27 03:41:26 (First version)_
+1. [Ebola virus disease in the United States: A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/ebola-virus-disease-in-the-united-states-a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-af.md) _2018-02-06 13:49:26 (First version)_
 1. [A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-after-treating-ebola-patients-in-guinea.md) _(Current version)_
 
 ### Related:

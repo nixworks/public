@@ -15,7 +15,7 @@ Authorities also plan to provide permits for 11,000 settler homes in East Jerusa
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli authorities approve 153 construction permits for settlement homes in East Jerusalem, and plan to approve another 11,000 in the coming months. ](/news/2017/01/27/israeli-palestinian-conflict-israeli-authorities-approve-153-construction-permits-for-settlement-homes-in-east-jerusalem-and-plan-to-app.md) _2017-08-27 03:47:41 (First version)_
+1. [Israeli-Palestinian conflict: Israeli authorities approve 153 construction permits for settlement homes in East Jerusalem, and plan to approve another 11,000 in the coming months. ](/news/2017/01/27/israeli-palestinian-conflict-israeli-authorities-approve-153-construction-permits-for-settlement-homes-in-east-jerusalem-and-plan-to-app.md) _2018-02-06 13:49:30 (First version)_
 1. [Israeli authorities approve 153 construction permits for settlement homes in East Jerusalem, and plan to approve another 11,000 in the coming months. ](/news/2017/01/27/israeli-authorities-approve-153-construction-permits-for-settlement-homes-in-east-jerusalem-and-plan-to-approve-another-11-000-in-the-comin.md) _(Current version)_
 
 ### Related:

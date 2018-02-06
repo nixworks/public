@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n
 
 ### Changes:
 
-1. [Authorities find the remains of two missing U.N. investigators-former Swedish politician Zaida Catalan and U.S. national Michael Sharp-in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. ](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n-investigators-former-swedish-politician-zaida-catala-n-and-u-s-national-michael-sharp.md) _2017-08-27 03:48:03 (First version)_
+1. [Authorities find the remains of two missing U.N. investigators-former Swedish politician Zaida Catalan and U.S. national Michael Sharp-in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. ](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n-investigators-former-swedish-politician-zaida-catala-n-and-u-s-national-michael-sharp.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities find the remains of two missing U.N. investigators--former Swedish politician Zaida Catalan and U.S. national Michael Sharp--in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. ](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n-investigatorsaformer-swedish-politician-zaida-catala-n-and-u-s-national-michael-sharpa.md) _(Current version)_
 
 ### Related:

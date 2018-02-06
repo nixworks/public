@@ -18,7 +18,7 @@ Deadly zoo animals were prowling the streets of Tbilisi on Sunday after floods t
 
 ### Changes:
 
-1. [2015 Tbilisi flood: Flooding in the Georgian capital, Tbilisi, destroys animal enclosures at a zoo resulting in the release of potentially dangerous animals and the death of three zookeepers and six other people. ](/news/2015/06/14/2015-tbilisi-flood-flooding-in-the-georgian-capital-tbilisi-destroys-animal-enclosures-at-a-zoo-resulting-in-the-release-of-potentially-d.md) _2017-08-27 03:42:32 (First version)_
+1. [2015 Tbilisi flood: Flooding in the Georgian capital, Tbilisi, destroys animal enclosures at a zoo resulting in the release of potentially dangerous animals and the death of three zookeepers and six other people. ](/news/2015/06/14/2015-tbilisi-flood-flooding-in-the-georgian-capital-tbilisi-destroys-animal-enclosures-at-a-zoo-resulting-in-the-release-of-potentially-d.md) _2018-02-06 13:49:27 (First version)_
 1. [Flooding in the Georgian capital, Tbilisi, destroys animal enclosures at a zoo resulting in the release of potentially dangerous animals and the death of three zookeepers and six other people. ](/news/2015/06/14/flooding-in-the-georgian-capital-tbilisi-destroys-animal-enclosures-at-a-zoo-resulting-in-the-release-of-potentially-dangerous-animals-and.md) _(Current version)_
 
 ### Related:

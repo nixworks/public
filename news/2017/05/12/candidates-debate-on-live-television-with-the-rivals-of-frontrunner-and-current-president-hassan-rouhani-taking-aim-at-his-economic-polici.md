@@ -16,8 +16,8 @@ Iranian President Hassan Rouhani launched a stinging attack on his main conserva
 
 ### Changes:
 
-1. [Candidates debate on live television with the rivals of frontrunner and current President Hassan Rouhani taking aim at his economic policies. ](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-policies.md) _2017-05-13 07:30:06 (First version)_
-2. [Iranian presidential election, 2017: Candidates debate on live television with the rivals of frontrunner and current president, Hassan Rouhani, taking aim at his economic policies. ](/news/2017/05/12/iranian-presidential-election-2017-candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouha.md) _2017-08-27 03:48:19 (Update)_
+1. [Iranian presidential election, 2017: Candidates debate on live television with the rivals of frontrunner and current president, Hassan Rouhani, taking aim at his economic policies. ](/news/2017/05/12/iranian-presidential-election-2017-candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouha.md) _2018-02-06 13:49:30 (First version)_
+2. [Candidates debate on live television with the rivals of frontrunner and current President Hassan Rouhani taking aim at his economic policies. ](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-policies.md) _2018-02-06 13:49:30 (Update)_
 2. [Candidates debate on live television with the rivals of frontrunner and current president, Hassan Rouhani, taking aim at his economic policies. ](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.md) _(Current version)_
 
 ### Related:

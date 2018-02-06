@@ -18,8 +18,8 @@ Resident of Libyan city calls for help, saying hospitals are overwhelmed by numb
 
 ### Changes:
 
-1. [2011 Libyan civil war:Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/2011-libyan-civil-war-phuman-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md) _2017-08-25 03:32:16 (First version)_
-2. [2011 Libyan civil war:: Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/2011-libyan-civil-war-human-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md) _2017-08-27 03:32:25 (Update)_
+1. [2011 Libyan civil war:Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/2011-libyan-civil-war-phuman-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/2011-libyan-civil-war-human-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md) _2018-02-06 13:49:22 (Update)_
 2. [Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/human-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md) _(Current version)_
 
 ### Related:

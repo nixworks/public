@@ -16,8 +16,8 @@ Christie’s sells long-lost Salvator Mundi, artwork billed as ‘biggest discov
 
 ### Changes:
 
-1. ["Salvator Mundi", a long lost original painting by Leonardo da Vinci, is sold at auction Christie's in New York City for $450.3 million setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-long-lost-original-painting-by-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-450-3-million-sett.md) _2017-11-16 15:30:05 (First version)_
-2. ["Salvator Mundi", a painting generally attributed to Leonardo da Vinci, is sold at auction Christie's in New York City for $450.3 million setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-painting-generally-attributed-to-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-450-3-million-se.md) _2017-11-16 21:30:05 (Update)_
+1. ["Salvator Mundi", a painting generally attributed to Leonardo da Vinci, is sold at auction Christie's in New York City for $450.3 million setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-painting-generally-attributed-to-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-450-3-million-se.md) _2018-02-06 13:49:31 (First version)_
+2. ["Salvator Mundi", a long lost original painting by Leonardo da Vinci, is sold at auction Christie's in New York City for $450.3 million setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-long-lost-original-painting-by-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-450-3-million-sett.md) _2018-02-06 13:49:31 (Update)_
 2. ["Salvator Mundi", a painting generally attributed to Leonardo da Vinci, is sold at auction Christie's in New York City for US$450.3 million; setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-painting-generally-attributed-to-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-us-450-3-million.md) _(Current version)_
 
 ### Related:

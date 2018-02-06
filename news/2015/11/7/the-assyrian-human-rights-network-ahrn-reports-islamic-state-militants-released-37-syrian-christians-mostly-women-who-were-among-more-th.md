@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/11/7/the-assyrian-human-rights-network-ahrn-reports-i
 
 ### Changes:
 
-1. [The Assyrian Human Rights Network (AHRN) reports Islamic State militants released 37 Syrian Christians, mostly women, who were among more than 200 people from the Assyrian minority group abducted in February. ](/news/2015/11/7/the-assyrian-human-rights-network-ahrn-reports-islamic-state-militants-released-37-syrian-christians-mostly-women-who-were-among-more-t.md) _2017-08-25 03:43:24 (First version)_
-2. [Syrian Civil War: The Assyrian Human Rights Network (AHRN) reports Islamic State militants released 37 Syrian Christians, mostly women, who were among more than 200 people from the Assyrian minority group abducted in February. ](/news/2015/11/7/syrian-civil-war-the-assyrian-human-rights-network-ahrn-reports-islamic-state-militants-released-37-syrian-christians-mostly-women-who.md) _2017-08-27 03:43:43 (Update)_
+1. [The Assyrian Human Rights Network (AHRN) reports Islamic State militants released 37 Syrian Christians, mostly women, who were among more than 200 people from the Assyrian minority group abducted in February. ](/news/2015/11/7/the-assyrian-human-rights-network-ahrn-reports-islamic-state-militants-released-37-syrian-christians-mostly-women-who-were-among-more-t.md) _2018-02-06 13:49:28 (First version)_
+2. [Syrian Civil War: The Assyrian Human Rights Network (AHRN) reports Islamic State militants released 37 Syrian Christians, mostly women, who were among more than 200 people from the Assyrian minority group abducted in February. ](/news/2015/11/7/syrian-civil-war-the-assyrian-human-rights-network-ahrn-reports-islamic-state-militants-released-37-syrian-christians-mostly-women-who.md) _2018-02-06 13:49:28 (Update)_
 2. [The Assyrian Human Rights Network (AHRN) reports Islamic State militants released 37 Syrian Christians, mostly women, who were among more than 200 people from the Assyrian minority group abducted in February. ](/news/2015/11/7/the-assyrian-human-rights-network-ahrn-reports-islamic-state-militants-released-37-syrian-christians-mostly-women-who-were-among-more-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Russia and Estonia exchange two men convicted of spying over a bridge separating
 
 ### Changes:
 
-1. [Russia-Estonia relations: Russia and Estonia exchange two convicted spies. ](/news/2015/09/26/russia-estonia-relations-russia-and-estonia-exchange-two-convicted-spies.md) _2017-08-27 03:43:09 (First version)_
+1. [Russia-Estonia relations: Russia and Estonia exchange two convicted spies. ](/news/2015/09/26/russia-estonia-relations-russia-and-estonia-exchange-two-convicted-spies.md) _2018-02-06 13:49:27 (First version)_
 1. [Russia and Estonia exchange two convicted spies. ](/news/2015/09/26/russia-and-estonia-exchange-two-convicted-spies.md) _(Current version)_
 
 ### Related:

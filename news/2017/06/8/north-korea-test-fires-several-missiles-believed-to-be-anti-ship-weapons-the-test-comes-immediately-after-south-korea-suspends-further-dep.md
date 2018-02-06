@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/8/north-korea-test-fires-several-missiles-believed
 
 ### Changes:
 
-1. [2017 North Korean missile tests: North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/2017-north-korean-missile-tests-north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after.md) _2017-08-27 03:48:27 (First version)_
+1. [2017 North Korean missile tests: North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/2017-north-korean-missile-tests-north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after.md) _2018-02-06 13:49:30 (First version)_
 1. [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md) _(Current version)_
 
 ### Related:

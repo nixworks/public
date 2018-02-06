@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/6/a-fire-kills-at-least-13-people-in-a-bar-in-the-
 
 ### Changes:
 
-1. [2016 Rouen fire: A fire kills at least 13 people in a bar in the French city of Rouen. ](/news/2016/08/6/2016-rouen-fire-a-fire-kills-at-least-13-people-in-a-bar-in-the-french-city-of-rouen.md) _2017-08-27 03:46:37 (First version)_
+1. [2016 Rouen fire: A fire kills at least 13 people in a bar in the French city of Rouen. ](/news/2016/08/6/2016-rouen-fire-a-fire-kills-at-least-13-people-in-a-bar-in-the-french-city-of-rouen.md) _2018-02-06 13:49:29 (First version)_
 1. [A fire kills at least 13 people in a bar in the French city of Rouen. ](/news/2016/08/6/a-fire-kills-at-least-13-people-in-a-bar-in-the-french-city-of-rouen.md) _(Current version)_
 
 ### Related:

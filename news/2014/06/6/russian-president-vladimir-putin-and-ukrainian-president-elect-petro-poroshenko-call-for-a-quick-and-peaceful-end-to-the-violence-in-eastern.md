@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-p
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine:Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-prussian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-p.md) _2017-08-25 03:40:30 (First version)_
-2. [2014 pro-Russian conflict in Ukraine:: Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and.md) _2017-08-27 03:40:48 (Update)_
+1. [2014 pro-Russian conflict in Ukraine:: Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian conflict in Ukraine:Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-prussian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-p.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-peaceful-end-to-the-violence-in-eastern.md) _(Current version)_
 
 ### Related:

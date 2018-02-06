@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-in-the-d
 
 ### Changes:
 
-1. [Israel and Syria exchange weapons fire, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-with-israel-destroying-several-targets-including-two-syrian-tanks-although-there-were-deaths-on-th.md) _2017-06-25 03:50:38 (First version)_
+1. [Israel and Syria exchange weapons fire, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-with-israel-destroying-several-targets-including-two-syrian-tanks-although-there-were-deaths-on-th.md) _2018-02-06 13:49:30 (First version)_
 1. [Israel and Syria exchange weapons fire in the disputed Golan Heights, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-in-the-disputed-golan-heights-with-israel-destroying-several-targets-including-two-syrian-tanks-al.md) _(Current version)_
 
 ### Related:

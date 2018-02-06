@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/23/north-korea-is-reported-to-have-launched-a-subm
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea is reported to have launched a submarine-launched ballistic missile for the first time. ](/news/2016/04/23/north-korea-and-weapons-of-mass-destruction-north-korea-is-reported-to-have-launched-a-submarine-launched-ballistic-missile-for-the-first-t.md) _2017-08-27 03:45:48 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea is reported to have launched a submarine-launched ballistic missile for the first time. ](/news/2016/04/23/north-korea-and-weapons-of-mass-destruction-north-korea-is-reported-to-have-launched-a-submarine-launched-ballistic-missile-for-the-first-t.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea is reported to have launched a submarine-launched ballistic missile for the first time. ](/news/2016/04/23/north-korea-is-reported-to-have-launched-a-submarine-launched-ballistic-missile-for-the-first-time.md) _(Current version)_
 
 ### Related:

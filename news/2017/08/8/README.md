@@ -17,7 +17,7 @@ President Trump vows North Korea could be met with &quot;fire and fury&quot; if 
 
 ##### Burial of Ferdinand Marcos
 ### [The Supreme Court of the Philippines has junked all petitions against the burial of former President of the Philippines Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. ](/news/2017/08/8/the-supreme-court-of-the-philippines-has-junked-all-petitions-against-the-burial-of-former-president-of-the-philippines-ferdinand-marcos-at.md)
-_Context: Supreme Court of the Philippines, President, Burial of Ferdinand Marcos, Ferdinand Marcos, Libingan ng mga Bayani_
+_Context: Ferdinand Marcos, Supreme Court of the Philippines, President, Burial of Ferdinand Marcos, Libingan ng mga Bayani_
 
 ##### Kenyan general election, 2017
 ### [Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senate.md)

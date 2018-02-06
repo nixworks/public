@@ -16,8 +16,8 @@ M23 rebels declare a unilateral ceasefire ahead of a new round of peace talks wi
 
 ### Changes:
 
-1. [M23 rebellion:In the Democratic Republic of the Congo, the March 23 Movement announce a unilateral ceasefire ahead of peace talks with the government. ](/news/2013/01/8/m23-rebellion-pin-the-democratic-republic-of-the-congo-the-march-23-movement-announce-a-unilateral-ceasefire-ahead-of-peace-talks-with-the.md) _2017-08-25 03:37:14 (First version)_
-2. [M23 rebellion:: In the Democratic Republic of the Congo, the March 23 Movement announce a unilateral ceasefire ahead of peace talks with the government. ](/news/2013/01/8/m23-rebellion-in-the-democratic-republic-of-the-congo-the-march-23-movement-announce-a-unilateral-ceasefire-ahead-of-peace-talks-with-the.md) _2017-08-27 03:37:24 (Update)_
+1. [M23 rebellion:In the Democratic Republic of the Congo, the March 23 Movement announce a unilateral ceasefire ahead of peace talks with the government. ](/news/2013/01/8/m23-rebellion-pin-the-democratic-republic-of-the-congo-the-march-23-movement-announce-a-unilateral-ceasefire-ahead-of-peace-talks-with-the.md) _2018-02-06 13:49:24 (First version)_
+2. [M23 rebellion:: In the Democratic Republic of the Congo, the March 23 Movement announce a unilateral ceasefire ahead of peace talks with the government. ](/news/2013/01/8/m23-rebellion-in-the-democratic-republic-of-the-congo-the-march-23-movement-announce-a-unilateral-ceasefire-ahead-of-peace-talks-with-the.md) _2018-02-06 13:49:24 (Update)_
 2. [In the Democratic Republic of the Congo, the March 23 Movement announce a unilateral ceasefire ahead of peace talks with the government. ](/news/2013/01/8/in-the-democratic-republic-of-the-congo-the-march-23-movement-announce-a-unilateral-ceasefire-ahead-of-peace-talks-with-the-government.md) _(Current version)_
 
 ### Related:

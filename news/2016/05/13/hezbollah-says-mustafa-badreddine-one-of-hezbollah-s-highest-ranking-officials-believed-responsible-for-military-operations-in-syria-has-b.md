@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbol
 
 ### Changes:
 
-1. [Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials believed responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operations-in-syria-has.md) _2017-08-25 03:45:39 (First version)_
-2. [Syrian Civil War: Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials believed responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/syrian-civil-war-hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operatio.md) _2017-08-27 03:46:01 (Update)_
+1. [Syrian Civil War: Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials believed responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/syrian-civil-war-hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operatio.md) _2018-02-06 13:49:29 (First version)_
+2. [Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials believed responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operations-in-syria-has.md) _2018-02-06 13:49:29 (Update)_
 2. [Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials believed responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operations-in-syria-has-b.md) _(Current version)_
 
 ### Related:

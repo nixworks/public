@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/11/29/a-7-4-m-w-earthquake-rocks-the-windward-islands
 
 ### Changes:
 
-1. [ A 7.4 M w earthquake rocks the Windward Islands in the Caribbean near the island of Martinique. ](/news/2007/11/29/a-7-4-mw-earthquake-rocks-the-windward-islands-in-the-caribbean-near-the-island-of-martinique.md) _2017-10-02 03:24:25 (First version)_
+1. [ A 7.4 M w earthquake rocks the Windward Islands in the Caribbean near the island of Martinique. ](/news/2007/11/29/a-7-4-mw-earthquake-rocks-the-windward-islands-in-the-caribbean-near-the-island-of-martinique.md) _2018-02-06 13:49:18 (First version)_
 1. [ A 7.4 M w earthquake rocks the Windward Islands in the Caribbean near the island of Martinique. ](/news/2007/11/29/a-7-4-m-w-earthquake-rocks-the-windward-islands-in-the-caribbean-near-the-island-of-martinique.md) _(Current version)_
 
 ### Related:

@@ -5,11 +5,11 @@ Formats: [HTML](2004/12/3/index.html)  [JSON](2004/12/3/index.json)  [XML](2004/
 
 ##### Yukos
 ### [ Yukos loses an appeal to halt the auctioning off of its main production unit. President of Russia Vladimir Putin, while on his three-day visit to India, says Indian firms are welcomed to bid. ](/news/2004/12/3/yukos-loses-an-appeal-to-halt-the-auctioning-off-of-its-main-production-unit-president-of-russia-vladimir-putin-while-on-his-three-day-vi.md)
-_Context: Yukos, Russian President, Vladimir Putin_
+_Context: Russian President, Yukos, Vladimir Putin_
 
 ##### Kosovo
 ### [ Kosovo's parliament elects a former KLA commander, Ramush Haradinaj, who has been questioned twice by UN war crimes investigators. ](/news/2004/12/3/kosovo-s-parliament-elects-a-former-kla-commander-ramush-haradinaj-who-has-been-questioned-twice-by-un-war-crimes-investigators.md)
-_Context: war crime, Kosovo Liberation Army, Kosovo, Ramush Haradinaj_
+_Context: Kosovo, Ramush Haradinaj, Kosovo Liberation Army, war crime_
 
 ##### Brazil
 ### [ Brazilian paleontologists of the Federal University of Rio de Janeiro announce a find of a new dinosaur species, "Unaysaurus tolentinoi". The find also shows links to Europe when both continents were part of Pangaea. ](/news/2004/12/3/brazilian-paleontologists-of-the-federal-university-of-rio-de-janeiro-announce-a-find-of-a-new-dinosaur-species-unaysaurus-tolentinoi-t.md)

@@ -16,8 +16,8 @@ Humans across the globe may be actually speaking the same language after scienti
 
 ### Changes:
 
-1. [Proto-Human language and Researchers from the Americas and Europe discover that sounds in 40-100 basic vocabulary words in around 3,700 languages are similar. ](/news/2016/09/13/proto-human-language-and-researchers-from-the-americas-and-europe-discover-that-sounds-in-40a100-basic-vocabulary-words-in-around-3-700-la.md) _2017-08-25 03:46:27 (First version)_
-2. [Proto-Human language and language acquisition: Researchers from the Americas and Europe discover that sounds in 40-100 basic vocabulary words in around 3,700 languages are similar. ](/news/2016/09/13/proto-human-language-and-language-acquisition-researchers-from-the-americas-and-europe-discover-that-sounds-in-40-100-basic-vocabulary-wo.md) _2017-08-27 03:46:50 (Update)_
+1. [Proto-Human language and Researchers from the Americas and Europe discover that sounds in 40-100 basic vocabulary words in around 3,700 languages are similar. ](/news/2016/09/13/proto-human-language-and-researchers-from-the-americas-and-europe-discover-that-sounds-in-40a100-basic-vocabulary-words-in-around-3-700-la.md) _2018-02-06 13:49:29 (First version)_
+2. [Proto-Human language and language acquisition: Researchers from the Americas and Europe discover that sounds in 40-100 basic vocabulary words in around 3,700 languages are similar. ](/news/2016/09/13/proto-human-language-and-language-acquisition-researchers-from-the-americas-and-europe-discover-that-sounds-in-40-100-basic-vocabulary-wo.md) _2018-02-06 13:49:29 (Update)_
 2. [Researchers from the Americas and Europe discover that sounds in 40-100 basic vocabulary words in around 3,700 languages are similar. ](/news/2016/09/13/researchers-from-the-americas-and-europe-discover-that-sounds-in-40a100-basic-vocabulary-words-in-around-3-700-languages-are-similar.md) _(Current version)_
 
 ### Related:

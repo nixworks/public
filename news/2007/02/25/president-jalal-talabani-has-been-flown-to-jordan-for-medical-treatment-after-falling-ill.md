@@ -17,8 +17,8 @@ A female suicide bomber blew herself up at a university and Moktada al-Sadr cond
 
 ### Changes:
 
-1. [ Iraq: President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/iraq-p-president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md) _2017-08-25 03:19:17 (First version)_
-2. [ Iraq:: President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/iraq-president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md) _2017-08-27 03:19:12 (Update)_
+1. [ Iraq:: President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/iraq-president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq: President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/iraq-p-president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md) _2018-02-06 13:49:17 (Update)_
 2. [ President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md) _(Current version)_
 
 ### Related:

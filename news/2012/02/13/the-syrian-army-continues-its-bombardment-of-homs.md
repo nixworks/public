@@ -18,8 +18,8 @@ The UN human rights chief has ramped up pressure on the Syrian president, accusi
 
 ### Changes:
 
-1. [Syria:The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-pthe-syrian-army-continues-its-bombardment-of-homs.md) _2017-08-25 03:35:02 (First version)_
-2. [Syria:: The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-the-syrian-army-continues-its-bombardment-of-homs.md) _2017-08-27 03:35:12 (Update)_
+1. [Syria:: The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-the-syrian-army-continues-its-bombardment-of-homs.md) _2018-02-06 13:49:23 (First version)_
+2. [Syria:The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-pthe-syrian-army-continues-its-bombardment-of-homs.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/the-syrian-army-continues-its-bombardment-of-homs.md) _(Current version)_
 
 ### Related:

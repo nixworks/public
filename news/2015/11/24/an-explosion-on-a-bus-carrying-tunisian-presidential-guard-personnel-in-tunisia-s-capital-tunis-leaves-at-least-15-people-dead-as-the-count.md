@@ -16,7 +16,7 @@ At least 12 people have died after a bus carrying the Tunisian presidential guar
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/insurgency-in-the-maghreb-2002-present-an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis.md) _2017-08-27 03:44:02 (First version)_
+1. [Insurgency in the Maghreb (2002-present): An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/insurgency-in-the-maghreb-2002-present-an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis.md) _2018-02-06 13:49:28 (First version)_
 1. [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md) _(Current version)_
 
 ### Related:

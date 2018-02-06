@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/08/22/conflict-in-iraq-us-troops-claim-that-they-will
 
 ### Changes:
 
-1. [ Conflict in Iraq: US Troops claim that they will investigate the circumstances following the death of a cousin of Iraq's envoy to the United Nations. The man died from a bullet wound to the head as he opened his door to US Soldiers in western Iraq. ](/news/2005/08/22/conflict-in-iraq-us-troops-claim-that-they-will-investigate-the-circumstances-following-the-death-of-a-cousin-of-iraq-s-envoy-to-the-unit.md) _2017-08-25 03:16:42 (First version)_
+1. [ Conflict in Iraq: US Troops claim that they will investigate the circumstances following the death of a cousin of Iraq's envoy to the United Nations. The man died from a bullet wound to the head as he opened his door to US Soldiers in western Iraq. ](/news/2005/08/22/conflict-in-iraq-us-troops-claim-that-they-will-investigate-the-circumstances-following-the-death-of-a-cousin-of-iraq-s-envoy-to-the-unit.md) _2018-02-06 13:49:16 (First version)_
 1. [ Conflict in Iraq: US Troops claim that they will investigate the circumstances following the death of a cousin of Iraq's envoy to the United Nations. The man died from a bullet wound to the head as he opened his door to US Soldiers in western Iraq. ](/news/2005/08/22/conflict-in-iraq-us-troops-claim-that-they-will-investigate-the-circumstances-following-the-death-of-a-cousin-of-iraq-s-envoy-to-the-unite.md) _(Current version)_
 
 ### Related:

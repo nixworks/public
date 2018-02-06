@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-
 
 ### Changes:
 
-1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana (''Rooikoppies''), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-no.md) _2017-08-25 03:36:28 (First version)_
+1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana (''Rooikoppies''), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-no.md) _2018-02-06 13:49:23 (First version)_
 1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.md) _(Current version)_
 
 ### Related:

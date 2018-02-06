@@ -16,7 +16,7 @@ Eight soldiers from the American-led military coalition were killed in Afghanist
 
 ### Changes:
 
-1. [War in Afghanistan: Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/war-in-afghanistan-five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separ.md) _2017-08-27 03:38:46 (First version)_
+1. [War in Afghanistan: Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/war-in-afghanistan-five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separ.md) _2018-02-06 13:49:25 (First version)_
 1. [Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separate-incidents.md) _(Current version)_
 
 ### Related:

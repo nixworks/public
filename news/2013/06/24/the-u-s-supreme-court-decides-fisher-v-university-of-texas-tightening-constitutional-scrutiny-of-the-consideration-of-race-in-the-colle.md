@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/06/24/the-u-s-supreme-court-decides-fisher-v-universi
 
 ### Changes:
 
-1. [The U.S. Supreme Court decides ''Fisher v. University of Texas'', tightening constitutional scrutiny of the consideration of race in the college admissions process. ](/news/2013/06/24/the-u-s-supreme-court-decides-fisher-v-university-of-texas-tightening-constitutional-scrutiny-of-the-consideration-of-race-in-the-col.md) _2017-08-25 03:38:54 (First version)_
+1. [The U.S. Supreme Court decides ''Fisher v. University of Texas'', tightening constitutional scrutiny of the consideration of race in the college admissions process. ](/news/2013/06/24/the-u-s-supreme-court-decides-fisher-v-university-of-texas-tightening-constitutional-scrutiny-of-the-consideration-of-race-in-the-col.md) _2018-02-06 13:49:25 (First version)_
 1. [The U.S. Supreme Court decides "Fisher v. University of Texas", tightening constitutional scrutiny of the consideration of race in the college admissions process. ](/news/2013/06/24/the-u-s-supreme-court-decides-fisher-v-university-of-texas-tightening-constitutional-scrutiny-of-the-consideration-of-race-in-the-colle.md) _(Current version)_
 
 ### Related:

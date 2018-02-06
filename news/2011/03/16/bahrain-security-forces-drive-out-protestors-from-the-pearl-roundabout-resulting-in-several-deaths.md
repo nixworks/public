@@ -22,8 +22,8 @@ Curfew enforced, several dead and hundreds injured as security forces use tanks 
 
 ### Changes:
 
-1. [Arab Spring:Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-pbahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2017-08-25 03:32:33 (First version)_
-2. [Arab Spring:: Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2017-08-27 03:32:41 (Update)_
+1. [Arab Spring:Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-pbahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2018-02-06 13:49:22 (Update)_
 2. [Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _(Current version)_
 
 ### Related:

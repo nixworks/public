@@ -16,7 +16,7 @@ The North Fire started at about 2:30 p.m. near Interstate 15 north of Highway 13
 
 ### Changes:
 
-1. [2015 Cajon Pass wildfire: The wildfire burning in San Bernardino County, California has burned over 3,500 acres, and destroyed 16 homes and other buildings. The fire has also burned over 60 passenger vehicles and tractor-trailers. ](/news/2015/07/18/2015-cajon-pass-wildfire-the-wildfire-burning-in-san-bernardino-county-california-has-burned-over-3-500-acres-and-destroyed-16-homes-and.md) _2017-08-27 03:42:43 (First version)_
+1. [2015 Cajon Pass wildfire: The wildfire burning in San Bernardino County, California has burned over 3,500 acres, and destroyed 16 homes and other buildings. The fire has also burned over 60 passenger vehicles and tractor-trailers. ](/news/2015/07/18/2015-cajon-pass-wildfire-the-wildfire-burning-in-san-bernardino-county-california-has-burned-over-3-500-acres-and-destroyed-16-homes-and.md) _2018-02-06 13:49:27 (First version)_
 1. [The wildfire burning in San Bernardino County, California has burned over 3,500 acres, and destroyed 16 homes and other buildings. The fire has also burned over 60 passenger vehicles and tractor-trailers. ](/news/2015/07/18/the-wildfire-burning-in-san-bernardino-county-california-has-burned-over-3-500-acres-and-destroyed-16-homes-and-other-buildings-the-fire.md) _(Current version)_
 
 ### Related:

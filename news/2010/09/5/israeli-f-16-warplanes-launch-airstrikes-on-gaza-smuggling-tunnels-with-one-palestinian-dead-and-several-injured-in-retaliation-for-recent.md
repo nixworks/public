@@ -20,8 +20,8 @@ Air force bombs 3 smuggling tunnels in Gaza Strip meant to help kidnap and attac
 
 ### Changes:
 
-1. [IsraelIsraeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israelpisraeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-for.md) _2017-08-25 03:29:53 (First version)_
-2. [Israel: Israeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israel-israeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-fo.md) _2017-08-27 03:29:57 (Update)_
+1. [IsraelIsraeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israelpisraeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-for.md) _2018-02-06 13:49:20 (First version)_
+2. [Israel: Israeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israel-israeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-fo.md) _2018-02-06 13:49:20 (Update)_
 2. [Israeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-for-recent.md) _(Current version)_
 
 ### Related:

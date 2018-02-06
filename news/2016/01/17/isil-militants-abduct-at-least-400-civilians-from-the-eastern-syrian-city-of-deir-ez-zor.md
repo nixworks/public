@@ -16,7 +16,7 @@ A monitoring group says Islamic State fighters have abducted at least 400 civili
 
 ### Changes:
 
-1. [Syrian Civil War: Deir ez-Zor massacre: ISIL militants abduct at least 400 civilians from the eastern Syrian city of Deir ez-Zor. ](/news/2016/01/17/syrian-civil-war-deir-ez-zor-massacre-isil-militants-abduct-at-least-400-civilians-from-the-eastern-syrian-city-of-deir-ez-zor.md) _2017-08-27 03:44:42 (First version)_
+1. [Syrian Civil War: Deir ez-Zor massacre: ISIL militants abduct at least 400 civilians from the eastern Syrian city of Deir ez-Zor. ](/news/2016/01/17/syrian-civil-war-deir-ez-zor-massacre-isil-militants-abduct-at-least-400-civilians-from-the-eastern-syrian-city-of-deir-ez-zor.md) _2018-02-06 13:49:28 (First version)_
 1. [ISIL militants abduct at least 400 civilians from the eastern Syrian city of Deir ez-Zor. ](/news/2016/01/17/isil-militants-abduct-at-least-400-civilians-from-the-eastern-syrian-city-of-deir-ez-zor.md) _(Current version)_
 
 ### Related:

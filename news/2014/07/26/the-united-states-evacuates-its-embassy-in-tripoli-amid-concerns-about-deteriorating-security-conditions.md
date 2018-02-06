@@ -15,8 +15,8 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:The United States evacuates its embassy in Tripoli amid concerns about deteriorating security conditions. ](/news/2014/07/26/post-civil-war-violence-in-libya-pthe-united-states-evacuates-its-embassy-in-tripoli-amid-concerns-about-deteriorating-security-conditions.md) _2017-08-25 03:40:45 (First version)_
-2. [Post-civil war violence in Libya:: The United States evacuates its embassy in Tripoli amid concerns about deteriorating security conditions. ](/news/2014/07/26/post-civil-war-violence-in-libya-the-united-states-evacuates-its-embassy-in-tripoli-amid-concerns-about-deteriorating-security-conditions.md) _2017-08-27 03:41:04 (Update)_
+1. [Post-civil war violence in Libya:: The United States evacuates its embassy in Tripoli amid concerns about deteriorating security conditions. ](/news/2014/07/26/post-civil-war-violence-in-libya-the-united-states-evacuates-its-embassy-in-tripoli-amid-concerns-about-deteriorating-security-conditions.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-civil war violence in Libya:The United States evacuates its embassy in Tripoli amid concerns about deteriorating security conditions. ](/news/2014/07/26/post-civil-war-violence-in-libya-pthe-united-states-evacuates-its-embassy-in-tripoli-amid-concerns-about-deteriorating-security-conditions.md) _2018-02-06 13:49:26 (Update)_
 2. [The United States evacuates its embassy in Tripoli amid concerns about deteriorating security conditions. ](/news/2014/07/26/the-united-states-evacuates-its-embassy-in-tripoli-amid-concerns-about-deteriorating-security-conditions.md) _(Current version)_
 
 ### Related:

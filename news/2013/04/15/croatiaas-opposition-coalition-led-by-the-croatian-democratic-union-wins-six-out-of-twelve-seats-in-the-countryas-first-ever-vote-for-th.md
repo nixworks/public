@@ -16,7 +16,7 @@ Croatia’s opposition right-wing coalition has won most seats in the country’
 
 ### Changes:
 
-1. [Croatia-s opposition coalition led by the Croatian Democratic Union wins six out of twelve seats in the country-s first ever vote for the European Parliament, while the ruling coalition led by the Social Democratic Party manages to take five seats. ](/news/2013/04/15/croatia-s-opposition-coalition-led-by-the-croatian-democratic-union-wins-six-out-of-twelve-seats-in-the-country-s-first-ever-vote-for-th.md) _2017-08-27 03:38:33 (First version)_
+1. [Croatia-s opposition coalition led by the Croatian Democratic Union wins six out of twelve seats in the country-s first ever vote for the European Parliament, while the ruling coalition led by the Social Democratic Party manages to take five seats. ](/news/2013/04/15/croatia-s-opposition-coalition-led-by-the-croatian-democratic-union-wins-six-out-of-twelve-seats-in-the-country-s-first-ever-vote-for-th.md) _2018-02-06 13:49:24 (First version)_
 1. [Croatia's opposition coalition led by the Croatian Democratic Union wins six out of twelve seats in the country's first ever vote for the European Parliament, while the ruling coalition led by the Social Democratic Party manages to take five seats. ](/news/2013/04/15/croatiaas-opposition-coalition-led-by-the-croatian-democratic-union-wins-six-out-of-twelve-seats-in-the-countryas-first-ever-vote-for-th.md) _(Current version)_
 
 ### Related:

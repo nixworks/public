@@ -16,8 +16,8 @@ Coordinated bombings rip through mostly Shiite neighbourhoods in the Baghdad are
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-pat-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md) _2017-08-25 03:39:13 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md) _2017-08-27 03:39:29 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-pat-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around-baghdad.md) _(Current version)_
 
 ### Related:

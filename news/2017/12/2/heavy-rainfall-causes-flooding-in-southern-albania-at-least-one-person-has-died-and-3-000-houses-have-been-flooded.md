@@ -16,7 +16,7 @@ Authorities in Albania say that non-stop rain has caused riverbanks to burst in 
 
 ### Changes:
 
-1. [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md) _2017-12-03 00:30:05 (First version)_
+1. [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md) _2018-02-06 13:49:31 (First version)_
 1. [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md) _(Current version)_
 
 ### Related:

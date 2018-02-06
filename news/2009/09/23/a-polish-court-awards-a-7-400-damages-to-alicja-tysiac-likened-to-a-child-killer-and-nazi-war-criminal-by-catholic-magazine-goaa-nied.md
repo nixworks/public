@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja
 
 ### Changes:
 
-1. [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine ''Gosc Niedzielny'' for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nie.md) _2017-08-25 03:25:50 (First version)_
-2. [ A Polish court awards -7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md) _2017-08-27 03:25:43 (Update)_
+1. [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine ''Gosc Niedzielny'' for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nie.md) _2018-02-06 13:49:19 (First version)_
+2. [ A Polish court awards -7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md) _2018-02-06 13:49:19 (Update)_
 2. [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md) _(Current version)_
 
 ### Related:

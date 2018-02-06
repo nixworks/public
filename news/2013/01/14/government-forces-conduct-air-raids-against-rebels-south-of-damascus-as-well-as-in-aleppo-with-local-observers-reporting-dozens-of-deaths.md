@@ -16,8 +16,8 @@ Eight children reported killed in airstrikes southwest of capital, amid calls fo
 
 ### Changes:
 
-1. [Syrian civil war:Government forces conduct air raids against rebels south of Damascus, as well as in Aleppo, with local observers reporting dozens of deaths, including children. ](/news/2013/01/14/syrian-civil-war-pgovernment-forces-conduct-air-raids-against-rebels-south-of-damascus-as-well-as-in-aleppo-with-local-observers-reporting.md) _2017-08-25 03:37:15 (First version)_
-2. [Syrian civil war:: Government forces conduct air raids against rebels south of Damascus, as well as in Aleppo, with local observers reporting dozens of deaths, including children. ](/news/2013/01/14/syrian-civil-war-government-forces-conduct-air-raids-against-rebels-south-of-damascus-as-well-as-in-aleppo-with-local-observers-reportin.md) _2017-08-27 03:37:25 (Update)_
+1. [Syrian civil war:Government forces conduct air raids against rebels south of Damascus, as well as in Aleppo, with local observers reporting dozens of deaths, including children. ](/news/2013/01/14/syrian-civil-war-pgovernment-forces-conduct-air-raids-against-rebels-south-of-damascus-as-well-as-in-aleppo-with-local-observers-reporting.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Government forces conduct air raids against rebels south of Damascus, as well as in Aleppo, with local observers reporting dozens of deaths, including children. ](/news/2013/01/14/syrian-civil-war-government-forces-conduct-air-raids-against-rebels-south-of-damascus-as-well-as-in-aleppo-with-local-observers-reportin.md) _2018-02-06 13:49:24 (Update)_
 2. [Government forces conduct air raids against rebels south of Damascus, as well as in Aleppo, with local observers reporting dozens of deaths, including children. ](/news/2013/01/14/government-forces-conduct-air-raids-against-rebels-south-of-damascus-as-well-as-in-aleppo-with-local-observers-reporting-dozens-of-deaths.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2005/07/25/index.html)  [JSON](2005/07/25/index.json)  [XML](200
 
 ##### Israel
 ### [ Israel has summoned the ambassador from the Vatican to explain why the Pope did not condemn Palestinian militant attacks on Israelis, in a statement on Sunday, July 24, Pope Benedict XVI said that he deplored attacks in "countries including Egypt, Turkey, Iraq and Britain". ](/news/2005/07/25/israel-has-summoned-the-ambassador-from-the-vatican-to-explain-why-the-pope-did-not-condemn-palestinian-militant-attacks-on-israelis-in-a.md)
-_Context: Pope Benedict XVI, Holy See, Palestinian, Israel, ambassador, Pope_
+_Context: Palestinian, Israel, Holy See, Pope, ambassador, Pope Benedict XVI_
 
 ##### Bilateral negotiations
 ### [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md)
@@ -13,7 +13,7 @@ _Context: North Korea, Bilateral negotiations_
 
 ##### Service Employees International Union
 ### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-aflacio-announce-their-intentions-to-leave-th.md)
-_Context: labour movement, Teamsters, Service Employees International Union, AFL-CIO_
+_Context: AFL-CIO, Service Employees International Union, labour movement, Teamsters_
 
 ##### New Southgate
 ### [ Two men, one today, one yesterday, have been arrested in the New Southgate area of London during police investigations into the recent London bombings. ](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.md)
@@ -41,7 +41,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Brazil
 ### [ Brazil hosts annual AIDS conference in Rio de Janeiro. ](/news/2005/07/25/brazil-hosts-annual-aids-conference-in-rio-de-janeiro.md)
-_Context: Rio de Janeiro, Brazil, AIDS_
+_Context: Rio de Janeiro, AIDS, Brazil_
 
 ##### Central Intelligence Agency
 ### [ Italian court issues arrest warrants of new 6 CIA operatives for involvement of kidnapping of Osama Mustafa Hassan ](/news/2005/07/25/italian-court-issues-arrest-warrants-of-new-6-cia-operatives-for-involvement-of-kidnapping-of-osama-mustafa-hassan.md)
@@ -53,11 +53,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Senegal
 ### [ In Senegal, former prime minister Idrissa Seck is arrested for "endangering national security" ](/news/2005/07/25/in-senegal-former-prime-minister-idrissa-seck-is-arrested-for-endangering-national-security.md)
-_Context: Idrissa Seck, Senegal_
+_Context: Senegal, Idrissa Seck_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, investigators that investigate alleged misappropriation of funds of tsunami relief after 2004 Indian Ocean earthquake, state that they have not found any evidence of wrongdoing. Opposition United National Party claims that prime minister Mahinda Rajapaksa had siphoned off 83 million rupees to his own constituency ](/news/2005/07/25/in-sri-lanka-investigators-that-investigate-alleged-misappropriation-of-funds-of-tsunami-relief-after-2004-indian-ocean-earthquake-state.md)
-_Context: Mahinda Rajapaksa, Rs., 2004 Indian Ocean earthquake, United National Party, tsunami, Sri Lanka_
+_Context: Sri Lanka, Rs., Mahinda Rajapaksa, tsunami, 2004 Indian Ocean earthquake, United National Party_
 
 ##### Paulo Henrique Machado
 ### [ In Brazil, Paulo Henrique Machado, priest who led the support group of victims of the Nova Iguacu massacre, is shot to death in Rio de Janeiro ](/news/2005/07/25/in-brazil-paulo-henrique-machado-priest-who-led-the-support-group-of-victims-of-the-nova-iguacu-massacre-is-shot-to-death-in-rio-de-jane.md)
@@ -65,11 +65,11 @@ _Context: Rio de Janeiro, Nova Iguacu massacre, Paulo Henrique Machado_
 
 ##### Bill Graham
 ### [ Denmark protests over visit of Canadian defense minister Bill Graham to disputed Hans Island near Greenland ](/news/2005/07/25/denmark-protests-over-visit-of-canadian-defense-minister-bill-graham-to-disputed-hans-island-near-greenland.md)
-_Context: Hans Island, Greenland, Bill Graham_
+_Context: Bill Graham, Hans Island, Greenland_
 
 ##### Malawi
 ### [ In Malawi, president Bingu wa Mutharika bans all exports of maize and fertilizers to alleviate the food crisis in the country ](/news/2005/07/25/in-malawi-president-bingu-wa-mutharika-bans-all-exports-of-maize-and-fertilizers-to-alleviate-the-food-crisis-in-the-country.md)
-_Context: Bingu wa Mutharika, fertilizer, maize, Malawi_
+_Context: Bingu wa Mutharika, maize, fertilizer, Malawi_
 
 ## [Previous Day...](/news/2005/07/24/index.md)
 

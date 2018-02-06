@@ -18,8 +18,8 @@ GOP senators call on Moore to drop out of race as aides say report that he had i
 
 ### Changes:
 
-1. [Four women accuse Roy Moore, an Alabama judge and U.S. Senate candidate, of sexual misconduct. Some Republican politicians distance themselves from Moore, who has denied the allegations. ](/news/2017/11/9/four-women-accuse-roy-moore-an-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-some-republican-politicians-distance-themselv.md) _2017-11-10 00:30:06 (First version)_
-2. [Four women accuse Roy Moore, a former Alabama judge and U.S. Senate candidate, of sexual misconduct. Some Republican politicians distance themselves from Moore, who has denied the allegations. ](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-some-republican-politicians-distance-th.md) _2017-11-10 16:30:06 (Update)_
+1. [Four women accuse Roy Moore, an Alabama judge and U.S. Senate candidate, of sexual misconduct. Some Republican politicians distance themselves from Moore, who has denied the allegations. ](/news/2017/11/9/four-women-accuse-roy-moore-an-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-some-republican-politicians-distance-themselv.md) _2018-02-06 13:49:31 (First version)_
+2. [Four women accuse Roy Moore, a former Alabama judge and U.S. Senate candidate, of sexual misconduct. Some Republican politicians distance themselves from Moore, who has denied the allegations. ](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-some-republican-politicians-distance-th.md) _2018-02-06 13:49:31 (Update)_
 2. [Four women accuse Roy Moore, a former Alabama judge and U.S. Senate candidate, of sexual misconduct during the 1970s and early 1980s when they were between the ages of 14 and 18 and he was in his 30s. ](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.md) _(Current version)_
 
 ### Related:

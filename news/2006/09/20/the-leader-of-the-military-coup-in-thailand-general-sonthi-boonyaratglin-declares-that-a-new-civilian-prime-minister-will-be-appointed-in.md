@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/20/the-leader-of-the-military-coup-in-thailand-gen
 
 ### Changes:
 
-1. [ Thailand coup d'tat: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-p-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md) _2017-08-25 03:18:26 (First version)_
-2. [ Thailand coup d'tat:: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md) _2017-08-27 03:18:21 (Update)_
+1. [ Thailand coup d'tat:: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md) _2018-02-06 13:49:17 (First version)_
+2. [ Thailand coup d'tat: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-p-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md) _2018-02-06 13:49:17 (Update)_
 2. [ The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minister-will-be-appointed-in.md) _(Current version)_
 
 ### Related:

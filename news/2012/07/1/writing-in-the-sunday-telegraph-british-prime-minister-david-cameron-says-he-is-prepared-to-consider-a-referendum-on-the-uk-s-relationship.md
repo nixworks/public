@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-mi
 
 ### Changes:
 
-1. [Writing in ''The Sunday Telegraph'' British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationsh.md) _2017-08-25 03:36:00 (First version)_
+1. [Writing in ''The Sunday Telegraph'' British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationsh.md) _2018-02-06 13:49:23 (First version)_
 1. [Writing in "The Sunday Telegraph" British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationship.md) _(Current version)_
 
 ### Related:

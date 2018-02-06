@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-
 
 ### Changes:
 
-1. [Microsoft co-founder Paul Allen and his team of researchers find the ''Musashi'', one of Japan's biggest and most famous battleships which was sunk by American forces in 1944, on the floor of the Sibuyan Sea. ](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-researchers-find-the-musashi-one-of-japan-s-biggest-and-most-famous-battleships-which-w.md) _2017-08-25 03:41:43 (First version)_
+1. [Microsoft co-founder Paul Allen and his team of researchers find the ''Musashi'', one of Japan's biggest and most famous battleships which was sunk by American forces in 1944, on the floor of the Sibuyan Sea. ](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-researchers-find-the-musashi-one-of-japan-s-biggest-and-most-famous-battleships-which-w.md) _2018-02-06 13:49:27 (First version)_
 1. [Microsoft co-founder Paul Allen and his team of researchers find the "Musashi", one of Japan's biggest and most famous battleships which was sunk by American forces in 1944, on the floor of the Sibuyan Sea. ](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-researchers-find-the-musashi-one-of-japan-s-biggest-and-most-famous-battleships-which-was.md) _(Current version)_
 
 ### Related:

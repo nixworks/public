@@ -16,7 +16,7 @@ The cost to rebuild post-Hurricane Harvey is rising and already on track to shat
 
 ### Changes:
 
-1. [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with an estimated total as high as US$108 billion. In comparison, Hurricane Katrina's total damage is estimated to be around US$118 to US$160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-an-estimated-total-as-h.md) _2017-09-03 16:30:05 (First version)_
+1. [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with an estimated total as high as US$108 billion. In comparison, Hurricane Katrina's total damage is estimated to be around US$118 to US$160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-an-estimated-total-as-h.md) _2018-02-06 13:49:31 (First version)_
 1. [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with estimates ranging from US$72 billion to over $125 billion. In comparison, Hurricane Katrina's total damage is estimated to be around $118 to $160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-estimates-ranging-from.md) _(Current version)_
 
 ### Related:

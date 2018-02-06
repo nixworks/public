@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon
 
 ### Changes:
 
-1. [The Chinese icebreaker ''Xue Long'', or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel ''Akademik Shokalskiy'' when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokals.md) _2017-08-25 03:39:47 (First version)_
+1. [The Chinese icebreaker ''Xue Long'', or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel ''Akademik Shokalskiy'' when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokals.md) _2018-02-06 13:49:25 (First version)_
 1. [The Chinese icebreaker "Xue Long", or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel "Akademik Shokalskiy" when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokalskiy.md) _(Current version)_
 
 ### Related:

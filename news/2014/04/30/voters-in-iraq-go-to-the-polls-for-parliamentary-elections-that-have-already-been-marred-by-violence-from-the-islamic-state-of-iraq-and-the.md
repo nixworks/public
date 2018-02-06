@@ -16,8 +16,8 @@ Iraq&#039;s premier says he has enough support to keep his post, but with electi
 
 ### Changes:
 
-1. [Iraqi parliamentary election:Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/iraqi-parliamentary-election-pvoters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the.md) _2017-08-25 03:40:22 (First version)_
-2. [Iraqi parliamentary election:: Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/iraqi-parliamentary-election-voters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the.md) _2017-08-27 03:40:39 (Update)_
+1. [Iraqi parliamentary election:: Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/iraqi-parliamentary-election-voters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi parliamentary election:Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/iraqi-parliamentary-election-pvoters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/voters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the-islamic-state-of-iraq-and-the.md) _(Current version)_
 
 ### Related:

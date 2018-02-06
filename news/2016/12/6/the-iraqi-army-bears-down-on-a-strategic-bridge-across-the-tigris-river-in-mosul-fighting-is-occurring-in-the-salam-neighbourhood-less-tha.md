@@ -15,8 +15,8 @@ After weeks of close-quarter combat, Iraqi soldiers aim to sever important ISIL 
 
 ### Changes:
 
-1. [ The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. ](/news/2016/12/6/the-iraqi-army-bears-down-on-a-strategic-bridge-across-the-tigris-river-in-mosul-fighting-is-occurring-in-the-salam-neighbourhood-less-th.md) _2017-08-25 03:46:59 (First version)_
-2. [ Battle of Mosul: The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. ](/news/2016/12/6/battle-of-mosul-the-iraqi-army-bears-down-on-a-strategic-bridge-across-the-tigris-river-in-mosul-fighting-is-occurring-in-the-salam-neigh.md) _2017-08-27 03:47:23 (Update)_
+1. [ The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. ](/news/2016/12/6/the-iraqi-army-bears-down-on-a-strategic-bridge-across-the-tigris-river-in-mosul-fighting-is-occurring-in-the-salam-neighbourhood-less-th.md) _2018-02-06 13:49:30 (First version)_
+2. [ Battle of Mosul: The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. ](/news/2016/12/6/battle-of-mosul-the-iraqi-army-bears-down-on-a-strategic-bridge-across-the-tigris-river-in-mosul-fighting-is-occurring-in-the-salam-neigh.md) _2018-02-06 13:49:30 (Update)_
 2. [ The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. ](/news/2016/12/6/the-iraqi-army-bears-down-on-a-strategic-bridge-across-the-tigris-river-in-mosul-fighting-is-occurring-in-the-salam-neighbourhood-less-tha.md) _(Current version)_
 
 ### Related:

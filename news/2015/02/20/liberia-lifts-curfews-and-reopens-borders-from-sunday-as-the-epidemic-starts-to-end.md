@@ -16,7 +16,7 @@ Liberia said Friday it was lifting nationwide curfews and re-opening borders shu
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Liberia lifts curfews and reopens borders from Sunday as the epidemic starts to end. ](/news/2015/02/20/ebola-virus-epidemic-in-west-africa-liberia-lifts-curfews-and-reopens-borders-from-sunday-as-the-epidemic-starts-to-end.md) _2017-08-27 03:41:58 (First version)_
+1. [Ebola virus epidemic in West Africa: Liberia lifts curfews and reopens borders from Sunday as the epidemic starts to end. ](/news/2015/02/20/ebola-virus-epidemic-in-west-africa-liberia-lifts-curfews-and-reopens-borders-from-sunday-as-the-epidemic-starts-to-end.md) _2018-02-06 13:49:26 (First version)_
 1. [Liberia lifts curfews and reopens borders from Sunday as the epidemic starts to end. ](/news/2015/02/20/liberia-lifts-curfews-and-reopens-borders-from-sunday-as-the-epidemic-starts-to-end.md) _(Current version)_
 
 ### Related:

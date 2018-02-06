@@ -16,7 +16,7 @@ Syrian rebels said they captured Dabiq, forcing ISIS from a stronghold where it 
 
 ### Changes:
 
-1. [Syrian Civil War: Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/syrian-civil-war-turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes.md) _2017-08-27 03:47:04 (First version)_
+1. [Syrian Civil War: Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/syrian-civil-war-turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes.md) _2018-02-06 13:49:29 (First version)_
 1. [Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes-with-isil-militant.md) _(Current version)_
 
 ### Related:

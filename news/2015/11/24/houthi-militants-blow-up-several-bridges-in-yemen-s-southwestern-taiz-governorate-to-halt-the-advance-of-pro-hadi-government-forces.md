@@ -17,7 +17,7 @@ Iran-backed rebels in Yemen have blown up several bridges in the mountainous sou
 
 ### Changes:
 
-1. [Yemeni Civil War: Houthi militants blow up several bridges in Yemen's southwestern Taiz Governorate to halt the advance of pro-Hadi government forces. ](/news/2015/11/24/yemeni-civil-war-houthi-militants-blow-up-several-bridges-in-yemen-s-southwestern-taiz-governorate-to-halt-the-advance-of-pro-hadi-governme.md) _2017-08-27 03:44:02 (First version)_
+1. [Yemeni Civil War: Houthi militants blow up several bridges in Yemen's southwestern Taiz Governorate to halt the advance of pro-Hadi government forces. ](/news/2015/11/24/yemeni-civil-war-houthi-militants-blow-up-several-bridges-in-yemen-s-southwestern-taiz-governorate-to-halt-the-advance-of-pro-hadi-governme.md) _2018-02-06 13:49:28 (First version)_
 1. [Houthi militants blow up several bridges in Yemen's southwestern Taiz Governorate to halt the advance of pro-Hadi government forces. ](/news/2015/11/24/houthi-militants-blow-up-several-bridges-in-yemen-s-southwestern-taiz-governorate-to-halt-the-advance-of-pro-hadi-government-forces.md) _(Current version)_
 
 ### Related:

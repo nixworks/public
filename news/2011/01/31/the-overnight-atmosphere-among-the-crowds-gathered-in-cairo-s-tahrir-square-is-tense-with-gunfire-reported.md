@@ -23,8 +23,8 @@ Hosni Mubarak ordered his new PM to preserve subsidies, control inflation and pr
 
 ### Changes:
 
-1. [2011 Egyptian protests:The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-pthe-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md) _2017-08-25 03:31:58 (First version)_
-2. [2011 Egyptian protests:: The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-the-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md) _2017-08-27 03:32:06 (Update)_
+1. [2011 Egyptian protests:: The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-the-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-pthe-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md) _2018-02-06 13:49:21 (Update)_
 2. [The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/the-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The U.S. contractors killed 14 unarmed Iraqis in Baghdad in 2007, one of the mos
 
 ### Changes:
 
-1. [Blackwater Baghdad shootings: A court convicts four former employees of Blackwater Worldwide on charges related to the 2007 killing of 14 unarmed Iraqis by firing machine guns in a Baghdad traffic circle. ](/news/2014/10/22/blackwater-baghdad-shootings-a-court-convicts-four-former-employees-of-blackwater-worldwide-on-charges-related-to-the-2007-killing-of-14-un.md) _2017-08-27 03:41:25 (First version)_
+1. [Blackwater Baghdad shootings: A court convicts four former employees of Blackwater Worldwide on charges related to the 2007 killing of 14 unarmed Iraqis by firing machine guns in a Baghdad traffic circle. ](/news/2014/10/22/blackwater-baghdad-shootings-a-court-convicts-four-former-employees-of-blackwater-worldwide-on-charges-related-to-the-2007-killing-of-14-un.md) _2018-02-06 13:49:26 (First version)_
 1. [A court convicts four former employees of Blackwater Worldwide on charges related to the 2007 killing of 14 unarmed Iraqis by firing machine guns in a Baghdad traffic circle. ](/news/2014/10/22/a-court-convicts-four-former-employees-of-blackwater-worldwide-on-charges-related-to-the-2007-killing-of-14-unarmed-iraqis-by-firing-machine.md) _(Current version)_
 
 ### Related:

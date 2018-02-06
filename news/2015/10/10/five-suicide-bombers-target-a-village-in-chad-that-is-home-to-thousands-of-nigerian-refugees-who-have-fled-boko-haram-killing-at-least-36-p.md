@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-t
 
 ### Changes:
 
-1. [Boko Haram insurgency: Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/boko-haram-insurgency-five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram.md) _2017-08-27 03:43:18 (First version)_
+1. [Boko Haram insurgency: Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/boko-haram-insurgency-five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram.md) _2018-02-06 13:49:27 (First version)_
 1. [Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram-killing-at-least-36-p.md) _(Current version)_
 
 ### Related:

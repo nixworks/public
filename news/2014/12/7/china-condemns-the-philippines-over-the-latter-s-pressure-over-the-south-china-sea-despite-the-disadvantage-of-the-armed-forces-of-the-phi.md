@@ -17,8 +17,8 @@ BEIJING (Reuters) - China denounced the Philippines on Sunday for putting it und
 
 ### Changes:
 
-1. [''Philippines v. China''China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/philippines-v-china-pchina-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-th.md) _2017-08-25 03:41:18 (First version)_
-2. ["Philippines v. China": China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/philippines-v-china-china-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-the.md) _2017-08-27 03:41:36 (Update)_
+1. [''Philippines v. China''China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/philippines-v-china-pchina-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-th.md) _2018-02-06 13:49:26 (First version)_
+2. ["Philippines v. China": China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/philippines-v-china-china-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-the.md) _2018-02-06 13:49:26 (Update)_
 2. [China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/china-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-the-armed-forces-of-the-phi.md) _(Current version)_
 
 ### Related:

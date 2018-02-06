@@ -50,8 +50,8 @@ Egypt goes off the digital map as authorities unplug the country entirely from t
 
 ### Changes:
 
-1. [2011 Egyptian protests:After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-pafter-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-a.md) _2017-08-25 03:31:57 (First version)_
-2. [2011 Egyptian protests:: After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet.md) _2017-08-27 03:32:05 (Update)_
+1. [2011 Egyptian protests:After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-pafter-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-a.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:: After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet.md) _2018-02-06 13:49:21 (Update)_
 2. [After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-access-and-sms-networks-a.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal secur
 
 ### Changes:
 
-1. [Libyan Civil War:14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-p14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdown.md) _2017-08-25 03:32:14 (First version)_
-2. [Libyan Civil War:: 14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdow.md) _2017-08-27 03:32:23 (Update)_
+1. [Libyan Civil War:14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-p14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdown.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: 14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdow.md) _2018-02-06 13:49:22 (Update)_
 2. [14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdown-and-took-to-the-s.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/25/deputy-assistant-to-the-president-sebastian-gor
 
 ### Changes:
 
-1. [Political appointments by Donald Trump: Deputy Assistant to the President Sebastian Gorka resigns expressing unhappiness with the direction of the Trump administration-s foreign policy. ](/news/2017/08/25/political-appointments-by-donald-trump-deputy-assistant-to-the-president-sebastian-gorka-resigns-expressing-unhappiness-with-the-direction.md) _2017-08-27 17:30:05 (First version)_
+1. [Political appointments by Donald Trump: Deputy Assistant to the President Sebastian Gorka resigns expressing unhappiness with the direction of the Trump administration-s foreign policy. ](/news/2017/08/25/political-appointments-by-donald-trump-deputy-assistant-to-the-president-sebastian-gorka-resigns-expressing-unhappiness-with-the-direction.md) _2018-02-06 13:49:31 (First version)_
 1. [Deputy Assistant to the President Sebastian Gorka resigns expressing unhappiness with the direction of the Trump administration's foreign policy. ](/news/2017/08/25/deputy-assistant-to-the-president-sebastian-gorka-resigns-expressing-unhappiness-with-the-direction-of-the-trump-administrationas-foreign.md) _(Current version)_
 
 ### Related:

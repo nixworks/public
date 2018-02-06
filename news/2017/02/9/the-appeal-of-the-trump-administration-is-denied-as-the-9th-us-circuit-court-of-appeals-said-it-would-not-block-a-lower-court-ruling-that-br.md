@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/9/the-appeal-of-the-trump-administration-is-denied
 
 ### Changes:
 
-1. [U.S. immigration suspension: The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/u-s-immigration-suspension-the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block.md) _2017-08-27 03:47:47 (First version)_
+1. [U.S. immigration suspension: The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/u-s-immigration-suspension-the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block.md) _2018-02-06 13:49:30 (First version)_
 1. [The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block-a-lower-court-ruling-that-br.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ The gunman who massacred 32 people at Virginia Tech university was identified on
 
 ### Changes:
 
-1. [ A series of shootings at the Virginia Polytechnic Institute and State University (commonly referred to as ''Virginia Tech'') campus in Blacksburg, Virginia, United States, leaves at least 33 people (including the gunman) dead and 29 others wounded, making it the country's deadliest school shooting incident ever. ](/news/2007/04/16/a-series-of-shootings-at-the-virginia-polytechnic-institute-and-state-university-commonly-referred-to-as-virginia-tech-campus-in-blac.md) _2017-08-25 03:19:37 (First version)_
+1. [ A series of shootings at the Virginia Polytechnic Institute and State University (commonly referred to as ''Virginia Tech'') campus in Blacksburg, Virginia, United States, leaves at least 33 people (including the gunman) dead and 29 others wounded, making it the country's deadliest school shooting incident ever. ](/news/2007/04/16/a-series-of-shootings-at-the-virginia-polytechnic-institute-and-state-university-commonly-referred-to-as-virginia-tech-campus-in-blac.md) _2018-02-06 13:49:17 (First version)_
 1. [ A series of shootings at the Virginia Polytechnic Institute and State University (commonly referred to as "Virginia Tech") campus in Blacksburg, Virginia, United States, leaves at least 33 people (including the gunman) dead and 29 others wounded, making it the country's deadliest school shooting incident ever. ](/news/2007/04/16/a-series-of-shootings-at-the-virginia-polytechnic-institute-and-state-university-commonly-referred-to-as-virginia-tech-campus-in-blacks.md) _(Current version)_
 
 ### Related:

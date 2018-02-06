@@ -16,8 +16,8 @@ Mindanao broadcaster Rogelio Butalib shot dead, marking the third fatal attack a
 
 ### Changes:
 
-1. [Human rights in the Philippines:Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/human-rights-in-the-philippines-pthree-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-concer.md) _2017-08-25 03:39:40 (First version)_
-2. [Human rights in the Philippines:: Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/human-rights-in-the-philippines-three-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-conce.md) _2017-08-27 03:39:57 (Update)_
+1. [Human rights in the Philippines:: Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/human-rights-in-the-philippines-three-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-conce.md) _2018-02-06 13:49:25 (First version)_
+2. [Human rights in the Philippines:Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/human-rights-in-the-philippines-pthree-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-concer.md) _2018-02-06 13:49:25 (Update)_
 2. [Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/three-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-concerns-regarding-the-security-situati.md) _(Current version)_
 
 ### Related:

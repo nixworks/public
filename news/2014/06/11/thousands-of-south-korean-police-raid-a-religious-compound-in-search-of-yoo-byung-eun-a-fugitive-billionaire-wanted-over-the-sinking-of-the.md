@@ -16,8 +16,8 @@ Some 6,000 South Korean officers raid a religious compound in search of fugitive
 
 ### Changes:
 
-1. [Sinking of the MV Sewol:Thousands of South Korean police raid a religious compound in search of Yoo Byung-eun, a fugitive billionaire wanted over the sinking of the ''Sewol''. ](/news/2014/06/11/sinking-of-the-mv-sewol-pthousands-of-south-korean-police-raid-a-religious-compound-in-search-of-yoo-byung-eun-a-fugitive-billionaire-wante.md) _2017-08-25 03:40:32 (First version)_
-2. [Sinking of the MV Sewol:: Thousands of South Korean police raid a religious compound in search of Yoo Byung-eun, a fugitive billionaire wanted over the sinking of the "Sewol". ](/news/2014/06/11/sinking-of-the-mv-sewol-thousands-of-south-korean-police-raid-a-religious-compound-in-search-of-yoo-byung-eun-a-fugitive-billionaire-want.md) _2017-08-27 03:40:50 (Update)_
+1. [Sinking of the MV Sewol:: Thousands of South Korean police raid a religious compound in search of Yoo Byung-eun, a fugitive billionaire wanted over the sinking of the "Sewol". ](/news/2014/06/11/sinking-of-the-mv-sewol-thousands-of-south-korean-police-raid-a-religious-compound-in-search-of-yoo-byung-eun-a-fugitive-billionaire-want.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinking of the MV Sewol:Thousands of South Korean police raid a religious compound in search of Yoo Byung-eun, a fugitive billionaire wanted over the sinking of the ''Sewol''. ](/news/2014/06/11/sinking-of-the-mv-sewol-pthousands-of-south-korean-police-raid-a-religious-compound-in-search-of-yoo-byung-eun-a-fugitive-billionaire-wante.md) _2018-02-06 13:49:26 (Update)_
 2. [Thousands of South Korean police raid a religious compound in search of Yoo Byung-eun, a fugitive billionaire wanted over the sinking of the "Sewol". ](/news/2014/06/11/thousands-of-south-korean-police-raid-a-religious-compound-in-search-of-yoo-byung-eun-a-fugitive-billionaire-wanted-over-the-sinking-of-the.md) _(Current version)_
 
 ### Related:

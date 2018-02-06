@@ -17,7 +17,7 @@ Volkswagen halted sales of its diesel cars after revelations that it used illega
 
 ### Changes:
 
-1. [Volkswagen emissions violations: Volkswagen halts sales of its 4-cylinder diesel vehicles in the United States following a U.S. Environmental Protection Agency citation that their cars violated U.S. emissions standards. ](/news/2015/09/20/volkswagen-emissions-violations-volkswagen-halts-sales-of-its-4-cylinder-diesel-vehicles-in-the-united-states-following-a-u-s-environmenta.md) _2017-08-27 03:43:06 (First version)_
+1. [Volkswagen emissions violations: Volkswagen halts sales of its 4-cylinder diesel vehicles in the United States following a U.S. Environmental Protection Agency citation that their cars violated U.S. emissions standards. ](/news/2015/09/20/volkswagen-emissions-violations-volkswagen-halts-sales-of-its-4-cylinder-diesel-vehicles-in-the-united-states-following-a-u-s-environmenta.md) _2018-02-06 13:49:27 (First version)_
 1. [Volkswagen halts sales of its 4-cylinder diesel vehicles in the United States following a U.S. Environmental Protection Agency citation that their cars violated U.S. emissions standards. ](/news/2015/09/20/volkswagen-halts-sales-of-its-4-cylinder-diesel-vehicles-in-the-united-states-following-a-u-s-environmental-protection-agency-citation-that.md) _(Current version)_
 
 ### Related:

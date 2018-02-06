@@ -16,8 +16,8 @@ Islamist rebels drove the Malian army out of the strategic northern town of Konn
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/northern-mali-conflict-2012apresent-pislamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md) _2017-08-25 03:37:14 (First version)_
-2. [Northern Mali conflict (2012-present):: Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/northern-mali-conflict-2012-present-islamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md) _2017-08-27 03:37:25 (Update)_
+1. [Northern Mali conflict (2012-present):Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/northern-mali-conflict-2012apresent-pislamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/northern-mali-conflict-2012-present-islamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md) _2018-02-06 13:49:24 (Update)_
 2. [Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/islamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md) _(Current version)_
 
 ### Related:

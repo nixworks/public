@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-
 
 ### Changes:
 
-1. [ The next launch of the Space Shuttle ''Discovery'', STS-114, is delayed until at least July 13. This is to be the first Space Shuttle launch since the ''Columbia'' disaster in February 2003. ](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-delayed-until-at-least-july-13-this-is-to-be-the-first-space-shuttle-laun.md) _2017-08-25 03:16:06 (First version)_
+1. [ The next launch of the Space Shuttle ''Discovery'', STS-114, is delayed until at least July 13. This is to be the first Space Shuttle launch since the ''Columbia'' disaster in February 2003. ](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-delayed-until-at-least-july-13-this-is-to-be-the-first-space-shuttle-laun.md) _2018-02-06 13:49:16 (First version)_
 1. [ The next launch of the Space Shuttle "Discovery", STS-114, is delayed until at least July 13. This is to be the first Space Shuttle launch since the "Columbia" disaster in February 2003. ](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-delayed-until-at-least-july-13-this-is-to-be-the-first-space-shuttle-launch.md) _(Current version)_
 
 ### Related:

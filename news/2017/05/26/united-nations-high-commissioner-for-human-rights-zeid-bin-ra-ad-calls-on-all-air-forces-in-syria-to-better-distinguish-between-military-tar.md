@@ -16,7 +16,7 @@ The U.N. human rights chief called on all air forces operating in Syria on Frida
 
 ### Changes:
 
-1. [Syrian Civil War: United Nations High Commissioner for Human Rights Zeid bin Ra'ad calls on all air forces in Syria to better distinguish between military targets and civilians. ](/news/2017/05/26/syrian-civil-war-united-nations-high-commissioner-for-human-rights-zeid-bin-ra-ad-calls-on-all-air-forces-in-syria-to-better-distinguish-be.md) _2017-08-27 03:48:23 (First version)_
+1. [Syrian Civil War: United Nations High Commissioner for Human Rights Zeid bin Ra'ad calls on all air forces in Syria to better distinguish between military targets and civilians. ](/news/2017/05/26/syrian-civil-war-united-nations-high-commissioner-for-human-rights-zeid-bin-ra-ad-calls-on-all-air-forces-in-syria-to-better-distinguish-be.md) _2018-02-06 13:49:30 (First version)_
 1. [United Nations High Commissioner for Human Rights Zeid bin Ra'ad calls on all air forces in Syria to better distinguish between military targets and civilians. ](/news/2017/05/26/united-nations-high-commissioner-for-human-rights-zeid-bin-ra-ad-calls-on-all-air-forces-in-syria-to-better-distinguish-between-military-tar.md) _(Current version)_
 
 ### Related:

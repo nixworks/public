@@ -5,27 +5,27 @@ Formats: [HTML](2005/04/13/index.html)  [JSON](2005/04/13/index.json)  [XML](200
 
 ##### Canadian
 ### [ Canada's most prominent white supremacist and founder of the Heritage Front, Wolfgang Droege, is shot to death in his apartment. One suspect is arrested at the scene. ](/news/2005/04/13/canada-s-most-prominent-white-supremacist-and-founder-of-the-heritage-front-wolfgang-droege-is-shot-to-death-in-his-apartment-one-suspec.md)
-_Context: Heritage Front, white supremacist, Canadian, Wolfgang Droege_
+_Context: Canadian, white supremacist, Wolfgang Droege, Heritage Front_
 
 ##### Omar Karami
 ### [ Omar Karami resigns his position as the Prime Minister of Lebanon after he fails to form a government. Without a government to call them, no elections can take place in Lebanon. Elections are due this May. ](/news/2005/04/13/omar-karami-resigns-his-position-as-the-prime-minister-of-lebanon-after-he-fails-to-form-a-government-without-a-government-to-call-them-n.md)
-_Context: form of government, Omar Karami, Lebanon, Prime Minister of Lebanon_
+_Context: Lebanon, Prime Minister of Lebanon, Omar Karami, form of government_
 
 ##### European Parliament
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
-_Context: Bulgaria, European Parliament, Romania, European Union, 2007_
+_Context: European Parliament, 2007, Bulgaria, Romania, European Union_
 
 ##### Iraq
 ### [ At least nine Iraqi police have been killed by insurgents in Kirkuk. The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-another-nearby-bomb-detona.md)
-_Context: police, Kirkuk, decoy, Iraq, Iraqi insurgency_
+_Context: police, Iraqi insurgency, decoy, Iraq, Kirkuk_
 
 ##### Japan
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)
-_Context: East China Sea, Japan, China, Politics of Japan, oil_
+_Context: China, oil, Politics of Japan, East China Sea, Japan_
 
 ##### College of American Pathologists
 ### [ The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. ](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.md)
-_Context: College of American Pathologists, Canadian, flu, Asian flu, World Health Organization, 1969, 1957, antibodies_
+_Context: flu, Asian flu, antibodies, 1969, 1957, College of American Pathologists, Canadian, World Health Organization_
 
 ##### National Geographic Society
 ### [ The National Geographic Society and IBM support a project to take DNA samples from various people all over the world to track migration of "Homo sapiens" from Africa. ](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.md)
@@ -33,7 +33,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 ##### death toll
 ### [ The death toll in the collapse of a factory in Dacca, Bangladesh increases to 30. ](/news/2005/04/13/the-death-toll-in-the-collapse-of-a-factory-in-dacca-bangladesh-increases-to-30.md)
-_Context: death toll, Dacca, Bangladesh_
+_Context: death toll, Bangladesh, Dacca_
 
 ##### Mount Talang
 ### [ Mount Talang volcano erupts in Sumatra, Indonesia. 27,000 residents are evacuated. ](/news/2005/04/13/mount-talang-volcano-erupts-in-sumatra-indonesia-27-000-residents-are-evacuated.md)
@@ -45,11 +45,11 @@ _Context: Nigeria, Adolphus Wabara, Fabion Osuji_
 
 ##### German
 ### [ In Germany, Armin Meiwes appeals for the reduction his sentence of eight years for cannibalism. His defense says that the killing was a mercy killing, eligible only for five years. State prosecutors appeal as well so he could retried for murder. ](/news/2005/04/13/in-germany-armin-meiwes-appeals-for-the-reduction-his-sentence-of-eight-years-for-cannibalism-his-defense-says-that-the-killing-was-a-mer.md)
-_Context: murder, German, cannibalism, Armin Meiwes_
+_Context: cannibalism, German, murder, Armin Meiwes_
 
 ##### Indigenous
 ### [ A group of Indigenous Australians threaten to disrupt the Commonwealth Games next year unless prime minister John Howard and others are charged with genocide. ](/news/2005/04/13/a-group-of-indigenous-australians-threaten-to-disrupt-the-commonwealth-games-next-year-unless-prime-minister-john-howard-and-others-are-cha.md)
-_Context: Commonwealth, Indigenous, John Howard, genocide_
+_Context: Commonwealth, John Howard, genocide, Indigenous_
 
 ##### Burundi
 ### [ Burundi's last rebel group, Hutu Forces for National Liberation, states that they are ready to negotiate with the government. ](/news/2005/04/13/burundi-s-last-rebel-group-hutu-forces-for-national-liberation-states-that-they-are-ready-to-negotiate-with-the-government.md)

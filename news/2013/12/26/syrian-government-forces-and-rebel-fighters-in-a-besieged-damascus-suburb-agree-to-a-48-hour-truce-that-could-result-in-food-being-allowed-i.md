@@ -16,8 +16,8 @@ Syrian government forces and rebel fighters in a besieged Damascus suburb have a
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-civil-war-psyrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-fo.md) _2017-08-25 03:39:46 (First version)_
-2. [Syrian Civil War:: Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-civil-war-syrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-f.md) _2017-08-27 03:40:05 (Update)_
+1. [Syrian Civil War:: Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-civil-war-syrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-f.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-civil-war-psyrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-fo.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-food-being-allowed-i.md) _(Current version)_
 
 ### Related:

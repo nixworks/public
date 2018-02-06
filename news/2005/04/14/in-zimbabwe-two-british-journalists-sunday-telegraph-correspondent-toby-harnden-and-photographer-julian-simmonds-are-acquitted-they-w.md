@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-tele
 
 ### Changes:
 
-1. [ In Zimbabwe, two British journalists, ''Sunday Telegraph'' correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they.md) _2017-08-25 03:15:59 (First version)_
+1. [ In Zimbabwe, two British journalists, ''Sunday Telegraph'' correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Zimbabwe, two British journalists, "Sunday Telegraph" correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they-w.md) _(Current version)_
 
 ### Related:

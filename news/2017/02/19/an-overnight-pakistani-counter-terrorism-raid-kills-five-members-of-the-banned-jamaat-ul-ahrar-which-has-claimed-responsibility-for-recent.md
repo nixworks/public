@@ -15,7 +15,7 @@ MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces kil
 
 ### Changes:
 
-1. [War in North-West Pakistan: An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. ](/news/2017/02/19/war-in-north-west-pakistan-an-overnight-pakistani-counter-terrorism-raid-kills-five-members-of-the-banned-jamaat-ul-ahrar-which-has-claime.md) _2017-08-27 03:47:50 (First version)_
+1. [War in North-West Pakistan: An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. ](/news/2017/02/19/war-in-north-west-pakistan-an-overnight-pakistani-counter-terrorism-raid-kills-five-members-of-the-banned-jamaat-ul-ahrar-which-has-claime.md) _2018-02-06 13:49:30 (First version)_
 1. [An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. ](/news/2017/02/19/an-overnight-pakistani-counter-terrorism-raid-kills-five-members-of-the-banned-jamaat-ul-ahrar-which-has-claimed-responsibility-for-recent.md) _(Current version)_
 
 ### Related:

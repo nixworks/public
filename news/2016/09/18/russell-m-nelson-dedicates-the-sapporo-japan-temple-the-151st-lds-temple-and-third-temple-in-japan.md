@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-te
 
 ### Changes:
 
-1. [The Church of Jesus Christ of Latter-day Saints in Japan: Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. ](/news/2016/09/18/the-church-of-jesus-christ-of-latter-day-saints-in-japan-russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-thi.md) _2017-08-27 03:46:52 (First version)_
+1. [The Church of Jesus Christ of Latter-day Saints in Japan: Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. ](/news/2016/09/18/the-church-of-jesus-christ-of-latter-day-saints-in-japan-russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-thi.md) _2018-02-06 13:49:29 (First version)_
 1. [Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. ](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-third-temple-in-japan.md) _(Current version)_
 
 ### Related:

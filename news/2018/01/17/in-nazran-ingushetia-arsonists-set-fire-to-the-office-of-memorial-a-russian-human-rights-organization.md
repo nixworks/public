@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-
 
 ### Changes:
 
-1. [Masked arsonists set fire to the office of Memorial, a Russian human rights organization, in Nazran, Ingushetia. ](/news/2018/01/17/masked-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization-in-nazran-ingushetia.md) _2018-01-17 23:30:07 (First version)_
+1. [Masked arsonists set fire to the office of Memorial, a Russian human rights organization, in Nazran, Ingushetia. ](/news/2018/01/17/masked-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization-in-nazran-ingushetia.md) _2018-02-06 13:49:31 (First version)_
 1. [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md) _(Current version)_
 
 ### Related:

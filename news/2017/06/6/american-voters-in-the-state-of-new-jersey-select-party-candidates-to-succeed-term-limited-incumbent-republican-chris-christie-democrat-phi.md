@@ -16,8 +16,8 @@ TRENTON, N.J. (AP) — Voters on Tuesday chose a wealthy former Goldman Sachs ex
 
 ### Changes:
 
-1. [American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie, a 2016 presidential candidate.](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-a-2016-pre.md) _2017-06-09 03:51:31 (First version)_
-2. [New Jersey gubernatorial election, 2017: American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie. Democrat Phil Murphy and Republican Kim Guadagno win nominations their parties' nominations. ](/news/2017/06/6/new-jersey-gubernatorial-election-2017-american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumben.md) _2017-08-27 03:48:26 (Update)_
+1. [New Jersey gubernatorial election, 2017: American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie. Democrat Phil Murphy and Republican Kim Guadagno win nominations their parties' nominations. ](/news/2017/06/6/new-jersey-gubernatorial-election-2017-american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumben.md) _2018-02-06 13:49:30 (First version)_
+2. [American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie, a 2016 presidential candidate.](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-a-2016-pre.md) _2018-02-06 13:49:30 (Update)_
 2. [American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie. Democrat Phil Murphy and Republican Kim Guadagno win nominations their parties' nominations. ](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.md) _(Current version)_
 
 ### Related:

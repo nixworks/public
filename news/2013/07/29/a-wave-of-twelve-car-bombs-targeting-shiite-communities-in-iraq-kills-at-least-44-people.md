@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/07/29/a-wave-of-twelve-car-bombs-targeting-shiite-com
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md) _2017-08-25 03:39:03 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md) _2017-08-27 03:39:19 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/a-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md) _(Current version)_
 
 ### Related:

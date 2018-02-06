@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agree
 
 ### Changes:
 
-1. [Boko Haram insurgency: The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/boko-haram-insurgency-the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-ar.md) _2017-08-27 03:47:09 (First version)_
+1. [Boko Haram insurgency: The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/boko-haram-insurgency-the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-ar.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-are-tied-to-boko-haram.md) _(Current version)_
 
 ### Related:

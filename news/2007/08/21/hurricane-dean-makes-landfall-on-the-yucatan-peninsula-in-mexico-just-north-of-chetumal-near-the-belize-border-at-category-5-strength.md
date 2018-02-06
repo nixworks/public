@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/08/21/hurricane-dean-makes-landfall-on-the-yucatan-pe
 
 ### Changes:
 
-1. [ Hurricane Dean: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-p-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md) _2017-08-25 03:20:41 (First version)_
-2. [ Hurricane Dean:: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md) _2017-08-27 03:20:39 (Update)_
+1. [ Hurricane Dean: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-p-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md) _2018-02-06 13:49:17 (First version)_
+2. [ Hurricane Dean:: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md) _2018-02-06 13:49:17 (Update)_
 2. [ Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-category-5-strength.md) _(Current version)_
 
 ### Related:

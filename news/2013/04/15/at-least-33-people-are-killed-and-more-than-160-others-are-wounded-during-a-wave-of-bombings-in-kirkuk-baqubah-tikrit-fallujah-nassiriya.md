@@ -18,8 +18,8 @@ Officials say at least 31 people have been killed and more than 200 others wound
 
 ### Changes:
 
-1. [15 April 2013 Iraq attacks:At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-pat-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2017-08-25 03:38:21 (First version)_
-2. [15 April 2013 Iraq attacks:: At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2017-08-27 03:38:33 (Update)_
+1. [15 April 2013 Iraq attacks:At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-pat-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2018-02-06 13:49:24 (First version)_
+2. [15 April 2013 Iraq attacks:: At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.md) _(Current version)_
 
 ### Related:

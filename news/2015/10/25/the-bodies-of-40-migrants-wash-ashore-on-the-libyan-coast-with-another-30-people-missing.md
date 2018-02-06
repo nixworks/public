@@ -16,7 +16,7 @@ The bodies of 40 migrants have been found washed ashore in Libya, with a search 
 
 ### Changes:
 
-1. [European migrant crisis: The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/european-migrant-crisis-the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md) _2017-08-27 03:43:30 (First version)_
+1. [European migrant crisis: The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/european-migrant-crisis-the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md) _2018-02-06 13:49:28 (First version)_
 1. [The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md) _(Current version)_
 
 ### Related:

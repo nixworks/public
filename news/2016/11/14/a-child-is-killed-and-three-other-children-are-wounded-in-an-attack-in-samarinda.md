@@ -16,8 +16,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Terrorism in Indonesia A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/terrorism-in-indonesia-pa-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md) _2017-05-25 03:49:23 (First version)_
-2. [Terrorism in Indonesia: A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/terrorism-in-indonesia-a-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md) _2017-08-27 03:47:14 (Update)_
+1. [Terrorism in Indonesia A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/terrorism-in-indonesia-pa-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md) _2018-02-06 13:49:29 (First version)_
+2. [Terrorism in Indonesia: A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/terrorism-in-indonesia-a-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md) _2018-02-06 13:49:29 (Update)_
 2. [A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/a-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md) _(Current version)_
 
 ### Related:

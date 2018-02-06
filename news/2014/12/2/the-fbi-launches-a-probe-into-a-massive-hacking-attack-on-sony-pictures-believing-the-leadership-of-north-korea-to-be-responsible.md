@@ -16,7 +16,7 @@ The FBI has launched an investigation into the massive cyberattack that wreaked 
 
 ### Changes:
 
-1. [Sony Pictures Entertainment hack: The FBI launches a probe into a massive hacking attack on Sony Pictures, believing the leadership of North Korea to be responsible. ](/news/2014/12/2/sony-pictures-entertainment-hack-the-fbi-launches-a-probe-into-a-massive-hacking-attack-on-sony-pictures-believing-the-leadership-of-north.md) _2017-08-27 03:41:35 (First version)_
+1. [Sony Pictures Entertainment hack: The FBI launches a probe into a massive hacking attack on Sony Pictures, believing the leadership of North Korea to be responsible. ](/news/2014/12/2/sony-pictures-entertainment-hack-the-fbi-launches-a-probe-into-a-massive-hacking-attack-on-sony-pictures-believing-the-leadership-of-north.md) _2018-02-06 13:49:26 (First version)_
 1. [The FBI launches a probe into a massive hacking attack on Sony Pictures, believing the leadership of North Korea to be responsible. ](/news/2014/12/2/the-fbi-launches-a-probe-into-a-massive-hacking-attack-on-sony-pictures-believing-the-leadership-of-north-korea-to-be-responsible.md) _(Current version)_
 
 ### Related:

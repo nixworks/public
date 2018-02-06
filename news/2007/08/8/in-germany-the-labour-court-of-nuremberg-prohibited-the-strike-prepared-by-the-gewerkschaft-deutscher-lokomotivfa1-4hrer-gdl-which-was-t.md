@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibi
 
 ### Changes:
 
-1. [ In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was.md) _2017-08-25 03:20:28 (First version)_
+1. [ In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was.md) _2018-02-06 13:49:18 (First version)_
 1. [ In Germany the labour court of Nuremberg prohibited the strike prepared by the "Gewerkschaft Deutscher Lokomotivfuhrer" (GDL), which was to be the largest in 15 years. According to the "Deutsche Bahn" train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was-t.md) _(Current version)_
 
 ### Related:

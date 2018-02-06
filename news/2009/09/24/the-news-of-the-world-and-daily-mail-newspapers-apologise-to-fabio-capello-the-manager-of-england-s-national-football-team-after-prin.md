@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers
 
 ### Changes:
 
-1. [ The ''News of the World'' and ''Daily Mail'' newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after.md) _2017-08-25 03:25:51 (First version)_
+1. [ The ''News of the World'' and ''Daily Mail'' newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after.md) _2018-02-06 13:49:19 (First version)_
 1. [ The "News of the World" and "Daily Mail" newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after-prin.md) _(Current version)_
 
 ### Related:

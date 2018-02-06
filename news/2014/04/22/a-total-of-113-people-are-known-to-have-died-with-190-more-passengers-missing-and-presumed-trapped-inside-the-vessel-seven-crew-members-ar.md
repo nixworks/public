@@ -16,7 +16,7 @@ The confirmed death toll from the South Korean ferry that capsized last week rea
 
 ### Changes:
 
-1. [2014 South Korean ferry capsizing: A total of 113 people are known to have died, with 190 more passengers missing and presumed trapped inside the vessel. Seven crew members are detained for their failure to evacuate Sewol ferry. The reason for sinking is not yet clear. ](/news/2014/04/22/2014-south-korean-ferry-capsizing-a-total-of-113-people-are-known-to-have-died-with-190-more-passengers-missing-and-presumed-trapped-insid.md) _2017-08-27 03:40:37 (First version)_
+1. [2014 South Korean ferry capsizing: A total of 113 people are known to have died, with 190 more passengers missing and presumed trapped inside the vessel. Seven crew members are detained for their failure to evacuate Sewol ferry. The reason for sinking is not yet clear. ](/news/2014/04/22/2014-south-korean-ferry-capsizing-a-total-of-113-people-are-known-to-have-died-with-190-more-passengers-missing-and-presumed-trapped-insid.md) _2018-02-06 13:49:26 (First version)_
 1. [A total of 113 people are known to have died, with 190 more passengers missing and presumed trapped inside the vessel. Seven crew members are detained for their failure to evacuate Sewol ferry. The reason for sinking is not yet clear. ](/news/2014/04/22/a-total-of-113-people-are-known-to-have-died-with-190-more-passengers-missing-and-presumed-trapped-inside-the-vessel-seven-crew-members-ar.md) _(Current version)_
 
 ### Related:

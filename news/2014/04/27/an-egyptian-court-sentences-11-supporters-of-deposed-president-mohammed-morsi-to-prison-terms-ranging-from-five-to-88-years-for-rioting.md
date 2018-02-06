@@ -16,8 +16,8 @@ A court in Egypt sentences 11 supporters of deposed President Mohammed Morsi to 
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:An Egyptian court sentences 11 supporters of deposed President Mohammed Morsi to prison terms ranging from five to 88 years for rioting.](/news/2014/04/27/post-coup-unrest-in-egypt-pan-egyptian-court-sentences-11-supporters-of-deposed-president-mohammed-morsi-to-prison-terms-ranging-from-five-t.md) _2017-08-25 03:40:20 (First version)_
-2. [Post-coup unrest in Egypt:: An Egyptian court sentences 11 supporters of deposed President Mohammed Morsi to prison terms ranging from five to 88 years for rioting.](/news/2014/04/27/post-coup-unrest-in-egypt-an-egyptian-court-sentences-11-supporters-of-deposed-president-mohammed-morsi-to-prison-terms-ranging-from-five.md) _2017-08-27 03:40:38 (Update)_
+1. [Post-coup unrest in Egypt:An Egyptian court sentences 11 supporters of deposed President Mohammed Morsi to prison terms ranging from five to 88 years for rioting.](/news/2014/04/27/post-coup-unrest-in-egypt-pan-egyptian-court-sentences-11-supporters-of-deposed-president-mohammed-morsi-to-prison-terms-ranging-from-five-t.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt:: An Egyptian court sentences 11 supporters of deposed President Mohammed Morsi to prison terms ranging from five to 88 years for rioting.](/news/2014/04/27/post-coup-unrest-in-egypt-an-egyptian-court-sentences-11-supporters-of-deposed-president-mohammed-morsi-to-prison-terms-ranging-from-five.md) _2018-02-06 13:49:26 (Update)_
 2. [An Egyptian court sentences 11 supporters of deposed President Mohammed Morsi to prison terms ranging from five to 88 years for rioting.](/news/2014/04/27/an-egyptian-court-sentences-11-supporters-of-deposed-president-mohammed-morsi-to-prison-terms-ranging-from-five-to-88-years-for-rioting.md) _(Current version)_
 
 ### Related:

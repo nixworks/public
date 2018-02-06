@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/05/24/an-article-in-the-journal-science-reports-that-
 
 ### Changes:
 
-1. [ An article in the journal ''Science'' reports that a new naturally occurring amino acid has been found in a certain type of archaic bacteria. Scientists are calling this new amino acid Pyrrolysine.](/news/2002/05/24/an-article-in-the-journal-science-reports-that-a-new-naturally-occurring-amino-acid-has-been-found-in-a-certain-type-of-archaic-bacteri.md) _2017-08-25 03:15:12 (First version)_
+1. [ An article in the journal ''Science'' reports that a new naturally occurring amino acid has been found in a certain type of archaic bacteria. Scientists are calling this new amino acid Pyrrolysine.](/news/2002/05/24/an-article-in-the-journal-science-reports-that-a-new-naturally-occurring-amino-acid-has-been-found-in-a-certain-type-of-archaic-bacteri.md) _2018-02-06 13:49:15 (First version)_
 1. [ An article in the journal "Science" reports that a new naturally occurring amino acid has been found in a certain type of archaic bacteria. Scientists are calling this new amino acid Pyrrolysine.](/news/2002/05/24/an-article-in-the-journal-science-reports-that-a-new-naturally-occurring-amino-acid-has-been-found-in-a-certain-type-of-archaic-bacteria.md) _(Current version)_
 
 ### Related:

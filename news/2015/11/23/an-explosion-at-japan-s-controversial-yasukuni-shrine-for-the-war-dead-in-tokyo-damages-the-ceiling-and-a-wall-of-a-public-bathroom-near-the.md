@@ -17,7 +17,7 @@ An explosion at around 10 a.m. Monday at controversial Yasukuni Shrine damages t
 
 ### Changes:
 
-1. [An explosion at Japan's controversial Yasukuni Shrine for the war dead in Tokyo damages the ceiling and a wall of a public bathroom near the shrine's southern entrance. No one was injured. ](/news/2015/11/23/an-explosion-at-japan-s-controversial-yasukuni-shrine-for-the-war-dead-in-tokyo-damages-the-ceiling-and-a-wall-of-a-public-bathroom-near-th.md) _2017-08-25 03:43:42 (First version)_
+1. [An explosion at Japan's controversial Yasukuni Shrine for the war dead in Tokyo damages the ceiling and a wall of a public bathroom near the shrine's southern entrance. No one was injured. ](/news/2015/11/23/an-explosion-at-japan-s-controversial-yasukuni-shrine-for-the-war-dead-in-tokyo-damages-the-ceiling-and-a-wall-of-a-public-bathroom-near-th.md) _2018-02-06 13:49:28 (First version)_
 1. [An explosion at Japan's controversial Yasukuni Shrine for the war dead in Tokyo damages the ceiling and a wall of a public bathroom near the shrine's southern entrance. No one was injured. ](/news/2015/11/23/an-explosion-at-japan-s-controversial-yasukuni-shrine-for-the-war-dead-in-tokyo-damages-the-ceiling-and-a-wall-of-a-public-bathroom-near-the.md) _(Current version)_
 
 ### Related:

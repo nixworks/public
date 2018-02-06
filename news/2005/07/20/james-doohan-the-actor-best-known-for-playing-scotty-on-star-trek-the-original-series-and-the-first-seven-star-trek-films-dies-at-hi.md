@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-s
 
 ### Changes:
 
-1. [ James Doohan, the actor best known for playing Scotty on ''Star Trek: The Original Series'' and the first seven ''Star Trek'' films, dies at his home in Redmond, Washington.](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-scotty-on-star-trek-the-original-series-and-the-first-seven-star-trek-films-dies-a.md) _2017-08-25 03:16:33 (First version)_
+1. [ James Doohan, the actor best known for playing Scotty on ''Star Trek: The Original Series'' and the first seven ''Star Trek'' films, dies at his home in Redmond, Washington.](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-scotty-on-star-trek-the-original-series-and-the-first-seven-star-trek-films-dies-a.md) _2018-02-06 13:49:16 (First version)_
 1. [ James Doohan, the actor best known for playing Scotty on "Star Trek: The Original Series" and the first seven "Star Trek" films, dies at his home in Redmond, Washington.](/news/2005/07/20/james-doohan-the-actor-best-known-for-playing-scotty-on-star-trek-the-original-series-and-the-first-seven-star-trek-films-dies-at-hi.md) _(Current version)_
 
 ### Related:

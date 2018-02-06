@@ -16,7 +16,7 @@ The Nepali government says a British national has been detained for questioning 
 
 ### Changes:
 
-1. [Nepal-United Kingdom relations: British national Martin Travers is detained in Nepal for allegedly taking part in protests against the Nepalese government. ](/news/2016/05/17/nepal-united-kingdom-relations-british-national-martin-travers-is-detained-in-nepal-for-allegedly-taking-part-in-protests-against-the-nep.md) _2017-08-27 03:46:03 (First version)_
+1. [Nepal-United Kingdom relations: British national Martin Travers is detained in Nepal for allegedly taking part in protests against the Nepalese government. ](/news/2016/05/17/nepal-united-kingdom-relations-british-national-martin-travers-is-detained-in-nepal-for-allegedly-taking-part-in-protests-against-the-nep.md) _2018-02-06 13:49:29 (First version)_
 1. [British national Martin Travers is detained in Nepal for allegedly taking part in protests against the Nepalese government. ](/news/2016/05/17/british-national-martin-travers-is-detained-in-nepal-for-allegedly-taking-part-in-protests-against-the-nepalese-government.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ South Sudan accused Sudan of launching a ground attack in an oil region of the n
 
 ### Changes:
 
-1. [2012 South Sudan-Sudan border conflict: Tensions rise between the two nations as South Sudan accuses Sudan of attacking locations in its territory. ](/news/2012/05/1/2012-south-sudan-sudan-border-conflict-tensions-rise-between-the-two-nations-as-south-sudan-accuses-sudan-of-attacking-locations-in-its-t.md) _2017-08-27 03:35:46 (First version)_
+1. [2012 South Sudan-Sudan border conflict: Tensions rise between the two nations as South Sudan accuses Sudan of attacking locations in its territory. ](/news/2012/05/1/2012-south-sudan-sudan-border-conflict-tensions-rise-between-the-two-nations-as-south-sudan-accuses-sudan-of-attacking-locations-in-its-t.md) _2018-02-06 13:49:23 (First version)_
 1. [2012 South Sudan-Sudan border conflict: Tensions rise between the two nations as South Sudan accuses Sudan of attacking locations in its territory. ](/news/2012/05/1/2012-south-sudanasudan-border-conflict-tensions-rise-between-the-two-nations-as-south-sudan-accuses-sudan-of-attacking-locations-in-its-t.md) _(Current version)_
 
 ### Related:

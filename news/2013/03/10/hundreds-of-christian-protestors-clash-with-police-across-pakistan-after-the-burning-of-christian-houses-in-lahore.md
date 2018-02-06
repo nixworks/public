@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-pol
 
 ### Changes:
 
-1. [2013 in Pakistan:Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-phundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md) _2017-08-25 03:37:47 (First version)_
-2. [2013 in Pakistan:: Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md) _2017-08-27 03:37:58 (Update)_
+1. [2013 in Pakistan:Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-phundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 in Pakistan:: Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md) _2018-02-06 13:49:24 (Update)_
 2. [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md) _(Current version)_
 
 ### Related:

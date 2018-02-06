@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/20/volkswagen-and-united-states-officials-agree-in
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. ](/news/2016/04/20/volkswagen-emissions-scandal-volkswagen-and-united-states-officials-agree-in-principle-on-a-deal-where-the-automaker-could-buy-back-up-to-5.md) _2017-08-27 03:45:42 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. ](/news/2016/04/20/volkswagen-emissions-scandal-volkswagen-and-united-states-officials-agree-in-principle-on-a-deal-where-the-automaker-could-buy-back-up-to-5.md) _2018-02-06 13:49:28 (First version)_
 1. [Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. ](/news/2016/04/20/volkswagen-and-united-states-officials-agree-in-principle-on-a-deal-where-the-automaker-could-buy-back-up-to-500-000-diesel-cars.md) _(Current version)_
 
 ### Related:

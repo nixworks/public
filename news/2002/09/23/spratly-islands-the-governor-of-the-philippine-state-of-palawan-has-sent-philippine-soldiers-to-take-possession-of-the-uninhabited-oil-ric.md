@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-
 
 ### Changes:
 
-1. [ Spratly Islands: The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-r.md) _2017-08-25 03:15:15 (First version)_
+1. [ Spratly Islands: The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-r.md) _2018-02-06 13:49:15 (First version)_
 1. [ Spratly Islands: The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-ric.md) _(Current version)_
 
 ### Related:

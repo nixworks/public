@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/11/french-foreign-minister-laurent-fabius-announce
 
 ### Changes:
 
-1. [2015 United Nations Climate Change Conference: French Foreign Minister Laurent Fabius announces the world climate talks (COP 21) will be extended to at least Saturday. ](/news/2015/12/11/2015-united-nations-climate-change-conference-french-foreign-minister-laurent-fabius-announces-the-world-climate-talks-cop-21-will-be-ext.md) _2017-08-27 03:44:18 (First version)_
+1. [2015 United Nations Climate Change Conference: French Foreign Minister Laurent Fabius announces the world climate talks (COP 21) will be extended to at least Saturday. ](/news/2015/12/11/2015-united-nations-climate-change-conference-french-foreign-minister-laurent-fabius-announces-the-world-climate-talks-cop-21-will-be-ext.md) _2018-02-06 13:49:28 (First version)_
 1. [French Foreign Minister Laurent Fabius announces the world climate talks (COP 21) will be extended to at least Saturday. ](/news/2015/12/11/french-foreign-minister-laurent-fabius-announces-the-world-climate-talks-cop-21-will-be-extended-to-at-least-saturday.md) _(Current version)_
 
 ### Related:

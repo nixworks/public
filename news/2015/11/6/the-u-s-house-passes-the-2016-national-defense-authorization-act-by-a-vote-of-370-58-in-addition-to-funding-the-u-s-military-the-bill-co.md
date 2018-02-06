@@ -17,7 +17,7 @@ The US House voted overwhelmingly Thursday to approve the 2016 defense policy bi
 
 ### Changes:
 
-1. [The U.S. House passes the 2016 National Defense Authorization Act by a vote of 370-58. In addition to funding the U.S. military, the bill contains provisions for sweeping personnel reforms. The previous version of the bill was vetoed by President Barack Obama. Some sources expect swift passage by the U.S. Senate while other sources are not so optimistic. ](/news/2015/11/6/the-u-s-house-passes-the-2016-national-defense-authorization-act-by-a-vote-of-370-58-in-addition-to-funding-the-u-s-military-the-bill-c.md) _2017-08-25 03:43:23 (First version)_
+1. [The U.S. House passes the 2016 National Defense Authorization Act by a vote of 370-58. In addition to funding the U.S. military, the bill contains provisions for sweeping personnel reforms. The previous version of the bill was vetoed by President Barack Obama. Some sources expect swift passage by the U.S. Senate while other sources are not so optimistic. ](/news/2015/11/6/the-u-s-house-passes-the-2016-national-defense-authorization-act-by-a-vote-of-370-58-in-addition-to-funding-the-u-s-military-the-bill-c.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. House passes the 2016 National Defense Authorization Act by a vote of 370-58. In addition to funding the U.S. military, the bill contains provisions for sweeping personnel reforms. The previous version of the bill was vetoed by President Barack Obama. Some sources expect swift passage by the U.S. Senate while other sources are not so optimistic. ](/news/2015/11/6/the-u-s-house-passes-the-2016-national-defense-authorization-act-by-a-vote-of-370-58-in-addition-to-funding-the-u-s-military-the-bill-co.md) _(Current version)_
 
 ### Related:

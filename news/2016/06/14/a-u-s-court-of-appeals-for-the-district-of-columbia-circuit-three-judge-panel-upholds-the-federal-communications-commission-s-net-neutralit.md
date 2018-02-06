@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/14/a-u-s-court-of-appeals-for-the-district-of-colu
 
 ### Changes:
 
-1. [A U.S. Court of Appeals for the District of Columbia Circuit three-judge panel upholds the Federal Communications Commission's net neutrality rules that prohibit broadband providers from giving or selling access to faster internet service to selected customers. ](/news/2016/06/14/a-u-s-court-of-appeals-for-the-district-of-columbia-circuit-three-judge-panel-upholds-the-federal-communications-commission-s-net-neutrali.md) _2017-08-25 03:45:53 (First version)_
+1. [A U.S. Court of Appeals for the District of Columbia Circuit three-judge panel upholds the Federal Communications Commission's net neutrality rules that prohibit broadband providers from giving or selling access to faster internet service to selected customers. ](/news/2016/06/14/a-u-s-court-of-appeals-for-the-district-of-columbia-circuit-three-judge-panel-upholds-the-federal-communications-commission-s-net-neutrali.md) _2018-02-06 13:49:29 (First version)_
 1. [A U.S. Court of Appeals for the District of Columbia Circuit three-judge panel upholds the Federal Communications Commission's net neutrality rules that prohibit broadband providers from giving or selling access to faster internet service to selected customers. ](/news/2016/06/14/a-u-s-court-of-appeals-for-the-district-of-columbia-circuit-three-judge-panel-upholds-the-federal-communications-commission-s-net-neutralit.md) _(Current version)_
 
 ### Related:

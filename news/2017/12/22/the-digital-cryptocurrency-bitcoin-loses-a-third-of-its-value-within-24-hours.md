@@ -16,7 +16,7 @@ Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital curr
 
 ### Changes:
 
-1. [The digit cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digit-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md) _2017-12-22 19:30:06 (First version)_
+1. [The digit cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digit-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md) _2018-02-06 13:49:31 (First version)_
 1. [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md) _(Current version)_
 
 ### Related:

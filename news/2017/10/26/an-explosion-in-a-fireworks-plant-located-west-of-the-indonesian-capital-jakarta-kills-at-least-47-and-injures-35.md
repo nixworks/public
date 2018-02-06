@@ -16,7 +16,7 @@ An explosion at a fireworks factory in an area west of Indonesia&#039;s capital 
 
 ### Changes:
 
-1. [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 27 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-27-and-injures-35.md) _2017-10-26 15:30:05 (First version)_
+1. [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 27 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-27-and-injures-35.md) _2018-02-06 13:49:31 (First version)_
 1. [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Cambridge University has acquired an important collection of personal papers bel
 
 ### Changes:
 
-1. [ The University of Cambridge successfully acquires a collection of Siegfried Sassoon's personal papers for PS1.25 million, following a six-month fundraising campaign. ](/news/2009/12/31/the-university-of-cambridge-successfully-acquires-a-collection-of-siegfried-sassoon-s-personal-papers-for-aps1-25-million-following-a-six-m.md) _2017-08-25 03:26:45 (First version)_
+1. [ The University of Cambridge successfully acquires a collection of Siegfried Sassoon's personal papers for PS1.25 million, following a six-month fundraising campaign. ](/news/2009/12/31/the-university-of-cambridge-successfully-acquires-a-collection-of-siegfried-sassoon-s-personal-papers-for-aps1-25-million-following-a-six-m.md) _2018-02-06 13:49:19 (First version)_
 1. [ The University of Cambridge successfully acquires a collection of Siegfried Sassoon's personal papers for GBP1.25 million, following a six-month fundraising campaign. ](/news/2009/12/31/the-university-of-cambridge-successfully-acquires-a-collection-of-siegfried-sassoon-s-personal-papers-for-agbp1-25-million-following-a-six.md) _(Current version)_
 
 ### Related:

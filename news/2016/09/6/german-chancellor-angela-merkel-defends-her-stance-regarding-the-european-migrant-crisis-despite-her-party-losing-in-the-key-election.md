@@ -16,7 +16,7 @@ Angela Merkel has vowed to &quot;win back trust&quot; after her party suffered a
 
 ### Changes:
 
-1. [Mecklenburg-Vorpommern state election, 2016: German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/mecklenburg-vorpommern-state-election-2016-german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despit.md) _2017-08-27 03:46:47 (First version)_
+1. [Mecklenburg-Vorpommern state election, 2016: German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/mecklenburg-vorpommern-state-election-2016-german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despit.md) _2018-02-06 13:49:29 (First version)_
 1. [German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despite-her-party-losing-in-the-key-election.md) _(Current version)_
 
 ### Related:

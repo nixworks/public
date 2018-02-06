@@ -18,7 +18,7 @@ Jan Bartunek and Philip Blenkinsop
 
 ### Changes:
 
-1. [Terrorism in the European Union: Belgian house raids result in the arrest of six people concerning a New Year's Eve celebrations' plot in Brussels, the nation's capital. ](/news/2015/12/31/terrorism-in-the-european-union-belgian-house-raids-result-in-the-arrest-of-six-people-concerning-a-new-year-s-eve-celebrations-plot-in-br.md) _2017-08-27 03:44:34 (First version)_
+1. [Terrorism in the European Union: Belgian house raids result in the arrest of six people concerning a New Year's Eve celebrations' plot in Brussels, the nation's capital. ](/news/2015/12/31/terrorism-in-the-european-union-belgian-house-raids-result-in-the-arrest-of-six-people-concerning-a-new-year-s-eve-celebrations-plot-in-br.md) _2018-02-06 13:49:28 (First version)_
 1. [Belgian house raids result in the arrest of six people concerning a New Year's Eve celebrations' plot in Brussels, the nation's capital. ](/news/2015/12/31/belgian-house-raids-result-in-the-arrest-of-six-people-concerning-a-new-year-s-eve-celebrations-plot-in-brussels-the-nation-s-capital.md) _(Current version)_
 
 ### Related:

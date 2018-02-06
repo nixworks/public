@@ -16,7 +16,7 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 
 ### Changes:
 
-1. [A U.S. judge entered a plea of not guilty on behalf of alleged Aurora theatre gunman James Eagan Holmes, after his lawyers said they were not ready to enter a plea. ](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-behalf-of-alleged-aurora-theatre-gunman-james-eagan-holmes-after-his-lawyers-said-they-were-no.md) _2017-10-17 03:44:01 (First version)_
+1. [A U.S. judge entered a plea of not guilty on behalf of alleged Aurora theatre gunman James Eagan Holmes, after his lawyers said they were not ready to enter a plea. ](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-behalf-of-alleged-aurora-theatre-gunman-james-eagan-holmes-after-his-lawyers-said-they-were-no.md) _2018-02-06 13:49:24 (First version)_
 1. [A U.S. judge entered a plea of not guilty on the behalf of alleged Aurora theater gunman James Holmes, after his lawyers said they were not ready to enter a plea. ](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-the-behalf-of-alleged-aurora-theater-gunman-james-holmes-after-his-lawyers-said-they-were-not.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ A suicide bomber killed at least 25 new recruits inside a police compound in the
 
 ### Changes:
 
-1. [Yemeni civil war (2015-present): A suicide bombing kills at least 30 and injures 70 others in the southern city of Mukalla, Yemen. The Islamic State of Iraq and the Levant claims responsibility for attack. ](/news/2016/05/15/yemeni-civil-war-2015-present-a-suicide-bombing-kills-at-least-30-and-injures-70-others-in-the-southern-city-of-mukalla-yemen-the-isl.md) _2017-08-27 03:46:02 (First version)_
+1. [Yemeni civil war (2015-present): A suicide bombing kills at least 30 and injures 70 others in the southern city of Mukalla, Yemen. The Islamic State of Iraq and the Levant claims responsibility for attack. ](/news/2016/05/15/yemeni-civil-war-2015-present-a-suicide-bombing-kills-at-least-30-and-injures-70-others-in-the-southern-city-of-mukalla-yemen-the-isl.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing kills at least 30 and injures 70 others in the southern city of Mukalla, Yemen. The Islamic State of Iraq and the Levant claims responsibility for attack. ](/news/2016/05/15/a-suicide-bombing-kills-at-least-30-and-injures-70-others-in-the-southern-city-of-mukalla-yemen-the-islamic-state-of-iraq-and-the-levant-c.md) _(Current version)_
 
 ### Related:

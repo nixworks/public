@@ -16,7 +16,7 @@ The heir to the Dutch throne, Crown Prince Willem-Alexander, buys a villa in sou
 
 ### Changes:
 
-1. [Crown Prince Willem-Alexander, the heir to the Dutch throne, buys a villa for -4.5 million beside the Greek town of Kranidi near a home owned by Russian President-elect Vladimir Putin. ](/news/2012/04/16/crown-prince-willem-alexander-the-heir-to-the-dutch-throne-buys-a-villa-for-4-5-million-beside-the-greek-town-of-kranidi-near-a-home-ow.md) _2017-08-27 03:35:40 (First version)_
+1. [Crown Prince Willem-Alexander, the heir to the Dutch throne, buys a villa for -4.5 million beside the Greek town of Kranidi near a home owned by Russian President-elect Vladimir Putin. ](/news/2012/04/16/crown-prince-willem-alexander-the-heir-to-the-dutch-throne-buys-a-villa-for-4-5-million-beside-the-greek-town-of-kranidi-near-a-home-ow.md) _2018-02-06 13:49:23 (First version)_
 1. [Crown Prince Willem-Alexander, the heir to the Dutch throne, buys a villa for EUR4.5 million beside the Greek town of Kranidi near a home owned by Russian President-elect Vladimir Putin. ](/news/2012/04/16/crown-prince-willem-alexander-the-heir-to-the-dutch-throne-buys-a-villa-for-a-4-5-million-beside-the-greek-town-of-kranidi-near-a-home-ow.md) _(Current version)_
 
 ### Related:

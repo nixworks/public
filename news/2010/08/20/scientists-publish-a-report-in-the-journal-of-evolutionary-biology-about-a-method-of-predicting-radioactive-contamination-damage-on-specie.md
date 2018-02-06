@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-e
 
 ### Changes:
 
-1. [Scientists publish a report in the ''Journal of Evolutionary Biology'' about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http:--www.bbc.co.uk-news-science-environment-11023530 (BBC)] 10.1111-j.1420-9101.2010.02074.x|(''J. Evol. Biol.'')](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-spec.md) _2017-08-25 03:29:35 (First version)_
+1. [Scientists publish a report in the ''Journal of Evolutionary Biology'' about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http:--www.bbc.co.uk-news-science-environment-11023530 (BBC)] 10.1111-j.1420-9101.2010.02074.x|(''J. Evol. Biol.'')](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-spec.md) _2018-02-06 13:49:20 (First version)_
 1. [Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http:--www.bbc.co.uk-news-science-environment-11023530 (BBC)] 10.1111-j.1420-9101.2010.02074.x. Evol. Biol.")](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-specie.md) _(Current version)_
 
 ### Related:

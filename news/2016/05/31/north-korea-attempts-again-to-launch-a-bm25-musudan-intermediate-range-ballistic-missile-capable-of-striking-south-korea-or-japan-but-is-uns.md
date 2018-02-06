@@ -16,7 +16,7 @@ Pyongyang has never successfully launched one of the intermediate-range missiles
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-and-weapons-of-mass-destruction-north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capabl.md) _2017-08-27 03:46:10 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-and-weapons-of-mass-destruction-north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capabl.md) _2018-02-06 13:49:29 (First version)_
 1. [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md) _(Current version)_
 
 ### Related:

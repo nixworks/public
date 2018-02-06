@@ -18,7 +18,7 @@ Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town
 
 ### Changes:
 
-1. [Sectarianism in Pakistan: An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/sectarianism-in-pakistan-an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakista.md) _2017-08-27 03:46:58 (First version)_
+1. [Sectarianism in Pakistan: An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/sectarianism-in-pakistan-an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakista.md) _2018-02-06 13:49:29 (First version)_
 1. [An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakistan-kills-four-women-from-p.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ Two female suicide bombers killed more than 60 people at a camp for people displ
 
 ### Changes:
 
-1. [ Boko Haram insurgency: Two female suicide bombers kill more than 58 people at a camp for displaced people in Dikwa, Nigeria. ](/news/2016/02/10/boko-haram-insurgency-two-female-suicide-bombers-kill-more-than-58-people-at-a-camp-for-displaced-people-in-dikwa-nigeria.md) _2017-08-27 03:44:52 (First version)_
+1. [ Boko Haram insurgency: Two female suicide bombers kill more than 58 people at a camp for displaced people in Dikwa, Nigeria. ](/news/2016/02/10/boko-haram-insurgency-two-female-suicide-bombers-kill-more-than-58-people-at-a-camp-for-displaced-people-in-dikwa-nigeria.md) _2018-02-06 13:49:28 (First version)_
 1. [ Two female suicide bombers kill more than 58 people at a camp for displaced people in Dikwa, Nigeria. ](/news/2016/02/10/two-female-suicide-bombers-kill-more-than-58-people-at-a-camp-for-displaced-people-in-dikwa-nigeria.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-e
 
 ### Changes:
 
-1. [Panama severs diplomatic ties with Taiwan and establishes formal relation with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relation-with-china.md) _2017-06-13 13:30:07 (First version)_
-2. [Foreign relations of Panama: Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/foreign-relations-of-panama-panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _2017-08-27 03:48:28 (Update)_
+1. [Panama severs diplomatic ties with Taiwan and establishes formal relation with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relation-with-china.md) _2018-02-06 13:49:30 (First version)_
+2. [Foreign relations of Panama: Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/foreign-relations-of-panama-panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _2018-02-06 13:49:30 (Update)_
 2. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _(Current version)_
 
 ### Related:

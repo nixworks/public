@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discha
 
 ### Changes:
 
-1. [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyork-presbyterian-hospital-after-being-treated-for-a-blood-clot.md) _2017-08-27 03:37:21 (First version)_
+1. [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyork-presbyterian-hospital-after-being-treated-for-a-blood-clot.md) _2018-02-06 13:49:24 (First version)_
 1. [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md) _(Current version)_
 
 ### Related:

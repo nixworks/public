@@ -16,8 +16,8 @@ Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the 
 
 ### Changes:
 
-1. [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication must take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-must-take-place-within-three-years.md) _2017-06-09 09:30:07 (First version)_
-2. [Politics of Japan: The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/politics-of-japan-the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-withi.md) _2017-08-27 03:48:27 (Update)_
+1. [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication must take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-must-take-place-within-three-years.md) _2018-02-06 13:49:30 (First version)_
+2. [Politics of Japan: The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/politics-of-japan-the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-withi.md) _2018-02-06 13:49:30 (Update)_
 2. [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Fighting between government and rebels has seen deliberate starvation, gang rape
 
 ### Changes:
 
-1. [Ethnic violence in South Sudan (2011-present): A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. ](/news/2016/12/1/ethnic-violence-in-south-sudan-2011-present-a-united-nations-human-rights-commission-in-south-sudan-claims-a-steady-process-of-ethnic.md) _2017-08-27 03:47:21 (First version)_
+1. [Ethnic violence in South Sudan (2011-present): A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. ](/news/2016/12/1/ethnic-violence-in-south-sudan-2011-present-a-united-nations-human-rights-commission-in-south-sudan-claims-a-steady-process-of-ethnic.md) _2018-02-06 13:49:29 (First version)_
 1. [A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. ](/news/2016/12/1/a-united-nations-human-rights-commission-in-south-sudan-claims-a-steady-process-of-ethnic-cleansing-is-underway-in-the-war-torn-nation.md) _(Current version)_
 
 ### Related:

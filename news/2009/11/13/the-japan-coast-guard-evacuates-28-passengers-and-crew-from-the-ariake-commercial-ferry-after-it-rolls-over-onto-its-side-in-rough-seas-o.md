@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-a
 
 ### Changes:
 
-1. [ The Japan Coast Guard evacuates 28 passengers and crew from the ''Ariake'' commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas.md) _2017-08-25 03:26:20 (First version)_
+1. [ The Japan Coast Guard evacuates 28 passengers and crew from the ''Ariake'' commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Japan Coast Guard evacuates 28 passengers and crew from the "Ariake" commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas-o.md) _(Current version)_
 
 ### Related:

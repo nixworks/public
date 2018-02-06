@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/05/11/two-people-are-dead-after-typhoon-noul-hits-the
 
 ### Changes:
 
-1. [Typhoon Noul (2015): Two people are dead after Typhoon Noul hits the Philippines. The storm is now headed for Japan. ](/news/2015/05/11/typhoon-noul-2015-two-people-are-dead-after-typhoon-noul-hits-the-philippines-the-storm-is-now-headed-for-japan.md) _2017-08-27 03:42:18 (First version)_
+1. [Typhoon Noul (2015): Two people are dead after Typhoon Noul hits the Philippines. The storm is now headed for Japan. ](/news/2015/05/11/typhoon-noul-2015-two-people-are-dead-after-typhoon-noul-hits-the-philippines-the-storm-is-now-headed-for-japan.md) _2018-02-06 13:49:27 (First version)_
 1. [Two people are dead after Typhoon Noul hits the Philippines. The storm is now headed for Japan. ](/news/2015/05/11/two-people-are-dead-after-typhoon-noul-hits-the-philippines-the-storm-is-now-headed-for-japan.md) _(Current version)_
 
 ### Related:

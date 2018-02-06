@@ -17,8 +17,8 @@ Thirteen people were shot dead as supporters of the Muslim Brotherhood clashed w
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/post-coup-unrest-in-egypt-pthirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md) _2017-08-25 03:39:48 (First version)_
-2. [Post-coup unrest in Egypt:: Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/post-coup-unrest-in-egypt-thirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md) _2017-08-27 03:40:07 (Update)_
+1. [Post-coup unrest in Egypt:: Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/post-coup-unrest-in-egypt-thirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-coup unrest in Egypt:Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/post-coup-unrest-in-egypt-pthirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md) _2018-02-06 13:49:25 (Update)_
 2. [Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/thirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md) _(Current version)_
 
 ### Related:

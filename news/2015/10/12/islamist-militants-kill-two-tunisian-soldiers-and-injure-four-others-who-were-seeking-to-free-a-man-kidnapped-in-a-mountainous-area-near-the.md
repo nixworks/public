@@ -17,7 +17,7 @@ Islamists militants killed two Tunisian soldiers who were seeking to free a man 
 
 ### Changes:
 
-1. [Islamist militants kill two Tunisian soldiers and injure four others who were seeking to free a man kidnapped in a mountainous area near the border with Algeria. ](/news/2015/10/12/islamist-militants-kill-two-tunisian-soldiers-and-injure-four-others-who-were-seeking-to-free-a-man-kidnapped-in-a-mountainous-area-near-th.md) _2017-08-25 03:43:01 (First version)_
+1. [Islamist militants kill two Tunisian soldiers and injure four others who were seeking to free a man kidnapped in a mountainous area near the border with Algeria. ](/news/2015/10/12/islamist-militants-kill-two-tunisian-soldiers-and-injure-four-others-who-were-seeking-to-free-a-man-kidnapped-in-a-mountainous-area-near-th.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamist militants kill two Tunisian soldiers and injure four others who were seeking to free a man kidnapped in a mountainous area near the border with Algeria. ](/news/2015/10/12/islamist-militants-kill-two-tunisian-soldiers-and-injure-four-others-who-were-seeking-to-free-a-man-kidnapped-in-a-mountainous-area-near-the.md) _(Current version)_
 
 ### Related:

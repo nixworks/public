@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/01/23/at-least-22-civilians-are-shot-dead-across-syri
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/2011a2012-syrian-uprising-pat-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md) _2017-08-25 03:34:53 (First version)_
-2. [2011-2012 Syrian uprising:: At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/2011-2012-syrian-uprising-at-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md) _2017-08-27 03:35:02 (Update)_
+1. [2011-2012 Syrian uprising:At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/2011a2012-syrian-uprising-pat-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/2011-2012-syrian-uprising-at-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/at-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md) _(Current version)_
 
 ### Related:

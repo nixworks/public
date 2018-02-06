@@ -16,7 +16,7 @@ Greek Prime Minister Alexis Tsipras tried to rally his Syriza party on Tuesday b
 
 ### Changes:
 
-1. [Greek government-debt crisis timeline: The government of Greece submits more legislation to the Hellenic Parliament required by its creditors to start a bailout package. ](/news/2015/07/21/greek-government-debt-crisis-timeline-the-government-of-greece-submits-more-legislation-to-the-hellenic-parliament-required-by-its-creditor.md) _2017-08-27 03:42:44 (First version)_
+1. [Greek government-debt crisis timeline: The government of Greece submits more legislation to the Hellenic Parliament required by its creditors to start a bailout package. ](/news/2015/07/21/greek-government-debt-crisis-timeline-the-government-of-greece-submits-more-legislation-to-the-hellenic-parliament-required-by-its-creditor.md) _2018-02-06 13:49:27 (First version)_
 1. [The government of Greece submits more legislation to the Hellenic Parliament required by its creditors to start a bailout package. ](/news/2015/07/21/the-government-of-greece-submits-more-legislation-to-the-hellenic-parliament-required-by-its-creditors-to-start-a-bailout-package.md) _(Current version)_
 
 ### Related:

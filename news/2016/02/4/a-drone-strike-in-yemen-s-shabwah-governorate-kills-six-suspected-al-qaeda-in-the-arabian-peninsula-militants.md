@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/4/a-drone-strike-in-yemen-s-shabwah-governorate-ki
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/yemeni-civil-war-2015-present-a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-milit.md) _2017-08-27 03:44:49 (First version)_
+1. [Yemeni Civil War (2015-present): A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/yemeni-civil-war-2015-present-a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-milit.md) _2018-02-06 13:49:28 (First version)_
 1. [A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-militants.md) _(Current version)_
 
 ### Related:

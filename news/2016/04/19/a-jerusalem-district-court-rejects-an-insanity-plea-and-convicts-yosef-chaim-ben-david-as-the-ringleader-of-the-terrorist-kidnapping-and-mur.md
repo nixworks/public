@@ -17,7 +17,7 @@ Yosef Chaim Ben-David well understood what he was doing and was in full control 
 
 ### Changes:
 
-1. [Kidnapping and murder of Mohammed Abu Khdeir: A Jerusalem district court rejects an insanity plea and convicts Yosef Chaim Ben-David as the ringleader of the terrorist kidnapping and murder of the 16-year-old Palestinian. In November, the court convicted Ben-David's two accomplices, both minors, of murder. ](/news/2016/04/19/kidnapping-and-murder-of-mohammed-abu-khdeir-a-jerusalem-district-court-rejects-an-insanity-plea-and-convicts-yosef-chaim-ben-david-as-the.md) _2017-08-27 03:45:42 (First version)_
+1. [Kidnapping and murder of Mohammed Abu Khdeir: A Jerusalem district court rejects an insanity plea and convicts Yosef Chaim Ben-David as the ringleader of the terrorist kidnapping and murder of the 16-year-old Palestinian. In November, the court convicted Ben-David's two accomplices, both minors, of murder. ](/news/2016/04/19/kidnapping-and-murder-of-mohammed-abu-khdeir-a-jerusalem-district-court-rejects-an-insanity-plea-and-convicts-yosef-chaim-ben-david-as-the.md) _2018-02-06 13:49:28 (First version)_
 1. [A Jerusalem district court rejects an insanity plea and convicts Yosef Chaim Ben-David as the ringleader of the terrorist kidnapping and murder of the 16-year-old Palestinian. In November, the court convicted Ben-David's two accomplices, both minors, of murder. ](/news/2016/04/19/a-jerusalem-district-court-rejects-an-insanity-plea-and-convicts-yosef-chaim-ben-david-as-the-ringleader-of-the-terrorist-kidnapping-and-mur.md) _(Current version)_
 
 ### Related:

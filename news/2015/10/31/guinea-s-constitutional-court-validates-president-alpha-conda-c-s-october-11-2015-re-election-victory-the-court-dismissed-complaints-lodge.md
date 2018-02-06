@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/10/31/guinea-s-constitutional-court-validates-preside
 
 ### Changes:
 
-1. [Guinean presidential election, 2015: Guinea's constitutional court validates President Alpha Conde's October 11, 2015, re-election victory. The court dismissed complaints lodged by opposition candidates. ](/news/2015/10/31/guinean-presidential-election-2015-guinea-s-constitutional-court-validates-president-alpha-conda-c-s-october-11-2015-re-election-victory.md) _2017-08-27 03:43:37 (First version)_
+1. [Guinean presidential election, 2015: Guinea's constitutional court validates President Alpha Conde's October 11, 2015, re-election victory. The court dismissed complaints lodged by opposition candidates. ](/news/2015/10/31/guinean-presidential-election-2015-guinea-s-constitutional-court-validates-president-alpha-conda-c-s-october-11-2015-re-election-victory.md) _2018-02-06 13:49:28 (First version)_
 1. [Guinea's constitutional court validates President Alpha Conde's October 11, 2015, re-election victory. The court dismissed complaints lodged by opposition candidates. ](/news/2015/10/31/guinea-s-constitutional-court-validates-president-alpha-conda-c-s-october-11-2015-re-election-victory-the-court-dismissed-complaints-lodge.md) _(Current version)_
 
 ### Related:

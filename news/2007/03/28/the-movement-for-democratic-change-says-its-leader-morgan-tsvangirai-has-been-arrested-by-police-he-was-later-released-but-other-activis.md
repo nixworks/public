@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/03/28/the-movement-for-democratic-change-says-its-lea
 
 ### Changes:
 
-1. [ Zimbabwean political crisis: The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/zimbabwean-political-crisis-p-the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-la.md) _2017-08-25 03:19:30 (First version)_
-2. [ Zimbabwean political crisis:: The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/zimbabwean-political-crisis-the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-la.md) _2017-08-27 03:19:25 (Update)_
+1. [ Zimbabwean political crisis:: The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/zimbabwean-political-crisis-the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-la.md) _2018-02-06 13:49:17 (First version)_
+2. [ Zimbabwean political crisis: The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/zimbabwean-political-crisis-p-the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-la.md) _2018-02-06 13:49:17 (Update)_
 2. [ The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-later-released-but-other-activis.md) _(Current version)_
 
 ### Related:

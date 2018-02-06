@@ -18,8 +18,8 @@ Euro zone finance ministers gave Greece two weeks from Monday to approve further
 
 ### Changes:
 
-1. [European sovereign debt crisis:Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/european-sovereign-debt-crisis-peurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order.md) _2017-08-25 03:33:31 (First version)_
-2. [European sovereign debt crisis:: Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order.md) _2017-08-27 03:33:39 (Update)_
+1. [European sovereign debt crisis:Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/european-sovereign-debt-crisis-peurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order.md) _2018-02-06 13:49:22 (First version)_
+2. [European sovereign debt crisis:: Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order.md) _2018-02-06 13:49:22 (Update)_
 2. [Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order-to-meet-a-substantial-part-of-gr.md) _(Current version)_
 
 ### Related:

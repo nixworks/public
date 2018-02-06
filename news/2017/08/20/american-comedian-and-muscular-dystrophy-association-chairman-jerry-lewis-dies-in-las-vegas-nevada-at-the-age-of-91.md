@@ -16,8 +16,8 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 
 ### Changes:
 
-1. [American comedian Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _2017-08-20 23:30:04 (First version)_
-2. [Deaths in August 2017: American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/deaths-in-august-2017-american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _2017-08-27 17:30:04 (Update)_
+1. [Deaths in August 2017: American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/deaths-in-august-2017-american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _2018-02-06 13:49:31 (First version)_
+2. [American comedian Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _2018-02-06 13:49:31 (Update)_
 2. [American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _(Current version)_
 
 ### Related:

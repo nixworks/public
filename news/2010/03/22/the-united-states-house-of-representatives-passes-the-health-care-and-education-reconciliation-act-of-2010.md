@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/03/22/the-united-states-house-of-representatives-pass
 
 ### Changes:
 
-1. [United States health care reformThe United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/united-states-health-care-reformpthe-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md) _2017-08-25 03:27:26 (First version)_
-2. [United States health care reform: The United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/united-states-health-care-reform-the-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md) _2017-08-27 03:27:22 (Update)_
+1. [United States health care reformThe United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/united-states-health-care-reformpthe-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md) _2018-02-06 13:49:19 (First version)_
+2. [United States health care reform: The United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/united-states-health-care-reform-the-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md) _2018-02-06 13:49:19 (Update)_
 2. [The United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/the-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md) _(Current version)_
 
 ### Related:

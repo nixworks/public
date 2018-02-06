@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/4/authorities-find-at-least-28-migrants-dead-off-t
 
 ### Changes:
 
-1. [European migrant crisis: Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. ](/news/2016/10/4/european-migrant-crisis-authorities-find-at-least-28-migrants-dead-off-the-coast-of-libya-in-a-day-of-frantic-rescues.md) _2017-08-27 03:46:57 (First version)_
+1. [European migrant crisis: Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. ](/news/2016/10/4/european-migrant-crisis-authorities-find-at-least-28-migrants-dead-off-the-coast-of-libya-in-a-day-of-frantic-rescues.md) _2018-02-06 13:49:29 (First version)_
 1. [Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. ](/news/2016/10/4/authorities-find-at-least-28-migrants-dead-off-the-coast-of-libya-in-a-day-of-frantic-rescues.md) _(Current version)_
 
 ### Related:

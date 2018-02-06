@@ -15,8 +15,8 @@ Formats: [HTML](/news/2007/03/31/the-united-states-rules-out-exchanging-five-ira
 
 ### Changes:
 
-1. [ Iranian seizure of British Navy personnel: The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/iranian-seizure-of-british-navy-personnel-p-the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january.md) _2017-08-25 03:19:31 (First version)_
-2. [ Iranian seizure of British Navy personnel:: The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/iranian-seizure-of-british-navy-personnel-the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january.md) _2017-08-27 03:19:27 (Update)_
+1. [ Iranian seizure of British Navy personnel:: The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/iranian-seizure-of-british-navy-personnel-the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iranian seizure of British Navy personnel: The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/iranian-seizure-of-british-navy-personnel-p-the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january.md) _2018-02-06 13:49:17 (Update)_
 2. [ The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january-2007-for-the-15-royal-navy-sailors-seized-b.md) _(Current version)_
 
 ### Related:

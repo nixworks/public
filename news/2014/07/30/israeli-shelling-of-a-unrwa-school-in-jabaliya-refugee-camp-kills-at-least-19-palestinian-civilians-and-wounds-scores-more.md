@@ -18,8 +18,8 @@ Army death toll rises to 56; 17 Palestinians die in market attack; British PM sa
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict:Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/2014-israelagaza-conflict-pisraeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds.md) _2017-08-25 03:40:47 (First version)_
-2. [2014 Israel-Gaza conflict:: Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/2014-israel-gaza-conflict-israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds.md) _2017-08-27 03:41:05 (Update)_
+1. [2014 Israel-Gaza conflict:Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/2014-israelagaza-conflict-pisraeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Israel-Gaza conflict:: Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/2014-israel-gaza-conflict-israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds.md) _2018-02-06 13:49:26 (Update)_
 2. [Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds-scores-more.md) _(Current version)_
 
 ### Related:

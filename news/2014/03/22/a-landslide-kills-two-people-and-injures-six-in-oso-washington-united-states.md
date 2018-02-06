@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/03/22/a-landslide-kills-two-people-and-injures-six-in
 
 ### Changes:
 
-1. [2014 Oso mudslide:A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/2014-oso-mudslide-pa-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md) _2017-08-25 03:40:12 (First version)_
-2. [2014 Oso mudslide:: A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/2014-oso-mudslide-a-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md) _2017-08-27 03:40:30 (Update)_
+1. [2014 Oso mudslide:A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/2014-oso-mudslide-pa-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Oso mudslide:: A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/2014-oso-mudslide-a-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md) _2018-02-06 13:49:26 (Update)_
 2. [A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/a-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ State of emergency remains in areas hit by deadly attacks blamed on Islamist gro
 
 ##### South Sudan
 ### [South Sudan is to send more troops and police to Pibor, the scene of ethnic violence. ](/news/2012/01/1/south-sudan-is-to-send-more-troops-and-police-to-pibor-the-scene-of-ethnic-violence.md)
-_Context: South Sudan, ethnic violence, Pibor_
+_Context: ethnic violence, South Sudan, Pibor_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II appoints former Prime Minister of Australia John Howard and British painter David Hockney to the Order of Merit. ](/news/2012/01/1/queen-elizabeth-ii-appoints-former-prime-minister-of-australia-john-howard-and-british-painter-david-hockney-to-the-order-of-merit.md)
@@ -25,7 +25,7 @@ The Queen has appointed former prime minister John Howard a member of the Order 
 
 ##### Rio Tinto Alcan
 ### [Rio Tinto Alcan locks out hundreds of workers from a smelter in the Canadian town of Alma, Quebec. ](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.md)
-_Context: Alma, smelter, Rio Tinto Alcan, Canadian, locks out, Quebec_
+_Context: Rio Tinto Alcan, smelter, locks out, Alma, Canadian, Quebec_
 
 ##### earthquake
 ### [A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. ](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.md)
@@ -57,7 +57,7 @@ Army&#x20;rulers&#x20;in&#x20;Egypt&#x20;decided&#x20;Sunday&#x20;to&#x20;bring&
 
 ##### NASA
 ### [The second of NASA's Gravity Recovery and Interior Laboratory spacecraft is in orbit around the moon. ](/news/2012/01/1/the-second-of-nasa-s-gravity-recovery-and-interior-laboratory-spacecraft-is-in-orbit-around-the-moon.md)
-_Context: NASA, GRAIL_
+_Context: GRAIL, NASA_
 
 ## [Previous Day...](/news/2011/12/31/index.md)
 

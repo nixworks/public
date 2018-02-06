@@ -17,7 +17,7 @@ Formats: [HTML](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is
 
 ### Changes:
 
-1. [ Chung Mong Koo, head of Hyundai Motor Company, is arrested in South Korea on charges of embezzlement of {{Nowrap|100 billion}} won ({{Nowrap|$106 million}} USD), among other corruption charges. ](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is-arrested-in-south-korea-on-charges-of-embezzlement-of-nowrap-100-billion-won-nowra.md) _2017-05-01 03:17:57 (First version)_
+1. [ Chung Mong Koo, head of Hyundai Motor Company, is arrested in South Korea on charges of embezzlement of {{Nowrap|100 billion}} won ({{Nowrap|$106 million}} USD), among other corruption charges. ](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is-arrested-in-south-korea-on-charges-of-embezzlement-of-nowrap-100-billion-won-nowra.md) _2018-02-06 13:49:17 (First version)_
 1. [ Chung Mong Koo, head of Hyundai Motor Company, is arrested in South Korea on charges of embezzlement of 100 billion won ($106 million USD), among other corruption charges. ](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is-arrested-in-south-korea-on-charges-of-embezzlement-of-100-billion-won-106-million-usd.md) _(Current version)_
 
 ### Related:

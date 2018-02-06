@@ -17,7 +17,7 @@ Minister for Foreign Affairs Micheál Martin has described the Israeli blockade 
 
 ### Changes:
 
-1. [Irish Minister for Foreign Affairs Micheal Martin, writing in the ''International Herald Tribune'', says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhu.md) _2017-08-25 03:27:17 (First version)_
+1. [Irish Minister for Foreign Affairs Micheal Martin, writing in the ''International Herald Tribune'', says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhu.md) _2018-02-06 13:49:19 (First version)_
 1. [Irish Minister for Foreign Affairs Micheal Martin, writing in the "International Herald Tribune", says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhuma.md) _(Current version)_
 
 ### Related:

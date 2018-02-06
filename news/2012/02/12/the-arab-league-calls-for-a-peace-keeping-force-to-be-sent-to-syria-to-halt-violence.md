@@ -19,8 +19,8 @@ Arab League ministers agree to ask United Nations for joint force and special Ar
 
 ### Changes:
 
-1. [Syrian uprising:The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/syrian-uprising-pthe-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md) _2017-08-25 03:35:01 (First version)_
-2. [Syrian uprising:: The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/syrian-uprising-the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md) _2017-08-27 03:35:11 (Update)_
+1. [Syrian uprising:: The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/syrian-uprising-the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/syrian-uprising-pthe-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md) _2018-02-06 13:49:23 (Update)_
 2. [The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md) _(Current version)_
 
 ### Related:

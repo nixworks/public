@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-exe
 
 ### Changes:
 
-1. [Guam Governor Felix Perez Camacho issues an executive order changing the name of ''Guam'' to ''Guahan'' in government documents and signage and calls for unification with the Northern Mariana Islands. ](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-executive-order-changing-the-name-of-guam-to-guahan-in-government-documents-and-signage.md) _2017-08-25 03:27:10 (First version)_
+1. [Guam Governor Felix Perez Camacho issues an executive order changing the name of ''Guam'' to ''Guahan'' in government documents and signage and calls for unification with the Northern Mariana Islands. ](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-executive-order-changing-the-name-of-guam-to-guahan-in-government-documents-and-signage.md) _2018-02-06 13:49:19 (First version)_
 1. [Guam Governor Felix Perez Camacho issues an executive order changing the name of "Guam" to "Guahan" in government documents and signage and calls for unification with the Northern Mariana Islands. ](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-executive-order-changing-the-name-of-guam-to-guahan-in-government-documents-and-signage-and.md) _(Current version)_
 
 ### Related:

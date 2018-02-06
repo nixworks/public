@@ -16,7 +16,7 @@ New York fire department responds to Long Island Rail Road train derailment at B
 
 ### Changes:
 
-1. [2017 Brooklyn train crash: A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/2017-brooklyn-train-crash-a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injur.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Brooklyn train crash: A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/2017-brooklyn-train-crash-a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injur.md) _2018-02-06 13:49:30 (First version)_
 1. [A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injuring-103-people.md) _(Current version)_
 
 ### Related:

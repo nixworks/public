@@ -15,7 +15,7 @@ Almost four million Papua New Guineans have begun voting this morning in a natio
 
 ### Changes:
 
-1. [ East Timorese voters go to the polls to elect a new Parliament of East Timor. ](/news/2007/06/30/east-timorese-voters-go-to-the-polls-to-elect-a-new-parliament-of-east-timor.md) _2018-02-03 03:35:29 (First version)_
+1. [ East Timorese voters go to the polls to elect a new Parliament of East Timor. ](/news/2007/06/30/east-timorese-voters-go-to-the-polls-to-elect-a-new-parliament-of-east-timor.md) _2018-02-06 13:49:17 (First version)_
 1. [ Voters in Papua New Guinea go to the polls to elect a new Parliament of Papua New Guinea. ](/news/2007/06/30/voters-in-papua-new-guinea-go-to-the-polls-to-elect-a-new-parliament-of-papua-new-guinea.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ At least 15 people were killed and 27 wounded when fuel tankers exploded in the 
 
 ### Changes:
 
-1. [Two tankers explode in the Afghanistani town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-tankers-explode-in-the-afghanistani-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _2017-11-01 23:30:05 (First version)_
-2. [Two fuel tankers are bombed in the Afghanistani town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghanistani-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _2017-11-04 00:30:05 (Update)_
+1. [Two tankers explode in the Afghanistani town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-tankers-explode-in-the-afghanistani-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _2018-02-06 13:49:31 (First version)_
+2. [Two fuel tankers are bombed in the Afghanistani town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghanistani-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _2018-02-06 13:49:31 (Update)_
 2. [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _(Current version)_
 
 ### Related:

@@ -9,19 +9,19 @@ _Context: Venezuela, President, Hugo Chavez, term limits_
 
 ##### Argentina
 ### [ An Argentine court initiates legal proceedings against former president Fernando de la Rua for failing to prevent the deaths of five protesters during the December 2001 riots at the peak of the 1999-2002 economic crisis. ](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.md)
-_Context: President of Argentina, 1999-2002 economic crisis, Fernando de la Rua, Argentina, December 2001 riots_
+_Context: Fernando de la Rua, Argentina, 1999-2002 economic crisis, President of Argentina, December 2001 riots_
 
 ##### Space Shuttle
 ### [ Space Shuttle "Discovery" successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the-st.md)
-_Context: Harmony module, United States, STS-120, Space Shuttle, Kennedy Space Center, the state, Discovery, International Space Station_
+_Context: Space Shuttle, STS-120, the state, Discovery, Harmony module, United States, International Space Station, Kennedy Space Center_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. ](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.md)
-_Context: Kyrgyzstan, president, constitutional changes in a referendum, President_
+_Context: president, Kyrgyzstan, constitutional changes in a referendum, President_
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules against Germany's "Volkswagen Law", paving the way for Porsche to take over Volkswagen. ](/news/2007/10/23/the-european-court-of-justice-rules-against-germany-s-volkswagen-law-paving-the-way-for-porsche-to-take-over-volkswagen.md)
-_Context: Porsche, European Court of Justice, Volkswagen, German, Volkswagen Law_
+_Context: European Court of Justice, Porsche, Volkswagen Law, Volkswagen, German_
 
 ##### U.S. President
 ### [ President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-the-federal-emergency-management-agency.md)
@@ -29,15 +29,15 @@ Towering wildfires burned out of control across Southern California for a third 
 
 ##### Somalia
 ### [ The government of Somalia frees Idris Osman, the head of the World Food Programme in Somalia, after six days in detention. ](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.md)
-_Context: World Food Programme, Idris Osman, Somalia_
+_Context: World Food Programme, Somalia, Idris Osman_
 
 ##### Nike, Inc.
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for GBP285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-agbp285-million.md)
-_Context: Umbro, British, GBP, sportswear, Nike, Inc._
+_Context: GBP, Umbro, Nike, Inc., sportswear, United Kingdom_
 
 ##### United States Government
 ### [ A United States Government report states that the Department of State is unable to account for much of the $1.2 billion in funding that it gave to DynCorp International to train Iraqi police. ](/news/2007/10/23/a-united-states-government-report-states-that-the-department-of-state-is-unable-to-account-for-much-of-the-1-2-billion-in-funding-that-it.md)
-_Context: United States Government, DynCorp International, $, State Department, Iraq_
+_Context: Iraq, State Department, $, United States Government, DynCorp International_
 
 ## [Previous Day...](/news/2007/10/22/index.md)
 

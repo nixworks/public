@@ -16,7 +16,7 @@ Rep. David Wu resigns. Now Gov. John Kitzhaber can pick a date for the replaceme
 
 ### Changes:
 
-1. [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-s.md) _2017-08-25 03:33:56 (First version)_
+1. [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-s.md) _2018-02-06 13:49:22 (First version)_
 1. [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-se.md) _(Current version)_
 
 ### Related:

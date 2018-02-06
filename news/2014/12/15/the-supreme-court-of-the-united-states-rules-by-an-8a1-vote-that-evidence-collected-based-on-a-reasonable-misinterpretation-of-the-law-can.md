@@ -17,7 +17,7 @@ The Supreme Court on Monday gave police additional leeway to use evidence they f
 
 ### Changes:
 
-1. [The Supreme Court of the United States rules by an 8-1 vote that evidence collected based on a reasonable misinterpretation of the law can be used at trial and is not deemed an unreasonable search or seizure. ](/news/2014/12/15/the-supreme-court-of-the-united-states-rules-by-an-8-1-vote-that-evidence-collected-based-on-a-reasonable-misinterpretation-of-the-law-can.md) _2017-08-27 03:41:38 (First version)_
+1. [The Supreme Court of the United States rules by an 8-1 vote that evidence collected based on a reasonable misinterpretation of the law can be used at trial and is not deemed an unreasonable search or seizure. ](/news/2014/12/15/the-supreme-court-of-the-united-states-rules-by-an-8-1-vote-that-evidence-collected-based-on-a-reasonable-misinterpretation-of-the-law-can.md) _2018-02-06 13:49:26 (First version)_
 1. [The Supreme Court of the United States rules by an 8-1 vote that evidence collected based on a reasonable misinterpretation of the law can be used at trial and is not deemed an unreasonable search or seizure. ](/news/2014/12/15/the-supreme-court-of-the-united-states-rules-by-an-8a1-vote-that-evidence-collected-based-on-a-reasonable-misinterpretation-of-the-law-can.md) _(Current version)_
 
 ### Related:

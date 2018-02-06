@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/5/the-south-korean-national-assembly-begins-hearin
 
 ### Changes:
 
-1. [Impeachment process against President Park Geun-hye: The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/impeachment-process-against-president-park-geun-hye-the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against.md) _2017-08-27 03:47:23 (First version)_
+1. [Impeachment process against President Park Geun-hye: The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/impeachment-process-against-president-park-geun-hye-the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against.md) _2018-02-06 13:49:30 (First version)_
 1. [The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against-president-park-geun-hye.md) _(Current version)_
 
 ### Related:

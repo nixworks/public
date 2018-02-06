@@ -18,8 +18,8 @@ Tens of thousands of Yazidis have taken refuge on a mountain in Sinjar province 
 
 ### Changes:
 
-1. [2014 Iraq conflict:U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/2014-iraq-conflict-pu-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md) _2017-08-25 03:40:49 (First version)_
-2. [2014 Iraq conflict:: U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/2014-iraq-conflict-u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md) _2017-08-27 03:41:08 (Update)_
+1. [2014 Iraq conflict:: U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/2014-iraq-conflict-u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Iraq conflict:U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/2014-iraq-conflict-pu-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md) _2018-02-06 13:49:26 (Update)_
 2. [U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md) _(Current version)_
 
 ### Related:

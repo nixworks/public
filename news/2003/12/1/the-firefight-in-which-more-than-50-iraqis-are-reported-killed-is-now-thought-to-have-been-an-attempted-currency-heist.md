@@ -11,9 +11,9 @@ Formats: [HTML](/news/2003/12/1/the-firefight-in-which-more-than-50-iraqis-are-r
 
 ### Changes:
 
-1. [ Occupation of Iraq: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heis.md) _2017-05-25 03:15:23 (First version)_
-2. [ Occupation of Iraq: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md) _2017-08-25 03:15:20 (Update)_
-3. [ Occupation of Iraq:: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md) _2017-08-27 03:15:20 (Update)_
+1. [ Occupation of Iraq:: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md) _2018-02-06 13:49:15 (First version)_
+2. [ Occupation of Iraq: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md) _2018-02-06 13:49:15 (Update)_
+3. [ Occupation of Iraq: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heis.md) _2018-02-06 13:49:15 (Update)_
 3. [ The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md) _(Current version)_
 
 ### Related:

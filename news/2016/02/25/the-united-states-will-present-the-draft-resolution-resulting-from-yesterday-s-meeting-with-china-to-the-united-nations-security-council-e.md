@@ -17,7 +17,7 @@ The United States presented a draft Security Council resolution on Thursday it n
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/2016-north-korean-nuclear-test-the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-u.md) _2017-08-27 03:45:02 (First version)_
+1. [2016 North Korean nuclear test: The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/2016-north-korean-nuclear-test-the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-u.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-united-nations-security-council-e.md) _(Current version)_
 
 ### Related:

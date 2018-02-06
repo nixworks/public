@@ -17,8 +17,8 @@ At least five people were killed as heavy monsoon rain deluged India&#39;s finan
 
 ### Changes:
 
-1. [At least five people are killed in the Indian city of Mumbai caused by the worst monsoon in years. ](/news/2017/08/30/at-least-five-people-are-killed-in-the-indian-city-of-mumbai-caused-by-the-worst-monsoon-in-years.md) _2017-08-30 16:30:05 (First version)_
-2. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-monthas-average-rainfall-fell-yesterday-during-the-worst-monsoon-in.md) _2017-08-30 21:30:05 (Update)_
+1. [At least five people are killed in the Indian city of Mumbai caused by the worst monsoon in years. ](/news/2017/08/30/at-least-five-people-are-killed-in-the-indian-city-of-mumbai-caused-by-the-worst-monsoon-in-years.md) _2018-02-06 13:49:31 (First version)_
+2. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-monthas-average-rainfall-fell-yesterday-during-the-worst-monsoon-in.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _(Current version)_
 
 ### Related:

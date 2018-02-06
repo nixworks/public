@@ -24,7 +24,7 @@ Tehran: Irans Guardian Council will recount 10 percent of the ballot boxes in la
 
 ### Changes:
 
-1. [ Iran: Riot police clash with protesters in Tehran. ](/news/2009/06/20/iran-riot-police-clash-with-protesters-in-tehran.md) _2017-08-27 03:24:47 (First version)_
+1. [ Iran: Riot police clash with protesters in Tehran. ](/news/2009/06/20/iran-riot-police-clash-with-protesters-in-tehran.md) _2018-02-06 13:49:19 (First version)_
 1. [ Riot police clash with protesters in Tehran. ](/news/2009/06/20/riot-police-clash-with-protesters-in-tehran.md) _(Current version)_
 
 ### Related:

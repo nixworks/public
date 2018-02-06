@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.html)  [JS
 
 ### Changes:
 
-1. [American lawmakers break for summer recess. ](/news/2017/08/3/american-lawmakers-break-for-summer-recess.md) _2017-08-04 03:49:19 (First version)_
-2. [115th United States Congress: U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _2017-08-27 03:48:46 (Update)_
+1. [American lawmakers break for summer recess. ](/news/2017/08/3/american-lawmakers-break-for-summer-recess.md) _2018-02-06 13:49:31 (First version)_
+2. [115th United States Congress: U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _2018-02-06 13:49:31 (Update)_
 2. [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md) _(Current version)_
 
 ### Related:

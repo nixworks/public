@@ -16,8 +16,8 @@ The bodies of 53 Gaddafi supporters are found outside a hotel in the city of Sir
 
 ### Changes:
 
-1. [Aftermath of the 2011 Libyan civil war:The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/aftermath-of-the-2011-libyan-civil-war-pthe-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summar.md) _2017-08-25 03:34:22 (First version)_
-2. [Aftermath of the 2011 Libyan civil war:: The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/aftermath-of-the-2011-libyan-civil-war-the-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summa.md) _2017-08-27 03:34:30 (Update)_
+1. [Aftermath of the 2011 Libyan civil war:: The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/aftermath-of-the-2011-libyan-civil-war-the-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summa.md) _2018-02-06 13:49:23 (First version)_
+2. [Aftermath of the 2011 Libyan civil war:The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/aftermath-of-the-2011-libyan-civil-war-pthe-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summar.md) _2018-02-06 13:49:23 (Update)_
 2. [The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/the-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summarily-executed-by-ntc-troops.md) _(Current version)_
 
 ### Related:

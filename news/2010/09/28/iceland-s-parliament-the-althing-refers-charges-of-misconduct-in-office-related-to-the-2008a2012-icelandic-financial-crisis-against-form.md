@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges
 
 ### Changes:
 
-1. [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008-2012-icelandic-financial-crisis-against-form.md) _2017-08-27 03:30:19 (First version)_
+1. [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008-2012-icelandic-financial-crisis-against-form.md) _2018-02-06 13:49:20 (First version)_
 1. [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008a2012-icelandic-financial-crisis-against-form.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory
 
 ### Changes:
 
-1. [VaccinationsFrance plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/vaccinationspfrance-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _2017-07-06 17:30:07 (First version)_
-2. [Health in France: France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/health-in-france-france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _2017-08-27 03:48:37 (Update)_
+1. [VaccinationsFrance plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/vaccinationspfrance-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _2018-02-06 13:49:31 (First version)_
+2. [Health in France: France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/health-in-france-france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _2018-02-06 13:49:31 (Update)_
 2. [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _(Current version)_
 
 ### Related:

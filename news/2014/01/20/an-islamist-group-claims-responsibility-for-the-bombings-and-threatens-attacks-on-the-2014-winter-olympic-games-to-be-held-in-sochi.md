@@ -16,7 +16,7 @@ Two men said by Islamist militants to have carried out suicide attacks in south 
 
 ### Changes:
 
-1. [December 2013 Volgograd bombings: An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/december-2013-volgograd-bombings-an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic.md) _2017-08-27 03:40:12 (First version)_
+1. [December 2013 Volgograd bombings: An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/december-2013-volgograd-bombings-an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic.md) _2018-02-06 13:49:25 (First version)_
 1. [An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic-games-to-be-held-in-sochi.md) _(Current version)_
 
 ### Related:

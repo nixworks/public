@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/13/abimael-guzman-leader-of-peru-s-sendero-luminos
 
 ### Changes:
 
-1. [ Abimael Guzmn, leader of Peru's ''Sendero Luminoso'' guerrillas, is sentenced to life imprisonment at the conclusion of his retrial on terrorism charges. ](/news/2006/10/13/abimael-guzman-leader-of-peru-s-sendero-luminoso-guerrillas-is-sentenced-to-life-imprisonment-at-the-conclusion-of-his-retrial-on-ter.md) _2017-08-25 03:18:34 (First version)_
+1. [ Abimael Guzmn, leader of Peru's ''Sendero Luminoso'' guerrillas, is sentenced to life imprisonment at the conclusion of his retrial on terrorism charges. ](/news/2006/10/13/abimael-guzman-leader-of-peru-s-sendero-luminoso-guerrillas-is-sentenced-to-life-imprisonment-at-the-conclusion-of-his-retrial-on-ter.md) _2018-02-06 13:49:17 (First version)_
 1. [ Abimael Guzmn, leader of Peru's "Sendero Luminoso" guerrillas, is sentenced to life imprisonment at the conclusion of his retrial on terrorism charges. ](/news/2006/10/13/abimael-guzman-leader-of-peru-s-sendero-luminoso-guerrillas-is-sentenced-to-life-imprisonment-at-the-conclusion-of-his-retrial-on-terro.md) _(Current version)_
 
 ### Related:

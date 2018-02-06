@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/12/evan-mawarire-the-most-visible-leader-of-the-pr
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: Evan Mawarire, the most visible leader of the protests in Zimbabwe, is arrested and charged with "inciting public violence and disturbing peace." ](/news/2016/07/12/2016-zimbabwe-protests-evan-mawarire-the-most-visible-leader-of-the-protests-in-zimbabwe-is-arrested-and-charged-with-inciting-public-vi.md) _2017-08-27 03:46:28 (First version)_
+1. [2016 Zimbabwe protests: Evan Mawarire, the most visible leader of the protests in Zimbabwe, is arrested and charged with "inciting public violence and disturbing peace." ](/news/2016/07/12/2016-zimbabwe-protests-evan-mawarire-the-most-visible-leader-of-the-protests-in-zimbabwe-is-arrested-and-charged-with-inciting-public-vi.md) _2018-02-06 13:49:29 (First version)_
 1. [Evan Mawarire, the most visible leader of the protests in Zimbabwe, is arrested and charged with "inciting public violence and disturbing peace." ](/news/2016/07/12/evan-mawarire-the-most-visible-leader-of-the-protests-in-zimbabwe-is-arrested-and-charged-with-inciting-public-violence-and-disturbing-pe.md) _(Current version)_
 
 ### Related:

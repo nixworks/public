@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-t
 
 ### Changes:
 
-1. [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel ''In Cold Blood'', are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-ar.md) _2017-08-25 03:37:04 (First version)_
+1. [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel ''In Cold Blood'', are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-ar.md) _2018-02-06 13:49:24 (First version)_
 1. [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel "In Cold Blood", are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-are.md) _(Current version)_
 
 ### Related:

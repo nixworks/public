@@ -16,7 +16,7 @@ Mayor Stephanie Rawlings-Blake announced Wednesday that she has fired Police Com
 
 ### Changes:
 
-1. [2015 Baltimore protests: The Mayor of the US city of Baltimore, Maryland Stephanie Rawlings-Blake fires the Commissioner of the Police Department, Anthony Batts. ](/news/2015/07/8/2015-baltimore-protests-the-mayor-of-the-us-city-of-baltimore-maryland-stephanie-rawlings-blake-fires-the-commissioner-of-the-police-depar.md) _2017-08-27 03:42:40 (First version)_
+1. [2015 Baltimore protests: The Mayor of the US city of Baltimore, Maryland Stephanie Rawlings-Blake fires the Commissioner of the Police Department, Anthony Batts. ](/news/2015/07/8/2015-baltimore-protests-the-mayor-of-the-us-city-of-baltimore-maryland-stephanie-rawlings-blake-fires-the-commissioner-of-the-police-depar.md) _2018-02-06 13:49:27 (First version)_
 1. [The Mayor of the US city of Baltimore, Maryland Stephanie Rawlings-Blake fires the Commissioner of the Police Department, Anthony Batts. ](/news/2015/07/8/the-mayor-of-the-us-city-of-baltimore-maryland-stephanie-rawlings-blake-fires-the-commissioner-of-the-police-department-anthony-batts.md) _(Current version)_
 
 ### Related:

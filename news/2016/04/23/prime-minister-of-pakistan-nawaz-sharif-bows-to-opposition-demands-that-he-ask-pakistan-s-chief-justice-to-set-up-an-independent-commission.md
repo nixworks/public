@@ -17,7 +17,7 @@ Ministers agree to propose joint list of tax havens and approve plan to automati
 
 ### Changes:
 
-1. [Panama Papers: Prime Minister of Pakistan Nawaz Sharif bows to opposition demands that he ask Pakistan's chief justice to set up an independent commission to investigate offshore accounts linked to his family. Sharif said he would accept the commission's findings and even resign if called upon. ](/news/2016/04/23/panama-papers-prime-minister-of-pakistan-nawaz-sharif-bows-to-opposition-demands-that-he-ask-pakistan-s-chief-justice-to-set-up-an-independ.md) _2017-08-27 03:45:47 (First version)_
+1. [Panama Papers: Prime Minister of Pakistan Nawaz Sharif bows to opposition demands that he ask Pakistan's chief justice to set up an independent commission to investigate offshore accounts linked to his family. Sharif said he would accept the commission's findings and even resign if called upon. ](/news/2016/04/23/panama-papers-prime-minister-of-pakistan-nawaz-sharif-bows-to-opposition-demands-that-he-ask-pakistan-s-chief-justice-to-set-up-an-independ.md) _2018-02-06 13:49:28 (First version)_
 1. [Prime Minister of Pakistan Nawaz Sharif bows to opposition demands that he ask Pakistan's chief justice to set up an independent commission to investigate offshore accounts linked to his family. Sharif said he would accept the commission's findings and even resign if called upon. ](/news/2016/04/23/prime-minister-of-pakistan-nawaz-sharif-bows-to-opposition-demands-that-he-ask-pakistan-s-chief-justice-to-set-up-an-independent-commission.md) _(Current version)_
 
 ### Related:

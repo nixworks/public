@@ -16,8 +16,8 @@ At least 350,000 people protest against secession amid speculation Catalan leade
 
 ### Changes:
 
-1. [Peruvian Nobel Prize laurete writer Mario Vargas Llosa joins 350,000 people in attending a rally in Barcelona opposing Catalan independence. ](/news/2017/10/8/peruvian-nobel-prize-laurete-writer-mario-vargas-llosa-joins-350-000-people-in-attending-a-rally-in-barcelona-opposing-catalan-independence.md) _2017-10-09 03:56:41 (First version)_
-2. [A rally in Barcelona to oppose Catalan independence has 350,000 people. ](/news/2017/10/8/a-rally-in-barcelona-to-oppose-catalan-independence-has-350-000-people.md) _2017-10-09 10:30:06 (Update)_
+1. [Peruvian Nobel Prize laurete writer Mario Vargas Llosa joins 350,000 people in attending a rally in Barcelona opposing Catalan independence. ](/news/2017/10/8/peruvian-nobel-prize-laurete-writer-mario-vargas-llosa-joins-350-000-people-in-attending-a-rally-in-barcelona-opposing-catalan-independence.md) _2018-02-06 13:49:31 (First version)_
+2. [A rally in Barcelona to oppose Catalan independence has 350,000 people. ](/news/2017/10/8/a-rally-in-barcelona-to-oppose-catalan-independence-has-350-000-people.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/02/28/united-states-presidential-election-2008-senato
 
 ### Changes:
 
-1. [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the ''Late Show with David Letterman''. ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david.md) _2017-08-25 03:19:18 (First version)_
+1. [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the ''Late Show with David Letterman''. ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david.md) _2018-02-06 13:49:17 (First version)_
 1. [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the "Late Show with David Letterman". ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david-l.md) _(Current version)_
 
 ### Related:

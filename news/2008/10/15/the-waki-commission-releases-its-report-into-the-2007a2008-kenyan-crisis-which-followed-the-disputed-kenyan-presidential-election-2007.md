@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/15/the-waki-commission-releases-its-report-into-th
 
 ### Changes:
 
-1. [ The Waki Commission releases its report into the 2007-2008 Kenyan crisis which followed the disputed Kenyan presidential election, 2007. The Report found that senior politicians and businessmen-including up to six unnamed current cabinet ministers-had planned, financed and perpetrated the violence. ](/news/2008/10/15/the-waki-commission-releases-its-report-into-the-2007-2008-kenyan-crisis-which-followed-the-disputed-kenyan-presidential-election-2007.md) _2017-08-27 03:22:56 (First version)_
+1. [ The Waki Commission releases its report into the 2007-2008 Kenyan crisis which followed the disputed Kenyan presidential election, 2007. The Report found that senior politicians and businessmen-including up to six unnamed current cabinet ministers-had planned, financed and perpetrated the violence. ](/news/2008/10/15/the-waki-commission-releases-its-report-into-the-2007-2008-kenyan-crisis-which-followed-the-disputed-kenyan-presidential-election-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Waki Commission releases its report into the 2007-2008 Kenyan crisis which followed the disputed Kenyan presidential election, 2007. The Report found that senior politicians and businessmen--including up to six unnamed current cabinet ministers--had planned, financed and perpetrated the violence. ](/news/2008/10/15/the-waki-commission-releases-its-report-into-the-2007a2008-kenyan-crisis-which-followed-the-disputed-kenyan-presidential-election-2007.md) _(Current version)_
 
 ### Related:

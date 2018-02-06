@@ -17,8 +17,8 @@ Ukrainian opposition leaders emerged from crisis talks with President Viktor Yan
 
 ### Changes:
 
-1. [Euromaidan:Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/euromaidan-pukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md) _2017-08-25 03:39:55 (First version)_
-2. [Euromaidan:: Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/euromaidan-ukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md) _2017-08-27 03:40:14 (Update)_
+1. [Euromaidan:: Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/euromaidan-ukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/euromaidan-pukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md) _2018-02-06 13:49:25 (Update)_
 2. [Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/ukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/11/voters-in-guyana-go-to-the-polls-for-a-general-
 
 ### Changes:
 
-1. [Guyanese general election: Voters in Guyana go to the polls for a general election. ](/news/2015/05/11/guyanese-general-election-voters-in-guyana-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:42:18 (First version)_
+1. [Guyanese general election: Voters in Guyana go to the polls for a general election. ](/news/2015/05/11/guyanese-general-election-voters-in-guyana-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Guyana go to the polls for a general election. ](/news/2015/05/11/voters-in-guyana-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

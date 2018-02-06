@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-suspended-se
 
 ### Changes:
 
-1. [A court in Moscow hands down a {{frac|3|1|2}}-year suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-frac-3-1-2-year-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md) _2017-05-01 03:44:57 (First version)_
-2. [A court in Moscow hands down a 3|1|2-year suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-2-year-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md) _2017-08-29 03:41:21 (Update)_
+1. [A court in Moscow hands down a {{frac|3|1|2}}-year suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-frac-3-1-2-year-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md) _2018-02-06 13:49:26 (First version)_
+2. [A court in Moscow hands down a 3|1|2-year suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-2-year-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md) _2018-02-06 13:49:26 (Update)_
 2. [A court in Moscow hands down a 3 1 suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md) _(Current version)_
 
 ### Related:

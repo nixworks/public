@@ -24,7 +24,7 @@ Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on
 
 ### Changes:
 
-1. [2011 Tohoku earthquake and tsunami: The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/2011-tahoku-earthquake-and-tsunami-the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and.md) _2017-08-27 03:32:40 (First version)_
+1. [2011 Tohoku earthquake and tsunami: The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/2011-tahoku-earthquake-and-tsunami-the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and.md) _2018-02-06 13:49:22 (First version)_
 1. [The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and-tsunami-in-northern-japan.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A UN report accuses security in Myanmar forces of gang-raping Rohingya women and
 
 ### Changes:
 
-1. [2016-17 Rohingya persecution in Myanmar: The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/2016-17-rohingya-persecution-in-myanmar-the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-milita.md) _2017-08-27 03:47:45 (First version)_
+1. [2016-17 Rohingya persecution in Myanmar: The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/2016-17-rohingya-persecution-in-myanmar-the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-milita.md) _2018-02-06 13:49:30 (First version)_
 1. [The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-military-and-police-forces-against-myanmar-s-rohi.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/17/war-in-pakistan-2004apresent-another-pakistani-
 
 ### Changes:
 
-1. [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004-present-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md) _2017-08-27 03:21:34 (First version)_
+1. [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004-present-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md) _2018-02-06 13:49:18 (First version)_
 1. [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004apresent-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md) _(Current version)_
 
 ### Related:

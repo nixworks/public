@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-
 
 ### Changes:
 
-1. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. ](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland.md) _2017-07-24 18:30:07 (First version)_
-2. [Crime in Switzerland: At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/crime-in-switzerland-at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerla.md) _2017-08-27 03:48:42 (Update)_
+1. [Crime in Switzerland: At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/crime-in-switzerland-at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerla.md) _2018-02-06 13:49:30 (First version)_
+2. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. ](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland.md) _2018-02-06 13:49:30 (Update)_
 2. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _(Current version)_
 
 ### Related:

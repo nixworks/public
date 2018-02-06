@@ -19,8 +19,8 @@ At least 27 people have been killed in two explosions in the Syrian capital Dama
 
 ### Changes:
 
-1. [Syria:At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/syria-pat-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reported.md) _2017-08-25 03:35:18 (First version)_
-2. [Syria:: At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/syria-at-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reporte.md) _2017-08-27 03:35:28 (Update)_
+1. [Syria:At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/syria-pat-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reported.md) _2018-02-06 13:49:23 (First version)_
+2. [Syria:: At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/syria-at-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reporte.md) _2018-02-06 13:49:23 (Update)_
 2. [At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/at-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reported-dead.md) _(Current version)_
 
 ### Related:

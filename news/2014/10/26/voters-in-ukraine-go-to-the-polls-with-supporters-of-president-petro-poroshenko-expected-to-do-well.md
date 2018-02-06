@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporte
 
 ### Changes:
 
-1. [Ukrainian parliamentary election, 2014: Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/ukrainian-parliamentary-election-2014-voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md) _2017-08-27 03:41:26 (First version)_
+1. [Ukrainian parliamentary election, 2014: Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/ukrainian-parliamentary-election-2014-voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/01/8/a-u-s-ac-130-gunship-attacks-al-qaeda-operatives
 
 ### Changes:
 
-1. [ War in Somalia: A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/war-in-somalia-p-a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md) _2017-08-25 03:18:58 (First version)_
-2. [ War in Somalia:: A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/war-in-somalia-a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md) _2017-08-27 03:18:54 (Update)_
+1. [ War in Somalia: A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/war-in-somalia-p-a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Somalia:: A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/war-in-somalia-a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md) _2018-02-06 13:49:17 (Update)_
 2. [ A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md) _(Current version)_
 
 ### Related:

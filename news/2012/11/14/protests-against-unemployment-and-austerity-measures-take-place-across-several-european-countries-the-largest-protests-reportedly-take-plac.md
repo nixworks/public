@@ -18,7 +18,7 @@ Millions of EU workers hold a day of action against unemployment and austerity, 
 
 ### Changes:
 
-1. [Protests against unemployment and austerity measures take place across several European countries. The largest protests reportedly take place in Spain and Portugal, with smaller protests in Greece, Italy, and Belgium. ](/news/2012/11/14/protests-against-unemployment-and-austerity-measures-take-place-across-several-european-countries-the-largest-protests-reportedly-take-pla.md) _2017-08-25 03:36:49 (First version)_
+1. [Protests against unemployment and austerity measures take place across several European countries. The largest protests reportedly take place in Spain and Portugal, with smaller protests in Greece, Italy, and Belgium. ](/news/2012/11/14/protests-against-unemployment-and-austerity-measures-take-place-across-several-european-countries-the-largest-protests-reportedly-take-pla.md) _2018-02-06 13:49:24 (First version)_
 1. [Protests against unemployment and austerity measures take place across several European countries. The largest protests reportedly take place in Spain and Portugal, with smaller protests in Greece, Italy, and Belgium. ](/news/2012/11/14/protests-against-unemployment-and-austerity-measures-take-place-across-several-european-countries-the-largest-protests-reportedly-take-plac.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/05/20/temperatures-soar-to-a-record-51-c-in-the-india
 
 ### Changes:
 
-1. [Temperatures soar to a record {{convert|51|C|F}} in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-convert-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _2017-05-01 03:49:45 (First version)_
-2. [Temperatures soar to a record 51|C|F in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _2017-08-29 03:45:36 (Update)_
+1. [Temperatures soar to a record {{convert|51|C|F}} in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-convert-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _2018-02-06 13:49:29 (First version)_
+2. [Temperatures soar to a record 51|C|F in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _2018-02-06 13:49:29 (Update)_
 2. [Temperatures soar to a record 51 C in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The blasts in the city of al-Arish came a day after the second round of parliame
 
 ### Changes:
 
-1. [Sinai insurgency: November 2015 Sinai attack: A day after the second round of parliamentary elections closes, militants attack a hotel housing election judges in the provincial capital of al-Arish in Egypt's North Sinai. At least seven people are killed and 12 others injured, including two judges. The Islamic State's Wilayat Sinai branch claims responsibility. ](/news/2015/11/24/sinai-insurgency-november-2015-sinai-attack-a-day-after-the-second-round-of-parliamentary-elections-closes-militants-attack-a-hotel-housi.md) _2017-08-27 03:44:01 (First version)_
+1. [Sinai insurgency: November 2015 Sinai attack: A day after the second round of parliamentary elections closes, militants attack a hotel housing election judges in the provincial capital of al-Arish in Egypt's North Sinai. At least seven people are killed and 12 others injured, including two judges. The Islamic State's Wilayat Sinai branch claims responsibility. ](/news/2015/11/24/sinai-insurgency-november-2015-sinai-attack-a-day-after-the-second-round-of-parliamentary-elections-closes-militants-attack-a-hotel-housi.md) _2018-02-06 13:49:28 (First version)_
 1. [A day after the second round of parliamentary elections closes, militants attack a hotel housing election judges in the provincial capital of al-Arish in Egypt's North Sinai. At least seven people are killed and 12 others injured, including two judges. The Islamic State's Wilayat Sinai branch claims responsibility. ](/news/2015/11/24/a-day-after-the-second-round-of-parliamentary-elections-closes-militants-attack-a-hotel-housing-election-judges-in-the-provincial-capital-o.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/5/the-world-health-organisation-appoints-dr-matshi
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organisation appoints Dr Matshidiso Moeti of Botswana as its new Africa chief as the death toll from the virus passes 5,000. ](/news/2014/11/5/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-appoints-dr-matshidiso-moeti-of-botswana-as-its-new-africa-chief-as-the-d.md) _2017-08-27 03:41:28 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organisation appoints Dr Matshidiso Moeti of Botswana as its new Africa chief as the death toll from the virus passes 5,000. ](/news/2014/11/5/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-appoints-dr-matshidiso-moeti-of-botswana-as-its-new-africa-chief-as-the-d.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation appoints Dr Matshidiso Moeti of Botswana as its new Africa chief as the death toll from the virus passes 5,000. ](/news/2014/11/5/the-world-health-organisation-appoints-dr-matshidiso-moeti-of-botswana-as-its-new-africa-chief-as-the-death-toll-from-the-virus-passes-5-000.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Formats: [HTML](/news/2014/08/6/fighters-from-the-islamic-state-of-iraq-and-syri
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/iraqi-insurgency-2011-present-fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the.md) _2017-08-27 03:41:07 (First version)_
+1. [Iraqi insurgency (2011-present): Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/iraqi-insurgency-2011-present-fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the-country.md) _(Current version)_
 
 ### Related:

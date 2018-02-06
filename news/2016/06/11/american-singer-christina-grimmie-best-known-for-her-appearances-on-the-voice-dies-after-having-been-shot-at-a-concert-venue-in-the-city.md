@@ -16,7 +16,7 @@ Orlando police were searching for a motive Saturday evening, hours after naming 
 
 ### Changes:
 
-1. [American singer Christina Grimmie, best known for her appearances on ''The Voice'', dies after having been shot at a concert venue in the city of Orlando, Florida. ](/news/2016/06/11/american-singer-christina-grimmie-best-known-for-her-appearances-on-the-voice-dies-after-having-been-shot-at-a-concert-venue-in-the-ci.md) _2017-08-25 03:45:52 (First version)_
+1. [American singer Christina Grimmie, best known for her appearances on ''The Voice'', dies after having been shot at a concert venue in the city of Orlando, Florida. ](/news/2016/06/11/american-singer-christina-grimmie-best-known-for-her-appearances-on-the-voice-dies-after-having-been-shot-at-a-concert-venue-in-the-ci.md) _2018-02-06 13:49:29 (First version)_
 1. [American singer Christina Grimmie, best known for her appearances on "The Voice", dies after having been shot at a concert venue in the city of Orlando, Florida. ](/news/2016/06/11/american-singer-christina-grimmie-best-known-for-her-appearances-on-the-voice-dies-after-having-been-shot-at-a-concert-venue-in-the-city.md) _(Current version)_
 
 ### Related:

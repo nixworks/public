@@ -18,8 +18,8 @@ A strong earthquake hits off the eastern coast of central Japan, rattling buildi
 
 ### Changes:
 
-1. [Earthquakes:A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-pa-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _2017-08-25 03:27:22 (First version)_
-2. [Earthquakes:: A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _2017-08-27 03:27:18 (Update)_
+1. [Earthquakes:A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-pa-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _2018-02-06 13:49:19 (First version)_
+2. [Earthquakes:: A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _2018-02-06 13:49:19 (Update)_
 2. [A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md) _(Current version)_
 
 ### Related:

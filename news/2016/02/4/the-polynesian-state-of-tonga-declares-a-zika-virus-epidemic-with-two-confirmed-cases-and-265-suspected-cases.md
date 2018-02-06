@@ -17,7 +17,7 @@ Tonga has declared a Zika epidemic after confirming two people have contracted t
 
 ### Changes:
 
-1. [Zika virus outbreak: The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/zika-virus-outbreak-the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _2017-08-27 03:44:49 (First version)_
+1. [Zika virus outbreak: The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/zika-virus-outbreak-the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _2018-02-06 13:49:28 (First version)_
 1. [The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _(Current version)_
 
 ### Related:

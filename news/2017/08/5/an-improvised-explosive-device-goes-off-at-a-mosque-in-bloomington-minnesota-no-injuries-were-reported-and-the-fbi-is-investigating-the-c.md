@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mos
 
 ### Changes:
 
-1. [Crime in Minnesota: An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/crime-in-minnesota-an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is.md) _2017-08-27 03:48:46 (First version)_
+1. [Crime in Minnesota: An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/crime-in-minnesota-an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is.md) _2018-02-06 13:49:31 (First version)_
 1. [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md) _(Current version)_
 
 ### Related:

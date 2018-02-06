@@ -18,7 +18,7 @@ Formats: [HTML](/news/2012/05/4/23-bodiesa14-of-them-decapitated-and-9-of-them-h
 
 ### Changes:
 
-1. [Mexican Drug War: 23 bodies-14 of them decapitated and 9 of them hanged from a bridge-are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/mexican-drug-war-23-bodies-14-of-them-decapitated-and-9-of-them-hanged-from-a-bridge-are-found-in-the-mexican-city-of-nuevo-laredo-tho.md) _2017-08-27 03:35:48 (First version)_
+1. [Mexican Drug War: 23 bodies-14 of them decapitated and 9 of them hanged from a bridge-are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/mexican-drug-war-23-bodies-14-of-them-decapitated-and-9-of-them-hanged-from-a-bridge-are-found-in-the-mexican-city-of-nuevo-laredo-tho.md) _2018-02-06 13:49:23 (First version)_
 1. [23 bodies--14 of them decapitated and 9 of them hanged from a bridge--are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/23-bodiesa14-of-them-decapitated-and-9-of-them-hanged-from-a-bridgeaare-found-in-the-mexican-city-of-nuevo-laredo-those-killed-were-rep.md) _(Current version)_
 
 ### Related:

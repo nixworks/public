@@ -17,7 +17,7 @@ In a case that may have national implications, the Richmond-based 4th U.S. Circu
 
 ### Changes:
 
-1. [Transgender rights in the United States: An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/transgender-rights-in-the-united-states-an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-wh.md) _2017-08-27 03:45:41 (First version)_
+1. [Transgender rights in the United States: An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/transgender-rights-in-the-united-states-an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-wh.md) _2018-02-06 13:49:28 (First version)_
 1. [An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.md) _(Current version)_
 
 ### Related:

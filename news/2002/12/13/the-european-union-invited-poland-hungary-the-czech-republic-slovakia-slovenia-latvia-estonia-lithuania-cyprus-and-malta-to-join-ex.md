@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/13/the-european-union-invited-poland-hungary-the-c
 
 ### Changes:
 
-1. [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join. Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-e.md) _2017-08-25 03:15:17 (First version)_
+1. [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join. Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-e.md) _2018-02-06 13:49:15 (First version)_
 1. [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join. Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-ex.md) _(Current version)_
 
 ### Related:

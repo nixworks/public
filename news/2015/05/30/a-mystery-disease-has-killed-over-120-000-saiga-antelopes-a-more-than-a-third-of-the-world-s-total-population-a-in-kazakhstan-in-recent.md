@@ -16,7 +16,7 @@ The sudden deaths of tens of thousands of endangered antelopes in Kazakhstan ove
 
 ### Changes:
 
-1. [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-more-than-a-third-of-the-world-s-total-population-in-kazakhstan-in-recent.md) _2017-08-27 03:42:26 (First version)_
+1. [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-more-than-a-third-of-the-world-s-total-population-in-kazakhstan-in-recent.md) _2018-02-06 13:49:27 (First version)_
 1. [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-a-more-than-a-third-of-the-world-s-total-population-a-in-kazakhstan-in-recent.md) _(Current version)_
 
 ### Related:

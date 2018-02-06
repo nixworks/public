@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/1/at-least-14-people-die-in-malaysia-s-sabah-provi
 
 ### Changes:
 
-1. [2013 Lahad Datu standoff:At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-pat-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md) _2017-08-25 03:37:42 (First version)_
-2. [2013 Lahad Datu standoff:: At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-at-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md) _2017-08-27 03:37:53 (Update)_
+1. [2013 Lahad Datu standoff:At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-pat-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Lahad Datu standoff:: At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-at-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/at-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md) _(Current version)_
 
 ### Related:

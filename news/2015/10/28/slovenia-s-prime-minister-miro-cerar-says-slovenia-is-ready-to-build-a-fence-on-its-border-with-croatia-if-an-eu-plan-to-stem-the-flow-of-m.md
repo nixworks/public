@@ -18,7 +18,7 @@ Austria plans to build a fence at the main border crossing used by migrants ente
 
 ### Changes:
 
-1. [European migrant crisis: Slovenia's prime minister, Miro Cerar says Slovenia is ready to build a fence on its border with Croatia if an EU plan to stem the flow of migrants across the Balkans fails. ](/news/2015/10/28/european-migrant-crisis-slovenia-s-prime-minister-miro-cerar-says-slovenia-is-ready-to-build-a-fence-on-its-border-with-croatia-if-an-eu-p.md) _2017-08-27 03:43:34 (First version)_
+1. [European migrant crisis: Slovenia's prime minister, Miro Cerar says Slovenia is ready to build a fence on its border with Croatia if an EU plan to stem the flow of migrants across the Balkans fails. ](/news/2015/10/28/european-migrant-crisis-slovenia-s-prime-minister-miro-cerar-says-slovenia-is-ready-to-build-a-fence-on-its-border-with-croatia-if-an-eu-p.md) _2018-02-06 13:49:28 (First version)_
 1. [Slovenia's prime minister, Miro Cerar says Slovenia is ready to build a fence on its border with Croatia if an EU plan to stem the flow of migrants across the Balkans fails. ](/news/2015/10/28/slovenia-s-prime-minister-miro-cerar-says-slovenia-is-ready-to-build-a-fence-on-its-border-with-croatia-if-an-eu-plan-to-stem-the-flow-of-m.md) _(Current version)_
 
 ### Related:

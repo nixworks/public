@@ -16,7 +16,7 @@ After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean P
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Chan-hom strengthens as it heads towards the Pacific island of Guam. ](/news/2015/07/3/2015-pacific-typhoon-season-typhoon-chan-hom-strengthens-as-it-heads-towards-the-pacific-island-of-guam.md) _2017-08-27 03:42:39 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Chan-hom strengthens as it heads towards the Pacific island of Guam. ](/news/2015/07/3/2015-pacific-typhoon-season-typhoon-chan-hom-strengthens-as-it-heads-towards-the-pacific-island-of-guam.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Chan-hom strengthens as it heads towards the Pacific island of Guam. ](/news/2015/07/3/typhoon-chan-hom-strengthens-as-it-heads-towards-the-pacific-island-of-guam.md) _(Current version)_
 
 ### Related:

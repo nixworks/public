@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/06/9/the-government-of-japan-submits-a-report-to-the-
 
 ### Changes:
 
-1. [Fukushima Daiichi nuclear disaster:The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-pthe-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md) _2017-08-25 03:33:26 (First version)_
-2. [Fukushima Daiichi nuclear disaster:: The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-the-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md) _2017-08-27 03:33:34 (Update)_
+1. [Fukushima Daiichi nuclear disaster:: The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-the-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md) _2018-02-06 13:49:22 (First version)_
+2. [Fukushima Daiichi nuclear disaster:The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-pthe-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md) _2018-02-06 13:49:22 (Update)_
 2. [The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/the-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision-of-nuclear-reactor-design-standards.md) _(Current version)_
 
 ### Related:

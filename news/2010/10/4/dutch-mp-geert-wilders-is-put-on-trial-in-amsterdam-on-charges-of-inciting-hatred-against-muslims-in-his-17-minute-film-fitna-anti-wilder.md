@@ -18,7 +18,7 @@ Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he g
 
 ### Changes:
 
-1. [Dutch MP Geert Wilders is put on trial in Amsterdam on charges of inciting hatred against Muslims in his 17-minute film ''Fitna''. Anti-Wilders protests occur outside court. ](/news/2010/10/4/dutch-mp-geert-wilders-is-put-on-trial-in-amsterdam-on-charges-of-inciting-hatred-against-muslims-in-his-17-minute-film-fitna-anti-wild.md) _2017-08-25 03:30:20 (First version)_
+1. [Dutch MP Geert Wilders is put on trial in Amsterdam on charges of inciting hatred against Muslims in his 17-minute film ''Fitna''. Anti-Wilders protests occur outside court. ](/news/2010/10/4/dutch-mp-geert-wilders-is-put-on-trial-in-amsterdam-on-charges-of-inciting-hatred-against-muslims-in-his-17-minute-film-fitna-anti-wild.md) _2018-02-06 13:49:20 (First version)_
 1. [Dutch MP Geert Wilders is put on trial in Amsterdam on charges of inciting hatred against Muslims in his 17-minute film "Fitna". Anti-Wilders protests occur outside court. ](/news/2010/10/4/dutch-mp-geert-wilders-is-put-on-trial-in-amsterdam-on-charges-of-inciting-hatred-against-muslims-in-his-17-minute-film-fitna-anti-wilder.md) _(Current version)_
 
 ### Related:

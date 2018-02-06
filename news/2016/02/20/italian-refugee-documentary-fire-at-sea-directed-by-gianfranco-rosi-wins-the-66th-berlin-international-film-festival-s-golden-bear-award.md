@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/20/italian-refugee-documentary-fire-at-sea-directe
 
 ### Changes:
 
-1. [Italian refugee documentary ''Fire at Sea'', directed by Gianfranco Rosi, wins the 66th Berlin International Film Festival's Golden Bear award for best film. ](/news/2016/02/20/italian-refugee-documentary-fire-at-sea-directed-by-gianfranco-rosi-wins-the-66th-berlin-international-film-festival-s-golden-bear-a.md) _2017-08-25 03:44:37 (First version)_
+1. [Italian refugee documentary ''Fire at Sea'', directed by Gianfranco Rosi, wins the 66th Berlin International Film Festival's Golden Bear award for best film. ](/news/2016/02/20/italian-refugee-documentary-fire-at-sea-directed-by-gianfranco-rosi-wins-the-66th-berlin-international-film-festival-s-golden-bear-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Italian refugee documentary "Fire at Sea", directed by Gianfranco Rosi, wins the 66th Berlin International Film Festival's Golden Bear award for best film. ](/news/2016/02/20/italian-refugee-documentary-fire-at-sea-directed-by-gianfranco-rosi-wins-the-66th-berlin-international-film-festival-s-golden-bear-award.md) _(Current version)_
 
 ### Related:

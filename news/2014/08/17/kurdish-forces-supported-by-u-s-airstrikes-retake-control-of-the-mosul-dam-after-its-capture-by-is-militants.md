@@ -16,8 +16,8 @@ Kurdish forces in northern Iraq are largely in control of the Mosul dam previous
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present):Kurdish forces, supported by U.S. airstrikes, retake control of the Mosul Dam after its capture by IS militants. ](/news/2014/08/17/iraqi-insurgency-2011apresent-pkurdish-forces-supported-by-u-s-airstrikes-retake-control-of-the-mosul-dam-after-its-capture-by-is-mil.md) _2017-08-25 03:40:51 (First version)_
-2. [Iraqi insurgency (2011-present):: Kurdish forces, supported by U.S. airstrikes, retake control of the Mosul Dam after its capture by IS militants. ](/news/2014/08/17/iraqi-insurgency-2011-present-kurdish-forces-supported-by-u-s-airstrikes-retake-control-of-the-mosul-dam-after-its-capture-by-is-mi.md) _2017-08-27 03:41:10 (Update)_
+1. [Iraqi insurgency (2011-present):Kurdish forces, supported by U.S. airstrikes, retake control of the Mosul Dam after its capture by IS militants. ](/news/2014/08/17/iraqi-insurgency-2011apresent-pkurdish-forces-supported-by-u-s-airstrikes-retake-control-of-the-mosul-dam-after-its-capture-by-is-mil.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (2011-present):: Kurdish forces, supported by U.S. airstrikes, retake control of the Mosul Dam after its capture by IS militants. ](/news/2014/08/17/iraqi-insurgency-2011-present-kurdish-forces-supported-by-u-s-airstrikes-retake-control-of-the-mosul-dam-after-its-capture-by-is-mi.md) _2018-02-06 13:49:26 (Update)_
 2. [Kurdish forces, supported by U.S. airstrikes, retake control of the Mosul Dam after its capture by IS militants. ](/news/2014/08/17/kurdish-forces-supported-by-u-s-airstrikes-retake-control-of-the-mosul-dam-after-its-capture-by-is-militants.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incur
 
 ### Changes:
 
-1. [Libyan Civil War:Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/libyan-civil-war-pforces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md) _2017-08-25 03:32:58 (First version)_
-2. [Libyan Civil War:: Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md) _2017-08-27 03:33:07 (Update)_
+1. [Libyan Civil War:Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/libyan-civil-war-pforces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md) _2018-02-06 13:49:22 (Update)_
 2. [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md) _(Current version)_
 
 ### Related:

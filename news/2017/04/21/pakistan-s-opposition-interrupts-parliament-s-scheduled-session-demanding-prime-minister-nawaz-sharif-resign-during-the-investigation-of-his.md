@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-s
 
 ### Changes:
 
-1. [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _2017-08-25 03:47:46 (First version)_
+1. [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _2018-02-06 13:49:30 (First version)_
 1. [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-his.md) _(Current version)_
 
 ### Related:

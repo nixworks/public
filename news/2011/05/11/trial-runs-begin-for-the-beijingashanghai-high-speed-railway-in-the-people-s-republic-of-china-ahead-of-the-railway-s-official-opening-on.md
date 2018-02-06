@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/05/11/trial-runs-begin-for-the-beijingashanghai-high-
 
 ### Changes:
 
-1. [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijing-shanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md) _2017-08-27 03:33:13 (First version)_
+1. [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijing-shanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md) _2018-02-06 13:49:22 (First version)_
 1. [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijingashanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md) _(Current version)_
 
 ### Related:

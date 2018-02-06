@@ -16,7 +16,7 @@ Ni Fake found guilty of taking more than $2m in bribes, as senior military offic
 
 ### Changes:
 
-1. [The municipal intermediate people-s court for the eastern city of Dongying convicts Ni Fake, former Vice-Governor of Anhui province in China, on charges of bribery and "amassing wealth of unclear origin", and sentences him to seventeen years in prison. ](/news/2015/02/28/the-municipal-intermediate-people-s-court-for-the-eastern-city-of-dongying-convicts-ni-fake-former-vice-governor-of-anhui-province-in-chi.md) _2017-08-27 03:42:02 (First version)_
+1. [The municipal intermediate people-s court for the eastern city of Dongying convicts Ni Fake, former Vice-Governor of Anhui province in China, on charges of bribery and "amassing wealth of unclear origin", and sentences him to seventeen years in prison. ](/news/2015/02/28/the-municipal-intermediate-people-s-court-for-the-eastern-city-of-dongying-convicts-ni-fake-former-vice-governor-of-anhui-province-in-chi.md) _2018-02-06 13:49:26 (First version)_
 1. [The municipal intermediate people's court for the eastern city of Dongying convicts Ni Fake, former Vice-Governor of Anhui province in China, on charges of bribery and "amassing wealth of unclear origin", and sentences him to seventeen years in prison. ](/news/2015/02/28/the-municipal-intermediate-peopleas-court-for-the-eastern-city-of-dongying-convicts-ni-fake-former-vice-governor-of-anhui-province-in-chi.md) _(Current version)_
 
 ### Related:

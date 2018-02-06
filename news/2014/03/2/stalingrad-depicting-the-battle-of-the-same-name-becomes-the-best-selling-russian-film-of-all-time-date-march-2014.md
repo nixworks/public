@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/03/2/stalingrad-depicting-the-battle-of-the-same-name
 
 ### Changes:
 
-1. [''Stalingrad'', depicting the battle of the same name, becomes the best-selling Russian film of all time. {{Cn|date=March 2014}}](/news/2014/03/2/stalingrad-depicting-the-battle-of-the-same-name-becomes-the-best-selling-russian-film-of-all-time-cn-date-march-2014.md) _2017-05-01 03:43:34 (First version)_
+1. [''Stalingrad'', depicting the battle of the same name, becomes the best-selling Russian film of all time. {{Cn|date=March 2014}}](/news/2014/03/2/stalingrad-depicting-the-battle-of-the-same-name-becomes-the-best-selling-russian-film-of-all-time-cn-date-march-2014.md) _2018-02-06 13:49:25 (First version)_
 1. ["Stalingrad", depicting the battle of the same name, becomes the best-selling Russian film of all time. date=March 2014](/news/2014/03/2/stalingrad-depicting-the-battle-of-the-same-name-becomes-the-best-selling-russian-film-of-all-time-date-march-2014.md) _(Current version)_
 
 ### Related:

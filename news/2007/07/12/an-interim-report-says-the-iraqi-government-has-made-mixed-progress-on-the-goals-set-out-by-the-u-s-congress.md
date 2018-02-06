@@ -20,8 +20,8 @@ Formats: [HTML](/news/2007/07/12/an-interim-report-says-the-iraqi-government-has
 
 ### Changes:
 
-1. [ Iraq War: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-p-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _2017-08-25 03:20:09 (First version)_
-2. [ Iraq War:: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _2017-08-27 03:20:09 (Update)_
+1. [ Iraq War: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-p-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _2018-02-06 13:49:17 (Update)_
 2. [ An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md) _(Current version)_
 
 ### Related:

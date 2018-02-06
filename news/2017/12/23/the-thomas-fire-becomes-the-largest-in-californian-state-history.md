@@ -16,7 +16,7 @@ The Thomas fire has now burned an area greater than New York City, Brussels and 
 
 ### Changes:
 
-1. [The fire becomes the largest in Californian state history. ](/news/2017/12/23/the-fire-becomes-the-largest-in-californian-state-history.md) _2017-12-23 17:30:06 (First version)_
+1. [The fire becomes the largest in Californian state history. ](/news/2017/12/23/the-fire-becomes-the-largest-in-californian-state-history.md) _2018-02-06 13:49:31 (First version)_
 1. [The Thomas Fire becomes the largest in Californian state history. ](/news/2017/12/23/the-thomas-fire-becomes-the-largest-in-californian-state-history.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ At least four people are killed and dozens injured in violence that erupted as T
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/2013a14-thai-political-crisis-pprotesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-police.md) _2017-08-25 03:40:03 (First version)_
-2. [2013-14 Thai political crisis:: Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/2013-14-thai-political-crisis-protesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-polic.md) _2017-08-27 03:40:21 (Update)_
+1. [2013-14 Thai political crisis:Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/2013a14-thai-political-crisis-pprotesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-police.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/2013-14-thai-political-crisis-protesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-polic.md) _2018-02-06 13:49:25 (Update)_
 2. [Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/protesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-policeman-shot-dead-and-dozens-wounded.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his
 
 ### Changes:
 
-1. [ American actor Leonard Nimoy, best known for his role as Spock from the ''Star Trek'' franchise, dies at the age of 83 from complications of COPD. ](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his-role-as-spock-from-the-star-trek-franchise-dies-at-the-age-of-83-from-complications-o.md) _2017-08-25 03:41:42 (First version)_
+1. [ American actor Leonard Nimoy, best known for his role as Spock from the ''Star Trek'' franchise, dies at the age of 83 from complications of COPD. ](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his-role-as-spock-from-the-star-trek-franchise-dies-at-the-age-of-83-from-complications-o.md) _2018-02-06 13:49:26 (First version)_
 1. [ American actor Leonard Nimoy, best known for his role as Spock from the "Star Trek" franchise, dies at the age of 83 from complications of COPD. ](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his-role-as-spock-from-the-star-trek-franchise-dies-at-the-age-of-83-from-complications-of.md) _(Current version)_
 
 ### Related:

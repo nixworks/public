@@ -17,7 +17,7 @@ International pressure grew on North Korea to call off a planned rocket launch, 
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: Japan puts its military on alert to shoot down any North Korean rocket that threatens it following an announcement by North Korea of a planned "Earth observation launch". ](/news/2016/02/3/north-korea-and-weapons-of-mass-destruction-japan-puts-its-military-on-alert-to-shoot-down-any-north-korean-rocket-that-threatens-it-follow.md) _2017-08-27 03:44:49 (First version)_
+1. [North Korea and weapons of mass destruction: Japan puts its military on alert to shoot down any North Korean rocket that threatens it following an announcement by North Korea of a planned "Earth observation launch". ](/news/2016/02/3/north-korea-and-weapons-of-mass-destruction-japan-puts-its-military-on-alert-to-shoot-down-any-north-korean-rocket-that-threatens-it-follow.md) _2018-02-06 13:49:28 (First version)_
 1. [Japan puts its military on alert to shoot down any North Korean rocket that threatens it following an announcement by North Korea of a planned "Earth observation launch". ](/news/2016/02/3/japan-puts-its-military-on-alert-to-shoot-down-any-north-korean-rocket-that-threatens-it-following-an-announcement-by-north-korea-of-a-plann.md) _(Current version)_
 
 ### Related:

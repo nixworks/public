@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/5/the-supreme-court-of-canada-ruled-that-the-harva
 
 ### Changes:
 
-1. [The Supreme Court of Canada ruled that the Harvard mouse, designed for its usefulness in cancer research, is not patentable. In its view such a higher life form does not fall within the definition of invention.](/news/2002/12/5/the-supreme-court-of-canada-ruled-that-the-harvard-mouse-designed-for-its-usefulness-in-cancer-research-is-not-patentable-in-its-view-su.md) _2017-08-25 03:15:17 (First version)_
+1. [The Supreme Court of Canada ruled that the Harvard mouse, designed for its usefulness in cancer research, is not patentable. In its view such a higher life form does not fall within the definition of invention.](/news/2002/12/5/the-supreme-court-of-canada-ruled-that-the-harvard-mouse-designed-for-its-usefulness-in-cancer-research-is-not-patentable-in-its-view-su.md) _2018-02-06 13:49:15 (First version)_
 1. [The Supreme Court of Canada ruled that the Harvard mouse, designed for its usefulness in cancer research, is not patentable. In its view such a higher life form does not fall within the definition of invention.](/news/2002/12/5/the-supreme-court-of-canada-ruled-that-the-harvard-mouse-designed-for-its-usefulness-in-cancer-research-is-not-patentable-in-its-view-suc.md) _(Current version)_
 
 ### Related:

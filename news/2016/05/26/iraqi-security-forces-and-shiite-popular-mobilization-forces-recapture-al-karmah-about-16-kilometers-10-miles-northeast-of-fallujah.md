@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobili
 
 ### Changes:
 
-1. [Iraqi civil war: Operation Breaking Terrorism: Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-civil-war-operation-breaking-terrorism-iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-ki.md) _2017-08-27 03:46:08 (First version)_
+1. [Iraqi civil war: Operation Breaking Terrorism: Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-civil-war-operation-breaking-terrorism-iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-ki.md) _2018-02-06 13:49:29 (First version)_
 1. [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md) _(Current version)_
 
 ### Related:

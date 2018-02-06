@@ -17,8 +17,8 @@ North Korea warns that US-South Korean plans for military maneuvers put peninsul
 
 ### Changes:
 
-1. [Korean peninsula:North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-pnorth-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md) _2017-08-25 03:31:10 (First version)_
-2. [Korean peninsula:: North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md) _2017-08-27 03:31:17 (Update)_
+1. [Korean peninsula:North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-pnorth-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md) _2018-02-06 13:49:21 (First version)_
+2. [Korean peninsula:: North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md) _2018-02-06 13:49:21 (Update)_
 2. [North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/27/the-government-of-mali-announces-that-63-of-the
 
 ### Changes:
 
-1. [Northern Mali conflict:The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/northern-mali-conflict-pthe-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led.md) _2017-08-25 03:38:03 (First version)_
-2. [Northern Mali conflict:: The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/northern-mali-conflict-the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led.md) _2017-08-27 03:38:14 (Update)_
+1. [Northern Mali conflict:: The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/northern-mali-conflict-the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/northern-mali-conflict-pthe-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led.md) _2018-02-06 13:49:24 (Update)_
 2. [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md) _(Current version)_
 
 ### Related:

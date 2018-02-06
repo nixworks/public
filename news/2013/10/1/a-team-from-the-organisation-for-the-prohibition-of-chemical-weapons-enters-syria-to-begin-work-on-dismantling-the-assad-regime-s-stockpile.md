@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/10/1/a-team-from-the-organisation-for-the-prohibition
 
 ### Changes:
 
-1. [Syrian civil war:A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/syrian-civil-war-pa-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad-r.md) _2017-08-25 03:39:21 (First version)_
-2. [Syrian civil war:: A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/syrian-civil-war-a-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad.md) _2017-08-27 03:39:38 (Update)_
+1. [Syrian civil war:A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/syrian-civil-war-pa-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad-r.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/syrian-civil-war-a-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad.md) _2018-02-06 13:49:25 (Update)_
 2. [A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/a-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad-regime-s-stockpile.md) _(Current version)_
 
 ### Related:

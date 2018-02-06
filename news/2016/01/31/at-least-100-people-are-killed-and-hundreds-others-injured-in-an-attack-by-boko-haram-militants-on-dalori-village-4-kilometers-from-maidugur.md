@@ -15,7 +15,7 @@ At least 100 people were killed and over hundred others injured when the Boko Ha
 
 ### Changes:
 
-1. [Boko Haram insurgency: 2016 Dalori attack: At least 100 people are killed and hundreds others injured in an attack by Boko Haram militants on Dalori Village 4 kilometers from Maiduguri, Nigeria. ](/news/2016/01/31/boko-haram-insurgency-2016-dalori-attack-at-least-100-people-are-killed-and-hundreds-others-injured-in-an-attack-by-boko-haram-militants-o.md) _2017-08-27 03:44:48 (First version)_
+1. [Boko Haram insurgency: 2016 Dalori attack: At least 100 people are killed and hundreds others injured in an attack by Boko Haram militants on Dalori Village 4 kilometers from Maiduguri, Nigeria. ](/news/2016/01/31/boko-haram-insurgency-2016-dalori-attack-at-least-100-people-are-killed-and-hundreds-others-injured-in-an-attack-by-boko-haram-militants-o.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 100 people are killed and hundreds others injured in an attack by Boko Haram militants on Dalori Village 4 kilometers from Maiduguri, Nigeria. ](/news/2016/01/31/at-least-100-people-are-killed-and-hundreds-others-injured-in-an-attack-by-boko-haram-militants-on-dalori-village-4-kilometers-from-maidugur.md) _(Current version)_
 
 ### Related:

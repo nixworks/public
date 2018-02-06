@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the
 
 ### Changes:
 
-1. [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii (''Big Island'') over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island.md) _2017-08-25 03:42:52 (First version)_
-2. [2015 Pacific hurricane season: Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/2015-pacific-hurricane-season-tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-isl.md) _2017-08-27 03:43:09 (Update)_
+1. [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii (''Big Island'') over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island.md) _2018-02-06 13:49:27 (First version)_
+2. [2015 Pacific hurricane season: Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/2015-pacific-hurricane-season-tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-isl.md) _2018-02-06 13:49:27 (Update)_
 2. [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island-ov.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Patrick Modiano, author of Lacombe Lucien, wins the The Swedish Academy award fo
 
 ### Changes:
 
-1. [2014 The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _2017-08-25 03:41:04 (First version)_
-2. [2014 Nobel Prize in Literature: The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-nobel-prize-in-literature-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _2017-08-27 03:41:22 (Update)_
+1. [2014 The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Nobel Prize in Literature: The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-nobel-prize-in-literature-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _2018-02-06 13:49:26 (Update)_
 2. [The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md) _(Current version)_
 
 ### Related:

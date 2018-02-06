@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/08/4/a-senior-intelligence-officer-in-afghanistan-s-n
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001apresent-pa-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kille.md) _2017-08-25 03:33:56 (First version)_
-2. [War in Afghanistan (2001-present):: A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001-present-a-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kill.md) _2017-08-27 03:34:04 (Update)_
+1. [War in Afghanistan (2001-present):A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001apresent-pa-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kille.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan (2001-present):: A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001-present-a-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kill.md) _2018-02-06 13:49:22 (Update)_
 2. [A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/a-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-killed-in-a-bombing-in-kunduz-province.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ Thousands of Syrians took to the streets in what appeared to be a dangerous turn
 
 ### Changes:
 
-1. [2011 Syrian protests:Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-psyrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _2017-08-25 03:33:12 (First version)_
-2. [2011 Syrian protests:: Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md) _2017-08-27 03:33:21 (Update)_
+1. [2011 Syrian protests:: Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-psyrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _(Current version)_
 
 ### Related:

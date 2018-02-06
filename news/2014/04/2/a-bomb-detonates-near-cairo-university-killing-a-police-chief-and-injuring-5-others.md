@@ -16,8 +16,8 @@ Several bombs near Cairo university kill a police brigadier-general and wound fi
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt (2013-14):A bomb detonates near Cairo University killing a police chief and injuring 5 others. ](/news/2014/04/2/post-coup-unrest-in-egypt-2013a14-pa-bomb-detonates-near-cairo-university-killing-a-police-chief-and-injuring-5-others.md) _2017-08-25 03:40:14 (First version)_
-2. [Post-coup unrest in Egypt (2013-14):: A bomb detonates near Cairo University killing a police chief and injuring 5 others. ](/news/2014/04/2/post-coup-unrest-in-egypt-2013-14-a-bomb-detonates-near-cairo-university-killing-a-police-chief-and-injuring-5-others.md) _2017-08-27 03:40:32 (Update)_
+1. [Post-coup unrest in Egypt (2013-14):A bomb detonates near Cairo University killing a police chief and injuring 5 others. ](/news/2014/04/2/post-coup-unrest-in-egypt-2013a14-pa-bomb-detonates-near-cairo-university-killing-a-police-chief-and-injuring-5-others.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt (2013-14):: A bomb detonates near Cairo University killing a police chief and injuring 5 others. ](/news/2014/04/2/post-coup-unrest-in-egypt-2013-14-a-bomb-detonates-near-cairo-university-killing-a-police-chief-and-injuring-5-others.md) _2018-02-06 13:49:26 (Update)_
 2. [A bomb detonates near Cairo University killing a police chief and injuring 5 others. ](/news/2014/04/2/a-bomb-detonates-near-cairo-university-killing-a-police-chief-and-injuring-5-others.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-s
 
 ### Changes:
 
-1. [ Ernie Fletcher, Republican governor of the U.S. state of Kentucky, is indicted on three misdemeanor counts of conspiracy, official misconduct and political discrimination for hiring, promoting, demoting and firing state employees based on political loyalties.](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-state-of-kentucky-is-indicted-on-three-misdemeanor-counts-of-conspiracy-official-miscond.md) _2017-08-25 03:17:37 (First version)_
+1. [ Ernie Fletcher, Republican governor of the U.S. state of Kentucky, is indicted on three misdemeanor counts of conspiracy, official misconduct and political discrimination for hiring, promoting, demoting and firing state employees based on political loyalties.](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-state-of-kentucky-is-indicted-on-three-misdemeanor-counts-of-conspiracy-official-miscond.md) _2018-02-06 13:49:17 (First version)_
 1. [ Ernie Fletcher, Republican governor of the U.S. state of Kentucky, is indicted on three misdemeanor counts of conspiracy, official misconduct and political discrimination for hiring, promoting, demoting and firing state employees based on political loyalties.](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-state-of-kentucky-is-indicted-on-three-misdemeanor-counts-of-conspiracy-official-miscondu.md) _(Current version)_
 
 ### Related:

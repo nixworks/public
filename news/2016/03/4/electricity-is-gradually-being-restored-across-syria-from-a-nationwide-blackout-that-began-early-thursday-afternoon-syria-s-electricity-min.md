@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/4/electricity-is-gradually-being-restored-across-s
 
 ### Changes:
 
-1. [Electricity is gradually being restored across Syria from a nationwide blackout that began early Thursday afternoon. Syria's Electricity Ministry says the electrical grid is expected to return to normal capacity by midnight. There is no immediate word on the cause. ](/news/2016/03/4/electricity-is-gradually-being-restored-across-syria-from-a-nationwide-blackout-that-began-early-thursday-afternoon-syria-s-electricity-mi.md) _2017-08-25 03:44:46 (First version)_
+1. [Electricity is gradually being restored across Syria from a nationwide blackout that began early Thursday afternoon. Syria's Electricity Ministry says the electrical grid is expected to return to normal capacity by midnight. There is no immediate word on the cause. ](/news/2016/03/4/electricity-is-gradually-being-restored-across-syria-from-a-nationwide-blackout-that-began-early-thursday-afternoon-syria-s-electricity-mi.md) _2018-02-06 13:49:28 (First version)_
 1. [Electricity is gradually being restored across Syria from a nationwide blackout that began early Thursday afternoon. Syria's Electricity Ministry says the electrical grid is expected to return to normal capacity by midnight. There is no immediate word on the cause. ](/news/2016/03/4/electricity-is-gradually-being-restored-across-syria-from-a-nationwide-blackout-that-began-early-thursday-afternoon-syria-s-electricity-min.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ A United States Appeals Court in Cincinnati, Ohio rules that the U.S. government can continue to use its warrantless domestic wiretap program pending the Justice Department's appeal of a federal judge's ruling outlawing the program. ](/news/2006/10/4/a-united-states-appeals-court-in-cincinnati-ohio-rules-that-the-u-s-government-can-continue-to-use-its-warrantless-domestic-wiretap-prog.md) _2017-08-25 03:18:31 (First version)_
+1. [ A United States Appeals Court in Cincinnati, Ohio rules that the U.S. government can continue to use its warrantless domestic wiretap program pending the Justice Department's appeal of a federal judge's ruling outlawing the program. ](/news/2006/10/4/a-united-states-appeals-court-in-cincinnati-ohio-rules-that-the-u-s-government-can-continue-to-use-its-warrantless-domestic-wiretap-prog.md) _2018-02-06 13:49:17 (First version)_
 1. [ A United States Appeals Court in Cincinnati, Ohio rules that the U.S. government can continue to use its warrantless domestic wiretap program pending the Justice Department's appeal of a federal judge's ruling outlawing the program. ](/news/2006/10/4/a-united-states-appeals-court-in-cincinnati-ohio-rules-that-the-u-s-government-can-continue-to-use-its-warrantless-domestic-wiretap-progr.md) _(Current version)_
 
 ### Related:

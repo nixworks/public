@@ -17,7 +17,7 @@ Japan is putting its military on high alert, said to be ready to shoot down any 
 
 ### Changes:
 
-1. [Japan-North Korea relations: Japan places its military on high alert to be ready to shoot down any missile heading for its territory amid reports of a possible North Korean launch of an intermediate-range missile from its east coast. ](/news/2016/06/21/japan-north-korea-relations-japan-places-its-military-on-high-alert-to-be-ready-to-shoot-down-any-missile-heading-for-its-territory-amid.md) _2017-08-27 03:46:18 (First version)_
+1. [Japan-North Korea relations: Japan places its military on high alert to be ready to shoot down any missile heading for its territory amid reports of a possible North Korean launch of an intermediate-range missile from its east coast. ](/news/2016/06/21/japan-north-korea-relations-japan-places-its-military-on-high-alert-to-be-ready-to-shoot-down-any-missile-heading-for-its-territory-amid.md) _2018-02-06 13:49:29 (First version)_
 1. [Japan places its military on high alert to be ready to shoot down any missile heading for its territory amid reports of a possible North Korean launch of an intermediate-range missile from its east coast. ](/news/2016/06/21/japan-places-its-military-on-high-alert-to-be-ready-to-shoot-down-any-missile-heading-for-its-territory-amid-reports-of-a-possible-north-kor.md) _(Current version)_
 
 ### Related:

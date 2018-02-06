@@ -16,5 +16,5 @@ Formats: [HTML](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and
 
 ### Changes:
 
-1. [Thirty-six minutes of the film "Harry Potter and the Deathly Hallows - Part 1" is leaked. ](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-part-1-is-leaked.md) _2017-08-27 03:31:11 (First version)_
+1. [Thirty-six minutes of the film "Harry Potter and the Deathly Hallows - Part 1" is leaked. ](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-part-1-is-leaked.md) _2018-02-06 13:49:21 (First version)_
 1. [Thirty-six minutes of the film "Harry Potter and the Deathly Hallows - Part 1" is leaked. ](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-a-part-1-is-leaked.md) _(Current version)_

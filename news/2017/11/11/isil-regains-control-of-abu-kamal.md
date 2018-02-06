@@ -16,7 +16,7 @@ ISIS recaptured Albu Kamal in eastern Syria on Saturday after a fierce fightback
 
 ### Changes:
 
-1. [ISIS regains control of Abu Kamal. ](/news/2017/11/11/isis-regains-control-of-abu-kamal.md) _2017-11-13 00:30:04 (First version)_
+1. [ISIS regains control of Abu Kamal. ](/news/2017/11/11/isis-regains-control-of-abu-kamal.md) _2018-02-06 13:49:31 (First version)_
 1. [ISIL regains control of Abu Kamal. ](/news/2017/11/11/isil-regains-control-of-abu-kamal.md) _(Current version)_
 
 ### Related:

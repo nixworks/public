@@ -17,8 +17,8 @@ A suicide bomber killed himself and three soldiers when he detonated a car bomb 
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon:A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/syrian-civil-war-spillover-in-lebanon-pa-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-close.md) _2017-08-25 03:40:14 (First version)_
-2. [Syrian Civil War spillover in Lebanon:: A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/syrian-civil-war-spillover-in-lebanon-a-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-clos.md) _2017-08-27 03:40:32 (Update)_
+1. [Syrian Civil War spillover in Lebanon:A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/syrian-civil-war-spillover-in-lebanon-pa-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-close.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/syrian-civil-war-spillover-in-lebanon-a-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-clos.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/a-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-close-to-the-syrian-border.md) _(Current version)_
 
 ### Related:

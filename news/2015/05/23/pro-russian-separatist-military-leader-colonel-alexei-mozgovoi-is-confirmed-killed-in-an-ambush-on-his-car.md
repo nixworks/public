@@ -16,7 +16,7 @@ One of the top rebel commanders in eastern Ukraine, Alexei Mozgovoi, is killed i
 
 ### Changes:
 
-1. [War in Donbass: Pro-Russian separatist military leader colonel Alexei Mozgovoi is confirmed killed in an ambush on his car. ](/news/2015/05/23/war-in-donbass-pro-russian-separatist-military-leader-colonel-alexei-mozgovoi-is-confirmed-killed-in-an-ambush-on-his-car.md) _2017-08-27 03:42:22 (First version)_
+1. [War in Donbass: Pro-Russian separatist military leader colonel Alexei Mozgovoi is confirmed killed in an ambush on his car. ](/news/2015/05/23/war-in-donbass-pro-russian-separatist-military-leader-colonel-alexei-mozgovoi-is-confirmed-killed-in-an-ambush-on-his-car.md) _2018-02-06 13:49:27 (First version)_
 1. [Pro-Russian separatist military leader colonel Alexei Mozgovoi is confirmed killed in an ambush on his car. ](/news/2015/05/23/pro-russian-separatist-military-leader-colonel-alexei-mozgovoi-is-confirmed-killed-in-an-ambush-on-his-car.md) _(Current version)_
 
 ### Related:

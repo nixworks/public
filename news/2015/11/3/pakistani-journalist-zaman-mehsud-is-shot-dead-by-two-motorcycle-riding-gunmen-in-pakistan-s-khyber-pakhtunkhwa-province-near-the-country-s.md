@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-b
 
 ### Changes:
 
-1. [Pakistani journalist Zaman Mehsud is shot dead by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country.md) _2017-08-25 03:43:22 (First version)_
+1. [Pakistani journalist Zaman Mehsud is shot dead by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country.md) _2018-02-06 13:49:28 (First version)_
 1. [Pakistani journalist Zaman Mehsud is shot dead by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country-s.md) _(Current version)_
 
 ### Related:

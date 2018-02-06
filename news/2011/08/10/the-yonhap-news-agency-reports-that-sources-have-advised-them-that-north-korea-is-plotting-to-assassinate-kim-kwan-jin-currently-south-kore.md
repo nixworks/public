@@ -17,8 +17,8 @@ South Korea said North Korea fired artillery salvos near a disputed sea border t
 
 ### Changes:
 
-1. [Korean Peninsula:The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/korean-peninsula-pthe-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-cu.md) _2017-08-25 03:33:59 (First version)_
-2. [Korean Peninsula:: The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/korean-peninsula-the-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-c.md) _2017-08-27 03:34:06 (Update)_
+1. [Korean Peninsula:: The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/korean-peninsula-the-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-c.md) _2018-02-06 13:49:22 (First version)_
+2. [Korean Peninsula:The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/korean-peninsula-pthe-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-cu.md) _2018-02-06 13:49:22 (Update)_
 2. [The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/the-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-currently-south-kore.md) _(Current version)_
 
 ### Related:

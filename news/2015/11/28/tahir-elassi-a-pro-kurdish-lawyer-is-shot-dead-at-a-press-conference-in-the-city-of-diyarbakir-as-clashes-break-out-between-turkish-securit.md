@@ -16,7 +16,7 @@ The head of the Diyarbakir Bar Association was shot dead in the Turkish city of 
 
 ### Changes:
 
-1. [Turkey-PKK conflict: Tahir Elci, a pro-Kurdish lawyer, is shot dead at a press conference in the city of Diyarbakir as clashes break out between Turkish security forces and PKK militants. ](/news/2015/11/28/turkey-pkk-conflict-tahir-elassi-a-pro-kurdish-lawyer-is-shot-dead-at-a-press-conference-in-the-city-of-diyarbakir-as-clashes-break-out.md) _2017-08-27 03:44:05 (First version)_
+1. [Turkey-PKK conflict: Tahir Elci, a pro-Kurdish lawyer, is shot dead at a press conference in the city of Diyarbakir as clashes break out between Turkish security forces and PKK militants. ](/news/2015/11/28/turkey-pkk-conflict-tahir-elassi-a-pro-kurdish-lawyer-is-shot-dead-at-a-press-conference-in-the-city-of-diyarbakir-as-clashes-break-out.md) _2018-02-06 13:49:28 (First version)_
 1. [Tahir Elci, a pro-Kurdish lawyer, is shot dead at a press conference in the city of Diyarbakir as clashes break out between Turkish security forces and PKK militants. ](/news/2015/11/28/tahir-elassi-a-pro-kurdish-lawyer-is-shot-dead-at-a-press-conference-in-the-city-of-diyarbakir-as-clashes-break-out-between-turkish-securit.md) _(Current version)_
 
 ### Related:

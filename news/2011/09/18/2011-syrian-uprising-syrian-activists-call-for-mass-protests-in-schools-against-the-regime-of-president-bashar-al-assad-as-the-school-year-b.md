@@ -19,8 +19,8 @@ At least four people were killed across Syria on Sunday, the Local Coordination 
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising:Syrian activists call for mass protests in schools against the regime of President Bashar al-Assad as the school year begins. ](/news/2011/09/18/arab-spring-p2011-syrian-uprising-psyrian-activists-call-for-mass-protests-in-schools-against-the-regime-of-president-bashar-al-assad-as-the.md) _2017-08-25 03:34:10 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising:: Syrian activists call for mass protests in schools against the regime of President Bashar al-Assad as the school year begins. ](/news/2011/09/18/arab-spring-2011-syrian-uprising-syrian-activists-call-for-mass-protests-in-schools-against-the-regime-of-president-bashar-al-assad-as-t.md) _2017-08-27 03:34:18 (Update)_
+1. [Arab Spring:2011 Syrian uprising:Syrian activists call for mass protests in schools against the regime of President Bashar al-Assad as the school year begins. ](/news/2011/09/18/arab-spring-p2011-syrian-uprising-psyrian-activists-call-for-mass-protests-in-schools-against-the-regime-of-president-bashar-al-assad-as-the.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising:: Syrian activists call for mass protests in schools against the regime of President Bashar al-Assad as the school year begins. ](/news/2011/09/18/arab-spring-2011-syrian-uprising-syrian-activists-call-for-mass-protests-in-schools-against-the-regime-of-president-bashar-al-assad-as-t.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising:Syrian activists call for mass protests in schools against the regime of President Bashar al-Assad as the school year begins. ](/news/2011/09/18/2011-syrian-uprising-syrian-activists-call-for-mass-protests-in-schools-against-the-regime-of-president-bashar-al-assad-as-the-school-year-b.md) _(Current version)_
 
 ### Related:

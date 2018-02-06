@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon: Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/syrian-civil-war-spillover-in-lebanon-clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast.md) _2017-08-27 03:45:12 (First version)_
+1. [Syrian Civil War spillover in Lebanon: Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/syrian-civil-war-spillover-in-lebanon-clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast.md) _2018-02-06 13:49:28 (First version)_
 1. [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md) _(Current version)_
 
 ### Related:

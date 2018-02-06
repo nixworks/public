@@ -30,8 +30,8 @@ Police spokesman: Truck rampage &quot;looks deliberate,&quot; but probe ongoing;
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/israeliapalestinian-conflict-pa-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injuri.md) _2017-08-25 03:33:07 (First version)_
-2. [Israeli-Palestinian conflict:: A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/israeli-palestinian-conflict-a-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injur.md) _2017-08-27 03:33:16 (Update)_
+1. [Israeli-Palestinian conflict:A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/israeliapalestinian-conflict-pa-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injuri.md) _2018-02-06 13:49:22 (First version)_
+2. [Israeli-Palestinian conflict:: A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/israeli-palestinian-conflict-a-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injur.md) _2018-02-06 13:49:22 (Update)_
 2. [A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/a-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injuring-16-in-what-is-believed-to-be.md) _(Current version)_
 
 ### Related:

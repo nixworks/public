@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/28/at-least-21-militants-are-killed-in-airstrikes-
 
 ### Changes:
 
-1. [War in North-West Pakistan:At least 21 militants are killed in airstrikes and a gunfight in Pakistan's northwestern tribal areas. ](/news/2014/09/28/war-in-north-west-pakistan-pat-least-21-militants-are-killed-in-airstrikes-and-a-gunfight-in-pakistan-s-northwestern-tribal-areas.md) _2017-08-25 03:41:02 (First version)_
-2. [War in North-West Pakistan:: At least 21 militants are killed in airstrikes and a gunfight in Pakistan's northwestern tribal areas. ](/news/2014/09/28/war-in-north-west-pakistan-at-least-21-militants-are-killed-in-airstrikes-and-a-gunfight-in-pakistan-s-northwestern-tribal-areas.md) _2017-08-27 03:41:20 (Update)_
+1. [War in North-West Pakistan:At least 21 militants are killed in airstrikes and a gunfight in Pakistan's northwestern tribal areas. ](/news/2014/09/28/war-in-north-west-pakistan-pat-least-21-militants-are-killed-in-airstrikes-and-a-gunfight-in-pakistan-s-northwestern-tribal-areas.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: At least 21 militants are killed in airstrikes and a gunfight in Pakistan's northwestern tribal areas. ](/news/2014/09/28/war-in-north-west-pakistan-at-least-21-militants-are-killed-in-airstrikes-and-a-gunfight-in-pakistan-s-northwestern-tribal-areas.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 21 militants are killed in airstrikes and a gunfight in Pakistan's northwestern tribal areas. ](/news/2014/09/28/at-least-21-militants-are-killed-in-airstrikes-and-a-gunfight-in-pakistan-s-northwestern-tribal-areas.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/11/9/the-death-toll-from-the-ongoing-flooding-in-thai
 
 ### Changes:
 
-1. [2011 Thailand floods:The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-pthe-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md) _2017-08-25 03:34:27 (First version)_
-2. [2011 Thailand floods:: The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md) _2017-08-27 03:34:37 (Update)_
+1. [2011 Thailand floods:: The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Thailand floods:The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-pthe-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md) _2018-02-06 13:49:23 (Update)_
 2. [The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 
 ### Changes:
 
-1. [Toronto Mayor Rob Ford admits that a year-old video does indeed show him smoking crack cocaine, a charge he had previously denied. Ford refused to resign from office and vowed to pursue re-election efforts. ](/news/2013/11/5/toronto-mayor-rob-ford-admits-that-a-year-old-video-does-indeed-show-him-smoking-crack-cocaine-a-charge-he-had-previously-denied-ford-ref.md) _2017-08-25 03:39:29 (First version)_
+1. [Toronto Mayor Rob Ford admits that a year-old video does indeed show him smoking crack cocaine, a charge he had previously denied. Ford refused to resign from office and vowed to pursue re-election efforts. ](/news/2013/11/5/toronto-mayor-rob-ford-admits-that-a-year-old-video-does-indeed-show-him-smoking-crack-cocaine-a-charge-he-had-previously-denied-ford-ref.md) _2018-02-06 13:49:25 (First version)_
 1. [Toronto Mayor Rob Ford admits that a year-old video does indeed show him smoking crack cocaine, a charge he had previously denied. Ford refused to resign from office and vowed to pursue re-election efforts. ](/news/2013/11/5/toronto-mayor-rob-ford-admits-that-a-year-old-video-does-indeed-show-him-smoking-crack-cocaine-a-charge-he-had-previously-denied-ford-refu.md) _(Current version)_
 
 ### Related:

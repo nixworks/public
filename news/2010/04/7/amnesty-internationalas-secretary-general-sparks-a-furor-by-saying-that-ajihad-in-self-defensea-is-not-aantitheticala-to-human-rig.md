@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/7/amnesty-internationalas-secretary-general-sparks
 
 ### Changes:
 
-1. [Amnesty International-s Secretary-General sparks a furor by saying that -jihad in self-defense- is not -antithetical- to human rights. ](/news/2010/04/7/amnesty-international-s-secretary-general-sparks-a-furor-by-saying-that-jihad-in-self-defense-is-not-antithetical-to-human-rig.md) _2017-08-27 03:27:31 (First version)_
+1. [Amnesty International-s Secretary-General sparks a furor by saying that -jihad in self-defense- is not -antithetical- to human rights. ](/news/2010/04/7/amnesty-international-s-secretary-general-sparks-a-furor-by-saying-that-jihad-in-self-defense-is-not-antithetical-to-human-rig.md) _2018-02-06 13:49:20 (First version)_
 1. [Amnesty International's Secretary-General sparks a furor by saying that "jihad in self-defense" is not "antithetical" to human rights. ](/news/2010/04/7/amnesty-internationalas-secretary-general-sparks-a-furor-by-saying-that-ajihad-in-self-defensea-is-not-aantitheticala-to-human-rig.md) _(Current version)_
 
 ### Related:

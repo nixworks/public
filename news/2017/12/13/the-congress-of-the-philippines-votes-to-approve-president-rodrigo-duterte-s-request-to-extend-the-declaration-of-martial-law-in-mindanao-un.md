@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approv
 
 ### Changes:
 
-1. [The Congress of the Philippines votes to extend the declaration of martial law in Mindanao until December 31, 2018 upon the request of President Rodrigo Duterte. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-extend-the-declaration-of-martial-law-in-mindanao-until-december-31-2018-upon-the-request-of-presi.md) _2017-12-13 13:30:08 (First version)_
+1. [The Congress of the Philippines votes to extend the declaration of martial law in Mindanao until December 31, 2018 upon the request of President Rodrigo Duterte. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-extend-the-declaration-of-martial-law-in-mindanao-until-december-31-2018-upon-the-request-of-presi.md) _2018-02-06 13:49:31 (First version)_
 1. [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md) _(Current version)_
 
 ### Related:

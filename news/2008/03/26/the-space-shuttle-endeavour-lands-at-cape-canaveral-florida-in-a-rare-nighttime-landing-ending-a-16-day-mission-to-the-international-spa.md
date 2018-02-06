@@ -16,7 +16,7 @@ The shuttle landed at 8:39 p.m., roughly an hour after Capt. Dominic L. Gorie fi
 
 ### Changes:
 
-1. [ The Space Shuttle ''Endeavour'' lands at Cape Canaveral, Florida in a rare nighttime landing ending a 16-day mission to the International Space Station. ](/news/2008/03/26/the-space-shuttle-endeavour-lands-at-cape-canaveral-florida-in-a-rare-nighttime-landing-ending-a-16-day-mission-to-the-international-s.md) _2017-08-25 03:21:59 (First version)_
+1. [ The Space Shuttle ''Endeavour'' lands at Cape Canaveral, Florida in a rare nighttime landing ending a 16-day mission to the International Space Station. ](/news/2008/03/26/the-space-shuttle-endeavour-lands-at-cape-canaveral-florida-in-a-rare-nighttime-landing-ending-a-16-day-mission-to-the-international-s.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Space Shuttle "Endeavour" lands at Cape Canaveral, Florida in a rare nighttime landing ending a 16-day mission to the International Space Station. ](/news/2008/03/26/the-space-shuttle-endeavour-lands-at-cape-canaveral-florida-in-a-rare-nighttime-landing-ending-a-16-day-mission-to-the-international-spa.md) _(Current version)_
 
 ### Related:

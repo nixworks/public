@@ -16,7 +16,7 @@ Mr. Anderson brought an understanding of painters like Degas to his still lifes,
 
 ### Changes:
 
-1. [Lennart Anderson died at age 87 in Brooklyn, New York. Also a teacher at several notable institutions such as Pratt Institute, the Art Students League of New York, Yale, Princeton, Columbia, and Brooklyn College, Anderson's influence was felt by generations of artists.](/news/2015/10/15/lennart-anderson-died-at-age-87-in-brooklyn-new-york-also-a-teacher-at-several-notable-institutions-such-as-pratt-institute-the-art-stud.md) _2017-08-25 03:43:04 (First version)_
+1. [Lennart Anderson died at age 87 in Brooklyn, New York. Also a teacher at several notable institutions such as Pratt Institute, the Art Students League of New York, Yale, Princeton, Columbia, and Brooklyn College, Anderson's influence was felt by generations of artists.](/news/2015/10/15/lennart-anderson-died-at-age-87-in-brooklyn-new-york-also-a-teacher-at-several-notable-institutions-such-as-pratt-institute-the-art-stud.md) _2018-02-06 13:49:27 (First version)_
 1. [Lennart Anderson died at age 87 in Brooklyn, New York. Also a teacher at several notable institutions such as Pratt Institute, the Art Students League of New York, Yale, Princeton, Columbia, and Brooklyn College, Anderson's influence was felt by generations of artists.](/news/2015/10/15/lennart-anderson-died-at-age-87-in-brooklyn-new-york-also-a-teacher-at-several-notable-institutions-such-as-pratt-institute-the-art-stude.md) _(Current version)_
 
 ### Related:

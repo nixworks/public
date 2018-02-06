@@ -17,8 +17,8 @@ Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved be
 
 ### Changes:
 
-1. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala.md) _2017-12-03 20:30:11 (First version)_
-2. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. It also kills seven people in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-it-also-kills-seven-people-in-sri-lanka.md) _2017-12-03 21:30:07 (Update)_
+1. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala.md) _2018-02-06 13:49:31 (First version)_
+2. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. It also kills seven people in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-it-also-kills-seven-people-in-sri-lanka.md) _2018-02-06 13:49:31 (Update)_
 2. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _(Current version)_
 
 ### Related:

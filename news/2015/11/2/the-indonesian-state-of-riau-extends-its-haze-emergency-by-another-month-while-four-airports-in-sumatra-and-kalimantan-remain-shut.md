@@ -16,7 +16,7 @@ JAKARTA • The authorities in Riau, the Indonesian province that is second-clos
 
 ### Changes:
 
-1. [2015 Southeast Asian haze: The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/2015-southeast-asian-haze-the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalim.md) _2017-08-27 03:43:39 (First version)_
+1. [2015 Southeast Asian haze: The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/2015-southeast-asian-haze-the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalim.md) _2018-02-06 13:49:28 (First version)_
 1. [The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.md) _(Current version)_
 
 ### Related:

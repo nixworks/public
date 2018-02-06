@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-n
 
 ### [2015-08-2](/news/2015/08/2/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 # A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. 
 
 
@@ -15,13 +15,13 @@ Formats: [HTML](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-n
 
 ### Changes:
 
-1. [Saudi Arabian-led intervention in Yemen: A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/saudi-arabian-led-intervention-in-yemen-a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md) _2017-08-27 03:42:46 (First version)_
+1. [Saudi Arabian-led intervention in Yemen: A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/saudi-arabian-led-intervention-in-yemen-a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md) _2018-02-06 13:49:27 (First version)_
 1. [A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md) _(Current version)_
 
 ### Related:
 
-1. [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md) _Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
-2. [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md) _Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
-3. [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
-4. [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
-5. [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+1. [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md) _Context: Najran, Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+2. [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md) _Context: Najran, Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+3. [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md) _Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+4. [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md) _Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+5. [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md) _Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemen_

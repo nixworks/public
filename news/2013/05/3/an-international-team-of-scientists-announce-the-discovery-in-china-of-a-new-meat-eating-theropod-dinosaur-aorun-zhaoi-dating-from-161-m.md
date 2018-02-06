@@ -15,7 +15,7 @@ A new species of meat-eating dinosaurs have been discovered in China.
 
 ### Changes:
 
-1. [An international team of scientists announce the discovery in China of a new meat-eating Theropod dinosaur, ''Aorun zhaoi'', dating from 161 million years ago. It is the oldest Coelurosaur known to date. ](/news/2013/05/3/an-international-team-of-scientists-announce-the-discovery-in-china-of-a-new-meat-eating-theropod-dinosaur-aorun-zhaoi-dating-from-161.md) _2017-08-25 03:38:32 (First version)_
+1. [An international team of scientists announce the discovery in China of a new meat-eating Theropod dinosaur, ''Aorun zhaoi'', dating from 161 million years ago. It is the oldest Coelurosaur known to date. ](/news/2013/05/3/an-international-team-of-scientists-announce-the-discovery-in-china-of-a-new-meat-eating-theropod-dinosaur-aorun-zhaoi-dating-from-161.md) _2018-02-06 13:49:24 (First version)_
 1. [An international team of scientists announce the discovery in China of a new meat-eating Theropod dinosaur, "Aorun zhaoi", dating from 161 million years ago. It is the oldest Coelurosaur known to date. ](/news/2013/05/3/an-international-team-of-scientists-announce-the-discovery-in-china-of-a-new-meat-eating-theropod-dinosaur-aorun-zhaoi-dating-from-161-m.md) _(Current version)_
 
 ### Related:

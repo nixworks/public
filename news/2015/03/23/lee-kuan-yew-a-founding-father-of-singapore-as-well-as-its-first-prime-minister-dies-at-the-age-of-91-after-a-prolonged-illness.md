@@ -16,7 +16,7 @@ Lee Kuan Yew, the statesman who transformed Singapore from a port city into a we
 
 ### Changes:
 
-1. [Death of Lee Kuan Yew: Lee Kuan Yew, a founding father of Singapore as well as its first prime minister, dies at the age of 91 after a prolonged illness. ](/news/2015/03/23/death-of-lee-kuan-yew-lee-kuan-yew-a-founding-father-of-singapore-as-well-as-its-first-prime-minister-dies-at-the-age-of-91-after-a-prolo.md) _2017-08-27 03:42:07 (First version)_
+1. [Death of Lee Kuan Yew: Lee Kuan Yew, a founding father of Singapore as well as its first prime minister, dies at the age of 91 after a prolonged illness. ](/news/2015/03/23/death-of-lee-kuan-yew-lee-kuan-yew-a-founding-father-of-singapore-as-well-as-its-first-prime-minister-dies-at-the-age-of-91-after-a-prolo.md) _2018-02-06 13:49:26 (First version)_
 1. [Lee Kuan Yew, a founding father of Singapore as well as its first prime minister, dies at the age of 91 after a prolonged illness. ](/news/2015/03/23/lee-kuan-yew-a-founding-father-of-singapore-as-well-as-its-first-prime-minister-dies-at-the-age-of-91-after-a-prolonged-illness.md) _(Current version)_
 
 ### Related:

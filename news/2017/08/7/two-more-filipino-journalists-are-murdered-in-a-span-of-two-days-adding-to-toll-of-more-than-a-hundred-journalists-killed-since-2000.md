@@ -17,8 +17,8 @@ ZAMBOANGA, Philippines (AFP) - Two journalists have been shot dead in two days i
 
 ### Changes:
 
-1. [Two more Filipino journalists are murdered in a single day adding to toll of hundreds of journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-single-day-adding-to-toll-of-hundreds-of-journalists-killed-since-2000.md) _2017-08-08 03:48:52 (First version)_
-2. [Media of the Philippines: Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/media-of-the-philippines-two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists.md) _2017-08-27 03:48:47 (Update)_
+1. [Two more Filipino journalists are murdered in a single day adding to toll of hundreds of journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-single-day-adding-to-toll-of-hundreds-of-journalists-killed-since-2000.md) _2018-02-06 13:49:31 (First version)_
+2. [Media of the Philippines: Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/media-of-the-philippines-two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists.md) _2018-02-06 13:49:31 (Update)_
 2. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _(Current version)_
 
 ### Related:

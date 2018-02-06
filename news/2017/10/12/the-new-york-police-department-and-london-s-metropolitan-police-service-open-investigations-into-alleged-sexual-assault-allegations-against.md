@@ -17,7 +17,7 @@ Forces in New York and London look into allegations against movie mogul Harvey W
 
 ### Changes:
 
-1. [The New York Police Department (NYPD) and UK Metropolitan Police Service open an investigation into alleged sexual assault allegations against the film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-nypd-and-uk-metropolitan-police-service-open-an-investigation-into-alleged-sexual-assault-allegations-again.md) _2017-10-13 00:30:06 (First version)_
+1. [The New York Police Department (NYPD) and UK Metropolitan Police Service open an investigation into alleged sexual assault allegations against the film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-nypd-and-uk-metropolitan-police-service-open-an-investigation-into-alleged-sexual-assault-allegations-again.md) _2018-02-06 13:49:31 (First version)_
 1. [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md) _(Current version)_
 
 ### Related:

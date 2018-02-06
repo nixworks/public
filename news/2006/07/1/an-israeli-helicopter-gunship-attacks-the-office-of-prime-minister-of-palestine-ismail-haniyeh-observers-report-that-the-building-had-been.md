@@ -18,8 +18,8 @@ The Age 404 Page
 
 ### Changes:
 
-1. [ Operation Summer Rains: An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/operation-summer-rains-p-an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-t.md) _2017-08-25 03:17:52 (First version)_
-2. [ Operation Summer Rains:: An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/operation-summer-rains-an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-t.md) _2017-08-27 03:17:51 (Update)_
+1. [ Operation Summer Rains: An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/operation-summer-rains-p-an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-t.md) _2018-02-06 13:49:17 (First version)_
+2. [ Operation Summer Rains:: An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/operation-summer-rains-an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-t.md) _2018-02-06 13:49:17 (Update)_
 2. [ An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-that-the-building-had-been.md) _(Current version)_
 
 ### Related:

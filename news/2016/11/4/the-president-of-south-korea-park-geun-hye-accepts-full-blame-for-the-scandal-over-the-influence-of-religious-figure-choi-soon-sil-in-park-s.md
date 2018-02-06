@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accep
 
 ### Changes:
 
-1. [2016 South Korean political scandal: The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/2016-south-korean-political-scandal-the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-rel.md) _2017-08-27 03:47:11 (First version)_
+1. [2016 South Korean political scandal: The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/2016-south-korean-political-scandal-the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-rel.md) _2018-02-06 13:49:29 (First version)_
 1. [The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-religious-figure-choi-soon-sil-in-park-s.md) _(Current version)_
 
 ### Related:

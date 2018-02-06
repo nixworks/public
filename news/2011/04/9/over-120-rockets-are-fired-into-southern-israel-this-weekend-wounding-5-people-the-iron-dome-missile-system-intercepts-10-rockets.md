@@ -18,8 +18,8 @@ Iron Dome intercepts 10 rockets; Israel reviewing cease-fire proposal; Hamas fig
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/israeliapalestinian-conflict-pover-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-syste.md) _2017-08-25 03:32:46 (First version)_
-2. [Israeli-Palestinian conflict:: Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/israeli-palestinian-conflict-over-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-syst.md) _2017-08-27 03:32:55 (Update)_
+1. [Israeli-Palestinian conflict:Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/israeliapalestinian-conflict-pover-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-syste.md) _2018-02-06 13:49:22 (First version)_
+2. [Israeli-Palestinian conflict:: Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/israeli-palestinian-conflict-over-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-syst.md) _2018-02-06 13:49:22 (Update)_
 2. [Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/over-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-system-intercepts-10-rockets.md) _(Current version)_
 
 ### Related:

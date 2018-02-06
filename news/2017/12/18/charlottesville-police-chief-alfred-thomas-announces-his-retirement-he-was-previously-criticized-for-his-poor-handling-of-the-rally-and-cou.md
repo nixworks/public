@@ -17,8 +17,8 @@ Accused by a stinging report of a &quot;slow-footed response&quot; to violence a
 
 ### Changes:
 
-1. [Charlottesville Police Chief Alfred Thomas announces his immediate retirement. The 220-page report on the deadly August 11-12, 2017, Unite the Right rally was released on December 1. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-immediate-retirement-the-220-page-report-on-the-deadly-august-11a12-2017-unite.md) _2017-12-19 06:30:06 (First version)_
-2. [Charlottesville Police Chief Alfred Thomas announces his immediate retirement. A 220-page report on the deadly August 11-12, 2017, Unite the Right rally was released on December 1. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-immediate-retirement-a-220-page-report-on-the-deadly-august-11a12-2017-unite-t.md) _2017-12-19 07:30:06 (Update)_
+1. [Charlottesville Police Chief Alfred Thomas announces his immediate retirement. The 220-page report on the deadly August 11-12, 2017, Unite the Right rally was released on December 1. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-immediate-retirement-the-220-page-report-on-the-deadly-august-11a12-2017-unite.md) _2018-02-06 13:49:31 (First version)_
+2. [Charlottesville Police Chief Alfred Thomas announces his immediate retirement. A 220-page report on the deadly August 11-12, 2017, Unite the Right rally was released on December 1. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-immediate-retirement-a-220-page-report-on-the-deadly-august-11a12-2017-unite-t.md) _2018-02-06 13:49:31 (Update)_
 2. [Charlottesville Police Chief Alfred Thomas announces his retirement. He was previously criticized for his poor handling of the rally and counterprotests. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-retirement-he-was-previously-criticized-for-his-poor-handling-of-the-rally-and-cou.md) _(Current version)_
 
 ### Related:

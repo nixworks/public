@@ -20,7 +20,7 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 
 ### Changes:
 
-1. [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined -200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md) _2017-08-27 03:27:14 (First version)_
+1. [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined -200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md) _2018-02-06 13:49:19 (First version)_
 1. [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined EUR200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-a-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md) _(Current version)_
 
 ### Related:

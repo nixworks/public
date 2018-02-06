@@ -16,7 +16,7 @@ A fire at a karaoke bar killed 13 people and injured two police officers in the 
 
 ### Changes:
 
-1. [A fire at a karaoke bar in Hanoi's Cau Giay district kills 13 people. ](/news/2016/11/1/a-fire-at-a-karaoke-bar-in-hanoi-s-caossu-giaoy-y-district-kills-13-people.md) _2017-08-25 03:46:44 (First version)_
+1. [A fire at a karaoke bar in Hanoi's Cau Giay district kills 13 people. ](/news/2016/11/1/a-fire-at-a-karaoke-bar-in-hanoi-s-caossu-giaoy-y-district-kills-13-people.md) _2018-02-06 13:49:29 (First version)_
 1. [A fire at a karaoke bar in Hanoi's Cau GiCNYy district kills 13 people. ](/news/2016/11/1/a-fire-at-a-karaoke-bar-in-hanoi-s-caossu-giaocnyy-district-kills-13-people.md) _(Current version)_
 
 ### Related:

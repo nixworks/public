@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-it
 
 ### Changes:
 
-1. [The New York City Metropolitan Opera cancels its Saturday performances as a man, during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention. ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentifie.md) _2017-08-25 03:46:43 (First version)_
+1. [The New York City Metropolitan Opera cancels its Saturday performances as a man, during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention. ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentifie.md) _2018-02-06 13:49:29 (First version)_
 1. [The New York City Metropolitan Opera cancels its Saturday performances as a man, during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention. ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentified.md) _(Current version)_
 
 ### Related:

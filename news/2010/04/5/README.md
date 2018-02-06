@@ -9,19 +9,19 @@ Militants using a car bomb and firing weapons attacked the U.S. consulate in the
 
 ##### An explosion
 ### [An explosion at a coal mine in Raleigh County, West Virginia kills 25 miners and leaves several missing. This is the deadliest mining accident in the U.S. in at least 35 years. ](/news/2010/04/5/an-explosion-at-a-coal-mine-in-raleigh-county-west-virginia-kills-25-miners-and-leaves-several-missing-this-is-the-deadliest-mining-accide.md)
-_Context: coal mine, Raleigh County, An explosion, West Virginia_
+_Context: coal mine, An explosion, West Virginia, Raleigh County_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court declines to take up a case by residents of Bikini Atoll and Enewetak in the Marshall Islands, who are seeking compensation for U.S. nuclear tests conducted on the islands. ](/news/2010/04/5/the-united-states-supreme-court-declines-to-take-up-a-case-by-residents-of-bikini-atoll-and-enewetak-in-the-marshall-islands-who-are-seekin.md)
-_Context: Bikini Atoll, Marshall Islands, Enewetak, compensation, United States Supreme Court, U.S. nuclear tests_
+_Context: U.S. nuclear tests, Enewetak, Marshall Islands, compensation, United States Supreme Court, Bikini Atoll_
 
 ##### Wikileaks
 ### [Wikileaks releases a video from 2007 showing the killing of civilians, including two Reuters news staff, by the U.S. military in Baghdad, Iraq. ](/news/2010/04/5/wikileaks-releases-a-video-from-2007-showing-the-killing-of-civilians-including-two-reuters-news-staff-by-the-u-s-military-in-baghdad-ir.md)
-_Context: Wikileaks, United States armed forces, Iraq, Baghdad, Reuters, releases a video_
+_Context: United States armed forces, Wikileaks, releases a video, Iraq, Baghdad, Reuters_
 
 ##### Centers for Disease Control and Prevention
 ### [The Centers for Disease Control and Prevention is currently attempting to gauge the risk of the recently-discovered XMRV virus, linked to rare forms of prostate cancer and chronic fatigue syndrome, to the blood donation supply. ](/news/2010/04/5/the-centers-for-disease-control-and-prevention-is-currently-attempting-to-gauge-the-risk-of-the-recently-discovered-xmrv-virus-linked-to-ra.md)
-_Context: chronic fatigue syndrome, Centers for Disease Control and Prevention, XMRV, prostate cancer, blood donation_
+_Context: prostate cancer, chronic fatigue syndrome, XMRV, Centers for Disease Control and Prevention, blood donation_
 
 ##### Iran
 ### [Iran invites 60 countries to a two-day nuclear disarmament conference in Tehran on April 17&ndash;18, entitled "Nuclear energy for everyone, nuclear arms for no one". China says it will attend the conference which invites "the world to disarm and prevent proliferation". ](/news/2010/04/5/iran-invites-60-countries-to-a-two-day-nuclear-disarmament-conference-in-tehran-on-april-17-ndash-18-entitled-nuclear-energy-for-everyone.md)
@@ -33,7 +33,7 @@ Deaths follow clashes between government troops and tribal fighters in Mbandaka.
 
 ##### Duke Blue Devils
 ### [The Duke Blue Devils defeat the Butler Bulldogs, 61-59, to win their fourth U.S. men's college basketball title. ](/news/2010/04/5/the-duke-blue-devils-defeat-the-butler-bulldogs-61-59-to-win-their-fourth-u-s-men-s-college-basketball-title.md)
-_Context: U.S. men's college basketball title, Duke Blue Devils, Butler Bulldogs_
+_Context: U.S. men's college basketball title, Butler Bulldogs, Duke Blue Devils_
 
 ## [Previous Day...](/news/2010/04/4/index.md)
 

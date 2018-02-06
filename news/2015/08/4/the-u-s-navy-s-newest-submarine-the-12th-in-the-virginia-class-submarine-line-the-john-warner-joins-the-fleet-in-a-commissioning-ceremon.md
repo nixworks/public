@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-
 
 ### Changes:
 
-1. [The U.S. Navy's newest submarine, the 12th in the Virginia-class submarine line, the {{USS|John Warner}}, joins the fleet in a commissioning ceremony at Norfolk Naval Station in Norfolk, Virginia. ](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-virginia-class-submarine-line-the-uss-john-warner-joins-the-fleet-in-a-commissioning.md) _2017-05-01 03:46:08 (First version)_
+1. [The U.S. Navy's newest submarine, the 12th in the Virginia-class submarine line, the {{USS|John Warner}}, joins the fleet in a commissioning ceremony at Norfolk Naval Station in Norfolk, Virginia. ](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-virginia-class-submarine-line-the-uss-john-warner-joins-the-fleet-in-a-commissioning.md) _2018-02-06 13:49:27 (First version)_
 1. [The U.S. Navy's newest submarine, the 12th in the Virginia-class submarine line, the John Warner, joins the fleet in a commissioning ceremony at Norfolk Naval Station in Norfolk, Virginia. ](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-virginia-class-submarine-line-the-john-warner-joins-the-fleet-in-a-commissioning-ceremon.md) _(Current version)_
 
 ### Related:

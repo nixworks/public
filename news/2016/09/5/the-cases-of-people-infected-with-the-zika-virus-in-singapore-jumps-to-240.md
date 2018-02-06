@@ -15,7 +15,7 @@ Singapore has added 91 new Zika cases since Friday, with a possible new cluster 
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The cases of people infected with the Zika virus in Singapore jumps to 240+. ](/news/2016/09/5/2015-16-zika-virus-epidemic-the-cases-of-people-infected-with-the-zika-virus-in-singapore-jumps-to-240.md) _2017-08-27 03:46:46 (First version)_
+1. [2015-16 Zika virus epidemic: The cases of people infected with the Zika virus in Singapore jumps to 240+. ](/news/2016/09/5/2015-16-zika-virus-epidemic-the-cases-of-people-infected-with-the-zika-virus-in-singapore-jumps-to-240.md) _2018-02-06 13:49:29 (First version)_
 1. [The cases of people infected with the Zika virus in Singapore jumps to 240+. ](/news/2016/09/5/the-cases-of-people-infected-with-the-zika-virus-in-singapore-jumps-to-240.md) _(Current version)_
 
 ### Related:

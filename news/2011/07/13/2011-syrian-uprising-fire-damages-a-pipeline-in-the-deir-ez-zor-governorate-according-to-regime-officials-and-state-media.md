@@ -20,8 +20,8 @@ Fire has damaged an oil pipeline in north-east Syria, the oil ministry says, tho
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/arab-spring-p2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md) _2017-08-25 03:33:46 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/arab-spring-2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md) _2017-08-27 03:33:54 (Update)_
+1. [Arab Spring:2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/arab-spring-p2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/arab-spring-2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md) _(Current version)_
 
 ### Related:

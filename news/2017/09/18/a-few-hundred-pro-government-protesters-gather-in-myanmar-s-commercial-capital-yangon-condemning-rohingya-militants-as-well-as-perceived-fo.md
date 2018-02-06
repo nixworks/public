@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-
 
 ### Changes:
 
-1. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md) _2017-09-26 03:53:38 (First version)_
+1. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md) _2018-02-06 13:49:31 (First version)_
 1. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.md) _(Current version)_
 
 ### Related:

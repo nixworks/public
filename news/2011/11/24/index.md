@@ -13,7 +13,7 @@ The decision by the government opens the door for Wal-Mart, Tesco, Ikea and othe
 
 ##### Speaker of the Australian House of Representatives
 ### [The Speaker of the Australian House of Representatives Harry Jenkins resigns to be replaced by Opposition MP Peter Slipper. ](/news/2011/11/24/the-speaker-of-the-australian-house-of-representatives-harry-jenkins-resigns-to-be-replaced-by-opposition-mp-peter-slipper.md)
-_Context: Harry Jenkins, Peter Slipper, Speaker of the Australian House of Representatives_
+_Context: Peter Slipper, Harry Jenkins, Speaker of the Australian House of Representatives_
 
 ## [Previous Day...](/news/2011/11/23/index.md)
 

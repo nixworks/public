@@ -9,7 +9,7 @@ A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a lan
 
 ##### Apa
 ### [Apa, a Nepalese Sherpa mountain climber who already held the world record for summiting Mount Everest more than any other person, reaches the summit for the 20th time. ](/news/2010/05/22/apa-a-nepalese-sherpa-mountain-climber-who-already-held-the-world-record-for-summiting-mount-everest-more-than-any-other-person-reaches-th.md)
-_Context: Sherpa, Nepal, Apa, Mount Everest, mountain climber_
+_Context: Apa, mountain climber, Nepal, Sherpa, Mount Everest_
 
 ##### Cyclone Laila
 ### [The death toll of Cyclone Laila in Andhra Pradesh, the worst storm to hit the Indian state in 14 years, reaches 36. ](/news/2010/05/22/the-death-toll-of-cyclone-laila-in-andhra-pradesh-the-worst-storm-to-hit-the-indian-state-in-14-years-reaches-36.md)
@@ -57,7 +57,7 @@ _Context: Ariane 5_
 
 ##### 2010 UEFA Champions League Final
 ### [In the 2010 UEFA Champions League Final, Inter Milan defeats Bayern Munich 2-0, for their first major European title since 1965. ](/news/2010/05/22/in-the-2010-uefa-champions-league-final-inter-milan-defeats-bayern-munich-2a0-for-their-first-major-european-title-since-1965.md)
-_Context: 2010 UEFA Champions League Final, 1965, Inter Milan, Bayern Munich_
+_Context: Bayern Munich, 2010 UEFA Champions League Final, 1965, Inter Milan_
 
 ##### South Africa
 ### [More than 74,000 South African football fans attend the first match at Soccer City--venue for the 2010 FIFA World Cup Final--less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-cityavenue-for-the-2010-fifa-world-cup-finalaless-than-thr.md)
@@ -79,7 +79,7 @@ Everton&#039;s Shane Duffy is recovering from life-saving surgery after sufferin
 ### [Nicolaus Copernicus is disinterred from an unmarked grave and reburied by Poland. ](/news/2010/05/22/nicolaus-copernicus-is-disinterred-from-an-unmarked-grave-and-reburied-by-poland.md)
 _Context: Nicolaus Copernicus_
 
-##### British
+##### United Kingdom
 ### [A range of activities occur across the United Kingdom to mark the International Day for Biological Diversity. ](/news/2010/05/22/a-range-of-activities-occur-across-the-united-kingdom-to-mark-the-international-day-for-biological-diversity.md)
 A wide range of activities take place across the UK to celebrate International Day for Biological Diversity.
 

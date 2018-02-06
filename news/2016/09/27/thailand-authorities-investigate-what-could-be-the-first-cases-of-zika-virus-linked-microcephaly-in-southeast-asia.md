@@ -16,7 +16,7 @@ Thailand is investigating four suspected cases of Zika-related microcephaly in t
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Thailand authorities investigate what could be the first cases of Zika virus-linked microcephaly in Southeast Asia. ](/news/2016/09/27/2015-16-zika-virus-epidemic-thailand-authorities-investigate-what-could-be-the-first-cases-of-zika-virus-linked-microcephaly-in-southeast.md) _2017-08-27 03:46:54 (First version)_
+1. [2015-16 Zika virus epidemic: Thailand authorities investigate what could be the first cases of Zika virus-linked microcephaly in Southeast Asia. ](/news/2016/09/27/2015-16-zika-virus-epidemic-thailand-authorities-investigate-what-could-be-the-first-cases-of-zika-virus-linked-microcephaly-in-southeast.md) _2018-02-06 13:49:29 (First version)_
 1. [Thailand authorities investigate what could be the first cases of Zika virus-linked microcephaly in Southeast Asia. ](/news/2016/09/27/thailand-authorities-investigate-what-could-be-the-first-cases-of-zika-virus-linked-microcephaly-in-southeast-asia.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike
 
 ### Changes:
 
-1. [U.S. drone attacks on Pakistan:The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/u-s-drone-attacks-on-pakistan-pthe-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakista.md) _2017-08-25 03:38:56 (First version)_
-2. [U.S. drone attacks on Pakistan:: The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/u-s-drone-attacks-on-pakistan-the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakist.md) _2017-08-27 03:39:11 (Update)_
+1. [U.S. drone attacks on Pakistan:: The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/u-s-drone-attacks-on-pakistan-the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakist.md) _2018-02-06 13:49:25 (First version)_
+2. [U.S. drone attacks on Pakistan:The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/u-s-drone-attacks-on-pakistan-pthe-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakista.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakistan-rises-to-16.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Greek parliament approves motion to hold referendum on creditors&#39; fiscal ref
 
 ### Changes:
 
-1. [Greek economy referendum, 2015: The Hellenic Parliament approves the holding of a referendum on a proposed bailout on Sunday 5 July 2015. ](/news/2015/06/27/greek-economy-referendum-2015-the-hellenic-parliament-approves-the-holding-of-a-referendum-on-a-proposed-bailout-on-sunday-5-july-2015.md) _2017-08-27 03:42:36 (First version)_
+1. [Greek economy referendum, 2015: The Hellenic Parliament approves the holding of a referendum on a proposed bailout on Sunday 5 July 2015. ](/news/2015/06/27/greek-economy-referendum-2015-the-hellenic-parliament-approves-the-holding-of-a-referendum-on-a-proposed-bailout-on-sunday-5-july-2015.md) _2018-02-06 13:49:27 (First version)_
 1. [The Hellenic Parliament approves the holding of a referendum on a proposed bailout on Sunday 5 July 2015. ](/news/2015/06/27/the-hellenic-parliament-approves-the-holding-of-a-referendum-on-a-proposed-bailout-on-sunday-5-july-2015.md) _(Current version)_
 
 ### Related:

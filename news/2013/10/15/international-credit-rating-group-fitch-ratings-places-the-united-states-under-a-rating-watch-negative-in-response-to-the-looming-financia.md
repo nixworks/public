@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/10/15/international-credit-rating-group-fitch-ratings
 
 ### Changes:
 
-1. [United States debt-ceiling crisis of 2013:International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/united-states-debt-ceiling-crisis-of-2013-pinternational-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-ne.md) _2017-08-25 03:39:23 (First version)_
-2. [United States debt-ceiling crisis of 2013:: International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/united-states-debt-ceiling-crisis-of-2013-international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-n.md) _2017-08-27 03:39:40 (Update)_
+1. [United States debt-ceiling crisis of 2013:International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/united-states-debt-ceiling-crisis-of-2013-pinternational-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-ne.md) _2018-02-06 13:49:25 (First version)_
+2. [United States debt-ceiling crisis of 2013:: International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/united-states-debt-ceiling-crisis-of-2013-international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-n.md) _2018-02-06 13:49:25 (Update)_
 2. [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md) _(Current version)_
 
 ### Related:

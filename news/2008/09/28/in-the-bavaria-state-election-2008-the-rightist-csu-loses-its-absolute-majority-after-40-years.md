@@ -18,8 +18,8 @@ Formats: [HTML](/news/2008/09/28/in-the-bavaria-state-election-2008-the-rightist
 
 ### Changes:
 
-1. [ Elections In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. ](/news/2008/09/28/electionsp-in-the-bavaria-state-election-2008-the-rightist-csu-loses-its-absolute-majority-after-40-years.md) _2017-08-25 03:22:57 (First version)_
-2. [ Elections: In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. ](/news/2008/09/28/elections-in-the-bavaria-state-election-2008-the-rightist-csu-loses-its-absolute-majority-after-40-years.md) _2017-08-27 03:22:50 (Update)_
+1. [ Elections In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. ](/news/2008/09/28/electionsp-in-the-bavaria-state-election-2008-the-rightist-csu-loses-its-absolute-majority-after-40-years.md) _2018-02-06 13:49:18 (First version)_
+2. [ Elections: In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. ](/news/2008/09/28/elections-in-the-bavaria-state-election-2008-the-rightist-csu-loses-its-absolute-majority-after-40-years.md) _2018-02-06 13:49:18 (Update)_
 2. [ In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. ](/news/2008/09/28/in-the-bavaria-state-election-2008-the-rightist-csu-loses-its-absolute-majority-after-40-years.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Attacker flees scene as police begin searches; settler in Gush Etzion stabbed af
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): Israeli border police shoot dead a 17-year-old girl after she approached them with a knife in the southern West Bank city of Hebron. ](/news/2015/10/25/israeli-palestinian-conflict-2015-israeli-border-police-shoot-dead-a-17-year-old-girl-after-she-approached-them-with-a-knife-in-the-south.md) _2017-08-27 03:43:30 (First version)_
+1. [Israeli-Palestinian conflict (2015): Israeli border police shoot dead a 17-year-old girl after she approached them with a knife in the southern West Bank city of Hebron. ](/news/2015/10/25/israeli-palestinian-conflict-2015-israeli-border-police-shoot-dead-a-17-year-old-girl-after-she-approached-them-with-a-knife-in-the-south.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli border police shoot dead a 17-year-old girl after she approached them with a knife in the southern West Bank city of Hebron. ](/news/2015/10/25/israeli-border-police-shoot-dead-a-17-year-old-girl-after-she-approached-them-with-a-knife-in-the-southern-west-bank-city-of-hebron.md) _(Current version)_
 
 ### Related:

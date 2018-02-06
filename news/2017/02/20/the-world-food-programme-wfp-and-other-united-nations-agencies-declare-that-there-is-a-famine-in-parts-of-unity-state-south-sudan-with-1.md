@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/02/20/the-world-food-programme-wfp-and-other-united-n
 
 ### Changes:
 
-1. [2017 South Sudan famine: The World Food Programme (WFP) and other United Nations agencies declare that there is a famine in parts of Unity State, South Sudan, with 100,000 facing starvation and another million on the brink of famine. ](/news/2017/02/20/2017-south-sudan-famine-the-world-food-programme-wfp-and-other-united-nations-agencies-declare-that-there-is-a-famine-in-parts-of-unity-s.md) _2017-08-27 03:47:51 (First version)_
+1. [2017 South Sudan famine: The World Food Programme (WFP) and other United Nations agencies declare that there is a famine in parts of Unity State, South Sudan, with 100,000 facing starvation and another million on the brink of famine. ](/news/2017/02/20/2017-south-sudan-famine-the-world-food-programme-wfp-and-other-united-nations-agencies-declare-that-there-is-a-famine-in-parts-of-unity-s.md) _2018-02-06 13:49:30 (First version)_
 1. [The World Food Programme (WFP) and other United Nations agencies declare that there is a famine in parts of Unity State, South Sudan, with 100,000 facing starvation and another million on the brink of famine. ](/news/2017/02/20/the-world-food-programme-wfp-and-other-united-nations-agencies-declare-that-there-is-a-famine-in-parts-of-unity-state-south-sudan-with-1.md) _(Current version)_
 
 ### Related:

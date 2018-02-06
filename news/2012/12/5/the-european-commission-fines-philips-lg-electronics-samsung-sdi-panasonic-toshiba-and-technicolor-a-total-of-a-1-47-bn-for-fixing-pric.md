@@ -16,7 +16,7 @@ Two Panasonic joint ventures were also fined. Taiwanese firm Chunghwa Picture Tu
 
 ### Changes:
 
-1. [The European Commission fines Philips, LG Electronics, Samsung SDI, Panasonic, Toshiba and Technicolor a total of -1.47 bn for fixing prices of TV cathode-ray tubes. ](/news/2012/12/5/the-european-commission-fines-philips-lg-electronics-samsung-sdi-panasonic-toshiba-and-technicolor-a-total-of-1-47-bn-for-fixing-pric.md) _2017-08-27 03:37:06 (First version)_
+1. [The European Commission fines Philips, LG Electronics, Samsung SDI, Panasonic, Toshiba and Technicolor a total of -1.47 bn for fixing prices of TV cathode-ray tubes. ](/news/2012/12/5/the-european-commission-fines-philips-lg-electronics-samsung-sdi-panasonic-toshiba-and-technicolor-a-total-of-1-47-bn-for-fixing-pric.md) _2018-02-06 13:49:24 (First version)_
 1. [The European Commission fines Philips, LG Electronics, Samsung SDI, Panasonic, Toshiba and Technicolor a total of EUR1.47 bn for fixing prices of TV cathode-ray tubes. ](/news/2012/12/5/the-european-commission-fines-philips-lg-electronics-samsung-sdi-panasonic-toshiba-and-technicolor-a-total-of-a-1-47-bn-for-fixing-pric.md) _(Current version)_
 
 ### Related:

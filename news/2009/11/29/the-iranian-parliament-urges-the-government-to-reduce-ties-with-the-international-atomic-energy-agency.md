@@ -19,8 +19,8 @@ Formats: [HTML](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-
 
 ### Changes:
 
-1. [ Nuclear program of Iran: The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-p-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _2017-08-25 03:26:29 (First version)_
-2. [ Nuclear program of Iran:: The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _2017-08-27 03:26:22 (Update)_
+1. [ Nuclear program of Iran:: The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _2018-02-06 13:49:19 (First version)_
+2. [ Nuclear program of Iran: The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-p-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _2018-02-06 13:49:19 (Update)_
 2. [ The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md) _(Current version)_
 
 ### Related:

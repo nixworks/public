@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captur
 
 ### Changes:
 
-1. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' {{Interlanguage link multi|El Ouardia|fr}} neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-interlanguage-link-multi-el-ouardia-fr.md) _2017-05-01 03:42:23 (First version)_
-2. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia|fr neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-fr-neighbourhood.md) _2017-08-29 03:39:06 (Update)_
+1. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' {{Interlanguage link multi|El Ouardia|fr}} neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-interlanguage-link-multi-el-ouardia-fr.md) _2018-02-06 13:49:25 (First version)_
+2. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia|fr neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-fr-neighbourhood.md) _2018-02-06 13:49:25 (Update)_
 2. [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-neighbourhood.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhsta
 
 ### Changes:
 
-1. [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstan-china-oil-pipeline-connecting-central-asia-to-china.md) _2017-08-27 03:26:27 (First version)_
+1. [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstan-china-oil-pipeline-connecting-central-asia-to-china.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstanachina-oil-pipeline-connecting-central-asia-to-china.md) _(Current version)_
 
 ### Related:

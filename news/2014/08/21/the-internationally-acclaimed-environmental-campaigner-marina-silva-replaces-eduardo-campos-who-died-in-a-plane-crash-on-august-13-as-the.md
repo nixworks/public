@@ -16,7 +16,7 @@ The Brazilian Socialist Party names environmental campaigner Marina Silva as its
 
 ### Changes:
 
-1. [Brazilian presidential election, 2014: The internationally-acclaimed environmental campaigner Marina Silva replaces Eduardo Campos, who died in a plane crash on August 13, as the presidential candidate of the Brazilian Socialist Party, with polls suggesting she could surpass Aecio Neves in the first round and current president Dilma Rousseff in the second. ](/news/2014/08/21/brazilian-presidential-election-2014-the-internationally-acclaimed-environmental-campaigner-marina-silva-replaces-eduardo-campos-who-died.md) _2017-08-27 03:41:10 (First version)_
+1. [Brazilian presidential election, 2014: The internationally-acclaimed environmental campaigner Marina Silva replaces Eduardo Campos, who died in a plane crash on August 13, as the presidential candidate of the Brazilian Socialist Party, with polls suggesting she could surpass Aecio Neves in the first round and current president Dilma Rousseff in the second. ](/news/2014/08/21/brazilian-presidential-election-2014-the-internationally-acclaimed-environmental-campaigner-marina-silva-replaces-eduardo-campos-who-died.md) _2018-02-06 13:49:26 (First version)_
 1. [The internationally-acclaimed environmental campaigner Marina Silva replaces Eduardo Campos, who died in a plane crash on August 13, as the presidential candidate of the Brazilian Socialist Party, with polls suggesting she could surpass Aecio Neves in the first round and current president Dilma Rousseff in the second. ](/news/2014/08/21/the-internationally-acclaimed-environmental-campaigner-marina-silva-replaces-eduardo-campos-who-died-in-a-plane-crash-on-august-13-as-the.md) _(Current version)_
 
 ### Related:

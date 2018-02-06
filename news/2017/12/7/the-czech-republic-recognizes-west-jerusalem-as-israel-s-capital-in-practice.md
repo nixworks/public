@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-
 
 ### Changes:
 
-1. [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md) _2017-12-08 11:30:06 (First version)_
+1. [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md) _2018-02-06 13:49:31 (First version)_
 1. [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md) _(Current version)_
 
 ### Related:

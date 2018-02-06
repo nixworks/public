@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states
 
 ### Changes:
 
-1. [Iran-United States relations: Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-united-states-relations-iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-the.md) _2017-08-27 03:44:39 (First version)_
+1. [Iran-United States relations: Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-united-states-relations-iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-the.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md) _(Current version)_
 
 ### Related:

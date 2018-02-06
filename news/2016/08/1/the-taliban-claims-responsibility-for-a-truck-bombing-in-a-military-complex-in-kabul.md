@@ -16,7 +16,7 @@ A Taliban truck bomb exploded outside a protected hotel compound used by foreign
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban claims responsibility for a truck bombing in a military complex in Kabul. ](/news/2016/08/1/war-in-afghanistan-2015-present-the-taliban-claims-responsibility-for-a-truck-bombing-in-a-military-complex-in-kabul.md) _2017-08-27 03:46:35 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban claims responsibility for a truck bombing in a military complex in Kabul. ](/news/2016/08/1/war-in-afghanistan-2015-present-the-taliban-claims-responsibility-for-a-truck-bombing-in-a-military-complex-in-kabul.md) _2018-02-06 13:49:29 (First version)_
 1. [The Taliban claims responsibility for a truck bombing in a military complex in Kabul. ](/news/2016/08/1/the-taliban-claims-responsibility-for-a-truck-bombing-in-a-military-complex-in-kabul.md) _(Current version)_
 
 ### Related:

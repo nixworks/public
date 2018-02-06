@@ -17,7 +17,7 @@ Michigan must deliver bottled water or provide in-home filtration to all qualifi
 
 ### Changes:
 
-1. [Flint water crisis: A Federal appeals court upholds the November 10 lower court order that Michigan must deliver bottled water or provide in-home filtration to all qualified residents affected by lead contamination in the city of Flint. ](/news/2016/12/16/flint-water-crisis-a-federal-appeals-court-upholds-the-november-10-lower-court-order-that-michigan-must-deliver-bottled-water-or-provide-in.md) _2017-08-27 03:47:27 (First version)_
+1. [Flint water crisis: A Federal appeals court upholds the November 10 lower court order that Michigan must deliver bottled water or provide in-home filtration to all qualified residents affected by lead contamination in the city of Flint. ](/news/2016/12/16/flint-water-crisis-a-federal-appeals-court-upholds-the-november-10-lower-court-order-that-michigan-must-deliver-bottled-water-or-provide-in.md) _2018-02-06 13:49:29 (First version)_
 1. [A Federal appeals court upholds the November 10 lower court order that Michigan must deliver bottled water or provide in-home filtration to all qualified residents affected by lead contamination in the city of Flint. ](/news/2016/12/16/a-federal-appeals-court-upholds-the-november-10-lower-court-order-that-michigan-must-deliver-bottled-water-or-provide-in-home-filtration-to.md) _(Current version)_
 
 ### Related:

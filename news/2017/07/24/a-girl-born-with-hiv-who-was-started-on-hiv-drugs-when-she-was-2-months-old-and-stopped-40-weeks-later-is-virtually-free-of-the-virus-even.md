@@ -16,7 +16,7 @@ The case provides more evidence that early treatment can occasionally bring abou
 
 ### Changes:
 
-1. [Epidemiology of HIV-AIDS: A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. ](/news/2017/07/24/epidemiology-of-hiv-aids-a-girl-born-with-hiv-who-was-started-on-hiv-drugs-when-she-was-2-months-old-and-stopped-40-weeks-later-is-virtua.md) _2017-08-27 03:48:43 (First version)_
+1. [Epidemiology of HIV-AIDS: A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. ](/news/2017/07/24/epidemiology-of-hiv-aids-a-girl-born-with-hiv-who-was-started-on-hiv-drugs-when-she-was-2-months-old-and-stopped-40-weeks-later-is-virtua.md) _2018-02-06 13:49:30 (First version)_
 1. [A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. ](/news/2017/07/24/a-girl-born-with-hiv-who-was-started-on-hiv-drugs-when-she-was-2-months-old-and-stopped-40-weeks-later-is-virtually-free-of-the-virus-even.md) _(Current version)_
 
 ### Related:

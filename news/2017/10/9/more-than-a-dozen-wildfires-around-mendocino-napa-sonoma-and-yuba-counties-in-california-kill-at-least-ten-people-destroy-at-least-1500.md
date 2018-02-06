@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-nap
 
 ### Changes:
 
-1. [More than a dozen wildfires around Napa, Sonoma, and Yuba counties in California, kill one person, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-napa-sonoma-and-yuba-counties-in-california-kill-one-person-destroy-at-least-1500-homes-and-businesse.md) _2017-10-09 23:30:06 (First version)_
+1. [More than a dozen wildfires around Napa, Sonoma, and Yuba counties in California, kill one person, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-napa-sonoma-and-yuba-counties-in-california-kill-one-person-destroy-at-least-1500-homes-and-businesse.md) _2018-02-06 13:49:31 (First version)_
 1. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _(Current version)_
 
 ### Related:

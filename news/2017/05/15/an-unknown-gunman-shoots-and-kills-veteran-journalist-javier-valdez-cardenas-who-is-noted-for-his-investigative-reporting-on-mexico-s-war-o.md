@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-jour
 
 ### Changes:
 
-1. [An unknown gunman shoots and kills veteran journalist Javier Valdez Cardenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacan, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-ca-rdenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war.md) _2017-05-16 18:30:06 (First version)_
-2. [Mexican Drug War: An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/mexican-drug-war-an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting.md) _2017-08-27 03:48:20 (Update)_
+1. [Mexican Drug War: An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/mexican-drug-war-an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting.md) _2018-02-06 13:49:30 (First version)_
+2. [An unknown gunman shoots and kills veteran journalist Javier Valdez Cardenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacan, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-ca-rdenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war.md) _2018-02-06 13:49:30 (Update)_
 2. [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md) _(Current version)_
 
 ### Related:

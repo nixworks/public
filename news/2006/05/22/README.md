@@ -5,11 +5,11 @@ Formats: [HTML](2006/05/22/index.html)  [JSON](2006/05/22/index.json)  [XML](200
 
 ##### Prime Minister
 ### [ Prime Minister Tony Blair declares that British troops should be out of Iraq within four years. ](/news/2006/05/22/prime-minister-tony-blair-declares-that-british-troops-should-be-out-of-iraq-within-four-years.md)
-_Context: Tony Blair, U.S. presence in Iraq, British, Prime Minister_
+_Context: United Kingdom, Tony Blair, Prime Minister, U.S. presence in Iraq_
 
 ##### lawmakers
 ### [ U.S. congressman William J. Jefferson (D-La) refuses to resign, as he denies allegations of bribery after an FBI weekend raid of his office. ](/news/2006/05/22/u-s-congressman-william-j-jefferson-d-la-refuses-to-resign-as-he-denies-allegations-of-bribery-after-an-fbi-weekend-raid-of-his-office.md)
-_Context: bribes, lawmakers, William J. Jefferson, Louisiana, Democrat, FBI_
+_Context: Democrat, FBI, William J. Jefferson, bribes, lawmakers, Louisiana_
 
 ## [Previous Day...](/news/2006/05/21/index.md)
 

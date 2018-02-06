@@ -16,7 +16,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ### Changes:
 
-1. [ A shooting incident occurs at Hudson Valley Mall in upstate New York, north of New York City. Two people are injured. Local police believe that this is the work of a lone gunman and have a suspect in custody. ](/news/2005/02/13/a-shooting-incident-occurs-at-hudson-valley-mall-in-upstate-new-york-north-of-new-york-city-two-people-are-injured-local-police-believ.md) _2017-08-25 03:15:39 (First version)_
+1. [ A shooting incident occurs at Hudson Valley Mall in upstate New York, north of New York City. Two people are injured. Local police believe that this is the work of a lone gunman and have a suspect in custody. ](/news/2005/02/13/a-shooting-incident-occurs-at-hudson-valley-mall-in-upstate-new-york-north-of-new-york-city-two-people-are-injured-local-police-believ.md) _2018-02-06 13:49:16 (First version)_
 1. [ A shooting incident occurs at Hudson Valley Mall in upstate New York, north of New York City. Two people are injured. Local police believe that this is the work of a lone gunman and have a suspect in custody. ](/news/2005/02/13/a-shooting-incident-occurs-at-hudson-valley-mall-in-upstate-new-york-north-of-new-york-city-two-people-are-injured-local-police-believe.md) _(Current version)_
 
 ### Related:

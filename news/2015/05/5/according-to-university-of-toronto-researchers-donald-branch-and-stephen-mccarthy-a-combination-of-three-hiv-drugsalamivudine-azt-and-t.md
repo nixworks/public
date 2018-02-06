@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/5/according-to-university-of-toronto-researchers-d
 
 ### Changes:
 
-1. [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs-lamivudine, AZT, and tenofovir-shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugs-lamivudine-azt-and-t.md) _2017-08-27 03:42:16 (First version)_
+1. [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs-lamivudine, AZT, and tenofovir-shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugs-lamivudine-azt-and-t.md) _2018-02-06 13:49:27 (First version)_
 1. [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs--lamivudine, AZT, and tenofovir--shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugsalamivudine-azt-and-t.md) _(Current version)_
 
 ### Related:

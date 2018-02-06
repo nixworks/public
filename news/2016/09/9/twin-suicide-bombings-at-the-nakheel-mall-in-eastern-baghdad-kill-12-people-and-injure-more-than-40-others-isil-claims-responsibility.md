@@ -16,7 +16,7 @@ Twelve people were killed late on Friday in two suicide bombings claimed by Isla
 
 ### Changes:
 
-1. [Iraqi civil war: Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/iraqi-civil-war-twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-res.md) _2017-08-27 03:46:48 (First version)_
+1. [Iraqi civil war: Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/iraqi-civil-war-twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-res.md) _2018-02-06 13:49:29 (First version)_
 1. [Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md) _(Current version)_
 
 ### Related:

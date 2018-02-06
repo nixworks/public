@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened
 
 ### Changes:
 
-1. [Hillary Clinton releases the book "What Happened", a memoir about her failed presidential campaign. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-failed-presidential-campaign.md) _2017-09-13 07:30:05 (First version)_
-2. [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Hillary has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-hillary-has-implied-that-she-may-no.md) _2017-09-13 14:30:04 (Update)_
+1. [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Hillary has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-hillary-has-implied-that-she-may-no.md) _2018-02-06 13:49:31 (First version)_
+2. [Hillary Clinton releases the book "What Happened", a memoir about her failed presidential campaign. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-failed-presidential-campaign.md) _2018-02-06 13:49:31 (Update)_
 2. [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md) _(Current version)_
 
 ### Related:

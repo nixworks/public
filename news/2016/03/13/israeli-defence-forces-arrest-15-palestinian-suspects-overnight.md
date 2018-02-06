@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/13/israeli-defence-forces-arrest-15-palestinian-su
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli Defence Forces arrest 15 Palestinian suspects overnight. ](/news/2016/03/13/israeli-palestinian-conflict-israeli-defence-forces-arrest-15-palestinian-suspects-overnight.md) _2017-08-27 03:45:14 (First version)_
+1. [Israeli-Palestinian conflict: Israeli Defence Forces arrest 15 Palestinian suspects overnight. ](/news/2016/03/13/israeli-palestinian-conflict-israeli-defence-forces-arrest-15-palestinian-suspects-overnight.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli Defence Forces arrest 15 Palestinian suspects overnight. ](/news/2016/03/13/israeli-defence-forces-arrest-15-palestinian-suspects-overnight.md) _(Current version)_
 
 ### Related:

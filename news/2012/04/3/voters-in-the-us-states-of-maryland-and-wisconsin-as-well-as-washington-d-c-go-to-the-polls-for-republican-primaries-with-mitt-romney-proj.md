@@ -19,8 +19,8 @@ Mitt Romney wins in the politically significant state of Wisconsin, as well as i
 
 ### Changes:
 
-1. [United States Presidential election:Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-pvoters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repub.md) _2017-08-25 03:35:25 (First version)_
-2. [United States Presidential election:: Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repu.md) _2017-08-27 03:35:34 (Update)_
+1. [United States Presidential election:: Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repu.md) _2018-02-06 13:49:23 (First version)_
+2. [United States Presidential election:Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-pvoters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repub.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-republican-primaries-with-mitt-romney-proj.md) _(Current version)_
 
 ### Related:

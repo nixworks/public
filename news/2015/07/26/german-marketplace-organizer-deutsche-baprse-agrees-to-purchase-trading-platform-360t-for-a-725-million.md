@@ -16,7 +16,7 @@ Deutsche Börse said it is buying over-the-counter trading platform 360T for $79
 
 ### Changes:
 
-1. [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for -725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-725-million.md) _2017-08-27 03:42:45 (First version)_
+1. [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for -725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-725-million.md) _2018-02-06 13:49:27 (First version)_
 1. [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.md) _(Current version)_
 
 ### Related:

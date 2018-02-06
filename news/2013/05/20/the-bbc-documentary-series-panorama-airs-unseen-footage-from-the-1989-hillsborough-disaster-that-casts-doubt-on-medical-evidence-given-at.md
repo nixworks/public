@@ -16,7 +16,7 @@ Crucial evidence from the 1989 Hillsborough football disaster, which was undermi
 
 ### Changes:
 
-1. [The BBC documentary series ''Panorama'' airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-a.md) _2017-08-25 03:38:41 (First version)_
+1. [The BBC documentary series ''Panorama'' airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-a.md) _2018-02-06 13:49:24 (First version)_
 1. [The BBC documentary series "Panorama" airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-at.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/03/12/israel-ground-troops-invade-the-west-bank-and-g
 
 ### Changes:
 
-1. [Israel ground troops invade the West Bank and Gaza Strip in her largest offensive since the 1982 invasion of Lebanon. Dozens of tanks occupy Ramallah. Thirty-seven total dead so far, Israeli and Palestinian.](/news/2002/03/12/israel-ground-troops-invade-the-west-bank-and-gaza-strip-in-her-largest-offensive-since-the-1982-invasion-of-lebanon-dozens-of-tanks-occup.md) _2017-08-25 03:15:12 (First version)_
+1. [Israel ground troops invade the West Bank and Gaza Strip in her largest offensive since the 1982 invasion of Lebanon. Dozens of tanks occupy Ramallah. Thirty-seven total dead so far, Israeli and Palestinian.](/news/2002/03/12/israel-ground-troops-invade-the-west-bank-and-gaza-strip-in-her-largest-offensive-since-the-1982-invasion-of-lebanon-dozens-of-tanks-occup.md) _2018-02-06 13:49:15 (First version)_
 1. [Israel ground troops invade the West Bank and Gaza Strip in her largest offensive since the 1982 invasion of Lebanon. Dozens of tanks occupy Ramallah. Thirty-seven total dead so far, Israeli and Palestinian.](/news/2002/03/12/israel-ground-troops-invade-the-west-bank-and-gaza-strip-in-her-largest-offensive-since-the-1982-invasion-of-lebanon-dozens-of-tanks-occupy.md) _(Current version)_
 
 ### Related:

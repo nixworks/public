@@ -16,7 +16,7 @@ FEMA extended its federal disaster declaration in the wake of the Flint water cr
 
 ### Changes:
 
-1. [Flint water crisis: The U.S. Federal Emergency Management Agency extends the federal disaster declaration for Flint, Michigan, so water deliveries can continue through mid-August. ](/news/2016/03/26/flint-water-crisis-the-u-s-federal-emergency-management-agency-extends-the-federal-disaster-declaration-for-flint-michigan-so-water-deli.md) _2017-08-27 03:45:22 (First version)_
+1. [Flint water crisis: The U.S. Federal Emergency Management Agency extends the federal disaster declaration for Flint, Michigan, so water deliveries can continue through mid-August. ](/news/2016/03/26/flint-water-crisis-the-u-s-federal-emergency-management-agency-extends-the-federal-disaster-declaration-for-flint-michigan-so-water-deli.md) _2018-02-06 13:49:28 (First version)_
 1. [ The U.S. Federal Emergency Management Agency extends the federal disaster declaration for Flint, Michigan, so water deliveries can continue through mid-August. ](/news/2016/03/26/the-u-s-federal-emergency-management-agency-extends-the-federal-disaster-declaration-for-flint-michigan-so-water-deliveries-can-continue.md) _(Current version)_
 
 ### Related:

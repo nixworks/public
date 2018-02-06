@@ -19,8 +19,8 @@ Al Jazeera demands information from Syria on whereabouts of journalist missing s
 
 ### Changes:
 
-1. [Syrian civil war:Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/syrian-civil-war-phundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozens.md) _2017-08-25 03:32:57 (First version)_
-2. [Syrian civil war:: Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/syrian-civil-war-hundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozen.md) _2017-08-27 03:33:07 (Update)_
+1. [Syrian civil war:Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/syrian-civil-war-phundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozens.md) _2018-02-06 13:49:22 (First version)_
+2. [Syrian civil war:: Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/syrian-civil-war-hundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozen.md) _2018-02-06 13:49:22 (Update)_
 2. [Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/hundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozens-were-killed-in-we.md) _(Current version)_
 
 ### Related:

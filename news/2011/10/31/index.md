@@ -9,11 +9,11 @@ _Context: Afghanistan, Kandahar_
 
 ##### Australia
 ### [Australian airline Qantas resumes flights after a ruling by Fair Work Australia. ](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.md)
-_Context: Fair Work Australia, Qantas, Australia_
+_Context: Qantas, Fair Work Australia, Australia_
 
 ##### Japanese government
 ### [The Government of Japan intervenes to reduce the exchange rate of the Japanese yen with the United States dollar after the yen reached record highs. ](/news/2011/10/31/the-government-of-japan-intervenes-to-reduce-the-exchange-rate-of-the-japanese-yen-with-the-united-states-dollar-after-the-yen-reached-recor.md)
-_Context: Japanese government, yen, $, exchange rate_
+_Context: $, Japanese government, exchange rate, yen_
 
 ##### United States
 ### [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring GBP4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-gbp4bn-of-eurozone-debt-exposure.md)
@@ -21,11 +21,11 @@ US brokerage firm MF Global files for bankruptcy protection after revealing £4b
 
 ##### UNESCO
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)
-_Context: United Nations, United States, UNESCO, Palestine_
+_Context: United States, United Nations, Palestine, UNESCO_
 
 ##### Arizona
 ### [A jury in the US state of Arizona convicts Mark Goodeau on all charges related to the Baseline Killer murders. ](/news/2011/10/31/a-jury-in-the-us-state-of-arizona-convicts-mark-goodeau-on-all-charges-related-to-the-baseline-killer-murders.md)
-_Context: Baseline Killer, Arizona_
+_Context: Arizona, Baseline Killer_
 
 ##### Kizza Besigye
 ### [Kizza Besigye, the leader of Uganda's political opposition, is arrested while leading a "walk to work" protest. ](/news/2011/10/31/kizza-besigye-the-leader-of-uganda-s-political-opposition-is-arrested-while-leading-a-walk-to-work-protest.md)
@@ -33,15 +33,15 @@ _Context: Uganda, Kizza Besigye_
 
 ##### Graeme Knowles
 ### [The Rt Rev Graeme Knowles resigns as Dean of London's St Paul's Cathedral as protests by Occupy London demonstrators continue. ](/news/2011/10/31/the-rt-rev-graeme-knowles-resigns-as-dean-of-london-s-st-paul-s-cathedral-as-protests-by-occupy-london-demonstrators-continue.md)
-_Context: Occupy London, Dean, St Paul's Cathedral, Graeme Knowles, London_
+_Context: St Paul's Cathedral, Occupy London, London, Dean, Graeme Knowles_
 
 ##### Abdurrahim El-Keib
 ### [Abdurrahim El-Keib is named as the new interim Prime Minister of Libya by the country's National Transitional Council. ](/news/2011/10/31/abdurrahim-el-keib-is-named-as-the-new-interim-prime-minister-of-libya-by-the-country-s-national-transitional-council.md)
-_Context: Abdurrahim El-Keib, Libyan Prime Minister, National Transitional Council_
+_Context: Abdurrahim El-Keib, National Transitional Council, Libyan Prime Minister_
 
 ##### Greek Prime Minister
 ### [The Prime Minister of Greece George Papandreou calls a referendum on the new European Union debt deal. ](/news/2011/10/31/the-prime-minister-of-greece-george-papandreou-calls-a-referendum-on-the-new-european-union-debt-deal.md)
-_Context: George Papandreou, Greek Prime Minister, referendum, European Union_
+_Context: Greek Prime Minister, George Papandreou, European Union, referendum_
 
 ##### United Nations Population Division
 ### [The United Nations Population Division estimates that the world population has reached seven billion people. ](/news/2011/10/31/the-united-nations-population-division-estimates-that-the-world-population-has-reached-seven-billion-people.md)

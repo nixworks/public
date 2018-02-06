@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/20/an-antonov-an-26-of-south-supreme-airlines-cras
 
 ### Changes:
 
-1. [2017 South Supreme Airlines Antonov An-26 crash: An Antonov An-26 of South Supreme Airlines crashes upon landing at Wau Airport, South Sudan, the 43 people on board survived. ](/news/2017/03/20/2017-south-supreme-airlines-antonov-an-26-crash-an-antonov-an-26-of-south-supreme-airlines-crashes-upon-landing-at-wau-airport-south-sudan.md) _2017-08-27 03:48:00 (First version)_
+1. [2017 South Supreme Airlines Antonov An-26 crash: An Antonov An-26 of South Supreme Airlines crashes upon landing at Wau Airport, South Sudan, the 43 people on board survived. ](/news/2017/03/20/2017-south-supreme-airlines-antonov-an-26-crash-an-antonov-an-26-of-south-supreme-airlines-crashes-upon-landing-at-wau-airport-south-sudan.md) _2018-02-06 13:49:30 (First version)_
 1. [An Antonov An-26 of South Supreme Airlines crashes upon landing at Wau Airport, South Sudan, the 43 people on board survived. ](/news/2017/03/20/an-antonov-an-26-of-south-supreme-airlines-crashes-upon-landing-at-wau-airport-south-sudan-the-43-people-on-board-survived.md) _(Current version)_
 
 ### Related:

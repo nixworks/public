@@ -17,7 +17,7 @@ Brazilian presidential candidate Eduardo Campos died Wednesday when his campaign
 
 ### Changes:
 
-1. [Governor Eduardo Campos, a candidate in the upcoming Brazilian presidential election, dies in a plane crash in Santos, Sao Paulo, together with six other people on board the aircraft. It also sparks a large fire ](/news/2014/08/13/governor-eduardo-campos-a-candidate-in-the-upcoming-brazilian-presidential-election-dies-in-a-plane-crash-in-santos-sapso-paulo-together.md) _2017-08-25 03:40:50 (First version)_
+1. [Governor Eduardo Campos, a candidate in the upcoming Brazilian presidential election, dies in a plane crash in Santos, Sao Paulo, together with six other people on board the aircraft. It also sparks a large fire ](/news/2014/08/13/governor-eduardo-campos-a-candidate-in-the-upcoming-brazilian-presidential-election-dies-in-a-plane-crash-in-santos-sapso-paulo-together.md) _2018-02-06 13:49:26 (First version)_
 1. [Governor Eduardo Campos, a candidate in the upcoming Brazilian presidential election, dies in a plane crash in Santos, SGBPo Paulo, together with six other people on board the aircraft. It also sparks a large fire ](/news/2014/08/13/governor-eduardo-campos-a-candidate-in-the-upcoming-brazilian-presidential-election-dies-in-a-plane-crash-in-santos-sagbpo-paulo-togethe.md) _(Current version)_
 
 ### Related:

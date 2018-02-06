@@ -15,7 +15,7 @@ President to be awarded the prize for his efforts to bring the country’s more 
 
 ### Changes:
 
-1. [2016 Nobel Peace Prize: Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/2016-nobel-peace-prize-colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md) _2017-08-27 03:47:25 (First version)_
+1. [2016 Nobel Peace Prize: Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/2016-nobel-peace-prize-colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md) _2018-02-06 13:49:29 (First version)_
 1. [Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md) _(Current version)_
 
 ### Related:

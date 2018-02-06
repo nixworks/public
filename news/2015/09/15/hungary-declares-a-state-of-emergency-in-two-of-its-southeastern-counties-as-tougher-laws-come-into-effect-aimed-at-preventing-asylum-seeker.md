@@ -17,7 +17,7 @@ Hungary declares a state of emergency in two southern counties as tough new laws
 
 ### Changes:
 
-1. [European migrant crisis: Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/european-migrant-crisis-hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at.md) _2017-08-27 03:43:03 (First version)_
+1. [European migrant crisis: Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/european-migrant-crisis-hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at.md) _2018-02-06 13:49:27 (First version)_
 1. [Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at-preventing-asylum-seeker.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-peop
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/iraqi-insurgency-post-u-s-withdrawal-attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targe.md) _2017-08-27 03:39:41 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/iraqi-insurgency-post-u-s-withdrawal-attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targe.md) _2018-02-06 13:49:25 (First version)_
 1. [Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targeting-at-least-15-members-of-the-country-s.md) _(Current version)_
 
 ### Related:

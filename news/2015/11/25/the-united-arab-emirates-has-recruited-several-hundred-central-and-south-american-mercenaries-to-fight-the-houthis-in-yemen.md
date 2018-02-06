@@ -16,7 +16,7 @@ The arrival in Yemen of 450 Latin American troops adds a volatile new element in
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): The United Arab Emirates has recruited several hundred Central and South American mercenaries to fight the Houthis in Yemen. ](/news/2015/11/25/yemeni-civil-war-2015-the-united-arab-emirates-has-recruited-several-hundred-central-and-south-american-mercenaries-to-fight-the-houthis.md) _2017-08-27 03:44:03 (First version)_
+1. [Yemeni Civil War (2015): The United Arab Emirates has recruited several hundred Central and South American mercenaries to fight the Houthis in Yemen. ](/news/2015/11/25/yemeni-civil-war-2015-the-united-arab-emirates-has-recruited-several-hundred-central-and-south-american-mercenaries-to-fight-the-houthis.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Arab Emirates has recruited several hundred Central and South American mercenaries to fight the Houthis in Yemen. ](/news/2015/11/25/the-united-arab-emirates-has-recruited-several-hundred-central-and-south-american-mercenaries-to-fight-the-houthis-in-yemen.md) _(Current version)_
 
 ### Related:

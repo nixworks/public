@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/29/at-least-one-rocket-is-intercepted-over-ashdod-
 
 ### Changes:
 
-1. [Gaza-Israel conflict: At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/gaza-israel-conflict-at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have.md) _2017-08-27 03:43:11 (First version)_
+1. [Gaza-Israel conflict: At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/gaza-israel-conflict-at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have.md) _2018-02-06 13:49:27 (First version)_
 1. [At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have-come-from-the-gaza-stri.md) _(Current version)_
 
 ### Related:

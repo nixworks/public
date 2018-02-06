@@ -16,7 +16,7 @@ At least 13 people have been killed and 34 others wounded when police fought a b
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: At least 13 people are dead and 34 injured after Boko Haram gunmen attack a government college in the northern Nigerian city of Kano. ](/news/2014/09/17/islamist-insurgency-in-nigeria-at-least-13-people-are-dead-and-34-injured-after-boko-haram-gunmen-attack-a-government-college-in-the-northe.md) _2017-08-27 03:41:17 (First version)_
+1. [Islamist insurgency in Nigeria: At least 13 people are dead and 34 injured after Boko Haram gunmen attack a government college in the northern Nigerian city of Kano. ](/news/2014/09/17/islamist-insurgency-in-nigeria-at-least-13-people-are-dead-and-34-injured-after-boko-haram-gunmen-attack-a-government-college-in-the-northe.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 13 people are dead and 34 injured after Boko Haram gunmen attack a government college in the northern Nigerian city of Kano. ](/news/2014/09/17/at-least-13-people-are-dead-and-34-injured-after-boko-haram-gunmen-attack-a-government-college-in-the-northern-nigerian-city-of-kano.md) _(Current version)_
 
 ### Related:

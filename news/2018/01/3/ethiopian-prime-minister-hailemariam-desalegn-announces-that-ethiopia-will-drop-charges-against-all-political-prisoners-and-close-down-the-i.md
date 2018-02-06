@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-an
 
 ### Changes:
 
-1. [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-infamous.md) _2018-01-03 17:30:06 (First version)_
-2. [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-infa.md) _2018-01-03 18:30:06 (Update)_
+1. [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-infa.md) _2018-02-06 13:49:31 (First version)_
+2. [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-infamous.md) _2018-02-06 13:49:31 (Update)_
 2. [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Typhoon Vongfong in the Western Pacific rapidly strengthened overnight into the 
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/2014-pacific-typhoon-season-supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md) _2017-08-27 03:41:22 (First version)_
+1. [2014 Pacific typhoon season: Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/2014-pacific-typhoon-season-supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md) _2018-02-06 13:49:26 (First version)_
 1. [Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md) _(Current version)_
 
 ### Related:

@@ -20,7 +20,7 @@ Senior Syrian officials are to face targeted European Union sanctions and travel
 
 ### Changes:
 
-1. [Syrian protests: Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-protests-syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-un.md) _2017-08-27 03:33:08 (First version)_
+1. [Syrian protests: Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-protests-syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-un.md) _2018-02-06 13:49:22 (First version)_
 1. [Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-under-the-control-o.md) _(Current version)_
 
 ### Related:

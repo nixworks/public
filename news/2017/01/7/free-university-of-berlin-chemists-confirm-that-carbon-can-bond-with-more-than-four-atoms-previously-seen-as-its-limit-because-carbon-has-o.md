@@ -17,7 +17,7 @@ This molecule doesn&#039;t play by the rules.
 
 ### Changes:
 
-1. [Free University of Berlin chemists confirm that carbon can bond with more than four atoms, previously seen as its limit because carbon has only four shareable electrons. The researchers used X-rays to, for the first time, map the molecule -- a carbon atom bonded to six other carbon atoms. ](/news/2017/01/7/free-university-of-berlin-chemists-confirm-that-carbon-can-bond-with-more-than-four-atoms-previously-seen-as-its-limit-because-carbon-has.md) _2017-08-25 03:47:10 (First version)_
+1. [Free University of Berlin chemists confirm that carbon can bond with more than four atoms, previously seen as its limit because carbon has only four shareable electrons. The researchers used X-rays to, for the first time, map the molecule -- a carbon atom bonded to six other carbon atoms. ](/news/2017/01/7/free-university-of-berlin-chemists-confirm-that-carbon-can-bond-with-more-than-four-atoms-previously-seen-as-its-limit-because-carbon-has.md) _2018-02-06 13:49:30 (First version)_
 1. [Free University of Berlin chemists confirm that carbon can bond with more than four atoms, previously seen as its limit because carbon has only four shareable electrons. The researchers used X-rays to, for the first time, map the molecule -- a carbon atom bonded to six other carbon atoms. ](/news/2017/01/7/free-university-of-berlin-chemists-confirm-that-carbon-can-bond-with-more-than-four-atoms-previously-seen-as-its-limit-because-carbon-has-o.md) _(Current version)_
 
 ### Related:

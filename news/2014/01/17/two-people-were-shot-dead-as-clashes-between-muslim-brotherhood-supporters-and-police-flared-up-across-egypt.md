@@ -16,8 +16,8 @@ At least four people were killed as clashes between Muslim Brotherhood supporter
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-ptwo-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md) _2017-08-25 03:39:53 (First version)_
-2. [Post-coup unrest in Egypt:: Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-two-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md) _2017-08-27 03:40:11 (Update)_
+1. [Post-coup unrest in Egypt:: Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-two-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-coup unrest in Egypt:Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-ptwo-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md) _2018-02-06 13:49:25 (Update)_
 2. [Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/two-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md) _(Current version)_
 
 ### Related:

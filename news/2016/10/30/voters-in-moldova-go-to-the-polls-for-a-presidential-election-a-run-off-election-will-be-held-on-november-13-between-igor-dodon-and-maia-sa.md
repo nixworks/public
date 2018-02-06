@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/30/voters-in-moldova-go-to-the-polls-for-a-preside
 
 ### Changes:
 
-1. [Moldovan presidential election, 2016: Voters in Moldova go to the polls for a presidential election. A run off election will be held on November 13 between Igor Dodon and Maia Sandu after no candidate achieved a majority of votes. ](/news/2016/10/30/moldovan-presidential-election-2016-voters-in-moldova-go-to-the-polls-for-a-presidential-election-a-run-off-election-will-be-held-on-nove.md) _2017-08-27 03:47:09 (First version)_
+1. [Moldovan presidential election, 2016: Voters in Moldova go to the polls for a presidential election. A run off election will be held on November 13 between Igor Dodon and Maia Sandu after no candidate achieved a majority of votes. ](/news/2016/10/30/moldovan-presidential-election-2016-voters-in-moldova-go-to-the-polls-for-a-presidential-election-a-run-off-election-will-be-held-on-nove.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Moldova go to the polls for a presidential election. A run off election will be held on November 13 between Igor Dodon and Maia Sandu after no candidate achieved a majority of votes. ](/news/2016/10/30/voters-in-moldova-go-to-the-polls-for-a-presidential-election-a-run-off-election-will-be-held-on-november-13-between-igor-dodon-and-maia-sa.md) _(Current version)_
 
 ### Related:

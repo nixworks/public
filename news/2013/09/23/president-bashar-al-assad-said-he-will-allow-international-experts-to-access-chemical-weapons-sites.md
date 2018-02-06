@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/23/president-bashar-al-assad-said-he-will-allow-in
 
 ### Changes:
 
-1. [Syrian civil war:President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-ppresident-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md) _2017-08-25 03:39:19 (First version)_
-2. [Syrian civil war:: President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md) _2017-08-27 03:39:35 (Update)_
+1. [Syrian civil war:: President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-ppresident-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md) _2018-02-06 13:49:25 (Update)_
 2. [President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md) _(Current version)_
 
 ### Related:

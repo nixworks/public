@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/12/the-parliament-of-burundi-votes-overwhelmingly-
 
 ### Changes:
 
-1. [Foreign relations of Burundi: The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. ](/news/2016/10/12/foreign-relations-of-burundi-the-parliament-of-burundi-votes-overwhelmingly-to-withdraw-burundi-from-the-dutch-based-international-criminal.md) _2017-08-27 03:47:01 (First version)_
+1. [Foreign relations of Burundi: The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. ](/news/2016/10/12/foreign-relations-of-burundi-the-parliament-of-burundi-votes-overwhelmingly-to-withdraw-burundi-from-the-dutch-based-international-criminal.md) _2018-02-06 13:49:29 (First version)_
 1. [The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. ](/news/2016/10/12/the-parliament-of-burundi-votes-overwhelmingly-to-withdraw-burundi-from-the-dutch-based-international-criminal-court.md) _(Current version)_
 
 ### Related:

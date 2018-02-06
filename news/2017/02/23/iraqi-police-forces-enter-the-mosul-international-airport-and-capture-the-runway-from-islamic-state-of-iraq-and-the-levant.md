@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/23/iraqi-police-forces-enter-the-mosul-internation
 
 ### Changes:
 
-1. [Battle of Mosul (2016-17): Iraqi Police forces enter the Mosul International Airport and capture the runway from Islamic State of Iraq and the Levant. ](/news/2017/02/23/battle-of-mosul-2016-17-iraqi-police-forces-enter-the-mosul-international-airport-and-capture-the-runway-from-islamic-state-of-iraq-and.md) _2017-08-27 03:47:53 (First version)_
+1. [Battle of Mosul (2016-17): Iraqi Police forces enter the Mosul International Airport and capture the runway from Islamic State of Iraq and the Levant. ](/news/2017/02/23/battle-of-mosul-2016-17-iraqi-police-forces-enter-the-mosul-international-airport-and-capture-the-runway-from-islamic-state-of-iraq-and.md) _2018-02-06 13:49:30 (First version)_
 1. [Iraqi Police forces enter the Mosul International Airport and capture the runway from Islamic State of Iraq and the Levant. ](/news/2017/02/23/iraqi-police-forces-enter-the-mosul-international-airport-and-capture-the-runway-from-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

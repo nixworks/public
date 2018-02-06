@@ -15,8 +15,8 @@ Formats: [HTML](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-k
 
 ### Changes:
 
-1. [ Soyuz TMA-10 lands safely outside Arkalyk, {{convert|340|km|mi|sp=us}} short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-convert-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-g.md) _2017-05-01 03:22:06 (First version)_
-2. [ Soyuz TMA-10 lands safely outside Arkalyk, 340|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md) _2017-08-29 03:21:19 (Update)_
+1. [ Soyuz TMA-10 lands safely outside Arkalyk, {{convert|340|km|mi|sp=us}} short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-convert-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-g.md) _2018-02-06 13:49:18 (First version)_
+2. [ Soyuz TMA-10 lands safely outside Arkalyk, 340|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md) _2018-02-06 13:49:18 (Update)_
 2. [ Soyuz TMA-10 lands safely outside Arkalyk, 340 km short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md) _(Current version)_
 
 ### Related:

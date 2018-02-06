@@ -16,8 +16,8 @@ Gaza&#8217;s rulers deny responsibility for Friday&#8217;s attack and say they a
 
 ### Changes:
 
-1. [Gaza-Israel conflict:Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/gaza-israel-conflict-phamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _2017-08-25 03:41:09 (First version)_
-2. [Gaza-Israel conflict:: Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/gaza-israel-conflict-hamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _2017-08-27 03:41:28 (Update)_
+1. [Gaza-Israel conflict:Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/gaza-israel-conflict-phamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _2018-02-06 13:49:26 (First version)_
+2. [Gaza-Israel conflict:: Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/gaza-israel-conflict-hamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _2018-02-06 13:49:26 (Update)_
 2. [Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/hamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _(Current version)_
 
 ### Related:

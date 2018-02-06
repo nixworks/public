@@ -16,7 +16,7 @@ Islamist militants in the Philippines have executed a German who survived being 
 
 ### Changes:
 
-1. [Moro conflict: The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/moro-conflict-the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _2017-08-27 03:47:54 (First version)_
+1. [Moro conflict: The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/moro-conflict-the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _2018-02-06 13:49:30 (First version)_
 1. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _(Current version)_
 
 ### Related:

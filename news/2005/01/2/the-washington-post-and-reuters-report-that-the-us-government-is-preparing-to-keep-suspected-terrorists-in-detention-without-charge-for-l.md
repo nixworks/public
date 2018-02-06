@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/01/2/the-washington-post-and-reuters-report-that-the-
 
 ### Changes:
 
-1. [ The ''Washington Post'' and Reuters report that the US government is preparing to keep suspected terrorists in detention without charge for life. ](/news/2005/01/2/the-washington-post-and-reuters-report-that-the-us-government-is-preparing-to-keep-suspected-terrorists-in-detention-without-charge-for.md) _2017-08-25 03:15:29 (First version)_
+1. [ The ''Washington Post'' and Reuters report that the US government is preparing to keep suspected terrorists in detention without charge for life. ](/news/2005/01/2/the-washington-post-and-reuters-report-that-the-us-government-is-preparing-to-keep-suspected-terrorists-in-detention-without-charge-for.md) _2018-02-06 13:49:16 (First version)_
 1. [ The "Washington Post" and Reuters report that the US government is preparing to keep suspected terrorists in detention without charge for life. ](/news/2005/01/2/the-washington-post-and-reuters-report-that-the-us-government-is-preparing-to-keep-suspected-terrorists-in-detention-without-charge-for-l.md) _(Current version)_
 
 ### Related:

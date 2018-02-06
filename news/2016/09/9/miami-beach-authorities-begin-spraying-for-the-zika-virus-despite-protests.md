@@ -16,7 +16,7 @@ The spraying had been delayed a day after worried and angry residents complained
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/2015-16-zika-virus-epidemic-miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _2017-08-27 03:46:49 (First version)_
+1. [2015-16 Zika virus epidemic: Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/2015-16-zika-virus-epidemic-miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _2018-02-06 13:49:29 (First version)_
 1. [Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _(Current version)_
 
 ### Related:

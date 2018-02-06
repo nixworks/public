@@ -18,7 +18,7 @@ The phone-hacking story took a new and dramatic turn yesterday as a former journ
 
 ### Changes:
 
-1. [News International phone hacking scandal: Claims of phone hacking at the "Daily Mirror" and other Trinity Mirror publications are made by former "Mirror" journalist James Hipwell. ](/news/2011/07/23/news-international-phone-hacking-scandal-claims-of-phone-hacking-at-the-daily-mirror-and-other-trinity-mirror-publications-are-made-by-fo.md) _2017-08-27 03:33:59 (First version)_
+1. [News International phone hacking scandal: Claims of phone hacking at the "Daily Mirror" and other Trinity Mirror publications are made by former "Mirror" journalist James Hipwell. ](/news/2011/07/23/news-international-phone-hacking-scandal-claims-of-phone-hacking-at-the-daily-mirror-and-other-trinity-mirror-publications-are-made-by-fo.md) _2018-02-06 13:49:22 (First version)_
 1. [Claims of phone hacking at the "Daily Mirror" and other Trinity Mirror publications are made by former "Mirror" journalist James Hipwell. ](/news/2011/07/23/claims-of-phone-hacking-at-the-daily-mirror-and-other-trinity-mirror-publications-are-made-by-former-mirror-journalist-james-hipwell.md) _(Current version)_
 
 ### Related:

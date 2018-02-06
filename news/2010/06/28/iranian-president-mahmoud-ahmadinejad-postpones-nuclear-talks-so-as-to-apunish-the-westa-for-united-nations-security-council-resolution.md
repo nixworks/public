@@ -18,7 +18,7 @@ Ahmadinejad says negotiations over nuclear programme will resume only in late Au
 
 ### Changes:
 
-1. [Iranian President Mahmoud Ahmadinejad postpones nuclear talks so as to -punish the West- for United Nations Security Council Resolution 1929 aimed at curbing the alleged development of Iranian nuclear weapons. ](/news/2010/06/28/iranian-president-mahmoud-ahmadinejad-postpones-nuclear-talks-so-as-to-punish-the-west-for-united-nations-security-council-resolution.md) _2017-08-27 03:28:28 (First version)_
+1. [Iranian President Mahmoud Ahmadinejad postpones nuclear talks so as to -punish the West- for United Nations Security Council Resolution 1929 aimed at curbing the alleged development of Iranian nuclear weapons. ](/news/2010/06/28/iranian-president-mahmoud-ahmadinejad-postpones-nuclear-talks-so-as-to-punish-the-west-for-united-nations-security-council-resolution.md) _2018-02-06 13:49:20 (First version)_
 1. [Iranian President Mahmoud Ahmadinejad postpones nuclear talks so as to "punish the West" for United Nations Security Council Resolution 1929 aimed at curbing the alleged development of Iranian nuclear weapons. ](/news/2010/06/28/iranian-president-mahmoud-ahmadinejad-postpones-nuclear-talks-so-as-to-apunish-the-westa-for-united-nations-security-council-resolution.md) _(Current version)_
 
 ### Related:

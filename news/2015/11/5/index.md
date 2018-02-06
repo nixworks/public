@@ -35,7 +35,7 @@ The New York attorney general has launched an investigation into whether Exxon M
 ### [Belizean Prime Minister Dean Barrow wins a record third term in Wednesday's snap general election in the Central American nation as his United Democratic Party (UDP) gains a clear majority in parliament. The UDP won 19 constituencies and Francis Fonseca's People's United Party (PUP) took 10, with two constituencies yet to report. Belize is a parliamentary constitutional monarchy with Queen Elizabeth II, the symbolic head of state. ](/news/2015/11/5/belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-central-american-nation-as-his-unit.md)
 Belizean Prime Minister Dean Barrow won a record third term in a snap general election in the tiny English-speaking Central American country on Wednesday, after his party gained a clear majority in parliament.
 
-##### President
+##### President of the Maldives
 ### [The President of the Maldives, Abdulla Yameen, declares a state of emergency suspending civil rights and giving sweeping powers to security forces. ](/news/2015/11/5/the-president-of-the-maldives-abdulla-yameen-declares-a-state-of-emergency-suspending-civil-rights-and-giving-sweeping-powers-to-security.md)
 President’s decree suspends all basic rights and gives sweeping powers to security forces ahead of opposition protest rally
 

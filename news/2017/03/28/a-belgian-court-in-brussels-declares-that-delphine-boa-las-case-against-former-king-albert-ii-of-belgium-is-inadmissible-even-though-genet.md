@@ -16,7 +16,7 @@ Delphine Boël&#8217;s has been declared inadmissible by the Belgian Court in Br
 
 ### Changes:
 
-1. [A Belgian Court in Brussels declares that Delphine Boel-s case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-l-s-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md) _2017-08-27 03:48:04 (First version)_
+1. [A Belgian Court in Brussels declares that Delphine Boel-s case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-l-s-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md) _2018-02-06 13:49:30 (First version)_
 1. [A Belgian Court in Brussels declares that Delphine Boel's case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-las-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md) _(Current version)_
 
 ### Related:

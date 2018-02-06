@@ -16,7 +16,7 @@ A U.S. Air Force F-16 plane crashed during takeoff near Bagram Air Base in Afgha
 
 ### Changes:
 
-1. [A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan. The pilot ejected safely and was recovered by coalition forces, according to a U.S. military statement. ](/news/2016/03/29/a-united-states-air-force-f-16-crashes-during-takeoff-from-bagram-airfield-in-afghanistan-the-pilot-ejected-safely-and-was-recovered-by-co.md) _2017-08-25 03:45:03 (First version)_
+1. [A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan. The pilot ejected safely and was recovered by coalition forces, according to a U.S. military statement. ](/news/2016/03/29/a-united-states-air-force-f-16-crashes-during-takeoff-from-bagram-airfield-in-afghanistan-the-pilot-ejected-safely-and-was-recovered-by-co.md) _2018-02-06 13:49:28 (First version)_
 1. [A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan. The pilot ejected safely and was recovered by coalition forces, according to a U.S. military statement. ](/news/2016/03/29/a-united-states-air-force-f-16-crashes-during-takeoff-from-bagram-airfield-in-afghanistan-the-pilot-ejected-safely-and-was-recovered-by-coa.md) _(Current version)_
 
 ### Related:

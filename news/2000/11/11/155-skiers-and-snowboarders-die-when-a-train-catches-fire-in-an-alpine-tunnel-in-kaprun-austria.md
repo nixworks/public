@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/11/11/155-skiers-and-snowboarders-die-when-a-train-ca
 
 ### Changes:
 
-1. [Kaprun disaster: 155 skiers and snowboarders die when a train catches fire in an alpine tunnel in Kaprun, Austria](/news/2000/11/11/kaprun-disaster-155-skiers-and-snowboarders-die-when-a-train-catches-fire-in-an-alpine-tunnel-in-kaprun-austria.md) _2017-08-27 03:15:09 (First version)_
+1. [Kaprun disaster: 155 skiers and snowboarders die when a train catches fire in an alpine tunnel in Kaprun, Austria](/news/2000/11/11/kaprun-disaster-155-skiers-and-snowboarders-die-when-a-train-catches-fire-in-an-alpine-tunnel-in-kaprun-austria.md) _2018-02-06 13:49:15 (First version)_
 1. [155 skiers and snowboarders die when a train catches fire in an alpine tunnel in Kaprun, Austria](/news/2000/11/11/155-skiers-and-snowboarders-die-when-a-train-catches-fire-in-an-alpine-tunnel-in-kaprun-austria.md) _(Current version)_
 
 ### Related:

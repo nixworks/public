@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/02/3/war-in-chad-2005apresent-battles-rage-in-adra-c-
 
 ### Changes:
 
-1. [ War in Chad (2005-present): Battles rage in Adre near the Sudanese border. ](/news/2008/02/3/war-in-chad-2005-present-battles-rage-in-adra-c-near-the-sudanese-border.md) _2017-08-27 03:21:37 (First version)_
+1. [ War in Chad (2005-present): Battles rage in Adre near the Sudanese border. ](/news/2008/02/3/war-in-chad-2005-present-battles-rage-in-adra-c-near-the-sudanese-border.md) _2018-02-06 13:49:18 (First version)_
 1. [ War in Chad (2005-present): Battles rage in Adre near the Sudanese border. ](/news/2008/02/3/war-in-chad-2005apresent-battles-rage-in-adra-c-near-the-sudanese-border.md) _(Current version)_
 
 ### Related:

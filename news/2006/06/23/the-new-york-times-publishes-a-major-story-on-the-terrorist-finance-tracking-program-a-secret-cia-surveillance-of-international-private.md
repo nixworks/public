@@ -16,7 +16,7 @@ A secret program has given counterterrorism officials access to financial record
 
 ### Changes:
 
-1. [ ''The New York Times'' publishes a major story on the Terrorist Finance Tracking Program, a secret CIA surveillance of international private banking for the last five years via the Society for Worldwide Interbank Financial Telecommunication (SWIFT) and rejects government requests to withdraw it. ](/news/2006/06/23/the-new-york-times-publishes-a-major-story-on-the-terrorist-finance-tracking-program-a-secret-cia-surveillance-of-international-privat.md) _2017-08-25 03:17:49 (First version)_
+1. [ ''The New York Times'' publishes a major story on the Terrorist Finance Tracking Program, a secret CIA surveillance of international private banking for the last five years via the Society for Worldwide Interbank Financial Telecommunication (SWIFT) and rejects government requests to withdraw it. ](/news/2006/06/23/the-new-york-times-publishes-a-major-story-on-the-terrorist-finance-tracking-program-a-secret-cia-surveillance-of-international-privat.md) _2018-02-06 13:49:17 (First version)_
 1. [ "The New York Times" publishes a major story on the Terrorist Finance Tracking Program, a secret CIA surveillance of international private banking for the last five years via the Society for Worldwide Interbank Financial Telecommunication (SWIFT) and rejects government requests to withdraw it. ](/news/2006/06/23/the-new-york-times-publishes-a-major-story-on-the-terrorist-finance-tracking-program-a-secret-cia-surveillance-of-international-private.md) _(Current version)_
 
 ### Related:

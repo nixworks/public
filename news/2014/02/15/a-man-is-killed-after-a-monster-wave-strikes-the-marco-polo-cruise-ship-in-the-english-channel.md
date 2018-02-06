@@ -18,8 +18,8 @@ A passenger on a cruise ship has been killed in the English Channel and another 
 
 ### Changes:
 
-1. [Winter storms of 2013-14 in the United Kingdom:A man is killed after a monster wave strikes the ''Marco Polo'' cruise ship in the English Channel. ](/news/2014/02/15/winter-storms-of-2013a14-in-the-united-kingdom-pa-man-is-killed-after-a-monster-wave-strikes-the-marco-polo-cruise-ship-in-the-english.md) _2017-08-25 03:40:02 (First version)_
-2. [Winter storms of 2013-14 in the United Kingdom:: A man is killed after a monster wave strikes the "Marco Polo" cruise ship in the English Channel. ](/news/2014/02/15/winter-storms-of-2013-14-in-the-united-kingdom-a-man-is-killed-after-a-monster-wave-strikes-the-marco-polo-cruise-ship-in-the-english.md) _2017-08-27 03:40:20 (Update)_
+1. [Winter storms of 2013-14 in the United Kingdom:A man is killed after a monster wave strikes the ''Marco Polo'' cruise ship in the English Channel. ](/news/2014/02/15/winter-storms-of-2013a14-in-the-united-kingdom-pa-man-is-killed-after-a-monster-wave-strikes-the-marco-polo-cruise-ship-in-the-english.md) _2018-02-06 13:49:25 (First version)_
+2. [Winter storms of 2013-14 in the United Kingdom:: A man is killed after a monster wave strikes the "Marco Polo" cruise ship in the English Channel. ](/news/2014/02/15/winter-storms-of-2013-14-in-the-united-kingdom-a-man-is-killed-after-a-monster-wave-strikes-the-marco-polo-cruise-ship-in-the-english.md) _2018-02-06 13:49:25 (Update)_
 2. [A man is killed after a monster wave strikes the "Marco Polo" cruise ship in the English Channel. ](/news/2014/02/15/a-man-is-killed-after-a-monster-wave-strikes-the-marco-polo-cruise-ship-in-the-english-channel.md) _(Current version)_
 
 ### Related:

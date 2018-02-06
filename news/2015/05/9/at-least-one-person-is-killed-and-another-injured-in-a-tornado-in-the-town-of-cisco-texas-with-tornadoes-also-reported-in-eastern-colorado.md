@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/9/at-least-one-person-is-killed-and-another-injure
 
 ### Changes:
 
-1. [Tornadoes of 2015: At least one person is killed and another injured in a tornado in the town of Cisco, Texas with tornadoes also reported in eastern Colorado. ](/news/2015/05/9/tornadoes-of-2015-at-least-one-person-is-killed-and-another-injured-in-a-tornado-in-the-town-of-cisco-texas-with-tornadoes-also-reported-i.md) _2017-08-27 03:42:17 (First version)_
+1. [Tornadoes of 2015: At least one person is killed and another injured in a tornado in the town of Cisco, Texas with tornadoes also reported in eastern Colorado. ](/news/2015/05/9/tornadoes-of-2015-at-least-one-person-is-killed-and-another-injured-in-a-tornado-in-the-town-of-cisco-texas-with-tornadoes-also-reported-i.md) _2018-02-06 13:49:27 (First version)_
 1. [At least one person is killed and another injured in a tornado in the town of Cisco, Texas with tornadoes also reported in eastern Colorado. ](/news/2015/05/9/at-least-one-person-is-killed-and-another-injured-in-a-tornado-in-the-town-of-cisco-texas-with-tornadoes-also-reported-in-eastern-colorado.md) _(Current version)_
 
 ### Related:

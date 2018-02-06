@@ -17,8 +17,8 @@ Business Secretary Vince Cable will stay in his job despite saying he had &quot;
 
 ### Changes:
 
-1. [BSKYB takeoverThe European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/bskyb-takeoverpthe-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however.md) _2017-08-25 03:31:28 (First version)_
-2. [BSKYB takeover: The European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/bskyb-takeover-the-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however.md) _2017-08-27 03:31:36 (Update)_
+1. [BSKYB takeoverThe European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/bskyb-takeoverpthe-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however.md) _2018-02-06 13:49:21 (First version)_
+2. [BSKYB takeover: The European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/bskyb-takeover-the-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however.md) _2018-02-06 13:49:21 (Update)_
 2. [The European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/the-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however-the-deal-will.md) _(Current version)_
 
 ### Related:

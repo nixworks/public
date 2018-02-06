@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-
 
 ### Changes:
 
-1. [Comedian Steve Coogan criticises the presenters of BBC television series ''Top Gear'' in relation to their recent insulting of Mexicans. He also criticies the BBC's "pitiful" and "mealy-mouthed" apology after it offended Mexicans. ](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-of-bbc-television-series-top-gear-in-relation-to-their-recent-insulting-of-mexicans-he.md) _2017-08-25 03:32:02 (First version)_
+1. [Comedian Steve Coogan criticises the presenters of BBC television series ''Top Gear'' in relation to their recent insulting of Mexicans. He also criticies the BBC's "pitiful" and "mealy-mouthed" apology after it offended Mexicans. ](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-of-bbc-television-series-top-gear-in-relation-to-their-recent-insulting-of-mexicans-he.md) _2018-02-06 13:49:22 (First version)_
 1. [Comedian Steve Coogan criticises the presenters of BBC television series "Top Gear" in relation to their recent insulting of Mexicans. He also criticies the BBC's "pitiful" and "mealy-mouthed" apology after it offended Mexicans. ](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-of-bbc-television-series-top-gear-in-relation-to-their-recent-insulting-of-mexicans-he-al.md) _(Current version)_
 
 ### Related:

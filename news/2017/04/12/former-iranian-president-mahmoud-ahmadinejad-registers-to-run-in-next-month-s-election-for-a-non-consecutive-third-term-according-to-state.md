@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-re
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/iranian-presidential-election-2017-former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consec.md) _2017-08-27 03:48:08 (First version)_
+1. [Iranian presidential election, 2017: Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/iranian-presidential-election-2017-former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consec.md) _2018-02-06 13:49:30 (First version)_
 1. [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md) _(Current version)_
 
 ### Related:

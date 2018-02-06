@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/25/singapore-closes-its-primary-and-secondary-scho
 
 ### Changes:
 
-1. [2015 Southeast Asian haze: Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/2015-southeast-asian-haze-singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-haz.md) _2017-08-27 03:43:08 (First version)_
+1. [2015 Southeast Asian haze: Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/2015-southeast-asian-haze-singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-haz.md) _2018-02-06 13:49:27 (First version)_
 1. [Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-hazardous-levels.md) _(Current version)_
 
 ### Related:

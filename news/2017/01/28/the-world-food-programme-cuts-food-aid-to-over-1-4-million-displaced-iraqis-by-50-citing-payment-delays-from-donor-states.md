@@ -15,7 +15,7 @@ World Food Programme reduces food rations by 50 percent citing delays in payment
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): The World Food Programme cuts food aid to over 1.4 million displaced Iraqis by 50%, citing payment delays from donor states. ](/news/2017/01/28/iraqi-civil-war-2014-present-the-world-food-programme-cuts-food-aid-to-over-1-4-million-displaced-iraqis-by-50-citing-payment-delays.md) _2017-08-27 03:47:42 (First version)_
+1. [Iraqi Civil War (2014-present): The World Food Programme cuts food aid to over 1.4 million displaced Iraqis by 50%, citing payment delays from donor states. ](/news/2017/01/28/iraqi-civil-war-2014-present-the-world-food-programme-cuts-food-aid-to-over-1-4-million-displaced-iraqis-by-50-citing-payment-delays.md) _2018-02-06 13:49:30 (First version)_
 1. [The World Food Programme cuts food aid to over 1.4 million displaced Iraqis by 50%, citing payment delays from donor states. ](/news/2017/01/28/the-world-food-programme-cuts-food-aid-to-over-1-4-million-displaced-iraqis-by-50-citing-payment-delays-from-donor-states.md) _(Current version)_
 
 ### Related:

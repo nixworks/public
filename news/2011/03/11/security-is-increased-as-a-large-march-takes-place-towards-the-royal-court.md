@@ -16,6 +16,6 @@ Formats: [HTML](/news/2011/03/11/security-is-increased-as-a-large-march-takes-pl
 
 ### Changes:
 
-1. [2011 Bahraini protests:Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/2011-bahraini-protests-psecurity-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md) _2017-08-25 03:32:30 (First version)_
-2. [2011 Bahraini protests:: Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/2011-bahraini-protests-security-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md) _2017-08-27 03:32:38 (Update)_
+1. [2011 Bahraini protests:: Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/2011-bahraini-protests-security-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Bahraini protests:Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/2011-bahraini-protests-psecurity-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md) _2018-02-06 13:49:22 (Update)_
 2. [Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/security-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md) _(Current version)_

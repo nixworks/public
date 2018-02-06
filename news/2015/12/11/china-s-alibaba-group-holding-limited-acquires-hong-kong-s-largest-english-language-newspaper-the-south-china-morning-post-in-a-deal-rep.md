@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-
 
 ### Changes:
 
-1. [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the ''South China Morning Post'', in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-r.md) _2017-08-25 03:43:58 (First version)_
+1. [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the ''South China Morning Post'', in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-r.md) _2018-02-06 13:49:28 (First version)_
 1. [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the "South China Morning Post", in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-rep.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/2/libya-s-council-of-deputies-agrees-to-resume-pea
 
 ### Changes:
 
-1. [Second Libyan Civil War (2014-present): Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/second-libyan-civil-war-2014-present-libya-s-council-of-deputies-agrees-to-resume-peace-talks.md) _2017-08-27 03:42:02 (First version)_
+1. [Second Libyan Civil War (2014-present): Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/second-libyan-civil-war-2014-present-libya-s-council-of-deputies-agrees-to-resume-peace-talks.md) _2018-02-06 13:49:26 (First version)_
 1. [Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/libya-s-council-of-deputies-agrees-to-resume-peace-talks.md) _(Current version)_
 
 ### Related:

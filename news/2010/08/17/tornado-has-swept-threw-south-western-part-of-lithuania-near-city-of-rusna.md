@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-l
 
 ### Changes:
 
-1. [Tornado has swept threw south western part of Lithuania, near city of Rusne [http:--www.delfi.lt-news-daily-lithuania-virs-rusnes-prauze-viesulas.d?id=35586121 (Delfi)].](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna-http-www-delfi-lt-news-daily-lithuania-virs-rusnes-prauze-vi.md) _2017-06-18 03:30:41 (First version)_
+1. [Tornado has swept threw south western part of Lithuania, near city of Rusne [http:--www.delfi.lt-news-daily-lithuania-virs-rusnes-prauze-viesulas.d?id=35586121 (Delfi)].](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna-http-www-delfi-lt-news-daily-lithuania-virs-rusnes-prauze-vi.md) _2018-02-06 13:49:20 (First version)_
 1. [Tornado has swept threw south western part of Lithuania, near city of Rusne ](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna.md) _(Current version)_
 
 ### Related:

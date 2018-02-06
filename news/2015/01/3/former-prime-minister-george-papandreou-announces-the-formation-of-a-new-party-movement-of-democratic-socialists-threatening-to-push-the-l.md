@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/01/3/former-prime-minister-george-papandreou-announce
 
 ### Changes:
 
-1. [Greek parliamentary election, 2015: Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/greek-parliamentary-election-2015-former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-s.md) _2017-08-27 03:41:43 (First version)_
+1. [Greek parliamentary election, 2015: Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/greek-parliamentary-election-2015-former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-s.md) _2018-02-06 13:49:26 (First version)_
 1. [Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-socialists-threatening-to-push-the-l.md) _(Current version)_
 
 ### Related:

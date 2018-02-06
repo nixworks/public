@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/19/the-prime-minister-of-australia-john-howard-sta
 
 ### Changes:
 
-1. [ The Prime Minister of Australia John Howard states that the Murray-Darling Basin faces an "unprecedentedly dangerous" water shortage and that irrigation for farmers will be cut off unless there is significant rain in the next 6-8 weeks. ](/news/2007/04/19/the-prime-minister-of-australia-john-howard-states-that-the-murray-darling-basin-faces-an-unprecedentedly-dangerous-water-shortage-and-th.md) _2017-10-17 03:22:50 (First version)_
+1. [ The Prime Minister of Australia John Howard states that the Murray-Darling Basin faces an "unprecedentedly dangerous" water shortage and that irrigation for farmers will be cut off unless there is significant rain in the next 6-8 weeks. ](/news/2007/04/19/the-prime-minister-of-australia-john-howard-states-that-the-murray-darling-basin-faces-an-unprecedentedly-dangerous-water-shortage-and-th.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Prime Minister of Australia John Howard states that the Murray-Darling basin faces an "unprecedentedly dangerous" water shortage and that irrigation for farmers will be cut off unless there is significant rain in the next 6-8 weeks. ](/news/2007/04/19/the-prime-minister-of-australia-john-howard-states-that-the-murrayadarling-basin-faces-an-unprecedentedly-dangerous-water-shortage-and.md) _(Current version)_
 
 ### Related:

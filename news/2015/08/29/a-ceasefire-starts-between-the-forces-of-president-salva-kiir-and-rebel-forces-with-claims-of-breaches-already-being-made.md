@@ -17,7 +17,7 @@ South Sudanese President Salva Kiir has ordered all government troops to cease f
 
 ### Changes:
 
-1. [South Sudanese Civil War: A ceasefire starts between the forces of President Salva Kiir and rebel forces with claims of breaches already being made. ](/news/2015/08/29/south-sudanese-civil-war-a-ceasefire-starts-between-the-forces-of-president-salva-kiir-and-rebel-forces-with-claims-of-breaches-already-bei.md) _2017-08-27 03:42:56 (First version)_
+1. [South Sudanese Civil War: A ceasefire starts between the forces of President Salva Kiir and rebel forces with claims of breaches already being made. ](/news/2015/08/29/south-sudanese-civil-war-a-ceasefire-starts-between-the-forces-of-president-salva-kiir-and-rebel-forces-with-claims-of-breaches-already-bei.md) _2018-02-06 13:49:27 (First version)_
 1. [A ceasefire starts between the forces of President Salva Kiir and rebel forces with claims of breaches already being made. ](/news/2015/08/29/a-ceasefire-starts-between-the-forces-of-president-salva-kiir-and-rebel-forces-with-claims-of-breaches-already-being-made.md) _(Current version)_
 
 ### Related:

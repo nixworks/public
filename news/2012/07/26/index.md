@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/26/index.html)  [JSON](2012/07/26/index.json)  [XML](201
 
 ##### Syrian Army
 ### [The Syrian Army is reportedly preparing for a large-scale offensive in Aleppo, with the US State Department citing credible reports of tank columns moving into the city, backed by special forces, helicopter gunships and fixed-wing aircraft. ](/news/2012/07/26/the-syrian-army-is-reportedly-preparing-for-a-large-scale-offensive-in-aleppo-with-the-us-state-department-citing-credible-reports-of-tank.md)
-_Context: US State Department, Syrian Army, Aleppo_
+_Context: Aleppo, Syrian Army, US State Department_
 
 ##### northwestern Pakistan
 ### [A bomb explosion in a crowded market in northwestern Pakistan close to the Afghan border kills at least seven people. ](/news/2012/07/26/a-bomb-explosion-in-a-crowded-market-in-northwestern-pakistan-close-to-the-afghan-border-kills-at-least-seven-people.md)
@@ -17,7 +17,7 @@ _Context: Baqubah, Iraqi Army_
 
 ##### Japanese
 ### [Japanese businessman Kenichi Watanabe resigns as the CEO of financial company Nomura Holdings following a series of insider trading scandals. ](/news/2012/07/26/japanese-businessman-kenichi-watanabe-resigns-as-the-ceo-of-financial-company-nomura-holdings-following-a-series-of-insider-trading-scandals.md)
-_Context: Kenichi Watanabe, Nomura Holdings, Japanese, insider trading_
+_Context: Kenichi Watanabe, insider trading, Japanese, Nomura Holdings_
 
 ##### Ivory Coast
 ### [President of Ivory Coast Alassane Ouattara meets with his French counterpart Francois Hollande in Paris to finalize a deal that will forgive a debt of nearly 4.7 billion dollars owed to the former colonial power.](/news/2012/07/26/president-of-ivory-coast-alassane-ouattara-meets-with-his-french-counterpart-franassois-hollande-in-paris-to-finalize-a-deal-that-will-forgiv.md)
@@ -25,7 +25,7 @@ Ivorian president Alassane Ouattara says cancellation of the debt will help the 
 
 ##### North Korea
 ### [Sixteen thousand people become homeless in North Korea after Tropical Storm Khanun hit last week. ](/news/2012/07/26/sixteen-thousand-people-become-homeless-in-north-korea-after-tropical-storm-khanun-hit-last-week.md)
-_Context: North Korea, Tropical Storm Khanun_
+_Context: Tropical Storm Khanun, North Korea_
 
 ##### Beijing
 ### [Officials in Beijing raise the death toll from weekend flooding to 77 after rescuers located additional bodies. This follows criticism, including from the Chinese state media, of the city's handling of the storm.](/news/2012/07/26/officials-in-beijing-raise-the-death-toll-from-weekend-flooding-to-77-after-rescuers-located-additional-bodies-this-follows-criticism-incl.md)

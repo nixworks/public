@@ -17,8 +17,8 @@ Two weeks of fighting between militias in Libya&#x27;s capital Tripoli have left
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-pintense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-so.md) _2017-08-25 03:40:45 (First version)_
-2. [Post-civil war violence in Libya:: Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-s.md) _2017-08-27 03:41:04 (Update)_
+1. [Post-civil war violence in Libya:Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-pintense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-so.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-civil war violence in Libya:: Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-s.md) _2018-02-06 13:49:26 (Update)_
 2. [Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-soldiers.md) _(Current version)_
 
 ### Related:

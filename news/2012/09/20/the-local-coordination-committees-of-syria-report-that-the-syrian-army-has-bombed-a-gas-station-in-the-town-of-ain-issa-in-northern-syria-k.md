@@ -18,8 +18,8 @@ Syrian opposition activists say at least 30 people have been killed and dozens w
 
 ### Changes:
 
-1. [Syrian civil war:The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-pthe-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-in.md) _2017-08-25 03:36:33 (First version)_
-2. [Syrian civil war:: The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-the-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-i.md) _2017-08-27 03:36:44 (Update)_
+1. [Syrian civil war:: The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-the-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-i.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-pthe-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-in.md) _2018-02-06 13:49:23 (Update)_
 2. [The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/the-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-in-northern-syria-k.md) _(Current version)_
 
 ### Related:

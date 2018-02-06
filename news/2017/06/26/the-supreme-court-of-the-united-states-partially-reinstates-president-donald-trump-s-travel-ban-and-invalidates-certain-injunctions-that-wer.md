@@ -16,7 +16,7 @@ The US Supreme Court partly implements the travel and refugee bans pending a ful
 
 ### Changes:
 
-1. [Immigration policy of Donald Trump: The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/immigration-policy-of-donald-trump-the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-inva.md) _2017-08-27 03:48:33 (First version)_
+1. [Immigration policy of Donald Trump: The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/immigration-policy-of-donald-trump-the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-inva.md) _2018-02-06 13:49:30 (First version)_
 1. [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md) _(Current version)_
 
 ### Related:

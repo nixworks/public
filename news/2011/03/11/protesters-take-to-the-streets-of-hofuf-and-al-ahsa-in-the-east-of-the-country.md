@@ -16,6 +16,6 @@ Formats: [HTML](/news/2011/03/11/protesters-take-to-the-streets-of-hofuf-and-al-
 
 ### Changes:
 
-1. [2011 Saudi Arabian protests:Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/2011-saudi-arabian-protests-pprotesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md) _2017-08-25 03:32:30 (First version)_
-2. [2011 Saudi Arabian protests:: Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/2011-saudi-arabian-protests-protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md) _2017-08-27 03:32:38 (Update)_
+1. [2011 Saudi Arabian protests:: Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/2011-saudi-arabian-protests-protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Saudi Arabian protests:Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/2011-saudi-arabian-protests-pprotesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md) _2018-02-06 13:49:22 (Update)_
 2. [Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md) _(Current version)_

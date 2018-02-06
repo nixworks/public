@@ -16,7 +16,7 @@ Malian troops backed by U.N. helicopters stormed a U.N. police base in the city 
 
 ### Changes:
 
-1. [Northern Mali conflict: The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/northern-mali-conflict-the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-fr.md) _2017-08-27 03:44:50 (First version)_
+1. [Northern Mali conflict: The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/northern-mali-conflict-the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-fr.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.md) _(Current version)_
 
 ### Related:

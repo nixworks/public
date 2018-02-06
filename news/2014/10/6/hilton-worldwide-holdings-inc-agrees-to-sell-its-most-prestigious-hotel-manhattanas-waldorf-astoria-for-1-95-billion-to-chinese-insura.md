@@ -16,7 +16,7 @@ Landmark building’s $1.95 billion price tag is among the highest ever for any 
 
 ### Changes:
 
-1. [Hilton Worldwide Holdings Inc. agrees to sell its most prestigious hotel, Manhattan-s Waldorf Astoria, for $1.95 billion to Chinese insurance company Anbang Insurance Group. ](/news/2014/10/6/hilton-worldwide-holdings-inc-agrees-to-sell-its-most-prestigious-hotel-manhattan-s-waldorf-astoria-for-1-95-billion-to-chinese-insura.md) _2017-08-27 03:41:22 (First version)_
+1. [Hilton Worldwide Holdings Inc. agrees to sell its most prestigious hotel, Manhattan-s Waldorf Astoria, for $1.95 billion to Chinese insurance company Anbang Insurance Group. ](/news/2014/10/6/hilton-worldwide-holdings-inc-agrees-to-sell-its-most-prestigious-hotel-manhattan-s-waldorf-astoria-for-1-95-billion-to-chinese-insura.md) _2018-02-06 13:49:26 (First version)_
 1. [Hilton Worldwide Holdings Inc. agrees to sell its most prestigious hotel, Manhattan's Waldorf Astoria, for $1.95 billion to Chinese insurance company Anbang Insurance Group. ](/news/2014/10/6/hilton-worldwide-holdings-inc-agrees-to-sell-its-most-prestigious-hotel-manhattanas-waldorf-astoria-for-1-95-billion-to-chinese-insura.md) _(Current version)_
 
 ### Related:

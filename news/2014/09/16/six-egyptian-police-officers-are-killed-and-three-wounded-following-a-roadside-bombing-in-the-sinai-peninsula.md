@@ -16,8 +16,8 @@ Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsul
 
 ### Changes:
 
-1. [Sinai insurgency:Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/sinai-insurgency-psix-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md) _2017-08-25 03:40:59 (First version)_
-2. [Sinai insurgency:: Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/sinai-insurgency-six-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md) _2017-08-27 03:41:17 (Update)_
+1. [Sinai insurgency:: Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/sinai-insurgency-six-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinai insurgency:Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/sinai-insurgency-psix-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md) _2018-02-06 13:49:26 (Update)_
 2. [Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/six-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md) _(Current version)_
 
 ### Related:

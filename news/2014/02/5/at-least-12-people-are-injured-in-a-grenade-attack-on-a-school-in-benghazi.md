@@ -16,8 +16,8 @@ At least 12 children are injured in a grenade attack at a school in the Libyan c
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/post-civil-war-violence-in-libya-pat-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md) _2017-08-25 03:39:58 (First version)_
-2. [Post-civil war violence in Libya:: At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/post-civil-war-violence-in-libya-at-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md) _2017-08-27 03:40:16 (Update)_
+1. [Post-civil war violence in Libya:At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/post-civil-war-violence-in-libya-pat-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:: At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/post-civil-war-violence-in-libya-at-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/at-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md) _(Current version)_
 
 ### Related:

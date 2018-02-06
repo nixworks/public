@@ -17,8 +17,8 @@ A man in an Afghan police uniform has killed three NATO personnel in the war-tor
 
 ### Changes:
 
-1. [Taliban insurgency in Afghanistan:At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/taliban-insurgency-in-afghanistan-pat-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md) _2017-08-25 03:36:01 (First version)_
-2. [Taliban insurgency in Afghanistan:: At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/taliban-insurgency-in-afghanistan-at-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md) _2017-08-27 03:36:12 (Update)_
+1. [Taliban insurgency in Afghanistan:At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/taliban-insurgency-in-afghanistan-pat-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md) _2018-02-06 13:49:23 (First version)_
+2. [Taliban insurgency in Afghanistan:: At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/taliban-insurgency-in-afghanistan-at-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md) _2018-02-06 13:49:23 (Update)_
 2. [At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/at-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md) _(Current version)_
 
 ### Related:

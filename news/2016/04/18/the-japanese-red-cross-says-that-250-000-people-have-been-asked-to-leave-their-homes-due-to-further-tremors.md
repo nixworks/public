@@ -16,7 +16,7 @@ Nearly 250,000 people are told to leave their homes amid fears of further tremor
 
 ### Changes:
 
-1. [2016 Kumamoto earthquakes: The Japanese Red Cross says that 250,000 people have been asked to leave their homes due to further tremors. ](/news/2016/04/18/2016-kumamoto-earthquakes-the-japanese-red-cross-says-that-250-000-people-have-been-asked-to-leave-their-homes-due-to-further-tremors.md) _2017-08-27 03:45:40 (First version)_
+1. [2016 Kumamoto earthquakes: The Japanese Red Cross says that 250,000 people have been asked to leave their homes due to further tremors. ](/news/2016/04/18/2016-kumamoto-earthquakes-the-japanese-red-cross-says-that-250-000-people-have-been-asked-to-leave-their-homes-due-to-further-tremors.md) _2018-02-06 13:49:28 (First version)_
 1. [The Japanese Red Cross says that 250,000 people have been asked to leave their homes due to further tremors. ](/news/2016/04/18/the-japanese-red-cross-says-that-250-000-people-have-been-asked-to-leave-their-homes-due-to-further-tremors.md) _(Current version)_
 
 ### Related:

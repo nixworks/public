@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/03/26/a-busatruck-collision-kills-14-people-and-injur
 
 ### Changes:
 
-1. [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-bus-truck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md) _2017-08-27 03:24:03 (First version)_
+1. [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-bus-truck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md) _2018-02-06 13:49:18 (First version)_
 1. [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-busatruck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md) _(Current version)_
 
 ### Related:

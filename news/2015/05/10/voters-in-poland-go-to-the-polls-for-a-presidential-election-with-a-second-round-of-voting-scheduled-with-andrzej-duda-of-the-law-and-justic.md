@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presiden
 
 ### Changes:
 
-1. [Polish presidential election, 2015: Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-wit.md) _2017-08-27 03:42:17 (First version)_
+1. [Polish presidential election, 2015: Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-wit.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-with-andrzej-duda-of-the-law-and-justic.md) _(Current version)_
 
 ### Related:

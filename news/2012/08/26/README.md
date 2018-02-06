@@ -9,7 +9,7 @@ _Context: Kajaki district, Afghanistan_
 
 ##### Yan'an
 ### [Thirty-six people are killed in a bus crash near Yan'an, Shaanxi province of China. ](/news/2012/08/26/thirty-six-people-are-killed-in-a-bus-crash-near-yan-an-shaanxi-province-of-china.md)
-_Context: Shaanxi province, China, Yan'an_
+_Context: Yan'an, China, Shaanxi province_
 
 ##### United States
 ### [The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. ](/news/2012/08/26/the-united-states-national-hurricane-center-issues-hurricane-warnings-for-the-states-of-florida-alabama-mississippi-and-louisiana-a-state.md)
@@ -25,23 +25,23 @@ _Context: Quebec City, Legionellosis_
 
 ##### Togo
 ### [Women in Togo announce that they will go on sex strike for a week, starting Monday, following the example of women in Liberia. ](/news/2012/08/26/women-in-togo-announce-that-they-will-go-on-sex-strike-for-a-week-starting-monday-following-the-example-of-women-in-liberia.md)
-_Context: Togo, sex strike_
+_Context: sex strike, Togo_
 
 ##### earthquake
 ### [Several hundred earthquakes hit Southern California, with the largest one measuring 5.5 on the Richter magnitude scale near San Diego. ](/news/2012/08/26/several-hundred-earthquakes-hit-southern-california-with-the-largest-one-measuring-5-5-on-the-richter-magnitude-scale-near-san-diego.md)
-_Context: Southern California, San Diego, magnitude, earthquake_
+_Context: earthquake, magnitude, San Diego, Southern California_
 
 ##### 16th Summit of the Non-Aligned Movement
 ### [Heads of state meet at the 16th Summit of the Non-Aligned Movement in Tehran, Iran, until August 31. ](/news/2012/08/26/heads-of-state-meet-at-the-16th-summit-of-the-non-aligned-movement-in-tehran-iran-until-august-31.md)
-_Context: Tehran, Iran, 16th Summit of the Non-Aligned Movement, Non-Aligned Movement_
+_Context: Iran, Non-Aligned Movement, 16th Summit of the Non-Aligned Movement, Tehran_
 
 ##### Pussy Riot
 ### [Two Pussy Riot members, alleged to be the two participants in the band's Cathedral protest on February 21 who remain unarrested, "leave" Russia. ](/news/2012/08/26/two-pussy-riot-members-alleged-to-be-the-two-participants-in-the-band-s-cathedral-protest-on-february-21-who-remain-unarrested-leave-rus.md)
-_Context: Russia, Cathedral protest, Pussy Riot_
+_Context: Cathedral protest, Pussy Riot, Russia_
 
 ##### Libya
 ### [The president of Libya's newly elected legislative congress, Mohamed Yousef el-Magariaf, calls the prime minister to an emergency meeting, after Saturday's bulldozing of the Sidi el-Sha'ab mausoleum in Tripoli by unnamed organized assailants. ](/news/2012/08/26/the-president-of-libya-s-newly-elected-legislative-congress-mohamed-yousef-el-magariaf-calls-the-prime-minister-to-an-emergency-meeting-a.md)
-_Context: Libya, Mohamed Yousef el-Magariaf, Libyan Prime Minister, Libyan Parliament, Sidi el-Sha'ab mausoleum, Tripoli_
+_Context: Mohamed Yousef el-Magariaf, Tripoli, Libyan Parliament, Libya, Sidi el-Sha'ab mausoleum, Libyan Prime Minister_
 
 ## [Previous Day...](/news/2012/08/25/index.md)
 

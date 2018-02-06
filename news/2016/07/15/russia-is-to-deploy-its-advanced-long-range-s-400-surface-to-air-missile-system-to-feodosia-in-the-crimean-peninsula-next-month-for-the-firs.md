@@ -17,7 +17,7 @@ Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Cri
 
 ### Changes:
 
-1. [Ukrainian crisis: Russia-Ukraine relations: Russia is to deploy its advanced long range S-400 surface-to-air missile system to Feodosia in the Crimean Peninsula next month for the first time. ](/news/2016/07/15/ukrainian-crisis-russia-ukraine-relations-russia-is-to-deploy-its-advanced-long-range-s-400-surface-to-air-missile-system-to-feodosia-in.md) _2017-08-27 03:46:30 (First version)_
+1. [Ukrainian crisis: Russia-Ukraine relations: Russia is to deploy its advanced long range S-400 surface-to-air missile system to Feodosia in the Crimean Peninsula next month for the first time. ](/news/2016/07/15/ukrainian-crisis-russia-ukraine-relations-russia-is-to-deploy-its-advanced-long-range-s-400-surface-to-air-missile-system-to-feodosia-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Russia is to deploy its advanced long range S-400 surface-to-air missile system to Feodosia in the Crimean Peninsula next month for the first time. ](/news/2016/07/15/russia-is-to-deploy-its-advanced-long-range-s-400-surface-to-air-missile-system-to-feodosia-in-the-crimean-peninsula-next-month-for-the-firs.md) _(Current version)_
 
 ### Related:

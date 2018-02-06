@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wo
 
 ### Changes:
 
-1. [ In the journal ''Nature'', anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discove.md) _2017-08-25 03:15:15 (First version)_
+1. [ In the journal ''Nature'', anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discove.md) _2018-02-06 13:49:15 (First version)_
 1. [ In the journal "Nature", anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.md) _(Current version)_
 
 ### Related:

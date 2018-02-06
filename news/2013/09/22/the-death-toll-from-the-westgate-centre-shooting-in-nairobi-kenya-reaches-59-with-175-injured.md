@@ -17,8 +17,8 @@ The latest on the stand-off at a shopping centre in Nairobi as a siege enters in
 
 ### Changes:
 
-1. [Westgate centre shooting:The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/westgate-centre-shooting-pthe-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md) _2017-08-25 03:39:18 (First version)_
-2. [Westgate centre shooting:: The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/westgate-centre-shooting-the-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md) _2017-08-27 03:39:35 (Update)_
+1. [Westgate centre shooting:: The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/westgate-centre-shooting-the-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md) _2018-02-06 13:49:25 (First version)_
+2. [Westgate centre shooting:The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/westgate-centre-shooting-pthe-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/the-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md) _(Current version)_
 
 ### Related:

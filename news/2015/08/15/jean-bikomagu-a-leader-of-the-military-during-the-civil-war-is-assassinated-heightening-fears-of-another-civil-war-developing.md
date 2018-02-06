@@ -16,7 +16,7 @@ The African Union warns of potential &#39;catastrophic consequences&#39; for tro
 
 ### Changes:
 
-1. [2015 Burundian unrest: Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/2015-burundian-unrest-jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war.md) _2017-08-27 03:42:50 (First version)_
+1. [2015 Burundian unrest: Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/2015-burundian-unrest-jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war.md) _2018-02-06 13:49:27 (First version)_
 1. [Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war-developing.md) _(Current version)_
 
 ### Related:

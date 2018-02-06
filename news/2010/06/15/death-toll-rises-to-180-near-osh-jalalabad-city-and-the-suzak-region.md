@@ -20,6 +20,6 @@ Ethnic Uzbeks say the military has killed civilians in southern Kyrgyzstan.
 
 ### Changes:
 
-1. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-pdeath-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md) _2017-08-25 03:28:16 (First version)_
-2. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:: Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md) _2017-08-27 03:28:16 (Update)_
+1. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-pdeath-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:: Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md) _2018-02-06 13:49:20 (Update)_
 2. [Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md) _(Current version)_

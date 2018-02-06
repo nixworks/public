@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pa
 
 ### Changes:
 
-1. [2014-15 India-Pakistan border skirmishes: At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/2014-15-india-pakistan-border-skirmishes-at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto.md) _2017-08-27 03:43:39 (First version)_
+1. [2014-15 India-Pakistan border skirmishes: At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/2014-15-india-pakistan-border-skirmishes-at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto.md) _2018-02-06 13:49:28 (First version)_
 1. [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md) _(Current version)_
 
 ### Related:

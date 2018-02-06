@@ -16,7 +16,7 @@ Hungary will hold a referendum on whether to accept mandatory EU quotas for relo
 
 ### Changes:
 
-1. [European migrant crisis: Hungary is to hold a referendum on whether to accept mandatory EU quotas for relocating migrants. ](/news/2016/02/24/european-migrant-crisis-hungary-is-to-hold-a-referendum-on-whether-to-accept-mandatory-eu-quotas-for-relocating-migrants.md) _2017-08-27 03:45:01 (First version)_
+1. [European migrant crisis: Hungary is to hold a referendum on whether to accept mandatory EU quotas for relocating migrants. ](/news/2016/02/24/european-migrant-crisis-hungary-is-to-hold-a-referendum-on-whether-to-accept-mandatory-eu-quotas-for-relocating-migrants.md) _2018-02-06 13:49:28 (First version)_
 1. [Hungary is to hold a referendum on whether to accept mandatory EU quotas for relocating migrants. ](/news/2016/02/24/hungary-is-to-hold-a-referendum-on-whether-to-accept-mandatory-eu-quotas-for-relocating-migrants.md) _(Current version)_
 
 ### Related:

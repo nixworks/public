@@ -18,8 +18,8 @@ Six people were killed and 15 were injured from an explosion at a bus stand the 
 
 ### Changes:
 
-1. [Pakistan terrorism:Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-psix-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md) _2017-08-25 03:33:22 (First version)_
-2. [Pakistan terrorism:: Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md) _2017-08-27 03:33:31 (Update)_
+1. [Pakistan terrorism:: Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md) _2018-02-06 13:49:22 (First version)_
+2. [Pakistan terrorism:Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-psix-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md) _2018-02-06 13:49:22 (Update)_
 2. [Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md) _(Current version)_
 
 ### Related:

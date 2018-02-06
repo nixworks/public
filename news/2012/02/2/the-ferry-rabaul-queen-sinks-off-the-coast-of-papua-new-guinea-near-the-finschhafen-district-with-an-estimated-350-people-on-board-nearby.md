@@ -17,7 +17,7 @@ More than 100 people are missing and about 230 are rescued after a ferry sinks o
 
 ### Changes:
 
-1. [The ferry {{MV|Rabaul Queen}} sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-mv-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board.md) _2017-05-01 03:37:24 (First version)_
+1. [The ferry {{MV|Rabaul Queen}} sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-mv-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board.md) _2018-02-06 13:49:23 (First version)_
 1. [The ferry Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board-nearby.md) _(Current version)_
 
 ### Related:

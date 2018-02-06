@@ -16,8 +16,8 @@ Nauru&#039;s finance minister says the country is out of money and services will
 
 ### Changes:
 
-1. [Pacific Solution:The small Pacific state of Nauru has run out of money following a legal dispute in Australia. ](/news/2014/09/26/pacific-solution-pthe-small-pacific-state-of-nauru-has-run-out-of-money-following-a-legal-dispute-in-australia.md) _2017-08-25 03:41:01 (First version)_
-2. [Pacific Solution:: The small Pacific state of Nauru has run out of money following a legal dispute in Australia. ](/news/2014/09/26/pacific-solution-the-small-pacific-state-of-nauru-has-run-out-of-money-following-a-legal-dispute-in-australia.md) _2017-08-27 03:41:20 (Update)_
+1. [Pacific Solution:: The small Pacific state of Nauru has run out of money following a legal dispute in Australia. ](/news/2014/09/26/pacific-solution-the-small-pacific-state-of-nauru-has-run-out-of-money-following-a-legal-dispute-in-australia.md) _2018-02-06 13:49:26 (First version)_
+2. [Pacific Solution:The small Pacific state of Nauru has run out of money following a legal dispute in Australia. ](/news/2014/09/26/pacific-solution-pthe-small-pacific-state-of-nauru-has-run-out-of-money-following-a-legal-dispute-in-australia.md) _2018-02-06 13:49:26 (Update)_
 2. [The small Pacific state of Nauru has run out of money following a legal dispute in Australia. ](/news/2014/09/26/the-small-pacific-state-of-nauru-has-run-out-of-money-following-a-legal-dispute-in-australia.md) _(Current version)_
 
 ### Related:

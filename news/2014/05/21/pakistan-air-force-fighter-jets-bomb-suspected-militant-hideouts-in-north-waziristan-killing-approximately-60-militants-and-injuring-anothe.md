@@ -16,8 +16,8 @@ Pakistani fighter jets bombed suspected militant hideouts in the tribal region o
 
 ### Changes:
 
-1. [War in North-West Pakistan:Pakistan Air Force fighter jets bomb suspected militant hideouts in North Waziristan, killing approximately 60 militants and injuring another 30. ](/news/2014/05/21/war-in-north-west-pakistan-ppakistan-air-force-fighter-jets-bomb-suspected-militant-hideouts-in-north-waziristan-killing-approximately-60-m.md) _2017-08-25 03:40:26 (First version)_
-2. [War in North-West Pakistan:: Pakistan Air Force fighter jets bomb suspected militant hideouts in North Waziristan, killing approximately 60 militants and injuring another 30. ](/news/2014/05/21/war-in-north-west-pakistan-pakistan-air-force-fighter-jets-bomb-suspected-militant-hideouts-in-north-waziristan-killing-approximately-60.md) _2017-08-27 03:40:43 (Update)_
+1. [War in North-West Pakistan:Pakistan Air Force fighter jets bomb suspected militant hideouts in North Waziristan, killing approximately 60 militants and injuring another 30. ](/news/2014/05/21/war-in-north-west-pakistan-ppakistan-air-force-fighter-jets-bomb-suspected-militant-hideouts-in-north-waziristan-killing-approximately-60-m.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: Pakistan Air Force fighter jets bomb suspected militant hideouts in North Waziristan, killing approximately 60 militants and injuring another 30. ](/news/2014/05/21/war-in-north-west-pakistan-pakistan-air-force-fighter-jets-bomb-suspected-militant-hideouts-in-north-waziristan-killing-approximately-60.md) _2018-02-06 13:49:26 (Update)_
 2. [Pakistan Air Force fighter jets bomb suspected militant hideouts in North Waziristan, killing approximately 60 militants and injuring another 30. ](/news/2014/05/21/pakistan-air-force-fighter-jets-bomb-suspected-militant-hideouts-in-north-waziristan-killing-approximately-60-militants-and-injuring-anothe.md) _(Current version)_
 
 ### Related:

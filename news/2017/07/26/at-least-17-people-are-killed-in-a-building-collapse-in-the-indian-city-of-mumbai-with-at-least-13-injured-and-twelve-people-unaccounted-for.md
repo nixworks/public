@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/26/at-least-17-people-are-killed-in-a-building-col
 
 ### Changes:
 
-1. [History of Mumbai: At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/history-of-mumbai-at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-peo.md) _2017-08-27 03:48:44 (First version)_
+1. [History of Mumbai: At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/history-of-mumbai-at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-peo.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-people-unaccounted-for.md) _(Current version)_
 
 ### Related:

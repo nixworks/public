@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/26/richard-matt-one-of-the-two-escapees-died-from-
 
 ### Changes:
 
-1. [2015 Clinton Correctional Facility escape: Richard Matt, one of the two escapees, died from gunshot wounds south of the town of Malone, New York. ](/news/2015/06/26/2015-clinton-correctional-facility-escape-richard-matt-one-of-the-two-escapees-died-from-gunshot-wounds-south-of-the-town-of-malone-new.md) _2017-08-27 03:42:36 (First version)_
+1. [2015 Clinton Correctional Facility escape: Richard Matt, one of the two escapees, died from gunshot wounds south of the town of Malone, New York. ](/news/2015/06/26/2015-clinton-correctional-facility-escape-richard-matt-one-of-the-two-escapees-died-from-gunshot-wounds-south-of-the-town-of-malone-new.md) _2018-02-06 13:49:27 (First version)_
 1. [Richard Matt, one of the two escapees, died from gunshot wounds south of the town of Malone, New York. ](/news/2015/06/26/richard-matt-one-of-the-two-escapees-died-from-gunshot-wounds-south-of-the-town-of-malone-new-york.md) _(Current version)_
 
 ### Related:

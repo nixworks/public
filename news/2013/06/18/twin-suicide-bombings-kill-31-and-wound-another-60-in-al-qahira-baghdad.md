@@ -16,8 +16,8 @@ At least 31 people are killed in a double suicide bomb attack at a Shia mosque i
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-ptwin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _2017-08-25 03:38:52 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _2017-08-27 03:39:06 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-ptwin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _2018-02-06 13:49:25 (Update)_
 2. [Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md) _(Current version)_
 
 ### Related:

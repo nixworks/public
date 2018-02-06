@@ -16,8 +16,8 @@ The incumbent president takes a strong lead but the opposition says it rejects t
 
 ### Changes:
 
-1. [Voters in Kenya go to the polls to elect their President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-their-president-as-well-as-members-of-the-national-assembly-and-senate.md) _2017-08-09 12:30:05 (First version)_
-2. [Kenyan general election, 2017: Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/kenyan-general-election-2017-voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senat.md) _2017-08-27 03:48:47 (Update)_
+1. [Voters in Kenya go to the polls to elect their President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-their-president-as-well-as-members-of-the-national-assembly-and-senate.md) _2018-02-06 13:49:31 (First version)_
+2. [Kenyan general election, 2017: Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/kenyan-general-election-2017-voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senat.md) _2018-02-06 13:49:31 (Update)_
 2. [Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senate.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/26/a-bomb-on-a-motorcycle-kills-at-least-3-people-
 
 ### Changes:
 
-1. [Balochistan conflict: A bomb on a motorcycle kills at least 3 people and injured 20 in the town of Sibi in Pakistan's Balochistan region. ](/news/2015/04/26/balochistan-conflict-a-bomb-on-a-motorcycle-kills-at-least-3-people-and-injured-20-in-the-town-of-sibi-in-pakistan-s-balochistan-region.md) _2017-08-27 03:42:15 (First version)_
+1. [Balochistan conflict: A bomb on a motorcycle kills at least 3 people and injured 20 in the town of Sibi in Pakistan's Balochistan region. ](/news/2015/04/26/balochistan-conflict-a-bomb-on-a-motorcycle-kills-at-least-3-people-and-injured-20-in-the-town-of-sibi-in-pakistan-s-balochistan-region.md) _2018-02-06 13:49:27 (First version)_
 1. [A bomb on a motorcycle kills at least 3 people and injured 20 in the town of Sibi in Pakistan's Balochistan region. ](/news/2015/04/26/a-bomb-on-a-motorcycle-kills-at-least-3-people-and-injured-20-in-the-town-of-sibi-in-pakistan-s-balochistan-region.md) _(Current version)_
 
 ### Related:

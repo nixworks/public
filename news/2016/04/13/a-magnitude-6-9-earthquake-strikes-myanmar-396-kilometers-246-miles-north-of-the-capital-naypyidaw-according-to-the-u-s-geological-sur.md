@@ -16,7 +16,7 @@ Large tremor felt in parts of eastern India and Bangladesh; authorities say ther
 
 ### Changes:
 
-1. [April 2016 Myanmar earthquake: A magnitude 6.9 earthquake strikes Myanmar 396 kilometers (246 miles) north of the capital, Naypyidaw, according to the U.S. Geological Survey. ](/news/2016/04/13/april-2016-myanmar-earthquake-a-magnitude-6-9-earthquake-strikes-myanmar-396-kilometers-246-miles-north-of-the-capital-naypyidaw-accord.md) _2017-08-27 03:45:36 (First version)_
+1. [April 2016 Myanmar earthquake: A magnitude 6.9 earthquake strikes Myanmar 396 kilometers (246 miles) north of the capital, Naypyidaw, according to the U.S. Geological Survey. ](/news/2016/04/13/april-2016-myanmar-earthquake-a-magnitude-6-9-earthquake-strikes-myanmar-396-kilometers-246-miles-north-of-the-capital-naypyidaw-accord.md) _2018-02-06 13:49:28 (First version)_
 1. [ A magnitude 6.9 earthquake strikes Myanmar 396 kilometers (246 miles) north of the capital, Naypyidaw, according to the U.S. Geological Survey. ](/news/2016/04/13/a-magnitude-6-9-earthquake-strikes-myanmar-396-kilometers-246-miles-north-of-the-capital-naypyidaw-according-to-the-u-s-geological-sur.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Irish PM Brian Cowen survives a secret confidence vote on his leadership in the 
 
 ### Changes:
 
-1. [Situation in Ireland:Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/situation-in-ireland-ptaoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa.md) _2017-08-25 03:31:50 (First version)_
-2. [Situation in Ireland:: Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/situation-in-ireland-taoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa.md) _2017-08-27 03:31:57 (Update)_
+1. [Situation in Ireland:: Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/situation-in-ireland-taoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa.md) _2018-02-06 13:49:21 (First version)_
+2. [Situation in Ireland:Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/situation-in-ireland-ptaoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa.md) _2018-02-06 13:49:21 (Update)_
 2. [Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/taoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa-il-parliamentary-party.md) _(Current version)_
 
 ### Related:

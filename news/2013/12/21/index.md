@@ -21,7 +21,7 @@ Mr. Bronfman helped the liquor company acquire other businesses and make a stake
 
 ##### Yule goat
 ### [Despite an anti-flammable liquid coating, the yearly giant Yule goat in Gavle, Sweden, is again destroyed in an arson attack. ](/news/2013/12/21/despite-an-anti-flammable-liquid-coating-the-yearly-giant-yule-goat-in-ga-vle-sweden-is-again-destroyed-in-an-arson-attack.md)
-_Context: Gavle, Yule goat, Sweden_
+_Context: Yule goat, Sweden, Gavle_
 
 ##### NASA
 ### [Two NASA astronauts at the International Space Station begin a series of spacewalks to replace a faulty ammonia coolant pump. ](/news/2013/12/21/two-nasa-astronauts-at-the-international-space-station-begin-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.md)

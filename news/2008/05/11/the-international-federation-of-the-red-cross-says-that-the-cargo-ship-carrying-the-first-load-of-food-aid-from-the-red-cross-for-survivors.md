@@ -18,8 +18,8 @@ A cargo boat carrying the first Red Cross aid to survivors of Cyclone Nargis san
 
 ### Changes:
 
-1. [ Cyclone Nargis: The International Federation of the Red Cross says that the cargo ship carrying the first load of food aid from the Red Cross for survivors of Cyclone Nargis has sunk in the Irrawaddy River. ](/news/2008/05/11/cyclone-nargis-p-the-international-federation-of-the-red-cross-says-that-the-cargo-ship-carrying-the-first-load-of-food-aid-from-the-red-cr.md) _2017-08-25 03:22:09 (First version)_
-2. [ Cyclone Nargis:: The International Federation of the Red Cross says that the cargo ship carrying the first load of food aid from the Red Cross for survivors of Cyclone Nargis has sunk in the Irrawaddy River. ](/news/2008/05/11/cyclone-nargis-the-international-federation-of-the-red-cross-says-that-the-cargo-ship-carrying-the-first-load-of-food-aid-from-the-red-cr.md) _2017-08-27 03:22:03 (Update)_
+1. [ Cyclone Nargis:: The International Federation of the Red Cross says that the cargo ship carrying the first load of food aid from the Red Cross for survivors of Cyclone Nargis has sunk in the Irrawaddy River. ](/news/2008/05/11/cyclone-nargis-the-international-federation-of-the-red-cross-says-that-the-cargo-ship-carrying-the-first-load-of-food-aid-from-the-red-cr.md) _2018-02-06 13:49:18 (First version)_
+2. [ Cyclone Nargis: The International Federation of the Red Cross says that the cargo ship carrying the first load of food aid from the Red Cross for survivors of Cyclone Nargis has sunk in the Irrawaddy River. ](/news/2008/05/11/cyclone-nargis-p-the-international-federation-of-the-red-cross-says-that-the-cargo-ship-carrying-the-first-load-of-food-aid-from-the-red-cr.md) _2018-02-06 13:49:18 (Update)_
 2. [ The International Federation of the Red Cross says that the cargo ship carrying the first load of food aid from the Red Cross for survivors of Cyclone Nargis has sunk in the Irrawaddy River. ](/news/2008/05/11/the-international-federation-of-the-red-cross-says-that-the-cargo-ship-carrying-the-first-load-of-food-aid-from-the-red-cross-for-survivors.md) _(Current version)_
 
 ### Related:

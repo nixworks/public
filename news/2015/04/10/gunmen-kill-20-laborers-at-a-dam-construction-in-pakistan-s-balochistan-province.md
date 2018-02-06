@@ -17,7 +17,7 @@ Gunmen kill 20 construction workers in Pakistan&#039;s restive south-western pro
 
 ### Changes:
 
-1. [Balochistan conflict: Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/balochistan-conflict-gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md) _2017-08-27 03:42:11 (First version)_
+1. [Balochistan conflict: Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/balochistan-conflict-gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md) _2018-02-06 13:49:27 (First version)_
 1. [Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md) _(Current version)_
 
 ### Related:

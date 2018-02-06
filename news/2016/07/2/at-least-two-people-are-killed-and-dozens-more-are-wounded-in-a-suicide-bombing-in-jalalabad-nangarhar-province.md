@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-a
 
 ### Changes:
 
-1. [War in Afghanistan: At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/war-in-afghanistan-at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md) _2017-08-27 03:46:24 (First version)_
+1. [War in Afghanistan: At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/war-in-afghanistan-at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md) _2018-02-06 13:49:29 (First version)_
 1. [At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md) _(Current version)_
 
 ### Related:

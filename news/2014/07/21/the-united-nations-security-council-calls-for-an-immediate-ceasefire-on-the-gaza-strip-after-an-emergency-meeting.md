@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/21/the-united-nations-security-council-calls-for-a
 
 ### Changes:
 
-1. [Operation Protective Edge: The United Nations Security Council calls for an immediate ceasefire on the Gaza Strip after an emergency meeting. ](/news/2014/07/21/operation-protective-edge-the-united-nations-security-council-calls-for-an-immediate-ceasefire-on-the-gaza-strip-after-an-emergency-meeting.md) _2017-08-27 03:41:01 (First version)_
+1. [Operation Protective Edge: The United Nations Security Council calls for an immediate ceasefire on the Gaza Strip after an emergency meeting. ](/news/2014/07/21/operation-protective-edge-the-united-nations-security-council-calls-for-an-immediate-ceasefire-on-the-gaza-strip-after-an-emergency-meeting.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Nations Security Council calls for an immediate ceasefire on the Gaza Strip after an emergency meeting. ](/news/2014/07/21/the-united-nations-security-council-calls-for-an-immediate-ceasefire-on-the-gaza-strip-after-an-emergency-meeting.md) _(Current version)_
 
 ### Related:

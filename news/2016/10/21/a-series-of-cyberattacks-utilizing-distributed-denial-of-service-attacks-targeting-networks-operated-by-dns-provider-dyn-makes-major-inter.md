@@ -16,7 +16,7 @@ Attackers controlling a vast collection of internet devices unleashed several ma
 
 ### Changes:
 
-1. [October 2016 Dyn cyberattack: A series of cyberattacks utilizing distributed denial-of-service attacks, targeting networks operated by DNS provider Dyn, makes major Internet platforms and services unavailable to large swaths of users in Europe and North America. Affected companies include Amazon, Twitter, Spotify, Reddit, PayPal, Netflix, and Airbnb. ](/news/2016/10/21/october-2016-dyn-cyberattack-a-series-of-cyberattacks-utilizing-distributed-denial-of-service-attacks-targeting-networks-operated-by-dns-p.md) _2017-08-27 03:47:06 (First version)_
+1. [October 2016 Dyn cyberattack: A series of cyberattacks utilizing distributed denial-of-service attacks, targeting networks operated by DNS provider Dyn, makes major Internet platforms and services unavailable to large swaths of users in Europe and North America. Affected companies include Amazon, Twitter, Spotify, Reddit, PayPal, Netflix, and Airbnb. ](/news/2016/10/21/october-2016-dyn-cyberattack-a-series-of-cyberattacks-utilizing-distributed-denial-of-service-attacks-targeting-networks-operated-by-dns-p.md) _2018-02-06 13:49:29 (First version)_
 1. [A series of cyberattacks utilizing distributed denial-of-service attacks, targeting networks operated by DNS provider Dyn, makes major Internet platforms and services unavailable to large swaths of users in Europe and North America. Affected companies include Amazon, Twitter, Spotify, Reddit, PayPal, Netflix, and Airbnb. ](/news/2016/10/21/a-series-of-cyberattacks-utilizing-distributed-denial-of-service-attacks-targeting-networks-operated-by-dns-provider-dyn-makes-major-inter.md) _(Current version)_
 
 ### Related:

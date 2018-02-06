@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/29/a-hurricane-watch-is-issued-for-the-island-of-h
 
 ### Changes:
 
-1. [2016 Pacific hurricane season: A hurricane watch is issued for the island of Hawaii as Hurricane Madeline approaches. ](/news/2016/08/29/2016-pacific-hurricane-season-a-hurricane-watch-is-issued-for-the-island-of-hawaii-as-hurricane-madeline-approaches.md) _2017-08-27 03:46:43 (First version)_
+1. [2016 Pacific hurricane season: A hurricane watch is issued for the island of Hawaii as Hurricane Madeline approaches. ](/news/2016/08/29/2016-pacific-hurricane-season-a-hurricane-watch-is-issued-for-the-island-of-hawaii-as-hurricane-madeline-approaches.md) _2018-02-06 13:49:29 (First version)_
 1. [A hurricane watch is issued for the island of Hawaii as Hurricane Madeline approaches. ](/news/2016/08/29/a-hurricane-watch-is-issued-for-the-island-of-hawaii-as-hurricane-madeline-approaches.md) _(Current version)_
 
 ### Related:

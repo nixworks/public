@@ -20,8 +20,8 @@ New Zealand television host Paul Henry resigns after provoking public outrage ov
 
 ### Changes:
 
-1. [TVNZ race row:John Key pledges to continue fronting TVNZ's ''Breakfast'' amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-pjohn-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-hen.md) _2017-08-25 03:30:27 (First version)_
-2. [TVNZ race row:: John Key pledges to continue fronting TVNZ's "Breakfast" amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-john-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-henr.md) _2017-08-27 03:30:32 (Update)_
+1. [TVNZ race row:John Key pledges to continue fronting TVNZ's ''Breakfast'' amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-pjohn-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-hen.md) _2018-02-06 13:49:20 (First version)_
+2. [TVNZ race row:: John Key pledges to continue fronting TVNZ's "Breakfast" amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-john-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-henr.md) _2018-02-06 13:49:20 (Update)_
 2. [John Key pledges to continue fronting TVNZ's "Breakfast" amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/john-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-henry-to-be-sacked.md) _(Current version)_
 
 ### Related:

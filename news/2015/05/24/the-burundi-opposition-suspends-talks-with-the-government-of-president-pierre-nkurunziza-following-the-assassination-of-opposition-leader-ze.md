@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-
 
 ### Changes:
 
-1. [2015 Burundian unrest: The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/2015-burundian-unrest-the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination.md) _2017-08-27 03:42:22 (First version)_
+1. [2015 Burundian unrest: The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/2015-burundian-unrest-the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination.md) _2018-02-06 13:49:27 (First version)_
 1. [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md) _(Current version)_
 
 ### Related:

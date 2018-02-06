@@ -16,7 +16,7 @@ TWO people have been killed and several injured, including a police officer, fol
 
 ### Changes:
 
-1. [2017 Jakarta bombings: Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/2017-jakarta-bombings-three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _2017-08-27 03:48:23 (First version)_
+1. [2017 Jakarta bombings: Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/2017-jakarta-bombings-three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _2018-02-06 13:49:30 (First version)_
 1. [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _(Current version)_
 
 ### Related:

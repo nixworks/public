@@ -18,7 +18,7 @@ Rescuers have saved 14 of the 67 people who were on board a floating oil rig whi
 
 ### Changes:
 
-1. [The drilling rig ''Kolskaya'' with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-resu.md) _2017-08-25 03:34:40 (First version)_
+1. [The drilling rig ''Kolskaya'' with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-resu.md) _2018-02-06 13:49:23 (First version)_
 1. [The drilling rig "Kolskaya" with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-result.md) _(Current version)_
 
 ### Related:

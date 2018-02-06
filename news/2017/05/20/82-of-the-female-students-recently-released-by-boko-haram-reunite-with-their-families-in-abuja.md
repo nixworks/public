@@ -16,7 +16,7 @@ Nigeria’s president vows to continue negotiations over freeing remaining Boko 
 
 ### Changes:
 
-1. [Chibok schoolgirls kidnapping: 82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/chibok-schoolgirls-kidnapping-82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _2017-08-27 03:48:22 (First version)_
+1. [Chibok schoolgirls kidnapping: 82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/chibok-schoolgirls-kidnapping-82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _2018-02-06 13:49:30 (First version)_
 1. [82 of the female students recently released by Boko Haram reunite with their families in Abuja. ](/news/2017/05/20/82-of-the-female-students-recently-released-by-boko-haram-reunite-with-their-families-in-abuja.md) _(Current version)_
 
 ### Related:

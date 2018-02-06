@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-ro
 
 ### Changes:
 
-1. [Electoral authorities in Egypt set the first round of the presidential election for 26-27 May. ](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-round-of-the-presidential-election-for-26-27-may.md) _2017-08-27 03:40:32 (First version)_
+1. [Electoral authorities in Egypt set the first round of the presidential election for 26-27 May. ](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-round-of-the-presidential-election-for-26-27-may.md) _2018-02-06 13:49:26 (First version)_
 1. [Electoral authorities in Egypt set the first round of the presidential election for 26-27 May. ](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-round-of-the-presidential-election-for-26a27-may.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-
 
 ### Changes:
 
-1. [War on Terror:Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-pafghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan.md) _2017-08-25 03:36:18 (First version)_
-2. [War on Terror:: Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanista.md) _2017-08-27 03:36:29 (Update)_
+1. [War on Terror:Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-pafghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan.md) _2018-02-06 13:49:23 (First version)_
+2. [War on Terror:: Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanista.md) _2018-02-06 13:49:23 (Update)_
 2. [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md) _(Current version)_
 
 ### Related:

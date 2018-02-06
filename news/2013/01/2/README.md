@@ -21,7 +21,7 @@ _Context: Kachin State, Burma_
 
 ##### South Korea
 ### [Officials in South Korea note a significant decrease in the number of refugees from North Korea reaching the country. ](/news/2013/01/2/officials-in-south-korea-note-a-significant-decrease-in-the-number-of-refugees-from-north-korea-reaching-the-country.md)
-_Context: North Korea, South Korea_
+_Context: South Korea, North Korea_
 
 ##### British
 ### [British comedian Jim Davidson is arrested for alleged historic sexual assaults. ](/news/2013/01/2/british-comedian-jim-davidson-is-arrested-for-alleged-historic-sexual-assaults.md)
@@ -41,15 +41,15 @@ THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursu
 
 ##### Venezuela
 ### [The opposition in Venezuela urges the government to be more transparent about the health of president Hugo Chavez as his inauguration approaches on January 10 amid rumours of his deteriorating health. ](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.md)
-_Context: inauguration approaches, Hugo Chavez, Venezuela_
+_Context: Hugo Chavez, Venezuela, inauguration approaches_
 
 ##### U.S. President
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)
-_Context: fiscal cliff, Barack Obama, U.S. President, American Taxpayer Relief Act of 2012_
+_Context: U.S. President, American Taxpayer Relief Act of 2012, fiscal cliff, Barack Obama_
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
-_Context: United States Secretary of State, blood clot, NewYork-Presbyterian Hospital, Hillary Clinton_
+_Context: United States Secretary of State, blood clot, Hillary Clinton, NewYork-Presbyterian Hospital_
 
 ## [Previous Day...](/news/2013/01/1/index.md)
 

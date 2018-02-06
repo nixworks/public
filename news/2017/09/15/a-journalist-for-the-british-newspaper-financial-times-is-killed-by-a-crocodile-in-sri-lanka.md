@@ -16,7 +16,7 @@ Paul McClean, a 24-year-old British journalist for the Financial Times, died fol
 
 ### Changes:
 
-1. [A journalist for the British newspaper "The Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-the-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md) _2017-09-15 18:30:06 (First version)_
+1. [A journalist for the British newspaper "The Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-the-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md) _2018-02-06 13:49:31 (First version)_
 1. [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemeni-civil-war-2015-yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-missio.md) _2017-08-27 03:42:16 (First version)_
+1. [Yemeni Civil War (2015): Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemeni-civil-war-2015-yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-missio.md) _2018-02-06 13:49:27 (First version)_
 1. [Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-mission.md) _(Current version)_
 
 ### Related:

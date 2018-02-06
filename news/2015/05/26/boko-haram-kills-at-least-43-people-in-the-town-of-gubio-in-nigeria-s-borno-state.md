@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town
 
 ### Changes:
 
-1. [Boko Haram: Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _2017-08-27 03:42:24 (First version)_
+1. [Boko Haram: Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _2018-02-06 13:49:27 (First version)_
 1. [Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _(Current version)_
 
 ### Related:

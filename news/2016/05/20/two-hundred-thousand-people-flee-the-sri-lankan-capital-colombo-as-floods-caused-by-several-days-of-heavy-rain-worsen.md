@@ -16,7 +16,7 @@ Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday 
 
 ### Changes:
 
-1. [2016 Sri Lankan floods: Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. ](/news/2016/05/20/2016-sri-lankan-floods-two-hundred-thousand-people-flee-the-sri-lankan-capital-colombo-as-floods-caused-by-several-days-of-heavy-rain-worse.md) _2017-08-27 03:46:04 (First version)_
+1. [2016 Sri Lankan floods: Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. ](/news/2016/05/20/2016-sri-lankan-floods-two-hundred-thousand-people-flee-the-sri-lankan-capital-colombo-as-floods-caused-by-several-days-of-heavy-rain-worse.md) _2018-02-06 13:49:29 (First version)_
 1. [Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. ](/news/2016/05/20/two-hundred-thousand-people-flee-the-sri-lankan-capital-colombo-as-floods-caused-by-several-days-of-heavy-rain-worsen.md) _(Current version)_
 
 ### Related:

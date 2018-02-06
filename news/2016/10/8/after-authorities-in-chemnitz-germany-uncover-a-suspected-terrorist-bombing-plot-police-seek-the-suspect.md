@@ -16,7 +16,7 @@ German police in the eastern city of Chemnitz detain three people as they contin
 
 ### Changes:
 
-1. [2016 Chemnitz terrorism plot: After authorities in Chemnitz, Germany, uncover a suspected terrorist bombing plot, police seek the suspect. ](/news/2016/10/8/2016-chemnitz-terrorism-plot-after-authorities-in-chemnitz-germany-uncover-a-suspected-terrorist-bombing-plot-police-seek-the-suspect.md) _2017-08-27 03:46:59 (First version)_
+1. [2016 Chemnitz terrorism plot: After authorities in Chemnitz, Germany, uncover a suspected terrorist bombing plot, police seek the suspect. ](/news/2016/10/8/2016-chemnitz-terrorism-plot-after-authorities-in-chemnitz-germany-uncover-a-suspected-terrorist-bombing-plot-police-seek-the-suspect.md) _2018-02-06 13:49:29 (First version)_
 1. [After authorities in Chemnitz, Germany, uncover a suspected terrorist bombing plot, police seek the suspect. ](/news/2016/10/8/after-authorities-in-chemnitz-germany-uncover-a-suspected-terrorist-bombing-plot-police-seek-the-suspect.md) _(Current version)_
 
 ### Related:

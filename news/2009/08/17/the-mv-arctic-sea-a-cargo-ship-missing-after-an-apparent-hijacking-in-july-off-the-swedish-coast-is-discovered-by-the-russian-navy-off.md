@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an
 
 ### Changes:
 
-1. [ The MV ''Arctic Sea'', a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-of.md) _2017-08-25 03:25:30 (First version)_
+1. [ The MV ''Arctic Sea'', a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-of.md) _2018-02-06 13:49:19 (First version)_
 1. [ The MV "Arctic Sea", a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-off.md) _(Current version)_
 
 ### Related:

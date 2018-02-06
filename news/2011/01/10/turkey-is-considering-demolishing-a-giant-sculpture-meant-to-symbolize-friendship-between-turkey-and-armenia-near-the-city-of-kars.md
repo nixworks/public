@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/10/turkey-is-considering-demolishing-a-giant-sculp
 
 ### [2011-01-10](/news/2011/01/10/index.md)
 
-##### Turkish
+##### Turkey
 # Turkey is considering demolishing a giant sculpture, meant to symbolize friendship between Turkey and Armenia, near the city of Kars. 
 
 The Turkish government is reportedly considering demolishing a giant sculpture meant to symbolise reconciliation between Turkey and Armenia.
@@ -19,7 +19,7 @@ The Turkish government is reportedly considering demolishing a giant sculpture m
 ### Related:
 
 1. [In Kars, Turkey, near the Armenian border, a statue devoted to reconciliation with Armenia is demolished. ](/news/2011/04/26/in-kars-turkey-near-the-armenian-border-a-statue-devoted-to-reconciliation-with-armenia-is-demolished.md) _Context: Kars, Turkey, reconciliation_
-2. [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md) _Context: Turkish, reconciliation_
-3. [ Armenia and Turkey normalise their relationship when their foreign ministers sign an accord in Zurich, Switzerland. ](/news/2009/10/10/armenia-and-turkey-normalise-their-relationship-when-their-foreign-ministers-sign-an-accord-in-zurich-switzerland.md) _Context: Turkish, reconciliation_
-4. [ Turkey announces it is to establish formal diplomatic relations with Armenia on October 10. ](/news/2009/09/27/turkey-announces-it-is-to-establish-formal-diplomatic-relations-with-armenia-on-october-10.md) _Context: Turkish, reconciliation_
-5. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkish_
+2. [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md) _Context: Turkey, reconciliation_
+3. [ Armenia and Turkey normalise their relationship when their foreign ministers sign an accord in Zurich, Switzerland. ](/news/2009/10/10/armenia-and-turkey-normalise-their-relationship-when-their-foreign-ministers-sign-an-accord-in-zurich-switzerland.md) _Context: Turkey, reconciliation_
+4. [ Turkey announces it is to establish formal diplomatic relations with Armenia on October 10. ](/news/2009/09/27/turkey-announces-it-is-to-establish-formal-diplomatic-relations-with-armenia-on-october-10.md) _Context: Turkey, reconciliation_
+5. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_

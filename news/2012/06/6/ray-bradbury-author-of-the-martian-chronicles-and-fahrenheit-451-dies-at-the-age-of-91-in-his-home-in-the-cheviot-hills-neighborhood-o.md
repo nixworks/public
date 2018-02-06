@@ -18,7 +18,7 @@ The imaginative evocations of the future in Mr. Bradbury’s science fiction ref
 
 ### Changes:
 
-1. [Ray Bradbury, author of ''The Martian Chronicles'' and ''Fahrenheit 451'', dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborho.md) _2017-08-25 03:35:49 (First version)_
+1. [Ray Bradbury, author of ''The Martian Chronicles'' and ''Fahrenheit 451'', dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborho.md) _2018-02-06 13:49:23 (First version)_
 1. [Ray Bradbury, author of "The Martian Chronicles" and "Fahrenheit 451", dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborhood-o.md) _(Current version)_
 
 ### Related:

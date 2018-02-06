@@ -16,7 +16,7 @@ Police say they have disrupted a terrorist plot targeting Melbourne&#039;s CBD, 
 
 ### Changes:
 
-1. [Terrorism in Australia: Australian police raid several Melbourne properties and arrest seven Arab Australian men, who were believed to be plotting a terrorist attack on several sites in Melbourne for Christmas Day. ](/news/2016/12/23/terrorism-in-australia-australian-police-raid-several-melbourne-properties-and-arrest-seven-arab-australian-men-who-were-believed-to-be-pl.md) _2017-08-27 03:47:30 (First version)_
+1. [Terrorism in Australia: Australian police raid several Melbourne properties and arrest seven Arab Australian men, who were believed to be plotting a terrorist attack on several sites in Melbourne for Christmas Day. ](/news/2016/12/23/terrorism-in-australia-australian-police-raid-several-melbourne-properties-and-arrest-seven-arab-australian-men-who-were-believed-to-be-pl.md) _2018-02-06 13:49:30 (First version)_
 1. [Australian police raid several Melbourne properties and arrest seven Arab Australian men, who were believed to be plotting a terrorist attack on several sites in Melbourne for Christmas Day. ](/news/2016/12/23/australian-police-raid-several-melbourne-properties-and-arrest-seven-arab-australian-men-who-were-believed-to-be-plotting-a-terrorist-attac.md) _(Current version)_
 
 ### Related:

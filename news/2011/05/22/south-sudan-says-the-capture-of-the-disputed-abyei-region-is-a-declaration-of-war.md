@@ -17,8 +17,8 @@ The United Nations Security Council called on the north Sudanese army to withdra
 
 ### Changes:
 
-1. [Sudanese seizure of Abyei:South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-psouth-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _2017-08-25 03:33:13 (First version)_
-2. [Sudanese seizure of Abyei:: South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _2017-08-27 03:33:22 (Update)_
+1. [Sudanese seizure of Abyei:: South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _2018-02-06 13:49:22 (First version)_
+2. [Sudanese seizure of Abyei:South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-psouth-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _2018-02-06 13:49:22 (Update)_
 2. [South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md) _(Current version)_
 
 ### Related:

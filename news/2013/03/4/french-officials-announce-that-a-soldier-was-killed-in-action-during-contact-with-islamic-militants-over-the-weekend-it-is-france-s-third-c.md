@@ -17,8 +17,8 @@ A French soldier is killed in heavy fighting in northern Mali in the same region
 
 ### Changes:
 
-1. [Northern Mali conflict:French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/northern-mali-conflict-pfrench-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weekend.md) _2017-08-25 03:37:43 (First version)_
-2. [Northern Mali conflict:: French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/northern-mali-conflict-french-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weeken.md) _2017-08-27 03:37:54 (Update)_
+1. [Northern Mali conflict:French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/northern-mali-conflict-pfrench-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weekend.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:: French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/northern-mali-conflict-french-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weeken.md) _2018-02-06 13:49:24 (Update)_
 2. [French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/french-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weekend-it-is-france-s-third-c.md) _(Current version)_
 
 ### Related:

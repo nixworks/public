@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/27/securitas-depot-robbery-british-police-announce
 
 ### Changes:
 
-1. [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP {{Nowrap|PS53 million}} (USD {{Nowrap|$92.6 million}}, {{Nowrap|EUR77.8 million}}). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp.md) _2017-05-01 03:17:50 (First version)_
+1. [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP {{Nowrap|PS53 million}} (USD {{Nowrap|$92.6 million}}, {{Nowrap|EUR77.8 million}}). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp.md) _2018-02-06 13:49:16 (First version)_
 1. [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP GBP53 million (USD $92.6 million, EUR77.8 million). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp-a.md) _(Current version)_
 
 ### Related:

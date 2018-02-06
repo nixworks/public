@@ -17,8 +17,8 @@ But federal authorities quickly said the pipeline near a lake will not go forwar
 
 ### Changes:
 
-1. [Dakota Access Pipeline A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/dakota-access-pipeline-pa-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reserva.md) _2017-05-25 03:48:58 (First version)_
-2. [Dakota Access Pipeline: A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/dakota-access-pipeline-a-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reserva.md) _2017-08-27 03:46:48 (Update)_
+1. [Dakota Access Pipeline A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/dakota-access-pipeline-pa-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reserva.md) _2018-02-06 13:49:29 (First version)_
+2. [Dakota Access Pipeline: A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/dakota-access-pipeline-a-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reserva.md) _2018-02-06 13:49:29 (Update)_
 2. [A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/a-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reservation-of-the-sioux-people.md) _(Current version)_
 
 ### Related:

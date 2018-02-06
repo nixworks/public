@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/06/19/two-teenagers-are-arrested-by-police-in-connect
 
 ### Changes:
 
-1. [ Attacks on Romanians in Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/attacks-on-romanians-in-two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md) _2017-08-25 03:24:55 (First version)_
-2. [ Attacks on Romanians in Belfast: Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/attacks-on-romanians-in-belfast-two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md) _2017-08-27 03:24:46 (Update)_
+1. [ Attacks on Romanians in Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/attacks-on-romanians-in-two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md) _2018-02-06 13:49:19 (First version)_
+2. [ Attacks on Romanians in Belfast: Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/attacks-on-romanians-in-belfast-two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md) _2018-02-06 13:49:19 (Update)_
 2. [ Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md) _(Current version)_
 
 ### Related:

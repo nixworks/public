@@ -16,7 +16,7 @@ Colombian President Juan Manuel Santos and Farc rebel leader Timochenko agree to
 
 ### Changes:
 
-1. [Colombian conflict (1964-present): The President of Colombia Juan Manuel Santos and the leader of FARC Timoleon Jimenez will announce a deal on justice for crimes committed in the fifty-year-long conflict. ](/news/2015/09/23/colombian-conflict-1964-present-the-president-of-colombia-juan-manuel-santos-and-the-leader-of-farc-timolea3n-jima-c-nez-will-announce-a.md) _2017-08-27 03:43:08 (First version)_
+1. [Colombian conflict (1964-present): The President of Colombia Juan Manuel Santos and the leader of FARC Timoleon Jimenez will announce a deal on justice for crimes committed in the fifty-year-long conflict. ](/news/2015/09/23/colombian-conflict-1964-present-the-president-of-colombia-juan-manuel-santos-and-the-leader-of-farc-timolea3n-jima-c-nez-will-announce-a.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of Colombia Juan Manuel Santos and the leader of FARC Timoleon Jimenez will announce a deal on justice for crimes committed in the fifty-year-long conflict. ](/news/2015/09/23/the-president-of-colombia-juan-manuel-santos-and-the-leader-of-farc-timolea3n-jima-c-nez-will-announce-a-deal-on-justice-for-crimes-committed.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Minist­ry of Interi­or suspen­ds its first order in which it suspended operat
 
 ### Changes:
 
-1. [Save The Children: Ministry of Interior, Government of Pakistan has suspended its order against the NGO Save the Children for closure of its working and allowed the international aid agency to resume its operation in Pakistan. ](/news/2015/06/14/save-the-children-ministry-of-interior-government-of-pakistan-has-suspended-its-order-against-the-ngo-save-the-children-for-closure-of-its.md) _2017-08-27 03:42:32 (First version)_
+1. [Save The Children: Ministry of Interior, Government of Pakistan has suspended its order against the NGO Save the Children for closure of its working and allowed the international aid agency to resume its operation in Pakistan. ](/news/2015/06/14/save-the-children-ministry-of-interior-government-of-pakistan-has-suspended-its-order-against-the-ngo-save-the-children-for-closure-of-its.md) _2018-02-06 13:49:27 (First version)_
 1. [Ministry of Interior, Government of Pakistan has suspended its order against the NGO Save the Children for closure of its working and allowed the international aid agency to resume its operation in Pakistan. ](/news/2015/06/14/ministry-of-interior-government-of-pakistan-has-suspended-its-order-against-the-ngo-save-the-children-for-closure-of-its-working-and-allowe.md) _(Current version)_
 
 ### Related:

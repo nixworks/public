@@ -19,7 +19,7 @@ Reversing a plan the president-elect had assailed, the company will keep roughly
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump announces that his team has made a deal with Carrier Corporation that would save around 1,000 jobs at an Indiana factory. Carrier had planned to move production from a key factory in that state to Nuevo Leon, Mexico. ](/news/2016/11/30/presidential-transition-of-donald-trump-president-elect-donald-trump-announces-that-his-team-has-made-a-deal-with-carrier-corporation-that.md) _2017-08-27 03:47:20 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump announces that his team has made a deal with Carrier Corporation that would save around 1,000 jobs at an Indiana factory. Carrier had planned to move production from a key factory in that state to Nuevo Leon, Mexico. ](/news/2016/11/30/presidential-transition-of-donald-trump-president-elect-donald-trump-announces-that-his-team-has-made-a-deal-with-carrier-corporation-that.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect Donald Trump announces that his team has made a deal with Carrier Corporation that would save around 1,000 jobs at an Indiana factory. Carrier had planned to move production from a key factory in that state to Nuevo Leon, Mexico. ](/news/2016/11/30/president-elect-donald-trump-announces-that-his-team-has-made-a-deal-with-carrier-corporation-that-would-save-around-1-000-jobs-at-an-indian.md) _(Current version)_
 
 ### Related:

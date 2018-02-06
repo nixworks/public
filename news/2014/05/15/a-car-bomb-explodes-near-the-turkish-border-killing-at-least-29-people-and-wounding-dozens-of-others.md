@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/15/a-car-bomb-explodes-near-the-turkish-border-kil
 
 ### Changes:
 
-1. [Syrian Civil War:A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. ](/news/2014/05/15/syrian-civil-war-pa-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md) _2017-08-25 03:40:24 (First version)_
-2. [Syrian Civil War:: A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. ](/news/2014/05/15/syrian-civil-war-a-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md) _2017-08-27 03:40:42 (Update)_
+1. [Syrian Civil War:A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. ](/news/2014/05/15/syrian-civil-war-pa-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. ](/news/2014/05/15/syrian-civil-war-a-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md) _2018-02-06 13:49:26 (Update)_
 2. [A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. ](/news/2014/05/15/a-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md) _(Current version)_
 
 ### Related:

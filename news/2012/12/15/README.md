@@ -13,7 +13,7 @@ The immigrants were coming from Turkey, and rescuers were seeking nine other peo
 
 ##### Patrick Ibrahim Yakowa
 ### [Patrick Ibrahim Yakowa, the Governor of Nigeria's Kaduna state dies in a helicopter crash in Bayelsa state, together with former national security adviser General Owoye Andrew Azazi and other senior officials. ](/news/2012/12/15/patrick-ibrahim-yakowa-the-governor-of-nigeria-s-kaduna-state-dies-in-a-helicopter-crash-in-bayelsa-state-together-with-former-national-se.md)
-_Context: Owoye Andrew Azazi, Patrick Ibrahim Yakowa, Nigeria, Kaduna, Bayelsa_
+_Context: Kaduna, Patrick Ibrahim Yakowa, Nigeria, Bayelsa, Owoye Andrew Azazi_
 
 ##### Alabama
 ### [Two incidents of shootings happened in the U.S. state of Alabama. A 38-year-old man opens fire at a hospital in Birmingham, wounding a police officer and two employees before he is fatally shot by police. In another unrelated incident, a man suspected of the fatal shooting of three people in a mobile home in Cleburne County, is shot to death near Birmingham by police after brandishing an AK-47. ](/news/2012/12/15/two-incidents-of-shootings-happened-in-the-u-s-state-of-alabama-a-38-year-old-man-opens-fire-at-a-hospital-in-birmingham-wounding-a-polic.md)
@@ -41,11 +41,11 @@ Secretary of State Hillary Rodham Clinton sustained a concussion after fainting 
 
 ##### Russia
 ### [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md)
-_Context: Russia, Vladimir Putin, police, Moscow, Russian President, rally_
+_Context: Moscow, Russia, police, Russian President, rally, Vladimir Putin_
 
 ##### Yamal-402
 ### [Yamal-402, the Russian communications satellite, is taken to its planned geostationary orbit following a series of four adjustment operations. ](/news/2012/12/15/yamal-402-the-russian-communications-satellite-is-taken-to-its-planned-geostationary-orbit-following-a-series-of-four-adjustment-operation.md)
-_Context: Yamal-402, Russia, geostationary orbit, communications satellite_
+_Context: Yamal-402, communications satellite, geostationary orbit, Russia_
 
 ## [Previous Day...](/news/2012/12/14/index.md)
 

@@ -17,7 +17,7 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 
 ### Changes:
 
-1. [Crime in the Philippines: The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/crime-in-the-philippines-the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md) _2017-08-27 03:41:33 (First version)_
+1. [Crime in the Philippines: The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/crime-in-the-philippines-the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md) _2018-02-06 13:49:26 (First version)_
 1. [The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md) _(Current version)_
 
 ### Related:

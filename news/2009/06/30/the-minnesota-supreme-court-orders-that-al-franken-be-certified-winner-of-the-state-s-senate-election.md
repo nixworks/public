@@ -17,7 +17,7 @@ The Minnesota SupremeCourt on Tuesday declared Democrat Al Franken the winner of
 
 ### Changes:
 
-1. [ United States Senate election in Minnesota, 2008: The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. ](/news/2009/06/30/united-states-senate-election-in-minnesota-2008-the-minnesota-supreme-court-orders-that-al-franken-be-certified-winner-of-the-state-s-sen.md) _2017-08-27 03:24:51 (First version)_
+1. [ United States Senate election in Minnesota, 2008: The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. ](/news/2009/06/30/united-states-senate-election-in-minnesota-2008-the-minnesota-supreme-court-orders-that-al-franken-be-certified-winner-of-the-state-s-sen.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. ](/news/2009/06/30/the-minnesota-supreme-court-orders-that-al-franken-be-certified-winner-of-the-state-s-senate-election.md) _(Current version)_
 
 ### Related:

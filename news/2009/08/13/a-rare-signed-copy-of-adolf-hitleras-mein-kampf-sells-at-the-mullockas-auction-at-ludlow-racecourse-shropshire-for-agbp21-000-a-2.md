@@ -21,8 +21,8 @@ The collector who sold a rare signed copy of Hitler&rsquo;s Mein Kampf at auctio
 
 ### Changes:
 
-1. [ A rare signed copy of Adolf Hitler's ''Mein Kampf'' sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for PS21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-aps21-000-a-2.md) _2017-08-25 03:25:28 (First version)_
-2. [ A rare signed copy of Adolf Hitler-s "Mein Kampf" sells at the Mullock-s auction at Ludlow Racecourse, Shropshire, for GBP21,000 (-24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitler-s-mein-kampf-sells-at-the-mullock-s-auction-at-ludlow-racecourse-shropshire-for-agbp21-000-2.md) _2017-08-27 03:25:21 (Update)_
+1. [ A rare signed copy of Adolf Hitler's ''Mein Kampf'' sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for PS21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-aps21-000-a-2.md) _2018-02-06 13:49:19 (First version)_
+2. [ A rare signed copy of Adolf Hitler-s "Mein Kampf" sells at the Mullock-s auction at Ludlow Racecourse, Shropshire, for GBP21,000 (-24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitler-s-mein-kampf-sells-at-the-mullock-s-auction-at-ludlow-racecourse-shropshire-for-agbp21-000-2.md) _2018-02-06 13:49:19 (Update)_
 2. [ A rare signed copy of Adolf Hitler's "Mein Kampf" sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for GBP21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-agbp21-000-a-2.md) _(Current version)_
 
 ### Related:

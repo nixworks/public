@@ -17,8 +17,8 @@ Delawar Hossain Sayedee, a top leader of a fundamentalist Islamic political part
 
 ### Changes:
 
-1. [2013 Bangladesh protests:At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/2013-bangladesh-protests-pat-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-de.md) _2017-08-25 03:37:41 (First version)_
-2. [2013 Bangladesh protests:: At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/2013-bangladesh-protests-at-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-d.md) _2017-08-27 03:37:52 (Update)_
+1. [2013 Bangladesh protests:At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/2013-bangladesh-protests-pat-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-de.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Bangladesh protests:: At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/2013-bangladesh-protests-at-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-d.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/at-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-delwar-hossain-sayeedi-was-s.md) _(Current version)_
 
 ### Related:

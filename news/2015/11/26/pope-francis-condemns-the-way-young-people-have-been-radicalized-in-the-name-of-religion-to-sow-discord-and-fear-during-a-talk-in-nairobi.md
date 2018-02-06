@@ -16,7 +16,7 @@ He also called for a &ldquo;new culture&rdquo; of sustainable development that w
 
 ### Changes:
 
-1. [Pope Francis%27 visit to Kenya: Pope Francis condemns the way young people have been "radicalized in the name of religion to sow discord and fear," during a talk in Nairobi, Kenya. ](/news/2015/11/26/pope-francis-27-visit-to-kenya-pope-francis-condemns-the-way-young-people-have-been-radicalized-in-the-name-of-religion-to-sow-discord-and.md) _2017-08-27 03:44:03 (First version)_
+1. [Pope Francis%27 visit to Kenya: Pope Francis condemns the way young people have been "radicalized in the name of religion to sow discord and fear," during a talk in Nairobi, Kenya. ](/news/2015/11/26/pope-francis-27-visit-to-kenya-pope-francis-condemns-the-way-young-people-have-been-radicalized-in-the-name-of-religion-to-sow-discord-and.md) _2018-02-06 13:49:28 (First version)_
 1. [Pope Francis condemns the way young people have been "radicalized in the name of religion to sow discord and fear," during a talk in Nairobi, Kenya. ](/news/2015/11/26/pope-francis-condemns-the-way-young-people-have-been-radicalized-in-the-name-of-religion-to-sow-discord-and-fear-during-a-talk-in-nairobi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ GENEVA (AP) — The U.N. envoy for Syria appealed to the U.S. and Russia to inte
 
 ### Changes:
 
-1. [Syrian peace process: United Nations envoy for Syria Staffan de Mistura appeals to the United States and Russia to intervene to help revive the failing Syrian peace talks. He stressed fighting needs to decrease for the talks to work, and that won't happen "without some sort of political solution on the horizon." ](/news/2016/04/28/syrian-peace-process-united-nations-envoy-for-syria-staffan-de-mistura-appeals-to-the-united-states-and-russia-to-intervene-to-help-revive.md) _2017-08-27 03:45:54 (First version)_
+1. [Syrian peace process: United Nations envoy for Syria Staffan de Mistura appeals to the United States and Russia to intervene to help revive the failing Syrian peace talks. He stressed fighting needs to decrease for the talks to work, and that won't happen "without some sort of political solution on the horizon." ](/news/2016/04/28/syrian-peace-process-united-nations-envoy-for-syria-staffan-de-mistura-appeals-to-the-united-states-and-russia-to-intervene-to-help-revive.md) _2018-02-06 13:49:29 (First version)_
 1. [United Nations envoy for Syria Staffan de Mistura appeals to the United States and Russia to intervene to help revive the failing Syrian peace talks. He stressed fighting needs to decrease for the talks to work, and that won't happen "without some sort of political solution on the horizon." ](/news/2016/04/28/united-nations-envoy-for-syria-staffan-de-mistura-appeals-to-the-united-states-and-russia-to-intervene-to-help-revive-the-failing-syrian-pea.md) _(Current version)_
 
 ### Related:

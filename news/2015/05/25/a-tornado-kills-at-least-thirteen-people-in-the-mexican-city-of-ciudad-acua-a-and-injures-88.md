@@ -16,7 +16,7 @@ At least 13 people died and dozens more were injured after a freak tornado rippe
 
 ### Changes:
 
-1. [Tornadoes of 2015: A tornado kills at least thirteen people in the Mexican city of Ciudad Acuna and injures 88. ](/news/2015/05/25/tornadoes-of-2015-a-tornado-kills-at-least-thirteen-people-in-the-mexican-city-of-ciudad-acua-a-and-injures-88.md) _2017-08-27 03:42:23 (First version)_
+1. [Tornadoes of 2015: A tornado kills at least thirteen people in the Mexican city of Ciudad Acuna and injures 88. ](/news/2015/05/25/tornadoes-of-2015-a-tornado-kills-at-least-thirteen-people-in-the-mexican-city-of-ciudad-acua-a-and-injures-88.md) _2018-02-06 13:49:27 (First version)_
 1. [A tornado kills at least thirteen people in the Mexican city of Ciudad Acuna and injures 88. ](/news/2015/05/25/a-tornado-kills-at-least-thirteen-people-in-the-mexican-city-of-ciudad-acua-a-and-injures-88.md) _(Current version)_
 
 ### Related:

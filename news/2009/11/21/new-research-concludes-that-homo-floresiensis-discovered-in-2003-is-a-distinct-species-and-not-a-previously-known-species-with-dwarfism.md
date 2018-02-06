@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-d
 
 ### Changes:
 
-1. [ New research concludes that ''Homo floresiensis'', discovered in 2003, is a distinct species and not a previously known species with dwarfism or microcephaly. ](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-discovered-in-2003-is-a-distinct-species-and-not-a-previously-known-species-with-dwarfi.md) _2017-08-25 03:26:25 (First version)_
+1. [ New research concludes that ''Homo floresiensis'', discovered in 2003, is a distinct species and not a previously known species with dwarfism or microcephaly. ](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-discovered-in-2003-is-a-distinct-species-and-not-a-previously-known-species-with-dwarfi.md) _2018-02-06 13:49:19 (First version)_
 1. [ New research concludes that "Homo floresiensis", discovered in 2003, is a distinct species and not a previously known species with dwarfism or microcephaly. ](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-discovered-in-2003-is-a-distinct-species-and-not-a-previously-known-species-with-dwarfism.md) _(Current version)_
 
 ### Related:

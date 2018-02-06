@@ -17,7 +17,7 @@ Eight mummies, colourful coffins and more than 1000 funerary statues have been f
 
 ### Changes:
 
-1. [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500.md) _2017-08-25 03:47:45 (First version)_
+1. [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500.md) _2018-02-06 13:49:30 (First version)_
 1. [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500-yea.md) _(Current version)_
 
 ### Related:

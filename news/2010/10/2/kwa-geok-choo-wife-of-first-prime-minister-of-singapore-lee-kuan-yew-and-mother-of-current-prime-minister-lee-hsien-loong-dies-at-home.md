@@ -23,8 +23,8 @@ Formats: [HTML](/news/2010/10/2/kwa-geok-choo-wife-of-first-prime-minister-of-si
 
 ### Changes:
 
-1. [Death of Kwa Geok Choo:Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/death-of-kwa-geok-choo-pkwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsien.md) _2017-08-25 03:30:19 (First version)_
-2. [Death of Kwa Geok Choo:: Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/death-of-kwa-geok-choo-kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsie.md) _2017-08-27 03:30:23 (Update)_
+1. [Death of Kwa Geok Choo:Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/death-of-kwa-geok-choo-pkwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsien.md) _2018-02-06 13:49:20 (First version)_
+2. [Death of Kwa Geok Choo:: Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/death-of-kwa-geok-choo-kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsie.md) _2018-02-06 13:49:20 (Update)_
 2. [Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsien-loong-dies-at-home.md) _(Current version)_
 
 ### Related:

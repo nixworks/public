@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/05/25/curfew-imposed-in-central-nepal-after-clash-cen
 
 ### Changes:
 
-1. [Curfew imposed in central Nepal after clash. Central Nepal district Dolakha-s government issued curfew order on Sunday following clashes between the police and the Communist Party of Nepal (Maoist)-aligned Young Communist League (YCL) activists. ](/news/2010/05/25/curfew-imposed-in-central-nepal-after-clash-central-nepal-district-dolakha-s-government-issued-curfew-order-on-sunday-following-clashes-b.md) _2017-08-27 03:27:59 (First version)_
+1. [Curfew imposed in central Nepal after clash. Central Nepal district Dolakha-s government issued curfew order on Sunday following clashes between the police and the Communist Party of Nepal (Maoist)-aligned Young Communist League (YCL) activists. ](/news/2010/05/25/curfew-imposed-in-central-nepal-after-clash-central-nepal-district-dolakha-s-government-issued-curfew-order-on-sunday-following-clashes-b.md) _2018-02-06 13:49:20 (First version)_
 1. [Curfew imposed in central Nepal after clash. Central Nepal district Dolakha's government issued curfew order on Sunday following clashes between the police and the Communist Party of Nepal (Maoist)-aligned Young Communist League (YCL) activists. ](/news/2010/05/25/curfew-imposed-in-central-nepal-after-clash-central-nepal-district-dolakhaas-government-issued-curfew-order-on-sunday-following-clashes-b.md) _(Current version)_
 
 ### Related:

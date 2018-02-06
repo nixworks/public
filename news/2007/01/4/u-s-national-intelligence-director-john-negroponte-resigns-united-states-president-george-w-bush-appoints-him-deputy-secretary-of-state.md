@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/01/4/u-s-national-intelligence-director-john-negropon
 
 ### Changes:
 
-1. [ The New Way Forward in Iraq War leadership: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-p-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md) _2017-08-25 03:18:58 (First version)_
-2. [ The New Way Forward in Iraq War leadership:: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md) _2017-08-27 03:18:54 (Update)_
+1. [ The New Way Forward in Iraq War leadership:: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md) _2018-02-06 13:49:17 (First version)_
+2. [ The New Way Forward in Iraq War leadership: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-p-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md) _2018-02-06 13:49:17 (Update)_
 2. [ U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w-bush-appoints-him-deputy-secretary-of-state.md) _(Current version)_
 
 ### Related:

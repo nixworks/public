@@ -16,7 +16,7 @@ Angela Eagle ends her Labour leadership bid, leaving Owen Smith as the sole chal
 
 ### Changes:
 
-1. [Labour Party (UK) leadership election, 2016: Angela Eagle drops out of the race and announces her endorsement of Owen Smith, the last remaining candidate to challenge incumbent party leader Jeremy Corbyn. ](/news/2016/07/19/labour-party-uk-leadership-election-2016-angela-eagle-drops-out-of-the-race-and-announces-her-endorsement-of-owen-smith-the-last-remain.md) _2017-08-27 03:46:31 (First version)_
+1. [Labour Party (UK) leadership election, 2016: Angela Eagle drops out of the race and announces her endorsement of Owen Smith, the last remaining candidate to challenge incumbent party leader Jeremy Corbyn. ](/news/2016/07/19/labour-party-uk-leadership-election-2016-angela-eagle-drops-out-of-the-race-and-announces-her-endorsement-of-owen-smith-the-last-remain.md) _2018-02-06 13:49:29 (First version)_
 1. [Angela Eagle drops out of the race and announces her endorsement of Owen Smith, the last remaining candidate to challenge incumbent party leader Jeremy Corbyn. ](/news/2016/07/19/angela-eagle-drops-out-of-the-race-and-announces-her-endorsement-of-owen-smith-the-last-remaining-candidate-to-challenge-incumbent-party-le.md) _(Current version)_
 
 ### Related:

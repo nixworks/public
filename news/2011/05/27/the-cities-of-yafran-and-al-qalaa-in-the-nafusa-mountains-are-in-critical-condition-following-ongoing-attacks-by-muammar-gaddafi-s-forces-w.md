@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/05/27/the-cities-of-yafran-and-al-qalaa-in-the-nafusa
 
 ### Changes:
 
-1. [2011 Libyan civil war: The cities of Yafran and al-Qalaa in the Nafusa Mountains are in critical condition following ongoing attacks by Muammar Gaddafi's forces, with heavy artillery shelling continuing, water supplies shut off, and no food or medical supplies coming into the towns for weeks. ](/news/2011/05/27/2011-libyan-civil-war-the-cities-of-yafran-and-al-qalaa-in-the-nafusa-mountains-are-in-critical-condition-following-ongoing-attacks-by-muam.md) _2017-08-27 03:33:26 (First version)_
+1. [2011 Libyan civil war: The cities of Yafran and al-Qalaa in the Nafusa Mountains are in critical condition following ongoing attacks by Muammar Gaddafi's forces, with heavy artillery shelling continuing, water supplies shut off, and no food or medical supplies coming into the towns for weeks. ](/news/2011/05/27/2011-libyan-civil-war-the-cities-of-yafran-and-al-qalaa-in-the-nafusa-mountains-are-in-critical-condition-following-ongoing-attacks-by-muam.md) _2018-02-06 13:49:22 (First version)_
 1. [The cities of Yafran and al-Qalaa in the Nafusa Mountains are in critical condition following ongoing attacks by Muammar Gaddafi's forces, with heavy artillery shelling continuing, water supplies shut off, and no food or medical supplies coming into the towns for weeks. ](/news/2011/05/27/the-cities-of-yafran-and-al-qalaa-in-the-nafusa-mountains-are-in-critical-condition-following-ongoing-attacks-by-muammar-gaddafi-s-forces-w.md) _(Current version)_
 
 ### Related:

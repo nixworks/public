@@ -17,8 +17,8 @@ Security council to meet later on Wednesday in response to claims that hundreds 
 
 ### Changes:
 
-1. [Syrian civil war:Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-psyrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md) _2017-08-25 03:39:11 (First version)_
-2. [Syrian civil war:: Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-syrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md) _2017-08-27 03:39:27 (Update)_
+1. [Syrian civil war:: Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-syrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-psyrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A Jordanian policeman opens fire at a police training centre outside Amman, kill
 
 ### Changes:
 
-1. [Amman shooting attack: A Jordanian policeman shoots dead two American instructors and a South African before being killed at a police training centre in Al-Muwaqqar, on the eastern outskirts of Amman. U.S. contractors are sent to the facility to assist Jordanian police trainers. ](/news/2015/11/9/amman-shooting-attack-a-jordanian-policeman-shoots-dead-two-american-instructors-and-a-south-african-before-being-killed-at-a-police-traini.md) _2017-08-27 03:43:45 (First version)_
+1. [Amman shooting attack: A Jordanian policeman shoots dead two American instructors and a South African before being killed at a police training centre in Al-Muwaqqar, on the eastern outskirts of Amman. U.S. contractors are sent to the facility to assist Jordanian police trainers. ](/news/2015/11/9/amman-shooting-attack-a-jordanian-policeman-shoots-dead-two-american-instructors-and-a-south-african-before-being-killed-at-a-police-traini.md) _2018-02-06 13:49:28 (First version)_
 1. [ A Jordanian policeman shoots dead two American instructors and a South African before being killed at a police training centre in Al-Muwaqqar, on the eastern outskirts of Amman. U.S. contractors are sent to the facility to assist Jordanian police trainers. ](/news/2015/11/9/a-jordanian-policeman-shoots-dead-two-american-instructors-and-a-south-african-before-being-killed-at-a-police-training-centre-in-al-muwaqq.md) _(Current version)_
 
 ### Related:

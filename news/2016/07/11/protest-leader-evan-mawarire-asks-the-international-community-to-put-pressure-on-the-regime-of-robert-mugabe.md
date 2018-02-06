@@ -16,7 +16,7 @@ Evan Mawarire urges foreign governments to put pressure on Robert Mugabe and thr
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: Protest leader, Evan Mawarire, asks the international community to put pressure on the regime of Robert Mugabe. ](/news/2016/07/11/2016-zimbabwe-protests-protest-leader-evan-mawarire-asks-the-international-community-to-put-pressure-on-the-regime-of-robert-mugabe.md) _2017-08-27 03:46:28 (First version)_
+1. [2016 Zimbabwe protests: Protest leader, Evan Mawarire, asks the international community to put pressure on the regime of Robert Mugabe. ](/news/2016/07/11/2016-zimbabwe-protests-protest-leader-evan-mawarire-asks-the-international-community-to-put-pressure-on-the-regime-of-robert-mugabe.md) _2018-02-06 13:49:29 (First version)_
 1. [Protest leader, Evan Mawarire, asks the international community to put pressure on the regime of Robert Mugabe. ](/news/2016/07/11/protest-leader-evan-mawarire-asks-the-international-community-to-put-pressure-on-the-regime-of-robert-mugabe.md) _(Current version)_
 
 ### Related:

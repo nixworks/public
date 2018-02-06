@@ -16,7 +16,7 @@ A Russian Soyuz spacecraft with three crew on board successfully docked at the I
 
 ### Changes:
 
-1. [Soyuz TMA-16M: Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-a.md) _2017-08-27 03:42:08 (First version)_
+1. [Soyuz TMA-16M: Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-a.md) _2018-02-06 13:49:26 (First version)_
 1. [Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-and-american-ast.md) _(Current version)_
 
 ### Related:

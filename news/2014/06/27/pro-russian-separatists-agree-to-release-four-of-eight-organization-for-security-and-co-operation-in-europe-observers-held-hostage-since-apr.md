@@ -16,7 +16,7 @@ Rebels in southeast Ukraine early on Friday released four out of eight internati
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Pro-Russian separatists agree to release four of eight Organization for Security and Co-operation in Europe observers held hostage since April. ](/news/2014/06/27/2014-pro-russian-conflict-in-ukraine-pro-russian-separatists-agree-to-release-four-of-eight-organization-for-security-and-co-operation-in-e.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Pro-Russian separatists agree to release four of eight Organization for Security and Co-operation in Europe observers held hostage since April. ](/news/2014/06/27/2014-pro-russian-conflict-in-ukraine-pro-russian-separatists-agree-to-release-four-of-eight-organization-for-security-and-co-operation-in-e.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian separatists agree to release four of eight Organization for Security and Co-operation in Europe observers held hostage since April. ](/news/2014/06/27/pro-russian-separatists-agree-to-release-four-of-eight-organization-for-security-and-co-operation-in-europe-observers-held-hostage-since-apr.md) _(Current version)_
 
 ### Related:

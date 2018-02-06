@@ -16,7 +16,7 @@ A Russian military helicopter has been shot down by Isis near Palmyra, Syria, ki
 
 ### Changes:
 
-1. [Russian intervention: A Russian Air Force Mi-24 helicopter crashes near Palmyra, Syria, while assisting Syrian Army forces in the area. Russia's Ministry of Defence confirms two Russian pilots, Riafa'at Habibulin and Yevgeny Dolgin, are killed. ](/news/2016/07/9/russian-intervention-a-russian-air-force-mi-24-helicopter-crashes-near-palmyra-syria-while-assisting-syrian-army-forces-in-the-area-russ.md) _2017-08-27 03:46:27 (First version)_
+1. [Russian intervention: A Russian Air Force Mi-24 helicopter crashes near Palmyra, Syria, while assisting Syrian Army forces in the area. Russia's Ministry of Defence confirms two Russian pilots, Riafa'at Habibulin and Yevgeny Dolgin, are killed. ](/news/2016/07/9/russian-intervention-a-russian-air-force-mi-24-helicopter-crashes-near-palmyra-syria-while-assisting-syrian-army-forces-in-the-area-russ.md) _2018-02-06 13:49:29 (First version)_
 1. [A Russian Air Force Mi-24 helicopter crashes near Palmyra, Syria, while assisting Syrian Army forces in the area. Russia's Ministry of Defence confirms two Russian pilots, Riafa'at Habibulin and Yevgeny Dolgin, are killed. ](/news/2016/07/9/a-russian-air-force-mi-24-helicopter-crashes-near-palmyra-syria-while-assisting-syrian-army-forces-in-the-area-russia-s-ministry-of-defen.md) _(Current version)_
 
 ### Related:

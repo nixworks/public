@@ -17,7 +17,7 @@ Jammeh once said that he would rule for “one billion years” if “Allah says
 
 ### Changes:
 
-1. [Gambian presidential election, 2016: Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/gambian-presidential-election-2016-leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-g.md) _2017-08-27 03:47:28 (First version)_
+1. [Gambian presidential election, 2016: Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/gambian-presidential-election-2016-leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-g.md) _2018-02-06 13:49:30 (First version)_
 1. [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md) _(Current version)_
 
 ### Related:

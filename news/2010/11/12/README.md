@@ -25,15 +25,15 @@ Ireland is in talks to receive emergency funding from the European Union and is 
 
 ##### Brazil
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
-_Context: Amazon Rainforest, logging, Brazil_
+_Context: Brazil, logging, Amazon Rainforest_
 
 ##### economic
 ### [Eurozone economic growth slows in third quarter. ](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-##### British
+##### United Kingdom
 ### [United Kingdom holiday company Pontin's goes into administration. ](/news/2010/11/12/united-kingdom-holiday-company-pontin-s-goes-into-administration.md)
-_Context: British, Pontin's_
+_Context: United Kingdom, Pontin's_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama's administration announces plans to nominate Joseph Smith to head the Federal Housing Finance Agency. Smith has been the banks commissioner in North Carolina since 2002. ](/news/2010/11/12/u-s-president-barack-obama-s-administration-announces-plans-to-nominate-joseph-smith-to-head-the-federal-housing-finance-agency-smith-has.md)
@@ -53,7 +53,7 @@ _Context: nursing home, Pohang, South Korea_
 
 ##### Mount Bulusan
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: volcano, Mount Bulusan, Philippines_
+_Context: Mount Bulusan, volcano, Philippines_
 
 ##### European windstorm
 ### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km-h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
@@ -73,7 +73,7 @@ Medvedev and Kan to hold talks in Japanese city amid tensions over territorial d
 
 ##### European Union
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: European Union, Iran, nuclear program_
+_Context: European Union, nuclear program, Iran_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
@@ -85,11 +85,11 @@ The trial starts of eight officers charged with the murder of prominent human ri
 
 ##### Hassan Bamoum
 ### [Hassan Bamoum is arrested in Yemen prompting thousands of people to march through cities in the south. ](/news/2010/11/12/hassan-bamoum-is-arrested-in-yemen-prompting-thousands-of-people-to-march-through-cities-in-the-south.md)
-_Context: Hassan Bamoum, Yemen_
+_Context: Yemen, Hassan Bamoum_
 
 ##### Omar Bakri Muhammad
 ### [Omar Bakri Muhammad is sentenced to life imprisonment by a military court in Lebanon. ](/news/2010/11/12/omar-bakri-muhammad-is-sentenced-to-life-imprisonment-by-a-military-court-in-lebanon.md)
-_Context: Lebanon, life imprisonment, Omar Bakri Muhammad_
+_Context: Omar Bakri Muhammad, life imprisonment, Lebanon_
 
 ##### Transparency International
 ### [Transparency International names Poddala Jayantha, Sergei Magnitsky and Gregory Ngbwa Minsta as joint winners of a global award for integrity. ](/news/2010/11/12/transparency-international-names-poddala-jayantha-sergei-magnitsky-and-gregory-ngbwa-minsta-as-joint-winners-of-a-global-award-for-integrit.md)
@@ -97,7 +97,7 @@ A Sri Lankan journalist, a Russian lawyer and a Gabonese activist are commended 
 
 ##### Governor
 ### [A student who guessed the answers to former Governor of Alaska Sarah Palin's security questions in 2008 is convicted of hacking and sentenced to one year in state custody. ](/news/2010/11/12/a-student-who-guessed-the-answers-to-former-governor-of-alaska-sarah-palin-s-security-questions-in-2008-is-convicted-of-hacking-and-sentence.md)
-_Context: hacking, Sarah Palin, Governor_
+_Context: hacking, Governor, Sarah Palin_
 
 ##### Twitter
 ### [One day after the failure of his appeal, Twitterers combine to support Paul Chambers, a Briton convicted and fined for a threatening Twitter message. ](/news/2010/11/12/one-day-after-the-failure-of-his-appeal-twitterers-combine-to-support-paul-chambers-a-briton-convicted-and-fined-for-a-threatening-twitter.md)

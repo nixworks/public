@@ -18,7 +18,7 @@ Dozens of Islamist fighters stormed through the Tunisian town of Ben Guerdan nea
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): At least 50 people are killed, including 33 militants, seven civilians and ten soldiers, in armed clashes between the Tunisian Army and Islamist militants in the town of Ben Gardane, near the border with Libya. ](/news/2016/03/7/insurgency-in-the-maghreb-2002-present-at-least-50-people-are-killed-including-33-militants-seven-civilians-and-ten-soldiers-in-armed.md) _2017-08-27 03:45:09 (First version)_
+1. [Insurgency in the Maghreb (2002-present): At least 50 people are killed, including 33 militants, seven civilians and ten soldiers, in armed clashes between the Tunisian Army and Islamist militants in the town of Ben Gardane, near the border with Libya. ](/news/2016/03/7/insurgency-in-the-maghreb-2002-present-at-least-50-people-are-killed-including-33-militants-seven-civilians-and-ten-soldiers-in-armed.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 50 people are killed, including 33 militants, seven civilians and ten soldiers, in armed clashes between the Tunisian Army and Islamist militants in the town of Ben Gardane, near the border with Libya. ](/news/2016/03/7/at-least-50-people-are-killed-including-33-militants-seven-civilians-and-ten-soldiers-in-armed-clashes-between-the-tunisian-army-and-isla.md) _(Current version)_
 
 ### Related:

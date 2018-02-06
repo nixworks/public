@@ -19,7 +19,7 @@ The Islamic State militant group claimed responsibility for the blasts, which oc
 
 ### Changes:
 
-1. [2016 Brussels bombings: Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/2016-brussels-bombings-three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-m.md) _2017-08-27 03:45:20 (First version)_
+1. [2016 Brussels bombings: Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/2016-brussels-bombings-three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-m.md) _2018-02-06 13:49:28 (First version)_
 1. [Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-more-according-to-belgia.md) _(Current version)_
 
 ### Related:

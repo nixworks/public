@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mog
 
 ### Changes:
 
-1. [Battle of Mogadishu (2010):At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-pat-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-tr.md) _2017-08-25 03:30:48 (First version)_
-2. [Battle of Mogadishu (2010):: At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md) _2017-08-27 03:30:55 (Update)_
+1. [Battle of Mogadishu (2010):At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-pat-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-tr.md) _2018-02-06 13:49:21 (First version)_
+2. [Battle of Mogadishu (2010):: At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md) _2018-02-06 13:49:21 (Update)_
 2. [At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-troops-and-the-islamist-milita.md) _(Current version)_
 
 ### Related:

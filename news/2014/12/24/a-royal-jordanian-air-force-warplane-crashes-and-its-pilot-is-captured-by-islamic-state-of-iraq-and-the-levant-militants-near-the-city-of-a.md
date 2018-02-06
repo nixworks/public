@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/12/24/a-royal-jordanian-air-force-warplane-crashes-an
 
 ### Changes:
 
-1. [American-led intervention in Syria:A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/american-led-intervention-in-syria-pa-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the.md) _2017-08-25 03:41:23 (First version)_
-2. [American-led intervention in Syria:: A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/american-led-intervention-in-syria-a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-th.md) _2017-08-27 03:41:41 (Update)_
+1. [American-led intervention in Syria:A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/american-led-intervention-in-syria-pa-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the.md) _2018-02-06 13:49:26 (First version)_
+2. [American-led intervention in Syria:: A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/american-led-intervention-in-syria-a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-th.md) _2018-02-06 13:49:26 (Update)_
 2. [A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the-levant-militants-near-the-city-of-a.md) _(Current version)_
 
 ### Related:

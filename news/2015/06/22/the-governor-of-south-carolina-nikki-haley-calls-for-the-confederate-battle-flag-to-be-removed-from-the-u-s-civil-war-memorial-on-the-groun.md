@@ -16,7 +16,7 @@ Since the church shooting last week in Charleston, more and more people have cal
 
 ### Changes:
 
-1. [Charleston church shooting: The Governor of South Carolina Nikki Haley calls for the Confederate battle flag to be removed from the U.S. Civil War memorial on the grounds of the South Carolina State House. ](/news/2015/06/22/charleston-church-shooting-the-governor-of-south-carolina-nikki-haley-calls-for-the-confederate-battle-flag-to-be-removed-from-the-u-s-civ.md) _2017-08-27 03:42:34 (First version)_
+1. [Charleston church shooting: The Governor of South Carolina Nikki Haley calls for the Confederate battle flag to be removed from the U.S. Civil War memorial on the grounds of the South Carolina State House. ](/news/2015/06/22/charleston-church-shooting-the-governor-of-south-carolina-nikki-haley-calls-for-the-confederate-battle-flag-to-be-removed-from-the-u-s-civ.md) _2018-02-06 13:49:27 (First version)_
 1. [The Governor of South Carolina Nikki Haley calls for the Confederate battle flag to be removed from the U.S. Civil War memorial on the grounds of the South Carolina State House. ](/news/2015/06/22/the-governor-of-south-carolina-nikki-haley-calls-for-the-confederate-battle-flag-to-be-removed-from-the-u-s-civil-war-memorial-on-the-groun.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-pres
 
 ### Changes:
 
-1. [ Iraq's High Tribunal sentences former Vice President Taha Yassin Ramadan to death for his role in the 1982 killing of 148 men and boys in Dujail following an unsuccessful assassination attempt against Saddam Hussein. ](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-president-taha-yassin-ramadan-to-death-for-his-role-in-the-1982-killing-of-148-men-and-boys-in.md) _2017-08-25 03:19:10 (First version)_
+1. [ Iraq's High Tribunal sentences former Vice President Taha Yassin Ramadan to death for his role in the 1982 killing of 148 men and boys in Dujail following an unsuccessful assassination attempt against Saddam Hussein. ](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-president-taha-yassin-ramadan-to-death-for-his-role-in-the-1982-killing-of-148-men-and-boys-in.md) _2018-02-06 13:49:17 (First version)_
 1. [ Iraq's High Tribunal sentences former Vice President Taha Yassin Ramadan to death for his role in the 1982 killing of 148 men and boys in Dujail following an unsuccessful assassination attempt against Saddam Hussein. ](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-president-taha-yassin-ramadan-to-death-for-his-role-in-the-1982-killing-of-148-men-and-boys-in-d.md) _(Current version)_
 
 ### Related:

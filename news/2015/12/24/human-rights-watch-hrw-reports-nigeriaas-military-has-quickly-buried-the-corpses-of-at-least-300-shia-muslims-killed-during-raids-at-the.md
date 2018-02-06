@@ -17,7 +17,7 @@ Rights groups call on Nigerian government to conduct investigation into the viol
 
 ### Changes:
 
-1. [2015 Zaria Shia Massacre: Human Rights Watch (HRW) reports Nigeria-s military has quickly buried the corpses of at least 300 Shia Muslims killed during raids at the house of Ibrahim Zakzaky in Zaria earlier in December. ](/news/2015/12/24/2015-zaria-shia-massacre-human-rights-watch-hrw-reports-nigeria-s-military-has-quickly-buried-the-corpses-of-at-least-300-shia-muslims.md) _2017-08-27 03:44:30 (First version)_
+1. [2015 Zaria Shia Massacre: Human Rights Watch (HRW) reports Nigeria-s military has quickly buried the corpses of at least 300 Shia Muslims killed during raids at the house of Ibrahim Zakzaky in Zaria earlier in December. ](/news/2015/12/24/2015-zaria-shia-massacre-human-rights-watch-hrw-reports-nigeria-s-military-has-quickly-buried-the-corpses-of-at-least-300-shia-muslims.md) _2018-02-06 13:49:28 (First version)_
 1. [Human Rights Watch (HRW) reports Nigeria's military has quickly buried the corpses of at least 300 Shia Muslims killed during raids at the house of Ibrahim Zakzaky in Zaria earlier in December. ](/news/2015/12/24/human-rights-watch-hrw-reports-nigeriaas-military-has-quickly-buried-the-corpses-of-at-least-300-shia-muslims-killed-during-raids-at-the.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ They are believed to be 1,800m underground and in danger from volatile gases.
 
 ### Changes:
 
-1. [An explosion at a coal mine near Azadshahr, Iran, kills at least two miners and traps over 50 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-two-miners-and-traps-over-50-others-according-to-state-media.md) _2017-05-04 00:30:07 (First version)_
-2. [An explosion at a coal mine near Azadshahr, Iran, kills at least 21 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-21-miners-and-traps-39-others-according-to-state-media.md) _2017-05-04 13:30:07 (Update)_
+1. [An explosion at a coal mine near Azadshahr, Iran, kills at least two miners and traps over 50 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-two-miners-and-traps-over-50-others-according-to-state-media.md) _2018-02-06 13:49:30 (First version)_
+2. [An explosion at a coal mine near Azadshahr, Iran, kills at least 21 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-21-miners-and-traps-39-others-according-to-state-media.md) _2018-02-06 13:49:30 (Update)_
 2. [An explosion at a coal mine near Azadshahr, Iran, kills at least 35 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-35-miners-and-traps-39-others-according-to-state-media.md) _(Current version)_
 
 ### Related:

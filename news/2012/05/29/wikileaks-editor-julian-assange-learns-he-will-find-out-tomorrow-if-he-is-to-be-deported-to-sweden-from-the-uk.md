@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/05/29/wikileaks-editor-julian-assange-learns-he-will-
 
 ### Changes:
 
-1. [''Assange v The Swedish Judicial Authority'':WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-pwikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sw.md) _2017-08-25 03:35:46 (First version)_
-2. ["Assange v The Swedish Judicial Authority":: WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-swe.md) _2017-08-27 03:35:57 (Update)_
+1. ["Assange v The Swedish Judicial Authority":: WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-swe.md) _2018-02-06 13:49:23 (First version)_
+2. [''Assange v The Swedish Judicial Authority'':WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-pwikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sw.md) _2018-02-06 13:49:23 (Update)_
 2. [WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sweden-from-the-uk.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/05/31/football-world-cup-2002-senegal-defeats-defendi
 
 ### Changes:
 
-1. [ Football World Cup 2002: Senegal defeats defending champion France 1-0.](/news/2002/05/31/football-world-cup-2002-senegal-defeats-defending-champion-france-1-0.md) _2017-08-27 03:15:13 (First version)_
+1. [ Football World Cup 2002: Senegal defeats defending champion France 1-0.](/news/2002/05/31/football-world-cup-2002-senegal-defeats-defending-champion-france-1-0.md) _2018-02-06 13:49:15 (First version)_
 1. [ Football World Cup 2002: Senegal defeats defending champion France 1-0.](/news/2002/05/31/football-world-cup-2002-senegal-defeats-defending-champion-france-1a0.md) _(Current version)_
 
 ### Related:

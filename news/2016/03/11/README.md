@@ -5,11 +5,11 @@ Formats: [HTML](2016/03/11/index.html)  [JSON](2016/03/11/index.json)  [XML](201
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [The Algerian Army kills three suspected Islamist militants near the eastern city of El Oued and seizes a large quantity of weapons, including six anti-aircraft missiles. ](/news/2016/03/11/the-algerian-army-kills-three-suspected-islamist-militants-near-the-eastern-city-of-el-oued-and-seizes-a-large-quantity-of-weapons-includin.md)
-_Context: Algerian Army, Insurgency in the Maghreb (2002-present), El Oued_
+_Context: El Oued, Algerian Army, Insurgency in the Maghreb (2002-present)_
 
 ##### Yemeni Civil War (2015-present)
 ### [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md)
-_Context: Taiz, Yemen, Yemeni Civil War (2015-present)_
+_Context: Yemeni Civil War (2015-present), Yemen, Taiz_
 
 ##### Wounded Warrior Project
 ### [American veterans' nonprofit charity The Wounded Warrior Project board of directors removes chief executive officer Steven Nardizzi and chief operation officer Al Giordano after an independent investigation confirms earlier news reports about lavish spending on employee perks, high overhead, and other perceived malfeasance. ](/news/2016/03/11/american-veteransa-nonprofit-charity-the-wounded-warrior-project-board-of-directors-removes-chief-executive-officer-steven-nardizzi-and-ch.md)
@@ -21,15 +21,15 @@ By Serajul QuadirDHAKA (Reuters) -...
 
 ##### General Motors
 ### [General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. ](/news/2016/03/11/general-motors-acquires-cruise-automation-a-three-year-old-software-company-that-s-been-testing-self-driving-cars-on-the-streets-of-san-fra.md)
-_Context: General Motors, software company, self-driving cars, San Francisco_
+_Context: San Francisco, General Motors, software company, self-driving cars_
 
 ##### Japan
 ### [Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md)
-_Context: 2011 Tohoku earthquake and tsunami, Japan, recovery, Prime Minister of Japan, Emperor, Fukushima Daiichi nuclear disaster_
+_Context: 2011 Tohoku earthquake and tsunami, Prime Minister of Japan, recovery, Japan, Emperor, Fukushima Daiichi nuclear disaster_
 
 ##### 2016 SGBPo Paulo flood and mudslide
 ### [At least 15 people are killed by flooding and mudslides in and around SGBPo Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sagbpo-paulo-brazil-following-heavy-rain.md)
-_Context: Brazil, 2016 SGBPo Paulo flood and mudslide, SGBPo Paulo_
+_Context: 2016 SGBPo Paulo flood and mudslide, Brazil, SGBPo Paulo_
 
 ##### North Korea's nuclear program
 ### [Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuclear-weapons-to-improve-its-capacity.md)
@@ -41,11 +41,11 @@ The report alleges that government forces are permitted to rape women in lieu of
 
 ##### Arab League
 ### [The Arab League declares the Lebanon-based Shiite group Hezbollah a terrorist organization. ](/news/2016/03/11/the-arab-league-declares-the-lebanon-based-shiite-group-hezbollah-a-terrorist-organization.md)
-_Context: Lebanon, Hezbollah, Arab League_
+_Context: Lebanon, Arab League, Hezbollah_
 
 ##### Saudi Arabia
 ### [The delegation from Saudi Arabia departed from the meeting of the Arab League, offended by remarks of the Foreign Minister of Iraq, Ibrahim al-Jaafari, an indication of increasing tension among Arab states. ](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.md)
-_Context: Ibrahim al-Jaafari, Arab League, Saudi Arabia, Iraq_
+_Context: Saudi Arabia, Ibrahim al-Jaafari, Arab League, Iraq_
 
 ##### Syrian peace process
 ### [The High Negotiations Committee, Syria's main opposition group, will attend Monday's U.N.-brokered peace talks in Geneva, Switzerland, a day shy of the fifth anniversary of the start of the conflict, and two-plus weeks into the ceasefire agreement. Although fighting continues, a significant drop in violence has been seen during the truce. The first round of Geneva talks collapsed on Feb. 3 during a government offensive against rebels in Aleppo. ](/news/2016/03/11/the-high-negotiations-committee-syria-s-main-opposition-group-will-attend-monday-s-u-n-brokered-peace-talks-in-geneva-switzerland-a-day.md)
@@ -61,7 +61,7 @@ Scientists say a newly discovered microbe can break down plastic containers that
 
 ##### Astronaut
 ### [Astronaut Scott Kelly announces his retirement from NASA effective April 1. Kelly holds the record for the American who has spent the most time in space. ](/news/2016/03/11/astronaut-scott-kelly-announces-his-retirement-from-nasa-effective-april-1-kelly-holds-the-record-for-the-american-who-has-spent-the-most-t.md)
-_Context: Scott Kelly, NASA, Astronaut_
+_Context: NASA, Scott Kelly, Astronaut_
 
 ##### National Academies of Sciences, Engineering, and Medicine
 ### [A report from the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures, while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accurately.md)

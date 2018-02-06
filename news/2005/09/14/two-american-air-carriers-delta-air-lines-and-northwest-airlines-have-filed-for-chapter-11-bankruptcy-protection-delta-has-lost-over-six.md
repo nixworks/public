@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/09/14/two-american-air-carriers-delta-air-lines-and-n
 
 ### Changes:
 
-1. [ Two American air carriers, Delta Air Lines and Northwest Airlines, have filed for Chapter 11 bankruptcy protection. Delta has lost over six billion USD since the start of 2001.](/news/2005/09/14/two-american-air-carriers-delta-air-lines-and-northwest-airlines-have-filed-for-chapter-11-bankruptcy-protection-delta-has-lost-over-s.md) _2017-08-25 03:16:47 (First version)_
+1. [ Two American air carriers, Delta Air Lines and Northwest Airlines, have filed for Chapter 11 bankruptcy protection. Delta has lost over six billion USD since the start of 2001.](/news/2005/09/14/two-american-air-carriers-delta-air-lines-and-northwest-airlines-have-filed-for-chapter-11-bankruptcy-protection-delta-has-lost-over-s.md) _2018-02-06 13:49:16 (First version)_
 1. [ Two American air carriers, Delta Air Lines and Northwest Airlines, have filed for Chapter 11 bankruptcy protection. Delta has lost over six billion USD since the start of 2001.](/news/2005/09/14/two-american-air-carriers-delta-air-lines-and-northwest-airlines-have-filed-for-chapter-11-bankruptcy-protection-delta-has-lost-over-six.md) _(Current version)_
 
 ### Related:

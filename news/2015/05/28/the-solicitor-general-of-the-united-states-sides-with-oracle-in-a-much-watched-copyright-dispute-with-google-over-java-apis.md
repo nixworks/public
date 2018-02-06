@@ -16,7 +16,7 @@ The dispute between Google and Oracle revolves around whether Java APIs can be c
 
 ### Changes:
 
-1. [The Solicitor General of the United States sides with Oracle in a much-watched copyright dispute with Google over Java APIs. [http:--www.javaworld.com-article-2927978-open-source-tools-us-sides-with-oracle-in-java-copyright-dispute-with-google.html (IDG News Service)].](/news/2015/05/28/the-solicitor-general-of-the-united-states-sides-with-oracle-in-a-much-watched-copyright-dispute-with-google-over-java-apis-http-www-jav.md) _2017-06-18 03:44:35 (First version)_
+1. [The Solicitor General of the United States sides with Oracle in a much-watched copyright dispute with Google over Java APIs. [http:--www.javaworld.com-article-2927978-open-source-tools-us-sides-with-oracle-in-java-copyright-dispute-with-google.html (IDG News Service)].](/news/2015/05/28/the-solicitor-general-of-the-united-states-sides-with-oracle-in-a-much-watched-copyright-dispute-with-google-over-java-apis-http-www-jav.md) _2018-02-06 13:49:27 (First version)_
 1. [The Solicitor General of the United States sides with Oracle in a much-watched copyright dispute with Google over Java APIs. ](/news/2015/05/28/the-solicitor-general-of-the-united-states-sides-with-oracle-in-a-much-watched-copyright-dispute-with-google-over-java-apis.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A suicide bomber killed at least 12 people when he blew himself up on Thursday a
 
 ### Changes:
 
-1. [Syrian civil war: A suicide bombing at the opening of a local police station in the rebel-held town of Inkhil, Daraa Governorate, in southern Syria, kills at least 12 people, including an opposition minister. ](/news/2016/09/22/syrian-civil-war-a-suicide-bombing-at-the-opening-of-a-local-police-station-in-the-rebel-held-town-of-inkhil-daraa-governorate-in-souther.md) _2017-08-27 03:46:53 (First version)_
+1. [Syrian civil war: A suicide bombing at the opening of a local police station in the rebel-held town of Inkhil, Daraa Governorate, in southern Syria, kills at least 12 people, including an opposition minister. ](/news/2016/09/22/syrian-civil-war-a-suicide-bombing-at-the-opening-of-a-local-police-station-in-the-rebel-held-town-of-inkhil-daraa-governorate-in-souther.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing at the opening of a local police station in the rebel-held town of Inkhil, Daraa Governorate, in southern Syria, kills at least 12 people, including an opposition minister. ](/news/2016/09/22/a-suicide-bombing-at-the-opening-of-a-local-police-station-in-the-rebel-held-town-of-inkhil-daraa-governorate-in-southern-syria-kills-at.md) _(Current version)_
 
 ### Related:

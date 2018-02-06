@@ -18,7 +18,7 @@ The migrant corpses and survivors were transferred to rescue vessels from at lea
 
 ### Changes:
 
-1. [European migrant crisis: Rescuers recovered 8 bodies and saved 1400 migrants adrift on the Mediterranean Sea today. ](/news/2016/11/22/european-migrant-crisis-rescuers-recovered-8-bodies-and-saved-1400-migrants-adrift-on-the-mediterranean-sea-today.md) _2017-08-27 03:47:16 (First version)_
+1. [European migrant crisis: Rescuers recovered 8 bodies and saved 1400 migrants adrift on the Mediterranean Sea today. ](/news/2016/11/22/european-migrant-crisis-rescuers-recovered-8-bodies-and-saved-1400-migrants-adrift-on-the-mediterranean-sea-today.md) _2018-02-06 13:49:29 (First version)_
 1. [Rescuers recovered 8 bodies and saved 1400 migrants adrift on the Mediterranean Sea today. ](/news/2016/11/22/rescuers-recovered-8-bodies-and-saved-1400-migrants-adrift-on-the-mediterranean-sea-today.md) _(Current version)_
 
 ### Related:

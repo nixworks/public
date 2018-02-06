@@ -22,8 +22,8 @@ Poland has earmarked 2 billion zlotys ($590 million) from budget reserves to hel
 
 ### Changes:
 
-1. [May 2010 Central European floods:Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-pwarsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md) _2017-08-25 03:28:01 (First version)_
-2. [May 2010 Central European floods:: Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md) _2017-08-27 03:27:59 (Update)_
+1. [May 2010 Central European floods:: Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md) _2018-02-06 13:49:20 (First version)_
+2. [May 2010 Central European floods:Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-pwarsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md) _2018-02-06 13:49:20 (Update)_
 2. [Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-a
 
 ### Changes:
 
-1. [Armenia-Russia relations: Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-russia-relations-armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-syste.md) _2017-08-27 03:46:23 (First version)_
+1. [Armenia-Russia relations: Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-russia-relations-armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-syste.md) _2018-02-06 13:49:29 (First version)_
 1. [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md) _(Current version)_
 
 ### Related:

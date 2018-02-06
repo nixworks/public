@@ -17,7 +17,7 @@ The detection has triggered more efforts to beef up surveillance and testing cap
 
 ### Changes:
 
-1. [ 2015-16 Zika virus epidemic: The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. ](/news/2016/05/21/2015-16-zika-virus-epidemic-the-world-health-organization-confirms-that-the-zika-virus-strain-spreading-in-cape-verde-is-the-same-as-the-o.md) _2017-08-27 03:46:05 (First version)_
+1. [ 2015-16 Zika virus epidemic: The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. ](/news/2016/05/21/2015-16-zika-virus-epidemic-the-world-health-organization-confirms-that-the-zika-virus-strain-spreading-in-cape-verde-is-the-same-as-the-o.md) _2018-02-06 13:49:29 (First version)_
 1. [ The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. ](/news/2016/05/21/the-world-health-organization-confirms-that-the-zika-virus-strain-spreading-in-cape-verde-is-the-same-as-the-one-in-the-americas.md) _(Current version)_
 
 ### Related:

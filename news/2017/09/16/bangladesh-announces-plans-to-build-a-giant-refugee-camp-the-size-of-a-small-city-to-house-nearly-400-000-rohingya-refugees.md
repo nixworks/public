@@ -16,9 +16,9 @@ Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a
 
 ### Changes:
 
-1. [Bangladesh plans on building refugee camps the size of a small city to house 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-plans-on-building-refugee-camps-the-size-of-a-small-city-to-house-400-000-rohingya-refugees.md) _2017-09-16 22:30:06 (First version)_
-2. [Bangladesh announces plans to build refugee camps the size of a small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-a-small-cities-to-house-nearly-400-000-rohingya-refugees.md) _2017-09-17 03:49:21 (Update)_
-3. [Bangladesh announces plans to build refugee camps the size of small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-small-cities-to-house-nearly-400-000-rohingya-refugees.md) _2017-09-17 10:30:05 (Update)_
+1. [Bangladesh plans on building refugee camps the size of a small city to house 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-plans-on-building-refugee-camps-the-size-of-a-small-city-to-house-400-000-rohingya-refugees.md) _2018-02-06 13:49:31 (First version)_
+2. [Bangladesh announces plans to build refugee camps the size of small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-small-cities-to-house-nearly-400-000-rohingya-refugees.md) _2018-02-06 13:49:31 (Update)_
+3. [Bangladesh announces plans to build refugee camps the size of a small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-a-small-cities-to-house-nearly-400-000-rohingya-refugees.md) _2018-02-06 13:49:31 (Update)_
 3. [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md) _(Current version)_
 
 ### Related:

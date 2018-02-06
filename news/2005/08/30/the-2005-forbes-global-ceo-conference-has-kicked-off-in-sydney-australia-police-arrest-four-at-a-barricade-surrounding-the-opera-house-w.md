@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/08/30/the-2005-forbes-global-ceo-conference-has-kicke
 
 ### Changes:
 
-1. [ The 2005 Forbes Global CEO Conference has kicked off in Sydney, Australia. Police arrest four at a barricade surrounding the Opera House (Wikinews) ](/news/2005/08/30/the-2005-forbes-global-ceo-conference-has-kicked-off-in-sydney-australia-police-arrest-four-at-a-barricade-surrounding-the-opera-house.md) _2017-08-25 03:16:44 (First version)_
+1. [ The 2005 Forbes Global CEO Conference has kicked off in Sydney, Australia. Police arrest four at a barricade surrounding the Opera House (Wikinews) ](/news/2005/08/30/the-2005-forbes-global-ceo-conference-has-kicked-off-in-sydney-australia-police-arrest-four-at-a-barricade-surrounding-the-opera-house.md) _2018-02-06 13:49:16 (First version)_
 1. [ The 2005 Forbes Global CEO Conference has kicked off in Sydney, Australia. Police arrest four at a barricade surrounding the Opera House (Wikinews) ](/news/2005/08/30/the-2005-forbes-global-ceo-conference-has-kicked-off-in-sydney-australia-police-arrest-four-at-a-barricade-surrounding-the-opera-house-w.md) _(Current version)_
 
 ### Related:

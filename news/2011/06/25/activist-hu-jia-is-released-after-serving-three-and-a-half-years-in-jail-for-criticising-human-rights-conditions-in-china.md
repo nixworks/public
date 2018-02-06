@@ -19,8 +19,8 @@ Hu was imprisoned for criticising human rights conditions in China ahead of the 
 
 ### Changes:
 
-1. [Release of Chinese dissidents:Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/release-of-chinese-dissidents-pactivist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-conditi.md) _2017-08-25 03:33:34 (First version)_
-2. [Release of Chinese dissidents:: Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/release-of-chinese-dissidents-activist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-condit.md) _2017-08-27 03:33:42 (Update)_
+1. [Release of Chinese dissidents:Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/release-of-chinese-dissidents-pactivist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-conditi.md) _2018-02-06 13:49:22 (First version)_
+2. [Release of Chinese dissidents:: Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/release-of-chinese-dissidents-activist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-condit.md) _2018-02-06 13:49:22 (Update)_
 2. [Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/activist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-conditions-in-china.md) _(Current version)_
 
 ### Related:

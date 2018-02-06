@@ -18,8 +18,8 @@ At least five police officers have died in another armed clash with gunmen in ea
 
 ### Changes:
 
-1. [2013 Lahad Datu standoff:Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/2013-lahad-datu-standoff-pfighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage-i.md) _2017-08-25 03:37:42 (First version)_
-2. [2013 Lahad Datu standoff:: Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/2013-lahad-datu-standoff-fighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage.md) _2017-08-27 03:37:53 (Update)_
+1. [2013 Lahad Datu standoff:Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/2013-lahad-datu-standoff-pfighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage-i.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Lahad Datu standoff:: Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/2013-lahad-datu-standoff-fighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage.md) _2018-02-06 13:49:24 (Update)_
 2. [Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/fighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage-in-response-the-malaysian.md) _(Current version)_
 
 ### Related:

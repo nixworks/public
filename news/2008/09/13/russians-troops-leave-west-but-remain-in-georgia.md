@@ -21,6 +21,6 @@ Damages in civil infrastructure estimated at 1.5 to 2 billion dollars. Western c
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/2008-south-ossetia-war-p-russians-troops-leave-west-but-remain-in-georgia.md) _2017-08-25 03:22:51 (First version)_
-2. [ 2008 South Ossetia war:: Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/2008-south-ossetia-war-russians-troops-leave-west-but-remain-in-georgia.md) _2017-08-27 03:22:45 (Update)_
+1. [ 2008 South Ossetia war:: Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/2008-south-ossetia-war-russians-troops-leave-west-but-remain-in-georgia.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war: Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/2008-south-ossetia-war-p-russians-troops-leave-west-but-remain-in-georgia.md) _2018-02-06 13:49:18 (Update)_
 2. [ Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.md) _(Current version)_

@@ -13,7 +13,7 @@ The Taliban claimed responsibility for a suicide attack Tuesday in central Afgha
 
 ##### War in Somalia (2009-present)
 ### [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md)
-_Context: War in Somalia (2009-present), Mogadishu, President, Al-Shabaab_
+_Context: President, War in Somalia (2009-present), Al-Shabaab, Mogadishu_
 
 ##### Typhoon Neoguri
 ### [Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-islands-urged-to-evacuate.md)
@@ -21,7 +21,7 @@ _Context: Japan, Typhoon Neoguri, Okinawa_
 
 ##### South Africa
 ### [More than 50 people are injured after two trains collide near the South African city of Durban. ](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.md)
-_Context: South Africa, Durban_
+_Context: Durban, South Africa_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md)
@@ -41,11 +41,11 @@ Rengan Rajaratnam, the brother of Galleon Group LLC co-founder Raj Rajaratnam, b
 
 ##### pro-US
 ### [Around 70 pro-US activists occupy Taiwan provincial government hall. ](/news/2014/07/8/around-70-pro-us-activists-occupy-taiwan-provincial-government-hall.md)
-_Context: pro-US, Taiwan provincial_
+_Context: Taiwan provincial, pro-US_
 
 ##### several spending scandals
 ### [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of-a.md)
-_Context: several spending scandals, UMP_
+_Context: UMP, several spending scandals_
 
 ## [Previous Day...](/news/2014/07/7/index.md)
 

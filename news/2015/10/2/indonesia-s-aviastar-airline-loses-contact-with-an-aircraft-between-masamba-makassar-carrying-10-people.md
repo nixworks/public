@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/2/indonesia-s-aviastar-airline-loses-contact-with-
 
 ### Changes:
 
-1. [Aviastar Flight 7503: Indonesia's Aviastar airline loses contact with an aircraft between Masamba-Makassar carrying 10 people. ](/news/2015/10/2/aviastar-flight-7503-indonesia-s-aviastar-airline-loses-contact-with-an-aircraft-between-masamba-makassar-carrying-10-people.md) _2017-08-27 03:43:13 (First version)_
+1. [Aviastar Flight 7503: Indonesia's Aviastar airline loses contact with an aircraft between Masamba-Makassar carrying 10 people. ](/news/2015/10/2/aviastar-flight-7503-indonesia-s-aviastar-airline-loses-contact-with-an-aircraft-between-masamba-makassar-carrying-10-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Indonesia's Aviastar airline loses contact with an aircraft between Masamba-Makassar carrying 10 people. ](/news/2015/10/2/indonesia-s-aviastar-airline-loses-contact-with-an-aircraft-between-masamba-makassar-carrying-10-people.md) _(Current version)_
 
 ### Related:

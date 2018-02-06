@@ -18,7 +18,7 @@ The controversial case has been watched closely by the rest of the country, and 
 
 ### Changes:
 
-1. [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8-3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md) _2017-08-27 03:22:40 (First version)_
+1. [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8-3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md) _2018-02-06 13:49:18 (First version)_
 1. [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8a3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md) _(Current version)_
 
 ### Related:

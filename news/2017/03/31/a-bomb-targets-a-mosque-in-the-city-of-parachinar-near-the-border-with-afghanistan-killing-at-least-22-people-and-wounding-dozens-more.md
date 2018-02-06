@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachin
 
 ### Changes:
 
-1. [War in North-West Pakistan: A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/war-in-north-west-pakistan-a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-an.md) _2017-08-27 03:48:05 (First version)_
+1. [War in North-West Pakistan: A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/war-in-north-west-pakistan-a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-an.md) _2018-02-06 13:49:30 (First version)_
 1. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _(Current version)_
 
 ### Related:

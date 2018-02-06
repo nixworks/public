@@ -18,7 +18,7 @@ Vladimir Putin orders increase in airstrikes on Syria, and Egypt denies reports 
 
 ### Changes:
 
-1. [Metrojet Flight 9268: Russia's Federal Security Service announces that the plane was destroyed by a bomb. ](/news/2015/11/17/metrojet-flight-9268-russia-s-federal-security-service-announces-that-the-plane-was-destroyed-by-a-bomb.md) _2017-08-27 03:43:54 (First version)_
+1. [Metrojet Flight 9268: Russia's Federal Security Service announces that the plane was destroyed by a bomb. ](/news/2015/11/17/metrojet-flight-9268-russia-s-federal-security-service-announces-that-the-plane-was-destroyed-by-a-bomb.md) _2018-02-06 13:49:28 (First version)_
 1. [Russia's Federal Security Service announces that the plane was destroyed by a bomb. ](/news/2015/11/17/russia-s-federal-security-service-announces-that-the-plane-was-destroyed-by-a-bomb.md) _(Current version)_
 
 ### Related:

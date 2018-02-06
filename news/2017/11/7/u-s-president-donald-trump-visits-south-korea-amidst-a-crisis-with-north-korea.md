@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-am
 
 ### Changes:
 
-1. [U.S. President Donald Trump visits South Korea amidst the 2017 North Korea crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korea-crisis.md) _2017-11-07 19:30:06 (First version)_
-2. [U.S. President Donald Trump visits South Korea amidst the 2017 North Korean crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korean-crisis.md) _2017-11-08 00:30:06 (Update)_
+1. [U.S. President Donald Trump visits South Korea amidst the 2017 North Korean crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korean-crisis.md) _2018-02-06 13:49:31 (First version)_
+2. [U.S. President Donald Trump visits South Korea amidst the 2017 North Korea crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korea-crisis.md) _2018-02-06 13:49:31 (Update)_
 2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _(Current version)_
 
 ### Related:

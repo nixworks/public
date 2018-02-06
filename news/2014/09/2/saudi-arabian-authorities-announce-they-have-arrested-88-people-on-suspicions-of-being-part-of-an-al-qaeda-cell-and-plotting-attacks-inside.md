@@ -16,8 +16,8 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 
 ### Changes:
 
-1. [Terrorism in Saudi Arabia:Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-psaudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell-a.md) _2017-08-25 03:40:55 (First version)_
-2. [Terrorism in Saudi Arabia:: Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell.md) _2017-08-27 03:41:14 (Update)_
+1. [Terrorism in Saudi Arabia:: Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell.md) _2018-02-06 13:49:26 (First version)_
+2. [Terrorism in Saudi Arabia:Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-psaudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell-a.md) _2018-02-06 13:49:26 (Update)_
 2. [Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell-and-plotting-attacks-inside.md) _(Current version)_
 
 ### Related:

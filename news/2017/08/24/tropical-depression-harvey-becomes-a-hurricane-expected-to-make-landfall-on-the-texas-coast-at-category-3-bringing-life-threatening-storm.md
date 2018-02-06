@@ -17,8 +17,8 @@ Devastating rainfall flooding, dangerous storm surge and high winds are expected
 
 ### Changes:
 
-1. [2017 Atlantic hurricane season: Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/2017-atlantic-hurricane-season-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threat.md) _2017-08-27 17:30:04 (First version)_
-2. [Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm-surge-rainfall-and.md) _2017-08-31 15:30:04 (Update)_
+1. [Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm-surge-rainfall-and.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 Atlantic hurricane season: Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/2017-atlantic-hurricane-season-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threat.md) _2018-02-06 13:49:31 (Update)_
 2. [Tropical depression Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/tropical-depression-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm.md) _(Current version)_
 
 ### Related:

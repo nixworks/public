@@ -11,7 +11,7 @@ Formats: [HTML](/news/2001/09/4/google-is-awarded-6285999-for-the-pagerank-searc
 
 ### Changes:
 
-1. [ Google is awarded {{US patent|6285999}}, for the PageRank search algorithm used in the Google search engine.](/news/2001/09/4/google-is-awarded-us-patent-6285999-for-the-pagerank-search-algorithm-used-in-the-google-search-engine.md) _2017-05-01 03:15:11 (First version)_
+1. [ Google is awarded {{US patent|6285999}}, for the PageRank search algorithm used in the Google search engine.](/news/2001/09/4/google-is-awarded-us-patent-6285999-for-the-pagerank-search-algorithm-used-in-the-google-search-engine.md) _2018-02-06 13:49:15 (First version)_
 1. [ Google is awarded 6285999, for the PageRank search algorithm used in the Google search engine.](/news/2001/09/4/google-is-awarded-6285999-for-the-pagerank-search-algorithm-used-in-the-google-search-engine.md) _(Current version)_
 
 ### Related:

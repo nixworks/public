@@ -16,8 +16,8 @@ Gen. David Petraeus, the outgoing top commander of the NATO forces in Afghanista
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/war-in-afghanistan-2001apresent-pus-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-corp.md) _2017-08-25 03:33:48 (First version)_
-2. [War in Afghanistan (2001-present):: US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/war-in-afghanistan-2001-present-us-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-cor.md) _2017-08-27 03:33:55 (Update)_
+1. [War in Afghanistan (2001-present):US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/war-in-afghanistan-2001apresent-pus-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-corp.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan (2001-present):: US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/war-in-afghanistan-2001-present-us-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-cor.md) _2018-02-06 13:49:22 (Update)_
 2. [US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/us-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-corps-lieutenant-general-john-r-allen.md) _(Current version)_
 
 ### Related:

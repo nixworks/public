@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-ope
 
 ### Changes:
 
-1. [ The MV ''Queen of the North'', a 125 metre ferry operated by BC Ferries, strikes a rock in British Columbia's Inside Passage shortly after midnight, and sinks. All passengers and crew are thought to have safely abandoned ship, but two passengers are later declared missing and presumed dead. ](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-operated-by-bc-ferries-strikes-a-rock-in-british-columbia-s-inside-passage-shortly-after.md) _2017-08-25 03:17:31 (First version)_
+1. [ The MV ''Queen of the North'', a 125 metre ferry operated by BC Ferries, strikes a rock in British Columbia's Inside Passage shortly after midnight, and sinks. All passengers and crew are thought to have safely abandoned ship, but two passengers are later declared missing and presumed dead. ](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-operated-by-bc-ferries-strikes-a-rock-in-british-columbia-s-inside-passage-shortly-after.md) _2018-02-06 13:49:17 (First version)_
 1. [ The MV "Queen of the North", a 125 metre ferry operated by BC Ferries, strikes a rock in British Columbia's Inside Passage shortly after midnight, and sinks. All passengers and crew are thought to have safely abandoned ship, but two passengers are later declared missing and presumed dead. ](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-operated-by-bc-ferries-strikes-a-rock-in-british-columbia-s-inside-passage-shortly-after-mi.md) _(Current version)_
 
 ### Related:

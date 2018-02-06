@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-eas
 
 ### Changes:
 
-1. [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledoniaas-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-c.md) _2017-11-21 07:30:04 (First version)_
+1. [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledoniaas-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-c.md) _2018-02-06 13:49:31 (First version)_
 1. [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledonia-s-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-cal.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Northern India is bracing itself for further floods during what is believed to b
 
 ### Changes:
 
-1. [2013 North India floods:North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/2013-north-india-floods-pnorth-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md) _2017-08-25 03:38:54 (First version)_
-2. [2013 North India floods:: North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/2013-north-india-floods-north-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md) _2017-08-27 03:39:08 (Update)_
+1. [2013 North India floods:North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/2013-north-india-floods-pnorth-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 North India floods:: North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/2013-north-india-floods-north-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md) _2018-02-06 13:49:25 (Update)_
 2. [North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/north-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md) _(Current version)_
 
 ### Related:

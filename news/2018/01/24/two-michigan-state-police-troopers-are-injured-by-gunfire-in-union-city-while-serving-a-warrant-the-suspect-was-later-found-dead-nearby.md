@@ -16,5 +16,5 @@ Two officers were shot as they visited a residence in the rural farming area of 
 
 ### Changes:
 
-1. [Two Michigan State Police troopers are shot in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-shot-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md) _2018-01-24 23:30:09 (First version)_
+1. [Two Michigan State Police troopers are shot in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-shot-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md) _2018-02-06 13:49:31 (First version)_
 1. [Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-by-gunfire-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md) _(Current version)_

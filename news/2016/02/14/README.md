@@ -11,13 +11,13 @@ Civilian casualties of the war in Afghanistan rose to record levels for the seve
 ### [The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militia-group-in-syria-s-aleppo-governora.md)
 The Turkish army shelled positions held by Kurdish-backed militia in northern Syria for a second day on Sunday, killing two fighters, the Syrian Observatory for Human Rights monitoring group said.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Saudi air defenses intercept a Scud missile fired from Yemen as it headed towards the city of Khamis Mushait, in the southwestern 'Asir Region. ](/news/2016/02/14/saudi-air-defenses-intercept-a-scud-missile-fired-from-yemen-as-it-headed-towards-the-city-of-khamis-mushait-in-the-southwestern-asir-regi.md)
 A United Arab Emirates soldier was killed and another was wounded while fighting in Yemen as part of a Saudi-led military coalition, state news agency WAM reported on Sunday, citing the army general command.
 
 ##### Israeli-Palestinian conflict
 ### [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md)
-_Context: Israel, Israeli-Palestinian conflict, Palestine_
+_Context: Israel, Palestine, Israeli-Palestinian conflict_
 
 ##### 69th British Academy Film Awards
 ### [The 69th British Academy Film Awards are held at the Royal Opera House in London. ](/news/2016/02/14/the-69th-british-academy-film-awards-are-held-at-the-royal-opera-house-in-london.md)
@@ -25,11 +25,11 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 ##### 2016 Christchurch earthquake
 ### [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md)
-_Context: St. John ambulance service, Christchurch, New Zealand, magnitude, earthquake, 2016 Christchurch earthquake, United States Geological Survey_
+_Context: Christchurch, earthquake, 2016 Christchurch earthquake, United States Geological Survey, New Zealand, St. John ambulance service, magnitude_
 
 ##### northeastern United States
 ### [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md)
-_Context: northeastern United States, New York City, Philadelphia_
+_Context: northeastern United States, Philadelphia, New York City_
 
 ##### British
 ### [All four members of the British indie band Viola Beach and their manager die in a road accident near Stockholm, Sweden. ](/news/2016/02/14/all-four-members-of-the-british-indie-band-viola-beach-and-their-manager-die-in-a-road-accident-near-stockholm-sweden.md)
@@ -41,7 +41,7 @@ Tainan Mayor William Lai (賴清德) at 4:20pm yesterday announced that the sear
 
 ##### Cannon Mountain
 ### [Crews rescue 48 people from two Cannon Mountain tram cars stuck this afternoon about 40 feet off the ground in New Hampshire sub-zero temperatures in the White Mountains. ](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.md)
-_Context: New Hampshire, Cannon Mountain, White Mountains_
+_Context: Cannon Mountain, New Hampshire, White Mountains_
 
 ##### European migrant crisis
 ### [Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md)

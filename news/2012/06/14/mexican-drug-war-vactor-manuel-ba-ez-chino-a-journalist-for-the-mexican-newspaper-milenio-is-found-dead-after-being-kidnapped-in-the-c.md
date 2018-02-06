@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/06/14/mexican-drug-war-vactor-manuel-ba-ez-chino-a-jo
 
 ### Changes:
 
-1. [Mexican Drug War: Victor Manuel Baez Chino, a journalist for the Mexican newspaper ''Milenio'', is found dead after being kidnapped in the coastal state of Veracruz. ](/news/2012/06/14/mexican-drug-war-vactor-manuel-ba-ez-chino-a-journalist-for-the-mexican-newspaper-milenio-is-found-dead-after-being-kidnapped-in-the.md) _2017-08-25 03:35:52 (First version)_
+1. [Mexican Drug War: Victor Manuel Baez Chino, a journalist for the Mexican newspaper ''Milenio'', is found dead after being kidnapped in the coastal state of Veracruz. ](/news/2012/06/14/mexican-drug-war-vactor-manuel-ba-ez-chino-a-journalist-for-the-mexican-newspaper-milenio-is-found-dead-after-being-kidnapped-in-the.md) _2018-02-06 13:49:23 (First version)_
 1. [Mexican Drug War: Victor Manuel Baez Chino, a journalist for the Mexican newspaper "Milenio", is found dead after being kidnapped in the coastal state of Veracruz. ](/news/2012/06/14/mexican-drug-war-vactor-manuel-ba-ez-chino-a-journalist-for-the-mexican-newspaper-milenio-is-found-dead-after-being-kidnapped-in-the-c.md) _(Current version)_
 
 ### Related:

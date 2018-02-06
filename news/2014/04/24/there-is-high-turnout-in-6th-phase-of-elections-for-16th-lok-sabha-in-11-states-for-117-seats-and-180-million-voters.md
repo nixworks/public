@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/24/there-is-high-turnout-in-6th-phase-of-elections
 
 ### Changes:
 
-1. [Indian general election:There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/indian-general-election-pthere-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-vot.md) _2017-08-25 03:40:20 (First version)_
-2. [Indian general election:: There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/indian-general-election-there-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-vo.md) _2017-08-27 03:40:38 (Update)_
+1. [Indian general election:: There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/indian-general-election-there-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-vo.md) _2018-02-06 13:49:26 (First version)_
+2. [Indian general election:There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/indian-general-election-pthere-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-vot.md) _2018-02-06 13:49:26 (Update)_
 2. [There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/there-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-voters.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/2/islamic-militants-attack-christian-sections-of-k
 
 ### Changes:
 
-1. [Sectarianism in Pakistan: Islamic militants attack Christian sections of Khyber Pakhtunkhwa, leaving 13 dead in the city of Mardan. ](/news/2016/09/2/sectarianism-in-pakistan-islamic-militants-attack-christian-sections-of-khyber-pakhtunkhwa-leaving-13-dead-in-the-city-of-mardan.md) _2017-08-27 03:46:45 (First version)_
+1. [Sectarianism in Pakistan: Islamic militants attack Christian sections of Khyber Pakhtunkhwa, leaving 13 dead in the city of Mardan. ](/news/2016/09/2/sectarianism-in-pakistan-islamic-militants-attack-christian-sections-of-khyber-pakhtunkhwa-leaving-13-dead-in-the-city-of-mardan.md) _2018-02-06 13:49:29 (First version)_
 1. [Islamic militants attack Christian sections of Khyber Pakhtunkhwa, leaving 13 dead in the city of Mardan. ](/news/2016/09/2/islamic-militants-attack-christian-sections-of-khyber-pakhtunkhwa-leaving-13-dead-in-the-city-of-mardan.md) _(Current version)_
 
 ### Related:

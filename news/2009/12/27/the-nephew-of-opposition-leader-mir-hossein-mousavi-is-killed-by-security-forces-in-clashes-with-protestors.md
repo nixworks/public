@@ -18,8 +18,8 @@ Formats: [HTML](/news/2009/12/27/the-nephew-of-opposition-leader-mir-hossein-mou
 
 ### Changes:
 
-1. [ Iran anti-government protest: The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. ](/news/2009/12/27/iran-anti-government-protest-p-the-nephew-of-opposition-leader-mir-hossein-mousavi-is-killed-by-security-forces-in-clashes-with-protestors.md) _2017-08-25 03:26:42 (First version)_
-2. [ Iran anti-government protest:: The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. ](/news/2009/12/27/iran-anti-government-protest-the-nephew-of-opposition-leader-mir-hossein-mousavi-is-killed-by-security-forces-in-clashes-with-protestors.md) _2017-08-27 03:26:33 (Update)_
+1. [ Iran anti-government protest:: The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. ](/news/2009/12/27/iran-anti-government-protest-the-nephew-of-opposition-leader-mir-hossein-mousavi-is-killed-by-security-forces-in-clashes-with-protestors.md) _2018-02-06 13:49:19 (First version)_
+2. [ Iran anti-government protest: The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. ](/news/2009/12/27/iran-anti-government-protest-p-the-nephew-of-opposition-leader-mir-hossein-mousavi-is-killed-by-security-forces-in-clashes-with-protestors.md) _2018-02-06 13:49:19 (Update)_
 2. [ The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. ](/news/2009/12/27/the-nephew-of-opposition-leader-mir-hossein-mousavi-is-killed-by-security-forces-in-clashes-with-protestors.md) _(Current version)_
 
 ### Related:

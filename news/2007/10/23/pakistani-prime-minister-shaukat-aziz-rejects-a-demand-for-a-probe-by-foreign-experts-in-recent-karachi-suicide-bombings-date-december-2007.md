@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a
 
 ### Changes:
 
-1. [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.{{Fact|date=December 2007}} ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-fact-date-decemb.md) _2017-05-01 03:22:07 (First version)_
+1. [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.{{Fact|date=December 2007}} ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-fact-date-decemb.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.date=December 2007 ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-date-december-2007.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/1/a-bomb-detonates-in-a-busy-shopping-center-in-ma
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-pa-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-othe.md) _2017-08-25 03:38:31 (First version)_
-2. [Insurgency in the North Caucasus:: A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-oth.md) _2017-08-27 03:38:44 (Update)_
+1. [Insurgency in the North Caucasus:A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-pa-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-othe.md) _2018-02-06 13:49:24 (First version)_
+2. [Insurgency in the North Caucasus:: A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-oth.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-others.md) _(Current version)_
 
 ### Related:

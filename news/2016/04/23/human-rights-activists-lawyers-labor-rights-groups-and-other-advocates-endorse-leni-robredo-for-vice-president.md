@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-gro
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/philippine-presidential-election-2016-human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vi.md) _2017-08-27 03:45:47 (First version)_
+1. [Philippine presidential election, 2016: Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/philippine-presidential-election-2016-human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vi.md) _2018-02-06 13:49:28 (First version)_
 1. [Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vice-president.md) _(Current version)_
 
 ### Related:

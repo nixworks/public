@@ -13,7 +13,7 @@ _Context: Austria, Josef Fritzl_
 
 ##### Office for National Statistics
 ### [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md)
-_Context: British, Unemployment, Office for National Statistics_
+_Context: Office for National Statistics, Unemployment, United Kingdom_
 
 ##### Pope
 ### [ Pope Benedict XVI denounces the use of condoms to prevent HIV-AIDS during a tour of Africa. ](/news/2009/03/18/pope-benedict-xvi-denounces-the-use-of-condoms-to-prevent-hiv-aids-during-a-tour-of-africa.md)
@@ -21,23 +21,23 @@ Pope Benedict XVI&#39;s denunciation of condom use to prevent the spread of HIV 
 
 ##### police
 ### [ Twelve people are discovered dead in police custody in Nampula Province, Mozambique. ](/news/2009/03/18/twelve-people-are-discovered-dead-in-police-custody-in-nampula-province-mozambique.md)
-_Context: Nampula Province, custody, police, Mozambique_
+_Context: Mozambique, police, custody, Nampula Province_
 
 ##### Madagascar
 ### [ Madagascar's constitutional court supports the installation of Andry Rajoelina as President. ](/news/2009/03/18/madagascar-s-constitutional-court-supports-the-installation-of-andry-rajoelina-as-president.md)
-_Context: Madagascar, Andry Rajoelina, political crisis, constitutional court, President_
+_Context: constitutional court, Madagascar, President, Andry Rajoelina, political crisis_
 
 ##### Governor
 ### [ Governor Bill Richardson signs House Bill 285, repealing capital punishment in New Mexico. ](/news/2009/03/18/governor-bill-richardson-signs-house-bill-285-repealing-capital-punishment-in-new-mexico.md)
-_Context: Governor, bill into law, Bill Richardson, House, capital punishment, New Mexico_
+_Context: Governor, Bill Richardson, bill into law, capital punishment, House, New Mexico_
 
 ##### Federal Reserve System
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)
-_Context: United States Treasury Department, United States, Federal Reserve System, Ben Bernanke, Chairman of the Federal Reserve, yields, caps_
+_Context: Ben Bernanke, caps, Chairman of the Federal Reserve, United States Treasury Department, Federal Reserve System, United States, yields_
 
 ##### Somalia
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden. ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
-_Context: Somalia, Somali pirates, Iran, fishing vessel, Gulf of Aden_
+_Context: Somali pirates, Iran, fishing vessel, Gulf of Aden, Somalia_
 
 ## [Previous Day...](/news/2009/03/17/index.md)
 

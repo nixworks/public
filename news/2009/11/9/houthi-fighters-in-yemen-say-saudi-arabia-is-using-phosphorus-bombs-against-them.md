@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/11/9/houthi-fighters-in-yemen-say-saudi-arabia-is-usi
 
 ### Changes:
 
-1. [ Fifth outbreak of Shia insurgency in Yemen: Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-p-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md) _2017-08-25 03:26:18 (First version)_
-2. [ Fifth outbreak of Shia insurgency in Yemen:: Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md) _2017-08-27 03:26:10 (Update)_
+1. [ Fifth outbreak of Shia insurgency in Yemen: Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-p-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md) _2018-02-06 13:49:19 (First version)_
+2. [ Fifth outbreak of Shia insurgency in Yemen:: Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md) _2018-02-06 13:49:19 (Update)_
 2. [ Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md) _(Current version)_
 
 ### Related:

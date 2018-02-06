@@ -17,7 +17,7 @@ Formats: [HTML](/news/2008/05/30/aid-agencies-say-logistical-difficulties-hamper
 
 ### Changes:
 
-1. [ Cyclone Nargis: Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/cyclone-nargis-aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes.md) _2017-08-27 03:22:10 (First version)_
+1. [ Cyclone Nargis: Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/cyclone-nargis-aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes.md) _2018-02-06 13:49:18 (First version)_
 1. [ Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes-carrying-relief.md) _(Current version)_
 
 ### Related:

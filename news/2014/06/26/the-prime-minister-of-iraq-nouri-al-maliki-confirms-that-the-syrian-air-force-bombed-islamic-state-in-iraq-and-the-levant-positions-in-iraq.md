@@ -18,7 +18,7 @@ Iraqi forces launched an airborne assault on rebel-held Tikrit on Thursday with 
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: The Prime Minister of Iraq Nouri al-Maliki confirms that the Syrian Air Force bombed Islamic State in Iraq and the Levant positions in Iraq earlier in the week. ](/news/2014/06/26/2014-northern-iraq-offensive-the-prime-minister-of-iraq-nouri-al-maliki-confirms-that-the-syrian-air-force-bombed-islamic-state-in-iraq-and.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 Northern Iraq offensive: The Prime Minister of Iraq Nouri al-Maliki confirms that the Syrian Air Force bombed Islamic State in Iraq and the Levant positions in Iraq earlier in the week. ](/news/2014/06/26/2014-northern-iraq-offensive-the-prime-minister-of-iraq-nouri-al-maliki-confirms-that-the-syrian-air-force-bombed-islamic-state-in-iraq-and.md) _2018-02-06 13:49:26 (First version)_
 1. [The Prime Minister of Iraq Nouri al-Maliki confirms that the Syrian Air Force bombed Islamic State in Iraq and the Levant positions in Iraq earlier in the week. ](/news/2014/06/26/the-prime-minister-of-iraq-nouri-al-maliki-confirms-that-the-syrian-air-force-bombed-islamic-state-in-iraq-and-the-levant-positions-in-iraq.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A global agreement to combat climate change will take force after support from E
 
 ### Changes:
 
-1. [Paris climate change agreement: The Paris Agreement on climate change which governs greenhouse gas emissions will take effect in November. ](/news/2016/10/5/paris-climate-change-agreement-the-paris-agreement-on-climate-change-which-governs-greenhouse-gas-emissions-will-take-effect-in-november.md) _2017-08-27 03:46:58 (First version)_
+1. [Paris climate change agreement: The Paris Agreement on climate change which governs greenhouse gas emissions will take effect in November. ](/news/2016/10/5/paris-climate-change-agreement-the-paris-agreement-on-climate-change-which-governs-greenhouse-gas-emissions-will-take-effect-in-november.md) _2018-02-06 13:49:29 (First version)_
 1. [The Paris Agreement on climate change which governs greenhouse gas emissions will take effect in November. ](/news/2016/10/5/the-paris-agreement-on-climate-change-which-governs-greenhouse-gas-emissions-will-take-effect-in-november.md) _(Current version)_
 
 ### Related:

@@ -16,5 +16,5 @@ Unexpected narrow victory for far-right populists casts uncertainty over Swiss r
 
 ### Changes:
 
-1. [Swiss referendums, 2014: 50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/swiss-referendums-2014-50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas.md) _2017-08-27 03:40:17 (First version)_
+1. [Swiss referendums, 2014: 50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/swiss-referendums-2014-50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas.md) _2018-02-06 13:49:25 (First version)_
 1. [50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas-of-immigrants-for-foreign.md) _(Current version)_

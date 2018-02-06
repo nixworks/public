@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/20/islamist-militia-renew-their-attack-on-tripoli-
 
 ### Changes:
 
-1. [Post-civil war violence in Libya: Islamist militia renew their attack on Tripoli International Airport. ](/news/2014/07/20/post-civil-war-violence-in-libya-islamist-militia-renew-their-attack-on-tripoli-international-airport.md) _2017-08-27 03:41:01 (First version)_
+1. [Post-civil war violence in Libya: Islamist militia renew their attack on Tripoli International Airport. ](/news/2014/07/20/post-civil-war-violence-in-libya-islamist-militia-renew-their-attack-on-tripoli-international-airport.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamist militia renew their attack on Tripoli International Airport. ](/news/2014/07/20/islamist-militia-renew-their-attack-on-tripoli-international-airport.md) _(Current version)_
 
 ### Related:

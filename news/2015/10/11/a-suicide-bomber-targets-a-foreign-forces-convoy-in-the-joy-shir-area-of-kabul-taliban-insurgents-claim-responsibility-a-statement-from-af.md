@@ -20,7 +20,7 @@ A suicide bomber targeted a foreign forces convoy in downtown Kabul during morni
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber targets a foreign forces convoy in the Joy Shir area of Kabul. Taliban insurgents claim responsibility. A statement from Afghanistan's Interior Ministry reported at least three civilians were wounded. There are no report of casualties among the foreign forces. ](/news/2015/10/11/war-in-afghanistan-2015-present-a-suicide-bomber-targets-a-foreign-forces-convoy-in-the-joy-shir-area-of-kabul-taliban-insurgents-clai.md) _2017-08-27 03:43:18 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber targets a foreign forces convoy in the Joy Shir area of Kabul. Taliban insurgents claim responsibility. A statement from Afghanistan's Interior Ministry reported at least three civilians were wounded. There are no report of casualties among the foreign forces. ](/news/2015/10/11/war-in-afghanistan-2015-present-a-suicide-bomber-targets-a-foreign-forces-convoy-in-the-joy-shir-area-of-kabul-taliban-insurgents-clai.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber targets a foreign forces convoy in the Joy Shir area of Kabul. Taliban insurgents claim responsibility. A statement from Afghanistan's Interior Ministry reported at least three civilians were wounded. There are no report of casualties among the foreign forces. ](/news/2015/10/11/a-suicide-bomber-targets-a-foreign-forces-convoy-in-the-joy-shir-area-of-kabul-taliban-insurgents-claim-responsibility-a-statement-from-af.md) _(Current version)_
 
 ### Related:

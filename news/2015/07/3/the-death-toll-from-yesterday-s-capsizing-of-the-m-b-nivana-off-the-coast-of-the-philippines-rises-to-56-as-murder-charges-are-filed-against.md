@@ -17,7 +17,7 @@ MANILA (AFP) - Philippine police have filed murder charges against the owners an
 
 ### Changes:
 
-1. [Sinking of the Kim Nirvana: The death toll from yesterday's capsizing of the M-B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/sinking-of-the-kim-nirvana-the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murd.md) _2017-08-27 03:42:38 (First version)_
+1. [Sinking of the Kim Nirvana: The death toll from yesterday's capsizing of the M-B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/sinking-of-the-kim-nirvana-the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murd.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from yesterday's capsizing of the M-B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murder-charges-are-filed-against.md) _(Current version)_
 
 ### Related:

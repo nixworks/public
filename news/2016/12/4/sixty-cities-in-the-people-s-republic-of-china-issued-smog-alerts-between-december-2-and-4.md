@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/4/sixty-cities-in-the-people-s-republic-of-china-i
 
 ### Changes:
 
-1. [Pollution in China: Sixty cities in the People's Republic of China issued smog alerts between December 2 and 4. ](/news/2016/12/4/pollution-in-china-sixty-cities-in-the-people-s-republic-of-china-issued-smog-alerts-between-december-2-and-4.md) _2017-08-27 03:47:22 (First version)_
+1. [Pollution in China: Sixty cities in the People's Republic of China issued smog alerts between December 2 and 4. ](/news/2016/12/4/pollution-in-china-sixty-cities-in-the-people-s-republic-of-china-issued-smog-alerts-between-december-2-and-4.md) _2018-02-06 13:49:30 (First version)_
 1. [Sixty cities in the People's Republic of China issued smog alerts between December 2 and 4. ](/news/2016/12/4/sixty-cities-in-the-people-s-republic-of-china-issued-smog-alerts-between-december-2-and-4.md) _(Current version)_
 
 ### Related:

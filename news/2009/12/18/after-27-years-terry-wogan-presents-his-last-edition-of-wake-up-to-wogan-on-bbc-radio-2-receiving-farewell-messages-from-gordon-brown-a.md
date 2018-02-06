@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/12/18/after-27-years-terry-wogan-presents-his-last-ed
 
 ### Changes:
 
-1. [ After 27 years, Terry Wogan presents his last edition of ''Wake Up to Wogan'' on BBC Radio 2, receiving farewell messages from Gordon Brown and David Cameron. ](/news/2009/12/18/after-27-years-terry-wogan-presents-his-last-edition-of-wake-up-to-wogan-on-bbc-radio-2-receiving-farewell-messages-from-gordon-brown.md) _2017-08-25 03:26:38 (First version)_
+1. [ After 27 years, Terry Wogan presents his last edition of ''Wake Up to Wogan'' on BBC Radio 2, receiving farewell messages from Gordon Brown and David Cameron. ](/news/2009/12/18/after-27-years-terry-wogan-presents-his-last-edition-of-wake-up-to-wogan-on-bbc-radio-2-receiving-farewell-messages-from-gordon-brown.md) _2018-02-06 13:49:19 (First version)_
 1. [ After 27 years, Terry Wogan presents his last edition of "Wake Up to Wogan" on BBC Radio 2, receiving farewell messages from Gordon Brown and David Cameron. ](/news/2009/12/18/after-27-years-terry-wogan-presents-his-last-edition-of-wake-up-to-wogan-on-bbc-radio-2-receiving-farewell-messages-from-gordon-brown-a.md) _(Current version)_
 
 ### Related:

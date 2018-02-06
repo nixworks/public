@@ -16,7 +16,7 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 
 ### Changes:
 
-1. [Zimbabwe President Robert Mugabe assigns all diamond mining operations to the newly formed, government-run Zimbabwe Consolidated Diamond Company, and orders eight foreign diamond mining companies from the country. ](/news/2016/02/22/zimbabwe-president-robert-mugabe-assigns-all-diamond-mining-operations-to-the-newly-formed-government-run-zimbabwe-consolidated-diamond-co.md) _2017-08-25 03:44:38 (First version)_
+1. [Zimbabwe President Robert Mugabe assigns all diamond mining operations to the newly formed, government-run Zimbabwe Consolidated Diamond Company, and orders eight foreign diamond mining companies from the country. ](/news/2016/02/22/zimbabwe-president-robert-mugabe-assigns-all-diamond-mining-operations-to-the-newly-formed-government-run-zimbabwe-consolidated-diamond-co.md) _2018-02-06 13:49:28 (First version)_
 1. [Zimbabwe President Robert Mugabe assigns all diamond mining operations to the newly formed, government-run Zimbabwe Consolidated Diamond Company, and orders eight foreign diamond mining companies from the country. ](/news/2016/02/22/zimbabwe-president-robert-mugabe-assigns-all-diamond-mining-operations-to-the-newly-formed-government-run-zimbabwe-consolidated-diamond-com.md) _(Current version)_
 
 ### Related:

@@ -26,8 +26,8 @@ Israeli officials: Let’s wait and see; Kassam hits Negev, causing no harm.
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeliapalestinian-conflict-ppalestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement-t.md) _2017-08-25 03:27:33 (First version)_
-2. [Israeli-Palestinian conflict:: Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeli-palestinian-conflict-palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement.md) _2017-08-27 03:27:30 (Update)_
+1. [Israeli-Palestinian conflict:Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeliapalestinian-conflict-ppalestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement-t.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeli-palestinian-conflict-palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement.md) _2018-02-06 13:49:20 (Update)_
 2. [Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement-to-stop-rockets-attacks.md) _(Current version)_
 
 ### Related:

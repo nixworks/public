@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/30/chief-syrian-opposition-negotiator-of-the-high-
 
 ### Changes:
 
-1. [Syrian peace process: Chief Syrian opposition negotiator of the High Negotiations Committee Mohammed Allush resigns over the failure of the UN-backed peace talks. Allush said that without any of the opposition demands met, peace talks were a "waste of time". In April, the HNC suspended talks with the Syrian government's delegation in Vienna. ](/news/2016/05/30/syrian-peace-process-chief-syrian-opposition-negotiator-of-the-high-negotiations-committee-mohammed-allush-resigns-over-the-failure-of-the.md) _2017-08-27 03:46:10 (First version)_
+1. [Syrian peace process: Chief Syrian opposition negotiator of the High Negotiations Committee Mohammed Allush resigns over the failure of the UN-backed peace talks. Allush said that without any of the opposition demands met, peace talks were a "waste of time". In April, the HNC suspended talks with the Syrian government's delegation in Vienna. ](/news/2016/05/30/syrian-peace-process-chief-syrian-opposition-negotiator-of-the-high-negotiations-committee-mohammed-allush-resigns-over-the-failure-of-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Chief Syrian opposition negotiator of the High Negotiations Committee Mohammed Allush resigns over the failure of the UN-backed peace talks. Allush said that without any of the opposition demands met, peace talks were a "waste of time". In April, the HNC suspended talks with the Syrian government's delegation in Vienna. ](/news/2016/05/30/chief-syrian-opposition-negotiator-of-the-high-negotiations-committee-mohammed-allush-resigns-over-the-failure-of-the-un-backed-peace-talks.md) _(Current version)_
 
 ### Related:

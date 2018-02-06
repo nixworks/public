@@ -17,7 +17,7 @@ Formats: [HTML](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-an
 
 ### Changes:
 
-1. [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at ''El Grito'' Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations.md) _2017-08-25 03:22:52 (First version)_
+1. [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at ''El Grito'' Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations.md) _2018-02-06 13:49:18 (First version)_
 1. [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at "El Grito" Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations-in.md) _(Current version)_
 
 ### Related:

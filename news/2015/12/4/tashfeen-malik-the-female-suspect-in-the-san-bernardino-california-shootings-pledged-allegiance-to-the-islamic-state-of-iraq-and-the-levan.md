@@ -16,7 +16,7 @@ A mass shooting in San Bernardino, California, that left 14 people dead, is bein
 
 ### Changes:
 
-1. [2015 San Bernardino shooting: Tashfeen Malik, the female suspect in the San Bernardino, California shootings pledged allegiance to the Islamic State of Iraq and the Levant online. ](/news/2015/12/4/2015-san-bernardino-shooting-tashfeen-malik-the-female-suspect-in-the-san-bernardino-california-shootings-pledged-allegiance-to-the-islam.md) _2017-08-27 03:44:11 (First version)_
+1. [2015 San Bernardino shooting: Tashfeen Malik, the female suspect in the San Bernardino, California shootings pledged allegiance to the Islamic State of Iraq and the Levant online. ](/news/2015/12/4/2015-san-bernardino-shooting-tashfeen-malik-the-female-suspect-in-the-san-bernardino-california-shootings-pledged-allegiance-to-the-islam.md) _2018-02-06 13:49:28 (First version)_
 1. [Tashfeen Malik, the female suspect in the San Bernardino, California shootings pledged allegiance to the Islamic State of Iraq and the Levant online. ](/news/2015/12/4/tashfeen-malik-the-female-suspect-in-the-san-bernardino-california-shootings-pledged-allegiance-to-the-islamic-state-of-iraq-and-the-levan.md) _(Current version)_
 
 ### Related:

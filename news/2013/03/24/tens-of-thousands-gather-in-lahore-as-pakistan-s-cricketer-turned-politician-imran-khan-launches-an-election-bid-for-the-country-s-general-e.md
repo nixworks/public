@@ -18,8 +18,8 @@ Khoso, 84, is a venerated officer bearing a reputation of honesty.
 
 ### Changes:
 
-1. [2013 in Pakistan:Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-ptens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the-c.md) _2017-08-25 03:38:00 (First version)_
-2. [2013 in Pakistan:: Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the.md) _2017-08-27 03:38:11 (Update)_
+1. [2013 in Pakistan:: Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 in Pakistan:Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-ptens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the-c.md) _2018-02-06 13:49:24 (Update)_
 2. [Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the-country-s-general-e.md) _(Current version)_
 
 ### Related:

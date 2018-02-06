@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacec
 
 ### Changes:
 
-1. [ The reentry module of the Chinese manned spacecraft ''Shenzhou 6'' lands safely in Inner Mongolia, China. [http:--english.people.com.cn-200510-17-eng20051017_214689.html (People's Daily)].](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacecraft-shenzhou-6-lands-safely-in-inner-mongolia-china-http-english-people-com-cn-200.md) _2017-06-18 03:17:05 (First version)_
+1. [ The reentry module of the Chinese manned spacecraft ''Shenzhou 6'' lands safely in Inner Mongolia, China. [http:--english.people.com.cn-200510-17-eng20051017_214689.html (People's Daily)].](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacecraft-shenzhou-6-lands-safely-in-inner-mongolia-china-http-english-people-com-cn-200.md) _2018-02-06 13:49:16 (First version)_
 1. [ The reentry module of the Chinese manned spacecraft "Shenzhou 6" lands safely in Inner Mongolia, China. ](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacecraft-shenzhou-6-lands-safely-in-inner-mongolia-china.md) _(Current version)_
 
 ### Related:

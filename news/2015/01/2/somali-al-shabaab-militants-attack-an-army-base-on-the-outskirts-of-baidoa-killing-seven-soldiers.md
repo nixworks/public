@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-
 
 ### Changes:
 
-1. [Somali civil war: Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-civil-war-somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _2017-08-27 03:41:42 (First version)_
+1. [Somali civil war: Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-civil-war-somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _2018-02-06 13:49:26 (First version)_
 1. [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _(Current version)_
 
 ### Related:

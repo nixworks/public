@@ -19,8 +19,8 @@ Many residents cannot contact possible survivors, and officials have not shared 
 
 ### Changes:
 
-1. [May 2011 tornado outbreak in the The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/may-2011-tornado-outbreak-in-the-the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-unaccounted-for-in-the-us.md) _2017-08-25 03:33:15 (First version)_
-2. [May 2011 tornado outbreak in the Central United States: The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/may-2011-tornado-outbreak-in-the-central-united-states-the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-un.md) _2017-08-27 03:33:24 (Update)_
+1. [May 2011 tornado outbreak in the The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/may-2011-tornado-outbreak-in-the-the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-unaccounted-for-in-the-us.md) _2018-02-06 13:49:22 (First version)_
+2. [May 2011 tornado outbreak in the Central United States: The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/may-2011-tornado-outbreak-in-the-central-united-states-the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-un.md) _2018-02-06 13:49:22 (Update)_
 2. [The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-unaccounted-for-in-the-us-town.md) _(Current version)_
 
 ### Related:

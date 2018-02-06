@@ -17,7 +17,7 @@ At least six people have been killed in a bomb attack targeting a UN convoy near
 
 ### Changes:
 
-1. [Somali Civil War: A suicide bomber attacks a United Nations convoy near Aden Adde International Airport killing six people. ](/news/2014/12/3/somali-civil-war-a-suicide-bomber-attacks-a-united-nations-convoy-near-aden-adde-international-airport-killing-six-people.md) _2017-08-27 03:41:35 (First version)_
+1. [Somali Civil War: A suicide bomber attacks a United Nations convoy near Aden Adde International Airport killing six people. ](/news/2014/12/3/somali-civil-war-a-suicide-bomber-attacks-a-united-nations-convoy-near-aden-adde-international-airport-killing-six-people.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber attacks a United Nations convoy near Aden Adde International Airport killing six people. ](/news/2014/12/3/a-suicide-bomber-attacks-a-united-nations-convoy-near-aden-adde-international-airport-killing-six-people.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A new University of Colorado Boulder-led study shows painkillers paradoxically p
 
 ### Changes:
 
-1. [A new study by University of Colorado Boulder researchers, published in the ''Proceedings of the National Academy of Sciences'', finds opioid medicines can paradoxically cause an increase in chronic pain in lab rats. ](/news/2016/05/30/a-new-study-by-university-of-colorado-boulder-researchers-published-in-the-proceedings-of-the-national-academy-of-sciences-finds-opioi.md) _2017-08-25 03:45:47 (First version)_
+1. [A new study by University of Colorado Boulder researchers, published in the ''Proceedings of the National Academy of Sciences'', finds opioid medicines can paradoxically cause an increase in chronic pain in lab rats. ](/news/2016/05/30/a-new-study-by-university-of-colorado-boulder-researchers-published-in-the-proceedings-of-the-national-academy-of-sciences-finds-opioi.md) _2018-02-06 13:49:29 (First version)_
 1. [A new study by University of Colorado Boulder researchers, published in the "Proceedings of the National Academy of Sciences", finds opioid medicines can paradoxically cause an increase in chronic pain in lab rats. ](/news/2016/05/30/a-new-study-by-university-of-colorado-boulder-researchers-published-in-the-proceedings-of-the-national-academy-of-sciences-finds-opioid.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least
 
 ### Changes:
 
-1. [2015 Bangkok bombing: Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/2015-bangkok-bombing-thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-b.md) _2017-08-27 03:42:51 (First version)_
+1. [2015 Bangkok bombing: Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/2015-bangkok-bombing-thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-b.md) _2018-02-06 13:49:27 (First version)_
 1. [Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.md) _(Current version)_
 
 ### Related:

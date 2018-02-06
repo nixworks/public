@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/19/according-to-government-officials-michigan-atto
 
 ### Changes:
 
-1. [Flint water crisis: According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/flint-water-crisis-according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-again.md) _2017-08-27 03:45:41 (First version)_
+1. [Flint water crisis: According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/flint-water-crisis-according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-again.md) _2018-02-06 13:49:28 (First version)_
 1. [According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-against-two-state-regulat.md) _(Current version)_
 
 ### Related:

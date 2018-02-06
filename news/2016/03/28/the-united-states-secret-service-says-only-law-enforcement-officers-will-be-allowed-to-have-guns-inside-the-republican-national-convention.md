@@ -16,7 +16,7 @@ Some 45,000 people signed a petition asking that attendees be allowed to carry f
 
 ### Changes:
 
-1. [The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention-t.md) _2017-10-17 03:52:22 (First version)_
+1. [The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention-t.md) _2018-02-06 13:49:28 (First version)_
 1. [ The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention.md) _(Current version)_
 
 ### Related:

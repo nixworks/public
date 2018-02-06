@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/03/9/an-ariane-5-rocket-launches-the-first-automated-
 
 ### Changes:
 
-1. [ An Ariane 5 rocket launches the first Automated Transfer Vehicle, ''Jules Verne'', from the Guiana Space Centre in French Guiana. The spaceship will rendezvous with and provide supplies to the International Space Station on March 29. ](/news/2008/03/9/an-ariane-5-rocket-launches-the-first-automated-transfer-vehicle-jules-verne-from-the-guiana-space-centre-in-french-guiana-the-space.md) _2017-08-25 03:21:52 (First version)_
+1. [ An Ariane 5 rocket launches the first Automated Transfer Vehicle, ''Jules Verne'', from the Guiana Space Centre in French Guiana. The spaceship will rendezvous with and provide supplies to the International Space Station on March 29. ](/news/2008/03/9/an-ariane-5-rocket-launches-the-first-automated-transfer-vehicle-jules-verne-from-the-guiana-space-centre-in-french-guiana-the-space.md) _2018-02-06 13:49:18 (First version)_
 1. [ An Ariane 5 rocket launches the first Automated Transfer Vehicle, "Jules Verne", from the Guiana Space Centre in French Guiana. The spaceship will rendezvous with and provide supplies to the International Space Station on March 29. ](/news/2008/03/9/an-ariane-5-rocket-launches-the-first-automated-transfer-vehicle-jules-verne-from-the-guiana-space-centre-in-french-guiana-the-spacesh.md) _(Current version)_
 
 ### Related:

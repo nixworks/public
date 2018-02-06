@@ -17,7 +17,7 @@ Six political parties will be represented in Romania’s Parliament after the De
 
 ### Changes:
 
-1. [Romanian legislative election, 2016: Romania's centre-left Social Democratic Party won 45% of the seats in both houses of parliament in Sunday's election, and with the expected participation of the liberal centre-right Alliance of Liberals and Democrats Party in the coalition government, will hold an outright majority of 250 seats in the 465-seat assembly. ](/news/2016/12/15/romanian-legislative-election-2016-romania-s-centre-left-social-democratic-party-won-45-of-the-seats-in-both-houses-of-parliament-in-sund.md) _2017-08-27 03:47:27 (First version)_
+1. [Romanian legislative election, 2016: Romania's centre-left Social Democratic Party won 45% of the seats in both houses of parliament in Sunday's election, and with the expected participation of the liberal centre-right Alliance of Liberals and Democrats Party in the coalition government, will hold an outright majority of 250 seats in the 465-seat assembly. ](/news/2016/12/15/romanian-legislative-election-2016-romania-s-centre-left-social-democratic-party-won-45-of-the-seats-in-both-houses-of-parliament-in-sund.md) _2018-02-06 13:49:29 (First version)_
 1. [Romania's centre-left Social Democratic Party won 45% of the seats in both houses of parliament in Sunday's election, and with the expected participation of the liberal centre-right Alliance of Liberals and Democrats Party in the coalition government, will hold an outright majority of 250 seats in the 465-seat assembly. ](/news/2016/12/15/romania-s-centre-left-social-democratic-party-won-45-of-the-seats-in-both-houses-of-parliament-in-sunday-s-election-and-with-the-expected.md) _(Current version)_
 
 ### Related:

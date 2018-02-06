@@ -16,7 +16,7 @@ Her father brought her diary to the world. Now, with the copyright expiring in E
 
 ### Changes:
 
-1. [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of -The Diary of Anne Frank.- ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-the-d.md) _2017-08-27 03:43:50 (First version)_
+1. [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of -The Diary of Anne Frank.- ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-the-d.md) _2018-02-06 13:49:28 (First version)_
 1. [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of "The Diary of Anne Frank." ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-athe-d.md) _(Current version)_
 
 ### Related:

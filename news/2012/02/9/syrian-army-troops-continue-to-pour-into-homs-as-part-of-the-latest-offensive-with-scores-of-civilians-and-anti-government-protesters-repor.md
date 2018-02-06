@@ -16,8 +16,8 @@ Syrian government artillery barrages killed dozens of civilians in Homs on Thurs
 
 ### Changes:
 
-1. [Syria:Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syria-psyrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-protester.md) _2017-08-25 03:35:00 (First version)_
-2. [Syria:: Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syria-syrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-proteste.md) _2017-08-27 03:35:10 (Update)_
+1. [Syria:: Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syria-syrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-proteste.md) _2018-02-06 13:49:23 (First version)_
+2. [Syria:Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syria-psyrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-protester.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-protesters-repor.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ The Islamic State group used poison gas in attacks against Kurdish-controlled ar
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant (ISIL)The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/islamic-state-in-iraq-and-the-levant-isil-pthe-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-gas.md) _2017-08-25 03:42:26 (First version)_
-2. [Islamic State in Iraq and the Levant (ISIL): The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/islamic-state-in-iraq-and-the-levant-isil-the-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-ga.md) _2017-08-27 03:42:43 (Update)_
+1. [Islamic State in Iraq and the Levant (ISIL): The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/islamic-state-in-iraq-and-the-levant-isil-the-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-ga.md) _2018-02-06 13:49:27 (First version)_
+2. [Islamic State in Iraq and the Levant (ISIL)The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/islamic-state-in-iraq-and-the-levant-isil-pthe-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-gas.md) _2018-02-06 13:49:27 (Update)_
 2. [The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/the-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-gas-while-fighting-in-northern-syria-late-in-ju.md) _(Current version)_
 
 ### Related:

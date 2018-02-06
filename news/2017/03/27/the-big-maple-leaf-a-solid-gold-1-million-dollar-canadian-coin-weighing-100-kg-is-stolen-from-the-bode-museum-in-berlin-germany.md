@@ -16,6 +16,6 @@ Formats: [HTML](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dolla
 
 ### Changes:
 
-1. [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing {{convert|100|kg|lb}}, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-convert-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-ge.md) _2017-05-01 03:51:53 (First version)_
-2. [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100|kg|lb, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-germany.md) _2017-08-29 03:47:31 (Update)_
+1. [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing {{convert|100|kg|lb}}, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-convert-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-ge.md) _2018-02-06 13:49:30 (First version)_
+2. [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100|kg|lb, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-germany.md) _2018-02-06 13:49:30 (Update)_
 2. [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100 kg, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-is-stolen-from-the-bode-museum-in-berlin-germany.md) _(Current version)_

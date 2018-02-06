@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/24/a-landslide-at-big-sur-blocks-off-a-portion-of-
 
 ### Changes:
 
-1. [A landslide occurs at Big Sur, blocking off a portion of California State Route 1 just south of Gorda. No injuries were reported, however. ](/news/2017/05/24/a-landslide-occurs-at-big-sur-blocking-off-a-portion-of-california-state-route-1-just-south-of-gorda-no-injuries-were-reported-however.md) _2017-05-24 19:30:07 (First version)_
+1. [A landslide occurs at Big Sur, blocking off a portion of California State Route 1 just south of Gorda. No injuries were reported, however. ](/news/2017/05/24/a-landslide-occurs-at-big-sur-blocking-off-a-portion-of-california-state-route-1-just-south-of-gorda-no-injuries-were-reported-however.md) _2018-02-06 13:49:30 (First version)_
 1. [A landslide at Big Sur blocks off a portion of California State Route 1 just south of Gorda; no injuries have been reported. ](/news/2017/05/24/a-landslide-at-big-sur-blocks-off-a-portion-of-california-state-route-1-just-south-of-gorda-no-injuries-have-been-reported.md) _(Current version)_
 
 ### Related:

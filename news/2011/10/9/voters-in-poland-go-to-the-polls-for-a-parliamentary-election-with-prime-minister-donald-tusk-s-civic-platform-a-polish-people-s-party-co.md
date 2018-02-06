@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamen
 
 ### Changes:
 
-1. [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-polish-people-s-party-co.md) _2017-08-27 03:34:25 (First version)_
+1. [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-polish-people-s-party-co.md) _2018-02-06 13:49:23 (First version)_
 1. [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.md) _(Current version)_
 
 ### Related:

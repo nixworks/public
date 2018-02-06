@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-inter
 
 ### Changes:
 
-1. [ Three people are dead at the Newhall Pass interchange on Interstate 5 just north of Los Angeles, California after thirty-one vehicles collide in a highway tunnel, closing the freeway entirely. ](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-interchange-on-interstate-5-just-north-of-los-angeles-california-after-thirty-one-vehicles-coll.md) _2017-08-25 03:21:10 (First version)_
+1. [ Three people are dead at the Newhall Pass interchange on Interstate 5 just north of Los Angeles, California after thirty-one vehicles collide in a highway tunnel, closing the freeway entirely. ](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-interchange-on-interstate-5-just-north-of-los-angeles-california-after-thirty-one-vehicles-coll.md) _2018-02-06 13:49:18 (First version)_
 1. [ Three people are dead at the Newhall Pass interchange on Interstate 5 just north of Los Angeles, California after thirty-one vehicles collide in a highway tunnel, closing the freeway entirely. ](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-interchange-on-interstate-5-just-north-of-los-angeles-california-after-thirty-one-vehicles-colli.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hund
 
 ### Changes:
 
-1. [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry ''al-Salam Boccaccio '98'' sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-a.md) _2017-08-25 03:17:26 (First version)_
+1. [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry ''al-Salam Boccaccio '98'' sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-a.md) _2018-02-06 13:49:16 (First version)_
 1. [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry "al-Salam Boccaccio '98" sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-att.md) _(Current version)_
 
 ### Related:

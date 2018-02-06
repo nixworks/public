@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/12/26/approximately-14-000-refugees-have-fled-ca-te-d
 
 ### Changes:
 
-1. [2010 Ivorian presidential election controversy: Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/2010-ivorian-presidential-election-controversy-approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-pr.md) _2017-08-27 03:31:40 (First version)_
+1. [2010 Ivorian presidential election controversy: Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/2010-ivorian-presidential-election-controversy-approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-pr.md) _2018-02-06 13:49:21 (First version)_
 1. [Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-presidential-election.md) _(Current version)_
 
 ### Related:

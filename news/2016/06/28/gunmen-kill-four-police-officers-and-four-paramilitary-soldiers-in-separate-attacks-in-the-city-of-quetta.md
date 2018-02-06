@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Balochistan conflict: Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/balochistan-conflict-gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md) _2017-08-27 03:46:22 (First version)_
+1. [Balochistan conflict: Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/balochistan-conflict-gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md) _2018-02-06 13:49:29 (First version)_
 1. [Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md) _(Current version)_
 
 ### Related:

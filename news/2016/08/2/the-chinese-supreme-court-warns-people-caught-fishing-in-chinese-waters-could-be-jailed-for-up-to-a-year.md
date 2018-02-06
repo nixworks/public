@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/2/the-chinese-supreme-court-warns-people-caught-fi
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: The Chinese Supreme Court warns people caught fishing in Chinese waters could be jailed for up to a year. ](/news/2016/08/2/territorial-disputes-in-the-south-china-sea-the-chinese-supreme-court-warns-people-caught-fishing-in-chinese-waters-could-be-jailed-for-up.md) _2017-08-27 03:46:35 (First version)_
+1. [Territorial disputes in the South China Sea: The Chinese Supreme Court warns people caught fishing in Chinese waters could be jailed for up to a year. ](/news/2016/08/2/territorial-disputes-in-the-south-china-sea-the-chinese-supreme-court-warns-people-caught-fishing-in-chinese-waters-could-be-jailed-for-up.md) _2018-02-06 13:49:29 (First version)_
 1. [The Chinese Supreme Court warns people caught fishing in Chinese waters could be jailed for up to a year. ](/news/2016/08/2/the-chinese-supreme-court-warns-people-caught-fishing-in-chinese-waters-could-be-jailed-for-up-to-a-year.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/10/tropical-storm-ana-makes-landfall-near-the-city
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/2015-atlantic-hurricane-season-tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md) _2017-08-27 03:42:17 (First version)_
+1. [2015 Atlantic hurricane season: Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/2015-atlantic-hurricane-season-tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md) _2018-02-06 13:49:27 (First version)_
 1. [Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md) _(Current version)_
 
 ### Related:

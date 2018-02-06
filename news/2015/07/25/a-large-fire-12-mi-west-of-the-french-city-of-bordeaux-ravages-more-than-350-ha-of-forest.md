@@ -16,8 +16,8 @@ Water-bombers were called in Saturday to try to contain a forest fire burning on
 
 ### Changes:
 
-1. [A large fire {{convert|12|mi|abbr=off}} west of the French city of Bordeaux ravages more than {{convert|350|ha|abbr=off}} of forest. ](/news/2015/07/25/a-large-fire-convert-12-mi-abbr-off-west-of-the-french-city-of-bordeaux-ravages-more-than-convert-350-ha-abbr-off-of-forest.md) _2017-05-01 03:46:05 (First version)_
-2. [A large fire 12|mi|abbr=off west of the French city of Bordeaux ravages more than 350|ha|abbr=off of forest. ](/news/2015/07/25/a-large-fire-12-mi-abbr-off-west-of-the-french-city-of-bordeaux-ravages-more-than-350-ha-abbr-off-of-forest.md) _2017-08-29 03:42:24 (Update)_
+1. [A large fire {{convert|12|mi|abbr=off}} west of the French city of Bordeaux ravages more than {{convert|350|ha|abbr=off}} of forest. ](/news/2015/07/25/a-large-fire-convert-12-mi-abbr-off-west-of-the-french-city-of-bordeaux-ravages-more-than-convert-350-ha-abbr-off-of-forest.md) _2018-02-06 13:49:27 (First version)_
+2. [A large fire 12|mi|abbr=off west of the French city of Bordeaux ravages more than 350|ha|abbr=off of forest. ](/news/2015/07/25/a-large-fire-12-mi-abbr-off-west-of-the-french-city-of-bordeaux-ravages-more-than-350-ha-abbr-off-of-forest.md) _2018-02-06 13:49:27 (Update)_
 2. [A large fire 12 mi west of the French city of Bordeaux ravages more than 350 ha of forest. ](/news/2015/07/25/a-large-fire-12-mi-west-of-the-french-city-of-bordeaux-ravages-more-than-350-ha-of-forest.md) _(Current version)_
 
 ### Related:

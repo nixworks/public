@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [South Thailand insurgency:Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-pinsurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md) _2017-08-25 03:38:31 (First version)_
-2. [South Thailand insurgency:: Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-insurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md) _2017-08-27 03:38:44 (Update)_
+1. [South Thailand insurgency:Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-pinsurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:: Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-insurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md) _2018-02-06 13:49:24 (Update)_
 2. [Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/insurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md) _(Current version)_
 
 ### Related:

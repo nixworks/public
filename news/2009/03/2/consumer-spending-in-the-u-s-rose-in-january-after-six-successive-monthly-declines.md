@@ -19,8 +19,8 @@ Consumer spending rose in January after falling for a record six straight months
 
 ### Changes:
 
-1. [ Late 2000s recession: Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/late-2000s-recession-p-consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md) _2017-08-25 03:23:59 (First version)_
-2. [ Late 2000s recession:: Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/late-2000s-recession-consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md) _2017-08-27 03:23:50 (Update)_
+1. [ Late 2000s recession: Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/late-2000s-recession-p-consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession:: Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/late-2000s-recession-consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md) _2018-02-06 13:49:18 (Update)_
 2. [ Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md) _(Current version)_
 
 ### Related:

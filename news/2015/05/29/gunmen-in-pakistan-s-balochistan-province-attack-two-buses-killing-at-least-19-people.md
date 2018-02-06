@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attac
 
 ### Changes:
 
-1. [Balochistan conflict: Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/balochistan-conflict-gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _2017-08-27 03:42:26 (First version)_
+1. [Balochistan conflict: Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/balochistan-conflict-gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _(Current version)_
 
 ### Related:

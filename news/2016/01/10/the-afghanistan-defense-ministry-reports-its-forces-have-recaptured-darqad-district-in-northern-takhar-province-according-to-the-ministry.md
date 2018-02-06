@@ -17,7 +17,7 @@ Afghan security forces have retaken a district in the north of the country, kill
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Afghanistan defense ministry reports its forces have recaptured Darqad District in northern Takhar Province. According to the ministry, twenty Taliban militants and one Afghan soldier were killed in two days of fighting. ](/news/2016/01/10/war-in-afghanistan-2015-present-the-afghanistan-defense-ministry-reports-its-forces-have-recaptured-darqad-district-in-northern-takhar.md) _2017-08-27 03:44:38 (First version)_
+1. [War in Afghanistan (2015-present): The Afghanistan defense ministry reports its forces have recaptured Darqad District in northern Takhar Province. According to the ministry, twenty Taliban militants and one Afghan soldier were killed in two days of fighting. ](/news/2016/01/10/war-in-afghanistan-2015-present-the-afghanistan-defense-ministry-reports-its-forces-have-recaptured-darqad-district-in-northern-takhar.md) _2018-02-06 13:49:28 (First version)_
 1. [The Afghanistan defense ministry reports its forces have recaptured Darqad District in northern Takhar Province. According to the ministry, twenty Taliban militants and one Afghan soldier were killed in two days of fighting. ](/news/2016/01/10/the-afghanistan-defense-ministry-reports-its-forces-have-recaptured-darqad-district-in-northern-takhar-province-according-to-the-ministry.md) _(Current version)_
 
 ### Related:

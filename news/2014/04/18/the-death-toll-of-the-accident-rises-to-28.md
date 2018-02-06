@@ -17,6 +17,6 @@ Formats: [HTML](/news/2014/04/18/the-death-toll-of-the-accident-rises-to-28.html
 
 ### Changes:
 
-1. [2014 South Korean ferry capsizing:The death toll of the accident rises to 28. ](/news/2014/04/18/2014-south-korean-ferry-capsizing-pthe-death-toll-of-the-accident-rises-to-28.md) _2017-08-25 03:40:18 (First version)_
-2. [2014 South Korean ferry capsizing:: The death toll of the accident rises to 28. ](/news/2014/04/18/2014-south-korean-ferry-capsizing-the-death-toll-of-the-accident-rises-to-28.md) _2017-08-27 03:40:36 (Update)_
+1. [2014 South Korean ferry capsizing:: The death toll of the accident rises to 28. ](/news/2014/04/18/2014-south-korean-ferry-capsizing-the-death-toll-of-the-accident-rises-to-28.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 South Korean ferry capsizing:The death toll of the accident rises to 28. ](/news/2014/04/18/2014-south-korean-ferry-capsizing-pthe-death-toll-of-the-accident-rises-to-28.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll of the accident rises to 28. ](/news/2014/04/18/the-death-toll-of-the-accident-rises-to-28.md) _(Current version)_

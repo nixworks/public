@@ -16,7 +16,7 @@ BISMARCK, N.D. (AP) — Triumphantly armed with a majority of his party&#039;s d
 
 ### Changes:
 
-1. [United States presidential election, 2016: The Associated Press reports that Donald Trump has secured enough delegates to secure the Republican Party nomination for President. ](/news/2016/05/26/united-states-presidential-election-2016-the-associated-press-reports-that-donald-trump-has-secured-enough-delegates-to-secure-the-republi.md) _2017-08-27 03:46:08 (First version)_
+1. [United States presidential election, 2016: The Associated Press reports that Donald Trump has secured enough delegates to secure the Republican Party nomination for President. ](/news/2016/05/26/united-states-presidential-election-2016-the-associated-press-reports-that-donald-trump-has-secured-enough-delegates-to-secure-the-republi.md) _2018-02-06 13:49:29 (First version)_
 1. [The Associated Press reports that Donald Trump has secured enough delegates to secure the Republican Party nomination for President. ](/news/2016/05/26/the-associated-press-reports-that-donald-trump-has-secured-enough-delegates-to-secure-the-republican-party-nomination-for-president.md) _(Current version)_
 
 ### Related:

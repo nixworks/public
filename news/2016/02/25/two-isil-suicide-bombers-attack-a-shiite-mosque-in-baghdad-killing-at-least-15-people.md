@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/iraqi-civil-war-2014-present-two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _2017-08-27 03:45:01 (First version)_
+1. [Iraqi Civil War (2014-present): Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/iraqi-civil-war-2014-present-two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _2018-02-06 13:49:28 (First version)_
 1. [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Islamist insurgents shoot dead 56 members of Syrian government forces in a mass 
 ### [At least 55 are killed when Turkish warplanes hit Kurdistan Workers Party (PKK) camps in northern Iraq, according to Turkey's security sources. ](/news/2015/09/19/at-least-55-are-killed-when-turkish-warplanes-hit-kurdistan-workers-party-pkk-camps-in-northern-iraq-according-to-turkey-s-security-sourc.md)
 At least 55 militants were killed when Turkish warplanes hit Kurdistan Workers Party (PKK) camps in northern Iraq overnight, security sources said on Saturday, as Ankara shows no sign of easing up strikes on insurgents ahead of a Nov. 1 election.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A Saudi-led military coalition bombards government buildings and residential neighborhoods in the Yemeni capital, Sana'a, killing about 30 people, including civilians. Rescuers continue searching for other possible victims buried under the rubble. ](/news/2015/09/19/a-saudi-led-military-coalition-bombards-government-buildings-and-residential-neighborhoods-in-the-yemeni-capital-sana-a-killing-about-30-p.md)
 SANAA, Yemen – Airstrikes carried out by a Saudi-led coalition against Yemen’s Shiite rebels and their allies have killed 29 people, including civilians, in the capital Sanaa, security and medical officials in the city said Saturday.
 
@@ -25,7 +25,7 @@ _Context: Sabado Gigante, variety show, Univision's_
 
 ##### flash flood
 ### [Heavy rain triggers flash floods killing 10 people in Tehran and southern Iran, with eight others missing. ](/news/2015/09/19/heavy-rain-triggers-flash-floods-killing-10-people-in-tehran-and-southern-iran-with-eight-others-missing.md)
-_Context: Tehran, Iran, flash flood_
+_Context: Tehran, flash flood, Iran_
 
 ##### European migrant crisis
 ### [Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md)
@@ -37,7 +37,7 @@ The Delhi government has ordered deferring all planned surgeries to facilitate a
 
 ##### Japanese Self-Defense Forces
 ### [Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july-that-expands-the-role-of-the.md)
-_Context: Diet, Japanese Self-Defense Forces, lower chamber, Japan_
+_Context: Japan, lower chamber, Japanese Self-Defense Forces, Diet_
 
 ##### European migrant crisis
 ### [Hungarian security forces confiscate a Croatian train carrying 1000 migrants and disarm 40 Croatian police officers accompanying the migrants. Hungarian authorities repatriate the officers. ](/news/2015/09/19/hungarian-security-forces-confiscate-a-croatian-train-carrying-1000-migrants-and-disarm-40-croatian-police-officers-accompanying-the-migrant.md)

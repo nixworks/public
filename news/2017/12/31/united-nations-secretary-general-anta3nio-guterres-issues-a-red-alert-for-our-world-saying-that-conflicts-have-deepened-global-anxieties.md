@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/31/united-nations-secretary-general-anta3nio-guter
 
 ### Changes:
 
-1. [United Nations Secretary-General Antonio Guterres issues "a red alert for our world" because conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-because-conflicts-have-deepened-global-anxieties-abou.md) _2018-01-01 19:30:04 (First version)_
+1. [United Nations Secretary-General Antonio Guterres issues "a red alert for our world" because conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-because-conflicts-have-deepened-global-anxieties-abou.md) _2018-02-06 13:49:31 (First version)_
 1. [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md) _(Current version)_
 
 ### Related:

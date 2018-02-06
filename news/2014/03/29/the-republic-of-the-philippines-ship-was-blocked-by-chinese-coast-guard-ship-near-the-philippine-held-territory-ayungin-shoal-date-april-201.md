@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/03/29/the-republic-of-the-philippines-ship-was-blocke
 
 ### Changes:
 
-1. [The Republic of the Philippines ship was blocked by Chinese Coast Guard ship near the Philippine held territory Ayungin Shoal.{{cn|date=April 2014}}](/news/2014/03/29/the-republic-of-the-philippines-ship-was-blocked-by-chinese-coast-guard-ship-near-the-philippine-held-territory-ayungin-shoal-cn-date-apri.md) _2017-05-01 03:43:42 (First version)_
+1. [The Republic of the Philippines ship was blocked by Chinese Coast Guard ship near the Philippine held territory Ayungin Shoal.{{cn|date=April 2014}}](/news/2014/03/29/the-republic-of-the-philippines-ship-was-blocked-by-chinese-coast-guard-ship-near-the-philippine-held-territory-ayungin-shoal-cn-date-apri.md) _2018-02-06 13:49:26 (First version)_
 1. [The Republic of the Philippines ship was blocked by Chinese Coast Guard ship near the Philippine held territory Ayungin Shoal.date=April 2014](/news/2014/03/29/the-republic-of-the-philippines-ship-was-blocked-by-chinese-coast-guard-ship-near-the-philippine-held-territory-ayungin-shoal-date-april-201.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/22/index.html)  [JSON](2015/07/22/index.json)  [XML](201
 
 ##### suicide bombing
 ### [ A suicide bomb attack kills at least 15 people in northern Afghanistan. ](/news/2015/07/22/a-suicide-bomb-attack-kills-at-least-15-people-in-northern-afghanistan.md)
-_Context: suicide bombing, Afghanistan_
+_Context: Afghanistan, suicide bombing_
 
 ##### explosion
 ### [ Two explosions in the Nigerian city of Gombe killed at least 29 people. ](/news/2015/07/22/two-explosions-in-the-nigerian-city-of-gombe-killed-at-least-29-people.md)
@@ -37,7 +37,7 @@ Football playing robots built by researchers at Eindhoven University have lost t
 
 ##### National Institutes of Health
 ### [ Scientists at the U.S. NIH's National Institute of Allergy and Infectious Diseases report a major breakthrough toward finding a new universal flu vaccine by using non-infectious H-proteins instead of whole viruses.](/news/2015/07/22/scientists-at-the-u-s-nih-s-national-institute-of-allergy-and-infectious-diseases-report-a-major-breakthrough-toward-finding-a-new-univers.md)
-_Context: National Institutes of Health, National Institute of Allergy and Infectious Diseases, H-proteins, universal flu vaccine_
+_Context: H-proteins, universal flu vaccine, National Institute of Allergy and Infectious Diseases, National Institutes of Health_
 
 ## [Previous Day...](/news/2015/07/21/index.md)
 

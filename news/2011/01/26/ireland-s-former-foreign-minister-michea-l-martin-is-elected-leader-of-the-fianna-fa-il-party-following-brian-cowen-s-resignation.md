@@ -20,8 +20,8 @@ Ireland&#039;s ruling Fianna Fail party on Wednesday elected former foreign mini
 
 ### Changes:
 
-1. [Election of Micheal Martin:Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/election-of-michea-l-martin-pireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian-c.md) _2017-08-25 03:31:56 (First version)_
-2. [Election of Micheal Martin:: Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/election-of-michea-l-martin-ireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian.md) _2017-08-27 03:32:04 (Update)_
+1. [Election of Micheal Martin:Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/election-of-michea-l-martin-pireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian-c.md) _2018-02-06 13:49:21 (First version)_
+2. [Election of Micheal Martin:: Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/election-of-michea-l-martin-ireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian.md) _2018-02-06 13:49:21 (Update)_
 2. [Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/ireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian-cowen-s-resignation.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ ICC will investigate reports of rapes and killings by soldiers if DRC government
 
 ### Changes:
 
-1. [At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _2017-08-25 03:47:46 (First version)_
-2. [Kamwina Nsapu rebellion: At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/kamwina-nsapu-rebellion-at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-o.md) _2017-08-27 03:48:12 (Update)_
+1. [Kamwina Nsapu rebellion: At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/kamwina-nsapu-rebellion-at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-o.md) _2018-02-06 13:49:30 (First version)_
+2. [At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _2018-02-06 13:49:30 (Update)_
 2. [At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-aroun.md) _(Current version)_
 
 ### Related:

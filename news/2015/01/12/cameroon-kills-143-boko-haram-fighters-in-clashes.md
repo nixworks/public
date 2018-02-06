@@ -16,7 +16,7 @@ At least 143 Boko Haram fighters were killed in an attack on a military camp in 
 
 ### Changes:
 
-1. [Boko Haram: Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/boko-haram-cameroon-kills-143-boko-haram-fighters-in-clashes.md) _2017-08-27 03:41:46 (First version)_
+1. [Boko Haram: Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/boko-haram-cameroon-kills-143-boko-haram-fighters-in-clashes.md) _2018-02-06 13:49:26 (First version)_
 1. [Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.md) _(Current version)_
 
 ### Related:

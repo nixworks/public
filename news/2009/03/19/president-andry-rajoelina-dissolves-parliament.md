@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/03/19/president-andry-rajoelina-dissolves-parliament.
 
 ### Changes:
 
-1. [ Malagasy political crisis: President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/malagasy-political-crisis-p-president-andry-rajoelina-dissolves-parliament.md) _2017-08-25 03:24:08 (First version)_
-2. [ Malagasy political crisis:: President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/malagasy-political-crisis-president-andry-rajoelina-dissolves-parliament.md) _2017-08-27 03:23:59 (Update)_
+1. [ Malagasy political crisis:: President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/malagasy-political-crisis-president-andry-rajoelina-dissolves-parliament.md) _2018-02-06 13:49:18 (First version)_
+2. [ Malagasy political crisis: President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/malagasy-political-crisis-p-president-andry-rajoelina-dissolves-parliament.md) _2018-02-06 13:49:18 (Update)_
 2. [ President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/president-andry-rajoelina-dissolves-parliament.md) _(Current version)_
 
 ### Related:

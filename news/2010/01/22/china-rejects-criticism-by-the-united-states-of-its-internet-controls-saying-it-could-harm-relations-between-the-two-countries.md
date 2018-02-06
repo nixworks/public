@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/01/22/china-rejects-criticism-by-the-united-states-of
 
 ### Changes:
 
-1. [Operation Aurora:China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-pchina-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-coun.md) _2017-08-25 03:26:58 (First version)_
-2. [Operation Aurora:: China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-cou.md) _2017-08-27 03:26:51 (Update)_
+1. [Operation Aurora:China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-pchina-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-coun.md) _2018-02-06 13:49:19 (First version)_
+2. [Operation Aurora:: China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-cou.md) _2018-02-06 13:49:19 (Update)_
 2. [China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-countries.md) _(Current version)_
 
 ### Related:

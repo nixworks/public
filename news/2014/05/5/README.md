@@ -9,7 +9,7 @@ _Context: Sloviansk, Ukrainian military, Eastern Ukraine, Siege of Sloviansk_
 
 ##### Vladimir Putin
 ### [Russian media reveals that President Vladimir Putin secretly signed a decree (No. 279) honoring more than 300 journalists for their "objective coverage" of Crimea's seizure from Ukraine. ](/news/2014/05/5/russian-media-reveals-that-president-vladimir-putin-secretly-signed-a-decree-no-279-honoring-more-than-300-journalists-for-their-objecti.md)
-_Context: Crimea, signed a decree, Vladimir Putin_
+_Context: Crimea, Vladimir Putin, signed a decree_
 
 ##### Tatiana Samoilova
 ### [Russian actress Tatiana Samoilova dies at age 80. ](/news/2014/05/5/russian-actress-tatiana-samoilova-dies-at-age-80.md)
@@ -21,11 +21,11 @@ US clothing retail giant Target announces the resignation of its chief executive
 
 ##### Advanced Micro Devices
 ### [Advanced Micro Devices expands a licensing agreement with ARM Holdings that may allow AMD to become a more aggressive competitor in the market for chips outside the PC realm. ](/news/2014/05/5/advanced-micro-devices-expands-a-licensing-agreement-with-arm-holdings-that-may-allow-amd-to-become-a-more-aggressive-competitor-in-the-mark.md)
-_Context: ARM Holdings, Advanced Micro Devices_
+_Context: Advanced Micro Devices, ARM Holdings_
 
 ##### Eleven people are missing
 ### [Eleven people are missing after a Chinese cargo ship collides with a Marshall Islands registered container ship off the coast of Hong Kong. ](/news/2014/05/5/eleven-people-are-missing-after-a-chinese-cargo-ship-collides-with-a-marshall-islands-registered-container-ship-off-the-coast-of-hong-kong.md)
-_Context: Marshall Islands, Eleven people are missing, container ship_
+_Context: container ship, Marshall Islands, Eleven people are missing_
 
 ##### At least two people are dead and 30 missing
 ### [At least two people are dead and 30 missing after two boats carrying illegal immigrants collide in the Aegean Sea off the coast of Greece. ](/news/2014/05/5/at-least-two-people-are-dead-and-30-missing-after-two-boats-carrying-illegal-immigrants-collide-in-the-aegean-sea-off-the-coast-of-greece.md)
@@ -37,7 +37,7 @@ The World Health Organization declares the recent spread of polio an internation
 
 ##### The Coca-Cola Company
 ### [Coca-Cola and PepsiCo said they will remove brominated vegetable oil (BVO) from their drinks. ](/news/2014/05/5/coca-cola-and-pepsico-said-they-will-remove-brominated-vegetable-oil-bvo-from-their-drinks.md)
-_Context: The Coca-Cola Company, brominated vegetable oil, PepsiCo_
+_Context: The Coca-Cola Company, PepsiCo, brominated vegetable oil_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court rules that a practice of beginning legislative sessions with prayers does not violate the Establishment Clause of the First Amendment. ](/news/2014/05/5/the-u-s-supreme-court-rules-that-a-practice-of-beginning-legislative-sessions-with-prayers-does-not-violate-the-establishment-clause-of-the.md)
@@ -45,7 +45,7 @@ _Context: U.S. Supreme Court, religious establishment clause_
 
 ##### Naomi Mutah Nyadar
 ### [Naomi Mutah Nyadar, the leader of the One Million Women protest in Nigeria over failure to act on the kidnapping of 203 schoolgirls by terrorist group Boko Haram, is reportedly detained on the orders of First Lady of Nigeria Patience Jonathan. ](/news/2014/05/5/naomi-mutah-nyadar-the-leader-of-the-one-million-women-protest-in-nigeria-over-failure-to-act-on-the-kidnapping-of-203-schoolgirls-by-terro.md)
-_Context: Naomi Mutah Nyadar, Nigeria, Boko Haram, First Lady of Nigeria, Patience Jonathan, One Million Women_
+_Context: Patience Jonathan, Naomi Mutah Nyadar, First Lady of Nigeria, Boko Haram, One Million Women, Nigeria_
 
 ## [Previous Day...](/news/2014/05/4/index.md)
 

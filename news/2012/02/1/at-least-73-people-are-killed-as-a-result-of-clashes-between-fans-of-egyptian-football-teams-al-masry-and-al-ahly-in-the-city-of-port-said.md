@@ -19,8 +19,8 @@ At least 74 people are killed and many injured in clashes between rival football
 
 ### Changes:
 
-1. [Egyptian At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/egyptian-at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-in-the-city-of-po.md) _2017-08-25 03:34:56 (First version)_
-2. [Egyptian football riots: At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/egyptian-football-riots-at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-i.md) _2017-08-27 03:35:05 (Update)_
+1. [Egyptian football riots: At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/egyptian-football-riots-at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-i.md) _2018-02-06 13:49:23 (First version)_
+2. [Egyptian At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/egyptian-at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-in-the-city-of-po.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-in-the-city-of-port-said.md) _(Current version)_
 
 ### Related:

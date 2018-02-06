@@ -16,7 +16,7 @@ The Emir of Qatar has reportedly agreed to roll out €2.2 billion ($2.99 bn) to
 
 ### Changes:
 
-1. [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's ''La Monumental'' bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into.md) _2017-08-25 03:40:35 (First version)_
+1. [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's ''La Monumental'' bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into.md) _2018-02-06 13:49:26 (First version)_
 1. [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's "La Monumental" bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into-a.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ Israel sets a tax sanction on the Palestinian Authority in the latest retaliator
 
 ##### Chemical weapons
 ### [Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md)
-_Context: Hama, Chemical weapons_
+_Context: Chemical weapons, Hama_
 
 ##### 2014 pro-Russian protests in Ukraine
 ### [Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md)

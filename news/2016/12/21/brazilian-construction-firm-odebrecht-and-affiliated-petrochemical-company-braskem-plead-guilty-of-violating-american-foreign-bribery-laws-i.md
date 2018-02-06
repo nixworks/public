@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/21/brazilian-construction-firm-odebrecht-and-affil
 
 ### Changes:
 
-1. [Operation Car Wash: Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/operation-car-wash-brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-fo.md) _2017-08-27 03:47:29 (First version)_
+1. [Operation Car Wash: Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/operation-car-wash-brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-fo.md) _2018-02-06 13:49:30 (First version)_
 1. [Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-foreign-bribery-laws-i.md) _(Current version)_
 
 ### Related:

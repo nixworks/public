@@ -20,8 +20,8 @@ Three people were killed on Monday and up to eight others wounded when about 20 
 
 ### Changes:
 
-1. [Afghanistan and PakistanThree soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistanpthree-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md) _2017-08-25 03:30:20 (First version)_
-2. [Afghanistan and Pakistan: Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistan-three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md) _2017-08-27 03:30:25 (Update)_
+1. [Afghanistan and PakistanThree soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistanpthree-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md) _2018-02-06 13:49:20 (First version)_
+2. [Afghanistan and Pakistan: Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistan-three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md) _2018-02-06 13:49:20 (Update)_
 2. [Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in-afghanistan-s-restive-sou.md) _(Current version)_
 
 ### Related:

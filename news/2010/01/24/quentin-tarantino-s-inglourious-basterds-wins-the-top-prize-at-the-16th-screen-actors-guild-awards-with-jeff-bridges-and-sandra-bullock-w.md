@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-t
 
 ### Changes:
 
-1. [Quentin Tarantino's ''Inglourious Basterds'' wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock.md) _2017-08-25 03:27:00 (First version)_
+1. [Quentin Tarantino's ''Inglourious Basterds'' wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock.md) _2018-02-06 13:49:19 (First version)_
 1. [Quentin Tarantino's "Inglourious Basterds" wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock-w.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/7/beijing-s-city-government-issues-its-first-red-a
 
 ### Changes:
 
-1. [Pollution in China: Beijing's city government issues its first red alert for pollution, ordering schools to close, halting outdoor construction, and restricting car use due to hazardous air quality. ](/news/2015/12/7/pollution-in-china-beijing-s-city-government-issues-its-first-red-alert-for-pollution-ordering-schools-to-close-halting-outdoor-construct.md) _2017-08-27 03:44:14 (First version)_
+1. [Pollution in China: Beijing's city government issues its first red alert for pollution, ordering schools to close, halting outdoor construction, and restricting car use due to hazardous air quality. ](/news/2015/12/7/pollution-in-china-beijing-s-city-government-issues-its-first-red-alert-for-pollution-ordering-schools-to-close-halting-outdoor-construct.md) _2018-02-06 13:49:28 (First version)_
 1. [Beijing's city government issues its first red alert for pollution, ordering schools to close, halting outdoor construction, and restricting car use due to hazardous air quality. ](/news/2015/12/7/beijing-s-city-government-issues-its-first-red-alert-for-pollution-ordering-schools-to-close-halting-outdoor-construction-and-restricting.md) _(Current version)_
 
 ### Related:

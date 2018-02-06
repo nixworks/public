@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/2/cia-flights-french-newspaper-le-figaro-reveals-t
 
 ### Changes:
 
-1. [ CIA flights: French newspaper ''Le Figaro'' reveals that the attorney general of Bobigny has opened up an investigation concerning the landing of a CIA flight in Le Bourget Airport following a complaint deposed at the end of December 2005 by NGOs International Federation of Human Rights Leagues and the French ''Ligue des droits de l'homme''. ](/news/2006/03/2/cia-flights-french-newspaper-le-figaro-reveals-that-the-attorney-general-of-bobigny-has-opened-up-an-investigation-concerning-the-land.md) _2017-08-25 03:17:29 (First version)_
+1. [ CIA flights: French newspaper ''Le Figaro'' reveals that the attorney general of Bobigny has opened up an investigation concerning the landing of a CIA flight in Le Bourget Airport following a complaint deposed at the end of December 2005 by NGOs International Federation of Human Rights Leagues and the French ''Ligue des droits de l'homme''. ](/news/2006/03/2/cia-flights-french-newspaper-le-figaro-reveals-that-the-attorney-general-of-bobigny-has-opened-up-an-investigation-concerning-the-land.md) _2018-02-06 13:49:17 (First version)_
 1. [ CIA flights: French newspaper "Le Figaro" reveals that the attorney general of Bobigny has opened up an investigation concerning the landing of a CIA flight in Le Bourget Airport following a complaint deposed at the end of December 2005 by NGOs International Federation of Human Rights Leagues and the French "Ligue des droits de l'homme". ](/news/2006/03/2/cia-flights-french-newspaper-le-figaro-reveals-that-the-attorney-general-of-bobigny-has-opened-up-an-investigation-concerning-the-landin.md) _(Current version)_
 
 ### Related:

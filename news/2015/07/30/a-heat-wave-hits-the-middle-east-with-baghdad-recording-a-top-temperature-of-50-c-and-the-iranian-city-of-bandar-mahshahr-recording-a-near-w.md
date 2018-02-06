@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-r
 
 ### Changes:
 
-1. [A heat wave hits the Middle East with Baghdad recording a top temperature of {{convert|50|C|F}} and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of {{convert|165.2|F|C|order=flip}}. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-convert-50-c-f-and-the-iranian-city-of-bandar-mahshahr-reco.md) _2017-05-01 03:46:06 (First version)_
-2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50|C|F and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2|F|C|order=flip. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-f-and-the-iranian-city-of-bandar-mahshahr-recording-a-near.md) _2017-08-29 03:42:25 (Update)_
+1. [A heat wave hits the Middle East with Baghdad recording a top temperature of {{convert|50|C|F}} and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of {{convert|165.2|F|C|order=flip}}. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-convert-50-c-f-and-the-iranian-city-of-bandar-mahshahr-reco.md) _2018-02-06 13:49:27 (First version)_
+2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50|C|F and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2|F|C|order=flip. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-f-and-the-iranian-city-of-bandar-mahshahr-recording-a-near.md) _2018-02-06 13:49:27 (Update)_
 2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50 C and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2 F. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Rescuers work through the night to remove the rubble of a collapsed apartment bu
 
 ### Changes:
 
-1. [A rickety multi-storey apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. ](/news/2017/08/31/a-rickety-multi-storey-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-mis.md) _2017-09-01 15:30:04 (First version)_
+1. [A rickety multi-storey apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. ](/news/2017/08/31/a-rickety-multi-storey-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-mis.md) _2018-02-06 13:49:31 (First version)_
 1. [A rickety multi-story apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. ](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.md) _(Current version)_
 
 ### Related:

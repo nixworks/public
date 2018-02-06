@@ -16,7 +16,7 @@ Maoist rebels kill at least 14 paramilitary policemen in an ambush in the centra
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/naxalite-maoist-insurgency-maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _2017-08-27 03:41:34 (First version)_
+1. [Naxalite-Maoist insurgency: Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/naxalite-maoist-insurgency-maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _2018-02-06 13:49:26 (First version)_
 1. [Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _(Current version)_
 
 ### Related:

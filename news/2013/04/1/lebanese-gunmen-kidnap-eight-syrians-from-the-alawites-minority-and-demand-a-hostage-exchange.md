@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/1/lebanese-gunmen-kidnap-eight-syrians-from-the-al
 
 ### Changes:
 
-1. [Syrian civil war:Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-plebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md) _2017-08-25 03:38:07 (First version)_
-2. [Syrian civil war:: Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md) _2017-08-27 03:38:18 (Update)_
+1. [Syrian civil war:Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-plebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md) _2018-02-06 13:49:24 (Update)_
 2. [Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md) _(Current version)_
 
 ### Related:

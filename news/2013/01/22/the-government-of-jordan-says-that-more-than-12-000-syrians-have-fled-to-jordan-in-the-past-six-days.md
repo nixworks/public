@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/22/the-government-of-jordan-says-that-more-than-12
 
 ### Changes:
 
-1. [Syrian civil war:The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-pthe-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md) _2017-08-25 03:37:19 (First version)_
-2. [Syrian civil war:: The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md) _2017-08-27 03:37:29 (Update)_
+1. [Syrian civil war:: The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-pthe-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md) _2018-02-06 13:49:24 (Update)_
 2. [The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md) _(Current version)_
 
 ### Related:

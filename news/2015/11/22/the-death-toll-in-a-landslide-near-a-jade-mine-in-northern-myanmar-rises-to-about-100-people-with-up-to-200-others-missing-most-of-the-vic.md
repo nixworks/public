@@ -17,7 +17,7 @@ A landslide near a jade mine in northern Myanmar killed about 100 people, most o
 
 ### Changes:
 
-1. [Hpakant jade mine disaster: The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth. ](/news/2015/11/22/hpakant-jade-mine-disaster-the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-oth.md) _2017-08-27 03:44:00 (First version)_
+1. [Hpakant jade mine disaster: The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth. ](/news/2015/11/22/hpakant-jade-mine-disaster-the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-oth.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth. ](/news/2015/11/22/the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-others-missing-most-of-the-vic.md) _(Current version)_
 
 ### Related:

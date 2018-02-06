@@ -16,7 +16,7 @@ Confrontations erupted on backdrop of new Jewish residents entering neighborhood
 
 ### Changes:
 
-1. [Arab-Israeli conflict: Violent clashes erupt between new Israeli settlers and Palestinians in the Silwan area of East Jerusalem with 13 Palestinians and four Israeli police injured. ](/news/2015/09/12/arab-israeli-conflict-violent-clashes-erupt-between-new-israeli-settlers-and-palestinians-in-the-silwan-area-of-east-jerusalem-with-13-pale.md) _2017-08-27 03:43:02 (First version)_
+1. [Arab-Israeli conflict: Violent clashes erupt between new Israeli settlers and Palestinians in the Silwan area of East Jerusalem with 13 Palestinians and four Israeli police injured. ](/news/2015/09/12/arab-israeli-conflict-violent-clashes-erupt-between-new-israeli-settlers-and-palestinians-in-the-silwan-area-of-east-jerusalem-with-13-pale.md) _2018-02-06 13:49:27 (First version)_
 1. [Violent clashes erupt between new Israeli settlers and Palestinians in the Silwan area of East Jerusalem with 13 Palestinians and four Israeli police injured. ](/news/2015/09/12/violent-clashes-erupt-between-new-israeli-settlers-and-palestinians-in-the-silwan-area-of-east-jerusalem-with-13-palestinians-and-four-israe.md) _(Current version)_
 
 ### Related:

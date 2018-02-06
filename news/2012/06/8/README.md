@@ -25,15 +25,15 @@ _Context: Amnesty International, Israel, criticised_
 
 ##### The Roundhouse
 ### [The Roundhouse in Chalk Farm, North London, vows to recognise Amy Winehouse's contribution to music by erecting a statue to her. ](/news/2012/06/8/the-roundhouse-in-chalk-farm-north-london-vows-to-recognise-amy-winehouse-s-contribution-to-music-by-erecting-a-statue-to-her.md)
-_Context: Amy Winehouse, The Roundhouse, North London, Chalk Farm_
+_Context: The Roundhouse, Amy Winehouse, North London, Chalk Farm_
 
 ##### Booker Prize
 ### [Booker Prize winning writer of historical fiction Barry Unsworth dies in Italy. ](/news/2012/06/8/booker-prize-winning-writer-of-historical-fiction-barry-unsworth-dies-in-italy.md)
-_Context: Italy, Barry Unsworth, Booker Prize_
+_Context: Barry Unsworth, Booker Prize, Italy_
 
 ##### Commonwealth Writers prizes
 ### [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the GBP10,000 Commonwealth Book Prize for his debut novel "Chinaman: The Legend of Pradeep Mathew", while Emma Martin from New Zealand wins the GBP5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-agbp10-000-commonwealth-book-prize-for-hi.md)
-_Context: Sri Lanka, New Zealand, Commonwealth Writers prizes, Shehan Karunatilaka, Emma Martin, Hay_
+_Context: Commonwealth Writers prizes, Emma Martin, Shehan Karunatilaka, Sri Lanka, New Zealand, Hay_
 
 ##### Chesapeake Energy
 ### [Chesapeake Energy shareholders, at their annual meeting, reject two incumbent directors in a vote widely regarded as a repudiation of CEO Aubrey McClendon. ](/news/2012/06/8/chesapeake-energy-shareholders-at-their-annual-meeting-reject-two-incumbent-directors-in-a-vote-widely-regarded-as-a-repudiation-of-ceo-au.md)
@@ -49,7 +49,7 @@ BLANTYRE, Jun 8 - Malawi said Friday it will not host the African Union summit i
 
 ##### Fort Meade
 ### [A military judge at Fort Meade in Maryland rejects dropping charges against imprisoned U.S. serviceman Bradley Manning and says his trial would likely be delayed by two months until November. ](/news/2012/06/8/a-military-judge-at-fort-meade-in-maryland-rejects-dropping-charges-against-imprisoned-u-s-serviceman-bradley-manning-and-says-his-trial-wo.md)
-_Context: Bradley Manning, Fort Meade, Maryland_
+_Context: Fort Meade, Maryland, Bradley Manning_
 
 ##### Chuck Blazer
 ### [Chuck Blazer, the FIFA official who blew the whistle on corruption within the governing body last year, faces accusations by Jack Warner of secretly funding the rent on a luxury New York apartment using funds from the football federation he ran. ](/news/2012/06/8/chuck-blazer-the-fifa-official-who-blew-the-whistle-on-corruption-within-the-governing-body-last-year-faces-accusations-by-jack-warner-of.md)
@@ -61,7 +61,7 @@ _Context: Christopher "Dudus" Coke, Jamaica_
 
 ##### parliament
 ### [The Parliament of Albania fails without a vote in the third round to elect the President of the Republic of Albania. ](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-in-the-third-round-to-elect-the-president-of-the-republic-of-albania.md)
-_Context: President of Albania, Republic of Albania, elects, parliament_
+_Context: parliament, elects, President of Albania, Republic of Albania_
 
 ##### Home Secretary
 ### [UK Home Secretary Theresa May announces plans to introduce new laws to jail parents who force their children into arranged marriages. ](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.md)

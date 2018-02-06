@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/23/the-council-of-the-european-union-general-affai
 
 ### Changes:
 
-1. [Lithuania and the euro:The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/lithuania-and-the-euro-pthe-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the.md) _2017-08-25 03:40:44 (First version)_
-2. [Lithuania and the euro:: The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/lithuania-and-the-euro-the-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the.md) _2017-08-27 03:41:02 (Update)_
+1. [Lithuania and the euro:: The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/lithuania-and-the-euro-the-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the.md) _2018-02-06 13:49:26 (First version)_
+2. [Lithuania and the euro:The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/lithuania-and-the-euro-pthe-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the.md) _2018-02-06 13:49:26 (Update)_
 2. [The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/the-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the-euro-as-its-currency-on.md) _(Current version)_
 
 ### Related:

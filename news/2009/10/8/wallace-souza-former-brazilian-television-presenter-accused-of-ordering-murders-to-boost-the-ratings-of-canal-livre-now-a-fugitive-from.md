@@ -18,7 +18,7 @@ A Brazilian TV presenter accused of ordering murders to boost the ratings of his
 
 ### Changes:
 
-1. [ Wallace Souza, former Brazilian television presenter accused of ordering murders to boost the ratings of ''Canal Livre'', now a fugitive from justice, is at large following the end of his parliamentary immunity. ](/news/2009/10/8/wallace-souza-former-brazilian-television-presenter-accused-of-ordering-murders-to-boost-the-ratings-of-canal-livre-now-a-fugitive-fr.md) _2017-08-25 03:25:59 (First version)_
+1. [ Wallace Souza, former Brazilian television presenter accused of ordering murders to boost the ratings of ''Canal Livre'', now a fugitive from justice, is at large following the end of his parliamentary immunity. ](/news/2009/10/8/wallace-souza-former-brazilian-television-presenter-accused-of-ordering-murders-to-boost-the-ratings-of-canal-livre-now-a-fugitive-fr.md) _2018-02-06 13:49:19 (First version)_
 1. [ Wallace Souza, former Brazilian television presenter accused of ordering murders to boost the ratings of "Canal Livre", now a fugitive from justice, is at large following the end of his parliamentary immunity. ](/news/2009/10/8/wallace-souza-former-brazilian-television-presenter-accused-of-ordering-murders-to-boost-the-ratings-of-canal-livre-now-a-fugitive-from.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-
 
 ### Changes:
 
-1. [Sinai insurgency: An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/sinai-insurgency-an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _2017-08-27 03:47:46 (First version)_
+1. [Sinai insurgency: An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/sinai-insurgency-an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _2018-02-06 13:49:30 (First version)_
 1. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _(Current version)_
 
 ### Related:

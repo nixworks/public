@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-p
 
 ### Changes:
 
-1. [ Bangladesh Supreme Court denies bail to former Prime Minister Khaleda Zia in a corruption and extortion case against her.{{Fact|date=December 2007}} ](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-prime-minister-khaleda-zia-in-a-corruption-and-extortion-case-against-her-fact-date-decemb.md) _2017-05-01 03:21:57 (First version)_
+1. [ Bangladesh Supreme Court denies bail to former Prime Minister Khaleda Zia in a corruption and extortion case against her.{{Fact|date=December 2007}} ](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-prime-minister-khaleda-zia-in-a-corruption-and-extortion-case-against-her-fact-date-decemb.md) _2018-02-06 13:49:18 (First version)_
 1. [ Bangladesh Supreme Court denies bail to former Prime Minister Khaleda Zia in a corruption and extortion case against her.date=December 2007 ](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-prime-minister-khaleda-zia-in-a-corruption-and-extortion-case-against-her-date-december-2007.md) _(Current version)_
 
 ### Related:

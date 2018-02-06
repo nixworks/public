@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/18/the-referendum-fails-to-exceed-the-50-turnout-l
 
 ### Changes:
 
-1. [Italian oil drilling referendum, 2016: The referendum fails to exceed the 50% turnout level necessary to make the results binding; turnout was recorded at 31.2%. ](/news/2016/04/18/italian-oil-drilling-referendum-2016-the-referendum-fails-to-exceed-the-50-turnout-level-necessary-to-make-the-results-binding-turnout-w.md) _2017-08-27 03:45:40 (First version)_
+1. [Italian oil drilling referendum, 2016: The referendum fails to exceed the 50% turnout level necessary to make the results binding; turnout was recorded at 31.2%. ](/news/2016/04/18/italian-oil-drilling-referendum-2016-the-referendum-fails-to-exceed-the-50-turnout-level-necessary-to-make-the-results-binding-turnout-w.md) _2018-02-06 13:49:28 (First version)_
 1. [The referendum fails to exceed the 50% turnout level necessary to make the results binding; turnout was recorded at 31.2%. ](/news/2016/04/18/the-referendum-fails-to-exceed-the-50-turnout-level-necessary-to-make-the-results-binding-turnout-was-recorded-at-31-2.md) _(Current version)_
 
 ### Related:

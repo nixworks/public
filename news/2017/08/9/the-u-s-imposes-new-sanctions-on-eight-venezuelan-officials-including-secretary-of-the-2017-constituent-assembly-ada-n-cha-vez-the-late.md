@@ -17,7 +17,7 @@ Washington imposed sanctions on eight Venezuelan officials on Wednesday for thei
 
 ### Changes:
 
-1. [United States-Venezuela relations: The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/united-states-venezuela-relations-the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constitue.md) _2017-08-27 03:48:47 (First version)_
+1. [United States-Venezuela relations: The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/united-states-venezuela-relations-the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constitue.md) _2018-02-06 13:49:31 (First version)_
 1. [The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constituent-assembly-ada-n-cha-vez-the-late.md) _(Current version)_
 
 ### Related:

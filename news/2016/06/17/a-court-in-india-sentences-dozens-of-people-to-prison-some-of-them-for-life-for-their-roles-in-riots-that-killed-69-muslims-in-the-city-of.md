@@ -16,7 +16,7 @@ A court in India sentences 11 people to life in prison for their roles in a noto
 
 ### Changes:
 
-1. [2002 Gujarat riots: A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/2002-gujarat-riots-a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-mu.md) _2017-08-27 03:46:17 (First version)_
+1. [2002 Gujarat riots: A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/2002-gujarat-riots-a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-mu.md) _2018-02-06 13:49:29 (First version)_
 1. [A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.md) _(Current version)_
 
 ### Related:

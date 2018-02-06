@@ -18,7 +18,7 @@ Typhoon expected to hit coast on Sunday, as volcano spews ash over central provi
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/2015-pacific-typhoon-season-typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of.md) _2017-08-27 03:42:17 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/2015-pacific-typhoon-season-typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of-passengers-stranded-and-warn.md) _(Current version)_
 
 ### Related:

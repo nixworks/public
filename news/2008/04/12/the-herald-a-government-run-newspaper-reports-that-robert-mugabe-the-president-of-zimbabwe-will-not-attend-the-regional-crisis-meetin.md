@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-t
 
 ### Changes:
 
-1. [ ''The Herald'', a government-run newspaper, reports that Robert Mugabe, the President of Zimbabwe, will not attend the regional crisis meeting in Lusaka, Zambia, to discuss the crisis over the 2008 presidential election. ](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-that-robert-mugabe-the-president-of-zimbabwe-will-not-attend-the-regional-crisis-meet.md) _2017-08-25 03:22:02 (First version)_
+1. [ ''The Herald'', a government-run newspaper, reports that Robert Mugabe, the President of Zimbabwe, will not attend the regional crisis meeting in Lusaka, Zambia, to discuss the crisis over the 2008 presidential election. ](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-that-robert-mugabe-the-president-of-zimbabwe-will-not-attend-the-regional-crisis-meet.md) _2018-02-06 13:49:18 (First version)_
 1. [ "The Herald", a government-run newspaper, reports that Robert Mugabe, the President of Zimbabwe, will not attend the regional crisis meeting in Lusaka, Zambia, to discuss the crisis over the 2008 presidential election. ](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-that-robert-mugabe-the-president-of-zimbabwe-will-not-attend-the-regional-crisis-meetin.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ An autopsy performed on Michael Brown shows that the unarmed black teen who was 
 
 ### Changes:
 
-1. [Death of Michael Brown:A private autopsy shows that Michael Brown was shot six times as violent protests continue in Ferguson, Missouri. ](/news/2014/08/17/death-of-michael-brown-pa-private-autopsy-shows-that-michael-brown-was-shot-six-times-as-violent-protests-continue-in-ferguson-missouri.md) _2017-08-25 03:40:51 (First version)_
-2. [Death of Michael Brown:: A private autopsy shows that Michael Brown was shot six times as violent protests continue in Ferguson, Missouri. ](/news/2014/08/17/death-of-michael-brown-a-private-autopsy-shows-that-michael-brown-was-shot-six-times-as-violent-protests-continue-in-ferguson-missouri.md) _2017-08-27 03:41:10 (Update)_
+1. [Death of Michael Brown:A private autopsy shows that Michael Brown was shot six times as violent protests continue in Ferguson, Missouri. ](/news/2014/08/17/death-of-michael-brown-pa-private-autopsy-shows-that-michael-brown-was-shot-six-times-as-violent-protests-continue-in-ferguson-missouri.md) _2018-02-06 13:49:26 (First version)_
+2. [Death of Michael Brown:: A private autopsy shows that Michael Brown was shot six times as violent protests continue in Ferguson, Missouri. ](/news/2014/08/17/death-of-michael-brown-a-private-autopsy-shows-that-michael-brown-was-shot-six-times-as-violent-protests-continue-in-ferguson-missouri.md) _2018-02-06 13:49:26 (Update)_
 2. [A private autopsy shows that Michael Brown was shot six times as violent protests continue in Ferguson, Missouri. ](/news/2014/08/17/a-private-autopsy-shows-that-michael-brown-was-shot-six-times-as-violent-protests-continue-in-ferguson-missouri.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least 21 people were killed in two separate suicide car attacks in Somalia on
 
 ### Changes:
 
-1. [War in Somalia (2009-present): An al-Shabaab suicide bomber attacks a Somali military training base in Kismayu with at least 16 people dead. Another suicide bombing in Mogadishu leaves five people killed. ](/news/2015/08/22/war-in-somalia-2009-present-an-al-shabaab-suicide-bomber-attacks-a-somali-military-training-base-in-kismayu-with-at-least-16-people-dea.md) _2017-08-27 03:42:53 (First version)_
+1. [War in Somalia (2009-present): An al-Shabaab suicide bomber attacks a Somali military training base in Kismayu with at least 16 people dead. Another suicide bombing in Mogadishu leaves five people killed. ](/news/2015/08/22/war-in-somalia-2009-present-an-al-shabaab-suicide-bomber-attacks-a-somali-military-training-base-in-kismayu-with-at-least-16-people-dea.md) _2018-02-06 13:49:27 (First version)_
 1. [An al-Shabaab suicide bomber attacks a Somali military training base in Kismayu with at least 16 people dead. Another suicide bombing in Mogadishu leaves five people killed. ](/news/2015/08/22/an-al-shabaab-suicide-bomber-attacks-a-somali-military-training-base-in-kismayu-with-at-least-16-people-dead-another-suicide-bombing-in-mog.md) _(Current version)_
 
 ### Related:

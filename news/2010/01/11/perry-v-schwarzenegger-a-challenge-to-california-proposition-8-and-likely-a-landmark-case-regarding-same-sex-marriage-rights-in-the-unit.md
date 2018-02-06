@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-californi
 
 ### Changes:
 
-1. [''Perry v. Schwarzenegger'', a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-un.md) _2017-08-25 03:26:51 (First version)_
+1. [''Perry v. Schwarzenegger'', a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-un.md) _2018-02-06 13:49:19 (First version)_
 1. ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md) _(Current version)_
 
 ### Related:

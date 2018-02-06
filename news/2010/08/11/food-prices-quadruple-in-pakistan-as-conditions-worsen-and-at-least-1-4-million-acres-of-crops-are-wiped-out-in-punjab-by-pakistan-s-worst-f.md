@@ -21,8 +21,8 @@ The United Nations on Wednesday warned of a second wave of deaths from floods in
 
 ### Changes:
 
-1. [2010 Pakistan floods:Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-pfood-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punjab.md) _2017-08-25 03:29:22 (First version)_
-2. [2010 Pakistan floods:: Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punja.md) _2017-08-27 03:29:24 (Update)_
+1. [2010 Pakistan floods:Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-pfood-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punjab.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:: Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punja.md) _2018-02-06 13:49:20 (Update)_
 2. [Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punjab-by-pakistan-s-worst-f.md) _(Current version)_
 
 ### Related:

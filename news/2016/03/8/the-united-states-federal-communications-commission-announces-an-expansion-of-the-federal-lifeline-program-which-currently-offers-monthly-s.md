@@ -18,7 +18,7 @@ The Obama administration is expanding the number of households that will receive
 
 ### Changes:
 
-1. [The United States Federal Communications Commission announces an expansion of the federal Lifeline program, which currently offers monthly subsidies for phone and basic cell service, to include broadband Internet service, pending approval at the Commissioners' March 31 meeting. ](/news/2016/03/8/the-united-states-federal-communications-commission-announces-an-expansion-of-the-federal-lifeline-program-which-currently-offers-monthly.md) _2017-08-25 03:44:50 (First version)_
+1. [The United States Federal Communications Commission announces an expansion of the federal Lifeline program, which currently offers monthly subsidies for phone and basic cell service, to include broadband Internet service, pending approval at the Commissioners' March 31 meeting. ](/news/2016/03/8/the-united-states-federal-communications-commission-announces-an-expansion-of-the-federal-lifeline-program-which-currently-offers-monthly.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Federal Communications Commission announces an expansion of the federal Lifeline program, which currently offers monthly subsidies for phone and basic cell service, to include broadband Internet service, pending approval at the Commissioners' March 31 meeting. ](/news/2016/03/8/the-united-states-federal-communications-commission-announces-an-expansion-of-the-federal-lifeline-program-which-currently-offers-monthly-s.md) _(Current version)_
 
 ### Related:

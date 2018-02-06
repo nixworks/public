@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/8/the-european-union-and-japan-announce-that-they-
 
 ### Changes:
 
-1. [The European Union and USA announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-usa-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _2017-12-14 18:30:05 (First version)_
+1. [The European Union and USA announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-usa-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _2018-02-06 13:49:31 (First version)_
 1. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _(Current version)_
 
 ### Related:
@@ -25,4 +25,4 @@ Formats: [HTML](/news/2017/12/8/the-european-union-and-japan-announce-that-they-
 2. [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md) _Context: European Union, Japan_
 3. [The United States, Japan, and the European Union file a case against China at the WTO regarding export restrictions on rare earth metals. ](/news/2012/03/13/the-united-states-japan-and-the-european-union-file-a-case-against-china-at-the-wto-regarding-export-restrictions-on-rare-earth-metals.md) _Context: European Union, Japan_
 4. [Robert Zoellick, the President of the World Bank, claims that the world economy has entered the "danger zone", with the United States, European Union and Japan having to make tough decisions. ](/news/2011/09/14/robert-zoellick-the-president-of-the-world-bank-claims-that-the-world-economy-has-entered-the-danger-zone-with-the-united-states-europ.md) _Context: European Union, Japan_
-5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+5. [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md) _Context: European Union_

@@ -16,7 +16,7 @@ Repurposed fishing boat thought to have had Syrians on board sinks off coast of 
 
 ### Changes:
 
-1. [European migrant crisis: At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya. ](/news/2016/05/26/european-migrant-crisis-at-least-20-people-drown-in-the-southern-mediterranean-sea-when-a-repurposed-fishing-boat-sinks-35-nautical-miles-n.md) _2017-08-27 03:46:08 (First version)_
+1. [European migrant crisis: At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya. ](/news/2016/05/26/european-migrant-crisis-at-least-20-people-drown-in-the-southern-mediterranean-sea-when-a-repurposed-fishing-boat-sinks-35-nautical-miles-n.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya. ](/news/2016/05/26/at-least-20-people-drown-in-the-southern-mediterranean-sea-when-a-repurposed-fishing-boat-sinks-35-nautical-miles-north-of-zuwara-libya.md) _(Current version)_
 
 ### Related:

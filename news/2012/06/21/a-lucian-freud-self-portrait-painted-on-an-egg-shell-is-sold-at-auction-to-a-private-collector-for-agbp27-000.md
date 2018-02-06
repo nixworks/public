@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/06/21/a-lucian-freud-self-portrait-painted-on-an-egg-
 
 ### Changes:
 
-1. [A Lucian Freud self-portrait painted on an egg shell is sold at auction to a private collector for PS27,000. ](/news/2012/06/21/a-lucian-freud-self-portrait-painted-on-an-egg-shell-is-sold-at-auction-to-a-private-collector-for-aps27-000.md) _2017-08-25 03:35:56 (First version)_
+1. [A Lucian Freud self-portrait painted on an egg shell is sold at auction to a private collector for PS27,000. ](/news/2012/06/21/a-lucian-freud-self-portrait-painted-on-an-egg-shell-is-sold-at-auction-to-a-private-collector-for-aps27-000.md) _2018-02-06 13:49:23 (First version)_
 1. [A Lucian Freud self-portrait painted on an egg shell is sold at auction to a private collector for GBP27,000. ](/news/2012/06/21/a-lucian-freud-self-portrait-painted-on-an-egg-shell-is-sold-at-auction-to-a-private-collector-for-agbp27-000.md) _(Current version)_
 
 ### Related:

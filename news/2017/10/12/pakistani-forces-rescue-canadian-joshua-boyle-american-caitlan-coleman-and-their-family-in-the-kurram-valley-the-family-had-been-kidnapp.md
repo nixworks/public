@@ -17,8 +17,8 @@ Joshua Boyle and his wife and their children have been rescued after spending fi
 
 ### Changes:
 
-1. [Canadian Joshua Boyle, American Caitlan Coleman, and their family, are rescued by Pakistani forces in Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago. ](/news/2017/10/12/canadian-joshua-boyle-american-caitlan-coleman-and-their-family-are-rescued-by-pakistani-forces-in-kurram-valley-the-family-had-been-kid.md) _2017-10-12 21:30:07 (First version)_
-2. [Canadian Joshua Boyle, American Caitlan Coleman, and their family, are rescued by Pakistani forces in the Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago in Afghanistan's Wardak Province ](/news/2017/10/12/canadian-joshua-boyle-american-caitlan-coleman-and-their-family-are-rescued-by-pakistani-forces-in-the-kurram-valley-the-family-had-been.md) _2017-10-12 23:30:07 (Update)_
+1. [Canadian Joshua Boyle, American Caitlan Coleman, and their family, are rescued by Pakistani forces in the Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago in Afghanistan's Wardak Province ](/news/2017/10/12/canadian-joshua-boyle-american-caitlan-coleman-and-their-family-are-rescued-by-pakistani-forces-in-the-kurram-valley-the-family-had-been.md) _2018-02-06 13:49:31 (First version)_
+2. [Canadian Joshua Boyle, American Caitlan Coleman, and their family, are rescued by Pakistani forces in Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago. ](/news/2017/10/12/canadian-joshua-boyle-american-caitlan-coleman-and-their-family-are-rescued-by-pakistani-forces-in-kurram-valley-the-family-had-been-kid.md) _2018-02-06 13:49:31 (Update)_
 2. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _(Current version)_
 
 ### Related:

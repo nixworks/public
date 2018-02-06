@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-buil
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/war-in-afghanistan-2015-present-a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan.md) _2017-08-27 03:42:24 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/war-in-afghanistan-2015-present-a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan-wardak-resulting-in-the-deaths-of-tw.md) _(Current version)_
 
 ### Related:

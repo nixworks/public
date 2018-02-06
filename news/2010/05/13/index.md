@@ -21,7 +21,7 @@ _Context: Human Rights Council_
 
 ##### outburst
 ### [At least 21 people are killed and five are wounded in an outburst at a colliery in Puding County, Anshun, Guizhou. ](/news/2010/05/13/at-least-21-people-are-killed-and-five-are-wounded-in-an-outburst-at-a-colliery-in-puding-county-anshun-guizhou.md)
-_Context: coal mine, Anshun, outburst, Guizhou, Puding County_
+_Context: coal mine, Anshun, outburst, Puding County, Guizhou_
 
 ##### Human Rights Watch
 ### [A report from Human Rights Watch claims that the Israeli army unlawfully destroyed civilian property in the Gaza War of 2008 and 2009, while the Israeli army asserts they only targeted property used for combat or terrorist activities. ](/news/2010/05/13/a-report-from-human-rights-watch-claims-that-the-israeli-army-unlawfully-destroyed-civilian-property-in-the-gaza-war-of-2008-and-2009-while.md)
@@ -33,11 +33,11 @@ Nomination of Sambo, a governor from north, must be approved by houses of parlia
 
 ##### Korydallos
 ### [Following a warning, a bomb explodes outside a maximum security prison in Korydallos, Greece. ](/news/2010/05/13/following-a-warning-a-bomb-explodes-outside-a-maximum-security-prison-in-korydallos-greece.md)
-_Context: Greece, Korydallos_
+_Context: Korydallos, Greece_
 
 ##### Aban Pearl
 ### [The "Aban Pearl", a natural gas platform, sinks off the coast of Venezuela, with all 95 workers evacuated safely. ](/news/2010/05/13/the-aban-pearl-a-natural-gas-platform-sinks-off-the-coast-of-venezuela-with-all-95-workers-evacuated-safely.md)
-_Context: Venezuela, Aban Pearl_
+_Context: Aban Pearl, Venezuela_
 
 ##### India
 ### [As many as half a million pilgrims from 35 nations, including India, China and Vietnam, attend open-air Mass at Fatima, Portugal, celebrated by Pope Benedict XVI. The Pope criticises abortion and same-sex marriage in a speech. ](/news/2010/05/13/as-many-as-half-a-million-pilgrims-from-35-nations-including-india-china-and-vietnam-attend-open-air-mass-at-fa-tima-portugal-celebrate.md)
@@ -45,7 +45,7 @@ Pope Benedict XVI&#39;s outdoor mass at Fatima has taken place amid heavy rain d
 
 ##### .rf
 ### [The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on ".rf" are ](/news/2010/05/13/the-nn-rf-russian-federation-cyrillic-country-code-top-level-domain-cctld-is-officially-launched-the-fourth-internationalized.md)
-_Context: top-level domain, Russian Federation, Cyrillic script, country code, internationalized country code, .rf_
+_Context: internationalized country code, Russian Federation, country code, top-level domain, Cyrillic script, .rf_
 
 ##### polio
 ### [The second case of poliomyelitis in two days is reported in Russia, in Russia's first polio cases in 15 years, with the virus believed to have come from Tajikistan. ](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.md)
@@ -57,7 +57,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan_
 
 ##### Nigeria
 ### [One of Nigeria's most influential politicians, James Ibori, is arrested on corruption charges in Dubai. ](/news/2010/05/13/one-of-nigeria-s-most-influential-politicians-james-ibori-is-arrested-on-corruption-charges-in-dubai.md)
-_Context: James Ibori, Nigeria, Dubai, anti-corruption_
+_Context: Nigeria, James Ibori, Dubai, anti-corruption_
 
 ##### Sudan
 ### [Sudan asks Interpol to arrest Justice and Equality Movement chief Khalil Ibrahim. ](/news/2010/05/13/sudan-asks-interpol-to-arrest-justice-and-equality-movement-chief-khalil-ibrahim.md)
@@ -69,7 +69,7 @@ New York Daily NewsThe scene at the corner of W 45th St. and Broadway in the hea
 
 ##### U.S. state
 ### [The U.S. state of Hawaii enacts a law permitting officials to ignore multiple attempts by the same person to view the birth certificate of President of the United States Barack Obama. ](/news/2010/05/13/the-u-s-state-of-hawaii-enacts-a-law-permitting-officials-to-ignore-multiple-attempts-by-the-same-person-to-view-the-birth-certificate-of-p.md)
-_Context: U.S. state, U.S. President, Barack Obama, Hawaii_
+_Context: Barack Obama, U.S. state, U.S. President, Hawaii_
 
 ## [Previous Day...](/news/2010/05/12/index.md)
 

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-yea
 
 ### Changes:
 
-1. [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting.md) _2017-08-25 03:31:36 (First version)_
+1. [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting.md) _2018-02-06 13:49:21 (First version)_
 1. [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting-a.md) _(Current version)_
 
 ### Related:

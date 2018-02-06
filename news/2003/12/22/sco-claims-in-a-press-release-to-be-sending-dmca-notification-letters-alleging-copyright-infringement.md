@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/12/22/sco-claims-in-a-press-release-to-be-sending-dmc
 
 ### Changes:
 
-1. [ SCO v. IBM: SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-v-ibm-p-sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md) _2017-08-25 03:15:26 (First version)_
-2. [ SCO v. IBM:: SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-v-ibm-sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md) _2017-08-27 03:15:27 (Update)_
+1. [ SCO v. IBM:: SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-v-ibm-sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md) _2018-02-06 13:49:15 (First version)_
+2. [ SCO v. IBM: SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-v-ibm-p-sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md) _2018-02-06 13:49:15 (Update)_
 2. [ SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md) _(Current version)_
 
 ### Related:

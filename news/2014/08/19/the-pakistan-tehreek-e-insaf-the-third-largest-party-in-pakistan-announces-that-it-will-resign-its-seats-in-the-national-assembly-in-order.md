@@ -17,8 +17,8 @@ Imran Khan&#039;s opposition party will resign its seats in Pakistan&#039;s nati
 
 ### Changes:
 
-1. [Pakistan protestsThe Pakistan Tehreek-e-Insaf, the third largest party in Pakistan, announces that it will resign its seats in the National Assembly in order to force Prime Minister Nawaz Sharif to resign. ](/news/2014/08/19/pakistan-protestspthe-pakistan-tehreek-e-insaf-the-third-largest-party-in-pakistan-announces-that-it-will-resign-its-seats-in-the-national.md) _2017-08-25 03:40:51 (First version)_
-2. [Pakistan protests: The Pakistan Tehreek-e-Insaf, the third largest party in Pakistan, announces that it will resign its seats in the National Assembly in order to force Prime Minister Nawaz Sharif to resign. ](/news/2014/08/19/pakistan-protests-the-pakistan-tehreek-e-insaf-the-third-largest-party-in-pakistan-announces-that-it-will-resign-its-seats-in-the-nationa.md) _2017-08-27 03:41:10 (Update)_
+1. [Pakistan protestsThe Pakistan Tehreek-e-Insaf, the third largest party in Pakistan, announces that it will resign its seats in the National Assembly in order to force Prime Minister Nawaz Sharif to resign. ](/news/2014/08/19/pakistan-protestspthe-pakistan-tehreek-e-insaf-the-third-largest-party-in-pakistan-announces-that-it-will-resign-its-seats-in-the-national.md) _2018-02-06 13:49:26 (First version)_
+2. [Pakistan protests: The Pakistan Tehreek-e-Insaf, the third largest party in Pakistan, announces that it will resign its seats in the National Assembly in order to force Prime Minister Nawaz Sharif to resign. ](/news/2014/08/19/pakistan-protests-the-pakistan-tehreek-e-insaf-the-third-largest-party-in-pakistan-announces-that-it-will-resign-its-seats-in-the-nationa.md) _2018-02-06 13:49:26 (Update)_
 2. [The Pakistan Tehreek-e-Insaf, the third largest party in Pakistan, announces that it will resign its seats in the National Assembly in order to force Prime Minister Nawaz Sharif to resign. ](/news/2014/08/19/the-pakistan-tehreek-e-insaf-the-third-largest-party-in-pakistan-announces-that-it-will-resign-its-seats-in-the-national-assembly-in-order.md) _(Current version)_
 
 ### Related:

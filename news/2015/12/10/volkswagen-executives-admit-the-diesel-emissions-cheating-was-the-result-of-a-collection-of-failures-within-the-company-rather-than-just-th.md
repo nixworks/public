@@ -18,7 +18,7 @@ German carmaker says company suffered from mindset that tolerated rule-breaking
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen executives admit the diesel emissions cheating was the result of a collection of failures within the company, rather than just the actions of rogue engineers. In 2005, VW began working on software after they were unable to find an affordable technical solution to U.S. nitrogen oxide emissions standards. ](/news/2015/12/10/volkswagen-emissions-scandal-volkswagen-executives-admit-the-diesel-emissions-cheating-was-the-result-of-a-collection-of-failures-within-th.md) _2017-08-27 03:44:17 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen executives admit the diesel emissions cheating was the result of a collection of failures within the company, rather than just the actions of rogue engineers. In 2005, VW began working on software after they were unable to find an affordable technical solution to U.S. nitrogen oxide emissions standards. ](/news/2015/12/10/volkswagen-emissions-scandal-volkswagen-executives-admit-the-diesel-emissions-cheating-was-the-result-of-a-collection-of-failures-within-th.md) _2018-02-06 13:49:28 (First version)_
 1. [Volkswagen executives admit the diesel emissions cheating was the result of a collection of failures within the company, rather than just the actions of rogue engineers. In 2005, VW began working on software after they were unable to find an affordable technical solution to U.S. nitrogen oxide emissions standards. ](/news/2015/12/10/volkswagen-executives-admit-the-diesel-emissions-cheating-was-the-result-of-a-collection-of-failures-within-the-company-rather-than-just-th.md) _(Current version)_
 
 ### Related:

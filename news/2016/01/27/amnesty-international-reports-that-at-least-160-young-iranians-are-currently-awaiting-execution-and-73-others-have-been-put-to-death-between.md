@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/27/amnesty-international-reports-that-at-least-160
 
 ### Changes:
 
-1. [Human rights in Iran: Amnesty International reports that at least 160 young Iranians are currently awaiting execution and 73 others have been put to death between 2005 and 2015, which including sentencing girls as young as 9 and boys as young as 15 to death. ](/news/2016/01/27/human-rights-in-iran-amnesty-international-reports-that-at-least-160-young-iranians-are-currently-awaiting-execution-and-73-others-have-bee.md) _2017-08-27 03:44:46 (First version)_
+1. [Human rights in Iran: Amnesty International reports that at least 160 young Iranians are currently awaiting execution and 73 others have been put to death between 2005 and 2015, which including sentencing girls as young as 9 and boys as young as 15 to death. ](/news/2016/01/27/human-rights-in-iran-amnesty-international-reports-that-at-least-160-young-iranians-are-currently-awaiting-execution-and-73-others-have-bee.md) _2018-02-06 13:49:28 (First version)_
 1. [Amnesty International reports that at least 160 young Iranians are currently awaiting execution and 73 others have been put to death between 2005 and 2015, which including sentencing girls as young as 9 and boys as young as 15 to death. ](/news/2016/01/27/amnesty-international-reports-that-at-least-160-young-iranians-are-currently-awaiting-execution-and-73-others-have-been-put-to-death-between.md) _(Current version)_
 
 ### Related:

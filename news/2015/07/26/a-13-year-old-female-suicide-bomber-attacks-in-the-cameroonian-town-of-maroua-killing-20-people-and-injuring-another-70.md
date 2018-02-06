@@ -17,7 +17,7 @@ Officials in northern Cameroon have ordered the closure of mosques and Islamic s
 
 ### Changes:
 
-1. [Boko Haram insurgency in Cameroon: A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/boko-haram-insurgency-in-cameroon-a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-inju.md) _2017-08-27 03:42:44 (First version)_
+1. [Boko Haram insurgency in Cameroon: A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/boko-haram-insurgency-in-cameroon-a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-inju.md) _2018-02-06 13:49:27 (First version)_
 1. [A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-injuring-another-70.md) _(Current version)_
 
 ### Related:

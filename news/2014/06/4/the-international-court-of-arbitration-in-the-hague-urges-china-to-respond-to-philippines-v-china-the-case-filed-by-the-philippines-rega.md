@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/4/the-international-court-of-arbitration-in-the-ha
 
 ### Changes:
 
-1. [The International Court of Arbitration in The Hague urges China to respond to ''Philippines v. China'', the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-re.md) _2017-08-25 03:40:30 (First version)_
+1. [The International Court of Arbitration in The Hague urges China to respond to ''Philippines v. China'', the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-re.md) _2018-02-06 13:49:26 (First version)_
 1. [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md) _(Current version)_
 
 ### Related:

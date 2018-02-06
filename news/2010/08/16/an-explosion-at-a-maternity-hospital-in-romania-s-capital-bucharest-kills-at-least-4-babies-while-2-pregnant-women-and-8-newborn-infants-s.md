@@ -20,7 +20,7 @@ Formats: [HTML](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania
 
 ### Changes:
 
-1. [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants.md) _2017-08-25 03:29:29 (First version)_
+1. [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants.md) _2018-02-06 13:49:20 (First version)_
 1. [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants-s.md) _(Current version)_
 
 ### Related:

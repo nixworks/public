@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/25/the-pentagon-announces-the-death-of-islamic-sta
 
 ### Changes:
 
-1. [Military intervention against ISIL: The Pentagon announces the death of Islamic State of Iraq and the Levant finance minister and deputy leader, Abu Ala al-Afri. ](/news/2016/03/25/military-intervention-against-isil-the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-the-levant-finance-minister-and-deputy-lea.md) _2017-08-27 03:45:22 (First version)_
+1. [Military intervention against ISIL: The Pentagon announces the death of Islamic State of Iraq and the Levant finance minister and deputy leader, Abu Ala al-Afri. ](/news/2016/03/25/military-intervention-against-isil-the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-the-levant-finance-minister-and-deputy-lea.md) _2018-02-06 13:49:28 (First version)_
 1. [The Pentagon announces the death of Islamic State of Iraq and the Levant finance minister and deputy leader, Abu Ala al-Afri. ](/news/2016/03/25/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-the-levant-finance-minister-and-deputy-leader-abu-ala-al-afri.md) _(Current version)_
 
 ### Related:

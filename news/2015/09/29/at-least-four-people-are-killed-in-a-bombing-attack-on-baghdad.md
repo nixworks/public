@@ -16,7 +16,7 @@ The Islamic State militant group claims it was responsible for a car bomb that k
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least four people are killed in a bombing attack on Baghdad. ](/news/2015/09/29/iraqi-civil-war-2014-present-at-least-four-people-are-killed-in-a-bombing-attack-on-baghdad.md) _2017-08-27 03:43:11 (First version)_
+1. [Iraqi Civil War (2014-present): At least four people are killed in a bombing attack on Baghdad. ](/news/2015/09/29/iraqi-civil-war-2014-present-at-least-four-people-are-killed-in-a-bombing-attack-on-baghdad.md) _2018-02-06 13:49:27 (First version)_
 1. [At least four people are killed in a bombing attack on Baghdad. ](/news/2015/09/29/at-least-four-people-are-killed-in-a-bombing-attack-on-baghdad.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/02/17/four-u-s-f-22-stealth-fighters-escorted-by-othe
 
 ### Changes:
 
-1. [South Korea-United States relations: Four U.S. F-22 stealth fighters, escorted by other U.S. and South Korean jets, flew low over the Osan Air Base in a show of force following North Korea's recent rocket launch. The Yonhap news agency reported two of these stealth planes will be deployed in South Korea "for a while." ](/news/2016/02/17/south-korea-united-states-relations-four-u-s-f-22-stealth-fighters-escorted-by-other-u-s-and-south-korean-jets-flew-low-over-the-osan.md) _2017-08-27 03:44:56 (First version)_
+1. [South Korea-United States relations: Four U.S. F-22 stealth fighters, escorted by other U.S. and South Korean jets, flew low over the Osan Air Base in a show of force following North Korea's recent rocket launch. The Yonhap news agency reported two of these stealth planes will be deployed in South Korea "for a while." ](/news/2016/02/17/south-korea-united-states-relations-four-u-s-f-22-stealth-fighters-escorted-by-other-u-s-and-south-korean-jets-flew-low-over-the-osan.md) _2018-02-06 13:49:28 (First version)_
 1. [Four U.S. F-22 stealth fighters, escorted by other U.S. and South Korean jets, flew low over the Osan Air Base in a show of force following North Korea's recent rocket launch. The Yonhap news agency reported two of these stealth planes will be deployed in South Korea "for a while." ](/news/2016/02/17/four-u-s-f-22-stealth-fighters-escorted-by-other-u-s-and-south-korean-jets-flew-low-over-the-osan-air-base-in-a-show-of-force-following.md) _(Current version)_
 
 ### Related:

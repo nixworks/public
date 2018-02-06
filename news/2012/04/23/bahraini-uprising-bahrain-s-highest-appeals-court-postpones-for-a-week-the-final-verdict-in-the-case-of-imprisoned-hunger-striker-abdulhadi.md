@@ -18,8 +18,8 @@ Shells and gunfire from Syrian security forces have killed 33 people in the city
 
 ### Changes:
 
-1. [Arab Spring:Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/arab-spring-pbahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-stri.md) _2017-08-25 03:35:33 (First version)_
-2. [Arab Spring:: Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/arab-spring-bahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-str.md) _2017-08-27 03:35:43 (Update)_
+1. [Arab Spring:Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/arab-spring-pbahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-stri.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/arab-spring-bahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-str.md) _2018-02-06 13:49:23 (Update)_
 2. [Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/bahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-striker-abdulhadi.md) _(Current version)_
 
 ### Related:

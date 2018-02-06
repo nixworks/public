@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/2/newly-elected-president-ahmed-m-mahamoud-silanyo
 
 ### Changes:
 
-1. [Somaliland presidential election, 2010: Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/somaliland-presidential-election-2010-newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognit.md) _2017-08-27 03:28:32 (First version)_
+1. [Somaliland presidential election, 2010: Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/somaliland-presidential-election-2010-newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognit.md) _2018-02-06 13:49:20 (First version)_
 1. [Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognition-of-our-democracy-during-his-time-i.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ At least 17 soldiers have been killed, while 4 militants were shot dead by India
 
 ##### War in North-West Pakistan
 ### [Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md)
-_Context: War in North-West Pakistan, Peshawar, Pakistani troops_
+_Context: War in North-West Pakistan, Pakistani troops, Peshawar_
 
 ##### Syrian civil war
 ### [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md)
@@ -29,7 +29,7 @@ An overcrowded tourist boat carrying Muslim pilgrims was being piloted recklessl
 
 ##### Russian legislative election, 2016
 ### [Russian voters head to the polls to elect all 450 MPs to the 7th State Duma of the Russian Federation. Exit polls show the governing United Russia party with a comfortable lead. ](/news/2016/09/18/russian-voters-head-to-the-polls-to-elect-all-450-mps-to-the-7th-state-duma-of-the-russian-federation-exit-polls-show-the-governing-united.md)
-_Context: United Russia, 7th State Duma of the Russian Federation, Russian legislative election, 2016, Exit poll_
+_Context: Exit poll, Russian legislative election, 2016, United Russia, 7th State Duma of the Russian Federation_
 
 ##### Berlin state election, 2016
 ### [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md)

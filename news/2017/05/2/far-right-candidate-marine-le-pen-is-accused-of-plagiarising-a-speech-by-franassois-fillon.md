@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-
 
 ### Changes:
 
-1. [Far-right candidate Marine le Pen is accused of allegedly plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-allegedly-plagiarising-a-speech-by-francois-fillon.md) _2017-05-02 19:30:07 (First version)_
-2. [French presidential election, 2017: Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/french-presidential-election-2017-far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _2017-08-27 03:48:16 (Update)_
+1. [French presidential election, 2017: Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/french-presidential-election-2017-far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _2018-02-06 13:49:30 (First version)_
+2. [Far-right candidate Marine le Pen is accused of allegedly plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-allegedly-plagiarising-a-speech-by-francois-fillon.md) _2018-02-06 13:49:30 (Update)_
 2. [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _(Current version)_
 
 ### Related:

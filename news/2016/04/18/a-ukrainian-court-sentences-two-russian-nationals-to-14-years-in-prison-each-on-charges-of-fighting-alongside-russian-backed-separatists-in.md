@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationa
 
 ### Changes:
 
-1. [War in Donbass: Russia-Ukraine relations: A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/war-in-donbass-russia-ukraine-relations-a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fight.md) _2017-08-27 03:45:40 (First version)_
+1. [War in Donbass: Russia-Ukraine relations: A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/war-in-donbass-russia-ukraine-relations-a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fight.md) _2018-02-06 13:49:28 (First version)_
 1. [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md) _(Current version)_
 
 ### Related:

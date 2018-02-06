@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-prote
 
 ### Changes:
 
-1. [ Tens of thousands of Venezuelans march in protest in support of Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-h.md) _2017-08-25 03:19:50 (First version)_
+1. [ Tens of thousands of Venezuelans march in protest in support of Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-h.md) _2018-02-06 13:49:17 (First version)_
 1. [ Tens of thousands of Venezuelans march in protest in support of Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-ha.md) _(Current version)_
 
 ### Related:

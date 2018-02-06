@@ -17,7 +17,7 @@ Five United Nations peacekeepers were killed and one other seriously injured in 
 
 ### Changes:
 
-1. [Northern Mali conflict: Five United Nations peacekeepers are killed in an attack in central Mali. ](/news/2016/05/29/northern-mali-conflict-five-united-nations-peacekeepers-are-killed-in-an-attack-in-central-mali.md) _2017-08-27 03:46:09 (First version)_
+1. [Northern Mali conflict: Five United Nations peacekeepers are killed in an attack in central Mali. ](/news/2016/05/29/northern-mali-conflict-five-united-nations-peacekeepers-are-killed-in-an-attack-in-central-mali.md) _2018-02-06 13:49:29 (First version)_
 1. [ Five United Nations peacekeepers are killed in an attack in central Mali. ](/news/2016/05/29/five-united-nations-peacekeepers-are-killed-in-an-attack-in-central-mali.md) _(Current version)_
 
 ### Related:

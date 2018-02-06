@@ -17,8 +17,8 @@ U.S.-led forces killed about 80 Taliban fighters during a battle in Southern Afg
 
 ### Changes:
 
-1. [ War in Afghanistan: United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/war-in-afghanistan-p-united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _2017-08-25 03:21:16 (First version)_
-2. [ War in Afghanistan:: United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/war-in-afghanistan-united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _2017-08-27 03:21:11 (Update)_
+1. [ War in Afghanistan:: United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/war-in-afghanistan-united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Afghanistan: United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/war-in-afghanistan-p-united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _2018-02-06 13:49:18 (Update)_
 2. [ United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md) _(Current version)_
 
 ### Related:

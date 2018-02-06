@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/08/11/stock-markets-in-asia-and-australia-fall-on-the
 
 ### Changes:
 
-1. [August 2011 stock markets fall and reboundStock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/august-2011-stock-markets-fall-and-reboundpstock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-on.md) _2017-08-25 03:33:59 (First version)_
-2. [August 2011 stock markets fall and rebound: Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/august-2011-stock-markets-fall-and-rebound-stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-o.md) _2017-08-27 03:34:07 (Update)_
+1. [August 2011 stock markets fall and reboundStock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/august-2011-stock-markets-fall-and-reboundpstock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-on.md) _2018-02-06 13:49:22 (First version)_
+2. [August 2011 stock markets fall and rebound: Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/august-2011-stock-markets-fall-and-rebound-stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-o.md) _2018-02-06 13:49:22 (Update)_
 2. [Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-on-the-new-york-stock-exchange.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ An interview with Alain Berset, who, at 45, is the youngest politician to become
 
 ### Changes:
 
-1. [Alain Berset takes office as President of the Swiss Confederation. Mr. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-mr-berset-is-the-youngest-president-of-switzerland-since-1934.md) _2018-01-02 14:30:05 (First version)_
-2. [Alain Berset takes office as President of the Swiss Confederation. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-berset-is-the-youngest-president-of-switzerland-since-1934.md) _2018-01-02 16:30:05 (Update)_
+1. [Alain Berset takes office as President of the Swiss Confederation. Mr. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-mr-berset-is-the-youngest-president-of-switzerland-since-1934.md) _2018-02-06 13:49:31 (First version)_
+2. [Alain Berset takes office as President of the Swiss Confederation. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-berset-is-the-youngest-president-of-switzerland-since-1934.md) _2018-02-06 13:49:31 (Update)_
 2. [Alain Berset takes office as President of the Swiss Confederation. At 45 years of age, Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-at-45-years-of-age-berset-is-the-youngest-president-of-switzerland-since.md) _(Current version)_
 
 ### Related:

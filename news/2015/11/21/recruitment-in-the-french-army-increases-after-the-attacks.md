@@ -18,7 +18,7 @@ A Paris medic was battling to save the life of a man outside a restaurant when h
 
 ### Changes:
 
-1. [November 2015 Paris attacks: Recruitment in the French Army increases after the attacks. ](/news/2015/11/21/november-2015-paris-attacks-recruitment-in-the-french-army-increases-after-the-attacks.md) _2017-08-27 03:43:58 (First version)_
+1. [November 2015 Paris attacks: Recruitment in the French Army increases after the attacks. ](/news/2015/11/21/november-2015-paris-attacks-recruitment-in-the-french-army-increases-after-the-attacks.md) _2018-02-06 13:49:28 (First version)_
 1. [Recruitment in the French Army increases after the attacks. ](/news/2015/11/21/recruitment-in-the-french-army-increases-after-the-attacks.md) _(Current version)_
 
 ### Related:

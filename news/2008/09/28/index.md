@@ -17,11 +17,11 @@ _Context: Faina_
 
 ##### China
 ### [ Chinese astronauts return safely as the Shenzhou 7 re-entry capsule lands. This marks the third country to successfully return three astronauts from space, and the third country to successfully return a spacewalker from space. And the mission marks the third country to successfully develop and deploy a spacesuit. ](/news/2008/09/28/chinese-astronauts-return-safely-as-the-shenzhou-7-re-entry-capsule-lands-this-marks-the-third-country-to-successfully-return-three-astron.md)
-_Context: spacewalk, astronaut, spacesuit, Shenzhou 7, China_
+_Context: astronaut, spacesuit, Shenzhou 7, spacewalk, China_
 
 ##### Japan
 ### [ Four days after the formation of new Japan cabinet, Transport Minister Nariaki Nakayama resigns after series of controversial speeches. ](/news/2008/09/28/four-days-after-the-formation-of-new-japan-cabinet-transport-minister-nariaki-nakayama-resigns-after-series-of-controversial-speeches.md)
-_Context: forming a government, Japan, Nariaki Nakayama_
+_Context: Japan, Nariaki Nakayama, forming a government_
 
 ##### Haile Gebrselassie
 ### [ Haile Gebrselassie of Ethiopia sets a new world record in the marathon of two hours three minutes 58 seconds at the Berlin Marathon. ](/news/2008/09/28/haile-gebrselassie-of-ethiopia-sets-a-new-world-record-in-the-marathon-of-two-hours-three-minutes-58-seconds-at-the-berlin-marathon.md)
@@ -29,11 +29,11 @@ Ethiopian Haile Gebrselassie shattered his own world marathon record Sunday when
 
 ##### Bavaria state election, 2008
 ### [ In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. ](/news/2008/09/28/in-the-bavaria-state-election-2008-the-rightist-csu-loses-its-absolute-majority-after-40-years.md)
-_Context: Bavaria state election, 2008, CSU_
+_Context: CSU, Bavaria state election, 2008_
 
 ##### Fernando Alonso
 ### [ Fernando Alonso wins the Singapore Grand Prix in Formula One's first night race. ](/news/2008/09/28/fernando-alonso-wins-the-singapore-grand-prix-in-formula-one-s-first-night-race.md)
-_Context: Singapore, Formula One, Fernando Alonso, wins, Grand Prix_
+_Context: wins, Fernando Alonso, Formula One, Singapore, Grand Prix_
 
 ## [Previous Day...](/news/2008/09/27/index.md)
 

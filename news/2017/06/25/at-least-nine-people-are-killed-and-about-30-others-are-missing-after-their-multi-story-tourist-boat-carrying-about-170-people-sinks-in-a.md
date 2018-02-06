@@ -17,8 +17,8 @@ A flotilla of boats and the air force went to the aid of vessel that sank with a
 
 ### Changes:
 
-1. [Nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a-reservoi.md) _2017-06-26 08:30:06 (First version)_
-2. [Maritime incidents in 2017: At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/maritime-incidents-in-2017-at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-a.md) _2017-08-27 03:48:33 (Update)_
+1. [Nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a-reservoi.md) _2018-02-06 13:49:30 (First version)_
+2. [Maritime incidents in 2017: At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/maritime-incidents-in-2017-at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-a.md) _2018-02-06 13:49:30 (Update)_
 2. [At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md) _(Current version)_
 
 ### Related:

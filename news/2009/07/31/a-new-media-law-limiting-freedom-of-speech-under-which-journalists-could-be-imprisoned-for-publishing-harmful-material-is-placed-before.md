@@ -19,8 +19,8 @@ Formats: [HTML](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-unde
 
 ### Changes:
 
-1. [ A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-befor.md) _2017-08-25 03:25:18 (First version)_
-2. [ Venezuela: A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/venezuela-a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-pl.md) _2017-08-27 03:25:11 (Update)_
+1. [ Venezuela: A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/venezuela-a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-pl.md) _2018-02-06 13:49:19 (First version)_
+2. [ A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-befor.md) _2018-02-06 13:49:19 (Update)_
 2. [ A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-before.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/02/21/british-prime-minister-tony-blair-announces-tha
 
 ### Changes:
 
-1. [ Iraq War: British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-p-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md) _2017-08-25 03:19:15 (First version)_
-2. [ Iraq War:: British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md) _2017-08-27 03:19:11 (Update)_
+1. [ Iraq War: British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-p-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md) _2018-02-06 13:49:17 (Update)_
 2. [ British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end-of-the-yea.md) _(Current version)_
 
 ### Related:

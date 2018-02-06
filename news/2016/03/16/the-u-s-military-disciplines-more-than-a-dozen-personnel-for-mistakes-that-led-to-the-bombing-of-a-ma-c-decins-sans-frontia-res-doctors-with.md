@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-
 
 ### Changes:
 
-1. [Attacks on humanitarian workers: The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/attacks-on-humanitarian-workers-the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-deci.md) _2017-08-27 03:45:16 (First version)_
+1. [Attacks on humanitarian workers: The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/attacks-on-humanitarian-workers-the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-deci.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md) _(Current version)_
 
 ### Related:

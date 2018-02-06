@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/02/28/2013-rishon-lezion-car-bombing-at-least-2-peopl
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeliapalestinian-conflict-p2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv.md) _2017-08-25 03:37:41 (First version)_
-2. [Israeli-Palestinian conflict:: 2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeli-palestinian-conflict-2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-avi.md) _2017-08-27 03:37:53 (Update)_
+1. [Israeli-Palestinian conflict:2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeliapalestinian-conflict-p2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv.md) _2018-02-06 13:49:24 (First version)_
+2. [Israeli-Palestinian conflict:: 2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeli-palestinian-conflict-2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-avi.md) _2018-02-06 13:49:24 (Update)_
 2. [2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv-israel.md) _(Current version)_
 
 ### Related:

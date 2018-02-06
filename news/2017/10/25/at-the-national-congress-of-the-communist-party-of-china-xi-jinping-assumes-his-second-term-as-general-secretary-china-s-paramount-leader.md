@@ -18,7 +18,7 @@ Rare accolade puts Xi’s Thought on Socialism with Chinese Characteristics into
 
 ### Changes:
 
-1. [At the National Congress of the Communist Party of China, Xi Jinping assumed his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought was written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumed-his-second-term-as-general-secretary-china-s-paramount-leader.md) _2017-10-26 06:30:05 (First version)_
+1. [At the National Congress of the Communist Party of China, Xi Jinping assumed his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought was written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumed-his-second-term-as-general-secretary-china-s-paramount-leader.md) _2018-02-06 13:49:31 (First version)_
 1. [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md) _(Current version)_
 
 ### Related:

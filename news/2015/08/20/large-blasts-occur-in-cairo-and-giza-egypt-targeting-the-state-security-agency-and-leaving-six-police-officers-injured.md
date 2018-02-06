@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/08/20/large-blasts-occur-in-cairo-and-giza-egypt-targ
 
 ### Changes:
 
-1. [August 2015 Egypt bombings: Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/august-2015-egypt-bombings-large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers.md) _2017-08-27 03:42:52 (First version)_
+1. [August 2015 Egypt bombings: Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/august-2015-egypt-bombings-large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers.md) _2018-02-06 13:49:27 (First version)_
 1. [Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers-injured.md) _(Current version)_
 
 ### Related:

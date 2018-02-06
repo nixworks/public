@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Kyrgyzstani constitutional referendum, 2016: Kyrgyzstani voters vote for a new constitution. ](/news/2016/12/11/kyrgyzstani-constitutional-referendum-2016-kyrgyzstani-voters-vote-for-a-new-constitution.md) _2017-08-27 03:47:25 (First version)_
+1. [Kyrgyzstani constitutional referendum, 2016: Kyrgyzstani voters vote for a new constitution. ](/news/2016/12/11/kyrgyzstani-constitutional-referendum-2016-kyrgyzstani-voters-vote-for-a-new-constitution.md) _2018-02-06 13:49:29 (First version)_
 1. [Kyrgyzstani voters vote for a new constitution. ](/news/2016/12/11/kyrgyzstani-voters-vote-for-a-new-constitution.md) _(Current version)_
 
 ### Related:

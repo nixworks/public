@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodk
 
 ### Changes:
 
-1. [2014 Russian financial crisis: Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/2014-russian-financial-crisis-vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md) _2017-08-27 03:41:41 (First version)_
+1. [2014 Russian financial crisis: Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/2014-russian-financial-crisis-vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md) _2018-02-06 13:49:26 (First version)_
 1. [Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/war-in-afghanistan-2015-present-an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66.md) _2017-08-27 03:42:53 (First version)_
+1. [War in Afghanistan (2015-present): An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/war-in-afghanistan-2015-present-an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66.md) _2018-02-06 13:49:27 (First version)_
 1. [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md) _(Current version)_
 
 ### Related:

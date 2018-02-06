@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/6/communist-party-of-the-russian-federation-candid
 
 ### Changes:
 
-1. [Russian municipal electionsCommunist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-electionspcommunist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of.md) _2017-08-25 03:40:15 (First version)_
-2. [Russian municipal elections: Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-elections-communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-o.md) _2017-08-27 03:40:33 (Update)_
+1. [Russian municipal electionsCommunist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-electionspcommunist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of.md) _2018-02-06 13:49:26 (First version)_
+2. [Russian municipal elections: Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-elections-communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-o.md) _2018-02-06 13:49:26 (Update)_
 2. [Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.md) _(Current version)_
 
 ### Related:

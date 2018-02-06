@@ -19,8 +19,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Israeli government endorses the UN Security Council resolution calling for an end to fighting in southern Lebanon. ](/news/2006/08/13/2006-israel-lebanon-conflict-p-israeli-government-endorses-the-un-security-council-resolution-calling-for-an-end-to-fighting-in-southern-le.md) _2017-08-25 03:18:11 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Israeli government endorses the UN Security Council resolution calling for an end to fighting in southern Lebanon. ](/news/2006/08/13/2006-israel-lebanon-conflict-israeli-government-endorses-the-un-security-council-resolution-calling-for-an-end-to-fighting-in-southern-le.md) _2017-08-27 03:18:08 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Israeli government endorses the UN Security Council resolution calling for an end to fighting in southern Lebanon. ](/news/2006/08/13/2006-israel-lebanon-conflict-p-israeli-government-endorses-the-un-security-council-resolution-calling-for-an-end-to-fighting-in-southern-le.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Israeli government endorses the UN Security Council resolution calling for an end to fighting in southern Lebanon. ](/news/2006/08/13/2006-israel-lebanon-conflict-israeli-government-endorses-the-un-security-council-resolution-calling-for-an-end-to-fighting-in-southern-le.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israeli government endorses the UN Security Council resolution calling for an end to fighting in southern Lebanon. ](/news/2006/08/13/israeli-government-endorses-the-un-security-council-resolution-calling-for-an-end-to-fighting-in-southern-lebanon.md) _(Current version)_
 
 ### Related:

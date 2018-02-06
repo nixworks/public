@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/02/4/australian-foreign-minister-julie-bishop-says-au
 
 ### Changes:
 
-1. [Australia-United States relations: Australian Foreign Minister Julie Bishop says Australia will honor the agreement to accept refugees from Central America even though the U.S. has postponed interviews with asylum seekers in a camp at the Pacific island of Nauru. ](/news/2017/02/4/australia-united-states-relations-australian-foreign-minister-julie-bishop-says-australia-will-honor-the-agreement-to-accept-refugees-fro.md) _2017-08-27 03:47:45 (First version)_
+1. [Australia-United States relations: Australian Foreign Minister Julie Bishop says Australia will honor the agreement to accept refugees from Central America even though the U.S. has postponed interviews with asylum seekers in a camp at the Pacific island of Nauru. ](/news/2017/02/4/australia-united-states-relations-australian-foreign-minister-julie-bishop-says-australia-will-honor-the-agreement-to-accept-refugees-fro.md) _2018-02-06 13:49:30 (First version)_
 1. [Australian Foreign Minister Julie Bishop says Australia will honor the agreement to accept refugees from Central America even though the U.S. has postponed interviews with asylum seekers in a camp at the Pacific island of Nauru. ](/news/2017/02/4/australian-foreign-minister-julie-bishop-says-australia-will-honor-the-agreement-to-accept-refugees-from-central-america-even-though-the-u-s.md) _(Current version)_
 
 ### Related:

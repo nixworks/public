@@ -18,8 +18,8 @@ Police use tear gas to disperse stone-throwing youths in Athens as a 48-hour gen
 
 ### Changes:
 
-1. [2010-2011 Greek protests:Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010a2011-greek-protests-pgreek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md) _2017-08-25 03:33:36 (First version)_
-2. [2010-2011 Greek protests:: Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010-2011-greek-protests-greek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md) _2017-08-27 03:33:44 (Update)_
+1. [2010-2011 Greek protests:Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010a2011-greek-protests-pgreek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Greek protests:: Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010-2011-greek-protests-greek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md) _2018-02-06 13:49:22 (Update)_
 2. [Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/greek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md) _(Current version)_
 
 ### Related:

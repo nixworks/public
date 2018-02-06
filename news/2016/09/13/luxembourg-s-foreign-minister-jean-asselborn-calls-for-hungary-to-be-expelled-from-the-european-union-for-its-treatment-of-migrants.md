@@ -16,7 +16,7 @@ Luxembourg Foreign Minister Jean Asselborn calls for Hungary to be suspended or 
 
 ### Changes:
 
-1. [Hungarian migrant quota referendum, 2016: Luxembourg's foreign minister Jean Asselborn calls for Hungary to be expelled from the European Union for its treatment of migrants. ](/news/2016/09/13/hungarian-migrant-quota-referendum-2016-luxembourg-s-foreign-minister-jean-asselborn-calls-for-hungary-to-be-expelled-from-the-european-un.md) _2017-08-27 03:46:50 (First version)_
+1. [Hungarian migrant quota referendum, 2016: Luxembourg's foreign minister Jean Asselborn calls for Hungary to be expelled from the European Union for its treatment of migrants. ](/news/2016/09/13/hungarian-migrant-quota-referendum-2016-luxembourg-s-foreign-minister-jean-asselborn-calls-for-hungary-to-be-expelled-from-the-european-un.md) _2018-02-06 13:49:29 (First version)_
 1. [Luxembourg's foreign minister Jean Asselborn calls for Hungary to be expelled from the European Union for its treatment of migrants. ](/news/2016/09/13/luxembourg-s-foreign-minister-jean-asselborn-calls-for-hungary-to-be-expelled-from-the-european-union-for-its-treatment-of-migrants.md) _(Current version)_
 
 ### Related:

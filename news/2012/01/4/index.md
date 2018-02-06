@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/4/index.html)  [JSON](2012/01/4/index.json)  [XML](2012/
 
 ##### Nigeria
 ### [Two bombs explode in the northern Nigerian city of Maiduguri with the Boko Haram movement believed to be responsible. ](/news/2012/01/4/two-bombs-explode-in-the-northern-nigerian-city-of-maiduguri-with-the-boko-haram-movement-believed-to-be-responsible.md)
-_Context: Nigeria, Boko Haram, Maiduguri_
+_Context: Nigeria, Maiduguri, Boko Haram_
 
 ##### southeast Brazilian
 ### [Storms kill seven, with local states of emergency declared in Southeast Region, Brazil. ](/news/2012/01/4/storms-kill-seven-with-local-states-of-emergency-declared-in-southeast-region-brazil.md)
@@ -21,7 +21,7 @@ The European Commission said airlines that refused to participate in its carbon 
 
 ##### Burma
 ### [The military-backed civilian government of Burma (Myanmar) marks the anniversary of the country's independence by commuting prison sentences and releasing more than thirty prisoners. ](/news/2012/01/4/the-military-backed-civilian-government-of-burma-myanmar-marks-the-anniversary-of-the-country-s-independence-by-commuting-prison-sentences.md)
-_Context: Burma, commuted_
+_Context: commuted, Burma_
 
 ##### life imprisonment
 ### [Gary Dobson and David Norris are jailed for life for the 1993 murder of Stephen Lawrence. Dobson is given a minimum of 15 years and two months, and Norris 14 years and three months. ](/news/2012/01/4/gary-dobson-and-david-norris-are-jailed-for-life-for-the-1993-murder-of-stephen-lawrence-dobson-is-given-a-minimum-of-15-years-and-two-mont.md)
@@ -29,7 +29,7 @@ Two men convicted of the murder of Stephen Lawrence have been given life sentenc
 
 ##### Mexican
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: Mexican, United States, racketeering, Benjamn Arellano Flix, money laundering_
+_Context: United States, money laundering, Mexican, Benjamn Arellano Flix, racketeering_
 
 ##### President of Argentina
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
@@ -37,11 +37,11 @@ _Context: thyroid cancer, Cristina Kirchner, President of Argentina, Amado Boudo
 
 ##### Mitt Romney
 ### [Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iowa-caucus-with-candidate-and-former-u-s-senator.md)
-_Context: 2012 Iowa Caucus, Rick Santorum, Mitt Romney, Ron Paul_
+_Context: Ron Paul, Mitt Romney, Rick Santorum, 2012 Iowa Caucus_
 
 ##### Greek Prime Minister
 ### [Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. ](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.md)
-_Context: George Papandreou, Greek Prime Minister, PASOK_
+_Context: PASOK, Greek Prime Minister, George Papandreou_
 
 ##### protect
 ### [Armed commandos will be ordered to protect endangered tigers in India's Bandipur and Nagarhole national parks. ](/news/2012/01/4/armed-commandos-will-be-ordered-to-protect-endangered-tigers-in-india-s-bandipur-and-nagarhole-national-parks.md)

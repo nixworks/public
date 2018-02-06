@@ -21,7 +21,7 @@ US President takes key states Pennsylvania and Wisconsin, though race with Mitt 
 
 ### Changes:
 
-1. [United States elections, 2012: Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/united-states-elections-2012-voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md) _2017-08-27 03:36:57 (First version)_
+1. [United States elections, 2012: Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/united-states-elections-2012-voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md) _2018-02-06 13:49:24 (First version)_
 1. [Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md) _(Current version)_
 
 ### Related:

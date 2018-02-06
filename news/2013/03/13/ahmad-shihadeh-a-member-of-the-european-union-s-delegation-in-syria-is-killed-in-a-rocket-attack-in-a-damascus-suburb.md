@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s
 
 ### Changes:
 
-1. [Syrian civil war:Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-pahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md) _2017-08-25 03:37:50 (First version)_
-2. [Syrian civil war:: Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md) _2017-08-27 03:38:01 (Update)_
+1. [Syrian civil war:Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-pahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md) _2018-02-06 13:49:24 (Update)_
 2. [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A U.S. appeals court specializing in patent law grappled today with questions ab
 
 ### Changes:
 
-1. [The United States Court of Appeals for the Federal Circuit, which hears all appeals in U.S. patent cases, hears arguments in ''CLS Bank v. Alice'', a case that may sharpen standards for patentability in the fields of computer software, business methods, and financial services. ](/news/2013/02/8/the-united-states-court-of-appeals-for-the-federal-circuit-which-hears-all-appeals-in-u-s-patent-cases-hears-arguments-in-cls-bank-v-a.md) _2017-08-25 03:37:28 (First version)_
+1. [The United States Court of Appeals for the Federal Circuit, which hears all appeals in U.S. patent cases, hears arguments in ''CLS Bank v. Alice'', a case that may sharpen standards for patentability in the fields of computer software, business methods, and financial services. ](/news/2013/02/8/the-united-states-court-of-appeals-for-the-federal-circuit-which-hears-all-appeals-in-u-s-patent-cases-hears-arguments-in-cls-bank-v-a.md) _2018-02-06 13:49:24 (First version)_
 1. [The United States Court of Appeals for the Federal Circuit, which hears all appeals in U.S. patent cases, hears arguments in "CLS Bank v. Alice", a case that may sharpen standards for patentability in the fields of computer software, business methods, and financial services. ](/news/2013/02/8/the-united-states-court-of-appeals-for-the-federal-circuit-which-hears-all-appeals-in-u-s-patent-cases-hears-arguments-in-cls-bank-v-al.md) _(Current version)_
 
 ### Related:

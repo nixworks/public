@@ -9,17 +9,17 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ##### Mexico
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Petroleos Mexicanos, Gulf of Mexico, Mexico_
+_Context: Mexico, Gulf of Mexico, Petroleos Mexicanos_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: ''Dalniy Vostok'', Kamchatka peninsula, Russia, sinks_
+_Context: Kamchatka peninsula, Russia, ''Dalniy Vostok'', sinks_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
 The move by Gov. Jerry Brown comes as California’s drought has reached near-crisis proportions after a winter that brought record-low snowfalls.
 
-##### Turkish
+##### Turkey
 ### [Turkish police shoot two attackers outside Istanbul's central police headquarters, killing one of them. The exchange of fire wounds two officers. ](/news/2015/04/1/turkish-police-shoot-two-attackers-outside-istanbulas-central-police-headquarters-killing-one-of-them-the-exchange-of-fire-wounds-two-of.md)
 Attack comes day after Turkish prosecutor taken hostage dies in police shootout alongside hostage takers
 
@@ -29,11 +29,11 @@ _Context: Oklahoma, Tulsa_
 
 ##### New Jersey
 ### [A federal grand jury indicts New Jersey Senator Bob Menendez on corruption charges. ](/news/2015/04/1/a-federal-grand-jury-indicts-new-jersey-senator-bob-menendez-on-corruption-charges.md)
-_Context: Bob Menendez, New Jersey_
+_Context: New Jersey, Bob Menendez_
 
 ##### Atlanta
 ### [A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. ](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.md)
-_Context: Atlanta, Georgia, mass cheating scandal_
+_Context: Georgia, Atlanta, mass cheating scandal_
 
 ##### Obama Administration
 ### [The Obama Administration targets overseas cyber attackers with a sanctions program. ](/news/2015/04/1/the-obama-administration-targets-overseas-cyber-attackers-with-a-sanctions-program.md)

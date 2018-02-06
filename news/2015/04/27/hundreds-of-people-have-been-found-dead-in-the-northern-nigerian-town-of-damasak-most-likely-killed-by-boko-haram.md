@@ -16,7 +16,7 @@ Hundreds of people have been found dead in the northeast Nigerian town of Damasa
 
 ### Changes:
 
-1. [Boko Haram: Hundreds of people have been found dead in the northern Nigerian town of Damasak, most likely killed by Boko Haram. ](/news/2015/04/27/boko-haram-hundreds-of-people-have-been-found-dead-in-the-northern-nigerian-town-of-damasak-most-likely-killed-by-boko-haram.md) _2017-08-27 03:42:15 (First version)_
+1. [Boko Haram: Hundreds of people have been found dead in the northern Nigerian town of Damasak, most likely killed by Boko Haram. ](/news/2015/04/27/boko-haram-hundreds-of-people-have-been-found-dead-in-the-northern-nigerian-town-of-damasak-most-likely-killed-by-boko-haram.md) _2018-02-06 13:49:27 (First version)_
 1. [Hundreds of people have been found dead in the northern Nigerian town of Damasak, most likely killed by Boko Haram. ](/news/2015/04/27/hundreds-of-people-have-been-found-dead-in-the-northern-nigerian-town-of-damasak-most-likely-killed-by-boko-haram.md) _(Current version)_
 
 ### Related:

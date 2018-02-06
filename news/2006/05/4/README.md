@@ -9,23 +9,23 @@ _Context: Snyder Rini, Prime Minister, Manasseh Sogavare_
 
 ##### Israel
 ### [ In Israel, a new Cabinet under Prime Minister Ehud Olmert is sworn in. ](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.md)
-_Context: Ehud Olmert, Israeli cabinet, Israel, Israeli Prime Minister, oath of office_
+_Context: Israeli Prime Minister, Cabinet of Israel, Israel, oath of office, Ehud Olmert_
 
 ##### warnings
 ### [ A tsunami warning was issued for Fiji and New Zealand following a magnitude 7.9 earthquake in Tonga which occurred at 15:26 UTC (04:26 May 4, local time). The warning was canceled when it was found that the earthquake did not produce a tsunami. ](/news/2006/05/4/a-tsunami-warning-was-issued-for-fiji-and-new-zealand-following-a-magnitude-7-9-earthquake-in-tonga-which-occurred-at-15-26-utc-04-26-may.md)
-_Context: 7.9 earthquake in Tonga, warnings, tsunami, New Zealand, magnitude, Fiji_
+_Context: tsunami, 7.9 earthquake in Tonga, warnings, magnitude, New Zealand, Fiji_
 
 ##### Picasso
 ### [ Picasso's "Dora Maar With Cat" is sold in an auction for US$95,216,000, becoming one of the most expensive paintings in the world. ](/news/2006/05/4/picasso-s-dora-maar-with-cat-is-sold-in-an-auction-for-us-95-216-000-becoming-one-of-the-most-expensive-paintings-in-the-world.md)
-_Context: U.S. dollar, ''Dora Maar With Cat'', Picasso, new record_
+_Context: new record, U.S. dollar, Picasso, ''Dora Maar With Cat''_
 
 ##### Shahrir Abdul Samad
 ### [ Shahrir Abdul Samad resigns as chairman of the Barisan Nasional Backbenchers Club in the Parliament of Malaysia, after a motion to refer a Member of Parliament implicated in a corruption scandal to the "Dewan Rakyat" House Rights and Privileges Committee failed. ](/news/2006/05/4/shahrir-abdul-samad-resigns-as-chairman-of-the-barisan-nasional-backbenchers-club-in-the-parliament-of-malaysia-after-a-motion-to-refer-a.md)
-_Context: Parliament of Malaysia, Dewan Rakyat, Malaysia, Barisan Nasional, Shahrir Abdul Samad_
+_Context: Shahrir Abdul Samad, Barisan Nasional, Dewan Rakyat, Malaysia, Parliament of Malaysia_
 
 ##### British Prime Minister
 ### [ British Prime Minister Tony Blair's Labour Party suffers one of its worst electoral defeats, losing more than 200 council seats in the 2006 UK local elections, and coming third in total votes, behind the Conservatives and Liberal Democrats. ](/news/2006/05/4/british-prime-minister-tony-blair-s-labour-party-suffers-one-of-its-worst-electoral-defeats-losing-more-than-200-council-seats-in-the-2006.md)
-_Context: British Prime Minister, Labour Party, Tony Blair, 2006 UK local elections_
+_Context: Labour Party, Tony Blair, 2006 UK local elections, British Prime Minister_
 
 ## [Previous Day...](/news/2006/05/3/index.md)
 

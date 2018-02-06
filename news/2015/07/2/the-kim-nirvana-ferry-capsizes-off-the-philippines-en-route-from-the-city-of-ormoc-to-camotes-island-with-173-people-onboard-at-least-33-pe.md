@@ -17,7 +17,7 @@ The death toll from the ferry that capsized in the central Philippines rises to 
 
 ### Changes:
 
-1. [Sinking of the Kim Nirvana: The Kim Nirvana ferry capsizes off the Philippines en route from the city of Ormoc to Camotes island with 173 people onboard; at least 33 people are confirmed dead while at least 50 people have been rescued. ](/news/2015/07/2/sinking-of-the-kim-nirvana-the-kim-nirvana-ferry-capsizes-off-the-philippines-en-route-from-the-city-of-ormoc-to-camotes-island-with-173-pe.md) _2017-08-27 03:42:38 (First version)_
+1. [Sinking of the Kim Nirvana: The Kim Nirvana ferry capsizes off the Philippines en route from the city of Ormoc to Camotes island with 173 people onboard; at least 33 people are confirmed dead while at least 50 people have been rescued. ](/news/2015/07/2/sinking-of-the-kim-nirvana-the-kim-nirvana-ferry-capsizes-off-the-philippines-en-route-from-the-city-of-ormoc-to-camotes-island-with-173-pe.md) _2018-02-06 13:49:27 (First version)_
 1. [The Kim Nirvana ferry capsizes off the Philippines en route from the city of Ormoc to Camotes island with 173 people onboard; at least 33 people are confirmed dead while at least 50 people have been rescued. ](/news/2015/07/2/the-kim-nirvana-ferry-capsizes-off-the-philippines-en-route-from-the-city-of-ormoc-to-camotes-island-with-173-people-onboard-at-least-33-pe.md) _(Current version)_
 
 ### Related:

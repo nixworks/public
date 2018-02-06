@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/29/thousands-of-pro-democracy-demonstrators-clash-
 
 ### Changes:
 
-1. [2014 Hong Kong protests: Thousands of pro-democracy demonstrators clash with police in the Mong Kok district as they try to reclaim their former protest site. ](/news/2014/11/29/2014-hong-kong-protests-thousands-of-pro-democracy-demonstrators-clash-with-police-in-the-mong-kok-district-as-they-try-to-reclaim-their-fo.md) _2017-08-27 03:41:34 (First version)_
+1. [2014 Hong Kong protests: Thousands of pro-democracy demonstrators clash with police in the Mong Kok district as they try to reclaim their former protest site. ](/news/2014/11/29/2014-hong-kong-protests-thousands-of-pro-democracy-demonstrators-clash-with-police-in-the-mong-kok-district-as-they-try-to-reclaim-their-fo.md) _2018-02-06 13:49:26 (First version)_
 1. [Thousands of pro-democracy demonstrators clash with police in the Mong Kok district as they try to reclaim their former protest site. ](/news/2014/11/29/thousands-of-pro-democracy-demonstrators-clash-with-police-in-the-mong-kok-district-as-they-try-to-reclaim-their-former-protest-site.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Taliban claimed responsibility for a suicide attack Tuesday in central Afgha
 
 ### Changes:
 
-1. [Taliban insurgency: The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/taliban-insurgency-the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech.md) _2017-08-27 03:40:56 (First version)_
+1. [Taliban insurgency: The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/taliban-insurgency-the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech.md) _2018-02-06 13:49:26 (First version)_
 1. [The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech-members-of-the-inte.md) _(Current version)_
 
 ### Related:

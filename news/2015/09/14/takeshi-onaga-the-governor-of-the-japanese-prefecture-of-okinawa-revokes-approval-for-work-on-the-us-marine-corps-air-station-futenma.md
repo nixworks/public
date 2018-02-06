@@ -16,7 +16,7 @@ TOKYO (AFP) - The governor of Okinawa said on Monday (Sept 14) that he will revo
 
 ### Changes:
 
-1. [Relocation of Marine Corps Air Station Futenma: Takeshi Onaga, the governor of the Japanese prefecture of Okinawa, revokes approval for work on the US Marine Corps Air Station Futenma. ](/news/2015/09/14/relocation-of-marine-corps-air-station-futenma-takeshi-onaga-the-governor-of-the-japanese-prefecture-of-okinawa-revokes-approval-for-work.md) _2017-08-27 03:43:03 (First version)_
+1. [Relocation of Marine Corps Air Station Futenma: Takeshi Onaga, the governor of the Japanese prefecture of Okinawa, revokes approval for work on the US Marine Corps Air Station Futenma. ](/news/2015/09/14/relocation-of-marine-corps-air-station-futenma-takeshi-onaga-the-governor-of-the-japanese-prefecture-of-okinawa-revokes-approval-for-work.md) _2018-02-06 13:49:27 (First version)_
 1. [Takeshi Onaga, the governor of the Japanese prefecture of Okinawa, revokes approval for work on the US Marine Corps Air Station Futenma. ](/news/2015/09/14/takeshi-onaga-the-governor-of-the-japanese-prefecture-of-okinawa-revokes-approval-for-work-on-the-us-marine-corps-air-station-futenma.md) _(Current version)_
 
 ### Related:

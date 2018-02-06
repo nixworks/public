@@ -16,8 +16,8 @@ President Francois Hollande denies claims France has agreed to pay compensation 
 
 ### Changes:
 
-1. [France agrees to pay Russia EUR1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-a-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military.md) _2017-08-25 03:42:29 (First version)_
-2. [France agrees to pay Russia -1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military-i.md) _2017-08-27 03:42:46 (Update)_
+1. [France agrees to pay Russia EUR1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-a-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military.md) _2018-02-06 13:49:27 (First version)_
+2. [France agrees to pay Russia -1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military-i.md) _2018-02-06 13:49:27 (Update)_
 2. [France agrees to pay Russia EUR1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-a-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military-i.md) _(Current version)_
 
 ### Related:

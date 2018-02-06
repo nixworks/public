@@ -16,7 +16,7 @@ A suicide bomber blows himself up near a bus carrying soldiers in the Afghan cap
 
 ### Changes:
 
-1. [Taliban insurgency: A suicide bomber attacks an army bus in the Afghan capital, Kabul, killing two soldiers and two civilians. ](/news/2014/01/26/taliban-insurgency-a-suicide-bomber-attacks-an-army-bus-in-the-afghan-capital-kabul-killing-two-soldiers-and-two-civilians.md) _2017-08-27 03:40:15 (First version)_
+1. [Taliban insurgency: A suicide bomber attacks an army bus in the Afghan capital, Kabul, killing two soldiers and two civilians. ](/news/2014/01/26/taliban-insurgency-a-suicide-bomber-attacks-an-army-bus-in-the-afghan-capital-kabul-killing-two-soldiers-and-two-civilians.md) _2018-02-06 13:49:25 (First version)_
 1. [A suicide bomber attacks an army bus in the Afghan capital, Kabul, killing two soldiers and two civilians. ](/news/2014/01/26/a-suicide-bomber-attacks-an-army-bus-in-the-afghan-capital-kabul-killing-two-soldiers-and-two-civilians.md) _(Current version)_
 
 ### Related:

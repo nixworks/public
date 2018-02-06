@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/11/22/pakistan-is-suspended-from-the-commonwealth-of-
 
 ### Changes:
 
-1. [ 2007 Pakistani state of emergency: Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/2007-pakistani-state-of-emergency-pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergenc.md) _2017-08-27 03:21:23 (First version)_
+1. [ 2007 Pakistani state of emergency: Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/2007-pakistani-state-of-emergency-pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergenc.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergency.md) _(Current version)_
 
 ### Related:

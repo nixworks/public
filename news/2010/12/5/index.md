@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/5/index.html)  [JSON](2010/12/5/index.json)  [XML](2010/
 
 ##### WikiLeaks
 ### [The WikiLeaks website is forced offline again. ](/news/2010/12/5/the-wikileaks-website-is-forced-offline-again.md)
-_Context: WikiLeaks, cyber-war_
+_Context: cyber-war, WikiLeaks_
 
 ##### Afghanistan
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
@@ -17,7 +17,7 @@ _Context: Niger Delta, Nigerian_
 
 ##### Somalia
 ### [Over 100 people are killed in battles throughout Somalia between Islamist rebels and African Union forces over the past three days. ](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.md)
-_Context: Islamist, African Union, Somalia_
+_Context: African Union, Somalia, Islamist_
 
 ##### King
 ### [Festivities are held for the 83rd birthday of King of Thailand Bhumibol Adulyadej, the longest reigning monarch in the world. ](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.md)
@@ -29,11 +29,11 @@ A newly-discovered poem by Philip Larkin will be heard for the first time on a B
 
 ##### Roman Polanski
 ### [Roman Polanski's "The Ghost Writer" wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-skype.md)
-_Context: Roman Polanski, European Film Awards, Skype, Estonia, Paris, The Ghost Writer_
+_Context: Estonia, The Ghost Writer, Paris, Skype, Roman Polanski, European Film Awards_
 
 ##### Nicole Faria
 ### [20-year-old Nicole Faria from Bangalore, Miss India, wins the Miss Earth 2010 crown in Vinpearl Land, Nha Trang, Vietnam. ](/news/2010/12/5/20-year-old-nicole-faria-from-bangalore-miss-india-wins-the-miss-earth-2010-crown-in-vinpearl-land-nha-trang-vietnam.md)
-_Context: Miss Earth 2010, Bangalore, Vietnam, Nicole Faria, Nha Trang, Miss India, Vinpearl Land_
+_Context: Miss Earth 2010, Vinpearl Land, Vietnam, Bangalore, Nicole Faria, Nha Trang, Miss India_
 
 ##### International Labour Organisation
 ### [The International Labour Organisation asks Gulf states to reform labour laws related to millions of foreign workers and urges the introduction of a minimum wage. ](/news/2010/12/5/the-international-labour-organisation-asks-gulf-states-to-reform-labour-laws-related-to-millions-of-foreign-workers-and-urges-the-introducti.md)
@@ -45,7 +45,7 @@ The death toll from weeks of heavy rains across Colombia has risen to 174 and ov
 
 ##### prairie
 ### [22 people are killed in a prairie fire in Daofu County, Sichuan, China. ](/news/2010/12/5/22-people-are-killed-in-a-prairie-fire-in-daofu-county-sichuan-china.md)
-_Context: Daofu County, Sichuan, prairie_
+_Context: Sichuan, Daofu County, prairie_
 
 ##### Kaili
 ### [At least 6 people are killed and 36 wounded after an explosion in the city of Kaili, Guizhou province, China. ](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.md)
@@ -71,7 +71,7 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 
 ##### Palestine
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
-_Context: Palestine, West Bank_
+_Context: West Bank, Palestine_
 
 ##### United States
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)

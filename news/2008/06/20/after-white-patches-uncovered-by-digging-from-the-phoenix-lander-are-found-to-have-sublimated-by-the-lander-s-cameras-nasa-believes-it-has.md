@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/06/20/after-white-patches-uncovered-by-digging-from-t
 
 ### Changes:
 
-1. [ Phoenix lander exploration of After white patches uncovered by digging from the Phoenix lander are found to have sublimated by the lander's cameras, NASA believes it has found water ice on Mars. ](/news/2008/06/20/phoenix-lander-exploration-of-after-white-patches-uncovered-by-digging-from-the-phoenix-lander-are-found-to-have-sublimated-by-the-lander.md) _2017-08-25 03:22:26 (First version)_
-2. [ Phoenix lander exploration of Mars: After white patches uncovered by digging from the Phoenix lander are found to have sublimated by the lander's cameras, NASA believes it has found water ice on Mars. ](/news/2008/06/20/phoenix-lander-exploration-of-mars-after-white-patches-uncovered-by-digging-from-the-phoenix-lander-are-found-to-have-sublimated-by-the-la.md) _2017-08-27 03:22:19 (Update)_
+1. [ Phoenix lander exploration of Mars: After white patches uncovered by digging from the Phoenix lander are found to have sublimated by the lander's cameras, NASA believes it has found water ice on Mars. ](/news/2008/06/20/phoenix-lander-exploration-of-mars-after-white-patches-uncovered-by-digging-from-the-phoenix-lander-are-found-to-have-sublimated-by-the-la.md) _2018-02-06 13:49:18 (First version)_
+2. [ Phoenix lander exploration of After white patches uncovered by digging from the Phoenix lander are found to have sublimated by the lander's cameras, NASA believes it has found water ice on Mars. ](/news/2008/06/20/phoenix-lander-exploration-of-after-white-patches-uncovered-by-digging-from-the-phoenix-lander-are-found-to-have-sublimated-by-the-lander.md) _2018-02-06 13:49:18 (Update)_
 2. [ After white patches uncovered by digging from the Phoenix lander are found to have sublimated by the lander's cameras, NASA believes it has found water ice on Mars. ](/news/2008/06/20/after-white-patches-uncovered-by-digging-from-the-phoenix-lander-are-found-to-have-sublimated-by-the-lander-s-cameras-nasa-believes-it-has.md) _(Current version)_
 
 ### Related:

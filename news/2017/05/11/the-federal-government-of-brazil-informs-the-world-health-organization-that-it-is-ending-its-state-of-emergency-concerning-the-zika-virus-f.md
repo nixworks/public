@@ -16,7 +16,7 @@ Rio de Janeiro (AFP) - Brazil&amp;#39;s government on Thursday declared an end t
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/2015-16-zika-virus-epidemic-the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergen.md) _2017-08-27 03:48:19 (First version)_
+1. [2015-16 Zika virus epidemic: The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/2015-16-zika-virus-epidemic-the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergen.md) _2018-02-06 13:49:30 (First version)_
 1. [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md) _(Current version)_
 
 ### Related:

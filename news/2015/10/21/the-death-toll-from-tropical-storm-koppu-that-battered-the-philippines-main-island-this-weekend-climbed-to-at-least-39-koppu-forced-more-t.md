@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-b
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/2015-pacific-typhoon-season-the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at.md) _2017-08-27 03:43:26 (First version)_
+1. [2015 Pacific typhoon season: The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/2015-pacific-typhoon-season-the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at-least-39-koppu-forced-more-t.md) _(Current version)_
 
 ### Related:

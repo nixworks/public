@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-g
 
 ### Changes:
 
-1. [Egyptian parliamentary election, 2015: Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/egyptian-parliamentary-election-2015-voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-27 03:44:00 (First version)_
+1. [Egyptian parliamentary election, 2015: Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/egyptian-parliamentary-election-2015-voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md) _(Current version)_
 
 ### Related:

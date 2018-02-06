@@ -17,7 +17,7 @@ U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agreed o
 
 ### Changes:
 
-1. [China-United States relations: U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agree, on principle, that a strong United Nations Security Council resolution is needed regarding North Korea's nuclear test earlier this month. ](/news/2016/01/27/china-united-states-relations-u-s-secretary-of-state-john-kerry-and-chinese-foreign-minister-wang-yi-agree-on-principle-that-a-strong.md) _2017-08-27 03:44:46 (First version)_
+1. [China-United States relations: U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agree, on principle, that a strong United Nations Security Council resolution is needed regarding North Korea's nuclear test earlier this month. ](/news/2016/01/27/china-united-states-relations-u-s-secretary-of-state-john-kerry-and-chinese-foreign-minister-wang-yi-agree-on-principle-that-a-strong.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agree, on principle, that a strong United Nations Security Council resolution is needed regarding North Korea's nuclear test earlier this month. ](/news/2016/01/27/u-s-secretary-of-state-john-kerry-and-chinese-foreign-minister-wang-yi-agree-on-principle-that-a-strong-united-nations-security-council-r.md) _(Current version)_
 
 ### Related:

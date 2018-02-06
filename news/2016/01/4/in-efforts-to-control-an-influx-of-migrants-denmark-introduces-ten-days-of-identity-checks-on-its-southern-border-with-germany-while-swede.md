@@ -16,7 +16,7 @@ Denmark tightens its border controls with Germany, just hours after Sweden impos
 
 ### Changes:
 
-1. [European migrant crisis: In efforts to control an influx of migrants, Denmark introduces ten days of identity checks on its southern border with Germany, while Sweden introduces similar measures on the Oresund Bridge between itself and Denmark. All three countries are subject to the Schengen Agreement on the free movement of people. ](/news/2016/01/4/european-migrant-crisis-in-efforts-to-control-an-influx-of-migrants-denmark-introduces-ten-days-of-identity-checks-on-its-southern-border.md) _2017-08-27 03:44:35 (First version)_
+1. [European migrant crisis: In efforts to control an influx of migrants, Denmark introduces ten days of identity checks on its southern border with Germany, while Sweden introduces similar measures on the Oresund Bridge between itself and Denmark. All three countries are subject to the Schengen Agreement on the free movement of people. ](/news/2016/01/4/european-migrant-crisis-in-efforts-to-control-an-influx-of-migrants-denmark-introduces-ten-days-of-identity-checks-on-its-southern-border.md) _2018-02-06 13:49:28 (First version)_
 1. [In efforts to control an influx of migrants, Denmark introduces ten days of identity checks on its southern border with Germany, while Sweden introduces similar measures on the Oresund Bridge between itself and Denmark. All three countries are subject to the Schengen Agreement on the free movement of people. ](/news/2016/01/4/in-efforts-to-control-an-influx-of-migrants-denmark-introduces-ten-days-of-identity-checks-on-its-southern-border-with-germany-while-swede.md) _(Current version)_
 
 ### Related:

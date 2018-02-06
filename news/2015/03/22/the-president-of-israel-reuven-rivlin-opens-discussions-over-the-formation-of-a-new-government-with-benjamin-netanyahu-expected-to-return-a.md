@@ -16,7 +16,7 @@ Israeli President Reuven Rivlin on Sunday began consultations with representativ
 
 ### Changes:
 
-1. [Israeli legislative election, 2015: The President of Israel Reuven Rivlin opens discussions over the formation of a new government, with Benjamin Netanyahu expected to return as Prime Minister. ](/news/2015/03/22/israeli-legislative-election-2015-the-president-of-israel-reuven-rivlin-opens-discussions-over-the-formation-of-a-new-government-with-ben.md) _2017-08-27 03:42:07 (First version)_
+1. [Israeli legislative election, 2015: The President of Israel Reuven Rivlin opens discussions over the formation of a new government, with Benjamin Netanyahu expected to return as Prime Minister. ](/news/2015/03/22/israeli-legislative-election-2015-the-president-of-israel-reuven-rivlin-opens-discussions-over-the-formation-of-a-new-government-with-ben.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of Israel Reuven Rivlin opens discussions over the formation of a new government, with Benjamin Netanyahu expected to return as Prime Minister. ](/news/2015/03/22/the-president-of-israel-reuven-rivlin-opens-discussions-over-the-formation-of-a-new-government-with-benjamin-netanyahu-expected-to-return-a.md) _(Current version)_
 
 ### Related:

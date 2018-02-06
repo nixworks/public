@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/9/hezbollah-gains-control-of-large-sections-of-bei
 
 ### Changes:
 
-1. [ 2008 unrest in Lebanon: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-p-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _2017-08-25 03:22:08 (First version)_
-2. [ 2008 unrest in Lebanon:: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _2017-08-27 03:22:03 (Update)_
+1. [ 2008 unrest in Lebanon: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-p-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Lebanon:: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md) _(Current version)_
 
 ### Related:

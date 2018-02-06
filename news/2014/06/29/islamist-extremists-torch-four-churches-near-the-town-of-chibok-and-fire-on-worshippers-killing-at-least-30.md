@@ -17,7 +17,7 @@ Suspected Islamic extremists sprayed gunfire at worshippers and torched four chu
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Islamist extremists torch four churches near the town of Chibok and fire on worshippers killing at least 30. ](/news/2014/06/29/islamist-insurgency-in-nigeria-islamist-extremists-torch-four-churches-near-the-town-of-chibok-and-fire-on-worshippers-killing-at-least-30.md) _2017-08-27 03:40:54 (First version)_
+1. [Islamist insurgency in Nigeria: Islamist extremists torch four churches near the town of Chibok and fire on worshippers killing at least 30. ](/news/2014/06/29/islamist-insurgency-in-nigeria-islamist-extremists-torch-four-churches-near-the-town-of-chibok-and-fire-on-worshippers-killing-at-least-30.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamist extremists torch four churches near the town of Chibok and fire on worshippers killing at least 30. ](/news/2014/06/29/islamist-extremists-torch-four-churches-near-the-town-of-chibok-and-fire-on-worshippers-killing-at-least-30.md) _(Current version)_
 
 ### Related:

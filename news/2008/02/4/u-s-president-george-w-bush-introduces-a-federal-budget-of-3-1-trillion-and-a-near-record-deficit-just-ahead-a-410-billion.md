@@ -16,7 +16,7 @@ The president’s budget plan, which foresees near-record deficits just ahead, i
 
 ### Changes:
 
-1. [ U.S. President George W. Bush introduces a Federal budget of $3.1 trillion and a near-record deficit just ahead - $410 billion. ](/news/2008/02/4/u-s-president-george-w-bush-introduces-a-federal-budget-of-3-1-trillion-and-a-near-record-deficit-just-ahead-410-billion.md) _2017-08-27 03:21:37 (First version)_
+1. [ U.S. President George W. Bush introduces a Federal budget of $3.1 trillion and a near-record deficit just ahead - $410 billion. ](/news/2008/02/4/u-s-president-george-w-bush-introduces-a-federal-budget-of-3-1-trillion-and-a-near-record-deficit-just-ahead-410-billion.md) _2018-02-06 13:49:18 (First version)_
 1. [ U.S. President George W. Bush introduces a Federal budget of $3.1 trillion and a near-record deficit just ahead -- $410 billion. ](/news/2008/02/4/u-s-president-george-w-bush-introduces-a-federal-budget-of-3-1-trillion-and-a-near-record-deficit-just-ahead-a-410-billion.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-w
 
 ### Changes:
 
-1. [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179-157-vote.md) _2017-08-27 03:38:27 (First version)_
+1. [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179-157-vote.md) _2018-02-06 13:49:24 (First version)_
 1. [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179a157-vote.md) _(Current version)_
 
 ### Related:

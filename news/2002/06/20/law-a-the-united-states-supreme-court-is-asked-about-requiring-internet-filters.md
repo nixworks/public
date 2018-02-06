@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/20/law-a-the-united-states-supreme-court-is-asked-
 
 ### Changes:
 
-1. [ Law - The United States Supreme Court is asked about requiring Internet filters.](/news/2002/06/20/law-the-united-states-supreme-court-is-asked-about-requiring-internet-filters.md) _2017-08-27 03:15:13 (First version)_
+1. [ Law - The United States Supreme Court is asked about requiring Internet filters.](/news/2002/06/20/law-the-united-states-supreme-court-is-asked-about-requiring-internet-filters.md) _2018-02-06 13:49:15 (First version)_
 1. [ Law - The United States Supreme Court is asked about requiring Internet filters.](/news/2002/06/20/law-a-the-united-states-supreme-court-is-asked-about-requiring-internet-filters.md) _(Current version)_
 
 ### Related:

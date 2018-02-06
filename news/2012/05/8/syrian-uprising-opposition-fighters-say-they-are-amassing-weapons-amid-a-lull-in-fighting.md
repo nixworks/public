@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/05/8/syrian-uprising-opposition-fighters-say-they-are
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-psyrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _2017-08-25 03:35:39 (First version)_
-2. [Arab Spring:: Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _2017-08-27 03:35:49 (Update)_
+1. [Arab Spring:: Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-psyrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md) _(Current version)_
 
 ### Related:

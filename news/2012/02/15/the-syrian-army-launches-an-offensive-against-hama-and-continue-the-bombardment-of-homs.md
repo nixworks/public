@@ -18,8 +18,8 @@ Syrian opposition leaders and the West have scorned a new offer by President Bas
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/2011a2012-syrian-uprising-pthe-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _2017-08-25 03:35:04 (First version)_
-2. [2011-2012 Syrian uprising:: The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/2011-2012-syrian-uprising-the-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _2017-08-27 03:35:13 (Update)_
+1. [2011-2012 Syrian uprising:The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/2011a2012-syrian-uprising-pthe-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/2011-2012-syrian-uprising-the-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian Army launches an offensive against Hama and continue the bombardment of Homs. ](/news/2012/02/15/the-syrian-army-launches-an-offensive-against-hama-and-continue-the-bombardment-of-homs.md) _(Current version)_
 
 ### Related:

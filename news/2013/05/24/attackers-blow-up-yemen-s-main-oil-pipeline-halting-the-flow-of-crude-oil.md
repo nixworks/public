@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/24/attackers-blow-up-yemen-s-main-oil-pipeline-hal
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-pattackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md) _2017-08-25 03:38:43 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md) _2017-08-27 03:38:56 (Update)_
+1. [Al-Qaeda insurgency in Yemen:Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-pattackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md) _2018-02-06 13:49:24 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md) _2018-02-06 13:49:24 (Update)_
 2. [Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md) _(Current version)_
 
 ### Related:

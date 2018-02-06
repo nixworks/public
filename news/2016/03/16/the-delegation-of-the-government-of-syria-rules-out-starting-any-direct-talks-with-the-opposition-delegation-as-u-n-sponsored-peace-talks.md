@@ -17,7 +17,7 @@ Syrian government representatives rule out starting direct negotiations with the
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian peace process: The delegation of the government of Syria rules out starting any direct talks with the opposition delegation as U.N. sponsored peace talks enter a third day in Geneva. ](/news/2016/03/16/syrian-civil-war-syrian-peace-process-the-delegation-of-the-government-of-syria-rules-out-starting-any-direct-talks-with-the-opposition-de.md) _2017-08-27 03:45:15 (First version)_
+1. [Syrian Civil War: Syrian peace process: The delegation of the government of Syria rules out starting any direct talks with the opposition delegation as U.N. sponsored peace talks enter a third day in Geneva. ](/news/2016/03/16/syrian-civil-war-syrian-peace-process-the-delegation-of-the-government-of-syria-rules-out-starting-any-direct-talks-with-the-opposition-de.md) _2018-02-06 13:49:28 (First version)_
 1. [ The delegation of the government of Syria rules out starting any direct talks with the opposition delegation as U.N. sponsored peace talks enter a third day in Geneva. ](/news/2016/03/16/the-delegation-of-the-government-of-syria-rules-out-starting-any-direct-talks-with-the-opposition-delegation-as-u-n-sponsored-peace-talks.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Rescue teams on Saturday struggled to reach villages devastated by a massive mud
 
 ### Changes:
 
-1. [Minas Gerais dam disaster: As rescue teams labor to reach isolated communities, state officials are taking precautions to contain the environmental fallout from the burst dams. A state public prosecutor based in Mariana says he will seek 500,000 Brazilian reais (US$130,000) in personal damages for each of about 200 families most affected by the dam burst. ](/news/2015/11/7/minas-gerais-dam-disaster-as-rescue-teams-labor-to-reach-isolated-communities-state-officials-are-taking-precautions-to-contain-the-enviro.md) _2017-08-27 03:43:44 (First version)_
+1. [Minas Gerais dam disaster: As rescue teams labor to reach isolated communities, state officials are taking precautions to contain the environmental fallout from the burst dams. A state public prosecutor based in Mariana says he will seek 500,000 Brazilian reais (US$130,000) in personal damages for each of about 200 families most affected by the dam burst. ](/news/2015/11/7/minas-gerais-dam-disaster-as-rescue-teams-labor-to-reach-isolated-communities-state-officials-are-taking-precautions-to-contain-the-enviro.md) _2018-02-06 13:49:28 (First version)_
 1. [As rescue teams labor to reach isolated communities, state officials are taking precautions to contain the environmental fallout from the burst dams. A state public prosecutor based in Mariana says he will seek 500,000 Brazilian reais (US$130,000) in personal damages for each of about 200 families most affected by the dam burst. ](/news/2015/11/7/as-rescue-teams-labor-to-reach-isolated-communities-state-officials-are-taking-precautions-to-contain-the-environmental-fallout-from-the-bu.md) _(Current version)_
 
 ### Related:

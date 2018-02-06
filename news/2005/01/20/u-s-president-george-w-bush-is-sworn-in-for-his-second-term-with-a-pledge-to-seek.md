@@ -21,8 +21,8 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ### Changes:
 
-1. [ United States: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-p-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md) _2017-08-25 03:15:33 (First version)_
-2. [ United States:: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md) _2017-08-27 03:15:34 (Update)_
+1. [ United States:: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md) _2018-02-06 13:49:16 (First version)_
+2. [ United States: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-p-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md) _2018-02-06 13:49:16 (Update)_
 2. [ U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md) _(Current version)_
 
 ### Related:

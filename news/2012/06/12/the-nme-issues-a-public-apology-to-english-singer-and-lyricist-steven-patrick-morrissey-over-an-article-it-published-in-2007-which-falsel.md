@@ -16,7 +16,7 @@ The NME publicly apologises to singer Morrissey for an article it published in 2
 
 ### Changes:
 
-1. [The ''NME'' issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-fals.md) _2017-08-25 03:35:51 (First version)_
+1. [The ''NME'' issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-fals.md) _2018-02-06 13:49:23 (First version)_
 1. [The "NME" issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-falsel.md) _(Current version)_
 
 ### Related:

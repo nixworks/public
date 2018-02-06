@@ -25,7 +25,7 @@ Hour-by-hour news, analysis, exit polls and results throughout the day of the co
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in the U.S. states of Alabama, Alaska, Arkansas, Colorado, Georgia, Massachusetts, Minnesota, Oklahoma, Tennessee, Texas, Vermont, Virginia, and the overseas territory of American Samoa go to the polls to vote on Super Tuesday. ](/news/2016/03/1/united-states-presidential-election-2016-voters-in-the-u-s-states-of-alabama-alaska-arkansas-colorado-georgia-massachusetts-minneso.md) _2017-08-27 03:45:05 (First version)_
+1. [United States presidential election, 2016: Voters in the U.S. states of Alabama, Alaska, Arkansas, Colorado, Georgia, Massachusetts, Minnesota, Oklahoma, Tennessee, Texas, Vermont, Virginia, and the overseas territory of American Samoa go to the polls to vote on Super Tuesday. ](/news/2016/03/1/united-states-presidential-election-2016-voters-in-the-u-s-states-of-alabama-alaska-arkansas-colorado-georgia-massachusetts-minneso.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in the U.S. states of Alabama, Alaska, Arkansas, Colorado, Georgia, Massachusetts, Minnesota, Oklahoma, Tennessee, Texas, Vermont, Virginia, and the overseas territory of American Samoa go to the polls to vote on Super Tuesday. ](/news/2016/03/1/voters-in-the-u-s-states-of-alabama-alaska-arkansas-colorado-georgia-massachusetts-minnesota-oklahoma-tennessee-texas-vermont-vi.md) _(Current version)_
 
 ### Related:

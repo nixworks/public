@@ -37,7 +37,7 @@ _Context: Fairfax Media, Australian_
 
 ##### London
 ### [The largest stockholder of the London-based telecommunications firm Vodafone, institutional investor Orbis, ends its opposition to a planned acquisition by Vodafone of Cable & Wireless Worldwide; the deal now seems certain to go through. ](/news/2012/06/18/the-largest-stockholder-of-the-london-based-telecommunications-firm-vodafone-institutional-investor-orbis-ends-its-opposition-to-a-planned.md)
-_Context: London, Vodafone Group Plc, Cable & Wireless Worldwide_
+_Context: London, Cable & Wireless Worldwide, Vodafone Group Plc_
 
 ##### Iran
 ### [A new round of talks on nuclear power between Iran and six world powers opens in Moscow. ](/news/2012/06/18/a-new-round-of-talks-on-nuclear-power-between-iran-and-six-world-powers-opens-in-moscow.md)
@@ -53,7 +53,7 @@ World leaders meeting at a G20 summit in Mexico urge Europe to take all necessar
 
 ##### U.S. President
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)
-_Context: Vladimir Putin, U.S. President, Barack Obama, Iran, Russian President, Syrian uprising (2011-present)_
+_Context: Vladimir Putin, U.S. President, Iran, Syrian uprising (2011-present), Russian President, Barack Obama_
 
 ##### Rwanda
 ### [Rwanda's "gacaca courts", set up to try those responsible for playing a role in the 1994 Rwandan Genocide, finish their work. ](/news/2012/06/18/rwanda-s-gacaca-courts-set-up-to-try-those-responsible-for-playing-a-role-in-the-1994-rwandan-genocide-finish-their-work.md)
@@ -61,7 +61,7 @@ Survivors of the Rwandan genocide in 1994 say they are concerned about their saf
 
 ##### Major League Baseball
 ### [Former American Major League Baseball player Roger Clemens is acquitted on all charges in a perjury trial. ](/news/2012/06/18/former-american-major-league-baseball-player-roger-clemens-is-acquitted-on-all-charges-in-a-perjury-trial.md)
-_Context: Major League Baseball, Roger Clemens, perjury_
+_Context: perjury, Roger Clemens, Major League Baseball_
 
 ##### Prince Salman bin Abdulaziz
 ### [Prince Salman bin Abdulaziz is nominated as heir apparent of Saudi Arabia. ](/news/2012/06/18/prince-salman-bin-abdulaziz-is-nominated-as-heir-apparent-of-saudi-arabia.md)

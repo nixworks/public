@@ -17,8 +17,8 @@ The acclaimed slavery novel has been rewarded alongside Lynn Nottage’s factory
 
 ### Changes:
 
-1. [The ''New York Daily News'' and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement-by-police-targeting.md) _2017-08-25 03:47:42 (First version)_
-2. [2017 Pulitzer Prize: The "New York Daily News" and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/2017-pulitzer-prize-the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement.md) _2017-08-27 03:48:08 (Update)_
+1. [The ''New York Daily News'' and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement-by-police-targeting.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Pulitzer Prize: The "New York Daily News" and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/2017-pulitzer-prize-the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement.md) _2018-02-06 13:49:30 (Update)_
 2. [The "New York Daily News" and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement-by-police-targeting-m.md) _(Current version)_
 
 ### Related:

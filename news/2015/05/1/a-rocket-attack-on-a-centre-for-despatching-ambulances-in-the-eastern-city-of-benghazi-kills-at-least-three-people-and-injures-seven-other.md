@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/1/a-rocket-attack-on-a-centre-for-despatching-ambu
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A rocket attack on a centre for despatching ambulances in the eastern city of Benghazi kills at least three people and injures seven other. ](/news/2015/05/1/libyan-civil-war-2014-present-a-rocket-attack-on-a-centre-for-despatching-ambulances-in-the-eastern-city-of-benghazi-kills-at-least-thr.md) _2017-08-27 03:42:15 (First version)_
+1. [Libyan Civil War (2014-present): A rocket attack on a centre for despatching ambulances in the eastern city of Benghazi kills at least three people and injures seven other. ](/news/2015/05/1/libyan-civil-war-2014-present-a-rocket-attack-on-a-centre-for-despatching-ambulances-in-the-eastern-city-of-benghazi-kills-at-least-thr.md) _2018-02-06 13:49:27 (First version)_
 1. [A rocket attack on a centre for despatching ambulances in the eastern city of Benghazi kills at least three people and injures seven other. ](/news/2015/05/1/a-rocket-attack-on-a-centre-for-despatching-ambulances-in-the-eastern-city-of-benghazi-kills-at-least-three-people-and-injures-seven-other.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Binyamin Netanyahu makes U-turn to offer hard-right politician key cabinet job a
 
 ### Changes:
 
-1. [Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense.md) _2017-08-25 03:45:42 (First version)_
+1. [Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense.md) _2018-02-06 13:49:29 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense-min.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Canada and the EU sign the long-delayed Ceta free trade deal at a summit in Brus
 
 ### Changes:
 
-1. [Canada-European Union relations: Canadian Prime Minister Justin Trudeau and EU officials sign the Comprehensive Economic and Trade Agreement (CETA). ](/news/2016/10/30/canada-european-union-relations-canadian-prime-minister-justin-trudeau-and-eu-officials-sign-the-comprehensive-economic-and-trade-agreeme.md) _2017-08-27 03:47:09 (First version)_
+1. [Canada-European Union relations: Canadian Prime Minister Justin Trudeau and EU officials sign the Comprehensive Economic and Trade Agreement (CETA). ](/news/2016/10/30/canada-european-union-relations-canadian-prime-minister-justin-trudeau-and-eu-officials-sign-the-comprehensive-economic-and-trade-agreeme.md) _2018-02-06 13:49:29 (First version)_
 1. [Canadian Prime Minister Justin Trudeau and EU officials sign the Comprehensive Economic and Trade Agreement (CETA). ](/news/2016/10/30/canadian-prime-minister-justin-trudeau-and-eu-officials-sign-the-comprehensive-economic-and-trade-agreement-ceta.md) _(Current version)_
 
 ### Related:

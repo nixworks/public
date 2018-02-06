@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-wil
 
 ### Changes:
 
-1. [Papua New Guinean general election, 2017: Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/papua-new-guinean-general-election-2017-polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-memb.md) _2017-08-27 03:48:33 (First version)_
+1. [Papua New Guinean general election, 2017: Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/papua-new-guinean-general-election-2017-polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-memb.md) _2018-02-06 13:49:30 (First version)_
 1. [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md) _(Current version)_
 
 ### Related:

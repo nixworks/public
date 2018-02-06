@@ -11,7 +11,7 @@ As many as five suicide bombers attack a police headquarters in eastern Afghanis
 ### [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md)
 Troops free 20 hostages, the government says, as the resort is attacked by suspected jihadists.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md)
 At least 24 civilians were killed in an air raid Sunday on a market in northern Yemen, a medical official and witnesses said, blaming the Saudi-led coalition battling Yemeni rebels.
 

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-tha
 
 ### Changes:
 
-1. [Australia-Philippines relations, Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/australia-philippines-relations-presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-t.md) _2017-08-25 03:45:22 (First version)_
+1. [Australia-Philippines relations, Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/australia-philippines-relations-presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-their-ties-with-the-philippines-if.md) _(Current version)_
 
 ### Related:

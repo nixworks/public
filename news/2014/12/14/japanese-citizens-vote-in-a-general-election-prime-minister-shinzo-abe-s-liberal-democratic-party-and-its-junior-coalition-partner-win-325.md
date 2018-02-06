@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/14/japanese-citizens-vote-in-a-general-election-pr
 
 ### Changes:
 
-1. [Japanese general election, 2014: Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-general-election-2014-japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its.md) _2017-08-27 03:41:37 (First version)_
+1. [Japanese general election, 2014: Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-general-election-2014-japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its.md) _2018-02-06 13:49:26 (First version)_
 1. [Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its-junior-coalition-partner-win-325.md) _(Current version)_
 
 ### Related:

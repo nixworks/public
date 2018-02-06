@@ -21,7 +21,7 @@ _Context: Gabon, Gabonese presidential election_
 
 ##### Andromeda Galaxy
 ### [ Research indicates the Andromeda Galaxy appears to have expanded by digesting stars from other galaxies. ](/news/2009/09/3/research-indicates-the-andromeda-galaxy-appears-to-have-expanded-by-digesting-stars-from-other-galaxies.md)
-_Context: Andromeda Galaxy, galaxies, star_
+_Context: galaxies, star, Andromeda Galaxy_
 
 ##### Burma
 ### [ Burma's opposition leader Aung San Suu Kyi lodges an appeal against her conviction for breaching the terms of her house arrest. ](/news/2009/09/3/burma-s-opposition-leader-aung-san-suu-kyi-lodges-an-appeal-against-her-conviction-for-breaching-the-terms-of-her-house-arrest.md)
@@ -33,7 +33,7 @@ Family and friends of Michael Jackson will bid a final farewell on Thursday (Fri
 
 ##### China
 ### [ China's State Food and Drug Administration grants approval to a homegrown swine flu vaccine, which producer Sinovac Biotech claims is effective after only one dose. ](/news/2009/09/3/china-s-state-food-and-drug-administration-grants-approval-to-a-homegrown-swine-flu-vaccine-which-producer-sinovac-biotech-claims-is-effec.md)
-_Context: China, Sinovac Biotech, swine flu, State Food and Drug Administration_
+_Context: State Food and Drug Administration, swine flu, Sinovac Biotech, China_
 
 ##### Xinjiang
 ### [ Fresh protests are reported in the province of Xinjiang in western China, after a series of stabbings with hypodermic needles. ](/news/2009/09/3/fresh-protests-are-reported-in-the-province-of-xinjiang-in-western-china-after-a-series-of-stabbings-with-hypodermic-needles.md)

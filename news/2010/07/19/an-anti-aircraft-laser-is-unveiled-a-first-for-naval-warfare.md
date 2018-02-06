@@ -18,9 +18,9 @@ US defence firm Raytheon unveils a solid state, anti-aircraft laser system at th
 
 ### Changes:
 
-1. [Farnborough Airshow, Hampshire, England:An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-pan-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _2017-05-01 03:30:33 (First version)_
-2. [Farnborough Airshow, An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _2017-08-25 03:28:52 (Update)_
-3. [Farnborough Airshow, Hampshire: England: An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _2017-08-27 03:28:54 (Update)_
+1. [Farnborough Airshow, Hampshire, England:An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-pan-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _2018-02-06 13:49:20 (First version)_
+2. [Farnborough Airshow, Hampshire: England: An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _2018-02-06 13:49:20 (Update)_
+3. [Farnborough Airshow, An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _2018-02-06 13:49:20 (Update)_
 3. [An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _(Current version)_
 
 ### Related:

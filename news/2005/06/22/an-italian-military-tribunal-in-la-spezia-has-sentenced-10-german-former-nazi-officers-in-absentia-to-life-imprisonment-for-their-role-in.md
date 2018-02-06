@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-s
 
 ### Changes:
 
-1. [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers ''in absentia'' to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role.md) _2017-08-25 03:16:25 (First version)_
+1. [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers ''in absentia'' to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role.md) _2018-02-06 13:49:16 (First version)_
 1. [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers "in absentia" to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role-in.md) _(Current version)_
 
 ### Related:

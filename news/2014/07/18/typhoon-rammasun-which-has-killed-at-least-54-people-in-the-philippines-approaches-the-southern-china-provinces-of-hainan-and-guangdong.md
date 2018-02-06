@@ -17,8 +17,8 @@ A super typhoon slammed into China on Friday killing one person, as the governme
 
 ### Changes:
 
-1. [2014 Pacific typhoon season:Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/2014-pacific-typhoon-season-ptyphoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provinc.md) _2017-08-25 03:40:42 (First version)_
-2. [2014 Pacific typhoon season:: Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/2014-pacific-typhoon-season-typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provin.md) _2017-08-27 03:41:00 (Update)_
+1. [2014 Pacific typhoon season:: Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/2014-pacific-typhoon-season-typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provin.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Pacific typhoon season:Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/2014-pacific-typhoon-season-ptyphoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provinc.md) _2018-02-06 13:49:26 (Update)_
 2. [Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provinces-of-hainan-and-guangdong.md) _(Current version)_
 
 ### Related:

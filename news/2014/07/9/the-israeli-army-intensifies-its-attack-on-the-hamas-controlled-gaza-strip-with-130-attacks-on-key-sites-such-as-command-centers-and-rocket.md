@@ -17,7 +17,7 @@ Israel vows to ramp up warplane strikes against Hamas militants, as the death to
 
 ### Changes:
 
-1. [Gaza-Israel conflict: The Israeli Army intensifies its attack on the Hamas controlled Gaza Strip with 130 attacks on key sites such as command centers and rocket launchers after over 250 rockets and mortars were fired into Israel over the past week. Hamas rockets reached over 100 km into Israeli territory. ](/news/2014/07/9/gaza-israel-conflict-the-israeli-army-intensifies-its-attack-on-the-hamas-controlled-gaza-strip-with-130-attacks-on-key-sites-such-as-com.md) _2017-08-27 03:40:57 (First version)_
+1. [Gaza-Israel conflict: The Israeli Army intensifies its attack on the Hamas controlled Gaza Strip with 130 attacks on key sites such as command centers and rocket launchers after over 250 rockets and mortars were fired into Israel over the past week. Hamas rockets reached over 100 km into Israeli territory. ](/news/2014/07/9/gaza-israel-conflict-the-israeli-army-intensifies-its-attack-on-the-hamas-controlled-gaza-strip-with-130-attacks-on-key-sites-such-as-com.md) _2018-02-06 13:49:26 (First version)_
 1. [The Israeli Army intensifies its attack on the Hamas controlled Gaza Strip with 130 attacks on key sites such as command centers and rocket launchers after over 250 rockets and mortars were fired into Israel over the past week. Hamas rockets reached over 100 km into Israeli territory. ](/news/2014/07/9/the-israeli-army-intensifies-its-attack-on-the-hamas-controlled-gaza-strip-with-130-attacks-on-key-sites-such-as-command-centers-and-rocket.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/11/6/anti-semitism-with-approval-of-official-state-ce
 
 ### Changes:
 
-1. [Anti-Semitism: With approval of official state censors, Egyptian television broadcast the first episode of a miniseries, ''Horseman Without a Horse'', based upon the debunked ''Protocols of the Elders of Zion''. It airs at the hour that Egyptian families gather together to break their fast during the fasting month of Ramadan.](/news/2002/11/6/anti-semitism-with-approval-of-official-state-censors-egyptian-television-broadcast-the-first-episode-of-a-miniseries-horseman-without.md) _2017-08-25 03:15:16 (First version)_
+1. [Anti-Semitism: With approval of official state censors, Egyptian television broadcast the first episode of a miniseries, ''Horseman Without a Horse'', based upon the debunked ''Protocols of the Elders of Zion''. It airs at the hour that Egyptian families gather together to break their fast during the fasting month of Ramadan.](/news/2002/11/6/anti-semitism-with-approval-of-official-state-censors-egyptian-television-broadcast-the-first-episode-of-a-miniseries-horseman-without.md) _2018-02-06 13:49:15 (First version)_
 1. [Anti-Semitism: With approval of official state censors, Egyptian television broadcast the first episode of a miniseries, "Horseman Without a Horse", based upon the debunked "Protocols of the Elders of Zion". It airs at the hour that Egyptian families gather together to break their fast during the fasting month of Ramadan.](/news/2002/11/6/anti-semitism-with-approval-of-official-state-censors-egyptian-television-broadcast-the-first-episode-of-a-miniseries-horseman-without-a.md) _(Current version)_
 
 ### Related:

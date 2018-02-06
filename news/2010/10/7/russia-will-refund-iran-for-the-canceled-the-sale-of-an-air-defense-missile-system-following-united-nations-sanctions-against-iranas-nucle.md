@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sal
 
 ### Changes:
 
-1. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nuc.md) _2017-08-25 03:30:23 (First version)_
-2. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran-s nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iran-s-nucle.md) _2017-08-27 03:30:28 (Update)_
+1. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nuc.md) _2018-02-06 13:49:21 (First version)_
+2. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran-s nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iran-s-nucle.md) _2018-02-06 13:49:21 (Update)_
 2. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md) _(Current version)_
 
 ### Related:

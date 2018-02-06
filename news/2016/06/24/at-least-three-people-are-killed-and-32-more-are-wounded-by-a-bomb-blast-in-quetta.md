@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-ar
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/war-in-north-west-pakistan-at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md) _2017-08-27 03:46:20 (First version)_
+1. [War in North-West Pakistan: At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/war-in-north-west-pakistan-at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md) _2018-02-06 13:49:29 (First version)_
 1. [At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md) _(Current version)_
 
 ### Related:

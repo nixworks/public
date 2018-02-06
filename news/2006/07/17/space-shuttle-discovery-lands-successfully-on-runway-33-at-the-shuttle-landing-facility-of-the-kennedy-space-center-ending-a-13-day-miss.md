@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/17/space-shuttle-discovery-lands-successfully-on-r
 
 ### Changes:
 
-1. [ Space Shuttle ''Discovery'' lands successfully on Runway 33 at the Shuttle Landing Facility of the Kennedy Space Center, ending a 13-day mission to the International Space Station. ](/news/2006/07/17/space-shuttle-discovery-lands-successfully-on-runway-33-at-the-shuttle-landing-facility-of-the-kennedy-space-center-ending-a-13-day-mi.md) _2017-08-25 03:18:03 (First version)_
+1. [ Space Shuttle ''Discovery'' lands successfully on Runway 33 at the Shuttle Landing Facility of the Kennedy Space Center, ending a 13-day mission to the International Space Station. ](/news/2006/07/17/space-shuttle-discovery-lands-successfully-on-runway-33-at-the-shuttle-landing-facility-of-the-kennedy-space-center-ending-a-13-day-mi.md) _2018-02-06 13:49:17 (First version)_
 1. [ Space Shuttle "Discovery" lands successfully on Runway 33 at the Shuttle Landing Facility of the Kennedy Space Center, ending a 13-day mission to the International Space Station. ](/news/2006/07/17/space-shuttle-discovery-lands-successfully-on-runway-33-at-the-shuttle-landing-facility-of-the-kennedy-space-center-ending-a-13-day-miss.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A U.S. federal judge on Monday for the first time ordered the National Security 
 
 ### Changes:
 
-1. [Federal district court judge Richard Leon rules the National Security Agency-s bulk collection of U.S. phone records is unconstitutional. This ruling has limited impact since it applies to only one case, and the NSA is scheduled to replace this protocol with a more targeted system the end of this month. ](/news/2015/11/9/federal-district-court-judge-richard-leon-rules-the-national-security-agency-s-bulk-collection-of-u-s-phone-records-is-unconstitutional.md) _2017-08-27 03:43:45 (First version)_
+1. [Federal district court judge Richard Leon rules the National Security Agency-s bulk collection of U.S. phone records is unconstitutional. This ruling has limited impact since it applies to only one case, and the NSA is scheduled to replace this protocol with a more targeted system the end of this month. ](/news/2015/11/9/federal-district-court-judge-richard-leon-rules-the-national-security-agency-s-bulk-collection-of-u-s-phone-records-is-unconstitutional.md) _2018-02-06 13:49:28 (First version)_
 1. [Federal district court judge Richard Leon rules the National Security Agency's bulk collection of U.S. phone records is unconstitutional. This ruling has limited impact since it applies to only one case, and the NSA is scheduled to replace this protocol with a more targeted system the end of this month. ](/news/2015/11/9/federal-district-court-judge-richard-leon-rules-the-national-security-agencyas-bulk-collection-of-u-s-phone-records-is-unconstitutional.md) _(Current version)_
 
 ### Related:

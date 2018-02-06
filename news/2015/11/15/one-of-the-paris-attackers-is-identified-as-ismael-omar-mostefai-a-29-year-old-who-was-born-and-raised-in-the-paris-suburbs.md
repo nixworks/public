@@ -19,7 +19,7 @@ A clearer picture of Omar Ismail Mostefai, one of the Bataclan attackers, is sta
 
 ### Changes:
 
-1. [November 2015 Paris attacks: One of the Paris attackers is identified as Ismael Omar Mostefai, a 29-year-old who was born and raised in the Paris suburbs. ](/news/2015/11/15/november-2015-paris-attacks-one-of-the-paris-attackers-is-identified-as-ismael-omar-mostefai-a-29-year-old-who-was-born-and-raised-in-the.md) _2017-08-27 03:43:52 (First version)_
+1. [November 2015 Paris attacks: One of the Paris attackers is identified as Ismael Omar Mostefai, a 29-year-old who was born and raised in the Paris suburbs. ](/news/2015/11/15/november-2015-paris-attacks-one-of-the-paris-attackers-is-identified-as-ismael-omar-mostefai-a-29-year-old-who-was-born-and-raised-in-the.md) _2018-02-06 13:49:28 (First version)_
 1. [One of the Paris attackers is identified as Ismael Omar Mostefai, a 29-year-old who was born and raised in the Paris suburbs. ](/news/2015/11/15/one-of-the-paris-attackers-is-identified-as-ismael-omar-mostefai-a-29-year-old-who-was-born-and-raised-in-the-paris-suburbs.md) _(Current version)_
 
 ### Related:

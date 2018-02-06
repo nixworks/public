@@ -21,7 +21,7 @@ An explosion and fire killed one person and injured 73 at the Williams Olefins c
 
 ##### BRCA gene
 ### [United States Supreme Court rules that isolated human genes are not patentable, invalidating BRCA gene patents held by Myriad Genetics. ](/news/2013/06/13/united-states-supreme-court-rules-that-isolated-human-genes-are-not-patentable-invalidating-brca-gene-patents-held-by-myriad-genetics.md)
-_Context: BRCA gene, Myriad Genetics_
+_Context: Myriad Genetics, BRCA gene_
 
 ##### Kidnap
 ### [Kidnapped British engineer Malcolm Primrose is found safe in Indonesia. ](/news/2013/06/13/kidnapped-british-engineer-malcolm-primrose-is-found-safe-in-indonesia.md)
@@ -37,7 +37,7 @@ Several officials, including a top aide to Prime Minister Petr Necas, are report
 
 ##### Salcaja
 ### [Gunmen ambush and kill eight police officers and kidnap the chief of police in Salcaja, Guatemala. ](/news/2013/06/13/gunmen-ambush-and-kill-eight-police-officers-and-kidnap-the-chief-of-police-in-salcaja-guatemala.md)
-_Context: Guatemala, Salcaja_
+_Context: Salcaja, Guatemala_
 
 ##### Dale Cregan
 ### [British gangster Dale Cregan is sentenced to a whole life tariff for the murders of four people, including two police officers. ](/news/2013/06/13/british-gangster-dale-cregan-is-sentenced-to-a-whole-life-tariff-for-the-murders-of-four-people-including-two-police-officers.md)
@@ -45,7 +45,7 @@ Dale Cregan will spend the rest of his life in jail for four murders including t
 
 ##### Zimbabwe
 ### [The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". ](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.md)
-_Context: Morgan Tsvangirai, Zimbabwe, Robert Mugabe, recent elections_
+_Context: Zimbabwe, Robert Mugabe, Morgan Tsvangirai, recent elections_
 
 ## [Previous Day...](/news/2013/06/12/index.md)
 

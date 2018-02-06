@@ -20,8 +20,8 @@ Pakistan has welcomed flood aid from its neighbour India, as the countries look 
 
 ### Changes:
 
-1. [2010 Pakistan floods:After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-pafter-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very-w.md) _2017-08-25 03:29:35 (First version)_
-2. [2010 Pakistan floods:: After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-after-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very.md) _2017-08-27 03:29:39 (Update)_
+1. [2010 Pakistan floods:After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-pafter-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very-w.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:: After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-after-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very.md) _2018-02-06 13:49:20 (Update)_
 2. [After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/after-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very-welcome-initiative.md) _(Current version)_
 
 ### Related:

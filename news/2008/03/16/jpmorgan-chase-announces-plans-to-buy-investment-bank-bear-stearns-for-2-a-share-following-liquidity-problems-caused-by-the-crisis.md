@@ -17,8 +17,8 @@ The Fed approved a $30 billion loan for the takeover of Bear Stearns and announc
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-p-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md) _2017-08-25 03:21:55 (First version)_
-2. [ Subprime mortgage crisis:: JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md) _2017-08-27 03:21:50 (Update)_
+1. [ Subprime mortgage crisis: JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-p-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md) _2018-02-06 13:49:18 (First version)_
+2. [ Subprime mortgage crisis:: JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md) _2018-02-06 13:49:18 (Update)_
 2. [ JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-caused-by-the-crisis.md) _(Current version)_
 
 ### Related:

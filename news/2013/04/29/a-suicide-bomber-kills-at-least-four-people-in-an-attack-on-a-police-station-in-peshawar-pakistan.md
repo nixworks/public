@@ -16,8 +16,8 @@ Pakistani authorities say a suicide bomber targeting policemen has killed four p
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide bomber kills at least four people in an attack on a police station in Peshawar, Pakistan. ](/news/2013/04/29/war-in-north-west-pakistan-pa-suicide-bomber-kills-at-least-four-people-in-an-attack-on-a-police-station-in-peshawar-pakistan.md) _2017-08-25 03:38:30 (First version)_
-2. [War in North-West Pakistan:: A suicide bomber kills at least four people in an attack on a police station in Peshawar, Pakistan. ](/news/2013/04/29/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-four-people-in-an-attack-on-a-police-station-in-peshawar-pakistan.md) _2017-08-27 03:38:43 (Update)_
+1. [War in North-West Pakistan:A suicide bomber kills at least four people in an attack on a police station in Peshawar, Pakistan. ](/news/2013/04/29/war-in-north-west-pakistan-pa-suicide-bomber-kills-at-least-four-people-in-an-attack-on-a-police-station-in-peshawar-pakistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A suicide bomber kills at least four people in an attack on a police station in Peshawar, Pakistan. ](/news/2013/04/29/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-four-people-in-an-attack-on-a-police-station-in-peshawar-pakistan.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber kills at least four people in an attack on a police station in Peshawar, Pakistan. ](/news/2013/04/29/a-suicide-bomber-kills-at-least-four-people-in-an-attack-on-a-police-station-in-peshawar-pakistan.md) _(Current version)_
 
 ### Related:

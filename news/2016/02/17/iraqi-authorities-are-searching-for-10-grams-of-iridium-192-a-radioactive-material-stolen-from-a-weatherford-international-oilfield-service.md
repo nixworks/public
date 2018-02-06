@@ -17,7 +17,7 @@ Iraq is searching for &quot;highly dangerous&quot; radioactive material whose th
 
 ### Changes:
 
-1. [Iraqi authorities are searching for 10 grams of iridium-192, a radioactive material stolen from a Weatherford International oilfield services facility near Basra in November 2015. Authorities are concerned about its potential use by Islamic State, or the like, to develop a dirty bomb weapon. ](/news/2016/02/17/iraqi-authorities-are-searching-for-10-grams-of-iridium-192-a-radioactive-material-stolen-from-a-weatherford-international-oilfield-servic.md) _2017-08-25 03:44:35 (First version)_
+1. [Iraqi authorities are searching for 10 grams of iridium-192, a radioactive material stolen from a Weatherford International oilfield services facility near Basra in November 2015. Authorities are concerned about its potential use by Islamic State, or the like, to develop a dirty bomb weapon. ](/news/2016/02/17/iraqi-authorities-are-searching-for-10-grams-of-iridium-192-a-radioactive-material-stolen-from-a-weatherford-international-oilfield-servic.md) _2018-02-06 13:49:28 (First version)_
 1. [Iraqi authorities are searching for 10 grams of iridium-192, a radioactive material stolen from a Weatherford International oilfield services facility near Basra in November 2015. Authorities are concerned about its potential use by Islamic State, or the like, to develop a dirty bomb weapon. ](/news/2016/02/17/iraqi-authorities-are-searching-for-10-grams-of-iridium-192-a-radioactive-material-stolen-from-a-weatherford-international-oilfield-service.md) _(Current version)_
 
 ### Related:

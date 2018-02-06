@@ -16,7 +16,7 @@ The US investigates reports that it killed dozens of civilians but denies it hit
 
 ### Changes:
 
-1. [Syrian Civil War: 2017 al-Jina mosque airstrike: An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/syrian-civil-war-2017-al-jina-mosque-airstrike-an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al.md) _2017-08-27 03:47:59 (First version)_
+1. [Syrian Civil War: 2017 al-Jina mosque airstrike: An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/syrian-civil-war-2017-al-jina-mosque-airstrike-an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al.md) _2018-02-06 13:49:30 (First version)_
 1. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _(Current version)_
 
 ### Related:

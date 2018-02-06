@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-stati
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/iraqi-civil-war-2014-present-a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-be.md) _2017-08-27 03:46:01 (First version)_
+1. [Iraqi Civil War (2014-present): A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/iraqi-civil-war-2014-present-a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-be.md) _2018-02-06 13:49:29 (First version)_
 1. [A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-been-killed-and-165-injured-in-the-d.md) _(Current version)_
 
 ### Related:

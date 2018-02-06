@@ -18,8 +18,8 @@ Formats: [HTML](/news/2006/02/18/france-orders-mass-inoculation-of-domestic-fowl
 
 ### Changes:
 
-1. [ H5N1 Avian influenza crisis: France orders mass inoculation of domestic fowl following the discovery of an infected dead duck near Lyon. ](/news/2006/02/18/h5n1-avian-influenza-crisis-p-france-orders-mass-inoculation-of-domestic-fowl-following-the-discovery-of-an-infected-dead-duck-near-lyon.md) _2017-08-25 03:17:28 (First version)_
-2. [ H5N1 Avian influenza crisis:: France orders mass inoculation of domestic fowl following the discovery of an infected dead duck near Lyon. ](/news/2006/02/18/h5n1-avian-influenza-crisis-france-orders-mass-inoculation-of-domestic-fowl-following-the-discovery-of-an-infected-dead-duck-near-lyon.md) _2017-08-27 03:17:27 (Update)_
+1. [ H5N1 Avian influenza crisis: France orders mass inoculation of domestic fowl following the discovery of an infected dead duck near Lyon. ](/news/2006/02/18/h5n1-avian-influenza-crisis-p-france-orders-mass-inoculation-of-domestic-fowl-following-the-discovery-of-an-infected-dead-duck-near-lyon.md) _2018-02-06 13:49:16 (First version)_
+2. [ H5N1 Avian influenza crisis:: France orders mass inoculation of domestic fowl following the discovery of an infected dead duck near Lyon. ](/news/2006/02/18/h5n1-avian-influenza-crisis-france-orders-mass-inoculation-of-domestic-fowl-following-the-discovery-of-an-infected-dead-duck-near-lyon.md) _2018-02-06 13:49:16 (Update)_
 2. [ France orders mass inoculation of domestic fowl following the discovery of an infected dead duck near Lyon. ](/news/2006/02/18/france-orders-mass-inoculation-of-domestic-fowl-following-the-discovery-of-an-infected-dead-duck-near-lyon.md) _(Current version)_
 
 ### Related:

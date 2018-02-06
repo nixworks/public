@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/24/a-gunman-kills-two-sheriff-s-deputies-and-wound
 
 ### Changes:
 
-1. [2014 shooting of Sacramento police officers: A gunman kills two sheriff's deputies and wounds an officer and a bystander in Sacramento County, California, then is arrested. ](/news/2014/10/24/2014-shooting-of-sacramento-police-officers-a-gunman-kills-two-sheriff-s-deputies-and-wounds-an-officer-and-a-bystander-in-sacramento-count.md) _2017-08-27 03:41:26 (First version)_
+1. [2014 shooting of Sacramento police officers: A gunman kills two sheriff's deputies and wounds an officer and a bystander in Sacramento County, California, then is arrested. ](/news/2014/10/24/2014-shooting-of-sacramento-police-officers-a-gunman-kills-two-sheriff-s-deputies-and-wounds-an-officer-and-a-bystander-in-sacramento-count.md) _2018-02-06 13:49:26 (First version)_
 1. [A gunman kills two sheriff's deputies and wounds an officer and a bystander in Sacramento County, California, then is arrested. ](/news/2014/10/24/a-gunman-kills-two-sheriff-s-deputies-and-wounds-an-officer-and-a-bystander-in-sacramento-county-california-then-is-arrested.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/03/16/the-death-toll-from-the-japanese-earthquake-and
 
 ### Changes:
 
-1. [Japanese earthquake and tsunami:The death toll from the Japanese earthquake and tsunami rises to 4,277 with at least 8,194 missing. ](/news/2011/03/16/japanese-earthquake-and-tsunami-pthe-death-toll-from-the-japanese-earthquake-and-tsunami-rises-to-4-277-with-at-least-8-194-missing.md) _2017-08-25 03:32:33 (First version)_
-2. [Japanese earthquake and tsunami:: The death toll from the Japanese earthquake and tsunami rises to 4,277 with at least 8,194 missing. ](/news/2011/03/16/japanese-earthquake-and-tsunami-the-death-toll-from-the-japanese-earthquake-and-tsunami-rises-to-4-277-with-at-least-8-194-missing.md) _2017-08-27 03:32:41 (Update)_
+1. [Japanese earthquake and tsunami:: The death toll from the Japanese earthquake and tsunami rises to 4,277 with at least 8,194 missing. ](/news/2011/03/16/japanese-earthquake-and-tsunami-the-death-toll-from-the-japanese-earthquake-and-tsunami-rises-to-4-277-with-at-least-8-194-missing.md) _2018-02-06 13:49:22 (First version)_
+2. [Japanese earthquake and tsunami:The death toll from the Japanese earthquake and tsunami rises to 4,277 with at least 8,194 missing. ](/news/2011/03/16/japanese-earthquake-and-tsunami-pthe-death-toll-from-the-japanese-earthquake-and-tsunami-rises-to-4-277-with-at-least-8-194-missing.md) _2018-02-06 13:49:22 (Update)_
 2. [The death toll from the Japanese earthquake and tsunami rises to 4,277 with at least 8,194 missing. ](/news/2011/03/16/the-death-toll-from-the-japanese-earthquake-and-tsunami-rises-to-4-277-with-at-least-8-194-missing.md) _(Current version)_
 
 ### Related:

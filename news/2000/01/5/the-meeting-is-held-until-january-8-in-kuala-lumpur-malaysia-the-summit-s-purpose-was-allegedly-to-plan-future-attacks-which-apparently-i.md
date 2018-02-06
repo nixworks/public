@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/5/the-meeting-is-held-until-january-8-in-kuala-lum
 
 ### Changes:
 
-1. [2000 al-Qaeda Summit: The meeting is held until January 8 in Kuala Lumpur, Malaysia. The summit's purpose was allegedly to plan future attacks, which apparently included the bombing of the USS Cole on October 12, 2000 and the September 11 attacks in 2001.](/news/2000/01/5/2000-al-qaeda-summit-the-meeting-is-held-until-january-8-in-kuala-lumpur-malaysia-the-summit-s-purpose-was-allegedly-to-plan-future-attac.md) _2017-08-27 03:15:07 (First version)_
+1. [2000 al-Qaeda Summit: The meeting is held until January 8 in Kuala Lumpur, Malaysia. The summit's purpose was allegedly to plan future attacks, which apparently included the bombing of the USS Cole on October 12, 2000 and the September 11 attacks in 2001.](/news/2000/01/5/2000-al-qaeda-summit-the-meeting-is-held-until-january-8-in-kuala-lumpur-malaysia-the-summit-s-purpose-was-allegedly-to-plan-future-attac.md) _2018-02-06 13:49:15 (First version)_
 1. [The meeting is held until January 8 in Kuala Lumpur, Malaysia. The summit's purpose was allegedly to plan future attacks, which apparently included the bombing of the USS Cole on October 12, 2000 and the September 11 attacks in 2001.](/news/2000/01/5/the-meeting-is-held-until-january-8-in-kuala-lumpur-malaysia-the-summit-s-purpose-was-allegedly-to-plan-future-attacks-which-apparently-i.md) _(Current version)_
 
 ### Related:

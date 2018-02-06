@@ -16,7 +16,7 @@ The bodies of two additional soldiers were found Thursday night, bringing the to
 
 ### Changes:
 
-1. [May 2016 United States storm complex: At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/may-2016-united-states-storm-complex-at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tac.md) _2017-08-27 03:46:11 (First version)_
+1. [May 2016 United States storm complex: At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/may-2016-united-states-storm-complex-at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tac.md) _2018-02-06 13:49:29 (First version)_
 1. [At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tactical-vehicle-overturns-near-fort-hood.md) _(Current version)_
 
 ### Related:

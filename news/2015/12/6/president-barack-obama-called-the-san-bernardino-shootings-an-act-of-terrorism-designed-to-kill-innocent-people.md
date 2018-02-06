@@ -16,7 +16,7 @@ President Obama on Sunday called the San Bernardino massacre &quot;an act of ter
 
 ### Changes:
 
-1. [2015 San Bernardino shooting: President Barack Obama called the San Bernardino shootings "an act of terrorism designed to kill innocent people". ](/news/2015/12/6/2015-san-bernardino-shooting-president-barack-obama-called-the-san-bernardino-shootings-an-act-of-terrorism-designed-to-kill-innocent-peop.md) _2017-08-27 03:44:12 (First version)_
+1. [2015 San Bernardino shooting: President Barack Obama called the San Bernardino shootings "an act of terrorism designed to kill innocent people". ](/news/2015/12/6/2015-san-bernardino-shooting-president-barack-obama-called-the-san-bernardino-shootings-an-act-of-terrorism-designed-to-kill-innocent-peop.md) _2018-02-06 13:49:28 (First version)_
 1. [President Barack Obama called the San Bernardino shootings "an act of terrorism designed to kill innocent people". ](/news/2015/12/6/president-barack-obama-called-the-san-bernardino-shootings-an-act-of-terrorism-designed-to-kill-innocent-people.md) _(Current version)_
 
 ### Related:

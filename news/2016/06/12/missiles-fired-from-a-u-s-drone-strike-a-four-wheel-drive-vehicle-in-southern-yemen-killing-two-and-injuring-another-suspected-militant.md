@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-w
 
 ### Changes:
 
-1. [Yemeni civil war: Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/yemeni-civil-war-missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-s.md) _2017-08-27 03:46:14 (First version)_
+1. [Yemeni civil war: Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/yemeni-civil-war-missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-suspected-militant.md) _(Current version)_
 
 ### Related:

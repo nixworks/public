@@ -18,7 +18,7 @@ Russia denounces an &quot;absurd&quot; trade bill passed by the US Congress that
 
 ### Changes:
 
-1. [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jackson-vanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md) _2017-08-27 03:37:07 (First version)_
+1. [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jackson-vanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md) _2018-02-06 13:49:24 (First version)_
 1. [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jacksonavanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md) _(Current version)_
 
 ### Related:

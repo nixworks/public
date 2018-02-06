@@ -18,7 +18,7 @@ Police in Bangkok charge a man in connection with the bomb attack that killed 20
 
 ### Changes:
 
-1. [2015 Bangkok bombing: Thai police report a man with a fake passport has been arrested in a Bangkok suburb in connection with the Erawan Shrine bombing. The man was allegedly in possession of bomb making material and dozens of passports. ](/news/2015/08/29/2015-bangkok-bombing-thai-police-report-a-man-with-a-fake-passport-has-been-arrested-in-a-bangkok-suburb-in-connection-with-the-erawan-shri.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Bangkok bombing: Thai police report a man with a fake passport has been arrested in a Bangkok suburb in connection with the Erawan Shrine bombing. The man was allegedly in possession of bomb making material and dozens of passports. ](/news/2015/08/29/2015-bangkok-bombing-thai-police-report-a-man-with-a-fake-passport-has-been-arrested-in-a-bangkok-suburb-in-connection-with-the-erawan-shri.md) _2018-02-06 13:49:27 (First version)_
 1. [Thai police report a man with a fake passport has been arrested in a Bangkok suburb in connection with the Erawan Shrine bombing. The man was allegedly in possession of bomb making material and dozens of passports. ](/news/2015/08/29/thai-police-report-a-man-with-a-fake-passport-has-been-arrested-in-a-bangkok-suburb-in-connection-with-the-erawan-shrine-bombing-the-man-wa.md) _(Current version)_
 
 ### Related:

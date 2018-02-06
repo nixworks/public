@@ -16,7 +16,7 @@ At a climate meeting in Brazil, the bank agreed to help cities pay for projects 
 
 ### Changes:
 
-1. [The 2011 Large Cities Climate Leadership Group "C40" summit concludes in Sao Paulo. ](/news/2011/06/2/the-2011-large-cities-climate-leadership-group-c40-summit-concludes-in-sapso-paulo.md) _2017-08-25 03:33:21 (First version)_
+1. [The 2011 Large Cities Climate Leadership Group "C40" summit concludes in Sao Paulo. ](/news/2011/06/2/the-2011-large-cities-climate-leadership-group-c40-summit-concludes-in-sapso-paulo.md) _2018-02-06 13:49:22 (First version)_
 1. [The 2011 Large Cities Climate Leadership Group "C40" summit concludes in SGBPo Paulo. ](/news/2011/06/2/the-2011-large-cities-climate-leadership-group-c40-summit-concludes-in-sagbpo-paulo.md) _(Current version)_
 
 ### Related:

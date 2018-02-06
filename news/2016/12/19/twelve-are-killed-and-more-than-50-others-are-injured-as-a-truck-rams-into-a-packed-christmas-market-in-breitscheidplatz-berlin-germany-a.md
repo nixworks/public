@@ -17,7 +17,7 @@ Fingerprints from a Tunisian suspect have been found inside the truck that smash
 
 ### Changes:
 
-1. [2016 Berlin attack: Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/2016-berlin-attack-twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz.md) _2017-08-27 03:47:28 (First version)_
+1. [2016 Berlin attack: Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/2016-berlin-attack-twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz.md) _2018-02-06 13:49:30 (First version)_
 1. [Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.md) _(Current version)_
 
 ### Related:

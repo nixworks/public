@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close
 
 ### Changes:
 
-1. [Battle of Mogadishu (2010):Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-pal-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md) _2017-08-25 03:29:39 (First version)_
-2. [Battle of Mogadishu (2010):: Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md) _2017-08-27 03:29:43 (Update)_
+1. [Battle of Mogadishu (2010):Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-pal-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md) _2018-02-06 13:49:20 (First version)_
+2. [Battle of Mogadishu (2010):: Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md) _2018-02-06 13:49:20 (Update)_
 2. [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md) _(Current version)_
 
 ### Related:

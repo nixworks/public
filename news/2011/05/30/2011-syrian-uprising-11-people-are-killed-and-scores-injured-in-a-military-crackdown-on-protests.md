@@ -19,8 +19,8 @@ Four Yemeni soldiers were killed and dozens injured in what appeared to be an am
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising:11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-p2011-syrian-uprising-p11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md) _2017-08-25 03:33:18 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising:: 11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-2011-syrian-uprising-11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md) _2017-08-27 03:33:27 (Update)_
+1. [Arab Spring:2011 Syrian uprising:11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-p2011-syrian-uprising-p11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising:: 11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-2011-syrian-uprising-11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising:11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/2011-syrian-uprising-11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md) _(Current version)_
 
 ### Related:

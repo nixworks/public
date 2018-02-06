@@ -16,7 +16,7 @@ President Barack Obama announced Thursday that former Federal Reserve Chairman P
 
 ### Changes:
 
-1. [Paul Volcker steps down as the head of U.S. President Barack Obama's advisory panel, the Economic Recovery Advisory Board. Volcker, a former chairman of the Federal Reserve, was the guiding force behind recent legislation pressing investment banks to spin off their proprietary trading and branded hedge funds. ](/news/2011/01/21/paul-volcker-steps-down-as-the-head-of-u-s-president-barack-obama-s-advisory-panel-the-economic-recovery-advisory-board-volcker-a-forme.md) _2017-08-25 03:31:52 (First version)_
+1. [Paul Volcker steps down as the head of U.S. President Barack Obama's advisory panel, the Economic Recovery Advisory Board. Volcker, a former chairman of the Federal Reserve, was the guiding force behind recent legislation pressing investment banks to spin off their proprietary trading and branded hedge funds. ](/news/2011/01/21/paul-volcker-steps-down-as-the-head-of-u-s-president-barack-obama-s-advisory-panel-the-economic-recovery-advisory-board-volcker-a-forme.md) _2018-02-06 13:49:21 (First version)_
 1. [Paul Volcker steps down as the head of U.S. President Barack Obama's advisory panel, the Economic Recovery Advisory Board. Volcker, a former chairman of the Federal Reserve, was the guiding force behind recent legislation pressing investment banks to spin off their proprietary trading and branded hedge funds. ](/news/2011/01/21/paul-volcker-steps-down-as-the-head-of-u-s-president-barack-obama-s-advisory-panel-the-economic-recovery-advisory-board-volcker-a-former.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ More than 50 members of theWorld Trade Organization signed an agreement on Wedne
 
 ### Changes:
 
-1. [As many as 53 members of the World Trade Organization sign an agreement in Nairobi, Kenya, to remove import tariffs on 201 information technology products that account for trade of $1.3 trillion annually. ](/news/2015/12/16/as-many-as-53-members-of-the-world-trade-organization-sign-an-agreement-in-nairobi-kenya-to-remove-import-tariffs-on-201-information-tech.md) _2017-08-25 03:44:01 (First version)_
+1. [As many as 53 members of the World Trade Organization sign an agreement in Nairobi, Kenya, to remove import tariffs on 201 information technology products that account for trade of $1.3 trillion annually. ](/news/2015/12/16/as-many-as-53-members-of-the-world-trade-organization-sign-an-agreement-in-nairobi-kenya-to-remove-import-tariffs-on-201-information-tech.md) _2018-02-06 13:49:28 (First version)_
 1. [As many as 53 members of the World Trade Organization sign an agreement in Nairobi, Kenya, to remove import tariffs on 201 information technology products that account for trade of $1.3 trillion annually. ](/news/2015/12/16/as-many-as-53-members-of-the-world-trade-organization-sign-an-agreement-in-nairobi-kenya-to-remove-import-tariffs-on-201-information-techn.md) _(Current version)_
 
 ### Related:

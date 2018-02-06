@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/04/5/amidst-violence-voters-in-afghanistan-elect-a-ne
 
 ### Changes:
 
-1. [Afghan presidential election, 2014:Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/afghan-presidential-election-2014-pamidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic-t.md) _2017-08-25 03:40:15 (First version)_
-2. [Afghan presidential election, 2014:: Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/afghan-presidential-election-2014-amidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic.md) _2017-08-27 03:40:33 (Update)_
+1. [Afghan presidential election, 2014:Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/afghan-presidential-election-2014-pamidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic-t.md) _2018-02-06 13:49:26 (First version)_
+2. [Afghan presidential election, 2014:: Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/afghan-presidential-election-2014-amidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic.md) _2018-02-06 13:49:26 (Update)_
 2. [Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/amidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic-transfer-of-power.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Palestinian driver ploughs into soldiers gathered at a promenade overlooking the
 
 ### Changes:
 
-1. [January 2017 Jerusalem vehicular attack: A truck rams into a group of Israeli soldiers in a deliberate attack in East Jerusalem, killing four and wounding 21. The perpetrator was previously convicted of terrorism and was jailed for 10 years. ](/news/2017/01/8/january-2017-jerusalem-vehicular-attack-a-truck-rams-into-a-group-of-israeli-soldiers-in-a-deliberate-attack-in-east-jerusalem-killing-fou.md) _2017-08-27 03:47:35 (First version)_
+1. [January 2017 Jerusalem vehicular attack: A truck rams into a group of Israeli soldiers in a deliberate attack in East Jerusalem, killing four and wounding 21. The perpetrator was previously convicted of terrorism and was jailed for 10 years. ](/news/2017/01/8/january-2017-jerusalem-vehicular-attack-a-truck-rams-into-a-group-of-israeli-soldiers-in-a-deliberate-attack-in-east-jerusalem-killing-fou.md) _2018-02-06 13:49:30 (First version)_
 1. [A truck rams into a group of Israeli soldiers in a deliberate attack in East Jerusalem, killing four and wounding 21. The perpetrator was previously convicted of terrorism and was jailed for 10 years. ](/news/2017/01/8/a-truck-rams-into-a-group-of-israeli-soldiers-in-a-deliberate-attack-in-east-jerusalem-killing-four-and-wounding-21-the-perpetrator-was-pr.md) _(Current version)_
 
 ### Related:

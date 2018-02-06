@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/08/21/millions-of-united-states-residents-and-visitor
 
 ### Changes:
 
-1. [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america.md) _2017-08-21 00:30:04 (First version)_
-2. [Solar eclipse of August 21, 2017: Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/solar-eclipse-of-august-21-2017-millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-th.md) _2017-08-27 17:30:04 (Update)_
+1. [Solar eclipse of August 21, 2017: Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/solar-eclipse-of-august-21-2017-millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-th.md) _2018-02-06 13:49:31 (First version)_
+2. [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america.md) _2018-02-06 13:49:31 (Update)_
 2. [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-d
 
 ### Changes:
 
-1. [''The Social Network'' wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-t.md) _2017-08-25 03:31:48 (First version)_
-2. ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md) _2017-08-27 03:31:56 (Update)_
+1. ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md) _2018-02-06 13:49:21 (First version)_
+2. [''The Social Network'' wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-t.md) _2018-02-06 13:49:21 (Update)_
 2. ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md) _(Current version)_
 
 ### Related:

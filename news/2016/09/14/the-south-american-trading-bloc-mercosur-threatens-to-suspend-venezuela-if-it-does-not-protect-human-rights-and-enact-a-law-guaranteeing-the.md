@@ -16,7 +16,7 @@ The South American trading bloc Mercosur threatens to suspend Venezuela if it do
 
 ### Changes:
 
-1. [Human rights in Venezuela: The South American trading bloc Mercosur threatens to suspend Venezuela if it does not protect human rights and enact a law guaranteeing the free movement of Mercosur citizens. The bloc sets a deadline of December 1, 2016, for Venezuela to comply with their requirements. ](/news/2016/09/14/human-rights-in-venezuela-the-south-american-trading-bloc-mercosur-threatens-to-suspend-venezuela-if-it-does-not-protect-human-rights-and-e.md) _2017-08-27 03:46:51 (First version)_
+1. [Human rights in Venezuela: The South American trading bloc Mercosur threatens to suspend Venezuela if it does not protect human rights and enact a law guaranteeing the free movement of Mercosur citizens. The bloc sets a deadline of December 1, 2016, for Venezuela to comply with their requirements. ](/news/2016/09/14/human-rights-in-venezuela-the-south-american-trading-bloc-mercosur-threatens-to-suspend-venezuela-if-it-does-not-protect-human-rights-and-e.md) _2018-02-06 13:49:29 (First version)_
 1. [The South American trading bloc Mercosur threatens to suspend Venezuela if it does not protect human rights and enact a law guaranteeing the free movement of Mercosur citizens. The bloc sets a deadline of December 1, 2016, for Venezuela to comply with their requirements. ](/news/2016/09/14/the-south-american-trading-bloc-mercosur-threatens-to-suspend-venezuela-if-it-does-not-protect-human-rights-and-enact-a-law-guaranteeing-the.md) _(Current version)_
 
 ### Related:

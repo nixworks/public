@@ -16,7 +16,7 @@ The 57-year-old man with a bushy white beard who is suspected of killing three p
 
 ### Changes:
 
-1. [Colorado Springs Planned Parenthood shooting: Colorado Springs Police Chief Peter Carey says all nine of the injured - five police officers and four civilians - are listed in good condition at area hospitals. ](/news/2015/11/28/colorado-springs-planned-parenthood-shooting-colorado-springs-police-chief-peter-carey-says-all-nine-of-the-injured-five-police-officer.md) _2017-08-27 03:44:05 (First version)_
+1. [Colorado Springs Planned Parenthood shooting: Colorado Springs Police Chief Peter Carey says all nine of the injured - five police officers and four civilians - are listed in good condition at area hospitals. ](/news/2015/11/28/colorado-springs-planned-parenthood-shooting-colorado-springs-police-chief-peter-carey-says-all-nine-of-the-injured-five-police-officer.md) _2018-02-06 13:49:28 (First version)_
 1. [Colorado Springs Police Chief Peter Carey says all nine of the injured - five police officers and four civilians - are listed in good condition at area hospitals. ](/news/2015/11/28/colorado-springs-police-chief-peter-carey-says-all-nine-of-the-injured-a-five-police-officers-and-four-civilians-a-are-listed-in-good-co.md) _(Current version)_
 
 ### Related:

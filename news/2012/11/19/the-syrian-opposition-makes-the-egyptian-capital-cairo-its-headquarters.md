@@ -19,8 +19,8 @@ Announcement comes as new video emerges purporting to show opposition fighters a
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/syrian-civil-war-pthe-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md) _2017-08-25 03:36:50 (First version)_
-2. [Syrian civil war:: The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/syrian-civil-war-the-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md) _2017-08-27 03:37:00 (Update)_
+1. [Syrian civil war:: The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/syrian-civil-war-the-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/syrian-civil-war-pthe-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md) _2018-02-06 13:49:24 (Update)_
 2. [The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/the-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md) _(Current version)_
 
 ### Related:

@@ -13,11 +13,11 @@ Fifteen people are killed as five attackers, including at least three suicide bo
 
 ##### antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: antitrust, European Union, Joaquin Almunia, Gazprom, Russia_
+_Context: Joaquin Almunia, Gazprom, European Union, antitrust, Russia_
 
 ##### Twitter Inc.
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)
-_Context: IPO, Twitter Inc._
+_Context: Twitter Inc., IPO_
 
 ##### The Gambia
 ### [The Gambia is to withdraw from the Commonwealth, 48 years after joining the 54-member grouping, which includes the United Kingdom and most of its former colonies. ](/news/2013/10/3/the-gambia-is-to-withdraw-from-the-commonwealth-48-years-after-joining-the-54-member-grouping-which-includes-the-united-kingdom-and-most-o.md)

@@ -19,7 +19,7 @@ Israel approves the construction of hundreds of homes for Jewish settlers in the
 
 ### Changes:
 
-1. [West Bank: UN Secretary-General Ban Ki-moon condemns the Palestinian Itamar attack that stabbed and murdered an Israeli family of five. ](/news/2011/03/13/west-bank-un-secretary-general-ban-ki-moon-condemns-the-palestinian-itamar-attack-that-stabbed-and-murdered-an-israeli-family-of-five.md) _2017-08-27 03:32:39 (First version)_
+1. [West Bank: UN Secretary-General Ban Ki-moon condemns the Palestinian Itamar attack that stabbed and murdered an Israeli family of five. ](/news/2011/03/13/west-bank-un-secretary-general-ban-ki-moon-condemns-the-palestinian-itamar-attack-that-stabbed-and-murdered-an-israeli-family-of-five.md) _2018-02-06 13:49:22 (First version)_
 1. [UN Secretary-General Ban Ki-moon condemns the Palestinian Itamar attack that stabbed and murdered an Israeli family of five. ](/news/2011/03/13/un-secretary-general-ban-ki-moon-condemns-the-palestinian-itamar-attack-that-stabbed-and-murdered-an-israeli-family-of-five.md) _(Current version)_
 
 ### Related:

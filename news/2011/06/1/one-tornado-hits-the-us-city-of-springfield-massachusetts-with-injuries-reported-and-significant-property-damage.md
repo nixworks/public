@@ -22,7 +22,7 @@ At least two confirmed tornadoes descended upon towns in western Massachusetts o
 
 ### Changes:
 
-1. [2011 New England tornado outbreak: One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/2011-new-england-tornado-outbreak-one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-proper.md) _2017-08-27 03:33:29 (First version)_
+1. [2011 New England tornado outbreak: One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/2011-new-england-tornado-outbreak-one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-proper.md) _2018-02-06 13:49:22 (First version)_
 1. [One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-property-damage.md) _(Current version)_
 
 ### Related:

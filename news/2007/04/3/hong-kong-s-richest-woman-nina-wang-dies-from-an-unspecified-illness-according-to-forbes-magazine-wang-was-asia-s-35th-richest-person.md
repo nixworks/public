@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/3/hong-kong-s-richest-woman-nina-wang-dies-from-an
 
 ### Changes:
 
-1. [ Hong Kong's richest woman, Nina Wang dies from an unspecified illness. According to ''Forbes'' magazine, Wang was Asia's 35th richest person with a fortune of $4.2 billion. ](/news/2007/04/3/hong-kong-s-richest-woman-nina-wang-dies-from-an-unspecified-illness-according-to-forbes-magazine-wang-was-asia-s-35th-richest-perso.md) _2017-08-25 03:19:31 (First version)_
+1. [ Hong Kong's richest woman, Nina Wang dies from an unspecified illness. According to ''Forbes'' magazine, Wang was Asia's 35th richest person with a fortune of $4.2 billion. ](/news/2007/04/3/hong-kong-s-richest-woman-nina-wang-dies-from-an-unspecified-illness-according-to-forbes-magazine-wang-was-asia-s-35th-richest-perso.md) _2018-02-06 13:49:17 (First version)_
 1. [ Hong Kong's richest woman, Nina Wang dies from an unspecified illness. According to "Forbes" magazine, Wang was Asia's 35th richest person with a fortune of $4.2 billion. ](/news/2007/04/3/hong-kong-s-richest-woman-nina-wang-dies-from-an-unspecified-illness-according-to-forbes-magazine-wang-was-asia-s-35th-richest-person.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/war-in-afghanistan-2001-present-nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern.md) _2017-08-27 03:30:12 (First version)_
+1. [War in Afghanistan (2001-present): Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/war-in-afghanistan-2001-present-nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern.md) _2018-02-06 13:49:20 (First version)_
 1. [Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern-afghanistan.md) _(Current version)_
 
 ### Related:

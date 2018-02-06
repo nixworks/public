@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-a
 
 ### Changes:
 
-1. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News'' and ''CBS Overnight News'' after ignoring multiple warnings from his boss several times. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-and-cbs-overnight-news-aft.md) _2017-06-01 00:30:06 (First version)_
-2. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news.md) _2017-06-01 03:50:34 (Update)_
-3. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md) _2017-08-25 03:47:58 (Update)_
+1. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news.md) _2018-02-06 13:49:30 (First version)_
+2. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md) _2018-02-06 13:49:30 (Update)_
+3. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News'' and ''CBS Overnight News'' after ignoring multiple warnings from his boss several times. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-and-cbs-overnight-news-aft.md) _2018-02-06 13:49:30 (Update)_
 3. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of "CBS Evening News". Pelley will remain with "CBS News" as a correspondent in "60 Minutes". ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs-ne.md) _(Current version)_
 
 ### Related:

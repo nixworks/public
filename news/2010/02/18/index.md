@@ -15,7 +15,7 @@ Minister for Defence Willie O&#39;Dea has resigned, saying his continuing in off
 ### [The UK's Press Complaints Commission rejects a complaint by the husband of Stephen Gately about Jan Moir's "Daily Mail" article following his death but its head calls Moir's writing "extremely distasteful". ](/news/2010/02/18/the-uk-s-press-complaints-commission-rejects-a-complaint-by-the-husband-of-stephen-gately-about-jan-moir-s-daily-mail-article-following-hi.md)
 A complaint that a newspaper article about the death of Stephen Gately was inaccurate, intrusive &amp; discriminatory has been rejected.
 
-##### British
+##### United Kingdom
 ### [The British and Irish governments call in their Israeli ambassadors over the use of fake passports by the alleged killers of a Hamas commander Mahmoud al-Mabhouh. ](/news/2010/02/18/the-british-and-irish-governments-call-in-their-israeli-ambassadors-over-the-use-of-fake-passports-by-the-alleged-killers-of-a-hamas-command.md)
 The Department of Foreign Affairs has said two further fake Irish passports were used by suspects in the killing of a Hamas official in Dubai.
 
@@ -33,7 +33,7 @@ Coup leaders suspend constitution after soldiers storm presidential palace in ca
 
 ##### Live Earth
 ### [Live Earth, organizer of The Dow Live Earth Run for Water, Cape Town race director announced The Parlotones concert at the Speir Wine Estate in Cape Town. ](/news/2010/02/18/live-earth-organizer-of-the-dow-live-earth-run-for-water-cape-town-race-director-announced-the-parlotones-concert-at-the-speir-wine-estate.md)
-_Context: The Parlotones, Live Earth, Cape Town, The Dow Live Earth Run for Water_
+_Context: The Dow Live Earth Run for Water, Cape Town, The Parlotones, Live Earth_
 
 ##### United Nations
 ### [The top climate change official at the United Nations and Executive Secretary of the United Nations Framework Convention on Climate Change, Yvo de Boer, announces his resignation. ](/news/2010/02/18/the-top-climate-change-official-at-the-united-nations-and-executive-secretary-of-the-united-nations-framework-convention-on-climate-change.md)

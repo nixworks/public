@@ -16,9 +16,9 @@ Barriers protected the building in the Créteil suburb and the suspect was arres
 
 ### Changes:
 
-1. [A man attempts to run over pedestrians outside a Mosque in Paris France.](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france.md) _2017-06-30 10:30:06 (First version)_
-2. [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http:--www.bbc.co.uk-news-world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md) _2017-06-30 22:30:05 (Update)_
-3. [2017 Creteil mosque incident: A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/2017-cra-c-teil-mosque-incident-a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _2017-08-27 03:48:34 (Update)_
+1. [A man attempts to run over pedestrians outside a Mosque in Paris France.](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france.md) _2018-02-06 13:49:30 (First version)_
+2. [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http:--www.bbc.co.uk-news-world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md) _2018-02-06 13:49:30 (Update)_
+3. [2017 Creteil mosque incident: A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/2017-cra-c-teil-mosque-incident-a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _2018-02-06 13:49:30 (Update)_
 3. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _(Current version)_
 
 ### Related:

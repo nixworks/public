@@ -17,8 +17,8 @@ A pair of Australian swimmers on Thursday became the first people to be rescued 
 
 ### Changes:
 
-1. [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-john-barilaro-the-deputy-premier.md) _2018-01-18 20:30:06 (First version)_
-2. [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-the.md) _2018-01-22 12:30:06 (Update)_
+1. [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-john-barilaro-the-deputy-premier.md) _2018-02-06 13:49:31 (First version)_
+2. [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-the.md) _2018-02-06 13:49:31 (Update)_
 2. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _(Current version)_
 
 ### Related:

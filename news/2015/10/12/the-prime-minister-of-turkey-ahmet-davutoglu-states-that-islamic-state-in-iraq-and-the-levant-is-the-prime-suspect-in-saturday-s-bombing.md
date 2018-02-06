@@ -16,7 +16,7 @@ TURKEY-EXPLOSION/ISLAMIC STATE (URGENT):Islamic State is prime suspect in Turkey
 
 ### Changes:
 
-1. [2015 Ankara bombings: The Prime Minister of Turkey Ahmet Davutoglu states that Islamic State in Iraq and the Levant is the prime suspect in Saturday's bombing. ](/news/2015/10/12/2015-ankara-bombings-the-prime-minister-of-turkey-ahmet-davutoglu-states-that-islamic-state-in-iraq-and-the-levant-is-the-prime-suspect-in.md) _2017-08-27 03:43:19 (First version)_
+1. [2015 Ankara bombings: The Prime Minister of Turkey Ahmet Davutoglu states that Islamic State in Iraq and the Levant is the prime suspect in Saturday's bombing. ](/news/2015/10/12/2015-ankara-bombings-the-prime-minister-of-turkey-ahmet-davutoglu-states-that-islamic-state-in-iraq-and-the-levant-is-the-prime-suspect-in.md) _2018-02-06 13:49:27 (First version)_
 1. [The Prime Minister of Turkey Ahmet Davutoglu states that Islamic State in Iraq and the Levant is the prime suspect in Saturday's bombing. ](/news/2015/10/12/the-prime-minister-of-turkey-ahmet-davutoglu-states-that-islamic-state-in-iraq-and-the-levant-is-the-prime-suspect-in-saturday-s-bombing.md) _(Current version)_
 
 ### Related:

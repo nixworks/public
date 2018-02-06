@@ -17,7 +17,7 @@ The ruling is a major victory for LGBTQ community fighting discrimination
 
 ### Changes:
 
-1. [LGBT rights in the United States: The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. ](/news/2017/04/4/lgbt-rights-in-the-united-states-the-full-7th-u-s-circuit-court-of-appeals-in-chicago-rules-8-3-that-the-1964-civil-rights-act-protects.md) _2017-08-27 03:48:06 (First version)_
+1. [LGBT rights in the United States: The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. ](/news/2017/04/4/lgbt-rights-in-the-united-states-the-full-7th-u-s-circuit-court-of-appeals-in-chicago-rules-8-3-that-the-1964-civil-rights-act-protects.md) _2018-02-06 13:49:30 (First version)_
 1. [ The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. ](/news/2017/04/4/the-full-7th-u-s-circuit-court-of-appeals-in-chicago-rules-8-3-that-the-1964-civil-rights-act-protects-lgbt-employees-from-workplace-dis.md) _(Current version)_
 
 ### Related:

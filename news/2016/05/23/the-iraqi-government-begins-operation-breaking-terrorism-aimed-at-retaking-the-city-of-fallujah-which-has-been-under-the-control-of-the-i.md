@@ -15,8 +15,8 @@ Reports of heavy shelling in city that was first to fall to ISIL in 2014 as bele
 
 ### Changes:
 
-1. [ The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-has-been-under-the-control-of-the.md) _2017-08-25 03:45:44 (First version)_
-2. [ Iraqi civil war (2014-present): The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/iraqi-civil-war-2014-present-the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-h.md) _2017-08-27 03:46:06 (Update)_
+1. [ The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-has-been-under-the-control-of-the.md) _2018-02-06 13:49:29 (First version)_
+2. [ Iraqi civil war (2014-present): The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/iraqi-civil-war-2014-present-the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-h.md) _2018-02-06 13:49:29 (Update)_
 2. [ The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-has-been-under-the-control-of-the-i.md) _(Current version)_
 
 ### Related:

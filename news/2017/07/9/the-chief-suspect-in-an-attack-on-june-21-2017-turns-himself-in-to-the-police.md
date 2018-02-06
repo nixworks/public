@@ -16,7 +16,7 @@ Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in eas
 
 ### Changes:
 
-1. [2017 Beckton acid attack: The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/2017-beckton-acid-attack-the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _2017-08-27 03:48:38 (First version)_
+1. [2017 Beckton acid attack: The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/2017-beckton-acid-attack-the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _2018-02-06 13:49:31 (First version)_
 1. [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _(Current version)_
 
 ### Related:

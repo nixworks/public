@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/03/17/united-states-president-barack-obama-meets-iris
 
 ### Changes:
 
-1. [ Saint Patrick's Day: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-p-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md) _2017-08-25 03:24:07 (First version)_
-2. [ Saint Patrick's Day:: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md) _2017-08-27 03:23:58 (Update)_
+1. [ Saint Patrick's Day:: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md) _2018-02-06 13:49:18 (First version)_
+2. [ Saint Patrick's Day: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-p-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md) _2018-02-06 13:49:18 (Update)_
 2. [ United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robinson-and-deputy-first-mi.md) _(Current version)_
 
 ### Related:

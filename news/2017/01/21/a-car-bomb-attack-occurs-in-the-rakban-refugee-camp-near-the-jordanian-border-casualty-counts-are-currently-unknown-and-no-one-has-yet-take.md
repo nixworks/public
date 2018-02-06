@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-
 
 ### Changes:
 
-1. [Syrian Civil War: A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/syrian-civil-war-a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-n.md) _2017-08-27 03:47:39 (First version)_
+1. [Syrian Civil War: A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/syrian-civil-war-a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-n.md) _2018-02-06 13:49:30 (First version)_
 1. [A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.md) _(Current version)_
 
 ### Related:

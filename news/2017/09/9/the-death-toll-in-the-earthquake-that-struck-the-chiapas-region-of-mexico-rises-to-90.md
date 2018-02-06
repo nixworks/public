@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the
 
 ### Changes:
 
-1. [The death toll in the earrhquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earrhquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _2017-09-10 10:30:05 (First version)_
+1. [The death toll in the earrhquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earrhquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _2018-02-06 13:49:31 (First version)_
 1. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _(Current version)_
 
 ### Related:

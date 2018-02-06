@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/29/the-death-toll-of-a-suicide-bombing-in-the-sout
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): The death toll of a suicide bombing in the southern Yemeni city of Aden rises to at least 71. Islamic State in Iraq and the Levant claims responsibility. ](/news/2016/08/29/yemeni-civil-war-2015-present-the-death-toll-of-a-suicide-bombing-in-the-southern-yemeni-city-of-aden-rises-to-at-least-71-islamic-sta.md) _2017-08-27 03:46:44 (First version)_
+1. [Yemeni Civil War (2015-present): The death toll of a suicide bombing in the southern Yemeni city of Aden rises to at least 71. Islamic State in Iraq and the Levant claims responsibility. ](/news/2016/08/29/yemeni-civil-war-2015-present-the-death-toll-of-a-suicide-bombing-in-the-southern-yemeni-city-of-aden-rises-to-at-least-71-islamic-sta.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll of a suicide bombing in the southern Yemeni city of Aden rises to at least 71. Islamic State in Iraq and the Levant claims responsibility. ](/news/2016/08/29/the-death-toll-of-a-suicide-bombing-in-the-southern-yemeni-city-of-aden-rises-to-at-least-71-islamic-state-in-iraq-and-the-levant-claims-re.md) _(Current version)_
 
 ### Related:

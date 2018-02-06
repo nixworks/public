@@ -16,7 +16,7 @@ Announcement comes as new UN-brokered unity government seeks to establish itself
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The self-declared National Salvation government, one of the rival governments of Libya, resigns and gives up power to the UN-backed Libyan Presidential Council in Tripoli. ](/news/2016/04/6/libyan-civil-war-2014-present-the-self-declared-national-salvation-government-one-of-the-rival-governments-of-libya-resigns-and-gives.md) _2017-08-27 03:45:31 (First version)_
+1. [Libyan Civil War (2014-present): The self-declared National Salvation government, one of the rival governments of Libya, resigns and gives up power to the UN-backed Libyan Presidential Council in Tripoli. ](/news/2016/04/6/libyan-civil-war-2014-present-the-self-declared-national-salvation-government-one-of-the-rival-governments-of-libya-resigns-and-gives.md) _2018-02-06 13:49:29 (First version)_
 1. [The self-declared National Salvation government, one of the rival governments of Libya, resigns and gives up power to the UN-backed Libyan Presidential Council in Tripoli. ](/news/2016/04/6/the-self-declared-national-salvation-government-one-of-the-rival-governments-of-libya-resigns-and-gives-up-power-to-the-un-backed-libyan-p.md) _(Current version)_
 
 ### Related:

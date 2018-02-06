@@ -18,7 +18,7 @@ The gunman, disguised as a tourist, pulled out a Kalashnikov hidden in an umbrel
 
 ### Changes:
 
-1. [ 2015 Sousse attack: Two hotels in Sousse, Tunisia came under attack from an unknown number of gunmen; at least 37 people have been killed and 36 injured. ](/news/2015/06/26/2015-sousse-attack-two-hotels-in-sousse-tunisia-came-under-attack-from-an-unknown-number-of-gunmen-at-least-37-people-have-been-killed-a.md) _2017-08-27 03:42:36 (First version)_
+1. [ 2015 Sousse attack: Two hotels in Sousse, Tunisia came under attack from an unknown number of gunmen; at least 37 people have been killed and 36 injured. ](/news/2015/06/26/2015-sousse-attack-two-hotels-in-sousse-tunisia-came-under-attack-from-an-unknown-number-of-gunmen-at-least-37-people-have-been-killed-a.md) _2018-02-06 13:49:27 (First version)_
 1. [ Two hotels in Sousse, Tunisia came under attack from an unknown number of gunmen; at least 37 people have been killed and 36 injured. ](/news/2015/06/26/two-hotels-in-sousse-tunisia-came-under-attack-from-an-unknown-number-of-gunmen-at-least-37-people-have-been-killed-and-36-injured.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/06/14/the-united-states-offers-unspecified-military-e
 
 ### Changes:
 
-1. [Syrian civil war:The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-pthe-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemic.md) _2017-08-25 03:38:51 (First version)_
-2. [Syrian civil war:: The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemi.md) _2017-08-27 03:39:04 (Update)_
+1. [Syrian civil war:: The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemi.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-pthe-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemic.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemical-weapons-against.md) _(Current version)_
 
 ### Related:

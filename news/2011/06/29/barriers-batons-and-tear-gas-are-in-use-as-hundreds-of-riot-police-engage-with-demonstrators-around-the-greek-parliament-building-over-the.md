@@ -18,8 +18,8 @@ Greek MPs vote in favour of unpopular austerity measures aimed at saving the cou
 
 ### Changes:
 
-1. [Greek protests against government cuts:Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/greek-protests-against-government-cuts-pbarriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-around.md) _2017-08-25 03:33:37 (First version)_
-2. [Greek protests against government cuts:: Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/greek-protests-against-government-cuts-barriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-aroun.md) _2017-08-27 03:33:45 (Update)_
+1. [Greek protests against government cuts:Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/greek-protests-against-government-cuts-pbarriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-around.md) _2018-02-06 13:49:22 (First version)_
+2. [Greek protests against government cuts:: Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/greek-protests-against-government-cuts-barriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-aroun.md) _2018-02-06 13:49:22 (Update)_
 2. [Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/barriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-around-the-greek-parliament-building-over-the.md) _(Current version)_
 
 ### Related:

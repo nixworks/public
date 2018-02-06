@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/06/15/jeb-bush-former-governor-of-florida-announces-h
 
 ### Changes:
 
-1. [United States presidential election, 2016 - Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/united-states-presidential-election-2016-jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nominatio.md) _2017-08-25 03:42:14 (First version)_
-2. [United States presidential election, 2016 - Bush family: Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/united-states-presidential-election-2016-bush-family-jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-pa.md) _2017-08-27 03:42:33 (Update)_
+1. [United States presidential election, 2016 - Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/united-states-presidential-election-2016-jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nominatio.md) _2018-02-06 13:49:27 (First version)_
+2. [United States presidential election, 2016 - Bush family: Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/united-states-presidential-election-2016-bush-family-jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-pa.md) _2018-02-06 13:49:27 (Update)_
 2. [Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nomination.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The search for victims of the Malaysia Airlines crash in Ukraine must go on as o
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17:Forensic experts in Kharkiv, Ukraine begin identifying the victims of the crash, with only 200 bodies delivered out of the 282 pro-Russian separatists claim to have sent. ](/news/2014/07/22/malaysia-airlines-flight-17-pforensic-experts-in-kharkiv-ukraine-begin-identifying-the-victims-of-the-crash-with-only-200-bodies-delivered.md) _2017-08-25 03:40:43 (First version)_
-2. [Malaysia Airlines Flight 17:: Forensic experts in Kharkiv, Ukraine begin identifying the victims of the crash, with only 200 bodies delivered out of the 282 pro-Russian separatists claim to have sent. ](/news/2014/07/22/malaysia-airlines-flight-17-forensic-experts-in-kharkiv-ukraine-begin-identifying-the-victims-of-the-crash-with-only-200-bodies-delivere.md) _2017-08-27 03:41:02 (Update)_
+1. [Malaysia Airlines Flight 17:Forensic experts in Kharkiv, Ukraine begin identifying the victims of the crash, with only 200 bodies delivered out of the 282 pro-Russian separatists claim to have sent. ](/news/2014/07/22/malaysia-airlines-flight-17-pforensic-experts-in-kharkiv-ukraine-begin-identifying-the-victims-of-the-crash-with-only-200-bodies-delivered.md) _2018-02-06 13:49:26 (First version)_
+2. [Malaysia Airlines Flight 17:: Forensic experts in Kharkiv, Ukraine begin identifying the victims of the crash, with only 200 bodies delivered out of the 282 pro-Russian separatists claim to have sent. ](/news/2014/07/22/malaysia-airlines-flight-17-forensic-experts-in-kharkiv-ukraine-begin-identifying-the-victims-of-the-crash-with-only-200-bodies-delivere.md) _2018-02-06 13:49:26 (Update)_
 2. [Forensic experts in Kharkiv, Ukraine begin identifying the victims of the crash, with only 200 bodies delivered out of the 282 pro-Russian separatists claim to have sent. ](/news/2014/07/22/forensic-experts-in-kharkiv-ukraine-begin-identifying-the-victims-of-the-crash-with-only-200-bodies-delivered-out-of-the-282-pro-russian-s.md) _(Current version)_
 
 ### Related:

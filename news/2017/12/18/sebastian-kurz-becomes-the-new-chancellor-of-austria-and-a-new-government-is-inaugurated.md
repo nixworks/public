@@ -16,8 +16,8 @@ Sebastian Kurz will become Austria’s 14th postwar chancellor on Monday amid pr
 
 ### Changes:
 
-1. [Sebastian Kurz became new Chancellor of Austria. New Kurz government is formed. ](/news/2017/12/18/sebastian-kurz-became-new-chancellor-of-austria-new-kurz-government-is-formed.md) _2017-12-18 06:30:06 (First version)_
-2. [Sebastian Kurz becomes the new Chancellor of Austria and a new government is formed. ](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-austria-and-a-new-government-is-formed.md) _2017-12-18 13:30:06 (Update)_
+1. [Sebastian Kurz becomes the new Chancellor of Austria and a new government is formed. ](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-austria-and-a-new-government-is-formed.md) _2018-02-06 13:49:31 (First version)_
+2. [Sebastian Kurz became new Chancellor of Austria. New Kurz government is formed. ](/news/2017/12/18/sebastian-kurz-became-new-chancellor-of-austria-new-kurz-government-is-formed.md) _2018-02-06 13:49:31 (Update)_
 2. [Sebastian Kurz becomes the new Chancellor of Austria and a new government is inaugurated. ](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-austria-and-a-new-government-is-inaugurated.md) _(Current version)_
 
 ### Related:

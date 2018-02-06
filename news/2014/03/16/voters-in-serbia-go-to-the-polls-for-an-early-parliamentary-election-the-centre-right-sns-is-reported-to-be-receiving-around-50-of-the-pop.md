@@ -17,8 +17,8 @@ BELGRADE (AFP) - Serbia&#039;s ruling centre-right Serbian Progressive Party (SN
 
 ### Changes:
 
-1. [Voters in Serbia go to the polls for an early parliamentary election. The centre right SNS is reported to be receiving around 50% of the popular vote. ](/news/2014/03/16/voters-in-serbia-go-to-the-polls-for-an-early-parliamentary-election-the-centre-right-sns-is-reported-to-be-receiving-around-50-of-the-po.md) _2017-08-25 03:40:10 (First version)_
-2. [Serbian parliamentary election, 2014: Voters in Serbia go to the polls for an early parliamentary election. The centre right SNS is reported to be receiving around 50% of the popular vote. ](/news/2014/03/16/serbian-parliamentary-election-2014-voters-in-serbia-go-to-the-polls-for-an-early-parliamentary-election-the-centre-right-sns-is-reported.md) _2017-08-27 03:40:28 (Update)_
+1. [Voters in Serbia go to the polls for an early parliamentary election. The centre right SNS is reported to be receiving around 50% of the popular vote. ](/news/2014/03/16/voters-in-serbia-go-to-the-polls-for-an-early-parliamentary-election-the-centre-right-sns-is-reported-to-be-receiving-around-50-of-the-po.md) _2018-02-06 13:49:25 (First version)_
+2. [Serbian parliamentary election, 2014: Voters in Serbia go to the polls for an early parliamentary election. The centre right SNS is reported to be receiving around 50% of the popular vote. ](/news/2014/03/16/serbian-parliamentary-election-2014-voters-in-serbia-go-to-the-polls-for-an-early-parliamentary-election-the-centre-right-sns-is-reported.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in Serbia go to the polls for an early parliamentary election. The centre right SNS is reported to be receiving around 50% of the popular vote. ](/news/2014/03/16/voters-in-serbia-go-to-the-polls-for-an-early-parliamentary-election-the-centre-right-sns-is-reported-to-be-receiving-around-50-of-the-pop.md) _(Current version)_
 
 ### Related:

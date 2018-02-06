@@ -16,7 +16,7 @@ On August 22, the wooden passenger ship Comandante Ribeiro sank on the Xingu Riv
 
 ### Changes:
 
-1. [Maritime incidents in 2017: The passenger ship "Comandante Ribeiro" sinks in the Xingu River near Porto de Moz, Brazil, with the loss of at least ten lives.](/news/2017/08/22/maritime-incidents-in-2017-the-passenger-ship-comandante-ribeiro-sinks-in-the-xingu-river-near-porto-de-moz-brazil-with-the-loss-of-at.md) _2017-08-27 17:30:04 (First version)_
+1. [Maritime incidents in 2017: The passenger ship "Comandante Ribeiro" sinks in the Xingu River near Porto de Moz, Brazil, with the loss of at least ten lives.](/news/2017/08/22/maritime-incidents-in-2017-the-passenger-ship-comandante-ribeiro-sinks-in-the-xingu-river-near-porto-de-moz-brazil-with-the-loss-of-at.md) _2018-02-06 13:49:31 (First version)_
 1. [The passenger ship "Comandante Ribeiro" sinks in the Xingu River near Porto de Moz, Brazil, with the loss of at least ten lives.](/news/2017/08/22/the-passenger-ship-comandante-ribeiro-sinks-in-the-xingu-river-near-porto-de-moz-brazil-with-the-loss-of-at-least-ten-lives.md) _(Current version)_
 
 ### Related:

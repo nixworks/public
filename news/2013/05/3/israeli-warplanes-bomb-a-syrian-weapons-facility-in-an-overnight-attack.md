@@ -16,8 +16,8 @@ Israel aircraft bombed a target in Syria on Thursday, an Obama administration of
 
 ### Changes:
 
-1. [Syrian civil war:Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-pisraeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _2017-08-25 03:38:33 (First version)_
-2. [Syrian civil war:: Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _2017-08-27 03:38:46 (Update)_
+1. [Syrian civil war:Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-pisraeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _2018-02-06 13:49:24 (Update)_
 2. [Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md) _(Current version)_
 
 ### Related:

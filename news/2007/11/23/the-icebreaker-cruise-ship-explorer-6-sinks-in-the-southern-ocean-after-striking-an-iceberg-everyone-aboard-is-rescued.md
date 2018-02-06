@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/23/the-icebreaker-cruise-ship-explorer-6-sinks-in-
 
 ### Changes:
 
-1. [ The ice breaker-cruise ship MS Explorer sinks in the Southern Ocean after striking an iceberg. Everyone aboard is rescued.](/news/2007/11/23/the-ice-breaker-cruise-ship-ms-explorer-sinks-in-the-southern-ocean-after-striking-an-iceberg-everyone-aboard-is-rescued.md) _2017-09-24 03:24:05 (First version)_
+1. [ The ice breaker-cruise ship MS Explorer sinks in the Southern Ocean after striking an iceberg. Everyone aboard is rescued.](/news/2007/11/23/the-ice-breaker-cruise-ship-ms-explorer-sinks-in-the-southern-ocean-after-striking-an-iceberg-everyone-aboard-is-rescued.md) _2018-02-06 13:49:18 (First version)_
 1. [ The icebreaker-cruise ship Explorer 6 sinks in the Southern Ocean after striking an iceberg. Everyone aboard is rescued.](/news/2007/11/23/the-icebreaker-cruise-ship-explorer-6-sinks-in-the-southern-ocean-after-striking-an-iceberg-everyone-aboard-is-rescued.md) _(Current version)_
 
 ### Related:

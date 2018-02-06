@@ -16,8 +16,8 @@ The rocket was launched from the Mahia Peninsula this afternoon.
 
 ### Changes:
 
-1. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-after-the-original-rocket-launch-in-may-2.md) _2018-01-22 12:30:07 (First version)_
-2. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-after-the-original-rocket-launch-in-may.md) _2018-01-23 00:30:07 (Update)_
+1. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-after-the-original-rocket-launch-in-may.md) _2018-02-06 13:49:31 (First version)_
+2. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-after-the-original-rocket-launch-in-may-2.md) _2018-02-06 13:49:31 (Update)_
 2. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, becoming the first rocket to reach orbit using an electric-pump-fed engine, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-becoming-the-first-rocket-to-reach-orbit.md) _(Current version)_
 
 ### Related:

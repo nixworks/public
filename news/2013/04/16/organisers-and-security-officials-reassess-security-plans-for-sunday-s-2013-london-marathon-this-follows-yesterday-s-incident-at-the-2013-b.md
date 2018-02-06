@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/04/16/organisers-and-security-officials-reassess-secu
 
 ### Changes:
 
-1. [Boston Marathon bombings:Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/boston-marathon-bombings-porganisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterda.md) _2017-08-25 03:38:22 (First version)_
-2. [Boston Marathon bombings:: Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/boston-marathon-bombings-organisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterd.md) _2017-08-27 03:38:34 (Update)_
+1. [Boston Marathon bombings:Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/boston-marathon-bombings-porganisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterda.md) _2018-02-06 13:49:24 (First version)_
+2. [Boston Marathon bombings:: Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/boston-marathon-bombings-organisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterd.md) _2018-02-06 13:49:24 (Update)_
 2. [Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/organisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterday-s-incident-at-the-2013-b.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ In a landmark case for gay rights in China, a court has ruled in favor of a man 
 
 ### Changes:
 
-1. [LGBT rights in China: In China, a court rules in favor of a gay man who sued a Chongqing electroconvulsive therapy clinic that practises conversion therapy. ](/news/2014/12/19/lgbt-rights-in-china-in-china-a-court-rules-in-favor-of-a-gay-man-who-sued-a-chongqing-electroconvulsive-therapy-clinic-that-practises-con.md) _2017-08-27 03:41:39 (First version)_
+1. [LGBT rights in China: In China, a court rules in favor of a gay man who sued a Chongqing electroconvulsive therapy clinic that practises conversion therapy. ](/news/2014/12/19/lgbt-rights-in-china-in-china-a-court-rules-in-favor-of-a-gay-man-who-sued-a-chongqing-electroconvulsive-therapy-clinic-that-practises-con.md) _2018-02-06 13:49:26 (First version)_
 1. [In China, a court rules in favor of a gay man who sued a Chongqing electroconvulsive therapy clinic that practises conversion therapy. ](/news/2014/12/19/in-china-a-court-rules-in-favor-of-a-gay-man-who-sued-a-chongqing-electroconvulsive-therapy-clinic-that-practises-conversion-therapy.md) _(Current version)_
 
 ### Related:

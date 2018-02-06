@@ -16,7 +16,7 @@ President Edgar Lungu, who won a special election last year, is seeking a full t
 
 ### Changes:
 
-1. [Zambian general election and Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. ](/news/2016/08/11/zambian-general-election-and-voters-go-to-the-polls-to-elect-a-president-and-the-unicameral-national-assembly-and-on-proposed-amendments.md) _2017-08-25 03:46:16 (First version)_
+1. [Zambian general election and Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. ](/news/2016/08/11/zambian-general-election-and-voters-go-to-the-polls-to-elect-a-president-and-the-unicameral-national-assembly-and-on-proposed-amendments.md) _2018-02-06 13:49:29 (First version)_
 1. [ Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. ](/news/2016/08/11/voters-go-to-the-polls-to-elect-a-president-and-the-unicameral-national-assembly-and-on-proposed-amendments-to-the-bill-of-rights-and-arti.md) _(Current version)_
 
 ### Related:

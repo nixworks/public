@@ -18,6 +18,6 @@ Syrian authorities have released 552 people detained during the 10-month revolt 
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:552 political detainees are released by the government. ](/news/2012/01/5/2011a2012-syrian-uprising-p552-political-detainees-are-released-by-the-government.md) _2017-08-25 03:34:48 (First version)_
-2. [2011-2012 Syrian uprising:: 552 political detainees are released by the government. ](/news/2012/01/5/2011-2012-syrian-uprising-552-political-detainees-are-released-by-the-government.md) _2017-08-27 03:34:58 (Update)_
+1. [2011-2012 Syrian uprising:552 political detainees are released by the government. ](/news/2012/01/5/2011a2012-syrian-uprising-p552-political-detainees-are-released-by-the-government.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: 552 political detainees are released by the government. ](/news/2012/01/5/2011-2012-syrian-uprising-552-political-detainees-are-released-by-the-government.md) _2018-02-06 13:49:23 (Update)_
 2. [552 political detainees are released by the government. ](/news/2012/01/5/552-political-detainees-are-released-by-the-government.md) _(Current version)_

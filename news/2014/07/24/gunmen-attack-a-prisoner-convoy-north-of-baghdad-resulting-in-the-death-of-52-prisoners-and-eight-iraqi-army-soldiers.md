@@ -17,7 +17,7 @@ Gunmen attacked a prisoner convoy north of Baghdad on Thursday, setting off a gu
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/iraqi-insurgency-2011-present-gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-a.md) _2017-08-27 03:41:02 (First version)_
+1. [Iraqi insurgency (2011-present): Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/iraqi-insurgency-2011-present-gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-a.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-army-soldiers.md) _(Current version)_
 
 ### Related:

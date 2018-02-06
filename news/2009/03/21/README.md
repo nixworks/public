@@ -13,7 +13,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Ireland
 ### [ Ireland defeats Wales in rugby union's Six Nations Championship. ](/news/2009/03/21/ireland-defeats-wales-in-rugby-union-s-six-nations-championship.md)
-_Context: Wales, Ireland, rugby union, Six Nations Championship, defeats_
+_Context: Wales, Six Nations Championship, Ireland, defeats, rugby union_
 
 ##### Anna Bligh
 ### [ Anna Bligh of the Labor Party is reelected Premier of Queensland, Australia. ](/news/2009/03/21/anna-bligh-of-the-labor-party-is-reelected-premier-of-queensland-australia.md)
@@ -21,7 +21,7 @@ Liberal National Party leader Lawrence Springborg has conceded defeat in the Que
 
 ##### stampede
 ### [ Two people are killed and eight injured during a stampede to see Pope Benedict XVI in Luanda, Angola. ](/news/2009/03/21/two-people-are-killed-and-eight-injured-during-a-stampede-to-see-pope-benedict-xvi-in-luanda-angola.md)
-_Context: Pope Benedict XVI, Pope, stampede, Angola, Luanda_
+_Context: Pope, stampede, Angola, Luanda, Pope Benedict XVI_
 
 ##### Venezuela
 ### [ Venezuela's military seizes key airports and sea ports throughout the country. ](/news/2009/03/21/venezuela-s-military-seizes-key-airports-and-sea-ports-throughout-the-country.md)
@@ -29,15 +29,15 @@ _Context: sea ports, military, airport, Venezuela_
 
 ##### Emirates Airline
 ### [ Emirates Airline Flight EK407 makes an emergency landing in Australia after enduring a tailstrike during takeoff from Melbourne Airport. ](/news/2009/03/21/emirates-airline-flight-ek407-makes-an-emergency-landing-in-australia-after-enduring-a-tailstrike-during-takeoff-from-melbourne-airport.md)
-_Context: Melbourne Airport, emergency landing, takeoff, Australia, Emirates Airline, tailstrike_
+_Context: Australia, Emirates Airline, emergency landing, Melbourne Airport, tailstrike, takeoff_
 
 ##### Andry Rajoelina
 ### [ Andry Rajoelina is inaugurated as President of Madagascar. ](/news/2009/03/21/andry-rajoelina-is-inaugurated-as-president-of-madagascar.md)
-_Context: Madagascar, Andry Rajoelina, political crisis, President_
+_Context: President, Andry Rajoelina, Madagascar, political crisis_
 
 ##### protest
 ### [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md)
-_Context: Camorra, Naples, protest, Italy, Mafia_
+_Context: Mafia, Camorra, protest, Italy, Naples_
 
 ##### Somalia
 ### [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md)

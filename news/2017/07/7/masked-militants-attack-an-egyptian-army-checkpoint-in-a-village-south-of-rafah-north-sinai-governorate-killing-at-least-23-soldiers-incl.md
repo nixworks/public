@@ -16,7 +16,7 @@ Militants rammed military compound with car before opening fire in village of el
 
 ### Changes:
 
-1. [Sinai insurgency: Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. The attack included VBIED and signal jamming. ](/news/2017/07/7/sinai-insurgency-masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least.md) _2017-08-27 03:48:37 (First version)_
+1. [Sinai insurgency: Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. The attack included VBIED and signal jamming. ](/news/2017/07/7/sinai-insurgency-masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least.md) _2018-02-06 13:49:31 (First version)_
 1. [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. The attack included VBIED and signal jamming. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md) _(Current version)_
 
 ### Related:

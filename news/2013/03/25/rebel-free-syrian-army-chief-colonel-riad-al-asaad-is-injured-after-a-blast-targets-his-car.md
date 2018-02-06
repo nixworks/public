@@ -17,8 +17,8 @@ Officials say National Coalition will represent Syria in upcoming pan-Arab summi
 
 ### Changes:
 
-1. [Syrian civil war:Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-prebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2017-08-25 03:38:00 (First version)_
-2. [Syrian civil war:: Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2017-08-27 03:38:12 (Update)_
+1. [Syrian civil war:: Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-prebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _(Current version)_
 
 ### Related:

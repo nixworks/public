@@ -18,8 +18,8 @@ The Myanmar military will observe a ceasefire in its fight with ethnic Kachin re
 
 ### Changes:
 
-1. [Kachin conflict:President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-ppresident-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _2017-08-25 03:37:17 (First version)_
-2. [Kachin conflict:: President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-president-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _2017-08-27 03:37:27 (Update)_
+1. [Kachin conflict:: President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-president-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _2018-02-06 13:49:24 (First version)_
+2. [Kachin conflict:President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-ppresident-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _2018-02-06 13:49:24 (Update)_
 2. [President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/president-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md) _(Current version)_
 
 ### Related:

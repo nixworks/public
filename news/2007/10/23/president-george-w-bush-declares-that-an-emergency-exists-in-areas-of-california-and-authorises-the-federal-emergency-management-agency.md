@@ -19,8 +19,8 @@ Towering wildfires burned out of control across Southern California for a third 
 
 ### Changes:
 
-1. [ California wildfires of October 2007: President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/california-wildfires-of-october-2007-p-president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-t.md) _2017-08-25 03:21:14 (First version)_
-2. [ California wildfires of October 2007:: President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/california-wildfires-of-october-2007-president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-t.md) _2017-08-27 03:21:10 (Update)_
+1. [ California wildfires of October 2007:: President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/california-wildfires-of-october-2007-president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-t.md) _2018-02-06 13:49:18 (First version)_
+2. [ California wildfires of October 2007: President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/california-wildfires-of-october-2007-p-president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-t.md) _2018-02-06 13:49:18 (Update)_
 2. [ President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-the-federal-emergency-management-agency.md) _(Current version)_
 
 ### Related:

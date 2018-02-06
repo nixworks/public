@@ -19,8 +19,8 @@ Commonwealth Edison expects to restore power to most of its customers by Thursda
 
 ### Changes:
 
-1. [Central United States stormsMore than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/central-united-states-stormspmore-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-with.md) _2017-08-25 03:33:31 (First version)_
-2. [Central United States storms: More than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/central-united-states-storms-more-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-wit.md) _2017-08-27 03:33:39 (Update)_
+1. [Central United States stormsMore than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/central-united-states-stormspmore-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-with.md) _2018-02-06 13:49:22 (First version)_
+2. [Central United States storms: More than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/central-united-states-storms-more-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-wit.md) _2018-02-06 13:49:22 (Update)_
 2. [More than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/more-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-with-some-reports-of-funnel-cloud.md) _(Current version)_
 
 ### Related:

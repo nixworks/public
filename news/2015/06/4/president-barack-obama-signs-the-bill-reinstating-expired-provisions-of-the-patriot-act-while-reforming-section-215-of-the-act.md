@@ -16,7 +16,7 @@ The bill moves the storage of bulk telephone metadata used by the NSA to telecom
 
 ### Changes:
 
-1. [USA Freedom Act: President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/usa-freedom-act-president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the.md) _2017-08-27 03:42:28 (First version)_
+1. [USA Freedom Act: President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/usa-freedom-act-president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the.md) _2018-02-06 13:49:27 (First version)_
 1. [ President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the-act.md) _(Current version)_
 
 ### Related:

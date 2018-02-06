@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/18/turkish-police-arrest-18-people-including-minin
 
 ### Changes:
 
-1. [Soma mine disaster:Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/soma-mine-disaster-pturkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-peo.md) _2017-08-25 03:40:25 (First version)_
-2. [Soma mine disaster:: Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/soma-mine-disaster-turkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-pe.md) _2017-08-27 03:40:42 (Update)_
+1. [Soma mine disaster:: Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/soma-mine-disaster-turkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-pe.md) _2018-02-06 13:49:26 (First version)_
+2. [Soma mine disaster:Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/soma-mine-disaster-pturkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-peo.md) _2018-02-06 13:49:26 (Update)_
 2. [Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/turkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-people.md) _(Current version)_
 
 ### Related:

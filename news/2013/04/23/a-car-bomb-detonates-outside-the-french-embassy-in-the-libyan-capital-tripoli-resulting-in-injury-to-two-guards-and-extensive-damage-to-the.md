@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/23/a-car-bomb-detonates-outside-the-french-embassy
 
 ### Changes:
 
-1. [War on Terror:A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-pa-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensiv.md) _2017-08-25 03:38:27 (First version)_
-2. [War on Terror:: A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensi.md) _2017-08-27 03:38:40 (Update)_
+1. [War on Terror:A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-pa-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensiv.md) _2018-02-06 13:49:24 (First version)_
+2. [War on Terror:: A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensi.md) _2018-02-06 13:49:24 (Update)_
 2. [A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensive-damage-to-the.md) _(Current version)_
 
 ### Related:

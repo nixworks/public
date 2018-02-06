@@ -18,8 +18,8 @@ British Prime Minister David Cameron has branded a rate fixing scandal which pro
 
 ### Changes:
 
-1. [Libor inter-bank interest rate:Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/libor-inter-bank-interest-rate-pbob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-selec.md) _2017-08-25 03:36:02 (First version)_
-2. [Libor inter-bank interest rate:: Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/libor-inter-bank-interest-rate-bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-sele.md) _2017-08-27 03:36:13 (Update)_
+1. [Libor inter-bank interest rate:Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/libor-inter-bank-interest-rate-pbob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-selec.md) _2018-02-06 13:49:23 (First version)_
+2. [Libor inter-bank interest rate:: Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/libor-inter-bank-interest-rate-bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-sele.md) _2018-02-06 13:49:23 (Update)_
 2. [Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-select-committee-on-the-bank-s-manipu.md) _(Current version)_
 
 ### Related:

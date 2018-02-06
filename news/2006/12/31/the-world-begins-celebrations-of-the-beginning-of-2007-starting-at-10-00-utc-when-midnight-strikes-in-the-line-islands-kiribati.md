@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/12/31/the-world-begins-celebrations-of-the-beginning-
 
 ### Changes:
 
-1. [ New Year's Eve 2006-2007: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-p-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _2017-08-25 03:18:57 (First version)_
-2. [ New Year's Eve 2006-2007:: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _2017-08-27 03:18:53 (Update)_
+1. [ New Year's Eve 2006-2007:: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _2018-02-06 13:49:17 (First version)_
+2. [ New Year's Eve 2006-2007: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-p-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _2018-02-06 13:49:17 (Update)_
 2. [ The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line-islands-kiribati.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedi
 
 ### Changes:
 
-1. [''Encyclopaedia Britannica'', the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing.md) _2017-08-25 03:35:16 (First version)_
+1. [''Encyclopaedia Britannica'', the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing.md) _2018-02-06 13:49:23 (First version)_
 1. ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md) _(Current version)_
 
 ### Related:

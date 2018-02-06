@@ -17,8 +17,8 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ### Changes:
 
-1. [ War in Iraq: United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-p-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md) _2017-08-25 03:20:15 (First version)_
-2. [ War in Iraq:: United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md) _2017-08-27 03:20:13 (Update)_
+1. [ War in Iraq:: United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Iraq: United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-p-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md) _2018-02-06 13:49:17 (Update)_
 2. [ United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md) _(Current version)_
 
 ### Related:

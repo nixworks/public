@@ -17,8 +17,8 @@ China says it will send medical teams and a naval hospital ship to the typhoon-h
 
 ### Changes:
 
-1. [Typhoon Haiyan:China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/typhoon-haiyan-pchina-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md) _2017-08-25 03:39:33 (First version)_
-2. [Typhoon Haiyan:: China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/typhoon-haiyan-china-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md) _2017-08-27 03:39:51 (Update)_
+1. [Typhoon Haiyan:China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/typhoon-haiyan-pchina-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/typhoon-haiyan-china-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md) _2018-02-06 13:49:25 (Update)_
 2. [China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/china-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md) _(Current version)_
 
 ### Related:

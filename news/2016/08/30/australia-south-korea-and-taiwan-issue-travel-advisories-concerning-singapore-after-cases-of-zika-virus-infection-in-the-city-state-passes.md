@@ -16,7 +16,7 @@ Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United 
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Australia, South Korea and Taiwan issue travel advisories concerning Singapore after cases of Zika virus infection in the city-state passes 50. ](/news/2016/08/30/2015-16-zika-virus-epidemic-australia-south-korea-and-taiwan-issue-travel-advisories-concerning-singapore-after-cases-of-zika-virus-infe.md) _2017-08-27 03:46:44 (First version)_
+1. [2015-16 Zika virus epidemic: Australia, South Korea and Taiwan issue travel advisories concerning Singapore after cases of Zika virus infection in the city-state passes 50. ](/news/2016/08/30/2015-16-zika-virus-epidemic-australia-south-korea-and-taiwan-issue-travel-advisories-concerning-singapore-after-cases-of-zika-virus-infe.md) _2018-02-06 13:49:29 (First version)_
 1. [Australia, South Korea and Taiwan issue travel advisories concerning Singapore after cases of Zika virus infection in the city-state passes 50. ](/news/2016/08/30/australia-south-korea-and-taiwan-issue-travel-advisories-concerning-singapore-after-cases-of-zika-virus-infection-in-the-city-state-passes.md) _(Current version)_
 
 ### Related:

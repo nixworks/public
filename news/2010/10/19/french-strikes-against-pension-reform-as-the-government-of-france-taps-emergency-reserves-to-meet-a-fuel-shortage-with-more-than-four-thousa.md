@@ -19,7 +19,7 @@ French&#x20;protesters&#x20;engaged&#x20;in&#x20;a&#x20;sixth&#x20;day&#x20;of&#
 
 ### Changes:
 
-1. [French unrest: French strikes against pension reform as the Government of France taps emergency reserves to meet a fuel shortage with more than four thousand petrol stations running out of fuel. ](/news/2010/10/19/french-unrest-french-strikes-against-pension-reform-as-the-government-of-france-taps-emergency-reserves-to-meet-a-fuel-shortage-with-more-t.md) _2017-08-27 03:30:41 (First version)_
+1. [French unrest: French strikes against pension reform as the Government of France taps emergency reserves to meet a fuel shortage with more than four thousand petrol stations running out of fuel. ](/news/2010/10/19/french-unrest-french-strikes-against-pension-reform-as-the-government-of-france-taps-emergency-reserves-to-meet-a-fuel-shortage-with-more-t.md) _2018-02-06 13:49:20 (First version)_
 1. [French strikes against pension reform as the Government of France taps emergency reserves to meet a fuel shortage with more than four thousand petrol stations running out of fuel. ](/news/2010/10/19/french-strikes-against-pension-reform-as-the-government-of-france-taps-emergency-reserves-to-meet-a-fuel-shortage-with-more-than-four-thousa.md) _(Current version)_
 
 ### Related:

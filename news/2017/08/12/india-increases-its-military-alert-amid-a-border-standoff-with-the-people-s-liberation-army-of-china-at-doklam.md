@@ -16,7 +16,7 @@ India has increased its military alert along its eastern border with China, plac
 
 ### Changes:
 
-1. [2017 China-India border standoff: India increases its military alert amid a border standoff with the People's Liberation Army of China at Doklam. ](/news/2017/08/12/2017-china-india-border-standoff-india-increases-its-military-alert-amid-a-border-standoff-with-the-people-s-liberation-army-of-china-at.md) _2017-08-27 03:48:48 (First version)_
+1. [2017 China-India border standoff: India increases its military alert amid a border standoff with the People's Liberation Army of China at Doklam. ](/news/2017/08/12/2017-china-india-border-standoff-india-increases-its-military-alert-amid-a-border-standoff-with-the-people-s-liberation-army-of-china-at.md) _2018-02-06 13:49:31 (First version)_
 1. [India increases its military alert amid a border standoff with the People's Liberation Army of China at Doklam. ](/news/2017/08/12/india-increases-its-military-alert-amid-a-border-standoff-with-the-people-s-liberation-army-of-china-at-doklam.md) _(Current version)_
 
 ### Related:

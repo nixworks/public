@@ -13,7 +13,7 @@ _Context: 2016 Citronelle homicides_
 
 ##### India
 ### [India announces the new governor of its central bank, the Reserve Bank of India, is Urjit Patel, formerly the RBI's deputy governor for monetary policy. ](/news/2016/08/20/india-announces-the-new-governor-of-its-central-bank-the-reserve-bank-of-india-is-urjit-patel-formerly-the-rbi-s-deputy-governor-for-mone.md)
-_Context: monetary policy, Urjit Patel, India, Reserve Bank of India_
+_Context: Urjit Patel, monetary policy, Reserve Bank of India, India_
 
 ##### Citronelle, Alabama
 ### [Derrick Dearman a 27-year-old Mississippi man kills five people in the U.S. town of Citronelle, Alabama then kidnaps his pregnant ex-girlfriend from among the victims. Nearby, the Greene County, Mississippi Sheriff's office takes the surrender and confession of the suspect. ](/news/2016/08/20/derrick-dearman-a-27-year-old-mississippi-man-kills-five-people-in-the-u-s-town-of-citronelle-alabama-then-kidnaps-his-pregnant-ex-girlfri.md)

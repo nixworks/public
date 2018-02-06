@@ -16,7 +16,7 @@ The memorial will be held at 10am on Jul 11, 2015 at Bunga Raya Complex at Kuala
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17: Malaysia announces that they will host a memorial for the victims of MH17 on July 11 at Kuala Lumpur International Airport. ](/news/2015/06/27/malaysia-airlines-flight-17-malaysia-announces-that-they-will-host-a-memorial-for-the-victims-of-mh17-on-july-11-at-kuala-lumpur-internatio.md) _2017-08-27 03:42:36 (First version)_
+1. [Malaysia Airlines Flight 17: Malaysia announces that they will host a memorial for the victims of MH17 on July 11 at Kuala Lumpur International Airport. ](/news/2015/06/27/malaysia-airlines-flight-17-malaysia-announces-that-they-will-host-a-memorial-for-the-victims-of-mh17-on-july-11-at-kuala-lumpur-internatio.md) _2018-02-06 13:49:27 (First version)_
 1. [Malaysia announces that they will host a memorial for the victims of MH17 on July 11 at Kuala Lumpur International Airport. ](/news/2015/06/27/malaysia-announces-that-they-will-host-a-memorial-for-the-victims-of-mh17-on-july-11-at-kuala-lumpur-international-airport.md) _(Current version)_
 
 ### Related:

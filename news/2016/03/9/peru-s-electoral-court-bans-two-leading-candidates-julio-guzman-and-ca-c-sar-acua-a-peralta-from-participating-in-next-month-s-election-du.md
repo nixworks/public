@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidat
 
 ### Changes:
 
-1. [Peruvian general election, 2016: Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peruvian-general-election-2016-peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-particip.md) _2017-08-27 03:45:11 (First version)_
+1. [Peruvian general election, 2016: Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peruvian-general-election-2016-peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-particip.md) _2018-02-06 13:49:28 (First version)_
 1. [Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.md) _(Current version)_
 
 ### Related:

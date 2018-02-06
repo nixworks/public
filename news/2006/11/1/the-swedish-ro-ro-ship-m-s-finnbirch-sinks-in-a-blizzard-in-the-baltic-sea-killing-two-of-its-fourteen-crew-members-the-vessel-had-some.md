@@ -17,7 +17,7 @@ Formats: [HTML](/news/2006/11/1/the-swedish-ro-ro-ship-m-s-finnbirch-sinks-in-a-
 
 ### Changes:
 
-1. [ The Swedish Ro-Ro ship M-S ''Finnbirch'' sinks in a blizzard in the Baltic Sea, killing two of its fourteen crew members. The vessel had some 260 tons of fuel and lubrication oil onboard which might present a hazard to the environment. ](/news/2006/11/1/the-swedish-ro-ro-ship-m-s-finnbirch-sinks-in-a-blizzard-in-the-baltic-sea-killing-two-of-its-fourteen-crew-members-the-vessel-had-so.md) _2017-08-25 03:18:41 (First version)_
+1. [ The Swedish Ro-Ro ship M-S ''Finnbirch'' sinks in a blizzard in the Baltic Sea, killing two of its fourteen crew members. The vessel had some 260 tons of fuel and lubrication oil onboard which might present a hazard to the environment. ](/news/2006/11/1/the-swedish-ro-ro-ship-m-s-finnbirch-sinks-in-a-blizzard-in-the-baltic-sea-killing-two-of-its-fourteen-crew-members-the-vessel-had-so.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Swedish Ro-Ro ship M-S "Finnbirch" sinks in a blizzard in the Baltic Sea, killing two of its fourteen crew members. The vessel had some 260 tons of fuel and lubrication oil onboard which might present a hazard to the environment. ](/news/2006/11/1/the-swedish-ro-ro-ship-m-s-finnbirch-sinks-in-a-blizzard-in-the-baltic-sea-killing-two-of-its-fourteen-crew-members-the-vessel-had-some.md) _(Current version)_
 
 ### Related:

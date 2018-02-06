@@ -19,8 +19,8 @@ LONDON -- The European Union has frozen the assets of former Ukrainian President
 
 ### Changes:
 
-1. [2014 Crimean crisis:The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-pthe-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-h.md) _2017-08-25 03:40:07 (First version)_
-2. [2014 Crimean crisis:: The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of.md) _2017-08-27 03:40:25 (Update)_
+1. [2014 Crimean crisis:: The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-pthe-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-h.md) _2018-02-06 13:49:26 (Update)_
 2. [The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-his-advisers.md) _(Current version)_
 
 ### Related:

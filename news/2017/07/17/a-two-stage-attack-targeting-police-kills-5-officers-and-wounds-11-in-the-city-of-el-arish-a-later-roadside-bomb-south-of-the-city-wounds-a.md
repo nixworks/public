@@ -15,7 +15,7 @@ Islamic militants launched a series of attacks against Egyptian police in the no
 
 ### Changes:
 
-1. [Sinai insurgency: A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/sinai-insurgency-a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of.md) _2017-08-27 03:48:40 (First version)_
+1. [Sinai insurgency: A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/sinai-insurgency-a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of.md) _2018-02-06 13:49:30 (First version)_
 1. [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md) _(Current version)_
 
 ### Related:

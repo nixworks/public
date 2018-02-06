@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/4/a-south-korean-court-orders-the-government-to-co
 
 ### Changes:
 
-1. [A South Korean court orders the government to compensate a fisherman with 2.5 billion won (- 1.75 million); he was falsely accused of spying for North Korea. ](/news/2012/09/4/a-south-korean-court-orders-the-government-to-compensate-a-fisherman-with-2-5-billion-won-1-75-million-he-was-falsely-accused-of-spyi.md) _2017-08-27 03:36:36 (First version)_
+1. [A South Korean court orders the government to compensate a fisherman with 2.5 billion won (- 1.75 million); he was falsely accused of spying for North Korea. ](/news/2012/09/4/a-south-korean-court-orders-the-government-to-compensate-a-fisherman-with-2-5-billion-won-1-75-million-he-was-falsely-accused-of-spyi.md) _2018-02-06 13:49:23 (First version)_
 1. [A South Korean court orders the government to compensate a fisherman with 2.5 billion won (EUR 1.75 million); he was falsely accused of spying for North Korea. ](/news/2012/09/4/a-south-korean-court-orders-the-government-to-compensate-a-fisherman-with-2-5-billion-won-a-1-75-million-he-was-falsely-accused-of-spyi.md) _(Current version)_
 
 ### Related:

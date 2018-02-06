@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/03/9/the-interim-legislature-of-nepal-amends-the-cons
 
 ### Changes:
 
-1. [ Nepal: The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/nepal-p-the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md) _2017-08-25 03:19:21 (First version)_
-2. [ Nepal:: The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/nepal-the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md) _2017-08-27 03:19:17 (Update)_
+1. [ Nepal:: The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/nepal-the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md) _2018-02-06 13:49:17 (First version)_
+2. [ Nepal: The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/nepal-p-the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md) _2018-02-06 13:49:17 (Update)_
 2. [ The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md) _(Current version)_
 
 ### Related:

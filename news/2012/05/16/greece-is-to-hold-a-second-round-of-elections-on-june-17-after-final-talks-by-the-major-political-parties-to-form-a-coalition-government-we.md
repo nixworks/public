@@ -17,8 +17,8 @@ Greece will hold fresh elections on 17 June and a judge is appointed to head an 
 
 ### Changes:
 
-1. [Greek politics:Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greek-politics-pgreece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coaliti.md) _2017-08-25 03:35:42 (First version)_
-2. [Greek politics:: Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greek-politics-greece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coalit.md) _2017-08-27 03:35:53 (Update)_
+1. [Greek politics:Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greek-politics-pgreece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coaliti.md) _2018-02-06 13:49:23 (First version)_
+2. [Greek politics:: Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greek-politics-greece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coalit.md) _2018-02-06 13:49:23 (Update)_
 2. [Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coalition-government-we.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames
 
 ### Changes:
 
-1. [January 2017 Jerusalem vehicular attack: Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/january-2017-jerusalem-vehicular-attack-israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four.md) _2017-08-27 03:47:35 (First version)_
+1. [January 2017 Jerusalem vehicular attack: Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/january-2017-jerusalem-vehicular-attack-israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four.md) _2018-02-06 13:49:30 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md) _(Current version)_
 
 ### Related:

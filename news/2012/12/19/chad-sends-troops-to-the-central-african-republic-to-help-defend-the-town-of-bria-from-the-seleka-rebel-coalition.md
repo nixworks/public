@@ -16,8 +16,8 @@ Chad troops enter the Central African Republic (CAR) to help fight rebels who ha
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:Chad sends troops to the Central African Republic to help defend the town of Bria from the Seleka rebel coalition. ](/news/2012/12/19/2012-central-african-republic-rebellion-pchad-sends-troops-to-the-central-african-republic-to-help-defend-the-town-of-bria-from-the-seleka-r.md) _2017-08-25 03:37:04 (First version)_
-2. [2012 Central African Republic rebellion:: Chad sends troops to the Central African Republic to help defend the town of Bria from the Seleka rebel coalition. ](/news/2012/12/19/2012-central-african-republic-rebellion-chad-sends-troops-to-the-central-african-republic-to-help-defend-the-town-of-bria-from-the-seleka.md) _2017-08-27 03:37:15 (Update)_
+1. [2012 Central African Republic rebellion:Chad sends troops to the Central African Republic to help defend the town of Bria from the Seleka rebel coalition. ](/news/2012/12/19/2012-central-african-republic-rebellion-pchad-sends-troops-to-the-central-african-republic-to-help-defend-the-town-of-bria-from-the-seleka-r.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:: Chad sends troops to the Central African Republic to help defend the town of Bria from the Seleka rebel coalition. ](/news/2012/12/19/2012-central-african-republic-rebellion-chad-sends-troops-to-the-central-african-republic-to-help-defend-the-town-of-bria-from-the-seleka.md) _2018-02-06 13:49:24 (Update)_
 2. [Chad sends troops to the Central African Republic to help defend the town of Bria from the Seleka rebel coalition. ](/news/2012/12/19/chad-sends-troops-to-the-central-african-republic-to-help-defend-the-town-of-bria-from-the-seleka-rebel-coalition.md) _(Current version)_
 
 ### Related:

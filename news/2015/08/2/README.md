@@ -3,9 +3,9 @@ Formats: [HTML](2015/08/2/index.html)  [JSON](2015/08/2/index.json)  [XML](2015/
 
 ## [2015-08-2](/news/2015/08/2/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
-_Context: Saudi Arabian-led intervention in Yemen, Saudi Arabia, Najran, Yemen_
+_Context: Yemen, Saudi-led intervention in Yemen, Najran, Saudi Arabia_
 
 ##### Turkey-PKK conflict
 ### [A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza-t-in-aara-province-ne.md)

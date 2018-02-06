@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-
 
 ### Changes:
 
-1. [The Government of Iceland imposes a flight ban, following the eruption of Iceland's most active volcano, Grmsvtn. ](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-following-the-eruption-of-iceland-s-most-active-volcano-grimsvotn.md) _2017-10-17 03:38:39 (First version)_
+1. [The Government of Iceland imposes a flight ban, following the eruption of Iceland's most active volcano, Grmsvtn. ](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-following-the-eruption-of-iceland-s-most-active-volcano-grimsvotn.md) _2018-02-06 13:49:22 (First version)_
 1. [The Government of Iceland imposes a flight ban, following the eruption of Iceland's most active volcano, Grimsvotn. ](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-following-the-eruption-of-iceland-s-most-active-volcano-gramsvaptn.md) _(Current version)_
 
 ### Related:

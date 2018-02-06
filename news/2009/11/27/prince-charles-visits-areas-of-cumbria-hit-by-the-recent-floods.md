@@ -20,8 +20,8 @@ Farmers across the State are today increase efforts to help their colleagues aff
 
 ### Changes:
 
-1. [ Great Britain and Ireland floods: Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-p-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md) _2017-08-25 03:26:28 (First version)_
-2. [ Great Britain and Ireland floods:: Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md) _2017-08-27 03:26:19 (Update)_
+1. [ Great Britain and Ireland floods:: Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md) _2018-02-06 13:49:19 (First version)_
+2. [ Great Britain and Ireland floods: Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-p-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md) _2018-02-06 13:49:19 (Update)_
 2. [ Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md) _(Current version)_
 
 ### Related:

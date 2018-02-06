@@ -18,7 +18,7 @@ Resolution passed by national assembly allows president to stay in power for 90 
 
 ### Changes:
 
-1. [2016-17 Gambian constitutional crisis: The National Assembly of the Gambia approves extending Yahya Jammeh's term as President of the country for 90 more days. ](/news/2017/01/18/2016-17-gambian-constitutional-crisis-the-national-assembly-of-the-gambia-approves-extending-yahya-jammeh-s-term-as-president-of-the-coun.md) _2017-08-27 03:47:38 (First version)_
+1. [2016-17 Gambian constitutional crisis: The National Assembly of the Gambia approves extending Yahya Jammeh's term as President of the country for 90 more days. ](/news/2017/01/18/2016-17-gambian-constitutional-crisis-the-national-assembly-of-the-gambia-approves-extending-yahya-jammeh-s-term-as-president-of-the-coun.md) _2018-02-06 13:49:30 (First version)_
 1. [The National Assembly of the Gambia approves extending Yahya Jammeh's term as President of the country for 90 more days. ](/news/2017/01/18/the-national-assembly-of-the-gambia-approves-extending-yahya-jammeh-s-term-as-president-of-the-country-for-90-more-days.md) _(Current version)_
 
 ### Related:

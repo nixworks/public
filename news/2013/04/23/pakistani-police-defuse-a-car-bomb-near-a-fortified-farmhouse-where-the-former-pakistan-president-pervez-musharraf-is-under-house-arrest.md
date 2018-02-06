@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/23/pakistani-police-defuse-a-car-bomb-near-a-forti
 
 ### Changes:
 
-1. [War in North-West Pakistan:Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-ppakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-mushar.md) _2017-08-25 03:38:27 (First version)_
-2. [War in North-West Pakistan:: Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musha.md) _2017-08-27 03:38:39 (Update)_
+1. [War in North-West Pakistan:Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-ppakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-mushar.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musha.md) _2018-02-06 13:49:24 (Update)_
 2. [Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musharraf-is-under-house-arrest.md) _(Current version)_
 
 ### Related:

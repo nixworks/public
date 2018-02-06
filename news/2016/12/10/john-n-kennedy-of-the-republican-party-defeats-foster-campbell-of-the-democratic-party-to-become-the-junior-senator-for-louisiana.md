@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-
 
 ### Changes:
 
-1. [United States Senate election in Louisiana, 2016: John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/united-states-senate-election-in-louisiana-2016-john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to.md) _2017-08-27 03:47:25 (First version)_
+1. [United States Senate election in Louisiana, 2016: John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/united-states-senate-election-in-louisiana-2016-john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to.md) _2018-02-06 13:49:29 (First version)_
 1. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ BUENOS AIRES, Argentina (AP) — In a story May 27 about an Argentina court ruli
 
 ### Changes:
 
-1. [Human rights in Argentina: Reynaldo Bignone, the last military President of Argentina, is sentenced to twenty years imprisonment for his role in the forced disappearance of more than 100 people in Operation Condor. ](/news/2016/05/27/human-rights-in-argentina-reynaldo-bignone-the-last-military-president-of-argentina-is-sentenced-to-twenty-years-imprisonment-for-his-rol.md) _2017-08-27 03:46:08 (First version)_
+1. [Human rights in Argentina: Reynaldo Bignone, the last military President of Argentina, is sentenced to twenty years imprisonment for his role in the forced disappearance of more than 100 people in Operation Condor. ](/news/2016/05/27/human-rights-in-argentina-reynaldo-bignone-the-last-military-president-of-argentina-is-sentenced-to-twenty-years-imprisonment-for-his-rol.md) _2018-02-06 13:49:29 (First version)_
 1. [Reynaldo Bignone, the last military President of Argentina, is sentenced to twenty years imprisonment for his role in the forced disappearance of more than 100 people in Operation Condor. ](/news/2016/05/27/reynaldo-bignone-the-last-military-president-of-argentina-is-sentenced-to-twenty-years-imprisonment-for-his-role-in-the-forced-disappearan.md) _(Current version)_
 
 ### Related:

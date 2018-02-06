@@ -17,7 +17,7 @@ The Taliban have attacked and entered the northern Afghanistan city of Kunduz.
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. ](/news/2016/10/3/war-in-afghanistan-2015-present-the-taliban-launches-an-offensive-entering-the-city-of-kunduz-which-they-briefly-captured-last-year.md) _2017-08-27 03:46:57 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. ](/news/2016/10/3/war-in-afghanistan-2015-present-the-taliban-launches-an-offensive-entering-the-city-of-kunduz-which-they-briefly-captured-last-year.md) _2018-02-06 13:49:29 (First version)_
 1. [The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. ](/news/2016/10/3/the-taliban-launches-an-offensive-entering-the-city-of-kunduz-which-they-briefly-captured-last-year.md) _(Current version)_
 
 ### Related:

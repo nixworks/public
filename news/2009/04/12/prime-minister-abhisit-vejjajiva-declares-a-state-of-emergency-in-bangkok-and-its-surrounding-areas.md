@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/04/12/prime-minister-abhisit-vejjajiva-declares-a-sta
 
 ### Changes:
 
-1. [ Thai political crisis: Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-p-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md) _2017-08-25 03:24:20 (First version)_
-2. [ Thai political crisis:: Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md) _2017-08-27 03:24:11 (Update)_
+1. [ Thai political crisis:: Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md) _2018-02-06 13:49:18 (First version)_
+2. [ Thai political crisis: Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-p-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md) _2018-02-06 13:49:18 (Update)_
 2. [ Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md) _(Current version)_
 
 ### Related:

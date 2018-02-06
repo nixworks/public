@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/7/two-united-states-navy-f-a-18-super-hornets-a-f-
 
 ### Changes:
 
-1. [ Two United States Navy F-A-18 Super Hornets, a F-A-18E and two-seat F-A-18F, flying off the aircraft carrier USS ''Harry S. Truman'', crash in the Persian Gulf. The aviators were safely recovered. There was no indication of hostile fire. ](/news/2008/01/7/two-united-states-navy-f-a-18-super-hornets-a-f-a-18e-and-two-seat-f-a-18f-flying-off-the-aircraft-carrier-uss-harry-s-truman-crash.md) _2017-08-25 03:21:38 (First version)_
+1. [ Two United States Navy F-A-18 Super Hornets, a F-A-18E and two-seat F-A-18F, flying off the aircraft carrier USS ''Harry S. Truman'', crash in the Persian Gulf. The aviators were safely recovered. There was no indication of hostile fire. ](/news/2008/01/7/two-united-states-navy-f-a-18-super-hornets-a-f-a-18e-and-two-seat-f-a-18f-flying-off-the-aircraft-carrier-uss-harry-s-truman-crash.md) _2018-02-06 13:49:18 (First version)_
 1. [ Two United States Navy F-A-18 Super Hornets, a F-A-18E and two-seat F-A-18F, flying off the aircraft carrier USS "Harry S. Truman", crash in the Persian Gulf. The aviators were safely recovered. There was no indication of hostile fire. ](/news/2008/01/7/two-united-states-navy-f-a-18-super-hornets-a-f-a-18e-and-two-seat-f-a-18f-flying-off-the-aircraft-carrier-uss-harry-s-truman-crash-i.md) _(Current version)_
 
 ### Related:

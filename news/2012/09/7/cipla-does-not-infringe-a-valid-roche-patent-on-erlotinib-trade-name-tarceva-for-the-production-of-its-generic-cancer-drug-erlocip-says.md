@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-
 
 ### Changes:
 
-1. [Cipla does not infringe a valid Roche patent on erlotinib (trade name ''Tarceva'') for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-sa.md) _2017-08-25 03:36:26 (First version)_
+1. [Cipla does not infringe a valid Roche patent on erlotinib (trade name ''Tarceva'') for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-sa.md) _2018-02-06 13:49:24 (First version)_
 1. [Cipla does not infringe a valid Roche patent on erlotinib (trade name "Tarceva") for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-says.md) _(Current version)_
 
 ### Related:

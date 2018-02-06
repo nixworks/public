@@ -21,7 +21,7 @@ US Coast Guard searching for cargo ship with 33 people on board that went missin
 
 ### Changes:
 
-1. [Hurricane Joaquin: The U.S. Coast Guard is searching for a 735-foot (224-meter) cargo ship named 'El Faro,' with 33 people on board, that went missing near Crooked Island in the Bahamas during Hurricane Joaquin. Five Poles and 28 Americans make up the crew. ](/news/2015/10/2/hurricane-joaquin-the-u-s-coast-guard-is-searching-for-a-735-foot-224-meter-cargo-ship-named-el-faro-with-33-people-on-board-that-we.md) _2017-08-27 03:43:13 (First version)_
+1. [Hurricane Joaquin: The U.S. Coast Guard is searching for a 735-foot (224-meter) cargo ship named 'El Faro,' with 33 people on board, that went missing near Crooked Island in the Bahamas during Hurricane Joaquin. Five Poles and 28 Americans make up the crew. ](/news/2015/10/2/hurricane-joaquin-the-u-s-coast-guard-is-searching-for-a-735-foot-224-meter-cargo-ship-named-el-faro-with-33-people-on-board-that-we.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Coast Guard is searching for a 735-foot (224-meter) cargo ship named 'El Faro,' with 33 people on board, that went missing near Crooked Island in the Bahamas during Hurricane Joaquin. Five Poles and 28 Americans make up the crew. ](/news/2015/10/2/the-u-s-coast-guard-is-searching-for-a-735-foot-224-meter-cargo-ship-named-el-faro-with-33-people-on-board-that-went-missing-near-cro.md) _(Current version)_
 
 ### Related:

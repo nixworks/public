@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A roadside bomb kills two, including the district chief, in the Charcheno District of Afghanistan. ](/news/2015/05/23/war-in-afghanistan-2015-present-a-roadside-bomb-kills-two-including-the-district-chief-in-the-charcheno-district-of-afghanistan.md) _2017-08-27 03:42:22 (First version)_
+1. [War in Afghanistan (2015-present): A roadside bomb kills two, including the district chief, in the Charcheno District of Afghanistan. ](/news/2015/05/23/war-in-afghanistan-2015-present-a-roadside-bomb-kills-two-including-the-district-chief-in-the-charcheno-district-of-afghanistan.md) _2018-02-06 13:49:27 (First version)_
 1. [A roadside bomb kills two, including the district chief, in the Charcheno District of Afghanistan. ](/news/2015/05/23/a-roadside-bomb-kills-two-including-the-district-chief-in-the-charcheno-district-of-afghanistan.md) _(Current version)_
 
 ### Related:

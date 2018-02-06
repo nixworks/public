@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Eighteen-year-old Tatana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taay-a-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-kon.md) _2017-08-25 03:18:29 (First version)_
+1. [ Eighteen-year-old Tatana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taay-a-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-kon.md) _2018-02-06 13:49:17 (First version)_
 1. [ Eighteen-year-old TaCNYana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taacnya-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-k.md) _(Current version)_
 
 ### Related:

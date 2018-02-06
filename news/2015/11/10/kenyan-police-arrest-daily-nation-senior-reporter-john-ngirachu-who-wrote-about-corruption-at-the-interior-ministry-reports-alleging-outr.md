@@ -16,7 +16,7 @@ Kenyan police on Tuesday arrested a journalist who wrote about corruption at the
 
 ### Changes:
 
-1. [Kenyan police arrest ''Daily Nation'' senior reporter John Ngirachu who wrote about corruption at the Interior Ministry. Reports alleging outrageous spending by civil servants has raised pressure on President Uhuru Kenyatta. ](/news/2015/11/10/kenyan-police-arrest-daily-nation-senior-reporter-john-ngirachu-who-wrote-about-corruption-at-the-interior-ministry-reports-alleging.md) _2017-08-25 03:43:29 (First version)_
+1. [Kenyan police arrest ''Daily Nation'' senior reporter John Ngirachu who wrote about corruption at the Interior Ministry. Reports alleging outrageous spending by civil servants has raised pressure on President Uhuru Kenyatta. ](/news/2015/11/10/kenyan-police-arrest-daily-nation-senior-reporter-john-ngirachu-who-wrote-about-corruption-at-the-interior-ministry-reports-alleging.md) _2018-02-06 13:49:28 (First version)_
 1. [Kenyan police arrest "Daily Nation" senior reporter John Ngirachu who wrote about corruption at the Interior Ministry. Reports alleging outrageous spending by civil servants has raised pressure on President Uhuru Kenyatta. ](/news/2015/11/10/kenyan-police-arrest-daily-nation-senior-reporter-john-ngirachu-who-wrote-about-corruption-at-the-interior-ministry-reports-alleging-outr.md) _(Current version)_
 
 ### Related:

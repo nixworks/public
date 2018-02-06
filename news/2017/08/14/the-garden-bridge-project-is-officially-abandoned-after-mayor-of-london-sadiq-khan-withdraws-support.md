@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/14/the-garden-bridge-project-is-officially-abandon
 
 ### Changes:
 
-1. [Politics of London: The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/politics-of-london-the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md) _2017-08-27 03:48:48 (First version)_
+1. [Politics of London: The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/politics-of-london-the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md) _2018-02-06 13:49:31 (First version)_
 1. [The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md) _(Current version)_
 
 ### Related:

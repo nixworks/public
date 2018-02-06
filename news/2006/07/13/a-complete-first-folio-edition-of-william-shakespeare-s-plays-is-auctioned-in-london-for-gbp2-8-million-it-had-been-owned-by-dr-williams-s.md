@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/13/a-complete-first-folio-edition-of-william-shake
 
 ### Changes:
 
-1. [ A complete First Folio edition of William Shakespeare's plays is auctioned in London for 2.8 million. It had been owned by Dr Williams's Library, which paid about 500 for it in 1716. When new in 1623, the Folio would have cost 1. ](/news/2006/07/13/a-complete-first-folio-edition-of-william-shakespeare-s-plays-is-auctioned-in-london-for-ps2-8-million-it-had-been-owned-by-dr-williams-s-l.md) _2017-08-25 03:18:00 (First version)_
+1. [ A complete First Folio edition of William Shakespeare's plays is auctioned in London for 2.8 million. It had been owned by Dr Williams's Library, which paid about 500 for it in 1716. When new in 1623, the Folio would have cost 1. ](/news/2006/07/13/a-complete-first-folio-edition-of-william-shakespeare-s-plays-is-auctioned-in-london-for-ps2-8-million-it-had-been-owned-by-dr-williams-s-l.md) _2018-02-06 13:49:17 (First version)_
 1. [ A complete First Folio edition of William Shakespeare's plays is auctioned in London for GBP2.8 million. It had been owned by Dr Williams's Library, which paid about GBP500 for it in 1716. When new in 1623, the Folio would have cost GBP1. ](/news/2006/07/13/a-complete-first-folio-edition-of-william-shakespeare-s-plays-is-auctioned-in-london-for-gbp2-8-million-it-had-been-owned-by-dr-williams-s.md) _(Current version)_
 
 ### Related:

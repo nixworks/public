@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/23/an-article-in-new-york-magazine-speculates-that
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: An article in "New York" magazine speculates that the pilot may have deliberately crashed the plane into the Southern Ocean. ](/news/2016/07/23/malaysia-airlines-flight-370-an-article-in-new-york-magazine-speculates-that-the-pilot-may-have-deliberately-crashed-the-plane-into-the-s.md) _2017-08-27 03:46:32 (First version)_
+1. [Malaysia Airlines Flight 370: An article in "New York" magazine speculates that the pilot may have deliberately crashed the plane into the Southern Ocean. ](/news/2016/07/23/malaysia-airlines-flight-370-an-article-in-new-york-magazine-speculates-that-the-pilot-may-have-deliberately-crashed-the-plane-into-the-s.md) _2018-02-06 13:49:29 (First version)_
 1. [An article in "New York" magazine speculates that the pilot may have deliberately crashed the plane into the Southern Ocean. ](/news/2016/07/23/an-article-in-new-york-magazine-speculates-that-the-pilot-may-have-deliberately-crashed-the-plane-into-the-southern-ocean.md) _(Current version)_
 
 ### Related:

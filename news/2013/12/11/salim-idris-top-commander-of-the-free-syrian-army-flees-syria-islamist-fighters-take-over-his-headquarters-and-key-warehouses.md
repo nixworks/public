@@ -16,8 +16,8 @@ Islamist fighters ran the top Western-backed rebel commander in Syria out of his
 
 ### Changes:
 
-1. [Syrian Civil War:Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/syrian-civil-war-psalim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-ware.md) _2017-08-25 03:39:39 (First version)_
-2. [Syrian Civil War:: Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/syrian-civil-war-salim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-war.md) _2017-08-27 03:39:57 (Update)_
+1. [Syrian Civil War:: Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/syrian-civil-war-salim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-war.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/syrian-civil-war-psalim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-ware.md) _2018-02-06 13:49:25 (Update)_
 2. [Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/salim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-warehouses.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Trump says &quot;with the Palestinians no longer willing to talk peace, why shou
 
 ### Changes:
 
-1. [President Donald Trump tweets that the U.S. may withhold future payments to Palestine because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-palestine-because-they-are-no-longer-willing-to-talk-peace-wit.md) _2018-01-03 18:30:05 (First version)_
+1. [President Donald Trump tweets that the U.S. may withhold future payments to Palestine because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-palestine-because-they-are-no-longer-willing-to-talk-peace-wit.md) _2018-02-06 13:49:31 (First version)_
 1. [President Donald Trump tweets that the U.S. may withhold future payments to the Palestinian authority, over 350 million dollars per year, because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-the-palestinian-authority-over-350-million-dollars-per-year-be.md) _(Current version)_
 
 ### Related:

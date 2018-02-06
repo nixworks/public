@@ -15,7 +15,7 @@ Seeking to distract attention, fighters attack Rutba as thousands of troops focu
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): ISIL recaptures the western Iraqi town of Ar-Rutbah, which it previously withdrew from in May. ](/news/2016/10/24/iraqi-civil-war-2014-present-isil-recaptures-the-western-iraqi-town-of-ar-rutbah-which-it-previously-withdrew-from-in-may.md) _2017-08-27 03:47:07 (First version)_
+1. [Iraqi Civil War (2014-present): ISIL recaptures the western Iraqi town of Ar-Rutbah, which it previously withdrew from in May. ](/news/2016/10/24/iraqi-civil-war-2014-present-isil-recaptures-the-western-iraqi-town-of-ar-rutbah-which-it-previously-withdrew-from-in-may.md) _2018-02-06 13:49:29 (First version)_
 1. [ISIL recaptures the western Iraqi town of Ar-Rutbah, which it previously withdrew from in May. ](/news/2016/10/24/isil-recaptures-the-western-iraqi-town-of-ar-rutbah-which-it-previously-withdrew-from-in-may.md) _(Current version)_
 
 ### Related:

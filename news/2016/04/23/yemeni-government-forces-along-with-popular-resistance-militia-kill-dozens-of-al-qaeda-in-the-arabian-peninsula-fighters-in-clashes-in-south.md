@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/23/yemeni-government-forces-along-with-popular-res
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen: Yemeni government forces along with Popular Resistance militia kill dozens of Al-Qaeda in the Arabian Peninsula fighters in clashes in southern Yemen. A drone strike kills two others further north, near Ma'rib. ](/news/2016/04/23/al-qaeda-insurgency-in-yemen-yemeni-government-forces-along-with-popular-resistance-militia-kill-dozens-of-al-qaeda-in-the-arabian-peninsul.md) _2017-08-27 03:45:47 (First version)_
+1. [Al-Qaeda insurgency in Yemen: Yemeni government forces along with Popular Resistance militia kill dozens of Al-Qaeda in the Arabian Peninsula fighters in clashes in southern Yemen. A drone strike kills two others further north, near Ma'rib. ](/news/2016/04/23/al-qaeda-insurgency-in-yemen-yemeni-government-forces-along-with-popular-resistance-militia-kill-dozens-of-al-qaeda-in-the-arabian-peninsul.md) _2018-02-06 13:49:28 (First version)_
 1. [Yemeni government forces along with Popular Resistance militia kill dozens of Al-Qaeda in the Arabian Peninsula fighters in clashes in southern Yemen. A drone strike kills two others further north, near Ma'rib. ](/news/2016/04/23/yemeni-government-forces-along-with-popular-resistance-militia-kill-dozens-of-al-qaeda-in-the-arabian-peninsula-fighters-in-clashes-in-south.md) _(Current version)_
 
 ### Related:

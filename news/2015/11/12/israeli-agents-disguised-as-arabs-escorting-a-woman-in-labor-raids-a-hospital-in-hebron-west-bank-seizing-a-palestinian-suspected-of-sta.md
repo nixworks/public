@@ -17,7 +17,7 @@ Video emerged showing Israeli forces disguised in traditional Arab outfits as th
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli agents, disguised as Arabs escorting a woman in labor, raids a hospital in Hebron, West Bank, seizing a Palestinian suspected of stabbing and shooting dead his cousin. ](/news/2015/11/12/israeli-palestinian-conflict-israeli-agents-disguised-as-arabs-escorting-a-woman-in-labor-raids-a-hospital-in-hebron-west-bank-seizing.md) _2017-08-27 03:43:49 (First version)_
+1. [Israeli-Palestinian conflict: Israeli agents, disguised as Arabs escorting a woman in labor, raids a hospital in Hebron, West Bank, seizing a Palestinian suspected of stabbing and shooting dead his cousin. ](/news/2015/11/12/israeli-palestinian-conflict-israeli-agents-disguised-as-arabs-escorting-a-woman-in-labor-raids-a-hospital-in-hebron-west-bank-seizing.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli agents, disguised as Arabs escorting a woman in labor, raids a hospital in Hebron, West Bank, seizing a Palestinian suspected of stabbing and shooting dead his cousin. ](/news/2015/11/12/israeli-agents-disguised-as-arabs-escorting-a-woman-in-labor-raids-a-hospital-in-hebron-west-bank-seizing-a-palestinian-suspected-of-sta.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in
 
 ### Changes:
 
-1. [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq - we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-we.md) _2017-08-27 03:17:17 (First version)_
+1. [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq - we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-we.md) _2018-02-06 13:49:16 (First version)_
 1. [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq -- we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-a-we.md) _(Current version)_
 
 ### Related:

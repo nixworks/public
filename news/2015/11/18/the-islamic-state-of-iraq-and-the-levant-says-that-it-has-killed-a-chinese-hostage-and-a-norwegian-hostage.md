@@ -18,7 +18,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The Islamic State of Iraq and the Levant says that it has killed a Chinese hostage and a Norwegian hostage. ](/news/2015/11/18/islamic-state-of-iraq-and-the-levant-the-islamic-state-of-iraq-and-the-levant-says-that-it-has-killed-a-chinese-hostage-and-a-norwegian-hos.md) _2017-08-27 03:43:55 (First version)_
+1. [Islamic State of Iraq and the Levant: The Islamic State of Iraq and the Levant says that it has killed a Chinese hostage and a Norwegian hostage. ](/news/2015/11/18/islamic-state-of-iraq-and-the-levant-the-islamic-state-of-iraq-and-the-levant-says-that-it-has-killed-a-chinese-hostage-and-a-norwegian-hos.md) _2018-02-06 13:49:28 (First version)_
 1. [The Islamic State of Iraq and the Levant says that it has killed a Chinese hostage and a Norwegian hostage. ](/news/2015/11/18/the-islamic-state-of-iraq-and-the-levant-says-that-it-has-killed-a-chinese-hostage-and-a-norwegian-hostage.md) _(Current version)_
 
 ### Related:

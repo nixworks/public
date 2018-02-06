@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-
 
 ### Changes:
 
-1. [Death and state funeral of Fidel Castro: The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/death-and-state-funeral-of-fidel-castro-the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _2017-08-27 03:47:23 (First version)_
+1. [Death and state funeral of Fidel Castro: The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/death-and-state-funeral-of-fidel-castro-the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _2018-02-06 13:49:30 (First version)_
 1. [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _(Current version)_
 
 ### Related:

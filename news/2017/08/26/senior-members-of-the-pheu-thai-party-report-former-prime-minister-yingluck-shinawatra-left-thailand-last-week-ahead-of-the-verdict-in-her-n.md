@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-fo
 
 ### Changes:
 
-1. [Trial of Yingluck Shinawatra: Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/trial-of-yingluck-shinawatra-senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week.md) _2017-08-27 17:30:05 (First version)_
+1. [Trial of Yingluck Shinawatra: Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/trial-of-yingluck-shinawatra-senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week.md) _2018-02-06 13:49:31 (First version)_
 1. [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md) _(Current version)_
 
 ### Related:

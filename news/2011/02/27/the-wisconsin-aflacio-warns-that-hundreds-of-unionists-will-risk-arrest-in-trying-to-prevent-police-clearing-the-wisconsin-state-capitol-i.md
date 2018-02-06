@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/02/27/the-wisconsin-aflacio-warns-that-hundreds-of-un
 
 ### Changes:
 
-1. [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-afl-cio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-in.md) _2017-08-16 03:32:49 (First version)_
-2. [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-afl-cio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md) _2017-08-27 03:32:29 (Update)_
+1. [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-afl-cio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-in.md) _2018-02-06 13:49:22 (First version)_
+2. [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-afl-cio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md) _2018-02-06 13:49:22 (Update)_
 2. [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-aflacio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ### Changes:
 
-1. [16th Annual Latin Grammy Awards: The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/16th-annual-latin-grammy-awards-the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-g.md) _2017-08-27 03:43:56 (First version)_
+1. [16th Annual Latin Grammy Awards: The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/16th-annual-latin-grammy-awards-the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-g.md) _2018-02-06 13:49:28 (First version)_
 1. [The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-garden-arena-in-paradise-nevada.md) _(Current version)_
 
 ### Related:

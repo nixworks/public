@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-con
 
 ### Changes:
 
-1. [ ''Press censorship:'' A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine ''El Jueves'' for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depicti.md) _2017-08-25 03:20:14 (First version)_
+1. [ ''Press censorship:'' A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine ''El Jueves'' for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depicti.md) _2018-02-06 13:49:17 (First version)_
 1. [ "Press censorship:" A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine "El Jueves" for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depiction-o.md) _(Current version)_
 
 ### Related:

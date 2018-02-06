@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/22/the-taliban-announces-the-start-of-its-annual-s
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban announces the start of its annual spring offensive warning it would attack foreign embassies as well as military targets. ](/news/2015/04/22/war-in-afghanistan-2015-present-the-taliban-announces-the-start-of-its-annual-spring-offensive-warning-it-would-attack-foreign-embassie.md) _2017-08-27 03:42:14 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban announces the start of its annual spring offensive warning it would attack foreign embassies as well as military targets. ](/news/2015/04/22/war-in-afghanistan-2015-present-the-taliban-announces-the-start-of-its-annual-spring-offensive-warning-it-would-attack-foreign-embassie.md) _2018-02-06 13:49:27 (First version)_
 1. [The Taliban announces the start of its annual spring offensive warning it would attack foreign embassies as well as military targets. ](/news/2015/04/22/the-taliban-announces-the-start-of-its-annual-spring-offensive-warning-it-would-attack-foreign-embassies-as-well-as-military-targets.md) _(Current version)_
 
 ### Related:

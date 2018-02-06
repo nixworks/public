@@ -16,8 +16,8 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 
 ### Changes:
 
-1. [ A fire at a retirement home in Bucharest leaves one dead and 19 injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-dead-and-19-injured.md) _2017-09-30 17:30:06 (First version)_
-2. [A fire at a retirement home in Bucharest leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-person-dead-and-19-others-injured.md) _2017-10-01 06:30:05 (Update)_
+1. [A fire at a retirement home in Bucharest leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-person-dead-and-19-others-injured.md) _2018-02-06 13:49:31 (First version)_
+2. [ A fire at a retirement home in Bucharest leaves one dead and 19 injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-leaves-one-dead-and-19-injured.md) _2018-02-06 13:49:31 (Update)_
 2. [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md) _(Current version)_
 
 ### Related:

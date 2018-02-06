@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/09/19/the-movement-for-the-emancipation-of-the-niger-
 
 ### Changes:
 
-1. [ Nigerian Oil Crisis: The Movement for the Emancipation of the Niger Delta announces that it has blown up a pipeline operated by Royal Dutch Shell. ](/news/2008/09/19/nigerian-oil-crisis-the-movement-for-the-emancipation-of-the-niger-delta-announces-that-it-has-blown-up-a-pipeline-operated-by-royal-dutch.md) _2017-08-27 03:22:47 (First version)_
+1. [ Nigerian Oil Crisis: The Movement for the Emancipation of the Niger Delta announces that it has blown up a pipeline operated by Royal Dutch Shell. ](/news/2008/09/19/nigerian-oil-crisis-the-movement-for-the-emancipation-of-the-niger-delta-announces-that-it-has-blown-up-a-pipeline-operated-by-royal-dutch.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Movement for the Emancipation of the Niger Delta announces that it has blown up a pipeline operated by Royal Dutch Shell. ](/news/2008/09/19/the-movement-for-the-emancipation-of-the-niger-delta-announces-that-it-has-blown-up-a-pipeline-operated-by-royal-dutch-shell.md) _(Current version)_
 
 ### Related:

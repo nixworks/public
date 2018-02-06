@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-wri
 
 ### Changes:
 
-1. [ In Ukraine, ''Razom nas bahato'', a song that was written in support of the Orange Revolution that led Viktor Yushchenko to presidency, is selected as the country's entry in the Eurovision Song Contest. Band Greenjolly will present it. ](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-written-in-support-of-the-orange-revolution-that-led-viktor-yushchenko-to-presidency-is.md) _2017-08-25 03:15:43 (First version)_
+1. [ In Ukraine, ''Razom nas bahato'', a song that was written in support of the Orange Revolution that led Viktor Yushchenko to presidency, is selected as the country's entry in the Eurovision Song Contest. Band Greenjolly will present it. ](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-written-in-support-of-the-orange-revolution-that-led-viktor-yushchenko-to-presidency-is.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Ukraine, "Razom nas bahato", a song that was written in support of the Orange Revolution that led Viktor Yushchenko to presidency, is selected as the country's entry in the Eurovision Song Contest. Band Greenjolly will present it. ](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-written-in-support-of-the-orange-revolution-that-led-viktor-yushchenko-to-presidency-is-se.md) _(Current version)_
 
 ### Related:

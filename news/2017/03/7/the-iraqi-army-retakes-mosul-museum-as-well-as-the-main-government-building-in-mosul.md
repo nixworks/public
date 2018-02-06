@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-t
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Battle of Mosul (2016-17): The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/iraqi-civil-war-2014-present-battle-of-mosul-2016-17-the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-i.md) _2017-08-27 03:47:57 (First version)_
+1. [Iraqi Civil War (2014-present): Battle of Mosul (2016-17): The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/iraqi-civil-war-2014-present-battle-of-mosul-2016-17-the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-i.md) _2018-02-06 13:49:30 (First version)_
 1. [The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-in-mosul.md) _(Current version)_
 
 ### Related:

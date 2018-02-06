@@ -16,7 +16,7 @@ Paleontologists have discovered a new species of dinosaur in Australia. The wide
 
 ### Changes:
 
-1. [The journal ''Scientific Reports'' publishes research from a team, led by Australian Age of Dinosaurs Museum's Stephen Poropat, reporting the discovery of a new Australian dinosaur species, ''Savannasaurus elliottorum'', using fossils first found in 2005 at Winton, Queensland, Australia. ](/news/2016/10/20/the-journal-scientific-reports-publishes-research-from-a-team-led-by-australian-age-of-dinosaurs-museum-s-stephen-poropat-reporting-th.md) _2017-08-25 03:46:41 (First version)_
+1. [The journal ''Scientific Reports'' publishes research from a team, led by Australian Age of Dinosaurs Museum's Stephen Poropat, reporting the discovery of a new Australian dinosaur species, ''Savannasaurus elliottorum'', using fossils first found in 2005 at Winton, Queensland, Australia. ](/news/2016/10/20/the-journal-scientific-reports-publishes-research-from-a-team-led-by-australian-age-of-dinosaurs-museum-s-stephen-poropat-reporting-th.md) _2018-02-06 13:49:29 (First version)_
 1. [The journal "Scientific Reports" publishes research from a team, led by Australian Age of Dinosaurs Museum's Stephen Poropat, reporting the discovery of a new Australian dinosaur species, "Savannasaurus elliottorum", using fossils first found in 2005 at Winton, Queensland, Australia. ](/news/2016/10/20/the-journal-scientific-reports-publishes-research-from-a-team-led-by-australian-age-of-dinosaurs-museum-s-stephen-poropat-reporting-the.md) _(Current version)_
 
 ### Related:

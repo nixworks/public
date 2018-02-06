@@ -17,8 +17,8 @@ North Korea has cancelled an invitation to Ban Ki-moon to visit an industrial zo
 
 ### Changes:
 
-1. [North KoreaNorth Korea abruptly cancels an invitation for Ban Ki-moon, the Secretary-General of the United Nations, to visit. ](/news/2015/05/20/north-koreapnorth-korea-abruptly-cancels-an-invitation-for-ban-ki-moon-the-secretary-general-of-the-united-nations-to-visit.md) _2017-08-25 03:42:03 (First version)_
-2. [North Korea: North Korea abruptly cancels an invitation for Ban Ki-moon, the Secretary-General of the United Nations, to visit. ](/news/2015/05/20/north-korea-north-korea-abruptly-cancels-an-invitation-for-ban-ki-moon-the-secretary-general-of-the-united-nations-to-visit.md) _2017-08-27 03:42:21 (Update)_
+1. [North KoreaNorth Korea abruptly cancels an invitation for Ban Ki-moon, the Secretary-General of the United Nations, to visit. ](/news/2015/05/20/north-koreapnorth-korea-abruptly-cancels-an-invitation-for-ban-ki-moon-the-secretary-general-of-the-united-nations-to-visit.md) _2018-02-06 13:49:27 (First version)_
+2. [North Korea: North Korea abruptly cancels an invitation for Ban Ki-moon, the Secretary-General of the United Nations, to visit. ](/news/2015/05/20/north-korea-north-korea-abruptly-cancels-an-invitation-for-ban-ki-moon-the-secretary-general-of-the-united-nations-to-visit.md) _2018-02-06 13:49:27 (Update)_
 2. [North Korea abruptly cancels an invitation for Ban Ki-moon, the Secretary-General of the United Nations, to visit. ](/news/2015/05/20/north-korea-abruptly-cancels-an-invitation-for-ban-ki-moon-the-secretary-general-of-the-united-nations-to-visit.md) _(Current version)_
 
 ### Related:

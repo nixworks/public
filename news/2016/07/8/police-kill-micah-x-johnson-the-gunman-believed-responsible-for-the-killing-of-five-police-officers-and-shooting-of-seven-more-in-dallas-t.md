@@ -16,7 +16,7 @@ The gunman involved in the shooting of 12 police officers in Dallas was a former
 
 ### Changes:
 
-1. [2016 shooting of Dallas police officers: Police kill Micah X Johnson, the gunman believed responsible for the killing of five police officers and shooting of seven more in Dallas, Texas following a standoff. ](/news/2016/07/8/2016-shooting-of-dallas-police-officers-police-kill-micah-x-johnson-the-gunman-believed-responsible-for-the-killing-of-five-police-officer.md) _2017-08-27 03:46:27 (First version)_
+1. [2016 shooting of Dallas police officers: Police kill Micah X Johnson, the gunman believed responsible for the killing of five police officers and shooting of seven more in Dallas, Texas following a standoff. ](/news/2016/07/8/2016-shooting-of-dallas-police-officers-police-kill-micah-x-johnson-the-gunman-believed-responsible-for-the-killing-of-five-police-officer.md) _2018-02-06 13:49:29 (First version)_
 1. [Police kill Micah X Johnson, the gunman believed responsible for the killing of five police officers and shooting of seven more in Dallas, Texas following a standoff. ](/news/2016/07/8/police-kill-micah-x-johnson-the-gunman-believed-responsible-for-the-killing-of-five-police-officers-and-shooting-of-seven-more-in-dallas-t.md) _(Current version)_
 
 ### Related:

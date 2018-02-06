@@ -17,7 +17,7 @@ Turkey vows a &quot;harsh response&quot; as a diplomatic row with the Netherland
 
 ### Changes:
 
-1. [2017 Dutch-Turkish diplomatic incident: Dutch authorities withdrew landing permission for a plane carrying Turkish Foreign Minister Mevlut Cavusoglu, who was due to speak at a Rotterdam rally in support of a 'Yes' vote in April's constitutional referendum. ](/news/2017/03/11/2017-dutch-turkish-diplomatic-incident-dutch-authorities-withdrew-landing-permission-for-a-plane-carrying-turkish-foreign-minister-mevla1-4t.md) _2017-08-27 03:47:58 (First version)_
+1. [2017 Dutch-Turkish diplomatic incident: Dutch authorities withdrew landing permission for a plane carrying Turkish Foreign Minister Mevlut Cavusoglu, who was due to speak at a Rotterdam rally in support of a 'Yes' vote in April's constitutional referendum. ](/news/2017/03/11/2017-dutch-turkish-diplomatic-incident-dutch-authorities-withdrew-landing-permission-for-a-plane-carrying-turkish-foreign-minister-mevla1-4t.md) _2018-02-06 13:49:30 (First version)_
 1. [ Dutch authorities withdrew landing permission for a plane carrying Turkish Foreign Minister Mevlut Cavusoglu, who was due to speak at a Rotterdam rally in support of a 'Yes' vote in April's constitutional referendum. ](/news/2017/03/11/dutch-authorities-withdrew-landing-permission-for-a-plane-carrying-turkish-foreign-minister-mevla1-4t-aavuaoalu-who-was-due-to-speak-at-a.md) _(Current version)_
 
 ### Related:

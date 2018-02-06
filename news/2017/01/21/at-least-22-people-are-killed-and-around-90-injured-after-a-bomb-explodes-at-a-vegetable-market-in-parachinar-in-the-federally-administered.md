@@ -21,7 +21,7 @@ The blast happened at the time when dozens of people were busy shopping in the v
 
 ### Changes:
 
-1. [War in North-West Pakistan At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/war-in-north-west-pakistan-pat-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in.md) _2017-05-25 03:49:49 (First version)_
+1. [War in North-West Pakistan At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/war-in-north-west-pakistan-pat-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md) _(Current version)_
 
 ### Related:

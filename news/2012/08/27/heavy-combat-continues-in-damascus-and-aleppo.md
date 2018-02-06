@@ -17,8 +17,8 @@ Syrian rebels shoot down an army helicopter as the UN demands answers over the m
 
 ### Changes:
 
-1. [Syrian civil war:Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/syrian-civil-war-pheavy-combat-continues-in-damascus-and-aleppo.md) _2017-08-25 03:36:21 (First version)_
-2. [Syrian civil war:: Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/syrian-civil-war-heavy-combat-continues-in-damascus-and-aleppo.md) _2017-08-27 03:36:32 (Update)_
+1. [Syrian civil war:Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/syrian-civil-war-pheavy-combat-continues-in-damascus-and-aleppo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/syrian-civil-war-heavy-combat-continues-in-damascus-and-aleppo.md) _2018-02-06 13:49:23 (Update)_
 2. [Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/heavy-combat-continues-in-damascus-and-aleppo.md) _(Current version)_
 
 ### Related:

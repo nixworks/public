@@ -16,7 +16,7 @@ The Agriculture Department said on Friday it has deregulated a variety of corn g
 
 ### Changes:
 
-1. [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food. The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questi.md) _2017-08-25 03:32:08 (First version)_
+1. [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food. The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questi.md) _2018-02-06 13:49:21 (First version)_
 1. [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food. The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questio.md) _(Current version)_
 
 ### Related:

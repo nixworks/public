@@ -16,8 +16,8 @@ Many of the casualties were reported from the Terai region bordering India, whic
 
 ### Changes:
 
-1. [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _2017-08-15 22:30:04 (First version)_
-2. [August 2017 Nepal and India floods: Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/august-2017-nepal-and-india-floods-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _2017-08-27 03:48:48 (Update)_
+1. [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _2018-02-06 13:49:31 (First version)_
+2. [August 2017 Nepal and India floods: Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/august-2017-nepal-and-india-floods-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _2018-02-06 13:49:31 (Update)_
 2. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _(Current version)_
 
 ### Related:

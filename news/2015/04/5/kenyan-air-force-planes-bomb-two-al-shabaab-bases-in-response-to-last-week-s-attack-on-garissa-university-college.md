@@ -16,7 +16,7 @@ The Kenyan air force has destroyed two al Shabaab camps in Somalia, it said on M
 
 ### Changes:
 
-1. [Garissa University College attack: Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/garissa-university-college-attack-kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university.md) _2017-08-27 03:42:10 (First version)_
+1. [Garissa University College attack: Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/garissa-university-college-attack-kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university.md) _2018-02-06 13:49:27 (First version)_
 1. [Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university-college.md) _(Current version)_
 
 ### Related:

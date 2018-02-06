@@ -16,7 +16,7 @@ Florida Gov. Rick Scott put pressure on federal health officials Monday to send 
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The first infection outside Miami in Florida is discovered in Pinellas County. ](/news/2016/08/23/2015-16-zika-virus-epidemic-the-first-infection-outside-miami-in-florida-is-discovered-in-pinellas-county.md) _2017-08-27 03:46:41 (First version)_
+1. [2015-16 Zika virus epidemic: The first infection outside Miami in Florida is discovered in Pinellas County. ](/news/2016/08/23/2015-16-zika-virus-epidemic-the-first-infection-outside-miami-in-florida-is-discovered-in-pinellas-county.md) _2018-02-06 13:49:29 (First version)_
 1. [The first infection outside Miami in Florida is discovered in Pinellas County. ](/news/2016/08/23/the-first-infection-outside-miami-in-florida-is-discovered-in-pinellas-county.md) _(Current version)_
 
 ### Related:

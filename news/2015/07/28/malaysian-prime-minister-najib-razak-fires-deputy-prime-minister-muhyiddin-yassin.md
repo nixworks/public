@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/28/malaysian-prime-minister-najib-razak-fires-depu
 
 ### Changes:
 
-1. [1Malaysia Development Berhad: Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. ](/news/2015/07/28/1malaysia-development-berhad-malaysian-prime-minister-najib-razak-fires-deputy-prime-minister-muhyiddin-yassin.md) _2017-08-27 03:42:45 (First version)_
+1. [1Malaysia Development Berhad: Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. ](/news/2015/07/28/1malaysia-development-berhad-malaysian-prime-minister-najib-razak-fires-deputy-prime-minister-muhyiddin-yassin.md) _2018-02-06 13:49:27 (First version)_
 1. [Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. ](/news/2015/07/28/malaysian-prime-minister-najib-razak-fires-deputy-prime-minister-muhyiddin-yassin.md) _(Current version)_
 
 ### Related:

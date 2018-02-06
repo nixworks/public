@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-
 
 ### Changes:
 
-1. [Rohingya insurgency in Western Myanmar: The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/rohingya-insurgency-in-western-myanmar-the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethni.md) _2017-08-27 03:47:22 (First version)_
+1. [Rohingya insurgency in Western Myanmar: The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/rohingya-insurgency-in-western-myanmar-the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethni.md) _2018-02-06 13:49:30 (First version)_
 1. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _(Current version)_
 
 ### Related:

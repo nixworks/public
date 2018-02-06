@@ -11,7 +11,7 @@ Formats: [HTML](/news/2004/12/3/following-warnings-by-separatist-group-eta-a-num
 
 ### Changes:
 
-1. [ Following warnings by separatist group ETA, a number of devices explode in Madrid. [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6991952 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC)) [http:--news.bbc.co.uk-1-hi-world-europe-4067127.stm (BBC)] (Wikinews)](/news/2004/12/3/following-warnings-by-separatist-group-eta-a-number-of-devices-explode-in-madrid-http-www-reuters-com-newsarticle-jhtml-type-worldnews.md) _2017-10-17 03:17:33 (First version)_
+1. [ Following warnings by separatist group ETA, a number of devices explode in Madrid. [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6991952 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC)) [http:--news.bbc.co.uk-1-hi-world-europe-4067127.stm (BBC)] (Wikinews)](/news/2004/12/3/following-warnings-by-separatist-group-eta-a-number-of-devices-explode-in-madrid-http-www-reuters-com-newsarticle-jhtml-type-worldnews.md) _2018-02-06 13:49:16 (First version)_
 1. [ Following warnings by separatist group ETA, a number of devices explode in Madrid. [https:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6991952 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC)) [http:--news.bbc.co.uk-1-hi-world-europe-4067127.stm (BBC)] (Wikinews)](/news/2004/12/3/following-warnings-by-separatist-group-eta-a-number-of-devices-explode-in-madrid-https-www-reuters-com-newsarticle-jhtml-type-worldnew.md) _(Current version)_
 
 ### Related:

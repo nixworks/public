@@ -17,7 +17,7 @@ UPDATED: As the Nordic nation continues to take in record numbers of refugees, S
 
 ### Changes:
 
-1. [European migrant crisis: European Union president Donald Tusk and Swedish Prime Minister Stefan Lofven, in a joint news conference, announce Sweden will ask to transfer some migrants to other European countries under an EU relocation plan. Sweden has taken the highest number of asylum-seekers per capita in the 28-member bloc. ](/news/2015/11/4/european-migrant-crisis-european-union-president-donald-tusk-and-swedish-prime-minister-stefan-lapfva-c-n-in-a-joint-news-conference-announ.md) _2017-08-27 03:43:41 (First version)_
+1. [European migrant crisis: European Union president Donald Tusk and Swedish Prime Minister Stefan Lofven, in a joint news conference, announce Sweden will ask to transfer some migrants to other European countries under an EU relocation plan. Sweden has taken the highest number of asylum-seekers per capita in the 28-member bloc. ](/news/2015/11/4/european-migrant-crisis-european-union-president-donald-tusk-and-swedish-prime-minister-stefan-lapfva-c-n-in-a-joint-news-conference-announ.md) _2018-02-06 13:49:28 (First version)_
 1. [European Union president Donald Tusk and Swedish Prime Minister Stefan Lofven, in a joint news conference, announce Sweden will ask to transfer some migrants to other European countries under an EU relocation plan. Sweden has taken the highest number of asylum-seekers per capita in the 28-member bloc. ](/news/2015/11/4/european-union-president-donald-tusk-and-swedish-prime-minister-stefan-lapfva-c-n-in-a-joint-news-conference-announce-sweden-will-ask-to-tra.md) _(Current version)_
 
 ### Related:

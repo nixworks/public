@@ -16,7 +16,7 @@ London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised
 
 ### Changes:
 
-1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (PS1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-aps1-3bn-as-a-result-of-unauthorised-tradin.md) _2017-08-25 03:34:09 (First version)_
+1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (PS1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-aps1-3bn-as-a-result-of-unauthorised-tradin.md) _2018-02-06 13:49:22 (First version)_
 1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (GBP1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-agbp1-3bn-as-a-result-of-unauthorised-trad.md) _(Current version)_
 
 ### Related:

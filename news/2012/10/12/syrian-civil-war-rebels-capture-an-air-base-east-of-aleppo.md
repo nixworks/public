@@ -19,8 +19,8 @@ Activists say opposition fighters have taken control of base near Aleppo as figh
 
 ### Changes:
 
-1. [Arab Spring:Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-psyrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _2017-08-25 03:36:41 (First version)_
-2. [Arab Spring:: Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-syrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _2017-08-27 03:36:51 (Update)_
+1. [Arab Spring:: Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-syrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _2018-02-06 13:49:24 (First version)_
+2. [Arab Spring:Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-psyrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/syrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md) _(Current version)_
 
 ### Related:

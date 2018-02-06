@@ -19,8 +19,8 @@ The 2016 Tony Awards took place on Sunday, with &#8220;Hamilton&#8221; emerging 
 
 ### Changes:
 
-1. [The 70th Tony Awards are held at the Beacon Theater in New York City with ''The Humans'' winning the Best Play and ''Hamilton'' winning the Best Musical. ](/news/2016/06/12/the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton-winning-the.md) _2017-08-25 03:45:52 (First version)_
-2. [70th Tony Awards: The 70th Tony Awards are held at the Beacon Theater in New York City with "The Humans" winning the Best Play and "Hamilton" winning the Best Musical. ](/news/2016/06/12/70th-tony-awards-the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton.md) _2017-08-27 03:46:15 (Update)_
+1. [The 70th Tony Awards are held at the Beacon Theater in New York City with ''The Humans'' winning the Best Play and ''Hamilton'' winning the Best Musical. ](/news/2016/06/12/the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton-winning-the.md) _2018-02-06 13:49:29 (First version)_
+2. [70th Tony Awards: The 70th Tony Awards are held at the Beacon Theater in New York City with "The Humans" winning the Best Play and "Hamilton" winning the Best Musical. ](/news/2016/06/12/70th-tony-awards-the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton.md) _2018-02-06 13:49:29 (Update)_
 2. [The 70th Tony Awards are held at the Beacon Theater in New York City with "The Humans" winning the Best Play and "Hamilton" winning the Best Musical. ](/news/2016/06/12/the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton-winning-the-best.md) _(Current version)_
 
 ### Related:

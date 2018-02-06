@@ -17,7 +17,7 @@ Up to 30 injured in the blast close to security checkpost on Jamrud Road
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/war-in-north-west-pakistan-at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-pesha.md) _2017-08-27 03:44:44 (First version)_
+1. [War in North-West Pakistan: At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/war-in-north-west-pakistan-at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-pesha.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _(Current version)_
 
 ### Related:

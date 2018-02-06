@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-s
 
 ### Changes:
 
-1. [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. ](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county.md) _2017-08-25 03:38:08 (First version)_
+1. [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. ](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county.md) _2018-02-06 13:49:24 (First version)_
 1. [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. [http:--www.wvgazette.com-News-201304030091 "(The Charleston Gazette)"]](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county-http-www-wvgazette-com-news-201304030091-the-charlest.md) _(Current version)_
 
 ### Related:

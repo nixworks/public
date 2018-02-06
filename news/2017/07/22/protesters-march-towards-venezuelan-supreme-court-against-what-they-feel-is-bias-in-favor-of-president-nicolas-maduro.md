@@ -16,8 +16,8 @@ These photographs, taken over four weeks, capture the daily turmoil that antigov
 
 ### Changes:
 
-1. [Protesters march towards Venezuelan Supreme Court against what they feel is bias towards President Nicolas Maduro. ](/news/2017/07/22/protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-towards-president-nicolas-maduro.md) _2017-07-23 03:49:26 (First version)_
-2. [2017 Venezuelan protests: Protesters march towards Venezuelan Supreme Court against what they feel is bias in favor of President Nicolas Maduro. ](/news/2017/07/22/2017-venezuelan-protests-protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-in-favor-of-president-nicolas-mad.md) _2017-08-27 03:48:42 (Update)_
+1. [Protesters march towards Venezuelan Supreme Court against what they feel is bias towards President Nicolas Maduro. ](/news/2017/07/22/protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-towards-president-nicolas-maduro.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Venezuelan protests: Protesters march towards Venezuelan Supreme Court against what they feel is bias in favor of President Nicolas Maduro. ](/news/2017/07/22/2017-venezuelan-protests-protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-in-favor-of-president-nicolas-mad.md) _2018-02-06 13:49:30 (Update)_
 2. [Protesters march towards Venezuelan Supreme Court against what they feel is bias in favor of President Nicolas Maduro. ](/news/2017/07/22/protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-in-favor-of-president-nicolas-maduro.md) _(Current version)_
 
 ### Related:

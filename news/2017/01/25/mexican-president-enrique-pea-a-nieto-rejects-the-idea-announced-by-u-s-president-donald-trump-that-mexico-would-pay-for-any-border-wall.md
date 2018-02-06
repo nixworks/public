@@ -19,7 +19,7 @@ Mexico&#39;s president has hit back at Donald Trump&#39;s decision to build a bo
 
 ### Changes:
 
-1. [2017 Mexico-United States diplomatic crisis: Mexican President Enrique Pena Nieto rejects the idea, announced by U.S. President Donald Trump, that Mexico would pay for any border wall between the United States and his country. ](/news/2017/01/25/2017-mexico-united-states-diplomatic-crisis-mexican-president-enrique-pea-a-nieto-rejects-the-idea-announced-by-u-s-president-donald-tr.md) _2017-08-27 03:47:41 (First version)_
+1. [2017 Mexico-United States diplomatic crisis: Mexican President Enrique Pena Nieto rejects the idea, announced by U.S. President Donald Trump, that Mexico would pay for any border wall between the United States and his country. ](/news/2017/01/25/2017-mexico-united-states-diplomatic-crisis-mexican-president-enrique-pea-a-nieto-rejects-the-idea-announced-by-u-s-president-donald-tr.md) _2018-02-06 13:49:30 (First version)_
 1. [Mexican President Enrique Pena Nieto rejects the idea, announced by U.S. President Donald Trump, that Mexico would pay for any border wall between the United States and his country. ](/news/2017/01/25/mexican-president-enrique-pea-a-nieto-rejects-the-idea-announced-by-u-s-president-donald-trump-that-mexico-would-pay-for-any-border-wall.md) _(Current version)_
 
 ### Related:

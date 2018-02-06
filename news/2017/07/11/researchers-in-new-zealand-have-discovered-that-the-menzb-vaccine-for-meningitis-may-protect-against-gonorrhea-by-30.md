@@ -16,8 +16,8 @@ Researchers studying a mass vaccination campaign against meningitis have found a
 
 ### Changes:
 
-1. [Reaserchers in New Zealand have discoved that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/reaserchers-in-new-zealand-have-discoved-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md) _2017-07-11 14:30:06 (First version)_
-2. [Meningococcal vaccine: Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/meningococcal-vaccine-researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md) _2017-08-27 03:48:38 (Update)_
+1. [Reaserchers in New Zealand have discoved that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/reaserchers-in-new-zealand-have-discoved-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md) _2018-02-06 13:49:30 (First version)_
+2. [Meningococcal vaccine: Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/meningococcal-vaccine-researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md) _2018-02-06 13:49:30 (Update)_
 2. [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md) _(Current version)_
 
 ### Related:

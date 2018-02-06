@@ -16,7 +16,7 @@ Opposition lawmakers rejected the offer, calling it a ploy, and said they would 
 
 ### Changes:
 
-1. [2016 South Korean political scandal: Park Geun-hye says she is willing to resign and offers to begin the process of removing herself from power. ](/news/2016/11/29/2016-south-korean-political-scandal-park-geun-hye-says-she-is-willing-to-resign-and-offers-to-begin-the-process-of-removing-herself-from-po.md) _2017-08-27 03:47:20 (First version)_
+1. [2016 South Korean political scandal: Park Geun-hye says she is willing to resign and offers to begin the process of removing herself from power. ](/news/2016/11/29/2016-south-korean-political-scandal-park-geun-hye-says-she-is-willing-to-resign-and-offers-to-begin-the-process-of-removing-herself-from-po.md) _2018-02-06 13:49:29 (First version)_
 1. [Park Geun-hye says she is willing to resign and offers to begin the process of removing herself from power. ](/news/2016/11/29/park-geun-hye-says-she-is-willing-to-resign-and-offers-to-begin-the-process-of-removing-herself-from-power.md) _(Current version)_
 
 ### Related:

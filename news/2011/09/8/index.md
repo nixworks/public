@@ -21,7 +21,7 @@ _Context: Unemployment, Australia_
 
 ##### Japan
 ### [The death toll in Japan from Typhoon Talas reaches 54, with 55 people still missing. ](/news/2011/09/8/the-death-toll-in-japan-from-typhoon-talas-reaches-54-with-55-people-still-missing.md)
-_Context: Japan, Typhoon Talas_
+_Context: Typhoon Talas, Japan_
 
 ##### power outage
 ### [A blackout in southern California, Arizona and Baja California in Mexico caused by the loss of the entire San Diego Gas & Electric system leads to the closure of San Onofre Nuclear Generating Station and the loss of power to more than two million people. ](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.md)
@@ -45,7 +45,7 @@ President Barack Obama plans to propose sparking job growth by injecting more th
 
 ##### President of Vietnam
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
-_Context: President of Vietnam, Ho Chi Minh City, Vo Chi Cong_
+_Context: Vo Chi Cong, President of Vietnam, Ho Chi Minh City_
 
 ## [Previous Day...](/news/2011/09/7/index.md)
 

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-
 
 ### Changes:
 
-1. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. {{convert|250|acre|km2}} of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-convert-250-acre-km2-of-state-park-land-bur.md) _2017-05-01 03:22:22 (First version)_
-2. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250|acre|km2 of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-km2-of-state-park-land-burned-south-of.md) _2017-08-29 03:21:33 (Update)_
+1. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. {{convert|250|acre|km2}} of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-convert-250-acre-km2-of-state-park-land-bur.md) _2018-02-06 13:49:18 (First version)_
+2. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250|acre|km2 of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-km2-of-state-park-land-burned-south-of.md) _2018-02-06 13:49:18 (Update)_
 2. [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250 acre of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-of-state-park-land-burned-south-of-mal.md) _(Current version)_
 
 ### Related:

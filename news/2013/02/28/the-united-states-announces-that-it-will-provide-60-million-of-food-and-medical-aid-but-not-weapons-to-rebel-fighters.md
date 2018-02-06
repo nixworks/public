@@ -17,8 +17,8 @@ Secretary of State John Kerry says the US will provide &quot;non-lethal&quot; su
 
 ### Changes:
 
-1. [Syrian civil war:The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-pthe-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md) _2017-08-25 03:37:41 (First version)_
-2. [Syrian civil war:: The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md) _2017-08-27 03:37:52 (Update)_
+1. [Syrian civil war:: The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-pthe-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md) _2018-02-06 13:49:24 (Update)_
 2. [The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md) _(Current version)_
 
 ### Related:

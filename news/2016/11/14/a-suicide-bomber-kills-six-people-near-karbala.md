@@ -18,7 +18,7 @@ Eight people were killed and nearly 20 wounded on Monday in two separate car bom
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bomber kills six people near Karbala. ](/news/2016/11/14/iraqi-civil-war-2014-present-a-suicide-bomber-kills-six-people-near-karbala.md) _2017-08-27 03:47:14 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bomber kills six people near Karbala. ](/news/2016/11/14/iraqi-civil-war-2014-present-a-suicide-bomber-kills-six-people-near-karbala.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bomber kills six people near Karbala. ](/news/2016/11/14/a-suicide-bomber-kills-six-people-near-karbala.md) _(Current version)_
 
 ### Related:

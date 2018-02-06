@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/9/dozens-of-people-die-in-eastern-europe-and-italy
 
 ### Changes:
 
-1. [January 2017 European cold wave: Dozens of people die in eastern Europe and Italy in recent days as a result of a cold snap with cancelled flights, frozen rivers, and traffic accidents. ](/news/2017/01/9/january-2017-european-cold-wave-dozens-of-people-die-in-eastern-europe-and-italy-in-recent-days-as-a-result-of-a-cold-snap-with-cancelled-f.md) _2017-08-27 03:47:35 (First version)_
+1. [January 2017 European cold wave: Dozens of people die in eastern Europe and Italy in recent days as a result of a cold snap with cancelled flights, frozen rivers, and traffic accidents. ](/news/2017/01/9/january-2017-european-cold-wave-dozens-of-people-die-in-eastern-europe-and-italy-in-recent-days-as-a-result-of-a-cold-snap-with-cancelled-f.md) _2018-02-06 13:49:30 (First version)_
 1. [Dozens of people die in eastern Europe and Italy in recent days as a result of a cold snap with cancelled flights, frozen rivers, and traffic accidents. ](/news/2017/01/9/dozens-of-people-die-in-eastern-europe-and-italy-in-recent-days-as-a-result-of-a-cold-snap-with-cancelled-flights-frozen-rivers-and-traffi.md) _(Current version)_
 
 ### Related:

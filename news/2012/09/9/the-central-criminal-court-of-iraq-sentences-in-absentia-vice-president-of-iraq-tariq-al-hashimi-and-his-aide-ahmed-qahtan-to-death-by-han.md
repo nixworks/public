@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-
 
 ### Changes:
 
-1. [The Central Criminal Court of Iraq sentences ''in absentia'' Vice president of Iraq Tariq al-Hashimi and his aide Ahmed Qahtan to death by hanging for, among other charges, the assassination of a lawyer and that of an Army general. ](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-absentia-vice-president-of-iraq-tariq-al-hashimi-and-his-aide-ahmed-qahtan-to-death-by-h.md) _2017-08-25 03:36:27 (First version)_
+1. [The Central Criminal Court of Iraq sentences ''in absentia'' Vice president of Iraq Tariq al-Hashimi and his aide Ahmed Qahtan to death by hanging for, among other charges, the assassination of a lawyer and that of an Army general. ](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-absentia-vice-president-of-iraq-tariq-al-hashimi-and-his-aide-ahmed-qahtan-to-death-by-h.md) _2018-02-06 13:49:24 (First version)_
 1. [The Central Criminal Court of Iraq sentences "in absentia" Vice president of Iraq Tariq al-Hashimi and his aide Ahmed Qahtan to death by hanging for, among other charges, the assassination of a lawyer and that of an Army general. ](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-absentia-vice-president-of-iraq-tariq-al-hashimi-and-his-aide-ahmed-qahtan-to-death-by-han.md) _(Current version)_
 
 ### Related:

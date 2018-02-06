@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/05/4/pablo-picasso-s-nude-green-leaves-and-bust-sells
 
 ### Changes:
 
-1. [Pablo Picasso's ''Nude, Green Leaves and Bust'' sells for US$106 million at Christie's in New York, becoming the most expensive work of art sold at auction. ](/news/2010/05/4/pablo-picasso-s-nude-green-leaves-and-bust-sells-for-us-106-million-at-christie-s-in-new-york-becoming-the-most-expensive-work-of-art.md) _2017-08-25 03:27:51 (First version)_
+1. [Pablo Picasso's ''Nude, Green Leaves and Bust'' sells for US$106 million at Christie's in New York, becoming the most expensive work of art sold at auction. ](/news/2010/05/4/pablo-picasso-s-nude-green-leaves-and-bust-sells-for-us-106-million-at-christie-s-in-new-york-becoming-the-most-expensive-work-of-art.md) _2018-02-06 13:49:20 (First version)_
 1. [Pablo Picasso's "Nude, Green Leaves and Bust" sells for US$106 million at Christie's in New York, becoming the most expensive work of art sold at auction. ](/news/2010/05/4/pablo-picasso-s-nude-green-leaves-and-bust-sells-for-us-106-million-at-christie-s-in-new-york-becoming-the-most-expensive-work-of-art-so.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-mu
 
 ### Changes:
 
-1. [Eddie Ray Routh goes on trial for the alleged murder of ''American Sniper'' Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenvill.md) _2017-08-25 03:41:34 (First version)_
+1. [Eddie Ray Routh goes on trial for the alleged murder of ''American Sniper'' Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenvill.md) _2018-02-06 13:49:26 (First version)_
 1. [Eddie Ray Routh goes on trial for the alleged murder of "American Sniper" Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenville.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/04/4/a-group-of-american-scientists-at-washington-uni
 
 ### Changes:
 
-1. [A group of American scientists at Washington University announce in a study published in the journal ''Neuron'' that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a.md) _2017-08-25 03:38:10 (First version)_
+1. [A group of American scientists at Washington University announce in a study published in the journal ''Neuron'' that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a.md) _2018-02-06 13:49:24 (First version)_
 1. [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Mercury may have comet dust to thank for its dark appearance.
 
 ### Changes:
 
-1. [Research, published in the peer-reviewed scientific journal ''Nature Geoscience'', confirms that Mercury's darker than expected crusty exterior is from carbon, likely the remains of the planet's ancient surface crust of graphite, rather than carbon dust from comet impacts as previously postulated. ](/news/2016/03/7/research-published-in-the-peer-reviewed-scientific-journal-nature-geoscience-confirms-that-mercury-s-darker-than-expected-crusty-exte.md) _2017-08-25 03:44:49 (First version)_
+1. [Research, published in the peer-reviewed scientific journal ''Nature Geoscience'', confirms that Mercury's darker than expected crusty exterior is from carbon, likely the remains of the planet's ancient surface crust of graphite, rather than carbon dust from comet impacts as previously postulated. ](/news/2016/03/7/research-published-in-the-peer-reviewed-scientific-journal-nature-geoscience-confirms-that-mercury-s-darker-than-expected-crusty-exte.md) _2018-02-06 13:49:28 (First version)_
 1. [Research, published in the peer-reviewed scientific journal "Nature Geoscience", confirms that Mercury's darker than expected crusty exterior is from carbon, likely the remains of the planet's ancient surface crust of graphite, rather than carbon dust from comet impacts as previously postulated. ](/news/2016/03/7/research-published-in-the-peer-reviewed-scientific-journal-nature-geoscience-confirms-that-mercury-s-darker-than-expected-crusty-exterio.md) _(Current version)_
 
 ### Related:

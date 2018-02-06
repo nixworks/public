@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/12/1/dual-boko-haram-attacks-in-maiduguri-and-damatur
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/islamist-insurgency-in-nigeria-pdual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers-a.md) _2017-08-25 03:41:16 (First version)_
-2. [Islamist insurgency in Nigeria:: Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/islamist-insurgency-in-nigeria-dual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers.md) _2017-08-27 03:41:34 (Update)_
+1. [Islamist insurgency in Nigeria:Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/islamist-insurgency-in-nigeria-pdual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers-a.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/islamist-insurgency-in-nigeria-dual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers.md) _2018-02-06 13:49:26 (Update)_
 2. [Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/dual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers-and-20-militants.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Publishing group Pearson has announced it is to sell the Financial Times Group t
 
 ### Changes:
 
-1. [ Pearson PLC agrees to sell Financial Times Group to Nikkei Inc. for PS844 million. ](/news/2015/07/23/pearson-plc-agrees-to-sell-financial-times-group-to-nikkei-inc-for-aps844-million.md) _2017-08-25 03:42:27 (First version)_
+1. [ Pearson PLC agrees to sell Financial Times Group to Nikkei Inc. for PS844 million. ](/news/2015/07/23/pearson-plc-agrees-to-sell-financial-times-group-to-nikkei-inc-for-aps844-million.md) _2018-02-06 13:49:27 (First version)_
 1. [ Pearson PLC agrees to sell Financial Times Group to Nikkei Inc. for GBP844 million. ](/news/2015/07/23/pearson-plc-agrees-to-sell-financial-times-group-to-nikkei-inc-for-agbp844-million.md) _(Current version)_
 
 ### Related:

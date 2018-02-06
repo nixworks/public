@@ -17,7 +17,7 @@ Iraqi forces backed by air strikes from the U.S.-led coalition gained complete c
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraqi Armed Forces recapture al-Shirqat, southwest of al Hujayl, from ISIL. ](/news/2016/09/22/iraqi-civil-war-iraqi-armed-forces-recapture-al-shirqat-southwest-of-al-hujayl-from-isil.md) _2017-08-27 03:46:53 (First version)_
+1. [Iraqi Civil War: Iraqi Armed Forces recapture al-Shirqat, southwest of al Hujayl, from ISIL. ](/news/2016/09/22/iraqi-civil-war-iraqi-armed-forces-recapture-al-shirqat-southwest-of-al-hujayl-from-isil.md) _2018-02-06 13:49:29 (First version)_
 1. [Iraqi Armed Forces recapture al-Shirqat, southwest of al Hujayl, from ISIL. ](/news/2016/09/22/iraqi-armed-forces-recapture-al-shirqat-southwest-of-al-hujayl-from-isil.md) _(Current version)_
 
 ### Related:

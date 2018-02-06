@@ -16,7 +16,7 @@ Two police officers have been killed by a car bomb attack by Kurdish militants i
 
 ### Changes:
 
-1. [PKK rebellion (2015-present): Two Turkish police officers are killed and at least 14 others including several civilians are injured by a car bomb attack on a police station in the town of Nusaybin, near the Syria-Turkey border. The Kurdistan Workers Party (PKK) are blamed for the attack. ](/news/2016/03/4/pkk-rebellion-2015-present-two-turkish-police-officers-are-killed-and-at-least-14-others-including-several-civilians-are-injured-by-a-c.md) _2017-08-27 03:45:08 (First version)_
+1. [PKK rebellion (2015-present): Two Turkish police officers are killed and at least 14 others including several civilians are injured by a car bomb attack on a police station in the town of Nusaybin, near the Syria-Turkey border. The Kurdistan Workers Party (PKK) are blamed for the attack. ](/news/2016/03/4/pkk-rebellion-2015-present-two-turkish-police-officers-are-killed-and-at-least-14-others-including-several-civilians-are-injured-by-a-c.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Turkish police officers are killed and at least 14 others including several civilians are injured by a car bomb attack on a police station in the town of Nusaybin, near the Syria-Turkey border. The Kurdistan Workers Party (PKK) are blamed for the attack. ](/news/2016/03/4/two-turkish-police-officers-are-killed-and-at-least-14-others-including-several-civilians-are-injured-by-a-car-bomb-attack-on-a-police-stati.md) _(Current version)_
 
 ### Related:

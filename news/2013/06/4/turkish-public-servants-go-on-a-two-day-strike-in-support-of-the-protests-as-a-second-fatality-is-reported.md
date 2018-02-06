@@ -17,8 +17,8 @@ A 22-year-old man died in a hospital after being shot during protests in souther
 
 ### Changes:
 
-1. [2013 protests in Turkey:Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-pturkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2017-08-25 03:38:46 (First version)_
-2. [2013 protests in Turkey:: Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2017-08-27 03:39:00 (Update)_
+1. [2013 protests in Turkey:: Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 protests in Turkey:Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-pturkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2018-02-06 13:49:25 (Update)_
 2. [Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _(Current version)_
 
 ### Related:

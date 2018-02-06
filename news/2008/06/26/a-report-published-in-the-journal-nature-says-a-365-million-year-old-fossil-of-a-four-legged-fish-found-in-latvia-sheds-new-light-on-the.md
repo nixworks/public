@@ -17,7 +17,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 
 ### Changes:
 
-1. [ A report published in the journal ''Nature'' says a 365 million-year-old fossil of a four-legged fish found in Latvia sheds new light on the process of evolution. The creature, named ''Ventastega curonica'', had a fish-like body but the head of an animal more suited to land than water. ](/news/2008/06/26/a-report-published-in-the-journal-nature-says-a-365-million-year-old-fossil-of-a-four-legged-fish-found-in-latvia-sheds-new-light-on-th.md) _2017-08-25 03:22:29 (First version)_
+1. [ A report published in the journal ''Nature'' says a 365 million-year-old fossil of a four-legged fish found in Latvia sheds new light on the process of evolution. The creature, named ''Ventastega curonica'', had a fish-like body but the head of an animal more suited to land than water. ](/news/2008/06/26/a-report-published-in-the-journal-nature-says-a-365-million-year-old-fossil-of-a-four-legged-fish-found-in-latvia-sheds-new-light-on-th.md) _2018-02-06 13:49:18 (First version)_
 1. [ A report published in the journal "Nature" says a 365 million-year-old fossil of a four-legged fish found in Latvia sheds new light on the process of evolution. The creature, named "Ventastega curonica", had a fish-like body but the head of an animal more suited to land than water. ](/news/2008/06/26/a-report-published-in-the-journal-nature-says-a-365-million-year-old-fossil-of-a-four-legged-fish-found-in-latvia-sheds-new-light-on-the.md) _(Current version)_
 
 ### Related:

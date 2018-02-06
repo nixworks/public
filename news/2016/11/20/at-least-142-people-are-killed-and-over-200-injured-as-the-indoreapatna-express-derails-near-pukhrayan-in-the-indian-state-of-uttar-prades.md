@@ -22,7 +22,7 @@ The death toll was likely to rise after one of the country’s worst rail accide
 
 ### Changes:
 
-1. [Pukhrayan train derailment: At least 142 people are killed and over 200 injured as the Indore-Patna Express derails near Pukhrayan in the Indian state of Uttar Pradesh. ](/news/2016/11/20/pukhrayan-train-derailment-at-least-142-people-are-killed-and-over-200-injured-as-the-indore-patna-express-derails-near-pukhrayan-in-the.md) _2017-08-27 03:47:16 (First version)_
+1. [Pukhrayan train derailment: At least 142 people are killed and over 200 injured as the Indore-Patna Express derails near Pukhrayan in the Indian state of Uttar Pradesh. ](/news/2016/11/20/pukhrayan-train-derailment-at-least-142-people-are-killed-and-over-200-injured-as-the-indore-patna-express-derails-near-pukhrayan-in-the.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 142 people are killed and over 200 injured as the Indore-Patna Express derails near Pukhrayan in the Indian state of Uttar Pradesh. ](/news/2016/11/20/at-least-142-people-are-killed-and-over-200-injured-as-the-indoreapatna-express-derails-near-pukhrayan-in-the-indian-state-of-uttar-prades.md) _(Current version)_
 
 ### Related:

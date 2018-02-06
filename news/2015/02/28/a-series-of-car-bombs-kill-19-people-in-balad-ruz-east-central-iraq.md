@@ -16,7 +16,7 @@ A series of car bombs has ripped through a crowded marketplace and a Shi’ite m
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/islamic-state-of-iraq-and-the-levant-a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md) _2017-08-27 03:42:01 (First version)_
+1. [Islamic State of Iraq and the Levant: A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/islamic-state-of-iraq-and-the-levant-a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md) _(Current version)_
 
 ### Related:

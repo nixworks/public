@@ -15,7 +15,7 @@ West African country holding its first legislative election since the departure 
 
 ### Changes:
 
-1. [Gambian parliamentary election, 2017: Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/gambian-parliamentary-election-2017-voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-l.md) _2017-08-27 03:48:07 (First version)_
+1. [Gambian parliamentary election, 2017: Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/gambian-parliamentary-election-2017-voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-l.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-longtime-president-yahya-jammeh-resigne.md) _(Current version)_
 
 ### Related:

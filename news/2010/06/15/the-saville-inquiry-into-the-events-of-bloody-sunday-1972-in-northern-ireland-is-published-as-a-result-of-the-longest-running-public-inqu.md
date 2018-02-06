@@ -26,8 +26,8 @@ The Bloody Sunday killings were unjustified and unjustifiable, the Prime Ministe
 
 ### Changes:
 
-1. [Saville Inquiry:The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-pthe-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-ru.md) _2017-08-25 03:28:17 (First version)_
-2. [Saville Inquiry:: The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-r.md) _2017-08-27 03:28:16 (Update)_
+1. [Saville Inquiry:: The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-r.md) _2018-02-06 13:49:20 (First version)_
+2. [Saville Inquiry:The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-pthe-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-ru.md) _2018-02-06 13:49:20 (Update)_
 2. [The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-running-public-inqu.md) _(Current version)_
 
 ### Related:

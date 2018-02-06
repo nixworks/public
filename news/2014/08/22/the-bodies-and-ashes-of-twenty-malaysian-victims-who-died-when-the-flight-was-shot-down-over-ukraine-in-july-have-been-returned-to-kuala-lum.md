@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/22/the-bodies-and-ashes-of-twenty-malaysian-victim
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17: The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/malaysia-airlines-flight-17-the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-ha.md) _2017-08-27 03:41:11 (First version)_
+1. [Malaysia Airlines Flight 17: The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/malaysia-airlines-flight-17-the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-ha.md) _2018-02-06 13:49:26 (First version)_
 1. [The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-have-been-returned-to-kuala-lum.md) _(Current version)_
 
 ### Related:

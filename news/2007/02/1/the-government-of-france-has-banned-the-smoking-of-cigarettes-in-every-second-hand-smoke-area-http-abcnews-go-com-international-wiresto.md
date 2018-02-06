@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-
 
 ### Changes:
 
-1. [ The Government of France has banned the smoking of cigarettes in every second-hand smoke area. ](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-of-cigarettes-in-every-second-hand-smoke-area.md) _2017-08-25 03:19:05 (First version)_
+1. [ The Government of France has banned the smoking of cigarettes in every second-hand smoke area. ](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-of-cigarettes-in-every-second-hand-smoke-area.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Government of France has banned the smoking of cigarettes in every second-hand smoke area. [http:--abcnews.go.com-International-wireStory?id=2839906 (ABC News)] (wikinews)](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-of-cigarettes-in-every-second-hand-smoke-area-http-abcnews-go-com-international-wiresto.md) _(Current version)_
 
 ### Related:

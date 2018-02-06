@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/06/22/environmentalists-said-that-an-oil-spill-near-h
 
 ### Changes:
 
-1. [Red Sea oil spill disaster:Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/red-sea-oil-spill-disaster-penvironmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-governm.md) _2017-08-25 03:28:23 (First version)_
-2. [Red Sea oil spill disaster:: Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/red-sea-oil-spill-disaster-environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-govern.md) _2017-08-27 03:28:22 (Update)_
+1. [Red Sea oil spill disaster:Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/red-sea-oil-spill-disaster-penvironmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-governm.md) _2018-02-06 13:49:20 (First version)_
+2. [Red Sea oil spill disaster:: Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/red-sea-oil-spill-disaster-environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-govern.md) _2018-02-06 13:49:20 (Update)_
 2. [Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-government-said-it-had-been-contain.md) _(Current version)_
 
 ### Related:

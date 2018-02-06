@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/03/31/north-and-south-korea-exchange-artillery-fire-a
 
 ### Changes:
 
-1. [Korean maritime border incidents:North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/korean-maritime-border-incidents-pnorth-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md) _2017-08-25 03:40:14 (First version)_
-2. [Korean maritime border incidents:: North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/korean-maritime-border-incidents-north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md) _2017-08-27 03:40:32 (Update)_
+1. [Korean maritime border incidents:North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/korean-maritime-border-incidents-pnorth-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md) _2018-02-06 13:49:26 (First version)_
+2. [Korean maritime border incidents:: North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/korean-maritime-border-incidents-north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md) _2018-02-06 13:49:26 (Update)_
 2. [North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md) _(Current version)_
 
 ### Related:

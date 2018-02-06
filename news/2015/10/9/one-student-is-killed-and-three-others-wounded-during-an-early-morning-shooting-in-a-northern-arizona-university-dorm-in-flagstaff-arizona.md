@@ -19,8 +19,8 @@ NAU Police Chief G.T. Fowler says the shooting stems from a conflict that develo
 
 ### Changes:
 
-1. [School shootingsOne student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootingspone-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md) _2017-08-25 03:42:59 (First version)_
-2. [School shootings: One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootings-one-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md) _2017-08-27 03:43:16 (Update)_
+1. [School shootingsOne student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootingspone-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md) _2018-02-06 13:49:28 (First version)_
+2. [School shootings: One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootings-one-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md) _2018-02-06 13:49:28 (Update)_
 2. [One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/one-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-flagstaff-arizona.md) _(Current version)_
 
 ### Related:

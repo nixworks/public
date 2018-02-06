@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/10/7/president-dmitry-medvedev-announces-an-extra-950
 
 ### Changes:
 
-1. [ 2008 Russian financial crisis: President Dmitry Medvedev announces an extra 950 billion roubles ($36.4 billion) of new emergency credit for banks at a Kremlin meeting. ](/news/2008/10/7/2008-russian-financial-crisis-p-president-dmitry-medvedev-announces-an-extra-950-billion-roubles-36-4-billion-of-new-emergency-credit-fo.md) _2017-08-25 03:23:00 (First version)_
-2. [ 2008 Russian financial crisis:: President Dmitry Medvedev announces an extra 950 billion roubles ($36.4 billion) of new emergency credit for banks at a Kremlin meeting. ](/news/2008/10/7/2008-russian-financial-crisis-president-dmitry-medvedev-announces-an-extra-950-billion-roubles-36-4-billion-of-new-emergency-credit-fo.md) _2017-08-27 03:22:54 (Update)_
+1. [ 2008 Russian financial crisis:: President Dmitry Medvedev announces an extra 950 billion roubles ($36.4 billion) of new emergency credit for banks at a Kremlin meeting. ](/news/2008/10/7/2008-russian-financial-crisis-president-dmitry-medvedev-announces-an-extra-950-billion-roubles-36-4-billion-of-new-emergency-credit-fo.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Russian financial crisis: President Dmitry Medvedev announces an extra 950 billion roubles ($36.4 billion) of new emergency credit for banks at a Kremlin meeting. ](/news/2008/10/7/2008-russian-financial-crisis-p-president-dmitry-medvedev-announces-an-extra-950-billion-roubles-36-4-billion-of-new-emergency-credit-fo.md) _2018-02-06 13:49:18 (Update)_
 2. [ President Dmitry Medvedev announces an extra 950 billion roubles ($36.4 billion) of new emergency credit for banks at a Kremlin meeting. ](/news/2008/10/7/president-dmitry-medvedev-announces-an-extra-950-billion-roubles-36-4-billion-of-new-emergency-credit-for-banks-at-a-kremlin-meeting.md) _(Current version)_
 
 ### Related:

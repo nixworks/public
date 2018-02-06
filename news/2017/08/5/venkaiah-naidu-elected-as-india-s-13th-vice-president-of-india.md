@@ -16,7 +16,7 @@ M Venkaiah Naidu, the ruling BJP-led National Democratic Alliance candidate, wil
 
 ### Changes:
 
-1. [Indian vice-presidential election, 2017: Venkaiah Naidu elected as India's 13th Vice-President of India.](/news/2017/08/5/indian-vice-presidential-election-2017-venkaiah-naidu-elected-as-india-s-13th-vice-president-of-india.md) _2017-08-27 03:48:46 (First version)_
+1. [Indian vice-presidential election, 2017: Venkaiah Naidu elected as India's 13th Vice-President of India.](/news/2017/08/5/indian-vice-presidential-election-2017-venkaiah-naidu-elected-as-india-s-13th-vice-president-of-india.md) _2018-02-06 13:49:31 (First version)_
 1. [ Venkaiah Naidu elected as India's 13th Vice-President of India.](/news/2017/08/5/venkaiah-naidu-elected-as-india-s-13th-vice-president-of-india.md) _(Current version)_
 
 ### Related:

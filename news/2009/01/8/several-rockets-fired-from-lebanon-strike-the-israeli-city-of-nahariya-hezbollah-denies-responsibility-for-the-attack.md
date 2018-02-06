@@ -19,8 +19,8 @@ Formats: [HTML](/news/2009/01/8/several-rockets-fired-from-lebanon-strike-the-is
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008a2009-israelagaza-conflict-p-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md) _2017-08-25 03:23:26 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008-2009-israel-gaza-conflict-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md) _2017-08-27 03:23:19 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008a2009-israelagaza-conflict-p-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008-2009-israel-gaza-conflict-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md) _2018-02-06 13:49:18 (Update)_
 2. [ Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibility-for-the-attack.md) _(Current version)_
 
 ### Related:

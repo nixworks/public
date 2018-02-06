@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentar
 
 ### Changes:
 
-1. [ Campaigning has ended in Bahrain's parliamentary elections before tomorrow's vote. The International Herald Tribune says voter turnout is expected to be 'huge' after a divisive election campaign. ](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentary-elections-before-tomorrow-s-vote-the-international-herald-tribune-says-voter-turnout-is.md) _2017-08-25 03:18:50 (First version)_
+1. [ Campaigning has ended in Bahrain's parliamentary elections before tomorrow's vote. The International Herald Tribune says voter turnout is expected to be 'huge' after a divisive election campaign. ](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentary-elections-before-tomorrow-s-vote-the-international-herald-tribune-says-voter-turnout-is.md) _2018-02-06 13:49:17 (First version)_
 1. [ Campaigning has ended in Bahrain's parliamentary elections before tomorrow's vote. The International Herald Tribune says voter turnout is expected to be 'huge' after a divisive election campaign. ](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentary-elections-before-tomorrow-s-vote-the-international-herald-tribune-says-voter-turnout-is-e.md) _(Current version)_
 
 ### Related:

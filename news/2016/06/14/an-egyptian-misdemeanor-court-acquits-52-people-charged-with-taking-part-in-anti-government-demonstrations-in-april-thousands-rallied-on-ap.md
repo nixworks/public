@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [An Egyptian Misdemeanor Court acquits 52 people charged with taking part in anti-government demonstrations in April. Thousands rallied on April 25 to protest the transfer of Red Sea islands Tiran and Sanafir to Saudi Arabia. Police arrested nearly 300 demonstrators; government reports indicate all have been released from prison. ](/news/2016/06/14/an-egyptian-misdemeanor-court-acquits-52-people-charged-with-taking-part-in-anti-government-demonstrations-in-april-thousands-rallied-on-a.md) _2017-08-25 03:45:53 (First version)_
+1. [An Egyptian Misdemeanor Court acquits 52 people charged with taking part in anti-government demonstrations in April. Thousands rallied on April 25 to protest the transfer of Red Sea islands Tiran and Sanafir to Saudi Arabia. Police arrested nearly 300 demonstrators; government reports indicate all have been released from prison. ](/news/2016/06/14/an-egyptian-misdemeanor-court-acquits-52-people-charged-with-taking-part-in-anti-government-demonstrations-in-april-thousands-rallied-on-a.md) _2018-02-06 13:49:29 (First version)_
 1. [An Egyptian Misdemeanor Court acquits 52 people charged with taking part in anti-government demonstrations in April. Thousands rallied on April 25 to protest the transfer of Red Sea islands Tiran and Sanafir to Saudi Arabia. Police arrested nearly 300 demonstrators; government reports indicate all have been released from prison. ](/news/2016/06/14/an-egyptian-misdemeanor-court-acquits-52-people-charged-with-taking-part-in-anti-government-demonstrations-in-april-thousands-rallied-on-ap.md) _(Current version)_
 
 ### Related:

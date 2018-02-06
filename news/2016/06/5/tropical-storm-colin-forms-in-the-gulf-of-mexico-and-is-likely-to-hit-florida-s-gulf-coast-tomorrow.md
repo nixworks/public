@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/5/tropical-storm-colin-forms-in-the-gulf-of-mexico
 
 ### Changes:
 
-1. [Tropical Storm Colin: Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md) _2017-08-27 03:46:12 (First version)_
+1. [Tropical Storm Colin: Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md) _2018-02-06 13:49:29 (First version)_
 1. [Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md) _(Current version)_
 
 ### Related:

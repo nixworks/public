@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/20/a-turkish-army-soldier-is-killed-and-two-others
 
 ### Changes:
 
-1. [Turkish military intervention in Syria: A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/turkish-military-intervention-in-syria-a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-a.md) _2017-08-27 03:47:16 (First version)_
+1. [Turkish military intervention in Syria: A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/turkish-military-intervention-in-syria-a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-a.md) _2018-02-06 13:49:29 (First version)_
 1. [A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-al-bab.md) _(Current version)_
 
 ### Related:

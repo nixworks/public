@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/7/a-hospital-in-the-northern-iraqi-city-of-tal-afa
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/islamic-state-of-iraq-and-the-levant-a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in.md) _2017-08-27 03:41:22 (First version)_
+1. [Islamic State of Iraq and the Levant: A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/islamic-state-of-iraq-and-the-levant-a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in.md) _2018-02-06 13:49:26 (First version)_
 1. [A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in-airstrikes-last-night.md) _(Current version)_
 
 ### Related:

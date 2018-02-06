@@ -17,7 +17,7 @@ Indonesia has declared a haze emergency in Sumatra&#039;s Riau province, as the 
 
 ### Changes:
 
-1. [2015 Southeast Asian haze: The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. ](/news/2015/09/15/2015-southeast-asian-haze-the-indonesian-province-of-riau-declares-a-state-of-emergency-due-to-high-levels-of-smoke-haze-from-forest-fires.md) _2017-08-27 03:43:03 (First version)_
+1. [2015 Southeast Asian haze: The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. ](/news/2015/09/15/2015-southeast-asian-haze-the-indonesian-province-of-riau-declares-a-state-of-emergency-due-to-high-levels-of-smoke-haze-from-forest-fires.md) _2018-02-06 13:49:27 (First version)_
 1. [The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. ](/news/2015/09/15/the-indonesian-province-of-riau-declares-a-state-of-emergency-due-to-high-levels-of-smoke-haze-from-forest-fires-in-riau-jambi-and-south-su.md) _(Current version)_
 
 ### Related:

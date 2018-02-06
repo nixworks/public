@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-sa
 
 ### Changes:
 
-1. [List of Falcon 9 and Falcon Heavy launches: SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/list-of-falcon-9-and-falcon-heavy-launches-spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-se.md) _2017-08-27 03:47:59 (First version)_
+1. [List of Falcon 9 and Falcon Heavy launches: SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/list-of-falcon-9-and-falcon-heavy-launches-spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-se.md) _2018-02-06 13:49:30 (First version)_
 1. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _(Current version)_
 
 ### Related:

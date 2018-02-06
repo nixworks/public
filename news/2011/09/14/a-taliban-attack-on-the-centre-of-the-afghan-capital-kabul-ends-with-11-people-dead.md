@@ -17,8 +17,8 @@ The last survivors of a Taliban suicide squad have been killed ending a 20 hour 
 
 ### Changes:
 
-1. [Taliban attack on Kabul:A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/taliban-attack-on-kabul-pa-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md) _2017-08-25 03:34:08 (First version)_
-2. [Taliban attack on Kabul:: A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/taliban-attack-on-kabul-a-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md) _2017-08-27 03:34:16 (Update)_
+1. [Taliban attack on Kabul:A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/taliban-attack-on-kabul-pa-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md) _2018-02-06 13:49:22 (First version)_
+2. [Taliban attack on Kabul:: A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/taliban-attack-on-kabul-a-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md) _2018-02-06 13:49:22 (Update)_
 2. [A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/a-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md) _(Current version)_
 
 ### Related:

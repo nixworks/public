@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-kill
 
 ### Changes:
 
-1. [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above {{convert|45|C}} in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-convert-45-c-in-adelaide-and-melbourne.md) _2017-05-01 03:24:40 (First version)_
+1. [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above {{convert|45|C}} in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-convert-45-c-in-adelaide-and-melbourne.md) _2018-02-06 13:49:18 (First version)_
 1. [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above 45 C in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-45-c-in-adelaide-and-melbourne.md) _(Current version)_
 
 ### Related:

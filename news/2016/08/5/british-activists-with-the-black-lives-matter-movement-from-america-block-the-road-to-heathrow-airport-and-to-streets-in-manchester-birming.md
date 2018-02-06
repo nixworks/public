@@ -17,7 +17,7 @@ A British offshoot of the Black Lives Matter movement blocked the road to London
 
 ### Changes:
 
-1. [British activists with the Black Lives Matter movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birmi.md) _2017-08-25 03:46:14 (First version)_
+1. [British activists with the Black Lives Matter movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birmi.md) _2018-02-06 13:49:29 (First version)_
 1. [British activists with the Black Lives Matter movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birming.md) _(Current version)_
 
 ### Related:

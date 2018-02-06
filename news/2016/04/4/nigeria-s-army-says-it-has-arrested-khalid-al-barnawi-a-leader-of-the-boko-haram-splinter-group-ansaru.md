@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/4/nigeria-s-army-says-it-has-arrested-khalid-al-ba
 
 ### Changes:
 
-1. [Boko Haram insurgency: Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/boko-haram-insurgency-nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md) _2017-08-27 03:45:29 (First version)_
+1. [Boko Haram insurgency: Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/boko-haram-insurgency-nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md) _2018-02-06 13:49:29 (First version)_
 1. [Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-giv
 
 ### Changes:
 
-1. [ The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago.md) _2017-12-02 23:30:04 (First version)_
+1. [ The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago.md) _2018-02-06 13:49:31 (First version)_
 1. [The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago-b.md) _(Current version)_
 
 ### Related:

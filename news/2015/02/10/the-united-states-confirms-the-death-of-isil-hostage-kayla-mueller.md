@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-ho
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/islamic-state-of-iraq-and-the-levant-the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md) _2017-08-27 03:41:54 (First version)_
+1. [Islamic State of Iraq and the Levant: The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/islamic-state-of-iraq-and-the-levant-the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md) _(Current version)_
 
 ### Related:

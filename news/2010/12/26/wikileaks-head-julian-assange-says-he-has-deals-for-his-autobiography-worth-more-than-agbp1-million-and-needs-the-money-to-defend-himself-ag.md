@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/12/26/wikileaks-head-julian-assange-says-he-has-deals
 
 ### Changes:
 
-1. [Wikileaks head Julian Assange says he has deals for his autobiography worth more than PS1 million and needs the money to defend himself against allegations of sexual assault on two women in Sweden. ](/news/2010/12/26/wikileaks-head-julian-assange-says-he-has-deals-for-his-autobiography-worth-more-than-aps1-million-and-needs-the-money-to-defend-himself-agai.md) _2017-08-25 03:31:32 (First version)_
+1. [Wikileaks head Julian Assange says he has deals for his autobiography worth more than PS1 million and needs the money to defend himself against allegations of sexual assault on two women in Sweden. ](/news/2010/12/26/wikileaks-head-julian-assange-says-he-has-deals-for-his-autobiography-worth-more-than-aps1-million-and-needs-the-money-to-defend-himself-agai.md) _2018-02-06 13:49:21 (First version)_
 1. [Wikileaks head Julian Assange says he has deals for his autobiography worth more than GBP1 million and needs the money to defend himself against allegations of sexual assault on two women in Sweden. ](/news/2010/12/26/wikileaks-head-julian-assange-says-he-has-deals-for-his-autobiography-worth-more-than-agbp1-million-and-needs-the-money-to-defend-himself-ag.md) _(Current version)_
 
 ### Related:

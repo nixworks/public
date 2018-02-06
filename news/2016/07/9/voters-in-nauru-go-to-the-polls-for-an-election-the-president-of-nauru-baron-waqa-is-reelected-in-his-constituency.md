@@ -17,7 +17,7 @@ Polling stations are now open in Nauru for the 2016 general election.
 
 ### Changes:
 
-1. [Nauruan parliamentary election, 2016: Voters in Nauru go to the polls for an election. The President of Nauru Baron Waqa is reelected in his constituency. ](/news/2016/07/9/nauruan-parliamentary-election-2016-voters-in-nauru-go-to-the-polls-for-an-election-the-president-of-nauru-baron-waqa-is-reelected-in-his.md) _2017-08-27 03:46:27 (First version)_
+1. [Nauruan parliamentary election, 2016: Voters in Nauru go to the polls for an election. The President of Nauru Baron Waqa is reelected in his constituency. ](/news/2016/07/9/nauruan-parliamentary-election-2016-voters-in-nauru-go-to-the-polls-for-an-election-the-president-of-nauru-baron-waqa-is-reelected-in-his.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Nauru go to the polls for an election. The President of Nauru Baron Waqa is reelected in his constituency. ](/news/2016/07/9/voters-in-nauru-go-to-the-polls-for-an-election-the-president-of-nauru-baron-waqa-is-reelected-in-his-constituency.md) _(Current version)_
 
 ### Related:

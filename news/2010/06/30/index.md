@@ -9,7 +9,7 @@ The American Civil Liberties Union plans to sue the US authorities over the &quo
 
 ##### India
 ### [Protests are held all across India and occupied Kashmir amid curfew restrictions for the past ten days. Ten adolescents are killed by the forces. ](/news/2010/06/30/protests-are-held-all-across-india-and-occupied-kashmir-amid-curfew-restrictions-for-the-past-ten-days-ten-adolescents-are-killed-by-the-fo.md)
-_Context: Kashmir, India_
+_Context: India, Kashmir_
 
 ##### Africa
 ### [The Democratic Republic of the Congo marks 50 years of independence with celebrations attended by Secretary-General of the United Nations Ban Ki-moon, the Belgian king and other world leaders, days after the funeral of Floribert Chebeya. ](/news/2010/06/30/the-democratic-republic-of-the-congo-marks-50-years-of-independence-with-celebrations-attended-by-secretary-general-of-the-united-nations-ba.md)
@@ -45,7 +45,7 @@ Sudanese authorities release Islamist opposition leader Hassan al-Turabi after s
 
 ##### his predecessor
 ### [Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-vice-president-of-the-philippine.md)
-_Context: Jejomar Binay, his predecessor, President, Vice President of the Philippines_
+_Context: Vice President of the Philippines, his predecessor, President, Jejomar Binay_
 
 ##### Burundi
 ### [Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. ](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.md)
@@ -77,7 +77,7 @@ Figures from the CSO show that the Irish economy technically emerged from recess
 
 ##### southwest China
 ### [Rescuers have recovered eight bodies from the ruins of a southwest China village, two days after a devastating rain-triggered landslide destroyed 37 houses and buried 99 villagers under mud. 91 residents of Dazhai Village, Guanling County, Guizhou Province, remained missing. ](/news/2010/06/30/rescuers-have-recovered-eight-bodies-from-the-ruins-of-a-southwest-china-village-two-days-after-a-devastating-rain-triggered-landslide-dest.md)
-_Context: Dazhai, Guanling, Guizhou, southwest China_
+_Context: southwest China, Guanling, Dazhai, Guizhou_
 
 ##### Iraq
 ### [13 people are killed during attacks in Iraq: 4 people die in the town of Beiji. ](/news/2010/06/30/13-people-are-killed-during-attacks-in-iraq-4-people-die-in-the-town-of-beiji.md)
@@ -109,15 +109,15 @@ A war crimes court rules that model Naomi Campbell can be called to testify agai
 
 ##### Italy
 ### [The Italian government appeals to the European Court of Human Rights to overturn a ban on classroom crucifixes. ](/news/2010/06/30/the-italian-government-appeals-to-the-european-court-of-human-rights-to-overturn-a-ban-on-classroom-crucifixes.md)
-_Context: European Court of Human Rights, Italy, crucifix_
+_Context: crucifix, Italy, European Court of Human Rights_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
-_Context: 2010 FIFA World Cup, South Africa, Goodluck Jonathan, national football team_
+_Context: 2010 FIFA World Cup, national football team, South Africa, Goodluck Jonathan_
 
 ##### Roger Federer
 ### [Roger Federer is defeated by Tomas Berdych of the Czech Republic at Wimbledon, so Federer will not contest the final for the first time since 2002, also his second Wimbledon loss during that time. ](/news/2010/06/30/roger-federer-is-defeated-by-toma-a-berdych-of-the-czech-republic-at-wimbledon-so-federer-will-not-contest-the-final-for-the-first-time-si.md)
-_Context: Roger Federer, 2010 Wimbledon Championships, Tomas Berdych, Czech Republic_
+_Context: Czech Republic, Roger Federer, 2010 Wimbledon Championships, Tomas Berdych_
 
 ## [Previous Day...](/news/2010/06/29/index.md)
 

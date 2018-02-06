@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-maur
 
 ### Changes:
 
-1. [ The leaders of the recent bloodless Coup in Mauritania name Ely Ould Mohamed Vall, former national police chief, as the new president of the country ](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-mauritania-name-ely-ould-mohamed-vall-former-national-police-chief-as-the-new-president-of-t.md) _2017-08-25 03:16:38 (First version)_
+1. [ The leaders of the recent bloodless Coup in Mauritania name Ely Ould Mohamed Vall, former national police chief, as the new president of the country ](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-mauritania-name-ely-ould-mohamed-vall-former-national-police-chief-as-the-new-president-of-t.md) _2018-02-06 13:49:16 (First version)_
 1. [ The leaders of the recent bloodless Coup in Mauritania name Ely Ould Mohamed Vall, former national police chief, as the new president of the country ](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-mauritania-name-ely-ould-mohamed-vall-former-national-police-chief-as-the-new-president-of-th.md) _(Current version)_
 
 ### Related:

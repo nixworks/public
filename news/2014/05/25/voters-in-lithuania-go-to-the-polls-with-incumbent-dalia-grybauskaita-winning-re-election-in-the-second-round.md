@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/25/voters-in-lithuania-go-to-the-polls-with-incumb
 
 ### Changes:
 
-1. [Lithuanian presidential election, 2014:Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-pvoters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-se.md) _2017-08-25 03:40:27 (First version)_
-2. [Lithuanian presidential election, 2014:: Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-voters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-s.md) _2017-08-27 03:40:45 (Update)_
+1. [Lithuanian presidential election, 2014:: Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-voters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-s.md) _2018-02-06 13:49:26 (First version)_
+2. [Lithuanian presidential election, 2014:Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-pvoters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-se.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/voters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-second-round.md) _(Current version)_
 
 ### Related:

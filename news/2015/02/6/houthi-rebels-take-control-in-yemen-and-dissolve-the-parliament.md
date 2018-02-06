@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/6/houthi-rebels-take-control-in-yemen-and-dissolve
 
 ### Changes:
 
-1. [Houthi insurgency in Yemen: Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-insurgency-in-yemen-houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md) _2017-08-27 03:41:53 (First version)_
+1. [Houthi insurgency in Yemen: Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-insurgency-in-yemen-houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md) _2018-02-06 13:49:26 (First version)_
 1. [Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md) _(Current version)_
 
 ### Related:

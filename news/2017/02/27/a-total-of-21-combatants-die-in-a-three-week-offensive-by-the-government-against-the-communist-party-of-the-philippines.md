@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/27/a-total-of-21-combatants-die-in-a-three-week-of
 
 ### Changes:
 
-1. [Communist rebellion in the Philippines: A total of 21 combatants die in a three-week offensive by the government against the Communist Party of the Philippines. ](/news/2017/02/27/communist-rebellion-in-the-philippines-a-total-of-21-combatants-die-in-a-three-week-offensive-by-the-government-against-the-communist-party.md) _2017-08-27 03:47:54 (First version)_
+1. [Communist rebellion in the Philippines: A total of 21 combatants die in a three-week offensive by the government against the Communist Party of the Philippines. ](/news/2017/02/27/communist-rebellion-in-the-philippines-a-total-of-21-combatants-die-in-a-three-week-offensive-by-the-government-against-the-communist-party.md) _2018-02-06 13:49:30 (First version)_
 1. [A total of 21 combatants die in a three-week offensive by the government against the Communist Party of the Philippines. ](/news/2017/02/27/a-total-of-21-combatants-die-in-a-three-week-offensive-by-the-government-against-the-communist-party-of-the-philippines.md) _(Current version)_
 
 ### Related:

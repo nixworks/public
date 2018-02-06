@@ -16,7 +16,7 @@ At least three children were killed and 20 people wounded by a blast in the Liby
 
 ### Changes:
 
-1. [Libyan Civil War: A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/libyan-civil-war-a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _2017-08-27 03:47:16 (First version)_
+1. [Libyan Civil War: A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/libyan-civil-war-a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _2018-02-06 13:49:29 (First version)_
 1. [A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _(Current version)_
 
 ### Related:

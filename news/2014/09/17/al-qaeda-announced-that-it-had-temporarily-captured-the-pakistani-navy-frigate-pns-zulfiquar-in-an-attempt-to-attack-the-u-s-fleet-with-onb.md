@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/09/17/al-qaeda-announced-that-it-had-temporarily-capt
 
 ### Changes:
 
-1. [Terrorism in Pakistan: Al-Qaeda announced that it had temporarily captured the Pakistani Navy frigate PNS Zulfiquar, in an attempt to attack the U.S fleet with onboard missiles, before it was recaptured by Pakistani Forces. ](/news/2014/09/17/terrorism-in-pakistan-al-qaeda-announced-that-it-had-temporarily-captured-the-pakistani-navy-frigate-pns-zulfiquar-in-an-attempt-to-attack.md) _2017-08-27 03:41:17 (First version)_
+1. [Terrorism in Pakistan: Al-Qaeda announced that it had temporarily captured the Pakistani Navy frigate PNS Zulfiquar, in an attempt to attack the U.S fleet with onboard missiles, before it was recaptured by Pakistani Forces. ](/news/2014/09/17/terrorism-in-pakistan-al-qaeda-announced-that-it-had-temporarily-captured-the-pakistani-navy-frigate-pns-zulfiquar-in-an-attempt-to-attack.md) _2018-02-06 13:49:26 (First version)_
 1. [Al-Qaeda announced that it had temporarily captured the Pakistani Navy frigate PNS Zulfiquar, in an attempt to attack the U.S fleet with onboard missiles, before it was recaptured by Pakistani Forces. ](/news/2014/09/17/al-qaeda-announced-that-it-had-temporarily-captured-the-pakistani-navy-frigate-pns-zulfiquar-in-an-attempt-to-attack-the-u-s-fleet-with-onb.md) _(Current version)_
 
 ### Related:

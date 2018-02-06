@@ -17,8 +17,8 @@ The leader of the Pakistani Taliban, Hakimullah Mehsud, has been killed in a dro
 
 ### Changes:
 
-1. [War in North-West Pakistan:A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/war-in-north-west-pakistan-pa-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a-r.md) _2017-08-25 03:39:28 (First version)_
-2. [War in North-West Pakistan:: A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/war-in-north-west-pakistan-a-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a.md) _2017-08-27 03:39:46 (Update)_
+1. [War in North-West Pakistan:A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/war-in-north-west-pakistan-pa-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a-r.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/war-in-north-west-pakistan-a-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a.md) _2018-02-06 13:49:25 (Update)_
 2. [A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/a-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a-reward-for-5-million-and-fi.md) _(Current version)_
 
 ### Related:

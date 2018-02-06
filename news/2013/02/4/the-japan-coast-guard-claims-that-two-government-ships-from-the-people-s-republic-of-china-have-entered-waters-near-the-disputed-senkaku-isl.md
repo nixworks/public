@@ -16,8 +16,8 @@ THE Japanese coastguard says two Chinese government ships have entered waters ar
 
 ### Changes:
 
-1. [Senkaku Islands dispute:The Japan Coast Guard claims that two government ships from the People's Republic of China have entered waters near the disputed Senkaku Islands. ](/news/2013/02/4/senkaku-islands-dispute-pthe-japan-coast-guard-claims-that-two-government-ships-from-the-people-s-republic-of-china-have-entered-waters-near.md) _2017-08-25 03:37:26 (First version)_
-2. [Senkaku Islands dispute:: The Japan Coast Guard claims that two government ships from the People's Republic of China have entered waters near the disputed Senkaku Islands. ](/news/2013/02/4/senkaku-islands-dispute-the-japan-coast-guard-claims-that-two-government-ships-from-the-people-s-republic-of-china-have-entered-waters-nea.md) _2017-08-27 03:37:36 (Update)_
+1. [Senkaku Islands dispute:: The Japan Coast Guard claims that two government ships from the People's Republic of China have entered waters near the disputed Senkaku Islands. ](/news/2013/02/4/senkaku-islands-dispute-the-japan-coast-guard-claims-that-two-government-ships-from-the-people-s-republic-of-china-have-entered-waters-nea.md) _2018-02-06 13:49:24 (First version)_
+2. [Senkaku Islands dispute:The Japan Coast Guard claims that two government ships from the People's Republic of China have entered waters near the disputed Senkaku Islands. ](/news/2013/02/4/senkaku-islands-dispute-pthe-japan-coast-guard-claims-that-two-government-ships-from-the-people-s-republic-of-china-have-entered-waters-near.md) _2018-02-06 13:49:24 (Update)_
 2. [The Japan Coast Guard claims that two government ships from the People's Republic of China have entered waters near the disputed Senkaku Islands. ](/news/2013/02/4/the-japan-coast-guard-claims-that-two-government-ships-from-the-people-s-republic-of-china-have-entered-waters-near-the-disputed-senkaku-isl.md) _(Current version)_
 
 ### Related:

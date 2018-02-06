@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/09/30/ukrainians-went-to-the-polls-for-the-third-time
 
 ### Changes:
 
-1. [ Ukrainian parliamentary election, 2007: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-p-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md) _2017-08-25 03:21:04 (First version)_
-2. [ Ukrainian parliamentary election, 2007:: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md) _2017-08-27 03:21:00 (Update)_
+1. [ Ukrainian parliamentary election, 2007:: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md) _2018-02-06 13:49:18 (First version)_
+2. [ Ukrainian parliamentary election, 2007: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-p-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md) _2018-02-06 13:49:18 (Update)_
 2. [ Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md) _(Current version)_
 
 ### Related:

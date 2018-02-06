@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/30/at-least-two-police-officers-and-three-suspecte
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/insurgency-in-the-north-caucasus-at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md) _2017-08-27 03:47:43 (First version)_
+1. [Insurgency in the North Caucasus: At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/insurgency-in-the-north-caucasus-at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md) _2018-02-06 13:49:30 (First version)_
 1. [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md) _(Current version)_
 
 ### Related:

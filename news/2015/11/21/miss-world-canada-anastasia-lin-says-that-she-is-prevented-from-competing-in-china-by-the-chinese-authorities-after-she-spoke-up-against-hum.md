@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-i
 
 ### Changes:
 
-1. [Miss World 2015: Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-2015-miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spo.md) _2017-08-27 03:43:59 (First version)_
+1. [Miss World 2015: Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-2015-miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spo.md) _2018-02-06 13:49:28 (First version)_
 1. [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md) _(Current version)_
 
 ### Related:

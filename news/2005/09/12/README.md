@@ -21,7 +21,7 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 
 ##### Egypt
 ### [ According to witnesses, the Egyptian border patrol police opened fire at crowds swarming the Egypt-Gaza border at Rafah, killing a Palestinian man and injuring another. An Egyptian spokesman later denied that Egyptian troops fired the shots that killed the man. ](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.md)
-_Context: Palestinian, Rafah, Gaza Strip, Egypt_
+_Context: Egypt, Rafah, Gaza Strip, Palestinian_
 
 ##### Palestinian
 ### [ Three Palestinian teenagers drowned as they rushed into the beachside at Neve Dekalim without knowing how to swim. ](/news/2005/09/12/three-palestinian-teenagers-drowned-as-they-rushed-into-the-beachside-at-neve-dekalim-without-knowing-how-to-swim.md)
@@ -29,19 +29,19 @@ _Context: Neve Dekalim, Palestinian_
 
 ##### eBay
 ### [ eBay announced it will buy Skype, the Luxembourg-based web telephone network, in a $2.6 billion deal. ](/news/2005/09/12/ebay-announced-it-will-buy-skype-the-luxembourg-based-web-telephone-network-in-a-2-6-billion-deal.md)
-_Context: eBay, Luxembourg, Skype_
+_Context: Skype, eBay, Luxembourg_
 
 ##### Hong Kong Disneyland
 ### [ Hong Kong Disneyland opens in a partnership between Disney and the Hong Kong government. This marks the first attempt of Disney tapping into the Chinese and southeastern Asian market. ](/news/2005/09/12/hong-kong-disneyland-opens-in-a-partnership-between-disney-and-the-hong-kong-government-this-marks-the-first-attempt-of-disney-tapping-int.md)
-_Context: Hong Kong Disneyland, The Walt Disney Company, Hong Kong_
+_Context: Hong Kong Disneyland, Hong Kong, The Walt Disney Company_
 
 ##### Premier
 ### [ Premier Dalton McGuinty of Ontario, Canada rejects the use of Islamic sharia law as well as religious arbitration of all other faiths, declaring that one public law is to be used for all family disputes. The decision follows a year of debate and worldwide protests. ](/news/2005/09/12/premier-dalton-mcguinty-of-ontario-canada-rejects-the-use-of-islamic-sharia-law-as-well-as-religious-arbitration-of-all-other-faiths-decl.md)
-_Context: Canadian, Dalton McGuinty, Ontario, Islamic, Premier, sharia law, arbitration_
+_Context: sharia law, arbitration, Canadian, Premier, Ontario, Dalton McGuinty, Islamic_
 
 ##### Oracle Corporation
 ### [ Oracle Corporation announced that it has agreed to purchase Siebel Systems for approximately $5.85 billion in cash. ](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.md)
-_Context: Siebel Systems, Oracle Corporation_
+_Context: Oracle Corporation, Siebel Systems_
 
 ##### the 2005 Ashes
 ### [ England wins the 2005 Ashes 2-1. Final Test match ends in a draw. ](/news/2005/09/12/england-wins-the-2005-ashes-2-1-final-test-match-ends-in-a-draw.md)

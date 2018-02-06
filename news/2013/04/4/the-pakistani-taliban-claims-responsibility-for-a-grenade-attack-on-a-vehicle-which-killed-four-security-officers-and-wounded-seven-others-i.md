@@ -16,8 +16,8 @@ Pakistan Taliban claim responsibility for attack on vehicle that killed four sec
 
 ### Changes:
 
-1. [War in North-West Pakistan:The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-pthe-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-officer.md) _2017-08-25 03:38:10 (First version)_
-2. [War in North-West Pakistan:: The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-the-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-office.md) _2017-08-27 03:38:22 (Update)_
+1. [War in North-West Pakistan:: The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-the-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-office.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-pthe-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-officer.md) _2018-02-06 13:49:24 (Update)_
 2. [The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/the-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-officers-and-wounded-seven-others-i.md) _(Current version)_
 
 ### Related:

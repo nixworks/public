@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/27/according-to-officials-from-the-breakaway-regio
 
 ### Changes:
 
-1. [2016 Armenian-Azerbaijani clashes: According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/2016-armenian-azerbaijani-clashes-according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed.md) _2017-08-27 03:45:53 (First version)_
+1. [2016 Armenian-Azerbaijani clashes: According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/2016-armenian-azerbaijani-clashes-according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed.md) _2018-02-06 13:49:28 (First version)_
 1. [According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed-overnight-by-azerbaijani-troops.md) _(Current version)_
 
 ### Related:

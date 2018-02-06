@@ -17,7 +17,7 @@ A car bomb exploded on Saturday on a busy street in the Somali capital Mogadishu
 
 ### Changes:
 
-1. [Somali Civil War: A car bomb outside a shopping mall in the Somali capital Mogadishu kills at least three and injures at least eight. The al Qaeda-linked Al Shabaab claim responsibility. ](/news/2015/12/19/somali-civil-war-a-car-bomb-outside-a-shopping-mall-in-the-somali-capital-mogadishu-kills-at-least-three-and-injures-at-least-eight-the-al.md) _2017-08-27 03:44:26 (First version)_
+1. [Somali Civil War: A car bomb outside a shopping mall in the Somali capital Mogadishu kills at least three and injures at least eight. The al Qaeda-linked Al Shabaab claim responsibility. ](/news/2015/12/19/somali-civil-war-a-car-bomb-outside-a-shopping-mall-in-the-somali-capital-mogadishu-kills-at-least-three-and-injures-at-least-eight-the-al.md) _2018-02-06 13:49:28 (First version)_
 1. [A car bomb outside a shopping mall in the Somali capital Mogadishu kills at least three and injures at least eight. The al Qaeda-linked Al Shabaab claim responsibility. ](/news/2015/12/19/a-car-bomb-outside-a-shopping-mall-in-the-somali-capital-mogadishu-kills-at-least-three-and-injures-at-least-eight-the-al-qaeda-linked-al-s.md) _(Current version)_
 
 ### Related:

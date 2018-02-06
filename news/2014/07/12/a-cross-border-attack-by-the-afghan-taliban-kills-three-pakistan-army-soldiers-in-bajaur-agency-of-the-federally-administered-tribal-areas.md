@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/12/a-cross-border-attack-by-the-afghan-taliban-kil
 
 ### Changes:
 
-1. [War in North-West Pakistan:A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/war-in-north-west-pakistan-pa-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally.md) _2017-08-25 03:40:40 (First version)_
-2. [War in North-West Pakistan:: A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/war-in-north-west-pakistan-a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federall.md) _2017-08-27 03:40:58 (Update)_
+1. [War in North-West Pakistan:A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/war-in-north-west-pakistan-pa-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/war-in-north-west-pakistan-a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federall.md) _2018-02-06 13:49:26 (Update)_
 2. [A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally-administered-tribal-areas.md) _(Current version)_
 
 ### Related:

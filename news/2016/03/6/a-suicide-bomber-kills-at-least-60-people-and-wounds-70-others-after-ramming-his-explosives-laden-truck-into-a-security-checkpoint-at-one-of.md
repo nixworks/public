@@ -18,7 +18,7 @@ A truck bomb at an Iraqi checkpoint south of Baghdad killed at least 60 people a
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bomber kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the Iraqi city of Hillah, south of Baghdad. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/03/6/iraqi-civil-war-2014-present-a-suicide-bomber-kills-at-least-60-people-and-wounds-70-others-after-ramming-his-explosives-laden-truck-in.md) _2017-08-27 03:45:09 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bomber kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the Iraqi city of Hillah, south of Baghdad. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/03/6/iraqi-civil-war-2014-present-a-suicide-bomber-kills-at-least-60-people-and-wounds-70-others-after-ramming-his-explosives-laden-truck-in.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the Iraqi city of Hillah, south of Baghdad. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/03/6/a-suicide-bomber-kills-at-least-60-people-and-wounds-70-others-after-ramming-his-explosives-laden-truck-into-a-security-checkpoint-at-one-of.md) _(Current version)_
 
 ### Related:

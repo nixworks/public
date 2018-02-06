@@ -16,7 +16,7 @@ Terror attacks across Nigeria by a radical Muslim sect killed at least 39 on Sun
 
 ### Changes:
 
-1. [At least 39 people are killed and many injured in a series of attacks against churches in Nigeria during Christmas prayers. The Islamic group Boko Haram claims responsibility. ](/news/2011/12/25/at-least-39-people-are-killed-and-many-injured-in-a-series-of-attacks-against-churches-in-nigeria-during-christmas-prayers-the-islamic-gro.md) _2017-08-25 03:34:43 (First version)_
+1. [At least 39 people are killed and many injured in a series of attacks against churches in Nigeria during Christmas prayers. The Islamic group Boko Haram claims responsibility. ](/news/2011/12/25/at-least-39-people-are-killed-and-many-injured-in-a-series-of-attacks-against-churches-in-nigeria-during-christmas-prayers-the-islamic-gro.md) _2018-02-06 13:49:23 (First version)_
 1. [At least 39 people are killed and many injured in a series of attacks against churches in Nigeria during Christmas prayers. The Islamic group Boko Haram claims responsibility. ](/news/2011/12/25/at-least-39-people-are-killed-and-many-injured-in-a-series-of-attacks-against-churches-in-nigeria-during-christmas-prayers-the-islamic-grou.md) _(Current version)_
 
 ### Related:

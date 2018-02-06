@@ -15,7 +15,7 @@ Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations
 
 ### Changes:
 
-1. [2017 Qatar diplomatic crisis: The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/2017-qatar-diplomatic-crisis-the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md) _2017-08-27 03:48:26 (First version)_
+1. [2017 Qatar diplomatic crisis: The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/2017-qatar-diplomatic-crisis-the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md) _2018-02-06 13:49:30 (First version)_
 1. [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md) _(Current version)_
 
 ### Related:

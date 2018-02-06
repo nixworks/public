@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/30/tropical-cyclone-dylan-forms-off-the-north-quee
 
 ### Changes:
 
-1. [2013-14 Australian region cyclone season:Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/2013a14-australian-region-cyclone-season-ptropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-bet.md) _2017-08-25 03:39:56 (First version)_
-2. [2013-14 Australian region cyclone season:: Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/2013-14-australian-region-cyclone-season-tropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-be.md) _2017-08-27 03:40:15 (Update)_
+1. [2013-14 Australian region cyclone season:Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/2013a14-australian-region-cyclone-season-ptropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-bet.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Australian region cyclone season:: Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/2013-14-australian-region-cyclone-season-tropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-be.md) _2018-02-06 13:49:25 (Update)_
 2. [Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/tropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-between-lucinda-and-proserpine.md) _(Current version)_
 
 ### Related:

@@ -20,7 +20,7 @@ West Virginia election results from the 2016 general election.
 
 ### Changes:
 
-1. [United States presidential election, 2016, Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. ](/news/2016/05/10/united-states-presidential-election-2016-voters-in-the-state-of-west-virginia-head-to-the-polls-to-vote-in-the-democratic-and-republican.md) _2017-08-25 03:45:38 (First version)_
+1. [United States presidential election, 2016, Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. ](/news/2016/05/10/united-states-presidential-election-2016-voters-in-the-state-of-west-virginia-head-to-the-polls-to-vote-in-the-democratic-and-republican.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. ](/news/2016/05/10/voters-in-the-state-of-west-virginia-head-to-the-polls-to-vote-in-the-democratic-and-republican-presidential-primaries-voters-in-the-state.md) _(Current version)_
 
 ### Related:

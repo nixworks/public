@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/02/9/writers-guild-of-america-strike-2007apresent-hol
 
 ### Changes:
 
-1. [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007-present-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md) _2017-08-27 03:21:39 (First version)_
+1. [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007-present-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md) _2018-02-06 13:49:18 (First version)_
 1. [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007apresent-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md) _(Current version)_
 
 ### Related:

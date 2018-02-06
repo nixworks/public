@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/20/battle-of-mogadishu-marchaapril-2007-shelling-a
 
 ### Changes:
 
-1. [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-march-april-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md) _2017-08-27 03:19:35 (First version)_
+1. [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-march-april-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md) _2018-02-06 13:49:17 (First version)_
 1. [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-marchaapril-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md) _(Current version)_
 
 ### Related:

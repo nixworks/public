@@ -28,8 +28,8 @@ Details emerge of massive casualties in the Libyan city of Benghazi, where docto
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war:More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/arab-spring-p2011-libyan-civil-war-pmore-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-libya.md) _2017-08-25 03:32:17 (First version)_
-2. [Arab Spring:: 2011 Libyan civil war:: More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/arab-spring-2011-libyan-civil-war-more-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-liby.md) _2017-08-27 03:32:25 (Update)_
+1. [Arab Spring:2011 Libyan civil war:More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/arab-spring-p2011-libyan-civil-war-pmore-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/arab-spring-2011-libyan-civil-war-more-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-liby.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war:More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/2011-libyan-civil-war-more-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-libya.md) _(Current version)_
 
 ### Related:

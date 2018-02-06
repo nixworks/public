@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/07/11/brazilian-police-detains-opposition-congressman
 
 ### Changes:
 
-1. [ Brazilian police detains opposition congressman and bishop Joao Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joapso-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had-b.md) _2017-08-25 03:16:30 (First version)_
+1. [ Brazilian police detains opposition congressman and bishop Joao Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joapso-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had-b.md) _2018-02-06 13:49:16 (First version)_
 1. [ Brazilian police detains opposition congressman and bishop JoGBPo Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joagbpo-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had.md) _(Current version)_
 
 ### Related:

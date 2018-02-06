@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/25/traedegae-ng-taocnyn-sang-becomes-the-new-presi
 
 ### Changes:
 
-1. [Truong Tan Sang becomes the new President of Vietnam. ](/news/2011/07/25/truong-tan-sang-becomes-the-new-president-of-vietnam.md) _2017-10-17 03:39:24 (First version)_
+1. [Truong Tan Sang becomes the new President of Vietnam. ](/news/2011/07/25/truong-tan-sang-becomes-the-new-president-of-vietnam.md) _2018-02-06 13:49:22 (First version)_
 1. [Truong TCNYn Sang becomes the new President of Vietnam. ](/news/2011/07/25/traedegae-ng-taocnyn-sang-becomes-the-new-president-of-vietnam.md) _(Current version)_
 
 ### Related:

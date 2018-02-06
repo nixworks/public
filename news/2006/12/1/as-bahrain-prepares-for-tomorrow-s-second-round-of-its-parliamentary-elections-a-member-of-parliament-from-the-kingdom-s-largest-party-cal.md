@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/1/as-bahrain-prepares-for-tomorrow-s-second-round-
 
 ### Changes:
 
-1. [ As Bahrain prepares for tomorrow's second round of its parliamentary elections, a Member of Parliament from the Kingdom's largest party calls for legislation to restrict women's employment. ](/news/2006/12/1/as-bahrain-prepares-for-tomorrow-s-second-round-of-its-parliamentary-elections-a-member-of-parliament-from-the-kingdom-s-largest-party-ca.md) _2017-08-25 03:18:52 (First version)_
+1. [ As Bahrain prepares for tomorrow's second round of its parliamentary elections, a Member of Parliament from the Kingdom's largest party calls for legislation to restrict women's employment. ](/news/2006/12/1/as-bahrain-prepares-for-tomorrow-s-second-round-of-its-parliamentary-elections-a-member-of-parliament-from-the-kingdom-s-largest-party-ca.md) _2018-02-06 13:49:17 (First version)_
 1. [ As Bahrain prepares for tomorrow's second round of its parliamentary elections, a Member of Parliament from the Kingdom's largest party calls for legislation to restrict women's employment. ](/news/2006/12/1/as-bahrain-prepares-for-tomorrow-s-second-round-of-its-parliamentary-elections-a-member-of-parliament-from-the-kingdom-s-largest-party-cal.md) _(Current version)_
 
 ### Related:

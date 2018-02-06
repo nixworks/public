@@ -16,7 +16,7 @@ Two people are dead and thousands evacuated as powerful typhoon Goni approaches 
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Goni kills two people in the Philippines with thousands of people evacuated in the Philippines and Taiwan. ](/news/2015/08/21/2015-pacific-typhoon-season-typhoon-goni-kills-two-people-in-the-philippines-with-thousands-of-people-evacuated-in-the-philippines-and-taiw.md) _2017-08-27 03:42:52 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Goni kills two people in the Philippines with thousands of people evacuated in the Philippines and Taiwan. ](/news/2015/08/21/2015-pacific-typhoon-season-typhoon-goni-kills-two-people-in-the-philippines-with-thousands-of-people-evacuated-in-the-philippines-and-taiw.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Goni kills two people in the Philippines with thousands of people evacuated in the Philippines and Taiwan. ](/news/2015/08/21/typhoon-goni-kills-two-people-in-the-philippines-with-thousands-of-people-evacuated-in-the-philippines-and-taiwan.md) _(Current version)_
 
 ### Related:

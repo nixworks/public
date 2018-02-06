@@ -18,8 +18,8 @@ Formats: [HTML](/news/2009/02/3/tom-daschle-withdraws-his-nomination-to-serve-as
 
 ### Changes:
 
-1. [ Presidency of Barack Obama: Tom Daschle withdraws his nomination to serve as United States Secretary of Health and Human Services and Nancy Killefer withdraws her nomination to serve as Chief Performance Officer. ](/news/2009/02/3/presidency-of-barack-obama-p-tom-daschle-withdraws-his-nomination-to-serve-as-united-states-secretary-of-health-and-human-services-and-nanc.md) _2017-08-25 03:23:39 (First version)_
-2. [ Presidency of Barack Obama:: Tom Daschle withdraws his nomination to serve as United States Secretary of Health and Human Services and Nancy Killefer withdraws her nomination to serve as Chief Performance Officer. ](/news/2009/02/3/presidency-of-barack-obama-tom-daschle-withdraws-his-nomination-to-serve-as-united-states-secretary-of-health-and-human-services-and-nanc.md) _2017-08-27 03:23:31 (Update)_
+1. [ Presidency of Barack Obama:: Tom Daschle withdraws his nomination to serve as United States Secretary of Health and Human Services and Nancy Killefer withdraws her nomination to serve as Chief Performance Officer. ](/news/2009/02/3/presidency-of-barack-obama-tom-daschle-withdraws-his-nomination-to-serve-as-united-states-secretary-of-health-and-human-services-and-nanc.md) _2018-02-06 13:49:18 (First version)_
+2. [ Presidency of Barack Obama: Tom Daschle withdraws his nomination to serve as United States Secretary of Health and Human Services and Nancy Killefer withdraws her nomination to serve as Chief Performance Officer. ](/news/2009/02/3/presidency-of-barack-obama-p-tom-daschle-withdraws-his-nomination-to-serve-as-united-states-secretary-of-health-and-human-services-and-nanc.md) _2018-02-06 13:49:18 (Update)_
 2. [ Tom Daschle withdraws his nomination to serve as United States Secretary of Health and Human Services and Nancy Killefer withdraws her nomination to serve as Chief Performance Officer. ](/news/2009/02/3/tom-daschle-withdraws-his-nomination-to-serve-as-united-states-secretary-of-health-and-human-services-and-nancy-killefer-withdraws-her-nomi.md) _(Current version)_
 
 ### Related:

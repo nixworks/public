@@ -20,7 +20,7 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 
 ### Changes:
 
-1. [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-driv.md) _2017-08-25 03:30:22 (First version)_
+1. [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-driv.md) _2018-02-06 13:49:20 (First version)_
 1. [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-drive.md) _(Current version)_
 
 ### Related:

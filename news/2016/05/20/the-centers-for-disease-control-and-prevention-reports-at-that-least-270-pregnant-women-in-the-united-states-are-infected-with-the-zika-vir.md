@@ -17,7 +17,7 @@ More than 270 pregnant women in the U.S. are also infected with the Zika virus, 
 
 ### Changes:
 
-1. [Zika virus outbreak (2015 - present): The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/zika-virus-outbreak-2015-present-the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united.md) _2017-08-27 03:46:04 (First version)_
+1. [Zika virus outbreak (2015 - present): The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/zika-virus-outbreak-2015-present-the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united.md) _2018-02-06 13:49:29 (First version)_
 1. [ The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united-states-are-infected-with-the-zika-vir.md) _(Current version)_
 
 ### Related:

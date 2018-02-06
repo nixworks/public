@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/3/barclays-posts-a-profit-of-gbp2-98bn-for-the-fir
 
 ### Changes:
 
-1. [ Barclays posts a profit of 2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-ps2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md) _2017-08-25 03:25:21 (First version)_
+1. [ Barclays posts a profit of 2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-ps2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md) _2018-02-06 13:49:19 (First version)_
 1. [ Barclays posts a profit of GBP2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-gbp2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md) _(Current version)_
 
 ### Related:

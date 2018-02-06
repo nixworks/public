@@ -16,8 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2014 Bulgarian floods:At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. ](/news/2014/06/20/2014-bulgarian-floods-pat-least-11-people-are-killed-and-an-unknown-number-missing-after-torrential-rains-cause-flash-flooding-in-northeaste.md) _2017-08-25 03:40:35 (First version)_
-2. [2014 Bulgarian floods:: At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. ](/news/2014/06/20/2014-bulgarian-floods-at-least-11-people-are-killed-and-an-unknown-number-missing-after-torrential-rains-cause-flash-flooding-in-northeast.md) _2017-08-27 03:40:52 (Update)_
+1. [2014 Bulgarian floods:At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. ](/news/2014/06/20/2014-bulgarian-floods-pat-least-11-people-are-killed-and-an-unknown-number-missing-after-torrential-rains-cause-flash-flooding-in-northeaste.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Bulgarian floods:: At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. ](/news/2014/06/20/2014-bulgarian-floods-at-least-11-people-are-killed-and-an-unknown-number-missing-after-torrential-rains-cause-flash-flooding-in-northeast.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. ](/news/2014/06/20/at-least-11-people-are-killed-and-an-unknown-number-missing-after-torrential-rains-cause-flash-flooding-in-northeastern-bulgaria.md) _(Current version)_
 
 ### Related:

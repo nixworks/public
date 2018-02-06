@@ -16,8 +16,8 @@ Two strong aftershocks have struck the Greek island of Kos within minutes of eac
 
 ### Changes:
 
-1. [Aftershocks cause panic in the Greek island of Kos after deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-deadly-earthquake-that-injured-hundreds.md) _2017-07-24 10:30:05 (First version)_
-2. [2017 Aegean Sea earthquake: Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/2017-aegean-sea-earthquake-aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _2017-08-27 03:48:42 (Update)_
+1. [Aftershocks cause panic in the Greek island of Kos after deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-deadly-earthquake-that-injured-hundreds.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Aegean Sea earthquake: Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/2017-aegean-sea-earthquake-aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _2018-02-06 13:49:30 (Update)_
 2. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _(Current version)_
 
 ### Related:

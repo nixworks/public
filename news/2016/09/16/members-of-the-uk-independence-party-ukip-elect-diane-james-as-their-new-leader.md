@@ -16,7 +16,7 @@ UKIP MEP Diane James wins party leadership contest to succeed Nigel Farage and t
 
 ### Changes:
 
-1. [UK Independence Party leadership election, 2016: Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/uk-independence-party-leadership-election-2016-members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md) _2017-08-27 03:46:52 (First version)_
+1. [UK Independence Party leadership election, 2016: Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/uk-independence-party-leadership-election-2016-members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md) _2018-02-06 13:49:29 (First version)_
 1. [Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Washington (AFP) - President Barack Obama on Friday named attorney Ron Klain to 
 
 ### Changes:
 
-1. [Ebola virus cases in the United States: The President of the United States Barack Obama names lawyer and former political operative Ron Klain as "ebola czar" to coordinate US response to the Ebola outbreak. ](/news/2014/10/17/ebola-virus-cases-in-the-united-states-the-president-of-the-united-states-barack-obama-names-lawyer-and-former-political-operative-ron-klai.md) _2017-08-27 03:41:24 (First version)_
+1. [Ebola virus cases in the United States: The President of the United States Barack Obama names lawyer and former political operative Ron Klain as "ebola czar" to coordinate US response to the Ebola outbreak. ](/news/2014/10/17/ebola-virus-cases-in-the-united-states-the-president-of-the-united-states-barack-obama-names-lawyer-and-former-political-operative-ron-klai.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of the United States Barack Obama names lawyer and former political operative Ron Klain as "ebola czar" to coordinate US response to the Ebola outbreak. ](/news/2014/10/17/the-president-of-the-united-states-barack-obama-names-lawyer-and-former-political-operative-ron-klain-as-ebola-czar-to-coordinate-us-respo.md) _(Current version)_
 
 ### Related:

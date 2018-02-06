@@ -17,8 +17,8 @@ An election official in New Jersey rules that Olympic gold medallist Carl Lewis 
 
 ### Changes:
 
-1. [American politics:Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/american-politics-prep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md) _2017-08-25 03:32:53 (First version)_
-2. [American politics:: Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/american-politics-rep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md) _2017-08-27 03:33:02 (Update)_
+1. [American politics:: Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/american-politics-rep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md) _2018-02-06 13:49:22 (First version)_
+2. [American politics:Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/american-politics-prep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md) _2018-02-06 13:49:22 (Update)_
 2. [Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/rep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md) _(Current version)_
 
 ### Related:

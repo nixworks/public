@@ -18,8 +18,8 @@ Formats: [HTML](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-at
 
 ### Changes:
 
-1. [A man, who was yelling, "this is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France, is shot and wounded by another officer. Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wou.md) _2017-06-07 03:52:35 (First version)_
-2. [2017 Notre Dame attack: A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer. Prosecutors open a terrorism probe. ](/news/2017/06/6/2017-notre-dame-attack-a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-f.md) _2017-08-27 03:48:26 (Update)_
+1. [A man, who was yelling, "this is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France, is shot and wounded by another officer. Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wou.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Notre Dame attack: A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer. Prosecutors open a terrorism probe. ](/news/2017/06/6/2017-notre-dame-attack-a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-f.md) _2018-02-06 13:49:30 (Update)_
 2. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer. Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _(Current version)_
 
 ### Related:

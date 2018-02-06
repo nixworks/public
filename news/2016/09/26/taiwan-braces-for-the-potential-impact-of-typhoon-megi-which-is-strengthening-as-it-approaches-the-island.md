@@ -16,7 +16,7 @@ Typhoon Megi will threaten lives and property across Taiwan and eastern China in
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/2016-pacific-typhoon-season-taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md) _2017-08-27 03:46:54 (First version)_
+1. [2016 Pacific typhoon season: Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/2016-pacific-typhoon-season-taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md) _2018-02-06 13:49:29 (First version)_
 1. [Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Black caucus wants Obama and top Dems to go after racial disparities in health-c
 
 ### Changes:
 
-1. [The Congressional Black Caucus appeals to American President Barack Obama and Democratic congressional leaders for tougher efforts to reduce racial disparities in the U.S. health system, saying there are four critical areas not addressed by Obama's plan. ](/news/2010/02/25/the-congressional-black-caucus-appeals-to-american-president-barack-obama-and-democratic-congressional-leaders-for-tougher-efforts-to-reduc.md) _2017-08-25 03:27:13 (First version)_
+1. [The Congressional Black Caucus appeals to American President Barack Obama and Democratic congressional leaders for tougher efforts to reduce racial disparities in the U.S. health system, saying there are four critical areas not addressed by Obama's plan. ](/news/2010/02/25/the-congressional-black-caucus-appeals-to-american-president-barack-obama-and-democratic-congressional-leaders-for-tougher-efforts-to-reduc.md) _2018-02-06 13:49:19 (First version)_
 1. [The Congressional Black Caucus appeals to American President Barack Obama and Democratic congressional leaders for tougher efforts to reduce racial disparities in the U.S. health system, saying there are four critical areas not addressed by Obama's plan. ](/news/2010/02/25/the-congressional-black-caucus-appeals-to-american-president-barack-obama-and-democratic-congressional-leaders-for-tougher-efforts-to-reduce.md) _(Current version)_
 
 ### Related:

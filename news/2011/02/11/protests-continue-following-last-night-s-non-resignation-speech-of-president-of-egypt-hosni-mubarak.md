@@ -28,8 +28,8 @@ Egyptian president stands down and hands over power to the Supreme Council for t
 
 ### Changes:
 
-1. [Egyptian Revolution of 2011 - Downfall of Hosni Mubarak:Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-pprotests-continue-following-last-night-s-non-resignation-speech-of-president-of-egy.md) _2017-08-25 03:32:08 (First version)_
-2. [Egyptian Revolution of 2011 - Downfall of Hosni Mubarak:: Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-protests-continue-following-last-night-s-non-resignation-speech-of-president-of-eg.md) _2017-08-27 03:32:17 (Update)_
+1. [Egyptian Revolution of 2011 - Downfall of Hosni Mubarak:: Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-protests-continue-following-last-night-s-non-resignation-speech-of-president-of-eg.md) _2018-02-06 13:49:21 (First version)_
+2. [Egyptian Revolution of 2011 - Downfall of Hosni Mubarak:Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-pprotests-continue-following-last-night-s-non-resignation-speech-of-president-of-egy.md) _2018-02-06 13:49:21 (Update)_
 2. [Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/protests-continue-following-last-night-s-non-resignation-speech-of-president-of-egypt-hosni-mubarak.md) _(Current version)_
 
 ### Related:

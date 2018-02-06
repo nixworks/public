@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/12/12/10-downing-street-denies-that-british-prime-min
 
 ### Changes:
 
-1. [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned ''The Daily Telegraph'' against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a.md) _2017-08-25 03:37:00 (First version)_
+1. [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned ''The Daily Telegraph'' against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a.md) _2018-02-06 13:49:24 (First version)_
 1. [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned "The Daily Telegraph" against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a-c.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Islamic State militants counter-attack in northern Iraq, killing at least 19 peo
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): ISIL militants launch attacks on government buildings, police stations, and a power station in the city of Kirkuk, Iraqi Kurdistan, killing dozens of people. ](/news/2016/10/21/iraqi-civil-war-2014-present-isil-militants-launch-attacks-on-government-buildings-police-stations-and-a-power-station-in-the-city-of.md) _2017-08-27 03:47:06 (First version)_
+1. [Iraqi Civil War (2014-present): ISIL militants launch attacks on government buildings, police stations, and a power station in the city of Kirkuk, Iraqi Kurdistan, killing dozens of people. ](/news/2016/10/21/iraqi-civil-war-2014-present-isil-militants-launch-attacks-on-government-buildings-police-stations-and-a-power-station-in-the-city-of.md) _2018-02-06 13:49:29 (First version)_
 1. [ISIL militants launch attacks on government buildings, police stations, and a power station in the city of Kirkuk, Iraqi Kurdistan, killing dozens of people. ](/news/2016/10/21/isil-militants-launch-attacks-on-government-buildings-police-stations-and-a-power-station-in-the-city-of-kirkuk-iraqi-kurdistan-killing.md) _(Current version)_
 
 ### Related:

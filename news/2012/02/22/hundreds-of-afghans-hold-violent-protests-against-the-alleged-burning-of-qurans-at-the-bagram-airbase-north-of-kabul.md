@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/02/22/hundreds-of-afghans-hold-violent-protests-again
 
 ### Changes:
 
-1. [Afghanistan Quran protests:Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/afghanistan-quran-protests-phundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of-k.md) _2017-08-25 03:35:07 (First version)_
-2. [Afghanistan Quran protests:: Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/afghanistan-quran-protests-hundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of.md) _2017-08-27 03:35:16 (Update)_
+1. [Afghanistan Quran protests:Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/afghanistan-quran-protests-phundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of-k.md) _2018-02-06 13:49:23 (First version)_
+2. [Afghanistan Quran protests:: Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/afghanistan-quran-protests-hundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of.md) _2018-02-06 13:49:23 (Update)_
 2. [Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/hundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of-kabul.md) _(Current version)_
 
 ### Related:

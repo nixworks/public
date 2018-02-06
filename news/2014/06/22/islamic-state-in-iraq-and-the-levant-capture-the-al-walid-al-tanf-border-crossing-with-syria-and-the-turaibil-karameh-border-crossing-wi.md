@@ -16,7 +16,7 @@ Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki co
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: Islamic State in Iraq and the Levant capture the al-Walid (al-Tanf) border crossing with Syria and the Turaibil (Karameh) border crossing with Jordan. ](/news/2014/06/22/2014-northern-iraq-offensive-islamic-state-in-iraq-and-the-levant-capture-the-al-walid-al-tanf-border-crossing-with-syria-and-the-turaibi.md) _2017-08-27 03:40:53 (First version)_
+1. [2014 Northern Iraq offensive: Islamic State in Iraq and the Levant capture the al-Walid (al-Tanf) border crossing with Syria and the Turaibil (Karameh) border crossing with Jordan. ](/news/2014/06/22/2014-northern-iraq-offensive-islamic-state-in-iraq-and-the-levant-capture-the-al-walid-al-tanf-border-crossing-with-syria-and-the-turaibi.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State in Iraq and the Levant capture the al-Walid (al-Tanf) border crossing with Syria and the Turaibil (Karameh) border crossing with Jordan. ](/news/2014/06/22/islamic-state-in-iraq-and-the-levant-capture-the-al-walid-al-tanf-border-crossing-with-syria-and-the-turaibil-karameh-border-crossing-wi.md) _(Current version)_
 
 ### Related:

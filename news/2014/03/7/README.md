@@ -9,7 +9,7 @@ _Context: Russia, Ukraine, Sevastopol_
 
 ##### Iset
 ### [A statue of Iset, daughter of King Amenhotep III who was the grandfather of Tutankhamun and ruler of Ancient Egypt around 3,350 years ago, has been unearthed by a team of Egyptian and European archaeologists. The statue, which depicts Iset alone without her father, is the first of its kind ever discovered. ](/news/2014/03/7/a-statue-of-iset-daughter-of-king-amenhotep-iii-who-was-the-grandfather-of-tutankhamun-and-ruler-of-ancient-egypt-around-3-350-years-ago-h.md)
-_Context: Tutankhamun, Ancient Egypt, Iset, Amenhotep III_
+_Context: Amenhotep III, Ancient Egypt, Tutankhamun, Iset_
 
 ##### Staples
 ### [Staples Inc. plans to close 225 store locations and cut $500 million from its budget, citing low sales and internet competition. ](/news/2014/03/7/staples-inc-plans-to-close-225-store-locations-and-cut-500-million-from-its-budget-citing-low-sales-and-internet-competition.md)
@@ -21,7 +21,7 @@ _Context: United States_
 
 ##### University of California, San Diego
 ### [A study released by the University of California, San Diego shows that vitamin D increases the chances of survival in patients suffering from breast cancer. ](/news/2014/03/7/a-study-released-by-the-university-of-california-san-diego-shows-that-vitamin-d-increases-the-chances-of-survival-in-patients-suffering-fro.md)
-_Context: breast cancer, vitamin D, University of California, San Diego_
+_Context: University of California, San Diego, vitamin D, breast cancer_
 
 ##### Rwanda
 ### [Rwanda and South Africa each expel the other's diplomats after armed men broke into an exiled Rwandan critic's home in Johannesburg. ](/news/2014/03/7/rwanda-and-south-africa-each-expel-the-other-s-diplomats-after-armed-men-broke-into-an-exiled-rwandan-critic-s-home-in-johannesburg.md)
@@ -37,7 +37,7 @@ _Context: Anwar Ibrahim, Malaysia_
 
 ##### Saudi Arabia
 ### [The Saudi Arabian government designates the Muslim Brotherhood and al-Qaeda among others as terrorist groups and warns that people joining them could face 30 years in prison. ](/news/2014/03/7/the-saudi-arabian-government-designates-the-muslim-brotherhood-and-al-qaeda-among-others-as-terrorist-groups-and-warns-that-people-joining-t.md)
-_Context: Saudi Arabia, al-Qaeda, Muslim Brotherhood_
+_Context: Muslim Brotherhood, al-Qaeda, Saudi Arabia_
 
 ## [Previous Day...](/news/2014/03/6/index.md)
 

@@ -17,8 +17,8 @@ At least 17 people are killed and dozens injured in a car bomb attack on a marke
 
 ### Changes:
 
-1. [War in North-West Pakistan:A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-pa-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _2017-08-25 03:37:03 (First version)_
-2. [War in North-West Pakistan:: A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _2017-08-27 03:37:14 (Update)_
+1. [War in North-West Pakistan:A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-pa-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _2018-02-06 13:49:24 (Update)_
 2. [A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md) _(Current version)_
 
 ### Related:

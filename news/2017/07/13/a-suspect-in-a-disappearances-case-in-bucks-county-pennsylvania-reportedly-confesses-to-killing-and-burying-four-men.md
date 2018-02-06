@@ -17,6 +17,6 @@ A 20-year-old man has confessed to killing four men who were missing for days an
 
 ### Changes:
 
-1. [A suspect in a disappearances case in Bucks County, Pennsylvania confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-confesses-to-killing-and-burying-four-men.md) _2017-07-14 07:30:06 (First version)_
-2. [July 2017 Pennsylvania murders: A suspect in a disappearances case in Bucks County, Pennsylvania, reportedly confesses to killing and burying four men. ](/news/2017/07/13/july-2017-pennsylvania-murders-a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-buryin.md) _2017-08-27 03:48:39 (Update)_
+1. [July 2017 Pennsylvania murders: A suspect in a disappearances case in Bucks County, Pennsylvania, reportedly confesses to killing and burying four men. ](/news/2017/07/13/july-2017-pennsylvania-murders-a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-buryin.md) _2018-02-06 13:49:30 (First version)_
+2. [A suspect in a disappearances case in Bucks County, Pennsylvania confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-confesses-to-killing-and-burying-four-men.md) _2018-02-06 13:49:30 (Update)_
 2. [A suspect in a disappearances case in Bucks County, Pennsylvania, reportedly confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-burying-four-men.md) _(Current version)_

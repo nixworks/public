@@ -16,7 +16,7 @@ Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel
 
 ### Changes:
 
-1. [In an interview with ''Al-Hayat'' later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-p.md) _2017-08-25 03:30:47 (First version)_
+1. [In an interview with ''Al-Hayat'' later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-p.md) _2018-02-06 13:49:20 (First version)_
 1. [In an interview with "Al-Hayat" later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-pol.md) _(Current version)_
 
 ### Related:

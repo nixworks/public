@@ -16,7 +16,7 @@ An attack by Nigeria&#039;s Boko Haram terrorists against a Lake Chad army base 
 
 ### Changes:
 
-1. [Boko Haram insurgency: A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/boko-haram-insurgency-a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md) _2017-08-27 03:47:16 (First version)_
+1. [Boko Haram insurgency: A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/boko-haram-insurgency-a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md) _2018-02-06 13:49:29 (First version)_
 1. [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md) _(Current version)_
 
 ### Related:

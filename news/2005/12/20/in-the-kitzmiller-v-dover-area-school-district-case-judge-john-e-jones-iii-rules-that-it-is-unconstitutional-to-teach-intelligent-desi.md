@@ -22,7 +22,7 @@ Teaching the theory in public schools violates Constitution, judge rules.
 
 ### Changes:
 
-1. [ In the ''Kitzmiller v. Dover Area School District'' case, Judge John E. Jones III rules that it is unconstitutional to teach intelligent design as an alternative to evolution in a public school science classroom in the United States. ](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-de.md) _2017-08-25 03:17:18 (First version)_
+1. [ In the ''Kitzmiller v. Dover Area School District'' case, Judge John E. Jones III rules that it is unconstitutional to teach intelligent design as an alternative to evolution in a public school science classroom in the United States. ](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-de.md) _2018-02-06 13:49:16 (First version)_
 1. [ In the "Kitzmiller v. Dover Area School District" case, Judge John E. Jones III rules that it is unconstitutional to teach intelligent design as an alternative to evolution in a public school science classroom in the United States. ](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-desi.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ Multiple explosions shake the suburbs of Damascus, with Syria accusing Israel of
 
 ### Changes:
 
-1. [Syrian civil war:Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-pisraeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-he.md) _2017-08-25 03:38:33 (First version)_
-2. [Syrian civil war:: Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-israeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-h.md) _2017-08-27 03:38:47 (Update)_
+1. [Syrian civil war:Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-pisraeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-he.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-israeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-h.md) _2018-02-06 13:49:25 (Update)_
 2. [Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/israeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-hezbollah.md) _(Current version)_
 
 ### Related:

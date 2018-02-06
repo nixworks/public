@@ -16,7 +16,7 @@ Ulf Ekman reportedly shocked and upset the megachurch he founded in Sweden when 
 
 ### Changes:
 
-1. [Swedish charismatic pastor Ulf Ekman, who established the ''Livets Ord'' ministry, breaks with his megachurch and converts to Roman Catholicism. ](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-established-the-livets-ord-ministry-breaks-with-his-megachurch-and-converts-to-roman-catholic.md) _2017-08-25 03:40:08 (First version)_
+1. [Swedish charismatic pastor Ulf Ekman, who established the ''Livets Ord'' ministry, breaks with his megachurch and converts to Roman Catholicism. ](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-established-the-livets-ord-ministry-breaks-with-his-megachurch-and-converts-to-roman-catholic.md) _2018-02-06 13:49:26 (First version)_
 1. [Swedish charismatic pastor Ulf Ekman, who established the "Livets Ord" ministry, breaks with his megachurch and converts to Roman Catholicism. ](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-established-the-livets-ord-ministry-breaks-with-his-megachurch-and-converts-to-roman-catholicis.md) _(Current version)_
 
 ### Related:

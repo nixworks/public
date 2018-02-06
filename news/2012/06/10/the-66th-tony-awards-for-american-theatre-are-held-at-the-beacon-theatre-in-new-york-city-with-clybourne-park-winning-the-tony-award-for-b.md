@@ -16,7 +16,7 @@ Charles Isherwood and Dave Itzkoff live blog the Tony Awards.
 
 ### Changes:
 
-1. [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with ''Clybourne Park'' winning the Tony Award for Best Play and ''Once'' winning the Tony Award for Best Musical''. ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for.md) _2017-08-25 03:35:51 (First version)_
+1. [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with ''Clybourne Park'' winning the Tony Award for Best Play and ''Once'' winning the Tony Award for Best Musical''. ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for.md) _2018-02-06 13:49:23 (First version)_
 1. [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with "Clybourne Park" winning the Tony Award for Best Play and "Once" winning the Tony Award for Best Musical". ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for-b.md) _(Current version)_
 
 ### Related:

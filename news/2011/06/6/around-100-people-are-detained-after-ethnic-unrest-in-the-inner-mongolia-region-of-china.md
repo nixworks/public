@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unre
 
 ### Changes:
 
-1. [2011 Xilinhot incident: Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/2011-xilinhot-incident-around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md) _2017-08-27 03:33:31 (First version)_
+1. [2011 Xilinhot incident: Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/2011-xilinhot-incident-around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md) _2018-02-06 13:49:22 (First version)_
 1. [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md) _(Current version)_
 
 ### Related:

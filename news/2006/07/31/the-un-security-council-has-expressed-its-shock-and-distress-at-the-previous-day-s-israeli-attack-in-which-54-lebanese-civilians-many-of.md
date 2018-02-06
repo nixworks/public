@@ -20,8 +20,8 @@ Formats: [HTML](/news/2006/07/31/the-un-security-council-has-expressed-its-shock
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon crisis: The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-p-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md) _2017-08-25 03:18:07 (First version)_
-2. [ 2006 Israel-Lebanon crisis:: The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md) _2017-08-27 03:18:05 (Update)_
+1. [ 2006 Israel-Lebanon crisis:: The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon crisis: The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-p-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md) _2018-02-06 13:49:17 (Update)_
 2. [ The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-54-lebanese-civilians-many-of.md) _(Current version)_
 
 ### Related:

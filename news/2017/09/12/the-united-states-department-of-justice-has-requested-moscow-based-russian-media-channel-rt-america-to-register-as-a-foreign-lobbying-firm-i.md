@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/09/12/the-united-states-department-of-justice-has-req
 
 ### Changes:
 
-1. [The United States Department of Justice has requested media organization Russia Today to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-media-organization-russia-today-to-register-as-a-foreign-lobbying-firm-in-the-united-s.md) _2017-09-13 03:48:36 (First version)_
-2. [The United States Department of Justice has requested media organization RT to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-media-organization-rt-to-register-as-a-foreign-lobbying-firm-in-the-united-states.md) _2017-09-13 07:30:05 (Update)_
+1. [The United States Department of Justice has requested media organization Russia Today to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-media-organization-russia-today-to-register-as-a-foreign-lobbying-firm-in-the-united-s.md) _2018-02-06 13:49:31 (First version)_
+2. [The United States Department of Justice has requested media organization RT to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-media-organization-rt-to-register-as-a-foreign-lobbying-firm-in-the-united-states.md) _2018-02-06 13:49:31 (Update)_
 2. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _(Current version)_
 
 ### Related:

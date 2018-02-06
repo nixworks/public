@@ -23,8 +23,8 @@ The move comes as the Spanish government is on the brink of imposing direct rule
 
 ### Changes:
 
-1. [Catalonia declares independence from Spain. ](/news/2017/10/27/catalonia-declares-independence-from-spain.md) _2017-10-27 21:30:05 (First version)_
-2. [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md) _2017-10-30 16:30:04 (Update)_
+1. [Catalonia declares independence from Spain. ](/news/2017/10/27/catalonia-declares-independence-from-spain.md) _2018-02-06 13:49:31 (First version)_
+2. [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md) _2018-02-06 13:49:31 (Update)_
 2. [Catalonia declares independence from Spain as the Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-the-catalan-republic.md) _(Current version)_
 
 ### Related:

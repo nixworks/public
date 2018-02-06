@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/21/xi-jinping-and-vladimir-putin-sign-a-massive-30
 
 ### Changes:
 
-1. [Sino-Russian relations:Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/sino-russian-relations-pxi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _2017-08-25 03:40:25 (First version)_
-2. [Sino-Russian relations:: Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/sino-russian-relations-xi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _2017-08-27 03:40:43 (Update)_
+1. [Sino-Russian relations:: Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/sino-russian-relations-xi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _2018-02-06 13:49:26 (First version)_
+2. [Sino-Russian relations:Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/sino-russian-relations-pxi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _2018-02-06 13:49:26 (Update)_
 2. [Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/xi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _(Current version)_
 
 ### Related:

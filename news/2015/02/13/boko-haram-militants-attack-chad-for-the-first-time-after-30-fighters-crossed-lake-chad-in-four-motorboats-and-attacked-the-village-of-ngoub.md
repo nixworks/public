@@ -16,7 +16,7 @@ Boko Haram militants from Nigeria attack a village on the shores of Lake Chad ov
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-insurgency-boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attack.md) _2017-08-27 03:41:56 (First version)_
+1. [Boko Haram insurgency: Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-insurgency-boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attack.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attacked-the-village-of-ngoub.md) _(Current version)_
 
 ### Related:

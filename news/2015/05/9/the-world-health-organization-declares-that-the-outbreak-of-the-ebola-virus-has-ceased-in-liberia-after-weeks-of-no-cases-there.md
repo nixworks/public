@@ -16,7 +16,7 @@ The World Health Organization (WHO) declares Liberia free of the Ebola virus, as
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/ebola-virus-epidemic-in-west-africa-the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after.md) _2017-08-27 03:42:17 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/ebola-virus-epidemic-in-west-africa-the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after.md) _2018-02-06 13:49:27 (First version)_
 1. [The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after-weeks-of-no-cases-there.md) _(Current version)_
 
 ### Related:

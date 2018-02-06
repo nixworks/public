@@ -19,7 +19,7 @@ The latest forecast from the center said Erika is expected to weaken and could e
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Five deaths occurred in Haiti as Tropical Storm Erika dumped heavy rains there, on the Dominican Republic, and on Puerto Rico. The storm weakened to a Tropical Depression before it hit Cuba (max winds 56 kph (35 mph), heading to the southeastern Gulf of Mexico. ](/news/2015/08/29/2015-atlantic-hurricane-season-five-deaths-occurred-in-haiti-as-tropical-storm-erika-dumped-heavy-rains-there-on-the-dominican-republic-a.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Atlantic hurricane season: Five deaths occurred in Haiti as Tropical Storm Erika dumped heavy rains there, on the Dominican Republic, and on Puerto Rico. The storm weakened to a Tropical Depression before it hit Cuba (max winds 56 kph (35 mph), heading to the southeastern Gulf of Mexico. ](/news/2015/08/29/2015-atlantic-hurricane-season-five-deaths-occurred-in-haiti-as-tropical-storm-erika-dumped-heavy-rains-there-on-the-dominican-republic-a.md) _2018-02-06 13:49:27 (First version)_
 1. [Five deaths occurred in Haiti as Tropical Storm Erika dumped heavy rains there, on the Dominican Republic, and on Puerto Rico. The storm weakened to a Tropical Depression before it hit Cuba (max winds 56 kph (35 mph), heading to the southeastern Gulf of Mexico. ](/news/2015/08/29/five-deaths-occurred-in-haiti-as-tropical-storm-erika-dumped-heavy-rains-there-on-the-dominican-republic-and-on-puerto-rico-the-storm-wea.md) _(Current version)_
 
 ### Related:

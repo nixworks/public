@@ -19,8 +19,8 @@ France answered an urgent plea from the government of its former colony to help 
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/northern-mali-conflict-2012apresent-pfrance-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md) _2017-08-25 03:37:14 (First version)_
-2. [Northern Mali conflict (2012-present):: France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/northern-mali-conflict-2012-present-france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md) _2017-08-27 03:37:25 (Update)_
+1. [Northern Mali conflict (2012-present):France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/northern-mali-conflict-2012apresent-pfrance-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/northern-mali-conflict-2012-present-france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md) _2018-02-06 13:49:24 (Update)_
 2. [France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md) _(Current version)_
 
 ### Related:

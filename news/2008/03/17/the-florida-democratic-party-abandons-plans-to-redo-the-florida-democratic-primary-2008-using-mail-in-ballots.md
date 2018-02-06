@@ -17,8 +17,8 @@ Barack Obama confronted the divisions between black and white as he sought to di
 
 ### Changes:
 
-1. [ United States presidential election, 2008: The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/united-states-presidential-election-2008-p-the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using.md) _2017-08-25 03:21:56 (First version)_
-2. [ United States presidential election, 2008:: The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/united-states-presidential-election-2008-the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using.md) _2017-08-27 03:21:50 (Update)_
+1. [ United States presidential election, 2008:: The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/united-states-presidential-election-2008-the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008: The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/united-states-presidential-election-2008-p-the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using-mail-in-ballots.md) _(Current version)_
 
 ### Related:

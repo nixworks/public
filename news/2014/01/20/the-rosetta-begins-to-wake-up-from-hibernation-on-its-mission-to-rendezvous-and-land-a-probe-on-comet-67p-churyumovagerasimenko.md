@@ -16,7 +16,7 @@ European Space Agency controllers wait for a signal from the Rosetta probe that 
 
 ### Changes:
 
-1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumov-gerasimenko.md) _2017-08-27 03:40:13 (First version)_
+1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumov-gerasimenko.md) _2018-02-06 13:49:25 (First version)_
 1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.md) _(Current version)_
 
 ### Related:

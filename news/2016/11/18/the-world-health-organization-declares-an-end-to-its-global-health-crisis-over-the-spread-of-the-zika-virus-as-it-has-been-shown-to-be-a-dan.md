@@ -16,7 +16,7 @@ The World Health Organization said it did not consider the crisis over for the m
 
 ### Changes:
 
-1. [Zika virus outbreak: The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/zika-virus-outbreak-the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-b.md) _2017-08-27 03:47:15 (First version)_
+1. [Zika virus outbreak: The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/zika-virus-outbreak-the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-b.md) _2018-02-06 13:49:29 (First version)_
 1. [The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-been-shown-to-be-a-dan.md) _(Current version)_
 
 ### Related:

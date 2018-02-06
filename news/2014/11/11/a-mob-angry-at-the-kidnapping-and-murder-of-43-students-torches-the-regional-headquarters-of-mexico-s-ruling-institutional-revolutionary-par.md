@@ -16,7 +16,7 @@ Riot police clash with protesters, angry at the government and police handling o
 
 ### Changes:
 
-1. [2014 Iguala mass kidnapping: A mob angry at the kidnapping and murder of 43 students torches the regional headquarters of Mexico's ruling Institutional Revolutionary Party (PRI) in Chilpancingo, Guerrero, and briefly holds a police commander hostage. ](/news/2014/11/11/2014-iguala-mass-kidnapping-a-mob-angry-at-the-kidnapping-and-murder-of-43-students-torches-the-regional-headquarters-of-mexico-s-ruling-in.md) _2017-08-27 03:41:30 (First version)_
+1. [2014 Iguala mass kidnapping: A mob angry at the kidnapping and murder of 43 students torches the regional headquarters of Mexico's ruling Institutional Revolutionary Party (PRI) in Chilpancingo, Guerrero, and briefly holds a police commander hostage. ](/news/2014/11/11/2014-iguala-mass-kidnapping-a-mob-angry-at-the-kidnapping-and-murder-of-43-students-torches-the-regional-headquarters-of-mexico-s-ruling-in.md) _2018-02-06 13:49:26 (First version)_
 1. [A mob angry at the kidnapping and murder of 43 students torches the regional headquarters of Mexico's ruling Institutional Revolutionary Party (PRI) in Chilpancingo, Guerrero, and briefly holds a police commander hostage. ](/news/2014/11/11/a-mob-angry-at-the-kidnapping-and-murder-of-43-students-torches-the-regional-headquarters-of-mexico-s-ruling-institutional-revolutionary-par.md) _(Current version)_
 
 ### Related:

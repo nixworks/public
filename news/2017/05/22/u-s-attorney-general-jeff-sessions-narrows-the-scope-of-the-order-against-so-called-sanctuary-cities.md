@@ -16,7 +16,7 @@ The move by Attorney General Jeff Sessions comes after a federal judge blocked a
 
 ### Changes:
 
-1. [U.S. Attorney General Jeff Sessions reneges on his threats against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-reneges-on-his-threats-against-so-called-sanctuary-cities.md) _2017-05-23 00:30:06 (First version)_
+1. [U.S. Attorney General Jeff Sessions reneges on his threats against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-reneges-on-his-threats-against-so-called-sanctuary-cities.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. Attorney General Jeff Sessions narrows the scope of the order against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-narrows-the-scope-of-the-order-against-so-called-sanctuary-cities.md) _(Current version)_
 
 ### Related:

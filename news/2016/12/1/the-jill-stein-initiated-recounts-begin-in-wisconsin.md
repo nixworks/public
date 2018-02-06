@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/1/the-jill-stein-initiated-recounts-begin-in-wisco
 
 ### Changes:
 
-1. [2016 United States presidential election recounts: The Jill Stein-initiated recounts begin in Wisconsin. ](/news/2016/12/1/2016-united-states-presidential-election-recounts-the-jill-stein-initiated-recounts-begin-in-wisconsin.md) _2017-08-27 03:47:21 (First version)_
+1. [2016 United States presidential election recounts: The Jill Stein-initiated recounts begin in Wisconsin. ](/news/2016/12/1/2016-united-states-presidential-election-recounts-the-jill-stein-initiated-recounts-begin-in-wisconsin.md) _2018-02-06 13:49:29 (First version)_
 1. [The Jill Stein-initiated recounts begin in Wisconsin. ](/news/2016/12/1/the-jill-stein-initiated-recounts-begin-in-wisconsin.md) _(Current version)_
 
 ### Related:

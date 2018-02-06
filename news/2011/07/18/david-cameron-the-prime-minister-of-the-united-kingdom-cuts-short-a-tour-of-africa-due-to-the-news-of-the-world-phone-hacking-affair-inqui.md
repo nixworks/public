@@ -22,8 +22,8 @@ One of Scotland Yard&rsquo;s most senior detectives, John Yates, is set to be in
 
 ### Changes:
 
-1. [News International scandal:David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/news-international-scandal-pdavid-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-worl.md) _2017-08-25 03:33:48 (First version)_
-2. [News International scandal:: David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/news-international-scandal-david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-wor.md) _2017-08-27 03:33:56 (Update)_
+1. [News International scandal:David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/news-international-scandal-pdavid-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-worl.md) _2018-02-06 13:49:22 (First version)_
+2. [News International scandal:: David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/news-international-scandal-david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-wor.md) _2018-02-06 13:49:22 (Update)_
 2. [David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-world-phone-hacking-affair-inqui.md) _(Current version)_
 
 ### Related:

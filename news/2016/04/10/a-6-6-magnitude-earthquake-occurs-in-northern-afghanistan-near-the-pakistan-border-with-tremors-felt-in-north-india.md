@@ -17,7 +17,7 @@ A magnitude 6.6 earthquake centred in Afghanistan shakes major cities across sou
 
 ### Changes:
 
-1. [2016 Afghanistan earthquake: A 6.6 magnitude earthquake occurs in northern Afghanistan near the Pakistan border with tremors felt in north India. ](/news/2016/04/10/2016-afghanistan-earthquake-a-6-6-magnitude-earthquake-occurs-in-northern-afghanistan-near-the-pakistan-border-with-tremors-felt-in-north-i.md) _2017-08-27 03:45:33 (First version)_
+1. [2016 Afghanistan earthquake: A 6.6 magnitude earthquake occurs in northern Afghanistan near the Pakistan border with tremors felt in north India. ](/news/2016/04/10/2016-afghanistan-earthquake-a-6-6-magnitude-earthquake-occurs-in-northern-afghanistan-near-the-pakistan-border-with-tremors-felt-in-north-i.md) _2018-02-06 13:49:28 (First version)_
 1. [A 6.6 magnitude earthquake occurs in northern Afghanistan near the Pakistan border with tremors felt in north India. ](/news/2016/04/10/a-6-6-magnitude-earthquake-occurs-in-northern-afghanistan-near-the-pakistan-border-with-tremors-felt-in-north-india.md) _(Current version)_
 
 ### Related:

@@ -22,7 +22,7 @@ A gunman kills 20 children and six adults at a primary school in Connecticut - i
 
 ### Changes:
 
-1. [A shooting at Sandy Hook Elementary School in Newtown, Connecticut, United States, leaves 28 people dead, including 20 children, the shooter, and his mother. ](/news/2012/12/14/a-shooting-at-sandy-hook-elementary-school-in-newtown-connecticut-united-states-leaves-28-people-dead-including-20-children-the-shooter.md) _2017-10-17 03:43:05 (First version)_
+1. [A shooting at Sandy Hook Elementary School in Newtown, Connecticut, United States, leaves 28 people dead, including 20 children, the shooter, and his mother. ](/news/2012/12/14/a-shooting-at-sandy-hook-elementary-school-in-newtown-connecticut-united-states-leaves-28-people-dead-including-20-children-the-shooter.md) _2018-02-06 13:49:24 (First version)_
 1. [A shooting at Sandy Hook Elementary School in Newtown, Connecticut, United States, leaves 28 people dead, including 20 children, 6 teachers, the shooter, and his mother. ](/news/2012/12/14/a-shooting-at-sandy-hook-elementary-school-in-newtown-connecticut-united-states-leaves-28-people-dead-including-20-children-6-teachers.md) _(Current version)_
 
 ### Related:

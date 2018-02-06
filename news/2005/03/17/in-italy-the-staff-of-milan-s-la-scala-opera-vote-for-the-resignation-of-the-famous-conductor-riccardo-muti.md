@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ In Italy, the staff of Milan's La Scala opera vote for the resignation of the famous conductor Riccardo Muti. [http:--today.reuters.com-news-newsArticle.aspx?type=stageNews&storyID=2005-03-16T200736Z_01_L16669211_RTRIDST_0_STAGE-ARTS-SCALA-DC.XML (Reuters)] [http:--news.bbc.co.uk-2-hi-entertainment-4356545.stm (BBC)].](/news/2005/03/17/in-italy-the-staff-of-milan-s-la-scala-opera-vote-for-the-resignation-of-the-famous-conductor-riccardo-muti-http-today-reuters-com-ne.md) _2017-06-18 03:15:53 (First version)_
+1. [ In Italy, the staff of Milan's La Scala opera vote for the resignation of the famous conductor Riccardo Muti. [http:--today.reuters.com-news-newsArticle.aspx?type=stageNews&storyID=2005-03-16T200736Z_01_L16669211_RTRIDST_0_STAGE-ARTS-SCALA-DC.XML (Reuters)] [http:--news.bbc.co.uk-2-hi-entertainment-4356545.stm (BBC)].](/news/2005/03/17/in-italy-the-staff-of-milan-s-la-scala-opera-vote-for-the-resignation-of-the-famous-conductor-riccardo-muti-http-today-reuters-com-ne.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Italy, the staff of Milan's La Scala opera vote for the resignation of the famous conductor Riccardo Muti. ](/news/2005/03/17/in-italy-the-staff-of-milan-s-la-scala-opera-vote-for-the-resignation-of-the-famous-conductor-riccardo-muti.md) _(Current version)_
 
 ### Related:

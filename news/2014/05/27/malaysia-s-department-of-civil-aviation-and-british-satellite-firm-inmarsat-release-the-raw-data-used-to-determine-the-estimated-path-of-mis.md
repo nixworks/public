@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/27/malaysia-s-department-of-civil-aviation-and-bri
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370:Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-airlines-flight-370-pmalaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-deter.md) _2017-08-25 03:40:28 (First version)_
-2. [Malaysia Airlines Flight 370:: Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-airlines-flight-370-malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-dete.md) _2017-08-27 03:40:45 (Update)_
+1. [Malaysia Airlines Flight 370:Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-airlines-flight-370-pmalaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-deter.md) _2018-02-06 13:49:26 (First version)_
+2. [Malaysia Airlines Flight 370:: Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-airlines-flight-370-malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-dete.md) _2018-02-06 13:49:26 (Update)_
 2. [Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-determine-the-estimated-path-of-mis.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A second round of voting in Thailand has gone ahead without incident.
 
 ### Changes:
 
-1. [Thai general election, 2014: Voters in Thailand go to the polls for a rerun of a general election hoped to end the current political crisis. ](/news/2014/03/2/thai-general-election-2014-voters-in-thailand-go-to-the-polls-for-a-rerun-of-a-general-election-hoped-to-end-the-current-political-crisis.md) _2017-08-27 03:40:24 (First version)_
+1. [Thai general election, 2014: Voters in Thailand go to the polls for a rerun of a general election hoped to end the current political crisis. ](/news/2014/03/2/thai-general-election-2014-voters-in-thailand-go-to-the-polls-for-a-rerun-of-a-general-election-hoped-to-end-the-current-political-crisis.md) _2018-02-06 13:49:25 (First version)_
 1. [Voters in Thailand go to the polls for a rerun of a general election hoped to end the current political crisis. ](/news/2014/03/2/voters-in-thailand-go-to-the-polls-for-a-rerun-of-a-general-election-hoped-to-end-the-current-political-crisis.md) _(Current version)_
 
 ### Related:

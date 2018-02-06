@@ -20,8 +20,8 @@ North Korea says it has thousands of centrifuges operating at a previously undet
 
 ### Changes:
 
-1. [Korean peninsula:Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-pofficials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md) _2017-08-25 03:31:13 (First version)_
-2. [Korean peninsula:: Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md) _2017-08-27 03:31:21 (Update)_
+1. [Korean peninsula:Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-pofficials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md) _2018-02-06 13:49:21 (First version)_
+2. [Korean peninsula:: Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md) _2018-02-06 13:49:21 (Update)_
 2. [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The Poinsettia Fire has burned approximately 400 acres and several homes in Carl
 
 ### Changes:
 
-1. [2014 California wildfires:A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/2014-california-wildfires-pa-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md) _2017-08-25 03:40:24 (First version)_
-2. [2014 California wildfires:: A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/2014-california-wildfires-a-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md) _2017-08-27 03:40:42 (Update)_
+1. [2014 California wildfires:A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/2014-california-wildfires-pa-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 California wildfires:: A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/2014-california-wildfires-a-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md) _2018-02-06 13:49:26 (Update)_
 2. [A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/a-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ QC for one plaintiff says ‘putting to the public a vote on her family unit’ 
 
 ### Changes:
 
-1. [The High Court receives a complaint against gay marriage citing the postal vote as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-vote-as-unique-and-offensive.md) _2017-09-05 08:30:05 (First version)_
-2. [The High Court receives a complaint against gay marriage citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-survey-as-unique-and-offensive.md) _2017-09-06 00:30:05 (Update)_
+1. [The High Court receives a complaint against gay marriage citing the postal vote as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-vote-as-unique-and-offensive.md) _2018-02-06 13:49:31 (First version)_
+2. [The High Court receives a complaint against gay marriage citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-survey-as-unique-and-offensive.md) _2018-02-06 13:49:31 (Update)_
 2. [The High Court of Australia receives a complaint against the Australian Marriage Law Postal Survey citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-of-australia-receives-a-complaint-against-the-australian-marriage-law-postal-survey-citing-the-postal-survey-as-unique-and-o.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/7/a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-ka
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/war-in-afghanistan-2015-present-a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities.md) _2017-08-27 03:42:40 (First version)_
+1. [War in Afghanistan (2015-present): A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/war-in-afghanistan-2015-present-a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities.md) _2018-02-06 13:49:27 (First version)_
 1. [ A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities-have-been-reported.md) _(Current version)_
 
 ### Related:

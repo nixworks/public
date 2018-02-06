@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-out
 
 ### Changes:
 
-1. [Somalia's al Shabaab militants attack military base outside Mogadishu with 17 soldiers reported dead. ](/news/2017/09/29/somalia-s-al-shabaab-militants-attack-military-base-outside-mogadishu-with-17-soldiers-reported-dead.md) _2017-09-29 11:30:06 (First version)_
-2. [Somalia's Al-Shabaab militants attack a military base outside Mogadishu, with 17 soldiers reported dead. ](/news/2017/09/29/somalia-s-al-shabaab-militants-attack-a-military-base-outside-mogadishu-with-17-soldiers-reported-dead.md) _2017-09-29 12:30:05 (Update)_
-3. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 17 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-17-soldiers-reported-dead.md) _2017-09-29 14:30:05 (Update)_
+1. [Somalia's al Shabaab militants attack military base outside Mogadishu with 17 soldiers reported dead. ](/news/2017/09/29/somalia-s-al-shabaab-militants-attack-military-base-outside-mogadishu-with-17-soldiers-reported-dead.md) _2018-02-06 13:49:31 (First version)_
+2. [Somalia's Al-Shabaab militants attack a military base outside Mogadishu, with 17 soldiers reported dead. ](/news/2017/09/29/somalia-s-al-shabaab-militants-attack-a-military-base-outside-mogadishu-with-17-soldiers-reported-dead.md) _2018-02-06 13:49:31 (Update)_
+3. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 17 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-17-soldiers-reported-dead.md) _2018-02-06 13:49:31 (Update)_
 3. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-b
 
 ### Changes:
 
-1. [ Barclays plc agrees to buy ABN Amro in a -67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-67-billion-deal.md) _2017-08-27 03:19:36 (First version)_
+1. [ Barclays plc agrees to buy ABN Amro in a -67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-67-billion-deal.md) _2018-02-06 13:49:17 (First version)_
 1. [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md) _(Current version)_
 
 ### Related:

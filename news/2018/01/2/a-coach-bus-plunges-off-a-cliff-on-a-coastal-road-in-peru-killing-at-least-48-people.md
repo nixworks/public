@@ -17,8 +17,8 @@ Formats: [HTML](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-roa
 
 ### Changes:
 
-1. [A coach plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according-to.md) _2018-01-02 22:30:06 (First version)_
-2. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according.md) _2018-01-03 00:30:05 (Update)_
+1. [A coach plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according-to.md) _2018-02-06 13:49:31 (First version)_
+2. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according.md) _2018-02-06 13:49:31 (Update)_
 2. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _(Current version)_
 
 ### Related:

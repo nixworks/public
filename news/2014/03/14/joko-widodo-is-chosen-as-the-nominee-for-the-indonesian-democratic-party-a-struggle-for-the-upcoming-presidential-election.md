@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-in
 
 ### Changes:
 
-1. [Joko Widodo is chosen as the nominee for the Indonesian Democratic Party - Struggle for the upcoming presidential election. ](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-indonesian-democratic-party-struggle-for-the-upcoming-presidential-election.md) _2017-08-27 03:40:27 (First version)_
+1. [Joko Widodo is chosen as the nominee for the Indonesian Democratic Party - Struggle for the upcoming presidential election. ](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-indonesian-democratic-party-struggle-for-the-upcoming-presidential-election.md) _2018-02-06 13:49:25 (First version)_
 1. [Joko Widodo is chosen as the nominee for the Indonesian Democratic Party - Struggle for the upcoming presidential election. ](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-indonesian-democratic-party-a-struggle-for-the-upcoming-presidential-election.md) _(Current version)_
 
 ### Related:

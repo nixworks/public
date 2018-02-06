@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/06/3/ireland-s-state-examinations-commission-postpone
 
 ### Changes:
 
-1. [ Ireland's State Examinations Commission postpones a Leaving Certificate Exam because of an accidental content leak. ](/news/2009/06/3/ireland-s-state-examinations-commission-postpones-a-leaving-certificate-exam-because-of-an-accidental-content-leak.md) _2017-08-25 03:24:45 (First version)_
+1. [ Ireland's State Examinations Commission postpones a Leaving Certificate Exam because of an accidental content leak. ](/news/2009/06/3/ireland-s-state-examinations-commission-postpones-a-leaving-certificate-exam-because-of-an-accidental-content-leak.md) _2018-02-06 13:49:19 (First version)_
 1. [ Ireland's State Examinations Commission postpones a Leaving Certificate Exam because of an accidental content leak. [http:--www.rte.ie-news-2009-0603-exams.html (RTE)] [http:--www.irishtimes.com-newspaper-breaking-2009-0603-breaking71.htm "(The Irish Times)"]](/news/2009/06/3/ireland-s-state-examinations-commission-postpones-a-leaving-certificate-exam-because-of-an-accidental-content-leak-http-www-rte-ie-news.md) _(Current version)_
 
 ### Related:

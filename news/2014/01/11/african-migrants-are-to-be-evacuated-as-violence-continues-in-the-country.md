@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/01/11/african-migrants-are-to-be-evacuated-as-violenc
 
 ### Changes:
 
-1. [Central African Republic crisis: African migrants are to be evacuated as violence continues in the country. ](/news/2014/01/11/central-african-republic-crisis-african-migrants-are-to-be-evacuated-as-violence-continues-in-the-country.md) _2017-08-27 03:40:09 (First version)_
+1. [Central African Republic crisis: African migrants are to be evacuated as violence continues in the country. ](/news/2014/01/11/central-african-republic-crisis-african-migrants-are-to-be-evacuated-as-violence-continues-in-the-country.md) _2018-02-06 13:49:25 (First version)_
 1. [African migrants are to be evacuated as violence continues in the country. ](/news/2014/01/11/african-migrants-are-to-be-evacuated-as-violence-continues-in-the-country.md) _(Current version)_
 
 ### Related:

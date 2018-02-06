@@ -15,7 +15,7 @@ By Ahmed Aboulenein CAIRO (Reuters) - Egypt will hold a long-awaited parliamenta
 
 ### Changes:
 
-1. [Egyptian parliamentary election, 2015: Voters in Egypt will go to the polls for parliamentary elections starting in October 2015. ](/news/2015/08/30/egyptian-parliamentary-election-2015-voters-in-egypt-will-go-to-the-polls-for-parliamentary-elections-starting-in-october-2015.md) _2017-08-27 03:42:56 (First version)_
+1. [Egyptian parliamentary election, 2015: Voters in Egypt will go to the polls for parliamentary elections starting in October 2015. ](/news/2015/08/30/egyptian-parliamentary-election-2015-voters-in-egypt-will-go-to-the-polls-for-parliamentary-elections-starting-in-october-2015.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Egypt will go to the polls for parliamentary elections starting in October 2015. ](/news/2015/08/30/voters-in-egypt-will-go-to-the-polls-for-parliamentary-elections-starting-in-october-2015.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/21/torrential-precipitation-and-widespread-flash-f
 
 ### Changes:
 
-1. [July 2016 North China cyclone: Torrential precipitation and widespread flash floods from an extratropical cyclone resulted in at least 78 deaths over North China and nearby regions. ](/news/2016/07/21/july-2016-north-china-cyclone-torrential-precipitation-and-widespread-flash-floods-from-an-extratropical-cyclone-resulted-in-at-least-78-de.md) _2017-08-27 03:46:31 (First version)_
+1. [July 2016 North China cyclone: Torrential precipitation and widespread flash floods from an extratropical cyclone resulted in at least 78 deaths over North China and nearby regions. ](/news/2016/07/21/july-2016-north-china-cyclone-torrential-precipitation-and-widespread-flash-floods-from-an-extratropical-cyclone-resulted-in-at-least-78-de.md) _2018-02-06 13:49:29 (First version)_
 1. [Torrential precipitation and widespread flash floods from an extratropical cyclone resulted in at least 78 deaths over North China and nearby regions. ](/news/2016/07/21/torrential-precipitation-and-widespread-flash-floods-from-an-extratropical-cyclone-resulted-in-at-least-78-deaths-over-north-china-and-nearb.md) _(Current version)_
 
 ### Related:

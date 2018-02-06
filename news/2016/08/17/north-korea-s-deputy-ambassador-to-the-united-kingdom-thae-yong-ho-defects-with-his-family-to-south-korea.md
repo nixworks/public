@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-k
 
 ### Changes:
 
-1. [North Korean defectors: North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korean-defectors-north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md) _2017-08-27 03:46:40 (First version)_
+1. [North Korean defectors: North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korean-defectors-north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md) _2018-02-06 13:49:29 (First version)_
 1. [North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md) _(Current version)_
 
 ### Related:

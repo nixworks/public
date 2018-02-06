@@ -16,7 +16,7 @@ In a setback for journalistic freedom in Mexico, the judges ruled 6 to 4 against
 
 ### Changes:
 
-1. [ The Supreme Court of Mexico rules 6-4 that Governor of Puebla Mario Marin has no case to answer in the inter-state abduction, jailing, and harassment of journalist Lydia Cacho. ](/news/2007/11/29/the-supreme-court-of-mexico-rules-6-4-that-governor-of-puebla-mario-maran-has-no-case-to-answer-in-the-inter-state-abduction-jailing-a.md) _2017-08-27 03:21:26 (First version)_
+1. [ The Supreme Court of Mexico rules 6-4 that Governor of Puebla Mario Marin has no case to answer in the inter-state abduction, jailing, and harassment of journalist Lydia Cacho. ](/news/2007/11/29/the-supreme-court-of-mexico-rules-6-4-that-governor-of-puebla-mario-maran-has-no-case-to-answer-in-the-inter-state-abduction-jailing-a.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Supreme Court of Mexico rules 6-4 that Governor of Puebla Mario Marin has no case to answer in the inter-state abduction, jailing, and harassment of journalist Lydia Cacho. ](/news/2007/11/29/the-supreme-court-of-mexico-rules-6a4-that-governor-of-puebla-mario-maran-has-no-case-to-answer-in-the-inter-state-abduction-jailing-a.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/04/18/at-least-198-people-are-confirmed-dead-after-a-
 
 ### Changes:
 
-1. [ Iraqi insurgency: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-p-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md) _2017-08-25 03:19:38 (First version)_
-2. [ Iraqi insurgency:: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md) _2017-08-27 03:19:34 (Update)_
+1. [ Iraqi insurgency: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-p-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraqi insurgency:: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md) _2018-02-06 13:49:17 (Update)_
 2. [ At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md) _(Current version)_
 
 ### Related:

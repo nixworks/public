@@ -16,7 +16,7 @@ Russia has said it will conduct regular air patrols to the Caribbean and the Gul
 
 ### Changes:
 
-1. [War in Donbass: Russian Defence Minister Sergey Shoigu says that the country will resume long-distance military flights for the first time since the Cold War to the western Atlantic Ocean and Caribbean Sea. ](/news/2014/11/12/war-in-donbass-russian-defence-minister-sergey-shoigu-says-that-the-country-will-resume-long-distance-military-flights-for-the-first-time-s.md) _2017-08-27 03:41:30 (First version)_
+1. [War in Donbass: Russian Defence Minister Sergey Shoigu says that the country will resume long-distance military flights for the first time since the Cold War to the western Atlantic Ocean and Caribbean Sea. ](/news/2014/11/12/war-in-donbass-russian-defence-minister-sergey-shoigu-says-that-the-country-will-resume-long-distance-military-flights-for-the-first-time-s.md) _2018-02-06 13:49:26 (First version)_
 1. [Russian Defence Minister Sergey Shoigu says that the country will resume long-distance military flights for the first time since the Cold War to the western Atlantic Ocean and Caribbean Sea. ](/news/2014/11/12/russian-defence-minister-sergey-shoigu-says-that-the-country-will-resume-long-distance-military-flights-for-the-first-time-since-the-cold-wa.md) _(Current version)_
 
 ### Related:

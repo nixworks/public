@@ -16,7 +16,7 @@ Nearly 700 people have died in a severe three-day heatwave in Pakistan, official
 
 ### Changes:
 
-1. [2015 Pakistani heat wave: The death toll from the 2015 Pakistan heatwave rises to 450. ](/news/2015/06/23/2015-pakistani-heat-wave-the-death-toll-from-the-2015-pakistan-heatwave-rises-to-450.md) _2017-08-27 03:42:35 (First version)_
+1. [2015 Pakistani heat wave: The death toll from the 2015 Pakistan heatwave rises to 450. ](/news/2015/06/23/2015-pakistani-heat-wave-the-death-toll-from-the-2015-pakistan-heatwave-rises-to-450.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the 2015 Pakistan heatwave rises to 450. ](/news/2015/06/23/the-death-toll-from-the-2015-pakistan-heatwave-rises-to-450.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Mayor C. Ray Nagin issued the city’s first mandatory evacuation order since Hu
 
 ### Changes:
 
-1. [ Hurricane Gustav: New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. ](/news/2008/08/31/hurricane-gustav-p-new-orleans-mayor-ray-nagin-orders-the-mandatory-evacuation-of-the-city-ahead-of-gustav.md) _2017-08-25 03:22:47 (First version)_
-2. [ Hurricane Gustav:: New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. ](/news/2008/08/31/hurricane-gustav-new-orleans-mayor-ray-nagin-orders-the-mandatory-evacuation-of-the-city-ahead-of-gustav.md) _2017-08-27 03:22:41 (Update)_
+1. [ Hurricane Gustav: New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. ](/news/2008/08/31/hurricane-gustav-p-new-orleans-mayor-ray-nagin-orders-the-mandatory-evacuation-of-the-city-ahead-of-gustav.md) _2018-02-06 13:49:18 (First version)_
+2. [ Hurricane Gustav:: New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. ](/news/2008/08/31/hurricane-gustav-new-orleans-mayor-ray-nagin-orders-the-mandatory-evacuation-of-the-city-ahead-of-gustav.md) _2018-02-06 13:49:18 (Update)_
 2. [ New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. ](/news/2008/08/31/new-orleans-mayor-ray-nagin-orders-the-mandatory-evacuation-of-the-city-ahead-of-gustav.md) _(Current version)_
 
 ### Related:

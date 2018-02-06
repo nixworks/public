@@ -17,7 +17,7 @@ President Michael D Higgins has arrived in London ahead of his State visit to th
 
 ### Changes:
 
-1. [President of Ireland, Michael D. Higgins arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md) _2017-10-17 03:46:47 (First version)_
+1. [President of Ireland, Michael D. Higgins arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of Ireland, Michael D. Higgins, arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/the-president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md) _(Current version)_
 
 ### Related:

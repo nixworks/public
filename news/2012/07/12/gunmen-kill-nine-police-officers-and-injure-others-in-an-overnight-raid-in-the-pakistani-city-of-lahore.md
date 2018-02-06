@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/07/12/gunmen-kill-nine-police-officers-and-injure-oth
 
 ### Changes:
 
-1. [War in North-West Pakistan:Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/war-in-north-west-pakistan-pgunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md) _2017-08-25 03:36:05 (First version)_
-2. [War in North-West Pakistan:: Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/war-in-north-west-pakistan-gunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md) _2017-08-27 03:36:16 (Update)_
+1. [War in North-West Pakistan:Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/war-in-north-west-pakistan-pgunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md) _2018-02-06 13:49:23 (First version)_
+2. [War in North-West Pakistan:: Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/war-in-north-west-pakistan-gunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md) _2018-02-06 13:49:23 (Update)_
 2. [Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/gunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md) _(Current version)_
 
 ### Related:

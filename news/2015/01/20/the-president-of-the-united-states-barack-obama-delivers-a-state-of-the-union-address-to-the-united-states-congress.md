@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/01/20/the-president-of-the-united-states-barack-obama
 
 ### Changes:
 
-1. [2015 State of the Union Address: The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/2015-state-of-the-union-address-the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states.md) _2017-08-27 03:41:49 (First version)_
+1. [2015 State of the Union Address: The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/2015-state-of-the-union-address-the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md) _(Current version)_
 
 ### Related:

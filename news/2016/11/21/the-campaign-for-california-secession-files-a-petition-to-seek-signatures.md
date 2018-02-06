@@ -16,7 +16,7 @@ Update on &apos;Essential Politics November archives&apos;
 
 ### Changes:
 
-1. [Yes California: The campaign for California secession files a petition to seek signatures. ](/news/2016/11/21/yes-california-the-campaign-for-california-secession-files-a-petition-to-seek-signatures.md) _2017-08-27 03:47:16 (First version)_
+1. [Yes California: The campaign for California secession files a petition to seek signatures. ](/news/2016/11/21/yes-california-the-campaign-for-california-secession-files-a-petition-to-seek-signatures.md) _2018-02-06 13:49:29 (First version)_
 1. [The campaign for California secession files a petition to seek signatures. ](/news/2016/11/21/the-campaign-for-california-secession-files-a-petition-to-seek-signatures.md) _(Current version)_
 
 ### Related:

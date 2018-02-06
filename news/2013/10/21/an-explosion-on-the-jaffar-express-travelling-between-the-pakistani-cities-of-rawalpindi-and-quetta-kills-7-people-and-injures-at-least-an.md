@@ -16,8 +16,8 @@ At least 10 people were also injured in the explosion and were taken to Dera Mur
 
 ### Changes:
 
-1. [War in North-West Pakistan:An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/war-in-north-west-pakistan-pan-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-pe.md) _2017-08-25 03:39:25 (First version)_
-2. [War in North-West Pakistan:: An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/war-in-north-west-pakistan-an-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-p.md) _2017-08-27 03:39:42 (Update)_
+1. [War in North-West Pakistan:An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/war-in-north-west-pakistan-pan-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-pe.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/war-in-north-west-pakistan-an-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-p.md) _2018-02-06 13:49:25 (Update)_
 2. [An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/an-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-people-and-injures-at-least-an.md) _(Current version)_
 
 ### Related:

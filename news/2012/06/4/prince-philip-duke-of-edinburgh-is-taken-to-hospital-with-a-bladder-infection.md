@@ -17,8 +17,8 @@ The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to ho
 
 ### Changes:
 
-1. [Diamond Jubilee of Elizabeth II:Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-pprince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _2017-08-25 03:35:49 (First version)_
-2. [Diamond Jubilee of Elizabeth II:: Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _2017-08-27 03:35:59 (Update)_
+1. [Diamond Jubilee of Elizabeth II:: Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _2018-02-06 13:49:23 (First version)_
+2. [Diamond Jubilee of Elizabeth II:Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-pprince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _2018-02-06 13:49:23 (Update)_
 2. [Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md) _(Current version)_
 
 ### Related:

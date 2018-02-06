@@ -16,7 +16,7 @@ Scientists confirm that white-nose syndrome, a disease killing off bats in North
 
 ### Changes:
 
-1. [American scientists confirm that a transmissible fungus, ''Geomyces destructans'', is responsible for the white-nose syndrome that has decimated bat populations across North America since 2006. ](/news/2011/10/26/american-scientists-confirm-that-a-transmissible-fungus-geomyces-destructans-is-responsible-for-the-white-nose-syndrome-that-has-decim.md) _2017-08-25 03:34:23 (First version)_
+1. [American scientists confirm that a transmissible fungus, ''Geomyces destructans'', is responsible for the white-nose syndrome that has decimated bat populations across North America since 2006. ](/news/2011/10/26/american-scientists-confirm-that-a-transmissible-fungus-geomyces-destructans-is-responsible-for-the-white-nose-syndrome-that-has-decim.md) _2018-02-06 13:49:23 (First version)_
 1. [American scientists confirm that a transmissible fungus, "Geomyces destructans", is responsible for the white-nose syndrome that has decimated bat populations across North America since 2006. ](/news/2011/10/26/american-scientists-confirm-that-a-transmissible-fungus-geomyces-destructans-is-responsible-for-the-white-nose-syndrome-that-has-decimat.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Drivers of the Delhi Transport Cooperation (DTC) today called off their strike p
 
 ### Changes:
 
-1. [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essenti.md) _2017-08-25 03:42:00 (First version)_
+1. [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essenti.md) _2018-02-06 13:49:27 (First version)_
 1. [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essential.md) _(Current version)_
 
 ### Related:

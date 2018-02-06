@@ -16,7 +16,7 @@ California would allocate its delegates just after early nominating contests in 
 
 ### Changes:
 
-1. [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md) _2017-09-17 09:30:05 (First version)_
+1. [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md) _2018-02-06 13:49:31 (First version)_
 1. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _(Current version)_
 
 ### Related:

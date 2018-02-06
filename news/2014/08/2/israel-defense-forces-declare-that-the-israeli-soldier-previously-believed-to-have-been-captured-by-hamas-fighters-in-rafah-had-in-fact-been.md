@@ -16,7 +16,7 @@ The Israeli military said Sunday that an Israeli soldier it previously believed 
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Israel Defense Forces declare that the Israeli soldier previously believed to have been captured by Hamas fighters in Rafah had in fact been killed in battle that day and his body taken. ](/news/2014/08/2/2014-israel-gaza-conflict-israel-defense-forces-declare-that-the-israeli-soldier-previously-believed-to-have-been-captured-by-hamas-fight.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 Israel-Gaza conflict: Israel Defense Forces declare that the Israeli soldier previously believed to have been captured by Hamas fighters in Rafah had in fact been killed in battle that day and his body taken. ](/news/2014/08/2/2014-israel-gaza-conflict-israel-defense-forces-declare-that-the-israeli-soldier-previously-believed-to-have-been-captured-by-hamas-fight.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel Defense Forces declare that the Israeli soldier previously believed to have been captured by Hamas fighters in Rafah had in fact been killed in battle that day and his body taken. ](/news/2014/08/2/israel-defense-forces-declare-that-the-israeli-soldier-previously-believed-to-have-been-captured-by-hamas-fighters-in-rafah-had-in-fact-been.md) _(Current version)_
 
 ### Related:

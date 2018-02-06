@@ -20,7 +20,7 @@ Nesat was downgraded to a tropical storm yesterday as it moved west into norther
 
 ### Changes:
 
-1. [2011 Pacific typhoon season: The Hong Kong Stock Exchange closes as Typhoon Nesat nears China's Hainan Island with schools, transport services and government offices also closing. ](/news/2011/09/29/2011-pacific-typhoon-season-the-hong-kong-stock-exchange-closes-as-typhoon-nesat-nears-china-s-hainan-island-with-schools-transport-servic.md) _2017-08-27 03:34:23 (First version)_
+1. [2011 Pacific typhoon season: The Hong Kong Stock Exchange closes as Typhoon Nesat nears China's Hainan Island with schools, transport services and government offices also closing. ](/news/2011/09/29/2011-pacific-typhoon-season-the-hong-kong-stock-exchange-closes-as-typhoon-nesat-nears-china-s-hainan-island-with-schools-transport-servic.md) _2018-02-06 13:49:22 (First version)_
 1. [The Hong Kong Stock Exchange closes as Typhoon Nesat nears China's Hainan Island with schools, transport services and government offices also closing. ](/news/2011/09/29/the-hong-kong-stock-exchange-closes-as-typhoon-nesat-nears-china-s-hainan-island-with-schools-transport-services-and-government-offices-als.md) _(Current version)_
 
 ### Related:

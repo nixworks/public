@@ -17,7 +17,7 @@ CIA Director John Brennan told NBC News his agency will not engage in harsh &#x2
 
 ### Changes:
 
-1. [CIA Director John Brennan, in an exclusive interview to air on NBC News tonight, says the United States intelligence agency will not use harsh, enhanced interrogation techniques, including waterboarding, even if ordered by a future president. Presidential candidates Donald Trump and Ted Cruz have discussed using waterboarding if elected. ](/news/2016/04/11/cia-director-john-brennan-in-an-exclusive-interview-to-air-on-nbc-news-tonight-says-the-united-states-intelligence-agency-will-not-use-ha.md) _2017-08-25 03:45:13 (First version)_
+1. [CIA Director John Brennan, in an exclusive interview to air on NBC News tonight, says the United States intelligence agency will not use harsh, enhanced interrogation techniques, including waterboarding, even if ordered by a future president. Presidential candidates Donald Trump and Ted Cruz have discussed using waterboarding if elected. ](/news/2016/04/11/cia-director-john-brennan-in-an-exclusive-interview-to-air-on-nbc-news-tonight-says-the-united-states-intelligence-agency-will-not-use-ha.md) _2018-02-06 13:49:28 (First version)_
 1. [CIA Director John Brennan, in an exclusive interview to air on NBC News tonight, says the United States intelligence agency will not use harsh, enhanced interrogation techniques, including waterboarding, even if ordered by a future president. Presidential candidates Donald Trump and Ted Cruz have discussed using waterboarding if elected. ](/news/2016/04/11/cia-director-john-brennan-in-an-exclusive-interview-to-air-on-nbc-news-tonight-says-the-united-states-intelligence-agency-will-not-use-har.md) _(Current version)_
 
 ### Related:

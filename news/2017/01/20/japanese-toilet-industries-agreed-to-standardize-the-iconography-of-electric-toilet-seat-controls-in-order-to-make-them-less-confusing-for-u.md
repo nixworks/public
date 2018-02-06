@@ -19,5 +19,5 @@ An association of Japanese toilet makers will unify pictograms on toilets with b
 
 ### Changes:
 
-1. [Toilets in Japan: Japanese toilet industries agreed to standardize the iconography of electric toilet seat controls in order to make them less confusing for users. ](/news/2017/01/20/toilets-in-japan-japanese-toilet-industries-agreed-to-standardize-the-iconography-of-electric-toilet-seat-controls-in-order-to-make-them-le.md) _2017-08-27 03:47:38 (First version)_
+1. [Toilets in Japan: Japanese toilet industries agreed to standardize the iconography of electric toilet seat controls in order to make them less confusing for users. ](/news/2017/01/20/toilets-in-japan-japanese-toilet-industries-agreed-to-standardize-the-iconography-of-electric-toilet-seat-controls-in-order-to-make-them-le.md) _2018-02-06 13:49:30 (First version)_
 1. [Japanese toilet industries agreed to standardize the iconography of electric toilet seat controls in order to make them less confusing for users. ](/news/2017/01/20/japanese-toilet-industries-agreed-to-standardize-the-iconography-of-electric-toilet-seat-controls-in-order-to-make-them-less-confusing-for-u.md) _(Current version)_

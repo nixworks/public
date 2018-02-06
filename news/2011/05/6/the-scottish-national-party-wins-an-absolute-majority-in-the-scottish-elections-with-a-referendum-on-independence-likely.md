@@ -18,7 +18,7 @@ The Scottish National Party prepares for a second term in government, becoming t
 
 ### Changes:
 
-1. [Scottish Election: The Scottish National Party wins an absolute majority in the Scottish elections with a referendum on independence likely. ](/news/2011/05/6/scottish-election-the-scottish-national-party-wins-an-absolute-majority-in-the-scottish-elections-with-a-referendum-on-independence-likely.md) _2017-08-27 03:33:10 (First version)_
+1. [Scottish Election: The Scottish National Party wins an absolute majority in the Scottish elections with a referendum on independence likely. ](/news/2011/05/6/scottish-election-the-scottish-national-party-wins-an-absolute-majority-in-the-scottish-elections-with-a-referendum-on-independence-likely.md) _2018-02-06 13:49:22 (First version)_
 1. [The Scottish National Party wins an absolute majority in the Scottish elections with a referendum on independence likely. ](/news/2011/05/6/the-scottish-national-party-wins-an-absolute-majority-in-the-scottish-elections-with-a-referendum-on-independence-likely.md) _(Current version)_
 
 ### Related:

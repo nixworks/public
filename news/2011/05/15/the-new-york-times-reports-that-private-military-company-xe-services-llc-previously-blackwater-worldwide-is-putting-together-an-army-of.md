@@ -16,7 +16,7 @@ Erik Prince has been hired to assemble a force of foreign troops in the United A
 
 ### Changes:
 
-1. [''The New York Times'' reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-o.md) _2017-08-25 03:33:07 (First version)_
+1. [''The New York Times'' reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-o.md) _2018-02-06 13:49:22 (First version)_
 1. ["The New York Times" reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.md) _(Current version)_
 
 ### Related:

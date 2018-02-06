@@ -17,7 +17,7 @@ A long-awaited agreement with the largest UK banks on lending and bonuses is ann
 
 ### Changes:
 
-1. [Project Merlin: 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/project-merlin-9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalit.md) _2017-08-27 03:32:15 (First version)_
+1. [Project Merlin: 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/project-merlin-9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalit.md) _2018-02-06 13:49:22 (First version)_
 1. [9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalition-government-a.md) _(Current version)_
 
 ### Related:

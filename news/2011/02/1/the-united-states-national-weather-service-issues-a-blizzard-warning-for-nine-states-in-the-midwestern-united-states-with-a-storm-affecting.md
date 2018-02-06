@@ -24,7 +24,7 @@ A “life-threatening” storm grounded one-fifth of all scheduled flights in th
 
 ### Changes:
 
-1. [US blizzard: The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/us-blizzard-the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-sto.md) _2017-08-27 03:32:08 (First version)_
+1. [US blizzard: The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/us-blizzard-the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-sto.md) _2018-02-06 13:49:21 (First version)_
 1. [The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-storm-affecting.md) _(Current version)_
 
 ### Related:

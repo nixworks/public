@@ -19,8 +19,8 @@ Formats: [HTML](/news/2011/11/3/the-2011-g-20-summit-gets-underway-in-the-french
 
 ### Changes:
 
-1. [Eurozone debt crisis:The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-pthe-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md) _2017-08-25 03:34:26 (First version)_
-2. [Eurozone debt crisis:: The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md) _2017-08-27 03:34:35 (Update)_
+1. [Eurozone debt crisis:: The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md) _2018-02-06 13:49:23 (First version)_
+2. [Eurozone debt crisis:The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-pthe-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md) _2018-02-06 13:49:23 (Update)_
 2. [The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing-eurozone-debt-crisis.md) _(Current version)_
 
 ### Related:

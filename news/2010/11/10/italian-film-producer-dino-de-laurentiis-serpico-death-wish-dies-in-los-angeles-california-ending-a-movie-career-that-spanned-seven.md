@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpic
 
 ### Changes:
 
-1. [Italian film producer Dino De Laurentiis (''Serpico'', ''Death Wish'') dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-se.md) _2017-08-25 03:30:58 (First version)_
+1. [Italian film producer Dino De Laurentiis (''Serpico'', ''Death Wish'') dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-se.md) _2018-02-06 13:49:21 (First version)_
 1. [Italian film producer Dino De Laurentiis ("Serpico", "Death Wish") dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-seven.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Officials in Pakistan appeal to separatist militant groups to halt attacks in th
 
 ### Changes:
 
-1. [Pakistan earthquake:Officials in Pakistan make a plea to separatist militants in Balochistan province to cease operations so that search and rescue can occur for victims of this week's earthquake. ](/news/2013/09/27/pakistan-earthquake-pofficials-in-pakistan-make-a-plea-to-separatist-militants-in-balochistan-province-to-cease-operations-so-that-search-an.md) _2017-08-25 03:39:19 (First version)_
-2. [Pakistan earthquake:: Officials in Pakistan make a plea to separatist militants in Balochistan province to cease operations so that search and rescue can occur for victims of this week's earthquake. ](/news/2013/09/27/pakistan-earthquake-officials-in-pakistan-make-a-plea-to-separatist-militants-in-balochistan-province-to-cease-operations-so-that-search-a.md) _2017-08-27 03:39:36 (Update)_
+1. [Pakistan earthquake:Officials in Pakistan make a plea to separatist militants in Balochistan province to cease operations so that search and rescue can occur for victims of this week's earthquake. ](/news/2013/09/27/pakistan-earthquake-pofficials-in-pakistan-make-a-plea-to-separatist-militants-in-balochistan-province-to-cease-operations-so-that-search-an.md) _2018-02-06 13:49:25 (First version)_
+2. [Pakistan earthquake:: Officials in Pakistan make a plea to separatist militants in Balochistan province to cease operations so that search and rescue can occur for victims of this week's earthquake. ](/news/2013/09/27/pakistan-earthquake-officials-in-pakistan-make-a-plea-to-separatist-militants-in-balochistan-province-to-cease-operations-so-that-search-a.md) _2018-02-06 13:49:25 (Update)_
 2. [Officials in Pakistan make a plea to separatist militants in Balochistan province to cease operations so that search and rescue can occur for victims of this week's earthquake. ](/news/2013/09/27/officials-in-pakistan-make-a-plea-to-separatist-militants-in-balochistan-province-to-cease-operations-so-that-search-and-rescue-can-occur-fo.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/19/us-president-george-w-bush-has-nominated-federa
 
 ### Changes:
 
-1. [ US President George W. Bush has nominated federal appeals court judge John G. Roberts, Jr. to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-g-roberts-jr-to-replace-sandra-day-o-connor-wikinews.md) _2017-10-17 03:19:02 (First version)_
+1. [ US President George W. Bush has nominated federal appeals court judge John G. Roberts, Jr. to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-g-roberts-jr-to-replace-sandra-day-o-connor-wikinews.md) _2018-02-06 13:49:16 (First version)_
 1. [ US President George W. Bush has nominated federal appeals court judge John Roberts to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-roberts-to-replace-sandra-day-o-connor-wikinews.md) _(Current version)_
 
 ### Related:

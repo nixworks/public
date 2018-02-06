@@ -15,7 +15,7 @@ One of the first men charged with piracy in the United States since the Civil Wa
 
 ### Changes:
 
-1. [Abduwali Muse, a Somali pirate, is sentenced to almost 34 years in prison in the United States for his role in attempting to hijack the {{MV|Maersk Alabama}}. ](/news/2011/02/16/abduwali-muse-a-somali-pirate-is-sentenced-to-almost-34-years-in-prison-in-the-united-states-for-his-role-in-attempting-to-hijack-the-mv.md) _2017-05-01 03:34:20 (First version)_
+1. [Abduwali Muse, a Somali pirate, is sentenced to almost 34 years in prison in the United States for his role in attempting to hijack the {{MV|Maersk Alabama}}. ](/news/2011/02/16/abduwali-muse-a-somali-pirate-is-sentenced-to-almost-34-years-in-prison-in-the-united-states-for-his-role-in-attempting-to-hijack-the-mv.md) _2018-02-06 13:49:21 (First version)_
 1. [Abduwali Muse, a Somali pirate, is sentenced to almost 34 years in prison in the United States for his role in attempting to hijack the Maersk Alabama. ](/news/2011/02/16/abduwali-muse-a-somali-pirate-is-sentenced-to-almost-34-years-in-prison-in-the-united-states-for-his-role-in-attempting-to-hijack-the-maer.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/15/three-men-are-arrested-in-the-outskirts-of-jaka
 
 ### Changes:
 
-1. [2016 Jakarta attacks: Three men are arrested in the outskirts of Jakarta in connection with the attacks. Police have identified the attackers killed in the raid with two of the men having been imprisoned for terrorism related offences. ](/news/2016/01/15/2016-jakarta-attacks-three-men-are-arrested-in-the-outskirts-of-jakarta-in-connection-with-the-attacks-police-have-identified-the-attacker.md) _2017-08-27 03:44:41 (First version)_
+1. [2016 Jakarta attacks: Three men are arrested in the outskirts of Jakarta in connection with the attacks. Police have identified the attackers killed in the raid with two of the men having been imprisoned for terrorism related offences. ](/news/2016/01/15/2016-jakarta-attacks-three-men-are-arrested-in-the-outskirts-of-jakarta-in-connection-with-the-attacks-police-have-identified-the-attacker.md) _2018-02-06 13:49:28 (First version)_
 1. [Three men are arrested in the outskirts of Jakarta in connection with the attacks. Police have identified the attackers killed in the raid with two of the men having been imprisoned for terrorism related offences. ](/news/2016/01/15/three-men-are-arrested-in-the-outskirts-of-jakarta-in-connection-with-the-attacks-police-have-identified-the-attackers-killed-in-the-raid-w.md) _(Current version)_
 
 ### Related:

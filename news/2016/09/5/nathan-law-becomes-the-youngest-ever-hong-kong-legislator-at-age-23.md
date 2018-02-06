@@ -15,7 +15,7 @@ Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been el
 
 ### Changes:
 
-1. [Hong Kong legislative election, 2016: Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/hong-kong-legislative-election-2016-nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md) _2017-08-27 03:46:46 (First version)_
+1. [Hong Kong legislative election, 2016: Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/hong-kong-legislative-election-2016-nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md) _2018-02-06 13:49:29 (First version)_
 1. [Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md) _(Current version)_
 
 ### Related:

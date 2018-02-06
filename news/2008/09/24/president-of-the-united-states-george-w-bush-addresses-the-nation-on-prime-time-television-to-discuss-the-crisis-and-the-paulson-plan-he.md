@@ -19,7 +19,7 @@ Barack Obama rejected John McCain’s call to halt the campaign for president du
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/subprime-mortgage-crisis-president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis.md) _2017-08-27 03:22:49 (First version)_
+1. [ Subprime mortgage crisis: President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/subprime-mortgage-crisis-president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis.md) _2018-02-06 13:49:18 (First version)_
 1. [ President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis-and-the-paulson-plan-he.md) _(Current version)_
 
 ### Related:

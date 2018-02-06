@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/09/30/an-unarmed-palestinian-boy-13-years-old-is-shot
 
 ### Changes:
 
-1. [ An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-intention-to-hold-an-inquiry-i.md) _2017-08-25 03:16:52 (First version)_
-2. [ Israeli-Palestinian conflict: An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/israeli-palestinian-conflict-an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-i.md) _2017-08-27 03:16:53 (Update)_
+1. [ Israeli-Palestinian conflict: An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/israeli-palestinian-conflict-an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-i.md) _2018-02-06 13:49:16 (First version)_
+2. [ An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-intention-to-hold-an-inquiry-i.md) _2018-02-06 13:49:16 (Update)_
 2. [ An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-intention-to-hold-an-inquiry-in.md) _(Current version)_
 
 ### Related:

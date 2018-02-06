@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/28/a-chinese-official-who-sanctioned-a-dump-of-con
 
 ### Changes:
 
-1. [2015 Shenzhen landslide: A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city-s Nanshan district, according to the "South China Morning Post". ](/news/2015/12/28/2015-shenzhen-landslide-a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city.md) _2017-08-27 03:44:32 (First version)_
+1. [2015 Shenzhen landslide: A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city-s Nanshan district, according to the "South China Morning Post". ](/news/2015/12/28/2015-shenzhen-landslide-a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city.md) _2018-02-06 13:49:28 (First version)_
 1. [A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city's Nanshan district, according to the "South China Morning Post". ](/news/2015/12/28/a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city-of-shenzhen-that-killed.md) _(Current version)_
 
 ### Related:

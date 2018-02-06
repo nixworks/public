@@ -19,8 +19,8 @@ Russian President has reportedly ordered an end to army drills in western Russia
 
 ### Changes:
 
-1. [2014 Crimean crisis:Russian President Vladimir Putin holds a press conference, saying that "force isn't needed right now" after deploying roughly 16,000 troops to Crimea. ](/news/2014/03/4/2014-crimean-crisis-prussian-president-vladimir-putin-holds-a-press-conference-saying-that-aforce-isnat-needed-right-nowa-after-deplo.md) _2017-08-25 03:40:07 (First version)_
-2. [2014 Crimean crisis:: Russian President Vladimir Putin holds a press conference, saying that -force isn-t needed right now- after deploying roughly 16,000 troops to Crimea. ](/news/2014/03/4/2014-crimean-crisis-russian-president-vladimir-putin-holds-a-press-conference-saying-that-force-isn-t-needed-right-now-after-depl.md) _2017-08-27 03:40:25 (Update)_
+1. [2014 Crimean crisis:: Russian President Vladimir Putin holds a press conference, saying that -force isn-t needed right now- after deploying roughly 16,000 troops to Crimea. ](/news/2014/03/4/2014-crimean-crisis-russian-president-vladimir-putin-holds-a-press-conference-saying-that-force-isn-t-needed-right-now-after-depl.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:Russian President Vladimir Putin holds a press conference, saying that "force isn't needed right now" after deploying roughly 16,000 troops to Crimea. ](/news/2014/03/4/2014-crimean-crisis-prussian-president-vladimir-putin-holds-a-press-conference-saying-that-aforce-isnat-needed-right-nowa-after-deplo.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian President Vladimir Putin holds a press conference, saying that "force isn't needed right now" after deploying roughly 16,000 troops to Crimea. ](/news/2014/03/4/russian-president-vladimir-putin-holds-a-press-conference-saying-that-aforce-isnat-needed-right-nowa-after-deploying-roughly-16-000-t.md) _(Current version)_
 
 ### Related:

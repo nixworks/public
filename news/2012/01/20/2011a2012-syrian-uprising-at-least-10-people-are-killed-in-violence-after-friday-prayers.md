@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/01/20/2011a2012-syrian-uprising-at-least-10-people-ar
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: At least 10 people are killed in violence after Friday prayers. ](/news/2012/01/20/2011-2012-syrian-uprising-at-least-10-people-are-killed-in-violence-after-friday-prayers.md) _2017-08-27 03:35:01 (First version)_
+1. [2011-2012 Syrian uprising: At least 10 people are killed in violence after Friday prayers. ](/news/2012/01/20/2011-2012-syrian-uprising-at-least-10-people-are-killed-in-violence-after-friday-prayers.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: At least 10 people are killed in violence after Friday prayers. ](/news/2012/01/20/2011a2012-syrian-uprising-at-least-10-people-are-killed-in-violence-after-friday-prayers.md) _(Current version)_
 
 ### Related:

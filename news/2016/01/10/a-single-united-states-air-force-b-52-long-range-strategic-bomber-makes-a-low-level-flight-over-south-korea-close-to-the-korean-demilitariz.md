@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/10/a-single-united-states-air-force-b-52-long-rang
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/2016-north-korean-nuclear-test-a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea.md) _2017-08-27 03:44:38 (First version)_
+1. [2016 North Korean nuclear test: A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/2016-north-korean-nuclear-test-a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea.md) _2018-02-06 13:49:28 (First version)_
 1. [A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea-close-to-the-korean-demilitariz.md) _(Current version)_
 
 ### Related:

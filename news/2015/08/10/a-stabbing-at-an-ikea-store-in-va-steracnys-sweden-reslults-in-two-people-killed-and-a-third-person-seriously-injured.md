@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steracnys-swe
 
 ### Changes:
 
-1. [A stabbing at an Ikea store in Vasteras, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steray-s-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md) _2017-08-25 03:42:31 (First version)_
+1. [A stabbing at an Ikea store in Vasteras, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steray-s-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [A stabbing at an Ikea store in VasterCNYs, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steracnys-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md) _(Current version)_
 
 ### Related:

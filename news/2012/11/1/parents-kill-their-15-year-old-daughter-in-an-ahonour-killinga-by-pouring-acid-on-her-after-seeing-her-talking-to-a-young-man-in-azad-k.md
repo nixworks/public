@@ -17,7 +17,7 @@ A couple in Pakistani-administered Kashmir are arrested for murdering their teen
 
 ### Changes:
 
-1. [Parents kill their 15-year-old daughter in an -honour killing- by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-honour-killing-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md) _2017-08-27 03:36:56 (First version)_
+1. [Parents kill their 15-year-old daughter in an -honour killing- by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-honour-killing-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md) _2018-02-06 13:49:24 (First version)_
 1. [Parents kill their 15-year-old daughter in an "honour killing" by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-ahonour-killinga-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md) _(Current version)_
 
 ### Related:

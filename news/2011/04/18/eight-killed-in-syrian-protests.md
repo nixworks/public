@@ -18,8 +18,8 @@ Get the latest BBC News from the Middle East: breaking news, features, analysis 
 
 ### Changes:
 
-1. [2011 Syrian protests:Eight killed in Syrian Protests. ](/news/2011/04/18/2011-syrian-protests-peight-killed-in-syrian-protests.md) _2017-08-25 03:32:50 (First version)_
-2. [2011 Syrian protests:: Eight killed in Syrian Protests. ](/news/2011/04/18/2011-syrian-protests-eight-killed-in-syrian-protests.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Syrian protests:Eight killed in Syrian Protests. ](/news/2011/04/18/2011-syrian-protests-peight-killed-in-syrian-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:: Eight killed in Syrian Protests. ](/news/2011/04/18/2011-syrian-protests-eight-killed-in-syrian-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [Eight killed in Syrian Protests. ](/news/2011/04/18/eight-killed-in-syrian-protests.md) _(Current version)_
 
 ### Related:

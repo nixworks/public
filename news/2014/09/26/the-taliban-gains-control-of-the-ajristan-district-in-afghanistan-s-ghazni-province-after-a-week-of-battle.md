@@ -16,7 +16,7 @@ Taliban fighters seize control of a strategic district in the eastern Afghan pro
 
 ### Changes:
 
-1. [Taliban insurgency: The Taliban gains control of the Ajristan District in Afghanistan's Ghazni Province after a week of battle. ](/news/2014/09/26/taliban-insurgency-the-taliban-gains-control-of-the-ajristan-district-in-afghanistan-s-ghazni-province-after-a-week-of-battle.md) _2017-08-27 03:41:20 (First version)_
+1. [Taliban insurgency: The Taliban gains control of the Ajristan District in Afghanistan's Ghazni Province after a week of battle. ](/news/2014/09/26/taliban-insurgency-the-taliban-gains-control-of-the-ajristan-district-in-afghanistan-s-ghazni-province-after-a-week-of-battle.md) _2018-02-06 13:49:26 (First version)_
 1. [The Taliban gains control of the Ajristan District in Afghanistan's Ghazni Province after a week of battle. ](/news/2014/09/26/the-taliban-gains-control-of-the-ajristan-district-in-afghanistan-s-ghazni-province-after-a-week-of-battle.md) _(Current version)_
 
 ### Related:

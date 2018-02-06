@@ -16,7 +16,7 @@ Vietnam is preparing itself for Typhoon Sarika, which has already brought torren
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. ](/news/2016/10/18/2016-pacific-typhoon-season-the-death-toll-in-vietnam-from-typhoon-sarika-rises-to-at-least-31-people.md) _2017-08-27 03:47:05 (First version)_
+1. [2016 Pacific typhoon season: The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. ](/news/2016/10/18/2016-pacific-typhoon-season-the-death-toll-in-vietnam-from-typhoon-sarika-rises-to-at-least-31-people.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. ](/news/2016/10/18/the-death-toll-in-vietnam-from-typhoon-sarika-rises-to-at-least-31-people.md) _(Current version)_
 
 ### Related:

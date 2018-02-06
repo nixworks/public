@@ -11,7 +11,7 @@ Formats: [HTML](/news/2008/04/4/former-commander-of-the-rebel-kosovo-liberation-
 
 ### Changes:
 
-1. [ Former commander of the rebel Kosovo Liberation Army during the 1998-99 war Ramush Haradinaj is acquitted of war crimes charges by the International Criminal Tribunal for the former Yugoslavia. (AP via "The International Herald Tribune")](/news/2008/04/4/former-commander-of-the-rebel-kosovo-liberation-army-during-the-1998-99-war-ramush-haradinaj-is-acquitted-of-war-crimes-charges-by-the-in.md) _2017-08-27 03:21:55 (First version)_
+1. [ Former commander of the rebel Kosovo Liberation Army during the 1998-99 war Ramush Haradinaj is acquitted of war crimes charges by the International Criminal Tribunal for the former Yugoslavia. (AP via "The International Herald Tribune")](/news/2008/04/4/former-commander-of-the-rebel-kosovo-liberation-army-during-the-1998-99-war-ramush-haradinaj-is-acquitted-of-war-crimes-charges-by-the-in.md) _2018-02-06 13:49:18 (First version)_
 1. [ Former commander of the rebel Kosovo Liberation Army during the 1998-99 war Ramush Haradinaj is acquitted of war crimes charges by the International Criminal Tribunal for the former Yugoslavia. (AP via "The International Herald Tribune")](/news/2008/04/4/former-commander-of-the-rebel-kosovo-liberation-army-during-the-1998a99-war-ramush-haradinaj-is-acquitted-of-war-crimes-charges-by-the-in.md) _(Current version)_
 
 ### Related:

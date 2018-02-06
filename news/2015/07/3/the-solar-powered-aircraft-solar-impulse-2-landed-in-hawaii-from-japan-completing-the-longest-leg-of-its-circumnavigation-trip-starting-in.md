@@ -16,8 +16,8 @@ Solar Impulse, the aeroplane that is powered only by the sun, lands in Hawaii af
 
 ### Changes:
 
-1. [Solar Impulse projectThe solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-projectpthe-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnaviga.md) _2017-08-25 03:42:21 (First version)_
-2. [Solar Impulse project: The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-project-the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavig.md) _2017-08-27 03:42:38 (Update)_
+1. [Solar Impulse projectThe solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-projectpthe-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnaviga.md) _2018-02-06 13:49:27 (First version)_
+2. [Solar Impulse project: The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-project-the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavig.md) _2018-02-06 13:49:27 (Update)_
 2. [The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavigation-trip-starting-in.md) _(Current version)_
 
 ### Related:

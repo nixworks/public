@@ -18,8 +18,8 @@ Russian president critical of government response to fire disaster.
 
 ### Changes:
 
-1. [Summer 2010 Russian wildfires:President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/summer-2010-russian-wildfires-ppresident-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-off.md) _2017-08-25 03:29:12 (First version)_
-2. [Summer 2010 Russian wildfires:: President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/summer-2010-russian-wildfires-president-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-of.md) _2017-08-27 03:29:13 (Update)_
+1. [Summer 2010 Russian wildfires:: President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/summer-2010-russian-wildfires-president-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-of.md) _2018-02-06 13:49:20 (First version)_
+2. [Summer 2010 Russian wildfires:President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/summer-2010-russian-wildfires-ppresident-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-off.md) _2018-02-06 13:49:20 (Update)_
 2. [President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/president-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-officials-after-wildfires-destroy.md) _(Current version)_
 
 ### Related:

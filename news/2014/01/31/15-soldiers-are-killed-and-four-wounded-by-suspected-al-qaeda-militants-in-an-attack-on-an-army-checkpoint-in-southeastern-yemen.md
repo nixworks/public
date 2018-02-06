@@ -16,8 +16,8 @@ At least 15 soldiers were killed and four wounded by suspected al Qaeda militant
 
 ### Changes:
 
-1. [South Yemen insurgency:15 soldiers are killed and four wounded by suspected al Qaeda militants in an attack on an army checkpoint in southeastern Yemen. ](/news/2014/01/31/south-yemen-insurgency-p15-soldiers-are-killed-and-four-wounded-by-suspected-al-qaeda-militants-in-an-attack-on-an-army-checkpoint-in-southe.md) _2017-08-25 03:39:57 (First version)_
-2. [South Yemen insurgency:: 15 soldiers are killed and four wounded by suspected al Qaeda militants in an attack on an army checkpoint in southeastern Yemen. ](/news/2014/01/31/south-yemen-insurgency-15-soldiers-are-killed-and-four-wounded-by-suspected-al-qaeda-militants-in-an-attack-on-an-army-checkpoint-in-south.md) _2017-08-27 03:40:15 (Update)_
+1. [South Yemen insurgency:15 soldiers are killed and four wounded by suspected al Qaeda militants in an attack on an army checkpoint in southeastern Yemen. ](/news/2014/01/31/south-yemen-insurgency-p15-soldiers-are-killed-and-four-wounded-by-suspected-al-qaeda-militants-in-an-attack-on-an-army-checkpoint-in-southe.md) _2018-02-06 13:49:25 (First version)_
+2. [South Yemen insurgency:: 15 soldiers are killed and four wounded by suspected al Qaeda militants in an attack on an army checkpoint in southeastern Yemen. ](/news/2014/01/31/south-yemen-insurgency-15-soldiers-are-killed-and-four-wounded-by-suspected-al-qaeda-militants-in-an-attack-on-an-army-checkpoint-in-south.md) _2018-02-06 13:49:25 (Update)_
 2. [15 soldiers are killed and four wounded by suspected al Qaeda militants in an attack on an army checkpoint in southeastern Yemen. ](/news/2014/01/31/15-soldiers-are-killed-and-four-wounded-by-suspected-al-qaeda-militants-in-an-attack-on-an-army-checkpoint-in-southeastern-yemen.md) _(Current version)_
 
 ### Related:

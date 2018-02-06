@@ -9,7 +9,7 @@ _Context: OPEC_
 
 ##### Tata Group
 ### [ The Indian conglomerate Tata Group agrees to buy Anglo-Dutch steel firm Corus in the largest ever Indian takeover of a foreign company. ](/news/2006/10/20/the-indian-conglomerate-tata-group-agrees-to-buy-anglo-dutch-steel-firm-corus-in-the-largest-ever-indian-takeover-of-a-foreign-company.md)
-_Context: takeover, steel, Corus Group, Tata Group_
+_Context: Corus Group, takeover, steel, Tata Group_
 
 ##### Ethiopia
 ### [ Ethiopia expels two European Union diplomats for allegedly trying to smuggle two fugitives into Kenya. The European Union criticises the expulsions as "totally unacceptable." ](/news/2006/10/20/ethiopia-expels-two-european-union-diplomats-for-allegedly-trying-to-smuggle-two-fugitives-into-kenya-the-european-union-criticises-the-ex.md)
@@ -17,7 +17,7 @@ _Context: Kenya, Ethiopia, European Union_
 
 ##### Wisconsin
 ### [ United States authorities charge a Wisconsin man with making a hoax threat against seven American football stadiums that said they would be targeted by terrorists with radiological dirty bombs on the weekend. ](/news/2006/10/20/united-states-authorities-charge-a-wisconsin-man-with-making-a-hoax-threat-against-seven-american-football-stadiums-that-said-they-would-be.md)
-_Context: radiological, American football, Wisconsin, terrorist, dirty bomb_
+_Context: dirty bomb, terrorist, American football, radiological, Wisconsin_
 
 ##### Government of Kazakhstan
 ### [ The Government of Kazakhstan is building a security fence on its border with Uzbekistan to prevent terrorist attacks in the country. ](/news/2006/10/20/the-government-of-kazakhstan-is-building-a-security-fence-on-its-border-with-uzbekistan-to-prevent-terrorist-attacks-in-the-country.md)
@@ -25,19 +25,19 @@ Kazakhstan is building a fence along 28 miles of its long border with Uzbekistan
 
 ##### Clare Short
 ### [ Clare Short, the former British cabinet minister, has left the Labour Party to sit as an Independent Labour MP. ](/news/2006/10/20/clare-short-the-former-british-cabinet-minister-has-left-the-labour-party-to-sit-as-an-independent-labour-mp.md)
-_Context: Labour Party, Independent, Clare Short_
+_Context: Independent, Clare Short, Labour Party_
 
 ##### Solomon Islands
 ### [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md)
-_Context: Solomon Islands, Honiara, Regional Assistance Mission to the Solomon Islands, Manasseh Sogavare, Prime Minister_
+_Context: Manasseh Sogavare, Honiara, Prime Minister, Solomon Islands, Regional Assistance Mission to the Solomon Islands_
 
 ##### European Union
 ### [ European Union leaders gather in Lahti, Finland, for a summit with Russian President Vladimir Putin. ](/news/2006/10/20/european-union-leaders-gather-in-lahti-finland-for-a-summit-with-russian-president-vladimir-putin.md)
-_Context: Vladimir Putin, Lahti, European Union, Russian President_
+_Context: European Union, Russian President, Vladimir Putin, Lahti_
 
 ##### convicted prisoners
 ### [ Newly convicted prisoners in the United Kingdom are to be held in police cells rather than prisons, as the nation's prison service faces chronic overcrowding in its jails. ](/news/2006/10/20/newly-convicted-prisoners-in-the-united-kingdom-are-to-be-held-in-police-cells-rather-than-prisons-as-the-nation-s-prison-service-faces-ch.md)
-_Context: held in police cells, prison service, convicted prisoners, its jails_
+_Context: convicted prisoners, held in police cells, its jails, prison service_
 
 ## [Previous Day...](/news/2006/10/19/index.md)
 

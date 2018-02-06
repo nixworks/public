@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/02/20/the-chinese-military-and-several-schools-deny-i
 
 ### Changes:
 
-1. [The Chinese military and several schools deny involvement in cyber attacks on Google, following a ''New York Times'' report cited investigators linking Lanxiang Vocational School and Shanghai Jiaotong University to the attacks. ](/news/2010/02/20/the-chinese-military-and-several-schools-deny-involvement-in-cyber-attacks-on-google-following-a-new-york-times-report-cited-investigat.md) _2017-08-25 03:27:11 (First version)_
+1. [The Chinese military and several schools deny involvement in cyber attacks on Google, following a ''New York Times'' report cited investigators linking Lanxiang Vocational School and Shanghai Jiaotong University to the attacks. ](/news/2010/02/20/the-chinese-military-and-several-schools-deny-involvement-in-cyber-attacks-on-google-following-a-new-york-times-report-cited-investigat.md) _2018-02-06 13:49:19 (First version)_
 1. [The Chinese military and several schools deny involvement in cyber attacks on Google, following a "New York Times" report cited investigators linking Lanxiang Vocational School and Shanghai Jiaotong University to the attacks. ](/news/2010/02/20/the-chinese-military-and-several-schools-deny-involvement-in-cyber-attacks-on-google-following-a-new-york-times-report-cited-investigator.md) _(Current version)_
 
 ### Related:

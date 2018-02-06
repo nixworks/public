@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/8/typhoon-neoguri-heads-towards-the-southern-japan
 
 ### Changes:
 
-1. [Typhoon Neoguri (2014): Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-2014-typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-island.md) _2017-08-27 03:40:57 (First version)_
+1. [Typhoon Neoguri (2014): Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-2014-typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-island.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-islands-urged-to-evacuate.md) _(Current version)_
 
 ### Related:

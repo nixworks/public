@@ -16,7 +16,7 @@ EU withholds direct financial support to Bujumbura after concluding that authori
 
 ### Changes:
 
-1. [Burundian unrest (2015-present): The European Union suspends direct financial aid to Burundi after concluding that the Burundian authorities had not done enough to find a political solution to the ongoing conflict occurring in the country. ](/news/2016/03/15/burundian-unrest-2015-present-the-european-union-suspends-direct-financial-aid-to-burundi-after-concluding-that-the-burundian-authoriti.md) _2017-08-27 03:45:15 (First version)_
+1. [Burundian unrest (2015-present): The European Union suspends direct financial aid to Burundi after concluding that the Burundian authorities had not done enough to find a political solution to the ongoing conflict occurring in the country. ](/news/2016/03/15/burundian-unrest-2015-present-the-european-union-suspends-direct-financial-aid-to-burundi-after-concluding-that-the-burundian-authoriti.md) _2018-02-06 13:49:28 (First version)_
 1. [The European Union suspends direct financial aid to Burundi after concluding that the Burundian authorities had not done enough to find a political solution to the ongoing conflict occurring in the country. ](/news/2016/03/15/the-european-union-suspends-direct-financial-aid-to-burundi-after-concluding-that-the-burundian-authorities-had-not-done-enough-to-find-a-po.md) _(Current version)_
 
 ### Related:

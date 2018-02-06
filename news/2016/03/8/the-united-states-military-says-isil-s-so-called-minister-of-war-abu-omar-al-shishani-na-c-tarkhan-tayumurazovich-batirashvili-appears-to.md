@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/8/the-united-states-military-says-isil-s-so-called
 
 ### Changes:
 
-1. [Military intervention against ISIL: The United States military says ISIL's so-called minister-of-war, Abu Omar al-Shishani, ne Tarkhan Tayumurazovich Batirashvili, appears to have been killed in a U.S. air strike near the town of Al-Shaddadi in Syria. ](/news/2016/03/8/military-intervention-against-isil-the-united-states-military-says-isil-s-so-called-minister-of-war-abu-omar-al-shishani-na-c-tarkhan-tayu.md) _2017-08-27 03:45:10 (First version)_
+1. [Military intervention against ISIL: The United States military says ISIL's so-called minister-of-war, Abu Omar al-Shishani, ne Tarkhan Tayumurazovich Batirashvili, appears to have been killed in a U.S. air strike near the town of Al-Shaddadi in Syria. ](/news/2016/03/8/military-intervention-against-isil-the-united-states-military-says-isil-s-so-called-minister-of-war-abu-omar-al-shishani-na-c-tarkhan-tayu.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States military says ISIL's so-called minister-of-war, Abu Omar al-Shishani, ne Tarkhan Tayumurazovich Batirashvili, appears to have been killed in a U.S. air strike near the town of Al-Shaddadi in Syria. ](/news/2016/03/8/the-united-states-military-says-isil-s-so-called-minister-of-war-abu-omar-al-shishani-na-c-tarkhan-tayumurazovich-batirashvili-appears-to.md) _(Current version)_
 
 ### Related:

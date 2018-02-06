@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanist
 
 ### Changes:
 
-1. [Taliban insurgency:Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/taliban-insurgency-pgunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _2017-08-25 03:40:26 (First version)_
-2. [Taliban insurgency:: Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/taliban-insurgency-gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _2017-08-27 03:40:44 (Update)_
+1. [Taliban insurgency:Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/taliban-insurgency-pgunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency:: Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/taliban-insurgency-gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _2018-02-06 13:49:26 (Update)_
 2. [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _(Current version)_
 
 ### Related:

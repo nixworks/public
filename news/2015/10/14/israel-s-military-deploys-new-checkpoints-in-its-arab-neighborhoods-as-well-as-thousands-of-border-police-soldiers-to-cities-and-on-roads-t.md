@@ -19,7 +19,7 @@ Formats: [HTML](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-it
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israeli-palestinian-conflict-israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-s.md) _2017-08-27 03:43:20 (First version)_
+1. [Israeli-Palestinian conflict: Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israeli-palestinian-conflict-israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-s.md) _2018-02-06 13:49:27 (First version)_
 1. [Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-soldiers-to-cities-and-on-roads-t.md) _(Current version)_
 
 ### Related:

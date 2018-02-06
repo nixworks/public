@@ -17,7 +17,7 @@ Scores of protesters including two prominent student leaders are arrested in Mon
 
 ### Changes:
 
-1. [2014 Hong Kong protests: More than 80 people are arrested as police dismantle a protest camp in the Mong Kok commercial district. ](/news/2014/11/26/2014-hong-kong-protests-more-than-80-people-are-arrested-as-police-dismantle-a-protest-camp-in-the-mong-kok-commercial-district.md) _2017-08-27 03:41:33 (First version)_
+1. [2014 Hong Kong protests: More than 80 people are arrested as police dismantle a protest camp in the Mong Kok commercial district. ](/news/2014/11/26/2014-hong-kong-protests-more-than-80-people-are-arrested-as-police-dismantle-a-protest-camp-in-the-mong-kok-commercial-district.md) _2018-02-06 13:49:26 (First version)_
 1. [More than 80 people are arrested as police dismantle a protest camp in the Mong Kok commercial district. ](/news/2014/11/26/more-than-80-people-are-arrested-as-police-dismantle-a-protest-camp-in-the-mong-kok-commercial-district.md) _(Current version)_
 
 ### Related:

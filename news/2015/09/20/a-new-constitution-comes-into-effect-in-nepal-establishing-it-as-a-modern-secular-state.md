@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/20/a-new-constitution-comes-into-effect-in-nepal-e
 
 ### Changes:
 
-1. [Constitution of Nepal: A new constitution comes into effect in Nepal establishing it as a modern secular state. ](/news/2015/09/20/constitution-of-nepal-a-new-constitution-comes-into-effect-in-nepal-establishing-it-as-a-modern-secular-state.md) _2017-08-27 03:43:06 (First version)_
+1. [Constitution of Nepal: A new constitution comes into effect in Nepal establishing it as a modern secular state. ](/news/2015/09/20/constitution-of-nepal-a-new-constitution-comes-into-effect-in-nepal-establishing-it-as-a-modern-secular-state.md) _2018-02-06 13:49:27 (First version)_
 1. [A new constitution comes into effect in Nepal establishing it as a modern secular state. ](/news/2015/09/20/a-new-constitution-comes-into-effect-in-nepal-establishing-it-as-a-modern-secular-state.md) _(Current version)_
 
 ### Related:

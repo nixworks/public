@@ -13,15 +13,15 @@ Two reports of Wikileaks files claim an alleged al-Qaeda &quot;assassin&quot; wa
 
 ##### Katie Couric
 ### [U.S. television personality Katie Couric announces that she will no longer host the "CBS Evening News" at the end of June. ](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.md)
-_Context: CBS Evening News, Katie Couric_
+_Context: Katie Couric, CBS Evening News_
 
 ##### BBC
 ### [BBC television personality Andrew Marr admits to having taken out a high court superinjunction after "Private Eye" launches a challenge, though Marr states he "did not come into journalism to go around gagging journalists". ](/news/2011/04/26/bbc-television-personality-andrew-marr-admits-to-having-taken-out-a-high-court-superinjunction-after-private-eye-launches-a-challenge-tho.md)
-_Context: Andrew Marr, BBC, superinjunction, Private Eye_
+_Context: superinjunction, Private Eye, BBC, Andrew Marr_
 
 ##### Russia
 ### [The Russian capital Moscow is to allow its first gay pride rally in May. ](/news/2011/04/26/the-russian-capital-moscow-is-to-allow-its-first-gay-pride-rally-in-may.md)
-_Context: Russia, gay pride, Moscow_
+_Context: gay pride, Moscow, Russia_
 
 ##### another France Telecom
 ### [Management and unions confirm another France Telecom worker has committed suicide. ](/news/2011/04/26/management-and-unions-confirm-another-france-ta-c-la-c-com-worker-has-committed-suicide.md)
@@ -29,11 +29,11 @@ A France Telecom worker and father of four commits suicide by setting himself on
 
 ##### France
 ### [French dairy group Groupe Lactalis launches a 3.4 billion euro bid for Italian dairy group Parmalat. ](/news/2011/04/26/french-dairy-group-groupe-lactalis-launches-a-3-4-billion-euro-bid-for-italian-dairy-group-parmalat.md)
-_Context: Parmalat, euro, Groupe Lactalis, Italy, France_
+_Context: Groupe Lactalis, euro, Parmalat, France, Italy_
 
 ##### Greece
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)
-_Context: budget deficit, Greece, gross domestic product_
+_Context: gross domestic product, budget deficit, Greece_
 
 ##### Ukraine
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
@@ -45,7 +45,7 @@ _Context: Colombian President, Juan Manuel Santos_
 
 ##### Poplar Bluff
 ### [Thousands of residents in the US town of Poplar Bluff, Missouri, are evacuated as the Black River overflows its banks. ](/news/2011/04/26/thousands-of-residents-in-the-us-town-of-poplar-bluff-missouri-are-evacuated-as-the-black-river-overflows-its-banks.md)
-_Context: Missouri, Poplar Bluff, Black River_
+_Context: Poplar Bluff, Missouri, Black River_
 
 ##### Ecuador
 ### [Authorities in Ecuador evacuate nearby residents as the Tungurahua erupts. ](/news/2011/04/26/authorities-in-ecuador-evacuate-nearby-residents-as-the-tungurahua-erupts.md)
@@ -81,11 +81,11 @@ President Barack Obama has unwittingly waded into a military legal tangle by dec
 
 ##### India
 ### [An Indian court orders Suresh Kalmadi, the chief organiser of the 2010 Commonwealth Games, to remain in custody while corruption charges against him are investigated. ](/news/2011/04/26/an-indian-court-orders-suresh-kalmadi-the-chief-organiser-of-the-2010-commonwealth-games-to-remain-in-custody-while-corruption-charges-aga.md)
-_Context: 2010 Commonwealth Games, Suresh Kalmadi, India_
+_Context: 2010 Commonwealth Games, India, Suresh Kalmadi_
 
 ##### Japan
 ### [Japanese anti-nuclear protests following the Fukushima I nuclear accidents: Hundreds of farmers protest against Japan's atomic crisis, outside the TEPCO head office in Tokyo. ](/news/2011/04/26/japanese-anti-nuclear-protests-following-the-fukushima-i-nuclear-accidents-hundreds-of-farmers-protest-against-japan-s-atomic-crisis-outsi.md)
-_Context: Tokyo, Fukushima I nuclear accidents, TEPCO, Japan_
+_Context: Fukushima I nuclear accidents, Japan, TEPCO, Tokyo_
 
 ##### Belgium
 ### [Belgium reaches one year without a government. ](/news/2011/04/26/belgium-reaches-one-year-without-a-government.md)

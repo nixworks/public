@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/27/a-suicide-bomber-blows-herself-up-in-the-turkis
 
 ### Changes:
 
-1. [2016 Bursa bombing: A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. ](/news/2016/04/27/2016-bursa-bombing-a-suicide-bomber-blows-herself-up-in-the-turkish-city-of-bursa-injuring-at-least-seven-people.md) _2017-08-27 03:45:51 (First version)_
+1. [2016 Bursa bombing: A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. ](/news/2016/04/27/2016-bursa-bombing-a-suicide-bomber-blows-herself-up-in-the-turkish-city-of-bursa-injuring-at-least-seven-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. ](/news/2016/04/27/a-suicide-bomber-blows-herself-up-in-the-turkish-city-of-bursa-injuring-at-least-seven-people.md) _(Current version)_
 
 ### Related:

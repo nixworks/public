@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/9/fighting-between-boko-haram-and-government-backe
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/nigerian-sharia-conflict-pfighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md) _2017-08-25 03:39:15 (First version)_
-2. [Nigerian Sharia conflict:: Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/nigerian-sharia-conflict-fighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md) _2017-08-27 03:39:31 (Update)_
+1. [Nigerian Sharia conflict:Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/nigerian-sharia-conflict-pfighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/nigerian-sharia-conflict-fighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md) _2018-02-06 13:49:25 (Update)_
 2. [Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/fighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md) _(Current version)_
 
 ### Related:

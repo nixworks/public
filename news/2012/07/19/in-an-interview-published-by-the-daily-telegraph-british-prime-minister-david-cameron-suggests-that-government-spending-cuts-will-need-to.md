@@ -17,8 +17,8 @@ The government should slow the pace of budget cuts next year if growth in the UK
 
 ### Changes:
 
-1. [Economy of the United Kingdom:In an interview published by ''The Daily Telegraph'', British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-pin-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gove.md) _2017-08-25 03:36:08 (First version)_
-2. [Economy of the United Kingdom:: In an interview published by "The Daily Telegraph", British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-in-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gover.md) _2017-08-27 03:36:20 (Update)_
+1. [Economy of the United Kingdom:In an interview published by ''The Daily Telegraph'', British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-pin-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gove.md) _2018-02-06 13:49:23 (First version)_
+2. [Economy of the United Kingdom:: In an interview published by "The Daily Telegraph", British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-in-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gover.md) _2018-02-06 13:49:23 (Update)_
 2. [In an interview published by "The Daily Telegraph", British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/in-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-government-spending-cuts-will-need-to.md) _(Current version)_
 
 ### Related:

@@ -13,19 +13,19 @@ Occupy Wall Street protesters can no longer camp at their original protest site,
 
 ##### Syrian National Council
 ### [After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/after-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-introduced-into-syr.md)
-_Context: Syria, UN peacekeepers, Syrian National Council_
+_Context: Syria, Syrian National Council, UN peacekeepers_
 
 ##### 2011 Yemeni uprising
 ### [Following months of violent protests against his 33-year rule, Yemen's President Ali Abdullah Saleh says he will leave office "within 90 days" of an agreement regarding elections with the regional Gulf Cooperation Council.](/news/2011/11/15/following-months-of-violent-protests-against-his-33-year-rule-yemen-s-president-ali-abdullah-saleh-says-he-will-leave-office-within-90-day.md)
-_Context: 2011 Yemeni uprising, Gulf Cooperation Council, Ali Abdullah Saleh, President_
+_Context: Gulf Cooperation Council, President, 2011 Yemeni uprising, Ali Abdullah Saleh_
 
 ##### acts of self-immolation
 ### [Following several acts of self-immolation by Tibetans in Tibet, exiled Tibetans in India urge the Chinese government to end its repressive policies restricting the religious freedom of Tibetans. ](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.md)
-_Context: India, repressive policies in Tibet, acts of self-immolation, government, Tibet, exiled Tibetans_
+_Context: India, government, repressive policies in Tibet, acts of self-immolation, exiled Tibetans, Tibet_
 
 ##### Ai Weiwei
 ### [Chinese artist Ai Weiwei pays 8.45 million yuan in taxes after receiving a large number of donations from supporters who believe the debt was politically motivated because of his criticism of the Chinese government. ](/news/2011/11/15/chinese-artist-ai-weiwei-pays-8-45-million-yuan-in-taxes-after-receiving-a-large-number-of-donations-from-supporters-who-believe-the-debt-wa.md)
-_Context: Ai Weiwei, yuan_
+_Context: yuan, Ai Weiwei_
 
 ##### England
 ### [Police in the English city of Birmingham arrest four men in the Sparkhill district in a major anti-terrorism operation. ](/news/2011/11/15/police-in-the-english-city-of-birmingham-arrest-four-men-in-the-sparkhill-district-in-a-major-anti-terrorism-operation.md)
@@ -37,7 +37,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### Nauru
 ### [Nauru swears in its third President in less than a week, as President Freddie Pitcher, in office for just six days, is ousted in a 9-8 vote of no confidence. Sprent Dabwido is sworn in as the new president. ](/news/2011/11/15/nauru-swears-in-its-third-president-in-less-than-a-week-as-president-freddie-pitcher-in-office-for-just-six-days-is-ousted-in-a-9-8-vote.md)
-_Context: Nauru, Sprent Dabwido, vote of no confidence, President of Nauru, Freddie Pitcher_
+_Context: Freddie Pitcher, Sprent Dabwido, Nauru, vote of no confidence, President of Nauru_
 
 ##### New York Police Department
 ### [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md)

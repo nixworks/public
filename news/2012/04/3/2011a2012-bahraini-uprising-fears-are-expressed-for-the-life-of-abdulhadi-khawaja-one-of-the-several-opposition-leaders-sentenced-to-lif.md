@@ -19,8 +19,8 @@ Thousands of protesters in Mauritania hold demonstrations across the capital, No
 
 ### Changes:
 
-1. [Arab Spring:2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-p2011a2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-sen.md) _2017-08-25 03:35:25 (First version)_
-2. [Arab Spring:: 2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-2011-2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-se.md) _2017-08-27 03:35:34 (Update)_
+1. [Arab Spring:2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-p2011a2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-sen.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: 2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-2011-2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-se.md) _2018-02-06 13:49:23 (Update)_
 2. [2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/2011a2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-sentenced-to-lif.md) _(Current version)_
 
 ### Related:

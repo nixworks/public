@@ -17,8 +17,8 @@ Looting is reported in the capital of the Central African Republic after Preside
 
 ### Changes:
 
-1. [2012-13 Central African Republic conflict:Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012a13-central-african-republic-conflict-prebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-pr.md) _2017-08-25 03:38:00 (First version)_
-2. [2012-13 Central African Republic conflict:: Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012-13-central-african-republic-conflict-rebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-p.md) _2017-08-27 03:38:11 (Update)_
+1. [2012-13 Central African Republic conflict:Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012a13-central-african-republic-conflict-prebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-pr.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-13 Central African Republic conflict:: Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012-13-central-african-republic-conflict-rebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-p.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/rebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-president-franassois-boziza-c-flees-to-the-neighb.md) _(Current version)_
 
 ### Related:

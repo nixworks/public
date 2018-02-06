@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/28/at-least-19-militants-have-been-killed-in-a-pak
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least 19 militants have been killed in a Pakistan Army offensive in North Waziristan. ](/news/2014/06/28/war-in-north-west-pakistan-at-least-19-militants-have-been-killed-in-a-pakistan-army-offensive-in-north-waziristan.md) _2017-08-27 03:40:54 (First version)_
+1. [War in North-West Pakistan: At least 19 militants have been killed in a Pakistan Army offensive in North Waziristan. ](/news/2014/06/28/war-in-north-west-pakistan-at-least-19-militants-have-been-killed-in-a-pakistan-army-offensive-in-north-waziristan.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 19 militants have been killed in a Pakistan Army offensive in North Waziristan. ](/news/2014/06/28/at-least-19-militants-have-been-killed-in-a-pakistan-army-offensive-in-north-waziristan.md) _(Current version)_
 
 ### Related:

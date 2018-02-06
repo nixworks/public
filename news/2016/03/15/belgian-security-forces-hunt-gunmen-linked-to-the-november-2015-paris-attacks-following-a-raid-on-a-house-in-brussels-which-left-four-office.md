@@ -17,7 +17,7 @@ Police in Brussels have shot dead a suspect in an anti-terror operation linked t
 
 ### Changes:
 
-1. [2016 Brussels police raids: Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/2016-brussels-police-raids-belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-bru.md) _2017-08-27 03:45:15 (First version)_
+1. [2016 Brussels police raids: Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/2016-brussels-police-raids-belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-bru.md) _2018-02-06 13:49:28 (First version)_
 1. [Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-brussels-which-left-four-office.md) _(Current version)_
 
 ### Related:

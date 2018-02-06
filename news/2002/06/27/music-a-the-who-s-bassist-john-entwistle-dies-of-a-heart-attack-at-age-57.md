@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/27/music-a-the-who-s-bassist-john-entwistle-dies-o
 
 ### Changes:
 
-1. [ Music - The Who's bassist John Entwistle dies of a heart attack at age 57.](/news/2002/06/27/music-the-who-s-bassist-john-entwistle-dies-of-a-heart-attack-at-age-57.md) _2017-08-27 03:15:13 (First version)_
+1. [ Music - The Who's bassist John Entwistle dies of a heart attack at age 57.](/news/2002/06/27/music-the-who-s-bassist-john-entwistle-dies-of-a-heart-attack-at-age-57.md) _2018-02-06 13:49:15 (First version)_
 1. [ Music - The Who's bassist John Entwistle dies of a heart attack at age 57.](/news/2002/06/27/music-a-the-who-s-bassist-john-entwistle-dies-of-a-heart-attack-at-age-57.md) _(Current version)_
 
 ### Related:

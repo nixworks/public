@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-s
 
 ### Changes:
 
-1. [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011-2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md) _2017-08-27 03:35:03 (First version)_
+1. [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011-2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md) _(Current version)_
 
 ### Related:

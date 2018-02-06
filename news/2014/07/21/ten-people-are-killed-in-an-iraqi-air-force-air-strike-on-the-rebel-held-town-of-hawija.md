@@ -16,7 +16,7 @@ Ten people were killed, including a mother and three children, in a government a
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Ten people are killed in an Iraqi Air Force air strike on the rebel-held town of Hawija. ](/news/2014/07/21/iraqi-insurgency-2011-present-ten-people-are-killed-in-an-iraqi-air-force-air-strike-on-the-rebel-held-town-of-hawija.md) _2017-08-27 03:41:01 (First version)_
+1. [Iraqi insurgency (2011-present): Ten people are killed in an Iraqi Air Force air strike on the rebel-held town of Hawija. ](/news/2014/07/21/iraqi-insurgency-2011-present-ten-people-are-killed-in-an-iraqi-air-force-air-strike-on-the-rebel-held-town-of-hawija.md) _2018-02-06 13:49:26 (First version)_
 1. [Ten people are killed in an Iraqi Air Force air strike on the rebel-held town of Hawija. ](/news/2014/07/21/ten-people-are-killed-in-an-iraqi-air-force-air-strike-on-the-rebel-held-town-of-hawija.md) _(Current version)_
 
 ### Related:

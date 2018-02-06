@@ -15,7 +15,7 @@ National Liberation Front secures majority in national assembly, but loses quart
 
 ### Changes:
 
-1. [Algerian legislative election, 2017: Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/algerian-legislative-election-2017-results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent.md) _2017-08-27 03:48:18 (First version)_
+1. [Algerian legislative election, 2017: Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/algerian-legislative-election-2017-results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent.md) _2018-02-06 13:49:30 (First version)_
 1. [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md) _(Current version)_
 
 ### Related:

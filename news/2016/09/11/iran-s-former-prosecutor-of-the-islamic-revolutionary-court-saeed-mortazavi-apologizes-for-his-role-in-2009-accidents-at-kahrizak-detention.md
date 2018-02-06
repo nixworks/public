@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/11/iran-s-former-prosecutor-of-the-islamic-revolut
 
 ### Changes:
 
-1. [2009-10 Iranian election protests: Iran's former prosecutor of the Islamic Revolutionary Court, Saeed Mortazavi apologizes for his role in 2009 accidents at Kahrizak detention center which resulted in the deaths of three political prisoners including Mohsen Rouholamini. ](/news/2016/09/11/2009-10-iranian-election-protests-iran-s-former-prosecutor-of-the-islamic-revolutionary-court-saeed-mortazavi-apologizes-for-his-role-in.md) _2017-08-27 03:46:49 (First version)_
+1. [2009-10 Iranian election protests: Iran's former prosecutor of the Islamic Revolutionary Court, Saeed Mortazavi apologizes for his role in 2009 accidents at Kahrizak detention center which resulted in the deaths of three political prisoners including Mohsen Rouholamini. ](/news/2016/09/11/2009-10-iranian-election-protests-iran-s-former-prosecutor-of-the-islamic-revolutionary-court-saeed-mortazavi-apologizes-for-his-role-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Iran's former prosecutor of the Islamic Revolutionary Court, Saeed Mortazavi apologizes for his role in 2009 accidents at Kahrizak detention center which resulted in the deaths of three political prisoners including Mohsen Rouholamini. ](/news/2016/09/11/iran-s-former-prosecutor-of-the-islamic-revolutionary-court-saeed-mortazavi-apologizes-for-his-role-in-2009-accidents-at-kahrizak-detention.md) _(Current version)_
 
 ### Related:

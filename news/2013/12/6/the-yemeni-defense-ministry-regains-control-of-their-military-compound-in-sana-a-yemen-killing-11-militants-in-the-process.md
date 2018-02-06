@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-t
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-pthe-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2017-08-25 03:39:38 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2017-08-27 03:39:56 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2018-02-06 13:49:25 (First version)_
+2. [Al-Qaeda insurgency in Yemen:The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-pthe-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2018-02-06 13:49:25 (Update)_
 2. [The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.md) _(Current version)_
 
 ### Related:

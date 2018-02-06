@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second
 
 ### Changes:
 
-1. [Brazilian general election, 2014: Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/brazilian-general-election-2014-voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president.md) _2017-08-27 03:41:26 (First version)_
+1. [Brazilian general election, 2014: Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/brazilian-general-election-2014-voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president-dilma-rousseff-re-elected.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Separatists in Catalonia claim victory in a regional election that they have vow
 
 ### Changes:
 
-1. [Catalonian parliamentary election, 2015: Voters in the Spanish province of Catalonia go to the polls for regional elections with nationalist parties to gain a majority which they claim will allow them to declare independence. ](/news/2015/09/27/catalonian-parliamentary-election-2015-voters-in-the-spanish-province-of-catalonia-go-to-the-polls-for-regional-elections-with-nationalist.md) _2017-08-27 03:43:09 (First version)_
+1. [Catalonian parliamentary election, 2015: Voters in the Spanish province of Catalonia go to the polls for regional elections with nationalist parties to gain a majority which they claim will allow them to declare independence. ](/news/2015/09/27/catalonian-parliamentary-election-2015-voters-in-the-spanish-province-of-catalonia-go-to-the-polls-for-regional-elections-with-nationalist.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in the Spanish province of Catalonia go to the polls for regional elections with nationalist parties to gain a majority which they claim will allow them to declare independence. ](/news/2015/09/27/voters-in-the-spanish-province-of-catalonia-go-to-the-polls-for-regional-elections-with-nationalist-parties-to-gain-a-majority-which-they-cl.md) _(Current version)_
 
 ### Related:

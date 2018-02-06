@@ -18,8 +18,8 @@ Loyalist Syrian forces killed at least 30 army deserters in an ambush on the Dam
 
 ### Changes:
 
-1. [Syrian civil war:Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-psyrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md) _2017-08-25 03:37:50 (First version)_
-2. [Syrian civil war:: Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-syrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md) _2017-08-27 03:38:00 (Update)_
+1. [Syrian civil war:: Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-syrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-psyrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md) _(Current version)_
 
 ### Related:

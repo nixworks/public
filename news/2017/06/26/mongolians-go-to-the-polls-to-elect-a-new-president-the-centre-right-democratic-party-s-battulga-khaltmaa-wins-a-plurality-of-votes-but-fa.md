@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-presi
 
 ### Changes:
 
-1. [Mongolian presidential election, 2017: Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolian-presidential-election-2017-mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-kha.md) _2017-08-27 03:48:33 (First version)_
+1. [Mongolian presidential election, 2017: Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolian-presidential-election-2017-mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-kha.md) _2018-02-06 13:49:30 (First version)_
 1. [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md) _(Current version)_
 
 ### Related:

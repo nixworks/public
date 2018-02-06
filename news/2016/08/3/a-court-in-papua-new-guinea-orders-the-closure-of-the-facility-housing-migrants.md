@@ -16,7 +16,7 @@ Supreme court orders PNG and Australian governments to present a plan for the re
 
 ### Changes:
 
-1. [Manus Island: A court in Papua New Guinea orders the closure of the facility housing migrants. ](/news/2016/08/3/manus-island-a-court-in-papua-new-guinea-orders-the-closure-of-the-facility-housing-migrants.md) _2017-08-27 03:46:36 (First version)_
+1. [Manus Island: A court in Papua New Guinea orders the closure of the facility housing migrants. ](/news/2016/08/3/manus-island-a-court-in-papua-new-guinea-orders-the-closure-of-the-facility-housing-migrants.md) _2018-02-06 13:49:29 (First version)_
 1. [A court in Papua New Guinea orders the closure of the facility housing migrants. ](/news/2016/08/3/a-court-in-papua-new-guinea-orders-the-closure-of-the-facility-housing-migrants.md) _(Current version)_
 
 ### Related:

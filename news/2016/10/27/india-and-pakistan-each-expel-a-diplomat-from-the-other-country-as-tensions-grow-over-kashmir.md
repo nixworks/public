@@ -17,7 +17,7 @@ By Tommy Wilkes and Amjad Ali NEW DELHI/ISLAMABAD (Reuters) - India and Pakistan
 
 ### Changes:
 
-1. [India-Pakistan relations: India and Pakistan each expel a diplomat from the other country as tensions grow over Kashmir. ](/news/2016/10/27/india-pakistan-relations-india-and-pakistan-each-expel-a-diplomat-from-the-other-country-as-tensions-grow-over-kashmir.md) _2017-08-27 03:47:08 (First version)_
+1. [India-Pakistan relations: India and Pakistan each expel a diplomat from the other country as tensions grow over Kashmir. ](/news/2016/10/27/india-pakistan-relations-india-and-pakistan-each-expel-a-diplomat-from-the-other-country-as-tensions-grow-over-kashmir.md) _2018-02-06 13:49:29 (First version)_
 1. [ India and Pakistan each expel a diplomat from the other country as tensions grow over Kashmir. ](/news/2016/10/27/india-and-pakistan-each-expel-a-diplomat-from-the-other-country-as-tensions-grow-over-kashmir.md) _(Current version)_
 
 ### Related:

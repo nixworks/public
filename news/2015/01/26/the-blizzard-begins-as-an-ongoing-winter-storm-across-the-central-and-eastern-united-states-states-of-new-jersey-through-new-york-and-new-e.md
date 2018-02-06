@@ -19,8 +19,8 @@ Watch scenes from across America&#039;s East Coast as Winter Storm Juno causes t
 
 ### Changes:
 
-1. [January 2015 nor'easter The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/january-2015-nor-easter-pthe-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-t.md) _2017-05-25 03:43:27 (First version)_
-2. [January 2015 nor'easter: The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/january-2015-nor-easter-the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-t.md) _2017-08-27 03:41:50 (Update)_
+1. [January 2015 nor'easter: The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/january-2015-nor-easter-the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-t.md) _2018-02-06 13:49:26 (First version)_
+2. [January 2015 nor'easter The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/january-2015-nor-easter-pthe-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-t.md) _2018-02-06 13:49:26 (Update)_
 2. [The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-through-new-york-and-new-e.md) _(Current version)_
 
 ### Related:

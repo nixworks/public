@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/16/the-european-space-agency-roscosmos-operated-sc
 
 ### Changes:
 
-1. [ExoMars project: The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/exomars-project-the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbi.md) _2017-08-27 03:47:04 (First version)_
+1. [ExoMars project: The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/exomars-project-the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbi.md) _2018-02-06 13:49:29 (First version)_
 1. [The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbiter-spacecraft-b.md) _(Current version)_
 
 ### Related:

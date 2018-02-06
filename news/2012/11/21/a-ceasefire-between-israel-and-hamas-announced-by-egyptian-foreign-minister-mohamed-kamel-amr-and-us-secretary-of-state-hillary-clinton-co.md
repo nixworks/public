@@ -22,8 +22,8 @@ Egypt FM makes formal announcement of truce in joint press conference with Clint
 
 ### Changes:
 
-1. [Operation Pillar of Defense:A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/operation-pillar-of-defense-pa-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretary.md) _2017-08-25 03:36:51 (First version)_
-2. [Operation Pillar of Defense:: A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/operation-pillar-of-defense-a-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretar.md) _2017-08-27 03:37:01 (Update)_
+1. [Operation Pillar of Defense:A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/operation-pillar-of-defense-pa-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretary.md) _2018-02-06 13:49:24 (First version)_
+2. [Operation Pillar of Defense:: A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/operation-pillar-of-defense-a-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretar.md) _2018-02-06 13:49:24 (Update)_
 2. [A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/a-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretary-of-state-hillary-clinton-co.md) _(Current version)_
 
 ### Related:

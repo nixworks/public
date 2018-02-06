@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-presid
 
 ### Changes:
 
-1. [ Taha Yassin Ramadan, former Baathist Vice President of Iraq and the ''Ten of Diamonds'' in the most-wanted Iraqi playing cards, is hanged in Baghdad for his role in the Dujail killings. ](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-president-of-iraq-and-the-ten-of-diamonds-in-the-most-wanted-iraqi-playing-cards-is-hanged-i.md) _2017-08-25 03:19:26 (First version)_
+1. [ Taha Yassin Ramadan, former Baathist Vice President of Iraq and the ''Ten of Diamonds'' in the most-wanted Iraqi playing cards, is hanged in Baghdad for his role in the Dujail killings. ](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-president-of-iraq-and-the-ten-of-diamonds-in-the-most-wanted-iraqi-playing-cards-is-hanged-i.md) _2018-02-06 13:49:17 (First version)_
 1. [ Taha Yassin Ramadan, former Baathist Vice President of Iraq and the "Ten of Diamonds" in the most-wanted Iraqi playing cards, is hanged in Baghdad for his role in the Dujail killings. ](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-president-of-iraq-and-the-ten-of-diamonds-in-the-most-wanted-iraqi-playing-cards-is-hanged-in.md) _(Current version)_
 
 ### Related:

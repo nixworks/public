@@ -16,7 +16,7 @@ Israel and the Palestinians begin a fresh five-day ceasefire in Gaza, but immedi
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/2014-israel-gaza-conflict-israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _2017-08-27 03:41:09 (First version)_
+1. [2014 Israel-Gaza conflict: Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/2014-israel-gaza-conflict-israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _(Current version)_
 
 ### Related:

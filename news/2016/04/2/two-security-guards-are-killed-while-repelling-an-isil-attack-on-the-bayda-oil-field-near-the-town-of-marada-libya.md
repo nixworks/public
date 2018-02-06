@@ -16,7 +16,7 @@ Two guards were killed in an attempted attack on an oil field in eastern Libya b
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Two security guards are killed while repelling an ISIL attack on the Bayda oil field, near the town of Marada, Libya. ](/news/2016/04/2/libyan-civil-war-2014-present-two-security-guards-are-killed-while-repelling-an-isil-attack-on-the-bayda-oil-field-near-the-town-of-ma.md) _2017-08-27 03:45:28 (First version)_
+1. [Libyan Civil War (2014-present): Two security guards are killed while repelling an ISIL attack on the Bayda oil field, near the town of Marada, Libya. ](/news/2016/04/2/libyan-civil-war-2014-present-two-security-guards-are-killed-while-repelling-an-isil-attack-on-the-bayda-oil-field-near-the-town-of-ma.md) _2018-02-06 13:49:28 (First version)_
 1. [Two security guards are killed while repelling an ISIL attack on the Bayda oil field, near the town of Marada, Libya. ](/news/2016/04/2/two-security-guards-are-killed-while-repelling-an-isil-attack-on-the-bayda-oil-field-near-the-town-of-marada-libya.md) _(Current version)_
 
 ### Related:

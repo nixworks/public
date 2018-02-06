@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/8/uss-mustin-which-has-surface-to-air-and-tomahawk
 
 ### Changes:
 
-1. [ USS ''Mustin'', which has surface-to-air and Tomahawk cruise missiles is deployed to a Japanese port. This is regularly scheduled and not in response to North Korea's missile test. ](/news/2006/07/8/uss-mustin-which-has-surface-to-air-and-tomahawk-cruise-missiles-is-deployed-to-a-japanese-port-this-is-regularly-scheduled-and-not-i.md) _2017-08-25 03:17:56 (First version)_
+1. [ USS ''Mustin'', which has surface-to-air and Tomahawk cruise missiles is deployed to a Japanese port. This is regularly scheduled and not in response to North Korea's missile test. ](/news/2006/07/8/uss-mustin-which-has-surface-to-air-and-tomahawk-cruise-missiles-is-deployed-to-a-japanese-port-this-is-regularly-scheduled-and-not-i.md) _2018-02-06 13:49:17 (First version)_
 1. [ USS "Mustin", which has surface-to-air and Tomahawk cruise missiles is deployed to a Japanese port. This is regularly scheduled and not in response to North Korea's missile test. ](/news/2006/07/8/uss-mustin-which-has-surface-to-air-and-tomahawk-cruise-missiles-is-deployed-to-a-japanese-port-this-is-regularly-scheduled-and-not-in.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/02/10/north-korea-withdraws-an-invitation-to-a-united
 
 ### Changes:
 
-1. [North Korea-United States relations:North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-united-states-relations-pnorth-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md) _2017-08-25 03:39:59 (First version)_
-2. [North Korea-United States relations:: North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-united-states-relations-north-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md) _2017-08-27 03:40:18 (Update)_
+1. [North Korea-United States relations:North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-united-states-relations-pnorth-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md) _2018-02-06 13:49:25 (First version)_
+2. [North Korea-United States relations:: North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-united-states-relations-north-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md) _2018-02-06 13:49:25 (Update)_
 2. [North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md) _(Current version)_
 
 ### Related:

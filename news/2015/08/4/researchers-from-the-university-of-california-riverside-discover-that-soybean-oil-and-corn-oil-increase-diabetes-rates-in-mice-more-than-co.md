@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/4/researchers-from-the-university-of-california-ri
 
 ### Changes:
 
-1. [Researchers from the University of California, Riverside discover that soybean oil and corn oil increase diabetes rates in mice more than coconut oil and fructose. ](/news/2015/08/4/researchers-from-the-university-of-california-riverside-discover-that-soybean-oil-and-corn-oil-increase-diabetes-rates-in-mice-more-than-c.md) _2017-08-25 03:42:30 (First version)_
+1. [Researchers from the University of California, Riverside discover that soybean oil and corn oil increase diabetes rates in mice more than coconut oil and fructose. ](/news/2015/08/4/researchers-from-the-university-of-california-riverside-discover-that-soybean-oil-and-corn-oil-increase-diabetes-rates-in-mice-more-than-c.md) _2018-02-06 13:49:27 (First version)_
 1. [Researchers from the University of California, Riverside discover that soybean oil and corn oil increase diabetes rates in mice more than coconut oil and fructose. ](/news/2015/08/4/researchers-from-the-university-of-california-riverside-discover-that-soybean-oil-and-corn-oil-increase-diabetes-rates-in-mice-more-than-co.md) _(Current version)_
 
 ### Related:

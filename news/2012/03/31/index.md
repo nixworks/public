@@ -9,7 +9,7 @@ Reports of gunfire near northern garrison town of Gao as Tuareg fighters make ga
 
 ##### Peter O'Neill
 ### [Peter O'Neill, the Prime Minister of Papua New Guinea, orders troops to the resource rich Hela Province following ongoing disruption by illegal miners. ](/news/2012/03/31/peter-o-neill-the-prime-minister-of-papua-new-guinea-orders-troops-to-the-resource-rich-hela-province-following-ongoing-disruption-by-ille.md)
-_Context: Hela Province, Peter O'Neill, Prime Minister_
+_Context: Hela Province, Prime Minister, Peter O'Neill_
 
 ##### Thailand
 ### [At least eight people are killed after three explosions in Thailand's Yala Province. ](/news/2012/03/31/at-least-eight-people-are-killed-after-three-explosions-in-thailand-s-yala-province.md)
@@ -17,23 +17,23 @@ Explosions in southern Thailand have killed at least 10 people, officials say, i
 
 ##### al-Qaeda
 ### [Around 30 people are killed in clashes between the army and suspected Al-Qaeda militants in southern Yemen. ](/news/2012/03/31/around-30-people-are-killed-in-clashes-between-the-army-and-suspected-al-qaeda-militants-in-southern-yemen.md)
-_Context: al-Qaeda, Yemen_
+_Context: Yemen, al-Qaeda_
 
 ##### spire
 ### [The spire of the Shard London Bridge is put in place making the completion of the United Kingdom's and European Union's tallest building a step closer. ](/news/2012/03/31/the-spire-of-the-shard-london-bridge-is-put-in-place-making-the-completion-of-the-united-kingdom-s-and-european-union-s-tallest-building-a-s.md)
-_Context: Shard London Bridge, spire, European Union, British_
+_Context: Shard London Bridge, European Union, United Kingdom, spire_
 
 ##### United States
 ### [The United States' two acting unions, the Screen Actors Guild and American Federation of Television and Radio Artists, agree to merge forming the SAG-AFTRA. ](/news/2012/03/31/the-united-states-two-acting-unions-the-screen-actors-guild-and-american-federation-of-television-and-radio-artists-agree-to-merge-formin.md)
-_Context: Screen Actors Guild, United States, SAG-AFTRA, American Federation of Television and Radio Artists_
+_Context: American Federation of Television and Radio Artists, United States, Screen Actors Guild, SAG-AFTRA_
 
 ##### Irish
 ### [In the Republic of Ireland government figures indicate less than half of the country's households have paid the household charge by today's deadline as thousands of people march on the governing Fine Gael party's annual conference at the Convention Centre Dublin. ](/news/2012/03/31/in-the-republic-of-ireland-government-figures-indicate-less-than-half-of-the-country-s-households-have-paid-the-household-charge-by-today-s.md)
 Thousands gathered outside the National Convention Centre, where Fine Gael&#8217;s Ard-Fheis is taking place this weekend.
 
-##### Turkish
+##### Turkey
 ### [Turkey reduces its purchases of Iranian oil by 20%. ](/news/2012/03/31/turkey-reduces-its-purchases-of-iranian-oil-by-20.md)
-_Context: Iran, Turkish_
+_Context: Iran, Turkey_
 
 ##### Flood
 ### [Floods in Fiji cause at least two deaths and the evacuation of thousands of residents. ](/news/2012/03/31/floods-in-fiji-cause-at-least-two-deaths-and-the-evacuation-of-thousands-of-residents.md)

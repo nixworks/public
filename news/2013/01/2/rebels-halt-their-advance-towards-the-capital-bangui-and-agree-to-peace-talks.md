@@ -17,8 +17,8 @@ Rebels in Central African Republic said they had halted their advance on the cap
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-prebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _2017-08-25 03:37:11 (First version)_
-2. [2012 Central African Republic rebellion:: Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _2017-08-27 03:37:21 (Update)_
+1. [2012 Central African Republic rebellion:: Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-prebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md) _(Current version)_
 
 ### Related:

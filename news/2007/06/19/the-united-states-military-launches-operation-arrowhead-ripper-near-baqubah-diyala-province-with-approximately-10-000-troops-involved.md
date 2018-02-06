@@ -17,8 +17,8 @@ The U.S. military said it had launched a major offensive against al Qaeda north 
 
 ### Changes:
 
-1. [ ''Iraq War:'' The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/iraq-war-p-the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troo.md) _2017-08-25 03:20:00 (First version)_
-2. [ "Iraq War:": The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/iraq-war-the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troops.md) _2017-08-27 03:19:59 (Update)_
+1. [ "Iraq War:": The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/iraq-war-the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troops.md) _2018-02-06 13:49:17 (First version)_
+2. [ ''Iraq War:'' The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/iraq-war-p-the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troo.md) _2018-02-06 13:49:17 (Update)_
 2. [ The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troops-involved.md) _(Current version)_
 
 ### Related:

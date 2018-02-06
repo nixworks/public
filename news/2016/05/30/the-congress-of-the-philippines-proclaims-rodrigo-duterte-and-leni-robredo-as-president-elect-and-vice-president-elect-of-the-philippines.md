@@ -17,7 +17,7 @@ Congress proclaims Rodrigo Duterte as president-elect and Leni Robredo as vice p
 
 ### Changes:
 
-1. [ Philippine presidential election, 2016: The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/philippine-presidential-election-2016-the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-v.md) _2017-08-27 03:46:10 (First version)_
+1. [ Philippine presidential election, 2016: The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/philippine-presidential-election-2016-the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-v.md) _2018-02-06 13:49:29 (First version)_
 1. [ The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-vice-president-elect-of-the-philippines.md) _(Current version)_
 
 ### Related:

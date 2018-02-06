@@ -16,8 +16,8 @@ President Vladimir Putin orders reduction in staff and vows for additional measu
 
 ### Changes:
 
-1. [Russian President Vladimir Putin expels 755 United States diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md) _2017-08-02 07:30:05 (First version)_
-2. [Russia-United States relations: Russian President Vladimir Putin expels 755 U.S. diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russia-united-states-relations-russian-president-vladimir-putin-expels-755-u-s-diplomats-in-response-to-new-sanctions-imposed-by-the-uni.md) _2017-08-27 03:48:44 (Update)_
+1. [Russian President Vladimir Putin expels 755 United States diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md) _2018-02-06 13:49:31 (First version)_
+2. [Russia-United States relations: Russian President Vladimir Putin expels 755 U.S. diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russia-united-states-relations-russian-president-vladimir-putin-expels-755-u-s-diplomats-in-response-to-new-sanctions-imposed-by-the-uni.md) _2018-02-06 13:49:31 (Update)_
 2. [Russian President Vladimir Putin expels 755 U.S. diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-u-s-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-colle
 
 ### Changes:
 
-1. [The Congress of New Caledonia elects a new collegial government with Harold Martin as President of New Caledonia. However, the new government collapses minutes after being formed. ](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-collegial-government-with-harold-martin-as-president-of-new-caledonia-however-the-new-governme.md) _2017-08-25 03:32:24 (First version)_
+1. [The Congress of New Caledonia elects a new collegial government with Harold Martin as President of New Caledonia. However, the new government collapses minutes after being formed. ](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-collegial-government-with-harold-martin-as-president-of-new-caledonia-however-the-new-governme.md) _2018-02-06 13:49:22 (First version)_
 1. [The Congress of New Caledonia elects a new collegial government with Harold Martin as President of New Caledonia. However, the new government collapses minutes after being formed. ](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-collegial-government-with-harold-martin-as-president-of-new-caledonia-however-the-new-governmen.md) _(Current version)_
 
 ### Related:

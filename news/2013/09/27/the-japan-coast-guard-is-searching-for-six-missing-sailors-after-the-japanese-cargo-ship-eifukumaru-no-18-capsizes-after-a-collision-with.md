@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-miss
 
 ### Changes:
 
-1. [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship ''Eifukumaru No.18'' capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-wit.md) _2017-08-25 03:39:20 (First version)_
+1. [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship ''Eifukumaru No.18'' capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-wit.md) _2018-02-06 13:49:25 (First version)_
 1. [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship "Eifukumaru No.18" capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-with.md) _(Current version)_
 
 ### Related:

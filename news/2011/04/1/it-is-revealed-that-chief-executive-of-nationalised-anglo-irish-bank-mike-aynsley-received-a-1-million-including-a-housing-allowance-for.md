@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationali
 
 ### Changes:
 
-1. [It is revealed that chief executive of nationalised Anglo Irish Bank Mike Aynsley received -1 million, including a "housing allowance" for his second home in Australia, while the bank admits billions were squandered last year in the biggest corporate loss in the country's history. ](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationalised-anglo-irish-bank-mike-aynsley-received-1-million-including-a-housing-allowance-for.md) _2017-08-27 03:32:50 (First version)_
+1. [It is revealed that chief executive of nationalised Anglo Irish Bank Mike Aynsley received -1 million, including a "housing allowance" for his second home in Australia, while the bank admits billions were squandered last year in the biggest corporate loss in the country's history. ](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationalised-anglo-irish-bank-mike-aynsley-received-1-million-including-a-housing-allowance-for.md) _2018-02-06 13:49:22 (First version)_
 1. [It is revealed that chief executive of nationalised Anglo Irish Bank Mike Aynsley received EUR1 million, including a "housing allowance" for his second home in Australia, while the bank admits billions were squandered last year in the biggest corporate loss in the country's history. ](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationalised-anglo-irish-bank-mike-aynsley-received-a-1-million-including-a-housing-allowance-for.md) _(Current version)_
 
 ### Related:

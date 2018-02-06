@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/07/14/a-truck-plows-into-a-mass-of-revelers-during-th
 
 ### Changes:
 
-1. [2016 Nice attack: A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/2016-nice-attack-a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with.md) _2017-08-27 03:46:29 (First version)_
+1. [2016 Nice attack: A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/2016-nice-attack-a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with.md) _2018-02-06 13:49:29 (First version)_
 1. [A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with-a-death-toll-as-h.md) _(Current version)_
 
 ### Related:

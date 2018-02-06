@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/10/24/the-week-long-communist-party-congress-in-beiji
 
 ### Changes:
 
-1. [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to increase his grip on power, which may elevate him to the level of party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-increase-his-grip-on-power-whic.md) _2017-10-25 00:30:04 (First version)_
-2. [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to become its most influential leader since party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-become-its-most-influential-lead.md) _2017-10-25 09:30:05 (Update)_
+1. [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to increase his grip on power, which may elevate him to the level of party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-increase-his-grip-on-power-whic.md) _2018-02-06 13:49:31 (First version)_
+2. [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to become its most influential leader since party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-become-its-most-influential-lead.md) _2018-02-06 13:49:31 (Update)_
 2. [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md) _(Current version)_
 
 ### Related:

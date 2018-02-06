@@ -18,7 +18,7 @@ Government says there are fears of widespread destruction and heavy loss of life
 
 ### Changes:
 
-1. [Cyclone Pam: The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency. ](/news/2015/03/15/cyclone-pam-the-government-of-the-island-nation-of-vanuatu-declares-a-state-of-emergency-for-shefa-province-containing-the-capital-port-vil.md) _2017-08-27 03:42:06 (First version)_
+1. [Cyclone Pam: The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency. ](/news/2015/03/15/cyclone-pam-the-government-of-the-island-nation-of-vanuatu-declares-a-state-of-emergency-for-shefa-province-containing-the-capital-port-vil.md) _2018-02-06 13:49:26 (First version)_
 1. [The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency. ](/news/2015/03/15/the-government-of-the-island-nation-of-vanuatu-declares-a-state-of-emergency-for-shefa-province-containing-the-capital-port-vila-as-authorit.md) _(Current version)_
 
 ### Related:

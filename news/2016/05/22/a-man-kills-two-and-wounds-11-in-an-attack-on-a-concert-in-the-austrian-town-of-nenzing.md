@@ -16,7 +16,7 @@ A man has reportedly shot two people dead and wounded 11 people at a concert in 
 
 ### Changes:
 
-1. [ 2016 Nenzing shooting: A man kills two and wounds 11 in an attack on a concert in the Austrian town of Nenzing. ](/news/2016/05/22/2016-nenzing-shooting-a-man-kills-two-and-wounds-11-in-an-attack-on-a-concert-in-the-austrian-town-of-nenzing.md) _2017-08-27 03:46:06 (First version)_
+1. [ 2016 Nenzing shooting: A man kills two and wounds 11 in an attack on a concert in the Austrian town of Nenzing. ](/news/2016/05/22/2016-nenzing-shooting-a-man-kills-two-and-wounds-11-in-an-attack-on-a-concert-in-the-austrian-town-of-nenzing.md) _2018-02-06 13:49:29 (First version)_
 1. [ A man kills two and wounds 11 in an attack on a concert in the Austrian town of Nenzing. ](/news/2016/05/22/a-man-kills-two-and-wounds-11-in-an-attack-on-a-concert-in-the-austrian-town-of-nenzing.md) _(Current version)_
 
 ### Related:

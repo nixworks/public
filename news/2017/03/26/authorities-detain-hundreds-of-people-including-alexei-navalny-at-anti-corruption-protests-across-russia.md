@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/03/26/authorities-detain-hundreds-of-people-including
 
 ### Changes:
 
-1. [2017 Russian protests: Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/2017-russian-protests-authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _2017-08-27 03:48:03 (First version)_
+1. [2017 Russian protests: Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/2017-russian-protests-authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _(Current version)_
 
 ### Related:

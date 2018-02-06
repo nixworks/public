@@ -21,8 +21,8 @@ Prominent Israeli filmmaker and peace activist was the son of a Jewish mother an
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeliapalestinian-conflict-pisraeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _2017-08-25 03:32:44 (First version)_
-2. [Israeli-Palestinian conflict:: Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-palestinian-conflict-israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _2017-08-27 03:32:52 (Update)_
+1. [Israeli-Palestinian conflict:Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeliapalestinian-conflict-pisraeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _2018-02-06 13:49:22 (First version)_
+2. [Israeli-Palestinian conflict:: Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-palestinian-conflict-israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _2018-02-06 13:49:22 (Update)_
 2. [Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md) _(Current version)_
 
 ### Related:

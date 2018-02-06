@@ -17,8 +17,8 @@ Exclusive: Telegraph witnesses Russian armoured vehicles and military trucks cro
 
 ### Changes:
 
-1. [War in Donbass:A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/war-in-donbass-pa-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-fi.md) _2017-08-25 03:40:51 (First version)_
-2. [War in Donbass:: A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/war-in-donbass-a-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-f.md) _2017-08-27 03:41:09 (Update)_
+1. [War in Donbass:A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/war-in-donbass-pa-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-fi.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:: A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/war-in-donbass-a-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-f.md) _2018-02-06 13:49:26 (Update)_
 2. [A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/a-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-first-confirmed-si.md) _(Current version)_
 
 ### Related:

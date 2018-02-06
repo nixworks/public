@@ -16,7 +16,7 @@ SOFIA, Bulgaria (AP) — The Latest on Bulgaria&#x27;s election Sunday: (all tim
 
 ### Changes:
 
-1. [Bulgarian parliamentary election, 2017: Official results of yesterday's election are released today. An exit poll showed the centre-right GERB winning the most votes. ](/news/2017/03/27/bulgarian-parliamentary-election-2017-official-results-of-yesterday-s-election-are-released-today-an-exit-poll-showed-the-centre-right-ge.md) _2017-08-27 03:48:03 (First version)_
+1. [Bulgarian parliamentary election, 2017: Official results of yesterday's election are released today. An exit poll showed the centre-right GERB winning the most votes. ](/news/2017/03/27/bulgarian-parliamentary-election-2017-official-results-of-yesterday-s-election-are-released-today-an-exit-poll-showed-the-centre-right-ge.md) _2018-02-06 13:49:30 (First version)_
 1. [Official results of yesterday's election are released today. An exit poll showed the centre-right GERB winning the most votes. ](/news/2017/03/27/official-results-of-yesterday-s-election-are-released-today-an-exit-poll-showed-the-centre-right-gerb-winning-the-most-votes.md) _(Current version)_
 
 ### Related:

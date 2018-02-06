@@ -16,7 +16,7 @@ The gunman suspected of killing 39 people in an Istanbul nightclub on New Year&#
 
 ### Changes:
 
-1. [2017 Istanbul nightclub shooting: Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/2017-istanbul-nightclub-shooting-abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-peopl.md) _2017-08-27 03:47:48 (First version)_
+1. [2017 Istanbul nightclub shooting: Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/2017-istanbul-nightclub-shooting-abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-peopl.md) _2018-02-06 13:49:30 (First version)_
 1. [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md) _(Current version)_
 
 ### Related:

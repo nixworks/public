@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/9/authorities-in-the-united-kingdom-evacuate-over-
 
 ### Changes:
 
-1. [ Authorities in the United Kingdom evacuate over 20,000 people from the centre of the city of Birmingham, Britain's second largest city. ](/news/2005/07/9/authorities-in-the-united-kingdom-evacuate-over-20-000-people-from-the-centre-of-the-city-of-birmingham-britain-s-second-largest-city.md) _2017-08-25 03:16:30 (First version)_
+1. [ Authorities in the United Kingdom evacuate over 20,000 people from the centre of the city of Birmingham, Britain's second largest city. ](/news/2005/07/9/authorities-in-the-united-kingdom-evacuate-over-20-000-people-from-the-centre-of-the-city-of-birmingham-britain-s-second-largest-city.md) _2018-02-06 13:49:16 (First version)_
 1. [ Authorities in the United Kingdom evacuate over 20,000 people from the centre of the city of Birmingham, Britain's second largest city. [http:--news.bbc.co.uk-1-hi-uk-4668313.stm (BBC)] [http:--www.chicagotribune.com-news-nationworld-sns-ap-bombings-birmingham-evacuation,1,4448879.story?coll=chi-news-hed (Chicago Tribune)] [http:--www.cbc.ca-world-story-2005-07-09-bomb-birmingham-050709.html (CBC)] (Wikinews). ](/news/2005/07/9/authorities-in-the-united-kingdom-evacuate-over-20-000-people-from-the-centre-of-the-city-of-birmingham-britain-s-second-largest-city-ht.md) _(Current version)_
 
 ### Related:

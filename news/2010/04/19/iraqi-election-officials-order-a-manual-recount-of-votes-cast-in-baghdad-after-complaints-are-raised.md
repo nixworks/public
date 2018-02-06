@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/04/19/iraqi-election-officials-order-a-manual-recount
 
 ### Changes:
 
-1. [Iraq:Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraq-piraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md) _2017-08-25 03:27:40 (First version)_
-2. [Iraq:: Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraq-iraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md) _2017-08-27 03:27:37 (Update)_
+1. [Iraq:Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraq-piraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md) _2018-02-06 13:49:19 (First version)_
+2. [Iraq:: Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraq-iraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md) _2018-02-06 13:49:19 (Update)_
 2. [Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md) _(Current version)_
 
 ### Related:

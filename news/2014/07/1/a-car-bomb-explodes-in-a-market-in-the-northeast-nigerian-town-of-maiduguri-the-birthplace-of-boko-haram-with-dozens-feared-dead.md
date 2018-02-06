@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/islamist-insurgency-in-nigeria-a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-w.md) _2017-08-27 03:40:55 (First version)_
+1. [Islamist insurgency in Nigeria: A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/islamist-insurgency-in-nigeria-a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-w.md) _2018-02-06 13:49:26 (First version)_
 1. [A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-with-dozens-feared-dead.md) _(Current version)_
 
 ### Related:

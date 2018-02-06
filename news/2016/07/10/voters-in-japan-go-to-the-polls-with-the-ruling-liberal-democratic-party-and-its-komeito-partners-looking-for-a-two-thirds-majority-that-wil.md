@@ -18,7 +18,7 @@ TV exit polls show Prime Minister Shinzo Abe has won the two-thirds &quot;super 
 
 ### Changes:
 
-1. [Japanese House of Councillors election, 2016: Voters in Japan go to the polls with the ruling Liberal Democratic Party and its Komeito partners looking for a two-thirds majority that will allow them to put forward a referendum to change the constitution. The governing parties won 70 of the 121 seats. ](/news/2016/07/10/japanese-house-of-councillors-election-2016-voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partn.md) _2017-08-27 03:46:28 (First version)_
+1. [Japanese House of Councillors election, 2016: Voters in Japan go to the polls with the ruling Liberal Democratic Party and its Komeito partners looking for a two-thirds majority that will allow them to put forward a referendum to change the constitution. The governing parties won 70 of the 121 seats. ](/news/2016/07/10/japanese-house-of-councillors-election-2016-voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partn.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Japan go to the polls with the ruling Liberal Democratic Party and its Komeito partners looking for a two-thirds majority that will allow them to put forward a referendum to change the constitution. The governing parties won 70 of the 121 seats. ](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.md) _(Current version)_
 
 ### Related:

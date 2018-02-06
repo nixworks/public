@@ -17,7 +17,7 @@ German men convicted on the basis of a 19th century law criminalizing homosexual
 
 ### Changes:
 
-1. [German Justice Minister Heiko Maas says he will propose legislation to annul homosexuality convictions, and create a -right to compensation.- A 19th-century law outlawed sexual relations between men. Homosexuality was decriminalized in 1969, but the law itself was not rescinded until 1994. ](/news/2016/05/11/german-justice-minister-heiko-maas-says-he-will-propose-legislation-to-annul-homosexuality-convictions-and-create-a-right-to-compensatio.md) _2017-08-27 03:46:01 (First version)_
+1. [German Justice Minister Heiko Maas says he will propose legislation to annul homosexuality convictions, and create a -right to compensation.- A 19th-century law outlawed sexual relations between men. Homosexuality was decriminalized in 1969, but the law itself was not rescinded until 1994. ](/news/2016/05/11/german-justice-minister-heiko-maas-says-he-will-propose-legislation-to-annul-homosexuality-convictions-and-create-a-right-to-compensatio.md) _2018-02-06 13:49:29 (First version)_
 1. [German Justice Minister Heiko Maas says he will propose legislation to annul homosexuality convictions, and create a "right to compensation." A 19th-century law outlawed sexual relations between men. Homosexuality was decriminalized in 1969, but the law itself was not rescinded until 1994. ](/news/2016/05/11/german-justice-minister-heiko-maas-says-he-will-propose-legislation-to-annul-homosexuality-convictions-and-create-a-aright-to-compensatio.md) _(Current version)_
 
 ### Related:

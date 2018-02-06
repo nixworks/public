@@ -15,7 +15,7 @@ Prime minister&#39;s office says referendum will be held later this year on quot
 
 ### Changes:
 
-1. [European migrant crisis: The government of Hungary announces it will hold a referendum regarding future European Union quotas for resettling refugees. The vote is expected to be held either in September or October of this year where a turnout of over 50 percent will render it to be valid. ](/news/2016/05/3/european-migrant-crisis-the-government-of-hungary-announces-it-will-hold-a-referendum-regarding-future-european-union-quotas-for-resettling.md) _2017-08-27 03:45:58 (First version)_
+1. [European migrant crisis: The government of Hungary announces it will hold a referendum regarding future European Union quotas for resettling refugees. The vote is expected to be held either in September or October of this year where a turnout of over 50 percent will render it to be valid. ](/news/2016/05/3/european-migrant-crisis-the-government-of-hungary-announces-it-will-hold-a-referendum-regarding-future-european-union-quotas-for-resettling.md) _2018-02-06 13:49:29 (First version)_
 1. [The government of Hungary announces it will hold a referendum regarding future European Union quotas for resettling refugees. The vote is expected to be held either in September or October of this year where a turnout of over 50 percent will render it to be valid. ](/news/2016/05/3/the-government-of-hungary-announces-it-will-hold-a-referendum-regarding-future-european-union-quotas-for-resettling-refugees-the-vote-is-ex.md) _(Current version)_
 
 ### Related:

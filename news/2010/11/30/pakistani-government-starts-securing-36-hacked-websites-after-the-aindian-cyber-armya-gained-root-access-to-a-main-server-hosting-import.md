@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-
 
 ### Changes:
 
-1. [Pakistani government starts securing 36 hacked websites after the -Indian Cyber Army- gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-indian-cyber-army-gained-root-access-to-a-main-server-hosting-import.md) _2017-08-27 03:31:20 (First version)_
+1. [Pakistani government starts securing 36 hacked websites after the -Indian Cyber Army- gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-indian-cyber-army-gained-root-access-to-a-main-server-hosting-import.md) _2018-02-06 13:49:21 (First version)_
 1. [Pakistani government starts securing 36 hacked websites after the 'Indian Cyber Army' gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-aindian-cyber-armya-gained-root-access-to-a-main-server-hosting-import.md) _(Current version)_
 
 ### Related:

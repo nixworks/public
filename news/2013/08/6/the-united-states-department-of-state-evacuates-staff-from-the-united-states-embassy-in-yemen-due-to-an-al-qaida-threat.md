@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/08/6/the-united-states-department-of-state-evacuates-
 
 ### Changes:
 
-1. [2013 embassy closures:The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/2013-embassy-closures-pthe-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-thre.md) _2017-08-25 03:39:06 (First version)_
-2. [2013 embassy closures:: The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/2013-embassy-closures-the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-thr.md) _2017-08-27 03:39:22 (Update)_
+1. [2013 embassy closures:: The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/2013-embassy-closures-the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-thr.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 embassy closures:The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/2013-embassy-closures-pthe-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-thre.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md) _(Current version)_
 
 ### Related:

@@ -49,7 +49,7 @@ Businessman Denis O&#39;Brien has been awarded €150,000 by a jury at the High 
 
 ##### Republican
 ### [Republican Senators filibuster the nomination of Chuck Hagel as US Secretary of Defence. ](/news/2013/02/14/republican-senators-filibuster-the-nomination-of-chuck-hagel-as-us-secretary-of-defence.md)
-_Context: Senator, Chuck Hagel, filibuster, Republican, United States Secretary of Defence_
+_Context: filibuster, Republican, Senator, United States Secretary of Defence, Chuck Hagel_
 
 ##### Large Hadron Collider
 ### [The Large Hadron Collider (LHC) will switch off for two years, giving time for engineers and scientists to install upgrades to the machine. ](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.md)

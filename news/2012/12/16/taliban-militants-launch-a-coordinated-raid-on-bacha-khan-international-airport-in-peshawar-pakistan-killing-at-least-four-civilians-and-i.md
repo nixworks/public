@@ -16,8 +16,8 @@ The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing
 
 ### Changes:
 
-1. [War in North-West Pakistan:Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-ptaliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing-a.md) _2017-08-25 03:37:03 (First version)_
-2. [War in North-West Pakistan:: Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-taliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing.md) _2017-08-27 03:37:13 (Update)_
+1. [War in North-West Pakistan:: Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-taliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-ptaliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing-a.md) _2018-02-06 13:49:24 (Update)_
 2. [Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/taliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing-at-least-four-civilians-and-i.md) _(Current version)_
 
 ### Related:

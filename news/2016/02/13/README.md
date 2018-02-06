@@ -17,7 +17,7 @@ Malian Islamist militant group Ansar Dine said it carried out a suicide and rock
 
 ##### 2016 Taiwan earthquake
 ### [The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. ](/news/2016/02/13/the-death-toll-from-the-earthquake-rises-to-113-with-four-people-still-in-the-rubble-of-the-weiguan-golden-dragon-high-rise-tower-in-tainan.md)
-_Context: 2016 Taiwan earthquake, Tainan_
+_Context: Tainan, 2016 Taiwan earthquake_
 
 ##### Abu Dhabi Plaza
 ### [A huge fire engulfs the under-construction Abu Dhabi Plaza in Astana, Kazakhstan. ](/news/2016/02/13/a-huge-fire-engulfs-the-under-construction-abu-dhabi-plaza-in-astana-kazakhstan.md)

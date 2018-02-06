@@ -16,8 +16,8 @@ Russia-friendly Czech President Milos Zeman won the first round of voting to ret
 
 ### Changes:
 
-1. [With over half of the votes counted, provisional first-round results indicate a second round on 26-27 January between Milos Zeman and runner-up Jiri Drahos. ](/news/2018/01/13/with-over-half-of-the-votes-counted-provisional-first-round-results-indicate-a-second-round-on-26a27-january-between-miloa-zeman-and-run.md) _2018-01-13 17:30:05 (First version)_
-2. [The second round will be held on 26 and 27 January between Milos Zeman and Jiri Drahos. ](/news/2018/01/13/the-second-round-will-be-held-on-26-and-27-january-between-miloa-zeman-and-jiaa-drahoa.md) _2018-01-13 20:30:05 (Update)_
+1. [With over half of the votes counted, provisional first-round results indicate a second round on 26-27 January between Milos Zeman and runner-up Jiri Drahos. ](/news/2018/01/13/with-over-half-of-the-votes-counted-provisional-first-round-results-indicate-a-second-round-on-26a27-january-between-miloa-zeman-and-run.md) _2018-02-06 13:49:31 (First version)_
+2. [The second round will be held on 26 and 27 January between Milos Zeman and Jiri Drahos. ](/news/2018/01/13/the-second-round-will-be-held-on-26-and-27-january-between-miloa-zeman-and-jiaa-drahoa.md) _2018-02-06 13:49:31 (Update)_
 2. [The first round of the presidential election results in a second round that will be held on 26 and 27 January between Milos Zeman and Jiri Drahos. ](/news/2018/01/13/the-first-round-of-the-presidential-election-results-in-a-second-round-that-will-be-held-on-26-and-27-january-between-miloa-zeman-and-jiaa.md) _(Current version)_
 
 ### Related:

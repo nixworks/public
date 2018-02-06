@@ -17,7 +17,7 @@ Pontiff visits Greek island to highlight refugee crisis, telling crowds: ‘We h
 
 ### Changes:
 
-1. [European migrant crisis: Pope Francis arrives on the Greek island of Lesbos. Francis is expected to visit the Moria detention facility, where he will have lunch with some of the 3,060 men, women, and children there. ](/news/2016/04/16/european-migrant-crisis-pope-francis-arrives-on-the-greek-island-of-lesbos-francis-is-expected-to-visit-the-moria-detention-facility-wher.md) _2017-08-27 03:45:38 (First version)_
+1. [European migrant crisis: Pope Francis arrives on the Greek island of Lesbos. Francis is expected to visit the Moria detention facility, where he will have lunch with some of the 3,060 men, women, and children there. ](/news/2016/04/16/european-migrant-crisis-pope-francis-arrives-on-the-greek-island-of-lesbos-francis-is-expected-to-visit-the-moria-detention-facility-wher.md) _2018-02-06 13:49:28 (First version)_
 1. [Pope Francis arrives on the Greek island of Lesbos. Francis is expected to visit the Moria detention facility, where he will have lunch with some of the 3,060 men, women, and children there. ](/news/2016/04/16/pope-francis-arrives-on-the-greek-island-of-lesbos-francis-is-expected-to-visit-the-moria-detention-facility-where-he-will-have-lunch-with.md) _(Current version)_
 
 ### Related:

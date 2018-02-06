@@ -17,7 +17,7 @@ Islamic State fighters tightened their grip on the historic Syrian city of Palmy
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-of-iraq-and-the-levant-islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-ye.md) _2017-08-27 03:42:21 (First version)_
+1. [Islamic State of Iraq and the Levant: Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-of-iraq-and-the-levant-islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-ye.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.md) _(Current version)_
 
 ### Related:

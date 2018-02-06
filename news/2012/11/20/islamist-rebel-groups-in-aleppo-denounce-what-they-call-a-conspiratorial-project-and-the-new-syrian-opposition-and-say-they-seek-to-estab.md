@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/11/20/islamist-rebel-groups-in-aleppo-denounce-what-t
 
 ### Changes:
 
-1. [Syrian civil war:Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/syrian-civil-war-pislamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say.md) _2017-08-25 03:36:50 (First version)_
-2. [Syrian civil war:: Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/syrian-civil-war-islamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say.md) _2017-08-27 03:37:00 (Update)_
+1. [Syrian civil war:Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/syrian-civil-war-pislamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/syrian-civil-war-islamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say.md) _2018-02-06 13:49:24 (Update)_
 2. [Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/islamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say-they-seek-to-estab.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/16/venezuelan-security-forces-raid-a-prison-in-pue
 
 ### Changes:
 
-1. [Crisis in Venezuela: Venezuelan security forces raid a prison in Puerto Ayacucho, Amazonas State, killing at least 37 inmates. Amazonas Governor Liborio Guarulla describes the killings as a "massacre". ](/news/2017/08/16/crisis-in-venezuela-venezuelan-security-forces-raid-a-prison-in-puerto-ayacucho-amazonas-state-killing-at-least-37-inmates-amazonas-gove.md) _2017-08-27 03:48:48 (First version)_
+1. [Crisis in Venezuela: Venezuelan security forces raid a prison in Puerto Ayacucho, Amazonas State, killing at least 37 inmates. Amazonas Governor Liborio Guarulla describes the killings as a "massacre". ](/news/2017/08/16/crisis-in-venezuela-venezuelan-security-forces-raid-a-prison-in-puerto-ayacucho-amazonas-state-killing-at-least-37-inmates-amazonas-gove.md) _2018-02-06 13:49:31 (First version)_
 1. [Venezuelan security forces raid a prison in Puerto Ayacucho, Amazonas State, killing at least 37 inmates. Amazonas Governor Liborio Guarulla describes the killings as a "massacre". ](/news/2017/08/16/venezuelan-security-forces-raid-a-prison-in-puerto-ayacucho-amazonas-state-killing-at-least-37-inmates-amazonas-governor-liborio-guarulla.md) _(Current version)_
 
 ### Related:

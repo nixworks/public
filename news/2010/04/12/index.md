@@ -9,7 +9,7 @@ Voters head to polls for second day as opposition calls for elections to be exte
 
 ##### Hungarian Civic Union
 ### [The centre-right Hungarian Civic Union (Fidesz) wins all 119 individual seats in the first round of Hungary's parliamentary elections. Their total of 206 seats gives them an outright majority in the National Assembly, with 121 seats still in play in the second round on April 25.The left-wing Hungarian Socialist Party (MSZP) wins 28 regional seats, while the far-right Jobbik (Movement for a Better Hungary) wins 26 regional seats. The remaining five seats went to the green party Politics Can Be Different (LMP). ](/news/2010/04/12/the-centre-right-hungarian-civic-union-fidesz-wins-all-119-individual-seats-in-the-first-round-of-hungary-s-parliamentary-elections-their.md)
-_Context: Hungary, Jobbik, National Assembly, Hungarian Civic Union, Politics Can Be Different, 2010 parliamentary elections, Hungarian Socialist Party_
+_Context: National Assembly, Hungarian Civic Union, Jobbik, 2010 parliamentary elections, Politics Can Be Different, Hungary, Hungarian Socialist Party_
 
 ##### Northern Ireland
 ### [A car bomb explodes shortly after midnight near Northern Ireland's MI5 headquarters in Holywood, County Down, blowing an elderly man off his feet and sending him to hospital. ](/news/2010/04/12/a-car-bomb-explodes-shortly-after-midnight-near-northern-ireland-s-mi5-headquarters-in-holywood-county-down-blowing-an-elderly-man-off-his.md)
@@ -33,15 +33,15 @@ An attack that killed as many as five people infuriated leaders in Kandahar befo
 
 ##### Nuclear Security Summit
 ### [U.S. President Barack Obama opens the summit of 47 countries, the purpose of which is to discuss nuclear security, in particular how to keep nuclear weapons out of the hands of potential terrorists. ](/news/2010/04/12/u-s-president-barack-obama-opens-the-summit-of-47-countries-the-purpose-of-which-is-to-discuss-nuclear-security-in-particular-how-to-keep.md)
-_Context: Nuclear Security Summit, terrorists, Barack Obama_
+_Context: terrorists, Nuclear Security Summit, Barack Obama_
 
 ##### Labour Party
 ### [The Labour party launches its manifesto, which states that it will halve the budget deficit within four years through a mixture of spending restraint and tax increases, mainly for the higher paid, that failing police forces will be taken over by successful ones, that every primary-school child who needs it will get one-to-one tuition and that there will be no switch to the euro without a referendum. ](/news/2010/04/12/the-labour-party-launches-its-manifesto-which-states-that-it-will-halve-the-budget-deficit-within-four-years-through-a-mixture-of-spending.md)
-_Context: manifesto, Labour Party_
+_Context: Labour Party, manifesto_
 
 ##### The Washington Post
 ### ["The Washington Post" wins four awards at the 2010 Pulitzer Prizes. ](/news/2010/04/12/the-washington-post-wins-four-awards-at-the-2010-pulitzer-prizes.md)
-_Context: The Washington Post, 2010 Pulitzer Prize_
+_Context: 2010 Pulitzer Prize, The Washington Post_
 
 ##### homosexual
 ### [Homosexuality is to blame for paedophilia, according to Vatican Secretary of State and the Pope's Deputy, Cardinal Tarcisio Bertone, speaking today at a news conference in Chile. ](/news/2010/04/12/homosexuality-is-to-blame-for-paedophilia-according-to-vatican-secretary-of-state-and-the-pope-s-deputy-cardinal-tarcisio-bertone-speakin.md)
@@ -57,11 +57,11 @@ _Context: Russia, Moscow, Eduard Chuvashov_
 
 ##### Labour Party
 ### [Three former Labour Party MPs&nbsp;- David Chaytor, Elliot Morley and Jim Devine&nbsp;- face criminal charges over their expenses win the right to have their legal fees paid for by the taxpayer. ](/news/2010/04/12/three-former-labour-party-mps-nbsp-a-david-chaytor-elliot-morley-and-jim-devine-nbsp-a-face-criminal-charges-over-their-expenses-win-th.md)
-_Context: Labour Party, Elliot Morley, Jim Devine, David Chaytor_
+_Context: Labour Party, Jim Devine, Elliot Morley, David Chaytor_
 
 ##### World Trade Organization
 ### [The World Trade Organization overturns Australia's ban on importing New Zealand apples, which had been in place since 1919. ](/news/2010/04/12/the-world-trade-organization-overturns-australia-s-ban-on-importing-new-zealand-apples-which-had-been-in-place-since-1919.md)
-_Context: World Trade Organization, Australia, New Zealand_
+_Context: New Zealand, World Trade Organization, Australia_
 
 ##### Cayman Trough
 ### [The world's deepest undersea volcanic vents are discovered in the Cayman Trough in the Caribbean. ](/news/2010/04/12/the-world-s-deepest-undersea-volcanic-vents-are-discovered-in-the-cayman-trough-in-the-caribbean.md)
@@ -81,11 +81,11 @@ _Context: 2010 Chile earthquake_
 
 ##### Manchester City
 ### [Manchester City and Togo striker Emmanuel Adebayor announces his retirement from international football at the age of 26, saying he is "still haunted" by the Togo national football team attack which killed three of his colleagues in Angola ahead of the 2010 Africa Cup of Nations three months ago. ](/news/2010/04/12/manchester-city-and-togo-striker-emmanuel-adebayor-announces-his-retirement-from-international-football-at-the-age-of-26-saying-he-is-stil.md)
-_Context: Angola, 2010 Africa Cup of Nations, Togo national football team, Togo national football team attack, Manchester City, Emmanuel Adebayor_
+_Context: Angola, 2010 Africa Cup of Nations, Emmanuel Adebayor, Manchester City, Togo national football team, Togo national football team attack_
 
 ##### Thierry Henry
 ### [Thierry Henry, the footballer involved in a notorious handball controversy in the France vs Republic of Ireland 2010 FIFA World Cup play-off in November 2009, is not assured of playing for his team in the 2010 FIFA World Cup, according to his manager Raymond Domenech on French television show "Canal Football Club". ](/news/2010/04/12/thierry-henry-the-footballer-involved-in-a-notorious-handball-controversy-in-the-france-vs-republic-of-ireland-2010-fifa-world-cup-play-off.md)
-_Context: Thierry Henry, Controversial, Raymond Domenech, 2010 FIFA World Cup_
+_Context: 2010 FIFA World Cup, Controversial, Thierry Henry, Raymond Domenech_
 
 ##### Tiger Woods
 ### [Tiger Woods announces he will take more time off from golf after finishing fourth in the 2010 Masters Tournament. ](/news/2010/04/12/tiger-woods-announces-he-will-take-more-time-off-from-golf-after-finishing-fourth-in-the-2010-masters-tournament.md)

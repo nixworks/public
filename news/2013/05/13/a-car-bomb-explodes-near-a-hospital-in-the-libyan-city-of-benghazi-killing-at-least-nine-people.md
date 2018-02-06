@@ -16,8 +16,8 @@ A car bomb explosion near a hospital in the Libyan city of Benghazi kills and in
 
 ### Changes:
 
-1. [Aftermath of the Libyan civil war:A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/aftermath-of-the-libyan-civil-war-pa-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md) _2017-08-25 03:38:39 (First version)_
-2. [Aftermath of the Libyan civil war:: A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/aftermath-of-the-libyan-civil-war-a-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md) _2017-08-27 03:38:52 (Update)_
+1. [Aftermath of the Libyan civil war:A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/aftermath-of-the-libyan-civil-war-pa-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Aftermath of the Libyan civil war:: A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/aftermath-of-the-libyan-civil-war-a-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md) _2018-02-06 13:49:24 (Update)_
 2. [A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/a-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md) _(Current version)_
 
 ### Related:

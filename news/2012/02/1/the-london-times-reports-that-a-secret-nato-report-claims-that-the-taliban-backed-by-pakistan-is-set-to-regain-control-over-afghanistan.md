@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-repo
 
 ### Changes:
 
-1. [The London ''Times'' reports that a secret NATO report claims that the Taliban, backed by Pakistan, is set to regain control over Afghanistan after international forces withdraw from the country. ](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-report-claims-that-the-taliban-backed-by-pakistan-is-set-to-regain-control-over-afghanista.md) _2017-08-25 03:34:56 (First version)_
+1. [The London ''Times'' reports that a secret NATO report claims that the Taliban, backed by Pakistan, is set to regain control over Afghanistan after international forces withdraw from the country. ](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-report-claims-that-the-taliban-backed-by-pakistan-is-set-to-regain-control-over-afghanista.md) _2018-02-06 13:49:23 (First version)_
 1. [The London "Times" reports that a secret NATO report claims that the Taliban, backed by Pakistan, is set to regain control over Afghanistan after international forces withdraw from the country. ](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-report-claims-that-the-taliban-backed-by-pakistan-is-set-to-regain-control-over-afghanistan.md) _(Current version)_
 
 ### Related:

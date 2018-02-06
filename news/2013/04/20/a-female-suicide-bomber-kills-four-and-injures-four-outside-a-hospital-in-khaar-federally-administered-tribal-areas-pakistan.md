@@ -16,8 +16,8 @@ A woman suicide bomber today detonated a bomb outside a hospital in a lawless tr
 
 ### Changes:
 
-1. [War in North-West Pakistan:A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-pa-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal-a.md) _2017-08-25 03:38:25 (First version)_
-2. [War in North-West Pakistan:: A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-a-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal.md) _2017-08-27 03:38:38 (Update)_
+1. [War in North-West Pakistan:A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-pa-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal-a.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-a-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal.md) _2018-02-06 13:49:24 (Update)_
 2. [A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/a-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal-areas-pakistan.md) _(Current version)_
 
 ### Related:

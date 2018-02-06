@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/02/26/gunmen-kill-seven-guards-guarding-a-marketplace
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-pgunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _2017-08-25 03:37:39 (First version)_
-2. [Nigerian Sharia conflict:: Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _2017-08-27 03:37:49 (Update)_
+1. [Nigerian Sharia conflict:Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-pgunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Vietnamese port authorities confirmed that early Monday morning a cargo ship tra
 
 ### Changes:
 
-1. [The Singaporean container ship ''Sima Sapphire'' collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-n.md) _2017-08-25 03:39:17 (First version)_
+1. [The Singaporean container ship ''Sima Sapphire'' collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-n.md) _2018-02-06 13:49:25 (First version)_
 1. [The Singaporean container ship "Sima Sapphire" collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.md) _(Current version)_
 
 ### Related:

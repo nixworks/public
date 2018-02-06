@@ -15,7 +15,7 @@ Authorities pull back riot police in part of the capital and say that an amnesty
 
 ### Changes:
 
-1. [Anti-government protesters in Ukraine end a two-month occupation of Kiev-s city hall, following an amnesty offer aimed at easing a standoff over President Viktor Yanukovych-s rule. ](/news/2014/02/16/anti-government-protesters-in-ukraine-end-a-two-month-occupation-of-kiev-s-city-hall-following-an-amnesty-offer-aimed-at-easing-a-standof.md) _2017-08-27 03:40:20 (First version)_
+1. [Anti-government protesters in Ukraine end a two-month occupation of Kiev-s city hall, following an amnesty offer aimed at easing a standoff over President Viktor Yanukovych-s rule. ](/news/2014/02/16/anti-government-protesters-in-ukraine-end-a-two-month-occupation-of-kiev-s-city-hall-following-an-amnesty-offer-aimed-at-easing-a-standof.md) _2018-02-06 13:49:25 (First version)_
 1. [Anti-government protesters in Ukraine end a two-month occupation of Kiev's city hall, following an amnesty offer aimed at easing a standoff over President Viktor Yanukovych's rule. ](/news/2014/02/16/anti-government-protesters-in-ukraine-end-a-two-month-occupation-of-kievas-city-hall-following-an-amnesty-offer-aimed-at-easing-a-standof.md) _(Current version)_
 
 ### Related:

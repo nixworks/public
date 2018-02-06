@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dicta
 
 ### Changes:
 
-1. [2011 Libyan civil war:Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-pautopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2017-08-25 03:34:21 (First version)_
-2. [2011 Libyan civil war:: Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2017-08-27 03:34:30 (Update)_
+1. [2011 Libyan civil war:Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-pautopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2018-02-06 13:49:22 (Update)_
 2. [Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _(Current version)_
 
 ### Related:

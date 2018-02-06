@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-prot
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011-2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md) _2017-08-27 03:35:45 (First version)_
+1. [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011-2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md) _(Current version)_
 
 ### Related:

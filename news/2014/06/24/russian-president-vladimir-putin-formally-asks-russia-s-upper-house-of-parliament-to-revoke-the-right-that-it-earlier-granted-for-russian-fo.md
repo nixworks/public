@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/06/24/russian-president-vladimir-putin-formally-asks-
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Russian President Vladimir Putin formally asks Russia's upper house of parliament to revoke the right that it earlier granted for Russian forces to intervene militarily in Ukraine in defense of Russian-speakers there. ](/news/2014/06/24/2014-pro-russian-conflict-in-ukraine-russian-president-vladimir-putin-formally-asks-russia-s-upper-house-of-parliament-to-revoke-the-right.md) _2017-08-27 03:40:53 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Russian President Vladimir Putin formally asks Russia's upper house of parliament to revoke the right that it earlier granted for Russian forces to intervene militarily in Ukraine in defense of Russian-speakers there. ](/news/2014/06/24/2014-pro-russian-conflict-in-ukraine-russian-president-vladimir-putin-formally-asks-russia-s-upper-house-of-parliament-to-revoke-the-right.md) _2018-02-06 13:49:26 (First version)_
 1. [Russian President Vladimir Putin formally asks Russia's upper house of parliament to revoke the right that it earlier granted for Russian forces to intervene militarily in Ukraine in defense of Russian-speakers there. ](/news/2014/06/24/russian-president-vladimir-putin-formally-asks-russia-s-upper-house-of-parliament-to-revoke-the-right-that-it-earlier-granted-for-russian-fo.md) _(Current version)_
 
 ### Related:

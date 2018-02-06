@@ -19,8 +19,8 @@ Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusiv
 
 ### Changes:
 
-1. [Syrian civil war:Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/syrian-civil-war-pban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md) _2017-08-25 03:38:58 (First version)_
-2. [Syrian civil war:: Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/syrian-civil-war-ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md) _2017-08-27 03:39:13 (Update)_
+1. [Syrian civil war:Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/syrian-civil-war-pban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/syrian-civil-war-ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md) _2018-02-06 13:49:25 (Update)_
 2. [Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md) _(Current version)_
 
 ### Related:

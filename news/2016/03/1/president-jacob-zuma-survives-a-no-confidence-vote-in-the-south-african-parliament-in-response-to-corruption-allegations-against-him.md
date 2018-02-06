@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/1/president-jacob-zuma-survives-a-no-confidence-vo
 
 ### Changes:
 
-1. [Corruption in South Africa: President Jacob Zuma survives a no-confidence vote in the South African Parliament in response to corruption allegations against him. ](/news/2016/03/1/corruption-in-south-africa-president-jacob-zuma-survives-a-no-confidence-vote-in-the-south-african-parliament-in-response-to-corruption-all.md) _2017-08-27 03:45:05 (First version)_
+1. [Corruption in South Africa: President Jacob Zuma survives a no-confidence vote in the South African Parliament in response to corruption allegations against him. ](/news/2016/03/1/corruption-in-south-africa-president-jacob-zuma-survives-a-no-confidence-vote-in-the-south-african-parliament-in-response-to-corruption-all.md) _2018-02-06 13:49:28 (First version)_
 1. [President Jacob Zuma survives a no-confidence vote in the South African Parliament in response to corruption allegations against him. ](/news/2016/03/1/president-jacob-zuma-survives-a-no-confidence-vote-in-the-south-african-parliament-in-response-to-corruption-allegations-against-him.md) _(Current version)_
 
 ### Related:

@@ -15,9 +15,9 @@ Formats: [HTML](/news/2008/08/30/russia-announces-that-south-ossetia-will-join-o
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' [http:--www.timesonline.co.uk-tol-news-world-europe-article4635843.ece (The Times)].](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state-http-www-timesonline-co-uk-tol-news-wo.md) _2017-06-18 03:23:14 (First version)_
-2. [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md) _2017-08-25 03:22:47 (Update)_
-3. [ 2008 South Ossetia war:: Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md) _2017-08-27 03:22:40 (Update)_
+1. [ 2008 South Ossetia war:: Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md) _2018-02-06 13:49:18 (Update)_
+3. [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' [http:--www.timesonline.co.uk-tol-news-world-europe-article4635843.ece (The Times)].](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state-http-www-timesonline-co-uk-tol-news-wo.md) _2018-02-06 13:49:18 (Update)_
 3. [ Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/russia-announces-that-south-ossetia-will-join-one-united-russian-state.md) _(Current version)_
 
 ### Related:

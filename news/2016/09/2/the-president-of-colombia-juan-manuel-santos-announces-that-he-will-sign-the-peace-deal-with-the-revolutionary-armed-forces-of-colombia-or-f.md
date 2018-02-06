@@ -16,7 +16,7 @@ BOGOTA, Colombia (AP) — President Juan Manuel Santos announced on Friday that 
 
 ### Changes:
 
-1. [Colombian conflict: The President of Colombia Juan Manuel Santos announces that he will sign the peace deal with the Revolutionary Armed Forces of Colombia or FARC on September 26. ](/news/2016/09/2/colombian-conflict-the-president-of-colombia-juan-manuel-santos-announces-that-he-will-sign-the-peace-deal-with-the-revolutionary-armed-for.md) _2017-08-27 03:46:45 (First version)_
+1. [Colombian conflict: The President of Colombia Juan Manuel Santos announces that he will sign the peace deal with the Revolutionary Armed Forces of Colombia or FARC on September 26. ](/news/2016/09/2/colombian-conflict-the-president-of-colombia-juan-manuel-santos-announces-that-he-will-sign-the-peace-deal-with-the-revolutionary-armed-for.md) _2018-02-06 13:49:29 (First version)_
 1. [The President of Colombia Juan Manuel Santos announces that he will sign the peace deal with the Revolutionary Armed Forces of Colombia or FARC on September 26. ](/news/2016/09/2/the-president-of-colombia-juan-manuel-santos-announces-that-he-will-sign-the-peace-deal-with-the-revolutionary-armed-forces-of-colombia-or-f.md) _(Current version)_
 
 ### Related:

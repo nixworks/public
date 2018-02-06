@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/07/4/abhisit-vejjajiva-the-outgoing-prime-minister-of
 
 ### Changes:
 
-1. [Thai general election:Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-pabhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a-h.md) _2017-08-25 03:33:40 (First version)_
-2. [Thai general election:: Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a.md) _2017-08-27 03:33:48 (Update)_
+1. [Thai general election:Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-pabhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a-h.md) _2018-02-06 13:49:22 (First version)_
+2. [Thai general election:: Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a.md) _2018-02-06 13:49:22 (Update)_
 2. [Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a-heavy-defeat-in-yesterda.md) _(Current version)_
 
 ### Related:

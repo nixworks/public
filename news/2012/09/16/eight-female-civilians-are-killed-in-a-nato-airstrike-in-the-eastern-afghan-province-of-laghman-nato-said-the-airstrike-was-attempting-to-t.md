@@ -18,8 +18,8 @@ At least eight women have died in an air strike in the eastern Afghan province o
 
 ### Changes:
 
-1. [War in Afghanistan:Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/war-in-afghanistan-peight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrike.md) _2017-08-25 03:36:31 (First version)_
-2. [War in Afghanistan:: Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/war-in-afghanistan-eight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrik.md) _2017-08-27 03:36:42 (Update)_
+1. [War in Afghanistan:Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/war-in-afghanistan-peight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrike.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/war-in-afghanistan-eight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrik.md) _2018-02-06 13:49:23 (Update)_
 2. [Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/eight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrike-was-attempting-to-t.md) _(Current version)_
 
 ### Related:

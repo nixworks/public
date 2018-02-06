@@ -19,7 +19,7 @@ CLEVELAND - Maryland and Maine appeared poised to become the first states in the
 
 ### Changes:
 
-1. [United States elections, 2012: Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/united-states-elections-2012-voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage.md) _2017-08-27 03:36:57 (First version)_
+1. [United States elections, 2012: Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/united-states-elections-2012-voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage.md) _2018-02-06 13:49:24 (First version)_
 1. [Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage-while-minnesota-votes-down-an-a.md) _(Current version)_
 
 ### Related:

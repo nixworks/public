@@ -17,7 +17,7 @@ Israeli Interior Minister Silvan Shalom, the subject of sexual harassment allega
 
 ### Changes:
 
-1. [Israeli Vice Prime Minister Silvan Shalom (Likud party) resigns because of allegations he sexually harassed several women during his career. Israel's attorney general has started an investigation of Shalom, who also resigned his Interior Minister position and Knesset seat. ](/news/2015/12/21/israeli-vice-prime-minister-silvan-shalom-likud-party-resigns-because-of-allegations-he-sexually-harassed-several-women-during-his-caree.md) _2017-08-25 03:44:06 (First version)_
+1. [Israeli Vice Prime Minister Silvan Shalom (Likud party) resigns because of allegations he sexually harassed several women during his career. Israel's attorney general has started an investigation of Shalom, who also resigned his Interior Minister position and Knesset seat. ](/news/2015/12/21/israeli-vice-prime-minister-silvan-shalom-likud-party-resigns-because-of-allegations-he-sexually-harassed-several-women-during-his-caree.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli Vice Prime Minister Silvan Shalom (Likud party) resigns because of allegations he sexually harassed several women during his career. Israel's attorney general has started an investigation of Shalom, who also resigned his Interior Minister position and Knesset seat. ](/news/2015/12/21/israeli-vice-prime-minister-silvan-shalom-likud-party-resigns-because-of-allegations-he-sexually-harassed-several-women-during-his-career.md) _(Current version)_
 
 ### Related:

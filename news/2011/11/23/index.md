@@ -17,11 +17,11 @@ _Context: United States, Russia, Treaty on Conventional Armed Forces in Europe_
 
 ##### Syrian President
 ### [In a warning to Syrian President Bashar al-Assad to step down, Turkish Prime Minister Recep Tayyip Erdogan calls al-Assad's ongoing crackdown on protests cowardice, comparing al-Assad to past dictators such as Adolf Hitler and Muammar Gaddafi. ](/news/2011/11/23/in-a-warning-to-syrian-president-bashar-al-assad-to-step-down-turkish-prime-minister-recep-tayyip-erdoaan-calls-al-assad-s-ongoing-crackdo.md)
-_Context: Turkish Prime Minister, Syrian President, 2011 Syrian uprising, Adolf Hitler, Muammar Gaddafi, Recep Tayyip Erdogan, Bashar al-Assad_
+_Context: Adolf Hitler, Syrian President, 2011 Syrian uprising, Recep Tayyip Erdogan, Turkish Prime Minister, Bashar al-Assad, Muammar Gaddafi_
 
 ##### European Space Agency
 ### [The European Space Agency claims to have made contact with Russia's stranded Fobos-Grunt probe, two days after the closure of the spacecraft's window for launch to Mars. ](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.md)
-_Context: European Space Agency, Fobos-Grunt, Mars, Russia_
+_Context: Fobos-Grunt, Russia, Mars, European Space Agency_
 
 ## [Previous Day...](/news/2011/11/22/index.md)
 

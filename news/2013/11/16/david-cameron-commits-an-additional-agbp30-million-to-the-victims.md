@@ -16,8 +16,8 @@ The British government will give an extra £30m in emergency aid - a total of £
 
 ### Changes:
 
-1. [Typhoon Haiyan:David Cameron commits an additional PS30 million to the victims. ](/news/2013/11/16/typhoon-haiyan-pdavid-cameron-commits-an-additional-aps30-million-to-the-victims.md) _2017-08-25 03:39:32 (First version)_
-2. [Typhoon Haiyan:: David Cameron commits an additional GBP30 million to the victims. ](/news/2013/11/16/typhoon-haiyan-david-cameron-commits-an-additional-agbp30-million-to-the-victims.md) _2017-08-27 03:39:50 (Update)_
+1. [Typhoon Haiyan:David Cameron commits an additional PS30 million to the victims. ](/news/2013/11/16/typhoon-haiyan-pdavid-cameron-commits-an-additional-aps30-million-to-the-victims.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: David Cameron commits an additional GBP30 million to the victims. ](/news/2013/11/16/typhoon-haiyan-david-cameron-commits-an-additional-agbp30-million-to-the-victims.md) _2018-02-06 13:49:25 (Update)_
 2. [David Cameron commits an additional GBP30 million to the victims. ](/news/2013/11/16/david-cameron-commits-an-additional-agbp30-million-to-the-victims.md) _(Current version)_
 
 ### Related:

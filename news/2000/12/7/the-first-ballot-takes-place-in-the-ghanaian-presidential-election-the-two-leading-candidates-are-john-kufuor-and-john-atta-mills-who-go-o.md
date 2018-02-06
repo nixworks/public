@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/12/7/the-first-ballot-takes-place-in-the-ghanaian-pre
 
 ### Changes:
 
-1. [The first ballot takes place in the Ghanaian presidential election. The two leading candidates are John Kufuor and John Atta-Mills, who go on to the second ballot.](/news/2000/12/7/the-first-ballot-takes-place-in-the-ghanaian-presidential-election-the-two-leading-candidates-are-john-kufuor-and-john-atta-mills-who-go.md) _2017-08-25 03:15:09 (First version)_
+1. [The first ballot takes place in the Ghanaian presidential election. The two leading candidates are John Kufuor and John Atta-Mills, who go on to the second ballot.](/news/2000/12/7/the-first-ballot-takes-place-in-the-ghanaian-presidential-election-the-two-leading-candidates-are-john-kufuor-and-john-atta-mills-who-go.md) _2018-02-06 13:49:15 (First version)_
 1. [The first ballot takes place in the Ghanaian presidential election. The two leading candidates are John Kufuor and John Atta-Mills, who go on to the second ballot.](/news/2000/12/7/the-first-ballot-takes-place-in-the-ghanaian-presidential-election-the-two-leading-candidates-are-john-kufuor-and-john-atta-mills-who-go-o.md) _(Current version)_
 
 ### Related:

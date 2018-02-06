@@ -17,7 +17,7 @@ Police officers sickened by fumes from explosions at an Arkema SA chemical plant
 
 ### Changes:
 
-1. [ Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environm.md) _2017-09-08 09:30:05 (First version)_
+1. [ Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environm.md) _2018-02-06 13:49:31 (First version)_
 1. [Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven people, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environme.md) _(Current version)_
 
 ### Related:

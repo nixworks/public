@@ -16,8 +16,8 @@ Separatist rebels take Ukrainian military bases in the eastern region of Luhansk
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine:Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-pseparatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-rebe.md) _2017-08-25 03:40:30 (First version)_
-2. [2014 pro-Russian conflict in Ukraine:: Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-reb.md) _2017-08-27 03:40:47 (Update)_
+1. [2014 pro-Russian conflict in Ukraine:: Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-reb.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian conflict in Ukraine:Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-pseparatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-rebe.md) _2018-02-06 13:49:26 (Update)_
 2. [Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-rebel-held-town-of-sloviansk.md) _(Current version)_
 
 ### Related:

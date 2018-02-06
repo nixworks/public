@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/08/18/insurgents-kill-4-us-troops-in-an-ied-explosion
 
 ### Changes:
 
-1. [ Conflict in Iraq: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _2017-08-25 03:16:41 (First version)_
-2. [ Conflict in Iraq:: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _2017-08-27 03:16:43 (Update)_
+1. [ Conflict in Iraq: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _2018-02-06 13:49:16 (Update)_
 2. [ Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _(Current version)_
 
 ### Related:

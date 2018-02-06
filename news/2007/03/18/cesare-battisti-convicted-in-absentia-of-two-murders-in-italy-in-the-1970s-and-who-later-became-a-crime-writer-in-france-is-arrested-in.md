@@ -16,7 +16,7 @@ Accused of killings in his native Italy, militant 1970s leftist Cesare Battisti 
 
 ### Changes:
 
-1. [ Cesare Battisti, convicted ''in absentia'' of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested.md) _2017-08-25 03:19:25 (First version)_
+1. [ Cesare Battisti, convicted ''in absentia'' of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested.md) _2018-02-06 13:49:17 (First version)_
 1. [ Cesare Battisti, convicted "in absentia" of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested-in.md) _(Current version)_
 
 ### Related:

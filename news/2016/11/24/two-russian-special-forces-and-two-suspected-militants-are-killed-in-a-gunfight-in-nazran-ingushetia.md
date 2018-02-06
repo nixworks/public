@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/24/two-russian-special-forces-and-two-suspected-mi
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: Ingushetia insurgency: Two Russian special forces and two suspected militants are killed in a gunfight in Nazran, Ingushetia. ](/news/2016/11/24/insurgency-in-the-north-caucasus-ingushetia-insurgency-two-russian-special-forces-and-two-suspected-militants-are-killed-in-a-gunfight-in.md) _2017-08-27 03:47:17 (First version)_
+1. [Insurgency in the North Caucasus: Ingushetia insurgency: Two Russian special forces and two suspected militants are killed in a gunfight in Nazran, Ingushetia. ](/news/2016/11/24/insurgency-in-the-north-caucasus-ingushetia-insurgency-two-russian-special-forces-and-two-suspected-militants-are-killed-in-a-gunfight-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Two Russian special forces and two suspected militants are killed in a gunfight in Nazran, Ingushetia. ](/news/2016/11/24/two-russian-special-forces-and-two-suspected-militants-are-killed-in-a-gunfight-in-nazran-ingushetia.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/27/the-general-assembly-of-the-united-nations-pass
 
 ### Changes:
 
-1. [2014 Crimean crisis:The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/2014-crimean-crisis-pthe-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md) _2017-08-25 03:40:13 (First version)_
-2. [2014 Crimean crisis:: The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/2014-crimean-crisis-the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md) _2017-08-27 03:40:31 (Update)_
+1. [2014 Crimean crisis:: The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/2014-crimean-crisis-the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/2014-crimean-crisis-pthe-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md) _2018-02-06 13:49:26 (Update)_
 2. [The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ Greek MPs begin voting on a motion of confidence as the government battles to wi
 
 ### Changes:
 
-1. [European sovereign debt crisis:Greece:The Greek parliament holds a vote of confidence in government cuts associated with a new EUR12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/european-sovereign-debt-crisis-pgreece-pthe-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-a-12-billi.md) _2017-08-25 03:33:32 (First version)_
-2. [European sovereign debt crisis:: Greece:: The Greek parliament holds a vote of confidence in government cuts associated with a new -12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/european-sovereign-debt-crisis-greece-the-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-12-bil.md) _2017-08-27 03:33:39 (Update)_
+1. [European sovereign debt crisis:Greece:The Greek parliament holds a vote of confidence in government cuts associated with a new EUR12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/european-sovereign-debt-crisis-pgreece-pthe-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-a-12-billi.md) _2018-02-06 13:49:22 (First version)_
+2. [European sovereign debt crisis:: Greece:: The Greek parliament holds a vote of confidence in government cuts associated with a new -12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/european-sovereign-debt-crisis-greece-the-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-12-bil.md) _2018-02-06 13:49:22 (Update)_
 2. [Greece:The Greek parliament holds a vote of confidence in government cuts associated with a new EUR12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/greece-the-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-a-12-billion-loan-from-the-european-union-a.md) _(Current version)_
 
 ### Related:

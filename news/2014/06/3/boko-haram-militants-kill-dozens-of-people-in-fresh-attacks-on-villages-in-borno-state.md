@@ -16,8 +16,8 @@ Suspected Boko Haram militants. some disguised as soldiers, kill dozens of Niger
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Boko Haram militants kill dozens of people in fresh attacks on villages in Borno state. ](/news/2014/06/3/islamist-insurgency-in-nigeria-pboko-haram-militants-kill-dozens-of-people-in-fresh-attacks-on-villages-in-borno-state.md) _2017-08-25 03:40:30 (First version)_
-2. [Islamist insurgency in Nigeria:: Boko Haram militants kill dozens of people in fresh attacks on villages in Borno state. ](/news/2014/06/3/islamist-insurgency-in-nigeria-boko-haram-militants-kill-dozens-of-people-in-fresh-attacks-on-villages-in-borno-state.md) _2017-08-27 03:40:47 (Update)_
+1. [Islamist insurgency in Nigeria:Boko Haram militants kill dozens of people in fresh attacks on villages in Borno state. ](/news/2014/06/3/islamist-insurgency-in-nigeria-pboko-haram-militants-kill-dozens-of-people-in-fresh-attacks-on-villages-in-borno-state.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram militants kill dozens of people in fresh attacks on villages in Borno state. ](/news/2014/06/3/islamist-insurgency-in-nigeria-boko-haram-militants-kill-dozens-of-people-in-fresh-attacks-on-villages-in-borno-state.md) _2018-02-06 13:49:26 (Update)_
 2. [Boko Haram militants kill dozens of people in fresh attacks on villages in Borno state. ](/news/2014/06/3/boko-haram-militants-kill-dozens-of-people-in-fresh-attacks-on-villages-in-borno-state.md) _(Current version)_
 
 ### Related:

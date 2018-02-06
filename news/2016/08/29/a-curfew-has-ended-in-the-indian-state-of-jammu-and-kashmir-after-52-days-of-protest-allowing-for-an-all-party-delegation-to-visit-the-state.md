@@ -16,7 +16,7 @@ For the first time in 52 days, cur the first time in 52 days, curfew was lifted 
 
 ### Changes:
 
-1. [2016 Kashmir unrest: A curfew has ended in the Indian state of Jammu and Kashmir after 52 days of protest allowing for an all-party delegation to visit the state on Sunday. ](/news/2016/08/29/2016-kashmir-unrest-a-curfew-has-ended-in-the-indian-state-of-jammu-and-kashmir-after-52-days-of-protest-allowing-for-an-all-party-delegati.md) _2017-08-27 03:46:44 (First version)_
+1. [2016 Kashmir unrest: A curfew has ended in the Indian state of Jammu and Kashmir after 52 days of protest allowing for an all-party delegation to visit the state on Sunday. ](/news/2016/08/29/2016-kashmir-unrest-a-curfew-has-ended-in-the-indian-state-of-jammu-and-kashmir-after-52-days-of-protest-allowing-for-an-all-party-delegati.md) _2018-02-06 13:49:29 (First version)_
 1. [A curfew has ended in the Indian state of Jammu and Kashmir after 52 days of protest allowing for an all-party delegation to visit the state on Sunday. ](/news/2016/08/29/a-curfew-has-ended-in-the-indian-state-of-jammu-and-kashmir-after-52-days-of-protest-allowing-for-an-all-party-delegation-to-visit-the-state.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Syrian security forces killed 52 people across the country on Tuesday as troops 
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011-2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md) _2017-08-27 03:35:02 (First version)_
+1. [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011-2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011a2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md) _(Current version)_
 
 ### Related:

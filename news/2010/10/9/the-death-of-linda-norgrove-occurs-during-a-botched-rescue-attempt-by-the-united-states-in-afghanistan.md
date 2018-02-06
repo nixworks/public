@@ -17,8 +17,8 @@ David Cameron defends a failed rescue attempt by US forces in Afghanistan during
 
 ### Changes:
 
-1. [Death of Linda Norgrove:The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-pthe-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _2017-08-25 03:30:26 (First version)_
-2. [Death of Linda Norgrove:: The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _2017-08-27 03:30:32 (Update)_
+1. [Death of Linda Norgrove:: The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _2018-02-06 13:49:21 (First version)_
+2. [Death of Linda Norgrove:The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-pthe-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _2018-02-06 13:49:21 (Update)_
 2. [The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _(Current version)_
 
 ### Related:

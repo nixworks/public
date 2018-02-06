@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-ta
 
 ### Changes:
 
-1. [Eberhard van der Laan the Mayor of Amsterdam takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been-di.md) _2017-09-18 16:30:06 (First version)_
+1. [Eberhard van der Laan the Mayor of Amsterdam takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been-di.md) _2018-02-06 13:49:31 (First version)_
 1. [Eberhard van der Laan, the mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md) _(Current version)_
 
 ### Related:

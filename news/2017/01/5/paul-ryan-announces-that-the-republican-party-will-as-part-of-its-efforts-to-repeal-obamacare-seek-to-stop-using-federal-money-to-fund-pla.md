@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-wi
 
 ### Changes:
 
-1. [Obamacare repeal efforts: Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/obamacare-repeal-efforts-paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using.md) _2017-08-27 03:47:34 (First version)_
+1. [Obamacare repeal efforts: Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/obamacare-repeal-efforts-paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using.md) _2018-02-06 13:49:30 (First version)_
 1. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Two passenger trains collided in Switzerland early Monday evening, leaving sever
 
 ### Changes:
 
-1. [Two passenger trains collide in the Swiss municipality of Granges-pres-Marnand near Lausanne resulting in dozens of injuries including four serious injuries. ](/news/2013/07/29/two-passenger-trains-collide-in-the-swiss-municipality-of-granges-pra-s-marnand-near-lausanne-resulting-in-dozens-of-injuries-including-fou.md) _2017-08-25 03:39:03 (First version)_
+1. [Two passenger trains collide in the Swiss municipality of Granges-pres-Marnand near Lausanne resulting in dozens of injuries including four serious injuries. ](/news/2013/07/29/two-passenger-trains-collide-in-the-swiss-municipality-of-granges-pra-s-marnand-near-lausanne-resulting-in-dozens-of-injuries-including-fou.md) _2018-02-06 13:49:25 (First version)_
 1. [Two passenger trains collide in the Swiss municipality of Granges-pres-Marnand near Lausanne resulting in dozens of injuries including four serious injuries. ](/news/2013/07/29/two-passenger-trains-collide-in-the-swiss-municipality-of-granges-pra-s-marnand-near-lausanne-resulting-in-dozens-of-injuries-including-four.md) _(Current version)_
 
 ### Related:

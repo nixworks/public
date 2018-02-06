@@ -18,7 +18,7 @@ One person was killed and 108 were hurt after a crowded train slammed into a bus
 
 ### Changes:
 
-1. [2016 Hoboken train crash: A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/2016-hoboken-train-crash-a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-majo.md) _2017-08-27 03:46:55 (First version)_
+1. [2016 Hoboken train crash: A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/2016-hoboken-train-crash-a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-majo.md) _2018-02-06 13:49:29 (First version)_
 1. [A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-major-structural-damage-occurs.md) _(Current version)_
 
 ### Related:

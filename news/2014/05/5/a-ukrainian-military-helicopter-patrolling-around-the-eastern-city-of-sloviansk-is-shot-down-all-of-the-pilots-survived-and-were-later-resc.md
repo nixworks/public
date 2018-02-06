@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/05/5/a-ukrainian-military-helicopter-patrolling-aroun
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine and the A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued. ](/news/2014/05/5/2014-pro-russian-unrest-in-ukraine-and-the-a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all.md) _2017-08-25 03:40:22 (First version)_
+1. [2014 pro-Russian unrest in Ukraine and the A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued. ](/news/2014/05/5/2014-pro-russian-unrest-in-ukraine-and-the-a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all.md) _2018-02-06 13:49:26 (First version)_
 1. [A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued. ](/news/2014/05/5/a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all-of-the-pilots-survived-and-were-later-resc.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ French national, 26, has been on the run since November’s attacks in French ca
 
 ### Changes:
 
-1. [2016 Brussels police raids: Salah Abdeslam, the alleged suspect and primary perpetrator of the November 2015 Paris attacks is shot and arrested by Belgian authorities in a Brussels raid. ](/news/2016/03/18/2016-brussels-police-raids-salah-abdeslam-the-alleged-suspect-and-primary-perpetrator-of-the-november-2015-paris-attacks-is-shot-and-arres.md) _2017-08-27 03:45:17 (First version)_
+1. [2016 Brussels police raids: Salah Abdeslam, the alleged suspect and primary perpetrator of the November 2015 Paris attacks is shot and arrested by Belgian authorities in a Brussels raid. ](/news/2016/03/18/2016-brussels-police-raids-salah-abdeslam-the-alleged-suspect-and-primary-perpetrator-of-the-november-2015-paris-attacks-is-shot-and-arres.md) _2018-02-06 13:49:28 (First version)_
 1. [Salah Abdeslam, the alleged suspect and primary perpetrator of the November 2015 Paris attacks is shot and arrested by Belgian authorities in a Brussels raid. ](/news/2016/03/18/salah-abdeslam-the-alleged-suspect-and-primary-perpetrator-of-the-november-2015-paris-attacks-is-shot-and-arrested-by-belgian-authorities-i.md) _(Current version)_
 
 ### Related:

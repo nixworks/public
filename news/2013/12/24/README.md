@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/24/index.html)  [JSON](2013/12/24/index.json)  [XML](201
 
 ##### huge explosion
 ### [A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura-killing-16-and-injuring-at-least-134.md)
-_Context: Nile Delta, huge explosion, Dakahlia, Mansoura_
+_Context: Mansoura, huge explosion, Nile Delta, Dakahlia_
 
 ##### United Nations
 ### [The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-and-two-other-mass-graves-have-been-repo.md)
@@ -17,17 +17,17 @@ The deaths of an Israeli laborer and a Palestinian toddler were the latest in a 
 
 ##### New People's Army
 ### [The New People's Army, the armed branch of the Communist Party of the Philippines, torches 3 taxis in Panabo, Davao del Norte, just before a Christmas 'truce'. ](/news/2013/12/24/the-new-people-s-army-the-armed-branch-of-the-communist-party-of-the-philippines-torches-3-taxis-in-panabo-davao-del-norte-just-before-a.md)
-_Context: Christmas, Davao del Norte, New People's Army, Panabo, Communist_
+_Context: Christmas, Communist, Panabo, Davao del Norte, New People's Army_
 
 ##### Pope Francis
 ### [Pope Francis visits Pope Emeritus Benedict XVI before celebrating his first Christmas Mass. ](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.md)
-_Context: Pope Benedict XVI, Christmas, Pope Francis_
+_Context: Pope Francis, Christmas, Pope Benedict XVI_
 
 ##### American Express
 ### [American Express is ordered to pay US$75.7 million in restitution and fines to customers and federal regulators over billing people for services they never received. ](/news/2013/12/24/american-express-is-ordered-to-pay-us-75-7-million-in-restitution-and-fines-to-customers-and-federal-regulators-over-billing-people-for-serv.md)
 _Context: American Express_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom pledges US$1 billion for the Philippines to help with the reconstruction due to the destruction of Typhoon Haiyan. ](/news/2013/12/24/the-united-kingdom-pledges-us-1-billion-for-the-philippines-to-help-with-the-reconstruction-due-to-the-destruction-of-typhoon-haiyan.md)
 The United Kingdom yesterday pledged an additional P1.091 billion, increasing its total contribution to over P5.4 billion to start the long-term recovery and restoration of livelihood and buildings destroyed by Super Typhoon Yolanda (Haiyan). 
 

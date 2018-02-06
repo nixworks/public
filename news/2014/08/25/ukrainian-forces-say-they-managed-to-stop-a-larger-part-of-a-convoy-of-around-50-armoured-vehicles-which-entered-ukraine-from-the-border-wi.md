@@ -16,8 +16,8 @@ The Ukrainian military said on Monday a group of Russian forces, in the guise of
 
 ### Changes:
 
-1. [War in Donbass:Ukrainian forces say they managed to stop a larger part of a convoy of around 50 armoured vehicles, which entered Ukraine from the border with Russia near Novoazovsk. ](/news/2014/08/25/war-in-donbass-pukrainian-forces-say-they-managed-to-stop-a-larger-part-of-a-convoy-of-around-50-armoured-vehicles-which-entered-ukraine-fr.md) _2017-08-25 03:40:53 (First version)_
-2. [War in Donbass:: Ukrainian forces say they managed to stop a larger part of a convoy of around 50 armoured vehicles, which entered Ukraine from the border with Russia near Novoazovsk. ](/news/2014/08/25/war-in-donbass-ukrainian-forces-say-they-managed-to-stop-a-larger-part-of-a-convoy-of-around-50-armoured-vehicles-which-entered-ukraine-f.md) _2017-08-27 03:41:12 (Update)_
+1. [War in Donbass:: Ukrainian forces say they managed to stop a larger part of a convoy of around 50 armoured vehicles, which entered Ukraine from the border with Russia near Novoazovsk. ](/news/2014/08/25/war-in-donbass-ukrainian-forces-say-they-managed-to-stop-a-larger-part-of-a-convoy-of-around-50-armoured-vehicles-which-entered-ukraine-f.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:Ukrainian forces say they managed to stop a larger part of a convoy of around 50 armoured vehicles, which entered Ukraine from the border with Russia near Novoazovsk. ](/news/2014/08/25/war-in-donbass-pukrainian-forces-say-they-managed-to-stop-a-larger-part-of-a-convoy-of-around-50-armoured-vehicles-which-entered-ukraine-fr.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian forces say they managed to stop a larger part of a convoy of around 50 armoured vehicles, which entered Ukraine from the border with Russia near Novoazovsk. ](/news/2014/08/25/ukrainian-forces-say-they-managed-to-stop-a-larger-part-of-a-convoy-of-around-50-armoured-vehicles-which-entered-ukraine-from-the-border-wi.md) _(Current version)_
 
 ### Related:

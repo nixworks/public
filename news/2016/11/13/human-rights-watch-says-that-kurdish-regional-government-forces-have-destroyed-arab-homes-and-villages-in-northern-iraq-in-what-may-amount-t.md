@@ -17,7 +17,7 @@ Iraqi Kurdish fighters battling Islamic State in northern Iraq unlawfully destro
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Human Rights Watch says that Kurdish Regional Government forces have destroyed Arab homes and villages in northern Iraq in what may amount to a war crime. ](/news/2016/11/13/iraqi-civil-war-2014-present-human-rights-watch-says-that-kurdish-regional-government-forces-have-destroyed-arab-homes-and-villages-in.md) _2017-08-27 03:47:13 (First version)_
+1. [Iraqi Civil War (2014-present): Human Rights Watch says that Kurdish Regional Government forces have destroyed Arab homes and villages in northern Iraq in what may amount to a war crime. ](/news/2016/11/13/iraqi-civil-war-2014-present-human-rights-watch-says-that-kurdish-regional-government-forces-have-destroyed-arab-homes-and-villages-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Human Rights Watch says that Kurdish Regional Government forces have destroyed Arab homes and villages in northern Iraq in what may amount to a war crime. ](/news/2016/11/13/human-rights-watch-says-that-kurdish-regional-government-forces-have-destroyed-arab-homes-and-villages-in-northern-iraq-in-what-may-amount-t.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The official had dropped charges against two soldiers accused of plotting agains
 
 ### Changes:
 
-1. [Politics of Zimbabwe: Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/politics-of-zimbabwe-zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _2017-08-27 03:48:27 (First version)_
+1. [Politics of Zimbabwe: Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/politics-of-zimbabwe-zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _2018-02-06 13:49:30 (First version)_
 1. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _(Current version)_
 
 ### Related:

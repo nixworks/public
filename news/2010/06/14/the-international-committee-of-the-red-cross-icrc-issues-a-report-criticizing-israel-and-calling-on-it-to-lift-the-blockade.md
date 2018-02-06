@@ -22,8 +22,8 @@ Israel has been forced to the defence of an alleged Mossad spy who has been arre
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/israeliapalestinian-conflict-pthe-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to.md) _2017-08-25 03:28:16 (First version)_
-2. [Israeli-Palestinian conflict:: The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/israeli-palestinian-conflict-the-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to.md) _2017-08-27 03:28:15 (Update)_
+1. [Israeli-Palestinian conflict:The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/israeliapalestinian-conflict-pthe-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/israeli-palestinian-conflict-the-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to.md) _2018-02-06 13:49:20 (Update)_
 2. [The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/the-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to-lift-the-blockade.md) _(Current version)_
 
 ### Related:

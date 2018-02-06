@@ -16,7 +16,7 @@ United Nations condemns killing and wounding of hundreds based on ethnic origins
 
 ### Changes:
 
-1. [South Sudan conflict: The UN condemns the "Targeted Killings" and wounding of hundreds of civilians based on their ethnic origins in the town of Bentiu after South Sudanese rebels seized the oil hub last week. ](/news/2014/04/21/south-sudan-conflict-the-un-condemns-the-targeted-killings-and-wounding-of-hundreds-of-civilians-based-on-their-ethnic-origins-in-the-tow.md) _2017-08-27 03:40:37 (First version)_
+1. [South Sudan conflict: The UN condemns the "Targeted Killings" and wounding of hundreds of civilians based on their ethnic origins in the town of Bentiu after South Sudanese rebels seized the oil hub last week. ](/news/2014/04/21/south-sudan-conflict-the-un-condemns-the-targeted-killings-and-wounding-of-hundreds-of-civilians-based-on-their-ethnic-origins-in-the-tow.md) _2018-02-06 13:49:26 (First version)_
 1. [The UN condemns the "Targeted Killings" and wounding of hundreds of civilians based on their ethnic origins in the town of Bentiu after South Sudanese rebels seized the oil hub last week. ](/news/2014/04/21/the-un-condemns-the-targeted-killings-and-wounding-of-hundreds-of-civilians-based-on-their-ethnic-origins-in-the-town-of-bentiu-after-sout.md) _(Current version)_
 
 ### Related:

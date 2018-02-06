@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/21/president-elect-donald-trump-names-carl-icahn-a
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/presidential-transition-of-donald-trump-president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory.md) _2017-08-27 03:47:29 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/presidential-transition-of-donald-trump-president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory.md) _2018-02-06 13:49:30 (First version)_
 1. [President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory-reform.md) _(Current version)_
 
 ### Related:

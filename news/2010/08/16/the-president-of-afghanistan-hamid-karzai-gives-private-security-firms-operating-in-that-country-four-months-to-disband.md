@@ -21,8 +21,8 @@ Afghan President Hamid Karzai will give private security firms operating in the 
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/war-in-afghanistan-2001apresent-pthe-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four-m.md) _2017-08-25 03:29:29 (First version)_
-2. [War in Afghanistan (2001-present):: The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/war-in-afghanistan-2001-present-the-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four.md) _2017-08-27 03:29:31 (Update)_
+1. [War in Afghanistan (2001-present):The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/war-in-afghanistan-2001apresent-pthe-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four-m.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Afghanistan (2001-present):: The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/war-in-afghanistan-2001-present-the-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four.md) _2018-02-06 13:49:20 (Update)_
 2. [The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/the-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four-months-to-disband.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/11/at-least-11-people-are-killed-after-a-grenade-i
 
 ### Changes:
 
-1. [War in North-West Pakistan:At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-pat-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _2017-08-25 03:40:00 (First version)_
-2. [War in North-West Pakistan:: At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-at-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _2017-08-27 03:40:18 (Update)_
+1. [War in North-West Pakistan:At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-pat-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-at-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/at-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md) _(Current version)_
 
 ### Related:

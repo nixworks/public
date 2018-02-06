@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-
 
 ### Changes:
 
-1. [Battle of Mosul (2016-17): Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/battle-of-mosul-2016-17-iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-mili.md) _2017-08-27 03:47:36 (First version)_
+1. [Battle of Mosul (2016-17): Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/battle-of-mosul-2016-17-iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-mili.md) _2018-02-06 13:49:30 (First version)_
 1. [Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-militants.md) _(Current version)_
 
 ### Related:

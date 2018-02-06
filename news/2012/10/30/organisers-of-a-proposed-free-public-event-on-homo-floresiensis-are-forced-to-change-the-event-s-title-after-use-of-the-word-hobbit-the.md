@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/30/organisers-of-a-proposed-free-public-event-on-h
 
 ### Changes:
 
-1. [Organisers of a proposed free public event on ''Homo floresiensis'' are forced to change the event's title after use of the word "hobbit", the creature's nickname, is forbidden by the representatives of the Tolkien Estate. ](/news/2012/10/30/organisers-of-a-proposed-free-public-event-on-homo-floresiensis-are-forced-to-change-the-event-s-title-after-use-of-the-word-hobbit-t.md) _2017-08-25 03:36:45 (First version)_
+1. [Organisers of a proposed free public event on ''Homo floresiensis'' are forced to change the event's title after use of the word "hobbit", the creature's nickname, is forbidden by the representatives of the Tolkien Estate. ](/news/2012/10/30/organisers-of-a-proposed-free-public-event-on-homo-floresiensis-are-forced-to-change-the-event-s-title-after-use-of-the-word-hobbit-t.md) _2018-02-06 13:49:24 (First version)_
 1. [Organisers of a proposed free public event on "Homo floresiensis" are forced to change the event's title after use of the word "hobbit", the creature's nickname, is forbidden by the representatives of the Tolkien Estate. ](/news/2012/10/30/organisers-of-a-proposed-free-public-event-on-homo-floresiensis-are-forced-to-change-the-event-s-title-after-use-of-the-word-hobbit-the.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ An accident between a train and an off-road military lorry in the southern coast
 
 ### Changes:
 
-1. [Four people (three conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. ](/news/2017/10/26/four-people-three-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-with-an-off.md) _2017-10-26 16:30:05 (First version)_
+1. [Four people (three conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. ](/news/2017/10/26/four-people-three-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-with-an-off.md) _2018-02-06 13:49:31 (First version)_
 1. [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military truck in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md) _(Current version)_
 
 ### Related:

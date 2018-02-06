@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/3/isil-claims-responsibility-for-the-killing-of-a-
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIL claims responsibility for the killing of a 65-year-old Japanese citizen in Bangladesh. This attack comes after the recent murder of an Italian, Cesare Tavella, in Bangladesh, which was also claimed by ISIL. ](/news/2015/10/3/islamic-state-of-iraq-and-the-levant-isil-claims-responsibility-for-the-killing-of-a-65-year-old-japanese-citizen-in-bangladesh-this-attac.md) _2017-08-27 03:43:13 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIL claims responsibility for the killing of a 65-year-old Japanese citizen in Bangladesh. This attack comes after the recent murder of an Italian, Cesare Tavella, in Bangladesh, which was also claimed by ISIL. ](/news/2015/10/3/islamic-state-of-iraq-and-the-levant-isil-claims-responsibility-for-the-killing-of-a-65-year-old-japanese-citizen-in-bangladesh-this-attac.md) _2018-02-06 13:49:28 (First version)_
 1. [ISIL claims responsibility for the killing of a 65-year-old Japanese citizen in Bangladesh. This attack comes after the recent murder of an Italian, Cesare Tavella, in Bangladesh, which was also claimed by ISIL. ](/news/2015/10/3/isil-claims-responsibility-for-the-killing-of-a-65-year-old-japanese-citizen-in-bangladesh-this-attack-comes-after-the-recent-murder-of-an.md) _(Current version)_
 
 ### Related:

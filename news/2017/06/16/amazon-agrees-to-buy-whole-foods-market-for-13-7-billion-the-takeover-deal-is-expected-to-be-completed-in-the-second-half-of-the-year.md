@@ -16,7 +16,7 @@ The deal marks the biggest push yet by Amazon into traditional bricks and mortar
 
 ### Changes:
 
-1. [Whole Foods Market: Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/whole-foods-market-amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-h.md) _2017-08-27 03:48:29 (First version)_
+1. [Whole Foods Market: Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/whole-foods-market-amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-h.md) _2018-02-06 13:49:30 (First version)_
 1. [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md) _(Current version)_
 
 ### Related:

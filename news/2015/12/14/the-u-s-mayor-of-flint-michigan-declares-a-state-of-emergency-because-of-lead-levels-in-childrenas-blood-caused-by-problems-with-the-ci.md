@@ -17,7 +17,7 @@ Michigan city asks for more federal help while it deals with the fallout from wa
 
 ### Changes:
 
-1. [The U.S. mayor of Flint, Michigan, declares a state of emergency because of lead levels in children-s blood caused by problems with the city's water system. ](/news/2015/12/14/the-u-s-mayor-of-flint-michigan-declares-a-state-of-emergency-because-of-lead-levels-in-children-s-blood-caused-by-problems-with-the-ci.md) _2017-08-27 03:44:21 (First version)_
+1. [The U.S. mayor of Flint, Michigan, declares a state of emergency because of lead levels in children-s blood caused by problems with the city's water system. ](/news/2015/12/14/the-u-s-mayor-of-flint-michigan-declares-a-state-of-emergency-because-of-lead-levels-in-children-s-blood-caused-by-problems-with-the-ci.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. mayor of Flint, Michigan, declares a state of emergency because of lead levels in children's blood caused by problems with the city's water system. ](/news/2015/12/14/the-u-s-mayor-of-flint-michigan-declares-a-state-of-emergency-because-of-lead-levels-in-childrenas-blood-caused-by-problems-with-the-ci.md) _(Current version)_
 
 ### Related:

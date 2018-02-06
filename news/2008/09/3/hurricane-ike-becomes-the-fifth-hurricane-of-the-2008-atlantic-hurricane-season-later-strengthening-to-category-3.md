@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/3/hurricane-ike-becomes-the-fifth-hurricane-of-the
 
 ### Changes:
 
-1. [ 2008 Atlantic hurricane season: Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/2008-atlantic-hurricane-season-p-hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-ca.md) _2017-08-25 03:22:48 (First version)_
-2. [ 2008 Atlantic hurricane season:: Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/2008-atlantic-hurricane-season-hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-ca.md) _2017-08-27 03:22:41 (Update)_
+1. [ 2008 Atlantic hurricane season: Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/2008-atlantic-hurricane-season-p-hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-ca.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Atlantic hurricane season:: Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/2008-atlantic-hurricane-season-hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-ca.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-category-3.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Justice Eric Leach said the sprinter &quot;never offered an acceptable explanati
 
 ### Changes:
 
-1. [Trial of Oscar Pistorius: A court convicts South African athlete Oscar Pistorius of the murder of girlfriend Reeva Steenkamp on appeal and faces a minimum of 15 years in prison. ](/news/2015/12/3/trial-of-oscar-pistorius-a-court-convicts-south-african-athlete-oscar-pistorius-of-the-murder-of-girlfriend-reeva-steenkamp-on-appeal-and-f.md) _2017-08-27 03:44:10 (First version)_
+1. [Trial of Oscar Pistorius: A court convicts South African athlete Oscar Pistorius of the murder of girlfriend Reeva Steenkamp on appeal and faces a minimum of 15 years in prison. ](/news/2015/12/3/trial-of-oscar-pistorius-a-court-convicts-south-african-athlete-oscar-pistorius-of-the-murder-of-girlfriend-reeva-steenkamp-on-appeal-and-f.md) _2018-02-06 13:49:28 (First version)_
 1. [A court convicts South African athlete Oscar Pistorius of the murder of girlfriend Reeva Steenkamp on appeal and faces a minimum of 15 years in prison. ](/news/2015/12/3/a-court-convicts-south-african-athlete-oscar-pistorius-of-the-murder-of-girlfriend-reeva-steenkamp-on-appeal-and-faces-a-minimum-of-15-years.md) _(Current version)_
 
 ### Related:

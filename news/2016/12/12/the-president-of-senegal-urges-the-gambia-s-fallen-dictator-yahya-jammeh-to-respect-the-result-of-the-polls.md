@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/12/the-president-of-senegal-urges-the-gambia-s-fal
 
 ### Changes:
 
-1. [Gambian presidential election, 2016: The president of Senegal urges The Gambia's fallen dictator Yahya Jammeh to respect the result of the polls. ](/news/2016/12/12/gambian-presidential-election-2016-the-president-of-senegal-urges-the-gambia-s-fallen-dictator-yahya-jammeh-to-respect-the-result-of-the-p.md) _2017-08-27 03:47:25 (First version)_
+1. [Gambian presidential election, 2016: The president of Senegal urges The Gambia's fallen dictator Yahya Jammeh to respect the result of the polls. ](/news/2016/12/12/gambian-presidential-election-2016-the-president-of-senegal-urges-the-gambia-s-fallen-dictator-yahya-jammeh-to-respect-the-result-of-the-p.md) _2018-02-06 13:49:29 (First version)_
 1. [The president of Senegal urges The Gambia's fallen dictator Yahya Jammeh to respect the result of the polls. ](/news/2016/12/12/the-president-of-senegal-urges-the-gambia-s-fallen-dictator-yahya-jammeh-to-respect-the-result-of-the-polls.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Civilians were killed on both sides in heavy fighting in eastern Ukraine on Frid
 
 ### Changes:
 
-1. [2014-15 Russian military intervention in Ukraine: The Government of Ukraine and pro-Russian separatists call off peace talks that were to be held in Minsk. ](/news/2015/01/30/2014-15-russian-military-intervention-in-ukraine-the-government-of-ukraine-and-pro-russian-separatists-call-off-peace-talks-that-were-to.md) _2017-08-27 03:41:51 (First version)_
+1. [2014-15 Russian military intervention in Ukraine: The Government of Ukraine and pro-Russian separatists call off peace talks that were to be held in Minsk. ](/news/2015/01/30/2014-15-russian-military-intervention-in-ukraine-the-government-of-ukraine-and-pro-russian-separatists-call-off-peace-talks-that-were-to.md) _2018-02-06 13:49:26 (First version)_
 1. [The Government of Ukraine and pro-Russian separatists call off peace talks that were to be held in Minsk. ](/news/2015/01/30/the-government-of-ukraine-and-pro-russian-separatists-call-off-peace-talks-that-were-to-be-held-in-minsk.md) _(Current version)_
 
 ### Related:

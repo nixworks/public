@@ -16,5 +16,5 @@ He defeats Opposition candidate Meira Kumar, garnering more than 65 per cent of 
 
 ### Changes:
 
-1. [Indian presidential election, 2017: Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. ](/news/2017/07/20/indian-presidential-election-2017-ram-nath-kovind-has-won-the-indian-presidential-election-after-securing-over-two-thirds-of-the-total-ele.md) _2017-08-27 03:48:41 (First version)_
+1. [Indian presidential election, 2017: Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. ](/news/2017/07/20/indian-presidential-election-2017-ram-nath-kovind-has-won-the-indian-presidential-election-after-securing-over-two-thirds-of-the-total-ele.md) _2018-02-06 13:49:30 (First version)_
 1. [Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. ](/news/2017/07/20/ram-nath-kovind-has-won-the-indian-presidential-election-after-securing-over-two-thirds-of-the-total-electoral-college-votes.md) _(Current version)_

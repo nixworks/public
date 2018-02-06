@@ -20,8 +20,8 @@ Rick Santorum won the Alabama and Mississippi primaries, holding off stiff chall
 
 ### Changes:
 
-1. [Republican Party presidential primaries:Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/republican-party-presidential-primaries-pvoters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santor.md) _2017-08-25 03:35:16 (First version)_
-2. [Republican Party presidential primaries:: Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/republican-party-presidential-primaries-voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santo.md) _2017-08-27 03:35:25 (Update)_
+1. [Republican Party presidential primaries:: Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/republican-party-presidential-primaries-voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santo.md) _2018-02-06 13:49:23 (First version)_
+2. [Republican Party presidential primaries:Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/republican-party-presidential-primaries-pvoters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santor.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md) _(Current version)_
 
 ### Related:

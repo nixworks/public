@@ -16,8 +16,8 @@ Bangladeshi police use batons to disperse hundreds of angry factory workers call
 
 ### Changes:
 
-1. [2013 Savar building collapse:Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/2013-savar-building-collapse-ppolice-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-be.md) _2017-08-25 03:38:30 (First version)_
-2. [2013 Savar building collapse:: Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/2013-savar-building-collapse-police-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-b.md) _2017-08-27 03:38:44 (Update)_
+1. [2013 Savar building collapse:Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/2013-savar-building-collapse-ppolice-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-be.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Savar building collapse:: Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/2013-savar-building-collapse-police-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-b.md) _2018-02-06 13:49:24 (Update)_
 2. [Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/police-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-be-administered-to-the-factory-s.md) _(Current version)_
 
 ### Related:

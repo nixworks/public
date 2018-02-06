@@ -18,7 +18,7 @@ Formats: [HTML](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-s
 
 ### Changes:
 
-1. [ July 2009 Urumqi riots: Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/july-2009-ara1-4mqi-riots-chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-a.md) _2017-08-27 03:24:58 (First version)_
+1. [ July 2009 Urumqi riots: Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/july-2009-ara1-4mqi-riots-chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-a.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md) _(Current version)_
 
 ### Related:

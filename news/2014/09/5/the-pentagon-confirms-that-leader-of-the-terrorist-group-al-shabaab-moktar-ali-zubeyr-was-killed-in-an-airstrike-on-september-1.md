@@ -16,8 +16,8 @@ The Pentagon confirmed on Friday that Ahmed Abdi Godane, a leader of the al Shab
 
 ### Changes:
 
-1. [Somali Civil War:The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/somali-civil-war-pthe-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-septem.md) _2017-08-25 03:40:56 (First version)_
-2. [Somali Civil War:: The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/somali-civil-war-the-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-septe.md) _2017-08-27 03:41:14 (Update)_
+1. [Somali Civil War:: The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/somali-civil-war-the-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-septe.md) _2018-02-06 13:49:26 (First version)_
+2. [Somali Civil War:The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/somali-civil-war-pthe-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-septem.md) _2018-02-06 13:49:26 (Update)_
 2. [The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/the-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-september-1.md) _(Current version)_
 
 ### Related:

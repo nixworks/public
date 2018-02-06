@@ -17,9 +17,9 @@ Ancient volcanic deposits on the moon indicate the lunar interior has a substant
 
 ### Changes:
 
-1. [Brown University researchers discover that water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-water-may-be-present-beneath-the-surface-of-the-moon.md) _2017-07-25 17:30:06 (First version)_
-2. [Brown University researchers discover that substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _2017-07-26 10:30:06 (Update)_
-3. [Lunar water: Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/lunar-water-brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _2017-08-27 03:48:42 (Update)_
+1. [Lunar water: Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/lunar-water-brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _2018-02-06 13:49:30 (First version)_
+2. [Brown University researchers discover that water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-water-may-be-present-beneath-the-surface-of-the-moon.md) _2018-02-06 13:49:30 (Update)_
+3. [Brown University researchers discover that substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _2018-02-06 13:49:30 (Update)_
 3. [Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _(Current version)_
 
 ### Related:

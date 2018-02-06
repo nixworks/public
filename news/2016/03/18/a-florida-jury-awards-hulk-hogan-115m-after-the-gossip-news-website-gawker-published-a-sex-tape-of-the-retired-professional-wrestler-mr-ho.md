@@ -16,7 +16,7 @@ A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker publ
 
 ### Changes:
 
-1. [Bollea v. Gawker: A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/bollea-v-gawker-a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-profession.md) _2017-08-27 03:45:18 (First version)_
+1. [Bollea v. Gawker: A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/bollea-v-gawker-a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-profession.md) _2018-02-06 13:49:28 (First version)_
 1. [A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-professional-wrestler-mr-ho.md) _(Current version)_
 
 ### Related:

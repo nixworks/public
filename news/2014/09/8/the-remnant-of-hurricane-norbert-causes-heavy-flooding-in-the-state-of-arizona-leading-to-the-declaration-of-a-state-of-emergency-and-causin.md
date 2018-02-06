@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-fl
 
 ### Changes:
 
-1. [Hurricane Norbert (2014): The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/hurricane-norbert-2014-the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-sta.md) _2017-08-27 03:41:15 (First version)_
+1. [Hurricane Norbert (2014): The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/hurricane-norbert-2014-the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-sta.md) _2018-02-06 13:49:26 (First version)_
 1. [The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-state-of-emergency-and-causin.md) _(Current version)_
 
 ### Related:

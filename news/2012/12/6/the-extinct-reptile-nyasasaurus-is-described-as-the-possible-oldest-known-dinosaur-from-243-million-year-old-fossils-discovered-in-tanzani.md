@@ -18,7 +18,7 @@ Dinosaurs originated 15 million years earlier than previously thought.
 
 ### Changes:
 
-1. [The extinct reptile ''Nyasasaurus'' is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanza.md) _2017-08-25 03:36:57 (First version)_
+1. [The extinct reptile ''Nyasasaurus'' is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanza.md) _2018-02-06 13:49:24 (First version)_
 1. [The extinct reptile "Nyasasaurus" is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanzani.md) _(Current version)_
 
 ### Related:

@@ -37,7 +37,7 @@ _Context: rupee, Vodafone Group Plc, crore_
 
 ##### Jilin Baoyuanfeng Poultry Plant fire
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
-_Context: Jilin Baoyuanfeng Poultry Plant fire, China, Jilin Province_
+_Context: Jilin Province, Jilin Baoyuanfeng Poultry Plant fire, China_
 
 ##### 
 ### [Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
@@ -45,7 +45,7 @@ State of emergency declared in several regions as heavy flooding kills eight and
 
 ##### Cebu Pacific
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Manila, Cebu Pacific, Philippines, Davao City_
+_Context: Philippines, Cebu Pacific, Davao City, Manila_
 
 ##### Bill Clinton
 ### [Former U.S. president Bill Clinton is paid $500,000 to give a speech in honour of Israeli president Shimon Peres. ](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.md)
@@ -53,15 +53,15 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 
 ##### Ali Asghar Soltanieh
 ### [Ali Asghar Soltanieh, Iran's Ambassador to the International Atomic Energy Agency (IAEA), says the agency's latest report verifies that Iran is having "technical and scientific success in its peaceful nuclear activities" and that this is "an important message to the whole world". ](/news/2013/06/3/ali-asghar-soltanieh-iran-s-ambassador-to-the-international-atomic-energy-agency-iaea-says-the-agency-s-latest-report-verifies-that-iran.md)
-_Context: IAEA, Ali Asghar Soltanieh_
+_Context: Ali Asghar Soltanieh, IAEA_
 
 ##### Park Geun-Hye
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
-_Context: Park Geun-Hye, asylum seeker, Laos, North Korea, South Korean President_
+_Context: Park Geun-Hye, South Korean President, Laos, asylum seeker, North Korea_
 
 ##### Tokyo International Conference on African Development
 ### [Speaking during the ongoing Fifth Tokyo International Conference on African Development (TICAD V) in Yokohama, Zambian President Michael Sata says developed nations have used Africa as a "guinea pig" for the past 50 years, taking its raw materials while pretending to help it. ](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.md)
-_Context: Yokohama, Tokyo International Conference on African Development, Michael Sata_
+_Context: Tokyo International Conference on African Development, Yokohama, Michael Sata_
 
 ##### Arms Trade Treaty
 ### [Over 65 countries sign the Arms Trade Treaty. ](/news/2013/06/3/over-65-countries-sign-the-arms-trade-treaty.md)

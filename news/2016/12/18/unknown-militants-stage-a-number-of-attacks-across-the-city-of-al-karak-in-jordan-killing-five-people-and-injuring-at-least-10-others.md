@@ -15,7 +15,7 @@ At least 10 people killed after fighters attack police and tourists in southern 
 
 ### Changes:
 
-1. [2016 Al-Karak attack: Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/2016-al-karak-attack-unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at.md) _2017-08-27 03:47:28 (First version)_
+1. [2016 Al-Karak attack: Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/2016-al-karak-attack-unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at.md) _2018-02-06 13:49:30 (First version)_
 1. [Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at-least-10-others.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/6/an-american-civilian-and-a-south-african-civilia
 
 ### Changes:
 
-1. [2014 hostage rescue operations in Yemen: An American civilian and a South African civilian die during an attempt to rescue them by U.S. Navy SEALs in Yemen. They were being held hostage by al-Qaeda in the Arabian Peninsula. ](/news/2014/12/6/2014-hostage-rescue-operations-in-yemen-an-american-civilian-and-a-south-african-civilian-die-during-an-attempt-to-rescue-them-by-u-s-navy.md) _2017-08-27 03:41:35 (First version)_
+1. [2014 hostage rescue operations in Yemen: An American civilian and a South African civilian die during an attempt to rescue them by U.S. Navy SEALs in Yemen. They were being held hostage by al-Qaeda in the Arabian Peninsula. ](/news/2014/12/6/2014-hostage-rescue-operations-in-yemen-an-american-civilian-and-a-south-african-civilian-die-during-an-attempt-to-rescue-them-by-u-s-navy.md) _2018-02-06 13:49:26 (First version)_
 1. [An American civilian and a South African civilian die during an attempt to rescue them by U.S. Navy SEALs in Yemen. They were being held hostage by al-Qaeda in the Arabian Peninsula. ](/news/2014/12/6/an-american-civilian-and-a-south-african-civilian-die-during-an-attempt-to-rescue-them-by-u-s-navy-seals-in-yemen-they-were-being-held-hos.md) _(Current version)_
 
 ### Related:

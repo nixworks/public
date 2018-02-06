@@ -16,7 +16,7 @@ Outgoing chief minister Adam Giles delivers a succinct obituary for his one-term
 
 ### Changes:
 
-1. [ Northern Territory general election, 2016: The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. ](/news/2016/08/27/northern-territory-general-election-2016-the-opposition-australian-labor-party-defeats-the-governing-country-liberal-party-in-a-landslide.md) _2017-08-27 03:46:43 (First version)_
+1. [ Northern Territory general election, 2016: The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. ](/news/2016/08/27/northern-territory-general-election-2016-the-opposition-australian-labor-party-defeats-the-governing-country-liberal-party-in-a-landslide.md) _2018-02-06 13:49:29 (First version)_
 1. [ The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. ](/news/2016/08/27/the-opposition-australian-labor-party-defeats-the-governing-country-liberal-party-in-a-landslide-reducing-the-clp-to-just-two-seats.md) _(Current version)_
 
 ### Related:

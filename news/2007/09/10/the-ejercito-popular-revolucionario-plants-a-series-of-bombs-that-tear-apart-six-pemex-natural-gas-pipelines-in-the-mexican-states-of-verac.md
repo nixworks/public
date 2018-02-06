@@ -17,7 +17,7 @@ Formats: [HTML](/news/2007/09/10/the-ejercito-popular-revolucionario-plants-a-se
 
 ### Changes:
 
-1. [ The Ejrcito Popular Revolucionario plants a series of bombs that tear apart six Pemex natural gas pipelines in the Mexican states of Veracruz and Tlaxcala. ](/news/2007/09/10/the-ejercito-popular-revolucionario-plants-a-series-of-bombs-that-tear-apart-six-pemex-natural-gas-pipelines-in-the-mexican-states-of-vera.md) _2017-08-25 03:20:55 (First version)_
+1. [ The Ejrcito Popular Revolucionario plants a series of bombs that tear apart six Pemex natural gas pipelines in the Mexican states of Veracruz and Tlaxcala. ](/news/2007/09/10/the-ejercito-popular-revolucionario-plants-a-series-of-bombs-that-tear-apart-six-pemex-natural-gas-pipelines-in-the-mexican-states-of-vera.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Ejrcito Popular Revolucionario plants a series of bombs that tear apart six Pemex natural gas pipelines in the Mexican states of Veracruz and Tlaxcala. ](/news/2007/09/10/the-ejercito-popular-revolucionario-plants-a-series-of-bombs-that-tear-apart-six-pemex-natural-gas-pipelines-in-the-mexican-states-of-verac.md) _(Current version)_
 
 ### Related:

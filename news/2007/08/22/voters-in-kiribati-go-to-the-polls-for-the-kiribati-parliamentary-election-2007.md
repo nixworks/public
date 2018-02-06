@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiri
 
 ### Changes:
 
-1. [ Voters in Kiribati go to the polls for the Kiribatian parliamentary election, 2007. ](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiribatian-parliamentary-election-2007.md) _2017-09-24 03:23:16 (First version)_
+1. [ Voters in Kiribati go to the polls for the Kiribatian parliamentary election, 2007. ](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiribatian-parliamentary-election-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ Voters in Kiribati go to the polls for the Kiribati parliamentary election, 2007. ](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiribati-parliamentary-election-2007.md) _(Current version)_
 
 ### Related:

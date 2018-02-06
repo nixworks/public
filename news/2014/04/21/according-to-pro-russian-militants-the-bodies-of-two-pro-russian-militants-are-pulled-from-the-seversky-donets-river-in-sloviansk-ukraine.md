@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/04/21/according-to-pro-russian-militants-the-bodies-o
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: According to pro-Russian militants, the bodies of two pro-Russian militants are pulled from the Seversky Donets River in Sloviansk, Ukraine, with both having multiple stab wounds. The claim could not be independently verified. ](/news/2014/04/21/2014-pro-russian-unrest-in-ukraine-according-to-pro-russian-militants-the-bodies-of-two-pro-russian-militants-are-pulled-from-the-seversky.md) _2017-08-27 03:40:37 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: According to pro-Russian militants, the bodies of two pro-Russian militants are pulled from the Seversky Donets River in Sloviansk, Ukraine, with both having multiple stab wounds. The claim could not be independently verified. ](/news/2014/04/21/2014-pro-russian-unrest-in-ukraine-according-to-pro-russian-militants-the-bodies-of-two-pro-russian-militants-are-pulled-from-the-seversky.md) _2018-02-06 13:49:26 (First version)_
 1. [According to pro-Russian militants, the bodies of two pro-Russian militants are pulled from the Seversky Donets River in Sloviansk, Ukraine, with both having multiple stab wounds. The claim could not be independently verified. ](/news/2014/04/21/according-to-pro-russian-militants-the-bodies-of-two-pro-russian-militants-are-pulled-from-the-seversky-donets-river-in-sloviansk-ukraine.md) _(Current version)_
 
 ### Related:

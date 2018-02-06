@@ -16,7 +16,7 @@ US says it is consulting with other countries as it urges South Sudan government
 
 ### Changes:
 
-1. [South Sudan-United States relations: The United States announces that it is proposing sanctions against those connected to the South Sudan conflict, unless a ceasefire is reached promptly. ](/news/2015/08/19/south-sudan-united-states-relations-the-united-states-announces-that-it-is-proposing-sanctions-against-those-connected-to-the-south-sudan.md) _2017-08-27 03:42:51 (First version)_
+1. [South Sudan-United States relations: The United States announces that it is proposing sanctions against those connected to the South Sudan conflict, unless a ceasefire is reached promptly. ](/news/2015/08/19/south-sudan-united-states-relations-the-united-states-announces-that-it-is-proposing-sanctions-against-those-connected-to-the-south-sudan.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States announces that it is proposing sanctions against those connected to the South Sudan conflict, unless a ceasefire is reached promptly. ](/news/2015/08/19/the-united-states-announces-that-it-is-proposing-sanctions-against-those-connected-to-the-south-sudan-conflict-unless-a-ceasefire-is-reache.md) _(Current version)_
 
 ### Related:

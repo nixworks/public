@@ -36,8 +36,8 @@ A group of computer hackers are planning to attack Amazon, the online retailer, 
 
 ### Changes:
 
-1. [United States diplomatic cables leak:Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-pthousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-com.md) _2017-08-25 03:31:20 (First version)_
-2. [United States diplomatic cables leak:: Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-co.md) _2017-08-27 03:31:28 (Update)_
+1. [United States diplomatic cables leak:: Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-co.md) _2018-02-06 13:49:21 (First version)_
+2. [United States diplomatic cables leak:Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-pthousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-com.md) _2018-02-06 13:49:21 (Update)_
 2. [Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-companies-who-have-blacklisted-the-websit.md) _(Current version)_
 
 ### Related:

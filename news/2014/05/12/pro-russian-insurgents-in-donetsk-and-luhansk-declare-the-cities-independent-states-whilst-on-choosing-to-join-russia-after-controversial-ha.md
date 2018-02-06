@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/12/pro-russian-insurgents-in-donetsk-and-luhansk-d
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/2014-pro-russian-unrest-in-ukraine-ppro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing-t.md) _2017-08-25 03:40:24 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/2014-pro-russian-unrest-in-ukraine-pro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing.md) _2017-08-27 03:40:41 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/2014-pro-russian-unrest-in-ukraine-pro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/2014-pro-russian-unrest-in-ukraine-ppro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing-t.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/pro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing-to-join-russia-after-controversial-ha.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Car bomb detonates outside court complex in coastal city, killing police officer
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict: A shootout in Izmir kills two gunmen while another one escapes. During the shootout a car bomb explodes, killing a police officer and court employee. ](/news/2017/01/5/kurdish-turkish-conflict-a-shootout-in-adegzmir-kills-two-gunmen-while-another-one-escapes-during-the-shootout-a-car-bomb-explodes-killin.md) _2017-08-27 03:47:34 (First version)_
+1. [Kurdish-Turkish conflict: A shootout in Izmir kills two gunmen while another one escapes. During the shootout a car bomb explodes, killing a police officer and court employee. ](/news/2017/01/5/kurdish-turkish-conflict-a-shootout-in-adegzmir-kills-two-gunmen-while-another-one-escapes-during-the-shootout-a-car-bomb-explodes-killin.md) _2018-02-06 13:49:30 (First version)_
 1. [A shootout in Izmir kills two gunmen while another one escapes. During the shootout a car bomb explodes, killing a police officer and court employee. ](/news/2017/01/5/a-shootout-in-adegzmir-kills-two-gunmen-while-another-one-escapes-during-the-shootout-a-car-bomb-explodes-killing-a-police-officer-and-court.md) _(Current version)_
 
 ### Related:

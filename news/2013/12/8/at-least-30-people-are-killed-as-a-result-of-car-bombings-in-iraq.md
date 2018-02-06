@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/8/at-least-30-people-are-killed-as-a-result-of-car
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 30 people are killed as a result of car bombings in Iraq. ](/news/2013/12/8/iraqi-insurgency-post-u-s-withdrawal-pat-least-30-people-are-killed-as-a-result-of-car-bombings-in-iraq.md) _2017-08-25 03:39:39 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 30 people are killed as a result of car bombings in Iraq. ](/news/2013/12/8/iraqi-insurgency-post-u-s-withdrawal-at-least-30-people-are-killed-as-a-result-of-car-bombings-in-iraq.md) _2017-08-27 03:39:57 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 30 people are killed as a result of car bombings in Iraq. ](/news/2013/12/8/iraqi-insurgency-post-u-s-withdrawal-pat-least-30-people-are-killed-as-a-result-of-car-bombings-in-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 30 people are killed as a result of car bombings in Iraq. ](/news/2013/12/8/iraqi-insurgency-post-u-s-withdrawal-at-least-30-people-are-killed-as-a-result-of-car-bombings-in-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 30 people are killed as a result of car bombings in Iraq. ](/news/2013/12/8/at-least-30-people-are-killed-as-a-result-of-car-bombings-in-iraq.md) _(Current version)_
 
 ### Related:

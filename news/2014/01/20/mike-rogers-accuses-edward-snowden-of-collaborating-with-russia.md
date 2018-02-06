@@ -16,7 +16,7 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 
 ### Changes:
 
-1. [Global surveillance disclosures (2013-present): Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/global-surveillance-disclosures-2013-present-mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md) _2017-08-27 03:40:12 (First version)_
+1. [Global surveillance disclosures (2013-present): Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/global-surveillance-disclosures-2013-present-mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md) _2018-02-06 13:49:25 (First version)_
 1. [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/05/15/michel-martelly-is-sworn-in-as-the-democratical
 
 ### Changes:
 
-1. [Haitian general election, 2010-2011:Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010a2011-pmichel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md) _2017-08-25 03:33:07 (First version)_
-2. [Haitian general election, 2010-2011:: Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010-2011-michel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md) _2017-08-27 03:33:16 (Update)_
+1. [Haitian general election, 2010-2011:Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010a2011-pmichel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md) _2018-02-06 13:49:22 (First version)_
+2. [Haitian general election, 2010-2011:: Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010-2011-michel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md) _2018-02-06 13:49:22 (Update)_
 2. [Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/michel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md) _(Current version)_
 
 ### Related:

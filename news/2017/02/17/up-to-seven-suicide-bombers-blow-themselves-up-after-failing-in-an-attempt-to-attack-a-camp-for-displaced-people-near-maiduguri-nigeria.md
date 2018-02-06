@@ -15,7 +15,7 @@ Officials say incident near camp for displaced people resulted in deaths of seve
 
 ### Changes:
 
-1. [Boko Haram insurgency: Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/boko-haram-insurgency-up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near.md) _2017-08-27 03:47:50 (First version)_
+1. [Boko Haram insurgency: Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/boko-haram-insurgency-up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near.md) _2018-02-06 13:49:30 (First version)_
 1. [Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near-maiduguri-nigeria.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/04/18/mexican-government-rules-out-pardoning-andra-c-
 
 ### Changes:
 
-1. [ Mexican government rules out pardoning Andres Manuel Lopez Obrador. His supporters continue their protests. [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=8218933 (Reuters)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/mexican-government-rules-out-pardoning-andra-c-s-manuel-la3pez-obrador-his-supporters-continue-their-protests-http-www-reuters-com-newsa.md) _2017-10-17 03:18:19 (First version)_
+1. [ Mexican government rules out pardoning Andres Manuel Lopez Obrador. His supporters continue their protests. [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=8218933 (Reuters)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/mexican-government-rules-out-pardoning-andra-c-s-manuel-la3pez-obrador-his-supporters-continue-their-protests-http-www-reuters-com-newsa.md) _2018-02-06 13:49:16 (First version)_
 1. [ Mexican government rules out pardoning Andres Manuel Lopez Obrador. His supporters continue their protests. [https:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=8218933 (Reuters)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/mexican-government-rules-out-pardoning-andra-c-s-manuel-la3pez-obrador-his-supporters-continue-their-protests-https-www-reuters-com-news.md) _(Current version)_
 
 ### Related:

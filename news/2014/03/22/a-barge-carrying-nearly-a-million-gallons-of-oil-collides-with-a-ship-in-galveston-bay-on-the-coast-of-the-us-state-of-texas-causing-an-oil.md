@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/03/22/a-barge-carrying-nearly-a-million-gallons-of-oi
 
 ### Changes:
 
-1. [2014 Galveston Bay fuel oil spill:A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/2014-galveston-bay-fuel-oil-spill-pa-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-th.md) _2017-08-25 03:40:12 (First version)_
-2. [2014 Galveston Bay fuel oil spill:: A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/2014-galveston-bay-fuel-oil-spill-a-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-t.md) _2017-08-27 03:40:30 (Update)_
+1. [2014 Galveston Bay fuel oil spill:A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/2014-galveston-bay-fuel-oil-spill-pa-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-th.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Galveston Bay fuel oil spill:: A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/2014-galveston-bay-fuel-oil-spill-a-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-t.md) _2018-02-06 13:49:26 (Update)_
 2. [A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/a-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-the-us-state-of-texas-causing-an-oil.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sa
 
 ### Changes:
 
-1. [ Xinhua News Agency says China has rescued 25 sailors and the ''De Xin Hai'', the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-se.md) _2017-08-25 03:26:43 (First version)_
+1. [ Xinhua News Agency says China has rescued 25 sailors and the ''De Xin Hai'', the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-se.md) _2018-02-06 13:49:19 (First version)_
 1. [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md) _(Current version)_
 
 ### Related:

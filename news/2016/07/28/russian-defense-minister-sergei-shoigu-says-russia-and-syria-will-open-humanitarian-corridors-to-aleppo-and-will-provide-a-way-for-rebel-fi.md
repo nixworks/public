@@ -18,7 +18,7 @@ Group’s leader, Abu Mohammad al-Jolani, says move is aimed at ‘removing excu
 
 ### Changes:
 
-1. [Syrian civil war: Russian Defense Minister Sergei Shoigu says Russia and Syria will open humanitarian corridors to Aleppo, and will provide a way for rebel fighters to lay down their arms. ](/news/2016/07/28/syrian-civil-war-russian-defense-minister-sergei-shoigu-says-russia-and-syria-will-open-humanitarian-corridors-to-aleppo-and-will-provide.md) _2017-08-27 03:46:34 (First version)_
+1. [Syrian civil war: Russian Defense Minister Sergei Shoigu says Russia and Syria will open humanitarian corridors to Aleppo, and will provide a way for rebel fighters to lay down their arms. ](/news/2016/07/28/syrian-civil-war-russian-defense-minister-sergei-shoigu-says-russia-and-syria-will-open-humanitarian-corridors-to-aleppo-and-will-provide.md) _2018-02-06 13:49:29 (First version)_
 1. [Russian Defense Minister Sergei Shoigu says Russia and Syria will open humanitarian corridors to Aleppo, and will provide a way for rebel fighters to lay down their arms. ](/news/2016/07/28/russian-defense-minister-sergei-shoigu-says-russia-and-syria-will-open-humanitarian-corridors-to-aleppo-and-will-provide-a-way-for-rebel-fi.md) _(Current version)_
 
 ### Related:

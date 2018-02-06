@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/19/former-governor-of-alaska-vice-presidential-can
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. ](/news/2016/01/19/united-states-presidential-election-2016-former-governor-of-alaska-vice-presidential-candidate-2008-and-tea-party-activist-sarah-palin.md) _2017-08-27 03:44:44 (First version)_
+1. [United States presidential election, 2016: Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. ](/news/2016/01/19/united-states-presidential-election-2016-former-governor-of-alaska-vice-presidential-candidate-2008-and-tea-party-activist-sarah-palin.md) _2018-02-06 13:49:28 (First version)_
 1. [Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. ](/news/2016/01/19/former-governor-of-alaska-vice-presidential-candidate-2008-and-tea-party-activist-sarah-palin-endorses-republican-party-presidential-can.md) _(Current version)_
 
 ### Related:

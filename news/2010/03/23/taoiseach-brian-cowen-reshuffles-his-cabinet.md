@@ -27,8 +27,8 @@ The Taoiseach has promoted two TDs to senior positions and moved four ministers 
 
 ### Changes:
 
-1. [Irish cabinet reshuffle:Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-ptaoiseach-brian-cowen-reshuffles-his-cabinet.md) _2017-08-25 03:27:27 (First version)_
-2. [Irish cabinet reshuffle:: Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-taoiseach-brian-cowen-reshuffles-his-cabinet.md) _2017-08-27 03:27:23 (Update)_
+1. [Irish cabinet reshuffle:: Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-taoiseach-brian-cowen-reshuffles-his-cabinet.md) _2018-02-06 13:49:19 (First version)_
+2. [Irish cabinet reshuffle:Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-ptaoiseach-brian-cowen-reshuffles-his-cabinet.md) _2018-02-06 13:49:19 (Update)_
 2. [Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/taoiseach-brian-cowen-reshuffles-his-cabinet.md) _(Current version)_
 
 ### Related:

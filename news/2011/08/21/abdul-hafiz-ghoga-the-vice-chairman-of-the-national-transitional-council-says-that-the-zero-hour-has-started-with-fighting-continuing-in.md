@@ -20,8 +20,8 @@ Formats: [HTML](/news/2011/08/21/abdul-hafiz-ghoga-the-vice-chairman-of-the-nati
 
 ### Changes:
 
-1. [2011 Libyan civil war:Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-pabdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-with.md) _2017-08-25 03:34:02 (First version)_
-2. [2011 Libyan civil war:: Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-abdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-wit.md) _2017-08-27 03:34:09 (Update)_
+1. [2011 Libyan civil war:Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-pabdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-with.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-abdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-wit.md) _2018-02-06 13:49:22 (Update)_
 2. [Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/abdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-with-fighting-continuing-in.md) _(Current version)_
 
 ### Related:

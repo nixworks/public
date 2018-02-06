@@ -16,7 +16,7 @@ Four crewmen on a cargo ship were kidnapped by armed men, according to police of
 
 ### Changes:
 
-1. [Moro attacks on Sabah: Moro Conflict: Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/moro-attacks-on-sabah-moro-conflict-four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf.md) _2017-08-27 03:45:28 (First version)_
+1. [Moro attacks on Sabah: Moro Conflict: Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/moro-attacks-on-sabah-moro-conflict-four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf.md) _2018-02-06 13:49:29 (First version)_
 1. [Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf-a-group-linked-to-the-islamic-state.md) _(Current version)_
 
 ### Related:

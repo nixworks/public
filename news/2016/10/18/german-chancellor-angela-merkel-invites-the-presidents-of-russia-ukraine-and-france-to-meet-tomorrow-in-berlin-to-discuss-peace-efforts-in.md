@@ -17,7 +17,7 @@ BERLIN (AP) — German Chancellor Angela Merkel on Tuesday announced her first s
 
 ### Changes:
 
-1. [War in Donbass: German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/war-in-donbass-german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss.md) _2017-08-27 03:47:05 (First version)_
+1. [War in Donbass: German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/war-in-donbass-german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss.md) _2018-02-06 13:49:29 (First version)_
 1. [German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss-peace-efforts-in.md) _(Current version)_
 
 ### Related:

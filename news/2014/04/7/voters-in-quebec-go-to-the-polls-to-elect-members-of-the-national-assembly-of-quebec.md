@@ -16,8 +16,8 @@ Quebecers head to the polls tomorrow morning, meaning this is the final day for 
 
 ### Changes:
 
-1. [Quebec general election, 2014:Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-pvoters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2017-08-25 03:40:15 (First version)_
-2. [Quebec general election, 2014:: Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2017-08-27 03:40:33 (Update)_
+1. [Quebec general election, 2014:: Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2018-02-06 13:49:26 (First version)_
+2. [Quebec general election, 2014:Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-pvoters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Sadiq Khan is elected London mayor - a boost to Labour after it slumped to third
 
 ### Changes:
 
-1. [United Kingdom local elections, 2016: London votes Sadiq Khan to succeed Boris Johnson as Mayor of London; Khan is the first Muslim to be elected London's Mayor. ](/news/2016/05/6/united-kingdom-local-elections-2016-london-votes-sadiq-khan-to-succeed-boris-johnson-as-mayor-of-london-khan-is-the-first-muslim-to-be-el.md) _2017-08-27 03:45:59 (First version)_
+1. [United Kingdom local elections, 2016: London votes Sadiq Khan to succeed Boris Johnson as Mayor of London; Khan is the first Muslim to be elected London's Mayor. ](/news/2016/05/6/united-kingdom-local-elections-2016-london-votes-sadiq-khan-to-succeed-boris-johnson-as-mayor-of-london-khan-is-the-first-muslim-to-be-el.md) _2018-02-06 13:49:29 (First version)_
 1. [London votes Sadiq Khan to succeed Boris Johnson as Mayor of London; Khan is the first Muslim to be elected London's Mayor. ](/news/2016/05/6/london-votes-sadiq-khan-to-succeed-boris-johnson-as-mayor-of-london-khan-is-the-first-muslim-to-be-elected-london-s-mayor.md) _(Current version)_
 
 ### Related:

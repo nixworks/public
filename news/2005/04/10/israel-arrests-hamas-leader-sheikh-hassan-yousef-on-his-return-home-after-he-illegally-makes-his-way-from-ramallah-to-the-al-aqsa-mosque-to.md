@@ -20,8 +20,8 @@ Formats: [HTML](/news/2005/04/10/israel-arrests-hamas-leader-sheikh-hassan-youse
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-p-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md) _2017-08-25 03:15:57 (First version)_
-2. [ Israeli-Palestinian Conflict:: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md) _2017-08-27 03:15:58 (Update)_
+1. [ Israeli-Palestinian Conflict: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-p-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict:: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md) _2018-02-06 13:49:16 (Update)_
 2. [ Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ramallah-to-the-al-aqsa-mosque-to.md) _(Current version)_
 
 ### Related:

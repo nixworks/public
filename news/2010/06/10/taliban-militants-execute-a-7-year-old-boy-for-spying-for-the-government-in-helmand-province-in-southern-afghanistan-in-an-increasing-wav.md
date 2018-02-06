@@ -18,8 +18,8 @@ The killings of low-level officials are an attempt to undermine counterinsurgenc
 
 ### Changes:
 
-1. [War in Afghanistan:Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-ptaliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md) _2017-08-25 03:28:12 (First version)_
-2. [War in Afghanistan:: Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-taliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md) _2017-08-27 03:28:12 (Update)_
+1. [War in Afghanistan:: Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-taliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Afghanistan:Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-ptaliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md) _2018-02-06 13:49:20 (Update)_
 2. [Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/taliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan-in-an-increasing-wav.md) _(Current version)_
 
 ### Related:

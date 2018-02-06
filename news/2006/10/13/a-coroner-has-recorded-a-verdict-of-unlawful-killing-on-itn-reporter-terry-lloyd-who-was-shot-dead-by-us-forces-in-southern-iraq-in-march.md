@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/10/13/a-coroner-has-recorded-a-verdict-of-unlawful-ki
 
 ### Changes:
 
-1. [ Iraq War: A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/iraq-war-p-a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-ira.md) _2017-08-25 03:18:34 (First version)_
-2. [ Iraq War:: A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/iraq-war-a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-ira.md) _2017-08-27 03:18:28 (Update)_
+1. [ Iraq War: A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/iraq-war-p-a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-ira.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/iraq-war-a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-ira.md) _2018-02-06 13:49:17 (Update)_
 2. [ A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-iraq-in-march.md) _(Current version)_
 
 ### Related:

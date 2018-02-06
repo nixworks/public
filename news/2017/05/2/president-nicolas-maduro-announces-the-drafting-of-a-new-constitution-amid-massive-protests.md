@@ -16,7 +16,7 @@ Venezuelan opposition leaders condemned as anti-democratic a surprise plan by Pr
 
 ### Changes:
 
-1. [2014-17 Venezuelan protests: President Nicolas Maduro announces the drafting of a new constitution amid massive protests. ](/news/2017/05/2/2014-17-venezuelan-protests-president-nicolas-maduro-announces-the-drafting-of-a-new-constitution-amid-massive-protests.md) _2017-08-27 03:48:16 (First version)_
+1. [2014-17 Venezuelan protests: President Nicolas Maduro announces the drafting of a new constitution amid massive protests. ](/news/2017/05/2/2014-17-venezuelan-protests-president-nicolas-maduro-announces-the-drafting-of-a-new-constitution-amid-massive-protests.md) _2018-02-06 13:49:30 (First version)_
 1. [President Nicolas Maduro announces the drafting of a new constitution amid massive protests. ](/news/2017/05/2/president-nicolas-maduro-announces-the-drafting-of-a-new-constitution-amid-massive-protests.md) _(Current version)_
 
 ### Related:

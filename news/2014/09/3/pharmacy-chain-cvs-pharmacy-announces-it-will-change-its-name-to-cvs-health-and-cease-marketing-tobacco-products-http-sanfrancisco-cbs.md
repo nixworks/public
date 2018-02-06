@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/09/3/pharmacy-chain-cvs-pharmacy-announces-it-will-ch
 
 ### Changes:
 
-1. [Pharmacy chain CVS Pharmacy announces it will change its name to "CVS Health" and cease marketing tobacco products. ](/news/2014/09/3/pharmacy-chain-cvs-pharmacy-announces-it-will-change-its-name-to-cvs-health-and-cease-marketing-tobacco-products.md) _2017-08-25 03:40:56 (First version)_
+1. [Pharmacy chain CVS Pharmacy announces it will change its name to "CVS Health" and cease marketing tobacco products. ](/news/2014/09/3/pharmacy-chain-cvs-pharmacy-announces-it-will-change-its-name-to-cvs-health-and-cease-marketing-tobacco-products.md) _2018-02-06 13:49:26 (First version)_
 1. [Pharmacy chain CVS Pharmacy announces it will change its name to "CVS Health" and cease marketing tobacco products. [http:--sanfrancisco.cbslocal.com-2014-09-03-cvs-announces-plan-to-stop-selling-smoking-cigarettes-health-sales- "(KPIX)"]](/news/2014/09/3/pharmacy-chain-cvs-pharmacy-announces-it-will-change-its-name-to-cvs-health-and-cease-marketing-tobacco-products-http-sanfrancisco-cbs.md) _(Current version)_
 
 ### Related:

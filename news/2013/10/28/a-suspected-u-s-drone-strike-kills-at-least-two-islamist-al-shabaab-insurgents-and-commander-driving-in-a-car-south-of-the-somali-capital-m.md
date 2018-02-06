@@ -17,8 +17,8 @@ A suspected U.S. drone strike killed at least two Islamist al Shabaab insurgents
 
 ### Changes:
 
-1. [War in Somalia (2009-present):A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/war-in-somalia-2009apresent-pa-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a.md) _2017-08-25 03:39:26 (First version)_
-2. [War in Somalia (2009-present):: A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/war-in-somalia-2009-present-a-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a.md) _2017-08-27 03:39:44 (Update)_
+1. [War in Somalia (2009-present):A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/war-in-somalia-2009apresent-pa-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/war-in-somalia-2009-present-a-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a.md) _2018-02-06 13:49:25 (Update)_
 2. [A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/a-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a-car-south-of-the-somali-capital-m.md) _(Current version)_
 
 ### Related:

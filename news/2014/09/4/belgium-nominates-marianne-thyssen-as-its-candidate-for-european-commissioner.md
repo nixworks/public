@@ -17,7 +17,7 @@ The list of proposed new EU commissioners is now complete, with enough women for
 
 ### Changes:
 
-1. [Juncker Commission: Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/juncker-commission-belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _2017-08-27 03:41:14 (First version)_
+1. [Juncker Commission: Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/juncker-commission-belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _2018-02-06 13:49:26 (First version)_
 1. [Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _(Current version)_
 
 ### Related:

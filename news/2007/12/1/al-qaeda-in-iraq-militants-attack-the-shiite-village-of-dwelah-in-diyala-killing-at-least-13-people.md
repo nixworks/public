@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/12/1/al-qaeda-in-iraq-militants-attack-the-shiite-vil
 
 ### Changes:
 
-1. [ Iraq War: Al-Qaeda in Iraq militants attack the Shiite village of Dwelah in Diyala, killing at least 13 people. ](/news/2007/12/1/iraq-war-al-qaeda-in-iraq-militants-attack-the-shiite-village-of-dwelah-in-diyala-killing-at-least-13-people.md) _2017-08-27 03:21:26 (First version)_
+1. [ Iraq War: Al-Qaeda in Iraq militants attack the Shiite village of Dwelah in Diyala, killing at least 13 people. ](/news/2007/12/1/iraq-war-al-qaeda-in-iraq-militants-attack-the-shiite-village-of-dwelah-in-diyala-killing-at-least-13-people.md) _2018-02-06 13:49:18 (First version)_
 1. [ Al-Qaeda in Iraq militants attack the Shiite village of Dwelah in Diyala, killing at least 13 people. ](/news/2007/12/1/al-qaeda-in-iraq-militants-attack-the-shiite-village-of-dwelah-in-diyala-killing-at-least-13-people.md) _(Current version)_
 
 ### Related:

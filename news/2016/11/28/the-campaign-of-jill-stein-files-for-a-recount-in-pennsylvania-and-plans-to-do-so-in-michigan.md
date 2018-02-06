@@ -15,7 +15,7 @@ Jill Stein said she plans to request a recount in Michigan as similar cases prog
 
 ### Changes:
 
-1. [2016 United States presidential election recount and audit: The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/2016-united-states-presidential-election-recount-and-audit-the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-s.md) _2017-08-27 03:47:19 (First version)_
+1. [2016 United States presidential election recount and audit: The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/2016-united-states-presidential-election-recount-and-audit-the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-s.md) _2018-02-06 13:49:29 (First version)_
 1. [The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-so-in-michigan.md) _(Current version)_
 
 ### Related:

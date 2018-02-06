@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/31/a-suicide-bomber-strikes-a-checkpoint-near-the-
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/libyan-civil-war-2014-present-a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md) _2017-08-27 03:42:27 (First version)_
+1. [Libyan Civil War (2014-present): A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/libyan-civil-war-2014-present-a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md) _(Current version)_
 
 ### Related:

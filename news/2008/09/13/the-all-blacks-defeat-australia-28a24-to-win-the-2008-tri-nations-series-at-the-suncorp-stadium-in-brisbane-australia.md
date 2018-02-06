@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-th
 
 ### Changes:
 
-1. [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28-24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md) _2017-08-27 03:22:45 (First version)_
+1. [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28-24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md) _2018-02-06 13:49:18 (First version)_
 1. [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md) _(Current version)_
 
 ### Related:

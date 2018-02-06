@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/30/afghan-security-forces-killed-16-militants-from
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Afghan security forces killed 16 militants from Taliban group in Ghazni. ](/news/2016/11/30/war-in-afghanistan-2015-present-afghan-security-forces-killed-16-militants-from-taliban-group-in-ghazni.md) _2017-08-27 03:47:21 (First version)_
+1. [War in Afghanistan (2015-present): Afghan security forces killed 16 militants from Taliban group in Ghazni. ](/news/2016/11/30/war-in-afghanistan-2015-present-afghan-security-forces-killed-16-militants-from-taliban-group-in-ghazni.md) _2018-02-06 13:49:29 (First version)_
 1. [ Afghan security forces killed 16 militants from Taliban group in Ghazni. ](/news/2016/11/30/afghan-security-forces-killed-16-militants-from-taliban-group-in-ghazni.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The incumbent prime minister of Latvia and her centre-right coalition look likel
 
 ### Changes:
 
-1. [Latvian parliamentary election, 2014: Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvian-parliamentary-election-2014-latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-major.md) _2017-08-27 03:41:21 (First version)_
+1. [Latvian parliamentary election, 2014: Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvian-parliamentary-election-2014-latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-major.md) _2018-02-06 13:49:26 (First version)_
 1. [Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-majority.md) _(Current version)_
 
 ### Related:

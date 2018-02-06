@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-abdi
 
 ### Changes:
 
-1. [Emperor Akihito announces his intentions to retire on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-retire-on-april-30-2019.md) _2017-12-04 00:30:13 (First version)_
+1. [Emperor Akihito announces his intentions to retire on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-retire-on-april-30-2019.md) _2018-02-06 13:49:31 (First version)_
 1. [Emperor Akihito announces his intentions to abdicate the throne on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-abdicate-the-throne-on-april-30-2019.md) _(Current version)_
 
 ### Related:

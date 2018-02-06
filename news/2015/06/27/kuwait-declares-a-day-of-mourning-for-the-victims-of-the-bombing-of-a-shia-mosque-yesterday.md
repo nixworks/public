@@ -17,7 +17,7 @@ Kuwait has declared an &#034;all-out confrontation&#034; with terrorism after an
 
 ### Changes:
 
-1. [2015 Kuwait mosque bombing: Kuwait declares a day of mourning for the victims of the bombing of a Shia mosque yesterday. ](/news/2015/06/27/2015-kuwait-mosque-bombing-kuwait-declares-a-day-of-mourning-for-the-victims-of-the-bombing-of-a-shia-mosque-yesterday.md) _2017-08-27 03:42:36 (First version)_
+1. [2015 Kuwait mosque bombing: Kuwait declares a day of mourning for the victims of the bombing of a Shia mosque yesterday. ](/news/2015/06/27/2015-kuwait-mosque-bombing-kuwait-declares-a-day-of-mourning-for-the-victims-of-the-bombing-of-a-shia-mosque-yesterday.md) _2018-02-06 13:49:27 (First version)_
 1. [Kuwait declares a day of mourning for the victims of the bombing of a Shia mosque yesterday. ](/news/2015/06/27/kuwait-declares-a-day-of-mourning-for-the-victims-of-the-bombing-of-a-shia-mosque-yesterday.md) _(Current version)_
 
 ### Related:

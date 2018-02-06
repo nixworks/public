@@ -15,7 +15,7 @@ Ex-president, who is in Ivory Coast, accused of authorising the killings of unar
 
 ### Changes:
 
-1. [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaore and members of his cabinet in absentia. Burkina Faso accuses Compaore, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaora-c-and-members-of-his-cabinet-in-absentia-burk.md) _2017-05-16 18:30:06 (First version)_
+1. [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaore and members of his cabinet in absentia. Burkina Faso accuses Compaore, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaora-c-and-members-of-his-cabinet-in-absentia-burk.md) _2018-02-06 13:49:30 (First version)_
 1. [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaor and members of his cabinet in absentia. Burkina Faso accuses Compaor, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaore-and-members-of-his-cabinet-in-absentia-burki.md) _(Current version)_
 
 ### Related:

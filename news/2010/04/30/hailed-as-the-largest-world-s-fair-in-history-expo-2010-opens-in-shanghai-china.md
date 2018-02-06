@@ -23,8 +23,8 @@ Formats: [HTML](/news/2010/04/30/hailed-as-the-largest-world-s-fair-in-history-e
 
 ### Changes:
 
-1. [Expo 2010:Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-phailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _2017-08-25 03:27:48 (First version)_
-2. [Expo 2010:: Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _2017-08-27 03:27:45 (Update)_
+1. [Expo 2010:Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-phailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _2018-02-06 13:49:20 (First version)_
+2. [Expo 2010:: Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _2018-02-06 13:49:20 (Update)_
 2. [Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md) _(Current version)_
 
 ### Related:

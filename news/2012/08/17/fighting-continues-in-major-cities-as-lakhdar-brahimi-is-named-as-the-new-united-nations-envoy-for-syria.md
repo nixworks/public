@@ -17,8 +17,8 @@ State media say rebels forced out of areas near Aleppo airport as the UN chooses
 
 ### Changes:
 
-1. [Syrian civil war:Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/syrian-civil-war-pfighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md) _2017-08-25 03:36:17 (First version)_
-2. [Syrian civil war:: Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/syrian-civil-war-fighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md) _2017-08-27 03:36:28 (Update)_
+1. [Syrian civil war:Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/syrian-civil-war-pfighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/syrian-civil-war-fighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md) _2018-02-06 13:49:23 (Update)_
 2. [Fighting continues in major cities as Lakhdar Brahimi is named as the new United Nations envoy for Syria. ](/news/2012/08/17/fighting-continues-in-major-cities-as-lakhdar-brahimi-is-named-as-the-new-united-nations-envoy-for-syria.md) _(Current version)_
 
 ### Related:

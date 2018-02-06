@@ -17,8 +17,8 @@ President McAleese has described recent racist attacks in Belfast as distressing
 
 ### Changes:
 
-1. [ Attacks on Romanians in One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/attacks-on-romanians-in-one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md) _2017-08-25 03:24:57 (First version)_
-2. [ Attacks on Romanians in Northern Ireland: One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/attacks-on-romanians-in-northern-ireland-one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md) _2017-08-27 03:24:48 (Update)_
+1. [ Attacks on Romanians in One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/attacks-on-romanians-in-one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md) _2018-02-06 13:49:19 (First version)_
+2. [ Attacks on Romanians in Northern Ireland: One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/attacks-on-romanians-in-northern-ireland-one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md) _2018-02-06 13:49:19 (Update)_
 2. [ One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md) _(Current version)_
 
 ### Related:

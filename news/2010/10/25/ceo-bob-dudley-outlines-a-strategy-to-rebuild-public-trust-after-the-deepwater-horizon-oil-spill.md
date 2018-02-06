@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/10/25/ceo-bob-dudley-outlines-a-strategy-to-rebuild-p
 
 ### Changes:
 
-1. [BP: CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/bp-ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md) _2017-08-27 03:30:46 (First version)_
+1. [BP: CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/bp-ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md) _2018-02-06 13:49:20 (First version)_
 1. [CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md) _(Current version)_
 
 ### Related:

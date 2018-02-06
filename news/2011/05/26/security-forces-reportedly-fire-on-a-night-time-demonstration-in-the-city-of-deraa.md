@@ -16,8 +16,8 @@ Syrian security forces fired liverounds on Thursday at hundreds of protesters ma
 
 ### Changes:
 
-1. [2011 Syrian protests:Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-psecurity-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _2017-08-25 03:33:16 (First version)_
-2. [2011 Syrian protests:: Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _2017-08-27 03:33:25 (Update)_
+1. [2011 Syrian protests:: Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-psecurity-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _2018-02-06 13:49:22 (Update)_
 2. [Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md) _(Current version)_
 
 ### Related:

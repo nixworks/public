@@ -17,7 +17,7 @@ A massive blizzard bringing more than 2ft (60cm) of snow and punishing winds is 
 
 ### Changes:
 
-1. [January 2016 United States blizzard: Millions of people in the Mid-Atlantic states brace for a winter storm. ](/news/2016/01/22/january-2016-united-states-blizzard-millions-of-people-in-the-mid-atlantic-states-brace-for-a-winter-storm.md) _2017-08-27 03:44:44 (First version)_
+1. [January 2016 United States blizzard: Millions of people in the Mid-Atlantic states brace for a winter storm. ](/news/2016/01/22/january-2016-united-states-blizzard-millions-of-people-in-the-mid-atlantic-states-brace-for-a-winter-storm.md) _2018-02-06 13:49:28 (First version)_
 1. [Millions of people in the Mid-Atlantic states brace for a winter storm. ](/news/2016/01/22/millions-of-people-in-the-mid-atlantic-states-brace-for-a-winter-storm.md) _(Current version)_
 
 ### Related:

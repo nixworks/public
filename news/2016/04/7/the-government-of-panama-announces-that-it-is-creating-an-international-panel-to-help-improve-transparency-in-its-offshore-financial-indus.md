@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/7/the-government-of-panama-announces-that-it-is-cr
 
 ### Changes:
 
-1. [Panama Papers: The government of Panama announces that it is creating an "international panel" to help improve transparency in its offshore financial industry. The move follows the leak of millions of documents from law firm Mossack Fonseca, showing it helped some clients evade tax and avoid sanctions. ](/news/2016/04/7/panama-papers-the-government-of-panama-announces-that-it-is-creating-an-international-panel-to-help-improve-transparency-in-its-offshore.md) _2017-08-27 03:45:31 (First version)_
+1. [Panama Papers: The government of Panama announces that it is creating an "international panel" to help improve transparency in its offshore financial industry. The move follows the leak of millions of documents from law firm Mossack Fonseca, showing it helped some clients evade tax and avoid sanctions. ](/news/2016/04/7/panama-papers-the-government-of-panama-announces-that-it-is-creating-an-international-panel-to-help-improve-transparency-in-its-offshore.md) _2018-02-06 13:49:29 (First version)_
 1. [The government of Panama announces that it is creating an "international panel" to help improve transparency in its offshore financial industry. The move follows the leak of millions of documents from law firm Mossack Fonseca, showing it helped some clients evade tax and avoid sanctions. ](/news/2016/04/7/the-government-of-panama-announces-that-it-is-creating-an-international-panel-to-help-improve-transparency-in-its-offshore-financial-indus.md) _(Current version)_
 
 ### Related:

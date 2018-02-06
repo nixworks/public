@@ -18,9 +18,9 @@ SINGAPORE: An earthquake of magnitude 6.5 struck west of Indonesia&#039;s island
 
 ### Changes:
 
-1. [A magnitude 6.5 earthquake occurs off the Indonesian island of Sumatra. ](/news/2017/08/13/a-magnitude-6-5-earthquake-occurs-off-the-indonesian-island-of-sumatra.md) _2017-08-13 22:30:04 (First version)_
-2. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-building.md) _2017-08-25 03:48:20 (Update)_
-3. [Earthquakes in 2017: A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/earthquakes-in-2017-a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structura.md) _2017-08-27 03:48:48 (Update)_
+1. [Earthquakes in 2017: A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/earthquakes-in-2017-a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structura.md) _2018-02-06 13:49:31 (First version)_
+2. [A magnitude 6.5 earthquake occurs off the Indonesian island of Sumatra. ](/news/2017/08/13/a-magnitude-6-5-earthquake-occurs-off-the-indonesian-island-of-sumatra.md) _2018-02-06 13:49:31 (Update)_
+3. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-building.md) _2018-02-06 13:49:31 (Update)_
 3. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-buildings.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ The number was far in excess of expectations and more than three times the 37,00
 
 ### Changes:
 
-1. [Gallipoli Landing 100th anniversaryAttendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. ](/news/2015/04/25/gallipoli-landing-100th-anniversarypattendances-at-services-to-commemorate-anzac-day-break-attendance-records-in-australia-and-new-zealand.md) _2017-08-25 03:41:56 (First version)_
-2. [Gallipoli Landing 100th anniversary: Attendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. ](/news/2015/04/25/gallipoli-landing-100th-anniversary-attendances-at-services-to-commemorate-anzac-day-break-attendance-records-in-australia-and-new-zealand.md) _2017-08-27 03:42:15 (Update)_
+1. [Gallipoli Landing 100th anniversaryAttendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. ](/news/2015/04/25/gallipoli-landing-100th-anniversarypattendances-at-services-to-commemorate-anzac-day-break-attendance-records-in-australia-and-new-zealand.md) _2018-02-06 13:49:27 (First version)_
+2. [Gallipoli Landing 100th anniversary: Attendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. ](/news/2015/04/25/gallipoli-landing-100th-anniversary-attendances-at-services-to-commemorate-anzac-day-break-attendance-records-in-australia-and-new-zealand.md) _2018-02-06 13:49:27 (Update)_
 2. [Attendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. ](/news/2015/04/25/attendances-at-services-to-commemorate-anzac-day-break-attendance-records-in-australia-and-new-zealand.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-high
 
 ### Changes:
 
-1. [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of 13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-ps13-12bn.md) _2017-08-25 03:17:25 (First version)_
+1. [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of 13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-ps13-12bn.md) _2018-02-06 13:49:16 (First version)_
 1. [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of GBP13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-gbp13-12bn.md) _(Current version)_
 
 ### Related:

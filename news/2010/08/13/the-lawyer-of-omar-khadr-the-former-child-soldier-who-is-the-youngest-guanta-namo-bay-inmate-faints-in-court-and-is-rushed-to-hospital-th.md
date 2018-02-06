@@ -20,8 +20,8 @@ The first trial at Guantanamo Bay under US President Barack Obama is suspended a
 
 ### Changes:
 
-1. [Trial of Omar Khadr:The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-pthe-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is-r.md) _2017-08-25 03:29:25 (First version)_
-2. [Trial of Omar Khadr:: The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-the-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is.md) _2017-08-27 03:29:27 (Update)_
+1. [Trial of Omar Khadr:: The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-the-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is.md) _2018-02-06 13:49:20 (First version)_
+2. [Trial of Omar Khadr:The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-pthe-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is-r.md) _2018-02-06 13:49:20 (Update)_
 2. [The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/the-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is-rushed-to-hospital-th.md) _(Current version)_
 
 ### Related:

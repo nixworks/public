@@ -17,7 +17,7 @@ The retrieval of the plane’s data recorders would shed light on why it crashed
 
 ### Changes:
 
-1. [EgyptAir Flight 804: A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/egyptair-flight-804-a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md) _2017-08-27 03:46:11 (First version)_
+1. [EgyptAir Flight 804: A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/egyptair-flight-804-a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md) _2018-02-06 13:49:29 (First version)_
 1. [A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md) _(Current version)_
 
 ### Related:

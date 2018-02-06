@@ -16,7 +16,7 @@ Blasts at funeral attended by government officials including one of leading poli
 
 ### Changes:
 
-1. [War in Afghanistan: June 2017 Kabul attack: According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/war-in-afghanistan-june-2017-kabul-attack-according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-fig.md) _2017-08-27 03:48:25 (First version)_
+1. [War in Afghanistan: June 2017 Kabul attack: According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/war-in-afghanistan-june-2017-kabul-attack-according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-fig.md) _2018-02-06 13:49:30 (First version)_
 1. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _(Current version)_
 
 ### Related:

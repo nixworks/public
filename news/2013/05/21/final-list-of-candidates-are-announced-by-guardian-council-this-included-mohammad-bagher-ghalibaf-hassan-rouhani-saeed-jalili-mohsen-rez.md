@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/05/21/final-list-of-candidates-are-announced-by-guard
 
 ### Changes:
 
-1. [Iranian presidential election, 2013:Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/iranian-presidential-election-2013-pfinal-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-has.md) _2017-08-25 03:38:42 (First version)_
-2. [Iranian presidential election, 2013:: Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/iranian-presidential-election-2013-final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-ha.md) _2017-08-27 03:38:55 (Update)_
+1. [Iranian presidential election, 2013:Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/iranian-presidential-election-2013-pfinal-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-has.md) _2018-02-06 13:49:24 (First version)_
+2. [Iranian presidential election, 2013:: Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/iranian-presidential-election-2013-final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-ha.md) _2018-02-06 13:49:24 (Update)_
 2. [Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-hassan-rouhani-saeed-jalili-mohsen-rez.md) _(Current version)_
 
 ### Related:

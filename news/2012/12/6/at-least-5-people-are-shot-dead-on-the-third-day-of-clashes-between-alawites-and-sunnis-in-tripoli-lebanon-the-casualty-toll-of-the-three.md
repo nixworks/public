@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/6/at-least-5-people-are-shot-dead-on-the-third-day
 
 ### Changes:
 
-1. [2011-2012 conflict in Lebanon:At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011a2012-conflict-in-lebanon-pat-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebanon.md) _2017-08-25 03:36:57 (First version)_
-2. [2011-2012 conflict in Lebanon:: At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011-2012-conflict-in-lebanon-at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebano.md) _2017-08-27 03:37:07 (Update)_
+1. [2011-2012 conflict in Lebanon:At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011a2012-conflict-in-lebanon-pat-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebanon.md) _2018-02-06 13:49:24 (First version)_
+2. [2011-2012 conflict in Lebanon:: At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011-2012-conflict-in-lebanon-at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebano.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebanon-the-casualty-toll-of-the-three.md) _(Current version)_
 
 ### Related:

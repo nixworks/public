@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present):A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011apresent-pa-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _2017-08-25 03:40:53 (First version)_
-2. [Iraqi insurgency (2011-present):: A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011-present-a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-2.md) _2017-08-27 03:41:12 (Update)_
+1. [Iraqi insurgency (2011-present):A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011apresent-pa-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (2011-present):: A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011-present-a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-2.md) _2018-02-06 13:49:26 (Update)_
 2. [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _(Current version)_
 
 ### Related:

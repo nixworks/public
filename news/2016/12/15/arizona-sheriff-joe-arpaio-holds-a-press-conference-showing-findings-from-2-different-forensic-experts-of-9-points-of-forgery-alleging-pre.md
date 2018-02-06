@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/15/arizona-sheriff-joe-arpaio-holds-a-press-confer
 
 ### Changes:
 
-1. [Barack Obama citizenship conspiracy theories: Arizona Sheriff Joe Arpaio holds a press conference showing findings from 2 different forensic experts of "9 points of forgery" alleging President Obama's long form birth certificate was forged and also claims to have found the birth certificate used to make the forgery. ](/news/2016/12/15/barack-obama-citizenship-conspiracy-theories-arizona-sheriff-joe-arpaio-holds-a-press-conference-showing-findings-from-2-different-forensic.md) _2017-08-27 03:47:27 (First version)_
+1. [Barack Obama citizenship conspiracy theories: Arizona Sheriff Joe Arpaio holds a press conference showing findings from 2 different forensic experts of "9 points of forgery" alleging President Obama's long form birth certificate was forged and also claims to have found the birth certificate used to make the forgery. ](/news/2016/12/15/barack-obama-citizenship-conspiracy-theories-arizona-sheriff-joe-arpaio-holds-a-press-conference-showing-findings-from-2-different-forensic.md) _2018-02-06 13:49:29 (First version)_
 1. [Arizona Sheriff Joe Arpaio holds a press conference showing findings from 2 different forensic experts of "9 points of forgery" alleging President Obama's long form birth certificate was forged and also claims to have found the birth certificate used to make the forgery. ](/news/2016/12/15/arizona-sheriff-joe-arpaio-holds-a-press-conference-showing-findings-from-2-different-forensic-experts-of-9-points-of-forgery-alleging-pre.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Sigmundur Davíð Gunnlaugsson steps aside amid widespread anger over allegation
 
 ### Changes:
 
-1. [Panama Papers: Icelandic Prime Minister Sigmundur David Gunnlaugsson temporarily steps down amid allegations his family attempted to hide millions in an offshore account. ](/news/2016/04/5/panama-papers-icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-temporarily-steps-down-amid-allegations-his-family-attempted-to-hide.md) _2017-08-27 03:45:30 (First version)_
+1. [Panama Papers: Icelandic Prime Minister Sigmundur David Gunnlaugsson temporarily steps down amid allegations his family attempted to hide millions in an offshore account. ](/news/2016/04/5/panama-papers-icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-temporarily-steps-down-amid-allegations-his-family-attempted-to-hide.md) _2018-02-06 13:49:29 (First version)_
 1. [Icelandic Prime Minister Sigmundur David Gunnlaugsson temporarily steps down amid allegations his family attempted to hide millions in an offshore account. ](/news/2016/04/5/icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-temporarily-steps-down-amid-allegations-his-family-attempted-to-hide-millions-in-an.md) _(Current version)_
 
 ### Related:

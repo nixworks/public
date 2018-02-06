@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/11/israeli-forces-level-land-east-of-khan-yunis-in
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-palestinian-conflict-israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md) _2017-08-27 03:46:28 (First version)_
+1. [Israeli-Palestinian conflict: Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-palestinian-conflict-israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md) _2018-02-06 13:49:29 (First version)_
 1. [Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md) _(Current version)_
 
 ### Related:

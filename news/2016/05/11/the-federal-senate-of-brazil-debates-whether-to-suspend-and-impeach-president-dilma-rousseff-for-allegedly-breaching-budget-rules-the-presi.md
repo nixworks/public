@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to
 
 ### Changes:
 
-1. [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-pres.md) _2017-08-25 03:45:38 (First version)_
-2. [Impeachment process against Dilma Rousseff: The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/impeachment-process-against-dilma-rousseff-the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for.md) _2017-08-27 03:46:01 (Update)_
+1. [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-pres.md) _2018-02-06 13:49:29 (First version)_
+2. [Impeachment process against Dilma Rousseff: The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/impeachment-process-against-dilma-rousseff-the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for.md) _2018-02-06 13:49:29 (Update)_
 2. [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-presi.md) _(Current version)_
 
 ### Related:

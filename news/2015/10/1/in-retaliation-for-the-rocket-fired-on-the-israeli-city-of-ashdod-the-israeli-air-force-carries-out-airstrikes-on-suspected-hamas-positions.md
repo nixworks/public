@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israe
 
 ### Changes:
 
-1. [Gaza-Israel conflict: In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/gaza-israel-conflict-in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-s.md) _2017-08-27 03:43:12 (First version)_
+1. [Gaza-Israel conflict: In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/gaza-israel-conflict-in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-s.md) _2018-02-06 13:49:27 (First version)_
 1. [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md) _(Current version)_
 
 ### Related:

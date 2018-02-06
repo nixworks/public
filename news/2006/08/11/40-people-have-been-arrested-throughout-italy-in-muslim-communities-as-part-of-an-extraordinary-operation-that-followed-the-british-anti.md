@@ -17,8 +17,8 @@ Investigators are tracing the money trail back to Pakistan, where one Briton who
 
 ### Changes:
 
-1. [ 2006 transatlantic aircraft plot: 40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." ](/news/2006/08/11/2006-transatlantic-aircraft-plot-p-40-people-have-been-arrested-throughout-italy-in-muslim-communities-as-part-of-an-extraordinary-operat.md) _2017-08-25 03:18:11 (First version)_
-2. [ 2006 transatlantic aircraft plot:: 40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." ](/news/2006/08/11/2006-transatlantic-aircraft-plot-40-people-have-been-arrested-throughout-italy-in-muslim-communities-as-part-of-an-extraordinary-operat.md) _2017-08-27 03:18:08 (Update)_
+1. [ 2006 transatlantic aircraft plot: 40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." ](/news/2006/08/11/2006-transatlantic-aircraft-plot-p-40-people-have-been-arrested-throughout-italy-in-muslim-communities-as-part-of-an-extraordinary-operat.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 transatlantic aircraft plot:: 40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." ](/news/2006/08/11/2006-transatlantic-aircraft-plot-40-people-have-been-arrested-throughout-italy-in-muslim-communities-as-part-of-an-extraordinary-operat.md) _2018-02-06 13:49:17 (Update)_
 2. [ 40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." ](/news/2006/08/11/40-people-have-been-arrested-throughout-italy-in-muslim-communities-as-part-of-an-extraordinary-operation-that-followed-the-british-anti.md) _(Current version)_
 
 ### Related:

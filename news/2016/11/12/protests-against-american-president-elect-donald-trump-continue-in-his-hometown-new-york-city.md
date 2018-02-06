@@ -16,7 +16,7 @@ Beyond the commotion in the streets, liberal activists are preparing legislative
 
 ### Changes:
 
-1. [Anti-Trump protests: Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/anti-trump-protests-protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md) _2017-08-27 03:47:13 (First version)_
+1. [Anti-Trump protests: Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/anti-trump-protests-protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md) _2018-02-06 13:49:29 (First version)_
 1. [Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md) _(Current version)_
 
 ### Related:

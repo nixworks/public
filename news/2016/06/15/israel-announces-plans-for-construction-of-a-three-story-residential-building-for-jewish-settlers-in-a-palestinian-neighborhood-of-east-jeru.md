@@ -16,7 +16,7 @@ Israeli municipal authorities on Wednesday approved the construction of a three-
 
 ### Changes:
 
-1. [Israel-Palestine relations: Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-palestine-relations-israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palesti.md) _2017-08-27 03:46:16 (First version)_
+1. [Israel-Palestine relations: Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-palestine-relations-israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palesti.md) _2018-02-06 13:49:29 (First version)_
 1. [Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palestinian-neighborhood-of-east-jeru.md) _(Current version)_
 
 ### Related:

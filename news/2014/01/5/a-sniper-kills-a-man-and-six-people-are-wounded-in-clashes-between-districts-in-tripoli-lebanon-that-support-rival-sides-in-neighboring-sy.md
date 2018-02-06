@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/5/a-sniper-kills-a-man-and-six-people-are-wounded-
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon:A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/syrian-civil-war-spillover-in-lebanon-pa-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-tha.md) _2017-08-25 03:39:48 (First version)_
-2. [Syrian Civil War spillover in Lebanon:: A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/syrian-civil-war-spillover-in-lebanon-a-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-th.md) _2017-08-27 03:40:07 (Update)_
+1. [Syrian Civil War spillover in Lebanon:A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/syrian-civil-war-spillover-in-lebanon-pa-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-tha.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/syrian-civil-war-spillover-in-lebanon-a-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-th.md) _2018-02-06 13:49:25 (Update)_
 2. [A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/a-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-that-support-rival-sides-in-neighboring-sy.md) _(Current version)_
 
 ### Related:

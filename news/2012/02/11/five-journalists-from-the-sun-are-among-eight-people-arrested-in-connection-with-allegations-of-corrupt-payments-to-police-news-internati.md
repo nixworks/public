@@ -16,7 +16,7 @@ News International owner Rupert Murdoch says he is committed to publishing the S
 
 ### Changes:
 
-1. [Five journalists from ''The Sun'' are among eight people arrested in connection with allegations of corrupt payments to police. News International boss Rupert Murdoch says he is committed to the newspaper. ](/news/2012/02/11/five-journalists-from-the-sun-are-among-eight-people-arrested-in-connection-with-allegations-of-corrupt-payments-to-police-news-interna.md) _2017-08-25 03:35:01 (First version)_
+1. [Five journalists from ''The Sun'' are among eight people arrested in connection with allegations of corrupt payments to police. News International boss Rupert Murdoch says he is committed to the newspaper. ](/news/2012/02/11/five-journalists-from-the-sun-are-among-eight-people-arrested-in-connection-with-allegations-of-corrupt-payments-to-police-news-interna.md) _2018-02-06 13:49:23 (First version)_
 1. [Five journalists from "The Sun" are among eight people arrested in connection with allegations of corrupt payments to police. News International boss Rupert Murdoch says he is committed to the newspaper. ](/news/2012/02/11/five-journalists-from-the-sun-are-among-eight-people-arrested-in-connection-with-allegations-of-corrupt-payments-to-police-news-internati.md) _(Current version)_
 
 ### Related:

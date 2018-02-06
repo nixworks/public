@@ -16,7 +16,7 @@ A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack b
 
 ### Changes:
 
-1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio Joao Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joapso-bento-in-dublin-republic-of-ireland-leaves-one-person-dead.md) _2017-08-25 03:44:28 (First version)_
+1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio Joao Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joapso-bento-in-dublin-republic-of-ireland-leaves-one-person-dead.md) _2018-02-06 13:49:28 (First version)_
 1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.md) _(Current version)_
 
 ### Related:

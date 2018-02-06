@@ -16,7 +16,7 @@ The number of people killed in the cyclone that hit Fiji at the weekend rises to
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: Cyclone Winston: The death toll from Cyclone Winston in Fiji rises to 29. ](/news/2016/02/23/2015-16-south-pacific-cyclone-season-cyclone-winston-the-death-toll-from-cyclone-winston-in-fiji-rises-to-29.md) _2017-08-27 03:45:00 (First version)_
+1. [2015-16 South Pacific cyclone season: Cyclone Winston: The death toll from Cyclone Winston in Fiji rises to 29. ](/news/2016/02/23/2015-16-south-pacific-cyclone-season-cyclone-winston-the-death-toll-from-cyclone-winston-in-fiji-rises-to-29.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from Cyclone Winston in Fiji rises to 29. ](/news/2016/02/23/the-death-toll-from-cyclone-winston-in-fiji-rises-to-29.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/12/google-artificial-intelligence-company-deepmind
 
 ### Changes:
 
-1. [AlphaGo versus Lee Sedol: Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/alphago-versus-lee-sedol-google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five.md) _2017-08-27 03:45:13 (First version)_
+1. [AlphaGo versus Lee Sedol: Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/alphago-versus-lee-sedol-google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five.md) _2018-02-06 13:49:28 (First version)_
 1. [Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five-game-go-match-against-gra.md) _(Current version)_
 
 ### Related:

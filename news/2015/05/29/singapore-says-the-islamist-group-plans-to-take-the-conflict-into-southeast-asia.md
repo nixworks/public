@@ -18,7 +18,7 @@ Singapore has been identified as a possible target for attack by a recent Islami
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/islamic-state-of-iraq-and-the-levant-singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _2017-08-27 03:42:26 (First version)_
+1. [Islamic State of Iraq and the Levant: Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/islamic-state-of-iraq-and-the-levant-singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _2018-02-06 13:49:27 (First version)_
 1. [Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _(Current version)_
 
 ### Related:

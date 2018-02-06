@@ -18,7 +18,7 @@ Saskatoon-based visual artist Zachari Logan explores spaces in Saskatchewan that
 
 ### Changes:
 
-1. [ King Abdullah of Saudi Arabia removes the sentence of 60 lashes for Rosanna Yami, female journalist involved in the ''Red Lines'' sex scandal. ](/news/2009/10/26/king-abdullah-of-saudi-arabia-removes-the-sentence-of-60-lashes-for-rosanna-yami-female-journalist-involved-in-the-red-lines-sex-scand.md) _2017-08-25 03:26:09 (First version)_
+1. [ King Abdullah of Saudi Arabia removes the sentence of 60 lashes for Rosanna Yami, female journalist involved in the ''Red Lines'' sex scandal. ](/news/2009/10/26/king-abdullah-of-saudi-arabia-removes-the-sentence-of-60-lashes-for-rosanna-yami-female-journalist-involved-in-the-red-lines-sex-scand.md) _2018-02-06 13:49:19 (First version)_
 1. [ King Abdullah of Saudi Arabia removes the sentence of 60 lashes for Rosanna Yami, female journalist involved in the "Red Lines" sex scandal. ](/news/2009/10/26/king-abdullah-of-saudi-arabia-removes-the-sentence-of-60-lashes-for-rosanna-yami-female-journalist-involved-in-the-red-lines-sex-scandal.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ Formats: [HTML](/news/2010/09/16/the-united-nations-special-representative-for-s
 
 ### Changes:
 
-1. [Somalia:The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-pthe-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md) _2017-08-25 03:30:04 (First version)_
-2. [Somalia:: The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-the-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md) _2017-08-27 03:30:07 (Update)_
+1. [Somalia:: The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-the-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md) _2018-02-06 13:49:20 (First version)_
+2. [Somalia:The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-pthe-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md) _2018-02-06 13:49:20 (Update)_
 2. [The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/the-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the-amisom-mi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/2015-16-zika-virus-epidemic-authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and.md) _2017-08-27 03:46:53 (First version)_
+1. [2015-16 Zika virus epidemic: Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/2015-16-zika-virus-epidemic-authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and.md) _2018-02-06 13:49:29 (First version)_
 1. [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md) _(Current version)_
 
 ### Related:

@@ -29,11 +29,11 @@ _Context: Lake Mai-Ndombe, DR Congo, ferry_
 
 ##### Pakistan
 ### [ Pakistan's National Reconciliation Ordinance, issued by former President Pervez Musharraf in October 2007 to provide several thousand politicians (including current President Asif Ali Zardari) amnesty from charges of political corruption, expires. ](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.md)
-_Context: Pakistan, Pervez Musharraf, president, amnesty, amnesty protecting him, corruption, Asif Ali Zardari_
+_Context: corruption, president, Asif Ali Zardari, amnesty, amnesty protecting him, Pakistan, Pervez Musharraf_
 
 ##### Russia
 ### [ Russia's prosecutor general opens a criminal case into the 2009 Nevsky Express bombing which killed at least 26 people yesterday. ](/news/2009/11/28/russia-s-prosecutor-general-opens-a-criminal-case-into-the-2009-nevsky-express-bombing-which-killed-at-least-26-people-yesterday.md)
-_Context: Russia, the bomb attack_
+_Context: the bomb attack, Russia_
 
 ##### Zimbabwe
 ### [ Three people are killed and four injured after a Zimbabwean cargo plane catches fire at Shanghai Pudong International Airport. ](/news/2009/11/28/three-people-are-killed-and-four-injured-after-a-zimbabwean-cargo-plane-catches-fire-at-shanghai-pudong-international-airport.md)
@@ -41,11 +41,11 @@ _Context: Shanghai Pudong International Airport, Zimbabwe_
 
 ##### Japan
 ### [ Japan launches its fifth spy satellite on the H-IIA rocket from the Tanegashima Space Center. ](/news/2009/11/28/japan-launches-its-fifth-spy-satellite-on-the-h-iia-rocket-from-the-tanegashima-space-center.md)
-_Context: Tanegashima Space Center, Japan, spy satellite, H-IIA_
+_Context: spy satellite, Tanegashima Space Center, H-IIA, Japan_
 
 ##### elections last week
 ### [ A second day of voting in national and presidential elections in Namibia takes place. ](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.md)
-_Context: Namibia, elections last week_
+_Context: elections last week, Namibia_
 
 ## [Previous Day...](/news/2009/11/27/index.md)
 

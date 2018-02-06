@@ -18,7 +18,7 @@ Iranian President Hassan Rouhani reveals a cabinet lineup of experienced technoc
 
 ### Changes:
 
-1. [Hassan Rouhani is officially inaugurated as President of Iran in the House of the Parliament and announces the members of his cabinet to the parliament. ](/news/2013/08/4/hassan-rouhani-is-officially-inaugurated-as-president-of-iran-in-the-house-of-the-parliament-and-announces-the-members-of-his-cabinet-to-th.md) _2017-08-25 03:39:05 (First version)_
+1. [Hassan Rouhani is officially inaugurated as President of Iran in the House of the Parliament and announces the members of his cabinet to the parliament. ](/news/2013/08/4/hassan-rouhani-is-officially-inaugurated-as-president-of-iran-in-the-house-of-the-parliament-and-announces-the-members-of-his-cabinet-to-th.md) _2018-02-06 13:49:25 (First version)_
 1. [Hassan Rouhani is officially inaugurated as President of Iran in the House of the Parliament and announces the members of his cabinet to the parliament. ](/news/2013/08/4/hassan-rouhani-is-officially-inaugurated-as-president-of-iran-in-the-house-of-the-parliament-and-announces-the-members-of-his-cabinet-to-the.md) _(Current version)_
 
 ### Related:

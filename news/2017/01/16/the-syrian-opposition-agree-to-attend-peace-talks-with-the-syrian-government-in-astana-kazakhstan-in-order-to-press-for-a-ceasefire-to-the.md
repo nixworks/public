@@ -16,7 +16,7 @@ Boost for talks backed by Russia and Turkey as opposition groups consent to send
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian peace process: The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/syrian-civil-war-syrian-peace-process-the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan.md) _2017-08-27 03:47:37 (First version)_
+1. [Syrian Civil War: Syrian peace process: The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/syrian-civil-war-syrian-peace-process-the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan.md) _2018-02-06 13:49:30 (First version)_
 1. [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md) _(Current version)_
 
 ### Related:

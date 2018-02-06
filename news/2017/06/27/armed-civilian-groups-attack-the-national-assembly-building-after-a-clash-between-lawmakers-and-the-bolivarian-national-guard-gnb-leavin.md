@@ -17,7 +17,7 @@ Armed civilian groups have attacked the Venezuelan Parliament building after a c
 
 ### Changes:
 
-1. [Armed civilian groups attack the Venezuelan Parliament building, after a clash between lawmakers and the Bolivarian National Guard (GNB), also known as the military police, leaving various legislators and journalists injured. Opposition legislator and President of the Camera Julio Borges blamed President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-venezuelan-parliament-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-al.md) _2017-06-28 14:30:05 (First version)_
+1. [Armed civilian groups attack the Venezuelan Parliament building, after a clash between lawmakers and the Bolivarian National Guard (GNB), also known as the military police, leaving various legislators and journalists injured. Opposition legislator and President of the Camera Julio Borges blamed President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-venezuelan-parliament-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-al.md) _2018-02-06 13:49:30 (First version)_
 1. [Armed civilian groups attack the National Assembly building, after a clash between lawmakers and the Bolivarian National Guard (GNB), leaving various legislators and journalists injured. Opposition legislator and President of the Assembly Julio Borges blames President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-national-assembly-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-leavin.md) _(Current version)_
 
 ### Related:

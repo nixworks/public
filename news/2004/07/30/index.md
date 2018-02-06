@@ -9,11 +9,11 @@ _Context: United Nations Security Council_
 
 ##### suicide bomber
 ### [ Three people are killed and eight wounded in three suicide bomber attacks outside the U.S. and Israeli embassies and the Uzbek chief prosecutor's office in Tashkent, Uzbekistan. The Islamist group Hizb ut-Tahrir is blamed by Uzbek President Islam Karimov. Other unnamed sources point to al-Qaeda. ](/news/2004/07/30/three-people-are-killed-and-eight-wounded-in-three-suicide-bomber-attacks-outside-the-u-s-and-israeli-embassies-and-the-uzbek-chief-prosec.md)
-_Context: Hizb ut-Tahrir, Uzbekistan, suicide bomber, Islamist, al-Qaeda, Tashkent, Israel, embassies_
+_Context: Hizb ut-Tahrir, Tashkent, Israel, al-Qaeda, embassies, suicide bomber, Islamist, Uzbekistan_
 
 ##### natural gas
 ### [ A natural gas pipeline explodes in Ghislenghien, near Ath (thirty kilometres southeast of Brussels), killing 18 people and leaving over 120 wounded, some critically. ](/news/2004/07/30/a-natural-gas-pipeline-explodes-in-ghislenghien-near-ath-thirty-kilometres-southeast-of-brussels-killing-18-people-and-leaving-over-120.md)
-_Context: Ghislenghien, natural gas, Brussels, pipeline, Ath_
+_Context: Brussels, pipeline, natural gas, Ath, Ghislenghien_
 
 ## [Previous Day...](/news/2004/07/29/index.md)
 

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/22/the-united-nations-reports-80-000-civilians-hav
 
 ### Changes:
 
-1. [Battle of Fallujah (2016): The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/battle-of-fallujah-2016-the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-th.md) _2017-08-27 03:46:18 (First version)_
+1. [Battle of Fallujah (2016): The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/battle-of-fallujah-2016-the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-th.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md) _(Current version)_
 
 ### Related:

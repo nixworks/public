@@ -16,8 +16,8 @@ A teenager who killed two people and wounded four others in a shooting at a smal
 
 ### Changes:
 
-1. [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico.md) _2017-08-29 21:30:05 (First version)_
-2. [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico, United States. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico-united-states.md) _2017-08-30 14:30:04 (Update)_
+1. [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico.md) _2018-02-06 13:49:31 (First version)_
+2. [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico, United States. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico-united-states.md) _2018-02-06 13:49:31 (Update)_
 2. [Two people are killed and four are hospitalized in a shooting in a library in the U.S. town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalized-in-a-shooting-in-a-library-in-the-u-s-town-of-clovis-new-mexico.md) _(Current version)_
 
 ### Related:

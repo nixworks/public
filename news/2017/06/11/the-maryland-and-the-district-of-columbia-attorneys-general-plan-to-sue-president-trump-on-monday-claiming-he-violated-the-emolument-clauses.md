@@ -16,7 +16,7 @@ Case centers on &lsquo;emoluments&rsquo; clause of Constitution, barring gifts f
 
 ### Changes:
 
-1. [Presidency of Donald Trump: The Maryland and the District of Columbia attorneys general plan to sue President Trump on Monday claiming he violated the emolument clauses in the Constitution by accepting foreign payouts for his hotelier empire. ](/news/2017/06/11/presidency-of-donald-trump-the-maryland-and-the-district-of-columbia-attorneys-general-plan-to-sue-president-trump-on-monday-claiming-he-vi.md) _2017-08-27 03:48:28 (First version)_
+1. [Presidency of Donald Trump: The Maryland and the District of Columbia attorneys general plan to sue President Trump on Monday claiming he violated the emolument clauses in the Constitution by accepting foreign payouts for his hotelier empire. ](/news/2017/06/11/presidency-of-donald-trump-the-maryland-and-the-district-of-columbia-attorneys-general-plan-to-sue-president-trump-on-monday-claiming-he-vi.md) _2018-02-06 13:49:30 (First version)_
 1. [The Maryland and the District of Columbia attorneys general plan to sue President Trump on Monday claiming he violated the emolument clauses in the Constitution by accepting foreign payouts for his hotelier empire. ](/news/2017/06/11/the-maryland-and-the-district-of-columbia-attorneys-general-plan-to-sue-president-trump-on-monday-claiming-he-violated-the-emolument-clauses.md) _(Current version)_
 
 ### Related:

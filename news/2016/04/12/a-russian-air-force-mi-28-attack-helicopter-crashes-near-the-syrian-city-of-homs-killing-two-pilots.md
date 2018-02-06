@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-cra
 
 ### Changes:
 
-1. [ Russian military intervention in the Syrian Civil War: A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/russian-military-intervention-in-the-syrian-civil-war-a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-ki.md) _2017-08-27 03:45:35 (First version)_
+1. [ Russian military intervention in the Syrian Civil War: A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/russian-military-intervention-in-the-syrian-civil-war-a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-ki.md) _2018-02-06 13:49:28 (First version)_
 1. [ A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md) _(Current version)_
 
 ### Related:

@@ -21,11 +21,11 @@ Hours after taking office, U.S. President Barack Obama ordered military prosecut
 
 ##### ceasefire
 ### [ Despite a ceasefire in its conflict with Israel, Hamas fires eight mortar shells into the country. ](/news/2009/01/21/despite-a-ceasefire-in-its-conflict-with-israel-hamas-fires-eight-mortar-shells-into-the-country.md)
-_Context: Hamas, conflict, Mortar, ceasefire, Israel_
+_Context: Israel, conflict, Mortar, ceasefire, Hamas_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom reports that 1.92 million Britons were unemployed in December 2008. ](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-britons-were-unemployed-in-december-2008.md)
-_Context: British, Unemployment, 2008, British_
+_Context: United Kingdom, 2008, Unemployment, British_
 
 ##### China
 ### [ China Central Television omits sensitive portions of U.S. President Obama's inaugural address. ](/news/2009/01/21/china-central-television-omits-sensitive-portions-of-u-s-president-obama-s-inaugural-address.md)
@@ -37,7 +37,7 @@ President McAleese has signed the Anglo Irish Bank Bill at Áras an Uachtaráin.
 
 ##### engine
 ### [ The missing engine from US Airways Flight 1549 is found at the bottom of the Hudson River. ](/news/2009/01/21/the-missing-engine-from-us-airways-flight-1549-is-found-at-the-bottom-of-the-hudson-river.md)
-_Context: Hudson River, engine, US Airways, US Airways Flight 1549_
+_Context: engine, US Airways Flight 1549, US Airways, Hudson River_
 
 ## [Previous Day...](/news/2009/01/20/index.md)
 

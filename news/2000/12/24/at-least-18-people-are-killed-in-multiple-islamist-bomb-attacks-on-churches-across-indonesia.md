@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/12/24/at-least-18-people-are-killed-in-multiple-islam
 
 ### Changes:
 
-1. [Christmas Eve 2000 Indonesia bombings: At least 18 people are killed in multiple Islamist bomb attacks on churches across Indonesia.](/news/2000/12/24/christmas-eve-2000-indonesia-bombings-at-least-18-people-are-killed-in-multiple-islamist-bomb-attacks-on-churches-across-indonesia.md) _2017-08-27 03:15:09 (First version)_
+1. [Christmas Eve 2000 Indonesia bombings: At least 18 people are killed in multiple Islamist bomb attacks on churches across Indonesia.](/news/2000/12/24/christmas-eve-2000-indonesia-bombings-at-least-18-people-are-killed-in-multiple-islamist-bomb-attacks-on-churches-across-indonesia.md) _2018-02-06 13:49:15 (First version)_
 1. [At least 18 people are killed in multiple Islamist bomb attacks on churches across Indonesia.](/news/2000/12/24/at-least-18-people-are-killed-in-multiple-islamist-bomb-attacks-on-churches-across-indonesia.md) _(Current version)_
 
 ### Related:

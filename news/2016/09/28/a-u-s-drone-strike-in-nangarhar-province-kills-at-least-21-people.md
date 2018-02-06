@@ -16,7 +16,7 @@ A suspected U.S. drone strike against Islamic State in Afghanistan killed at lea
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A U.S. drone strike in Nangarhar Province kills at least 21 people. ](/news/2016/09/28/war-in-afghanistan-2015-present-a-u-s-drone-strike-in-nangarhar-province-kills-at-least-21-people.md) _2017-08-27 03:46:55 (First version)_
+1. [War in Afghanistan (2015-present): A U.S. drone strike in Nangarhar Province kills at least 21 people. ](/news/2016/09/28/war-in-afghanistan-2015-present-a-u-s-drone-strike-in-nangarhar-province-kills-at-least-21-people.md) _2018-02-06 13:49:29 (First version)_
 1. [A U.S. drone strike in Nangarhar Province kills at least 21 people. ](/news/2016/09/28/a-u-s-drone-strike-in-nangarhar-province-kills-at-least-21-people.md) _(Current version)_
 
 ### Related:

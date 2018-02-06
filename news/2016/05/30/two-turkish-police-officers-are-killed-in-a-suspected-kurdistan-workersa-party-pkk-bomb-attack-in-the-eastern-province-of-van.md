@@ -16,7 +16,7 @@ Two police officers were killed on May 30 in an outlawed Kurdistan Workers’ Pa
 
 ### Changes:
 
-1. [ Kurdish-Turkish conflict (2015-present): Two Turkish police officers are killed in a suspected Kurdistan Workers- Party (PKK) bomb attack in the eastern province of Van. ](/news/2016/05/30/kurdish-turkish-conflict-2015-present-two-turkish-police-officers-are-killed-in-a-suspected-kurdistan-workers-party-pkk-bomb-at.md) _2017-08-27 03:46:10 (First version)_
+1. [ Kurdish-Turkish conflict (2015-present): Two Turkish police officers are killed in a suspected Kurdistan Workers- Party (PKK) bomb attack in the eastern province of Van. ](/news/2016/05/30/kurdish-turkish-conflict-2015-present-two-turkish-police-officers-are-killed-in-a-suspected-kurdistan-workers-party-pkk-bomb-at.md) _2018-02-06 13:49:29 (First version)_
 1. [ Two Turkish police officers are killed in a suspected Kurdistan Workers' Party (PKK) bomb attack in the eastern province of Van. ](/news/2016/05/30/two-turkish-police-officers-are-killed-in-a-suspected-kurdistan-workersa-party-pkk-bomb-attack-in-the-eastern-province-of-van.md) _(Current version)_
 
 ### Related:

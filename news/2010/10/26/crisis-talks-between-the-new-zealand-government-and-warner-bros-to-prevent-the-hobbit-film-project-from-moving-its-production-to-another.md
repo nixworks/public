@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/10/26/crisis-talks-between-the-new-zealand-government
 
 ### Changes:
 
-1. [Crisis talks between the New Zealand Government and Warner Bros. to prevent ''The Hobbit'' film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-anothe.md) _2017-08-25 03:30:42 (First version)_
+1. [Crisis talks between the New Zealand Government and Warner Bros. to prevent ''The Hobbit'' film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-anothe.md) _2018-02-06 13:49:20 (First version)_
 1. [Crisis talks between the New Zealand Government and Warner Bros. to prevent "The Hobbit" film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-another.md) _(Current version)_
 
 ### Related:

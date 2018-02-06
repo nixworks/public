@@ -16,8 +16,8 @@ About 40,000 people abandon Shaddadeh town after three days of heavy clashes bet
 
 ### Changes:
 
-1. [Syrian civil war:After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/syrian-civil-war-pafter-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-alr.md) _2017-08-25 03:37:32 (First version)_
-2. [Syrian civil war:: After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/syrian-civil-war-after-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-al.md) _2017-08-27 03:37:43 (Update)_
+1. [Syrian civil war:After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/syrian-civil-war-pafter-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-alr.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/syrian-civil-war-after-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-al.md) _2018-02-06 13:49:24 (Update)_
 2. [After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/after-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-already-internally-di.md) _(Current version)_
 
 ### Related:

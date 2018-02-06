@@ -16,7 +16,7 @@ North Korea was hit with more sanctions on Friday designed to impede access to t
 
 ### Changes:
 
-1. [North Korea-United States relations: The United States enacts more sanctions on North Korea in response to their alleged involvement in the hacking attack on Sony. The sanctions target the North Korean Special Operation Force and 10 government officials. ](/news/2015/01/2/north-korea-united-states-relations-the-united-states-enacts-more-sanctions-on-north-korea-in-response-to-their-alleged-involvement-in-th.md) _2017-08-27 03:41:42 (First version)_
+1. [North Korea-United States relations: The United States enacts more sanctions on North Korea in response to their alleged involvement in the hacking attack on Sony. The sanctions target the North Korean Special Operation Force and 10 government officials. ](/news/2015/01/2/north-korea-united-states-relations-the-united-states-enacts-more-sanctions-on-north-korea-in-response-to-their-alleged-involvement-in-th.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States enacts more sanctions on North Korea in response to their alleged involvement in the hacking attack on Sony. The sanctions target the North Korean Special Operation Force and 10 government officials. ](/news/2015/01/2/the-united-states-enacts-more-sanctions-on-north-korea-in-response-to-their-alleged-involvement-in-the-hacking-attack-on-sony-the-sanctions.md) _(Current version)_
 
 ### Related:

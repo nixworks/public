@@ -17,7 +17,7 @@ Six politicians given go-ahead to run in presidential election, which is likely 
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Guardian Council announces names of six final candidates. Incumbent President Hassan Rouhani, chairman of Astan Quds Razavi Ebrahim Raisi and Tehran Mayor Mohammad Bagher Ghalibaf is among the list. More than 1,600 nominees were disqualified, including all 137 female candidates and former president Mahmoud Ahmadinejad. ](/news/2017/04/20/iranian-presidential-election-2017-guardian-council-announces-names-of-six-final-candidates-incumbent-president-hassan-rouhani-chairman.md) _2017-08-27 03:48:12 (First version)_
+1. [Iranian presidential election, 2017: Guardian Council announces names of six final candidates. Incumbent President Hassan Rouhani, chairman of Astan Quds Razavi Ebrahim Raisi and Tehran Mayor Mohammad Bagher Ghalibaf is among the list. More than 1,600 nominees were disqualified, including all 137 female candidates and former president Mahmoud Ahmadinejad. ](/news/2017/04/20/iranian-presidential-election-2017-guardian-council-announces-names-of-six-final-candidates-incumbent-president-hassan-rouhani-chairman.md) _2018-02-06 13:49:30 (First version)_
 1. [Guardian Council announces names of six final candidates. Incumbent President Hassan Rouhani, chairman of Astan Quds Razavi Ebrahim Raisi and Tehran Mayor Mohammad Bagher Ghalibaf is among the list. More than 1,600 nominees were disqualified, including all 137 female candidates and former president Mahmoud Ahmadinejad. ](/news/2017/04/20/guardian-council-announces-names-of-six-final-candidates-incumbent-president-hassan-rouhani-chairman-of-astan-quds-razavi-ebrahim-raisi-an.md) _(Current version)_
 
 ### Related:

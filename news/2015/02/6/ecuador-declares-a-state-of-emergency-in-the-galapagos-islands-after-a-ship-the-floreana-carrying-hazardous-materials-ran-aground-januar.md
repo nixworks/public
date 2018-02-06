@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-gal
 
 ### Changes:
 
-1. [Ecuador declares a state of emergency in the Galpagos Islands after a ship, ''The Floreana'', carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-janu.md) _2017-08-25 03:41:35 (First version)_
+1. [Ecuador declares a state of emergency in the Galpagos Islands after a ship, ''The Floreana'', carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-janu.md) _2018-02-06 13:49:26 (First version)_
 1. [Ecuador declares a state of emergency in the Galpagos Islands after a ship, "The Floreana", carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-januar.md) _(Current version)_
 
 ### Related:

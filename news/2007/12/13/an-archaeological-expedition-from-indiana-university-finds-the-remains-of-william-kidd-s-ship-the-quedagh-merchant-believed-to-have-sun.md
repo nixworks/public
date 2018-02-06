@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/12/13/an-archaeological-expedition-from-indiana-unive
 
 ### Changes:
 
-1. [ An archaeological expedition from Indiana University finds the remains of William Kidd's ship, the ''Quedagh Merchant'', believed to have sunk in 1699, near Catalina Island, Dominican Republic. ](/news/2007/12/13/an-archaeological-expedition-from-indiana-university-finds-the-remains-of-william-kidd-s-ship-the-quedagh-merchant-believed-to-have-s.md) _2017-08-25 03:21:35 (First version)_
+1. [ An archaeological expedition from Indiana University finds the remains of William Kidd's ship, the ''Quedagh Merchant'', believed to have sunk in 1699, near Catalina Island, Dominican Republic. ](/news/2007/12/13/an-archaeological-expedition-from-indiana-university-finds-the-remains-of-william-kidd-s-ship-the-quedagh-merchant-believed-to-have-s.md) _2018-02-06 13:49:18 (First version)_
 1. [ An archaeological expedition from Indiana University finds the remains of William Kidd's ship, the "Quedagh Merchant", believed to have sunk in 1699, near Catalina Island, Dominican Republic. ](/news/2007/12/13/an-archaeological-expedition-from-indiana-university-finds-the-remains-of-william-kidd-s-ship-the-quedagh-merchant-believed-to-have-sun.md) _(Current version)_
 
 ### Related:

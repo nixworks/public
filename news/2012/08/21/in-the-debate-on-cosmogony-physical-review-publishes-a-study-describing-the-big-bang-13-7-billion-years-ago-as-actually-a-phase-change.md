@@ -16,7 +16,7 @@ Physicists say the Big Bang was a phase change, like water freezing into ice, ra
 
 ### Changes:
 
-1. [In the debate on cosmogony, ''Physical Review'' publishes a study describing the Big Bang, 13.7 billion years ago, as actually a phase change ruled by event symmetry, possibly explaining better how our well-known spacetime could originate from original matter. ](/news/2012/08/21/in-the-debate-on-cosmogony-physical-review-publishes-a-study-describing-the-big-bang-13-7-billion-years-ago-as-actually-a-phase-chang.md) _2017-08-25 03:36:18 (First version)_
+1. [In the debate on cosmogony, ''Physical Review'' publishes a study describing the Big Bang, 13.7 billion years ago, as actually a phase change ruled by event symmetry, possibly explaining better how our well-known spacetime could originate from original matter. ](/news/2012/08/21/in-the-debate-on-cosmogony-physical-review-publishes-a-study-describing-the-big-bang-13-7-billion-years-ago-as-actually-a-phase-chang.md) _2018-02-06 13:49:23 (First version)_
 1. [In the debate on cosmogony, "Physical Review" publishes a study describing the Big Bang, 13.7 billion years ago, as actually a phase change ruled by event symmetry, possibly explaining better how our well-known spacetime could originate from original matter. ](/news/2012/08/21/in-the-debate-on-cosmogony-physical-review-publishes-a-study-describing-the-big-bang-13-7-billion-years-ago-as-actually-a-phase-change.md) _(Current version)_
 
 ### Related:

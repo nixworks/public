@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/12/1/enrique-pea-a-nieto-of-the-institutional-revolut
 
 ### Changes:
 
-1. [Mexican inauguration:Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/mexican-inauguration-penrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashes.md) _2017-08-25 03:36:55 (First version)_
-2. [Mexican inauguration:: Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/mexican-inauguration-enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashe.md) _2017-08-27 03:37:05 (Update)_
+1. [Mexican inauguration:Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/mexican-inauguration-penrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashes.md) _2018-02-06 13:49:24 (First version)_
+2. [Mexican inauguration:: Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/mexican-inauguration-enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashe.md) _2018-02-06 13:49:24 (Update)_
 2. [Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashes-occur-outside.md) _(Current version)_
 
 ### Related:

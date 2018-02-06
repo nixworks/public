@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/4/a-mortar-attack-in-afghanistan-s-central-wardak-
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/war-in-afghanistan-2015-present-a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md) _2017-08-27 03:44:11 (First version)_
+1. [War in Afghanistan (2015-present): A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/war-in-afghanistan-2015-present-a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md) _(Current version)_
 
 ### Related:

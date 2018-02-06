@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/05/11/united-states-coast-guard-commander-admiral-tha
 
 ### Changes:
 
-1. [Gulf of Mexico oil spill:United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-punited-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-respo.md) _2017-08-25 03:27:53 (First version)_
-2. [Gulf of Mexico oil spill:: United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-resp.md) _2017-08-27 03:27:51 (Update)_
+1. [Gulf of Mexico oil spill:: United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-resp.md) _2018-02-06 13:49:20 (First version)_
+2. [Gulf of Mexico oil spill:United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-punited-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-respo.md) _2018-02-06 13:49:20 (Update)_
 2. [United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-response-to-the-gulf-of-mexico.md) _(Current version)_
 
 ### Related:

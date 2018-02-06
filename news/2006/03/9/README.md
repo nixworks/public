@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Abu Ghraib abuse
 ### [ The notorious Abu Ghraib prison in Iraq is to close and its prisoners to be housed elsewhere, the U.S. military has said. ](/news/2006/03/9/the-notorious-abu-ghraib-prison-in-iraq-is-to-close-and-its-prisoners-to-be-housed-elsewhere-the-u-s-military-has-said.md)
-_Context: Abu Ghraib abuse, Iraq, Abu Ghraib prison_
+_Context: Abu Ghraib prison, Abu Ghraib abuse, Iraq_
 
 ## [Previous Day...](/news/2006/03/8/index.md)
 

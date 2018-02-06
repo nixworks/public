@@ -5,7 +5,7 @@ Formats: [HTML](2007/09/24/index.html)  [JSON](2007/09/24/index.json)  [XML](200
 
 ##### India
 ### [ The India national cricket team wins the 2007 ICC World Twenty20 beating arch rival Pakistan by 5 runs. ](/news/2007/09/24/the-india-national-cricket-team-wins-the-2007-icc-world-twenty20-beating-arch-rival-pakistan-by-5-runs.md)
-_Context: India, Pakistan, 2007 ICC World Twenty20_
+_Context: 2007 ICC World Twenty20, India, Pakistan_
 
 ##### Menachem Mazuz
 ### [ Menachem Mazuz, the Attorney General of Israel, orders a criminal investigation into the purchase of a house by the Prime Minister of Israel Ehud Olmert. ](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.md)
@@ -13,11 +13,11 @@ _Context: Menachem Mazuz, Israeli Prime Minister, Attorney General of Israel, Eh
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md)
-_Context: Columbia University, Mahmoud Ahmadinejad, gay Iran, United States, Holocaust, President, September 11, 2001 attacks_
+_Context: September 11, 2001 attacks, Columbia University, gay Iran, Mahmoud Ahmadinejad, Holocaust, President, United States_
 
 ##### United Nations Secretary-General
 ### [ The Secretary-General of the United Nations Ban Ki-Moon called for a new commitment by world leaders on climate change at a special United Nations session to discuss climate change. ](/news/2007/09/24/the-secretary-general-of-the-united-nations-ban-ki-moon-called-for-a-new-commitment-by-world-leaders-on-climate-change-at-a-special-united.md)
-_Context: Ban Ki-Moon, climate change, United Nations, United Nations Secretary-General_
+_Context: United Nations, United Nations Secretary-General, climate change, Ban Ki-Moon_
 
 ##### United Auto Workers
 ### [ Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract. ](/news/2007/09/24/members-of-the-united-automobile-workers-union-walk-off-their-jobs-at-general-motors-plants-across-the-united-states-as-union-and-company-o.md)
@@ -25,7 +25,7 @@ The first national strike against G.M. by the auto workers union since 1970 bega
 
 ##### president
 ### [ President Luiz Incio Lula da Silva says that he will defend Brazil's record on global climate change when he addresses the United Nations General Assembly this week. ](/news/2007/09/24/president-luiz-inacio-lula-da-silva-says-that-he-will-defend-brazil-s-record-on-global-climate-change-when-he-addresses-the-united-nations.md)
-_Context: United Nations General Assembly, Brazil, president, climate change, Luiz Incio Lula da Silva_
+_Context: climate change, United Nations General Assembly, president, Brazil, Luiz Incio Lula da Silva_
 
 ##### Brazil's stock market
 ### [ Brazil's stock market rises to a record 58,393.75 points and the country's currency, the real, gains 0.11 percent to 1.867 per U.S. dollar. ](/news/2007/09/24/brazil-s-stock-market-rises-to-a-record-58-393-75-points-and-the-country-s-currency-the-real-gains-0-11-percent-to-1-867-per-u-s-dollar.md)
@@ -33,7 +33,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### tornadoes
 ### [ Several tornadoes affect parts of Great Britain, causing severe damage. ](/news/2007/09/24/several-tornadoes-affect-parts-of-great-britain-causing-severe-damage.md)
-_Context: tornadoes, Great Britain_
+_Context: Great Britain, tornadoes_
 
 ##### Rangoon
 ### [ Eyewitnesses say the number of people demonstrating in Rangoon was as high as 100,000 as the biggest Burmese anti-government protest in twenty years continues. ](/news/2007/09/24/eyewitnesses-say-the-number-of-people-demonstrating-in-rangoon-was-as-high-as-100-000-as-the-biggest-burmese-anti-government-protest-in-twe.md)

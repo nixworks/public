@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/07/21/zimbabwe-introduces-a-new-100-billion-dollar-ba
 
 ### Changes:
 
-1. [ Zimbabwe: Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-p-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md) _2017-08-25 03:22:36 (First version)_
-2. [ Zimbabwe:: Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md) _2017-08-27 03:22:29 (Update)_
+1. [ Zimbabwe:: Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md) _2018-02-06 13:49:18 (First version)_
+2. [ Zimbabwe: Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-p-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md) _2018-02-06 13:49:18 (Update)_
 2. [ Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md) _(Current version)_
 
 ### Related:

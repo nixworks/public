@@ -17,7 +17,7 @@ The battle in Donetsk between rebels and Kiev government forces was one of the m
 
 ### Changes:
 
-1. [War in Donbass: Heavy fighting resumes between Ukraine forces and rebels near Donetsk International Airport with at least six people dead. The terminal is burning. ](/news/2014/09/14/war-in-donbass-heavy-fighting-resumes-between-ukraine-forces-and-rebels-near-donetsk-international-airport-with-at-least-six-people-dead-t.md) _2017-08-27 03:41:16 (First version)_
+1. [War in Donbass: Heavy fighting resumes between Ukraine forces and rebels near Donetsk International Airport with at least six people dead. The terminal is burning. ](/news/2014/09/14/war-in-donbass-heavy-fighting-resumes-between-ukraine-forces-and-rebels-near-donetsk-international-airport-with-at-least-six-people-dead-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Heavy fighting resumes between Ukraine forces and rebels near Donetsk International Airport with at least six people dead. The terminal is burning. ](/news/2014/09/14/heavy-fighting-resumes-between-ukraine-forces-and-rebels-near-donetsk-international-airport-with-at-least-six-people-dead-the-terminal-is-b.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The vessel has gone &ldquo;dark&rdquo; for more than a week now, just when Ahmed
 
 ### Changes:
 
-1. [The ''San Antonio''-class amphibious transport dock USS ''New York'', currently home to the recently captured Ahmed Abu Khattala, goes dark under the order of the brevity code "River City". ](/news/2014/06/27/the-san-antonio-class-amphibious-transport-dock-uss-new-york-currently-home-to-the-recently-captured-ahmed-abu-khattala-goes-dark.md) _2017-08-25 03:40:36 (First version)_
+1. [The ''San Antonio''-class amphibious transport dock USS ''New York'', currently home to the recently captured Ahmed Abu Khattala, goes dark under the order of the brevity code "River City". ](/news/2014/06/27/the-san-antonio-class-amphibious-transport-dock-uss-new-york-currently-home-to-the-recently-captured-ahmed-abu-khattala-goes-dark.md) _2018-02-06 13:49:26 (First version)_
 1. [The "San Antonio"-class amphibious transport dock USS "New York", currently home to the recently captured Ahmed Abu Khattala, goes dark under the order of the brevity code "River City". ](/news/2014/06/27/the-san-antonio-class-amphibious-transport-dock-uss-new-york-currently-home-to-the-recently-captured-ahmed-abu-khattala-goes-dark-unde.md) _(Current version)_
 
 ### Related:

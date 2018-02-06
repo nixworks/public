@@ -17,7 +17,7 @@ We can now precisely count how many cancer-related DNA mutations accumulate in s
 
 ### Changes:
 
-1. [Tobacco smoke: A research team at Los Alamos National Laboratory quantifies the molecular damage inflicted on DNA and discloses that every 50 cigarettes smoked generates an average of one DNA mutation in each lung cell. ](/news/2016/11/4/tobacco-smoke-a-research-team-at-los-alamos-national-laboratory-quantifies-the-molecular-damage-inflicted-on-dna-and-discloses-that-every-5.md) _2017-08-27 03:47:10 (First version)_
+1. [Tobacco smoke: A research team at Los Alamos National Laboratory quantifies the molecular damage inflicted on DNA and discloses that every 50 cigarettes smoked generates an average of one DNA mutation in each lung cell. ](/news/2016/11/4/tobacco-smoke-a-research-team-at-los-alamos-national-laboratory-quantifies-the-molecular-damage-inflicted-on-dna-and-discloses-that-every-5.md) _2018-02-06 13:49:29 (First version)_
 1. [A research team at Los Alamos National Laboratory quantifies the molecular damage inflicted on DNA and discloses that every 50 cigarettes smoked generates an average of one DNA mutation in each lung cell. ](/news/2016/11/4/a-research-team-at-los-alamos-national-laboratory-quantifies-the-molecular-damage-inflicted-on-dna-and-discloses-that-every-50-cigarettes-sm.md) _(Current version)_
 
 ### Related:

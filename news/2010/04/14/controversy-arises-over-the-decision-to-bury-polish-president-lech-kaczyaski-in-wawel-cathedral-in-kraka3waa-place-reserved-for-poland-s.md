@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-po
 
 ### Changes:
 
-1. [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow-a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3w-a-place-reserved-for-poland-s.md) _2017-08-27 03:27:35 (First version)_
+1. [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow-a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3w-a-place-reserved-for-poland-s.md) _2018-02-06 13:49:19 (First version)_
 1. [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md) _(Current version)_
 
 ### Related:

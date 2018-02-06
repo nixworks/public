@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/16/the-english-version-of-harry-potter-and-the-hal
 
 ### Changes:
 
-1. [ The English version of ''Harry Potter and the Half-Blood Prince'' is released at midnight local time across the UK, Ireland and North America ](/news/2005/07/16/the-english-version-of-harry-potter-and-the-half-blood-prince-is-released-at-midnight-local-time-across-the-uk-ireland-and-north-ameri.md) _2017-08-25 03:16:32 (First version)_
+1. [ The English version of ''Harry Potter and the Half-Blood Prince'' is released at midnight local time across the UK, Ireland and North America ](/news/2005/07/16/the-english-version-of-harry-potter-and-the-half-blood-prince-is-released-at-midnight-local-time-across-the-uk-ireland-and-north-ameri.md) _2018-02-06 13:49:16 (First version)_
 1. [ The English version of "Harry Potter and the Half-Blood Prince" is released at midnight local time across the UK, Ireland and North America [http:--www.cnn.com-2005-SHOWBIZ-books-07-15-launching.harry.ap-index.html?section=cnn_latest (CNN)](Wikinews)](/news/2005/07/16/the-english-version-of-harry-potter-and-the-half-blood-prince-is-released-at-midnight-local-time-across-the-uk-ireland-and-north-america.md) _(Current version)_
 
 ### Related:

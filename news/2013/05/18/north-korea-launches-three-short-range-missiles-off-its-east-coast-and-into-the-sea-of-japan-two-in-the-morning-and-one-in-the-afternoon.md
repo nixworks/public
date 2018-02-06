@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/18/north-korea-launches-three-short-range-missiles
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-pnorth-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-on.md) _2017-08-25 03:38:41 (First version)_
-2. [2013 Korean crisis:: North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-o.md) _2017-08-27 03:38:54 (Update)_
+1. [2013 Korean crisis:North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-pnorth-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-on.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-o.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-one-in-the-afternoon.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/10/21/the-president-of-the-united-states-barack-obama
 
 ### Changes:
 
-1. [Iraq War:The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/iraq-war-pthe-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from.md) _2017-08-25 03:34:21 (First version)_
-2. [Iraq War:: The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/iraq-war-the-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from.md) _2017-08-27 03:34:30 (Update)_
+1. [Iraq War:: The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/iraq-war-the-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from.md) _2018-02-06 13:49:22 (First version)_
+2. [Iraq War:The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/iraq-war-pthe-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from.md) _2018-02-06 13:49:22 (Update)_
 2. [The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/the-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from-iraq-by-th.md) _(Current version)_
 
 ### Related:

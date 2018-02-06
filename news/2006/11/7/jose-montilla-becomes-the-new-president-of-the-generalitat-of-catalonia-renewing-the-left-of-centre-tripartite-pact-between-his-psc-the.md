@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-g
 
 ### Changes:
 
-1. [ Jos Montilla becomes the new President of the ''Generalitat'' of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-t.md) _2017-08-25 03:18:44 (First version)_
+1. [ Jos Montilla becomes the new President of the ''Generalitat'' of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-t.md) _2018-02-06 13:49:17 (First version)_
 1. [ Jos Montilla becomes the new President of the "Generalitat" of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-the.md) _(Current version)_
 
 ### Related:

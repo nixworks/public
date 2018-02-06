@@ -15,7 +15,7 @@ Suspected ISIL fighters unleash overnight attacks after infiltrating northern Ir
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. ](/news/2017/04/5/iraqi-civil-war-2014-present-according-to-security-sources-dozens-of-people-are-killed-in-an-overnight-attack-in-tikrit-by-suspected-i.md) _2017-08-27 03:48:06 (First version)_
+1. [Iraqi Civil War (2014-present): According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. ](/news/2017/04/5/iraqi-civil-war-2014-present-according-to-security-sources-dozens-of-people-are-killed-in-an-overnight-attack-in-tikrit-by-suspected-i.md) _2018-02-06 13:49:30 (First version)_
 1. [According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. ](/news/2017/04/5/according-to-security-sources-dozens-of-people-are-killed-in-an-overnight-attack-in-tikrit-by-suspected-isil-militants-31-bodies-were-take.md) _(Current version)_
 
 ### Related:

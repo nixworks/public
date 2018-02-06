@@ -18,8 +18,8 @@ As officials struggle with immediate response to the disaster, concerns are grow
 
 ### Changes:
 
-1. [2010 Pakistan floods:The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/2010-pakistan-floods-pthe-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-si.md) _2017-08-25 03:29:28 (First version)_
-2. [2010 Pakistan floods:: The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/2010-pakistan-floods-the-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-s.md) _2017-08-27 03:29:32 (Update)_
+1. [2010 Pakistan floods:: The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/2010-pakistan-floods-the-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-s.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/2010-pakistan-floods-pthe-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-si.md) _2018-02-06 13:49:20 (Update)_
 2. [The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/the-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-six-million-people-in-ur.md) _(Current version)_
 
 ### Related:

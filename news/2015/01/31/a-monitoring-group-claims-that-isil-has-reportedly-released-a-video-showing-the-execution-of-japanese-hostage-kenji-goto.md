@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reporte
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/islamic-state-of-iraq-and-the-levant-a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese.md) _2017-08-27 03:41:52 (First version)_
+1. [Islamic State of Iraq and the Levant: A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/islamic-state-of-iraq-and-the-levant-a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese.md) _2018-02-06 13:49:26 (First version)_
 1. [A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese-hostage-kenji-goto.md) _(Current version)_
 
 ### Related:

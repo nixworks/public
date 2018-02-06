@@ -16,8 +16,8 @@ The presence of Chinese ships near Scarborough Shoal during a Group of 20 summit
 
 ### Changes:
 
-1. [''Philippines v. China''Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-pchinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md) _2017-08-25 03:46:23 (First version)_
-2. ["Philippines v. China": Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-chinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md) _2017-08-27 03:46:46 (Update)_
+1. [''Philippines v. China''Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-pchinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md) _2018-02-06 13:49:29 (First version)_
+2. ["Philippines v. China": Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-chinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md) _2018-02-06 13:49:29 (Update)_
 2. [Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/chinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md) _(Current version)_
 
 ### Related:

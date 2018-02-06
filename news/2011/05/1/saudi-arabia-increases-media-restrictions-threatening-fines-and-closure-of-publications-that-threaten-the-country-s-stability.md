@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/05/1/saudi-arabia-increases-media-restrictions-threat
 
 ### Changes:
 
-1. [2011 Saudi Arabian protests:Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-psaudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-co.md) _2017-08-25 03:32:57 (First version)_
-2. [2011 Saudi Arabian protests:: Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-saudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-c.md) _2017-08-27 03:33:06 (Update)_
+1. [2011 Saudi Arabian protests:: Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-saudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-c.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Saudi Arabian protests:Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-psaudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-co.md) _2018-02-06 13:49:22 (Update)_
 2. [Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/saudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-country-s-stability.md) _(Current version)_
 
 ### Related:

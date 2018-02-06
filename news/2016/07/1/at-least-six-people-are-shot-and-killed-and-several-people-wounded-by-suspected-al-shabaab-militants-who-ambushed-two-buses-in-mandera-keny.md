@@ -17,8 +17,8 @@ NAIROBI, Kenya (AP) — Suspected al-Shabab gunmen killed at least six people wh
 
 ### Changes:
 
-1. [At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses-in-mandera-ken.md) _2017-08-25 03:46:02 (First version)_
-2. [War in Somalia: At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/war-in-somalia-at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses.md) _2017-08-27 03:46:23 (Update)_
+1. [War in Somalia: At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/war-in-somalia-at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses.md) _2018-02-06 13:49:29 (First version)_
+2. [At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses-in-mandera-ken.md) _2018-02-06 13:49:29 (Update)_
 2. [At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses-in-mandera-keny.md) _(Current version)_
 
 ### Related:

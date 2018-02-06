@@ -17,7 +17,7 @@ An American official held in Pakistan after shooting dead two men is a CIA agent
 
 ### Changes:
 
-1. [''The Guardian'' reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-cent.md) _2017-08-25 03:32:17 (First version)_
+1. [''The Guardian'' reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-cent.md) _2018-02-06 13:49:22 (First version)_
 1. ["The Guardian" reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-centra.md) _(Current version)_
 
 ### Related:

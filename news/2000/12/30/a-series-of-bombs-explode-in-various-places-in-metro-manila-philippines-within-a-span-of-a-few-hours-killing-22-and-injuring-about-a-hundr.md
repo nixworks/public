@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/12/30/a-series-of-bombs-explode-in-various-places-in-
 
 ### Changes:
 
-1. [Rizal Day Bombings: A series of bombs explode in various places in Metro Manila, Philippines, within a span of a few hours killing 22 and injuring about a hundred.](/news/2000/12/30/rizal-day-bombings-a-series-of-bombs-explode-in-various-places-in-metro-manila-philippines-within-a-span-of-a-few-hours-killing-22-and-in.md) _2017-08-27 03:15:09 (First version)_
+1. [Rizal Day Bombings: A series of bombs explode in various places in Metro Manila, Philippines, within a span of a few hours killing 22 and injuring about a hundred.](/news/2000/12/30/rizal-day-bombings-a-series-of-bombs-explode-in-various-places-in-metro-manila-philippines-within-a-span-of-a-few-hours-killing-22-and-in.md) _2018-02-06 13:49:15 (First version)_
 1. [A series of bombs explode in various places in Metro Manila, Philippines, within a span of a few hours killing 22 and injuring about a hundred.](/news/2000/12/30/a-series-of-bombs-explode-in-various-places-in-metro-manila-philippines-within-a-span-of-a-few-hours-killing-22-and-injuring-about-a-hundr.md) _(Current version)_
 
 ### Related:

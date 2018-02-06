@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/01/18/a-3-4-m-w-earthquake-hits-guizhou-province-chin
 
 ### Changes:
 
-1. [A 3.4 M w earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-mw-earthquake-hits-guizhou-province-china-and-kills-seven-people.md) _2017-10-02 03:30:12 (First version)_
+1. [A 3.4 M w earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-mw-earthquake-hits-guizhou-province-china-and-kills-seven-people.md) _2018-02-06 13:49:19 (First version)_
 1. [A 3.4 M w earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-m-w-earthquake-hits-guizhou-province-china-and-kills-seven-people.md) _(Current version)_
 
 ### Related:

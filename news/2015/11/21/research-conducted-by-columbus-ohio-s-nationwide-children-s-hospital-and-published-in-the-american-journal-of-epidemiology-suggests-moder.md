@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/21/research-conducted-by-columbus-ohio-s-nationwid
 
 ### Changes:
 
-1. [Research conducted by Columbus, Ohio's Nationwide Children's Hospital and published in the ''American Journal of Epidemiology'' suggests moderate caffeine consumption during pregnancy does not harm a baby's future intelligence or behavioral health. ](/news/2015/11/21/research-conducted-by-columbus-ohio-s-nationwide-children-s-hospital-and-published-in-the-american-journal-of-epidemiology-suggests-mod.md) _2017-08-25 03:43:40 (First version)_
+1. [Research conducted by Columbus, Ohio's Nationwide Children's Hospital and published in the ''American Journal of Epidemiology'' suggests moderate caffeine consumption during pregnancy does not harm a baby's future intelligence or behavioral health. ](/news/2015/11/21/research-conducted-by-columbus-ohio-s-nationwide-children-s-hospital-and-published-in-the-american-journal-of-epidemiology-suggests-mod.md) _2018-02-06 13:49:28 (First version)_
 1. [Research conducted by Columbus, Ohio's Nationwide Children's Hospital and published in the "American Journal of Epidemiology" suggests moderate caffeine consumption during pregnancy does not harm a baby's future intelligence or behavioral health. ](/news/2015/11/21/research-conducted-by-columbus-ohio-s-nationwide-children-s-hospital-and-published-in-the-american-journal-of-epidemiology-suggests-moder.md) _(Current version)_
 
 ### Related:

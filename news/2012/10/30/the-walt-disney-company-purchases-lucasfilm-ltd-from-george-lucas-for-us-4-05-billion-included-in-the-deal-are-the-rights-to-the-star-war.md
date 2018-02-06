@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd
 
 ### Changes:
 
-1. [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the ''Star Wars'' and ''Indiana Jones'' franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-wa.md) _2017-08-25 03:36:45 (First version)_
+1. [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the ''Star Wars'' and ''Indiana Jones'' franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-wa.md) _2018-02-06 13:49:24 (First version)_
 1. [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the "Star Wars" and "Indiana Jones" franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-war.md) _(Current version)_
 
 ### Related:

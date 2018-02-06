@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/4/nigeriaas-information-and-culture-minister-says-
 
 ### Changes:
 
-1. [Nigeria-s information and culture minister says the government has recovered $9.1 billion in money and assets stolen from the oil sector. ](/news/2016/06/4/nigeria-s-information-and-culture-minister-says-the-government-has-recovered-9-1-billion-in-money-and-assets-stolen-from-the-oil-sector.md) _2017-08-27 03:46:12 (First version)_
+1. [Nigeria-s information and culture minister says the government has recovered $9.1 billion in money and assets stolen from the oil sector. ](/news/2016/06/4/nigeria-s-information-and-culture-minister-says-the-government-has-recovered-9-1-billion-in-money-and-assets-stolen-from-the-oil-sector.md) _2018-02-06 13:49:29 (First version)_
 1. [Nigeria's information and culture minister says the government has recovered $9.1 billion in money and assets stolen from the oil sector. ](/news/2016/06/4/nigeriaas-information-and-culture-minister-says-the-government-has-recovered-9-1-billion-in-money-and-assets-stolen-from-the-oil-sector.md) _(Current version)_
 
 ### Related:

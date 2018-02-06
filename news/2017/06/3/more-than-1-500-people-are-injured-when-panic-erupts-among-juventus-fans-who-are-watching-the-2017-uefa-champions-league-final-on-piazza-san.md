@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/06/3/more-than-1-500-people-are-injured-when-panic-er
 
 ### Changes:
 
-1. [2017 Turin stampede: More than 1,500 people are injured when panic erupts among Juventus fans who are watching the 2017 UEFA Champions League Final on Piazza San Carlo in Turin, Italy. ](/news/2017/06/3/2017-turin-stampede-more-than-1-500-people-are-injured-when-panic-erupts-among-juventus-fans-who-are-watching-the-2017-uefa-champions-leagu.md) _2017-08-27 03:48:25 (First version)_
+1. [2017 Turin stampede: More than 1,500 people are injured when panic erupts among Juventus fans who are watching the 2017 UEFA Champions League Final on Piazza San Carlo in Turin, Italy. ](/news/2017/06/3/2017-turin-stampede-more-than-1-500-people-are-injured-when-panic-erupts-among-juventus-fans-who-are-watching-the-2017-uefa-champions-leagu.md) _2018-02-06 13:49:30 (First version)_
 1. [More than 1,500 people are injured when panic erupts among Juventus fans who are watching the 2017 UEFA Champions League Final on Piazza San Carlo in Turin, Italy. ](/news/2017/06/3/more-than-1-500-people-are-injured-when-panic-erupts-among-juventus-fans-who-are-watching-the-2017-uefa-champions-league-final-on-piazza-san.md) _(Current version)_
 
 ### Related:

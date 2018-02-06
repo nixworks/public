@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/6/the-associated-press-reports-that-hillary-clinto
 
 ### Changes:
 
-1. [Democratic Party presidential primaries, 2016: The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/democratic-party-presidential-primaries-2016-the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secu.md) _2017-08-27 03:46:12 (First version)_
+1. [Democratic Party presidential primaries, 2016: The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/democratic-party-presidential-primaries-2016-the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secu.md) _2018-02-06 13:49:29 (First version)_
 1. [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md) _(Current version)_
 
 ### Related:

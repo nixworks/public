@@ -27,8 +27,8 @@ Army to press charges of manslaughter over deaths of Palestinian women during wa
 
 ### Changes:
 
-1. [Middle East and The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-gaza-offen.md) _2017-08-25 03:28:36 (First version)_
-2. [Middle East and Africa: The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-africa-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-ga.md) _2017-08-27 03:28:36 (Update)_
+1. [Middle East and The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-gaza-offen.md) _2018-02-06 13:49:20 (First version)_
+2. [Middle East and Africa: The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-africa-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-ga.md) _2018-02-06 13:49:20 (Update)_
 2. [The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-gaza-offensive.md) _(Current version)_
 
 ### Related:

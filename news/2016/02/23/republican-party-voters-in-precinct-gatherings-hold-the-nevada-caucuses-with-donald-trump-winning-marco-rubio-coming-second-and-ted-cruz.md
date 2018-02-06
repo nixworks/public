@@ -18,7 +18,7 @@ Republicans brace for the Nevada caucus Tuesday, while South Carolina Democrats 
 
 ### Changes:
 
-1. [United States presidential election, 2016: Republican Party voters, in precinct gatherings, hold the Nevada caucuses with Donald Trump winning, Marco Rubio coming second, and Ted Cruz finishing in third place. ](/news/2016/02/23/united-states-presidential-election-2016-republican-party-voters-in-precinct-gatherings-hold-the-nevada-caucuses-with-donald-trump-winni.md) _2017-08-27 03:45:00 (First version)_
+1. [United States presidential election, 2016: Republican Party voters, in precinct gatherings, hold the Nevada caucuses with Donald Trump winning, Marco Rubio coming second, and Ted Cruz finishing in third place. ](/news/2016/02/23/united-states-presidential-election-2016-republican-party-voters-in-precinct-gatherings-hold-the-nevada-caucuses-with-donald-trump-winni.md) _2018-02-06 13:49:28 (First version)_
 1. [Republican Party voters, in precinct gatherings, hold the Nevada caucuses with Donald Trump winning, Marco Rubio coming second, and Ted Cruz finishing in third place. ](/news/2016/02/23/republican-party-voters-in-precinct-gatherings-hold-the-nevada-caucuses-with-donald-trump-winning-marco-rubio-coming-second-and-ted-cruz.md) _(Current version)_
 
 ### Related:

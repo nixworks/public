@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-
 
 ### Changes:
 
-1. [A search continues for 52 people missing from a South Korean fishing vessel, the ''Oriong-501'', that sank early in the morning in bad weather in the Bering Sea off Russia's Chukotka Autonomous Okrug. Eight people have been rescued including one person who subsequently died. ](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-south-korean-fishing-vessel-the-oriong-501-that-sank-early-in-the-morning-in-bad-weath.md) _2017-08-25 03:41:16 (First version)_
+1. [A search continues for 52 people missing from a South Korean fishing vessel, the ''Oriong-501'', that sank early in the morning in bad weather in the Bering Sea off Russia's Chukotka Autonomous Okrug. Eight people have been rescued including one person who subsequently died. ](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-south-korean-fishing-vessel-the-oriong-501-that-sank-early-in-the-morning-in-bad-weath.md) _2018-02-06 13:49:26 (First version)_
 1. [A search continues for 52 people missing from a South Korean fishing vessel, the "Oriong-501", that sank early in the morning in bad weather in the Bering Sea off Russia's Chukotka Autonomous Okrug. Eight people have been rescued including one person who subsequently died. ](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-south-korean-fishing-vessel-the-oriong-501-that-sank-early-in-the-morning-in-bad-weather.md) _(Current version)_
 
 ### Related:

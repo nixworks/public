@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-
 
 ### Changes:
 
-1. [War in Afghanistan:New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-pnew-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md) _2017-08-25 03:36:24 (First version)_
-2. [War in Afghanistan:: New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md) _2017-08-27 03:36:35 (Update)_
+1. [War in Afghanistan:New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-pnew-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md) _2018-02-06 13:49:23 (Update)_
 2. [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md) _(Current version)_
 
 ### Related:

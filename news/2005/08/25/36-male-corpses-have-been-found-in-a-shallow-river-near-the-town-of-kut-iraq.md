@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/08/25/36-male-corpses-have-been-found-in-a-shallow-ri
 
 ### Changes:
 
-1. [ Conflict in Iraq: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-p-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _2017-08-25 03:16:43 (First version)_
-2. [ Conflict in Iraq:: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _2017-08-27 03:16:44 (Update)_
+1. [ Conflict in Iraq: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-p-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _2018-02-06 13:49:16 (Update)_
 2. [ 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md) _(Current version)_
 
 ### Related:

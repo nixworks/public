@@ -19,8 +19,8 @@ CHARLOTTE, N.C.—Facing unhappy pro-Israel groups amid a Republican-led outcry,
 
 ### Changes:
 
-1. [2012 Democratic National Convention:The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/2012-democratic-national-convention-pthe-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md) _2017-08-25 03:36:25 (First version)_
-2. [2012 Democratic National Convention:: The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/2012-democratic-national-convention-the-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md) _2017-08-27 03:36:36 (Update)_
+1. [2012 Democratic National Convention:: The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/2012-democratic-national-convention-the-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Democratic National Convention:The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/2012-democratic-national-convention-pthe-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md) _2018-02-06 13:49:23 (Update)_
 2. [The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/the-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md) _(Current version)_
 
 ### Related:

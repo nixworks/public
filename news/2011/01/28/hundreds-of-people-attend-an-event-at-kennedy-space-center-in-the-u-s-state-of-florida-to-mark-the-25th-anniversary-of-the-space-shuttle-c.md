@@ -16,7 +16,7 @@ Nasa officials gather at Kennedy Space Center in Florida to mark the 25th annive
 
 ### Changes:
 
-1. [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle ''Challenger'' disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle.md) _2017-08-25 03:31:57 (First version)_
+1. [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle ''Challenger'' disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle.md) _2018-02-06 13:49:21 (First version)_
 1. [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle "Challenger" disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle-c.md) _(Current version)_
 
 ### Related:

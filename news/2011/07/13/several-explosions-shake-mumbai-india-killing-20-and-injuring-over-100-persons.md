@@ -20,8 +20,8 @@ At least 21 dead and scores wounded after Indian city is targeted in what the ho
 
 ### Changes:
 
-1. [13 July 2011 Mumbai bombings:Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/13-july-2011-mumbai-bombings-pseveral-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md) _2017-08-25 03:33:46 (First version)_
-2. [13 July 2011 Mumbai bombings:: Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/13-july-2011-mumbai-bombings-several-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md) _2017-08-27 03:33:54 (Update)_
+1. [13 July 2011 Mumbai bombings:: Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/13-july-2011-mumbai-bombings-several-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md) _2018-02-06 13:49:22 (First version)_
+2. [13 July 2011 Mumbai bombings:Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/13-july-2011-mumbai-bombings-pseveral-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md) _2018-02-06 13:49:22 (Update)_
 2. [Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/several-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md) _(Current version)_
 
 ### Related:

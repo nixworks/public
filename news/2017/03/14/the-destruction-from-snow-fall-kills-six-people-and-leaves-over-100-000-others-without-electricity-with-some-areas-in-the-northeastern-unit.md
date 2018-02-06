@@ -16,7 +16,7 @@ Here&#039;s the latest on Winter Storm Stella.
 
 ### Changes:
 
-1. [March 2017 North American blizzard: The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4|feet|meters of snow. ](/news/2017/03/14/march-2017-north-american-blizzard-the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with.md) _2017-08-27 03:47:59 (First version)_
+1. [March 2017 North American blizzard: The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4|feet|meters of snow. ](/news/2017/03/14/march-2017-north-american-blizzard-the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with.md) _2018-02-06 13:49:30 (First version)_
 1. [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4 feet of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md) _(Current version)_
 
 ### Related:

@@ -31,8 +31,8 @@ Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and 
 
 ### Changes:
 
-1. [2011 Libyan civil war, 2011 Battle of Tripoli:Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/2011-libyan-civil-war-2011-battle-of-tripoli-pmustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-ga.md) _2017-05-01 03:36:22 (First version)_
-2. [2011 Libyan civil war: 2011 Battle of Tripoli: Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/2011-libyan-civil-war-2011-battle-of-tripoli-mustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-ga.md) _2017-08-27 03:34:10 (Update)_
+1. [2011 Libyan civil war, 2011 Battle of Tripoli:Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/2011-libyan-civil-war-2011-battle-of-tripoli-pmustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-ga.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war: 2011 Battle of Tripoli: Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/2011-libyan-civil-war-2011-battle-of-tripoli-mustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-ga.md) _2018-02-06 13:49:22 (Update)_
 2. [Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/mustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-gaddafi-s-regime-has-collapsed.md) _(Current version)_
 
 ### Related:

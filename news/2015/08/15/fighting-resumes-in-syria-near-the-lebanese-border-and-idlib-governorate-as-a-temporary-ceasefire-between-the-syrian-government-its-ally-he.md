@@ -16,7 +16,7 @@ A temporary ceasefire between warring parties in Syria collapsed on Saturday as 
 
 ### Changes:
 
-1. [Syrian Civil War: Battle of Zabadani (2015): Fighting resumes in Syria near the Lebanese border and Idlib Governorate as a temporary ceasefire between the Syrian government, its ally Hezbollah and an alliance of insurgent groups ends. ](/news/2015/08/15/syrian-civil-war-battle-of-zabadani-2015-fighting-resumes-in-syria-near-the-lebanese-border-and-idlib-governorate-as-a-temporary-ceasefi.md) _2017-08-27 03:42:50 (First version)_
+1. [Syrian Civil War: Battle of Zabadani (2015): Fighting resumes in Syria near the Lebanese border and Idlib Governorate as a temporary ceasefire between the Syrian government, its ally Hezbollah and an alliance of insurgent groups ends. ](/news/2015/08/15/syrian-civil-war-battle-of-zabadani-2015-fighting-resumes-in-syria-near-the-lebanese-border-and-idlib-governorate-as-a-temporary-ceasefi.md) _2018-02-06 13:49:27 (First version)_
 1. [Fighting resumes in Syria near the Lebanese border and Idlib Governorate as a temporary ceasefire between the Syrian government, its ally Hezbollah and an alliance of insurgent groups ends. ](/news/2015/08/15/fighting-resumes-in-syria-near-the-lebanese-border-and-idlib-governorate-as-a-temporary-ceasefire-between-the-syrian-government-its-ally-he.md) _(Current version)_
 
 ### Related:

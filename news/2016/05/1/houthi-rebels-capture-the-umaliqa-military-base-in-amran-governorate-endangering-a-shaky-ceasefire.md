@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/1/houthi-rebels-capture-the-umaliqa-military-base-
 
 ### Changes:
 
-1. [Yemeni Civil War: Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/yemeni-civil-war-houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md) _2017-08-27 03:45:56 (First version)_
+1. [Yemeni Civil War: Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/yemeni-civil-war-houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md) _2018-02-06 13:49:29 (First version)_
 1. [Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md) _(Current version)_
 
 ### Related:

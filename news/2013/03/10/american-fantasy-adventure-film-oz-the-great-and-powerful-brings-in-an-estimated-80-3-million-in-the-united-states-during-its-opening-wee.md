@@ -16,7 +16,7 @@ James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping
 
 ### Changes:
 
-1. [American fantasy adventure film ''Oz the Great and Powerful'' brings in an estimated $80.3 million in the United States during its opening weekend. ](/news/2013/03/10/american-fantasy-adventure-film-oz-the-great-and-powerful-brings-in-an-estimated-80-3-million-in-the-united-states-during-its-opening-w.md) _2017-08-25 03:37:47 (First version)_
+1. [American fantasy adventure film ''Oz the Great and Powerful'' brings in an estimated $80.3 million in the United States during its opening weekend. ](/news/2013/03/10/american-fantasy-adventure-film-oz-the-great-and-powerful-brings-in-an-estimated-80-3-million-in-the-united-states-during-its-opening-w.md) _2018-02-06 13:49:24 (First version)_
 1. [American fantasy adventure film "Oz the Great and Powerful" brings in an estimated $80.3 million in the United States during its opening weekend. ](/news/2013/03/10/american-fantasy-adventure-film-oz-the-great-and-powerful-brings-in-an-estimated-80-3-million-in-the-united-states-during-its-opening-wee.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A single grenade-carrying drone set off one of the largest explosions in recent 
 
 ### Changes:
 
-1. [War in Donbass: Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/war-in-donbass-ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-easte.md) _2017-08-27 03:48:44 (First version)_
+1. [War in Donbass: Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/war-in-donbass-ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-easte.md) _2018-02-06 13:49:31 (First version)_
 1. [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md) _(Current version)_
 
 ### Related:

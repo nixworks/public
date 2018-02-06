@@ -16,7 +16,7 @@ Cosmopolitan editor Helen Gurley Brown, who decreed good girls go to heaven but 
 
 ### Changes:
 
-1. [American publisher and editor Helen Gurley Brown, editor-in-chief of ''Cosmopolitan'' magazine and a leader of 1960s sexual revolution dies at the age of 90 in New York City. ](/news/2012/08/13/american-publisher-and-editor-helen-gurley-brown-editor-in-chief-of-cosmopolitan-magazine-and-a-leader-of-1960s-sexual-revolution-dies.md) _2017-08-25 03:36:16 (First version)_
+1. [American publisher and editor Helen Gurley Brown, editor-in-chief of ''Cosmopolitan'' magazine and a leader of 1960s sexual revolution dies at the age of 90 in New York City. ](/news/2012/08/13/american-publisher-and-editor-helen-gurley-brown-editor-in-chief-of-cosmopolitan-magazine-and-a-leader-of-1960s-sexual-revolution-dies.md) _2018-02-06 13:49:23 (First version)_
 1. [American publisher and editor Helen Gurley Brown, editor-in-chief of "Cosmopolitan" magazine and a leader of 1960s sexual revolution dies at the age of 90 in New York City. ](/news/2012/08/13/american-publisher-and-editor-helen-gurley-brown-editor-in-chief-of-cosmopolitan-magazine-and-a-leader-of-1960s-sexual-revolution-dies-at.md) _(Current version)_
 
 ### Related:

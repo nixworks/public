@@ -18,8 +18,8 @@ Taliban fighters drove through checkpoints dressed in army uniforms before launc
 
 ### Changes:
 
-1. [War in Afghanistan Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-ptaliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it.md) _2017-05-25 03:50:27 (First version)_
-2. [War in Afghanistan: 2017 Camp Shaheen attack: Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-2017-camp-shaheen-attack-taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-m.md) _2017-08-27 03:48:12 (Update)_
+1. [War in Afghanistan Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-ptaliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it.md) _2018-02-06 13:49:30 (First version)_
+2. [War in Afghanistan: 2017 Camp Shaheen attack: Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/war-in-afghanistan-2017-camp-shaheen-attack-taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-m.md) _2018-02-06 13:49:30 (Update)_
 2. [Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it-is-said-to-be-the-de.md) _(Current version)_
 
 ### Related:

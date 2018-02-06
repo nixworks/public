@@ -17,8 +17,8 @@ Rescue workers in Indonesia find group hiding on higher ground, halving number o
 
 ### Changes:
 
-1. [Aftermath of October 2010 Sumatra earthquake:The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-pthe-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-in.md) _2017-08-25 03:30:46 (First version)_
-2. [Aftermath of October 2010 Sumatra earthquake:: The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-i.md) _2017-08-27 03:30:52 (Update)_
+1. [Aftermath of October 2010 Sumatra earthquake:: The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-i.md) _2018-02-06 13:49:20 (First version)_
+2. [Aftermath of October 2010 Sumatra earthquake:The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-pthe-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-in.md) _2018-02-06 13:49:20 (Update)_
 2. [The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-indonesia-considering-evacuations.md) _(Current version)_
 
 ### Related:

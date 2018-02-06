@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/03/26/the-cbs-television-program-60-minutes-airs-a-st
 
 ### Changes:
 
-1. [ The CBS television program ''60 Minutes'' airs a story on a lawsuit against the hedge fund SAC, alleging that it orchestrated a fall in the stock price of Canadian drug company Biovail.](/news/2006/03/26/the-cbs-television-program-60-minutes-airs-a-story-on-a-lawsuit-against-the-hedge-fund-sac-alleging-that-it-orchestrated-a-fall-in-the.md) _2017-08-25 03:17:32 (First version)_
+1. [ The CBS television program ''60 Minutes'' airs a story on a lawsuit against the hedge fund SAC, alleging that it orchestrated a fall in the stock price of Canadian drug company Biovail.](/news/2006/03/26/the-cbs-television-program-60-minutes-airs-a-story-on-a-lawsuit-against-the-hedge-fund-sac-alleging-that-it-orchestrated-a-fall-in-the.md) _2018-02-06 13:49:17 (First version)_
 1. [ The CBS television program "60 Minutes" airs a story on a lawsuit against the hedge fund SAC, alleging that it orchestrated a fall in the stock price of Canadian drug company Biovail.](/news/2006/03/26/the-cbs-television-program-60-minutes-airs-a-story-on-a-lawsuit-against-the-hedge-fund-sac-alleging-that-it-orchestrated-a-fall-in-the-s.md) _(Current version)_
 
 ### Related:

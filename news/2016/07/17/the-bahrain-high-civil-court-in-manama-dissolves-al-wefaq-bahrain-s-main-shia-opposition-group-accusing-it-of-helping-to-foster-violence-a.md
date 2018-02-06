@@ -17,7 +17,7 @@ Manama dissolves main Shia opposition group Al-Wefaq, accusing it of fostering v
 
 ### Changes:
 
-1. [The Bahrain High Civil Court in Manama dissolves Al Wefaq, Bahrain's main Shia opposition group, accusing it of helping to foster violence and terrorism in the Sunni-led, Shia-majority island country. The Bahraini court previously issued a three-month suspension of the group last month. ](/news/2016/07/17/the-bahrain-high-civil-court-in-manama-dissolves-al-wefaq-bahrain-s-main-shia-opposition-group-accusing-it-of-helping-to-foster-violence.md) _2017-08-25 03:46:08 (First version)_
+1. [The Bahrain High Civil Court in Manama dissolves Al Wefaq, Bahrain's main Shia opposition group, accusing it of helping to foster violence and terrorism in the Sunni-led, Shia-majority island country. The Bahraini court previously issued a three-month suspension of the group last month. ](/news/2016/07/17/the-bahrain-high-civil-court-in-manama-dissolves-al-wefaq-bahrain-s-main-shia-opposition-group-accusing-it-of-helping-to-foster-violence.md) _2018-02-06 13:49:29 (First version)_
 1. [The Bahrain High Civil Court in Manama dissolves Al Wefaq, Bahrain's main Shia opposition group, accusing it of helping to foster violence and terrorism in the Sunni-led, Shia-majority island country. The Bahraini court previously issued a three-month suspension of the group last month. ](/news/2016/07/17/the-bahrain-high-civil-court-in-manama-dissolves-al-wefaq-bahrain-s-main-shia-opposition-group-accusing-it-of-helping-to-foster-violence-a.md) _(Current version)_
 
 ### Related:

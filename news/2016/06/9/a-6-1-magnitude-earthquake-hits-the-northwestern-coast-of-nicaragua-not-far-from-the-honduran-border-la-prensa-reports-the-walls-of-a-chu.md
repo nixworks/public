@@ -15,7 +15,7 @@ MANAGUA, Nicaragua (AP) — An earthquake with a preliminary magnitude of 6.1 sh
 
 ### Changes:
 
-1. [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua not far from the Honduran border. ''La Prensa'' reports the walls of a church collapsed in the city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a.md) _2017-08-25 03:45:51 (First version)_
+1. [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua not far from the Honduran border. ''La Prensa'' reports the walls of a church collapsed in the city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a.md) _2018-02-06 13:49:29 (First version)_
 1. [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua not far from the Honduran border. "La Prensa" reports the walls of a church collapsed in the city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a-chu.md) _(Current version)_
 
 ### Related:

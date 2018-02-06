@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/05/20/the-secretary-general-of-the-united-nations-ban
 
 ### Changes:
 
-1. [ Cyclone Nargis: The Secretary-General of the United Nations Ban Ki-Moon leaves for Burma calling the situation critical. ](/news/2008/05/20/cyclone-nargis-the-secretary-general-of-the-united-nations-ban-ki-moon-leaves-for-burma-calling-the-situation-critical.md) _2017-08-27 03:22:06 (First version)_
+1. [ Cyclone Nargis: The Secretary-General of the United Nations Ban Ki-Moon leaves for Burma calling the situation critical. ](/news/2008/05/20/cyclone-nargis-the-secretary-general-of-the-united-nations-ban-ki-moon-leaves-for-burma-calling-the-situation-critical.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Secretary-General of the United Nations Ban Ki-Moon leaves for Burma calling the situation critical. ](/news/2008/05/20/the-secretary-general-of-the-united-nations-ban-ki-moon-leaves-for-burma-calling-the-situation-critical.md) _(Current version)_
 
 ### Related:

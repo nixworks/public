@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-fo
 
 ### Changes:
 
-1. [European Parliament election, 2014:Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/european-parliament-election-2014-pvoters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in.md) _2017-08-25 03:40:26 (First version)_
-2. [European Parliament election, 2014:: Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/european-parliament-election-2014-voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in.md) _2017-08-27 03:40:44 (Update)_
+1. [European Parliament election, 2014:: Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/european-parliament-election-2014-voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in.md) _2018-02-06 13:49:26 (First version)_
+2. [European Parliament election, 2014:Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/european-parliament-election-2014-pvoters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-ireland-and-the-czech-republic-vote.md) _(Current version)_
 
 ### Related:

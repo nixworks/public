@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-
 
 ### Changes:
 
-1. [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service ''Sapo'' says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are.md) _2017-08-25 03:43:37 (First version)_
+1. [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service ''Sapo'' says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are.md) _2018-02-06 13:49:28 (First version)_
 1. [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service "Sapo" says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are-hu.md) _(Current version)_
 
 ### Related:

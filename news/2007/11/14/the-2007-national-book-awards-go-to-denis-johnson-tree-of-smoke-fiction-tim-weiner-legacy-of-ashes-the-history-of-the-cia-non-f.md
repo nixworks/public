@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johns
 
 ### Changes:
 
-1. [ The 2007 National Book Awards go to Denis Johnson (''Tree of Smoke''), fiction, Tim Weiner (''Legacy of Ashes: The History of the CIA''), non-fiction, Sherman Alexie (''The Absolutely True Diary of a Part-Time Indian''), young people's literature, and Robert Hass (''Time and Materials''), poetry. ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-n.md) _2017-08-25 03:21:21 (First version)_
+1. [ The 2007 National Book Awards go to Denis Johnson (''Tree of Smoke''), fiction, Tim Weiner (''Legacy of Ashes: The History of the CIA''), non-fiction, Sherman Alexie (''The Absolutely True Diary of a Part-Time Indian''), young people's literature, and Robert Hass (''Time and Materials''), poetry. ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-n.md) _2018-02-06 13:49:18 (First version)_
 1. [ The 2007 National Book Awards go to Denis Johnson ("Tree of Smoke"), fiction, Tim Weiner ("Legacy of Ashes: The History of the CIA"), non-fiction, Sherman Alexie ("The Absolutely True Diary of a Part-Time Indian"), young people's literature, and Robert Hass ("Time and Materials"), poetry. ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-non-f.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-t
 
 ### Changes:
 
-1. [ Craigslist is sued because of illegal posts to that website. Amazon, eBay, AOL, Yahoo, and Google all file briefs as friends of the court in support of Craigslist. ](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-that-website-amazon-ebay-aol-yahoo-and-google-all-file-briefs-as-friends-of-the-court.md) _2017-08-25 03:17:55 (First version)_
+1. [ Craigslist is sued because of illegal posts to that website. Amazon, eBay, AOL, Yahoo, and Google all file briefs as friends of the court in support of Craigslist. ](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-that-website-amazon-ebay-aol-yahoo-and-google-all-file-briefs-as-friends-of-the-court.md) _2018-02-06 13:49:17 (First version)_
 1. [ Craigslist is sued because of illegal posts to that website. Amazon, eBay, AOL, Yahoo, and Google all file briefs as friends of the court in support of Craigslist. ](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-that-website-amazon-ebay-aol-yahoo-and-google-all-file-briefs-as-friends-of-the-court-i.md) _(Current version)_
 
 ### Related:

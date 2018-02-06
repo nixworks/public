@@ -16,7 +16,7 @@ Eight soldiers are killed in an ambush in northern Paraguay in an attack blamed 
 
 ### Changes:
 
-1. [Paraguayan People's Army insurgency: At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. ](/news/2016/08/27/paraguayan-people-s-army-insurgency-at-least-eight-paraguayan-army-soldiers-are-killed-in-an-ambush-by-suspected-paraguayan-people-s-army.md) _2017-08-27 03:46:43 (First version)_
+1. [Paraguayan People's Army insurgency: At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. ](/news/2016/08/27/paraguayan-people-s-army-insurgency-at-least-eight-paraguayan-army-soldiers-are-killed-in-an-ambush-by-suspected-paraguayan-people-s-army.md) _2018-02-06 13:49:29 (First version)_
 1. [At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. ](/news/2016/08/27/at-least-eight-paraguayan-army-soldiers-are-killed-in-an-ambush-by-suspected-paraguayan-people-s-army-epp-insurgents-near-the-village-of.md) _(Current version)_
 
 ### Related:

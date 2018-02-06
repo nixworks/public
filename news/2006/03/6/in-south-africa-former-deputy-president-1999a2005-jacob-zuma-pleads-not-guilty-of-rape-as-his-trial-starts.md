@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/03/6/in-south-africa-former-deputy-president-1999a200
 
 ### Changes:
 
-1. [ In South Africa, former Deputy President (1999-2005) Jacob Zuma pleads not guilty of rape as his trial starts. ](/news/2006/03/6/in-south-africa-former-deputy-president-1999-2005-jacob-zuma-pleads-not-guilty-of-rape-as-his-trial-starts.md) _2017-08-27 03:17:29 (First version)_
+1. [ In South Africa, former Deputy President (1999-2005) Jacob Zuma pleads not guilty of rape as his trial starts. ](/news/2006/03/6/in-south-africa-former-deputy-president-1999-2005-jacob-zuma-pleads-not-guilty-of-rape-as-his-trial-starts.md) _2018-02-06 13:49:17 (First version)_
 1. [ In South Africa, former Deputy President (1999-2005) Jacob Zuma pleads not guilty of rape as his trial starts. ](/news/2006/03/6/in-south-africa-former-deputy-president-1999a2005-jacob-zuma-pleads-not-guilty-of-rape-as-his-trial-starts.md) _(Current version)_
 
 ### Related:

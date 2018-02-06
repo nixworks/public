@@ -16,7 +16,7 @@ Five people have been murdered after a gunman opened fire at a Shiite meeting ha
 
 ### Changes:
 
-1. [Terrorism in Saudi Arabia: A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/terrorism-in-saudi-arabia-a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _2017-08-27 03:43:23 (First version)_
+1. [Terrorism in Saudi Arabia: A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/terrorism-in-saudi-arabia-a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _2018-02-06 13:49:27 (First version)_
 1. [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _(Current version)_
 
 ### Related:

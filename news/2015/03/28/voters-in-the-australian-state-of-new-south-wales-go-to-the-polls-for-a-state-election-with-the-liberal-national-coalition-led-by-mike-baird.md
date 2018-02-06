@@ -17,7 +17,7 @@ Counting is underway in the NSW state election with polls pointing to a comforta
 
 ### Changes:
 
-1. [New South Wales state election, 2015: Voters in the Australian state of New South Wales go to the polls for a state election with the Liberal-National Coalition led by Mike Baird retaining government. ](/news/2015/03/28/new-south-wales-state-election-2015-voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-a-state-election-with-the-libera.md) _2017-08-27 03:42:08 (First version)_
+1. [New South Wales state election, 2015: Voters in the Australian state of New South Wales go to the polls for a state election with the Liberal-National Coalition led by Mike Baird retaining government. ](/news/2015/03/28/new-south-wales-state-election-2015-voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-a-state-election-with-the-libera.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in the Australian state of New South Wales go to the polls for a state election with the Liberal-National Coalition led by Mike Baird retaining government. ](/news/2015/03/28/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-a-state-election-with-the-liberal-national-coalition-led-by-mike-baird.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least four people killed and 10 others wounded in blast at restaurant in Moga
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A deadly explosion in a Mogadishu restaurant kills at least four people and injures ten others. ](/news/2015/04/21/war-in-somalia-2009-present-a-deadly-explosion-in-a-mogadishu-restaurant-kills-at-least-four-people-and-injures-ten-others.md) _2017-08-27 03:42:13 (First version)_
+1. [War in Somalia (2009-present): A deadly explosion in a Mogadishu restaurant kills at least four people and injures ten others. ](/news/2015/04/21/war-in-somalia-2009-present-a-deadly-explosion-in-a-mogadishu-restaurant-kills-at-least-four-people-and-injures-ten-others.md) _2018-02-06 13:49:27 (First version)_
 1. [A deadly explosion in a Mogadishu restaurant kills at least four people and injures ten others. ](/news/2015/04/21/a-deadly-explosion-in-a-mogadishu-restaurant-kills-at-least-four-people-and-injures-ten-others.md) _(Current version)_
 
 ### Related:

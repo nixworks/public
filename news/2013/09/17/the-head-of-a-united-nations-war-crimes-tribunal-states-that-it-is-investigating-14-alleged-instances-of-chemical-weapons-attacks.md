@@ -16,8 +16,8 @@ Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusiv
 
 ### Changes:
 
-1. [Syrian civil war:The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/syrian-civil-war-pthe-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons.md) _2017-08-25 03:39:17 (First version)_
-2. [Syrian civil war:: The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/syrian-civil-war-the-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons.md) _2017-08-27 03:39:34 (Update)_
+1. [Syrian civil war:: The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/syrian-civil-war-the-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/syrian-civil-war-pthe-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons.md) _2018-02-06 13:49:25 (Update)_
 2. [The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/the-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons-attacks.md) _(Current version)_
 
 ### Related:

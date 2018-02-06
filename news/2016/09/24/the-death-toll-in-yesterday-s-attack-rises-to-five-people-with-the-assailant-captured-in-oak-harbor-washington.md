@@ -16,7 +16,7 @@ The gunman believed to have opened fire with a rifle at a Washington state mall,
 
 ### Changes:
 
-1. [2016 Cascade Mall shooting: The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/2016-cascade-mall-shooting-the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _2017-08-27 03:46:54 (First version)_
+1. [2016 Cascade Mall shooting: The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/2016-cascade-mall-shooting-the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _(Current version)_
 
 ### Related:

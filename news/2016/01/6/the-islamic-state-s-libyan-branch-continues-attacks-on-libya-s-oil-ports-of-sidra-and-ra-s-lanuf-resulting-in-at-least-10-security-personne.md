@@ -17,7 +17,7 @@ Shelling by Islamic State militants on a major oil terminal in Libya has started
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The Islamic State's Libyan branch continues attacks on Libya's oil ports of Sidra and Ra's Lanuf, resulting in at least 10 security personnel deaths and 40 injured. The National Oil Corporation (NOC) reports that fires continue to rage in both Sidra and Ra's Lanuf after oil storage tanks were hit by shells. ](/news/2016/01/6/libyan-civil-war-2014-present-the-islamic-state-s-libyan-branch-continues-attacks-on-libya-s-oil-ports-of-sidra-and-ra-s-lanuf-resulti.md) _2017-08-27 03:44:36 (First version)_
+1. [Libyan Civil War (2014-present): The Islamic State's Libyan branch continues attacks on Libya's oil ports of Sidra and Ra's Lanuf, resulting in at least 10 security personnel deaths and 40 injured. The National Oil Corporation (NOC) reports that fires continue to rage in both Sidra and Ra's Lanuf after oil storage tanks were hit by shells. ](/news/2016/01/6/libyan-civil-war-2014-present-the-islamic-state-s-libyan-branch-continues-attacks-on-libya-s-oil-ports-of-sidra-and-ra-s-lanuf-resulti.md) _2018-02-06 13:49:28 (First version)_
 1. [The Islamic State's Libyan branch continues attacks on Libya's oil ports of Sidra and Ra's Lanuf, resulting in at least 10 security personnel deaths and 40 injured. The National Oil Corporation (NOC) reports that fires continue to rage in both Sidra and Ra's Lanuf after oil storage tanks were hit by shells. ](/news/2016/01/6/the-islamic-state-s-libyan-branch-continues-attacks-on-libya-s-oil-ports-of-sidra-and-ra-s-lanuf-resulting-in-at-least-10-security-personne.md) _(Current version)_
 
 ### Related:

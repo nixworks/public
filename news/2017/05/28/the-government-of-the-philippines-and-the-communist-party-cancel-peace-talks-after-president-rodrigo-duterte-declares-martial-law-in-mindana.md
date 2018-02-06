@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/28/the-government-of-the-philippines-and-the-commu
 
 ### Changes:
 
-1. [CPP-NPA-NDF rebellion: The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/cpp-npa-ndf-rebellion-the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares.md) _2017-08-27 03:48:24 (First version)_
+1. [CPP-NPA-NDF rebellion: The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/cpp-npa-ndf-rebellion-the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares.md) _2018-02-06 13:49:30 (First version)_
 1. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _(Current version)_
 
 ### Related:

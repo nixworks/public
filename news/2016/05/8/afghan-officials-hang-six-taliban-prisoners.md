@@ -15,7 +15,7 @@ After a deadly Kabul bombing, the president said he was no longer interested in 
 
 ### Changes:
 
-1. [ War in Afghanistan (2015-present): Afghan officials hang six Taliban prisoners. ](/news/2016/05/8/war-in-afghanistan-2015-present-afghan-officials-hang-six-taliban-prisoners.md) _2017-08-27 03:46:00 (First version)_
+1. [ War in Afghanistan (2015-present): Afghan officials hang six Taliban prisoners. ](/news/2016/05/8/war-in-afghanistan-2015-present-afghan-officials-hang-six-taliban-prisoners.md) _2018-02-06 13:49:29 (First version)_
 1. [ Afghan officials hang six Taliban prisoners. ](/news/2016/05/8/afghan-officials-hang-six-taliban-prisoners.md) _(Current version)_
 
 ### Related:

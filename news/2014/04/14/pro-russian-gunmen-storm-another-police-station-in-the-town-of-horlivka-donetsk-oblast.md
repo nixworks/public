@@ -16,7 +16,7 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 
 ### Changes:
 
-1. [2014 pro-Russian protests in Ukraine: Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/2014-pro-russian-protests-in-ukraine-pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _2017-08-27 03:40:35 (First version)_
+1. [2014 pro-Russian protests in Ukraine: Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/2014-pro-russian-protests-in-ukraine-pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _(Current version)_
 
 ### Related:

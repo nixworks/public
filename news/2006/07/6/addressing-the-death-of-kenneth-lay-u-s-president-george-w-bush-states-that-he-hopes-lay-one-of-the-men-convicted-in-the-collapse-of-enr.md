@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-presiden
 
 ### Changes:
 
-1. [ Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-en.md) _2017-07-04 03:18:08 (First version)_
+1. [ Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-en.md) _2018-02-06 13:49:17 (First version)_
 1. [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md) _(Current version)_
 
 ### Related:

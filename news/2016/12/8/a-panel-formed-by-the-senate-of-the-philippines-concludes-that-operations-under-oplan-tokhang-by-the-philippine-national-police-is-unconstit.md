@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-
 
 ### Changes:
 
-1. [Philippine Drug War: A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/philippine-drug-war-a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-nationa.md) _2017-08-27 03:47:24 (First version)_
+1. [Philippine Drug War: A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/philippine-drug-war-a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-nationa.md) _2018-02-06 13:49:30 (First version)_
 1. [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md) _(Current version)_
 
 ### Related:

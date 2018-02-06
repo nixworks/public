@@ -18,7 +18,7 @@ The Islamic State has claimed responsibility of the terror attack that left four
 
 ### Changes:
 
-1. [2017 Westminster attack: Authorities arrest at least eight people in connection with yesterday's attack. ](/news/2017/03/23/2017-westminster-attack-authorities-arrest-at-least-eight-people-in-connection-with-yesterday-s-attack.md) _2017-08-27 03:48:02 (First version)_
+1. [2017 Westminster attack: Authorities arrest at least eight people in connection with yesterday's attack. ](/news/2017/03/23/2017-westminster-attack-authorities-arrest-at-least-eight-people-in-connection-with-yesterday-s-attack.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities arrest at least eight people in connection with yesterday's attack. ](/news/2017/03/23/authorities-arrest-at-least-eight-people-in-connection-with-yesterday-s-attack.md) _(Current version)_
 
 ### Related:

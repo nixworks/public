@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dea
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/2015-pacific-typhoon-season-typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md) _2017-08-27 03:42:53 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/2015-pacific-typhoon-season-typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md) _(Current version)_
 
 ### Related:

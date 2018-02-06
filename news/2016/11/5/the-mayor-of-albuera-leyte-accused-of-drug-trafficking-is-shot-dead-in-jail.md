@@ -16,7 +16,7 @@ A mayor linked to the drugs trade in the Philippines is shot dead in his prison 
 
 ### Changes:
 
-1. [Philippine Drug War: The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/philippine-drug-war-the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md) _2017-08-27 03:47:11 (First version)_
+1. [Philippine Drug War: The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/philippine-drug-war-the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md) _2018-02-06 13:49:29 (First version)_
 1. [The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md) _(Current version)_
 
 ### Related:

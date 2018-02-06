@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/4/the-world-health-organisation-estimates-that-the
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/2014-west-africa-ebola-outbreak-the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md) _2017-08-27 03:41:06 (First version)_
+1. [2014 West Africa Ebola outbreak: The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/2014-west-africa-ebola-outbreak-the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md) _(Current version)_
 
 ### Related:

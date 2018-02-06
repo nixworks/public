@@ -16,7 +16,7 @@ The results are in from the clinical trials of a new vaccine — and it looks li
 
 ### Changes:
 
-1. [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-99-87-effective.md) _2017-08-27 03:47:30 (First version)_
+1. [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-99-87-effective.md) _2018-02-06 13:49:30 (First version)_
 1. [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md) _(Current version)_
 
 ### Related:

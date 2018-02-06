@@ -19,8 +19,8 @@ Formats: [HTML](/news/2005/09/1/u-s-president-george-w-bush-in-an-early-morning-
 
 ### Changes:
 
-1. [ Hurricane Katrina: U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/hurricane-katrina-p-u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-u.md) _2017-08-25 03:16:45 (First version)_
-2. [ Hurricane Katrina:: U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/hurricane-katrina-u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-u.md) _2017-08-27 03:16:46 (Update)_
+1. [ Hurricane Katrina:: U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/hurricane-katrina-u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-u.md) _2018-02-06 13:49:16 (First version)_
+2. [ Hurricane Katrina: U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/hurricane-katrina-p-u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-u.md) _2018-02-06 13:49:16 (Update)_
 2. [ U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-understand-people-wan.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Navi Pillay, the United Nations human rights chief, said the figure was probably
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-pthe-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md) _2017-08-25 03:38:50 (First version)_
-2. [Syrian civil war:: The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-the-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md) _2017-08-27 03:39:04 (Update)_
+1. [Syrian civil war:: The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-the-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-pthe-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md) _2018-02-06 13:49:25 (Update)_
 2. [The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/the-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md) _(Current version)_
 
 ### Related:

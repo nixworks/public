@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-
 
 ### Changes:
 
-1. [ The National Hockey League returns after a year-long lockout. Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-deb.md) _2017-08-25 03:16:54 (First version)_
+1. [ The National Hockey League returns after a year-long lockout. Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-deb.md) _2018-02-06 13:49:16 (First version)_
 1. [ The National Hockey League returns after a year-long lockout. Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-debu.md) _(Current version)_
 
 ### Related:

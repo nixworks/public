@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/03/6/demonstrations-against-the-saleh-regime-in-yemen
 
 ### Changes:
 
-1. [2011 Yemeni protests:Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-pdemonstrations-against-the-saleh-regime-in-yemen-continue.md) _2017-08-25 03:32:26 (First version)_
-2. [2011 Yemeni protests:: Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-demonstrations-against-the-saleh-regime-in-yemen-continue.md) _2017-08-27 03:32:34 (Update)_
+1. [2011 Yemeni protests:Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-pdemonstrations-against-the-saleh-regime-in-yemen-continue.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-demonstrations-against-the-saleh-regime-in-yemen-continue.md) _2018-02-06 13:49:22 (Update)_
 2. [Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/demonstrations-against-the-saleh-regime-in-yemen-continue.md) _(Current version)_
 
 ### Related:

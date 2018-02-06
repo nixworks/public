@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejectin
 
 ### Changes:
 
-1. [Taliban insurgency: The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/taliban-insurgency-the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-st.md) _2017-08-27 03:45:08 (First version)_
+1. [Taliban insurgency: The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/taliban-insurgency-the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-st.md) _2018-02-06 13:49:28 (First version)_
 1. [The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-stop-attacking-their-p.md) _(Current version)_
 
 ### Related:

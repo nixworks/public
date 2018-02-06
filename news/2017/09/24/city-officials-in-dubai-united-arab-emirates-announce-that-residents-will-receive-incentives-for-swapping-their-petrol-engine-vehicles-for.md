@@ -17,7 +17,7 @@ E-car users will also be exempted from RTA registration and renewal vehicle fees
 
 ### Changes:
 
-1. [City officials in Dubai, United Arab Emirates, announce that residents will receive free parking spots and free Salik tag as well as an exemption from RTA registration and renewal vehicle fees if they choose to swap their petrol engine vehicles for electric ones. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-free-parking-spots-and-free-salik-tag-as-well-as-an-exem.md) _2017-09-25 19:30:05 (First version)_
+1. [City officials in Dubai, United Arab Emirates, announce that residents will receive free parking spots and free Salik tag as well as an exemption from RTA registration and renewal vehicle fees if they choose to swap their petrol engine vehicles for electric ones. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-free-parking-spots-and-free-salik-tag-as-well-as-an-exem.md) _2018-02-06 13:49:31 (First version)_
 1. [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md) _(Current version)_
 
 ### Related:

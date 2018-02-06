@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitleras-
 
 ### Changes:
 
-1. [Rochus Misch, the last witness to Adolf Hitler-s suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitler-s-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md) _2017-08-27 03:39:30 (First version)_
+1. [Rochus Misch, the last witness to Adolf Hitler-s suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitler-s-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md) _2018-02-06 13:49:25 (First version)_
 1. [Rochus Misch, the last witness to Adolf Hitler's suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitleras-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md) _(Current version)_
 
 ### Related:

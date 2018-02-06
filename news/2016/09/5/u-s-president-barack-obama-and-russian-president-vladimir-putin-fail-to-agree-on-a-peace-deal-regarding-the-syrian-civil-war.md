@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/5/u-s-president-barack-obama-and-russian-president
 
 ### Changes:
 
-1. [2016 G20 Hangzhou summit: U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/2016-g20-hangzhou-summit-u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syria.md) _2017-08-27 03:46:46 (First version)_
+1. [2016 G20 Hangzhou summit: U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/2016-g20-hangzhou-summit-u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syria.md) _2018-02-06 13:49:29 (First version)_
 1. [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md) _(Current version)_
 
 ### Related:

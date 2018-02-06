@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/31/france-orders-an-official-investigation-into-th
 
 ### Changes:
 
-1. [Indonesia AirAsia Flight 8501: France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/indonesia-airasia-flight-8501-france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flyi.md) _2017-08-27 03:41:52 (First version)_
+1. [Indonesia AirAsia Flight 8501: France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/indonesia-airasia-flight-8501-france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flyi.md) _2018-02-06 13:49:26 (First version)_
 1. [France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flying-the-aircraft-at-the-time-of.md) _(Current version)_
 
 ### Related:

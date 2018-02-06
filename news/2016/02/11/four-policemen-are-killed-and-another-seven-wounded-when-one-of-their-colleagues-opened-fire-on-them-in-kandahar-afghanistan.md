@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wou
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/war-in-afghanistan-2015-present-four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in.md) _2017-08-27 03:44:53 (First version)_
+1. [War in Afghanistan (2015-present): Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/war-in-afghanistan-2015-present-four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md) _(Current version)_
 
 ### Related:

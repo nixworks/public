@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/18/indian-army-soldiers-fire-on-separatist-protest
 
 ### Changes:
 
-1. [Kashmir conflict: Indian Army soldiers fire on separatist protesters following unruly behaviour resulting in the death of a teenage protester. ](/news/2015/04/18/kashmir-conflict-indian-army-soldiers-fire-on-separatist-protesters-following-unruly-behaviour-resulting-in-the-death-of-a-teenage-proteste.md) _2017-08-27 03:42:13 (First version)_
+1. [Kashmir conflict: Indian Army soldiers fire on separatist protesters following unruly behaviour resulting in the death of a teenage protester. ](/news/2015/04/18/kashmir-conflict-indian-army-soldiers-fire-on-separatist-protesters-following-unruly-behaviour-resulting-in-the-death-of-a-teenage-proteste.md) _2018-02-06 13:49:27 (First version)_
 1. [Indian Army soldiers fire on separatist protesters following unruly behaviour resulting in the death of a teenage protester. ](/news/2015/04/18/indian-army-soldiers-fire-on-separatist-protesters-following-unruly-behaviour-resulting-in-the-death-of-a-teenage-protester.md) _(Current version)_
 
 ### Related:

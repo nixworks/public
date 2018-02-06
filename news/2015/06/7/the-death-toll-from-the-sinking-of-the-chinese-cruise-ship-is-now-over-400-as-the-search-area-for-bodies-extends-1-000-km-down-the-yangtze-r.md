@@ -16,7 +16,7 @@ Authorities request river traffic alert them to any floating bodies as death tol
 
 ### Changes:
 
-1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the Chinese cruise ship is now over 400 as the search area for bodies extends 1,000 km down the Yangtze River. ](/news/2015/06/7/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-chinese-cruise-ship-is-now-over-400-as-the-search-area-for-bodie.md) _2017-08-27 03:42:29 (First version)_
+1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the Chinese cruise ship is now over 400 as the search area for bodies extends 1,000 km down the Yangtze River. ](/news/2015/06/7/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-chinese-cruise-ship-is-now-over-400-as-the-search-area-for-bodie.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the sinking of the Chinese cruise ship is now over 400 as the search area for bodies extends 1,000 km down the Yangtze River. ](/news/2015/06/7/the-death-toll-from-the-sinking-of-the-chinese-cruise-ship-is-now-over-400-as-the-search-area-for-bodies-extends-1-000-km-down-the-yangtze-r.md) _(Current version)_
 
 ### Related:

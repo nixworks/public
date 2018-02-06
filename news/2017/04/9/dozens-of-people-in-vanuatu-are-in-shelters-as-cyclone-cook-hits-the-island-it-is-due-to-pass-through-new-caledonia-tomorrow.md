@@ -16,7 +16,7 @@ Nearly 200 people around Efate, the main island in Vanuatu, have been moved to e
 
 ### Changes:
 
-1. [2016-17 South Pacific cyclone season: Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/2016-17-south-pacific-cyclone-season-dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-throu.md) _2017-08-27 03:48:08 (First version)_
+1. [2016-17 South Pacific cyclone season: Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/2016-17-south-pacific-cyclone-season-dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-throu.md) _2018-02-06 13:49:30 (First version)_
 1. [Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-through-new-caledonia-tomorrow.md) _(Current version)_
 
 ### Related:

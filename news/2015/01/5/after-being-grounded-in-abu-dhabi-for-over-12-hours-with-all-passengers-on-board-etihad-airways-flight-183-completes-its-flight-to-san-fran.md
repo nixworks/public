@@ -16,7 +16,7 @@ SAN FRANCISCO (KRON) &#8212; Passengers who spent more than a full day on board 
 
 ### Changes:
 
-1. [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md) _2017-10-17 03:48:07 (First version)_
+1. [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md) _2018-02-06 13:49:26 (First version)_
 1. [After being grounded in Abu Dhabi for over 12 hours with all passengers on board, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-on-board-etihad-airways-flight-183-completes-its-flight-to-san-fran.md) _(Current version)_
 
 ### Related:

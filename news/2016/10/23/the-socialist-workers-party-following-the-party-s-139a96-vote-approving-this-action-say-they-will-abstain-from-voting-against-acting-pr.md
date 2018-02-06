@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/10/23/the-socialist-workers-party-following-the-party
 
 ### Changes:
 
-1. [2015-16 Spanish government formation: The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/2015-16-spanish-government-formation-the-socialist-workers-party-following-the-party-s-139-96-vote-approving-this-action-say-they-wi.md) _2017-08-27 03:47:06 (First version)_
+1. [2015-16 Spanish government formation: The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/2015-16-spanish-government-formation-the-socialist-workers-party-following-the-party-s-139-96-vote-approving-this-action-say-they-wi.md) _2018-02-06 13:49:29 (First version)_
 1. [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md) _(Current version)_
 
 ### Related:

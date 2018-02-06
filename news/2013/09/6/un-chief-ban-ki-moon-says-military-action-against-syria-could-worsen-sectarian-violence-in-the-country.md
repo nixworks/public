@@ -18,6 +18,6 @@ Ban Ki-moon says that military action against Syria could lead to a worsening of
 
 ### Changes:
 
-1. [Syrian civil war:UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/syrian-civil-war-pun-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md) _2017-08-25 03:39:14 (First version)_
-2. [Syrian civil war:: UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/syrian-civil-war-un-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md) _2017-08-27 03:39:30 (Update)_
+1. [Syrian civil war:: UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/syrian-civil-war-un-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/syrian-civil-war-pun-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md) _2018-02-06 13:49:25 (Update)_
 2. [UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/un-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md) _(Current version)_

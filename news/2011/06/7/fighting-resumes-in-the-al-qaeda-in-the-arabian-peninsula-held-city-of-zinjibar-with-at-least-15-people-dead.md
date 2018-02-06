@@ -18,8 +18,8 @@ Tribal fighters took control of a top Yemeni city on Tuesday, a setback for an e
 
 ### Changes:
 
-1. [Yemeni uprising:Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/yemeni-uprising-pfighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md) _2017-08-25 03:33:23 (First version)_
-2. [Yemeni uprising:: Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/yemeni-uprising-fighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md) _2017-08-27 03:33:32 (Update)_
+1. [Yemeni uprising:Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/yemeni-uprising-pfighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md) _2018-02-06 13:49:22 (First version)_
+2. [Yemeni uprising:: Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/yemeni-uprising-fighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md) _2018-02-06 13:49:22 (Update)_
 2. [Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/fighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md) _(Current version)_
 
 ### Related:

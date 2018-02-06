@@ -16,8 +16,8 @@ Head of intelligence Asadullah Khalid survives assassination attempt in the capi
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001apresent-pthe-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-attem.md) _2017-08-25 03:36:57 (First version)_
-2. [War in Afghanistan (2001-present):: The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001-present-the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-atte.md) _2017-08-27 03:37:07 (Update)_
+1. [War in Afghanistan (2001-present):The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001apresent-pthe-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-attem.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001-present-the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-atte.md) _2018-02-06 13:49:24 (Update)_
 2. [The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-attempt-in-the-country-s-capital-kabul.md) _(Current version)_
 
 ### Related:

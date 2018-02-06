@@ -27,8 +27,8 @@ Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a vic
 
 ### Changes:
 
-1. [ United States presidential election, 2008: Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-p-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md) _2017-08-25 03:21:44 (First version)_
-2. [ United States presidential election, 2008:: Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md) _2017-08-27 03:21:38 (Update)_
+1. [ United States presidential election, 2008:: Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008: Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-p-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md) _2018-02-06 13:49:18 (Update)_
 2. [ Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-republican-parties.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Rebel fighters hold only isolated pockets of oil town after forces loyal to Liby
 
 ### Changes:
 
-1. [2011 Libyan civil war:European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/2011-libyan-civil-war-peuropean-union-leaders-gather-in-brussels-for-an-urgent-summit.md) _2017-08-25 03:32:30 (First version)_
-2. [2011 Libyan civil war:: European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/2011-libyan-civil-war-european-union-leaders-gather-in-brussels-for-an-urgent-summit.md) _2017-08-27 03:32:38 (Update)_
+1. [2011 Libyan civil war:European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/2011-libyan-civil-war-peuropean-union-leaders-gather-in-brussels-for-an-urgent-summit.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/2011-libyan-civil-war-european-union-leaders-gather-in-brussels-for-an-urgent-summit.md) _2018-02-06 13:49:22 (Update)_
 2. [European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/european-union-leaders-gather-in-brussels-for-an-urgent-summit.md) _(Current version)_
 
 ### Related:

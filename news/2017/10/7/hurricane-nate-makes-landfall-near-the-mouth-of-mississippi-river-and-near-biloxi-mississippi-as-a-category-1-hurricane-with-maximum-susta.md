@@ -17,8 +17,8 @@ Hurricane Nate made its second landfall around 12:30 a.m. CT on Sunday near Bilo
 
 ### Changes:
 
-1. [Hurricane Nate makes its second landfall near the mouth of Mississippi River as a Category 1 hurricane with maximum sustained winds of 85 mph. ](/news/2017/10/7/hurricane-nate-makes-its-second-landfall-near-the-mouth-of-mississippi-river-as-a-category-1-hurricane-with-maximum-sustained-winds-of-85-mp.md) _2017-10-08 07:30:07 (First version)_
-2. [Hurricane Nate makes landfall near the mouth of Mississippi River and near Biloxi, Mississippi as a Category 1 hurricane with maximum sustained winds of 85 mph. ](/news/2017/10/7/hurricane-nate-makes-landfall-near-the-mouth-of-mississippi-river-and-near-biloxi-mississippi-as-a-category-1-hurricane-with-maximum-sustai.md) _2017-10-08 15:30:07 (Update)_
+1. [Hurricane Nate makes landfall near the mouth of Mississippi River and near Biloxi, Mississippi as a Category 1 hurricane with maximum sustained winds of 85 mph. ](/news/2017/10/7/hurricane-nate-makes-landfall-near-the-mouth-of-mississippi-river-and-near-biloxi-mississippi-as-a-category-1-hurricane-with-maximum-sustai.md) _2018-02-06 13:49:31 (First version)_
+2. [Hurricane Nate makes its second landfall near the mouth of Mississippi River as a Category 1 hurricane with maximum sustained winds of 85 mph. ](/news/2017/10/7/hurricane-nate-makes-its-second-landfall-near-the-mouth-of-mississippi-river-as-a-category-1-hurricane-with-maximum-sustained-winds-of-85-mp.md) _2018-02-06 13:49:31 (Update)_
 2. [Hurricane Nate makes landfall near the mouth of Mississippi River and near Biloxi, Mississippi, as a Category 1 hurricane with maximum sustained winds of 85 mph. ](/news/2017/10/7/hurricane-nate-makes-landfall-near-the-mouth-of-mississippi-river-and-near-biloxi-mississippi-as-a-category-1-hurricane-with-maximum-susta.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Turkish authorities have seized control of the Cihan news agency, the agency sai
 
 ### Changes:
 
-1. [Media freedom in Turkey: An Istanbul court places the Cihan News Agency under state control. The seizure of the Fethullah Gulen-linked news agency comes just days after the Turkish government seized control of the opposition "Zaman" newspaper. ](/news/2016/03/8/media-freedom-in-turkey-an-istanbul-court-places-the-cihan-news-agency-under-state-control-the-seizure-of-the-fethullah-ga1-4len-linked-news.md) _2017-08-27 03:45:11 (First version)_
+1. [Media freedom in Turkey: An Istanbul court places the Cihan News Agency under state control. The seizure of the Fethullah Gulen-linked news agency comes just days after the Turkish government seized control of the opposition "Zaman" newspaper. ](/news/2016/03/8/media-freedom-in-turkey-an-istanbul-court-places-the-cihan-news-agency-under-state-control-the-seizure-of-the-fethullah-ga1-4len-linked-news.md) _2018-02-06 13:49:28 (First version)_
 1. [An Istanbul court places the Cihan News Agency under state control. The seizure of the Fethullah Gulen-linked news agency comes just days after the Turkish government seized control of the opposition "Zaman" newspaper. ](/news/2016/03/8/an-istanbul-court-places-the-cihan-news-agency-under-state-control-the-seizure-of-the-fethullah-ga1-4len-linked-news-agency-comes-just-days-a.md) _(Current version)_
 
 ### Related:

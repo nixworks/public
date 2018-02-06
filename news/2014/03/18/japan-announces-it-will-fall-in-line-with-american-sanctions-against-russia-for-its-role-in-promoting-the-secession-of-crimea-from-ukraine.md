@@ -19,8 +19,8 @@ Japan has announced a set of sanctions against Russia for its recognition of Cri
 
 ### Changes:
 
-1. [2014 Crimean crisis - Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/2014-crimean-crisis-japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of.md) _2017-08-25 03:40:11 (First version)_
-2. [2014 Crimean crisis - Simferopol Incident: Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/2014-crimean-crisis-simferopol-incident-japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promo.md) _2017-08-27 03:40:29 (Update)_
+1. [2014 Crimean crisis - Simferopol Incident: Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/2014-crimean-crisis-simferopol-incident-japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promo.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Crimean crisis - Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/2014-crimean-crisis-japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of.md) _2018-02-06 13:49:25 (Update)_
 2. [Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of-crimea-from-ukraine.md) _(Current version)_
 
 ### Related:

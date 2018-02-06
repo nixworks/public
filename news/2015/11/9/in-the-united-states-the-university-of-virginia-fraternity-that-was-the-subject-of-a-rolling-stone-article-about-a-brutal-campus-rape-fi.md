@@ -17,7 +17,7 @@ The UVA frat that was a subject of a sensational article in Rolling Stone about 
 
 ### Changes:
 
-1. [In the United States, the University of Virginia fraternity that was the subject of a ''Rolling Stone'' article about a brutal campus rape, filed a $25 million defamation lawsuit against the magazine and the article's writer. ](/news/2015/11/9/in-the-united-states-the-university-of-virginia-fraternity-that-was-the-subject-of-a-rolling-stone-article-about-a-brutal-campus-rape.md) _2017-08-25 03:43:27 (First version)_
+1. [In the United States, the University of Virginia fraternity that was the subject of a ''Rolling Stone'' article about a brutal campus rape, filed a $25 million defamation lawsuit against the magazine and the article's writer. ](/news/2015/11/9/in-the-united-states-the-university-of-virginia-fraternity-that-was-the-subject-of-a-rolling-stone-article-about-a-brutal-campus-rape.md) _2018-02-06 13:49:28 (First version)_
 1. [In the United States, the University of Virginia fraternity that was the subject of a "Rolling Stone" article about a brutal campus rape, filed a $25 million defamation lawsuit against the magazine and the article's writer. ](/news/2015/11/9/in-the-united-states-the-university-of-virginia-fraternity-that-was-the-subject-of-a-rolling-stone-article-about-a-brutal-campus-rape-fi.md) _(Current version)_
 
 ### Related:

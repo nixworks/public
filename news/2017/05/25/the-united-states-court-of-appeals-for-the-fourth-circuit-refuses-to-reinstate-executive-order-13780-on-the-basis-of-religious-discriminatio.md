@@ -17,7 +17,7 @@ In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on 
 
 ### Changes:
 
-1. [Immigration policy of Donald Trump: The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/immigration-policy-of-donald-trump-the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on.md) _2017-08-27 03:48:23 (First version)_
+1. [Immigration policy of Donald Trump: The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/immigration-policy-of-donald-trump-the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md) _(Current version)_
 
 ### Related:

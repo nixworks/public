@@ -15,7 +15,7 @@ MADRID (AP) — Spanish emergency services on Saturday recovered the body of a m
 
 ### Changes:
 
-1. [The death toll rises to seven from Thursday's building collapse in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-islan.md) _2017-08-25 03:45:17 (First version)_
+1. [The death toll rises to seven from Thursday's building collapse in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-islan.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll rises to seven from Thursday's building collapse in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-island.md) _(Current version)_
 
 ### Related:

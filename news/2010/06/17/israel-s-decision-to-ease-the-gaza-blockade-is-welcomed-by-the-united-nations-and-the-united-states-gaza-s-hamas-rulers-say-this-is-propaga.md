@@ -21,8 +21,8 @@ US State Department says Israeli decision &#39;positive,&#39; but wants to see &
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeliapalestinian-conflict-pisrael-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md) _2017-08-25 03:28:18 (First version)_
-2. [Israeli-Palestinian conflict:: Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeli-palestinian-conflict-israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md) _2017-08-27 03:28:19 (Update)_
+1. [Israeli-Palestinian conflict:Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeliapalestinian-conflict-pisrael-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeli-palestinian-conflict-israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md) _2018-02-06 13:49:20 (Update)_
 2. [Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s-hamas-rulers-say-this-is-propaga.md) _(Current version)_
 
 ### Related:

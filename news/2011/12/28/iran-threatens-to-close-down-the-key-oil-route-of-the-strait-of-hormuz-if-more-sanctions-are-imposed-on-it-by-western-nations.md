@@ -18,8 +18,8 @@ The US Navy says it will not tolerate disruption to a vital oil route as Iran th
 
 ### Changes:
 
-1. [Strait of Hormuz dispute:Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/strait-of-hormuz-dispute-piran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-west.md) _2017-08-25 03:34:45 (First version)_
-2. [Strait of Hormuz dispute:: Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/strait-of-hormuz-dispute-iran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-wes.md) _2017-08-27 03:34:54 (Update)_
+1. [Strait of Hormuz dispute:Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/strait-of-hormuz-dispute-piran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-west.md) _2018-02-06 13:49:23 (First version)_
+2. [Strait of Hormuz dispute:: Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/strait-of-hormuz-dispute-iran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-wes.md) _2018-02-06 13:49:23 (Update)_
 2. [Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/iran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-western-nations.md) _(Current version)_
 
 ### Related:

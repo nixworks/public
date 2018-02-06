@@ -20,9 +20,9 @@ Libyan leader Moammar Gadhafi,speaking on Libyan state TV, says the protesters h
 
 ### Changes:
 
-1. [2011 Libyan civil war:Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/2011-libyan-civil-war-plibyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md) _2017-08-25 03:32:19 (First version)_
-2. [2011 Libyan civil war:: Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/2011-libyan-civil-war-libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md) _2017-08-27 03:32:28 (Update)_
-3. [Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md) _2017-10-17 03:37:33 (Update)_
+1. [Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/2011-libyan-civil-war-plibyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md) _2018-02-06 13:49:22 (Update)_
+3. [2011 Libyan civil war:: Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/2011-libyan-civil-war-libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md) _2018-02-06 13:49:22 (Update)_
 3. [Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwarah, 120 km west of Tripoli. ](/news/2011/02/24/libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwarah-120-km-west-of-tripoli.md) _(Current version)_
 
 ### Related:

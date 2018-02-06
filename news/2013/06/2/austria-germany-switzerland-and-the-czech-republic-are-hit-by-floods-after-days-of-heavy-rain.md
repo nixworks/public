@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2013 European floods:Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/2013-european-floods-paustria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md) _2017-08-25 03:38:45 (First version)_
-2. [2013 European floods:: Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/2013-european-floods-austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md) _2017-08-27 03:38:59 (Update)_
+1. [2013 European floods:Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/2013-european-floods-paustria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 European floods:: Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/2013-european-floods-austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md) _2018-02-06 13:49:25 (Update)_
 2. [Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md) _(Current version)_
 
 ### Related:

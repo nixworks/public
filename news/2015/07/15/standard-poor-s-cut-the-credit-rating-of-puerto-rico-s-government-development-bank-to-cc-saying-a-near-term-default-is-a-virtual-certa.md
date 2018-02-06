@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto
 
 ### Changes:
 
-1. [ Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a-near-term-default-is-a-virtual-cert.md) _2017-08-25 03:42:25 (First version)_
-2. [ Puerto Rico government debt crisis: Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/puerto-rico-government-debt-crisis-standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a.md) _2017-08-27 03:42:42 (Update)_
+1. [ Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a-near-term-default-is-a-virtual-cert.md) _2018-02-06 13:49:27 (First version)_
+2. [ Puerto Rico government debt crisis: Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/puerto-rico-government-debt-crisis-standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a.md) _2018-02-06 13:49:27 (Update)_
 2. [ Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a-near-term-default-is-a-virtual-certa.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Former president Nicolas Sarkozy&#39;s conservative UMP party and their allies l
 
 ### Changes:
 
-1. [French departmental elections, 2015: Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. ](/news/2015/03/22/french-departmental-elections-2015-voters-in-france-go-to-the-polls-for-the-first-round-of-voting-in-local-government-elections-exit-poll.md) _2017-08-27 03:42:07 (First version)_
+1. [French departmental elections, 2015: Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. ](/news/2015/03/22/french-departmental-elections-2015-voters-in-france-go-to-the-polls-for-the-first-round-of-voting-in-local-government-elections-exit-poll.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. ](/news/2015/03/22/voters-in-france-go-to-the-polls-for-the-first-round-of-voting-in-local-government-elections-exit-polls-show-the-conservative-ump-in-first.md) _(Current version)_
 
 ### Related:

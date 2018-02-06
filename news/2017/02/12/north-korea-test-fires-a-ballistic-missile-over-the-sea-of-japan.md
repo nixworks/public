@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-and-weapons-of-mass-destruction-north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md) _2017-08-27 03:47:48 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-and-weapons-of-mass-destruction-north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md) _2018-02-06 13:49:30 (First version)_
 1. [North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md) _(Current version)_
 
 ### Related:

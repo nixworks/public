@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/07/11/ten-members-of-the-british-royal-family-includi
 
 ### Changes:
 
-1. [News International privacy breachesTen members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the ''News of the World'' phone hacking affair. ](/news/2011/07/11/news-international-privacy-breachespten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-b.md) _2017-08-25 03:33:44 (First version)_
-2. [News International privacy breaches: Ten members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the "News of the World" phone hacking affair. ](/news/2011/07/11/news-international-privacy-breaches-ten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-b.md) _2017-08-27 03:33:52 (Update)_
+1. [News International privacy breachesTen members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the ''News of the World'' phone hacking affair. ](/news/2011/07/11/news-international-privacy-breachespten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-b.md) _2018-02-06 13:49:22 (First version)_
+2. [News International privacy breaches: Ten members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the "News of the World" phone hacking affair. ](/news/2011/07/11/news-international-privacy-breaches-ten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-b.md) _2018-02-06 13:49:22 (Update)_
 2. [Ten members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the "News of the World" phone hacking affair. ](/news/2011/07/11/ten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-believed-to-be-among-the-victims-of-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Turkish authorities have ordered the arrest of 105 people working in information
 
 ### Changes:
 
-1. [2016-17 purges in Turkey: Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/2016-17-purges-in-turkey-turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to.md) _2017-08-27 03:48:38 (First version)_
+1. [2016-17 purges in Turkey: Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/2016-17-purges-in-turkey-turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to.md) _2018-02-06 13:49:30 (First version)_
 1. [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md) _(Current version)_
 
 ### Related:

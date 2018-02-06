@@ -16,7 +16,7 @@ Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inc
 
 ### Changes:
 
-1. [Human rights in China: Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/human-rights-in-china-chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after.md) _2017-08-27 03:48:33 (First version)_
+1. [Human rights in China: Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/human-rights-in-china-chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after.md) _2018-02-06 13:49:30 (First version)_
 1. [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md) _(Current version)_
 
 ### Related:

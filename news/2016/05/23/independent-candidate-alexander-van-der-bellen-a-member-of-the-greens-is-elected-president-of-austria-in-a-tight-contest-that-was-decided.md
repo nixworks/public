@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-
 
 ### Changes:
 
-1. [ Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austria-in-a-tight-contest-that-was-decide.md) _2017-08-25 03:45:44 (First version)_
-2. [ Austrian presidential election, 2016: Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/austrian-presidential-election-2016-independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austr.md) _2017-08-27 03:46:06 (Update)_
+1. [ Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austria-in-a-tight-contest-that-was-decide.md) _2018-02-06 13:49:29 (First version)_
+2. [ Austrian presidential election, 2016: Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/austrian-presidential-election-2016-independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austr.md) _2018-02-06 13:49:29 (Update)_
 2. [ Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austria-in-a-tight-contest-that-was-decided.md) _(Current version)_
 
 ### Related:

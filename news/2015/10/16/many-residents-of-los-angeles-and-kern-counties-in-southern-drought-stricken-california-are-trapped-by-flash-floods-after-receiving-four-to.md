@@ -18,7 +18,7 @@ The emergency message crackled over the car radio, warning listeners of looming 
 
 ### Changes:
 
-1. [2015 California drought: El Nino: Many residents of Los Angeles and Kern counties in southern drought-stricken California are trapped by flash floods after receiving four to six inches of rain in a short period of time. ](/news/2015/10/16/2015-california-drought-el-nia-o-many-residents-of-los-angeles-and-kern-counties-in-southern-drought-stricken-california-are-trapped-by-fl.md) _2017-08-27 03:43:22 (First version)_
+1. [2015 California drought: El Nino: Many residents of Los Angeles and Kern counties in southern drought-stricken California are trapped by flash floods after receiving four to six inches of rain in a short period of time. ](/news/2015/10/16/2015-california-drought-el-nia-o-many-residents-of-los-angeles-and-kern-counties-in-southern-drought-stricken-california-are-trapped-by-fl.md) _2018-02-06 13:49:27 (First version)_
 1. [Many residents of Los Angeles and Kern counties in southern drought-stricken California are trapped by flash floods after receiving four to six inches of rain in a short period of time. ](/news/2015/10/16/many-residents-of-los-angeles-and-kern-counties-in-southern-drought-stricken-california-are-trapped-by-flash-floods-after-receiving-four-to.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-va
 
 ### Changes:
 
-1. [The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will be "stranded," that is that will have to be written off, due to the Paris Climate Accord. ](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-van-beurden-denies-the-claim-that-his-company-s-balance-sheet-contains-any-assets-that-will.md) _2017-08-25 03:46:53 (First version)_
+1. [The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will be "stranded," that is that will have to be written off, due to the Paris Climate Accord. ](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-van-beurden-denies-the-claim-that-his-company-s-balance-sheet-contains-any-assets-that-will.md) _2018-02-06 13:49:29 (First version)_
 1. [The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will be "stranded," that is that will have to be written off, due to the Paris Climate Accord. ](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-van-beurden-denies-the-claim-that-his-company-s-balance-sheet-contains-any-assets-that-will-b.md) _(Current version)_
 
 ### Related:

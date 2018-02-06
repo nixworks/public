@@ -17,7 +17,7 @@ A search and rescue operation is underway for three US Marines who remain missin
 
 ### Changes:
 
-1. [2017 V-22 Osprey crash: Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/2017-v-22-osprey-crash-searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-t.md) _2017-08-27 03:48:46 (First version)_
+1. [2017 V-22 Osprey crash: Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/2017-v-22-osprey-crash-searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-t.md) _2018-02-06 13:49:31 (First version)_
 1. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _(Current version)_
 
 ### Related:

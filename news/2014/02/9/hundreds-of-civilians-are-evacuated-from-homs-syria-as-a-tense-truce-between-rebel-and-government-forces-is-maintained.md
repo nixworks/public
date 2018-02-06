@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Syrian Civil War:Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/syrian-civil-war-phundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md) _2017-08-25 03:39:59 (First version)_
-2. [Syrian Civil War:: Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/syrian-civil-war-hundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md) _2017-08-27 03:40:17 (Update)_
+1. [Syrian Civil War:Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/syrian-civil-war-phundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/syrian-civil-war-hundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md) _2018-02-06 13:49:25 (Update)_
 2. [Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/hundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md) _(Current version)_
 
 ### Related:

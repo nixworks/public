@@ -16,7 +16,7 @@ The stricken areas included the coastal resort of Hua Hin and the island of Phuk
 
 ### Changes:
 
-1. [August 2016 Thailand bombings: A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/august-2016-thailand-bombings-a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four.md) _2017-08-27 03:46:39 (First version)_
+1. [August 2016 Thailand bombings: A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/august-2016-thailand-bombings-a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four.md) _2018-02-06 13:49:29 (First version)_
 1. [A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.md) _(Current version)_
 
 ### Related:

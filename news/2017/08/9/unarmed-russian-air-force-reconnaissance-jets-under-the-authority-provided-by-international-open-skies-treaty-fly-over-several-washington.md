@@ -17,7 +17,7 @@ The flight was allowed under the Open Skies Treaty
 
 ### Changes:
 
-1. [Russia-United States relations: Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty, fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/russia-united-states-relations-unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-tr.md) _2017-08-27 03:48:47 (First version)_
+1. [Russia-United States relations: Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty, fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/russia-united-states-relations-unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-tr.md) _2018-02-06 13:49:31 (First version)_
 1. [Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty, fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-treaty-fly-over-several-washington.md) _(Current version)_
 
 ### Related:

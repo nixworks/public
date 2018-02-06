@@ -15,7 +15,7 @@ The U.S. has identified individuals and groups who passed Democratic Party mater
 
 ### Changes:
 
-1. [United States presidential election, 2016: The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/united-states-presidential-election-2016-the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-president.md) _2017-08-27 03:47:24 (First version)_
+1. [United States presidential election, 2016: The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/united-states-presidential-election-2016-the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-president.md) _2018-02-06 13:49:30 (First version)_
 1. [The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-presidential-election.md) _(Current version)_
 
 ### Related:

@@ -24,8 +24,8 @@ Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, 
 
 ### Changes:
 
-1. [ Stephen Gately: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/stephen-gately-p-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md) _2017-08-25 03:26:04 (First version)_
-2. [ Stephen Gately:: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/stephen-gately-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md) _2017-08-27 03:25:56 (Update)_
+1. [ Stephen Gately:: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/stephen-gately-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md) _2018-02-06 13:49:19 (First version)_
+2. [ Stephen Gately: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/stephen-gately-p-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md) _2018-02-06 13:49:19 (Update)_
 2. [ The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md) _(Current version)_
 
 ### Related:

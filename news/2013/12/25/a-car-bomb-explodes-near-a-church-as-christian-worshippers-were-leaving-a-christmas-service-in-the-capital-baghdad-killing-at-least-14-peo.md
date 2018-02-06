@@ -16,8 +16,8 @@ Two bombs near a Catholic church and a market in Baghdad kill at least 35 people
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/iraqi-insurgency-post-u-s-withdrawal-pa-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the.md) _2017-08-25 03:39:46 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/iraqi-insurgency-post-u-s-withdrawal-a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the.md) _2017-08-27 03:40:04 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/iraqi-insurgency-post-u-s-withdrawal-pa-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/iraqi-insurgency-post-u-s-withdrawal-a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the.md) _2018-02-06 13:49:25 (Update)_
 2. [A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the-capital-baghdad-killing-at-least-14-peo.md) _(Current version)_
 
 ### Related:

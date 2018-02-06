@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): A suicide-bomb attack outside the police chief's house in Aden, southern Yemen, leaves at least 7 people dead. ](/news/2016/01/17/yemeni-civil-war-2015-present-a-suicide-bomb-attack-outside-the-police-chief-s-house-in-aden-southern-yemen-leaves-at-least-7-people.md) _2017-08-27 03:44:42 (First version)_
+1. [Yemeni Civil War (2015-present): A suicide-bomb attack outside the police chief's house in Aden, southern Yemen, leaves at least 7 people dead. ](/news/2016/01/17/yemeni-civil-war-2015-present-a-suicide-bomb-attack-outside-the-police-chief-s-house-in-aden-southern-yemen-leaves-at-least-7-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide-bomb attack outside the police chief's house in Aden, southern Yemen, leaves at least 7 people dead. ](/news/2016/01/17/a-suicide-bomb-attack-outside-the-police-chief-s-house-in-aden-southern-yemen-leaves-at-least-7-people-dead.md) _(Current version)_
 
 ### Related:

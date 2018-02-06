@@ -17,8 +17,8 @@ An elderly man from Puerto Rico succumbed after complications from an earlier in
 
 ### Changes:
 
-1. [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-r.md) _2017-08-25 03:45:32 (First version)_
-2. [ Zika virus outbreak (2015-present): The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/zika-virus-outbreak-2015-present-the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-unit.md) _2017-08-27 03:45:55 (Update)_
+1. [ Zika virus outbreak (2015-present): The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/zika-virus-outbreak-2015-present-the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-unit.md) _2018-02-06 13:49:29 (First version)_
+2. [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-r.md) _2018-02-06 13:49:29 (Update)_
 2. [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md) _(Current version)_
 
 ### Related:

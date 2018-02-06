@@ -19,8 +19,8 @@ Syrian president has set up committees to look into deaths of protesters and rep
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian protests:Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/arab-spring-p2011-syrian-protests-pbashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-deat.md) _2017-08-25 03:32:41 (First version)_
-2. [Arab Spring:: 2011 Syrian protests:: Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-de.md) _2017-08-27 03:32:50 (Update)_
+1. [Arab Spring:2011 Syrian protests:Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/arab-spring-p2011-syrian-protests-pbashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-deat.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian protests:: Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-de.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian protests:Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/2011-syrian-protests-bashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-deaths-of-proteste.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Virginia man traveled over past several months to China, federal prosecutors say
 
 ### Changes:
 
-1. [Chinese espionage in the United States: An American who formerly worked for the Central Intelligence Agency is arrested on charges of selling classified information to Chinese operatives in May 2017. ](/news/2017/06/22/chinese-espionage-in-the-united-states-an-american-who-formerly-worked-for-the-central-intelligence-agency-is-arrested-on-charges-of-sellin.md) _2017-08-27 03:48:32 (First version)_
+1. [Chinese espionage in the United States: An American who formerly worked for the Central Intelligence Agency is arrested on charges of selling classified information to Chinese operatives in May 2017. ](/news/2017/06/22/chinese-espionage-in-the-united-states-an-american-who-formerly-worked-for-the-central-intelligence-agency-is-arrested-on-charges-of-sellin.md) _2018-02-06 13:49:30 (First version)_
 1. [An American who formerly worked for the Central Intelligence Agency is arrested on charges of selling classified information to Chinese operatives in May 2017. ](/news/2017/06/22/an-american-who-formerly-worked-for-the-central-intelligence-agency-is-arrested-on-charges-of-selling-classified-information-to-chinese-oper.md) _(Current version)_
 
 ### Related:

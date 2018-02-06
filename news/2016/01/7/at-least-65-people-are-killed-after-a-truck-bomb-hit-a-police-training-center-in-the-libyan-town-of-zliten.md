@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/7/at-least-65-people-are-killed-after-a-truck-bomb
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Zliten truck bombing: At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/libyan-civil-war-2014-present-zliten-truck-bombing-at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-th.md) _2017-08-27 03:44:37 (First version)_
+1. [Libyan Civil War (2014-present): Zliten truck bombing: At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/libyan-civil-war-2014-present-zliten-truck-bombing-at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-th.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-the-libyan-town-of-zliten.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/25/at-least-20-people-have-died-of-extreme-cold-we
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/war-in-afghanistan-2015-present-at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-pro.md) _2017-08-27 03:47:18 (First version)_
+1. [War in Afghanistan (2015-present): At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/war-in-afghanistan-2015-present-at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-pro.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-province-all-of-the-victims-were-displa.md) _(Current version)_
 
 ### Related:

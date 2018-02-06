@@ -17,8 +17,8 @@ Several people reported dead in latest clashes even as number of UN monitors cha
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/arab-spring-psyrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-nat.md) _2017-08-25 03:35:40 (First version)_
-2. [Arab Spring:: Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/arab-spring-syrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-na.md) _2017-08-27 03:35:51 (Update)_
+1. [Arab Spring:: Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/arab-spring-syrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-na.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/arab-spring-psyrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-nat.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/syrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-nations-ceasefir.md) _(Current version)_
 
 ### Related:

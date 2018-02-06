@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/30/a-special-verification-panel-recommends-throwin
 
 ### Changes:
 
-1. [Haitian presidential election, 2015-16: A special verification panel recommends throwing out the results of the Haiti presidential election on October 25, 2015, because it appeared to be tainted by significant voter fraud. ](/news/2016/05/30/haitian-presidential-election-2015-16-a-special-verification-panel-recommends-throwing-out-the-results-of-the-haiti-presidential-electio.md) _2017-08-27 03:46:10 (First version)_
+1. [Haitian presidential election, 2015-16: A special verification panel recommends throwing out the results of the Haiti presidential election on October 25, 2015, because it appeared to be tainted by significant voter fraud. ](/news/2016/05/30/haitian-presidential-election-2015-16-a-special-verification-panel-recommends-throwing-out-the-results-of-the-haiti-presidential-electio.md) _2018-02-06 13:49:29 (First version)_
 1. [A special verification panel recommends throwing out the results of the Haiti presidential election on October 25, 2015, because it appeared to be tainted by significant voter fraud. ](/news/2016/05/30/a-special-verification-panel-recommends-throwing-out-the-results-of-the-haiti-presidential-election-on-october-25-2015-because-it-appeared.md) _(Current version)_
 
 ### Related:

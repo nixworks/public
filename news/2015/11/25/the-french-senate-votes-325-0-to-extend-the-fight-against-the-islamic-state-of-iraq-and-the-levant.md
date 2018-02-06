@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fig
 
 ### Changes:
 
-1. [November 2015 Paris attacks: The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/november-2015-paris-attacks-the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md) _2017-08-27 03:44:03 (First version)_
+1. [November 2015 Paris attacks: The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/november-2015-paris-attacks-the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md) _2018-02-06 13:49:28 (First version)_
 1. [The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

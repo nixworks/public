@@ -16,9 +16,9 @@ Raids near Manila latest in campaign that has killed thousands and follow claim 
 
 ### Changes:
 
-1. [Around 32 people are killed in the Philippines allegedly due to the ongoing drug war. ](/news/2017/08/16/around-32-people-are-killed-in-the-philippines-allegedly-due-to-the-ongoing-drug-war.md) _2017-08-16 18:30:06 (First version)_
-2. [Around 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/around-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md) _2017-08-16 21:30:05 (Update)_
-3. [Philippine Drug War: At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/philippine-drug-war-at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-w.md) _2017-08-27 03:48:48 (Update)_
+1. [Philippine Drug War: At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/philippine-drug-war-at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-w.md) _2018-02-06 13:49:31 (First version)_
+2. [Around 32 people are killed in the Philippines allegedly due to the ongoing drug war. ](/news/2017/08/16/around-32-people-are-killed-in-the-philippines-allegedly-due-to-the-ongoing-drug-war.md) _2018-02-06 13:49:31 (Update)_
+3. [Around 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/around-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md) _2018-02-06 13:49:31 (Update)_
 3. [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md) _(Current version)_
 
 ### Related:

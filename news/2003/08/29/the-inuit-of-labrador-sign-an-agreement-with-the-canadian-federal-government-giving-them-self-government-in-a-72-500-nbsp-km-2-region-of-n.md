@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/08/29/the-inuit-of-labrador-sign-an-agreement-with-th
 
 ### Changes:
 
-1. [ The Inuit of Labrador sign an agreement with the Canadian federal government, giving them self-government in a 72,500&nbsp;km 2 region of northern Labrador called Nunatsiavut.](/news/2003/08/29/the-inuit-of-labrador-sign-an-agreement-with-the-canadian-federal-government-giving-them-self-government-in-a-72-500-nbsp-km2-region-of-no.md) _2017-10-02 03:15:45 (First version)_
+1. [ The Inuit of Labrador sign an agreement with the Canadian federal government, giving them self-government in a 72,500&nbsp;km 2 region of northern Labrador called Nunatsiavut.](/news/2003/08/29/the-inuit-of-labrador-sign-an-agreement-with-the-canadian-federal-government-giving-them-self-government-in-a-72-500-nbsp-km2-region-of-no.md) _2018-02-06 13:49:15 (First version)_
 1. [ The Inuit of Labrador sign an agreement with the Canadian federal government, giving them self-government in a 72,500&nbsp;km 2 region of northern Labrador called Nunatsiavut.](/news/2003/08/29/the-inuit-of-labrador-sign-an-agreement-with-the-canadian-federal-government-giving-them-self-government-in-a-72-500-nbsp-km-2-region-of-n.md) _(Current version)_
 
 ### Related:

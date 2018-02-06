@@ -21,7 +21,7 @@ An African migrant is shot and killed by Egyptian police as she tries to cross i
 
 ### Changes:
 
-1. [Israel: Egyptian border guards fatally shoot an Eritrean woman in the stomach and leg as she tries to cross the border illegally into Israel. ](/news/2010/06/29/israel-egyptian-border-guards-fatally-shoot-an-eritrean-woman-in-the-stomach-and-leg-as-she-tries-to-cross-the-border-illegally-into-israel.md) _2017-08-27 03:28:30 (First version)_
+1. [Israel: Egyptian border guards fatally shoot an Eritrean woman in the stomach and leg as she tries to cross the border illegally into Israel. ](/news/2010/06/29/israel-egyptian-border-guards-fatally-shoot-an-eritrean-woman-in-the-stomach-and-leg-as-she-tries-to-cross-the-border-illegally-into-israel.md) _2018-02-06 13:49:20 (First version)_
 1. [Egyptian border guards fatally shoot an Eritrean woman in the stomach and leg as she tries to cross the border illegally into Israel. ](/news/2010/06/29/egyptian-border-guards-fatally-shoot-an-eritrean-woman-in-the-stomach-and-leg-as-she-tries-to-cross-the-border-illegally-into-israel.md) _(Current version)_
 
 ### Related:

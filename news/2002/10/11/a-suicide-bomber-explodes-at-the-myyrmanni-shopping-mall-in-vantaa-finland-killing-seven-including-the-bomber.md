@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/11/a-suicide-bomber-explodes-at-the-myyrmanni-shop
 
 ### Changes:
 
-1. [ Myyrmanni bombing: A suicide bomber explodes at the Myyrmanni Shopping Mall in Vantaa, Finland, killing seven including the bomber.](/news/2002/10/11/myyrmanni-bombing-a-suicide-bomber-explodes-at-the-myyrmanni-shopping-mall-in-vantaa-finland-killing-seven-including-the-bomber.md) _2017-08-27 03:15:16 (First version)_
+1. [ Myyrmanni bombing: A suicide bomber explodes at the Myyrmanni Shopping Mall in Vantaa, Finland, killing seven including the bomber.](/news/2002/10/11/myyrmanni-bombing-a-suicide-bomber-explodes-at-the-myyrmanni-shopping-mall-in-vantaa-finland-killing-seven-including-the-bomber.md) _2018-02-06 13:49:15 (First version)_
 1. [ A suicide bomber explodes at the Myyrmanni Shopping Mall in Vantaa, Finland, killing seven including the bomber.](/news/2002/10/11/a-suicide-bomber-explodes-at-the-myyrmanni-shopping-mall-in-vantaa-finland-killing-seven-including-the-bomber.md) _(Current version)_
 
 ### Related:

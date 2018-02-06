@@ -16,7 +16,7 @@ Backed by Russian airstrikes, regime forces take new ground inside Islamic State
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria. ](/news/2016/06/4/syrian-civil-war-syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-thr.md) _2017-08-27 03:46:12 (First version)_
+1. [Syrian Civil War: Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria. ](/news/2016/06/4/syrian-civil-war-syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-thr.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria. ](/news/2016/06/4/syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-three-simultaneous-at.md) _(Current version)_
 
 ### Related:

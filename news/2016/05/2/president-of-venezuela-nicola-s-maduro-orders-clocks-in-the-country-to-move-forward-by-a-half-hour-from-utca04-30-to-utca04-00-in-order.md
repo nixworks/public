@@ -16,7 +16,7 @@ Clocks moved forward by half an hour to restrict use of lighting and power as co
 
 ### Changes:
 
-1. [President of Venezuela Nicolas Maduro orders clocks in the country to move forward by a half hour from UTC-04:30 to UTC-04:00 in order to save electricity as Venezuela faces an increasing electricity shortage. While gaining a half hour of sunlight, this means Venezuelans will now lose a half hour of sleep. ](/news/2016/05/2/president-of-venezuela-nicola-s-maduro-orders-clocks-in-the-country-to-move-forward-by-a-half-hour-from-utc-04-30-to-utc-04-00-in-order.md) _2017-08-27 03:45:57 (First version)_
+1. [President of Venezuela Nicolas Maduro orders clocks in the country to move forward by a half hour from UTC-04:30 to UTC-04:00 in order to save electricity as Venezuela faces an increasing electricity shortage. While gaining a half hour of sunlight, this means Venezuelans will now lose a half hour of sleep. ](/news/2016/05/2/president-of-venezuela-nicola-s-maduro-orders-clocks-in-the-country-to-move-forward-by-a-half-hour-from-utc-04-30-to-utc-04-00-in-order.md) _2018-02-06 13:49:29 (First version)_
 1. [President of Venezuela Nicolas Maduro orders clocks in the country to move forward by a half hour from UTC[?]04:30 to UTC[?]04:00 in order to save electricity as Venezuela faces an increasing electricity shortage. While gaining a half hour of sunlight, this means Venezuelans will now lose a half hour of sleep. ](/news/2016/05/2/president-of-venezuela-nicola-s-maduro-orders-clocks-in-the-country-to-move-forward-by-a-half-hour-from-utca04-30-to-utca04-00-in-order.md) _(Current version)_
 
 ### Related:

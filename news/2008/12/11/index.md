@@ -9,11 +9,11 @@ The attack in northern Iraq during a meeting of local leaders was one of the wor
 
 ##### Human remains
 ### [ Human remains discovered in a plastic bag in southeast Orlando, Florida, United States, are believed to be the remains of missing child Caylee Anthony. Confirmation is not expected for weeks. ](/news/2008/12/11/human-remains-discovered-in-a-plastic-bag-in-southeast-orlando-florida-united-states-are-believed-to-be-the-remains-of-missing-child-cay.md)
-_Context: missing child, United States, Orlando, Florida, Human remains, Caylee Anthony_
+_Context: United States, Orlando, Florida, missing child, Human remains, Caylee Anthony_
 
 ##### Free Software Foundation
 ### [ Free Software Foundation filed a lawsuit against Cisco for using is GPL-licensed components on its Linksys but failed to fulfill the requirements of the General Public License (GPL). ](/news/2008/12/11/free-software-foundation-filed-a-lawsuit-against-cisco-for-using-is-gpl-licensed-components-on-its-linksys-but-failed-to-fulfill-the-requir.md)
-_Context: Linksys, Free Software Foundation, Cisco, General Public License_
+_Context: Free Software Foundation, Linksys, General Public License, Cisco_
 
 ## [Previous Day...](/news/2008/12/10/index.md)
 

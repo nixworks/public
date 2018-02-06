@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-
 
 ### Changes:
 
-1. [South Korea-United States relations: South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-united-states-relations-south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of.md) _2017-08-27 03:45:10 (First version)_
+1. [South Korea-United States relations: South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-united-states-relations-south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philip
 
 ### Changes:
 
-1. [Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/mayon-volcano-begins-to-erupt-in-the-philippines.md) _2018-01-15 23:30:06 (First version)_
+1. [Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/mayon-volcano-begins-to-erupt-in-the-philippines.md) _2018-02-06 13:49:31 (First version)_
 1. [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md) _(Current version)_
 
 ### Related:

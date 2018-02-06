@@ -16,8 +16,8 @@ BENGHAZI, Libya — Nine people were killed and 51 were wounded Sunday as rebel 
 
 ### Changes:
 
-1. [2011 Libyan civil war:NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/2011-libyan-civil-war-pnato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses.md) _2017-08-25 03:33:30 (First version)_
-2. [2011 Libyan civil war:: NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/2011-libyan-civil-war-nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses.md) _2017-08-27 03:33:39 (Update)_
+1. [2011 Libyan civil war:NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/2011-libyan-civil-war-pnato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/2011-libyan-civil-war-nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses-artillery-fire-to-kill.md) _(Current version)_
 
 ### Related:

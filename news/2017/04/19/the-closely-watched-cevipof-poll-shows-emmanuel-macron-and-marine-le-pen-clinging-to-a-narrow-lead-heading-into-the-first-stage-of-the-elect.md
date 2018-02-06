@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel
 
 ### Changes:
 
-1. [French presidential election, 2017: The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/french-presidential-election-2017-the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-headi.md) _2017-08-27 03:48:12 (First version)_
+1. [French presidential election, 2017: The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/french-presidential-election-2017-the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-headi.md) _2018-02-06 13:49:30 (First version)_
 1. [The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-heading-into-the-first-stage-of-the-elect.md) _(Current version)_
 
 ### Related:

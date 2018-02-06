@@ -16,8 +16,8 @@ The Egyptian government intensified its crackdown on the Muslim Brotherhood on W
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present):The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/islamist-protests-in-egypt-july-2013apresent-pthe-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-organ.md) _2017-08-25 03:39:46 (First version)_
-2. [Islamist protests in Egypt (July 2013-present):: The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/islamist-protests-in-egypt-july-2013-present-the-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-orga.md) _2017-08-27 03:40:05 (Update)_
+1. [Islamist protests in Egypt (July 2013-present):The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/islamist-protests-in-egypt-july-2013apresent-pthe-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-organ.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/islamist-protests-in-egypt-july-2013-present-the-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-orga.md) _2018-02-06 13:49:25 (Update)_
 2. [The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/the-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-organisation.md) _(Current version)_
 
 ### Related:

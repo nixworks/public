@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassado
 
 ### Changes:
 
-1. [Lebanese daily newspaper ''As-Safir'' ("The Ambassador" in Arabic) is to cease print and online operations after over 40 years, citing falling revenues and Lebanon's political environment and sectarian problems as reasons for its closure. The newspaper has close ties to Hezbollah. ](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassador-in-arabic-is-to-cease-print-and-online-operations-after-over-40-years-citing-falli.md) _2017-08-25 03:45:00 (First version)_
+1. [Lebanese daily newspaper ''As-Safir'' ("The Ambassador" in Arabic) is to cease print and online operations after over 40 years, citing falling revenues and Lebanon's political environment and sectarian problems as reasons for its closure. The newspaper has close ties to Hezbollah. ](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassador-in-arabic-is-to-cease-print-and-online-operations-after-over-40-years-citing-falli.md) _2018-02-06 13:49:28 (First version)_
 1. [Lebanese daily newspaper "As-Safir" ("The Ambassador" in Arabic) is to cease print and online operations after over 40 years, citing falling revenues and Lebanon's political environment and sectarian problems as reasons for its closure. The newspaper has close ties to Hezbollah. ](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassador-in-arabic-is-to-cease-print-and-online-operations-after-over-40-years-citing-falling.md) _(Current version)_
 
 ### Related:

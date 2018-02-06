@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/05/24/the-kuomintang-announces-that-it-plans-to-cease
 
 ### Changes:
 
-1. [ The Kuomintang announces that it plans to cease publishing the ''Central Daily News'', the oldest Chinese language newspaper in existence, by the end of this month. ([http:--www.chinapost.com.tw-taiwan-detail.asp?ID=82855&GRP=B ChinaPost])](/news/2006/05/24/the-kuomintang-announces-that-it-plans-to-cease-publishing-the-central-daily-news-the-oldest-chinese-language-newspaper-in-existence.md) _2017-08-25 03:17:41 (First version)_
+1. [ The Kuomintang announces that it plans to cease publishing the ''Central Daily News'', the oldest Chinese language newspaper in existence, by the end of this month. ([http:--www.chinapost.com.tw-taiwan-detail.asp?ID=82855&GRP=B ChinaPost])](/news/2006/05/24/the-kuomintang-announces-that-it-plans-to-cease-publishing-the-central-daily-news-the-oldest-chinese-language-newspaper-in-existence.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Kuomintang announces that it plans to cease publishing the "Central Daily News", the oldest Chinese language newspaper in existence, by the end of this month. ([http:--www.chinapost.com.tw-taiwan-detail.asp?ID=82855&GRP=B ChinaPost])](/news/2006/05/24/the-kuomintang-announces-that-it-plans-to-cease-publishing-the-central-daily-news-the-oldest-chinese-language-newspaper-in-existence-by.md) _(Current version)_
 
 ### Related:

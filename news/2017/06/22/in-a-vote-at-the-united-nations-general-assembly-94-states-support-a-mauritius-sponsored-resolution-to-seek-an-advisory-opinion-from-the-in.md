@@ -16,7 +16,7 @@ Mauritius supported by 94 nations in move to consult The Hague over colonial hol
 
 ### Changes:
 
-1. [Chagos Archipelago sovereignty dispute: In a vote at the United Nations General Assembly, 94 states support a Mauritius-sponsored resolution to seek an advisory opinion from the International Court of Justice on the legal status of the disputed Chagos Archipelago. ](/news/2017/06/22/chagos-archipelago-sovereignty-dispute-in-a-vote-at-the-united-nations-general-assembly-94-states-support-a-mauritius-sponsored-resolution.md) _2017-08-27 03:48:32 (First version)_
+1. [Chagos Archipelago sovereignty dispute: In a vote at the United Nations General Assembly, 94 states support a Mauritius-sponsored resolution to seek an advisory opinion from the International Court of Justice on the legal status of the disputed Chagos Archipelago. ](/news/2017/06/22/chagos-archipelago-sovereignty-dispute-in-a-vote-at-the-united-nations-general-assembly-94-states-support-a-mauritius-sponsored-resolution.md) _2018-02-06 13:49:30 (First version)_
 1. [In a vote at the United Nations General Assembly, 94 states support a Mauritius-sponsored resolution to seek an advisory opinion from the International Court of Justice on the legal status of the disputed Chagos Archipelago. ](/news/2017/06/22/in-a-vote-at-the-united-nations-general-assembly-94-states-support-a-mauritius-sponsored-resolution-to-seek-an-advisory-opinion-from-the-in.md) _(Current version)_
 
 ### Related:

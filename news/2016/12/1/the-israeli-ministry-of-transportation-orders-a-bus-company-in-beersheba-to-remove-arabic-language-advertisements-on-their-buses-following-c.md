@@ -15,7 +15,7 @@ Israeli buses remove Arabic-language announcements in southern city of Beersheba
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/israeli-palestinian-conflict-the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertise.md) _2017-08-27 03:47:21 (First version)_
+1. [Israeli-Palestinian conflict: The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/israeli-palestinian-conflict-the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertise.md) _2018-02-06 13:49:29 (First version)_
 1. [The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertisements-on-their-buses-following-c.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Sam Simon, an Emmy-winning writer and producer, gave away much of his money to c
 
 ### Changes:
 
-1. [American writer and producer Sam Simon, co-creator of the longest running animated sitcom, ''The Simpsons'', dies at the age of 59 after a 3-year battle with terminal colorectal cancer. ](/news/2015/03/8/american-writer-and-producer-sam-simon-co-creator-of-the-longest-running-animated-sitcom-the-simpsons-dies-at-the-age-of-59-after-a-3.md) _2017-08-25 03:41:44 (First version)_
+1. [American writer and producer Sam Simon, co-creator of the longest running animated sitcom, ''The Simpsons'', dies at the age of 59 after a 3-year battle with terminal colorectal cancer. ](/news/2015/03/8/american-writer-and-producer-sam-simon-co-creator-of-the-longest-running-animated-sitcom-the-simpsons-dies-at-the-age-of-59-after-a-3.md) _2018-02-06 13:49:27 (First version)_
 1. [American writer and producer Sam Simon, co-creator of the longest running animated sitcom, "The Simpsons", dies at the age of 59 after a 3-year battle with terminal colorectal cancer. ](/news/2015/03/8/american-writer-and-producer-sam-simon-co-creator-of-the-longest-running-animated-sitcom-the-simpsons-dies-at-the-age-of-59-after-a-3-y.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Three people were killed and a dozen injured in four separate bomb blasts in Tha
 
 ### Changes:
 
-1. [South Thailand insurgency: At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/south-thailand-insurgency-at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md) _2017-08-27 03:42:41 (First version)_
+1. [South Thailand insurgency: At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/south-thailand-insurgency-at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md) _2018-02-06 13:49:27 (First version)_
 1. [At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md) _(Current version)_
 
 ### Related:

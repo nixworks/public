@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/12/the-four-day-death-toll-from-fighting-in-rakhin
 
 ### Changes:
 
-1. [Rohingya insurgency in Western Myanmar: The four-day death toll from fighting in Rakhine State stands at 39, including 13 army and police personnel. ](/news/2016/10/12/rohingya-insurgency-in-western-myanmar-the-four-day-death-toll-from-fighting-in-rakhine-state-stands-at-39-including-13-army-and-police-pe.md) _2017-08-27 03:47:01 (First version)_
+1. [Rohingya insurgency in Western Myanmar: The four-day death toll from fighting in Rakhine State stands at 39, including 13 army and police personnel. ](/news/2016/10/12/rohingya-insurgency-in-western-myanmar-the-four-day-death-toll-from-fighting-in-rakhine-state-stands-at-39-including-13-army-and-police-pe.md) _2018-02-06 13:49:29 (First version)_
 1. [The four-day death toll from fighting in Rakhine State stands at 39, including 13 army and police personnel. ](/news/2016/10/12/the-four-day-death-toll-from-fighting-in-rakhine-state-stands-at-39-including-13-army-and-police-personnel.md) _(Current version)_
 
 ### Related:

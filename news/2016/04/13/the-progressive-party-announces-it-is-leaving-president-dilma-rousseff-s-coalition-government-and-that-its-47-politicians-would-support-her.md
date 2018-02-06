@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/13/the-progressive-party-announces-it-is-leaving-p
 
 ### Changes:
 
-1. [2015-16 protests in Brazil: The Progressive Party announces it is leaving President Dilma Rousseff's coalition government and that its 47 politicians would support her impeachment. ](/news/2016/04/13/2015-16-protests-in-brazil-the-progressive-party-announces-it-is-leaving-president-dilma-rousseff-s-coalition-government-and-that-its-47.md) _2017-08-27 03:45:36 (First version)_
+1. [2015-16 protests in Brazil: The Progressive Party announces it is leaving President Dilma Rousseff's coalition government and that its 47 politicians would support her impeachment. ](/news/2016/04/13/2015-16-protests-in-brazil-the-progressive-party-announces-it-is-leaving-president-dilma-rousseff-s-coalition-government-and-that-its-47.md) _2018-02-06 13:49:28 (First version)_
 1. [The Progressive Party announces it is leaving President Dilma Rousseff's coalition government and that its 47 politicians would support her impeachment. ](/news/2016/04/13/the-progressive-party-announces-it-is-leaving-president-dilma-rousseff-s-coalition-government-and-that-its-47-politicians-would-support-her.md) _(Current version)_
 
 ### Related:

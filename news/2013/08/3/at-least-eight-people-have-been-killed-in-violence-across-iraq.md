@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/08/3/at-least-eight-people-have-been-killed-in-violen
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/iraqi-insurgency-post-u-s-withdrawal-pat-least-eight-people-have-been-killed-in-violence-across-iraq.md) _2017-08-25 03:39:05 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/iraqi-insurgency-post-u-s-withdrawal-at-least-eight-people-have-been-killed-in-violence-across-iraq.md) _2017-08-27 03:39:21 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/iraqi-insurgency-post-u-s-withdrawal-pat-least-eight-people-have-been-killed-in-violence-across-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/iraqi-insurgency-post-u-s-withdrawal-at-least-eight-people-have-been-killed-in-violence-across-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/at-least-eight-people-have-been-killed-in-violence-across-iraq.md) _(Current version)_
 
 ### Related:

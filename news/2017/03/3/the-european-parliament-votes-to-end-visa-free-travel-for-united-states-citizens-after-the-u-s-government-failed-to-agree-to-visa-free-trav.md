@@ -16,7 +16,7 @@ The European Parliament has voted to end visa-free travel for Americans within t
 
 ### Changes:
 
-1. [United States-European Union relations: The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/united-states-european-union-relations-the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-go.md) _2017-08-27 03:47:56 (First version)_
+1. [United States-European Union relations: The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/united-states-european-union-relations-the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-go.md) _2018-02-06 13:49:30 (First version)_
 1. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _(Current version)_
 
 ### Related:

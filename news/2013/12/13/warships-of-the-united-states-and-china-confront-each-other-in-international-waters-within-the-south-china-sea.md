@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/13/warships-of-the-united-states-and-china-confron
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea:Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/territorial-disputes-in-the-south-china-sea-pwarships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the.md) _2017-08-25 03:39:41 (First version)_
-2. [Territorial disputes in the South China Sea:: Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/territorial-disputes-in-the-south-china-sea-warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the.md) _2017-08-27 03:39:58 (Update)_
+1. [Territorial disputes in the South China Sea:: Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/territorial-disputes-in-the-south-china-sea-warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the.md) _2018-02-06 13:49:25 (First version)_
+2. [Territorial disputes in the South China Sea:Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/territorial-disputes-in-the-south-china-sea-pwarships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the.md) _2018-02-06 13:49:25 (Update)_
 2. [Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the-south-china-sea.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The former prime minister could face charges over his role in allowing the city 
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/islamic-state-of-iraq-and-the-levant-isil-militants-execute-15-women-in-mosul.md) _2017-08-27 03:42:50 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/islamic-state-of-iraq-and-the-levant-isil-militants-execute-15-women-in-mosul.md) _2018-02-06 13:49:27 (First version)_
 1. [ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/isil-militants-execute-15-women-in-mosul.md) _(Current version)_
 
 ### Related:

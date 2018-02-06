@@ -22,7 +22,7 @@ Jeremy Corbyn has appeared to compare Israel to &quot;various self-styled Islami
 
 ### Changes:
 
-1. [Brexit impact: The British pound and FTSE 100 Index for the London Stock Exchange both fall in trading as early results from the United Kingdom European Union membership referendum show a stronger than expected result for Leave. ](/news/2016/06/24/brexit-impact-the-british-pound-and-ftse-100-index-for-the-london-stock-exchange-both-fall-in-trading-as-early-results-from-the-united-king.md) _2017-08-27 03:46:20 (First version)_
+1. [Brexit impact: The British pound and FTSE 100 Index for the London Stock Exchange both fall in trading as early results from the United Kingdom European Union membership referendum show a stronger than expected result for Leave. ](/news/2016/06/24/brexit-impact-the-british-pound-and-ftse-100-index-for-the-london-stock-exchange-both-fall-in-trading-as-early-results-from-the-united-king.md) _2018-02-06 13:49:29 (First version)_
 1. [The British pound and FTSE 100 Index for the London Stock Exchange both fall in trading as early results from the United Kingdom European Union membership referendum show a stronger than expected result for Leave. ](/news/2016/06/24/the-british-pound-and-ftse-100-index-for-the-london-stock-exchange-both-fall-in-trading-as-early-results-from-the-united-kingdom-european-un.md) _(Current version)_
 
 ### Related:

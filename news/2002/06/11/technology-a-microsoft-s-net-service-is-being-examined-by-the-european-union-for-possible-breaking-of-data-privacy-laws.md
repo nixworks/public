@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/11/technology-a-microsoft-s-net-service-is-being-e
 
 ### Changes:
 
-1. [ Technology - Microsoft's .Net service is being examined by the European Union for possible breaking of data privacy laws.](/news/2002/06/11/technology-microsoft-s-net-service-is-being-examined-by-the-european-union-for-possible-breaking-of-data-privacy-laws.md) _2017-08-27 03:15:13 (First version)_
+1. [ Technology - Microsoft's .Net service is being examined by the European Union for possible breaking of data privacy laws.](/news/2002/06/11/technology-microsoft-s-net-service-is-being-examined-by-the-european-union-for-possible-breaking-of-data-privacy-laws.md) _2018-02-06 13:49:15 (First version)_
 1. [ Technology - Microsoft's .Net service is being examined by the European Union for possible breaking of data privacy laws.](/news/2002/06/11/technology-a-microsoft-s-net-service-is-being-examined-by-the-european-union-for-possible-breaking-of-data-privacy-laws.md) _(Current version)_
 
 ### Related:

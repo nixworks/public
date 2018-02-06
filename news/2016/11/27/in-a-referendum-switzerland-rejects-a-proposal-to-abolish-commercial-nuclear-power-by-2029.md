@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-
 
 ### Changes:
 
-1. [Swiss referendums, 2016: In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/swiss-referendums-2016-in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md) _2017-08-27 03:47:19 (First version)_
+1. [Swiss referendums, 2016: In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/swiss-referendums-2016-in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md) _2018-02-06 13:49:29 (First version)_
 1. [In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-saf
 
 ### Changes:
 
-1. [An official from Papua New Guinea's maritime safety authority estimates that 100 people were trapped aboard the ferry {{MV|Rabaul Queen}} which sank off the northeast coast yesterday. ](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-safety-authority-estimates-that-100-people-were-trapped-aboard-the-ferry-mv-rabaul-queen-wh.md) _2017-05-01 03:37:25 (First version)_
+1. [An official from Papua New Guinea's maritime safety authority estimates that 100 people were trapped aboard the ferry {{MV|Rabaul Queen}} which sank off the northeast coast yesterday. ](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-safety-authority-estimates-that-100-people-were-trapped-aboard-the-ferry-mv-rabaul-queen-wh.md) _2018-02-06 13:49:23 (First version)_
 1. [An official from Papua New Guinea's maritime safety authority estimates that 100 people were trapped aboard the ferry Rabaul Queen which sank off the northeast coast yesterday. ](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-safety-authority-estimates-that-100-people-were-trapped-aboard-the-ferry-rabaul-queen-which-san.md) _(Current version)_
 
 ### Related:

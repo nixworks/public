@@ -16,7 +16,7 @@ The territory’s governor said the island’s total bond default was roughly $1
 
 ### Changes:
 
-1. [Governor Alejandro Garcia Padilla indicates Puerto Rico will default on bonds issued by the island-s Infrastructure Financing Authority and Public Finance Corporation. ](/news/2015/12/30/governor-alejandro-garcaa-padilla-indicates-puerto-rico-will-default-on-bonds-issued-by-the-island-s-infrastructure-financing-authority-a.md) _2017-08-27 03:44:33 (First version)_
+1. [Governor Alejandro Garcia Padilla indicates Puerto Rico will default on bonds issued by the island-s Infrastructure Financing Authority and Public Finance Corporation. ](/news/2015/12/30/governor-alejandro-garcaa-padilla-indicates-puerto-rico-will-default-on-bonds-issued-by-the-island-s-infrastructure-financing-authority-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Governor Alejandro Garcia Padilla indicates Puerto Rico will default on bonds issued by the island's Infrastructure Financing Authority and Public Finance Corporation. ](/news/2015/12/30/governor-alejandro-garcaa-padilla-indicates-puerto-rico-will-default-on-bonds-issued-by-the-islandas-infrastructure-financing-authority-a.md) _(Current version)_
 
 ### Related:

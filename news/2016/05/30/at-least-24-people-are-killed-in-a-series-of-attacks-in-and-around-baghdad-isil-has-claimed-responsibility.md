@@ -19,7 +19,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [ Iraqi civil war (2014-present): At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. ](/news/2016/05/30/iraqi-civil-war-2014-present-at-least-24-people-are-killed-in-a-series-of-attacks-in-and-around-baghdad-isil-has-claimed-responsibili.md) _2017-08-27 03:46:09 (First version)_
+1. [ Iraqi civil war (2014-present): At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. ](/news/2016/05/30/iraqi-civil-war-2014-present-at-least-24-people-are-killed-in-a-series-of-attacks-in-and-around-baghdad-isil-has-claimed-responsibili.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. ](/news/2016/05/30/at-least-24-people-are-killed-in-a-series-of-attacks-in-and-around-baghdad-isil-has-claimed-responsibility.md) _(Current version)_
 
 ### Related:

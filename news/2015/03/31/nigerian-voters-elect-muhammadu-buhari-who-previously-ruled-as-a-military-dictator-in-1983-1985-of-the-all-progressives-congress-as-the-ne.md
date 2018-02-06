@@ -16,7 +16,7 @@ Muhammadu Buhari was elected president of Nigeria, defeating the incumbent Goodl
 
 ### Changes:
 
-1. [Nigerian general election, 2015: Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-general-election-2015-nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-al.md) _2017-08-27 03:42:09 (First version)_
+1. [Nigerian general election, 2015: Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-general-election-2015-nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-al.md) _2018-02-06 13:49:27 (First version)_
 1. [Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-all-progressives-congress-as-the-ne.md) _(Current version)_
 
 ### Related:

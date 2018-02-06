@@ -16,8 +16,8 @@ Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a co
 
 ### Changes:
 
-1. [ 2008 Ukrainian political crisis: Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. ](/news/2008/10/8/2008-ukrainian-political-crisis-p-ukrainian-president-viktor-yushchenko-dissolves-parliament-and-calls-an-early-election.md) _2017-08-25 03:23:00 (First version)_
-2. [ 2008 Ukrainian political crisis:: Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. ](/news/2008/10/8/2008-ukrainian-political-crisis-ukrainian-president-viktor-yushchenko-dissolves-parliament-and-calls-an-early-election.md) _2017-08-27 03:22:54 (Update)_
+1. [ 2008 Ukrainian political crisis:: Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. ](/news/2008/10/8/2008-ukrainian-political-crisis-ukrainian-president-viktor-yushchenko-dissolves-parliament-and-calls-an-early-election.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Ukrainian political crisis: Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. ](/news/2008/10/8/2008-ukrainian-political-crisis-p-ukrainian-president-viktor-yushchenko-dissolves-parliament-and-calls-an-early-election.md) _2018-02-06 13:49:18 (Update)_
 2. [ Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. ](/news/2008/10/8/ukrainian-president-viktor-yushchenko-dissolves-parliament-and-calls-an-early-election.md) _(Current version)_
 
 ### Related:

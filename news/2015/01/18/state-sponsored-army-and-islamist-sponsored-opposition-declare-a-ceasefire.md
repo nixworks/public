@@ -15,5 +15,5 @@ Formats: [HTML](/news/2015/01/18/state-sponsored-army-and-islamist-sponsored-opp
 
 ### Changes:
 
-1. [Libyan Civil War (2014&ndash;present): State-sponsored army and Islamist-sponsored opposition declare a ceasefire. ](/news/2015/01/18/libyan-civil-war-2014-ndash-present-state-sponsored-army-and-islamist-sponsored-opposition-declare-a-ceasefire.md) _2017-08-27 03:41:48 (First version)_
+1. [Libyan Civil War (2014&ndash;present): State-sponsored army and Islamist-sponsored opposition declare a ceasefire. ](/news/2015/01/18/libyan-civil-war-2014-ndash-present-state-sponsored-army-and-islamist-sponsored-opposition-declare-a-ceasefire.md) _2018-02-06 13:49:26 (First version)_
 1. [State-sponsored army and Islamist-sponsored opposition declare a ceasefire. ](/news/2015/01/18/state-sponsored-army-and-islamist-sponsored-opposition-declare-a-ceasefire.md) _(Current version)_

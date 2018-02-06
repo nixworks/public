@@ -15,7 +15,7 @@ Twenty six people have been killed and several others wounded in an ongoing heav
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Fighting between militia and Al-Shabaab militants has left at least 26 people dead. ](/news/2016/11/28/war-in-somalia-2009-present-fighting-between-militia-and-al-shabaab-militants-has-left-at-least-26-people-dead.md) _2017-08-27 03:47:19 (First version)_
+1. [War in Somalia (2009-present): Fighting between militia and Al-Shabaab militants has left at least 26 people dead. ](/news/2016/11/28/war-in-somalia-2009-present-fighting-between-militia-and-al-shabaab-militants-has-left-at-least-26-people-dead.md) _2018-02-06 13:49:29 (First version)_
 1. [Fighting between militia and Al-Shabaab militants has left at least 26 people dead. ](/news/2016/11/28/fighting-between-militia-and-al-shabaab-militants-has-left-at-least-26-people-dead.md) _(Current version)_
 
 ### Related:

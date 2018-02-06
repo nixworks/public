@@ -19,7 +19,7 @@ A Russian airliner crashes in Sinai killing all 224 people on board - rescuers d
 
 ### Changes:
 
-1. [Kogalymavia Flight 9268: A Russian Kogalymavia Airbus A-321 airliner crashes in Egypt's Sinai Peninsula with 224 passengers on board travelling from Sharm el-Sheikh to St Petersburg. ](/news/2015/10/31/kogalymavia-flight-9268-a-russian-kogalymavia-airbus-a-321-airliner-crashes-in-egypt-s-sinai-peninsula-with-224-passengers-on-board-travell.md) _2017-08-27 03:43:37 (First version)_
+1. [Kogalymavia Flight 9268: A Russian Kogalymavia Airbus A-321 airliner crashes in Egypt's Sinai Peninsula with 224 passengers on board travelling from Sharm el-Sheikh to St Petersburg. ](/news/2015/10/31/kogalymavia-flight-9268-a-russian-kogalymavia-airbus-a-321-airliner-crashes-in-egypt-s-sinai-peninsula-with-224-passengers-on-board-travell.md) _2018-02-06 13:49:28 (First version)_
 1. [A Russian Kogalymavia Airbus A-321 airliner crashes in Egypt's Sinai Peninsula with 224 passengers on board travelling from Sharm el-Sheikh to St Petersburg. ](/news/2015/10/31/a-russian-kogalymavia-airbus-a-321-airliner-crashes-in-egypt-s-sinai-peninsula-with-224-passengers-on-board-travelling-from-sharm-el-sheikh.md) _(Current version)_
 
 ### Related:

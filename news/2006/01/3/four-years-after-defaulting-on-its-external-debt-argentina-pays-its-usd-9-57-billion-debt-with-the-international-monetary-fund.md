@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Four years after defaulting on its external debt, Argentina pays its USD {{Nowrap|9.57 billion}} debt with the International Monetary Fund. ](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt-argentina-pays-its-usd-nowrap-9-57-billion-debt-with-the-international-monetary-fund.md) _2017-05-01 03:17:41 (First version)_
+1. [ Four years after defaulting on its external debt, Argentina pays its USD {{Nowrap|9.57 billion}} debt with the International Monetary Fund. ](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt-argentina-pays-its-usd-nowrap-9-57-billion-debt-with-the-international-monetary-fund.md) _2018-02-06 13:49:16 (First version)_
 1. [ Four years after defaulting on its external debt, Argentina pays its USD 9.57 billion debt with the International Monetary Fund. ](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt-argentina-pays-its-usd-9-57-billion-debt-with-the-international-monetary-fund.md) _(Current version)_
 
 ### Related:

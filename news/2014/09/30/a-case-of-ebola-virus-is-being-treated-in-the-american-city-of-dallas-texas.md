@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/09/30/a-case-of-ebola-virus-is-being-treated-in-the-a
 
 ### Changes:
 
-1. [Ebola Virus in the United States: A case of Ebola Virus is being treated in the American city of Dallas, Texas. ](/news/2014/09/30/ebola-virus-in-the-united-states-a-case-of-ebola-virus-is-being-treated-in-the-american-city-of-dallas-texas.md) _2017-08-27 03:41:21 (First version)_
+1. [Ebola Virus in the United States: A case of Ebola Virus is being treated in the American city of Dallas, Texas. ](/news/2014/09/30/ebola-virus-in-the-united-states-a-case-of-ebola-virus-is-being-treated-in-the-american-city-of-dallas-texas.md) _2018-02-06 13:49:26 (First version)_
 1. [A case of Ebola Virus is being treated in the American city of Dallas, Texas. ](/news/2014/09/30/a-case-of-ebola-virus-is-being-treated-in-the-american-city-of-dallas-texas.md) _(Current version)_
 
 ### Related:

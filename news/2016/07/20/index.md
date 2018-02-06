@@ -17,7 +17,7 @@ MALI-VIOLENCE/ (URGENT):Mali declares 3-month state of emergency as Islamist vio
 
 ##### July 2016 Turkish ''coup d'etat'' attempt
 ### [Turkish President Recep Tayyip Erdogan declares a state of emergency for three months following Friday night's failed coup. ](/news/2016/07/20/turkish-president-recep-tayyip-erdogan-declares-a-state-of-emergency-for-three-months-following-friday-night-s-failed-coup.md)
-_Context: July 2016 Turkish ''coup d'etat'' attempt, Recep Tayyip Erdogan, 2016 Turkish purges_
+_Context: July 2016 Turkish ''coup d'etat'' attempt, 2016 Turkish purges, Recep Tayyip Erdogan_
 
 ##### Unilever
 ### [Unilever buys Dollar Shave Club for US$1 billion. ](/news/2016/07/20/unilever-buys-dollar-shave-club-for-us-1-billion.md)

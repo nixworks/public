@@ -17,7 +17,7 @@ Seventeen people were killed in Iraq on Saturday in air strikes targeting areas 
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Iraqi airstrikes kill 17 Iraqi citizens within ISIL controlled areas. ](/news/2014/11/29/islamic-state-of-iraq-and-the-levant-iraqi-airstrikes-kill-17-iraqi-citizens-within-isil-controlled-areas.md) _2017-08-27 03:41:34 (First version)_
+1. [Islamic State of Iraq and the Levant: Iraqi airstrikes kill 17 Iraqi citizens within ISIL controlled areas. ](/news/2014/11/29/islamic-state-of-iraq-and-the-levant-iraqi-airstrikes-kill-17-iraqi-citizens-within-isil-controlled-areas.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraqi airstrikes kill 17 Iraqi citizens within ISIL controlled areas. ](/news/2014/11/29/iraqi-airstrikes-kill-17-iraqi-citizens-within-isil-controlled-areas.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/01/12/underground-tunnel-of-the-future-pinheiros-subw
 
 ### Changes:
 
-1. [ Underground tunnel of the future Pinheiros Subway Station, in Sao Paulo collapses, opening a huge crater and making a large number of vehicles falling into.](/news/2007/01/12/underground-tunnel-of-the-future-pinheiros-subway-station-in-sapso-paulo-collapses-opening-a-huge-crater-and-making-a-large-number-of-vehi.md) _2017-08-25 03:19:00 (First version)_
+1. [ Underground tunnel of the future Pinheiros Subway Station, in Sao Paulo collapses, opening a huge crater and making a large number of vehicles falling into.](/news/2007/01/12/underground-tunnel-of-the-future-pinheiros-subway-station-in-sapso-paulo-collapses-opening-a-huge-crater-and-making-a-large-number-of-vehi.md) _2018-02-06 13:49:17 (First version)_
 1. [ Underground tunnel of the future Pinheiros Subway Station, in SGBPo Paulo collapses, opening a huge crater and making a large number of vehicles falling into.](/news/2007/01/12/underground-tunnel-of-the-future-pinheiros-subway-station-in-sagbpo-paulo-collapses-opening-a-huge-crater-and-making-a-large-number-of-ve.md) _(Current version)_
 
 ### Related:

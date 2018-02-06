@@ -16,7 +16,7 @@ Four Iraqi soldiers have been killed in a suicide bombing outside the camp where
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bombing strikes Camp Taji, killing four Iraqi Army soldiers. ](/news/2016/06/20/iraqi-civil-war-2014-present-a-suicide-bombing-strikes-camp-taji-killing-four-iraqi-army-soldiers.md) _2017-08-27 03:46:18 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bombing strikes Camp Taji, killing four Iraqi Army soldiers. ](/news/2016/06/20/iraqi-civil-war-2014-present-a-suicide-bombing-strikes-camp-taji-killing-four-iraqi-army-soldiers.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing strikes Camp Taji, killing four Iraqi Army soldiers. ](/news/2016/06/20/a-suicide-bombing-strikes-camp-taji-killing-four-iraqi-army-soldiers.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ ARLINGTON, Wash. (AP) — Looking for signs of life in the quicksand-like mud be
 
 ### Changes:
 
-1. [2014 Oso mudslide:Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-peighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-that.md) _2017-08-25 03:40:12 (First version)_
-2. [2014 Oso mudslide:: Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-eighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-tha.md) _2017-08-27 03:40:30 (Update)_
+1. [2014 Oso mudslide:Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-peighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-that.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Oso mudslide:: Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-eighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-tha.md) _2018-02-06 13:49:26 (Update)_
 2. [Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/eighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-that-has-claimed-at-lea.md) _(Current version)_
 
 ### Related:

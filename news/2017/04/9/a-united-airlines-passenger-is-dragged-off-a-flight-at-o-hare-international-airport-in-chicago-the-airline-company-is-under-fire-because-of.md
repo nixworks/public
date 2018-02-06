@@ -16,7 +16,7 @@ Video of police officers dragging a passenger from an overcrowded United Airline
 
 ### Changes:
 
-1. [United Express Flight 3411 incident: A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/united-express-flight-3411-incident-a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-air.md) _2017-08-27 03:48:08 (First version)_
+1. [United Express Flight 3411 incident: A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/united-express-flight-3411-incident-a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-air.md) _2018-02-06 13:49:30 (First version)_
 1. [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md) _(Current version)_
 
 ### Related:

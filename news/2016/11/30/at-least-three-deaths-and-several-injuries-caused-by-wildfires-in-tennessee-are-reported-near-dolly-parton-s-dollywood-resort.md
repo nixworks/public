@@ -17,8 +17,8 @@ Dolly Parton is &quot;heartbroken&quot; over wildfires that have claimed three l
 
 ### Changes:
 
-1. [2016 Southeastern United States wildfires At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/2016-southeastern-united-states-wildfires-pat-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-do.md) _2017-05-25 03:49:30 (First version)_
-2. [2016 Southeastern United States wildfires: At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/2016-southeastern-united-states-wildfires-at-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-dol.md) _2017-08-27 03:47:21 (Update)_
+1. [2016 Southeastern United States wildfires At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/2016-southeastern-united-states-wildfires-pat-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-do.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Southeastern United States wildfires: At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/2016-southeastern-united-states-wildfires-at-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-dol.md) _2018-02-06 13:49:29 (Update)_
 2. [At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/at-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-dolly-parton-s-dollywood-resort.md) _(Current version)_
 
 ### Related:

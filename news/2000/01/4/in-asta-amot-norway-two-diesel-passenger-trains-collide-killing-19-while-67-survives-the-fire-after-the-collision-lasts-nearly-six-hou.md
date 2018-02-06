@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/4/in-asta-amot-norway-two-diesel-passenger-trains-
 
 ### Changes:
 
-1. [sta accident: In sta, mot, Norway, two diesel passenger trains collide, killing 19, while 67 survives. The fire after the collision lasts nearly six hours.](/news/2000/01/4/asta-accident-in-asta-amot-norway-two-diesel-passenger-trains-collide-killing-19-while-67-survives-the-fire-after-the-collision-lasts.md) _2017-08-27 03:15:07 (First version)_
+1. [sta accident: In sta, mot, Norway, two diesel passenger trains collide, killing 19, while 67 survives. The fire after the collision lasts nearly six hours.](/news/2000/01/4/asta-accident-in-asta-amot-norway-two-diesel-passenger-trains-collide-killing-19-while-67-survives-the-fire-after-the-collision-lasts.md) _2018-02-06 13:49:15 (First version)_
 1. [In sta, mot, Norway, two diesel passenger trains collide, killing 19, while 67 survives. The fire after the collision lasts nearly six hours.](/news/2000/01/4/in-asta-amot-norway-two-diesel-passenger-trains-collide-killing-19-while-67-survives-the-fire-after-the-collision-lasts-nearly-six-hou.md) _(Current version)_
 
 ### Related:

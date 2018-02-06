@@ -17,6 +17,6 @@ Formats: [HTML](/news/2009/04/29/the-united-states-suffers-its-first-death.html)
 
 ### Changes:
 
-1. [ Swine influenza outbreak: The United States suffers its first death. ](/news/2009/04/29/swine-influenza-outbreak-p-the-united-states-suffers-its-first-death.md) _2017-08-25 03:24:26 (First version)_
-2. [ Swine influenza outbreak:: The United States suffers its first death. ](/news/2009/04/29/swine-influenza-outbreak-the-united-states-suffers-its-first-death.md) _2017-08-27 03:24:18 (Update)_
+1. [ Swine influenza outbreak:: The United States suffers its first death. ](/news/2009/04/29/swine-influenza-outbreak-the-united-states-suffers-its-first-death.md) _2018-02-06 13:49:18 (First version)_
+2. [ Swine influenza outbreak: The United States suffers its first death. ](/news/2009/04/29/swine-influenza-outbreak-p-the-united-states-suffers-its-first-death.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States suffers its first death. ](/news/2009/04/29/the-united-states-suffers-its-first-death.md) _(Current version)_

@@ -16,7 +16,7 @@ At least seven civilians, more than 50 Houthi rebels and eight pro-government fi
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): At least 50 people are killed, including seven civilians, in heavy fighting between Houthi rebels and forces loyal to ousted President Abd Rabbuh Mansur Hadi near the city of Taiz. ](/news/2015/10/26/yemeni-civil-war-2015-at-least-50-people-are-killed-including-seven-civilians-in-heavy-fighting-between-houthi-rebels-and-forces-loyal.md) _2017-08-27 03:43:31 (First version)_
+1. [Yemeni Civil War (2015): At least 50 people are killed, including seven civilians, in heavy fighting between Houthi rebels and forces loyal to ousted President Abd Rabbuh Mansur Hadi near the city of Taiz. ](/news/2015/10/26/yemeni-civil-war-2015-at-least-50-people-are-killed-including-seven-civilians-in-heavy-fighting-between-houthi-rebels-and-forces-loyal.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 50 people are killed, including seven civilians, in heavy fighting between Houthi rebels and forces loyal to ousted President Abd Rabbuh Mansur Hadi near the city of Taiz. ](/news/2015/10/26/at-least-50-people-are-killed-including-seven-civilians-in-heavy-fighting-between-houthi-rebels-and-forces-loyal-to-ousted-president-abd-r.md) _(Current version)_
 
 ### Related:

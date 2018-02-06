@@ -16,8 +16,8 @@ The first female commander of a major Royal Navy (RN) warship is taking up her p
 
 ### Changes:
 
-1. [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate {{HMS|Portland|F79|6}}, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-hms-portland-f79-6-becoming-the-first-femal.md) _2017-05-01 03:38:20 (First version)_
-2. [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate Portland|F79|6, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-portland-f79-6-becoming-the-first-female-office.md) _2017-08-29 03:35:47 (Update)_
+1. [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate Portland|F79|6, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-portland-f79-6-becoming-the-first-female-office.md) _2018-02-06 13:49:23 (First version)_
+2. [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate {{HMS|Portland|F79|6}}, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-hms-portland-f79-6-becoming-the-first-femal.md) _2018-02-06 13:49:23 (Update)_
 2. [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate Portland 6, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-portland-6-becoming-the-first-female-officer-to.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The hackers did not appear to have penetrated closely guarded servers that contr
 
 ### Changes:
 
-1. [The ''New York Times'' reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-th.md) _2017-08-25 03:41:56 (First version)_
+1. [The ''New York Times'' reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-th.md) _2018-02-06 13:49:27 (First version)_
 1. [The "New York Times" reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-the.md) _(Current version)_
 
 ### Related:

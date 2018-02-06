@@ -16,7 +16,7 @@ The strikes would likely be conducted by drones, and would be part of an officia
 
 ### Changes:
 
-1. [Battle of Marawi: The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/battle-of-marawi-the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-t.md) _2017-08-27 03:48:47 (First version)_
+1. [Battle of Marawi: The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/battle-of-marawi-the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-t.md) _2018-02-06 13:49:31 (First version)_
 1. [The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-to-battle-the-isis.md) _(Current version)_
 
 ### Related:

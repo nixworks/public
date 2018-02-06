@@ -19,8 +19,8 @@ Formats: [HTML](/news/2008/02/21/at-least-500-000-serbs-rally-in-belgrade-to-pro
 
 ### Changes:
 
-1. [ 2008 protests in Serbia: At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/2008-protests-in-serbia-p-at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weeken.md) _2017-08-25 03:21:47 (First version)_
-2. [ 2008 protests in Serbia:: At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/2008-protests-in-serbia-at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md) _2017-08-27 03:21:42 (Update)_
+1. [ 2008 protests in Serbia: At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/2008-protests-in-serbia-p-at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weeken.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 protests in Serbia:: At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/2008-protests-in-serbia-at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md) _2018-02-06 13:49:18 (Update)_
 2. [ At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md) _(Current version)_
 
 ### Related:

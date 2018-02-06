@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/05/30/a-series-of-bombings-across-iraq-kills-at-least
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-bombings-across-iraq-kills-at-least-eleven-people.md) _2017-08-25 03:38:45 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-a-series-of-bombings-across-iraq-kills-at-least-eleven-people.md) _2017-08-27 03:38:58 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-bombings-across-iraq-kills-at-least-eleven-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-a-series-of-bombings-across-iraq-kills-at-least-eleven-people.md) _2018-02-06 13:49:24 (Update)_
 2. [A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/a-series-of-bombings-across-iraq-kills-at-least-eleven-people.md) _(Current version)_
 
 ### Related:

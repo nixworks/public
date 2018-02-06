@@ -16,7 +16,7 @@ As expected, Enawo made a disastrous landfall Tuesday.
 
 ### Changes:
 
-1. [2016-17 South-West Indian Ocean cyclone season: Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/2016-17-south-west-indian-ocean-cyclone-season-intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of.md) _2017-08-27 03:47:56 (First version)_
+1. [2016-17 South-West Indian Ocean cyclone season: Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/2016-17-south-west-indian-ocean-cyclone-season-intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of.md) _2018-02-06 13:49:30 (First version)_
 1. [Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of-madagascar.md) _(Current version)_
 
 ### Related:

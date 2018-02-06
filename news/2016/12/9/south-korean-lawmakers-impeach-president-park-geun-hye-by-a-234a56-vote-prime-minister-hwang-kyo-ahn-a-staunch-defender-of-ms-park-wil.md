@@ -17,7 +17,7 @@ A slowing economy, a growing nuclear threat from North Korea and a more assertiv
 
 ### Changes:
 
-1. [Impeachment process against Park Geun-hye: South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/impeachment-process-against-park-geun-hye-south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234-56-vote-prime-minister-hwang-k.md) _2017-08-27 03:47:24 (First version)_
+1. [Impeachment process against Park Geun-hye: South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/impeachment-process-against-park-geun-hye-south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234-56-vote-prime-minister-hwang-k.md) _2018-02-06 13:49:30 (First version)_
 1. [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md) _(Current version)_
 
 ### Related:

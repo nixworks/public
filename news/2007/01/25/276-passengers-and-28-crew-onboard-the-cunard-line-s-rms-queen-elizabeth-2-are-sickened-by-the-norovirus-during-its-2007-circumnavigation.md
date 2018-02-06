@@ -17,7 +17,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [ 276 passengers and 28 crew onboard the Cunard Line's RMS ''Queen Elizabeth 2'' are sickened by the norovirus during its 2007 circumnavigation of the world. ](/news/2007/01/25/276-passengers-and-28-crew-onboard-the-cunard-line-s-rms-queen-elizabeth-2-are-sickened-by-the-norovirus-during-its-2007-circumnavigati.md) _2017-08-25 03:19:04 (First version)_
+1. [ 276 passengers and 28 crew onboard the Cunard Line's RMS ''Queen Elizabeth 2'' are sickened by the norovirus during its 2007 circumnavigation of the world. ](/news/2007/01/25/276-passengers-and-28-crew-onboard-the-cunard-line-s-rms-queen-elizabeth-2-are-sickened-by-the-norovirus-during-its-2007-circumnavigati.md) _2018-02-06 13:49:17 (First version)_
 1. [ 276 passengers and 28 crew onboard the Cunard Line's RMS "Queen Elizabeth 2" are sickened by the norovirus during its 2007 circumnavigation of the world. ](/news/2007/01/25/276-passengers-and-28-crew-onboard-the-cunard-line-s-rms-queen-elizabeth-2-are-sickened-by-the-norovirus-during-its-2007-circumnavigation.md) _(Current version)_
 
 ### Related:

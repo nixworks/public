@@ -19,8 +19,8 @@ Search crews have spotted more bodies and found a large amount of debris from th
 
 ### Changes:
 
-1. [ Air France Flight 447: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-p-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _2017-08-25 03:24:48 (First version)_
-2. [ Air France Flight 447:: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _2017-08-27 03:24:39 (Update)_
+1. [ Air France Flight 447: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-p-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _2018-02-06 13:49:19 (First version)_
+2. [ Air France Flight 447:: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _2018-02-06 13:49:19 (Update)_
 2. [ Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/2/21-coptic-christians-were-the-victims-of-a-massa
 
 ### Changes:
 
-1. [Kosheh massacres: 21 Coptic Christians were the victims of a massacre in el-Kosheh village in Upper Egypt, located 450 kilometres south of Cairo.](/news/2000/01/2/kosheh-massacres-21-coptic-christians-were-the-victims-of-a-massacre-in-el-kosheh-village-in-upper-egypt-located-450-kilometres-south-of-c.md) _2017-08-27 03:15:07 (First version)_
+1. [Kosheh massacres: 21 Coptic Christians were the victims of a massacre in el-Kosheh village in Upper Egypt, located 450 kilometres south of Cairo.](/news/2000/01/2/kosheh-massacres-21-coptic-christians-were-the-victims-of-a-massacre-in-el-kosheh-village-in-upper-egypt-located-450-kilometres-south-of-c.md) _2018-02-06 13:49:15 (First version)_
 1. [21 Coptic Christians were the victims of a massacre in el-Kosheh village in Upper Egypt, located 450 kilometres south of Cairo.](/news/2000/01/2/21-coptic-christians-were-the-victims-of-a-massacre-in-el-kosheh-village-in-upper-egypt-located-450-kilometres-south-of-cairo.md) _(Current version)_
 
 ### Related:

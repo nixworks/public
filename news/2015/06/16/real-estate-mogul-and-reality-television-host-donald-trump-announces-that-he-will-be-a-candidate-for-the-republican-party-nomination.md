@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/16/real-estate-mogul-and-reality-television-host-d
 
 ### Changes:
 
-1. [United States presidential election, 2016: Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/united-states-presidential-election-2016-real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate.md) _2017-08-27 03:42:33 (First version)_
+1. [United States presidential election, 2016: Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/united-states-presidential-election-2016-real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate.md) _2018-02-06 13:49:27 (First version)_
 1. [Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination.md) _(Current version)_
 
 ### Related:

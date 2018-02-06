@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announ
 
 ### Changes:
 
-1. [French presidential election, 2017: Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/french-presidential-election-2017-manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination.md) _2017-08-27 03:47:23 (First version)_
+1. [French presidential election, 2017: Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/french-presidential-election-2017-manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination.md) _2018-02-06 13:49:30 (First version)_
 1. [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md) _(Current version)_
 
 ### Related:

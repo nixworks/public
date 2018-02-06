@@ -18,7 +18,7 @@ Indian officials said elite troops crossed into Pakistan-ruled Kashmir on Thursd
 
 ### Changes:
 
-1. [2016 India-Pakistan military confrontation: The Indian Army claims it conducted surgical strikes on militant camps in Pakistan across the Line of Control, allegedly-killing several suspected militants. However, Pakistan rejects this claim and terms it cross-border firing that killed two of its soldiers. ](/news/2016/09/29/2016-india-pakistan-military-confrontation-the-indian-army-claims-it-conducted-surgical-strikes-on-militant-camps-in-pakistan-across-the.md) _2017-08-27 03:46:55 (First version)_
+1. [2016 India-Pakistan military confrontation: The Indian Army claims it conducted surgical strikes on militant camps in Pakistan across the Line of Control, allegedly-killing several suspected militants. However, Pakistan rejects this claim and terms it cross-border firing that killed two of its soldiers. ](/news/2016/09/29/2016-india-pakistan-military-confrontation-the-indian-army-claims-it-conducted-surgical-strikes-on-militant-camps-in-pakistan-across-the.md) _2018-02-06 13:49:29 (First version)_
 1. [The Indian Army claims it conducted surgical strikes on militant camps in Pakistan across the Line of Control, allegedly-killing several suspected militants. However, Pakistan rejects this claim and terms it cross-border firing that killed two of its soldiers. ](/news/2016/09/29/the-indian-army-claims-it-conducted-surgical-strikes-on-militant-camps-in-pakistan-across-the-line-of-control-allegedly-killing-several-sus.md) _(Current version)_
 
 ### Related:

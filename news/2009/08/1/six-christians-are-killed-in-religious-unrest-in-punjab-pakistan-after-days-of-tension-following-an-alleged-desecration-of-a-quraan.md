@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in
 
 ### Changes:
 
-1. [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur-an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-qur-an.md) _2017-08-27 03:25:12 (First version)_
+1. [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur-an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-qur-an.md) _2018-02-06 13:49:19 (First version)_
 1. [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur'an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-quraan.md) _(Current version)_
 
 ### Related:

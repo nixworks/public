@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/04/6/as-the-israeliapalestinian-conflict-intensifies-
 
 ### Changes:
 
-1. [As the Israeli-Palestinian conflict intensifies, the United States repeats its demands to Israel that it should pull back its troops.](/news/2002/04/6/as-the-israeli-palestinian-conflict-intensifies-the-united-states-repeats-its-demands-to-israel-that-it-should-pull-back-its-troops.md) _2017-08-27 03:15:12 (First version)_
+1. [As the Israeli-Palestinian conflict intensifies, the United States repeats its demands to Israel that it should pull back its troops.](/news/2002/04/6/as-the-israeli-palestinian-conflict-intensifies-the-united-states-repeats-its-demands-to-israel-that-it-should-pull-back-its-troops.md) _2018-02-06 13:49:15 (First version)_
 1. [As the Israeli-Palestinian conflict intensifies, the United States repeats its demands to Israel that it should pull back its troops.](/news/2002/04/6/as-the-israeliapalestinian-conflict-intensifies-the-united-states-repeats-its-demands-to-israel-that-it-should-pull-back-its-troops.md) _(Current version)_
 
 ### Related:

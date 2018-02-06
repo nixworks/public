@@ -16,7 +16,7 @@ Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost dou
 
 ### Changes:
 
-1. [Eurozone finance ministers agree to set up a permanent bail-out fund of -500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-500-billion-the-european-stability-mechanism-esm-this-replac.md) _2017-08-27 03:32:19 (First version)_
+1. [Eurozone finance ministers agree to set up a permanent bail-out fund of -500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-500-billion-the-european-stability-mechanism-esm-this-replac.md) _2018-02-06 13:49:21 (First version)_
 1. [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md) _(Current version)_
 
 ### Related:

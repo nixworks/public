@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/25/index.html)  [JSON](2016/01/25/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md)
-_Context: Cameroon, Boko Haram insurgency, Nigeria_
+_Context: Boko Haram insurgency, Cameroon, Nigeria_
 
 ##### Yemeni Civil War (2015-present)
 ### [A Saudi-led coalition airstrike kills a senior Yemeni judge and seven members of his family in Sana'a. The judge had previously presided over treason cases against ousted President Abd Rabbuh Mansur Hadi. ](/news/2016/01/25/a-saudi-led-coalition-airstrike-kills-a-senior-yemeni-judge-and-seven-members-of-his-family-in-sana-a-the-judge-had-previously-presided-ove.md)
@@ -17,13 +17,13 @@ It would be the second time the famous falls have been shut down as authorities 
 
 ##### January 2016 East Asia cold wave
 ### [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md)
-_Context: Taiwan, Asia, January 2016 East Asia cold wave, China, South Korea_
+_Context: Asia, South Korea, January 2016 East Asia cold wave, Taiwan, China_
 
 ##### January 2016 United States blizzard
 ### [The death toll from the blizzard in the Eastern United States rises to at least 30. ](/news/2016/01/25/the-death-toll-from-the-blizzard-in-the-eastern-united-states-rises-to-at-least-30.md)
-_Context: Eastern U.S., January 2016 United States blizzard_
+_Context: January 2016 United States blizzard, Eastern U.S._
 
-##### British
+##### United Kingdom
 ### [British explorer Henry Worsley dies at the age of 55 while attempting to be the first person to cross Antarctica unaided. ](/news/2016/01/25/british-explorer-henry-worsley-dies-at-the-age-of-55-while-attempting-to-be-the-first-person-to-cross-antarctica-unaided.md)
 Explorer Henry Worsley dies during a solo attempt to cross Antarctica and complete the unfinished journey of his hero Sir Ernest Shackleton.
 
@@ -49,7 +49,7 @@ A grand jury cleared Planned Parenthood of allegations of misconduct, instead in
 
 ##### Bob Brown
 ### [Bob Brown, former Parliamentary Leader of the Australian Greens, is arrested during a protest in the Tasmanian village of Lapoinya over proposed clear-fell logging of a nearby forest. ](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-australian-greens-is-arrested-during-a-protest-in-the-tasmanian-village-of-lapoinya-over-prop.md)
-_Context: Lapoinya, Australian Greens, Bob Brown, Tasmania_
+_Context: Tasmania, Australian Greens, Bob Brown, Lapoinya_
 
 ## [Previous Day...](/news/2016/01/24/index.md)
 

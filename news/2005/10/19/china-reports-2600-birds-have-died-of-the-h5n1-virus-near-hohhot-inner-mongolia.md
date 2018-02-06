@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/10/19/china-reports-2600-birds-have-died-of-the-h5n1-
 
 ### Changes:
 
-1. [ Avian influenza: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-p-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _2017-08-25 03:16:59 (First version)_
-2. [ Avian influenza:: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _2017-08-27 03:16:58 (Update)_
+1. [ Avian influenza: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-p-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _2018-02-06 13:49:16 (First version)_
+2. [ Avian influenza:: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _2018-02-06 13:49:16 (Update)_
 2. [ China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md) _(Current version)_
 
 ### Related:

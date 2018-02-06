@@ -17,8 +17,8 @@ Bombings in Iraq, including two in a market and a third at a cemetery where vict
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/iraqi-insurgency-post-u-s-withdrawal-ptwo-roadside-bombings-in-iraq-kill-11-people.md) _2017-08-25 03:39:44 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombings-in-iraq-kill-11-people.md) _2017-08-27 03:40:03 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombings-in-iraq-kill-11-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/iraqi-insurgency-post-u-s-withdrawal-ptwo-roadside-bombings-in-iraq-kill-11-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/two-roadside-bombings-in-iraq-kill-11-people.md) _(Current version)_
 
 ### Related:

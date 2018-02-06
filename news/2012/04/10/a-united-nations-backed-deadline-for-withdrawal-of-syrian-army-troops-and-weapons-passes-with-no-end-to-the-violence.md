@@ -17,8 +17,8 @@ Hopes of a UN-sponsored ceasefire in Syria recede as Damascus shows little sign 
 
 ### Changes:
 
-1. [Syrian uprising:A United Nations backed deadline for withdrawal of Syrian army troops and weapons passes, with no end to the violence. ](/news/2012/04/10/syrian-uprising-pa-united-nations-backed-deadline-for-withdrawal-of-syrian-army-troops-and-weapons-passes-with-no-end-to-the-violence.md) _2017-08-25 03:35:28 (First version)_
-2. [Syrian uprising:: A United Nations backed deadline for withdrawal of Syrian army troops and weapons passes, with no end to the violence. ](/news/2012/04/10/syrian-uprising-a-united-nations-backed-deadline-for-withdrawal-of-syrian-army-troops-and-weapons-passes-with-no-end-to-the-violence.md) _2017-08-27 03:35:37 (Update)_
+1. [Syrian uprising:A United Nations backed deadline for withdrawal of Syrian army troops and weapons passes, with no end to the violence. ](/news/2012/04/10/syrian-uprising-pa-united-nations-backed-deadline-for-withdrawal-of-syrian-army-troops-and-weapons-passes-with-no-end-to-the-violence.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:: A United Nations backed deadline for withdrawal of Syrian army troops and weapons passes, with no end to the violence. ](/news/2012/04/10/syrian-uprising-a-united-nations-backed-deadline-for-withdrawal-of-syrian-army-troops-and-weapons-passes-with-no-end-to-the-violence.md) _2018-02-06 13:49:23 (Update)_
 2. [A United Nations backed deadline for withdrawal of Syrian army troops and weapons passes, with no end to the violence. ](/news/2012/04/10/a-united-nations-backed-deadline-for-withdrawal-of-syrian-army-troops-and-weapons-passes-with-no-end-to-the-violence.md) _(Current version)_
 
 ### Related:

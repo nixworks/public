@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/21/500-greenpeace-environmentalists-protest-agains
 
 ### Changes:
 
-1. [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumpin.md) _2017-08-25 03:27:42 (First version)_
+1. [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumpin.md) _2018-02-06 13:49:19 (First version)_
 1. [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumping.md) _(Current version)_
 
 ### Related:

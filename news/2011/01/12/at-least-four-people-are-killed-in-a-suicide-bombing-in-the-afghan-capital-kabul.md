@@ -16,8 +16,8 @@ At least eight people are killed in attacks on Afghan intelligence forces in Kab
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001apresent-pat-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _2017-08-25 03:31:45 (First version)_
-2. [War in Afghanistan (2001-present):: At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001-present-at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _2017-08-27 03:31:52 (Update)_
+1. [War in Afghanistan (2001-present):At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001apresent-pat-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _2018-02-06 13:49:21 (First version)_
+2. [War in Afghanistan (2001-present):: At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001-present-at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _2018-02-06 13:49:21 (Update)_
 2. [At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md) _(Current version)_
 
 ### Related:

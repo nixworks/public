@@ -3,7 +3,7 @@ Formats: [HTML](2017/08/23/index.html)  [JSON](2017/08/23/index.json)  [XML](201
 
 ## [2017-08-23](/news/2017/08/23/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md)
 At least 35 people were killed in air strikes that hit a small hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa on Wednesday, a local medic and Houthi&#039;s television station.
 

@@ -16,8 +16,8 @@ Gunmen in Pakistan have killed six health workers at the start of a nationwide p
 
 ### Changes:
 
-1. [Taliban insurgency:Gunmen kill six health workers engaged in a polio vaccination drive in Pakistan, highlighting resistance to a program opposed by the Taliban. ](/news/2012/12/18/taliban-insurgency-pgunmen-kill-six-health-workers-engaged-in-a-polio-vaccination-drive-in-pakistan-highlighting-resistance-to-a-program-op.md) _2017-08-25 03:37:04 (First version)_
-2. [Taliban insurgency:: Gunmen kill six health workers engaged in a polio vaccination drive in Pakistan, highlighting resistance to a program opposed by the Taliban. ](/news/2012/12/18/taliban-insurgency-gunmen-kill-six-health-workers-engaged-in-a-polio-vaccination-drive-in-pakistan-highlighting-resistance-to-a-program-o.md) _2017-08-27 03:37:14 (Update)_
+1. [Taliban insurgency:Gunmen kill six health workers engaged in a polio vaccination drive in Pakistan, highlighting resistance to a program opposed by the Taliban. ](/news/2012/12/18/taliban-insurgency-pgunmen-kill-six-health-workers-engaged-in-a-polio-vaccination-drive-in-pakistan-highlighting-resistance-to-a-program-op.md) _2018-02-06 13:49:24 (First version)_
+2. [Taliban insurgency:: Gunmen kill six health workers engaged in a polio vaccination drive in Pakistan, highlighting resistance to a program opposed by the Taliban. ](/news/2012/12/18/taliban-insurgency-gunmen-kill-six-health-workers-engaged-in-a-polio-vaccination-drive-in-pakistan-highlighting-resistance-to-a-program-o.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen kill six health workers engaged in a polio vaccination drive in Pakistan, highlighting resistance to a program opposed by the Taliban. ](/news/2012/12/18/gunmen-kill-six-health-workers-engaged-in-a-polio-vaccination-drive-in-pakistan-highlighting-resistance-to-a-program-opposed-by-the-taliban.md) _(Current version)_
 
 ### Related:

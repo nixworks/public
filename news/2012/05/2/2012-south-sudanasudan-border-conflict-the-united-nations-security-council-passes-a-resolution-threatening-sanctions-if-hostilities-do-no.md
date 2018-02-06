@@ -16,7 +16,7 @@ Security Council passes resolution that gives Sudan and South Sudan just 48 hour
 
 ### Changes:
 
-1. [2012 South Sudan-Sudan border conflict: The United Nations Security Council passes a resolution threatening sanctions if hostilities do not end within 48 hours. ](/news/2012/05/2/2012-south-sudan-sudan-border-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sanctions-if-hostilities-do-no.md) _2017-08-27 03:35:46 (First version)_
+1. [2012 South Sudan-Sudan border conflict: The United Nations Security Council passes a resolution threatening sanctions if hostilities do not end within 48 hours. ](/news/2012/05/2/2012-south-sudan-sudan-border-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sanctions-if-hostilities-do-no.md) _2018-02-06 13:49:23 (First version)_
 1. [2012 South Sudan-Sudan border conflict: The United Nations Security Council passes a resolution threatening sanctions if hostilities do not end within 48 hours. ](/news/2012/05/2/2012-south-sudanasudan-border-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sanctions-if-hostilities-do-no.md) _(Current version)_
 
 ### Related:

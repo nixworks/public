@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/09/15/anti-japanese-protests-spread-in-china-over-the
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-panti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _2017-08-25 03:36:31 (First version)_
-2. [Senkaku Islands dispute:: Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _2017-08-27 03:36:41 (Update)_
+1. [Senkaku Islands dispute:Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-panti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _2018-02-06 13:49:23 (Update)_
 2. [Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md) _(Current version)_
 
 ### Related:

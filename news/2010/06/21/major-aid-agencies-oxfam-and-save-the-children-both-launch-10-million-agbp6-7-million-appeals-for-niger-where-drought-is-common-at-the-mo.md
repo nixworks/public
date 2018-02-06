@@ -17,7 +17,7 @@ Two major aid agencies launch appeals for seven million people facing food short
 
 ### Changes:
 
-1. [Major aid agencies Oxfam and Save the Children both launch $10 million (PS6.7 million) appeals for Niger where drought is common at the moment and half the country has no food. ](/news/2010/06/21/major-aid-agencies-oxfam-and-save-the-children-both-launch-10-million-aps6-7-million-appeals-for-niger-where-drought-is-common-at-the-mome.md) _2017-08-25 03:28:22 (First version)_
+1. [Major aid agencies Oxfam and Save the Children both launch $10 million (PS6.7 million) appeals for Niger where drought is common at the moment and half the country has no food. ](/news/2010/06/21/major-aid-agencies-oxfam-and-save-the-children-both-launch-10-million-aps6-7-million-appeals-for-niger-where-drought-is-common-at-the-mome.md) _2018-02-06 13:49:20 (First version)_
 1. [Major aid agencies Oxfam and Save the Children both launch $10 million (GBP6.7 million) appeals for Niger where drought is common at the moment and half the country has no food. ](/news/2010/06/21/major-aid-agencies-oxfam-and-save-the-children-both-launch-10-million-agbp6-7-million-appeals-for-niger-where-drought-is-common-at-the-mo.md) _(Current version)_
 
 ### Related:

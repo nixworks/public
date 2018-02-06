@@ -16,7 +16,7 @@ At least 35 people were killed and 25 others wounded after a passenger bus crash
 
 ### Changes:
 
-1. [September 2016 Afghanistan road crash: At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/september-2016-afghanistan-road-crash-at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zab.md) _2017-08-27 03:46:46 (First version)_
+1. [September 2016 Afghanistan road crash: At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/september-2016-afghanistan-road-crash-at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zab.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zabul-province.md) _(Current version)_
 
 ### Related:

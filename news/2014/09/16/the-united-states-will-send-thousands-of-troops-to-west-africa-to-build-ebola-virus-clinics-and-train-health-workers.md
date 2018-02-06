@@ -17,8 +17,8 @@ The United States will send thousands of troops to respond to the Ebola outbreak
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa:The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/ebola-virus-epidemic-in-west-africa-pthe-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-h.md) _2017-08-25 03:40:59 (First version)_
-2. [Ebola virus epidemic in West Africa:: The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/ebola-virus-epidemic-in-west-africa-the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train.md) _2017-08-27 03:41:17 (Update)_
+1. [Ebola virus epidemic in West Africa:: The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/ebola-virus-epidemic-in-west-africa-the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train.md) _2018-02-06 13:49:26 (First version)_
+2. [Ebola virus epidemic in West Africa:The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/ebola-virus-epidemic-in-west-africa-pthe-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-h.md) _2018-02-06 13:49:26 (Update)_
 2. [The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-health-workers.md) _(Current version)_
 
 ### Related:

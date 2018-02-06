@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-agr
 
 ### Changes:
 
-1. [Australian icebreaker, ''Aurora Australis'', runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austr.md) _2017-08-25 03:44:40 (First version)_
+1. [Australian icebreaker, ''Aurora Australis'', runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austr.md) _2018-02-06 13:49:28 (First version)_
 1. [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md) _(Current version)_
 
 ### Related:

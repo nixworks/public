@@ -19,8 +19,8 @@ Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting
 
 ### Changes:
 
-1. [Kyrgyzstan:Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-ptroops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-ky.md) _2017-08-25 03:29:13 (First version)_
-2. [Kyrgyzstan:: Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md) _2017-08-27 03:29:14 (Update)_
+1. [Kyrgyzstan:: Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md) _2018-02-06 13:49:20 (First version)_
+2. [Kyrgyzstan:Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-ptroops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-ky.md) _2018-02-06 13:49:20 (Update)_
 2. [Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-kyrgyzstan-fro.md) _(Current version)_
 
 ### Related:

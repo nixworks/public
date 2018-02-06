@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/3/the-new-general-national-congress-libya-dawn-whi
 
 ### Changes:
 
-1. [Libyan Crisis (2011-present): The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/libyan-crisis-2011-present-the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya.md) _2017-08-27 03:43:40 (First version)_
+1. [Libyan Crisis (2011-present): The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/libyan-crisis-2011-present-the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya.md) _2018-02-06 13:49:28 (First version)_
 1. [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md) _(Current version)_
 
 ### Related:

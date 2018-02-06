@@ -16,7 +16,7 @@ Some 100 men in trucks with machine guns abducted the group from a remote desert
 
 ### Changes:
 
-1. [About 100 men in more than 50 machine gun-mounted trucks kidnap at least 26 Qataris, including members of the royal family, from a hunting camp in Iraq near the Saudi border. ](/news/2015/12/16/about-100-men-in-more-than-50-machine-gun-mounted-trucks-kidnap-at-least-26-qataris-including-members-of-the-royal-family-from-a-huntin.md) _2017-08-25 03:44:01 (First version)_
+1. [About 100 men in more than 50 machine gun-mounted trucks kidnap at least 26 Qataris, including members of the royal family, from a hunting camp in Iraq near the Saudi border. ](/news/2015/12/16/about-100-men-in-more-than-50-machine-gun-mounted-trucks-kidnap-at-least-26-qataris-including-members-of-the-royal-family-from-a-huntin.md) _2018-02-06 13:49:28 (First version)_
 1. [About 100 men in more than 50 machine gun-mounted trucks kidnap at least 26 Qataris, including members of the royal family, from a hunting camp in Iraq near the Saudi border. ](/news/2015/12/16/about-100-men-in-more-than-50-machine-gun-mounted-trucks-kidnap-at-least-26-qataris-including-members-of-the-royal-family-from-a-hunting-c.md) _(Current version)_
 
 ### Related:

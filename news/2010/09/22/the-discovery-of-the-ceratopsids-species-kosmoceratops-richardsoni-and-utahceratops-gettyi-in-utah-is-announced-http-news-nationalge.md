@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoc
 
 ### Changes:
 
-1. [The discovery of the ceratopsids species ''Kosmoceratops richardsoni'' and ''Utahceratops gettyi'' in Utah is announced. [http:--news.nationalgeographic.com-news-2010-09-100922-new-species-dinosaurs-horned-utah-fossils-science- (''National Geographic'')] 10.1371-journal.pone.0012292|(''PLoS'')](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nation.md) _2017-08-25 03:30:10 (First version)_
+1. [The discovery of the ceratopsids species ''Kosmoceratops richardsoni'' and ''Utahceratops gettyi'' in Utah is announced. [http:--news.nationalgeographic.com-news-2010-09-100922-new-species-dinosaurs-horned-utah-fossils-science- (''National Geographic'')] 10.1371-journal.pone.0012292|(''PLoS'')](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nation.md) _2018-02-06 13:49:20 (First version)_
 1. [The discovery of the ceratopsids species "Kosmoceratops richardsoni" and "Utahceratops gettyi" in Utah is announced. [http:--news.nationalgeographic.com-news-2010-09-100922-new-species-dinosaurs-horned-utah-fossils-science- ("National Geographic")] 10.1371-journal.pone.0012292 ("PLoS")](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nationalge.md) _(Current version)_
 
 ### Related:

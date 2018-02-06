@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/30/at-least-11-afghan-policemen-are-killed-in-a-su
 
 ### Changes:
 
-1. [ War in Afghanistan (2015-present): At least 11 Afghan policemen are killed in a suspected Taliban attack on security checkpoints in Helmand province. ](/news/2016/05/30/war-in-afghanistan-2015-present-at-least-11-afghan-policemen-are-killed-in-a-suspected-taliban-attack-on-security-checkpoints-in-helma.md) _2017-08-27 03:46:10 (First version)_
+1. [ War in Afghanistan (2015-present): At least 11 Afghan policemen are killed in a suspected Taliban attack on security checkpoints in Helmand province. ](/news/2016/05/30/war-in-afghanistan-2015-present-at-least-11-afghan-policemen-are-killed-in-a-suspected-taliban-attack-on-security-checkpoints-in-helma.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least 11 Afghan policemen are killed in a suspected Taliban attack on security checkpoints in Helmand province. ](/news/2016/05/30/at-least-11-afghan-policemen-are-killed-in-a-suspected-taliban-attack-on-security-checkpoints-in-helmand-province.md) _(Current version)_
 
 ### Related:

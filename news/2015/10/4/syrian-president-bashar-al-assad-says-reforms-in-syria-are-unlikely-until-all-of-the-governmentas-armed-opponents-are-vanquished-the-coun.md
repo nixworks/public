@@ -18,7 +18,7 @@ A 2,000-year-old Roman arch of triumph in the ancient city of Palmyra in Syria h
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian President Bashar al-Assad says reforms in Syria are unlikely until all of the government-s armed opponents are vanquished. The country will continue to send representatives to peace negotiations sponsored by Moscow, but rule out negotiations with the Western-backed groups opposing his government. ](/news/2015/10/4/syrian-civil-war-syrian-president-bashar-al-assad-says-reforms-in-syria-are-unlikely-until-all-of-the-government-s-armed-opponents-are-va.md) _2017-08-27 03:43:13 (First version)_
+1. [Syrian Civil War: Syrian President Bashar al-Assad says reforms in Syria are unlikely until all of the government-s armed opponents are vanquished. The country will continue to send representatives to peace negotiations sponsored by Moscow, but rule out negotiations with the Western-backed groups opposing his government. ](/news/2015/10/4/syrian-civil-war-syrian-president-bashar-al-assad-says-reforms-in-syria-are-unlikely-until-all-of-the-government-s-armed-opponents-are-va.md) _2018-02-06 13:49:28 (First version)_
 1. [Syrian President Bashar al-Assad says reforms in Syria are unlikely until all of the government's armed opponents are vanquished. The country will continue to send representatives to peace negotiations sponsored by Moscow, but rule out negotiations with the Western-backed groups opposing his government. ](/news/2015/10/4/syrian-president-bashar-al-assad-says-reforms-in-syria-are-unlikely-until-all-of-the-governmentas-armed-opponents-are-vanquished-the-coun.md) _(Current version)_
 
 ### Related:

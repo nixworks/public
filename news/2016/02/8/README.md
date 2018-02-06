@@ -5,15 +5,15 @@ Formats: [HTML](2016/02/8/index.html)  [JSON](2016/02/8/index.json)  [XML](2016/
 
 ##### Libyan Civil War (2014-present)
 ### [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md)
-_Context: Libyan Air Force, Libyan Civil War (2014-present), MiG-23, Derna, ISIL_
+_Context: Libyan Air Force, MiG-23, Libyan Civil War (2014-present), ISIL, Derna_
 
 ##### Syrian Civil War
 ### [United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md)
 Detainees held by the Syrian Government are dying on an extermination scale, a UN report says.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A Scud missile fired from Yemen is intercepted over Saudi Arabia. The missile's target is believed to have been the King Khalid Air Base, near the city of Khamis Mushait. ](/news/2016/02/8/a-scud-missile-fired-from-yemen-is-intercepted-over-saudi-arabia-the-missile-s-target-is-believed-to-have-been-the-king-khalid-air-base-ne.md)
-_Context: King Khalid Air Base, Yemen, Scud, Khamis Mushait, Saudi Arabia, Saudi Arabian-led intervention in Yemen_
+_Context: Yemen, King Khalid Air Base, Khamis Mushait, Saudi Arabia, Saudi-led intervention in Yemen, Scud_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. ](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eastern-afghanistan-killing-five-civilians-and-wounding-nine-others.md)
@@ -33,7 +33,7 @@ A migrant boat capsizes off Turkey, killing at least 27 people who were trying t
 
 ##### Billy Kenoi
 ### [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md)
-_Context: state of emergency, Hawaii, island of Hawaii, infected mosquitoes, dengue, Billy Kenoi_
+_Context: Hawaii, island of Hawaii, infected mosquitoes, Billy Kenoi, dengue, state of emergency_
 
 ##### Korean border incidents
 ### [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md)

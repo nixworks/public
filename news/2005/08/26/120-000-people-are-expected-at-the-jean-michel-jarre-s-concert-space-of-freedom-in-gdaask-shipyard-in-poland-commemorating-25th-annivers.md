@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/08/26/120-000-people-are-expected-at-the-jean-michel-
 
 ### Changes:
 
-1. [ 120,000 people are expected at the Jean Michel Jarre's concert ''Space of Freedom'' in Gdansk Shipyard in Poland commemorating 25th anniversary of the creation of "Solidarity" trade union; live at 20:00 CET at ](/news/2005/08/26/120-000-people-are-expected-at-the-jean-michel-jarre-s-concert-space-of-freedom-in-gdaask-shipyard-in-poland-commemorating-25th-annive.md) _2017-08-25 03:16:43 (First version)_
+1. [ 120,000 people are expected at the Jean Michel Jarre's concert ''Space of Freedom'' in Gdansk Shipyard in Poland commemorating 25th anniversary of the creation of "Solidarity" trade union; live at 20:00 CET at ](/news/2005/08/26/120-000-people-are-expected-at-the-jean-michel-jarre-s-concert-space-of-freedom-in-gdaask-shipyard-in-poland-commemorating-25th-annive.md) _2018-02-06 13:49:16 (First version)_
 1. [ 120,000 people are expected at the Jean Michel Jarre's concert "Space of Freedom" in Gdansk Shipyard in Poland commemorating 25th anniversary of the creation of "Solidarity" trade union; live at 20:00 CET at ](/news/2005/08/26/120-000-people-are-expected-at-the-jean-michel-jarre-s-concert-space-of-freedom-in-gdaask-shipyard-in-poland-commemorating-25th-annivers.md) _(Current version)_
 
 ### Related:

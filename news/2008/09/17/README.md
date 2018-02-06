@@ -17,11 +17,11 @@ Ilan and Ari Rabinovitch
 
 ##### Rwanda
 ### [ Rwanda becomes the first nation where women outnumber men in parliament. ](/news/2008/09/17/rwanda-becomes-the-first-nation-where-women-outnumber-men-in-parliament.md)
-_Context: Rwanda, parliament_
+_Context: parliament, Rwanda_
 
 ##### Russia
 ### [ Trading is suspended for the second day in succession on Russia's two main stock exchanges (the MICEX and the dollar-denominated RTS) after shares fall dramatically, forcing the central bank in Moscow to intervene. ](/news/2008/09/17/trading-is-suspended-for-the-second-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-the-dollar-denominated-rts-after.md)
-_Context: Moscow, Russian Central Bank, Russia, RTS, MICEX_
+_Context: RTS, MICEX, Russian Central Bank, Moscow, Russia_
 
 ##### Islamic Jihad
 ### [ Islamic Jihad claim responsibility for an attack on the U.S. embassy in Yemen that results in 16 confirmed deaths. ](/news/2008/09/17/islamic-jihad-claim-responsibility-for-an-attack-on-the-u-s-embassy-in-yemen-that-results-in-16-confirmed-deaths.md)
@@ -29,23 +29,23 @@ It was the deadliest and most ambitious attack in years in Yemen, a country wher
 
 ##### BBC
 ### [ The BBC reports that British bank HBOS is in advanced talks with Lloyds TSB as HBOS share prices plummet as a result of exposure to the subprime mortgage crisis. ](/news/2008/09/17/the-bbc-reports-that-british-bank-hbos-is-in-advanced-talks-with-lloyds-tsb-as-hbos-share-prices-plummet-as-a-result-of-exposure-to-the-sub.md)
-_Context: Lloyd's HBOS, HBOS, BBC, subprime mortgage crisis_
+_Context: BBC, subprime mortgage crisis, Lloyd's HBOS, HBOS_
 
 ##### India
 ### [ India deploys Sukhoi Su-30MKI fighter jets capable of carrying nuclear warheads in Jammu and Kashmir amidst continuing ceasefire violations with Pakistan along the Line of Control. ](/news/2008/09/17/india-deploys-sukhoi-su-30mki-fighter-jets-capable-of-carrying-nuclear-warheads-in-jammu-and-kashmir-amidst-continuing-ceasefire-violations.md)
-_Context: ceasefire, nuclear warhead, India, Line of Control, Pakistan, Sukhoi Su-30, Jammu and Kashmir_
+_Context: Line of Control, Pakistan, India, Jammu and Kashmir, nuclear warhead, Sukhoi Su-30, ceasefire_
 
 ##### assemble
 ### [ 2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. ](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.md)
-_Context: Prime Minister, Somchai Wongsawat, National Assembly of Thailand, assemble, Bhumibol Adulyadej_
+_Context: Somchai Wongsawat, Prime Minister, National Assembly of Thailand, assemble, Bhumibol Adulyadej_
 
 ##### BAA Limited
 ### [ BAA Limited decides to sell Gatwick Airport following a recent ruling by the United Kingdom Competition Commission. ](/news/2008/09/17/baa-limited-decides-to-sell-gatwick-airport-following-a-recent-ruling-by-the-united-kingdom-competition-commission.md)
-_Context: Competition Commission, BAA Limited, British, Gatwick Airport_
+_Context: BAA Limited, Competition Commission, Gatwick Airport, United Kingdom_
 
 ##### International Astronomical Union
 ### [ The International Astronomical Union classifies Haumea as the fifth dwarf planet in the Solar System and names it after the Hawaiian goddess of childbirth and fertility. ](/news/2008/09/17/the-international-astronomical-union-classifies-haumea-as-the-fifth-dwarf-planet-in-the-solar-system-and-names-it-after-the-hawaiian-goddes.md)
-_Context: International Astronomical Union, Hawaiian goddess, Haumea, Solar System, dwarf planet_
+_Context: dwarf planet, Hawaiian goddess, Solar System, Haumea, International Astronomical Union_
 
 ##### Papua New Guinea
 ### [ Papua New Guinea launches the National Television Service, a free-to-air state-run channel which competes with EM TV. ](/news/2008/09/17/papua-new-guinea-launches-the-national-television-service-a-free-to-air-state-run-channel-which-competes-with-em-tv.md)

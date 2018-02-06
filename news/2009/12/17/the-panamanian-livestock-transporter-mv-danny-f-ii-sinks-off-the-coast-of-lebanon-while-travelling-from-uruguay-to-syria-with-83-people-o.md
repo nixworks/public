@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f
 
 ### Changes:
 
-1. [ The Panamanian livestock transporter MV ''Danny F II'' sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people.md) _2017-08-25 03:26:37 (First version)_
+1. [ The Panamanian livestock transporter MV ''Danny F II'' sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Panamanian livestock transporter MV "Danny F II" sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people-o.md) _(Current version)_
 
 ### Related:

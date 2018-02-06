@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/10/11/afghan-president-hamid-karzai-confirms-holding-
 
 ### Changes:
 
-1. [Afghanistan:Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-pafghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-yea.md) _2017-08-25 03:30:28 (First version)_
-2. [Afghanistan:: Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-ye.md) _2017-08-27 03:30:34 (Update)_
+1. [Afghanistan:Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-pafghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-yea.md) _2018-02-06 13:49:20 (First version)_
+2. [Afghanistan:: Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-ye.md) _2018-02-06 13:49:20 (Update)_
 2. [Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-year-war.md) _(Current version)_
 
 ### Related:

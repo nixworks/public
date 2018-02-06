@@ -17,8 +17,8 @@ Stars including Beyonce and Bob Dylan are among those to donate tracks to an alb
 
 ### Changes:
 
-1. [Typhoon Haiyan:39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-p39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _2017-08-25 03:39:35 (First version)_
-2. [Typhoon Haiyan:: 39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _2017-08-27 03:39:53 (Update)_
+1. [Typhoon Haiyan:39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-p39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: 39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _2018-02-06 13:49:25 (Update)_
 2. [39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber-release-a-charit.md) _(Current version)_
 
 ### Related:

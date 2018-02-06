@@ -16,7 +16,7 @@ Exit poll puts his PRI party ahead with 33% in the lower house elections dominat
 
 ### Changes:
 
-1. [Mexican legislative election, 2015: Voters in Mexico go to the polls for a legislative election with reports of violence in southern states and widespread voter disillusionment. Exit polls show the ruling Institutional Revolutionary Party of President Enrique Pena Nieto in a position to retain power. ](/news/2015/06/7/mexican-legislative-election-2015-voters-in-mexico-go-to-the-polls-for-a-legislative-election-with-reports-of-violence-in-southern-states.md) _2017-08-27 03:42:29 (First version)_
+1. [Mexican legislative election, 2015: Voters in Mexico go to the polls for a legislative election with reports of violence in southern states and widespread voter disillusionment. Exit polls show the ruling Institutional Revolutionary Party of President Enrique Pena Nieto in a position to retain power. ](/news/2015/06/7/mexican-legislative-election-2015-voters-in-mexico-go-to-the-polls-for-a-legislative-election-with-reports-of-violence-in-southern-states.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Mexico go to the polls for a legislative election with reports of violence in southern states and widespread voter disillusionment. Exit polls show the ruling Institutional Revolutionary Party of President Enrique Pena Nieto in a position to retain power. ](/news/2015/06/7/voters-in-mexico-go-to-the-polls-for-a-legislative-election-with-reports-of-violence-in-southern-states-and-widespread-voter-disillusionment.md) _(Current version)_
 
 ### Related:

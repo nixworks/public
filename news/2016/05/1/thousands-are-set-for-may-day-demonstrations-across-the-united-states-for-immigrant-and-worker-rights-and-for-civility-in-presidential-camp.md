@@ -17,7 +17,7 @@ May Day march organizers are asking participants to remain peaceful while police
 
 ### Changes:
 
-1. [Thousands are set for May Day demonstrations across the United States for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests. ](/news/2016/05/1/thousands-are-set-for-may-day-demonstrations-across-the-united-states-for-immigrant-and-worker-rights-and-for-civility-in-presidential-c.md) _2017-08-25 03:45:34 (First version)_
+1. [Thousands are set for May Day demonstrations across the United States for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests. ](/news/2016/05/1/thousands-are-set-for-may-day-demonstrations-across-the-united-states-for-immigrant-and-worker-rights-and-for-civility-in-presidential-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Thousands are set for May Day demonstrations across the United States for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests. ](/news/2016/05/1/thousands-are-set-for-may-day-demonstrations-across-the-united-states-for-immigrant-and-worker-rights-and-for-civility-in-presidential-camp.md) _(Current version)_
 
 ### Related:

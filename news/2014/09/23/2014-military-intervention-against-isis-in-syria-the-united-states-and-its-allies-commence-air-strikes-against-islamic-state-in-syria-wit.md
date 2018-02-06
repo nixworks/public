@@ -19,7 +19,7 @@ The US and five Arab nations launch a campaign of air strikes against Islamic St
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: 2014 military intervention against ISIS in Syria -- The United States and its allies commence air strikes against Islamic State in Syria with reports of at least 120 deaths. ](/news/2014/09/23/islamic-state-of-iraq-and-the-levant-2014-military-intervention-against-isis-in-syria-the-united-states-and-its-allies-commence-air-stri.md) _2017-08-27 03:41:19 (First version)_
+1. [Islamic State of Iraq and the Levant: 2014 military intervention against ISIS in Syria -- The United States and its allies commence air strikes against Islamic State in Syria with reports of at least 120 deaths. ](/news/2014/09/23/islamic-state-of-iraq-and-the-levant-2014-military-intervention-against-isis-in-syria-the-united-states-and-its-allies-commence-air-stri.md) _2018-02-06 13:49:26 (First version)_
 1. [2014 military intervention against ISIS in Syria -- The United States and its allies commence air strikes against Islamic State in Syria with reports of at least 120 deaths. ](/news/2014/09/23/2014-military-intervention-against-isis-in-syria-the-united-states-and-its-allies-commence-air-strikes-against-islamic-state-in-syria-wit.md) _(Current version)_
 
 ### Related:

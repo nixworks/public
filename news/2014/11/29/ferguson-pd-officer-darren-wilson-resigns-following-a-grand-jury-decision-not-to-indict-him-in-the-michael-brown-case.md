@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/29/ferguson-pd-officer-darren-wilson-resigns-follo
 
 ### Changes:
 
-1. [Shooting of Michael Brown: Ferguson PD officer Darren Wilson resigns following a grand jury decision not to indict him in the Michael Brown case. ](/news/2014/11/29/shooting-of-michael-brown-ferguson-pd-officer-darren-wilson-resigns-following-a-grand-jury-decision-not-to-indict-him-in-the-michael-brown.md) _2017-08-27 03:41:34 (First version)_
+1. [Shooting of Michael Brown: Ferguson PD officer Darren Wilson resigns following a grand jury decision not to indict him in the Michael Brown case. ](/news/2014/11/29/shooting-of-michael-brown-ferguson-pd-officer-darren-wilson-resigns-following-a-grand-jury-decision-not-to-indict-him-in-the-michael-brown.md) _2018-02-06 13:49:26 (First version)_
 1. [Ferguson PD officer Darren Wilson resigns following a grand jury decision not to indict him in the Michael Brown case. ](/news/2014/11/29/ferguson-pd-officer-darren-wilson-resigns-following-a-grand-jury-decision-not-to-indict-him-in-the-michael-brown-case.md) _(Current version)_
 
 ### Related:

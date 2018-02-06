@@ -35,7 +35,7 @@ President of Palestinian Authority says he may disband his governing body if pea
 
 ##### Iran
 ### [The Iranian government says the International Atomic Energy Agency spies on its nuclear program and reiterates its belief that the CIA, Mossad and MI6 murdered Majid Shahriari earlier this week. ](/news/2010/12/4/the-iranian-government-says-the-international-atomic-energy-agency-spies-on-its-nuclear-program-and-reiterates-its-belief-that-the-cia-moss.md)
-_Context: Mossad, IAEA, MI6, Iran, CIA, nuclear program, Majid Shahriari_
+_Context: MI6, Iran, Majid Shahriari, IAEA, Mossad, CIA, nuclear program_
 
 ##### South Korea
 ### [A proposed law in South Korea is to ban online gaming after midnight for young people amid concerns over Internet addiction. ](/news/2010/12/4/a-proposed-law-in-south-korea-is-to-ban-online-gaming-after-midnight-for-young-people-amid-concerns-over-internet-addiction.md)
@@ -43,11 +43,11 @@ _Context: South Korea, Internet addiction_
 
 ##### China Academy of Telecommunication Research
 ### [The China Academy of Telecommunication Research tells "China Daily" that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by-di.md)
-_Context: hacker, China Daily, online fraud, China Academy of Telecommunication Research_
+_Context: China Academy of Telecommunication Research, online fraud, China Daily, hacker_
 
 ##### China
 ### [Three people are arrested in China's Guangdong Province in relation to a $90 million gold heist, the biggest in Hong Kong history. ](/news/2010/12/4/three-people-are-arrested-in-china-s-guangdong-province-in-relation-to-a-90-million-gold-heist-the-biggest-in-hong-kong-history.md)
-_Context: China, Guangdong Province, Hong Kong_
+_Context: Hong Kong, Guangdong Province, China_
 
 ##### Laurent Gbagbo
 ### [A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/a-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-commission-back-alassane-oua.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/10/suspected-jihadists-attack-dioungani-a-village-
 
 ### Changes:
 
-1. [Mali conflict: Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/mali-conflict-suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md) _2017-08-27 03:43:18 (First version)_
+1. [Mali conflict: Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/mali-conflict-suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md) _2018-02-06 13:49:27 (First version)_
 1. [Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md) _(Current version)_
 
 ### Related:

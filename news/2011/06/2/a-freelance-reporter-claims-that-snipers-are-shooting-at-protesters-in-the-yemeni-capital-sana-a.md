@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-sho
 
 ### Changes:
 
-1. [2011 Yemeni uprising: A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/2011-yemeni-uprising-a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-27 03:33:29 (First version)_
+1. [2011 Yemeni uprising: A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/2011-yemeni-uprising-a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md) _2018-02-06 13:49:22 (First version)_
 1. [A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md) _(Current version)_
 
 ### Related:

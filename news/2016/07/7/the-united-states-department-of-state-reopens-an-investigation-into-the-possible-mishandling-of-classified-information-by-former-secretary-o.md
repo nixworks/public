@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/7/the-united-states-department-of-state-reopens-an
 
 ### Changes:
 
-1. [Hillary Clinton email scandal: The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/hillary-clinton-email-scandal-the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-in.md) _2017-08-27 03:46:26 (First version)_
+1. [Hillary Clinton email scandal: The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/hillary-clinton-email-scandal-the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-in.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md) _(Current version)_
 
 ### Related:

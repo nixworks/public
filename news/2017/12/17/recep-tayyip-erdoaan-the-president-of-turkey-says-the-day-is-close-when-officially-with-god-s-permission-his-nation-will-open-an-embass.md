@@ -17,7 +17,7 @@ Turkish President Recep Tayyip Erdoğan on Sunday said his nation plans to open 
 
 ### Changes:
 
-1. [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially," his nation will open an embassy in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-his-nation-will-open-an-embassy-in-east-jerusalem.md) _2017-12-18 18:30:05 (First version)_
+1. [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially," his nation will open an embassy in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-his-nation-will-open-an-embassy-in-east-jerusalem.md) _2018-02-06 13:49:31 (First version)_
 1. [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially, with God's permission" his nation will open an embassy to Palestine in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-with-god-s-permission-his-nation-will-open-an-embass.md) _(Current version)_
 
 ### Related:

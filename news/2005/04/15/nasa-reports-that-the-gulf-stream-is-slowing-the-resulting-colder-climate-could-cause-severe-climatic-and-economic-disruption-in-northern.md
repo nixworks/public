@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-th
 
 ### Changes:
 
-1. [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic distruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-distruption-in-norther.md) _2017-06-01 03:16:07 (First version)_
+1. [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic distruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-distruption-in-norther.md) _2018-02-06 13:49:16 (First version)_
 1. [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic disruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-disruption-in-northern.md) _(Current version)_
 
 ### Related:

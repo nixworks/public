@@ -16,8 +16,8 @@ A reinforced French force in the Central African Republic expands operations in 
 
 ### Changes:
 
-1. [Central African Republic conflict under the Djotodia administration:France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/central-african-republic-conflict-under-the-djotodia-administration-pfrance-expands-its-role-in-the-conflict-in-the-central-african-republic.md) _2017-08-25 03:39:39 (First version)_
-2. [Central African Republic conflict under the Djotodia administration:: France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/central-african-republic-conflict-under-the-djotodia-administration-france-expands-its-role-in-the-conflict-in-the-central-african-republi.md) _2017-08-27 03:39:56 (Update)_
+1. [Central African Republic conflict under the Djotodia administration:France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/central-african-republic-conflict-under-the-djotodia-administration-pfrance-expands-its-role-in-the-conflict-in-the-central-african-republic.md) _2018-02-06 13:49:25 (First version)_
+2. [Central African Republic conflict under the Djotodia administration:: France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/central-african-republic-conflict-under-the-djotodia-administration-france-expands-its-role-in-the-conflict-in-the-central-african-republi.md) _2018-02-06 13:49:25 (Update)_
 2. [France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/france-expands-its-role-in-the-conflict-in-the-central-african-republic.md) _(Current version)_
 
 ### Related:

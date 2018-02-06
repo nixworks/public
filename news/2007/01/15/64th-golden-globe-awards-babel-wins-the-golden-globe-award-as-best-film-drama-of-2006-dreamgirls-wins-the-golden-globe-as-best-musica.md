@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/01/15/64th-golden-globe-awards-babel-wins-the-golden-
 
 ### Changes:
 
-1. [ 64th Golden Globe Awards: ''Babel'' wins the Golden Globe Award as best film drama of 2006. ''Dreamgirls'' wins the Golden Globe as best musical or comedy. ](/news/2007/01/15/64th-golden-globe-awards-babel-wins-the-golden-globe-award-as-best-film-drama-of-2006-dreamgirls-wins-the-golden-globe-as-best-mu.md) _2017-08-25 03:19:01 (First version)_
+1. [ 64th Golden Globe Awards: ''Babel'' wins the Golden Globe Award as best film drama of 2006. ''Dreamgirls'' wins the Golden Globe as best musical or comedy. ](/news/2007/01/15/64th-golden-globe-awards-babel-wins-the-golden-globe-award-as-best-film-drama-of-2006-dreamgirls-wins-the-golden-globe-as-best-mu.md) _2018-02-06 13:49:17 (First version)_
 1. [ 64th Golden Globe Awards: "Babel" wins the Golden Globe Award as best film drama of 2006. "Dreamgirls" wins the Golden Globe as best musical or comedy. ](/news/2007/01/15/64th-golden-globe-awards-babel-wins-the-golden-globe-award-as-best-film-drama-of-2006-dreamgirls-wins-the-golden-globe-as-best-musica.md) _(Current version)_
 
 ### Related:

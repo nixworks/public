@@ -18,8 +18,8 @@ The deal sets a timetable for North Korea to disable all of its nuclear faciliti
 
 ### Changes:
 
-1. [ North Korea: The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/north-korea-p-the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md) _2017-08-25 03:21:06 (First version)_
-2. [ North Korea:: The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/north-korea-the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md) _2017-08-27 03:21:01 (Update)_
+1. [ North Korea:: The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/north-korea-the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md) _2018-02-06 13:49:18 (First version)_
+2. [ North Korea: The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/north-korea-p-the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md) _2018-02-06 13:49:18 (Update)_
 2. [ The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md) _(Current version)_
 
 ### Related:

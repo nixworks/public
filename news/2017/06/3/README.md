@@ -21,7 +21,7 @@ Snap election is seen as a two-horse race between old rivals Prime Minister Paka
 
 ##### Maltese general election, 2017
 ### [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md)
-_Context: Forza Nazzjonali, Malta, Joseph Muscat, Simon Busuttil, Prime Minister, Labour Party, Maltese general election, 2017_
+_Context: Joseph Muscat, Prime Minister, Simon Busuttil, Maltese general election, 2017, Forza Nazzjonali, Malta, Labour Party_
 
 ##### SpaceX CRS-11
 ### [SpaceX launches a Falcon 9 rocket with a shipment of food and supplies in a refurbished Dragon cargo capsule for the International Space Station. The mission reuses a Dragon cargo vessel that was previously flown in a September 2014 mission. ](/news/2017/06/3/spacex-launches-a-falcon-9-rocket-with-a-shipment-of-food-and-supplies-in-a-refurbished-dragon-cargo-capsule-for-the-international-space-sta.md)

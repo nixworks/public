@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/6/russia-says-it-would-consider-extending-its-air-
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/iraqi-civil-war-2014-present-russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-i.md) _2017-08-27 03:43:15 (First version)_
+1. [Iraqi Civil War (2014-present): Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/iraqi-civil-war-2014-present-russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-if-it-receives-such-a-request-from.md) _(Current version)_
 
 ### Related:

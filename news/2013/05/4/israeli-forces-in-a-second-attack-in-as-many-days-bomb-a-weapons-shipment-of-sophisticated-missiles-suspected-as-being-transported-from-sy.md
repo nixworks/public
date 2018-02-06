@@ -17,8 +17,8 @@ Hundreds of Syrians are fleeing coastal areas where activists say government for
 
 ### Changes:
 
-1. [Syrian civil war:Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-pisraeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being-t.md) _2017-08-25 03:38:33 (First version)_
-2. [Syrian civil war:: Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-israeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being.md) _2017-08-27 03:38:46 (Update)_
+1. [Syrian civil war:Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-pisraeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being-t.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-israeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being.md) _2018-02-06 13:49:25 (Update)_
 2. [Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/israeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being-transported-from-sy.md) _(Current version)_
 
 ### Related:

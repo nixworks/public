@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-mana
 
 ### Changes:
 
-1. [Mexican Drug War: Gunmen open fire on an ''El Maana'' newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massa.md) _2017-08-25 03:35:40 (First version)_
+1. [Mexican Drug War: Gunmen open fire on an ''El Maana'' newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massa.md) _2018-02-06 13:49:23 (First version)_
 1. [Mexican Drug War: Gunmen open fire on an "El Maana" newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massacr.md) _(Current version)_
 
 ### Related:

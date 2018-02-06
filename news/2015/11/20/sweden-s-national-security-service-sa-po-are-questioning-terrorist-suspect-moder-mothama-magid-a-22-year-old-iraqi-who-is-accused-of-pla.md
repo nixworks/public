@@ -16,7 +16,7 @@ UPDATED: Police are questioning Moder Mothama Magid, a 22-year-old Iraqi man arr
 
 ### Changes:
 
-1. [Sweden's national security service ''Sapo'' are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-p.md) _2017-08-25 03:43:39 (First version)_
+1. [Sweden's national security service ''Sapo'' are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-p.md) _2018-02-06 13:49:28 (First version)_
 1. [Sweden's national security service "Sapo" are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-pla.md) _(Current version)_
 
 ### Related:

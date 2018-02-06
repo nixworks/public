@@ -9,7 +9,7 @@ At least 35 people were killed in Syrian army bombardment over the last 24 hours
 
 ##### state of emergency
 ### [A state of emergency is declared in western Burma after clashes between Buddhists and Muslims. ](/news/2012/06/10/a-state-of-emergency-is-declared-in-western-burma-after-clashes-between-buddhists-and-muslims.md)
-_Context: sectarian violence, Buddhists, Muslim, state of emergency, Burma_
+_Context: state of emergency, Burma, sectarian violence, Buddhists, Muslim_
 
 ##### 66th Tony Awards
 ### [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with "Clybourne Park" winning the Tony Award for Best Play and "Once" winning the Tony Award for Best Musical". ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for-b.md)
@@ -17,11 +17,11 @@ Charles Isherwood and Dave Itzkoff live blog the Tony Awards.
 
 ##### General Administration of Customs
 ### [Data released on the website of the General Administration of Customs in the People's Republic of China indicates that China is significantly increasing its importation of crude oil to a record high, and some refineries have increased their processing rate. ](/news/2012/06/10/data-released-on-the-website-of-the-general-administration-of-customs-in-the-people-s-republic-of-china-indicates-that-china-is-significantl.md)
-_Context: crude oil, General Administration of Customs_
+_Context: General Administration of Customs, crude oil_
 
 ##### Kenya
 ### [Kenyan Cabinet Minister George Saitoti and five other people are killed in a helicopter crash in the Ngong Hills near Nairobi. ](/news/2012/06/10/kenyan-cabinet-minister-george-saitoti-and-five-other-people-are-killed-in-a-helicopter-crash-in-the-ngong-hills-near-nairobi.md)
-_Context: Nairobi, Ngong Hills, George Saitoti, Kenya_
+_Context: George Saitoti, Ngong Hills, Nairobi, Kenya_
 
 ##### earthquake
 ### [A 6.0 magnitude earthquake strikes near the Aegean Sea resort of Oludeniz in southern Turkey, resulting in dozens of injuries especially in the city of Fethiye. ](/news/2012/06/10/a-6-0-magnitude-earthquake-strikes-near-the-aegean-sea-resort-of-ala1-4deniz-in-southern-turkey-resulting-in-dozens-of-injuries-especially-i.md)
@@ -41,11 +41,11 @@ _Context: ICC, Muammar Gaddafi, Saif al-Islam, Libya_
 
 ##### Auburn University
 ### [Three people are shot to death and three are wounded during a party held at an apartment complex near the campus of Auburn University in Auburn, Alabama, U.S. ](/news/2012/06/10/three-people-are-shot-to-death-and-three-are-wounded-during-a-party-held-at-an-apartment-complex-near-the-campus-of-auburn-university-in-aub.md)
-_Context: Auburn University, Auburn, Alabama_
+_Context: Auburn, Alabama, Auburn University_
 
 ##### Venezuela
 ### [Venezuelan president Hugo Chavez claims his latest tests since his cancer treatment claim to deliver "absolutely fine" results. ](/news/2012/06/10/venezuelan-president-hugo-cha-vez-claims-his-latest-tests-since-his-cancer-treatment-claim-to-deliver-absolutely-fine-results.md)
-_Context: Hugo Chavez, Venezuela_
+_Context: Venezuela, Hugo Chavez_
 
 ##### Local elections
 ### [Local elections take place in Romania. The ruling Social Liberal Union wins by a landslide. ](/news/2012/06/10/local-elections-take-place-in-romania-the-ruling-social-liberal-union-wins-by-a-landslide.md)

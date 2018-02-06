@@ -11,7 +11,7 @@ Formats: [HTML](/news/2001/11/18/the-world-wrestling-federation-defeated-the-ecw
 
 ### Changes:
 
-1. [ The World Wrestling Federation defeated the ECW-WCW alliance at Survivor Series in Greensboro, North Carolina (The "Miracle in Greensboro")](/news/2001/11/18/the-world-wrestling-federation-defeated-the-ecw-wcw-alliance-at-survivor-series-in-greensboro-north-carolina-the-miracle-in-greensboro.md) _2017-08-27 03:15:11 (First version)_
+1. [ The World Wrestling Federation defeated the ECW-WCW alliance at Survivor Series in Greensboro, North Carolina (The "Miracle in Greensboro")](/news/2001/11/18/the-world-wrestling-federation-defeated-the-ecw-wcw-alliance-at-survivor-series-in-greensboro-north-carolina-the-miracle-in-greensboro.md) _2018-02-06 13:49:15 (First version)_
 1. [ The World Wrestling Federation defeated the ECW-WCW alliance at Survivor Series in Greensboro, North Carolina (The "Miracle in Greensboro")](/news/2001/11/18/the-world-wrestling-federation-defeated-the-ecwawcw-alliance-at-survivor-series-in-greensboro-north-carolina-the-miracle-in-greensboro.md) _(Current version)_
 
 ### Related:

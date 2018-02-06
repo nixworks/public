@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/iraqi-civil-war-2014-present-a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker.md) _2017-08-27 03:45:46 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/iraqi-civil-war-2014-present-a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md) _(Current version)_
 
 ### Related:

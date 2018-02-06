@@ -15,6 +15,6 @@ Formats: [HTML](/news/2014/04/9/the-death-toll-reaches-36-as-rescuers-struggle-t
 
 ### Changes:
 
-1. [Oso, Washington mudslide:The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-pthe-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md) _2017-08-25 03:40:16 (First version)_
-2. [Oso, Washington mudslide:: The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-the-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md) _2017-08-27 03:40:34 (Update)_
+1. [Oso, Washington mudslide:: The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-the-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md) _2018-02-06 13:49:26 (First version)_
+2. [Oso, Washington mudslide:The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-pthe-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/the-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md) _(Current version)_

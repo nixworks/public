@@ -19,7 +19,7 @@ SHIKARPUR - At least 13 people, including five cops, were injured after one of t
 
 ### Changes:
 
-1. [Terrorist incidents in Pakistan in 2016: Two attackers of Eid al-Adha prayers in an Imambargah at Shikapur district, Sindh, injure at least ten people including five policemen. One assailant blew himself up and authorities arrested the other one. ](/news/2016/09/13/terrorist-incidents-in-pakistan-in-2016-two-attackers-of-eid-al-adha-prayers-in-an-imambargah-at-shikapur-district-sindh-injure-at-least.md) _2017-08-27 03:46:51 (First version)_
+1. [Terrorist incidents in Pakistan in 2016: Two attackers of Eid al-Adha prayers in an Imambargah at Shikapur district, Sindh, injure at least ten people including five policemen. One assailant blew himself up and authorities arrested the other one. ](/news/2016/09/13/terrorist-incidents-in-pakistan-in-2016-two-attackers-of-eid-al-adha-prayers-in-an-imambargah-at-shikapur-district-sindh-injure-at-least.md) _2018-02-06 13:49:29 (First version)_
 1. [Two attackers of Eid al-Adha prayers in an Imambargah at Shikapur district, Sindh, injure at least ten people including five policemen. One assailant blew himself up and authorities arrested the other one. ](/news/2016/09/13/two-attackers-of-eid-al-adha-prayers-in-an-imambargah-at-shikapur-district-sindh-injure-at-least-ten-people-including-five-policemen-one.md) _(Current version)_
 
 ### Related:

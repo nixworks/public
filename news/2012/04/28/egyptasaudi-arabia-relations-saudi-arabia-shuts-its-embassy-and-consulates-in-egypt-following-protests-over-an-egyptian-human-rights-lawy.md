@@ -16,7 +16,7 @@ The Saudi embassy and consulates in Egypt are closed following protests over an 
 
 ### Changes:
 
-1. [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egypt-saudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md) _2017-08-27 03:35:45 (First version)_
+1. [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egypt-saudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md) _2018-02-06 13:49:23 (First version)_
 1. [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egyptasaudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md) _(Current version)_
 
 ### Related:

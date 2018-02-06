@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/06/13/in-house-v-bell-the-u-s-supreme-court-ruled-tha
 
 ### Changes:
 
-1. [ In ''House v. Bell'', the U.S. Supreme Court ruled that new DNA forensic evidence is permissible during post-conviction appeals for death row inmates. ](/news/2006/06/13/in-house-v-bell-the-u-s-supreme-court-ruled-that-new-dna-forensic-evidence-is-permissible-during-post-conviction-appeals-for-death-r.md) _2017-08-25 03:17:46 (First version)_
+1. [ In ''House v. Bell'', the U.S. Supreme Court ruled that new DNA forensic evidence is permissible during post-conviction appeals for death row inmates. ](/news/2006/06/13/in-house-v-bell-the-u-s-supreme-court-ruled-that-new-dna-forensic-evidence-is-permissible-during-post-conviction-appeals-for-death-r.md) _2018-02-06 13:49:17 (First version)_
 1. [ In "House v. Bell", the U.S. Supreme Court ruled that new DNA forensic evidence is permissible during post-conviction appeals for death row inmates. ](/news/2006/06/13/in-house-v-bell-the-u-s-supreme-court-ruled-that-new-dna-forensic-evidence-is-permissible-during-post-conviction-appeals-for-death-row.md) _(Current version)_
 
 ### Related:

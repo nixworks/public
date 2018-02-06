@@ -16,8 +16,8 @@ Large blast near Kabul compound where Afghan security pact with US is to be deba
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001apresent-psuicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md) _2017-08-25 03:39:32 (First version)_
-2. [War in Afghanistan (2001-present):: Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001-present-suicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md) _2017-08-27 03:39:50 (Update)_
+1. [War in Afghanistan (2001-present):Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001apresent-psuicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001-present-suicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md) _2018-02-06 13:49:25 (Update)_
 2. [Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/suicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md) _(Current version)_
 
 ### Related:

@@ -18,9 +18,9 @@ The cause of the accident is not yet clear but a collapse of the rail track is u
 
 ### Changes:
 
-1. [ At least 4 people are killed and over 100 injured in a train derailment near Milan, Spain.](/news/2018/01/25/at-least-4-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-spain.md) _2018-01-25 11:30:07 (First version)_
-2. [ At least 3 people are killed and over 100 injured in a train derailment near Milan, Italy. ([https:--www.bbc.co.uk-news-world-europe-42816003 BBC]) ([https:--www.theguardian.com-world-2018-jan-25-milan-train-crash-derailment-italy-commuter The Guardian]) ([https:--www.reuters.com-article-us-italy-accident-train-at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR Reuters])](/news/2018/01/25/at-least-3-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy-https-www-bbc-co-uk-news-world-europe-428160.md) _2018-01-25 14:30:08 (Update)_
-3. [At least 3 people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-3-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _2018-01-25 19:30:07 (Update)_
+1. [ At least 4 people are killed and over 100 injured in a train derailment near Milan, Spain.](/news/2018/01/25/at-least-4-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-spain.md) _2018-02-06 13:49:31 (First version)_
+2. [At least 3 people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-3-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _2018-02-06 13:49:31 (Update)_
+3. [ At least 3 people are killed and over 100 injured in a train derailment near Milan, Italy. ([https:--www.bbc.co.uk-news-world-europe-42816003 BBC]) ([https:--www.theguardian.com-world-2018-jan-25-milan-train-crash-derailment-italy-commuter The Guardian]) ([https:--www.reuters.com-article-us-italy-accident-train-at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR Reuters])](/news/2018/01/25/at-least-3-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy-https-www-bbc-co-uk-news-world-europe-428160.md) _2018-02-06 13:49:31 (Update)_
 3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _(Current version)_
 
 ### Related:

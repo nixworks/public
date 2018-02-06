@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/02/27/a-wave-of-bombings-in-the-iraqi-capital-baghdad
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md) _2017-08-27 03:40:23 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md) _2018-02-06 13:49:25 (First version)_
 1. [A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md) _(Current version)_
 
 ### Related:

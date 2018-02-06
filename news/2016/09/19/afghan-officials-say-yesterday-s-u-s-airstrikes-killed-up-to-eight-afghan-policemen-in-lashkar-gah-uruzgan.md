@@ -16,7 +16,7 @@ A U.S. air strike killed as many as eight Afghan policemen outside the embattled
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Afghan officials say yesterday's U.S. airstrikes killed up to eight Afghan policemen in Lashkar Gah, Uruzgan. ](/news/2016/09/19/war-in-afghanistan-2015-present-afghan-officials-say-yesterday-s-u-s-airstrikes-killed-up-to-eight-afghan-policemen-in-lashkar-gah-ur.md) _2017-08-27 03:46:53 (First version)_
+1. [War in Afghanistan (2015-present): Afghan officials say yesterday's U.S. airstrikes killed up to eight Afghan policemen in Lashkar Gah, Uruzgan. ](/news/2016/09/19/war-in-afghanistan-2015-present-afghan-officials-say-yesterday-s-u-s-airstrikes-killed-up-to-eight-afghan-policemen-in-lashkar-gah-ur.md) _2018-02-06 13:49:29 (First version)_
 1. [Afghan officials say yesterday's U.S. airstrikes killed up to eight Afghan policemen in Lashkar Gah, Uruzgan. ](/news/2016/09/19/afghan-officials-say-yesterday-s-u-s-airstrikes-killed-up-to-eight-afghan-policemen-in-lashkar-gah-uruzgan.md) _(Current version)_
 
 ### Related:

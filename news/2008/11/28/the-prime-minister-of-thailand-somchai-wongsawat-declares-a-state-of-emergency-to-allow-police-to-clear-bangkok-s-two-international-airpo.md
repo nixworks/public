@@ -19,8 +19,8 @@ Listen to highlights from our radio broadcasts, including news, current affairs,
 
 ### Changes:
 
-1. [ 2008 Thai political crisis: The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/2008-thai-political-crisis-p-the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bang.md) _2017-08-25 03:23:15 (First version)_
-2. [ 2008 Thai political crisis:: The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/2008-thai-political-crisis-the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bang.md) _2017-08-27 03:23:07 (Update)_
+1. [ 2008 Thai political crisis:: The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/2008-thai-political-crisis-the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bang.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Thai political crisis: The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/2008-thai-political-crisis-p-the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bang.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bangkok-s-two-international-airpo.md) _(Current version)_
 
 ### Related:

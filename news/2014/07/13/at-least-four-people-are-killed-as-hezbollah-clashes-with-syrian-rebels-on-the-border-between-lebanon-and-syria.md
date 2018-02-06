@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/13/at-least-four-people-are-killed-as-hezbollah-cl
 
 ### Changes:
 
-1. [Syrian Civil War:At least four people are killed as Hezbollah clashes with Syrian rebels on the border between Lebanon and Syria. ](/news/2014/07/13/syrian-civil-war-pat-least-four-people-are-killed-as-hezbollah-clashes-with-syrian-rebels-on-the-border-between-lebanon-and-syria.md) _2017-08-25 03:40:40 (First version)_
-2. [Syrian Civil War:: At least four people are killed as Hezbollah clashes with Syrian rebels on the border between Lebanon and Syria. ](/news/2014/07/13/syrian-civil-war-at-least-four-people-are-killed-as-hezbollah-clashes-with-syrian-rebels-on-the-border-between-lebanon-and-syria.md) _2017-08-27 03:40:58 (Update)_
+1. [Syrian Civil War:At least four people are killed as Hezbollah clashes with Syrian rebels on the border between Lebanon and Syria. ](/news/2014/07/13/syrian-civil-war-pat-least-four-people-are-killed-as-hezbollah-clashes-with-syrian-rebels-on-the-border-between-lebanon-and-syria.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: At least four people are killed as Hezbollah clashes with Syrian rebels on the border between Lebanon and Syria. ](/news/2014/07/13/syrian-civil-war-at-least-four-people-are-killed-as-hezbollah-clashes-with-syrian-rebels-on-the-border-between-lebanon-and-syria.md) _2018-02-06 13:49:26 (Update)_
 2. [At least four people are killed as Hezbollah clashes with Syrian rebels on the border between Lebanon and Syria. ](/news/2014/07/13/at-least-four-people-are-killed-as-hezbollah-clashes-with-syrian-rebels-on-the-border-between-lebanon-and-syria.md) _(Current version)_
 
 ### Related:

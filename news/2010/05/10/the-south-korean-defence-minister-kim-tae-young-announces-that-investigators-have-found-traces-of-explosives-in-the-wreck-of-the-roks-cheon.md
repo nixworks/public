@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young
 
 ### Changes:
 
-1. [The South Korean Defence Minister Kim Tae-Young announces that investigators have found traces of explosives in the wreck of the ROKS ''Cheonan'' that sank in March. ](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young-announces-that-investigators-have-found-traces-of-explosives-in-the-wreck-of-the-roks-cheo.md) _2017-08-25 03:27:53 (First version)_
+1. [The South Korean Defence Minister Kim Tae-Young announces that investigators have found traces of explosives in the wreck of the ROKS ''Cheonan'' that sank in March. ](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young-announces-that-investigators-have-found-traces-of-explosives-in-the-wreck-of-the-roks-cheo.md) _2018-02-06 13:49:20 (First version)_
 1. [The South Korean Defence Minister Kim Tae-Young announces that investigators have found traces of explosives in the wreck of the ROKS "Cheonan" that sank in March. ](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young-announces-that-investigators-have-found-traces-of-explosives-in-the-wreck-of-the-roks-cheon.md) _(Current version)_
 
 ### Related:

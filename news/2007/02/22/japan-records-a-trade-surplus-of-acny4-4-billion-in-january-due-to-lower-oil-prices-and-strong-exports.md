@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/22/japan-records-a-trade-surplus-of-acny4-4-billio
 
 ### Changes:
 
-1. [ Japan records a trade surplus of Y=4.4 billion in January due to lower oil prices and strong exports. ](/news/2007/02/22/japan-records-a-trade-surplus-of-ay-4-4-billion-in-january-due-to-lower-oil-prices-and-strong-exports.md) _2017-08-25 03:19:15 (First version)_
+1. [ Japan records a trade surplus of Y=4.4 billion in January due to lower oil prices and strong exports. ](/news/2007/02/22/japan-records-a-trade-surplus-of-ay-4-4-billion-in-january-due-to-lower-oil-prices-and-strong-exports.md) _2018-02-06 13:49:17 (First version)_
 1. [ Japan records a trade surplus of CNY4.4 billion in January due to lower oil prices and strong exports. ](/news/2007/02/22/japan-records-a-trade-surplus-of-acny4-4-billion-in-january-due-to-lower-oil-prices-and-strong-exports.md) _(Current version)_
 
 ### Related:

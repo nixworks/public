@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliament
 
 ### Changes:
 
-1. [ Lebanon prepares to bury anti-Syrian parliamentarian Walid Eido and nine others killed in yesterday's bombing, with a national day of mourning declared. ](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliamentarian-walid-eido-and-nine-others-killed-in-yesterday-s-bombing-with-a-national-day-of-mour.md) _2017-08-25 03:19:58 (First version)_
+1. [ Lebanon prepares to bury anti-Syrian parliamentarian Walid Eido and nine others killed in yesterday's bombing, with a national day of mourning declared. ](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliamentarian-walid-eido-and-nine-others-killed-in-yesterday-s-bombing-with-a-national-day-of-mour.md) _2018-02-06 13:49:17 (First version)_
 1. [ Lebanon prepares to bury anti-Syrian parliamentarian Walid Eido and nine others killed in yesterday's bombing, with a national day of mourning declared. ](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliamentarian-walid-eido-and-nine-others-killed-in-yesterday-s-bombing-with-a-national-day-of-mourn.md) _(Current version)_
 
 ### Related:

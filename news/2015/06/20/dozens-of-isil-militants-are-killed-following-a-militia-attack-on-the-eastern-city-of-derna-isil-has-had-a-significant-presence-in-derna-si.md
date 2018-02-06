@@ -16,7 +16,7 @@ Dozens of fighters from the Islamic State group were killed in Libya Saturday as
 
 ### Changes:
 
-1. [Second Libyan Civil War: Dozens of ISIL militants are killed following a militia attack on the eastern city of Derna. ISIL has had a significant presence in Derna since the end of 2014. ](/news/2015/06/20/second-libyan-civil-war-dozens-of-isil-militants-are-killed-following-a-militia-attack-on-the-eastern-city-of-derna-isil-has-had-a-signifi.md) _2017-08-27 03:42:34 (First version)_
+1. [Second Libyan Civil War: Dozens of ISIL militants are killed following a militia attack on the eastern city of Derna. ISIL has had a significant presence in Derna since the end of 2014. ](/news/2015/06/20/second-libyan-civil-war-dozens-of-isil-militants-are-killed-following-a-militia-attack-on-the-eastern-city-of-derna-isil-has-had-a-signifi.md) _2018-02-06 13:49:27 (First version)_
 1. [Dozens of ISIL militants are killed following a militia attack on the eastern city of Derna. ISIL has had a significant presence in Derna since the end of 2014. ](/news/2015/06/20/dozens-of-isil-militants-are-killed-following-a-militia-attack-on-the-eastern-city-of-derna-isil-has-had-a-significant-presence-in-derna-si.md) _(Current version)_
 
 ### Related:

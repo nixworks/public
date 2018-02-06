@@ -11,9 +11,9 @@ Formats: [HTML](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-i
 
 ### Changes:
 
-1. [Footage documenting CNN employees manufacturing a protest using unrepresentative Muslim actors surfaces on social media. ](/news/2017/06/3/footage-documenting-cnn-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-surfaces-on-social-media.md) _2017-06-09 03:51:30 (First version)_
-2. [CNN denies authenticity of footage documenting employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _2017-06-10 12:30:04 (Update)_
-3. [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _2017-08-25 03:47:58 (Update)_
+1. [Footage documenting CNN employees manufacturing a protest using unrepresentative Muslim actors surfaces on social media. ](/news/2017/06/3/footage-documenting-cnn-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-surfaces-on-social-media.md) _2018-02-06 13:49:30 (First version)_
+2. [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _2018-02-06 13:49:30 (Update)_
+3. [CNN denies authenticity of footage documenting employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _2018-02-06 13:49:30 (Update)_
 3. [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. [http:--www.washingtontimes.com-news-2017-jun-5-brian-stelter-cnn-deny-network-staged-london-anti-- (Washington Times) ]](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-http-www-washi.md) _(Current version)_
 
 ### Related:

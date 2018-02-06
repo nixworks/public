@@ -18,8 +18,8 @@ A worker died after collapsing at a facility in the crippled Fukushima Daiichi n
 
 ### Changes:
 
-1. [Japanese earthquake, tsunami and nuclear crisis:A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-pa-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md) _2017-08-25 03:33:07 (First version)_
-2. [Japanese earthquake, tsunami and nuclear crisis:: A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-a-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md) _2017-08-27 03:33:15 (Update)_
+1. [Japanese earthquake, tsunami and nuclear crisis:A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-pa-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md) _2018-02-06 13:49:22 (First version)_
+2. [Japanese earthquake, tsunami and nuclear crisis:: A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-a-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md) _2018-02-06 13:49:22 (Update)_
 2. [A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/a-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md) _(Current version)_
 
 ### Related:

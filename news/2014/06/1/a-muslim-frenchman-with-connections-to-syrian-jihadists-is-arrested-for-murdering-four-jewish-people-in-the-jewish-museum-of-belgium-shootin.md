@@ -16,5 +16,5 @@ Officials in Belgium and France say Mehdi Nemmouche displayed the weapons he all
 
 ### Changes:
 
-1. [A Muslim Frenchman with connections to Syrian jihadists is arrested for murdering four Jewish people in the Jewish Museum of Belgium shooting. ](/news/2014/06/1/a-muslim-frenchman-with-connections-to-syrian-jihadists-is-arrested-for-murdering-four-jewish-people-in-the-jewish-museum-of-belgium-shooti.md) _2017-08-25 03:40:29 (First version)_
+1. [A Muslim Frenchman with connections to Syrian jihadists is arrested for murdering four Jewish people in the Jewish Museum of Belgium shooting. ](/news/2014/06/1/a-muslim-frenchman-with-connections-to-syrian-jihadists-is-arrested-for-murdering-four-jewish-people-in-the-jewish-museum-of-belgium-shooti.md) _2018-02-06 13:49:26 (First version)_
 1. [A Muslim Frenchman with connections to Syrian jihadists is arrested for murdering four Jewish people in the Jewish Museum of Belgium shooting. ](/news/2014/06/1/a-muslim-frenchman-with-connections-to-syrian-jihadists-is-arrested-for-murdering-four-jewish-people-in-the-jewish-museum-of-belgium-shootin.md) _(Current version)_

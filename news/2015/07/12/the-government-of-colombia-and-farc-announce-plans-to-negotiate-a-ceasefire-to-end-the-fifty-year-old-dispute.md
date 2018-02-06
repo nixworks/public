@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/12/the-government-of-colombia-and-farc-announce-pl
 
 ### Changes:
 
-1. [Colombian conflict (1964-present): The Government of Colombia and FARC announce plans to negotiate a ceasefire to end the fifty year old dispute. ](/news/2015/07/12/colombian-conflict-1964-present-the-government-of-colombia-and-farc-announce-plans-to-negotiate-a-ceasefire-to-end-the-fifty-year-old-d.md) _2017-08-27 03:42:41 (First version)_
+1. [Colombian conflict (1964-present): The Government of Colombia and FARC announce plans to negotiate a ceasefire to end the fifty year old dispute. ](/news/2015/07/12/colombian-conflict-1964-present-the-government-of-colombia-and-farc-announce-plans-to-negotiate-a-ceasefire-to-end-the-fifty-year-old-d.md) _2018-02-06 13:49:27 (First version)_
 1. [The Government of Colombia and FARC announce plans to negotiate a ceasefire to end the fifty year old dispute. ](/news/2015/07/12/the-government-of-colombia-and-farc-announce-plans-to-negotiate-a-ceasefire-to-end-the-fifty-year-old-dispute.md) _(Current version)_
 
 ### Related:

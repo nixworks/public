@@ -19,8 +19,8 @@ Human rights group urges action after allegations of abuse at Baghdad prison.
 
 ### Changes:
 
-1. [Iraq:Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-ptwo-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-said.md) _2017-08-25 03:27:41 (First version)_
-2. [Iraq:: Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-two-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-sai.md) _2017-08-27 03:27:38 (Update)_
+1. [Iraq:: Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-two-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-sai.md) _2018-02-06 13:49:19 (First version)_
+2. [Iraq:Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-ptwo-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-said.md) _2018-02-06 13:49:19 (Update)_
 2. [Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/two-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-said-to-ha.md) _(Current version)_
 
 ### Related:

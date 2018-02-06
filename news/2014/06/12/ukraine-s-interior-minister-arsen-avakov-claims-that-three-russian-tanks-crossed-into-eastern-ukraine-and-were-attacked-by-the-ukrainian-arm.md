@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/12/ukraine-s-interior-minister-arsen-avakov-claims
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Ukraine's Interior Minister Arsen Avakov claims that three Russian tanks crossed into eastern Ukraine and were attacked by the Ukrainian Army. ](/news/2014/06/12/2014-pro-russian-conflict-in-ukraine-ukraine-s-interior-minister-arsen-avakov-claims-that-three-russian-tanks-crossed-into-eastern-ukraine.md) _2017-08-27 03:40:50 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Ukraine's Interior Minister Arsen Avakov claims that three Russian tanks crossed into eastern Ukraine and were attacked by the Ukrainian Army. ](/news/2014/06/12/2014-pro-russian-conflict-in-ukraine-ukraine-s-interior-minister-arsen-avakov-claims-that-three-russian-tanks-crossed-into-eastern-ukraine.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukraine's Interior Minister Arsen Avakov claims that three Russian tanks crossed into eastern Ukraine and were attacked by the Ukrainian Army. ](/news/2014/06/12/ukraine-s-interior-minister-arsen-avakov-claims-that-three-russian-tanks-crossed-into-eastern-ukraine-and-were-attacked-by-the-ukrainian-arm.md) _(Current version)_
 
 ### Related:

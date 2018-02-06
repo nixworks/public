@@ -16,7 +16,7 @@ SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super
 
 ### Changes:
 
-1. [ Anheuser-Busch InBev agrees to buy its main rival SABMiller for PS68 billion ($104 billion) in the biggest beer deal ever. ](/news/2015/10/13/anheuser-busch-inbev-agrees-to-buy-its-main-rival-sabmiller-for-aps68-billion-104-billion-in-the-biggest-beer-deal-ever.md) _2017-08-25 03:43:02 (First version)_
+1. [ Anheuser-Busch InBev agrees to buy its main rival SABMiller for PS68 billion ($104 billion) in the biggest beer deal ever. ](/news/2015/10/13/anheuser-busch-inbev-agrees-to-buy-its-main-rival-sabmiller-for-aps68-billion-104-billion-in-the-biggest-beer-deal-ever.md) _2018-02-06 13:49:27 (First version)_
 1. [ Anheuser-Busch InBev agrees to buy its main rival SABMiller for GBP68 billion ($104 billion) in the biggest beer deal ever. ](/news/2015/10/13/anheuser-busch-inbev-agrees-to-buy-its-main-rival-sabmiller-for-agbp68-billion-104-billion-in-the-biggest-beer-deal-ever.md) _(Current version)_
 
 ### Related:

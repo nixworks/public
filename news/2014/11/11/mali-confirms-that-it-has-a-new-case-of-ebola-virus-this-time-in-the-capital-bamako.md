@@ -16,7 +16,7 @@ Mali, which was just coming to the end of 21-day quarantines for 108 people link
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Mali confirms that it has a new case of Ebola virus, this time in the capital Bamako. ](/news/2014/11/11/ebola-virus-epidemic-in-west-africa-mali-confirms-that-it-has-a-new-case-of-ebola-virus-this-time-in-the-capital-bamako.md) _2017-08-27 03:41:29 (First version)_
+1. [Ebola virus epidemic in West Africa: Mali confirms that it has a new case of Ebola virus, this time in the capital Bamako. ](/news/2014/11/11/ebola-virus-epidemic-in-west-africa-mali-confirms-that-it-has-a-new-case-of-ebola-virus-this-time-in-the-capital-bamako.md) _2018-02-06 13:49:26 (First version)_
 1. [Mali confirms that it has a new case of Ebola virus, this time in the capital Bamako. ](/news/2014/11/11/mali-confirms-that-it-has-a-new-case-of-ebola-virus-this-time-in-the-capital-bamako.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-s
 
 ### Changes:
 
-1. [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-th.md) _2017-08-25 03:47:44 (First version)_
+1. [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-th.md) _2018-02-06 13:49:30 (First version)_
 1. [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-the.md) _(Current version)_
 
 ### Related:

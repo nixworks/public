@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolv
 
 ### Changes:
 
-1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. ](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005.md) _2017-08-25 03:16:34 (First version)_
+1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. ](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005.md) _2018-02-06 13:49:16 (First version)_
 1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. [http:--news.bbc.co.uk-1-hi-world-europe-4705425.stm BBC News]. - see German federal election, 2005](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.md) _(Current version)_
 
 ### Related:

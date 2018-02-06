@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/06/24/american-conservative-columnist-george-will-tel
 
 ### Changes:
 
-1. [United States presidential election, 2016: American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to "unaffiliated". ](/news/2016/06/24/united-states-presidential-election-2016-american-conservative-columnist-george-will-tells-the-federalist-society-that-he-is-no-longer-a-r.md) _2017-08-27 03:46:20 (First version)_
+1. [United States presidential election, 2016: American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to "unaffiliated". ](/news/2016/06/24/united-states-presidential-election-2016-american-conservative-columnist-george-will-tells-the-federalist-society-that-he-is-no-longer-a-r.md) _2018-02-06 13:49:29 (First version)_
 1. [American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to "unaffiliated". ](/news/2016/06/24/american-conservative-columnist-george-will-tells-the-federalist-society-that-he-is-no-longer-a-republican-because-of-donald-trump-and-has.md) _(Current version)_
 
 ### Related:

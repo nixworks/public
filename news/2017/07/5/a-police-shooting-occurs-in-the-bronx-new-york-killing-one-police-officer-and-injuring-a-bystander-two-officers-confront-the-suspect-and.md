@@ -16,5 +16,5 @@ Miosotis Familia, a 12-year veteran of the force, was shot in the head while sit
 
 ### Changes:
 
-1. [Crime in New York City: A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/crime-in-new-york-city-a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-c.md) _2017-08-27 03:48:36 (First version)_
+1. [Crime in New York City: A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/crime-in-new-york-city-a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-c.md) _2018-02-06 13:49:31 (First version)_
 1. [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md) _(Current version)_

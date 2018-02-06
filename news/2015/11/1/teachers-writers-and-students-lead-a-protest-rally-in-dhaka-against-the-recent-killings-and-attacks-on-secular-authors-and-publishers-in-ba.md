@@ -16,7 +16,7 @@ DHAKA (AFP) - Protesters rallied in the Bangladesh capital on Sunday (Nov 1) ove
 
 ### Changes:
 
-1. [Attacks on secularists in Bangladesh: Teachers, writers and students lead a protest rally in Dhaka against the recent killings and attacks on secular authors and publishers in Bangladesh. ](/news/2015/11/1/attacks-on-secularists-in-bangladesh-teachers-writers-and-students-lead-a-protest-rally-in-dhaka-against-the-recent-killings-and-attacks-o.md) _2017-08-27 03:43:38 (First version)_
+1. [Attacks on secularists in Bangladesh: Teachers, writers and students lead a protest rally in Dhaka against the recent killings and attacks on secular authors and publishers in Bangladesh. ](/news/2015/11/1/attacks-on-secularists-in-bangladesh-teachers-writers-and-students-lead-a-protest-rally-in-dhaka-against-the-recent-killings-and-attacks-o.md) _2018-02-06 13:49:28 (First version)_
 1. [Teachers, writers and students lead a protest rally in Dhaka against the recent killings and attacks on secular authors and publishers in Bangladesh. ](/news/2015/11/1/teachers-writers-and-students-lead-a-protest-rally-in-dhaka-against-the-recent-killings-and-attacks-on-secular-authors-and-publishers-in-ba.md) _(Current version)_
 
 ### Related:

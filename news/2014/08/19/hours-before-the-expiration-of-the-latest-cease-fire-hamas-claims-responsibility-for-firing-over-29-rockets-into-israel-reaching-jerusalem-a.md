@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/19/hours-before-the-expiration-of-the-latest-cease
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Hours before the expiration of the latest cease-fire Hamas claims responsibility for firing over 29 rockets into Israel reaching Jerusalem and Tel Aviv, Israel responds with airstrikes as the peace talks break down. ](/news/2014/08/19/2014-israel-gaza-conflict-hours-before-the-expiration-of-the-latest-cease-fire-hamas-claims-responsibility-for-firing-over-29-rockets-into.md) _2017-08-27 03:41:10 (First version)_
+1. [2014 Israel-Gaza conflict: Hours before the expiration of the latest cease-fire Hamas claims responsibility for firing over 29 rockets into Israel reaching Jerusalem and Tel Aviv, Israel responds with airstrikes as the peace talks break down. ](/news/2014/08/19/2014-israel-gaza-conflict-hours-before-the-expiration-of-the-latest-cease-fire-hamas-claims-responsibility-for-firing-over-29-rockets-into.md) _2018-02-06 13:49:26 (First version)_
 1. [Hours before the expiration of the latest cease-fire Hamas claims responsibility for firing over 29 rockets into Israel reaching Jerusalem and Tel Aviv, Israel responds with airstrikes as the peace talks break down. ](/news/2014/08/19/hours-before-the-expiration-of-the-latest-cease-fire-hamas-claims-responsibility-for-firing-over-29-rockets-into-israel-reaching-jerusalem-a.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Czech President Vaclav Klaus may be the European Union’s bad boy now, but gene
 
 ### Changes:
 
-1. [ Treaty of Lisbon: Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/treaty-of-lisbon-p-czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-countr.md) _2017-08-25 03:26:04 (First version)_
-2. [ Treaty of Lisbon:: Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/treaty-of-lisbon-czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-countr.md) _2017-08-27 03:25:56 (Update)_
+1. [ Treaty of Lisbon: Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/treaty-of-lisbon-p-czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-countr.md) _2018-02-06 13:49:19 (First version)_
+2. [ Treaty of Lisbon:: Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/treaty-of-lisbon-czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-countr.md) _2018-02-06 13:49:19 (Update)_
 2. [ Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-country-s-credit.md) _(Current version)_
 
 ### Related:

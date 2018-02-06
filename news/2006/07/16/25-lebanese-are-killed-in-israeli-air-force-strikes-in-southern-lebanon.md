@@ -28,8 +28,8 @@ Israeli warplanes continue to strike targets all across Lebanon, reportedly kill
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon crisis: 25 Lebanese are killed in Israeli Air Force strikes in southern Lebanon. ](/news/2006/07/16/2006-israel-lebanon-crisis-p-25-lebanese-are-killed-in-israeli-air-force-strikes-in-southern-lebanon.md) _2017-08-25 03:18:02 (First version)_
-2. [ 2006 Israel-Lebanon crisis:: 25 Lebanese are killed in Israeli Air Force strikes in southern Lebanon. ](/news/2006/07/16/2006-israel-lebanon-crisis-25-lebanese-are-killed-in-israeli-air-force-strikes-in-southern-lebanon.md) _2017-08-27 03:18:00 (Update)_
+1. [ 2006 Israel-Lebanon crisis: 25 Lebanese are killed in Israeli Air Force strikes in southern Lebanon. ](/news/2006/07/16/2006-israel-lebanon-crisis-p-25-lebanese-are-killed-in-israeli-air-force-strikes-in-southern-lebanon.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon crisis:: 25 Lebanese are killed in Israeli Air Force strikes in southern Lebanon. ](/news/2006/07/16/2006-israel-lebanon-crisis-25-lebanese-are-killed-in-israeli-air-force-strikes-in-southern-lebanon.md) _2018-02-06 13:49:17 (Update)_
 2. [ 25 Lebanese are killed in Israeli Air Force strikes in southern Lebanon. ](/news/2006/07/16/25-lebanese-are-killed-in-israeli-air-force-strikes-in-southern-lebanon.md) _(Current version)_
 
 ### Related:

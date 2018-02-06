@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/06/6/war-in-afghanistan-2001apresent-seven-georgian-s
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Seven Georgian servicemen are killed and nine wounded in an insurgent attack with a truck bomb on the ISAF base in Shir Ghazay, Afghanistan. ](/news/2013/06/6/war-in-afghanistan-2001-present-seven-georgian-servicemen-are-killed-and-nine-wounded-in-an-insurgent-attack-with-a-truck-bomb-on-the-i.md) _2017-08-27 03:39:00 (First version)_
+1. [War in Afghanistan (2001-present): Seven Georgian servicemen are killed and nine wounded in an insurgent attack with a truck bomb on the ISAF base in Shir Ghazay, Afghanistan. ](/news/2013/06/6/war-in-afghanistan-2001-present-seven-georgian-servicemen-are-killed-and-nine-wounded-in-an-insurgent-attack-with-a-truck-bomb-on-the-i.md) _2018-02-06 13:49:25 (First version)_
 1. [War in Afghanistan (2001-present): Seven Georgian servicemen are killed and nine wounded in an insurgent attack with a truck bomb on the ISAF base in Shir Ghazay, Afghanistan. ](/news/2013/06/6/war-in-afghanistan-2001apresent-seven-georgian-servicemen-are-killed-and-nine-wounded-in-an-insurgent-attack-with-a-truck-bomb-on-the-i.md) _(Current version)_
 
 ### Related:

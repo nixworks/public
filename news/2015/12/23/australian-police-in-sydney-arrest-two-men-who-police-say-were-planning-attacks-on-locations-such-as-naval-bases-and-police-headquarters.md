@@ -17,7 +17,7 @@ Two men are arrested in counter-terrorism raids in Sydney after police thwarted 
 
 ### Changes:
 
-1. [Terrorism in Australia: Australian police in Sydney arrest two men who, police say, were planning attacks on locations such as naval bases and police headquarters. New South Wales Deputy Police Commissioner Catherine Burn said Wednesday's activity brings the number of people arrested in connection with last year's Operation Appleby to 13. ](/news/2015/12/23/terrorism-in-australia-australian-police-in-sydney-arrest-two-men-who-police-say-were-planning-attacks-on-locations-such-as-naval-bases-a.md) _2017-08-27 03:44:29 (First version)_
+1. [Terrorism in Australia: Australian police in Sydney arrest two men who, police say, were planning attacks on locations such as naval bases and police headquarters. New South Wales Deputy Police Commissioner Catherine Burn said Wednesday's activity brings the number of people arrested in connection with last year's Operation Appleby to 13. ](/news/2015/12/23/terrorism-in-australia-australian-police-in-sydney-arrest-two-men-who-police-say-were-planning-attacks-on-locations-such-as-naval-bases-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Australian police in Sydney arrest two men who, police say, were planning attacks on locations such as naval bases and police headquarters. New South Wales Deputy Police Commissioner Catherine Burn said Wednesday's activity brings the number of people arrested in connection with last year's Operation Appleby to 13. ](/news/2015/12/23/australian-police-in-sydney-arrest-two-men-who-police-say-were-planning-attacks-on-locations-such-as-naval-bases-and-police-headquarters.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The former president of the Generalitat says that it is a meditated decision
 
 ### Changes:
 
-1. [Artur Mas announces that he leaves the presidency of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-leaves-the-presidency-of-the-pdecat-party.md) _2018-01-09 22:30:06 (First version)_
+1. [Artur Mas announces that he leaves the presidency of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-leaves-the-presidency-of-the-pdecat-party.md) _2018-02-06 13:49:31 (First version)_
 1. [Artur Mas announces that he is resigning as president of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-is-resigning-as-president-of-the-pdecat-party.md) _(Current version)_
 
 ### Related:

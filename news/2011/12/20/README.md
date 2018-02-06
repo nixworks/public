@@ -9,11 +9,11 @@ _Context: Syria_
 
 ##### China
 ### [Chinese police beat protesters and fire tear gas after demonstrators storm government buildings in Haimen (70km NNW from Shanghai), in protest against a local 'polluting' coal-powered electricity generation plant. ](/news/2011/12/20/chinese-police-beat-protesters-and-fire-tear-gas-after-demonstrators-storm-government-buildings-in-haimen-70km-nnw-from-shanghai-in-prote.md)
-_Context: Shanghai, tear gas, China, Haimen, coal-powered electricity generation plant_
+_Context: coal-powered electricity generation plant, Haimen, China, Shanghai, tear gas_
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the "Bhagavad Gita As It Is" holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
-_Context: Russia, SM Krishna, India, attempt to ban, Bhagavad Gita As It Is_
+_Context: Bhagavad Gita As It Is, attempt to ban, Russia, SM Krishna, India_
 
 ##### Tropical Storm Washi
 ### [The death toll from Tropical Storm Washi in the Philippines rises to nearly 1,000. ](/news/2011/12/20/the-death-toll-from-tropical-storm-washi-in-the-philippines-rises-to-nearly-1-000.md)
@@ -37,7 +37,7 @@ Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolenc
 
 ##### rebellion by villagers in Wukan
 ### [Villagers rebelling in village of Wukan in southern China, say they will hold talks with the government and demand concessions in return for calling off a march. ](/news/2011/12/20/villagers-rebelling-in-village-of-wukan-in-southern-china-say-they-will-hold-talks-with-the-government-and-demand-concessions-in-return-for.md)
-_Context: China, rebellion by villagers in Wukan_
+_Context: rebellion by villagers in Wukan, China_
 
 ##### Kabila government
 ### [Joseph Kabila is sworn in as President of the Democratic Republic of the Congo, despite the presidency being contested by opposition leader Etienne Tshisekedi. ](/news/2011/12/20/joseph-kabila-is-sworn-in-as-president-of-the-democratic-republic-of-the-congo-despite-the-presidency-being-contested-by-opposition-leader.md)

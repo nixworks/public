@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/14/iraqi-forces-expel-isis-from-the-refinery-town-
 
 ### Changes:
 
-1. [Islamic State of Iraq and Syria: Iraqi forces expel ISIS from the refinery town of Baiji in northern Iraq. ](/news/2014/11/14/islamic-state-of-iraq-and-syria-iraqi-forces-expel-isis-from-the-refinery-town-of-baiji-in-northern-iraq.md) _2017-08-27 03:41:30 (First version)_
+1. [Islamic State of Iraq and Syria: Iraqi forces expel ISIS from the refinery town of Baiji in northern Iraq. ](/news/2014/11/14/islamic-state-of-iraq-and-syria-iraqi-forces-expel-isis-from-the-refinery-town-of-baiji-in-northern-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraqi forces expel ISIS from the refinery town of Baiji in northern Iraq. ](/news/2014/11/14/iraqi-forces-expel-isis-from-the-refinery-town-of-baiji-in-northern-iraq.md) _(Current version)_
 
 ### Related:

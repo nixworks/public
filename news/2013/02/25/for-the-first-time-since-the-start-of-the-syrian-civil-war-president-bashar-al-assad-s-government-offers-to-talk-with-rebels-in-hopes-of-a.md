@@ -17,8 +17,8 @@ The Syrian opposition reverses its decision to boycott international talks in Ro
 
 ### Changes:
 
-1. [Syrian civil war:For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/syrian-civil-war-pfor-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-reb.md) _2017-08-25 03:37:37 (First version)_
-2. [Syrian civil war:: For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/syrian-civil-war-for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-re.md) _2017-08-27 03:37:49 (Update)_
+1. [Syrian civil war:For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/syrian-civil-war-pfor-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-reb.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/syrian-civil-war-for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-re.md) _2018-02-06 13:49:24 (Update)_
 2. [For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-rebels-in-hopes-of-a.md) _(Current version)_
 
 ### Related:

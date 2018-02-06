@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/10/16/australian-pop-singer-songwriter-and-actress-ky
 
 ### Changes:
 
-1. [ Australian pop singer, songwriter, and actress Kylie Minogue makes her Hindi cinema debut in ''Blue'', thought to be the most expensive Bollywood production ever. ](/news/2009/10/16/australian-pop-singer-songwriter-and-actress-kylie-minogue-makes-her-hindi-cinema-debut-in-blue-thought-to-be-the-most-expensive-bol.md) _2017-08-25 03:26:04 (First version)_
+1. [ Australian pop singer, songwriter, and actress Kylie Minogue makes her Hindi cinema debut in ''Blue'', thought to be the most expensive Bollywood production ever. ](/news/2009/10/16/australian-pop-singer-songwriter-and-actress-kylie-minogue-makes-her-hindi-cinema-debut-in-blue-thought-to-be-the-most-expensive-bol.md) _2018-02-06 13:49:19 (First version)_
 1. [ Australian pop singer, songwriter, and actress Kylie Minogue makes her Hindi cinema debut in "Blue", thought to be the most expensive Bollywood production ever. ](/news/2009/10/16/australian-pop-singer-songwriter-and-actress-kylie-minogue-makes-her-hindi-cinema-debut-in-blue-thought-to-be-the-most-expensive-bolly.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Nearly 150 people have died and thousands are marooned in Jammu and Kashmir, dev
 
 ### Changes:
 
-1. [2014 India-Pakistan floods: More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/2014-india-pakistan-floods-more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for.md) _2017-08-27 03:41:15 (First version)_
+1. [2014 India-Pakistan floods: More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/2014-india-pakistan-floods-more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for.md) _2018-02-06 13:49:26 (First version)_
 1. [More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for-india-s-jammu-and-kashmir.md) _(Current version)_
 
 ### Related:

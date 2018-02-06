@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers
 
 ### Changes:
 
-1. [The ''Washington Post'' and ''The Guardian'' newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security.md) _2017-08-25 03:40:17 (First version)_
+1. [The ''Washington Post'' and ''The Guardian'' newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security.md) _2018-02-06 13:49:26 (First version)_
 1. [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md) _(Current version)_
 
 ### Related:

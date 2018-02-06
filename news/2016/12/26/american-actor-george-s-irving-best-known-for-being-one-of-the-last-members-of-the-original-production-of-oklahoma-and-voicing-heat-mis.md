@@ -16,5 +16,5 @@ Irving appeared in the original Broadway production of &#039;Oklahoma&#039; and 
 
 ### Changes:
 
-1. [American Actor George S. Irving, best known for being one of the last members of the original production of ''Oklahoma!'' and voicing Heat Miser from ''The Year Without a Santa Claus'', dies at age 94. ](/news/2016/12/26/american-actor-george-s-irving-best-known-for-being-one-of-the-last-members-of-the-original-production-of-oklahoma-and-voicing-heat-m.md) _2017-08-25 03:47:07 (First version)_
+1. [American Actor George S. Irving, best known for being one of the last members of the original production of ''Oklahoma!'' and voicing Heat Miser from ''The Year Without a Santa Claus'', dies at age 94. ](/news/2016/12/26/american-actor-george-s-irving-best-known-for-being-one-of-the-last-members-of-the-original-production-of-oklahoma-and-voicing-heat-m.md) _2018-02-06 13:49:30 (First version)_
 1. [American Actor George S. Irving, best known for being one of the last members of the original production of "Oklahoma!" and voicing Heat Miser from "The Year Without a Santa Claus", dies at age 94. ](/news/2016/12/26/american-actor-george-s-irving-best-known-for-being-one-of-the-last-members-of-the-original-production-of-oklahoma-and-voicing-heat-mis.md) _(Current version)_

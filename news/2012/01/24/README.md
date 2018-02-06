@@ -9,11 +9,11 @@ Syrian security forces killed 52 people across the country on Tuesday as troops 
 
 ##### 2011 Egyptian revolution
 ### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
-_Context: Egypt, Field Marshal, 2011 Egyptian revolution, governing body, state of emergency, Mohamed Hussein Tantawi_
+_Context: Field Marshal, 2011 Egyptian revolution, governing body, state of emergency, Egypt, Mohamed Hussein Tantawi_
 
 ##### Libya
 ### [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md)
-_Context: revolts, National Transitional Council, Muammar Gaddafi, Bani Walid, Libya_
+_Context: Muammar Gaddafi, National Transitional Council, Bani Walid, revolts, Libya_
 
 ##### 2012 Academy Awards
 ### [Nominations for the 2012 Academy Awards are announced ](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.md)
@@ -33,11 +33,11 @@ _Context: Mozambique_
 
 ##### Spain
 ### [Spanish judge Baltasar Garzon, who indicted the Chilean dictator Augusto Pinochet in 1998, is put on trial for supposedly overstepping his powers after he tried to investigate the disappearance of 114,000 people between 1936 and 1975 during the reign of Francisco Franco. ](/news/2012/01/24/spanish-judge-baltasar-garza3n-who-indicted-the-chilean-dictator-augusto-pinochet-in-1998-is-put-on-trial-for-supposedly-overstepping-his.md)
-_Context: Augusto Pinochet, Franco, Spain, Baltasar Garzon_
+_Context: Spain, Augusto Pinochet, Baltasar Garzon, Franco_
 
 ##### U.S. President
 ### [United States President Barack Obama presents his 2012 State of the Union Address to the United States Congress. ](/news/2012/01/24/united-states-president-barack-obama-presents-his-2012-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: Barack Obama, lawmakers, U.S. President, 2012 State of the Union Address_
+_Context: Barack Obama, lawmakers, 2012 State of the Union Address, U.S. President_
 
 ## [Previous Day...](/news/2012/01/23/index.md)
 

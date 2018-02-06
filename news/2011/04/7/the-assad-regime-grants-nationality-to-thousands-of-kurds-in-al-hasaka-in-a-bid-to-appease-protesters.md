@@ -16,8 +16,8 @@ Syrian president issues decree granting nationality to thousands of Kurds in eas
 
 ### Changes:
 
-1. [Syria:The Assad regime grants nationality to thousands of Kurds in al-Hasaka in a bid to appease protesters. ](/news/2011/04/7/syria-pthe-assad-regime-grants-nationality-to-thousands-of-kurds-in-al-hasaka-in-a-bid-to-appease-protesters.md) _2017-08-25 03:32:45 (First version)_
-2. [Syria:: The Assad regime grants nationality to thousands of Kurds in al-Hasaka in a bid to appease protesters. ](/news/2011/04/7/syria-the-assad-regime-grants-nationality-to-thousands-of-kurds-in-al-hasaka-in-a-bid-to-appease-protesters.md) _2017-08-27 03:32:54 (Update)_
+1. [Syria:: The Assad regime grants nationality to thousands of Kurds in al-Hasaka in a bid to appease protesters. ](/news/2011/04/7/syria-the-assad-regime-grants-nationality-to-thousands-of-kurds-in-al-hasaka-in-a-bid-to-appease-protesters.md) _2018-02-06 13:49:22 (First version)_
+2. [Syria:The Assad regime grants nationality to thousands of Kurds in al-Hasaka in a bid to appease protesters. ](/news/2011/04/7/syria-pthe-assad-regime-grants-nationality-to-thousands-of-kurds-in-al-hasaka-in-a-bid-to-appease-protesters.md) _2018-02-06 13:49:22 (Update)_
 2. [The Assad regime grants nationality to thousands of Kurds in al-Hasaka in a bid to appease protesters. ](/news/2011/04/7/the-assad-regime-grants-nationality-to-thousands-of-kurds-in-al-hasaka-in-a-bid-to-appease-protesters.md) _(Current version)_
 
 ### Related:

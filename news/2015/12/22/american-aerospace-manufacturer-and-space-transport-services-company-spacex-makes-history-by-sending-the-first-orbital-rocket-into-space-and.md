@@ -16,7 +16,7 @@ SpaceX will attempt a launch on Monday night, the first since its Falcon 9 rocke
 
 ### Changes:
 
-1. [Falcon 9 Flight 20: American aerospace manufacturer and space transport services company SpaceX makes history by sending the first orbital rocket into space and landing the first stage back on the ground at Cape Canaveral Air Force Station. ](/news/2015/12/22/falcon-9-flight-20-american-aerospace-manufacturer-and-space-transport-services-company-spacex-makes-history-by-sending-the-first-orbital-r.md) _2017-08-27 03:44:28 (First version)_
+1. [Falcon 9 Flight 20: American aerospace manufacturer and space transport services company SpaceX makes history by sending the first orbital rocket into space and landing the first stage back on the ground at Cape Canaveral Air Force Station. ](/news/2015/12/22/falcon-9-flight-20-american-aerospace-manufacturer-and-space-transport-services-company-spacex-makes-history-by-sending-the-first-orbital-r.md) _2018-02-06 13:49:28 (First version)_
 1. [American aerospace manufacturer and space transport services company SpaceX makes history by sending the first orbital rocket into space and landing the first stage back on the ground at Cape Canaveral Air Force Station. ](/news/2015/12/22/american-aerospace-manufacturer-and-space-transport-services-company-spacex-makes-history-by-sending-the-first-orbital-rocket-into-space-and.md) _(Current version)_
 
 ### Related:

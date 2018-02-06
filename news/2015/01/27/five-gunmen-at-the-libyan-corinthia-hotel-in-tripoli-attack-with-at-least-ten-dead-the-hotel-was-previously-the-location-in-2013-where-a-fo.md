@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/27/five-gunmen-at-the-libyan-corinthia-hotel-in-tr
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Five gunmen at the Libyan Corinthia Hotel in Tripoli attack with at least ten dead. The hotel was previously the location in 2013 where a former prime minister was abducted. ](/news/2015/01/27/libyan-civil-war-2014-present-five-gunmen-at-the-libyan-corinthia-hotel-in-tripoli-attack-with-at-least-ten-dead-the-hotel-was-previou.md) _2017-08-27 03:41:51 (First version)_
+1. [Libyan Civil War (2014-present): Five gunmen at the Libyan Corinthia Hotel in Tripoli attack with at least ten dead. The hotel was previously the location in 2013 where a former prime minister was abducted. ](/news/2015/01/27/libyan-civil-war-2014-present-five-gunmen-at-the-libyan-corinthia-hotel-in-tripoli-attack-with-at-least-ten-dead-the-hotel-was-previou.md) _2018-02-06 13:49:26 (First version)_
 1. [Five gunmen at the Libyan Corinthia Hotel in Tripoli attack with at least ten dead. The hotel was previously the location in 2013 where a former prime minister was abducted. ](/news/2015/01/27/five-gunmen-at-the-libyan-corinthia-hotel-in-tripoli-attack-with-at-least-ten-dead-the-hotel-was-previously-the-location-in-2013-where-a-fo.md) _(Current version)_
 
 ### Related:

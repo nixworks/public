@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-
 
 ### Changes:
 
-1. [Typhoon Haiyan:The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/typhoon-haiyan-pthe-world-bank-offers-a-us-500-million-loan-to-the-philippines.md) _2017-08-25 03:39:33 (First version)_
-2. [Typhoon Haiyan:: The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/typhoon-haiyan-the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md) _2017-08-27 03:39:51 (Update)_
+1. [Typhoon Haiyan:: The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/typhoon-haiyan-the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/typhoon-haiyan-pthe-world-bank-offers-a-us-500-million-loan-to-the-philippines.md) _2018-02-06 13:49:25 (Update)_
 2. [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md) _(Current version)_
 
 ### Related:

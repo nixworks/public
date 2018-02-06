@@ -16,8 +16,8 @@ Western and Arab countries opposed to President Bashar al-Assad agreed at talks 
 
 ### Changes:
 
-1. [Syrian Civil War:The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/syrian-civil-war-pthe-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md) _2017-08-25 03:38:53 (First version)_
-2. [Syrian Civil War:: The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/syrian-civil-war-the-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md) _2017-08-27 03:39:08 (Update)_
+1. [Syrian Civil War:: The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/syrian-civil-war-the-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/syrian-civil-war-pthe-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md) _2018-02-06 13:49:25 (Update)_
 2. [The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/the-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md) _(Current version)_
 
 ### Related:

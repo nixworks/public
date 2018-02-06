@@ -16,7 +16,7 @@ At least 13 die and dozens are wounded in one of the deadliest attacks in Baghda
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/iraqi-insurgency-2011-present-two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md) _2017-08-27 03:42:16 (First version)_
+1. [Iraqi insurgency (2011-present): Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/iraqi-insurgency-2011-present-two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md) _2018-02-06 13:49:27 (First version)_
 1. [Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md) _(Current version)_
 
 ### Related:

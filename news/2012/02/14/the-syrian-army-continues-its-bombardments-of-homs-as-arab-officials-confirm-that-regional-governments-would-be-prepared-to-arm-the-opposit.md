@@ -18,8 +18,8 @@ Government forces and opponents of President Bashar al-Assad clashed in cities a
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/2011a2012-syrian-uprising-pthe-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would-b.md) _2017-08-25 03:35:03 (First version)_
-2. [2011-2012 Syrian uprising:: The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/2011-2012-syrian-uprising-the-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would.md) _2017-08-27 03:35:12 (Update)_
+1. [2011-2012 Syrian uprising:The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/2011a2012-syrian-uprising-pthe-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would-b.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/2011-2012-syrian-uprising-the-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/the-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would-be-prepared-to-arm-the-opposit.md) _(Current version)_
 
 ### Related:

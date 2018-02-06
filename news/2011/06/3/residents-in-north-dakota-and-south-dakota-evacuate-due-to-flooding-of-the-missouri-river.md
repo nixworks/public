@@ -18,8 +18,8 @@ Residents evacuated some affluent areas of North Dakota and South Dakota on Frid
 
 ### Changes:
 
-1. [2011 Missouri River floodsResidents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floodspresidents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md) _2017-08-25 03:33:21 (First version)_
-2. [2011 Missouri River floods: Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floods-residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md) _2017-08-27 03:33:30 (Update)_
+1. [2011 Missouri River floodsResidents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floodspresidents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Missouri River floods: Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floods-residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md) _2018-02-06 13:49:22 (Update)_
 2. [Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md) _(Current version)_
 
 ### Related:

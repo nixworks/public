@@ -18,7 +18,7 @@ At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to
 
 ### Changes:
 
-1. [2015 Lahore factory disaster: A building collapses in the Pakistani city of Lahore resulting in at least 18 deaths, at least 75 injured and around 150 people still trapped. ](/news/2015/11/4/2015-lahore-factory-disaster-a-building-collapses-in-the-pakistani-city-of-lahore-resulting-in-at-least-18-deaths-at-least-75-injured-and.md) _2017-08-27 03:43:41 (First version)_
+1. [2015 Lahore factory disaster: A building collapses in the Pakistani city of Lahore resulting in at least 18 deaths, at least 75 injured and around 150 people still trapped. ](/news/2015/11/4/2015-lahore-factory-disaster-a-building-collapses-in-the-pakistani-city-of-lahore-resulting-in-at-least-18-deaths-at-least-75-injured-and.md) _2018-02-06 13:49:28 (First version)_
 1. [A building collapses in the Pakistani city of Lahore resulting in at least 18 deaths, at least 75 injured and around 150 people still trapped. ](/news/2015/11/4/a-building-collapses-in-the-pakistani-city-of-lahore-resulting-in-at-least-18-deaths-at-least-75-injured-and-around-150-people-still-trappe.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Mr. Hammond, who will be only the second regular announcer of the show, is stepp
 
 ### Changes:
 
-1. [''Saturday Night Live'' alumnus Darrell Hammond is chosen to be the new announcer of the long running U.S. variety show following the death of Don Pardo in August. ](/news/2014/09/19/saturday-night-live-alumnus-darrell-hammond-is-chosen-to-be-the-new-announcer-of-the-long-running-u-s-variety-show-following-the-death.md) _2017-08-25 03:41:00 (First version)_
+1. [''Saturday Night Live'' alumnus Darrell Hammond is chosen to be the new announcer of the long running U.S. variety show following the death of Don Pardo in August. ](/news/2014/09/19/saturday-night-live-alumnus-darrell-hammond-is-chosen-to-be-the-new-announcer-of-the-long-running-u-s-variety-show-following-the-death.md) _2018-02-06 13:49:26 (First version)_
 1. ["Saturday Night Live" alumnus Darrell Hammond is chosen to be the new announcer of the long running U.S. variety show following the death of Don Pardo in August. ](/news/2014/09/19/saturday-night-live-alumnus-darrell-hammond-is-chosen-to-be-the-new-announcer-of-the-long-running-u-s-variety-show-following-the-death-of.md) _(Current version)_
 
 ### Related:

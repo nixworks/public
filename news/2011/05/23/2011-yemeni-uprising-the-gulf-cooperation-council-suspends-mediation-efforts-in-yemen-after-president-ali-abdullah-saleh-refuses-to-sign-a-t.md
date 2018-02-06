@@ -23,8 +23,8 @@ At least six people killed as forces loyal to president battle his opponents a d
 
 ### Changes:
 
-1. [Arab Spring:2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/arab-spring-p2011-yemeni-uprising-pthe-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refus.md) _2017-08-25 03:33:13 (First version)_
-2. [Arab Spring:: 2011 Yemeni uprising:: The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/arab-spring-2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-ref.md) _2017-08-27 03:33:23 (Update)_
+1. [Arab Spring:2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/arab-spring-p2011-yemeni-uprising-pthe-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refus.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Yemeni uprising:: The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/arab-spring-2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-ref.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refuses-to-sign-a-t.md) _(Current version)_
 
 ### Related:

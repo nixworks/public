@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/04/9/among-the-cables-available-now-on-wikileaks-are-
 
 ### Changes:
 
-1. [Kissinger cables:Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-pamong-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk-p.md) _2017-08-25 03:38:15 (First version)_
-2. [Kissinger cables:: Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk.md) _2017-08-27 03:38:27 (Update)_
+1. [Kissinger cables:Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-pamong-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk-p.md) _2018-02-06 13:49:24 (First version)_
+2. [Kissinger cables:: Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk.md) _2018-02-06 13:49:24 (Update)_
 2. [Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk-prime-minister-marg.md) _(Current version)_
 
 ### Related:

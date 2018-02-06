@@ -16,7 +16,7 @@ The Austrian parliament passes a controversial new law restricting asylum rights
 
 ### Changes:
 
-1. [European migrant crisis: The government of Austria passes a new law that restricts the right of asylum in the country and allows claimants to be rejected directly at the border, a move criticized by rights groups. Officials say they are also considering building a fence at the main border crossing with Italy at the Brenner Pass. ](/news/2016/04/27/european-migrant-crisis-the-government-of-austria-passes-a-new-law-that-restricts-the-right-of-asylum-in-the-country-and-allows-claimants-t.md) _2017-08-27 03:45:52 (First version)_
+1. [European migrant crisis: The government of Austria passes a new law that restricts the right of asylum in the country and allows claimants to be rejected directly at the border, a move criticized by rights groups. Officials say they are also considering building a fence at the main border crossing with Italy at the Brenner Pass. ](/news/2016/04/27/european-migrant-crisis-the-government-of-austria-passes-a-new-law-that-restricts-the-right-of-asylum-in-the-country-and-allows-claimants-t.md) _2018-02-06 13:49:28 (First version)_
 1. [The government of Austria passes a new law that restricts the right of asylum in the country and allows claimants to be rejected directly at the border, a move criticized by rights groups. Officials say they are also considering building a fence at the main border crossing with Italy at the Brenner Pass. ](/news/2016/04/27/the-government-of-austria-passes-a-new-law-that-restricts-the-right-of-asylum-in-the-country-and-allows-claimants-to-be-rejected-directly-at.md) _(Current version)_
 
 ### Related:

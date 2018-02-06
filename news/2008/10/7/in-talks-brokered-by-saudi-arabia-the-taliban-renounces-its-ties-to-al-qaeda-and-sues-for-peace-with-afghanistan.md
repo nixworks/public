@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/10/7/in-talks-brokered-by-saudi-arabia-the-taliban-re
 
 ### Changes:
 
-1. [ War on Terrorism in Afghanistan: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-p-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md) _2017-08-25 03:23:00 (First version)_
-2. [ War on Terrorism in Afghanistan:: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md) _2017-08-27 03:22:53 (Update)_
+1. [ War on Terrorism in Afghanistan: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-p-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md) _2018-02-06 13:49:18 (First version)_
+2. [ War on Terrorism in Afghanistan:: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md) _2018-02-06 13:49:18 (Update)_
 2. [ In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afghanistan.md) _(Current version)_
 
 ### Related:

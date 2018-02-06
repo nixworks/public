@@ -18,7 +18,7 @@ At least eight people have been reported dead after a powerful typhoon lashed pa
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/2016-pacific-typhoon-season-typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md) _2017-08-27 03:46:52 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/2016-pacific-typhoon-season-typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Police were investigating today after an officer accidentally discharged a 50,00
 
 ### Changes:
 
-1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillain-barra-c-syndrome-sufferer-in-somerset-england-prompting.md) _2017-08-27 03:28:56 (First version)_
+1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillain-barra-c-syndrome-sufferer-in-somerset-england-prompting.md) _2018-02-06 13:49:20 (First version)_
 1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.md) _(Current version)_
 
 ### Related:

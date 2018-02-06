@@ -16,7 +16,7 @@ Francisco Guterres, who is favoured by key powerbroker Xanana Gusmao, told Fairf
 
 ### Changes:
 
-1. [East Timorese presidential election, 2017: Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana GusmGBPo. ](/news/2017/03/20/east-timorese-presidential-election-2017-elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runn.md) _2017-08-27 03:48:00 (First version)_
+1. [East Timorese presidential election, 2017: Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana GusmGBPo. ](/news/2017/03/20/east-timorese-presidential-election-2017-elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runn.md) _2018-02-06 13:49:30 (First version)_
 1. [Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana GusmGBPo. ](/news/2017/03/20/elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runner-up-in-the-2007-and-2012-elections-is-ex.md) _(Current version)_
 
 ### Related:

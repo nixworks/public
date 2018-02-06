@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarr
 
 ### Changes:
 
-1. [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for 13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-ps13-7-million-at-chr.md) _2017-08-25 03:35:00 (First version)_
+1. [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for 13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-ps13-7-million-at-chr.md) _2018-02-06 13:49:23 (First version)_
 1. [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for GBP13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-gbp13-7-million-at-c.md) _(Current version)_
 
 ### Related:

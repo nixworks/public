@@ -19,7 +19,7 @@ Sri Lankan troops carried out widespread shelling which killed most of the thous
 
 ### Changes:
 
-1. [The United Nations publishes the full ''Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka'' which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-cred.md) _2017-08-25 03:32:52 (First version)_
+1. [The United Nations publishes the full ''Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka'' which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-cred.md) _2018-02-06 13:49:22 (First version)_
 1. [The United Nations publishes the full "Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka" which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-credib.md) _(Current version)_
 
 ### Related:

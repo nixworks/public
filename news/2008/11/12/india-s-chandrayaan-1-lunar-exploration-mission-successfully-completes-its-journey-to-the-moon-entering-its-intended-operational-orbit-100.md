@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission
 
 ### Changes:
 
-1. [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit {{convert|100|km|mi|abbr=on}} above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-c.md) _2017-05-01 03:24:13 (First version)_
+1. [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit {{convert|100|km|mi|abbr=on}} above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-c.md) _2018-02-06 13:49:18 (First version)_
 1. [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit 100 km above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-100.md) _(Current version)_
 
 ### Related:

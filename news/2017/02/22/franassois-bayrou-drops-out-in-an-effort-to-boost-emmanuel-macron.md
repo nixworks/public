@@ -16,7 +16,7 @@ Self-described outsider and centrist take surprise step of joining forces as vet
 
 ### Changes:
 
-1. [French presidential election, 2017: Francois Bayrou drops out in an effort to boost Emmanuel Macron. ](/news/2017/02/22/french-presidential-election-2017-franassois-bayrou-drops-out-in-an-effort-to-boost-emmanuel-macron.md) _2017-08-27 03:47:52 (First version)_
+1. [French presidential election, 2017: Francois Bayrou drops out in an effort to boost Emmanuel Macron. ](/news/2017/02/22/french-presidential-election-2017-franassois-bayrou-drops-out-in-an-effort-to-boost-emmanuel-macron.md) _2018-02-06 13:49:30 (First version)_
 1. [Francois Bayrou drops out in an effort to boost Emmanuel Macron. ](/news/2017/02/22/franassois-bayrou-drops-out-in-an-effort-to-boost-emmanuel-macron.md) _(Current version)_
 
 ### Related:

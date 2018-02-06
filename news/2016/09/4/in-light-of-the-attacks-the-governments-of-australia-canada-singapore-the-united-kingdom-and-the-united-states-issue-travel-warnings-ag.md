@@ -16,7 +16,7 @@ At least 5 countries issue travel warnings after the Davao City explosion that k
 
 ### Changes:
 
-1. [2016 Davao City bombing: In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/2016-davao-city-bombing-in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states.md) _2017-08-27 03:46:46 (First version)_
+1. [2016 Davao City bombing: In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/2016-davao-city-bombing-in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states.md) _2018-02-06 13:49:29 (First version)_
 1. [In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states-issue-travel-warnings-ag.md) _(Current version)_
 
 ### Related:

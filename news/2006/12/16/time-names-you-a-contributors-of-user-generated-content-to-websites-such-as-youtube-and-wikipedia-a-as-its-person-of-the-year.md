@@ -17,7 +17,7 @@ You were named Time magazine &#8220;Person of the Year&#8221; on Saturday for th
 
 ### Changes:
 
-1. [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-as-its-person-of-the-year.md) _2017-08-27 03:18:51 (First version)_
+1. [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-as-its-person-of-the-year.md) _2018-02-06 13:49:17 (First version)_
 1. [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-a-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-a-as-its-person-of-the-year.md) _(Current version)_
 
 ### Related:

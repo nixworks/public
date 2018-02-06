@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/29/syrian-state-tv-reports-that-the-prime-minister
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-civil-war-psyrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damasc.md) _2017-08-25 03:38:30 (First version)_
-2. [Syrian Civil War:: Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-civil-war-syrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damas.md) _2017-08-27 03:38:43 (Update)_
+1. [Syrian Civil War:: Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-civil-war-syrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damas.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian Civil War:Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-civil-war-psyrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damasc.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damascus-suburb-of-mazze.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-
 
 ### Changes:
 
-1. [A rare manuscript of an unfinished Jane Austen novel has sold for PS993,250 (US$1.6m) in London. The work, ''The Watsons'', was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-aps993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md) _2017-08-25 03:33:47 (First version)_
+1. [A rare manuscript of an unfinished Jane Austen novel has sold for PS993,250 (US$1.6m) in London. The work, ''The Watsons'', was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-aps993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md) _2018-02-06 13:49:22 (First version)_
 1. [A rare manuscript of an unfinished Jane Austen novel has sold for GBP993,250 (US$1.6m) in London. The work, "The Watsons", was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-agbp993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md) _(Current version)_
 
 ### Related:

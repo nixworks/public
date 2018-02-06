@@ -16,7 +16,7 @@ A giant sinkhole opened up next to a major shopping mall in downtown Ottawa on W
 
 ### Changes:
 
-1. [A road collapse at a major intersection near the Canadian Parliament in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because of the smell of gas. Power and water are now shut off. ](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the-canadian-parliament-in-ottawa-ontario-forces-evacuation-of-a-mall-a-hotel-the-shaw-c.md) _2017-08-25 03:45:50 (First version)_
+1. [A road collapse at a major intersection near the Canadian Parliament in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because of the smell of gas. Power and water are now shut off. ](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the-canadian-parliament-in-ottawa-ontario-forces-evacuation-of-a-mall-a-hotel-the-shaw-c.md) _2018-02-06 13:49:29 (First version)_
 1. [A road collapse at a major intersection near the Canadian Parliament in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because of the smell of gas. Power and water are now shut off. ](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the-canadian-parliament-in-ottawa-ontario-forces-evacuation-of-a-mall-a-hotel-the-shaw-conv.md) _(Current version)_
 
 ### Related:

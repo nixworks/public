@@ -15,7 +15,7 @@ The important northern city was seized by an Al Qaeda offshoot after Iraqi troop
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/iraqi-insurgency-post-u-s-withdrawal-militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-mil.md) _2017-08-27 03:40:50 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/iraqi-insurgency-post-u-s-withdrawal-militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-mil.md) _2018-02-06 13:49:26 (First version)_
 1. [Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-military-flee.md) _(Current version)_
 
 ### Related:

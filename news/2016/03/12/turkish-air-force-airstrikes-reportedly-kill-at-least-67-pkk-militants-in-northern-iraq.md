@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at
 
 ### Changes:
 
-1. [Turkey-PKK conflict (2015-present): Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkey-pkk-conflict-2015-present-turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _2017-08-27 03:45:13 (First version)_
+1. [Turkey-PKK conflict (2015-present): Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkey-pkk-conflict-2015-present-turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md) _(Current version)_
 
 ### Related:

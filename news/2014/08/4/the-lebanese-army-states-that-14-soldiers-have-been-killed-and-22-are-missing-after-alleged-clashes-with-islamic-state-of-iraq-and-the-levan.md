@@ -16,7 +16,7 @@ BEIRUT (Reuters) - The Lebanese army said on Monday 22 of its soldiers were miss
 
 ### Changes:
 
-1. [Syrian Civil War: The Lebanese Army states that 14 soldiers have been killed and 22 are missing after alleged clashes with Islamic State of Iraq and the Levant fighters on the Syrian border. ](/news/2014/08/4/syrian-civil-war-the-lebanese-army-states-that-14-soldiers-have-been-killed-and-22-are-missing-after-alleged-clashes-with-islamic-state-of.md) _2017-08-27 03:41:06 (First version)_
+1. [Syrian Civil War: The Lebanese Army states that 14 soldiers have been killed and 22 are missing after alleged clashes with Islamic State of Iraq and the Levant fighters on the Syrian border. ](/news/2014/08/4/syrian-civil-war-the-lebanese-army-states-that-14-soldiers-have-been-killed-and-22-are-missing-after-alleged-clashes-with-islamic-state-of.md) _2018-02-06 13:49:26 (First version)_
 1. [The Lebanese Army states that 14 soldiers have been killed and 22 are missing after alleged clashes with Islamic State of Iraq and the Levant fighters on the Syrian border. ](/news/2014/08/4/the-lebanese-army-states-that-14-soldiers-have-been-killed-and-22-are-missing-after-alleged-clashes-with-islamic-state-of-iraq-and-the-levan.md) _(Current version)_
 
 ### Related:

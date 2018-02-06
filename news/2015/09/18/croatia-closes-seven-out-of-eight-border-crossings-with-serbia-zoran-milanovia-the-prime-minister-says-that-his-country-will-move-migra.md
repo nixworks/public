@@ -17,8 +17,8 @@ Croatia closes seven of its eight border crossings with Serbia as thousands of d
 
 ### Changes:
 
-1. [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migr.md) _2017-08-25 03:42:48 (First version)_
-2. [European migrant crisis: Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/european-migrant-crisis-croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his.md) _2017-08-27 03:43:04 (Update)_
+1. [European migrant crisis: Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/european-migrant-crisis-croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his.md) _2018-02-06 13:49:27 (First version)_
+2. [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migr.md) _2018-02-06 13:49:27 (Update)_
 2. [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migra.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/29/the-united-nations-fears-that-approximately-700
 
 ### Changes:
 
-1. [European migrant crisis: The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. ](/news/2016/05/29/european-migrant-crisis-the-united-nations-fears-that-approximately-700-migrants-have-drowned-in-three-mediterranean-sea-shipwrecks-over-th.md) _2017-08-27 03:46:09 (First version)_
+1. [European migrant crisis: The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. ](/news/2016/05/29/european-migrant-crisis-the-united-nations-fears-that-approximately-700-migrants-have-drowned-in-three-mediterranean-sea-shipwrecks-over-th.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. ](/news/2016/05/29/the-united-nations-fears-that-approximately-700-migrants-have-drowned-in-three-mediterranean-sea-shipwrecks-over-the-past-few-days.md) _(Current version)_
 
 ### Related:

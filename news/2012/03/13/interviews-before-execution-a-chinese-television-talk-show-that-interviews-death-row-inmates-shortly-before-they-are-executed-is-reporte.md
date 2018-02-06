@@ -16,7 +16,7 @@ There were question marks yesterday over the future of one of China&#039;s most 
 
 ### Changes:
 
-1. [''Interviews Before Execution'', a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-repor.md) _2017-08-25 03:35:16 (First version)_
+1. [''Interviews Before Execution'', a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-repor.md) _2018-02-06 13:49:23 (First version)_
 1. ["Interviews Before Execution", a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-reporte.md) _(Current version)_
 
 ### Related:

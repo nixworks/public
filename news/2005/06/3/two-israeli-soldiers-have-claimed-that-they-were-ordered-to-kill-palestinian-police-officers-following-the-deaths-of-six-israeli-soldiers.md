@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/06/3/two-israeli-soldiers-have-claimed-that-they-were
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/israeli-palestinian-conflict-p-two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-d.md) _2017-08-25 03:16:19 (First version)_
-2. [ Israeli-Palestinian Conflict:: Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/israeli-palestinian-conflict-two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-d.md) _2017-08-27 03:16:22 (Update)_
+1. [ Israeli-Palestinian Conflict:: Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/israeli-palestinian-conflict-two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-d.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict: Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/israeli-palestinian-conflict-p-two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-d.md) _2018-02-06 13:49:16 (Update)_
 2. [ Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-deaths-of-six-israeli-soldiers.md) _(Current version)_
 
 ### Related:

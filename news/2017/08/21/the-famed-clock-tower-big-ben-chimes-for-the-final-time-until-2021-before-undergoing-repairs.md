@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-fi
 
 ### Changes:
 
-1. [The famed clock tower chimes for the final time until 2021 while undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md) _2017-08-22 23:30:04 (First version)_
-2. [Renovation of Big Ben: The famed clock tower Big Ben chimes for the final time until 2021 before undergoing repairs. ](/news/2017/08/21/renovation-of-big-ben-the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.md) _2017-08-27 17:30:04 (Update)_
+1. [The famed clock tower chimes for the final time until 2021 while undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md) _2018-02-06 13:49:31 (First version)_
+2. [Renovation of Big Ben: The famed clock tower Big Ben chimes for the final time until 2021 before undergoing repairs. ](/news/2017/08/21/renovation-of-big-ben-the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.md) _2018-02-06 13:49:31 (Update)_
 2. [The famed clock tower Big Ben chimes for the final time until 2021 before undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.md) _(Current version)_
 
 ### Related:

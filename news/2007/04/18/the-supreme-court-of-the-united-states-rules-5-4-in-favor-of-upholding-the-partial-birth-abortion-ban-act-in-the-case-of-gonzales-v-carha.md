@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-
 
 ### Changes:
 
-1. [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of ''Gonzales v. Carhart''. ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carh.md) _2017-08-25 03:19:38 (First version)_
+1. [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of ''Gonzales v. Carhart''. ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carh.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md) _(Current version)_
 
 ### Related:

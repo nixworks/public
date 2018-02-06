@@ -17,7 +17,7 @@ Italian police find Raffaele Sollecito near the Austrian border after a court re
 
 ### Changes:
 
-1. [Murder of Meredith Kercher: Raffaele Sollecito is arrested in Italy near the Austrian border after again being found guilty of the murder of Meredith Kercher. ](/news/2014/01/31/murder-of-meredith-kercher-raffaele-sollecito-is-arrested-in-italy-near-the-austrian-border-after-again-being-found-guilty-of-the-murder-of.md) _2017-08-27 03:40:15 (First version)_
+1. [Murder of Meredith Kercher: Raffaele Sollecito is arrested in Italy near the Austrian border after again being found guilty of the murder of Meredith Kercher. ](/news/2014/01/31/murder-of-meredith-kercher-raffaele-sollecito-is-arrested-in-italy-near-the-austrian-border-after-again-being-found-guilty-of-the-murder-of.md) _2018-02-06 13:49:25 (First version)_
 1. [Raffaele Sollecito is arrested in Italy near the Austrian border after again being found guilty of the murder of Meredith Kercher. ](/news/2014/01/31/raffaele-sollecito-is-arrested-in-italy-near-the-austrian-border-after-again-being-found-guilty-of-the-murder-of-meredith-kercher.md) _(Current version)_
 
 ### Related:

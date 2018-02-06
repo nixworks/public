@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/05/11/a-bomb-explodes-near-the-awami-national-party-o
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-pa-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _2017-08-25 03:38:37 (First version)_
-2. [War in North-West Pakistan:: A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _2017-08-27 03:38:50 (Update)_
+1. [War in North-West Pakistan:A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-pa-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md) _(Current version)_
 
 ### Related:

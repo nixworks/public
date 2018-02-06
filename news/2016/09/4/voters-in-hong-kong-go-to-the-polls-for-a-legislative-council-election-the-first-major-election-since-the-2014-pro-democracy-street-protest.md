@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legisl
 
 ### Changes:
 
-1. [Hong Kong legislative election, 2016: Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/hong-kong-legislative-election-2016-voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since.md) _2017-08-27 03:46:46 (First version)_
+1. [Hong Kong legislative election, 2016: Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/hong-kong-legislative-election-2016-voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since-the-2014-pro-democracy-street-protest.md) _(Current version)_
 
 ### Related:

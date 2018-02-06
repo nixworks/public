@@ -19,8 +19,8 @@ Attackers blow themselves up near a NATO base, killing at least 12 people and wo
 
 ### Changes:
 
-1. [War in Afghanistan:Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-ptwo-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanis.md) _2017-08-25 03:36:23 (First version)_
-2. [War in Afghanistan:: Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-two-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghani.md) _2017-08-27 03:36:34 (Update)_
+1. [War in Afghanistan:: Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-two-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghani.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-ptwo-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanis.md) _2018-02-06 13:49:23 (Update)_
 2. [Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/two-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanistan-s-wardak-provinc.md) _(Current version)_
 
 ### Related:

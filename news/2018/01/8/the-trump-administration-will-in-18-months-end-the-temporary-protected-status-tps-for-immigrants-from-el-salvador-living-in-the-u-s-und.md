@@ -16,7 +16,7 @@ Two hundred thousand people will be given 18 months to move out or find a legal 
 
 ### Changes:
 
-1. [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the US under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security (DHS) estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-us-under.md) _2018-01-08 22:30:06 (First version)_
+1. [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the US under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security (DHS) estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-us-under.md) _2018-02-06 13:49:31 (First version)_
 1. [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the U.S. under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-u-s-und.md) _(Current version)_
 
 ### Related:

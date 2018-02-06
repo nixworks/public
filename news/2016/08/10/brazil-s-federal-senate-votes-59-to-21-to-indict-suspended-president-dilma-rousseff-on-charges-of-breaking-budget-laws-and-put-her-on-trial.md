@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indic
 
 ### Changes:
 
-1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-o.md) _2017-08-27 03:46:38 (First version)_
+1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this 
 
 ### Changes:
 
-1. [Syrian civil war:Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-prebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _2017-08-25 03:37:46 (First version)_
-2. [Syrian civil war:: Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _2017-08-27 03:37:57 (Update)_
+1. [Syrian civil war:: Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-prebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md) _(Current version)_
 
 ### Related:

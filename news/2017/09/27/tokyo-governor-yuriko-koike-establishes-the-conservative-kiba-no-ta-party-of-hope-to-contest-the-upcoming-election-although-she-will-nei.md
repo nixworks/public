@@ -16,8 +16,8 @@ Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese po
 
 ### Changes:
 
-1. [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kibo-no-to-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it-no.md) _2017-09-27 14:30:05 (First version)_
-2. [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it.md) _2017-09-27 20:30:06 (Update)_
+1. [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kibo-no-to-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it-no.md) _2018-02-06 13:49:31 (First version)_
+2. [Tokyo governor Yuriko Koike establishes the Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-neither-lead-it.md) _2018-02-06 13:49:31 (Update)_
 2. [Tokyo governor Yuriko Koike establishes the conservative Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. ](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-conservative-kiba-no-ta-party-of-hope-to-contest-the-upcoming-election-although-she-will-nei.md) _(Current version)_
 
 ### Related:

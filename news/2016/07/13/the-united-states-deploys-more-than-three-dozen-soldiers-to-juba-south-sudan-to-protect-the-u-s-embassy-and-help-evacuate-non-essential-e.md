@@ -16,7 +16,7 @@ South Sudan: U.S. troops were rushed to evacuate Americans and embassy personnel
 
 ### Changes:
 
-1. [South Sudanese Civil War: The United States deploys more than three dozen soldiers to Juba, South Sudan, to protect the U.S. embassy and help evacuate non-essential embassy staff due to local clashes. ](/news/2016/07/13/south-sudanese-civil-war-the-united-states-deploys-more-than-three-dozen-soldiers-to-juba-south-sudan-to-protect-the-u-s-embassy-and-hel.md) _2017-08-27 03:46:29 (First version)_
+1. [South Sudanese Civil War: The United States deploys more than three dozen soldiers to Juba, South Sudan, to protect the U.S. embassy and help evacuate non-essential embassy staff due to local clashes. ](/news/2016/07/13/south-sudanese-civil-war-the-united-states-deploys-more-than-three-dozen-soldiers-to-juba-south-sudan-to-protect-the-u-s-embassy-and-hel.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States deploys more than three dozen soldiers to Juba, South Sudan, to protect the U.S. embassy and help evacuate non-essential embassy staff due to local clashes. ](/news/2016/07/13/the-united-states-deploys-more-than-three-dozen-soldiers-to-juba-south-sudan-to-protect-the-u-s-embassy-and-help-evacuate-non-essential-e.md) _(Current version)_
 
 ### Related:

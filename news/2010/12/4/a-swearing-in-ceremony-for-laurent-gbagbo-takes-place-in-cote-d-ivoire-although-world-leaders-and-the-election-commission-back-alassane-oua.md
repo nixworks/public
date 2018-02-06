@@ -20,8 +20,8 @@ Ivory Coast is in a deep political crisis, as rival presidential candidates both
 
 ### Changes:
 
-1. [Ivorian political crisis:A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-pa-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-co.md) _2017-08-25 03:31:17 (First version)_
-2. [Ivorian political crisis:: A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-a-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-c.md) _2017-08-27 03:31:24 (Update)_
+1. [Ivorian political crisis:A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-pa-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-co.md) _2018-02-06 13:49:21 (First version)_
+2. [Ivorian political crisis:: A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-a-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-c.md) _2018-02-06 13:49:21 (Update)_
 2. [A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/a-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-commission-back-alassane-oua.md) _(Current version)_
 
 ### Related:

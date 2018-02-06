@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/11/protests-and-riots-against-president-elect-dona
 
 ### Changes:
 
-1. [Anti-Trump protests: Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/anti-trump-protests-protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta.md) _2017-08-27 03:47:13 (First version)_
+1. [Anti-Trump protests: Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/anti-trump-protests-protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta.md) _2018-02-06 13:49:29 (First version)_
 1. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _(Current version)_
 
 ### Related:

@@ -24,8 +24,8 @@ Five suspected al Qaeda members were killed in a clash with Yemeni forces when t
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/arab-spring-p2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recapt.md) _2017-08-25 03:32:40 (First version)_
-2. [Arab Spring:: 2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/arab-spring-2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recap.md) _2017-08-27 03:32:47 (Update)_
+1. [Arab Spring:2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/arab-spring-p2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recapt.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/arab-spring-2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recap.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recapture-brega.md) _(Current version)_
 
 ### Related:

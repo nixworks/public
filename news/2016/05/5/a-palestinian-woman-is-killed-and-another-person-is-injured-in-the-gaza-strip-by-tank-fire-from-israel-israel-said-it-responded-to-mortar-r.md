@@ -17,7 +17,7 @@ Israeli tank fire kills a Palestinian woman in Gaza, Palestinians say, in some o
 
 ### Changes:
 
-1. [Gaza-Israel conflict: A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/gaza-israel-conflict-a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said.md) _2017-08-27 03:45:59 (First version)_
+1. [Gaza-Israel conflict: A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/gaza-israel-conflict-a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said.md) _2018-02-06 13:49:29 (First version)_
 1. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _(Current version)_
 
 ### Related:

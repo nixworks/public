@@ -16,7 +16,7 @@ A rollback of net neutrality regulations would represent a significant victory f
 
 ### Changes:
 
-1. [Federal Communications Commission chairman Ajit Pai announced his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announced-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md) _2017-11-22 00:30:05 (First version)_
+1. [Federal Communications Commission chairman Ajit Pai announced his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announced-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md) _2018-02-06 13:49:31 (First version)_
 1. [Federal Communications Commission chairman Ajit Pai announces his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announces-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md) _(Current version)_
 
 ### Related:

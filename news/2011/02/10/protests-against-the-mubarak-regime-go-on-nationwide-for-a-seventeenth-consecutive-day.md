@@ -19,8 +19,8 @@ Formats: [HTML](/news/2011/02/10/protests-against-the-mubarak-regime-go-on-natio
 
 ### Changes:
 
-1. [2011 Egyptian protests:Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-pprotests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md) _2017-08-25 03:32:08 (First version)_
-2. [2011 Egyptian protests:: Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-protests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md) _2017-08-27 03:32:16 (Update)_
+1. [2011 Egyptian protests:: Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-protests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-pprotests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md) _2018-02-06 13:49:21 (Update)_
 2. [Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/protests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md) _(Current version)_
 
 ### Related:

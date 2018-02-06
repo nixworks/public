@@ -23,8 +23,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Changes:
 
-1. [War in Afghanistan:The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/war-in-afghanistan-pthe-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _2017-08-25 03:28:12 (First version)_
-2. [War in Afghanistan:: The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/war-in-afghanistan-the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _2017-08-27 03:28:11 (Update)_
+1. [War in Afghanistan:: The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/war-in-afghanistan-the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Afghanistan:The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/war-in-afghanistan-pthe-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _2018-02-06 13:49:20 (Update)_
 2. [The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md) _(Current version)_
 
 ### Related:

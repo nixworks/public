@@ -19,8 +19,8 @@ Formats: [HTML](/news/2007/06/14/hamas-claims-full-control-of-palestinian-author
 
 ### Changes:
 
-1. [ ''Fatah-Hamas conflict:'' Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatahahamas-conflict-p-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _2017-08-25 03:19:58 (First version)_
-2. [ "Fatah-Hamas conflict:": Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatah-hamas-conflict-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _2017-08-27 03:19:57 (Update)_
+1. [ ''Fatah-Hamas conflict:'' Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatahahamas-conflict-p-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _2018-02-06 13:49:17 (First version)_
+2. [ "Fatah-Hamas conflict:": Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatah-hamas-conflict-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _2018-02-06 13:49:17 (Update)_
 2. [ Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md) _(Current version)_
 
 ### Related:

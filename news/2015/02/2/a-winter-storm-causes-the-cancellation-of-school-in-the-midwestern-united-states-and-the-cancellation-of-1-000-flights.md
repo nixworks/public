@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school
 
 ### Changes:
 
-1. [2014-15 North American winter: A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/2014-15-north-american-winter-a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1.md) _2017-08-27 03:41:52 (First version)_
+1. [2014-15 North American winter: A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/2014-15-north-american-winter-a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1.md) _2018-02-06 13:49:26 (First version)_
 1. [A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1-000-flights.md) _(Current version)_
 
 ### Related:

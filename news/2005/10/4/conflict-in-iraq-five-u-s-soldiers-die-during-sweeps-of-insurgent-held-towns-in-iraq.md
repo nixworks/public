@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/4/conflict-in-iraq-five-u-s-soldiers-die-during-sw
 
 ### Changes:
 
-1. [ Conflict in Iraq: Five U.S. soldiers die during sweeps of insurgent-held towns in Iraq. [http:--seattletimes.nwsource.com-html-nationworld-2002540350_killed05.html (Seattle Times)].](/news/2005/10/4/conflict-in-iraq-five-u-s-soldiers-die-during-sweeps-of-insurgent-held-towns-in-iraq-http-seattletimes-nwsource-com-html-nationworld.md) _2017-06-18 03:17:01 (First version)_
+1. [ Conflict in Iraq: Five U.S. soldiers die during sweeps of insurgent-held towns in Iraq. [http:--seattletimes.nwsource.com-html-nationworld-2002540350_killed05.html (Seattle Times)].](/news/2005/10/4/conflict-in-iraq-five-u-s-soldiers-die-during-sweeps-of-insurgent-held-towns-in-iraq-http-seattletimes-nwsource-com-html-nationworld.md) _2018-02-06 13:49:16 (First version)_
 1. [ Conflict in Iraq: Five U.S. soldiers die during sweeps of insurgent-held towns in Iraq. ](/news/2005/10/4/conflict-in-iraq-five-u-s-soldiers-die-during-sweeps-of-insurgent-held-towns-in-iraq.md) _(Current version)_
 
 ### Related:

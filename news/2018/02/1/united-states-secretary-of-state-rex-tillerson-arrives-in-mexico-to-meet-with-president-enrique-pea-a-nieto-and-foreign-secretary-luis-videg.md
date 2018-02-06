@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-a
 
 ### Changes:
 
-1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _2018-02-02 20:30:13 (First version)_
+1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _2018-02-06 13:49:31 (First version)_
 1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md) _(Current version)_
 
 ### Related:

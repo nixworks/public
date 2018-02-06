@@ -17,7 +17,7 @@ Italian conservative wins after his EPP group allies with liberals to counter ri
 
 ### Changes:
 
-1. [President of the European Parliament: Antonio Tajani has been elected as new President of the European Parliament. ](/news/2017/01/17/president-of-the-european-parliament-antonio-tajani-has-been-elected-as-new-president-of-the-european-parliament.md) _2017-08-27 03:47:37 (First version)_
+1. [President of the European Parliament: Antonio Tajani has been elected as new President of the European Parliament. ](/news/2017/01/17/president-of-the-european-parliament-antonio-tajani-has-been-elected-as-new-president-of-the-european-parliament.md) _2018-02-06 13:49:30 (First version)_
 1. [Antonio Tajani has been elected as new President of the European Parliament. ](/news/2017/01/17/antonio-tajani-has-been-elected-as-new-president-of-the-european-parliament.md) _(Current version)_
 
 ### Related:

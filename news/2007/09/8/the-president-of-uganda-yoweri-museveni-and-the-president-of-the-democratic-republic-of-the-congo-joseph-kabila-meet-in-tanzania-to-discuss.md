@@ -17,8 +17,8 @@ Rebel leader in the Democratic Republic of Congo, General Laurent Nkunda, has ac
 
 ### Changes:
 
-1. [ Democratic Republic of the Congo: The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/democratic-republic-of-the-congo-p-the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph.md) _2017-08-25 03:20:54 (First version)_
-2. [ Democratic Republic of the Congo:: The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/democratic-republic-of-the-congo-the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph.md) _2017-08-27 03:20:51 (Update)_
+1. [ Democratic Republic of the Congo:: The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/democratic-republic-of-the-congo-the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph.md) _2018-02-06 13:49:18 (First version)_
+2. [ Democratic Republic of the Congo: The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/democratic-republic-of-the-congo-p-the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph.md) _2018-02-06 13:49:18 (Update)_
 2. [ The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-meet-in-tanzania-to-discuss.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-
 
 ### Changes:
 
-1. [ An earthquake of 6.3 Magnitude hits 11.1 miles east-southeast of Wells, Nevada. It is 2.2 miles deep, and is felt as far away as Twin Falls, Idaho, about 125 miles away, and Salt Lake City, Utah, about 180 miles away. ](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-east-southeast-of-wells-nevada-it-is-2-2-miles-deep-and-is-felt-as-far-away-as-twin-fall.md) _2017-08-25 03:21:48 (First version)_
+1. [ An earthquake of 6.3 Magnitude hits 11.1 miles east-southeast of Wells, Nevada. It is 2.2 miles deep, and is felt as far away as Twin Falls, Idaho, about 125 miles away, and Salt Lake City, Utah, about 180 miles away. ](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-east-southeast-of-wells-nevada-it-is-2-2-miles-deep-and-is-felt-as-far-away-as-twin-fall.md) _2018-02-06 13:49:18 (First version)_
 1. [ An earthquake of 6.3 Magnitude hits 11.1 miles east-southeast of Wells, Nevada. It is 2.2 miles deep, and is felt as far away as Twin Falls, Idaho, about 125 miles away, and Salt Lake City, Utah, about 180 miles away. ](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-east-southeast-of-wells-nevada-it-is-2-2-miles-deep-and-is-felt-as-far-away-as-twin-falls.md) _(Current version)_
 
 ### Related:

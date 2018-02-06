@@ -16,7 +16,7 @@ At least five people have been killed in multiple suicide bombings in a mainly C
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon: A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/syrian-civil-war-spillover-in-lebanon-a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people.md) _2017-08-27 03:46:21 (First version)_
+1. [Syrian Civil War spillover in Lebanon: A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/syrian-civil-war-spillover-in-lebanon-a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people-dead-and-13-people-injured.md) _(Current version)_
 
 ### Related:

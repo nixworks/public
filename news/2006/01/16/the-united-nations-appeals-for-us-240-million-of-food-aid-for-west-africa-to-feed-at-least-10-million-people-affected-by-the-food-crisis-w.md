@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-o
 
 ### Changes:
 
-1. [ The United Nations appeals for {{Nowrap|US$240 million}} of food aid for West Africa to feed at least {{Nowrap|10 million}} people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-nowrap-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-nowrap-10-million-people-affected.md) _2017-05-01 03:17:43 (First version)_
+1. [ The United Nations appeals for {{Nowrap|US$240 million}} of food aid for West Africa to feed at least {{Nowrap|10 million}} people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-nowrap-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-nowrap-10-million-people-affected.md) _2018-02-06 13:49:16 (First version)_
 1. [ The United Nations appeals for US$240 million of food aid for West Africa to feed at least 10 million people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-10-million-people-affected-by-the-food-crisis-w.md) _(Current version)_
 
 ### Related:

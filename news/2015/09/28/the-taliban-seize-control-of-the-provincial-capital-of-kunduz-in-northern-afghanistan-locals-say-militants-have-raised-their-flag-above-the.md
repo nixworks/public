@@ -17,7 +17,7 @@ Hard-line militants seeking to gain territory after the end of the NATO combat m
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban seize control of the provincial capital of Kunduz in northern Afghanistan. Locals say militants have raised their flag above the city's main square. ](/news/2015/09/28/war-in-afghanistan-2015-present-the-taliban-seize-control-of-the-provincial-capital-of-kunduz-in-northern-afghanistan-locals-say-milit.md) _2017-08-27 03:43:10 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban seize control of the provincial capital of Kunduz in northern Afghanistan. Locals say militants have raised their flag above the city's main square. ](/news/2015/09/28/war-in-afghanistan-2015-present-the-taliban-seize-control-of-the-provincial-capital-of-kunduz-in-northern-afghanistan-locals-say-milit.md) _2018-02-06 13:49:27 (First version)_
 1. [The Taliban seize control of the provincial capital of Kunduz in northern Afghanistan. Locals say militants have raised their flag above the city's main square. ](/news/2015/09/28/the-taliban-seize-control-of-the-provincial-capital-of-kunduz-in-northern-afghanistan-locals-say-militants-have-raised-their-flag-above-the.md) _(Current version)_
 
 ### Related:

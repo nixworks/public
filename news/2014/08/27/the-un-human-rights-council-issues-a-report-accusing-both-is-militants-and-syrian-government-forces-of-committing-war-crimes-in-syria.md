@@ -19,8 +19,8 @@ The UN accuses IS militants of war crimes, and the Syrian government of using ch
 
 ### Changes:
 
-1. [Syrian Civil War:The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/syrian-civil-war-pthe-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-crim.md) _2017-08-25 03:40:54 (First version)_
-2. [Syrian Civil War:: The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/syrian-civil-war-the-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-cri.md) _2017-08-27 03:41:12 (Update)_
+1. [Syrian Civil War:: The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/syrian-civil-war-the-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-cri.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/syrian-civil-war-pthe-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-crim.md) _2018-02-06 13:49:26 (Update)_
 2. [The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/the-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-crimes-in-syria.md) _(Current version)_
 
 ### Related:

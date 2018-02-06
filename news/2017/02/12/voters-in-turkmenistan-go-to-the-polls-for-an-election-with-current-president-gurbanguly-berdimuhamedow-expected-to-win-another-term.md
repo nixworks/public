@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/12/voters-in-turkmenistan-go-to-the-polls-for-an-e
 
 ### Changes:
 
-1. [Turkmenistani presidential election, 2017: Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/turkmenistani-presidential-election-2017-voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimu.md) _2017-08-27 03:47:48 (First version)_
+1. [Turkmenistani presidential election, 2017: Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/turkmenistani-presidential-election-2017-voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimu.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimuhamedow-expected-to-win-another-term.md) _(Current version)_
 
 ### Related:

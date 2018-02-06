@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-
 
 ### Changes:
 
-1. [Hillsborough disaster: The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/hillsborough-disaster-the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given.md) _2017-08-27 03:45:50 (First version)_
+1. [Hillsborough disaster: The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/hillsborough-disaster-the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given.md) _2018-02-06 13:49:28 (First version)_
 1. [The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.md) _(Current version)_
 
 ### Related:

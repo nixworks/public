@@ -16,8 +16,8 @@ Torrential rain lashed parts of central and south China on Monday, with floods d
 
 ### Changes:
 
-1. [Floods in South China kill at least fifteen people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-fifteen-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast.md) _2017-07-03 19:30:07 (First version)_
-2. [2017 China floods: Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/2017-china-floods-floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-ra.md) _2017-08-27 03:48:36 (Update)_
+1. [Floods in South China kill at least fifteen people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-fifteen-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 China floods: Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/2017-china-floods-floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-ra.md) _2018-02-06 13:49:31 (Update)_
 2. [Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast-in-f.md) _(Current version)_
 
 ### Related:

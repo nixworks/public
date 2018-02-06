@@ -22,8 +22,8 @@ Formats: [HTML](/news/2012/09/19/a-man-turns-himself-in-to-police-after-throwing
 
 ### Changes:
 
-1. [Senkaku Islands dispute:A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-pa-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in-f.md) _2017-08-25 03:36:33 (First version)_
-2. [Senkaku Islands dispute:: A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-a-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in.md) _2017-08-27 03:36:43 (Update)_
+1. [Senkaku Islands dispute:A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-pa-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in-f.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-a-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in.md) _2018-02-06 13:49:23 (Update)_
 2. [A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/a-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in-fukuoka-japan.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Scores of people injured in the explosion; armed forces facilitating civil offic
 
 ### Changes:
 
-1. [2017 Sehwan suicide bombing: At least 70 people are killed and more than 150 injured in suicide bombing at Lal Shahbaz Qalandar Shrine in Sehwan, Sindh, Pakistan; 50 of the injured are in critical condition, medical emergency has been declared in the hospitals of Hyderabad, Dadu and Jamshoro. ](/news/2017/02/16/2017-sehwan-suicide-bombing-at-least-70-people-are-killed-and-more-than-150-injured-in-suicide-bombing-at-lal-shahbaz-qalandar-shrine-in-se.md) _2017-08-27 03:47:49 (First version)_
+1. [2017 Sehwan suicide bombing: At least 70 people are killed and more than 150 injured in suicide bombing at Lal Shahbaz Qalandar Shrine in Sehwan, Sindh, Pakistan; 50 of the injured are in critical condition, medical emergency has been declared in the hospitals of Hyderabad, Dadu and Jamshoro. ](/news/2017/02/16/2017-sehwan-suicide-bombing-at-least-70-people-are-killed-and-more-than-150-injured-in-suicide-bombing-at-lal-shahbaz-qalandar-shrine-in-se.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 70 people are killed and more than 150 injured in suicide bombing at Lal Shahbaz Qalandar Shrine in Sehwan, Sindh, Pakistan; 50 of the injured are in critical condition, medical emergency has been declared in the hospitals of Hyderabad, Dadu and Jamshoro. ](/news/2017/02/16/at-least-70-people-are-killed-and-more-than-150-injured-in-suicide-bombing-at-lal-shahbaz-qalandar-shrine-in-sehwan-sindh-pakistan-50-of.md) _(Current version)_
 
 ### Related:

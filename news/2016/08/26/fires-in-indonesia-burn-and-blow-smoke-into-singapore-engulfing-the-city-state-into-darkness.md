@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Southeast Asian haze: Fires in Indonesia burn and blow smoke into Singapore, engulfing the city-state into darkness. ](/news/2016/08/26/southeast-asian-haze-fires-in-indonesia-burn-and-blow-smoke-into-singapore-engulfing-the-city-state-into-darkness.md) _2017-08-27 03:46:43 (First version)_
+1. [Southeast Asian haze: Fires in Indonesia burn and blow smoke into Singapore, engulfing the city-state into darkness. ](/news/2016/08/26/southeast-asian-haze-fires-in-indonesia-burn-and-blow-smoke-into-singapore-engulfing-the-city-state-into-darkness.md) _2018-02-06 13:49:29 (First version)_
 1. [Fires in Indonesia burn and blow smoke into Singapore, engulfing the city-state into darkness. ](/news/2016/08/26/fires-in-indonesia-burn-and-blow-smoke-into-singapore-engulfing-the-city-state-into-darkness.md) _(Current version)_
 
 ### Related:

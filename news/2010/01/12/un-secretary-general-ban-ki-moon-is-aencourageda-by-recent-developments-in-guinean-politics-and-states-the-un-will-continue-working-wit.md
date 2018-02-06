@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/01/12/un-secretary-general-ban-ki-moon-is-aencouraged
 
 ### Changes:
 
-1. [UN Secretary-General Ban Ki-moon is -encouraged- by recent developments in Guinean politics, and states the UN will continue working with the African Union (AU), the Economic Community of West African States (ECOWAS) and other partners. ](/news/2010/01/12/un-secretary-general-ban-ki-moon-is-encouraged-by-recent-developments-in-guinean-politics-and-states-the-un-will-continue-working-wit.md) _2017-08-27 03:26:44 (First version)_
+1. [UN Secretary-General Ban Ki-moon is -encouraged- by recent developments in Guinean politics, and states the UN will continue working with the African Union (AU), the Economic Community of West African States (ECOWAS) and other partners. ](/news/2010/01/12/un-secretary-general-ban-ki-moon-is-encouraged-by-recent-developments-in-guinean-politics-and-states-the-un-will-continue-working-wit.md) _2018-02-06 13:49:19 (First version)_
 1. [UN Secretary-General Ban Ki-moon is 'encouraged' by recent developments in Guinean politics, and states the UN will continue working with the African Union (AU), the Economic Community of West African States (ECOWAS) and other partners. ](/news/2010/01/12/un-secretary-general-ban-ki-moon-is-aencourageda-by-recent-developments-in-guinean-politics-and-states-the-un-will-continue-working-wit.md) _(Current version)_
 
 ### Related:

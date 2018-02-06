@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/13/south-korea-announces-plans-to-deploy-a-termina
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/north-korea-south-korea-relations-south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-syst.md) _2017-08-27 03:46:29 (First version)_
+1. [North Korea-South Korea relations: South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/north-korea-south-korea-relations-south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-syst.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-system-in-seongju-county-in-the-country-s.md) _(Current version)_
 
 ### Related:

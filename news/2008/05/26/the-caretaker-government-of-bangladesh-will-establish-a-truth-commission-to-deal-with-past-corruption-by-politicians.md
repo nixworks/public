@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-est
 
 ### Changes:
 
-1. [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. [http:--news.bbc.co.uk-2-hi-south_asia-7420410.stm (BBC News)].](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians-http-news-bbc-co-u.md) _2017-06-18 03:22:37 (First version)_
+1. [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. [http:--news.bbc.co.uk-2-hi-south_asia-7420410.stm (BBC News)].](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians-http-news-bbc-co-u.md) _2018-02-06 13:49:18 (First version)_
 1. [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. ](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians.md) _(Current version)_
 
 ### Related:

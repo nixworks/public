@@ -17,7 +17,7 @@ China will launch a two-man space mission, Shenzhou 11, on Monday, officials wit
 
 ### Changes:
 
-1. [Shenzhou program: China launches Shenzhou 11, the country's sixth manned spaceflight mission and the first one to the Tiangong-2 space laboratory, with two taikonauts on a 30-day mission. ](/news/2016/10/17/shenzhou-program-china-launches-shenzhou-11-the-country-s-sixth-manned-spaceflight-mission-and-the-first-one-to-the-tiangong-2-space-labor.md) _2017-08-27 03:47:05 (First version)_
+1. [Shenzhou program: China launches Shenzhou 11, the country's sixth manned spaceflight mission and the first one to the Tiangong-2 space laboratory, with two taikonauts on a 30-day mission. ](/news/2016/10/17/shenzhou-program-china-launches-shenzhou-11-the-country-s-sixth-manned-spaceflight-mission-and-the-first-one-to-the-tiangong-2-space-labor.md) _2018-02-06 13:49:29 (First version)_
 1. [China launches Shenzhou 11, the country's sixth manned spaceflight mission and the first one to the Tiangong-2 space laboratory, with two taikonauts on a 30-day mission. ](/news/2016/10/17/china-launches-shenzhou-11-the-country-s-sixth-manned-spaceflight-mission-and-the-first-one-to-the-tiangong-2-space-laboratory-with-two-ta.md) _(Current version)_
 
 ### Related:

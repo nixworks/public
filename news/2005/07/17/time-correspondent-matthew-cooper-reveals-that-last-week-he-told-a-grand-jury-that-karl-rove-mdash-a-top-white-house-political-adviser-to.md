@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-
 
 ### Changes:
 
-1. [ ''Time'' correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser.md) _2017-08-25 03:16:32 (First version)_
+1. [ ''Time'' correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser.md) _2018-02-06 13:49:16 (First version)_
 1. [ "Time" correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser-to.md) _(Current version)_
 
 ### Related:

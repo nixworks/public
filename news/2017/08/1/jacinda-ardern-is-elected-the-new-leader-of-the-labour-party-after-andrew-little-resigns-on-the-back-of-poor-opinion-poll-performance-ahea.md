@@ -16,8 +16,8 @@ New Labour leader Jacinda Ardern says the party is about to &quot;run the campai
 
 ### Changes:
 
-1. [ Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor polling performance ahead of the 23 September election. ](/news/2017/08/1/jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of-poor-polling-performance-ahead-of.md) _2017-08-01 03:49:37 (First version)_
-2. [New Zealand general election, 2017: Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor opinion poll performance ahead of the 23 September election. ](/news/2017/08/1/new-zealand-general-election-2017-jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of.md) _2017-08-27 03:48:45 (Update)_
+1. [New Zealand general election, 2017: Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor opinion poll performance ahead of the 23 September election. ](/news/2017/08/1/new-zealand-general-election-2017-jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of.md) _2018-02-06 13:49:31 (First version)_
+2. [ Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor polling performance ahead of the 23 September election. ](/news/2017/08/1/jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of-poor-polling-performance-ahead-of.md) _2018-02-06 13:49:31 (Update)_
 2. [ Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor opinion poll performance ahead of the 23 September election. ](/news/2017/08/1/jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of-poor-opinion-poll-performance-ahea.md) _(Current version)_
 
 ### Related:

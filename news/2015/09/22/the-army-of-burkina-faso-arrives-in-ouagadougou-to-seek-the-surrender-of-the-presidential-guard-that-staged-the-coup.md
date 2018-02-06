@@ -17,7 +17,7 @@ The leader of the Burkina Faso coup and the chief of the army were conducting la
 
 ### Changes:
 
-1. [2015 Burkinabe coup d'etat: The army of Burkina Faso arrives in Ouagadougou to seek the surrender of the Presidential Guard that staged the coup. ](/news/2015/09/22/2015-burkinaba-c-coup-d-a-c-tat-the-army-of-burkina-faso-arrives-in-ouagadougou-to-seek-the-surrender-of-the-presidential-guard-that-staged-th.md) _2017-08-27 03:43:07 (First version)_
+1. [2015 Burkinabe coup d'etat: The army of Burkina Faso arrives in Ouagadougou to seek the surrender of the Presidential Guard that staged the coup. ](/news/2015/09/22/2015-burkinaba-c-coup-d-a-c-tat-the-army-of-burkina-faso-arrives-in-ouagadougou-to-seek-the-surrender-of-the-presidential-guard-that-staged-th.md) _2018-02-06 13:49:27 (First version)_
 1. [The army of Burkina Faso arrives in Ouagadougou to seek the surrender of the Presidential Guard that staged the coup. ](/news/2015/09/22/the-army-of-burkina-faso-arrives-in-ouagadougou-to-seek-the-surrender-of-the-presidential-guard-that-staged-the-coup.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/2/at-least-six-people-are-reported-killed-after-a-
 
 ### Changes:
 
-1. [War in Somalia (2009-present):At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009apresent-pat-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-carr.md) _2017-08-25 03:40:55 (First version)_
-2. [War in Somalia (2009-present):: At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009-present-at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-car.md) _2017-08-27 03:41:14 (Update)_
+1. [War in Somalia (2009-present):At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009apresent-pat-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-carr.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Somalia (2009-present):: At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009-present-at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-car.md) _2018-02-06 13:49:26 (Update)_
 2. [At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-carrying-senior-members-of-the-milita.md) _(Current version)_
 
 ### Related:

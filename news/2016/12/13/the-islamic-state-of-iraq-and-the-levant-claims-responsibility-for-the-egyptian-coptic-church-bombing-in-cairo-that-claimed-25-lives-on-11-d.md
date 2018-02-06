@@ -16,7 +16,7 @@ The militants made the claim on social media.
 
 ### Changes:
 
-1. [Botroseya Church bombing: The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/botroseya-church-bombing-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-tha.md) _2017-08-27 03:47:26 (First version)_
+1. [Botroseya Church bombing: The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/botroseya-church-bombing-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-tha.md) _2018-02-06 13:49:29 (First version)_
 1. [The Islamic State of Iraq and the Levant claims responsibility for the Egyptian Coptic Church bombing in Cairo that claimed 25 lives on 11 December. ](/news/2016/12/13/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-the-egyptian-coptic-church-bombing-in-cairo-that-claimed-25-lives-on-11-d.md) _(Current version)_
 
 ### Related:

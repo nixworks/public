@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-bas
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/war-in-somalia-2009-present-al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-ken.md) _2017-08-27 03:47:42 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/war-in-somalia-2009-present-al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-ken.md) _2018-02-06 13:49:30 (First version)_
 1. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _(Current version)_
 
 ### Related:

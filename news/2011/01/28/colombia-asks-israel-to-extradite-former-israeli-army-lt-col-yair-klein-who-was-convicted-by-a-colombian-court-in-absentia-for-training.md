@@ -17,7 +17,7 @@ Former IDF officer was sentenced in absentia to 11 years in prison for training 
 
 ### Changes:
 
-1. [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court ''in absentia'' for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-traini.md) _2017-08-25 03:31:57 (First version)_
+1. [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court ''in absentia'' for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-traini.md) _2018-02-06 13:49:21 (First version)_
 1. [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court "in absentia" for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-training.md) _(Current version)_
 
 ### Related:

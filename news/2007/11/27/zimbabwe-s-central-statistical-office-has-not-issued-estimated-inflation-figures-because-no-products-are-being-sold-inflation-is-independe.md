@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-i
 
 ### Changes:
 
-1. [ Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being-sold-inflation-is-independ.md) _2017-08-25 03:21:29 (First version)_
-2. [ Zimbabwe's economic crisis: Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-economic-crisis-zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being.md) _2017-08-27 03:21:25 (Update)_
+1. [ Zimbabwe's economic crisis: Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-economic-crisis-zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being.md) _2018-02-06 13:49:18 (First version)_
+2. [ Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being-sold-inflation-is-independ.md) _2018-02-06 13:49:18 (Update)_
 2. [ Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being-sold-inflation-is-independe.md) _(Current version)_
 
 ### Related:

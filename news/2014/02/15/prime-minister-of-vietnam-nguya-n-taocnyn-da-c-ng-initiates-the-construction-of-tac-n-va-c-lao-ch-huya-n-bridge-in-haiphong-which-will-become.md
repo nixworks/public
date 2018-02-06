@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-
 
 ### Changes:
 
-1. [Prime Minister of Vietnam Nguyen Tan Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taoy-n-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become-th.md) _2017-08-25 03:40:02 (First version)_
+1. [Prime Minister of Vietnam Nguyen Tan Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taoy-n-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become-th.md) _2018-02-06 13:49:25 (First version)_
 1. [Prime Minister of Vietnam Nguyen TCNYn Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become.md) _(Current version)_
 
 ### Related:

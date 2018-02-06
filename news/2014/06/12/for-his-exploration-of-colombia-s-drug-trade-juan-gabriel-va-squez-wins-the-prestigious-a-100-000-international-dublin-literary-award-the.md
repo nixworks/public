@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/12/for-his-exploration-of-colombia-s-drug-trade-ju
 
 ### Changes:
 
-1. [For his exploration of Colombia's drug trade Juan Gabriel Vasquez wins the prestigious -100,000 International Dublin Literary Award, the first South American to win the prize. ](/news/2014/06/12/for-his-exploration-of-colombia-s-drug-trade-juan-gabriel-va-squez-wins-the-prestigious-100-000-international-dublin-literary-award-the.md) _2017-08-27 03:40:50 (First version)_
+1. [For his exploration of Colombia's drug trade Juan Gabriel Vasquez wins the prestigious -100,000 International Dublin Literary Award, the first South American to win the prize. ](/news/2014/06/12/for-his-exploration-of-colombia-s-drug-trade-juan-gabriel-va-squez-wins-the-prestigious-100-000-international-dublin-literary-award-the.md) _2018-02-06 13:49:26 (First version)_
 1. [For his exploration of Colombia's drug trade Juan Gabriel Vasquez wins the prestigious EUR100,000 International Dublin Literary Award, the first South American to win the prize. ](/news/2014/06/12/for-his-exploration-of-colombia-s-drug-trade-juan-gabriel-va-squez-wins-the-prestigious-a-100-000-international-dublin-literary-award-the.md) _(Current version)_
 
 ### Related:

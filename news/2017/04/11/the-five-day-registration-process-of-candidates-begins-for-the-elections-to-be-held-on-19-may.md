@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/11/the-five-day-registration-process-of-candidates
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/iranian-presidential-election-2017-the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _2017-08-27 03:48:08 (First version)_
+1. [Iranian presidential election, 2017: The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/iranian-presidential-election-2017-the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _2018-02-06 13:49:30 (First version)_
 1. [The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _(Current version)_
 
 ### Related:

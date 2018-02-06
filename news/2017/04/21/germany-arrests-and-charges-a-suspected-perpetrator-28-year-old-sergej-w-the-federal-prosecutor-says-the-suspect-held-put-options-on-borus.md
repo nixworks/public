@@ -16,7 +16,7 @@ A 28-year-old allegedly attacked the bus, injuring one footballer, to earn from 
 
 ### Changes:
 
-1. [Borussia Dortmund team bus bombing: Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/borussia-dortmund-team-bus-bombing-germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-t.md) _2017-08-27 03:48:12 (First version)_
+1. [Borussia Dortmund team bus bombing: Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/borussia-dortmund-team-bus-bombing-germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-t.md) _2018-02-06 13:49:30 (First version)_
 1. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _(Current version)_
 
 ### Related:

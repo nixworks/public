@@ -15,8 +15,8 @@ The 5 to 4 decision
 
 ### Changes:
 
-1. [The Supreme Court of the United States, in ''McCutcheon v. Federal Election Commission'', votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5a4-to-overturn-limits-on-the-amount-of-mo.md) _2017-08-25 03:40:14 (First version)_
-2. [The Supreme Court of the United States, in "McCutcheon v. Federal Election Commission", votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5-4-to-overturn-limits-on-the-amount-of-mone.md) _2017-08-27 03:40:32 (Update)_
+1. [The Supreme Court of the United States, in ''McCutcheon v. Federal Election Commission'', votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5a4-to-overturn-limits-on-the-amount-of-mo.md) _2018-02-06 13:49:26 (First version)_
+2. [The Supreme Court of the United States, in "McCutcheon v. Federal Election Commission", votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5-4-to-overturn-limits-on-the-amount-of-mone.md) _2018-02-06 13:49:26 (Update)_
 2. [The Supreme Court of the United States, in "McCutcheon v. Federal Election Commission", votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5a4-to-overturn-limits-on-the-amount-of-mone.md) _(Current version)_
 
 ### Related:

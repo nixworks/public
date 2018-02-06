@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help
 
 ### Changes:
 
-1. [Syrian Civil War: Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/syrian-civil-war-saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-b.md) _2017-08-27 03:41:07 (First version)_
+1. [Syrian Civil War: Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/syrian-civil-war-saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-b.md) _2018-02-06 13:49:26 (First version)_
 1. [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-t
 
 ### Changes:
 
-1. [ Sidney Crosby of the Pittsburgh Penguins wins the Hart Memorial Trophy as the National Hockey League's most valuable player during the 2006&ndash;07 season in the annual NHL awards. ](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-the-hart-memorial-trophy-as-the-national-hockey-league-s-most-valuable-player-during-the-200.md) _2017-08-25 03:19:58 (First version)_
+1. [ Sidney Crosby of the Pittsburgh Penguins wins the Hart Memorial Trophy as the National Hockey League's most valuable player during the 2006&ndash;07 season in the annual NHL awards. ](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-the-hart-memorial-trophy-as-the-national-hockey-league-s-most-valuable-player-during-the-200.md) _2018-02-06 13:49:17 (First version)_
 1. [ Sidney Crosby of the Pittsburgh Penguins wins the Hart Memorial Trophy as the National Hockey League's most valuable player during the 2006&ndash;07 season in the annual NHL awards. ](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-the-hart-memorial-trophy-as-the-national-hockey-league-s-most-valuable-player-during-the-2006.md) _(Current version)_
 
 ### Related:

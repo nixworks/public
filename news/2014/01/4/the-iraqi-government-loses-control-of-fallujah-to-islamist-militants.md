@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/4/the-iraqi-government-loses-control-of-fallujah-t
 
 ### Changes:
 
-1. [Anbar conflict:The Iraqi government loses control of Fallujah to Islamist militants. ](/news/2014/01/4/anbar-conflict-pthe-iraqi-government-loses-control-of-fallujah-to-islamist-militants.md) _2017-08-25 03:39:48 (First version)_
-2. [Anbar conflict:: The Iraqi government loses control of Fallujah to Islamist militants. ](/news/2014/01/4/anbar-conflict-the-iraqi-government-loses-control-of-fallujah-to-islamist-militants.md) _2017-08-27 03:40:07 (Update)_
+1. [Anbar conflict:: The Iraqi government loses control of Fallujah to Islamist militants. ](/news/2014/01/4/anbar-conflict-the-iraqi-government-loses-control-of-fallujah-to-islamist-militants.md) _2018-02-06 13:49:25 (First version)_
+2. [Anbar conflict:The Iraqi government loses control of Fallujah to Islamist militants. ](/news/2014/01/4/anbar-conflict-pthe-iraqi-government-loses-control-of-fallujah-to-islamist-militants.md) _2018-02-06 13:49:25 (Update)_
 2. [The Iraqi government loses control of Fallujah to Islamist militants. ](/news/2014/01/4/the-iraqi-government-loses-control-of-fallujah-to-islamist-militants.md) _(Current version)_
 
 ### Related:

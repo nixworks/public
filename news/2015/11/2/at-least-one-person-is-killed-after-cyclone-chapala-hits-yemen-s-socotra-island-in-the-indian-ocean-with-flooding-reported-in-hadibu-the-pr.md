@@ -16,7 +16,7 @@ A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlle
 
 ### Changes:
 
-1. [2015 North Indian Ocean cyclone season: At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. ](/news/2015/11/2/2015-north-indian-ocean-cyclone-season-at-least-one-person-is-killed-after-cyclone-chapala-hits-yemen-s-socotra-island-in-the-indian-ocean.md) _2017-08-27 03:43:38 (First version)_
+1. [2015 North Indian Ocean cyclone season: At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. ](/news/2015/11/2/2015-north-indian-ocean-cyclone-season-at-least-one-person-is-killed-after-cyclone-chapala-hits-yemen-s-socotra-island-in-the-indian-ocean.md) _2018-02-06 13:49:28 (First version)_
 1. [At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. ](/news/2015/11/2/at-least-one-person-is-killed-after-cyclone-chapala-hits-yemen-s-socotra-island-in-the-indian-ocean-with-flooding-reported-in-hadibu-the-pr.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [ At least 69 people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi. ](/news/2016/05/29/at-least-69-people-are-killed-and-25-injured-in-fighting-between-the-houthis-and-government-forces-loyal-to-yemeni-president-abd-rabbuh-m.md) _2017-08-25 03:45:47 (First version)_
-2. [ Yemeni civil war (2015-present): At least 69 people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi. ](/news/2016/05/29/yemeni-civil-war-2015-present-at-least-69-people-are-killed-and-25-injured-in-fighting-between-the-houthis-and-government-forces-loyal.md) _2017-08-27 03:46:09 (Update)_
+1. [ Yemeni civil war (2015-present): At least 69 people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi. ](/news/2016/05/29/yemeni-civil-war-2015-present-at-least-69-people-are-killed-and-25-injured-in-fighting-between-the-houthis-and-government-forces-loyal.md) _2018-02-06 13:49:29 (First version)_
+2. [ At least 69 people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi. ](/news/2016/05/29/at-least-69-people-are-killed-and-25-injured-in-fighting-between-the-houthis-and-government-forces-loyal-to-yemeni-president-abd-rabbuh-m.md) _2018-02-06 13:49:29 (Update)_
 2. [ At least 69 people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi. ](/news/2016/05/29/at-least-69-people-are-killed-and-25-injured-in-fighting-between-the-houthis-and-government-forces-loyal-to-yemeni-president-abd-rabbuh-man.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [October 2015 nor'easter: Hurricane Joaquin: Thirteen people are reported to have died during this storm, 11 in South Carolina and two in North Carolina. At least 18 dams have breached or failed since Saturday. Communities downstream face a mass of water working its way toward the low-lying coast. ](/news/2015/10/6/october-2015-nor-easter-hurricane-joaquin-thirteen-people-are-reported-to-have-died-during-this-storm-11-in-south-carolina-and-two-in-nor.md) _2017-08-27 03:43:15 (First version)_
+1. [October 2015 nor'easter: Hurricane Joaquin: Thirteen people are reported to have died during this storm, 11 in South Carolina and two in North Carolina. At least 18 dams have breached or failed since Saturday. Communities downstream face a mass of water working its way toward the low-lying coast. ](/news/2015/10/6/october-2015-nor-easter-hurricane-joaquin-thirteen-people-are-reported-to-have-died-during-this-storm-11-in-south-carolina-and-two-in-nor.md) _2018-02-06 13:49:28 (First version)_
 1. [Thirteen people are reported to have died during this storm, 11 in South Carolina and two in North Carolina. At least 18 dams have breached or failed since Saturday. Communities downstream face a mass of water working its way toward the low-lying coast. ](/news/2015/10/6/thirteen-people-are-reported-to-have-died-during-this-storm-11-in-south-carolina-and-two-in-north-carolina-at-least-18-dams-have-breached.md) _(Current version)_
 
 ### Related:

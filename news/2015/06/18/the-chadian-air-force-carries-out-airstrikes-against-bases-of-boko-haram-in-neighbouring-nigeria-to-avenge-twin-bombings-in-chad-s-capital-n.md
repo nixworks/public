@@ -18,7 +18,7 @@ At least 13 people have died and 53 others have been injured in northeast Nigeri
 
 ### Changes:
 
-1. [West African offensive: The Chadian Air Force carries out airstrikes against bases of Boko Haram in neighbouring Nigeria to avenge twin bombings in Chad's capital N'Djamena three days ago. ](/news/2015/06/18/west-african-offensive-the-chadian-air-force-carries-out-airstrikes-against-bases-of-boko-haram-in-neighbouring-nigeria-to-avenge-twin-bomb.md) _2017-08-27 03:42:34 (First version)_
+1. [West African offensive: The Chadian Air Force carries out airstrikes against bases of Boko Haram in neighbouring Nigeria to avenge twin bombings in Chad's capital N'Djamena three days ago. ](/news/2015/06/18/west-african-offensive-the-chadian-air-force-carries-out-airstrikes-against-bases-of-boko-haram-in-neighbouring-nigeria-to-avenge-twin-bomb.md) _2018-02-06 13:49:27 (First version)_
 1. [The Chadian Air Force carries out airstrikes against bases of Boko Haram in neighbouring Nigeria to avenge twin bombings in Chad's capital N'Djamena three days ago. ](/news/2015/06/18/the-chadian-air-force-carries-out-airstrikes-against-bases-of-boko-haram-in-neighbouring-nigeria-to-avenge-twin-bombings-in-chad-s-capital-n.md) _(Current version)_
 
 ### Related:

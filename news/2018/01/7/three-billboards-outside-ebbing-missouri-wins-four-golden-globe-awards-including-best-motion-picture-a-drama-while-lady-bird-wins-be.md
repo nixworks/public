@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-fo
 
 ### Changes:
 
-1. ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including best movie drama. ](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-movie-drama.md) _2018-01-08 21:30:05 (First version)_
-2. ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including best movie drama. [https:--www.nytimes.com-2018-01-07-movies-golden-globes.html?emc=edit_na_20180107&nl=breaking-news&nlid=66213151&ref=cta ("The New York Times")]"Lady Bird" wins best musical or comedy.](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-movie-drama-https-www-nytimes-com-2018-01-07-mo.md) _2018-01-09 15:30:05 (Update)_
+1. ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including best movie drama. ](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-movie-drama.md) _2018-02-06 13:49:31 (First version)_
+2. ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including best movie drama. [https:--www.nytimes.com-2018-01-07-movies-golden-globes.html?emc=edit_na_20180107&nl=breaking-news&nlid=66213151&ref=cta ("The New York Times")]"Lady Bird" wins best musical or comedy.](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-movie-drama-https-www-nytimes-com-2018-01-07-mo.md) _2018-02-06 13:49:31 (Update)_
 2. ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including Best Motion Picture - Drama, while "Lady Bird" wins Best Motion Picture - Musical or Comedy. ](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-motion-picture-a-drama-while-lady-bird-wins-be.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The United States in the past has used its veto on similar resolutions but absta
 
 ### Changes:
 
-1. [ The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/the-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in-a-14a0-security-council-decision-condemning-isr.md) _2017-08-25 03:47:06 (First version)_
+1. [ The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/the-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in-a-14a0-security-council-decision-condemning-isr.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/the-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in-a-14a0-security-council-decision-condemning-isra.md) _(Current version)_
 
 ### Related:

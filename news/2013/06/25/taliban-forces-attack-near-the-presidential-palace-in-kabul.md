@@ -16,8 +16,8 @@ Afghan security forces fight off militants who launched a gun and bomb attack ne
 
 ### Changes:
 
-1. [War in Afghanistan:Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-ptaliban-forces-attack-near-the-presidential-palace-in-kabul.md) _2017-08-25 03:38:54 (First version)_
-2. [War in Afghanistan:: Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-taliban-forces-attack-near-the-presidential-palace-in-kabul.md) _2017-08-27 03:39:08 (Update)_
+1. [War in Afghanistan:: Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-taliban-forces-attack-near-the-presidential-palace-in-kabul.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan:Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-ptaliban-forces-attack-near-the-presidential-palace-in-kabul.md) _2018-02-06 13:49:25 (Update)_
 2. [Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/taliban-forces-attack-near-the-presidential-palace-in-kabul.md) _(Current version)_
 
 ### Related:

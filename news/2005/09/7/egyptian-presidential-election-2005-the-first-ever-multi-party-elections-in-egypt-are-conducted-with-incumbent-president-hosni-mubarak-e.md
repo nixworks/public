@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ev
 
 ### Changes:
 
-1. [ Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. ](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ever-multi-party-elections-in-egypt-are-conducted-with-incumbent-president-hosni-mubarak.md) _2017-08-25 03:16:46 (First version)_
+1. [ Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. ](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ever-multi-party-elections-in-egypt-are-conducted-with-incumbent-president-hosni-mubarak.md) _2018-02-06 13:49:16 (First version)_
 1. [ Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. ](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ever-multi-party-elections-in-egypt-are-conducted-with-incumbent-president-hosni-mubarak-e.md) _(Current version)_
 
 ### Related:

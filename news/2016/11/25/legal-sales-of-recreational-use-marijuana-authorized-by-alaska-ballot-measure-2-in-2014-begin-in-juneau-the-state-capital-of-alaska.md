@@ -16,7 +16,7 @@ Even the mayor was there. On Wednesday night, Rainforest Farms made the first le
 
 ### Changes:
 
-1. [Legality of cannabis: Legal sales of recreational-use marijuana, authorized by Alaska ballot measure 2 in 2014, begin in Juneau, the state capital of Alaska. ](/news/2016/11/25/legality-of-cannabis-legal-sales-of-recreational-use-marijuana-authorized-by-alaska-ballot-measure-2-in-2014-begin-in-juneau-the-state-c.md) _2017-08-27 03:47:18 (First version)_
+1. [Legality of cannabis: Legal sales of recreational-use marijuana, authorized by Alaska ballot measure 2 in 2014, begin in Juneau, the state capital of Alaska. ](/news/2016/11/25/legality-of-cannabis-legal-sales-of-recreational-use-marijuana-authorized-by-alaska-ballot-measure-2-in-2014-begin-in-juneau-the-state-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Legal sales of recreational-use marijuana, authorized by Alaska ballot measure 2 in 2014, begin in Juneau, the state capital of Alaska. ](/news/2016/11/25/legal-sales-of-recreational-use-marijuana-authorized-by-alaska-ballot-measure-2-in-2014-begin-in-juneau-the-state-capital-of-alaska.md) _(Current version)_
 
 ### Related:

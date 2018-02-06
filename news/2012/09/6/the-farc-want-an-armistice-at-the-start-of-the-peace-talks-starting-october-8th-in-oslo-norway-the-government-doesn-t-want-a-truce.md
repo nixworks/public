@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/09/6/the-farc-want-an-armistice-at-the-start-of-the-p
 
 ### Changes:
 
-1. [Colombian armed conflict (1964-present):The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964apresent-pthe-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md) _2017-08-25 03:36:26 (First version)_
-2. [Colombian armed conflict (1964-present):: The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964-present-the-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md) _2017-08-27 03:36:37 (Update)_
+1. [Colombian armed conflict (1964-present):The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964apresent-pthe-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md) _2018-02-06 13:49:24 (First version)_
+2. [Colombian armed conflict (1964-present):: The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964-present-the-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md) _2018-02-06 13:49:24 (Update)_
 2. [The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/the-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway-the-government-doesn-t-want-a-truce.md) _(Current version)_
 
 ### Related:

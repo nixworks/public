@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/15/new-zealand-announces-the-flag-design-chosen-by
 
 ### Changes:
 
-1. [New Zealand flag referendums, 2015-16: New Zealand announces the flag design chosen by the public that will challenge the current flag in a March 2016 vote. Voters will choose between the current flag, which features the British Union Jack with a dark blue background, and the challenger, a silver fern and four red stars on a black and blue background. ](/news/2015/12/15/new-zealand-flag-referendums-2015-16-new-zealand-announces-the-flag-design-chosen-by-the-public-that-will-challenge-the-current-flag-in.md) _2017-08-27 03:44:22 (First version)_
+1. [New Zealand flag referendums, 2015-16: New Zealand announces the flag design chosen by the public that will challenge the current flag in a March 2016 vote. Voters will choose between the current flag, which features the British Union Jack with a dark blue background, and the challenger, a silver fern and four red stars on a black and blue background. ](/news/2015/12/15/new-zealand-flag-referendums-2015-16-new-zealand-announces-the-flag-design-chosen-by-the-public-that-will-challenge-the-current-flag-in.md) _2018-02-06 13:49:28 (First version)_
 1. [New Zealand announces the flag design chosen by the public that will challenge the current flag in a March 2016 vote. Voters will choose between the current flag, which features the British Union Jack with a dark blue background, and the challenger, a silver fern and four red stars on a black and blue background. ](/news/2015/12/15/new-zealand-announces-the-flag-design-chosen-by-the-public-that-will-challenge-the-current-flag-in-a-march-2016-vote-voters-will-choose-bet.md) _(Current version)_
 
 ### Related:

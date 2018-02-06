@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/8/two-suspected-isis-militants-are-killed-and-thre
 
 ### Changes:
 
-1. [2016 Hurghada attack: Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/2016-hurghada-attack-two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of.md) _2017-08-27 03:44:37 (First version)_
+1. [2016 Hurghada attack: Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/2016-hurghada-attack-two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of.md) _2018-02-06 13:49:28 (First version)_
 1. [Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of-hurghada.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ If accomplished, that feat would win the company, Moon Express, the Google Lunar
 
 ### Changes:
 
-1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accord.md) _2017-08-25 03:46:13 (First version)_
+1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accord.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.md) _(Current version)_
 
 ### Related:

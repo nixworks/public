@@ -16,7 +16,7 @@ Texas Sen. Ted Cruz is the first in for 2016.
 
 ### Changes:
 
-1. [United States presidential election, 2016: Senator Ted Cruz (R-Texas) announces his intention to run for president. ](/news/2015/03/23/united-states-presidential-election-2016-senator-ted-cruz-r-texas-announces-his-intention-to-run-for-president.md) _2017-08-27 03:42:07 (First version)_
+1. [United States presidential election, 2016: Senator Ted Cruz (R-Texas) announces his intention to run for president. ](/news/2015/03/23/united-states-presidential-election-2016-senator-ted-cruz-r-texas-announces-his-intention-to-run-for-president.md) _2018-02-06 13:49:26 (First version)_
 1. [Senator Ted Cruz (R-Texas) announces his intention to run for president. ](/news/2015/03/23/senator-ted-cruz-r-texas-announces-his-intention-to-run-for-president.md) _(Current version)_
 
 ### Related:

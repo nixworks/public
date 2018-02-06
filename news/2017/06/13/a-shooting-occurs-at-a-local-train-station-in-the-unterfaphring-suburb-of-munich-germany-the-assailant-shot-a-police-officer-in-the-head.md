@@ -17,7 +17,7 @@ A German man shot a 26-year old policewoman in the head on Tuesday using a gun h
 
 ### Changes:
 
-1. [Crime in Germany: A shooting occurs at a local train station in the Unterfohring suburb of Munich, Germany. The assailant shot a police officer in the head; she is in critical condition. Backup police engaged in a shootout where the suspect and two bystanders were injured. Police do not believe this is a terrorist attack. ](/news/2017/06/13/crime-in-germany-a-shooting-occurs-at-a-local-train-station-in-the-unterfaphring-suburb-of-munich-germany-the-assailant-shot-a-police-off.md) _2017-08-27 03:48:28 (First version)_
+1. [Crime in Germany: A shooting occurs at a local train station in the Unterfohring suburb of Munich, Germany. The assailant shot a police officer in the head; she is in critical condition. Backup police engaged in a shootout where the suspect and two bystanders were injured. Police do not believe this is a terrorist attack. ](/news/2017/06/13/crime-in-germany-a-shooting-occurs-at-a-local-train-station-in-the-unterfaphring-suburb-of-munich-germany-the-assailant-shot-a-police-off.md) _2018-02-06 13:49:30 (First version)_
 1. [A shooting occurs at a local train station in the Unterfohring suburb of Munich, Germany. The assailant shot a police officer in the head; she is in critical condition. Backup police engaged in a shootout where the suspect and two bystanders were injured. Police do not believe this is a terrorist attack. ](/news/2017/06/13/a-shooting-occurs-at-a-local-train-station-in-the-unterfaphring-suburb-of-munich-germany-the-assailant-shot-a-police-officer-in-the-head.md) _(Current version)_
 
 ### Related:

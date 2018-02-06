@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/27/arnold-schwarzenegger-governor-of-the-u-s-state
 
 ### Changes:
 
-1. [ Arnold Schwarzenegger, Governor of the U.S. state of California, declares a state of emergency, and a reward of USD $500,000 is offered for the capture of the arsonist responsible for the wildfires started in the Twin Pines area of the state.](/news/2006/10/27/arnold-schwarzenegger-governor-of-the-u-s-state-of-california-declares-a-state-of-emergency-and-a-reward-of-usd-500-000-is-offered-fo.md) _2017-08-25 03:18:39 (First version)_
+1. [ Arnold Schwarzenegger, Governor of the U.S. state of California, declares a state of emergency, and a reward of USD $500,000 is offered for the capture of the arsonist responsible for the wildfires started in the Twin Pines area of the state.](/news/2006/10/27/arnold-schwarzenegger-governor-of-the-u-s-state-of-california-declares-a-state-of-emergency-and-a-reward-of-usd-500-000-is-offered-fo.md) _2018-02-06 13:49:17 (First version)_
 1. [ Arnold Schwarzenegger, Governor of the U.S. state of California, declares a state of emergency, and a reward of USD $500,000 is offered for the capture of the arsonist responsible for the wildfires started in the Twin Pines area of the state.](/news/2006/10/27/arnold-schwarzenegger-governor-of-the-u-s-state-of-california-declares-a-state-of-emergency-and-a-reward-of-usd-500-000-is-offered-for.md) _(Current version)_
 
 ### Related:

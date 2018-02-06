@@ -16,7 +16,7 @@ Sources in city say three clinics in rebel-held areas of Aleppo have been destro
 
 ### Changes:
 
-1. [Syrian Civil War: According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/syrian-civil-war-according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensi.md) _2017-08-27 03:45:54 (First version)_
+1. [Syrian Civil War: According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/syrian-civil-war-according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensi.md) _2018-02-06 13:49:29 (First version)_
 1. [According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensive-against-the-isi.md) _(Current version)_
 
 ### Related:

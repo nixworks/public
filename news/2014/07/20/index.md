@@ -5,7 +5,7 @@ Formats: [HTML](2014/07/20/index.html)  [JSON](2014/07/20/index.json)  [XML](201
 
 ##### Post-civil war violence in Libya
 ### [Islamist militia renew their attack on Tripoli International Airport. ](/news/2014/07/20/islamist-militia-renew-their-attack-on-tripoli-international-airport.md)
-_Context: Islamist, Post-civil war violence in Libya, Tripoli International Airport_
+_Context: Islamist, Tripoli International Airport, Post-civil war violence in Libya_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Separatist rebels take all the 196 bodies from Malaysia Airlines Flight 17 to an undisclosed location. ](/news/2014/07/20/separatist-rebels-take-all-the-196-bodies-from-malaysia-airlines-flight-17-to-an-undisclosed-location.md)
@@ -21,7 +21,7 @@ Watching the livestream of Monty Python&#039;s last ever performance on GOLD, it
 
 ##### 2014 Pacific typhoon season
 ### [The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md)
-_Context: Philippines, 2014 Pacific typhoon season, Typhoon Rammasun (Glenda), China_
+_Context: China, Typhoon Rammasun (Glenda), Philippines, 2014 Pacific typhoon season_
 
 ##### RIMPAC
 ### [For the first time in RIMPAC's history a nation (China) sent a surveillance vessel while also participating in the naval exercises.](/news/2014/07/20/for-the-first-time-in-rimpac-s-history-a-nation-china-sent-a-surveillance-vessel-while-also-participating-in-the-naval-exercises.md)
@@ -29,7 +29,7 @@ China has sent a spy ship to international waters off of Hawaii during a giant U
 
 ##### is now president
 ### [Election results indicate that the Governor of Jakarta Joko Widodo has been elected as the President of Indonesia. ](/news/2014/07/20/election-results-indicate-that-the-governor-of-jakarta-joko-widodo-has-been-elected-as-the-president-of-indonesia.md)
-_Context: Joko Widodo, President of Indonesia, Governor, is now president_
+_Context: is now president, Governor, Joko Widodo, President of Indonesia_
 
 ## [Previous Day...](/news/2014/07/19/index.md)
 

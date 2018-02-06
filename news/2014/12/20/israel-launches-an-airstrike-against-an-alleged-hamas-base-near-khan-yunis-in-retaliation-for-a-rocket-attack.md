@@ -17,7 +17,7 @@ Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israeli-palestinian-conflict-israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attac.md) _2017-08-27 03:41:40 (First version)_
+1. [Israeli-Palestinian conflict: Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israeli-palestinian-conflict-israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attac.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attack.md) _(Current version)_
 
 ### Related:

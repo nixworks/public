@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-command
 
 ### Changes:
 
-1. [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for "moral and behavioral violations." Human Rights Watch, contacted by Eshtewi's family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-amoral-and-behavioral-violations-a-human-rights-watch-conta.md) _2017-08-25 03:44:29 (First version)_
-2. [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for -moral and behavioral violations.- Human Rights Watch, contacted by Eshtewi-s family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-moral-and-behavioral-violations-human-rights-watch-contact.md) _2017-08-27 03:44:51 (Update)_
+1. [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for -moral and behavioral violations.- Human Rights Watch, contacted by Eshtewi-s family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-moral-and-behavioral-violations-human-rights-watch-contact.md) _2018-02-06 13:49:28 (First version)_
+2. [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for "moral and behavioral violations." Human Rights Watch, contacted by Eshtewi's family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-amoral-and-behavioral-violations-a-human-rights-watch-conta.md) _2018-02-06 13:49:28 (Update)_
 2. [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for "moral and behavioral violations." Human Rights Watch, contacted by Eshtewi's family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-amoral-and-behavioral-violations-a-human-rights-watch-contact.md) _(Current version)_
 
 ### Related:

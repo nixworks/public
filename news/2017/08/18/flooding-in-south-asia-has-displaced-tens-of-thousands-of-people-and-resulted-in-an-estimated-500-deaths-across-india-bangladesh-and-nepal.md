@@ -16,7 +16,7 @@ The Red Cross says the floods are becoming one of the worst regional humanitaria
 
 ### Changes:
 
-1. [August 2017 Nepal and India floods: Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/august-2017-nepal-and-india-floods-flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths.md) _2017-08-27 03:48:49 (First version)_
+1. [August 2017 Nepal and India floods: Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/august-2017-nepal-and-india-floods-flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths.md) _2018-02-06 13:49:31 (First version)_
 1. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _(Current version)_
 
 ### Related:

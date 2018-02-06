@@ -15,8 +15,8 @@ The 7.3 earthquake struck the Iraqi side of the border, but has caused widesprea
 
 ### Changes:
 
-1. [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4000-injured-the-death-toll-is-expected-to-rise-further-in-comi.md) _2017-11-13 19:30:05 (First version)_
-2. [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4-000-injured-the-death-toll-is-expected-to-rise-further-in-com.md) _2017-11-13 22:30:05 (Update)_
+1. [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4000-injured-the-death-toll-is-expected-to-rise-further-in-comi.md) _2018-02-06 13:49:31 (First version)_
+2. [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4-000-injured-the-death-toll-is-expected-to-rise-further-in-com.md) _2018-02-06 13:49:31 (Update)_
 2. [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md) _(Current version)_
 
 ### Related:

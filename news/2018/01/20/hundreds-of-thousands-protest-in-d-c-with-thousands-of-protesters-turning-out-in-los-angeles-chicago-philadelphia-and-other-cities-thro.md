@@ -17,8 +17,8 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 
 ### Changes:
 
-1. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, and throughout the United States in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-and-throughout.md) _2018-01-21 23:30:07 (First version)_
-2. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, Italy, and in other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-italy-and-in-o.md) _2018-01-22 23:30:06 (Update)_
+1. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, Italy, and in other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-italy-and-in-o.md) _2018-02-06 13:49:31 (First version)_
+2. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, and throughout the United States in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-and-throughout.md) _2018-02-06 13:49:31 (Update)_
 2. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world in cities such as Rome, Italy internationally, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md) _(Current version)_
 
 ### Related:

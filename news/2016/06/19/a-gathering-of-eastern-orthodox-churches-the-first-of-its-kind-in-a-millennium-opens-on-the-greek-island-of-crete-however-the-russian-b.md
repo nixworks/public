@@ -16,7 +16,7 @@ An historic gathering of Orthodox Churches opens on the Greek island of Crete, d
 
 ### Changes:
 
-1. [Pan-Orthodox Council: A gathering of Eastern Orthodox Churches, the first of its kind in a millennium, opens on the Greek island of Crete. However, the Russian, Bulgarian, Georgian and the Greek Orthodox Church of Antioch refused to attend after a dispute. The gathering will last until June 27. ](/news/2016/06/19/pan-orthodox-council-a-gathering-of-eastern-orthodox-churches-the-first-of-its-kind-in-a-millennium-opens-on-the-greek-island-of-crete-h.md) _2017-08-27 03:46:18 (First version)_
+1. [Pan-Orthodox Council: A gathering of Eastern Orthodox Churches, the first of its kind in a millennium, opens on the Greek island of Crete. However, the Russian, Bulgarian, Georgian and the Greek Orthodox Church of Antioch refused to attend after a dispute. The gathering will last until June 27. ](/news/2016/06/19/pan-orthodox-council-a-gathering-of-eastern-orthodox-churches-the-first-of-its-kind-in-a-millennium-opens-on-the-greek-island-of-crete-h.md) _2018-02-06 13:49:29 (First version)_
 1. [A gathering of Eastern Orthodox Churches, the first of its kind in a millennium, opens on the Greek island of Crete. However, the Russian, Bulgarian, Georgian and the Greek Orthodox Church of Antioch refused to attend after a dispute. The gathering will last until June 27. ](/news/2016/06/19/a-gathering-of-eastern-orthodox-churches-the-first-of-its-kind-in-a-millennium-opens-on-the-greek-island-of-crete-however-the-russian-b.md) _(Current version)_
 
 ### Related:

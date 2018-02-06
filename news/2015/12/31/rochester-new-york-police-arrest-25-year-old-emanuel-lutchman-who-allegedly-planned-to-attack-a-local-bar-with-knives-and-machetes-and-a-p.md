@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/31/rochester-new-york-police-arrest-25-year-old-em
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Rochester, New York, police arrest 25-year-old Emanuel Lutchman who allegedly planned to attack a local bar with knives and machetes and a pressure cooker bomb to prove he was worthy of joining the Islamic State group. Rochester cancels New Year's Eve fireworks. ](/news/2015/12/31/islamic-state-of-iraq-and-the-levant-rochester-new-york-police-arrest-25-year-old-emanuel-lutchman-who-allegedly-planned-to-attack-a-loca.md) _2017-08-27 03:44:34 (First version)_
+1. [Islamic State of Iraq and the Levant: Rochester, New York, police arrest 25-year-old Emanuel Lutchman who allegedly planned to attack a local bar with knives and machetes and a pressure cooker bomb to prove he was worthy of joining the Islamic State group. Rochester cancels New Year's Eve fireworks. ](/news/2015/12/31/islamic-state-of-iraq-and-the-levant-rochester-new-york-police-arrest-25-year-old-emanuel-lutchman-who-allegedly-planned-to-attack-a-loca.md) _2018-02-06 13:49:28 (First version)_
 1. [Rochester, New York, police arrest 25-year-old Emanuel Lutchman who allegedly planned to attack a local bar with knives and machetes and a pressure cooker bomb to prove he was worthy of joining the Islamic State group. Rochester cancels New Year's Eve fireworks. ](/news/2015/12/31/rochester-new-york-police-arrest-25-year-old-emanuel-lutchman-who-allegedly-planned-to-attack-a-local-bar-with-knives-and-machetes-and-a-p.md) _(Current version)_
 
 ### Related:

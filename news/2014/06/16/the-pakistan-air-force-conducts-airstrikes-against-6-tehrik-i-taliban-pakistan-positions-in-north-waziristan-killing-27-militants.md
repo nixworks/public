@@ -16,8 +16,8 @@ The Pakistani military command said it had attacked six targets in the Shawal Va
 
 ### Changes:
 
-1. [War in North-West Pakistan:The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/war-in-north-west-pakistan-pthe-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-ki.md) _2017-08-25 03:40:34 (First version)_
-2. [War in North-West Pakistan:: The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/war-in-north-west-pakistan-the-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-k.md) _2017-08-27 03:40:52 (Update)_
+1. [War in North-West Pakistan:: The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/war-in-north-west-pakistan-the-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-k.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/war-in-north-west-pakistan-pthe-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-ki.md) _2018-02-06 13:49:26 (Update)_
 2. [The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/the-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-killing-27-militants.md) _(Current version)_
 
 ### Related:

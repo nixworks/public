@@ -20,5 +20,5 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ### Changes:
 
-1. [ MV "Arctic Sea": A ransom demand is made for the missing ship. ](/news/2009/08/15/mv-arctic-sea-a-ransom-demand-is-made-for-the-missing-ship.md) _2017-08-27 03:25:22 (First version)_
+1. [ MV "Arctic Sea": A ransom demand is made for the missing ship. ](/news/2009/08/15/mv-arctic-sea-a-ransom-demand-is-made-for-the-missing-ship.md) _2018-02-06 13:49:19 (First version)_
 1. [ A ransom demand is made for the missing ship. ](/news/2009/08/15/a-ransom-demand-is-made-for-the-missing-ship.md) _(Current version)_

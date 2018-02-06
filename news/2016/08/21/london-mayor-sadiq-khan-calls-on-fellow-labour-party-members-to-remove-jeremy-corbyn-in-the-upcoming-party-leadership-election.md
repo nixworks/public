@@ -17,7 +17,7 @@ London mayor throws weight behind challenger Owen Smith, after condemning party 
 
 ### Changes:
 
-1. [Labour Party (UK) leadership election, 2016: London Mayor Sadiq Khan calls on fellow Labour Party members to remove Jeremy Corbyn in the upcoming party leadership election. ](/news/2016/08/21/labour-party-uk-leadership-election-2016-london-mayor-sadiq-khan-calls-on-fellow-labour-party-members-to-remove-jeremy-corbyn-in-the-upc.md) _2017-08-27 03:46:41 (First version)_
+1. [Labour Party (UK) leadership election, 2016: London Mayor Sadiq Khan calls on fellow Labour Party members to remove Jeremy Corbyn in the upcoming party leadership election. ](/news/2016/08/21/labour-party-uk-leadership-election-2016-london-mayor-sadiq-khan-calls-on-fellow-labour-party-members-to-remove-jeremy-corbyn-in-the-upc.md) _2018-02-06 13:49:29 (First version)_
 1. [London Mayor Sadiq Khan calls on fellow Labour Party members to remove Jeremy Corbyn in the upcoming party leadership election. ](/news/2016/08/21/london-mayor-sadiq-khan-calls-on-fellow-labour-party-members-to-remove-jeremy-corbyn-in-the-upcoming-party-leadership-election.md) _(Current version)_
 
 ### Related:

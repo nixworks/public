@@ -21,7 +21,7 @@ Greg Gianforte, the Republican candidate for a special House election in Montana
 
 ### Changes:
 
-1. [Voters in Montana pick between Republican Greg Gianforte and Democrat Rob Quist in electing for a seat in the U.S. Congress. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-electing-for-a-seat-in-the-u-s-congress.md) _2017-05-25 16:30:07 (First version)_
+1. [Voters in Montana pick between Republican Greg Gianforte and Democrat Rob Quist in electing for a seat in the U.S. Congress. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-electing-for-a-seat-in-the-u-s-congress.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in Montana pick between Republican Greg Gianforte and Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-the-special-congressional-election-to-replace-ryan-zinke.md) _(Current version)_
 
 ### Related:

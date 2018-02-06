@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/26/a-car-bomb-kills-at-least-20-in-mogadishu.html)
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A car bomb kills at least 20 in Mogadishu. ](/news/2016/11/26/war-in-somalia-2009-present-a-car-bomb-kills-at-least-20-in-mogadishu.md) _2017-08-27 03:47:18 (First version)_
+1. [War in Somalia (2009-present): A car bomb kills at least 20 in Mogadishu. ](/news/2016/11/26/war-in-somalia-2009-present-a-car-bomb-kills-at-least-20-in-mogadishu.md) _2018-02-06 13:49:29 (First version)_
 1. [ A car bomb kills at least 20 in Mogadishu. ](/news/2016/11/26/a-car-bomb-kills-at-least-20-in-mogadishu.md) _(Current version)_
 
 ### Related:

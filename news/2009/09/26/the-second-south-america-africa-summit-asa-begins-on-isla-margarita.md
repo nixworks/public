@@ -25,8 +25,8 @@ The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Ven
 
 ### Changes:
 
-1. [ Second South America-Africa Summit (ASA) on Isla Margarita: The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-p-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md) _2017-08-25 03:25:53 (First version)_
-2. [ Second South America-Africa Summit (ASA) on Isla Margarita:: The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md) _2017-08-27 03:25:46 (Update)_
+1. [ Second South America-Africa Summit (ASA) on Isla Margarita:: The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md) _2018-02-06 13:49:19 (First version)_
+2. [ Second South America-Africa Summit (ASA) on Isla Margarita: The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-p-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md) _2018-02-06 13:49:19 (Update)_
 2. [ The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md) _(Current version)_
 
 ### Related:

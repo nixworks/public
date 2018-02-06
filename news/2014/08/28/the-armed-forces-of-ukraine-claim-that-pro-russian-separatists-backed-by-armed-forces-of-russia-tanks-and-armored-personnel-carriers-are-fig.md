@@ -19,8 +19,8 @@ The UN Security Council is preparing to meet in emergency session on the growing
 
 ### Changes:
 
-1. [War in Donbass:The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/war-in-donbass-pthe-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel.md) _2017-08-25 03:40:54 (First version)_
-2. [War in Donbass:: The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/war-in-donbass-the-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel.md) _2017-08-27 03:41:13 (Update)_
+1. [War in Donbass:: The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/war-in-donbass-the-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/war-in-donbass-pthe-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel.md) _2018-02-06 13:49:26 (Update)_
 2. [The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/the-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel-carriers-are-fig.md) _(Current version)_
 
 ### Related:

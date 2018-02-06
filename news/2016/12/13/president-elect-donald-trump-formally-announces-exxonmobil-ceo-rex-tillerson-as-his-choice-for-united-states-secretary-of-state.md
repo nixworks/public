@@ -18,7 +18,7 @@ A top energy executive with strong ties to Russia is lined up as US secretary of
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump formally announces ExxonMobil CEO Rex Tillerson as his choice for United States Secretary of State. ](/news/2016/12/13/presidential-transition-of-donald-trump-president-elect-donald-trump-formally-announces-exxonmobil-ceo-rex-tillerson-as-his-choice-for-unit.md) _2017-08-27 03:47:27 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump formally announces ExxonMobil CEO Rex Tillerson as his choice for United States Secretary of State. ](/news/2016/12/13/presidential-transition-of-donald-trump-president-elect-donald-trump-formally-announces-exxonmobil-ceo-rex-tillerson-as-his-choice-for-unit.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect Donald Trump formally announces ExxonMobil CEO Rex Tillerson as his choice for United States Secretary of State. ](/news/2016/12/13/president-elect-donald-trump-formally-announces-exxonmobil-ceo-rex-tillerson-as-his-choice-for-united-states-secretary-of-state.md) _(Current version)_
 
 ### Related:

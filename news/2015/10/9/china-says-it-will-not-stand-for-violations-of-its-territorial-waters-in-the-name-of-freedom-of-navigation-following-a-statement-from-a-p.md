@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/9/china-says-it-will-not-stand-for-violations-of-i
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: China says it will "not stand for violations of its territorial waters in the name of freedom of navigation", following a statement from a Pentagon official, that the U.S. may consider sailing warships close to China's disputed artificial islands in the South China Sea within the next two weeks. ](/news/2015/10/9/territorial-disputes-in-the-south-china-sea-china-says-it-will-not-stand-for-violations-of-its-territorial-waters-in-the-name-of-freedom-o.md) _2017-08-27 03:43:17 (First version)_
+1. [Territorial disputes in the South China Sea: China says it will "not stand for violations of its territorial waters in the name of freedom of navigation", following a statement from a Pentagon official, that the U.S. may consider sailing warships close to China's disputed artificial islands in the South China Sea within the next two weeks. ](/news/2015/10/9/territorial-disputes-in-the-south-china-sea-china-says-it-will-not-stand-for-violations-of-its-territorial-waters-in-the-name-of-freedom-o.md) _2018-02-06 13:49:28 (First version)_
 1. [China says it will "not stand for violations of its territorial waters in the name of freedom of navigation", following a statement from a Pentagon official, that the U.S. may consider sailing warships close to China's disputed artificial islands in the South China Sea within the next two weeks. ](/news/2015/10/9/china-says-it-will-not-stand-for-violations-of-its-territorial-waters-in-the-name-of-freedom-of-navigation-following-a-statement-from-a-p.md) _(Current version)_
 
 ### Related:

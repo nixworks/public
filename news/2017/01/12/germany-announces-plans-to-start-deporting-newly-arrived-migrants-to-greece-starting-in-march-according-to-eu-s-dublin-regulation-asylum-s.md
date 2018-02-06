@@ -15,7 +15,7 @@ Berlin to begin returning newly arrived asylum seekers to Greece after five-year
 
 ### Changes:
 
-1. [European migrant crisis: Germany announces plans to start deporting newly-arrived migrants to Greece starting in March. According to EU's Dublin Regulation, asylum seekers must file for asylum in the member state they arrived in. ](/news/2017/01/12/european-migrant-crisis-germany-announces-plans-to-start-deporting-newly-arrived-migrants-to-greece-starting-in-march-according-to-eu-s-du.md) _2017-08-27 03:47:36 (First version)_
+1. [European migrant crisis: Germany announces plans to start deporting newly-arrived migrants to Greece starting in March. According to EU's Dublin Regulation, asylum seekers must file for asylum in the member state they arrived in. ](/news/2017/01/12/european-migrant-crisis-germany-announces-plans-to-start-deporting-newly-arrived-migrants-to-greece-starting-in-march-according-to-eu-s-du.md) _2018-02-06 13:49:30 (First version)_
 1. [Germany announces plans to start deporting newly-arrived migrants to Greece starting in March. According to EU's Dublin Regulation, asylum seekers must file for asylum in the member state they arrived in. ](/news/2017/01/12/germany-announces-plans-to-start-deporting-newly-arrived-migrants-to-greece-starting-in-march-according-to-eu-s-dublin-regulation-asylum-s.md) _(Current version)_
 
 ### Related:

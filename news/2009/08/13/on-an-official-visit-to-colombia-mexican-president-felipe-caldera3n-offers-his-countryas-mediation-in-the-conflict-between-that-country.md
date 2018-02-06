@@ -16,7 +16,7 @@ Mexican president Felipe Calder&oacute;n on an official visit to Colombia offere
 
 ### Changes:
 
-1. [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country-s mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-country-s-mediation-in-the-conflict-between-that-country.md) _2017-08-27 03:25:21 (First version)_
+1. [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country-s mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-country-s-mediation-in-the-conflict-between-that-country.md) _2018-02-06 13:49:19 (First version)_
 1. [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country's mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-countryas-mediation-in-the-conflict-between-that-country.md) _(Current version)_
 
 ### Related:

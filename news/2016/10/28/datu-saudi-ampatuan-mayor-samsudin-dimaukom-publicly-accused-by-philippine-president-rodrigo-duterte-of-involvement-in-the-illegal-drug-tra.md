@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/10/28/datu-saudi-ampatuan-mayor-samsudin-dimaukom-pub
 
 ### Changes:
 
-1. [Philippine Drug War: Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/philippine-drug-war-datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in.md) _2017-08-27 03:47:08 (First version)_
+1. [Philippine Drug War: Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/philippine-drug-war-datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in.md) _2018-02-06 13:49:29 (First version)_
 1. [Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in-the-illegal-drug-tra.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Florida health officials are investigating four cases of the Zika virus that are
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/2015-16-zika-virus-epidemic-four-florida-residents-may-have-been-infected-by-the-virus-locally.md) _2017-08-27 03:46:33 (First version)_
+1. [2015-16 Zika virus epidemic: Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/2015-16-zika-virus-epidemic-four-florida-residents-may-have-been-infected-by-the-virus-locally.md) _2018-02-06 13:49:29 (First version)_
 1. [Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/four-florida-residents-may-have-been-infected-by-the-virus-locally.md) _(Current version)_
 
 ### Related:

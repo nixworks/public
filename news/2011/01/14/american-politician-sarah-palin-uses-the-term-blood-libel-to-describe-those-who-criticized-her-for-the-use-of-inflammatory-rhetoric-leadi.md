@@ -19,8 +19,8 @@ Sarah Palin was straining to look presidential. With the Stars and Stripes at he
 
 ### Changes:
 
-1. [2011 Tucson shooting:American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/2011-tucson-shooting-pamerican-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-inflam.md) _2017-08-25 03:31:46 (First version)_
-2. [2011 Tucson shooting:: American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/2011-tucson-shooting-american-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-infla.md) _2017-08-27 03:31:55 (Update)_
+1. [2011 Tucson shooting:American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/2011-tucson-shooting-pamerican-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-inflam.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Tucson shooting:: American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/2011-tucson-shooting-american-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-infla.md) _2018-02-06 13:49:21 (Update)_
 2. [American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/american-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-inflammatory-rhetoric-leadi.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-
 
 ### Changes:
 
-1. [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6-3-6-2-to-win-her-fourth-wimbledon-women-s-singles-title.md) _2017-08-27 03:28:33 (First version)_
+1. [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6-3-6-2-to-win-her-fourth-wimbledon-women-s-singles-title.md) _2018-02-06 13:49:20 (First version)_
 1. [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-win-her-fourth-wimbledon-women-s-singles-title.md) _(Current version)_
 
 ### Related:

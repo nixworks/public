@@ -16,7 +16,7 @@ Emergency warnings for fires burning at Somerville, on the Mornington Peninsula 
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: Emergency warnings are issued after bushfires threaten the Victorian towns of Mount Bolton and Addington northwest of Ballarat as well as the town of Somerville, Victoria, on the Mornington Peninsula. ](/news/2016/02/23/2015-16-australian-bushfire-season-emergency-warnings-are-issued-after-bushfires-threaten-the-victorian-towns-of-mount-bolton-and-addingt.md) _2017-08-27 03:45:00 (First version)_
+1. [2015-16 Australian bushfire season: Emergency warnings are issued after bushfires threaten the Victorian towns of Mount Bolton and Addington northwest of Ballarat as well as the town of Somerville, Victoria, on the Mornington Peninsula. ](/news/2016/02/23/2015-16-australian-bushfire-season-emergency-warnings-are-issued-after-bushfires-threaten-the-victorian-towns-of-mount-bolton-and-addingt.md) _2018-02-06 13:49:28 (First version)_
 1. [Emergency warnings are issued after bushfires threaten the Victorian towns of Mount Bolton and Addington northwest of Ballarat as well as the town of Somerville, Victoria, on the Mornington Peninsula. ](/news/2016/02/23/emergency-warnings-are-issued-after-bushfires-threaten-the-victorian-towns-of-mount-bolton-and-addington-northwest-of-ballarat-as-well-as-th.md) _(Current version)_
 
 ### Related:

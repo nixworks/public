@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/9/a-lights-on-bill-to-resume-normal-government-ope
 
 ### Changes:
 
-1. [ A "lights on" bill to resume normal government operation is approved in Minnesota. The Minnesota Legislature now has until July 14 to approve a budget. ](/news/2005/07/9/a-lights-on-bill-to-resume-normal-government-operation-is-approved-in-minnesota-the-minnesota-legislature-now-has-until-july-14-to-appr.md) _2017-08-25 03:16:30 (First version)_
+1. [ A "lights on" bill to resume normal government operation is approved in Minnesota. The Minnesota Legislature now has until July 14 to approve a budget. ](/news/2005/07/9/a-lights-on-bill-to-resume-normal-government-operation-is-approved-in-minnesota-the-minnesota-legislature-now-has-until-july-14-to-appr.md) _2018-02-06 13:49:16 (First version)_
 1. [ A "lights on" bill to resume normal government operation is approved in Minnesota. The Minnesota Legislature now has until July 14 to approve a budget. ](/news/2005/07/9/a-lights-on-bill-to-resume-normal-government-operation-is-approved-in-minnesota-the-minnesota-legislature-now-has-until-july-14-to-appro.md) _(Current version)_
 
 ### Related:

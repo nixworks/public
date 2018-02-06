@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/28/scottish-american-comedian-craig-ferguson-annou
 
 ### Changes:
 
-1. [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show ''The Late Late Show'', effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-decemb.md) _2017-08-25 03:40:21 (First version)_
+1. [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show ''The Late Late Show'', effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-decemb.md) _2018-02-06 13:49:26 (First version)_
 1. [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show "The Late Late Show", effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-december.md) _(Current version)_
 
 ### Related:

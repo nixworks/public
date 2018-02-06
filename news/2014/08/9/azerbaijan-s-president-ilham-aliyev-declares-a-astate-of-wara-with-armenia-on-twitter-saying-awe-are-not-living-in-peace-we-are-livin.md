@@ -16,8 +16,8 @@ The President of Azerbaijan has said in a highly militant series of messages tha
 
 ### Changes:
 
-1. [Nagorno-Karabakh conflict:Azerbaijan's President Ilham Aliyev declares a 'state of war' with Armenia on Twitter saying "We are not living in peace, we are living in a state of war". ](/news/2014/08/9/nagorno-karabakh-conflict-pazerbaijan-s-president-ilham-aliyev-declares-a-astate-of-wara-with-armenia-on-twitter-saying-awe-are-not-li.md) _2017-08-25 03:40:49 (First version)_
-2. [Nagorno-Karabakh conflict:: Azerbaijan's President Ilham Aliyev declares a -state of war- with Armenia on Twitter saying -We are not living in peace, we are living in a state of war". ](/news/2014/08/9/nagorno-karabakh-conflict-azerbaijan-s-president-ilham-aliyev-declares-a-state-of-war-with-armenia-on-twitter-saying-we-are-not-l.md) _2017-08-27 03:41:08 (Update)_
+1. [Nagorno-Karabakh conflict:Azerbaijan's President Ilham Aliyev declares a 'state of war' with Armenia on Twitter saying "We are not living in peace, we are living in a state of war". ](/news/2014/08/9/nagorno-karabakh-conflict-pazerbaijan-s-president-ilham-aliyev-declares-a-astate-of-wara-with-armenia-on-twitter-saying-awe-are-not-li.md) _2018-02-06 13:49:26 (First version)_
+2. [Nagorno-Karabakh conflict:: Azerbaijan's President Ilham Aliyev declares a -state of war- with Armenia on Twitter saying -We are not living in peace, we are living in a state of war". ](/news/2014/08/9/nagorno-karabakh-conflict-azerbaijan-s-president-ilham-aliyev-declares-a-state-of-war-with-armenia-on-twitter-saying-we-are-not-l.md) _2018-02-06 13:49:26 (Update)_
 2. [Azerbaijan's President Ilham Aliyev declares a 'state of war' with Armenia on Twitter saying "We are not living in peace, we are living in a state of war". ](/news/2014/08/9/azerbaijan-s-president-ilham-aliyev-declares-a-astate-of-wara-with-armenia-on-twitter-saying-awe-are-not-living-in-peace-we-are-livin.md) _(Current version)_
 
 ### Related:

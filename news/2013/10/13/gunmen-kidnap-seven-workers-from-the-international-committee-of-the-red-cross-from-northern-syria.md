@@ -17,8 +17,8 @@ Gunmen kidnapped a team of seven workers from the International Committee of the
 
 ### Changes:
 
-1. [Syrian civil war:Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/syrian-civil-war-pgunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md) _2017-08-25 03:39:23 (First version)_
-2. [Syrian civil war:: Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/syrian-civil-war-gunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md) _2017-08-27 03:39:40 (Update)_
+1. [Syrian civil war:Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/syrian-civil-war-pgunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/syrian-civil-war-gunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/gunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ IS group militants have overrun the headquarters of Kurdish forces defending the
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIL forces capture the headquarters of Kurdish forces defending the Syrian border town of Kobane with the United Nations warning of massacre. ](/news/2014/10/10/islamic-state-of-iraq-and-the-levant-isil-forces-capture-the-headquarters-of-kurdish-forces-defending-the-syrian-border-town-of-kobane-with.md) _2017-08-27 03:41:23 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIL forces capture the headquarters of Kurdish forces defending the Syrian border town of Kobane with the United Nations warning of massacre. ](/news/2014/10/10/islamic-state-of-iraq-and-the-levant-isil-forces-capture-the-headquarters-of-kurdish-forces-defending-the-syrian-border-town-of-kobane-with.md) _2018-02-06 13:49:26 (First version)_
 1. [ISIL forces capture the headquarters of Kurdish forces defending the Syrian border town of Kobane with the United Nations warning of massacre. ](/news/2014/10/10/isil-forces-capture-the-headquarters-of-kurdish-forces-defending-the-syrian-border-town-of-kobane-with-the-united-nations-warning-of-massacr.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-p
 
 ### Changes:
 
-1. [The ''Plastiki'', a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san.md) _2017-08-25 03:29:04 (First version)_
+1. [The ''Plastiki'', a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san.md) _2018-02-06 13:49:20 (First version)_
 1. [The "Plastiki", a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san-f.md) _(Current version)_
 
 ### Related:

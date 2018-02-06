@@ -16,7 +16,7 @@ The category two cyclone Victor appears to be slowly moving away from the northe
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: A tropical cyclone warning is issued for the northern Cook Islands as Tropical Cyclone Victor approaches. ](/news/2016/01/15/2015-16-south-pacific-cyclone-season-a-tropical-cyclone-warning-is-issued-for-the-northern-cook-islands-as-tropical-cyclone-victor-approa.md) _2017-08-27 03:44:41 (First version)_
+1. [2015-16 South Pacific cyclone season: A tropical cyclone warning is issued for the northern Cook Islands as Tropical Cyclone Victor approaches. ](/news/2016/01/15/2015-16-south-pacific-cyclone-season-a-tropical-cyclone-warning-is-issued-for-the-northern-cook-islands-as-tropical-cyclone-victor-approa.md) _2018-02-06 13:49:28 (First version)_
 1. [A tropical cyclone warning is issued for the northern Cook Islands as Tropical Cyclone Victor approaches. ](/news/2016/01/15/a-tropical-cyclone-warning-is-issued-for-the-northern-cook-islands-as-tropical-cyclone-victor-approaches.md) _(Current version)_
 
 ### Related:

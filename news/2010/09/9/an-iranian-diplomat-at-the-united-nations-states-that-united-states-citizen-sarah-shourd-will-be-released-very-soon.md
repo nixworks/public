@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states
 
 ### Changes:
 
-1. [Iran: An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/iran-an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md) _2017-08-27 03:30:00 (First version)_
+1. [Iran: An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/iran-an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md) _2018-02-06 13:49:20 (First version)_
 1. [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md) _(Current version)_
 
 ### Related:

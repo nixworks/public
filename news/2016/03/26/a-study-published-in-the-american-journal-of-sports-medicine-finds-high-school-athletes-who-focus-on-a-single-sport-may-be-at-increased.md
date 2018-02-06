@@ -16,7 +16,7 @@ High school athletes who focus on a single sport may be at increased risk for kn
 
 ### Changes:
 
-1. [A study, published in ''The American Journal of Sports Medicine'', finds high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-incre.md) _2017-08-25 03:45:01 (First version)_
+1. [A study, published in ''The American Journal of Sports Medicine'', finds high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-incre.md) _2018-02-06 13:49:28 (First version)_
 1. [A study, published in "The American Journal of Sports Medicine", finds high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-increased.md) _(Current version)_
 
 ### Related:

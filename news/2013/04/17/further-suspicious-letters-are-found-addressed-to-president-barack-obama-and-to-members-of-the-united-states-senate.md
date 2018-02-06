@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/04/17/further-suspicious-letters-are-found-addressed-
 
 ### Changes:
 
-1. [2013 ricin attacks:Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/2013-ricin-attacks-pfurther-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md) _2017-08-25 03:38:23 (First version)_
-2. [2013 ricin attacks:: Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/2013-ricin-attacks-further-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md) _2017-08-27 03:38:35 (Update)_
+1. [2013 ricin attacks:Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/2013-ricin-attacks-pfurther-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 ricin attacks:: Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/2013-ricin-attacks-further-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md) _2018-02-06 13:49:24 (Update)_
 2. [Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/further-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md) _(Current version)_
 
 ### Related:

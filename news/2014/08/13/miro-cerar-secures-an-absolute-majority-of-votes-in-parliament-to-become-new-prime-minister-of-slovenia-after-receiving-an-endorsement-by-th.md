@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/13/miro-cerar-secures-an-absolute-majority-of-vote
 
 ### Changes:
 
-1. [Slovenian parliamentary election, 2014: Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/slovenian-parliamentary-election-2014-miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slove.md) _2017-08-27 03:41:08 (First version)_
+1. [Slovenian parliamentary election, 2014: Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/slovenian-parliamentary-election-2014-miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slove.md) _2018-02-06 13:49:26 (First version)_
 1. [Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slovenia-after-receiving-an-endorsement-by-th.md) _(Current version)_
 
 ### Related:

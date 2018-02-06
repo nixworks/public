@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/12/49-people-have-been-killed-and-69-wounded-in-a-
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): 49 people have been killed and 69 wounded in a series of attacks across Iraq including attack by Iraqi security forces on insurgents in Anbar province. ](/news/2014/05/12/iraqi-insurgency-post-u-s-withdrawal-49-people-have-been-killed-and-69-wounded-in-a-series-of-attacks-across-iraq-including-attack-by-ir.md) _2017-08-27 03:40:41 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): 49 people have been killed and 69 wounded in a series of attacks across Iraq including attack by Iraqi security forces on insurgents in Anbar province. ](/news/2014/05/12/iraqi-insurgency-post-u-s-withdrawal-49-people-have-been-killed-and-69-wounded-in-a-series-of-attacks-across-iraq-including-attack-by-ir.md) _2018-02-06 13:49:26 (First version)_
 1. [49 people have been killed and 69 wounded in a series of attacks across Iraq including attack by Iraqi security forces on insurgents in Anbar province. ](/news/2014/05/12/49-people-have-been-killed-and-69-wounded-in-a-series-of-attacks-across-iraq-including-attack-by-iraqi-security-forces-on-insurgents-in-anba.md) _(Current version)_
 
 ### Related:

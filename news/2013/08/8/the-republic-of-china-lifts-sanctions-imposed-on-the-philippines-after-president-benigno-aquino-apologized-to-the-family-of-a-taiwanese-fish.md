@@ -16,7 +16,7 @@ Taiwan lifts sanctions imposed on the Philippines after Manila issued a formal a
 
 ### Changes:
 
-1. [The Republic of China lifts sanctions imposed on the Philippines after president Benigno Aquino apologized to the family of a Taiwanese fisherman shot dead in disputed waters. ](/news/2013/08/8/the-republic-of-china-lifts-sanctions-imposed-on-the-philippines-after-president-benigno-aquino-apologized-to-the-family-of-a-taiwanese-fis.md) _2017-08-25 03:39:07 (First version)_
+1. [The Republic of China lifts sanctions imposed on the Philippines after president Benigno Aquino apologized to the family of a Taiwanese fisherman shot dead in disputed waters. ](/news/2013/08/8/the-republic-of-china-lifts-sanctions-imposed-on-the-philippines-after-president-benigno-aquino-apologized-to-the-family-of-a-taiwanese-fis.md) _2018-02-06 13:49:25 (First version)_
 1. [The Republic of China lifts sanctions imposed on the Philippines after president Benigno Aquino apologized to the family of a Taiwanese fisherman shot dead in disputed waters. ](/news/2013/08/8/the-republic-of-china-lifts-sanctions-imposed-on-the-philippines-after-president-benigno-aquino-apologized-to-the-family-of-a-taiwanese-fish.md) _(Current version)_
 
 ### Related:

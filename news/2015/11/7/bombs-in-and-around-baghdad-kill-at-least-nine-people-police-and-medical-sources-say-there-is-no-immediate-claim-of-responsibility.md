@@ -16,7 +16,7 @@ Bombs in and around Baghdad killed at least nine people on Saturday, police and 
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Bombs in and around Baghdad kill at least nine people, police and medical sources say. There is no immediate claim of responsibility. ](/news/2015/11/7/iraqi-civil-war-2014-present-bombs-in-and-around-baghdad-kill-at-least-nine-people-police-and-medical-sources-say-there-is-no-immedia.md) _2017-08-27 03:43:43 (First version)_
+1. [Iraqi Civil War (2014-present): Bombs in and around Baghdad kill at least nine people, police and medical sources say. There is no immediate claim of responsibility. ](/news/2015/11/7/iraqi-civil-war-2014-present-bombs-in-and-around-baghdad-kill-at-least-nine-people-police-and-medical-sources-say-there-is-no-immedia.md) _2018-02-06 13:49:28 (First version)_
 1. [Bombs in and around Baghdad kill at least nine people, police and medical sources say. There is no immediate claim of responsibility. ](/news/2015/11/7/bombs-in-and-around-baghdad-kill-at-least-nine-people-police-and-medical-sources-say-there-is-no-immediate-claim-of-responsibility.md) _(Current version)_
 
 ### Related:

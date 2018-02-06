@@ -27,9 +27,9 @@ Freedom Flotilla changes course and slows down after Israeli navy ships flank it
 
 ### Changes:
 
-1. [Gaza flotilla clash: A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/gaza-flotilla-clash-pa-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft.md) _2017-05-25 03:29:04 (First version)_
-2. [Gaza flotilla clash:A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/gaza-flotilla-clash-pa-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-f.md) _2017-08-25 03:28:05 (Update)_
-3. [Gaza flotilla clash:: A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/gaza-flotilla-clash-a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft.md) _2017-08-27 03:28:04 (Update)_
+1. [Gaza flotilla clash: A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/gaza-flotilla-clash-pa-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft.md) _2018-02-06 13:49:20 (First version)_
+2. [Gaza flotilla clash:A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/gaza-flotilla-clash-pa-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-f.md) _2018-02-06 13:49:20 (Update)_
+3. [Gaza flotilla clash:: A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/gaza-flotilla-clash-a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft.md) _2018-02-06 13:49:20 (Update)_
 3. [A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-flies-overhead.md) _(Current version)_
 
 ### Related:

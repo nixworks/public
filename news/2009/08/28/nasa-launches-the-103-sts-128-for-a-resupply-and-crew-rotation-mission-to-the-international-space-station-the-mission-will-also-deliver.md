@@ -17,7 +17,7 @@ Space shuttle Discovery has launched on a mission to deliver new science equipme
 
 ### Changes:
 
-1. [ NASA launches the {{OV|103}} (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo. This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-ov-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-d.md) _2017-05-01 03:26:49 (First version)_
+1. [ NASA launches the {{OV|103}} (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo. This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-ov-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-d.md) _2018-02-06 13:49:19 (First version)_
 1. [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo. This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md) _(Current version)_
 
 ### Related:

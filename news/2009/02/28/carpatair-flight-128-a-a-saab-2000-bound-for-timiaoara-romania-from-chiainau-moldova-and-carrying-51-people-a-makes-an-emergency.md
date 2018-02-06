@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/28/carpatair-flight-128-a-a-saab-2000-bound-for-ti
 
 ### Changes:
 
-1. [ Carpatair Flight 128 - a Saab 2000 bound for Timisoara, Romania, from Chisinau, Moldova, and carrying 51 people - makes an emergency landing at Traian Vuia International Airport without its forward landing gear. ](/news/2009/02/28/carpatair-flight-128-a-saab-2000-bound-for-timiaoara-romania-from-chiainau-moldova-and-carrying-51-people-makes-an-emergency.md) _2017-08-27 03:23:49 (First version)_
+1. [ Carpatair Flight 128 - a Saab 2000 bound for Timisoara, Romania, from Chisinau, Moldova, and carrying 51 people - makes an emergency landing at Traian Vuia International Airport without its forward landing gear. ](/news/2009/02/28/carpatair-flight-128-a-saab-2000-bound-for-timiaoara-romania-from-chiainau-moldova-and-carrying-51-people-makes-an-emergency.md) _2018-02-06 13:49:18 (First version)_
 1. [ Carpatair Flight 128 - a Saab 2000 bound for Timisoara, Romania, from Chisinau, Moldova, and carrying 51 people - makes an emergency landing at Traian Vuia International Airport without its forward landing gear. ](/news/2009/02/28/carpatair-flight-128-a-a-saab-2000-bound-for-timiaoara-romania-from-chiainau-moldova-and-carrying-51-people-a-makes-an-emergency.md) _(Current version)_
 
 ### Related:

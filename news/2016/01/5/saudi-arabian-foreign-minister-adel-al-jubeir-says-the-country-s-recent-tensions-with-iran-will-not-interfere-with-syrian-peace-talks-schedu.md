@@ -17,8 +17,8 @@ Saudi Arabia signaled on Tuesday that the breach in its relations with Iran woul
 
 ### Changes:
 
-1. [Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-sched.md) _2017-08-25 03:44:15 (First version)_
-2. [Syrian Civil War: Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/syrian-civil-war-saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian.md) _2017-08-27 03:44:36 (Update)_
+1. [Syrian Civil War: Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/syrian-civil-war-saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian.md) _2018-02-06 13:49:28 (First version)_
+2. [Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-sched.md) _2018-02-06 13:49:28 (Update)_
 2. [Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-schedu.md) _(Current version)_
 
 ### Related:

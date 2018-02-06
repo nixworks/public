@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-ant
 
 ### Changes:
 
-1. [2017 Antwerp attack: A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/2017-antwerp-attack-a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-be.md) _2017-08-27 03:48:02 (First version)_
+1. [2017 Antwerp attack: A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/2017-antwerp-attack-a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-be.md) _2018-02-06 13:49:30 (First version)_
 1. [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/2/the-united-states-sends-an-additional-250-us-tro
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/iraqi-insurgency-2011-present-the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md) _2017-08-27 03:41:14 (First version)_
+1. [Iraqi insurgency (2011-present): The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/iraqi-insurgency-2011-present-the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/27/president-barack-obama-nominates-jeffrey-delaur
 
 ### Changes:
 
-1. [Cuba-United States relations: President Barack Obama nominates Jeffrey DeLaurentis as the first United States Ambassador to Cuba since 1961. ](/news/2016/09/27/cuba-united-states-relations-president-barack-obama-nominates-jeffrey-delaurentis-as-the-first-united-states-ambassador-to-cuba-since-196.md) _2017-08-27 03:46:55 (First version)_
+1. [Cuba-United States relations: President Barack Obama nominates Jeffrey DeLaurentis as the first United States Ambassador to Cuba since 1961. ](/news/2016/09/27/cuba-united-states-relations-president-barack-obama-nominates-jeffrey-delaurentis-as-the-first-united-states-ambassador-to-cuba-since-196.md) _2018-02-06 13:49:29 (First version)_
 1. [President Barack Obama nominates Jeffrey DeLaurentis as the first United States Ambassador to Cuba since 1961. ](/news/2016/09/27/president-barack-obama-nominates-jeffrey-delaurentis-as-the-first-united-states-ambassador-to-cuba-since-1961.md) _(Current version)_
 
 ### Related:

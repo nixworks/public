@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/2/armed-tribesmen-kill-18-houthi-fighters-in-an-am
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Armed tribesmen kill 18 Houthi fighters in an ambush in Yemen's Ibb Governorate. ](/news/2015/06/2/yemeni-civil-war-2015-armed-tribesmen-kill-18-houthi-fighters-in-an-ambush-in-yemen-s-ibb-governorate.md) _2017-08-27 03:42:27 (First version)_
+1. [Yemeni Civil War (2015): Armed tribesmen kill 18 Houthi fighters in an ambush in Yemen's Ibb Governorate. ](/news/2015/06/2/yemeni-civil-war-2015-armed-tribesmen-kill-18-houthi-fighters-in-an-ambush-in-yemen-s-ibb-governorate.md) _2018-02-06 13:49:27 (First version)_
 1. [Armed tribesmen kill 18 Houthi fighters in an ambush in Yemen's Ibb Governorate. ](/news/2015/06/2/armed-tribesmen-kill-18-houthi-fighters-in-an-ambush-in-yemen-s-ibb-governorate.md) _(Current version)_
 
 ### Related:

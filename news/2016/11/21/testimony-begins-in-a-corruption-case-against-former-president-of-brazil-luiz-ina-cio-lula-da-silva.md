@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-f
 
 ### Changes:
 
-1. [ Corruption investigation of Luiz Inacio Lula da Silva: Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/corruption-investigation-of-luiz-ina-cio-lula-da-silva-testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-c.md) _2017-08-27 03:47:16 (First version)_
+1. [ Corruption investigation of Luiz Inacio Lula da Silva: Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/corruption-investigation-of-luiz-ina-cio-lula-da-silva-testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md) _(Current version)_
 
 ### Related:

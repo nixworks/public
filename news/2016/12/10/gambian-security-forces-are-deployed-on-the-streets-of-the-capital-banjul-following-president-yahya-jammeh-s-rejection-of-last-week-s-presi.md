@@ -16,7 +16,7 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 
 ### Changes:
 
-1. [Aftermath of the Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/aftermath-of-the-gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of.md) _2017-08-25 03:47:01 (First version)_
+1. [Aftermath of the Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/aftermath-of-the-gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md) _(Current version)_
 
 ### Related:

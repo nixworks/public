@@ -16,8 +16,8 @@ Five Afghan policeman die in a US air strike during a battle with insurgents nea
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001apresent-pnato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fiv.md) _2017-08-25 03:39:05 (First version)_
-2. [War in Afghanistan (2001-present):: NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001-present-nato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fi.md) _2017-08-27 03:39:20 (Update)_
+1. [War in Afghanistan (2001-present):NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001apresent-pnato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fiv.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001-present-nato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fi.md) _2018-02-06 13:49:25 (Update)_
 2. [NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/nato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-five-afghan-policemen-and-injures-anothe.md) _(Current version)_
 
 ### Related:

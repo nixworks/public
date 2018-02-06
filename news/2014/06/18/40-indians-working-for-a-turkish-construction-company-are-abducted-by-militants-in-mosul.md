@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/18/40-indians-working-for-a-turkish-construction-c
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _2017-08-27 03:40:52 (First version)_
+1. [2014 Northern Iraq offensive: 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _2018-02-06 13:49:26 (First version)_
 1. [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/28/president-traedegae-ng-taocnyn-sang-of-vietnam-
 
 ### Changes:
 
-1. [President Truong Tan Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taoy-n-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-traff.md) _2017-08-25 03:42:38 (First version)_
+1. [President Truong Tan Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taoy-n-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-traff.md) _2018-02-06 13:49:27 (First version)_
 1. [President Truong TCNYn Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taocnyn-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-tra.md) _(Current version)_
 
 ### Related:

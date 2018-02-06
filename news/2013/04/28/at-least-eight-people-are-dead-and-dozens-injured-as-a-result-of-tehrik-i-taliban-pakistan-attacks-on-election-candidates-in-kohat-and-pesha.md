@@ -16,8 +16,8 @@ The attacks, mostly by the Taliban, added to a growing toll of militant violence
 
 ### Changes:
 
-1. [War in North-West Pakistan:At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/war-in-north-west-pakistan-pat-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election-c.md) _2017-08-25 03:38:30 (First version)_
-2. [War in North-West Pakistan:: At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/war-in-north-west-pakistan-at-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election.md) _2017-08-27 03:38:43 (Update)_
+1. [War in North-West Pakistan:At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/war-in-north-west-pakistan-pat-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election-c.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/war-in-north-west-pakistan-at-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election.md) _2018-02-06 13:49:24 (Update)_
 2. [At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/at-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election-candidates-in-kohat-and-pesha.md) _(Current version)_
 
 ### Related:

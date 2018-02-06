@@ -16,7 +16,7 @@ Parliament this evening approved the introduction of gay marriage through the ne
 
 ### Changes:
 
-1. [Recognition of same-sex unions in Malta: A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/recognition-of-same-sex-unions-in-malta-a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _2017-08-27 03:48:39 (First version)_
+1. [Recognition of same-sex unions in Malta: A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/recognition-of-same-sex-unions-in-malta-a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _2018-02-06 13:49:30 (First version)_
 1. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _(Current version)_
 
 ### Related:

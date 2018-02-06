@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-univers
 
 ### Changes:
 
-1. [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi-the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland-dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippi-the-woman-he-was-liv.md) _2017-08-27 03:43:03 (First version)_
+1. [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi-the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland-dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippi-the-woman-he-was-liv.md) _2018-02-06 13:49:27 (First version)_
 1. [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi--the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland--dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippiathe-woman-he-was-liv.md) _(Current version)_
 
 ### Related:

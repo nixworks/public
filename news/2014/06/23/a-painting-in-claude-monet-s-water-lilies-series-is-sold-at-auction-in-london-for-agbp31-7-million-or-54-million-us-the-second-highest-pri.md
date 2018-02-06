@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-serie
 
 ### Changes:
 
-1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for PS31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-aps31-7-million-or-54-million-us-the-second-highest-price.md) _2017-08-25 03:40:35 (First version)_
+1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for PS31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-aps31-7-million-or-54-million-us-the-second-highest-price.md) _2018-02-06 13:49:26 (First version)_
 1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for GBP31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Sunni militant group Jaish al-Adl claims responsibility for killing of guards in
 
 ### Changes:
 
-1. [Sistan and Baluchestan insurgency: At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/sistan-and-baluchestan-insurgency-at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-pro.md) _2017-08-27 03:48:14 (First version)_
+1. [Sistan and Baluchestan insurgency: At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/sistan-and-baluchestan-insurgency-at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-pro.md) _2018-02-06 13:49:30 (First version)_
 1. [At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-province-on-the-border-with-pakistan.md) _(Current version)_
 
 ### Related:

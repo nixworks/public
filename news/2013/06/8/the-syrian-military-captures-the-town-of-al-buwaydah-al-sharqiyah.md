@@ -16,8 +16,8 @@ The Syrian Army today retook the village of al-Buweida al-Sharqiya, north of al-
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-pthe-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _2017-08-25 03:38:48 (First version)_
-2. [Syrian civil war:: The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _2017-08-27 03:39:02 (Update)_
+1. [Syrian civil war:: The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-pthe-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md) _(Current version)_
 
 ### Related:

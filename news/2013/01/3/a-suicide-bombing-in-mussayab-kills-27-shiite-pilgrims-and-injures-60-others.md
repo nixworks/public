@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pi
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _2017-08-25 03:37:11 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _2017-08-27 03:37:21 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md) _(Current version)_
 
 ### Related:

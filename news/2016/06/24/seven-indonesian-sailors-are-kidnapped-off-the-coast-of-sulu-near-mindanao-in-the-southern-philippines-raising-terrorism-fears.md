@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-
 
 ### Changes:
 
-1. [Moro conflict: Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/moro-conflict-seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fear.md) _2017-08-27 03:46:19 (First version)_
+1. [Moro conflict: Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/moro-conflict-seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fear.md) _2018-02-06 13:49:29 (First version)_
 1. [Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fears.md) _(Current version)_
 
 ### Related:

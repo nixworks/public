@@ -16,8 +16,8 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 
 ### Changes:
 
-1. [According to the Turkish Army, its overnight air strike in Dargecit kills eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-kills-eleven-militants-from-the-kurdistan-workers-party.md) _2017-07-11 16:30:06 (First version)_
-2. [Kurdish-Turkish conflict (2015-present): According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/kurdish-turkish-conflict-2015-present-according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-fr.md) _2017-08-27 03:48:38 (Update)_
+1. [Kurdish-Turkish conflict (2015-present): According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/kurdish-turkish-conflict-2015-present-according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-fr.md) _2018-02-06 13:49:30 (First version)_
+2. [According to the Turkish Army, its overnight air strike in Dargecit kills eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-kills-eleven-militants-from-the-kurdistan-workers-party.md) _2018-02-06 13:49:30 (Update)_
 2. [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md) _(Current version)_
 
 ### Related:

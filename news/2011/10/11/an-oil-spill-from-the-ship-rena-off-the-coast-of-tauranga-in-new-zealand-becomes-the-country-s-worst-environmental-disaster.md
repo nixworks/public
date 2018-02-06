@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-o
 
 ### Changes:
 
-1. [An oil spill from the ship {{MV|Rena}} off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-mv-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md) _2017-05-01 03:36:41 (First version)_
+1. [An oil spill from the ship {{MV|Rena}} off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-mv-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md) _2018-02-06 13:49:22 (First version)_
 1. [An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md) _(Current version)_
 
 ### Related:

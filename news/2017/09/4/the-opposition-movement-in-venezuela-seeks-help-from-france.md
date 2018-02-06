@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-
 
 ### Changes:
 
-1. [The opposition movement seeks help from France. ](/news/2017/09/4/the-opposition-movement-seeks-help-from-france.md) _2017-09-05 13:30:05 (First version)_
+1. [The opposition movement seeks help from France. ](/news/2017/09/4/the-opposition-movement-seeks-help-from-france.md) _2018-02-06 13:49:31 (First version)_
 1. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _(Current version)_
 
 ### Related:

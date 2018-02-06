@@ -15,8 +15,8 @@ At least five die as Italian navy rescues 562 people, taking the total transferr
 
 ### Changes:
 
-1. [At least five die after their overcrowded, repurposed trawler capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people. ](/news/2016/05/25/at-least-five-die-after-their-overcrowded-repurposed-trawler-capsized-in-the-southern-mediterranean-sea-off-the-coast-of-libya-the-ital.md) _2017-08-25 03:45:45 (First version)_
-2. [European migrant crisis: At least five die after their overcrowded, repurposed trawler capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people. ](/news/2016/05/25/european-migrant-crisis-at-least-five-die-after-their-overcrowded-repurposed-trawler-capsized-in-the-southern-mediterranean-sea-off-the-co.md) _2017-08-27 03:46:08 (Update)_
+1. [European migrant crisis: At least five die after their overcrowded, repurposed trawler capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people. ](/news/2016/05/25/european-migrant-crisis-at-least-five-die-after-their-overcrowded-repurposed-trawler-capsized-in-the-southern-mediterranean-sea-off-the-co.md) _2018-02-06 13:49:29 (First version)_
+2. [At least five die after their overcrowded, repurposed trawler capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people. ](/news/2016/05/25/at-least-five-die-after-their-overcrowded-repurposed-trawler-capsized-in-the-southern-mediterranean-sea-off-the-coast-of-libya-the-ital.md) _2018-02-06 13:49:29 (Update)_
 2. [At least five die after their overcrowded, repurposed trawler capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people. ](/news/2016/05/25/at-least-five-die-after-their-overcrowded-repurposed-trawler-capsized-in-the-southern-mediterranean-sea-off-the-coast-of-libya-the-italian.md) _(Current version)_
 
 ### Related:

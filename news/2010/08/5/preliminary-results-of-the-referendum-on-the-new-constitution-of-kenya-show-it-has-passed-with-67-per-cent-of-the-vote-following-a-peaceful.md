@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/08/5/preliminary-results-of-the-referendum-on-the-new
 
 ### Changes:
 
-1. [Kenyan constitutional referendum, 2010:Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-ppreliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-pe.md) _2017-08-25 03:29:13 (First version)_
-2. [Kenyan constitutional referendum, 2010:: Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-preliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-p.md) _2017-08-27 03:29:14 (Update)_
+1. [Kenyan constitutional referendum, 2010:: Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-preliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-p.md) _2018-02-06 13:49:20 (First version)_
+2. [Kenyan constitutional referendum, 2010:Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-ppreliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-pe.md) _2018-02-06 13:49:20 (Update)_
 2. [Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/preliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-per-cent-of-the-vote-following-a-peaceful.md) _(Current version)_
 
 ### Related:

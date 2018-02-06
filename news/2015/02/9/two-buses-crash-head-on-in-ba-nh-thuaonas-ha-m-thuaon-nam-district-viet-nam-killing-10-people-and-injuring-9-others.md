@@ -16,7 +16,7 @@ All the victims die on the spot.
 
 ### Changes:
 
-1. [Two buses crash head-on in Binh Thuan-s Ham Thuan Nam District, Viet Nam, killing 10 people and injuring 9 others. ](/news/2015/02/9/two-buses-crash-head-on-in-ba-nh-thuaon-s-ha-m-thuaon-nam-district-viet-nam-killing-10-people-and-injuring-9-others.md) _2017-08-27 03:41:54 (First version)_
+1. [Two buses crash head-on in Binh Thuan-s Ham Thuan Nam District, Viet Nam, killing 10 people and injuring 9 others. ](/news/2015/02/9/two-buses-crash-head-on-in-ba-nh-thuaon-s-ha-m-thuaon-nam-district-viet-nam-killing-10-people-and-injuring-9-others.md) _2018-02-06 13:49:26 (First version)_
 1. [Two buses crash head-on in Binh Thuan's Ham Thuan Nam District, Viet Nam, killing 10 people and injuring 9 others. ](/news/2015/02/9/two-buses-crash-head-on-in-ba-nh-thuaonas-ha-m-thuaon-nam-district-viet-nam-killing-10-people-and-injuring-9-others.md) _(Current version)_
 
 ### Related:

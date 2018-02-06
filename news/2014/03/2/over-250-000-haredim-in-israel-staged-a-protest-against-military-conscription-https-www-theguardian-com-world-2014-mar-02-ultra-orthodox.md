@@ -11,5 +11,5 @@ Formats: [HTML](/news/2014/03/2/over-250-000-haredim-in-israel-staged-a-protest-
 
 ### Changes:
 
-1. [Over 250,000 Haredim in Israel staged a protest against military conscription. [http:--www.theguardian.com-world-2014-mar-02-ultra-orthodox-haredim-law-israel-military-exemption]](/news/2014/03/2/over-250-000-haredim-in-israel-staged-a-protest-against-military-conscription-http-www-theguardian-com-world-2014-mar-02-ultra-orthodox.md) _2017-10-17 03:46:37 (First version)_
+1. [Over 250,000 Haredim in Israel staged a protest against military conscription. [http:--www.theguardian.com-world-2014-mar-02-ultra-orthodox-haredim-law-israel-military-exemption]](/news/2014/03/2/over-250-000-haredim-in-israel-staged-a-protest-against-military-conscription-http-www-theguardian-com-world-2014-mar-02-ultra-orthodox.md) _2018-02-06 13:49:25 (First version)_
 1. [Over 250,000 Haredim in Israel staged a protest against military conscription. [https:--www.theguardian.com-world-2014-mar-02-ultra-orthodox-haredim-law-israel-military-exemption]](/news/2014/03/2/over-250-000-haredim-in-israel-staged-a-protest-against-military-conscription-https-www-theguardian-com-world-2014-mar-02-ultra-orthodox.md) _(Current version)_

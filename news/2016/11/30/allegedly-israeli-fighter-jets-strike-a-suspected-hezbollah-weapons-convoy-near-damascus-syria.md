@@ -17,7 +17,7 @@ Israeli jets fired two missiles from Lebanese airspace that struck near Damascus
 
 ### Changes:
 
-1. [Israel-Iran proxy conflict: Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/israel-iran-proxy-conflict-allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _2017-08-27 03:47:20 (First version)_
+1. [Israel-Iran proxy conflict: Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/israel-iran-proxy-conflict-allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _2018-02-06 13:49:29 (First version)_
 1. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _(Current version)_
 
 ### Related:

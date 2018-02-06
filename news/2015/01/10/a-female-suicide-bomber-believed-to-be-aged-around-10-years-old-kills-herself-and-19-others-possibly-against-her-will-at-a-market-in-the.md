@@ -17,7 +17,7 @@ A female suicide bomber killed herself and 19 other people at a market in northe
 
 ### Changes:
 
-1. [Boko Haram: A female suicide bomber, believed to be aged around 10 years old, kills herself and 19 others, possibly against her will, at a market in the northeastern city of Maiduguri, Nigeria. ](/news/2015/01/10/boko-haram-a-female-suicide-bomber-believed-to-be-aged-around-10-years-old-kills-herself-and-19-others-possibly-against-her-will-at-a-m.md) _2017-08-27 03:41:46 (First version)_
+1. [Boko Haram: A female suicide bomber, believed to be aged around 10 years old, kills herself and 19 others, possibly against her will, at a market in the northeastern city of Maiduguri, Nigeria. ](/news/2015/01/10/boko-haram-a-female-suicide-bomber-believed-to-be-aged-around-10-years-old-kills-herself-and-19-others-possibly-against-her-will-at-a-m.md) _2018-02-06 13:49:26 (First version)_
 1. [A female suicide bomber, believed to be aged around 10 years old, kills herself and 19 others, possibly against her will, at a market in the northeastern city of Maiduguri, Nigeria. ](/news/2015/01/10/a-female-suicide-bomber-believed-to-be-aged-around-10-years-old-kills-herself-and-19-others-possibly-against-her-will-at-a-market-in-the.md) _(Current version)_
 
 ### Related:

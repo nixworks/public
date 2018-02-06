@@ -11,7 +11,7 @@ Formats: [HTML](/news/2001/07/23/honduras-defeats-brazil-in-a-soccer-match-by-fi
 
 ### Changes:
 
-1. [ Honduras defeats Brazil in a soccer match by final result of 2-0.](/news/2001/07/23/honduras-defeats-brazil-in-a-soccer-match-by-final-result-of-2-0.md) _2017-08-27 03:15:10 (First version)_
+1. [ Honduras defeats Brazil in a soccer match by final result of 2-0.](/news/2001/07/23/honduras-defeats-brazil-in-a-soccer-match-by-final-result-of-2-0.md) _2018-02-06 13:49:15 (First version)_
 1. [ Honduras defeats Brazil in a soccer match by final result of 2-0.](/news/2001/07/23/honduras-defeats-brazil-in-a-soccer-match-by-final-result-of-2a0.md) _(Current version)_
 
 ### Related:

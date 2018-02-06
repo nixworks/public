@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/7/north-korea-test-fires-a-new-ultra-precision-int
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-dep.md) _2017-08-27 03:41:53 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-dep.md) _2018-02-06 13:49:26 (First version)_
 1. [North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-deployed-across-its-navy.md) _(Current version)_
 
 ### Related:

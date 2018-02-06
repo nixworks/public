@@ -17,7 +17,7 @@ Families cry foul as Hamas pulls down houses saying they were built on governmen
 
 ### Changes:
 
-1. [Gaza: More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/gaza-more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafa.md) _2017-08-27 03:28:33 (First version)_
+1. [Gaza: More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/gaza-more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafa.md) _2018-02-06 13:49:20 (First version)_
 1. [More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafah-bord.md) _(Current version)_
 
 ### Related:

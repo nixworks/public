@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/15/air-berlin-germany-s-second-largest-airline-fil
 
 ### Changes:
 
-1. [Airlines of Germany: Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/airlines-of-germany-air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-bas.md) _2017-08-27 03:48:48 (First version)_
+1. [Airlines of Germany: Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/airlines-of-germany-air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-bas.md) _2018-02-06 13:49:31 (First version)_
 1. [Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-based-etihad-airways-ch.md) _(Current version)_
 
 ### Related:

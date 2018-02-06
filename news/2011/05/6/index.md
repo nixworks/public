@@ -33,7 +33,7 @@ Following is an abridged version of the text of the statement issued by Al Qaeda
 
 ##### Paul McCartney
 ### [British musician Sir Paul McCartney gets engaged to American businesswoman Nancy Shevell. ](/news/2011/05/6/british-musician-sir-paul-mccartney-gets-engaged-to-american-businesswoman-nancy-shevell.md)
-_Context: engaged, Paul McCartney_
+_Context: Paul McCartney, engaged_
 
 ##### Montana
 ### [Two Montana residents sue American author Greg Mortenson and his Central Asia Institute for alleged fabrications in his book "Three Cups of Tea". ](/news/2011/05/6/two-montana-residents-sue-american-author-greg-mortenson-and-his-central-asia-institute-for-alleged-fabrications-in-his-book-three-cups-of.md)
@@ -41,7 +41,7 @@ Lawsuit alleges Greg Mortenson, his charity committed fraud by inducing 2 lawmak
 
 ##### CNET
 ### [CNET reports that a group of computer hackers is planning another cyberattack against Sony over its handling of the PlayStation Network outage. ](/news/2011/05/6/cnet-reports-that-a-group-of-computer-hackers-is-planning-another-cyberattack-against-sony-over-its-handling-of-the-playstation-network-outa.md)
-_Context: cyberattack, Sony, PlayStation Network outage, CNET, hacker_
+_Context: Sony, hacker, cyberattack, CNET, PlayStation Network outage_
 
 ##### Spring 2011 Mississippi River Floods
 ### [The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri-due-to-heavy-flooding.md)
@@ -49,15 +49,15 @@ Historic flooding forced the U.S. Coast Guard to shut down commercial traffic on
 
 ##### Japanese Prime Minister
 ### [Japanese Prime Minister Naoto Kan orders the closing of the ageing Hamaoka nuclear power plant in a densely populated area southwest of Tokyo because it is located close to a tectonic fault line. ](/news/2011/05/6/japanese-prime-minister-naoto-kan-orders-the-closing-of-the-ageing-hamaoka-nuclear-power-plant-in-a-densely-populated-area-southwest-of-toky.md)
-_Context: Japanese Prime Minister, tectonic, Hamaoka Nuclear Power Plant, Naoto Kan_
+_Context: Hamaoka Nuclear Power Plant, Japanese Prime Minister, Naoto Kan, tectonic_
 
 ##### Russia
 ### [Russia launches an urgent rescue mission after the nuclear-powered icebreaker Taymyr in its fleet develops a nuclear leak in the frozen seas of the Arctic and was forced to abandon its mission. ](/news/2011/05/6/russia-launches-an-urgent-rescue-mission-after-the-nuclear-powered-icebreaker-taymyr-in-its-fleet-develops-a-nuclear-leak-in-the-frozen-seas.md)
-_Context: Russia, Taymyr, fleet, nuclear-powered icebreaker, Arctic_
+_Context: fleet, Russia, Arctic, Taymyr, nuclear-powered icebreaker_
 
 ##### Sabinas
 ### [Rescuers recover a seventh body from inside a coal mine near Sabinas, Mexico, more than three days after an explosion there; seven remaining miners trapped inside are presumed dead. ](/news/2011/05/6/rescuers-recover-a-seventh-body-from-inside-a-coal-mine-near-sabinas-mexico-more-than-three-days-after-an-explosion-there-seven-remaining.md)
-_Context: Mexico, Sabinas_
+_Context: Sabinas, Mexico_
 
 ##### Spain
 ### [Spanish maritime rescue services look for 22 would-be immigrants missing after their boat capsized south of Spain. ](/news/2011/05/6/spanish-maritime-rescue-services-look-for-22-would-be-immigrants-missing-after-their-boat-capsized-south-of-spain.md)
@@ -69,15 +69,15 @@ _Context: time zone, Samoa_
 
 ##### Burma
 ### [Burma formally applies to take over the rotating chairmanship of ASEAN in 2014. ](/news/2011/05/6/burma-formally-applies-to-take-over-the-rotating-chairmanship-of-asean-in-2014.md)
-_Context: Burma, ASEAN_
+_Context: ASEAN, Burma_
 
 ##### China
 ### [The People's Republic of China, Kyrgyzstan and Tajikistan hold an antiterrorism drill in Xinjiang. ](/news/2011/05/6/the-people-s-republic-of-china-kyrgyzstan-and-tajikistan-hold-an-antiterrorism-drill-in-xinjiang.md)
-_Context: Xinjiang, Kyrgyzstan, China, Tajikistan_
+_Context: Tajikistan, Kyrgyzstan, China, Xinjiang_
 
 ##### Russia
 ### [A court in Russia sentences ultranationalist Nikita Tikhonov to life imprisonment for the murder of human rights lawyer Stanislav Markelov and journalist Anastasia Baburova in 2009. ](/news/2011/05/6/a-court-in-russia-sentences-ultranationalist-nikita-tikhonov-to-life-imprisonment-for-the-murder-of-human-rights-lawyer-stanislav-markelov-a.md)
-_Context: Stanislav Markelov, Russia, Nikita Tikhonov, Anastasia Baburova_
+_Context: Stanislav Markelov, Anastasia Baburova, Nikita Tikhonov, Russia_
 
 ##### baseball
 ### [Former US baseball player Lenny Dykstra is indicted on 13 counts of bankruptcy fraud. ](/news/2011/05/6/former-us-baseball-player-lenny-dykstra-is-indicted-on-13-counts-of-bankruptcy-fraud.md)
@@ -117,15 +117,15 @@ Verification of votes is under way at eight centres across Northern Ireland, in 
 
 ##### Alternative Vote referendum
 ### [Voters reject proposals to introduce the alternative voting system in the UK. ](/news/2011/05/6/voters-reject-proposals-to-introduce-the-alternative-voting-system-in-the-uk.md)
-_Context: alternative voting, Alternative Vote referendum_
+_Context: Alternative Vote referendum, alternative voting_
 
 ##### Labour Party
 ### [Labour candidate Jon Ashworth wins the Leicester South by-election. ](/news/2011/05/6/labour-candidate-jon-ashworth-wins-the-leicester-south-by-election.md)
-_Context: Labour Party, Jon Ashworth, Leicester South by-election_
+_Context: Jon Ashworth, Labour Party, Leicester South by-election_
 
 ##### Thai Prime Minister
 ### [Thai Prime Minister Abhisit Vejjajiva seeks King Bhumibol Adulyadej's endorsement to dissolve the lower house of parliament and calls for a national election. ](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.md)
-_Context: Thai Prime Minister, King, Bhumibol Adulyadej, Abhisit Vejjajiva_
+_Context: Bhumibol Adulyadej, King, Thai Prime Minister, Abhisit Vejjajiva_
 
 ## [Previous Day...](/news/2011/05/5/index.md)
 

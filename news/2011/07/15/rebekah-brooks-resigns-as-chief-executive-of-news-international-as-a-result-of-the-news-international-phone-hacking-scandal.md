@@ -30,8 +30,8 @@ News&#x20;International&#x20;chief&#x20;Rebekah&#x20;Brooks&#x20;resigned&#x20;F
 
 ### Changes:
 
-1. [News International phone hacking scandal:Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/news-international-phone-hacking-scandal-prebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-internatio.md) _2017-08-25 03:33:47 (First version)_
-2. [News International phone hacking scandal:: Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/news-international-phone-hacking-scandal-rebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-internati.md) _2017-08-27 03:33:54 (Update)_
+1. [News International phone hacking scandal:: Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/news-international-phone-hacking-scandal-rebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-internati.md) _2018-02-06 13:49:22 (First version)_
+2. [News International phone hacking scandal:Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/news-international-phone-hacking-scandal-prebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-internatio.md) _2018-02-06 13:49:22 (Update)_
 2. [Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/rebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-international-phone-hacking-scandal.md) _(Current version)_
 
 ### Related:

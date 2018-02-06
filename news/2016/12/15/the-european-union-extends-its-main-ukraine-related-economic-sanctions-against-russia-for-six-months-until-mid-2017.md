@@ -16,7 +16,7 @@ European Union leaders agreed on Thursday to extend economic sanctions against R
 
 ### Changes:
 
-1. [War in Donbass: The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/war-in-donbass-the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _2017-08-27 03:47:27 (First version)_
+1. [War in Donbass: The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/war-in-donbass-the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _2018-02-06 13:49:29 (First version)_
 1. [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _(Current version)_
 
 ### Related:

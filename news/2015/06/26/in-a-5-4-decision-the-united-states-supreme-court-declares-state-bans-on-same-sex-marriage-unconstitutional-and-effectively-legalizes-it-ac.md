@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/06/26/in-a-5-4-decision-the-united-states-supreme-cou
 
 ### Changes:
 
-1. [''Obergefell v. Hodges'':In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/obergefell-v-hodges-pin-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-e.md) _2017-08-25 03:42:18 (First version)_
-2. ["Obergefell v. Hodges":: In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/obergefell-v-hodges-in-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-ef.md) _2017-08-27 03:42:36 (Update)_
+1. [''Obergefell v. Hodges'':In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/obergefell-v-hodges-pin-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-e.md) _2018-02-06 13:49:27 (First version)_
+2. ["Obergefell v. Hodges":: In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/obergefell-v-hodges-in-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-ef.md) _2018-02-06 13:49:27 (Update)_
 2. [In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/in-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-effectively-legalizes-it-ac.md) _(Current version)_
 
 ### Related:

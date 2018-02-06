@@ -20,7 +20,7 @@ Formats: [HTML](/news/2017/03/2/the-syrian-army-and-its-allies-recapture-the-anc
 
 ### Changes:
 
-1. [Syrian Civil War: Palmyra offensive (2017): The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. ](/news/2017/03/2/syrian-civil-war-palmyra-offensive-2017-the-syrian-army-and-its-allies-recapture-the-ancient-city-of-palmyra-from-the-islamic-state-of-i.md) _2017-08-27 03:47:56 (First version)_
+1. [Syrian Civil War: Palmyra offensive (2017): The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. ](/news/2017/03/2/syrian-civil-war-palmyra-offensive-2017-the-syrian-army-and-its-allies-recapture-the-ancient-city-of-palmyra-from-the-islamic-state-of-i.md) _2018-02-06 13:49:30 (First version)_
 1. [The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. ](/news/2017/03/2/the-syrian-army-and-its-allies-recapture-the-ancient-city-of-palmyra-from-the-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

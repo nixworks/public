@@ -18,8 +18,8 @@ Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents 
 
 ### Changes:
 
-1. [2013 Egyptian coup d'etat:Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/2013-egyptian-coup-d-etat-pegypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitution.md) _2017-08-25 03:38:56 (First version)_
-2. [2013 Egyptian coup d'etat:: Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/2013-egyptian-coup-d-etat-egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutio.md) _2017-08-27 03:39:11 (Update)_
+1. [2013 Egyptian coup d'etat:Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/2013-egyptian-coup-d-etat-pegypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitution.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Egyptian coup d'etat:: Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/2013-egyptian-coup-d-etat-egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutio.md) _2018-02-06 13:49:25 (Update)_
 2. [Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutional-court-as-the-country-s.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/12/7/microsoft-loses-a-south-korean-antitrust-case-an
 
 ### Changes:
 
-1. [ Microsoft loses a South Korean antitrust case, and is fined -n32 billion (USD 32m). ](/news/2005/12/7/microsoft-loses-a-south-korean-antitrust-case-and-is-fined-c-n32-billion-usd-32m.md) _2017-08-27 03:17:13 (First version)_
+1. [ Microsoft loses a South Korean antitrust case, and is fined -n32 billion (USD 32m). ](/news/2005/12/7/microsoft-loses-a-south-korean-antitrust-case-and-is-fined-c-n32-billion-usd-32m.md) _2018-02-06 13:49:16 (First version)_
 1. [ Microsoft loses a South Korean antitrust case, and is fined Wn32 billion (USD 32m). ](/news/2005/12/7/microsoft-loses-a-south-korean-antitrust-case-and-is-fined-a-c-n32-billion-usd-32m.md) _(Current version)_
 
 ### Related:

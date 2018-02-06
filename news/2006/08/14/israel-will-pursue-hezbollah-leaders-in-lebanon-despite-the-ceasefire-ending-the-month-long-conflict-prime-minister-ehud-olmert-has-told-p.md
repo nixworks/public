@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/08/14/israel-will-pursue-hezbollah-leaders-in-lebanon
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/2006-israel-lebanon-conflict-p-israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime.md) _2017-08-25 03:18:11 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/2006-israel-lebanon-conflict-israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime.md) _2017-08-27 03:18:08 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/2006-israel-lebanon-conflict-p-israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/2006-israel-lebanon-conflict-israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime-minister-ehud-olmert-has-told-p.md) _(Current version)_
 
 ### Related:

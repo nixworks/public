@@ -17,7 +17,7 @@ Thousands of people who refused orders to evacuate were feared stranded in flatt
 
 ### Changes:
 
-1. [ Hurricane Ike: Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/hurricane-ike-authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _2017-08-27 03:22:46 (First version)_
+1. [ Hurricane Ike: Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/hurricane-ike-authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _2018-02-06 13:49:18 (First version)_
 1. [ Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _(Current version)_
 
 ### Related:

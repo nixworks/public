@@ -21,8 +21,8 @@ Thai anti-government protesters have blockaded and shut down a second Bangkok ai
 
 ### Changes:
 
-1. [ 2008 Thai political crisis: The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-p-the-government-declares-a-state-of-emergency-over-two-airports.md) _2017-08-25 03:23:14 (First version)_
-2. [ 2008 Thai political crisis:: The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-the-government-declares-a-state-of-emergency-over-two-airports.md) _2017-08-27 03:23:07 (Update)_
+1. [ 2008 Thai political crisis:: The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-the-government-declares-a-state-of-emergency-over-two-airports.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Thai political crisis: The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-p-the-government-declares-a-state-of-emergency-over-two-airports.md) _2018-02-06 13:49:18 (Update)_
 2. [ The government declares a state of emergency over two airports. ](/news/2008/11/27/the-government-declares-a-state-of-emergency-over-two-airports.md) _(Current version)_
 
 ### Related:

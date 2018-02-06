@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodur
 
 ### Changes:
 
-1. [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about 2,000 or $3,600) for blasphemy because of their 2003 exhibition ''Caution! Religion''. ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-ps2-000-or-3-600-for-blasphe.md) _2017-08-25 03:15:51 (First version)_
+1. [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about 2,000 or $3,600) for blasphemy because of their 2003 exhibition ''Caution! Religion''. ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-ps2-000-or-3-600-for-blasphe.md) _2018-02-06 13:49:16 (First version)_
 1. [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about GBP2,000 or $3,600) for blasphemy because of their 2003 exhibition "Caution! Religion". ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-gbp2-000-or-3-600-for-blasp.md) _(Current version)_
 
 ### Related:

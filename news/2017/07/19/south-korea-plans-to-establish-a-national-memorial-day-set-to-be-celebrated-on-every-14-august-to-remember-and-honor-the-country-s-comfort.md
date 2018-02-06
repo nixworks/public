@@ -16,5 +16,5 @@ Formats: [HTML](/news/2017/07/19/south-korea-plans-to-establish-a-national-memor
 
 ### Changes:
 
-1. [Comfort women: South Korea plans to establish a national memorial day (set to be celebrated on every 14 August) to remember and honor the country's comfort women victims. ](/news/2017/07/19/comfort-women-south-korea-plans-to-establish-a-national-memorial-day-set-to-be-celebrated-on-every-14-august-to-remember-and-honor-the-co.md) _2017-08-27 03:48:40 (First version)_
+1. [Comfort women: South Korea plans to establish a national memorial day (set to be celebrated on every 14 August) to remember and honor the country's comfort women victims. ](/news/2017/07/19/comfort-women-south-korea-plans-to-establish-a-national-memorial-day-set-to-be-celebrated-on-every-14-august-to-remember-and-honor-the-co.md) _2018-02-06 13:49:30 (First version)_
 1. [South Korea plans to establish a national memorial day (set to be celebrated on every 14 August) to remember and honor the country's comfort women victims. ](/news/2017/07/19/south-korea-plans-to-establish-a-national-memorial-day-set-to-be-celebrated-on-every-14-august-to-remember-and-honor-the-country-s-comfort.md) _(Current version)_

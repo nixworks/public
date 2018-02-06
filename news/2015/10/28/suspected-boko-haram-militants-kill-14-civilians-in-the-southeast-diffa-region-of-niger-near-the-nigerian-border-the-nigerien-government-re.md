@@ -16,7 +16,7 @@ Suspected Boko Haram militants killed at least 14 people in an overnight attack 
 
 ### Changes:
 
-1. [Boko Haram insurgency: Suspected Boko Haram militants kill 14 civilians in the southeast Diffa Region of Niger near the Nigerian border. The Nigerien government recently approved a law prolonging a 15-day state of emergency for the Diffa region by three months in a bid to boost security. ](/news/2015/10/28/boko-haram-insurgency-suspected-boko-haram-militants-kill-14-civilians-in-the-southeast-diffa-region-of-niger-near-the-nigerian-border-the.md) _2017-08-27 03:43:34 (First version)_
+1. [Boko Haram insurgency: Suspected Boko Haram militants kill 14 civilians in the southeast Diffa Region of Niger near the Nigerian border. The Nigerien government recently approved a law prolonging a 15-day state of emergency for the Diffa region by three months in a bid to boost security. ](/news/2015/10/28/boko-haram-insurgency-suspected-boko-haram-militants-kill-14-civilians-in-the-southeast-diffa-region-of-niger-near-the-nigerian-border-the.md) _2018-02-06 13:49:28 (First version)_
 1. [Suspected Boko Haram militants kill 14 civilians in the southeast Diffa Region of Niger near the Nigerian border. The Nigerien government recently approved a law prolonging a 15-day state of emergency for the Diffa region by three months in a bid to boost security. ](/news/2015/10/28/suspected-boko-haram-militants-kill-14-civilians-in-the-southeast-diffa-region-of-niger-near-the-nigerian-border-the-nigerien-government-re.md) _(Current version)_
 
 ### Related:

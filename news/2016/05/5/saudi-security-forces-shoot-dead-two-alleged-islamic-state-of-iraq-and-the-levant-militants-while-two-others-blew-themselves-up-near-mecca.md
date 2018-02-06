@@ -16,7 +16,7 @@ Saudi security forces shot dead two alleged Islamic State fighters and two other
 
 ### Changes:
 
-1. [Terrorism in Saudi Arabia: Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. ](/news/2016/05/5/terrorism-in-saudi-arabia-saudi-security-forces-shoot-dead-two-alleged-islamic-state-of-iraq-and-the-levant-militants-while-two-others-blew.md) _2017-08-27 03:45:59 (First version)_
+1. [Terrorism in Saudi Arabia: Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. ](/news/2016/05/5/terrorism-in-saudi-arabia-saudi-security-forces-shoot-dead-two-alleged-islamic-state-of-iraq-and-the-levant-militants-while-two-others-blew.md) _2018-02-06 13:49:29 (First version)_
 1. [Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. ](/news/2016/05/5/saudi-security-forces-shoot-dead-two-alleged-islamic-state-of-iraq-and-the-levant-militants-while-two-others-blew-themselves-up-near-mecca.md) _(Current version)_
 
 ### Related:

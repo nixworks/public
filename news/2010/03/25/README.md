@@ -5,15 +5,15 @@ Formats: [HTML](2010/03/25/index.html)  [JSON](2010/03/25/index.json)  [XML](201
 
 ##### Colombia
 ### [A car bomb killed at least 6 people and wounded more than 40 others in a Colombia's Buenaventura city notorious for cocaine trafficking. ](/news/2010/03/25/a-car-bomb-killed-at-least-6-people-and-wounded-more-than-40-others-in-a-colombia-s-buenaventura-city-notorious-for-cocaine-trafficking.md)
-_Context: cocaine, Buenaventura, Colombia_
+_Context: Colombia, Buenaventura, cocaine_
 
 ##### Rustam Minnikhanov
 ### [Rustam Minnikhanov is sworn in as the second president of Tatarstan. ](/news/2010/03/25/rustam-minnikhanov-is-sworn-in-as-the-second-president-of-tatarstan.md)
-_Context: Rustam Minnikhanov, Russian Republic of Tatarstan_
+_Context: Russian Republic of Tatarstan, Rustam Minnikhanov_
 
 ##### Pakistan
 ### [Pakistan's jet fighters pounds militants' hideouts in northwest Pakistan's Mamozai area, killing at least 48 people and injuring 32 others. ](/news/2010/03/25/pakistan-s-jet-fighters-pounds-militants-hideouts-in-northwest-pakistan-s-mamozai-area-killing-at-least-48-people-and-injuring-32-others.md)
-_Context: Mamozai, Pakistan_
+_Context: Pakistan, Mamozai_
 
 ##### Gaza Strip
 ### [A Gazan fisherman is critically wounded when the Israeli navy targets his fishing boat in an early morning attack. ](/news/2010/03/25/a-gazan-fisherman-is-critically-wounded-when-the-israeli-navy-targets-his-fishing-boat-in-an-early-morning-attack.md)
@@ -33,11 +33,11 @@ Mahmoud Zahar criticizes recent firing of rockets at Israel.
 
 ##### Mogadishu
 ### [500 homes near the airport in Mogadishu are demolished by Somali troops. ](/news/2010/03/25/500-homes-near-the-airport-in-mogadishu-are-demolished-by-somali-troops.md)
-_Context: Somalia, Mogadishu_
+_Context: Mogadishu, Somalia_
 
 ##### U.S. President
 ### [President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". ](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.md)
-_Context: Cuba, political prisoner, U.S. President, Barack Obama_
+_Context: Cuba, U.S. President, political prisoner, Barack Obama_
 
 ##### Tennessee
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)

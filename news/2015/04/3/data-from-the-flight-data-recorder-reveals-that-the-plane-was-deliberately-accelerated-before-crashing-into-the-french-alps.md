@@ -18,8 +18,8 @@ The pilot at the controls of a Germanwings jet that crashed in the French Alps a
 
 ### Changes:
 
-1. [Germanwings Flight 9525:Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/germanwings-flight-9525-pdata-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-fre.md) _2017-08-25 03:41:50 (First version)_
-2. [Germanwings Flight 9525:: Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/germanwings-flight-9525-data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-fr.md) _2017-08-27 03:42:09 (Update)_
+1. [Germanwings Flight 9525:Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/germanwings-flight-9525-pdata-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-fre.md) _2018-02-06 13:49:27 (First version)_
+2. [Germanwings Flight 9525:: Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/germanwings-flight-9525-data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-fr.md) _2018-02-06 13:49:27 (Update)_
 2. [Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-french-alps.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The United States sanctioned a Syrian businessman on Wednesday who it said was a
 
 ### Changes:
 
-1. [The U.S. Treasury Department sanctions Syrian businessman George Haswani who "serves as a middleman" for oil purchases by the Syrian government from the Islamic State of Iraq and the Levant. His company, an engineering and construction firm, is also sanctioned. ](/news/2015/11/25/the-u-s-treasury-department-sanctions-syrian-businessman-george-haswani-who-serves-as-a-middleman-for-oil-purchases-by-the-syrian-govern.md) _2017-08-25 03:43:43 (First version)_
+1. [The U.S. Treasury Department sanctions Syrian businessman George Haswani who "serves as a middleman" for oil purchases by the Syrian government from the Islamic State of Iraq and the Levant. His company, an engineering and construction firm, is also sanctioned. ](/news/2015/11/25/the-u-s-treasury-department-sanctions-syrian-businessman-george-haswani-who-serves-as-a-middleman-for-oil-purchases-by-the-syrian-govern.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Treasury Department sanctions Syrian businessman George Haswani who "serves as a middleman" for oil purchases by the Syrian government from the Islamic State of Iraq and the Levant. His company, an engineering and construction firm, is also sanctioned. ](/news/2015/11/25/the-u-s-treasury-department-sanctions-syrian-businessman-george-haswani-who-serves-as-a-middleman-for-oil-purchases-by-the-syrian-governm.md) _(Current version)_
 
 ### Related:

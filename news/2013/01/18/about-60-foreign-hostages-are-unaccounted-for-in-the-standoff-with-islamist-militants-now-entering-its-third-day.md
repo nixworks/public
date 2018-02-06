@@ -20,8 +20,8 @@ Hundreds of hostages have been freed from militants at a gas facility in Algeria
 
 ### Changes:
 
-1. [In Amenas hostage crisis:About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-pabout-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md) _2017-08-25 03:37:17 (First version)_
-2. [In Amenas hostage crisis:: About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-about-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md) _2017-08-27 03:37:27 (Update)_
+1. [In Amenas hostage crisis:About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-pabout-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md) _2018-02-06 13:49:24 (First version)_
+2. [In Amenas hostage crisis:: About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-about-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md) _2018-02-06 13:49:24 (Update)_
 2. [About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/about-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md) _(Current version)_
 
 ### Related:

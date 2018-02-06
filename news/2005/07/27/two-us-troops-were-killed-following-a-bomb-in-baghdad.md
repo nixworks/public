@@ -20,8 +20,8 @@ Formats: [HTML](/news/2005/07/27/two-us-troops-were-killed-following-a-bomb-in-b
 
 ### Changes:
 
-1. [ Conflict in Iraq: Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-p-two-us-troops-were-killed-following-a-bomb-in-baghdad.md) _2017-08-25 03:16:36 (First version)_
-2. [ Conflict in Iraq:: Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-two-us-troops-were-killed-following-a-bomb-in-baghdad.md) _2017-08-27 03:16:37 (Update)_
+1. [ Conflict in Iraq:: Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-two-us-troops-were-killed-following-a-bomb-in-baghdad.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq: Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-p-two-us-troops-were-killed-following-a-bomb-in-baghdad.md) _2018-02-06 13:49:16 (Update)_
 2. [ Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/two-us-troops-were-killed-following-a-bomb-in-baghdad.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Seven people are arrested in eastern Pakistan on suspicion of involvement in a w
 
 ### Changes:
 
-1. [Kasur child sexual abuse scandal: In a two year period, 280 to 300 children have been sexually abused and filmed doing forced sex acts in Pakistan by a gang consisting of 20 to 25 culprits. ](/news/2015/08/12/kasur-child-sexual-abuse-scandal-in-a-two-year-period-280-to-300-children-have-been-sexually-abused-and-filmed-doing-forced-sex-acts-in-pa.md) _2017-08-27 03:42:49 (First version)_
+1. [Kasur child sexual abuse scandal: In a two year period, 280 to 300 children have been sexually abused and filmed doing forced sex acts in Pakistan by a gang consisting of 20 to 25 culprits. ](/news/2015/08/12/kasur-child-sexual-abuse-scandal-in-a-two-year-period-280-to-300-children-have-been-sexually-abused-and-filmed-doing-forced-sex-acts-in-pa.md) _2018-02-06 13:49:27 (First version)_
 1. [In a two year period, 280 to 300 children have been sexually abused and filmed doing forced sex acts in Pakistan by a gang consisting of 20 to 25 culprits. ](/news/2015/08/12/in-a-two-year-period-280-to-300-children-have-been-sexually-abused-and-filmed-doing-forced-sex-acts-in-pakistan-by-a-gang-consisting-of-20.md) _(Current version)_
 
 ### Related:

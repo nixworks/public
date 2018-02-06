@@ -18,7 +18,7 @@ California Metrolink train derails, injuring 28, including the engineer, officia
 
 ### Changes:
 
-1. [2015 Oxnard train derailment: A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/2015-oxnard-train-derailment-a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injur.md) _2017-08-27 03:42:00 (First version)_
+1. [2015 Oxnard train derailment: A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/2015-oxnard-train-derailment-a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injur.md) _2018-02-06 13:49:26 (First version)_
 1. [A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injured-with-four-in-critical-condi.md) _(Current version)_
 
 ### Related:

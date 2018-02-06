@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national
 
 ### Changes:
 
-1. [Human rights in the Philippines; Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/human-rights-in-the-philippines-ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as.md) _2017-08-25 03:46:02 (First version)_
+1. [Human rights in the Philippines; Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/human-rights-in-the-philippines-ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as.md) _2018-02-06 13:49:29 (First version)_
 1. [Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as-president-and-made-statements-enc.md) _(Current version)_
 
 ### Related:

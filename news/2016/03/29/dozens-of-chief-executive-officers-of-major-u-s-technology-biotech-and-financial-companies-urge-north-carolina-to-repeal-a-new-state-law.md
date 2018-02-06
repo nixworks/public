@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/29/dozens-of-chief-executive-officers-of-major-u-s
 
 ### Changes:
 
-1. [Transgender rights in the United States: Dozens of chief executive officers of major U.S. technology, biotech, and financial companies urge North Carolina to repeal a new state law forcing transgender people to use rest-rooms and changing-rooms according to the gender on their birth-certificate.](/news/2016/03/29/transgender-rights-in-the-united-states-dozens-of-chief-executive-officers-of-major-u-s-technology-biotech-and-financial-companies-urge.md) _2017-08-27 03:45:24 (First version)_
+1. [Transgender rights in the United States: Dozens of chief executive officers of major U.S. technology, biotech, and financial companies urge North Carolina to repeal a new state law forcing transgender people to use rest-rooms and changing-rooms according to the gender on their birth-certificate.](/news/2016/03/29/transgender-rights-in-the-united-states-dozens-of-chief-executive-officers-of-major-u-s-technology-biotech-and-financial-companies-urge.md) _2018-02-06 13:49:28 (First version)_
 1. [Dozens of chief executive officers of major U.S. technology, biotech, and financial companies urge North Carolina to repeal a new state law forcing transgender people to use rest-rooms and changing-rooms according to the gender on their birth-certificate.](/news/2016/03/29/dozens-of-chief-executive-officers-of-major-u-s-technology-biotech-and-financial-companies-urge-north-carolina-to-repeal-a-new-state-law.md) _(Current version)_
 
 ### Related:

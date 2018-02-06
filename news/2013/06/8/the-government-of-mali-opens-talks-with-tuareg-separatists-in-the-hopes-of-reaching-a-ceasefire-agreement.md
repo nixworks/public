@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-s
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012apresent-pthe-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md) _2017-08-25 03:38:48 (First version)_
-2. [Northern Mali conflict (2012-present):: The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012-present-the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md) _2017-08-27 03:39:02 (Update)_
+1. [Northern Mali conflict (2012-present):The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012apresent-pthe-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md) _2018-02-06 13:49:25 (First version)_
+2. [Northern Mali conflict (2012-present):: The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012-present-the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md) _2018-02-06 13:49:25 (Update)_
 2. [The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-agreement.md) _(Current version)_
 
 ### Related:

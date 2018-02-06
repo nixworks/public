@@ -17,8 +17,8 @@ Tens of thousands of protesters join an anti-government march outside the Bahrai
 
 ### Changes:
 
-1. [Arab Spring:Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-ptens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md) _2017-08-25 03:35:14 (First version)_
-2. [Arab Spring:: Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md) _2017-08-27 03:35:24 (Update)_
+1. [Arab Spring:: Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-ptens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md) _2018-02-06 13:49:23 (Update)_
 2. [Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md) _(Current version)_
 
 ### Related:

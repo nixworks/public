@@ -16,7 +16,7 @@ The Croatian Democratic Union captured 61 seats, more than the rival Social Demo
 
 ### Changes:
 
-1. [Croatian parliamentary election, 2016: Voters in Croatia go to the polls for a parliamentary election with the conservative Croatian Democratic Union taking an early lead. ](/news/2016/09/11/croatian-parliamentary-election-2016-voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-the-conservative-croatian-democra.md) _2017-08-27 03:46:49 (First version)_
+1. [Croatian parliamentary election, 2016: Voters in Croatia go to the polls for a parliamentary election with the conservative Croatian Democratic Union taking an early lead. ](/news/2016/09/11/croatian-parliamentary-election-2016-voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-the-conservative-croatian-democra.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Croatia go to the polls for a parliamentary election with the conservative Croatian Democratic Union taking an early lead. ](/news/2016/09/11/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-the-conservative-croatian-democratic-union-taking-an-early-lead.md) _(Current version)_
 
 ### Related:

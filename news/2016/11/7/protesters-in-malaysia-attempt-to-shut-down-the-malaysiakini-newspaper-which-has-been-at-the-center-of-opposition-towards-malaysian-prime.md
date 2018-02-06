@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-
 
 ### Changes:
 
-1. [Protesters in Malaysia attempt to shut down the ''Malaysiakini'' newspaper which has been at the center of opposition towards Malaysian prime minister Najib Razak. ](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-malaysiakini-newspaper-which-has-been-at-the-center-of-opposition-towards-malaysian-prim.md) _2017-08-25 03:46:46 (First version)_
+1. [Protesters in Malaysia attempt to shut down the ''Malaysiakini'' newspaper which has been at the center of opposition towards Malaysian prime minister Najib Razak. ](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-malaysiakini-newspaper-which-has-been-at-the-center-of-opposition-towards-malaysian-prim.md) _2018-02-06 13:49:29 (First version)_
 1. [Protesters in Malaysia attempt to shut down the "Malaysiakini" newspaper which has been at the center of opposition towards Malaysian prime minister Najib Razak. ](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-malaysiakini-newspaper-which-has-been-at-the-center-of-opposition-towards-malaysian-prime.md) _(Current version)_
 
 ### Related:

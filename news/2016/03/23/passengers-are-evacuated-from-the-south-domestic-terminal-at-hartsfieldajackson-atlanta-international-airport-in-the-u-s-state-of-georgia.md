@@ -16,7 +16,7 @@ Atlanta police say passengers who were evacuated from a terminal at Atlanta&#39;
 
 ### Changes:
 
-1. [Passengers are evacuated from the south domestic terminal at Hartsfield-Jackson Atlanta International Airport in the U.S. state of Georgia after a suspicious package is found. The package is declared safe by a bomb squad. ](/news/2016/03/23/passengers-are-evacuated-from-the-south-domestic-terminal-at-hartsfield-jackson-atlanta-international-airport-in-the-u-s-state-of-georgia.md) _2017-08-27 03:45:21 (First version)_
+1. [Passengers are evacuated from the south domestic terminal at Hartsfield-Jackson Atlanta International Airport in the U.S. state of Georgia after a suspicious package is found. The package is declared safe by a bomb squad. ](/news/2016/03/23/passengers-are-evacuated-from-the-south-domestic-terminal-at-hartsfield-jackson-atlanta-international-airport-in-the-u-s-state-of-georgia.md) _2018-02-06 13:49:28 (First version)_
 1. [Passengers are evacuated from the south domestic terminal at Hartsfield-Jackson Atlanta International Airport in the U.S. state of Georgia after a suspicious package is found. The package is declared safe by a bomb squad. ](/news/2016/03/23/passengers-are-evacuated-from-the-south-domestic-terminal-at-hartsfieldajackson-atlanta-international-airport-in-the-u-s-state-of-georgia.md) _(Current version)_
 
 ### Related:

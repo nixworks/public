@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confed
 
 ### Changes:
 
-1. [Charleston church shooting: Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/charleston-church-shooting-amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _2017-08-27 03:42:34 (First version)_
+1. [Charleston church shooting: Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/charleston-church-shooting-amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _2018-02-06 13:49:27 (First version)_
 1. [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _(Current version)_
 
 ### Related:

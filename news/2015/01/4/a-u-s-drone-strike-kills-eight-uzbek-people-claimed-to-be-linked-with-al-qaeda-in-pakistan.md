@@ -17,8 +17,8 @@ A bomb targeting Shiite Muslims at a volleyball match killed at least four peopl
 
 ### Changes:
 
-1. [War in North-West Pakistan:A U.S. drone strike kills eight Uzbek people claimed to be linked with al-Qaeda in Pakistan. ](/news/2015/01/4/war-in-north-west-pakistan-pa-u-s-drone-strike-kills-eight-uzbek-people-claimed-to-be-linked-with-al-qaeda-in-pakistan.md) _2017-08-25 03:41:25 (First version)_
-2. [War in North-West Pakistan:: A U.S. drone strike kills eight Uzbek people claimed to be linked with al-Qaeda in Pakistan. ](/news/2015/01/4/war-in-north-west-pakistan-a-u-s-drone-strike-kills-eight-uzbek-people-claimed-to-be-linked-with-al-qaeda-in-pakistan.md) _2017-08-27 03:41:43 (Update)_
+1. [War in North-West Pakistan:A U.S. drone strike kills eight Uzbek people claimed to be linked with al-Qaeda in Pakistan. ](/news/2015/01/4/war-in-north-west-pakistan-pa-u-s-drone-strike-kills-eight-uzbek-people-claimed-to-be-linked-with-al-qaeda-in-pakistan.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: A U.S. drone strike kills eight Uzbek people claimed to be linked with al-Qaeda in Pakistan. ](/news/2015/01/4/war-in-north-west-pakistan-a-u-s-drone-strike-kills-eight-uzbek-people-claimed-to-be-linked-with-al-qaeda-in-pakistan.md) _2018-02-06 13:49:26 (Update)_
 2. [A U.S. drone strike kills eight Uzbek people claimed to be linked with al-Qaeda in Pakistan. ](/news/2015/01/4/a-u-s-drone-strike-kills-eight-uzbek-people-claimed-to-be-linked-with-al-qaeda-in-pakistan.md) _(Current version)_
 
 ### Related:

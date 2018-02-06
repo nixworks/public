@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-o
 
 ### Changes:
 
-1. [Iraq War (2014-present): ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/iraq-war-2014-present-isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md) _2017-08-27 03:42:50 (First version)_
+1. [Iraq War (2014-present): ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/iraq-war-2014-present-isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md) _2018-02-06 13:49:27 (First version)_
 1. [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md) _(Current version)_
 
 ### Related:

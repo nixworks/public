@@ -19,6 +19,6 @@ Formats: [HTML](/news/2011/07/1/activists-increase-their-guard-of-the-remaining-
 
 ### Changes:
 
-1. [Freedom Flotilla II:Activists increase their guard of the remaining boats bound for Gaza following the alleged sabotage of other boats. ](/news/2011/07/1/freedom-flotilla-ii-pactivists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.md) _2017-08-25 03:33:39 (First version)_
-2. [Freedom Flotilla II:: Activists increase their guard of the remaining boats bound for Gaza following the alleged sabotage of other boats. ](/news/2011/07/1/freedom-flotilla-ii-activists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.md) _2017-08-27 03:33:47 (Update)_
+1. [Freedom Flotilla II:Activists increase their guard of the remaining boats bound for Gaza following the alleged sabotage of other boats. ](/news/2011/07/1/freedom-flotilla-ii-pactivists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.md) _2018-02-06 13:49:22 (First version)_
+2. [Freedom Flotilla II:: Activists increase their guard of the remaining boats bound for Gaza following the alleged sabotage of other boats. ](/news/2011/07/1/freedom-flotilla-ii-activists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.md) _2018-02-06 13:49:22 (Update)_
 2. [Activists increase their guard of the remaining boats bound for Gaza following the alleged sabotage of other boats. ](/news/2011/07/1/activists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.md) _(Current version)_

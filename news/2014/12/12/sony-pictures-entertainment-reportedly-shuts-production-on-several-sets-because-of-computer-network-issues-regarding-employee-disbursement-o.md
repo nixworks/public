@@ -16,7 +16,7 @@ Sony Pictures has abandoned film shoots because hackers have crippled its comput
 
 ### Changes:
 
-1. [Sony Pictures Entertainment hack: Sony Pictures Entertainment reportedly shuts production on several sets because of computer network issues regarding employee disbursement of pay following a massive computer hack. ](/news/2014/12/12/sony-pictures-entertainment-hack-sony-pictures-entertainment-reportedly-shuts-production-on-several-sets-because-of-computer-network-issues.md) _2017-08-27 03:41:37 (First version)_
+1. [Sony Pictures Entertainment hack: Sony Pictures Entertainment reportedly shuts production on several sets because of computer network issues regarding employee disbursement of pay following a massive computer hack. ](/news/2014/12/12/sony-pictures-entertainment-hack-sony-pictures-entertainment-reportedly-shuts-production-on-several-sets-because-of-computer-network-issues.md) _2018-02-06 13:49:26 (First version)_
 1. [Sony Pictures Entertainment reportedly shuts production on several sets because of computer network issues regarding employee disbursement of pay following a massive computer hack. ](/news/2014/12/12/sony-pictures-entertainment-reportedly-shuts-production-on-several-sets-because-of-computer-network-issues-regarding-employee-disbursement-o.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/3/mv-princess-of-the-stars-disaster-the-board-of-m
 
 ### Changes:
 
-1. [ MV ''Princess of the Stars'' disaster: The Board of Marine Inquiry says that two of four ballast tanks were empty, leaving the ship unstable. ](/news/2008/07/3/mv-princess-of-the-stars-disaster-the-board-of-marine-inquiry-says-that-two-of-four-ballast-tanks-were-empty-leaving-the-ship-unstabl.md) _2017-08-25 03:22:31 (First version)_
+1. [ MV ''Princess of the Stars'' disaster: The Board of Marine Inquiry says that two of four ballast tanks were empty, leaving the ship unstable. ](/news/2008/07/3/mv-princess-of-the-stars-disaster-the-board-of-marine-inquiry-says-that-two-of-four-ballast-tanks-were-empty-leaving-the-ship-unstabl.md) _2018-02-06 13:49:18 (First version)_
 1. [ MV "Princess of the Stars" disaster: The Board of Marine Inquiry says that two of four ballast tanks were empty, leaving the ship unstable. ](/news/2008/07/3/mv-princess-of-the-stars-disaster-the-board-of-marine-inquiry-says-that-two-of-four-ballast-tanks-were-empty-leaving-the-ship-unstable.md) _(Current version)_
 
 ### Related:

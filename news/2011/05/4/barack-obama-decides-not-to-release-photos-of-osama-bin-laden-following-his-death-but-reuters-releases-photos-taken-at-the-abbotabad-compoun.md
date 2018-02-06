@@ -20,8 +20,8 @@ An official from a radical Palestinian Islamist party has used Islam&#039;s thir
 
 ### Changes:
 
-1. [Reactions to the death of Osama bin Laden:Barack Obama decides not to release photos of Osama bin Laden following his death but Reuters releases photos taken at the Abbotabad compound. ](/news/2011/05/4/reactions-to-the-death-of-osama-bin-laden-pbarack-obama-decides-not-to-release-photos-of-osama-bin-laden-following-his-death-but-reuters-rel.md) _2017-08-25 03:32:59 (First version)_
-2. [Reactions to the death of Osama bin Laden:: Barack Obama decides not to release photos of Osama bin Laden following his death but Reuters releases photos taken at the Abbotabad compound. ](/news/2011/05/4/reactions-to-the-death-of-osama-bin-laden-barack-obama-decides-not-to-release-photos-of-osama-bin-laden-following-his-death-but-reuters-re.md) _2017-08-27 03:33:08 (Update)_
+1. [Reactions to the death of Osama bin Laden:Barack Obama decides not to release photos of Osama bin Laden following his death but Reuters releases photos taken at the Abbotabad compound. ](/news/2011/05/4/reactions-to-the-death-of-osama-bin-laden-pbarack-obama-decides-not-to-release-photos-of-osama-bin-laden-following-his-death-but-reuters-rel.md) _2018-02-06 13:49:22 (First version)_
+2. [Reactions to the death of Osama bin Laden:: Barack Obama decides not to release photos of Osama bin Laden following his death but Reuters releases photos taken at the Abbotabad compound. ](/news/2011/05/4/reactions-to-the-death-of-osama-bin-laden-barack-obama-decides-not-to-release-photos-of-osama-bin-laden-following-his-death-but-reuters-re.md) _2018-02-06 13:49:22 (Update)_
 2. [Barack Obama decides not to release photos of Osama bin Laden following his death but Reuters releases photos taken at the Abbotabad compound. ](/news/2011/05/4/barack-obama-decides-not-to-release-photos-of-osama-bin-laden-following-his-death-but-reuters-releases-photos-taken-at-the-abbotabad-compoun.md) _(Current version)_
 
 ### Related:

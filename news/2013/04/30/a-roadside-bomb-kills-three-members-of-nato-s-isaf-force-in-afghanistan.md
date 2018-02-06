@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/30/a-roadside-bomb-kills-three-members-of-nato-s-i
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/war-in-afghanistan-2001apresent-pa-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md) _2017-08-25 03:38:31 (First version)_
-2. [War in Afghanistan (2001-present):: A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/war-in-afghanistan-2001-present-a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md) _2017-08-27 03:38:44 (Update)_
+1. [War in Afghanistan (2001-present):A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/war-in-afghanistan-2001apresent-pa-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/war-in-afghanistan-2001-present-a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md) _2018-02-06 13:49:24 (Update)_
 2. [A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md) _(Current version)_
 
 ### Related:

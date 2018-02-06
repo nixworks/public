@@ -16,7 +16,7 @@ The Chinese authorities did not detail the charges, saying only that the officia
 
 ### Changes:
 
-1. [Anti-corruption campaign in China: Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/anti-corruption-campaign-in-china-beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-inv.md) _2017-08-27 03:43:48 (First version)_
+1. [Anti-corruption campaign in China: Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/anti-corruption-campaign-in-china-beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-inv.md) _2018-02-06 13:49:28 (First version)_
 1. [ Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-investigation-by-the-top-anti-graft-b.md) _(Current version)_
 
 ### Related:

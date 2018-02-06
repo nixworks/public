@@ -17,8 +17,8 @@ The UN says at least 3,500 people have been killed in anti-government protests i
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/2011-syrian-uprising-pthe-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of.md) _2017-08-25 03:34:27 (First version)_
-2. [2011 Syrian uprising:: The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/2011-syrian-uprising-the-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of.md) _2017-08-27 03:34:36 (Update)_
+1. [2011 Syrian uprising:: The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/2011-syrian-uprising-the-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/2011-syrian-uprising-pthe-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/the-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of-civilians-in-the-proce.md) _(Current version)_
 
 ### Related:

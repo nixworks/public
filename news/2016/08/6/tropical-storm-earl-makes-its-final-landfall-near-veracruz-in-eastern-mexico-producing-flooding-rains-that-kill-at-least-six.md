@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/08/6/tropical-storm-earl-makes-its-final-landfall-nea
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/2016-atlantic-hurricane-season-tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that.md) _2017-08-27 03:46:37 (First version)_
+1. [2016 Atlantic hurricane season: Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/2016-atlantic-hurricane-season-tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that.md) _2018-02-06 13:49:29 (First version)_
 1. [Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that-kill-at-least-six.md) _(Current version)_
 
 ### Related:

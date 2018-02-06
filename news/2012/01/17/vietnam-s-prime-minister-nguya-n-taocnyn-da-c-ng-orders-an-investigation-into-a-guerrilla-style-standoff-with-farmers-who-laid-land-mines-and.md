@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/01/17/vietnam-s-prime-minister-nguya-n-taocnyn-da-c-n
 
 ### Changes:
 
-1. [Vietnam's Prime Minister Nguyen Tan Dung orders an investigation into a guerrilla-style standoff with farmers who laid land mines and firing improvised shotguns amid a land eviction. ](/news/2012/01/17/vietnam-s-prime-minister-nguya-n-taoy-n-da-c-ng-orders-an-investigation-into-a-guerrilla-style-standoff-with-farmers-who-laid-land-mines-and-f.md) _2017-08-25 03:34:51 (First version)_
+1. [Vietnam's Prime Minister Nguyen Tan Dung orders an investigation into a guerrilla-style standoff with farmers who laid land mines and firing improvised shotguns amid a land eviction. ](/news/2012/01/17/vietnam-s-prime-minister-nguya-n-taoy-n-da-c-ng-orders-an-investigation-into-a-guerrilla-style-standoff-with-farmers-who-laid-land-mines-and-f.md) _2018-02-06 13:49:23 (First version)_
 1. [Vietnam's Prime Minister Nguyen TCNYn Dung orders an investigation into a guerrilla-style standoff with farmers who laid land mines and firing improvised shotguns amid a land eviction. ](/news/2012/01/17/vietnam-s-prime-minister-nguya-n-taocnyn-da-c-ng-orders-an-investigation-into-a-guerrilla-style-standoff-with-farmers-who-laid-land-mines-and.md) _(Current version)_
 
 ### Related:

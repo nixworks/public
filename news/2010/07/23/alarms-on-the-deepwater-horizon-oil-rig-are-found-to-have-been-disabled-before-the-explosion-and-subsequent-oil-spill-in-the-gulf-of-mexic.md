@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-fou
 
 ### Changes:
 
-1. [Alarms on the ''Deepwater Horizon'' oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mex.md) _2017-08-25 03:29:01 (First version)_
+1. [Alarms on the ''Deepwater Horizon'' oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mex.md) _2018-02-06 13:49:20 (First version)_
 1. [Alarms on the "Deepwater Horizon" oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mexic.md) _(Current version)_
 
 ### Related:

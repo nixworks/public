@@ -17,7 +17,7 @@ YouTube says video-makers who damage the reputation of the site will face new co
 
 ### Changes:
 
-1. [YouTube announces that YouTubers who make 'egregious' content will be punished. Many YouTubers are opposed to it, citing censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-many-youtubers-are-opposed-to-it-citing-censorship.md) _2018-02-02 22:30:11 (First version)_
+1. [YouTube announces that YouTubers who make 'egregious' content will be punished. Many YouTubers are opposed to it, citing censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-many-youtubers-are-opposed-to-it-citing-censorship.md) _2018-02-06 13:49:31 (First version)_
 1. [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md) _(Current version)_
 
 ### Related:

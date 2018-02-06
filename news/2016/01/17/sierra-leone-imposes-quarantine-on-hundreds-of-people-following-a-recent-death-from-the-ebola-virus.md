@@ -16,7 +16,7 @@ Sierra Leone&#039;s Government announces that more than 100 people have been qua
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/ebola-virus-epidemic-in-west-africa-sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _2017-08-27 03:44:42 (First version)_
+1. [Ebola virus epidemic in West Africa: Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/ebola-virus-epidemic-in-west-africa-sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _2018-02-06 13:49:28 (First version)_
 1. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _(Current version)_
 
 ### Related:

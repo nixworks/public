@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/22/ivan-besedin-is-fired-as-the-head-of-the-moscow
 
 ### Changes:
 
-1. [2014 Moscow Metro derailment:Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/2014-moscow-metro-derailment-pivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md) _2017-08-25 03:40:43 (First version)_
-2. [2014 Moscow Metro derailment:: Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/2014-moscow-metro-derailment-ivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md) _2017-08-27 03:41:02 (Update)_
+1. [2014 Moscow Metro derailment:Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/2014-moscow-metro-derailment-pivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Moscow Metro derailment:: Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/2014-moscow-metro-derailment-ivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md) _2018-02-06 13:49:26 (Update)_
 2. [Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/ivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md) _(Current version)_
 
 ### Related:

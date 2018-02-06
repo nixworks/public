@@ -11,8 +11,8 @@ Formats: [HTML](/news/2002/10/22/canadian-author-yann-martel-won-the-booker-priz
 
 ### Changes:
 
-1. [ Canadian author Yann Martel won the Booker Prize for his "quirky fable" ''Life of Pi''. The prize is worth 50,000 ($77,300). Martel's work was picked from 130 novels from Britain, Ireland.](/news/2002/10/22/canadian-author-yann-martel-won-the-booker-prize-for-his-quirky-fable-life-of-pi-the-prize-is-worth-ps50-000-77-300-martel-s-work.md) _2017-08-25 03:15:15 (First version)_
-2. [ Canadian author Yann Martel won the Booker Prize for his "quirky fable" "Life of Pi". The prize is worth 50,000 ($77,300). Martel's work was picked from 130 novels from Britain, Ireland.](/news/2002/10/22/canadian-author-yann-martel-won-the-booker-prize-for-his-quirky-fable-life-of-pi-the-prize-is-worth-ps50-000-77-300-martel-s-work-w.md) _2017-08-25 11:43:43 (Update)_
+1. [ Canadian author Yann Martel won the Booker Prize for his "quirky fable" ''Life of Pi''. The prize is worth 50,000 ($77,300). Martel's work was picked from 130 novels from Britain, Ireland.](/news/2002/10/22/canadian-author-yann-martel-won-the-booker-prize-for-his-quirky-fable-life-of-pi-the-prize-is-worth-ps50-000-77-300-martel-s-work.md) _2018-02-06 13:49:15 (First version)_
+2. [ Canadian author Yann Martel won the Booker Prize for his "quirky fable" "Life of Pi". The prize is worth 50,000 ($77,300). Martel's work was picked from 130 novels from Britain, Ireland.](/news/2002/10/22/canadian-author-yann-martel-won-the-booker-prize-for-his-quirky-fable-life-of-pi-the-prize-is-worth-ps50-000-77-300-martel-s-work-w.md) _2018-02-06 13:49:15 (Update)_
 2. [ Canadian author Yann Martel won the Booker Prize for his "quirky fable" "Life of Pi". The prize is worth GBP50,000 ($77,300). Martel's work was picked from 130 novels from Britain, Ireland.](/news/2002/10/22/canadian-author-yann-martel-won-the-booker-prize-for-his-quirky-fable-life-of-pi-the-prize-is-worth-gbp50-000-77-300-martel-s-work.md) _(Current version)_
 
 ### Related:

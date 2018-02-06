@@ -16,7 +16,7 @@ A French soldier with the force that intervened in Mali has been killed by a roa
 
 ### Changes:
 
-1. [2012 Northern Mali conflict: A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/2012-northern-mali-conflict-a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md) _2017-08-27 03:38:43 (First version)_
+1. [2012 Northern Mali conflict: A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/2012-northern-mali-conflict-a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md) _2018-02-06 13:49:24 (First version)_
 1. [A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md) _(Current version)_
 
 ### Related:

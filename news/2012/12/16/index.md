@@ -13,7 +13,7 @@ The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing
 
 ##### Cyclone Evan
 ### [Cyclone Evan bears down on Fiji, disrupting international flights after leaving at least 4 people dead in Samoa with 8 others missing. ](/news/2012/12/16/cyclone-evan-bears-down-on-fiji-disrupting-international-flights-after-leaving-at-least-4-people-dead-in-samoa-with-8-others-missing.md)
-_Context: Samoa, Cyclone Evan, Fiji_
+_Context: Samoa, Fiji, Cyclone Evan_
 
 ##### Typhoon Bopha
 ### [Philippine authorities announce the death toll from Typhoon Bopha has reached 1,020. Another 844 are still missing, most of them fishermen lost on boats out at sea. More than two weeks after the passage of the storm, nearly 27,000 people remain in emergency shelters. ](/news/2012/12/16/philippine-authorities-announce-the-death-toll-from-typhoon-bopha-has-reached-1-020-another-844-are-still-missing-most-of-them-fishermen-l.md)
@@ -29,7 +29,7 @@ ECUADOR has issued an orange alert -- the second-highest warning level -- for to
 
 ##### Topeka
 ### [Two police officers are fatally shot outside a supermarket in Topeka, Kansas, USA. A 22-year-old man wanted in connection with crime, David Edward Tiscareno, is at large. ](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.md)
-_Context: at large, Kansas, Topeka, USA_
+_Context: at large, Topeka, USA, Kansas_
 
 ##### Japanese
 ### [Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by-former-prime-minister-shinza-ab.md)

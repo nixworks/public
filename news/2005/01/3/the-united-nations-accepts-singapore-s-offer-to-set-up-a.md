@@ -22,8 +22,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Changes:
 
-1. [ 2004 Indian Ocean earthquake and tsunami: The United Nations accepts Singapore's offer to set up a ](/news/2005/01/3/2004-indian-ocean-earthquake-and-tsunami-p-the-united-nations-accepts-singapore-s-offer-to-set-up-a.md) _2017-08-25 03:15:29 (First version)_
-2. [ 2004 Indian Ocean earthquake and tsunami:: The United Nations accepts Singapore's offer to set up a ](/news/2005/01/3/2004-indian-ocean-earthquake-and-tsunami-the-united-nations-accepts-singapore-s-offer-to-set-up-a.md) _2017-08-27 03:15:30 (Update)_
+1. [ 2004 Indian Ocean earthquake and tsunami:: The United Nations accepts Singapore's offer to set up a ](/news/2005/01/3/2004-indian-ocean-earthquake-and-tsunami-the-united-nations-accepts-singapore-s-offer-to-set-up-a.md) _2018-02-06 13:49:16 (First version)_
+2. [ 2004 Indian Ocean earthquake and tsunami: The United Nations accepts Singapore's offer to set up a ](/news/2005/01/3/2004-indian-ocean-earthquake-and-tsunami-p-the-united-nations-accepts-singapore-s-offer-to-set-up-a.md) _2018-02-06 13:49:16 (Update)_
 2. [ The United Nations accepts Singapore's offer to set up a ](/news/2005/01/3/the-united-nations-accepts-singapore-s-offer-to-set-up-a.md) _(Current version)_
 
 ### Related:

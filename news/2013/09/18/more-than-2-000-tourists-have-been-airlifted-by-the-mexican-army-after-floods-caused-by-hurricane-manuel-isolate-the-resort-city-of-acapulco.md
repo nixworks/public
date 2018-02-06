@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/09/18/more-than-2-000-tourists-have-been-airlifted-by
 
 ### Changes:
 
-1. [Hurricane Manuel:More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-pmore-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-resor.md) _2017-08-25 03:39:18 (First version)_
-2. [Hurricane Manuel:: More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-reso.md) _2017-08-27 03:39:34 (Update)_
+1. [Hurricane Manuel:More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-pmore-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-resor.md) _2018-02-06 13:49:25 (First version)_
+2. [Hurricane Manuel:: More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-reso.md) _2018-02-06 13:49:25 (Update)_
 2. [More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-resort-city-of-acapulco.md) _(Current version)_
 
 ### Related:

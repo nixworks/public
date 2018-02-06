@@ -17,8 +17,8 @@ A raging wildfire near the Los Alamos National Laboratory in New Mexico has prom
 
 ### Changes:
 
-1. [Las Conchas WildfireThe Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfirepthe-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-near.md) _2017-08-25 03:33:35 (First version)_
-2. [Las Conchas Wildfire: The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfire-the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nea.md) _2017-08-27 03:33:44 (Update)_
+1. [Las Conchas WildfireThe Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfirepthe-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-near.md) _2018-02-06 13:49:22 (First version)_
+2. [Las Conchas Wildfire: The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfire-the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nea.md) _2018-02-06 13:49:22 (Update)_
 2. [The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nearby.md) _(Current version)_
 
 ### Related:

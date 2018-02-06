@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/02/23/the-taliban-attack-an-afghan-armed-forces-base-
 
 ### Changes:
 
-1. [Taliban insurgency:The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/taliban-insurgency-pthe-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md) _2017-08-25 03:40:04 (First version)_
-2. [Taliban insurgency:: The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/taliban-insurgency-the-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md) _2017-08-27 03:40:22 (Update)_
+1. [Taliban insurgency:: The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/taliban-insurgency-the-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md) _2018-02-06 13:49:25 (First version)_
+2. [Taliban insurgency:The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/taliban-insurgency-pthe-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md) _2018-02-06 13:49:25 (Update)_
 2. [The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/the-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md) _(Current version)_
 
 ### Related:

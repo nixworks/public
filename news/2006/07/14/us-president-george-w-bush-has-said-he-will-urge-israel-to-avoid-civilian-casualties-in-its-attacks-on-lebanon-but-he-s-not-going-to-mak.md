@@ -30,8 +30,8 @@ Formats: [HTML](/news/2006/07/14/us-president-george-w-bush-has-said-he-will-urg
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon crisis: US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/2006-israel-lebanon-crisis-p-us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebano.md) _2017-08-25 03:18:01 (First version)_
-2. [ 2006 Israel-Lebanon crisis:: US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/2006-israel-lebanon-crisis-us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebano.md) _2017-08-27 03:18:00 (Update)_
+1. [ 2006 Israel-Lebanon crisis:: US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/2006-israel-lebanon-crisis-us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebano.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon crisis: US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/2006-israel-lebanon-crisis-p-us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebano.md) _2018-02-06 13:49:17 (Update)_
 2. [ US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebanon-but-he-s-not-going-to-mak.md) _(Current version)_
 
 ### Related:

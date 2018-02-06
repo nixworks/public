@@ -16,8 +16,8 @@ Kenyan troops with aerial support continuing their advance into Somalia, as a su
 
 ### Changes:
 
-1. [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town {{convert|120|km|mi}} from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-convert-12.md) _2017-05-01 03:36:44 (First version)_
-2. [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120|km|mi from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-mi-fr.md) _2017-08-29 03:34:23 (Update)_
+1. [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town {{convert|120|km|mi}} from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-convert-12.md) _2018-02-06 13:49:22 (First version)_
+2. [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120|km|mi from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-mi-fr.md) _2018-02-06 13:49:22 (Update)_
 2. [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120 km from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-from.md) _(Current version)_
 
 ### Related:

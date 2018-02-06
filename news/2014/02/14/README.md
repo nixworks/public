@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### France
 ### [France announces it will increase the number of its soldiers deployed in the Central African Republic as sectarian violence worsens. ](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.md)
-_Context: France, Central African Republic, sectarian violence_
+_Context: Central African Republic, sectarian violence, France_
 
 ##### India
 ### [India and Penguin books ban the book "The Hindus: An Alternative History" by Wendy Doniger for "blasphemy". ](/news/2014/02/14/india-and-penguin-books-ban-the-book-the-hindus-an-alternative-history-by-wendy-doniger-for-blasphemy.md)
@@ -29,11 +29,11 @@ A storm unleashes a second wave of snowfall on the US north-east, after it cut p
 
 ##### Mount Kelud
 ### [The eruption of Mount Kelud on the island of Java causes the closure of airports in three cities Surabaya, Yogyakarta and Solo as well as the reported death of two people. ](/news/2014/02/14/the-eruption-of-mount-kelud-on-the-island-of-java-causes-the-closure-of-airports-in-three-cities-surabaya-yogyakarta-and-solo-as-well-as-th.md)
-_Context: Solo, Mount Kelud, Java, Surabaya, Yogyakarta_
+_Context: Solo, Surabaya, Mount Kelud, Java, Yogyakarta_
 
 ##### Los Zetas
 ### [The United States Department of the Treasury sanctions the wife of Los Zetas former leader Miguel Trevino Morales under the Kingpin Act. ](/news/2014/02/14/the-united-states-department-of-the-treasury-sanctions-the-wife-of-los-zetas-former-leader-miguel-trevia-o-morales-under-the-kingpin-act.md)
-_Context: Kingpin Act, Miguel Trevino Morales, Los Zetas_
+_Context: Los Zetas, Miguel Trevino Morales, Kingpin Act_
 
 ##### government of Thailand
 ### [The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/the-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied-by-protesters.md)
@@ -41,7 +41,7 @@ _Context: government of Thailand, Bangkok_
 
 ##### Italian Prime Minister
 ### [Italian Prime Minister Enrico Letta resigns after less than a year in office, following pressure from his own Democratic Party to step down. ](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.md)
-_Context: Enrico Letta, Italian Prime Minister, Democratic Party_
+_Context: Italian Prime Minister, Democratic Party, Enrico Letta_
 
 ## [Previous Day...](/news/2014/02/13/index.md)
 

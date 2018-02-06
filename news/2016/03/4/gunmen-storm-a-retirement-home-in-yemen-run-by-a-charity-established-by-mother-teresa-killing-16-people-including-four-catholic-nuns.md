@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/4/gunmen-storm-a-retirement-home-in-yemen-run-by-a
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns. ](/news/2016/03/4/yemeni-civil-war-2015-present-gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people.md) _2017-08-27 03:45:08 (First version)_
+1. [Yemeni Civil War (2015-present): Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns. ](/news/2016/03/4/yemeni-civil-war-2015-present-gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns. ](/news/2016/03/4/gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people-including-four-catholic-nuns.md) _(Current version)_
 
 ### Related:

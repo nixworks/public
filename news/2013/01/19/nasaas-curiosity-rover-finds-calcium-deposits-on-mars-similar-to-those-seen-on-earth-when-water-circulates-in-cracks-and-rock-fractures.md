@@ -17,7 +17,7 @@ Watch or download the latest launch videos, mission updates, animations, This We
 
 ### Changes:
 
-1. [NASA-s Curiosity rover finds calcium deposits on Mars similar to those seen on Earth when water circulates in cracks and rock fractures. ](/news/2013/01/19/nasa-s-curiosity-rover-finds-calcium-deposits-on-mars-similar-to-those-seen-on-earth-when-water-circulates-in-cracks-and-rock-fractures.md) _2017-08-27 03:37:27 (First version)_
+1. [NASA-s Curiosity rover finds calcium deposits on Mars similar to those seen on Earth when water circulates in cracks and rock fractures. ](/news/2013/01/19/nasa-s-curiosity-rover-finds-calcium-deposits-on-mars-similar-to-those-seen-on-earth-when-water-circulates-in-cracks-and-rock-fractures.md) _2018-02-06 13:49:24 (First version)_
 1. [NASA's Curiosity rover finds calcium deposits on Mars similar to those seen on Earth when water circulates in cracks and rock fractures. ](/news/2013/01/19/nasaas-curiosity-rover-finds-calcium-deposits-on-mars-similar-to-those-seen-on-earth-when-water-circulates-in-cracks-and-rock-fractures.md) _(Current version)_
 
 ### Related:

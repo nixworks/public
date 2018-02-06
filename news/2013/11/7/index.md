@@ -5,13 +5,13 @@ Formats: [HTML](2013/11/7/index.html)  [JSON](2013/11/7/index.json)  [XML](2013/
 
 ##### Pakistani Taliban
 ### [The Pakistani Taliban names Maulana Fazlullah as its new leader six days after Hakimullah Mehsud was killed in a drone attack in North Waziristan. ](/news/2013/11/7/the-pakistani-taliban-names-maulana-fazlullah-as-its-new-leader-six-days-after-hakimullah-mehsud-was-killed-in-a-drone-attack-in-north-wazir.md)
-_Context: Hakimullah Mehsud, Maulana Fazlullah, drones launch, Pakistani Taliban, North Waziristan_
+_Context: Pakistani Taliban, North Waziristan, Maulana Fazlullah, drones launch, Hakimullah Mehsud_
 
 ##### M23
 ### [M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park-uganda.md)
 The commander of the M23 rebel group in the eastern Democratic Republic of Congo has surrendered in Uganda, sources tell the BBC.
 
-##### Turkish
+##### Turkey
 ### [Turkey seizes a truck loaded with 1,200 rocket warheads and other weapons near the border with Syria and detain nine people. ](/news/2013/11/7/turkey-seizes-a-truck-loaded-with-1-200-rocket-warheads-and-other-weapons-near-the-border-with-syria-and-detain-nine-people.md)
 Turkey seized a truck loaded with 1,200 rocket warheads and other weapons near the border with Syria on Thursday and detained nine people, the private Dogan news agency reported.
 

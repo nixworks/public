@@ -18,7 +18,7 @@ SEOUL, South Korea (AP) — North Korea fired a newly developed powerful ballist
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-and-weapons-of-mass-destruction-north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-east.md) _2017-08-27 03:48:06 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-and-weapons-of-mass-destruction-north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-east.md) _2018-02-06 13:49:30 (First version)_
 1. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _(Current version)_
 
 ### Related:

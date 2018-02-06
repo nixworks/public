@@ -20,8 +20,8 @@ Opposition campaigners concede defeat as results of referendum start to come in.
 
 ### Changes:
 
-1. [ Treaty of Lisbon: Ireland approves the European Union's Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/treaty-of-lisbon-p-ireland-approves-the-european-unionas-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md) _2017-08-25 03:25:57 (First version)_
-2. [ Treaty of Lisbon:: Ireland approves the European Union-s Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/treaty-of-lisbon-ireland-approves-the-european-union-s-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md) _2017-08-27 03:25:49 (Update)_
+1. [ Treaty of Lisbon: Ireland approves the European Union's Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/treaty-of-lisbon-p-ireland-approves-the-european-unionas-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md) _2018-02-06 13:49:19 (First version)_
+2. [ Treaty of Lisbon:: Ireland approves the European Union-s Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/treaty-of-lisbon-ireland-approves-the-european-union-s-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md) _2018-02-06 13:49:19 (Update)_
 2. [ Ireland approves the European Union's Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/ireland-approves-the-european-unionas-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md) _(Current version)_
 
 ### Related:

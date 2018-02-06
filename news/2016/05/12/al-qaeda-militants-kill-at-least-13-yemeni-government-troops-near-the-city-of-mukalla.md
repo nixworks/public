@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/12/al-qaeda-militants-kill-at-least-13-yemeni-gove
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/yemeni-crisis-2011-present-al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md) _2017-08-27 03:46:01 (First version)_
+1. [Yemeni Crisis (2011-present): Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/yemeni-crisis-2011-present-al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md) _2018-02-06 13:49:29 (First version)_
 1. [Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md) _(Current version)_
 
 ### Related:

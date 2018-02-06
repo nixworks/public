@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/03/17/an-unknown-perpetrator-using-an-apache-helicopt
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): An unknown perpetrator using an Apache helicopter fires upon a boat carrying Somali refugees off the coast of Yemen, killing at least 40 of them, injuring 35 more. ](/news/2017/03/17/yemeni-civil-war-2015-present-an-unknown-perpetrator-using-an-apache-helicopter-fires-upon-a-boat-carrying-somali-refugees-off-the-coast.md) _2017-08-27 03:48:00 (First version)_
+1. [Yemeni Civil War (2015-present): An unknown perpetrator using an Apache helicopter fires upon a boat carrying Somali refugees off the coast of Yemen, killing at least 40 of them, injuring 35 more. ](/news/2017/03/17/yemeni-civil-war-2015-present-an-unknown-perpetrator-using-an-apache-helicopter-fires-upon-a-boat-carrying-somali-refugees-off-the-coast.md) _2018-02-06 13:49:30 (First version)_
 1. [An unknown perpetrator using an Apache helicopter fires upon a boat carrying Somali refugees off the coast of Yemen, killing at least 40 of them, injuring 35 more. ](/news/2017/03/17/an-unknown-perpetrator-using-an-apache-helicopter-fires-upon-a-boat-carrying-somali-refugees-off-the-coast-of-yemen-killing-at-least-40-of.md) _(Current version)_
 
 ### Related:

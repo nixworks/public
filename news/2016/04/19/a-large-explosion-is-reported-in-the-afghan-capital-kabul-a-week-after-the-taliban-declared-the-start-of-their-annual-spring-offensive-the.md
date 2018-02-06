@@ -18,7 +18,7 @@ A loud explosion rocked central Kabul early on Tuesday during rush hour, and a t
 
 ### Changes:
 
-1. [War in Afghanistan: April 2016 Kabul attack: A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured. ](/news/2016/04/19/war-in-afghanistan-april-2016-kabul-attack-a-large-explosion-is-reported-in-the-afghan-capital-kabul-a-week-after-the-taliban-declared-the.md) _2017-08-27 03:45:41 (First version)_
+1. [War in Afghanistan: April 2016 Kabul attack: A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured. ](/news/2016/04/19/war-in-afghanistan-april-2016-kabul-attack-a-large-explosion-is-reported-in-the-afghan-capital-kabul-a-week-after-the-taliban-declared-the.md) _2018-02-06 13:49:28 (First version)_
 1. [A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured. ](/news/2016/04/19/a-large-explosion-is-reported-in-the-afghan-capital-kabul-a-week-after-the-taliban-declared-the-start-of-their-annual-spring-offensive-the.md) _(Current version)_
 
 ### Related:

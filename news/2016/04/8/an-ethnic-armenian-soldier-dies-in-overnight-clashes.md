@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-cla
 
 ### Changes:
 
-1. [2016 Armenian-Azerbaijani clashes An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenianaazerbaijani-clashes-pan-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2017-05-25 03:47:29 (First version)_
-2. [2016 Armenian-Azerbaijani clashes: An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenian-azerbaijani-clashes-an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2017-08-27 03:45:31 (Update)_
+1. [2016 Armenian-Azerbaijani clashes An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenianaazerbaijani-clashes-pan-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Armenian-Azerbaijani clashes: An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenian-azerbaijani-clashes-an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2018-02-06 13:49:29 (Update)_
 2. [An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _(Current version)_
 
 ### Related:

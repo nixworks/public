@@ -16,7 +16,7 @@ Kenyan authorities suspend three policemen after a newspaper published a picture
 
 ### Changes:
 
-1. [The ''Daily Nation'' publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amne.md) _2017-08-25 03:31:51 (First version)_
+1. [The ''Daily Nation'' publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amne.md) _2018-02-06 13:49:21 (First version)_
 1. [The "Daily Nation" publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amnest.md) _(Current version)_
 
 ### Related:

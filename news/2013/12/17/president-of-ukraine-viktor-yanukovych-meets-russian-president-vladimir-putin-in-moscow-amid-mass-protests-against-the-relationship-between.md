@@ -17,8 +17,8 @@ Ukrainian President Viktor Yanukovych is seeking as much as $15 billion in loans
 
 ### Changes:
 
-1. [Euromaidan:President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-ppresident-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relations.md) _2017-08-25 03:39:42 (First version)_
-2. [Euromaidan:: President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relation.md) _2017-08-27 03:40:00 (Update)_
+1. [Euromaidan:: President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relation.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-ppresident-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relations.md) _2018-02-06 13:49:25 (Update)_
 2. [President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relationship-between.md) _(Current version)_
 
 ### Related:

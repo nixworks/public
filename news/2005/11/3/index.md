@@ -5,19 +5,19 @@ Formats: [HTML](2005/11/3/index.html)  [JSON](2005/11/3/index.json)  [XML](2005/
 
 ##### Measles Initiative
 ### [ Measles Initiative (MI) announces that since 1999, more than 200 million children in Africa have been vaccinated against measles, reducing the infection rate by 60 percent and saving 1 million lives. ](/news/2005/11/3/measles-initiative-mi-announces-that-since-1999-more-than-200-million-children-in-africa-have-been-vaccinated-against-measles-reducing.md)
-_Context: Measles Initiative, Africa, measles_
+_Context: Africa, Measles Initiative, measles_
 
 ##### Israel
 ### [ A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.md)
-_Context: sonic boom, Palestinian, panic attack, Supreme Court, United Nations, Israel, Israel Defense Forces_
+_Context: Israel, United Nations, Palestinian, Israel Defense Forces, sonic boom, panic attack, Supreme Court_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Seven U.K. troops accused of murdering an Iraqi civilian have had their cases dropped after a judge ruled that there was insufficient evidence against the soldiers and that the Iraqi witnesses lied. ](/news/2005/11/3/conflict-in-iraq-seven-u-k-troops-accused-of-murdering-an-iraqi-civilian-have-had-their-cases-dropped-after-a-judge-ruled-that-there-was.md)
-_Context: British, Conflict in Iraq, Iraq_
+_Context: United Kingdom, Iraq, Conflict in Iraq_
 
 ##### Marine
 ### [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The Essex was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-essex-was-prevented-from-leaving-the-phi.md)
-_Context: rape, Marine, Filipino, Philippines_
+_Context: Marine, Filipino, rape, Philippines_
 
 ##### government of Ethiopia
 ### [ Two more people have died as protests against the government of Ethiopia continue in Addis Ababa. ](/news/2005/11/3/two-more-people-have-died-as-protests-against-the-government-of-ethiopia-continue-in-addis-ababa.md)

@@ -16,7 +16,7 @@ A string of explosions has rocked the northeastern Syrian city of Kamishli, targ
 
 ### Changes:
 
-1. [Syrian Civil War: 2015 al-Qamishli bombings: Several suicide-bomb attacks targeting Assyrian Christians celebrating New Year's Eve at restaurants in the Kurdish-controlled Syrian city of Al-Qamishli, Al-Hasakah Governorate, leave at least 16 people dead and 35 wounded. The Islamic State of Iraq and the Levant are suspected to be behind the bombings. ](/news/2015/12/30/syrian-civil-war-2015-al-qamishli-bombings-several-suicide-bomb-attacks-targeting-assyrian-christians-celebrating-new-year-s-eve-at-restau.md) _2017-08-27 03:44:33 (First version)_
+1. [Syrian Civil War: 2015 al-Qamishli bombings: Several suicide-bomb attacks targeting Assyrian Christians celebrating New Year's Eve at restaurants in the Kurdish-controlled Syrian city of Al-Qamishli, Al-Hasakah Governorate, leave at least 16 people dead and 35 wounded. The Islamic State of Iraq and the Levant are suspected to be behind the bombings. ](/news/2015/12/30/syrian-civil-war-2015-al-qamishli-bombings-several-suicide-bomb-attacks-targeting-assyrian-christians-celebrating-new-year-s-eve-at-restau.md) _2018-02-06 13:49:28 (First version)_
 1. [Several suicide-bomb attacks targeting Assyrian Christians celebrating New Year's Eve at restaurants in the Kurdish-controlled Syrian city of Al-Qamishli, Al-Hasakah Governorate, leave at least 16 people dead and 35 wounded. The Islamic State of Iraq and the Levant are suspected to be behind the bombings. ](/news/2015/12/30/several-suicide-bomb-attacks-targeting-assyrian-christians-celebrating-new-year-s-eve-at-restaurants-in-the-kurdish-controlled-syrian-city-o.md) _(Current version)_
 
 ### Related:

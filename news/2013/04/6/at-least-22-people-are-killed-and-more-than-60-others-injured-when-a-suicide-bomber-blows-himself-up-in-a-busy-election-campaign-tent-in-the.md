@@ -16,8 +16,8 @@ A suicide bomber killed 22 people and wounded 60 in a crowded election campaign 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-pat-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself-u.md) _2017-08-25 03:38:12 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself.md) _2017-08-27 03:38:24 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-pat-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself-u.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself-up-in-a-busy-election-campaign-tent-in-the.md) _(Current version)_
 
 ### Related:

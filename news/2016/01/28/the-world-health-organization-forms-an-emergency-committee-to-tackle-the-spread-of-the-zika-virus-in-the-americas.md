@@ -15,7 +15,7 @@ The World Health Organization announced Thursday that it has convened an emergen
 
 ### Changes:
 
-1. [Zika virus outbreak in the Americas (2015-present): The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/zika-virus-outbreak-in-the-americas-2015-present-the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the.md) _2017-08-27 03:44:46 (First version)_
+1. [Zika virus outbreak in the Americas (2015-present): The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/zika-virus-outbreak-in-the-americas-2015-present-the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the-zika-virus-in-the-americas.md) _(Current version)_
 
 ### Related:

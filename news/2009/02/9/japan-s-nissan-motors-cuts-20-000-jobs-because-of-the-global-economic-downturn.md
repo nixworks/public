@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/9/japan-s-nissan-motors-cuts-20-000-jobs-because-o
 
 ### Changes:
 
-1. [ Automotive industry crisis of 2008-2009: Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/automotive-industry-crisis-of-2008-2009-p-japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md) _2017-08-25 03:23:42 (First version)_
-2. [ Automotive industry crisis of 2008-2009:: Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/automotive-industry-crisis-of-2008-2009-japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md) _2017-08-27 03:23:33 (Update)_
+1. [ Automotive industry crisis of 2008-2009: Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/automotive-industry-crisis-of-2008-2009-p-japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md) _2018-02-06 13:49:18 (First version)_
+2. [ Automotive industry crisis of 2008-2009:: Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/automotive-industry-crisis-of-2008-2009-japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md) _2018-02-06 13:49:18 (Update)_
 2. [ Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md) _(Current version)_
 
 ### Related:

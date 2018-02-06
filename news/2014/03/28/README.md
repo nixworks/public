@@ -21,11 +21,11 @@ Less than 10 minutes after it took off from Agra, one of the Indian Air Force&#0
 
 ##### South Korea
 ### [South Korea captures a North Korean fishing boat that had crossed into their waters amid rising tensions between the two neighboring countries. ](/news/2014/03/28/south-korea-captures-a-north-korean-fishing-boat-that-had-crossed-into-their-waters-amid-rising-tensions-between-the-two-neighboring-countri.md)
-_Context: South Korea, rising tensions between the two neighboring countries, North Korea_
+_Context: South Korea, North Korea, rising tensions between the two neighboring countries_
 
 ##### Prime Minister of Norway
 ### [Former Prime Minister of Norway Jens Stoltenberg is appointed to succeed Denmark's Anders Fogh Rasmussen as the next Secretary General of NATO. ](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.md)
-_Context: Jens Stoltenberg, Prime Minister of Norway, Anders Fogh Rasmussen, Secretary General of NATO_
+_Context: Prime Minister of Norway, Secretary General of NATO, Anders Fogh Rasmussen, Jens Stoltenberg_
 
 ##### Buddhist
 ### [Buddhist mobs in western Myanmar reportedly target foreign aid groups and workers in reaction to supposedly disrespectful treatment of a Buddhist flag. ](/news/2014/03/28/buddhist-mobs-in-western-myanmar-reportedly-target-foreign-aid-groups-and-workers-in-reaction-to-supposedly-disrespectful-treatment-of-a-bud.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/07/22/six-people-a-including-army-officers-and-police
 
 ### Changes:
 
-1. [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-including-army-officers-and-policemen-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md) _2017-08-27 03:39:17 (First version)_
+1. [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-including-army-officers-and-policemen-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md) _2018-02-06 13:49:25 (First version)_
 1. [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-a-including-army-officers-and-policemen-a-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md) _(Current version)_
 
 ### Related:

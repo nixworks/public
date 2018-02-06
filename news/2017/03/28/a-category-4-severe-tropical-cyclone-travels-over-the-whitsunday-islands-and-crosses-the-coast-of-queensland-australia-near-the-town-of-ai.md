@@ -16,7 +16,7 @@ Tropical Cyclone Debbie is downgraded to a category three system, having made la
 
 ### Changes:
 
-1. [Cyclone Debbie: A Category 4 severe tropical cyclone travels over the Whitsunday Islands and crosses the coast of Queensland, Australia, near the town of Airlie Beach. ](/news/2017/03/28/cyclone-debbie-a-category-4-severe-tropical-cyclone-travels-over-the-whitsunday-islands-and-crosses-the-coast-of-queensland-australia-nea.md) _2017-08-27 03:48:04 (First version)_
+1. [Cyclone Debbie: A Category 4 severe tropical cyclone travels over the Whitsunday Islands and crosses the coast of Queensland, Australia, near the town of Airlie Beach. ](/news/2017/03/28/cyclone-debbie-a-category-4-severe-tropical-cyclone-travels-over-the-whitsunday-islands-and-crosses-the-coast-of-queensland-australia-nea.md) _2018-02-06 13:49:30 (First version)_
 1. [A Category 4 severe tropical cyclone travels over the Whitsunday Islands and crosses the coast of Queensland, Australia, near the town of Airlie Beach. ](/news/2017/03/28/a-category-4-severe-tropical-cyclone-travels-over-the-whitsunday-islands-and-crosses-the-coast-of-queensland-australia-near-the-town-of-ai.md) _(Current version)_
 
 ### Related:

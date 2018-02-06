@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/28/elvis-presley-tops-forbes-list-of-top-ten-earni
 
 ### Changes:
 
-1. [ Elvis Presley tops ''Forbes''' list of Top Ten Earning Dead Celebrities for the fifth successive year, earning US$45 million in royalties. He is followed by Charles M. Schulz ($35M), John Lennon ($22M), and Andy Warhol ($16M). ](/news/2005/10/28/elvis-presley-tops-forbes-list-of-top-ten-earning-dead-celebrities-for-the-fifth-successive-year-earning-us-45-million-in-royalties.md) _2017-08-25 03:17:02 (First version)_
+1. [ Elvis Presley tops ''Forbes''' list of Top Ten Earning Dead Celebrities for the fifth successive year, earning US$45 million in royalties. He is followed by Charles M. Schulz ($35M), John Lennon ($22M), and Andy Warhol ($16M). ](/news/2005/10/28/elvis-presley-tops-forbes-list-of-top-ten-earning-dead-celebrities-for-the-fifth-successive-year-earning-us-45-million-in-royalties.md) _2018-02-06 13:49:16 (First version)_
 1. [ Elvis Presley tops "Forbes"' list of Top Ten Earning Dead Celebrities for the fifth successive year, earning US$45 million in royalties. He is followed by Charles M. Schulz ($35M), John Lennon ($22M), and Andy Warhol ($16M). ](/news/2005/10/28/elvis-presley-tops-forbes-list-of-top-ten-earning-dead-celebrities-for-the-fifth-successive-year-earning-us-45-million-in-royalties-he.md) _(Current version)_
 
 ### Related:

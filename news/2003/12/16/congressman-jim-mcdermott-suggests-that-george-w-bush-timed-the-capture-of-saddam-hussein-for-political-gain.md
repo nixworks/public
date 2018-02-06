@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/12/16/congressman-jim-mcdermott-suggests-that-george-
 
 ### Changes:
 
-1. [ Capture of Saddam Hussein:Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-pcongressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _2017-08-25 03:15:24 (First version)_
-2. [ Capture of Saddam Hussein:: Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-congressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _2017-08-27 03:15:25 (Update)_
+1. [ Capture of Saddam Hussein:Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-pcongressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _2018-02-06 13:49:15 (First version)_
+2. [ Capture of Saddam Hussein:: Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-congressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _2018-02-06 13:49:15 (Update)_
 2. [Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/congressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _(Current version)_
 
 ### Related:

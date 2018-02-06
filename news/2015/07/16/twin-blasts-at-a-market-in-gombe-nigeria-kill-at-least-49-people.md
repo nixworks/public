@@ -17,7 +17,7 @@ At least 49 people in Nigeria shopping ahead of Eid celebrations have been kille
 
 ### Changes:
 
-1. [Boko Haram: Timeline of Boko Haram insurgency: Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/boko-haram-timeline-of-boko-haram-insurgency-twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md) _2017-08-27 03:42:42 (First version)_
+1. [Boko Haram: Timeline of Boko Haram insurgency: Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/boko-haram-timeline-of-boko-haram-insurgency-twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md) _(Current version)_
 
 ### Related:

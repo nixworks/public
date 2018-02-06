@@ -18,8 +18,8 @@ An embattled Mohammed Morsi made a last-ditch bid to stay in power last night, t
 
 ### Changes:
 
-1. [July 2013 Egyptian protests:At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/july-2013-egyptian-protests-pat-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md) _2017-08-25 03:38:56 (First version)_
-2. [July 2013 Egyptian protests:: At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/july-2013-egyptian-protests-at-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md) _2017-08-27 03:39:11 (Update)_
+1. [July 2013 Egyptian protests:At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/july-2013-egyptian-protests-pat-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md) _2018-02-06 13:49:25 (First version)_
+2. [July 2013 Egyptian protests:: At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/july-2013-egyptian-protests-at-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/at-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md) _(Current version)_
 
 ### Related:

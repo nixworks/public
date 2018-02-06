@@ -17,7 +17,7 @@ Rwandans vote overwhelmingly to allow President Paul Kagame to extend his term i
 
 ### Changes:
 
-1. [Rwandan constitutional referendum, 2015: Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandan-constitutional-referendum-2015-rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kag.md) _2017-08-27 03:44:26 (First version)_
+1. [Rwandan constitutional referendum, 2015: Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandan-constitutional-referendum-2015-rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kag.md) _2018-02-06 13:49:28 (First version)_
 1. [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md) _(Current version)_
 
 ### Related:

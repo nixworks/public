@@ -16,7 +16,7 @@ At least 17 members of the Kurdistan Workers Party (PKK) have been killed in a T
 
 ### Changes:
 
-1. [Turkey-PKK conflict: At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/turkey-pkk-conflict-at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-o.md) _2017-08-27 03:43:12 (First version)_
+1. [Turkey-PKK conflict: At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/turkey-pkk-conflict-at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-o.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-of-silvan.md) _(Current version)_
 
 ### Related:

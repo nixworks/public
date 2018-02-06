@@ -22,7 +22,7 @@ Stephen Harper has been re-elected and will head a majority Conservative governm
 
 ### Changes:
 
-1. [Canadian federal election, 2011: Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/canadian-federal-election-2011-voters-in-canada-go-to-the-polls-for-a-federal-election.md) _2017-08-27 03:33:07 (First version)_
+1. [Canadian federal election, 2011: Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/canadian-federal-election-2011-voters-in-canada-go-to-the-polls-for-a-federal-election.md) _2018-02-06 13:49:22 (First version)_
 1. [Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/voters-in-canada-go-to-the-polls-for-a-federal-election.md) _(Current version)_
 
 ### Related:

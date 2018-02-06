@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/8/the-u-s-city-of-baltimore-maryland-agrees-to-a-6
 
 ### Changes:
 
-1. [Death of Freddie Gray: The U.S. city of Baltimore, Maryland, agrees to a $6.4 million settlement with relatives over the death of Freddie Gray. ](/news/2015/09/8/death-of-freddie-gray-the-u-s-city-of-baltimore-maryland-agrees-to-a-6-4-million-settlement-with-relatives-over-the-death-of-freddie-gr.md) _2017-08-27 03:42:59 (First version)_
+1. [Death of Freddie Gray: The U.S. city of Baltimore, Maryland, agrees to a $6.4 million settlement with relatives over the death of Freddie Gray. ](/news/2015/09/8/death-of-freddie-gray-the-u-s-city-of-baltimore-maryland-agrees-to-a-6-4-million-settlement-with-relatives-over-the-death-of-freddie-gr.md) _2018-02-06 13:49:27 (First version)_
 1. [The U.S. city of Baltimore, Maryland, agrees to a $6.4 million settlement with relatives over the death of Freddie Gray. ](/news/2015/09/8/the-u-s-city-of-baltimore-maryland-agrees-to-a-6-4-million-settlement-with-relatives-over-the-death-of-freddie-gray.md) _(Current version)_
 
 ### Related:

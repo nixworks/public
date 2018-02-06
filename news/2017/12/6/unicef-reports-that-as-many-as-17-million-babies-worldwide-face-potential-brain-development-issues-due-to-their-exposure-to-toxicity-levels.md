@@ -16,8 +16,8 @@ Toxic air is putting the brain development of millions of infants under one at r
 
 ### Changes:
 
-1. [UNICEF reports that as many at 17 million babies face potential brain development issues due to rising pollution levels. ](/news/2017/12/6/unicef-reports-that-as-many-at-17-million-babies-face-potential-brain-development-issues-due-to-rising-pollution-levels.md) _2017-12-06 22:30:06 (First version)_
-2. [UNICEF reports that as many as 17 million babies face potential brain development issues due to rising pollution levels worldwide. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-face-potential-brain-development-issues-due-to-rising-pollution-levels-worldwide.md) _2017-12-07 00:30:06 (Update)_
+1. [UNICEF reports that as many at 17 million babies face potential brain development issues due to rising pollution levels. ](/news/2017/12/6/unicef-reports-that-as-many-at-17-million-babies-face-potential-brain-development-issues-due-to-rising-pollution-levels.md) _2018-02-06 13:49:31 (First version)_
+2. [UNICEF reports that as many as 17 million babies face potential brain development issues due to rising pollution levels worldwide. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-face-potential-brain-development-issues-due-to-rising-pollution-levels-worldwide.md) _2018-02-06 13:49:31 (Update)_
 2. [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/27/the-syrian-government-s-tiger-forces-reaches-th
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. ](/news/2017/02/27/syrian-civil-war-the-syrian-government-s-tiger-forces-reaches-the-front-lines-with-the-syrian-democratic-forces-south-of-manbij-after-captu.md) _2017-08-27 03:47:54 (First version)_
+1. [Syrian Civil War: The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. ](/news/2017/02/27/syrian-civil-war-the-syrian-government-s-tiger-forces-reaches-the-front-lines-with-the-syrian-democratic-forces-south-of-manbij-after-captu.md) _2018-02-06 13:49:30 (First version)_
 1. [The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. ](/news/2017/02/27/the-syrian-government-s-tiger-forces-reaches-the-front-lines-with-the-syrian-democratic-forces-south-of-manbij-after-capturing-territory-fro.md) _(Current version)_
 
 ### Related:

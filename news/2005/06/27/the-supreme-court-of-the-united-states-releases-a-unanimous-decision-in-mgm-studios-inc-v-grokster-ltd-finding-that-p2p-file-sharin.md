@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/06/27/the-supreme-court-of-the-united-states-releases
 
 ### Changes:
 
-1. [ The Supreme Court of the United States releases a unanimous decision in ''MGM Studios, Inc. v. Grokster, Ltd.'', finding that P2P file sharing companies can be held liable for the copyright infringement of their users. ](/news/2005/06/27/the-supreme-court-of-the-united-states-releases-a-unanimous-decision-in-mgm-studios-inc-v-grokster-ltd-finding-that-p2p-file-shar.md) _2017-08-25 03:16:26 (First version)_
+1. [ The Supreme Court of the United States releases a unanimous decision in ''MGM Studios, Inc. v. Grokster, Ltd.'', finding that P2P file sharing companies can be held liable for the copyright infringement of their users. ](/news/2005/06/27/the-supreme-court-of-the-united-states-releases-a-unanimous-decision-in-mgm-studios-inc-v-grokster-ltd-finding-that-p2p-file-shar.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Supreme Court of the United States releases a unanimous decision in "MGM Studios, Inc. v. Grokster, Ltd.", finding that P2P file sharing companies can be held liable for the copyright infringement of their users. ](/news/2005/06/27/the-supreme-court-of-the-united-states-releases-a-unanimous-decision-in-mgm-studios-inc-v-grokster-ltd-finding-that-p2p-file-sharin.md) _(Current version)_
 
 ### Related:

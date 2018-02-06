@@ -16,8 +16,8 @@ The European Commission is to send a fact-finding mission to Gibraltar to examin
 
 ### Changes:
 
-1. [The British warship {{HMS|Westminster|F237|6}} arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-hms-westminster-f237-6-arrives-in-gibraltar-amid-tensions-with-spain.md) _2017-05-01 03:42:28 (First version)_
-2. [The British warship Westminster|F237|6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-f237-6-arrives-in-gibraltar-amid-tensions-with-spain.md) _2017-08-29 03:39:11 (Update)_
+1. [The British warship Westminster|F237|6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-f237-6-arrives-in-gibraltar-amid-tensions-with-spain.md) _2018-02-06 13:49:25 (First version)_
+2. [The British warship {{HMS|Westminster|F237|6}} arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-hms-westminster-f237-6-arrives-in-gibraltar-amid-tensions-with-spain.md) _2018-02-06 13:49:25 (Update)_
 2. [The British warship Westminster 6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-6-arrives-in-gibraltar-amid-tensions-with-spain.md) _(Current version)_
 
 ### Related:

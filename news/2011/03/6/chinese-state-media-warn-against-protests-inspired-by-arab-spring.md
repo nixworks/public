@@ -19,8 +19,8 @@ Chinese government has dismissed chances of West Asia style revolution in the Co
 
 ### Changes:
 
-1. [Other protests:Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-pchinese-state-media-warn-against-protests-inspired-by-arab-spring.md) _2017-08-25 03:32:25 (First version)_
-2. [Other protests:: Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-chinese-state-media-warn-against-protests-inspired-by-arab-spring.md) _2017-08-27 03:32:33 (Update)_
+1. [Other protests:Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-pchinese-state-media-warn-against-protests-inspired-by-arab-spring.md) _2018-02-06 13:49:22 (First version)_
+2. [Other protests:: Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-chinese-state-media-warn-against-protests-inspired-by-arab-spring.md) _2018-02-06 13:49:22 (Update)_
 2. [Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/chinese-state-media-warn-against-protests-inspired-by-arab-spring.md) _(Current version)_
 
 ### Related:

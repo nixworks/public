@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-a
 
 ### Changes:
 
-1. [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.{{Fact|date=December 2007}} ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-fact-date-december-2007.md) _2017-05-01 03:22:22 (First version)_
+1. [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.{{Fact|date=December 2007}} ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.date=December 2007 ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-date-december-2007.md) _(Current version)_
 
 ### Related:

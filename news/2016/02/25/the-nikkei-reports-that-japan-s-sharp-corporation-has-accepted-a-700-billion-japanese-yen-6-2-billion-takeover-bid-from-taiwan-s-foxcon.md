@@ -16,7 +16,7 @@ Sharp Corp. agreed to a 700 billion yen ($6.2 billion) rescue deal from Taiwanâ€
 
 ### Changes:
 
-1. [''The Nikkei'' reports that Japan's Sharp Corporation has accepted a 700 billion Japanese yen ($6.2 billion) takeover bid from Taiwan's Foxconn Technology Group. ](/news/2016/02/25/the-nikkei-reports-that-japan-s-sharp-corporation-has-accepted-a-700-billion-japanese-yen-6-2-billion-takeover-bid-from-taiwan-s-foxc.md) _2017-08-25 03:44:41 (First version)_
+1. [''The Nikkei'' reports that Japan's Sharp Corporation has accepted a 700 billion Japanese yen ($6.2 billion) takeover bid from Taiwan's Foxconn Technology Group. ](/news/2016/02/25/the-nikkei-reports-that-japan-s-sharp-corporation-has-accepted-a-700-billion-japanese-yen-6-2-billion-takeover-bid-from-taiwan-s-foxc.md) _2018-02-06 13:49:28 (First version)_
 1. ["The Nikkei" reports that Japan's Sharp Corporation has accepted a 700 billion Japanese yen ($6.2 billion) takeover bid from Taiwan's Foxconn Technology Group. ](/news/2016/02/25/the-nikkei-reports-that-japan-s-sharp-corporation-has-accepted-a-700-billion-japanese-yen-6-2-billion-takeover-bid-from-taiwan-s-foxcon.md) _(Current version)_
 
 ### Related:

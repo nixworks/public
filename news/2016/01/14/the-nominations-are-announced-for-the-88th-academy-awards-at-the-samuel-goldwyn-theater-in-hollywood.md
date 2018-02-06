@@ -16,7 +16,7 @@ Cheryl Boone Isaacs, Guillermo del Toro, John Krasinski and Ang Lee reveal the 8
 
 ### Changes:
 
-1. [88th Academy Awards: The nominations are announced for the 88th Academy Awards at the Samuel Goldwyn Theater in Hollywood. ](/news/2016/01/14/88th-academy-awards-the-nominations-are-announced-for-the-88th-academy-awards-at-the-samuel-goldwyn-theater-in-hollywood.md) _2017-08-27 03:44:40 (First version)_
+1. [88th Academy Awards: The nominations are announced for the 88th Academy Awards at the Samuel Goldwyn Theater in Hollywood. ](/news/2016/01/14/88th-academy-awards-the-nominations-are-announced-for-the-88th-academy-awards-at-the-samuel-goldwyn-theater-in-hollywood.md) _2018-02-06 13:49:28 (First version)_
 1. [The nominations are announced for the 88th Academy Awards at the Samuel Goldwyn Theater in Hollywood. ](/news/2016/01/14/the-nominations-are-announced-for-the-88th-academy-awards-at-the-samuel-goldwyn-theater-in-hollywood.md) _(Current version)_
 
 ### Related:

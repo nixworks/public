@@ -17,8 +17,8 @@ Military talks aimed at easing tensions between North and South Korea have broke
 
 ### Changes:
 
-1. [Korean talksSouth Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talkspsouth-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sepa.md) _2017-08-25 03:32:07 (First version)_
-2. [Korean talks: South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talks-south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sep.md) _2017-08-27 03:32:15 (Update)_
+1. [Korean talksSouth Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talkspsouth-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sepa.md) _2018-02-06 13:49:22 (First version)_
+2. [Korean talks: South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talks-south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sep.md) _2018-02-06 13:49:22 (Update)_
 2. [South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-separated-by-the.md) _(Current version)_
 
 ### Related:

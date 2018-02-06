@@ -21,8 +21,8 @@ A &quot;robust response&quot; to the alleged use of chemical weapons in Syria is
 
 ### Changes:
 
-1. [Syrian civil war:British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/syrian-civil-war-pbritish-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-need.md) _2017-08-25 03:39:13 (First version)_
-2. [Syrian civil war:: British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/syrian-civil-war-british-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-nee.md) _2017-08-27 03:39:29 (Update)_
+1. [Syrian civil war:British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/syrian-civil-war-pbritish-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-need.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/syrian-civil-war-british-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-nee.md) _2018-02-06 13:49:25 (Update)_
 2. [British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/british-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-needed-despite-uk-mili.md) _(Current version)_
 
 ### Related:

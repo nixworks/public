@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Rigopiano avalanche: The death toll from the avalanche which buried the four-star luxury resort Hotel Rigopiano on 18 January rises to seventeen, with twelve others still missing. ](/news/2017/01/24/rigopiano-avalanche-the-death-toll-from-the-avalanche-which-buried-the-four-star-luxury-resort-hotel-rigopiano-on-18-january-rises-to-seven.md) _2017-08-27 03:47:40 (First version)_
+1. [Rigopiano avalanche: The death toll from the avalanche which buried the four-star luxury resort Hotel Rigopiano on 18 January rises to seventeen, with twelve others still missing. ](/news/2017/01/24/rigopiano-avalanche-the-death-toll-from-the-avalanche-which-buried-the-four-star-luxury-resort-hotel-rigopiano-on-18-january-rises-to-seven.md) _2018-02-06 13:49:30 (First version)_
 1. [The death toll from the avalanche which buried the four-star luxury resort Hotel Rigopiano on 18 January rises to seventeen, with twelve others still missing. ](/news/2017/01/24/the-death-toll-from-the-avalanche-which-buried-the-four-star-luxury-resort-hotel-rigopiano-on-18-january-rises-to-seventeen-with-twelve-oth.md) _(Current version)_
 
 ### Related:

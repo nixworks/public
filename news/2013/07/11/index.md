@@ -21,11 +21,11 @@ _Context: floods and landslides, China_
 
 ##### Taiwan
 ### [Taiwan evacuates 2,000 tourists as it prepares for Typhoon Soulik expected later this week. ](/news/2013/07/11/taiwan-evacuates-2-000-tourists-as-it-prepares-for-typhoon-soulik-expected-later-this-week.md)
-_Context: Taiwan, Typhoon Nari_
+_Context: Typhoon Nari, Taiwan_
 
 ##### Lower Manhattan
 ### [Eight people are injured (three seriously) in Lower Manhattan as a result of an explosion and partial collapse, of as-yet unknown cause, in a five-storey building, in Chinatown, Manhattan, New York City, on Pike Street, near Henry Street. ](/news/2013/07/11/eight-people-are-injured-three-seriously-in-lower-manhattan-as-a-result-of-an-explosion-and-partial-collapse-of-as-yet-unknown-cause-in.md)
-_Context: Chinatown, Pike Street, New York City, Henry Street, Manhattan, Lower Manhattan_
+_Context: Pike Street, Henry Street, Lower Manhattan, Chinatown, New York City, Manhattan_
 
 ##### Iranian
 ### [An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. ](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.md)

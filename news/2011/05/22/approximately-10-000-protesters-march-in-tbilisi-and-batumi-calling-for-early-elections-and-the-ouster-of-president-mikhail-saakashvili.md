@@ -18,8 +18,8 @@ Georgian anti-government protesters clashed today with police after blockading t
 
 ### Changes:
 
-1. [2011 Georgian protests:Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/2011-georgian-protests-papproximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president.md) _2017-08-25 03:33:13 (First version)_
-2. [2011 Georgian protests:: Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/2011-georgian-protests-approximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president.md) _2017-08-27 03:33:23 (Update)_
+1. [2011 Georgian protests:Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/2011-georgian-protests-papproximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Georgian protests:: Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/2011-georgian-protests-approximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president.md) _2018-02-06 13:49:22 (Update)_
 2. [Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/approximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president-mikhail-saakashvili.md) _(Current version)_
 
 ### Related:

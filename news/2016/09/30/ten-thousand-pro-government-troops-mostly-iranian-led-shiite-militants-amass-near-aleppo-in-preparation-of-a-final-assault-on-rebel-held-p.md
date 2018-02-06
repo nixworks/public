@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/30/ten-thousand-pro-government-troops-mostly-irani
 
 ### Changes:
 
-1. [Aleppo offensive (September 2016): Ten thousand pro-government troops, mostly Iranian-led Shiite militants, amass near Aleppo in preparation of a final assault on rebel-held parts of the city. ](/news/2016/09/30/aleppo-offensive-september-2016-ten-thousand-pro-government-troops-mostly-iranian-led-shiite-militants-amass-near-aleppo-in-preparation.md) _2017-08-27 03:46:55 (First version)_
+1. [Aleppo offensive (September 2016): Ten thousand pro-government troops, mostly Iranian-led Shiite militants, amass near Aleppo in preparation of a final assault on rebel-held parts of the city. ](/news/2016/09/30/aleppo-offensive-september-2016-ten-thousand-pro-government-troops-mostly-iranian-led-shiite-militants-amass-near-aleppo-in-preparation.md) _2018-02-06 13:49:29 (First version)_
 1. [Ten thousand pro-government troops, mostly Iranian-led Shiite militants, amass near Aleppo in preparation of a final assault on rebel-held parts of the city. ](/news/2016/09/30/ten-thousand-pro-government-troops-mostly-iranian-led-shiite-militants-amass-near-aleppo-in-preparation-of-a-final-assault-on-rebel-held-p.md) _(Current version)_
 
 ### Related:

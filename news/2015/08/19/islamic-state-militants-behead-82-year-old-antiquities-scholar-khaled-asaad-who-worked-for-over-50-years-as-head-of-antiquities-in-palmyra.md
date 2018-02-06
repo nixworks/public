@@ -17,7 +17,7 @@ The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 year
 
 ### Changes:
 
-1. [ISIL beheading incidents, Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. ](/news/2015/08/19/isil-beheading-incidents-islamic-state-militants-behead-82-year-old-antiquities-scholar-khaled-asaad-who-worked-for-over-50-years-as-head.md) _2017-08-25 03:42:34 (First version)_
+1. [ISIL beheading incidents, Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. ](/news/2015/08/19/isil-beheading-incidents-islamic-state-militants-behead-82-year-old-antiquities-scholar-khaled-asaad-who-worked-for-over-50-years-as-head.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. ](/news/2015/08/19/islamic-state-militants-behead-82-year-old-antiquities-scholar-khaled-asaad-who-worked-for-over-50-years-as-head-of-antiquities-in-palmyra.md) _(Current version)_
 
 ### Related:

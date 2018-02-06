@@ -20,8 +20,8 @@ News organization withdraws photograph of Israeli fighter jet, admits image was 
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/2006-israel-lebanon-conflict-p-reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-h.md) _2017-08-25 03:18:09 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/2006-israel-lebanon-conflict-reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-h.md) _2017-08-27 03:18:07 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/2006-israel-lebanon-conflict-reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-h.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/2006-israel-lebanon-conflict-p-reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-h.md) _2018-02-06 13:49:17 (Update)_
 2. [ Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-had-changed-two-images-from-the.md) _(Current version)_
 
 ### Related:

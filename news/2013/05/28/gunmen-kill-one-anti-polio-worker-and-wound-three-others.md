@@ -16,6 +16,6 @@ Pakistani authorities suspended a four-day polio vaccination program Tuesday aft
 
 ### Changes:
 
-1. [War in North-West Pakistan:Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/war-in-north-west-pakistan-pgunmen-kill-one-anti-polio-worker-and-wound-three-others.md) _2017-08-25 03:38:44 (First version)_
-2. [War in North-West Pakistan:: Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/war-in-north-west-pakistan-gunmen-kill-one-anti-polio-worker-and-wound-three-others.md) _2017-08-27 03:38:57 (Update)_
+1. [War in North-West Pakistan:Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/war-in-north-west-pakistan-pgunmen-kill-one-anti-polio-worker-and-wound-three-others.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/war-in-north-west-pakistan-gunmen-kill-one-anti-polio-worker-and-wound-three-others.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/gunmen-kill-one-anti-polio-worker-and-wound-three-others.md) _(Current version)_

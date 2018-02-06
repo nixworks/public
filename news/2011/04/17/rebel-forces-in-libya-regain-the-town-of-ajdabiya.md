@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabi
 
 ### Changes:
 
-1. [2011 Libyan civil war: Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/2011-libyan-civil-war-rebel-forces-in-libya-regain-the-town-of-ajdabiya.md) _2017-08-27 03:32:59 (First version)_
+1. [2011 Libyan civil war: Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/2011-libyan-civil-war-rebel-forces-in-libya-regain-the-town-of-ajdabiya.md) _2018-02-06 13:49:22 (First version)_
 1. [Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabiya.md) _(Current version)_
 
 ### Related:

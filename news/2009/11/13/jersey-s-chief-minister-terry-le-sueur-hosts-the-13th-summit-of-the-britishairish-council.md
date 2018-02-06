@@ -16,7 +16,7 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 
 ### Changes:
 
-1. [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-british-irish-council.md) _2017-08-27 03:26:11 (First version)_
+1. [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-british-irish-council.md) _2018-02-06 13:49:19 (First version)_
 1. [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-britishairish-council.md) _(Current version)_
 
 ### Related:

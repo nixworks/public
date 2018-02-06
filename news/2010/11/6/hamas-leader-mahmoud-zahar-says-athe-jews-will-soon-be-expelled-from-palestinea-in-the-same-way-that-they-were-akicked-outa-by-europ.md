@@ -16,7 +16,7 @@ Hamas leader says Jews were kicked out by France, Britain, Russia and Germany â€
 
 ### Changes:
 
-1. [Hamas leader Mahmoud Zahar says -the Jews will soon be expelled from Palestine- in the same way that they were -kicked out- by European countries -because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-the-jews-will-soon-be-expelled-from-palestine-in-the-same-way-that-they-were-kicked-out-by-europ.md) _2017-08-27 03:31:00 (First version)_
+1. [Hamas leader Mahmoud Zahar says -the Jews will soon be expelled from Palestine- in the same way that they were -kicked out- by European countries -because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-the-jews-will-soon-be-expelled-from-palestine-in-the-same-way-that-they-were-kicked-out-by-europ.md) _2018-02-06 13:49:21 (First version)_
 1. [Hamas leader Mahmoud Zahar says "the Jews will soon be expelled from Palestine" in the same way that they were "kicked out" by European countries "because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-athe-jews-will-soon-be-expelled-from-palestinea-in-the-same-way-that-they-were-akicked-outa-by-europ.md) _(Current version)_
 
 ### Related:

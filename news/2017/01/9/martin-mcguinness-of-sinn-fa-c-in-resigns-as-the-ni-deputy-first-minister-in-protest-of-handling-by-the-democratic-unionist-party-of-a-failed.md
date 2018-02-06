@@ -16,7 +16,7 @@ Martin McGuinness steps down in protest against the handling of a botched energy
 
 ### Changes:
 
-1. [Renewable Heat Incentive scandal: Martin McGuinness of Sinn Fein resigns as the NI deputy first minister in protest of handling by the Democratic Unionist Party of a failed energy scheme that cost Northern Irish taxpayers GBP490 million. His decision will likely lead to a snap election. ](/news/2017/01/9/renewable-heat-incentive-scandal-martin-mcguinness-of-sinn-fa-c-in-resigns-as-the-ni-deputy-first-minister-in-protest-of-handling-by-the-demo.md) _2017-08-27 03:47:35 (First version)_
+1. [Renewable Heat Incentive scandal: Martin McGuinness of Sinn Fein resigns as the NI deputy first minister in protest of handling by the Democratic Unionist Party of a failed energy scheme that cost Northern Irish taxpayers GBP490 million. His decision will likely lead to a snap election. ](/news/2017/01/9/renewable-heat-incentive-scandal-martin-mcguinness-of-sinn-fa-c-in-resigns-as-the-ni-deputy-first-minister-in-protest-of-handling-by-the-demo.md) _2018-02-06 13:49:30 (First version)_
 1. [Martin McGuinness of Sinn Fein resigns as the NI deputy first minister in protest of handling by the Democratic Unionist Party of a failed energy scheme that cost Northern Irish taxpayers GBP490 million. His decision will likely lead to a snap election. ](/news/2017/01/9/martin-mcguinness-of-sinn-fa-c-in-resigns-as-the-ni-deputy-first-minister-in-protest-of-handling-by-the-democratic-unionist-party-of-a-failed.md) _(Current version)_
 
 ### Related:

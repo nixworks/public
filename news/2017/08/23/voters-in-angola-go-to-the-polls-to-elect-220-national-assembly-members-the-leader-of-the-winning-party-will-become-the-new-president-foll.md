@@ -15,7 +15,7 @@ Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ru
 
 ### Changes:
 
-1. [Angolan legislative election, 2017: Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/angolan-legislative-election-2017-voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party.md) _2017-08-27 17:30:04 (First version)_
+1. [Angolan legislative election, 2017: Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/angolan-legislative-election-2017-voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new president, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md) _(Current version)_
 
 ### Related:

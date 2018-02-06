@@ -11,13 +11,13 @@ French police detain a gunman who held four people hostage at a bank in the sout
 ### [Rocket attacks from the Gaza Strip are followed by Israeli airstrikes in response, resulting in at least one death. ](/news/2012/06/20/rocket-attacks-from-the-gaza-strip-are-followed-by-israeli-airstrikes-in-response-resulting-in-at-least-one-death.md)
 Fresh air raid leaves one Palestinian dead, after Hamas fighters fired 45 rockets across the border in 24 hours.
 
-##### Turkish
+##### Turkey
 ### [Turkey's military confirms it has carried out strikes on Kurdish rebel targets inside Iraq. ](/news/2012/06/20/turkey-s-military-confirms-it-has-carried-out-strikes-on-kurdish-rebel-targets-inside-iraq.md)
 The Turkish military said it has carried out strikes on Kurdish rebel targets in Iraq, a day after 18 people died in fighting in south-east Turkey.
 
-##### SOHR
+##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that at least 20 Syrian Army soldiers and five rebels are killed in heavy fighting near Latakia district. ](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.md)
-_Context: SOHR, Syrian Army, Latakia district_
+_Context: Syrian Army, Latakia district, Syrian Observatory for Human Rights_
 
 ##### Libya
 ### [Tribal clashes in western Libya lead to 105 people dead and some 500 injured. ](/news/2012/06/20/tribal-clashes-in-western-libya-lead-to-105-people-dead-and-some-500-injured.md)
@@ -29,7 +29,7 @@ News unveils a $2b takeover bid for James Packer-controlled Consolidated Media e
 
 ##### Larry Ellison
 ### [Larry Ellison, the American CEO of Oracle Corp, agrees to buy 98 per cent of the Hawaiian island of Lanai. ](/news/2012/06/20/larry-ellison-the-american-ceo-of-oracle-corp-agrees-to-buy-98-per-cent-of-the-hawaiian-island-of-lanai.md)
-_Context: Larry Ellison, Lanai, Hawaii, Oracle Corp_
+_Context: Larry Ellison, Oracle Corp, Lanai, Hawaii_
 
 ##### United States
 ### [The United States Congress suggests to extend its military presence in Kuwait. ](/news/2012/06/20/the-united-states-congress-suggests-to-extend-its-military-presence-in-kuwait.md)
@@ -37,7 +37,7 @@ Congressional report says more troops should be based in Gulf state to respond t
 
 ##### Fund for Peace
 ### [Fund for Peace releases its 2012 Failed States Index, with Libya, Japan, and Syria scoring the largest increases since the previous study. ](/news/2012/06/20/fund-for-peace-releases-its-2012-failed-states-index-with-libya-japan-and-syria-scoring-the-largest-increases-since-the-previous-study.md)
-_Context: Japan, Failed States Index, Syria, Fund for Peace_
+_Context: Syria, Failed States Index, Fund for Peace, Japan_
 
 ##### Prime Minister
 ### [The former Prime Minister of Romania, Adrian Nastase, narrowly survives a suicide attempt by gunshot to the throat following a controversial court decision sentencing him to two years in jail. ](/news/2012/06/20/the-former-prime-minister-of-romania-adrian-nastase-narrowly-survives-a-suicide-attempt-by-gunshot-to-the-throat-following-a-controversia.md)
@@ -45,7 +45,7 @@ Former Romanian Prime Minister Adrian Nastase shoots himself in the neck hours a
 
 ##### Egypt
 ### [In Egypt, Hosni Mubarak, ousted from power in last year's revolution, is reported to in a coma and has been taken off life support. ](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.md)
-_Context: 2011 Egyptian revolution, Egypt, Hosni Mubarak_
+_Context: 2011 Egyptian revolution, Hosni Mubarak, Egypt_
 
 ##### presidential election
 ### [The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. ](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.md)

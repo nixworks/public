@@ -34,7 +34,7 @@ More than a million rally in Cairo as massive countrywide protests are held agai
 
 ### Changes:
 
-1. [2011 Egyptian protests: Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/2011-egyptian-protests-protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-s.md) _2017-08-27 03:32:08 (First version)_
+1. [2011 Egyptian protests: Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/2011-egyptian-protests-protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-s.md) _2018-02-06 13:49:21 (First version)_
 1. [Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-square.md) _(Current version)_
 
 ### Related:

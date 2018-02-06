@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-k
 
 ### Changes:
 
-1. [ A car bomb explodes in central Beirut, Lebanon killing former Prime Minister Rafiq Hariri and at least 22 others. Approximately 100 further people are injured in the attack. A little known group calling itself "Victory and Jihad in Greater Syria" claim responsibility. ](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-killing-former-prime-minister-rafiq-hariri-and-at-least-22-others-approximately-100-furthe.md) _2017-08-25 03:15:39 (First version)_
+1. [ A car bomb explodes in central Beirut, Lebanon killing former Prime Minister Rafiq Hariri and at least 22 others. Approximately 100 further people are injured in the attack. A little known group calling itself "Victory and Jihad in Greater Syria" claim responsibility. ](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-killing-former-prime-minister-rafiq-hariri-and-at-least-22-others-approximately-100-furthe.md) _2018-02-06 13:49:16 (First version)_
 1. [ A car bomb explodes in central Beirut, Lebanon killing former Prime Minister Rafiq Hariri and at least 22 others. Approximately 100 further people are injured in the attack. A little known group calling itself "Victory and Jihad in Greater Syria" claim responsibility. ](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-killing-former-prime-minister-rafiq-hariri-and-at-least-22-others-approximately-100-further.md) _(Current version)_
 
 ### Related:

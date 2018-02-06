@@ -16,8 +16,8 @@ Zimbabwe President Robert Mugabe resigned Tuesday, ending nearly four decades of
 
 ### Changes:
 
-1. [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of nearly 40 years in office. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-nearly-40-years-i.md) _2017-11-22 00:30:05 (First version)_
-2. [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 37 years in office as President. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-his-37-years-in-o.md) _2017-11-23 00:30:05 (Update)_
+1. [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of nearly 40 years in office. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-nearly-40-years-i.md) _2018-02-06 13:49:31 (First version)_
+2. [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 37 years in office as President. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-his-37-years-in-o.md) _2018-02-06 13:49:31 (Update)_
 2. [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 29 years in office as President. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-his-29-years-in-o.md) _(Current version)_
 
 ### Related:

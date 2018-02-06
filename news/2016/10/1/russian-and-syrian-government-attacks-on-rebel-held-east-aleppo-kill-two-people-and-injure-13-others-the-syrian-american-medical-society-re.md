@@ -17,7 +17,7 @@ Russian and Syrian air raids on the rebel-held east of Aleppo have forced the cl
 
 ### Changes:
 
-1. [Syrian civil war: Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/syrian-civil-war-russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american.md) _2017-08-27 03:46:56 (First version)_
+1. [Syrian civil war: Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/syrian-civil-war-russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american.md) _2018-02-06 13:49:29 (First version)_
 1. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _(Current version)_
 
 ### Related:

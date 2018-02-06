@@ -16,7 +16,7 @@ Brazilian police arrested former Finance Minister Guido Mantega on Thursday as a
 
 ### Changes:
 
-1. [Operation Car Wash: Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/operation-car-wash-brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md) _2017-08-27 03:46:53 (First version)_
+1. [Operation Car Wash: Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/operation-car-wash-brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md) _2018-02-06 13:49:29 (First version)_
 1. [Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/14/india-suspends-rescue-operations-due-to-heavy-r
 
 ### Changes:
 
-1. [2014 India-Pakistan floods:India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/2014-indiaapakistan-floods-pindia-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-r.md) _2017-08-25 03:40:58 (First version)_
-2. [2014 India-Pakistan floods:: India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/2014-india-pakistan-floods-india-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await.md) _2017-08-27 03:41:17 (Update)_
+1. [2014 India-Pakistan floods:India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/2014-indiaapakistan-floods-pindia-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-r.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 India-Pakistan floods:: India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/2014-india-pakistan-floods-india-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await.md) _2018-02-06 13:49:26 (Update)_
 2. [India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/india-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-rescue.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ Almost 50 Iranian pilgrims have been kidnapped near a Shia shrine in Syria, repo
 
 ### Changes:
 
-1. [Arab Spring:Syrian civil war:Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/arab-spring-psyrian-civil-war-pclashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md) _2017-08-25 03:36:13 (First version)_
-2. [Arab Spring:: Syrian civil war:: Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/arab-spring-syrian-civil-war-clashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md) _2017-08-27 03:36:24 (Update)_
+1. [Arab Spring:: Syrian civil war:: Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/arab-spring-syrian-civil-war-clashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian civil war:Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/arab-spring-psyrian-civil-war-pclashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian civil war:Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/syrian-civil-war-clashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md) _(Current version)_
 
 ### Related:

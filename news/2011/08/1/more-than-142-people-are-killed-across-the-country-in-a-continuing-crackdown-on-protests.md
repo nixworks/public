@@ -18,6 +18,6 @@ More deaths reported in several cities, a day after activists said 142 were kill
 
 ### Changes:
 
-1. [2011 Syrian uprising:More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-pmore-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md) _2017-08-25 03:33:55 (First version)_
-2. [2011 Syrian uprising:: More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-more-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md) _2017-08-27 03:34:03 (Update)_
+1. [2011 Syrian uprising:More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-pmore-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:: More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-more-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/more-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md) _(Current version)_

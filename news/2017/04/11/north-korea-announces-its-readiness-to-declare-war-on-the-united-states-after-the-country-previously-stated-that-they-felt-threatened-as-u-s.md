@@ -16,7 +16,7 @@ NORTH Korea is continuing to talk tough with the US, this time promising their â
 
 ### Changes:
 
-1. [North Korea-United States relations: North Korea announces its readiness to declare war on the United States after the country previously stated that they felt threatened as U.S. military forces approach the Korean Peninsula. ](/news/2017/04/11/north-korea-united-states-relations-north-korea-announces-its-readiness-to-declare-war-on-the-united-states-after-the-country-previously.md) _2017-08-27 03:48:08 (First version)_
+1. [North Korea-United States relations: North Korea announces its readiness to declare war on the United States after the country previously stated that they felt threatened as U.S. military forces approach the Korean Peninsula. ](/news/2017/04/11/north-korea-united-states-relations-north-korea-announces-its-readiness-to-declare-war-on-the-united-states-after-the-country-previously.md) _2018-02-06 13:49:30 (First version)_
 1. [North Korea announces its readiness to declare war on the United States after the country previously stated that they felt threatened as U.S. military forces approach the Korean Peninsula. ](/news/2017/04/11/north-korea-announces-its-readiness-to-declare-war-on-the-united-states-after-the-country-previously-stated-that-they-felt-threatened-as-u-s.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Ernesto Fazzalari of Calabrian ’Ndrangheta faces life sentence having been fou
 
 ### Changes:
 
-1. [Organized crime in Italy: Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/organized-crime-in-italy-ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-n.md) _2017-08-27 03:46:21 (First version)_
+1. [Organized crime in Italy: Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/organized-crime-in-italy-ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-n.md) _2018-02-06 13:49:29 (First version)_
 1. [Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-near-molochio-in-calabria.md) _(Current version)_
 
 ### Related:

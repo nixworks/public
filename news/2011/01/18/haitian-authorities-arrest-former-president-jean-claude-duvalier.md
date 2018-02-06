@@ -18,8 +18,8 @@ Former Haiti leader Jean-Claude &quot;Baby Doc&quot; Duvalier is charged with co
 
 ### Changes:
 
-1. [Arrest of Jean-Claude "Baby Doc" Duvalier:Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/arrest-of-jean-claude-baby-doc-duvalier-phaitian-authorities-arrest-former-president-jean-claude-duvalier.md) _2017-08-25 03:31:50 (First version)_
-2. [Arrest of Jean-Claude "Baby Doc" Duvalier:: Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/arrest-of-jean-claude-baby-doc-duvalier-haitian-authorities-arrest-former-president-jean-claude-duvalier.md) _2017-08-27 03:31:57 (Update)_
+1. [Arrest of Jean-Claude "Baby Doc" Duvalier:Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/arrest-of-jean-claude-baby-doc-duvalier-phaitian-authorities-arrest-former-president-jean-claude-duvalier.md) _2018-02-06 13:49:21 (First version)_
+2. [Arrest of Jean-Claude "Baby Doc" Duvalier:: Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/arrest-of-jean-claude-baby-doc-duvalier-haitian-authorities-arrest-former-president-jean-claude-duvalier.md) _2018-02-06 13:49:21 (Update)_
 2. [Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/haitian-authorities-arrest-former-president-jean-claude-duvalier.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Death of nine officers in Rohingya-dominated area in Rakhine state sets off mili
 
 ### Changes:
 
-1. [Rohingya insurgency in Western Myanmar: A series of attacks in Rakhine State kill nine police officers and eight militants. ](/news/2016/10/10/rohingya-insurgency-in-western-myanmar-a-series-of-attacks-in-rakhine-state-kill-nine-police-officers-and-eight-militants.md) _2017-08-27 03:47:00 (First version)_
+1. [Rohingya insurgency in Western Myanmar: A series of attacks in Rakhine State kill nine police officers and eight militants. ](/news/2016/10/10/rohingya-insurgency-in-western-myanmar-a-series-of-attacks-in-rakhine-state-kill-nine-police-officers-and-eight-militants.md) _2018-02-06 13:49:29 (First version)_
 1. [A series of attacks in Rakhine State kill nine police officers and eight militants. ](/news/2016/10/10/a-series-of-attacks-in-rakhine-state-kill-nine-police-officers-and-eight-militants.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The €5 note will be the first to get a facelift, with Europa&#8217;s face in t
 
 ### Changes:
 
-1. [Mario Draghi, president of the European Central Bank, confirms the overhaul of euro banknotes, beginning with the -5 note. ](/news/2012/11/8/mario-draghi-president-of-the-european-central-bank-confirms-the-overhaul-of-euro-banknotes-beginning-with-the-5-note.md) _2017-08-27 03:36:57 (First version)_
+1. [Mario Draghi, president of the European Central Bank, confirms the overhaul of euro banknotes, beginning with the -5 note. ](/news/2012/11/8/mario-draghi-president-of-the-european-central-bank-confirms-the-overhaul-of-euro-banknotes-beginning-with-the-5-note.md) _2018-02-06 13:49:24 (First version)_
 1. [Mario Draghi, president of the European Central Bank, confirms the overhaul of euro banknotes, beginning with the EUR5 note. ](/news/2012/11/8/mario-draghi-president-of-the-european-central-bank-confirms-the-overhaul-of-euro-banknotes-beginning-with-the-a-5-note.md) _(Current version)_
 
 ### Related:

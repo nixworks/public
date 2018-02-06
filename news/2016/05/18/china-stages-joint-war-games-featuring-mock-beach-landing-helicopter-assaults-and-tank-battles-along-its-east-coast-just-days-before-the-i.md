@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-bea
 
 ### Changes:
 
-1. [Cross-Strait relations: China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/cross-strait-relations-china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast.md) _2017-08-27 03:46:03 (First version)_
+1. [Cross-Strait relations: China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/cross-strait-relations-china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast.md) _2018-02-06 13:49:29 (First version)_
 1. [China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast-just-days-before-the-i.md) _(Current version)_
 
 ### Related:

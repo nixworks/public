@@ -16,8 +16,8 @@ Redistricting is part of a bare-knuckled fight in North Carolina, where Democrat
 
 ### Changes:
 
-1. [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-t.md) _2017-08-25 03:47:56 (First version)_
-2. [North Carolina's congressional districts: The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/north-carolina-s-congressional-districts-the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-th.md) _2017-08-27 03:48:23 (Update)_
+1. [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-t.md) _2018-02-06 13:49:30 (First version)_
+2. [North Carolina's congressional districts: The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/north-carolina-s-congressional-districts-the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-th.md) _2018-02-06 13:49:30 (Update)_
 2. [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-to.md) _(Current version)_
 
 ### Related:

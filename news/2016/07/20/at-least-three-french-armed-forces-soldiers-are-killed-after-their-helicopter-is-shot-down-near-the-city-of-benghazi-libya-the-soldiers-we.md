@@ -16,7 +16,7 @@ Three French soldiers have been killed in Libya after their helicopter was shot 
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): At least three French Armed Forces soldiers are killed after their helicopter is shot down near the city of Benghazi, Libya. The soldiers were killed while carrying out "dangerous intelligence operations", according to French President Francois Hollande. ](/news/2016/07/20/libyan-civil-war-2014-present-at-least-three-french-armed-forces-soldiers-are-killed-after-their-helicopter-is-shot-down-near-the-city.md) _2017-08-27 03:46:31 (First version)_
+1. [Libyan Civil War (2014-present): At least three French Armed Forces soldiers are killed after their helicopter is shot down near the city of Benghazi, Libya. The soldiers were killed while carrying out "dangerous intelligence operations", according to French President Francois Hollande. ](/news/2016/07/20/libyan-civil-war-2014-present-at-least-three-french-armed-forces-soldiers-are-killed-after-their-helicopter-is-shot-down-near-the-city.md) _2018-02-06 13:49:29 (First version)_
 1. [At least three French Armed Forces soldiers are killed after their helicopter is shot down near the city of Benghazi, Libya. The soldiers were killed while carrying out "dangerous intelligence operations", according to French President Francois Hollande. ](/news/2016/07/20/at-least-three-french-armed-forces-soldiers-are-killed-after-their-helicopter-is-shot-down-near-the-city-of-benghazi-libya-the-soldiers-we.md) _(Current version)_
 
 ### Related:

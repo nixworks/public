@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/8/typhoon-chan-hom-falcon-hits-the-philippines-wit
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/2015-pacific-typhoon-season-typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md) _2017-08-27 03:42:40 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/2015-pacific-typhoon-season-typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A British engineer and his Italian colleague, who were abducted in Nigeria last 
 
 ### Changes:
 
-1. [British Prime Minister David Cameron announces that two engineers - Briton Chris McManus and Italian Franco Lamolinara - who were abducted by Islamic extremists in Nigeria in May 2011 were killed during a rescue attempt by British and Nigerian forces. ](/news/2012/03/8/british-prime-minister-david-cameron-announces-that-two-engineers-briton-chris-mcmanus-and-italian-franco-lamolinara-who-were-abduct.md) _2017-08-27 03:35:23 (First version)_
+1. [British Prime Minister David Cameron announces that two engineers - Briton Chris McManus and Italian Franco Lamolinara - who were abducted by Islamic extremists in Nigeria in May 2011 were killed during a rescue attempt by British and Nigerian forces. ](/news/2012/03/8/british-prime-minister-david-cameron-announces-that-two-engineers-briton-chris-mcmanus-and-italian-franco-lamolinara-who-were-abduct.md) _2018-02-06 13:49:23 (First version)_
 1. [British Prime Minister David Cameron announces that two engineers - Briton Chris McManus and Italian Franco Lamolinara - who were abducted by Islamic extremists in Nigeria in May 2011 were killed during a rescue attempt by British and Nigerian forces. ](/news/2012/03/8/british-prime-minister-david-cameron-announces-that-two-engineers-a-briton-chris-mcmanus-and-italian-franco-lamolinara-a-who-were-abduct.md) _(Current version)_
 
 ### Related:

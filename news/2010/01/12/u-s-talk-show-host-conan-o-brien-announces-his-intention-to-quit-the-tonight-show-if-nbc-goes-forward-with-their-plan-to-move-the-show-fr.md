@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-
 
 ### Changes:
 
-1. [U.S. talk show host Conan O'Brien announces his intention to quit ''The Tonight Show'' if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of ''The Jay Leno Show''. ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show.md) _2017-08-25 03:26:52 (First version)_
+1. [U.S. talk show host Conan O'Brien announces his intention to quit ''The Tonight Show'' if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of ''The Jay Leno Show''. ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show.md) _2018-02-06 13:49:19 (First version)_
 1. [U.S. talk show host Conan O'Brien announces his intention to quit "The Tonight Show" if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of "The Jay Leno Show". ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show-fr.md) _(Current version)_
 
 ### Related:

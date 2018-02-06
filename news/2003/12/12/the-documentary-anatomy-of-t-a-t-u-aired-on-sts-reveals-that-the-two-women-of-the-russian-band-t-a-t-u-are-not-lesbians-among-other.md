@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/12/the-documentary-anatomy-of-t-a-t-u-aired-on-sts
 
 ### Changes:
 
-1. [ The documentary ''Anatomy of t.A.T.u.'', aired on STS, reveals that the two women of the Russian band t.A.T.u. are not lesbians, among other revelations.](/news/2003/12/12/the-documentary-anatomy-of-t-a-t-u-aired-on-sts-reveals-that-the-two-women-of-the-russian-band-t-a-t-u-are-not-lesbians-among-othe.md) _2017-08-25 03:15:23 (First version)_
+1. [ The documentary ''Anatomy of t.A.T.u.'', aired on STS, reveals that the two women of the Russian band t.A.T.u. are not lesbians, among other revelations.](/news/2003/12/12/the-documentary-anatomy-of-t-a-t-u-aired-on-sts-reveals-that-the-two-women-of-the-russian-band-t-a-t-u-are-not-lesbians-among-othe.md) _2018-02-06 13:49:15 (First version)_
 1. [ The documentary "Anatomy of t.A.T.u.", aired on STS, reveals that the two women of the Russian band t.A.T.u. are not lesbians, among other revelations.](/news/2003/12/12/the-documentary-anatomy-of-t-a-t-u-aired-on-sts-reveals-that-the-two-women-of-the-russian-band-t-a-t-u-are-not-lesbians-among-other.md) _(Current version)_
 
 ### Related:

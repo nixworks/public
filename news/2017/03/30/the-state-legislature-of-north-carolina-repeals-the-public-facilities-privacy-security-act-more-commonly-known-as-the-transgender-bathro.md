@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/30/the-state-legislature-of-north-carolina-repeals
 
 ### Changes:
 
-1. [North Carolina House Bill 2: The state legislature of North Carolina repeals the Public Facilities Privacy & Security Act, more commonly known as the "transgender bathroom bill." In its place, the legislature enacts a ban on cities in North Carolina from enacting "civil rights" protections for gay, lesbian, bisexual and transgender people through 2020. ](/news/2017/03/30/north-carolina-house-bill-2-the-state-legislature-of-north-carolina-repeals-the-public-facilities-privacy-security-act-more-commonly-kno.md) _2017-08-27 03:48:04 (First version)_
+1. [North Carolina House Bill 2: The state legislature of North Carolina repeals the Public Facilities Privacy & Security Act, more commonly known as the "transgender bathroom bill." In its place, the legislature enacts a ban on cities in North Carolina from enacting "civil rights" protections for gay, lesbian, bisexual and transgender people through 2020. ](/news/2017/03/30/north-carolina-house-bill-2-the-state-legislature-of-north-carolina-repeals-the-public-facilities-privacy-security-act-more-commonly-kno.md) _2018-02-06 13:49:30 (First version)_
 1. [The state legislature of North Carolina repeals the Public Facilities Privacy & Security Act, more commonly known as the "transgender bathroom bill." In its place, the legislature enacts a ban on cities in North Carolina from enacting "civil rights" protections for gay, lesbian, bisexual and transgender people through 2020. ](/news/2017/03/30/the-state-legislature-of-north-carolina-repeals-the-public-facilities-privacy-security-act-more-commonly-known-as-the-transgender-bathro.md) _(Current version)_
 
 ### Related:

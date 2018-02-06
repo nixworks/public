@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-bi
 
 ### Changes:
 
-1. [Investors are reacting badly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-are-reacting-badly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _2017-11-06 19:30:06 (First version)_
-2. [Investors are reacting poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-are-reacting-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _2017-11-07 00:30:06 (Update)_
-3. [Investors react poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _2017-11-07 10:30:06 (Update)_
+1. [Investors react poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _2018-02-06 13:49:31 (First version)_
+2. [Investors are reacting poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-are-reacting-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _2018-02-06 13:49:31 (Update)_
+3. [Investors are reacting badly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-are-reacting-badly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _2018-02-06 13:49:31 (Update)_
 3. [Investors react poorly to the arrest of Saudi billionaire Prince Al-Waleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-al-waleed-bin-talal-one-of-the-world-s-wealthiest-men.md) _(Current version)_
 
 ### Related:

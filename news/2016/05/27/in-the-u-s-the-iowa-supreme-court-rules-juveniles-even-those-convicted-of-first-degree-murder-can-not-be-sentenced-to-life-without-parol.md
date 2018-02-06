@@ -18,7 +18,7 @@ The character of young people is “a work in progress,” the judges said in se
 
 ### Changes:
 
-1. [In the U.S., the Iowa Supreme Court rules juveniles, even those convicted of first-degree murder, can not be sentenced to life without parole, becoming the 19th state to ban such sentences. As of January, about 2,300 American juveniles were serving life-without-parole sentences. ](/news/2016/05/27/in-the-u-s-the-iowa-supreme-court-rules-juveniles-even-those-convicted-of-first-degree-murder-can-not-be-sentenced-to-life-without-paro.md) _2017-08-25 03:45:46 (First version)_
+1. [In the U.S., the Iowa Supreme Court rules juveniles, even those convicted of first-degree murder, can not be sentenced to life without parole, becoming the 19th state to ban such sentences. As of January, about 2,300 American juveniles were serving life-without-parole sentences. ](/news/2016/05/27/in-the-u-s-the-iowa-supreme-court-rules-juveniles-even-those-convicted-of-first-degree-murder-can-not-be-sentenced-to-life-without-paro.md) _2018-02-06 13:49:29 (First version)_
 1. [In the U.S., the Iowa Supreme Court rules juveniles, even those convicted of first-degree murder, can not be sentenced to life without parole, becoming the 19th state to ban such sentences. As of January, about 2,300 American juveniles were serving life-without-parole sentences. ](/news/2016/05/27/in-the-u-s-the-iowa-supreme-court-rules-juveniles-even-those-convicted-of-first-degree-murder-can-not-be-sentenced-to-life-without-parol.md) _(Current version)_
 
 ### Related:

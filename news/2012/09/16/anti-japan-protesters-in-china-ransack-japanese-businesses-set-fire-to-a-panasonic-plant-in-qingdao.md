@@ -20,8 +20,8 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-panti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _2017-08-25 03:36:31 (First version)_
-2. [Senkaku Islands dispute:: Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _2017-08-27 03:36:41 (Update)_
+1. [Senkaku Islands dispute:Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-panti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _2018-02-06 13:49:23 (Update)_
 2. [Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md) _(Current version)_
 
 ### Related:

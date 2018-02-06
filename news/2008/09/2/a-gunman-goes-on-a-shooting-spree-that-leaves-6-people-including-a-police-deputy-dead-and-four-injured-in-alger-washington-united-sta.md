@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/09/2/a-gunman-goes-on-a-shooting-spree-that-leaves-6-
 
 ### Changes:
 
-1. [ A gunman goes on a shooting spree that leaves 6 people, including a police deputy, dead, and four injured, in Alger, Washington, United States.](/news/2008/09/2/a-gunman-goes-on-a-shooting-spree-that-leaves-6-people-including-a-police-deputy-dead-and-four-injured-in-alger-washington-united-st.md) _2017-08-25 03:22:48 (First version)_
+1. [ A gunman goes on a shooting spree that leaves 6 people, including a police deputy, dead, and four injured, in Alger, Washington, United States.](/news/2008/09/2/a-gunman-goes-on-a-shooting-spree-that-leaves-6-people-including-a-police-deputy-dead-and-four-injured-in-alger-washington-united-st.md) _2018-02-06 13:49:18 (First version)_
 1. [ A gunman goes on a shooting spree that leaves 6 people, including a police deputy, dead, and four injured, in Alger, Washington, United States.](/news/2008/09/2/a-gunman-goes-on-a-shooting-spree-that-leaves-6-people-including-a-police-deputy-dead-and-four-injured-in-alger-washington-united-sta.md) _(Current version)_
 
 ### Related:

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/27/a-suicide-bomber-kills-5-in-a-targeted-attack-o
 
 ### [2014-11-27](/news/2014/11/27/index.md)
 
-##### British
+##### United Kingdom
 # A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. 
 
 A suicide bomber strikes a UK embassy vehicle in the Afghan capital Kabul, with a British worker and an Afghan staff member among those killed.
@@ -16,8 +16,8 @@ A suicide bomber strikes a UK embassy vehicle in the Afghan capital Kabul, with 
 
 ### Changes:
 
-1. [War in Afghanistan:A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-pa-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _2017-08-25 03:41:15 (First version)_
-2. [War in Afghanistan:: A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-a-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _2017-08-27 03:41:33 (Update)_
+1. [War in Afghanistan:A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-pa-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan:: A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-a-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/a-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _(Current version)_
 
 ### Related:

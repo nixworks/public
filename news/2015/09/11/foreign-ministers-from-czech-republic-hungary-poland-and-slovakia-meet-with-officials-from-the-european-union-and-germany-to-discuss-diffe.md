@@ -16,7 +16,7 @@ Footage emerges of migrants being thrown bags of food at a Hungarian camp near t
 
 ### Changes:
 
-1. [European migrant crisis: Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/european-migrant-crisis-foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and.md) _2017-08-27 03:43:01 (First version)_
+1. [European migrant crisis: Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/european-migrant-crisis-foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and.md) _2018-02-06 13:49:27 (First version)_
 1. [Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and-germany-to-discuss-diffe.md) _(Current version)_
 
 ### Related:

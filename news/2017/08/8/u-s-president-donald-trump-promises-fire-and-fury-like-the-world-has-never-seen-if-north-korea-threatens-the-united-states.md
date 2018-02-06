@@ -17,7 +17,7 @@ President Trump vows North Korea could be met with &quot;fire and fury&quot; if 
 
 ### Changes:
 
-1. [2017 North Korea crisis: U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/2017-north-korea-crisis-u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-uni.md) _2017-08-27 03:48:47 (First version)_
+1. [2017 North Korea crisis: U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/2017-north-korea-crisis-u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-uni.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-united-states.md) _(Current version)_
 
 ### Related:

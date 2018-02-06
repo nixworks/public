@@ -20,7 +20,7 @@ Formats: [HTML](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in
 
 ### Changes:
 
-1. [The United States Armed Forces are embroiled in controversy over a defunct officer training course called ''Perspectives on Islam and Islamic Radicalism'', which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islami.md) _2017-08-25 03:35:40 (First version)_
+1. [The United States Armed Forces are embroiled in controversy over a defunct officer training course called ''Perspectives on Islam and Islamic Radicalism'', which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islami.md) _2018-02-06 13:49:23 (First version)_
 1. [The United States Armed Forces are embroiled in controversy over a defunct officer training course called "Perspectives on Islam and Islamic Radicalism", which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islamic.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-
 
 ### Changes:
 
-1. [2016 Brussels bombings: Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/2016-brussels-bombings-mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also.md) _2017-08-27 03:45:33 (First version)_
-2. [Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invol.md) _2017-10-17 03:52:33 (Update)_
+1. [Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invol.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Brussels bombings: Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/2016-brussels-bombings-mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also.md) _2018-02-06 13:49:29 (Update)_
 2. [ Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invo.md) _(Current version)_
 
 ### Related:

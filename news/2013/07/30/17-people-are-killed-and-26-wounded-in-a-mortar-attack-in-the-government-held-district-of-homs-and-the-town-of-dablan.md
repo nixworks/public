@@ -18,8 +18,8 @@ Syrian opposition and government forces battle for Homs; Kurdish leader killed
 
 ### Changes:
 
-1. [Syrian civil war:17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/syrian-civil-war-p17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md) _2017-08-25 03:39:04 (First version)_
-2. [Syrian civil war:: 17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/syrian-civil-war-17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md) _2017-08-27 03:39:19 (Update)_
+1. [Syrian civil war:17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/syrian-civil-war-p17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: 17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/syrian-civil-war-17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md) _2018-02-06 13:49:25 (Update)_
 2. [17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md) _(Current version)_
 
 ### Related:

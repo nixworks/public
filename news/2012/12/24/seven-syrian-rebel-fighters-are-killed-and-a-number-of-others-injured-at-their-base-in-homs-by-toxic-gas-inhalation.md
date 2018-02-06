@@ -17,8 +17,8 @@ Though Moscow maintains that Syria’s chemical weapons are secure, new rumors h
 
 ### Changes:
 
-1. [Syrian civil war:Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/syrian-civil-war-pseven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md) _2017-08-25 03:37:07 (First version)_
-2. [Syrian civil war:: Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/syrian-civil-war-seven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md) _2017-08-27 03:37:17 (Update)_
+1. [Syrian civil war:: Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/syrian-civil-war-seven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/syrian-civil-war-pseven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md) _2018-02-06 13:49:24 (Update)_
 2. [Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/seven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md) _(Current version)_
 
 ### Related:

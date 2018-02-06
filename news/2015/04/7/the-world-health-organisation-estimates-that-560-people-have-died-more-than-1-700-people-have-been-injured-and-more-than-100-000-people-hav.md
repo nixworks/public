@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/7/the-world-health-organisation-estimates-that-560
 
 ### Changes:
 
-1. [Intervention in Yemen: The World Health Organisation estimates that 560 people have died, more than 1,700 people have been injured and more than 100,000 people have fled their homes following the intensification of fighting three weeks ago. ](/news/2015/04/7/intervention-in-yemen-the-world-health-organisation-estimates-that-560-people-have-died-more-than-1-700-people-have-been-injured-and-more.md) _2017-08-27 03:42:10 (First version)_
+1. [Intervention in Yemen: The World Health Organisation estimates that 560 people have died, more than 1,700 people have been injured and more than 100,000 people have fled their homes following the intensification of fighting three weeks ago. ](/news/2015/04/7/intervention-in-yemen-the-world-health-organisation-estimates-that-560-people-have-died-more-than-1-700-people-have-been-injured-and-more.md) _2018-02-06 13:49:27 (First version)_
 1. [The World Health Organisation estimates that 560 people have died, more than 1,700 people have been injured and more than 100,000 people have fled their homes following the intensification of fighting three weeks ago. ](/news/2015/04/7/the-world-health-organisation-estimates-that-560-people-have-died-more-than-1-700-people-have-been-injured-and-more-than-100-000-people-hav.md) _(Current version)_
 
 ### Related:

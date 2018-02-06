@@ -17,7 +17,7 @@ Republican presidential candidate Ted Cruz said Monday he’s fired campaign com
 
 ### Changes:
 
-1. [United States presidential election, 2016: Republican candidate Ted Cruz fires campaign spokesman Rick Tyler who posted incorrect information on Twitter about candidate Marco Rubio. ](/news/2016/02/22/united-states-presidential-election-2016-republican-candidate-ted-cruz-fires-campaign-spokesman-rick-tyler-who-posted-incorrect-informatio.md) _2017-08-27 03:45:00 (First version)_
+1. [United States presidential election, 2016: Republican candidate Ted Cruz fires campaign spokesman Rick Tyler who posted incorrect information on Twitter about candidate Marco Rubio. ](/news/2016/02/22/united-states-presidential-election-2016-republican-candidate-ted-cruz-fires-campaign-spokesman-rick-tyler-who-posted-incorrect-informatio.md) _2018-02-06 13:49:28 (First version)_
 1. [Republican candidate Ted Cruz fires campaign spokesman Rick Tyler who posted incorrect information on Twitter about candidate Marco Rubio. ](/news/2016/02/22/republican-candidate-ted-cruz-fires-campaign-spokesman-rick-tyler-who-posted-incorrect-information-on-twitter-about-candidate-marco-rubio.md) _(Current version)_
 
 ### Related:

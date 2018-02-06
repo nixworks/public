@@ -16,7 +16,7 @@ Following an accusation by Swedish Foreign Minister Margot Wallström alleging t
 
 ### Changes:
 
-1. [Israel-Sweden relations: Israel says Swedish Foreign Minister Margot Wallstrom is no longer welcome in the country after she called for investigations into "suspected extrajudicial executions" of Palestinians by the Israeli army. Sweden has for many years financed NGOs such as B'Tselem and Breaking the Silence operating in Israel. ](/news/2016/01/13/israel-sweden-relations-israel-says-swedish-foreign-minister-margot-wallstrapm-is-no-longer-welcome-in-the-country-after-she-called-for-i.md) _2017-08-27 03:44:40 (First version)_
+1. [Israel-Sweden relations: Israel says Swedish Foreign Minister Margot Wallstrom is no longer welcome in the country after she called for investigations into "suspected extrajudicial executions" of Palestinians by the Israeli army. Sweden has for many years financed NGOs such as B'Tselem and Breaking the Silence operating in Israel. ](/news/2016/01/13/israel-sweden-relations-israel-says-swedish-foreign-minister-margot-wallstrapm-is-no-longer-welcome-in-the-country-after-she-called-for-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Israel says Swedish Foreign Minister Margot Wallstrom is no longer welcome in the country after she called for investigations into "suspected extrajudicial executions" of Palestinians by the Israeli army. Sweden has for many years financed NGOs such as B'Tselem and Breaking the Silence operating in Israel. ](/news/2016/01/13/israel-says-swedish-foreign-minister-margot-wallstrapm-is-no-longer-welcome-in-the-country-after-she-called-for-investigations-into-suspect.md) _(Current version)_
 
 ### Related:

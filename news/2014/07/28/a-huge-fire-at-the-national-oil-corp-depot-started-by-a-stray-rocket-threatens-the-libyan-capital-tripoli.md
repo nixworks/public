@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/28/a-huge-fire-at-the-national-oil-corp-depot-star
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/post-civil-war-violence-in-libya-pa-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md) _2017-08-25 03:40:46 (First version)_
-2. [Post-civil war violence in Libya:: A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/post-civil-war-violence-in-libya-a-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripol.md) _2017-08-27 03:41:04 (Update)_
+1. [Post-civil war violence in Libya:A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/post-civil-war-violence-in-libya-pa-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-civil war violence in Libya:: A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/post-civil-war-violence-in-libya-a-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripol.md) _2018-02-06 13:49:26 (Update)_
 2. [A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/a-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md) _(Current version)_
 
 ### Related:

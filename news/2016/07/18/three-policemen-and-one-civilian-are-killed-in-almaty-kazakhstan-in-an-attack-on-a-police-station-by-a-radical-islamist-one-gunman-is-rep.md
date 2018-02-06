@@ -16,7 +16,7 @@ At least five people were killed and nine injured in a suspected Islamist attack
 
 ### Changes:
 
-1. [2016 shooting of Almaty police officers: Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. ](/news/2016/07/18/2016-shooting-of-almaty-police-officers-three-policemen-and-one-civilian-are-killed-in-almaty-kazakhstan-in-an-attack-on-a-police-station.md) _2017-08-27 03:46:31 (First version)_
+1. [2016 shooting of Almaty police officers: Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. ](/news/2016/07/18/2016-shooting-of-almaty-police-officers-three-policemen-and-one-civilian-are-killed-in-almaty-kazakhstan-in-an-attack-on-a-police-station.md) _2018-02-06 13:49:29 (First version)_
 1. [Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. ](/news/2016/07/18/three-policemen-and-one-civilian-are-killed-in-almaty-kazakhstan-in-an-attack-on-a-police-station-by-a-radical-islamist-one-gunman-is-rep.md) _(Current version)_
 
 ### Related:

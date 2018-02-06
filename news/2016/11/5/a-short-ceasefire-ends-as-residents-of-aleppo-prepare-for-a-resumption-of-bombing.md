@@ -16,7 +16,7 @@ Syrian rebels and civilians refuse to leave the besieged city of Aleppo as a cea
 
 ### Changes:
 
-1. [Battle of Aleppo: A short ceasefire ends as residents of Aleppo prepare for a resumption of bombing. ](/news/2016/11/5/battle-of-aleppo-a-short-ceasefire-ends-as-residents-of-aleppo-prepare-for-a-resumption-of-bombing.md) _2017-08-27 03:47:11 (First version)_
+1. [Battle of Aleppo: A short ceasefire ends as residents of Aleppo prepare for a resumption of bombing. ](/news/2016/11/5/battle-of-aleppo-a-short-ceasefire-ends-as-residents-of-aleppo-prepare-for-a-resumption-of-bombing.md) _2018-02-06 13:49:29 (First version)_
 1. [A short ceasefire ends as residents of Aleppo prepare for a resumption of bombing. ](/news/2016/11/5/a-short-ceasefire-ends-as-residents-of-aleppo-prepare-for-a-resumption-of-bombing.md) _(Current version)_
 
 ### Related:

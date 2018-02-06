@@ -18,7 +18,7 @@ Saudi Arabians voted 17 women into public office in municipal elections in the c
 
 ### Changes:
 
-1. [Saudi Arabian municipal elections, 2015: Unofficial results show at least 17 Saudi Arabian women won municipal council seats in the kingdom's third-ever election, and the first to allow female participation. Voters elected representatives for two thirds of the municipal council seats. The government announced that 979 women were candidates. ](/news/2015/12/13/saudi-arabian-municipal-elections-2015-unofficial-results-show-at-least-17-saudi-arabian-women-won-municipal-council-seats-in-the-kingdom.md) _2017-08-27 03:44:20 (First version)_
+1. [Saudi Arabian municipal elections, 2015: Unofficial results show at least 17 Saudi Arabian women won municipal council seats in the kingdom's third-ever election, and the first to allow female participation. Voters elected representatives for two thirds of the municipal council seats. The government announced that 979 women were candidates. ](/news/2015/12/13/saudi-arabian-municipal-elections-2015-unofficial-results-show-at-least-17-saudi-arabian-women-won-municipal-council-seats-in-the-kingdom.md) _2018-02-06 13:49:28 (First version)_
 1. [Unofficial results show at least 17 Saudi Arabian women won municipal council seats in the kingdom's third-ever election, and the first to allow female participation. Voters elected representatives for two thirds of the municipal council seats. The government announced that 979 women were candidates. ](/news/2015/12/13/unofficial-results-show-at-least-17-saudi-arabian-women-won-municipal-council-seats-in-the-kingdom-s-third-ever-election-and-the-first-to-a.md) _(Current version)_
 
 ### Related:

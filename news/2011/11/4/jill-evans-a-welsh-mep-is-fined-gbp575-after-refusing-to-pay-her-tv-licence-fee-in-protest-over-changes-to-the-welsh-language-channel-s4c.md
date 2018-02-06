@@ -16,7 +16,7 @@ A Euro MP must pay a total of £575 after refusing to pay her TV licence fee in 
 
 ### Changes:
 
-1. [Jill Evans, a Welsh MEP, is fined 575 after refusing to pay her TV licence fee in protest over changes to the Welsh-language channel S4C. ](/news/2011/11/4/jill-evans-a-welsh-mep-is-fined-ps575-after-refusing-to-pay-her-tv-licence-fee-in-protest-over-changes-to-the-welsh-language-channel-s4c.md) _2017-08-25 03:34:26 (First version)_
+1. [Jill Evans, a Welsh MEP, is fined 575 after refusing to pay her TV licence fee in protest over changes to the Welsh-language channel S4C. ](/news/2011/11/4/jill-evans-a-welsh-mep-is-fined-ps575-after-refusing-to-pay-her-tv-licence-fee-in-protest-over-changes-to-the-welsh-language-channel-s4c.md) _2018-02-06 13:49:23 (First version)_
 1. [Jill Evans, a Welsh MEP, is fined GBP575 after refusing to pay her TV licence fee in protest over changes to the Welsh-language channel S4C. ](/news/2011/11/4/jill-evans-a-welsh-mep-is-fined-gbp575-after-refusing-to-pay-her-tv-licence-fee-in-protest-over-changes-to-the-welsh-language-channel-s4c.md) _(Current version)_
 
 ### Related:

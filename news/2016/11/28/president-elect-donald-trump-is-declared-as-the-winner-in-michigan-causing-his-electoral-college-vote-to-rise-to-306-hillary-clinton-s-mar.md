@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the
 
 ### Changes:
 
-1. [United States presidential election, 2016: President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/united-states-presidential-election-2016-president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college.md) _2017-08-27 03:47:19 (First version)_
+1. [United States presidential election, 2016: President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/united-states-presidential-election-2016-president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md) _(Current version)_
 
 ### Related:

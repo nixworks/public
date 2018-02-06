@@ -11,8 +11,8 @@ Formats: [HTML](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bil
 
 ### Changes:
 
-1. [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. ](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state.md) _2017-08-25 03:35:04 (First version)_
-2. [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. [http:--www.washingtonpost.com-national-apnewsbreak-gay-marriage-bill-delivered-to-nj-governor-who-has-vowed-to-veto-it-2012-02-17-gIQApnPrJR_story.html "(The Washington Post)"]](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state-http-www-washingtonpost-com-national.md) _2017-10-17 03:40:48 (Update)_
+1. [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. ](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state.md) _2018-02-06 13:49:23 (First version)_
+2. [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. [http:--www.washingtonpost.com-national-apnewsbreak-gay-marriage-bill-delivered-to-nj-governor-who-has-vowed-to-veto-it-2012-02-17-gIQApnPrJR_story.html "(The Washington Post)"]](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state-http-www-washingtonpost-com-national.md) _2018-02-06 13:49:23 (Update)_
 2. [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. [https:--www.washingtonpost.com-national-apnewsbreak-gay-marriage-bill-delivered-to-nj-governor-who-has-vowed-to-veto-it-2012-02-17-gIQApnPrJR_story.html "(The Washington Post)"]](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state-https-www-washingtonpost-com-nationa.md) _(Current version)_
 
 ### Related:

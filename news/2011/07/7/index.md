@@ -33,7 +33,7 @@ _Context: Civil Aviation Safety Authority, Australia, Tiger Airways_
 
 ##### NYSE Euronext
 ### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
-_Context: New York Stock Exchange, Deutsche Boerse AG, NYSE Euronext_
+_Context: New York Stock Exchange, NYSE Euronext, Deutsche Boerse AG_
 
 ##### News International
 ### [News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-phone-hacking-affair-with-the-final-edition-c.md)
@@ -41,11 +41,11 @@ Police investigating allegations of phone hacking by the News of the World plead
 
 ##### earthquake
 ### [A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. ](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.md)
-_Context: earthquake, Kermadec Islands, tidal surge, New Zealand_
+_Context: earthquake, tidal surge, Kermadec Islands, New Zealand_
 
 ##### coal mine
 ### [At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. ](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.md)
-_Context: coal mine, Shandong Province, China_
+_Context: coal mine, China, Shandong Province_
 
 ##### Uttar Pradesh
 ### [At least thirty people are feared dead after a collision between a passenger train and a bus in Uttar Pradesh, India. ](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.md)
@@ -53,7 +53,7 @@ The bus passengers were returning from a marriage celebration. The accident happ
 
 ##### Enschede
 ### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente "De Grolsch Veste" collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-and.md)
-_Context: Enschede, De Grolsch Veste, FC Twente, Netherlands_
+_Context: De Grolsch Veste, Enschede, FC Twente, Netherlands_
 
 ##### Denver, Colorado
 ### [A heavy storm in the US city of Denver, Colorado, causes localized flooding and causing 10,000 houses to lose power. ](/news/2011/07/7/a-heavy-storm-in-the-us-city-of-denver-colorado-causes-localized-flooding-and-causing-10-000-houses-to-lose-power.md)
@@ -61,7 +61,7 @@ _Context: Denver, Colorado, Colorado, flood_
 
 ##### South Korea
 ### [South Korea starts work on a new facility to rehouse refugees from North Korea to avoid both food shortages and political oppression. ](/news/2011/07/7/south-korea-starts-work-on-a-new-facility-to-rehouse-refugees-from-north-korea-to-avoid-both-food-shortages-and-political-oppression.md)
-_Context: South Korea, refugee, North Korea_
+_Context: refugee, North Korea, South Korea_
 
 ##### Janet Napolitano
 ### [Janet Napolitano, the United States Secretary of Homeland Security, rolls out the Obama administration's strategy to curb drug smuggling on the Mexican border. ](/news/2011/07/7/janet-napolitano-the-united-states-secretary-of-homeland-security-rolls-out-the-obama-administration-s-strategy-to-curb-drug-smuggling-on.md)
@@ -93,11 +93,11 @@ Riot police patrolled the streets to break up opposition protests in Dhaka and e
 
 ##### China
 ### [The People's Republic of China dismisses reports of the death of former President Jiang Zemin as "pure rumour". ](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.md)
-_Context: Chinese President, China, Jiang Zemin_
+_Context: China, Jiang Zemin, Chinese President_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md)
-_Context: Gaza Strip, Crete, Freedom Flotilla II, Hellenic Coast Guard_
+_Context: Hellenic Coast Guard, Crete, Freedom Flotilla II, Gaza Strip_
 
 ##### National Congress Party
 ### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)

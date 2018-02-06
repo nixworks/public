@@ -16,7 +16,7 @@ Demonstrations in support of the United Liberation Movement for West Papua have 
 
 ### Changes:
 
-1. [Papua conflict: Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. ](/news/2016/04/13/papua-conflict-massive-demonstrations-in-support-of-the-free-papua-movement-take-place-in-various-cities-in-the-indonesian-provinces-of-pap.md) _2017-08-27 03:45:36 (First version)_
+1. [Papua conflict: Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. ](/news/2016/04/13/papua-conflict-massive-demonstrations-in-support-of-the-free-papua-movement-take-place-in-various-cities-in-the-indonesian-provinces-of-pap.md) _2018-02-06 13:49:28 (First version)_
 1. [Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. ](/news/2016/04/13/massive-demonstrations-in-support-of-the-free-papua-movement-take-place-in-various-cities-in-the-indonesian-provinces-of-papua-and-west-papu.md) _(Current version)_
 
 ### Related:

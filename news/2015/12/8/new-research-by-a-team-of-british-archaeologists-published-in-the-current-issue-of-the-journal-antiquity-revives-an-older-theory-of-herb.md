@@ -18,7 +18,7 @@ Stonehenge may have stood in Wales hundreds of years before it was dismantled an
 
 ### Changes:
 
-1. [New research by a team of British archaeologists, published in the current issue of the journal ''Antiquity'', revives an older theory of Herbert Henry Thomas that Stonehenge may have stood in Wales hundreds of years before it was dismantled and transported to Salisbury Plain in Wiltshire in South West England. ](/news/2015/12/8/new-research-by-a-team-of-british-archaeologists-published-in-the-current-issue-of-the-journal-antiquity-revives-an-older-theory-of-he.md) _2017-08-25 03:43:54 (First version)_
+1. [New research by a team of British archaeologists, published in the current issue of the journal ''Antiquity'', revives an older theory of Herbert Henry Thomas that Stonehenge may have stood in Wales hundreds of years before it was dismantled and transported to Salisbury Plain in Wiltshire in South West England. ](/news/2015/12/8/new-research-by-a-team-of-british-archaeologists-published-in-the-current-issue-of-the-journal-antiquity-revives-an-older-theory-of-he.md) _2018-02-06 13:49:28 (First version)_
 1. [New research by a team of British archaeologists, published in the current issue of the journal "Antiquity", revives an older theory of Herbert Henry Thomas that Stonehenge may have stood in Wales hundreds of years before it was dismantled and transported to Salisbury Plain in Wiltshire in South West England. ](/news/2015/12/8/new-research-by-a-team-of-british-archaeologists-published-in-the-current-issue-of-the-journal-antiquity-revives-an-older-theory-of-herb.md) _(Current version)_
 
 ### Related:

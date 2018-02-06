@@ -18,7 +18,7 @@ Niloy Neel, a Bangladeshi blogger known for his atheist views, is hacked to deat
 
 ### Changes:
 
-1. [Attacks on secularists in Bangladesh: A Bangladeshi blogger known for his atheist views is hacked to death by a gang armed with machetes, the fourth such incident this year, in the capital Dhaka. ](/news/2015/08/7/attacks-on-secularists-in-bangladesh-a-bangladeshi-blogger-known-for-his-atheist-views-is-hacked-to-death-by-a-gang-armed-with-machetes-th.md) _2017-08-27 03:42:47 (First version)_
+1. [Attacks on secularists in Bangladesh: A Bangladeshi blogger known for his atheist views is hacked to death by a gang armed with machetes, the fourth such incident this year, in the capital Dhaka. ](/news/2015/08/7/attacks-on-secularists-in-bangladesh-a-bangladeshi-blogger-known-for-his-atheist-views-is-hacked-to-death-by-a-gang-armed-with-machetes-th.md) _2018-02-06 13:49:27 (First version)_
 1. [A Bangladeshi blogger known for his atheist views is hacked to death by a gang armed with machetes, the fourth such incident this year, in the capital Dhaka. ](/news/2015/08/7/a-bangladeshi-blogger-known-for-his-atheist-views-is-hacked-to-death-by-a-gang-armed-with-machetes-the-fourth-such-incident-this-year-in-t.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-r
 
 ### Changes:
 
-1. [ Minneapolis Police Chief Janee Harteau, upon reflection, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-resigns-in-the-wake-of-last-saturdayas-tragedy-as-well-as-some-other-recent-inc.md) _2017-07-22 00:30:06 (First version)_
-2. [Shooting of Justine Damond: Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday-s tragedy as well as some other recent incidents. ](/news/2017/07/21/shooting-of-justine-damond-minneapolis-police-chief-janea-c-harteau-upon-reflection-and-at-mayor-betsy-hodges-s-request-resigns-in-the-wak.md) _2017-08-27 03:48:41 (Update)_
+1. [Shooting of Justine Damond: Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday-s tragedy as well as some other recent incidents. ](/news/2017/07/21/shooting-of-justine-damond-minneapolis-police-chief-janea-c-harteau-upon-reflection-and-at-mayor-betsy-hodges-s-request-resigns-in-the-wak.md) _2018-02-06 13:49:30 (First version)_
+2. [ Minneapolis Police Chief Janee Harteau, upon reflection, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-resigns-in-the-wake-of-last-saturdayas-tragedy-as-well-as-some-other-recent-inc.md) _2018-02-06 13:49:30 (Update)_
 2. [ Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-and-at-mayor-betsy-hodges-s-request-resigns-in-the-wake-of-last-saturdayas-trag.md) _(Current version)_
 
 ### Related:

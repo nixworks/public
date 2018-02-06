@@ -16,8 +16,8 @@ Thai Prime Minister Yingluck Shinawatra urges anti-government demonstrators to e
 
 ### Changes:
 
-1. [2013 Thai protests:The Prime Minister of Thailand Yingluck Shinawatra survives a no-confidence vote in the Parliament amidst street protests. ](/news/2013/11/28/2013-thai-protests-pthe-prime-minister-of-thailand-yingluck-shinawatra-survives-a-no-confidence-vote-in-the-parliament-amidst-street-protest.md) _2017-08-25 03:39:36 (First version)_
-2. [2013 Thai protests:: The Prime Minister of Thailand Yingluck Shinawatra survives a no-confidence vote in the Parliament amidst street protests. ](/news/2013/11/28/2013-thai-protests-the-prime-minister-of-thailand-yingluck-shinawatra-survives-a-no-confidence-vote-in-the-parliament-amidst-street-protes.md) _2017-08-27 03:39:54 (Update)_
+1. [2013 Thai protests:: The Prime Minister of Thailand Yingluck Shinawatra survives a no-confidence vote in the Parliament amidst street protests. ](/news/2013/11/28/2013-thai-protests-the-prime-minister-of-thailand-yingluck-shinawatra-survives-a-no-confidence-vote-in-the-parliament-amidst-street-protes.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:The Prime Minister of Thailand Yingluck Shinawatra survives a no-confidence vote in the Parliament amidst street protests. ](/news/2013/11/28/2013-thai-protests-pthe-prime-minister-of-thailand-yingluck-shinawatra-survives-a-no-confidence-vote-in-the-parliament-amidst-street-protest.md) _2018-02-06 13:49:25 (Update)_
 2. [The Prime Minister of Thailand Yingluck Shinawatra survives a no-confidence vote in the Parliament amidst street protests. ](/news/2013/11/28/the-prime-minister-of-thailand-yingluck-shinawatra-survives-a-no-confidence-vote-in-the-parliament-amidst-street-protests.md) _(Current version)_
 
 ### Related:

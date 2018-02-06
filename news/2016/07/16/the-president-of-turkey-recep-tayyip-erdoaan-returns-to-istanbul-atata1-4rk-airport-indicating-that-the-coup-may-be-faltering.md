@@ -24,7 +24,7 @@ Vowing that faction leaders will “pay a heavy price,” President Recep Tayyip
 
 ### Changes:
 
-1. [2016 Turkish coup d'etat attempt: The President of Turkey Recep Tayyip Erdogan returns to Istanbul Ataturk Airport indicating that the coup may be faltering. ](/news/2016/07/16/2016-turkish-coup-d-a-c-tat-attempt-the-president-of-turkey-recep-tayyip-erdoaan-returns-to-istanbul-atata1-4rk-airport-indicating-that-the-co.md) _2017-08-27 03:46:30 (First version)_
+1. [2016 Turkish coup d'etat attempt: The President of Turkey Recep Tayyip Erdogan returns to Istanbul Ataturk Airport indicating that the coup may be faltering. ](/news/2016/07/16/2016-turkish-coup-d-a-c-tat-attempt-the-president-of-turkey-recep-tayyip-erdoaan-returns-to-istanbul-atata1-4rk-airport-indicating-that-the-co.md) _2018-02-06 13:49:29 (First version)_
 1. [The President of Turkey Recep Tayyip Erdogan returns to Istanbul Ataturk Airport indicating that the coup may be faltering. ](/news/2016/07/16/the-president-of-turkey-recep-tayyip-erdoaan-returns-to-istanbul-atata1-4rk-airport-indicating-that-the-coup-may-be-faltering.md) _(Current version)_
 
 ### Related:

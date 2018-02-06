@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/24/chadian-soldiers-kill-over-200-boko-haram-fight
 
 ### Changes:
 
-1. [Boko Haram: Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/boko-haram-chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon.md) _2017-08-27 03:42:00 (First version)_
+1. [Boko Haram: Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/boko-haram-chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon.md) _2018-02-06 13:49:26 (First version)_
 1. [Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon-one-chad-ar.md) _(Current version)_
 
 ### Related:

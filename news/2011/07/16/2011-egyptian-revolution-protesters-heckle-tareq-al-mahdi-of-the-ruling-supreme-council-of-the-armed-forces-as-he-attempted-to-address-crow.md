@@ -20,7 +20,7 @@ Hundreds of exiled Syrian activists meeting in Istanbul on Saturday elected a 25
 
 ### Changes:
 
-1. [Arab Spring: 2011 Egyptian revolution: Protesters heckle Tareq al-Mahdi of the ruling Supreme Council of the Armed Forces as he attempted to address crowds in Tahrir Square. ](/news/2011/07/16/arab-spring-2011-egyptian-revolution-protesters-heckle-tareq-al-mahdi-of-the-ruling-supreme-council-of-the-armed-forces-as-he-attempted-to.md) _2017-08-27 03:33:55 (First version)_
+1. [Arab Spring: 2011 Egyptian revolution: Protesters heckle Tareq al-Mahdi of the ruling Supreme Council of the Armed Forces as he attempted to address crowds in Tahrir Square. ](/news/2011/07/16/arab-spring-2011-egyptian-revolution-protesters-heckle-tareq-al-mahdi-of-the-ruling-supreme-council-of-the-armed-forces-as-he-attempted-to.md) _2018-02-06 13:49:22 (First version)_
 1. [2011 Egyptian revolution: Protesters heckle Tareq al-Mahdi of the ruling Supreme Council of the Armed Forces as he attempted to address crowds in Tahrir Square. ](/news/2011/07/16/2011-egyptian-revolution-protesters-heckle-tareq-al-mahdi-of-the-ruling-supreme-council-of-the-armed-forces-as-he-attempted-to-address-crow.md) _(Current version)_
 
 ### Related:

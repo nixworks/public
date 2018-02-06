@@ -16,7 +16,7 @@ The Paraguayan Congress is not interested in considering the protocol for Venezu
 
 ### Changes:
 
-1. [ Senator Miguel Carrioza says the Congress of Paraguay is not interested in considering the protocol for Venezuela-s incorporation to Mercosur. ](/news/2009/08/7/senator-miguel-carrioza-says-the-congress-of-paraguay-is-not-interested-in-considering-the-protocol-for-venezuela-s-incorporation-to-merc.md) _2017-08-27 03:25:17 (First version)_
+1. [ Senator Miguel Carrioza says the Congress of Paraguay is not interested in considering the protocol for Venezuela-s incorporation to Mercosur. ](/news/2009/08/7/senator-miguel-carrioza-says-the-congress-of-paraguay-is-not-interested-in-considering-the-protocol-for-venezuela-s-incorporation-to-merc.md) _2018-02-06 13:49:19 (First version)_
 1. [ Senator Miguel Carrioza says the Congress of Paraguay is not interested in considering the protocol for Venezuela's incorporation to Mercosur. ](/news/2009/08/7/senator-miguel-carrioza-says-the-congress-of-paraguay-is-not-interested-in-considering-the-protocol-for-venezuelaas-incorporation-to-merc.md) _(Current version)_
 
 ### Related:

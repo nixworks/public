@@ -20,8 +20,8 @@ The US announces joint naval exercises with Seoul after a report blamed N Korea 
 
 ### Changes:
 
-1. [Sinking of the ROKS ''Cheonan'':South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-psouth-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md) _2017-08-25 03:28:00 (First version)_
-2. [Sinking of the ROKS "Cheonan":: South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md) _2017-08-27 03:27:59 (Update)_
+1. [Sinking of the ROKS "Cheonan":: South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md) _2018-02-06 13:49:20 (First version)_
+2. [Sinking of the ROKS ''Cheonan'':South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-psouth-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md) _2018-02-06 13:49:20 (Update)_
 2. [South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed-to-use-south-korean-waters-the.md) _(Current version)_
 
 ### Related:

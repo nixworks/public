@@ -16,8 +16,8 @@ It comes amid heightened tensions, and fears North Korea is planning more nuclea
 
 ### Changes:
 
-1. [The USS ''Michigan'' docks at Busan, South Korea, amid growing concerns over North Korean aggression. ](/news/2017/04/25/the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-aggression.md) _2017-04-26 07:26:55 (First version)_
-2. [North Korea-United States relations: The USS "Michigan" docks at Busan, South Korea, amid growing concerns over North Korean weapons development. ](/news/2017/04/25/north-korea-united-states-relations-the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-weapons-devel.md) _2017-08-27 03:48:14 (Update)_
+1. [The USS ''Michigan'' docks at Busan, South Korea, amid growing concerns over North Korean aggression. ](/news/2017/04/25/the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-aggression.md) _2018-02-06 13:49:30 (First version)_
+2. [North Korea-United States relations: The USS "Michigan" docks at Busan, South Korea, amid growing concerns over North Korean weapons development. ](/news/2017/04/25/north-korea-united-states-relations-the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-weapons-devel.md) _2018-02-06 13:49:30 (Update)_
 2. [The USS "Michigan" docks at Busan, South Korea, amid growing concerns over North Korean weapons development. ](/news/2017/04/25/the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-weapons-development.md) _(Current version)_
 
 ### Related:

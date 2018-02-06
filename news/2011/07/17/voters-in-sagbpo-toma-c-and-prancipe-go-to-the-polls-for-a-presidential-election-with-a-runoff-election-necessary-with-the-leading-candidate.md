@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/17/voters-in-sagbpo-toma-c-and-prancipe-go-to-the-
 
 ### Changes:
 
-1. [Voters in Sao Tome and Principe go to the polls for a presidential election with a runoff election necessary with the leading candidate Pinto da Costa failing to achieve an absolute majority. ](/news/2011/07/17/voters-in-sapso-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-a-runoff-election-necessary-with-the-leading-candidate-p.md) _2017-08-25 03:33:48 (First version)_
+1. [Voters in Sao Tome and Principe go to the polls for a presidential election with a runoff election necessary with the leading candidate Pinto da Costa failing to achieve an absolute majority. ](/news/2011/07/17/voters-in-sapso-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-a-runoff-election-necessary-with-the-leading-candidate-p.md) _2018-02-06 13:49:22 (First version)_
 1. [Voters in SGBPo Tome and Principe go to the polls for a presidential election with a runoff election necessary with the leading candidate Pinto da Costa failing to achieve an absolute majority. ](/news/2011/07/17/voters-in-sagbpo-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-a-runoff-election-necessary-with-the-leading-candidate.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Twenty-eight people were killed Wednesday when Al-Shabaab fighters attacked a po
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/war-in-somalia-2009-present-twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrori.md) _2017-08-27 03:47:41 (First version)_
+1. [War in Somalia (2009-present): Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/war-in-somalia-2009-present-twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrori.md) _2018-02-06 13:49:30 (First version)_
 1. [Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.md) _(Current version)_
 
 ### Related:

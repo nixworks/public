@@ -16,7 +16,7 @@ The US carries out air strikes in Libya on positions of so-called Islamic State 
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The United States launches airstrikes on ISIL positions in the Libyan city of Sirte following a request from the UN-backed Government of National Accord. Libyan Prime Minister Fayez al-Sarraj, in a televised address, says the strikes have caused "heavy ISIL losses". ](/news/2016/08/1/libyan-civil-war-2014-present-the-united-states-launches-airstrikes-on-isil-positions-in-the-libyan-city-of-sirte-following-a-request-f.md) _2017-08-27 03:46:35 (First version)_
+1. [Libyan Civil War (2014-present): The United States launches airstrikes on ISIL positions in the Libyan city of Sirte following a request from the UN-backed Government of National Accord. Libyan Prime Minister Fayez al-Sarraj, in a televised address, says the strikes have caused "heavy ISIL losses". ](/news/2016/08/1/libyan-civil-war-2014-present-the-united-states-launches-airstrikes-on-isil-positions-in-the-libyan-city-of-sirte-following-a-request-f.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States launches airstrikes on ISIL positions in the Libyan city of Sirte following a request from the UN-backed Government of National Accord. Libyan Prime Minister Fayez al-Sarraj, in a televised address, says the strikes have caused "heavy ISIL losses". ](/news/2016/08/1/the-united-states-launches-airstrikes-on-isil-positions-in-the-libyan-city-of-sirte-following-a-request-from-the-un-backed-government-of-nat.md) _(Current version)_
 
 ### Related:

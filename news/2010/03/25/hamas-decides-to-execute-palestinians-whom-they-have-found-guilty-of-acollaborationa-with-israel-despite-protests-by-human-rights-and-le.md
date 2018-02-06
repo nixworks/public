@@ -16,7 +16,7 @@ Mahmoud Zahar criticizes recent firing of rockets at Israel.
 
 ### Changes:
 
-1. [Hamas decides to execute Palestinians whom they have found guilty of -collaboration- with Israel despite protests by human rights and legal organizations, while criticizing those who have been firing rockets at Israel in the past few days. ](/news/2010/03/25/hamas-decides-to-execute-palestinians-whom-they-have-found-guilty-of-collaboration-with-israel-despite-protests-by-human-rights-and-le.md) _2017-08-27 03:27:24 (First version)_
+1. [Hamas decides to execute Palestinians whom they have found guilty of -collaboration- with Israel despite protests by human rights and legal organizations, while criticizing those who have been firing rockets at Israel in the past few days. ](/news/2010/03/25/hamas-decides-to-execute-palestinians-whom-they-have-found-guilty-of-collaboration-with-israel-despite-protests-by-human-rights-and-le.md) _2018-02-06 13:49:19 (First version)_
 1. [Hamas decides to execute Palestinians whom they have found guilty of "collaboration" with Israel despite protests by human rights and legal organizations, while criticizing those who have been firing rockets at Israel in the past few days. ](/news/2010/03/25/hamas-decides-to-execute-palestinians-whom-they-have-found-guilty-of-acollaborationa-with-israel-despite-protests-by-human-rights-and-le.md) _(Current version)_
 
 ### Related:

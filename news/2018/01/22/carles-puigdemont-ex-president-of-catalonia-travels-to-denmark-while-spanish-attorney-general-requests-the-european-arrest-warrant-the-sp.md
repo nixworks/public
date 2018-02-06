@@ -17,7 +17,7 @@ The ousted Catalan leader, Carles Puigdemont has vowed to form a new government 
 
 ### Changes:
 
-1. [Carles Puigdemont, ex President of Catalonia, flees to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-flees-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-spea.md) _2018-01-22 13:30:08 (First version)_
+1. [Carles Puigdemont, ex President of Catalonia, flees to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-flees-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-spea.md) _2018-02-06 13:49:31 (First version)_
 1. [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md) _(Current version)_
 
 ### Related:

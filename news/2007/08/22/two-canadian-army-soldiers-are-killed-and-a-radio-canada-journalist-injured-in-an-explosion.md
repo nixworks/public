@@ -15,6 +15,6 @@ Formats: [HTML](/news/2007/08/22/two-canadian-army-soldiers-are-killed-and-a-rad
 
 ### Changes:
 
-1. [ War in Afghanistan: Two Canadian Army soldiers are killed and a Radio Canada journalist injured in an explosion. ](/news/2007/08/22/war-in-afghanistan-p-two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.md) _2017-08-25 03:20:41 (First version)_
-2. [ War in Afghanistan:: Two Canadian Army soldiers are killed and a Radio Canada journalist injured in an explosion. ](/news/2007/08/22/war-in-afghanistan-two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.md) _2017-08-27 03:20:39 (Update)_
+1. [ War in Afghanistan:: Two Canadian Army soldiers are killed and a Radio Canada journalist injured in an explosion. ](/news/2007/08/22/war-in-afghanistan-two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Afghanistan: Two Canadian Army soldiers are killed and a Radio Canada journalist injured in an explosion. ](/news/2007/08/22/war-in-afghanistan-p-two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.md) _2018-02-06 13:49:18 (Update)_
 2. [ Two Canadian Army soldiers are killed and a Radio Canada journalist injured in an explosion. ](/news/2007/08/22/two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.md) _(Current version)_

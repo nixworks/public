@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/11/23/boko-haram-militants-kill-48-fish-traders-near-
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/islamist-insurgency-in-nigeria-pboko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _2017-08-25 03:41:14 (First version)_
-2. [Islamist insurgency in Nigeria:: Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/islamist-insurgency-in-nigeria-boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _2017-08-27 03:41:33 (Update)_
+1. [Islamist insurgency in Nigeria:Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/islamist-insurgency-in-nigeria-pboko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/islamist-insurgency-in-nigeria-boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _2018-02-06 13:49:26 (Update)_
 2. [Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md) _(Current version)_
 
 ### Related:

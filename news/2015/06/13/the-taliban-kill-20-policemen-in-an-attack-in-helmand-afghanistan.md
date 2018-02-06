@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/13/the-taliban-kill-20-policemen-in-an-attack-in-h
 
 ### Changes:
 
-1. [War in Afghanistan: The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/war-in-afghanistan-the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md) _2017-08-27 03:42:32 (First version)_
+1. [War in Afghanistan: The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/war-in-afghanistan-the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md) _2018-02-06 13:49:27 (First version)_
 1. [The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Move comes as FARC rebels declare two-month unilateral truce after holding meeti
 
 ### Changes:
 
-1. [Colombian conflict:Move comes as FARC rebels declare two-month unilateral truce after holding meetings in Cuba with peace negotiators. ](/news/2012/11/20/colombian-conflict-pmove-comes-as-farc-rebels-declare-two-month-unilateral-truce-after-holding-meetings-in-cuba-with-peace-negotiators.md) _2017-08-25 03:36:50 (First version)_
-2. [Colombian conflict:: Move comes as FARC rebels declare two-month unilateral truce after holding meetings in Cuba with peace negotiators. ](/news/2012/11/20/colombian-conflict-move-comes-as-farc-rebels-declare-two-month-unilateral-truce-after-holding-meetings-in-cuba-with-peace-negotiators.md) _2017-08-27 03:37:00 (Update)_
+1. [Colombian conflict:Move comes as FARC rebels declare two-month unilateral truce after holding meetings in Cuba with peace negotiators. ](/news/2012/11/20/colombian-conflict-pmove-comes-as-farc-rebels-declare-two-month-unilateral-truce-after-holding-meetings-in-cuba-with-peace-negotiators.md) _2018-02-06 13:49:24 (First version)_
+2. [Colombian conflict:: Move comes as FARC rebels declare two-month unilateral truce after holding meetings in Cuba with peace negotiators. ](/news/2012/11/20/colombian-conflict-move-comes-as-farc-rebels-declare-two-month-unilateral-truce-after-holding-meetings-in-cuba-with-peace-negotiators.md) _2018-02-06 13:49:24 (Update)_
 2. [Move comes as FARC rebels declare two-month unilateral truce after holding meetings in Cuba with peace negotiators. ](/news/2012/11/20/move-comes-as-farc-rebels-declare-two-month-unilateral-truce-after-holding-meetings-in-cuba-with-peace-negotiators.md) _(Current version)_
 
 ### Related:

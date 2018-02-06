@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kenne
 
 ### Changes:
 
-1. [ NASA postpones the landing of ''Atlantis'' at Kennedy Space Center due to inclement weather, prolonging STS-117 for another day. NASA states that it can extend the mission until June 24 if necessary. ](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kennedy-space-center-due-to-inclement-weather-prolonging-sts-117-for-another-day-nasa-stat.md) _2017-08-25 03:20:00 (First version)_
+1. [ NASA postpones the landing of ''Atlantis'' at Kennedy Space Center due to inclement weather, prolonging STS-117 for another day. NASA states that it can extend the mission until June 24 if necessary. ](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kennedy-space-center-due-to-inclement-weather-prolonging-sts-117-for-another-day-nasa-stat.md) _2018-02-06 13:49:17 (First version)_
 1. [ NASA postpones the landing of "Atlantis" at Kennedy Space Center due to inclement weather, prolonging STS-117 for another day. NASA states that it can extend the mission until June 24 if necessary. ](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kennedy-space-center-due-to-inclement-weather-prolonging-sts-117-for-another-day-nasa-states.md) _(Current version)_
 
 ### Related:

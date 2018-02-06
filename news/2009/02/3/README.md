@@ -13,15 +13,15 @@ _Context: Israel, Al Jazeera_
 
 ##### California
 ### [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md)
-_Context: California, IOU, state government_
+_Context: IOU, California, state government_
 
 ##### Afghanistan
 ### [ Afghanistan's National Directorate of Security eliminates a Pakistani terrorist cell responsible for at least six suicide bombings in Kabul. ](/news/2009/02/3/afghanistan-s-national-directorate-of-security-eliminates-a-pakistani-terrorist-cell-responsible-for-at-least-six-suicide-bombings-in-kabul.md)
-_Context: Kabul, Pakistan, terrorist, supply lines, Afghanistan, National Directorate of Security, suicide bombing_
+_Context: Afghanistan, suicide bombing, Kabul, supply lines, terrorist, Pakistan, National Directorate of Security_
 
 ##### armed forces
 ### [ The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md)
-_Context: bunker, armed forces, LTTE_
+_Context: LTTE, bunker, armed forces_
 
 ##### Government of Australia
 ### [ The government announces a $42-billion stimulus package to revive the economy. ](/news/2009/02/3/the-government-announces-a-42-billion-stimulus-package-to-revive-the-economy.md)
@@ -33,11 +33,11 @@ _Context: ''Omid'', satellite, Iran_
 
 ##### Taliban
 ### [ Suspected Taliban militants suspend NATO supply lines by destroying a bridge on the Pakistan-Afghanistan border. ](/news/2009/02/3/suspected-taliban-militants-suspend-nato-supply-lines-by-destroying-a-bridge-on-the-pakistan-afghanistan-border.md)
-_Context: Pakistan, supply lines, militant, NATO, Taliban, Afghanistan_
+_Context: Afghanistan, Taliban, NATO, supply lines, Pakistan, militant_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom struggles to cope with its heaviest snowfalls since 1991. ](/news/2009/02/3/the-united-kingdom-struggles-to-cope-with-its-heaviest-snowfalls-since-1991.md)
-_Context: British_
+_Context: United Kingdom_
 
 ## [Previous Day...](/news/2009/02/2/index.md)
 

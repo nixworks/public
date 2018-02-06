@@ -11,7 +11,7 @@ Formats: [HTML](/news/2012/01/11/israel-is-bracing-for-an-increase-of-syrian-ref
 
 ### Changes:
 
-1. [Israel is bracing for an increase of Syrian refugees into Golan Heights, according to Israel's military chief. ](/news/2012/01/11/israel-is-bracing-for-an-increase-of-syrian-refugees-into-golan-heights-according-to-israel-s-military-chief.md) _2017-08-25 03:34:50 (First version)_
+1. [Israel is bracing for an increase of Syrian refugees into Golan Heights, according to Israel's military chief. ](/news/2012/01/11/israel-is-bracing-for-an-increase-of-syrian-refugees-into-golan-heights-according-to-israel-s-military-chief.md) _2018-02-06 13:49:23 (First version)_
 1. [Israel is bracing for an increase of Syrian refugees into Golan Heights, according to Israel's military chief. [http:--www.smh.com.au-world-israel-braces-for-syrian-refugees-20120111-1pve6.html "(Sydney Morning Herald)"]](/news/2012/01/11/israel-is-bracing-for-an-increase-of-syrian-refugees-into-golan-heights-according-to-israel-s-military-chief-http-www-smh-com-au-world.md) _(Current version)_
 
 ### Related:

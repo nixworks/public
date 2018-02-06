@@ -16,8 +16,8 @@ Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures cel
 
 ### Changes:
 
-1. [The statue of Confederate President Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed.md) _2017-05-12 03:51:14 (First version)_
-2. [The statue of Confederate President Jefferson Davis in New Orleans is removed; this is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed-this-is-the-second-of-four-planned-removals-of-confederate-mo.md) _2017-05-13 16:30:05 (Update)_
+1. [The statue of Confederate President Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed.md) _2018-02-06 13:49:30 (First version)_
+2. [The statue of Confederate President Jefferson Davis in New Orleans is removed; this is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed-this-is-the-second-of-four-planned-removals-of-confederate-mo.md) _2018-02-06 13:49:30 (Update)_
 2. [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md) _(Current version)_
 
 ### Related:

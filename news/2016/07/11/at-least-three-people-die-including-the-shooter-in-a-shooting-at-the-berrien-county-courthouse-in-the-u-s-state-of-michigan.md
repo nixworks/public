@@ -16,7 +16,7 @@ At least three people were reportedly killed at the Berrien County Courthouse in
 
 ### Changes:
 
-1. [St. Joseph courthouse shooting: At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/st-joseph-courthouse-shooting-at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s.md) _2017-08-27 03:46:28 (First version)_
+1. [St. Joseph courthouse shooting: At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/st-joseph-courthouse-shooting-at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s.md) _2018-02-06 13:49:29 (First version)_
 1. [At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s-state-of-michigan.md) _(Current version)_
 
 ### Related:

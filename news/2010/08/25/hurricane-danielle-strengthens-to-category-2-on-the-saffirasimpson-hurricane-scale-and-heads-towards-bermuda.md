@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on
 
 ### Changes:
 
-1. [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffir-simpson-hurricane-scale-and-heads-towards-bermuda.md) _2017-08-27 03:29:44 (First version)_
+1. [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffir-simpson-hurricane-scale-and-heads-towards-bermuda.md) _2018-02-06 13:49:20 (First version)_
 1. [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffirasimpson-hurricane-scale-and-heads-towards-bermuda.md) _(Current version)_
 
 ### Related:

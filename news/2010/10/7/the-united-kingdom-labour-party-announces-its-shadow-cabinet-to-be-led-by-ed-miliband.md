@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-sh
 
 ### [2010-10-7](/news/2010/10/7/index.md)
 
-##### British
+##### United Kingdom
 # The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-sh
 
 ### Related:
 
-1. [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md) _Context: British, Labour Party_
-2. [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md) _Context: British, Labour Party_
-3. [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md) _Context: British, Ed Miliband_
-4. [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md) _Context: British, Ed Miliband_
-5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+1. [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md) _Context: Labour Party, United Kingdom_
+2. [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md) _Context: Labour Party, United Kingdom_
+3. [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md) _Context: Ed Miliband, United Kingdom_
+4. [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md) _Context: Ed Miliband, United Kingdom_
+5. [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md) _Context: United Kingdom_

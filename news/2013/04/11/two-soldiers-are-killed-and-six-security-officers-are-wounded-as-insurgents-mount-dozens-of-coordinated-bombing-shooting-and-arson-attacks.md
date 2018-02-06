@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/11/two-soldiers-are-killed-and-six-security-office
 
 ### Changes:
 
-1. [South Thailand insurgency:Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/south-thailand-insurgency-ptwo-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing.md) _2017-08-25 03:38:17 (First version)_
-2. [South Thailand insurgency:: Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/south-thailand-insurgency-two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing.md) _2017-08-27 03:38:29 (Update)_
+1. [South Thailand insurgency:: Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/south-thailand-insurgency-two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/south-thailand-insurgency-ptwo-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing.md) _2018-02-06 13:49:24 (Update)_
 2. [Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing-shooting-and-arson-attacks.md) _(Current version)_
 
 ### Related:

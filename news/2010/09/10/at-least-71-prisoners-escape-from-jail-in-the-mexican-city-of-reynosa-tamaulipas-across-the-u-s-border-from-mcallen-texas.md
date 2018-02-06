@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/09/10/at-least-71-prisoners-escape-from-jail-in-the-m
 
 ### Changes:
 
-1. [Mexico:At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/mexico-pat-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md) _2017-08-25 03:29:57 (First version)_
-2. [Mexico:: At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/mexico-at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md) _2017-08-27 03:30:00 (Update)_
+1. [Mexico:At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/mexico-pat-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md) _2018-02-06 13:49:20 (First version)_
+2. [Mexico:: At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/mexico-at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md) _2018-02-06 13:49:20 (Update)_
 2. [At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md) _(Current version)_
 
 ### Related:

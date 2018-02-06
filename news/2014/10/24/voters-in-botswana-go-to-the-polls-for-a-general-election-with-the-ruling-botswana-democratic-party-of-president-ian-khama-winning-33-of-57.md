@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/24/voters-in-botswana-go-to-the-polls-for-a-genera
 
 ### Changes:
 
-1. [Botswana election: Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/botswana-election-voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-kham.md) _2017-08-27 03:41:26 (First version)_
+1. [Botswana election: Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/botswana-election-voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-kham.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-khama-winning-33-of-57.md) _(Current version)_
 
 ### Related:

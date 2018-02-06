@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/08/5/the-us-and-france-have-agreed-on-the-wording-of-
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/2006-israel-lebanon-conflict-p-the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbo.md) _2017-08-25 03:18:09 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/2006-israel-lebanon-conflict-the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbo.md) _2017-08-27 03:18:06 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/2006-israel-lebanon-conflict-the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbo.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/2006-israel-lebanon-conflict-p-the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbo.md) _2018-02-06 13:49:17 (Update)_
 2. [ The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbollah.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Government troops have killed at least 11 members of a rebel group in the southe
 
 ### Changes:
 
-1. [Moro conflict: November 2016 Butig clash: Soldiers killed at least 11 insurgents in Butig. ](/news/2016/11/26/moro-conflict-november-2016-butig-clash-soldiers-killed-at-least-11-insurgents-in-butig.md) _2017-08-27 03:47:18 (First version)_
+1. [Moro conflict: November 2016 Butig clash: Soldiers killed at least 11 insurgents in Butig. ](/news/2016/11/26/moro-conflict-november-2016-butig-clash-soldiers-killed-at-least-11-insurgents-in-butig.md) _2018-02-06 13:49:29 (First version)_
 1. [Soldiers killed at least 11 insurgents in Butig. ](/news/2016/11/26/soldiers-killed-at-least-11-insurgents-in-butig.md) _(Current version)_
 
 ### Related:

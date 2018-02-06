@@ -17,7 +17,7 @@ The rebels belonged to a group that did not sign on to the recent pact reached b
 
 ### Changes:
 
-1. [Civil conflict in the Philippines: More than 40 people are killed on Mindanao between the Philippine government and armed groups opposed to the peace deal between the Philippines and the Moro Islamic Liberation Front. ](/news/2014/01/29/civil-conflict-in-the-philippines-more-than-40-people-are-killed-on-mindanao-between-the-philippine-government-and-armed-groups-opposed-to.md) _2017-08-27 03:40:15 (First version)_
+1. [Civil conflict in the Philippines: More than 40 people are killed on Mindanao between the Philippine government and armed groups opposed to the peace deal between the Philippines and the Moro Islamic Liberation Front. ](/news/2014/01/29/civil-conflict-in-the-philippines-more-than-40-people-are-killed-on-mindanao-between-the-philippine-government-and-armed-groups-opposed-to.md) _2018-02-06 13:49:25 (First version)_
 1. [More than 40 people are killed on Mindanao between the Philippine government and armed groups opposed to the peace deal between the Philippines and the Moro Islamic Liberation Front. ](/news/2014/01/29/more-than-40-people-are-killed-on-mindanao-between-the-philippine-government-and-armed-groups-opposed-to-the-peace-deal-between-the-philippi.md) _(Current version)_
 
 ### Related:

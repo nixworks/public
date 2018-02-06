@@ -18,8 +18,8 @@ At least 14 people have been killed in ethnic clashes in the western Ivory Coast
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/2010a2011-ivorian-crisis-pat-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-el.md) _2017-08-25 03:31:39 (First version)_
-2. [2010-2011 Ivorian crisis:: At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/2010-2011-ivorian-crisis-at-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-e.md) _2017-08-27 03:31:48 (Update)_
+1. [2010-2011 Ivorian crisis:At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/2010a2011-ivorian-crisis-pat-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-el.md) _2018-02-06 13:49:21 (First version)_
+2. [2010-2011 Ivorian crisis:: At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/2010-2011-ivorian-crisis-at-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-e.md) _2018-02-06 13:49:21 (Update)_
 2. [At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/at-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-election-crisis.md) _(Current version)_
 
 ### Related:

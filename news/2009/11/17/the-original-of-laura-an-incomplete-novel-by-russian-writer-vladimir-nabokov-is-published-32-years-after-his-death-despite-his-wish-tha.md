@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/11/17/the-original-of-laura-an-incomplete-novel-by-ru
 
 ### Changes:
 
-1. [ ''The Original of Laura'', an incomplete novel by Russian writer Vladimir Nabokov, is published 32 years after his death despite his wish that its manuscript be burned. ](/news/2009/11/17/the-original-of-laura-an-incomplete-novel-by-russian-writer-vladimir-nabokov-is-published-32-years-after-his-death-despite-his-wish-t.md) _2017-08-25 03:26:23 (First version)_
+1. [ ''The Original of Laura'', an incomplete novel by Russian writer Vladimir Nabokov, is published 32 years after his death despite his wish that its manuscript be burned. ](/news/2009/11/17/the-original-of-laura-an-incomplete-novel-by-russian-writer-vladimir-nabokov-is-published-32-years-after-his-death-despite-his-wish-t.md) _2018-02-06 13:49:19 (First version)_
 1. [ "The Original of Laura", an incomplete novel by Russian writer Vladimir Nabokov, is published 32 years after his death despite his wish that its manuscript be burned. ](/news/2009/11/17/the-original-of-laura-an-incomplete-novel-by-russian-writer-vladimir-nabokov-is-published-32-years-after-his-death-despite-his-wish-tha.md) _(Current version)_
 
 ### Related:

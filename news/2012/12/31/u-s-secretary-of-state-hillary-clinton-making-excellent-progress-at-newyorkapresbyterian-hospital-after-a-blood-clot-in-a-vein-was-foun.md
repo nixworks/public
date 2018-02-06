@@ -17,7 +17,7 @@ US Secretary of State Hillary Clinton is making &quot;excellent progress&quot; a
 
 ### Changes:
 
-1. [U.S. Secretary of State Hillary Clinton making "excellent progress" at NewYork-Presbyterian Hospital after a blood clot in a vein was found in a sinus between her brain and skull. ](/news/2012/12/31/u-s-secretary-of-state-hillary-clinton-making-excellent-progress-at-newyork-presbyterian-hospital-after-a-blood-clot-in-a-vein-was-foun.md) _2017-08-27 03:37:20 (First version)_
+1. [U.S. Secretary of State Hillary Clinton making "excellent progress" at NewYork-Presbyterian Hospital after a blood clot in a vein was found in a sinus between her brain and skull. ](/news/2012/12/31/u-s-secretary-of-state-hillary-clinton-making-excellent-progress-at-newyork-presbyterian-hospital-after-a-blood-clot-in-a-vein-was-foun.md) _2018-02-06 13:49:24 (First version)_
 1. [U.S. Secretary of State Hillary Clinton making "excellent progress" at NewYork-Presbyterian Hospital after a blood clot in a vein was found in a sinus between her brain and skull. ](/news/2012/12/31/u-s-secretary-of-state-hillary-clinton-making-excellent-progress-at-newyorkapresbyterian-hospital-after-a-blood-clot-in-a-vein-was-foun.md) _(Current version)_
 
 ### Related:

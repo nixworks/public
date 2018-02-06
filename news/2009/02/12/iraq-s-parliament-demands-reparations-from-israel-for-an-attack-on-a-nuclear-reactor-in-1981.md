@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-isra
 
 ### Changes:
 
-1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. [http:--www.haaretz.com-hasen-spages-1063718.html (Haaretz)].](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981-http-www-haaretz-com-hasen-spages-1063718.md) _2017-06-18 03:24:12 (First version)_
+1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. [http:--www.haaretz.com-hasen-spages-1063718.html (Haaretz)].](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981-http-www-haaretz-com-hasen-spages-1063718.md) _2018-02-06 13:49:18 (First version)_
 1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. ](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.md) _(Current version)_
 
 ### Related:

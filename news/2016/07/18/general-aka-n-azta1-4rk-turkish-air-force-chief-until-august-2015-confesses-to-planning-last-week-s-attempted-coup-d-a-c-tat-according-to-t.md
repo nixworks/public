@@ -16,8 +16,8 @@ Gen. Akin Ozturk, former chief of the Turkish air force, has confessed to planni
 
 ### Changes:
 
-1. [ General Akin Ozturk, Turkish Air Force chief until August 2015, confesses to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to.md) _2017-08-25 03:46:08 (First version)_
-2. [2016 Turkish coup d'etat attempt: General Akin Ozturk, Turkish Air Force chief until August 2015, confesses to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/2016-turkish-coup-d-a-c-tat-attempt-general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-atte.md) _2017-08-27 03:46:31 (Update)_
+1. [ General Akin Ozturk, Turkish Air Force chief until August 2015, confesses to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Turkish coup d'etat attempt: General Akin Ozturk, Turkish Air Force chief until August 2015, confesses to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/2016-turkish-coup-d-a-c-tat-attempt-general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-atte.md) _2018-02-06 13:49:29 (Update)_
 2. [ General Akin Ozturk, Turkish Air Force chief until August 2015, confesses to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to-t.md) _(Current version)_
 
 ### Related:

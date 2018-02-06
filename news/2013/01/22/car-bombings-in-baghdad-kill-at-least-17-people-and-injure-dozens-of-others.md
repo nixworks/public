@@ -17,8 +17,8 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ### Changes:
 
-1. [Iraqi insurgency:Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-pcar-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md) _2017-08-25 03:37:19 (First version)_
-2. [Iraqi insurgency:: Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md) _2017-08-27 03:37:29 (Update)_
+1. [Iraqi insurgency:Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-pcar-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency:: Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md) _2018-02-06 13:49:24 (Update)_
 2. [Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md) _(Current version)_
 
 ### Related:

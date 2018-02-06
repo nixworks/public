@@ -17,7 +17,7 @@ Adobe said it plans to stop updating and distributing its Flash Player by the en
 
 ### Changes:
 
-1. [Adobe Flash: Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-flash-adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md) _2017-08-27 03:48:43 (First version)_
+1. [Adobe Flash: Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-flash-adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md) _2018-02-06 13:49:30 (First version)_
 1. [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md) _(Current version)_
 
 ### Related:

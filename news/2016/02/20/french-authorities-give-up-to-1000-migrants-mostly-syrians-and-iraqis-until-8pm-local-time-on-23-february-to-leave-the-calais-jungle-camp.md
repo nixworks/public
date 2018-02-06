@@ -16,7 +16,7 @@ Police will be sent in to clear out refugees who do not remove their makeshift h
 
 ### Changes:
 
-1. [Calais migrant crisis: French authorities give up to 1000 migrants, mostly Syrians and Iraqis, until 8pm local time on 23 February to leave the Calais jungle camp. Those who refuse to leave will be forcibly removed by police. ](/news/2016/02/20/calais-migrant-crisis-french-authorities-give-up-to-1000-migrants-mostly-syrians-and-iraqis-until-8pm-local-time-on-23-february-to-leave.md) _2017-08-27 03:44:57 (First version)_
+1. [Calais migrant crisis: French authorities give up to 1000 migrants, mostly Syrians and Iraqis, until 8pm local time on 23 February to leave the Calais jungle camp. Those who refuse to leave will be forcibly removed by police. ](/news/2016/02/20/calais-migrant-crisis-french-authorities-give-up-to-1000-migrants-mostly-syrians-and-iraqis-until-8pm-local-time-on-23-february-to-leave.md) _2018-02-06 13:49:28 (First version)_
 1. [French authorities give up to 1000 migrants, mostly Syrians and Iraqis, until 8pm local time on 23 February to leave the Calais jungle camp. Those who refuse to leave will be forcibly removed by police. ](/news/2016/02/20/french-authorities-give-up-to-1000-migrants-mostly-syrians-and-iraqis-until-8pm-local-time-on-23-february-to-leave-the-calais-jungle-camp.md) _(Current version)_
 
 ### Related:

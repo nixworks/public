@@ -22,8 +22,8 @@ Formats: [HTML](/news/2006/07/23/the-un-s-jan-egeland-has-condemned-the-devastat
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/2006-israel-lebanon-conflict-p-the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-v.md) _2017-08-25 03:18:04 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/2006-israel-lebanon-conflict-the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-v.md) _2017-08-27 03:18:02 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/2006-israel-lebanon-conflict-the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-v.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/2006-israel-lebanon-conflict-p-the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-v.md) _2018-02-06 13:49:17 (Update)_
 2. [ The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-violation-of-humanitarian-law.md) _(Current version)_
 
 ### Related:

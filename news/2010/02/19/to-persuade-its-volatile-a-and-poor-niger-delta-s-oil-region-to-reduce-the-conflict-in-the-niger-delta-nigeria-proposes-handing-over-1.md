@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/19/to-persuade-its-volatile-a-and-poor-niger-delta
 
 ### Changes:
 
-1. [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to -host communities-. ](/news/2010/02/19/to-persuade-its-volatile-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md) _2017-08-27 03:27:06 (First version)_
+1. [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to -host communities-. ](/news/2010/02/19/to-persuade-its-volatile-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md) _2018-02-06 13:49:19 (First version)_
 1. [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to "host communities". ](/news/2010/02/19/to-persuade-its-volatile-a-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md) _(Current version)_
 
 ### Related:

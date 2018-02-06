@@ -16,7 +16,7 @@ Nato says it has observed columns of Russian troops and military equipment enter
 
 ### Changes:
 
-1. [2014 Russian military intervention in Ukraine: NATO claims that Russian Army troops and military equipment have entered Ukraine. ](/news/2014/11/12/2014-russian-military-intervention-in-ukraine-nato-claims-that-russian-army-troops-and-military-equipment-have-entered-ukraine.md) _2017-08-27 03:41:30 (First version)_
+1. [2014 Russian military intervention in Ukraine: NATO claims that Russian Army troops and military equipment have entered Ukraine. ](/news/2014/11/12/2014-russian-military-intervention-in-ukraine-nato-claims-that-russian-army-troops-and-military-equipment-have-entered-ukraine.md) _2018-02-06 13:49:26 (First version)_
 1. [NATO claims that Russian Army troops and military equipment have entered Ukraine. ](/news/2014/11/12/nato-claims-that-russian-army-troops-and-military-equipment-have-entered-ukraine.md) _(Current version)_
 
 ### Related:

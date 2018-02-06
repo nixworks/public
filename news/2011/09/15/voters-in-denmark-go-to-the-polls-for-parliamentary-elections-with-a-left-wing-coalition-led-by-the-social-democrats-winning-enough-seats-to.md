@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/09/15/voters-in-denmark-go-to-the-polls-for-parliamen
 
 ### Changes:
 
-1. [Danish election:Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-pvoters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winnin.md) _2017-08-25 03:34:09 (First version)_
-2. [Danish election:: Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-voters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winni.md) _2017-08-27 03:34:17 (Update)_
+1. [Danish election:: Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-voters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winni.md) _2018-02-06 13:49:22 (First version)_
+2. [Danish election:Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-pvoters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winnin.md) _2018-02-06 13:49:22 (Update)_
 2. [Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/voters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winning-enough-seats-to.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-
 
 ### Changes:
 
-1. [South Thailand insurgency: A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/south-thailand-insurgency-a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-l.md) _2017-08-27 03:40:55 (First version)_
+1. [South Thailand insurgency: A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/south-thailand-insurgency-a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-l.md) _2018-02-06 13:49:26 (First version)_
 1. [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md) _(Current version)_
 
 ### Related:

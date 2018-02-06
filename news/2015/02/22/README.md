@@ -13,7 +13,7 @@ The head of US homeland security urges vigilance after Somali-based militants ca
 
 ##### Second Libyan Civil War (2014-present)
 ### [Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tripoli-and-a-rocket-attack-on-al-abraq-inter.md)
-_Context: Tripoli, Islamic State in Iraq and the Levant, Second Libyan Civil War (2014-present), Iran, Al Abraq International Airport_
+_Context: Iran, Islamic State in Iraq and the Levant, Al Abraq International Airport, Tripoli, Second Libyan Civil War (2014-present)_
 
 ##### ISIL
 ### [ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md)
@@ -33,13 +33,13 @@ Harmony Gold says rescue teams have been deployed to rescue some 486 workers aft
 
 ##### Gold Coast Titans
 ### [Six current and former Gold Coast Titans players are charged with supplying cocaine including Greg Bird, Dave Taylor, Beau Falloon, Jamie Dowling and Kalifa Faifai Loa with all players stood down for the coming Australian National Rugby League season. ](/news/2015/02/22/six-current-and-former-gold-coast-titans-players-are-charged-with-supplying-cocaine-including-greg-bird-dave-taylor-beau-falloon-jamie-do.md)
-_Context: Kalifa Faifai Loa, Australia, Greg Bird, cocaine, Beau Falloon, Gold Coast Titans, Dave Taylor, Jamie Dowling, National Rugby League_
+_Context: Kalifa Faifai Loa, Greg Bird, Dave Taylor, Australia, Gold Coast Titans, Beau Falloon, cocaine, National Rugby League, Jamie Dowling_
 
 ##### Thai police officers
 ### [Thai police arrest at least three people for holding an unauthorised demonstration. ](/news/2015/02/22/thai-police-arrest-at-least-three-people-for-holding-an-unauthorised-demonstration.md)
 _Context: Thai police officers_
 
-##### President
+##### President of the Maldives
 ### [Former President of the Maldives and current Opposition Leader Mohamed Nasheed is arrested.](/news/2015/02/22/former-president-of-the-maldives-and-current-opposition-leader-mohamed-nasheed-is-arrested.md)
 Maldives Police Service (MPS) apprehended former President and opposition leader, Mohamed Nasheed on Sunday. Chairman of Maldives Democratic Party (MDP) Ali Waheed confirmed that Police had arrested President Nasheed. A Vnews journalist on scene report...
 
@@ -49,7 +49,7 @@ Two former foreign secretaries are exposed for their involvement in a new &ldquo
 
 ##### Hungary
 ### [Hungary's ruling Fidesz Party loses its two-thirds supermajority in the National Assembly after a left-wing independent candidate wins a by-election in a district based on the city of Veszprem. ](/news/2015/02/22/hungary-s-ruling-fidesz-party-loses-its-two-thirds-supermajority-in-the-national-assembly-after-a-left-wing-independent-candidate-wins-a-by.md)
-_Context: Veszprem, National Assembly, Hungary, Fidesz party, supermajority, by-election_
+_Context: National Assembly, supermajority, Veszprem, Fidesz party, by-election, Hungary_
 
 ## [Previous Day...](/news/2015/02/21/index.md)
 

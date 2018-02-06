@@ -17,8 +17,8 @@ Officials said the addition of the USS Mesa Verde will give the White House &quo
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive:ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/2014-northern-iraq-offensive-pisil-takes-control-of-the-town-of-tal-afar-iraq.md) _2017-08-25 03:40:34 (First version)_
-2. [2014 Northern Iraq offensive:: ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/2014-northern-iraq-offensive-isil-takes-control-of-the-town-of-tal-afar-iraq.md) _2017-08-27 03:40:51 (Update)_
+1. [2014 Northern Iraq offensive:ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/2014-northern-iraq-offensive-pisil-takes-control-of-the-town-of-tal-afar-iraq.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Northern Iraq offensive:: ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/2014-northern-iraq-offensive-isil-takes-control-of-the-town-of-tal-afar-iraq.md) _2018-02-06 13:49:26 (Update)_
 2. [ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/isil-takes-control-of-the-town-of-tal-afar-iraq.md) _(Current version)_
 
 ### Related:

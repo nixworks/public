@@ -20,7 +20,7 @@ Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houst
 
 ### Changes:
 
-1. [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-after-floodwaters-shut-down-the-cooling-systems-that-kept.md) _2017-09-01 00:30:05 (First version)_
+1. [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-after-floodwaters-shut-down-the-cooling-systems-that-kept.md) _2018-02-06 13:49:31 (First version)_
 1. [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, and according to the company more are expected, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.md) _(Current version)_
 
 ### Related:

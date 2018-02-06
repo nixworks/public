@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/12/an-unknown-gunman-shoots-two-policemen-in-front
 
 ### Changes:
 
-1. [Ferguson unrest: An unknown gunman shoots two policemen in front of the Ferguson city police headquarters in the U.S. state of Missouri. ](/news/2015/03/12/ferguson-unrest-an-unknown-gunman-shoots-two-policemen-in-front-of-the-ferguson-city-police-headquarters-in-the-u-s-state-of-missouri.md) _2017-08-27 03:42:05 (First version)_
+1. [Ferguson unrest: An unknown gunman shoots two policemen in front of the Ferguson city police headquarters in the U.S. state of Missouri. ](/news/2015/03/12/ferguson-unrest-an-unknown-gunman-shoots-two-policemen-in-front-of-the-ferguson-city-police-headquarters-in-the-u-s-state-of-missouri.md) _2018-02-06 13:49:26 (First version)_
 1. [An unknown gunman shoots two policemen in front of the Ferguson city police headquarters in the U.S. state of Missouri. ](/news/2015/03/12/an-unknown-gunman-shoots-two-policemen-in-front-of-the-ferguson-city-police-headquarters-in-the-u-s-state-of-missouri.md) _(Current version)_
 
 ### Related:

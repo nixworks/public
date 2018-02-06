@@ -16,7 +16,7 @@ Taoiseach says no convincing evidence people of North would vote to change statu
 
 ### Changes:
 
-1. [United Ireland: Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/united-ireland-taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _2017-08-27 03:46:48 (First version)_
+1. [United Ireland: Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/united-ireland-taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _2018-02-06 13:49:29 (First version)_
 1. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _(Current version)_
 
 ### Related:

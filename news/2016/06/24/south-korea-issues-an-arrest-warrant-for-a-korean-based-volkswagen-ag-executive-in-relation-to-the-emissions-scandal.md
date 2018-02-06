@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/24/south-korea-issues-an-arrest-warrant-for-a-kore
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: South Korea issues an arrest warrant for a Korean-based Volkswagen AG executive in relation to the emissions scandal. ](/news/2016/06/24/volkswagen-emissions-scandal-south-korea-issues-an-arrest-warrant-for-a-korean-based-volkswagen-ag-executive-in-relation-to-the-emissions-s.md) _2017-08-27 03:46:20 (First version)_
+1. [Volkswagen emissions scandal: South Korea issues an arrest warrant for a Korean-based Volkswagen AG executive in relation to the emissions scandal. ](/news/2016/06/24/volkswagen-emissions-scandal-south-korea-issues-an-arrest-warrant-for-a-korean-based-volkswagen-ag-executive-in-relation-to-the-emissions-s.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea issues an arrest warrant for a Korean-based Volkswagen AG executive in relation to the emissions scandal. ](/news/2016/06/24/south-korea-issues-an-arrest-warrant-for-a-korean-based-volkswagen-ag-executive-in-relation-to-the-emissions-scandal.md) _(Current version)_
 
 ### Related:

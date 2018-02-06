@@ -16,7 +16,7 @@ Bolivia suspends the operating licence of LaMia, the airline whose plane crashed
 
 ### Changes:
 
-1. [LaMia Flight 2933: Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/lamia-flight-2933-bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-kil.md) _2017-08-27 03:47:21 (First version)_
+1. [LaMia Flight 2933: Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/lamia-flight-2933-bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-kil.md) _2018-02-06 13:49:29 (First version)_
 1. [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md) _(Current version)_
 
 ### Related:

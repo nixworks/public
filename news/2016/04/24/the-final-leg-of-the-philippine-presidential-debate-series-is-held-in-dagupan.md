@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/04/24/the-final-leg-of-the-philippine-presidential-de
 
 ### Changes:
 
-1. [Philippine presidential election, 2016.The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/philippine-presidential-election-2016-pthe-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _2017-08-25 03:45:26 (First version)_
-2. [Philippine presidential election, 2016.: The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/philippine-presidential-election-2016-the-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _2017-08-27 03:45:49 (Update)_
+1. [Philippine presidential election, 2016.: The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/philippine-presidential-election-2016-the-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _2018-02-06 13:49:28 (First version)_
+2. [Philippine presidential election, 2016.The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/philippine-presidential-election-2016-pthe-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _2018-02-06 13:49:28 (Update)_
 2. [The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/the-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _(Current version)_
 
 ### Related:

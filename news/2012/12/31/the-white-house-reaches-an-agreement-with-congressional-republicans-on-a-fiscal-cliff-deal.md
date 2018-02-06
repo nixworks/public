@@ -18,8 +18,8 @@ The US formally misses a deadline to avert spending cuts and tax rises - the &qu
 
 ### Changes:
 
-1. [United States "fiscal cliff" debate:The White House reaches an agreement with congressional Republicans on a "fiscal cliff" deal. ](/news/2012/12/31/united-states-fiscal-cliff-debate-pthe-white-house-reaches-an-agreement-with-congressional-republicans-on-a-fiscal-cliff-deal.md) _2017-08-25 03:37:10 (First version)_
-2. [United States "fiscal cliff" debate:: The White House reaches an agreement with congressional Republicans on a "fiscal cliff" deal. ](/news/2012/12/31/united-states-fiscal-cliff-debate-the-white-house-reaches-an-agreement-with-congressional-republicans-on-a-fiscal-cliff-deal.md) _2017-08-27 03:37:20 (Update)_
+1. [United States "fiscal cliff" debate:: The White House reaches an agreement with congressional Republicans on a "fiscal cliff" deal. ](/news/2012/12/31/united-states-fiscal-cliff-debate-the-white-house-reaches-an-agreement-with-congressional-republicans-on-a-fiscal-cliff-deal.md) _2018-02-06 13:49:24 (First version)_
+2. [United States "fiscal cliff" debate:The White House reaches an agreement with congressional Republicans on a "fiscal cliff" deal. ](/news/2012/12/31/united-states-fiscal-cliff-debate-pthe-white-house-reaches-an-agreement-with-congressional-republicans-on-a-fiscal-cliff-deal.md) _2018-02-06 13:49:24 (Update)_
 2. [The White House reaches an agreement with congressional Republicans on a "fiscal cliff" deal. ](/news/2012/12/31/the-white-house-reaches-an-agreement-with-congressional-republicans-on-a-fiscal-cliff-deal.md) _(Current version)_
 
 ### Related:

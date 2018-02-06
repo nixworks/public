@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/07/29/fierce-fighting-continues-in-syria-s-second-cit
 
 ### Changes:
 
-1. [Syrian civil war:Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-pfierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _2017-08-25 03:36:11 (First version)_
-2. [Syrian civil war:: Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _2017-08-27 03:36:22 (Update)_
+1. [Syrian civil war:Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-pfierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _2018-02-06 13:49:23 (Update)_
 2. [Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md) _(Current version)_
 
 ### Related:

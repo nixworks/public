@@ -16,7 +16,7 @@ The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot;
 
 ### Changes:
 
-1. [''The Sunday Herald'' becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-i.md) _2017-08-25 03:40:22 (First version)_
+1. [''The Sunday Herald'' becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-i.md) _2018-02-06 13:49:26 (First version)_
 1. ["The Sunday Herald" becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.md) _(Current version)_
 
 ### Related:

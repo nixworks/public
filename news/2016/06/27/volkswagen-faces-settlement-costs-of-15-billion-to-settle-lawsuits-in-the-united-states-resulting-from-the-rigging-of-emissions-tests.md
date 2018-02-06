@@ -16,7 +16,7 @@ Volkswagen AG’s price tag to settle lawsuits in the U.S. over its rigging of d
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. ](/news/2016/06/27/volkswagen-emissions-scandal-volkswagen-faces-settlement-costs-of-15-billion-to-settle-lawsuits-in-the-united-states-resulting-from-the-ri.md) _2017-08-27 03:46:21 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. ](/news/2016/06/27/volkswagen-emissions-scandal-volkswagen-faces-settlement-costs-of-15-billion-to-settle-lawsuits-in-the-united-states-resulting-from-the-ri.md) _2018-02-06 13:49:29 (First version)_
 1. [Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. ](/news/2016/06/27/volkswagen-faces-settlement-costs-of-15-billion-to-settle-lawsuits-in-the-united-states-resulting-from-the-rigging-of-emissions-tests.md) _(Current version)_
 
 ### Related:

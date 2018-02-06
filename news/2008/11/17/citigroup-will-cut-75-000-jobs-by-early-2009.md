@@ -19,8 +19,8 @@ Formats: [HTML](/news/2008/11/17/citigroup-will-cut-75-000-jobs-by-early-2009.ht
 
 ### Changes:
 
-1. [ Global financial crisis of 2008: Citigroup will cut 75,000 jobs by early 2009. ](/news/2008/11/17/global-financial-crisis-of-2008-p-citigroup-will-cut-75-000-jobs-by-early-2009.md) _2017-08-25 03:23:11 (First version)_
-2. [ Global financial crisis of 2008:: Citigroup will cut 75,000 jobs by early 2009. ](/news/2008/11/17/global-financial-crisis-of-2008-citigroup-will-cut-75-000-jobs-by-early-2009.md) _2017-08-27 03:23:04 (Update)_
+1. [ Global financial crisis of 2008: Citigroup will cut 75,000 jobs by early 2009. ](/news/2008/11/17/global-financial-crisis-of-2008-p-citigroup-will-cut-75-000-jobs-by-early-2009.md) _2018-02-06 13:49:18 (First version)_
+2. [ Global financial crisis of 2008:: Citigroup will cut 75,000 jobs by early 2009. ](/news/2008/11/17/global-financial-crisis-of-2008-citigroup-will-cut-75-000-jobs-by-early-2009.md) _2018-02-06 13:49:18 (Update)_
 2. [ Citigroup will cut 75,000 jobs by early 2009. ](/news/2008/11/17/citigroup-will-cut-75-000-jobs-by-early-2009.md) _(Current version)_
 
 ### Related:

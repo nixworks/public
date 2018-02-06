@@ -15,7 +15,7 @@ Police engaged in what appeared to be an effort to either clear streets or at le
 
 ### Changes:
 
-1. [2014 Hong Kong protest: The Hong Kong Police Force and protesters clash violently in the neighbourhood of Mong Kok. ](/news/2014/10/19/2014-hong-kong-protest-the-hong-kong-police-force-and-protesters-clash-violently-in-the-neighbourhood-of-mong-kok.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Hong Kong protest: The Hong Kong Police Force and protesters clash violently in the neighbourhood of Mong Kok. ](/news/2014/10/19/2014-hong-kong-protest-the-hong-kong-police-force-and-protesters-clash-violently-in-the-neighbourhood-of-mong-kok.md) _2018-02-06 13:49:26 (First version)_
 1. [The Hong Kong Police Force and protesters clash violently in the neighbourhood of Mong Kok. ](/news/2014/10/19/the-hong-kong-police-force-and-protesters-clash-violently-in-the-neighbourhood-of-mong-kok.md) _(Current version)_
 
 ### Related:

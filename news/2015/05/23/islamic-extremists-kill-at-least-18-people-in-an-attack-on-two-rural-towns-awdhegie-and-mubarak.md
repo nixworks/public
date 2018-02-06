@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/23/islamic-extremists-kill-at-least-18-people-in-a
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Islamic extremists kill at least 18 people in an attack on two rural towns Awdhegie and Mubarak, ](/news/2015/05/23/war-in-somalia-2009-present-islamic-extremists-kill-at-least-18-people-in-an-attack-on-two-rural-towns-awdhegie-and-mubarak.md) _2017-08-27 03:42:22 (First version)_
+1. [War in Somalia (2009-present): Islamic extremists kill at least 18 people in an attack on two rural towns Awdhegie and Mubarak, ](/news/2015/05/23/war-in-somalia-2009-present-islamic-extremists-kill-at-least-18-people-in-an-attack-on-two-rural-towns-awdhegie-and-mubarak.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic extremists kill at least 18 people in an attack on two rural towns Awdhegie and Mubarak, ](/news/2015/05/23/islamic-extremists-kill-at-least-18-people-in-an-attack-on-two-rural-towns-awdhegie-and-mubarak.md) _(Current version)_
 
 ### Related:

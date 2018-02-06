@@ -16,7 +16,7 @@ Latest violence between Lulua-Luba and Chow-Pende communities extends eight mont
 
 ### Changes:
 
-1. [Kamwina Nsapu rebellion: The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/kamwina-nsapu-rebellion-the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua.md) _2017-08-27 03:48:14 (First version)_
+1. [Kamwina Nsapu rebellion: The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/kamwina-nsapu-rebellion-the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua.md) _2018-02-06 13:49:30 (First version)_
 1. [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md) _(Current version)_
 
 ### Related:

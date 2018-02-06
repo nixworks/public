@@ -23,8 +23,8 @@ Formats: [HTML](/news/2006/08/3/mahmoud-ahmadinejad-has-said-the-main-solution-t
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Mahmoud Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/2006-israel-lebanon-conflict-p-mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the.md) _2017-08-25 03:18:08 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Mahmoud Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/2006-israel-lebanon-conflict-mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the.md) _2017-08-27 03:18:05 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Mahmoud Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/2006-israel-lebanon-conflict-p-mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Mahmoud Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/2006-israel-lebanon-conflict-mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the.md) _2018-02-06 13:49:17 (Update)_
 2. [ Mahmoud Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the-zionist-regime.md) _(Current version)_
 
 ### Related:

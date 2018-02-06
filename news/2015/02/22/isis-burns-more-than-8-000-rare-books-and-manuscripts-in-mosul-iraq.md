@@ -16,7 +16,7 @@ More than 8,000 rare books and manuscripts â€“ including books printed in Iraqâ€
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/islamic-state-of-iraq-and-the-levant-isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md) _2017-08-27 03:41:59 (First version)_
+1. [Islamic State of Iraq and the Levant: ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/islamic-state-of-iraq-and-the-levant-isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/07/21/voters-in-burundi-go-to-the-polls-for-a-preside
 
 ### Changes:
 
-1. [Burundian presidential election, 2015: Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/burundian-presidential-election-2015-voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-presid.md) _2017-08-27 03:42:44 (First version)_
+1. [Burundian presidential election, 2015: Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/burundian-presidential-election-2015-voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-presid.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-president-pierre-nkurunziza-seeking-a-third-t.md) _(Current version)_
 
 ### Related:

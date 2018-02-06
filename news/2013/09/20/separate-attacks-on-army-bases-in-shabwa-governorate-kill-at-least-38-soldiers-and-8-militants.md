@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/20/separate-attacks-on-army-bases-in-shabwa-govern
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/al-qaeda-insurgency-in-yemen-pseparate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md) _2017-08-25 03:39:18 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/al-qaeda-insurgency-in-yemen-separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md) _2017-08-27 03:39:34 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/al-qaeda-insurgency-in-yemen-separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md) _2018-02-06 13:49:25 (First version)_
+2. [Al-Qaeda insurgency in Yemen:Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/al-qaeda-insurgency-in-yemen-pseparate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md) _2018-02-06 13:49:25 (Update)_
 2. [Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md) _(Current version)_
 
 ### Related:

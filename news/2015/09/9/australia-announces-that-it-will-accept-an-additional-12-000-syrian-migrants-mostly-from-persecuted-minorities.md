@@ -17,7 +17,7 @@ The Coalition party room agrees to accept 12,000 refugees from persecuted minori
 
 ### Changes:
 
-1. [Refugees of the Syrian Civil War: Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. ](/news/2015/09/9/refugees-of-the-syrian-civil-war-australia-announces-that-it-will-accept-an-additional-12-000-syrian-migrants-mostly-from-persecuted-minor.md) _2017-08-27 03:43:00 (First version)_
+1. [Refugees of the Syrian Civil War: Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. ](/news/2015/09/9/refugees-of-the-syrian-civil-war-australia-announces-that-it-will-accept-an-additional-12-000-syrian-migrants-mostly-from-persecuted-minor.md) _2018-02-06 13:49:27 (First version)_
 1. [Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. ](/news/2015/09/9/australia-announces-that-it-will-accept-an-additional-12-000-syrian-migrants-mostly-from-persecuted-minorities.md) _(Current version)_
 
 ### Related:

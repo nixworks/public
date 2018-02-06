@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/13/men-on-motorbikes-storm-a-primary-school-in-nig
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-pmen-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md) _2017-08-25 03:37:50 (First version)_
-2. [Nigerian Sharia conflict:: Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-men-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md) _2017-08-27 03:38:01 (Update)_
+1. [Nigerian Sharia conflict:Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-pmen-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-men-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md) _2018-02-06 13:49:24 (Update)_
 2. [Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/men-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md) _(Current version)_
 
 ### Related:

@@ -24,8 +24,8 @@ Anti-government protesters in Bahrain flooded a main highway in a march stretchi
 
 ### Changes:
 
-1. [Arab Spring:Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-pbahraini-uprising-pdemonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-st.md) _2017-08-25 03:35:32 (First version)_
-2. [Arab Spring:: Bahraini uprising:: Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers.md) _2017-08-27 03:35:41 (Update)_
+1. [Arab Spring:Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-pbahraini-uprising-pdemonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-st.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: Bahraini uprising:: Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers.md) _2018-02-06 13:49:23 (Update)_
 2. [Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.md) _(Current version)_
 
 ### Related:

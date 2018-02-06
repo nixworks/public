@@ -15,7 +15,7 @@ Forces loyal to renegade Libyan general Haftar claim they have liberated Qanfoud
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/libyan-civil-war-2014-present-forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-bengha.md) _2017-08-27 03:47:41 (First version)_
+1. [Libyan Civil War (2014-present): Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/libyan-civil-war-2014-present-forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-bengha.md) _2018-02-06 13:49:30 (First version)_
 1. [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md) _(Current version)_
 
 ### Related:

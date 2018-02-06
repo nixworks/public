@@ -17,8 +17,8 @@ British and other foreign nationals are advised to leave the Libyan city of Beng
 
 ### Changes:
 
-1. [Libyan factional fighting:The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/libyan-factional-fighting-pthe-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due.md) _2017-08-25 03:37:19 (First version)_
-2. [Libyan factional fighting:: The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/libyan-factional-fighting-the-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due.md) _2017-08-27 03:37:29 (Update)_
+1. [Libyan factional fighting:: The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/libyan-factional-fighting-the-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due.md) _2018-02-06 13:49:24 (First version)_
+2. [Libyan factional fighting:The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/libyan-factional-fighting-pthe-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due.md) _2018-02-06 13:49:24 (Update)_
 2. [The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/the-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due-to-a-specific-and-imminent.md) _(Current version)_
 
 ### Related:

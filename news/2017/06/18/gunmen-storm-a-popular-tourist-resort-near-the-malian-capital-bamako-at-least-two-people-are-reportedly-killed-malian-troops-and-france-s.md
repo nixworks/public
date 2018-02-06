@@ -16,7 +16,7 @@ Troops free 20 hostages, the government says, as the resort is attacked by suspe
 
 ### Changes:
 
-1. [June 2017 Bamako attack: Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/june-2017-bamako-attack-gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-m.md) _2017-08-27 03:48:30 (First version)_
+1. [June 2017 Bamako attack: Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/june-2017-bamako-attack-gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-m.md) _2018-02-06 13:49:30 (First version)_
 1. [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md) _(Current version)_
 
 ### Related:

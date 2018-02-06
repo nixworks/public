@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/06/3/the-search-continues-for-survivors-of-the-dong-f
 
 ### Changes:
 
-1. [The search continues for survivors of the ''Dong Fang Zhi Xing'' which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with-450-passengers-on-board-so-far-1.md) _2017-08-25 03:42:09 (First version)_
-2. [Sinking of the "Dong Fang Zhi Xing": The search continues for survivors of the "Dong Fang Zhi Xing" which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/sinking-of-the-dong-fang-zhi-xing-the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with.md) _2017-08-27 03:42:28 (Update)_
+1. [The search continues for survivors of the ''Dong Fang Zhi Xing'' which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with-450-passengers-on-board-so-far-1.md) _2018-02-06 13:49:27 (First version)_
+2. [Sinking of the "Dong Fang Zhi Xing": The search continues for survivors of the "Dong Fang Zhi Xing" which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/sinking-of-the-dong-fang-zhi-xing-the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with.md) _2018-02-06 13:49:27 (Update)_
 2. [The search continues for survivors of the "Dong Fang Zhi Xing" which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with-450-passengers-on-board-so-far-18.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Supporters of Palestinian leader Mahmoud Abbas hold the biggest rally of its kin
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/israeliapalestinian-conflict-phundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-200.md) _2017-08-25 03:37:12 (First version)_
-2. [Israeli-Palestinian conflict:: Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/israeli-palestinian-conflict-hundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-20.md) _2017-08-27 03:37:23 (Update)_
+1. [Israeli-Palestinian conflict:Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/israeliapalestinian-conflict-phundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-200.md) _2018-02-06 13:49:24 (First version)_
+2. [Israeli-Palestinian conflict:: Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/israeli-palestinian-conflict-hundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-20.md) _2018-02-06 13:49:24 (Update)_
 2. [Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/hundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-2006-and-fatah-in-opposition-sinc.md) _(Current version)_
 
 ### Related:

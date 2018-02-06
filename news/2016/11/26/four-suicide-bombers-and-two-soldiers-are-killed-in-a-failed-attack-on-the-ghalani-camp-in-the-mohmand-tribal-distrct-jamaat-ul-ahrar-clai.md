@@ -18,7 +18,7 @@ Security forces valiantly defeated suicide attack on Ghalani Camp: ISPR.
 
 ### Changes:
 
-1. [Terrorism in Pakistan: Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. ](/news/2016/11/26/terrorism-in-pakistan-four-suicide-bombers-and-two-soldiers-are-killed-in-a-failed-attack-on-the-ghalani-camp-in-the-mohmand-tribal-distrct.md) _2017-08-27 03:47:19 (First version)_
+1. [Terrorism in Pakistan: Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. ](/news/2016/11/26/terrorism-in-pakistan-four-suicide-bombers-and-two-soldiers-are-killed-in-a-failed-attack-on-the-ghalani-camp-in-the-mohmand-tribal-distrct.md) _2018-02-06 13:49:29 (First version)_
 1. [ Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. ](/news/2016/11/26/four-suicide-bombers-and-two-soldiers-are-killed-in-a-failed-attack-on-the-ghalani-camp-in-the-mohmand-tribal-distrct-jamaat-ul-ahrar-clai.md) _(Current version)_
 
 ### Related:

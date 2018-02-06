@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/28/team-bath-become-the-first-university-team-to-q
 
 ### Changes:
 
-1. [ Team Bath become the first university team to qualify for the FA Cup First Round since 1882. They beat Horsham 4-3 on penalties in the Fourth Qualifying Round replay.](/news/2002/10/28/team-bath-become-the-first-university-team-to-qualify-for-the-fa-cup-first-round-since-1882-they-beat-horsham-4-3-on-penalties-in-the-fo.md) _2017-08-27 03:15:16 (First version)_
+1. [ Team Bath become the first university team to qualify for the FA Cup First Round since 1882. They beat Horsham 4-3 on penalties in the Fourth Qualifying Round replay.](/news/2002/10/28/team-bath-become-the-first-university-team-to-qualify-for-the-fa-cup-first-round-since-1882-they-beat-horsham-4-3-on-penalties-in-the-fo.md) _2018-02-06 13:49:15 (First version)_
 1. [ Team Bath become the first university team to qualify for the FA Cup First Round since 1882. They beat Horsham 4-3 on penalties in the Fourth Qualifying Round replay.](/news/2002/10/28/team-bath-become-the-first-university-team-to-qualify-for-the-fa-cup-first-round-since-1882-they-beat-horsham-4a3-on-penalties-in-the-fo.md) _(Current version)_
 
 ### Related:

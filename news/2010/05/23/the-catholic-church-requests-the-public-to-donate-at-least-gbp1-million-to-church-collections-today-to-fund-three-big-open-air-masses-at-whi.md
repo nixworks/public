@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/05/23/the-catholic-church-requests-the-public-to-dona
 
 ### Changes:
 
-1. [The Catholic Church requests the public to donate at least 1 million to church collections today to fund three big open air masses at which Pope Benedict XVI will present while in the UK. The rest of the money is paid for by the British government. ](/news/2010/05/23/the-catholic-church-requests-the-public-to-donate-at-least-ps1-million-to-church-collections-today-to-fund-three-big-open-air-masses-at-which.md) _2017-08-25 03:27:59 (First version)_
+1. [The Catholic Church requests the public to donate at least 1 million to church collections today to fund three big open air masses at which Pope Benedict XVI will present while in the UK. The rest of the money is paid for by the British government. ](/news/2010/05/23/the-catholic-church-requests-the-public-to-donate-at-least-ps1-million-to-church-collections-today-to-fund-three-big-open-air-masses-at-which.md) _2018-02-06 13:49:20 (First version)_
 1. [The Catholic Church requests the public to donate at least GBP1 million to church collections today to fund three big open air masses at which Pope Benedict XVI will present while in the UK. The rest of the money is paid for by the British government. ](/news/2010/05/23/the-catholic-church-requests-the-public-to-donate-at-least-gbp1-million-to-church-collections-today-to-fund-three-big-open-air-masses-at-whi.md) _(Current version)_
 
 ### Related:

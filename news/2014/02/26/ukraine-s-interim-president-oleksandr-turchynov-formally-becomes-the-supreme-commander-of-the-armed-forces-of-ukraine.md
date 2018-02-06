@@ -17,8 +17,8 @@ Reviled on the Maidan, members of the &ldquo;Berkut&rdquo; are offered sanctuary
 
 ### Changes:
 
-1. [2014 Ukrainian revolution, 2014 Crimean crisis:Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/2014-ukrainian-revolution-2014-crimean-crisis-pukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-th.md) _2017-05-01 03:43:32 (First version)_
-2. [2014 Ukrainian revolution: 2014 Crimean crisis: Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/2014-ukrainian-revolution-2014-crimean-crisis-ukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-th.md) _2017-08-27 03:40:23 (Update)_
+1. [2014 Ukrainian revolution: 2014 Crimean crisis: Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/2014-ukrainian-revolution-2014-crimean-crisis-ukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-th.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Ukrainian revolution, 2014 Crimean crisis:Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/2014-ukrainian-revolution-2014-crimean-crisis-pukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-th.md) _2018-02-06 13:49:25 (Update)_
 2. [Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/ukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-the-armed-forces-of-ukraine.md) _(Current version)_
 
 ### Related:

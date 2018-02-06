@@ -18,7 +18,7 @@ Kabul/Brussels. 3 October 2015: The international medical organization Doctors W
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A prolonged series of American military airstrikes hit a Medecins Sans Frontieres (Doctors Without Borders) hospital in Kunduz, killing twelve staff members and at least seven patients, including three children, with 37 seriously injured and many more people still missing. ](/news/2015/10/3/war-in-afghanistan-2015-present-a-prolonged-series-of-american-military-airstrikes-hit-a-ma-c-decins-sans-frontia-res-doctors-without-bo.md) _2017-08-27 03:43:13 (First version)_
+1. [War in Afghanistan (2015-present): A prolonged series of American military airstrikes hit a Medecins Sans Frontieres (Doctors Without Borders) hospital in Kunduz, killing twelve staff members and at least seven patients, including three children, with 37 seriously injured and many more people still missing. ](/news/2015/10/3/war-in-afghanistan-2015-present-a-prolonged-series-of-american-military-airstrikes-hit-a-ma-c-decins-sans-frontia-res-doctors-without-bo.md) _2018-02-06 13:49:28 (First version)_
 1. [A prolonged series of American military airstrikes hit a Medecins Sans Frontieres (Doctors Without Borders) hospital in Kunduz, killing twelve staff members and at least seven patients, including three children, with 37 seriously injured and many more people still missing. ](/news/2015/10/3/a-prolonged-series-of-american-military-airstrikes-hit-a-ma-c-decins-sans-frontia-res-doctors-without-borders-hospital-in-kunduz-killing-tw.md) _(Current version)_
 
 ### Related:

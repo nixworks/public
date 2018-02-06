@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-pla
 
 ### Changes:
 
-1. [O. J. Simpson is released from a Nevada prison after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/o-j-simpson-is-released-from-a-nevada-prison-after-serving-nine-years-for-a-las-vegas-armed-robbery.md) _2017-10-01 18:30:06 (First version)_
-2. [Nevada prison authorities release O. J. Simpson on parole after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/nevada-prison-authorities-release-o-j-simpson-on-parole-after-serving-nine-years-for-a-las-vegas-armed-robbery.md) _2017-10-01 19:30:06 (Update)_
+1. [O. J. Simpson is released from a Nevada prison after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/o-j-simpson-is-released-from-a-nevada-prison-after-serving-nine-years-for-a-las-vegas-armed-robbery.md) _2018-02-06 13:49:31 (First version)_
+2. [Nevada prison authorities release O. J. Simpson on parole after serving nine years for a Las Vegas armed robbery. ](/news/2017/10/1/nevada-prison-authorities-release-o-j-simpson-on-parole-after-serving-nine-years-for-a-las-vegas-armed-robbery.md) _2018-02-06 13:49:31 (Update)_
 2. [Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. ](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ A Baltimore police officer will be tried by a judge instead of a jury on charges
 
 ### Changes:
 
-1. [Officer Edward Nero waives his right to a jury trial on misdemeanor charges of second-degree assault, two counts of misconduct in office, and reckless endangerment. ](/news/2016/05/10/officer-edward-nero-waives-his-right-to-a-jury-trial-on-misdemeanor-charges-of-second-degree-assault-two-counts-of-misconduct-in-office.md) _2017-08-25 03:45:38 (First version)_
-2. [Death of Freddie Gray: Officer Edward Nero waives his right to a jury trial on misdemeanor charges of second-degree assault, two counts of misconduct in office, and reckless endangerment. ](/news/2016/05/10/death-of-freddie-gray-officer-edward-nero-waives-his-right-to-a-jury-trial-on-misdemeanor-charges-of-second-degree-assault-two-counts-of-m.md) _2017-08-27 03:46:00 (Update)_
+1. [Officer Edward Nero waives his right to a jury trial on misdemeanor charges of second-degree assault, two counts of misconduct in office, and reckless endangerment. ](/news/2016/05/10/officer-edward-nero-waives-his-right-to-a-jury-trial-on-misdemeanor-charges-of-second-degree-assault-two-counts-of-misconduct-in-office.md) _2018-02-06 13:49:29 (First version)_
+2. [Death of Freddie Gray: Officer Edward Nero waives his right to a jury trial on misdemeanor charges of second-degree assault, two counts of misconduct in office, and reckless endangerment. ](/news/2016/05/10/death-of-freddie-gray-officer-edward-nero-waives-his-right-to-a-jury-trial-on-misdemeanor-charges-of-second-degree-assault-two-counts-of-m.md) _2018-02-06 13:49:29 (Update)_
 2. [Officer Edward Nero waives his right to a jury trial on misdemeanor charges of second-degree assault, two counts of misconduct in office, and reckless endangerment. ](/news/2016/05/10/officer-edward-nero-waives-his-right-to-a-jury-trial-on-misdemeanor-charges-of-second-degree-assault-two-counts-of-misconduct-in-office-an.md) _(Current version)_
 
 ### Related:

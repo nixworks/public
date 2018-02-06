@@ -17,8 +17,8 @@ Three million Syrian refugees will have registered in neighboring countries as o
 
 ### Changes:
 
-1. [Syrian Civil War:The United Nations estimates that three million Syrians live as refugees overseas while another 6.5 million are displaced within Syria. ](/news/2014/08/29/syrian-civil-war-pthe-united-nations-estimates-that-three-million-syrians-live-as-refugees-overseas-while-another-6-5-million-are-displaced.md) _2017-08-25 03:40:55 (First version)_
-2. [Syrian Civil War:: The United Nations estimates that three million Syrians live as refugees overseas while another 6.5 million are displaced within Syria. ](/news/2014/08/29/syrian-civil-war-the-united-nations-estimates-that-three-million-syrians-live-as-refugees-overseas-while-another-6-5-million-are-displaced.md) _2017-08-27 03:41:13 (Update)_
+1. [Syrian Civil War:: The United Nations estimates that three million Syrians live as refugees overseas while another 6.5 million are displaced within Syria. ](/news/2014/08/29/syrian-civil-war-the-united-nations-estimates-that-three-million-syrians-live-as-refugees-overseas-while-another-6-5-million-are-displaced.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:The United Nations estimates that three million Syrians live as refugees overseas while another 6.5 million are displaced within Syria. ](/news/2014/08/29/syrian-civil-war-pthe-united-nations-estimates-that-three-million-syrians-live-as-refugees-overseas-while-another-6-5-million-are-displaced.md) _2018-02-06 13:49:26 (Update)_
 2. [The United Nations estimates that three million Syrians live as refugees overseas while another 6.5 million are displaced within Syria. ](/news/2014/08/29/the-united-nations-estimates-that-three-million-syrians-live-as-refugees-overseas-while-another-6-5-million-are-displaced-within-syria.md) _(Current version)_
 
 ### Related:

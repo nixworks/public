@@ -16,8 +16,8 @@ Japanese prime minister threatens force if China attempts to land on island chai
 
 ### Changes:
 
-1. [Senkaku Islands dispute:The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-pthe-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-ship.md) _2017-08-25 03:38:27 (First version)_
-2. [Senkaku Islands dispute:: The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-the-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-shi.md) _2017-08-27 03:38:40 (Update)_
+1. [Senkaku Islands dispute:: The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-the-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-shi.md) _2018-02-06 13:49:24 (First version)_
+2. [Senkaku Islands dispute:The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-pthe-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-ship.md) _2018-02-06 13:49:24 (Update)_
 2. [The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/the-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-ships-sail-near-the-dispute-s.md) _(Current version)_
 
 ### Related:

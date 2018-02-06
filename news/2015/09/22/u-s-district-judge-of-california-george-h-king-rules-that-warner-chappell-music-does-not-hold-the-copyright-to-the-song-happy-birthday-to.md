@@ -17,7 +17,7 @@ A judge grants summary judgment to a filmmaker challenging Warner/Chappell&#039;
 
 ### Changes:
 
-1. [U.S. District Judge of California George H. King rules that Warner-Chappell Music does not hold the copyright to the song ''Happy Birthday to You''. ](/news/2015/09/22/u-s-district-judge-of-california-george-h-king-rules-that-warner-chappell-music-does-not-hold-the-copyright-to-the-song-happy-birthday-t.md) _2017-08-25 03:42:50 (First version)_
+1. [U.S. District Judge of California George H. King rules that Warner-Chappell Music does not hold the copyright to the song ''Happy Birthday to You''. ](/news/2015/09/22/u-s-district-judge-of-california-george-h-king-rules-that-warner-chappell-music-does-not-hold-the-copyright-to-the-song-happy-birthday-t.md) _2018-02-06 13:49:27 (First version)_
 1. [U.S. District Judge of California George H. King rules that Warner-Chappell Music does not hold the copyright to the song "Happy Birthday to You". ](/news/2015/09/22/u-s-district-judge-of-california-george-h-king-rules-that-warner-chappell-music-does-not-hold-the-copyright-to-the-song-happy-birthday-to.md) _(Current version)_
 
 ### Related:

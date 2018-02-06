@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/13/sierra-leone-quarantines-700-homes-in-the-aberd
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/ebola-virus-epidemic-in-west-africa-sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisher.md) _2017-08-27 03:41:56 (First version)_
+1. [Ebola virus epidemic in West Africa: Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/ebola-virus-epidemic-in-west-africa-sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisher.md) _2018-02-06 13:49:26 (First version)_
 1. [Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisherman.md) _(Current version)_
 
 ### Related:

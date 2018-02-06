@@ -16,7 +16,7 @@ Regional Kurdish security forces and pro-Syrian government forces have declared 
 
 ### Changes:
 
-1. [Syrian peace process: Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/syrian-peace-process-reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-f.md) _2017-08-27 03:45:48 (First version)_
+1. [Syrian peace process: Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/syrian-peace-process-reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-f.md) _2018-02-06 13:49:28 (First version)_
 1. [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md) _(Current version)_
 
 ### Related:

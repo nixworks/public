@@ -17,7 +17,7 @@ Ukrainian troops defy pro-Russian separatists and take control of an air base in
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/2014-pro-russian-unrest-in-ukraine-shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists.md) _2017-08-27 03:40:35 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/2014-pro-russian-unrest-in-ukraine-shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists.md) _2018-02-06 13:49:26 (First version)_
 1. [Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists-unconfirmed-reports-state-that-4-pr.md) _(Current version)_
 
 ### Related:

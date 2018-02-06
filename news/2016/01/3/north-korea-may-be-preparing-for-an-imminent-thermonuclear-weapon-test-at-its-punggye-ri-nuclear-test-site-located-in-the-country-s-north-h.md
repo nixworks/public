@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/3/north-korea-may-be-preparing-for-an-imminent-the
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-and-weapons-of-mass-destruction-north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclea.md) _2017-08-27 03:44:34 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-and-weapons-of-mass-destruction-north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclea.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclear-test-site-located-in-the-country-s-north-h.md) _(Current version)_
 
 ### Related:

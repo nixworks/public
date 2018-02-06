@@ -16,8 +16,8 @@ The anti-corruption campaigner led mass street protests against Vladimir Putin i
 
 ### Changes:
 
-1. [Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from running in next year's presidential election. ](/news/2017/06/23/russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-running-in-next-year-s-presidential-elec.md) _2017-06-23 20:30:09 (First version)_
-2. [Russian presidential election, 2018: Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from his running in next year's presidential election. ](/news/2017/06/23/russian-presidential-election-2018-russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-his.md) _2017-08-27 03:48:32 (Update)_
+1. [Russian presidential election, 2018: Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from his running in next year's presidential election. ](/news/2017/06/23/russian-presidential-election-2018-russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-his.md) _2018-02-06 13:49:30 (First version)_
+2. [Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from running in next year's presidential election. ](/news/2017/06/23/russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-running-in-next-year-s-presidential-elec.md) _2018-02-06 13:49:30 (Update)_
 2. [Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from his running in next year's presidential election. ](/news/2017/06/23/russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-his-running-in-next-year-s-presidential.md) _(Current version)_
 
 ### Related:

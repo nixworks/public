@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/8/alberta-health-services-confirms-first-avian-flu
 
 ### Changes:
 
-1. [Influenza A virus subtype H5N1:Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-palberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md) _2017-08-25 03:39:49 (First version)_
-2. [Influenza A virus subtype H5N1:: Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md) _2017-08-27 03:40:07 (Update)_
+1. [Influenza A virus subtype H5N1:Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-palberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md) _2018-02-06 13:49:25 (First version)_
+2. [Influenza A virus subtype H5N1:: Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md) _2018-02-06 13:49:25 (Update)_
 2. [Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january-1-2014-died-on-january-3-in-ca.md) _(Current version)_
 
 ### Related:

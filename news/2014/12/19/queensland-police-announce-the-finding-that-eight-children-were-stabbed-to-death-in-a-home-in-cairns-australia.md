@@ -16,7 +16,7 @@ Victims aged from 18 months to 15 years were all from same family, with mother b
 
 ### Changes:
 
-1. [Cairns child killings: Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/cairns-child-killings-queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _2017-08-27 03:41:39 (First version)_
+1. [Cairns child killings: Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/cairns-child-killings-queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _2018-02-06 13:49:26 (First version)_
 1. [Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _(Current version)_
 
 ### Related:

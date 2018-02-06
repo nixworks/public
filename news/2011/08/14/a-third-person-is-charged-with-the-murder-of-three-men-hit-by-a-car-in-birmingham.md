@@ -16,7 +16,7 @@ A third person is charged with murdering three men who were hit by a car in Birm
 
 ### Changes:
 
-1. [2011 England riots: A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/2011-england-riots-a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md) _2017-08-27 03:34:08 (First version)_
+1. [2011 England riots: A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/2011-england-riots-a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md) _2018-02-06 13:49:22 (First version)_
 1. [A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md) _(Current version)_
 
 ### Related:

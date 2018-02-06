@@ -19,8 +19,8 @@ Ban Ki-moon expresses alarm at the scale of inter-ethnic violence in southern Ky
 
 ### Changes:
 
-1. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-psecretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in-k.md) _2017-08-25 03:28:16 (First version)_
-2. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:: Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-secretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in.md) _2017-08-27 03:28:16 (Update)_
+1. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:: Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-secretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-psecretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in-k.md) _2018-02-06 13:49:20 (Update)_
 2. [Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/secretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in-kyrgyzstan.md) _(Current version)_
 
 ### Related:

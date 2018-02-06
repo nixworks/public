@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/05/10/german-chancellor-angela-merkelas-government-lo
 
 ### Changes:
 
-1. [German Chancellor Angela Merkel-s government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkel-s-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md) _2017-08-27 03:27:51 (First version)_
+1. [German Chancellor Angela Merkel-s government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkel-s-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md) _2018-02-06 13:49:20 (First version)_
 1. [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A double car bombing in the east Libyan city of Benghazi on Tuesday left at leas
 
 ### Changes:
 
-1. [A double car bombing in Benghazi, Libya, kills at least 22 people and wounds 30 others. The victims include both military personnel and civilians, accoridng to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-22-people-and-wounds-30-others-the-victims-include-both-military-personnel-and-civi.md) _2018-01-24 00:30:08 (First version)_
+1. [A double car bombing in Benghazi, Libya, kills at least 22 people and wounds 30 others. The victims include both military personnel and civilians, accoridng to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-22-people-and-wounds-30-others-the-victims-include-both-military-personnel-and-civi.md) _2018-02-06 13:49:31 (First version)_
 1. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _(Current version)_
 
 ### Related:

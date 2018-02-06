@@ -16,7 +16,7 @@ Russia has vetoed a U.N. resolution on Syria for the fifth time since the confli
 
 ### Changes:
 
-1. [Syrian civil war: Syrian peace process: Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/syrian-civil-war-syrian-peace-process-russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire.md) _2017-08-27 03:47:00 (First version)_
+1. [Syrian civil war: Syrian peace process: Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/syrian-civil-war-syrian-peace-process-russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire.md) _2018-02-06 13:49:29 (First version)_
 1. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ MANILA, Philippines (AP) — Philippine officials confirmed Tuesday that Abu Say
 
 ### Changes:
 
-1. [Moro Conflict: Canadian Prime Minister Justin Trudeau says his government has "compelling reason to believe" that Robert Hall, who was held hostage in the Philippines, has been killed by his captors, presumably the same Abu Sayyaf militants who beheaded another Canadian, John Ridsdel, on 25 April 2016. ](/news/2016/06/13/moro-conflict-canadian-prime-minister-justin-trudeau-says-his-government-has-compelling-reason-to-believe-that-robert-hall-who-was-held.md) _2017-08-27 03:46:15 (First version)_
+1. [Moro Conflict: Canadian Prime Minister Justin Trudeau says his government has "compelling reason to believe" that Robert Hall, who was held hostage in the Philippines, has been killed by his captors, presumably the same Abu Sayyaf militants who beheaded another Canadian, John Ridsdel, on 25 April 2016. ](/news/2016/06/13/moro-conflict-canadian-prime-minister-justin-trudeau-says-his-government-has-compelling-reason-to-believe-that-robert-hall-who-was-held.md) _2018-02-06 13:49:29 (First version)_
 1. [Canadian Prime Minister Justin Trudeau says his government has "compelling reason to believe" that Robert Hall, who was held hostage in the Philippines, has been killed by his captors, presumably the same Abu Sayyaf militants who beheaded another Canadian, John Ridsdel, on 25 April 2016. ](/news/2016/06/13/canadian-prime-minister-justin-trudeau-says-his-government-has-compelling-reason-to-believe-that-robert-hall-who-was-held-hostage-in-the.md) _(Current version)_
 
 ### Related:

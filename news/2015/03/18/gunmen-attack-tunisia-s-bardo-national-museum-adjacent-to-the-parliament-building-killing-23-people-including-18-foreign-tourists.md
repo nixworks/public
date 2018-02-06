@@ -17,7 +17,7 @@ Tourists from Poland and France among those killed, as Tunisian PM says one of g
 
 ### Changes:
 
-1. [Bardo National Museum attack: Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/bardo-national-museum-attack-gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-includi.md) _2017-08-27 03:42:06 (First version)_
+1. [Bardo National Museum attack: Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/bardo-national-museum-attack-gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-includi.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-including-18-foreign-tourists.md) _(Current version)_
 
 ### Related:

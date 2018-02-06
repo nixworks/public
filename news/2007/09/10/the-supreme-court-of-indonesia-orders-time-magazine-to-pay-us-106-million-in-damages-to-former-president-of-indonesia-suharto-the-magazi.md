@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/10/the-supreme-court-of-indonesia-orders-time-maga
 
 ### Changes:
 
-1. [ The Supreme Court of Indonesia orders ''TIME'' magazine to pay US$106 million in damages to former President of Indonesia Suharto. The magazine had reported in 1999 that the former President and his family had accumulated $73 billion dollars fraudulently during his time in office. The case had previously been rejected by two lower courts. ](/news/2007/09/10/the-supreme-court-of-indonesia-orders-time-magazine-to-pay-us-106-million-in-damages-to-former-president-of-indonesia-suharto-the-mag.md) _2017-08-25 03:20:55 (First version)_
+1. [ The Supreme Court of Indonesia orders ''TIME'' magazine to pay US$106 million in damages to former President of Indonesia Suharto. The magazine had reported in 1999 that the former President and his family had accumulated $73 billion dollars fraudulently during his time in office. The case had previously been rejected by two lower courts. ](/news/2007/09/10/the-supreme-court-of-indonesia-orders-time-magazine-to-pay-us-106-million-in-damages-to-former-president-of-indonesia-suharto-the-mag.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Supreme Court of Indonesia orders "TIME" magazine to pay US$106 million in damages to former President of Indonesia Suharto. The magazine had reported in 1999 that the former President and his family had accumulated $73 billion dollars fraudulently during his time in office. The case had previously been rejected by two lower courts. ](/news/2007/09/10/the-supreme-court-of-indonesia-orders-time-magazine-to-pay-us-106-million-in-damages-to-former-president-of-indonesia-suharto-the-magazi.md) _(Current version)_
 
 ### Related:

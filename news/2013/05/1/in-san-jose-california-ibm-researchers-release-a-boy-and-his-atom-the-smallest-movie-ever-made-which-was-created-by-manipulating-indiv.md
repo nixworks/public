@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a
 
 ### Changes:
 
-1. [In San Jose, California, IBM researchers release ''A Boy and His Atom'', the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-ind.md) _2017-08-25 03:38:31 (First version)_
+1. [In San Jose, California, IBM researchers release ''A Boy and His Atom'', the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-ind.md) _2018-02-06 13:49:24 (First version)_
 1. [In San Jose, California, IBM researchers release "A Boy and His Atom", the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-indiv.md) _(Current version)_
 
 ### Related:

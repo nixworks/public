@@ -17,8 +17,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The UN Security Council adopts a resolution, 15-0, calling for a ceasefire in the 2006 Israel-Lebanon conflict. ](/news/2006/08/11/2006-israel-lebanon-conflict-p-the-un-security-council-adopts-a-resolution-15-0-calling-for-a-ceasefire-in-the-2006-israel-lebanon-confli.md) _2017-08-25 03:18:11 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: The UN Security Council adopts a resolution, 15-0, calling for a ceasefire in the 2006 Israel-Lebanon conflict. ](/news/2006/08/11/2006-israel-lebanon-conflict-the-un-security-council-adopts-a-resolution-15-0-calling-for-a-ceasefire-in-the-2006-israel-lebanon-confli.md) _2017-08-27 03:18:08 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: The UN Security Council adopts a resolution, 15-0, calling for a ceasefire in the 2006 Israel-Lebanon conflict. ](/news/2006/08/11/2006-israel-lebanon-conflict-the-un-security-council-adopts-a-resolution-15-0-calling-for-a-ceasefire-in-the-2006-israel-lebanon-confli.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: The UN Security Council adopts a resolution, 15-0, calling for a ceasefire in the 2006 Israel-Lebanon conflict. ](/news/2006/08/11/2006-israel-lebanon-conflict-p-the-un-security-council-adopts-a-resolution-15-0-calling-for-a-ceasefire-in-the-2006-israel-lebanon-confli.md) _2018-02-06 13:49:17 (Update)_
 2. [ The UN Security Council adopts a resolution, 15-0, calling for a ceasefire in the 2006 Israel-Lebanon conflict. ](/news/2006/08/11/the-un-security-council-adopts-a-resolution-15-0-calling-for-a-ceasefire-in-the-2006-israel-lebanon-conflict.md) _(Current version)_
 
 ### Related:

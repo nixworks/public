@@ -16,7 +16,7 @@ Two parents are arrested after police find in their house 13 people who were all
 
 ### Changes:
 
-1. [Two people are arrested in Perris, California, after 13 people aged between two and 29-years-old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-two-and-29-years-old-are-found-being-held-captive-at-their-house.md) _2018-01-16 12:30:06 (First version)_
+1. [Two people are arrested in Perris, California, after 13 people aged between two and 29-years-old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-two-and-29-years-old-are-found-being-held-captive-at-their-house.md) _2018-02-06 13:49:31 (First version)_
 1. [Two people are arrested in Perris, California, after 13 people aged between 2 and 29 years old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-2-and-29-years-old-are-found-being-held-captive-at-their-house.md) _(Current version)_
 
 ### Related:

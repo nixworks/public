@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-s
 
 ### Changes:
 
-1. [Fourteen people claimed to be responsible for shooting 52 protestors in Sana-a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sana-a-in-march-are-referred-to-the-state-prosecutor.md) _2017-08-27 03:32:58 (First version)_
+1. [Fourteen people claimed to be responsible for shooting 52 protestors in Sana-a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sana-a-in-march-are-referred-to-the-state-prosecutor.md) _2018-02-06 13:49:22 (First version)_
 1. [Fourteen people claimed to be responsible for shooting 52 protestors in Sana'a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sanaaa-in-march-are-referred-to-the-state-prosecutor.md) _(Current version)_
 
 ### Related:

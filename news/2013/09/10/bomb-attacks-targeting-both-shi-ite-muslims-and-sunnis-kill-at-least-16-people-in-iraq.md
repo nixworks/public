@@ -16,6 +16,6 @@ Formats: [HTML](/news/2013/09/10/bomb-attacks-targeting-both-shi-ite-muslims-and
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-pbomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md) _2017-08-25 03:39:15 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md) _2017-08-27 03:39:32 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-pbomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md) _(Current version)_

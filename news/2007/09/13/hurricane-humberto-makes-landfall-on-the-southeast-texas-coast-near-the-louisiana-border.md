@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southe
 
 ### Changes:
 
-1. [ 2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2017-08-25 03:20:57 (First version)_
-2. [ 2007 Atlantic hurricane season:: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2017-08-27 03:20:53 (Update)_
+1. [ 2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Atlantic hurricane season:: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _(Current version)_
 
 ### Related:

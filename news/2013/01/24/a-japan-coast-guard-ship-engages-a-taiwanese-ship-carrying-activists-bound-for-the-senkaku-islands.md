@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/01/24/a-japan-coast-guard-ship-engages-a-taiwanese-sh
 
 ### Changes:
 
-1. [Senkaku Islands dispute:A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/senkaku-islands-dispute-pa-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md) _2017-08-25 03:37:20 (First version)_
-2. [Senkaku Islands dispute:: A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/senkaku-islands-dispute-a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md) _2017-08-27 03:37:29 (Update)_
+1. [Senkaku Islands dispute:A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/senkaku-islands-dispute-pa-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md) _2018-02-06 13:49:24 (First version)_
+2. [Senkaku Islands dispute:: A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/senkaku-islands-dispute-a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md) _2018-02-06 13:49:24 (Update)_
 2. [A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md) _(Current version)_
 
 ### Related:

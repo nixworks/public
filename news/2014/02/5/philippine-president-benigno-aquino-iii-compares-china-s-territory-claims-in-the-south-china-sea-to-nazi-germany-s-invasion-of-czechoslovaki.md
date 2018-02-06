@@ -17,8 +17,8 @@ Benigno Aquino warns West must not attempt to appease China as it did Hitler but
 
 ### Changes:
 
-1. [Spratly Islands dispute:Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/spratly-islands-dispute-pphilippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s.md) _2017-08-25 03:39:57 (First version)_
-2. [Spratly Islands dispute:: Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/spratly-islands-dispute-philippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s.md) _2017-08-27 03:40:16 (Update)_
+1. [Spratly Islands dispute:Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/spratly-islands-dispute-pphilippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s.md) _2018-02-06 13:49:25 (First version)_
+2. [Spratly Islands dispute:: Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/spratly-islands-dispute-philippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s.md) _2018-02-06 13:49:25 (Update)_
 2. [Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/philippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s-invasion-of-czechoslovaki.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Islamic State militants fight Kurdish troops in the northern Syrian city of Koba
 
 ### Changes:
 
-1. [Syrian Civil War: Islamic State of Iraq and the Levant forces re-enter the Kurdish town of Koban after a successful large-scale counterattack against the Kurds. ](/news/2015/06/25/syrian-civil-war-islamic-state-of-iraq-and-the-levant-forces-re-enter-the-kurdish-town-of-kobani-after-a-successful-large-scale-counteratta.md) _2017-08-27 03:42:35 (First version)_
+1. [Syrian Civil War: Islamic State of Iraq and the Levant forces re-enter the Kurdish town of Koban after a successful large-scale counterattack against the Kurds. ](/news/2015/06/25/syrian-civil-war-islamic-state-of-iraq-and-the-levant-forces-re-enter-the-kurdish-town-of-kobani-after-a-successful-large-scale-counteratta.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic State of Iraq and the Levant forces re-enter the Kurdish town of Koban after a successful large-scale counterattack against the Kurds. ](/news/2015/06/25/islamic-state-of-iraq-and-the-levant-forces-re-enter-the-kurdish-town-of-kobani-after-a-successful-large-scale-counterattack-against-the-kur.md) _(Current version)_
 
 ### Related:

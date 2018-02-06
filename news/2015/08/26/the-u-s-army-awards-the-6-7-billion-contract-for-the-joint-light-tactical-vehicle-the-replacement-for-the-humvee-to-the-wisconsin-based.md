@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/26/the-u-s-army-awards-the-6-7-billion-contract-fo
 
 ### Changes:
 
-1. [Oshkosh L-ATV: The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/oshkosh-l-atv-the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-w.md) _2017-08-27 03:42:54 (First version)_
+1. [Oshkosh L-ATV: The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/oshkosh-l-atv-the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-w.md) _2018-02-06 13:49:27 (First version)_
 1. [The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-wisconsin-based.md) _(Current version)_
 
 ### Related:

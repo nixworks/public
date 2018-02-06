@@ -16,7 +16,7 @@ Follow our live coverage for the latest updates and analysis throughout the day.
 
 ### Changes:
 
-1. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the United States House of Representatives. ](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-united-s.md) _2018-01-31 00:30:23 (First version)_
+1. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the United States House of Representatives. ](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-united-s.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _(Current version)_
 
 ### Related:

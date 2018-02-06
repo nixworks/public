@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/7/a-preliminary-count-indicates-that-former-financ
 
 ### Changes:
 
-1. [Afghan presidential election, 2014: A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/afghan-presidential-election-2014-a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _2017-08-27 03:40:56 (First version)_
+1. [Afghan presidential election, 2014: A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/afghan-presidential-election-2014-a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _2018-02-06 13:49:26 (First version)_
 1. [A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _(Current version)_
 
 ### Related:

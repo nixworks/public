@@ -17,7 +17,7 @@ SHANGHAI (Reuters) - Only by confirming the...
 
 ### Changes:
 
-1. [ China-Taiwan Relations: China threatens to cut off regular communication with Taiwan unless it acknowledges the "One China principle". ](/news/2016/05/22/china-taiwan-relations-china-threatens-to-cut-off-regular-communication-with-taiwan-unless-it-acknowledges-the-one-china-principle.md) _2017-08-27 03:46:06 (First version)_
+1. [ China-Taiwan Relations: China threatens to cut off regular communication with Taiwan unless it acknowledges the "One China principle". ](/news/2016/05/22/china-taiwan-relations-china-threatens-to-cut-off-regular-communication-with-taiwan-unless-it-acknowledges-the-one-china-principle.md) _2018-02-06 13:49:29 (First version)_
 1. [ China threatens to cut off regular communication with Taiwan unless it acknowledges the "One China principle". ](/news/2016/05/22/china-threatens-to-cut-off-regular-communication-with-taiwan-unless-it-acknowledges-the-one-china-principle.md) _(Current version)_
 
 ### Related:

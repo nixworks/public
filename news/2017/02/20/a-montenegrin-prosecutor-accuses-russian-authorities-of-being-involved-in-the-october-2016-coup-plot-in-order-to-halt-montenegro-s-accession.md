@@ -16,7 +16,7 @@ Russia dismisses allegations that it was involved in attempted overthrow in Octo
 
 ### Changes:
 
-1. [Montenegro-Russia relations: A Montenegrin prosecutor accuses Russian authorities of being involved in the October 2016 coup plot in order to halt Montenegro's accession to NATO. Russian officials dismiss the allegations as "absurd." ](/news/2017/02/20/montenegro-russia-relations-a-montenegrin-prosecutor-accuses-russian-authorities-of-being-involved-in-the-october-2016-coup-plot-in-order.md) _2017-08-27 03:47:51 (First version)_
+1. [Montenegro-Russia relations: A Montenegrin prosecutor accuses Russian authorities of being involved in the October 2016 coup plot in order to halt Montenegro's accession to NATO. Russian officials dismiss the allegations as "absurd." ](/news/2017/02/20/montenegro-russia-relations-a-montenegrin-prosecutor-accuses-russian-authorities-of-being-involved-in-the-october-2016-coup-plot-in-order.md) _2018-02-06 13:49:30 (First version)_
 1. [A Montenegrin prosecutor accuses Russian authorities of being involved in the October 2016 coup plot in order to halt Montenegro's accession to NATO. Russian officials dismiss the allegations as "absurd." ](/news/2017/02/20/a-montenegrin-prosecutor-accuses-russian-authorities-of-being-involved-in-the-october-2016-coup-plot-in-order-to-halt-montenegro-s-accession.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/12/28/south-sudanas-ambassador-to-moscow-says-the-un-
 
 ### Changes:
 
-1. [South Sudan-s ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudan-s-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md) _2017-08-27 03:37:19 (First version)_
+1. [South Sudan-s ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudan-s-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md) _2018-02-06 13:49:24 (First version)_
 1. [South Sudan's ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudanas-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md) _(Current version)_
 
 ### Related:

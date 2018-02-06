@@ -16,8 +16,8 @@ Suspected Boko Haram militants in Nigeria kill at least nine school children, in
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/nigerian-sharia-conflict-pboko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md) _2017-08-25 03:38:52 (First version)_
-2. [Nigerian Sharia conflict:: Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/nigerian-sharia-conflict-boko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md) _2017-08-27 03:39:07 (Update)_
+1. [Nigerian Sharia conflict:Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/nigerian-sharia-conflict-pboko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/nigerian-sharia-conflict-boko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md) _2018-02-06 13:49:25 (Update)_
 2. [Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/boko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md) _(Current version)_
 
 ### Related:

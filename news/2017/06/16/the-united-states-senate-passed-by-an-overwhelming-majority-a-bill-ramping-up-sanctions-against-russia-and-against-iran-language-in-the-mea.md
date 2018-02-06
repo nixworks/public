@@ -15,7 +15,7 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 
 ### Changes:
 
-1. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and Iran. Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-iran-language-in-the-measure-al.md) _2017-06-16 16:30:07 (First version)_
+1. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and Iran. Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-iran-language-in-the-measure-al.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _(Current version)_
 
 ### Related:

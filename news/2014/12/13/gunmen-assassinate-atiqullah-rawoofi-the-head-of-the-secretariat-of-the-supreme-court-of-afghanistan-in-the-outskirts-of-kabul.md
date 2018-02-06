@@ -16,7 +16,7 @@ A senior officer of the Afghan Supreme Court is among those killed in the spate 
 
 ### Changes:
 
-1. [Taliban insurgency: Gunmen assassinate Atiqullah Rawoofi, the head of the Secretariat of the Supreme Court of Afghanistan, in the outskirts of Kabul. ](/news/2014/12/13/taliban-insurgency-gunmen-assassinate-atiqullah-rawoofi-the-head-of-the-secretariat-of-the-supreme-court-of-afghanistan-in-the-outskirts.md) _2017-08-27 03:41:37 (First version)_
+1. [Taliban insurgency: Gunmen assassinate Atiqullah Rawoofi, the head of the Secretariat of the Supreme Court of Afghanistan, in the outskirts of Kabul. ](/news/2014/12/13/taliban-insurgency-gunmen-assassinate-atiqullah-rawoofi-the-head-of-the-secretariat-of-the-supreme-court-of-afghanistan-in-the-outskirts.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen assassinate Atiqullah Rawoofi, the head of the Secretariat of the Supreme Court of Afghanistan, in the outskirts of Kabul. ](/news/2014/12/13/gunmen-assassinate-atiqullah-rawoofi-the-head-of-the-secretariat-of-the-supreme-court-of-afghanistan-in-the-outskirts-of-kabul.md) _(Current version)_
 
 ### Related:

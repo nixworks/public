@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Venezuelan parliamentary election, 2015: Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/venezuelan-parliamentary-election-2015-brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over.md) _2017-08-27 03:43:24 (First version)_
+1. [Venezuelan parliamentary election, 2015: Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/venezuelan-parliamentary-election-2015-brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over.md) _2018-02-06 13:49:28 (First version)_
 1. [Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over-what-it-says-are-a-lack-of-guarantees-by.md) _(Current version)_
 
 ### Related:

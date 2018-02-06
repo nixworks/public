@@ -16,7 +16,7 @@ Jordan declares its border regions with Syria and Iraq to be closed military zon
 
 ### Changes:
 
-1. [Spillover of the Syrian Civil War: Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/spillover-of-the-syrian-civil-war-jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-sui.md) _2017-08-27 03:46:19 (First version)_
+1. [Spillover of the Syrian Civil War: Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/spillover-of-the-syrian-civil-war-jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-sui.md) _2018-02-06 13:49:29 (First version)_
 1. [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt (2013-14):Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/post-coup-unrest-in-egypt-2013a14-pthree-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested-d.md) _2017-08-25 03:41:15 (First version)_
-2. [Post-coup unrest in Egypt (2013-14):: Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/post-coup-unrest-in-egypt-2013-14-three-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested.md) _2017-08-27 03:41:34 (Update)_
+1. [Post-coup unrest in Egypt (2013-14):Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/post-coup-unrest-in-egypt-2013a14-pthree-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested-d.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt (2013-14):: Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/post-coup-unrest-in-egypt-2013-14-three-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested.md) _2018-02-06 13:49:26 (Update)_
 2. [Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/three-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested-during-anti-government-protests-across-e.md) _(Current version)_
 
 ### Related:

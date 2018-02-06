@@ -16,7 +16,7 @@ Toronto landscaper Bruce McArthur now faces three additional counts of first-deg
 
 ### Changes:
 
-1. [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after the remains of an additional three people are found in planters on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-the-remains-of-an-additional-three-people-ar.md) _2018-01-31 00:30:23 (First version)_
+1. [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after the remains of an additional three people are found in planters on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-the-remains-of-an-additional-three-people-ar.md) _2018-02-06 13:49:31 (First version)_
 1. [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after planters containing the remains of three other people are found on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-planters-containing-the-remains-of-three-oth.md) _(Current version)_
 
 ### Related:

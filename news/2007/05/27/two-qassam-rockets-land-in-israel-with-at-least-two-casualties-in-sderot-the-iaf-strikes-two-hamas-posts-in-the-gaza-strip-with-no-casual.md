@@ -17,8 +17,8 @@ A Hamas rocket attack from Gaza killed a man in Israel on Sunday and Prime Minis
 
 ### Changes:
 
-1. [ 2007 Israel-Gaza conflict: Two Qassam rockets land in Israel with at least two casualties in Sderot. The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/2007-israel-gaza-conflict-p-two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-p-the-iaf-strikes-two-hamas-posts-in-t.md) _2017-08-25 03:19:53 (First version)_
-2. [ 2007 Israel-Gaza conflict:: Two Qassam rockets land in Israel with at least two casualties in Sderot.: The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/2007-israel-gaza-conflict-two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-the-iaf-strikes-two-hamas-posts-in-t.md) _2017-08-27 03:19:51 (Update)_
+1. [ 2007 Israel-Gaza conflict:: Two Qassam rockets land in Israel with at least two casualties in Sderot.: The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/2007-israel-gaza-conflict-two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-the-iaf-strikes-two-hamas-posts-in-t.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2007 Israel-Gaza conflict: Two Qassam rockets land in Israel with at least two casualties in Sderot. The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/2007-israel-gaza-conflict-p-two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-p-the-iaf-strikes-two-hamas-posts-in-t.md) _2018-02-06 13:49:17 (Update)_
 2. [ Two Qassam rockets land in Israel with at least two casualties in Sderot. The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-the-iaf-strikes-two-hamas-posts-in-the-gaza-strip-with-no-casual.md) _(Current version)_
 
 ### Related:

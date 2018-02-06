@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoma
 
 ### Changes:
 
-1. [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-t.md) _2017-08-25 03:45:05 (First version)_
+1. [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-to.md) _(Current version)_
 
 ### Related:

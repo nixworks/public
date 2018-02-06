@@ -22,8 +22,8 @@ Human Rights Watch describes Hamas treatment of captive as torture.
 
 ### Changes:
 
-1. [Captured Israeli soldier Gilad Shalit:The fourth anniversary of the capture of Gilad Shalit, and held incommunicado by Hamas in Gaza, is marked in Israel, the United States and a number of European cities. ](/news/2010/06/25/captured-israeli-soldier-gilad-shalit-pthe-fourth-anniversary-of-the-capture-of-gilad-shalit-and-held-incommunicado-by-hamas-in-gaza-is-ma.md) _2017-08-25 03:28:25 (First version)_
-2. [Captured Israeli soldier Gilad Shalit:: The fourth anniversary of the capture of Gilad Shalit, and held incommunicado by Hamas in Gaza, is marked in Israel, the United States and a number of European cities. ](/news/2010/06/25/captured-israeli-soldier-gilad-shalit-the-fourth-anniversary-of-the-capture-of-gilad-shalit-and-held-incommunicado-by-hamas-in-gaza-is-m.md) _2017-08-27 03:28:26 (Update)_
+1. [Captured Israeli soldier Gilad Shalit:: The fourth anniversary of the capture of Gilad Shalit, and held incommunicado by Hamas in Gaza, is marked in Israel, the United States and a number of European cities. ](/news/2010/06/25/captured-israeli-soldier-gilad-shalit-the-fourth-anniversary-of-the-capture-of-gilad-shalit-and-held-incommunicado-by-hamas-in-gaza-is-m.md) _2018-02-06 13:49:20 (First version)_
+2. [Captured Israeli soldier Gilad Shalit:The fourth anniversary of the capture of Gilad Shalit, and held incommunicado by Hamas in Gaza, is marked in Israel, the United States and a number of European cities. ](/news/2010/06/25/captured-israeli-soldier-gilad-shalit-pthe-fourth-anniversary-of-the-capture-of-gilad-shalit-and-held-incommunicado-by-hamas-in-gaza-is-ma.md) _2018-02-06 13:49:20 (Update)_
 2. [The fourth anniversary of the capture of Gilad Shalit, and held incommunicado by Hamas in Gaza, is marked in Israel, the United States and a number of European cities. ](/news/2010/06/25/the-fourth-anniversary-of-the-capture-of-gilad-shalit-and-held-incommunicado-by-hamas-in-gaza-is-marked-in-israel-the-united-states-and-a.md) _(Current version)_
 
 ### Related:

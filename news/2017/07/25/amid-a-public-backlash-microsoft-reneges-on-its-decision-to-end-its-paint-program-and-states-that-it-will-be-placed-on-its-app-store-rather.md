@@ -16,8 +16,8 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 
 ### Changes:
 
-1. [Microsoft reneges on its decision to end its Paint program and would instead place it on the app store. ](/news/2017/07/25/microsoft-reneges-on-its-decision-to-end-its-paint-program-and-would-instead-place-it-on-the-app-store.md) _2017-07-25 15:30:07 (First version)_
-2. [Microsoft Paint: Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/microsoft-paint-amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its.md) _2017-08-27 03:48:43 (Update)_
+1. [Microsoft reneges on its decision to end its Paint program and would instead place it on the app store. ](/news/2017/07/25/microsoft-reneges-on-its-decision-to-end-its-paint-program-and-would-instead-place-it-on-the-app-store.md) _2018-02-06 13:49:30 (First version)_
+2. [Microsoft Paint: Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/microsoft-paint-amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its.md) _2018-02-06 13:49:30 (Update)_
 2. [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md) _(Current version)_
 
 ### Related:

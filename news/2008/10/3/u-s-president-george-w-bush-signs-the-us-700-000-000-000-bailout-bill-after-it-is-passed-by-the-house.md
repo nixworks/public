@@ -16,8 +16,8 @@ President Bush signed a $700 billion financial bailout package Friday, shortly a
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: U.S. President George W. Bush signs the US$ 700,000,000,000 bailout bill after it is passed by the House. ](/news/2008/10/3/subprime-mortgage-crisis-p-u-s-president-george-w-bush-signs-the-us-700-000-000-000-bailout-bill-after-it-is-passed-by-the-house.md) _2017-08-25 03:22:59 (First version)_
-2. [ Subprime mortgage crisis:: U.S. President George W. Bush signs the US$ 700,000,000,000 bailout bill after it is passed by the House. ](/news/2008/10/3/subprime-mortgage-crisis-u-s-president-george-w-bush-signs-the-us-700-000-000-000-bailout-bill-after-it-is-passed-by-the-house.md) _2017-08-27 03:22:52 (Update)_
+1. [ Subprime mortgage crisis:: U.S. President George W. Bush signs the US$ 700,000,000,000 bailout bill after it is passed by the House. ](/news/2008/10/3/subprime-mortgage-crisis-u-s-president-george-w-bush-signs-the-us-700-000-000-000-bailout-bill-after-it-is-passed-by-the-house.md) _2018-02-06 13:49:18 (First version)_
+2. [ Subprime mortgage crisis: U.S. President George W. Bush signs the US$ 700,000,000,000 bailout bill after it is passed by the House. ](/news/2008/10/3/subprime-mortgage-crisis-p-u-s-president-george-w-bush-signs-the-us-700-000-000-000-bailout-bill-after-it-is-passed-by-the-house.md) _2018-02-06 13:49:18 (Update)_
 2. [ U.S. President George W. Bush signs the US$ 700,000,000,000 bailout bill after it is passed by the House. ](/news/2008/10/3/u-s-president-george-w-bush-signs-the-us-700-000-000-000-bailout-bill-after-it-is-passed-by-the-house.md) _(Current version)_
 
 ### Related:

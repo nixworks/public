@@ -16,7 +16,7 @@ Tropical storm Fung-Wong churns towards Taiwan after killing at least five peopl
 
 ### Changes:
 
-1. [Tropical Storm Fung-wong (2014): Tropical Storm Fung-wong heads towards Taiwan after leaving five people dead and 200,000 displaced in the Philippines. ](/news/2014/09/20/tropical-storm-fung-wong-2014-tropical-storm-fung-wong-heads-towards-taiwan-after-leaving-five-people-dead-and-200-000-displaced-in-the-p.md) _2017-08-27 03:41:18 (First version)_
+1. [Tropical Storm Fung-wong (2014): Tropical Storm Fung-wong heads towards Taiwan after leaving five people dead and 200,000 displaced in the Philippines. ](/news/2014/09/20/tropical-storm-fung-wong-2014-tropical-storm-fung-wong-heads-towards-taiwan-after-leaving-five-people-dead-and-200-000-displaced-in-the-p.md) _2018-02-06 13:49:26 (First version)_
 1. [Tropical Storm Fung-wong heads towards Taiwan after leaving five people dead and 200,000 displaced in the Philippines. ](/news/2014/09/20/tropical-storm-fung-wong-heads-towards-taiwan-after-leaving-five-people-dead-and-200-000-displaced-in-the-philippines.md) _(Current version)_
 
 ### Related:

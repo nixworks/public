@@ -16,7 +16,7 @@ At least eight people were killed on Saturday when a car bomb exploded in a mark
 
 ### Changes:
 
-1. [Syrian Civil War: A bomb explodes in the town of al-Mayadin in Deir al-Zor province near the Iraqi border killing 8. ](/news/2014/06/14/syrian-civil-war-a-bomb-explodes-in-the-town-of-al-mayadin-in-deir-al-zor-province-near-the-iraqi-border-killing-8.md) _2017-08-27 03:40:51 (First version)_
+1. [Syrian Civil War: A bomb explodes in the town of al-Mayadin in Deir al-Zor province near the Iraqi border killing 8. ](/news/2014/06/14/syrian-civil-war-a-bomb-explodes-in-the-town-of-al-mayadin-in-deir-al-zor-province-near-the-iraqi-border-killing-8.md) _2018-02-06 13:49:26 (First version)_
 1. [A bomb explodes in the town of al-Mayadin in Deir al-Zor province near the Iraqi border killing 8. ](/news/2014/06/14/a-bomb-explodes-in-the-town-of-al-mayadin-in-deir-al-zor-province-near-the-iraqi-border-killing-8.md) _(Current version)_
 
 ### Related:

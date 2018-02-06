@@ -16,7 +16,7 @@ President Rodrigo Duterte on Tuesday, December 19, signed into law the P3.8-tril
 
 ### Changes:
 
-1. [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act, that reforms the existing tax system since 1997. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act-that-reforms-the-existing-tax-system.md) _2017-12-20 06:30:07 (First version)_
+1. [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act, that reforms the existing tax system since 1997. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act-that-reforms-the-existing-tax-system.md) _2018-02-06 13:49:31 (First version)_
 1. [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act.md) _(Current version)_
 
 ### Related:

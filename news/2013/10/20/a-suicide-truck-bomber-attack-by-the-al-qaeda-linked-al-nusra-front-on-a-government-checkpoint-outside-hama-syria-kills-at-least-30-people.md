@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/10/20/a-suicide-truck-bomber-attack-by-the-al-qaeda-l
 
 ### Changes:
 
-1. [Syrian civil war:A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-pa-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md) _2017-08-25 03:39:24 (First version)_
-2. [Syrian civil war:: A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md) _2017-08-27 03:39:42 (Update)_
+1. [Syrian civil war:A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-pa-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills-at-least-30-people.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The radical group fighting for an Islamic state in Nigeria is seen as the bigges
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-ptwo-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md) _2017-08-25 03:39:09 (First version)_
-2. [Nigerian Sharia conflict:: Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md) _2017-08-27 03:39:25 (Update)_
+1. [Nigerian Sharia conflict:: Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-ptwo-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md) _2018-02-06 13:49:25 (Update)_
 2. [Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle-in-the-north-east-adamawa.md) _(Current version)_
 
 ### Related:

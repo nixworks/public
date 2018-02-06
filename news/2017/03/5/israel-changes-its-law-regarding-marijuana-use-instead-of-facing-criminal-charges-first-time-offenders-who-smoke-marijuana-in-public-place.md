@@ -16,7 +16,7 @@ First-time offenders will face $270 fine if caught using marijuana in a public p
 
 ### Changes:
 
-1. [Cannabis in Israel: Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/cannabis-in-israel-israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marij.md) _2017-08-27 03:47:56 (First version)_
+1. [Cannabis in Israel: Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/cannabis-in-israel-israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marij.md) _2018-02-06 13:49:30 (First version)_
 1. [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md) _(Current version)_
 
 ### Related:

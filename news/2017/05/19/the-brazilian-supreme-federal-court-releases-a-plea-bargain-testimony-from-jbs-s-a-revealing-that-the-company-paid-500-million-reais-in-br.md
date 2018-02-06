@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/19/the-brazilian-supreme-federal-court-releases-a-
 
 ### Changes:
 
-1. [Corruption in Brazil: The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/corruption-in-brazil-the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-5.md) _2017-08-27 03:48:21 (First version)_
+1. [Corruption in Brazil: The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/corruption-in-brazil-the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-5.md) _2018-02-06 13:49:30 (First version)_
 1. [The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-500-million-reais-in-br.md) _(Current version)_
 
 ### Related:

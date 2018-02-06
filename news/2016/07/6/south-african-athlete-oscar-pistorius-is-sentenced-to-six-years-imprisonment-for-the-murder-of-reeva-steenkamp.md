@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenc
 
 ### Changes:
 
-1. [Oscar Pistorius trial: South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/oscar-pistorius-trial-south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _2017-08-27 03:46:25 (First version)_
+1. [Oscar Pistorius trial: South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/oscar-pistorius-trial-south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _2018-02-06 13:49:29 (First version)_
 1. [South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _(Current version)_
 
 ### Related:

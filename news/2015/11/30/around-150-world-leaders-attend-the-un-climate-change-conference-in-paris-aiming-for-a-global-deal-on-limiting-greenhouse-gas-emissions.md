@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/30/around-150-world-leaders-attend-the-un-climate-
 
 ### Changes:
 
-1. [2015 United Nations Climate Change Conference: Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/2015-united-nations-climate-change-conference-around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-globa.md) _2017-08-27 03:44:07 (First version)_
+1. [2015 United Nations Climate Change Conference: Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/2015-united-nations-climate-change-conference-around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-globa.md) _2018-02-06 13:49:28 (First version)_
 1. [Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-global-deal-on-limiting-greenhouse-gas-emissions.md) _(Current version)_
 
 ### Related:

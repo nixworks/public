@@ -16,7 +16,7 @@ Judge rules that the Treasury Department has denied blind people reasonable acce
 
 ### Changes:
 
-1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in ''American Council for the Blind v. Secretary of the Treasury''. ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recogniza.md) _2017-08-25 03:18:51 (First version)_
+1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in ''American Council for the Blind v. Secretary of the Treasury''. ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recogniza.md) _2018-02-06 13:49:17 (First version)_
 1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in "American Council for the Blind v. Secretary of the Treasury". ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.md) _(Current version)_
 
 ### Related:

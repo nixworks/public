@@ -17,7 +17,7 @@ The latest donation brings total U.S. aid over four years to $4.5 billion, more 
 
 ### Changes:
 
-1. [European migrant crisis: Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/european-migrant-crisis-hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders.md) _2017-08-27 03:43:07 (First version)_
+1. [European migrant crisis: Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/european-migrant-crisis-hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders.md) _2018-02-06 13:49:27 (First version)_
 1. [Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders-with-serbia-and-croatia.md) _(Current version)_
 
 ### Related:

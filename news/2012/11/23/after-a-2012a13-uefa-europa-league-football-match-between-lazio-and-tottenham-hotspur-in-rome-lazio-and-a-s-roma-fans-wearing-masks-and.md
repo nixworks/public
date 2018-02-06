@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/11/23/after-a-2012a13-uefa-europa-league-football-mat
 
 ### Changes:
 
-1. [After a 2012-13 UEFA Europa League football match between Lazio and Tottenham Hotspur in Rome, Lazio and A.S. Roma fans wearing masks and armed with knives surround a pub while chanting "Jews, Jews". They then attacked the Jewish contingent of Tottenham fans in the pub and injured 10, with one individual severely wounded. ](/news/2012/11/23/after-a-2012-13-uefa-europa-league-football-match-between-lazio-and-tottenham-hotspur-in-rome-lazio-and-a-s-roma-fans-wearing-masks-and.md) _2017-08-27 03:37:02 (First version)_
+1. [After a 2012-13 UEFA Europa League football match between Lazio and Tottenham Hotspur in Rome, Lazio and A.S. Roma fans wearing masks and armed with knives surround a pub while chanting "Jews, Jews". They then attacked the Jewish contingent of Tottenham fans in the pub and injured 10, with one individual severely wounded. ](/news/2012/11/23/after-a-2012-13-uefa-europa-league-football-match-between-lazio-and-tottenham-hotspur-in-rome-lazio-and-a-s-roma-fans-wearing-masks-and.md) _2018-02-06 13:49:24 (First version)_
 1. [After a 2012-13 UEFA Europa League football match between Lazio and Tottenham Hotspur in Rome, Lazio and A.S. Roma fans wearing masks and armed with knives surround a pub while chanting "Jews, Jews". They then attacked the Jewish contingent of Tottenham fans in the pub and injured 10, with one individual severely wounded. ](/news/2012/11/23/after-a-2012a13-uefa-europa-league-football-match-between-lazio-and-tottenham-hotspur-in-rome-lazio-and-a-s-roma-fans-wearing-masks-and.md) _(Current version)_
 
 ### Related:

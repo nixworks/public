@@ -9,7 +9,7 @@ ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut.
 
 ##### Syrian Civil War
 ### [A day after a Russian sponsored ceasefire with a rebel group agreed a halt of fighting in the last opposition enclave in the capital, Syrian government airplanes and artillery strike rebel-held eastern Damascus suburbs and Ghouta with barrel bombs, killing at least five civilians in the towns of Hamouriya and Zalamka with several case of suffocation from rockets filled with chlorine that were fired at the front lines of Jobar and Ain Terma. ](/news/2017/08/19/a-day-after-a-russian-sponsored-ceasefire-with-a-rebel-group-agreed-a-halt-of-fighting-in-the-last-opposition-enclave-in-the-capital-syrian.md)
-_Context: Eastern Ghouta, Syrian Civil War, Damascus_
+_Context: Ghouta, Syrian Civil War, Damascus_
 
 ##### Syrian Civil War spillover in Lebanon
 ### [The Lebanese Armed Forces launches operation "Fajr al-Joroud", and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIS militants. Twenty ISIS militants were killed and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria-b.md)
@@ -29,7 +29,7 @@ A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 pe
 
 ##### US Navy losses in World War II
 ### [The wreckage of the Indianapolis 6 heavy cruiser, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors-Marines who survived the sinking were finally rescued after 4-5 days in shark-infested waters. ](/news/2017/08/19/the-wreckage-of-the-indianapolis-6-heavy-cruiser-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-p.md)
-_Context: Little Boy, heavy cruiser, Marine, South Pacific Ocean, US Navy losses in World War II, I-58, Sailor_
+_Context: Little Boy, South Pacific Ocean, heavy cruiser, US Navy losses in World War II, Marine, Sailor, I-58_
 
 ##### 2017 Australian constitutional crisis
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)

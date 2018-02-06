@@ -18,7 +18,7 @@ Michael R. Bloomberg, the billionaire former mayor of New York City, is once aga
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/united-states-presidential-election-2016-former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-pres.md) _2017-08-27 03:44:44 (First version)_
+1. [United States presidential election, 2016: Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/united-states-presidential-election-2016-former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-pres.md) _2018-02-06 13:49:28 (First version)_
 1. [Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-presidential-run-if-donald-trump-or-texas-senat.md) _(Current version)_
 
 ### Related:

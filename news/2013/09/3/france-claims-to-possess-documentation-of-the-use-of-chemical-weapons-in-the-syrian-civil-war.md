@@ -21,8 +21,8 @@ Israel carries out a joint missile test with the US in the Mediterranean, amid h
 
 ### Changes:
 
-1. [Syrian civil war:France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/syrian-civil-war-pfrance-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md) _2017-08-25 03:39:14 (First version)_
-2. [Syrian civil war:: France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/syrian-civil-war-france-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md) _2017-08-27 03:39:30 (Update)_
+1. [Syrian civil war:France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/syrian-civil-war-pfrance-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/syrian-civil-war-france-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md) _2018-02-06 13:49:25 (Update)_
 2. [France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/france-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md) _(Current version)_
 
 ### Related:

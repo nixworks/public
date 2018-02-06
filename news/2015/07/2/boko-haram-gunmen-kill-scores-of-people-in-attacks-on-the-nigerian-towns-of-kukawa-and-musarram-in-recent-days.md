@@ -16,7 +16,7 @@ Islamists from Boko Haram killed 145 people in attacks on two Nigerian villages 
 
 ### Changes:
 
-1. [Boko Haram: Boko Haram gunmen kill scores of people in attacks on the Nigerian towns of Kukawa and Musarram in recent days. ](/news/2015/07/2/boko-haram-boko-haram-gunmen-kill-scores-of-people-in-attacks-on-the-nigerian-towns-of-kukawa-and-musarram-in-recent-days.md) _2017-08-27 03:42:38 (First version)_
+1. [Boko Haram: Boko Haram gunmen kill scores of people in attacks on the Nigerian towns of Kukawa and Musarram in recent days. ](/news/2015/07/2/boko-haram-boko-haram-gunmen-kill-scores-of-people-in-attacks-on-the-nigerian-towns-of-kukawa-and-musarram-in-recent-days.md) _2018-02-06 13:49:27 (First version)_
 1. [Boko Haram gunmen kill scores of people in attacks on the Nigerian towns of Kukawa and Musarram in recent days. ](/news/2015/07/2/boko-haram-gunmen-kill-scores-of-people-in-attacks-on-the-nigerian-towns-of-kukawa-and-musarram-in-recent-days.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ A vaccine against dengue fever could protect more than half the children who are
 
 ##### China
 ### [The People's Republic of China jails 32 people for allegedly downloading and spreading violent Islamist material via the Internet to Xinjiang. ](/news/2014/07/11/the-people-s-republic-of-china-jails-32-people-for-allegedly-downloading-and-spreading-violent-islamist-material-via-the-internet-to-xinjian.md)
-_Context: China, Xinjiang_
+_Context: Xinjiang, China_
 
 ## [Previous Day...](/news/2014/07/10/index.md)
 

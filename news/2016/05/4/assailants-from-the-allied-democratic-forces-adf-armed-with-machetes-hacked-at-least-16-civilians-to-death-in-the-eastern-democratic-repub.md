@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/05/4/assailants-from-the-allied-democratic-forces-adf
 
 ### Changes:
 
-1. [Allied Democratic Forces insurgency: Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/allied-democratic-forces-insurgency-assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to.md) _2017-08-27 03:45:58 (First version)_
+1. [Allied Democratic Forces insurgency: Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/allied-democratic-forces-insurgency-assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to.md) _2018-02-06 13:49:29 (First version)_
 1. [Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to-death-in-the-eastern-democratic-repub.md) _(Current version)_
 
 ### Related:

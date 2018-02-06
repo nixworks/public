@@ -18,9 +18,9 @@ Islamist fighters have withdrawn from two towns in central Mali after French air
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):Battle of Konna: The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dr.md) _2017-05-25 03:38:47 (First version)_
-2. [Northern Mali conflict (2012-present):Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dro.md) _2017-08-25 03:37:17 (Update)_
-3. [Northern Mali conflict (2012-present):: Battle of Konna:: The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012-present-battle-of-konna-the-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-d.md) _2017-08-27 03:37:27 (Update)_
+1. [Northern Mali conflict (2012-present):Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dro.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):Battle of Konna: The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dr.md) _2018-02-06 13:49:24 (Update)_
+3. [Northern Mali conflict (2012-present):: Battle of Konna:: The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012-present-battle-of-konna-the-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-d.md) _2018-02-06 13:49:24 (Update)_
 3. [Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/battle-of-konna-the-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-drove-out-islamist-militants.md) _(Current version)_
 
 ### Related:

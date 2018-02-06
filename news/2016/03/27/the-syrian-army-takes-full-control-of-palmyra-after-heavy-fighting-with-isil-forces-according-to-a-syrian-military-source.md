@@ -16,7 +16,7 @@ Bashar al Assad says it is an &quot;important achievement&quot; and shows his ar
 
 ### Changes:
 
-1. [Syrian Civil War: Palmyra offensive (March 2016): The Syrian Army takes full control of Palmyra after heavy fighting with ISIL forces, according to a Syrian military source. ](/news/2016/03/27/syrian-civil-war-palmyra-offensive-march-2016-the-syrian-army-takes-full-control-of-palmyra-after-heavy-fighting-with-isil-forces-accor.md) _2017-08-27 03:45:23 (First version)_
+1. [Syrian Civil War: Palmyra offensive (March 2016): The Syrian Army takes full control of Palmyra after heavy fighting with ISIL forces, according to a Syrian military source. ](/news/2016/03/27/syrian-civil-war-palmyra-offensive-march-2016-the-syrian-army-takes-full-control-of-palmyra-after-heavy-fighting-with-isil-forces-accor.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army takes full control of Palmyra after heavy fighting with ISIL forces, according to a Syrian military source. ](/news/2016/03/27/the-syrian-army-takes-full-control-of-palmyra-after-heavy-fighting-with-isil-forces-according-to-a-syrian-military-source.md) _(Current version)_
 
 ### Related:

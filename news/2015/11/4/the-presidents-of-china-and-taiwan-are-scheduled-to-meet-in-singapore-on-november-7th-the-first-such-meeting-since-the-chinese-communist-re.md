@@ -17,7 +17,7 @@ President Ma Ying-jeou of Taiwan is to confer with President Xi Jinping of China
 
 ### Changes:
 
-1. [Cross-Strait relations: 2015 Ma-Xi Meeting: The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/cross-strait-relations-2015-ma-xi-meeting-the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-fir.md) _2017-08-27 03:43:40 (First version)_
+1. [Cross-Strait relations: 2015 Ma-Xi Meeting: The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/cross-strait-relations-2015-ma-xi-meeting-the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-fir.md) _2018-02-06 13:49:28 (First version)_
 1. [The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-first-such-meeting-since-the-chinese-communist-re.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-ya
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/war-in-afghanistan-2015-present-the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-m.md) _2017-08-27 03:42:29 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/war-in-afghanistan-2015-present-the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-m.md) _2018-02-06 13:49:27 (First version)_
 1. [The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-militants-involved.md) _(Current version)_
 
 ### Related:

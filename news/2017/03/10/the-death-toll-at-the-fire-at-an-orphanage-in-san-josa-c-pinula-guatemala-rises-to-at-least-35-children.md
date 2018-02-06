@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/10/the-death-toll-at-the-fire-at-an-orphanage-in-s
 
 ### Changes:
 
-1. [Virgen de la Asuncion fire: The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/virgen-de-la-asuncia3n-fire-the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md) _2017-08-27 03:47:58 (First version)_
+1. [Virgen de la Asuncion fire: The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/virgen-de-la-asuncia3n-fire-the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md) _2018-02-06 13:49:30 (First version)_
 1. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md) _(Current version)_
 
 ### Related:

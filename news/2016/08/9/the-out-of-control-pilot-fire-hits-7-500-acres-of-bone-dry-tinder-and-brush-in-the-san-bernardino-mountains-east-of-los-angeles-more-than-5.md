@@ -16,7 +16,7 @@ A wildfire burning out of control in mountains and foothills east of Los Angeles
 
 ### Changes:
 
-1. [2016 California wildfires: The out-of-control Pilot Fire hits 7,500 acres of bone-dry tinder and brush in the San Bernardino Mountains east of Los Angeles. More than 5,000 homes are under evacuation orders. Authorities shut down school districts in the area. ](/news/2016/08/9/2016-california-wildfires-the-out-of-control-pilot-fire-hits-7-500-acres-of-bone-dry-tinder-and-brush-in-the-san-bernardino-mountains-east.md) _2017-08-27 03:46:38 (First version)_
+1. [2016 California wildfires: The out-of-control Pilot Fire hits 7,500 acres of bone-dry tinder and brush in the San Bernardino Mountains east of Los Angeles. More than 5,000 homes are under evacuation orders. Authorities shut down school districts in the area. ](/news/2016/08/9/2016-california-wildfires-the-out-of-control-pilot-fire-hits-7-500-acres-of-bone-dry-tinder-and-brush-in-the-san-bernardino-mountains-east.md) _2018-02-06 13:49:29 (First version)_
 1. [The out-of-control Pilot Fire hits 7,500 acres of bone-dry tinder and brush in the San Bernardino Mountains east of Los Angeles. More than 5,000 homes are under evacuation orders. Authorities shut down school districts in the area. ](/news/2016/08/9/the-out-of-control-pilot-fire-hits-7-500-acres-of-bone-dry-tinder-and-brush-in-the-san-bernardino-mountains-east-of-los-angeles-more-than-5.md) _(Current version)_
 
 ### Related:

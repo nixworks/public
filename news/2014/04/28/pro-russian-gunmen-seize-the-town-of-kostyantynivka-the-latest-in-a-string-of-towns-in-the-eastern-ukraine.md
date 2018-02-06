@@ -19,8 +19,8 @@ The United States imposed new sanctions on allies of Russian President Vladimir 
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-ppro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukra.md) _2017-08-25 03:40:21 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-pro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukr.md) _2017-08-27 03:40:38 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-pro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukr.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-ppro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukra.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/pro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukraine.md) _(Current version)_
 
 ### Related:

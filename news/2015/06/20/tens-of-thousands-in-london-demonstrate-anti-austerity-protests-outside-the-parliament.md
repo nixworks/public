@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/20/tens-of-thousands-in-london-demonstrate-anti-au
 
 ### Changes:
 
-1. [Anti-austerity movement: Tens of thousands in London demonstrate anti-austerity protests outside the Parliament. ](/news/2015/06/20/anti-austerity-movement-tens-of-thousands-in-london-demonstrate-anti-austerity-protests-outside-the-parliament.md) _2017-08-27 03:42:34 (First version)_
+1. [Anti-austerity movement: Tens of thousands in London demonstrate anti-austerity protests outside the Parliament. ](/news/2015/06/20/anti-austerity-movement-tens-of-thousands-in-london-demonstrate-anti-austerity-protests-outside-the-parliament.md) _2018-02-06 13:49:27 (First version)_
 1. [Tens of thousands in London demonstrate anti-austerity protests outside the Parliament. ](/news/2015/06/20/tens-of-thousands-in-london-demonstrate-anti-austerity-protests-outside-the-parliament.md) _(Current version)_
 
 ### Related:

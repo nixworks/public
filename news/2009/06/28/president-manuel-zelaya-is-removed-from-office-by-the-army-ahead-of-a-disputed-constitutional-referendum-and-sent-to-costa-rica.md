@@ -18,8 +18,8 @@ Formats: [HTML](/news/2009/06/28/president-manuel-zelaya-is-removed-from-office-
 
 ### Changes:
 
-1. [ 2009 Honduran political crisis: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-p-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md) _2017-08-25 03:24:59 (First version)_
-2. [ 2009 Honduran political crisis:: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md) _2017-08-27 03:24:51 (Update)_
+1. [ 2009 Honduran political crisis:: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md) _2018-02-06 13:49:19 (First version)_
+2. [ 2009 Honduran political crisis: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-p-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md) _2018-02-06 13:49:19 (Update)_
 2. [ President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-and-sent-to-costa-rica.md) _(Current version)_
 
 ### Related:

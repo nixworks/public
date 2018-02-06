@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/6/voters-in-bulgaria-go-to-the-polls-for-a-preside
 
 ### Changes:
 
-1. [Bulgarian presidential election, 2016: Voters in Bulgaria go to the polls for a presidential election, with exit polls showing no candidate receiving the majority necessary to win outright, and Rumen Radev and Tsetska Tsacheva likely to face one another in a run-off on 13 November. ](/news/2016/11/6/bulgarian-presidential-election-2016-voters-in-bulgaria-go-to-the-polls-for-a-presidential-election-with-exit-polls-showing-no-candidate.md) _2017-08-27 03:47:11 (First version)_
+1. [Bulgarian presidential election, 2016: Voters in Bulgaria go to the polls for a presidential election, with exit polls showing no candidate receiving the majority necessary to win outright, and Rumen Radev and Tsetska Tsacheva likely to face one another in a run-off on 13 November. ](/news/2016/11/6/bulgarian-presidential-election-2016-voters-in-bulgaria-go-to-the-polls-for-a-presidential-election-with-exit-polls-showing-no-candidate.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Bulgaria go to the polls for a presidential election, with exit polls showing no candidate receiving the majority necessary to win outright, and Rumen Radev and Tsetska Tsacheva likely to face one another in a run-off on 13 November. ](/news/2016/11/6/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election-with-exit-polls-showing-no-candidate-receiving-the-majority-necessary-to-win.md) _(Current version)_
 
 ### Related:

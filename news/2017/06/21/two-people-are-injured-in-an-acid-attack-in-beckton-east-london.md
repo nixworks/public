@@ -16,7 +16,7 @@ Resham Khan had celebrated her 21st birthday with her cousin when they were atta
 
 ### Changes:
 
-1. [2017 Beckton acid attack: Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/2017-beckton-acid-attack-two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _2017-08-27 03:48:32 (First version)_
+1. [2017 Beckton acid attack: Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/2017-beckton-acid-attack-two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _2018-02-06 13:49:30 (First version)_
 1. [Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _(Current version)_
 
 ### Related:

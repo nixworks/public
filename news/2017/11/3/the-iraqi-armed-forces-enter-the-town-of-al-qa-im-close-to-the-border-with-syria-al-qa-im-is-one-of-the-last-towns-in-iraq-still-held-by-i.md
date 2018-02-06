@@ -16,8 +16,8 @@ Iraqi forces have entered al-Qaim, one of the last remaining territories in the 
 
 ### Changes:
 
-1. [The Iraqi Armed Forces entered the town of Al Qua'im close to the border with Syria. Al Qua'im is one of the last towns in Iraq still held by ISIS. ](/news/2017/11/3/the-iraqi-armed-forces-entered-the-town-of-al-qua-im-close-to-the-border-with-syria-al-qua-im-is-one-of-the-last-towns-in-iraq-still-held-b.md) _2017-11-03 19:30:05 (First version)_
-2. [The Iraqi Armed Forces entered the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-entered-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by.md) _2017-11-04 00:30:05 (Update)_
+1. [The Iraqi Armed Forces entered the town of Al Qua'im close to the border with Syria. Al Qua'im is one of the last towns in Iraq still held by ISIS. ](/news/2017/11/3/the-iraqi-armed-forces-entered-the-town-of-al-qua-im-close-to-the-border-with-syria-al-qua-im-is-one-of-the-last-towns-in-iraq-still-held-b.md) _2018-02-06 13:49:31 (First version)_
+2. [The Iraqi Armed Forces entered the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-entered-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by.md) _2018-02-06 13:49:31 (Update)_
 2. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _(Current version)_
 
 ### Related:

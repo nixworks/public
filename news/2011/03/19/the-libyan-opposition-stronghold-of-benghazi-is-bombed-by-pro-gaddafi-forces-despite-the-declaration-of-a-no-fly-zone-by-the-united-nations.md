@@ -26,8 +26,8 @@ A French plane has fired the first shots on a military vehicle in Libya, as the 
 
 ### Changes:
 
-1. [2011 Libyan civil war:The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/2011-libyan-civil-war-pthe-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zone.md) _2017-08-25 03:32:35 (First version)_
-2. [2011 Libyan civil war:: The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/2011-libyan-civil-war-the-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zon.md) _2017-08-27 03:32:43 (Update)_
+1. [2011 Libyan civil war:: The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/2011-libyan-civil-war-the-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zon.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/2011-libyan-civil-war-pthe-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zone.md) _2018-02-06 13:49:22 (Update)_
 2. [The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/the-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zone-by-the-united-nations.md) _(Current version)_
 
 ### Related:

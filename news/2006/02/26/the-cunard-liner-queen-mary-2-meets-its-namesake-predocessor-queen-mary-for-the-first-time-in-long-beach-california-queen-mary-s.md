@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/02/26/the-cunard-liner-queen-mary-2-meets-its-namesak
 
 ### Changes:
 
-1. [ The Cunard liner, ''Queen Mary 2'' meets its namesake predocessor, ''Queen Mary'' for the first time in Long Beach, California, ''Queen Mary'''s permanent base.](/news/2006/02/26/the-cunard-liner-queen-mary-2-meets-its-namesake-predocessor-queen-mary-for-the-first-time-in-long-beach-california-queen-mar.md) _2017-08-25 03:17:29 (First version)_
+1. [ The Cunard liner, ''Queen Mary 2'' meets its namesake predocessor, ''Queen Mary'' for the first time in Long Beach, California, ''Queen Mary'''s permanent base.](/news/2006/02/26/the-cunard-liner-queen-mary-2-meets-its-namesake-predocessor-queen-mary-for-the-first-time-in-long-beach-california-queen-mar.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Cunard liner, "Queen Mary 2" meets its namesake predocessor, "Queen Mary" for the first time in Long Beach, California, "Queen Mary"'s permanent base.](/news/2006/02/26/the-cunard-liner-queen-mary-2-meets-its-namesake-predocessor-queen-mary-for-the-first-time-in-long-beach-california-queen-mary-s.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserv
 
 ### Changes:
 
-1. [ Ben Bernanke, the Chairman of the Federal Reserve, assures the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gi.md) _2017-08-25 03:22:35 (First version)_
+1. [ Ben Bernanke, the Chairman of the Federal Reserve, assures the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gi.md) _2018-02-06 13:49:18 (First version)_
 1. [ Ben Bernanke, the Chairman of the Federal Reserve, assures the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gia.md) _(Current version)_
 
 ### Related:

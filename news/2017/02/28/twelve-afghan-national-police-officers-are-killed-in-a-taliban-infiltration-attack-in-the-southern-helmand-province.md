@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/28/twelve-afghan-national-police-officers-are-kill
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/war-in-afghanistan-2015-present-twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-he.md) _2017-08-27 03:47:54 (First version)_
+1. [War in Afghanistan (2015-present): Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/war-in-afghanistan-2015-present-twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-he.md) _2018-02-06 13:49:30 (First version)_
 1. [Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md) _(Current version)_
 
 ### Related:

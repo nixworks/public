@@ -17,7 +17,7 @@ Egyptian security sources say at least 15 soldiers and two civilians have been k
 
 ### Changes:
 
-1. [Sinai insurgency: About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs. ](/news/2015/04/3/sinai-insurgency-about-15-egyptian-soldiers-and-2-civilians-are-killed-by-a-combination-of-guns-and-car-bombs.md) _2017-08-27 03:42:09 (First version)_
+1. [Sinai insurgency: About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs. ](/news/2015/04/3/sinai-insurgency-about-15-egyptian-soldiers-and-2-civilians-are-killed-by-a-combination-of-guns-and-car-bombs.md) _2018-02-06 13:49:27 (First version)_
 1. [ About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs. ](/news/2015/04/3/about-15-egyptian-soldiers-and-2-civilians-are-killed-by-a-combination-of-guns-and-car-bombs.md) _(Current version)_
 
 ### Related:

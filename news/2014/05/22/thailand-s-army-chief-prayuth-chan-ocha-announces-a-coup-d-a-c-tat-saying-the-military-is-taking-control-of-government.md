@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/22/thailand-s-army-chief-prayuth-chan-ocha-announc
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/2013a14-thai-political-crisis-pthailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of.md) _2017-08-25 03:40:26 (First version)_
-2. [2013-14 Thai political crisis:: Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/2013-14-thai-political-crisis-thailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of.md) _2017-08-27 03:40:44 (Update)_
+1. [2013-14 Thai political crisis:Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/2013a14-thai-political-crisis-pthailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of.md) _2018-02-06 13:49:26 (First version)_
+2. [2013-14 Thai political crisis:: Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/2013-14-thai-political-crisis-thailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of.md) _2018-02-06 13:49:26 (Update)_
 2. [Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/thailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of-government.md) _(Current version)_
 
 ### Related:

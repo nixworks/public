@@ -11,7 +11,7 @@ Formats: [HTML](/news/2004/02/13/scientists-announce-the-possible-discovery-of-a
 
 ### Changes:
 
-1. [ Scientists announce the possible discovery of a 10 billion trillion trillion (110 34 ) carat diamond, 2,500 mi across and 50 light-years away from Earth in the core of the decayed star BPM 37093 in the constellation of Centaurus.](/news/2004/02/13/scientists-announce-the-possible-discovery-of-a-10-billion-trillion-trillion-1x1034-carat-diamond-2-500-mi-across-and-50-light-years-awa.md) _2017-10-02 03:16:22 (First version)_
+1. [ Scientists announce the possible discovery of a 10 billion trillion trillion (110 34 ) carat diamond, 2,500 mi across and 50 light-years away from Earth in the core of the decayed star BPM 37093 in the constellation of Centaurus.](/news/2004/02/13/scientists-announce-the-possible-discovery-of-a-10-billion-trillion-trillion-1x1034-carat-diamond-2-500-mi-across-and-50-light-years-awa.md) _2018-02-06 13:49:15 (First version)_
 1. [ Scientists announce the possible discovery of a 10 billion trillion trillion (110 34 ) carat diamond, 2,500 mi across and 50 light-years away from Earth in the core of the decayed star BPM 37093 in the constellation of Centaurus.](/news/2004/02/13/scientists-announce-the-possible-discovery-of-a-10-billion-trillion-trillion-1x10-34-carat-diamond-2-500-mi-across-and-50-light-years-a.md) _(Current version)_
 
 ### Related:

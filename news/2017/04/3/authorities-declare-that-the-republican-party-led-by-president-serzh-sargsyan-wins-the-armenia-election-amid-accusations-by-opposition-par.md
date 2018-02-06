@@ -15,7 +15,7 @@ European observers also report &#39;pressure on civil servants&#39; in elections
 
 ### Changes:
 
-1. [Armenian parliamentary election, 2017: Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/armenian-parliamentary-election-2017-authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-elec.md) _2017-08-27 03:48:06 (First version)_
+1. [Armenian parliamentary election, 2017: Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/armenian-parliamentary-election-2017-authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-elec.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _(Current version)_
 
 ### Related:

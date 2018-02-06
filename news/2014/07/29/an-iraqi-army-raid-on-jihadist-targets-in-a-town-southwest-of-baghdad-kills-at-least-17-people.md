@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/29/an-iraqi-army-raid-on-jihadist-targets-in-a-tow
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present):An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011apresent-pan-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _2017-08-25 03:40:46 (First version)_
-2. [Iraqi insurgency (2011-present):: An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011-present-an-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _2017-08-27 03:41:04 (Update)_
+1. [Iraqi insurgency (2011-present):An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011apresent-pan-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (2011-present):: An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011-present-an-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _2018-02-06 13:49:26 (Update)_
 2. [An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/an-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md) _(Current version)_
 
 ### Related:

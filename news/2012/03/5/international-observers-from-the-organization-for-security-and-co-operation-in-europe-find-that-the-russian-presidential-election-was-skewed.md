@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/03/5/international-observers-from-the-organization-fo
 
 ### Changes:
 
-1. [Russian election aftermath:International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/russian-election-aftermath-pinternational-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-pres.md) _2017-08-25 03:35:12 (First version)_
-2. [Russian election aftermath:: International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/russian-election-aftermath-international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-pre.md) _2017-08-27 03:35:21 (Update)_
+1. [Russian election aftermath:International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/russian-election-aftermath-pinternational-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-pres.md) _2018-02-06 13:49:23 (First version)_
+2. [Russian election aftermath:: International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/russian-election-aftermath-international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-pre.md) _2018-02-06 13:49:23 (Update)_
 2. [International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-presidential-election-was-skewed.md) _(Current version)_
 
 ### Related:

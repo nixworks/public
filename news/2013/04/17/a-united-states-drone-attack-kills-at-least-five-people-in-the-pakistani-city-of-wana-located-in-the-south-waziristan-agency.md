@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-fiv
 
 ### Changes:
 
-1. [War in North-West Pakistan:A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-pa-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-wazi.md) _2017-08-25 03:38:23 (First version)_
-2. [War in North-West Pakistan:: A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waz.md) _2017-08-27 03:38:36 (Update)_
+1. [War in North-West Pakistan:A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-pa-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-wazi.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waz.md) _2018-02-06 13:49:24 (Update)_
 2. [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Get the latest News news with exclusive stories and pictures from Rolling Stone.
 
 ### Changes:
 
-1. [ Robert F. Kennedy, Jr., writing in ''Rolling Stone'' magazine, accuses George W. Bush and his Republican Party of widespread voting fraud during the 2004 Presidential Election. ](/news/2006/06/2/robert-f-kennedy-jr-writing-in-rolling-stone-magazine-accuses-george-w-bush-and-his-republican-party-of-widespread-voting-fraud-d.md) _2017-08-25 03:17:43 (First version)_
+1. [ Robert F. Kennedy, Jr., writing in ''Rolling Stone'' magazine, accuses George W. Bush and his Republican Party of widespread voting fraud during the 2004 Presidential Election. ](/news/2006/06/2/robert-f-kennedy-jr-writing-in-rolling-stone-magazine-accuses-george-w-bush-and-his-republican-party-of-widespread-voting-fraud-d.md) _2018-02-06 13:49:17 (First version)_
 1. [ Robert F. Kennedy, Jr., writing in "Rolling Stone" magazine, accuses George W. Bush and his Republican Party of widespread voting fraud during the 2004 Presidential Election. ](/news/2006/06/2/robert-f-kennedy-jr-writing-in-rolling-stone-magazine-accuses-george-w-bush-and-his-republican-party-of-widespread-voting-fraud-dur.md) _(Current version)_
 
 ### Related:

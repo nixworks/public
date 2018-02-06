@@ -16,8 +16,8 @@ At least 20 soldiers are killed and 24 injured in a bomb attack on an army convo
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/war-in-north-west-pakistan-pa-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md) _2017-08-25 03:39:53 (First version)_
-2. [War in North-West Pakistan:: A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/war-in-north-west-pakistan-a-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md) _2017-08-27 03:40:12 (Update)_
+1. [War in North-West Pakistan:A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/war-in-north-west-pakistan-pa-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/war-in-north-west-pakistan-a-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/a-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-
 
 ### Changes:
 
-1. [Internal conflict in Burma: Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/internal-conflict-in-burma-myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens.md) _2017-08-27 03:41:56 (First version)_
+1. [Internal conflict in Burma: Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/internal-conflict-in-burma-myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens.md) _2018-02-06 13:49:26 (First version)_
 1. [Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens-more-wounded-in-fightings-i.md) _(Current version)_
 
 ### Related:

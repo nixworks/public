@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-re
 
 ### Changes:
 
-1. [ The MV ''Arctic Sea'', missing since late July, is reportedly found {{convert|400|nmi|km|abbr=on}} off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-convert-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _2017-05-01 03:26:43 (First version)_
-2. [ The MV "Arctic Sea", missing since late July, is reportedly found 400|nmi|km|abbr=on off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _2017-08-29 03:25:37 (Update)_
+1. [ The MV ''Arctic Sea'', missing since late July, is reportedly found {{convert|400|nmi|km|abbr=on}} off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-convert-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _2018-02-06 13:49:19 (First version)_
+2. [ The MV "Arctic Sea", missing since late July, is reportedly found 400|nmi|km|abbr=on off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _2018-02-06 13:49:19 (Update)_
 2. [ The MV "Arctic Sea", missing since late July, is reportedly found 400 nmi off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-off-the-cape-verde-islands.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Federal land managers say escalating tensions led them to release all 400 or so 
 
 ### Changes:
 
-1. [Bundy standoff: Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/bundy-standoff-amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md) _2017-08-27 03:40:34 (First version)_
+1. [Bundy standoff: Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/bundy-standoff-amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md) _2018-02-06 13:49:26 (First version)_
 1. [Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md) _(Current version)_
 
 ### Related:

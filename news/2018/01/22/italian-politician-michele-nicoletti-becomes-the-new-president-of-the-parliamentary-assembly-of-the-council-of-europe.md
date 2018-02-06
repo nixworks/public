@@ -15,8 +15,8 @@ Formats: [HTML](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-th
 
 ### Changes:
 
-1. [Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md) _2018-01-22 17:30:09 (First version)_
-2. [Italian politician Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md) _2018-01-22 23:30:07 (Update)_
+1. [Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md) _2018-02-06 13:49:31 (First version)_
+2. [Italian politician Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md) _2018-02-06 13:49:31 (Update)_
 2. [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md) _(Current version)_
 
 ### Related:

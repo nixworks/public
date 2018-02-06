@@ -17,7 +17,7 @@ The new novel Go Set a Watchman, Harper Lee&#039;s first for 55 years, features 
 
 ### Changes:
 
-1. [American author Harper Lee announced plans to publish her second book, a sequel to ''To Kill a Mockingbird'', that was completed in the 1950s but misplaced. July 14, 2015 will be the release date for ''Go Set a Watchman''. ](/news/2015/02/3/american-author-harper-lee-announced-plans-to-publish-her-second-book-a-sequel-to-to-kill-a-mockingbird-that-was-completed-in-the-1950.md) _2017-08-25 03:41:34 (First version)_
+1. [American author Harper Lee announced plans to publish her second book, a sequel to ''To Kill a Mockingbird'', that was completed in the 1950s but misplaced. July 14, 2015 will be the release date for ''Go Set a Watchman''. ](/news/2015/02/3/american-author-harper-lee-announced-plans-to-publish-her-second-book-a-sequel-to-to-kill-a-mockingbird-that-was-completed-in-the-1950.md) _2018-02-06 13:49:26 (First version)_
 1. [American author Harper Lee announced plans to publish her second book, a sequel to "To Kill a Mockingbird", that was completed in the 1950s but misplaced. July 14, 2015 will be the release date for "Go Set a Watchman". ](/news/2015/02/3/american-author-harper-lee-announced-plans-to-publish-her-second-book-a-sequel-to-to-kill-a-mockingbird-that-was-completed-in-the-1950s.md) _(Current version)_
 
 ### Related:

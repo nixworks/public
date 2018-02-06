@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-l
 
 ### Changes:
 
-1. [2014 Thai coup d'etat: The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/2014-thai-coup-d-a-c-tat-the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md) _2017-08-27 03:41:10 (First version)_
+1. [2014 Thai coup d'etat: The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/2014-thai-coup-d-a-c-tat-the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md) _2018-02-06 13:49:26 (First version)_
 1. [The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md) _(Current version)_
 
 ### Related:

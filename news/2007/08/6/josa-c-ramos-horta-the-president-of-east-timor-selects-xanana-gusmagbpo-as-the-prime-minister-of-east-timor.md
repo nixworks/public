@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-s
 
 ### Changes:
 
-1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana Gusmao as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmapso-as-the-prime-minister-of-east-timor.md) _2017-08-25 03:20:27 (First version)_
+1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana Gusmao as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmapso-as-the-prime-minister-of-east-timor.md) _2018-02-06 13:49:18 (First version)_
 1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana GusmGBPo as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.md) _(Current version)_
 
 ### Related:

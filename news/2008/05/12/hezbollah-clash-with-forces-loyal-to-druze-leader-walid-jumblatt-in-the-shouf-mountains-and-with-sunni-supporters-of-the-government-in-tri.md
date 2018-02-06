@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/12/hezbollah-clash-with-forces-loyal-to-druze-lead
 
 ### Changes:
 
-1. [ 2008 unrest in Lebanon: Hezbollah clash with forces loyal to Druze leader Walid Jumblatt in the Shouf mountains, and with Sunni supporters of the government in Tripoli. ](/news/2008/05/12/2008-unrest-in-lebanon-p-hezbollah-clash-with-forces-loyal-to-druze-leader-walid-jumblatt-in-the-shouf-mountains-and-with-sunni-supporters.md) _2017-08-25 03:22:09 (First version)_
-2. [ 2008 unrest in Lebanon:: Hezbollah clash with forces loyal to Druze leader Walid Jumblatt in the Shouf mountains, and with Sunni supporters of the government in Tripoli. ](/news/2008/05/12/2008-unrest-in-lebanon-hezbollah-clash-with-forces-loyal-to-druze-leader-walid-jumblatt-in-the-shouf-mountains-and-with-sunni-supporters.md) _2017-08-27 03:22:03 (Update)_
+1. [ 2008 unrest in Lebanon: Hezbollah clash with forces loyal to Druze leader Walid Jumblatt in the Shouf mountains, and with Sunni supporters of the government in Tripoli. ](/news/2008/05/12/2008-unrest-in-lebanon-p-hezbollah-clash-with-forces-loyal-to-druze-leader-walid-jumblatt-in-the-shouf-mountains-and-with-sunni-supporters.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Lebanon:: Hezbollah clash with forces loyal to Druze leader Walid Jumblatt in the Shouf mountains, and with Sunni supporters of the government in Tripoli. ](/news/2008/05/12/2008-unrest-in-lebanon-hezbollah-clash-with-forces-loyal-to-druze-leader-walid-jumblatt-in-the-shouf-mountains-and-with-sunni-supporters.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hezbollah clash with forces loyal to Druze leader Walid Jumblatt in the Shouf mountains, and with Sunni supporters of the government in Tripoli. ](/news/2008/05/12/hezbollah-clash-with-forces-loyal-to-druze-leader-walid-jumblatt-in-the-shouf-mountains-and-with-sunni-supporters-of-the-government-in-tri.md) _(Current version)_
 
 ### Related:

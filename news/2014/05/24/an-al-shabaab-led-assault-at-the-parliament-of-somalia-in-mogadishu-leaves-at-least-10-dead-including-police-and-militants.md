@@ -17,8 +17,8 @@ At least 10 people are reported killed as al-Shabab militants attack parliament 
 
 ### Changes:
 
-1. [War in Somalia (2009-present):An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/war-in-somalia-2009apresent-pan-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-poli.md) _2017-08-25 03:40:26 (First version)_
-2. [War in Somalia (2009-present):: An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/war-in-somalia-2009-present-an-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-pol.md) _2017-08-27 03:40:44 (Update)_
+1. [War in Somalia (2009-present):An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/war-in-somalia-2009apresent-pan-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-poli.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Somalia (2009-present):: An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/war-in-somalia-2009-present-an-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-pol.md) _2018-02-06 13:49:26 (Update)_
 2. [An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/an-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-police-and-militants.md) _(Current version)_
 
 ### Related:

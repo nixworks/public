@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli
 
 ### Changes:
 
-1. [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his "''courageous initiative''" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settl.md) _2017-08-25 03:15:57 (First version)_
+1. [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his "''courageous initiative''" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settl.md) _2018-02-06 13:49:16 (First version)_
 1. [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his ""courageous initiative"" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settlem.md) _(Current version)_
 
 ### Related:

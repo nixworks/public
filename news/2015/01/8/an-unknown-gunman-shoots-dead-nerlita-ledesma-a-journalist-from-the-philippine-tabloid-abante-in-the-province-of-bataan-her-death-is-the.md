@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/8/an-unknown-gunman-shoots-dead-nerlita-ledesma-a-
 
 ### Changes:
 
-1. [An unknown gunman shoots dead Nerlita Ledesma, a journalist from the Philippine tabloid ''Abante'' in the province of Bataan; her death is the 172nd murder of a journalist since the return of democracy in 1986 and the 31st during the presidency of Benigno Aquino III. ](/news/2015/01/8/an-unknown-gunman-shoots-dead-nerlita-ledesma-a-journalist-from-the-philippine-tabloid-abante-in-the-province-of-bataan-her-death-is-t.md) _2017-08-25 03:41:28 (First version)_
+1. [An unknown gunman shoots dead Nerlita Ledesma, a journalist from the Philippine tabloid ''Abante'' in the province of Bataan; her death is the 172nd murder of a journalist since the return of democracy in 1986 and the 31st during the presidency of Benigno Aquino III. ](/news/2015/01/8/an-unknown-gunman-shoots-dead-nerlita-ledesma-a-journalist-from-the-philippine-tabloid-abante-in-the-province-of-bataan-her-death-is-t.md) _2018-02-06 13:49:26 (First version)_
 1. [An unknown gunman shoots dead Nerlita Ledesma, a journalist from the Philippine tabloid "Abante" in the province of Bataan; her death is the 172nd murder of a journalist since the return of democracy in 1986 and the 31st during the presidency of Benigno Aquino III. ](/news/2015/01/8/an-unknown-gunman-shoots-dead-nerlita-ledesma-a-journalist-from-the-philippine-tabloid-abante-in-the-province-of-bataan-her-death-is-the.md) _(Current version)_
 
 ### Related:

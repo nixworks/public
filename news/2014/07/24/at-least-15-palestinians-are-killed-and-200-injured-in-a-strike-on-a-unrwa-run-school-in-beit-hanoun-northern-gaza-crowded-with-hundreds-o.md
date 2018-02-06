@@ -17,7 +17,7 @@ Shelling of UNRWA school condemned by UN, saying it asked IDF for time to evacua
 
 ### Changes:
 
-1. [Israel-Gaza conflict: At least 15 Palestinians are killed and 200 injured in a strike on a UNRWA-run school in Beit Hanoun, northern Gaza, crowded with hundreds of displaced civilians. UN condemns the shelling, saying it asked IDF for time to evacuate civilians. ](/news/2014/07/24/israel-gaza-conflict-at-least-15-palestinians-are-killed-and-200-injured-in-a-strike-on-a-unrwa-run-school-in-beit-hanoun-northern-gaza-c.md) _2017-08-27 03:41:03 (First version)_
+1. [Israel-Gaza conflict: At least 15 Palestinians are killed and 200 injured in a strike on a UNRWA-run school in Beit Hanoun, northern Gaza, crowded with hundreds of displaced civilians. UN condemns the shelling, saying it asked IDF for time to evacuate civilians. ](/news/2014/07/24/israel-gaza-conflict-at-least-15-palestinians-are-killed-and-200-injured-in-a-strike-on-a-unrwa-run-school-in-beit-hanoun-northern-gaza-c.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 15 Palestinians are killed and 200 injured in a strike on a UNRWA-run school in Beit Hanoun, northern Gaza, crowded with hundreds of displaced civilians. UN condemns the shelling, saying it asked IDF for time to evacuate civilians. ](/news/2014/07/24/at-least-15-palestinians-are-killed-and-200-injured-in-a-strike-on-a-unrwa-run-school-in-beit-hanoun-northern-gaza-crowded-with-hundreds-o.md) _(Current version)_
 
 ### Related:

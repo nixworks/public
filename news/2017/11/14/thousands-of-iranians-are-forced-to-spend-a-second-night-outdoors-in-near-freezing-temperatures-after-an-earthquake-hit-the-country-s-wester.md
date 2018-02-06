@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-sec
 
 ### Changes:
 
-1. [Thousands of Iranians have spent a second night outdoors in near-freezing temperatures after a devastating earthquake hit the west of the country. ](/news/2017/11/14/thousands-of-iranians-have-spent-a-second-night-outdoors-in-near-freezing-temperatures-after-a-devastating-earthquake-hit-the-west-of-the-co.md) _2017-11-14 07:30:06 (First version)_
+1. [Thousands of Iranians have spent a second night outdoors in near-freezing temperatures after a devastating earthquake hit the west of the country. ](/news/2017/11/14/thousands-of-iranians-have-spent-a-second-night-outdoors-in-near-freezing-temperatures-after-a-devastating-earthquake-hit-the-west-of-the-co.md) _2018-02-06 13:49:31 (First version)_
 1. [Thousands of Iranians are forced to spend a second night outdoors in near-freezing temperatures after an earthquake hit the country's western border with Iraq. ](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.md) _(Current version)_
 
 ### Related:

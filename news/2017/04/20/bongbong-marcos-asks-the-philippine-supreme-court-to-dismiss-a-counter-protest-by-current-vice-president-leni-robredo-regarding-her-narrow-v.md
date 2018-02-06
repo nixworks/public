@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/20/bongbong-marcos-asks-the-philippine-supreme-cou
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/philippine-presidential-election-2016-bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-presi.md) _2017-08-27 03:48:12 (First version)_
+1. [Philippine presidential election, 2016: Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/philippine-presidential-election-2016-bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-presi.md) _2018-02-06 13:49:30 (First version)_
 1. [Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-president-leni-robredo-regarding-her-narrow-v.md) _(Current version)_
 
 ### Related:

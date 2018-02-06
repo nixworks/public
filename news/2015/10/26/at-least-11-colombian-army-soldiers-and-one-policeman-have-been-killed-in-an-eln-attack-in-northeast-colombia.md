@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/26/at-least-11-colombian-army-soldiers-and-one-pol
 
 ### Changes:
 
-1. [Colombian conflict (1964-present): At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/colombian-conflict-1964-present-at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-co.md) _2017-08-27 03:43:31 (First version)_
+1. [Colombian conflict (1964-present): At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/colombian-conflict-1964-present-at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-co.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-colombia.md) _(Current version)_
 
 ### Related:

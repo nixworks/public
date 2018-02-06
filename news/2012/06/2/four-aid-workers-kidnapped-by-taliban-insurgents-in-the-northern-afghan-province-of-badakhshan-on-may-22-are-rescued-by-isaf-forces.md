@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/06/2/four-aid-workers-kidnapped-by-taliban-insurgents
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/war-in-afghanistan-2001apresent-pfour-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-2.md) _2017-08-25 03:35:48 (First version)_
-2. [War in Afghanistan (2001-present):: Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/war-in-afghanistan-2001-present-four-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may.md) _2017-08-27 03:35:59 (Update)_
+1. [War in Afghanistan (2001-present):Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/war-in-afghanistan-2001apresent-pfour-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-2.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan (2001-present):: Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/war-in-afghanistan-2001-present-four-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may.md) _2018-02-06 13:49:23 (Update)_
 2. [Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/four-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-22-are-rescued-by-isaf-forces.md) _(Current version)_
 
 ### Related:

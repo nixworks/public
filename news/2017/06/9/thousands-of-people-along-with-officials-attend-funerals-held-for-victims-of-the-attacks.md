@@ -17,8 +17,8 @@ Iranians mourn 17 killed in two attacks on the capital this week
 
 ### Changes:
 
-1. [Thousands of people along with officials attended funeral held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attended-funeral-held-for-victims-of-the-attacks.md) _2017-06-09 23:30:08 (First version)_
-2. [2017 Tehran attacks: Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/2017-tehran-attacks-thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md) _2017-08-27 03:48:27 (Update)_
+1. [Thousands of people along with officials attended funeral held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attended-funeral-held-for-victims-of-the-attacks.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Tehran attacks: Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/2017-tehran-attacks-thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md) _2018-02-06 13:49:30 (Update)_
 2. [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md) _(Current version)_
 
 ### Related:

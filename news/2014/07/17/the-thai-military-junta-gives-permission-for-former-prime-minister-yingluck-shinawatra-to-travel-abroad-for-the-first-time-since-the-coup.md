@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/07/17/the-thai-military-junta-gives-permission-for-fo
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013a14-thai-political-crisis-pthe-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for.md) _2017-08-25 03:40:41 (First version)_
-2. [2013-14 Thai political crisis:: The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013-14-thai-political-crisis-the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-fo.md) _2017-08-27 03:40:59 (Update)_
+1. [2013-14 Thai political crisis:The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013a14-thai-political-crisis-pthe-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for.md) _2018-02-06 13:49:26 (First version)_
+2. [2013-14 Thai political crisis:: The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013-14-thai-political-crisis-the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-fo.md) _2018-02-06 13:49:26 (Update)_
 2. [The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for-the-first-time-since-the-coup.md) _(Current version)_
 
 ### Related:

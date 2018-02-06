@@ -17,8 +17,8 @@ Being a communist would no longer be a fireable offense for California governmen
 
 ### Changes:
 
-1. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _2017-05-10 03:51:38 (First version)_
-2. [The Assembly of California votes in favor of ending a ban which barred members the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-the-communist-party-usa-from-holding-positions-in-the-state-g.md) _2017-05-10 14:30:06 (Update)_
+1. [The Assembly of California votes in favor of ending a ban which barred members the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-the-communist-party-usa-from-holding-positions-in-the-state-g.md) _2018-02-06 13:49:30 (First version)_
+2. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _2018-02-06 13:49:30 (Update)_
 2. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _(Current version)_
 
 ### Related:

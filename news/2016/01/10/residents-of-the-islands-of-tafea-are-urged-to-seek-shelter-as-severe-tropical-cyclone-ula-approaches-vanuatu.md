@@ -16,7 +16,7 @@ Strong winds from tropical cyclone Ula were being felt in Vanuatu&#39;s Tafea pr
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. ](/news/2016/01/10/2015-16-south-pacific-cyclone-season-residents-of-the-islands-of-tafea-are-urged-to-seek-shelter-as-severe-tropical-cyclone-ula-approache.md) _2017-08-27 03:44:38 (First version)_
+1. [2015-16 South Pacific cyclone season: Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. ](/news/2016/01/10/2015-16-south-pacific-cyclone-season-residents-of-the-islands-of-tafea-are-urged-to-seek-shelter-as-severe-tropical-cyclone-ula-approache.md) _2018-02-06 13:49:28 (First version)_
 1. [Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. ](/news/2016/01/10/residents-of-the-islands-of-tafea-are-urged-to-seek-shelter-as-severe-tropical-cyclone-ula-approaches-vanuatu.md) _(Current version)_
 
 ### Related:

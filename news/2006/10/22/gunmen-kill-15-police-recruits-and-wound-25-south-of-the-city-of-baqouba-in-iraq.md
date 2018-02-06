@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ Iraqi insurgency: Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/iraqi-insurgency-p-gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md) _2017-08-25 03:18:37 (First version)_
-2. [ Iraqi insurgency:: Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/iraqi-insurgency-gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md) _2017-08-27 03:18:31 (Update)_
+1. [ Iraqi insurgency: Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/iraqi-insurgency-p-gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraqi insurgency:: Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/iraqi-insurgency-gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md) _2018-02-06 13:49:17 (Update)_
 2. [ Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md) _(Current version)_
 
 ### Related:

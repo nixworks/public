@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/15/the-syrian-military-retakes-control-of-kessab-i
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/syrian-civil-war-the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md) _2017-08-27 03:40:51 (First version)_
+1. [Syrian Civil War: The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/syrian-civil-war-the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md) _2018-02-06 13:49:26 (First version)_
 1. [The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md) _(Current version)_
 
 ### Related:

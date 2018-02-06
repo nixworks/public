@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sagbpo-paul
 
 ### Changes:
 
-1. [Fernando Haddad is elected mayor of Sao Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sapso-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md) _2017-08-25 03:36:45 (First version)_
+1. [Fernando Haddad is elected mayor of Sao Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sapso-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md) _2018-02-06 13:49:24 (First version)_
 1. [Fernando Haddad is elected mayor of SGBPo Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sagbpo-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md) _(Current version)_
 
 ### Related:

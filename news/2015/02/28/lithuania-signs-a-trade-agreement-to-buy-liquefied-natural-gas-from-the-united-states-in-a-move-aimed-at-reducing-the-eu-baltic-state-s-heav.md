@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/02/28/lithuania-signs-a-trade-agreement-to-buy-liquef
 
 ### Changes:
 
-1. [Lithuania-United States relations:Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuaniaaunited-states-relations-plithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed-a.md) _2017-08-25 03:41:42 (First version)_
-2. [Lithuania-United States relations:: Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-united-states-relations-lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed.md) _2017-08-27 03:42:02 (Update)_
+1. [Lithuania-United States relations:Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuaniaaunited-states-relations-plithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed-a.md) _2018-02-06 13:49:26 (First version)_
+2. [Lithuania-United States relations:: Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-united-states-relations-lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed.md) _2018-02-06 13:49:26 (Update)_
 2. [Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed-at-reducing-the-eu-baltic-state-s-heav.md) _(Current version)_
 
 ### Related:

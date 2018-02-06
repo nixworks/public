@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/1/a-gunman-shoots-dead-at-least-11-people-includin
 
 ### Changes:
 
-1. [Campinas massacre: A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/campinas-massacre-a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murder-suicide-at-a-new-year.md) _2017-08-27 03:47:33 (First version)_
+1. [Campinas massacre: A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/campinas-massacre-a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murder-suicide-at-a-new-year.md) _2018-02-06 13:49:30 (First version)_
 1. [A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murderasuicide-at-a-new-year-s-eve-party-in-the.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ TOKYO (AP) — Tens of thousands of people on the Japanese island of Okinawa pro
 
 ### Changes:
 
-1. [Japan-United States relations: Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/japan-united-states-relations-over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-s.md) _2017-08-27 03:46:18 (First version)_
+1. [Japan-United States relations: Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/japan-united-states-relations-over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-spurred-on-by-last-month-s-arrest.md) _(Current version)_
 
 ### Related:

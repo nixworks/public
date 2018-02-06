@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/22/yahoo-discloses-a-data-breach-that-compromised-
 
 ### Changes:
 
-1. [2014 Yahoo! data breach: Yahoo! discloses a data breach that compromised the details of 500 million users. ](/news/2016/09/22/2014-yahoo-data-breach-yahoo-discloses-a-data-breach-that-compromised-the-details-of-500-million-users.md) _2017-08-27 03:46:53 (First version)_
+1. [2014 Yahoo! data breach: Yahoo! discloses a data breach that compromised the details of 500 million users. ](/news/2016/09/22/2014-yahoo-data-breach-yahoo-discloses-a-data-breach-that-compromised-the-details-of-500-million-users.md) _2018-02-06 13:49:29 (First version)_
 1. [Yahoo! discloses a data breach that compromised the details of 500 million users. ](/news/2016/09/22/yahoo-discloses-a-data-breach-that-compromised-the-details-of-500-million-users.md) _(Current version)_
 
 ### Related:

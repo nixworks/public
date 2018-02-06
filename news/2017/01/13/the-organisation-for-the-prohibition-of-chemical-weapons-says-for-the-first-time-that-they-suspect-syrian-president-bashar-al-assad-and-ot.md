@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/13/the-organisation-for-the-prohibition-of-chemica
 
 ### Changes:
 
-1. [Syrian Civil War: The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/syrian-civil-war-the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bash.md) _2017-08-27 03:47:36 (First version)_
+1. [Syrian Civil War: The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/syrian-civil-war-the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bash.md) _2018-02-06 13:49:30 (First version)_
 1. [The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bashar-al-assad-and-ot.md) _(Current version)_
 
 ### Related:

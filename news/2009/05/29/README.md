@@ -5,11 +5,11 @@ Formats: [HTML](2009/05/29/index.html)  [JSON](2009/05/29/index.json)  [XML](200
 
 ##### MP
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)
-_Context: Scunthorpe, MP, Elliot Morley, 2010 general election, Parliament, resignation, British_
+_Context: 2010 general election, United Kingdom, Parliament, resignation, Scunthorpe, MP, Elliot Morley_
 
 ##### United States
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
-_Context: record producer, United States, Phil Spector, murder, Lana Clarkson_
+_Context: Lana Clarkson, record producer, murder, United States, Phil Spector_
 
 ##### media
 ### [ American media companies Time Warner and AOL terminate their merger. ](/news/2009/05/29/american-media-companies-time-warner-and-aol-terminate-their-merger.md)
@@ -17,11 +17,11 @@ Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc
 
 ##### Irish
 ### [ Irish brewery Beamish and Crawford closes after 217 years in business. ](/news/2009/05/29/irish-brewery-beamish-and-crawford-closes-after-217-years-in-business.md)
-_Context: Beamish and Crawford, Irish, brewery_
+_Context: brewery, Beamish and Crawford, Irish_
 
 ##### broadcaster
 ### [ Irish broadcaster Pat Kenny hosts his final episode of "The Late Late Show". ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md)
-_Context: broadcaster, The Late Late Show, Pat Kenny_
+_Context: Pat Kenny, broadcaster, The Late Late Show_
 
 ##### Kavya Shivashankar
 ### [ Kavya Shivashankar of Kansas wins the Scripps National Spelling Bee in Washington, D.C. ](/news/2009/05/29/kavya-shivashankar-of-kansas-wins-the-scripps-national-spelling-bee-in-washington-d-c.md)
@@ -29,11 +29,11 @@ Kavya Shivashankar emerges spelling bee winner after spelling her final word, &q
 
 ##### South Korean President
 ### [ Former President Roh Moo-hyun's state funeral is held in Seoul, South Korea. ](/news/2009/05/29/former-president-roh-moo-hyun-s-state-funeral-is-held-in-seoul-south-korea.md)
-_Context: South Korean President, Roh Moo-hyun, Seoul, South Korea, state funeral_
+_Context: Roh Moo-hyun, South Korean President, South Korea, state funeral, Seoul_
 
 ##### United States
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
-_Context: military command, Computer security, U.S. military, United States_
+_Context: Computer security, U.S. military, United States, military command_
 
 ##### dam
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
@@ -41,11 +41,11 @@ _Context: Brazil, Piaui, dam_
 
 ##### Lujo
 ### [ The lethal Lujo virus is identified in Africa. ](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.md)
-_Context: virus, Lujo, Africa_
+_Context: Africa, Lujo, virus_
 
 ##### North Korea
 ### [ North Korea launches a short-range ballistic missile. ](/news/2009/05/29/north-korea-launches-a-short-range-ballistic-missile.md)
-_Context: North Korea, short-range ballistic missile, North Korea's nuclear program_
+_Context: short-range ballistic missile, North Korea's nuclear program, North Korea_
 
 ##### Soyuz TMA-15
 ### [ Soyuz TMA-15 docks with the International Space Station. ](/news/2009/05/29/soyuz-tma-15-docks-with-the-international-space-station.md)
@@ -57,7 +57,7 @@ The Government is to seek EU approval to inject up to &euro;4 billion of capital
 
 ##### civilian
 ### [ At least 20,000 civilians were reportedly killed during the final five months of Sri Lanka's civil war. ](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.md)
-_Context: Sri Lanka, killed, Sri Lankan Civil War, civilian_
+_Context: Sri Lanka, Sri Lankan Civil War, civilian, killed_
 
 ## [Previous Day...](/news/2009/05/28/index.md)
 

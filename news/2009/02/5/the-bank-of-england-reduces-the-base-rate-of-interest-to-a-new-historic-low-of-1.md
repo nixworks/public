@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/5/the-bank-of-england-reduces-the-base-rate-of-int
 
 ### Changes:
 
-1. [ Late 2000s recession: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-p-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md) _2017-08-25 03:23:40 (First version)_
-2. [ Late 2000s recession:: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md) _2017-08-27 03:23:31 (Update)_
+1. [ Late 2000s recession:: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-p-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md) _(Current version)_
 
 ### Related:

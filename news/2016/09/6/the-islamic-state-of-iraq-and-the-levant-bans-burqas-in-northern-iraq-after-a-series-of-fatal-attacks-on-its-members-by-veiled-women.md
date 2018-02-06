@@ -16,7 +16,7 @@ The group has made a U-turn on its burka stance following reports of a veiled wo
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): The Islamic State of Iraq and the Levant bans burqas in northern Iraq after a series of fatal attacks on its members by veiled women. ](/news/2016/09/6/iraqi-civil-war-2014-present-the-islamic-state-of-iraq-and-the-levant-bans-burqas-in-northern-iraq-after-a-series-of-fatal-attacks-on-i.md) _2017-08-27 03:46:47 (First version)_
+1. [Iraqi Civil War (2014-present): The Islamic State of Iraq and the Levant bans burqas in northern Iraq after a series of fatal attacks on its members by veiled women. ](/news/2016/09/6/iraqi-civil-war-2014-present-the-islamic-state-of-iraq-and-the-levant-bans-burqas-in-northern-iraq-after-a-series-of-fatal-attacks-on-i.md) _2018-02-06 13:49:29 (First version)_
 1. [The Islamic State of Iraq and the Levant bans burqas in northern Iraq after a series of fatal attacks on its members by veiled women. ](/news/2016/09/6/the-islamic-state-of-iraq-and-the-levant-bans-burqas-in-northern-iraq-after-a-series-of-fatal-attacks-on-its-members-by-veiled-women.md) _(Current version)_
 
 ### Related:

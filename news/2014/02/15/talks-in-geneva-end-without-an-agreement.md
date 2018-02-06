@@ -15,8 +15,8 @@ No date was set for new round of negotiations after six days of fractious talks
 
 ### Changes:
 
-1. [Syrian Civil War:Talks in Geneva end without an agreement. ](/news/2014/02/15/syrian-civil-war-ptalks-in-geneva-end-without-an-agreement.md) _2017-08-25 03:40:02 (First version)_
-2. [Syrian Civil War:: Talks in Geneva end without an agreement. ](/news/2014/02/15/syrian-civil-war-talks-in-geneva-end-without-an-agreement.md) _2017-08-27 03:40:20 (Update)_
+1. [Syrian Civil War:: Talks in Geneva end without an agreement. ](/news/2014/02/15/syrian-civil-war-talks-in-geneva-end-without-an-agreement.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Talks in Geneva end without an agreement. ](/news/2014/02/15/syrian-civil-war-ptalks-in-geneva-end-without-an-agreement.md) _2018-02-06 13:49:25 (Update)_
 2. [Talks in Geneva end without an agreement. ](/news/2014/02/15/talks-in-geneva-end-without-an-agreement.md) _(Current version)_
 
 ### Related:

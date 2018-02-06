@@ -9,19 +9,19 @@ Russian MPs propose new laws that would make it easier for Russia to incorporate
 
 ##### Syria
 ### [Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md)
-_Context: Lebanon, Syria, Arsal_
+_Context: Syria, Lebanon, Arsal_
 
 ##### Swedish Academy
 ### [The Swedish Academy announces that Swedish writer Klas Ostergren is appointed new member, succeeding late art critic Ulf Linde on seat No. 11. ](/news/2014/02/28/the-swedish-academy-announces-that-swedish-writer-klas-astergren-is-appointed-new-member-succeeding-late-art-critic-ulf-linde-on-seat-no.md)
-_Context: Swedish Academy, seat No. 11, Ulf Linde, Klas Ostergren_
+_Context: Swedish Academy, Ulf Linde, seat No. 11, Klas Ostergren_
 
 ##### 2013-14 Australian bushfire season
 ### [Sick and elderly residents in the town of Morwell, Victoria, are evacuated as a fire in a disused coal mine near the Hazelwood Power Station continues to worsen. ](/news/2014/02/28/sick-and-elderly-residents-in-the-town-of-morwell-victoria-are-evacuated-as-a-fire-in-a-disused-coal-mine-near-the-hazelwood-power-station.md)
-_Context: Hazelwood Power Station, Morwell, Victoria, 2013-14 Australian bushfire season_
+_Context: Morwell, Victoria, 2013-14 Australian bushfire season, Hazelwood Power Station_
 
 ##### Thailand
 ### [At least fifteen children are killed in a school bus crash in Thailand's Prachinburi Province. ](/news/2014/02/28/at-least-fifteen-children-are-killed-in-a-school-bus-crash-in-thailand-s-prachinburi-province.md)
-_Context: Thailand, Prachinburi Province_
+_Context: Prachinburi Province, Thailand_
 
 ##### Joanne Dennehy
 ### [British spree killer Joanne Dennehy is given a whole life sentence for three murders and two attempted murders committed in 2013. ](/news/2014/02/28/british-spree-killer-joanne-dennehy-is-given-a-whole-life-sentence-for-three-murders-and-two-attempted-murders-committed-in-2013.md)

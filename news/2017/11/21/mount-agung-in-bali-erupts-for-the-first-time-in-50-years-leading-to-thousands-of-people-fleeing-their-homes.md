@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/21/mount-agung-in-bali-erupts-for-the-first-time-i
 
 ### Changes:
 
-1. [Mount Agung erupts for the first time in 50 years, leading to thousands of people fleeing their homes. ](/news/2017/11/21/mount-agung-erupts-for-the-first-time-in-50-years-leading-to-thousands-of-people-fleeing-their-homes.md) _2017-11-22 00:30:05 (First version)_
+1. [Mount Agung erupts for the first time in 50 years, leading to thousands of people fleeing their homes. ](/news/2017/11/21/mount-agung-erupts-for-the-first-time-in-50-years-leading-to-thousands-of-people-fleeing-their-homes.md) _2018-02-06 13:49:31 (First version)_
 1. [Mount Agung in Bali erupts for the first time in 50 years, leading to thousands of people fleeing their homes. ](/news/2017/11/21/mount-agung-in-bali-erupts-for-the-first-time-in-50-years-leading-to-thousands-of-people-fleeing-their-homes.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-interna
 
 ### Changes:
 
-1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the ''News of the World'', after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-pap.md) _2017-08-25 03:22:36 (First version)_
+1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the ''News of the World'', after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-pap.md) _2018-02-06 13:49:18 (First version)_
 1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the "News of the World", after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-paper.md) _(Current version)_
 
 ### Related:

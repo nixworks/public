@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-prote
 
 ### Changes:
 
-1. [ 2008 Thai political crisis: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-p-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2017-08-25 03:23:15 (First version)_
-2. [ 2008 Thai political crisis:: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2017-08-27 03:23:08 (Update)_
+1. [ 2008 Thai political crisis:: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Thai political crisis: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-p-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2018-02-06 13:49:18 (Update)_
 2. [ The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.md) _(Current version)_
 
 ### Related:

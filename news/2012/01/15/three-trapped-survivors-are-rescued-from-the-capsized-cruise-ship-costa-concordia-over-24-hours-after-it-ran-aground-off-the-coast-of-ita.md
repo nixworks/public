@@ -16,7 +16,7 @@ Three survivors are found on the Italian cruise ship Costa Concordia more than 2
 
 ### Changes:
 
-1. [Three trapped survivors are rescued from the capsized cruise ship ''Costa Concordia'', over 24 hours after it ran aground off the coast of Italy. Two corpses are also found, bringing the known death toll of the incident to five. ](/news/2012/01/15/three-trapped-survivors-are-rescued-from-the-capsized-cruise-ship-costa-concordia-over-24-hours-after-it-ran-aground-off-the-coast-of-i.md) _2017-08-25 03:34:50 (First version)_
+1. [Three trapped survivors are rescued from the capsized cruise ship ''Costa Concordia'', over 24 hours after it ran aground off the coast of Italy. Two corpses are also found, bringing the known death toll of the incident to five. ](/news/2012/01/15/three-trapped-survivors-are-rescued-from-the-capsized-cruise-ship-costa-concordia-over-24-hours-after-it-ran-aground-off-the-coast-of-i.md) _2018-02-06 13:49:23 (First version)_
 1. [Three trapped survivors are rescued from the capsized cruise ship "Costa Concordia", over 24 hours after it ran aground off the coast of Italy. Two corpses are also found, bringing the known death toll of the incident to five. ](/news/2012/01/15/three-trapped-survivors-are-rescued-from-the-capsized-cruise-ship-costa-concordia-over-24-hours-after-it-ran-aground-off-the-coast-of-ita.md) _(Current version)_
 
 ### Related:

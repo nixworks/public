@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/11/16/thai-authorities-consider-constructing-a-waterw
 
 ### Changes:
 
-1. [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cub.md) _2017-08-25 03:34:30 (First version)_
+1. [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cub.md) _2018-02-06 13:49:23 (First version)_
 1. [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cubi.md) _(Current version)_
 
 ### Related:

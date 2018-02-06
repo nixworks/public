@@ -21,8 +21,8 @@ At least 82 people are killed across Syria as tanks and troops move against prot
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/2011-syrian-uprising-pthe-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md) _2017-08-25 03:33:58 (First version)_
-2. [2011 Syrian uprising:: The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/2011-syrian-uprising-the-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md) _2017-08-27 03:34:05 (Update)_
+1. [2011 Syrian uprising:: The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/2011-syrian-uprising-the-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/2011-syrian-uprising-pthe-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md) _2018-02-06 13:49:22 (Update)_
 2. [The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/the-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md) _(Current version)_
 
 ### Related:

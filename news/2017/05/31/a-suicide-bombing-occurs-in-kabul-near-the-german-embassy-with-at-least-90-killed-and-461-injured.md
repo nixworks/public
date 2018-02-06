@@ -18,9 +18,9 @@ At least nine people were killed and more than 90 wounded were taken to Kabul ho
 
 ### Changes:
 
-1. [A suicide bombing occurs in Kabul near the German embassy with a total of 50 killed and injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-a-total-of-50-killed-and-injured.md) _2017-05-31 08:30:06 (First version)_
-2. [A suicide bombing occurs in Kabul near the German embassy with at least 80 killed and 300 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-80-killed-and-300-injured.md) _2017-05-31 23:30:06 (Update)_
-3. [War in Afghanistan (2015-present): May 2017 Kabul attack: A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/war-in-afghanistan-2015-present-may-2017-kabul-attack-a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-kille.md) _2017-08-27 03:48:24 (Update)_
+1. [War in Afghanistan (2015-present): May 2017 Kabul attack: A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/war-in-afghanistan-2015-present-may-2017-kabul-attack-a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-kille.md) _2018-02-06 13:49:30 (First version)_
+2. [A suicide bombing occurs in Kabul near the German embassy with at least 80 killed and 300 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-80-killed-and-300-injured.md) _2018-02-06 13:49:30 (Update)_
+3. [A suicide bombing occurs in Kabul near the German embassy with a total of 50 killed and injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-a-total-of-50-killed-and-injured.md) _2018-02-06 13:49:30 (Update)_
 3. [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md) _(Current version)_
 
 ### Related:

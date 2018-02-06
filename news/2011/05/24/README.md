@@ -9,19 +9,19 @@ _Context: Libya, civil war, Tunisia_
 
 ##### 2011 Yemeni protests
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
-_Context: Yemen, 2011 Yemeni protests, Sana'a_
+_Context: Yemen, Sana'a, 2011 Yemeni protests_
 
 ##### Muammar Gaddafi
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
-_Context: compound, Libya, NATO, Tripoli, Muammar Gaddafi_
+_Context: Muammar Gaddafi, compound, Libya, Tripoli, NATO_
 
 ##### suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)
-_Context: Kazakhstan, suicide bomber_
+_Context: suicide bomber, Kazakhstan_
 
 ##### Afghanistan
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
-_Context: Afghanistan, Kandahar Province_
+_Context: Kandahar Province, Afghanistan_
 
 ##### protestors
 ### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
@@ -29,11 +29,11 @@ Rights groups say they have documented names of civilians allegedly killed by se
 
 ##### United Nations
 ### [The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese-forces-took-control.md)
-_Context: Sudan, Southern Sudan, Agok, United Nations, Abyei_
+_Context: Agok, United Nations, Abyei, Southern Sudan, Sudan_
 
 ##### Oprah Winfrey
 ### [US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
-_Context: Oprah Winfrey, Oprah Winfrey Show_
+_Context: Oprah Winfrey Show, Oprah Winfrey_
 
 ##### Gearbox Software
 ### [Gearbox Software announces that the video game "Duke Nukem Forever", infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-pre.md)
@@ -69,7 +69,7 @@ Barack Obama has met the Queen and senior royals at the start of a three-day sta
 
 ##### Malaysia
 ### [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md)
-_Context: Malaysia, Muslim, Shia_
+_Context: Malaysia, Shia, Muslim_
 
 ##### Somalia
 ### [Security forces in Somalia seize two planes carrying ransom money for pirates, and detain six foreigners. ](/news/2011/05/24/security-forces-in-somalia-seize-two-planes-carrying-ransom-money-for-pirates-and-detain-six-foreigners.md)
@@ -77,11 +77,11 @@ Somali authorities seized twoaircraft carrying $3.6 million in ransom payments f
 
 ##### Egypt
 ### [Former Egyptian President Hosni Mubarak and his two sons are to be tried over the deaths of anti-government protesters. ](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.md)
-_Context: Egypt, Hosni Mubarak_
+_Context: Hosni Mubarak, Egypt_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls for the release of a Saudi woman detained for driving. ](/news/2011/05/24/human-rights-watch-calls-for-the-release-of-a-saudi-woman-detained-for-driving.md)
-_Context: Human Rights Watch, Saudi Arabia_
+_Context: Saudi Arabia, Human Rights Watch_
 
 ##### manslaughter by gross negligence
 ### [A British police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G-20 protests. ](/news/2011/05/24/a-british-police-officer-is-to-be-charged-with-manslaughter-over-the-death-of-newspaper-seller-ian-tomlinson-during-the-2009-g-20-protests.md)
@@ -101,7 +101,7 @@ _Context: Tunisia_
 
 ##### Lord Wei
 ### [Lord Wei, who was in charge of David Cameron's Big Society project, has announced he is standing down from the role. ](/news/2011/05/24/lord-wei-who-was-in-charge-of-david-cameron-s-big-society-project-has-announced-he-is-standing-down-from-the-role.md)
-_Context: Lord Wei, David Cameron, Big Society_
+_Context: Big Society, Lord Wei, David Cameron_
 
 ##### Kathy Hochul
 ### [Kathy Hochul, the Democratic Party candidate, wins a special election to represent New York's 26th congressional district in the United States House of Representatives. ](/news/2011/05/24/kathy-hochul-the-democratic-party-candidate-wins-a-special-election-to-represent-new-york-s-26th-congressional-district-in-the-united-stat.md)

@@ -17,7 +17,7 @@ Gathering of many West Coast white supremacist groups in Sacramento took sudden 
 
 ### Changes:
 
-1. [Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-c.md) _2017-08-25 03:45:59 (First version)_
+1. [Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-cou.md) _(Current version)_
 
 ### Related:

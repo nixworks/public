@@ -23,8 +23,8 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 
 ### Changes:
 
-1. [2010 Chile earthquake and Pacific Ocean tsunamis:An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-pan-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2017-08-25 03:27:15 (First version)_
-2. [2010 Chile earthquake and Pacific Ocean tsunamis:: An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2017-08-27 03:27:09 (Update)_
+1. [2010 Chile earthquake and Pacific Ocean tsunamis:An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-pan-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Chile earthquake and Pacific Ocean tsunamis:: An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2018-02-06 13:49:19 (Update)_
 2. [An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Five people are injured in a series of Israeli air raids on the Gaza Strip after
 
 ### Changes:
 
-1. [Gaza-Israel conflict:Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/gazaaisrael-conflict-pfive-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rocke.md) _2017-08-25 03:39:52 (First version)_
-2. [Gaza-Israel conflict:: Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/gaza-israel-conflict-five-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rock.md) _2017-08-27 03:40:11 (Update)_
+1. [Gaza-Israel conflict:Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/gazaaisrael-conflict-pfive-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rocke.md) _2018-02-06 13:49:25 (First version)_
+2. [Gaza-Israel conflict:: Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/gaza-israel-conflict-five-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rock.md) _2018-02-06 13:49:25 (Update)_
 2. [Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/five-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rocket-towards-ashkelon.md) _(Current version)_
 
 ### Related:

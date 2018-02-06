@@ -16,7 +16,7 @@ Indonesia said on Friday a halt on coal shipments to the Philippines will remain
 
 ### Changes:
 
-1. [Indonesia-Philippines relations: Indonesia restricts the exports of coal to the Philippines after the abduction of Indonesian sailors by the Abu Sayyaf. ](/news/2016/06/24/indonesia-philippines-relations-indonesia-restricts-the-exports-of-coal-to-the-philippines-after-the-abduction-of-indonesian-sailors-by-t.md) _2017-08-27 03:46:20 (First version)_
+1. [Indonesia-Philippines relations: Indonesia restricts the exports of coal to the Philippines after the abduction of Indonesian sailors by the Abu Sayyaf. ](/news/2016/06/24/indonesia-philippines-relations-indonesia-restricts-the-exports-of-coal-to-the-philippines-after-the-abduction-of-indonesian-sailors-by-t.md) _2018-02-06 13:49:29 (First version)_
 1. [Indonesia restricts the exports of coal to the Philippines after the abduction of Indonesian sailors by the Abu Sayyaf. ](/news/2016/06/24/indonesia-restricts-the-exports-of-coal-to-the-philippines-after-the-abduction-of-indonesian-sailors-by-the-abu-sayyaf.md) _(Current version)_
 
 ### Related:

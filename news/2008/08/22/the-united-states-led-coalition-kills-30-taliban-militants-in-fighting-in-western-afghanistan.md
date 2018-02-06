@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/08/22/the-united-states-led-coalition-kills-30-taliba
 
 ### Changes:
 
-1. [ War in Afghanistan: The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/war-in-afghanistan-the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md) _2017-08-27 03:22:38 (First version)_
+1. [ War in Afghanistan: The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/war-in-afghanistan-the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md) _2018-02-06 13:49:18 (First version)_
 1. [ The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md) _(Current version)_
 
 ### Related:

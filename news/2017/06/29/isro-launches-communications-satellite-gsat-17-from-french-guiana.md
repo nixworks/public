@@ -16,7 +16,7 @@ GSAT-17 is the third satellite launch by ISRO this month, the other two being fi
 
 ### Changes:
 
-1. [2017 in spaceflight: ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/2017-in-spaceflight-isro-launches-communications-satellite-gsat-17-from-french-guiana.md) _2017-08-27 03:48:34 (First version)_
+1. [2017 in spaceflight: ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/2017-in-spaceflight-isro-launches-communications-satellite-gsat-17-from-french-guiana.md) _2018-02-06 13:49:30 (First version)_
 1. [ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md) _(Current version)_
 
 ### Related:

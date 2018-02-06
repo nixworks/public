@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/02/10/aboard-air-force-one-president-trump-tells-repo
 
 ### Changes:
 
-1. [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-tra.md) _2017-08-25 03:47:23 (First version)_
-2. [U.S. immigration suspension legal challenges: Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/u-s-immigration-suspension-legal-challenges-aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-poli.md) _2017-08-27 03:47:48 (Update)_
+1. [U.S. immigration suspension legal challenges: Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/u-s-immigration-suspension-legal-challenges-aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-poli.md) _2018-02-06 13:49:30 (First version)_
+2. [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-tra.md) _2018-02-06 13:49:30 (Update)_
 2. [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-trave.md) _(Current version)_
 
 ### Related:

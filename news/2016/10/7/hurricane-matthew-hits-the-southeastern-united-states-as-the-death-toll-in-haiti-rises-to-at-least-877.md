@@ -19,7 +19,7 @@ Formats: [HTML](/news/2016/10/7/hurricane-matthew-hits-the-southeastern-united-s
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Matthew hits the southeastern United States as the death toll in Haiti rises to at least 877. ](/news/2016/10/7/2016-atlantic-hurricane-season-hurricane-matthew-hits-the-southeastern-united-states-as-the-death-toll-in-haiti-rises-to-at-least-877.md) _2017-08-27 03:46:59 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Matthew hits the southeastern United States as the death toll in Haiti rises to at least 877. ](/news/2016/10/7/2016-atlantic-hurricane-season-hurricane-matthew-hits-the-southeastern-united-states-as-the-death-toll-in-haiti-rises-to-at-least-877.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Matthew hits the southeastern United States as the death toll in Haiti rises to at least 877. ](/news/2016/10/7/hurricane-matthew-hits-the-southeastern-united-states-as-the-death-toll-in-haiti-rises-to-at-least-877.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2002/08/31/israeli-palestinian-conflict-a-think-tank-affil
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: A think tank affiliated with the Arab League ended its meeting in Cairo by calling Jews "enemies of all nations", by claiming that Arabs, as Semites, cannot be anti-Semitic, and by claiming that the events of September 11, 2001 were concocted by the United States government. See ](/news/2002/08/31/israeli-palestinian-conflict-a-think-tank-affiliated-with-the-arab-league-ended-its-meeting-in-cairo-by-calling-jews-enemies-of-all-nati.md) _2017-08-25 03:15:14 (First version)_
+1. [ Israeli-Palestinian conflict: A think tank affiliated with the Arab League ended its meeting in Cairo by calling Jews "enemies of all nations", by claiming that Arabs, as Semites, cannot be anti-Semitic, and by claiming that the events of September 11, 2001 were concocted by the United States government. See ](/news/2002/08/31/israeli-palestinian-conflict-a-think-tank-affiliated-with-the-arab-league-ended-its-meeting-in-cairo-by-calling-jews-enemies-of-all-nati.md) _2018-02-06 13:49:15 (First version)_
 1. [ Israeli-Palestinian conflict: A think tank affiliated with the Arab League ended its meeting in Cairo by calling Jews "enemies of all nations", by claiming that Arabs, as Semites, cannot be anti-Semitic, and by claiming that the events of September 11, 2001 were concocted by the United States government. See ](/news/2002/08/31/israeli-palestinian-conflict-a-think-tank-affiliated-with-the-arab-league-ended-its-meeting-in-cairo-by-calling-jews-enemies-of-all-natio.md) _(Current version)_
 
 ### Related:

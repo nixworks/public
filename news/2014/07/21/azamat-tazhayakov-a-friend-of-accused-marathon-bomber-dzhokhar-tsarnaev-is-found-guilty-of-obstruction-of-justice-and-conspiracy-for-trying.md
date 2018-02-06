@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/21/azamat-tazhayakov-a-friend-of-accused-marathon-
 
 ### Changes:
 
-1. [Boston Marathon bombings: Azamat Tazhayakov, a friend of accused marathon bomber Dzhokhar Tsarnaev is found guilty of obstruction of justice and conspiracy for trying to hide evidence during the ongoing case. ](/news/2014/07/21/boston-marathon-bombings-azamat-tazhayakov-a-friend-of-accused-marathon-bomber-dzhokhar-tsarnaev-is-found-guilty-of-obstruction-of-justice.md) _2017-08-27 03:41:01 (First version)_
+1. [Boston Marathon bombings: Azamat Tazhayakov, a friend of accused marathon bomber Dzhokhar Tsarnaev is found guilty of obstruction of justice and conspiracy for trying to hide evidence during the ongoing case. ](/news/2014/07/21/boston-marathon-bombings-azamat-tazhayakov-a-friend-of-accused-marathon-bomber-dzhokhar-tsarnaev-is-found-guilty-of-obstruction-of-justice.md) _2018-02-06 13:49:26 (First version)_
 1. [Azamat Tazhayakov, a friend of accused marathon bomber Dzhokhar Tsarnaev is found guilty of obstruction of justice and conspiracy for trying to hide evidence during the ongoing case. ](/news/2014/07/21/azamat-tazhayakov-a-friend-of-accused-marathon-bomber-dzhokhar-tsarnaev-is-found-guilty-of-obstruction-of-justice-and-conspiracy-for-trying.md) _(Current version)_
 
 ### Related:

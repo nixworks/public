@@ -16,7 +16,7 @@ Somalia&rsquo;s Al Qaeda linked Al Shabaab militants have taken back strategic I
 
 ### Changes:
 
-1. [War in Somalia: Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/war-in-somalia-al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md) _2017-08-27 03:41:29 (First version)_
+1. [War in Somalia: Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/war-in-somalia-al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md) _2018-02-06 13:49:26 (First version)_
 1. [Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md) _(Current version)_
 
 ### Related:

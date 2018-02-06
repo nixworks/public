@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-f
 
 ### Changes:
 
-1. [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country-s capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-country-s-capital-of-mogadishu.md) _2017-08-27 03:27:37 (First version)_
+1. [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country-s capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-country-s-capital-of-mogadishu.md) _2018-02-06 13:49:19 (First version)_
 1. [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country's capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-countryas-capital-of-mogadishu.md) _(Current version)_
 
 ### Related:

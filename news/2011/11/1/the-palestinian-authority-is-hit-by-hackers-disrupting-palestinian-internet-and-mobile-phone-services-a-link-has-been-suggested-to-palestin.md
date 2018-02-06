@@ -17,7 +17,7 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 
 ### Changes:
 
-1. [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services. A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palesti.md) _2017-08-25 03:34:25 (First version)_
+1. [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services. A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palesti.md) _2018-02-06 13:49:23 (First version)_
 1. [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services. A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palestin.md) _(Current version)_
 
 ### Related:

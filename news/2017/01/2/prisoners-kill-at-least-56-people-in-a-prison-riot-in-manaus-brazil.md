@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/2/prisoners-kill-at-least-56-people-in-a-prison-ri
 
 ### Changes:
 
-1. [2017 Manaus prison riot: Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/2017-manaus-prison-riot-prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Manaus prison riot: Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/2017-manaus-prison-riot-prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md) _2018-02-06 13:49:30 (First version)_
 1. [Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md) _(Current version)_
 
 ### Related:

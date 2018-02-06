@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/11/2/the-greek-cabinet-unanimously-supports-plans-by-
 
 ### Changes:
 
-1. [Greek economic referendum:The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-pthe-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-euro.md) _2017-08-25 03:34:25 (First version)_
-2. [Greek economic referendum:: The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-eur.md) _2017-08-27 03:34:35 (Update)_
+1. [Greek economic referendum:: The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-eur.md) _2018-02-06 13:49:23 (First version)_
+2. [Greek economic referendum:The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-pthe-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-euro.md) _2018-02-06 13:49:23 (Update)_
 2. [The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-european-union-s-proposed-econo.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Ofcom launches an investigation into email hacking by Sky News after the broadca
 
 ### Changes:
 
-1. [Sky News email hacking:The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/sky-news-email-hacking-pthe-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sky.md) _2017-08-25 03:35:33 (First version)_
-2. [Sky News email hacking:: The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/sky-news-email-hacking-the-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sk.md) _2017-08-27 03:35:42 (Update)_
+1. [Sky News email hacking:: The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/sky-news-email-hacking-the-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sk.md) _2018-02-06 13:49:23 (First version)_
+2. [Sky News email hacking:The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/sky-news-email-hacking-pthe-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sky.md) _2018-02-06 13:49:23 (Update)_
 2. [The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/the-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sky-news.md) _(Current version)_
 
 ### Related:

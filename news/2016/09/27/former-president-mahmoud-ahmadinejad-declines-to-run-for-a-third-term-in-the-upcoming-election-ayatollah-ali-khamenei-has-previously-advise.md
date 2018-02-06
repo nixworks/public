@@ -19,7 +19,7 @@ TEHRAN (Tasnim) – Former Iranian president Mahmoud Ahmadinejad said he does no
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. ](/news/2016/09/27/iranian-presidential-election-2017-former-president-mahmoud-ahmadinejad-declines-to-run-for-a-third-term-in-the-upcoming-election-ayatoll.md) _2017-08-27 03:46:54 (First version)_
+1. [Iranian presidential election, 2017: Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. ](/news/2016/09/27/iranian-presidential-election-2017-former-president-mahmoud-ahmadinejad-declines-to-run-for-a-third-term-in-the-upcoming-election-ayatoll.md) _2018-02-06 13:49:29 (First version)_
 1. [Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. ](/news/2016/09/27/former-president-mahmoud-ahmadinejad-declines-to-run-for-a-third-term-in-the-upcoming-election-ayatollah-ali-khamenei-has-previously-advise.md) _(Current version)_
 
 ### Related:

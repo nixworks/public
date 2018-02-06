@@ -17,8 +17,8 @@ The Alaska Airlines passengers were reportedly not following directions and maki
 
 ### Changes:
 
-1. [Unruly aircraft passengersAlaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengerspalaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md) _2017-08-25 03:48:06 (First version)_
-2. [Unruly aircraft passengers: Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengers-alaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md) _2017-08-27 03:48:33 (Update)_
+1. [Unruly aircraft passengersAlaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengerspalaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md) _2018-02-06 13:49:30 (First version)_
+2. [Unruly aircraft passengers: Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengers-alaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md) _2018-02-06 13:49:30 (Update)_
 2. [Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/alaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly-and-uncooperative-behavior.md) _(Current version)_
 
 ### Related:

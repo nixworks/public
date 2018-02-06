@@ -17,7 +17,7 @@ The former Seoul bureau chief of the Japanese daily Sankei Shimbun was found inn
 
 ### Changes:
 
-1. [Japanese journalist Tatsuya Kato is acquitted by a South Korean court of defamation charges resulting from questions he raised about South Korean President Geun-hye Park's whereabouts during the Sewol ferry disaster. ](/news/2015/12/17/japanese-journalist-tatsuya-kato-is-acquitted-by-a-south-korean-court-of-defamation-charges-resulting-from-questions-he-raised-about-south-k.md) _2017-10-17 03:51:12 (First version)_
+1. [Japanese journalist Tatsuya Kato is acquitted by a South Korean court of defamation charges resulting from questions he raised about South Korean President Geun-hye Park's whereabouts during the Sewol ferry disaster. ](/news/2015/12/17/japanese-journalist-tatsuya-kato-is-acquitted-by-a-south-korean-court-of-defamation-charges-resulting-from-questions-he-raised-about-south-k.md) _2018-02-06 13:49:28 (First version)_
 1. [ Japanese journalist Tatsuya Kato is acquitted by a South Korean court of defamation charges resulting from questions he raised about South Korean President Geun-hye Park's whereabouts during the Sewol ferry disaster. ](/news/2015/12/17/japanese-journalist-tatsuya-kato-is-acquitted-by-a-south-korean-court-of-defamation-charges-resulting-from-questions-he-raised-about-south.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-f
 
 ### Changes:
 
-1. [ A woman dies and two people are seriously ill from ''E. coli'' in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-c.md) _2017-08-25 03:20:33 (First version)_
+1. [ A woman dies and two people are seriously ill from ''E. coli'' in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-c.md) _2018-02-06 13:49:17 (First version)_
 1. [ A woman dies and two people are seriously ill from "E. coli" in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-col.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/6/a-judge-in-pennsylvania-schedules-the-dates-for-
 
 ### Changes:
 
-1. [Bill Cosby sexual assault allegations: A judge in Pennsylvania schedules the dates for the trial of accused U.S. comedian Bill Cosby. ](/news/2016/09/6/bill-cosby-sexual-assault-allegations-a-judge-in-pennsylvania-schedules-the-dates-for-the-trial-of-accused-u-s-comedian-bill-cosby.md) _2017-08-27 03:46:47 (First version)_
+1. [Bill Cosby sexual assault allegations: A judge in Pennsylvania schedules the dates for the trial of accused U.S. comedian Bill Cosby. ](/news/2016/09/6/bill-cosby-sexual-assault-allegations-a-judge-in-pennsylvania-schedules-the-dates-for-the-trial-of-accused-u-s-comedian-bill-cosby.md) _2018-02-06 13:49:29 (First version)_
 1. [A judge in Pennsylvania schedules the dates for the trial of accused U.S. comedian Bill Cosby. ](/news/2016/09/6/a-judge-in-pennsylvania-schedules-the-dates-for-the-trial-of-accused-u-s-comedian-bill-cosby.md) _(Current version)_
 
 ### Related:

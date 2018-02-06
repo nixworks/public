@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/04/15/sudanese-warplanes-bomb-the-border-town-of-hegl
 
 ### Changes:
 
-1. [2012 South Sudan-Sudan border conflict:Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudanasudan-border-conflict-psudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _2017-08-25 03:35:30 (First version)_
-2. [2012 South Sudan-Sudan border conflict:: Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudan-sudan-border-conflict-sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _2017-08-27 03:35:39 (Update)_
+1. [2012 South Sudan-Sudan border conflict:Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudanasudan-border-conflict-psudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 South Sudan-Sudan border conflict:: Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudan-sudan-border-conflict-sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _2018-02-06 13:49:23 (Update)_
 2. [Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md) _(Current version)_
 
 ### Related:

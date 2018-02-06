@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/01/14/united-states-federal-reserve-chairman-ben-bern
 
 ### Changes:
 
-1. [ Global financial crisis of 2008-2009: United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-p-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md) _2017-08-25 03:23:28 (First version)_
-2. [ Global financial crisis of 2008-2009:: United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md) _2017-08-27 03:23:20 (Update)_
+1. [ Global financial crisis of 2008-2009:: United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md) _2018-02-06 13:49:18 (First version)_
+2. [ Global financial crisis of 2008-2009: United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-p-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md) _2018-02-06 13:49:18 (Update)_
 2. [ United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plosser-differ-publicly-on-stabilizing-the.md) _(Current version)_
 
 ### Related:

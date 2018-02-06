@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/02/22/the-algerian-government-adopts-a-draft-law-lift
 
 ### Changes:
 
-1. [2010-2011 Algerian protests:The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. ](/news/2011/02/22/2010-2011-algerian-protests-pthe-algerian-government-adopts-a-draft-law-lifting-the-state-of-emergency-in-the-country-in-place-since-1992.md) _2017-08-25 03:32:18 (First version)_
-2. [2010-2011 Algerian protests:: The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. ](/news/2011/02/22/2010-2011-algerian-protests-the-algerian-government-adopts-a-draft-law-lifting-the-state-of-emergency-in-the-country-in-place-since-1992.md) _2017-08-27 03:32:26 (Update)_
+1. [2010-2011 Algerian protests:: The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. ](/news/2011/02/22/2010-2011-algerian-protests-the-algerian-government-adopts-a-draft-law-lifting-the-state-of-emergency-in-the-country-in-place-since-1992.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Algerian protests:The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. ](/news/2011/02/22/2010-2011-algerian-protests-pthe-algerian-government-adopts-a-draft-law-lifting-the-state-of-emergency-in-the-country-in-place-since-1992.md) _2018-02-06 13:49:22 (Update)_
 2. [The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. ](/news/2011/02/22/the-algerian-government-adopts-a-draft-law-lifting-the-state-of-emergency-in-the-country-in-place-since-1992.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-pseventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _2017-08-25 03:38:41 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _2017-08-27 03:38:54 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-pseventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _2018-02-06 13:49:24 (Update)_
 2. [Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md) _(Current version)_
 
 ### Related:

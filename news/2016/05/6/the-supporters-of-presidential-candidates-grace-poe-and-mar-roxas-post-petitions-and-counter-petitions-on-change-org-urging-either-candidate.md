@@ -24,7 +24,7 @@ Manila Standard | Defining The News
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The supporters of presidential candidates Grace Poe and Mar Roxas post petitions and counter-petitions on Change.org urging either candidate to drop-out and give way for the other. ](/news/2016/05/6/philippine-presidential-election-2016-the-supporters-of-presidential-candidates-grace-poe-and-mar-roxas-post-petitions-and-counter-petitio.md) _2017-08-27 03:45:59 (First version)_
+1. [Philippine presidential election, 2016: The supporters of presidential candidates Grace Poe and Mar Roxas post petitions and counter-petitions on Change.org urging either candidate to drop-out and give way for the other. ](/news/2016/05/6/philippine-presidential-election-2016-the-supporters-of-presidential-candidates-grace-poe-and-mar-roxas-post-petitions-and-counter-petitio.md) _2018-02-06 13:49:29 (First version)_
 1. [The supporters of presidential candidates Grace Poe and Mar Roxas post petitions and counter-petitions on Change.org urging either candidate to drop-out and give way for the other. ](/news/2016/05/6/the-supporters-of-presidential-candidates-grace-poe-and-mar-roxas-post-petitions-and-counter-petitions-on-change-org-urging-either-candidate.md) _(Current version)_
 
 ### Related:

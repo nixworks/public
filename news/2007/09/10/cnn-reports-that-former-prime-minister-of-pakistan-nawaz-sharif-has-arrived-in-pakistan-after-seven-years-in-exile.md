@@ -20,8 +20,8 @@ Former Pakistani prime minister Nawaz Sharif has left his plane in the capital I
 
 ### Changes:
 
-1. [ Nawaz Sharif returns to Pakistan: CNN reports that former Prime Minister of Pakistan Nawaz Sharif has arrived in Pakistan after seven years in exile. ](/news/2007/09/10/nawaz-sharif-returns-to-pakistan-p-cnn-reports-that-former-prime-minister-of-pakistan-nawaz-sharif-has-arrived-in-pakistan-after-seven-year.md) _2017-08-25 03:20:55 (First version)_
-2. [ Nawaz Sharif returns to Pakistan:: CNN reports that former Prime Minister of Pakistan Nawaz Sharif has arrived in Pakistan after seven years in exile. ](/news/2007/09/10/nawaz-sharif-returns-to-pakistan-cnn-reports-that-former-prime-minister-of-pakistan-nawaz-sharif-has-arrived-in-pakistan-after-seven-year.md) _2017-08-27 03:20:52 (Update)_
+1. [ Nawaz Sharif returns to Pakistan: CNN reports that former Prime Minister of Pakistan Nawaz Sharif has arrived in Pakistan after seven years in exile. ](/news/2007/09/10/nawaz-sharif-returns-to-pakistan-p-cnn-reports-that-former-prime-minister-of-pakistan-nawaz-sharif-has-arrived-in-pakistan-after-seven-year.md) _2018-02-06 13:49:18 (First version)_
+2. [ Nawaz Sharif returns to Pakistan:: CNN reports that former Prime Minister of Pakistan Nawaz Sharif has arrived in Pakistan after seven years in exile. ](/news/2007/09/10/nawaz-sharif-returns-to-pakistan-cnn-reports-that-former-prime-minister-of-pakistan-nawaz-sharif-has-arrived-in-pakistan-after-seven-year.md) _2018-02-06 13:49:18 (Update)_
 2. [ CNN reports that former Prime Minister of Pakistan Nawaz Sharif has arrived in Pakistan after seven years in exile. ](/news/2007/09/10/cnn-reports-that-former-prime-minister-of-pakistan-nawaz-sharif-has-arrived-in-pakistan-after-seven-years-in-exile.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ At least 22 people are killed in attacks across Iraq, police and medics say, aft
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-pmultiple-bomb-attacks-across-iraq-kill-at-least-15-people.md) _2017-08-25 03:38:31 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md) _2017-08-27 03:38:44 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-pmultiple-bomb-attacks-across-iraq-kill-at-least-15-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md) _2018-02-06 13:49:24 (Update)_
 2. [Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md) _(Current version)_
 
 ### Related:

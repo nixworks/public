@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/24/angola-becomes-the-first-modern-country-to-outl
 
 ### Changes:
 
-1. [Ban of Islam in Angola:Angola becomes the first modern country to outlaw Islam, along with other religions unapproved by the Ministry of Justice and Human Rights. Mosques are being destroyed. ](/news/2013/11/24/ban-of-islam-in-angola-pangola-becomes-the-first-modern-country-to-outlaw-islam-along-with-other-religions-unapproved-by-the-ministry-of-ju.md) _2017-08-25 03:39:35 (First version)_
-2. [Ban of Islam in Angola:: Angola becomes the first modern country to outlaw Islam, along with other religions unapproved by the Ministry of Justice and Human Rights. Mosques are being destroyed. ](/news/2013/11/24/ban-of-islam-in-angola-angola-becomes-the-first-modern-country-to-outlaw-islam-along-with-other-religions-unapproved-by-the-ministry-of-j.md) _2017-08-27 03:39:53 (Update)_
+1. [Ban of Islam in Angola:Angola becomes the first modern country to outlaw Islam, along with other religions unapproved by the Ministry of Justice and Human Rights. Mosques are being destroyed. ](/news/2013/11/24/ban-of-islam-in-angola-pangola-becomes-the-first-modern-country-to-outlaw-islam-along-with-other-religions-unapproved-by-the-ministry-of-ju.md) _2018-02-06 13:49:25 (First version)_
+2. [Ban of Islam in Angola:: Angola becomes the first modern country to outlaw Islam, along with other religions unapproved by the Ministry of Justice and Human Rights. Mosques are being destroyed. ](/news/2013/11/24/ban-of-islam-in-angola-angola-becomes-the-first-modern-country-to-outlaw-islam-along-with-other-religions-unapproved-by-the-ministry-of-j.md) _2018-02-06 13:49:25 (Update)_
 2. [Angola becomes the first modern country to outlaw Islam, along with other religions unapproved by the Ministry of Justice and Human Rights. Mosques are being destroyed. ](/news/2013/11/24/angola-becomes-the-first-modern-country-to-outlaw-islam-along-with-other-religions-unapproved-by-the-ministry-of-justice-and-human-rights.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/27/four-people-are-killed-on-the-caribbean-island-
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/2015-atlantic-hurricane-season-four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tr.md) _2017-08-27 03:42:54 (First version)_
+1. [2015 Atlantic hurricane season: Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/2015-atlantic-hurricane-season-four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tr.md) _2018-02-06 13:49:27 (First version)_
 1. [Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tropical-storm-erika.md) _(Current version)_
 
 ### Related:

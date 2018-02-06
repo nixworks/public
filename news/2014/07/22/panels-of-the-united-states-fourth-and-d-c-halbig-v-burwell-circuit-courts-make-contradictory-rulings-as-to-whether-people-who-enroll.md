@@ -15,7 +15,7 @@ Millions of Americans are ineligible for law&rsquo;s tax subsidies, Appeals Cour
 
 ### Changes:
 
-1. [Panels of the United States Fourth and D.C. (''Halbig v. Burwell'') Circuit Courts make contradictory rulings as to whether people who enroll in federal exchanges under the Affordable Care Act (Obamacare) can receive subsidies. ](/news/2014/07/22/panels-of-the-united-states-fourth-and-d-c-halbig-v-burwell-circuit-courts-make-contradictory-rulings-as-to-whether-people-who-enrol.md) _2017-08-25 03:40:43 (First version)_
+1. [Panels of the United States Fourth and D.C. (''Halbig v. Burwell'') Circuit Courts make contradictory rulings as to whether people who enroll in federal exchanges under the Affordable Care Act (Obamacare) can receive subsidies. ](/news/2014/07/22/panels-of-the-united-states-fourth-and-d-c-halbig-v-burwell-circuit-courts-make-contradictory-rulings-as-to-whether-people-who-enrol.md) _2018-02-06 13:49:26 (First version)_
 1. [Panels of the United States Fourth and D.C. ("Halbig v. Burwell") Circuit Courts make contradictory rulings as to whether people who enroll in federal exchanges under the Affordable Care Act (Obamacare) can receive subsidies. ](/news/2014/07/22/panels-of-the-united-states-fourth-and-d-c-halbig-v-burwell-circuit-courts-make-contradictory-rulings-as-to-whether-people-who-enroll.md) _(Current version)_
 
 ### Related:

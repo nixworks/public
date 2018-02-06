@@ -18,8 +18,8 @@ Russia said President Vladimir V. Putin had ordered troops to leave border areas
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/2014-pro-russian-unrest-in-ukraine-prussia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to.md) _2017-08-25 03:40:25 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/2014-pro-russian-unrest-in-ukraine-russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to.md) _2017-08-27 03:40:43 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/2014-pro-russian-unrest-in-ukraine-russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/2014-pro-russian-unrest-in-ukraine-prussia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to.md) _2018-02-06 13:49:26 (Update)_
 2. [Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to-withdraw-and-return-to-their-permane.md) _(Current version)_
 
 ### Related:

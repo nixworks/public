@@ -16,5 +16,5 @@ A Girl is a Half-formed Thing by Irish writer beats Donna Tartt&#x27;s 771-page 
 
 ### Changes:
 
-1. [Eimear McBride wins the Baileys Women's Prize for Fiction with ''A Girl Is a Half-formed Thing'', beating the American Donna Tartt's 771-page opus ''The Goldfinch''. ](/news/2014/06/4/eimear-mcbride-wins-the-baileys-women-s-prize-for-fiction-with-a-girl-is-a-half-formed-thing-beating-the-american-donna-tartt-s-771-pag.md) _2017-08-25 03:40:30 (First version)_
+1. [Eimear McBride wins the Baileys Women's Prize for Fiction with ''A Girl Is a Half-formed Thing'', beating the American Donna Tartt's 771-page opus ''The Goldfinch''. ](/news/2014/06/4/eimear-mcbride-wins-the-baileys-women-s-prize-for-fiction-with-a-girl-is-a-half-formed-thing-beating-the-american-donna-tartt-s-771-pag.md) _2018-02-06 13:49:26 (First version)_
 1. [Eimear McBride wins the Baileys Women's Prize for Fiction with "A Girl Is a Half-formed Thing", beating the American Donna Tartt's 771-page opus "The Goldfinch". ](/news/2014/06/4/eimear-mcbride-wins-the-baileys-women-s-prize-for-fiction-with-a-girl-is-a-half-formed-thing-beating-the-american-donna-tartt-s-771-page.md) _(Current version)_

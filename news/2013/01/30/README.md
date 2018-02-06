@@ -9,7 +9,7 @@ French forces say they have entered Kidal in northern Mali, the last major town 
 
 ##### Israeli forces
 ### [Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/israeli-forces-attack-an-arms-convoy-on-the-lebanonasyria-border-overnight-destined-from-syria-to-hezbollah.md)
-_Context: Syria, Lebanon, convoy, Israeli forces, Hezbollah_
+_Context: Israeli forces, Hezbollah, convoy, Lebanon, Syria_
 
 ##### Cairo
 ### [Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/two-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md)
@@ -17,7 +17,7 @@ Two people in Egypt are fatally shot in dawn clashes between protesters and poli
 
 ##### Canadian
 ### [Canadian wireless device manufacturer Research In Motion officially unveils BlackBerry 10, the newest version of the operating system for its BlackBerry devices, and announces the first two phones that will run on the new platform. The company also announces it will begin doing business as BlackBerry effective immediately. ](/news/2013/01/30/canadian-wireless-device-manufacturer-research-in-motion-officially-unveils-blackberry-10-the-newest-version-of-the-operating-system-for-it.md)
-_Context: BlackBerry, Canadian, wireless, BlackBerry, operating system, two, BlackBerry Z10, BlackBerry 10_
+_Context: BlackBerry, BlackBerry, BlackBerry Z10, two, operating system, wireless, Canadian, BlackBerry 10_
 
 ##### Tornado outbreak of January 29-30, 2013
 ### [Tornado outbreak of January 29-30, 2013: Severe thunderstorms and tornadoes affect the Midwestern and southern United States with damage reported in several states, from Missouri to Georgia, and at least two people killed. ](/news/2013/01/30/tornado-outbreak-of-january-29a30-2013-severe-thunderstorms-and-tornadoes-affect-the-midwestern-and-southern-united-states-with-damage-r.md)
@@ -25,11 +25,11 @@ Tornadoes ripped through four states on Tuesday night and Wednesday, killing at 
 
 ##### shooting
 ### [Three people are dead, including the shooter, one person is wounded after a shooting at an office building in Phoenix, Arizona, United States. ](/news/2013/01/30/three-people-are-dead-including-the-shooter-one-person-is-wounded-after-a-shooting-at-an-office-building-in-phoenix-arizona-united-state.md)
-_Context: office building, shooting, Phoenix, Arizona, Arizona, United States_
+_Context: Phoenix, Arizona, shooting, office building, Arizona, United States_
 
 ##### school bus
 ### [A gunman kills a school bus driver and holds a 6-year-old boy hostage in an underground bunker in Midland City, Alabama, United States. ](/news/2013/01/30/a-gunman-kills-a-school-bus-driver-and-holds-a-6-year-old-boy-hostage-in-an-underground-bunker-in-midland-city-alabama-united-states.md)
-_Context: school bus, United States, Alabama, hostage, Midland City, bunker_
+_Context: Midland City, school bus, United States, bunker, hostage, Alabama_
 
 ##### Netherlands
 ### [A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. ](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.md)

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/2/afghan-security-forces-kill-five-insurgents-plan
 
 ### Changes:
 
-1. [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _2017-08-25 03:36:12 (First version)_
-2. [War in Afghanistan:: Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _2017-08-27 03:36:23 (Update)_
+1. [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _2018-02-06 13:49:23 (Update)_
 2. [Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md) _(Current version)_
 
 ### Related:

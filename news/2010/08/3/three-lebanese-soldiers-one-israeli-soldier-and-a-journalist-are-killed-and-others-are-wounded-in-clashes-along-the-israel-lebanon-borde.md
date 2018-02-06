@@ -23,8 +23,8 @@ Three Lebanese soldiers, a senior Israeli officer and a journalist are killed in
 
 ### Changes:
 
-1. [Adaisseh incident:Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-pthree-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the-i.md) _2017-08-25 03:29:09 (First version)_
-2. [Adaisseh incident:: Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the.md) _2017-08-27 03:29:10 (Update)_
+1. [Adaisseh incident:: Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the.md) _2018-02-06 13:49:20 (First version)_
+2. [Adaisseh incident:Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-pthree-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the-i.md) _2018-02-06 13:49:20 (Update)_
 2. [Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the-israel-lebanon-borde.md) _(Current version)_
 
 ### Related:

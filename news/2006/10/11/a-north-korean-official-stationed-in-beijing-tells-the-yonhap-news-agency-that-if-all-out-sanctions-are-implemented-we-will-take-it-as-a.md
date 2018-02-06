@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-te
 
 ### Changes:
 
-1. [ 2006 North Korean nuclear testing A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testingp-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2017-08-25 03:18:33 (First version)_
-2. [ 2006 North Korean nuclear testing: A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testing-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2017-08-27 03:18:27 (Update)_
+1. [ 2006 North Korean nuclear testing A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testingp-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 North Korean nuclear testing: A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testing-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2018-02-06 13:49:17 (Update)_
 2. [ A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are-implemented-we-will-take-it-as-a.md) _(Current version)_
 
 ### Related:

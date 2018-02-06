@@ -19,8 +19,8 @@ Formats: [HTML](/news/2012/10/3/syrian-refugees-in-rented-houses-say-the-turkish
 
 ### Changes:
 
-1. [Syrian civil war:Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-psyrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refu.md) _2017-08-25 03:36:38 (First version)_
-2. [Syrian civil war:: Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-ref.md) _2017-08-27 03:36:48 (Update)_
+1. [Syrian civil war:: Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-ref.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-psyrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refu.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refugee-camp-or-go-bac.md) _(Current version)_
 
 ### Related:

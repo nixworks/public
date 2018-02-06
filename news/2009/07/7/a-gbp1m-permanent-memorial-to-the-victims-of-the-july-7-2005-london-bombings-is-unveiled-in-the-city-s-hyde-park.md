@@ -17,7 +17,7 @@ Relatives of the 52 victims of the 7 July 2005 bombings in London have marked th
 
 ### Changes:
 
-1. [ A 1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-ps1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md) _2017-08-25 03:25:06 (First version)_
+1. [ A 1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-ps1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md) _2018-02-06 13:49:19 (First version)_
 1. [ A GBP1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-gbp1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md) _(Current version)_
 
 ### Related:

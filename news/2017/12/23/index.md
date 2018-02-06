@@ -37,7 +37,7 @@ The figure for the pro-democracy killings in Beijing in 1989 comes from newly-re
 
 ##### Peru
 ### [Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. ](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken-from-prison-to-a-local-hospital-for-treatment-for-abnormally-low-blood-pressure.md)
-_Context: low blood pressure, Peru, Alberto Fujimori_
+_Context: Peru, Alberto Fujimori, low blood pressure_
 
 ## [Previous Day...](/news/2017/12/22/index.md)
 

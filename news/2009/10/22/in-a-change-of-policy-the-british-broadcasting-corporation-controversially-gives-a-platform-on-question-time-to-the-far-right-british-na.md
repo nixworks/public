@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-
 
 ### Changes:
 
-1. [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on ''Question Time'' to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british.md) _2017-08-25 03:26:07 (First version)_
+1. [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on ''Question Time'' to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british.md) _2018-02-06 13:49:19 (First version)_
 1. [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on "Question Time" to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british-na.md) _(Current version)_
 
 ### Related:

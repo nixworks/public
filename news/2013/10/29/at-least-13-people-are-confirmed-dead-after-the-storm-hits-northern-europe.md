@@ -16,8 +16,8 @@ A once-in-a-decade storm claims lives in the Netherlands, France, Germany and so
 
 ### Changes:
 
-1. [St Jude storm:At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/st-jude-storm-pat-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md) _2017-08-25 03:39:27 (First version)_
-2. [St Jude storm:: At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/st-jude-storm-at-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md) _2017-08-27 03:39:44 (Update)_
+1. [St Jude storm:At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/st-jude-storm-pat-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md) _2018-02-06 13:49:25 (First version)_
+2. [St Jude storm:: At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/st-jude-storm-at-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/at-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Slovenian President Borut Pahor was re-elected for a second term in a runoff vot
 
 ### Changes:
 
-1. [ Slovenian President Borut Pahor, winning nearly 53 percent of the vote (373,877), is reelected for a second term in the runoff between the top two candidates from the October, 22, 2017, poll. Marjan Sarec, the other candidate from the original field of nine, received 332,366 votes. ](/news/2017/11/12/slovenian-president-borut-pahor-winning-nearly-53-percent-of-the-vote-373-877-is-reelected-for-a-second-term-in-the-runoff-between-the.md) _2017-11-17 00:30:04 (First version)_
+1. [ Slovenian President Borut Pahor, winning nearly 53 percent of the vote (373,877), is reelected for a second term in the runoff between the top two candidates from the October, 22, 2017, poll. Marjan Sarec, the other candidate from the original field of nine, received 332,366 votes. ](/news/2017/11/12/slovenian-president-borut-pahor-winning-nearly-53-percent-of-the-vote-373-877-is-reelected-for-a-second-term-in-the-runoff-between-the.md) _2018-02-06 13:49:31 (First version)_
 1. [Slovenian President Borut Pahor, winning nearly 53 percent of the vote (373,877), is reelected for a second term in the runoff between the top two candidates from the October, 22, 2017, poll. Marjan Sarec, the other candidate from the original field of nine, received 332,366 votes. ](/news/2017/11/12/slovenian-president-borut-pahor-winning-nearly-53-percent-of-the-vote-373-877-is-reelected-for-a-second-term-in-the-runoff-between-the-t.md) _(Current version)_
 
 ### Related:

@@ -20,7 +20,7 @@ Greece moved to check the growing strains on its crippled financial system on Su
 
 ### Changes:
 
-1. [Greek government-debt crisis: The BBC reports that the European Central Bank will cap lending to Greece's struggling banks, causing the run on the nation's banks to become even worse. Next week a referendum will be held about leaving the Euro currency. ](/news/2015/06/28/greek-government-debt-crisis-the-bbc-reports-that-the-european-central-bank-will-cap-lending-to-greece-s-struggling-banks-causing-the-run.md) _2017-08-27 03:42:36 (First version)_
+1. [Greek government-debt crisis: The BBC reports that the European Central Bank will cap lending to Greece's struggling banks, causing the run on the nation's banks to become even worse. Next week a referendum will be held about leaving the Euro currency. ](/news/2015/06/28/greek-government-debt-crisis-the-bbc-reports-that-the-european-central-bank-will-cap-lending-to-greece-s-struggling-banks-causing-the-run.md) _2018-02-06 13:49:27 (First version)_
 1. [The BBC reports that the European Central Bank will cap lending to Greece's struggling banks, causing the run on the nation's banks to become even worse. Next week a referendum will be held about leaving the Euro currency. ](/news/2015/06/28/the-bbc-reports-that-the-european-central-bank-will-cap-lending-to-greece-s-struggling-banks-causing-the-run-on-the-nation-s-banks-to-becom.md) _(Current version)_
 
 ### Related:

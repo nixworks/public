@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paedia
 
 ### Changes:
 
-1. [A nearly 25-year study published today in ''Paediatrics'' concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adj.md) _2017-08-25 03:28:09 (First version)_
+1. [A nearly 25-year study published today in ''Paediatrics'' concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adj.md) _2018-02-06 13:49:20 (First version)_
 1. [A nearly 25-year study published today in "Paediatrics" concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.md) _(Current version)_
 
 ### Related:

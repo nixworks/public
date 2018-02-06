@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/2/the-european-parliament-unanimously-approves-vis
 
 ### Changes:
 
-1. [Georgia-European Union relations: The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/georgia-european-union-relations-the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _2017-08-27 03:47:44 (First version)_
+1. [Georgia-European Union relations: The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/georgia-european-union-relations-the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _2018-02-06 13:49:30 (First version)_
 1. [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md) _(Current version)_
 
 ### Related:

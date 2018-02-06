@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/14/the-government-of-thailand-deploys-thousands-of
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/2013a14-thai-political-crisis-pthe-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied.md) _2017-08-25 03:40:02 (First version)_
-2. [2013-14 Thai political crisis:: The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/2013-14-thai-political-crisis-the-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied.md) _2017-08-27 03:40:20 (Update)_
+1. [2013-14 Thai political crisis:The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/2013a14-thai-political-crisis-pthe-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/2013-14-thai-political-crisis-the-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied.md) _2018-02-06 13:49:25 (Update)_
 2. [The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/the-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied-by-protesters.md) _(Current version)_
 
 ### Related:

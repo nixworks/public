@@ -17,7 +17,7 @@ At least 25 people have been killed in a suicide bombing claimed by a Taliban sp
 
 ### Changes:
 
-1. [War in North-West Pakistan: A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/war-in-north-west-pakistan-a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar.md) _2017-08-27 03:46:51 (First version)_
+1. [War in North-West Pakistan: A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/war-in-north-west-pakistan-a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar-claims-the-responsibility.md) _(Current version)_
 
 ### Related:

@@ -11,8 +11,8 @@ Formats: [HTML](/news/2014/01/16/a-british-photographer-designs-and-builds-a-dro
 
 ### Changes:
 
-1. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. ](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries.md) _2017-08-25 03:39:52 (First version)_
-2. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. [http:--www.reuters.com-video-2014-01-16-reuters-tv-beetlecopter-the-low-cost-alternative-fo?videoId=276456872&videoChannel=118065 (Reuters) ]](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries-http-www-reuters-com-video.md) _2017-10-17 03:46:21 (Update)_
+1. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. ](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries.md) _2018-02-06 13:49:25 (First version)_
+2. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. [http:--www.reuters.com-video-2014-01-16-reuters-tv-beetlecopter-the-low-cost-alternative-fo?videoId=276456872&videoChannel=118065 (Reuters) ]](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries-http-www-reuters-com-video.md) _2018-02-06 13:49:25 (Update)_
 2. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. [https:--www.reuters.com-video-2014-01-16-reuters-tv-beetlecopter-the-low-cost-alternative-fo?videoId=276456872&videoChannel=118065 (Reuters) ]](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries-https-www-reuters-com-vide.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea
 
 ### Changes:
 
-1. [ Seattle-Tacoma International Airport: Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/seattle-tacoma-international-airport-airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-ai.md) _2017-08-27 03:47:23 (First version)_
+1. [ Seattle-Tacoma International Airport: Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/seattle-tacoma-international-airport-airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-ai.md) _2018-02-06 13:49:30 (First version)_
 1. [ Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-airport-runways-among-the-affected-air.md) _(Current version)_
 
 ### Related:

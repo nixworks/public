@@ -16,7 +16,7 @@ DIBRUGARH/GUWAHATI: In one of the biggest attacks on security forces in Assam in
 
 ### Changes:
 
-1. [ Insurgency in Northeast India: Three soldiers are killed in an ambush in Assam. ](/news/2016/11/19/insurgency-in-northeast-india-three-soldiers-are-killed-in-an-ambush-in-assam.md) _2017-08-27 03:47:15 (First version)_
+1. [ Insurgency in Northeast India: Three soldiers are killed in an ambush in Assam. ](/news/2016/11/19/insurgency-in-northeast-india-three-soldiers-are-killed-in-an-ambush-in-assam.md) _2018-02-06 13:49:29 (First version)_
 1. [ Three soldiers are killed in an ambush in Assam. ](/news/2016/11/19/three-soldiers-are-killed-in-an-ambush-in-assam.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/20/separatist-rebels-take-all-the-196-bodies-from-
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17 and Separatist rebels take all the 196 bodies from Malaysia Airlines Flight 17 to an undisclosed location. ](/news/2014/07/20/malaysia-airlines-flight-17-and-separatist-rebels-take-all-the-196-bodies-from-malaysia-airlines-flight-17-to-an-undisclosed-location.md) _2017-08-25 03:40:43 (First version)_
+1. [Malaysia Airlines Flight 17 and Separatist rebels take all the 196 bodies from Malaysia Airlines Flight 17 to an undisclosed location. ](/news/2014/07/20/malaysia-airlines-flight-17-and-separatist-rebels-take-all-the-196-bodies-from-malaysia-airlines-flight-17-to-an-undisclosed-location.md) _2018-02-06 13:49:26 (First version)_
 1. [Separatist rebels take all the 196 bodies from Malaysia Airlines Flight 17 to an undisclosed location. ](/news/2014/07/20/separatist-rebels-take-all-the-196-bodies-from-malaysia-airlines-flight-17-to-an-undisclosed-location.md) _(Current version)_
 
 ### Related:

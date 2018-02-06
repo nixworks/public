@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-b
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001apresent-psuicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md) _2017-08-25 03:37:12 (First version)_
-2. [War in Afghanistan (2001-present):: Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001-present-suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md) _2017-08-27 03:37:23 (Update)_
+1. [War in Afghanistan (2001-present):Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001apresent-psuicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001-present-suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md) _2018-02-06 13:49:24 (Update)_
 2. [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md) _(Current version)_
 
 ### Related:

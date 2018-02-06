@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/04/7/at-10-o-clock-utc-nasa-s-pluto-probe-new-horizon
 
 ### Changes:
 
-1. [ At 10 o'clock UTC NASA's Pluto probe ''New Horizons'' crossed the orbit of Mars, after 78 days journey. This is a new Earth-to-Mars-distance flight record.](/news/2006/04/7/at-10-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-mars-after-78-days-journey-this-is-a-new-earth-to-mars-distanc.md) _2017-08-25 03:17:33 (First version)_
+1. [ At 10 o'clock UTC NASA's Pluto probe ''New Horizons'' crossed the orbit of Mars, after 78 days journey. This is a new Earth-to-Mars-distance flight record.](/news/2006/04/7/at-10-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-mars-after-78-days-journey-this-is-a-new-earth-to-mars-distanc.md) _2018-02-06 13:49:17 (First version)_
 1. [ At 10 o'clock UTC NASA's Pluto probe "New Horizons" crossed the orbit of Mars, after 78 days journey. This is a new Earth-to-Mars-distance flight record.](/news/2006/04/7/at-10-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-mars-after-78-days-journey-this-is-a-new-earth-to-mars-distance.md) _(Current version)_
 
 ### Related:

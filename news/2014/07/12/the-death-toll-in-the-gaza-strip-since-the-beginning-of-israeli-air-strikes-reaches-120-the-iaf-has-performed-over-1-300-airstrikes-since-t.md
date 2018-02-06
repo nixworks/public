@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/12/the-death-toll-in-the-gaza-strip-since-the-begi
 
 ### Changes:
 
-1. [Operation Protective Edge:The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/operation-protective-edge-pthe-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-ov.md) _2017-08-25 03:40:40 (First version)_
-2. [Operation Protective Edge:: The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/operation-protective-edge-the-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-o.md) _2017-08-27 03:40:58 (Update)_
+1. [Operation Protective Edge:: The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/operation-protective-edge-the-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-o.md) _2018-02-06 13:49:26 (First version)_
+2. [Operation Protective Edge:The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/operation-protective-edge-pthe-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-ov.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/the-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-over-1-300-airstrikes-since-t.md) _(Current version)_
 
 ### Related:

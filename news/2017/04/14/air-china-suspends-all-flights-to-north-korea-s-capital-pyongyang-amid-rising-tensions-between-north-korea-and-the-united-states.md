@@ -16,7 +16,7 @@ Air China is suspending flights between Beijing and the North Korean capital of 
 
 ### Changes:
 
-1. [China-North Korea relations: Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/china-north-korea-relations-air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-an.md) _2017-08-27 03:48:10 (First version)_
+1. [China-North Korea relations: Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/china-north-korea-relations-air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-an.md) _2018-02-06 13:49:30 (First version)_
 1. [Air China suspends all flights to North Korea's capital Pyongyang amid rising tensions between North Korea and the United States. ](/news/2017/04/14/air-china-suspends-all-flights-to-north-korea-s-capital-pyongyang-amid-rising-tensions-between-north-korea-and-the-united-states.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-l
 
 ### Changes:
 
-1. [Four pro-democracy lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-pro-democracy-lawmakers-are-removed-from-the-hong-kong-legislature.md) _2017-07-15 15:30:05 (First version)_
-2. [Politics of Hong Kong: Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/politics-of-hong-kong-four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _2017-08-27 03:48:40 (Update)_
+1. [Politics of Hong Kong: Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/politics-of-hong-kong-four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _2018-02-06 13:49:30 (First version)_
+2. [Four pro-democracy lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-pro-democracy-lawmakers-are-removed-from-the-hong-kong-legislature.md) _2018-02-06 13:49:30 (Update)_
 2. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _(Current version)_
 
 ### Related:

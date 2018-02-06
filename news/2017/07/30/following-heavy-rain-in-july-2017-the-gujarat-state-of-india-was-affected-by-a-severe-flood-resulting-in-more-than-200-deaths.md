@@ -17,8 +17,8 @@ The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed i
 
 ### Changes:
 
-1. [ Following heavy rain in July 2017, the Gujarat state of India was affected by the severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-the-severe-flood-resulting-in-more-than-200-deaths.md) _2017-08-01 13:30:05 (First version)_
-2. [ Floods in India: Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/floods-in-india-following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-de.md) _2017-08-27 03:48:44 (Update)_
+1. [ Following heavy rain in July 2017, the Gujarat state of India was affected by the severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-the-severe-flood-resulting-in-more-than-200-deaths.md) _2018-02-06 13:49:31 (First version)_
+2. [ Floods in India: Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/floods-in-india-following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-de.md) _2018-02-06 13:49:31 (Update)_
 2. [ Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-deaths.md) _(Current version)_
 
 ### Related:

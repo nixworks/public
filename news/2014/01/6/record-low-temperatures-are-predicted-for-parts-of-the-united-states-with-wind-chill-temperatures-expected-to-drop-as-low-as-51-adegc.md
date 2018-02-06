@@ -18,9 +18,9 @@ A frigid weather system called the polar vortex gripped much of the Midwest on M
 
 ### Changes:
 
-1. [Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as {{convert|-51|degC|degF}}. ](/news/2014/01/6/record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to-drop-as-low-as-convert-51-a.md) _2017-05-01 03:43:14 (First version)_
-2. [2014 North American cold wave: Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51|degC|degF. ](/news/2014/01/6/2014-north-american-cold-wave-record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to.md) _2017-08-27 03:40:07 (Update)_
-3. [Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51|degC|degF. ](/news/2014/01/6/record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to-drop-as-low-as-51-adegc-adegf.md) _2017-08-29 03:39:47 (Update)_
+1. [Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as {{convert|-51|degC|degF}}. ](/news/2014/01/6/record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to-drop-as-low-as-convert-51-a.md) _2018-02-06 13:49:25 (First version)_
+2. [Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51|degC|degF. ](/news/2014/01/6/record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to-drop-as-low-as-51-adegc-adegf.md) _2018-02-06 13:49:25 (Update)_
+3. [2014 North American cold wave: Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51|degC|degF. ](/news/2014/01/6/2014-north-american-cold-wave-record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to.md) _2018-02-06 13:49:25 (Update)_
 3. [Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51 degC. ](/news/2014/01/6/record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to-drop-as-low-as-51-adegc.md) _(Current version)_
 
 ### Related:

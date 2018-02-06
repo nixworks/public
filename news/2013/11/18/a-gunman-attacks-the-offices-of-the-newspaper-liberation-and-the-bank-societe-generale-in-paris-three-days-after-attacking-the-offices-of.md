@@ -16,7 +16,7 @@ A manhunt is under way in Paris after a gunman attacks a bank HQ and the newspap
 
 ### Changes:
 
-1. [A gunman attacks the offices of the newspaper ''Libration'' and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. ](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-liberation-and-the-bank-societe-generale-in-paris-three-days-after-attacking-the-offices.md) _2017-08-25 03:39:32 (First version)_
+1. [A gunman attacks the offices of the newspaper ''Libration'' and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. ](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-liberation-and-the-bank-societe-generale-in-paris-three-days-after-attacking-the-offices.md) _2018-02-06 13:49:25 (First version)_
 1. [A gunman attacks the offices of the newspaper "Libration" and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. ](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-liberation-and-the-bank-societe-generale-in-paris-three-days-after-attacking-the-offices-of.md) _(Current version)_
 
 ### Related:

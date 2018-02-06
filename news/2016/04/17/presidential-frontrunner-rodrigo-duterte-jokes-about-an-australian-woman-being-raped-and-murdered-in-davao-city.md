@@ -19,7 +19,7 @@ Leading Philippine presidential candidate Rodrigo Duterte is angrily condemned a
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/philippine-presidential-election-2016-presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in.md) _2017-08-27 03:45:39 (First version)_
+1. [Philippine presidential election, 2016: Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/philippine-presidential-election-2016-presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in-davao-city.md) _(Current version)_
 
 ### Related:

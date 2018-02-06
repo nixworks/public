@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/18/index.html)  [JSON](2016/11/18/index.json)  [XML](201
 
 ##### Moro conflict
 ### [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
-_Context: Abu Sayyaf, Moro conflict, Sulu, Philippines_
+_Context: Philippines, Sulu, Abu Sayyaf, Moro conflict_
 
 ##### Syrian Civil War
 ### [Syrian government air raid hits a children's hospital in rebel-held east Aleppo, forcing medical staff to evacuate patients, including several newborn babies still in incubators. ](/news/2016/11/18/syrian-government-air-raid-hits-a-children-s-hospital-in-rebel-held-east-aleppo-forcing-medical-staff-to-evacuate-patients-including-sever.md)
@@ -17,7 +17,7 @@ The World Health Organization said it did not consider the crisis over for the m
 
 ##### U.S. Court of Appeals for the Seventh Circuit
 ### [The U.S. Court of Appeals for the Seventh Circuit denies the release of Brendan Dassey, subject of the 2015 documentary series "Making a Murderer". ](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circuit-denies-the-release-of-brendan-dassey-subject-of-the-2015-documentary-series-making-a-mur.md)
-_Context: Brendan Dassey, Making a Murderer, U.S. Court of Appeals for the Seventh Circuit_
+_Context: Making a Murderer, Brendan Dassey, U.S. Court of Appeals for the Seventh Circuit_
 
 ##### New York Attorney General
 ### [The New York Attorney General announces that Donald Trump has settled three lawsuits by former students of Trump University for $25 million. ](/news/2016/11/18/the-new-york-attorney-general-announces-that-donald-trump-has-settled-three-lawsuits-by-former-students-of-trump-university-for-25-million.md)

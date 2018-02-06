@@ -16,7 +16,7 @@ An American MQ-9 Reaper has crashed at the Kandahar airbase in southern Afghanis
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/war-in-afghanistan-2015-present-a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afgha.md) _2017-08-27 03:44:58 (First version)_
+1. [War in Afghanistan (2015-present): A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/war-in-afghanistan-2015-present-a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afgha.md) _2018-02-06 13:49:28 (First version)_
 1. [A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afghanistan.md) _(Current version)_
 
 ### Related:

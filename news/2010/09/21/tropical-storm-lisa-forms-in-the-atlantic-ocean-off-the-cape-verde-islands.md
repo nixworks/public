@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean
 
 ### Changes:
 
-1. [2010 Atlantic hurricane season: Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/2010-atlantic-hurricane-season-tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md) _2017-08-27 03:30:13 (First version)_
+1. [2010 Atlantic hurricane season: Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/2010-atlantic-hurricane-season-tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md) _2018-02-06 13:49:20 (First version)_
 1. [Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 
 ### Changes:
 
-1. [Attack on Kabul InterContinental Hotel:Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-pafghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-mem.md) _2017-08-25 03:33:36 (First version)_
-2. [Attack on Kabul InterContinental Hotel:: Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-me.md) _2017-08-27 03:33:45 (Update)_
+1. [Attack on Kabul InterContinental Hotel:Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-pafghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-mem.md) _2018-02-06 13:49:22 (First version)_
+2. [Attack on Kabul InterContinental Hotel:: Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-me.md) _2018-02-06 13:49:22 (Update)_
 2. [Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-members-and-five-or-six-hotel-workers-or-gu.md) _(Current version)_
 
 ### Related:

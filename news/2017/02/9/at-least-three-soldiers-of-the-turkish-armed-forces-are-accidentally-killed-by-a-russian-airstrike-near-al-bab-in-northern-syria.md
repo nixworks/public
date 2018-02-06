@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-for
 
 ### Changes:
 
-1. [Syrian Civil War: Battle of al-Bab: At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/syrian-civil-war-battle-of-al-bab-at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near.md) _2017-08-27 03:47:47 (First version)_
+1. [Syrian Civil War: Battle of al-Bab: At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/syrian-civil-war-battle-of-al-bab-at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near.md) _2018-02-06 13:49:30 (First version)_
 1. [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md) _(Current version)_
 
 ### Related:

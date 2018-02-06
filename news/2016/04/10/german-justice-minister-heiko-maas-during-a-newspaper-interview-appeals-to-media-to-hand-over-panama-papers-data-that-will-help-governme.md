@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-new
 
 ### Changes:
 
-1. [Panama Papers: German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/panama-papers-german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-wil.md) _2017-08-27 03:45:33 (First version)_
+1. [Panama Papers: German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/panama-papers-german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-wil.md) _2018-02-06 13:49:28 (First version)_
 1. [German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-will-help-governme.md) _(Current version)_
 
 ### Related:

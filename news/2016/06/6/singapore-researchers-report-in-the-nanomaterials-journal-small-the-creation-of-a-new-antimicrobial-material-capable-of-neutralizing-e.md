@@ -17,7 +17,7 @@ Researchers in Singapore have created a new antimicrobial material capable of ne
 
 ### Changes:
 
-1. [Singapore researchers report, in the nanomaterials journal ''Small'', the creation of a new antimicrobial material capable of neutralizing ''E. coli'' bacteria, including antibiotic-resistant bacteria such as ''Staphylococcus aureus'' and ''Pseudomonas aeruginosa''. ](/news/2016/06/6/singapore-researchers-report-in-the-nanomaterials-journal-small-the-creation-of-a-new-antimicrobial-material-capable-of-neutralizing.md) _2017-08-25 03:45:50 (First version)_
+1. [Singapore researchers report, in the nanomaterials journal ''Small'', the creation of a new antimicrobial material capable of neutralizing ''E. coli'' bacteria, including antibiotic-resistant bacteria such as ''Staphylococcus aureus'' and ''Pseudomonas aeruginosa''. ](/news/2016/06/6/singapore-researchers-report-in-the-nanomaterials-journal-small-the-creation-of-a-new-antimicrobial-material-capable-of-neutralizing.md) _2018-02-06 13:49:29 (First version)_
 1. [Singapore researchers report, in the nanomaterials journal "Small", the creation of a new antimicrobial material capable of neutralizing "E. coli" bacteria, including antibiotic-resistant bacteria such as "Staphylococcus aureus" and "Pseudomonas aeruginosa". ](/news/2016/06/6/singapore-researchers-report-in-the-nanomaterials-journal-small-the-creation-of-a-new-antimicrobial-material-capable-of-neutralizing-e.md) _(Current version)_
 
 ### Related:

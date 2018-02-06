@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-m
 
 ### Changes:
 
-1. [Pablo Picasso's ''Nude, Green Leaves and Bust'', the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-gal.md) _2017-08-25 03:32:26 (First version)_
+1. [Pablo Picasso's ''Nude, Green Leaves and Bust'', the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-gal.md) _2018-02-06 13:49:22 (First version)_
 1. [Pablo Picasso's "Nude, Green Leaves and Bust", the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-galle.md) _(Current version)_
 
 ### Related:

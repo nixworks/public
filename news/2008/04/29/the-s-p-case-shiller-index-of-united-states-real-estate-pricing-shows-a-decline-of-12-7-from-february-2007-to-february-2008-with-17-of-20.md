@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-rea
 
 ### Changes:
 
-1. [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-2.md) _2017-08-25 03:22:05 (First version)_
-2. [ Economy of the United States: The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/economy-of-the-united-states-the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-t.md) _2017-08-27 03:21:59 (Update)_
+1. [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-2.md) _2018-02-06 13:49:18 (First version)_
+2. [ Economy of the United States: The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/economy-of-the-united-states-the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-t.md) _2018-02-06 13:49:18 (Update)_
 2. [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-20.md) _(Current version)_
 
 ### Related:

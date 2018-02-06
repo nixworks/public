@@ -16,7 +16,7 @@ John Sudworth reports from Hong Kong a day after violent clashes between police 
 
 ### Changes:
 
-1. [2014 Hong Kong protests: C. Y. Leung, the Chief Executive of Hong Kong, warns pro-democracy activists not to return to the streets after yesterday's clashes. ](/news/2014/12/2/2014-hong-kong-protests-c-y-leung-the-chief-executive-of-hong-kong-warns-pro-democracy-activists-not-to-return-to-the-streets-after-yes.md) _2017-08-27 03:41:35 (First version)_
+1. [2014 Hong Kong protests: C. Y. Leung, the Chief Executive of Hong Kong, warns pro-democracy activists not to return to the streets after yesterday's clashes. ](/news/2014/12/2/2014-hong-kong-protests-c-y-leung-the-chief-executive-of-hong-kong-warns-pro-democracy-activists-not-to-return-to-the-streets-after-yes.md) _2018-02-06 13:49:26 (First version)_
 1. [C. Y. Leung, the Chief Executive of Hong Kong, warns pro-democracy activists not to return to the streets after yesterday's clashes. ](/news/2014/12/2/c-y-leung-the-chief-executive-of-hong-kong-warns-pro-democracy-activists-not-to-return-to-the-streets-after-yesterday-s-clashes.md) _(Current version)_
 
 ### Related:

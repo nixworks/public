@@ -5,11 +5,11 @@ Formats: [HTML](2016/05/9/index.html)  [JSON](2016/05/9/index.json)  [XML](2016/
 
 ##### War in Somalia (2009-present)
 ### [ A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claims-responsibility.md)
-_Context: Al-Shabaab, War in Somalia (2009-present), Mogadishu_
+_Context: Mogadishu, Al-Shabaab, War in Somalia (2009-present)_
 
 ##### Yemeni Civil War (2015-present)
 ### [ Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
-_Context: Saudi Arabian-led intervention in Yemen, Yemeni Civil War (2015-present), Yemen_
+_Context: Saudi-led intervention in Yemen, Yemeni Civil War (2015-present), Yemen_
 
 ##### Iraqi Civil War (2014-present)
 ### [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-near.md)
@@ -25,7 +25,7 @@ Seven persons were today killed and 30 others injured after a bus overturned nea
 
 ##### Taining County
 ### [The death toll from yesterday's landslide in Taining County in China's Fujian province rises to 14 with 25 still missing, ](/news/2016/05/9/the-death-toll-from-yesterday-s-landslide-in-taining-county-in-china-s-fujian-province-rises-to-14-with-25-still-missing.md)
-_Context: Fujian, Taining County, China_
+_Context: Taining County, Fujian, China_
 
 ##### North Korea-United Kingdom relations
 ### [Rupert Wingfield-Hayes, the BBC's Tokyo correspondent, was detained in North Korea before being expelled by the government for "speaking very ill of the system". ](/news/2016/05/9/rupert-wingfield-hayes-the-bbc-s-tokyo-correspondent-was-detained-in-north-korea-before-being-expelled-by-the-government-for-speaking-ver.md)
@@ -37,7 +37,7 @@ MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to 
 
 ##### Chancellor
 ### [Austrian Chancellor Werner Faymann resigns after seven and a half years in office; says he lost the backing of his Social Democrats party. ](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.md)
-_Context: Chancellor, Werner Faymann, Social Democrats party_
+_Context: Chancellor, Social Democrats party, Werner Faymann_
 
 ##### Impeachment process against Dilma Rousseff
 ### [Waldir MaranhGBPo, the acting President of Brazil's Chamber of Deputies, says that the impeachment vote in that chamber should be annulled due to procedural irregularities and the voting process be held again. The Federal Senate is due to start voting on whether to impeach President Rousseff later this week. ](/news/2016/05/9/waldir-maranhagbpo-the-acting-president-of-brazil-s-chamber-of-deputies-says-that-the-impeachment-vote-in-that-chamber-should-be-annulled.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-isla
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/islamic-state-of-iraq-and-the-levant-fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-c.md) _2017-08-27 03:42:12 (First version)_
+1. [Islamic State of Iraq and the Levant: Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/islamic-state-of-iraq-and-the-levant-fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-c.md) _2018-02-06 13:49:27 (First version)_
 1. [Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-capital-ramadi.md) _(Current version)_
 
 ### Related:

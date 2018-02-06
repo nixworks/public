@@ -16,7 +16,7 @@ U.S. Secretary of State Rex Tillerson will convene a new high-level investigatio
 
 ### Changes:
 
-1. [A senior State Department official says that United States Secretary of State Rex Tillerson decided to convene a special-panel Accountability Review Board to further investigate the "attacks". ](/news/2018/01/9/a-senior-state-department-official-says-that-united-states-secretary-of-state-rex-tillerson-decided-to-convene-a-special-panel-accountabilit.md) _2018-01-09 18:30:06 (First version)_
+1. [A senior State Department official says that United States Secretary of State Rex Tillerson decided to convene a special-panel Accountability Review Board to further investigate the "attacks". ](/news/2018/01/9/a-senior-state-department-official-says-that-united-states-secretary-of-state-rex-tillerson-decided-to-convene-a-special-panel-accountabilit.md) _2018-02-06 13:49:31 (First version)_
 1. [An anonymous senior State Department official says that United States Secretary of State Rex Tillerson decided to convene a special-panel Accountability Review Board to further investigate the "attacks" at the U.S. embassy in Havana. ](/news/2018/01/9/an-anonymous-senior-state-department-official-says-that-united-states-secretary-of-state-rex-tillerson-decided-to-convene-a-special-panel-ac.md) _(Current version)_
 
 ### Related:

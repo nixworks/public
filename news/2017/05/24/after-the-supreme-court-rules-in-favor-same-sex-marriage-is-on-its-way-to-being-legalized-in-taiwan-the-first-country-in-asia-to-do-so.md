@@ -16,8 +16,8 @@ A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling t
 
 ### Changes:
 
-1. [After the Supreme Court rules in favor, same-sex-marriage is on its way to be legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-be-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md) _2017-05-24 18:30:07 (First version)_
-2. [LGBT rights in Taiwan: After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/lgbt-rights-in-taiwan-after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-count.md) _2017-08-27 03:48:23 (Update)_
+1. [LGBT rights in Taiwan: After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/lgbt-rights-in-taiwan-after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-count.md) _2018-02-06 13:49:30 (First version)_
+2. [After the Supreme Court rules in favor, same-sex-marriage is on its way to be legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-be-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md) _2018-02-06 13:49:30 (Update)_
 2. [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md) _(Current version)_
 
 ### Related:

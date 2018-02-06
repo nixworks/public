@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/4/the-first-usaafrica-leaders-summit-begins-today-
 
 ### Changes:
 
-1. [The first US-Africa Leaders Summit begins today in Washington, D.C. ](/news/2014/08/4/the-first-us-africa-leaders-summit-begins-today-in-washington-d-c.md) _2017-08-27 03:41:06 (First version)_
+1. [The first US-Africa Leaders Summit begins today in Washington, D.C. ](/news/2014/08/4/the-first-us-africa-leaders-summit-begins-today-in-washington-d-c.md) _2018-02-06 13:49:26 (First version)_
 1. [The first US-Africa Leaders Summit begins today in Washington, D.C. ](/news/2014/08/4/the-first-usaafrica-leaders-summit-begins-today-in-washington-d-c.md) _(Current version)_
 
 ### Related:

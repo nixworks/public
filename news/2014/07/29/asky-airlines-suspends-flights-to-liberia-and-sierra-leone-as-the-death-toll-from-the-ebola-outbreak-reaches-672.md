@@ -17,7 +17,7 @@ A West African airline halts flights to Liberia and Sierra Leone amid concern ab
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: ASKY Airlines suspends flights to Liberia and Sierra Leone as the death toll from the Ebola outbreak reaches 672. ](/news/2014/07/29/2014-west-africa-ebola-outbreak-asky-airlines-suspends-flights-to-liberia-and-sierra-leone-as-the-death-toll-from-the-ebola-outbreak-reache.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 West Africa Ebola outbreak: ASKY Airlines suspends flights to Liberia and Sierra Leone as the death toll from the Ebola outbreak reaches 672. ](/news/2014/07/29/2014-west-africa-ebola-outbreak-asky-airlines-suspends-flights-to-liberia-and-sierra-leone-as-the-death-toll-from-the-ebola-outbreak-reache.md) _2018-02-06 13:49:26 (First version)_
 1. [ASKY Airlines suspends flights to Liberia and Sierra Leone as the death toll from the Ebola outbreak reaches 672. ](/news/2014/07/29/asky-airlines-suspends-flights-to-liberia-and-sierra-leone-as-the-death-toll-from-the-ebola-outbreak-reaches-672.md) _(Current version)_
 
 ### Related:

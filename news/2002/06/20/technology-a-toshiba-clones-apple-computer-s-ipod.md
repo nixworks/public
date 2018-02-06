@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/20/technology-a-toshiba-clones-apple-computer-s-ip
 
 ### Changes:
 
-1. [ Technology - Toshiba clones Apple Computer's iPod.](/news/2002/06/20/technology-toshiba-clones-apple-computer-s-ipod.md) _2017-08-27 03:15:13 (First version)_
+1. [ Technology - Toshiba clones Apple Computer's iPod.](/news/2002/06/20/technology-toshiba-clones-apple-computer-s-ipod.md) _2018-02-06 13:49:15 (First version)_
 1. [ Technology - Toshiba clones Apple Computer's iPod.](/news/2002/06/20/technology-a-toshiba-clones-apple-computer-s-ipod.md) _(Current version)_
 
 ### Related:

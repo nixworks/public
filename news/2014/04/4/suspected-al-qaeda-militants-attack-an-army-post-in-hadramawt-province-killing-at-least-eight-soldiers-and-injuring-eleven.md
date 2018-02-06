@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/4/suspected-al-qaeda-militants-attack-an-army-post
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. ](/news/2014/04/4/al-qaeda-insurgency-in-yemen-psuspected-al-qaeda-militants-attack-an-army-post-in-hadramawt-province-killing-at-least-eight-soldiers-and-inj.md) _2017-08-25 03:40:15 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. ](/news/2014/04/4/al-qaeda-insurgency-in-yemen-suspected-al-qaeda-militants-attack-an-army-post-in-hadramawt-province-killing-at-least-eight-soldiers-and-in.md) _2017-08-27 03:40:33 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. ](/news/2014/04/4/al-qaeda-insurgency-in-yemen-suspected-al-qaeda-militants-attack-an-army-post-in-hadramawt-province-killing-at-least-eight-soldiers-and-in.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. ](/news/2014/04/4/al-qaeda-insurgency-in-yemen-psuspected-al-qaeda-militants-attack-an-army-post-in-hadramawt-province-killing-at-least-eight-soldiers-and-inj.md) _2018-02-06 13:49:26 (Update)_
 2. [Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. ](/news/2014/04/4/suspected-al-qaeda-militants-attack-an-army-post-in-hadramawt-province-killing-at-least-eight-soldiers-and-injuring-eleven.md) _(Current version)_
 
 ### Related:

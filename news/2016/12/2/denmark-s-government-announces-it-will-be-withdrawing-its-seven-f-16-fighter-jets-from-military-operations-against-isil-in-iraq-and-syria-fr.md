@@ -16,7 +16,7 @@ Denmark will not extend military operations of its seven F-16 fighter jets in Sy
 
 ### Changes:
 
-1. [Military intervention against ISIL: Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/military-intervention-against-isil-denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operatio.md) _2017-08-27 03:47:22 (First version)_
+1. [Military intervention against ISIL: Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/military-intervention-against-isil-denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operatio.md) _2018-02-06 13:49:30 (First version)_
 1. [Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operations-against-isil-in-iraq-and-syria-fr.md) _(Current version)_
 
 ### Related:

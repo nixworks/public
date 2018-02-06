@@ -21,8 +21,8 @@ The head of Scotland Yard says any police officer found to have received &quot;i
 
 ### Changes:
 
-1. [''News of the World'' phone hacking affair:Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/news-of-the-world-phone-hacking-affair-pmembers-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-publi.md) _2017-08-25 03:33:42 (First version)_
-2. ["News of the World" phone hacking affair:: Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/news-of-the-world-phone-hacking-affair-members-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-public.md) _2017-08-27 03:33:50 (Update)_
+1. [''News of the World'' phone hacking affair:Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/news-of-the-world-phone-hacking-affair-pmembers-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-publi.md) _2018-02-06 13:49:22 (First version)_
+2. ["News of the World" phone hacking affair:: Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/news-of-the-world-phone-hacking-affair-members-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-public.md) _2018-02-06 13:49:22 (Update)_
 2. [Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/members-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-public-inquiry-into-the-news-of-the-world-phone-h.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/02/10/iraqi-club-al-shorta-win-the-2001a02-umm-al-maa
 
 ### Changes:
 
-1. [ Iraqi club Al-Shorta win the 2001-02 Umm Al Ma-arak (mother of all battles) Cup by defeating Al-Talaba 1-0 in the final.](/news/2002/02/10/iraqi-club-al-shorta-win-the-2001-02-umm-al-ma-arak-mother-of-all-battles-cup-by-defeating-al-talaba-1-0-in-the-final.md) _2017-08-27 03:15:12 (First version)_
+1. [ Iraqi club Al-Shorta win the 2001-02 Umm Al Ma-arak (mother of all battles) Cup by defeating Al-Talaba 1-0 in the final.](/news/2002/02/10/iraqi-club-al-shorta-win-the-2001-02-umm-al-ma-arak-mother-of-all-battles-cup-by-defeating-al-talaba-1-0-in-the-final.md) _2018-02-06 13:49:15 (First version)_
 1. [ Iraqi club Al-Shorta win the 2001-02 Umm Al Ma'arak (mother of all battles) Cup by defeating Al-Talaba 1-0 in the final.](/news/2002/02/10/iraqi-club-al-shorta-win-the-2001a02-umm-al-maaarak-mother-of-all-battles-cup-by-defeating-al-talaba-1-0-in-the-final.md) _(Current version)_
 
 ### Related:

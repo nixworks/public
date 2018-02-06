@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in
 
 ### Changes:
 
-1. [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah.md) _2017-12-29 00:30:04 (First version)_
+1. [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. Weah is elected with 60% of the vote. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah-w.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ UNITED NATIONS (AP) — Ban Ki-moon ends 10 years at the helm of the United Nati
 
 ### Changes:
 
-1. [United Nations Secretary-General selection, 2016: Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/united-nations-secretary-general-selection-2016-portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacin.md) _2017-08-27 03:47:34 (First version)_
+1. [United Nations Secretary-General selection, 2016: Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/united-nations-secretary-general-selection-2016-portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacin.md) _2018-02-06 13:49:30 (First version)_
 1. [Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacing-south-korea-s-ban-ki-moon.md) _(Current version)_
 
 ### Related:

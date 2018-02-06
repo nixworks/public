@@ -17,8 +17,8 @@ At least 12 civilians are killed by rockets in Aleppo, activists say, as opposit
 
 ### Changes:
 
-1. [Syrian civil war:Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/syrian-civil-war-pthree-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-lea.md) _2017-08-25 03:37:35 (First version)_
-2. [Syrian civil war:: Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/syrian-civil-war-three-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-le.md) _2017-08-27 03:37:47 (Update)_
+1. [Syrian civil war:: Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/syrian-civil-war-three-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-le.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/syrian-civil-war-pthree-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-lea.md) _2018-02-06 13:49:24 (Update)_
 2. [Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/three-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-least-29-civilians-an.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Crimean peninsula can never be returned to Ukraine, notwithstanding the fact
 
 ### Changes:
 
-1. [Annexation of Crimea by the Russian Federation: Czech President Milos Zeman says in an interview that the Crimean peninsula can never be returned to Ukraine, notwithstanding the fact that it was "de facto" annexed by Russia. ](/news/2016/09/9/annexation-of-crimea-by-the-russian-federation-czech-president-milos-zeman-says-in-an-interview-that-the-crimean-peninsula-can-never-be-ret.md) _2017-08-27 03:46:49 (First version)_
+1. [Annexation of Crimea by the Russian Federation: Czech President Milos Zeman says in an interview that the Crimean peninsula can never be returned to Ukraine, notwithstanding the fact that it was "de facto" annexed by Russia. ](/news/2016/09/9/annexation-of-crimea-by-the-russian-federation-czech-president-milos-zeman-says-in-an-interview-that-the-crimean-peninsula-can-never-be-ret.md) _2018-02-06 13:49:29 (First version)_
 1. [Czech President Milos Zeman says in an interview that the Crimean peninsula can never be returned to Ukraine, notwithstanding the fact that it was "de facto" annexed by Russia. ](/news/2016/09/9/czech-president-milos-zeman-says-in-an-interview-that-the-crimean-peninsula-can-never-be-returned-to-ukraine-notwithstanding-the-fact-that.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-c
 
 ### Changes:
 
-1. [ The ''Washington Post'' reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-ta.md) _2017-08-25 03:20:58 (First version)_
+1. [ The ''Washington Post'' reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-ta.md) _2018-02-06 13:49:18 (First version)_
 1. [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md) _(Current version)_
 
 ### Related:

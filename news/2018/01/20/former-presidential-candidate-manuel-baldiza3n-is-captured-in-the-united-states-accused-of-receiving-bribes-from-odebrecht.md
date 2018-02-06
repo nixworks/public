@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-
 
 ### Changes:
 
-1. [Former candidate for the presidency Manuel Baldizon was captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-candidate-for-the-presidency-manuel-baldiza3n-was-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md) _2018-01-22 23:30:06 (First version)_
+1. [Former candidate for the presidency Manuel Baldizon was captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-candidate-for-the-presidency-manuel-baldiza3n-was-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md) _2018-02-06 13:49:31 (First version)_
 1. [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md) _(Current version)_
 
 ### Related:

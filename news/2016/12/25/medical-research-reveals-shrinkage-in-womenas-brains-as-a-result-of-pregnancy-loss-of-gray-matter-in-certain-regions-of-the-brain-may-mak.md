@@ -17,7 +17,7 @@ Pregnancy can sculpt a mother’s brain in a way that may help her tune in to he
 
 ### Changes:
 
-1. [Medical research reveals shrinkage in women-s brains as a result of pregnancy. Loss of gray matter in certain regions of the brain may make the brain more efficient and specialized for child-rearing. There is also evidence of links to long-term changes in brain. ](/news/2016/12/25/medical-research-reveals-shrinkage-in-women-s-brains-as-a-result-of-pregnancy-loss-of-gray-matter-in-certain-regions-of-the-brain-may-mak.md) _2017-08-27 03:47:30 (First version)_
+1. [Medical research reveals shrinkage in women-s brains as a result of pregnancy. Loss of gray matter in certain regions of the brain may make the brain more efficient and specialized for child-rearing. There is also evidence of links to long-term changes in brain. ](/news/2016/12/25/medical-research-reveals-shrinkage-in-women-s-brains-as-a-result-of-pregnancy-loss-of-gray-matter-in-certain-regions-of-the-brain-may-mak.md) _2018-02-06 13:49:30 (First version)_
 1. [Medical research reveals shrinkage in women's brains as a result of pregnancy. Loss of gray matter in certain regions of the brain may make the brain more efficient and specialized for child-rearing. There is also evidence of links to long-term changes in brain. ](/news/2016/12/25/medical-research-reveals-shrinkage-in-womenas-brains-as-a-result-of-pregnancy-loss-of-gray-matter-in-certain-regions-of-the-brain-may-mak.md) _(Current version)_
 
 ### Related:

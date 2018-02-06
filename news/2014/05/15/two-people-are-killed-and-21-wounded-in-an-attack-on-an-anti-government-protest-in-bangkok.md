@@ -16,8 +16,8 @@ Two people were killed and 21 were wounded in an attack early Thursday on an ant
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/2013a14-thai-political-crisis-ptwo-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _2017-08-25 03:40:24 (First version)_
-2. [2013-14 Thai political crisis:: Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/2013-14-thai-political-crisis-two-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _2017-08-27 03:40:42 (Update)_
+1. [2013-14 Thai political crisis:Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/2013a14-thai-political-crisis-ptwo-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _2018-02-06 13:49:26 (First version)_
+2. [2013-14 Thai political crisis:: Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/2013-14-thai-political-crisis-two-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _2018-02-06 13:49:26 (Update)_
 2. [Two people are killed and 21 wounded in an attack on an anti-government protest in Bangkok. ](/news/2014/05/15/two-people-are-killed-and-21-wounded-in-an-attack-on-an-anti-government-protest-in-bangkok.md) _(Current version)_
 
 ### Related:

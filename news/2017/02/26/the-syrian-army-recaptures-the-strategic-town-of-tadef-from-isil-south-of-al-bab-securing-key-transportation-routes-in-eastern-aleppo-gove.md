@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/26/the-syrian-army-recaptures-the-strategic-town-o
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/syrian-civil-war-the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-e.md) _2017-08-27 03:47:54 (First version)_
+1. [Syrian Civil War: The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/syrian-civil-war-the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-e.md) _2018-02-06 13:49:30 (First version)_
 1. [The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-eastern-aleppo-gove.md) _(Current version)_
 
 ### Related:

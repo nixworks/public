@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/3/russian-president-vladimir-putin-addresses-the-s
 
 ### Changes:
 
-1. [2015 Russian Sukhoi Su-24 shootdown: Russian president Vladimir Putin addresses the shootdown of one of their jets in Syria by the Turkish Air Force. He goes on to say that "if anyone thinks Russia's reaction will be limited to trade sanctions, they are deeply mistaken". ](/news/2015/12/3/2015-russian-sukhoi-su-24-shootdown-russian-president-vladimir-putin-addresses-the-shootdown-of-one-of-their-jets-in-syria-by-the-turkish-a.md) _2017-08-27 03:44:10 (First version)_
+1. [2015 Russian Sukhoi Su-24 shootdown: Russian president Vladimir Putin addresses the shootdown of one of their jets in Syria by the Turkish Air Force. He goes on to say that "if anyone thinks Russia's reaction will be limited to trade sanctions, they are deeply mistaken". ](/news/2015/12/3/2015-russian-sukhoi-su-24-shootdown-russian-president-vladimir-putin-addresses-the-shootdown-of-one-of-their-jets-in-syria-by-the-turkish-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Russian president Vladimir Putin addresses the shootdown of one of their jets in Syria by the Turkish Air Force. He goes on to say that "if anyone thinks Russia's reaction will be limited to trade sanctions, they are deeply mistaken". ](/news/2015/12/3/russian-president-vladimir-putin-addresses-the-shootdown-of-one-of-their-jets-in-syria-by-the-turkish-air-force-he-goes-on-to-say-that-if.md) _(Current version)_
 
 ### Related:

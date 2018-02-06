@@ -18,8 +18,8 @@ A suicide bomb in central Syria kills many people, reports say, as Russia prepar
 
 ### Changes:
 
-1. [Syrian civil war:Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-prussian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-beir.md) _2017-08-25 03:37:18 (First version)_
-2. [Syrian civil war:: Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-russian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-bei.md) _2017-08-27 03:37:28 (Update)_
+1. [Syrian civil war:: Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-russian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-bei.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-prussian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-beir.md) _2018-02-06 13:49:24 (Update)_
 2. [Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/russian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-beirut.md) _(Current version)_
 
 ### Related:

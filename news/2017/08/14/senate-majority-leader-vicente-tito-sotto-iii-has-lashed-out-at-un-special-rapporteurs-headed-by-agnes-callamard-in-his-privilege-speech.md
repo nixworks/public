@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/08/14/senate-majority-leader-vicente-tito-sotto-iii-h
 
 ### Changes:
 
-1. [Philippine Drug War: Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/philippine-drug-war-senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in.md) _2017-08-27 03:48:48 (First version)_
+1. [Philippine Drug War: Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/philippine-drug-war-senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in.md) _2018-02-06 13:49:31 (First version)_
 1. [Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in-his-privilege-speech.md) _(Current version)_
 
 ### Related:

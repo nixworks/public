@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-w
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/islamist-insurgency-in-nigeria-nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-h.md) _2017-08-27 03:41:53 (First version)_
+1. [Islamist insurgency in Nigeria: Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/islamist-insurgency-in-nigeria-nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-h.md) _2018-02-06 13:49:26 (First version)_
 1. [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md) _(Current version)_
 
 ### Related:

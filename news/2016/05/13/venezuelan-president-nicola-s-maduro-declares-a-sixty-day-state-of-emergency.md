@@ -18,7 +18,7 @@ Nicolas Maduro says ‘Washington is activating measures at the request of Venez
 
 ### Changes:
 
-1. [2016 state of emergency in Venezuela: Venezuelan President Nicolas Maduro declares a sixty-day state of emergency. ](/news/2016/05/13/2016-state-of-emergency-in-venezuela-venezuelan-president-nicola-s-maduro-declares-a-sixty-day-state-of-emergency.md) _2017-08-27 03:46:02 (First version)_
+1. [2016 state of emergency in Venezuela: Venezuelan President Nicolas Maduro declares a sixty-day state of emergency. ](/news/2016/05/13/2016-state-of-emergency-in-venezuela-venezuelan-president-nicola-s-maduro-declares-a-sixty-day-state-of-emergency.md) _2018-02-06 13:49:29 (First version)_
 1. [ Venezuelan President Nicolas Maduro declares a sixty-day state of emergency. ](/news/2016/05/13/venezuelan-president-nicola-s-maduro-declares-a-sixty-day-state-of-emergency.md) _(Current version)_
 
 ### Related:

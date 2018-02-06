@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/1/taliban-suicide-bombers-attack-an-afghan-nationa
 
 ### Changes:
 
-1. [Taliban insurgency: Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-insurgency-taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md) _2017-08-27 03:41:21 (First version)_
+1. [Taliban insurgency: Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-insurgency-taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md) _2018-02-06 13:49:26 (First version)_
 1. [Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md) _(Current version)_
 
 ### Related:

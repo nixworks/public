@@ -20,7 +20,7 @@ Syrian government forces capture more than a third of rebel-held territory in ea
 
 ### Changes:
 
-1. [Syrian Civil War: Aleppo offensive (November 2016): Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-civil-war-aleppo-offensive-november-2016-syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third.md) _2017-08-27 03:47:19 (First version)_
+1. [Syrian Civil War: Aleppo offensive (November 2016): Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-civil-war-aleppo-offensive-november-2016-syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third-of-rebel-controlled-eastern-aleppo.md) _(Current version)_
 
 ### Related:

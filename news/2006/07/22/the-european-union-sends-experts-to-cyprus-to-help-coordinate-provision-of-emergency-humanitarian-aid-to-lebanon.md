@@ -21,8 +21,8 @@ The Bush administration is rushing a delivery of precision-guided bombs to Israe
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The European Union sends experts to Cyprus to help coordinate provision of emergency humanitarian aid to Lebanon. ](/news/2006/07/22/2006-israel-lebanon-conflict-p-the-european-union-sends-experts-to-cyprus-to-help-coordinate-provision-of-emergency-humanitarian-aid-to-leb.md) _2017-08-25 03:18:04 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: The European Union sends experts to Cyprus to help coordinate provision of emergency humanitarian aid to Lebanon. ](/news/2006/07/22/2006-israel-lebanon-conflict-the-european-union-sends-experts-to-cyprus-to-help-coordinate-provision-of-emergency-humanitarian-aid-to-leb.md) _2017-08-27 03:18:02 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: The European Union sends experts to Cyprus to help coordinate provision of emergency humanitarian aid to Lebanon. ](/news/2006/07/22/2006-israel-lebanon-conflict-the-european-union-sends-experts-to-cyprus-to-help-coordinate-provision-of-emergency-humanitarian-aid-to-leb.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: The European Union sends experts to Cyprus to help coordinate provision of emergency humanitarian aid to Lebanon. ](/news/2006/07/22/2006-israel-lebanon-conflict-p-the-european-union-sends-experts-to-cyprus-to-help-coordinate-provision-of-emergency-humanitarian-aid-to-leb.md) _2018-02-06 13:49:17 (Update)_
 2. [ The European Union sends experts to Cyprus to help coordinate provision of emergency humanitarian aid to Lebanon. ](/news/2006/07/22/the-european-union-sends-experts-to-cyprus-to-help-coordinate-provision-of-emergency-humanitarian-aid-to-lebanon.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ A Syrian tribe has appealed to the West to save it from extermination at the han
 
 ### Changes:
 
-1. [Syrian civil war:A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-pa-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md) _2017-08-25 03:40:54 (First version)_
-2. [Syrian civil war:: A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-a-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md) _2017-08-27 03:41:13 (Update)_
+1. [Syrian civil war:A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-pa-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian civil war:: A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-a-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md) _2018-02-06 13:49:26 (Update)_
 2. [A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/a-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-world-to-help.md) _(Current version)_
 
 ### Related:

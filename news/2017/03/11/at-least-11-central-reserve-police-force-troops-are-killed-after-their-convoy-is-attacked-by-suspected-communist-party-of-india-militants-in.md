@@ -15,7 +15,7 @@ Armed group attack convoy carrying paramilitary forces, confiscate weapons and r
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: At least 11 Central Reserve Police Force troops are killed after their convoy is attacked by suspected Communist Party of India militants in Chhattisgarh. ](/news/2017/03/11/naxalite-maoist-insurgency-at-least-11-central-reserve-police-force-troops-are-killed-after-their-convoy-is-attacked-by-suspected-communi.md) _2017-08-27 03:47:58 (First version)_
+1. [Naxalite-Maoist insurgency: At least 11 Central Reserve Police Force troops are killed after their convoy is attacked by suspected Communist Party of India militants in Chhattisgarh. ](/news/2017/03/11/naxalite-maoist-insurgency-at-least-11-central-reserve-police-force-troops-are-killed-after-their-convoy-is-attacked-by-suspected-communi.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 11 Central Reserve Police Force troops are killed after their convoy is attacked by suspected Communist Party of India militants in Chhattisgarh. ](/news/2017/03/11/at-least-11-central-reserve-police-force-troops-are-killed-after-their-convoy-is-attacked-by-suspected-communist-party-of-india-militants-in.md) _(Current version)_
 
 ### Related:

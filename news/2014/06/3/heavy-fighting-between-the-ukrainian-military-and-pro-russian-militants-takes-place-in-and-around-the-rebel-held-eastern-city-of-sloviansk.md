@@ -16,8 +16,8 @@ Heavy fighting is taking place in and around the rebel-held city of Sloviansk in
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/2014-pro-russian-unrest-in-ukraine-pheavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-re.md) _2017-08-25 03:40:30 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/2014-pro-russian-unrest-in-ukraine-heavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-r.md) _2017-08-27 03:40:47 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/2014-pro-russian-unrest-in-ukraine-pheavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-re.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:: Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/2014-pro-russian-unrest-in-ukraine-heavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-r.md) _2018-02-06 13:49:26 (Update)_
 2. [Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/heavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-rebel-held-eastern-city-of-sloviansk.md) _(Current version)_
 
 ### Related:

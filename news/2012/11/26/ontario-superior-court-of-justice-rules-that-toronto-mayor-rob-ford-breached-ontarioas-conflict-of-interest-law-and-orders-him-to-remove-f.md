@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-to
 
 ### Changes:
 
-1. [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario-s conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontario-s-conflict-of-interest-law-and-orders-him-to-remove-f.md) _2017-08-27 03:37:03 (First version)_
+1. [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario-s conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontario-s-conflict-of-interest-law-and-orders-him-to-remove-f.md) _2018-02-06 13:49:24 (First version)_
 1. [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario's conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontarioas-conflict-of-interest-law-and-orders-him-to-remove-f.md) _(Current version)_
 
 ### Related:

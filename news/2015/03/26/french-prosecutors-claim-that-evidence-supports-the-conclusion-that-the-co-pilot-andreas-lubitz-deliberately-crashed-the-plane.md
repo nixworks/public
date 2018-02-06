@@ -16,7 +16,7 @@ Marseille public prosecutor says co-pilot of Airbus A320 deliberately forced the
 
 ### Changes:
 
-1. [Germanwings Flight 9525: French prosecutors claim that evidence supports the conclusion that the co-pilot, Andreas Lubitz, deliberately crashed the plane. ](/news/2015/03/26/germanwings-flight-9525-french-prosecutors-claim-that-evidence-supports-the-conclusion-that-the-co-pilot-andreas-lubitz-deliberately-cras.md) _2017-08-27 03:42:08 (First version)_
+1. [Germanwings Flight 9525: French prosecutors claim that evidence supports the conclusion that the co-pilot, Andreas Lubitz, deliberately crashed the plane. ](/news/2015/03/26/germanwings-flight-9525-french-prosecutors-claim-that-evidence-supports-the-conclusion-that-the-co-pilot-andreas-lubitz-deliberately-cras.md) _2018-02-06 13:49:26 (First version)_
 1. [French prosecutors claim that evidence supports the conclusion that the co-pilot, Andreas Lubitz, deliberately crashed the plane. ](/news/2015/03/26/french-prosecutors-claim-that-evidence-supports-the-conclusion-that-the-co-pilot-andreas-lubitz-deliberately-crashed-the-plane.md) _(Current version)_
 
 ### Related:

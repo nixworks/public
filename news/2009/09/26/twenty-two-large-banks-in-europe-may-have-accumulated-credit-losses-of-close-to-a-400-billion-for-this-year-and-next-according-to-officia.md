@@ -16,7 +16,7 @@ Europe’s 22 biggest banks may have accumulated about 400 billion euros in cred
 
 ### Changes:
 
-1. [ Twenty-two large banks in Europe may have accumulated credit losses of close to -400 billion for this year and next, according to officials who have seen a draft of conclusions of -stress tests- conducted by European regulators. ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-400-billion-for-this-year-and-next-according-to-officia.md) _2017-08-27 03:25:46 (First version)_
+1. [ Twenty-two large banks in Europe may have accumulated credit losses of close to -400 billion for this year and next, according to officials who have seen a draft of conclusions of -stress tests- conducted by European regulators. ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-400-billion-for-this-year-and-next-according-to-officia.md) _2018-02-06 13:49:19 (First version)_
 1. [ Twenty-two large banks in Europe may have accumulated credit losses of close to EUR400 billion for this year and next, according to officials who have seen a draft of conclusions of "stress tests" conducted by European regulators. ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-a-400-billion-for-this-year-and-next-according-to-officia.md) _(Current version)_
 
 ### Related:

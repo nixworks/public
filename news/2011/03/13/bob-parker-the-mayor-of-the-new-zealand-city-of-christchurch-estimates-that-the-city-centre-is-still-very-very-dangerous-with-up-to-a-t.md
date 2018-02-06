@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/13/bob-parker-the-mayor-of-the-new-zealand-city-of
 
 ### Changes:
 
-1. [2011 Canterbury earthquake: Bob Parker, the mayor of the New Zealand city of Christchurch, estimates that the city centre is still "very, very dangerous" with up to a third of the buildings needing to be demolished. ](/news/2011/03/13/2011-canterbury-earthquake-bob-parker-the-mayor-of-the-new-zealand-city-of-christchurch-estimates-that-the-city-centre-is-still-very-ve.md) _2017-08-27 03:32:39 (First version)_
+1. [2011 Canterbury earthquake: Bob Parker, the mayor of the New Zealand city of Christchurch, estimates that the city centre is still "very, very dangerous" with up to a third of the buildings needing to be demolished. ](/news/2011/03/13/2011-canterbury-earthquake-bob-parker-the-mayor-of-the-new-zealand-city-of-christchurch-estimates-that-the-city-centre-is-still-very-ve.md) _2018-02-06 13:49:22 (First version)_
 1. [Bob Parker, the mayor of the New Zealand city of Christchurch, estimates that the city centre is still "very, very dangerous" with up to a third of the buildings needing to be demolished. ](/news/2011/03/13/bob-parker-the-mayor-of-the-new-zealand-city-of-christchurch-estimates-that-the-city-centre-is-still-very-very-dangerous-with-up-to-a-t.md) _(Current version)_
 
 ### Related:

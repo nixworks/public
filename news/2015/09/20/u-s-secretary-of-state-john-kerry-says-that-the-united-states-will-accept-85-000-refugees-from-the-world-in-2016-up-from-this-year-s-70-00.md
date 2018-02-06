@@ -17,7 +17,7 @@ As Hungary eases its border restrictions, waves of refugees rush towards Western
 
 ### Changes:
 
-1. [European migrant crisis: U.S. Secretary of State John Kerry says that the United States will accept 85,000 refugees from the world in 2016, up from this year's 70,000 refugees, and will increase to 100,000 refugees in 2017. ](/news/2015/09/20/european-migrant-crisis-u-s-secretary-of-state-john-kerry-says-that-the-united-states-will-accept-85-000-refugees-from-the-world-in-2016.md) _2017-08-27 03:43:06 (First version)_
+1. [European migrant crisis: U.S. Secretary of State John Kerry says that the United States will accept 85,000 refugees from the world in 2016, up from this year's 70,000 refugees, and will increase to 100,000 refugees in 2017. ](/news/2015/09/20/european-migrant-crisis-u-s-secretary-of-state-john-kerry-says-that-the-united-states-will-accept-85-000-refugees-from-the-world-in-2016.md) _2018-02-06 13:49:27 (First version)_
 1. [U.S. Secretary of State John Kerry says that the United States will accept 85,000 refugees from the world in 2016, up from this year's 70,000 refugees, and will increase to 100,000 refugees in 2017. ](/news/2015/09/20/u-s-secretary-of-state-john-kerry-says-that-the-united-states-will-accept-85-000-refugees-from-the-world-in-2016-up-from-this-year-s-70-00.md) _(Current version)_
 
 ### Related:

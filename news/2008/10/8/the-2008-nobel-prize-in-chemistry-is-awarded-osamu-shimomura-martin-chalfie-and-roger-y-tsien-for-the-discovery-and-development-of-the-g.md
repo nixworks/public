@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/10/8/the-2008-nobel-prize-in-chemistry-is-awarded-osa
 
 ### Changes:
 
-1. [ Nobel Prize: The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/nobel-prize-p-the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-develo.md) _2017-08-25 03:23:00 (First version)_
-2. [ Nobel Prize:: The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/nobel-prize-the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-develo.md) _2017-08-27 03:22:54 (Update)_
+1. [ Nobel Prize:: The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/nobel-prize-the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-develo.md) _2018-02-06 13:49:18 (First version)_
+2. [ Nobel Prize: The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/nobel-prize-p-the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-develo.md) _2018-02-06 13:49:18 (Update)_
 2. [ The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-development-of-the-g.md) _(Current version)_
 
 ### Related:

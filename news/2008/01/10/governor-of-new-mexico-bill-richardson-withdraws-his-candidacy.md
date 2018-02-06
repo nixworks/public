@@ -20,8 +20,8 @@ Formats: [HTML](/news/2008/01/10/governor-of-new-mexico-bill-richardson-withdraw
 
 ### Changes:
 
-1. [ United States presidential election, 2008: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-p-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _2017-08-25 03:21:39 (First version)_
-2. [ United States presidential election, 2008:: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _2017-08-27 03:21:33 (Update)_
+1. [ United States presidential election, 2008: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-p-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008:: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _2018-02-06 13:49:18 (Update)_
 2. [ Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md) _(Current version)_
 
 ### Related:

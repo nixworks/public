@@ -49,7 +49,7 @@ Domestic Islamist movement has ties to Hamas and the Egyptian Muslim Brotherhood
 
 ##### Japan
 ### [The Japanese government officially sues the governor of Okinawa, Takeshi Onaga, over his denial of permits to allow work to begin on the Relocation of Marine Corps Air Station Futenma. ](/news/2015/11/17/the-japanese-government-officially-sues-the-governor-of-okinawa-takeshi-onaga-over-his-denial-of-permits-to-allow-work-to-begin-on-the-rel.md)
-_Context: relocate MCAS Futenma to Henoko Bay in Nago, Japan, Takeshi Onaga, Okinawa_
+_Context: Okinawa, Japan, relocate MCAS Futenma to Henoko Bay in Nago, Takeshi Onaga_
 
 ##### refugees from Syria
 ### [More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-after-the-attacks-in-paris-all-except.md)

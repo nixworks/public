@@ -17,7 +17,7 @@ David Cameron is heading back to Downing Street as prime minister after the Cons
 
 ### Changes:
 
-1. [United Kingdom general election, 2015: The Conservative Party has won a majority in the 2015 general election, enabling them to lead without requiring a coalition government. The Scottish National Party claims all but three seats in Scotland. ](/news/2015/05/8/united-kingdom-general-election-2015-the-conservative-party-has-won-a-majority-in-the-2015-general-election-enabling-them-to-lead-without.md) _2017-08-27 03:42:16 (First version)_
+1. [United Kingdom general election, 2015: The Conservative Party has won a majority in the 2015 general election, enabling them to lead without requiring a coalition government. The Scottish National Party claims all but three seats in Scotland. ](/news/2015/05/8/united-kingdom-general-election-2015-the-conservative-party-has-won-a-majority-in-the-2015-general-election-enabling-them-to-lead-without.md) _2018-02-06 13:49:27 (First version)_
 1. [The Conservative Party has won a majority in the 2015 general election, enabling them to lead without requiring a coalition government. The Scottish National Party claims all but three seats in Scotland. ](/news/2015/05/8/the-conservative-party-has-won-a-majority-in-the-2015-general-election-enabling-them-to-lead-without-requiring-a-coalition-government-the.md) _(Current version)_
 
 ### Related:

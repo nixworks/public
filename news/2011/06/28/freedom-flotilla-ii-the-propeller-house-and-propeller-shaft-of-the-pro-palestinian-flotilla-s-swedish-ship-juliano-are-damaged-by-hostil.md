@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-pro
 
 ### Changes:
 
-1. [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship ''Juliano'' are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-host.md) _2017-08-25 03:33:37 (First version)_
+1. [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship ''Juliano'' are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-host.md) _2018-02-06 13:49:22 (First version)_
 1. [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship "Juliano" are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-hostil.md) _(Current version)_
 
 ### Related:

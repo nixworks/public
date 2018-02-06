@@ -17,8 +17,8 @@ A wave of car bombs and shootings across Iraq killed at least 36 people on Sunda
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-pbombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md) _2017-08-25 03:39:16 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-bombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md) _2017-08-27 03:39:33 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-pbombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-bombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/bombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md) _(Current version)_
 
 ### Related:

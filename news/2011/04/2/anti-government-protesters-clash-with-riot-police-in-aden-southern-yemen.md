@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/04/2/anti-government-protesters-clash-with-riot-polic
 
 ### Changes:
 
-1. [2011 Yemeni protests:Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-panti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md) _2017-08-25 03:32:42 (First version)_
-2. [2011 Yemeni protests:: Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md) _2017-08-27 03:32:51 (Update)_
+1. [2011 Yemeni protests:Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-panti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md) _(Current version)_
 
 ### Related:

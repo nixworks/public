@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/13/two-chinese-dissidents-xu-wei-a-former-reporter
 
 ### Changes:
 
-1. [Two Chinese dissidents Xu Wei, a former reporter, and Jin Haike, a writer, are released from prison after serving a ten-year sentence. ](/news/2011/03/13/two-chinese-dissidents-xu-wei-a-former-reporter-and-jin-haike-a-writer-are-released-from-prison-after-serving-a-ten-year-sentence.md) _2017-08-27 03:32:39 (First version)_
+1. [Two Chinese dissidents Xu Wei, a former reporter, and Jin Haike, a writer, are released from prison after serving a ten-year sentence. ](/news/2011/03/13/two-chinese-dissidents-xu-wei-a-former-reporter-and-jin-haike-a-writer-are-released-from-prison-after-serving-a-ten-year-sentence.md) _2018-02-06 13:49:22 (First version)_
 1. [Two Chinese dissidents Xu Wei, a former reporter, and Jin Haike, a writer, are released from prison after serving a ten-year sentence. ](/news/2011/03/13/two-chinese-dissidents-xu-wei-a-former-reporter-and-jin-haike-a-writer-are-released-from-prison-after-serving-a-tenayear-sentence.md) _(Current version)_
 
 ### Related:

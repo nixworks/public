@@ -16,8 +16,8 @@ A gunfight broke out between Afghan and foreign soldiers on the outskirts of the
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001apresent-pa-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-on.md) _2017-08-25 03:39:26 (First version)_
-2. [War in Afghanistan (2001-present):: A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001-present-a-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-o.md) _2017-08-27 03:39:43 (Update)_
+1. [War in Afghanistan (2001-present):A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001apresent-pa-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-on.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001-present-a-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-o.md) _2018-02-06 13:49:25 (Update)_
 2. [A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/a-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-one-afghan-serviceman-and-injures-a-num.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/03/3/nicolas-chartier-producer-of-the-hurt-locker-is-
 
 ### Changes:
 
-1. [''The Hurt Locker'':Nicolas Chartier, producer of ''The Hurt Locker'', is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-pnicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-b.md) _2017-08-25 03:27:16 (First version)_
-2. ["The Hurt Locker":: Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-nicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-be-a.md) _2017-08-27 03:27:11 (Update)_
+1. [''The Hurt Locker'':Nicolas Chartier, producer of ''The Hurt Locker'', is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-pnicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-b.md) _2018-02-06 13:49:19 (First version)_
+2. ["The Hurt Locker":: Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-nicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-be-a.md) _2018-02-06 13:49:19 (Update)_
 2. [Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/nicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-be-a-violation-of-rules.md) _(Current version)_
 
 ### Related:

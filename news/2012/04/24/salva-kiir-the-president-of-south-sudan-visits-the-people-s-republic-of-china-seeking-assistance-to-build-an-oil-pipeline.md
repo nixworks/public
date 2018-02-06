@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [South Sudan:Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/south-sudan-psalva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _2017-08-25 03:35:33 (First version)_
-2. [South Sudan:: Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/south-sudan-salva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _2017-08-27 03:35:43 (Update)_
+1. [South Sudan:: Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/south-sudan-salva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _2018-02-06 13:49:23 (First version)_
+2. [South Sudan:Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/south-sudan-psalva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _2018-02-06 13:49:23 (Update)_
 2. [Salva Kiir, the President of South Sudan, visits the People's Republic of China seeking assistance to build an oil pipeline. ](/news/2012/04/24/salva-kiir-the-president-of-south-sudan-visits-the-people-s-republic-of-china-seeking-assistance-to-build-an-oil-pipeline.md) _(Current version)_
 
 ### Related:

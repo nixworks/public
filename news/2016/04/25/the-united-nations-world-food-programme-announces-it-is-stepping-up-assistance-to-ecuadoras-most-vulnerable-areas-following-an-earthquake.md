@@ -16,7 +16,7 @@ The United Nations World Food Programme (WFP) is stepping up assistance to Ecuad
 
 ### Changes:
 
-1. [2016 Ecuador earthquake: The United Nations World Food Programme announces it is stepping up assistance to Ecuador-s most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/2016-ecuador-earthquake-the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuador-s-most-vulnerable-areas.md) _2017-08-27 03:45:50 (First version)_
+1. [2016 Ecuador earthquake: The United Nations World Food Programme announces it is stepping up assistance to Ecuador-s most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/2016-ecuador-earthquake-the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuador-s-most-vulnerable-areas.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.md) _(Current version)_
 
 ### Related:

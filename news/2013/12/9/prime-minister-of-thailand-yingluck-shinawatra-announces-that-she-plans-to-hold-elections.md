@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/9/prime-minister-of-thailand-yingluck-shinawatra-a
 
 ### Changes:
 
-1. [2013 Thai protests:Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/2013-thai-protests-pprime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _2017-08-25 03:39:39 (First version)_
-2. [2013 Thai protests:: Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/2013-thai-protests-prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _2017-08-27 03:39:57 (Update)_
+1. [2013 Thai protests:: Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/2013-thai-protests-prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/2013-thai-protests-pprime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _2018-02-06 13:49:25 (Update)_
 2. [Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Col Muammar Gaddafi last night reportedly vowed death or victory in the fight ag
 
 ### Changes:
 
-1. [2011 Battle of Tripoli: National Transitional Council Chairman Mustafa Abdul Jalil announces legislative and presidential elections within eight months, and promises that Muammar Gaddafi will be tried in Libya. ](/news/2011/08/24/2011-battle-of-tripoli-national-transitional-council-chairman-mustafa-abdul-jalil-announces-legislative-and-presidential-elections-within-e.md) _2017-08-27 03:34:11 (First version)_
+1. [2011 Battle of Tripoli: National Transitional Council Chairman Mustafa Abdul Jalil announces legislative and presidential elections within eight months, and promises that Muammar Gaddafi will be tried in Libya. ](/news/2011/08/24/2011-battle-of-tripoli-national-transitional-council-chairman-mustafa-abdul-jalil-announces-legislative-and-presidential-elections-within-e.md) _2018-02-06 13:49:22 (First version)_
 1. [National Transitional Council Chairman Mustafa Abdul Jalil announces legislative and presidential elections within eight months, and promises that Muammar Gaddafi will be tried in Libya. ](/news/2011/08/24/national-transitional-council-chairman-mustafa-abdul-jalil-announces-legislative-and-presidential-elections-within-eight-months-and-promise.md) _(Current version)_
 
 ### Related:

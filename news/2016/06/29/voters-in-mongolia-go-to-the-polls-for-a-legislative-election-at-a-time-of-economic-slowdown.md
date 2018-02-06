@@ -16,7 +16,7 @@ Election comes amid economic downturn caused by slumping demand for commodities 
 
 ### Changes:
 
-1. [Mongolian legislative election, 2016: Voters in Mongolia go to the polls for a legislative election at a time of economic slowdown. ](/news/2016/06/29/mongolian-legislative-election-2016-voters-in-mongolia-go-to-the-polls-for-a-legislative-election-at-a-time-of-economic-slowdown.md) _2017-08-27 03:46:22 (First version)_
+1. [Mongolian legislative election, 2016: Voters in Mongolia go to the polls for a legislative election at a time of economic slowdown. ](/news/2016/06/29/mongolian-legislative-election-2016-voters-in-mongolia-go-to-the-polls-for-a-legislative-election-at-a-time-of-economic-slowdown.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Mongolia go to the polls for a legislative election at a time of economic slowdown. ](/news/2016/06/29/voters-in-mongolia-go-to-the-polls-for-a-legislative-election-at-a-time-of-economic-slowdown.md) _(Current version)_
 
 ### Related:

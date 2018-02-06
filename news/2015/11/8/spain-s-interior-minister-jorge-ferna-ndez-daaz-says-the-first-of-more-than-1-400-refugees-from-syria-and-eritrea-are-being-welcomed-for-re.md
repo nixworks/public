@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/8/spain-s-interior-minister-jorge-ferna-ndez-daaz-
 
 ### Changes:
 
-1. [European migrant crisis: Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/european-migrant-crisis-spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea.md) _2017-08-27 03:43:44 (First version)_
+1. [European migrant crisis: Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/european-migrant-crisis-spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea.md) _2018-02-06 13:49:28 (First version)_
 1. [Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea-are-being-welcomed-for-re.md) _(Current version)_
 
 ### Related:

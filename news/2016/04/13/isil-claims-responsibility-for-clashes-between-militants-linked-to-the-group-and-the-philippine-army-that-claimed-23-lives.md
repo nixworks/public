@@ -16,7 +16,7 @@ PHILIPPINES-ISLAMIC STATE/ (URGENT):Islamic state claims Philippines attack that
 
 ### Changes:
 
-1. [Moro Conflict: Battle of Tipo-Tipo: ISIL claims responsibility for clashes between militants linked to the group and the Philippine Army that claimed 23 lives. ](/news/2016/04/13/moro-conflict-battle-of-tipo-tipo-isil-claims-responsibility-for-clashes-between-militants-linked-to-the-group-and-the-philippine-army-tha.md) _2017-08-27 03:45:36 (First version)_
+1. [Moro Conflict: Battle of Tipo-Tipo: ISIL claims responsibility for clashes between militants linked to the group and the Philippine Army that claimed 23 lives. ](/news/2016/04/13/moro-conflict-battle-of-tipo-tipo-isil-claims-responsibility-for-clashes-between-militants-linked-to-the-group-and-the-philippine-army-tha.md) _2018-02-06 13:49:28 (First version)_
 1. [ISIL claims responsibility for clashes between militants linked to the group and the Philippine Army that claimed 23 lives. ](/news/2016/04/13/isil-claims-responsibility-for-clashes-between-militants-linked-to-the-group-and-the-philippine-army-that-claimed-23-lives.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Eleven children are reported to have been among those killed in a Nato air strik
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _2017-08-25 03:38:12 (First version)_
-2. [War in Afghanistan (2001-present):: An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _2017-08-27 03:38:25 (Update)_
+1. [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _2018-02-06 13:49:24 (Update)_
 2. [An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _(Current version)_
 
 ### Related:

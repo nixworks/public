@@ -15,7 +15,7 @@ Former vice president says he will arrive in Juba to form transitional governmen
 
 ### Changes:
 
-1. [South Sudanese Civil War: Former Vice President and opposition leader Riek Machar says he will return to the capital Juba on April 18 to form a transitional government with President Salva Kiir Mayardit in the hopes of bringing peace to South Sudan after their acrimonious split ignited more than two years of war. ](/news/2016/04/7/south-sudanese-civil-war-former-vice-president-and-opposition-leader-riek-machar-says-he-will-return-to-the-capital-juba-on-april-18-to-for.md) _2017-08-27 03:45:31 (First version)_
+1. [South Sudanese Civil War: Former Vice President and opposition leader Riek Machar says he will return to the capital Juba on April 18 to form a transitional government with President Salva Kiir Mayardit in the hopes of bringing peace to South Sudan after their acrimonious split ignited more than two years of war. ](/news/2016/04/7/south-sudanese-civil-war-former-vice-president-and-opposition-leader-riek-machar-says-he-will-return-to-the-capital-juba-on-april-18-to-for.md) _2018-02-06 13:49:29 (First version)_
 1. [Former Vice President and opposition leader Riek Machar says he will return to the capital Juba on April 18 to form a transitional government with President Salva Kiir Mayardit in the hopes of bringing peace to South Sudan after their acrimonious split ignited more than two years of war. ](/news/2016/04/7/former-vice-president-and-opposition-leader-riek-machar-says-he-will-return-to-the-capital-juba-on-april-18-to-form-a-transitional-governmen.md) _(Current version)_
 
 ### Related:

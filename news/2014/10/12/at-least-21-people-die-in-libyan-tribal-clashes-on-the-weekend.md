@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/12/at-least-21-people-die-in-libyan-tribal-clashes
 
 ### Changes:
 
-1. [Post-civil war violence in Libya: At least 21 people die in Libyan tribal clashes on the weekend. ](/news/2014/10/12/post-civil-war-violence-in-libya-at-least-21-people-die-in-libyan-tribal-clashes-on-the-weekend.md) _2017-08-27 03:41:23 (First version)_
+1. [Post-civil war violence in Libya: At least 21 people die in Libyan tribal clashes on the weekend. ](/news/2014/10/12/post-civil-war-violence-in-libya-at-least-21-people-die-in-libyan-tribal-clashes-on-the-weekend.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 21 people die in Libyan tribal clashes on the weekend. ](/news/2014/10/12/at-least-21-people-die-in-libyan-tribal-clashes-on-the-weekend.md) _(Current version)_
 
 ### Related:

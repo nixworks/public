@@ -5,11 +5,11 @@ Formats: [HTML](2010/01/9/index.html)  [JSON](2010/01/9/index.json)  [XML](2010/
 
 ##### United States
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: United States, Uganda, Air Uganda, Sudan_
+_Context: Air Uganda, Uganda, United States, Sudan_
 
 ##### Hellenic Parliament
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
-_Context: Hellenic Parliament, Athens_
+_Context: Athens, Hellenic Parliament_
 
 ##### Malaysia
 ### [A fourth church is attacked in Malaysia as a row over the use of the word "Allah" by non-Muslims deepens. ](/news/2010/01/9/a-fourth-church-is-attacked-in-malaysia-as-a-row-over-the-use-of-the-word-allah-by-non-muslims-deepens.md)
@@ -21,11 +21,11 @@ Devaluation and setting of double exchange rate is attempt to improve export lev
 
 ##### earthquake
 ### [A magnitude 6.5 earthquake strikes offshore near Eureka, California, with reports of damage and local power outages. ](/news/2010/01/9/a-magnitude-6-5-earthquake-strikes-offshore-near-eureka-california-with-reports-of-damage-and-local-power-outages.md)
-_Context: earthquake, Eureka, California, strikes offshore_
+_Context: Eureka, California, strikes offshore, earthquake_
 
 ##### German
 ### [Hundreds of flights are cancelled in Germany as the severe weather conditions across Europe continue. The government asks people to buy several days worth of food and retreat indoors for the rest of the week. ](/news/2010/01/9/hundreds-of-flights-are-cancelled-in-germany-as-the-severe-weather-conditions-across-europe-continue-the-government-asks-people-to-buy-seve.md)
-_Context: severe weather conditions, German, Europe_
+_Context: German, severe weather conditions, Europe_
 
 ##### Egypt
 ### [Egypt bans all future aid convoys to Gaza, following recent clashes with Viva Palestina. ](/news/2010/01/9/egypt-bans-all-future-aid-convoys-to-gaza-following-recent-clashes-with-viva-palestina.md)
@@ -57,7 +57,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Afghanistan
 ### [Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. ](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.md)
-_Context: Afghanistan, National Assembly, Hamid Karzai_
+_Context: Afghanistan, Hamid Karzai, National Assembly_
 
 ## [Previous Day...](/news/2010/01/8/index.md)
 

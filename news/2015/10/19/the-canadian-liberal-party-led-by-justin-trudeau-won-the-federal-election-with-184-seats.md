@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/19/the-canadian-liberal-party-led-by-justin-trudea
 
 ### Changes:
 
-1. [Canadian federal election, 2015: The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/canadian-federal-election-2015-the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md) _2017-08-27 03:43:24 (First version)_
+1. [Canadian federal election, 2015: The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/canadian-federal-election-2015-the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md) _2018-02-06 13:49:27 (First version)_
 1. [The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md) _(Current version)_
 
 ### Related:

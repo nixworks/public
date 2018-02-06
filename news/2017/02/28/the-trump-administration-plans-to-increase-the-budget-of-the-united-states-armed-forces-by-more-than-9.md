@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/28/the-trump-administration-plans-to-increase-the-
 
 ### Changes:
 
-1. [Presidency of Donald Trump: The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/presidency-of-donald-trump-the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md) _2017-08-27 03:47:54 (First version)_
+1. [Presidency of Donald Trump: The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/presidency-of-donald-trump-the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md) _2018-02-06 13:49:30 (First version)_
 1. [The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md) _(Current version)_
 
 ### Related:

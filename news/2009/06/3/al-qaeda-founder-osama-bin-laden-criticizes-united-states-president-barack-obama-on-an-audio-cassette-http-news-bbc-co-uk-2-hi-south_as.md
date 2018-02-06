@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-unit
 
 ### Changes:
 
-1. [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. ](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette.md) _2017-08-25 03:24:45 (First version)_
+1. [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. ](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette.md) _2018-02-06 13:49:19 (First version)_
 1. [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http:--news.bbc.co.uk-2-hi-south_asia-8081828.stm (BBC)] [http:--www.timesonline.co.uk-tol-news-world-middle_east-article6423668.ece "(The Times)"]](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette-http-news-bbc-co-uk-2-hi-south_as.md) _(Current version)_
 
 ### Related:

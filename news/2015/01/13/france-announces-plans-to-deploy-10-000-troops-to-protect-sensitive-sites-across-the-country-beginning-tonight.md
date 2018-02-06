@@ -16,7 +16,7 @@ France will deploy more than 10,000 soldiers across France in the wake of deadly
 
 ### Changes:
 
-1. ["Charlie Hebdo" shooting: France announces plans to deploy 10,000 troops to protect sensitive sites across the country beginning tonight. ](/news/2015/01/13/charlie-hebdo-shooting-france-announces-plans-to-deploy-10-000-troops-to-protect-sensitive-sites-across-the-country-beginning-tonight.md) _2017-08-27 03:41:47 (First version)_
+1. ["Charlie Hebdo" shooting: France announces plans to deploy 10,000 troops to protect sensitive sites across the country beginning tonight. ](/news/2015/01/13/charlie-hebdo-shooting-france-announces-plans-to-deploy-10-000-troops-to-protect-sensitive-sites-across-the-country-beginning-tonight.md) _2018-02-06 13:49:26 (First version)_
 1. [France announces plans to deploy 10,000 troops to protect sensitive sites across the country beginning tonight. ](/news/2015/01/13/france-announces-plans-to-deploy-10-000-troops-to-protect-sensitive-sites-across-the-country-beginning-tonight.md) _(Current version)_
 
 ### Related:

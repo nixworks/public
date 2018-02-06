@@ -16,8 +16,8 @@ VATICAN CITY -- Greeting a man he has called an “inspiration,” President Oba
 
 ### Changes:
 
-1. [Holy See-United States relations:President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/holy-seeaunited-states-relations-ppresident-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inaugur.md) _2017-08-25 03:40:13 (First version)_
-2. [Holy See-United States relations:: President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/holy-see-united-states-relations-president-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inaugu.md) _2017-08-27 03:40:31 (Update)_
+1. [Holy See-United States relations:President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/holy-seeaunited-states-relations-ppresident-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inaugur.md) _2018-02-06 13:49:26 (First version)_
+2. [Holy See-United States relations:: President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/holy-see-united-states-relations-president-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inaugu.md) _2018-02-06 13:49:26 (Update)_
 2. [President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/president-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inauguration.md) _(Current version)_
 
 ### Related:

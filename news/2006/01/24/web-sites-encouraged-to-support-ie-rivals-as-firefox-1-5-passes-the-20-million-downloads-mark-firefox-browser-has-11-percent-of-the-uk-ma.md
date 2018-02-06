@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/01/24/web-sites-encouraged-to-support-ie-rivals-as-fi
 
 ### Changes:
 
-1. [ Web sites encouraged to support IE rivals, as Firefox 1.5 passes the {{Nowrap|20 million}} downloads mark. Firefox browser has 11 percent of the UK market.](/news/2006/01/24/web-sites-encouraged-to-support-ie-rivals-as-firefox-1-5-passes-the-nowrap-20-million-downloads-mark-firefox-browser-has-11-percent-o.md) _2017-05-01 03:17:45 (First version)_
+1. [ Web sites encouraged to support IE rivals, as Firefox 1.5 passes the {{Nowrap|20 million}} downloads mark. Firefox browser has 11 percent of the UK market.](/news/2006/01/24/web-sites-encouraged-to-support-ie-rivals-as-firefox-1-5-passes-the-nowrap-20-million-downloads-mark-firefox-browser-has-11-percent-o.md) _2018-02-06 13:49:16 (First version)_
 1. [ Web sites encouraged to support IE rivals, as Firefox 1.5 passes the 20 million downloads mark. Firefox browser has 11 percent of the UK market.](/news/2006/01/24/web-sites-encouraged-to-support-ie-rivals-as-firefox-1-5-passes-the-20-million-downloads-mark-firefox-browser-has-11-percent-of-the-uk-ma.md) _(Current version)_
 
 ### Related:

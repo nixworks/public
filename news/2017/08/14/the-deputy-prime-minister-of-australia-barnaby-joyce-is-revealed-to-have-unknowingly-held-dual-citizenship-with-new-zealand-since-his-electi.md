@@ -16,7 +16,7 @@ New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyc
 
 ### Changes:
 
-1. [Politics of Australia: The Deputy Prime Minister of Australia Barnaby Joyce is revealed to have unknowingly held dual citizenship with New Zealand since his election, which may have rendered him ineligible for candidacy under section 44 of the Constitution of Australia. ](/news/2017/08/14/politics-of-australia-the-deputy-prime-minister-of-australia-barnaby-joyce-is-revealed-to-have-unknowingly-held-dual-citizenship-with-new-z.md) _2017-08-27 03:48:48 (First version)_
+1. [Politics of Australia: The Deputy Prime Minister of Australia Barnaby Joyce is revealed to have unknowingly held dual citizenship with New Zealand since his election, which may have rendered him ineligible for candidacy under section 44 of the Constitution of Australia. ](/news/2017/08/14/politics-of-australia-the-deputy-prime-minister-of-australia-barnaby-joyce-is-revealed-to-have-unknowingly-held-dual-citizenship-with-new-z.md) _2018-02-06 13:49:31 (First version)_
 1. [The Deputy Prime Minister of Australia Barnaby Joyce is revealed to have unknowingly held dual citizenship with New Zealand since his election, which may have rendered him ineligible for candidacy under section 44 of the Constitution of Australia. ](/news/2017/08/14/the-deputy-prime-minister-of-australia-barnaby-joyce-is-revealed-to-have-unknowingly-held-dual-citizenship-with-new-zealand-since-his-electi.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The European Space Agency says its comet lander, Philae, has woken up and contac
 
 ### Changes:
 
-1. [The European Space Agency's ''Philae'' spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer.md) _2017-08-25 03:42:14 (First version)_
-2. [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumov-gerasimenko-gets-closer-to.md) _2017-08-27 03:42:33 (Update)_
+1. [The European Space Agency's ''Philae'' spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer.md) _2018-02-06 13:49:27 (First version)_
+2. [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumov-gerasimenko-gets-closer-to.md) _2018-02-06 13:49:27 (Update)_
 2. [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer-to.md) _(Current version)_
 
 ### Related:

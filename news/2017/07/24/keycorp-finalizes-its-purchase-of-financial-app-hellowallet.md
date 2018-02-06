@@ -16,5 +16,5 @@ Formats: [HTML](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app
 
 ### Changes:
 
-1. [HelloWallet: KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/hellowallet-keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md) _2017-08-27 03:48:42 (First version)_
+1. [HelloWallet: KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/hellowallet-keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md) _2018-02-06 13:49:30 (First version)_
 1. [KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md) _(Current version)_

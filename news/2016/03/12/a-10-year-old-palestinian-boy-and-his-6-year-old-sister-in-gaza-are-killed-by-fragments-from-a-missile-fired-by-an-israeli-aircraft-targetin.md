@@ -17,7 +17,7 @@ Palestinian boy and his sister killed in retaliatory airstrike by Israel
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/israeli-palestinian-conflict-a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired.md) _2017-08-27 03:45:13 (First version)_
+1. [Israeli-Palestinian conflict: A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/israeli-palestinian-conflict-a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired.md) _2018-02-06 13:49:28 (First version)_
 1. [A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.md) _(Current version)_
 
 ### Related:

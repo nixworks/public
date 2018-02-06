@@ -16,7 +16,7 @@ Yasuo Fukuda, a mild-mannered political moderate, is known for his ability to bu
 
 ### Changes:
 
-1. [ Yasuo Fukuda, a political moderate, is elected by Japan-s governing Liberal Democratic Party to become the country-s next prime minister. ](/news/2007/09/23/yasuo-fukuda-a-political-moderate-is-elected-by-japan-s-governing-liberal-democratic-party-to-become-the-country-s-next-prime-ministe.md) _2017-08-27 03:20:59 (First version)_
+1. [ Yasuo Fukuda, a political moderate, is elected by Japan-s governing Liberal Democratic Party to become the country-s next prime minister. ](/news/2007/09/23/yasuo-fukuda-a-political-moderate-is-elected-by-japan-s-governing-liberal-democratic-party-to-become-the-country-s-next-prime-ministe.md) _2018-02-06 13:49:18 (First version)_
 1. [ Yasuo Fukuda, a political moderate, is elected by Japan's governing Liberal Democratic Party to become the country's next prime minister. ](/news/2007/09/23/yasuo-fukuda-a-political-moderate-is-elected-by-japanas-governing-liberal-democratic-party-to-become-the-countryas-next-prime-ministe.md) _(Current version)_
 
 ### Related:

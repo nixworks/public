@@ -16,8 +16,8 @@ Malaysian security forces killed 31 Filipino gunmen on Borneo Island, officials 
 
 ### Changes:
 
-1. [2013 Lahad Datu standoff:The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/2013-lahad-datu-standoff-pthe-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-forc.md) _2017-08-25 03:37:45 (First version)_
-2. [2013 Lahad Datu standoff:: The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/2013-lahad-datu-standoff-the-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-for.md) _2017-08-27 03:37:56 (Update)_
+1. [2013 Lahad Datu standoff:: The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/2013-lahad-datu-standoff-the-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-for.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Lahad Datu standoff:The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/2013-lahad-datu-standoff-pthe-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-forc.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/the-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-forces.md) _(Current version)_
 
 ### Related:

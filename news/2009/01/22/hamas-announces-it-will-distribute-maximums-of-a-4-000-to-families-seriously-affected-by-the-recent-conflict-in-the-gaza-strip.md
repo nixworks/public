@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-
 
 ### Changes:
 
-1. [ Hamas announces it will distribute maximums of -4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md) _2017-08-27 03:23:25 (First version)_
+1. [ Hamas announces it will distribute maximums of -4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md) _2018-02-06 13:49:18 (First version)_
 1. [ Hamas announces it will distribute maximums of EUR4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-a-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md) _(Current version)_
 
 ### Related:

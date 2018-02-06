@@ -16,7 +16,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ### Changes:
 
-1. [ The Space Shuttle ''Atlantis'' lands at Edwards Air Force Base in California, United States, after completing the final servicing mission to the Hubble Space Telescope. ](/news/2009/05/24/the-space-shuttle-atlantis-lands-at-edwards-air-force-base-in-california-united-states-after-completing-the-final-servicing-mission-t.md) _2017-08-25 03:24:40 (First version)_
+1. [ The Space Shuttle ''Atlantis'' lands at Edwards Air Force Base in California, United States, after completing the final servicing mission to the Hubble Space Telescope. ](/news/2009/05/24/the-space-shuttle-atlantis-lands-at-edwards-air-force-base-in-california-united-states-after-completing-the-final-servicing-mission-t.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Space Shuttle "Atlantis" lands at Edwards Air Force Base in California, United States, after completing the final servicing mission to the Hubble Space Telescope. ](/news/2009/05/24/the-space-shuttle-atlantis-lands-at-edwards-air-force-base-in-california-united-states-after-completing-the-final-servicing-mission-to.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/10/5/the-german-government-moves-to-back-troubled-hyp
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-p-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _2017-08-25 03:22:59 (First version)_
-2. [ Subprime mortgage crisis:: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _2017-08-27 03:22:53 (Update)_
+1. [ Subprime mortgage crisis:: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _2018-02-06 13:49:18 (First version)_
+2. [ Subprime mortgage crisis: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-p-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _2018-02-06 13:49:18 (Update)_
 2. [ The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md) _(Current version)_
 
 ### Related:

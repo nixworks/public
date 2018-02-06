@@ -15,7 +15,7 @@ Judge Theodore D. Chuang in Maryland said there was a &ldquo;convincing case&rdq
 
 ### Changes:
 
-1. [United States immigration ban: A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/united-states-immigration-ban-a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restr.md) _2017-08-27 03:47:59 (First version)_
+1. [United States immigration ban: A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/united-states-immigration-ban-a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restr.md) _2018-02-06 13:49:30 (First version)_
 1. [A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restraining-order-on-president-trump.md) _(Current version)_
 
 ### Related:

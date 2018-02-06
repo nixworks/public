@@ -16,7 +16,7 @@ Ousted Honduran president Manuel Zelaya said he expects the US administration to
 
 ### Changes:
 
-1. [ Ousted Honduran President Manuel Zelaya praises Chile for its -great image- as he meets its President Michelle Bachelet in Santiago and says he expects the United States to take "more drastic actions" against the de facto government of Roberto Micheletti. ](/news/2009/08/13/ousted-honduran-president-manuel-zelaya-praises-chile-for-its-great-image-as-he-meets-its-president-michelle-bachelet-in-santiago-and.md) _2017-08-27 03:25:21 (First version)_
+1. [ Ousted Honduran President Manuel Zelaya praises Chile for its -great image- as he meets its President Michelle Bachelet in Santiago and says he expects the United States to take "more drastic actions" against the de facto government of Roberto Micheletti. ](/news/2009/08/13/ousted-honduran-president-manuel-zelaya-praises-chile-for-its-great-image-as-he-meets-its-president-michelle-bachelet-in-santiago-and.md) _2018-02-06 13:49:19 (First version)_
 1. [ Ousted Honduran President Manuel Zelaya praises Chile for its "great image" as he meets its President Michelle Bachelet in Santiago and says he expects the United States to take "more drastic actions" against the de facto government of Roberto Micheletti. ](/news/2009/08/13/ousted-honduran-president-manuel-zelaya-praises-chile-for-its-agreat-imagea-as-he-meets-its-president-michelle-bachelet-in-santiago-and.md) _(Current version)_
 
 ### Related:

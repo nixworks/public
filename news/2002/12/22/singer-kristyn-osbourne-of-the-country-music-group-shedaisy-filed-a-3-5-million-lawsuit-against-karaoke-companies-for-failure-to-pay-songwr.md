@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/22/singer-kristyn-osbourne-of-the-country-music-gr
 
 ### Changes:
 
-1. [Singer Kristyn Osbourne of the country music group SHeDAISY filed a {{Nowrap|$3.5 million}} lawsuit against karaoke companies for failure to pay songwriters.](/news/2002/12/22/singer-kristyn-osbourne-of-the-country-music-group-shedaisy-filed-a-nowrap-3-5-million-lawsuit-against-karaoke-companies-for-failure-to.md) _2017-05-01 03:15:19 (First version)_
+1. [Singer Kristyn Osbourne of the country music group SHeDAISY filed a {{Nowrap|$3.5 million}} lawsuit against karaoke companies for failure to pay songwriters.](/news/2002/12/22/singer-kristyn-osbourne-of-the-country-music-group-shedaisy-filed-a-nowrap-3-5-million-lawsuit-against-karaoke-companies-for-failure-to.md) _2018-02-06 13:49:15 (First version)_
 1. [Singer Kristyn Osbourne of the country music group SHeDAISY filed a $3.5 million lawsuit against karaoke companies for failure to pay songwriters.](/news/2002/12/22/singer-kristyn-osbourne-of-the-country-music-group-shedaisy-filed-a-3-5-million-lawsuit-against-karaoke-companies-for-failure-to-pay-songwr.md) _(Current version)_
 
 ### Related:

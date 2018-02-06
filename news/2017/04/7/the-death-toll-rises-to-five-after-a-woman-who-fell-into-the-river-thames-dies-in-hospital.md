@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-f
 
 ### Changes:
 
-1. [2017 Westminster attack: The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/2017-westminster-attack-the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _2017-08-27 03:48:07 (First version)_
+1. [2017 Westminster attack: The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/2017-westminster-attack-the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _2018-02-06 13:49:30 (First version)_
 1. [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _(Current version)_
 
 ### Related:

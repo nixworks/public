@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/12/1/the-2010a2011-belgian-government-formation-draws
 
 ### Changes:
 
-1. [The 2010-2011 Belgian government formation draws to a close as six parties come to an agreement which will see PS leader Elio di Rupo become Prime Minister. The deal, however, still has to be approved by the parties' conventions, and the cabinet makeup is not yet defined. ](/news/2011/12/1/the-2010-2011-belgian-government-formation-draws-to-a-close-as-six-parties-come-to-an-agreement-which-will-see-ps-leader-elio-di-rupo-beco.md) _2017-08-27 03:34:43 (First version)_
+1. [The 2010-2011 Belgian government formation draws to a close as six parties come to an agreement which will see PS leader Elio di Rupo become Prime Minister. The deal, however, still has to be approved by the parties' conventions, and the cabinet makeup is not yet defined. ](/news/2011/12/1/the-2010-2011-belgian-government-formation-draws-to-a-close-as-six-parties-come-to-an-agreement-which-will-see-ps-leader-elio-di-rupo-beco.md) _2018-02-06 13:49:23 (First version)_
 1. [The 2010-2011 Belgian government formation draws to a close as six parties come to an agreement which will see PS leader Elio di Rupo become Prime Minister. The deal, however, still has to be approved by the parties' conventions, and the cabinet makeup is not yet defined. ](/news/2011/12/1/the-2010a2011-belgian-government-formation-draws-to-a-close-as-six-parties-come-to-an-agreement-which-will-see-ps-leader-elio-di-rupo-beco.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/05/28/united-states-senator-john-mccain-travels-to-sy
 
 ### Changes:
 
-1. [Syrian civil war:United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/syrian-civil-war-punited-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-in.md) _2017-08-25 03:38:44 (First version)_
-2. [Syrian civil war:: United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/syrian-civil-war-united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-i.md) _2017-08-27 03:38:57 (Update)_
+1. [Syrian civil war:: United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/syrian-civil-war-united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-i.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/syrian-civil-war-punited-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-in.md) _2018-02-06 13:49:24 (Update)_
 2. [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md) _(Current version)_
 
 ### Related:

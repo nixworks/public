@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/10/united-states-automaker-general-motors-announce
 
 ### Changes:
 
-1. [ Automotive industry crisis of 2008-2009: United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-p-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md) _2017-08-25 03:23:43 (First version)_
-2. [ Automotive industry crisis of 2008-2009:: United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md) _2017-08-27 03:23:34 (Update)_
+1. [ Automotive industry crisis of 2008-2009:: United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md) _2018-02-06 13:49:18 (First version)_
+2. [ Automotive industry crisis of 2008-2009: United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-p-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md) _2018-02-06 13:49:18 (Update)_
 2. [ United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforce-and-the-pay-of-remaining-employees.md) _(Current version)_
 
 ### Related:

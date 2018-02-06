@@ -16,7 +16,7 @@ Jordan says a raid in the city of Irbid that left seven suspected jihadist milit
 
 ### Changes:
 
-1. [Spillover of the Syrian Civil War: Jordan says an overnight raid on an ISIL cell in the city of Irbid has left seven militants and one security officer dead, with five others injured. Those killed were planning to blow up civilian and military targets in the country, according to the General Intelligence Directorate (GID). ](/news/2016/03/2/spillover-of-the-syrian-civil-war-jordan-says-an-overnight-raid-on-an-isil-cell-in-the-city-of-irbid-has-left-seven-militants-and-one-secur.md) _2017-08-27 03:45:06 (First version)_
+1. [Spillover of the Syrian Civil War: Jordan says an overnight raid on an ISIL cell in the city of Irbid has left seven militants and one security officer dead, with five others injured. Those killed were planning to blow up civilian and military targets in the country, according to the General Intelligence Directorate (GID). ](/news/2016/03/2/spillover-of-the-syrian-civil-war-jordan-says-an-overnight-raid-on-an-isil-cell-in-the-city-of-irbid-has-left-seven-militants-and-one-secur.md) _2018-02-06 13:49:28 (First version)_
 1. [Jordan says an overnight raid on an ISIL cell in the city of Irbid has left seven militants and one security officer dead, with five others injured. Those killed were planning to blow up civilian and military targets in the country, according to the General Intelligence Directorate (GID). ](/news/2016/03/2/jordan-says-an-overnight-raid-on-an-isil-cell-in-the-city-of-irbid-has-left-seven-militants-and-one-security-officer-dead-with-five-others.md) _(Current version)_
 
 ### Related:

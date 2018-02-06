@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-
 
 ### Changes:
 
-1. [Russia-s Gazprom and Ukraine-s Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russia-s-gazprom-and-ukraine-s-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _2017-08-27 03:31:21 (First version)_
+1. [Russia-s Gazprom and Ukraine-s Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russia-s-gazprom-and-ukraine-s-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _2018-02-06 13:49:21 (First version)_
 1. [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _(Current version)_
 
 ### Related:

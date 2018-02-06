@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/07/15/pro-taliban-militants-in-pakistan-s-north-wazir
 
 ### Changes:
 
-1. [ Waziristan conflict (July 2007-present): Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/waziristan-conflict-july-2007-present-p-pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with.md) _2017-08-25 03:20:11 (First version)_
-2. [ Waziristan conflict (July 2007-present):: Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/waziristan-conflict-july-2007-present-pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with.md) _2017-08-27 03:20:10 (Update)_
+1. [ Waziristan conflict (July 2007-present):: Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/waziristan-conflict-july-2007-present-pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with.md) _2018-02-06 13:49:17 (First version)_
+2. [ Waziristan conflict (July 2007-present): Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/waziristan-conflict-july-2007-present-p-pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with.md) _2018-02-06 13:49:17 (Update)_
 2. [ Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with-the-government.md) _(Current version)_
 
 ### Related:

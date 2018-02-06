@@ -17,7 +17,7 @@ Seven of those killed were in a Georgia trailer park apparently struck by a torn
 
 ### Changes:
 
-1. [January 21-22, 2017 tornado outbreak: Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/january-21-22-2017-tornado-outbreak-severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _2017-08-27 03:47:39 (First version)_
+1. [January 21-22, 2017 tornado outbreak: Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/january-21-22-2017-tornado-outbreak-severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _2018-02-06 13:49:30 (First version)_
 1. [Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _(Current version)_
 
 ### Related:

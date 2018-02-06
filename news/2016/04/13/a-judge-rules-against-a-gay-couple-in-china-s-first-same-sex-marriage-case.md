@@ -15,7 +15,7 @@ CHANGSHA, China (AP) — A judge has ruled against a gay couple in China&#039;s 
 
 ### Changes:
 
-1. [Recognition of same-sex unions in China: A judge rules against a gay couple in China's first same-sex marriage case. ](/news/2016/04/13/recognition-of-same-sex-unions-in-china-a-judge-rules-against-a-gay-couple-in-china-s-first-same-sex-marriage-case.md) _2017-08-27 03:45:37 (First version)_
+1. [Recognition of same-sex unions in China: A judge rules against a gay couple in China's first same-sex marriage case. ](/news/2016/04/13/recognition-of-same-sex-unions-in-china-a-judge-rules-against-a-gay-couple-in-china-s-first-same-sex-marriage-case.md) _2018-02-06 13:49:28 (First version)_
 1. [A judge rules against a gay couple in China's first same-sex marriage case. ](/news/2016/04/13/a-judge-rules-against-a-gay-couple-in-china-s-first-same-sex-marriage-case.md) _(Current version)_
 
 ### Related:

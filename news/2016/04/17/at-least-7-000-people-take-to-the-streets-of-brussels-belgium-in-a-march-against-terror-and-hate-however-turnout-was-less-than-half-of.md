@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/04/17/at-least-7-000-people-take-to-the-streets-of-br
 
 ### Changes:
 
-1. [Aftermath of the At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was.md) _2017-08-25 03:45:18 (First version)_
-2. [Aftermath of the 2016 Brussels bombings: At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-2016-brussels-bombings-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate.md) _2017-08-27 03:45:39 (Update)_
+1. [Aftermath of the At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was.md) _2018-02-06 13:49:28 (First version)_
+2. [Aftermath of the 2016 Brussels bombings: At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-2016-brussels-bombings-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate.md) _2018-02-06 13:49:28 (Update)_
 2. [At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was-less-than-half-of.md) _(Current version)_
 
 ### Related:

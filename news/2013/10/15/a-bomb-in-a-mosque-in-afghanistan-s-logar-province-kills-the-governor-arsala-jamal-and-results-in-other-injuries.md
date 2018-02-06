@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/10/15/a-bomb-in-a-mosque-in-afghanistan-s-logar-provi
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/war-in-afghanistan-2001apresent-pa-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other.md) _2017-08-25 03:39:23 (First version)_
-2. [War in Afghanistan (2001-present):: A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/war-in-afghanistan-2001-present-a-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-othe.md) _2017-08-27 03:39:40 (Update)_
+1. [War in Afghanistan (2001-present):A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/war-in-afghanistan-2001apresent-pa-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/war-in-afghanistan-2001-present-a-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-othe.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/a-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other-injuries.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ While army continues to strike Hizbullah, limit its weapons resources, outside g
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/2006-israel-lebanon-conflict-western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md) _2017-08-27 03:18:01 (First version)_
+1. [ 2006 Israel-Lebanon conflict: Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/2006-israel-lebanon-conflict-western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md) _2018-02-06 13:49:17 (First version)_
 1. [ Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md) _(Current version)_
 
 ### Related:

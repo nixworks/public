@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/11/after-eight-years-in-power-the-liberal-party-is
 
 ### Changes:
 
-1. [Western Australian state election, 2017: After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/western-australian-state-election-2017-after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-electio.md) _2017-08-27 03:47:58 (First version)_
+1. [Western Australian state election, 2017: After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/western-australian-state-election-2017-after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-electio.md) _2018-02-06 13:49:30 (First version)_
 1. [After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-election-mark-mcgowan-is-set-to-become-the-aust.md) _(Current version)_
 
 ### Related:

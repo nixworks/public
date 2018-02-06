@@ -16,7 +16,7 @@ A roadside bomb hit a Pakistani security vehicle and wounded 13 people on Thursd
 
 ### Changes:
 
-1. [Thirteen people are injured when a roadside bomb hits a Pakistani security vehicle in the southwestern city of Quetta, the same town where at least 74 were killed in a suicide bombing at a hospital on Monday. The police were escorting a judge, who was not injured. ](/news/2016/08/11/thirteen-people-are-injured-when-a-roadside-bomb-hits-a-pakistani-security-vehicle-in-the-southwestern-city-of-quetta-the-same-town-where.md) _2017-08-25 03:46:16 (First version)_
+1. [Thirteen people are injured when a roadside bomb hits a Pakistani security vehicle in the southwestern city of Quetta, the same town where at least 74 were killed in a suicide bombing at a hospital on Monday. The police were escorting a judge, who was not injured. ](/news/2016/08/11/thirteen-people-are-injured-when-a-roadside-bomb-hits-a-pakistani-security-vehicle-in-the-southwestern-city-of-quetta-the-same-town-where.md) _2018-02-06 13:49:29 (First version)_
 1. [Thirteen people are injured when a roadside bomb hits a Pakistani security vehicle in the southwestern city of Quetta, the same town where at least 74 were killed in a suicide bombing at a hospital on Monday. The police were escorting a judge, who was not injured. ](/news/2016/08/11/thirteen-people-are-injured-when-a-roadside-bomb-hits-a-pakistani-security-vehicle-in-the-southwestern-city-of-quetta-the-same-town-where-a.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2015/01/5/news-emerges-that-two-days-prior-hundreds-of-bok
 
 ### Changes:
 
-1. [Boko Haram: News emerges that two days prior hundreds of Boko Haram militants had overrun several towns in northeast Nigeria and captured the military base in Baga. [http:--www.wsj.com-articles-boko-haram-overruns-villages-and-army-base-in-northeast-nigeria-1420467667 "(Wall Street Journal)"]](/news/2015/01/5/boko-haram-news-emerges-that-two-days-prior-hundreds-of-boko-haram-militants-had-overrun-several-towns-in-northeast-nigeria-and-captured-th.md) _2017-08-27 03:41:44 (First version)_
+1. [Boko Haram: News emerges that two days prior hundreds of Boko Haram militants had overrun several towns in northeast Nigeria and captured the military base in Baga. [http:--www.wsj.com-articles-boko-haram-overruns-villages-and-army-base-in-northeast-nigeria-1420467667 "(Wall Street Journal)"]](/news/2015/01/5/boko-haram-news-emerges-that-two-days-prior-hundreds-of-boko-haram-militants-had-overrun-several-towns-in-northeast-nigeria-and-captured-th.md) _2018-02-06 13:49:26 (First version)_
 1. [News emerges that two days prior hundreds of Boko Haram militants had overrun several towns in northeast Nigeria and captured the military base in Baga. [https:--www.wsj.com-articles-boko-haram-overruns-villages-and-army-base-in-northeast-nigeria-1420467667 "(Wall Street Journal)"]](/news/2015/01/5/news-emerges-that-two-days-prior-hundreds-of-boko-haram-militants-had-overrun-several-towns-in-northeast-nigeria-and-captured-the-military-b.md) _(Current version)_
 
 ### Related:

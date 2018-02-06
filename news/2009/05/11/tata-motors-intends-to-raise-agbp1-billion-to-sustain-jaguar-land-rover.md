@@ -16,7 +16,7 @@ Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 bil
 
 ### Changes:
 
-1. [ Tata Motors intends to raise PS1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-aps1-billion-to-sustain-jaguar-land-rover.md) _2017-08-25 03:24:32 (First version)_
+1. [ Tata Motors intends to raise PS1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-aps1-billion-to-sustain-jaguar-land-rover.md) _2018-02-06 13:49:19 (First version)_
 1. [ Tata Motors intends to raise GBP1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-agbp1-billion-to-sustain-jaguar-land-rover.md) _(Current version)_
 
 ### Related:

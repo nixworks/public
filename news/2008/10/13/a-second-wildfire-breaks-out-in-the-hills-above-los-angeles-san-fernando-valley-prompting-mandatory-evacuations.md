@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/10/13/a-second-wildfire-breaks-out-in-the-hills-above
 
 ### Changes:
 
-1. [ Summer 2008 California wildfires: A second wildfire breaks out in the hills above Los Angeles' San Fernando Valley prompting mandatory evacuations. ](/news/2008/10/13/summer-2008-california-wildfires-a-second-wildfire-breaks-out-in-the-hills-above-los-angeles-san-fernando-valley-prompting-mandatory-evac.md) _2017-08-27 03:22:56 (First version)_
+1. [ Summer 2008 California wildfires: A second wildfire breaks out in the hills above Los Angeles' San Fernando Valley prompting mandatory evacuations. ](/news/2008/10/13/summer-2008-california-wildfires-a-second-wildfire-breaks-out-in-the-hills-above-los-angeles-san-fernando-valley-prompting-mandatory-evac.md) _2018-02-06 13:49:18 (First version)_
 1. [ A second wildfire breaks out in the hills above Los Angeles' San Fernando Valley prompting mandatory evacuations. ](/news/2008/10/13/a-second-wildfire-breaks-out-in-the-hills-above-los-angeles-san-fernando-valley-prompting-mandatory-evacuations.md) _(Current version)_
 
 ### Related:

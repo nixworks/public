@@ -16,8 +16,8 @@ The Pentagon is yet to officially acknowledge the downing of a surveillance dron
 
 ### Changes:
 
-1. [American-led intervention in Syria:Syrian Air Defense Force downs an American MQ-1 Predator surveillance drone operating in ISIL-free province of Latakia. ](/news/2015/03/17/american-led-intervention-in-syria-psyrian-air-defense-force-downs-an-american-mq-1-predator-surveillance-drone-operating-in-isil-free-provi.md) _2017-08-25 03:41:47 (First version)_
-2. [American-led intervention in Syria:: Syrian Air Defense Force downs an American MQ-1 Predator surveillance drone operating in ISIL-free province of Latakia. ](/news/2015/03/17/american-led-intervention-in-syria-syrian-air-defense-force-downs-an-american-mq-1-predator-surveillance-drone-operating-in-isil-free-prov.md) _2017-08-27 03:42:06 (Update)_
+1. [American-led intervention in Syria:: Syrian Air Defense Force downs an American MQ-1 Predator surveillance drone operating in ISIL-free province of Latakia. ](/news/2015/03/17/american-led-intervention-in-syria-syrian-air-defense-force-downs-an-american-mq-1-predator-surveillance-drone-operating-in-isil-free-prov.md) _2018-02-06 13:49:26 (First version)_
+2. [American-led intervention in Syria:Syrian Air Defense Force downs an American MQ-1 Predator surveillance drone operating in ISIL-free province of Latakia. ](/news/2015/03/17/american-led-intervention-in-syria-psyrian-air-defense-force-downs-an-american-mq-1-predator-surveillance-drone-operating-in-isil-free-provi.md) _2018-02-06 13:49:26 (Update)_
 2. [Syrian Air Defense Force downs an American MQ-1 Predator surveillance drone operating in ISIL-free province of Latakia. ](/news/2015/03/17/syrian-air-defense-force-downs-an-american-mq-1-predator-surveillance-drone-operating-in-isil-free-province-of-latakia.md) _(Current version)_
 
 ### Related:

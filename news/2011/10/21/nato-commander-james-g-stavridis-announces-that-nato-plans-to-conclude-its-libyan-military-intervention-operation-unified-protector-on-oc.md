@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/10/21/nato-commander-james-g-stavridis-announces-that
 
 ### Changes:
 
-1. [Libyan Civil War:NATO commander James G. Stavridis announces that NATO plans to conclude its Libyan military intervention, Operation Unified Protector, on October 31. ](/news/2011/10/21/libyan-civil-war-pnato-commander-james-g-stavridis-announces-that-nato-plans-to-conclude-its-libyan-military-intervention-operation-unifie.md) _2017-08-25 03:34:21 (First version)_
-2. [Libyan Civil War:: NATO commander James G. Stavridis announces that NATO plans to conclude its Libyan military intervention, Operation Unified Protector, on October 31. ](/news/2011/10/21/libyan-civil-war-nato-commander-james-g-stavridis-announces-that-nato-plans-to-conclude-its-libyan-military-intervention-operation-unifi.md) _2017-08-27 03:34:30 (Update)_
+1. [Libyan Civil War:NATO commander James G. Stavridis announces that NATO plans to conclude its Libyan military intervention, Operation Unified Protector, on October 31. ](/news/2011/10/21/libyan-civil-war-pnato-commander-james-g-stavridis-announces-that-nato-plans-to-conclude-its-libyan-military-intervention-operation-unifie.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: NATO commander James G. Stavridis announces that NATO plans to conclude its Libyan military intervention, Operation Unified Protector, on October 31. ](/news/2011/10/21/libyan-civil-war-nato-commander-james-g-stavridis-announces-that-nato-plans-to-conclude-its-libyan-military-intervention-operation-unifi.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO commander James G. Stavridis announces that NATO plans to conclude its Libyan military intervention, Operation Unified Protector, on October 31. ](/news/2011/10/21/nato-commander-james-g-stavridis-announces-that-nato-plans-to-conclude-its-libyan-military-intervention-operation-unified-protector-on-oc.md) _(Current version)_
 
 ### Related:

@@ -19,6 +19,6 @@ The number killed in Wednesday&#039;s violence grows to 525, as the US says its 
 
 ### Changes:
 
-1. [Aftermath of 2013 Egyptian coup d'etat:The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/aftermath-of-2013-egyptian-coup-d-a-c-tat-pthe-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md) _2017-08-25 03:39:09 (First version)_
-2. [Aftermath of 2013 Egyptian coup d'etat:: The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/aftermath-of-2013-egyptian-coup-d-a-c-tat-the-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md) _2017-08-27 03:39:25 (Update)_
+1. [Aftermath of 2013 Egyptian coup d'etat:: The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/aftermath-of-2013-egyptian-coup-d-a-c-tat-the-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md) _2018-02-06 13:49:25 (First version)_
+2. [Aftermath of 2013 Egyptian coup d'etat:The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/aftermath-of-2013-egyptian-coup-d-a-c-tat-pthe-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/the-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md) _(Current version)_

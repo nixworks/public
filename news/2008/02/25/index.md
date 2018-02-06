@@ -5,15 +5,15 @@ Formats: [HTML](2008/02/25/index.html)  [JSON](2008/02/25/index.json)  [XML](200
 
 ##### New York Philharmonic
 ### [ The New York Philharmonic becomes the first American musical ensemble to perform in North Korea. ](/news/2008/02/25/the-new-york-philharmonic-becomes-the-first-american-musical-ensemble-to-perform-in-north-korea.md)
-_Context: North Korea, musical ensemble, United States, New York Philharmonic_
+_Context: North Korea, New York Philharmonic, United States, musical ensemble_
 
 ##### suicide bombing
 ### [ A suicide bomber in Rawalpindi, Pakistan, kills 8 people including Pakistan's Surgeon General, Lieutenant General Mushtaq Ahmed Baig. ](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8-people-including-pakistan-s-surgeon-general-lieutenant-general-mushtaq-ahmed-baig.md)
-_Context: Rawalpindi, Pakistan, Mushtaq Ahmed Baig, suicide bombing, Lieutenant General_
+_Context: Pakistan, Rawalpindi, Lieutenant General, suicide bombing, Mushtaq Ahmed Baig_
 
 ##### Chairman
 ### [ Chairman of the United States Federal Communications Commission Kevin Martin says he is "ready, willing and able," to prevent broadband Internet service providers from interfering with the speed of their subscribers' Internet access. ](/news/2008/02/25/chairman-of-the-united-states-federal-communications-commission-kevin-martin-says-he-is-ready-willing-and-able-to-prevent-broadband-int.md)
-_Context: Chairman, FCC's, Internet service provider, Internet access, Kevin Martin, Internet, prevent, broadband, United States_
+_Context: broadband, Chairman, prevent, United States, Kevin Martin, Internet access, Internet, Internet service provider, FCC's_
 
 ##### Hungary
 ### [ Hungary agrees to join the South Stream gas pipeline project. ](/news/2008/02/25/hungary-agrees-to-join-the-south-stream-gas-pipeline-project.md)
@@ -21,7 +21,7 @@ Russia recruited Hungary tojoin its South Stream natural gas pipeline on Monday,
 
 ##### Lee Myung-bak
 ### [ Lee Myung-bak is sworn in as President of South Korea. ](/news/2008/02/25/lee-myung-bak-is-sworn-in-as-president-of-south-korea.md)
-_Context: Lee Myung-bak, South Korea, South Korean President_
+_Context: South Korean President, Lee Myung-bak, South Korea_
 
 ## [Previous Day...](/news/2008/02/24/index.md)
 

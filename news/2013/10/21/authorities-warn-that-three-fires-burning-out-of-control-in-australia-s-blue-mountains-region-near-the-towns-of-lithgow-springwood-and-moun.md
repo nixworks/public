@@ -16,8 +16,8 @@ NSW is in a state of emergency as authorities warn of an unparalleled fire emerg
 
 ### Changes:
 
-1. [2013 New South Wales bushfires:Authorities warn that three fires burning out of control in Australia's Blue Mountains region near the towns of Lithgow, Springwood and Mount Victoria could merge and form a "megafire". ](/news/2013/10/21/2013-new-south-wales-bushfires-pauthorities-warn-that-three-fires-burning-out-of-control-in-australia-s-blue-mountains-region-near-the-towns.md) _2017-08-25 03:39:25 (First version)_
-2. [2013 New South Wales bushfires:: Authorities warn that three fires burning out of control in Australia's Blue Mountains region near the towns of Lithgow, Springwood and Mount Victoria could merge and form a "megafire". ](/news/2013/10/21/2013-new-south-wales-bushfires-authorities-warn-that-three-fires-burning-out-of-control-in-australia-s-blue-mountains-region-near-the-town.md) _2017-08-27 03:39:42 (Update)_
+1. [2013 New South Wales bushfires:Authorities warn that three fires burning out of control in Australia's Blue Mountains region near the towns of Lithgow, Springwood and Mount Victoria could merge and form a "megafire". ](/news/2013/10/21/2013-new-south-wales-bushfires-pauthorities-warn-that-three-fires-burning-out-of-control-in-australia-s-blue-mountains-region-near-the-towns.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 New South Wales bushfires:: Authorities warn that three fires burning out of control in Australia's Blue Mountains region near the towns of Lithgow, Springwood and Mount Victoria could merge and form a "megafire". ](/news/2013/10/21/2013-new-south-wales-bushfires-authorities-warn-that-three-fires-burning-out-of-control-in-australia-s-blue-mountains-region-near-the-town.md) _2018-02-06 13:49:25 (Update)_
 2. [Authorities warn that three fires burning out of control in Australia's Blue Mountains region near the towns of Lithgow, Springwood and Mount Victoria could merge and form a "megafire". ](/news/2013/10/21/authorities-warn-that-three-fires-burning-out-of-control-in-australia-s-blue-mountains-region-near-the-towns-of-lithgow-springwood-and-moun.md) _(Current version)_
 
 ### Related:

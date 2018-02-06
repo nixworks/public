@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/04/15/the-supreme-federal-court-of-brazil-rejects-a-b
 
 ### Changes:
 
-1. [Impeachment process against Dilma Rousseff: The Supreme Federal Court of Brazil rejects a bid by the Attorney General to suspend a vote in the parliament to begin impeachment procedures against the President Dilma Rousseff. ](/news/2016/04/15/impeachment-process-against-dilma-rousseff-the-supreme-federal-court-of-brazil-rejects-a-bid-by-the-attorney-general-to-suspend-a-vote-in-t.md) _2017-08-27 03:45:38 (First version)_
+1. [Impeachment process against Dilma Rousseff: The Supreme Federal Court of Brazil rejects a bid by the Attorney General to suspend a vote in the parliament to begin impeachment procedures against the President Dilma Rousseff. ](/news/2016/04/15/impeachment-process-against-dilma-rousseff-the-supreme-federal-court-of-brazil-rejects-a-bid-by-the-attorney-general-to-suspend-a-vote-in-t.md) _2018-02-06 13:49:28 (First version)_
 1. [The Supreme Federal Court of Brazil rejects a bid by the Attorney General to suspend a vote in the parliament to begin impeachment procedures against the President Dilma Rousseff. ](/news/2016/04/15/the-supreme-federal-court-of-brazil-rejects-a-bid-by-the-attorney-general-to-suspend-a-vote-in-the-parliament-to-begin-impeachment-procedure.md) _(Current version)_
 
 ### Related:

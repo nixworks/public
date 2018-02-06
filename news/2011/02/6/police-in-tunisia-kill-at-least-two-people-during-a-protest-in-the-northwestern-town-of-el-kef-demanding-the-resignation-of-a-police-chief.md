@@ -20,7 +20,7 @@ Tunisian police kill at least two people in the north-western town of Kef, durin
 
 ### Changes:
 
-1. [2010-2011 Tunisian uprising: Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/2010-2011-tunisian-uprising-police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the.md) _2017-08-27 03:32:12 (First version)_
+1. [2010-2011 Tunisian uprising: Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/2010-2011-tunisian-uprising-police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the.md) _2018-02-06 13:49:22 (First version)_
 1. [Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the-resignation-of-a-police-chief.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ Former MK Issam Mahoul rejects Nasrallah&#39;s call to Haifa&#39;s Arab populati
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Israeli Arab officials reject Hassan Nasrallah's call to leave Haifa metropolis, arguing against the attacks on civilian populations. ](/news/2006/08/9/2006-israel-lebanon-conflict-p-israeli-arab-officials-reject-hassan-nasrallah-s-call-to-leave-haifa-metropolis-arguing-against-the-attacks.md) _2017-08-25 03:18:10 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Israeli Arab officials reject Hassan Nasrallah's call to leave Haifa metropolis, arguing against the attacks on civilian populations. ](/news/2006/08/9/2006-israel-lebanon-conflict-israeli-arab-officials-reject-hassan-nasrallah-s-call-to-leave-haifa-metropolis-arguing-against-the-attacks.md) _2017-08-27 03:18:07 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Israeli Arab officials reject Hassan Nasrallah's call to leave Haifa metropolis, arguing against the attacks on civilian populations. ](/news/2006/08/9/2006-israel-lebanon-conflict-p-israeli-arab-officials-reject-hassan-nasrallah-s-call-to-leave-haifa-metropolis-arguing-against-the-attacks.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Israeli Arab officials reject Hassan Nasrallah's call to leave Haifa metropolis, arguing against the attacks on civilian populations. ](/news/2006/08/9/2006-israel-lebanon-conflict-israeli-arab-officials-reject-hassan-nasrallah-s-call-to-leave-haifa-metropolis-arguing-against-the-attacks.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israeli Arab officials reject Hassan Nasrallah's call to leave Haifa metropolis, arguing against the attacks on civilian populations. ](/news/2006/08/9/israeli-arab-officials-reject-hassan-nasrallah-s-call-to-leave-haifa-metropolis-arguing-against-the-attacks-on-civilian-populations.md) _(Current version)_
 
 ### Related:

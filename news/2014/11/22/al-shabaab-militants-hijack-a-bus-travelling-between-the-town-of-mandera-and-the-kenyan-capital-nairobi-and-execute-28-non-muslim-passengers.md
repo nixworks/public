@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/22/al-shabaab-militants-hijack-a-bus-travelling-be
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab militants hijack a bus travelling between the town of Mandera and the Kenyan capital Nairobi and execute 28 non-Muslim passengers. ](/news/2014/11/22/war-in-somalia-2009-present-al-shabaab-militants-hijack-a-bus-travelling-between-the-town-of-mandera-and-the-kenyan-capital-nairobi-and.md) _2017-08-27 03:41:32 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab militants hijack a bus travelling between the town of Mandera and the Kenyan capital Nairobi and execute 28 non-Muslim passengers. ](/news/2014/11/22/war-in-somalia-2009-present-al-shabaab-militants-hijack-a-bus-travelling-between-the-town-of-mandera-and-the-kenyan-capital-nairobi-and.md) _2018-02-06 13:49:26 (First version)_
 1. [Al-Shabaab militants hijack a bus travelling between the town of Mandera and the Kenyan capital Nairobi and execute 28 non-Muslim passengers. ](/news/2014/11/22/al-shabaab-militants-hijack-a-bus-travelling-between-the-town-of-mandera-and-the-kenyan-capital-nairobi-and-execute-28-non-muslim-passengers.md) _(Current version)_
 
 ### Related:

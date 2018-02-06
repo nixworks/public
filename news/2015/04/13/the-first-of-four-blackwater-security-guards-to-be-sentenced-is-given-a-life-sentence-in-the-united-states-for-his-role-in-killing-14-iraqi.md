@@ -15,7 +15,7 @@ Security contractors face decades in prison for the 2007 shootings in Baghdad&rs
 
 ### Changes:
 
-1. [Blackwater Baghdad shootings: The first of four Blackwater security guards to be sentenced is given a life sentence in the United States for his role in killing 14 Iraqi civilians in Baghdad in 2007. ](/news/2015/04/13/blackwater-baghdad-shootings-the-first-of-four-blackwater-security-guards-to-be-sentenced-is-given-a-life-sentence-in-the-united-states-for.md) _2017-08-27 03:42:11 (First version)_
+1. [Blackwater Baghdad shootings: The first of four Blackwater security guards to be sentenced is given a life sentence in the United States for his role in killing 14 Iraqi civilians in Baghdad in 2007. ](/news/2015/04/13/blackwater-baghdad-shootings-the-first-of-four-blackwater-security-guards-to-be-sentenced-is-given-a-life-sentence-in-the-united-states-for.md) _2018-02-06 13:49:27 (First version)_
 1. [The first of four Blackwater security guards to be sentenced is given a life sentence in the United States for his role in killing 14 Iraqi civilians in Baghdad in 2007. ](/news/2015/04/13/the-first-of-four-blackwater-security-guards-to-be-sentenced-is-given-a-life-sentence-in-the-united-states-for-his-role-in-killing-14-iraqi.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Tornadoes and severe thunderstorms killed at least five people in Texas and Arka
 
 ### Changes:
 
-1. [Tornadoes of 2015: At least 36 people are hospitalised and 30 per cent of the town of Van, Texas is damaged by a tornado. ](/news/2015/05/10/tornadoes-of-2015-at-least-36-people-are-hospitalised-and-30-per-cent-of-the-town-of-van-texas-is-damaged-by-a-tornado.md) _2017-08-27 03:42:17 (First version)_
+1. [Tornadoes of 2015: At least 36 people are hospitalised and 30 per cent of the town of Van, Texas is damaged by a tornado. ](/news/2015/05/10/tornadoes-of-2015-at-least-36-people-are-hospitalised-and-30-per-cent-of-the-town-of-van-texas-is-damaged-by-a-tornado.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 36 people are hospitalised and 30 per cent of the town of Van, Texas is damaged by a tornado. ](/news/2015/05/10/at-least-36-people-are-hospitalised-and-30-per-cent-of-the-town-of-van-texas-is-damaged-by-a-tornado.md) _(Current version)_
 
 ### Related:

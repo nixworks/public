@@ -11,8 +11,8 @@ Formats: [HTML](/news/2013/12/18/high-ranking-sinaloa-cartel-leader-gonzalo-inzu
 
 ### Changes:
 
-1. [Mexican Drug War:High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. ](/news/2013/12/18/mexican-drug-war-phigh-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasco.md) _2017-08-25 03:39:43 (First version)_
-2. [Mexican Drug War:: High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http:--www.debate.com.mx-eldebate-noticias-default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/mexican-drug-war-high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasc.md) _2017-08-27 03:40:01 (Update)_
+1. [Mexican Drug War:High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. ](/news/2013/12/18/mexican-drug-war-phigh-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasco.md) _2018-02-06 13:49:25 (First version)_
+2. [Mexican Drug War:: High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http:--www.debate.com.mx-eldebate-noticias-default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/mexican-drug-war-high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasc.md) _2018-02-06 13:49:25 (Update)_
 2. [High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http:--www.debate.com.mx-eldebate-noticias-default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasco-sonora-http.md) _(Current version)_
 
 ### Related:

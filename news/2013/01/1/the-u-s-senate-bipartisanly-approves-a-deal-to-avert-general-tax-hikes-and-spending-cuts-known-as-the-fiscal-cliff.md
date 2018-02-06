@@ -21,8 +21,8 @@ The US Senate approves a deal to avert a combination of tax hikes and spending c
 
 ### Changes:
 
-1. [United States "fiscal cliff" debate:The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-pthe-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md) _2017-08-25 03:37:10 (First version)_
-2. [United States "fiscal cliff" debate:: The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-the-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md) _2017-08-27 03:37:21 (Update)_
+1. [United States "fiscal cliff" debate:: The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-the-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md) _2018-02-06 13:49:24 (First version)_
+2. [United States "fiscal cliff" debate:The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-pthe-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md) _2018-02-06 13:49:24 (Update)_
 2. [The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/the-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the-fiscal-cliff.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-
 
 ### Changes:
 
-1. [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. ](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california.md) _2017-08-25 03:40:16 (First version)_
+1. [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. ](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 10 people are killed after a tour bus collides with a FedEx truck on Interstate 5 near Orland, California. [http:--www.cnn.com-2014-04-10-us-california-bus-crash-index.html?hpt=hp_t2 (CNN)] [https:--www.usatoday.com-story-news-nation-2014-04-10-calif-crash-9-killed-7579275- "(USA Today)"]](/news/2014/04/10/at-least-10-people-are-killed-after-a-tour-bus-collides-with-a-fedex-truck-on-interstate-5-near-orland-california-http-www-cnn-com-2014.md) _(Current version)_
 
 ### Related:

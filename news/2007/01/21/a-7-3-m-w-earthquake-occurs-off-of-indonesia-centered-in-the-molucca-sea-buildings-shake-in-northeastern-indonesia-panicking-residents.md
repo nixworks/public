@@ -18,7 +18,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-mw-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents-b.md) _2017-10-02 03:21:44 (First version)_
+1. [ A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-mw-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents-b.md) _2018-02-06 13:49:17 (First version)_
 1. [ A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-m-w-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents.md) _(Current version)_
 
 ### Related:

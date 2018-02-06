@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/10/27/the-family-of-disgraced-disc-jockey-and-televis
 
 ### Changes:
 
-1. [Jimmy Savile sexual abuse scandal:The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-pthe-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statemen.md) _2017-08-25 03:36:45 (First version)_
-2. [Jimmy Savile sexual abuse scandal:: The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-stateme.md) _2017-08-27 03:36:55 (Update)_
+1. [Jimmy Savile sexual abuse scandal:: The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-stateme.md) _2018-02-06 13:49:24 (First version)_
+2. [Jimmy Savile sexual abuse scandal:The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-pthe-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statemen.md) _2018-02-06 13:49:24 (Update)_
 2. [The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statement-since-his-reputation-was-destroye.md) _(Current version)_
 
 ### Related:

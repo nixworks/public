@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/07/10/michel-brunet-a-paleontologist-at-the-universit
 
 ### Changes:
 
-1. [ Michel Brunet, a paleontologist at the University of Poitiers, France, announced in the journal ''Nature'' that a 7-million-year-old skull found in the desert of Chad is the earliest hominid fossil ever found. But he was immediately met by a firestorm of criticism from other scientists who claim that it is merely the skull of an ape, possibly a proto-gorilla.](/news/2002/07/10/michel-brunet-a-paleontologist-at-the-university-of-poitiers-france-announced-in-the-journal-nature-that-a-7-million-year-old-skull.md) _2017-08-25 03:15:13 (First version)_
+1. [ Michel Brunet, a paleontologist at the University of Poitiers, France, announced in the journal ''Nature'' that a 7-million-year-old skull found in the desert of Chad is the earliest hominid fossil ever found. But he was immediately met by a firestorm of criticism from other scientists who claim that it is merely the skull of an ape, possibly a proto-gorilla.](/news/2002/07/10/michel-brunet-a-paleontologist-at-the-university-of-poitiers-france-announced-in-the-journal-nature-that-a-7-million-year-old-skull.md) _2018-02-06 13:49:15 (First version)_
 1. [ Michel Brunet, a paleontologist at the University of Poitiers, France, announced in the journal "Nature" that a 7-million-year-old skull found in the desert of Chad is the earliest hominid fossil ever found. But he was immediately met by a firestorm of criticism from other scientists who claim that it is merely the skull of an ape, possibly a proto-gorilla.](/news/2002/07/10/michel-brunet-a-paleontologist-at-the-university-of-poitiers-france-announced-in-the-journal-nature-that-a-7-million-year-old-skull-fo.md) _(Current version)_
 
 ### Related:

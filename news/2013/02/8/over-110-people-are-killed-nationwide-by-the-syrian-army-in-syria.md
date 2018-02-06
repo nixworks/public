@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/02/8/over-110-people-are-killed-nationwide-by-the-syr
 
 ### Changes:
 
-1. [Syrian civil war:Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-pover-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md) _2017-08-25 03:37:28 (First version)_
-2. [Syrian civil war:: Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md) _2017-08-27 03:37:38 (Update)_
+1. [Syrian civil war:Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-pover-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md) _2018-02-06 13:49:24 (Update)_
 2. [Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md) _(Current version)_
 
 ### Related:

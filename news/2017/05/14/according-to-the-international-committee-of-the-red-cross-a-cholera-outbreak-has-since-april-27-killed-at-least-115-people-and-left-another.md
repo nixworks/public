@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/05/14/according-to-the-international-committee-of-the
 
 ### Changes:
 
-1. [According to the International Committee of the Red Cross, a cholera outbreak has killed at least 115 people and left another 8,500 ill across Yemen since April 27. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-killed-at-least-115-people-and-left-another-8-500-ill-acro.md) _2017-05-14 17:30:06 (First version)_
-2. [Yemeni Civil War: According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/yemeni-civil-war-according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-peopl.md) _2017-08-27 03:48:20 (Update)_
+1. [Yemeni Civil War: According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/yemeni-civil-war-according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-peopl.md) _2018-02-06 13:49:30 (First version)_
+2. [According to the International Committee of the Red Cross, a cholera outbreak has killed at least 115 people and left another 8,500 ill across Yemen since April 27. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-killed-at-least-115-people-and-left-another-8-500-ill-acro.md) _2018-02-06 13:49:30 (Update)_
 2. [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md) _(Current version)_
 
 ### Related:

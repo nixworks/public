@@ -23,7 +23,7 @@ Nigeria, Cameroon and Niger claim to have made gains in pushing back or capturin
 ### [A winter storm warning is in place for Washington, D.C. and the American states of Virginia and Maryland with schools closed and transport advisories in place. ](/news/2015/02/16/a-winter-storm-warning-is-in-place-for-washington-d-c-and-the-american-states-of-virginia-and-maryland-with-schools-closed-and-transport-a.md)
 Roads and sidewalks will refreeze overnight, and several D.C. area school districts have already decided to stay closed Wednesday.
 
-##### Turkish
+##### Turkey
 ### [A heavy snow storm hits Turkey causing disruption to travel for several days. ](/news/2015/02/16/a-heavy-snow-storm-hits-turkey-causing-disruption-to-travel-for-several-days.md)
 Barely a week after the last snowstorm pounded Turkey, another will cause travel problems through Thursday.
 

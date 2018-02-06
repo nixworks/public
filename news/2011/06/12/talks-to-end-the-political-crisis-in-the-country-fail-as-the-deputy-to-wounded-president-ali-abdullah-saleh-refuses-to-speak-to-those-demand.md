@@ -17,8 +17,8 @@ Over in Yemen, At least 40 people have been killed in a battle between Yemeni so
 
 ### Changes:
 
-1. [2011 Yemeni uprising:Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/2011-yemeni-uprising-ptalks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-to.md) _2017-08-25 03:33:28 (First version)_
-2. [2011 Yemeni uprising:: Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/2011-yemeni-uprising-talks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-t.md) _2017-08-27 03:33:36 (Update)_
+1. [2011 Yemeni uprising:: Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/2011-yemeni-uprising-talks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-t.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni uprising:Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/2011-yemeni-uprising-ptalks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-to.md) _2018-02-06 13:49:22 (Update)_
 2. [Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/talks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-to-speak-to-those-demand.md) _(Current version)_
 
 ### Related:

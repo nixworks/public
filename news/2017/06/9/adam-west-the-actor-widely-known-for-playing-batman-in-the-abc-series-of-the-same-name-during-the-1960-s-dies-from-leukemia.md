@@ -16,7 +16,7 @@ The US actor struggled to find work after starring as the Caped Crusader in the 
 
 ### Changes:
 
-1. [Cinema of the United States: Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/cinema-of-the-united-states-adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies.md) _2017-08-27 03:48:27 (First version)_
+1. [Cinema of the United States: Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/cinema-of-the-united-states-adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies.md) _2018-02-06 13:49:30 (First version)_
 1. [Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies-from-leukemia.md) _(Current version)_
 
 ### Related:

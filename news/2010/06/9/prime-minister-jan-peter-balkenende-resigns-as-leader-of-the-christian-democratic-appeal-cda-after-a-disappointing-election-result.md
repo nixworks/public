@@ -19,8 +19,8 @@ Figures show Liberal and Labour parties taking 31 seats with far-right Freedom P
 
 ### Changes:
 
-1. [Dutch general election of 2010:Prime Minister Jan Peter Balkenende resigns as leader of the Christian Democratic Appeal (CDA) after a disappointing election result. ](/news/2010/06/9/dutch-general-election-of-2010-pprime-minister-jan-peter-balkenende-resigns-as-leader-of-the-christian-democratic-appeal-cda-after-a-disap.md) _2017-08-25 03:28:11 (First version)_
-2. [Dutch general election of 2010:: Prime Minister Jan Peter Balkenende resigns as leader of the Christian Democratic Appeal (CDA) after a disappointing election result. ](/news/2010/06/9/dutch-general-election-of-2010-prime-minister-jan-peter-balkenende-resigns-as-leader-of-the-christian-democratic-appeal-cda-after-a-disa.md) _2017-08-27 03:28:11 (Update)_
+1. [Dutch general election of 2010:: Prime Minister Jan Peter Balkenende resigns as leader of the Christian Democratic Appeal (CDA) after a disappointing election result. ](/news/2010/06/9/dutch-general-election-of-2010-prime-minister-jan-peter-balkenende-resigns-as-leader-of-the-christian-democratic-appeal-cda-after-a-disa.md) _2018-02-06 13:49:20 (First version)_
+2. [Dutch general election of 2010:Prime Minister Jan Peter Balkenende resigns as leader of the Christian Democratic Appeal (CDA) after a disappointing election result. ](/news/2010/06/9/dutch-general-election-of-2010-pprime-minister-jan-peter-balkenende-resigns-as-leader-of-the-christian-democratic-appeal-cda-after-a-disap.md) _2018-02-06 13:49:20 (Update)_
 2. [Prime Minister Jan Peter Balkenende resigns as leader of the Christian Democratic Appeal (CDA) after a disappointing election result. ](/news/2010/06/9/prime-minister-jan-peter-balkenende-resigns-as-leader-of-the-christian-democratic-appeal-cda-after-a-disappointing-election-result.md) _(Current version)_
 
 ### Related:

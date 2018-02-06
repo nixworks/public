@@ -17,7 +17,7 @@ Former campaign manager praised as ‘tireless and tenacious advocate of my agen
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/presidential-transition-of-donald-trump-president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his.md) _2017-08-27 03:47:30 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/presidential-transition-of-donald-trump-president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his.md) _2018-02-06 13:49:30 (First version)_
 1. [President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his-counselor-to-the-president.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ DNA testing has for the first time confirmed the identity of the bacteria behind
 
 ### Changes:
 
-1. [German scientists confirm that the cause of the Great Plague of London from 1665&ndash;1666 was ''Yersinia pestis'' (cause of the Bubonic plague). ](/news/2016/09/8/german-scientists-confirm-that-the-cause-of-the-great-plague-of-london-from-1665-ndash-1666-was-yersinia-pestis-cause-of-the-bubonic-pl.md) _2017-08-25 03:46:25 (First version)_
+1. [German scientists confirm that the cause of the Great Plague of London from 1665&ndash;1666 was ''Yersinia pestis'' (cause of the Bubonic plague). ](/news/2016/09/8/german-scientists-confirm-that-the-cause-of-the-great-plague-of-london-from-1665-ndash-1666-was-yersinia-pestis-cause-of-the-bubonic-pl.md) _2018-02-06 13:49:29 (First version)_
 1. [German scientists confirm that the cause of the Great Plague of London from 1665&ndash;1666 was "Yersinia pestis" (cause of the Bubonic plague). ](/news/2016/09/8/german-scientists-confirm-that-the-cause-of-the-great-plague-of-london-from-1665-ndash-1666-was-yersinia-pestis-cause-of-the-bubonic-plag.md) _(Current version)_
 
 ### Related:

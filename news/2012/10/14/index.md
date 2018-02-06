@@ -13,7 +13,7 @@ Protesters leave St Paul&#039;s after staging a protest in solidarity with Russi
 
 ##### President of Mauritania
 ### [President of Mauritania Mohamed Ould Abdel Aziz, shot by troops yesterday, is flown to France. ](/news/2012/10/14/president-of-mauritania-mohamed-ould-abdel-aziz-shot-by-troops-yesterday-is-flown-to-france.md)
-_Context: President of Mauritania, France, Mohamed Ould Abdel Aziz_
+_Context: Mohamed Ould Abdel Aziz, President of Mauritania, France_
 
 ##### collection of manuscripts
 ### [A collection of manuscripts by Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. ](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-max-brod-must-be-handed-over-to-the-national-library-of-israel-says-the-judge-in-tel-aviv-s.md)
@@ -25,7 +25,7 @@ Five Royal Marines are charged with murder in connection with an incident in Afg
 
 ##### University of New Hampshire
 ### [The search for a missing 19-year-old from the University of New Hampshire (Durham, New Hampshire) is suspended after a ground and water search on and around Peirce Island off Portsmouth, New Hampshire had been going on. ](/news/2012/10/14/the-search-for-a-missing-19-year-old-from-the-university-of-new-hampshire-durham-new-hampshire-is-suspended-after-a-ground-and-water-sear.md)
-_Context: Durham, New Hampshire, University of New Hampshire, Portsmouth, New Hampshire_
+_Context: Portsmouth, New Hampshire, University of New Hampshire, Durham, New Hampshire_
 
 ##### The Sunday Times
 ### [The UK's Ministry of Defence will hold an investigation after journalists from "The Sunday Times" posed as lobbyists for a defence manufacturer and approached several senior retired officers to ask if they would help them secure contracts. ](/news/2012/10/14/the-uk-s-ministry-of-defence-will-hold-an-investigation-after-journalists-from-the-sunday-times-posed-as-lobbyists-for-a-defence-manufactu.md)
@@ -37,7 +37,7 @@ For most of his 30 years as Pennsylvania&#x27;s longest-serving U.S. senator and
 
 ##### Felix Baumgartner
 ### [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md)
-_Context: space diving, Red Bull Stratos, Felix Baumgartner, Roswell, New Mexico_
+_Context: space diving, Roswell, New Mexico, Felix Baumgartner, Red Bull Stratos_
 
 ## [Previous Day...](/news/2012/10/13/index.md)
 

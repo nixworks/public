@@ -19,7 +19,7 @@ Suicide bombers have killed at least 59 people in multiple blasts in the northea
 
 ### Changes:
 
-1. [Boko Haram: Timeline of Boko Haram insurgency: Suicide bombers killed at least 64 people in multiple blasts in the northeastern towns of Gombe and Damaturu, Nigeria. ](/news/2015/07/17/boko-haram-timeline-of-boko-haram-insurgency-suicide-bombers-killed-at-least-64-people-in-multiple-blasts-in-the-northeastern-towns-of-gom.md) _2017-08-27 03:42:43 (First version)_
+1. [Boko Haram: Timeline of Boko Haram insurgency: Suicide bombers killed at least 64 people in multiple blasts in the northeastern towns of Gombe and Damaturu, Nigeria. ](/news/2015/07/17/boko-haram-timeline-of-boko-haram-insurgency-suicide-bombers-killed-at-least-64-people-in-multiple-blasts-in-the-northeastern-towns-of-gom.md) _2018-02-06 13:49:27 (First version)_
 1. [Suicide bombers killed at least 64 people in multiple blasts in the northeastern towns of Gombe and Damaturu, Nigeria. ](/news/2015/07/17/suicide-bombers-killed-at-least-64-people-in-multiple-blasts-in-the-northeastern-towns-of-gombe-and-damaturu-nigeria.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A complaint that a newspaper article about the death of Stephen Gately was inacc
 
 ### Changes:
 
-1. [The UK's Press Complaints Commission rejects a complaint by the husband of Stephen Gately about Jan Moir's ''Daily Mail'' article following his death but its head calls Moir's writing "extremely distasteful". ](/news/2010/02/18/the-uk-s-press-complaints-commission-rejects-a-complaint-by-the-husband-of-stephen-gately-about-jan-moir-s-daily-mail-article-following.md) _2017-08-25 03:27:10 (First version)_
+1. [The UK's Press Complaints Commission rejects a complaint by the husband of Stephen Gately about Jan Moir's ''Daily Mail'' article following his death but its head calls Moir's writing "extremely distasteful". ](/news/2010/02/18/the-uk-s-press-complaints-commission-rejects-a-complaint-by-the-husband-of-stephen-gately-about-jan-moir-s-daily-mail-article-following.md) _2018-02-06 13:49:19 (First version)_
 1. [The UK's Press Complaints Commission rejects a complaint by the husband of Stephen Gately about Jan Moir's "Daily Mail" article following his death but its head calls Moir's writing "extremely distasteful". ](/news/2010/02/18/the-uk-s-press-complaints-commission-rejects-a-complaint-by-the-husband-of-stephen-gately-about-jan-moir-s-daily-mail-article-following-hi.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southe
 
 ### Changes:
 
-1. [ U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shab.md) _2017-08-25 03:45:14 (First version)_
-2. [ War in Somalia: U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/war-in-somalia-u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linke.md) _2017-08-27 03:45:35 (Update)_
+1. [ War in Somalia: U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/war-in-somalia-u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linke.md) _2018-02-06 13:49:28 (First version)_
+2. [ U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shab.md) _2018-02-06 13:49:28 (Update)_
 2. [ U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shaba.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Syrian activists say rebels have seized key security buildings in the northern c
 
 ### Changes:
 
-1. [Syrian civil war:Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-pbattle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil-w.md) _2017-08-25 03:37:44 (First version)_
-2. [Syrian civil war:: Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil.md) _2017-08-27 03:37:56 (Update)_
+1. [Syrian civil war:Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-pbattle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil-w.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil.md) _2018-02-06 13:49:24 (Update)_
 2. [Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil-war.md) _(Current version)_
 
 ### Related:

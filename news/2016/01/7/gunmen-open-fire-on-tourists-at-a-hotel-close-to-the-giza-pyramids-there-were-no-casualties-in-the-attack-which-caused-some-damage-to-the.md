@@ -16,7 +16,7 @@ Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists bo
 
 ### Changes:
 
-1. [Terrorism in Egypt: Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/terrorism-in-egypt-gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused.md) _2017-08-27 03:44:37 (First version)_
+1. [Terrorism in Egypt: Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/terrorism-in-egypt-gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused-some-damage-to-the.md) _(Current version)_
 
 ### Related:

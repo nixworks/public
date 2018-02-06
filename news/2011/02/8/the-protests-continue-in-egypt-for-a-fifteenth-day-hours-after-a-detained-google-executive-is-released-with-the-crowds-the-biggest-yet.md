@@ -19,7 +19,7 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 
 ### Changes:
 
-1. [2011 Egyptian protests: The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/2011-egyptian-protests-the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-cro.md) _2017-08-27 03:32:15 (First version)_
+1. [2011 Egyptian protests: The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/2011-egyptian-protests-the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-cro.md) _2018-02-06 13:49:22 (First version)_
 1. [The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-crowds-the-biggest-yet.md) _(Current version)_
 
 ### Related:

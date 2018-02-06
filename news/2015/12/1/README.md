@@ -15,7 +15,7 @@ Qatari-brokered deal secures release of 16 Lebanese security officers seized by 
 ### [The Iraqi government, via state TV, requests all civilians leave the ISIL-held city of Ramadi in Anbar province, after several days of U.S.-led coalition airstrikes against ISIL. Observers speculate this request precedes major ground operations to retake Ramadi, which fell to ISIL in May. ](/news/2015/12/1/the-iraqi-government-via-state-tv-requests-all-civilians-leave-the-isil-held-city-of-ramadi-in-anbar-province-after-several-days-of-u-s.md)
 A military statement has ordered civilians to leave the &quot;Islamic State&quot;-held city, without giving further details. Some analysts believe a major US-led operation to retake the city is imminent.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A major push by Yemen-based Houthi forces into the kingdom's southern Najran Region kills dozens of Houthi fighters. The Houthi-run Saba News Agency says that Houthi fighters have seized three Saudi military outposts near the city of Najran, destroying several armored vehicles, including two U.S.-made M1 Abrams tanks and three Bradley vehicles. ](/news/2015/12/1/a-major-push-by-yemen-based-houthi-forces-into-the-kingdom-s-southern-najran-region-kills-dozens-of-houthi-fighters-the-houthi-run-saba-new.md)
 Dozens of Yemeni Houthi fighters were killed during an assault on the border with Saudi Arabia, residents and Saudi state television said on Tuesday, in what they described as a major push to try to capture territory inside the kingdom.
 
@@ -41,7 +41,7 @@ Indonesia’s National Transportation Safety Committee (NTSC) is ready to public
 
 ##### World Health Organization
 ### [The World Health Organization urges Ukraine's health ministry to declare a state of emergency due to a polio outbreak, a move meant to prompt more action from the government in Kiev. Half of Ukraine's children have not been vaccinated against polio, according to Dorit Nitzan, head of the WHO's office in Ukraine. ](/news/2015/12/1/the-world-health-organization-urges-ukraine-s-health-ministry-to-declare-a-state-of-emergency-due-to-a-polio-outbreak-a-move-meant-to-promp.md)
-_Context: World Health Organization, vaccinated against polio, health ministry, state of emergency, Ukraine, Kiev, polio outbreak_
+_Context: Ukraine, World Health Organization, polio outbreak, vaccinated against polio, Kiev, health ministry, state of emergency_
 
 ##### Legionnaires' disease
 ### [One of three people who contracted Legionnaires' disease in Hannibal, Missouri, dies, according to health officials. Hannibal is about 20 miles from Quincy, Illinois, where a Legionnaires' outbreak occurred earlier this year, contributing to 12 deaths and sickening dozens more. ](/news/2015/12/1/one-of-three-people-who-contracted-legionnaires-disease-in-hannibal-missouri-dies-according-to-health-officials-hannibal-is-about-20-mi.md)
@@ -49,7 +49,7 @@ Illinois officials admit they were caught off-guard by the wave of Legionnaires&
 
 ##### E. coli
 ### [An American E. coli scare results in the recall of hundreds of thousands of products in a dozen states and covering major supermarket chains including Walmart, Safeway and Albertsons. ](/news/2015/12/1/an-american-e-coli-scare-results-in-the-recall-of-hundreds-of-thousands-of-products-in-a-dozen-states-and-covering-major-supermarket-chains.md)
-_Context: Walmart, Albertsons, Safeway, E. coli_
+_Context: Albertsons, Safeway, E. coli, Walmart_
 
 ##### United States
 ### [The United States Centers for Disease Control announces the number of people newly diagnosed with diabetes declined in 2014 for the fifth consecutive year. Experts do not know whether efforts to prevent diabetes are finally started to work, or if the disease has simply peaked in the population. ](/news/2015/12/1/the-united-states-centers-for-disease-control-announces-the-number-of-people-newly-diagnosed-with-diabetes-declined-in-2014-for-the-fifth-co.md)

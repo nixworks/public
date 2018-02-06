@@ -18,7 +18,7 @@ Israeli police clash with Palestinian youths after entering the al-Aqsa mosque c
 
 ### Changes:
 
-1. [Arab-Israeli conflict: Israeli police engage Palestinian protesters with tear gas and stun grenades near Jerusalem's Al-Aqsa Mosque in response to reports of planned incidents ahead of Rosh Hashanah, the Jewish New Year. Protesters throw fireworks and small explosive devices from inside the Mosque. ](/news/2015/09/13/arab-israeli-conflict-israeli-police-engage-palestinian-protesters-with-tear-gas-and-stun-grenades-near-jerusalem-s-al-aqsa-mosque-in-respo.md) _2017-08-27 03:43:02 (First version)_
+1. [Arab-Israeli conflict: Israeli police engage Palestinian protesters with tear gas and stun grenades near Jerusalem's Al-Aqsa Mosque in response to reports of planned incidents ahead of Rosh Hashanah, the Jewish New Year. Protesters throw fireworks and small explosive devices from inside the Mosque. ](/news/2015/09/13/arab-israeli-conflict-israeli-police-engage-palestinian-protesters-with-tear-gas-and-stun-grenades-near-jerusalem-s-al-aqsa-mosque-in-respo.md) _2018-02-06 13:49:27 (First version)_
 1. [Israeli police engage Palestinian protesters with tear gas and stun grenades near Jerusalem's Al-Aqsa Mosque in response to reports of planned incidents ahead of Rosh Hashanah, the Jewish New Year. Protesters throw fireworks and small explosive devices from inside the Mosque. ](/news/2015/09/13/israeli-police-engage-palestinian-protesters-with-tear-gas-and-stun-grenades-near-jerusalem-s-al-aqsa-mosque-in-response-to-reports-of-plann.md) _(Current version)_
 
 ### Related:

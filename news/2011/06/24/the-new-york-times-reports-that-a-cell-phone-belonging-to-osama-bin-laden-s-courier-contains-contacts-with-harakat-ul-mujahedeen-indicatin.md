@@ -16,7 +16,7 @@ Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links t
 
 ### Changes:
 
-1. [''The New York Times'' reports that a cell phone belonging to Osama bin Laden's courier contains contacts with Harakat-ul-Mujahedeen indicating possible ties with Pakistan's intelligence agencies. ](/news/2011/06/24/the-new-york-times-reports-that-a-cell-phone-belonging-to-osama-bin-laden-s-courier-contains-contacts-with-harakat-ul-mujahedeen-indicat.md) _2017-08-25 03:33:34 (First version)_
+1. [''The New York Times'' reports that a cell phone belonging to Osama bin Laden's courier contains contacts with Harakat-ul-Mujahedeen indicating possible ties with Pakistan's intelligence agencies. ](/news/2011/06/24/the-new-york-times-reports-that-a-cell-phone-belonging-to-osama-bin-laden-s-courier-contains-contacts-with-harakat-ul-mujahedeen-indicat.md) _2018-02-06 13:49:22 (First version)_
 1. ["The New York Times" reports that a cell phone belonging to Osama bin Laden's courier contains contacts with Harakat-ul-Mujahedeen indicating possible ties with Pakistan's intelligence agencies. ](/news/2011/06/24/the-new-york-times-reports-that-a-cell-phone-belonging-to-osama-bin-laden-s-courier-contains-contacts-with-harakat-ul-mujahedeen-indicatin.md) _(Current version)_
 
 ### Related:

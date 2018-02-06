@@ -16,7 +16,7 @@ The crashed remains from Flight MH370 could be as much as 500km further north th
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: Investigators hypothesise that the plane may be further to the north than the current search area. ](/news/2016/07/27/malaysia-airlines-flight-370-investigators-hypothesise-that-the-plane-may-be-further-to-the-north-than-the-current-search-area.md) _2017-08-27 03:46:33 (First version)_
+1. [Malaysia Airlines Flight 370: Investigators hypothesise that the plane may be further to the north than the current search area. ](/news/2016/07/27/malaysia-airlines-flight-370-investigators-hypothesise-that-the-plane-may-be-further-to-the-north-than-the-current-search-area.md) _2018-02-06 13:49:29 (First version)_
 1. [Investigators hypothesise that the plane may be further to the north than the current search area. ](/news/2016/07/27/investigators-hypothesise-that-the-plane-may-be-further-to-the-north-than-the-current-search-area.md) _(Current version)_
 
 ### Related:

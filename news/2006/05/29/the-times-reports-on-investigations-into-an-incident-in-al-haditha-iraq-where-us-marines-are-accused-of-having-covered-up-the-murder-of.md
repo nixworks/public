@@ -16,7 +16,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [ ''The Times'' reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. ](/news/2006/05/29/the-times-reports-on-investigations-into-an-incident-in-al-haditha-iraq-where-us-marines-are-accused-of-having-covered-up-the-murder.md) _2017-08-25 03:17:41 (First version)_
+1. [ ''The Times'' reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. ](/news/2006/05/29/the-times-reports-on-investigations-into-an-incident-in-al-haditha-iraq-where-us-marines-are-accused-of-having-covered-up-the-murder.md) _2018-02-06 13:49:17 (First version)_
 1. [ "The Times" reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. ](/news/2006/05/29/the-times-reports-on-investigations-into-an-incident-in-al-haditha-iraq-where-us-marines-are-accused-of-having-covered-up-the-murder-of.md) _(Current version)_
 
 ### Related:

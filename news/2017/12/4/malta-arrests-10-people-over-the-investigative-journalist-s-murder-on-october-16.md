@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-j
 
 ### Changes:
 
-1. [Malta arrests 10 people over the October 16 murder of investigative journalist Daphne Caruana Galizia. ](/news/2017/12/4/malta-arrests-10-people-over-the-october-16-murder-of-investigative-journalist-daphne-caruana-galizia.md) _2017-12-04 14:30:09 (First version)_
+1. [Malta arrests 10 people over the October 16 murder of investigative journalist Daphne Caruana Galizia. ](/news/2017/12/4/malta-arrests-10-people-over-the-october-16-murder-of-investigative-journalist-daphne-caruana-galizia.md) _2018-02-06 13:49:31 (First version)_
 1. [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md) _(Current version)_
 
 ### Related:

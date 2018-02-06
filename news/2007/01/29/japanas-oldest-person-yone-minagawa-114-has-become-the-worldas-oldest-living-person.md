@@ -16,5 +16,5 @@ Japan&#039;s oldest person, Yone Minagawa, 114, has become the world&#039;s olde
 
 ### Changes:
 
-1. [ Japan-s oldest person, Yone Minagawa, 114, has become the world-s oldest living person. ](/news/2007/01/29/japan-s-oldest-person-yone-minagawa-114-has-become-the-world-s-oldest-living-person.md) _2017-08-27 03:19:01 (First version)_
+1. [ Japan-s oldest person, Yone Minagawa, 114, has become the world-s oldest living person. ](/news/2007/01/29/japan-s-oldest-person-yone-minagawa-114-has-become-the-world-s-oldest-living-person.md) _2018-02-06 13:49:17 (First version)_
 1. [ Japan's oldest person, Yone Minagawa, 114, has become the world's oldest living person. ](/news/2007/01/29/japanas-oldest-person-yone-minagawa-114-has-become-the-worldas-oldest-living-person.md) _(Current version)_

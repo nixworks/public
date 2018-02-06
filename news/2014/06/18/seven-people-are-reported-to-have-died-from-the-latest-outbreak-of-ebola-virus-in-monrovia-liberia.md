@@ -16,7 +16,7 @@ Seven people are reported dead from the Ebola virus in Monrovia, the first death
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: Seven people are reported to have died from the latest outbreak of Ebola virus in Monrovia, Liberia. ](/news/2014/06/18/2014-west-africa-ebola-outbreak-seven-people-are-reported-to-have-died-from-the-latest-outbreak-of-ebola-virus-in-monrovia-liberia.md) _2017-08-27 03:40:52 (First version)_
+1. [2014 West Africa Ebola outbreak: Seven people are reported to have died from the latest outbreak of Ebola virus in Monrovia, Liberia. ](/news/2014/06/18/2014-west-africa-ebola-outbreak-seven-people-are-reported-to-have-died-from-the-latest-outbreak-of-ebola-virus-in-monrovia-liberia.md) _2018-02-06 13:49:26 (First version)_
 1. [Seven people are reported to have died from the latest outbreak of Ebola virus in Monrovia, Liberia. ](/news/2014/06/18/seven-people-are-reported-to-have-died-from-the-latest-outbreak-of-ebola-virus-in-monrovia-liberia.md) _(Current version)_
 
 ### Related:

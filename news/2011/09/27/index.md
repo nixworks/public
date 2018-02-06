@@ -17,19 +17,19 @@ Women will be allowed to serve in frontline combat roles within five years under
 
 ##### Syrian Army
 ### [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)
-_Context: Homs, Rastan, Syrian Army_
+_Context: Rastan, Syrian Army, Homs_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)
-_Context: Philippines, Basilan Island, Abu Sayyaf, Sumisip_
+_Context: Philippines, Abu Sayyaf, Basilan Island, Sumisip_
 
 ##### suicide bomber
 ### [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md)
-_Context: Lashkar Gah, Helmand Province, suicide bomber, Afghanistan_
+_Context: Lashkar Gah, suicide bomber, Helmand Province, Afghanistan_
 
 ##### Australia
 ### [Visitors to Australia face delays as Australian Customs and Border Protection Service staff go on strike over a pay dispute. ](/news/2011/09/27/visitors-to-australia-face-delays-as-australian-customs-and-border-protection-service-staff-go-on-strike-over-a-pay-dispute.md)
-_Context: Australian Customs and Border Protection Service, Australia_
+_Context: Australia, Australian Customs and Border Protection Service_
 
 ##### South Korea
 ### [South Korea's Financial Services Commission announces plans to pump more money into suspended local savings banks. ](/news/2011/09/27/south-korea-s-financial-services-commission-announces-plans-to-pump-more-money-into-suspended-local-savings-banks.md)
@@ -45,7 +45,7 @@ _Context: BAE Systems_
 
 ##### LCH.Clearnet
 ### [The board of LCH.Clearnet, an independent European clearing house, reportedly approves of a takeover proposal by the London Stock Exchange. ](/news/2011/09/27/the-board-of-lch-clearnet-an-independent-european-clearing-house-reportedly-approves-of-a-takeover-proposal-by-the-london-stock-exchange.md)
-_Context: clearing house, LCH.Clearnet, London Stock Exchange_
+_Context: LCH.Clearnet, London Stock Exchange, clearing house_
 
 ##### Typhoon Nesat
 ### [Typhoon Nesat hits the island of Luzon in the Philippines with at least sixteen deaths, 100,000 people evacuated and the capital Manila brought to a standstill. ](/news/2011/09/27/typhoon-nesat-hits-the-island-of-luzon-in-the-philippines-with-at-least-sixteen-deaths-100-000-people-evacuated-and-the-capital-manila-brou.md)
@@ -73,11 +73,11 @@ _Context: Melli Bank, Saderat Bank, CEO_
 
 ##### hijacker
 ### [Fugitive hijacker George Wright is caught in Portugal, thirty-nine years after he and members of the Black Liberation Army took control of Delta Air Lines Flight 841 and flew it to Algeria. ](/news/2011/09/27/fugitive-hijacker-george-wright-is-caught-in-portugal-thirty-nine-years-after-he-and-members-of-the-black-liberation-army-took-control-of-d.md)
-_Context: hijacker, Black Liberation Army, Delta Air Lines Flight 841, Portugal, George Wright_
+_Context: George Wright, Black Liberation Army, hijacker, Portugal, Delta Air Lines Flight 841_
 
 ##### trial of Dr Conrad Murray
 ### [The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. ](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-in-connection-to-the-death-of-american-singer-michael-jackson-begins-in-california.md)
-_Context: Michael Jackson, trial of Dr Conrad Murray, death of Michael Jackson, manslaughter by gross negligence, California_
+_Context: California, death of Michael Jackson, trial of Dr Conrad Murray, manslaughter by gross negligence, Michael Jackson_
 
 ## [Previous Day...](/news/2011/09/26/index.md)
 

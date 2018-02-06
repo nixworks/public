@@ -19,7 +19,7 @@ A large explosion in the Turkish capital, Ankara, has left at least 28 people de
 
 ### Changes:
 
-1. [February 2016 Ankara bombing: Military vehicles explode outside a Turkish Armed Forces barracks in Ankara, Turkey, killing at least 28 people and injuring 61 others. Authorities believe a car bomb caused the blast. A senior Turkish security source says initial signs indicate that the outlawed Kurdistan Workers' Party (PKK) are responsible. ](/news/2016/02/17/february-2016-ankara-bombing-military-vehicles-explode-outside-a-turkish-armed-forces-barracks-in-ankara-turkey-killing-at-least-28-peopl.md) _2017-08-27 03:44:56 (First version)_
+1. [February 2016 Ankara bombing: Military vehicles explode outside a Turkish Armed Forces barracks in Ankara, Turkey, killing at least 28 people and injuring 61 others. Authorities believe a car bomb caused the blast. A senior Turkish security source says initial signs indicate that the outlawed Kurdistan Workers' Party (PKK) are responsible. ](/news/2016/02/17/february-2016-ankara-bombing-military-vehicles-explode-outside-a-turkish-armed-forces-barracks-in-ankara-turkey-killing-at-least-28-peopl.md) _2018-02-06 13:49:28 (First version)_
 1. [Military vehicles explode outside a Turkish Armed Forces barracks in Ankara, Turkey, killing at least 28 people and injuring 61 others. Authorities believe a car bomb caused the blast. A senior Turkish security source says initial signs indicate that the outlawed Kurdistan Workers' Party (PKK) are responsible. ](/news/2016/02/17/military-vehicles-explode-outside-a-turkish-armed-forces-barracks-in-ankara-turkey-killing-at-least-28-people-and-injuring-61-others-auth.md) _(Current version)_
 
 ### Related:

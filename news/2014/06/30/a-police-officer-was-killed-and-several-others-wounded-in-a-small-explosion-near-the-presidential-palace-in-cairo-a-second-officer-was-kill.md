@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/06/30/a-police-officer-was-killed-and-several-others-
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt: A police officer was killed and several others wounded in a small explosion near the presidential palace in Cairo. A second officer was killed while defusing another bomb at the same site. ](/news/2014/06/30/post-coup-unrest-in-egypt-a-police-officer-was-killed-and-several-others-wounded-in-a-small-explosion-near-the-presidential-palace-in-cairo.md) _2017-08-27 03:40:54 (First version)_
+1. [Post-coup unrest in Egypt: A police officer was killed and several others wounded in a small explosion near the presidential palace in Cairo. A second officer was killed while defusing another bomb at the same site. ](/news/2014/06/30/post-coup-unrest-in-egypt-a-police-officer-was-killed-and-several-others-wounded-in-a-small-explosion-near-the-presidential-palace-in-cairo.md) _2018-02-06 13:49:26 (First version)_
 1. [A police officer was killed and several others wounded in a small explosion near the presidential palace in Cairo. A second officer was killed while defusing another bomb at the same site. ](/news/2014/06/30/a-police-officer-was-killed-and-several-others-wounded-in-a-small-explosion-near-the-presidential-palace-in-cairo-a-second-officer-was-kill.md) _(Current version)_
 
 ### Related:

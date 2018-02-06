@@ -16,5 +16,5 @@ Formats: [HTML](/news/2016/05/7/about-240-000-poles-have-taken-to-the-streets-in
 
 ### Changes:
 
-1. [Law and Justice government: About 240,000 Poles have taken to the streets in Warsaw to protest against the Polish government. ](/news/2016/05/7/law-and-justice-government-about-240-000-poles-have-taken-to-the-streets-in-warsaw-to-protest-against-the-polish-government.md) _2017-08-27 03:45:59 (First version)_
+1. [Law and Justice government: About 240,000 Poles have taken to the streets in Warsaw to protest against the Polish government. ](/news/2016/05/7/law-and-justice-government-about-240-000-poles-have-taken-to-the-streets-in-warsaw-to-protest-against-the-polish-government.md) _2018-02-06 13:49:29 (First version)_
 1. [About 240,000 Poles have taken to the streets in Warsaw to protest against the Polish government. ](/news/2016/05/7/about-240-000-poles-have-taken-to-the-streets-in-warsaw-to-protest-against-the-polish-government.md) _(Current version)_

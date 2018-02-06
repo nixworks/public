@@ -33,11 +33,11 @@ The Royal Navy fired flares to warn off a Spanish patrol boat approaching an Ame
 
 ##### Operation Car Wash
 ### [Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. ](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.md)
-_Context: president, Eduardo Cunha, Dilma Rousseff, Impeachment process against Dilma Rousseff, President of the Brazilian Chamber of Deputies, Brazil, Supreme Court, Petrobras, Operation Car Wash_
+_Context: Impeachment process against Dilma Rousseff, Brazil, Petrobras, Operation Car Wash, Eduardo Cunha, president, President of the Brazilian Chamber of Deputies, Dilma Rousseff, Supreme Court_
 
 ##### Colorado Springs, Colorado
 ### [Colorado Springs, Colorado, agrees to pay people who were sent to jail because they couldn't afford to pay fines for minor offenses like panhandling and jaywalking. The city will pay $125 for each day the person spent behind bars, an estimated total of $103,000 for the 66 people identified. In 1971, the U.S. Supreme Court ruled that people cannot be jailed if they do not have the money to pay. ](/news/2016/05/5/colorado-springs-colorado-agrees-to-pay-people-who-were-sent-to-jail-because-they-couldnat-afford-to-pay-fines-for-minor-offenses-like-p.md)
-_Context: Colorado Springs, Colorado, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Colorado Springs, Colorado_
 
 ##### California
 ### [California court finds "Grim Sleeper" serial killer guilty. ](/news/2016/05/5/california-court-finds-grim-sleeper-serial-killer-guilty.md)
@@ -59,7 +59,7 @@ _Context: Mayor of London, United Kingdom local elections, 2016_
 
 ##### 2016 U.S. presidential election
 ### [Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. ](/news/2016/05/5/former-governor-of-texas-and-republican-presidential-candidate-rick-perry-endorses-donald-trump-for-president-and-says-he-is-open-to-being-t.md)
-_Context: 2016 U.S. presidential election, Republican, Donald Trump, Rick Perry, presidential candidate, Governor of Texas_
+_Context: Governor of Texas, Republican, Donald Trump, presidential candidate, Rick Perry, 2016 U.S. presidential election_
 
 ## [Previous Day...](/news/2016/05/4/index.md)
 

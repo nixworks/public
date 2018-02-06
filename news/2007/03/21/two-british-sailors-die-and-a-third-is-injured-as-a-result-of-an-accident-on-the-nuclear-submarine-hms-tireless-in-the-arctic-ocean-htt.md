@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-
 
 ### Changes:
 
-1. [ Two British sailors die and a third is injured as a result of an accident on the nuclear submarine HMS ''Tireless'' in the Arctic Ocean. ](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-as-a-result-of-an-accident-on-the-nuclear-submarine-hms-tireless-in-the-arctic-ocean.md) _2017-08-25 03:19:27 (First version)_
+1. [ Two British sailors die and a third is injured as a result of an accident on the nuclear submarine HMS ''Tireless'' in the Arctic Ocean. ](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-as-a-result-of-an-accident-on-the-nuclear-submarine-hms-tireless-in-the-arctic-ocean.md) _2018-02-06 13:49:17 (First version)_
 1. [ Two British sailors die and a third is injured as a result of an accident on the nuclear submarine HMS "Tireless" in the Arctic Ocean. [http:--www.news.com.au-story-0,10117,21426111-2,00.html (AFP via News Limited)] (Wikinews)](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-as-a-result-of-an-accident-on-the-nuclear-submarine-hms-tireless-in-the-arctic-ocean-htt.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Papua New Guinea&#039;s parliament is preparing to elect a new Prime Minister th
 
 ### Changes:
 
-1. [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with ''de facto'' Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-pri.md) _2017-08-25 03:35:47 (First version)_
+1. [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with ''de facto'' Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-pri.md) _2018-02-06 13:49:23 (First version)_
 1. [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with "de facto" Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-prime.md) _(Current version)_
 
 ### Related:

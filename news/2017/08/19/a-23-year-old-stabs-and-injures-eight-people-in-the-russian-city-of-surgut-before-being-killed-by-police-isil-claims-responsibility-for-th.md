@@ -17,9 +17,9 @@ ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut.
 
 ### Changes:
 
-1. [ A 23-year-old stabs eight people in the Russian city of Surgut, before being killed by police. ISIL claimed responsibility for the act. ](/news/2017/08/19/a-23-year-old-stabs-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claimed-responsibility-for-the-act.md) _2017-08-19 16:30:05 (First version)_
-2. [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claimed responsibility for the act. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claimed-responsibility-for-t.md) _2017-08-19 20:30:05 (Update)_
-3. [Terrorism in Russia: A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/terrorism-in-russia-a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims.md) _2017-08-27 03:48:49 (Update)_
+1. [Terrorism in Russia: A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/terrorism-in-russia-a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims.md) _2018-02-06 13:49:31 (First version)_
+2. [ A 23-year-old stabs eight people in the Russian city of Surgut, before being killed by police. ISIL claimed responsibility for the act. ](/news/2017/08/19/a-23-year-old-stabs-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claimed-responsibility-for-the-act.md) _2018-02-06 13:49:31 (Update)_
+3. [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claimed responsibility for the act. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claimed-responsibility-for-t.md) _2018-02-06 13:49:31 (Update)_
 3. [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims-responsibility-for-th.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Formats: [HTML](/news/2014/12/23/attacks-on-villages-in-the-indian-state-of-assa
 
 ### Changes:
 
-1. [Insurgency in Northeast India:Attacks on villages in the Indian state of Assam kill dozens of people. Suspicion falls on the insurgents of the National Democratic Front of Bodoland. ](/news/2014/12/23/insurgency-in-northeast-india-pattacks-on-villages-in-the-indian-state-of-assam-kill-dozens-of-people-suspicion-falls-on-the-insurgents-of.md) _2017-08-25 03:41:23 (First version)_
+1. [Insurgency in Northeast India:Attacks on villages in the Indian state of Assam kill dozens of people. Suspicion falls on the insurgents of the National Democratic Front of Bodoland. ](/news/2014/12/23/insurgency-in-northeast-india-pattacks-on-villages-in-the-indian-state-of-assam-kill-dozens-of-people-suspicion-falls-on-the-insurgents-of.md) _2018-02-06 13:49:26 (First version)_
 1. [Attacks on villages in the Indian state of Assam kill dozens of people. Suspicion falls on the insurgents of the National Democratic Front of Bodoland. ](/news/2014/12/23/attacks-on-villages-in-the-indian-state-of-assam-kill-dozens-of-people-suspicion-falls-on-the-insurgents-of-the-national-democratic-front-o.md) _(Current version)_
 
 ### Related:

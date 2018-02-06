@@ -17,7 +17,7 @@ Dutch experts say Malaysia Airlines flight MH17 crashed in east Ukraine after be
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17: The Dutch Safety Board issues a preliminary report on Malaysia Airlines Flight 17 which crashed on 17 July. It finds that the aircraft was probably hit by multiple "high-energy objects that penetrated the aircraft from outside- indicating a missile. ](/news/2014/09/9/malaysia-airlines-flight-17-the-dutch-safety-board-issues-a-preliminary-report-on-malaysia-airlines-flight-17-which-crashed-on-17-july-it.md) _2017-08-27 03:41:15 (First version)_
+1. [Malaysia Airlines Flight 17: The Dutch Safety Board issues a preliminary report on Malaysia Airlines Flight 17 which crashed on 17 July. It finds that the aircraft was probably hit by multiple "high-energy objects that penetrated the aircraft from outside- indicating a missile. ](/news/2014/09/9/malaysia-airlines-flight-17-the-dutch-safety-board-issues-a-preliminary-report-on-malaysia-airlines-flight-17-which-crashed-on-17-july-it.md) _2018-02-06 13:49:26 (First version)_
 1. [The Dutch Safety Board issues a preliminary report on Malaysia Airlines Flight 17 which crashed on 17 July. It finds that the aircraft was probably hit by multiple "high-energy objects that penetrated the aircraft from outside" indicating a missile. ](/news/2014/09/9/the-dutch-safety-board-issues-a-preliminary-report-on-malaysia-airlines-flight-17-which-crashed-on-17-july-it-finds-that-the-aircraft-was-p.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery
 
 ### Changes:
 
-1. [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after ''The Times'' publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an.md) _2017-08-25 03:29:53 (First version)_
+1. [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after ''The Times'' publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an.md) _2018-02-06 13:49:20 (First version)_
 1. [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after "The Times" publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an-u.md) _(Current version)_
 
 ### Related:

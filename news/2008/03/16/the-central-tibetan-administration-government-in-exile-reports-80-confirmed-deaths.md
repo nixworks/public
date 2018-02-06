@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/03/16/the-central-tibetan-administration-government-i
 
 ### Changes:
 
-1. [ 2008 unrest in Tibet: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-p-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2017-08-25 03:21:55 (First version)_
-2. [ 2008 unrest in Tibet:: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2017-08-27 03:21:49 (Update)_
+1. [ 2008 unrest in Tibet:: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Tibet: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-p-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _(Current version)_
 
 ### Related:

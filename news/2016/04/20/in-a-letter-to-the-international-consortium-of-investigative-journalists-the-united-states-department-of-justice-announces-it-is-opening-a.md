@@ -16,7 +16,7 @@ The US Justice Department opens a criminal investigation into tax avoidance sche
 
 ### Changes:
 
-1. [Panama Papers: In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. ](/news/2016/04/20/panama-papers-in-a-letter-to-the-international-consortium-of-investigative-journalists-the-united-states-department-of-justice-announces-i.md) _2017-08-27 03:45:43 (First version)_
+1. [Panama Papers: In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. ](/news/2016/04/20/panama-papers-in-a-letter-to-the-international-consortium-of-investigative-journalists-the-united-states-department-of-justice-announces-i.md) _2018-02-06 13:49:28 (First version)_
 1. [In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. ](/news/2016/04/20/in-a-letter-to-the-international-consortium-of-investigative-journalists-the-united-states-department-of-justice-announces-it-is-opening-a.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Suspected Abu Sayyaf gunmen abducted four workers in a school in a southern Phil
 
 ### Changes:
 
-1. [A new set of kidnappings and a jail break plague the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-the-southern-region-of-mindanao-in-the-philippines.md) _2017-07-17 10:30:05 (First version)_
-2. [Moro conflict: A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/moro-conflict-a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md) _2017-08-27 03:48:40 (Update)_
+1. [Moro conflict: A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/moro-conflict-a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md) _2018-02-06 13:49:30 (First version)_
+2. [A new set of kidnappings and a jail break plague the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-the-southern-region-of-mindanao-in-the-philippines.md) _2018-02-06 13:49:30 (Update)_
 2. [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md) _(Current version)_
 
 ### Related:

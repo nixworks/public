@@ -19,7 +19,7 @@ At least 25 killed and more than 100 injured in blaze in Jizan, which began on f
 
 ### Changes:
 
-1. [A fire at the Jizan General Hospital in Jizan, Saudi Arabia, kills at least 24 people and injures over 100. The blaze began on the first floor of the hospital which contains the maternity ward and intensive care unit. Government-controlled Al Ekhbariya television reports the cause of the fire seems to be electrical. ](/news/2015/12/24/a-fire-at-the-jizan-general-hospital-in-jizan-saudi-arabia-kills-at-least-24-people-and-injures-over-100-the-blaze-began-on-the-first-fl.md) _2017-08-25 03:44:09 (First version)_
+1. [A fire at the Jizan General Hospital in Jizan, Saudi Arabia, kills at least 24 people and injures over 100. The blaze began on the first floor of the hospital which contains the maternity ward and intensive care unit. Government-controlled Al Ekhbariya television reports the cause of the fire seems to be electrical. ](/news/2015/12/24/a-fire-at-the-jizan-general-hospital-in-jizan-saudi-arabia-kills-at-least-24-people-and-injures-over-100-the-blaze-began-on-the-first-fl.md) _2018-02-06 13:49:28 (First version)_
 1. [A fire at the Jizan General Hospital in Jizan, Saudi Arabia, kills at least 24 people and injures over 100. The blaze began on the first floor of the hospital which contains the maternity ward and intensive care unit. Government-controlled Al Ekhbariya television reports the cause of the fire seems to be electrical. ](/news/2015/12/24/a-fire-at-the-jizan-general-hospital-in-jizan-saudi-arabia-kills-at-least-24-people-and-injures-over-100-the-blaze-began-on-the-first-flo.md) _(Current version)_
 
 ### Related:

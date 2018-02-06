@@ -16,7 +16,7 @@ The guards, who were from Nepal, were in their way to work in the Banaee area of
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A minibus carrying private security guards explodes in Kabul resulting in the death of at least 12 people and injuring several others. ](/news/2016/06/20/war-in-afghanistan-2015-present-a-minibus-carrying-private-security-guards-explodes-in-kabul-resulting-in-the-death-of-at-least-12-peop.md) _2017-08-27 03:46:18 (First version)_
+1. [War in Afghanistan (2015-present): A minibus carrying private security guards explodes in Kabul resulting in the death of at least 12 people and injuring several others. ](/news/2016/06/20/war-in-afghanistan-2015-present-a-minibus-carrying-private-security-guards-explodes-in-kabul-resulting-in-the-death-of-at-least-12-peop.md) _2018-02-06 13:49:29 (First version)_
 1. [A minibus carrying private security guards explodes in Kabul resulting in the death of at least 12 people and injuring several others. ](/news/2016/06/20/a-minibus-carrying-private-security-guards-explodes-in-kabul-resulting-in-the-death-of-at-least-12-people-and-injuring-several-others.md) _(Current version)_
 
 ### Related:

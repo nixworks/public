@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/04/5/chinese-president-xi-jinping-visits-finland-on-h
 
 ### Changes:
 
-1. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _2017-05-25 03:50:19 (First version)_
-2. [China-Finland relations: Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/china-finland-relations-chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _2017-08-27 03:48:07 (Update)_
+1. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _2018-02-06 13:49:30 (First version)_
+2. [China-Finland relations: Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/china-finland-relations-chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _2018-02-06 13:49:30 (Update)_
 2. [Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _(Current version)_
 
 ### Related:

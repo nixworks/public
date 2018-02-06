@@ -18,7 +18,7 @@ Hamyd Mourad, 18, suspected in an assault on the satirical newspaper Charlie Heb
 
 ### Changes:
 
-1. ["Charlie Hebdo" shooting: One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mezieres while the other two suspects are still at large. ](/news/2015/01/8/charlie-hebdo-shooting-one-of-the-suspects-in-the-killings-hamyd-mourad-voluntarily-surrenders-to-police-in-charleville-ma-c-zia-res-whil.md) _2017-08-27 03:41:45 (First version)_
+1. ["Charlie Hebdo" shooting: One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mezieres while the other two suspects are still at large. ](/news/2015/01/8/charlie-hebdo-shooting-one-of-the-suspects-in-the-killings-hamyd-mourad-voluntarily-surrenders-to-police-in-charleville-ma-c-zia-res-whil.md) _2018-02-06 13:49:26 (First version)_
 1. [One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mezieres while the other two suspects are still at large. ](/news/2015/01/8/one-of-the-suspects-in-the-killings-hamyd-mourad-voluntarily-surrenders-to-police-in-charleville-ma-c-zia-res-while-the-other-two-suspects-a.md) _(Current version)_
 
 ### Related:

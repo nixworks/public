@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/25/a-ukrainian-military-helicopter-is-destroyed-af
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/2014-pro-russian-unrest-in-ukraine-pa-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-nea.md) _2017-08-25 03:40:20 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/2014-pro-russian-unrest-in-ukraine-a-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-ne.md) _2017-08-27 03:40:38 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/2014-pro-russian-unrest-in-ukraine-pa-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-nea.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:: A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/2014-pro-russian-unrest-in-ukraine-a-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-ne.md) _2018-02-06 13:49:26 (Update)_
 2. [A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/a-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-near-the-town-of-kramatorsk-in-eastern.md) _(Current version)_
 
 ### Related:

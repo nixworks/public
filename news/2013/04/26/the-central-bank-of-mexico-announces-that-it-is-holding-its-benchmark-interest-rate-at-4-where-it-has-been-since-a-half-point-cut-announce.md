@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is
 
 ### Changes:
 
-1. [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announc.md) _2017-08-25 03:38:29 (First version)_
+1. [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announc.md) _2018-02-06 13:49:24 (First version)_
 1. [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announce.md) _(Current version)_
 
 ### Related:

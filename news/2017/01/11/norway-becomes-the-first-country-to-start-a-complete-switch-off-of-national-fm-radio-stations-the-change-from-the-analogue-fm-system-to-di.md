@@ -17,7 +17,7 @@ From this week, Norway will start switching off its national FM network, forcing
 
 ### Changes:
 
-1. [Radio in Norway: Norway becomes the first country to start a complete switch-off of national FM radio stations. The change, from the analogue FM system to digital audio broadcasting, is expected to be completed by the end of the year. Some, such as the Norwegian Local Radio Association, are concerned about the impact on motorists and the elderly. ](/news/2017/01/11/radio-in-norway-norway-becomes-the-first-country-to-start-a-complete-switch-off-of-national-fm-radio-stations-the-change-from-the-analogu.md) _2017-08-27 03:47:35 (First version)_
+1. [Radio in Norway: Norway becomes the first country to start a complete switch-off of national FM radio stations. The change, from the analogue FM system to digital audio broadcasting, is expected to be completed by the end of the year. Some, such as the Norwegian Local Radio Association, are concerned about the impact on motorists and the elderly. ](/news/2017/01/11/radio-in-norway-norway-becomes-the-first-country-to-start-a-complete-switch-off-of-national-fm-radio-stations-the-change-from-the-analogu.md) _2018-02-06 13:49:30 (First version)_
 1. [Norway becomes the first country to start a complete switch-off of national FM radio stations. The change, from the analogue FM system to digital audio broadcasting, is expected to be completed by the end of the year. Some, such as the Norwegian Local Radio Association, are concerned about the impact on motorists and the elderly. ](/news/2017/01/11/norway-becomes-the-first-country-to-start-a-complete-switch-off-of-national-fm-radio-stations-the-change-from-the-analogue-fm-system-to-di.md) _(Current version)_
 
 ### Related:

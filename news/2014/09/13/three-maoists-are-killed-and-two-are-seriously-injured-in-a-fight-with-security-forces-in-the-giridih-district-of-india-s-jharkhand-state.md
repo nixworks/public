@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/13/three-maoists-are-killed-and-two-are-seriously-
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency:Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/naxaliteamaoist-insurgency-pthree-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-district.md) _2017-08-25 03:40:58 (First version)_
-2. [Naxalite-Maoist insurgency:: Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/naxalite-maoist-insurgency-three-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-distric.md) _2017-08-27 03:41:16 (Update)_
+1. [Naxalite-Maoist insurgency:Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/naxaliteamaoist-insurgency-pthree-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-district.md) _2018-02-06 13:49:26 (First version)_
+2. [Naxalite-Maoist insurgency:: Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/naxalite-maoist-insurgency-three-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-distric.md) _2018-02-06 13:49:26 (Update)_
 2. [Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/three-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-district-of-india-s-jharkhand-state.md) _(Current version)_
 
 ### Related:

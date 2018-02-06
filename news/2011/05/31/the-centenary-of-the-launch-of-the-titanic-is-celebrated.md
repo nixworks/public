@@ -16,5 +16,5 @@ Formats: [HTML](/news/2011/05/31/the-centenary-of-the-launch-of-the-titanic-is-c
 
 ### Changes:
 
-1. [The centenary of the launch of the {{RMS|Titanic}} is celebrated. ](/news/2011/05/31/the-centenary-of-the-launch-of-the-rms-titanic-is-celebrated.md) _2017-05-01 03:35:34 (First version)_
+1. [The centenary of the launch of the {{RMS|Titanic}} is celebrated. ](/news/2011/05/31/the-centenary-of-the-launch-of-the-rms-titanic-is-celebrated.md) _2018-02-06 13:49:22 (First version)_
 1. [The centenary of the launch of the Titanic is celebrated. ](/news/2011/05/31/the-centenary-of-the-launch-of-the-titanic-is-celebrated.md) _(Current version)_

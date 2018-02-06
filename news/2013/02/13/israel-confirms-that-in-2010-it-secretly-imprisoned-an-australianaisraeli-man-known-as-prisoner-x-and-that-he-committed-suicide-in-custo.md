@@ -16,7 +16,7 @@ Israel confirms it imprisoned an Australian-Israeli man under a false identity f
 
 ### Changes:
 
-1. [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australian-israeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md) _2017-08-27 03:37:42 (First version)_
+1. [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australian-israeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md) _2018-02-06 13:49:24 (First version)_
 1. [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australianaisraeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md) _(Current version)_
 
 ### Related:

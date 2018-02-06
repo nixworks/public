@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliber
 
 ### Changes:
 
-1. [June 2017 Champs-Elysees car ramming attack: A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/june-2017-champs-alysa-c-es-car-ramming-attack-a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-a.md) _2017-08-27 03:48:31 (First version)_
+1. [June 2017 Champs-Elysees car ramming attack: A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/june-2017-champs-alysa-c-es-car-ramming-attack-a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-a.md) _2018-02-06 13:49:30 (First version)_
 1. [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md) _(Current version)_
 
 ### Related:

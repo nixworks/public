@@ -17,7 +17,7 @@ Egypt President Sisi declares a state of emergency following two deadly bombings
 
 ### Changes:
 
-1. [2017 Palm Sunday church bombings: At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/2017-palm-sunday-church-bombings-at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed.md) _2017-08-27 03:48:08 (First version)_
+1. [2017 Palm Sunday church bombings: At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/2017-palm-sunday-church-bombings-at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed-with-worshippers-on-palm-sunday-i.md) _(Current version)_
 
 ### Related:

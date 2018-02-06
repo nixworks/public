@@ -21,8 +21,8 @@ Laboratory tests showed that the tar balls came from the BP Macondo well that bl
 
 ### Changes:
 
-1. [Deepwater Horizon oil spill:Tar balls from the Gulf oil disaster reach Louisiana's Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/deepwater-horizon-oil-spill-ptar-balls-from-the-gulf-oil-disaster-reach-louisianaas-lake-pontchartrain-and-the-shores-of-texas-near-galves.md) _2017-08-25 03:28:35 (First version)_
-2. [Deepwater Horizon oil spill:: Tar balls from the Gulf oil disaster reach Louisiana-s Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/deepwater-horizon-oil-spill-tar-balls-from-the-gulf-oil-disaster-reach-louisiana-s-lake-pontchartrain-and-the-shores-of-texas-near-galve.md) _2017-08-27 03:28:36 (Update)_
+1. [Deepwater Horizon oil spill:: Tar balls from the Gulf oil disaster reach Louisiana-s Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/deepwater-horizon-oil-spill-tar-balls-from-the-gulf-oil-disaster-reach-louisiana-s-lake-pontchartrain-and-the-shores-of-texas-near-galve.md) _2018-02-06 13:49:20 (First version)_
+2. [Deepwater Horizon oil spill:Tar balls from the Gulf oil disaster reach Louisiana's Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/deepwater-horizon-oil-spill-ptar-balls-from-the-gulf-oil-disaster-reach-louisianaas-lake-pontchartrain-and-the-shores-of-texas-near-galves.md) _2018-02-06 13:49:20 (Update)_
 2. [Tar balls from the Gulf oil disaster reach Louisiana's Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/tar-balls-from-the-gulf-oil-disaster-reach-louisianaas-lake-pontchartrain-and-the-shores-of-texas-near-galveston-on-day-77-of-the-disaste.md) _(Current version)_
 
 ### Related:

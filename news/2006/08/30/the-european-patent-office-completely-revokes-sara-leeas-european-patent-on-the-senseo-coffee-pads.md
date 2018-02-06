@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/30/the-european-patent-office-completely-revokes-s
 
 ### Changes:
 
-1. [ The European Patent Office completely revokes Sara Lee-s European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-lee-s-european-patent-on-the-senseo-coffee-pads.md) _2017-08-27 03:18:13 (First version)_
+1. [ The European Patent Office completely revokes Sara Lee-s European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-lee-s-european-patent-on-the-senseo-coffee-pads.md) _2018-02-06 13:49:17 (First version)_
 1. [ The European Patent Office completely revokes Sara Lee's European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-leeas-european-patent-on-the-senseo-coffee-pads.md) _(Current version)_
 
 ### Related:

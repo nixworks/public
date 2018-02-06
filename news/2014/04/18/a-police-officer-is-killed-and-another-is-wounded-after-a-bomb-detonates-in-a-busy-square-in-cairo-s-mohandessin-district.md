@@ -16,8 +16,8 @@ Security official says bomb detonated next to traffic post in Lebanon Square in 
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt (2013-14):A police officer is killed and another is wounded after a bomb detonates in a busy square in Cairo's Mohandessin district. ](/news/2014/04/18/post-coup-unrest-in-egypt-2013a14-pa-police-officer-is-killed-and-another-is-wounded-after-a-bomb-detonates-in-a-busy-square-in-cairo-s.md) _2017-08-25 03:40:18 (First version)_
-2. [Post-coup unrest in Egypt (2013-14):: A police officer is killed and another is wounded after a bomb detonates in a busy square in Cairo's Mohandessin district. ](/news/2014/04/18/post-coup-unrest-in-egypt-2013-14-a-police-officer-is-killed-and-another-is-wounded-after-a-bomb-detonates-in-a-busy-square-in-cairo-s.md) _2017-08-27 03:40:36 (Update)_
+1. [Post-coup unrest in Egypt (2013-14):A police officer is killed and another is wounded after a bomb detonates in a busy square in Cairo's Mohandessin district. ](/news/2014/04/18/post-coup-unrest-in-egypt-2013a14-pa-police-officer-is-killed-and-another-is-wounded-after-a-bomb-detonates-in-a-busy-square-in-cairo-s.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt (2013-14):: A police officer is killed and another is wounded after a bomb detonates in a busy square in Cairo's Mohandessin district. ](/news/2014/04/18/post-coup-unrest-in-egypt-2013-14-a-police-officer-is-killed-and-another-is-wounded-after-a-bomb-detonates-in-a-busy-square-in-cairo-s.md) _2018-02-06 13:49:26 (Update)_
 2. [A police officer is killed and another is wounded after a bomb detonates in a busy square in Cairo's Mohandessin district. ](/news/2014/04/18/a-police-officer-is-killed-and-another-is-wounded-after-a-bomb-detonates-in-a-busy-square-in-cairo-s-mohandessin-district.md) _(Current version)_
 
 ### Related:

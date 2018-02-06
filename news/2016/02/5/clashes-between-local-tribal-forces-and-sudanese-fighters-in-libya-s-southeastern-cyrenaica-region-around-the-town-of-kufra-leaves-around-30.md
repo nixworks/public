@@ -16,7 +16,7 @@ Two days of clashes in southeastern Libya between a local armed faction and Suda
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/libyan-civil-war-2014-present-clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around.md) _2017-08-27 03:44:50 (First version)_
+1. [Libyan Civil War (2014-present): Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/libyan-civil-war-2014-present-clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around.md) _2018-02-06 13:49:28 (First version)_
 1. [Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around-the-town-of-kufra-leaves-around-30.md) _(Current version)_
 
 ### Related:

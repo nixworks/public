@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-kill
 
 ### Changes:
 
-1. [2016 Djebel Jelloud train accident: A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/2016-djebel-jelloud-train-accident-a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _2017-08-27 03:47:32 (First version)_
+1. [2016 Djebel Jelloud train accident: A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/2016-djebel-jelloud-train-accident-a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _2018-02-06 13:49:30 (First version)_
 1. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _(Current version)_
 
 ### Related:

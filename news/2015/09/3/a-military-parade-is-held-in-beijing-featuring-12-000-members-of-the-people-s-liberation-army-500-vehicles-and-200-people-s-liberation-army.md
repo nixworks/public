@@ -16,7 +16,7 @@ The military parade in Beijing on September 3, celebrating Japan’s surrender i
 
 ### Changes:
 
-1. [2015 China's V-Day Parade: A military parade is held in Beijing featuring 12,000 members of the People's Liberation Army, 500 vehicles and 200 People's Liberation Army Air Force air craft. Women of the Chinese military are allowed to participate in this particular parade for the first time. ](/news/2015/09/3/2015-china-s-v-day-parade-a-military-parade-is-held-in-beijing-featuring-12-000-members-of-the-people-s-liberation-army-500-vehicles-and-2.md) _2017-08-27 03:42:57 (First version)_
+1. [2015 China's V-Day Parade: A military parade is held in Beijing featuring 12,000 members of the People's Liberation Army, 500 vehicles and 200 People's Liberation Army Air Force air craft. Women of the Chinese military are allowed to participate in this particular parade for the first time. ](/news/2015/09/3/2015-china-s-v-day-parade-a-military-parade-is-held-in-beijing-featuring-12-000-members-of-the-people-s-liberation-army-500-vehicles-and-2.md) _2018-02-06 13:49:27 (First version)_
 1. [A military parade is held in Beijing featuring 12,000 members of the People's Liberation Army, 500 vehicles and 200 People's Liberation Army Air Force air craft. Women of the Chinese military are allowed to participate in this particular parade for the first time. ](/news/2015/09/3/a-military-parade-is-held-in-beijing-featuring-12-000-members-of-the-people-s-liberation-army-500-vehicles-and-200-people-s-liberation-army.md) _(Current version)_
 
 ### Related:

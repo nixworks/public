@@ -17,7 +17,7 @@ The Workers’ Party of ousted President Dilma Rousseff suffered heavy losses in
 
 ### Changes:
 
-1. [Brazil municipal elections, 2016: Brazilian voters cast ballots in the nationwide election of mayors and city councils in 5,568 municipalities. Pollsters predict that the Workers' Party will fair poorly. This is the country's first election since the impeachment of former president Dilma Rousseff. ](/news/2016/10/2/brazil-municipal-elections-2016-brazilian-voters-cast-ballots-in-the-nationwide-election-of-mayors-and-city-councils-in-5-568-municipaliti.md) _2017-08-27 03:46:56 (First version)_
+1. [Brazil municipal elections, 2016: Brazilian voters cast ballots in the nationwide election of mayors and city councils in 5,568 municipalities. Pollsters predict that the Workers' Party will fair poorly. This is the country's first election since the impeachment of former president Dilma Rousseff. ](/news/2016/10/2/brazil-municipal-elections-2016-brazilian-voters-cast-ballots-in-the-nationwide-election-of-mayors-and-city-councils-in-5-568-municipaliti.md) _2018-02-06 13:49:29 (First version)_
 1. [Brazilian voters cast ballots in the nationwide election of mayors and city councils in 5,568 municipalities. Pollsters predict that the Workers' Party will fair poorly. This is the country's first election since the impeachment of former president Dilma Rousseff. ](/news/2016/10/2/brazilian-voters-cast-ballots-in-the-nationwide-election-of-mayors-and-city-councils-in-5-568-municipalities-pollsters-predict-that-the-wor.md) _(Current version)_
 
 ### Related:

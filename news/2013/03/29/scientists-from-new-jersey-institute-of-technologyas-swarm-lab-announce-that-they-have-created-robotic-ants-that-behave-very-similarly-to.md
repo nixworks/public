@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/03/29/scientists-from-new-jersey-institute-of-technol
 
 ### Changes:
 
-1. [Scientists from New Jersey Institute of Technology-s Swarm Lab announce that they have created robotic ants that behave very similarly to real ants. ](/news/2013/03/29/scientists-from-new-jersey-institute-of-technology-s-swarm-lab-announce-that-they-have-created-robotic-ants-that-behave-very-similarly-to.md) _2017-08-27 03:38:16 (First version)_
+1. [Scientists from New Jersey Institute of Technology-s Swarm Lab announce that they have created robotic ants that behave very similarly to real ants. ](/news/2013/03/29/scientists-from-new-jersey-institute-of-technology-s-swarm-lab-announce-that-they-have-created-robotic-ants-that-behave-very-similarly-to.md) _2018-02-06 13:49:24 (First version)_
 1. [Scientists from New Jersey Institute of Technology's Swarm Lab announce that they have created robotic ants that behave very similarly to real ants. ](/news/2013/03/29/scientists-from-new-jersey-institute-of-technologyas-swarm-lab-announce-that-they-have-created-robotic-ants-that-behave-very-similarly-to.md) _(Current version)_
 
 ### Related:

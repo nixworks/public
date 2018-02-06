@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/30/there-is-a-second-day-of-rallies-in-malaysia-ca
 
 ### Changes:
 
-1. [Bersih 4 rally: There is a second day of rallies in Malaysia calling on Prime Minister Najib Razak to resign over the 1Malaysia Development Berhad scandal. ](/news/2015/08/30/bersih-4-rally-there-is-a-second-day-of-rallies-in-malaysia-calling-on-prime-minister-najib-razak-to-resign-over-the-1malaysia-development.md) _2017-08-27 03:42:56 (First version)_
+1. [Bersih 4 rally: There is a second day of rallies in Malaysia calling on Prime Minister Najib Razak to resign over the 1Malaysia Development Berhad scandal. ](/news/2015/08/30/bersih-4-rally-there-is-a-second-day-of-rallies-in-malaysia-calling-on-prime-minister-najib-razak-to-resign-over-the-1malaysia-development.md) _2018-02-06 13:49:27 (First version)_
 1. [There is a second day of rallies in Malaysia calling on Prime Minister Najib Razak to resign over the 1Malaysia Development Berhad scandal. ](/news/2015/08/30/there-is-a-second-day-of-rallies-in-malaysia-calling-on-prime-minister-najib-razak-to-resign-over-the-1malaysia-development-berhad-scandal.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A clear majority of Thai referendum voters back a draft constitution written by 
 
 ### Changes:
 
-1. [Thai constitutional referendum, 2016: Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/thai-constitutional-referendum-2016-voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-election.md) _2017-08-27 03:46:37 (First version)_
+1. [Thai constitutional referendum, 2016: Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/thai-constitutional-referendum-2016-voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md) _(Current version)_
 
 ### Related:

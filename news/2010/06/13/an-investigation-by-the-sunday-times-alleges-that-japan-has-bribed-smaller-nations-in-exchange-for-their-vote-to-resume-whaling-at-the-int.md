@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-th
 
 ### Changes:
 
-1. [An investigation by ''The Sunday Times'' alleges that Japan has bribed smaller nations in exchange for their vote to resume whaling at the International Whaling Commission. ](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-that-japan-has-bribed-smaller-nations-in-exchange-for-their-vote-to-resume-whaling-at-the-i.md) _2017-08-25 03:28:15 (First version)_
+1. [An investigation by ''The Sunday Times'' alleges that Japan has bribed smaller nations in exchange for their vote to resume whaling at the International Whaling Commission. ](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-that-japan-has-bribed-smaller-nations-in-exchange-for-their-vote-to-resume-whaling-at-the-i.md) _2018-02-06 13:49:20 (First version)_
 1. [An investigation by "The Sunday Times" alleges that Japan has bribed smaller nations in exchange for their vote to resume whaling at the International Whaling Commission. ](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-that-japan-has-bribed-smaller-nations-in-exchange-for-their-vote-to-resume-whaling-at-the-int.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Thousands of villagers on the Indonesian resort island of Bali are sheltering in
 
 ### Changes:
 
-1. [Thousands of people on the Indonesian flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-the-volcano-was.md) _2017-09-23 07:30:05 (First version)_
+1. [Thousands of people on the Indonesian flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-the-volcano-was.md) _2018-02-06 13:49:31 (First version)_
 1. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _(Current version)_
 
 ### Related:

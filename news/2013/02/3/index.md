@@ -29,7 +29,7 @@ _Context: Iran, Kazakhstan_
 
 ##### Israel
 ### [In response to Israeli air strikes on Syria, Prime Minister of Turkey Recep Tayyip Erdogan says Israel's government is waging "state terrorism". ](/news/2013/02/3/in-response-to-israeli-air-strikes-on-syria-prime-minister-of-turkey-recep-tayyip-erdoaan-says-israel-s-government-is-waging-state-terror.md)
-_Context: Israel, Turkish, Syria, Turkish Prime Minister, Recep Tayyip Erdogan_
+_Context: Israel, Turkish Prime Minister, Recep Tayyip Erdogan, Turkey, Syria_
 
 ## [Previous Day...](/news/2013/02/2/index.md)
 

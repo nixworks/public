@@ -20,8 +20,8 @@ International Monetary Fund head Dominique Strauss-Kahn resigns following an all
 
 ### Changes:
 
-1. [Dominique Strauss-Kahn sexual assault charge:Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-pdominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-follo.md) _2017-08-25 03:33:10 (First version)_
-2. [Dominique Strauss-Kahn sexual assault charge:: Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-dominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-foll.md) _2017-08-27 03:33:20 (Update)_
+1. [Dominique Strauss-Kahn sexual assault charge:Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-pdominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-follo.md) _2018-02-06 13:49:22 (First version)_
+2. [Dominique Strauss-Kahn sexual assault charge:: Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-dominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-foll.md) _2018-02-06 13:49:22 (Update)_
 2. [Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-following-the-charges.md) _(Current version)_
 
 ### Related:

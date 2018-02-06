@@ -16,8 +16,8 @@ Fighter jets have bombed camps belonging to suspected Islamist militants in nort
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/islamist-insurgency-in-nigeria-pair-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-response.md) _2017-08-25 03:39:21 (First version)_
-2. [Islamist insurgency in Nigeria:: Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/islamist-insurgency-in-nigeria-air-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-respons.md) _2017-08-27 03:39:38 (Update)_
+1. [Islamist insurgency in Nigeria:Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/islamist-insurgency-in-nigeria-pair-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-response.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/islamist-insurgency-in-nigeria-air-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-respons.md) _2018-02-06 13:49:25 (Update)_
 2. [Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/air-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-response-to-a-massacre-of-students-at-an.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/13/as-a-temporary-security-measure-effective-satur
 
 ### Changes:
 
-1. [Metrojet Flight 9268: As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline, EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/metrojet-flight-9268-as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyp.md) _2017-08-27 03:43:50 (First version)_
+1. [Metrojet Flight 9268: As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline, EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/metrojet-flight-9268-as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyp.md) _2018-02-06 13:49:28 (First version)_
 1. [As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline, EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyptair-two-weeks-after.md) _(Current version)_
 
 ### Related:

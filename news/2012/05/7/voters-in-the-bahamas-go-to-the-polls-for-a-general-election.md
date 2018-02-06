@@ -17,8 +17,8 @@ Outgoing prime minister and Free National Movement (FNM) leader, Hubert Ingraham
 
 ### Changes:
 
-1. [Bahamian general election, 2012:Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/bahamian-general-election-2012-pvoters-in-the-bahamas-go-to-the-polls-for-a-general-election.md) _2017-08-25 03:35:38 (First version)_
-2. [Bahamian general election, 2012:: Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/bahamian-general-election-2012-voters-in-the-bahamas-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:35:48 (Update)_
+1. [Bahamian general election, 2012:: Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/bahamian-general-election-2012-voters-in-the-bahamas-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:23 (First version)_
+2. [Bahamian general election, 2012:Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/bahamian-general-election-2012-pvoters-in-the-bahamas-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/voters-in-the-bahamas-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The coordinated attack is another stinging blow to NATO-backed Afghan forces.
 
 ### Changes:
 
-1. [A Taliban raid kills at least twenty Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-twenty-afghan-police-officers-in-southern-afghanistan.md) _2017-05-22 15:30:06 (First version)_
-2. [War in Afghanistan (2015-present): A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/war-in-afghanistan-2015-present-a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _2017-08-27 03:48:22 (Update)_
+1. [War in Afghanistan (2015-present): A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/war-in-afghanistan-2015-present-a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _2018-02-06 13:49:30 (First version)_
+2. [A Taliban raid kills at least twenty Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-twenty-afghan-police-officers-in-southern-afghanistan.md) _2018-02-06 13:49:30 (Update)_
 2. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _(Current version)_
 
 ### Related:

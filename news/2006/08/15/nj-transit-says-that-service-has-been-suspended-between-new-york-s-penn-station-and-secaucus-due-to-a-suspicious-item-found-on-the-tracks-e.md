@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/15/nj-transit-says-that-service-has-been-suspended
 
 ### Changes:
 
-1. [ New Jersey Transit says that service has been suspended between New York's Penn Station and Secaucus due to a suspicious item found on the tracks east of the Secaucus junction. ](/news/2006/08/15/new-jersey-transit-says-that-service-has-been-suspended-between-new-york-s-penn-station-and-secaucus-due-to-a-suspicious-item-found-on-the.md) _2017-10-17 03:21:06 (First version)_
+1. [ New Jersey Transit says that service has been suspended between New York's Penn Station and Secaucus due to a suspicious item found on the tracks east of the Secaucus junction. ](/news/2006/08/15/new-jersey-transit-says-that-service-has-been-suspended-between-new-york-s-penn-station-and-secaucus-due-to-a-suspicious-item-found-on-the.md) _2018-02-06 13:49:17 (First version)_
 1. [ NJ Transit says that service has been suspended between New York's Penn Station and Secaucus due to a suspicious item found on the tracks east of the Secaucus junction. ](/news/2006/08/15/nj-transit-says-that-service-has-been-suspended-between-new-york-s-penn-station-and-secaucus-due-to-a-suspicious-item-found-on-the-tracks-e.md) _(Current version)_
 
 ### Related:

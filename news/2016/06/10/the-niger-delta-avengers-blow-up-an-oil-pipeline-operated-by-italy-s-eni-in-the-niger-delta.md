@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipelin
 
 ### Changes:
 
-1. [Conflict in the Niger Delta: The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/conflict-in-the-niger-delta-the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md) _2017-08-27 03:46:14 (First version)_
+1. [Conflict in the Niger Delta: The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/conflict-in-the-niger-delta-the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md) _2018-02-06 13:49:29 (First version)_
 1. [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md) _(Current version)_
 
 ### Related:

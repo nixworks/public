@@ -11,7 +11,7 @@ Arabian Al Qaeda confirms death of deputy leader Saeed al-Shehri by US drone str
 ### [Protests break out in Egypt when envoys from the European Union visit the country, protesting for Morsi to be brought back to power. ](/news/2013/07/17/protests-break-out-in-egypt-when-envoys-from-the-european-union-visit-the-country-protesting-for-morsi-to-be-brought-back-to-power.md)
 Crowds again fill Cairo after EU foreign policy chief calls for deposed president to be freed from custody.
 
-##### Turkish
+##### Turkey
 ### [1 man and a 15-year-old boy are killed near the Turkish border town of Ceylanpinar after clashes erupted between Al-Nausra and female Kurds of the YPG. ](/news/2013/07/17/1-man-and-a-15-year-old-boy-are-killed-near-the-turkish-border-town-of-ceylanpa-nar-after-clashes-erupted-between-al-nausra-and-female-kurds.md)
 Kurdish militants look for victory over Islamist rebels in Ras al-Ayn as the Turkish army fires on Syria after stray Syrian bullets claimed lives on Turkish soil
 
@@ -21,7 +21,7 @@ A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least s
 
 ##### floods
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)
-_Context: floods, Sichuan, China_
+_Context: Sichuan, China, floods_
 
 ##### heat wave
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
@@ -33,7 +33,7 @@ A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on
 
 ##### German
 ### [German authorities indict Formula One boss Bernie Ecclestone for alleged bribery. ](/news/2013/07/17/german-authorities-indict-formula-one-boss-bernie-ecclestone-for-alleged-bribery.md)
-_Context: German, indicted, Formula One, Bernie Ecclestone_
+_Context: German, indicted, Bernie Ecclestone, Formula One_
 
 ##### Same-sex marriage becomes legal in England and Wales
 ### [Same-sex marriage becomes legal in England and Wales after the Marriage (Same Sex Couples) Bill receives Royal Assent. ](/news/2013/07/17/same-sex-marriage-becomes-legal-in-england-and-wales-after-the-marriage-same-sex-couples-bill-receives-royal-assent.md)

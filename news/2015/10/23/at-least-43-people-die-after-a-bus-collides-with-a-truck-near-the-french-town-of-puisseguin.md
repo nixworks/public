@@ -16,7 +16,7 @@ Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic
 
 ### Changes:
 
-1. [2015 Puisseguin road crash: At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/2015-puisseguin-road-crash-at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md) _2017-08-27 03:43:28 (First version)_
+1. [2015 Puisseguin road crash: At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/2015-puisseguin-road-crash-at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md) _(Current version)_
 
 ### Related:

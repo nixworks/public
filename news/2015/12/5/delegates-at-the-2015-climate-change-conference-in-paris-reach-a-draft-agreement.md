@@ -16,7 +16,7 @@ Delegates at a UN climate conference in Paris have approved a new draft text tha
 
 ### Changes:
 
-1. [2015 United Nations Climate Change Conference: Delegates at the 2015 Climate Change conference in Paris reach a draft agreement. ](/news/2015/12/5/2015-united-nations-climate-change-conference-delegates-at-the-2015-climate-change-conference-in-paris-reach-a-draft-agreement.md) _2017-08-27 03:44:11 (First version)_
+1. [2015 United Nations Climate Change Conference: Delegates at the 2015 Climate Change conference in Paris reach a draft agreement. ](/news/2015/12/5/2015-united-nations-climate-change-conference-delegates-at-the-2015-climate-change-conference-in-paris-reach-a-draft-agreement.md) _2018-02-06 13:49:28 (First version)_
 1. [Delegates at the 2015 Climate Change conference in Paris reach a draft agreement. ](/news/2015/12/5/delegates-at-the-2015-climate-change-conference-in-paris-reach-a-draft-agreement.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/10/at-least-four-policemen-are-killed-and-another-
 
 ### Changes:
 
-1. [Terrorism in Pakistan: At least four policemen are killed and another four are wounded in separate attacks in Karachi and Rawalpindi. ](/news/2014/11/10/terrorism-in-pakistan-at-least-four-policemen-are-killed-and-another-four-are-wounded-in-separate-attacks-in-karachi-and-rawalpindi.md) _2017-08-27 03:41:29 (First version)_
+1. [Terrorism in Pakistan: At least four policemen are killed and another four are wounded in separate attacks in Karachi and Rawalpindi. ](/news/2014/11/10/terrorism-in-pakistan-at-least-four-policemen-are-killed-and-another-four-are-wounded-in-separate-attacks-in-karachi-and-rawalpindi.md) _2018-02-06 13:49:26 (First version)_
 1. [At least four policemen are killed and another four are wounded in separate attacks in Karachi and Rawalpindi. ](/news/2014/11/10/at-least-four-policemen-are-killed-and-another-four-are-wounded-in-separate-attacks-in-karachi-and-rawalpindi.md) _(Current version)_
 
 ### Related:

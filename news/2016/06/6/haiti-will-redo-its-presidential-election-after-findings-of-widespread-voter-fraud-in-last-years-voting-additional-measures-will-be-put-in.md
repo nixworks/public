@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/6/haiti-will-redo-its-presidential-election-after-
 
 ### Changes:
 
-1. [Haitian presidential election, 2015-16: Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haitian-presidential-election-2015-16-haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-v.md) _2017-08-27 03:46:12 (First version)_
+1. [Haitian presidential election, 2015-16: Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haitian-presidential-election-2015-16-haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-v.md) _2018-02-06 13:49:29 (First version)_
 1. [Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-voting-additional-measures-will-be-put-in.md) _(Current version)_
 
 ### Related:

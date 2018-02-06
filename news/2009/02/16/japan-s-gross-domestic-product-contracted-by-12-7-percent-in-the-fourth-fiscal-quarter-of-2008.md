@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/02/16/japan-s-gross-domestic-product-contracted-by-12
 
 ### Changes:
 
-1. [ Late 2000s recession: Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/late-2000s-recession-p-japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md) _2017-08-25 03:23:47 (First version)_
-2. [ Late 2000s recession:: Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/late-2000s-recession-japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md) _2017-08-27 03:23:38 (Update)_
+1. [ Late 2000s recession: Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/late-2000s-recession-p-japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession:: Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/late-2000s-recession-japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md) _2018-02-06 13:49:18 (Update)_
 2. [ Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md) _(Current version)_
 
 ### Related:

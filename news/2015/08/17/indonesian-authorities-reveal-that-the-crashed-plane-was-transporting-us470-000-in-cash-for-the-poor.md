@@ -16,7 +16,7 @@ Rescuers in Indonesia are trying to reach the site where a Trigana Airlines plan
 
 ### Changes:
 
-1. [Trigana Air Service Flight 257: Indonesian authorities reveal that the crashed plane was transporting $US470,000 in cash for the poor. ](/news/2015/08/17/trigana-air-service-flight-257-indonesian-authorities-reveal-that-the-crashed-plane-was-transporting-us470-000-in-cash-for-the-poor.md) _2017-08-27 03:42:51 (First version)_
+1. [Trigana Air Service Flight 257: Indonesian authorities reveal that the crashed plane was transporting $US470,000 in cash for the poor. ](/news/2015/08/17/trigana-air-service-flight-257-indonesian-authorities-reveal-that-the-crashed-plane-was-transporting-us470-000-in-cash-for-the-poor.md) _2018-02-06 13:49:27 (First version)_
 1. [Indonesian authorities reveal that the crashed plane was transporting $US470,000 in cash for the poor. ](/news/2015/08/17/indonesian-authorities-reveal-that-the-crashed-plane-was-transporting-us470-000-in-cash-for-the-poor.md) _(Current version)_
 
 ### Related:

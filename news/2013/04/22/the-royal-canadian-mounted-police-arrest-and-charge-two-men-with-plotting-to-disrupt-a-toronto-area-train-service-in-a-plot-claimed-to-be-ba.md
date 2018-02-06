@@ -16,8 +16,8 @@ Canadian police have arrested two men and charged them with plotting to derail a
 
 ### Changes:
 
-1. [2013 VIA Rail Canada terrorism plot:The Royal Canadian Mounted Police arrest and charge two men with plotting to disrupt a Toronto area train service in a plot claimed to be backed by al-Qaeda elements. ](/news/2013/04/22/2013-via-rail-canada-terrorism-plot-pthe-royal-canadian-mounted-police-arrest-and-charge-two-men-with-plotting-to-disrupt-a-toronto-area-tra.md) _2017-08-25 03:38:27 (First version)_
-2. [2013 VIA Rail Canada terrorism plot:: The Royal Canadian Mounted Police arrest and charge two men with plotting to disrupt a Toronto area train service in a plot claimed to be backed by al-Qaeda elements. ](/news/2013/04/22/2013-via-rail-canada-terrorism-plot-the-royal-canadian-mounted-police-arrest-and-charge-two-men-with-plotting-to-disrupt-a-toronto-area-tr.md) _2017-08-27 03:38:39 (Update)_
+1. [2013 VIA Rail Canada terrorism plot:: The Royal Canadian Mounted Police arrest and charge two men with plotting to disrupt a Toronto area train service in a plot claimed to be backed by al-Qaeda elements. ](/news/2013/04/22/2013-via-rail-canada-terrorism-plot-the-royal-canadian-mounted-police-arrest-and-charge-two-men-with-plotting-to-disrupt-a-toronto-area-tr.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 VIA Rail Canada terrorism plot:The Royal Canadian Mounted Police arrest and charge two men with plotting to disrupt a Toronto area train service in a plot claimed to be backed by al-Qaeda elements. ](/news/2013/04/22/2013-via-rail-canada-terrorism-plot-pthe-royal-canadian-mounted-police-arrest-and-charge-two-men-with-plotting-to-disrupt-a-toronto-area-tra.md) _2018-02-06 13:49:24 (Update)_
 2. [The Royal Canadian Mounted Police arrest and charge two men with plotting to disrupt a Toronto area train service in a plot claimed to be backed by al-Qaeda elements. ](/news/2013/04/22/the-royal-canadian-mounted-police-arrest-and-charge-two-men-with-plotting-to-disrupt-a-toronto-area-train-service-in-a-plot-claimed-to-be-ba.md) _(Current version)_
 
 ### Related:

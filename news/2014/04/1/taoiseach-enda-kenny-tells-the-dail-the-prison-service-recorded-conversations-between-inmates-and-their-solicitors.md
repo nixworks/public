@@ -17,8 +17,8 @@ The Irish Prison Service has confirmed that 139 prisoners had their telephone co
 
 ### Changes:
 
-1. [2014 Garda phone recordings controversy:Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-ptaoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and-t.md) _2017-08-25 03:40:14 (First version)_
-2. [2014 Garda phone recordings controversy:: Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-taoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and.md) _2017-08-27 03:40:32 (Update)_
+1. [2014 Garda phone recordings controversy:: Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-taoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Garda phone recordings controversy:Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-ptaoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and-t.md) _2018-02-06 13:49:26 (Update)_
 2. [Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/taoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and-their-solicitors.md) _(Current version)_
 
 ### Related:

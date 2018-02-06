@@ -16,7 +16,7 @@ PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday,
 
 ### Changes:
 
-1. [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the lyse Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-elysee-palace-in-paris.md) _2017-11-18 22:30:05 (First version)_
+1. [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the lyse Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-elysee-palace-in-paris.md) _2018-02-06 13:49:31 (First version)_
 1. [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md) _(Current version)_
 
 ### Related:

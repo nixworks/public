@@ -18,8 +18,8 @@ At least five cases of the disease discovered in Port-au-Prince, but UN official
 
 ### Changes:
 
-1. [2010 Haitian cholera outbreak:Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-pcholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _2017-08-25 03:30:40 (First version)_
-2. [2010 Haitian cholera outbreak:: Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _2017-08-27 03:30:46 (Update)_
+1. [2010 Haitian cholera outbreak:Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-pcholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Haitian cholera outbreak:: Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _2018-02-06 13:49:20 (Update)_
 2. [Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _(Current version)_
 
 ### Related:

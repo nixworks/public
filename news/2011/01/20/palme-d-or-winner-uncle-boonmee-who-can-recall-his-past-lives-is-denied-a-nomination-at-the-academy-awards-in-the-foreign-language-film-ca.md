@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-
 
 ### Changes:
 
-1. [Palme d'Or winner ''Uncle Boonmee Who Can Recall His Past Lives'' is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film.md) _2017-08-25 03:31:51 (First version)_
+1. [Palme d'Or winner ''Uncle Boonmee Who Can Recall His Past Lives'' is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film.md) _2018-02-06 13:49:21 (First version)_
 1. [Palme d'Or winner "Uncle Boonmee Who Can Recall His Past Lives" is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film-ca.md) _(Current version)_
 
 ### Related:

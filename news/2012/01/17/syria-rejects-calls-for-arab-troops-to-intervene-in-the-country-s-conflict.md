@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/01/17/syria-rejects-calls-for-arab-troops-to-interven
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011a2012-syrian-uprising-psyria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md) _2017-08-25 03:34:51 (First version)_
-2. [2011-2012 Syrian uprising:: Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011-2012-syrian-uprising-syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md) _2017-08-27 03:35:00 (Update)_
+1. [2011-2012 Syrian uprising:Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011a2012-syrian-uprising-psyria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011-2012-syrian-uprising-syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md) _2018-02-06 13:49:23 (Update)_
 2. [Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md) _(Current version)_
 
 ### Related:

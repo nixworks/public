@@ -11,9 +11,9 @@ Leaders of the pro-Russia separatists said they had decided to surrender another
 ### [A BBC investigation determines that photographs circulating on social media sites allegedly covering the airstrikes on Gaza include photographs taken from conflicts in Iraq and Syria and are up to five years old. ](/news/2014/07/10/a-bbc-investigation-determines-that-photographs-circulating-on-social-media-sites-allegedly-covering-the-airstrikes-on-gaza-include-photogra.md)
 How graphic images are being used on social media.
 
-##### British
+##### United Kingdom
 ### [Civil servants in the United Kingdom go on strike over salary freezes and public sector cuts. ](/news/2014/07/10/civil-servants-in-the-united-kingdom-go-on-strike-over-salary-freezes-and-public-sector-cuts.md)
-_Context: British_
+_Context: United Kingdom_
 
 ##### German
 ### [Germany expels the Berlin station chief of the United States Central Intelligence Agency following a series of spy scandals. ](/news/2014/07/10/germany-expels-the-berlin-station-chief-of-the-united-states-central-intelligence-agency-following-a-series-of-spy-scandals.md)
@@ -25,7 +25,7 @@ _Context: Myanmar, Yangon_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md)
-_Context: 2014 Pacific typhoon season, Japan, Honshu Island, Typhoon Neoguri_
+_Context: Honshu Island, Japan, Typhoon Neoguri, 2014 Pacific typhoon season_
 
 ## [Previous Day...](/news/2014/07/9/index.md)
 

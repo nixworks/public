@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the
 
 ### Changes:
 
-1. [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-pacific-ocean-oil-pipeline.md) _2017-08-27 03:26:34 (First version)_
+1. [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-pacific-ocean-oil-pipeline.md) _2018-02-06 13:49:19 (First version)_
 1. [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-a-pacific-ocean-oil-pipeline.md) _(Current version)_
 
 ### Related:

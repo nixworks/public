@@ -45,7 +45,7 @@ Gunmen in Guatemala kill the mayor of the town of Jutiapa as President Otto Pere
 
 ##### Secretary of the Interior
 ### [US Interior Secretary Ken Salazar announces that he is to leave the office in March. ](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.md)
-_Context: Secretary of the Interior, Ken Salazar_
+_Context: Ken Salazar, Secretary of the Interior_
 
 ## [Previous Day...](/news/2013/01/15/index.md)
 

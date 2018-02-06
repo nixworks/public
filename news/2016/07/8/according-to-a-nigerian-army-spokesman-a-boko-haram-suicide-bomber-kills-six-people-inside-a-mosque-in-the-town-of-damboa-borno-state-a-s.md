@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-ha
 
 ### Changes:
 
-1. [Boko Haram insurgency: According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/boko-haram-insurgency-according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-d.md) _2017-08-27 03:46:27 (First version)_
+1. [Boko Haram insurgency: According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/boko-haram-insurgency-according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-d.md) _2018-02-06 13:49:29 (First version)_
 1. [According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-damboa-borno-state-a-s.md) _(Current version)_
 
 ### Related:

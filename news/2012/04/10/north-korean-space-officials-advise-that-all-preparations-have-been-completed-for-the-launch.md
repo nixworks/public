@@ -17,6 +17,6 @@ North Korea says the rocket built to carry a satellite into space is ready for l
 
 ### Changes:
 
-1. [North Korean rocket:North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-rocket-pnorth-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md) _2017-08-25 03:35:28 (First version)_
-2. [North Korean rocket:: North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-rocket-north-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md) _2017-08-27 03:35:37 (Update)_
+1. [North Korean rocket:North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-rocket-pnorth-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md) _2018-02-06 13:49:23 (First version)_
+2. [North Korean rocket:: North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-rocket-north-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md) _2018-02-06 13:49:23 (Update)_
 2. [North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md) _(Current version)_

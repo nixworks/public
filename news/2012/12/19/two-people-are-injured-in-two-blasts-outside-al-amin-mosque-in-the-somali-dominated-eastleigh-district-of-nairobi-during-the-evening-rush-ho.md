@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/19/two-people-are-injured-in-two-blasts-outside-al
 
 ### Changes:
 
-1. [2012 terrorist attacks in Kenya:Two people are injured in two blasts outside al-Amin mosque in the Somali-dominated Eastleigh district of Nairobi during the evening rush hour. ](/news/2012/12/19/2012-terrorist-attacks-in-kenya-ptwo-people-are-injured-in-two-blasts-outside-al-amin-mosque-in-the-somali-dominated-eastleigh-district-of-n.md) _2017-08-25 03:37:04 (First version)_
-2. [2012 terrorist attacks in Kenya:: Two people are injured in two blasts outside al-Amin mosque in the Somali-dominated Eastleigh district of Nairobi during the evening rush hour. ](/news/2012/12/19/2012-terrorist-attacks-in-kenya-two-people-are-injured-in-two-blasts-outside-al-amin-mosque-in-the-somali-dominated-eastleigh-district-of.md) _2017-08-27 03:37:15 (Update)_
+1. [2012 terrorist attacks in Kenya:: Two people are injured in two blasts outside al-Amin mosque in the Somali-dominated Eastleigh district of Nairobi during the evening rush hour. ](/news/2012/12/19/2012-terrorist-attacks-in-kenya-two-people-are-injured-in-two-blasts-outside-al-amin-mosque-in-the-somali-dominated-eastleigh-district-of.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 terrorist attacks in Kenya:Two people are injured in two blasts outside al-Amin mosque in the Somali-dominated Eastleigh district of Nairobi during the evening rush hour. ](/news/2012/12/19/2012-terrorist-attacks-in-kenya-ptwo-people-are-injured-in-two-blasts-outside-al-amin-mosque-in-the-somali-dominated-eastleigh-district-of-n.md) _2018-02-06 13:49:24 (Update)_
 2. [Two people are injured in two blasts outside al-Amin mosque in the Somali-dominated Eastleigh district of Nairobi during the evening rush hour. ](/news/2012/12/19/two-people-are-injured-in-two-blasts-outside-al-amin-mosque-in-the-somali-dominated-eastleigh-district-of-nairobi-during-the-evening-rush-ho.md) _(Current version)_
 
 ### Related:

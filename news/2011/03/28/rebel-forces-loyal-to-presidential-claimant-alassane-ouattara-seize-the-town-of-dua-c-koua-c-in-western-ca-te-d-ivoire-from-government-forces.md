@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/03/28/rebel-forces-loyal-to-presidential-claimant-ala
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/2010-2011-ivorian-crisis-prebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoir.md) _2017-08-25 03:32:40 (First version)_
-2. [2010-2011 Ivorian crisis:: Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/2010-2011-ivorian-crisis-rebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoi.md) _2017-08-27 03:32:48 (Update)_
+1. [2010-2011 Ivorian crisis:: Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/2010-2011-ivorian-crisis-rebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoi.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis:Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/2010-2011-ivorian-crisis-prebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoir.md) _2018-02-06 13:49:22 (Update)_
 2. [Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/rebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoire-from-government-forces.md) _(Current version)_
 
 ### Related:

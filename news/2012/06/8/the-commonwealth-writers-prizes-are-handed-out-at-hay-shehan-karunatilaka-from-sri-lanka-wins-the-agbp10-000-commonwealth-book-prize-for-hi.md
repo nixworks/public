@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-a
 
 ### Changes:
 
-1. [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the PS10,000 Commonwealth Book Prize for his debut novel ''Chinaman: The Legend of Pradeep Mathew'', while Emma Martin from New Zealand wins the PS5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-aps10-000-commonwealth-book-prize-for-his.md) _2017-08-25 03:35:50 (First version)_
+1. [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the PS10,000 Commonwealth Book Prize for his debut novel ''Chinaman: The Legend of Pradeep Mathew'', while Emma Martin from New Zealand wins the PS5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-aps10-000-commonwealth-book-prize-for-his.md) _2018-02-06 13:49:23 (First version)_
 1. [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the GBP10,000 Commonwealth Book Prize for his debut novel "Chinaman: The Legend of Pradeep Mathew", while Emma Martin from New Zealand wins the GBP5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-agbp10-000-commonwealth-book-prize-for-hi.md) _(Current version)_
 
 ### Related:

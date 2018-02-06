@@ -16,7 +16,7 @@ Julian Assange seemed to suggest Seth Rich was the source of DNC email leak.
 
 ### Changes:
 
-1. [Murder of Seth Rich: WikiLeaks announces that it is offering $20,000 for information leading to a conviction in last month's shooting death of 27-year-old Democratic National Committee (DNC) staffer Seth Rich in Bloomingdale, Washington, D.C.. Police say they believe Rich was likely killed in an attempted robbery. ](/news/2016/08/9/murder-of-seth-rich-wikileaks-announces-that-it-is-offering-20-000-for-information-leading-to-a-conviction-in-last-month-s-shooting-death.md) _2017-08-27 03:46:38 (First version)_
+1. [Murder of Seth Rich: WikiLeaks announces that it is offering $20,000 for information leading to a conviction in last month's shooting death of 27-year-old Democratic National Committee (DNC) staffer Seth Rich in Bloomingdale, Washington, D.C.. Police say they believe Rich was likely killed in an attempted robbery. ](/news/2016/08/9/murder-of-seth-rich-wikileaks-announces-that-it-is-offering-20-000-for-information-leading-to-a-conviction-in-last-month-s-shooting-death.md) _2018-02-06 13:49:29 (First version)_
 1. [WikiLeaks announces that it is offering $20,000 for information leading to a conviction in last month's shooting death of 27-year-old Democratic National Committee (DNC) staffer Seth Rich in Bloomingdale, Washington, D.C.. Police say they believe Rich was likely killed in an attempted robbery. ](/news/2016/08/9/wikileaks-announces-that-it-is-offering-20-000-for-information-leading-to-a-conviction-in-last-month-s-shooting-death-of-27-year-old-democr.md) _(Current version)_
 
 ### Related:

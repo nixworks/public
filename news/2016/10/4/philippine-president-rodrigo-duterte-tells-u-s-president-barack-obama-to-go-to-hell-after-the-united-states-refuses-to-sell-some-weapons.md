@@ -16,7 +16,7 @@ Philippine leader Rodrigo Duterte on Tuesday told U.S. President Barack Obama to
 
 ### Changes:
 
-1. [Philippines-United States relations: Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippines-united-states-relations-philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-unit.md) _2017-08-27 03:46:58 (First version)_
+1. [Philippines-United States relations: Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippines-united-states-relations-philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-unit.md) _2018-02-06 13:49:29 (First version)_
 1. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _(Current version)_
 
 ### Related:

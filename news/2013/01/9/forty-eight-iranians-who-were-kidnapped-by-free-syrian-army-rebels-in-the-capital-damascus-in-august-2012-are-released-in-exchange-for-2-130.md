@@ -16,8 +16,8 @@ Forty-eight Iranians held hostage by Syrian rebels since August are freed, repor
 
 ### Changes:
 
-1. [Syrian civil war:Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/syrian-civil-war-pforty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in.md) _2017-08-25 03:37:14 (First version)_
-2. [Syrian civil war:: Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/syrian-civil-war-forty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in.md) _2017-08-27 03:37:24 (Update)_
+1. [Syrian civil war:Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/syrian-civil-war-pforty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/syrian-civil-war-forty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in.md) _2018-02-06 13:49:24 (Update)_
 2. [Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/forty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in-exchange-for-2-130.md) _(Current version)_
 
 ### Related:

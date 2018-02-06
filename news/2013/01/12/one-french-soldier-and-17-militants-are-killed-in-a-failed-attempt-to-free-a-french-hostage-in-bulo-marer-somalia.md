@@ -16,8 +16,8 @@ A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#
 
 ### Changes:
 
-1. [War in Somalia (2009-present):One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/war-in-somalia-2009apresent-pone-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer.md) _2017-08-25 03:37:15 (First version)_
-2. [War in Somalia (2009-present):: One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/war-in-somalia-2009-present-one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer.md) _2017-08-27 03:37:25 (Update)_
+1. [War in Somalia (2009-present):One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/war-in-somalia-2009apresent-pone-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia (2009-present):: One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/war-in-somalia-2009-present-one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer.md) _2018-02-06 13:49:24 (Update)_
 2. [One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer-somalia.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/06/29/on-his-final-day-as-president-of-the-philippine
 
 ### Changes:
 
-1. [''Philippines v. China''On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-pon-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the.md) _2017-08-25 03:46:00 (First version)_
-2. ["Philippines v. China": On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-on-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the-s.md) _2017-08-27 03:46:22 (Update)_
+1. [''Philippines v. China''On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-pon-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the.md) _2018-02-06 13:49:29 (First version)_
+2. ["Philippines v. China": On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/philippines-v-china-on-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the-s.md) _2018-02-06 13:49:29 (Update)_
 2. [On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/on-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the-south-china-sea.md) _(Current version)_
 
 ### Related:

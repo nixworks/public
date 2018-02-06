@@ -19,7 +19,7 @@ Witnesses said more than a dozen were killed in what was seen as a message to po
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/2014-israel-gaza-conflict-at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a.md) _2017-08-27 03:41:10 (First version)_
+1. [2014 Israel-Gaza conflict: At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/2014-israel-gaza-conflict-at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a-hamas-website-warns-that.md) _(Current version)_
 
 ### Related:

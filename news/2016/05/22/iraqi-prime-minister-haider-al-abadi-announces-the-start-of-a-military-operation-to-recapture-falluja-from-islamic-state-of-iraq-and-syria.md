@@ -17,7 +17,7 @@ Fighting is reported in near the Iraqi city of Falluja after Prime Minister al-A
 
 ### Changes:
 
-1. [ Iraqi Prime Minister Haider al-Abadi announces the start of a military operation to recapture Falluja from Islamic State of Iraq and Syria. ](/news/2016/05/22/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-a-military-operation-to-recapture-falluja-from-islamic-state-of-iraq-and-syri.md) _2017-08-25 03:45:44 (First version)_
+1. [ Iraqi Prime Minister Haider al-Abadi announces the start of a military operation to recapture Falluja from Islamic State of Iraq and Syria. ](/news/2016/05/22/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-a-military-operation-to-recapture-falluja-from-islamic-state-of-iraq-and-syri.md) _2018-02-06 13:49:29 (First version)_
 1. [ Iraqi Prime Minister Haider al-Abadi announces the start of a military operation to recapture Falluja from Islamic State of Iraq and Syria. ](/news/2016/05/22/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-a-military-operation-to-recapture-falluja-from-islamic-state-of-iraq-and-syria.md) _(Current version)_
 
 ### Related:

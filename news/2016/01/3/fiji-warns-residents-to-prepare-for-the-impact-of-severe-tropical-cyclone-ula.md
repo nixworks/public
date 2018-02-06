@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/3/fiji-warns-residents-to-prepare-for-the-impact-o
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/2015-16-south-pacific-cyclone-season-fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md) _2017-08-27 03:44:34 (First version)_
+1. [2015-16 South Pacific cyclone season: Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/2015-16-south-pacific-cyclone-season-fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md) _2018-02-06 13:49:28 (First version)_
 1. [Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md) _(Current version)_
 
 ### Related:

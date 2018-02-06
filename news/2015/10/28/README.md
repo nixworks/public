@@ -17,7 +17,7 @@ A massive twin bombing in the Turkish capital Ankara this month that killed 102 
 
 ##### 2015 Hindu Kush earthquake
 ### [Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-and-afghanistan-fall-to-near.md)
-_Context: 2015 Hindu Kush earthquake, Pakistan, Afghanistan_
+_Context: Afghanistan, 2015 Hindu Kush earthquake, Pakistan_
 
 ##### JLENS
 ### [A military JLENS blimp from the United States Army broke loose from its moorings at the Aberdeen Proving Ground in Maryland, and drifted over 16,000 ft above Pennsylvania. F-16 Fighter jets were scrambled to track the blimp that has since deflated, causing widespread power outages from a long cable it dragged along the ground. ](/news/2015/10/28/a-military-jlens-blimp-from-the-united-states-army-broke-loose-from-its-moorings-at-the-aberdeen-proving-ground-in-maryland-and-drifted-ove.md)
@@ -41,7 +41,7 @@ Tuberculosis has surpassed HIV as the leading global cause of death, despite the
 
 ##### International Agency for Research on Cancer
 ### [The International Agency for Research on Cancer (IARC), the cancer agency of the World Health Organization (WHO), has evaluated the carcinogenicity of the consumption of red meat and processed meat. After thoroughly reviewing the accumulated scientific literature, a Working Group of 22 experts from 10 countries convened by the IARC Monographs Programme classified the consumption of red meat as probably carcinogenic to humans (Group 2A), based on limited evidence that the consumption of red meat causes cancer in humans and strong mechanistic evidence supporting a carcinogenic effect. This association was observed mainly for colorectal cancer, but associations were also seen for pancreatic cancer and prostate cancer. Processed meat was classified as carcinogenic to humans (Group 1), based on sufficient evidence in humans that the consumption of processed meat causes colorectal cancer. ](/news/2015/10/28/the-international-agency-for-research-on-cancer-iarc-the-cancer-agency-of-the-world-health-organization-who-has-evaluated-the-carcinog.md)
-_Context: red meat, pancreatic cancer, colorectal cancer, processed meat, cancer, prostate cancer, World Health Organization, carcinogenicity, IARC Monographs Programme, International Agency for Research on Cancer_
+_Context: carcinogenicity, prostate cancer, IARC Monographs Programme, International Agency for Research on Cancer, red meat, processed meat, cancer, World Health Organization, pancreatic cancer, colorectal cancer_
 
 ##### Censorship in Turkey
 ### [Turkish police storm and shut down both Kanalturk TV and Bugun, TV stations that have been critical of the ruling Justice and Development Party (AKP) ahead of a general election on November 1. Baris Yarkadas, a lawmaker with the main-opposition Republican People's Party (CHP), said "We are witnessing the police entering news organizations, delivering declarations and taking over journalists' seats--just like junta periods, this is called a police state". ](/news/2015/10/28/turkish-police-storm-and-shut-down-both-kanalta1-4rk-tv-and-buga1-4n-tv-stations-that-have-been-critical-of-the-ruling-justice-and-development.md)

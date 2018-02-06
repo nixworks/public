@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/07/28/the-prime-minister-of-pakistan-nawaz-sharif-res
 
 ### Changes:
 
-1. [Politics of Pakistan: The Prime Minister of Pakistan, Nawaz Sharif resigns after the Supreme Court disqualifies him from holding public office following a verdict that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. ](/news/2017/07/28/politics-of-pakistan-the-prime-minister-of-pakistan-nawaz-sharif-resigns-after-the-supreme-court-disqualifies-him-from-holding-public-offi.md) _2017-08-27 03:48:44 (First version)_
+1. [Politics of Pakistan: The Prime Minister of Pakistan, Nawaz Sharif resigns after the Supreme Court disqualifies him from holding public office following a verdict that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. ](/news/2017/07/28/politics-of-pakistan-the-prime-minister-of-pakistan-nawaz-sharif-resigns-after-the-supreme-court-disqualifies-him-from-holding-public-offi.md) _2018-02-06 13:49:31 (First version)_
 1. [ The Prime Minister of Pakistan, Nawaz Sharif resigns after the Supreme Court disqualifies him from holding public office following a verdict that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. ](/news/2017/07/28/the-prime-minister-of-pakistan-nawaz-sharif-resigns-after-the-supreme-court-disqualifies-him-from-holding-public-office-following-a-verdic.md) _(Current version)_
 
 ### Related:

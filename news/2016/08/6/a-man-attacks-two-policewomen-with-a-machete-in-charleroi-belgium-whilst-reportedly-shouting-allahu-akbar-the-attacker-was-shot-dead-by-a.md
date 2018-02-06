@@ -17,7 +17,7 @@ Two Belgian policewomen on guard outside a police station in the city of Charler
 
 ### Changes:
 
-1. [2016 stabbing of Charleroi police officers: A man attacks two policewomen with a machete in Charleroi, Belgium, whilst reportedly shouting Allahu Akbar. The attacker was shot dead by another police officer. The policewomen are being treated in hospital for non-life-threatening wounds. The attack is being investigated as a possible act of terrorism. ](/news/2016/08/6/2016-stabbing-of-charleroi-police-officers-a-man-attacks-two-policewomen-with-a-machete-in-charleroi-belgium-whilst-reportedly-shouting-a.md) _2017-08-27 03:46:37 (First version)_
+1. [2016 stabbing of Charleroi police officers: A man attacks two policewomen with a machete in Charleroi, Belgium, whilst reportedly shouting Allahu Akbar. The attacker was shot dead by another police officer. The policewomen are being treated in hospital for non-life-threatening wounds. The attack is being investigated as a possible act of terrorism. ](/news/2016/08/6/2016-stabbing-of-charleroi-police-officers-a-man-attacks-two-policewomen-with-a-machete-in-charleroi-belgium-whilst-reportedly-shouting-a.md) _2018-02-06 13:49:29 (First version)_
 1. [A man attacks two policewomen with a machete in Charleroi, Belgium, whilst reportedly shouting Allahu Akbar. The attacker was shot dead by another police officer. The policewomen are being treated in hospital for non-life-threatening wounds. The attack is being investigated as a possible act of terrorism. ](/news/2016/08/6/a-man-attacks-two-policewomen-with-a-machete-in-charleroi-belgium-whilst-reportedly-shouting-allahu-akbar-the-attacker-was-shot-dead-by-a.md) _(Current version)_
 
 ### Related:

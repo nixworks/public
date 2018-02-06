@@ -17,8 +17,8 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 
 ### Changes:
 
-1. [2010 Haiti cholera outbreak:The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/2010-haiti-cholera-outbreak-pthe-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-ho.md) _2017-08-25 03:30:59 (First version)_
-2. [2010 Haiti cholera outbreak:: The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/2010-haiti-cholera-outbreak-the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-h.md) _2017-08-27 03:31:07 (Update)_
+1. [2010 Haiti cholera outbreak:: The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/2010-haiti-cholera-outbreak-the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-h.md) _2018-02-06 13:49:21 (First version)_
+2. [2010 Haiti cholera outbreak:The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/2010-haiti-cholera-outbreak-pthe-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-ho.md) _2018-02-06 13:49:21 (Update)_
 2. [The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-hospitals-overflow-and-space-an.md) _(Current version)_
 
 ### Related:

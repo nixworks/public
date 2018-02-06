@@ -16,7 +16,7 @@ Rahm Emanuel defeated challenger Jesus ¿Chuy¿ Garcia on Tuesday to win a secon
 
 ### Changes:
 
-1. [Chicago mayoral election: Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/chicago-mayoral-election-rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-c.md) _2017-08-27 03:42:10 (First version)_
+1. [Chicago mayoral election: Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/chicago-mayoral-election-rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-c.md) _2018-02-06 13:49:27 (First version)_
 1. [Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-city-s-first-mayoral-runoff.md) _(Current version)_
 
 ### Related:

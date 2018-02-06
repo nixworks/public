@@ -17,8 +17,8 @@ Wintry weather is set to cause more travel chaos across the UK, with warnings of
 
 ### Changes:
 
-1. [January 2013 Great Britain and Ireland snowfall:Heavy snowfall across the British Isles enters its second day. ](/news/2013/01/19/january-2013-great-britain-and-ireland-snowfall-pheavy-snowfall-across-the-british-isles-enters-its-second-day.md) _2017-08-25 03:37:17 (First version)_
-2. [January 2013 Great Britain and Ireland snowfall:: Heavy snowfall across the British Isles enters its second day. ](/news/2013/01/19/january-2013-great-britain-and-ireland-snowfall-heavy-snowfall-across-the-british-isles-enters-its-second-day.md) _2017-08-27 03:37:27 (Update)_
+1. [January 2013 Great Britain and Ireland snowfall:Heavy snowfall across the British Isles enters its second day. ](/news/2013/01/19/january-2013-great-britain-and-ireland-snowfall-pheavy-snowfall-across-the-british-isles-enters-its-second-day.md) _2018-02-06 13:49:24 (First version)_
+2. [January 2013 Great Britain and Ireland snowfall:: Heavy snowfall across the British Isles enters its second day. ](/news/2013/01/19/january-2013-great-britain-and-ireland-snowfall-heavy-snowfall-across-the-british-isles-enters-its-second-day.md) _2018-02-06 13:49:24 (Update)_
 2. [Heavy snowfall across the British Isles enters its second day. ](/news/2013/01/19/heavy-snowfall-across-the-british-isles-enters-its-second-day.md) _(Current version)_
 
 ### Related:

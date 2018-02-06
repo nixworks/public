@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-dr
 
 ### Changes:
 
-1. [2016 Berlin attack: The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/2016-berlin-attack-the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot.md) _2017-08-27 03:47:30 (First version)_
+1. [2016 Berlin attack: The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/2016-berlin-attack-the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot.md) _2018-02-06 13:49:30 (First version)_
 1. [The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot-out-in-milan.md) _(Current version)_
 
 ### Related:

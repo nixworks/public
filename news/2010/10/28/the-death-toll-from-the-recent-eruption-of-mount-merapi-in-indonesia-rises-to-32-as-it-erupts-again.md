@@ -19,7 +19,7 @@ Rescue crews and relief workers are losing hope of finding survivors after a tsu
 
 ### Changes:
 
-1. [Indonesia: The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/indonesia-the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md) _2017-08-27 03:30:50 (First version)_
+1. [Indonesia: The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/indonesia-the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md) _2018-02-06 13:49:20 (First version)_
 1. [The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/20/a-specialist-in-communication-from-the-universi
 
 ### Changes:
 
-1. [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraska-lincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md) _2017-08-27 03:36:43 (First version)_
+1. [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraska-lincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md) _2018-02-06 13:49:23 (First version)_
 1. [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md) _(Current version)_
 
 ### Related:

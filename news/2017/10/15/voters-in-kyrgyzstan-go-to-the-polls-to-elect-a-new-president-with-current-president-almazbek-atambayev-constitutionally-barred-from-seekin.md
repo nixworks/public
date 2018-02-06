@@ -16,7 +16,7 @@ For the first time, an elected president is due to peacefully hand over power.
 
 ### Changes:
 
-1. [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md) _2017-10-14 09:30:06 (First version)_
+1. [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md) _(Current version)_
 
 ### Related:

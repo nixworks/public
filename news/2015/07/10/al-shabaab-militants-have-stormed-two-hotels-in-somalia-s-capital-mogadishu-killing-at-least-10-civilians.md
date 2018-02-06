@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/war-in-somalia-2009-present-al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md) _2017-08-27 03:42:40 (First version)_
+1. [War in Somalia (2009-present): Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/war-in-somalia-2009-present-al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md) _2018-02-06 13:49:27 (First version)_
 1. [ Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md) _(Current version)_
 
 ### Related:

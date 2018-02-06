@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/24/the-syrian-army-takes-control-of-the-strategic-
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/syrian-civil-war-the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-und.md) _2017-08-27 03:44:45 (First version)_
+1. [Syrian Civil War: The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/syrian-civil-war-the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-und.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-under-rebel-control-s.md) _(Current version)_
 
 ### Related:

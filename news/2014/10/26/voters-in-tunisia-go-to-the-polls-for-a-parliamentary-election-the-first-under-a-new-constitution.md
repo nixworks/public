@@ -16,7 +16,7 @@ Tunisia votes in the first election to be held under its new constitution, which
 
 ### Changes:
 
-1. [Tunisian parliamentary election, 2014: Voters in Tunisia go to the polls for a parliamentary election, the first under a new constitution. ](/news/2014/10/26/tunisian-parliamentary-election-2014-voters-in-tunisia-go-to-the-polls-for-a-parliamentary-election-the-first-under-a-new-constitution.md) _2017-08-27 03:41:26 (First version)_
+1. [Tunisian parliamentary election, 2014: Voters in Tunisia go to the polls for a parliamentary election, the first under a new constitution. ](/news/2014/10/26/tunisian-parliamentary-election-2014-voters-in-tunisia-go-to-the-polls-for-a-parliamentary-election-the-first-under-a-new-constitution.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Tunisia go to the polls for a parliamentary election, the first under a new constitution. ](/news/2014/10/26/voters-in-tunisia-go-to-the-polls-for-a-parliamentary-election-the-first-under-a-new-constitution.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/04/9/15-iraqi-soldiers-have-been-killed-following-an-
 
 ### Changes:
 
-1. [ Conflict in Iraq: 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-p-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md) _2017-08-25 03:15:56 (First version)_
-2. [ Conflict in Iraq:: 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md) _2017-08-27 03:15:58 (Update)_
+1. [ Conflict in Iraq: 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-p-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md) _2018-02-06 13:49:16 (Update)_
 2. [ 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md) _(Current version)_
 
 ### Related:

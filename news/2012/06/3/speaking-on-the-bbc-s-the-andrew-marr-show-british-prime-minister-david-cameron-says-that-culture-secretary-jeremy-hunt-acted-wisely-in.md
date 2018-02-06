@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-briti
 
 ### Changes:
 
-1. [Speaking on the BBC's ''The Andrew Marr Show'', British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely.md) _2017-08-25 03:35:48 (First version)_
+1. [Speaking on the BBC's ''The Andrew Marr Show'', British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely.md) _2018-02-06 13:49:23 (First version)_
 1. [Speaking on the BBC's "The Andrew Marr Show", British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely-in.md) _(Current version)_
 
 ### Related:

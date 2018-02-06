@@ -16,7 +16,7 @@ A member of parliament in the Maldives is stabbed to death near his home amid po
 
 ### Changes:
 
-1. [A member of the People-s Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-people-s-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md) _2017-08-27 03:36:48 (First version)_
+1. [A member of the People-s Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-people-s-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md) _2018-02-06 13:49:24 (First version)_
 1. [A member of the People's Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-peopleas-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md) _(Current version)_
 
 ### Related:

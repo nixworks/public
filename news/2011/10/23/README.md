@@ -17,15 +17,15 @@ _Context: Tunisian Constituent Assembly, Tunisia, Jasmine Revolution of 2011_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls for a presidential election. ](/news/2011/10/23/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election.md)
-_Context: presidential election, Bulgaria_
+_Context: Bulgaria, presidential election_
 
 ##### Argentina
 ### [Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. ](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.md)
-_Context: general election, Argentina, President of Argentina, Cristina Kirchner, exit poll_
+_Context: Cristina Kirchner, general election, Argentina, exit poll, President of Argentina_
 
 ##### Switzerland
 ### [Voters in Switzerland go to the polls for a federal election, with the Green Liberal Party of Switzerland gaining the most seats compared to the 2007 election, and the Swiss People's Party losing eight seats but remaining the biggest party in the Federal Assembly. ](/news/2011/10/23/voters-in-switzerland-go-to-the-polls-for-a-federal-election-with-the-green-liberal-party-of-switzerland-gaining-the-most-seats-compared-to.md)
-_Context: Switzerland, 2007 election, federal election, Green Liberal Party of Switzerland, Swiss People's Party, Federal Assembly_
+_Context: Swiss People's Party, 2007 election, Federal Assembly, Switzerland, Green Liberal Party of Switzerland, federal election_
 
 ## [Previous Day...](/news/2011/10/22/index.md)
 

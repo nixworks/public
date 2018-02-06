@@ -16,8 +16,8 @@ June&#039;s first tropical storm formed Monday in the Atlantic.
 
 ### Changes:
 
-1. [Tropical Storm Bret makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-bret-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md) _2017-06-20 22:30:08 (First version)_
-2. [2017 Atlantic hurricane season: Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/2017-atlantic-hurricane-season-tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md) _2017-08-27 03:48:32 (Update)_
+1. [Tropical Storm Bret makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-bret-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Atlantic hurricane season: Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/2017-atlantic-hurricane-season-tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md) _2018-02-06 13:49:30 (Update)_
 2. [Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md) _(Current version)_
 
 ### Related:

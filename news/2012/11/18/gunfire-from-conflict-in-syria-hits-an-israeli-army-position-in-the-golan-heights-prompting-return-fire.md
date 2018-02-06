@@ -17,8 +17,8 @@ Syriaâ€™s information minister accused France, Turkey and Qatar of supporting â€
 
 ### Changes:
 
-1. [Syrian civil war:Gunfire from conflict in Syria hits an Israeli army position in the Golan Heights, prompting return fire. ](/news/2012/11/18/syrian-civil-war-pgunfire-from-conflict-in-syria-hits-an-israeli-army-position-in-the-golan-heights-prompting-return-fire.md) _2017-08-25 03:36:50 (First version)_
-2. [Syrian civil war:: Gunfire from conflict in Syria hits an Israeli army position in the Golan Heights, prompting return fire. ](/news/2012/11/18/syrian-civil-war-gunfire-from-conflict-in-syria-hits-an-israeli-army-position-in-the-golan-heights-prompting-return-fire.md) _2017-08-27 03:37:00 (Update)_
+1. [Syrian civil war:Gunfire from conflict in Syria hits an Israeli army position in the Golan Heights, prompting return fire. ](/news/2012/11/18/syrian-civil-war-pgunfire-from-conflict-in-syria-hits-an-israeli-army-position-in-the-golan-heights-prompting-return-fire.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Gunfire from conflict in Syria hits an Israeli army position in the Golan Heights, prompting return fire. ](/news/2012/11/18/syrian-civil-war-gunfire-from-conflict-in-syria-hits-an-israeli-army-position-in-the-golan-heights-prompting-return-fire.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunfire from conflict in Syria hits an Israeli army position in the Golan Heights, prompting return fire. ](/news/2012/11/18/gunfire-from-conflict-in-syria-hits-an-israeli-army-position-in-the-golan-heights-prompting-return-fire.md) _(Current version)_
 
 ### Related:

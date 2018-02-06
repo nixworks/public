@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/10/the-chenab-river-overflows-its-banks-threatenin
 
 ### Changes:
 
-1. [2014 India-Pakistan floods:The Chenab River overflows its banks threatening Pakistan's Jhang District. ](/news/2014/09/10/2014-indiaapakistan-floods-pthe-chenab-river-overflows-its-banks-threatening-pakistan-s-jhang-district.md) _2017-08-25 03:40:57 (First version)_
-2. [2014 India-Pakistan floods:: The Chenab River overflows its banks threatening Pakistan's Jhang District. ](/news/2014/09/10/2014-india-pakistan-floods-the-chenab-river-overflows-its-banks-threatening-pakistan-s-jhang-district.md) _2017-08-27 03:41:16 (Update)_
+1. [2014 India-Pakistan floods:The Chenab River overflows its banks threatening Pakistan's Jhang District. ](/news/2014/09/10/2014-indiaapakistan-floods-pthe-chenab-river-overflows-its-banks-threatening-pakistan-s-jhang-district.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 India-Pakistan floods:: The Chenab River overflows its banks threatening Pakistan's Jhang District. ](/news/2014/09/10/2014-india-pakistan-floods-the-chenab-river-overflows-its-banks-threatening-pakistan-s-jhang-district.md) _2018-02-06 13:49:26 (Update)_
 2. [The Chenab River overflows its banks threatening Pakistan's Jhang District. ](/news/2014/09/10/the-chenab-river-overflows-its-banks-threatening-pakistan-s-jhang-district.md) _(Current version)_
 
 ### Related:

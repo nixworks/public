@@ -13,7 +13,7 @@ The Minister of State with responsibility for Overseas Development has delivered
 
 ##### Metro Manila
 ### [ At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. ](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.md)
-_Context: Philippines, Metro Manila, Tropical Storm Ketsana_
+_Context: Tropical Storm Ketsana, Philippines, Metro Manila_
 
 ##### detainees
 ### [ Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. ](/news/2009/09/26/three-detainees-held-by-the-united-states-at-guanta-namo-bay-in-cuba-are-sent-abroad-to-two-countries-ireland-accepts-two-detainees-of-uz.md)
@@ -21,7 +21,7 @@ Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have b
 
 ##### Kenya
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: president, Barack Obama, Kenya, U.S. President, Mwai Kibaki_
+_Context: Barack Obama, Kenya, U.S. President, president, Mwai Kibaki_
 
 ##### car bomb
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
@@ -29,11 +29,11 @@ Police officers and civilians among casualties of car-bomb attacks in Bannu and 
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad rejects U.S. President Barack Obama's accusation about Iran's nuclear program. ](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.md)
-_Context: U.S. President, President, Mahmoud Ahmadinejad, Barack Obama, nuclear program_
+_Context: nuclear program, U.S. President, Barack Obama, President, Mahmoud Ahmadinejad_
 
 ##### Korean War
 ### [ Families separated for over 50 years since the Korean War meet at the Kumgangsan resort, North Korea. ](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.md)
-_Context: North Korea, Korean War, Mount Kumgang resort_
+_Context: Mount Kumgang resort, North Korea, Korean War_
 
 ##### mass grave
 ### [ Two mass graves linked to Colombia's internal conflict are discovered. ](/news/2009/09/26/two-mass-graves-linked-to-colombia-s-internal-conflict-are-discovered.md)
@@ -57,15 +57,15 @@ _Context: Geelong, 2009 AFL Grand Final, Melbourne Cricket Ground, St Kilda Foot
 
 ##### Spain
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)
-_Context: abortion, Spain_
+_Context: Spain, abortion_
 
 ##### Nigeria
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
-_Context: Umaru Yar'Adua, Saudi Arabia, Nigeria, Abuja, President_
+_Context: Nigeria, President, Umaru Yar'Adua, Abuja, Saudi Arabia_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI's robes are graced by a spider as he addresses politicians and diplomats in Prague. ](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.md)
-_Context: Pope Benedict XVI, spider, Prague_
+_Context: spider, Pope Benedict XVI, Prague_
 
 ## [Previous Day...](/news/2009/09/25/index.md)
 

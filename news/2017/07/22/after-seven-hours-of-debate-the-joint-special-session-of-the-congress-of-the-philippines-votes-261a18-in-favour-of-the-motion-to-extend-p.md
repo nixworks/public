@@ -17,7 +17,7 @@ Martial law stays in Mindanao until the end of the year.
 
 ### Changes:
 
-1. [After seven hours of debate, the joint special session of the Congress of the Philippines votes 261-18 in favor of the motion to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis), that was set to expire 10 PM Philippine Standard Time, until the end of the year. ](/news/2017/07/22/after-seven-hours-of-debate-the-joint-special-session-of-the-congress-of-the-philippines-votes-261a18-in-favor-of-the-motion-to-extend-pr.md) _2017-07-23 03:49:25 (First version)_
+1. [After seven hours of debate, the joint special session of the Congress of the Philippines votes 261-18 in favor of the motion to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis), that was set to expire 10 PM Philippine Standard Time, until the end of the year. ](/news/2017/07/22/after-seven-hours-of-debate-the-joint-special-session-of-the-congress-of-the-philippines-votes-261a18-in-favor-of-the-motion-to-extend-pr.md) _2018-02-06 13:49:30 (First version)_
 1. [After seven hours of debate, the joint special session of the Congress of the Philippines votes 261-18 in favour of the motion to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis), that was set to expire 10 PM Philippine Standard Time, until the end of the year. ](/news/2017/07/22/after-seven-hours-of-debate-the-joint-special-session-of-the-congress-of-the-philippines-votes-261a18-in-favour-of-the-motion-to-extend-p.md) _(Current version)_
 
 ### Related:

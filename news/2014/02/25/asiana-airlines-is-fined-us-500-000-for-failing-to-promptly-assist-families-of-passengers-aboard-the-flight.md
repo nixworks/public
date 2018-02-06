@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing
 
 ### Changes:
 
-1. [2013 Asiana Airlines accident:Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/2013-asiana-airlines-accident-pasiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md) _2017-08-25 03:40:05 (First version)_
-2. [2013 Asiana Airlines accident:: Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/2013-asiana-airlines-accident-asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md) _2017-08-27 03:40:23 (Update)_
+1. [2013 Asiana Airlines accident:Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/2013-asiana-airlines-accident-pasiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Asiana Airlines accident:: Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/2013-asiana-airlines-accident-asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md) _2018-02-06 13:49:25 (Update)_
 2. [Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md) _(Current version)_
 
 ### Related:

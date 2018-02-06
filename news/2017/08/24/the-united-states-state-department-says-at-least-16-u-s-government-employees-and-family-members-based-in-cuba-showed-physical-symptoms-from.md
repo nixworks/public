@@ -16,7 +16,7 @@ Mysterious &quot;incidents&quot; caused physical symptoms in at least 16 America
 
 ### Changes:
 
-1. [Cuba-United States relations: The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats' homes. ](/news/2017/08/24/cuba-united-states-relations-the-united-states-state-department-says-at-least-16-u-s-government-employees-and-family-members-based-in-cu.md) _2017-08-27 17:30:04 (First version)_
+1. [Cuba-United States relations: The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats' homes. ](/news/2017/08/24/cuba-united-states-relations-the-united-states-state-department-says-at-least-16-u-s-government-employees-and-family-members-based-in-cu.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats' homes. ](/news/2017/08/24/the-united-states-state-department-says-at-least-16-u-s-government-employees-and-family-members-based-in-cuba-showed-physical-symptoms-from.md) _(Current version)_
 
 ### Related:

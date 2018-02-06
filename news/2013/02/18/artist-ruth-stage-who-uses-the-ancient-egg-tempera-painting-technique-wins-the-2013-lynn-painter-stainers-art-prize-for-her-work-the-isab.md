@@ -16,5 +16,5 @@ Ruth Stage, who uses the ancient painting technique egg tempera, wins the £15,0
 
 ### Changes:
 
-1. [Artist Ruth Stage, who uses the ancient egg tempera painting technique, wins the 2013 Lynn Painter-Stainers art prize for her work ''The Isabella Plantation''. ](/news/2013/02/18/artist-ruth-stage-who-uses-the-ancient-egg-tempera-painting-technique-wins-the-2013-lynn-painter-stainers-art-prize-for-her-work-the-isa.md) _2017-08-25 03:37:33 (First version)_
+1. [Artist Ruth Stage, who uses the ancient egg tempera painting technique, wins the 2013 Lynn Painter-Stainers art prize for her work ''The Isabella Plantation''. ](/news/2013/02/18/artist-ruth-stage-who-uses-the-ancient-egg-tempera-painting-technique-wins-the-2013-lynn-painter-stainers-art-prize-for-her-work-the-isa.md) _2018-02-06 13:49:24 (First version)_
 1. [Artist Ruth Stage, who uses the ancient egg tempera painting technique, wins the 2013 Lynn Painter-Stainers art prize for her work "The Isabella Plantation". ](/news/2013/02/18/artist-ruth-stage-who-uses-the-ancient-egg-tempera-painting-technique-wins-the-2013-lynn-painter-stainers-art-prize-for-her-work-the-isab.md) _(Current version)_

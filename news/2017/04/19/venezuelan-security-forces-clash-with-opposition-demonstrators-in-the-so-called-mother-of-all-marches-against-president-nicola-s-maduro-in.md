@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/04/19/venezuelan-security-forces-clash-with-oppositio
 
 ### Changes:
 
-1. [2014-17 Venezuelan protests: Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/2014-17-venezuelan-protests-venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-again.md) _2017-08-27 03:48:11 (First version)_
+1. [2014-17 Venezuelan protests: Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/2014-17-venezuelan-protests-venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-again.md) _2018-02-06 13:49:30 (First version)_
 1. [Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-against-president-nicola-s-maduro-in.md) _(Current version)_
 
 ### Related:

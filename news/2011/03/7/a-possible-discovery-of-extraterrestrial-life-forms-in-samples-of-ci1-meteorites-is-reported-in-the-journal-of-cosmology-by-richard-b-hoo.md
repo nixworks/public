@@ -18,5 +18,5 @@ Top NASA scientists have hosed down claims from a colleague that fossils of alie
 
 ### Changes:
 
-1. [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the ''Journal of Cosmology'' by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-h.md) _2017-08-25 03:32:27 (First version)_
+1. [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the ''Journal of Cosmology'' by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-h.md) _2018-02-06 13:49:22 (First version)_
 1. [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the "Journal of Cosmology" by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-hoo.md) _(Current version)_

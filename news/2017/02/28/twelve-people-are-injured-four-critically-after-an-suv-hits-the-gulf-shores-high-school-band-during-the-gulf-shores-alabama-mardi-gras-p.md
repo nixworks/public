@@ -18,7 +18,7 @@ A vehicle struck members of a high school marching band during the Mardi Gras pa
 
 ### Changes:
 
-1. [Twelve people are injured, four critically, after an SUV hits the Gulf Shores High School Band during the Gulf Shores, Alabama, Mardi Gras parade. The vehicle, in the parade behind the band, accelerated when the 73-year-old driver's foot slipped off the brake pedal onto the gas. ](/news/2017/02/28/twelve-people-are-injured-four-critically-after-an-suv-hits-the-gulf-shores-high-school-band-during-the-gulf-shores-alabama-mardi-gras.md) _2017-08-25 03:47:29 (First version)_
+1. [Twelve people are injured, four critically, after an SUV hits the Gulf Shores High School Band during the Gulf Shores, Alabama, Mardi Gras parade. The vehicle, in the parade behind the band, accelerated when the 73-year-old driver's foot slipped off the brake pedal onto the gas. ](/news/2017/02/28/twelve-people-are-injured-four-critically-after-an-suv-hits-the-gulf-shores-high-school-band-during-the-gulf-shores-alabama-mardi-gras.md) _2018-02-06 13:49:30 (First version)_
 1. [Twelve people are injured, four critically, after an SUV hits the Gulf Shores High School Band during the Gulf Shores, Alabama, Mardi Gras parade. The vehicle, in the parade behind the band, accelerated when the 73-year-old driver's foot slipped off the brake pedal onto the gas. ](/news/2017/02/28/twelve-people-are-injured-four-critically-after-an-suv-hits-the-gulf-shores-high-school-band-during-the-gulf-shores-alabama-mardi-gras-p.md) _(Current version)_
 
 ### Related:

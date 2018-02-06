@@ -21,8 +21,8 @@ Formats: [HTML](/news/2006/07/29/israel-rejects-a-un-call-for-a-truce.html)  [JS
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon Conflict: Israel rejects a UN call for a truce. ](/news/2006/07/29/2006-israel-lebanon-conflict-p-israel-rejects-a-un-call-for-a-truce.md) _2017-08-25 03:18:07 (First version)_
-2. [ 2006 Israel-Lebanon Conflict:: Israel rejects a UN call for a truce. ](/news/2006/07/29/2006-israel-lebanon-conflict-israel-rejects-a-un-call-for-a-truce.md) _2017-08-27 03:18:04 (Update)_
+1. [ 2006 Israel-Lebanon Conflict: Israel rejects a UN call for a truce. ](/news/2006/07/29/2006-israel-lebanon-conflict-p-israel-rejects-a-un-call-for-a-truce.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon Conflict:: Israel rejects a UN call for a truce. ](/news/2006/07/29/2006-israel-lebanon-conflict-israel-rejects-a-un-call-for-a-truce.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israel rejects a UN call for a truce. ](/news/2006/07/29/israel-rejects-a-un-call-for-a-truce.md) _(Current version)_
 
 ### Related:

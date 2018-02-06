@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/25/croatia-reopens-its-border-with-serbia.html)  [
 
 ### Changes:
 
-1. [European migrant crisis: Croatia reopens its border with Serbia. ](/news/2015/09/25/european-migrant-crisis-croatia-reopens-its-border-with-serbia.md) _2017-08-27 03:43:08 (First version)_
+1. [European migrant crisis: Croatia reopens its border with Serbia. ](/news/2015/09/25/european-migrant-crisis-croatia-reopens-its-border-with-serbia.md) _2018-02-06 13:49:27 (First version)_
 1. [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md) _(Current version)_
 
 ### Related:

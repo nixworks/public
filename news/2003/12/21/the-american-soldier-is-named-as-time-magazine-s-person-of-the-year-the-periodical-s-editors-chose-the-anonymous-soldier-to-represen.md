@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/21/the-american-soldier-is-named-as-time-magazine-
 
 ### Changes:
 
-1. [ "The American Soldier" is named as ''TIME'' magazine's "Person of the Year". The periodical's editors chose the anonymous soldier to represent the 1.4 million men and women serving in the United States Armed Forces. ](/news/2003/12/21/the-american-soldier-is-named-as-time-magazine-s-person-of-the-year-the-periodical-s-editors-chose-the-anonymous-soldier-to-repres.md) _2017-08-25 03:15:26 (First version)_
+1. [ "The American Soldier" is named as ''TIME'' magazine's "Person of the Year". The periodical's editors chose the anonymous soldier to represent the 1.4 million men and women serving in the United States Armed Forces. ](/news/2003/12/21/the-american-soldier-is-named-as-time-magazine-s-person-of-the-year-the-periodical-s-editors-chose-the-anonymous-soldier-to-repres.md) _2018-02-06 13:49:15 (First version)_
 1. [ "The American Soldier" is named as "TIME" magazine's "Person of the Year". The periodical's editors chose the anonymous soldier to represent the 1.4 million men and women serving in the United States Armed Forces. ](/news/2003/12/21/the-american-soldier-is-named-as-time-magazine-s-person-of-the-year-the-periodical-s-editors-chose-the-anonymous-soldier-to-represen.md) _(Current version)_
 
 ### Related:

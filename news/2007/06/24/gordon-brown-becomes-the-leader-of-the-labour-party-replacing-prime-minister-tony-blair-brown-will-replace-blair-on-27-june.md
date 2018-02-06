@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/06/24/gordon-brown-becomes-the-leader-of-the-labour-p
 
 ### Changes:
 
-1. [ ''Government of the United Kingdom:'' Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/government-of-the-united-kingdom-p-gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will.md) _2017-08-25 03:20:01 (First version)_
-2. [ "Government of the United Kingdom:": Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/government-of-the-united-kingdom-gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-r.md) _2017-08-27 03:20:00 (Update)_
+1. [ ''Government of the United Kingdom:'' Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/government-of-the-united-kingdom-p-gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will.md) _2018-02-06 13:49:17 (First version)_
+2. [ "Government of the United Kingdom:": Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/government-of-the-united-kingdom-gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-r.md) _2018-02-06 13:49:17 (Update)_
 2. [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md) _(Current version)_
 
 ### Related:

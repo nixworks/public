@@ -22,7 +22,7 @@ Authorities in Iran have banned foreign media from covering &#39;unauthorised&#3
 
 ### Changes:
 
-1. [ Iran: The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/iran-the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md) _2017-08-27 03:24:45 (First version)_
+1. [ Iran: The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/iran-the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md) _(Current version)_
 
 ### Related:

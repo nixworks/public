@@ -16,7 +16,7 @@ Authorities crack down on recruiters working with the Islamic State group to sen
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/islamic-state-in-iraq-and-the-levant-fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _2017-08-27 03:42:54 (First version)_
+1. [Islamic State in Iraq and the Levant: Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/islamic-state-in-iraq-and-the-levant-fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _2018-02-06 13:49:27 (First version)_
 1. [Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _(Current version)_
 
 ### Related:

@@ -5,13 +5,13 @@ Formats: [HTML](2010/12/2/index.html)  [JSON](2010/12/2/index.json)  [XML](2010/
 
 ##### African Union
 ### [About 8,000 African Union troops from Burundi and Uganda are deployed to the Somali capital Mogadishu, the scene of heavy fighting this week. ](/news/2010/12/2/about-8-000-african-union-troops-from-burundi-and-uganda-are-deployed-to-the-somali-capital-mogadishu-the-scene-of-heavy-fighting-this-week.md)
-_Context: Uganda, Mogadishu, African Union, Somalia, Burundi_
+_Context: Mogadishu, Burundi, Uganda, Somalia, African Union_
 
 ##### Philippine government
 ### [Representatives of the Philippines government and the National Democratic Front resume peace talks in Hong Kong. ](/news/2010/12/2/representatives-of-the-philippines-government-and-the-national-democratic-front-resume-peace-talks-in-hong-kong.md)
 Representatives of the Philippines government and the long-running communist insurgency are meeting in Hong Kong to find a way to reopen peace talks.
 
-##### British
+##### United Kingdom
 ### [A joint investigation by the United Kingdom and the United States finds that aid worker Linda Norgrove was killed by a grenade thrown by an American soldier during an operation to rescue her. ](/news/2010/12/2/a-joint-investigation-by-the-united-kingdom-and-the-united-states-finds-that-aid-worker-linda-norgrove-was-killed-by-a-grenade-thrown-by-an.md)
 Aid worker Linda Norgrove was killed by a grenade thrown by a US soldier sent to rescue her, a joint US-UK investigation finds.
 
@@ -45,7 +45,7 @@ Gatwick Airport will not reopen today as a continuing onslaught of snow and ice 
 
 ##### Dublin
 ### [Dublin's main thoroughfare O'Connell Street is shut following an explosion from a gas leak. ](/news/2010/12/2/dublin-s-main-thoroughfare-o-connell-street-is-shut-following-an-explosion-from-a-gas-leak.md)
-_Context: Dublin, O'Connell Street_
+_Context: O'Connell Street, Dublin_
 
 ##### Haifa
 ### [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md)
@@ -57,7 +57,7 @@ Industry&#x20;Minister&#x20;Eric&#x20;Besson&#x20;&#x28;pictured&#x29;&#x20;has&
 
 ##### WikiLeaks
 ### [WikiLeaks spokesperson Julian Assange calls for the resignation of Hillary Clinton "if it can be shown that she was responsible for ordering U.S. diplomatic figures to engage in espionage in the United Nations, in violation of the international covenants to which the U.S. has signed up". ](/news/2010/12/2/wikileaks-spokesperson-julian-assange-calls-for-the-resignation-of-hillary-clinton-if-it-can-be-shown-that-she-was-responsible-for-ordering.md)
-_Context: Hillary Clinton, Julian Assange, United Nations, espionage, WikiLeaks_
+_Context: United Nations, WikiLeaks, espionage, Hillary Clinton, Julian Assange_
 
 ##### Time
 ### [Julian Assange grants an interview to "TIME" in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that-s.md)
@@ -65,15 +65,15 @@ _Context: Time_
 
 ##### Iran
 ### [Iran completes the fueling of its nuclear reactor at Bushehr. ](/news/2010/12/2/iran-completes-the-fueling-of-its-nuclear-reactor-at-bushehr.md)
-_Context: Iran, Bushehr, nuclear reactor_
+_Context: nuclear reactor, Iran, Bushehr_
 
 ##### Dick Cheney
 ### [Dick Cheney faces charges in Nigeria over $180 million dollars in bribes a subsidiary of Halliburton, of which Cheney was chief executive, paid to Nigerian officials. ](/news/2010/12/2/dick-cheney-faces-charges-in-nigeria-over-180-million-dollars-in-bribes-a-subsidiary-of-halliburton-of-which-cheney-was-chief-executive-p.md)
-_Context: Dick Cheney, Nigeria, Halliburton_
+_Context: Halliburton, Nigeria, Dick Cheney_
 
 ##### Iranian police
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: British, Iranian police, United States, Central Intelligence Agency, nuclear physicists, Iran, Israel, MI6, Mossad_
+_Context: Central Intelligence Agency, Iran, MI6, United Kingdom, Israel, Mossad, Iranian police, United States, nuclear physicists_
 
 ##### Taiwanese President
 ### [Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. ](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.md)

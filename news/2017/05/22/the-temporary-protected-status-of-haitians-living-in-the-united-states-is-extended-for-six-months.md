@@ -16,7 +16,7 @@ Tens of thousands of Haitians live in the U.S. under Temporary Protected Status.
 
 ### Changes:
 
-1. [The temporary protected status of Haitians living in the United States has been extended for six months. ](/news/2017/05/22/the-temporary-protected-status-of-haitians-living-in-the-united-states-has-been-extended-for-six-months.md) _2017-05-23 03:48:59 (First version)_
+1. [The temporary protected status of Haitians living in the United States has been extended for six months. ](/news/2017/05/22/the-temporary-protected-status-of-haitians-living-in-the-united-states-has-been-extended-for-six-months.md) _2018-02-06 13:49:30 (First version)_
 1. [The temporary protected status of Haitians living in the United States is extended for six months. ](/news/2017/05/22/the-temporary-protected-status-of-haitians-living-in-the-united-states-is-extended-for-six-months.md) _(Current version)_
 
 ### Related:

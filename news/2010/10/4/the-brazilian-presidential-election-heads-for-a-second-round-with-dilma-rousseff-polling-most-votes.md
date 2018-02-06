@@ -18,8 +18,8 @@ A Brazilian clown is elected to Congress with more votes than any other candidat
 
 ### Changes:
 
-1. [Brazilian elections:The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-pthe-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md) _2017-08-25 03:30:20 (First version)_
-2. [Brazilian elections:: The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md) _2017-08-27 03:30:24 (Update)_
+1. [Brazilian elections:: The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md) _2018-02-06 13:49:20 (First version)_
+2. [Brazilian elections:The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-pthe-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md) _2018-02-06 13:49:20 (Update)_
 2. [The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md) _(Current version)_
 
 ### Related:

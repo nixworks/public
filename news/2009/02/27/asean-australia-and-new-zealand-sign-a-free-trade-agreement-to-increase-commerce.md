@@ -21,8 +21,8 @@ Formats: [HTML](/news/2009/02/27/asean-australia-and-new-zealand-sign-a-free-tra
 
 ### Changes:
 
-1. [ Global financial crisis of 2008-2009: ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/global-financial-crisis-of-2008a2009-p-asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md) _2017-08-25 03:23:57 (First version)_
-2. [ Global financial crisis of 2008-2009:: ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/global-financial-crisis-of-2008-2009-asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md) _2017-08-27 03:23:49 (Update)_
+1. [ Global financial crisis of 2008-2009: ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/global-financial-crisis-of-2008a2009-p-asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md) _2018-02-06 13:49:18 (First version)_
+2. [ Global financial crisis of 2008-2009:: ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/global-financial-crisis-of-2008-2009-asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md) _2018-02-06 13:49:18 (Update)_
 2. [ ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md) _(Current version)_
 
 ### Related:

@@ -5,11 +5,11 @@ Formats: [HTML](2015/11/2/index.html)  [JSON](2015/11/2/index.json)  [XML](2015/
 
 ##### 2015 Nepal fuel crisis
 ### [Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.md)
-_Context: relations, Nepal, India, 2015 Nepal fuel crisis_
+_Context: India, 2015 Nepal fuel crisis, relations, Nepal_
 
 ##### War in Somalia (2009-present)
 ### [At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lower-shebelle-region.md)
-_Context: Al-Shabaab, Wanlaweyn, Somalia army soldiers, War in Somalia (2009-present), Lower Shebelle_
+_Context: Al-Shabaab, Somalia army soldiers, War in Somalia (2009-present), Lower Shebelle, Wanlaweyn_
 
 ##### Palestinian terrorist
 ### [A Palestinian terrorist stabs an 80-year-old woman and two men in the Israeli town of Rishon Letzion, and another Palestinian attacks an 71-year-old man and critically wounds him in Netanya.](/news/2015/11/2/a-palestinian-terrorist-stabs-an-80-year-old-woman-and-two-men-in-the-israeli-town-of-rishon-letzion-and-another-palestinian-attacks-an-71.md)
@@ -17,7 +17,7 @@ _Context: Palestinian terrorist, Netanya, Rishon Letzion_
 
 ##### Australian Prime Minister
 ### [New Australian Prime Minister Malcolm Turnbull announces knights and dames will no longer be part of the nation's honors system. He said Queen Elizabeth signed off on the decision. ](/news/2015/11/2/new-australian-prime-minister-malcolm-turnbull-announces-knights-and-dames-will-no-longer-be-part-of-the-nationas-honors-system-he-said-q.md)
-_Context: knights and dames, Elizabeth II, Australian Prime Minister, Malcolm Turnbull_
+_Context: Malcolm Turnbull, Elizabeth II, Australian Prime Minister, knights and dames_
 
 ##### United States
 ### [In the United States, the hacking group Anonymous starts releasing names and information about alleged members of the Ku Klux Klan (KKK), a white-supremacist terrorist group originally founded after the Civil War by former Confederate soldiers. Prominent individuals listed deny the allegations. The group says they also infiltrated KKK-affiliated websites, and warned of more action culminating on November 24, the anniversary of the Ferguson, Missouri grand jury's decision not to indict. ](/news/2015/11/2/in-the-united-states-the-hacking-group-anonymous-starts-releasing-names-and-information-about-alleged-members-of-the-ku-klux-klan-kkk-a.md)
@@ -25,7 +25,7 @@ The hacking group revealed emails and phone numbers for alleged members.
 
 ##### China
 ### [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md)
-_Context: Comac, Boeing Company, Airbus, China, Comac C919_
+_Context: Comac, Comac C919, Boeing Company, Airbus, China_
 
 ##### Visa Inc.
 ### [American financial services company Visa Inc. buys European franchisee Visa Europe for $US23 billion. ](/news/2015/11/2/american-financial-services-company-visa-inc-buys-european-franchisee-visa-europe-for-us23-billion.md)
@@ -33,7 +33,7 @@ The two companies have more than 2.9 billion cards issued on its combined networ
 
 ##### Volkswagen emissions scandal
 ### [The U.S. Environmental Protection Agency (EPA) and California's CARB are widening the Volkswagen investigation into several more expensive VW, Porsche, and Audi automobiles with 3.0-liter diesel engines in model years 2014 through 2016. Volkswagen says it installed no defeat device software on its 3.0 litre V6 diesel cars and is cooperating with the agency to fully investigate the matter. ](/news/2015/11/2/the-u-s-environmental-protection-agency-epa-and-california-s-carb-are-widening-the-volkswagen-investigation-into-several-more-expensive-v.md)
-_Context: CARB, Environmental Protection Agency, California, Audi, Porsche, Volkswagen emissions scandal, Volkswagen, diesel engine_
+_Context: California, Volkswagen, Volkswagen emissions scandal, Environmental Protection Agency, Porsche, Audi, diesel engine, CARB_
 
 ##### TransCanada
 ### [TransCanada Corp asks the United States Department of State to suspend its review of the Keystone XL pipeline while it negotiates with the US state of Nebraska about the route. If granted, the delay (according to Reuters) would almost certainly mean the decision on the project will be made by a future president. ](/news/2015/11/2/transcanada-corp-asks-the-united-states-department-of-state-to-suspend-its-review-of-the-keystone-xl-pipeline-while-it-negotiates-with-the-u.md)
@@ -47,7 +47,7 @@ JAKARTA • The authorities in Riau, the Indonesian province that is second-clos
 ### [The American National Transportation Safety Board confirms that wreckage found on Saturday east of the Bahamas is the cargo ship SS "El Faro" that sank during Hurricane Joaquin on October 1. ](/news/2015/11/2/the-american-national-transportation-safety-board-confirms-that-wreckage-found-on-saturday-east-of-the-bahamas-is-the-cargo-ship-ss-el-faro.md)
 The wreckage was found Saturday in 15,000 feet of water east of the Bahamas. El Faro had gone missing on Oct. 1 during Hurricane Joaquin.
 
-##### British
+##### United Kingdom
 ### [ Planes have been left stranded at airports throughout the United Kingdom as the "Great Fog" descends. Heathrow Airport said around 45 flights had been cancelled there while London City Airport was closed for several hours. Other affected airports include Manchester, Leeds Bradford, Glasgow, Belfast, Southampton and Cardiff. ](/news/2015/11/2/planes-have-been-left-stranded-at-airports-throughout-the-united-kingdom-as-the-great-fog-descends-heathrow-airport-said-around-45-fligh.md)
 Scores of flights are cancelled and many more delayed by a second day of dense fog across much of the UK.
 
@@ -61,7 +61,7 @@ A senior Defense official told NBC News Monday that an American infrared satelli
 
 ##### trilateral summit
 ### [A day after Sunday's trilateral summit between China, Japan, and South Korea, South Korean President Park Geun-hye and Japanese Prime Minister Shinzo Abe are meeting in Seoul. The two countries haven't met in over three years. Expected topics include trade ties, North Korea's pursuit of nuclear bombs, and long-running disputes over Japanese wartime aggression and behavior. ](/news/2015/11/2/a-day-after-sunday-s-trilateral-summit-between-china-japan-and-south-korea-south-korean-president-park-geun-hye-and-japanese-prime-minist.md)
-_Context: China, Prime Minister of Japan, South Korean President, disputes, nuclear warheads, Shinzo Abe, North Korea, Park Geun-hye, trilateral summit_
+_Context: trilateral summit, Park Geun-hye, Prime Minister of Japan, Shinzo Abe, North Korea, South Korean President, China, disputes, nuclear warheads_
 
 ##### Territorial disputes in the South China Sea
 ### [Chinese military aircraft conduct training in the South China Sea following the cruise of a U.S. Navy ship in the vicinity of the disputed Spratly Islands. ](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.md)

@@ -18,8 +18,8 @@ Hurricane Earl had been downgraded to a tropical storm by the time it hit southe
 
 ### Changes:
 
-1. [At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-mexican-states-of-puebla-and-ver.md) _2017-08-25 03:46:15 (First version)_
-2. [2016 Atlantic hurricane season: At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/2016-atlantic-hurricane-season-at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-me.md) _2017-08-27 03:46:37 (Update)_
+1. [At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-mexican-states-of-puebla-and-ver.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Atlantic hurricane season: At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/2016-atlantic-hurricane-season-at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-me.md) _2018-02-06 13:49:29 (Update)_
 2. [At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. ](/news/2016/08/8/at-least-40-people-are-killed-by-landslides-from-floods-created-from-earl-s-heavy-rainfall-in-the-eastern-mexican-states-of-puebla-and-verac.md) _(Current version)_
 
 ### Related:

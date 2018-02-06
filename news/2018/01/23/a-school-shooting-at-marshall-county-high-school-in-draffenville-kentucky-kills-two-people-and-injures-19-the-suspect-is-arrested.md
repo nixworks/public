@@ -16,7 +16,7 @@ At least two people were killed and 17 others were injured when a student opened
 
 ### Changes:
 
-1. [A school shooting in Marshall County, Kentucky, leaves two people dead and 19 injured. ](/news/2018/01/23/a-school-shooting-in-marshall-county-kentucky-leaves-two-people-dead-and-19-injured.md) _2018-01-24 00:30:08 (First version)_
+1. [A school shooting in Marshall County, Kentucky, leaves two people dead and 19 injured. ](/news/2018/01/23/a-school-shooting-in-marshall-county-kentucky-leaves-two-people-dead-and-19-injured.md) _2018-02-06 13:49:31 (First version)_
 1. [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md) _(Current version)_
 
 ### Related:

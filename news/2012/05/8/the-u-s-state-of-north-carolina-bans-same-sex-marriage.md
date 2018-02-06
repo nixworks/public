@@ -19,7 +19,7 @@ Residents of North Carolina approve a constitutional ban on gay unions, initial 
 
 ### Changes:
 
-1. [United States elections: The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/united-states-elections-the-u-s-state-of-north-carolina-bans-same-sex-marriage.md) _2017-08-27 03:35:49 (First version)_
+1. [United States elections: The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/united-states-elections-the-u-s-state-of-north-carolina-bans-same-sex-marriage.md) _2018-02-06 13:49:23 (First version)_
 1. [The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/the-u-s-state-of-north-carolina-bans-same-sex-marriage.md) _(Current version)_
 
 ### Related:

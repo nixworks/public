@@ -11,7 +11,7 @@ Formats: [HTML](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-gr
 
 ### Changes:
 
-1. [''Awaara'' has been included in the All-Time 100 greatest films by the ''Time Magazine''. ](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine.md) _2017-08-25 03:35:46 (First version)_
+1. [''Awaara'' has been included in the All-Time 100 greatest films by the ''Time Magazine''. ](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine.md) _2018-02-06 13:49:23 (First version)_
 1. ["Awaara" has been included in the All-Time 100 greatest films by the "Time Magazine". [http:--entertainment.time.com-2012-05-17-movie-masterpieces-richard-corliss-expands-times-list-of-cinematic-greats-slide-awaara- "(Time Entertainment)"]](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine-http-entertainment-time-com-2012-05-17-movie-master.md) _(Current version)_
 
 ### Related:

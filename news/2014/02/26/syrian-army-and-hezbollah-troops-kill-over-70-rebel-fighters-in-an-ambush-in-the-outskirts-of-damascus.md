@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/02/26/syrian-army-and-hezbollah-troops-kill-over-70-r
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-civil-war-psyrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md) _2017-08-25 03:40:05 (First version)_
-2. [Syrian Civil War:: Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-civil-war-syrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md) _2017-08-27 03:40:23 (Update)_
+1. [Syrian Civil War:: Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-civil-war-syrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-civil-war-psyrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Gunmen on Saturday shot dead 13 people after dragging them out of their vehicles
 
 ### Changes:
 
-1. [Afghanistan War: Gunmen kill 13 minority Hazara men but spare the life of one woman among a traveling party in usually tranquil Balkh Province. No group claims responsibility. ](/news/2015/09/5/afghanistan-war-gunmen-kill-13-minority-hazara-men-but-spare-the-life-of-one-woman-among-a-traveling-party-in-usually-tranquil-balkh-provin.md) _2017-08-27 03:42:58 (First version)_
+1. [Afghanistan War: Gunmen kill 13 minority Hazara men but spare the life of one woman among a traveling party in usually tranquil Balkh Province. No group claims responsibility. ](/news/2015/09/5/afghanistan-war-gunmen-kill-13-minority-hazara-men-but-spare-the-life-of-one-woman-among-a-traveling-party-in-usually-tranquil-balkh-provin.md) _2018-02-06 13:49:27 (First version)_
 1. [ Gunmen kill 13 minority Hazara men but spare the life of one woman among a traveling party in usually tranquil Balkh Province. No group claims responsibility. ](/news/2015/09/5/gunmen-kill-13-minority-hazara-men-but-spare-the-life-of-one-woman-among-a-traveling-party-in-usually-tranquil-balkh-province-no-group-cla.md) _(Current version)_
 
 ### Related:

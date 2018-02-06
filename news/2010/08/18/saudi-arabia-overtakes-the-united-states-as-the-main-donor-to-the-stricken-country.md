@@ -20,8 +20,8 @@ Only 40 per cent of funds needed for immediate flood relief have been received, 
 
 ### Changes:
 
-1. [2010 Pakistan floods:Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-psaudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md) _2017-08-25 03:29:32 (First version)_
-2. [2010 Pakistan floods:: Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md) _2017-08-27 03:29:34 (Update)_
+1. [2010 Pakistan floods:: Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-psaudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md) _2018-02-06 13:49:20 (Update)_
 2. [Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md) _(Current version)_
 
 ### Related:

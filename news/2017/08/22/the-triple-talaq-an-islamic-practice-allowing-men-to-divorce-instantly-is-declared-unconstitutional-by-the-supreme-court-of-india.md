@@ -16,8 +16,8 @@ Controversial practice of ‘triple talaq’, which allows men to dissolve marri
 
 ### Changes:
 
-1. [The "triple talaq", a practice allowing men to divorce instantly, is declared unconstitutional by the Supreme Court of India. ](/news/2017/08/22/the-triple-talaq-a-practice-allowing-men-to-divorce-instantly-is-declared-unconstitutional-by-the-supreme-court-of-india.md) _2017-08-23 07:30:05 (First version)_
-2. [Triple talaq in India: The "triple talaq", an Islamic practice allowing men to divorce instantly, is declared unconstitutional by the Supreme Court of India. ](/news/2017/08/22/triple-talaq-in-india-the-triple-talaq-an-islamic-practice-allowing-men-to-divorce-instantly-is-declared-unconstitutional-by-the-suprem.md) _2017-08-27 17:30:04 (Update)_
+1. [Triple talaq in India: The "triple talaq", an Islamic practice allowing men to divorce instantly, is declared unconstitutional by the Supreme Court of India. ](/news/2017/08/22/triple-talaq-in-india-the-triple-talaq-an-islamic-practice-allowing-men-to-divorce-instantly-is-declared-unconstitutional-by-the-suprem.md) _2018-02-06 13:49:31 (First version)_
+2. [The "triple talaq", a practice allowing men to divorce instantly, is declared unconstitutional by the Supreme Court of India. ](/news/2017/08/22/the-triple-talaq-a-practice-allowing-men-to-divorce-instantly-is-declared-unconstitutional-by-the-supreme-court-of-india.md) _2018-02-06 13:49:31 (Update)_
 2. [The "triple talaq", an Islamic practice allowing men to divorce instantly, is declared unconstitutional by the Supreme Court of India. ](/news/2017/08/22/the-triple-talaq-an-islamic-practice-allowing-men-to-divorce-instantly-is-declared-unconstitutional-by-the-supreme-court-of-india.md) _(Current version)_
 
 ### Related:

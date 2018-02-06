@@ -18,8 +18,8 @@ UKIP leader Nigel Farage hails gains in council elections across England - while
 
 ### Changes:
 
-1. [United Kingdom local elections, 2013:Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/united-kingdom-local-elections-2013-presults-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the-c.md) _2017-08-25 03:38:33 (First version)_
-2. [United Kingdom local elections, 2013:: Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/united-kingdom-local-elections-2013-results-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the.md) _2017-08-27 03:38:46 (Update)_
+1. [United Kingdom local elections, 2013:: Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/united-kingdom-local-elections-2013-results-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the.md) _2018-02-06 13:49:24 (First version)_
+2. [United Kingdom local elections, 2013:Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/united-kingdom-local-elections-2013-presults-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the-c.md) _2018-02-06 13:49:24 (Update)_
 2. [Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/results-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the-conservative-party.md) _(Current version)_
 
 ### Related:

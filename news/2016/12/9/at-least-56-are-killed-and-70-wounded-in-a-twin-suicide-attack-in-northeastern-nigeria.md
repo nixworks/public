@@ -20,7 +20,7 @@ A twin bomb blast has ripped through a market in Yola, the Adamawa state capital
 
 ### Changes:
 
-1. [ Boko Haram insurgency: Madagali suicide bombings: At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. ](/news/2016/12/9/boko-haram-insurgency-madagali-suicide-bombings-at-least-56-are-killed-and-70-wounded-in-a-twin-suicide-attack-in-northeastern-nigeria.md) _2017-08-27 03:47:24 (First version)_
+1. [ Boko Haram insurgency: Madagali suicide bombings: At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. ](/news/2016/12/9/boko-haram-insurgency-madagali-suicide-bombings-at-least-56-are-killed-and-70-wounded-in-a-twin-suicide-attack-in-northeastern-nigeria.md) _2018-02-06 13:49:30 (First version)_
 1. [ At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. ](/news/2016/12/9/at-least-56-are-killed-and-70-wounded-in-a-twin-suicide-attack-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ US secretary of state says meetings in Havana with guerrillas still on Washingto
 
 ### Changes:
 
-1. [Colombian conflict: U.S. Secretary of State John Kerry holds a meeting with leaders of FARC in a sign of encouragement in ending Colombia's half-century old conflict. ](/news/2016/03/22/colombian-conflict-u-s-secretary-of-state-john-kerry-holds-a-meeting-with-leaders-of-farc-in-a-sign-of-encouragement-in-ending-colombia-s.md) _2017-08-27 03:45:21 (First version)_
+1. [Colombian conflict: U.S. Secretary of State John Kerry holds a meeting with leaders of FARC in a sign of encouragement in ending Colombia's half-century old conflict. ](/news/2016/03/22/colombian-conflict-u-s-secretary-of-state-john-kerry-holds-a-meeting-with-leaders-of-farc-in-a-sign-of-encouragement-in-ending-colombia-s.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. Secretary of State John Kerry holds a meeting with leaders of FARC in a sign of encouragement in ending Colombia's half-century old conflict. ](/news/2016/03/22/u-s-secretary-of-state-john-kerry-holds-a-meeting-with-leaders-of-farc-in-a-sign-of-encouragement-in-ending-colombia-s-half-century-old-con.md) _(Current version)_
 
 ### Related:

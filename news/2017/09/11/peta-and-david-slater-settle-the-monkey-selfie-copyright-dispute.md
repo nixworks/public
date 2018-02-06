@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-
 
 ### Changes:
 
-1. [PETA and the photographer involved settle the 'monkey selfie copyright dispute.' ](/news/2017/09/11/peta-and-the-photographer-involved-settle-the-monkey-selfie-copyright-dispute.md) _2017-09-12 16:30:04 (First version)_
+1. [PETA and the photographer involved settle the 'monkey selfie copyright dispute.' ](/news/2017/09/11/peta-and-the-photographer-involved-settle-the-monkey-selfie-copyright-dispute.md) _2018-02-06 13:49:31 (First version)_
 1. [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md) _(Current version)_
 
 ### Related:

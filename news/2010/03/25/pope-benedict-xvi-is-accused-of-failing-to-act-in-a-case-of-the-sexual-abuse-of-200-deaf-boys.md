@@ -25,8 +25,8 @@ Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously
 
 ### Changes:
 
-1. [Child sex abuse in the Catholic Church:Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-ppope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2017-08-25 03:27:28 (First version)_
-2. [Child sex abuse in the Catholic Church:: Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2017-08-27 03:27:24 (Update)_
+1. [Child sex abuse in the Catholic Church:Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-ppope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2018-02-06 13:49:19 (First version)_
+2. [Child sex abuse in the Catholic Church:: Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2018-02-06 13:49:19 (Update)_
 2. [Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _(Current version)_
 
 ### Related:

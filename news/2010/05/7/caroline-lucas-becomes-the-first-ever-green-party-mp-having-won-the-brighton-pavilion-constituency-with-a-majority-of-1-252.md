@@ -22,8 +22,8 @@ Formats: [HTML](/news/2010/05/7/caroline-lucas-becomes-the-first-ever-green-part
 
 ### Changes:
 
-1. [United Kingdom general election, 2010:Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-pcaroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency-w.md) _2017-08-25 03:27:52 (First version)_
-2. [United Kingdom general election, 2010:: Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency.md) _2017-08-27 03:27:50 (Update)_
+1. [United Kingdom general election, 2010:Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-pcaroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency-w.md) _2018-02-06 13:49:20 (First version)_
+2. [United Kingdom general election, 2010:: Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency.md) _2018-02-06 13:49:20 (Update)_
 2. [Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency-with-a-majority-of-1-252.md) _(Current version)_
 
 ### Related:

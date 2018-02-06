@@ -15,7 +15,7 @@ BERLIN (AP) — Germany&#039;s foreign minister has expressed regret over the fa
 
 ### Changes:
 
-1. [Chile-Germany relations: German Foreign Minister Frank-Walter Steinmeier apologizes that, for decades, German diplomats failed to act on abuses at Colonia Dignidad, the secretive German enclave in Chile whose story is told in the movie "Colonia". ](/news/2016/04/26/chile-germany-relations-german-foreign-minister-frank-walter-steinmeier-apologizes-that-for-decades-german-diplomats-failed-to-act-on-a.md) _2017-08-27 03:45:51 (First version)_
+1. [Chile-Germany relations: German Foreign Minister Frank-Walter Steinmeier apologizes that, for decades, German diplomats failed to act on abuses at Colonia Dignidad, the secretive German enclave in Chile whose story is told in the movie "Colonia". ](/news/2016/04/26/chile-germany-relations-german-foreign-minister-frank-walter-steinmeier-apologizes-that-for-decades-german-diplomats-failed-to-act-on-a.md) _2018-02-06 13:49:28 (First version)_
 1. [German Foreign Minister Frank-Walter Steinmeier apologizes that, for decades, German diplomats failed to act on abuses at Colonia Dignidad, the secretive German enclave in Chile whose story is told in the movie "Colonia". ](/news/2016/04/26/german-foreign-minister-frank-walter-steinmeier-apologizes-that-for-decades-german-diplomats-failed-to-act-on-abuses-at-colonia-dignidad.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Several loud explosions followed by heavy gunfire were heard over Tripoli in the
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Blasts and gunfire are reported in Tripoli. ](/news/2016/03/30/libyan-civil-war-2014-present-blasts-and-gunfire-are-reported-in-tripoli.md) _2017-08-27 03:45:25 (First version)_
+1. [Libyan Civil War (2014-present): Blasts and gunfire are reported in Tripoli. ](/news/2016/03/30/libyan-civil-war-2014-present-blasts-and-gunfire-are-reported-in-tripoli.md) _2018-02-06 13:49:28 (First version)_
 1. [Blasts and gunfire are reported in Tripoli. ](/news/2016/03/30/blasts-and-gunfire-are-reported-in-tripoli.md) _(Current version)_
 
 ### Related:

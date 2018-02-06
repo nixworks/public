@@ -18,8 +18,8 @@ French forces say they have entered Kidal in northern Mali, the last major town 
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _2017-08-25 03:37:22 (First version)_
-2. [Northern Mali conflict (2012-present):: French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012-present-french-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _2017-08-27 03:37:32 (Update)_
+1. [Northern Mali conflict (2012-present):French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012-present-french-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _2018-02-06 13:49:24 (Update)_
 2. [French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/french-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _(Current version)_
 
 ### Related:

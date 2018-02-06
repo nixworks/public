@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-d
 
 ### Changes:
 
-1. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md) _2017-08-25 03:24:29 (First version)_
+1. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md) _2018-02-06 13:49:19 (First version)_
 1. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. [http:--www.guardian.co.uk-world-2009-may-07-china-quake-pupils-death-toll "(The Guardian)"]](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008-http-www-guardian-co-uk-world-2009-may-0.md) _(Current version)_
 
 ### Related:

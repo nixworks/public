@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/21/the-united-nations-backed-special-court-for-sie
 
 ### Changes:
 
-1. [ The United Nations-backed Special Court for Sierra Leone finds three leaders of the Armed Forces Revolutionary Council&mdash;Alex Tamba Brima, Brima Bazzy Kamara, and Santigie Borbor Kanu&mdash;guilty of war crimes. ](/news/2007/06/21/the-united-nations-backed-special-court-for-sierra-leone-finds-three-leaders-of-the-armed-forces-revolutionary-council-mdash-alex-tamba-br.md) _2017-08-25 03:20:00 (First version)_
+1. [ The United Nations-backed Special Court for Sierra Leone finds three leaders of the Armed Forces Revolutionary Council&mdash;Alex Tamba Brima, Brima Bazzy Kamara, and Santigie Borbor Kanu&mdash;guilty of war crimes. ](/news/2007/06/21/the-united-nations-backed-special-court-for-sierra-leone-finds-three-leaders-of-the-armed-forces-revolutionary-council-mdash-alex-tamba-br.md) _2018-02-06 13:49:17 (First version)_
 1. [ The United Nations-backed Special Court for Sierra Leone finds three leaders of the Armed Forces Revolutionary Council&mdash;Alex Tamba Brima, Brima Bazzy Kamara, and Santigie Borbor Kanu&mdash;guilty of war crimes. ](/news/2007/06/21/the-united-nations-backed-special-court-for-sierra-leone-finds-three-leaders-of-the-armed-forces-revolutionary-council-mdash-alex-tamba-bri.md) _(Current version)_
 
 ### Related:

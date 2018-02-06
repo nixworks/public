@@ -19,7 +19,7 @@ Myanmar’s parliament approved Aung San Suu Kyi and 17 other nominees to take p
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-general-election-2015-myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions.md) _2017-08-27 03:45:21 (First version)_
+1. [Myanmar general election, 2015: Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-general-election-2015-myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions.md) _2018-02-06 13:49:28 (First version)_
 1. [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md) _(Current version)_
 
 ### Related:

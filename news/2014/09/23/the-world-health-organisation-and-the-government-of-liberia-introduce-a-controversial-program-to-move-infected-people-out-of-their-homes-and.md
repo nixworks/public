@@ -15,7 +15,7 @@ WHO-backed plan for Ebola is seen as intermediate step between treatment centers
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organisation and the Government of Liberia introduce a controversial program to move infected people out of their homes and into "de facto" shelters. ](/news/2014/09/23/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-and-the-government-of-liberia-introduce-a-controversial-program-to-move-i.md) _2017-08-27 03:41:19 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organisation and the Government of Liberia introduce a controversial program to move infected people out of their homes and into "de facto" shelters. ](/news/2014/09/23/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-and-the-government-of-liberia-introduce-a-controversial-program-to-move-i.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation and the Government of Liberia introduce a controversial program to move infected people out of their homes and into "de facto" shelters. ](/news/2014/09/23/the-world-health-organisation-and-the-government-of-liberia-introduce-a-controversial-program-to-move-infected-people-out-of-their-homes-and.md) _(Current version)_
 
 ### Related:

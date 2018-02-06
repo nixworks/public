@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Egyptian Revolution of 2011:Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/egyptian-revolution-of-2011-psome-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-af.md) _2017-08-25 03:32:16 (First version)_
-2. [Egyptian Revolution of 2011:: Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/egyptian-revolution-of-2011-some-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-a.md) _2017-08-27 03:32:24 (Update)_
+1. [Egyptian Revolution of 2011:: Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/egyptian-revolution-of-2011-some-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-a.md) _2018-02-06 13:49:22 (First version)_
+2. [Egyptian Revolution of 2011:Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/egyptian-revolution-of-2011-psome-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-af.md) _2018-02-06 13:49:22 (Update)_
 2. [Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/some-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-after-30-years-in-the-recent-re.md) _(Current version)_
 
 ### Related:

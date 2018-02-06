@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/30/reuters-reports-that-a-million-dollars-in-fifa-
 
 ### Changes:
 
-1. [2015 FIFA corruption case: Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/2015-fifa-corruption-case-reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-fede.md) _2017-08-27 03:44:47 (First version)_
+1. [2015 FIFA corruption case: Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/2015-fifa-corruption-case-reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-fede.md) _2018-02-06 13:49:28 (First version)_
 1. [Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-federation-of-guatemala.md) _(Current version)_
 
 ### Related:

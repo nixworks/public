@@ -17,9 +17,9 @@ Asteroid 2012 TC4 is zipping past Earth on Thursday, allowing scientists and eme
 
 ### Changes:
 
-1. [Apollo-group-type asteroid 2012 TC4 (approximately 15 meters in diameter) passes 0.0003352 AU (50,150 km; 31,160 mi) from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-meters-in-diameter-passes-0-0003352-au-50-150-km-31-160-mi-from-earth-well-within.md) _2017-10-12 17:30:06 (First version)_
-2. [Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-within-the-moon-s-orbit.md) _2017-10-13 00:30:06 (Update)_
-3. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _2017-10-13 06:30:06 (Update)_
+1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _2018-02-06 13:49:31 (First version)_
+2. [Apollo-group-type asteroid 2012 TC4 (approximately 15 meters in diameter) passes 0.0003352 AU (50,150 km; 31,160 mi) from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-meters-in-diameter-passes-0-0003352-au-50-150-km-31-160-mi-from-earth-well-within.md) _2018-02-06 13:49:31 (Update)_
+3. [Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-within-the-moon-s-orbit.md) _2018-02-06 13:49:31 (Update)_
 3. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _(Current version)_
 
 ### Related:

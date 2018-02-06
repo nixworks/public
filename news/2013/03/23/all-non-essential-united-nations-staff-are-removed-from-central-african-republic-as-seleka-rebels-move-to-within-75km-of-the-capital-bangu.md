@@ -18,8 +18,8 @@ All non-essential UN staff said to be removed from Central African Republic, as 
 
 ### Changes:
 
-1. [2012-13 Central African Republic conflict:All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012a13-central-african-republic-conflict-pall-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-reb.md) _2017-08-25 03:37:59 (First version)_
-2. [2012-13 Central African Republic conflict:: All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012-13-central-african-republic-conflict-all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-re.md) _2017-08-27 03:38:11 (Update)_
+1. [2012-13 Central African Republic conflict:All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012a13-central-african-republic-conflict-pall-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-reb.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-13 Central African Republic conflict:: All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012-13-central-african-republic-conflict-all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-re.md) _2018-02-06 13:49:24 (Update)_
 2. [All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-rebels-move-to-within-75km-of-the-capital-bangu.md) _(Current version)_
 
 ### Related:

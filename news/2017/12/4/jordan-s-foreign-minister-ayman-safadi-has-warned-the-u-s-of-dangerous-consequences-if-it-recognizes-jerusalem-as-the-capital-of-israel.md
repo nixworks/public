@@ -19,7 +19,7 @@ The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;cont
 
 ### Changes:
 
-1. [Jordan's foreign minister Ayman Safadi has warned the US of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-us-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md) _2017-12-04 12:30:09 (First version)_
+1. [Jordan's foreign minister Ayman Safadi has warned the US of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-us-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md) _2018-02-06 13:49:31 (First version)_
 1. [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md) _(Current version)_
 
 ### Related:

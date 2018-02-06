@@ -16,7 +16,7 @@ The United Nations Security Council voted Tuesday to impose an arms embargo on Y
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): The United Nations Security Council votes to impose sanctions on Yemen's Houthi rebels. ](/news/2015/04/14/yemeni-civil-war-2015-the-united-nations-security-council-votes-to-impose-sanctions-on-yemen-s-houthi-rebels.md) _2017-08-27 03:42:12 (First version)_
+1. [Yemeni Civil War (2015): The United Nations Security Council votes to impose sanctions on Yemen's Houthi rebels. ](/news/2015/04/14/yemeni-civil-war-2015-the-united-nations-security-council-votes-to-impose-sanctions-on-yemen-s-houthi-rebels.md) _2018-02-06 13:49:27 (First version)_
 1. [The United Nations Security Council votes to impose sanctions on Yemen's Houthi rebels. ](/news/2015/04/14/the-united-nations-security-council-votes-to-impose-sanctions-on-yemen-s-houthi-rebels.md) _(Current version)_
 
 ### Related:

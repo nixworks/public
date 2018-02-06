@@ -16,7 +16,7 @@ The country&#39;s constitutional court has ruled out postponing Sunday&#39;s ele
 
 ### Changes:
 
-1. [Guinean presidential election, 2015: Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started; the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. ](/news/2015/10/11/guinean-presidential-election-2015-millions-of-guineans-vote-peacefully-in-the-west-african-country-s-second-free-election-since-gaining-i.md) _2017-08-27 03:43:18 (First version)_
+1. [Guinean presidential election, 2015: Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started; the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. ](/news/2015/10/11/guinean-presidential-election-2015-millions-of-guineans-vote-peacefully-in-the-west-african-country-s-second-free-election-since-gaining-i.md) _2018-02-06 13:49:27 (First version)_
 1. [Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started; the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. ](/news/2015/10/11/millions-of-guineans-vote-peacefully-in-the-west-african-country-s-second-free-election-since-gaining-independence-from-france-nearly-60-yea.md) _(Current version)_
 
 ### Related:

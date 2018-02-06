@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/25/an-egyptian-court-decides-to-try-former-preside
 
 ### Changes:
 
-1. [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib al-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-al-adly-together-on-charges-relating-to.md) _2017-10-17 03:39:24 (First version)_
+1. [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib al-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-al-adly-together-on-charges-relating-to.md) _2018-02-06 13:49:22 (First version)_
 1. [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib el-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-el-adly-together-on-charges-relating-to.md) _(Current version)_
 
 ### Related:

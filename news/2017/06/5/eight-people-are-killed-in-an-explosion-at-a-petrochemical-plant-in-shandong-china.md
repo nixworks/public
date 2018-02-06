@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-pet
 
 ### Changes:
 
-1. [2017 disasters in China: Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/2017-disasters-in-china-eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _2017-08-27 03:48:26 (First version)_
+1. [2017 disasters in China: Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/2017-disasters-in-china-eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _2018-02-06 13:49:30 (First version)_
 1. [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _(Current version)_
 
 ### Related:

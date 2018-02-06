@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/08/6/three-people-including-a-pregnant-woman-are-kidn
 
 ### Changes:
 
-1. [Moro conflict: Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/moro-conflict-three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mind.md) _2017-08-27 03:46:37 (First version)_
+1. [Moro conflict: Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/moro-conflict-three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mind.md) _2018-02-06 13:49:29 (First version)_
 1. [Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mindanao-no-group.md) _(Current version)_
 
 ### Related:

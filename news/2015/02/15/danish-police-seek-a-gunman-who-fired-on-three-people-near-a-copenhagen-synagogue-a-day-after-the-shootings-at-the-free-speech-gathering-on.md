@@ -19,7 +19,7 @@ A man shot in the head near a synagogue in central Copenhagen early today died s
 
 ### Changes:
 
-1. [2015 Copenhagen shootings: Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-th.md) _2017-08-27 03:41:56 (First version)_
+1. [2015 Copenhagen shootings: Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-the-free-speech-gathering-on.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-r
 
 ### Changes:
 
-1. [The ''New England Journal of Medicine'' publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cance.md) _2017-08-25 03:41:31 (First version)_
+1. [The ''New England Journal of Medicine'' publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cance.md) _2018-02-06 13:49:26 (First version)_
 1. [The "New England Journal of Medicine" publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cancer.md) _(Current version)_
 
 ### Related:

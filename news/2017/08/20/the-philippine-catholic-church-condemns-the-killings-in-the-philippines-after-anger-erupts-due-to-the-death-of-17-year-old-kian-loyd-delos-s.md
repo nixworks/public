@@ -17,8 +17,8 @@ It comes as questions are raised over the killing of a teenager by police during
 
 ### Changes:
 
-1. [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of a 17-year old male student. ](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-a-17-year-old-male-student.md) _2017-08-21 03:48:03 (First version)_
-2. [Philippine Drug War: The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/philippine-drug-war-the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year.md) _2017-08-27 17:30:04 (Update)_
+1. [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of a 17-year old male student. ](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-a-17-year-old-male-student.md) _2018-02-06 13:49:31 (First version)_
+2. [Philippine Drug War: The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/philippine-drug-war-the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year.md) _2018-02-06 13:49:31 (Update)_
 2. [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year-old-kian-loyd-delos-s.md) _(Current version)_
 
 ### Related:

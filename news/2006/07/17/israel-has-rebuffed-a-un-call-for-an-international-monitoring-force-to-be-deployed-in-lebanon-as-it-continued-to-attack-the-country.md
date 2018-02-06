@@ -20,8 +20,8 @@ Formats: [HTML](/news/2006/07/17/israel-has-rebuffed-a-un-call-for-an-internatio
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon crisis: Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/2006-israel-lebanon-crisis-p-israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued.md) _2017-08-25 03:18:02 (First version)_
-2. [ 2006 Israel-Lebanon crisis:: Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/2006-israel-lebanon-crisis-israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued.md) _2017-08-27 03:18:00 (Update)_
+1. [ 2006 Israel-Lebanon crisis: Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/2006-israel-lebanon-crisis-p-israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon crisis:: Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/2006-israel-lebanon-crisis-israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued-to-attack-the-country.md) _(Current version)_
 
 ### Related:

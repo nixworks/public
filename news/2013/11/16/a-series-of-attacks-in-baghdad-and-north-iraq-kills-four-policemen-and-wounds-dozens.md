@@ -16,8 +16,8 @@ A series of attacks in Baghdad and north Iraq leave four policemen dead and a do
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md) _2017-08-25 03:39:32 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md) _2017-08-27 03:39:50 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md) _2018-02-06 13:49:25 (Update)_
 2. [A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/a-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md) _(Current version)_
 
 ### Related:

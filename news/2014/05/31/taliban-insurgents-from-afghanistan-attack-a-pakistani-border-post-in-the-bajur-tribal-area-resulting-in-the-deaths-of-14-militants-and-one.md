@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/31/taliban-insurgents-from-afghanistan-attack-a-pa
 
 ### Changes:
 
-1. [War in North-West Pakistan:Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-ptaliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-de.md) _2017-08-25 03:40:29 (First version)_
-2. [War in North-West Pakistan:: Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-d.md) _2017-08-27 03:40:47 (Update)_
+1. [War in North-West Pakistan:: Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-d.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-ptaliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-de.md) _2018-02-06 13:49:26 (Update)_
 2. [Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-deaths-of-14-militants-and-one.md) _(Current version)_
 
 ### Related:

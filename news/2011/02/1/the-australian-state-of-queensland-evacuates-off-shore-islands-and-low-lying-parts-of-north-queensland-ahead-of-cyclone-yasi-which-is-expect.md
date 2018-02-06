@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/02/1/the-australian-state-of-queensland-evacuates-off
 
 ### Changes:
 
-1. [Cyclone Yasi: The Australian state of Queensland evacuates off-shore islands and low-lying parts of North Queensland ahead of Cyclone Yasi which is expected to hit the state as a Category 4 tropical cyclone late on Wednesday or early Thursday. ](/news/2011/02/1/cyclone-yasi-the-australian-state-of-queensland-evacuates-off-shore-islands-and-low-lying-parts-of-north-queensland-ahead-of-cyclone-yasi-w.md) _2017-08-27 03:32:08 (First version)_
+1. [Cyclone Yasi: The Australian state of Queensland evacuates off-shore islands and low-lying parts of North Queensland ahead of Cyclone Yasi which is expected to hit the state as a Category 4 tropical cyclone late on Wednesday or early Thursday. ](/news/2011/02/1/cyclone-yasi-the-australian-state-of-queensland-evacuates-off-shore-islands-and-low-lying-parts-of-north-queensland-ahead-of-cyclone-yasi-w.md) _2018-02-06 13:49:21 (First version)_
 1. [The Australian state of Queensland evacuates off-shore islands and low-lying parts of North Queensland ahead of Cyclone Yasi which is expected to hit the state as a Category 4 tropical cyclone late on Wednesday or early Thursday. ](/news/2011/02/1/the-australian-state-of-queensland-evacuates-off-shore-islands-and-low-lying-parts-of-north-queensland-ahead-of-cyclone-yasi-which-is-expect.md) _(Current version)_
 
 ### Related:

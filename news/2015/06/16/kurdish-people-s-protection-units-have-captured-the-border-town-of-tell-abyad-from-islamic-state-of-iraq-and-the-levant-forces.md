@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/16/kurdish-people-s-protection-units-have-captured
 
 ### Changes:
 
-1. [Syrian Civil War: Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/syrian-civil-war-kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-fo.md) _2017-08-27 03:42:33 (First version)_
+1. [Syrian Civil War: Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/syrian-civil-war-kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-fo.md) _2018-02-06 13:49:27 (First version)_
 1. [Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-forces.md) _(Current version)_
 
 ### Related:

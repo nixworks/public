@@ -16,7 +16,7 @@ Shuttle Endeavour lifted off from Florida before dawn Monday, the last scheduled
 
 ### Changes:
 
-1. [Space Shuttle ''Endeavour'' launches successfully from Kennedy Space Center at 4:14 EST, marking the beginning of STS-130, a two-week mission to the International Space Station. ](/news/2010/02/8/space-shuttle-endeavour-launches-successfully-from-kennedy-space-center-at-4-14-est-marking-the-beginning-of-sts-130-a-two-week-missio.md) _2017-08-25 03:27:06 (First version)_
+1. [Space Shuttle ''Endeavour'' launches successfully from Kennedy Space Center at 4:14 EST, marking the beginning of STS-130, a two-week mission to the International Space Station. ](/news/2010/02/8/space-shuttle-endeavour-launches-successfully-from-kennedy-space-center-at-4-14-est-marking-the-beginning-of-sts-130-a-two-week-missio.md) _2018-02-06 13:49:19 (First version)_
 1. [Space Shuttle "Endeavour" launches successfully from Kennedy Space Center at 4:14 EST, marking the beginning of STS-130, a two-week mission to the International Space Station. ](/news/2010/02/8/space-shuttle-endeavour-launches-successfully-from-kennedy-space-center-at-4-14-est-marking-the-beginning-of-sts-130-a-two-week-mission.md) _(Current version)_
 
 ### Related:

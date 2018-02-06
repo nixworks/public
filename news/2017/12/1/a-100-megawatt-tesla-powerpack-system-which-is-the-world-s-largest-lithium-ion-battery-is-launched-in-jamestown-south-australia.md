@@ -16,7 +16,7 @@ Jay Weatherill marks the official launch as Elon Musk delivers on his promise to
 
 ### Changes:
 
-1. [A 100-megawatt Tesla Powerpack system, which is the world's lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-lithium-ion-battery-is-launched-in-jamestown-south-australia.md) _2017-12-01 07:30:05 (First version)_
+1. [A 100-megawatt Tesla Powerpack system, which is the world's lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-lithium-ion-battery-is-launched-in-jamestown-south-australia.md) _2018-02-06 13:49:31 (First version)_
 1. [A 100-megawatt Tesla Powerpack system, which is the world's largest lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-largest-lithium-ion-battery-is-launched-in-jamestown-south-australia.md) _(Current version)_
 
 ### Related:

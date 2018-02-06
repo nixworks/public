@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/18/vice-admiral-thad-allen-warns-that-new-orleans-
 
 ### Changes:
 
-1. [ Vice Admiral Thad Allen warns that New Orleans tap water is still unfit to drink. He cautions that mayor Ray Nagin's encouragement of residents outside the French Quarter to return is "extremely problematic" at this time. ](/news/2005/09/18/vice-admiral-thad-allen-warns-that-new-orleans-tap-water-is-still-unfit-to-drink-he-cautions-that-mayor-ray-nagin-s-encouragement-of-resi.md) _2017-08-25 03:16:48 (First version)_
+1. [ Vice Admiral Thad Allen warns that New Orleans tap water is still unfit to drink. He cautions that mayor Ray Nagin's encouragement of residents outside the French Quarter to return is "extremely problematic" at this time. ](/news/2005/09/18/vice-admiral-thad-allen-warns-that-new-orleans-tap-water-is-still-unfit-to-drink-he-cautions-that-mayor-ray-nagin-s-encouragement-of-resi.md) _2018-02-06 13:49:16 (First version)_
 1. [ Vice Admiral Thad Allen warns that New Orleans tap water is still unfit to drink. He cautions that mayor Ray Nagin's encouragement of residents outside the French Quarter to return is "extremely problematic" at this time. ](/news/2005/09/18/vice-admiral-thad-allen-warns-that-new-orleans-tap-water-is-still-unfit-to-drink-he-cautions-that-mayor-ray-nagin-s-encouragement-of-resid.md) _(Current version)_
 
 ### Related:

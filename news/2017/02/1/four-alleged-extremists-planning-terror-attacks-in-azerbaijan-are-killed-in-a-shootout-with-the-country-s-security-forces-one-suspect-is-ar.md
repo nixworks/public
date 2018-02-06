@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-
 
 ### Changes:
 
-1. [Four alleged extremists planning terror attacks in Azerbaijan are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group was connected to an unspecified religious extremist group abroad. ](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-in-azerbaijan-are-killed-in-a-shootout-with-the-country-s-security-forces-one-suspect-is-a.md) _2017-08-25 03:47:20 (First version)_
+1. [Four alleged extremists planning terror attacks in Azerbaijan are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group was connected to an unspecified religious extremist group abroad. ](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-in-azerbaijan-are-killed-in-a-shootout-with-the-country-s-security-forces-one-suspect-is-a.md) _2018-02-06 13:49:30 (First version)_
 1. [Four alleged extremists planning terror attacks in Azerbaijan are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group was connected to an unspecified religious extremist group abroad. ](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-in-azerbaijan-are-killed-in-a-shootout-with-the-country-s-security-forces-one-suspect-is-ar.md) _(Current version)_
 
 ### Related:

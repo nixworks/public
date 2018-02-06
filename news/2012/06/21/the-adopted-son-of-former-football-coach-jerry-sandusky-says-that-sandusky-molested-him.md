@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/06/21/the-adopted-son-of-former-football-coach-jerry-
 
 ### Changes:
 
-1. [Penn State child sex abuse scandal:The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-pthe-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md) _2017-08-25 03:35:56 (First version)_
-2. [Penn State child sex abuse scandal:: The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md) _2017-08-27 03:36:07 (Update)_
+1. [Penn State child sex abuse scandal:: The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md) _2018-02-06 13:49:23 (First version)_
+2. [Penn State child sex abuse scandal:The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-pthe-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md) _2018-02-06 13:49:23 (Update)_
 2. [The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md) _(Current version)_
 
 ### Related:

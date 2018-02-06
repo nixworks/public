@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/iraqi-civil-war-2014-present-a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killin.md) _2017-08-27 03:47:49 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/iraqi-civil-war-2014-present-a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killin.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md) _(Current version)_
 
 ### Related:

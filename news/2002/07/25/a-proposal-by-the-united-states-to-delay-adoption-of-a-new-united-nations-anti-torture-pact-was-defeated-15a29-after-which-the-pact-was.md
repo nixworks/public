@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/07/25/a-proposal-by-the-united-states-to-delay-adopti
 
 ### Changes:
 
-1. [ A proposal by the United States to delay adoption of a new United Nations anti-torture pact was defeated 15-29, after which the pact was adopted by the Economic and Social Council. The United States cited concerns that, if adopted by the General Assembly, American state prisons and other facilities may become subject to inspection.](/news/2002/07/25/a-proposal-by-the-united-states-to-delay-adoption-of-a-new-united-nations-anti-torture-pact-was-defeated-15-29-after-which-the-pact-was.md) _2017-08-27 03:15:14 (First version)_
+1. [ A proposal by the United States to delay adoption of a new United Nations anti-torture pact was defeated 15-29, after which the pact was adopted by the Economic and Social Council. The United States cited concerns that, if adopted by the General Assembly, American state prisons and other facilities may become subject to inspection.](/news/2002/07/25/a-proposal-by-the-united-states-to-delay-adoption-of-a-new-united-nations-anti-torture-pact-was-defeated-15-29-after-which-the-pact-was.md) _2018-02-06 13:49:15 (First version)_
 1. [ A proposal by the United States to delay adoption of a new United Nations anti-torture pact was defeated 15-29, after which the pact was adopted by the Economic and Social Council. The United States cited concerns that, if adopted by the General Assembly, American state prisons and other facilities may become subject to inspection.](/news/2002/07/25/a-proposal-by-the-united-states-to-delay-adoption-of-a-new-united-nations-anti-torture-pact-was-defeated-15a29-after-which-the-pact-was.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/08/13/an-explosion-at-a-police-station-in-the-pakista
 
 ### Changes:
 
-1. [ An explosion at a police station in the Pakistani city of Lahore kills at least three people, on the eve of the 61 st anniversary of independence. ](/news/2008/08/13/an-explosion-at-a-police-station-in-the-pakistani-city-of-lahore-kills-at-least-three-people-on-the-eve-of-the-61st-anniversary-of-indepen.md) _2017-10-02 03:25:43 (First version)_
+1. [ An explosion at a police station in the Pakistani city of Lahore kills at least three people, on the eve of the 61 st anniversary of independence. ](/news/2008/08/13/an-explosion-at-a-police-station-in-the-pakistani-city-of-lahore-kills-at-least-three-people-on-the-eve-of-the-61st-anniversary-of-indepen.md) _2018-02-06 13:49:18 (First version)_
 1. [ An explosion at a police station in the Pakistani city of Lahore kills at least three people, on the eve of the 61 st anniversary of independence. ](/news/2008/08/13/an-explosion-at-a-police-station-in-the-pakistani-city-of-lahore-kills-at-least-three-people-on-the-eve-of-the-61-st-anniversary-of-indepe.md) _(Current version)_
 
 ### Related:

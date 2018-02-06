@@ -29,7 +29,7 @@ A March 12 explosion at the earthquake-damaged Fukushima Daiichi nuclear power p
 
 ### Changes:
 
-1. [2011 Tohoku earthquake and tsunami: Analysts believe that a nuclear meltdown may be occurring at the Fukushima I Nuclear Power Plant disabled by the Japanese earthquake with a state of emergency declared at five plants. ](/news/2011/03/12/2011-tahoku-earthquake-and-tsunami-analysts-believe-that-a-nuclear-meltdown-may-be-occurring-at-the-fukushima-i-nuclear-power-plant-disabl.md) _2017-08-27 03:32:39 (First version)_
+1. [2011 Tohoku earthquake and tsunami: Analysts believe that a nuclear meltdown may be occurring at the Fukushima I Nuclear Power Plant disabled by the Japanese earthquake with a state of emergency declared at five plants. ](/news/2011/03/12/2011-tahoku-earthquake-and-tsunami-analysts-believe-that-a-nuclear-meltdown-may-be-occurring-at-the-fukushima-i-nuclear-power-plant-disabl.md) _2018-02-06 13:49:22 (First version)_
 1. [Analysts believe that a nuclear meltdown may be occurring at the Fukushima I Nuclear Power Plant disabled by the Japanese earthquake with a state of emergency declared at five plants. ](/news/2011/03/12/analysts-believe-that-a-nuclear-meltdown-may-be-occurring-at-the-fukushima-i-nuclear-power-plant-disabled-by-the-japanese-earthquake-with-a.md) _(Current version)_
 
 ### Related:

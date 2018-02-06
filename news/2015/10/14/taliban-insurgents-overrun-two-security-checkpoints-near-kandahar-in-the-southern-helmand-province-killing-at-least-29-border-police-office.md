@@ -16,7 +16,7 @@ Taliban insurgents overran two checkpoints in southern Helmand province and kill
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban insurgents overrun two security checkpoints near Kandahar in the southern Helmand Province, killing at least 29 border police officers, according to local officials. ](/news/2015/10/14/war-in-afghanistan-2015-present-taliban-insurgents-overrun-two-security-checkpoints-near-kandahar-in-the-southern-helmand-province-kil.md) _2017-08-27 03:43:20 (First version)_
+1. [War in Afghanistan (2015-present): Taliban insurgents overrun two security checkpoints near Kandahar in the southern Helmand Province, killing at least 29 border police officers, according to local officials. ](/news/2015/10/14/war-in-afghanistan-2015-present-taliban-insurgents-overrun-two-security-checkpoints-near-kandahar-in-the-southern-helmand-province-kil.md) _2018-02-06 13:49:27 (First version)_
 1. [Taliban insurgents overrun two security checkpoints near Kandahar in the southern Helmand Province, killing at least 29 border police officers, according to local officials. ](/news/2015/10/14/taliban-insurgents-overrun-two-security-checkpoints-near-kandahar-in-the-southern-helmand-province-killing-at-least-29-border-police-office.md) _(Current version)_
 
 ### Related:

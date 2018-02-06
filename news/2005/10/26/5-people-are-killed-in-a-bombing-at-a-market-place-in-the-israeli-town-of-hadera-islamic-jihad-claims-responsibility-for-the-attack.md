@@ -17,8 +17,8 @@ Terror returns to Israel’s cities: Suicide bomber strikes in market in Hadera,
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/israeli-palestinian-conflict-p-5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-respo.md) _2017-08-25 03:17:01 (First version)_
-2. [ Israeli-Palestinian conflict:: 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/israeli-palestinian-conflict-5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-respo.md) _2017-08-27 03:17:01 (Update)_
+1. [ Israeli-Palestinian conflict: 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/israeli-palestinian-conflict-p-5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-respo.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict:: 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/israeli-palestinian-conflict-5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-respo.md) _2018-02-06 13:49:16 (Update)_
 2. [ 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-responsibility-for-the-attack.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-a
 
 ### Changes:
 
-1. [Indonesia renames part of the sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-sea-as-north-natuna-sea-angering-china.md) _2017-07-16 00:30:06 (First version)_
-2. [South China Sea disputes: Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/south-china-sea-disputes-indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md) _2017-08-27 03:48:40 (Update)_
+1. [South China Sea disputes: Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/south-china-sea-disputes-indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md) _2018-02-06 13:49:30 (First version)_
+2. [Indonesia renames part of the sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-sea-as-north-natuna-sea-angering-china.md) _2018-02-06 13:49:30 (Update)_
 2. [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md) _(Current version)_
 
 ### Related:

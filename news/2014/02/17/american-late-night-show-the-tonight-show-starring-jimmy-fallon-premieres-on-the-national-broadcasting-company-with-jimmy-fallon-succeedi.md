@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/17/american-late-night-show-the-tonight-show-starr
 
 ### Changes:
 
-1. [American late-night show ''The Tonight Show Starring Jimmy Fallon'' premieres on the National Broadcasting Company, with Jimmy Fallon succeeding Jay Leno as host. ](/news/2014/02/17/american-late-night-show-the-tonight-show-starring-jimmy-fallon-premieres-on-the-national-broadcasting-company-with-jimmy-fallon-succee.md) _2017-08-25 03:40:03 (First version)_
+1. [American late-night show ''The Tonight Show Starring Jimmy Fallon'' premieres on the National Broadcasting Company, with Jimmy Fallon succeeding Jay Leno as host. ](/news/2014/02/17/american-late-night-show-the-tonight-show-starring-jimmy-fallon-premieres-on-the-national-broadcasting-company-with-jimmy-fallon-succee.md) _2018-02-06 13:49:25 (First version)_
 1. [American late-night show "The Tonight Show Starring Jimmy Fallon" premieres on the National Broadcasting Company, with Jimmy Fallon succeeding Jay Leno as host. ](/news/2014/02/17/american-late-night-show-the-tonight-show-starring-jimmy-fallon-premieres-on-the-national-broadcasting-company-with-jimmy-fallon-succeedi.md) _(Current version)_
 
 ### Related:

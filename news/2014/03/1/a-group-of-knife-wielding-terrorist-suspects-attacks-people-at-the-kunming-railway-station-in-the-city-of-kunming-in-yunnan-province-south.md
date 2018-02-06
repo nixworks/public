@@ -17,7 +17,7 @@ An attack by knife-wielding men at a railway station in Kunming, south-west Chin
 
 ### Changes:
 
-1. [Kunming station massacre: A group of knife-wielding terrorist suspects attacks people at the Kunming Railway Station in the city of Kunming in Yunnan province, south-western China. At least 29 people are killed and 130 others injured. ](/news/2014/03/1/kunming-station-massacre-a-group-of-knife-wielding-terrorist-suspects-attacks-people-at-the-kunming-railway-station-in-the-city-of-kunming.md) _2017-08-27 03:40:24 (First version)_
+1. [Kunming station massacre: A group of knife-wielding terrorist suspects attacks people at the Kunming Railway Station in the city of Kunming in Yunnan province, south-western China. At least 29 people are killed and 130 others injured. ](/news/2014/03/1/kunming-station-massacre-a-group-of-knife-wielding-terrorist-suspects-attacks-people-at-the-kunming-railway-station-in-the-city-of-kunming.md) _2018-02-06 13:49:25 (First version)_
 1. [A group of knife-wielding terrorist suspects attacks people at the Kunming Railway Station in the city of Kunming in Yunnan province, south-western China. At least 29 people are killed and 130 others injured. ](/news/2014/03/1/a-group-of-knife-wielding-terrorist-suspects-attacks-people-at-the-kunming-railway-station-in-the-city-of-kunming-in-yunnan-province-south.md) _(Current version)_
 
 ### Related:

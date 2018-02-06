@@ -17,7 +17,7 @@ CINCINNATI (AP) — Otto Warmbier, an American college student who was released 
 
 ### Changes:
 
-1. [North Korea-United States relations: American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. ](/news/2017/06/19/north-korea-united-states-relations-american-student-otto-warmbier-who-returned-to-the-united-states-after-serving-17-months-in-the-nort.md) _2017-08-27 03:48:31 (First version)_
+1. [North Korea-United States relations: American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. ](/news/2017/06/19/north-korea-united-states-relations-american-student-otto-warmbier-who-returned-to-the-united-states-after-serving-17-months-in-the-nort.md) _2018-02-06 13:49:30 (First version)_
 1. [American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. ](/news/2017/06/19/american-student-otto-warmbier-who-returned-to-the-united-states-after-serving-17-months-in-the-north-korean-prison-system-dies-after-retur.md) _(Current version)_
 
 ### Related:

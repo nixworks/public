@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-
 
 ### Changes:
 
-1. [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyo-nagoya-from-2027.md) _2017-08-27 03:37:02 (First version)_
+1. [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyo-nagoya-from-2027.md) _2018-02-06 13:49:24 (First version)_
 1. [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyoanagoya-from-2027.md) _(Current version)_
 
 ### Related:

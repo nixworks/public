@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/01/17/two-car-bombs-explode-in-the-city-of-dujail-ira
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/iraqi-insurgency-post-u-s-withdrawal-ptwo-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md) _2017-08-25 03:37:17 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/iraqi-insurgency-post-u-s-withdrawal-two-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md) _2017-08-27 03:37:26 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/iraqi-insurgency-post-u-s-withdrawal-two-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/iraqi-insurgency-post-u-s-withdrawal-ptwo-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md) _2018-02-06 13:49:24 (Update)_
 2. [Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/two-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-
 
 ### Changes:
 
-1. [''Bank of Moscow'', the fifth largest bank in Russia, in record bailout of $14 billion, after the discovery that almost a third of the bank's assets are "problematic," the Central Bank of Russia said.](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-in-record-bailout-of-14-billion-after-the-discovery-that-almost-a-third-of-the-bank.md) _2017-08-25 03:33:39 (First version)_
+1. [''Bank of Moscow'', the fifth largest bank in Russia, in record bailout of $14 billion, after the discovery that almost a third of the bank's assets are "problematic," the Central Bank of Russia said.](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-in-record-bailout-of-14-billion-after-the-discovery-that-almost-a-third-of-the-bank.md) _2018-02-06 13:49:22 (First version)_
 1. ["Bank of Moscow", the fifth largest bank in Russia, in record bailout of $14 billion, after the discovery that almost a third of the bank's assets are "problematic," the Central Bank of Russia said.](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-in-record-bailout-of-14-billion-after-the-discovery-that-almost-a-third-of-the-bank-s.md) _(Current version)_
 
 ### Related:

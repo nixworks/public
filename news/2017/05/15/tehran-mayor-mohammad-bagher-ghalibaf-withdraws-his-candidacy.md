@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/iranian-presidential-election-2017-tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _2017-08-27 03:48:20 (First version)_
+1. [Iranian presidential election, 2017: Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/iranian-presidential-election-2017-tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _2018-02-06 13:49:30 (First version)_
 1. [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _(Current version)_
 
 ### Related:

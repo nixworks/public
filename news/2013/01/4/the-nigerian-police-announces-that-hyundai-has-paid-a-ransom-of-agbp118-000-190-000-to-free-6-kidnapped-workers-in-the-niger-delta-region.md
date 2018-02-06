@@ -16,7 +16,7 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 
 ### Changes:
 
-1. [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _2017-08-25 03:37:11 (First version)_
+1. [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _2018-02-06 13:49:24 (First version)_
 1. [The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _(Current version)_
 
 ### Related:

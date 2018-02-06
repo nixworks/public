@@ -18,7 +18,7 @@ Formats: [HTML](/news/2009/07/9/tehran-governor-morteza-tamaddon-vows-to-smash-a
 
 ### Changes:
 
-1. [ 2009 Iranian election protests: Tehran Governor Morteza Tamaddon vows to "smash" any new protests. ](/news/2009/07/9/2009-iranian-election-protests-tehran-governor-morteza-tamaddon-vows-to-smash-any-new-protests.md) _2017-08-27 03:24:59 (First version)_
+1. [ 2009 Iranian election protests: Tehran Governor Morteza Tamaddon vows to "smash" any new protests. ](/news/2009/07/9/2009-iranian-election-protests-tehran-governor-morteza-tamaddon-vows-to-smash-any-new-protests.md) _2018-02-06 13:49:19 (First version)_
 1. [ Tehran Governor Morteza Tamaddon vows to "smash" any new protests. ](/news/2009/07/9/tehran-governor-morteza-tamaddon-vows-to-smash-any-new-protests.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Israeli Prime Minister Benjamin Netanyahu pledges that the occupied Golan Height
 
 ### Changes:
 
-1. [Israel-Syria relations: The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/israel-syria-relations-the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-o.md) _2017-08-27 03:45:39 (First version)_
+1. [Israel-Syria relations: The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/israel-syria-relations-the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-o.md) _2018-02-06 13:49:28 (First version)_
 1. [The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-of-syria-will-forever-stay.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/04/6/the-u-s-securities-and-exchange-commission-by-a-
 
 ### Changes:
 
-1. [ The U.S. Securities and Exchange Commission, by a 3-2 vote, adopts a set of rules designed to create a ''National Market System.'' The dissenting commissioners describe the measure as 'anticompetitive'. ](/news/2005/04/6/the-u-s-securities-and-exchange-commission-by-a-3-2-vote-adopts-a-set-of-rules-designed-to-create-a-national-market-system-the-diss.md) _2017-08-25 03:15:55 (First version)_
+1. [ The U.S. Securities and Exchange Commission, by a 3-2 vote, adopts a set of rules designed to create a ''National Market System.'' The dissenting commissioners describe the measure as 'anticompetitive'. ](/news/2005/04/6/the-u-s-securities-and-exchange-commission-by-a-3-2-vote-adopts-a-set-of-rules-designed-to-create-a-national-market-system-the-diss.md) _2018-02-06 13:49:16 (First version)_
 1. [ The U.S. Securities and Exchange Commission, by a 3-2 vote, adopts a set of rules designed to create a "National Market System." The dissenting commissioners describe the measure as 'anticompetitive'. ](/news/2005/04/6/the-u-s-securities-and-exchange-commission-by-a-3-2-vote-adopts-a-set-of-rules-designed-to-create-a-national-market-system-the-dissen.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Chinese authorities raced against time, distance, altitude and wind in a remote 
 
 ### Changes:
 
-1. [2010 Yushu earthquake: Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/2010-yushu-earthquake-chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-sugges.md) _2017-08-27 03:27:35 (First version)_
+1. [2010 Yushu earthquake: Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/2010-yushu-earthquake-chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-sugges.md) _2018-02-06 13:49:19 (First version)_
 1. [Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-suggest-there-were-six-quakes.md) _(Current version)_
 
 ### Related:

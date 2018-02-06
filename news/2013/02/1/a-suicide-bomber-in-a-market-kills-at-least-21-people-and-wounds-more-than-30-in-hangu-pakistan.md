@@ -18,8 +18,8 @@ The explosion came as Sunni and Shiite villagers in northwestern Pakistan were l
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/war-in-north-west-pakistan-pa-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md) _2017-08-25 03:37:24 (First version)_
-2. [War in North-West Pakistan:: A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/war-in-north-west-pakistan-a-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md) _2017-08-27 03:37:34 (Update)_
+1. [War in North-West Pakistan:A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/war-in-north-west-pakistan-pa-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/war-in-north-west-pakistan-a-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/a-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/11/21/transport-unions-start-talks-with-management-an
 
 ### Changes:
 
-1. [ November 2007 strikes in France: Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/november-2007-strikes-in-france-p-transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consec.md) _2017-08-25 03:21:27 (First version)_
-2. [ November 2007 strikes in France:: Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/november-2007-strikes-in-france-transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consec.md) _2017-08-27 03:21:22 (Update)_
+1. [ November 2007 strikes in France:: Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/november-2007-strikes-in-france-transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consec.md) _2018-02-06 13:49:18 (First version)_
+2. [ November 2007 strikes in France: Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/november-2007-strikes-in-france-p-transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consec.md) _2018-02-06 13:49:18 (Update)_
 2. [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md) _(Current version)_
 
 ### Related:

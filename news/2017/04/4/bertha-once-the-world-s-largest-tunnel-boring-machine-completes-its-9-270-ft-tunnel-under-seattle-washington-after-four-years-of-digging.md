@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-ma
 
 ### Changes:
 
-1. [Bertha, once the world's largest tunnel boring machine, completes its {{convert|9,270|ft|m|adj=mid|-long}} tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-convert-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington.md) _2017-05-01 12:30:04 (First version)_
-2. [Bertha, once the world's largest tunnel boring machine, completes its 9,270|ft|m|adj=mid|-long tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington-after-four.md) _2017-08-29 03:47:34 (Update)_
+1. [Bertha, once the world's largest tunnel boring machine, completes its {{convert|9,270|ft|m|adj=mid|-long}} tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-convert-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington.md) _2018-02-06 13:49:30 (First version)_
+2. [Bertha, once the world's largest tunnel boring machine, completes its 9,270|ft|m|adj=mid|-long tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington-after-four.md) _2018-02-06 13:49:30 (Update)_
 2. [Bertha, once the world's largest tunnel boring machine, completes its 9,270 ft tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-tunnel-under-seattle-washington-after-four-years-of-digging.md) _(Current version)_
 
 ### Related:

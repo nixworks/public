@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/02/12/in-lome-togo-thousands-protest-the-army-install
 
 ### Changes:
 
-1. [ In Lome, Togo, thousands protest the army-installed President Faure Gnassingb. Clashes with soldiers and police forces cause the deaths of three demonstrators. ](/news/2005/02/12/in-lome-togo-thousands-protest-the-army-installed-president-faure-gnassingbe-clashes-with-soldiers-and-police-forces-cause-the-deaths-of.md) _2017-10-17 03:17:52 (First version)_
+1. [ In Lome, Togo, thousands protest the army-installed President Faure Gnassingb. Clashes with soldiers and police forces cause the deaths of three demonstrators. ](/news/2005/02/12/in-lome-togo-thousands-protest-the-army-installed-president-faure-gnassingbe-clashes-with-soldiers-and-police-forces-cause-the-deaths-of.md) _2018-02-06 13:49:16 (First version)_
 1. [In Lome, Togo, thousands protest the army-installed President Faure Gnassingbe. Clashes with soldiers and police forces cause the deaths of three demonstrators. ](/news/2005/02/12/in-lome-togo-thousands-protest-the-army-installed-president-faure-gnassingba-c-clashes-with-soldiers-and-police-forces-cause-the-deaths-of.md) _(Current version)_
 
 ### Related:

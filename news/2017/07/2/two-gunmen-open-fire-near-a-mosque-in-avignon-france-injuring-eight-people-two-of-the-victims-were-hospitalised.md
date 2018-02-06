@@ -17,9 +17,9 @@ Muslim worshippers were leaving the mosque around 10:30 p.m. when the men report
 
 ### Changes:
 
-1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _2017-07-03 03:50:12 (First version)_
-2. [Two gunmen injure eight people near a mosque in Avignon, France. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-injure-eight-people-near-a-mosque-in-avignon-france-two-of-the-victims-were-hospitalised.md) _2017-07-03 11:30:06 (Update)_
-3. [2017 Avignon shooting: Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/2017-avignon-shooting-two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _2017-08-27 03:48:36 (Update)_
+1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _2018-02-06 13:49:30 (First version)_
+2. [Two gunmen injure eight people near a mosque in Avignon, France. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-injure-eight-people-near-a-mosque-in-avignon-france-two-of-the-victims-were-hospitalised.md) _2018-02-06 13:49:30 (Update)_
+3. [2017 Avignon shooting: Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/2017-avignon-shooting-two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _2018-02-06 13:49:30 (Update)_
 3. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _(Current version)_
 
 ### Related:

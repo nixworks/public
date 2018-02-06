@@ -20,7 +20,7 @@ A powerful magnitude 6.4 earthquake strikes southern Taiwan near the city of Tai
 
 ### Changes:
 
-1. [2016 Taiwan earthquake: A 6.4 magnitude earthquake struck southern Taiwan. Taiwan's official Central News Agency reported that 14 people were killed and 484 injured. ](/news/2016/02/6/2016-taiwan-earthquake-a-6-4-magnitude-earthquake-struck-southern-taiwan-taiwan-s-official-central-news-agency-reported-that-14-people-wer.md) _2017-08-27 03:44:50 (First version)_
+1. [2016 Taiwan earthquake: A 6.4 magnitude earthquake struck southern Taiwan. Taiwan's official Central News Agency reported that 14 people were killed and 484 injured. ](/news/2016/02/6/2016-taiwan-earthquake-a-6-4-magnitude-earthquake-struck-southern-taiwan-taiwan-s-official-central-news-agency-reported-that-14-people-wer.md) _2018-02-06 13:49:28 (First version)_
 1. [A 6.4 magnitude earthquake struck southern Taiwan. Taiwan's official Central News Agency reported that 14 people were killed and 484 injured. ](/news/2016/02/6/a-6-4-magnitude-earthquake-struck-southern-taiwan-taiwan-s-official-central-news-agency-reported-that-14-people-were-killed-and-484-injured.md) _(Current version)_
 
 ### Related:

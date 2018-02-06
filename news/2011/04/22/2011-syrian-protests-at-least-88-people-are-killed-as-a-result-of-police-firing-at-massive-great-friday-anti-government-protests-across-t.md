@@ -29,7 +29,7 @@ Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welco
 
 ### Changes:
 
-1. [Arab Spring: 2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/arab-spring-2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-prot.md) _2017-08-27 03:33:00 (First version)_
+1. [Arab Spring: 2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/arab-spring-2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-prot.md) _2018-02-06 13:49:22 (First version)_
 1. [2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-protests-across-t.md) _(Current version)_
 
 ### Related:

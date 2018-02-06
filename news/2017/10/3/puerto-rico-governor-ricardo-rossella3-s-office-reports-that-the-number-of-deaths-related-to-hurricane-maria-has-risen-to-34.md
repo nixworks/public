@@ -16,8 +16,8 @@ The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, 
 
 ### Changes:
 
-1. [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths have more than doubled to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-have-more-than-doubled-to-34.md) _2017-10-04 03:58:22 (First version)_
-2. [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths are now 34 people. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-are-now-34-people.md) _2017-10-04 18:30:06 (Update)_
+1. [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths have more than doubled to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-have-more-than-doubled-to-34.md) _2018-02-06 13:49:31 (First version)_
+2. [Puerto Rico Governor Ricardo Rossello's office reports hurricane-related deaths are now 34 people. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-hurricane-related-deaths-are-now-34-people.md) _2018-02-06 13:49:31 (Update)_
 2. [Puerto Rico Governor Ricardo Rossello's office reports that the number of deaths related to Hurricane Maria has risen to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.md) _(Current version)_
 
 ### Related:

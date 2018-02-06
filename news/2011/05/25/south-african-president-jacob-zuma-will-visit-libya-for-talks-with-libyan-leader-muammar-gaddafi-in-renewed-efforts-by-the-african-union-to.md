@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-l
 
 ### Changes:
 
-1. [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-t.md) _2017-08-25 03:33:15 (First version)_
+1. [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-t.md) _2018-02-06 13:49:22 (First version)_
 1. [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-to.md) _(Current version)_
 
 ### Related:

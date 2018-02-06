@@ -17,7 +17,7 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 
 ### Changes:
 
-1. [An Indian Border Security Force plane headed to Ranchi crashes just outside New Delhi, killing all 10 on board. The Super King Air turboprop aircraft hit an airport wall and landed in a small body of water. ](/news/2015/12/22/an-indian-border-security-force-plane-headed-to-ranchi-crashes-just-outside-new-delhi-killing-all-10-on-board-the-super-king-air-turbopr.md) _2017-08-25 03:44:07 (First version)_
+1. [An Indian Border Security Force plane headed to Ranchi crashes just outside New Delhi, killing all 10 on board. The Super King Air turboprop aircraft hit an airport wall and landed in a small body of water. ](/news/2015/12/22/an-indian-border-security-force-plane-headed-to-ranchi-crashes-just-outside-new-delhi-killing-all-10-on-board-the-super-king-air-turbopr.md) _2018-02-06 13:49:28 (First version)_
 1. [An Indian Border Security Force plane headed to Ranchi crashes just outside New Delhi, killing all 10 on board. The Super King Air turboprop aircraft hit an airport wall and landed in a small body of water. ](/news/2015/12/22/an-indian-border-security-force-plane-headed-to-ranchi-crashes-just-outside-new-delhi-killing-all-10-on-board-the-super-king-air-turboprop.md) _(Current version)_
 
 ### Related:

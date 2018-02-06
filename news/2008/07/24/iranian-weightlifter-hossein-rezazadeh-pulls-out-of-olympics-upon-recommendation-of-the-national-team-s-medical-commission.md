@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/07/24/iranian-weightlifter-hossein-rezazadeh-pulls-ou
 
 ### Changes:
 
-1. [ 2008 Beijing Olympics: Iranian weightlifter Hossein Rezazadeh pulls out of Olympics upon recommendation of the national team's medical commission. ](/news/2008/07/24/2008-beijing-olympics-p-iranian-weightlifter-hossein-rezazadeh-pulls-out-of-olympics-upon-recommendation-of-the-national-team-s-medical-com.md) _2017-08-25 03:22:36 (First version)_
-2. [ 2008 Beijing Olympics:: Iranian weightlifter Hossein Rezazadeh pulls out of Olympics upon recommendation of the national team's medical commission. ](/news/2008/07/24/2008-beijing-olympics-iranian-weightlifter-hossein-rezazadeh-pulls-out-of-olympics-upon-recommendation-of-the-national-team-s-medical-com.md) _2017-08-27 03:22:30 (Update)_
+1. [ 2008 Beijing Olympics: Iranian weightlifter Hossein Rezazadeh pulls out of Olympics upon recommendation of the national team's medical commission. ](/news/2008/07/24/2008-beijing-olympics-p-iranian-weightlifter-hossein-rezazadeh-pulls-out-of-olympics-upon-recommendation-of-the-national-team-s-medical-com.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Beijing Olympics:: Iranian weightlifter Hossein Rezazadeh pulls out of Olympics upon recommendation of the national team's medical commission. ](/news/2008/07/24/2008-beijing-olympics-iranian-weightlifter-hossein-rezazadeh-pulls-out-of-olympics-upon-recommendation-of-the-national-team-s-medical-com.md) _2018-02-06 13:49:18 (Update)_
 2. [ Iranian weightlifter Hossein Rezazadeh pulls out of Olympics upon recommendation of the national team's medical commission. ](/news/2008/07/24/iranian-weightlifter-hossein-rezazadeh-pulls-out-of-olympics-upon-recommendation-of-the-national-team-s-medical-commission.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Thousands march outside Manama while police use sound bombs to disperse a smalle
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising:Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/2011a2012-bahraini-uprising-pthousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chant.md) _2017-08-25 03:35:31 (First version)_
-2. [2011-2012 Bahraini uprising:: Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/2011-2012-bahraini-uprising-thousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chan.md) _2017-08-27 03:35:40 (Update)_
+1. [2011-2012 Bahraini uprising:Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/2011a2012-bahraini-uprising-pthousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chant.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Bahraini uprising:: Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/2011-2012-bahraini-uprising-thousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chan.md) _2018-02-06 13:49:23 (Update)_
 2. [Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/thousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chanting-against-the-formula-1-grand.md) _(Current version)_
 
 ### Related:

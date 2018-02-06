@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/3/a-car-crash-at-an-auto-auction-in-billerica-mass
 
 ### Changes:
 
-1. [A car crash at a auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically. ](/news/2017/05/3/a-car-crash-at-a-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md) _2017-05-04 00:30:07 (First version)_
+1. [A car crash at a auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically. ](/news/2017/05/3/a-car-crash-at-a-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md) _2018-02-06 13:49:30 (First version)_
 1. [A car crash at an auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically. ](/news/2017/05/3/a-car-crash-at-an-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md) _(Current version)_
 
 ### Related:

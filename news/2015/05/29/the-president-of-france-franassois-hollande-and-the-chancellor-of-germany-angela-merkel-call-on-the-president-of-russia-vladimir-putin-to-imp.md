@@ -17,7 +17,7 @@ Moscow&#x20;has&#x20;released&#x20;a&#x20;blacklist&#x20;of&#x20;European&#x20;U
 
 ### Changes:
 
-1. [War in Donbass: The President of France Francois Hollande and the Chancellor of Germany Angela Merkel call on the President of Russia Vladimir Putin to implement measures agreed on the Minsk ceasefire. ](/news/2015/05/29/war-in-donbass-the-president-of-france-franassois-hollande-and-the-chancellor-of-germany-angela-merkel-call-on-the-president-of-russia-vladi.md) _2017-08-27 03:42:26 (First version)_
+1. [War in Donbass: The President of France Francois Hollande and the Chancellor of Germany Angela Merkel call on the President of Russia Vladimir Putin to implement measures agreed on the Minsk ceasefire. ](/news/2015/05/29/war-in-donbass-the-president-of-france-franassois-hollande-and-the-chancellor-of-germany-angela-merkel-call-on-the-president-of-russia-vladi.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of France Francois Hollande and the Chancellor of Germany Angela Merkel call on the President of Russia Vladimir Putin to implement measures agreed on the Minsk ceasefire. ](/news/2015/05/29/the-president-of-france-franassois-hollande-and-the-chancellor-of-germany-angela-merkel-call-on-the-president-of-russia-vladimir-putin-to-imp.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/08/6/the-first-execution-by-lethal-injection-is-offic
 
 ### Changes:
 
-1. [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh Tuan is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaoy-n-is-executed-in-hanoi.md) _2017-08-25 03:39:06 (First version)_
+1. [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh Tuan is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaoy-n-is-executed-in-hanoi.md) _2018-02-06 13:49:25 (First version)_
 1. [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh TuCNYn is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaocnyn-is-executed-in-hanoi.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/08/21/twenty-five-parliamentarians-from-the-governing
 
 ### Changes:
 
-1. [Greek legislative election, September 2015: Twenty-five parliamentarians from the governing Syriza party announce plans to form a new party, the Popular Unity, led by former energy minister Panagiotis Lafazanis. ](/news/2015/08/21/greek-legislative-election-september-2015-twenty-five-parliamentarians-from-the-governing-syriza-party-announce-plans-to-form-a-new-party.md) _2017-08-27 03:42:52 (First version)_
+1. [Greek legislative election, September 2015: Twenty-five parliamentarians from the governing Syriza party announce plans to form a new party, the Popular Unity, led by former energy minister Panagiotis Lafazanis. ](/news/2015/08/21/greek-legislative-election-september-2015-twenty-five-parliamentarians-from-the-governing-syriza-party-announce-plans-to-form-a-new-party.md) _2018-02-06 13:49:27 (First version)_
 1. [Twenty-five parliamentarians from the governing Syriza party announce plans to form a new party, the Popular Unity, led by former energy minister Panagiotis Lafazanis. ](/news/2015/08/21/twenty-five-parliamentarians-from-the-governing-syriza-party-announce-plans-to-form-a-new-party-the-popular-unity-led-by-former-energy-min.md) _(Current version)_
 
 ### Related:

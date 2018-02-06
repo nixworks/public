@@ -16,7 +16,7 @@ The U.S. Navy says that the sailor who was shot earlier this week at a military 
 
 ### Changes:
 
-1. [2015 Chattanooga shootings: The sailor wounded in Thursday's shooting at two military installations in Chattanooga, Tennessee, dies a little after 2 a.m. Saturday, bringing the death toll of the shooting to five. ](/news/2015/07/18/2015-chattanooga-shootings-the-sailor-wounded-in-thursday-s-shooting-at-two-military-installations-in-chattanooga-tennessee-dies-a-little.md) _2017-08-27 03:42:43 (First version)_
+1. [2015 Chattanooga shootings: The sailor wounded in Thursday's shooting at two military installations in Chattanooga, Tennessee, dies a little after 2 a.m. Saturday, bringing the death toll of the shooting to five. ](/news/2015/07/18/2015-chattanooga-shootings-the-sailor-wounded-in-thursday-s-shooting-at-two-military-installations-in-chattanooga-tennessee-dies-a-little.md) _2018-02-06 13:49:27 (First version)_
 1. [The sailor wounded in Thursday's shooting at two military installations in Chattanooga, Tennessee, dies a little after 2 a.m. Saturday, bringing the death toll of the shooting to five. ](/news/2015/07/18/the-sailor-wounded-in-thursday-s-shooting-at-two-military-installations-in-chattanooga-tennessee-dies-a-little-after-2-a-m-saturday-brin.md) _(Current version)_
 
 ### Related:

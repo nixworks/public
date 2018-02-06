@@ -16,7 +16,7 @@ A &ldquo;vibrational&rdquo; chemical bond predicted in the 1980s is demonstrated
 
 ### Changes:
 
-1. [The German Chemical Society's ''Angewandte Chemie International Edition'' publishes research from chemist Donald Fleming of the University of British Columbia announcing the confirmational discovery of a new form of chemical bond, the vibrational bond. ](/news/2015/01/30/the-german-chemical-society-s-angewandte-chemie-international-edition-publishes-research-from-chemist-donald-fleming-of-the-university-o.md) _2017-08-25 03:41:33 (First version)_
+1. [The German Chemical Society's ''Angewandte Chemie International Edition'' publishes research from chemist Donald Fleming of the University of British Columbia announcing the confirmational discovery of a new form of chemical bond, the vibrational bond. ](/news/2015/01/30/the-german-chemical-society-s-angewandte-chemie-international-edition-publishes-research-from-chemist-donald-fleming-of-the-university-o.md) _2018-02-06 13:49:26 (First version)_
 1. [The German Chemical Society's "Angewandte Chemie International Edition" publishes research from chemist Donald Fleming of the University of British Columbia announcing the confirmational discovery of a new form of chemical bond, the vibrational bond. ](/news/2015/01/30/the-german-chemical-society-s-angewandte-chemie-international-edition-publishes-research-from-chemist-donald-fleming-of-the-university-of.md) _(Current version)_
 
 ### Related:

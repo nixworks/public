@@ -15,7 +15,7 @@ Ayad al-Jumaili, along with other commanders, killed in air strike in al-Qaim re
 
 ### Changes:
 
-1. [Military intervention against ISIL: An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/military-intervention-against-isil-an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-seco.md) _2017-08-27 03:48:05 (First version)_
+1. [Military intervention against ISIL: An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/military-intervention-against-isil-an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-seco.md) _2018-02-06 13:49:30 (First version)_
 1. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _(Current version)_
 
 ### Related:

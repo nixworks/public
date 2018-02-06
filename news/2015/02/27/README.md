@@ -9,7 +9,7 @@ Somali pirates have freed four Thai nationals seized from a fishing vessel at se
 
 ##### Leonard Nimoy
 ### [ American actor Leonard Nimoy, best known for his role as Spock from the "Star Trek" franchise, dies at the age of 83 from complications of COPD. ](/news/2015/02/27/american-actor-leonard-nimoy-best-known-for-his-role-as-spock-from-the-star-trek-franchise-dies-at-the-age-of-83-from-complications-of.md)
-_Context: Spock, COPD, Leonard Nimoy, Star Trek_
+_Context: COPD, Star Trek, Spock, Leonard Nimoy_
 
 ##### Avijit Roy
 ### [Avijit Roy, an American writer and blogger from Bangladesh, is hacked to death by unknown attackers in Dhaka. ](/news/2015/02/27/avijit-roy-an-american-writer-and-blogger-from-bangladesh-is-hacked-to-death-by-unknown-attackers-in-dhaka.md)

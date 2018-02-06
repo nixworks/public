@@ -16,7 +16,7 @@ Tropical Cyclone Nathan is downgraded to a category three system after making la
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Severe Tropical Cyclone Nathan makes landfall on Cape York Peninsula in far North Queensland as a category 4 (Australian system). ](/news/2015/03/20/2014-15-australian-region-cyclone-season-severe-tropical-cyclone-nathan-makes-landfall-on-cape-york-peninsula-in-far-north-queensland-as.md) _2017-08-27 03:42:07 (First version)_
+1. [2014-15 Australian region cyclone season: Severe Tropical Cyclone Nathan makes landfall on Cape York Peninsula in far North Queensland as a category 4 (Australian system). ](/news/2015/03/20/2014-15-australian-region-cyclone-season-severe-tropical-cyclone-nathan-makes-landfall-on-cape-york-peninsula-in-far-north-queensland-as.md) _2018-02-06 13:49:26 (First version)_
 1. [Severe Tropical Cyclone Nathan makes landfall on Cape York Peninsula in far North Queensland as a category 4 (Australian system). ](/news/2015/03/20/severe-tropical-cyclone-nathan-makes-landfall-on-cape-york-peninsula-in-far-north-queensland-as-a-category-4-australian-system.md) _(Current version)_
 
 ### Related:

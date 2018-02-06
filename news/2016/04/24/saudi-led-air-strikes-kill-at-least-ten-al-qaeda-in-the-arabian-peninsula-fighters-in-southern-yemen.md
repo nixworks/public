@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/04/24/saudi-led-air-strikes-kill-at-least-ten-al-qaed
 
 ### Changes:
 
-1. [Yemeni Civil War: Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/yemeni-civil-war-saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md) _2017-08-27 03:45:49 (First version)_
+1. [Yemeni Civil War: Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/yemeni-civil-war-saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md) _2018-02-06 13:49:28 (First version)_
 1. [Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md) _(Current version)_
 
 ### Related:

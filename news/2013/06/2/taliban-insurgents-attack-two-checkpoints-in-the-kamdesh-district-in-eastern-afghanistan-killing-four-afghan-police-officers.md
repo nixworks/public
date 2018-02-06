@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001apresent-ptaliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four-a.md) _2017-08-25 03:38:46 (First version)_
-2. [War in Afghanistan (2001-present):: Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001-present-taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four.md) _2017-08-27 03:38:59 (Update)_
+1. [War in Afghanistan (2001-present):Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001apresent-ptaliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four-a.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001-present-taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four.md) _2018-02-06 13:49:25 (Update)_
 2. [Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four-afghan-police-officers.md) _(Current version)_
 
 ### Related:

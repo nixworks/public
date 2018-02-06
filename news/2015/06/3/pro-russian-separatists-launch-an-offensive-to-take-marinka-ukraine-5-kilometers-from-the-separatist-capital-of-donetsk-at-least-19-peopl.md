@@ -17,7 +17,7 @@ Fighting broke out Wednesday between rebels and Ukrainian soldiers on the outski
 
 ### Changes:
 
-1. [War in Donbass: Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/war-in-donbass-pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-a.md) _2017-08-27 03:42:28 (First version)_
+1. [War in Donbass: Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/war-in-donbass-pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-a.md) _2018-02-06 13:49:27 (First version)_
 1. [Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.md) _(Current version)_
 
 ### Related:

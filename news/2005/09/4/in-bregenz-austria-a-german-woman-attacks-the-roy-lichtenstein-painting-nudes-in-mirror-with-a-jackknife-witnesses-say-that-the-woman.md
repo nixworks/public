@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-ro
 
 ### Changes:
 
-1. [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting ''Nudes in Mirror'' with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-wom.md) _2017-08-25 03:16:45 (First version)_
+1. [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting ''Nudes in Mirror'' with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-wom.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting "Nudes in Mirror" with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-woman.md) _(Current version)_
 
 ### Related:

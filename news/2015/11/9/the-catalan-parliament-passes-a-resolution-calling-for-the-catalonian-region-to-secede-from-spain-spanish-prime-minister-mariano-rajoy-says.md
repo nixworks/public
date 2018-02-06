@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calli
 
 ### Changes:
 
-1. [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-sa.md) _2017-08-25 03:43:27 (First version)_
+1. [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-sa.md) _2018-02-06 13:49:28 (First version)_
 1. [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-says.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/08/25/french-president-jacques-chirac-says-sending-15
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/2006-israel-lebanon-conflict-p-french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _2017-08-25 03:18:16 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/2006-israel-lebanon-conflict-french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _2017-08-27 03:18:12 (Update)_
+1. [ 2006 Israel-Lebanon conflict: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/2006-israel-lebanon-conflict-p-french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/2006-israel-lebanon-conflict-french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _2018-02-06 13:49:17 (Update)_
 2. [ French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md) _(Current version)_
 
 ### Related:

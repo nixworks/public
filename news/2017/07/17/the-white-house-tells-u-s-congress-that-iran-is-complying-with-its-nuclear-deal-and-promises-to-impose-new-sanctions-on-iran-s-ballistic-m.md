@@ -16,7 +16,7 @@ The U.S. has certified with Congress that Iran is legally in compliance on the n
 
 ### Changes:
 
-1. [Joint Comprehensive Plan of Action: The White House tells U.S. Congress that Iran is complying with its nuclear deal, and promises to impose new sanctions on Iran's ballistic missile program. ](/news/2017/07/17/joint-comprehensive-plan-of-action-the-white-house-tells-u-s-congress-that-iran-is-complying-with-its-nuclear-deal-and-promises-to-impose.md) _2017-08-27 03:48:40 (First version)_
+1. [Joint Comprehensive Plan of Action: The White House tells U.S. Congress that Iran is complying with its nuclear deal, and promises to impose new sanctions on Iran's ballistic missile program. ](/news/2017/07/17/joint-comprehensive-plan-of-action-the-white-house-tells-u-s-congress-that-iran-is-complying-with-its-nuclear-deal-and-promises-to-impose.md) _2018-02-06 13:49:30 (First version)_
 1. [The White House tells U.S. Congress that Iran is complying with its nuclear deal, and promises to impose new sanctions on Iran's ballistic missile program. ](/news/2017/07/17/the-white-house-tells-u-s-congress-that-iran-is-complying-with-its-nuclear-deal-and-promises-to-impose-new-sanctions-on-iran-s-ballistic-m.md) _(Current version)_
 
 ### Related:

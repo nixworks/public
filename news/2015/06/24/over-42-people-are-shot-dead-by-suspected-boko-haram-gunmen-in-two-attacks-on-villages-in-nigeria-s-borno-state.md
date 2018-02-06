@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/24/over-42-people-are-shot-dead-by-suspected-boko-
 
 ### Changes:
 
-1. [Boko Haram: Over 42 people are shot dead by suspected Boko Haram gunmen in two attacks on villages in Nigeria's Borno state. ](/news/2015/06/24/boko-haram-over-42-people-are-shot-dead-by-suspected-boko-haram-gunmen-in-two-attacks-on-villages-in-nigeria-s-borno-state.md) _2017-08-27 03:42:35 (First version)_
+1. [Boko Haram: Over 42 people are shot dead by suspected Boko Haram gunmen in two attacks on villages in Nigeria's Borno state. ](/news/2015/06/24/boko-haram-over-42-people-are-shot-dead-by-suspected-boko-haram-gunmen-in-two-attacks-on-villages-in-nigeria-s-borno-state.md) _2018-02-06 13:49:27 (First version)_
 1. [Over 42 people are shot dead by suspected Boko Haram gunmen in two attacks on villages in Nigeria's Borno state. ](/news/2015/06/24/over-42-people-are-shot-dead-by-suspected-boko-haram-gunmen-in-two-attacks-on-villages-in-nigeria-s-borno-state.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [ Insurgency in Jammu and Kashmir: Jaish-e-Mohammed operations chief is killed in a gun battle with police. ](/news/2016/05/24/insurgency-in-jammu-and-kashmir-jaish-e-mohammed-operations-chief-is-killed-in-a-gun-battle-with-police.md) _2017-08-27 03:46:07 (First version)_
+1. [ Insurgency in Jammu and Kashmir: Jaish-e-Mohammed operations chief is killed in a gun battle with police. ](/news/2016/05/24/insurgency-in-jammu-and-kashmir-jaish-e-mohammed-operations-chief-is-killed-in-a-gun-battle-with-police.md) _2018-02-06 13:49:29 (First version)_
 1. [ Jaish-e-Mohammed operations chief is killed in a gun battle with police. ](/news/2016/05/24/jaish-e-mohammed-operations-chief-is-killed-in-a-gun-battle-with-police.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Thailand is to allow the US to fly surveillance planes through its airspace to h
 
 ### Changes:
 
-1. [2015 Rohingya refugee crisis: Thailand will allow the United States to fly surveillance planes through their airspace, allowing the United States to identify boats carrying refugees. ](/news/2015/05/29/2015-rohingya-refugee-crisis-thailand-will-allow-the-united-states-to-fly-surveillance-planes-through-their-airspace-allowing-the-united-s.md) _2017-08-27 03:42:26 (First version)_
+1. [2015 Rohingya refugee crisis: Thailand will allow the United States to fly surveillance planes through their airspace, allowing the United States to identify boats carrying refugees. ](/news/2015/05/29/2015-rohingya-refugee-crisis-thailand-will-allow-the-united-states-to-fly-surveillance-planes-through-their-airspace-allowing-the-united-s.md) _2018-02-06 13:49:27 (First version)_
 1. [Thailand will allow the United States to fly surveillance planes through their airspace, allowing the United States to identify boats carrying refugees. ](/news/2015/05/29/thailand-will-allow-the-united-states-to-fly-surveillance-planes-through-their-airspace-allowing-the-united-states-to-identify-boats-carryi.md) _(Current version)_
 
 ### Related:

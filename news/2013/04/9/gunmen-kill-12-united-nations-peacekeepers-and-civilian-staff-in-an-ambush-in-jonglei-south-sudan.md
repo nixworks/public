@@ -18,8 +18,8 @@ Foreign ministry says rebel attack on UN convoy in Jonglei region killed five In
 
 ### Changes:
 
-1. [South Sudan internal conflict (2011-present):Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/south-sudan-internal-conflict-2011apresent-pgunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-south.md) _2017-08-25 03:38:15 (First version)_
-2. [South Sudan internal conflict (2011-present):: Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/south-sudan-internal-conflict-2011-present-gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-sout.md) _2017-08-27 03:38:27 (Update)_
+1. [South Sudan internal conflict (2011-present):Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/south-sudan-internal-conflict-2011apresent-pgunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-south.md) _2018-02-06 13:49:24 (First version)_
+2. [South Sudan internal conflict (2011-present):: Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/south-sudan-internal-conflict-2011-present-gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-sout.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-south-sudan.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/11/authorities-start-clearing-the-main-protest-sit
 
 ### Changes:
 
-1. [2014 Hong Kong protests: Authorities start clearing the main protest site in Hong Kong following a recent court order for protesters to vacate the site in Admiralty area. ](/news/2014/12/11/2014-hong-kong-protests-authorities-start-clearing-the-main-protest-site-in-hong-kong-following-a-recent-court-order-for-protesters-to-vaca.md) _2017-08-27 03:41:37 (First version)_
+1. [2014 Hong Kong protests: Authorities start clearing the main protest site in Hong Kong following a recent court order for protesters to vacate the site in Admiralty area. ](/news/2014/12/11/2014-hong-kong-protests-authorities-start-clearing-the-main-protest-site-in-hong-kong-following-a-recent-court-order-for-protesters-to-vaca.md) _2018-02-06 13:49:26 (First version)_
 1. [Authorities start clearing the main protest site in Hong Kong following a recent court order for protesters to vacate the site in Admiralty area. ](/news/2014/12/11/authorities-start-clearing-the-main-protest-site-in-hong-kong-following-a-recent-court-order-for-protesters-to-vacate-the-site-in-admiralty.md) _(Current version)_
 
 ### Related:

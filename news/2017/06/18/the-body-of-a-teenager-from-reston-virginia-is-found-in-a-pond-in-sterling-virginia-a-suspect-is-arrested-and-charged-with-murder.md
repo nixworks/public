@@ -16,7 +16,7 @@ Fairfax County Police said they are not investigating the attack as a hate crime
 
 ### Changes:
 
-1. [Murder of Nabra Hassanen: The body of a teenager from Reston, Virginia is found in a pond in Sterling, Virginia. A suspect is arrested and charged with murder. ](/news/2017/06/18/murder-of-nabra-hassanen-the-body-of-a-teenager-from-reston-virginia-is-found-in-a-pond-in-sterling-virginia-a-suspect-is-arrested-and-c.md) _2017-08-27 03:48:30 (First version)_
+1. [Murder of Nabra Hassanen: The body of a teenager from Reston, Virginia is found in a pond in Sterling, Virginia. A suspect is arrested and charged with murder. ](/news/2017/06/18/murder-of-nabra-hassanen-the-body-of-a-teenager-from-reston-virginia-is-found-in-a-pond-in-sterling-virginia-a-suspect-is-arrested-and-c.md) _2018-02-06 13:49:30 (First version)_
 1. [The body of a teenager from Reston, Virginia is found in a pond in Sterling, Virginia. A suspect is arrested and charged with murder. ](/news/2017/06/18/the-body-of-a-teenager-from-reston-virginia-is-found-in-a-pond-in-sterling-virginia-a-suspect-is-arrested-and-charged-with-murder.md) _(Current version)_
 
 ### Related:

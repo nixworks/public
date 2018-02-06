@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/07/25/pratibha-patil-is-sworn-in-as-the-first-woman-p
 
 ### Changes:
 
-1. [ Pratibha Patil is sworn-in as the first woman President of India.{{Fact|date=December 2007}} ](/news/2007/07/25/pratibha-patil-is-sworn-in-as-the-first-woman-president-of-india-fact-date-december-2007.md) _2017-05-01 03:21:04 (First version)_
+1. [ Pratibha Patil is sworn-in as the first woman President of India.{{Fact|date=December 2007}} ](/news/2007/07/25/pratibha-patil-is-sworn-in-as-the-first-woman-president-of-india-fact-date-december-2007.md) _2018-02-06 13:49:17 (First version)_
 1. [ Pratibha Patil is sworn-in as the first woman President of India.date=December 2007 ](/news/2007/07/25/pratibha-patil-is-sworn-in-as-the-first-woman-president-of-india-date-december-2007.md) _(Current version)_
 
 ### Related:

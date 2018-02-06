@@ -18,8 +18,8 @@ Herv&#x00E9;&#x20;Ghesqui&#x00E8;re&#x20;and&#x20;St&#x00E9;phane&#x20;Taponier&
 
 ### Changes:
 
-1. [Afghanistan:Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/afghanistan-ptwo-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan.md) _2017-08-25 03:33:38 (First version)_
-2. [Afghanistan:: Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/afghanistan-two-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan.md) _2017-08-27 03:33:45 (Update)_
+1. [Afghanistan:: Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/afghanistan-two-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan.md) _2018-02-06 13:49:22 (First version)_
+2. [Afghanistan:Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/afghanistan-ptwo-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan.md) _2018-02-06 13:49:22 (Update)_
 2. [Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/two-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan-by-the-taliba.md) _(Current version)_
 
 ### Related:

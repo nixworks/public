@@ -5,11 +5,11 @@ Formats: [HTML](2010/01/1/index.html)  [JSON](2010/01/1/index.json)  [XML](2010/
 
 ##### Revolutionary Armed Forces of Colombia
 ### [ At least 18 FARC rebels are killed while celebrating the New Year in an air raid by the Colombian Air Force in the south of the country. ](/news/2010/01/1/at-least-18-farc-rebels-are-killed-while-celebrating-the-new-year-in-an-air-raid-by-the-colombian-air-force-in-the-south-of-the-country.md)
-_Context: Colombia, Revolutionary Armed Forces of Colombia, New Year, Colombian Air Force_
+_Context: New Year, Colombian Air Force, Revolutionary Armed Forces of Colombia, Colombia_
 
 ##### 2010 Lakki Marwat suicide bombing
 ### [ 2010 Lakki Marwat suicide bombing: At least 95 people are killed, more than 100 more are injured and 20 houses are destroyed after a suicide bomber blows himself up at a volleyball game in Lakki Marwat, northwest Pakistan. ](/news/2010/01/1/2010-lakki-marwat-suicide-bombing-at-least-95-people-are-killed-more-than-100-more-are-injured-and-20-houses-are-destroyed-after-a-suicid.md)
-_Context: 2010 Lakki Marwat suicide bombing, volleyball, Pakistan, suicide bomber, Lakki Marwat_
+_Context: suicide bomber, Lakki Marwat, Pakistan, volleyball, 2010 Lakki Marwat suicide bombing_
 
 ##### Russia
 ### [ Russians are surprised by a cartoon "gently lampooning" Dmitry Medvedev and Vladimir Putin who are portrayed dancing, singing and playing musical instruments. ](/news/2010/01/1/russians-are-surprised-by-a-cartoon-gently-lampooning-dmitry-medvedev-and-vladimir-putin-who-are-portrayed-dancing-singing-and-playing-m.md)
@@ -29,15 +29,15 @@ _Context: suicide, depression_
 
 ##### Cambodia
 ### [ A Cambodian court issues an arrest warrant for opposition leader Sam Rainsy, for failing to turn up at court over a border dispute with Vietnam. ](/news/2010/01/1/a-cambodian-court-issues-an-arrest-warrant-for-opposition-leader-sam-rainsy-for-failing-to-turn-up-at-court-over-a-border-dispute-with-vie.md)
-_Context: Vietnam, Sam Rainsy, Cambodia_
+_Context: Vietnam, Cambodia, Sam Rainsy_
 
 ##### North Korea
 ### [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md)
-_Context: United States, Korean Peninsula, North Korea, New Year editorial_
+_Context: North Korea, Korean Peninsula, New Year editorial, United States_
 
 ##### Spain
 ### [ Spain takes over the Presidency of the Council of the European Union from Sweden. ](/news/2010/01/1/spain-takes-over-the-presidency-of-the-council-of-the-european-union-from-sweden.md)
-_Context: European Union, Sweden, Council of the European Union, Spain, the Council of_
+_Context: European Union, the Council of, Sweden, Council of the European Union, Spain_
 
 ## [Previous Day...](/news/2009/12/31/index.md)
 

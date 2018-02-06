@@ -16,7 +16,7 @@ Skirmish with Maoists took place at around 2.30am when a composite squad of BSF 
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: Two Indian Border Security Force soldiers are killed and four injured in a conflict in the state of Chhattisgarh. ](/news/2016/03/12/naxalite-maoist-insurgency-two-indian-border-security-force-soldiers-are-killed-and-four-injured-in-a-conflict-in-the-state-of-chhattisga.md) _2017-08-27 03:45:13 (First version)_
+1. [Naxalite-Maoist insurgency: Two Indian Border Security Force soldiers are killed and four injured in a conflict in the state of Chhattisgarh. ](/news/2016/03/12/naxalite-maoist-insurgency-two-indian-border-security-force-soldiers-are-killed-and-four-injured-in-a-conflict-in-the-state-of-chhattisga.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Indian Border Security Force soldiers are killed and four injured in a conflict in the state of Chhattisgarh. ](/news/2016/03/12/two-indian-border-security-force-soldiers-are-killed-and-four-injured-in-a-conflict-in-the-state-of-chhattisgarh.md) _(Current version)_
 
 ### Related:

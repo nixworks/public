@@ -16,8 +16,8 @@ Nigerian troops killed 37 Boko Haram Islamist militants in combined air and grou
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/islamist-insurgency-in-nigeria-pnigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-north.md) _2017-08-25 03:39:25 (First version)_
-2. [Islamist insurgency in Nigeria:: Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/islamist-insurgency-in-nigeria-nigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-north.md) _2017-08-27 03:39:42 (Update)_
+1. [Islamist insurgency in Nigeria:Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/islamist-insurgency-in-nigeria-pnigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-north.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/islamist-insurgency-in-nigeria-nigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-north.md) _2018-02-06 13:49:25 (Update)_
 2. [Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/nigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-northeast.md) _(Current version)_
 
 ### Related:

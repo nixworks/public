@@ -17,8 +17,8 @@ The President of the United States will arrive in Honolulu Wednesday evening, an
 
 ### Changes:
 
-1. [Tropical Storm Madeline is expected to reach the American state of Hawaii Tuesday, just before world leaders arrive for the World Conservation Congress. ](/news/2016/08/28/tropical-storm-madeline-is-expected-to-reach-the-american-state-of-hawaii-tuesday-just-before-world-leaders-arrive-for-the-world-conservat.md) _2017-08-25 03:46:20 (First version)_
-2. [2016 Pacific hurricane season: Tropical Storm Madeline is expected to reach the American state of Hawaii Tuesday, just before world leaders arrive for the World Conservation Congress. ](/news/2016/08/28/2016-pacific-hurricane-season-tropical-storm-madeline-is-expected-to-reach-the-american-state-of-hawaii-tuesday-just-before-world-leaders.md) _2017-08-27 03:46:43 (Update)_
+1. [Tropical Storm Madeline is expected to reach the American state of Hawaii Tuesday, just before world leaders arrive for the World Conservation Congress. ](/news/2016/08/28/tropical-storm-madeline-is-expected-to-reach-the-american-state-of-hawaii-tuesday-just-before-world-leaders-arrive-for-the-world-conservat.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Pacific hurricane season: Tropical Storm Madeline is expected to reach the American state of Hawaii Tuesday, just before world leaders arrive for the World Conservation Congress. ](/news/2016/08/28/2016-pacific-hurricane-season-tropical-storm-madeline-is-expected-to-reach-the-american-state-of-hawaii-tuesday-just-before-world-leaders.md) _2018-02-06 13:49:29 (Update)_
 2. [Tropical Storm Madeline is expected to reach the American state of Hawaii Tuesday, just before world leaders arrive for the World Conservation Congress. ](/news/2016/08/28/tropical-storm-madeline-is-expected-to-reach-the-american-state-of-hawaii-tuesday-just-before-world-leaders-arrive-for-the-world-conservati.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-
 
 ### Changes:
 
-1. [Floods in Japan: The death toll from recent torrential rain and flooding in Kyushu in southern Japan rises to 25. ](/news/2017/07/11/floods-in-japan-the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md) _2017-08-27 03:48:39 (First version)_
+1. [Floods in Japan: The death toll from recent torrential rain and flooding in Kyushu in southern Japan rises to 25. ](/news/2017/07/11/floods-in-japan-the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md) _2018-02-06 13:49:30 (First version)_
 1. [The death toll from recent torrential rain and flooding in Kyushu in southern Japan rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md) _(Current version)_
 
 ### Related:

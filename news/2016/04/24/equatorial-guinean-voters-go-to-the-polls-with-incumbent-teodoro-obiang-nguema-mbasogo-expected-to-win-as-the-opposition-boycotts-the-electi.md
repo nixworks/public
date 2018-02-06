@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/24/equatorial-guinean-voters-go-to-the-polls-with-
 
 ### Changes:
 
-1. [Equatorial Guinean presidential election, 2016: Equatorial Guinean voters go to the polls with incumbent Teodoro Obiang Nguema Mbasogo expected to win as the opposition boycotts the election. ](/news/2016/04/24/equatorial-guinean-presidential-election-2016-equatorial-guinean-voters-go-to-the-polls-with-incumbent-teodoro-obiang-nguema-mbasogo-expec.md) _2017-08-27 03:45:49 (First version)_
+1. [Equatorial Guinean presidential election, 2016: Equatorial Guinean voters go to the polls with incumbent Teodoro Obiang Nguema Mbasogo expected to win as the opposition boycotts the election. ](/news/2016/04/24/equatorial-guinean-presidential-election-2016-equatorial-guinean-voters-go-to-the-polls-with-incumbent-teodoro-obiang-nguema-mbasogo-expec.md) _2018-02-06 13:49:28 (First version)_
 1. [Equatorial Guinean voters go to the polls with incumbent Teodoro Obiang Nguema Mbasogo expected to win as the opposition boycotts the election. ](/news/2016/04/24/equatorial-guinean-voters-go-to-the-polls-with-incumbent-teodoro-obiang-nguema-mbasogo-expected-to-win-as-the-opposition-boycotts-the-electi.md) _(Current version)_
 
 ### Related:

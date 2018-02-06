@@ -16,7 +16,7 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 
 ### Changes:
 
-1. [Earthquakes in Guatemala: At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/earthquakes-in-guatemala-at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _2017-08-27 03:48:29 (First version)_
+1. [Earthquakes in Guatemala: At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/earthquakes-in-guatemala-at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _2018-02-06 13:49:30 (First version)_
 1. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _(Current version)_
 
 ### Related:

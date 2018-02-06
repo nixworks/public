@@ -16,7 +16,7 @@ Senate Democrats neared approval of their first budget proposal in four years on
 
 ### Changes:
 
-1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50-49.md) _2017-08-27 03:38:10 (First version)_
+1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50-49.md) _2018-02-06 13:49:24 (First version)_
 1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.md) _(Current version)_
 
 ### Related:

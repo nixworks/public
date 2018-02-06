@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afg
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001apresent-pthe-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-at.md) _2017-08-25 03:39:37 (First version)_
-2. [War in Afghanistan (2001-present):: The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001-present-the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-a.md) _2017-08-27 03:39:55 (Update)_
+1. [War in Afghanistan (2001-present):The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001apresent-pthe-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-at.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001-present-the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-a.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md) _(Current version)_
 
 ### Related:

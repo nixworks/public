@@ -17,7 +17,7 @@ Bombings in the Iraqi capital Saturday killed more than three dozen people hours
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Bombings in Baghdad kill at least 37 people hours before the city's curfew was due to end. ISIL claims responsibility. ](/news/2015/02/7/islamic-state-of-iraq-and-the-levant-bombings-in-baghdad-kill-at-least-37-people-hours-before-the-city-s-curfew-was-due-to-end-isil-claims.md) _2017-08-27 03:41:53 (First version)_
+1. [Islamic State of Iraq and the Levant: Bombings in Baghdad kill at least 37 people hours before the city's curfew was due to end. ISIL claims responsibility. ](/news/2015/02/7/islamic-state-of-iraq-and-the-levant-bombings-in-baghdad-kill-at-least-37-people-hours-before-the-city-s-curfew-was-due-to-end-isil-claims.md) _2018-02-06 13:49:26 (First version)_
 1. [Bombings in Baghdad kill at least 37 people hours before the city's curfew was due to end. ISIL claims responsibility. ](/news/2015/02/7/bombings-in-baghdad-kill-at-least-37-people-hours-before-the-city-s-curfew-was-due-to-end-isil-claims-responsibility.md) _(Current version)_
 
 ### Related:

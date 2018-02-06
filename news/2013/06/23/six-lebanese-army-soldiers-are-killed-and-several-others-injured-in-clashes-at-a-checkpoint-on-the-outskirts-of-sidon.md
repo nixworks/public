@@ -16,8 +16,8 @@ Residents flee scene of violence as at 10 soldiers are killed after clashes with
 
 ### Changes:
 
-1. [Syrian civil war spillover in Lebanon:Six Lebanese Army soldiers are killed and several others injured in clashes at a checkpoint on the outskirts of Sidon. ](/news/2013/06/23/syrian-civil-war-spillover-in-lebanon-psix-lebanese-army-soldiers-are-killed-and-several-others-injured-in-clashes-at-a-checkpoint-on-the-ou.md) _2017-08-25 03:38:54 (First version)_
-2. [Syrian civil war spillover in Lebanon:: Six Lebanese Army soldiers are killed and several others injured in clashes at a checkpoint on the outskirts of Sidon. ](/news/2013/06/23/syrian-civil-war-spillover-in-lebanon-six-lebanese-army-soldiers-are-killed-and-several-others-injured-in-clashes-at-a-checkpoint-on-the-o.md) _2017-08-27 03:39:08 (Update)_
+1. [Syrian civil war spillover in Lebanon:: Six Lebanese Army soldiers are killed and several others injured in clashes at a checkpoint on the outskirts of Sidon. ](/news/2013/06/23/syrian-civil-war-spillover-in-lebanon-six-lebanese-army-soldiers-are-killed-and-several-others-injured-in-clashes-at-a-checkpoint-on-the-o.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war spillover in Lebanon:Six Lebanese Army soldiers are killed and several others injured in clashes at a checkpoint on the outskirts of Sidon. ](/news/2013/06/23/syrian-civil-war-spillover-in-lebanon-psix-lebanese-army-soldiers-are-killed-and-several-others-injured-in-clashes-at-a-checkpoint-on-the-ou.md) _2018-02-06 13:49:25 (Update)_
 2. [Six Lebanese Army soldiers are killed and several others injured in clashes at a checkpoint on the outskirts of Sidon. ](/news/2013/06/23/six-lebanese-army-soldiers-are-killed-and-several-others-injured-in-clashes-at-a-checkpoint-on-the-outskirts-of-sidon.md) _(Current version)_
 
 ### Related:

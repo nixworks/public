@@ -17,7 +17,7 @@ At least three people have been killed as Typhoon Chaba batters South Korea.
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/2016-pacific-typhoon-season-typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _2017-08-27 03:46:58 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/2016-pacific-typhoon-season-typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _(Current version)_
 
 ### Related:

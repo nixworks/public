@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/01/30/the-cast-of-the-king-s-speech-wins-the-award-fo
 
 ### Changes:
 
-1. [The cast of ''The King's Speech'' wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the-17th-screen-actors-guild-a.md) _2017-08-25 03:31:58 (First version)_
-2. [Screen Actors Guild Awards: The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/screen-actors-guild-awards-the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the.md) _2017-08-27 03:32:06 (Update)_
+1. [The cast of ''The King's Speech'' wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the-17th-screen-actors-guild-a.md) _2018-02-06 13:49:21 (First version)_
+2. [Screen Actors Guild Awards: The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/screen-actors-guild-awards-the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the.md) _2018-02-06 13:49:21 (Update)_
 2. [The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the-17th-screen-actors-guild-awa.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/11/25/arabaisraeli-conflict-israel-hands-over-the-bod
 
 ### Changes:
 
-1. [ Arab-Israeli conflict: Israel hands over the bodies of three Hezbollah militants its Defence Forces killed earlier in the week to the Lebanese Government. ](/news/2005/11/25/arab-israeli-conflict-israel-hands-over-the-bodies-of-three-hezbollah-militants-its-defence-forces-killed-earlier-in-the-week-to-the-leb.md) _2017-08-27 03:17:09 (First version)_
+1. [ Arab-Israeli conflict: Israel hands over the bodies of three Hezbollah militants its Defence Forces killed earlier in the week to the Lebanese Government. ](/news/2005/11/25/arab-israeli-conflict-israel-hands-over-the-bodies-of-three-hezbollah-militants-its-defence-forces-killed-earlier-in-the-week-to-the-leb.md) _2018-02-06 13:49:16 (First version)_
 1. [ Arab-Israeli conflict: Israel hands over the bodies of three Hezbollah militants its Defence Forces killed earlier in the week to the Lebanese Government. ](/news/2005/11/25/arabaisraeli-conflict-israel-hands-over-the-bodies-of-three-hezbollah-militants-its-defence-forces-killed-earlier-in-the-week-to-the-leb.md) _(Current version)_
 
 ### Related:

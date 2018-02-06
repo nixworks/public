@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for
 
 ### Changes:
 
-1. [War in Afghanistan: President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/war-in-afghanistan-president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md) _2017-08-27 03:36:40 (First version)_
+1. [War in Afghanistan: President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/war-in-afghanistan-president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md) _2018-02-06 13:49:23 (First version)_
 1. [President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md) _(Current version)_
 
 ### Related:

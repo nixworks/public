@@ -16,7 +16,7 @@ OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday 
 
 ### Changes:
 
-1. [The United Nations General Assembly voted 128-9, with 35 abstentions, in a nonbinding resolution to demand the United States to rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. ](/news/2017/12/21/the-united-nations-general-assembly-voted-128a9-with-35-abstentions-in-a-nonbinding-resolution-to-demand-the-united-states-to-rescind-it.md) _2017-12-21 20:30:06 (First version)_
+1. [The United Nations General Assembly voted 128-9, with 35 abstentions, in a nonbinding resolution to demand the United States to rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. ](/news/2017/12/21/the-united-nations-general-assembly-voted-128a9-with-35-abstentions-in-a-nonbinding-resolution-to-demand-the-united-states-to-rescind-it.md) _2018-02-06 13:49:31 (First version)_
 1. [The United Nations General Assembly votes 128-9, with 35 abstentions, in a nonbinding resolution to demand that the United States rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. ](/news/2017/12/21/the-united-nations-general-assembly-votes-128a9-with-35-abstentions-in-a-nonbinding-resolution-to-demand-that-the-united-states-rescind.md) _(Current version)_
 
 ### Related:

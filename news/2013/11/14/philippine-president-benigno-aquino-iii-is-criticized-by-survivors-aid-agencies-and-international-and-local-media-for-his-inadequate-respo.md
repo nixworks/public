@@ -16,8 +16,8 @@ The Philippine government says it is facing its biggest logistical challenge aft
 
 ### Changes:
 
-1. [Typhoon Haiyan:Philippine President Benigno Aquino III is criticized by survivors, aid agencies, and international and local media for his inadequate response to the tragedy. ](/news/2013/11/14/typhoon-haiyan-pphilippine-president-benigno-aquino-iii-is-criticized-by-survivors-aid-agencies-and-international-and-local-media-for-his.md) _2017-08-25 03:39:31 (First version)_
-2. [Typhoon Haiyan:: Philippine President Benigno Aquino III is criticized by survivors, aid agencies, and international and local media for his inadequate response to the tragedy. ](/news/2013/11/14/typhoon-haiyan-philippine-president-benigno-aquino-iii-is-criticized-by-survivors-aid-agencies-and-international-and-local-media-for-his.md) _2017-08-27 03:39:49 (Update)_
+1. [Typhoon Haiyan:Philippine President Benigno Aquino III is criticized by survivors, aid agencies, and international and local media for his inadequate response to the tragedy. ](/news/2013/11/14/typhoon-haiyan-pphilippine-president-benigno-aquino-iii-is-criticized-by-survivors-aid-agencies-and-international-and-local-media-for-his.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:: Philippine President Benigno Aquino III is criticized by survivors, aid agencies, and international and local media for his inadequate response to the tragedy. ](/news/2013/11/14/typhoon-haiyan-philippine-president-benigno-aquino-iii-is-criticized-by-survivors-aid-agencies-and-international-and-local-media-for-his.md) _2018-02-06 13:49:25 (Update)_
 2. [Philippine President Benigno Aquino III is criticized by survivors, aid agencies, and international and local media for his inadequate response to the tragedy. ](/news/2013/11/14/philippine-president-benigno-aquino-iii-is-criticized-by-survivors-aid-agencies-and-international-and-local-media-for-his-inadequate-respo.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ They carried the bombs under their hijabs, detonating them in a double suicide a
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/islamist-insurgency-in-nigeria-ptwo-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northe.md) _2017-08-25 03:41:15 (First version)_
-2. [Islamist insurgency in Nigeria:: Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/islamist-insurgency-in-nigeria-two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-north.md) _2017-08-27 03:41:33 (Update)_
+1. [Islamist insurgency in Nigeria:: Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/islamist-insurgency-in-nigeria-two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-north.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/islamist-insurgency-in-nigeria-ptwo-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northe.md) _2018-02-06 13:49:26 (Update)_
 2. [Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

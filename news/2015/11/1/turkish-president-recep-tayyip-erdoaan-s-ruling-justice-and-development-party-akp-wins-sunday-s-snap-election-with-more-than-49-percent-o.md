@@ -23,7 +23,7 @@ His gamble paid off, and now Erdogan is in a position to cement his presidential
 
 ### Changes:
 
-1. [Turkish general election, November 2015: Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. ](/news/2015/11/1/turkish-general-election-november-2015-turkish-president-recep-tayyip-erdoaan-s-ruling-justice-and-development-party-akp-wins-sunday-s.md) _2017-08-27 03:43:38 (First version)_
+1. [Turkish general election, November 2015: Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. ](/news/2015/11/1/turkish-general-election-november-2015-turkish-president-recep-tayyip-erdoaan-s-ruling-justice-and-development-party-akp-wins-sunday-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. ](/news/2015/11/1/turkish-president-recep-tayyip-erdoaan-s-ruling-justice-and-development-party-akp-wins-sunday-s-snap-election-with-more-than-49-percent-o.md) _(Current version)_
 
 ### Related:

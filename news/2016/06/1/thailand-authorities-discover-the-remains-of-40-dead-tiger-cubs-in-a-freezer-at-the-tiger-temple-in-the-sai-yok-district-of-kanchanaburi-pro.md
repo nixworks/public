@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-
 
 ### Changes:
 
-1. [Thailand authorities discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-p.md) _2017-08-25 03:45:49 (First version)_
+1. [Thailand authorities discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-p.md) _2018-02-06 13:49:29 (First version)_
 1. [Thailand authorities discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-pro.md) _(Current version)_
 
 ### Related:

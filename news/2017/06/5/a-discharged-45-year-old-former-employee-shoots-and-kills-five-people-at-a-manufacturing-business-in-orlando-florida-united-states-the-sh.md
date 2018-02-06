@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-
 
 ### Changes:
 
-1. [2017 Orlando shooting: A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/2017-orlando-shooting-a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida.md) _2017-08-27 03:48:26 (First version)_
+1. [2017 Orlando shooting: A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/2017-orlando-shooting-a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida.md) _2018-02-06 13:49:30 (First version)_
 1. [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md) _(Current version)_
 
 ### Related:

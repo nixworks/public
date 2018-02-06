@@ -9,7 +9,7 @@ _Context: blood, Thailand, red shirt, Prime Minister, Abhisit Vejjajiva_
 
 ##### France
 ### [A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. ](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.md)
-_Context: France, Paris, ETA, Basque separatist_
+_Context: Basque separatist, Paris, ETA, France_
 
 ##### Ladies in White
 ### [30 members of the "Ladies in White" opposition movement in Cuba are arrested at a demonstration in the capital Havana. ](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.md)
@@ -17,7 +17,7 @@ Female relatives of dissidents heckled during march outside Havana, then removed
 
 ##### China
 ### [Seven Chinese fisherman kidnapped off Cameroon's disputed Bakassi peninsula are released. ](/news/2010/03/17/seven-chinese-fisherman-kidnapped-off-cameroon-s-disputed-bakassi-peninsula-are-released.md)
-_Context: Bakassi, Cameroon, China_
+_Context: Cameroon, Bakassi, China_
 
 ##### Nigeria
 ### [Nigeria's acting president Goodluck Jonathan dissolves the country's cabinet. ](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.md)

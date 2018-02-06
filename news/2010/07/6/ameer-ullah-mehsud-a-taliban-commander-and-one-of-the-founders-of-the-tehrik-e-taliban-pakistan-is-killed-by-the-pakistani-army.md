@@ -22,7 +22,7 @@ Demonstrators angry over human rights investigation try to break into UN offices
 
 ### Changes:
 
-1. [Asia: Ameer Ullah Mehsud, a Taliban commander and one of the founders of the Tehrik-e-Taliban Pakistan, is killed by the Pakistani army. ](/news/2010/07/6/asia-ameer-ullah-mehsud-a-taliban-commander-and-one-of-the-founders-of-the-tehrik-e-taliban-pakistan-is-killed-by-the-pakistani-army.md) _2017-08-27 03:28:36 (First version)_
+1. [Asia: Ameer Ullah Mehsud, a Taliban commander and one of the founders of the Tehrik-e-Taliban Pakistan, is killed by the Pakistani army. ](/news/2010/07/6/asia-ameer-ullah-mehsud-a-taliban-commander-and-one-of-the-founders-of-the-tehrik-e-taliban-pakistan-is-killed-by-the-pakistani-army.md) _2018-02-06 13:49:20 (First version)_
 1. [Ameer Ullah Mehsud, a Taliban commander and one of the founders of the Tehrik-e-Taliban Pakistan, is killed by the Pakistani army. ](/news/2010/07/6/ameer-ullah-mehsud-a-taliban-commander-and-one-of-the-founders-of-the-tehrik-e-taliban-pakistan-is-killed-by-the-pakistani-army.md) _(Current version)_
 
 ### Related:

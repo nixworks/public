@@ -16,8 +16,8 @@ A suicide bomber drove a vehicle packed with explosives to a military headquarte
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-pfourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md) _2017-08-25 03:39:11 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md) _2017-08-27 03:39:27 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-pfourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md) _(Current version)_
 
 ### Related:

@@ -25,7 +25,7 @@ Maps and results in the New Jersey general elections for governor, the state leg
 
 ### Changes:
 
-1. [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md) _2017-11-08 16:30:05 (First version)_
+1. [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in New Jersey and Virginia chose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.md) _(Current version)_
 
 ### Related:

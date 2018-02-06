@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/16/california-authorities-charge-a-clearlake-resid
 
 ### Changes:
 
-1. [California wildfires: California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-wildfires-california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-l.md) _2017-08-27 03:46:39 (First version)_
+1. [California wildfires: California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-wildfires-california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-l.md) _2018-02-06 13:49:29 (First version)_
 1. [California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-last-two-years.md) _(Current version)_
 
 ### Related:

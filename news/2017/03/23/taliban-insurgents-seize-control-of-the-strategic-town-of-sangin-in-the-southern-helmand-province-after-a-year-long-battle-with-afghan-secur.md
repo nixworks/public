@@ -16,7 +16,7 @@ Government forces retreat as the district headquarters fall to militants after a
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/war-in-afghanistan-2015-present-taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after.md) _2017-08-27 03:48:02 (First version)_
+1. [War in Afghanistan (2015-present): Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/war-in-afghanistan-2015-present-taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after.md) _2018-02-06 13:49:30 (First version)_
 1. [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md) _(Current version)_
 
 ### Related:

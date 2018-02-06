@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-e
 
 ### Changes:
 
-1. [Panamanian general election, 2014: Voters in Panama go to the polls for a general election. ](/news/2014/05/4/panamanian-general-election-2014-voters-in-panama-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:40:40 (First version)_
+1. [Panamanian general election, 2014: Voters in Panama go to the polls for a general election. ](/news/2014/05/4/panamanian-general-election-2014-voters-in-panama-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

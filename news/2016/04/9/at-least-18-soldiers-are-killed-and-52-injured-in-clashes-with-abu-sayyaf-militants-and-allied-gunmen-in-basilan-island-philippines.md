@@ -16,7 +16,7 @@ Philippine military officials say at least 18 soldiers have been killed in fierc
 
 ### Changes:
 
-1. [Moro Conflict: 2016 Battle of Basilan: At least 18 soldiers are killed and 52 injured in clashes with Abu Sayyaf militants and allied gunmen in Basilan island, Philippines. ](/news/2016/04/9/moro-conflict-2016-battle-of-basilan-at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen.md) _2017-08-27 03:45:33 (First version)_
+1. [Moro Conflict: 2016 Battle of Basilan: At least 18 soldiers are killed and 52 injured in clashes with Abu Sayyaf militants and allied gunmen in Basilan island, Philippines. ](/news/2016/04/9/moro-conflict-2016-battle-of-basilan-at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least 18 soldiers are killed and 52 injured in clashes with Abu Sayyaf militants and allied gunmen in Basilan island, Philippines. ](/news/2016/04/9/at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen-in-basilan-island-philippines.md) _(Current version)_
 
 ### Related:

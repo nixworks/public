@@ -21,8 +21,8 @@ More than 400 people fleeing Libya and Tunisia arrived overnight in an Italian i
 
 ### Changes:
 
-1. [2011 Libyan civil war:More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/2011-libyan-civil-war-pmore-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in.md) _2017-08-25 03:33:06 (First version)_
-2. [2011 Libyan civil war:: More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/2011-libyan-civil-war-more-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in.md) _2017-08-27 03:33:15 (Update)_
+1. [2011 Libyan civil war:More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/2011-libyan-civil-war-pmore-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/2011-libyan-civil-war-more-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in.md) _2018-02-06 13:49:22 (Update)_
 2. [More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/more-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in-a-stream-of-refugees-fl.md) _(Current version)_
 
 ### Related:

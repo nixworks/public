@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-
 
 ### Changes:
 
-1. [At least 7 workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-7-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md) _2017-10-17 03:43:27 (First version)_
+1. [At least 7 workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-7-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md) _2018-02-06 13:49:24 (First version)_
 1. [At least seven workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md) _(Current version)_
 
 ### Related:

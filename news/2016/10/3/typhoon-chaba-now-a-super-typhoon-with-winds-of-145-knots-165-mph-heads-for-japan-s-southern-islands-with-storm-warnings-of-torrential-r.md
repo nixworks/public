@@ -17,7 +17,7 @@ Chaba will now brush South Korea before moving into mainland Japan.
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/2016-pacific-typhoon-season-typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-s.md) _2017-08-27 03:46:57 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/2016-pacific-typhoon-season-typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.md) _(Current version)_
 
 ### Related:

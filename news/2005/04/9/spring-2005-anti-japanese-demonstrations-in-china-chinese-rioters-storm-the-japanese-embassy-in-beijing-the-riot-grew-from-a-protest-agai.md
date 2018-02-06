@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-chin
 
 ### Changes:
 
-1. [ Spring 2005 anti-Japanese demonstrations in China: Chinese rioters storm the Japanese embassy in Beijing. The riot grew from a protest against Japan's newly approved history textbooks, which according to critics, whitewashed Japanese wartime atrocities. (Wikinews) ](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-china-chinese-rioters-storm-the-japanese-embassy-in-beijing-the-riot-grew-from-a-protest-aga.md) _2017-08-25 03:15:56 (First version)_
+1. [ Spring 2005 anti-Japanese demonstrations in China: Chinese rioters storm the Japanese embassy in Beijing. The riot grew from a protest against Japan's newly approved history textbooks, which according to critics, whitewashed Japanese wartime atrocities. (Wikinews) ](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-china-chinese-rioters-storm-the-japanese-embassy-in-beijing-the-riot-grew-from-a-protest-aga.md) _2018-02-06 13:49:16 (First version)_
 1. [ Spring 2005 anti-Japanese demonstrations in China: Chinese rioters storm the Japanese embassy in Beijing. The riot grew from a protest against Japan's newly approved history textbooks, which according to critics, whitewashed Japanese wartime atrocities. (Wikinews) ](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-china-chinese-rioters-storm-the-japanese-embassy-in-beijing-the-riot-grew-from-a-protest-agai.md) _(Current version)_
 
 ### Related:

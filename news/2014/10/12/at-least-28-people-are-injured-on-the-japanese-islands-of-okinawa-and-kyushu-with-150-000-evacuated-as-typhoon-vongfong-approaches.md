@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/12/at-least-28-people-are-injured-on-the-japanese-
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: At least 28 people are injured on the Japanese islands of Okinawa and Kyushu with 150,000 evacuated as Typhoon Vongfong approaches. ](/news/2014/10/12/2014-pacific-typhoon-season-at-least-28-people-are-injured-on-the-japanese-islands-of-okinawa-and-kyushu-with-150-000-evacuated-as-typhoon.md) _2017-08-27 03:41:23 (First version)_
+1. [2014 Pacific typhoon season: At least 28 people are injured on the Japanese islands of Okinawa and Kyushu with 150,000 evacuated as Typhoon Vongfong approaches. ](/news/2014/10/12/2014-pacific-typhoon-season-at-least-28-people-are-injured-on-the-japanese-islands-of-okinawa-and-kyushu-with-150-000-evacuated-as-typhoon.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 28 people are injured on the Japanese islands of Okinawa and Kyushu with 150,000 evacuated as Typhoon Vongfong approaches. ](/news/2014/10/12/at-least-28-people-are-injured-on-the-japanese-islands-of-okinawa-and-kyushu-with-150-000-evacuated-as-typhoon-vongfong-approaches.md) _(Current version)_
 
 ### Related:

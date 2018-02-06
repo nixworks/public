@@ -17,8 +17,8 @@ PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in 
 
 ### Changes:
 
-1. [ ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch-pad-in-sriharikota.md) _2017-06-23 11:30:08 (First version)_
-2. [2017 in spaceflight: ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/2017-in-spaceflight-isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch.md) _2017-08-27 03:48:33 (Update)_
+1. [ ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch-pad-in-sriharikota.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 in spaceflight: ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/2017-in-spaceflight-isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch.md) _2018-02-06 13:49:30 (Update)_
 2. [ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch-pad-in-sriharikota-a.md) _(Current version)_
 
 ### Related:

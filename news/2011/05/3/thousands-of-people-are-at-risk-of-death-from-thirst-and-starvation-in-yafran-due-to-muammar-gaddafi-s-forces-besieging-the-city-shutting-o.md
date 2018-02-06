@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/05/3/thousands-of-people-are-at-risk-of-death-from-th
 
 ### Changes:
 
-1. [2011 Libyan civil war: Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/2011-libyan-civil-war-thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besiegi.md) _2017-08-27 03:33:07 (First version)_
+1. [2011 Libyan civil war: Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/2011-libyan-civil-war-thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besiegi.md) _2018-02-06 13:49:22 (First version)_
 1. [Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besieging-the-city-shutting-o.md) _(Current version)_
 
 ### Related:

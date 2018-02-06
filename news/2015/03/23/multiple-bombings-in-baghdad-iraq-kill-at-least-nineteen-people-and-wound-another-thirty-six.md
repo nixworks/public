@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/iraqi-insurgency-2011-present-multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md) _2017-08-27 03:42:07 (First version)_
+1. [Iraqi insurgency (2011-present): Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/iraqi-insurgency-2011-present-multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md) _2018-02-06 13:49:26 (First version)_
 1. [Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md) _(Current version)_
 
 ### Related:

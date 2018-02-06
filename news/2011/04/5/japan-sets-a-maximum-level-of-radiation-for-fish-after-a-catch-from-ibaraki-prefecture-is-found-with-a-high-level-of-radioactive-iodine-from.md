@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/04/5/japan-sets-a-maximum-level-of-radiation-for-fish
 
 ### Changes:
 
-1. [Fukushima I nuclear accidents: Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/fukushima-i-nuclear-accidents-japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-l.md) _2017-08-27 03:32:52 (First version)_
+1. [Fukushima I nuclear accidents: Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/fukushima-i-nuclear-accidents-japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-l.md) _2018-02-06 13:49:22 (First version)_
 1. [Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-level-of-radioactive-iodine-from.md) _(Current version)_
 
 ### Related:

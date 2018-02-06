@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/11/25/war-in-chad-2005apresent-rebel-fighters-are-rep
 
 ### Changes:
 
-1. [ War in Chad (2005-present): Rebel fighters are reported to have entered the key eastern Chadian city of Abeche, following clashes with government troops. ](/news/2006/11/25/war-in-chad-2005-present-rebel-fighters-are-reported-to-have-entered-the-key-eastern-chadian-city-of-aba-c-cha-c-following-clashes-with.md) _2017-08-27 03:18:45 (First version)_
+1. [ War in Chad (2005-present): Rebel fighters are reported to have entered the key eastern Chadian city of Abeche, following clashes with government troops. ](/news/2006/11/25/war-in-chad-2005-present-rebel-fighters-are-reported-to-have-entered-the-key-eastern-chadian-city-of-aba-c-cha-c-following-clashes-with.md) _2018-02-06 13:49:17 (First version)_
 1. [ War in Chad (2005-present): Rebel fighters are reported to have entered the key eastern Chadian city of Abeche, following clashes with government troops. ](/news/2006/11/25/war-in-chad-2005apresent-rebel-fighters-are-reported-to-have-entered-the-key-eastern-chadian-city-of-aba-c-cha-c-following-clashes-with.md) _(Current version)_
 
 ### Related:

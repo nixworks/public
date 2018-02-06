@@ -18,7 +18,7 @@ Rupert Hamer, the defence correspondent of the Sunday Mirror, has been killed in
 
 ### Changes:
 
-1. [The ''Sunday Mirror''{{'}}s defence correspondent Rupert Hamer is killed in an explosion in Afghanistan, becoming the first British journalist to be killed there and the first to be killed in a war zone since 2003. ](/news/2010/01/10/the-sunday-mirror-s-defence-correspondent-rupert-hamer-is-killed-in-an-explosion-in-afghanistan-becoming-the-first-british-journali.md) _2017-08-25 03:26:51 (First version)_
+1. [The ''Sunday Mirror''{{'}}s defence correspondent Rupert Hamer is killed in an explosion in Afghanistan, becoming the first British journalist to be killed there and the first to be killed in a war zone since 2003. ](/news/2010/01/10/the-sunday-mirror-s-defence-correspondent-rupert-hamer-is-killed-in-an-explosion-in-afghanistan-becoming-the-first-british-journali.md) _2018-02-06 13:49:19 (First version)_
 1. [The "Sunday Mirror"{{'}}s defence correspondent Rupert Hamer is killed in an explosion in Afghanistan, becoming the first British journalist to be killed there and the first to be killed in a war zone since 2003. ](/news/2010/01/10/the-sunday-mirror-s-defence-correspondent-rupert-hamer-is-killed-in-an-explosion-in-afghanistan-becoming-the-first-british-journalist.md) _(Current version)_
 
 ### Related:

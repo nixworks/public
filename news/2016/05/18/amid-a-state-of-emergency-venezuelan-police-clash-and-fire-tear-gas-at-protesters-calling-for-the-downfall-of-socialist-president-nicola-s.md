@@ -16,7 +16,7 @@ Wednesday’s protests in Caracas came the day after Maduro said the opposition-
 
 ### Changes:
 
-1. [2014-16 Venezuelan protests: Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/2014-16-venezuelan-protests-amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-o.md) _2017-08-27 03:46:03 (First version)_
+1. [2014-16 Venezuelan protests: Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/2014-16-venezuelan-protests-amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.md) _(Current version)_
 
 ### Related:

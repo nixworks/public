@@ -16,7 +16,7 @@ US astronaut Scott Kelly and Russian cosmonaut Mikhail Kornienko touch down safe
 
 ### Changes:
 
-1. [ISS year long mission: U.S. astronaut Scott Kelly and Russian cosmonaut Mikhail Korniyenko return to Earth after 340 days aboard the International Space Station (ISS). ](/news/2016/03/1/iss-year-long-mission-u-s-astronaut-scott-kelly-and-russian-cosmonaut-mikhail-korniyenko-return-to-earth-after-340-days-aboard-the-interna.md) _2017-08-27 03:45:05 (First version)_
+1. [ISS year long mission: U.S. astronaut Scott Kelly and Russian cosmonaut Mikhail Korniyenko return to Earth after 340 days aboard the International Space Station (ISS). ](/news/2016/03/1/iss-year-long-mission-u-s-astronaut-scott-kelly-and-russian-cosmonaut-mikhail-korniyenko-return-to-earth-after-340-days-aboard-the-interna.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. astronaut Scott Kelly and Russian cosmonaut Mikhail Korniyenko return to Earth after 340 days aboard the International Space Station (ISS). ](/news/2016/03/1/u-s-astronaut-scott-kelly-and-russian-cosmonaut-mikhail-korniyenko-return-to-earth-after-340-days-aboard-the-international-space-station-i.md) _(Current version)_
 
 ### Related:

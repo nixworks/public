@@ -17,7 +17,7 @@ Syrian President Bashar al-Assad declared on Friday that he would not negotiate 
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-civil-war-syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-g.md) _2017-08-27 03:44:19 (First version)_
+1. [Syrian Civil War: Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-civil-war-syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-g.md) _2018-02-06 13:49:28 (First version)_
 1. [Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-group-two-day-meet.md) _(Current version)_
 
 ### Related:

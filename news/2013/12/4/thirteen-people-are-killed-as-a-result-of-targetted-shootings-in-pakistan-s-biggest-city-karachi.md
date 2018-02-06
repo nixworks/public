@@ -16,8 +16,8 @@ Violence rocked Pakistan&#039;s biggest city today as 13 people were killed in t
 
 ### Changes:
 
-1. [Sectarianism in Pakistan:Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-pthirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md) _2017-08-25 03:39:37 (First version)_
-2. [Sectarianism in Pakistan:: Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md) _2017-08-27 03:39:55 (Update)_
+1. [Sectarianism in Pakistan:: Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md) _2018-02-06 13:49:25 (First version)_
+2. [Sectarianism in Pakistan:Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-pthirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md) _2018-02-06 13:49:25 (Update)_
 2. [Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md) _(Current version)_
 
 ### Related:

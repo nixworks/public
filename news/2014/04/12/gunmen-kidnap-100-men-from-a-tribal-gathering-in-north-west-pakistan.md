@@ -16,7 +16,7 @@ Gunmen stormed a village gathering in northwestern Pakistan on Saturday and kidn
 
 ### Changes:
 
-1. [War in North-West Pakistan: Gunmen kidnap 100 men from a tribal gathering in North-West Pakistan. ](/news/2014/04/12/war-in-north-west-pakistan-gunmen-kidnap-100-men-from-a-tribal-gathering-in-north-west-pakistan.md) _2017-08-27 03:40:34 (First version)_
+1. [War in North-West Pakistan: Gunmen kidnap 100 men from a tribal gathering in North-West Pakistan. ](/news/2014/04/12/war-in-north-west-pakistan-gunmen-kidnap-100-men-from-a-tribal-gathering-in-north-west-pakistan.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen kidnap 100 men from a tribal gathering in North-West Pakistan. ](/news/2014/04/12/gunmen-kidnap-100-men-from-a-tribal-gathering-in-north-west-pakistan.md) _(Current version)_
 
 ### Related:

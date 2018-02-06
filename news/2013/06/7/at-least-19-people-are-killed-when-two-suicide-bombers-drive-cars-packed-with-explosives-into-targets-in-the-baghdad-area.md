@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/7/at-least-19-people-are-killed-when-two-suicide-b
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/iraqi-insurgency-post-u-s-withdrawal-pat-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targe.md) _2017-08-25 03:38:48 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/iraqi-insurgency-post-u-s-withdrawal-at-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targ.md) _2017-08-27 03:39:01 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/iraqi-insurgency-post-u-s-withdrawal-pat-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targe.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/iraqi-insurgency-post-u-s-withdrawal-at-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targ.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/at-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targets-in-the-baghdad-area.md) _(Current version)_
 
 ### Related:

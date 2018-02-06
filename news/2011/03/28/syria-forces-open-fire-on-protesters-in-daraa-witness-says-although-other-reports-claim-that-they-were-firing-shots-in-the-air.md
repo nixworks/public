@@ -32,8 +32,8 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 
 ### Changes:
 
-1. [Arab Spring:Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/arab-spring-psyria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were-firing-shots-in-the-air.md) _2017-08-25 03:32:40 (First version)_
-2. [Arab Spring:: 2011 Syrian protests: Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/arab-spring-2011-syrian-protests-syria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were.md) _2017-08-27 03:32:48 (Update)_
+1. [Arab Spring:Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/arab-spring-psyria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were-firing-shots-in-the-air.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian protests: Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/arab-spring-2011-syrian-protests-syria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were.md) _2018-02-06 13:49:22 (Update)_
 2. [Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. ](/news/2011/03/28/syria-forces-open-fire-on-protesters-in-daraa-witness-says-although-other-reports-claim-that-they-were-firing-shots-in-the-air.md) _(Current version)_
 
 ### Related:

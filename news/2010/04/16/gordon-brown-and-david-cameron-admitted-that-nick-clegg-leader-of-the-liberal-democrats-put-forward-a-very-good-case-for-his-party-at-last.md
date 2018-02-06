@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-ni
 
 ### Changes:
 
-1. [UK general election countdown:Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-pgordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2017-08-25 03:27:39 (First version)_
-2. [UK general election countdown:: Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2017-08-27 03:27:36 (Update)_
+1. [UK general election countdown:Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-pgordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2018-02-06 13:49:19 (First version)_
+2. [UK general election countdown:: Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2018-02-06 13:49:19 (Update)_
 2. [Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.md) _(Current version)_
 
 ### Related:

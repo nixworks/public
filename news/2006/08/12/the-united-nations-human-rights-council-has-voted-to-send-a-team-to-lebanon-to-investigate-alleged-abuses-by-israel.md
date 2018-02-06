@@ -17,7 +17,7 @@ Formats: [HTML](/news/2006/08/12/the-united-nations-human-rights-council-has-vot
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The United Nations Human Rights Council has voted to send a team to Lebanon to investigate alleged abuses by Israel. ](/news/2006/08/12/2006-israel-lebanon-conflict-the-united-nations-human-rights-council-has-voted-to-send-a-team-to-lebanon-to-investigate-alleged-abuses-by.md) _2017-08-27 03:18:08 (First version)_
+1. [ 2006 Israel-Lebanon conflict: The United Nations Human Rights Council has voted to send a team to Lebanon to investigate alleged abuses by Israel. ](/news/2006/08/12/2006-israel-lebanon-conflict-the-united-nations-human-rights-council-has-voted-to-send-a-team-to-lebanon-to-investigate-alleged-abuses-by.md) _2018-02-06 13:49:17 (First version)_
 1. [ The United Nations Human Rights Council has voted to send a team to Lebanon to investigate alleged abuses by Israel. ](/news/2006/08/12/the-united-nations-human-rights-council-has-voted-to-send-a-team-to-lebanon-to-investigate-alleged-abuses-by-israel.md) _(Current version)_
 
 ### Related:

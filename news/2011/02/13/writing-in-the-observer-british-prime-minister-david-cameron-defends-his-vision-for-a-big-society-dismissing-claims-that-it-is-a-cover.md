@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/13/writing-in-the-observer-british-prime-minister-
 
 ### Changes:
 
-1. [Writing in ''The Observer'', British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cove.md) _2017-08-25 03:32:09 (First version)_
+1. [Writing in ''The Observer'', British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cove.md) _2018-02-06 13:49:21 (First version)_
 1. [Writing in "The Observer", British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cover.md) _(Current version)_
 
 ### Related:

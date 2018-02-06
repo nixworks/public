@@ -17,7 +17,7 @@ The Syrian army and its allies reached an air base besieged for years by Islamic
 
 ### Changes:
 
-1. [The Syrian army breaks the Islamic States' nine month long siege of the Deir ez-Zor airport. ](/news/2017/09/9/the-syrian-army-breaks-the-islamic-states-nine-month-long-siege-of-the-deir-ez-zor-airport.md) _2017-09-09 18:30:05 (First version)_
+1. [The Syrian army breaks the Islamic States' nine month long siege of the Deir ez-Zor airport. ](/news/2017/09/9/the-syrian-army-breaks-the-islamic-states-nine-month-long-siege-of-the-deir-ez-zor-airport.md) _2018-02-06 13:49:31 (First version)_
 1. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _(Current version)_
 
 ### Related:

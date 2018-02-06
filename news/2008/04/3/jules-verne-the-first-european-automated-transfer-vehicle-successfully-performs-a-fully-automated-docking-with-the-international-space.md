@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/04/3/jules-verne-the-first-european-automated-transfe
 
 ### Changes:
 
-1. [ ''Jules Verne'', the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-spac.md) _2017-08-25 03:22:01 (First version)_
+1. [ ''Jules Verne'', the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-spac.md) _2018-02-06 13:49:18 (First version)_
 1. [ "Jules Verne", the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.md) _(Current version)_
 
 ### Related:

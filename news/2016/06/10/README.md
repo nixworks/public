@@ -13,7 +13,7 @@ _Context: 2016 Aktobe shootings, Aktobe, Kazakhstan, policemen_
 
 ##### Conflict in the Niger Delta
 ### [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md)
-_Context: Eni, Conflict in the Niger Delta, Niger Delta, Italy, Niger Delta Avengers_
+_Context: Niger Delta Avengers, Conflict in the Niger Delta, Niger Delta, Eni, Italy_
 
 ##### Manbij offensive
 ### [Kurdish-led fighters completely encircle the ISIL-held town of Manbij, near the Turkish border, while Syrian forces move closer to ISIL's de facto capital, Raqqa. ](/news/2016/06/10/kurdish-led-fighters-completely-encircle-the-isil-held-town-of-manbij-near-the-turkish-border-while-syrian-forces-move-closer-to-isil-s-de.md)
@@ -41,7 +41,7 @@ Israel on Friday temporarily barred Palestinians from entering the country, a st
 
 ##### Russia-United States relations
 ### [Russia's Foreign Ministry warns of "retaliatory measures" over the entry of the United States Navy destroyer, USS "Porter". The USS "Porter" arrived in the Black Sea port of Varna, Bulgaria, earlier this week for what the U.S. Navy called a routine deployment. ](/news/2016/06/10/russia-s-foreign-ministry-warns-of-retaliatory-measures-over-the-entry-of-the-united-states-navy-destroyer-uss-porter-the-uss-porter.md)
-_Context: Bulgaria, Russia-United States relations, Russia, Foreign Ministry, United States Navy, Varna, USS ''Porter''_
+_Context: USS ''Porter'', Bulgaria, United States Navy, Varna, Foreign Ministry, Russia, Russia-United States relations_
 
 ##### Cuba-United States relations
 ### [The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. ](/news/2016/06/10/the-u-s-department-of-commerce-approves-service-by-six-commercial-airlines-from-five-u-s-cities-including-miami-and-philadelphia-to-nine.md)

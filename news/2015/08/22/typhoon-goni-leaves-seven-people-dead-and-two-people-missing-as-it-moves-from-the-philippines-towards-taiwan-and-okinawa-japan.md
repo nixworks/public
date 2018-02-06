@@ -16,7 +16,7 @@ Typhoon Goni slightly weakened on Saturday as it lashed the northern Philippines
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Goni leaves seven people dead and two people missing as it moves from the Philippines towards Taiwan and Okinawa, Japan. ](/news/2015/08/22/2015-pacific-typhoon-season-typhoon-goni-leaves-seven-people-dead-and-two-people-missing-as-it-moves-from-the-philippines-towards-taiwan-an.md) _2017-08-27 03:42:52 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Goni leaves seven people dead and two people missing as it moves from the Philippines towards Taiwan and Okinawa, Japan. ](/news/2015/08/22/2015-pacific-typhoon-season-typhoon-goni-leaves-seven-people-dead-and-two-people-missing-as-it-moves-from-the-philippines-towards-taiwan-an.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Goni leaves seven people dead and two people missing as it moves from the Philippines towards Taiwan and Okinawa, Japan. ](/news/2015/08/22/typhoon-goni-leaves-seven-people-dead-and-two-people-missing-as-it-moves-from-the-philippines-towards-taiwan-and-okinawa-japan.md) _(Current version)_
 
 ### Related:

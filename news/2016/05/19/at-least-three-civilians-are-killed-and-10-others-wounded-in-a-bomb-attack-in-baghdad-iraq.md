@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-othe
 
 ### Changes:
 
-1. [ Iraqi civil war (2014-present): At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/iraqi-civil-war-2014-present-at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _2017-08-27 03:46:04 (First version)_
+1. [ Iraqi civil war (2014-present): At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/iraqi-civil-war-2014-present-at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/war-in-afghanistan-2015-present-the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-opera.md) _2017-08-27 03:47:47 (First version)_
+1. [War in Afghanistan (2015-present): The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/war-in-afghanistan-2015-present-the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-opera.md) _2018-02-06 13:49:30 (First version)_
 1. [The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-operations-in-afghanistan-after-gunmen-kil.md) _(Current version)_
 
 ### Related:

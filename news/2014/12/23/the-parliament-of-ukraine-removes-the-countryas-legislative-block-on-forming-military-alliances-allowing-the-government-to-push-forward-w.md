@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/23/the-parliament-of-ukraine-removes-the-countryas
 
 ### Changes:
 
-1. [The Parliament of Ukraine removes the country-s legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-country-s-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md) _2017-08-27 03:41:40 (First version)_
+1. [The Parliament of Ukraine removes the country-s legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-country-s-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md) _2018-02-06 13:49:26 (First version)_
 1. [The Parliament of Ukraine removes the country's legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-countryas-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md) _(Current version)_
 
 ### Related:

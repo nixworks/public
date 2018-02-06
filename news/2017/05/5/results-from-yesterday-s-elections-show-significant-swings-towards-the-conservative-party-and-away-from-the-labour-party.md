@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/5/results-from-yesterday-s-elections-show-signific
 
 ### Changes:
 
-1. [Early results from yesterday's elections indicate that the Conservative Party has gained ground, while the Labour Party and the UK Independence Party have lost ground. ](/news/2017/05/5/early-results-from-yesterday-s-elections-indicate-that-the-conservative-party-has-gained-ground-while-the-labour-party-and-the-uk-independe.md) _2017-05-06 03:51:40 (First version)_
-2. [United Kingdom local elections, 2017: Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/united-kingdom-local-elections-2017-results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-fro.md) _2017-08-27 03:48:18 (Update)_
+1. [United Kingdom local elections, 2017: Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/united-kingdom-local-elections-2017-results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-fro.md) _2018-02-06 13:49:30 (First version)_
+2. [Early results from yesterday's elections indicate that the Conservative Party has gained ground, while the Labour Party and the UK Independence Party have lost ground. ](/news/2017/05/5/early-results-from-yesterday-s-elections-indicate-that-the-conservative-party-has-gained-ground-while-the-labour-party-and-the-uk-independe.md) _2018-02-06 13:49:30 (Update)_
 2. [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md) _(Current version)_
 
 ### Related:

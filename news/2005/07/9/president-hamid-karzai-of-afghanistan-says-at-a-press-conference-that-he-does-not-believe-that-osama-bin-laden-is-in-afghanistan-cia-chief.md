@@ -17,7 +17,7 @@ Osama bin Laden is not in Afghanistan, President Hamid Karzai says.
 
 ### Changes:
 
-1. [ President Hamid Karzai of Afghanistan says at a press conference that he does not believe that Osama bin Laden is in Afghanistan. CIA chief Porter Goss has said in a recent interview that he has an "excellent idea" of bin Laden's whereabouts. ](/news/2005/07/9/president-hamid-karzai-of-afghanistan-says-at-a-press-conference-that-he-does-not-believe-that-osama-bin-laden-is-in-afghanistan-cia-chie.md) _2017-08-25 03:16:30 (First version)_
+1. [ President Hamid Karzai of Afghanistan says at a press conference that he does not believe that Osama bin Laden is in Afghanistan. CIA chief Porter Goss has said in a recent interview that he has an "excellent idea" of bin Laden's whereabouts. ](/news/2005/07/9/president-hamid-karzai-of-afghanistan-says-at-a-press-conference-that-he-does-not-believe-that-osama-bin-laden-is-in-afghanistan-cia-chie.md) _2018-02-06 13:49:16 (First version)_
 1. [ President Hamid Karzai of Afghanistan says at a press conference that he does not believe that Osama bin Laden is in Afghanistan. CIA chief Porter Goss has said in a recent interview that he has an "excellent idea" of bin Laden's whereabouts. ](/news/2005/07/9/president-hamid-karzai-of-afghanistan-says-at-a-press-conference-that-he-does-not-believe-that-osama-bin-laden-is-in-afghanistan-cia-chief.md) _(Current version)_
 
 ### Related:

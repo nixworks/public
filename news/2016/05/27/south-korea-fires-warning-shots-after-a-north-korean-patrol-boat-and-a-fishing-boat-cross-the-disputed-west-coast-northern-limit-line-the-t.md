@@ -16,7 +16,7 @@ North Korea threatened retaliation on Friday after South Korea fired what it sai
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea fires warning shots after a North Korean patrol boat and a fishing boat cross the disputed west coast Northern Limit Line. The two vessels retreated. ](/news/2016/05/27/north-korea-south-korea-relations-south-korea-fires-warning-shots-after-a-north-korean-patrol-boat-and-a-fishing-boat-cross-the-disputed.md) _2017-08-27 03:46:09 (First version)_
+1. [North Korea-South Korea relations: South Korea fires warning shots after a North Korean patrol boat and a fishing boat cross the disputed west coast Northern Limit Line. The two vessels retreated. ](/news/2016/05/27/north-korea-south-korea-relations-south-korea-fires-warning-shots-after-a-north-korean-patrol-boat-and-a-fishing-boat-cross-the-disputed.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea fires warning shots after a North Korean patrol boat and a fishing boat cross the disputed west coast Northern Limit Line. The two vessels retreated. ](/news/2016/05/27/south-korea-fires-warning-shots-after-a-north-korean-patrol-boat-and-a-fishing-boat-cross-the-disputed-west-coast-northern-limit-line-the-t.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A Philippines human rights body will probe claims by President Duterte that he k
 
 ### Changes:
 
-1. [Philippine Drug War: The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. ](/news/2016/12/22/philippine-drug-war-the-commission-on-human-rights-launches-an-investigation-into-alleged-murders-committed-by-current-philippines-presiden.md) _2017-08-27 03:47:30 (First version)_
+1. [Philippine Drug War: The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. ](/news/2016/12/22/philippine-drug-war-the-commission-on-human-rights-launches-an-investigation-into-alleged-murders-committed-by-current-philippines-presiden.md) _2018-02-06 13:49:30 (First version)_
 1. [The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. ](/news/2016/12/22/the-commission-on-human-rights-launches-an-investigation-into-alleged-murders-committed-by-current-philippines-president-rodrigo-duterte.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Megory Anderson, executive director of the Sacred Dying Foundation and a former 
 
 ### Changes:
 
-1. [ American psychiatrist and best-selling author M. Scott Peck, M.D. Dies after suffering from Parkinson's disease and pancreatic and liver duct cancer. Peck, 69, was the author of ''The Road Less Traveled''. ](/news/2005/09/25/american-psychiatrist-and-best-selling-author-m-scott-peck-m-d-dies-after-suffering-from-parkinson-s-disease-and-pancreatic-and-liver-d.md) _2017-08-25 03:16:50 (First version)_
+1. [ American psychiatrist and best-selling author M. Scott Peck, M.D. Dies after suffering from Parkinson's disease and pancreatic and liver duct cancer. Peck, 69, was the author of ''The Road Less Traveled''. ](/news/2005/09/25/american-psychiatrist-and-best-selling-author-m-scott-peck-m-d-dies-after-suffering-from-parkinson-s-disease-and-pancreatic-and-liver-d.md) _2018-02-06 13:49:16 (First version)_
 1. [ American psychiatrist and best-selling author M. Scott Peck, M.D. Dies after suffering from Parkinson's disease and pancreatic and liver duct cancer. Peck, 69, was the author of "The Road Less Traveled". ](/news/2005/09/25/american-psychiatrist-and-best-selling-author-m-scott-peck-m-d-dies-after-suffering-from-parkinson-s-disease-and-pancreatic-and-liver-du.md) _(Current version)_
 
 ### Related:

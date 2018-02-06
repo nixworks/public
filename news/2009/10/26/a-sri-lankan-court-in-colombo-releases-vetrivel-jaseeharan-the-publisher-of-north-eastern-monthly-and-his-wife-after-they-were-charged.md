@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel
 
 ### Changes:
 
-1. [ A Sri Lankan court in Colombo releases Vetrivel Jaseeharan, the publisher of ''North Eastern Monthly'', and his wife after they were charged with conspiracy against the government in March 2008. The editor was given a twenty year jail sentence in August 2009. ](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel-jaseeharan-the-publisher-of-north-eastern-monthly-and-his-wife-after-they-were-charge.md) _2017-08-25 03:26:09 (First version)_
+1. [ A Sri Lankan court in Colombo releases Vetrivel Jaseeharan, the publisher of ''North Eastern Monthly'', and his wife after they were charged with conspiracy against the government in March 2008. The editor was given a twenty year jail sentence in August 2009. ](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel-jaseeharan-the-publisher-of-north-eastern-monthly-and-his-wife-after-they-were-charge.md) _2018-02-06 13:49:19 (First version)_
 1. [ A Sri Lankan court in Colombo releases Vetrivel Jaseeharan, the publisher of "North Eastern Monthly", and his wife after they were charged with conspiracy against the government in March 2008. The editor was given a twenty year jail sentence in August 2009. ](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel-jaseeharan-the-publisher-of-north-eastern-monthly-and-his-wife-after-they-were-charged.md) _(Current version)_
 
 ### Related:

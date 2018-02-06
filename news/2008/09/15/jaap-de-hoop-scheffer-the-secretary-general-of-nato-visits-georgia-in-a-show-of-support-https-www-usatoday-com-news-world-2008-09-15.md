@@ -11,8 +11,8 @@ Formats: [HTML](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-
 
 ### Changes:
 
-1. [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. ](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support.md) _2017-08-25 03:22:52 (First version)_
-2. [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. [http:--www.usatoday.com-news-world-2008-09-15-georgia-nato_N.htm?csp=34 (AP via "USA Today)"]](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support-http-www-usatoday-com-news-world-2008-09-15-g.md) _2017-10-17 03:26:37 (Update)_
+1. [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. ](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support.md) _2018-02-06 13:49:18 (First version)_
+2. [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. [http:--www.usatoday.com-news-world-2008-09-15-georgia-nato_N.htm?csp=34 (AP via "USA Today)"]](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support-http-www-usatoday-com-news-world-2008-09-15-g.md) _2018-02-06 13:49:18 (Update)_
 2. [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. [https:--www.usatoday.com-news-world-2008-09-15-georgia-nato_N.htm?csp=34 (AP via "USA Today)"]](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support-https-www-usatoday-com-news-world-2008-09-15.md) _(Current version)_
 
 ### Related:

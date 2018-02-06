@@ -18,8 +18,8 @@ The announcement came amid intense international efforts for a broader cease-fir
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict:Israel agrees to pause its offensive on the Gaza Strip while negotiations continue for a broader ceasefire while Hamas violates the ceasefire. ](/news/2014/07/26/2014-israelagaza-conflict-pisrael-agrees-to-pause-its-offensive-on-the-gaza-strip-while-negotiations-continue-for-a-broader-ceasefire-whil.md) _2017-08-25 03:40:45 (First version)_
-2. [2014 Israel-Gaza conflict:: Israel agrees to pause its offensive on the Gaza Strip while negotiations continue for a broader ceasefire while Hamas violates the ceasefire. ](/news/2014/07/26/2014-israel-gaza-conflict-israel-agrees-to-pause-its-offensive-on-the-gaza-strip-while-negotiations-continue-for-a-broader-ceasefire-whi.md) _2017-08-27 03:41:04 (Update)_
+1. [2014 Israel-Gaza conflict:Israel agrees to pause its offensive on the Gaza Strip while negotiations continue for a broader ceasefire while Hamas violates the ceasefire. ](/news/2014/07/26/2014-israelagaza-conflict-pisrael-agrees-to-pause-its-offensive-on-the-gaza-strip-while-negotiations-continue-for-a-broader-ceasefire-whil.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Israel-Gaza conflict:: Israel agrees to pause its offensive on the Gaza Strip while negotiations continue for a broader ceasefire while Hamas violates the ceasefire. ](/news/2014/07/26/2014-israel-gaza-conflict-israel-agrees-to-pause-its-offensive-on-the-gaza-strip-while-negotiations-continue-for-a-broader-ceasefire-whi.md) _2018-02-06 13:49:26 (Update)_
 2. [Israel agrees to pause its offensive on the Gaza Strip while negotiations continue for a broader ceasefire while Hamas violates the ceasefire. ](/news/2014/07/26/israel-agrees-to-pause-its-offensive-on-the-gaza-strip-while-negotiations-continue-for-a-broader-ceasefire-while-hamas-violates-the-ceasefir.md) _(Current version)_
 
 ### Related:

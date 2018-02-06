@@ -17,8 +17,8 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 
 ### Changes:
 
-1. [2014 Pacific typhoon season:Typhoon Rammasun (Glenda) hits the Philippines island of Luzon causing extensive damage and at least ten deaths. ](/news/2014/07/16/2014-pacific-typhoon-season-ptyphoon-rammasun-glenda-hits-the-philippines-island-of-luzon-causing-extensive-damage-and-at-least-ten-deaths.md) _2017-08-25 03:40:41 (First version)_
-2. [2014 Pacific typhoon season:: Typhoon Rammasun (Glenda) hits the Philippines island of Luzon causing extensive damage and at least ten deaths. ](/news/2014/07/16/2014-pacific-typhoon-season-typhoon-rammasun-glenda-hits-the-philippines-island-of-luzon-causing-extensive-damage-and-at-least-ten-death.md) _2017-08-27 03:40:59 (Update)_
+1. [2014 Pacific typhoon season:: Typhoon Rammasun (Glenda) hits the Philippines island of Luzon causing extensive damage and at least ten deaths. ](/news/2014/07/16/2014-pacific-typhoon-season-typhoon-rammasun-glenda-hits-the-philippines-island-of-luzon-causing-extensive-damage-and-at-least-ten-death.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Pacific typhoon season:Typhoon Rammasun (Glenda) hits the Philippines island of Luzon causing extensive damage and at least ten deaths. ](/news/2014/07/16/2014-pacific-typhoon-season-ptyphoon-rammasun-glenda-hits-the-philippines-island-of-luzon-causing-extensive-damage-and-at-least-ten-deaths.md) _2018-02-06 13:49:26 (Update)_
 2. [Typhoon Rammasun (Glenda) hits the Philippines island of Luzon causing extensive damage and at least ten deaths. ](/news/2014/07/16/typhoon-rammasun-glenda-hits-the-philippines-island-of-luzon-causing-extensive-damage-and-at-least-ten-deaths.md) _(Current version)_
 
 ### Related:

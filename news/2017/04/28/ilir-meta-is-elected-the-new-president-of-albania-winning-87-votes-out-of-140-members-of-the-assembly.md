@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-alban
 
 ### Changes:
 
-1. [Ilir Meta is elected the new president of albania, winning 87 out of 144 Members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-out-of-144-members-of-the-assembly.md) _2017-04-29 20:30:07 (First version)_
-2. [Albanian presidential election, 2017: Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/albanian-presidential-election-2017-ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md) _2017-08-27 03:48:16 (Update)_
+1. [Ilir Meta is elected the new president of albania, winning 87 out of 144 Members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-out-of-144-members-of-the-assembly.md) _2018-02-06 13:49:30 (First version)_
+2. [Albanian presidential election, 2017: Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/albanian-presidential-election-2017-ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md) _2018-02-06 13:49:30 (Update)_
 2. [Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md) _(Current version)_
 
 ### Related:

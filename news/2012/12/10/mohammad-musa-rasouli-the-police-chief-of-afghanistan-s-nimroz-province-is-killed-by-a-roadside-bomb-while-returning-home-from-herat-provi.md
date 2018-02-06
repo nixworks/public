@@ -17,8 +17,8 @@ Afghan police say a roadside bombing has killed the police chief of a southern p
 
 ### Changes:
 
-1. [War in Afghanistan:Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/war-in-afghanistan-pmohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning-h.md) _2017-08-25 03:36:59 (First version)_
-2. [War in Afghanistan:: Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/war-in-afghanistan-mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning.md) _2017-08-27 03:37:09 (Update)_
+1. [War in Afghanistan:Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/war-in-afghanistan-pmohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning-h.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan:: Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/war-in-afghanistan-mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning.md) _2018-02-06 13:49:24 (Update)_
 2. [Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning-home-from-herat-provi.md) _(Current version)_
 
 ### Related:

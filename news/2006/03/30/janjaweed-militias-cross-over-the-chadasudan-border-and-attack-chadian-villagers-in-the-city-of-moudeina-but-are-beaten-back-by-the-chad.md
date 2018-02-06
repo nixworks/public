@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/30/janjaweed-militias-cross-over-the-chadasudan-bo
 
 ### Changes:
 
-1. [ Janjaweed militias cross over the Chad-Sudan border and attack Chadian villagers in the city of Moudeina, but are beaten back by the Chadian military. ](/news/2006/03/30/janjaweed-militias-cross-over-the-chad-sudan-border-and-attack-chadian-villagers-in-the-city-of-moudeina-but-are-beaten-back-by-the-chad.md) _2017-08-27 03:17:32 (First version)_
+1. [ Janjaweed militias cross over the Chad-Sudan border and attack Chadian villagers in the city of Moudeina, but are beaten back by the Chadian military. ](/news/2006/03/30/janjaweed-militias-cross-over-the-chad-sudan-border-and-attack-chadian-villagers-in-the-city-of-moudeina-but-are-beaten-back-by-the-chad.md) _2018-02-06 13:49:17 (First version)_
 1. [ Janjaweed militias cross over the Chad-Sudan border and attack Chadian villagers in the city of Moudeina, but are beaten back by the Chadian military. ](/news/2006/03/30/janjaweed-militias-cross-over-the-chadasudan-border-and-attack-chadian-villagers-in-the-city-of-moudeina-but-are-beaten-back-by-the-chad.md) _(Current version)_
 
 ### Related:

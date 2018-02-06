@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-o
 
 ### Changes:
 
-1. [ Thousands of protesters demonstrate violently outside parliament against rising prices and high tax increases. Some of them call for resignation of the president Mamadou Tandja ](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-outside-parliament-against-rising-prices-and-high-tax-increases-some-of-them-call-for-resign.md) _2017-10-13 03:18:13 (First version)_
+1. [ Thousands of protesters demonstrate violently outside parliament against rising prices and high tax increases. Some of them call for resignation of the president Mamadou Tandja ](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-outside-parliament-against-rising-prices-and-high-tax-increases-some-of-them-call-for-resign.md) _2018-02-06 13:49:16 (First version)_
 1. [ Thousands of protesters demonstrate violently outside parliament in Niger against rising prices and high tax increases. Some of them call for resignation of the president Mamadou Tandja ](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-outside-parliament-in-niger-against-rising-prices-and-high-tax-increases-some-of-them-call-f.md) _(Current version)_
 
 ### Related:

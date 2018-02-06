@@ -16,7 +16,7 @@ WASHINGTON • A United States Air Force reconnaissance plane was intercepted by
 
 ### Changes:
 
-1. [Russia-United States relations: A Russian Su-27 jet intercepts a United States Air Force RC-135 reconnaissance plane while in international airspace over the Baltic Sea. U.S. Secretary of State John Kerry says, "We condemn this kind of behavior. It is reckless. It is provocative. It is dangerous." ](/news/2016/04/17/russia-united-states-relations-a-russian-su-27-jet-intercepts-a-united-states-air-force-rc-135-reconnaissance-plane-while-in-internationa.md) _2017-08-27 03:45:39 (First version)_
+1. [Russia-United States relations: A Russian Su-27 jet intercepts a United States Air Force RC-135 reconnaissance plane while in international airspace over the Baltic Sea. U.S. Secretary of State John Kerry says, "We condemn this kind of behavior. It is reckless. It is provocative. It is dangerous." ](/news/2016/04/17/russia-united-states-relations-a-russian-su-27-jet-intercepts-a-united-states-air-force-rc-135-reconnaissance-plane-while-in-internationa.md) _2018-02-06 13:49:28 (First version)_
 1. [A Russian Su-27 jet intercepts a United States Air Force RC-135 reconnaissance plane while in international airspace over the Baltic Sea. U.S. Secretary of State John Kerry says, "We condemn this kind of behavior. It is reckless. It is provocative. It is dangerous." ](/news/2016/04/17/a-russian-su-27-jet-intercepts-a-united-states-air-force-rc-135-reconnaissance-plane-while-in-international-airspace-over-the-baltic-sea-u.md) _(Current version)_
 
 ### Related:

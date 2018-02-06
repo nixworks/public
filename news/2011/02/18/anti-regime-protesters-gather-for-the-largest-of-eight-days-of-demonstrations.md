@@ -18,6 +18,6 @@ Gunfire broke out in the Yemeni capital and at least four people were killed as 
 
 ### Changes:
 
-1. [2011 Yemeni protests:Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/2011-yemeni-protests-panti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md) _2017-08-25 03:32:16 (First version)_
-2. [2011 Yemeni protests:: Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/2011-yemeni-protests-anti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md) _2017-08-27 03:32:23 (Update)_
+1. [2011 Yemeni protests:Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/2011-yemeni-protests-panti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/2011-yemeni-protests-anti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/anti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md) _(Current version)_

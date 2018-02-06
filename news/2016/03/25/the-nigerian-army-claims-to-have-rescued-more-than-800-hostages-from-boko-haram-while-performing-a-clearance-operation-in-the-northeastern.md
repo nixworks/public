@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-t
 
 ### Changes:
 
-1. [Boko Haram insurgency: The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/boko-haram-insurgency-the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operati.md) _2017-08-27 03:45:22 (First version)_
+1. [Boko Haram insurgency: The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/boko-haram-insurgency-the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operati.md) _2018-02-06 13:49:28 (First version)_
 1. [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md) _(Current version)_
 
 ### Related:

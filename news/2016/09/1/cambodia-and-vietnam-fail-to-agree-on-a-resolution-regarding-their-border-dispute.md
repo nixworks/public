@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/1/cambodia-and-vietnam-fail-to-agree-on-a-resoluti
 
 ### Changes:
 
-1. [Cambodia-Vietnam relations: Cambodia and Vietnam fail to agree on a resolution regarding their border dispute. ](/news/2016/09/1/cambodia-vietnam-relations-cambodia-and-vietnam-fail-to-agree-on-a-resolution-regarding-their-border-dispute.md) _2017-08-27 03:46:45 (First version)_
+1. [Cambodia-Vietnam relations: Cambodia and Vietnam fail to agree on a resolution regarding their border dispute. ](/news/2016/09/1/cambodia-vietnam-relations-cambodia-and-vietnam-fail-to-agree-on-a-resolution-regarding-their-border-dispute.md) _2018-02-06 13:49:29 (First version)_
 1. [Cambodia and Vietnam fail to agree on a resolution regarding their border dispute. ](/news/2016/09/1/cambodia-and-vietnam-fail-to-agree-on-a-resolution-regarding-their-border-dispute.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Super typhoon Nepartak hit Taiwan on Friday, driving thousands of people from th
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/2016-pacific-typhoon-season-typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacu.md) _2017-08-27 03:46:26 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/2016-pacific-typhoon-season-typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacu.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacuated-disrupting-transport-an.md) _(Current version)_
 
 ### Related:

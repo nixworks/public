@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/03/2/chadian-soldiers-kill-mokhtar-belmokhtar-an-al-q
 
 ### Changes:
 
-1. [Northern Mali conflict:Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-pchadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at-a.md) _2017-08-25 03:37:42 (First version)_
-2. [Northern Mali conflict:: Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at.md) _2017-08-27 03:37:53 (Update)_
+1. [Northern Mali conflict:Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-pchadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at-a.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:: Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at.md) _2018-02-06 13:49:24 (Update)_
 2. [Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at-an-algerian-gas-plant.md) _(Current version)_
 
 ### Related:

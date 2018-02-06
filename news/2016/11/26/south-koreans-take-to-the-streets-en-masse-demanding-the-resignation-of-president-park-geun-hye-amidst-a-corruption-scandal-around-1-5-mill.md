@@ -15,7 +15,7 @@ Mass protests in capital Seoul and other provincial cities demand President Park
 
 ### Changes:
 
-1. [2016 South Korean protests: South Koreans take to the streets en masse demanding the resignation of President Park Geun-hye amidst a corruption scandal. Around 1.5 million people rallied in the capital Seoul, while another 400,000 people demonstrated in provincial cities. ](/news/2016/11/26/2016-south-korean-protests-south-koreans-take-to-the-streets-en-masse-demanding-the-resignation-of-president-park-geun-hye-amidst-a-corrupt.md) _2017-08-27 03:47:18 (First version)_
+1. [2016 South Korean protests: South Koreans take to the streets en masse demanding the resignation of President Park Geun-hye amidst a corruption scandal. Around 1.5 million people rallied in the capital Seoul, while another 400,000 people demonstrated in provincial cities. ](/news/2016/11/26/2016-south-korean-protests-south-koreans-take-to-the-streets-en-masse-demanding-the-resignation-of-president-park-geun-hye-amidst-a-corrupt.md) _2018-02-06 13:49:29 (First version)_
 1. [South Koreans take to the streets en masse demanding the resignation of President Park Geun-hye amidst a corruption scandal. Around 1.5 million people rallied in the capital Seoul, while another 400,000 people demonstrated in provincial cities. ](/news/2016/11/26/south-koreans-take-to-the-streets-en-masse-demanding-the-resignation-of-president-park-geun-hye-amidst-a-corruption-scandal-around-1-5-mill.md) _(Current version)_
 
 ### Related:

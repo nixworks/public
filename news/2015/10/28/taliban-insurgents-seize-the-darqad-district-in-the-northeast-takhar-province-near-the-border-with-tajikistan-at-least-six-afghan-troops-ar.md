@@ -18,7 +18,7 @@ Taliban insurgents overran a district in one of the northern Afghan provinces hi
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban insurgents seize the Darqad District in the northeast Takhar Province near the border with Tajikistan. At least six Afghan troops are killed in the fighting. ](/news/2015/10/28/war-in-afghanistan-2015-present-taliban-insurgents-seize-the-darqad-district-in-the-northeast-takhar-province-near-the-border-with-taji.md) _2017-08-27 03:43:34 (First version)_
+1. [War in Afghanistan (2015-present): Taliban insurgents seize the Darqad District in the northeast Takhar Province near the border with Tajikistan. At least six Afghan troops are killed in the fighting. ](/news/2015/10/28/war-in-afghanistan-2015-present-taliban-insurgents-seize-the-darqad-district-in-the-northeast-takhar-province-near-the-border-with-taji.md) _2018-02-06 13:49:28 (First version)_
 1. [Taliban insurgents seize the Darqad District in the northeast Takhar Province near the border with Tajikistan. At least six Afghan troops are killed in the fighting. ](/news/2015/10/28/taliban-insurgents-seize-the-darqad-district-in-the-northeast-takhar-province-near-the-border-with-tajikistan-at-least-six-afghan-troops-ar.md) _(Current version)_
 
 ### Related:

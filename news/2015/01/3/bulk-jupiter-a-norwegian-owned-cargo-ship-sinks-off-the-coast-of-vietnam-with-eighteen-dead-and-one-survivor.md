@@ -16,7 +16,7 @@ A Norwegian cargo ship with 19 crew members sank off the coast of Vietnam, with 
 
 ### Changes:
 
-1. [{{MS|Bulk Jupiter}}, a Norwegian-owned cargo ship, sinks off the coast of Vietnam, with eighteen dead and one survivor. ](/news/2015/01/3/ms-bulk-jupiter-a-norwegian-owned-cargo-ship-sinks-off-the-coast-of-vietnam-with-eighteen-dead-and-one-survivor.md) _2017-05-01 03:44:58 (First version)_
+1. [{{MS|Bulk Jupiter}}, a Norwegian-owned cargo ship, sinks off the coast of Vietnam, with eighteen dead and one survivor. ](/news/2015/01/3/ms-bulk-jupiter-a-norwegian-owned-cargo-ship-sinks-off-the-coast-of-vietnam-with-eighteen-dead-and-one-survivor.md) _2018-02-06 13:49:26 (First version)_
 1. [Bulk Jupiter, a Norwegian-owned cargo ship, sinks off the coast of Vietnam, with eighteen dead and one survivor. ](/news/2015/01/3/bulk-jupiter-a-norwegian-owned-cargo-ship-sinks-off-the-coast-of-vietnam-with-eighteen-dead-and-one-survivor.md) _(Current version)_
 
 ### Related:

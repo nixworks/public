@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-cr
 
 ### Changes:
 
-1. [War in Afghanistan: 8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/war-in-afghanistan-8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md) _2017-08-27 03:30:35 (First version)_
+1. [War in Afghanistan: 8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/war-in-afghanistan-8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md) _2018-02-06 13:49:20 (First version)_
 1. [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md) _(Current version)_
 
 ### Related:

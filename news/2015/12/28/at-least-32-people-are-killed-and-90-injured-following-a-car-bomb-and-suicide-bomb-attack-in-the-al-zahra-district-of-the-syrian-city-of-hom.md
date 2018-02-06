@@ -18,7 +18,7 @@ At least 32 people were killed and 90 wounded in two bomb explosions in the Syri
 
 ### Changes:
 
-1. [Syrian Civil War: At least 32 people are killed and 90 injured following a car bomb and suicide-bomb attack in the al-Zahra district of the Syrian city of Homs. ](/news/2015/12/28/syrian-civil-war-at-least-32-people-are-killed-and-90-injured-following-a-car-bomb-and-suicide-bomb-attack-in-the-al-zahra-district-of-the.md) _2017-08-27 03:44:32 (First version)_
+1. [Syrian Civil War: At least 32 people are killed and 90 injured following a car bomb and suicide-bomb attack in the al-Zahra district of the Syrian city of Homs. ](/news/2015/12/28/syrian-civil-war-at-least-32-people-are-killed-and-90-injured-following-a-car-bomb-and-suicide-bomb-attack-in-the-al-zahra-district-of-the.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 32 people are killed and 90 injured following a car bomb and suicide-bomb attack in the al-Zahra district of the Syrian city of Homs. ](/news/2015/12/28/at-least-32-people-are-killed-and-90-injured-following-a-car-bomb-and-suicide-bomb-attack-in-the-al-zahra-district-of-the-syrian-city-of-hom.md) _(Current version)_
 
 ### Related:

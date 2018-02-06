@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/27/turkish-armed-forces-claim-that-an-islamic-stat
 
 ### Changes:
 
-1. [Turkey-ISIL conflict: Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkey-isil-conflict-turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel.md) _2017-08-27 03:47:19 (First version)_
+1. [Turkey-ISIL conflict: Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkey-isil-conflict-turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel.md) _2018-02-06 13:49:29 (First version)_
 1. [Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel-forces-caused-symptoms.md) _(Current version)_
 
 ### Related:

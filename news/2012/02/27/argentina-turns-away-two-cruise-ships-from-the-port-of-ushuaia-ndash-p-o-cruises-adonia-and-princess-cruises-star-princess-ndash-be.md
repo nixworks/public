@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/02/27/argentina-turns-away-two-cruise-ships-from-the-
 
 ### Changes:
 
-1. [Argentina turns away two cruise ships from the port of Ushuaia &ndash; P&O Cruises ''Adonia'' and Princess Cruises' ''Star Princess'' &ndash; because the ships had earlier visited the Falkland Islands. ](/news/2012/02/27/argentina-turns-away-two-cruise-ships-from-the-port-of-ushuaia-ndash-p-o-cruises-adonia-and-princess-cruises-star-princess-ndash.md) _2017-08-25 03:35:09 (First version)_
+1. [Argentina turns away two cruise ships from the port of Ushuaia &ndash; P&O Cruises ''Adonia'' and Princess Cruises' ''Star Princess'' &ndash; because the ships had earlier visited the Falkland Islands. ](/news/2012/02/27/argentina-turns-away-two-cruise-ships-from-the-port-of-ushuaia-ndash-p-o-cruises-adonia-and-princess-cruises-star-princess-ndash.md) _2018-02-06 13:49:23 (First version)_
 1. [Argentina turns away two cruise ships from the port of Ushuaia &ndash; P&O Cruises "Adonia" and Princess Cruises' "Star Princess" &ndash; because the ships had earlier visited the Falkland Islands. ](/news/2012/02/27/argentina-turns-away-two-cruise-ships-from-the-port-of-ushuaia-ndash-p-o-cruises-adonia-and-princess-cruises-star-princess-ndash-be.md) _(Current version)_
 
 ### Related:

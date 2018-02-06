@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/18/a-study-in-the-medical-journal-the-lancet-state
 
 ### Changes:
 
-1. [A study in the medical journal ''The Lancet'' states that babies who are breastfed were more likely to have higher IQs, spend more time in school, and end up in higher-paying jobs. ](/news/2015/03/18/a-study-in-the-medical-journal-the-lancet-states-that-babies-who-are-breastfed-were-more-likely-to-have-higher-iqs-spend-more-time-in-s.md) _2017-08-25 03:41:47 (First version)_
+1. [A study in the medical journal ''The Lancet'' states that babies who are breastfed were more likely to have higher IQs, spend more time in school, and end up in higher-paying jobs. ](/news/2015/03/18/a-study-in-the-medical-journal-the-lancet-states-that-babies-who-are-breastfed-were-more-likely-to-have-higher-iqs-spend-more-time-in-s.md) _2018-02-06 13:49:26 (First version)_
 1. [A study in the medical journal "The Lancet" states that babies who are breastfed were more likely to have higher IQs, spend more time in school, and end up in higher-paying jobs. ](/news/2015/03/18/a-study-in-the-medical-journal-the-lancet-states-that-babies-who-are-breastfed-were-more-likely-to-have-higher-iqs-spend-more-time-in-sch.md) _(Current version)_
 
 ### Related:

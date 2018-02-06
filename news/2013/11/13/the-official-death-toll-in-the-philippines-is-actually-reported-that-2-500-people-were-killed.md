@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/13/the-official-death-toll-in-the-philippines-is-a
 
 ### Changes:
 
-1. [Typhoon Haiyan:The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-pthe-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md) _2017-08-25 03:39:31 (First version)_
-2. [Typhoon Haiyan:: The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-the-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md) _2017-08-27 03:39:49 (Update)_
+1. [Typhoon Haiyan:: The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-the-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-pthe-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md) _2018-02-06 13:49:25 (Update)_
 2. [The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/the-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md) _(Current version)_
 
 ### Related:

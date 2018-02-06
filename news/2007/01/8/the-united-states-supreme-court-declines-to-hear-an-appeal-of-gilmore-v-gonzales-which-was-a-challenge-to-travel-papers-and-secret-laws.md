@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear
 
 ### Changes:
 
-1. [ The United States Supreme Court declines to hear an appeal of ''Gilmore v. Gonzales'', which was a challenge to travel papers and secret laws. ](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear-an-appeal-of-gilmore-v-gonzales-which-was-a-challenge-to-travel-papers-and-secret-l.md) _2017-08-25 03:18:58 (First version)_
+1. [ The United States Supreme Court declines to hear an appeal of ''Gilmore v. Gonzales'', which was a challenge to travel papers and secret laws. ](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear-an-appeal-of-gilmore-v-gonzales-which-was-a-challenge-to-travel-papers-and-secret-l.md) _2018-02-06 13:49:17 (First version)_
 1. [ The United States Supreme Court declines to hear an appeal of "Gilmore v. Gonzales", which was a challenge to travel papers and secret laws. ](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear-an-appeal-of-gilmore-v-gonzales-which-was-a-challenge-to-travel-papers-and-secret-laws.md) _(Current version)_
 
 ### Related:

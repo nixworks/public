@@ -16,7 +16,7 @@ Typhoon Melor roared through the storm-scarred central islands of the country on
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/2015-pacific-typhoon-season-typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had.md) _2017-08-27 03:44:22 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/2015-pacific-typhoon-season-typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had.md) _2018-02-06 13:49:28 (First version)_
 1. [Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had-been-evacuated-ahead-of-the-s.md) _(Current version)_
 
 ### Related:

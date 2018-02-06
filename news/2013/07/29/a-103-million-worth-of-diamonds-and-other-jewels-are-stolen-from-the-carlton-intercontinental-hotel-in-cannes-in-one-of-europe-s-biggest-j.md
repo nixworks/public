@@ -16,7 +16,7 @@ An armed man who burst into a hotel in Cannes has stolen jewels worth €103m, p
 
 ### Changes:
 
-1. [-103 million worth of diamonds and other jewels are stolen from the Carlton Intercontinental Hotel in Cannes, in one of Europe's biggest jewelry heists in recent years. ](/news/2013/07/29/103-million-worth-of-diamonds-and-other-jewels-are-stolen-from-the-carlton-intercontinental-hotel-in-cannes-in-one-of-europe-s-biggest-j.md) _2017-08-27 03:39:19 (First version)_
+1. [-103 million worth of diamonds and other jewels are stolen from the Carlton Intercontinental Hotel in Cannes, in one of Europe's biggest jewelry heists in recent years. ](/news/2013/07/29/103-million-worth-of-diamonds-and-other-jewels-are-stolen-from-the-carlton-intercontinental-hotel-in-cannes-in-one-of-europe-s-biggest-j.md) _2018-02-06 13:49:25 (First version)_
 1. [EUR103 million worth of diamonds and other jewels are stolen from the Carlton Intercontinental Hotel in Cannes, in one of Europe's biggest jewelry heists in recent years. ](/news/2013/07/29/a-103-million-worth-of-diamonds-and-other-jewels-are-stolen-from-the-carlton-intercontinental-hotel-in-cannes-in-one-of-europe-s-biggest-j.md) _(Current version)_
 
 ### Related:

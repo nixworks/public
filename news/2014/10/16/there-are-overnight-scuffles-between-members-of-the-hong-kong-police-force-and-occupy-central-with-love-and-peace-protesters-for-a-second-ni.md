@@ -16,7 +16,7 @@ Police and protesters in Hong Kong scuffle for a second night as a group of demo
 
 ### Changes:
 
-1. [2014 Hong Kong protests: There are overnight scuffles between members of the Hong Kong Police Force and Occupy Central with Love and Peace protesters for a second night. ](/news/2014/10/16/2014-hong-kong-protests-there-are-overnight-scuffles-between-members-of-the-hong-kong-police-force-and-occupy-central-with-love-and-peace-p.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Hong Kong protests: There are overnight scuffles between members of the Hong Kong Police Force and Occupy Central with Love and Peace protesters for a second night. ](/news/2014/10/16/2014-hong-kong-protests-there-are-overnight-scuffles-between-members-of-the-hong-kong-police-force-and-occupy-central-with-love-and-peace-p.md) _2018-02-06 13:49:26 (First version)_
 1. [There are overnight scuffles between members of the Hong Kong Police Force and Occupy Central with Love and Peace protesters for a second night. ](/news/2014/10/16/there-are-overnight-scuffles-between-members-of-the-hong-kong-police-force-and-occupy-central-with-love-and-peace-protesters-for-a-second-ni.md) _(Current version)_
 
 ### Related:

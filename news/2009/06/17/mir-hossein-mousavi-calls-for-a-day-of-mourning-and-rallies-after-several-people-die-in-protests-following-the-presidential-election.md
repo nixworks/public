@@ -20,8 +20,8 @@ The Iranian soccer team made a political statement in World Cup qualifying, but 
 
 ### Changes:
 
-1. [ 2009 Iranian election protests: Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/2009-iranian-election-protests-p-mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following.md) _2017-08-25 03:24:54 (First version)_
-2. [ 2009 Iranian election protests:: Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/2009-iranian-election-protests-mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following.md) _2017-08-27 03:24:45 (Update)_
+1. [ 2009 Iranian election protests: Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/2009-iranian-election-protests-p-mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following.md) _2018-02-06 13:49:19 (First version)_
+2. [ 2009 Iranian election protests:: Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/2009-iranian-election-protests-mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following.md) _2018-02-06 13:49:19 (Update)_
 2. [ Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following-the-presidential-election.md) _(Current version)_
 
 ### Related:

@@ -16,9 +16,9 @@ Formats: [HTML](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab
 
 ### Changes:
 
-1. [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country and deadly protests in Kasur city.](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-and-deadly-protests-in-kasur-city.md) _2018-01-11 11:30:05 (First version)_
-2. [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md) _2018-01-11 12:30:05 (Update)_
-3. [The rape and murder of an eight-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur.md) _2018-01-11 23:30:05 (Update)_
+1. [The rape and murder of an eight-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur.md) _2018-02-06 13:49:31 (First version)_
+2. [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md) _2018-02-06 13:49:31 (Update)_
+3. [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country and deadly protests in Kasur city.](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-and-deadly-protests-in-kasur-city.md) _2018-02-06 13:49:31 (Update)_
 3. [The rape and murder of six-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md) _(Current version)_
 
 ### Related:

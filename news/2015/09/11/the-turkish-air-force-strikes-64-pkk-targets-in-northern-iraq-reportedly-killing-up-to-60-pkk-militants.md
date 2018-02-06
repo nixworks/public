@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in
 
 ### Changes:
 
-1. [Turkey-PKK conflict: The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/turkey-pkk-conflict-the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md) _2017-08-27 03:43:01 (First version)_
+1. [Turkey-PKK conflict: The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/turkey-pkk-conflict-the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md) _2018-02-06 13:49:27 (First version)_
 1. [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that k
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-t.md) _2017-08-27 03:44:40 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-t.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _(Current version)_
 
 ### Related:

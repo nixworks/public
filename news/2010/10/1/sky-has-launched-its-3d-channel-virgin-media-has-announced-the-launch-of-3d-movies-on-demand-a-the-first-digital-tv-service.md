@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has
 
 ### Changes:
 
-1. [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-the-first-digital-tv-service.md) _2017-08-27 03:30:23 (First version)_
+1. [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-the-first-digital-tv-service.md) _2018-02-06 13:49:20 (First version)_
 1. [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-a-the-first-digital-tv-service.md) _(Current version)_
 
 ### Related:

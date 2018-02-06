@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/19/the-u-s-treasury-department-confirmed-that-10-b
 
 ### Changes:
 
-1. [ The U.S. Treasury Department confirmed that 10 big banks have met the necessary requirements to repay funds that they have received-a total of $58 billion-in the Troubled Asset Relief Program of October 2008. ](/news/2009/06/19/the-u-s-treasury-department-confirmed-that-10-big-banks-have-met-the-necessary-requirements-to-repay-funds-that-they-have-received-a-tot.md) _2017-08-27 03:24:47 (First version)_
+1. [ The U.S. Treasury Department confirmed that 10 big banks have met the necessary requirements to repay funds that they have received-a total of $58 billion-in the Troubled Asset Relief Program of October 2008. ](/news/2009/06/19/the-u-s-treasury-department-confirmed-that-10-big-banks-have-met-the-necessary-requirements-to-repay-funds-that-they-have-received-a-tot.md) _2018-02-06 13:49:19 (First version)_
 1. [ The U.S. Treasury Department confirmed that 10 big banks have met the necessary requirements to repay funds that they have received--a total of $58 billion--in the Troubled Asset Relief Program of October 2008. ](/news/2009/06/19/the-u-s-treasury-department-confirmed-that-10-big-banks-have-met-the-necessary-requirements-to-repay-funds-that-they-have-receivedaa-tot.md) _(Current version)_
 
 ### Related:

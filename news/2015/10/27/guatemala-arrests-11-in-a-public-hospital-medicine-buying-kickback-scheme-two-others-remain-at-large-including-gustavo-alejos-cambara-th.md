@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medic
 
 ### Changes:
 
-1. [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-t.md) _2017-08-25 03:43:14 (First version)_
+1. [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-th.md) _(Current version)_
 
 ### Related:

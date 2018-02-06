@@ -21,7 +21,7 @@ At least seven people are dead and many are missing as the floods on the island 
 
 ##### Torre Annunziata
 ### [A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-italian-city-of-naples-with-six-or-seven-people-trapped-ins.md)
-_Context: Naples, Torre Annunziata, Italy_
+_Context: Torre Annunziata, Italy, Naples_
 
 ##### 2017 G20 Hamburg summit
 ### [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md)
@@ -41,7 +41,7 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 
 ##### United States Attorney General
 ### [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md)
-_Context: Dan Coats, Jeff Sessions, Deputy Attorney General, United States Attorney General, National Intelligence Director, Guantanamo Bay Detention Camp, Rod Rosenstein_
+_Context: Guantanamo Bay Detention Camp, Dan Coats, United States Attorney General, Rod Rosenstein, Deputy Attorney General, National Intelligence Director, Jeff Sessions_
 
 ##### Legal challenges to Executive Order 13780
 ### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
@@ -49,7 +49,7 @@ _Context: Donald Trump, United States Court of Appeals for the Ninth Circuit, Ex
 
 ##### Panama
 ### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
-_Context: illegally monitoring, Ricardo Martinelli, Edwin Torres, Miami, bond, Panama, United States magistrate judge, warrant_
+_Context: Miami, bond, illegally monitoring, warrant, Panama, Edwin Torres, United States magistrate judge, Ricardo Martinelli_
 
 ##### Mongolian presidential election, 2017
 ### [Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-second-round-defeating-former-prime-minis.md)
@@ -61,11 +61,11 @@ With many Venezuelans angry at the government and planning to sit out a July 30 
 
 ##### Yemeni Civil War
 ### [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md)
-_Context: Yemen, Yemeni Civil War, Aden Governorate, Aidarus al-Zoubaidi, Aden_
+_Context: Aidarus al-Zoubaidi, Aden, Yemen, Yemeni Civil War, Aden Governorate_
 
 ##### Renewable energy in Australia
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
-_Context: lithium-ion battery, Renewable energy in Australia, South Australia, Mira Loma, California, Tesla, megawatt-hour, Elon Musk_
+_Context: South Australia, megawatt-hour, Renewable energy in Australia, Elon Musk, lithium-ion battery, California, Tesla, Mira Loma_
 
 ## [Previous Day...](/news/2017/07/6/index.md)
 

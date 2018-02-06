@@ -16,8 +16,8 @@ Five soldiers were killed and two others were wounded yesterday during pursuit o
 
 ### Changes:
 
-1. [Communist insurgency in the Philippines:New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/communist-insurgency-in-the-philippines-pnew-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefigh.md) _2017-08-25 03:38:33 (First version)_
-2. [Communist insurgency in the Philippines:: New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/communist-insurgency-in-the-philippines-new-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefig.md) _2017-08-27 03:38:47 (Update)_
+1. [Communist insurgency in the Philippines:New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/communist-insurgency-in-the-philippines-pnew-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefigh.md) _2018-02-06 13:49:25 (First version)_
+2. [Communist insurgency in the Philippines:: New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/communist-insurgency-in-the-philippines-new-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefig.md) _2018-02-06 13:49:25 (Update)_
 2. [New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/new-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefight-ensues-leaving-five-soldiers-dead-and-t.md) _(Current version)_
 
 ### Related:

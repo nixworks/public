@@ -16,7 +16,7 @@ Police have killed four terrorists, and arrested seven more, as a manhunt contin
 
 ### Changes:
 
-1. [ 2016 Aktobe shootings: Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. ](/news/2016/06/5/2016-aktobe-shootings-three-people-are-killed-and-10-more-are-injured-following-an-attack-on-a-military-base-in-aktobe-kazakhstan-by-sus.md) _2017-08-27 03:46:12 (First version)_
+1. [ 2016 Aktobe shootings: Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. ](/news/2016/06/5/2016-aktobe-shootings-three-people-are-killed-and-10-more-are-injured-following-an-attack-on-a-military-base-in-aktobe-kazakhstan-by-sus.md) _2018-02-06 13:49:29 (First version)_
 1. [ Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. ](/news/2016/06/5/three-people-are-killed-and-10-more-are-injured-following-an-attack-on-a-military-base-in-aktobe-kazakhstan-by-suspected-islamists.md) _(Current version)_
 
 ### Related:

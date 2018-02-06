@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62
 
 ### Changes:
 
-1. [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist-the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyist-the-new-york-yankees.md) _2017-08-27 03:31:36 (First version)_
+1. [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist-the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyist-the-new-york-yankees.md) _2018-02-06 13:49:21 (First version)_
 1. [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist--the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyistathe-new-york-yankees.md) _(Current version)_
 
 ### Related:

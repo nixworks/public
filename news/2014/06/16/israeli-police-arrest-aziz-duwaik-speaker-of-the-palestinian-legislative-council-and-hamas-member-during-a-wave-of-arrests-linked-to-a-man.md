@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-th
 
 ### Changes:
 
-1. [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member, during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-ma.md) _2017-08-25 03:40:34 (First version)_
+1. [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member, during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-ma.md) _2018-02-06 13:49:26 (First version)_
 1. [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member, during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-man.md) _(Current version)_
 
 ### Related:

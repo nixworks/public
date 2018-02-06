@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kil
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/islamic-state-in-iraq-and-the-levant-syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md) _2017-08-27 03:41:33 (First version)_
+1. [Islamic State in Iraq and the Levant: Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/islamic-state-in-iraq-and-the-levant-syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md) _2018-02-06 13:49:26 (First version)_
 1. [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Fred has dissipated after impacting the Republic of Cabo Verde last week.
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Tropical Storm Fred's predicted track will turn northeast toward the Azores islands off the coast of Portugal as a Tropical Depression. ](/news/2015/09/4/2015-atlantic-hurricane-season-tropical-storm-fred-s-predicted-track-will-turn-northeast-toward-the-azores-islands-off-the-coast-of-portuga.md) _2017-08-27 03:42:58 (First version)_
+1. [2015 Atlantic hurricane season: Tropical Storm Fred's predicted track will turn northeast toward the Azores islands off the coast of Portugal as a Tropical Depression. ](/news/2015/09/4/2015-atlantic-hurricane-season-tropical-storm-fred-s-predicted-track-will-turn-northeast-toward-the-azores-islands-off-the-coast-of-portuga.md) _2018-02-06 13:49:27 (First version)_
 1. [Tropical Storm Fred's predicted track will turn northeast toward the Azores islands off the coast of Portugal as a Tropical Depression. ](/news/2015/09/4/tropical-storm-fred-s-predicted-track-will-turn-northeast-toward-the-azores-islands-off-the-coast-of-portugal-as-a-tropical-depression.md) _(Current version)_
 
 ### Related:

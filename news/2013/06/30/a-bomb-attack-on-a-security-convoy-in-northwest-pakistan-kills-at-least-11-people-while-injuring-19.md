@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/06/30/a-bomb-attack-on-a-security-convoy-in-northwest
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/war-in-north-west-pakistan-pa-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md) _2017-08-25 03:38:55 (First version)_
-2. [War in North-West Pakistan:: A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/war-in-north-west-pakistan-a-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md) _2017-08-27 03:39:10 (Update)_
+1. [War in North-West Pakistan:A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/war-in-north-west-pakistan-pa-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/war-in-north-west-pakistan-a-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/a-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md) _(Current version)_
 
 ### Related:

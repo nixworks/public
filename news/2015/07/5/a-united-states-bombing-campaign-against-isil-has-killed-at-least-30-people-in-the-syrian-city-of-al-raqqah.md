@@ -16,7 +16,7 @@ Syrian government forces backed by fighters from Lebanon&#x27;s Hezbollah entere
 
 ### Changes:
 
-1. [American-led intervention in Syria: A United States bombing campaign against ISIL has killed at least 30 people in the Syrian city of Al-Raqqah. ](/news/2015/07/5/american-led-intervention-in-syria-a-united-states-bombing-campaign-against-isil-has-killed-at-least-30-people-in-the-syrian-city-of-al-raq.md) _2017-08-27 03:42:39 (First version)_
+1. [American-led intervention in Syria: A United States bombing campaign against ISIL has killed at least 30 people in the Syrian city of Al-Raqqah. ](/news/2015/07/5/american-led-intervention-in-syria-a-united-states-bombing-campaign-against-isil-has-killed-at-least-30-people-in-the-syrian-city-of-al-raq.md) _2018-02-06 13:49:27 (First version)_
 1. [A United States bombing campaign against ISIL has killed at least 30 people in the Syrian city of Al-Raqqah. ](/news/2015/07/5/a-united-states-bombing-campaign-against-isil-has-killed-at-least-30-people-in-the-syrian-city-of-al-raqqah.md) _(Current version)_
 
 ### Related:

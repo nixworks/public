@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/12/13/zanuapf-the-ruling-party-in-zimbabwe-endorses-i
 
 ### Changes:
 
-1. [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanu-pf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md) _2017-08-27 03:21:30 (First version)_
+1. [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanu-pf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md) _2018-02-06 13:49:18 (First version)_
 1. [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanuapf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Homemade bomb in government construction site on outskirts of Cairo cuts off mob
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt: A homemade bomb placed in a government construction site in 6th of October City exploded, killing a girl and wounding her mother. ](/news/2014/06/28/post-coup-unrest-in-egypt-a-homemade-bomb-placed-in-a-government-construction-site-in-6th-of-october-city-exploded-killing-a-girl-and-woun.md) _2017-08-27 03:40:54 (First version)_
+1. [Post-coup unrest in Egypt: A homemade bomb placed in a government construction site in 6th of October City exploded, killing a girl and wounding her mother. ](/news/2014/06/28/post-coup-unrest-in-egypt-a-homemade-bomb-placed-in-a-government-construction-site-in-6th-of-october-city-exploded-killing-a-girl-and-woun.md) _2018-02-06 13:49:26 (First version)_
 1. [A homemade bomb placed in a government construction site in 6th of October City exploded, killing a girl and wounding her mother. ](/news/2014/06/28/a-homemade-bomb-placed-in-a-government-construction-site-in-6th-of-october-city-exploded-killing-a-girl-and-wounding-her-mother.md) _(Current version)_
 
 ### Related:

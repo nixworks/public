@@ -17,7 +17,7 @@ Hillary Clinton&#039;s campaign was caught up in the cyberattacks on Democrats, 
 
 ### Changes:
 
-1. [The American Federal Bureau of Investigation is investigating claims that the Hillary Clinton campaign has been hacked as part of recent cyber-attacks on the Democrats. ](/news/2016/07/29/the-american-federal-bureau-of-investigation-is-investigating-claims-that-the-hillary-clinton-campaign-has-been-hacked-as-part-of-recent-cy.md) _2017-08-25 03:46:12 (First version)_
+1. [The American Federal Bureau of Investigation is investigating claims that the Hillary Clinton campaign has been hacked as part of recent cyber-attacks on the Democrats. ](/news/2016/07/29/the-american-federal-bureau-of-investigation-is-investigating-claims-that-the-hillary-clinton-campaign-has-been-hacked-as-part-of-recent-cy.md) _2018-02-06 13:49:29 (First version)_
 1. [The American Federal Bureau of Investigation is investigating claims that the Hillary Clinton campaign has been hacked as part of recent cyber-attacks on the Democrats. ](/news/2016/07/29/the-american-federal-bureau-of-investigation-is-investigating-claims-that-the-hillary-clinton-campaign-has-been-hacked-as-part-of-recent-cyb.md) _(Current version)_
 
 ### Related:

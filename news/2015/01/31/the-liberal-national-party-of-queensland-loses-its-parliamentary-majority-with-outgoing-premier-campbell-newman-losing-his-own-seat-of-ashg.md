@@ -16,7 +16,7 @@ Labor looks set to pull off a stunning victory in a cliffhanger Queensland elect
 
 ### Changes:
 
-1. [Queensland state election, 2015: The Liberal National Party of Queensland loses its parliamentary majority, with outgoing Premier Campbell Newman losing his own seat of Ashgrove. It is unclear whether the Australian Labor Party, led by Annastacia Palaszczuk, has won an outright majority or if the result is a hung parliament.](/news/2015/01/31/queensland-state-election-2015-the-liberal-national-party-of-queensland-loses-its-parliamentary-majority-with-outgoing-premier-campbell-n.md) _2017-08-27 03:41:52 (First version)_
+1. [Queensland state election, 2015: The Liberal National Party of Queensland loses its parliamentary majority, with outgoing Premier Campbell Newman losing his own seat of Ashgrove. It is unclear whether the Australian Labor Party, led by Annastacia Palaszczuk, has won an outright majority or if the result is a hung parliament.](/news/2015/01/31/queensland-state-election-2015-the-liberal-national-party-of-queensland-loses-its-parliamentary-majority-with-outgoing-premier-campbell-n.md) _2018-02-06 13:49:26 (First version)_
 1. [The Liberal National Party of Queensland loses its parliamentary majority, with outgoing Premier Campbell Newman losing his own seat of Ashgrove. It is unclear whether the Australian Labor Party, led by Annastacia Palaszczuk, has won an outright majority or if the result is a hung parliament.](/news/2015/01/31/the-liberal-national-party-of-queensland-loses-its-parliamentary-majority-with-outgoing-premier-campbell-newman-losing-his-own-seat-of-ashg.md) _(Current version)_
 
 ### Related:

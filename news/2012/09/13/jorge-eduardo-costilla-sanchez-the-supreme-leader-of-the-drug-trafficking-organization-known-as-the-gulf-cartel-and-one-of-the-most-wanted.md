@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/09/13/jorge-eduardo-costilla-sanchez-the-supreme-lead
 
 ### Changes:
 
-1. [Mexican Drug War: Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/mexican-drug-war-jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-o.md) _2017-08-27 03:36:40 (First version)_
+1. [Mexican Drug War: Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/mexican-drug-war-jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-o.md) _2018-02-06 13:49:23 (First version)_
 1. [Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-of-the-most-wanted.md) _(Current version)_
 
 ### Related:

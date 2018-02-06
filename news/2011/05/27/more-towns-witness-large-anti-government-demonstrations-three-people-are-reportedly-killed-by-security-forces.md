@@ -17,6 +17,6 @@ Formats: [HTML](/news/2011/05/27/more-towns-witness-large-anti-government-demons
 
 ### Changes:
 
-1. [2011 Syrian protests:More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/2011-syrian-protests-pmore-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md) _2017-08-25 03:33:16 (First version)_
-2. [2011 Syrian protests:: More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/2011-syrian-protests-more-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md) _2017-08-27 03:33:26 (Update)_
+1. [2011 Syrian protests:More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/2011-syrian-protests-pmore-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:: More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/2011-syrian-protests-more-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md) _2018-02-06 13:49:22 (Update)_
 2. [More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/more-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md) _(Current version)_

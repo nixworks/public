@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bo
 
 ### Changes:
 
-1. [ Watergate papers of ''Washington Post'' reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-stil.md) _2017-08-25 03:15:37 (First version)_
+1. [ Watergate papers of ''Washington Post'' reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-stil.md) _2018-02-06 13:49:16 (First version)_
 1. [ Watergate papers of "Washington Post" reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-still.md) _(Current version)_
 
 ### Related:

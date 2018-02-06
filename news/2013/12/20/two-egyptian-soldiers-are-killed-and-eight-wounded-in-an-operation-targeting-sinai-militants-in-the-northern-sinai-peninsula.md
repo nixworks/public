@@ -16,8 +16,8 @@ A security official in Egypt says clashes between soldiers and wanted al-Qaida-i
 
 ### Changes:
 
-1. [Sinai insurgency:Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/sinai-insurgency-ptwo-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsu.md) _2017-08-25 03:39:45 (First version)_
-2. [Sinai insurgency:: Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/sinai-insurgency-two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-penins.md) _2017-08-27 03:40:03 (Update)_
+1. [Sinai insurgency:: Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/sinai-insurgency-two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-penins.md) _2018-02-06 13:49:25 (First version)_
+2. [Sinai insurgency:Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/sinai-insurgency-ptwo-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsu.md) _2018-02-06 13:49:25 (Update)_
 2. [Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsula.md) _(Current version)_
 
 ### Related:

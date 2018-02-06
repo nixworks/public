@@ -16,7 +16,7 @@ The group searching for HMAS Sydney has found the wreckage of the World War II A
 
 ### Changes:
 
-1. [ World War II Royal Australian Navy warship HMAS ''Sydney'' is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-year.md) _2017-08-25 03:21:56 (First version)_
+1. [ World War II Royal Australian Navy warship HMAS ''Sydney'' is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-year.md) _2018-02-06 13:49:18 (First version)_
 1. [ World War II Royal Australian Navy warship HMAS "Sydney" is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-years.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/12/9/the-crew-of-the-space-shuttle-endeavour-complete
 
 ### Changes:
 
-1. [The crew of the space shuttle ''Endeavour'' complete the final transfers of supplies to the International Space Station and other items being returned to Earth, and undock from the space station after 6 days, 23 hours and 13 minutes.](/news/2000/12/9/the-crew-of-the-space-shuttle-endeavour-complete-the-final-transfers-of-supplies-to-the-international-space-station-and-other-items-bein.md) _2017-08-25 03:15:09 (First version)_
+1. [The crew of the space shuttle ''Endeavour'' complete the final transfers of supplies to the International Space Station and other items being returned to Earth, and undock from the space station after 6 days, 23 hours and 13 minutes.](/news/2000/12/9/the-crew-of-the-space-shuttle-endeavour-complete-the-final-transfers-of-supplies-to-the-international-space-station-and-other-items-bein.md) _2018-02-06 13:49:15 (First version)_
 1. [The crew of the space shuttle "Endeavour" complete the final transfers of supplies to the International Space Station and other items being returned to Earth, and undock from the space station after 6 days, 23 hours and 13 minutes.](/news/2000/12/9/the-crew-of-the-space-shuttle-endeavour-complete-the-final-transfers-of-supplies-to-the-international-space-station-and-other-items-being.md) _(Current version)_
 
 ### Related:

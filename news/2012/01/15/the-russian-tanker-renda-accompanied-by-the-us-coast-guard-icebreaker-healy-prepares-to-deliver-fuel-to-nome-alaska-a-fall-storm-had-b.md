@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-
 
 ### Changes:
 
-1. [The Russian tanker ''Renda'', accompanied by the US Coast Guard icebreaker {{USCGC|Healy}}, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-uscgc-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall.md) _2017-05-01 03:37:18 (First version)_
-2. [The Russian tanker ''Renda'', accompanied by the US Coast Guard icebreaker Healy, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall-storm-had.md) _2017-08-25 03:34:51 (Update)_
+1. [The Russian tanker ''Renda'', accompanied by the US Coast Guard icebreaker {{USCGC|Healy}}, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-uscgc-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall.md) _2018-02-06 13:49:23 (First version)_
+2. [The Russian tanker ''Renda'', accompanied by the US Coast Guard icebreaker Healy, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall-storm-had.md) _2018-02-06 13:49:23 (Update)_
 2. [The Russian tanker "Renda", accompanied by the US Coast Guard icebreaker Healy, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall-storm-had-b.md) _(Current version)_
 
 ### Related:

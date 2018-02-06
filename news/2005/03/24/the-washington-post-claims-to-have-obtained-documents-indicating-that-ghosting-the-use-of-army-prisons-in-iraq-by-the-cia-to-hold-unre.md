@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/03/24/the-washington-post-claims-to-have-obtained-doc
 
 ### Changes:
 
-1. [ The ''Washington Post'' claims to have obtained documents indicating that "ghosting", the use of Army prisons in Iraq by the CIA to hold unregistered inmates, is "systematic and known to three senior intelligence officials", contradicting earlier claims by the Army that such incidences were rare and ad hoc. ](/news/2005/03/24/the-washington-post-claims-to-have-obtained-documents-indicating-that-ghosting-the-use-of-army-prisons-in-iraq-by-the-cia-to-hold-un.md) _2017-08-25 03:15:50 (First version)_
+1. [ The ''Washington Post'' claims to have obtained documents indicating that "ghosting", the use of Army prisons in Iraq by the CIA to hold unregistered inmates, is "systematic and known to three senior intelligence officials", contradicting earlier claims by the Army that such incidences were rare and ad hoc. ](/news/2005/03/24/the-washington-post-claims-to-have-obtained-documents-indicating-that-ghosting-the-use-of-army-prisons-in-iraq-by-the-cia-to-hold-un.md) _2018-02-06 13:49:16 (First version)_
 1. [ The "Washington Post" claims to have obtained documents indicating that "ghosting", the use of Army prisons in Iraq by the CIA to hold unregistered inmates, is "systematic and known to three senior intelligence officials", contradicting earlier claims by the Army that such incidences were rare and ad hoc. ](/news/2005/03/24/the-washington-post-claims-to-have-obtained-documents-indicating-that-ghosting-the-use-of-army-prisons-in-iraq-by-the-cia-to-hold-unre.md) _(Current version)_
 
 ### Related:

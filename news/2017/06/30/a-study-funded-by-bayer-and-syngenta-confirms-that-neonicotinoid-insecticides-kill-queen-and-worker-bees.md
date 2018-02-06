@@ -16,8 +16,8 @@ A huge new study conducted in 33 sites across Europe finds that seeds coated wit
 
 ### Changes:
 
-1. [A study funded by Bayer and Syngenta confirms that neonicotinoids kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoids-kill-queen-and-worker-bees.md) _2017-06-30 16:30:07 (First version)_
-2. [Colony collapse disorder: A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/colony-collapse-disorder-a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md) _2017-08-27 03:48:35 (Update)_
+1. [Colony collapse disorder: A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/colony-collapse-disorder-a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md) _2018-02-06 13:49:30 (First version)_
+2. [A study funded by Bayer and Syngenta confirms that neonicotinoids kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoids-kill-queen-and-worker-bees.md) _2018-02-06 13:49:30 (Update)_
 2. [A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md) _(Current version)_
 
 ### Related:

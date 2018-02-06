@@ -18,8 +18,8 @@ The northern Sudanese army is in control of Abyei on the border with South Sudan
 
 ### Changes:
 
-1. [Sudanese invasion of Abyei:Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/sudanese-invasion-of-abyei-psouthern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md) _2017-08-25 03:33:12 (First version)_
-2. [Sudanese invasion of Abyei:: Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/sudanese-invasion-of-abyei-southern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md) _2017-08-27 03:33:22 (Update)_
+1. [Sudanese invasion of Abyei:: Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/sudanese-invasion-of-abyei-southern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md) _2018-02-06 13:49:22 (First version)_
+2. [Sudanese invasion of Abyei:Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/sudanese-invasion-of-abyei-psouthern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md) _2018-02-06 13:49:22 (Update)_
 2. [Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/southern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md) _(Current version)_
 
 ### Related:

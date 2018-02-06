@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/27/a-car-bomb-explodes-in-the-central-district-of-
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon:A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-pa-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-f.md) _2017-08-25 03:39:46 (First version)_
-2. [Syrian Civil War spillover in Lebanon:: A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-a-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the.md) _2017-08-27 03:40:05 (Update)_
+1. [Syrian Civil War spillover in Lebanon:A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-pa-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-f.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-a-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the.md) _2018-02-06 13:49:25 (Update)_
 2. [A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/a-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-former-ambassador-to-the-u-s-mohamad-ch.md) _(Current version)_
 
 ### Related:

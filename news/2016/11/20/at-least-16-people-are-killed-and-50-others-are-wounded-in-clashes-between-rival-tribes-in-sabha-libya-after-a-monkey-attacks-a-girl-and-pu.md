@@ -17,7 +17,7 @@ At least 16 people died and 50 were wounded in Libya in four days of clashes bet
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): At least 16 people are killed and 50 others are wounded in clashes between rival tribes in Sabha, Libya after a monkey attacks a girl and pulls off her headscarf. ](/news/2016/11/20/libyan-civil-war-2014-present-at-least-16-people-are-killed-and-50-others-are-wounded-in-clashes-between-rival-tribes-in-sabha-libya-a.md) _2017-08-27 03:47:16 (First version)_
+1. [Libyan Civil War (2014-present): At least 16 people are killed and 50 others are wounded in clashes between rival tribes in Sabha, Libya after a monkey attacks a girl and pulls off her headscarf. ](/news/2016/11/20/libyan-civil-war-2014-present-at-least-16-people-are-killed-and-50-others-are-wounded-in-clashes-between-rival-tribes-in-sabha-libya-a.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 16 people are killed and 50 others are wounded in clashes between rival tribes in Sabha, Libya after a monkey attacks a girl and pulls off her headscarf. ](/news/2016/11/20/at-least-16-people-are-killed-and-50-others-are-wounded-in-clashes-between-rival-tribes-in-sabha-libya-after-a-monkey-attacks-a-girl-and-pu.md) _(Current version)_
 
 ### Related:

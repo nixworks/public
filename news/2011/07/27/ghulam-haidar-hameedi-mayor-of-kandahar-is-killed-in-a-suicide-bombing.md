@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/07/27/ghulam-haidar-hameedi-mayor-of-kandahar-is-kill
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/war-in-afghanistan-2001apresent-pghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md) _2017-08-25 03:33:53 (First version)_
-2. [War in Afghanistan (2001-present):: Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/war-in-afghanistan-2001-present-ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md) _2017-08-27 03:34:00 (Update)_
+1. [War in Afghanistan (2001-present):Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/war-in-afghanistan-2001apresent-pghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan (2001-present):: Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/war-in-afghanistan-2001-present-ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md) _2018-02-06 13:49:22 (Update)_
 2. [Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A deal on legislation to ban gun sales to suspected terrorists still looks unlik
 
 ### Changes:
 
-1. [Senator Murphy gun control filibuster: United States Senator Chris Murphy (D-Conn) launches a filibuster on the Senate floor in an effort to pass gun control legislation in the wake of the 2016 Orlando nightclub shooting. ](/news/2016/06/15/senator-murphy-gun-control-filibuster-united-states-senator-chris-murphy-d-conn-launches-a-filibuster-on-the-senate-floor-in-an-effort-to.md) _2017-08-27 03:46:16 (First version)_
+1. [Senator Murphy gun control filibuster: United States Senator Chris Murphy (D-Conn) launches a filibuster on the Senate floor in an effort to pass gun control legislation in the wake of the 2016 Orlando nightclub shooting. ](/news/2016/06/15/senator-murphy-gun-control-filibuster-united-states-senator-chris-murphy-d-conn-launches-a-filibuster-on-the-senate-floor-in-an-effort-to.md) _2018-02-06 13:49:29 (First version)_
 1. [United States Senator Chris Murphy (D-Conn) launches a filibuster on the Senate floor in an effort to pass gun control legislation in the wake of the 2016 Orlando nightclub shooting. ](/news/2016/06/15/united-states-senator-chris-murphy-d-conn-launches-a-filibuster-on-the-senate-floor-in-an-effort-to-pass-gun-control-legislation-in-the-wa.md) _(Current version)_
 
 ### Related:

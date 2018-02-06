@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/24/at-least-14-people-have-been-killed-in-suicide-
 
 ### Changes:
 
-1. [Iraqi Civil War: At least 14 people have been killed in suicide bombing attacks in Baghdad. ](/news/2016/04/24/iraqi-civil-war-at-least-14-people-have-been-killed-in-suicide-bombing-attacks-in-baghdad.md) _2017-08-27 03:45:48 (First version)_
+1. [Iraqi Civil War: At least 14 people have been killed in suicide bombing attacks in Baghdad. ](/news/2016/04/24/iraqi-civil-war-at-least-14-people-have-been-killed-in-suicide-bombing-attacks-in-baghdad.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 14 people have been killed in suicide bombing attacks in Baghdad. ](/news/2016/04/24/at-least-14-people-have-been-killed-in-suicide-bombing-attacks-in-baghdad.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Parties in the Spanish region of Catalonia agree to hold a referendum on indepen
 
 ### Changes:
 
-1. [Catalan self-determination referendum:The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/catalan-self-determination-referendum-pthe-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md) _2017-08-25 03:39:40 (First version)_
-2. [Catalan self-determination referendum:: The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/catalan-self-determination-referendum-the-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md) _2017-08-27 03:39:58 (Update)_
+1. [Catalan self-determination referendum:: The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/catalan-self-determination-referendum-the-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md) _2018-02-06 13:49:25 (First version)_
+2. [Catalan self-determination referendum:The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/catalan-self-determination-referendum-pthe-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md) _2018-02-06 13:49:25 (Update)_
 2. [The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/the-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md) _(Current version)_
 
 ### Related:

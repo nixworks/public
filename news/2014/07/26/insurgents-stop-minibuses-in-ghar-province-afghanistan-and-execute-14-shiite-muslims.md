@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/26/insurgents-stop-minibuses-in-ghar-province-afgh
 
 ### Changes:
 
-1. [Taliban insurgency:Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/taliban-insurgency-pinsurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md) _2017-08-25 03:40:45 (First version)_
-2. [Taliban insurgency:: Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/taliban-insurgency-insurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md) _2017-08-27 03:41:04 (Update)_
+1. [Taliban insurgency:Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/taliban-insurgency-pinsurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency:: Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/taliban-insurgency-insurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md) _2018-02-06 13:49:26 (Update)_
 2. [Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/insurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md) _(Current version)_
 
 ### Related:

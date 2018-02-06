@@ -17,7 +17,7 @@ A Boko Haram attack in a northeast Nigerian village left at least 151 people dea
 
 ### Changes:
 
-1. [Boko Haram insurgency: A Boko Haram attack last week on a northeastern Nigerian village, Yadin Kukuwa killed at least 151 people. News of the attack was slow to emerge because the militants destroyed telecom masts around the village. ](/news/2015/08/19/boko-haram-insurgency-a-boko-haram-attack-last-week-on-a-northeastern-nigerian-village-yadin-kukuwa-killed-at-least-151-people-news-of-th.md) _2017-08-27 03:42:51 (First version)_
+1. [Boko Haram insurgency: A Boko Haram attack last week on a northeastern Nigerian village, Yadin Kukuwa killed at least 151 people. News of the attack was slow to emerge because the militants destroyed telecom masts around the village. ](/news/2015/08/19/boko-haram-insurgency-a-boko-haram-attack-last-week-on-a-northeastern-nigerian-village-yadin-kukuwa-killed-at-least-151-people-news-of-th.md) _2018-02-06 13:49:27 (First version)_
 1. [A Boko Haram attack last week on a northeastern Nigerian village, Yadin Kukuwa killed at least 151 people. News of the attack was slow to emerge because the militants destroyed telecom masts around the village. ](/news/2015/08/19/a-boko-haram-attack-last-week-on-a-northeastern-nigerian-village-yadin-kukuwa-killed-at-least-151-people-news-of-the-attack-was-slow-to-em.md) _(Current version)_
 
 ### Related:

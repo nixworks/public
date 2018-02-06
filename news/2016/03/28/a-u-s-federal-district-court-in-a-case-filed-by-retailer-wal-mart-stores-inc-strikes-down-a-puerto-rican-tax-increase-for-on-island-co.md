@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by
 
 ### Changes:
 
-1. [A U.S. federal district court, in a case filed by retailer Wal-Mart Stores. Inc., strikes down a Puerto Rican tax increase for on-island companies, with more than $2.75 billion in revenues that buy goods from off-island "related parties," because the levy clearly discriminates against interstate commerce. ](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by-retailer-wal-mart-stores-inc-strikes-down-a-puerto-rican-tax-increase-for-on-island-com.md) _2017-10-17 03:52:22 (First version)_
+1. [A U.S. federal district court, in a case filed by retailer Wal-Mart Stores. Inc., strikes down a Puerto Rican tax increase for on-island companies, with more than $2.75 billion in revenues that buy goods from off-island "related parties," because the levy clearly discriminates against interstate commerce. ](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by-retailer-wal-mart-stores-inc-strikes-down-a-puerto-rican-tax-increase-for-on-island-com.md) _2018-02-06 13:49:28 (First version)_
 1. [ A U.S. federal district court, in a case filed by retailer Wal-Mart Stores. Inc., strikes down a Puerto Rican tax increase for on-island companies, with more than $2.75 billion in revenues that buy goods from off-island "related parties," because the levy clearly discriminates against interstate commerce. ](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by-retailer-wal-mart-stores-inc-strikes-down-a-puerto-rican-tax-increase-for-on-island-co.md) _(Current version)_
 
 ### Related:

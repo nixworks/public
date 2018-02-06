@@ -18,7 +18,7 @@ The deadly blaze that killed five homeless people highlighted L.A.&apos;s ongoin
 
 ### Changes:
 
-1. [Los Angeles, California, police arrest a 21-year-old homeless man after five bodies of apparent transients are found in the wreckage of a vacant former medical building that burned down Monday night. Firefighters had been able to rescue three people. ](/news/2016/06/14/los-angeles-california-police-arrest-a-21-year-old-homeless-man-after-five-bodies-of-apparent-transients-are-found-in-the-wreckage-of-a-v.md) _2017-08-25 03:45:53 (First version)_
+1. [Los Angeles, California, police arrest a 21-year-old homeless man after five bodies of apparent transients are found in the wreckage of a vacant former medical building that burned down Monday night. Firefighters had been able to rescue three people. ](/news/2016/06/14/los-angeles-california-police-arrest-a-21-year-old-homeless-man-after-five-bodies-of-apparent-transients-are-found-in-the-wreckage-of-a-v.md) _2018-02-06 13:49:29 (First version)_
 1. [Los Angeles, California, police arrest a 21-year-old homeless man after five bodies of apparent transients are found in the wreckage of a vacant former medical building that burned down Monday night. Firefighters had been able to rescue three people. ](/news/2016/06/14/los-angeles-california-police-arrest-a-21-year-old-homeless-man-after-five-bodies-of-apparent-transients-are-found-in-the-wreckage-of-a-va.md) _(Current version)_
 
 ### Related:

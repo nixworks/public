@@ -18,7 +18,7 @@ Attack on L&#039;Etoile du Sud hotel in resort popular with Westerners claimed b
 
 ### Changes:
 
-1. [2016 Grand-Bassam shootings: Gunmen attack two hotels in the Ivory Coast town of Grand-Bassam. At least 15 people are reportedly killed. Witnesses claim the attackers shouted "Allahu Akbar" ("God is [the] greatest") during the gunfire. Al-Qaeda in the Islamic Maghreb (AQIM) claim responsibility for the attack. ](/news/2016/03/13/2016-grand-bassam-shootings-gunmen-attack-two-hotels-in-the-ivory-coast-town-of-grand-bassam-at-least-15-people-are-reportedly-killed-wit.md) _2017-08-27 03:45:14 (First version)_
+1. [2016 Grand-Bassam shootings: Gunmen attack two hotels in the Ivory Coast town of Grand-Bassam. At least 15 people are reportedly killed. Witnesses claim the attackers shouted "Allahu Akbar" ("God is [the] greatest") during the gunfire. Al-Qaeda in the Islamic Maghreb (AQIM) claim responsibility for the attack. ](/news/2016/03/13/2016-grand-bassam-shootings-gunmen-attack-two-hotels-in-the-ivory-coast-town-of-grand-bassam-at-least-15-people-are-reportedly-killed-wit.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunmen attack two hotels in the Ivory Coast town of Grand-Bassam. At least 15 people are reportedly killed. Witnesses claim the attackers shouted "Allahu Akbar" ("God is [the] greatest") during the gunfire. Al-Qaeda in the Islamic Maghreb (AQIM) claim responsibility for the attack. ](/news/2016/03/13/gunmen-attack-two-hotels-in-the-ivory-coast-town-of-grand-bassam-at-least-15-people-are-reportedly-killed-witnesses-claim-the-attackers-sh.md) _(Current version)_
 
 ### Related:

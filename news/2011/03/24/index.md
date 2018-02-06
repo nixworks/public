@@ -25,11 +25,11 @@ The European Commission has been hit by one of the most serious cyberattacks eve
 
 ##### Colombia
 ### [Army forces in Colombia kill 10 FARC rebels in western Choco department. ](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.md)
-_Context: Choco, Colombia, Revolutionary Armed Forces of Colombia_
+_Context: Colombia, Choco, Revolutionary Armed Forces of Colombia_
 
 ##### US Census Bureau headquarters
 ### [The United States Census Bureau confirms that New York City is the largest city in the US with 8,175,133 residents at the time of the 2010 United States Census on April 1. ](/news/2011/03/24/the-united-states-census-bureau-confirms-that-new-york-city-is-the-largest-city-in-the-us-with-8-175-133-residents-at-the-time-of-the-2010-u.md)
-_Context: New York City, 2010 Census, largest city in the US, US Census Bureau headquarters_
+_Context: US Census Bureau headquarters, largest city in the US, 2010 Census, New York City_
 
 ##### U.S.
 ### [A U.S. federal district court in Delaware rules in favor of Cephalon, a phamaceutical company, in a patent infringement lawsuit it had brought against a manufacturer of generic drugs. ](/news/2011/03/24/a-u-s-federal-district-court-in-delaware-rules-in-favor-of-cephalon-a-phamaceutical-company-in-a-patent-infringement-lawsuit-it-had-broug.md)
@@ -37,7 +37,7 @@ A U.S. Court upheld aCephalon Inc CEPH.O patent protecting its Fentora painmedic
 
 ##### Africa Carbon Exchange
 ### [The Africa Carbon Exchange, Africa's first carbon exchange which will trade in carbon credits a form of carbon pricing, opens in Kenya. ](/news/2011/03/24/the-africa-carbon-exchange-africa-s-first-carbon-exchange-which-will-trade-in-carbon-credits-a-form-of-carbon-pricing-opens-in-kenya.md)
-_Context: exchange, carbon pricing, carbon credits, Kenya, Africa Carbon Exchange, Africa_
+_Context: Africa, exchange, Africa Carbon Exchange, carbon pricing, Kenya, carbon credits_
 
 ##### Burma
 ### [Two large earthquakes are recorded in northeastern Burma near the borders with Laos and Thailand, killing at least two people. ](/news/2011/03/24/two-large-earthquakes-are-recorded-in-northeastern-burma-near-the-borders-with-laos-and-thailand-killing-at-least-two-people.md)
@@ -57,7 +57,7 @@ _Context: United Nations, North Korea_
 
 ##### U.S. Arms Export Control Act
 ### [Lian Yang, a US citizen, pleads guilty to conspiring to violate the Arms Export Control Act by trying to sell radiation-hardened" military and aerospace technology to the People's Republic of China. ](/news/2011/03/24/lian-yang-a-us-citizen-pleads-guilty-to-conspiring-to-violate-the-arms-export-control-act-by-trying-to-sell-radiation-hardened-military-a.md)
-_Context: U.S. Arms Export Control Act, China_
+_Context: China, U.S. Arms Export Control Act_
 
 ##### Delroy Grant
 ### [Serial rapist Delroy Grant is convicted of 18 sexual assaults and rapes in London, England, with fears that he may have committed hundreds of offences. ](/news/2011/03/24/serial-rapist-delroy-grant-is-convicted-of-18-sexual-assaults-and-rapes-in-london-england-with-fears-that-he-may-have-committed-hundreds-o.md)
@@ -65,11 +65,11 @@ A British man dubbed the Night Stalker has been convicted of being one of the mo
 
 ##### Sian O'Callaghan
 ### [British Police find the body of 22-year-old Sian O'Callaghan in Oxfordshire, five days after she went missing in Swindon, Wiltshire. A 47-year-old man is arrested on suspicion of murder and police are also searching for the body of an unnamed missing woman who is feared to have been murdered. ](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.md)
-_Context: Wiltshire, Swindon, Sian O'Callaghan, Oxfordshire_
+_Context: Oxfordshire, Sian O'Callaghan, Wiltshire, Swindon_
 
 ##### two girls
 ### [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md)
-_Context: two girls, Bavaria, German, Krailling_
+_Context: Bavaria, two girls, German, Krailling_
 
 ##### 
 ### [European Council ](/news/2011/03/24/european-council.md)
@@ -79,11 +79,11 @@ Irish billionaire businessman Denis O&#039;Brien and a former Irish government m
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md)
-_Context: iPod, Julia Gillard, Bono, Australian Prime Minister, Australia_
+_Context: Australian Prime Minister, Australia, Bono, iPod, Julia Gillard_
 
 ##### Governor of California
 ### [The Governor of the US state of California Jerry Brown signs off on billions of savings to the budget but acknowledges that billions more in savings or revenue increases need to be found to resolve the ongoing budget crisis. ](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.md)
-_Context: California, Governor of California, ongoing budget crisis, Jerry Brown_
+_Context: California, Governor of California, Jerry Brown, ongoing budget crisis_
 
 ##### John Milnor
 ### [Mathematician John Milnor wins the 2011 Abel Prize for his contributions to topology, geometry and algebra. ](/news/2011/03/24/mathematician-john-milnor-wins-the-2011-abel-prize-for-his-contributions-to-topology-geometry-and-algebra.md)

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/08/14/china-s-liu-zige-wins-the-2008-beijing-olympics
 
 ### Changes:
 
-1. [ 2008 Summer Olympics: China's Liu Zige wins the 2008 Beijing Olympics' women's 200-meters-butterfly gold setting a world record of two minutes and 04.18 seconds. ](/news/2008/08/14/2008-summer-olympics-china-s-liu-zige-wins-the-2008-beijing-olympics-women-s-200-meters-butterfly-gold-setting-a-world-record-of-two-minu.md) _2017-08-27 03:22:36 (First version)_
+1. [ 2008 Summer Olympics: China's Liu Zige wins the 2008 Beijing Olympics' women's 200-meters-butterfly gold setting a world record of two minutes and 04.18 seconds. ](/news/2008/08/14/2008-summer-olympics-china-s-liu-zige-wins-the-2008-beijing-olympics-women-s-200-meters-butterfly-gold-setting-a-world-record-of-two-minu.md) _2018-02-06 13:49:18 (First version)_
 1. [ China's Liu Zige wins the 2008 Beijing Olympics' women's 200-meters-butterfly gold setting a world record of two minutes and 04.18 seconds. ](/news/2008/08/14/china-s-liu-zige-wins-the-2008-beijing-olympics-women-s-200-meters-butterfly-gold-setting-a-world-record-of-two-minutes-and-04-18-seconds.md) _(Current version)_
 
 ### Related:

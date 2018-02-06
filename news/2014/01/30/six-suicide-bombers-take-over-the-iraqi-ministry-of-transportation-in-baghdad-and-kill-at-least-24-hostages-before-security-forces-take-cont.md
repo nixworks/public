@@ -16,8 +16,8 @@ Six suicide bombers burst into an Iraqi ministry building, took hostages and kil
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/iraqi-insurgency-post-u-s-withdrawal-psix-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24.md) _2017-08-25 03:39:56 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/iraqi-insurgency-post-u-s-withdrawal-six-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24.md) _2017-08-27 03:40:15 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/iraqi-insurgency-post-u-s-withdrawal-six-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/iraqi-insurgency-post-u-s-withdrawal-psix-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24.md) _2018-02-06 13:49:25 (Update)_
 2. [Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/six-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24-hostages-before-security-forces-take-cont.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Two French soldiers are killed in overnight fighting in the Central African Repu
 
 ### Changes:
 
-1. [Central African Republic conflict under the Djotodia administration:Two French soldiers die in overnight fighting in the capital Bangui. ](/news/2013/12/10/central-african-republic-conflict-under-the-djotodia-administration-ptwo-french-soldiers-die-in-overnight-fighting-in-the-capital-bangui.md) _2017-08-25 03:39:39 (First version)_
-2. [Central African Republic conflict under the Djotodia administration:: Two French soldiers die in overnight fighting in the capital Bangui. ](/news/2013/12/10/central-african-republic-conflict-under-the-djotodia-administration-two-french-soldiers-die-in-overnight-fighting-in-the-capital-bangui.md) _2017-08-27 03:39:57 (Update)_
+1. [Central African Republic conflict under the Djotodia administration:: Two French soldiers die in overnight fighting in the capital Bangui. ](/news/2013/12/10/central-african-republic-conflict-under-the-djotodia-administration-two-french-soldiers-die-in-overnight-fighting-in-the-capital-bangui.md) _2018-02-06 13:49:25 (First version)_
+2. [Central African Republic conflict under the Djotodia administration:Two French soldiers die in overnight fighting in the capital Bangui. ](/news/2013/12/10/central-african-republic-conflict-under-the-djotodia-administration-ptwo-french-soldiers-die-in-overnight-fighting-in-the-capital-bangui.md) _2018-02-06 13:49:25 (Update)_
 2. [Two French soldiers die in overnight fighting in the capital Bangui. ](/news/2013/12/10/two-french-soldiers-die-in-overnight-fighting-in-the-capital-bangui.md) _(Current version)_
 
 ### Related:

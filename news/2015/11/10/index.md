@@ -23,7 +23,7 @@ No one aboard a small business plane that crashed into an apartment building in 
 ### [Chinese state news agency Xinhua joins critics of Shenyang's handling of serious pollution problems. "The city of Shenyang has failed to apply emergency measures that could have reduced smog, and didn't provide advisories to residents to stay indoors," Xinhua wrote. The BBC reported pollution readings in the northeastern Chinese city have been 50 times higher than levels considered safe by the World Health Organization (WHO). ](/news/2015/11/10/chinese-state-news-agency-xinhua-joins-critics-of-shenyang-s-handling-of-serious-pollution-problems-the-city-of-shenyang-has-failed-to-app.md)
 Pollution in a northeastern Chinese city has become so lethal, even state media is criticizing the local government for policy failures.
 
-##### British
+##### United Kingdom
 ### [British Prime Minister David Cameron sets out his four-point EU re-negotiation agenda, including a demand to end Britain's obligations to EU's "ever closer union". ](/news/2015/11/10/british-prime-minister-david-cameron-sets-out-his-four-point-eu-re-negotiation-agenda-including-a-demand-to-end-britain-s-obligations-to-eu.md)
 Prime minister to set out reforms to European council president, with commitment to four-year ban on EU migrants claiming in-work and child benefits likely to cause upset
 
@@ -57,11 +57,11 @@ Kenyan police on Tuesday arrested a journalist who wrote about corruption at the
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [The United States Court of Appeals for the District of Columbia suspends district court judge Richard Leon's ruling yesterday that found the U.S. National Security Agency's phone data collection program is unconstitutional. Leon's decision barred the agency from further collection of data on the plaintiffs in the case -- California attorney J.J. Little and his law firm -- but did not have sufficient authority to outlaw the practice against all Americans. The government plea for the injunction said it will take "at least several weeks" for the NSA to implement a technical change that would prevent collection of Little's data and therefore the entire program would have to shut down early based on Leon's order. ](/news/2015/11/10/the-united-states-court-of-appeals-for-the-district-of-columbia-suspends-district-court-judge-richard-leon-s-ruling-yesterday-that-found-the.md)
-_Context: Richard Leon's, U.S. Court of Appeals for the District of Columbia, National Security Agency, United States_
+_Context: Richard Leon's, United States, U.S. Court of Appeals for the District of Columbia, National Security Agency_
 
 ##### Obama administration
 ### [The Obama administration will ask the Supreme Court to overturn yesterday's ruling by the New Orleans, Louisiana, federal Court of Appeals that blocks the deferred deportation of millions of undocumented immigrants who entered the United States as children. ](/news/2015/11/10/the-obama-administration-will-ask-the-supreme-court-to-overturn-yesterday-s-ruling-by-the-new-orleans-louisiana-federal-court-of-appeals-t.md)
-_Context: 5th Circuit Court of Appeals, United States, Supreme Court of the United States, Obama administration_
+_Context: 5th Circuit Court of Appeals, Obama administration, Supreme Court of the United States, United States_
 
 ##### West German chancellor
 ### [Former West German chancellor Helmut Schmidt (1974 to 1982) dies at the age of 96. ](/news/2015/11/10/former-west-german-chancellor-helmut-schmidt-1974-to-1982-dies-at-the-age-of-96.md)

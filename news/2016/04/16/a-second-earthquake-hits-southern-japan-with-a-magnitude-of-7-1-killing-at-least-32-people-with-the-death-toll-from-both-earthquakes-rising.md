@@ -22,7 +22,7 @@ OZU, Japan (AP) — The latest on the earthquakes in Japan (all times local): 1:
 
 ### Changes:
 
-1. [2016 Kumamoto earthquakes: A second earthquake hits southern Japan with a magnitude of 7.1 killing at least 32 people with the death toll from both earthquakes rising to 42. The new quake traps even more people. In Kumamoto a landslide occurs as well as a bridge collapse. ](/news/2016/04/16/2016-kumamoto-earthquakes-a-second-earthquake-hits-southern-japan-with-a-magnitude-of-7-1-killing-at-least-32-people-with-the-death-toll-fr.md) _2017-08-27 03:45:39 (First version)_
+1. [2016 Kumamoto earthquakes: A second earthquake hits southern Japan with a magnitude of 7.1 killing at least 32 people with the death toll from both earthquakes rising to 42. The new quake traps even more people. In Kumamoto a landslide occurs as well as a bridge collapse. ](/news/2016/04/16/2016-kumamoto-earthquakes-a-second-earthquake-hits-southern-japan-with-a-magnitude-of-7-1-killing-at-least-32-people-with-the-death-toll-fr.md) _2018-02-06 13:49:28 (First version)_
 1. [A second earthquake hits southern Japan with a magnitude of 7.1 killing at least 32 people with the death toll from both earthquakes rising to 42. The new quake traps even more people. In Kumamoto a landslide occurs as well as a bridge collapse. ](/news/2016/04/16/a-second-earthquake-hits-southern-japan-with-a-magnitude-of-7-1-killing-at-least-32-people-with-the-death-toll-from-both-earthquakes-rising.md) _(Current version)_
 
 ### Related:

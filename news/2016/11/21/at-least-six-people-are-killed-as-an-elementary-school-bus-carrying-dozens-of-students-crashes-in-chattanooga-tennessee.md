@@ -16,7 +16,7 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 
 ### Changes:
 
-1. [2016 Chattanooga school bus crash: At least six people are killed as an elementary school bus carrying dozens of students crashes in Chattanooga, Tennessee. ](/news/2016/11/21/2016-chattanooga-school-bus-crash-at-least-six-people-are-killed-as-an-elementary-school-bus-carrying-dozens-of-students-crashes-in-chattan.md) _2017-08-27 03:47:16 (First version)_
+1. [2016 Chattanooga school bus crash: At least six people are killed as an elementary school bus carrying dozens of students crashes in Chattanooga, Tennessee. ](/news/2016/11/21/2016-chattanooga-school-bus-crash-at-least-six-people-are-killed-as-an-elementary-school-bus-carrying-dozens-of-students-crashes-in-chattan.md) _2018-02-06 13:49:29 (First version)_
 1. [At least six people are killed as an elementary school bus carrying dozens of students crashes in Chattanooga, Tennessee. ](/news/2016/11/21/at-least-six-people-are-killed-as-an-elementary-school-bus-carrying-dozens-of-students-crashes-in-chattanooga-tennessee.md) _(Current version)_
 
 ### Related:

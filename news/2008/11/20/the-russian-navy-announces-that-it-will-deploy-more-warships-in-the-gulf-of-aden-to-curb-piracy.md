@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/11/20/the-russian-navy-announces-that-it-will-deploy-
 
 ### Changes:
 
-1. [ Piracy in Somalia: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/piracy-in-somalia-p-the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md) _2017-08-25 03:23:12 (First version)_
-2. [ Piracy in Somalia:: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/piracy-in-somalia-the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md) _2017-08-27 03:23:05 (Update)_
+1. [ Piracy in Somalia:: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/piracy-in-somalia-the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md) _2018-02-06 13:49:18 (First version)_
+2. [ Piracy in Somalia: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/piracy-in-somalia-p-the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md) _(Current version)_
 
 ### Related:

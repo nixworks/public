@@ -20,8 +20,8 @@ An international panel in The Hague delivered a sweeping rebuke of China’s beh
 
 ### Changes:
 
-1. [''Philippines v. China''The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/philippines-v-china-pthe-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the.md) _2017-08-25 03:46:07 (First version)_
-2. ["Philippines v. China": The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/philippines-v-china-the-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the.md) _2017-08-27 03:46:29 (Update)_
+1. ["Philippines v. China": The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/philippines-v-china-the-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the.md) _2018-02-06 13:49:29 (First version)_
+2. [''Philippines v. China''The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/philippines-v-china-pthe-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the.md) _2018-02-06 13:49:29 (Update)_
 2. [The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/the-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the-south-china-sea.md) _(Current version)_
 
 ### Related:

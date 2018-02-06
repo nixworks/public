@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/11/18/hong-kong-authorities-start-dismantling-a-prote
 
 ### Changes:
 
-1. [Hong Kong protests:Hong Kong authorities start dismantling a protest site in Admiralty following a court order. ](/news/2014/11/18/hong-kong-protests-phong-kong-authorities-start-dismantling-a-protest-site-in-admiralty-following-a-court-order.md) _2017-08-25 03:41:13 (First version)_
-2. [Hong Kong protests:: Hong Kong authorities start dismantling a protest site in Admiralty following a court order. ](/news/2014/11/18/hong-kong-protests-hong-kong-authorities-start-dismantling-a-protest-site-in-admiralty-following-a-court-order.md) _2017-08-27 03:41:31 (Update)_
+1. [Hong Kong protests:Hong Kong authorities start dismantling a protest site in Admiralty following a court order. ](/news/2014/11/18/hong-kong-protests-phong-kong-authorities-start-dismantling-a-protest-site-in-admiralty-following-a-court-order.md) _2018-02-06 13:49:26 (First version)_
+2. [Hong Kong protests:: Hong Kong authorities start dismantling a protest site in Admiralty following a court order. ](/news/2014/11/18/hong-kong-protests-hong-kong-authorities-start-dismantling-a-protest-site-in-admiralty-following-a-court-order.md) _2018-02-06 13:49:26 (Update)_
 2. [Hong Kong authorities start dismantling a protest site in Admiralty following a court order. ](/news/2014/11/18/hong-kong-authorities-start-dismantling-a-protest-site-in-admiralty-following-a-court-order.md) _(Current version)_
 
 ### Related:

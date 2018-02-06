@@ -9,11 +9,11 @@ NORTH Korea has threatened to launch &quot;merciless&quot; strikes if South Kore
 
 ##### Nigeria
 ### [At least 30 people are dead in the Nigerian city of Maiduguri following an attack on the markets by suspected Islamist militants. ](/news/2012/02/20/at-least-30-people-are-dead-in-the-nigerian-city-of-maiduguri-following-an-attack-on-the-markets-by-suspected-islamist-militants.md)
-_Context: Nigeria, Islamist, Maiduguri_
+_Context: Islamist, Nigeria, Maiduguri_
 
 ##### Justice and Equality Movement
 ### [Justice and Equality Movement rebels in Darfur release 49 UNAMID peacekeepers but retain three other people they accuse of being Sudanese security agents. ](/news/2012/02/20/justice-and-equality-movement-rebels-in-darfur-release-49-unamid-peacekeepers-but-retain-three-other-people-they-accuse-of-being-sudanese-se.md)
-_Context: Darfur, UNAMID, Sudan, Justice and Equality Movement_
+_Context: UNAMID, Justice and Equality Movement, Darfur, Sudan_
 
 ##### Samsung
 ### [Samsung Electronics announces plans to spin off its LCD business. ](/news/2012/02/20/samsung-electronics-announces-plans-to-spin-off-its-lcd-business.md)
@@ -21,7 +21,7 @@ _Context: LCD, Samsung_
 
 ##### Japan
 ### [Japan's balance of trade deficit reaches a record high due to the strong value of the Japanese yen and higher fuel costs following the Fukushima Daiichi nuclear disaster. ](/news/2012/02/20/japan-s-balance-of-trade-deficit-reaches-a-record-high-due-to-the-strong-value-of-the-japanese-yen-and-higher-fuel-costs-following-the-fukus.md)
-_Context: Fukushima Daiichi nuclear disaster, yen, trade deficit, Japan_
+_Context: trade deficit, Japan, yen, Fukushima Daiichi nuclear disaster_
 
 ##### oil
 ### [The price of oil reaches an eight month high following Iran banning sales to Britain and France on Sunday. ](/news/2012/02/20/the-price-of-oil-reaches-an-eight-month-high-following-iran-banning-sales-to-britain-and-france-on-sunday.md)
@@ -33,17 +33,17 @@ Gujarat chief minister Narendra Modi has ordered an inquiry in the stampede at t
 
 ##### IAEA
 ### [International Atomic Energy Agency nuclear inspectors arrive in Tehran to hold discussions about Iran's nuclear program. ](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.md)
-_Context: Iran, Tehran, IAEA, nuclear program_
+_Context: Tehran, nuclear program, IAEA, Iran_
 
 ##### Workers' Party of Korea
 ### [The ruling Workers Party in North Korea calls a conference in mid-April to consolidate the transfer of leadership to Kim Jong-un from his father Kim Jong-Il. ](/news/2012/02/20/the-ruling-workers-party-in-north-korea-calls-a-conference-in-mid-april-to-consolidate-the-transfer-of-leadership-to-kim-jong-un-from-his-fa.md)
-_Context: Kim Jong-Il, North Korea, Workers' Party of Korea, Kim Jong-un_
+_Context: Workers' Party of Korea, Kim Jong-un, Kim Jong-Il, North Korea_
 
 ##### Netherlands
 ### [In the Netherlands, Job Cohen, the leader of the Labour Party, resigns his position after increasing criticism of his performance. ](/news/2012/02/20/in-the-netherlands-job-cohen-the-leader-of-the-labour-party-resigns-his-position-after-increasing-criticism-of-his-performance.md)
-_Context: leader, Netherlands, Labour Party, Job Cohen_
+_Context: Job Cohen, Netherlands, leader, Labour Party_
 
-##### British
+##### United Kingdom
 ### [In the United Kingdom, Home Secretary Theresa May announces plans to split the UK Border Agency into two separate organisations after revelations that hundreds of thousands of people were let into the country without appropriate checks. ](/news/2012/02/20/in-the-united-kingdom-home-secretary-theresa-may-announces-plans-to-split-the-uk-border-agency-into-two-separate-organisations-after-revela.md)
 Home Secretary Theresa May is to split the UK Border Agency following revelations that hundreds of thousands of people were let into the country without appropriate checks.
 

@@ -17,7 +17,7 @@ A Taliban suicide bomber dressed as a laborer blew himself up at the NATO air ba
 
 ### Changes:
 
-1. [War in Afghanistan: 2016 Bagram Airfield bombing: An explosion at NATO's Bagram Airfield kills four Americans and injures at least 16 U.S. service members and a Polish soldier. The Taliban claims responsibility. ](/news/2016/11/12/war-in-afghanistan-2016-bagram-airfield-bombing-an-explosion-at-nato-s-bagram-airfield-kills-four-americans-and-injures-at-least-16-u-s-s.md) _2017-08-27 03:47:13 (First version)_
+1. [War in Afghanistan: 2016 Bagram Airfield bombing: An explosion at NATO's Bagram Airfield kills four Americans and injures at least 16 U.S. service members and a Polish soldier. The Taliban claims responsibility. ](/news/2016/11/12/war-in-afghanistan-2016-bagram-airfield-bombing-an-explosion-at-nato-s-bagram-airfield-kills-four-americans-and-injures-at-least-16-u-s-s.md) _2018-02-06 13:49:29 (First version)_
 1. [2016 Bagram Airfield bombing: An explosion at NATO's Bagram Airfield kills four Americans and injures at least 16 U.S. service members and a Polish soldier. The Taliban claims responsibility. ](/news/2016/11/12/2016-bagram-airfield-bombing-an-explosion-at-nato-s-bagram-airfield-kills-four-americans-and-injures-at-least-16-u-s-service-members-and-a.md) _(Current version)_
 
 ### Related:

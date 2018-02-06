@@ -9,11 +9,11 @@ _Context: Sierra Leone, Paramount Airlines, crashes_
 
 ##### 2007 North Lebanon conflict
 ### [ 2007 North Lebanon conflict: Soldiers and Islamist militants clash at a second Palestinian refugee camp in Lebanon. ](/news/2007/06/3/2007-north-lebanon-conflict-soldiers-and-islamist-militants-clash-at-a-second-palestinian-refugee-camp-in-lebanon.md)
-_Context: Palestinian refugee, Lebanon, Soldiers, 2007 North Lebanon conflict, Islamists_
+_Context: Soldiers, Palestinian refugee, Lebanon, 2007 North Lebanon conflict, Islamists_
 
 ##### earthquake
 ### [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md)
-_Context: China, earthquake, Laos, Myanmar_
+_Context: China, Laos, Myanmar, earthquake_
 
 ## [Previous Day...](/news/2007/06/2/index.md)
 

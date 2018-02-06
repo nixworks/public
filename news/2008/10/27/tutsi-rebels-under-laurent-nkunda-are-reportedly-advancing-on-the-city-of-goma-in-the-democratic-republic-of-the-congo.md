@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/10/27/tutsi-rebels-under-laurent-nkunda-are-reportedl
 
 ### Changes:
 
-1. [ Kivu conflict: Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/kivu-conflict-p-tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md) _2017-08-25 03:23:06 (First version)_
-2. [ Kivu conflict:: Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/kivu-conflict-tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md) _2017-08-27 03:22:59 (Update)_
+1. [ Kivu conflict:: Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/kivu-conflict-tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md) _2018-02-06 13:49:18 (First version)_
+2. [ Kivu conflict: Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/kivu-conflict-p-tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md) _2018-02-06 13:49:18 (Update)_
 2. [ Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md) _(Current version)_
 
 ### Related:

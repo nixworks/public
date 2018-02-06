@@ -18,7 +18,7 @@ QUITO, Ecuador (AP) — President Rafael Correa announced Wednesday night that h
 
 ### Changes:
 
-1. [2016 Ecuador earthquake: A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday. ](/news/2016/04/20/2016-ecuador-earthquake-a-magnitude-6-1-aftershock-has-struck-off-the-coast-of-ecuador-at-3-33-a-m-local-time-the-us-geological-survey-sa.md) _2017-08-27 03:45:43 (First version)_
+1. [2016 Ecuador earthquake: A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday. ](/news/2016/04/20/2016-ecuador-earthquake-a-magnitude-6-1-aftershock-has-struck-off-the-coast-of-ecuador-at-3-33-a-m-local-time-the-us-geological-survey-sa.md) _2018-02-06 13:49:28 (First version)_
 1. [A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday. ](/news/2016/04/20/a-magnitude-6-1-aftershock-has-struck-off-the-coast-of-ecuador-at-3-33-a-m-local-time-the-us-geological-survey-says-in-the-same-area-as-t.md) _(Current version)_
 
 ### Related:

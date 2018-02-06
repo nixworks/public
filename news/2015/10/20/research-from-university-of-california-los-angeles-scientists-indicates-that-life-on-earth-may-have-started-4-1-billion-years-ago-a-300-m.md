@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/20/research-from-university-of-california-los-ange
 
 ### Changes:
 
-1. [Research from University of California, Los Angeles scientists indicates that life on earth may have started 4.1 billion years ago - 300 million years earlier than previously thought. ](/news/2015/10/20/research-from-university-of-california-los-angeles-scientists-indicates-that-life-on-earth-may-have-started-4-1-billion-years-ago-300-m.md) _2017-08-27 03:43:26 (First version)_
+1. [Research from University of California, Los Angeles scientists indicates that life on earth may have started 4.1 billion years ago - 300 million years earlier than previously thought. ](/news/2015/10/20/research-from-university-of-california-los-angeles-scientists-indicates-that-life-on-earth-may-have-started-4-1-billion-years-ago-300-m.md) _2018-02-06 13:49:28 (First version)_
 1. [Research from University of California, Los Angeles scientists indicates that life on earth may have started 4.1 billion years ago - 300 million years earlier than previously thought. ](/news/2015/10/20/research-from-university-of-california-los-angeles-scientists-indicates-that-life-on-earth-may-have-started-4-1-billion-years-ago-a-300-m.md) _(Current version)_
 
 ### Related:

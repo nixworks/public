@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and
 
 ### Changes:
 
-1. [United Kingdom general election, 2015: Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/united-kingdom-general-election-2015-queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _2017-08-27 03:42:08 (First version)_
+1. [United Kingdom general election, 2015: Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/united-kingdom-general-election-2015-queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _2018-02-06 13:49:27 (First version)_
 1. [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _(Current version)_
 
 ### Related:

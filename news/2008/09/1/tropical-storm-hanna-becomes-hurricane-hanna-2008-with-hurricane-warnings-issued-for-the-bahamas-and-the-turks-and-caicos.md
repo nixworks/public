@@ -18,8 +18,8 @@ Tropical Storm Hanna knocked out power to the southern Bahamas on Wednesday and 
 
 ### Changes:
 
-1. [ 2008 Atlantic hurricane season: Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-p-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md) _2017-08-25 03:22:47 (First version)_
-2. [ 2008 Atlantic hurricane season:: Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md) _2017-08-27 03:22:41 (Update)_
+1. [ 2008 Atlantic hurricane season:: Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Atlantic hurricane season: Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-p-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md) _2018-02-06 13:49:18 (Update)_
 2. [ Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the-turks-and-caicos.md) _(Current version)_
 
 ### Related:

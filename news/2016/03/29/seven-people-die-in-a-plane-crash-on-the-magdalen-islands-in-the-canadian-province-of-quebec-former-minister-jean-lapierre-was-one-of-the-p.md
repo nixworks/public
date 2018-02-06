@@ -17,7 +17,7 @@ Jean Lapierre, political commentator and former Liberal federal cabinet minister
 
 ### Changes:
 
-1. [2016 Aero Teknic MU-2 crash: Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/2016-aero-teknic-mu-2-crash-seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-j.md) _2017-08-27 03:45:24 (First version)_
+1. [2016 Aero Teknic MU-2 crash: Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/2016-aero-teknic-mu-2-crash-seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-j.md) _2018-02-06 13:49:28 (First version)_
 1. [Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-jean-lapierre-was-one-of-the-p.md) _(Current version)_
 
 ### Related:

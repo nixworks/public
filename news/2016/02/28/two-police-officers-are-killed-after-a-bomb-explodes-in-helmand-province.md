@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-exp
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/war-in-afghanistan-2015-present-two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md) _2017-08-27 03:45:03 (First version)_
+1. [War in Afghanistan (2015-present): Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/war-in-afghanistan-2015-present-two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md) _2018-02-06 13:49:28 (First version)_
 1. [Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md) _(Current version)_
 
 ### Related:

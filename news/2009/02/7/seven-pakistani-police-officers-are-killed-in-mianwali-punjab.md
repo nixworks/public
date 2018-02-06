@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/7/seven-pakistani-police-officers-are-killed-in-mi
 
 ### Changes:
 
-1. [ Pakistan: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-p-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _2017-08-25 03:23:42 (First version)_
-2. [ Pakistan:: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _2017-08-27 03:23:33 (Update)_
+1. [ Pakistan:: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _2018-02-06 13:49:18 (First version)_
+2. [ Pakistan: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-p-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _2018-02-06 13:49:18 (Update)_
 2. [ Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md) _(Current version)_
 
 ### Related:

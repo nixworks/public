@@ -25,7 +25,7 @@ _Context: Somalia, Al-Shabaab, Mogadishu_
 
 ##### Australian
 ### [Australian French Resistance leader Nancy Wake dies in London at the age of 98. ](/news/2011/08/7/australian-french-resistance-leader-nancy-wake-dies-in-london-at-the-age-of-98.md)
-_Context: Australian, Nancy Wake, London, French Resistance_
+_Context: French Resistance, London, Nancy Wake, Australian_
 
 ##### Malaysia
 ### [One person is killed and six are missing after a landslide in eastern Malaysia. ](/news/2011/08/7/one-person-is-killed-and-six-are-missing-after-a-landslide-in-eastern-malaysia.md)

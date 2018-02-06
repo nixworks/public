@@ -16,7 +16,7 @@ A man suspected of racially-motivated shootings that injure six is arrested in t
 
 ### Changes:
 
-1. [A shooting in Macerata, Italy, leaves 6 African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-6-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-moti.md) _2018-02-03 22:30:17 (First version)_
+1. [A shooting in Macerata, Italy, leaves 6 African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-6-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-moti.md) _2018-02-06 13:49:31 (First version)_
 1. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _(Current version)_
 
 ### Related:

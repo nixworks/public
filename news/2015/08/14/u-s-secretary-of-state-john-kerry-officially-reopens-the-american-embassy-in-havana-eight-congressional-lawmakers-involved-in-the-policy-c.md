@@ -19,7 +19,7 @@ Washington&#039;s top diplomat came to Havana on Friday to raise the Stars and S
 
 ### Changes:
 
-1. [Cuban Thaw: Cuba-United States relations: U.S. Secretary of State John Kerry officially reopens the American embassy in Havana. Eight congressional lawmakers involved in the policy change also attend. ](/news/2015/08/14/cuban-thaw-cuba-united-states-relations-u-s-secretary-of-state-john-kerry-officially-reopens-the-american-embassy-in-havana-eight-cong.md) _2017-08-27 03:42:50 (First version)_
+1. [Cuban Thaw: Cuba-United States relations: U.S. Secretary of State John Kerry officially reopens the American embassy in Havana. Eight congressional lawmakers involved in the policy change also attend. ](/news/2015/08/14/cuban-thaw-cuba-united-states-relations-u-s-secretary-of-state-john-kerry-officially-reopens-the-american-embassy-in-havana-eight-cong.md) _2018-02-06 13:49:27 (First version)_
 1. [U.S. Secretary of State John Kerry officially reopens the American embassy in Havana. Eight congressional lawmakers involved in the policy change also attend. ](/news/2015/08/14/u-s-secretary-of-state-john-kerry-officially-reopens-the-american-embassy-in-havana-eight-congressional-lawmakers-involved-in-the-policy-c.md) _(Current version)_
 
 ### Related:

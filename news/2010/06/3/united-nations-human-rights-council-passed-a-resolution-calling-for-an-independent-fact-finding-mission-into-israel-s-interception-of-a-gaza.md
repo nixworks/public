@@ -27,8 +27,8 @@ South Africa latest country to express anger over Israeli attack on Gaza aid con
 
 ### Changes:
 
-1. [Gaza flotilla raid:United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-punited-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-in.md) _2017-08-25 03:28:07 (First version)_
-2. [Gaza flotilla raid:: United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-i.md) _2017-08-27 03:28:06 (Update)_
+1. [Gaza flotilla raid:: United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-i.md) _2018-02-06 13:49:20 (First version)_
+2. [Gaza flotilla raid:United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-punited-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-in.md) _2018-02-06 13:49:20 (Update)_
 2. [United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.md) _(Current version)_
 
 ### Related:

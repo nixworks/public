@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-
 
 ### Changes:
 
-1. [ Muslim religious scholars in Pakistan announce a fatwa that decrees that heroin use is un-Islamic. The ''fatwa'' is pronounced in a seminar in Baluchistan. ](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-a-fatwa-that-decrees-that-heroin-use-is-un-islamic-the-fatwa-is-pronounced-in-a-seminar.md) _2017-08-25 03:15:47 (First version)_
+1. [ Muslim religious scholars in Pakistan announce a fatwa that decrees that heroin use is un-Islamic. The ''fatwa'' is pronounced in a seminar in Baluchistan. ](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-a-fatwa-that-decrees-that-heroin-use-is-un-islamic-the-fatwa-is-pronounced-in-a-seminar.md) _2018-02-06 13:49:16 (First version)_
 1. [ Muslim religious scholars in Pakistan announce a fatwa that decrees that heroin use is un-Islamic. The "fatwa" is pronounced in a seminar in Baluchistan. ](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-a-fatwa-that-decrees-that-heroin-use-is-un-islamic-the-fatwa-is-pronounced-in-a-seminar-i.md) _(Current version)_
 
 ### Related:

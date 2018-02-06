@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/01/14/voters-in-egypt-go-to-the-polls-for-the-first-d
 
 ### Changes:
 
-1. [Egyptian constitutional referendum, 2014: Voters in Egypt go to the polls for the first day of voting on a new constitution.](/news/2014/01/14/egyptian-constitutional-referendum-2014-voters-in-egypt-go-to-the-polls-for-the-first-day-of-voting-on-a-new-constitution.md) _2017-08-27 03:40:10 (First version)_
+1. [Egyptian constitutional referendum, 2014: Voters in Egypt go to the polls for the first day of voting on a new constitution.](/news/2014/01/14/egyptian-constitutional-referendum-2014-voters-in-egypt-go-to-the-polls-for-the-first-day-of-voting-on-a-new-constitution.md) _2018-02-06 13:49:25 (First version)_
 1. [Voters in Egypt go to the polls for the first day of voting on a new constitution.](/news/2014/01/14/voters-in-egypt-go-to-the-polls-for-the-first-day-of-voting-on-a-new-constitution.md) _(Current version)_
 
 ### Related:

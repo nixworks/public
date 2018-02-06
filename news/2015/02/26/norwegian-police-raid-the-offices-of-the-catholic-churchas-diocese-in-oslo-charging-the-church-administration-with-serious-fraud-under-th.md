@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-cathol
 
 ### Changes:
 
-1. [Norwegian police raid the offices of the Catholic Church-s diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-church-s-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md) _2017-08-27 03:42:01 (First version)_
+1. [Norwegian police raid the offices of the Catholic Church-s diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-church-s-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Norwegian police raid the offices of the Catholic Church's diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-churchas-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md) _(Current version)_
 
 ### Related:

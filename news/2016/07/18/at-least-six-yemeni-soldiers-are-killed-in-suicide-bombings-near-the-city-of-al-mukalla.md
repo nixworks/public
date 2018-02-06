@@ -16,7 +16,7 @@ Two suicide bombers tried to ram vehicles laden with explosives through two Yeme
 
 ### Changes:
 
-1. [Yemeni Civil War : At least six Yemeni soldiers are killed in suicide bombings near the city of Al Mukalla. ](/news/2016/07/18/yemeni-civil-war-at-least-six-yemeni-soldiers-are-killed-in-suicide-bombings-near-the-city-of-al-mukalla.md) _2017-08-27 03:46:31 (First version)_
+1. [Yemeni Civil War : At least six Yemeni soldiers are killed in suicide bombings near the city of Al Mukalla. ](/news/2016/07/18/yemeni-civil-war-at-least-six-yemeni-soldiers-are-killed-in-suicide-bombings-near-the-city-of-al-mukalla.md) _2018-02-06 13:49:29 (First version)_
 1. [At least six Yemeni soldiers are killed in suicide bombings near the city of Al Mukalla. ](/news/2016/07/18/at-least-six-yemeni-soldiers-are-killed-in-suicide-bombings-near-the-city-of-al-mukalla.md) _(Current version)_
 
 ### Related:

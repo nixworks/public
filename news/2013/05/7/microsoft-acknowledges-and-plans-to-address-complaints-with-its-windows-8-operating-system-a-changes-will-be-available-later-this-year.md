@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-comp
 
 ### Changes:
 
-1. [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-changes-will-be-available-later-this-year.md) _2017-08-27 03:38:48 (First version)_
+1. [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-changes-will-be-available-later-this-year.md) _2018-02-06 13:49:25 (First version)_
 1. [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md) _(Current version)_
 
 ### Related:

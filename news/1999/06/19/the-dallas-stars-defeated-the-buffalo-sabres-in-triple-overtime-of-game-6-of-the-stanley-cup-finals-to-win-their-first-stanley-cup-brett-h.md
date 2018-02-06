@@ -11,7 +11,7 @@ Formats: [HTML](/news/1999/06/19/the-dallas-stars-defeated-the-buffalo-sabres-in
 
 ### Changes:
 
-1. [ The Dallas Stars defeated the Buffalo Sabres in triple overtime of game 6 of the Stanley Cup Finals to win their first Stanley Cup. Brett Hull scored the controversial cup-winning goal to seal the victory.](/news/1999/06/19/the-dallas-stars-defeated-the-buffalo-sabres-in-triple-overtime-of-game-6-of-the-stanley-cup-finals-to-win-their-first-stanley-cup-brett.md) _2017-08-25 03:15:05 (First version)_
+1. [ The Dallas Stars defeated the Buffalo Sabres in triple overtime of game 6 of the Stanley Cup Finals to win their first Stanley Cup. Brett Hull scored the controversial cup-winning goal to seal the victory.](/news/1999/06/19/the-dallas-stars-defeated-the-buffalo-sabres-in-triple-overtime-of-game-6-of-the-stanley-cup-finals-to-win-their-first-stanley-cup-brett.md) _2018-02-06 13:49:15 (First version)_
 1. [ The Dallas Stars defeated the Buffalo Sabres in triple overtime of game 6 of the Stanley Cup Finals to win their first Stanley Cup. Brett Hull scored the controversial cup-winning goal to seal the victory.](/news/1999/06/19/the-dallas-stars-defeated-the-buffalo-sabres-in-triple-overtime-of-game-6-of-the-stanley-cup-finals-to-win-their-first-stanley-cup-brett-h.md) _(Current version)_
 
 ### Related:

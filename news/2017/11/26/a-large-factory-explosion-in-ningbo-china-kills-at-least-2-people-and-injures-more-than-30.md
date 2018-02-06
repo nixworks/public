@@ -16,7 +16,7 @@ At least two people have been killed in the Sunday morning blast in Ningbo, loca
 
 ### Changes:
 
-1. [A large factory explosion in Ningbo city, China, kills at least 2 people and injured more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-city-china-kills-at-least-2-people-and-injured-more-than-30.md) _2017-11-26 09:30:05 (First version)_
+1. [A large factory explosion in Ningbo city, China, kills at least 2 people and injured more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-city-china-kills-at-least-2-people-and-injured-more-than-30.md) _2018-02-06 13:49:31 (First version)_
 1. [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md) _(Current version)_
 
 ### Related:

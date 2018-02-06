@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/16/members-of-exiled-president-of-yemen-abd-rabbuh
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): Members of exiled President of Yemen Abd Rabbuh Mansur Hadi's Cabinet tour the southern city of Aden for the first time in several months. ](/news/2015/07/16/yemeni-crisis-2011-present-members-of-exiled-president-of-yemen-abd-rabbuh-mansur-hadi-s-cabinet-tour-the-southern-city-of-aden-for-the.md) _2017-08-27 03:42:42 (First version)_
+1. [Yemeni Crisis (2011-present): Members of exiled President of Yemen Abd Rabbuh Mansur Hadi's Cabinet tour the southern city of Aden for the first time in several months. ](/news/2015/07/16/yemeni-crisis-2011-present-members-of-exiled-president-of-yemen-abd-rabbuh-mansur-hadi-s-cabinet-tour-the-southern-city-of-aden-for-the.md) _2018-02-06 13:49:27 (First version)_
 1. [Members of exiled President of Yemen Abd Rabbuh Mansur Hadi's Cabinet tour the southern city of Aden for the first time in several months. ](/news/2015/07/16/members-of-exiled-president-of-yemen-abd-rabbuh-mansur-hadi-s-cabinet-tour-the-southern-city-of-aden-for-the-first-time-in-several-months.md) _(Current version)_
 
 ### Related:

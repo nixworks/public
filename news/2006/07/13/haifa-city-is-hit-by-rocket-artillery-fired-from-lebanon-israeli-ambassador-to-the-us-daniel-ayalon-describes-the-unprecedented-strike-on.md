@@ -29,8 +29,8 @@ Formats: [HTML](/news/2006/07/13/haifa-city-is-hit-by-rocket-artillery-fired-fro
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon crisis: Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-p-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md) _2017-08-25 03:18:00 (First version)_
-2. [ 2006 Israel-Lebanon crisis:: Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md) _2017-08-27 03:17:59 (Update)_
+1. [ 2006 Israel-Lebanon crisis: Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-p-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon crisis:: Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md) _2018-02-06 13:49:17 (Update)_
 2. [ Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes-the-unprecedented-strike-on.md) _(Current version)_
 
 ### Related:

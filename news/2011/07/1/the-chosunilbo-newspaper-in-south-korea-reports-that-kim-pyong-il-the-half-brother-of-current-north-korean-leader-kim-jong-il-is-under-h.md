@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/1/the-chosunilbo-newspaper-in-south-korea-reports-
 
 ### Changes:
 
-1. [The ''Chosunilbo'' newspaper in South Korea reports that Kim Pyong-il, the half-brother of current North Korean leader Kim Jong-il, is under house arrest in Pyongyang. ](/news/2011/07/1/the-chosunilbo-newspaper-in-south-korea-reports-that-kim-pyong-il-the-half-brother-of-current-north-korean-leader-kim-jong-il-is-under.md) _2017-08-25 03:33:39 (First version)_
+1. [The ''Chosunilbo'' newspaper in South Korea reports that Kim Pyong-il, the half-brother of current North Korean leader Kim Jong-il, is under house arrest in Pyongyang. ](/news/2011/07/1/the-chosunilbo-newspaper-in-south-korea-reports-that-kim-pyong-il-the-half-brother-of-current-north-korean-leader-kim-jong-il-is-under.md) _2018-02-06 13:49:22 (First version)_
 1. [The "Chosunilbo" newspaper in South Korea reports that Kim Pyong-il, the half-brother of current North Korean leader Kim Jong-il, is under house arrest in Pyongyang. ](/news/2011/07/1/the-chosunilbo-newspaper-in-south-korea-reports-that-kim-pyong-il-the-half-brother-of-current-north-korean-leader-kim-jong-il-is-under-h.md) _(Current version)_
 
 ### Related:

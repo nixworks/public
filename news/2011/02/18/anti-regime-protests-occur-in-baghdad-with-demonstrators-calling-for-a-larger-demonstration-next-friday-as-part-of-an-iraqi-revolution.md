@@ -21,8 +21,8 @@ Reports of deaths as thousands turn out to demand better service delivery and jo
 
 ### Changes:
 
-1. [2011 Iraqi protests:Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/2011-iraqi-protests-panti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an.md) _2017-08-25 03:32:15 (First version)_
-2. [2011 Iraqi protests:: Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/2011-iraqi-protests-anti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an.md) _2017-08-27 03:32:23 (Update)_
+1. [2011 Iraqi protests:Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/2011-iraqi-protests-panti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Iraqi protests:: Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/2011-iraqi-protests-anti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/anti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an-iraqi-revolution.md) _(Current version)_
 
 ### Related:

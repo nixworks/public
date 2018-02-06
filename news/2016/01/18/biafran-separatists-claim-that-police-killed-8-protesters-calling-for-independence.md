@@ -16,7 +16,7 @@ WARRI, Nigeria (AP) — Nigerian separatists said police killed eight people dur
 
 ### Changes:
 
-1. [MASSOB: Biafran separatists claim that police killed 8 protesters calling for independence. ](/news/2016/01/18/massob-biafran-separatists-claim-that-police-killed-8-protesters-calling-for-independence.md) _2017-08-27 03:44:43 (First version)_
+1. [MASSOB: Biafran separatists claim that police killed 8 protesters calling for independence. ](/news/2016/01/18/massob-biafran-separatists-claim-that-police-killed-8-protesters-calling-for-independence.md) _2018-02-06 13:49:28 (First version)_
 1. [Biafran separatists claim that police killed 8 protesters calling for independence. ](/news/2016/01/18/biafran-separatists-claim-that-police-killed-8-protesters-calling-for-independence.md) _(Current version)_
 
 ### Related:

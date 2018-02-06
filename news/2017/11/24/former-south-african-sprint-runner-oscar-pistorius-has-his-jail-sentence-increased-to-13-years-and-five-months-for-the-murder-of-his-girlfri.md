@@ -16,7 +16,7 @@ Oscar Pistorius prison sentence increased to 13 years and 5 months.
 
 ### Changes:
 
-1. [Former South African athlete Oscar Pistorius has his jail sentence doubled to 13 years for the murder of his girlfriend Reeva Steenkamp. ](/news/2017/11/24/former-south-african-athlete-oscar-pistorius-has-his-jail-sentence-doubled-to-13-years-for-the-murder-of-his-girlfriend-reeva-steenkamp.md) _2017-11-24 19:30:05 (First version)_
+1. [Former South African athlete Oscar Pistorius has his jail sentence doubled to 13 years for the murder of his girlfriend Reeva Steenkamp. ](/news/2017/11/24/former-south-african-athlete-oscar-pistorius-has-his-jail-sentence-doubled-to-13-years-for-the-murder-of-his-girlfriend-reeva-steenkamp.md) _2018-02-06 13:49:31 (First version)_
 1. [Former South African sprint runner Oscar Pistorius has his jail sentence increased to 13 years and five months for the murder of his girlfriend Reeva Steenkamp. The Supreme Court of Appeal ruled his sentence be increased to 15 years, less time already served. ](/news/2017/11/24/former-south-african-sprint-runner-oscar-pistorius-has-his-jail-sentence-increased-to-13-years-and-five-months-for-the-murder-of-his-girlfri.md) _(Current version)_
 
 ### Related:

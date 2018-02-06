@@ -16,7 +16,7 @@ Janet Hughes, who died in the huge Pinery bushfire north of Adelaide, had just o
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: At least 87 homes have been lost in the fires that started in Pinery, South Australia which also claimed two lives and hospitalised 90 with five people in a critical condition. ](/news/2015/11/27/2015-16-australian-bushfire-season-at-least-87-homes-have-been-lost-in-the-fires-that-started-in-pinery-south-australia-which-also-claim.md) _2017-08-27 03:44:04 (First version)_
+1. [2015-16 Australian bushfire season: At least 87 homes have been lost in the fires that started in Pinery, South Australia which also claimed two lives and hospitalised 90 with five people in a critical condition. ](/news/2015/11/27/2015-16-australian-bushfire-season-at-least-87-homes-have-been-lost-in-the-fires-that-started-in-pinery-south-australia-which-also-claim.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 87 homes have been lost in the fires that started in Pinery, South Australia which also claimed two lives and hospitalised 90 with five people in a critical condition. ](/news/2015/11/27/at-least-87-homes-have-been-lost-in-the-fires-that-started-in-pinery-south-australia-which-also-claimed-two-lives-and-hospitalised-90-with.md) _(Current version)_
 
 ### Related:

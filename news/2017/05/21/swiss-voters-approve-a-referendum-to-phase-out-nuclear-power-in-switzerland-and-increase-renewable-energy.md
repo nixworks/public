@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-
 
 ### Changes:
 
-1. [Swiss referendums, 2017: Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-referendums-2017-swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _2017-08-27 03:48:22 (First version)_
+1. [Swiss referendums, 2017: Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-referendums-2017-swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _2018-02-06 13:49:30 (First version)_
 1. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _(Current version)_
 
 ### Related:

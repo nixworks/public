@@ -16,7 +16,7 @@ Tropical storm Newton, located 350 kilometers southeast of Cabo San Lucas, reach
 
 ### Changes:
 
-1. [2016 Pacific hurricane season: Hurricane Newton makes its way towards the resort town of Los Cabos, Mexico. ](/news/2016/09/6/2016-pacific-hurricane-season-hurricane-newton-makes-its-way-towards-the-resort-town-of-los-cabos-mexico.md) _2017-08-27 03:46:47 (First version)_
+1. [2016 Pacific hurricane season: Hurricane Newton makes its way towards the resort town of Los Cabos, Mexico. ](/news/2016/09/6/2016-pacific-hurricane-season-hurricane-newton-makes-its-way-towards-the-resort-town-of-los-cabos-mexico.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Newton makes its way towards the resort town of Los Cabos, Mexico. ](/news/2016/09/6/hurricane-newton-makes-its-way-towards-the-resort-town-of-los-cabos-mexico.md) _(Current version)_
 
 ### Related:

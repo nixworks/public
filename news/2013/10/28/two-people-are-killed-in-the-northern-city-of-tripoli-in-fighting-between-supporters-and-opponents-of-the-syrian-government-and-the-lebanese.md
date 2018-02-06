@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/10/28/two-people-are-killed-in-the-northern-city-of-t
 
 ### Changes:
 
-1. [Syrian civil war spillover in Lebanon:Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/syrian-civil-war-spillover-in-lebanon-ptwo-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-of.md) _2017-08-25 03:39:27 (First version)_
-2. [Syrian civil war spillover in Lebanon:: Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/syrian-civil-war-spillover-in-lebanon-two-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-o.md) _2017-08-27 03:39:44 (Update)_
+1. [Syrian civil war spillover in Lebanon:: Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/syrian-civil-war-spillover-in-lebanon-two-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-o.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war spillover in Lebanon:Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/syrian-civil-war-spillover-in-lebanon-ptwo-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-of.md) _2018-02-06 13:49:25 (Update)_
 2. [Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/two-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-of-the-syrian-government-and-the-lebanese.md) _(Current version)_
 
 ### Related:

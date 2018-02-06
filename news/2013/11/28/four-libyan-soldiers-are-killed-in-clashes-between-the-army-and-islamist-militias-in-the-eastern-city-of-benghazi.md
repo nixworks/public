@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/28/four-libyan-soldiers-are-killed-in-clashes-betw
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:Four Libyan soldiers are killed in clashes between the army and Islamist militias in the eastern city of Benghazi. ](/news/2013/11/28/post-civil-war-violence-in-libya-pfour-libyan-soldiers-are-killed-in-clashes-between-the-army-and-islamist-militias-in-the-eastern-city-of-b.md) _2017-08-25 03:39:36 (First version)_
-2. [Post-civil war violence in Libya:: Four Libyan soldiers are killed in clashes between the army and Islamist militias in the eastern city of Benghazi. ](/news/2013/11/28/post-civil-war-violence-in-libya-four-libyan-soldiers-are-killed-in-clashes-between-the-army-and-islamist-militias-in-the-eastern-city-of.md) _2017-08-27 03:39:54 (Update)_
+1. [Post-civil war violence in Libya:Four Libyan soldiers are killed in clashes between the army and Islamist militias in the eastern city of Benghazi. ](/news/2013/11/28/post-civil-war-violence-in-libya-pfour-libyan-soldiers-are-killed-in-clashes-between-the-army-and-islamist-militias-in-the-eastern-city-of-b.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:: Four Libyan soldiers are killed in clashes between the army and Islamist militias in the eastern city of Benghazi. ](/news/2013/11/28/post-civil-war-violence-in-libya-four-libyan-soldiers-are-killed-in-clashes-between-the-army-and-islamist-militias-in-the-eastern-city-of.md) _2018-02-06 13:49:25 (Update)_
 2. [Four Libyan soldiers are killed in clashes between the army and Islamist militias in the eastern city of Benghazi. ](/news/2013/11/28/four-libyan-soldiers-are-killed-in-clashes-between-the-army-and-islamist-militias-in-the-eastern-city-of-benghazi.md) _(Current version)_
 
 ### Related:

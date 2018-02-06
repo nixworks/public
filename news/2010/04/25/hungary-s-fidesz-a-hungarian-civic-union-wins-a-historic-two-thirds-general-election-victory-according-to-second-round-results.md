@@ -18,7 +18,7 @@ Hungary&#039;s centre-right opposition has won a two-thirds general election vic
 
 ### Changes:
 
-1. [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md) _2017-08-27 03:27:42 (First version)_
+1. [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md) _2018-02-06 13:49:20 (First version)_
 1. [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-a-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md) _(Current version)_
 
 ### Related:

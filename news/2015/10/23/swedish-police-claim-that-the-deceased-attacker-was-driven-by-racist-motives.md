@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/23/swedish-police-claim-that-the-deceased-attacker
 
 ### Changes:
 
-1. [Trollhattan school attack: Swedish police claim that the deceased attacker was driven by "racist motives". ](/news/2015/10/23/trollha-ttan-school-attack-swedish-police-claim-that-the-deceased-attacker-was-driven-by-racist-motives.md) _2017-08-27 03:43:28 (First version)_
+1. [Trollhattan school attack: Swedish police claim that the deceased attacker was driven by "racist motives". ](/news/2015/10/23/trollha-ttan-school-attack-swedish-police-claim-that-the-deceased-attacker-was-driven-by-racist-motives.md) _2018-02-06 13:49:28 (First version)_
 1. [Swedish police claim that the deceased attacker was driven by "racist motives". ](/news/2015/10/23/swedish-police-claim-that-the-deceased-attacker-was-driven-by-racist-motives.md) _(Current version)_
 
 ### Related:

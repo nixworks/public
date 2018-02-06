@@ -16,7 +16,7 @@ Supporters of a bid for California independence are again submitting plans for a
 
 ### Changes:
 
-1. [California independence: California independence supporters submit their second formal bid for a 2018 ballot concerning Calexit. ](/news/2017/05/19/california-independence-california-independence-supporters-submit-their-second-formal-bid-for-a-2018-ballot-concerning-calexit.md) _2017-08-27 03:48:21 (First version)_
+1. [California independence: California independence supporters submit their second formal bid for a 2018 ballot concerning Calexit. ](/news/2017/05/19/california-independence-california-independence-supporters-submit-their-second-formal-bid-for-a-2018-ballot-concerning-calexit.md) _2018-02-06 13:49:30 (First version)_
 1. [California independence supporters submit their second formal bid for a 2018 ballot concerning Calexit. ](/news/2017/05/19/california-independence-supporters-submit-their-second-formal-bid-for-a-2018-ballot-concerning-calexit.md) _(Current version)_
 
 ### Related:

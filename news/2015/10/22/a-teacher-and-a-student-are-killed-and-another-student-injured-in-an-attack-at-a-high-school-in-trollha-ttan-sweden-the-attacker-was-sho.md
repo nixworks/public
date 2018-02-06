@@ -17,7 +17,7 @@ A masked man armed with a sword kills a teacher and a pupil at a school in the S
 
 ### Changes:
 
-1. [Trollhattan school attack: A teacher and a student are killed, and another student injured, in an attack at a high school in Trollhattan, Sweden. The attacker was shot dead by police. ](/news/2015/10/22/trollha-ttan-school-attack-a-teacher-and-a-student-are-killed-and-another-student-injured-in-an-attack-at-a-high-school-in-trollha-ttan.md) _2017-08-27 03:43:28 (First version)_
+1. [Trollhattan school attack: A teacher and a student are killed, and another student injured, in an attack at a high school in Trollhattan, Sweden. The attacker was shot dead by police. ](/news/2015/10/22/trollha-ttan-school-attack-a-teacher-and-a-student-are-killed-and-another-student-injured-in-an-attack-at-a-high-school-in-trollha-ttan.md) _2018-02-06 13:49:28 (First version)_
 1. [A teacher and a student are killed, and another student injured, in an attack at a high school in Trollhattan, Sweden. The attacker was shot dead by police. ](/news/2015/10/22/a-teacher-and-a-student-are-killed-and-another-student-injured-in-an-attack-at-a-high-school-in-trollha-ttan-sweden-the-attacker-was-sho.md) _(Current version)_
 
 ### Related:

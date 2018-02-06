@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/05/13/at-least-40-people-die-in-a-truck-bomb-attack-o
 
 ### Changes:
 
-1. [ Iraq War: At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/iraq-war-p-at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md) _2017-08-25 03:19:48 (First version)_
-2. [ Iraq War:: At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/iraq-war-at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md) _2017-08-27 03:19:45 (Update)_
+1. [ Iraq War: At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/iraq-war-p-at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/iraq-war-at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md) _2018-02-06 13:49:17 (Update)_
 2. [ At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md) _(Current version)_
 
 ### Related:

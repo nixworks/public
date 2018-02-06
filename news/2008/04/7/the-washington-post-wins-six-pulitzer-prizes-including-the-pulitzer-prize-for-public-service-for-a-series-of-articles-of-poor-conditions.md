@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-inc
 
 ### Changes:
 
-1. [ The ''Washington Post'' wins six Pulitzer Prizes including the Pulitzer Prize for Public Service for a series of articles of poor conditions for veterans at the Walter Reed Army Medical Center. ](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-including-the-pulitzer-prize-for-public-service-for-a-series-of-articles-of-poor-condition.md) _2017-08-25 03:22:02 (First version)_
+1. [ The ''Washington Post'' wins six Pulitzer Prizes including the Pulitzer Prize for Public Service for a series of articles of poor conditions for veterans at the Walter Reed Army Medical Center. ](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-including-the-pulitzer-prize-for-public-service-for-a-series-of-articles-of-poor-condition.md) _2018-02-06 13:49:18 (First version)_
 1. [ The "Washington Post" wins six Pulitzer Prizes including the Pulitzer Prize for Public Service for a series of articles of poor conditions for veterans at the Walter Reed Army Medical Center. ](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-including-the-pulitzer-prize-for-public-service-for-a-series-of-articles-of-poor-conditions.md) _(Current version)_
 
 ### Related:

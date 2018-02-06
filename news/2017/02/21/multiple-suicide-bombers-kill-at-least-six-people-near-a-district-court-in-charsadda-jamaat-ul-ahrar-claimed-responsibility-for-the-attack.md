@@ -15,7 +15,7 @@ At least six killed in blasts in town of Charsadda as suicide bombers attempt to
 
 ### Changes:
 
-1. [War in North-West Pakistan: Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/war-in-north-west-pakistan-multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-re.md) _2017-08-27 03:47:51 (First version)_
+1. [War in North-West Pakistan: Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/war-in-north-west-pakistan-multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-re.md) _2018-02-06 13:49:30 (First version)_
 1. [Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-responsibility-for-the-attack.md) _(Current version)_
 
 ### Related:

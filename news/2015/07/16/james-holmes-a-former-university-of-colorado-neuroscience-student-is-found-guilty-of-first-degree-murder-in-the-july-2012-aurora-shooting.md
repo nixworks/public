@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/16/james-holmes-a-former-university-of-colorado-ne
 
 ### Changes:
 
-1. [James Eagan Holmes, a former University of Colorado neuroscience student, is found guilty of first-degree murder in the July 2012 Aurora movie theater massacre, which killed 12 and injured 70; he had plead not guilty by reason of legal insanity. ](/news/2015/07/16/james-eagan-holmes-a-former-university-of-colorado-neuroscience-student-is-found-guilty-of-first-degree-murder-in-the-july-2012-aurora-mov.md) _2017-10-17 03:49:17 (First version)_
+1. [James Eagan Holmes, a former University of Colorado neuroscience student, is found guilty of first-degree murder in the July 2012 Aurora movie theater massacre, which killed 12 and injured 70; he had plead not guilty by reason of legal insanity. ](/news/2015/07/16/james-eagan-holmes-a-former-university-of-colorado-neuroscience-student-is-found-guilty-of-first-degree-murder-in-the-july-2012-aurora-mov.md) _2018-02-06 13:49:27 (First version)_
 1. [James Holmes, a former University of Colorado neuroscience student, is found guilty of first-degree murder in the July 2012 Aurora shooting, which killed 12 and injured 70; he had plead not guilty by reason of legal insanity. ](/news/2015/07/16/james-holmes-a-former-university-of-colorado-neuroscience-student-is-found-guilty-of-first-degree-murder-in-the-july-2012-aurora-shooting.md) _(Current version)_
 
 ### Related:

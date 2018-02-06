@@ -16,8 +16,8 @@ A female suicide bomber has injured at least 11 police officers and civilians, i
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/insurgency-in-the-north-caucasus-pa-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-makh.md) _2017-08-25 03:38:43 (First version)_
-2. [Insurgency in the North Caucasus:: A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/insurgency-in-the-north-caucasus-a-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-mak.md) _2017-08-27 03:38:57 (Update)_
+1. [Insurgency in the North Caucasus:A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/insurgency-in-the-north-caucasus-pa-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-makh.md) _2018-02-06 13:49:24 (First version)_
+2. [Insurgency in the North Caucasus:: A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/insurgency-in-the-north-caucasus-a-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-mak.md) _2018-02-06 13:49:24 (Update)_
 2. [A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/a-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-makhachkala-in-the-southern-russian-re.md) _(Current version)_
 
 ### Related:

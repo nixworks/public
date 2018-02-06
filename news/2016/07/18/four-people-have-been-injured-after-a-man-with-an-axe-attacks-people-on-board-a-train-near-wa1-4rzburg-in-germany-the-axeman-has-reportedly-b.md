@@ -18,7 +18,7 @@ A teenage Afghan refugee attacks passengers on a train in Germany with an axe an
 
 ### Changes:
 
-1. [2016 Wurzburg train attack: Four people have been injured after a man with an axe attacks people on board a train near Wurzburg in Germany. The axeman has reportedly been shot by police and is reportedly a 17-year-old Afghan man who pledged allegiance to ISIL before the attack. ](/news/2016/07/18/2016-wa1-4rzburg-train-attack-four-people-have-been-injured-after-a-man-with-an-axe-attacks-people-on-board-a-train-near-wa1-4rzburg-in-germany.md) _2017-08-27 03:46:30 (First version)_
+1. [2016 Wurzburg train attack: Four people have been injured after a man with an axe attacks people on board a train near Wurzburg in Germany. The axeman has reportedly been shot by police and is reportedly a 17-year-old Afghan man who pledged allegiance to ISIL before the attack. ](/news/2016/07/18/2016-wa1-4rzburg-train-attack-four-people-have-been-injured-after-a-man-with-an-axe-attacks-people-on-board-a-train-near-wa1-4rzburg-in-germany.md) _2018-02-06 13:49:29 (First version)_
 1. [Four people have been injured after a man with an axe attacks people on board a train near Wurzburg in Germany. The axeman has reportedly been shot by police and is reportedly a 17-year-old Afghan man who pledged allegiance to ISIL before the attack. ](/news/2016/07/18/four-people-have-been-injured-after-a-man-with-an-axe-attacks-people-on-board-a-train-near-wa1-4rzburg-in-germany-the-axeman-has-reportedly-b.md) _(Current version)_
 
 ### Related:

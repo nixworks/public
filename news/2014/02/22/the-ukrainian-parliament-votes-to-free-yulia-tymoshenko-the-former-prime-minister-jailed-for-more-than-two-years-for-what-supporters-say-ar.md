@@ -20,8 +20,8 @@ Formats: [HTML](/news/2014/02/22/the-ukrainian-parliament-votes-to-free-yulia-ty
 
 ### Changes:
 
-1. [Euromaidan:The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-pthe-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-suppo.md) _2017-08-25 03:40:04 (First version)_
-2. [Euromaidan:: The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-the-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-supp.md) _2017-08-27 03:40:22 (Update)_
+1. [Euromaidan:: The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-the-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-supp.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-pthe-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-suppo.md) _2018-02-06 13:49:25 (Update)_
 2. [The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/the-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-supporters-say-ar.md) _(Current version)_
 
 ### Related:

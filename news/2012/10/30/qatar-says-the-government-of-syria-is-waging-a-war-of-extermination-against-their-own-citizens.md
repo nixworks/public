@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/10/30/qatar-says-the-government-of-syria-is-waging-a-
 
 ### Changes:
 
-1. [Syrian civil war:Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-pqatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md) _2017-08-25 03:36:45 (First version)_
-2. [Syrian civil war:: Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md) _2017-08-27 03:36:55 (Update)_
+1. [Syrian civil war:: Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-pqatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md) _2018-02-06 13:49:24 (Update)_
 2. [Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md) _(Current version)_
 
 ### Related:

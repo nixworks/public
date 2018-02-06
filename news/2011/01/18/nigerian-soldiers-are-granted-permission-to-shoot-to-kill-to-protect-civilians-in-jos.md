@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/01/18/nigerian-soldiers-are-granted-permission-to-sho
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-sharia-conflict-pnigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _2017-08-25 03:31:50 (First version)_
-2. [Nigerian Sharia conflict:: Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-sharia-conflict-nigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _2017-08-27 03:31:57 (Update)_
+1. [Nigerian Sharia conflict:Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-sharia-conflict-pnigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _2018-02-06 13:49:21 (First version)_
+2. [Nigerian Sharia conflict:: Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-sharia-conflict-nigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _2018-02-06 13:49:21 (Update)_
 2. [Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md) _(Current version)_
 
 ### Related:

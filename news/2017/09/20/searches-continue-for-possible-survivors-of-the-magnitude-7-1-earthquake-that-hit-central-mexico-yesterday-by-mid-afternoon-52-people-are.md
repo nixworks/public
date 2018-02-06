@@ -17,8 +17,8 @@ A powerful earthquake shook central Mexico on Tuesday, killing at least two peop
 
 ### Changes:
 
-1. [Searches continue for possible survivors of the 7.1 magnitude earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-7-1-magnitude-earthquake-that-hit-central-mexico-yesterday.md) _2017-09-20 20:30:05 (First version)_
-2. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday.md) _2017-09-20 22:30:05 (Update)_
+1. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday.md) _2018-02-06 13:49:31 (First version)_
+2. [Searches continue for possible survivors of the 7.1 magnitude earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-7-1-magnitude-earthquake-that-hit-central-mexico-yesterday.md) _2018-02-06 13:49:31 (Update)_
 2. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _(Current version)_
 
 ### Related:

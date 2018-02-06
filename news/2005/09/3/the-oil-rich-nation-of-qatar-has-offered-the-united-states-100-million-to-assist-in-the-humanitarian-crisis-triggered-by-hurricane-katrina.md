@@ -21,8 +21,8 @@ Formats: [HTML](/news/2005/09/3/the-oil-rich-nation-of-qatar-has-offered-the-uni
 
 ### Changes:
 
-1. [ Hurricane Katrina: The oil-rich nation of Qatar has offered the United States $100 million to assist in the humanitarian crisis triggered by Hurricane Katrina. ](/news/2005/09/3/hurricane-katrina-p-the-oil-rich-nation-of-qatar-has-offered-the-united-states-100-million-to-assist-in-the-humanitarian-crisis-triggered.md) _2017-08-25 03:16:45 (First version)_
-2. [ Hurricane Katrina:: The oil-rich nation of Qatar has offered the United States $100 million to assist in the humanitarian crisis triggered by Hurricane Katrina. ](/news/2005/09/3/hurricane-katrina-the-oil-rich-nation-of-qatar-has-offered-the-united-states-100-million-to-assist-in-the-humanitarian-crisis-triggered.md) _2017-08-27 03:16:46 (Update)_
+1. [ Hurricane Katrina:: The oil-rich nation of Qatar has offered the United States $100 million to assist in the humanitarian crisis triggered by Hurricane Katrina. ](/news/2005/09/3/hurricane-katrina-the-oil-rich-nation-of-qatar-has-offered-the-united-states-100-million-to-assist-in-the-humanitarian-crisis-triggered.md) _2018-02-06 13:49:16 (First version)_
+2. [ Hurricane Katrina: The oil-rich nation of Qatar has offered the United States $100 million to assist in the humanitarian crisis triggered by Hurricane Katrina. ](/news/2005/09/3/hurricane-katrina-p-the-oil-rich-nation-of-qatar-has-offered-the-united-states-100-million-to-assist-in-the-humanitarian-crisis-triggered.md) _2018-02-06 13:49:16 (Update)_
 2. [ The oil-rich nation of Qatar has offered the United States $100 million to assist in the humanitarian crisis triggered by Hurricane Katrina. ](/news/2005/09/3/the-oil-rich-nation-of-qatar-has-offered-the-united-states-100-million-to-assist-in-the-humanitarian-crisis-triggered-by-hurricane-katrina.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/17/libya-s-deputy-intelligence-chief-mustafa-noah-
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/post-civil-war-violence-in-libya-plibya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md) _2017-08-25 03:39:32 (First version)_
-2. [Post-civil war violence in Libya:: Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/post-civil-war-violence-in-libya-libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md) _2017-08-27 03:39:50 (Update)_
+1. [Post-civil war violence in Libya:Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/post-civil-war-violence-in-libya-plibya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:: Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/post-civil-war-violence-in-libya-libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md) _2018-02-06 13:49:25 (Update)_
 2. [Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md) _(Current version)_
 
 ### Related:

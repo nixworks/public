@@ -18,7 +18,7 @@ An air strike hit a hospital in the rebel-held Syrian village of Awaijel, west o
 
 ### Changes:
 
-1. [Syrian Civil War: Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/syrian-civil-war-between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospit.md) _2017-08-27 03:47:14 (First version)_
+1. [Syrian Civil War: Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/syrian-civil-war-between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospit.md) _2018-02-06 13:49:29 (First version)_
 1. [Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _(Current version)_
 
 ### Related:

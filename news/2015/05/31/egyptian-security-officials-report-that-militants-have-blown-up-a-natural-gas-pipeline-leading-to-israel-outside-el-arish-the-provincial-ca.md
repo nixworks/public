@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/31/egyptian-security-officials-report-that-militan
 
 ### Changes:
 
-1. [Sinai insurgency: Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/sinai-insurgency-egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish.md) _2017-08-27 03:42:27 (First version)_
+1. [Sinai insurgency: Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/sinai-insurgency-egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish.md) _2018-02-06 13:49:27 (First version)_
 1. [Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish-the-provincial-ca.md) _(Current version)_
 
 ### Related:

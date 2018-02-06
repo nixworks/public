@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree
 
 ### Changes:
 
-1. [Iraqi Civil War: Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/iraqi-civil-war-senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more.md) _2017-08-27 03:45:52 (First version)_
+1. [Iraqi Civil War: Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/iraqi-civil-war-senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more.md) _2018-02-06 13:49:28 (First version)_
 1. [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md) _(Current version)_
 
 ### Related:

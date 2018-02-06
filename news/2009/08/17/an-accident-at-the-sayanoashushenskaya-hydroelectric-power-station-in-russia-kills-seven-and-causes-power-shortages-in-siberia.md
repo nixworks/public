@@ -17,7 +17,7 @@ Eight people are dead and 54 still unaccounted for after an accident at a hydroe
 
 ### Changes:
 
-1. [ An accident at the Sayano-Shushenskaya hydroelectric power station in Russia kills seven and causes power shortages in Siberia. ](/news/2009/08/17/an-accident-at-the-sayano-shushenskaya-hydroelectric-power-station-in-russia-kills-seven-and-causes-power-shortages-in-siberia.md) _2017-08-27 03:25:23 (First version)_
+1. [ An accident at the Sayano-Shushenskaya hydroelectric power station in Russia kills seven and causes power shortages in Siberia. ](/news/2009/08/17/an-accident-at-the-sayano-shushenskaya-hydroelectric-power-station-in-russia-kills-seven-and-causes-power-shortages-in-siberia.md) _2018-02-06 13:49:19 (First version)_
 1. [ An accident at the Sayano-Shushenskaya hydroelectric power station in Russia kills seven and causes power shortages in Siberia. ](/news/2009/08/17/an-accident-at-the-sayanoashushenskaya-hydroelectric-power-station-in-russia-kills-seven-and-causes-power-shortages-in-siberia.md) _(Current version)_
 
 ### Related:

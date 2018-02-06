@@ -18,7 +18,7 @@ The 2013 Congress must make progress, ratings agency warns.
 
 ### Changes:
 
-1. [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-d.md) _2017-08-25 03:36:29 (First version)_
+1. [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-d.md) _2018-02-06 13:49:23 (First version)_
 1. [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-de.md) _(Current version)_
 
 ### Related:

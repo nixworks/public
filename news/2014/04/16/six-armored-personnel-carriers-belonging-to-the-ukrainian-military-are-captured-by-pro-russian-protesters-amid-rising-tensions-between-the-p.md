@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/16/six-armored-personnel-carriers-belonging-to-the
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/2014-pro-russian-unrest-in-ukraine-psix-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-protester.md) _2017-08-25 03:40:18 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/2014-pro-russian-unrest-in-ukraine-six-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-proteste.md) _2017-08-27 03:40:35 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/2014-pro-russian-unrest-in-ukraine-six-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-proteste.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/2014-pro-russian-unrest-in-ukraine-psix-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-protester.md) _2018-02-06 13:49:26 (Update)_
 2. [Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/six-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-protesters-amid-rising-tensions-between-the-p.md) _(Current version)_
 
 ### Related:

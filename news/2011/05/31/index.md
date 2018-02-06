@@ -29,7 +29,7 @@ _Context: Tiananmen Square protests of 1989_
 
 ##### Cameroon
 ### [Riot police in Cameroon arrest and disperse hundreds of farmers protesting in the capital Yaounde over poor road conditions and low state support for agriculture. ](/news/2011/05/31/riot-police-in-cameroon-arrest-and-disperse-hundreds-of-farmers-protesting-in-the-capital-yaounde-over-poor-road-conditions-and-low-state-su.md)
-_Context: agriculture, Cameroon, Yaounde_
+_Context: Cameroon, agriculture, Yaounde_
 
 ##### J. R. R. Tolkien
 ### [The titles and release dates of the two films based on J. R. R. Tolkien's "The Hobbit" are announced. ](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.md)
@@ -57,7 +57,7 @@ Sony plans to restore all its PlayStation Network services by this weekend in al
 
 ##### Apple Inc
 ### [Apple Inc announces plans to introduce a digital locker music service called iCloud with negotiations well advanced with major label record companies for rights. ](/news/2011/05/31/apple-inc-announces-plans-to-introduce-a-digital-locker-music-service-called-icloud-with-negotiations-well-advanced-with-major-label-record.md)
-_Context: iCloud, digital locker, Apple Inc, major label_
+_Context: digital locker, major label, Apple Inc, iCloud_
 
 ##### Assam
 ### [27 people are killed after their bus plunges into a gorge in Assam, eastern India. ](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.md)
@@ -83,7 +83,7 @@ _Context: Souris River, Minot_
 
 ##### 2011 Joplin tornado
 ### [The names of 123 victims of the tornado that hit the US city of Joplin, Missouri are released. ](/news/2011/05/31/the-names-of-123-victims-of-the-tornado-that-hit-the-us-city-of-joplin-missouri-are-released.md)
-_Context: Missouri, Joplin, 2011 Joplin tornado_
+_Context: Joplin, Missouri, 2011 Joplin tornado_
 
 ##### Peru
 ### [At least 20 people die after a bus plunges off a cliff in the Peruvian Andes. ](/news/2011/05/31/at-least-20-people-die-after-a-bus-plunges-off-a-cliff-in-the-peruvian-andes.md)
@@ -99,7 +99,7 @@ Iran denied a plane carrying German Chancellor Angela Merkel permission to fly t
 
 ##### Uganda
 ### [British authorities refuse asylum to 22-year-old Betty Tibikawa, homophobically attacked by three men in Uganda, despite deputy prime minister Nick Clegg's claim that his government would stop its policy of deporting people who are persecuted over their sexual orientation. The British government is currently detaining Ms. Tibikawa at a facility in Bedford. ](/news/2011/05/31/british-authorities-refuse-asylum-to-22-year-old-betty-tibikawa-homophobically-attacked-by-three-men-in-uganda-despite-deputy-prime-minist.md)
-_Context: Bedford, Nick Clegg, Uganda_
+_Context: Uganda, Bedford, Nick Clegg_
 
 ##### Istanbul
 ### [Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/thousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed-during-the-gaza-flotilla-raid-a-year-ago.md)
@@ -111,7 +111,7 @@ The two sides have agreed to a preliminary arrangement on demilitarizing the bor
 
 ##### Bolivia
 ### [Bolivia takes steps to ensure that Ahmad Vahidi, the Iranian Minister of Defence, leaves the country as soon as possible following a complaint from Argentina who believed that he was responsible for the 1994 bombing of a Jewish Community City in Buenos Aires. ](/news/2011/05/31/bolivia-takes-steps-to-ensure-that-ahmad-vahidi-the-iranian-minister-of-defence-leaves-the-country-as-soon-as-possible-following-a-complai.md)
-_Context: Bolivia, Ahmad Vahidi, Argentina, Minister of Defence, 1994 bombing of a Jewish Community City, Iran, Buenos Aires_
+_Context: Buenos Aires, Bolivia, Argentina, Iran, Minister of Defence, 1994 bombing of a Jewish Community City, Ahmad Vahidi_
 
 ##### Rustam Makhmudov
 ### [Rustam Makhmudov, suspected of the 2006 shooting of Russian journalist Anna Politkovskaya, is arrested overnight at the home of his parents in Chechnya. ](/news/2011/05/31/rustam-makhmudov-suspected-of-the-2006-shooting-of-russian-journalist-anna-politkovskaya-is-arrested-overnight-at-the-home-of-his-parents.md)
@@ -119,7 +119,7 @@ The man suspected of shooting Russian journalist Anna Politkovskaya in 2006 is a
 
 ##### Serbia
 ### [Serbia's war crimes court rejects an appeal from former Bosnian Serb Colonel General Ratko Mladic against a transfer to a United Nations tribunal in The Hague to face genocide charges. ](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.md)
-_Context: Bosnian Serb, genocide, Colonel General, The Hague, Ratko Mladic, United Nations, Serbia_
+_Context: genocide, Ratko Mladic, United Nations, The Hague, Bosnian Serb, Colonel General, Serbia_
 
 ##### extradition
 ### [A Spanish court approves the extradition of former Guatemalan Interior Minister Carlos Vielmann to face murder charges in connection with a 2006 uprising at the Pavon prison in Guatemala where seven inmates were killed. ](/news/2011/05/31/a-spanish-court-approves-the-extradition-of-former-guatemalan-interior-minister-carlos-vielmann-to-face-murder-charges-in-connection-with-a.md)
@@ -139,7 +139,7 @@ The Dalai Lama has formally relinquished his political and administrative powers
 
 ##### Adil Abdul-Mahdi
 ### [Adil Abdul-Mahdi, First Vice President of Iraq, resigns after Prime Minister Nouri Al-Maliki fends off critics who say he has not delivered on power-sharing promises. ](/news/2011/05/31/adil-abdul-mahdi-first-vice-president-of-iraq-resigns-after-prime-minister-nouri-al-maliki-fends-off-critics-who-say-he-has-not-delivered.md)
-_Context: Adil Abdul-Mahdi, Nouri Al-Maliki, Iraq Prime Minister, Vice President_
+_Context: Adil Abdul-Mahdi, Nouri Al-Maliki, Vice President, Iraq Prime Minister_
 
 ##### Irish Independent
 ### [The "Irish Independent" and "The Belfast Telegraph" begin a week-long joint publication of the Ireland Cables, the latest batch of U.S. diplomatic cables, in co-operation with WikiLeaks and Julian Assange. The cables, dating back more than 25 years, feature government members, diplomats, alleged terrorists, oil companies and Vatican insiders. ](/news/2011/05/31/the-irish-independent-and-the-belfast-telegraph-begin-a-week-long-joint-publication-of-the-ireland-cables-the-latest-batch-of-u-s-dipl.md)

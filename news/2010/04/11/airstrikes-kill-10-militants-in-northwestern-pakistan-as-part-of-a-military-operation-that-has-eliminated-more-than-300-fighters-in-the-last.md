@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/04/11/airstrikes-kill-10-militants-in-northwestern-pa
 
 ### Changes:
 
-1. [Pakistan:Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-pairstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters-i.md) _2017-08-25 03:27:36 (First version)_
-2. [Pakistan:: Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters.md) _2017-08-27 03:27:33 (Update)_
+1. [Pakistan:Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-pairstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters-i.md) _2018-02-06 13:49:19 (First version)_
+2. [Pakistan:: Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters.md) _2018-02-06 13:49:19 (Update)_
 2. [Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters-in-the-last.md) _(Current version)_
 
 ### Related:

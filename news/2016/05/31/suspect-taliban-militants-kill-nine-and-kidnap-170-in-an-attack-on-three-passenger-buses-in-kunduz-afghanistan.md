@@ -17,7 +17,7 @@ Taliban insurgents killed nine people and kidnapped 20 others when they held up 
 
 ### Changes:
 
-1. [ War in Afghanistan (2015-present): Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/war-in-afghanistan-2015-present-suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-af.md) _2017-08-27 03:46:10 (First version)_
+1. [ War in Afghanistan (2015-present): Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/war-in-afghanistan-2015-present-suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-af.md) _2018-02-06 13:49:29 (First version)_
 1. [ Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-afghanistan.md) _(Current version)_
 
 ### Related:

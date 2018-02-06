@@ -16,7 +16,7 @@ North Korea fires three ballistic missiles into the sea off its east coast, Sout
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/north-korea-south-korea-relations-south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md) _2017-08-27 03:46:47 (First version)_
+1. [North Korea-South Korea relations: South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/north-korea-south-korea-relations-south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 
 ### Changes:
 
-1. [ Pope Benedict XVI's motu proprio ''Summorum Pontificum'' takes effect; the traditional Latin Mass is thus officially restored in the Roman Catholic Church. ](/news/2007/09/14/pope-benedict-xvi-s-motu-proprio-summorum-pontificum-takes-effect-the-traditional-latin-mass-is-thus-officially-restored-in-the-roman.md) _2017-08-25 03:20:58 (First version)_
+1. [ Pope Benedict XVI's motu proprio ''Summorum Pontificum'' takes effect; the traditional Latin Mass is thus officially restored in the Roman Catholic Church. ](/news/2007/09/14/pope-benedict-xvi-s-motu-proprio-summorum-pontificum-takes-effect-the-traditional-latin-mass-is-thus-officially-restored-in-the-roman.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pope Benedict XVI's motu proprio "Summorum Pontificum" takes effect; the traditional Latin Mass is thus officially restored in the Roman Catholic Church. ](/news/2007/09/14/pope-benedict-xvi-s-motu-proprio-summorum-pontificum-takes-effect-the-traditional-latin-mass-is-thus-officially-restored-in-the-roman-ca.md) _(Current version)_
 
 ### Related:

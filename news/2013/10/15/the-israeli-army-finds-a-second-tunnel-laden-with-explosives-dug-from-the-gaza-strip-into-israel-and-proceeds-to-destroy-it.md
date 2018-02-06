@@ -17,8 +17,8 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:The Israeli army finds a second tunnel laden with explosives dug from the Gaza Strip into Israel and proceeds to destroy it. ](/news/2013/10/15/israeli-palestinian-conflict-pthe-israeli-army-finds-a-second-tunnel-laden-with-explosives-dug-from-the-gaza-strip-into-israel-and-proceeds.md) _2017-08-25 03:39:23 (First version)_
-2. [Israeli-Palestinian conflict:: The Israeli army finds a second tunnel laden with explosives dug from the Gaza Strip into Israel and proceeds to destroy it. ](/news/2013/10/15/israeli-palestinian-conflict-the-israeli-army-finds-a-second-tunnel-laden-with-explosives-dug-from-the-gaza-strip-into-israel-and-proceeds.md) _2017-08-27 03:39:40 (Update)_
+1. [Israeli-Palestinian conflict:: The Israeli army finds a second tunnel laden with explosives dug from the Gaza Strip into Israel and proceeds to destroy it. ](/news/2013/10/15/israeli-palestinian-conflict-the-israeli-army-finds-a-second-tunnel-laden-with-explosives-dug-from-the-gaza-strip-into-israel-and-proceeds.md) _2018-02-06 13:49:25 (First version)_
+2. [Israeli-Palestinian conflict:The Israeli army finds a second tunnel laden with explosives dug from the Gaza Strip into Israel and proceeds to destroy it. ](/news/2013/10/15/israeli-palestinian-conflict-pthe-israeli-army-finds-a-second-tunnel-laden-with-explosives-dug-from-the-gaza-strip-into-israel-and-proceeds.md) _2018-02-06 13:49:25 (Update)_
 2. [The Israeli army finds a second tunnel laden with explosives dug from the Gaza Strip into Israel and proceeds to destroy it. ](/news/2013/10/15/the-israeli-army-finds-a-second-tunnel-laden-with-explosives-dug-from-the-gaza-strip-into-israel-and-proceeds-to-destroy-it.md) _(Current version)_
 
 ### Related:

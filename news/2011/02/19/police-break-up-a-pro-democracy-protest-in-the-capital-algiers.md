@@ -17,8 +17,8 @@ Several people are injured and others are arrested as police thwart pro-democrac
 
 ### Changes:
 
-1. [2010-2011 Algerian protests:Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-ppolice-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _2017-08-25 03:32:16 (First version)_
-2. [2010-2011 Algerian protests:: Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _2017-08-27 03:32:24 (Update)_
+1. [2010-2011 Algerian protests:Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-ppolice-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Algerian protests:: Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _2018-02-06 13:49:22 (Update)_
 2. [Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md) _(Current version)_
 
 ### Related:

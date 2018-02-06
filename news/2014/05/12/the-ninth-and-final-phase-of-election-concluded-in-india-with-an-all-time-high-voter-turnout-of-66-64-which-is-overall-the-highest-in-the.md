@@ -16,7 +16,7 @@ The overall voter turnout surpassed the previous best of 64.01% in 1984 in the w
 
 ### Changes:
 
-1. [Indian general election, 2014: The ninth and final phase of election concluded in India, with an all time high voter turnout of 66.64%, which is overall the highest in the history of Lok Sabha. Final results will be declared on May 16.](/news/2014/05/12/indian-general-election-2014-the-ninth-and-final-phase-of-election-concluded-in-india-with-an-all-time-high-voter-turnout-of-66-64-whic.md) _2017-08-27 03:40:41 (First version)_
+1. [Indian general election, 2014: The ninth and final phase of election concluded in India, with an all time high voter turnout of 66.64%, which is overall the highest in the history of Lok Sabha. Final results will be declared on May 16.](/news/2014/05/12/indian-general-election-2014-the-ninth-and-final-phase-of-election-concluded-in-india-with-an-all-time-high-voter-turnout-of-66-64-whic.md) _2018-02-06 13:49:26 (First version)_
 1. [The ninth and final phase of election concluded in India, with an all time high voter turnout of 66.64%, which is overall the highest in the history of Lok Sabha. Final results will be declared on May 16.](/news/2014/05/12/the-ninth-and-final-phase-of-election-concluded-in-india-with-an-all-time-high-voter-turnout-of-66-64-which-is-overall-the-highest-in-the.md) _(Current version)_
 
 ### Related:

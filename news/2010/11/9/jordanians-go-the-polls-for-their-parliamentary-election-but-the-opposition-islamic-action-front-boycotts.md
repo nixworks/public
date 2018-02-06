@@ -18,8 +18,8 @@ Jordanians vote in parliamentary elections that have been boycotted by the stron
 
 ### Changes:
 
-1. [Jordanian elections:Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-pjordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _2017-08-25 03:30:57 (First version)_
-2. [Jordanian elections:: Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _2017-08-27 03:31:03 (Update)_
+1. [Jordanian elections:Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-pjordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _2018-02-06 13:49:21 (First version)_
+2. [Jordanian elections:: Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _2018-02-06 13:49:21 (Update)_
 2. [Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _(Current version)_
 
 ### Related:

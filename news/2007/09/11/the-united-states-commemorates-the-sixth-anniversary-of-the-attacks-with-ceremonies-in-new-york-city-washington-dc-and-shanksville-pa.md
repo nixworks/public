@@ -17,8 +17,8 @@ Osama bin Laden defied the United States with a new tape praising the &quot;19 c
 
 ### Changes:
 
-1. [ September 11, 2001 attacks commemoration The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemorationp-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md) _2017-08-25 03:20:55 (First version)_
-2. [ September 11, 2001 attacks commemoration: The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemoration-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md) _2017-08-27 03:20:52 (Update)_
+1. [ September 11, 2001 attacks commemoration The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemorationp-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md) _2018-02-06 13:49:18 (First version)_
+2. [ September 11, 2001 attacks commemoration: The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemoration-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-city-washington-dc-and-shanksville-pa.md) _(Current version)_
 
 ### Related:

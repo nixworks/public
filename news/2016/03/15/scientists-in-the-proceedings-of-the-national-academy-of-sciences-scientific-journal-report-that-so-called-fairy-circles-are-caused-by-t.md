@@ -18,7 +18,7 @@ For decades, scientists have puzzled over bizarre circles in the Namibian landsc
 
 ### Changes:
 
-1. [Scientists, in the ''Proceedings of the National Academy of Sciences'' scientific journal, report that so-called fairy circles are caused by the plants themselves, which have self-organized. Michael Cramer and Nichole Barger suggested this in 2013. ](/news/2016/03/15/scientists-in-the-proceedings-of-the-national-academy-of-sciences-scientific-journal-report-that-so-called-fairy-circles-are-caused-by.md) _2017-08-25 03:44:54 (First version)_
+1. [Scientists, in the ''Proceedings of the National Academy of Sciences'' scientific journal, report that so-called fairy circles are caused by the plants themselves, which have self-organized. Michael Cramer and Nichole Barger suggested this in 2013. ](/news/2016/03/15/scientists-in-the-proceedings-of-the-national-academy-of-sciences-scientific-journal-report-that-so-called-fairy-circles-are-caused-by.md) _2018-02-06 13:49:28 (First version)_
 1. [Scientists, in the "Proceedings of the National Academy of Sciences" scientific journal, report that so-called fairy circles are caused by the plants themselves, which have self-organized. Michael Cramer and Nichole Barger suggested this in 2013. ](/news/2016/03/15/scientists-in-the-proceedings-of-the-national-academy-of-sciences-scientific-journal-report-that-so-called-fairy-circles-are-caused-by-t.md) _(Current version)_
 
 ### Related:

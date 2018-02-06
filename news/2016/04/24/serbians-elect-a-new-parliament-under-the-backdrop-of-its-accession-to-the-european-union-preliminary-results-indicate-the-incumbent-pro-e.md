@@ -17,8 +17,8 @@ Serbian Prime Minister Aleksandar Vucic’s Progressive Party won a majority in 
 
 ### Changes:
 
-1. [Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary-results-indicate-the-incumbent-pro.md) _2017-08-25 03:45:26 (First version)_
-2. [Serbian parliamentary election, 2016: Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbian-parliamentary-election-2016-serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary.md) _2017-08-27 03:45:48 (Update)_
+1. [Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary-results-indicate-the-incumbent-pro.md) _2018-02-06 13:49:28 (First version)_
+2. [Serbian parliamentary election, 2016: Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbian-parliamentary-election-2016-serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary.md) _2018-02-06 13:49:28 (Update)_
 2. [Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary-results-indicate-the-incumbent-pro-e.md) _(Current version)_
 
 ### Related:

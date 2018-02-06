@@ -18,7 +18,7 @@ The U.N. Security Council unanimously adopted a resolution Monday demanding inte
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/2014-pro-russian-unrest-in-ukraine-fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-ai.md) _2017-08-27 03:41:01 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/2014-pro-russian-unrest-in-ukraine-fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-ai.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-airlines-flight-17.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2014/01/2/armed-tribesmen-and-isis-militants-control-the-i
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-parmed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of-v.md) _2017-08-25 03:39:48 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-armed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of.md) _2017-08-27 03:40:07 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-parmed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of-v.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-armed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of.md) _2018-02-06 13:49:25 (Update)_
 2. [Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/armed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of-violence-that-erupted-as-a-protest-camp-wa.md) _(Current version)_
 
 ### Related:

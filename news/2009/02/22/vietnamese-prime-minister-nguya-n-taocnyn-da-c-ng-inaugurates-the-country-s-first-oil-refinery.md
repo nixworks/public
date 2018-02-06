@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taocnyn-da-c-
 
 ### Changes:
 
-1. [ Vietnamese Prime Minister Nguyen Tan Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taoy-n-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md) _2017-08-25 03:23:51 (First version)_
+1. [ Vietnamese Prime Minister Nguyen Tan Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taoy-n-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md) _2018-02-06 13:49:18 (First version)_
 1. [ Vietnamese Prime Minister Nguyen TCNYn Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taocnyn-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md) _(Current version)_
 
 ### Related:

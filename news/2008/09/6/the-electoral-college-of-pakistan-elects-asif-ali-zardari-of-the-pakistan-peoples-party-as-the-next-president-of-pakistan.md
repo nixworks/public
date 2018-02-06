@@ -17,7 +17,7 @@ Asif Ali Zardari, the widower of slain former Prime Minister Benazir Bhutto and 
 
 ### Changes:
 
-1. [ Pakistan: The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/pakistan-the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _2017-08-27 03:22:43 (First version)_
+1. [ Pakistan: The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/pakistan-the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _(Current version)_
 
 ### Related:

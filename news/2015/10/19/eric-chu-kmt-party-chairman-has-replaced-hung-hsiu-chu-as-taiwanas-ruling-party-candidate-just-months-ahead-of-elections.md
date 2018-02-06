@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-h
 
 ### Changes:
 
-1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan-s ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwan-s-ruling-party-candidate-just-months-ahead-of-elections.md) _2017-08-27 03:43:24 (First version)_
+1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan-s ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwan-s-ruling-party-candidate-just-months-ahead-of-elections.md) _2018-02-06 13:49:27 (First version)_
 1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/14/the-federal-communications-commission-votes-3-t
 
 ### Changes:
 
-1. [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. The dissenting commissioners are outraged. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations-the-dissenting-commissioners-are-outraged.md) _2017-12-15 00:30:08 (First version)_
+1. [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. The dissenting commissioners are outraged. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations-the-dissenting-commissioners-are-outraged.md) _2018-02-06 13:49:31 (First version)_
 1. [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md) _(Current version)_
 
 ### Related:

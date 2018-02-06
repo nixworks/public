@@ -17,8 +17,8 @@ A suicide bomber blew himself up at a checkpoint near the main cricket stadium i
 
 ### Changes:
 
-1. [A suicide bombing occurs at a checkpoint near a cricket stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-a-cricket-stadium-in-kabul-afghanistan.md) _2017-09-13 14:30:05 (First version)_
-2. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md) _2017-09-15 23:30:07 (Update)_
+1. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md) _2018-02-06 13:49:31 (First version)_
+2. [A suicide bombing occurs at a checkpoint near a cricket stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-a-cricket-stadium-in-kabul-afghanistan.md) _2018-02-06 13:49:31 (Update)_
 2. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _(Current version)_
 
 ### Related:

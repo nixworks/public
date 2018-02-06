@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-o
 
 ### Changes:
 
-1. [ Georgia accuses Russia of trying to seize more of its territory as the anniversary of the 2008 war between the two countries approaches. [http:--news.bbc.co.uk-2-hi-europe-8181005.stm (BBC)].](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-of-its-territory-as-the-anniversary-of-the-2008-war-between-the-two-countries-approaches-h.md) _2017-06-18 03:25:58 (First version)_
+1. [ Georgia accuses Russia of trying to seize more of its territory as the anniversary of the 2008 war between the two countries approaches. [http:--news.bbc.co.uk-2-hi-europe-8181005.stm (BBC)].](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-of-its-territory-as-the-anniversary-of-the-2008-war-between-the-two-countries-approaches-h.md) _2018-02-06 13:49:19 (First version)_
 1. [ Georgia accuses Russia of trying to seize more of its territory as the anniversary of the 2008 war between the two countries approaches. ](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-of-its-territory-as-the-anniversary-of-the-2008-war-between-the-two-countries-approaches.md) _(Current version)_
 
 ### Related:

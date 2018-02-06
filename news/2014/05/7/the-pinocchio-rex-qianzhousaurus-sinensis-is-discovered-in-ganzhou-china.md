@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/05/7/the-pinocchio-rex-qianzhousaurus-sinensis-is-dis
 
 ### Changes:
 
-1. [DinosaursThe "Pinocchio Rex" (''Qianzhousaurus sinensis'') is discovered in Ganzhou, China. ](/news/2014/05/7/dinosaurspthe-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _2017-08-25 03:40:23 (First version)_
-2. [Dinosaurs: The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/dinosaurs-the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _2017-08-27 03:40:40 (Update)_
+1. [DinosaursThe "Pinocchio Rex" (''Qianzhousaurus sinensis'') is discovered in Ganzhou, China. ](/news/2014/05/7/dinosaurspthe-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _2018-02-06 13:49:26 (First version)_
+2. [Dinosaurs: The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/dinosaurs-the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _2018-02-06 13:49:26 (Update)_
 2. [The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _(Current version)_
 
 ### Related:

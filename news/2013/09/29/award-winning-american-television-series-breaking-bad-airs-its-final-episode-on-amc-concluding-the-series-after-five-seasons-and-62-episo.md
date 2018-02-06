@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/09/29/award-winning-american-television-series-breaki
 
 ### Changes:
 
-1. [Award-winning American television series ''Breaking Bad'' airs its final episode on AMC, concluding the series after five seasons and 62 episodes. ](/news/2013/09/29/award-winning-american-television-series-breaking-bad-airs-its-final-episode-on-amc-concluding-the-series-after-five-seasons-and-62-epi.md) _2017-08-25 03:39:20 (First version)_
+1. [Award-winning American television series ''Breaking Bad'' airs its final episode on AMC, concluding the series after five seasons and 62 episodes. ](/news/2013/09/29/award-winning-american-television-series-breaking-bad-airs-its-final-episode-on-amc-concluding-the-series-after-five-seasons-and-62-epi.md) _2018-02-06 13:49:25 (First version)_
 1. [Award-winning American television series "Breaking Bad" airs its final episode on AMC, concluding the series after five seasons and 62 episodes. ](/news/2013/09/29/award-winning-american-television-series-breaking-bad-airs-its-final-episode-on-amc-concluding-the-series-after-five-seasons-and-62-episo.md) _(Current version)_
 
 ### Related:

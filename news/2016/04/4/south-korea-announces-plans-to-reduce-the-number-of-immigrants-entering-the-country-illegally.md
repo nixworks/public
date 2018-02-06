@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/4/south-korea-announces-plans-to-reduce-the-number
 
 ### Changes:
 
-1. [South Korea announces plans to reduce the amount of immigrants entering the country illegally. ](/news/2016/04/4/south-korea-announces-plans-to-reduce-the-amount-of-immigrants-entering-the-country-illegally.md) _2017-09-19 03:47:25 (First version)_
+1. [South Korea announces plans to reduce the amount of immigrants entering the country illegally. ](/news/2016/04/4/south-korea-announces-plans-to-reduce-the-amount-of-immigrants-entering-the-country-illegally.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea announces plans to reduce the number of immigrants entering the country illegally. ](/news/2016/04/4/south-korea-announces-plans-to-reduce-the-number-of-immigrants-entering-the-country-illegally.md) _(Current version)_
 
 ### Related:

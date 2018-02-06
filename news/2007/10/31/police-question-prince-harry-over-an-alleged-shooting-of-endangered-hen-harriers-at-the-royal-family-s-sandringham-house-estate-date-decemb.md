@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/31/police-question-prince-harry-over-an-alleged-sh
 
 ### Changes:
 
-1. [ Police question Prince Harry over an alleged shooting of endangered hen harriers at the Royal Family's Sandringham House estate.{{Fact|date=December 2007}} ](/news/2007/10/31/police-question-prince-harry-over-an-alleged-shooting-of-endangered-hen-harriers-at-the-royal-family-s-sandringham-house-estate-fact-date.md) _2017-05-01 03:22:09 (First version)_
+1. [ Police question Prince Harry over an alleged shooting of endangered hen harriers at the Royal Family's Sandringham House estate.{{Fact|date=December 2007}} ](/news/2007/10/31/police-question-prince-harry-over-an-alleged-shooting-of-endangered-hen-harriers-at-the-royal-family-s-sandringham-house-estate-fact-date.md) _2018-02-06 13:49:18 (First version)_
 1. [ Police question Prince Harry over an alleged shooting of endangered hen harriers at the Royal Family's Sandringham House estate.date=December 2007 ](/news/2007/10/31/police-question-prince-harry-over-an-alleged-shooting-of-endangered-hen-harriers-at-the-royal-family-s-sandringham-house-estate-date-decemb.md) _(Current version)_
 
 ### Related:

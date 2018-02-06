@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/2016-atlantic-hurricane-season-hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-s.md) _2017-08-27 03:47:16 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/2016-atlantic-hurricane-season-hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _(Current version)_
 
 ### Related:

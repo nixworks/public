@@ -16,7 +16,7 @@ At least 14 militants who had sworn allegiance to Islamic State have been killed
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: Russian special forces kill 10 ISIS-linked militants in a counter-terrorist operation in a mountainous region near the city of Nalchik in Russia-s North Caucasus. ](/news/2015/11/22/insurgency-in-the-north-caucasus-russian-special-forces-kill-10-isis-linked-militants-in-a-counter-terrorist-operation-in-a-mountainous-reg.md) _2017-08-27 03:44:00 (First version)_
+1. [Insurgency in the North Caucasus: Russian special forces kill 10 ISIS-linked militants in a counter-terrorist operation in a mountainous region near the city of Nalchik in Russia-s North Caucasus. ](/news/2015/11/22/insurgency-in-the-north-caucasus-russian-special-forces-kill-10-isis-linked-militants-in-a-counter-terrorist-operation-in-a-mountainous-reg.md) _2018-02-06 13:49:28 (First version)_
 1. [Russian special forces kill 10 ISIS-linked militants in a counter-terrorist operation in a mountainous region near the city of Nalchik in Russia's North Caucasus. ](/news/2015/11/22/russian-special-forces-kill-10-isis-linked-militants-in-a-counter-terrorist-operation-in-a-mountainous-region-near-the-city-of-nalchik-in-ru.md) _(Current version)_
 
 ### Related:

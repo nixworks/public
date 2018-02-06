@@ -17,7 +17,7 @@ The German, French and Spanish leaders visit the site in the French Alps where a
 
 ### Changes:
 
-1. [Germanwings Flight 9525: A search and recovery operation resumes for the remains of the Germanwings flight that crashed into the French Alps on March 24. ](/news/2015/03/25/germanwings-flight-9525-a-search-and-recovery-operation-resumes-for-the-remains-of-the-germanwings-flight-that-crashed-into-the-french-alps.md) _2017-08-27 03:42:08 (First version)_
+1. [Germanwings Flight 9525: A search and recovery operation resumes for the remains of the Germanwings flight that crashed into the French Alps on March 24. ](/news/2015/03/25/germanwings-flight-9525-a-search-and-recovery-operation-resumes-for-the-remains-of-the-germanwings-flight-that-crashed-into-the-french-alps.md) _2018-02-06 13:49:26 (First version)_
 1. [A search and recovery operation resumes for the remains of the Germanwings flight that crashed into the French Alps on March 24. ](/news/2015/03/25/a-search-and-recovery-operation-resumes-for-the-remains-of-the-germanwings-flight-that-crashed-into-the-french-alps-on-march-24.md) _(Current version)_
 
 ### Related:

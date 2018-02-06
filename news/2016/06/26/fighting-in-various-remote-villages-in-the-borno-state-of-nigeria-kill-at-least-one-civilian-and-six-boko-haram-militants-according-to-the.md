@@ -15,7 +15,7 @@ One civilian and six Boko Haram fighters killed during operation to evacuate fou
 
 ### Changes:
 
-1. [Boko Haram insurgency: Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/boko-haram-insurgency-fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-milit.md) _2017-08-27 03:46:21 (First version)_
+1. [Boko Haram insurgency: Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/boko-haram-insurgency-fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-milit.md) _2018-02-06 13:49:29 (First version)_
 1. [Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-militants-according-to-the.md) _(Current version)_
 
 ### Related:

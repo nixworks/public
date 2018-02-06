@@ -18,7 +18,7 @@ Sri Lanka recalls assembly as flood toll nears 100
 
 ### Changes:
 
-1. [Cyclone Roanu: Sri Lanka's Disaster Management Centre reports 92 people are confirmed dead with 109 people still missing from landslides and floods resulting from Roanu. More than 500,000 have been driven from their homes. ](/news/2016/05/23/cyclone-roanu-sri-lanka-s-disaster-management-centre-reports-92-people-are-confirmed-dead-with-109-people-still-missing-from-landslides-and.md) _2017-08-27 03:46:07 (First version)_
+1. [Cyclone Roanu: Sri Lanka's Disaster Management Centre reports 92 people are confirmed dead with 109 people still missing from landslides and floods resulting from Roanu. More than 500,000 have been driven from their homes. ](/news/2016/05/23/cyclone-roanu-sri-lanka-s-disaster-management-centre-reports-92-people-are-confirmed-dead-with-109-people-still-missing-from-landslides-and.md) _2018-02-06 13:49:29 (First version)_
 1. [Sri Lanka's Disaster Management Centre reports 92 people are confirmed dead with 109 people still missing from landslides and floods resulting from Roanu. More than 500,000 have been driven from their homes. ](/news/2016/05/23/sri-lanka-s-disaster-management-centre-reports-92-people-are-confirmed-dead-with-109-people-still-missing-from-landslides-and-floods-resulti.md) _(Current version)_
 
 ### Related:

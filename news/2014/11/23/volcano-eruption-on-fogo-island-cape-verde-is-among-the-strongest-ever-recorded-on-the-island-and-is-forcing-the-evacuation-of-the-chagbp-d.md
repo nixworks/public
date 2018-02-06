@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-a
 
 ### Changes:
 
-1. [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the Cha das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chaps-das.md) _2017-08-25 03:41:14 (First version)_
+1. [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the Cha das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chaps-das.md) _2018-02-06 13:49:26 (First version)_
 1. [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the ChGBP das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chagbp-d.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/13/several-days-of-clashes-with-kokang-rebels-in-t
 
 ### Changes:
 
-1. [Internal conflict in Burma: Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/internal-conflict-in-burma-several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-w.md) _2017-08-27 03:41:55 (First version)_
+1. [Internal conflict in Burma: Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/internal-conflict-in-burma-several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-w.md) _2018-02-06 13:49:26 (First version)_
 1. [Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-with-dozens-wounded.md) _(Current version)_
 
 ### Related:

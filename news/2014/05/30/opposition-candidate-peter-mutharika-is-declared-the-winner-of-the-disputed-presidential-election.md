@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/05/30/opposition-candidate-peter-mutharika-is-declare
 
 ### Changes:
 
-1. [Malawian general election, 2014: Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/malawian-general-election-2014-opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md) _2017-08-27 03:40:46 (First version)_
+1. [Malawian general election, 2014: Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/malawian-general-election-2014-opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md) _2018-02-06 13:49:26 (First version)_
 1. [Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md) _(Current version)_
 
 ### Related:

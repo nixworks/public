@@ -16,7 +16,7 @@ South Korea says the &quot;enemy&#039;s unidentified object invaded&quot; its te
 
 ### Changes:
 
-1. [Korean border incidents: South Korean soldiers fire warning shots at a suspected North Korean drone near the Korean Demilitarized Zone (DMZ). The "unidentified flying object" was spotted around 29 miles north of Seoul, near South Korea's Dora Observation Post. ](/news/2016/01/13/korean-border-incidents-south-korean-soldiers-fire-warning-shots-at-a-suspected-north-korean-drone-near-the-korean-demilitarized-zone-dmz.md) _2017-08-27 03:44:40 (First version)_
+1. [Korean border incidents: South Korean soldiers fire warning shots at a suspected North Korean drone near the Korean Demilitarized Zone (DMZ). The "unidentified flying object" was spotted around 29 miles north of Seoul, near South Korea's Dora Observation Post. ](/news/2016/01/13/korean-border-incidents-south-korean-soldiers-fire-warning-shots-at-a-suspected-north-korean-drone-near-the-korean-demilitarized-zone-dmz.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korean soldiers fire warning shots at a suspected North Korean drone near the Korean Demilitarized Zone (DMZ). The "unidentified flying object" was spotted around 29 miles north of Seoul, near South Korea's Dora Observation Post. ](/news/2016/01/13/south-korean-soldiers-fire-warning-shots-at-a-suspected-north-korean-drone-near-the-korean-demilitarized-zone-dmz-the-unidentified-flyin.md) _(Current version)_
 
 ### Related:

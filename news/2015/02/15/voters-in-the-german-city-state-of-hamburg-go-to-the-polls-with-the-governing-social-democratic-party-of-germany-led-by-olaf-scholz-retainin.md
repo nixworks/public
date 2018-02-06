@@ -16,7 +16,7 @@ Angela Merkel’s conservative Christian Democratic Union (CDU) suffered a rathe
 
 ### Changes:
 
-1. [Hamburg state election, 2015: Voters in the German city state of Hamburg go to the polls with the governing Social Democratic Party of Germany led by Olaf Scholz retaining power. ](/news/2015/02/15/hamburg-state-election-2015-voters-in-the-german-city-state-of-hamburg-go-to-the-polls-with-the-governing-social-democratic-party-of-germa.md) _2017-08-27 03:41:56 (First version)_
+1. [Hamburg state election, 2015: Voters in the German city state of Hamburg go to the polls with the governing Social Democratic Party of Germany led by Olaf Scholz retaining power. ](/news/2015/02/15/hamburg-state-election-2015-voters-in-the-german-city-state-of-hamburg-go-to-the-polls-with-the-governing-social-democratic-party-of-germa.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in the German city state of Hamburg go to the polls with the governing Social Democratic Party of Germany led by Olaf Scholz retaining power. ](/news/2015/02/15/voters-in-the-german-city-state-of-hamburg-go-to-the-polls-with-the-governing-social-democratic-party-of-germany-led-by-olaf-scholz-retainin.md) _(Current version)_
 
 ### Related:

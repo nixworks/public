@@ -16,8 +16,8 @@ The&#x20;UN&#x20;Security&#x20;Council&#x20;has&#x20;authorised&#x20;military&#x
 
 ### Changes:
 
-1. [2012 Northern Mali conflict:The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-pthe-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-islam.md) _2017-08-25 03:37:05 (First version)_
-2. [2012 Northern Mali conflict:: The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-the-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-isla.md) _2017-08-27 03:37:15 (Update)_
+1. [2012 Northern Mali conflict:: The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-the-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-isla.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Northern Mali conflict:The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-pthe-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-islam.md) _2018-02-06 13:49:24 (Update)_
 2. [The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/the-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-islamists-and-help-reunify-the-cou.md) _(Current version)_
 
 ### Related:

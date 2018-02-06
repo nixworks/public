@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/10/17/2012-syrianaturkish-border-clashes-turkish-arti
 
 ### Changes:
 
-1. [2012 Syrian-Turkish border clashes: Turkish artillery retaliates after a Syrian bomb landed on Turkish territory in Hatay Province. ](/news/2012/10/17/2012-syrian-turkish-border-clashes-turkish-artillery-retaliates-after-a-syrian-bomb-landed-on-turkish-territory-in-hatay-province.md) _2017-08-27 03:36:52 (First version)_
+1. [2012 Syrian-Turkish border clashes: Turkish artillery retaliates after a Syrian bomb landed on Turkish territory in Hatay Province. ](/news/2012/10/17/2012-syrian-turkish-border-clashes-turkish-artillery-retaliates-after-a-syrian-bomb-landed-on-turkish-territory-in-hatay-province.md) _2018-02-06 13:49:24 (First version)_
 1. [2012 Syrian-Turkish border clashes: Turkish artillery retaliates after a Syrian bomb landed on Turkish territory in Hatay Province. ](/news/2012/10/17/2012-syrianaturkish-border-clashes-turkish-artillery-retaliates-after-a-syrian-bomb-landed-on-turkish-territory-in-hatay-province.md) _(Current version)_
 
 ### Related:

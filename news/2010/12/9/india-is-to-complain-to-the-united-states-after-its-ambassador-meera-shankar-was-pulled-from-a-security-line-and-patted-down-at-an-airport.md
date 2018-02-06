@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-
 
 ### Changes:
 
-1. [India is to complain to the United States after its ambassador, Meera Shankar, was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airpor.md) _2017-08-25 03:31:21 (First version)_
+1. [India is to complain to the United States after its ambassador, Meera Shankar, was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airpor.md) _2018-02-06 13:49:21 (First version)_
 1. [India is to complain to the United States after its ambassador, Meera Shankar, was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airport.md) _(Current version)_
 
 ### Related:

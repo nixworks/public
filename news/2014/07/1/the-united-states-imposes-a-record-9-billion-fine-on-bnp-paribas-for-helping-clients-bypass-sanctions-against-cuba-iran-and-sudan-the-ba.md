@@ -16,7 +16,7 @@ French bank BNP Paribas BNPP.PA has pleaded guilty to two criminal charges and a
 
 ### Changes:
 
-1. [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-b.md) _2017-08-25 03:40:37 (First version)_
+1. [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-b.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-ba.md) _(Current version)_
 
 ### Related:

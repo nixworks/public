@@ -3,9 +3,9 @@ Formats: [HTML](2011/09/5/index.html)  [JSON](2011/09/5/index.json)  [XML](2011/
 
 ## [2011-09-5](/news/2011/09/5/index.md)
 
-##### Turkish
+##### Turkey
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Turkish Air Force, Turkish, Kurdish, Kurdistan Workers' Party_
+_Context: Kurdish, Turkish Air Force, Kurdistan Workers' Party, Turkey_
 
 ##### Iran
 ### [One person is killed and two injured by Iranian artillery shelling near the Iraqi border town of Siydah Khan, near Arbil. ](/news/2011/09/5/one-person-is-killed-and-two-injured-by-iranian-artillery-shelling-near-the-iraqi-border-town-of-siydah-khan-near-arbil.md)
@@ -13,7 +13,7 @@ _Context: Arbil, Iran, Iraq_
 
 ##### Sky News
 ### [Sky News reports that 30,000 Libyans may be missing as a result of the civil war. ](/news/2011/09/5/sky-news-reports-that-30-000-libyans-may-be-missing-as-a-result-of-the-civil-war.md)
-_Context: Libya, Sky News, civil war_
+_Context: Libya, civil war, Sky News_
 
 ##### mosque
 ### [A mosque in the Palestinian village of Kasra, north of Jerusalem, is attacked overnight, residents say. ](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-north-of-jerusalem-is-attacked-overnight-residents-say.md)
@@ -21,15 +21,15 @@ Israeli police investigate a fire and graffiti attack on a mosque in the Palesti
 
 ##### Pakistan
 ### [The government of Pakistan reports the arrest of senior Al-Qaeda chief Younis al-Mauritani. ](/news/2011/09/5/the-government-of-pakistan-reports-the-arrest-of-senior-al-qaeda-chief-younis-al-mauritani.md)
-_Context: Younis al-Mauritani, Pakistan_
+_Context: Pakistan, Younis al-Mauritani_
 
 ##### Libya
 ### [A convoy of troops loyal to former Libyan leader Muammar Gaddafi crosses the border with Niger arriving in Agadez. ](/news/2011/09/5/a-convoy-of-troops-loyal-to-former-libyan-leader-muammar-gaddafi-crosses-the-border-with-niger-arriving-in-agadez.md)
-_Context: Niger, Muammar Gaddafi, Libya, Agadez_
+_Context: Libya, Agadez, Niger, Muammar Gaddafi_
 
 ##### Typhoon Talas
 ### [Rescuers in Japan look for survivors of Typhoon Talas, which has killed at least 35 people, with the Wakayama Prefecture on the Kii Peninsula the worst affected. ](/news/2011/09/5/rescuers-in-japan-look-for-survivors-of-typhoon-talas-which-has-killed-at-least-35-people-with-the-wakayama-prefecture-on-the-kii-peninsul.md)
-_Context: Typhoon Talas, Wakayama Prefecture, Kii Peninsula_
+_Context: Typhoon Talas, Kii Peninsula, Wakayama Prefecture_
 
 ##### 2011 Somalian famine
 ### [The 2011 Somalian famine, which has killed 30,000 children and tens of thousands more adults, spreads to the Bay Region of Somalia. ](/news/2011/09/5/the-2011-somalian-famine-which-has-killed-30-000-children-and-tens-of-thousands-more-adults-spreads-to-the-bay-region-of-somalia.md)
@@ -45,7 +45,7 @@ _Context: North Korea_
 
 ##### French President
 ### [The trial of former French President Jacques Chirac on embezzlement charges begins in Paris. ](/news/2011/09/5/the-trial-of-former-french-president-jacques-chirac-on-embezzlement-charges-begins-in-paris.md)
-_Context: Jacques Chirac, embezzlement, French President_
+_Context: embezzlement, French President, Jacques Chirac_
 
 ##### Vodafone Group Plc
 ### [Turkish hackers gain access to the websites of several companies, including Vodafone, the "Daily Telegraph" and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors-to.md)

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/08/12/ukrainian-government-forces-recapture-control-o
 
 ### Changes:
 
-1. [War in Donbass:Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/war-in-donbass-pukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md) _2017-08-25 03:40:50 (First version)_
-2. [War in Donbass:: Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/war-in-donbass-ukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md) _2017-08-27 03:41:08 (Update)_
+1. [War in Donbass:: Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/war-in-donbass-ukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/war-in-donbass-pukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/ukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md) _(Current version)_
 
 ### Related:

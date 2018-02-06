@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/08/3/the-syrian-army-increases-artillery-shelling-of-
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/syrian-civil-war-pthe-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-cit.md) _2017-08-25 03:36:12 (First version)_
-2. [Syrian civil war:: The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/syrian-civil-war-the-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-ci.md) _2017-08-27 03:36:24 (Update)_
+1. [Syrian civil war:: The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/syrian-civil-war-the-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-ci.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/syrian-civil-war-pthe-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-cit.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/the-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-city-s-eastern-distri.md) _(Current version)_
 
 ### Related:

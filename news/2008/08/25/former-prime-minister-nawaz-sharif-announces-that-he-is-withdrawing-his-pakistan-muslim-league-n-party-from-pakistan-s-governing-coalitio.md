@@ -15,7 +15,7 @@ Nawaz Sharif pulls out of Pakistan&#039;s government, leaving a dangerously feeb
 
 ### Changes:
 
-1. [ Former Prime Minister Nawaz Sharif announces that he is withdrawing his Pakistan Muslim League (N) party from Pakistan's governing coalition. ](/news/2008/08/25/former-prime-minister-nawaz-sharif-announces-that-he-is-withdrawing-his-pakistan-muslim-league-n-party-from-pakistan-s-governing-coaliti.md) _2017-08-25 03:22:45 (First version)_
+1. [ Former Prime Minister Nawaz Sharif announces that he is withdrawing his Pakistan Muslim League (N) party from Pakistan's governing coalition. ](/news/2008/08/25/former-prime-minister-nawaz-sharif-announces-that-he-is-withdrawing-his-pakistan-muslim-league-n-party-from-pakistan-s-governing-coaliti.md) _2018-02-06 13:49:18 (First version)_
 1. [ Former Prime Minister Nawaz Sharif announces that he is withdrawing his Pakistan Muslim League (N) party from Pakistan's governing coalition. ](/news/2008/08/25/former-prime-minister-nawaz-sharif-announces-that-he-is-withdrawing-his-pakistan-muslim-league-n-party-from-pakistan-s-governing-coalitio.md) _(Current version)_
 
 ### Related:

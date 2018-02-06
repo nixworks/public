@@ -16,7 +16,7 @@ At least six soldiers killed and one wounded as fighters ambush an army patrol, 
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon: Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/syrian-civil-war-spillover-in-lebanon-unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md) _2017-08-27 03:41:35 (First version)_
+1. [Syrian Civil War spillover in Lebanon: Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/syrian-civil-war-spillover-in-lebanon-unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md) _2018-02-06 13:49:26 (First version)_
 1. [Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md) _(Current version)_
 
 ### Related:

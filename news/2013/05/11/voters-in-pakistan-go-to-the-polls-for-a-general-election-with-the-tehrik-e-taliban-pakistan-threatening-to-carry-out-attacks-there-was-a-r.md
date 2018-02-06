@@ -17,8 +17,8 @@ Nawaz Sharif tells his supporters that voters have handed him a landmark third t
 
 ### Changes:
 
-1. [Pakistan elections:Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/pakistan-elections-pvoters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-at.md) _2017-08-25 03:38:37 (First version)_
-2. [Pakistan elections:: Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/pakistan-elections-voters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-a.md) _2017-08-27 03:38:50 (Update)_
+1. [Pakistan elections:: Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/pakistan-elections-voters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-a.md) _2018-02-06 13:49:24 (First version)_
+2. [Pakistan elections:Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/pakistan-elections-pvoters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-at.md) _2018-02-06 13:49:24 (Update)_
 2. [Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/voters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-attacks-there-was-a-r.md) _(Current version)_
 
 ### Related:

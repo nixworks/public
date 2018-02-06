@@ -20,7 +20,7 @@ EU and UN demand army release detained president and prime minister as warning s
 
 ### Changes:
 
-1. [2015 Burkinabe coup d'etat: The provisional government of Burkina Faso is overthrown in a military coup. ](/news/2015/09/17/2015-burkinaba-c-coup-d-a-c-tat-the-provisional-government-of-burkina-faso-is-overthrown-in-a-military-coup.md) _2017-08-27 03:43:04 (First version)_
+1. [2015 Burkinabe coup d'etat: The provisional government of Burkina Faso is overthrown in a military coup. ](/news/2015/09/17/2015-burkinaba-c-coup-d-a-c-tat-the-provisional-government-of-burkina-faso-is-overthrown-in-a-military-coup.md) _2018-02-06 13:49:27 (First version)_
 1. [The provisional government of Burkina Faso is overthrown in a military coup. ](/news/2015/09/17/the-provisional-government-of-burkina-faso-is-overthrown-in-a-military-coup.md) _(Current version)_
 
 ### Related:

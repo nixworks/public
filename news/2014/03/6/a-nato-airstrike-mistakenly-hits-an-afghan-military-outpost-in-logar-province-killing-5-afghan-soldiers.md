@@ -15,9 +15,9 @@ The friendly-fire incident is considered one of the worst in the war&rsquo;s 12-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits a Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-a-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md) _2017-06-17 03:43:36 (First version)_
-2. [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md) _2017-08-25 03:40:07 (Update)_
-3. [War in Afghanistan (2001-present):: A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001-present-a-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldier.md) _2017-08-27 03:40:25 (Update)_
+1. [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits a Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-a-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md) _2018-02-06 13:49:26 (Update)_
+3. [War in Afghanistan (2001-present):: A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001-present-a-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldier.md) _2018-02-06 13:49:26 (Update)_
 3. [A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/a-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md) _(Current version)_
 
 ### Related:

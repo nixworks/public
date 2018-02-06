@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportat
 
 ### Changes:
 
-1. [Immigration to the United States: A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/immigration-to-the-united-states-a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _2017-08-27 03:48:32 (First version)_
+1. [Immigration to the United States: A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/immigration-to-the-united-states-a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _2018-02-06 13:49:30 (First version)_
 1. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/01/24/the-chinese-government-denies-state-involvement
 
 ### Changes:
 
-1. [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md) _2017-08-25 03:27:00 (First version)_
+1. [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md) _2018-02-06 13:49:19 (First version)_
 1. [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run "China Daily" newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-unit.md) _(Current version)_
 
 ### Related:

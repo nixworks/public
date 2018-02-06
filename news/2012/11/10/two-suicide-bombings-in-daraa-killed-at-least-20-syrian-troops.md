@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-2
 
 ### Changes:
 
-1. [Syrian civil war:Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-ptwo-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2017-08-25 03:36:48 (First version)_
-2. [Syrian civil war:: Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2017-08-27 03:36:58 (Update)_
+1. [Syrian civil war:: Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-ptwo-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2018-02-06 13:49:24 (Update)_
 2. [Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _(Current version)_
 
 ### Related:

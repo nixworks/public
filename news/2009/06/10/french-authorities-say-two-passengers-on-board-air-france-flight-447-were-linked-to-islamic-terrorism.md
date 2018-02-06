@@ -18,7 +18,7 @@ Search crews have now recovered 41 bodies from an area in the Atlantic where an 
 
 ### Changes:
 
-1. [ Air France Flight 447: French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/air-france-flight-447-french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md) _2017-08-27 03:24:40 (First version)_
+1. [ Air France Flight 447: French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/air-france-flight-447-french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md) _2018-02-06 13:49:19 (First version)_
 1. [ French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Rival Palestinian groups announce signing of initial agreement ending four-year-
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeliapalestinian-conflict-pisraeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thwa.md) _2017-08-25 03:32:54 (First version)_
-2. [Israeli-Palestinian conflict:: Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thw.md) _2017-08-27 03:33:03 (Update)_
+1. [Israeli-Palestinian conflict:Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeliapalestinian-conflict-pisraeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thwa.md) _2018-02-06 13:49:22 (First version)_
+2. [Israeli-Palestinian conflict:: Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thw.md) _2018-02-06 13:49:22 (Update)_
 2. [Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thwart-an-upcoming-aid-flotilla-boun.md) _(Current version)_
 
 ### Related:

@@ -21,7 +21,7 @@ Islamic State militants claim gun and bomb assault on Indonesia&#039;s capital t
 
 ### Changes:
 
-1. [2016 Jakarta attacks: Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/2016-jakarta-attacks-bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been.md) _2017-08-27 03:44:40 (First version)_
+1. [2016 Jakarta attacks: Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/2016-jakarta-attacks-bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been.md) _2018-02-06 13:49:28 (First version)_
 1. [Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.md) _(Current version)_
 
 ### Related:

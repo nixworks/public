@@ -16,7 +16,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 
 ### Changes:
 
-1. [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servant.md) _2017-08-25 03:30:23 (First version)_
+1. [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servant.md) _2018-02-06 13:49:21 (First version)_
 1. [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servants.md) _(Current version)_
 
 ### Related:

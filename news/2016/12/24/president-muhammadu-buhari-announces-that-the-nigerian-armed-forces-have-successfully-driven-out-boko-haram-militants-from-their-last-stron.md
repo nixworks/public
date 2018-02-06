@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/24/president-muhammadu-buhari-announces-that-the-n
 
 ### Changes:
 
-1. [Boko Haram insurgency: President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/boko-haram-insurgency-president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants.md) _2017-08-27 03:47:30 (First version)_
+1. [Boko Haram insurgency: President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/boko-haram-insurgency-president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants.md) _2018-02-06 13:49:30 (First version)_
 1. [ President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants-from-their-last-stron.md) _(Current version)_
 
 ### Related:

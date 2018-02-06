@@ -17,8 +17,8 @@ A traditional smoking ceremony welcomed politicians to Canberra ahead of the off
 
 ### Changes:
 
-1. [43rd Australian Parliament:The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-pthe-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-electi.md) _2017-08-25 03:30:16 (First version)_
-2. [43rd Australian Parliament:: The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-elect.md) _2017-08-27 03:30:20 (Update)_
+1. [43rd Australian Parliament:: The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-elect.md) _2018-02-06 13:49:20 (First version)_
+2. [43rd Australian Parliament:The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-pthe-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-electi.md) _2018-02-06 13:49:20 (Update)_
 2. [The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-election.md) _(Current version)_
 
 ### Related:

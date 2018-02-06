@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/23/the-brazilian-development-bank-announces-plans-
 
 ### Changes:
 
-1. [Economy of Brazil: The Brazilian Development Bank announces plans to repay up to $29 billion in loans to the Government of Brazil in order to stem a burgeoning deficit. ](/news/2016/11/23/economy-of-brazil-the-brazilian-development-bank-announces-plans-to-repay-up-to-29-billion-in-loans-to-the-government-of-brazil-in-order-t.md) _2017-08-27 03:47:16 (First version)_
+1. [Economy of Brazil: The Brazilian Development Bank announces plans to repay up to $29 billion in loans to the Government of Brazil in order to stem a burgeoning deficit. ](/news/2016/11/23/economy-of-brazil-the-brazilian-development-bank-announces-plans-to-repay-up-to-29-billion-in-loans-to-the-government-of-brazil-in-order-t.md) _2018-02-06 13:49:29 (First version)_
 1. [The Brazilian Development Bank announces plans to repay up to $29 billion in loans to the Government of Brazil in order to stem a burgeoning deficit. ](/news/2016/11/23/the-brazilian-development-bank-announces-plans-to-repay-up-to-29-billion-in-loans-to-the-government-of-brazil-in-order-to-stem-a-burgeoning.md) _(Current version)_
 
 ### Related:

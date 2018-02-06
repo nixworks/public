@@ -20,7 +20,7 @@ Chinese has offered Africa $10bn in concessional loans over the next three years
 
 ### Changes:
 
-1. [ Speaking at Sharm el-Sheikh's Forum on China-Africa Cooperation, China's Premier Wen Jiabao, pledges $10 billion (6 billion) loans to Africa over a three-year period, in order to increase Sino-african cooperation. ](/news/2009/11/8/speaking-at-sharm-el-sheikh-s-forum-on-china-africa-cooperation-china-s-premier-wen-jiabao-pledges-10-billion-ps6-billion-loans-to-afri.md) _2017-08-25 03:26:17 (First version)_
+1. [ Speaking at Sharm el-Sheikh's Forum on China-Africa Cooperation, China's Premier Wen Jiabao, pledges $10 billion (6 billion) loans to Africa over a three-year period, in order to increase Sino-african cooperation. ](/news/2009/11/8/speaking-at-sharm-el-sheikh-s-forum-on-china-africa-cooperation-china-s-premier-wen-jiabao-pledges-10-billion-ps6-billion-loans-to-afri.md) _2018-02-06 13:49:19 (First version)_
 1. [ Speaking at Sharm el-Sheikh's Forum on China-Africa Cooperation, China's Premier Wen Jiabao, pledges $10 billion (GBP6 billion) loans to Africa over a three-year period, in order to increase Sino-african cooperation. ](/news/2009/11/8/speaking-at-sharm-el-sheikh-s-forum-on-china-africa-cooperation-china-s-premier-wen-jiabao-pledges-10-billion-gbp6-billion-loans-to-af.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/22/nine-people-are-killed-and-dozens-wounded-in-tw
 
 ### Changes:
 
-1. [War in North-West Pakistan: Nine people are killed and dozens wounded in two separate bomb and gun attacks in north west Pakistan. ](/news/2014/04/22/war-in-north-west-pakistan-nine-people-are-killed-and-dozens-wounded-in-two-separate-bomb-and-gun-attacks-in-north-west-pakistan.md) _2017-08-27 03:40:37 (First version)_
+1. [War in North-West Pakistan: Nine people are killed and dozens wounded in two separate bomb and gun attacks in north west Pakistan. ](/news/2014/04/22/war-in-north-west-pakistan-nine-people-are-killed-and-dozens-wounded-in-two-separate-bomb-and-gun-attacks-in-north-west-pakistan.md) _2018-02-06 13:49:26 (First version)_
 1. [Nine people are killed and dozens wounded in two separate bomb and gun attacks in north west Pakistan. ](/news/2014/04/22/nine-people-are-killed-and-dozens-wounded-in-two-separate-bomb-and-gun-attacks-in-north-west-pakistan.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/02/13/16-muslim-insurgents-are-killed-during-an-attac
 
 ### Changes:
 
-1. [South Thailand insurgency:16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-p16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _2017-08-25 03:37:31 (First version)_
-2. [South Thailand insurgency:: 16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _2017-08-27 03:37:42 (Update)_
+1. [South Thailand insurgency:16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-p16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:: 16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _2018-02-06 13:49:24 (Update)_
 2. [16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md) _(Current version)_
 
 ### Related:

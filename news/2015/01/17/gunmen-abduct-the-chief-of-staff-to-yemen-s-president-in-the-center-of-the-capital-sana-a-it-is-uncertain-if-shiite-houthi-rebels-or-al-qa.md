@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/17/gunmen-abduct-the-chief-of-staff-to-yemen-s-pre
 
 ### Changes:
 
-1. [Terrorism in Yemen: Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/terrorism-in-yemen-gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-ho.md) _2017-08-27 03:41:48 (First version)_
+1. [Terrorism in Yemen: Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/terrorism-in-yemen-gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-ho.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-houthi-rebels-or-al-qa.md) _(Current version)_
 
 ### Related:

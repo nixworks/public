@@ -17,7 +17,7 @@ Police detained Russian opposition leader Alexei Navalny at the entrance of his 
 
 ### Changes:
 
-1. [2017 Russian protests: Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/2017-russian-protests-hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns.md) _2017-08-27 03:48:28 (First version)_
+1. [2017 Russian protests: Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/2017-russian-protests-hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns.md) _2018-02-06 13:49:30 (First version)_
 1. [Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns-including-opposition-l.md) _(Current version)_
 
 ### Related:

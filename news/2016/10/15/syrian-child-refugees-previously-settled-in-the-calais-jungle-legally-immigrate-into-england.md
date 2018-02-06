@@ -16,7 +16,7 @@ Aid agencies work with UK and France as operation steps up due to imminent demol
 
 ### Changes:
 
-1. [European migrant crisis: Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/european-migrant-crisis-syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md) _2017-08-27 03:47:03 (First version)_
+1. [European migrant crisis: Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/european-migrant-crisis-syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md) _(Current version)_
 
 ### Related:

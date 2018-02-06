@@ -18,7 +18,7 @@ Four teenage students were injured after a 14-year-old classmate pulled a gun an
 
 ### Changes:
 
-1. [In the United States, a 14-year-old shoots two students, who were hospitalized in stable condition, in the Madison Local School cafeteria. Two other teenagers are injured, none seriously. The southwestern Ohio school, which had practiced for such an event, immediately went into lockdown; Tuesday classes are cancelled. ](/news/2016/02/29/in-the-united-states-a-14-year-old-shoots-two-students-who-were-hospitalized-in-stable-condition-in-the-madison-local-school-cafeteria.md) _2017-08-25 03:44:42 (First version)_
+1. [In the United States, a 14-year-old shoots two students, who were hospitalized in stable condition, in the Madison Local School cafeteria. Two other teenagers are injured, none seriously. The southwestern Ohio school, which had practiced for such an event, immediately went into lockdown; Tuesday classes are cancelled. ](/news/2016/02/29/in-the-united-states-a-14-year-old-shoots-two-students-who-were-hospitalized-in-stable-condition-in-the-madison-local-school-cafeteria.md) _2018-02-06 13:49:28 (First version)_
 1. [In the United States, a 14-year-old shoots two students, who were hospitalized in stable condition, in the Madison Local School cafeteria. Two other teenagers are injured, none seriously. The southwestern Ohio school, which had practiced for such an event, immediately went into lockdown; Tuesday classes are cancelled. ](/news/2016/02/29/in-the-united-states-a-14-year-old-shoots-two-students-who-were-hospitalized-in-stable-condition-in-the-madison-local-school-cafeteria-t.md) _(Current version)_
 
 ### Related:

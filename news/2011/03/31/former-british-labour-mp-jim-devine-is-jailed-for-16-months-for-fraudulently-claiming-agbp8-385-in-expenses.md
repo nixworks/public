@@ -16,7 +16,7 @@ Former Labour MP Jim Devine is jailed for 16 months at the Old Bailey for fraudu
 
 ### Changes:
 
-1. [Former British Labour MP Jim Devine is jailed for 16 months for fraudulently claiming PS8,385 in expenses. ](/news/2011/03/31/former-british-labour-mp-jim-devine-is-jailed-for-16-months-for-fraudulently-claiming-aps8-385-in-expenses.md) _2017-08-25 03:32:42 (First version)_
+1. [Former British Labour MP Jim Devine is jailed for 16 months for fraudulently claiming PS8,385 in expenses. ](/news/2011/03/31/former-british-labour-mp-jim-devine-is-jailed-for-16-months-for-fraudulently-claiming-aps8-385-in-expenses.md) _2018-02-06 13:49:22 (First version)_
 1. [Former British Labour MP Jim Devine is jailed for 16 months for fraudulently claiming GBP8,385 in expenses. ](/news/2011/03/31/former-british-labour-mp-jim-devine-is-jailed-for-16-months-for-fraudulently-claiming-agbp8-385-in-expenses.md) _(Current version)_
 
 ### Related:

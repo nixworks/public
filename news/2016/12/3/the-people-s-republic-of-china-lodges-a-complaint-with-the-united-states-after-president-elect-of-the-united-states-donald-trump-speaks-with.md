@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complain
 
 ### Changes:
 
-1. [China-United States relations: The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/china-united-states-relations-the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-unite.md) _2017-08-27 03:47:22 (First version)_
+1. [China-United States relations: The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/china-united-states-relations-the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-unite.md) _2018-02-06 13:49:30 (First version)_
 1. [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md) _(Current version)_
 
 ### Related:

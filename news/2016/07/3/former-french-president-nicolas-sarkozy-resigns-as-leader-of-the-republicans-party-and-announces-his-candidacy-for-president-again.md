@@ -16,7 +16,7 @@ Leader of conservative Les Republicains party announces he will step down as its
 
 ### Changes:
 
-1. [French presidential election, 2017: Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/french-presidential-election-2017-former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-can.md) _2017-08-27 03:46:24 (First version)_
+1. [French presidential election, 2017: Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/french-presidential-election-2017-former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-can.md) _2018-02-06 13:49:29 (First version)_
 1. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Syrian government forces advance further into IS-held Palmyra, reportedly captur
 
 ### Changes:
 
-1. [Syrian Civil War: Palmyra offensive (March 2016): The Syrian Army and allies make major advances near Palmyra against ISIL as the group start pulling out its equipment from the town. ](/news/2016/03/25/syrian-civil-war-palmyra-offensive-march-2016-the-syrian-army-and-allies-make-major-advances-near-palmyra-against-isil-as-the-group-star.md) _2017-08-27 03:45:22 (First version)_
+1. [Syrian Civil War: Palmyra offensive (March 2016): The Syrian Army and allies make major advances near Palmyra against ISIL as the group start pulling out its equipment from the town. ](/news/2016/03/25/syrian-civil-war-palmyra-offensive-march-2016-the-syrian-army-and-allies-make-major-advances-near-palmyra-against-isil-as-the-group-star.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army and allies make major advances near Palmyra against ISIL as the group start pulling out its equipment from the town. ](/news/2016/03/25/the-syrian-army-and-allies-make-major-advances-near-palmyra-against-isil-as-the-group-start-pulling-out-its-equipment-from-the-town.md) _(Current version)_
 
 ### Related:

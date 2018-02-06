@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/04/1/a-small-aircraft-goes-missing-whilst-in-flight-t
 
 ### Changes:
 
-1. [ A small aircraft goes missing whilst in flight towards Rio de Janeiro, Brazil, with 19 people on board. It is found to have crashed near Saquarema, about 100&nbsp;km from Rio. There are no survivors. ](/news/2006/04/1/a-small-aircraft-goes-missing-whilst-in-flight-towards-rio-de-janeiro-brazil-with-19-people-on-board-it-is-found-to-have-crashed-near-s.md) _2017-08-25 03:17:33 (First version)_
+1. [ A small aircraft goes missing whilst in flight towards Rio de Janeiro, Brazil, with 19 people on board. It is found to have crashed near Saquarema, about 100&nbsp;km from Rio. There are no survivors. ](/news/2006/04/1/a-small-aircraft-goes-missing-whilst-in-flight-towards-rio-de-janeiro-brazil-with-19-people-on-board-it-is-found-to-have-crashed-near-s.md) _2018-02-06 13:49:17 (First version)_
 1. [ A small aircraft goes missing whilst in flight towards Rio de Janeiro, Brazil, with 19 people on board. It is found to have crashed near Saquarema, about 100&nbsp;km from Rio. There are no survivors. ](/news/2006/04/1/a-small-aircraft-goes-missing-whilst-in-flight-towards-rio-de-janeiro-brazil-with-19-people-on-board-it-is-found-to-have-crashed-near-sa.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-th
 
 ### Changes:
 
-1. [ The Catholic Church praises ''Harry Potter and the Half-Blood Prince'' after previously accusing the books of promoting witchcraft and the occult. ](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-the-half-blood-prince-after-previously-accusing-the-books-of-promoting-witchcraft-and-the.md) _2017-08-25 03:25:11 (First version)_
+1. [ The Catholic Church praises ''Harry Potter and the Half-Blood Prince'' after previously accusing the books of promoting witchcraft and the occult. ](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-the-half-blood-prince-after-previously-accusing-the-books-of-promoting-witchcraft-and-the.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Catholic Church praises "Harry Potter and the Half-Blood Prince" after previously accusing the books of promoting witchcraft and the occult. ](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-the-half-blood-prince-after-previously-accusing-the-books-of-promoting-witchcraft-and-the-oc.md) _(Current version)_
 
 ### Related:

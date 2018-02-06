@@ -17,7 +17,7 @@ Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nea
 
 ### Changes:
 
-1. [Boko Haram insurgency: Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/boko-haram-insurgency-toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md) _2017-08-27 03:42:38 (First version)_
+1. [Boko Haram insurgency: Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/boko-haram-insurgency-toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md) _2018-02-06 13:49:27 (First version)_
 1. [Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md) _(Current version)_
 
 ### Related:

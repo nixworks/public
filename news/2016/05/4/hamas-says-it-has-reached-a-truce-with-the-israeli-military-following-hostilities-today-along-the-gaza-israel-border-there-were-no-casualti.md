@@ -17,7 +17,7 @@ The Palestinian Islamist group claimed that Egypt mediated a truce with Israel a
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/israeli-palestinian-conflict-hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israe.md) _2017-08-27 03:45:59 (First version)_
+1. [Israeli-Palestinian conflict: Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/israeli-palestinian-conflict-hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israe.md) _2018-02-06 13:49:29 (First version)_
 1. [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md) _(Current version)_
 
 ### Related:

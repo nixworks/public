@@ -16,7 +16,7 @@ The British and Irish Lions secure a first series win in 16 years with a dominan
 
 ### Changes:
 
-1. [In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. ](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-australia-41-16-in-sydney-to-win-their-three-test-series-2-1-it-is-the-lions-first-se.md) _2017-08-27 03:39:12 (First version)_
+1. [In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. ](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-australia-41-16-in-sydney-to-win-their-three-test-series-2-1-it-is-the-lions-first-se.md) _2018-02-06 13:49:25 (First version)_
 1. [In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. ](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-australia-41a16-in-sydney-to-win-their-three-test-series-2a1-it-is-the-lions-first-se.md) _(Current version)_
 
 ### Related:

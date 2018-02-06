@@ -19,7 +19,7 @@ The US has said it holds Russia responsible for a deadly attack on an aid convoy
 
 ### Changes:
 
-1. [Syrian civil war: The Obama administration claims that Russia was responsible for the bombing of a United Nations aid convoy near Aleppo on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. ](/news/2016/09/21/syrian-civil-war-the-obama-administration-claims-that-russia-was-responsible-for-the-bombing-of-a-united-nations-aid-convoy-near-aleppo-on.md) _2017-08-27 03:46:53 (First version)_
+1. [Syrian civil war: The Obama administration claims that Russia was responsible for the bombing of a United Nations aid convoy near Aleppo on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. ](/news/2016/09/21/syrian-civil-war-the-obama-administration-claims-that-russia-was-responsible-for-the-bombing-of-a-united-nations-aid-convoy-near-aleppo-on.md) _2018-02-06 13:49:29 (First version)_
 1. [The Obama administration claims that Russia was responsible for the bombing of a United Nations aid convoy near Aleppo on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. ](/news/2016/09/21/the-obama-administration-claims-that-russia-was-responsible-for-the-bombing-of-a-united-nations-aid-convoy-near-aleppo-on-september-19-russ.md) _(Current version)_
 
 ### Related:

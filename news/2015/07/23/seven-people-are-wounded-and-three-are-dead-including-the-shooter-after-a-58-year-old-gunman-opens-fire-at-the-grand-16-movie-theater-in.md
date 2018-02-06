@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/23/seven-people-are-wounded-and-three-are-dead-inc
 
 ### Changes:
 
-1. [2015 Lafayette shooting: Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of "Trainwreck". ](/news/2015/07/23/2015-lafayette-shooting-seven-people-are-wounded-and-three-are-dead-including-the-shooter-after-a-58-year-old-gunman-opens-fire-at-the-g.md) _2017-08-27 03:42:44 (First version)_
+1. [2015 Lafayette shooting: Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of "Trainwreck". ](/news/2015/07/23/2015-lafayette-shooting-seven-people-are-wounded-and-three-are-dead-including-the-shooter-after-a-58-year-old-gunman-opens-fire-at-the-g.md) _2018-02-06 13:49:27 (First version)_
 1. [Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of "Trainwreck". ](/news/2015/07/23/seven-people-are-wounded-and-three-are-dead-including-the-shooter-after-a-58-year-old-gunman-opens-fire-at-the-grand-16-movie-theater-in.md) _(Current version)_
 
 ### Related:

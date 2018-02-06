@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/9/nato-led-forces-in-afghanistan-say-they-have-kil
 
 ### Changes:
 
-1. [ Taliban insurgency (Operation Medusa): NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/taliban-insurgency-operation-medusa-p-nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive.md) _2017-08-25 03:18:21 (First version)_
-2. [ Taliban insurgency (Operation Medusa):: NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/taliban-insurgency-operation-medusa-nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive.md) _2017-08-27 03:18:16 (Update)_
+1. [ Taliban insurgency (Operation Medusa): NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/taliban-insurgency-operation-medusa-p-nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive.md) _2018-02-06 13:49:17 (First version)_
+2. [ Taliban insurgency (Operation Medusa):: NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/taliban-insurgency-operation-medusa-nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive.md) _2018-02-06 13:49:17 (Update)_
 2. [ NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive-in-the-south.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The seven-year Republican quest to repeal the Affordable Care Act seemed to reac
 
 ### Changes:
 
-1. [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md) _2017-07-21 11:30:05 (First version)_
+1. [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md) _2018-02-06 13:49:30 (First version)_
 1. [A Republican Senate bill to repeal and replace large portions of the Patient Protection and Affordable Care Act fails to win enough support to pass. ](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.md) _(Current version)_
 
 ### Related:

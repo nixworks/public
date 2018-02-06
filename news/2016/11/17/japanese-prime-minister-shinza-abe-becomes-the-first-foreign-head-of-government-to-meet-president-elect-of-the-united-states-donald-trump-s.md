@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-
 
 ### Changes:
 
-1. [Japan-United States relations: Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japan-united-states-relations-japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of.md) _2017-08-27 03:47:15 (First version)_
+1. [Japan-United States relations: Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japan-united-states-relations-japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md) _(Current version)_
 
 ### Related:

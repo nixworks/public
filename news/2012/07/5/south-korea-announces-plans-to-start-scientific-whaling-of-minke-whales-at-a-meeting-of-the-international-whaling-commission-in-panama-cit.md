@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-
 
 ### Changes:
 
-1. [South Korea announces plans to start "scientific" whaling of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-ci.md) _2017-08-25 03:36:03 (First version)_
+1. [South Korea announces plans to start "scientific" whaling of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-ci.md) _2018-02-06 13:49:23 (First version)_
 1. [South Korea announces plans to start "scientific" whaling of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-cit.md) _(Current version)_
 
 ### Related:

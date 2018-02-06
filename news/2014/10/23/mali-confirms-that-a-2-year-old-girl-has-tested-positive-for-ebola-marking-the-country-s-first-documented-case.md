@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/23/mali-confirms-that-a-2-year-old-girl-has-tested
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Mali confirms that a 2-year-old girl has tested positive for Ebola, marking the country's first documented case. ](/news/2014/10/23/ebola-virus-epidemic-in-west-africa-mali-confirms-that-a-2-year-old-girl-has-tested-positive-for-ebola-marking-the-country-s-first-documen.md) _2017-08-27 03:41:26 (First version)_
+1. [Ebola virus epidemic in West Africa: Mali confirms that a 2-year-old girl has tested positive for Ebola, marking the country's first documented case. ](/news/2014/10/23/ebola-virus-epidemic-in-west-africa-mali-confirms-that-a-2-year-old-girl-has-tested-positive-for-ebola-marking-the-country-s-first-documen.md) _2018-02-06 13:49:26 (First version)_
 1. [Mali confirms that a 2-year-old girl has tested positive for Ebola, marking the country's first documented case. ](/news/2014/10/23/mali-confirms-that-a-2-year-old-girl-has-tested-positive-for-ebola-marking-the-country-s-first-documented-case.md) _(Current version)_
 
 ### Related:

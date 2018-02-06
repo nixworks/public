@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-j
 
 ### Changes:
 
-1. [Party leader and Chinese President Xi Jinping is addressing more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-is-addressing-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-we.md) _2017-10-18 13:30:06 (First version)_
-2. [Party leader and Chinese President Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-week.md) _2017-10-19 16:30:05 (Update)_
+1. [Party leader and Chinese President Xi Jinping is addressing more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-is-addressing-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-we.md) _2018-02-06 13:49:31 (First version)_
+2. [Party leader and Chinese President Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-week.md) _2018-02-06 13:49:31 (Update)_
 2. [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md) _(Current version)_
 
 ### Related:

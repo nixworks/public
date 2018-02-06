@@ -16,7 +16,7 @@ Vietnam taking the lead in gay rights in Southeast Asia by abolishing a ban on s
 
 ### Changes:
 
-1. [Vietnam-s new marriage law goes into effect, abolishing regulations that -prohibit marriage between people of the same sex.- ](/news/2015/01/1/vietnam-s-new-marriage-law-goes-into-effect-abolishing-regulations-that-prohibit-marriage-between-people-of-the-same-sex.md) _2017-08-27 03:41:42 (First version)_
+1. [Vietnam-s new marriage law goes into effect, abolishing regulations that -prohibit marriage between people of the same sex.- ](/news/2015/01/1/vietnam-s-new-marriage-law-goes-into-effect-abolishing-regulations-that-prohibit-marriage-between-people-of-the-same-sex.md) _2018-02-06 13:49:26 (First version)_
 1. [Vietnam's new marriage law goes into effect, abolishing regulations that "prohibit marriage between people of the same sex." ](/news/2015/01/1/vietnamas-new-marriage-law-goes-into-effect-abolishing-regulations-that-aprohibit-marriage-between-people-of-the-same-sex-a.md) _(Current version)_
 
 ### Related:

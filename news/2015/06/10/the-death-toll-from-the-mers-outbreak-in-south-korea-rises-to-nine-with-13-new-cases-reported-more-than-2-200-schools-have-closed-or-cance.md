@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/06/10/the-death-toll-from-the-mers-outbreak-in-south-
 
 ### Changes:
 
-1. [2015 South Korean MERS outbreak:The death toll from the MERS outbreak in South Korea rises to nine, with 13 new cases reported. More than 2,200 schools have closed or cancelled classes as a result of the outbreak. ](/news/2015/06/10/2015-south-korean-mers-outbreak-pthe-death-toll-from-the-mers-outbreak-in-south-korea-rises-to-nine-with-13-new-cases-reported-more-than-2.md) _2017-08-25 03:42:12 (First version)_
-2. [2015 South Korean MERS outbreak:: The death toll from the MERS outbreak in South Korea rises to nine, with 13 new cases reported. More than 2,200 schools have closed or cancelled classes as a result of the outbreak. ](/news/2015/06/10/2015-south-korean-mers-outbreak-the-death-toll-from-the-mers-outbreak-in-south-korea-rises-to-nine-with-13-new-cases-reported-more-than.md) _2017-08-27 03:42:30 (Update)_
+1. [2015 South Korean MERS outbreak:: The death toll from the MERS outbreak in South Korea rises to nine, with 13 new cases reported. More than 2,200 schools have closed or cancelled classes as a result of the outbreak. ](/news/2015/06/10/2015-south-korean-mers-outbreak-the-death-toll-from-the-mers-outbreak-in-south-korea-rises-to-nine-with-13-new-cases-reported-more-than.md) _2018-02-06 13:49:27 (First version)_
+2. [2015 South Korean MERS outbreak:The death toll from the MERS outbreak in South Korea rises to nine, with 13 new cases reported. More than 2,200 schools have closed or cancelled classes as a result of the outbreak. ](/news/2015/06/10/2015-south-korean-mers-outbreak-pthe-death-toll-from-the-mers-outbreak-in-south-korea-rises-to-nine-with-13-new-cases-reported-more-than-2.md) _2018-02-06 13:49:27 (Update)_
 2. [The death toll from the MERS outbreak in South Korea rises to nine, with 13 new cases reported. More than 2,200 schools have closed or cancelled classes as a result of the outbreak. ](/news/2015/06/10/the-death-toll-from-the-mers-outbreak-in-south-korea-rises-to-nine-with-13-new-cases-reported-more-than-2-200-schools-have-closed-or-cance.md) _(Current version)_
 
 ### Related:

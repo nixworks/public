@@ -17,7 +17,7 @@ CHINA-POLLUTION/:China to send air pollution inspection teams to provinces
 
 ##### NSW Rural Fire Service
 ### [An NSW Rural Fire Service pilot dies when his plane crashes while fighting fires near the town of Ulladulla, New South Wales, Australia. ](/news/2013/10/24/an-nsw-rural-fire-service-pilot-dies-when-his-plane-crashes-while-fighting-fires-near-the-town-of-ulladulla-new-south-wales-australia.md)
-_Context: NSW Rural Fire Service, Ulladulla, NSW_
+_Context: Ulladulla, NSW, NSW Rural Fire Service_
 
 ##### World Health Organization
 ### [The World Health Organization reports that a polio outbreak has begun in the war-torn city of Deir Ezzor, Syria. ](/news/2013/10/24/the-world-health-organization-reports-that-a-polio-outbreak-has-begun-in-the-war-torn-city-of-deir-ezzor-syria.md)

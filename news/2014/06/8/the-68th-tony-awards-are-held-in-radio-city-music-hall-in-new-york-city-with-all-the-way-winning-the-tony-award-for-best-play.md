@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-musi
 
 ### Changes:
 
-1. [68th Tony Awards: The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/68th-tony-awards-the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best.md) _2017-08-27 03:40:48 (First version)_
+1. [68th Tony Awards: The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/68th-tony-awards-the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best.md) _2018-02-06 13:49:26 (First version)_
 1. [The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best-play.md) _(Current version)_
 
 ### Related:

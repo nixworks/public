@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/04/20/pro-ouattara-forces-attempt-to-remove-remaining
 
 ### Changes:
 
-1. [Second Ivorian Civil War: Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/second-ivorian-civil-war-pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md) _2017-08-27 03:33:00 (First version)_
+1. [Second Ivorian Civil War: Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/second-ivorian-civil-war-pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md) _2018-02-06 13:49:22 (First version)_
 1. [Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md) _(Current version)_
 
 ### Related:

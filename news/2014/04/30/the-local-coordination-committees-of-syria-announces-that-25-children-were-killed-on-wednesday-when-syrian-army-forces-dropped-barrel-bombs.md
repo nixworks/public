@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/04/30/the-local-coordination-committees-of-syria-anno
 
 ### Changes:
 
-1. [Syrian Civil War: The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school. ](/news/2014/04/30/syrian-civil-war-the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dro.md) _2017-08-27 03:40:39 (First version)_
+1. [Syrian Civil War: The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school. ](/news/2014/04/30/syrian-civil-war-the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dro.md) _2018-02-06 13:49:26 (First version)_
 1. [The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school. ](/news/2014/04/30/the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dropped-barrel-bombs.md) _(Current version)_
 
 ### Related:

@@ -20,8 +20,8 @@ Egyptians appear to have voted in favour of a deeply divisive new constitution, 
 
 ### Changes:
 
-1. [Egyptian constitutional referendum, 2012:A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-pa-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-ref.md) _2017-08-25 03:37:06 (First version)_
-2. [Egyptian constitutional referendum, 2012:: A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-re.md) _2017-08-27 03:37:17 (Update)_
+1. [Egyptian constitutional referendum, 2012:A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-pa-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-ref.md) _2018-02-06 13:49:24 (First version)_
+2. [Egyptian constitutional referendum, 2012:: A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-re.md) _2018-02-06 13:49:24 (Update)_
 2. [A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-referendum-on-15-and-22-december.md) _(Current version)_
 
 ### Related:

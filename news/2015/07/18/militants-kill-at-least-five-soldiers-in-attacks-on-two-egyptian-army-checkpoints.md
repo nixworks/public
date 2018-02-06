@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Sinai insurgency: Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/sinai-insurgency-militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _2017-08-27 03:42:43 (First version)_
+1. [Sinai insurgency: Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/sinai-insurgency-militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _2018-02-06 13:49:27 (First version)_
 1. [Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _(Current version)_
 
 ### Related:

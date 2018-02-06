@@ -17,7 +17,7 @@ Kirishima volcano (Kyushu Island, Japan): news & activity updates
 
 ### Changes:
 
-1. [Volcano alert is raised for Mount Kirishima area in southern Kyushu, Japan, after the eruption of Shinmoedake, the film location of ''You Only Live Twice''. ](/news/2011/01/27/volcano-alert-is-raised-for-mount-kirishima-area-in-southern-kyushu-japan-after-the-eruption-of-shinmoedake-the-film-location-of-you-on.md) _2017-08-25 03:31:56 (First version)_
+1. [Volcano alert is raised for Mount Kirishima area in southern Kyushu, Japan, after the eruption of Shinmoedake, the film location of ''You Only Live Twice''. ](/news/2011/01/27/volcano-alert-is-raised-for-mount-kirishima-area-in-southern-kyushu-japan-after-the-eruption-of-shinmoedake-the-film-location-of-you-on.md) _2018-02-06 13:49:21 (First version)_
 1. [Volcano alert is raised for Mount Kirishima area in southern Kyushu, Japan, after the eruption of Shinmoedake, the film location of "You Only Live Twice". ](/news/2011/01/27/volcano-alert-is-raised-for-mount-kirishima-area-in-southern-kyushu-japan-after-the-eruption-of-shinmoedake-the-film-location-of-you-onl.md) _(Current version)_
 
 ### Related:

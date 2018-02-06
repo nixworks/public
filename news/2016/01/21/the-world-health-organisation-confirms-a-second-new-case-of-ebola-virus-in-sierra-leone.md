@@ -16,7 +16,7 @@ A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday,
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _2017-08-27 03:44:44 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The attackers were wearing Afghan security forces uniforms, coalition officials 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Resolute Support Mission: Two Romanian soldiers are killed along with assailants in an insider attack in Afghanistan. ](/news/2016/05/7/war-in-afghanistan-2015-present-resolute-support-mission-two-romanian-soldiers-are-killed-along-with-assailants-in-an-insider-attack-i.md) _2017-08-27 03:45:59 (First version)_
+1. [War in Afghanistan (2015-present): Resolute Support Mission: Two Romanian soldiers are killed along with assailants in an insider attack in Afghanistan. ](/news/2016/05/7/war-in-afghanistan-2015-present-resolute-support-mission-two-romanian-soldiers-are-killed-along-with-assailants-in-an-insider-attack-i.md) _2018-02-06 13:49:29 (First version)_
 1. [Two Romanian soldiers are killed along with assailants in an insider attack in Afghanistan. ](/news/2016/05/7/two-romanian-soldiers-are-killed-along-with-assailants-in-an-insider-attack-in-afghanistan.md) _(Current version)_
 
 ### Related:

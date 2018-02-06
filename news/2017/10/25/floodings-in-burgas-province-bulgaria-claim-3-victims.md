@@ -17,7 +17,7 @@ Three people have died after torrential rains on 24th of October triggered flood
 
 ### Changes:
 
-1. [A big flooding in Burgas Province, Bulgaria, took 3 victims, 1 woman is still missing.](/news/2017/10/25/a-big-flooding-in-burgas-province-bulgaria-took-3-victims-1-woman-is-still-missing.md) _2017-10-26 17:30:05 (First version)_
+1. [A big flooding in Burgas Province, Bulgaria, took 3 victims, 1 woman is still missing.](/news/2017/10/25/a-big-flooding-in-burgas-province-bulgaria-took-3-victims-1-woman-is-still-missing.md) _2018-02-06 13:49:31 (First version)_
 1. [Floodings in Burgas Province, Bulgaria, claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md) _(Current version)_
 
 ### Related:

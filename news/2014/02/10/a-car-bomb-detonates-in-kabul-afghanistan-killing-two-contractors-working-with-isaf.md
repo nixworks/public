@@ -16,8 +16,8 @@ Coalition confirms 2 killed as apparent suicide attack in east of Afghan capital
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-pa-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _2017-08-25 03:40:00 (First version)_
-2. [War in Afghanistan (2001-present):: A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-a-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _2017-08-27 03:40:18 (Update)_
+1. [War in Afghanistan (2001-present):A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-pa-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-a-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _2018-02-06 13:49:25 (Update)_
 2. [A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/a-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _(Current version)_
 
 ### Related:

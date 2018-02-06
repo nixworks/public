@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/25/a-severe-storm-in-hugo-minnesota-kills-one-pers
 
 ### Changes:
 
-1. [ USA A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _2017-08-25 03:22:13 (First version)_
-2. [ USA Tornadoes of 2008: A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-tornadoes-of-2008-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _2017-08-27 03:22:08 (Update)_
+1. [ USA Tornadoes of 2008: A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-tornadoes-of-2008-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _2018-02-06 13:49:18 (First version)_
+2. [ USA A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _2018-02-06 13:49:18 (Update)_
 2. [ A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Gunmen shoot and kill the brother of Syria&#39;s parliament speaker as he drives
 
 ### Changes:
 
-1. [Syrian civil war:The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-pthe-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _2017-08-25 03:36:46 (First version)_
-2. [Syrian civil war:: The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _2017-08-27 03:36:57 (Update)_
+1. [Syrian civil war:: The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-pthe-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _2018-02-06 13:49:24 (Update)_
 2. [The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md) _(Current version)_
 
 ### Related:

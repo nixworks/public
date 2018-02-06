@@ -16,7 +16,7 @@ Update on &apos;The 2017 Academy Award nominations: &apos;La La Land&apos; ties 
 
 ### Changes:
 
-1. [89th Academy Awards: Nominations for the 2017 Academy Awards are announced, with "La La Land", "Moonlight" and "Hidden Figures" among the favorites. ](/news/2017/01/24/89th-academy-awards-nominations-for-the-2017-academy-awards-are-announced-with-la-la-land-moonlight-and-hidden-figures-among-the-fa.md) _2017-08-27 03:47:40 (First version)_
+1. [89th Academy Awards: Nominations for the 2017 Academy Awards are announced, with "La La Land", "Moonlight" and "Hidden Figures" among the favorites. ](/news/2017/01/24/89th-academy-awards-nominations-for-the-2017-academy-awards-are-announced-with-la-la-land-moonlight-and-hidden-figures-among-the-fa.md) _2018-02-06 13:49:30 (First version)_
 1. [Nominations for the 2017 Academy Awards are announced, with "La La Land", "Moonlight" and "Hidden Figures" among the favorites. ](/news/2017/01/24/nominations-for-the-2017-academy-awards-are-announced-with-la-la-land-moonlight-and-hidden-figures-among-the-favorites.md) _(Current version)_
 
 ### Related:

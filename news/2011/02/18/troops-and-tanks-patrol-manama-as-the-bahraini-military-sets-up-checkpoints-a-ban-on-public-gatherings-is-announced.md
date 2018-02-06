@@ -19,8 +19,8 @@ Formats: [HTML](/news/2011/02/18/troops-and-tanks-patrol-manama-as-the-bahraini-
 
 ### Changes:
 
-1. [2011 Bahraini protests:Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/2011-bahraini-protests-ptroops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md) _2017-08-25 03:32:16 (First version)_
-2. [2011 Bahraini protests:: Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/2011-bahraini-protests-troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announce.md) _2017-08-27 03:32:23 (Update)_
+1. [2011 Bahraini protests:: Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/2011-bahraini-protests-troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announce.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Bahraini protests:Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/2011-bahraini-protests-ptroops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md) _2018-02-06 13:49:22 (Update)_
 2. [Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md) _(Current version)_
 
 ### Related:

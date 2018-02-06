@@ -17,8 +17,8 @@ A second soldier has died following an incident at a military firing range in Pe
 
 ### Changes:
 
-1. [A British Army soldier is killed and three others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/a-british-army-soldier-is-killed-and-three-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin-training-area-in-pembrokeshire.md) _2017-06-15 23:30:07 (First version)_
-2. [Castlemartin Training Area: Two British Army soldiers are killed and two others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/castlemartin-training-area-two-british-army-soldiers-are-killed-and-two-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin.md) _2017-08-27 03:48:28 (Update)_
+1. [Castlemartin Training Area: Two British Army soldiers are killed and two others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/castlemartin-training-area-two-british-army-soldiers-are-killed-and-two-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin.md) _2018-02-06 13:49:30 (First version)_
+2. [A British Army soldier is killed and three others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/a-british-army-soldier-is-killed-and-three-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin-training-area-in-pembrokeshire.md) _2018-02-06 13:49:30 (Update)_
 2. [Two British Army soldiers are killed and two others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/two-british-army-soldiers-are-killed-and-two-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin-training-area-in-pembrokeshi.md) _(Current version)_
 
 ### Related:

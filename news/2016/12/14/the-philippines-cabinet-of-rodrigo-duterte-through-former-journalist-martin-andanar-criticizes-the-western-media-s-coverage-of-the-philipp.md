@@ -19,7 +19,7 @@ The office of the president said the article and photographic essay had falsely 
 
 ### Changes:
 
-1. [Philippine Drug War: The Philippines cabinet of Rodrigo Duterte, through former journalist Martin Andanar, criticizes the Western media's coverage of the Philippine Drug War, particularly that of "The New York Times", and urges them to cover the purge more effectively. ](/news/2016/12/14/philippine-drug-war-the-philippines-cabinet-of-rodrigo-duterte-through-former-journalist-martin-andanar-criticizes-the-western-media-s-co.md) _2017-08-27 03:47:27 (First version)_
+1. [Philippine Drug War: The Philippines cabinet of Rodrigo Duterte, through former journalist Martin Andanar, criticizes the Western media's coverage of the Philippine Drug War, particularly that of "The New York Times", and urges them to cover the purge more effectively. ](/news/2016/12/14/philippine-drug-war-the-philippines-cabinet-of-rodrigo-duterte-through-former-journalist-martin-andanar-criticizes-the-western-media-s-co.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippines cabinet of Rodrigo Duterte, through former journalist Martin Andanar, criticizes the Western media's coverage of the Philippine Drug War, particularly that of "The New York Times", and urges them to cover the purge more effectively. ](/news/2016/12/14/the-philippines-cabinet-of-rodrigo-duterte-through-former-journalist-martin-andanar-criticizes-the-western-media-s-coverage-of-the-philipp.md) _(Current version)_
 
 ### Related:

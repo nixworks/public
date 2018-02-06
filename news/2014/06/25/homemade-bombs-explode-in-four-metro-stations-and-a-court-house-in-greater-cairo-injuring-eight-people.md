@@ -16,8 +16,8 @@ Eight people were hurt in northern Cairo when homemade explosive devices blew up
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-phomemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _2017-08-25 03:40:36 (First version)_
-2. [Post-coup unrest in Egypt:: Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-homemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _2017-08-27 03:40:54 (Update)_
+1. [Post-coup unrest in Egypt:Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-phomemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt:: Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-homemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _2018-02-06 13:49:26 (Update)_
 2. [Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/homemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md) _(Current version)_
 
 ### Related:

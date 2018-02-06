@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/16/the-movement-for-the-emancipation-of-the-niger-
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/nigerian-sharia-conflict-pthe-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianity.md) _2017-08-25 03:38:21 (First version)_
-2. [Nigerian Sharia conflict:: The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/nigerian-sharia-conflict-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianit.md) _2017-08-27 03:38:34 (Update)_
+1. [Nigerian Sharia conflict:: The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/nigerian-sharia-conflict-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianit.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/nigerian-sharia-conflict-pthe-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianity.md) _2018-02-06 13:49:24 (Update)_
 2. [The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianity-in-nigeria-in-response-t.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/05/22/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-
 
 ### Changes:
 
-1. [Prime Minister of Vietnam Nguyen Tan Dung says that his government is considering legal action against China over an oil rig that was deployed in waters that Vietnam claims. ](/news/2014/05/22/prime-minister-of-vietnam-nguya-n-taoy-n-da-c-ng-says-that-his-government-is-considering-legal-action-against-china-over-an-oil-rig-that-was-d.md) _2017-08-25 03:40:26 (First version)_
+1. [Prime Minister of Vietnam Nguyen Tan Dung says that his government is considering legal action against China over an oil rig that was deployed in waters that Vietnam claims. ](/news/2014/05/22/prime-minister-of-vietnam-nguya-n-taoy-n-da-c-ng-says-that-his-government-is-considering-legal-action-against-china-over-an-oil-rig-that-was-d.md) _2018-02-06 13:49:26 (First version)_
 1. [Prime Minister of Vietnam Nguyen TCNYn Dung says that his government is considering legal action against China over an oil rig that was deployed in waters that Vietnam claims. ](/news/2014/05/22/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-says-that-his-government-is-considering-legal-action-against-china-over-an-oil-rig-that-was.md) _(Current version)_
 
 ### Related:

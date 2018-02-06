@@ -16,7 +16,7 @@ President Lula da Silva said that Brazil is climbing out, and strengthened, from
 
 ### Changes:
 
-1. [ Brazilian President Lula da Silva says his country is -now advising the International Monetary Fund, IMF-. ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-now-advising-the-international-monetary-fund-imf.md) _2017-08-27 03:25:16 (First version)_
+1. [ Brazilian President Lula da Silva says his country is -now advising the International Monetary Fund, IMF-. ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-now-advising-the-international-monetary-fund-imf.md) _2018-02-06 13:49:19 (First version)_
 1. [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md) _(Current version)_
 
 ### Related:

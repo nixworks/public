@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/04/4/united-nations-and-french-military-helicopters-f
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010a2011-ivorian-crisis-punited-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _2017-08-25 03:32:43 (First version)_
-2. [2010-2011 Ivorian crisis:: United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010-2011-ivorian-crisis-united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _2017-08-27 03:32:52 (Update)_
+1. [2010-2011 Ivorian crisis:United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010a2011-ivorian-crisis-punited-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis:: United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010-2011-ivorian-crisis-united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _2018-02-06 13:49:22 (Update)_
 2. [United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _(Current version)_
 
 ### Related:

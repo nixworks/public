@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/7/former-new-york-city-mayor-rudy-giuliani-endorse
 
 ### Changes:
 
-1. [Donald Trump endorsements: Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. ](/news/2016/04/7/donald-trump-endorsements-former-new-york-city-mayor-rudy-giuliani-endorses-donald-trump-for-u-s-president-predicting-trump-will-get-more.md) _2017-08-27 03:45:31 (First version)_
+1. [Donald Trump endorsements: Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. ](/news/2016/04/7/donald-trump-endorsements-former-new-york-city-mayor-rudy-giuliani-endorses-donald-trump-for-u-s-president-predicting-trump-will-get-more.md) _2018-02-06 13:49:29 (First version)_
 1. [Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. ](/news/2016/04/7/former-new-york-city-mayor-rudy-giuliani-endorses-donald-trump-for-u-s-president-predicting-trump-will-get-more-than-50-of-the-statewide.md) _(Current version)_
 
 ### Related:

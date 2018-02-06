@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001apresent-pat-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-da.md) _2017-08-25 03:37:21 (First version)_
-2. [War in Afghanistan (2001-present):: At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001-present-at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-d.md) _2017-08-27 03:37:31 (Update)_
+1. [War in Afghanistan (2001-present):At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001apresent-pat-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-da.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001-present-at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-d.md) _2018-02-06 13:49:24 (Update)_
 2. [At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-day-with-eight-police-officers-killed-i.md) _(Current version)_
 
 ### Related:

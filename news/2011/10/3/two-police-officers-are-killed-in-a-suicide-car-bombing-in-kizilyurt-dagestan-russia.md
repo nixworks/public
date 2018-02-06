@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/10/3/two-police-officers-are-killed-in-a-suicide-car-
 
 ### Changes:
 
-1. [North Caucasus insurgency:Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/north-caucasus-insurgency-ptwo-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md) _2017-08-25 03:34:15 (First version)_
-2. [North Caucasus insurgency:: Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/north-caucasus-insurgency-two-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md) _2017-08-27 03:34:23 (Update)_
+1. [North Caucasus insurgency:: Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/north-caucasus-insurgency-two-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md) _2018-02-06 13:49:23 (First version)_
+2. [North Caucasus insurgency:Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/north-caucasus-insurgency-ptwo-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md) _2018-02-06 13:49:23 (Update)_
 2. [Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/two-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md) _(Current version)_
 
 ### Related:

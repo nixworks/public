@@ -17,7 +17,7 @@ Hurricane Matthew is gaining strength in the Caribbean, its current track from t
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. ](/news/2016/09/30/2016-atlantic-hurricane-season-hurricane-matthew-becomes-a-category-5-hurricane-with-maximum-sustained-winds-up-to-160-mph-the-strongest-h.md) _2017-08-27 03:46:56 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. ](/news/2016/09/30/2016-atlantic-hurricane-season-hurricane-matthew-becomes-a-category-5-hurricane-with-maximum-sustained-winds-up-to-160-mph-the-strongest-h.md) _2018-02-06 13:49:29 (First version)_
 1. [Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. ](/news/2016/09/30/hurricane-matthew-becomes-a-category-5-hurricane-with-maximum-sustained-winds-up-to-160-mph-the-strongest-hurricane-to-form-over-the-caribb.md) _(Current version)_
 
 ### Related:

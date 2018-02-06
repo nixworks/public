@@ -18,7 +18,7 @@ Record-breaking winds and heavy rains disrupted transport today as Super-Typhoon
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Meranti hits southern Taiwan with record breaking winds and heavy rains, disrupting transport and knocking out power to tens of thousands of people. ](/news/2016/09/14/2016-pacific-typhoon-season-typhoon-meranti-hits-southern-taiwan-with-record-breaking-winds-and-heavy-rains-disrupting-transport-and-knock.md) _2017-08-27 03:46:51 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Meranti hits southern Taiwan with record breaking winds and heavy rains, disrupting transport and knocking out power to tens of thousands of people. ](/news/2016/09/14/2016-pacific-typhoon-season-typhoon-meranti-hits-southern-taiwan-with-record-breaking-winds-and-heavy-rains-disrupting-transport-and-knock.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Meranti hits southern Taiwan with record breaking winds and heavy rains, disrupting transport and knocking out power to tens of thousands of people. ](/news/2016/09/14/typhoon-meranti-hits-southern-taiwan-with-record-breaking-winds-and-heavy-rains-disrupting-transport-and-knocking-out-power-to-tens-of-thou.md) _(Current version)_
 
 ### Related:

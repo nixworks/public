@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/02/10/russia-will-request-postponement-of-repayment-o
 
 ### Changes:
 
-1. [ Russian financial crisis of 2008-2009: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008a2009-p-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md) _2017-08-25 03:23:43 (First version)_
-2. [ Russian financial crisis of 2008-2009:: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008-2009-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md) _2017-08-27 03:23:34 (Update)_
+1. [ Russian financial crisis of 2008-2009: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008a2009-p-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md) _2018-02-06 13:49:18 (First version)_
+2. [ Russian financial crisis of 2008-2009:: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008-2009-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md) _2018-02-06 13:49:18 (Update)_
 2. [ Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign-banks.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/30/the-european-union-sides-with-the-united-states
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/territorial-disputes-in-the-south-china-sea-the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident.md) _2017-08-27 03:43:37 (First version)_
+1. [Territorial disputes in the South China Sea: The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/territorial-disputes-in-the-south-china-sea-the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident.md) _2018-02-06 13:49:28 (First version)_
 1. [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md) _(Current version)_
 
 ### Related:

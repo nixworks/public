@@ -19,8 +19,8 @@ Formats: [HTML](/news/2016/04/18/heavy-rain-of-more-than-1-ft-causes-major-flood
 
 ### Changes:
 
-1. [Heavy rain of more than {{convert|1|ft}} causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-convert-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-pow.md) _2017-05-01 03:49:18 (First version)_
-2. [2016 Houston floods: Heavy rain of more than 1|ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/2016-houston-floods-heavy-rain-of-more-than-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-ca.md) _2017-08-27 03:45:40 (Update)_
+1. [Heavy rain of more than {{convert|1|ft}} causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-convert-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-pow.md) _2018-02-06 13:49:28 (First version)_
+2. [2016 Houston floods: Heavy rain of more than 1|ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/2016-houston-floods-heavy-rain-of-more-than-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-ca.md) _2018-02-06 13:49:28 (Update)_
 2. [Heavy rain of more than 1 ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-power-outages-f.md) _(Current version)_
 
 ### Related:

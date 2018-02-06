@@ -16,7 +16,7 @@ Cuba says it will release more than 3,500 prisoners in a goodwill gesture ahead 
 
 ### Changes:
 
-1. [United States-Cuban Thaw: Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/united-states-cuban-thaw-cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pop.md) _2017-08-27 03:43:01 (First version)_
+1. [United States-Cuban Thaw: Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/united-states-cuban-thaw-cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pop.md) _2018-02-06 13:49:27 (First version)_
 1. [Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pope-francis.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/9/the-price-of-gold-in-the-london-gold-fixing-rise
 
 ### Changes:
 
-1. [ The price of gold in the London Gold Fixing rises above -600 per troy ounce for the first time. (-603.528, a.m. Fixing.) ](/news/2008/01/9/the-price-of-gold-in-the-london-gold-fixing-rises-above-600-per-troy-ounce-for-the-first-time-603-528-a-m-fixing.md) _2017-08-27 03:21:33 (First version)_
+1. [ The price of gold in the London Gold Fixing rises above -600 per troy ounce for the first time. (-603.528, a.m. Fixing.) ](/news/2008/01/9/the-price-of-gold-in-the-london-gold-fixing-rises-above-600-per-troy-ounce-for-the-first-time-603-528-a-m-fixing.md) _2018-02-06 13:49:18 (First version)_
 1. [ The price of gold in the London Gold Fixing rises above EUR600 per troy ounce for the first time. (EUR603.528, a.m. Fixing.) ](/news/2008/01/9/the-price-of-gold-in-the-london-gold-fixing-rises-above-a-600-per-troy-ounce-for-the-first-time-a-603-528-a-m-fixing.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/06/11/the-world-health-organization-declares-the-curr
 
 ### Changes:
 
-1. [ The World Health Organization declares the current outbreak of H1N1 to be a -pandemic-, the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-pandemic-the-first-since-the-1968-hong-kong-flu.md) _2017-08-27 03:24:41 (First version)_
+1. [ The World Health Organization declares the current outbreak of H1N1 to be a -pandemic-, the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-pandemic-the-first-since-the-1968-hong-kong-flu.md) _2018-02-06 13:49:19 (First version)_
 1. [ The World Health Organization declares the current outbreak of H1N1 to be a "pandemic", the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-apandemica-the-first-since-the-1968-hong-kong-flu.md) _(Current version)_
 
 ### Related:

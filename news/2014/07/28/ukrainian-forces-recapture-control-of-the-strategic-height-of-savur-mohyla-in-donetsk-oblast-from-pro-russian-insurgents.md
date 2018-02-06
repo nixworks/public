@@ -18,8 +18,8 @@ Ukraine&#39;s Armed Forces have taken control of Savur-Mohyla in Donetsk region,
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Ukrainian forces recapture control of the strategic height of Savur-Mohyla in Donetsk oblast from pro-Russian insurgents. ](/news/2014/07/28/2014-pro-russian-unrest-in-ukraine-pukrainian-forces-recapture-control-of-the-strategic-height-of-savur-mohyla-in-donetsk-oblast-from-pro-ru.md) _2017-08-25 03:40:46 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Ukrainian forces recapture control of the strategic height of Savur-Mohyla in Donetsk oblast from pro-Russian insurgents. ](/news/2014/07/28/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-recapture-control-of-the-strategic-height-of-savur-mohyla-in-donetsk-oblast-from-pro-r.md) _2017-08-27 03:41:04 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Ukrainian forces recapture control of the strategic height of Savur-Mohyla in Donetsk oblast from pro-Russian insurgents. ](/news/2014/07/28/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-recapture-control-of-the-strategic-height-of-savur-mohyla-in-donetsk-oblast-from-pro-r.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Ukrainian forces recapture control of the strategic height of Savur-Mohyla in Donetsk oblast from pro-Russian insurgents. ](/news/2014/07/28/2014-pro-russian-unrest-in-ukraine-pukrainian-forces-recapture-control-of-the-strategic-height-of-savur-mohyla-in-donetsk-oblast-from-pro-ru.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian forces recapture control of the strategic height of Savur-Mohyla in Donetsk oblast from pro-Russian insurgents. ](/news/2014/07/28/ukrainian-forces-recapture-control-of-the-strategic-height-of-savur-mohyla-in-donetsk-oblast-from-pro-russian-insurgents.md) _(Current version)_
 
 ### Related:

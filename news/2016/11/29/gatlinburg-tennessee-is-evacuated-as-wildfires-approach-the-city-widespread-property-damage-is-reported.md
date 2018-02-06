@@ -15,8 +15,8 @@ Multiple deaths were reported in the fire in and around Great Smoky Mountains Na
 
 ### Changes:
 
-1. [2016 Southeastern United States wildfires:Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. ](/news/2016/11/29/2016-southeastern-united-states-wildfires-pgatlinburg-tennessee-is-evacuated-as-wildfires-approach-the-city-widespread-property-damage-is.md) _2017-08-25 03:46:55 (First version)_
-2. [2016 Southeastern United States wildfires:: Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. ](/news/2016/11/29/2016-southeastern-united-states-wildfires-gatlinburg-tennessee-is-evacuated-as-wildfires-approach-the-city-widespread-property-damage-i.md) _2017-08-27 03:47:20 (Update)_
+1. [2016 Southeastern United States wildfires:Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. ](/news/2016/11/29/2016-southeastern-united-states-wildfires-pgatlinburg-tennessee-is-evacuated-as-wildfires-approach-the-city-widespread-property-damage-is.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Southeastern United States wildfires:: Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. ](/news/2016/11/29/2016-southeastern-united-states-wildfires-gatlinburg-tennessee-is-evacuated-as-wildfires-approach-the-city-widespread-property-damage-i.md) _2018-02-06 13:49:29 (Update)_
 2. [Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. ](/news/2016/11/29/gatlinburg-tennessee-is-evacuated-as-wildfires-approach-the-city-widespread-property-damage-is-reported.md) _(Current version)_
 
 ### Related:

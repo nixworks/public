@@ -17,7 +17,7 @@ NASA beamed an image of the Mona Lisa to the LRO spacecraft as part of the first
 
 ### Changes:
 
-1. [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the ''Mona Lisa'', to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting.md) _2017-08-25 03:37:17 (First version)_
+1. [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the ''Mona Lisa'', to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting.md) _2018-02-06 13:49:24 (First version)_
 1. [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the "Mona Lisa", to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting-t.md) _(Current version)_
 
 ### Related:

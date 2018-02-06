@@ -18,8 +18,8 @@ Tunisia condemns a violation of its territory after fighting between Libyan rebe
 
 ### Changes:
 
-1. [2011 Libyan civil war in Tunisia:Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/2011-libyan-civil-war-in-tunisia-pmuammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from-t.md) _2017-08-25 03:32:55 (First version)_
-2. [2011 Libyan civil war in Tunisia:: Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/2011-libyan-civil-war-in-tunisia-muammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from.md) _2017-08-27 03:33:05 (Update)_
+1. [2011 Libyan civil war in Tunisia:Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/2011-libyan-civil-war-in-tunisia-pmuammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from-t.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war in Tunisia:: Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/2011-libyan-civil-war-in-tunisia-muammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from.md) _2018-02-06 13:49:22 (Update)_
 2. [Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/muammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from-the-tunisian-foreign-ministry.md) _(Current version)_
 
 ### Related:

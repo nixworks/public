@@ -20,8 +20,8 @@ Syrian rebels said three Iraniancaptives were killed on Monday during an air att
 
 ### Changes:
 
-1. [Arab Spring:A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/arab-spring-pa-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md) _2017-08-25 03:36:13 (First version)_
-2. [Arab Spring:: Syrian civil war: A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/arab-spring-syrian-civil-war-a-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md) _2017-08-27 03:36:25 (Update)_
+1. [Arab Spring:: Syrian civil war: A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/arab-spring-syrian-civil-war-a-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/arab-spring-pa-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md) _2018-02-06 13:49:23 (Update)_
 2. [A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/a-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md) _(Current version)_
 
 ### Related:

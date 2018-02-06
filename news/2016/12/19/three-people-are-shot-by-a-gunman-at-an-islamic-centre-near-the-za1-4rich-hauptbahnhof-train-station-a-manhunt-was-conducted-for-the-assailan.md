@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/19/three-people-are-shot-by-a-gunman-at-an-islamic
 
 ### Changes:
 
-1. [2016 Zurich attack: Three people are shot by a gunman at an Islamic centre near the Zurich Hauptbahnhof train station. A manhunt was conducted for the assailant, a 24-year-old Swiss citizen of Ghanian descent, whose body was was found close to the Islamic centre. ](/news/2016/12/19/2016-za1-4rich-attack-three-people-are-shot-by-a-gunman-at-an-islamic-centre-near-the-za1-4rich-hauptbahnhof-train-station-a-manhunt-was-condu.md) _2017-08-27 03:47:28 (First version)_
+1. [2016 Zurich attack: Three people are shot by a gunman at an Islamic centre near the Zurich Hauptbahnhof train station. A manhunt was conducted for the assailant, a 24-year-old Swiss citizen of Ghanian descent, whose body was was found close to the Islamic centre. ](/news/2016/12/19/2016-za1-4rich-attack-three-people-are-shot-by-a-gunman-at-an-islamic-centre-near-the-za1-4rich-hauptbahnhof-train-station-a-manhunt-was-condu.md) _2018-02-06 13:49:30 (First version)_
 1. [Three people are shot by a gunman at an Islamic centre near the Zurich Hauptbahnhof train station. A manhunt was conducted for the assailant, a 24-year-old Swiss citizen of Ghanian descent, whose body was found close to the Islamic centre. ](/news/2016/12/19/three-people-are-shot-by-a-gunman-at-an-islamic-centre-near-the-za1-4rich-hauptbahnhof-train-station-a-manhunt-was-conducted-for-the-assailan.md) _(Current version)_
 
 ### Related:

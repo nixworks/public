@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/02/14/a-fire-in-a-mosque-in-the-iranian-capital-of-te
 
 ### Changes:
 
-1. [ A fire in a mosque in the Iranian capital of Tehran leaves 59 people dead. The cause of the fire is currently unknown, but it is believed that a kerosene heater was left near a thick flammable curtain. ](/news/2005/02/14/a-fire-in-a-mosque-in-the-iranian-capital-of-tehran-leaves-59-people-dead-the-cause-of-the-fire-is-currently-unknown-but-it-is-believed.md) _2017-08-25 03:15:39 (First version)_
+1. [ A fire in a mosque in the Iranian capital of Tehran leaves 59 people dead. The cause of the fire is currently unknown, but it is believed that a kerosene heater was left near a thick flammable curtain. ](/news/2005/02/14/a-fire-in-a-mosque-in-the-iranian-capital-of-tehran-leaves-59-people-dead-the-cause-of-the-fire-is-currently-unknown-but-it-is-believed.md) _2018-02-06 13:49:16 (First version)_
 1. [ A fire in a mosque in the Iranian capital of Tehran leaves 59 people dead. The cause of the fire is currently unknown, but it is believed that a kerosene heater was left near a thick flammable curtain. ](/news/2005/02/14/a-fire-in-a-mosque-in-the-iranian-capital-of-tehran-leaves-59-people-dead-the-cause-of-the-fire-is-currently-unknown-but-it-is-believed-t.md) _(Current version)_
 
 ### Related:

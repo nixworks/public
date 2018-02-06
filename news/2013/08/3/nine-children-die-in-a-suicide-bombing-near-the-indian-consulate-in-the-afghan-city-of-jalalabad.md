@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001apresent-pnine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2017-08-25 03:39:05 (First version)_
-2. [War in Afghanistan (2001-present):: Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001-present-nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2017-08-27 03:39:21 (Update)_
+1. [War in Afghanistan (2001-present):Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001apresent-pnine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001-present-nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2018-02-06 13:49:25 (Update)_
 2. [Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _(Current version)_
 
 ### Related:

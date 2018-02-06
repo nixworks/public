@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/29/the-armed-forces-of-the-philippines-storm-the-t
 
 ### Changes:
 
-1. [ Manila Peninsula Rebellion: The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/manila-peninsula-rebellion-p-the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md) _2017-08-25 03:21:30 (First version)_
-2. [ Manila Peninsula Rebellion:: The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/manila-peninsula-rebellion-the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md) _2017-08-27 03:21:25 (Update)_
+1. [ Manila Peninsula Rebellion:: The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/manila-peninsula-rebellion-the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md) _2018-02-06 13:49:18 (First version)_
+2. [ Manila Peninsula Rebellion: The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/manila-peninsula-rebellion-p-the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md) _(Current version)_
 
 ### Related:

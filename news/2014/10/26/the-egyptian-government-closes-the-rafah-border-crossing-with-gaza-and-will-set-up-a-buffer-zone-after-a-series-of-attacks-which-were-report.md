@@ -16,7 +16,7 @@ Egyptian report claims perpetrators of Friday attack on army post in Sinai that 
 
 ### Changes:
 
-1. [Sinai Insurgency: The Egyptian government closes the Rafah border crossing with Gaza and will set up a buffer zone after a series of attacks which were reported to have been launched using smuggling tunnels from Gaza. ](/news/2014/10/26/sinai-insurgency-the-egyptian-government-closes-the-rafah-border-crossing-with-gaza-and-will-set-up-a-buffer-zone-after-a-series-of-attacks.md) _2017-08-27 03:41:26 (First version)_
+1. [Sinai Insurgency: The Egyptian government closes the Rafah border crossing with Gaza and will set up a buffer zone after a series of attacks which were reported to have been launched using smuggling tunnels from Gaza. ](/news/2014/10/26/sinai-insurgency-the-egyptian-government-closes-the-rafah-border-crossing-with-gaza-and-will-set-up-a-buffer-zone-after-a-series-of-attacks.md) _2018-02-06 13:49:26 (First version)_
 1. [The Egyptian government closes the Rafah border crossing with Gaza and will set up a buffer zone after a series of attacks which were reported to have been launched using smuggling tunnels from Gaza. ](/news/2014/10/26/the-egyptian-government-closes-the-rafah-border-crossing-with-gaza-and-will-set-up-a-buffer-zone-after-a-series-of-attacks-which-were-report.md) _(Current version)_
 
 ### Related:

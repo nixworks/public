@@ -19,7 +19,7 @@ Snipers gunned down five police officers and injured seven others during protest
 
 ### Changes:
 
-1. [2016 shooting of Dallas police officers: Eleven police officers are shot, with five dying of gunshot wounds in Dallas, Texas during a protest against two black men killed within a day of each other. Police kill the shooter with a bomb delivered on a bomb defusing robot. ](/news/2016/07/7/2016-shooting-of-dallas-police-officers-eleven-police-officers-are-shot-with-five-dying-of-gunshot-wounds-in-dallas-texas-during-a-protes.md) _2017-08-27 03:46:26 (First version)_
+1. [2016 shooting of Dallas police officers: Eleven police officers are shot, with five dying of gunshot wounds in Dallas, Texas during a protest against two black men killed within a day of each other. Police kill the shooter with a bomb delivered on a bomb defusing robot. ](/news/2016/07/7/2016-shooting-of-dallas-police-officers-eleven-police-officers-are-shot-with-five-dying-of-gunshot-wounds-in-dallas-texas-during-a-protes.md) _2018-02-06 13:49:29 (First version)_
 1. [Eleven police officers are shot, with five dying of gunshot wounds in Dallas, Texas during a protest against two black men killed within a day of each other. Police kill the shooter with a bomb delivered on a bomb defusing robot. ](/news/2016/07/7/eleven-police-officers-are-shot-with-five-dying-of-gunshot-wounds-in-dallas-texas-during-a-protest-against-two-black-men-killed-within-a-d.md) _(Current version)_
 
 ### Related:

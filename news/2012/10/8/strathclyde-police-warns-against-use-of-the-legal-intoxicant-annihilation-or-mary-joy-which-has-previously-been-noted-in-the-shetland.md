@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-lega
 
 ### Changes:
 
-1. [Strathclyde Police warns against use of the legal intoxicant ''Annihilation'' (or ''Mary Joy''), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shet.md) _2017-08-25 03:36:40 (First version)_
+1. [Strathclyde Police warns against use of the legal intoxicant ''Annihilation'' (or ''Mary Joy''), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shet.md) _2018-02-06 13:49:24 (First version)_
 1. [Strathclyde Police warns against use of the legal intoxicant "Annihilation" (or "Mary Joy"), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shetland.md) _(Current version)_
 
 ### Related:

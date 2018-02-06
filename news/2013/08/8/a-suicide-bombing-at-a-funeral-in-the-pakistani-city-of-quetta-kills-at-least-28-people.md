@@ -16,8 +16,8 @@ A suicide bomber targets a funeral for a policeman in south-western Pakistan kil
 
 ### Changes:
 
-1. [Balochistan conflict:A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/balochistan-conflict-pa-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md) _2017-08-25 03:39:07 (First version)_
-2. [Balochistan conflict:: A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/balochistan-conflict-a-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md) _2017-08-27 03:39:22 (Update)_
+1. [Balochistan conflict:A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/balochistan-conflict-pa-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Balochistan conflict:: A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/balochistan-conflict-a-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/a-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md) _(Current version)_
 
 ### Related:

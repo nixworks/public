@@ -16,7 +16,7 @@ HONG KONG • Scores of police officers were hurt yesterday when a riot erupted 
 
 ### Changes:
 
-1. [2016 Mong Kok civil unrest: Clashes break out and turn into a riot in the Mong Kok district of Hong Kong on the pretext that the police try to close down illegal food vendors. Nearly 90 police officers are injured. ](/news/2016/02/9/2016-mong-kok-civil-unrest-clashes-break-out-and-turn-into-a-riot-in-the-mong-kok-district-of-hong-kong-on-the-pretext-that-the-police-try.md) _2017-08-27 03:44:52 (First version)_
+1. [2016 Mong Kok civil unrest: Clashes break out and turn into a riot in the Mong Kok district of Hong Kong on the pretext that the police try to close down illegal food vendors. Nearly 90 police officers are injured. ](/news/2016/02/9/2016-mong-kok-civil-unrest-clashes-break-out-and-turn-into-a-riot-in-the-mong-kok-district-of-hong-kong-on-the-pretext-that-the-police-try.md) _2018-02-06 13:49:28 (First version)_
 1. [Clashes break out and turn into a riot in the Mong Kok district of Hong Kong on the pretext that the police try to close down illegal food vendors. Nearly 90 police officers are injured. ](/news/2016/02/9/clashes-break-out-and-turn-into-a-riot-in-the-mong-kok-district-of-hong-kong-on-the-pretext-that-the-police-try-to-close-down-illegal-food-v.md) _(Current version)_
 
 ### Related:

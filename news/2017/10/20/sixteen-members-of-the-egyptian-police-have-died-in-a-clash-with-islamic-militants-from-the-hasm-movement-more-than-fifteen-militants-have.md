@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-die
 
 ### Changes:
 
-1. [More than fifty members of the Egyptian Armed Forces have died with Islamic militants from the Hasm movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-ha.md) _2017-10-21 10:30:05 (First version)_
-2. [More than fifty members of the Egyptian Armed Forces have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-m.md) _2017-10-21 21:30:05 (Update)_
+1. [More than fifty members of the Egyptian Armed Forces have died with Islamic militants from the Hasm movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-ha.md) _2018-02-06 13:49:31 (First version)_
+2. [More than fifty members of the Egyptian Armed Forces have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-m.md) _2018-02-06 13:49:31 (Update)_
 2. [Sixteen members of the Egyptian Police have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.md) _(Current version)_
 
 ### Related:

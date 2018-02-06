@@ -5,11 +5,11 @@ Formats: [HTML](2015/01/2/index.html)  [JSON](2015/01/2/index.json)  [XML](2015/
 
 ##### Somali civil war
 ### [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md)
-_Context: Somalia, Al-Shabaab, Somali civil war, Baidoa_
+_Context: Somalia, Baidoa, Al-Shabaab, Somali civil war_
 
 ##### Islamist insurgency in Nigeria
 ### [Boko Haram militants attack a bus in Waza, Cameroon, killing eleven people and injuring six. ](/news/2015/01/2/boko-haram-militants-attack-a-bus-in-waza-cameroon-killing-eleven-people-and-injuring-six.md)
-_Context: Boko Haram, Cameroon, Islamist insurgency in Nigeria, Waza_
+_Context: Islamist insurgency in Nigeria, Cameroon, Waza, Boko Haram_
 
 ##### 1998 United States embassy bombings
 ### [Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-awaiting-trial-for-allegedly-plotting-the.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-l
 
 ### Changes:
 
-1. [ Many employees of Paris Mtro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-metro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-ne.md) _2017-09-24 03:24:05 (First version)_
+1. [ Many employees of Paris Mtro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-metro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-ne.md) _2018-02-06 13:49:18 (First version)_
 1. [ Many employees of Paris Metro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.md) _(Current version)_
 
 ### Related:

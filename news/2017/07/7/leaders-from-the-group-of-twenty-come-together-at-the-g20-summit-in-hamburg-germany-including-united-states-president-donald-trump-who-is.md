@@ -20,8 +20,8 @@ Teargas and water cannon deployed outside Elbphilharmonie concert hall while ins
 
 ### Changes:
 
-1. [Leaders from the Group of Twenty come together at the 2017 G20 Hamburg summit today, including United States President Donald Trump who is set to meet with President of the Russian Federation Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-2017-g20-hamburg-summit-today-including-united-states-president-donald-trump-who-is-s.md) _2017-07-07 20:30:07 (First version)_
-2. [2017 G20 Hamburg summit: Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/2017-g20-hamburg-summit-leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-presi.md) _2017-08-27 03:48:37 (Update)_
+1. [Leaders from the Group of Twenty come together at the 2017 G20 Hamburg summit today, including United States President Donald Trump who is set to meet with President of the Russian Federation Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-2017-g20-hamburg-summit-today-including-united-states-president-donald-trump-who-is-s.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 G20 Hamburg summit: Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/2017-g20-hamburg-summit-leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-presi.md) _2018-02-06 13:49:31 (Update)_
 2. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _(Current version)_
 
 ### Related:

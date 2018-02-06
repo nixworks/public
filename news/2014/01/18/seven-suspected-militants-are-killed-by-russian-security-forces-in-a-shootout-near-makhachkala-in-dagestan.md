@@ -16,8 +16,8 @@ Seven suspected militants were killed by security forces in a shootout on Saturd
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/insurgency-in-the-north-caucasus-pseven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md) _2017-08-25 03:39:53 (First version)_
-2. [Insurgency in the North Caucasus:: Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/insurgency-in-the-north-caucasus-seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagesta.md) _2017-08-27 03:40:12 (Update)_
+1. [Insurgency in the North Caucasus:: Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/insurgency-in-the-north-caucasus-seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagesta.md) _2018-02-06 13:49:25 (First version)_
+2. [Insurgency in the North Caucasus:Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/insurgency-in-the-north-caucasus-pseven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md) _2018-02-06 13:49:25 (Update)_
 2. [Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md) _(Current version)_
 
 ### Related:

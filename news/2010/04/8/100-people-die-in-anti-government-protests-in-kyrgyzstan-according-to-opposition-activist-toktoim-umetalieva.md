@@ -20,8 +20,8 @@ OPPONENTS of President Kurmanbek Bakiyev took control overnight of Kyrgyzstan af
 
 ### Changes:
 
-1. [2010 Kyrgyzstan riots:100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-p100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _2017-08-25 03:27:35 (First version)_
-2. [2010 Kyrgyzstan riots:: 100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _2017-08-27 03:27:31 (Update)_
+1. [2010 Kyrgyzstan riots:100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-p100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Kyrgyzstan riots:: 100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _2018-02-06 13:49:20 (Update)_
 2. [100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md) _(Current version)_
 
 ### Related:

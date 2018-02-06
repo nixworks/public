@@ -16,7 +16,7 @@ Islamist militants seized four Indonesian crew of a tugboat in the southern Phil
 
 ### Changes:
 
-1. [Moro conflict: Philippine officials report four Indonesian sailors were kidnapped last night off the Philippines' southernmost town of Sitangkai, Tawi-Tawi, near Malaysia's Sabah state. Seven gunmen in a blue speedboat attacked two Indonesian-flagged tugboats. Six other sailors, including one who was shot, were not taken by ISIL-linked Abu Sayyaf militants. ](/news/2016/04/16/moro-conflict-philippine-officials-report-four-indonesian-sailors-were-kidnapped-last-night-off-the-philippines-southernmost-town-of-sitan.md) _2017-08-27 03:45:38 (First version)_
+1. [Moro conflict: Philippine officials report four Indonesian sailors were kidnapped last night off the Philippines' southernmost town of Sitangkai, Tawi-Tawi, near Malaysia's Sabah state. Seven gunmen in a blue speedboat attacked two Indonesian-flagged tugboats. Six other sailors, including one who was shot, were not taken by ISIL-linked Abu Sayyaf militants. ](/news/2016/04/16/moro-conflict-philippine-officials-report-four-indonesian-sailors-were-kidnapped-last-night-off-the-philippines-southernmost-town-of-sitan.md) _2018-02-06 13:49:28 (First version)_
 1. [Philippine officials report four Indonesian sailors were kidnapped last night off the Philippines' southernmost town of Sitangkai, Tawi-Tawi, near Malaysia's Sabah state. Seven gunmen in a blue speedboat attacked two Indonesian-flagged tugboats. Six other sailors, including one who was shot, were not taken by ISIL-linked Abu Sayyaf militants. ](/news/2016/04/16/philippine-officials-report-four-indonesian-sailors-were-kidnapped-last-night-off-the-philippines-southernmost-town-of-sitangkai-tawi-tawi.md) _(Current version)_
 
 ### Related:

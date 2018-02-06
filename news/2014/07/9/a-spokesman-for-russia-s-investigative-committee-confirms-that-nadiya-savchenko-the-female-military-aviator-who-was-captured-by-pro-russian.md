@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/9/a-spokesman-for-russia-s-investigative-committee
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: A spokesman for Russia's Investigative Committee confirms that Nadiya Savchenko, the female military aviator who was captured by pro-Russian separatists on June 18, is now held in Voronezh, Russia, where she has been charged with killing two Russian journalists. ](/news/2014/07/9/2014-pro-russian-conflict-in-ukraine-a-spokesman-for-russia-s-investigative-committee-confirms-that-nadiya-savchenko-the-female-military-a.md) _2017-08-27 03:40:57 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: A spokesman for Russia's Investigative Committee confirms that Nadiya Savchenko, the female military aviator who was captured by pro-Russian separatists on June 18, is now held in Voronezh, Russia, where she has been charged with killing two Russian journalists. ](/news/2014/07/9/2014-pro-russian-conflict-in-ukraine-a-spokesman-for-russia-s-investigative-committee-confirms-that-nadiya-savchenko-the-female-military-a.md) _2018-02-06 13:49:26 (First version)_
 1. [A spokesman for Russia's Investigative Committee confirms that Nadiya Savchenko, the female military aviator who was captured by pro-Russian separatists on June 18, is now held in Voronezh, Russia, where she has been charged with killing two Russian journalists. ](/news/2014/07/9/a-spokesman-for-russia-s-investigative-committee-confirms-that-nadiya-savchenko-the-female-military-aviator-who-was-captured-by-pro-russian.md) _(Current version)_
 
 ### Related:

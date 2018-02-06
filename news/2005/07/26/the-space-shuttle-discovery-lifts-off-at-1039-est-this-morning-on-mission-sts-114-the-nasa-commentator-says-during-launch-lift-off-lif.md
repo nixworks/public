@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-e
 
 ### Changes:
 
-1. [ The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-l.md) _2017-08-25 03:16:35 (First version)_
+1. [ The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-l.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Space Shuttle "Discovery" lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-lif.md) _(Current version)_
 
 ### Related:

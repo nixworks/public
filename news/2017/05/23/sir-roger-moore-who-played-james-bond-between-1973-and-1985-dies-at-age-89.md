@@ -16,5 +16,5 @@ The actor, best known for his suave portrayal of James Bond, has died aged 89, h
 
 ### Changes:
 
-1. [Sir Roger Moore, who played James Bond between 1973 and 1985, dies aged 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-aged-89.md) _2017-05-23 19:30:07 (First version)_
+1. [Sir Roger Moore, who played James Bond between 1973 and 1985, dies aged 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-aged-89.md) _2018-02-06 13:49:30 (First version)_
 1. [Sir Roger Moore, who played James Bond between 1973 and 1985, dies at age 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-at-age-89.md) _(Current version)_

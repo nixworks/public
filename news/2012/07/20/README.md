@@ -17,7 +17,7 @@ _Context: Duekoue, Ivory Coast_
 
 ##### Amnesty International
 ### [Amnesty International says Muslim Rohingyas in western Burma have been subject to attacks and arbitrary arrests. ](/news/2012/07/20/amnesty-international-says-muslim-rohingyas-in-western-burma-have-been-subject-to-attacks-and-arbitrary-arrests.md)
-_Context: Rohingya, Muslim, Amnesty International, Burma_
+_Context: Rohingya, Muslim, Burma, Amnesty International_
 
 ##### Olympic Torch
 ### [The Olympic Torch arrives in London for the final stages of the UK-wide relay ahead of the 2012 Summer Olympics. ](/news/2012/07/20/the-olympic-torch-arrives-in-london-for-the-final-stages-of-the-uk-wide-relay-ahead-of-the-2012-summer-olympics.md)

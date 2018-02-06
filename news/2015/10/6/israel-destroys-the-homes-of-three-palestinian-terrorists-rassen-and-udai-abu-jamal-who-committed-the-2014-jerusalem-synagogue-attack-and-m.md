@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/6/israel-destroys-the-homes-of-three-palestinian-t
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israel destroys the homes of three Palestinian terrorists. Rassen and Udai abu-Jamal who committed the 2014 Jerusalem synagogue attack and Moatez Hijazi who committed the excavator rampage in Jerusalem during the 2014 Israel-Gaza conflict. ](/news/2015/10/6/israeli-palestinian-conflict-israel-destroys-the-homes-of-three-palestinian-terrorists-rassen-and-udai-abu-jamal-who-committed-the-2014.md) _2017-08-27 03:43:15 (First version)_
+1. [Israeli-Palestinian conflict: Israel destroys the homes of three Palestinian terrorists. Rassen and Udai abu-Jamal who committed the 2014 Jerusalem synagogue attack and Moatez Hijazi who committed the excavator rampage in Jerusalem during the 2014 Israel-Gaza conflict. ](/news/2015/10/6/israeli-palestinian-conflict-israel-destroys-the-homes-of-three-palestinian-terrorists-rassen-and-udai-abu-jamal-who-committed-the-2014.md) _2018-02-06 13:49:28 (First version)_
 1. [Israel destroys the homes of three Palestinian terrorists. Rassen and Udai abu-Jamal who committed the 2014 Jerusalem synagogue attack and Moatez Hijazi who committed the excavator rampage in Jerusalem during the 2014 Israel-Gaza conflict. ](/news/2015/10/6/israel-destroys-the-homes-of-three-palestinian-terrorists-rassen-and-udai-abu-jamal-who-committed-the-2014-jerusalem-synagogue-attack-and-m.md) _(Current version)_
 
 ### Related:

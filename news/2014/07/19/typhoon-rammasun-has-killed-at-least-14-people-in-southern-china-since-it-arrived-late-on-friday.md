@@ -16,7 +16,7 @@ A super typhoon has killed atleast fourteen people in China since making landfal
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Typhoon Rammasun has killed at least 14 people in southern China since it arrived late on Friday. ](/news/2014/07/19/2014-pacific-typhoon-season-typhoon-rammasun-has-killed-at-least-14-people-in-southern-china-since-it-arrived-late-on-friday.md) _2017-08-27 03:41:01 (First version)_
+1. [2014 Pacific typhoon season: Typhoon Rammasun has killed at least 14 people in southern China since it arrived late on Friday. ](/news/2014/07/19/2014-pacific-typhoon-season-typhoon-rammasun-has-killed-at-least-14-people-in-southern-china-since-it-arrived-late-on-friday.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Rammasun has killed at least 14 people in southern China since it arrived late on Friday. ](/news/2014/07/19/typhoon-rammasun-has-killed-at-least-14-people-in-southern-china-since-it-arrived-late-on-friday.md) _(Current version)_
 
 ### Related:

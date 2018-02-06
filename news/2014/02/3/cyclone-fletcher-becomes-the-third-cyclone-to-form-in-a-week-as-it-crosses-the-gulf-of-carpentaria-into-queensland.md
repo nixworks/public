@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/3/cyclone-fletcher-becomes-the-third-cyclone-to-fo
 
 ### Changes:
 
-1. [2013-14 Australian region cyclone season:Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/2013a14-australian-region-cyclone-season-pcyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpentar.md) _2017-08-25 03:39:57 (First version)_
-2. [2013-14 Australian region cyclone season:: Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/2013-14-australian-region-cyclone-season-cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpenta.md) _2017-08-27 03:40:16 (Update)_
+1. [2013-14 Australian region cyclone season:Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/2013a14-australian-region-cyclone-season-pcyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpentar.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Australian region cyclone season:: Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/2013-14-australian-region-cyclone-season-cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpenta.md) _2018-02-06 13:49:25 (Update)_
 2. [Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpentaria-into-queensland.md) _(Current version)_
 
 ### Related:

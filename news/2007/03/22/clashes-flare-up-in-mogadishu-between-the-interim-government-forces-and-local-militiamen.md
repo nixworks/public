@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/03/22/clashes-flare-up-in-mogadishu-between-the-inter
 
 ### Changes:
 
-1. [ Insurgency in Somalia: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-p-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md) _2017-08-25 03:19:27 (First version)_
-2. [ Insurgency in Somalia:: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md) _2017-08-27 03:19:23 (Update)_
+1. [ Insurgency in Somalia: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-p-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md) _2018-02-06 13:49:17 (First version)_
+2. [ Insurgency in Somalia:: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md) _2018-02-06 13:49:17 (Update)_
 2. [ Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md) _(Current version)_
 
 ### Related:

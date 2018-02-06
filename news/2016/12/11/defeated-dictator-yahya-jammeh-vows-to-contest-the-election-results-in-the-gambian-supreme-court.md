@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-
 
 ### Changes:
 
-1. [Gambian presidential election, 2016: Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/gambian-presidential-election-2016-defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md) _2017-08-27 03:47:25 (First version)_
+1. [Gambian presidential election, 2016: Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/gambian-presidential-election-2016-defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md) _2018-02-06 13:49:29 (First version)_
 1. [Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md) _(Current version)_
 
 ### Related:

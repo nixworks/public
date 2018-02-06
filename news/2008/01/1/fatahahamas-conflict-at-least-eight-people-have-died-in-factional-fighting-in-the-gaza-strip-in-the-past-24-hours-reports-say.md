@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/1/fatahahamas-conflict-at-least-eight-people-have-
 
 ### Changes:
 
-1. [ Fatah-Hamas conflict: At least eight people have died in factional fighting in the Gaza Strip in the past 24 hours, reports say. ](/news/2008/01/1/fatah-hamas-conflict-at-least-eight-people-have-died-in-factional-fighting-in-the-gaza-strip-in-the-past-24-hours-reports-say.md) _2017-08-27 03:21:32 (First version)_
+1. [ Fatah-Hamas conflict: At least eight people have died in factional fighting in the Gaza Strip in the past 24 hours, reports say. ](/news/2008/01/1/fatah-hamas-conflict-at-least-eight-people-have-died-in-factional-fighting-in-the-gaza-strip-in-the-past-24-hours-reports-say.md) _2018-02-06 13:49:18 (First version)_
 1. [ Fatah-Hamas conflict: At least eight people have died in factional fighting in the Gaza Strip in the past 24 hours, reports say. ](/news/2008/01/1/fatahahamas-conflict-at-least-eight-people-have-died-in-factional-fighting-in-the-gaza-strip-in-the-past-24-hours-reports-say.md) _(Current version)_
 
 ### Related:

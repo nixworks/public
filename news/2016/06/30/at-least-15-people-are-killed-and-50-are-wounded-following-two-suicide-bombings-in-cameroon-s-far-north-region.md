@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/30/at-least-15-people-are-killed-and-50-are-wounde
 
 ### Changes:
 
-1. [Boko Haram insurgency: At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. ](/news/2016/06/30/boko-haram-insurgency-at-least-15-people-are-killed-and-50-are-wounded-following-two-suicide-bombings-in-cameroon-s-far-north-region.md) _2017-08-27 03:46:22 (First version)_
+1. [Boko Haram insurgency: At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. ](/news/2016/06/30/boko-haram-insurgency-at-least-15-people-are-killed-and-50-are-wounded-following-two-suicide-bombings-in-cameroon-s-far-north-region.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. ](/news/2016/06/30/at-least-15-people-are-killed-and-50-are-wounded-following-two-suicide-bombings-in-cameroon-s-far-north-region.md) _(Current version)_
 
 ### Related:

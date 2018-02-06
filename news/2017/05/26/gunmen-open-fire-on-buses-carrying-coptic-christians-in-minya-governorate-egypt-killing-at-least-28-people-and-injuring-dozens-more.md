@@ -17,8 +17,8 @@ Children are among at least 28 people massacred in Egypt and dozens more injured
 
 ### Changes:
 
-1. [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 24 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-24-people-and-injuring-dozens-more.md) _2017-05-26 20:30:08 (First version)_
-2. [2017 Minya attack: Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. ](/news/2017/05/26/2017-minya-attack-gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-28-people-and-injuring.md) _2017-08-27 03:48:23 (Update)_
+1. [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 24 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-24-people-and-injuring-dozens-more.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Minya attack: Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. ](/news/2017/05/26/2017-minya-attack-gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-28-people-and-injuring.md) _2018-02-06 13:49:30 (Update)_
 2. [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-28-people-and-injuring-dozens-more.md) _(Current version)_
 
 ### Related:

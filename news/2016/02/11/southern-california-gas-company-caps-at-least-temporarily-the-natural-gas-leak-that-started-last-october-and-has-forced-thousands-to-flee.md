@@ -17,7 +17,7 @@ The natural gas leak that flowed for three months and sickened hundreds near Los
 
 ### Changes:
 
-1. [Aliso Canyon gas leak: Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and has forced thousands to flee their homes. ](/news/2016/02/11/aliso-canyon-gas-leak-southern-california-gas-company-caps-at-least-temporarily-the-natural-gas-leak-that-started-last-october-and-has-fo.md) _2017-08-27 03:44:53 (First version)_
+1. [Aliso Canyon gas leak: Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and has forced thousands to flee their homes. ](/news/2016/02/11/aliso-canyon-gas-leak-southern-california-gas-company-caps-at-least-temporarily-the-natural-gas-leak-that-started-last-october-and-has-fo.md) _2018-02-06 13:49:28 (First version)_
 1. [Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and has forced thousands to flee their homes. ](/news/2016/02/11/southern-california-gas-company-caps-at-least-temporarily-the-natural-gas-leak-that-started-last-october-and-has-forced-thousands-to-flee.md) _(Current version)_
 
 ### Related:

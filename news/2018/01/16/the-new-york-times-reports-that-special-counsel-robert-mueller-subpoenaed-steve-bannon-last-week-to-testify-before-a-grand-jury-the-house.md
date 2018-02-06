@@ -18,7 +18,7 @@ A House committee issued a subpoena to the former chief White House strategist a
 
 ### Changes:
 
-1. ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury.md) _2018-01-17 00:30:05 (First version)_
+1. ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury.md) _2018-02-06 13:49:31 (First version)_
 1. ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/03/26/forty-seven-fragments-of-the-meteoroid-2008-tc-
 
 ### Changes:
 
-1. [ Forty-seven fragments of the meteoroid 2008 TC 3 are discovered in Sudan's Nubian Desert. ](/news/2009/03/26/forty-seven-fragments-of-the-meteoroid-2008-tc3-are-discovered-in-sudan-s-nubian-desert.md) _2017-10-02 03:27:20 (First version)_
+1. [ Forty-seven fragments of the meteoroid 2008 TC 3 are discovered in Sudan's Nubian Desert. ](/news/2009/03/26/forty-seven-fragments-of-the-meteoroid-2008-tc3-are-discovered-in-sudan-s-nubian-desert.md) _2018-02-06 13:49:18 (First version)_
 1. [ Forty-seven fragments of the meteoroid 2008 TC 3 are discovered in Sudan's Nubian Desert. ](/news/2009/03/26/forty-seven-fragments-of-the-meteoroid-2008-tc-3-are-discovered-in-sudan-s-nubian-desert.md) _(Current version)_
 
 ### Related:

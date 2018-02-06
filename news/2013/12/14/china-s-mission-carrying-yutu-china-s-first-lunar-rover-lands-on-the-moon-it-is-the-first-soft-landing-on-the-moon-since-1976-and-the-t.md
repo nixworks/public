@@ -16,8 +16,8 @@ China landed an unmanned spacecraft on the moon on Saturday, state media reporte
 
 ### Changes:
 
-1. [Chang'e 3:China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/chang-e-3-pchina-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-197.md) _2017-08-25 03:39:41 (First version)_
-2. [Chang'e 3:: China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/chang-e-3-china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-19.md) _2017-08-27 03:39:59 (Update)_
+1. [Chang'e 3:China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/chang-e-3-pchina-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-197.md) _2018-02-06 13:49:25 (First version)_
+2. [Chang'e 3:: China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/chang-e-3-china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-19.md) _2018-02-06 13:49:25 (Update)_
 2. [China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-1976-and-the-t.md) _(Current version)_
 
 ### Related:

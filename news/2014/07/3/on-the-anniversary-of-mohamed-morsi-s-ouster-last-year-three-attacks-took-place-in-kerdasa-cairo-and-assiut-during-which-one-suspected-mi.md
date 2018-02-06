@@ -19,7 +19,7 @@ Around 200 people arrested, with a policeman and protester killed in demonstrati
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt (2013-14): On the anniversary of Mohamed Morsi's ouster last year, three attacks took place in Kerdasa, Cairo and Assiut, during which one suspected militant was killed when the homemade bomb he was handling prematurely exploded. A late night bomb in Alexandria exploded in a passenger train, wounding 9 people. ](/news/2014/07/3/post-coup-unrest-in-egypt-2013-14-on-the-anniversary-of-mohamed-morsi-s-ouster-last-year-three-attacks-took-place-in-kerdasa-cairo-an.md) _2017-08-27 03:40:55 (First version)_
+1. [Post-coup unrest in Egypt (2013-14): On the anniversary of Mohamed Morsi's ouster last year, three attacks took place in Kerdasa, Cairo and Assiut, during which one suspected militant was killed when the homemade bomb he was handling prematurely exploded. A late night bomb in Alexandria exploded in a passenger train, wounding 9 people. ](/news/2014/07/3/post-coup-unrest-in-egypt-2013-14-on-the-anniversary-of-mohamed-morsi-s-ouster-last-year-three-attacks-took-place-in-kerdasa-cairo-an.md) _2018-02-06 13:49:26 (First version)_
 1. [On the anniversary of Mohamed Morsi's ouster last year, three attacks took place in Kerdasa, Cairo and Assiut, during which one suspected militant was killed when the homemade bomb he was handling prematurely exploded. A late night bomb in Alexandria exploded in a passenger train, wounding 9 people. ](/news/2014/07/3/on-the-anniversary-of-mohamed-morsi-s-ouster-last-year-three-attacks-took-place-in-kerdasa-cairo-and-assiut-during-which-one-suspected-mi.md) _(Current version)_
 
 ### Related:

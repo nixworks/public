@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect
 
 ### Changes:
 
-1. [Austrian presidential election, 2016: The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/austrian-presidential-election-2016-the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-pr.md) _2017-08-27 03:46:05 (First version)_
+1. [Austrian presidential election, 2016: The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/austrian-presidential-election-2016-the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-pr.md) _2018-02-06 13:49:29 (First version)_
 1. [The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-president-of-austria.md) _(Current version)_
 
 ### Related:

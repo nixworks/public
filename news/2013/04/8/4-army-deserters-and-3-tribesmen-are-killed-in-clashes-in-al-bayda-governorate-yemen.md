@@ -16,8 +16,8 @@ Seven people were killed in clashes between army deserters and tribesmen in sout
 
 ### Changes:
 
-1. [South Yemen insurgency:4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-p4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _2017-08-25 03:38:14 (First version)_
-2. [South Yemen insurgency:: 4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _2017-08-27 03:38:26 (Update)_
+1. [South Yemen insurgency:4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-p4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _2018-02-06 13:49:24 (First version)_
+2. [South Yemen insurgency:: 4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _2018-02-06 13:49:24 (Update)_
 2. [4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ South Korea is researching and developing cruise-missile technology, the defense
 
 ### Changes:
 
-1. [ South Korea is developing cruise missile technology, Yoon Kwang-ung, South Korea's defense minister says. This is legal under the South Korea-U.S. missile guideline signed in 2001. ](/news/2006/07/7/south-korea-is-developing-cruise-missile-technology-yoon-kwang-ung-south-korea-s-defense-minister-says-this-is-legal-under-the-south-ko.md) _2017-08-25 03:17:55 (First version)_
+1. [ South Korea is developing cruise missile technology, Yoon Kwang-ung, South Korea's defense minister says. This is legal under the South Korea-U.S. missile guideline signed in 2001. ](/news/2006/07/7/south-korea-is-developing-cruise-missile-technology-yoon-kwang-ung-south-korea-s-defense-minister-says-this-is-legal-under-the-south-ko.md) _2018-02-06 13:49:17 (First version)_
 1. [ South Korea is developing cruise missile technology, Yoon Kwang-ung, South Korea's defense minister says. This is legal under the South Korea-U.S. missile guideline signed in 2001. ](/news/2006/07/7/south-korea-is-developing-cruise-missile-technology-yoon-kwang-ung-south-korea-s-defense-minister-says-this-is-legal-under-the-south-kor.md) _(Current version)_
 
 ### Related:

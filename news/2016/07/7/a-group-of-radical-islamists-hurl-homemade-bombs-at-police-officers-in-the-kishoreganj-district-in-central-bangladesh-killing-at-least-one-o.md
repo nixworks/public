@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Terrorism in Bangladesh: A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. ](/news/2016/07/7/terrorism-in-bangladesh-a-group-of-radical-islamists-hurl-homemade-bombs-at-police-officers-in-the-kishoreganj-district-in-central-banglade.md) _2017-08-27 03:46:26 (First version)_
+1. [Terrorism in Bangladesh: A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. ](/news/2016/07/7/terrorism-in-bangladesh-a-group-of-radical-islamists-hurl-homemade-bombs-at-police-officers-in-the-kishoreganj-district-in-central-banglade.md) _2018-02-06 13:49:29 (First version)_
 1. [A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. ](/news/2016/07/7/a-group-of-radical-islamists-hurl-homemade-bombs-at-police-officers-in-the-kishoreganj-district-in-central-bangladesh-killing-at-least-one-o.md) _(Current version)_
 
 ### Related:

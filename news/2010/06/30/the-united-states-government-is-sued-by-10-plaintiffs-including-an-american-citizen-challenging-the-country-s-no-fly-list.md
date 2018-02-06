@@ -21,7 +21,7 @@ The American Civil Liberties Union plans to sue the US authorities over the &quo
 
 ### Changes:
 
-1. [United States: The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/united-states-the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md) _2017-08-27 03:28:30 (First version)_
+1. [United States: The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/united-states-the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md) _2018-02-06 13:49:20 (First version)_
 1. [The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md) _(Current version)_
 
 ### Related:

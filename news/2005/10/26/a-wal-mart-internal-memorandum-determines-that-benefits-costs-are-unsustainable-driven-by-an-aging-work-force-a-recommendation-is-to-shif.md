@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/10/26/a-wal-mart-internal-memorandum-determines-that-
 
 ### Changes:
 
-1. [ A Wal-Mart internal memorandum determines that benefits costs are unsustainable, driven by an aging work force. A recommendation is to shift to more part time associates to lower health care enrollment. ](/news/2005/10/26/a-wal-mart-internal-memorandum-determines-that-benefits-costs-are-unsustainable-driven-by-an-aging-work-force-a-recommendation-is-to-shi.md) _2017-08-25 03:17:01 (First version)_
+1. [ A Wal-Mart internal memorandum determines that benefits costs are unsustainable, driven by an aging work force. A recommendation is to shift to more part time associates to lower health care enrollment. ](/news/2005/10/26/a-wal-mart-internal-memorandum-determines-that-benefits-costs-are-unsustainable-driven-by-an-aging-work-force-a-recommendation-is-to-shi.md) _2018-02-06 13:49:16 (First version)_
 1. [ A Wal-Mart internal memorandum determines that benefits costs are unsustainable, driven by an aging work force. A recommendation is to shift to more part time associates to lower health care enrollment. ](/news/2005/10/26/a-wal-mart-internal-memorandum-determines-that-benefits-costs-are-unsustainable-driven-by-an-aging-work-force-a-recommendation-is-to-shif.md) _(Current version)_
 
 ### Related:

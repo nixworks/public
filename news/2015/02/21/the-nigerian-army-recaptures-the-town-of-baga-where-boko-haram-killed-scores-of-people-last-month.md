@@ -16,7 +16,7 @@ The Nigerian army says it has retaken the town of Baga, held by Boko Haram milit
 
 ### Changes:
 
-1. [Boko Haram: The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/boko-haram-the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md) _2017-08-27 03:41:59 (First version)_
+1. [Boko Haram: The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/boko-haram-the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md) _2018-02-06 13:49:26 (First version)_
 1. [The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md) _(Current version)_
 
 ### Related:

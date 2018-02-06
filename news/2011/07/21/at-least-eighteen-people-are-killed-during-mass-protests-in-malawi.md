@@ -17,8 +17,8 @@ The army is deployed in three Malawian cities on a second day of anti-government
 
 ### Changes:
 
-1. [2011 Malawian protests:At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-pat-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _2017-08-25 03:33:50 (First version)_
-2. [2011 Malawian protests:: At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _2017-08-27 03:33:57 (Update)_
+1. [2011 Malawian protests:At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-pat-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Malawian protests:: At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _2018-02-06 13:49:22 (Update)_
 2. [At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _(Current version)_
 
 ### Related:

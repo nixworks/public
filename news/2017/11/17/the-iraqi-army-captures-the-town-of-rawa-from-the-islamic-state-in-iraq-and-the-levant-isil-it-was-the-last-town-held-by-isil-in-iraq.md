@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-t
 
 ### Changes:
 
-1. [The Iraqi Army captures the town of Rawa from Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md) _2017-11-17 18:30:05 (First version)_
+1. [The Iraqi Army captures the town of Rawa from Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md) _2018-02-06 13:49:31 (First version)_
 1. [The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-the-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md) _(Current version)_
 
 ### Related:

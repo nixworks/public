@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/08/25/clashes-continue-in-mogadishu-after-a-rebel-adv
 
 ### Changes:
 
-1. [Battle of Mogadishu (2010):Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-pclashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _2017-08-25 03:29:40 (First version)_
-2. [Battle of Mogadishu (2010):: Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _2017-08-27 03:29:44 (Update)_
+1. [Battle of Mogadishu (2010):Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-pclashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _2018-02-06 13:49:20 (First version)_
+2. [Battle of Mogadishu (2010):: Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _2018-02-06 13:49:20 (Update)_
 2. [Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md) _(Current version)_
 
 ### Related:

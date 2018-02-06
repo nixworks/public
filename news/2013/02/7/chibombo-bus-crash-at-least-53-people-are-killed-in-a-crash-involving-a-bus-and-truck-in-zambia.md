@@ -17,7 +17,7 @@ At least 53 people have been killed in a road accident involving a bus and lorry
 
 ### Changes:
 
-1. [Chibombo bus crash: At least 53 people are killed in a crash involving a bus and truck in Zambia. [http:--www.bbc.co.uk-news-world-africa-21373965 (BBC)] [http:--www.independent.ie-world-news-dozens-die-in-zambia-bus-crash-29055271.html (''Irish Independent'')].](/news/2013/02/7/chibombo-bus-crash-at-least-53-people-are-killed-in-a-crash-involving-a-bus-and-truck-in-zambia-http-www-bbc-co-uk-news-world-africa-21.md) _2017-06-18 03:39:26 (First version)_
+1. [Chibombo bus crash: At least 53 people are killed in a crash involving a bus and truck in Zambia. [http:--www.bbc.co.uk-news-world-africa-21373965 (BBC)] [http:--www.independent.ie-world-news-dozens-die-in-zambia-bus-crash-29055271.html (''Irish Independent'')].](/news/2013/02/7/chibombo-bus-crash-at-least-53-people-are-killed-in-a-crash-involving-a-bus-and-truck-in-zambia-http-www-bbc-co-uk-news-world-africa-21.md) _2018-02-06 13:49:24 (First version)_
 1. [Chibombo bus crash: At least 53 people are killed in a crash involving a bus and truck in Zambia. ](/news/2013/02/7/chibombo-bus-crash-at-least-53-people-are-killed-in-a-crash-involving-a-bus-and-truck-in-zambia.md) _(Current version)_
 
 ### Related:

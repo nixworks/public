@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/7/the-united-states-launches-new-airstrikes-on-isi
 
 ### Changes:
 
-1. [2014 Iraq conflict:The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/2014-iraq-conflict-pthe-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md) _2017-08-25 03:40:57 (First version)_
-2. [2014 Iraq conflict:: The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/2014-iraq-conflict-the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md) _2017-08-27 03:41:15 (Update)_
+1. [2014 Iraq conflict:: The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/2014-iraq-conflict-the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Iraq conflict:The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/2014-iraq-conflict-pthe-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md) _2018-02-06 13:49:26 (Update)_
 2. [The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md) _(Current version)_
 
 ### Related:

@@ -17,5 +17,5 @@ Felix Rivera and Christopher Constant WASHINGTON, D.C. – Two Victory Fund endo
 
 ### Changes:
 
-1. [LGBT history: Two openly gay candidates are elected to the Anchorage Assembly, becoming the first openly LGBT elected officials in Alaska. Approximately 20 percent of the city's population voted, a notably low turnout. ](/news/2017/04/5/lgbt-history-two-openly-gay-candidates-are-elected-to-the-anchorage-assembly-becoming-the-first-openly-lgbt-elected-officials-in-alaska-a.md) _2017-08-27 03:48:06 (First version)_
+1. [LGBT history: Two openly gay candidates are elected to the Anchorage Assembly, becoming the first openly LGBT elected officials in Alaska. Approximately 20 percent of the city's population voted, a notably low turnout. ](/news/2017/04/5/lgbt-history-two-openly-gay-candidates-are-elected-to-the-anchorage-assembly-becoming-the-first-openly-lgbt-elected-officials-in-alaska-a.md) _2018-02-06 13:49:30 (First version)_
 1. [Two openly gay candidates are elected to the Anchorage Assembly, becoming the first openly LGBT elected officials in Alaska. Approximately 20 percent of the city's population voted, a notably low turnout. ](/news/2017/04/5/two-openly-gay-candidates-are-elected-to-the-anchorage-assembly-becoming-the-first-openly-lgbt-elected-officials-in-alaska-approximately-2.md) _(Current version)_

@@ -16,7 +16,7 @@ Tropical cyclone Nathan has been lashing the Northern Territory with wind gusts 
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Cyclone Nathan makes landfall near Nhulunbuy in the Northern Territory as a high end Category 2 cyclone. ](/news/2015/03/22/2014-15-australian-region-cyclone-season-cyclone-nathan-makes-landfall-near-nhulunbuy-in-the-northern-territory-as-a-high-end-category-2.md) _2017-08-27 03:42:07 (First version)_
+1. [2014-15 Australian region cyclone season: Cyclone Nathan makes landfall near Nhulunbuy in the Northern Territory as a high end Category 2 cyclone. ](/news/2015/03/22/2014-15-australian-region-cyclone-season-cyclone-nathan-makes-landfall-near-nhulunbuy-in-the-northern-territory-as-a-high-end-category-2.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Nathan makes landfall near Nhulunbuy in the Northern Territory as a high end Category 2 cyclone. ](/news/2015/03/22/cyclone-nathan-makes-landfall-near-nhulunbuy-in-the-northern-territory-as-a-high-end-category-2-cyclone.md) _(Current version)_
 
 ### Related:

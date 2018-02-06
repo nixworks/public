@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-
 
 ### Changes:
 
-1. [Former TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts in 2016, when her son was 18 years old. ](/news/2017/11/8/former-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-when-her.md) _2017-11-09 09:30:06 (First version)_
+1. [Former TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts in 2016, when her son was 18 years old. ](/news/2017/11/8/former-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-when-her.md) _2018-02-06 13:49:31 (First version)_
 1. [Former U.S. TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts, in 2016, when her son was 18 years old. ](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.md) _(Current version)_
 
 ### Related:

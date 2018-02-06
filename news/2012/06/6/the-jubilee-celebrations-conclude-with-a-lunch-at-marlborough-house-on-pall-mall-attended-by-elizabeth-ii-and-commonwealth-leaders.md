@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/06/6/the-jubilee-celebrations-conclude-with-a-lunch-a
 
 ### Changes:
 
-1. [Diamond Jubilee of Elizabeth II:The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-pthe-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii-a.md) _2017-08-25 03:35:49 (First version)_
-2. [Diamond Jubilee of Elizabeth II:: The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii.md) _2017-08-27 03:36:00 (Update)_
+1. [Diamond Jubilee of Elizabeth II:: The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii.md) _2018-02-06 13:49:23 (First version)_
+2. [Diamond Jubilee of Elizabeth II:The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-pthe-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii-a.md) _2018-02-06 13:49:23 (Update)_
 2. [The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii-and-commonwealth-leaders.md) _(Current version)_
 
 ### Related:

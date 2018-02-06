@@ -18,8 +18,8 @@ Twelve people were killed Sunday and six were in a critical condition after a Po
 
 ### Changes:
 
-1. [Brandenburg bus crash:A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/brandenburg-bus-crash-pa-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least-1.md) _2017-08-25 03:30:14 (First version)_
-2. [Brandenburg bus crash:: A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/brandenburg-bus-crash-a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least.md) _2017-08-27 03:30:17 (Update)_
+1. [Brandenburg bus crash:A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/brandenburg-bus-crash-pa-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least-1.md) _2018-02-06 13:49:20 (First version)_
+2. [Brandenburg bus crash:: A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/brandenburg-bus-crash-a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least.md) _2018-02-06 13:49:20 (Update)_
 2. [A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least-12-people-and-injuring-4.md) _(Current version)_
 
 ### Related:

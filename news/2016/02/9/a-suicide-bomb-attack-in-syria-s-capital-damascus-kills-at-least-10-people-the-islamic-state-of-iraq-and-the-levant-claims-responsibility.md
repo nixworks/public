@@ -19,7 +19,7 @@ A car bomb tore up a vegetable market and a police officers’ club in the capit
 
 ### Changes:
 
-1. [Syrian Civil War: A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/9/syrian-civil-war-a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claim.md) _2017-08-27 03:44:52 (First version)_
+1. [Syrian Civil War: A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/9/syrian-civil-war-a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claim.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _(Current version)_
 
 ### Related:

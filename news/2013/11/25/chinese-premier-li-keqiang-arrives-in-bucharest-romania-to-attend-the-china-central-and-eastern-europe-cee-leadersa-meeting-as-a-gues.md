@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest
 
 ### Changes:
 
-1. [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders- meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leaders-meeting-as-a-gues.md) _2017-08-27 03:39:53 (First version)_
+1. [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders- meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leaders-meeting-as-a-gues.md) _2018-02-06 13:49:25 (First version)_
 1. [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders' meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leadersa-meeting-as-a-gues.md) _(Current version)_
 
 ### Related:

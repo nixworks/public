@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/01/7/seven-u-s-soldiers-are-killed-in-a-bomb-attack-i
 
 ### Changes:
 
-1. [ Conflict in Iraq: Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/conflict-in-iraq-p-seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _2017-08-25 03:15:30 (First version)_
-2. [ Conflict in Iraq:: Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/conflict-in-iraq-seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _2017-08-27 03:15:31 (Update)_
+1. [ Conflict in Iraq:: Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/conflict-in-iraq-seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq: Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/conflict-in-iraq-p-seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _2018-02-06 13:49:16 (Update)_
 2. [ Seven U.S. soldiers are killed in a bomb attack in Baghdad. ](/news/2005/01/7/seven-u-s-soldiers-are-killed-in-a-bomb-attack-in-baghdad.md) _(Current version)_
 
 ### Related:

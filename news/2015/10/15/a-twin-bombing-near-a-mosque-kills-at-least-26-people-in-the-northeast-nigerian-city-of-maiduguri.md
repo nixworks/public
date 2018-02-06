@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/15/a-twin-bombing-near-a-mosque-kills-at-least-26-
 
 ### Changes:
 
-1. [Boko Haram insurgency: A twin bombing near a mosque kills at least 26 people in the northeast Nigerian city of Maiduguri. ](/news/2015/10/15/boko-haram-insurgency-a-twin-bombing-near-a-mosque-kills-at-least-26-people-in-the-northeast-nigerian-city-of-maiduguri.md) _2017-08-27 03:43:21 (First version)_
+1. [Boko Haram insurgency: A twin bombing near a mosque kills at least 26 people in the northeast Nigerian city of Maiduguri. ](/news/2015/10/15/boko-haram-insurgency-a-twin-bombing-near-a-mosque-kills-at-least-26-people-in-the-northeast-nigerian-city-of-maiduguri.md) _2018-02-06 13:49:27 (First version)_
 1. [A twin bombing near a mosque kills at least 26 people in the northeast Nigerian city of Maiduguri. ](/news/2015/10/15/a-twin-bombing-near-a-mosque-kills-at-least-26-people-in-the-northeast-nigerian-city-of-maiduguri.md) _(Current version)_
 
 ### Related:

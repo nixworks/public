@@ -16,7 +16,7 @@ Clinton has widely been viewed as Obama’s preferred candidate throughout the 2
 
 ### Changes:
 
-1. [2016 United States presidential election: U.S. President Barack Obama endorses Hillary Clinton for President of the United States. ](/news/2016/06/9/2016-united-states-presidential-election-u-s-president-barack-obama-endorses-hillary-clinton-for-president-of-the-united-states.md) _2017-08-27 03:46:13 (First version)_
+1. [2016 United States presidential election: U.S. President Barack Obama endorses Hillary Clinton for President of the United States. ](/news/2016/06/9/2016-united-states-presidential-election-u-s-president-barack-obama-endorses-hillary-clinton-for-president-of-the-united-states.md) _2018-02-06 13:49:29 (First version)_
 1. [U.S. President Barack Obama endorses Hillary Clinton for President of the United States. ](/news/2016/06/9/u-s-president-barack-obama-endorses-hillary-clinton-for-president-of-the-united-states.md) _(Current version)_
 
 ### Related:

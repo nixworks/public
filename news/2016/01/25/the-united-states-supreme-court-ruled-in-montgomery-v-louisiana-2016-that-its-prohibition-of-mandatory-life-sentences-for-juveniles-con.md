@@ -16,7 +16,7 @@ The Supreme Court clarified a 2012 ruling and created the possibility of release
 
 ### Changes:
 
-1. [The United States Supreme Court ruled in ''Montgomery v. Louisiana'' (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under ''Miller v. Alabama'' (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgomery-v-louisiana-2016-that-its-prohibition-of-mandatory-life-sentences-for-juveniles-c.md) _2017-08-25 03:44:23 (First version)_
+1. [The United States Supreme Court ruled in ''Montgomery v. Louisiana'' (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under ''Miller v. Alabama'' (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgomery-v-louisiana-2016-that-its-prohibition-of-mandatory-life-sentences-for-juveniles-c.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Supreme Court ruled in "Montgomery v. Louisiana" (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under "Miller v. Alabama" (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgomery-v-louisiana-2016-that-its-prohibition-of-mandatory-life-sentences-for-juveniles-con.md) _(Current version)_
 
 ### Related:

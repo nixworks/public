@@ -17,7 +17,7 @@ Jay Y. Lee is set to spend the next five years in prison, one of the harshest se
 
 ### Changes:
 
-1. [2016 South Korean political scandal: Lee Jae-yong (Jay Y. Lee), the vice-chairman of the Samsung Group is sentenced to five years for graft for his involvement in the 2016 South Korean political scandal that led to the impeachment of President of South Korea Park Geun-hye. ](/news/2017/08/25/2016-south-korean-political-scandal-lee-jae-yong-jay-y-lee-the-vice-chairman-of-the-samsung-group-is-sentenced-to-five-years-for-graft.md) _2017-08-27 17:30:05 (First version)_
+1. [2016 South Korean political scandal: Lee Jae-yong (Jay Y. Lee), the vice-chairman of the Samsung Group is sentenced to five years for graft for his involvement in the 2016 South Korean political scandal that led to the impeachment of President of South Korea Park Geun-hye. ](/news/2017/08/25/2016-south-korean-political-scandal-lee-jae-yong-jay-y-lee-the-vice-chairman-of-the-samsung-group-is-sentenced-to-five-years-for-graft.md) _2018-02-06 13:49:31 (First version)_
 1. [Lee Jae-yong (Jay Y. Lee), the vice-chairman of the Samsung Group is sentenced to five years for graft for his involvement in the 2016 South Korean political scandal that led to the impeachment of President of South Korea Park Geun-hye. ](/news/2017/08/25/lee-jae-yong-jay-y-lee-the-vice-chairman-of-the-samsung-group-is-sentenced-to-five-years-for-graft-for-his-involvement-in-the-2016-south.md) _(Current version)_
 
 ### Related:

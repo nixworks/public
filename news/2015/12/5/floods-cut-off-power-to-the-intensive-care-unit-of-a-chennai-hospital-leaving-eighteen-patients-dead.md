@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/12/5/floods-cut-off-power-to-the-intensive-care-unit-
 
 ### Changes:
 
-1. [2015 South Indian floods: Floods cut off power to the intensive care unit of a Chennai hospital leaving eighteen patients dead. ](/news/2015/12/5/2015-south-indian-floods-floods-cut-off-power-to-the-intensive-care-unit-of-a-chennai-hospital-leaving-eighteen-patients-dead.md) _2017-08-27 03:44:11 (First version)_
+1. [2015 South Indian floods: Floods cut off power to the intensive care unit of a Chennai hospital leaving eighteen patients dead. ](/news/2015/12/5/2015-south-indian-floods-floods-cut-off-power-to-the-intensive-care-unit-of-a-chennai-hospital-leaving-eighteen-patients-dead.md) _2018-02-06 13:49:28 (First version)_
 1. [Floods cut off power to the intensive care unit of a Chennai hospital leaving eighteen patients dead. ](/news/2015/12/5/floods-cut-off-power-to-the-intensive-care-unit-of-a-chennai-hospital-leaving-eighteen-patients-dead.md) _(Current version)_
 
 ### Related:

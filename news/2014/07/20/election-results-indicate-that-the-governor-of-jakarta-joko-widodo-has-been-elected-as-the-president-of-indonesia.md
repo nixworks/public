@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/20/election-results-indicate-that-the-governor-of-
 
 ### Changes:
 
-1. [Indonesian presidential election, 2014: Election results indicate that the Governor of Jakarta Joko Widodo has been elected as the President of Indonesia. ](/news/2014/07/20/indonesian-presidential-election-2014-election-results-indicate-that-the-governor-of-jakarta-joko-widodo-has-been-elected-as-the-president.md) _2017-08-27 03:41:01 (First version)_
+1. [Indonesian presidential election, 2014: Election results indicate that the Governor of Jakarta Joko Widodo has been elected as the President of Indonesia. ](/news/2014/07/20/indonesian-presidential-election-2014-election-results-indicate-that-the-governor-of-jakarta-joko-widodo-has-been-elected-as-the-president.md) _2018-02-06 13:49:26 (First version)_
 1. [Election results indicate that the Governor of Jakarta Joko Widodo has been elected as the President of Indonesia. ](/news/2014/07/20/election-results-indicate-that-the-governor-of-jakarta-joko-widodo-has-been-elected-as-the-president-of-indonesia.md) _(Current version)_
 
 ### Related:

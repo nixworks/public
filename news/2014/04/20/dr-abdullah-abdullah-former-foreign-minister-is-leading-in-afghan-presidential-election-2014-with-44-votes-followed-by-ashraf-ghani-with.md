@@ -16,7 +16,7 @@ Afghan presidential candidate Abdullah Abdullah has extended his lead over his r
 
 ### Changes:
 
-1. [Afghan presidential election, 2014: Dr. Abdullah Abdullah, former foreign minister is leading in Afghan presidential election, 2014 with 44% votes followed by Ashraf Ghani with 33% votes, according to latest partial results. ](/news/2014/04/20/afghan-presidential-election-2014-dr-abdullah-abdullah-former-foreign-minister-is-leading-in-afghan-presidential-election-2014-with-44.md) _2017-08-27 03:40:36 (First version)_
+1. [Afghan presidential election, 2014: Dr. Abdullah Abdullah, former foreign minister is leading in Afghan presidential election, 2014 with 44% votes followed by Ashraf Ghani with 33% votes, according to latest partial results. ](/news/2014/04/20/afghan-presidential-election-2014-dr-abdullah-abdullah-former-foreign-minister-is-leading-in-afghan-presidential-election-2014-with-44.md) _2018-02-06 13:49:26 (First version)_
 1. [Dr. Abdullah Abdullah, former foreign minister is leading in Afghan presidential election, 2014 with 44% votes followed by Ashraf Ghani with 33% votes, according to latest partial results. ](/news/2014/04/20/dr-abdullah-abdullah-former-foreign-minister-is-leading-in-afghan-presidential-election-2014-with-44-votes-followed-by-ashraf-ghani-with.md) _(Current version)_
 
 ### Related:

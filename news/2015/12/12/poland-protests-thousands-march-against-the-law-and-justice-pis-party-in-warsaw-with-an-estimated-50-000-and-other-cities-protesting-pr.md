@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/12/poland-protests-thousands-march-against-the-law
 
 ### Changes:
 
-1. [Poland protests: Thousands march against the Law and Justice (PiS) party in Warsaw, with an estimated 50,000, and other cities protesting President Andrzej Duda and the country's new conservative government appointing new Constitutional Tribunal judges who are loyal to the PiS. ](/news/2015/12/12/poland-protests-thousands-march-against-the-law-and-justice-pis-party-in-warsaw-with-an-estimated-50-000-and-other-cities-protesting.md) _2017-08-25 03:43:59 (First version)_
+1. [Poland protests: Thousands march against the Law and Justice (PiS) party in Warsaw, with an estimated 50,000, and other cities protesting President Andrzej Duda and the country's new conservative government appointing new Constitutional Tribunal judges who are loyal to the PiS. ](/news/2015/12/12/poland-protests-thousands-march-against-the-law-and-justice-pis-party-in-warsaw-with-an-estimated-50-000-and-other-cities-protesting.md) _2018-02-06 13:49:28 (First version)_
 1. [Poland protests: Thousands march against the Law and Justice (PiS) party in Warsaw, with an estimated 50,000, and other cities protesting President Andrzej Duda and the country's new conservative government appointing new Constitutional Tribunal judges who are loyal to the PiS. ](/news/2015/12/12/poland-protests-thousands-march-against-the-law-and-justice-pis-party-in-warsaw-with-an-estimated-50-000-and-other-cities-protesting-pr.md) _(Current version)_
 
 ### Related:

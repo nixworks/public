@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/21/the-outgoing-prime-minister-alenka-bratua-ek-an
 
 ### Changes:
 
-1. [Slovenian parliamentary election, 2014: The outgoing prime minister Alenka Bratusek and her alliance is barred from entering the new government due to "ethical concerns", notably her self-nomination as the country's EU commissioner, a decision currently being investigated by the Commission for the Prevention of Corruption. ](/news/2014/08/21/slovenian-parliamentary-election-2014-the-outgoing-prime-minister-alenka-bratua-ek-and-her-alliance-is-barred-from-entering-the-new-govern.md) _2017-08-27 03:41:10 (First version)_
+1. [Slovenian parliamentary election, 2014: The outgoing prime minister Alenka Bratusek and her alliance is barred from entering the new government due to "ethical concerns", notably her self-nomination as the country's EU commissioner, a decision currently being investigated by the Commission for the Prevention of Corruption. ](/news/2014/08/21/slovenian-parliamentary-election-2014-the-outgoing-prime-minister-alenka-bratua-ek-and-her-alliance-is-barred-from-entering-the-new-govern.md) _2018-02-06 13:49:26 (First version)_
 1. [The outgoing prime minister Alenka Bratusek and her alliance is barred from entering the new government due to "ethical concerns", notably her self-nomination as the country's EU commissioner, a decision currently being investigated by the Commission for the Prevention of Corruption. ](/news/2014/08/21/the-outgoing-prime-minister-alenka-bratua-ek-and-her-alliance-is-barred-from-entering-the-new-government-due-to-ethical-concerns-notably.md) _(Current version)_
 
 ### Related:

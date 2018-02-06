@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/4/the-china-academy-of-telecommunication-research-
 
 ### Changes:
 
-1. [The China Academy of Telecommunication Research tells ''China Daily'' that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by.md) _2017-08-25 03:31:16 (First version)_
+1. [The China Academy of Telecommunication Research tells ''China Daily'' that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by.md) _2018-02-06 13:49:21 (First version)_
 1. [The China Academy of Telecommunication Research tells "China Daily" that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by-di.md) _(Current version)_
 
 ### Related:

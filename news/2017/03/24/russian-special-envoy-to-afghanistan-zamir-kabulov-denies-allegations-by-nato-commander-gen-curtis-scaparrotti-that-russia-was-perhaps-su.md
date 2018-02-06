@@ -16,7 +16,7 @@ A top Nato general had said Moscow was &quot;perhaps&quot; assisting the extremi
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/war-in-afghanistan-2015-present-russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-sca.md) _2017-08-27 03:48:03 (First version)_
+1. [War in Afghanistan (2015-present): Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/war-in-afghanistan-2015-present-russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-sca.md) _2018-02-06 13:49:30 (First version)_
 1. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _(Current version)_
 
 ### Related:

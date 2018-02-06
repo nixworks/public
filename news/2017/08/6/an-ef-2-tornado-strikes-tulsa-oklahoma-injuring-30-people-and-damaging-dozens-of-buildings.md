@@ -16,7 +16,7 @@ More than 30 people were injured and dozens of buildings damaged when a tornado 
 
 ### Changes:
 
-1. [2017 Tulsa tornado: An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/2017-tulsa-tornado-an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md) _2017-08-27 03:48:47 (First version)_
+1. [2017 Tulsa tornado: An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/2017-tulsa-tornado-an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md) _2018-02-06 13:49:31 (First version)_
 1. [An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md) _(Current version)_
 
 ### Related:

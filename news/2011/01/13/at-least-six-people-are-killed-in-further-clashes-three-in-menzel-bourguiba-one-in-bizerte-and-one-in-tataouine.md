@@ -19,6 +19,6 @@ In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political 
 
 ### Changes:
 
-1. [Protests in Tunisia:At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/protests-in-tunisia-pat-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md) _2017-08-25 03:31:45 (First version)_
-2. [Protests in Tunisia:: At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/protests-in-tunisia-at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md) _2017-08-27 03:31:53 (Update)_
+1. [Protests in Tunisia:At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/protests-in-tunisia-pat-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md) _2018-02-06 13:49:21 (First version)_
+2. [Protests in Tunisia:: At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/protests-in-tunisia-at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md) _2018-02-06 13:49:21 (Update)_
 2. [At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md) _(Current version)_

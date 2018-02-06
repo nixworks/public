@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decre
 
 ### Changes:
 
-1. [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. [http:--newsinfo.inquirer.net-breakingnews-nation-view-20081011-165882-Extrajudicial-killings-down-CHR-notes (Inquirer)].](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights-http-newsinfo-inquirer-net-breakingnews-n.md) _2017-06-18 03:23:29 (First version)_
+1. [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. [http:--newsinfo.inquirer.net-breakingnews-nation-view-20081011-165882-Extrajudicial-killings-down-CHR-notes (Inquirer)].](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights-http-newsinfo-inquirer-net-breakingnews-n.md) _2018-02-06 13:49:18 (First version)_
 1. [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. ](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights.md) _(Current version)_
 
 ### Related:

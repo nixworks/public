@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-face
 
 ### Changes:
 
-1. [The Norwegian newspaper ''Aftenposten'' accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-wara.md) _2017-08-25 03:46:26 (First version)_
-2. [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-war-er.md) _2017-08-27 03:46:49 (Update)_
+1. [The Norwegian newspaper ''Aftenposten'' accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-wara.md) _2018-02-06 13:49:29 (First version)_
+2. [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-war-er.md) _2018-02-06 13:49:29 (Update)_
 2. [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-waraer.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ More Syrians have been killed in the three weeks since peace talks began than at
 
 ### Changes:
 
-1. [Syrian Civil War:The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/syrian-civil-war-pthe-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-syr.md) _2017-08-25 03:40:00 (First version)_
-2. [Syrian Civil War:: The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/syrian-civil-war-the-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-sy.md) _2017-08-27 03:40:19 (Update)_
+1. [Syrian Civil War:: The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/syrian-civil-war-the-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-sy.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/syrian-civil-war-pthe-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-syr.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/the-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-syrian-rebels.md) _(Current version)_
 
 ### Related:

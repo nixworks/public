@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/03/1/a-welcome-home-parade-in-darwin-marks-the-offici
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/war-in-afghanistan-2001-present-a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghani.md) _2017-08-27 03:40:24 (First version)_
+1. [War in Afghanistan (2001-present): A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/war-in-afghanistan-2001-present-a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghani.md) _2018-02-06 13:49:25 (First version)_
 1. [A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghanistan-war.md) _(Current version)_
 
 ### Related:

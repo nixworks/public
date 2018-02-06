@@ -17,8 +17,8 @@ The World Health Organisation (WHO), bowing to pressure from meat industry produ
 
 ### Changes:
 
-1. [ Swine influenza outbreak: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-p-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md) _2017-08-25 03:24:27 (First version)_
-2. [ Swine influenza outbreak:: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md) _2017-08-27 03:24:18 (Update)_
+1. [ Swine influenza outbreak:: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md) _2018-02-06 13:49:18 (First version)_
+2. [ Swine influenza outbreak: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-p-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md) _2018-02-06 13:49:18 (Update)_
 2. [ President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md) _(Current version)_
 
 ### Related:

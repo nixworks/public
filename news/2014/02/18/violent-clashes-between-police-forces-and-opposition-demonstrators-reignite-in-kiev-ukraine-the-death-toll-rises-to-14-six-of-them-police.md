@@ -18,8 +18,8 @@ At least nine people, including two policemen, are killed during anti-government
 
 ### Changes:
 
-1. [Euromaidan:Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/euromaidan-pviolent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-of.md) _2017-08-25 03:40:03 (First version)_
-2. [Euromaidan:: Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/euromaidan-violent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-o.md) _2017-08-27 03:40:21 (Update)_
+1. [Euromaidan:: Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/euromaidan-violent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-o.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/euromaidan-pviolent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-of.md) _2018-02-06 13:49:25 (Update)_
 2. [Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/violent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-of-them-police.md) _(Current version)_
 
 ### Related:

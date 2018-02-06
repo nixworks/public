@@ -16,8 +16,8 @@ Violent clashes erupted across Bangladesh on Thursday after a tribunal handed do
 
 ### Changes:
 
-1. [2013 Bangladesh protests:The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-pthe-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _2017-08-25 03:37:42 (First version)_
-2. [2013 Bangladesh protests:: The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _2017-08-27 03:37:53 (Update)_
+1. [2013 Bangladesh protests:: The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Bangladesh protests:The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-pthe-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _(Current version)_
 
 ### Related:

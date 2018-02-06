@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/06/15/the-united-states-evacuates-personnel-from-its-
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive:The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-pthe-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-near.md) _2017-08-25 03:40:33 (First version)_
-2. [2014 Northern Iraq offensive:: The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nea.md) _2017-08-27 03:40:51 (Update)_
+1. [2014 Northern Iraq offensive:: The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nea.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Northern Iraq offensive:The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-pthe-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-near.md) _2018-02-06 13:49:26 (Update)_
 2. [The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nears-the-city.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ Former Israeli Prime Minister Shimon Peres says he may leave the Israeli Labor Party to join Ariel Sharon's government after the next election if he is re-elected and if Sharon's new party is to form a government. ](/news/2005/11/29/former-israeli-prime-minister-shimon-peres-says-he-may-leave-the-israeli-labor-party-to-join-ariel-sharon-s-government-after-the-next-elec.md) _2017-08-25 03:17:10 (First version)_
+1. [ Former Israeli Prime Minister Shimon Peres says he may leave the Israeli Labor Party to join Ariel Sharon's government after the next election if he is re-elected and if Sharon's new party is to form a government. ](/news/2005/11/29/former-israeli-prime-minister-shimon-peres-says-he-may-leave-the-israeli-labor-party-to-join-ariel-sharon-s-government-after-the-next-elec.md) _2018-02-06 13:49:16 (First version)_
 1. [ Former Israeli Prime Minister Shimon Peres says he may leave the Israeli Labor Party to join Ariel Sharon's government after the next election if he is re-elected and if Sharon's new party is to form a government. ](/news/2005/11/29/former-israeli-prime-minister-shimon-peres-says-he-may-leave-the-israeli-labor-party-to-join-ariel-sharon-s-government-after-the-next-elect.md) _(Current version)_
 
 ### Related:

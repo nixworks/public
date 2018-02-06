@@ -18,8 +18,8 @@ Formats: [HTML](/news/2006/10/21/president-of-the-united-states-george-w-bush-co
 
 ### Changes:
 
-1. [ Iraqi insurgency: President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/iraqi-insurgency-p-president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in.md) _2017-08-25 03:18:36 (First version)_
-2. [ Iraqi insurgency:: President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/iraqi-insurgency-president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in-s.md) _2017-08-27 03:18:31 (Update)_
+1. [ Iraqi insurgency:: President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/iraqi-insurgency-president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in-s.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraqi insurgency: President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/iraqi-insurgency-p-president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in.md) _2018-02-06 13:49:17 (Update)_
 2. [ President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in-sectarian-violence.md) _(Current version)_
 
 ### Related:

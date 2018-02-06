@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/01/21/chinese-vice-foreign-minister-he-yafei-downplay
 
 ### Changes:
 
-1. [Operation Aurora:Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-pchinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wit.md) _2017-08-25 03:26:57 (First version)_
-2. [Operation Aurora:: Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-chinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wi.md) _2017-08-27 03:26:49 (Update)_
+1. [Operation Aurora:Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-pchinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wit.md) _2018-02-06 13:49:19 (First version)_
+2. [Operation Aurora:: Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-chinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wi.md) _2018-02-06 13:49:19 (Update)_
 2. [Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/chinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-with-the-united-state.md) _(Current version)_
 
 ### Related:

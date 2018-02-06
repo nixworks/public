@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/02/26/the-84th-academy-awards-are-held-at-the-hollywo
 
 ### Changes:
 
-1. [84th Academy Awards:The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-pthe-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-ca.md) _2017-08-25 03:35:09 (First version)_
-2. [84th Academy Awards:: The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md) _2017-08-27 03:35:18 (Update)_
+1. [84th Academy Awards:: The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md) _2018-02-06 13:49:23 (First version)_
+2. [84th Academy Awards:The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-pthe-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-ca.md) _2018-02-06 13:49:23 (Update)_
 2. [The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-california.md) _(Current version)_
 
 ### Related:

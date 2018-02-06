@@ -11,7 +11,7 @@ Formats: [HTML](/news/2008/09/6/darren-aronofsky-s-the-wrestler-wins-the-golden-
 
 ### Changes:
 
-1. [ Darren Aronofsky's ''The Wrestler'' wins the Golden Lion for best film at the Venice Film Festival. [http:--ap.google.com-article-ALeqM5ghYFThcBadzak8ULA-rG0YHCKACgD931CNCO0 (AP via Google News)]date=October 2012](/news/2008/09/6/darren-aronofsky-s-the-wrestler-wins-the-golden-lion-for-best-film-at-the-venice-film-festival-http-ap-google-com-article-aleqm5ghy.md) _2017-08-25 03:22:49 (First version)_
+1. [ Darren Aronofsky's ''The Wrestler'' wins the Golden Lion for best film at the Venice Film Festival. [http:--ap.google.com-article-ALeqM5ghYFThcBadzak8ULA-rG0YHCKACgD931CNCO0 (AP via Google News)]date=October 2012](/news/2008/09/6/darren-aronofsky-s-the-wrestler-wins-the-golden-lion-for-best-film-at-the-venice-film-festival-http-ap-google-com-article-aleqm5ghy.md) _2018-02-06 13:49:18 (First version)_
 1. [ Darren Aronofsky's "The Wrestler" wins the Golden Lion for best film at the Venice Film Festival. [http:--ap.google.com-article-ALeqM5ghYFThcBadzak8ULA-rG0YHCKACgD931CNCO0 (AP via Google News)]date=October 2012](/news/2008/09/6/darren-aronofsky-s-the-wrestler-wins-the-golden-lion-for-best-film-at-the-venice-film-festival-http-ap-google-com-article-aleqm5ghyft.md) _(Current version)_
 
 ### Related:

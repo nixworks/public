@@ -15,7 +15,7 @@ The prominent right-wing writer and Iraq War veteran is being wooed by Weekly St
 
 ### Changes:
 
-1. [United States presidential election, 2016: Conservative leaders seeking an alternative to the Republican Party's presumptive presidential nominee Donald Trump are urging Tennessee attorney and "National Review" writer David French to enter the 2016 presidential race as an independent candidate. ](/news/2016/05/31/united-states-presidential-election-2016-conservative-leaders-seeking-an-alternative-to-the-republican-party-s-presumptive-presidential-no.md) _2017-08-27 03:46:10 (First version)_
+1. [United States presidential election, 2016: Conservative leaders seeking an alternative to the Republican Party's presumptive presidential nominee Donald Trump are urging Tennessee attorney and "National Review" writer David French to enter the 2016 presidential race as an independent candidate. ](/news/2016/05/31/united-states-presidential-election-2016-conservative-leaders-seeking-an-alternative-to-the-republican-party-s-presumptive-presidential-no.md) _2018-02-06 13:49:29 (First version)_
 1. [Conservative leaders seeking an alternative to the Republican Party's presumptive presidential nominee Donald Trump are urging Tennessee attorney and "National Review" writer David French to enter the 2016 presidential race as an independent candidate. ](/news/2016/05/31/conservative-leaders-seeking-an-alternative-to-the-republican-party-s-presumptive-presidential-nominee-donald-trump-are-urging-tennessee-att.md) _(Current version)_
 
 ### Related:

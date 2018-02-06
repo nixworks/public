@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/09/4/the-united-nations-refugee-agency-says-100-000-s
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-pthe-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mon.md) _2017-08-25 03:36:25 (First version)_
-2. [Syrian civil war:: The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mo.md) _2017-08-27 03:36:35 (Update)_
+1. [Syrian civil war:: The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-pthe-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mon.md) _2018-02-06 13:49:23 (Update)_
 2. [The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-monthly-number-yet-in.md) _(Current version)_
 
 ### Related:

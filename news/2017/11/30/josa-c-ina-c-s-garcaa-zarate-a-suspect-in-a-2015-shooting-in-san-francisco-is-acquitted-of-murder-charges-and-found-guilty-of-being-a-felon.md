@@ -16,8 +16,8 @@ Donald Trump seized on the case during the campaign as proof that the U.S. needs
 
 ### Changes:
 
-1. [Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco and an illegal immigrant, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/jose-ines-garcia-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-and-an-illegal-immigrant-is-acquitted-of-murder-charges-and-found-gu.md) _2017-12-01 17:30:04 (First version)_
-2. [Jos Ins Garca Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/jose-ines-garcia-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-is-acquitted-of-murder-charges-and-found-guilty-of-being-a-felon-in.md) _2017-12-01 19:30:05 (Update)_
+1. [Jos Ins Garca Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/jose-ines-garcia-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-is-acquitted-of-murder-charges-and-found-guilty-of-being-a-felon-in.md) _2018-02-06 13:49:31 (First version)_
+2. [Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco and an illegal immigrant, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/jose-ines-garcia-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-and-an-illegal-immigrant-is-acquitted-of-murder-charges-and-found-gu.md) _2018-02-06 13:49:31 (Update)_
 2. [Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/josa-c-ina-c-s-garcaa-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-is-acquitted-of-murder-charges-and-found-guilty-of-being-a-felon.md) _(Current version)_
 
 ### Related:

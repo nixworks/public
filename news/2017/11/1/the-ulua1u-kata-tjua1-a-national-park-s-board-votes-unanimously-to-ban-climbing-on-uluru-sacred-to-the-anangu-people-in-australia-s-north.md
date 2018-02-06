@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-vo
 
 ### Changes:
 
-1. [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md) _2017-11-02 00:30:05 (First version)_
+1. [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md) _2018-02-06 13:49:31 (First version)_
 1. [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru, sacred to the Anangu people, in Australia's Northern Territory, from October 2019, due to Indigenous concerns over respect for the sacred site and for the safety of tourists. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-sacred-to-the-anangu-people-in-australia-s-north.md) _(Current version)_
 
 ### Related:

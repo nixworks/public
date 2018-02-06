@@ -20,7 +20,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 
 ### Changes:
 
-1. [2016 Ouagadougou attacks: Burkina Faso security forces storm the Hotel Splendid which had been under attack by Al Qaeda in the Islamic Maghreb militants. Over 126 people have been freed and at least 29 people have died. ](/news/2016/01/16/2016-ouagadougou-attacks-burkina-faso-security-forces-storm-the-hotel-splendid-which-had-been-under-attack-by-al-qaeda-in-the-islamic-maghr.md) _2017-08-27 03:44:41 (First version)_
+1. [2016 Ouagadougou attacks: Burkina Faso security forces storm the Hotel Splendid which had been under attack by Al Qaeda in the Islamic Maghreb militants. Over 126 people have been freed and at least 29 people have died. ](/news/2016/01/16/2016-ouagadougou-attacks-burkina-faso-security-forces-storm-the-hotel-splendid-which-had-been-under-attack-by-al-qaeda-in-the-islamic-maghr.md) _2018-02-06 13:49:28 (First version)_
 1. [Burkina Faso security forces storm the Hotel Splendid which had been under attack by Al Qaeda in the Islamic Maghreb militants. Over 126 people have been freed and at least 29 people have died. ](/news/2016/01/16/burkina-faso-security-forces-storm-the-hotel-splendid-which-had-been-under-attack-by-al-qaeda-in-the-islamic-maghreb-militants-over-126-peo.md) _(Current version)_
 
 ### Related:

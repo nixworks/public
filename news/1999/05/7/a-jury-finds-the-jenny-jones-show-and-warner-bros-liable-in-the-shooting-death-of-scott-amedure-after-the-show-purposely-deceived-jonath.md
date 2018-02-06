@@ -11,7 +11,7 @@ Formats: [HTML](/news/1999/05/7/a-jury-finds-the-jenny-jones-show-and-warner-bro
 
 ### Changes:
 
-1. [ A jury finds ''The Jenny Jones Show'' and Warner Bros. liable in the shooting death of Scott Amedure after the show purposely deceived Jonathan Schmitz to appear on a secret same-sex crush episode. ](/news/1999/05/7/a-jury-finds-the-jenny-jones-show-and-warner-bros-liable-in-the-shooting-death-of-scott-amedure-after-the-show-purposely-deceived-jona.md) _2017-08-25 03:15:05 (First version)_
+1. [ A jury finds ''The Jenny Jones Show'' and Warner Bros. liable in the shooting death of Scott Amedure after the show purposely deceived Jonathan Schmitz to appear on a secret same-sex crush episode. ](/news/1999/05/7/a-jury-finds-the-jenny-jones-show-and-warner-bros-liable-in-the-shooting-death-of-scott-amedure-after-the-show-purposely-deceived-jona.md) _2018-02-06 13:49:15 (First version)_
 1. [ A jury finds "The Jenny Jones Show" and Warner Bros. liable in the shooting death of Scott Amedure after the show purposely deceived Jonathan Schmitz to appear on a secret same-sex crush episode. ](/news/1999/05/7/a-jury-finds-the-jenny-jones-show-and-warner-bros-liable-in-the-shooting-death-of-scott-amedure-after-the-show-purposely-deceived-jonath.md) _(Current version)_
 
 ### Related:

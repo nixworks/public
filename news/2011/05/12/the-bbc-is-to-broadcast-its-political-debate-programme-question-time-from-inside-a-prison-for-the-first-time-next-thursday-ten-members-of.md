@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-pr
 
 ### Changes:
 
-1. [The BBC is to broadcast its political debate programme ''Question Time'' from inside a prison for the first time next Thursday. Ten members of staff and ten prisoners from London's Wormwood Scrubs prison are to join 100 other audience members, while panelists are to include Secretary of State for Justice Kenneth Clarke and former Home Secretary Jack Straw. ](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-programme-question-time-from-inside-a-prison-for-the-first-time-next-thursday-ten-members.md) _2017-08-25 03:33:05 (First version)_
+1. [The BBC is to broadcast its political debate programme ''Question Time'' from inside a prison for the first time next Thursday. Ten members of staff and ten prisoners from London's Wormwood Scrubs prison are to join 100 other audience members, while panelists are to include Secretary of State for Justice Kenneth Clarke and former Home Secretary Jack Straw. ](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-programme-question-time-from-inside-a-prison-for-the-first-time-next-thursday-ten-members.md) _2018-02-06 13:49:22 (First version)_
 1. [The BBC is to broadcast its political debate programme "Question Time" from inside a prison for the first time next Thursday. Ten members of staff and ten prisoners from London's Wormwood Scrubs prison are to join 100 other audience members, while panelists are to include Secretary of State for Justice Kenneth Clarke and former Home Secretary Jack Straw. ](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-programme-question-time-from-inside-a-prison-for-the-first-time-next-thursday-ten-members-of.md) _(Current version)_
 
 ### Related:

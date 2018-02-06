@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/26/peace-talks-between-hamas-and-israel-have-been-
 
 ### Changes:
 
-1. [Gaza-Israel conflict: Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. ](/news/2014/10/26/gaza-israel-conflict-peace-talks-between-hamas-and-israel-have-been-canceled-after-the-hamas-delegation-was-refused-entry-into-egypt-follow.md) _2017-08-27 03:41:26 (First version)_
+1. [Gaza-Israel conflict: Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. ](/news/2014/10/26/gaza-israel-conflict-peace-talks-between-hamas-and-israel-have-been-canceled-after-the-hamas-delegation-was-refused-entry-into-egypt-follow.md) _2018-02-06 13:49:26 (First version)_
 1. [Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. ](/news/2014/10/26/peace-talks-between-hamas-and-israel-have-been-canceled-after-the-hamas-delegation-was-refused-entry-into-egypt-following-recent-attacks-aga.md) _(Current version)_
 
 ### Related:

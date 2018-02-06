@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/01/31/a-m-w-nbsp-5-2-earthquake-in-sichuan-province-c
 
 ### Changes:
 
-1. [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-mw-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md) _2017-10-02 03:30:24 (First version)_
+1. [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-mw-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md) _2018-02-06 13:49:19 (First version)_
 1. [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-m-w-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md) _(Current version)_
 
 ### Related:

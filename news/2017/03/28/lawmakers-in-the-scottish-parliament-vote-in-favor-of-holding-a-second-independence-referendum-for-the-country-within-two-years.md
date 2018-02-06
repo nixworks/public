@@ -15,7 +15,7 @@ Motion passed 69 votes to 59 and comes a day before the UK takes the formal step
 
 ### Changes:
 
-1. [Proposed second Scottish independence referendum: Lawmakers in the Scottish Parliament vote in favor of holding a second independence referendum for the country within two years. ](/news/2017/03/28/proposed-second-scottish-independence-referendum-lawmakers-in-the-scottish-parliament-vote-in-favor-of-holding-a-second-independence-refere.md) _2017-08-27 03:48:04 (First version)_
+1. [Proposed second Scottish independence referendum: Lawmakers in the Scottish Parliament vote in favor of holding a second independence referendum for the country within two years. ](/news/2017/03/28/proposed-second-scottish-independence-referendum-lawmakers-in-the-scottish-parliament-vote-in-favor-of-holding-a-second-independence-refere.md) _2018-02-06 13:49:30 (First version)_
 1. [Lawmakers in the Scottish Parliament vote in favor of holding a second independence referendum for the country within two years. ](/news/2017/03/28/lawmakers-in-the-scottish-parliament-vote-in-favor-of-holding-a-second-independence-referendum-for-the-country-within-two-years.md) _(Current version)_
 
 ### Related:

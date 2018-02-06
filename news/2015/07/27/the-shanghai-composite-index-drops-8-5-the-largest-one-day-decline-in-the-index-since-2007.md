@@ -16,7 +16,7 @@ China’s stocks tumbled, with the benchmark index falling the most since Februa
 
 ### Changes:
 
-1. [2015 Chinese stock market crash: The Shanghai Composite Index drops 8.5%, the largest one-day decline in the index since 2007. ](/news/2015/07/27/2015-chinese-stock-market-crash-the-shanghai-composite-index-drops-8-5-the-largest-one-day-decline-in-the-index-since-2007.md) _2017-08-27 03:42:45 (First version)_
+1. [2015 Chinese stock market crash: The Shanghai Composite Index drops 8.5%, the largest one-day decline in the index since 2007. ](/news/2015/07/27/2015-chinese-stock-market-crash-the-shanghai-composite-index-drops-8-5-the-largest-one-day-decline-in-the-index-since-2007.md) _2018-02-06 13:49:27 (First version)_
 1. [ The Shanghai Composite Index drops 8.5%, the largest one-day decline in the index since 2007. ](/news/2015/07/27/the-shanghai-composite-index-drops-8-5-the-largest-one-day-decline-in-the-index-since-2007.md) _(Current version)_
 
 ### Related:

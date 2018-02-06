@@ -16,8 +16,8 @@ Kosovar Prime Minister Hashim Thaci’s political party won the second parliamen
 
 ### Changes:
 
-1. [Kosovan parliamentary election, 2014:Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-pvoters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-25 03:40:31 (First version)_
-2. [Kosovan parliamentary election, 2014:: Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-27 03:40:48 (Update)_
+1. [Kosovan parliamentary election, 2014:: Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2018-02-06 13:49:26 (First version)_
+2. [Kosovan parliamentary election, 2014:Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-pvoters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _(Current version)_
 
 ### Related:

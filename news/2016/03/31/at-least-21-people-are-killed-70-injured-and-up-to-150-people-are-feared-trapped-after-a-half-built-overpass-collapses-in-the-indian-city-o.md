@@ -17,7 +17,7 @@ Three more bodies were recovered from under the debris of the flyover that colla
 
 ### Changes:
 
-1. [2016 Kolkata overpass collapse: At least 21 people are killed, 70 injured and up to 150 people are feared trapped after a half-built overpass collapses in the Indian city of Kolkata. ](/news/2016/03/31/2016-kolkata-overpass-collapse-at-least-21-people-are-killed-70-injured-and-up-to-150-people-are-feared-trapped-after-a-half-built-overpas.md) _2017-08-27 03:45:26 (First version)_
+1. [2016 Kolkata overpass collapse: At least 21 people are killed, 70 injured and up to 150 people are feared trapped after a half-built overpass collapses in the Indian city of Kolkata. ](/news/2016/03/31/2016-kolkata-overpass-collapse-at-least-21-people-are-killed-70-injured-and-up-to-150-people-are-feared-trapped-after-a-half-built-overpas.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 21 people are killed, 70 injured and up to 150 people are feared trapped after a half-built overpass collapses in the Indian city of Kolkata. ](/news/2016/03/31/at-least-21-people-are-killed-70-injured-and-up-to-150-people-are-feared-trapped-after-a-half-built-overpass-collapses-in-the-indian-city-o.md) _(Current version)_
 
 ### Related:
@@ -26,4 +26,4 @@ Three more bodies were recovered from under the debris of the flyover that colla
 2. [40 confirmed people die in a fire in the AMRI Hospital in the Indian city of Kolkata. ](/news/2011/12/9/40-confirmed-people-die-in-a-fire-in-the-amri-hospital-in-the-indian-city-of-kolkata.md) _Context: India, Kolkata_
 3. [ The Indian Army is deployed in Kolkata after a riot against Bangladeshi feminist writer Taslima Nasreen erupts into violence. ](/news/2007/11/21/the-indian-army-is-deployed-in-kolkata-after-a-riot-against-bangladeshi-feminist-writer-taslima-nasreen-erupts-into-violence.md) _Context: India, Kolkata_
 4. [ Moitree Express begins on trail journey between Dhaka and Kolkata paving way for possible reopening of train route connectivity between Bangla Desh and India](/news/2007/07/29/moitree-express-begins-on-trail-journey-between-dhaka-and-kolkata-paving-way-for-possible-reopening-of-train-route-connectivity-between-ban.md) _Context: India, Kolkata_
-5. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+5. [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md) _Context: India_

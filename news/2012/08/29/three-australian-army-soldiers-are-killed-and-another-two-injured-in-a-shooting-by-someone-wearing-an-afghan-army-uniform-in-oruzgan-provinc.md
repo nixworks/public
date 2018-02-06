@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-a
 
 ### Changes:
 
-1. [War in Afghanistan:Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-pthree-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifor.md) _2017-08-25 03:36:22 (First version)_
-2. [War in Afghanistan:: Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifo.md) _2017-08-27 03:36:33 (Update)_
+1. [War in Afghanistan:: Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifo.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-pthree-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifor.md) _2018-02-06 13:49:23 (Update)_
 2. [Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-uniform-in-oruzgan-provinc.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A 27-year-old student allegedly known for his right-wing, nationalist views appe
 
 ### Changes:
 
-1. [Quebec City mosque shooting: French-Canadian student Alexandre Bissonnette is charged with six counts of murder and five counts of attempted murder in relation to an attack on a mosque in Quebec City. ](/news/2017/01/30/quebec-city-mosque-shooting-french-canadian-student-alexandre-bissonnette-is-charged-with-six-counts-of-murder-and-five-counts-of-attempted.md) _2017-08-27 03:47:43 (First version)_
+1. [Quebec City mosque shooting: French-Canadian student Alexandre Bissonnette is charged with six counts of murder and five counts of attempted murder in relation to an attack on a mosque in Quebec City. ](/news/2017/01/30/quebec-city-mosque-shooting-french-canadian-student-alexandre-bissonnette-is-charged-with-six-counts-of-murder-and-five-counts-of-attempted.md) _2018-02-06 13:49:30 (First version)_
 1. [French-Canadian student Alexandre Bissonnette is charged with six counts of murder and five counts of attempted murder in relation to an attack on a mosque in Quebec City. ](/news/2017/01/30/french-canadian-student-alexandre-bissonnette-is-charged-with-six-counts-of-murder-and-five-counts-of-attempted-murder-in-relation-to-an-att.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Afghanistan is back in the spotlight with the death of another Australian soldie
 
 ### Changes:
 
-1. [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanista.md) _2017-08-25 03:29:25 (First version)_
+1. [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanista.md) _2018-02-06 13:49:20 (First version)_
 1. [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanistan.md) _(Current version)_
 
 ### Related:

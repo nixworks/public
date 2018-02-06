@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsibl
 
 ### Changes:
 
-1. [Killing of captives by ISIL: China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/killing-of-captives-by-isil-china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of.md) _2017-08-27 03:43:57 (First version)_
+1. [Killing of captives by ISIL: China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/killing-of-captives-by-isil-china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of.md) _2018-02-06 13:49:28 (First version)_
 1. [China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of-iraq-and-the-levant-said-it.md) _(Current version)_
 
 ### Related:

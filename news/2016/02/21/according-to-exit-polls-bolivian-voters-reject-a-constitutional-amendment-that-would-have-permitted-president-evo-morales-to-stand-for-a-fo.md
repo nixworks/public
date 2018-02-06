@@ -16,7 +16,7 @@ With more than 80% of votes counted, President Evo Morales of Bolivia is losing 
 
 ### Changes:
 
-1. [Bolivian constitutional referendum, 2016: According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. ](/news/2016/02/21/bolivian-constitutional-referendum-2016-according-to-exit-polls-bolivian-voters-reject-a-constitutional-amendment-that-would-have-permitt.md) _2017-08-27 03:44:58 (First version)_
+1. [Bolivian constitutional referendum, 2016: According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. ](/news/2016/02/21/bolivian-constitutional-referendum-2016-according-to-exit-polls-bolivian-voters-reject-a-constitutional-amendment-that-would-have-permitt.md) _2018-02-06 13:49:28 (First version)_
 1. [According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. ](/news/2016/02/21/according-to-exit-polls-bolivian-voters-reject-a-constitutional-amendment-that-would-have-permitted-president-evo-morales-to-stand-for-a-fo.md) _(Current version)_
 
 ### Related:

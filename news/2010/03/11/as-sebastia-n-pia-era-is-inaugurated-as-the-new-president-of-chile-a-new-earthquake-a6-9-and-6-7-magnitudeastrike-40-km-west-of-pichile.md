@@ -17,9 +17,9 @@ It was to be a grand celebration, the conservatives had defeated the left leanin
 
 ### Changes:
 
-1. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike {{convert|40|km|mi}} west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-convert-40-km-mi.md) _2017-05-01 03:28:47 (First version)_
-2. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake -6.9 and 6.7 magnitude-strike 40|km|mi west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-6-9-and-6-7-magnitude-strike-40-km-mi-west-of-pich.md) _2017-08-27 03:27:16 (Update)_
-3. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike 40|km|mi west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-40-km-mi-west-of-pich.md) _2017-08-29 03:27:26 (Update)_
+1. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike {{convert|40|km|mi}} west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-convert-40-km-mi.md) _2018-02-06 13:49:19 (First version)_
+2. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike 40|km|mi west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-40-km-mi-west-of-pich.md) _2018-02-06 13:49:19 (Update)_
+3. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake -6.9 and 6.7 magnitude-strike 40|km|mi west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-6-9-and-6-7-magnitude-strike-40-km-mi-west-of-pich.md) _2018-02-06 13:49:19 (Update)_
 3. [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike 40 km west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-40-km-west-of-pichile.md) _(Current version)_
 
 ### Related:

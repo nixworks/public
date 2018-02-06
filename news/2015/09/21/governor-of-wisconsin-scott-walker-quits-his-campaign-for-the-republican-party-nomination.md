@@ -16,7 +16,7 @@ Gov. Scott Walker of Wisconsin quit the race for the Republican presidential nom
 
 ### Changes:
 
-1. [United States presidential election, 2016: Governor of Wisconsin Scott Walker quits his campaign for the Republican Party nomination. ](/news/2015/09/21/united-states-presidential-election-2016-governor-of-wisconsin-scott-walker-quits-his-campaign-for-the-republican-party-nomination.md) _2017-08-27 03:43:07 (First version)_
+1. [United States presidential election, 2016: Governor of Wisconsin Scott Walker quits his campaign for the Republican Party nomination. ](/news/2015/09/21/united-states-presidential-election-2016-governor-of-wisconsin-scott-walker-quits-his-campaign-for-the-republican-party-nomination.md) _2018-02-06 13:49:27 (First version)_
 1. [Governor of Wisconsin Scott Walker quits his campaign for the Republican Party nomination. ](/news/2015/09/21/governor-of-wisconsin-scott-walker-quits-his-campaign-for-the-republican-party-nomination.md) _(Current version)_
 
 ### Related:

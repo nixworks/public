@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/20/an-election-is-held-in-laos-with-voter-turnout-
 
 ### Changes:
 
-1. [Laotian parliamentary election, 2016: An election is held in Laos, with voter turnout expected to be low. The only legal party in Laos is the Lao People's Revolutionary Party. ](/news/2016/03/20/laotian-parliamentary-election-2016-an-election-is-held-in-laos-with-voter-turnout-expected-to-be-low-the-only-legal-party-in-laos-is-th.md) _2017-08-27 03:45:19 (First version)_
+1. [Laotian parliamentary election, 2016: An election is held in Laos, with voter turnout expected to be low. The only legal party in Laos is the Lao People's Revolutionary Party. ](/news/2016/03/20/laotian-parliamentary-election-2016-an-election-is-held-in-laos-with-voter-turnout-expected-to-be-low-the-only-legal-party-in-laos-is-th.md) _2018-02-06 13:49:28 (First version)_
 1. [An election is held in Laos, with voter turnout expected to be low. The only legal party in Laos is the Lao People's Revolutionary Party. ](/news/2016/03/20/an-election-is-held-in-laos-with-voter-turnout-expected-to-be-low-the-only-legal-party-in-laos-is-the-lao-people-s-revolutionary-party.md) _(Current version)_
 
 ### Related:

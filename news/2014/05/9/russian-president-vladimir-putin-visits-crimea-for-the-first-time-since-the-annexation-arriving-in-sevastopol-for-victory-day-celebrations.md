@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/05/9/russian-president-vladimir-putin-visits-crimea-f
 
 ### Changes:
 
-1. [2014 Crimean crisis:Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-prussian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vict.md) _2017-08-25 03:40:23 (First version)_
-2. [2014 Crimean crisis:: Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-russian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vic.md) _2017-08-27 03:40:41 (Update)_
+1. [2014 Crimean crisis:: Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-russian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vic.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-prussian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vict.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/russian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-victory-day-celebrations.md) _(Current version)_
 
 ### Related:

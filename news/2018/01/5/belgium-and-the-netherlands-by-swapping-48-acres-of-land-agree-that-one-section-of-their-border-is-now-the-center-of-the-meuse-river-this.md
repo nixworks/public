@@ -17,7 +17,7 @@ Belgium and the Netherlands peacefully altered their national borders by swappin
 
 ### Changes:
 
-1. [Belgium and Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this-is.md) _2018-01-06 08:30:05 (First version)_
+1. [Belgium and Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this-is.md) _2018-02-06 13:49:31 (First version)_
 1. [Belgium and the Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-the-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this.md) _(Current version)_
 
 ### Related:

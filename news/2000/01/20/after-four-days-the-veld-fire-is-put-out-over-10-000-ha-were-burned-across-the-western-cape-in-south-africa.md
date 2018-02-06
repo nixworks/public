@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/20/after-four-days-the-veld-fire-is-put-out-over-1
 
 ### Changes:
 
-1. [Table Mountain Fire (2000): After four days, the veld fire is put out. Over 10,000 ha were burned across the Western Cape, in South Africa.](/news/2000/01/20/table-mountain-fire-2000-after-four-days-the-veld-fire-is-put-out-over-10-000-ha-were-burned-across-the-western-cape-in-south-africa.md) _2017-08-27 03:15:07 (First version)_
+1. [Table Mountain Fire (2000): After four days, the veld fire is put out. Over 10,000 ha were burned across the Western Cape, in South Africa.](/news/2000/01/20/table-mountain-fire-2000-after-four-days-the-veld-fire-is-put-out-over-10-000-ha-were-burned-across-the-western-cape-in-south-africa.md) _2018-02-06 13:49:15 (First version)_
 1. [After four days, the veld fire is put out. Over 10,000 ha were burned across the Western Cape, in South Africa.](/news/2000/01/20/after-four-days-the-veld-fire-is-put-out-over-10-000-ha-were-burned-across-the-western-cape-in-south-africa.md) _(Current version)_
 
 ### Related:

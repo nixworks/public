@@ -16,8 +16,8 @@ Voters in Wallis and Futuna have gone to the polls in a territorial election to 
 
 ### Changes:
 
-1. [Wallis and Futuna Territorial Assembly election, 2017Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/wallis-and-futuna-territorial-assembly-election-2017pvoters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the.md) _2017-08-25 03:47:37 (First version)_
-2. [Wallis and Futuna Territorial Assembly election, 2017: Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/wallis-and-futuna-territorial-assembly-election-2017-voters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the.md) _2017-08-27 03:48:03 (Update)_
+1. [Wallis and Futuna Territorial Assembly election, 2017Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/wallis-and-futuna-territorial-assembly-election-2017pvoters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the.md) _2018-02-06 13:49:30 (First version)_
+2. [Wallis and Futuna Territorial Assembly election, 2017: Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/wallis-and-futuna-territorial-assembly-election-2017-voters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the.md) _2018-02-06 13:49:30 (Update)_
 2. [Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/voters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the-20-seat-territorial-assembly.md) _(Current version)_
 
 ### Related:

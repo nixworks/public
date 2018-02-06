@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/2/former-pennsylvania-state-university-president-g
 
 ### Changes:
 
-1. [Penn State child sex abuse scandal: Former Pennsylvania State University president Graham Spanier, former vice president Gary Schultz, and former athletic director Timothy Curley are sentenced to prison for covering up ex-coach Jerry Sandusky's criminal sexual acts, thereby letting him victimize more boys. ](/news/2017/06/2/penn-state-child-sex-abuse-scandal-former-pennsylvania-state-university-president-graham-spanier-former-vice-president-gary-schultz-and-f.md) _2017-08-27 03:48:25 (First version)_
+1. [Penn State child sex abuse scandal: Former Pennsylvania State University president Graham Spanier, former vice president Gary Schultz, and former athletic director Timothy Curley are sentenced to prison for covering up ex-coach Jerry Sandusky's criminal sexual acts, thereby letting him victimize more boys. ](/news/2017/06/2/penn-state-child-sex-abuse-scandal-former-pennsylvania-state-university-president-graham-spanier-former-vice-president-gary-schultz-and-f.md) _2018-02-06 13:49:30 (First version)_
 1. [Former Pennsylvania State University president Graham Spanier, former vice president Gary Schultz, and former athletic director Timothy Curley are sentenced to prison for covering up ex-coach Jerry Sandusky's criminal sexual acts, thereby letting him victimize more boys. ](/news/2017/06/2/former-pennsylvania-state-university-president-graham-spanier-former-vice-president-gary-schultz-and-former-athletic-director-timothy-curl.md) _(Current version)_
 
 ### Related:

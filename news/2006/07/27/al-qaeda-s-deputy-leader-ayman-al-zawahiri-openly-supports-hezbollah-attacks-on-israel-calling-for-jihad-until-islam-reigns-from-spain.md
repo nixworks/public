@@ -23,8 +23,8 @@ As the battles raged, a meeting of U.S., European and Arab countries in Rome fai
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/2006-israel-lebanon-conflict-p-al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad.md) _2017-08-25 03:18:06 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/2006-israel-lebanon-conflict-al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad.md) _2017-08-27 03:18:04 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/2006-israel-lebanon-conflict-p-al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/2006-israel-lebanon-conflict-al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad.md) _2018-02-06 13:49:17 (Update)_
 2. [ Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad-until-islam-reigns-from-spain.md) _(Current version)_
 
 ### Related:

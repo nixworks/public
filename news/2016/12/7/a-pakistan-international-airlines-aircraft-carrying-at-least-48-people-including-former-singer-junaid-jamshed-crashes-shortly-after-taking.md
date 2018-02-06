@@ -17,7 +17,7 @@ All 48 people on board a Pakistan Airlines plane were killed when it crashed in 
 
 ### Changes:
 
-1. [Pakistan International Airlines Flight 661: A Pakistan International Airlines aircraft carrying at least 48 people, including former singer Junaid Jamshed, crashes shortly after taking off from Chitral, Pakistan. ](/news/2016/12/7/pakistan-international-airlines-flight-661-a-pakistan-international-airlines-aircraft-carrying-at-least-48-people-including-former-singer.md) _2017-08-27 03:47:23 (First version)_
+1. [Pakistan International Airlines Flight 661: A Pakistan International Airlines aircraft carrying at least 48 people, including former singer Junaid Jamshed, crashes shortly after taking off from Chitral, Pakistan. ](/news/2016/12/7/pakistan-international-airlines-flight-661-a-pakistan-international-airlines-aircraft-carrying-at-least-48-people-including-former-singer.md) _2018-02-06 13:49:30 (First version)_
 1. [A Pakistan International Airlines aircraft carrying at least 48 people, including former singer Junaid Jamshed, crashes shortly after taking off from Chitral, Pakistan. ](/news/2016/12/7/a-pakistan-international-airlines-aircraft-carrying-at-least-48-people-including-former-singer-junaid-jamshed-crashes-shortly-after-taking.md) _(Current version)_
 
 ### Related:

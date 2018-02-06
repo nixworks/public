@@ -15,7 +15,7 @@ Formats: [HTML](/news/2000/02/29/six-year-old-dedrick-owens-shoots-and-kills-kay
 
 ### Changes:
 
-1. [Shooting of Kayla Rolland: Six-year-old Dedrick Owens shoots and kills Kayla Rolland, also six years old, at Theo J. Buell Elementary School in Mount Morris Township, Michigan. Rolland is currently the youngest victim of a school shooting. ](/news/2000/02/29/shooting-of-kayla-rolland-six-year-old-dedrick-owens-shoots-and-kills-kayla-rolland-also-six-years-old-at-theo-j-buell-elementary-school.md) _2017-08-27 03:15:07 (First version)_
+1. [Shooting of Kayla Rolland: Six-year-old Dedrick Owens shoots and kills Kayla Rolland, also six years old, at Theo J. Buell Elementary School in Mount Morris Township, Michigan. Rolland is currently the youngest victim of a school shooting. ](/news/2000/02/29/shooting-of-kayla-rolland-six-year-old-dedrick-owens-shoots-and-kills-kayla-rolland-also-six-years-old-at-theo-j-buell-elementary-school.md) _2018-02-06 13:49:15 (First version)_
 1. [Six-year-old Dedrick Owens shoots and kills Kayla Rolland, also six years old, at Theo J. Buell Elementary School in Mount Morris Township, Michigan. Rolland is currently the youngest victim of a school shooting. ](/news/2000/02/29/six-year-old-dedrick-owens-shoots-and-kills-kayla-rolland-also-six-years-old-at-theo-j-buell-elementary-school-in-mount-morris-township.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-
 
 ### Changes:
 
-1. [South Thailand insurgency: Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/south-thailand-insurgency-two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _2017-08-27 03:42:42 (First version)_
+1. [South Thailand insurgency: Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/south-thailand-insurgency-two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _2018-02-06 13:49:27 (First version)_
 1. [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _(Current version)_
 
 ### Related:

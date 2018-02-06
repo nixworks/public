@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-
 
 ### Changes:
 
-1. [2015 Nepal fuel crisis: Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/2015-nepal-fuel-crisis-nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade.md) _2017-08-27 03:43:38 (First version)_
+1. [2015 Nepal fuel crisis: Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/2015-nepal-fuel-crisis-nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade.md) _2018-02-06 13:49:28 (First version)_
 1. [Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.md) _(Current version)_
 
 ### Related:

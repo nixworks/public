@@ -16,7 +16,7 @@ Buenos Aires province governor Daniel Scioli will be meeting this week with all 
 
 ### Changes:
 
-1. [ Pope Benedict XVI triggers a -scandalous poverty- debate in Argentina, with Buenos Aires province governor Daniel Scioli preparing to meet with all Catholic bishops of his area. ](/news/2009/08/10/pope-benedict-xvi-triggers-a-scandalous-poverty-debate-in-argentina-with-buenos-aires-province-governor-daniel-scioli-preparing-to-m.md) _2017-08-27 03:25:19 (First version)_
+1. [ Pope Benedict XVI triggers a -scandalous poverty- debate in Argentina, with Buenos Aires province governor Daniel Scioli preparing to meet with all Catholic bishops of his area. ](/news/2009/08/10/pope-benedict-xvi-triggers-a-scandalous-poverty-debate-in-argentina-with-buenos-aires-province-governor-daniel-scioli-preparing-to-m.md) _2018-02-06 13:49:19 (First version)_
 1. [ Pope Benedict XVI triggers a "scandalous poverty" debate in Argentina, with Buenos Aires province governor Daniel Scioli preparing to meet with all Catholic bishops of his area. ](/news/2009/08/10/pope-benedict-xvi-triggers-a-ascandalous-povertya-debate-in-argentina-with-buenos-aires-province-governor-daniel-scioli-preparing-to-m.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ At least 60 people killed after heavy rain triggers landslide in fishing village
 
 ### Changes:
 
-1. [2017 DR Congo mudslide: A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/2017-dr-congo-mudslide-a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _2017-08-27 03:48:48 (First version)_
+1. [2017 DR Congo mudslide: A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/2017-dr-congo-mudslide-a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _2018-02-06 13:49:31 (First version)_
 1. [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ _Context: constitutional, referendum, Irish_
 
 ##### footballer
 ### [ Football (soccer): Greece upset favourites Portugal in the Euro 2004 tournament opening match, beating the Portuguese 2-1. ](/news/2004/06/12/football-soccer-greece-upset-favourites-portugal-in-the-euro-2004-tournament-opening-match-beating-the-portuguese-2a1.md)
-_Context: Euro 2004, Portugal, footballer, Greece_
+_Context: Greece, Euro 2004, Portugal, footballer_
 
 ## [Previous Day...](/news/2004/06/11/index.md)
 

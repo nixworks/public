@@ -16,7 +16,7 @@ Japan on Monday switched on a radar station in the East China Sea, giving it a p
 
 ### Changes:
 
-1. [As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-isl.md) _2017-10-17 03:52:22 (First version)_
+1. [As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-isl.md) _2018-02-06 13:49:28 (First version)_
 1. [ As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.md) _(Current version)_
 
 ### Related:

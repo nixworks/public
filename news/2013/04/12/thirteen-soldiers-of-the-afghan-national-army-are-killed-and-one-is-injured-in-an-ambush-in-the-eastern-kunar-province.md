@@ -16,8 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/war-in-afghanistan-2001apresent-pthirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-eastern.md) _2017-08-25 03:38:18 (First version)_
-2. [War in Afghanistan (2001-present):: Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/war-in-afghanistan-2001-present-thirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-easter.md) _2017-08-27 03:38:30 (Update)_
+1. [War in Afghanistan (2001-present):Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/war-in-afghanistan-2001apresent-pthirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-eastern.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/war-in-afghanistan-2001-present-thirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-easter.md) _2018-02-06 13:49:24 (Update)_
 2. [Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/thirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-eastern-kunar-province.md) _(Current version)_
 
 ### Related:

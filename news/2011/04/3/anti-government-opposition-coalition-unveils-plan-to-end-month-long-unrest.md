@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/04/3/anti-government-opposition-coalition-unveils-pla
 
 ### Changes:
 
-1. [2011 Yemeni protests:Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-panti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md) _2017-08-25 03:32:43 (First version)_
-2. [2011 Yemeni protests:: Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md) _2017-08-27 03:32:51 (Update)_
+1. [2011 Yemeni protests:Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-panti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md) _(Current version)_
 
 ### Related:

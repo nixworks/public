@@ -18,7 +18,7 @@ Faisal Abedin Deepan killed on same day as attacks on publisher Ahmed Rahim Tutu
 
 ### Changes:
 
-1. [Attacks on secularists in Bangladesh: Faisal Abedin Deepan, a publisher of secular books, is hacked to death in Dhaka. ](/news/2015/10/31/attacks-on-secularists-in-bangladesh-faisal-abedin-deepan-a-publisher-of-secular-books-is-hacked-to-death-in-dhaka.md) _2017-08-27 03:43:37 (First version)_
+1. [Attacks on secularists in Bangladesh: Faisal Abedin Deepan, a publisher of secular books, is hacked to death in Dhaka. ](/news/2015/10/31/attacks-on-secularists-in-bangladesh-faisal-abedin-deepan-a-publisher-of-secular-books-is-hacked-to-death-in-dhaka.md) _2018-02-06 13:49:28 (First version)_
 1. [Faisal Abedin Deepan, a publisher of secular books, is hacked to death in Dhaka. ](/news/2015/10/31/faisal-abedin-deepan-a-publisher-of-secular-books-is-hacked-to-death-in-dhaka.md) _(Current version)_
 
 ### Related:

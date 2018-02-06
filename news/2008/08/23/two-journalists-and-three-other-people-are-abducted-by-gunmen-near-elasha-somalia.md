@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/08/23/two-journalists-and-three-other-people-are-abdu
 
 ### Changes:
 
-1. [ War in Somalia (2006-09): Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/war-in-somalia-2006-09-two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md) _2017-08-27 03:22:38 (First version)_
+1. [ War in Somalia (2006-09): Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/war-in-somalia-2006-09-two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md) _2018-02-06 13:49:18 (First version)_
 1. [ Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md) _(Current version)_
 
 ### Related:

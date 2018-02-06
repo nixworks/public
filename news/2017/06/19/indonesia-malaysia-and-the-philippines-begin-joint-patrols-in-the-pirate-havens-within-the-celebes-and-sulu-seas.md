@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-jo
 
 ### Changes:
 
-1. [Piracy in the Sulu Sea: Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/piracy-in-the-sulu-sea-indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md) _2017-08-27 03:48:31 (First version)_
+1. [Piracy in the Sulu Sea: Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/piracy-in-the-sulu-sea-indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md) _2018-02-06 13:49:30 (First version)_
 1. [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md) _(Current version)_
 
 ### Related:

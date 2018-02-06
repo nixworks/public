@@ -16,7 +16,7 @@ The majority died while trying to flee in their cars in the Pedrogao Grande area
 
 ### Changes:
 
-1. [2017 Portugal wildfires: Wildfires in central Portugal kill at least 24 people and several firefighters are among 20 injured. The death toll so far is the largest due to a wildfire in Portugal since 1966. ](/news/2017/06/17/2017-portugal-wildfires-wildfires-in-central-portugal-kill-at-least-24-people-and-several-firefighters-are-among-20-injured-the-death-toll.md) _2017-08-27 03:48:29 (First version)_
+1. [2017 Portugal wildfires: Wildfires in central Portugal kill at least 24 people and several firefighters are among 20 injured. The death toll so far is the largest due to a wildfire in Portugal since 1966. ](/news/2017/06/17/2017-portugal-wildfires-wildfires-in-central-portugal-kill-at-least-24-people-and-several-firefighters-are-among-20-injured-the-death-toll.md) _2018-02-06 13:49:30 (First version)_
 1. [Wildfires in central Portugal kill at least 24 people and several firefighters are among 20 injured. The death toll so far is the largest due to a wildfire in Portugal since 1966. ](/news/2017/06/17/wildfires-in-central-portugal-kill-at-least-24-people-and-several-firefighters-are-among-20-injured-the-death-toll-so-far-is-the-largest-du.md) _(Current version)_
 
 ### Related:

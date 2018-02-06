@@ -16,7 +16,7 @@ Armando Rios First Front calls on other units to join in the ‘fight for the ta
 
 ### Changes:
 
-1. [Colombian conflict: The Eastern Bloc of the FARC-EP, a unit of the FARC rebel group, announces its rejection of the recent ceasefire signed by its leader Timoleon Jimenez and the Colombian government of President Juan Manuel Santos, declaring it will not lay down its arms and demobilize and will continue to fight the government. ](/news/2016/07/7/colombian-conflict-the-eastern-bloc-of-the-farc-ep-a-unit-of-the-farc-rebel-group-announces-its-rejection-of-the-recent-ceasefire-signed.md) _2017-08-27 03:46:26 (First version)_
+1. [Colombian conflict: The Eastern Bloc of the FARC-EP, a unit of the FARC rebel group, announces its rejection of the recent ceasefire signed by its leader Timoleon Jimenez and the Colombian government of President Juan Manuel Santos, declaring it will not lay down its arms and demobilize and will continue to fight the government. ](/news/2016/07/7/colombian-conflict-the-eastern-bloc-of-the-farc-ep-a-unit-of-the-farc-rebel-group-announces-its-rejection-of-the-recent-ceasefire-signed.md) _2018-02-06 13:49:29 (First version)_
 1. [The Eastern Bloc of the FARC-EP, a unit of the FARC rebel group, announces its rejection of the recent ceasefire signed by its leader Timoleon Jimenez and the Colombian government of President Juan Manuel Santos, declaring it will not lay down its arms and demobilize and will continue to fight the government. ](/news/2016/07/7/the-eastern-bloc-of-the-farc-ep-a-unit-of-the-farc-rebel-group-announces-its-rejection-of-the-recent-ceasefire-signed-by-its-leader-timole.md) _(Current version)_
 
 ### Related:

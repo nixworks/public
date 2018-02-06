@@ -20,7 +20,7 @@ Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not
 
 ### Changes:
 
-1. [2016 Turkish coup d'etat attempt: The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/2016-turkish-coup-d-a-c-tat-attempt-the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-atte.md) _2017-08-27 03:46:30 (First version)_
+1. [2016 Turkish coup d'etat attempt: The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/2016-turkish-coup-d-a-c-tat-attempt-the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-atte.md) _2018-02-06 13:49:29 (First version)_
 1. [The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.md) _(Current version)_
 
 ### Related:

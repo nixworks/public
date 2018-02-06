@@ -18,8 +18,8 @@ Two people are shot dead and more than 400 injured in protests across Egypt spar
 
 ### Changes:
 
-1. [Egyptian protests:Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-protests-pegyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-said.md) _2017-08-25 03:34:57 (First version)_
-2. [Egyptian protests:: Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-protests-egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-sai.md) _2017-08-27 03:35:07 (Update)_
+1. [Egyptian protests:Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-protests-pegyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-said.md) _2018-02-06 13:49:23 (First version)_
+2. [Egyptian protests:: Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-protests-egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-sai.md) _2018-02-06 13:49:23 (Update)_
 2. [Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-said-stadium-clashes.md) _(Current version)_
 
 ### Related:

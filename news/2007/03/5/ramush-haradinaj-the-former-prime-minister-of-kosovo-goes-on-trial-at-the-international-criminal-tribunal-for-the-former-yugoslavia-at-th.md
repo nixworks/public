@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-ko
 
 ### Changes:
 
-1. [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-t.md) _2017-08-25 03:19:20 (First version)_
+1. [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-t.md) _2018-02-06 13:49:17 (First version)_
 1. [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-th.md) _(Current version)_
 
 ### Related:

@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-wil
 
 ### Changes:
 
-1. [Palestinian President Mahmoud Abbas has said he will not accept any US plan for peace with Israel, after it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-has-said-he-will-not-accept-any-us-plan-for-peace-with-israel-after-it-recognised-jerusalem-as-israel-s.md) _2017-12-22 17:30:06 (First version)_
-2. [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognised-jerusalem-as-israel-s-c.md) _2017-12-22 19:30:06 (Update)_
-3. [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s-c.md) _2017-12-23 00:30:05 (Update)_
+1. [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s-c.md) _2018-02-06 13:49:31 (First version)_
+2. [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognised-jerusalem-as-israel-s-c.md) _2018-02-06 13:49:31 (Update)_
+3. [Palestinian President Mahmoud Abbas has said he will not accept any US plan for peace with Israel, after it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-has-said-he-will-not-accept-any-us-plan-for-peace-with-israel-after-it-recognised-jerusalem-as-israel-s.md) _2018-02-06 13:49:31 (Update)_
 3. [Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-u-s-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s.md) _(Current version)_
 
 ### Related:

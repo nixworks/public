@@ -16,7 +16,7 @@ India and Pakistan exchangedgunfire and mortar bombs along their disputed fronti
 
 ### Changes:
 
-1. [2014-15 India-Pakistan border skirmishes: India and Pakistan exchanged gunfire and mortar bombs along their disputed frontier, killing five civilians and injuring more than a dozen. ](/news/2015/07/16/2014-15-india-pakistan-border-skirmishes-india-and-pakistan-exchanged-gunfire-and-mortar-bombs-along-their-disputed-frontier-killing-f.md) _2017-08-27 03:42:42 (First version)_
+1. [2014-15 India-Pakistan border skirmishes: India and Pakistan exchanged gunfire and mortar bombs along their disputed frontier, killing five civilians and injuring more than a dozen. ](/news/2015/07/16/2014-15-india-pakistan-border-skirmishes-india-and-pakistan-exchanged-gunfire-and-mortar-bombs-along-their-disputed-frontier-killing-f.md) _2018-02-06 13:49:27 (First version)_
 1. [India and Pakistan exchanged gunfire and mortar bombs along their disputed frontier, killing five civilians and injuring more than a dozen. ](/news/2015/07/16/india-and-pakistan-exchanged-gunfire-and-mortar-bombs-along-their-disputed-frontier-killing-five-civilians-and-injuring-more-than-a-dozen.md) _(Current version)_
 
 ### Related:

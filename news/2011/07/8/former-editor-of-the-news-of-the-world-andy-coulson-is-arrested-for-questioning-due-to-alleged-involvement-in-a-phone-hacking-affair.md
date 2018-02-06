@@ -20,8 +20,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Changes:
 
-1. [''News of the World'':Former editor of the ''News of the World'', Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/news-of-the-world-pformer-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a.md) _2017-08-25 03:33:43 (First version)_
-2. ["News of the World":: Former editor of the "News of the World", Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/news-of-the-world-former-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a-ph.md) _2017-08-27 03:33:51 (Update)_
+1. [''News of the World'':Former editor of the ''News of the World'', Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/news-of-the-world-pformer-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a.md) _2018-02-06 13:49:22 (First version)_
+2. ["News of the World":: Former editor of the "News of the World", Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/news-of-the-world-former-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a-ph.md) _2018-02-06 13:49:22 (Update)_
 2. [Former editor of the "News of the World", Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/former-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a-phone-hacking-affair.md) _(Current version)_
 
 ### Related:

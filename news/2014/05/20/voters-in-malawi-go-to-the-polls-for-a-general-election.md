@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/05/20/voters-in-malawi-go-to-the-polls-for-a-general-
 
 ### Changes:
 
-1. [Malawian general election:Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/malawian-general-election-pvoters-in-malawi-go-to-the-polls-for-a-general-election.md) _2017-08-25 03:40:25 (First version)_
-2. [Malawian general election:: Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/malawian-general-election-voters-in-malawi-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:40:43 (Update)_
+1. [Malawian general election:: Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/malawian-general-election-voters-in-malawi-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:26 (First version)_
+2. [Malawian general election:Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/malawian-general-election-pvoters-in-malawi-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/voters-in-malawi-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

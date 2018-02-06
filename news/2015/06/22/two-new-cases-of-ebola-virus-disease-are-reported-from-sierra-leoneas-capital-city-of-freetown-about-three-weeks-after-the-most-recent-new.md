@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/22/two-new-cases-of-ebola-virus-disease-are-report
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Two new cases of ebola virus disease are reported from Sierra Leone-s capital city of Freetown about three weeks after the most recent new cases were found.](/news/2015/06/22/ebola-virus-epidemic-in-west-africa-two-new-cases-of-ebola-virus-disease-are-reported-from-sierra-leone-s-capital-city-of-freetown-about.md) _2017-08-27 03:42:34 (First version)_
+1. [Ebola virus epidemic in West Africa: Two new cases of ebola virus disease are reported from Sierra Leone-s capital city of Freetown about three weeks after the most recent new cases were found.](/news/2015/06/22/ebola-virus-epidemic-in-west-africa-two-new-cases-of-ebola-virus-disease-are-reported-from-sierra-leone-s-capital-city-of-freetown-about.md) _2018-02-06 13:49:27 (First version)_
 1. [Two new cases of ebola virus disease are reported from Sierra Leone's capital city of Freetown about three weeks after the most recent new cases were found.](/news/2015/06/22/two-new-cases-of-ebola-virus-disease-are-reported-from-sierra-leoneas-capital-city-of-freetown-about-three-weeks-after-the-most-recent-new.md) _(Current version)_
 
 ### Related:

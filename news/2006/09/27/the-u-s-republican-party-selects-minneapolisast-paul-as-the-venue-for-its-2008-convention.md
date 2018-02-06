@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/27/the-u-s-republican-party-selects-minneapolisast
 
 ### Changes:
 
-1. [ The U.S. Republican Party selects Minneapolis-St. Paul as the venue for its 2008 convention. ](/news/2006/09/27/the-u-s-republican-party-selects-minneapolis-st-paul-as-the-venue-for-its-2008-convention.md) _2017-08-27 03:18:23 (First version)_
+1. [ The U.S. Republican Party selects Minneapolis-St. Paul as the venue for its 2008 convention. ](/news/2006/09/27/the-u-s-republican-party-selects-minneapolis-st-paul-as-the-venue-for-its-2008-convention.md) _2018-02-06 13:49:17 (First version)_
 1. [ The U.S. Republican Party selects Minneapolis-St. Paul as the venue for its 2008 convention. ](/news/2006/09/27/the-u-s-republican-party-selects-minneapolisast-paul-as-the-venue-for-its-2008-convention.md) _(Current version)_
 
 ### Related:

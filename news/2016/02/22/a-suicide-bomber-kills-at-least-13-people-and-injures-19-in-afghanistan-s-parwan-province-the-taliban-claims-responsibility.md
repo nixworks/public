@@ -16,7 +16,7 @@ A suicide bomber on a motorcycle killed 14 people and wounded another 11 at a cl
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban.md) _2017-08-27 03:44:59 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban-claims-responsibility.md) _(Current version)_
 
 ### Related:

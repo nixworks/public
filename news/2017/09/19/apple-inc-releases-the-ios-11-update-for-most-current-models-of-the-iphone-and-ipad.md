@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-c
 
 ### Changes:
 
-1. [Apple Inc. releases the iOS 11 update most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-most-current-models-of-the-iphone-and-ipad.md) _2017-09-20 18:30:05 (First version)_
+1. [Apple Inc. releases the iOS 11 update most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-most-current-models-of-the-iphone-and-ipad.md) _2018-02-06 13:49:31 (First version)_
 1. [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md) _(Current version)_
 
 ### Related:

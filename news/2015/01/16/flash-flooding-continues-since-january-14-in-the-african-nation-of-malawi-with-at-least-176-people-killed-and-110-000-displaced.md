@@ -16,8 +16,8 @@ At least 176 people die in flash floods and 110,000 people are displaced, Malawi
 
 ### Changes:
 
-1. [2015 Malawi floods:Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-pflash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-di.md) _2017-08-25 03:41:29 (First version)_
-2. [2015 Malawi floods:: Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-d.md) _2017-08-27 03:41:48 (Update)_
+1. [2015 Malawi floods:Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-pflash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-di.md) _2018-02-06 13:49:26 (First version)_
+2. [2015 Malawi floods:: Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-d.md) _2018-02-06 13:49:26 (Update)_
 2. [Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-displaced.md) _(Current version)_
 
 ### Related:

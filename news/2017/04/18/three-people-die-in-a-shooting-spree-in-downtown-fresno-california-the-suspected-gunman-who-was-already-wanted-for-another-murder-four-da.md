@@ -16,7 +16,7 @@ A man shot and killed three people in downtown Fresno and shouted, “Allahu akb
 
 ### Changes:
 
-1. [2017 Fresno shootings: Three people die in a shooting spree in downtown Fresno, California. The suspected gunman, who was already wanted for another murder four days earlier, and who expressed hatred of whites and the government, is arrested. ](/news/2017/04/18/2017-fresno-shootings-three-people-die-in-a-shooting-spree-in-downtown-fresno-california-the-suspected-gunman-who-was-already-wanted-for.md) _2017-08-27 03:48:11 (First version)_
+1. [2017 Fresno shootings: Three people die in a shooting spree in downtown Fresno, California. The suspected gunman, who was already wanted for another murder four days earlier, and who expressed hatred of whites and the government, is arrested. ](/news/2017/04/18/2017-fresno-shootings-three-people-die-in-a-shooting-spree-in-downtown-fresno-california-the-suspected-gunman-who-was-already-wanted-for.md) _2018-02-06 13:49:30 (First version)_
 1. [Three people die in a shooting spree in downtown Fresno, California. The suspected gunman, who was already wanted for another murder four days earlier, and who expressed hatred of whites and the government, is arrested. ](/news/2017/04/18/three-people-die-in-a-shooting-spree-in-downtown-fresno-california-the-suspected-gunman-who-was-already-wanted-for-another-murder-four-da.md) _(Current version)_
 
 ### Related:

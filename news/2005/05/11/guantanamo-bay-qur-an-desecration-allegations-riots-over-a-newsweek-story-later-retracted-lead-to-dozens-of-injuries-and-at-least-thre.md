@@ -17,7 +17,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Changes:
 
-1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a ''Newsweek'' story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-th.md) _2017-08-25 03:16:10 (First version)_
+1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a ''Newsweek'' story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-th.md) _2018-02-06 13:49:16 (First version)_
 1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a "Newsweek" story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.md) _(Current version)_
 
 ### Related:

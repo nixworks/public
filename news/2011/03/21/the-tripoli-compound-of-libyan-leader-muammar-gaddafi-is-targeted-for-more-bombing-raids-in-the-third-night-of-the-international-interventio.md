@@ -18,8 +18,8 @@ The four journalists, freed by the Libyan government on Monday, provided harrowi
 
 ### Changes:
 
-1. [2011 Libyan civil war:The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/2011-libyan-civil-war-pthe-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-in.md) _2017-08-25 03:32:36 (First version)_
-2. [2011 Libyan civil war:: The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/2011-libyan-civil-war-the-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-i.md) _2017-08-27 03:32:44 (Update)_
+1. [2011 Libyan civil war:: The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/2011-libyan-civil-war-the-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-i.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/2011-libyan-civil-war-pthe-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-in.md) _2018-02-06 13:49:22 (Update)_
 2. [The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/the-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-international-interventio.md) _(Current version)_
 
 ### Related:

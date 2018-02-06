@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/31/suspected-jewish-settlers-set-fire-to-a-west-ba
 
 ### Changes:
 
-1. [2015 West Bank Arson attack: Suspected Jewish settlers set fire to a West Bank home and burned a sleeping Palestinian toddler to death in an attack that drew Palestinian rage and widespread Israeli condemnation. ](/news/2015/07/31/2015-west-bank-arson-attack-suspected-jewish-settlers-set-fire-to-a-west-bank-home-and-burned-a-sleeping-palestinian-toddler-to-death-in-an.md) _2017-08-27 03:42:46 (First version)_
+1. [2015 West Bank Arson attack: Suspected Jewish settlers set fire to a West Bank home and burned a sleeping Palestinian toddler to death in an attack that drew Palestinian rage and widespread Israeli condemnation. ](/news/2015/07/31/2015-west-bank-arson-attack-suspected-jewish-settlers-set-fire-to-a-west-bank-home-and-burned-a-sleeping-palestinian-toddler-to-death-in-an.md) _2018-02-06 13:49:27 (First version)_
 1. [ Suspected Jewish settlers set fire to a West Bank home and burned a sleeping Palestinian toddler to death in an attack that drew Palestinian rage and widespread Israeli condemnation. ](/news/2015/07/31/suspected-jewish-settlers-set-fire-to-a-west-bank-home-and-burned-a-sleeping-palestinian-toddler-to-death-in-an-attack-that-drew-palestinia.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/10/10/hong-kong-s-occupy-central-protest-leaders-call
 
 ### Changes:
 
-1. [2014 Hong Kong protests:Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-phong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-k.md) _2017-08-25 03:41:04 (First version)_
-2. [2014 Hong Kong protests:: Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-hong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong.md) _2017-08-27 03:41:23 (Update)_
+1. [2014 Hong Kong protests:Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-phong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-k.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Hong Kong protests:: Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-hong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong.md) _2018-02-06 13:49:26 (Update)_
 2. [Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/hong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-kong-calls-off-planned-tal.md) _(Current version)_
 
 ### Related:

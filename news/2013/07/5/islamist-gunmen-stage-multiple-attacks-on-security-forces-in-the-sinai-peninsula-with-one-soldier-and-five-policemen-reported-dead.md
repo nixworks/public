@@ -18,8 +18,8 @@ Five Egyptian police officers were gunned down in separate incidents on Friday i
 
 ### Changes:
 
-1. [2013 Egyptian coup d'etat:Islamist gunmen stage multiple attacks on security forces in the Sinai Peninsula with one soldier and five policemen reported dead. ](/news/2013/07/5/2013-egyptian-coup-d-a-c-tat-pislamist-gunmen-stage-multiple-attacks-on-security-forces-in-the-sinai-peninsula-with-one-soldier-and-five-polic.md) _2017-08-25 03:38:57 (First version)_
-2. [2013 Egyptian coup d'etat:: Islamist gunmen stage multiple attacks on security forces in the Sinai Peninsula with one soldier and five policemen reported dead. ](/news/2013/07/5/2013-egyptian-coup-d-a-c-tat-islamist-gunmen-stage-multiple-attacks-on-security-forces-in-the-sinai-peninsula-with-one-soldier-and-five-poli.md) _2017-08-27 03:39:12 (Update)_
+1. [2013 Egyptian coup d'etat:Islamist gunmen stage multiple attacks on security forces in the Sinai Peninsula with one soldier and five policemen reported dead. ](/news/2013/07/5/2013-egyptian-coup-d-a-c-tat-pislamist-gunmen-stage-multiple-attacks-on-security-forces-in-the-sinai-peninsula-with-one-soldier-and-five-polic.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Egyptian coup d'etat:: Islamist gunmen stage multiple attacks on security forces in the Sinai Peninsula with one soldier and five policemen reported dead. ](/news/2013/07/5/2013-egyptian-coup-d-a-c-tat-islamist-gunmen-stage-multiple-attacks-on-security-forces-in-the-sinai-peninsula-with-one-soldier-and-five-poli.md) _2018-02-06 13:49:25 (Update)_
 2. [Islamist gunmen stage multiple attacks on security forces in the Sinai Peninsula with one soldier and five policemen reported dead. ](/news/2013/07/5/islamist-gunmen-stage-multiple-attacks-on-security-forces-in-the-sinai-peninsula-with-one-soldier-and-five-policemen-reported-dead.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ People seek higher ground as troops and civilians struggle to protect city of Th
 
 ### Changes:
 
-1. [2010 Pakistan floods: The historic city of Thatta is preserved by troops and volunteers fighting severe floodwaters in Pakistan; it had been thought of as being at great risk. ](/news/2010/08/30/2010-pakistan-floods-the-historic-city-of-thatta-is-preserved-by-troops-and-volunteers-fighting-severe-floodwaters-in-pakistan-it-had-been.md) _2017-08-27 03:29:48 (First version)_
+1. [2010 Pakistan floods: The historic city of Thatta is preserved by troops and volunteers fighting severe floodwaters in Pakistan; it had been thought of as being at great risk. ](/news/2010/08/30/2010-pakistan-floods-the-historic-city-of-thatta-is-preserved-by-troops-and-volunteers-fighting-severe-floodwaters-in-pakistan-it-had-been.md) _2018-02-06 13:49:20 (First version)_
 1. [The historic city of Thatta is preserved by troops and volunteers fighting severe floodwaters in Pakistan; it had been thought of as being at great risk. ](/news/2010/08/30/the-historic-city-of-thatta-is-preserved-by-troops-and-volunteers-fighting-severe-floodwaters-in-pakistan-it-had-been-thought-of-as-being-a.md) _(Current version)_
 
 ### Related:

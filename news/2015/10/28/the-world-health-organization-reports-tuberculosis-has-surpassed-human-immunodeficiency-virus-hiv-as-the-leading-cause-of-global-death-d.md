@@ -16,7 +16,7 @@ Tuberculosis has surpassed HIV as the leading global cause of death, despite the
 
 ### Changes:
 
-1. [The World Health Organization reports tuberculosis has surpassed human immunodeficiency virus (HIV), as the leading cause of global death, despite the death rate from tuberculosis having been cut in half over the last 25 years. Most deaths from tuberculosis could be prevented, researchers said, but detection and treatment aren't happening fast enough. ](/news/2015/10/28/the-world-health-organization-reports-tuberculosis-has-surpassed-human-immunodeficiency-virus-hiv-as-the-leading-cause-of-global-death.md) _2017-08-25 03:43:15 (First version)_
+1. [The World Health Organization reports tuberculosis has surpassed human immunodeficiency virus (HIV), as the leading cause of global death, despite the death rate from tuberculosis having been cut in half over the last 25 years. Most deaths from tuberculosis could be prevented, researchers said, but detection and treatment aren't happening fast enough. ](/news/2015/10/28/the-world-health-organization-reports-tuberculosis-has-surpassed-human-immunodeficiency-virus-hiv-as-the-leading-cause-of-global-death.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Health Organization reports tuberculosis has surpassed human immunodeficiency virus (HIV), as the leading cause of global death, despite the death rate from tuberculosis having been cut in half over the last 25 years. Most deaths from tuberculosis could be prevented, researchers said, but detection and treatment aren't happening fast enough. ](/news/2015/10/28/the-world-health-organization-reports-tuberculosis-has-surpassed-human-immunodeficiency-virus-hiv-as-the-leading-cause-of-global-death-d.md) _(Current version)_
 
 ### Related:

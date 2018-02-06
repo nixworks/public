@@ -17,7 +17,7 @@ Israel’s Avi Gabbay, who steered the country’s biggest telecommunications co
 
 ### Changes:
 
-1. [Next Israeli legislative election: Avi Gabbay, former minister of environmental protection in Benyamin Netanyahu's government, wins an upset victory in the primaries of the Israeli Labor Party, thus becoming leader of the opposition. ](/news/2017/07/10/next-israeli-legislative-election-avi-gabbay-former-minister-of-environmental-protection-in-benyamin-netanyahu-s-government-wins-an-upset.md) _2017-08-27 03:48:38 (First version)_
+1. [Next Israeli legislative election: Avi Gabbay, former minister of environmental protection in Benyamin Netanyahu's government, wins an upset victory in the primaries of the Israeli Labor Party, thus becoming leader of the opposition. ](/news/2017/07/10/next-israeli-legislative-election-avi-gabbay-former-minister-of-environmental-protection-in-benyamin-netanyahu-s-government-wins-an-upset.md) _2018-02-06 13:49:30 (First version)_
 1. [Avi Gabbay, former minister of environmental protection in Benyamin Netanyahu's government, wins an upset victory in the primaries of the Israeli Labor Party, thus becoming leader of the opposition. ](/news/2017/07/10/avi-gabbay-former-minister-of-environmental-protection-in-benyamin-netanyahu-s-government-wins-an-upset-victory-in-the-primaries-of-the-is.md) _(Current version)_
 
 ### Related:

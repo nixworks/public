@@ -18,7 +18,7 @@ People in the Chinese city of Tianjin whose homes were damaged by the huge explo
 
 ### Changes:
 
-1. [2015 Tianjin explosions: Protesters in Tianjin demand answers and compensation from the government. ](/news/2015/08/17/2015-tianjin-explosions-protesters-in-tianjin-demand-answers-and-compensation-from-the-government.md) _2017-08-27 03:42:51 (First version)_
+1. [2015 Tianjin explosions: Protesters in Tianjin demand answers and compensation from the government. ](/news/2015/08/17/2015-tianjin-explosions-protesters-in-tianjin-demand-answers-and-compensation-from-the-government.md) _2018-02-06 13:49:27 (First version)_
 1. [Protesters in Tianjin demand answers and compensation from the government. ](/news/2015/08/17/protesters-in-tianjin-demand-answers-and-compensation-from-the-government.md) _(Current version)_
 
 ### Related:

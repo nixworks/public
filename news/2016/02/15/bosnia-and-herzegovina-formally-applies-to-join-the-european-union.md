@@ -16,7 +16,7 @@ Bosnia-Herzegovina applies to join the EU - a milestone in its efforts to overco
 
 ### Changes:
 
-1. [Enlargement of the European Union: Bosnia and Herzegovina formally applies to join the European Union. ](/news/2016/02/15/enlargement-of-the-european-union-bosnia-and-herzegovina-formally-applies-to-join-the-european-union.md) _2017-08-27 03:44:55 (First version)_
+1. [Enlargement of the European Union: Bosnia and Herzegovina formally applies to join the European Union. ](/news/2016/02/15/enlargement-of-the-european-union-bosnia-and-herzegovina-formally-applies-to-join-the-european-union.md) _2018-02-06 13:49:28 (First version)_
 1. [Bosnia and Herzegovina formally applies to join the European Union. ](/news/2016/02/15/bosnia-and-herzegovina-formally-applies-to-join-the-european-union.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-b
 
 ### Changes:
 
-1. [Battle of Mosul: Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/battle-of-mosul-thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-de.md) _2017-08-27 03:48:00 (First version)_
+1. [Battle of Mosul: Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/battle-of-mosul-thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-de.md) _2018-02-06 13:49:30 (First version)_
 1. [Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. ](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-battle-between-iraqi-and-allied-forces-and-isil-militants-escalates-in-the-densely-populated-o.md) _(Current version)_
 
 ### Related:

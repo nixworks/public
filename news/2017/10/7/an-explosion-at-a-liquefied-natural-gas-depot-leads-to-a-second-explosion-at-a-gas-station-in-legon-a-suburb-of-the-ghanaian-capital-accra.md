@@ -17,7 +17,7 @@ Two people have been confirmed dead in the massive gas explosion that occurred a
 
 ### Changes:
 
-1. [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md) _2017-10-09 03:56:41 (First version)_
+1. [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md) _2018-02-06 13:49:31 (First version)_
 1. [An explosion at a liquefied natural gas depot leads to a second explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md) _(Current version)_
 
 ### Related:

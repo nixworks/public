@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/8/two-earthquakes-with-magnitudes-of-5-6-and-6-0-a
 
 ### Changes:
 
-1. [2017 Batangas earthquakes: Two earthquakes, with magnitudes of 5.6 and 6.0 and related to the April 4 magnitude 5.5 earthquake, hits Batangas, and are felt as far as Metro Manila ](/news/2017/04/8/2017-batangas-earthquakes-two-earthquakes-with-magnitudes-of-5-6-and-6-0-and-related-to-the-april-4-magnitude-5-5-earthquake-hits-batanga.md) _2017-08-27 03:48:07 (First version)_
+1. [2017 Batangas earthquakes: Two earthquakes, with magnitudes of 5.6 and 6.0 and related to the April 4 magnitude 5.5 earthquake, hits Batangas, and are felt as far as Metro Manila ](/news/2017/04/8/2017-batangas-earthquakes-two-earthquakes-with-magnitudes-of-5-6-and-6-0-and-related-to-the-april-4-magnitude-5-5-earthquake-hits-batanga.md) _2018-02-06 13:49:30 (First version)_
 1. [ Two earthquakes, with magnitudes of 5.6 and 6.0 and related to the April 4 magnitude 5.5 earthquake, hits Batangas, and are felt as far as Metro Manila ](/news/2017/04/8/two-earthquakes-with-magnitudes-of-5-6-and-6-0-and-related-to-the-april-4-magnitude-5-5-earthquake-hits-batangas-and-are-felt-as-far-as.md) _(Current version)_
 
 ### Related:

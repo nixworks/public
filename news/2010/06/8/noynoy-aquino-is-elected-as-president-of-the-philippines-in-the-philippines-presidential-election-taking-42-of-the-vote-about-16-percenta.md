@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-phi
 
 ### Changes:
 
-1. [Philippine presidential election, 2010: Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/philippine-presidential-election-2010-noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-t.md) _2017-08-27 03:28:10 (First version)_
+1. [Philippine presidential election, 2010: Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/philippine-presidential-election-2010-noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-t.md) _2018-02-06 13:49:20 (First version)_
 1. [Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-taking-42-of-the-vote-about-16-percenta.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/30/taliban-insurgents-attack-the-national-director
 
 ### Changes:
 
-1. [Taliban insurgency: Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgency-taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _2017-08-27 03:41:13 (First version)_
+1. [Taliban insurgency: Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgency-taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _2018-02-06 13:49:26 (First version)_
 1. [Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A bomb blast at a Shia mosque in southern Pakistan kills at least 40 people and 
 
 ### Changes:
 
-1. [Sectarianism in Pakistan: Sunni militants linked to the Pakistani Taliban kill at least 40 people and injure 50 in a bombing at a Shiite mosque in the Shikarpur District of Pakistan's Sindh province. ](/news/2015/01/30/sectarianism-in-pakistan-sunni-militants-linked-to-the-pakistani-taliban-kill-at-least-40-people-and-injure-50-in-a-bombing-at-a-shiite-mos.md) _2017-08-27 03:41:52 (First version)_
+1. [Sectarianism in Pakistan: Sunni militants linked to the Pakistani Taliban kill at least 40 people and injure 50 in a bombing at a Shiite mosque in the Shikarpur District of Pakistan's Sindh province. ](/news/2015/01/30/sectarianism-in-pakistan-sunni-militants-linked-to-the-pakistani-taliban-kill-at-least-40-people-and-injure-50-in-a-bombing-at-a-shiite-mos.md) _2018-02-06 13:49:26 (First version)_
 1. [Sunni militants linked to the Pakistani Taliban kill at least 40 people and injure 50 in a bombing at a Shiite mosque in the Shikarpur District of Pakistan's Sindh province. ](/news/2015/01/30/sunni-militants-linked-to-the-pakistani-taliban-kill-at-least-40-people-and-injure-50-in-a-bombing-at-a-shiite-mosque-in-the-shikarpur-distr.md) _(Current version)_
 
 ### Related:

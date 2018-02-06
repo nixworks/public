@@ -16,8 +16,8 @@ A suicide bomber kills at least eight people, including a key provincial ministe
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-pa-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _2017-08-25 03:37:06 (First version)_
-2. [War in North-West Pakistan:: A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _2017-08-27 03:37:17 (Update)_
+1. [War in North-West Pakistan:A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-pa-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md) _(Current version)_
 
 ### Related:

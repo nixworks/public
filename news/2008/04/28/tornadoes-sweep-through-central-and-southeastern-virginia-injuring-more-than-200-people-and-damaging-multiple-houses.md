@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/04/28/tornadoes-sweep-through-central-and-southeaster
 
 ### Changes:
 
-1. [ Tornadoes of 2008: Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-of-2008-tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md) _2017-08-27 03:21:59 (First version)_
+1. [ Tornadoes of 2008: Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-of-2008-tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md) _2018-02-06 13:49:18 (First version)_
 1. [ Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [War in Donbass: Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/war-in-donbass-luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk.md) _2017-08-27 03:43:08 (First version)_
+1. [War in Donbass: Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/war-in-donbass-luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk.md) _2018-02-06 13:49:27 (First version)_
 1. [Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk-region-in-easter.md) _(Current version)_
 
 ### Related:

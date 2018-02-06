@@ -17,7 +17,7 @@ Roque “Rocky” De La Fuente, an independent candidate for president who garne
 
 ### Changes:
 
-1. [2016 United States presidential election recounts: Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/2016-united-states-presidential-election-recounts-reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md) _2017-08-27 03:47:20 (First version)_
+1. [2016 United States presidential election recounts: Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/2016-united-states-presidential-election-recounts-reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md) _2018-02-06 13:49:29 (First version)_
 1. [Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md) _(Current version)_
 
 ### Related:

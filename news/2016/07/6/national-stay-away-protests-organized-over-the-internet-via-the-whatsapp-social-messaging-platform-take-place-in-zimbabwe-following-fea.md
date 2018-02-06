@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/6/national-stay-away-protests-organized-over-the-i
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/2016-zimbabwe-protests-national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in.md) _2017-08-27 03:46:25 (First version)_
+1. [2016 Zimbabwe protests: National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/2016-zimbabwe-protests-national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in.md) _2018-02-06 13:49:29 (First version)_
 1. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-p11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md) _2017-08-25 03:38:12 (First version)_
-2. [Nigerian Sharia conflict:: 11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md) _2017-08-27 03:38:23 (Update)_
+1. [Nigerian Sharia conflict:11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-p11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: 11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md) _2018-02-06 13:49:24 (Update)_
 2. [11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md) _(Current version)_
 
 ### Related:

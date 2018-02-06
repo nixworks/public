@@ -17,7 +17,7 @@ TV personality Kazuyoshi Morita, better known as Tamori, signed off from his noo
 
 ### Changes:
 
-1. [The Japanese TV series ''Waratte Iitomo!'', whose presenter Tamori holds the Guinness World Record for appearing on the show for 32 consecutive years, comes to an end as its 8054th and final episode airs. ](/news/2014/03/31/the-japanese-tv-series-waratte-iitomo-whose-presenter-tamori-holds-the-guinness-world-record-for-appearing-on-the-show-for-32-consecut.md) _2017-08-25 03:40:14 (First version)_
+1. [The Japanese TV series ''Waratte Iitomo!'', whose presenter Tamori holds the Guinness World Record for appearing on the show for 32 consecutive years, comes to an end as its 8054th and final episode airs. ](/news/2014/03/31/the-japanese-tv-series-waratte-iitomo-whose-presenter-tamori-holds-the-guinness-world-record-for-appearing-on-the-show-for-32-consecut.md) _2018-02-06 13:49:26 (First version)_
 1. [The Japanese TV series "Waratte Iitomo!", whose presenter Tamori holds the Guinness World Record for appearing on the show for 32 consecutive years, comes to an end as its 8054th and final episode airs. ](/news/2014/03/31/the-japanese-tv-series-waratte-iitomo-whose-presenter-tamori-holds-the-guinness-world-record-for-appearing-on-the-show-for-32-consecutiv.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Berlin called the crisis of refugees and migrants a threat to its national secur
 
 ### Changes:
 
-1. [European migrant crisis: Germany reintroduces emergency controls on its border with Austria. ](/news/2015/09/13/european-migrant-crisis-germany-reintroduces-emergency-controls-on-its-border-with-austria.md) _2017-08-27 03:43:02 (First version)_
+1. [European migrant crisis: Germany reintroduces emergency controls on its border with Austria. ](/news/2015/09/13/european-migrant-crisis-germany-reintroduces-emergency-controls-on-its-border-with-austria.md) _2018-02-06 13:49:27 (First version)_
 1. [Germany reintroduces emergency controls on its border with Austria. ](/news/2015/09/13/germany-reintroduces-emergency-controls-on-its-border-with-austria.md) _(Current version)_
 
 ### Related:

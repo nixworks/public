@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-sh
 
 ### Changes:
 
-1. [ Conflict in Iraq: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-p-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2017-08-25 03:16:47 (First version)_
-2. [ Conflict in Iraq:: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2017-08-27 03:16:49 (Update)_
+1. [ Conflict in Iraq: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-p-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2018-02-06 13:49:16 (Update)_
 2. [ 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _(Current version)_
 
 ### Related:

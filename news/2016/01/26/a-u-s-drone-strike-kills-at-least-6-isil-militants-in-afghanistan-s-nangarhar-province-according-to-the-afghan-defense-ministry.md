@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-milita
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/war-in-afghanistan-2015-present-a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-t.md) _2017-08-27 03:44:45 (First version)_
+1. [War in Afghanistan (2015-present): A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/war-in-afghanistan-2015-present-a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-t.md) _2018-02-06 13:49:28 (First version)_
 1. [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md) _(Current version)_
 
 ### Related:

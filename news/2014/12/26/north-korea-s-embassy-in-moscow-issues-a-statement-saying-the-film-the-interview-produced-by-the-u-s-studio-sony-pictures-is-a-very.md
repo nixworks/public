@@ -19,8 +19,8 @@ Sony will decide on a possible release in the country in the new year, but the m
 
 ### Changes:
 
-1. [North Korea's embassy in Moscow issues a statement, saying: "The film ''The Interview'', produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s-studio-sony-pictures-is-a-ver.md) _2017-08-25 03:41:23 (First version)_
-2. [Sony Pictures Entertainment hack: North Korea's embassy in Moscow issues a statement, saying: "The film "The Interview", produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/sony-pictures-entertainment-hack-north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s.md) _2017-08-27 03:41:41 (Update)_
+1. [Sony Pictures Entertainment hack: North Korea's embassy in Moscow issues a statement, saying: "The film "The Interview", produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/sony-pictures-entertainment-hack-north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s.md) _2018-02-06 13:49:26 (First version)_
+2. [North Korea's embassy in Moscow issues a statement, saying: "The film ''The Interview'', produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s-studio-sony-pictures-is-a-ver.md) _2018-02-06 13:49:26 (Update)_
 2. [North Korea's embassy in Moscow issues a statement, saying: "The film "The Interview", produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s-studio-sony-pictures-is-a-very.md) _(Current version)_
 
 ### Related:

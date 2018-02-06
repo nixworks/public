@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/05/10/multiple-tornadoes-across-oklahoma-and-kansas-r
 
 ### Changes:
 
-1. [Multiple tornadoes across Oklahoma and Kansas result in at least 5 deaths and 58 injuries. Twisters hit a truck stop near Midwest City and locations in Oklahoma City. ](/news/2010/05/10/multiple-tornadoes-across-oklahoma-and-kansas-result-in-at-least-5-deaths-and-58-injuries-twisters-hit-a-truck-stop-near-midwest-city-and.md) _2017-08-25 03:27:53 (First version)_
+1. [Multiple tornadoes across Oklahoma and Kansas result in at least 5 deaths and 58 injuries. Twisters hit a truck stop near Midwest City and locations in Oklahoma City. ](/news/2010/05/10/multiple-tornadoes-across-oklahoma-and-kansas-result-in-at-least-5-deaths-and-58-injuries-twisters-hit-a-truck-stop-near-midwest-city-and.md) _2018-02-06 13:49:20 (First version)_
 1. [Multiple tornadoes across Oklahoma and Kansas result in at least 5 deaths and 58 injuries. Twisters hit a truck stop near Midwest City and locations in Oklahoma City. ](/news/2010/05/10/multiple-tornadoes-across-oklahoma-and-kansas-result-in-at-least-5-deaths-and-58-injuries-twisters-hit-a-truck-stop-near-midwest-city-and-l.md) _(Current version)_
 
 ### Related:

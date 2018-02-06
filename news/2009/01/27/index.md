@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/27/index.html)  [JSON](2009/01/27/index.json)  [XML](200
 
 ##### Sir
 ### [ Sir Paul Stephenson is appointed Commissioner of London's Metropolitan Police Service. ](/news/2009/01/27/sir-paul-stephenson-is-appointed-commissioner-of-london-s-metropolitan-police-service.md)
-_Context: Commissioner, London, Paul Stephenson, Sir, Metropolitan Police Service_
+_Context: London, Sir, Metropolitan Police Service, Commissioner, Paul Stephenson_
 
 ##### fire
 ### [ At least one person is killed and eight wounded by Israeli attacks on the Gaza Strip. ](/news/2009/01/27/at-least-one-person-is-killed-and-eight-wounded-by-israeli-attacks-on-the-gaza-strip.md)
@@ -17,23 +17,23 @@ A man shot and killed his wife and five young children before taking his own lif
 
 ##### the state
 ### [ Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud. ](/news/2009/01/27/florida-hedge-fund-manager-arthur-nadel-is-arrested-by-the-united-states-federal-bureau-of-investigation-and-charged-with-fraud.md)
-_Context: hedge fund, FBI, the state, United States, fraud, Arthur Nadel_
+_Context: the state, FBI, United States, fraud, hedge fund, Arthur Nadel_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom Information Tribunal orders Her Majesty's Government to release the minutes of Cabinet discussions regarding the 2003 invasion of Iraq. ](/news/2009/01/27/the-united-kingdom-information-tribunal-orders-her-majesty-s-government-to-release-the-minutes-of-cabinet-discussions-regarding-the-2003-in.md)
-_Context: Iraq, U.K. Cabinet, Information Tribunal, 2003 invasion of Iraq, 2003, His Majesty's Government, British, minutes_
+_Context: United Kingdom, Iraq, 2003 invasion of Iraq, U.K. Cabinet, minutes, 2003, His Majesty's Government, Information Tribunal_
 
-##### British
+##### United Kingdom
 ### [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a GBP2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-agbp2-3-billion-bailout-for-the.md)
-_Context: British motor industry, Secretary of State for Business, Enterprise and Regulatory Reform, Peter Mandelson, bailout, British, GBP_
+_Context: Secretary of State for Business, Enterprise and Regulatory Reform, GBP, bailout, British motor industry, Peter Mandelson, United Kingdom_
 
 ##### Iran
 ### [ Iran will have enough enriched uranium to make a single nuclear weapon later this year, the International Institute for Strategic Studies predicts. ](/news/2009/01/27/iran-will-have-enough-enriched-uranium-to-make-a-single-nuclear-weapon-later-this-year-the-international-institute-for-strategic-studies-p.md)
-_Context: International Institute for Strategic Studies, uranium enrichment, Iran, nuclear weapon, uranium_
+_Context: uranium enrichment, nuclear weapon, International Institute for Strategic Studies, uranium, Iran_
 
 ##### FedEx
 ### [ Two crew members escape a FedEx ATR 42 that crashed at Texas's Lubbock Preston Smith International Airport. ](/news/2009/01/27/two-crew-members-escape-a-fedex-atr-42-that-crashed-at-texas-s-lubbock-preston-smith-international-airport.md)
-_Context: Lubbock Preston Smith International Airport, ATR 42, Texas, FedEx, crashed_
+_Context: Texas, Lubbock Preston Smith International Airport, FedEx, ATR 42, crashed_
 
 ##### World Social Forum
 ### [ The ninth World Social Forum is held in Belem, Brazil. ](/news/2009/01/27/the-ninth-world-social-forum-is-held-in-bela-c-m-brazil.md)
@@ -45,7 +45,7 @@ An armed man surrendered to police after hijacking a bus and holding 37 people a
 
 ##### Pacific Islands Forum
 ### [ A special leaders meeting of the Pacific Islands Forum, held in Papua New Guinea, sets a deadline of 1 May for Fiji to set a date for elections before the end of the year. Fiji rejects the deadline. ](/news/2009/01/27/a-special-leaders-meeting-of-the-pacific-islands-forum-held-in-papua-new-guinea-sets-a-deadline-of-1-may-for-fiji-to-set-a-date-for-elect.md)
-_Context: Fiji, Papua New Guinea, Pacific Islands Forum_
+_Context: Pacific Islands Forum, Papua New Guinea, Fiji_
 
 ## [Previous Day...](/news/2009/01/26/index.md)
 

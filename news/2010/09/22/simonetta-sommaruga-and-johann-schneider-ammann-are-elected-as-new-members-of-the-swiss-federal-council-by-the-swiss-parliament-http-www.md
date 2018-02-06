@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann
 
 ### Changes:
 
-1. [Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. ](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann-are-elected-as-new-members-of-the-swiss-federal-council-by-the-swiss-parliament.md) _2017-08-25 03:30:10 (First version)_
+1. [Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. ](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann-are-elected-as-new-members-of-the-swiss-federal-council-by-the-swiss-parliament.md) _2018-02-06 13:49:20 (First version)_
 1. [Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. [http:--www.parlament.ch-d-wahlen-abstimmungen-wahlen-im-parlament-bundesratswahlen-ruektritt-leuenberger-merz-Seiten-default.aspx "Swiss parliament dossier (german)"]](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann-are-elected-as-new-members-of-the-swiss-federal-council-by-the-swiss-parliament-http-www.md) _(Current version)_
 
 ### Related:

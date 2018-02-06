@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-
 
 ### Changes:
 
-1. [Syrian civil war: A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/syrian-civil-war-a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-fiv.md) _2017-08-27 03:46:35 (First version)_
+1. [Syrian civil war: A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/syrian-civil-war-a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-fiv.md) _2018-02-06 13:49:29 (First version)_
 1. [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [South Sudan-Sudan border conflict:Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudanasudan-border-conflict-psudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terri.md) _2017-08-25 03:35:31 (First version)_
-2. [South Sudan-Sudan border conflict:: Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudan-sudan-border-conflict-sudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terr.md) _2017-08-27 03:35:40 (Update)_
+1. [South Sudan-Sudan border conflict:Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudanasudan-border-conflict-psudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terri.md) _2018-02-06 13:49:23 (First version)_
+2. [South Sudan-Sudan border conflict:: Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudan-sudan-border-conflict-sudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terr.md) _2018-02-06 13:49:23 (Update)_
 2. [Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/sudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-territory-as-clashes-spread-along-the-bord.md) _(Current version)_
 
 ### Related:

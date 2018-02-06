@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-i
 
 ### Changes:
 
-1. [Military intervention against ISIL: A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/military-intervention-against-isil-a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles.md) _2017-08-27 03:47:27 (First version)_
+1. [Military intervention against ISIL: A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/military-intervention-against-isil-a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles.md) _2018-02-06 13:49:29 (First version)_
 1. [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md) _(Current version)_
 
 ### Related:

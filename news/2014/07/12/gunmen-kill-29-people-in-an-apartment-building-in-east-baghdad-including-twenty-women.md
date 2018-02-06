@@ -17,8 +17,8 @@ Some 29 people, 20 of them women, were killed on Saturday evening in an apartmen
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/iraqi-insurgency-post-u-s-withdrawal-pgunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _2017-08-25 03:40:40 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/iraqi-insurgency-post-u-s-withdrawal-gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _2017-08-27 03:40:58 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/iraqi-insurgency-post-u-s-withdrawal-pgunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/iraqi-insurgency-post-u-s-withdrawal-gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _2018-02-06 13:49:26 (Update)_
 2. [Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md) _(Current version)_
 
 ### Related:

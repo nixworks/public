@@ -16,7 +16,7 @@ Islamist militants al Shabaab seized control of two towns over two days in south
 
 ### Changes:
 
-1. [War in Somalia (2009-present): al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/war-in-somalia-2009-present-al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _2017-08-27 03:42:58 (First version)_
+1. [War in Somalia (2009-present): al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/war-in-somalia-2009-present-al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _2018-02-06 13:49:27 (First version)_
 1. [al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _(Current version)_
 
 ### Related:

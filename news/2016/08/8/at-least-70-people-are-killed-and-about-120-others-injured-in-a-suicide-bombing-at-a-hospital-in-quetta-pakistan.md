@@ -17,7 +17,7 @@ A suicide bomb attack at a hospital in the Pakistani city of Quetta kills at lea
 
 ### Changes:
 
-1. [Quetta Bombing: At least 70 people are killed and about 120 others injured in a suicide bombing at a hospital in Quetta, Pakistan. ](/news/2016/08/8/quetta-bombing-at-least-70-people-are-killed-and-about-120-others-injured-in-a-suicide-bombing-at-a-hospital-in-quetta-pakistan.md) _2017-08-27 03:46:37 (First version)_
+1. [Quetta Bombing: At least 70 people are killed and about 120 others injured in a suicide bombing at a hospital in Quetta, Pakistan. ](/news/2016/08/8/quetta-bombing-at-least-70-people-are-killed-and-about-120-others-injured-in-a-suicide-bombing-at-a-hospital-in-quetta-pakistan.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 70 people are killed and about 120 others injured in a suicide bombing at a hospital in Quetta, Pakistan. ](/news/2016/08/8/at-least-70-people-are-killed-and-about-120-others-injured-in-a-suicide-bombing-at-a-hospital-in-quetta-pakistan.md) _(Current version)_
 
 ### Related:

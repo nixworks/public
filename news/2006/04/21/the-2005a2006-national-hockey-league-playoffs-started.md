@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/04/21/the-2005a2006-national-hockey-league-playoffs-s
 
 ### Changes:
 
-1. [ The 2005-2006 National Hockey League playoffs started.](/news/2006/04/21/the-2005-2006-national-hockey-league-playoffs-started.md) _2017-08-27 03:17:34 (First version)_
+1. [ The 2005-2006 National Hockey League playoffs started.](/news/2006/04/21/the-2005-2006-national-hockey-league-playoffs-started.md) _2018-02-06 13:49:17 (First version)_
 1. [ The 2005-2006 National Hockey League playoffs started.](/news/2006/04/21/the-2005a2006-national-hockey-league-playoffs-started.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The Southern California megachurch founded by televangelist Robert Schuller file
 
 ### Changes:
 
-1. [The Crystal Cathedral Ministries, the California megachurch founded by televangelist Robert Schuller and best known for its weekly ''The Hour of Power'' television program, files for bankruptcy court protection. ](/news/2010/10/19/the-crystal-cathedral-ministries-the-california-megachurch-founded-by-televangelist-robert-schuller-and-best-known-for-its-weekly-the-hou.md) _2017-08-25 03:30:35 (First version)_
+1. [The Crystal Cathedral Ministries, the California megachurch founded by televangelist Robert Schuller and best known for its weekly ''The Hour of Power'' television program, files for bankruptcy court protection. ](/news/2010/10/19/the-crystal-cathedral-ministries-the-california-megachurch-founded-by-televangelist-robert-schuller-and-best-known-for-its-weekly-the-hou.md) _2018-02-06 13:49:20 (First version)_
 1. [The Crystal Cathedral Ministries, the California megachurch founded by televangelist Robert Schuller and best known for its weekly "The Hour of Power" television program, files for bankruptcy court protection. ](/news/2010/10/19/the-crystal-cathedral-ministries-the-california-megachurch-founded-by-televangelist-robert-schuller-and-best-known-for-its-weekly-the-hour.md) _(Current version)_
 
 ### Related:

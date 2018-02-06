@@ -17,8 +17,8 @@ A mummy dating back about 3,500 years is among items discovered in the two tombs
 
 ### Changes:
 
-1. [Archaeologists in Egypt have displayed items, including a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor.](/news/2017/12/9/archaeologists-in-egypt-have-displayed-items-including-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-nile-city-of-lux.md) _2017-12-09 18:30:07 (First version)_
-2. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md) _2017-12-10 14:30:06 (Update)_
+1. [Archaeologists in Egypt have displayed items, including a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor.](/news/2017/12/9/archaeologists-in-egypt-have-displayed-items-including-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-nile-city-of-lux.md) _2018-02-06 13:49:31 (First version)_
+2. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md) _2018-02-06 13:49:31 (Update)_
 2. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md) _(Current version)_
 
 ### Related:

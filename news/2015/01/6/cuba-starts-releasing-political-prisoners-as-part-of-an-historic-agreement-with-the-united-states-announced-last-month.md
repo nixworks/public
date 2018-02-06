@@ -16,7 +16,7 @@ State Department says â€˜We would like to see this completed in the near futureâ
 
 ### Changes:
 
-1. [Cuba-United States relations: Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-united-states-relations-cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced.md) _2017-08-27 03:41:44 (First version)_
+1. [Cuba-United States relations: Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-united-states-relations-cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced.md) _2018-02-06 13:49:26 (First version)_
 1. [Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced-last-month.md) _(Current version)_
 
 ### Related:

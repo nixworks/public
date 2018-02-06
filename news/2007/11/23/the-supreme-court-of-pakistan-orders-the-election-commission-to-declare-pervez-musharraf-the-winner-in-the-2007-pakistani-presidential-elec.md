@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/23/the-supreme-court-of-pakistan-orders-the-electi
 
 ### Changes:
 
-1. [ 2007 Pakistani state of emergency: The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-p-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md) _2017-08-25 03:21:28 (First version)_
-2. [ 2007 Pakistani state of emergency:: The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md) _2017-08-27 03:21:23 (Update)_
+1. [ 2007 Pakistani state of emergency:: The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pakistani state of emergency: The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-p-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in-the-2007-pakistani-presidential-elec.md) _(Current version)_
 
 ### Related:

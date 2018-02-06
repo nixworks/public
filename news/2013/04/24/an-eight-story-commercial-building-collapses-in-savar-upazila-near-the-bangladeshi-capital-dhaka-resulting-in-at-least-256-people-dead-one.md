@@ -17,8 +17,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2013 Savar building collapse:An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/2013-savar-building-collapse-pan-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-in.md) _2017-08-25 03:38:28 (First version)_
-2. [2013 Savar building collapse:: An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/2013-savar-building-collapse-an-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-i.md) _2017-08-27 03:38:41 (Update)_
+1. [2013 Savar building collapse:An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/2013-savar-building-collapse-pan-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-in.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Savar building collapse:: An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/2013-savar-building-collapse-an-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-i.md) _2018-02-06 13:49:24 (Update)_
 2. [An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/an-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-in-at-least-256-people-dead-one.md) _(Current version)_
 
 ### Related:

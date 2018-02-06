@@ -18,8 +18,8 @@ Defeated Syrian rebels abandoned their shattered stronghold in Homs, giving way 
 
 ### Changes:
 
-1. [Syria:Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-psyrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _2017-08-25 03:35:11 (First version)_
-2. [Syria:: Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _2017-08-27 03:35:20 (Update)_
+1. [Syria:: Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _2018-02-06 13:49:23 (First version)_
+2. [Syria:Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-psyrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/10/24/two-attacks-by-militants-on-egyptian-military-p
 
 ### Changes:
 
-1. [Sinai insurgency:Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/sinai-insurgency-ptwo-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md) _2017-08-25 03:41:07 (First version)_
-2. [Sinai insurgency:: Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/sinai-insurgency-two-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md) _2017-08-27 03:41:26 (Update)_
+1. [Sinai insurgency:: Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/sinai-insurgency-two-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinai insurgency:Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/sinai-insurgency-ptwo-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md) _2018-02-06 13:49:26 (Update)_
 2. [Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/two-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md) _(Current version)_
 
 ### Related:

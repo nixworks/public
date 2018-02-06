@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma
 
 ### Changes:
 
-1. [Ma Jian, author of the banned novel ''Beijing Coma'', daubs red paint over his face at the London Book Fair and calls Chinese publishers "the mouthpiece of the Chinese communist party." ](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma-daubs-red-paint-over-his-face-at-the-london-book-fair-and-calls-chinese-publishers-th.md) _2017-08-25 03:35:32 (First version)_
+1. [Ma Jian, author of the banned novel ''Beijing Coma'', daubs red paint over his face at the London Book Fair and calls Chinese publishers "the mouthpiece of the Chinese communist party." ](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma-daubs-red-paint-over-his-face-at-the-london-book-fair-and-calls-chinese-publishers-th.md) _2018-02-06 13:49:23 (First version)_
 1. [Ma Jian, author of the banned novel "Beijing Coma", daubs red paint over his face at the London Book Fair and calls Chinese publishers "the mouthpiece of the Chinese communist party." ](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma-daubs-red-paint-over-his-face-at-the-london-book-fair-and-calls-chinese-publishers-the.md) _(Current version)_
 
 ### Related:

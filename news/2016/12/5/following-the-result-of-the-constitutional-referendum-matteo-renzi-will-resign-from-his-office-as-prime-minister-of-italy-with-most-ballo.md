@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/5/following-the-result-of-the-constitutional-refer
 
 ### Changes:
 
-1. [Italian constitutional referendum, 2016: Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/italian-constitutional-referendum-2016-following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as.md) _2017-08-27 03:47:23 (First version)_
+1. [Italian constitutional referendum, 2016: Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/italian-constitutional-referendum-2016-following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as.md) _2018-02-06 13:49:30 (First version)_
 1. [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md) _(Current version)_
 
 ### Related:

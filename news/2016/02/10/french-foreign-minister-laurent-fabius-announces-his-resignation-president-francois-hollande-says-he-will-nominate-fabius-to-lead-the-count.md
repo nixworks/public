@@ -17,7 +17,7 @@ French Foreign Minister Laurent Fabius said he was resigning after serving nearl
 
 ### Changes:
 
-1. [French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. ](/news/2016/02/10/french-foreign-minister-laurent-fabius-announces-his-resignation-president-francois-hollande-says-he-will-nominate-fabius-to-lead-the-coun.md) _2017-08-25 03:44:31 (First version)_
+1. [French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. ](/news/2016/02/10/french-foreign-minister-laurent-fabius-announces-his-resignation-president-francois-hollande-says-he-will-nominate-fabius-to-lead-the-coun.md) _2018-02-06 13:49:28 (First version)_
 1. [French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. ](/news/2016/02/10/french-foreign-minister-laurent-fabius-announces-his-resignation-president-francois-hollande-says-he-will-nominate-fabius-to-lead-the-count.md) _(Current version)_
 
 ### Related:

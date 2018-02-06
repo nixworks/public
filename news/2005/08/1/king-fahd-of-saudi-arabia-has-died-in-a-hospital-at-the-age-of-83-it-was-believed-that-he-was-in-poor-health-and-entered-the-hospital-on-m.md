@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ King Fahd of Saudi Arabia has died in a hospital at the age of 83. It was believed that he was in poor health and entered the hospital on May 27 with acute pneumonia. Crown Prince Abdullah, who had been effective regent for years, accedes to the throne. Defence Minister Prince Sultan will be the new Crown Prince. (Wikinews) ](/news/2005/08/1/king-fahd-of-saudi-arabia-has-died-in-a-hospital-at-the-age-of-83-it-was-believed-that-he-was-in-poor-health-and-entered-the-hospital-on.md) _2017-08-25 03:16:37 (First version)_
+1. [ King Fahd of Saudi Arabia has died in a hospital at the age of 83. It was believed that he was in poor health and entered the hospital on May 27 with acute pneumonia. Crown Prince Abdullah, who had been effective regent for years, accedes to the throne. Defence Minister Prince Sultan will be the new Crown Prince. (Wikinews) ](/news/2005/08/1/king-fahd-of-saudi-arabia-has-died-in-a-hospital-at-the-age-of-83-it-was-believed-that-he-was-in-poor-health-and-entered-the-hospital-on.md) _2018-02-06 13:49:16 (First version)_
 1. [ King Fahd of Saudi Arabia has died in a hospital at the age of 83. It was believed that he was in poor health and entered the hospital on May 27 with acute pneumonia. Crown Prince Abdullah, who had been effective regent for years, accedes to the throne. Defence Minister Prince Sultan will be the new Crown Prince. (Wikinews) ](/news/2005/08/1/king-fahd-of-saudi-arabia-has-died-in-a-hospital-at-the-age-of-83-it-was-believed-that-he-was-in-poor-health-and-entered-the-hospital-on-m.md) _(Current version)_
 
 ### Related:

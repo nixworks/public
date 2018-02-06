@@ -18,7 +18,7 @@ Singapore closed most of its eastern beaches due to the oil spilt in nearby wate
 
 ### Changes:
 
-1. [Singapore closes beaches along 7.2 kilometers (4.5 miles) of its east coast as an oil spill from the damaged Malaysian tanker MT ''Bunga Kelana 3'' continues to spread. ](/news/2010/05/27/singapore-closes-beaches-along-7-2-kilometers-4-5-miles-of-its-east-coast-as-an-oil-spill-from-the-damaged-malaysian-tanker-mt-bunga-kel.md) _2017-08-25 03:28:03 (First version)_
+1. [Singapore closes beaches along 7.2 kilometers (4.5 miles) of its east coast as an oil spill from the damaged Malaysian tanker MT ''Bunga Kelana 3'' continues to spread. ](/news/2010/05/27/singapore-closes-beaches-along-7-2-kilometers-4-5-miles-of-its-east-coast-as-an-oil-spill-from-the-damaged-malaysian-tanker-mt-bunga-kel.md) _2018-02-06 13:49:20 (First version)_
 1. [Singapore closes beaches along 7.2 kilometers (4.5 miles) of its east coast as an oil spill from the damaged Malaysian tanker MT "Bunga Kelana 3" continues to spread. ](/news/2010/05/27/singapore-closes-beaches-along-7-2-kilometers-4-5-miles-of-its-east-coast-as-an-oil-spill-from-the-damaged-malaysian-tanker-mt-bunga-kela.md) _(Current version)_
 
 ### Related:

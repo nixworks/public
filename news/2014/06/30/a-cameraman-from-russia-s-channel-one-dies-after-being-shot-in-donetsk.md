@@ -16,7 +16,7 @@ A cameraman for Russia&#039;s Channel One TV station died from injuries after be
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: A cameraman from Russia's Channel One dies after being shot in Donetsk. ](/news/2014/06/30/2014-pro-russian-conflict-in-ukraine-a-cameraman-from-russia-s-channel-one-dies-after-being-shot-in-donetsk.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: A cameraman from Russia's Channel One dies after being shot in Donetsk. ](/news/2014/06/30/2014-pro-russian-conflict-in-ukraine-a-cameraman-from-russia-s-channel-one-dies-after-being-shot-in-donetsk.md) _2018-02-06 13:49:26 (First version)_
 1. [A cameraman from Russia's Channel One dies after being shot in Donetsk. ](/news/2014/06/30/a-cameraman-from-russia-s-channel-one-dies-after-being-shot-in-donetsk.md) _(Current version)_
 
 ### Related:

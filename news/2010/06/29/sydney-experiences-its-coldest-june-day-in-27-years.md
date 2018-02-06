@@ -19,8 +19,8 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 
 ### Changes:
 
-1. [Australian WinterSydney experiences its coldest June day in 27 years. ](/news/2010/06/29/australian-winterpsydney-experiences-its-coldest-june-day-in-27-years.md) _2017-08-25 03:28:30 (First version)_
-2. [Australian Winter: Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/australian-winter-sydney-experiences-its-coldest-june-day-in-27-years.md) _2017-08-27 03:28:30 (Update)_
+1. [Australian WinterSydney experiences its coldest June day in 27 years. ](/news/2010/06/29/australian-winterpsydney-experiences-its-coldest-june-day-in-27-years.md) _2018-02-06 13:49:20 (First version)_
+2. [Australian Winter: Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/australian-winter-sydney-experiences-its-coldest-june-day-in-27-years.md) _2018-02-06 13:49:20 (Update)_
 2. [Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/sydney-experiences-its-coldest-june-day-in-27-years.md) _(Current version)_
 
 ### Related:

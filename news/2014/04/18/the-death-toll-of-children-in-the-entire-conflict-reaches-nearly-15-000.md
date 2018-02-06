@@ -15,6 +15,6 @@ Londonbased human rights group says over 2 million children are malnourished and
 
 ### Changes:
 
-1. [Syrian civil war:The death toll of children in the entire conflict reaches nearly 15,000. ](/news/2014/04/18/syrian-civil-war-pthe-death-toll-of-children-in-the-entire-conflict-reaches-nearly-15-000.md) _2017-08-25 03:40:18 (First version)_
-2. [Syrian civil war:: The death toll of children in the entire conflict reaches nearly 15,000. ](/news/2014/04/18/syrian-civil-war-the-death-toll-of-children-in-the-entire-conflict-reaches-nearly-15-000.md) _2017-08-27 03:40:36 (Update)_
+1. [Syrian civil war:: The death toll of children in the entire conflict reaches nearly 15,000. ](/news/2014/04/18/syrian-civil-war-the-death-toll-of-children-in-the-entire-conflict-reaches-nearly-15-000.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian civil war:The death toll of children in the entire conflict reaches nearly 15,000. ](/news/2014/04/18/syrian-civil-war-pthe-death-toll-of-children-in-the-entire-conflict-reaches-nearly-15-000.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll of children in the entire conflict reaches nearly 15,000. ](/news/2014/04/18/the-death-toll-of-children-in-the-entire-conflict-reaches-nearly-15-000.md) _(Current version)_

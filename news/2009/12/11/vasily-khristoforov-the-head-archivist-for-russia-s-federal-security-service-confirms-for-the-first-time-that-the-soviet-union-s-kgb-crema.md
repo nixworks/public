@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/12/11/vasily-khristoforov-the-head-archivist-for-russ
 
 ### Changes:
 
-1. [ Vasily Khristoforov, the head archivist for Russia's Federal Security Service confirms for the first time that the Soviet Union's KGB cremated Adolf Hitler's body in 1970 and scattered his ashes in the Biederitz River. ](/news/2009/12/11/vasily-khristoforov-the-head-archivist-for-russia-s-federal-security-service-confirms-for-the-first-time-that-the-soviet-union-s-kgb-crem.md) _2017-08-25 03:26:34 (First version)_
+1. [ Vasily Khristoforov, the head archivist for Russia's Federal Security Service confirms for the first time that the Soviet Union's KGB cremated Adolf Hitler's body in 1970 and scattered his ashes in the Biederitz River. ](/news/2009/12/11/vasily-khristoforov-the-head-archivist-for-russia-s-federal-security-service-confirms-for-the-first-time-that-the-soviet-union-s-kgb-crem.md) _2018-02-06 13:49:19 (First version)_
 1. [ Vasily Khristoforov, the head archivist for Russia's Federal Security Service confirms for the first time that the Soviet Union's KGB cremated Adolf Hitler's body in 1970 and scattered his ashes in the Biederitz River. ](/news/2009/12/11/vasily-khristoforov-the-head-archivist-for-russia-s-federal-security-service-confirms-for-the-first-time-that-the-soviet-union-s-kgb-crema.md) _(Current version)_
 
 ### Related:

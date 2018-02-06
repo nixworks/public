@@ -17,7 +17,7 @@ The previous guidelines let transgender students use toilets matching their gend
 
 ### Changes:
 
-1. [Transgender rights in the United States: The Trump administration revokes Obama-era orders on protection of gender identity under Title IX. ](/news/2017/02/22/transgender-rights-in-the-united-states-the-trump-administration-revokes-obama-era-orders-on-protection-of-gender-identity-under-title-ix.md) _2017-08-27 03:47:52 (First version)_
+1. [Transgender rights in the United States: The Trump administration revokes Obama-era orders on protection of gender identity under Title IX. ](/news/2017/02/22/transgender-rights-in-the-united-states-the-trump-administration-revokes-obama-era-orders-on-protection-of-gender-identity-under-title-ix.md) _2018-02-06 13:49:30 (First version)_
 1. [The Trump administration revokes Obama-era orders on protection of gender identity under Title IX. ](/news/2017/02/22/the-trump-administration-revokes-obama-era-orders-on-protection-of-gender-identity-under-title-ix.md) _(Current version)_
 
 ### Related:

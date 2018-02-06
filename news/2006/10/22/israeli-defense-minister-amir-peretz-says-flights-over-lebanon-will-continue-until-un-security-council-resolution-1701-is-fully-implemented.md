@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/10/22/israeli-defense-minister-amir-peretz-says-fligh
 
 ### Changes:
 
-1. [ Israeli defense minister Amir Peretz says flights over Lebanon will continue until UN Security Council Resolution 1701 is fully implemented. ](/news/2006/10/22/israeli-defense-minister-amir-peretz-says-flights-over-lebanon-will-continue-until-un-security-council-resolution-1701-is-fully-implemente.md) _2017-08-25 03:18:37 (First version)_
+1. [ Israeli defense minister Amir Peretz says flights over Lebanon will continue until UN Security Council Resolution 1701 is fully implemented. ](/news/2006/10/22/israeli-defense-minister-amir-peretz-says-flights-over-lebanon-will-continue-until-un-security-council-resolution-1701-is-fully-implemente.md) _2018-02-06 13:49:17 (First version)_
 1. [ Israeli defense minister Amir Peretz says flights over Lebanon will continue until UN Security Council Resolution 1701 is fully implemented. ](/news/2006/10/22/israeli-defense-minister-amir-peretz-says-flights-over-lebanon-will-continue-until-un-security-council-resolution-1701-is-fully-implemented.md) _(Current version)_
 
 ### Related:

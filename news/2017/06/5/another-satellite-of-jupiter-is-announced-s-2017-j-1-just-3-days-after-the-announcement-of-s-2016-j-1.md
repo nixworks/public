@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/5/another-satellite-of-jupiter-is-announced-s-2017
 
 ### Changes:
 
-1. [Moons of Jupiter: Another satellite of Jupiter is announced, S-2017 J 1, just 3 days after the announcement of S-2016 J 1. ](/news/2017/06/5/moons-of-jupiter-another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md) _2017-08-27 03:48:26 (First version)_
+1. [Moons of Jupiter: Another satellite of Jupiter is announced, S-2017 J 1, just 3 days after the announcement of S-2016 J 1. ](/news/2017/06/5/moons-of-jupiter-another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md) _2018-02-06 13:49:30 (First version)_
 1. [Another satellite of Jupiter is announced, S-2017 J 1, just 3 days after the announcement of S-2016 J 1. ](/news/2017/06/5/another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2007/02/13/fatmir-rexhepi-the-interior-minister-of-kosovo-
 
 ### Changes:
 
-1. [ {{Interlanguage link multi|Fatmir Rexhepi|sq}}, the Interior Minister of Kosovo, resigns after two people died in recent protests. ](/news/2007/02/13/interlanguage-link-multi-fatmir-rexhepi-sq-the-interior-minister-of-kosovo-resigns-after-two-people-died-in-recent-protests.md) _2017-05-01 03:19:45 (First version)_
-2. [ Fatmir Rexhepi|sq, the Interior Minister of Kosovo, resigns after two people died in recent protests. ](/news/2007/02/13/fatmir-rexhepi-sq-the-interior-minister-of-kosovo-resigns-after-two-people-died-in-recent-protests.md) _2017-08-29 03:19:14 (Update)_
+1. [ {{Interlanguage link multi|Fatmir Rexhepi|sq}}, the Interior Minister of Kosovo, resigns after two people died in recent protests. ](/news/2007/02/13/interlanguage-link-multi-fatmir-rexhepi-sq-the-interior-minister-of-kosovo-resigns-after-two-people-died-in-recent-protests.md) _2018-02-06 13:49:17 (First version)_
+2. [ Fatmir Rexhepi|sq, the Interior Minister of Kosovo, resigns after two people died in recent protests. ](/news/2007/02/13/fatmir-rexhepi-sq-the-interior-minister-of-kosovo-resigns-after-two-people-died-in-recent-protests.md) _2018-02-06 13:49:17 (Update)_
 2. [ Fatmir Rexhepi, the Interior Minister of Kosovo, resigns after two people died in recent protests. ](/news/2007/02/13/fatmir-rexhepi-the-interior-minister-of-kosovo-resigns-after-two-people-died-in-recent-protests.md) _(Current version)_
 
 ### Related:

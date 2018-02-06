@@ -16,7 +16,7 @@ The leader of the &quot;Calexit&quot; movement announced in a 1,600-word stateme
 
 ### Changes:
 
-1. [Yes California: The bid for California independence ends. ](/news/2017/04/17/yes-california-the-bid-for-california-independence-ends.md) _2017-08-27 03:48:11 (First version)_
+1. [Yes California: The bid for California independence ends. ](/news/2017/04/17/yes-california-the-bid-for-california-independence-ends.md) _2018-02-06 13:49:30 (First version)_
 1. [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md) _(Current version)_
 
 ### Related:

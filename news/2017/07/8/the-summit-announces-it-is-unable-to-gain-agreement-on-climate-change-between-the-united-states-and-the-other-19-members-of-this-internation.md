@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreem
 
 ### Changes:
 
-1. [2017 G20 Hamburg summit: The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/2017-g20-hamburg-summit-the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-me.md) _2017-08-27 03:48:38 (First version)_
+1. [2017 G20 Hamburg summit: The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/2017-g20-hamburg-summit-the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-me.md) _2018-02-06 13:49:31 (First version)_
 1. [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md) _(Current version)_
 
 ### Related:

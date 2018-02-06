@@ -16,7 +16,7 @@ Warplanes carried out airstrikes on the Libyan city of Sirte targeting areas con
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Warplanes of unidentified origin carry out airstrikes on ISIS camps in the Libyan city of Sirte. ](/news/2015/10/20/libyan-civil-war-2014-present-warplanes-of-unidentified-origin-carry-out-airstrikes-on-isis-camps-in-the-libyan-city-of-sirte.md) _2017-08-27 03:43:25 (First version)_
+1. [Libyan Civil War (2014-present): Warplanes of unidentified origin carry out airstrikes on ISIS camps in the Libyan city of Sirte. ](/news/2015/10/20/libyan-civil-war-2014-present-warplanes-of-unidentified-origin-carry-out-airstrikes-on-isis-camps-in-the-libyan-city-of-sirte.md) _2018-02-06 13:49:28 (First version)_
 1. [Warplanes of unidentified origin carry out airstrikes on ISIS camps in the Libyan city of Sirte. ](/news/2015/10/20/warplanes-of-unidentified-origin-carry-out-airstrikes-on-isis-camps-in-the-libyan-city-of-sirte.md) _(Current version)_
 
 ### Related:

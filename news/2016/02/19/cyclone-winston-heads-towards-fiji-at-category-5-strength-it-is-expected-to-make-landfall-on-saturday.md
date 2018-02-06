@@ -16,7 +16,7 @@ Hundreds of evacuation centres are activated as a powerful category five cyclone
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: Cyclone Winston heads towards Fiji at Category 5 strength. It is expected to make landfall on Saturday. ](/news/2016/02/19/2015-16-south-pacific-cyclone-season-cyclone-winston-heads-towards-fiji-at-category-5-strength-it-is-expected-to-make-landfall-on-saturd.md) _2017-08-27 03:44:57 (First version)_
+1. [2015-16 South Pacific cyclone season: Cyclone Winston heads towards Fiji at Category 5 strength. It is expected to make landfall on Saturday. ](/news/2016/02/19/2015-16-south-pacific-cyclone-season-cyclone-winston-heads-towards-fiji-at-category-5-strength-it-is-expected-to-make-landfall-on-saturd.md) _2018-02-06 13:49:28 (First version)_
 1. [Cyclone Winston heads towards Fiji at Category 5 strength. It is expected to make landfall on Saturday. ](/news/2016/02/19/cyclone-winston-heads-towards-fiji-at-category-5-strength-it-is-expected-to-make-landfall-on-saturday.md) _(Current version)_
 
 ### Related:

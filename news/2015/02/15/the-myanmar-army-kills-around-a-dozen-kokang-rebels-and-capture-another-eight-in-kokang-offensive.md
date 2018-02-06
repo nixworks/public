@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/15/the-myanmar-army-kills-around-a-dozen-kokang-re
 
 ### Changes:
 
-1. [Internal conflict in Burma: The Myanmar Army kills around a dozen Kokang rebels and capture another eight in Kokang offensive. ](/news/2015/02/15/internal-conflict-in-burma-the-myanmar-army-kills-around-a-dozen-kokang-rebels-and-capture-another-eight-in-kokang-offensive.md) _2017-08-27 03:41:56 (First version)_
+1. [Internal conflict in Burma: The Myanmar Army kills around a dozen Kokang rebels and capture another eight in Kokang offensive. ](/news/2015/02/15/internal-conflict-in-burma-the-myanmar-army-kills-around-a-dozen-kokang-rebels-and-capture-another-eight-in-kokang-offensive.md) _2018-02-06 13:49:26 (First version)_
 1. [The Myanmar Army kills around a dozen Kokang rebels and capture another eight in Kokang offensive. ](/news/2015/02/15/the-myanmar-army-kills-around-a-dozen-kokang-rebels-and-capture-another-eight-in-kokang-offensive.md) _(Current version)_
 
 ### Related:

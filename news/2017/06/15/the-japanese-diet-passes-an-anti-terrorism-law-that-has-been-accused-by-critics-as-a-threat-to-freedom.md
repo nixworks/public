@@ -17,7 +17,7 @@ Critics including UN expert fear legislation passed by Abe government could targ
 
 ### Changes:
 
-1. [Parliament of Japan: The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/parliament-of-japan-the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md) _2017-08-27 03:48:29 (First version)_
+1. [Parliament of Japan: The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/parliament-of-japan-the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md) _2018-02-06 13:49:30 (First version)_
 1. [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md) _(Current version)_
 
 ### Related:

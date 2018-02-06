@@ -17,7 +17,7 @@ The elections could take place on January 10th, 2016, according to sources close
 
 ### Changes:
 
-1. [Haiti's Provisional Electoral Council postpones presidential and legislative runoff elections scheduled for Sunday, December 27, 2015. Authorities are waiting for findings from the not-yet-installed special commission evaluating the widely criticized first round of elections before determining how to proceed. ](/news/2015/12/22/haitias-provisional-electoral-council-postpones-presidential-and-legislative-runoff-elections-scheduled-for-sunday-december-27-2015-au.md) _2017-08-25 03:44:07 (First version)_
+1. [Haiti's Provisional Electoral Council postpones presidential and legislative runoff elections scheduled for Sunday, December 27, 2015. Authorities are waiting for findings from the not-yet-installed special commission evaluating the widely criticized first round of elections before determining how to proceed. ](/news/2015/12/22/haitias-provisional-electoral-council-postpones-presidential-and-legislative-runoff-elections-scheduled-for-sunday-december-27-2015-au.md) _2018-02-06 13:49:28 (First version)_
 1. [Haiti's Provisional Electoral Council postpones presidential and legislative runoff elections scheduled for Sunday, December 27, 2015. Authorities are waiting for findings from the not-yet-installed special commission evaluating the widely criticized first round of elections before determining how to proceed. ](/news/2015/12/22/haitias-provisional-electoral-council-postpones-presidential-and-legislative-runoff-elections-scheduled-for-sunday-december-27-2015-aut.md) _(Current version)_
 
 ### Related:

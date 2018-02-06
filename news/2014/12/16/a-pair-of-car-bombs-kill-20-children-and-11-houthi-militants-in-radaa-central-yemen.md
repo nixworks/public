@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/16/a-pair-of-car-bombs-kill-20-children-and-11-hou
 
 ### Changes:
 
-1. [Terrorism in Yemen: A pair of car bombs kill 20 children and 11 Houthi militants in Radaa, central Yemen. ](/news/2014/12/16/terrorism-in-yemen-a-pair-of-car-bombs-kill-20-children-and-11-houthi-militants-in-radaa-central-yemen.md) _2017-08-27 03:41:38 (First version)_
+1. [Terrorism in Yemen: A pair of car bombs kill 20 children and 11 Houthi militants in Radaa, central Yemen. ](/news/2014/12/16/terrorism-in-yemen-a-pair-of-car-bombs-kill-20-children-and-11-houthi-militants-in-radaa-central-yemen.md) _2018-02-06 13:49:26 (First version)_
 1. [A pair of car bombs kill 20 children and 11 Houthi militants in Radaa, central Yemen. ](/news/2014/12/16/a-pair-of-car-bombs-kill-20-children-and-11-houthi-militants-in-radaa-central-yemen.md) _(Current version)_
 
 ### Related:

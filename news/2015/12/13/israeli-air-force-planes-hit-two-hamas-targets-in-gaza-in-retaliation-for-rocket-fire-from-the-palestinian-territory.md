@@ -17,7 +17,7 @@ The Air Force struck two Hamas infrastructure targets in Gaza overnight in react
 
 ### Changes:
 
-1. [Gaza-Israel conflict: Israeli Air Force planes hit two Hamas targets in Gaza in retaliation for rocket fire from the Palestinian territory. ](/news/2015/12/13/gaza-israel-conflict-israeli-air-force-planes-hit-two-hamas-targets-in-gaza-in-retaliation-for-rocket-fire-from-the-palestinian-territory.md) _2017-08-27 03:44:20 (First version)_
+1. [Gaza-Israel conflict: Israeli Air Force planes hit two Hamas targets in Gaza in retaliation for rocket fire from the Palestinian territory. ](/news/2015/12/13/gaza-israel-conflict-israeli-air-force-planes-hit-two-hamas-targets-in-gaza-in-retaliation-for-rocket-fire-from-the-palestinian-territory.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli Air Force planes hit two Hamas targets in Gaza in retaliation for rocket fire from the Palestinian territory. ](/news/2015/12/13/israeli-air-force-planes-hit-two-hamas-targets-in-gaza-in-retaliation-for-rocket-fire-from-the-palestinian-territory.md) _(Current version)_
 
 ### Related:

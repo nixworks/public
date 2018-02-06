@@ -16,7 +16,7 @@ How much of your DNA is constructive? Of the 3 billion letters that make up your
 
 ### Changes:
 
-1. [In a study by SUNY Buffalo, it is discovered that ''Utricularia gibba'', a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequenc.md) _2017-08-25 03:38:38 (First version)_
+1. [In a study by SUNY Buffalo, it is discovered that ''Utricularia gibba'', a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequenc.md) _2018-02-06 13:49:24 (First version)_
 1. [In a study by SUNY Buffalo, it is discovered that "Utricularia gibba", a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequence.md) _(Current version)_
 
 ### Related:

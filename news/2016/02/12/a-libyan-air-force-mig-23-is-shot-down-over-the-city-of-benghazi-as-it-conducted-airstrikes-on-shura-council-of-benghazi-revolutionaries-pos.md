@@ -16,7 +16,7 @@ A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot 
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A Libyan Air Force MiG-23 is shot down over the city of Benghazi as it conducted airstrikes on Shura Council of Benghazi Revolutionaries positions in the coastal city. A Tobruk-based military source said the pilot survived having parachuted to safety, but his whereabouts were not immediately clear. ](/news/2016/02/12/libyan-civil-war-2014-present-a-libyan-air-force-mig-23-is-shot-down-over-the-city-of-benghazi-as-it-conducted-airstrikes-on-shura-coun.md) _2017-08-27 03:44:53 (First version)_
+1. [Libyan Civil War (2014-present): A Libyan Air Force MiG-23 is shot down over the city of Benghazi as it conducted airstrikes on Shura Council of Benghazi Revolutionaries positions in the coastal city. A Tobruk-based military source said the pilot survived having parachuted to safety, but his whereabouts were not immediately clear. ](/news/2016/02/12/libyan-civil-war-2014-present-a-libyan-air-force-mig-23-is-shot-down-over-the-city-of-benghazi-as-it-conducted-airstrikes-on-shura-coun.md) _2018-02-06 13:49:28 (First version)_
 1. [A Libyan Air Force MiG-23 is shot down over the city of Benghazi as it conducted airstrikes on Shura Council of Benghazi Revolutionaries positions in the coastal city. A Tobruk-based military source said the pilot survived having parachuted to safety, but his whereabouts were not immediately clear. ](/news/2016/02/12/a-libyan-air-force-mig-23-is-shot-down-over-the-city-of-benghazi-as-it-conducted-airstrikes-on-shura-council-of-benghazi-revolutionaries-pos.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The African Union (AU) has admitted South Sudan as its 54th member, marking anot
 
 ### Changes:
 
-1. [South Sudan joins the African Union as its 54 th member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54th-member.md) _2017-10-02 03:37:43 (First version)_
+1. [South Sudan joins the African Union as its 54 th member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54th-member.md) _2018-02-06 13:49:22 (First version)_
 1. [South Sudan joins the African Union as its 54 th member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54-th-member.md) _(Current version)_
 
 ### Related:

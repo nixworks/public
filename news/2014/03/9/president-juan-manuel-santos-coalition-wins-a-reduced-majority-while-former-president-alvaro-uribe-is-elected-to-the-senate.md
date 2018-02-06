@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-re
 
 ### Changes:
 
-1. [Colombian parliamentary election, 2014: President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/colombian-parliamentary-election-2014-president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe.md) _2017-08-27 03:40:26 (First version)_
+1. [Colombian parliamentary election, 2014: President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/colombian-parliamentary-election-2014-president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe.md) _2018-02-06 13:49:26 (First version)_
 1. [President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe-is-elected-to-the-senate.md) _(Current version)_
 
 ### Related:

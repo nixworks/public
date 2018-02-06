@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-pet
 
 ### Changes:
 
-1. [The parliament of Papua New Guinea re-elect Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elect-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-an.md) _2017-08-02 19:30:05 (First version)_
-2. [Papua New Guinean general election, 2017: The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/papua-new-guinean-general-election-2017-the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-ele.md) _2017-08-27 03:48:46 (Update)_
+1. [The parliament of Papua New Guinea re-elect Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elect-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-an.md) _2018-02-06 13:49:31 (First version)_
+2. [Papua New Guinean general election, 2017: The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/papua-new-guinean-general-election-2017-the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-ele.md) _2018-02-06 13:49:31 (Update)_
 2. [The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.md) _(Current version)_
 
 ### Related:

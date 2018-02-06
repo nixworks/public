@@ -16,7 +16,7 @@ The Nobel laureate, known for his fight for democracy and human rights, was suff
 
 ### Changes:
 
-1. [Human rights in China: Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies. ](/news/2017/07/13/human-rights-in-china-prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md) _2017-08-27 03:48:39 (First version)_
+1. [Human rights in China: Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies. ](/news/2017/07/13/human-rights-in-china-prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md) _2018-02-06 13:49:30 (First version)_
 1. [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies. ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md) _(Current version)_
 
 ### Related:

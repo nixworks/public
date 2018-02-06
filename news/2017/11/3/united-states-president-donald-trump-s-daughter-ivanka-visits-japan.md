@@ -16,8 +16,8 @@ The first daughter speaks at a government-organized women&rsquo;s conference in 
 
 ### Changes:
 
-1. [United States president Donald Trump's first daughter, real estate heiress Ivanka, visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-first-daughter-real-estate-heiress-ivanka-visits-japan.md) _2017-11-03 16:30:06 (First version)_
-2. [United States president Donald Trump's first daughter, Ivanka, visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-first-daughter-ivanka-visits-japan.md) _2017-11-03 21:30:05 (Update)_
+1. [United States president Donald Trump's first daughter, real estate heiress Ivanka, visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-first-daughter-real-estate-heiress-ivanka-visits-japan.md) _2018-02-06 13:49:31 (First version)_
+2. [United States president Donald Trump's first daughter, Ivanka, visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-first-daughter-ivanka-visits-japan.md) _2018-02-06 13:49:31 (Update)_
 2. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _(Current version)_
 
 ### Related:

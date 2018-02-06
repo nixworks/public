@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-chin
 
 ### Changes:
 
-1. [China-Nepal relations: In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/china-nepal-relations-in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military.md) _2017-08-27 03:48:11 (First version)_
+1. [China-Nepal relations: In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/china-nepal-relations-in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military.md) _2018-02-06 13:49:30 (First version)_
 1. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/30/the-united-states-supreme-court-decides-the-cas
 
 ### Changes:
 
-1. [ The United States Supreme Court decides the case of ''Scott v. Harris,'' holding that a "police officer's attempt to terminate a dangerous high-speed car chase that threatens the lives of innocent bystanders does not violate the Fourth Amendment, even when it places the fleeing motorist at risk of serious injury or death." ](/news/2007/04/30/the-united-states-supreme-court-decides-the-case-of-scott-v-harris-holding-that-a-police-officer-s-attempt-to-terminate-a-dangerous.md) _2017-08-25 03:19:43 (First version)_
+1. [ The United States Supreme Court decides the case of ''Scott v. Harris,'' holding that a "police officer's attempt to terminate a dangerous high-speed car chase that threatens the lives of innocent bystanders does not violate the Fourth Amendment, even when it places the fleeing motorist at risk of serious injury or death." ](/news/2007/04/30/the-united-states-supreme-court-decides-the-case-of-scott-v-harris-holding-that-a-police-officer-s-attempt-to-terminate-a-dangerous.md) _2018-02-06 13:49:17 (First version)_
 1. [ The United States Supreme Court decides the case of "Scott v. Harris," holding that a "police officer's attempt to terminate a dangerous high-speed car chase that threatens the lives of innocent bystanders does not violate the Fourth Amendment, even when it places the fleeing motorist at risk of serious injury or death." ](/news/2007/04/30/the-united-states-supreme-court-decides-the-case-of-scott-v-harris-holding-that-a-police-officer-s-attempt-to-terminate-a-dangerous-hi.md) _(Current version)_
 
 ### Related:

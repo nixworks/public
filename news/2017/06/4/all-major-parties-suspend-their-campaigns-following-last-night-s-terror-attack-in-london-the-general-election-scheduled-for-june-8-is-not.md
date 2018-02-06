@@ -16,7 +16,7 @@ Britain&#039;s political parties have suspended national general election campai
 
 ### Changes:
 
-1. [United Kingdom general election, 2017: All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. ](/news/2017/06/4/united-kingdom-general-election-2017-all-major-parties-suspend-their-campaigns-following-last-night-s-terror-attack-in-london-the-general.md) _2017-08-27 03:48:25 (First version)_
+1. [United Kingdom general election, 2017: All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. ](/news/2017/06/4/united-kingdom-general-election-2017-all-major-parties-suspend-their-campaigns-following-last-night-s-terror-attack-in-london-the-general.md) _2018-02-06 13:49:30 (First version)_
 1. [All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. ](/news/2017/06/4/all-major-parties-suspend-their-campaigns-following-last-night-s-terror-attack-in-london-the-general-election-scheduled-for-june-8-is-not.md) _(Current version)_
 
 ### Related:

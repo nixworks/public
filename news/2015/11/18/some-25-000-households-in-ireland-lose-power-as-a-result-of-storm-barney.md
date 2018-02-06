@@ -16,7 +16,7 @@ Some 25,000 households will be without electricity overnight as Storm Barney swe
 
 ### Changes:
 
-1. [2015-16 UK and Ireland windstorm season: Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/2015-16-uk-and-ireland-windstorm-season-some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _2017-08-27 03:43:55 (First version)_
+1. [2015-16 UK and Ireland windstorm season: Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/2015-16-uk-and-ireland-windstorm-season-some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _2018-02-06 13:49:28 (First version)_
 1. [Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _(Current version)_
 
 ### Related:

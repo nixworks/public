@@ -16,7 +16,7 @@ SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the
 
 ### Changes:
 
-1. [Choi Soon-sil gate: South Korean prosecutors raid the presidential Blue House in Seoul amid continuing fallout over President Park Geun-hye's influence-peddling scandal involving cult leader Choi Soon-sil. ](/news/2016/10/29/choi-soon-sil-gate-south-korean-prosecutors-raid-the-presidential-blue-house-in-seoul-amid-continuing-fallout-over-president-park-geun-hye.md) _2017-08-27 03:47:08 (First version)_
+1. [Choi Soon-sil gate: South Korean prosecutors raid the presidential Blue House in Seoul amid continuing fallout over President Park Geun-hye's influence-peddling scandal involving cult leader Choi Soon-sil. ](/news/2016/10/29/choi-soon-sil-gate-south-korean-prosecutors-raid-the-presidential-blue-house-in-seoul-amid-continuing-fallout-over-president-park-geun-hye.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korean prosecutors raid the presidential Blue House in Seoul amid continuing fallout over President Park Geun-hye's influence-peddling scandal involving cult leader Choi Soon-sil. ](/news/2016/10/29/south-korean-prosecutors-raid-the-presidential-blue-house-in-seoul-amid-continuing-fallout-over-president-park-geun-hye-s-influence-peddling.md) _(Current version)_
 
 ### Related:

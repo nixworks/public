@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-
 
 ### Changes:
 
-1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. [http:--www.reuters.com-article-us-radioshack-bankruptcy-idUSKBN16G06J (Reuters)].](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years-http-www-reuters-com-article-us-radioshack-ba.md) _2017-06-18 03:50:29 (First version)_
+1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. [http:--www.reuters.com-article-us-radioshack-bankruptcy-idUSKBN16G06J (Reuters)].](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years-http-www-reuters-com-article-us-radioshack-ba.md) _2018-02-06 13:49:30 (First version)_
 1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _(Current version)_
 
 ### Related:

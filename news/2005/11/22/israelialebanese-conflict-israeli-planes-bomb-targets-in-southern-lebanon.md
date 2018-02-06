@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/11/22/israelialebanese-conflict-israeli-planes-bomb-t
 
 ### Changes:
 
-1. [ Israeli-Lebanese conflict: Israeli planes bomb targets in Southern Lebanon. ](/news/2005/11/22/israeli-lebanese-conflict-israeli-planes-bomb-targets-in-southern-lebanon.md) _2017-08-27 03:17:08 (First version)_
+1. [ Israeli-Lebanese conflict: Israeli planes bomb targets in Southern Lebanon. ](/news/2005/11/22/israeli-lebanese-conflict-israeli-planes-bomb-targets-in-southern-lebanon.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israeli-Lebanese conflict: Israeli planes bomb targets in Southern Lebanon. ](/news/2005/11/22/israelialebanese-conflict-israeli-planes-bomb-targets-in-southern-lebanon.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Barack Obama’s broad win in Wisconsin put new pressure on Hillary Rodham Clint
 
 ### Changes:
 
-1. [ United States presidential election, 2008: Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/united-states-presidential-election-2008-p-arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md) _2017-08-25 03:21:47 (First version)_
-2. [ United States presidential election, 2008:: Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/united-states-presidential-election-2008-arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md) _2017-08-27 03:21:41 (Update)_
+1. [ United States presidential election, 2008: Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/united-states-presidential-election-2008-p-arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008:: Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/united-states-presidential-election-2008-arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md) _2018-02-06 13:49:18 (Update)_
 2. [ Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least ten people were killed and scores wounded when a car bomb exploded in t
 
 ### Changes:
 
-1. [Syrian Civil War: A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/syrian-civil-war-a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md) _2017-08-27 03:42:57 (First version)_
+1. [Syrian Civil War: A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/syrian-civil-war-a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md) _2018-02-06 13:49:27 (First version)_
 1. [A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md) _(Current version)_
 
 ### Related:

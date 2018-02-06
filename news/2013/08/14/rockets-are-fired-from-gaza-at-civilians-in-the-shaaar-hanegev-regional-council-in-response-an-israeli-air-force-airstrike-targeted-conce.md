@@ -18,7 +18,7 @@ Air force hits concealed rocket launchers hours after projectiles from the Strip
 
 ### Changes:
 
-1. [Rockets are fired from Gaza at civilians in the Sha-ar HaNegev regional council, in response an Israeli Air Force airstrike targeted concealed rocket launchers in the Northern Gaza Strip.](/news/2013/08/14/rockets-are-fired-from-gaza-at-civilians-in-the-sha-ar-hanegev-regional-council-in-response-an-israeli-air-force-airstrike-targeted-conce.md) _2017-08-27 03:39:24 (First version)_
+1. [Rockets are fired from Gaza at civilians in the Sha-ar HaNegev regional council, in response an Israeli Air Force airstrike targeted concealed rocket launchers in the Northern Gaza Strip.](/news/2013/08/14/rockets-are-fired-from-gaza-at-civilians-in-the-sha-ar-hanegev-regional-council-in-response-an-israeli-air-force-airstrike-targeted-conce.md) _2018-02-06 13:49:25 (First version)_
 1. [Rockets are fired from Gaza at civilians in the Sha'ar HaNegev regional council, in response an Israeli Air Force airstrike targeted concealed rocket launchers in the Northern Gaza Strip.](/news/2013/08/14/rockets-are-fired-from-gaza-at-civilians-in-the-shaaar-hanegev-regional-council-in-response-an-israeli-air-force-airstrike-targeted-conce.md) _(Current version)_
 
 ### Related:

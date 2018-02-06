@@ -16,8 +16,8 @@ Taiwan evacuated hundreds of people from their homes on Friday as the strongest 
 
 ### Changes:
 
-1. [2015 Pacific typhoon season	Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/2015-pacific-typhoon-season-ptaiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _2017-05-25 03:44:37 (First version)_
-2. [2015 Pacific typhoon season: Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/2015-pacific-typhoon-season-taiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _2017-08-27 03:42:47 (Update)_
+1. [2015 Pacific typhoon season: Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/2015-pacific-typhoon-season-taiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _2018-02-06 13:49:27 (First version)_
+2. [2015 Pacific typhoon season	Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/2015-pacific-typhoon-season-ptaiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _2018-02-06 13:49:27 (Update)_
 2. [Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/taiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _(Current version)_
 
 ### Related:

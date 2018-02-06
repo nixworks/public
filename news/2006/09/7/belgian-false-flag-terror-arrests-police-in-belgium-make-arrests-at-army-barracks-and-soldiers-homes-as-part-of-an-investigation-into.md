@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belg
 
 ### Changes:
 
-1. ['''Belgian False Flag Terror arrests:''' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-int.md) _2017-08-25 03:18:21 (First version)_
+1. ['''Belgian False Flag Terror arrests:''' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-int.md) _2018-02-06 13:49:17 (First version)_
 1. ["'Belgian False Flag Terror arrests:"' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-into.md) _(Current version)_
 
 ### Related:

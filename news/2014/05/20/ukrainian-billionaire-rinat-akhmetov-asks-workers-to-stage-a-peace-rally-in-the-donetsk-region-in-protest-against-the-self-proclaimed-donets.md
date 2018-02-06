@@ -17,8 +17,8 @@ Ukrainian businessman Rinat Akhmetov has called for workers of all enterprises i
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/2014-pro-russian-unrest-in-ukraine-pukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-protes.md) _2017-08-25 03:40:25 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/2014-pro-russian-unrest-in-ukraine-ukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-prote.md) _2017-08-27 03:40:43 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/2014-pro-russian-unrest-in-ukraine-ukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-prote.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/2014-pro-russian-unrest-in-ukraine-pukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-protes.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/ukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-protest-against-the-self-proclaimed-donets.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A man has randomly driven his van into a crowd in Graz, Austria, killing 3 peopl
 
 ### Changes:
 
-1. [ 2015 Graz van attack: Three people are killed and dozens more are injured as a man drives his car into a crowd in Graz, Austria. ](/news/2015/06/20/2015-graz-van-attack-three-people-are-killed-and-dozens-more-are-injured-as-a-man-drives-his-car-into-a-crowd-in-graz-austria.md) _2017-08-27 03:42:34 (First version)_
+1. [ 2015 Graz van attack: Three people are killed and dozens more are injured as a man drives his car into a crowd in Graz, Austria. ](/news/2015/06/20/2015-graz-van-attack-three-people-are-killed-and-dozens-more-are-injured-as-a-man-drives-his-car-into-a-crowd-in-graz-austria.md) _2018-02-06 13:49:27 (First version)_
 1. [ Three people are killed and dozens more are injured as a man drives his car into a crowd in Graz, Austria. ](/news/2015/06/20/three-people-are-killed-and-dozens-more-are-injured-as-a-man-drives-his-car-into-a-crowd-in-graz-austria.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Exclusive: Independence leader Benny Wenda joins parliamentarians, lawyers and h
 
 ### Changes:
 
-1. [Papua conflict: A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/papua-conflict-a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanit.md) _2017-08-27 03:45:58 (First version)_
+1. [Papua conflict: A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/papua-conflict-a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanit.md) _2018-02-06 13:49:29 (First version)_
 1. [A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanitarians-parliame.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23-8-to-legalize-same-sex-marriage.md) _2017-08-27 03:38:19 (First version)_
+1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23-8-to-legalize-same-sex-marriage.md) _2018-02-06 13:49:24 (First version)_
 1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.md) _(Current version)_
 
 ### Related:

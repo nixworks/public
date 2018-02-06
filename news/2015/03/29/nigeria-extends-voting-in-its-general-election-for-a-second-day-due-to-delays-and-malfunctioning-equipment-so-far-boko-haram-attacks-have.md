@@ -16,7 +16,7 @@ As results from Nigeria’s closely contested elections started coming in on Sun
 
 ### Changes:
 
-1. [Nigerian general election, 2015: Nigeria extends voting in its general election for a second day due to delays and malfunctioning equipment. So far, Boko Haram attacks have killed 43 people. ](/news/2015/03/29/nigerian-general-election-2015-nigeria-extends-voting-in-its-general-election-for-a-second-day-due-to-delays-and-malfunctioning-equipment.md) _2017-08-27 03:42:08 (First version)_
+1. [Nigerian general election, 2015: Nigeria extends voting in its general election for a second day due to delays and malfunctioning equipment. So far, Boko Haram attacks have killed 43 people. ](/news/2015/03/29/nigerian-general-election-2015-nigeria-extends-voting-in-its-general-election-for-a-second-day-due-to-delays-and-malfunctioning-equipment.md) _2018-02-06 13:49:27 (First version)_
 1. [Nigeria extends voting in its general election for a second day due to delays and malfunctioning equipment. So far, Boko Haram attacks have killed 43 people. ](/news/2015/03/29/nigeria-extends-voting-in-its-general-election-for-a-second-day-due-to-delays-and-malfunctioning-equipment-so-far-boko-haram-attacks-have.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-b
 
 ### Changes:
 
-1. [Disasters in An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/disasters-in-an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _2017-08-20 21:30:05 (First version)_
-2. [Disasters in South Korea: An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/disasters-in-south-korea-an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _2017-08-27 17:30:04 (Update)_
+1. [Disasters in South Korea: An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/disasters-in-south-korea-an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _2018-02-06 13:49:31 (First version)_
+2. [Disasters in An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/disasters-in-an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _2018-02-06 13:49:31 (Update)_
 2. [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _(Current version)_
 
 ### Related:

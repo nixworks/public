@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-pa
 
 ### Changes:
 
-1. [Romanian legislative election, 2016: Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanian-legislative-election-2016-romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democr.md) _2017-08-27 03:47:25 (First version)_
+1. [Romanian legislative election, 2016: Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanian-legislative-election-2016-romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democr.md) _2018-02-06 13:49:29 (First version)_
 1. [Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democratic-party-winning-by-a-wide-margin.md) _(Current version)_
 
 ### Related:

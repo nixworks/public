@@ -25,7 +25,7 @@ The US government fines General Motors $35m(£20.8m) for delays in recalling sma
 
 ##### Darden Restaurants
 ### [Darden Restaurants agrees to sell Red Lobster to Golden Gate Capital for US$2.1 billion. ](/news/2014/05/16/darden-restaurants-agrees-to-sell-red-lobster-to-golden-gate-capital-for-us-2-1-billion.md)
-_Context: Golden Gate Capital, Red Lobster, Darden Restaurants_
+_Context: Red Lobster, Golden Gate Capital, Darden Restaurants_
 
 ##### Turkish police
 ### [Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-thousands-of-protestor.md)
@@ -33,15 +33,15 @@ Turkish police fire tear gas at thousands of protesters in town of Soma where so
 
 ##### Proton-M
 ### [A Russian Proton-M rocket carrying a communications satellite veers off its intended path and burns up in the atmosphere. ](/news/2014/05/16/a-russian-proton-m-rocket-carrying-a-communications-satellite-veers-off-its-intended-path-and-burns-up-in-the-atmosphere.md)
-_Context: Proton-M, rocket, communications satellite_
+_Context: Proton-M, communications satellite, rocket_
 
 ##### Serbia
 ### [Tens of thousands of people are being evacuated in Serbia and Bosnia as heavy rains cause floods. ](/news/2014/05/16/tens-of-thousands-of-people-are-being-evacuated-in-serbia-and-bosnia-as-heavy-rains-cause-floods.md)
-_Context: heavy rains cause floods, Bosnian, Serbia_
+_Context: Serbia, heavy rains cause floods, Bosnian_
 
 ##### Narendra Modi
 ### [Led by Narendra Modi, the Bharatiya Janata Party wins a majority in the Indian general election. The incumbent Indian National Congress records its worst ever result. ](/news/2014/05/16/led-by-narendra-modi-the-bharatiya-janata-party-wins-a-majority-in-the-indian-general-election-the-incumbent-indian-national-congress-reco.md)
-_Context: Bharatiya Janata Party, Narendra Modi, Congress Party, Indian general election_
+_Context: Congress Party, Bharatiya Janata Party, Indian general election, Narendra Modi_
 
 ##### Under Secretary of Veterans Affairs for Health
 ### [Dr. Robert Petzel resigns as the US Under Secretary of Veterans Affairs for Health following a scandal over long waits for care, treatment delays, and falsification of records at VA hospitals. ](/news/2014/05/16/dr-robert-petzel-resigns-as-the-us-under-secretary-of-veterans-affairs-for-health-following-a-scandal-over-long-waits-for-care-treatment-d.md)

@@ -18,8 +18,8 @@ Criminals gained access to certain files in the company’s system from mid-May 
 
 ### Changes:
 
-1. [More than 143 million Americans have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-credit-r.md) _2017-09-09 03:50:37 (First version)_
-2. [More than 143 million Americans may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-cred.md) _2017-09-12 03:49:32 (Update)_
+1. [More than 143 million Americans may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-cred.md) _2018-02-06 13:49:31 (First version)_
+2. [More than 143 million Americans have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-credit-r.md) _2018-02-06 13:49:31 (Update)_
 2. [More than 143 million people in the U.S. may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-people-in-the-u-s-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on.md) _(Current version)_
 
 ### Related:

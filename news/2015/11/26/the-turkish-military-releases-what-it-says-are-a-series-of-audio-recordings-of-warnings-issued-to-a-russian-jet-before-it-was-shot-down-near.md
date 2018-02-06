@@ -16,7 +16,7 @@ Turkey&#039;s military releases recordings of apparent warnings issued to a Russ
 
 ### Changes:
 
-1. [2015 Russian Sukhoi Su-24 shootdown: The Turkish military releases what it says are a series of audio recordings of warnings issued to a Russian jet before it was shot down near the Syrian border. ](/news/2015/11/26/2015-russian-sukhoi-su-24-shootdown-the-turkish-military-releases-what-it-says-are-a-series-of-audio-recordings-of-warnings-issued-to-a-rus.md) _2017-08-27 03:44:04 (First version)_
+1. [2015 Russian Sukhoi Su-24 shootdown: The Turkish military releases what it says are a series of audio recordings of warnings issued to a Russian jet before it was shot down near the Syrian border. ](/news/2015/11/26/2015-russian-sukhoi-su-24-shootdown-the-turkish-military-releases-what-it-says-are-a-series-of-audio-recordings-of-warnings-issued-to-a-rus.md) _2018-02-06 13:49:28 (First version)_
 1. [The Turkish military releases what it says are a series of audio recordings of warnings issued to a Russian jet before it was shot down near the Syrian border. ](/news/2015/11/26/the-turkish-military-releases-what-it-says-are-a-series-of-audio-recordings-of-warnings-issued-to-a-russian-jet-before-it-was-shot-down-near.md) _(Current version)_
 
 ### Related:

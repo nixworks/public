@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to
 
 ### Changes:
 
-1. [Voters in the Czech Republic go to the polls to elect the members of the Chamber of Deputies. ](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to-elect-the-members-of-the-chamber-of-deputies.md) _2017-10-20 19:30:05 (First version)_
+1. [Voters in the Czech Republic go to the polls to elect the members of the Chamber of Deputies. ](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to-elect-the-members-of-the-chamber-of-deputies.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in the Czech Republic go to the polls to elect new members of the Chamber of Deputies. ](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to-elect-new-members-of-the-chamber-of-deputies.md) _(Current version)_
 
 ### Related:

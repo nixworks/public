@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-conve
 
 ### Changes:
 
-1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.[http:--news.bbc.co.uk-2-hi-africa-5036470.stm (BBC)]. ](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa-http-news-bbc-co-uk-2-hi-africa-5036470-stm-bbc.md) _2017-06-18 03:17:51 (First version)_
+1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.[http:--news.bbc.co.uk-2-hi-africa-5036470.stm (BBC)]. ](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa-http-news-bbc-co-uk-2-hi-africa-5036470-stm-bbc.md) _2018-02-06 13:49:17 (First version)_
 1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms
 
 ### Changes:
 
-1. [Political appointments by Donald Trump: The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/political-appointments-by-donald-trump-the-united-states-senate-in-a-92-5-vote-confirms-christopher-a-wray-as-director-of-the-federal.md) _2017-08-27 03:48:45 (First version)_
+1. [Political appointments by Donald Trump: The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/political-appointments-by-donald-trump-the-united-states-senate-in-a-92-5-vote-confirms-christopher-a-wray-as-director-of-the-federal.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md) _(Current version)_
 
 ### Related:

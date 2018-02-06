@@ -16,7 +16,7 @@ The US ambassador to Qatar said Tuesday she is resigning her post in Doha amid t
 
 ### Changes:
 
-1. [Qatar-United States relations: Dana Shell Smith announces she is resigning as United States Ambassador to Qatar amid regional tensions over Qatar's alleged support for terrorist groups. ](/news/2017/06/13/qatar-united-states-relations-dana-shell-smith-announces-she-is-resigning-as-united-states-ambassador-to-qatar-amid-regional-tensions-ove.md) _2017-08-27 03:48:28 (First version)_
+1. [Qatar-United States relations: Dana Shell Smith announces she is resigning as United States Ambassador to Qatar amid regional tensions over Qatar's alleged support for terrorist groups. ](/news/2017/06/13/qatar-united-states-relations-dana-shell-smith-announces-she-is-resigning-as-united-states-ambassador-to-qatar-amid-regional-tensions-ove.md) _2018-02-06 13:49:30 (First version)_
 1. [Dana Shell Smith announces she is resigning as United States Ambassador to Qatar amid regional tensions over Qatar's alleged support for terrorist groups. ](/news/2017/06/13/dana-shell-smith-announces-she-is-resigning-as-united-states-ambassador-to-qatar-amid-regional-tensions-over-qatar-s-alleged-support-for-ter.md) _(Current version)_
 
 ### Related:

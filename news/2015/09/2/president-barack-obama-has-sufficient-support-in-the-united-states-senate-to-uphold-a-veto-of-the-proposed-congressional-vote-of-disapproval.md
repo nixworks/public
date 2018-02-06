@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/2/president-barack-obama-has-sufficient-support-in
 
 ### Changes:
 
-1. [Upcoming congressional votes: President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/upcoming-congressional-votes-president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-con.md) _2017-08-27 03:42:57 (First version)_
+1. [Upcoming congressional votes: President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/upcoming-congressional-votes-president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-con.md) _2018-02-06 13:49:27 (First version)_
 1. [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md) _(Current version)_
 
 ### Related:

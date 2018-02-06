@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/09/12/philippine-senators-call-for-justice-secretary-
 
 ### Changes:
 
-1. [Philippine senators call on Justice secretary Vitaliano Aguirre. ](/news/2017/09/12/philippine-senators-call-on-justice-secretary-vitaliano-aguirre.md) _2017-09-12 11:30:05 (First version)_
+1. [Philippine senators call on Justice secretary Vitaliano Aguirre. ](/news/2017/09/12/philippine-senators-call-on-justice-secretary-vitaliano-aguirre.md) _2018-02-06 13:49:31 (First version)_
 1. [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md) _(Current version)_
 
 ### Related:

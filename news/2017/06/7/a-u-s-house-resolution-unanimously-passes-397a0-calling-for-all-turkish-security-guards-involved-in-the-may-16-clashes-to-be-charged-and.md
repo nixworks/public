@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-
 
 ### Changes:
 
-1. [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397-0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and-pr.md) _2017-06-07 20:30:06 (First version)_
+1. [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397-0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and-pr.md) _2018-02-06 13:49:30 (First version)_
 1. [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and.md) _(Current version)_
 
 ### Related:

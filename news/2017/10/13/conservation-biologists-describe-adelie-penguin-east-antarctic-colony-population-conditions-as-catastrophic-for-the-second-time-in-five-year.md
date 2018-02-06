@@ -16,7 +16,7 @@ Only two chicks survived in a colony of 36,000 in a &quot;catastrophic&quot; bre
 
 ### Changes:
 
-1. [Conservation biologists describe Adelie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-ada-c-lie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-yea.md) _2017-10-14 19:30:06 (First version)_
+1. [Conservation biologists describe Adelie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-ada-c-lie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-yea.md) _2018-02-06 13:49:31 (First version)_
 1. [Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.md) _(Current version)_
 
 ### Related:

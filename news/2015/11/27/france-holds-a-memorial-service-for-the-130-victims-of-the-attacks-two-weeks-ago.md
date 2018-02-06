@@ -16,7 +16,7 @@ France holds a national memorial service to remember the 130 people who died in 
 
 ### Changes:
 
-1. [November 2015 Paris attacks: France holds a memorial service for the 130 victims of the attacks two weeks ago. ](/news/2015/11/27/november-2015-paris-attacks-france-holds-a-memorial-service-for-the-130-victims-of-the-attacks-two-weeks-ago.md) _2017-08-27 03:44:05 (First version)_
+1. [November 2015 Paris attacks: France holds a memorial service for the 130 victims of the attacks two weeks ago. ](/news/2015/11/27/november-2015-paris-attacks-france-holds-a-memorial-service-for-the-130-victims-of-the-attacks-two-weeks-ago.md) _2018-02-06 13:49:28 (First version)_
 1. [France holds a memorial service for the 130 victims of the attacks two weeks ago. ](/news/2015/11/27/france-holds-a-memorial-service-for-the-130-victims-of-the-attacks-two-weeks-ago.md) _(Current version)_
 
 ### Related:

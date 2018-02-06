@@ -17,7 +17,7 @@ Meet Australia&#039;s answer to velociraptor.
 
 ### Changes:
 
-1. [ Three dinosaur species&mdash;''Australovenator wintonensis'', ''Wintonotitan wattsi'' and ''Diamantinasaurus matildae''&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovere.md) _2017-08-25 03:25:02 (First version)_
+1. [ Three dinosaur species&mdash;''Australovenator wintonensis'', ''Wintonotitan wattsi'' and ''Diamantinasaurus matildae''&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovere.md) _2018-02-06 13:49:19 (First version)_
 1. [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md) _(Current version)_
 
 ### Related:

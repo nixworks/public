@@ -16,7 +16,7 @@ Iran said on Monday it had freed a Canadian-Iranian academic detained since June
 
 ### Changes:
 
-1. [Canada-Iran relations: Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/canada-iran-relations-iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-coun.md) _2017-08-27 03:46:54 (First version)_
+1. [Canada-Iran relations: Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/canada-iran-relations-iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-coun.md) _2018-02-06 13:49:29 (First version)_
 1. [Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.md) _(Current version)_
 
 ### Related:

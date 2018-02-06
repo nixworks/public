@@ -16,7 +16,7 @@ With recession and 10% unemployment, the Finns face pressure to bring debt into 
 
 ### Changes:
 
-1. [Finnish parliamentary election, 2015: The Centre Party, led by Juha Sipil, starts negotiations which will lead to a coalition government with the centre-right National Coalition and the Eurosceptic Finns Party; for the first time since 1979, the Swedish People's Party of Finland is not invited into the government. ](/news/2015/05/6/finnish-parliamentary-election-2015-the-centre-party-led-by-juha-sipila-starts-negotiations-which-will-lead-to-a-coalition-government-wi.md) _2017-08-27 03:42:16 (First version)_
+1. [Finnish parliamentary election, 2015: The Centre Party, led by Juha Sipil, starts negotiations which will lead to a coalition government with the centre-right National Coalition and the Eurosceptic Finns Party; for the first time since 1979, the Swedish People's Party of Finland is not invited into the government. ](/news/2015/05/6/finnish-parliamentary-election-2015-the-centre-party-led-by-juha-sipila-starts-negotiations-which-will-lead-to-a-coalition-government-wi.md) _2018-02-06 13:49:27 (First version)_
 1. [The Centre Party, led by Juha Sipil, starts negotiations which will lead to a coalition government with the centre-right National Coalition and the Eurosceptic Finns Party; for the first time since 1979, the Swedish People's Party of Finland is not invited into the government. ](/news/2015/05/6/the-centre-party-led-by-juha-sipila-starts-negotiations-which-will-lead-to-a-coalition-government-with-the-centre-right-national-coalition.md) _(Current version)_
 
 ### Related:

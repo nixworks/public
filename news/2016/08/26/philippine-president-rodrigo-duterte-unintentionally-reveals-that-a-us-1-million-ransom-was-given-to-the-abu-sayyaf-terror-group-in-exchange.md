@@ -17,7 +17,7 @@ President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjarta
 
 ### Changes:
 
-1. [Philippine president Rodrigo Duterte unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchang.md) _2017-08-25 03:46:20 (First version)_
+1. [Philippine president Rodrigo Duterte unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchang.md) _2018-02-06 13:49:29 (First version)_
 1. [Philippine president Rodrigo Duterte unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchange.md) _(Current version)_
 
 ### Related:

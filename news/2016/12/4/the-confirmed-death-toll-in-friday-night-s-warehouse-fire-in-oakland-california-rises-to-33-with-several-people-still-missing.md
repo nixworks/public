@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/4/the-confirmed-death-toll-in-friday-night-s-wareh
 
 ### Changes:
 
-1. [2016 Oakland warehouse fire: The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. ](/news/2016/12/4/2016-oakland-warehouse-fire-the-confirmed-death-toll-in-friday-night-s-warehouse-fire-in-oakland-california-rises-to-33-with-several-peopl.md) _2017-08-27 03:47:23 (First version)_
+1. [2016 Oakland warehouse fire: The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. ](/news/2016/12/4/2016-oakland-warehouse-fire-the-confirmed-death-toll-in-friday-night-s-warehouse-fire-in-oakland-california-rises-to-33-with-several-peopl.md) _2018-02-06 13:49:30 (First version)_
 1. [The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. ](/news/2016/12/4/the-confirmed-death-toll-in-friday-night-s-warehouse-fire-in-oakland-california-rises-to-33-with-several-people-still-missing.md) _(Current version)_
 
 ### Related:

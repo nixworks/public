@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presi
 
 ### Changes:
 
-1. [Uzbekistani presidential election, 2016: Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/uzbekistani-presidential-election-2016-voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-isla.md) _2017-08-27 03:47:23 (First version)_
+1. [Uzbekistani presidential election, 2016: Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/uzbekistani-presidential-election-2016-voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-isla.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md) _(Current version)_
 
 ### Related:

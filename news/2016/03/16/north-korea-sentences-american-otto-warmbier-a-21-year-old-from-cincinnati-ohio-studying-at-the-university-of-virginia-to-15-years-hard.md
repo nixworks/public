@@ -18,7 +18,7 @@ White House calls for leniency and release of Otto Warmbier, 21, convicted of â€
 
 ### Changes:
 
-1. [North Korea-United States relations: North Korea sentences American Otto Warmbier, a 21-year-old from Cincinnati, Ohio, studying at the University of Virginia, to 15 years hard labor for removing a political poster from a hotel. ](/news/2016/03/16/north-korea-united-states-relations-north-korea-sentences-american-otto-warmbier-a-21-year-old-from-cincinnati-ohio-studying-at-the-un.md) _2017-08-27 03:45:15 (First version)_
+1. [North Korea-United States relations: North Korea sentences American Otto Warmbier, a 21-year-old from Cincinnati, Ohio, studying at the University of Virginia, to 15 years hard labor for removing a political poster from a hotel. ](/news/2016/03/16/north-korea-united-states-relations-north-korea-sentences-american-otto-warmbier-a-21-year-old-from-cincinnati-ohio-studying-at-the-un.md) _2018-02-06 13:49:28 (First version)_
 1. [ North Korea sentences American Otto Warmbier, a 21-year-old from Cincinnati, Ohio, studying at the University of Virginia, to 15 years hard labor for removing a political poster from a hotel. ](/news/2016/03/16/north-korea-sentences-american-otto-warmbier-a-21-year-old-from-cincinnati-ohio-studying-at-the-university-of-virginia-to-15-years-hard.md) _(Current version)_
 
 ### Related:

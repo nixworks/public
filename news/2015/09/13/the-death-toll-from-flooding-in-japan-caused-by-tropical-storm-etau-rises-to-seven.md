@@ -18,7 +18,7 @@ TOKYO (AFP) - The number of people who died in floods which devastated Japan thi
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: The death toll from flooding in Japan caused by Tropical Storm Etau rises to seven. ](/news/2015/09/13/2015-pacific-typhoon-season-the-death-toll-from-flooding-in-japan-caused-by-tropical-storm-etau-rises-to-seven.md) _2017-08-27 03:43:02 (First version)_
+1. [2015 Pacific typhoon season: The death toll from flooding in Japan caused by Tropical Storm Etau rises to seven. ](/news/2015/09/13/2015-pacific-typhoon-season-the-death-toll-from-flooding-in-japan-caused-by-tropical-storm-etau-rises-to-seven.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from flooding in Japan caused by Tropical Storm Etau rises to seven. ](/news/2015/09/13/the-death-toll-from-flooding-in-japan-caused-by-tropical-storm-etau-rises-to-seven.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Fierce clashes between troops and rebels erupted on Thursday for the first time 
 
 ### Changes:
 
-1. [Syrian civil war:Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-pup-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _2017-08-25 03:38:32 (First version)_
-2. [Syrian civil war:: Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _2017-08-27 03:38:44 (Update)_
+1. [Syrian civil war:: Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-pup-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _2018-02-06 13:49:24 (Update)_
 2. [Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _(Current version)_
 
 ### Related:

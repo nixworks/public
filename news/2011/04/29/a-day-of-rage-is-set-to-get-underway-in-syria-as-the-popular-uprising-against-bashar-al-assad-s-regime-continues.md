@@ -20,8 +20,8 @@ Water and power have been cut in Daraa, epicentre of pro-democracy protests, wit
 
 ### Changes:
 
-1. [2011 Syrian uprising:A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/2011-syrian-uprising-pa-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md) _2017-08-25 03:32:55 (First version)_
-2. [2011 Syrian uprising:: A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/2011-syrian-uprising-a-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md) _2017-08-27 03:33:04 (Update)_
+1. [2011 Syrian uprising:A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/2011-syrian-uprising-pa-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:: A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/2011-syrian-uprising-a-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md) _2018-02-06 13:49:22 (Update)_
 2. [A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/a-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md) _(Current version)_
 
 ### Related:

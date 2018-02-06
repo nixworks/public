@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-
 
 ### Changes:
 
-1. [South Sudan internal conflict (2011-present):Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011apresent-pcattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving.md) _2017-08-25 03:39:24 (First version)_
-2. [South Sudan internal conflict (2011-present):: Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011-present-cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leavin.md) _2017-08-27 03:39:42 (Update)_
+1. [South Sudan internal conflict (2011-present):Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011apresent-pcattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving.md) _2018-02-06 13:49:25 (First version)_
+2. [South Sudan internal conflict (2011-present):: Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011-present-cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leavin.md) _2018-02-06 13:49:25 (Update)_
 2. [Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.md) _(Current version)_
 
 ### Related:

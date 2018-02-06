@@ -16,7 +16,7 @@ A senior Al Qaeda official wanted by the United States and a local leader of the
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/al-qaeda-insurgency-in-yemen-a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil.md) _2017-08-27 03:41:28 (First version)_
+1. [al-Qaeda insurgency in Yemen: A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/al-qaeda-insurgency-in-yemen-a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil.md) _2018-02-06 13:49:26 (First version)_
 1. [A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil-al-dahab-leader-of-ansar-al.md) _(Current version)_
 
 ### Related:

@@ -16,9 +16,9 @@ The economically struggling U.S. island territory of Puerto Rico voted overwhelm
 
 ### Changes:
 
-1. [With a turnout of 23%, voters in Puerto Rico request that the island becomes a state of the United States. ](/news/2017/06/11/with-a-turnout-of-23-voters-in-puerto-rico-request-that-the-island-becomes-a-state-of-the-united-states.md) _2017-06-12 03:51:16 (First version)_
-2. [With a turnout of 23% eligible voters, voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md) _2017-06-12 18:30:08 (Update)_
-3. [Puerto Rican status referendum, 2017: With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/puerto-rican-status-referendum-2017-with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become.md) _2017-08-27 03:48:28 (Update)_
+1. [With a turnout of 23%, voters in Puerto Rico request that the island becomes a state of the United States. ](/news/2017/06/11/with-a-turnout-of-23-voters-in-puerto-rico-request-that-the-island-becomes-a-state-of-the-united-states.md) _2018-02-06 13:49:30 (First version)_
+2. [With a turnout of 23% eligible voters, voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md) _2018-02-06 13:49:30 (Update)_
+3. [Puerto Rican status referendum, 2017: With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/puerto-rican-status-referendum-2017-with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become.md) _2018-02-06 13:49:30 (Update)_
 3. [With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md) _(Current version)_
 
 ### Related:

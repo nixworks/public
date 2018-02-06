@@ -17,8 +17,8 @@ Formats: [HTML](/news/2018/01/9/new-ministers-of-defence-finance-interior-health
 
 ### Changes:
 
-1. [New ministers of defence, environment and foreign affairs are appointed. ](/news/2018/01/9/new-ministers-of-defence-environment-and-foreign-affairs-are-appointed.md) _2018-01-09 17:30:06 (First version)_
-2. [New ministers of defence, health, environment and foreign affairs are appointed. ](/news/2018/01/9/new-ministers-of-defence-health-environment-and-foreign-affairs-are-appointed.md) _2018-01-09 18:30:05 (Update)_
+1. [New ministers of defence, health, environment and foreign affairs are appointed. ](/news/2018/01/9/new-ministers-of-defence-health-environment-and-foreign-affairs-are-appointed.md) _2018-02-06 13:49:31 (First version)_
+2. [New ministers of defence, environment and foreign affairs are appointed. ](/news/2018/01/9/new-ministers-of-defence-environment-and-foreign-affairs-are-appointed.md) _2018-02-06 13:49:31 (Update)_
 2. [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md) _(Current version)_
 
 ### Related:

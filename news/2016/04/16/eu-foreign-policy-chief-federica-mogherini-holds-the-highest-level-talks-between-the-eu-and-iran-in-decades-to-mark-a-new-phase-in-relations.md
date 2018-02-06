@@ -16,7 +16,7 @@ EU foreign policy chief Federica Mogherini says they have &quot;turned a new pag
 
 ### Changes:
 
-1. [Iran-European Union relations: EU Foreign policy chief Federica Mogherini holds the highest-level talks between the EU and Iran in decades to mark a new phase in relations between the two. Both sides are keen to focus on trade, energy and the environment as possible areas of cooperation. ](/news/2016/04/16/iran-european-union-relations-eu-foreign-policy-chief-federica-mogherini-holds-the-highest-level-talks-between-the-eu-and-iran-in-decades.md) _2017-08-27 03:45:39 (First version)_
+1. [Iran-European Union relations: EU Foreign policy chief Federica Mogherini holds the highest-level talks between the EU and Iran in decades to mark a new phase in relations between the two. Both sides are keen to focus on trade, energy and the environment as possible areas of cooperation. ](/news/2016/04/16/iran-european-union-relations-eu-foreign-policy-chief-federica-mogherini-holds-the-highest-level-talks-between-the-eu-and-iran-in-decades.md) _2018-02-06 13:49:28 (First version)_
 1. [EU Foreign policy chief Federica Mogherini holds the highest-level talks between the EU and Iran in decades to mark a new phase in relations between the two. Both sides are keen to focus on trade, energy and the environment as possible areas of cooperation. ](/news/2016/04/16/eu-foreign-policy-chief-federica-mogherini-holds-the-highest-level-talks-between-the-eu-and-iran-in-decades-to-mark-a-new-phase-in-relations.md) _(Current version)_
 
 ### Related:

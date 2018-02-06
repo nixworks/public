@@ -11,7 +11,7 @@ Formats: [HTML](/news/2004/01/1/myspace-has-its-official-launch.html)  [JSON](/n
 
 ### Changes:
 
-1. [ MySpace had its official launch.](/news/2004/01/1/myspace-had-its-official-launch.md) _2017-09-18 03:15:54 (First version)_
+1. [ MySpace had its official launch.](/news/2004/01/1/myspace-had-its-official-launch.md) _2018-02-06 13:49:15 (First version)_
 1. [ MySpace has its official launch.](/news/2004/01/1/myspace-has-its-official-launch.md) _(Current version)_
 
 ### Related:

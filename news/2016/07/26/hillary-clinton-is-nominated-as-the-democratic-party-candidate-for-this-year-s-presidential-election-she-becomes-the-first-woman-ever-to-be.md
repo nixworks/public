@@ -23,7 +23,7 @@ Follow live updates from the second night of the DNC with Bill Clinton speaking 
 
 ### Changes:
 
-1. [2016 Democratic National Convention: Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/2016-democratic-national-convention-hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-s.md) _2017-08-27 03:46:33 (First version)_
+1. [2016 Democratic National Convention: Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/2016-democratic-national-convention-hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-she-becomes-the-first-woman-ever-to-be.md) _(Current version)_
 
 ### Related:

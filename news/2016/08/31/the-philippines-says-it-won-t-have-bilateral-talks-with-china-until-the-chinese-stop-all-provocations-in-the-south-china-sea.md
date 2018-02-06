@@ -16,8 +16,8 @@ MANILA -- China must cease all provocations in the South China Sea before the Ph
 
 ### Changes:
 
-1. [''Philippines v. China''The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/philippines-v-china-pthe-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south.md) _2017-08-25 03:46:21 (First version)_
-2. ["Philippines v. China": The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/philippines-v-china-the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-c.md) _2017-08-27 03:46:44 (Update)_
+1. ["Philippines v. China": The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/philippines-v-china-the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-c.md) _2018-02-06 13:49:29 (First version)_
+2. [''Philippines v. China''The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/philippines-v-china-pthe-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south.md) _2018-02-06 13:49:29 (Update)_
 2. [The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-china-sea.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Thirty members of Boko Haram and five Nigerien soldiers have been killed in figh
 
 ### Changes:
 
-1. [Boko Haram insurgency: Clashes near the village of Toumour in Niger's southeast Diffa Region kill at least 30 Boko Haram militants and five Niger Armed Forces soldiers. ](/news/2016/09/14/boko-haram-insurgency-clashes-near-the-village-of-toumour-in-niger-s-southeast-diffa-region-kill-at-least-30-boko-haram-militants-and-five.md) _2017-08-27 03:46:51 (First version)_
+1. [Boko Haram insurgency: Clashes near the village of Toumour in Niger's southeast Diffa Region kill at least 30 Boko Haram militants and five Niger Armed Forces soldiers. ](/news/2016/09/14/boko-haram-insurgency-clashes-near-the-village-of-toumour-in-niger-s-southeast-diffa-region-kill-at-least-30-boko-haram-militants-and-five.md) _2018-02-06 13:49:29 (First version)_
 1. [Clashes near the village of Toumour in Niger's southeast Diffa Region kill at least 30 Boko Haram militants and five Niger Armed Forces soldiers. ](/news/2016/09/14/clashes-near-the-village-of-toumour-in-niger-s-southeast-diffa-region-kill-at-least-30-boko-haram-militants-and-five-niger-armed-forces-sold.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Hundreds of people are evacuated from villages around a volcano in western Mexic
 
 ### Changes:
 
-1. [Volcan de Colima: Hundred of villagers are evacuated from near the Colima volcano following recent eruptions. Authorities fear that it could be on the same scale as a 1913 eruption. ](/news/2015/07/11/volca-n-de-colima-hundred-of-villagers-are-evacuated-from-near-the-colima-volcano-following-recent-eruptions-authorities-fear-that-it-coul.md) _2017-08-27 03:42:41 (First version)_
+1. [Volcan de Colima: Hundred of villagers are evacuated from near the Colima volcano following recent eruptions. Authorities fear that it could be on the same scale as a 1913 eruption. ](/news/2015/07/11/volca-n-de-colima-hundred-of-villagers-are-evacuated-from-near-the-colima-volcano-following-recent-eruptions-authorities-fear-that-it-coul.md) _2018-02-06 13:49:27 (First version)_
 1. [Hundred of villagers are evacuated from near the Colima volcano following recent eruptions. Authorities fear that it could be on the same scale as a 1913 eruption. ](/news/2015/07/11/hundred-of-villagers-are-evacuated-from-near-the-colima-volcano-following-recent-eruptions-authorities-fear-that-it-could-be-on-the-same-sc.md) _(Current version)_
 
 ### Related:

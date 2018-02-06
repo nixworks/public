@@ -16,7 +16,7 @@ DONETSK, Ukraine: Fierce fighting between government forces and pro-Russian rebe
 
 ### Changes:
 
-1. [War in Donbass: Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/war-in-donbass-dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md) _2017-08-27 03:41:10 (First version)_
+1. [War in Donbass: Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/war-in-donbass-dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md) _2018-02-06 13:49:26 (First version)_
 1. [Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md) _(Current version)_
 
 ### Related:

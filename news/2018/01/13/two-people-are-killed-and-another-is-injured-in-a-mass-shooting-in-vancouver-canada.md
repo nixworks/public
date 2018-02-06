@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/13/two-people-are-killed-and-another-is-injured-in
 
 ### Changes:
 
-1. [Three people are injured in a mass shooting in Vancouver, Canada. ](/news/2018/01/13/three-people-are-injured-in-a-mass-shooting-in-vancouver-canada.md) _2018-01-16 00:30:05 (First version)_
+1. [Three people are injured in a mass shooting in Vancouver, Canada. ](/news/2018/01/13/three-people-are-injured-in-a-mass-shooting-in-vancouver-canada.md) _2018-02-06 13:49:31 (First version)_
 1. [Two people are killed and another is injured in a mass shooting in Vancouver, Canada. ](/news/2018/01/13/two-people-are-killed-and-another-is-injured-in-a-mass-shooting-in-vancouver-canada.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-p
 
 ### Changes:
 
-1. [ The government of Dubai announces that it has purchased the RMS ''Queen Elizabeth 2'' from Cunard Line for US$100-million. It intends to turn her into a floating hotel at the Palm Jumeirah when she leaves service in late 2008. ](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-purchased-the-rms-queen-elizabeth-2-from-cunard-line-for-us-100-million-it-intends-to-t.md) _2017-08-25 03:20:00 (First version)_
+1. [ The government of Dubai announces that it has purchased the RMS ''Queen Elizabeth 2'' from Cunard Line for US$100-million. It intends to turn her into a floating hotel at the Palm Jumeirah when she leaves service in late 2008. ](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-purchased-the-rms-queen-elizabeth-2-from-cunard-line-for-us-100-million-it-intends-to-t.md) _2018-02-06 13:49:17 (First version)_
 1. [ The government of Dubai announces that it has purchased the RMS "Queen Elizabeth 2" from Cunard Line for US$100-million. It intends to turn her into a floating hotel at the Palm Jumeirah when she leaves service in late 2008. ](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-purchased-the-rms-queen-elizabeth-2-from-cunard-line-for-us-100-million-it-intends-to-turn.md) _(Current version)_
 
 ### Related:

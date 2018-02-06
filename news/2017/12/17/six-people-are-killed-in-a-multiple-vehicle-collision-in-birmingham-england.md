@@ -16,8 +16,8 @@ A seventh person was critically injured in the accident in Birmingham involving 
 
 ### Changes:
 
-1. [At least six people are killed in a multi-vehicle accident in Birmingham, England. ](/news/2017/12/17/at-least-six-people-are-killed-in-a-multi-vehicle-accident-in-birmingham-england.md) _2017-12-18 00:30:05 (First version)_
-2. [At least six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/at-least-six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _2017-12-18 18:30:05 (Update)_
+1. [At least six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/at-least-six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _2018-02-06 13:49:31 (First version)_
+2. [At least six people are killed in a multi-vehicle accident in Birmingham, England. ](/news/2017/12/17/at-least-six-people-are-killed-in-a-multi-vehicle-accident-in-birmingham-england.md) _2018-02-06 13:49:31 (Update)_
 2. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _(Current version)_
 
 ### Related:

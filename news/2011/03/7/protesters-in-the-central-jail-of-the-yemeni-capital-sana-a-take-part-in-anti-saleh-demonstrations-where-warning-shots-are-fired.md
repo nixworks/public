@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-cap
 
 ### Changes:
 
-1. [2011 Yemeni protests: Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/2011-yemeni-protests-protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shot.md) _2017-08-27 03:32:35 (First version)_
+1. [2011 Yemeni protests: Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/2011-yemeni-protests-protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shot.md) _2018-02-06 13:49:22 (First version)_
 1. [Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shots-are-fired.md) _(Current version)_
 
 ### Related:

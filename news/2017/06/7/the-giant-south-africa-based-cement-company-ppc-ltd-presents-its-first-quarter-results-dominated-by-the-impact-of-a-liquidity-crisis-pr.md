@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-
 
 ### Changes:
 
-1. [The giant South Africa based cement company, PPC, presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-precipi.md) _2017-06-08 14:30:05 (First version)_
-2. [Economy of South Africa: The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/economy-of-south-africa-the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact.md) _2017-08-27 03:48:26 (Update)_
+1. [The giant South Africa based cement company, PPC, presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-precipi.md) _2018-02-06 13:49:30 (First version)_
+2. [Economy of South Africa: The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/economy-of-south-africa-the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact.md) _2018-02-06 13:49:30 (Update)_
 2. [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Nangarhar police said that the bombing, a Massive Ordnance Air Blast (MOAB), des
 
 ### Changes:
 
-1. [2017 Nangarhar airstrike: The death toll according to a Nangarhar official source now stands at 94 militants, including 4 commanders. Former president Hamid Karzai says the strike was in violation of national sovereignty. ](/news/2017/04/15/2017-nangarhar-airstrike-the-death-toll-according-to-a-nangarhar-official-source-now-stands-at-94-militants-including-4-commanders-former.md) _2017-08-27 03:48:10 (First version)_
+1. [2017 Nangarhar airstrike: The death toll according to a Nangarhar official source now stands at 94 militants, including 4 commanders. Former president Hamid Karzai says the strike was in violation of national sovereignty. ](/news/2017/04/15/2017-nangarhar-airstrike-the-death-toll-according-to-a-nangarhar-official-source-now-stands-at-94-militants-including-4-commanders-former.md) _2018-02-06 13:49:30 (First version)_
 1. [The death toll according to a Nangarhar official source now stands at 94 militants, including 4 commanders. Former president Hamid Karzai says the strike was in violation of national sovereignty. ](/news/2017/04/15/the-death-toll-according-to-a-nangarhar-official-source-now-stands-at-94-militants-including-4-commanders-former-president-hamid-karzai-sa.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ A Yemeni security official says five soldiers and two al-Qaida militants have be
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:Five Yemeni soldiers and two Al-Qaeda militants are killed in fighting in the central town of Rada. A senior intelligence officer is also gunned down by a drive-by shooting in the south. ](/news/2013/04/27/al-qaeda-insurgency-in-yemen-pfive-yemeni-soldiers-and-two-al-qaeda-militants-are-killed-in-fighting-in-the-central-town-of-rada-a-senior-i.md) _2017-08-25 03:38:29 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Five Yemeni soldiers and two Al-Qaeda militants are killed in fighting in the central town of Rada. A senior intelligence officer is also gunned down by a drive-by shooting in the south. ](/news/2013/04/27/al-qaeda-insurgency-in-yemen-five-yemeni-soldiers-and-two-al-qaeda-militants-are-killed-in-fighting-in-the-central-town-of-rada-a-senior.md) _2017-08-27 03:38:42 (Update)_
+1. [Al-Qaeda insurgency in Yemen:Five Yemeni soldiers and two Al-Qaeda militants are killed in fighting in the central town of Rada. A senior intelligence officer is also gunned down by a drive-by shooting in the south. ](/news/2013/04/27/al-qaeda-insurgency-in-yemen-pfive-yemeni-soldiers-and-two-al-qaeda-militants-are-killed-in-fighting-in-the-central-town-of-rada-a-senior-i.md) _2018-02-06 13:49:24 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: Five Yemeni soldiers and two Al-Qaeda militants are killed in fighting in the central town of Rada. A senior intelligence officer is also gunned down by a drive-by shooting in the south. ](/news/2013/04/27/al-qaeda-insurgency-in-yemen-five-yemeni-soldiers-and-two-al-qaeda-militants-are-killed-in-fighting-in-the-central-town-of-rada-a-senior.md) _2018-02-06 13:49:24 (Update)_
 2. [Five Yemeni soldiers and two Al-Qaeda militants are killed in fighting in the central town of Rada. A senior intelligence officer is also gunned down by a drive-by shooting in the south. ](/news/2013/04/27/five-yemeni-soldiers-and-two-al-qaeda-militants-are-killed-in-fighting-in-the-central-town-of-rada-a-senior-intelligence-officer-is-also-gu.md) _(Current version)_
 
 ### Related:

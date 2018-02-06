@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/north-korea-and-weapons-of-mass-destruction-south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md) _2017-08-27 03:46:27 (First version)_
+1. [North Korea and weapons of mass destruction: South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/north-korea-and-weapons-of-mass-destruction-south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md) _(Current version)_
 
 ### Related:

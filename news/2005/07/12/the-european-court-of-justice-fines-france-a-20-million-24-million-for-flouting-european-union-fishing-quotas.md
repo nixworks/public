@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ The European Court of Justice fines France -20 million ($24 million) for flouting European Union fishing quotas ](/news/2005/07/12/the-european-court-of-justice-fines-france-20-million-24-million-for-flouting-european-union-fishing-quotas.md) _2017-08-27 03:16:33 (First version)_
+1. [ The European Court of Justice fines France -20 million ($24 million) for flouting European Union fishing quotas ](/news/2005/07/12/the-european-court-of-justice-fines-france-20-million-24-million-for-flouting-european-union-fishing-quotas.md) _2018-02-06 13:49:16 (First version)_
 1. [ The European Court of Justice fines France EUR20 million ($24 million) for flouting European Union fishing quotas ](/news/2005/07/12/the-european-court-of-justice-fines-france-a-20-million-24-million-for-flouting-european-union-fishing-quotas.md) _(Current version)_
 
 ### Related:

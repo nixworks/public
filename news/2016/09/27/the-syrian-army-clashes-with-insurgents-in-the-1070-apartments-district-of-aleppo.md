@@ -16,7 +16,7 @@ The Syrian army and its allies fought intense clashes with insurgents in the opp
 
 ### Changes:
 
-1. [Aleppo Offensive: The Syrian Army clashes with insurgents in the 1070 Apartments district of Aleppo. ](/news/2016/09/27/aleppo-offensive-the-syrian-army-clashes-with-insurgents-in-the-1070-apartments-district-of-aleppo.md) _2017-08-27 03:46:54 (First version)_
+1. [Aleppo Offensive: The Syrian Army clashes with insurgents in the 1070 Apartments district of Aleppo. ](/news/2016/09/27/aleppo-offensive-the-syrian-army-clashes-with-insurgents-in-the-1070-apartments-district-of-aleppo.md) _2018-02-06 13:49:29 (First version)_
 1. [The Syrian Army clashes with insurgents in the 1070 Apartments district of Aleppo. ](/news/2016/09/27/the-syrian-army-clashes-with-insurgents-in-the-1070-apartments-district-of-aleppo.md) _(Current version)_
 
 ### Related:

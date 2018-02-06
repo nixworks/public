@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/09/24/cote-d-ivoire-cote-d-ivoire-rebel-soldiers-stil
 
 ### Changes:
 
-1. [ Cte d'Ivoire: Cte d'Ivoire rebel soldiers, still attempting to overthrow the government, have invested a compound containing over 100 American citizens and other foreigners. 200 United States Marines have entered the country.](/news/2002/09/24/cote-d-ivoire-cote-d-ivoire-rebel-soldiers-still-attempting-to-overthrow-the-government-have-invested-a-compound-containing-over-100-am.md) _2017-08-25 03:15:15 (First version)_
+1. [ Cte d'Ivoire: Cte d'Ivoire rebel soldiers, still attempting to overthrow the government, have invested a compound containing over 100 American citizens and other foreigners. 200 United States Marines have entered the country.](/news/2002/09/24/cote-d-ivoire-cote-d-ivoire-rebel-soldiers-still-attempting-to-overthrow-the-government-have-invested-a-compound-containing-over-100-am.md) _2018-02-06 13:49:15 (First version)_
 1. [ Cte d'Ivoire: Cte d'Ivoire rebel soldiers, still attempting to overthrow the government, have invested a compound containing over 100 American citizens and other foreigners. 200 United States Marines have entered the country.](/news/2002/09/24/cote-d-ivoire-cote-d-ivoire-rebel-soldiers-still-attempting-to-overthrow-the-government-have-invested-a-compound-containing-over-100-ame.md) _(Current version)_
 
 ### Related:

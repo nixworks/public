@@ -16,7 +16,7 @@ Ukraine&#x27;s pro-Russian rebel leader Alexander Zakharchenko said Saturday tha
 
 ### Changes:
 
-1. [War in Donbass: Alexander Zakharchenko, leader of the rebel Donetsk People's Republic said the insurgents had released two American aid workers. ](/news/2015/05/9/war-in-donbass-alexander-zakharchenko-leader-of-the-rebel-donetsk-people-s-republic-said-the-insurgents-had-released-two-american-aid-work.md) _2017-08-27 03:42:17 (First version)_
+1. [War in Donbass: Alexander Zakharchenko, leader of the rebel Donetsk People's Republic said the insurgents had released two American aid workers. ](/news/2015/05/9/war-in-donbass-alexander-zakharchenko-leader-of-the-rebel-donetsk-people-s-republic-said-the-insurgents-had-released-two-american-aid-work.md) _2018-02-06 13:49:27 (First version)_
 1. [Alexander Zakharchenko, leader of the rebel Donetsk People's Republic said the insurgents had released two American aid workers. ](/news/2015/05/9/alexander-zakharchenko-leader-of-the-rebel-donetsk-people-s-republic-said-the-insurgents-had-released-two-american-aid-workers.md) _(Current version)_
 
 ### Related:

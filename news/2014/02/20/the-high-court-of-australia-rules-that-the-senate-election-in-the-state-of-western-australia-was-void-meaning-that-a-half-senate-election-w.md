@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/20/the-high-court-of-australia-rules-that-the-sena
 
 ### Changes:
 
-1. [Australian federal election, 2013:The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/australian-federal-election-2013-pthe-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-me.md) _2017-08-25 03:40:04 (First version)_
-2. [Australian federal election, 2013:: The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/australian-federal-election-2013-the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-m.md) _2017-08-27 03:40:21 (Update)_
+1. [Australian federal election, 2013:: The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/australian-federal-election-2013-the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-m.md) _2018-02-06 13:49:25 (First version)_
+2. [Australian federal election, 2013:The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/australian-federal-election-2013-pthe-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-me.md) _2018-02-06 13:49:25 (Update)_
 2. [The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-meaning-that-a-half-senate-election-w.md) _(Current version)_
 
 ### Related:

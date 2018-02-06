@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/05/23/united-states-president-barack-obama-ends-the-a
 
 ### Changes:
 
-1. [United States-Vietnam relations: United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-vietnam-relations-united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the.md) _2017-08-27 03:46:06 (First version)_
+1. [United States-Vietnam relations: United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-vietnam-relations-united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the.md) _2018-02-06 13:49:29 (First version)_
 1. [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md) _(Current version)_
 
 ### Related:

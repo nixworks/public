@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/19/the-u-s-consumer-product-safety-commission-orde
 
 ### Changes:
 
-1. [The U.S. Consumer Product Safety Commission orders manufacturers of self-balancing scooters (hoverboards) to ensure their products meet safety standards or face recall, or seizure at ports. CPSC Chairman Elliot Kaye tells NBC News no hoverboard currently on the market meets these standards. ](/news/2016/02/19/the-u-s-consumer-product-safety-commission-orders-manufacturers-of-self-balancing-scooters-hoverboards-to-ensure-their-products-meet-sa.md) _2017-08-25 03:44:36 (First version)_
+1. [The U.S. Consumer Product Safety Commission orders manufacturers of self-balancing scooters (hoverboards) to ensure their products meet safety standards or face recall, or seizure at ports. CPSC Chairman Elliot Kaye tells NBC News no hoverboard currently on the market meets these standards. ](/news/2016/02/19/the-u-s-consumer-product-safety-commission-orders-manufacturers-of-self-balancing-scooters-hoverboards-to-ensure-their-products-meet-sa.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Consumer Product Safety Commission orders manufacturers of self-balancing scooters (hoverboards) to ensure their products meet safety standards or face recall, or seizure at ports. CPSC Chairman Elliot Kaye tells NBC News no hoverboard currently on the market meets these standards. ](/news/2016/02/19/the-u-s-consumer-product-safety-commission-orders-manufacturers-of-self-balancing-scooters-hoverboards-to-ensure-their-products-meet-safe.md) _(Current version)_
 
 ### Related:

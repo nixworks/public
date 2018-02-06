@@ -20,8 +20,8 @@ Reporters are bullied, have equipment confiscated, barred from sensitive sites&#
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict:The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/2014-israelagaza-conflict-pthe-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md) _2017-08-25 03:40:46 (First version)_
-2. [2014 Israel-Gaza conflict:: The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/2014-israel-gaza-conflict-the-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md) _2017-08-27 03:41:04 (Update)_
+1. [2014 Israel-Gaza conflict:The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/2014-israelagaza-conflict-pthe-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Israel-Gaza conflict:: The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/2014-israel-gaza-conflict-the-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md) _2018-02-06 13:49:26 (Update)_
 2. [The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/the-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md) _(Current version)_
 
 ### Related:

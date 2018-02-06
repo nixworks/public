@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/5/former-lieutenant-governor-of-the-northern-maria
 
 ### Changes:
 
-1. [ Former Lieutenant Governor of the Northern Mariana Islands Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corru.md) _2017-08-25 03:25:23 (First version)_
+1. [ Former Lieutenant Governor of the Northern Mariana Islands Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corru.md) _2018-02-06 13:49:19 (First version)_
 1. [ Former Lieutenant Governor of the Northern Mariana Islands Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corrup.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Iran state TV broadcasts live the first debate among the six candidates of the 1
 
 ### Changes:
 
-1. [First six-man televised debate is held that focused mostly on social issues. ](/news/2017/04/28/first-six-man-televised-debate-is-held-that-focused-mostly-on-social-issues.md) _2017-04-28 23:30:08 (First version)_
-2. [Iranian presidential election, 2017: The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/iranian-presidential-election-2017-the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md) _2017-08-27 03:48:16 (Update)_
+1. [Iranian presidential election, 2017: The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/iranian-presidential-election-2017-the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md) _2018-02-06 13:49:30 (First version)_
+2. [First six-man televised debate is held that focused mostly on social issues. ](/news/2017/04/28/first-six-man-televised-debate-is-held-that-focused-mostly-on-social-issues.md) _2018-02-06 13:49:30 (Update)_
 2. [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md) _(Current version)_
 
 ### Related:

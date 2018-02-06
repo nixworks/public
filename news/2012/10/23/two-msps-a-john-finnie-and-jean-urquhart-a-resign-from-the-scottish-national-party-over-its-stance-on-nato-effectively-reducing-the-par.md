@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/23/two-msps-a-john-finnie-and-jean-urquhart-a-resi
 
 ### Changes:
 
-1. [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-john-finnie-and-jean-urquhart-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md) _2017-08-27 03:36:54 (First version)_
+1. [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-john-finnie-and-jean-urquhart-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md) _2018-02-06 13:49:24 (First version)_
 1. [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-a-john-finnie-and-jean-urquhart-a-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md) _(Current version)_
 
 ### Related:

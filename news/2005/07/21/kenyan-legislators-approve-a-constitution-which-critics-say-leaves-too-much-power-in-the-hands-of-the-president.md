@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which
 
 ### Changes:
 
-1. [ Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. [http:--news.bbc.co.uk-2-hi-africa-4705799.stm (BBC)].](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which-critics-say-leaves-too-much-power-in-the-hands-of-the-president-http-news-bbc-co-uk-2-h.md) _2017-06-18 03:16:41 (First version)_
+1. [ Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. [http:--news.bbc.co.uk-2-hi-africa-4705799.stm (BBC)].](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which-critics-say-leaves-too-much-power-in-the-hands-of-the-president-http-news-bbc-co-uk-2-h.md) _2018-02-06 13:49:16 (First version)_
 1. [ Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. ](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which-critics-say-leaves-too-much-power-in-the-hands-of-the-president.md) _(Current version)_
 
 ### Related:

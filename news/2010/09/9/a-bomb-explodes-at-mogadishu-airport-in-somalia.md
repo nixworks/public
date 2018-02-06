@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/09/9/a-bomb-explodes-at-mogadishu-airport-in-somalia.
 
 ### Changes:
 
-1. [Battle of Mogadishu (2010): A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/battle-of-mogadishu-2010-a-bomb-explodes-at-mogadishu-airport-in-somalia.md) _2017-08-27 03:30:00 (First version)_
+1. [Battle of Mogadishu (2010): A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/battle-of-mogadishu-2010-a-bomb-explodes-at-mogadishu-airport-in-somalia.md) _2018-02-06 13:49:20 (First version)_
 1. [A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/a-bomb-explodes-at-mogadishu-airport-in-somalia.md) _(Current version)_
 
 ### Related:

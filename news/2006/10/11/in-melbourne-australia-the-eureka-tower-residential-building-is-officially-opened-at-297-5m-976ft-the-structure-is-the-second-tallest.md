@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/10/11/in-melbourne-australia-the-eureka-tower-residen
 
 ### Changes:
 
-1. [ In Melbourne, Australia, the Eureka Tower residential building is officially opened. At 297.5m (976ft), the structure is the second tallest skyscraper in the Southern Hemisphere, and the second tallest residential building in the world.](/news/2006/10/11/in-melbourne-australia-the-eureka-tower-residential-building-is-officially-opened-at-297-5m-976ft-the-structure-is-the-second-talles.md) _2017-08-25 03:18:33 (First version)_
+1. [ In Melbourne, Australia, the Eureka Tower residential building is officially opened. At 297.5m (976ft), the structure is the second tallest skyscraper in the Southern Hemisphere, and the second tallest residential building in the world.](/news/2006/10/11/in-melbourne-australia-the-eureka-tower-residential-building-is-officially-opened-at-297-5m-976ft-the-structure-is-the-second-talles.md) _2018-02-06 13:49:17 (First version)_
 1. [ In Melbourne, Australia, the Eureka Tower residential building is officially opened. At 297.5m (976ft), the structure is the second tallest skyscraper in the Southern Hemisphere, and the second tallest residential building in the world.](/news/2006/10/11/in-melbourne-australia-the-eureka-tower-residential-building-is-officially-opened-at-297-5m-976ft-the-structure-is-the-second-tallest.md) _(Current version)_
 
 ### Related:

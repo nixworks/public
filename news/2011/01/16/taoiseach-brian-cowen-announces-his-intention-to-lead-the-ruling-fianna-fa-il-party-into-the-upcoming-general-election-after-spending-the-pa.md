@@ -19,7 +19,7 @@ The Irish prime minister announces he will not be standing down as leader of the
 
 ### Changes:
 
-1. [Leadership challenge to Taoiseach Brian Cowen:: Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/leadership-challenge-to-taoiseach-brian-cowen-taoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the.md) _2017-08-27 03:31:56 (First version)_
+1. [Leadership challenge to Taoiseach Brian Cowen:: Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/leadership-challenge-to-taoiseach-brian-cowen-taoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the.md) _2018-02-06 13:49:21 (First version)_
 1. [Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/taoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the-upcoming-general-election-after-spending-the-pa.md) _(Current version)_
 
 ### Related:

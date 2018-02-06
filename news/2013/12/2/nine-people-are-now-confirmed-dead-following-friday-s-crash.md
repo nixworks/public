@@ -16,6 +16,6 @@ Crews pulled a ninth body Sunday from the wreckage of a Glasgow pub reduced to r
 
 ### Changes:
 
-1. [2013 Glasgow helicopter crash:Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/2013-glasgow-helicopter-crash-pnine-people-are-now-confirmed-dead-following-friday-s-crash.md) _2017-08-25 03:39:36 (First version)_
-2. [2013 Glasgow helicopter crash:: Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/2013-glasgow-helicopter-crash-nine-people-are-now-confirmed-dead-following-friday-s-crash.md) _2017-08-27 03:39:55 (Update)_
+1. [2013 Glasgow helicopter crash:Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/2013-glasgow-helicopter-crash-pnine-people-are-now-confirmed-dead-following-friday-s-crash.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Glasgow helicopter crash:: Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/2013-glasgow-helicopter-crash-nine-people-are-now-confirmed-dead-following-friday-s-crash.md) _2018-02-06 13:49:25 (Update)_
 2. [Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/nine-people-are-now-confirmed-dead-following-friday-s-crash.md) _(Current version)_

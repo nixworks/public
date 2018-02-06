@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/23/according-to-ma-c-decins-sans-frontia-res-more-
 
 ### Changes:
 
-1. [Boko Haram insurgency: According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/boko-haram-insurgency-according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp.md) _2017-08-27 03:46:19 (First version)_
+1. [Boko Haram insurgency: According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/boko-haram-insurgency-according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp.md) _2018-02-06 13:49:29 (First version)_
 1. [According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp-for-those-fleeing-boko.md) _(Current version)_
 
 ### Related:

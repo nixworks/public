@@ -16,8 +16,8 @@ Officials cautioned that the peacekeeping force would not be used to disarm Hezb
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/2006-israel-lebanon-conflict-p-eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-i.md) _2017-08-25 03:18:16 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/2006-israel-lebanon-conflict-eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-i.md) _2017-08-27 03:18:12 (Update)_
+1. [ 2006 Israel-Lebanon conflict: EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/2006-israel-lebanon-conflict-p-eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-i.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/2006-israel-lebanon-conflict-eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-i.md) _2018-02-06 13:49:17 (Update)_
 2. [ EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-is-the-responsibility-of-the-leb.md) _(Current version)_
 
 ### Related:

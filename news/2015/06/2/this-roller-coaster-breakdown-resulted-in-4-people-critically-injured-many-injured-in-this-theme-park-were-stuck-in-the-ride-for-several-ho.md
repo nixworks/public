@@ -16,5 +16,5 @@ The boyfriend of a teenager who had her leg amputated after The Smiler ride cras
 
 ### Changes:
 
-1. [Alton Towers: The Smiler roller coaster crash: This roller coaster breakdown resulted in 4 people critically injured. Many injured in this theme park were stuck in the ride for several hours. ](/news/2015/06/2/alton-towers-the-smiler-roller-coaster-crash-this-roller-coaster-breakdown-resulted-in-4-people-critically-injured-many-injured-in-this-t.md) _2017-08-27 03:42:28 (First version)_
+1. [Alton Towers: The Smiler roller coaster crash: This roller coaster breakdown resulted in 4 people critically injured. Many injured in this theme park were stuck in the ride for several hours. ](/news/2015/06/2/alton-towers-the-smiler-roller-coaster-crash-this-roller-coaster-breakdown-resulted-in-4-people-critically-injured-many-injured-in-this-t.md) _2018-02-06 13:49:27 (First version)_
 1. [This roller coaster breakdown resulted in 4 people critically injured. Many injured in this theme park were stuck in the ride for several hours. ](/news/2015/06/2/this-roller-coaster-breakdown-resulted-in-4-people-critically-injured-many-injured-in-this-theme-park-were-stuck-in-the-ride-for-several-ho.md) _(Current version)_

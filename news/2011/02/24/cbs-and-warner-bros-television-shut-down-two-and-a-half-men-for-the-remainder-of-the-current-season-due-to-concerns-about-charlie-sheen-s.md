@@ -16,7 +16,7 @@ CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ### Changes:
 
-1. [CBS and Warner Bros. Television shut down ''Two and a Half Men'' for the remainder of the current season due to concerns about Charlie Sheen's health and behaviour. ](/news/2011/02/24/cbs-and-warner-bros-television-shut-down-two-and-a-half-men-for-the-remainder-of-the-current-season-due-to-concerns-about-charlie-sheen.md) _2017-08-25 03:32:19 (First version)_
+1. [CBS and Warner Bros. Television shut down ''Two and a Half Men'' for the remainder of the current season due to concerns about Charlie Sheen's health and behaviour. ](/news/2011/02/24/cbs-and-warner-bros-television-shut-down-two-and-a-half-men-for-the-remainder-of-the-current-season-due-to-concerns-about-charlie-sheen.md) _2018-02-06 13:49:22 (First version)_
 1. [CBS and Warner Bros. Television shut down "Two and a Half Men" for the remainder of the current season due to concerns about Charlie Sheen's health and behaviour. ](/news/2011/02/24/cbs-and-warner-bros-television-shut-down-two-and-a-half-men-for-the-remainder-of-the-current-season-due-to-concerns-about-charlie-sheen-s.md) _(Current version)_
 
 ### Related:

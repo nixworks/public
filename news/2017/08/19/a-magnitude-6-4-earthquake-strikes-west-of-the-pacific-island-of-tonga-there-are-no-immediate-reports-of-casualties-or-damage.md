@@ -16,7 +16,7 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 
 ### Changes:
 
-1. [Earthquakes in 2017: A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/earthquakes-in-2017-a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or.md) _2017-08-27 03:48:49 (First version)_
+1. [Earthquakes in 2017: A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/earthquakes-in-2017-a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or.md) _2018-02-06 13:49:31 (First version)_
 1. [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md) _(Current version)_
 
 ### Related:

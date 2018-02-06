@@ -16,7 +16,7 @@ North Korea had been removed from the list under the George W. Bush administrati
 
 ### Changes:
 
-1. [US President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/us-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _2017-11-20 20:30:05 (First version)_
+1. [US President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/us-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _(Current version)_
 
 ### Related:

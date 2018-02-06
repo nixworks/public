@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/28/as-part-of-an-ongoing-peace-process-the-congres
 
 ### Changes:
 
-1. [Colombian conflict: As part of an ongoing peace process, the Congress of Colombia approves an amnesty law for thousands of demobilizing FARC rebels. The amnesty does not apply to FARC rebels who have committed war crimes or human rights violations. ](/news/2016/12/28/colombian-conflict-as-part-of-an-ongoing-peace-process-the-congress-of-colombia-approves-an-amnesty-law-for-thousands-of-demobilizing-farc.md) _2017-08-27 03:47:32 (First version)_
+1. [Colombian conflict: As part of an ongoing peace process, the Congress of Colombia approves an amnesty law for thousands of demobilizing FARC rebels. The amnesty does not apply to FARC rebels who have committed war crimes or human rights violations. ](/news/2016/12/28/colombian-conflict-as-part-of-an-ongoing-peace-process-the-congress-of-colombia-approves-an-amnesty-law-for-thousands-of-demobilizing-farc.md) _2018-02-06 13:49:30 (First version)_
 1. [As part of an ongoing peace process, the Congress of Colombia approves an amnesty law for thousands of demobilizing FARC rebels. The amnesty does not apply to FARC rebels who have committed war crimes or human rights violations. ](/news/2016/12/28/as-part-of-an-ongoing-peace-process-the-congress-of-colombia-approves-an-amnesty-law-for-thousands-of-demobilizing-farc-rebels-the-amnesty.md) _(Current version)_
 
 ### Related:

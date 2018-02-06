@@ -16,7 +16,7 @@ Suspected Ugandan ADF-NALU rebels have killed between 50 and 80 people in attack
 
 ### Changes:
 
-1. [ADF insurgency: The Ugandan rebel group kills up to 80 people near Beni in North Kivu, Democratic Republic of the Congo. ](/news/2014/11/20/adf-insurgency-the-ugandan-rebel-group-kills-up-to-80-people-near-beni-in-north-kivu-democratic-republic-of-the-congo.md) _2017-08-27 03:41:32 (First version)_
+1. [ADF insurgency: The Ugandan rebel group kills up to 80 people near Beni in North Kivu, Democratic Republic of the Congo. ](/news/2014/11/20/adf-insurgency-the-ugandan-rebel-group-kills-up-to-80-people-near-beni-in-north-kivu-democratic-republic-of-the-congo.md) _2018-02-06 13:49:26 (First version)_
 1. [The Ugandan rebel group kills up to 80 people near Beni in North Kivu, Democratic Republic of the Congo. ](/news/2014/11/20/the-ugandan-rebel-group-kills-up-to-80-people-near-beni-in-north-kivu-democratic-republic-of-the-congo.md) _(Current version)_
 
 ### Related:

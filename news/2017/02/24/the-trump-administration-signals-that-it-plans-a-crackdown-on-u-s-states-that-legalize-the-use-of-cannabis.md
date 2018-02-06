@@ -17,7 +17,7 @@ Trump&apos;s press secretary says the administration sees recreational marijuana
 
 ### Changes:
 
-1. [Presidency of Donald Trump: The Trump administration signals that it plans a crackdown on U.S states that legalize the use of cannabis. ](/news/2017/02/24/presidency-of-donald-trump-the-trump-administration-signals-that-it-plans-a-crackdown-on-u-s-states-that-legalize-the-use-of-cannabis.md) _2017-08-27 03:47:53 (First version)_
+1. [Presidency of Donald Trump: The Trump administration signals that it plans a crackdown on U.S states that legalize the use of cannabis. ](/news/2017/02/24/presidency-of-donald-trump-the-trump-administration-signals-that-it-plans-a-crackdown-on-u-s-states-that-legalize-the-use-of-cannabis.md) _2018-02-06 13:49:30 (First version)_
 1. [The Trump administration signals that it plans a crackdown on U.S states that legalize the use of cannabis. ](/news/2017/02/24/the-trump-administration-signals-that-it-plans-a-crackdown-on-u-s-states-that-legalize-the-use-of-cannabis.md) _(Current version)_
 
 ### Related:

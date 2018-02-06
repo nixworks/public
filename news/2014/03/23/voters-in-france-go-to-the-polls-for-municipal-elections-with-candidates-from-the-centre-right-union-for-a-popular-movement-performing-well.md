@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/23/voters-in-france-go-to-the-polls-for-municipal-
 
 ### Changes:
 
-1. [Elections in France:Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/elections-in-france-pvoters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-move.md) _2017-08-25 03:40:12 (First version)_
-2. [Elections in France:: Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/elections-in-france-voters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-mov.md) _2017-08-27 03:40:30 (Update)_
+1. [Elections in France:: Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/elections-in-france-voters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-mov.md) _2018-02-06 13:49:26 (First version)_
+2. [Elections in France:Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/elections-in-france-pvoters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-move.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/voters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-movement-performing-well.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Violence in eastern South Sudan forces 60 aid workers to flee as new battles eru
 
 ### Changes:
 
-1. [South Sudanese Civil War: At least 16 people are killed amid fresh fighting in Raga, according to a SPLM-IO spokesperson. The United Nations Office for the Coordination of Humanitarian Affairs said that over 60 humanitarian aid workers were forced to flee. ](/news/2017/04/15/south-sudanese-civil-war-at-least-16-people-are-killed-amid-fresh-fighting-in-raga-according-to-a-splm-io-spokesperson-the-united-nations.md) _2017-08-27 03:48:10 (First version)_
+1. [South Sudanese Civil War: At least 16 people are killed amid fresh fighting in Raga, according to a SPLM-IO spokesperson. The United Nations Office for the Coordination of Humanitarian Affairs said that over 60 humanitarian aid workers were forced to flee. ](/news/2017/04/15/south-sudanese-civil-war-at-least-16-people-are-killed-amid-fresh-fighting-in-raga-according-to-a-splm-io-spokesperson-the-united-nations.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 16 people are killed amid fresh fighting in Raga, according to a SPLM-IO spokesperson. The United Nations Office for the Coordination of Humanitarian Affairs said that over 60 humanitarian aid workers were forced to flee. ](/news/2017/04/15/at-least-16-people-are-killed-amid-fresh-fighting-in-raga-according-to-a-splm-io-spokesperson-the-united-nations-office-for-the-coordinati.md) _(Current version)_
 
 ### Related:

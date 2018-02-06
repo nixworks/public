@@ -19,8 +19,8 @@ Thai renegade general who was shot last week dies in hospital as Bangkok standof
 
 ### Changes:
 
-1. [2010 Thai political protests:Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/2010-thai-political-protests-phospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-he.md) _2017-08-25 03:27:57 (First version)_
-2. [2010 Thai political protests:: Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/2010-thai-political-protests-hospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-h.md) _2017-08-27 03:27:55 (Update)_
+1. [2010 Thai political protests:Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/2010-thai-political-protests-phospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-he.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Thai political protests:: Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/2010-thai-political-protests-hospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-h.md) _2018-02-06 13:49:20 (Update)_
 2. [Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/hospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-he-backed-protesters-in-bangkok.md) _(Current version)_
 
 ### Related:

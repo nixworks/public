@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/19/voters-in-northern-cyprus-go-to-the-polls-for-a
 
 ### Changes:
 
-1. [Elections in Northern Cyprus: Voters in Northern Cyprus go to the polls for an election for a new President to represent them in peace talks with the southern Republic of Cyprus. ](/news/2015/04/19/elections-in-northern-cyprus-voters-in-northern-cyprus-go-to-the-polls-for-an-election-for-a-new-president-to-represent-them-in-peace-talks.md) _2017-08-27 03:42:13 (First version)_
+1. [Elections in Northern Cyprus: Voters in Northern Cyprus go to the polls for an election for a new President to represent them in peace talks with the southern Republic of Cyprus. ](/news/2015/04/19/elections-in-northern-cyprus-voters-in-northern-cyprus-go-to-the-polls-for-an-election-for-a-new-president-to-represent-them-in-peace-talks.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Northern Cyprus go to the polls for an election for a new President to represent them in peace talks with the southern Republic of Cyprus. ](/news/2015/04/19/voters-in-northern-cyprus-go-to-the-polls-for-an-election-for-a-new-president-to-represent-them-in-peace-talks-with-the-southern-republic-of.md) _(Current version)_
 
 ### Related:

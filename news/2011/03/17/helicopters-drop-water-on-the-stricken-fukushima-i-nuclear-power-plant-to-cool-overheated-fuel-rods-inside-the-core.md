@@ -24,8 +24,8 @@ CBS News Chicago station reports trace amounts of radiation clinging to flights 
 
 ### Changes:
 
-1. [Fukushima I nuclear accidents:Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-phelicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-th.md) _2017-08-25 03:32:33 (First version)_
-2. [Fukushima I nuclear accidents:: Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-t.md) _2017-08-27 03:32:42 (Update)_
+1. [Fukushima I nuclear accidents:Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-phelicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-th.md) _2018-02-06 13:49:22 (First version)_
+2. [Fukushima I nuclear accidents:: Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-t.md) _2018-02-06 13:49:22 (Update)_
 2. [Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-the-core.md) _(Current version)_
 
 ### Related:

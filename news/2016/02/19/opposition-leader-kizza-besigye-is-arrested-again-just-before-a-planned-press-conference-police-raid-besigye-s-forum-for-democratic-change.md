@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/19/opposition-leader-kizza-besigye-is-arrested-aga
 
 ### Changes:
 
-1. [Ugandan general election, 2016: Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. ](/news/2016/02/19/ugandan-general-election-2016-opposition-leader-kizza-besigye-is-arrested-again-just-before-a-planned-press-conference-police-raid-besigy.md) _2017-08-27 03:44:57 (First version)_
+1. [Ugandan general election, 2016: Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. ](/news/2016/02/19/ugandan-general-election-2016-opposition-leader-kizza-besigye-is-arrested-again-just-before-a-planned-press-conference-police-raid-besigy.md) _2018-02-06 13:49:28 (First version)_
 1. [Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. ](/news/2016/02/19/opposition-leader-kizza-besigye-is-arrested-again-just-before-a-planned-press-conference-police-raid-besigye-s-forum-for-democratic-change.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital
 
 ### Changes:
 
-1. [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosq.md) _2017-06-30 19:30:05 (First version)_
-2. [Battle of Mosul: Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/battle-of-mosul-iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-o.md) _2017-08-27 03:48:34 (Update)_
+1. [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosq.md) _2018-02-06 13:49:30 (First version)_
+2. [Battle of Mosul: Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/battle-of-mosul-iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-o.md) _2018-02-06 13:49:30 (Update)_
 2. [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosqu.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukr
 
 ### Changes:
 
-1. [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabili.md) _2017-08-25 03:44:01 (First version)_
+1. [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabili.md) _2018-02-06 13:49:28 (First version)_
 1. [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md) _(Current version)_
 
 ### Related:

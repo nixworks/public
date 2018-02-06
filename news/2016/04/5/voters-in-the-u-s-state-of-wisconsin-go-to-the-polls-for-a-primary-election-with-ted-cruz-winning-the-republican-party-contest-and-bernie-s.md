@@ -17,7 +17,7 @@ Tuesday&rsquo;s vote in Wisconsin could not only help shore up the momentum for 
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in the U.S. state of Wisconsin go to the polls for a primary election with Ted Cruz winning the Republican Party contest and Bernie Sanders winning the Democratic Party primary. ](/news/2016/04/5/united-states-presidential-election-2016-voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-a-primary-election-with-ted-cruz-winnin.md) _2017-08-27 03:45:30 (First version)_
+1. [United States presidential election, 2016: Voters in the U.S. state of Wisconsin go to the polls for a primary election with Ted Cruz winning the Republican Party contest and Bernie Sanders winning the Democratic Party primary. ](/news/2016/04/5/united-states-presidential-election-2016-voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-a-primary-election-with-ted-cruz-winnin.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in the U.S. state of Wisconsin go to the polls for a primary election with Ted Cruz winning the Republican Party contest and Bernie Sanders winning the Democratic Party primary. ](/news/2016/04/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-a-primary-election-with-ted-cruz-winning-the-republican-party-contest-and-bernie-s.md) _(Current version)_
 
 ### Related:

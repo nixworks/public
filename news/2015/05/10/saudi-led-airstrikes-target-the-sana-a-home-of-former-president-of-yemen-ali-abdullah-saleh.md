@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-
 
 ### Changes:
 
-1. [Yemeni Civil War: Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/yemeni-civil-war-saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md) _2017-08-27 03:42:17 (First version)_
+1. [Yemeni Civil War: Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/yemeni-civil-war-saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md) _2018-02-06 13:49:27 (First version)_
 1. [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md) _(Current version)_
 
 ### Related:

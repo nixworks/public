@@ -17,7 +17,7 @@ An al-Shabab suicide bomber detonated his explosives while hugging a local offic
 
 ### Changes:
 
-1. [War in Somalia: A suicide bomber in Somalia-s Puntland region detonates while hugging Saeed Ali, the treasurer of Galkayo, killing him and several police officers guarding him. Islamic militant group Al-Shabaab claims responsibility. ](/news/2016/03/31/war-in-somalia-a-suicide-bomber-in-somalia-s-puntland-region-detonates-while-hugging-saeed-ali-the-treasurer-of-galkayo-killing-him-and.md) _2017-08-27 03:45:26 (First version)_
+1. [War in Somalia: A suicide bomber in Somalia-s Puntland region detonates while hugging Saeed Ali, the treasurer of Galkayo, killing him and several police officers guarding him. Islamic militant group Al-Shabaab claims responsibility. ](/news/2016/03/31/war-in-somalia-a-suicide-bomber-in-somalia-s-puntland-region-detonates-while-hugging-saeed-ali-the-treasurer-of-galkayo-killing-him-and.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber in Somalia's Puntland region detonates while hugging Saeed Ali, the treasurer of Galkayo, killing him and several police officers guarding him. Islamic militant group Al-Shabaab claims responsibility. ](/news/2016/03/31/a-suicide-bomber-in-somaliaas-puntland-region-detonates-while-hugging-saeed-ali-the-treasurer-of-galkayo-killing-him-and-several-police.md) _(Current version)_
 
 ### Related:

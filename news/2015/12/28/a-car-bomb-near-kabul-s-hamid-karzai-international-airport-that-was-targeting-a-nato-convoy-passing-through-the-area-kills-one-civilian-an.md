@@ -17,8 +17,8 @@ A Taliban bomber detonated an explosives-packed vehicle near Kabul airport Monda
 
 ### Changes:
 
-1. [A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-through-the-area-kills-one-civilian.md) _2017-08-25 03:44:11 (First version)_
-2. [War in Afghanistan (2015-present): A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/war-in-afghanistan-2015-present-a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-th.md) _2017-08-27 03:44:32 (Update)_
+1. [War in Afghanistan (2015-present): A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/war-in-afghanistan-2015-present-a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-th.md) _2018-02-06 13:49:28 (First version)_
+2. [A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-through-the-area-kills-one-civilian.md) _2018-02-06 13:49:28 (Update)_
 2. [A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-through-the-area-kills-one-civilian-an.md) _(Current version)_
 
 ### Related:

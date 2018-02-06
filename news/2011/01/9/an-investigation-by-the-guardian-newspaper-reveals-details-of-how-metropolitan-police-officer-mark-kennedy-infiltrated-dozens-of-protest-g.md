@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-revea
 
 ### Changes:
 
-1. [An investigation by ''The Guardian'' newspaper reveals details of how Metropolitan police officer Mark Kennedy infiltrated dozens of protest groups in 22 countries using the pseudonym Mark Stone. ](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-reveals-details-of-how-metropolitan-police-officer-mark-kennedy-infiltrated-dozens-of-protest.md) _2017-08-25 03:31:42 (First version)_
+1. [An investigation by ''The Guardian'' newspaper reveals details of how Metropolitan police officer Mark Kennedy infiltrated dozens of protest groups in 22 countries using the pseudonym Mark Stone. ](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-reveals-details-of-how-metropolitan-police-officer-mark-kennedy-infiltrated-dozens-of-protest.md) _2018-02-06 13:49:21 (First version)_
 1. [An investigation by "The Guardian" newspaper reveals details of how Metropolitan police officer Mark Kennedy infiltrated dozens of protest groups in 22 countries using the pseudonym Mark Stone. ](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-reveals-details-of-how-metropolitan-police-officer-mark-kennedy-infiltrated-dozens-of-protest-g.md) _(Current version)_
 
 ### Related:

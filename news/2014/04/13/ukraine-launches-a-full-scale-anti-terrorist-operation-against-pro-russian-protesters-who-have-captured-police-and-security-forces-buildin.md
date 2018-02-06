@@ -17,8 +17,8 @@ Ukraine has given pro-Russian separatists a Monday morning deadline to disarm or
 
 ### Changes:
 
-1. [2014 pro-Russian protests in Ukraine:Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/2014-pro-russian-protests-in-ukraine-pukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-captu.md) _2017-08-25 03:40:17 (First version)_
-2. [2014 pro-Russian protests in Ukraine:: Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/2014-pro-russian-protests-in-ukraine-ukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-capt.md) _2017-08-27 03:40:35 (Update)_
+1. [2014 pro-Russian protests in Ukraine:: Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/2014-pro-russian-protests-in-ukraine-ukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-capt.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian protests in Ukraine:Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/2014-pro-russian-protests-in-ukraine-pukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-captu.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/ukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-captured-police-and-security-forces-buildin.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/18/japan-s-prime-minister-shinza-abe-calls-a-snap-
 
 ### Changes:
 
-1. [Japan's Prime Minister Shinzo Abe calls a snap election for mid-December, two years ahead of schedule. ](/news/2014/11/18/japan-s-prime-minister-shinzo-abe-calls-a-snap-election-for-mid-december-two-years-ahead-of-schedule.md) _2017-10-17 03:47:53 (First version)_
+1. [Japan's Prime Minister Shinzo Abe calls a snap election for mid-December, two years ahead of schedule. ](/news/2014/11/18/japan-s-prime-minister-shinzo-abe-calls-a-snap-election-for-mid-december-two-years-ahead-of-schedule.md) _2018-02-06 13:49:26 (First version)_
 1. [Japan's Prime Minister Shinzo Abe calls a snap election for mid-December, two years ahead of schedule. ](/news/2014/11/18/japan-s-prime-minister-shinza-abe-calls-a-snap-election-for-mid-december-two-years-ahead-of-schedule.md) _(Current version)_
 
 ### Related:

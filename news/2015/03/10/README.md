@@ -29,7 +29,7 @@ _Context: University of Oklahoma, Sigma Alpha Epsilon_
 
 ##### Pakistan
 ### [Pakistan lifts a moratorium on the death penalty for terrorism, months after reinstating it. ](/news/2015/03/10/pakistan-lifts-a-moratorium-on-the-death-penalty-for-terrorism-months-after-reinstating-it.md)
-_Context: sentenced to death, Pakistan, terrorism, moratorium_
+_Context: terrorism, moratorium, Pakistan, sentenced to death_
 
 ## [Previous Day...](/news/2015/03/9/index.md)
 

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and
 
 ### Changes:
 
-1. [Turkish forces engage Islamic State in Iraq and the Levant (ISIL) militants along the Syrian border:Turkish troops kill four Islamic State militants in Turkey's southeastern Gaziantep Province when two cars with ISIS passengers advanced on a Turkish armored vehicle near a border post in Oguzeli. ](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and-the-levant-isil-militants-along-the-syrian-border-pturkish-troops-kill-four-islamic-state.md) _2017-08-25 03:43:33 (First version)_
+1. [Turkish forces engage Islamic State in Iraq and the Levant (ISIL) militants along the Syrian border:Turkish troops kill four Islamic State militants in Turkey's southeastern Gaziantep Province when two cars with ISIS passengers advanced on a Turkish armored vehicle near a border post in Oguzeli. ](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and-the-levant-isil-militants-along-the-syrian-border-pturkish-troops-kill-four-islamic-state.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish forces engage Islamic State in Iraq and the Levant (ISIL) militants along the Syrian border:Turkish troops kill four Islamic State militants in Turkey's southeastern Gaziantep Province when two cars with ISIS passengers advanced on a Turkish armored vehicle near a border post in Oguzeli. ](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and-the-levant-isil-militants-along-the-syrian-border-turkish-troops-kill-four-islamic-state-m.md) _(Current version)_
 
 ### Related:

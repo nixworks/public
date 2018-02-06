@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-min
 
 ### Changes:
 
-1. [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinzo-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md) _2017-11-01 10:30:05 (First version)_
-2. [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md) _2017-11-01 23:30:05 (Update)_
+1. [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinzo-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md) _2018-02-06 13:49:31 (First version)_
+2. [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md) _2018-02-06 13:49:31 (Update)_
 2. [Shinzo Abe is officially reinstated as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md) _(Current version)_
 
 ### Related:

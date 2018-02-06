@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/12/la-la-land-leads-nominations.html)  [JSON](/new
 
 ### Changes:
 
-1. [74th Golden Globe Awards: "La La Land" leads nominations. ](/news/2016/12/12/74th-golden-globe-awards-la-la-land-leads-nominations.md) _2017-08-27 03:47:26 (First version)_
+1. [74th Golden Globe Awards: "La La Land" leads nominations. ](/news/2016/12/12/74th-golden-globe-awards-la-la-land-leads-nominations.md) _2018-02-06 13:49:29 (First version)_
 1. ["La La Land" leads nominations. ](/news/2016/12/12/la-la-land-leads-nominations.md) _(Current version)_
 
 ### Related:

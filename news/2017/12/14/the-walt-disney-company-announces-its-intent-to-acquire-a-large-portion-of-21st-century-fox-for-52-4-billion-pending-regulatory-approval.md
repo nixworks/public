@@ -16,7 +16,7 @@ Disney will pay $52.4 billion for a large portion of the entertainment giant, co
 
 ### Changes:
 
-1. [The Walt Disney Company acquires a large portion of 21st Century Fox for $52.4 billion. ](/news/2017/12/14/the-walt-disney-company-acquires-a-large-portion-of-21st-century-fox-for-52-4-billion.md) _2017-12-14 15:30:06 (First version)_
+1. [The Walt Disney Company acquires a large portion of 21st Century Fox for $52.4 billion. ](/news/2017/12/14/the-walt-disney-company-acquires-a-large-portion-of-21st-century-fox-for-52-4-billion.md) _2018-02-06 13:49:31 (First version)_
 1. [The Walt Disney Company announces its intent to acquire a large portion of 21st Century Fox for $52.4 billion, pending regulatory approval. ](/news/2017/12/14/the-walt-disney-company-announces-its-intent-to-acquire-a-large-portion-of-21st-century-fox-for-52-4-billion-pending-regulatory-approval.md) _(Current version)_
 
 ### Related:

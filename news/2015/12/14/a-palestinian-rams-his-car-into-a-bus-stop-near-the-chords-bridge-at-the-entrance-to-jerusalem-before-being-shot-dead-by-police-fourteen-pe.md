@@ -17,7 +17,7 @@ Terrorist from East Jerusalem rams his car into people waiting at a bus stop nea
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): A Palestinian rams his car into a bus stop near the Chords Bridge at the entrance to Jerusalem before being shot dead by police; fourteen people, including a toddler, are injured in the attack. ](/news/2015/12/14/israeli-palestinian-conflict-2015-a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-b.md) _2017-08-27 03:44:21 (First version)_
+1. [Israeli-Palestinian conflict (2015): A Palestinian rams his car into a bus stop near the Chords Bridge at the entrance to Jerusalem before being shot dead by police; fourteen people, including a toddler, are injured in the attack. ](/news/2015/12/14/israeli-palestinian-conflict-2015-a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-b.md) _2018-02-06 13:49:28 (First version)_
 1. [A Palestinian rams his car into a bus stop near the Chords Bridge at the entrance to Jerusalem before being shot dead by police; fourteen people, including a toddler, are injured in the attack. ](/news/2015/12/14/a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-being-shot-dead-by-police-fourteen-pe.md) _(Current version)_
 
 ### Related:

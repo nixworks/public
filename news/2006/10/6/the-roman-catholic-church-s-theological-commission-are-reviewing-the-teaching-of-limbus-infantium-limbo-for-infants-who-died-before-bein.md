@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/6/the-roman-catholic-church-s-theological-commissi
 
 ### Changes:
 
-1. [ The Roman Catholic Church's Theological Commission are reviewing the teaching of ''limbus infantium'' (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-be.md) _2017-08-25 03:18:32 (First version)_
+1. [ The Roman Catholic Church's Theological Commission are reviewing the teaching of ''limbus infantium'' (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-be.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Roman Catholic Church's Theological Commission are reviewing the teaching of "limbus infantium" (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-bein.md) _(Current version)_
 
 ### Related:

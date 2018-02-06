@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/4/the-space-shuttle-discovery-takes-off-from-cape-
 
 ### Changes:
 
-1. [ The Space Shuttle ''Discovery'' takes off from Cape Canaveral for the International Space Station at 2:38pm EDT (1838 UTC) after its liftoff had been postponed twice. ](/news/2006/07/4/the-space-shuttle-discovery-takes-off-from-cape-canaveral-for-the-international-space-station-at-2-38pm-edt-1838-utc-after-its-liftof.md) _2017-08-25 03:17:53 (First version)_
+1. [ The Space Shuttle ''Discovery'' takes off from Cape Canaveral for the International Space Station at 2:38pm EDT (1838 UTC) after its liftoff had been postponed twice. ](/news/2006/07/4/the-space-shuttle-discovery-takes-off-from-cape-canaveral-for-the-international-space-station-at-2-38pm-edt-1838-utc-after-its-liftof.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Space Shuttle "Discovery" takes off from Cape Canaveral for the International Space Station at 2:38pm EDT (1838 UTC) after its liftoff had been postponed twice. ](/news/2006/07/4/the-space-shuttle-discovery-takes-off-from-cape-canaveral-for-the-international-space-station-at-2-38pm-edt-1838-utc-after-its-liftoff.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Somali pirates are reported to have received a total of about $12.3m (£7.6m) in
 
 ### Changes:
 
-1. [Somali pirates receive a record PS7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-aps7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md) _2017-08-25 03:30:53 (First version)_
+1. [Somali pirates receive a record PS7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-aps7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md) _2018-02-06 13:49:21 (First version)_
 1. [Somali pirates receive a record GBP7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-agbp7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md) _(Current version)_
 
 ### Related:

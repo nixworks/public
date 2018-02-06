@@ -16,7 +16,7 @@ The Health Ministry on Tuesday (Sept 13) reported two more cases of locally tran
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The Department of Health of the Philippines discover an additional two cases of Zika virus infections bringing the total to eight. ](/news/2016/09/13/2015-16-zika-virus-epidemic-the-department-of-health-of-the-philippines-discover-an-additional-two-cases-of-zika-virus-infections-bringin.md) _2017-08-27 03:46:51 (First version)_
+1. [2015-16 Zika virus epidemic: The Department of Health of the Philippines discover an additional two cases of Zika virus infections bringing the total to eight. ](/news/2016/09/13/2015-16-zika-virus-epidemic-the-department-of-health-of-the-philippines-discover-an-additional-two-cases-of-zika-virus-infections-bringin.md) _2018-02-06 13:49:29 (First version)_
 1. [The Department of Health of the Philippines discover an additional two cases of Zika virus infections bringing the total to eight. ](/news/2016/09/13/the-department-of-health-of-the-philippines-discover-an-additional-two-cases-of-zika-virus-infections-bringing-the-total-to-eight.md) _(Current version)_
 
 ### Related:

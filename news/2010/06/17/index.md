@@ -15,7 +15,7 @@ _Context: Maharashtra, India_
 ### [At least 46 people are killed, 50 others disappear and millions are affected following heavy five-day rains in China's southern regions. ](/news/2010/06/17/at-least-46-people-are-killed-50-others-disappear-and-millions-are-affected-following-heavy-five-day-rains-in-china-s-southern-regions.md)
 ##### Myanmar
 ### [46 people die when heavy rains trigger landslides in western Myanmar, in Rakhine state in an area bordering Bangladesh. ](/news/2010/06/17/46-people-die-when-heavy-rains-trigger-landslides-in-western-myanmar-in-rakhine-state-in-an-area-bordering-bangladesh.md)
-_Context: Rakhine State, Bangladesh, Myanmar_
+_Context: Bangladesh, Myanmar, Rakhine State_
 
 ##### Netherlands
 ### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
@@ -27,7 +27,7 @@ An explosion at a coalmine in Colombia kills at least 16 workers with about 70 s
 
 ##### Anhui Province
 ### [3 people died after supports collapsed on them at a coal mine in east China's Anhui Province, a spokesman with the Anhui Huainan Mining Group in Bagongshan District of Huainan City. ](/news/2010/06/17/3-people-died-after-supports-collapsed-on-them-at-a-coal-mine-in-east-china-s-anhui-province-a-spokesman-with-the-anhui-huainan-mining-grou.md)
-_Context: Anhui, Huainan, Anhui Province, Bagongshan_
+_Context: Anhui, Bagongshan, Huainan, Anhui Province_
 
 ##### Biak Island
 ### [As many as 1,800 homes are estimated to have been destroyed on Biak Island, West Papua, Indonesia, as a result of the 7.0 magnitude 2010 Papua earthquake. ](/news/2010/06/17/as-many-as-1-800-homes-are-estimated-to-have-been-destroyed-on-biak-island-west-papua-indonesia-as-a-result-of-the-7-0-magnitude-2010-pap.md)
@@ -35,7 +35,7 @@ Seven churches, a power station and an elementary school are also razed. The reg
 
 ##### BP
 ### [BP Chief Executive Tony Hayward testifies before the U.S. Congress, apologizing for the spill but avoiding answering most questions and stating that he was unaware of the risks at the Deepwater Horizon rig that exploded in April causing the oil spill. ](/news/2010/06/17/bp-chief-executive-tony-hayward-testifies-before-the-u-s-congress-apologizing-for-the-spill-but-avoiding-answering-most-questions-and-stat.md)
-_Context: Deepwater Horizon, U.S. Congress, Tony Hayward, BP, Deepwater Horizon oil spill_
+_Context: Tony Hayward, Deepwater Horizon, Deepwater Horizon oil spill, U.S. Congress, BP_
 
 ##### Israel
 ### [Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s-hamas-rulers-say-this-is-propaga.md)
@@ -49,13 +49,13 @@ _Context: 2010 FIFA World Cup_
 ### [The Los Angeles Lakers win the 2010 NBA Finals defeating the Boston Celtics 83-79 in Game 7. ](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.md)
 First Game 7 of Finals in Five Years Ends with Los Angeles Win
 
-##### Turkish
+##### Turkey
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Iraq, Kurdish, Kurdistan Workers' Party, disarm, Turkish_
+_Context: disarm, Turkey, Kurdistan Workers' Party, Kurdish, Iraq_
 
 ##### Times Square bomber
 ### [The Times Square bombing attempt suspect is indicted on 10 terrorism and weapons charges in New York City. ](/news/2010/06/17/the-times-square-bombing-attempt-suspect-is-indicted-on-10-terrorism-and-weapons-charges-in-new-york-city.md)
-_Context: Times Square bomber, New York City_
+_Context: New York City, Times Square bomber_
 
 ##### Canadian
 ### [A four-year Canadian inquiry concludes that a "cascading series of errors" led to the bombing of Air India Flight 182 which crashed into the Atlantic Ocean south of Ireland on 23 June 1985, killing all 329 people on board. ](/news/2010/06/17/a-four-year-canadian-inquiry-concludes-that-a-cascading-series-of-errors-led-to-the-bombing-of-air-india-flight-182-which-crashed-into-the.md)
@@ -83,11 +83,11 @@ _Context: Austrian politics, Austria, Hans Dichand_
 
 ##### Kenya
 ### [Kenyan Assistant Roads Minister Wilfred Machage is suspended by President Mwai Kibaki after being charged, alongside two other MPs, with inciting hatred yesterday. ](/news/2010/06/17/kenyan-assistant-roads-minister-wilfred-machage-is-suspended-by-president-mwai-kibaki-after-being-charged-alongside-two-other-mps-with-inc.md)
-_Context: president, Kenya, Wilfred Machage, Mwai Kibaki_
+_Context: Kenya, president, Mwai Kibaki, Wilfred Machage_
 
 ##### Rwanda
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: Rwanda, United States_
+_Context: United States, Rwanda_
 
 ##### surveillance cameras
 ### [Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. ](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-part-of-a-counter-terrorism-operation-in-highly-muslim-areas-are-put-into-temporary-disuse.md)

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/05/31/thousands-of-people-gather-in-istanbul-s-centra
 
 ### Changes:
 
-1. [First anniversary of the Gaza flotilla raid:Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/first-anniversary-of-the-gaza-flotilla-raid-pthousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed.md) _2017-08-25 03:33:18 (First version)_
-2. [First anniversary of the Gaza flotilla raid:: Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/first-anniversary-of-the-gaza-flotilla-raid-thousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed.md) _2017-08-27 03:33:27 (Update)_
+1. [First anniversary of the Gaza flotilla raid:: Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/first-anniversary-of-the-gaza-flotilla-raid-thousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed.md) _2018-02-06 13:49:22 (First version)_
+2. [First anniversary of the Gaza flotilla raid:Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/first-anniversary-of-the-gaza-flotilla-raid-pthousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed.md) _2018-02-06 13:49:22 (Update)_
 2. [Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/thousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed-during-the-gaza-flotilla-raid-a-year-ago.md) _(Current version)_
 
 ### Related:

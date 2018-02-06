@@ -13,11 +13,11 @@ _Context: Kathmandu, Nepal_
 
 ##### 9/11 Commission
 ### [ Responding to requests by the September 11th Commission, the White House releases a newly declassified President's Daily Brief from a month before the September 11, 2001 attacks warning of possible al-Qaeda activity, including planned hijackings, within the United States. ](/news/2004/04/10/responding-to-requests-by-the-september-11th-commission-the-white-house-releases-a-newly-declassified-president-s-daily-brief-from-a-month.md)
-_Context: aircraft piracy, White House, September 11, 2001 attacks, 9/11 Commission, al-Qaeda, President's Daily Brief_
+_Context: al-Qaeda, 9/11 Commission, aircraft piracy, September 11, 2001 attacks, White House, President's Daily Brief_
 
 ##### Research
 ### [ Researchers develop a small device called "the CPOD" which does for people what black boxes do for airplanes. ](/news/2004/04/10/researchers-develop-a-small-device-called-the-cpod-which-does-for-people-what-black-boxes-do-for-airplanes.md)
-_Context: black box, Research, CPOD, airplane_
+_Context: Research, CPOD, black box, airplane_
 
 ## [Previous Day...](/news/2004/04/9/index.md)
 

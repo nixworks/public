@@ -17,7 +17,7 @@ At least 13 people were killed and 36 others were wounded when gunmen attacked t
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The American University of Afghanistan in Kabul is attacked by suspected Taliban militants, resulting in at least 13 deaths and 30 injured. ](/news/2016/08/24/war-in-afghanistan-2015-present-the-american-university-of-afghanistan-in-kabul-is-attacked-by-suspected-taliban-militants-resulting-i.md) _2017-08-27 03:46:42 (First version)_
+1. [War in Afghanistan (2015-present): The American University of Afghanistan in Kabul is attacked by suspected Taliban militants, resulting in at least 13 deaths and 30 injured. ](/news/2016/08/24/war-in-afghanistan-2015-present-the-american-university-of-afghanistan-in-kabul-is-attacked-by-suspected-taliban-militants-resulting-i.md) _2018-02-06 13:49:29 (First version)_
 1. [The American University of Afghanistan in Kabul is attacked by suspected Taliban militants, resulting in at least 13 deaths and 30 injured. ](/news/2016/08/24/the-american-university-of-afghanistan-in-kabul-is-attacked-by-suspected-taliban-militants-resulting-in-at-least-13-deaths-and-30-injured.md) _(Current version)_
 
 ### Related:

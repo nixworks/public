@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/12/8/palestinian-leader-mahmoud-abbas-says-middle-eas
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeliapalestinian-conflict-ppalestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-st.md) _2017-08-25 03:31:19 (First version)_
-2. [Israeli-Palestinian conflict:: Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-s.md) _2017-08-27 03:31:27 (Update)_
+1. [Israeli-Palestinian conflict:Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeliapalestinian-conflict-ppalestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-st.md) _2018-02-06 13:49:21 (First version)_
+2. [Israeli-Palestinian conflict:: Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-s.md) _2018-02-06 13:49:21 (Update)_
 2. [Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-stop-building-in-settlements.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.html)  [JSON]
 
 ### Changes:
 
-1. [2015 Alaska Sockeye wildfire: The wildfire grows to 8,500 acres. ](/news/2015/06/15/2015-alaska-sockeye-wildfire-the-wildfire-grows-to-8-500-acres.md) _2017-08-27 03:42:33 (First version)_
+1. [2015 Alaska Sockeye wildfire: The wildfire grows to 8,500 acres. ](/news/2015/06/15/2015-alaska-sockeye-wildfire-the-wildfire-grows-to-8-500-acres.md) _2018-02-06 13:49:27 (First version)_
 1. [ The wildfire grows to 8,500 acres. ](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.md) _(Current version)_
 
 ### Related:

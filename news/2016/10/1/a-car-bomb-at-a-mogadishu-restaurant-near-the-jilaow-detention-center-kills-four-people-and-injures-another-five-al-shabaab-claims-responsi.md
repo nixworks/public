@@ -18,8 +18,8 @@ Somali Islamist group al Shabaab bombed a restaurant frequented by members of th
 
 ### Changes:
 
-1. [A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. ](/news/2016/10/1/a-car-bomb-at-a-mogadishu-restaurant-near-the-jilaow-detention-center-kills-four-people-and-injures-another-five-al-shabaab-claims-respons.md) _2017-08-25 03:46:32 (First version)_
-2. [War in Somalia: A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. ](/news/2016/10/1/war-in-somalia-a-car-bomb-at-a-mogadishu-restaurant-near-the-jilaow-detention-center-kills-four-people-and-injures-another-five-al-shabaab.md) _2017-08-27 03:46:56 (Update)_
+1. [War in Somalia: A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. ](/news/2016/10/1/war-in-somalia-a-car-bomb-at-a-mogadishu-restaurant-near-the-jilaow-detention-center-kills-four-people-and-injures-another-five-al-shabaab.md) _2018-02-06 13:49:29 (First version)_
+2. [A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. ](/news/2016/10/1/a-car-bomb-at-a-mogadishu-restaurant-near-the-jilaow-detention-center-kills-four-people-and-injures-another-five-al-shabaab-claims-respons.md) _2018-02-06 13:49:29 (Update)_
 2. [A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. ](/news/2016/10/1/a-car-bomb-at-a-mogadishu-restaurant-near-the-jilaow-detention-center-kills-four-people-and-injures-another-five-al-shabaab-claims-responsi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wad
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/war-in-somalia-2009-present-mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab.md) _2017-08-27 03:48:07 (First version)_
+1. [War in Somalia (2009-present): Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/war-in-somalia-2009-present-mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab.md) _2018-02-06 13:49:30 (First version)_
 1. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _(Current version)_
 
 ### Related:

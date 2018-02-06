@@ -16,7 +16,7 @@ It&#39;s the end of an era. Once a staple, the messaging app will be discontinue
 
 ### Changes:
 
-1. [AIM's owner, Oath Inc., announced that it would discontinue AIM as a service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announced-that-it-would-discontinue-aim-as-a-service-on-december-15-2017.md) _2017-10-06 23:30:06 (First version)_
+1. [AIM's owner, Oath Inc., announced that it would discontinue AIM as a service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announced-that-it-would-discontinue-aim-as-a-service-on-december-15-2017.md) _2018-02-06 13:49:31 (First version)_
 1. [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Agreement reached to form a unity government and hold early elections, but quest
 
 ### Changes:
 
-1. [Euromaidan:The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/euromaidan-pthe-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md) _2017-08-25 03:40:04 (First version)_
-2. [Euromaidan:: The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/euromaidan-the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md) _2017-08-27 03:40:22 (Update)_
+1. [Euromaidan:: The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/euromaidan-the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/euromaidan-pthe-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md) _2018-02-06 13:49:25 (Update)_
 2. [The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A bus with an unlicensed driver spun out of control near New Orleans on Sunday, 
 
 ### Changes:
 
-1. [2016 Louisiana floods: A bus carrying volunteers crashes into emergency vehicles responding to an earlier accident near New Orleans killing two, including the St. John the Baptist Fire District Chief, and injuring 43 more. ](/news/2016/08/28/2016-louisiana-floods-a-bus-carrying-volunteers-crashes-into-emergency-vehicles-responding-to-an-earlier-accident-near-new-orleans-killing.md) _2017-08-27 03:46:43 (First version)_
+1. [2016 Louisiana floods: A bus carrying volunteers crashes into emergency vehicles responding to an earlier accident near New Orleans killing two, including the St. John the Baptist Fire District Chief, and injuring 43 more. ](/news/2016/08/28/2016-louisiana-floods-a-bus-carrying-volunteers-crashes-into-emergency-vehicles-responding-to-an-earlier-accident-near-new-orleans-killing.md) _2018-02-06 13:49:29 (First version)_
 1. [A bus carrying volunteers crashes into emergency vehicles responding to an earlier accident near New Orleans killing two, including the St. John the Baptist Fire District Chief, and injuring 43 more. ](/news/2016/08/28/a-bus-carrying-volunteers-crashes-into-emergency-vehicles-responding-to-an-earlier-accident-near-new-orleans-killing-two-including-the-st.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Israel gives final approval for the controversial building of 1,600 settler home
 
 ### Changes:
 
-1. [Final approval is given for the building of 1,600 Israeli settler homes in ''disputed'' East Jerusalem by Israeli Interior Minister Eli Yishai despite a diplomatic rebuke Tuesday from the United States over earlier construction plans. ](/news/2011/08/11/final-approval-is-given-for-the-building-of-1-600-israeli-settler-homes-in-disputed-east-jerusalem-by-israeli-interior-minister-eli-yish.md) _2017-08-25 03:33:59 (First version)_
+1. [Final approval is given for the building of 1,600 Israeli settler homes in ''disputed'' East Jerusalem by Israeli Interior Minister Eli Yishai despite a diplomatic rebuke Tuesday from the United States over earlier construction plans. ](/news/2011/08/11/final-approval-is-given-for-the-building-of-1-600-israeli-settler-homes-in-disputed-east-jerusalem-by-israeli-interior-minister-eli-yish.md) _2018-02-06 13:49:22 (First version)_
 1. [Final approval is given for the building of 1,600 Israeli settler homes in "disputed" East Jerusalem by Israeli Interior Minister Eli Yishai despite a diplomatic rebuke Tuesday from the United States over earlier construction plans. ](/news/2011/08/11/final-approval-is-given-for-the-building-of-1-600-israeli-settler-homes-in-disputed-east-jerusalem-by-israeli-interior-minister-eli-yishai.md) _(Current version)_
 
 ### Related:

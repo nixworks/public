@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/10/6/two-car-bombs-detonate-in-a-village-near-tal-afa
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Two car bombs detonate in a village near Tal Afar, Iraq killing and wounding dozens of people. ](/news/2013/10/6/iraqi-insurgency-post-u-s-withdrawal-ptwo-car-bombs-detonate-in-a-village-near-tal-afar-iraq-killing-and-wounding-dozens-of-people.md) _2017-08-25 03:39:21 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Two car bombs detonate in a village near Tal Afar, Iraq killing and wounding dozens of people. ](/news/2013/10/6/iraqi-insurgency-post-u-s-withdrawal-two-car-bombs-detonate-in-a-village-near-tal-afar-iraq-killing-and-wounding-dozens-of-people.md) _2017-08-27 03:39:38 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Two car bombs detonate in a village near Tal Afar, Iraq killing and wounding dozens of people. ](/news/2013/10/6/iraqi-insurgency-post-u-s-withdrawal-two-car-bombs-detonate-in-a-village-near-tal-afar-iraq-killing-and-wounding-dozens-of-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Two car bombs detonate in a village near Tal Afar, Iraq killing and wounding dozens of people. ](/news/2013/10/6/iraqi-insurgency-post-u-s-withdrawal-ptwo-car-bombs-detonate-in-a-village-near-tal-afar-iraq-killing-and-wounding-dozens-of-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Two car bombs detonate in a village near Tal Afar, Iraq killing and wounding dozens of people. ](/news/2013/10/6/two-car-bombs-detonate-in-a-village-near-tal-afar-iraq-killing-and-wounding-dozens-of-people.md) _(Current version)_
 
 ### Related:

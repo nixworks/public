@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/3/puerto-rico-files-for-the-largest-local-governme
 
 ### Changes:
 
-1. [Puerto Rico government-debt crisis: Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-government-debt-crisis-puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _2017-08-27 03:48:17 (First version)_
+1. [Puerto Rico government-debt crisis: Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-government-debt-crisis-puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _2018-02-06 13:49:30 (First version)_
 1. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _(Current version)_
 
 ### Related:

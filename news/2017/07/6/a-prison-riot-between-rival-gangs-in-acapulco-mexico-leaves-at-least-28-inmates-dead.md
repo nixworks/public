@@ -16,7 +16,7 @@ Rival gangs clashed in a jail in the city of Acapulco, and some of the victims w
 
 ### Changes:
 
-1. [Crime in Mexico: A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/crime-in-mexico-a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md) _2017-08-27 03:48:37 (First version)_
+1. [Crime in Mexico: A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/crime-in-mexico-a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md) _2018-02-06 13:49:31 (First version)_
 1. [A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md) _(Current version)_
 
 ### Related:

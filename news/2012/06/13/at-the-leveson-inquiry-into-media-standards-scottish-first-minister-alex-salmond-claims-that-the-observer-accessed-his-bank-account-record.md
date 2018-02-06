@@ -17,8 +17,8 @@ Furious Conservative MPs threatened to derail Nick Clegg&#039;s plans for an ele
 
 ### Changes:
 
-1. [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that ''The Observer'' accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-reco.md) _2017-08-25 03:35:52 (First version)_
-2. [Leveson Inquiry: At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/leveson-inquiry-at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-ba.md) _2017-08-27 03:36:03 (Update)_
+1. [Leveson Inquiry: At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/leveson-inquiry-at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-ba.md) _2018-02-06 13:49:23 (First version)_
+2. [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that ''The Observer'' accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-reco.md) _2018-02-06 13:49:23 (Update)_
 2. [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-record.md) _(Current version)_
 
 ### Related:

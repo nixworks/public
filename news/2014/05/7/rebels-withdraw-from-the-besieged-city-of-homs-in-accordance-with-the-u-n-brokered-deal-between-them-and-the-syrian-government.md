@@ -16,8 +16,8 @@ Syrian rebels leave the last opposition-held enclaves in Homs, ending three year
 
 ### Changes:
 
-1. [Syrian Civil War:Rebels withdraw from the besieged city of Homs in accordance with the U.N.-brokered deal between them and the Syrian government. ](/news/2014/05/7/syrian-civil-war-prebels-withdraw-from-the-besieged-city-of-homs-in-accordance-with-the-u-n-brokered-deal-between-them-and-the-syrian-gover.md) _2017-08-25 03:40:23 (First version)_
-2. [Syrian Civil War:: Rebels withdraw from the besieged city of Homs in accordance with the U.N.-brokered deal between them and the Syrian government. ](/news/2014/05/7/syrian-civil-war-rebels-withdraw-from-the-besieged-city-of-homs-in-accordance-with-the-u-n-brokered-deal-between-them-and-the-syrian-gove.md) _2017-08-27 03:40:40 (Update)_
+1. [Syrian Civil War:: Rebels withdraw from the besieged city of Homs in accordance with the U.N.-brokered deal between them and the Syrian government. ](/news/2014/05/7/syrian-civil-war-rebels-withdraw-from-the-besieged-city-of-homs-in-accordance-with-the-u-n-brokered-deal-between-them-and-the-syrian-gove.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:Rebels withdraw from the besieged city of Homs in accordance with the U.N.-brokered deal between them and the Syrian government. ](/news/2014/05/7/syrian-civil-war-prebels-withdraw-from-the-besieged-city-of-homs-in-accordance-with-the-u-n-brokered-deal-between-them-and-the-syrian-gover.md) _2018-02-06 13:49:26 (Update)_
 2. [Rebels withdraw from the besieged city of Homs in accordance with the U.N.-brokered deal between them and the Syrian government. ](/news/2014/05/7/rebels-withdraw-from-the-besieged-city-of-homs-in-accordance-with-the-u-n-brokered-deal-between-them-and-the-syrian-government.md) _(Current version)_
 
 ### Related:

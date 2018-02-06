@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awar
 
 ### Changes:
 
-1. [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film ''Nader and Simin, A Separation'' as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-ber.md) _2017-08-25 03:32:16 (First version)_
+1. [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film ''Nader and Simin, A Separation'' as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-ber.md) _2018-02-06 13:49:22 (First version)_
 1. [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md) _(Current version)_
 
 ### Related:

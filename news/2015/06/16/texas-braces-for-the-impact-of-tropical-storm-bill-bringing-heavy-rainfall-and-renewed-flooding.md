@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/16/texas-braces-for-the-impact-of-tropical-storm-b
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Texas braces for the impact of Tropical Storm Bill bringing heavy rainfall and renewed flooding. ](/news/2015/06/16/2015-atlantic-hurricane-season-texas-braces-for-the-impact-of-tropical-storm-bill-bringing-heavy-rainfall-and-renewed-flooding.md) _2017-08-27 03:42:33 (First version)_
+1. [2015 Atlantic hurricane season: Texas braces for the impact of Tropical Storm Bill bringing heavy rainfall and renewed flooding. ](/news/2015/06/16/2015-atlantic-hurricane-season-texas-braces-for-the-impact-of-tropical-storm-bill-bringing-heavy-rainfall-and-renewed-flooding.md) _2018-02-06 13:49:27 (First version)_
 1. [Texas braces for the impact of Tropical Storm Bill bringing heavy rainfall and renewed flooding. ](/news/2015/06/16/texas-braces-for-the-impact-of-tropical-storm-bill-bringing-heavy-rainfall-and-renewed-flooding.md) _(Current version)_
 
 ### Related:

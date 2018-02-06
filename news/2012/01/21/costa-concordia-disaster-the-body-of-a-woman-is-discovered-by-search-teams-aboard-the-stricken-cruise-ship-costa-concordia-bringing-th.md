@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is
 
 ### Changes:
 
-1. [''Costa Concordia'' disaster: The body of a woman is discovered by search teams aboard the stricken cruise ship ''Costa Concordia'', bringing the confirmed death toll of the ship's capsizing to 12. Rescue efforts continue apace, as it is feared the ship may soon slip into deeper waters off the Italian coast. ](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is-discovered-by-search-teams-aboard-the-stricken-cruise-ship-costa-concordia-bringin.md) _2017-08-25 03:34:52 (First version)_
+1. [''Costa Concordia'' disaster: The body of a woman is discovered by search teams aboard the stricken cruise ship ''Costa Concordia'', bringing the confirmed death toll of the ship's capsizing to 12. Rescue efforts continue apace, as it is feared the ship may soon slip into deeper waters off the Italian coast. ](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is-discovered-by-search-teams-aboard-the-stricken-cruise-ship-costa-concordia-bringin.md) _2018-02-06 13:49:23 (First version)_
 1. ["Costa Concordia" disaster: The body of a woman is discovered by search teams aboard the stricken cruise ship "Costa Concordia", bringing the confirmed death toll of the ship's capsizing to 12. Rescue efforts continue apace, as it is feared the ship may soon slip into deeper waters off the Italian coast. ](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is-discovered-by-search-teams-aboard-the-stricken-cruise-ship-costa-concordia-bringing-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ New French President Emmanuel Macron pledges to work to overcome divisions in so
 
 ### Changes:
 
-1. [French presidential election, 2017: France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/french-presidential-election-2017-france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _2017-08-27 03:48:20 (First version)_
+1. [French presidential election, 2017: France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/french-presidential-election-2017-france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _2018-02-06 13:49:30 (First version)_
 1. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _(Current version)_
 
 ### Related:

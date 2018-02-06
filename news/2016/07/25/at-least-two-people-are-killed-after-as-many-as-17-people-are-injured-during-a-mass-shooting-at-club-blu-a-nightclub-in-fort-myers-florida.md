@@ -17,7 +17,7 @@ Two people are killed and up to 16 injured in a shooting at a nightclub in the c
 
 ### Changes:
 
-1. [2016 Fort Myers nightclub shooting: At least two people are killed after as many as 17 people are injured during a mass shooting at Club Blu, a nightclub in Fort Myers, Florida, with most of the victims reportedly minors. Two suspects and a person of interest have been detained in connection with the shooting. ](/news/2016/07/25/2016-fort-myers-nightclub-shooting-at-least-two-people-are-killed-after-as-many-as-17-people-are-injured-during-a-mass-shooting-at-club-blu.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Fort Myers nightclub shooting: At least two people are killed after as many as 17 people are injured during a mass shooting at Club Blu, a nightclub in Fort Myers, Florida, with most of the victims reportedly minors. Two suspects and a person of interest have been detained in connection with the shooting. ](/news/2016/07/25/2016-fort-myers-nightclub-shooting-at-least-two-people-are-killed-after-as-many-as-17-people-are-injured-during-a-mass-shooting-at-club-blu.md) _2018-02-06 13:49:29 (First version)_
 1. [At least two people are killed after as many as 17 people are injured during a mass shooting at Club Blu, a nightclub in Fort Myers, Florida, with most of the victims reportedly minors. Two suspects and a person of interest have been detained in connection with the shooting. ](/news/2016/07/25/at-least-two-people-are-killed-after-as-many-as-17-people-are-injured-during-a-mass-shooting-at-club-blu-a-nightclub-in-fort-myers-florida.md) _(Current version)_
 
 ### Related:

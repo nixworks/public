@@ -16,7 +16,7 @@ Despite weakening to a tropical rainstorm, Koppu will continue to bring the thre
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Koppu strengthens to a typhoon ahead of threatening lives and properties in the Philippines island of Luzon over the weekend. ](/news/2015/10/16/2015-pacific-typhoon-season-koppu-strengthens-to-a-typhoon-ahead-of-threatening-lives-and-properties-in-the-philippines-island-of-luzon-ove.md) _2017-08-27 03:43:22 (First version)_
+1. [2015 Pacific typhoon season: Koppu strengthens to a typhoon ahead of threatening lives and properties in the Philippines island of Luzon over the weekend. ](/news/2015/10/16/2015-pacific-typhoon-season-koppu-strengthens-to-a-typhoon-ahead-of-threatening-lives-and-properties-in-the-philippines-island-of-luzon-ove.md) _2018-02-06 13:49:27 (First version)_
 1. [Koppu strengthens to a typhoon ahead of threatening lives and properties in the Philippines island of Luzon over the weekend. ](/news/2015/10/16/koppu-strengthens-to-a-typhoon-ahead-of-threatening-lives-and-properties-in-the-philippines-island-of-luzon-over-the-weekend.md) _(Current version)_
 
 ### Related:

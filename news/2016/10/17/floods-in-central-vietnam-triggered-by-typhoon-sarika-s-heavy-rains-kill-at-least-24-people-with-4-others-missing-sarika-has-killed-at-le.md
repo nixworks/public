@@ -15,7 +15,7 @@ HANOI, Vietnam (AP) — Floods triggered by heavy rains have killed 24 people an
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Floods in Central Vietnam, triggered by Typhoon Sarika's heavy rains, kill at least 24 people with 4 others missing. Sarika has killed at least two people and displaced more than 150,000 in the Philippines. ](/news/2016/10/17/2016-pacific-typhoon-season-floods-in-central-vietnam-triggered-by-typhoon-sarika-s-heavy-rains-kill-at-least-24-people-with-4-others-mis.md) _2017-08-27 03:47:04 (First version)_
+1. [2016 Pacific typhoon season: Floods in Central Vietnam, triggered by Typhoon Sarika's heavy rains, kill at least 24 people with 4 others missing. Sarika has killed at least two people and displaced more than 150,000 in the Philippines. ](/news/2016/10/17/2016-pacific-typhoon-season-floods-in-central-vietnam-triggered-by-typhoon-sarika-s-heavy-rains-kill-at-least-24-people-with-4-others-mis.md) _2018-02-06 13:49:29 (First version)_
 1. [Floods in Central Vietnam, triggered by Typhoon Sarika's heavy rains, kill at least 24 people with 4 others missing. Sarika has killed at least two people and displaced more than 150,000 in the Philippines. ](/news/2016/10/17/floods-in-central-vietnam-triggered-by-typhoon-sarika-s-heavy-rains-kill-at-least-24-people-with-4-others-missing-sarika-has-killed-at-le.md) _(Current version)_
 
 ### Related:

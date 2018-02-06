@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-fa
 
 ### Changes:
 
-1. [Corruption in Iran: Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/corruption-in-iran-former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-govern.md) _2017-08-27 03:48:44 (First version)_
+1. [Corruption in Iran: Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/corruption-in-iran-former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-govern.md) _2018-02-06 13:49:31 (First version)_
 1. [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md) _(Current version)_
 
 ### Related:

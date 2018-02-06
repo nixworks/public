@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fre
 
 ### Changes:
 
-1. [Disappearance of Amelia Earhart: The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/disappearance-of-amelia-earhart-the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were.md) _2017-08-27 03:48:37 (First version)_
+1. [Disappearance of Amelia Earhart: The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/disappearance-of-amelia-earhart-the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were.md) _2018-02-06 13:49:31 (First version)_
 1. [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md) _(Current version)_
 
 ### Related:

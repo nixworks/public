@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-c
 
 ### Changes:
 
-1. [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were -hijacked, at the hands of the Iranians-; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-hijacked-at-the-hands-of-the-iranians-possibly-r.md) _2017-08-27 03:28:00 (First version)_
+1. [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were -hijacked, at the hands of the Iranians-; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-hijacked-at-the-hands-of-the-iranians-possibly-r.md) _2018-02-06 13:49:20 (First version)_
 1. [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were "hijacked, at the hands of the Iranians"; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-ahijacked-at-the-hands-of-the-iraniansa-possibly-r.md) _(Current version)_
 
 ### Related:

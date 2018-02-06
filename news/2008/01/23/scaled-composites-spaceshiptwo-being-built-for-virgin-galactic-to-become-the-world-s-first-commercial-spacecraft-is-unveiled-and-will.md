@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/23/scaled-composites-spaceshiptwo-being-built-for-
 
 ### Changes:
 
-1. [ Scaled Composites ''SpaceShipTwo'', being built for Virgin Galactic to become the world's first commercial spacecraft, is unveiled, and will begin test flights in mid-2008. ](/news/2008/01/23/scaled-composites-spaceshiptwo-being-built-for-virgin-galactic-to-become-the-world-s-first-commercial-spacecraft-is-unveiled-and-wil.md) _2017-08-25 03:21:41 (First version)_
+1. [ Scaled Composites ''SpaceShipTwo'', being built for Virgin Galactic to become the world's first commercial spacecraft, is unveiled, and will begin test flights in mid-2008. ](/news/2008/01/23/scaled-composites-spaceshiptwo-being-built-for-virgin-galactic-to-become-the-world-s-first-commercial-spacecraft-is-unveiled-and-wil.md) _2018-02-06 13:49:18 (First version)_
 1. [ Scaled Composites "SpaceShipTwo", being built for Virgin Galactic to become the world's first commercial spacecraft, is unveiled, and will begin test flights in mid-2008. ](/news/2008/01/23/scaled-composites-spaceshiptwo-being-built-for-virgin-galactic-to-become-the-world-s-first-commercial-spacecraft-is-unveiled-and-will.md) _(Current version)_
 
 ### Related:

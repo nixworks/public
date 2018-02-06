@@ -18,8 +18,8 @@ Suzanne Mubarak, wife of the ousted Egyptian president, is detained for 15 days 
 
 ### Changes:
 
-1. [2011 Egyptian revolution:Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/2011-egyptian-revolution-pauthorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popula.md) _2017-08-25 03:33:06 (First version)_
-2. [2011 Egyptian revolution:: Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/2011-egyptian-revolution-authorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popul.md) _2017-08-27 03:33:15 (Update)_
+1. [2011 Egyptian revolution:Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/2011-egyptian-revolution-pauthorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popula.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian revolution:: Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/2011-egyptian-revolution-authorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popul.md) _2018-02-06 13:49:22 (Update)_
 2. [Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/authorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popular-revolution.md) _(Current version)_
 
 ### Related:

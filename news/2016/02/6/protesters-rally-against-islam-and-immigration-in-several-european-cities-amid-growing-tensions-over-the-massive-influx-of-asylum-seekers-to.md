@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/6/protesters-rally-against-islam-and-immigration-i
 
 ### Changes:
 
-1. [Opposition to immigration: Anti-Islamism: Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/opposition-to-immigration-anti-islamism-protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-ov.md) _2017-08-27 03:44:50 (First version)_
+1. [Opposition to immigration: Anti-Islamism: Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/opposition-to-immigration-anti-islamism-protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-ov.md) _2018-02-06 13:49:28 (First version)_
 1. [Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-over-the-massive-influx-of-asylum-seekers-to.md) _(Current version)_
 
 ### Related:

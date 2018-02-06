@@ -16,8 +16,8 @@ Senior Pakistani militant leader Mullah Nazir is killed by a US drone strike in 
 
 ### Changes:
 
-1. [War in North-West Pakistan:An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/war-in-north-west-pakistan-pan-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the-c.md) _2017-08-25 03:37:11 (First version)_
-2. [War in North-West Pakistan:: An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/war-in-north-west-pakistan-an-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the.md) _2017-08-27 03:37:21 (Update)_
+1. [War in North-West Pakistan:An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/war-in-north-west-pakistan-pan-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the-c.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/war-in-north-west-pakistan-an-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the.md) _2018-02-06 13:49:24 (Update)_
 2. [An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/an-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the-capital-of-wana-south-waziri.md) _(Current version)_
 
 ### Related:

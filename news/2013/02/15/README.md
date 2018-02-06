@@ -19,17 +19,17 @@ Police name one of the three people who died after an avalanche in the Highlands
 ### [In reaction to North Korea's latest nuclear test the European Union will tighten sanctions against the country in the form of blocking the trade of gold and diamonds, as well as cracking down on financial ties between them. ](/news/2013/02/15/in-reaction-to-north-korea-s-latest-nuclear-test-the-european-union-will-tighten-sanctions-against-the-country-in-the-form-of-blocking-the-t.md)
 The European Union will tighten sanctions on North Korea to curb trade in gold and diamonds and crack down on financial links in protest at Pyongyang&#039;s recent rocket launch and nuclear bomb test, EU diplomats said on Friday.
 
-##### British
+##### United Kingdom
 ### [The British catering firm Compass Group and hotel chain Whitbread both identify horse meat in products sold as beef. ](/news/2013/02/15/the-british-catering-firm-compass-group-and-hotel-chain-whitbread-both-identify-horse-meat-in-products-sold-as-beef.md)
-_Context: horses for meat, beef, Compass Group, 2013 meat adulteration scandal, British, Whitbread_
+_Context: Whitbread, horses for meat, United Kingdom, Compass Group, beef, 2013 meat adulteration scandal_
 
 ##### social network
 ### [The social networking giant Facebook announces that it was the target of sophisticated hackers, who through a then-unknown bug from Oracle's Java on an infected website, managed to infiltrate employees' laptops, and then the internal networks. There was no user data collected, but certain code and corporate e-mails could have been exfiltrated. ](/news/2013/02/15/the-social-networking-giant-facebook-announces-that-it-was-the-target-of-sophisticated-hackers-who-through-a-then-unknown-bug-from-oracle-s.md)
-_Context: e-mails, bug, Facebook, hackers, user data, network, laptop, Java, website, Oracle Corporation, social network_
+_Context: Facebook, social network, laptop, e-mails, hackers, user data, network, Java, bug, Oracle Corporation, website_
 
 ##### H.J. Heinz
 ### [Securities regulators file a lawsuit against traders in options on the stock of H.J. Heinz, alleging they had inside information of the planned acquisition of that company before the announcement thereof by Berkshire Hathaway and 3G Capital. ](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.md)
-_Context: H.J. Heinz, 3G Capital, Berkshire Hathaway Inc._
+_Context: 3G Capital, H.J. Heinz, Berkshire Hathaway Inc._
 
 ##### Westminster
 ### [Westminster's Independent Parliamentary Standards Authority launches an investigation into expenses claims submitted by MP Nadine Dorries. ](/news/2013/02/15/westminster-s-independent-parliamentary-standards-authority-launches-an-investigation-into-expenses-claims-submitted-by-mp-nadine-dorries.md)
@@ -41,7 +41,7 @@ Jesse Jackson Jr. and his wife Sandi intend to plead guilty to federal charges a
 
 ##### Near-Earth
 ### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about 50 m comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-50-m-comes-within-17-200-miles-27-700-km-from-the-earth-s-surface-this.md)
-_Context: asteroid, Near-Earth, Earth, diameter, 2012 DA14, record close approach_
+_Context: Earth, asteroid, 2012 DA14, diameter, Near-Earth, record close approach_
 
 ## [Previous Day...](/news/2013/02/14/index.md)
 

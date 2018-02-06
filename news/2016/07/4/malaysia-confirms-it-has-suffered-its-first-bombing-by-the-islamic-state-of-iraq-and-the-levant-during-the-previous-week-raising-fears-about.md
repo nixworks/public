@@ -16,7 +16,7 @@ The episode, which wounded eight people in Puchong, was thought to have been the
 
 ### Changes:
 
-1. [Terrorism in Malaysia: Malaysia confirms it has suffered its first bombing by the Islamic State of Iraq and the Levant during the previous week raising fears about the spread of influence of the militant group. ](/news/2016/07/4/terrorism-in-malaysia-malaysia-confirms-it-has-suffered-its-first-bombing-by-the-islamic-state-of-iraq-and-the-levant-during-the-previous-w.md) _2017-08-27 03:46:24 (First version)_
+1. [Terrorism in Malaysia: Malaysia confirms it has suffered its first bombing by the Islamic State of Iraq and the Levant during the previous week raising fears about the spread of influence of the militant group. ](/news/2016/07/4/terrorism-in-malaysia-malaysia-confirms-it-has-suffered-its-first-bombing-by-the-islamic-state-of-iraq-and-the-levant-during-the-previous-w.md) _2018-02-06 13:49:29 (First version)_
 1. [Malaysia confirms it has suffered its first bombing by the Islamic State of Iraq and the Levant during the previous week raising fears about the spread of influence of the militant group. ](/news/2016/07/4/malaysia-confirms-it-has-suffered-its-first-bombing-by-the-islamic-state-of-iraq-and-the-levant-during-the-previous-week-raising-fears-about.md) _(Current version)_
 
 ### Related:

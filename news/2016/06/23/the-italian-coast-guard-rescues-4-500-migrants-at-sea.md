@@ -16,7 +16,7 @@ Some 5,000 migrants were rescued from rubber dinghies in the Mediterranean on Th
 
 ### Changes:
 
-1. [European migration crisis: The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/european-migration-crisis-the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _2017-08-27 03:46:19 (First version)_
+1. [European migration crisis: The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/european-migration-crisis-the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _2018-02-06 13:49:29 (First version)_
 1. [The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _(Current version)_
 
 ### Related:

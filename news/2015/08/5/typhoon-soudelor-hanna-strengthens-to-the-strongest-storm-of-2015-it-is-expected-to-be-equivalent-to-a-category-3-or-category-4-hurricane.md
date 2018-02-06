@@ -17,7 +17,7 @@ Japan, Taiwan and China are preparing for the world’s most powerful storm of t
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Soudelor (Hanna) strengthens to the strongest storm of 2015; it is expected to be equivalent to a Category 3 or Category 4 hurricane when it hits Taiwan. ](/news/2015/08/5/2015-pacific-typhoon-season-typhoon-soudelor-hanna-strengthens-to-the-strongest-storm-of-2015-it-is-expected-to-be-equivalent-to-a-categ.md) _2017-08-27 03:42:47 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Soudelor (Hanna) strengthens to the strongest storm of 2015; it is expected to be equivalent to a Category 3 or Category 4 hurricane when it hits Taiwan. ](/news/2015/08/5/2015-pacific-typhoon-season-typhoon-soudelor-hanna-strengthens-to-the-strongest-storm-of-2015-it-is-expected-to-be-equivalent-to-a-categ.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Soudelor (Hanna) strengthens to the strongest storm of 2015; it is expected to be equivalent to a Category 3 or Category 4 hurricane when it hits Taiwan. ](/news/2015/08/5/typhoon-soudelor-hanna-strengthens-to-the-strongest-storm-of-2015-it-is-expected-to-be-equivalent-to-a-category-3-or-category-4-hurricane.md) _(Current version)_
 
 ### Related:

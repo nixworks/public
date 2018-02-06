@@ -16,7 +16,7 @@ In the country’s Khyber Agency and North Waziristan tribal regions
 
 ### Changes:
 
-1. [Operation Zarb-e-Azb: At least 24 militants are killed in Pakistan Air Force air strikes on positions in the Khyber Agency and North Waziristan. ](/news/2015/06/28/operation-zarb-e-azb-at-least-24-militants-are-killed-in-pakistan-air-force-air-strikes-on-positions-in-the-khyber-agency-and-north-waziris.md) _2017-08-27 03:42:36 (First version)_
+1. [Operation Zarb-e-Azb: At least 24 militants are killed in Pakistan Air Force air strikes on positions in the Khyber Agency and North Waziristan. ](/news/2015/06/28/operation-zarb-e-azb-at-least-24-militants-are-killed-in-pakistan-air-force-air-strikes-on-positions-in-the-khyber-agency-and-north-waziris.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 24 militants are killed in Pakistan Air Force air strikes on positions in the Khyber Agency and North Waziristan. ](/news/2015/06/28/at-least-24-militants-are-killed-in-pakistan-air-force-air-strikes-on-positions-in-the-khyber-agency-and-north-waziristan.md) _(Current version)_
 
 ### Related:

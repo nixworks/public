@@ -16,7 +16,7 @@ In the Palau presidential race, the incumbent, Tommy Remengesau, is leading his 
 
 ### Changes:
 
-1. [Palauan presidential election, 2016: Incumbent President of Palau Tommy Remengesau narrowly leads his brother-in-law, Surangel Whipps Jr., by 78 votes. Final results are expected to be announced later in November. ](/news/2016/11/4/palauan-presidential-election-2016-incumbent-president-of-palau-tommy-remengesau-narrowly-leads-his-brother-in-law-surangel-whipps-jr-b.md) _2017-08-27 03:47:11 (First version)_
+1. [Palauan presidential election, 2016: Incumbent President of Palau Tommy Remengesau narrowly leads his brother-in-law, Surangel Whipps Jr., by 78 votes. Final results are expected to be announced later in November. ](/news/2016/11/4/palauan-presidential-election-2016-incumbent-president-of-palau-tommy-remengesau-narrowly-leads-his-brother-in-law-surangel-whipps-jr-b.md) _2018-02-06 13:49:29 (First version)_
 1. [Incumbent President of Palau Tommy Remengesau narrowly leads his brother-in-law, Surangel Whipps Jr., by 78 votes. Final results are expected to be announced later in November. ](/news/2016/11/4/incumbent-president-of-palau-tommy-remengesau-narrowly-leads-his-brother-in-law-surangel-whipps-jr-by-78-votes-final-results-are-expecte.md) _(Current version)_
 
 ### Related:

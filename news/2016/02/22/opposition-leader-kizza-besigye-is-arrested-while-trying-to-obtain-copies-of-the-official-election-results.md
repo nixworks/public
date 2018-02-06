@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-whi
 
 ### Changes:
 
-1. [Ugandan general election, 2016: Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/ugandan-general-election-2016-opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md) _2017-08-27 03:44:59 (First version)_
+1. [Ugandan general election, 2016: Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/ugandan-general-election-2016-opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md) _2018-02-06 13:49:28 (First version)_
 1. [Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md) _(Current version)_
 
 ### Related:

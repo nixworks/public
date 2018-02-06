@@ -17,8 +17,8 @@ Two US soldiers are shot dead by a local policeman in Afghanistan, officials for
 
 ### Changes:
 
-1. [War on Terror:Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-pafghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _2017-08-25 03:36:16 (First version)_
-2. [War on Terror:: Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _2017-08-27 03:36:28 (Update)_
+1. [War on Terror:Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-pafghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _2018-02-06 13:49:23 (First version)_
+2. [War on Terror:: Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/war-on-terror-afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _2018-02-06 13:49:23 (Update)_
 2. [Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md) _(Current version)_
 
 ### Related:

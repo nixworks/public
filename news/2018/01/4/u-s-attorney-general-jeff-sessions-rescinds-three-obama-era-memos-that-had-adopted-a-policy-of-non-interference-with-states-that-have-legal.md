@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinds-thre
 
 ### Changes:
 
-1. [U.S. Attorney General Jeff Sessions rescinded three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinded-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-lega.md) _2018-01-05 10:30:05 (First version)_
+1. [U.S. Attorney General Jeff Sessions rescinded three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinded-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-lega.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. Attorney General Jeff Sessions rescinds three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinds-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-legal.md) _(Current version)_
 
 ### Related:

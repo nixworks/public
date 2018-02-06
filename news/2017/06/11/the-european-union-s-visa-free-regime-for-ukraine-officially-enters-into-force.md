@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukrai
 
 ### Changes:
 
-1. [Ukraine-European Union relations: The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/ukraine-european-union-relations-the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md) _2017-08-27 03:48:28 (First version)_
+1. [Ukraine-European Union relations: The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/ukraine-european-union-relations-the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md) _2018-02-06 13:49:30 (First version)_
 1. [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md) _(Current version)_
 
 ### Related:

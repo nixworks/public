@@ -16,7 +16,7 @@ A second healthcare worker involved in the care of America&#039;s first Ebola pa
 
 ### Changes:
 
-1. [Ebola virus outbreak in the United States: A second health worker tests positive for the ebola virus in Dallas, Texas. ](/news/2014/10/15/ebola-virus-outbreak-in-the-united-states-a-second-health-worker-tests-positive-for-the-ebola-virus-in-dallas-texas.md) _2017-08-27 03:41:24 (First version)_
+1. [Ebola virus outbreak in the United States: A second health worker tests positive for the ebola virus in Dallas, Texas. ](/news/2014/10/15/ebola-virus-outbreak-in-the-united-states-a-second-health-worker-tests-positive-for-the-ebola-virus-in-dallas-texas.md) _2018-02-06 13:49:26 (First version)_
 1. [A second health worker tests positive for the ebola virus in Dallas, Texas. ](/news/2014/10/15/a-second-health-worker-tests-positive-for-the-ebola-virus-in-dallas-texas.md) _(Current version)_
 
 ### Related:

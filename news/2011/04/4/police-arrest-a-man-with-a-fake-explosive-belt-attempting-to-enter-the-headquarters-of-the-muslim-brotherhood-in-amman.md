@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/04/4/police-arrest-a-man-with-a-fake-explosive-belt-a
 
 ### Changes:
 
-1. [2011 Jordanian protests:Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/2011-jordanian-protests-ppolice-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-am.md) _2017-08-25 03:32:43 (First version)_
-2. [2011 Jordanian protests:: Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/2011-jordanian-protests-police-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-a.md) _2017-08-27 03:32:51 (Update)_
+1. [2011 Jordanian protests:Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/2011-jordanian-protests-ppolice-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-am.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Jordanian protests:: Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/2011-jordanian-protests-police-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-a.md) _2018-02-06 13:49:22 (Update)_
 2. [Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/police-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-amman.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/9/an-assailant-injures-seven-people-one-severely-i
 
 ### Changes:
 
-1. [2017 Dsseldorf axe attack: An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. ](/news/2017/03/9/2017-dusseldorf-axe-attack-an-assailant-injures-seven-people-one-severely-in-an-axe-attack-at-the-central-railway-station-in-dusseldorf.md) _2017-08-27 03:47:57 (First version)_
+1. [2017 Dsseldorf axe attack: An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. ](/news/2017/03/9/2017-dusseldorf-axe-attack-an-assailant-injures-seven-people-one-severely-in-an-axe-attack-at-the-central-railway-station-in-dusseldorf.md) _2018-02-06 13:49:30 (First version)_
 1. [An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. ](/news/2017/03/9/an-assailant-injures-seven-people-one-severely-in-an-axe-attack-at-the-central-railway-station-in-dusseldorf-germany-police-have-arreste.md) _(Current version)_
 
 ### Related:

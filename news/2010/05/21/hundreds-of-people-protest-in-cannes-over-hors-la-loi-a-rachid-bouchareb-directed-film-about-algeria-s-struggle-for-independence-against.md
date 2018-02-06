@@ -18,7 +18,7 @@ What to do... what to do...
 
 ### Changes:
 
-1. [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md) _2017-08-25 03:27:58 (First version)_
+1. [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md) _2018-02-06 13:49:20 (First version)_
 1. [Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ The authorities in Taiwan accuse Kenya of using guns and tear gas to force 37 Ta
 
 ### Changes:
 
-1. [ Cross-Strait relations: Taiwan accuses China of "extrajudicial abduction" after 45 Taiwanese acquitted of fraud in Kenya were forcibly deported to China. ](/news/2016/04/12/cross-strait-relations-taiwan-accuses-china-of-extrajudicial-abduction-after-45-taiwanese-acquitted-of-fraud-in-kenya-were-forcibly-depo.md) _2017-08-27 03:45:35 (First version)_
+1. [ Cross-Strait relations: Taiwan accuses China of "extrajudicial abduction" after 45 Taiwanese acquitted of fraud in Kenya were forcibly deported to China. ](/news/2016/04/12/cross-strait-relations-taiwan-accuses-china-of-extrajudicial-abduction-after-45-taiwanese-acquitted-of-fraud-in-kenya-were-forcibly-depo.md) _2018-02-06 13:49:28 (First version)_
 1. [ Taiwan accuses China of "extrajudicial abduction" after 45 Taiwanese acquitted of fraud in Kenya were forcibly deported to China. ](/news/2016/04/12/taiwan-accuses-china-of-extrajudicial-abduction-after-45-taiwanese-acquitted-of-fraud-in-kenya-were-forcibly-deported-to-china.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ It became the first mainstream automaker to sound the death knell of the traditi
 
 ### Changes:
 
-1. [The Chinese-owned car company Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/the-chinese-owned-car-company-volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md) _2017-07-06 14:30:06 (First version)_
+1. [The Chinese-owned car company Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/the-chinese-owned-car-company-volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md) _2018-02-06 13:49:31 (First version)_
 1. [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md) _(Current version)_
 
 ### Related:

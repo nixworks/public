@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maidugu
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/nigerian-sharia-conflict-pa-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md) _2017-08-25 03:36:06 (First version)_
-2. [Nigerian Sharia conflict:: A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/nigerian-sharia-conflict-a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md) _2017-08-27 03:36:17 (Update)_
+1. [Nigerian Sharia conflict:A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/nigerian-sharia-conflict-pa-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md) _2018-02-06 13:49:23 (First version)_
+2. [Nigerian Sharia conflict:: A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/nigerian-sharia-conflict-a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md) _2018-02-06 13:49:23 (Update)_
 2. [A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md) _(Current version)_
 
 ### Related:

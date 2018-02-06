@@ -16,7 +16,7 @@ At least five people are killed after a suicide bomb attack on a restaurant near
 
 ### Changes:
 
-1. [War in Somalia (2009-present): At least five people are killed and seven are wounded following a car bomb attack near a government building in Somalia's capital, Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2016/04/11/war-in-somalia-2009-present-at-least-five-people-are-killed-and-seven-are-wounded-following-a-car-bomb-attack-near-a-government-buildin.md) _2017-08-27 03:45:34 (First version)_
+1. [War in Somalia (2009-present): At least five people are killed and seven are wounded following a car bomb attack near a government building in Somalia's capital, Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2016/04/11/war-in-somalia-2009-present-at-least-five-people-are-killed-and-seven-are-wounded-following-a-car-bomb-attack-near-a-government-buildin.md) _2018-02-06 13:49:28 (First version)_
 1. [At least five people are killed and seven are wounded following a car bomb attack near a government building in Somalia's capital, Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2016/04/11/at-least-five-people-are-killed-and-seven-are-wounded-following-a-car-bomb-attack-near-a-government-building-in-somalia-s-capital-mogadishu.md) _(Current version)_
 
 ### Related:

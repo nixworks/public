@@ -16,7 +16,7 @@ Demonstrators attack the Guerrero state congress building in south-west Mexico, 
 
 ### Changes:
 
-1. [2014 Iguala mass kidnapping: Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/2014-iguala-mass-kidnapping-protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _2017-08-27 03:41:30 (First version)_
+1. [2014 Iguala mass kidnapping: Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/2014-iguala-mass-kidnapping-protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _2018-02-06 13:49:26 (First version)_
 1. [Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _(Current version)_
 
 ### Related:

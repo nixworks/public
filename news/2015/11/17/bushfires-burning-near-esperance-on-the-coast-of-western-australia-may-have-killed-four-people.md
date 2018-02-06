@@ -16,7 +16,7 @@ Three German backpackers and a WA farmer are believed dead after becoming trappe
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: Bushfires burning near Esperance on the coast of Western Australia may have killed four people. ](/news/2015/11/17/2015-16-australian-bushfire-season-bushfires-burning-near-esperance-on-the-coast-of-western-australia-may-have-killed-four-people.md) _2017-08-27 03:43:53 (First version)_
+1. [2015-16 Australian bushfire season: Bushfires burning near Esperance on the coast of Western Australia may have killed four people. ](/news/2015/11/17/2015-16-australian-bushfire-season-bushfires-burning-near-esperance-on-the-coast-of-western-australia-may-have-killed-four-people.md) _2018-02-06 13:49:28 (First version)_
 1. [Bushfires burning near Esperance on the coast of Western Australia may have killed four people. ](/news/2015/11/17/bushfires-burning-near-esperance-on-the-coast-of-western-australia-may-have-killed-four-people.md) _(Current version)_
 
 ### Related:

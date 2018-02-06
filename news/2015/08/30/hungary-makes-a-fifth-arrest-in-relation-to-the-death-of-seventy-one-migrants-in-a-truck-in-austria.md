@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/30/hungary-makes-a-fifth-arrest-in-relation-to-the
 
 ### Changes:
 
-1. [European migrant crisis: Hungary makes a fifth arrest in relation to the death of seventy-one migrants in a truck in Austria. ](/news/2015/08/30/european-migrant-crisis-hungary-makes-a-fifth-arrest-in-relation-to-the-death-of-seventy-one-migrants-in-a-truck-in-austria.md) _2017-08-27 03:42:56 (First version)_
+1. [European migrant crisis: Hungary makes a fifth arrest in relation to the death of seventy-one migrants in a truck in Austria. ](/news/2015/08/30/european-migrant-crisis-hungary-makes-a-fifth-arrest-in-relation-to-the-death-of-seventy-one-migrants-in-a-truck-in-austria.md) _2018-02-06 13:49:27 (First version)_
 1. [Hungary makes a fifth arrest in relation to the death of seventy-one migrants in a truck in Austria. ](/news/2015/08/30/hungary-makes-a-fifth-arrest-in-relation-to-the-death-of-seventy-one-migrants-in-a-truck-in-austria.md) _(Current version)_
 
 ### Related:

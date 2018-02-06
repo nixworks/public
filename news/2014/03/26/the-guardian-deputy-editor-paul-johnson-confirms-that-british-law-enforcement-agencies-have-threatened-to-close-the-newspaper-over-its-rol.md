@@ -16,7 +16,7 @@ Deputy editor details extent to which intelligence agencies tried to stop newspa
 
 ### Changes:
 
-1. [''The Guardian'' deputy editor Paul Johnson confirms that British law enforcement agencies have threatened to close the newspaper over its role in publishing global surveillance information obtained from U.S. whistleblower Edward Snowden. ](/news/2014/03/26/the-guardian-deputy-editor-paul-johnson-confirms-that-british-law-enforcement-agencies-have-threatened-to-close-the-newspaper-over-its-r.md) _2017-08-25 03:40:13 (First version)_
+1. [''The Guardian'' deputy editor Paul Johnson confirms that British law enforcement agencies have threatened to close the newspaper over its role in publishing global surveillance information obtained from U.S. whistleblower Edward Snowden. ](/news/2014/03/26/the-guardian-deputy-editor-paul-johnson-confirms-that-british-law-enforcement-agencies-have-threatened-to-close-the-newspaper-over-its-r.md) _2018-02-06 13:49:26 (First version)_
 1. ["The Guardian" deputy editor Paul Johnson confirms that British law enforcement agencies have threatened to close the newspaper over its role in publishing global surveillance information obtained from U.S. whistleblower Edward Snowden. ](/news/2014/03/26/the-guardian-deputy-editor-paul-johnson-confirms-that-british-law-enforcement-agencies-have-threatened-to-close-the-newspaper-over-its-rol.md) _(Current version)_
 
 ### Related:

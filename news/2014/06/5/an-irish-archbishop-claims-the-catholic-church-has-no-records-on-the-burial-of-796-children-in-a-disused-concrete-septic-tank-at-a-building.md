@@ -18,8 +18,8 @@ The Archbishop of Tuam in County Galway says the Catholic church has no records 
 
 ### Changes:
 
-1. [Tuam mass grave:An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/tuam-mass-grave-pan-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-ta.md) _2017-08-25 03:40:30 (First version)_
-2. [Tuam mass grave:: An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/tuam-mass-grave-an-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-t.md) _2017-08-27 03:40:48 (Update)_
+1. [Tuam mass grave:An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/tuam-mass-grave-pan-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-ta.md) _2018-02-06 13:49:26 (First version)_
+2. [Tuam mass grave:: An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/tuam-mass-grave-an-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-t.md) _2018-02-06 13:49:26 (Update)_
 2. [An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/an-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-tank-at-a-building.md) _(Current version)_
 
 ### Related:

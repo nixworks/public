@@ -16,8 +16,8 @@ She died in her twenties some 1700 years ago, and is believed to have ruled over
 
 ### Changes:
 
-1. [The face of the Peruvian Moche mummy the Lady of Cao from is reconstructed. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-from-is-reconstructed.md) _2017-07-05 09:30:07 (First version)_
-2. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensics archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensics-archaeology-techniques-and-e.md) _2017-07-05 16:30:07 (Update)_
+1. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensics archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensics-archaeology-techniques-and-e.md) _2018-02-06 13:49:31 (First version)_
+2. [The face of the Peruvian Moche mummy the Lady of Cao from is reconstructed. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-from-is-reconstructed.md) _2018-02-06 13:49:31 (Update)_
 2. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md) _(Current version)_
 
 ### Related:

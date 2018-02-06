@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-
 
 ### Changes:
 
-1. [ 78th Academy Awards: ''Crash'' wins Best Picture, Ang Lee (''Brokeback Mountain'') wins Best Director, Reese Witherspoon (''Walk the Line'') wins Best Actress, and Philip Seymour Hoffman (''Capote'') wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line.md) _2017-08-25 03:17:30 (First version)_
+1. [ 78th Academy Awards: ''Crash'' wins Best Picture, Ang Lee (''Brokeback Mountain'') wins Best Director, Reese Witherspoon (''Walk the Line'') wins Best Actress, and Philip Seymour Hoffman (''Capote'') wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line.md) _2018-02-06 13:49:17 (First version)_
 1. [ 78th Academy Awards: "Crash" wins Best Picture, Ang Lee ("Brokeback Mountain") wins Best Director, Reese Witherspoon ("Walk the Line") wins Best Actress, and Philip Seymour Hoffman ("Capote") wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line-wins.md) _(Current version)_
 
 ### Related:

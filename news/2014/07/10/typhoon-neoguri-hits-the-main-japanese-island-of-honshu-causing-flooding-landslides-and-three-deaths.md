@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-o
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/2014-pacific-typhoon-season-typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md) _2017-08-27 03:40:57 (First version)_
+1. [2014 Pacific typhoon season: Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/2014-pacific-typhoon-season-typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md) _(Current version)_
 
 ### Related:

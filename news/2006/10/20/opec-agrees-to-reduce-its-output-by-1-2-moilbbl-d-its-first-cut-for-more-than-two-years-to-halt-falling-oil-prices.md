@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-1-2-moilbbl
 
 ### Changes:
 
-1. [ OPEC agrees to reduce its output by {{convert|1.2|Moilbbl-d|m3-d}}, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-convert-1-2-moilbbl-d-m3-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md) _2017-05-01 03:19:05 (First version)_
-2. [ OPEC agrees to reduce its output by 1.2|Moilbbl-d|m3-d, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-1-2-moilbbl-d-m3-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md) _2017-08-29 03:18:40 (Update)_
+1. [ OPEC agrees to reduce its output by {{convert|1.2|Moilbbl-d|m3-d}}, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-convert-1-2-moilbbl-d-m3-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md) _2018-02-06 13:49:17 (First version)_
+2. [ OPEC agrees to reduce its output by 1.2|Moilbbl-d|m3-d, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-1-2-moilbbl-d-m3-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md) _2018-02-06 13:49:17 (Update)_
 2. [ OPEC agrees to reduce its output by 1.2 Moilbbl-d, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-1-2-moilbbl-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md) _(Current version)_
 
 ### Related:

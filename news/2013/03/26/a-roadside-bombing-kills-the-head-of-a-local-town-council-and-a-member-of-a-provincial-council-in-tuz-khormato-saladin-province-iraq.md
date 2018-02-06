@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/26/a-roadside-bombing-kills-the-head-of-a-local-to
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/iraqi-insurgency-post-u-s-withdrawal-pa-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-t.md) _2017-08-25 03:38:03 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/iraqi-insurgency-post-u-s-withdrawal-a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in.md) _2017-08-27 03:38:12 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/iraqi-insurgency-post-u-s-withdrawal-pa-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-t.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/iraqi-insurgency-post-u-s-withdrawal-a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in.md) _2018-02-06 13:49:24 (Update)_
 2. [A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-tuz-khormato-saladin-province-iraq.md) _(Current version)_
 
 ### Related:

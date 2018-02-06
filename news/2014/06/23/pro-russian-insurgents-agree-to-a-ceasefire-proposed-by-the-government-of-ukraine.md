@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/23/pro-russian-insurgents-agree-to-a-ceasefire-pro
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/2014-pro-russian-conflict-in-ukraine-pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md) _2017-08-27 03:40:53 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/2014-pro-russian-conflict-in-ukraine-pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md) _(Current version)_
 
 ### Related:

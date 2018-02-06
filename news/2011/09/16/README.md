@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/16/index.html)  [JSON](2011/09/16/index.json)  [XML](201
 
 ##### South Korea
 ### [Authorities in South Korea arrest a North Korean citizen for an alleged assassination attempt against Park Sang-hak, a noted defector and activist. ](/news/2011/09/16/authorities-in-south-korea-arrest-a-north-korean-citizen-for-an-alleged-assassination-attempt-against-park-sang-hak-a-noted-defector-and-ac.md)
-_Context: assassination, Park Sang-hak, South Korea, defector, North Korea_
+_Context: North Korea, defector, South Korea, Park Sang-hak, assassination_
 
 ##### Hurricane Maria
 ### [Hurricane Maria hits the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. ](/news/2011/09/16/hurricane-maria-hits-the-canadian-province-of-newfoundland-and-labrador-as-a-category-nbsp-1-hurricane.md)
@@ -13,7 +13,7 @@ _Context: Newfoundland and Labrador, Hurricane Maria_
 
 ##### Delhi
 ### [Areas in Delhi, India, are flooded by heavy rain, with record rainfall recorded at Indira Gandhi International Airport. ](/news/2011/09/16/areas-in-delhi-india-are-flooded-by-heavy-rain-with-record-rainfall-recorded-at-indira-gandhi-international-airport.md)
-_Context: Delhi, airport wall, India_
+_Context: airport wall, Delhi, India_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan, Yusuf Raza Gilani, cancels a visit to the United States to address the United Nations General Assembly as a result of the 2011 Sindh floods. ](/news/2011/09/16/the-prime-minister-of-pakistan-yusuf-raza-gilani-cancels-a-visit-to-the-united-states-to-address-the-united-nations-general-assembly-as-a.md)
@@ -29,11 +29,11 @@ Reno police on Saturday raised the death toll in the crash of a World War II-era
 
 ##### Kosovo Serb
 ### [Kosovo Serbs block off two border crossings with Serbia as the Kosovo government seeks to take them over. ](/news/2011/09/16/kosovo-serbs-block-off-two-border-crossings-with-serbia-as-the-kosovo-government-seeks-to-take-them-over.md)
-_Context: Serbia, Kosovo, Kosovo Serb_
+_Context: Kosovo Serb, Serbia, Kosovo_
 
 ##### Turkish Prime Minister
 ### [The Prime Minister of Turkey, Recep Tayyip Erdogan, arrives in Libya for a meeting with the National Transitional Council. ](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.md)
-_Context: Libya, Recep Tayyip Erdogan, National Transitional Council, Turkish Prime Minister_
+_Context: Recep Tayyip Erdogan, National Transitional Council, Turkish Prime Minister, Libya_
 
 ##### security camera
 ### [The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. ](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.md)
@@ -49,7 +49,7 @@ The UBS trader alleged to have lost the bank £1.3bn in unauthorised trading app
 
 ##### Ecofin
 ### [Ecofin ministers agree on a bill on financial governance in Europe, aiming to prevent future economic crises. ](/news/2011/09/16/ecofin-ministers-agree-on-a-bill-on-financial-governance-in-europe-aiming-to-prevent-future-economic-crises.md)
-_Context: economic crises, Ecofin_
+_Context: Ecofin, economic crises_
 
 ##### Health Services Union
 ### [The Health Services Union disaffiliates from the Australian Labor Party in the states of New South Wales and Victoria and the Australian Capital Territory, following the commencement of a New South Wales Police Force investigation into alleged "inappropriate practices" by current and former union officials, including Craig Thomson, a member of the House of Representatives. ](/news/2011/09/16/the-health-services-union-disaffiliates-from-the-australian-labor-party-in-the-states-of-new-south-wales-and-victoria-and-the-australian-cap.md)

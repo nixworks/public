@@ -16,7 +16,7 @@ Taylor Swift dominated last night&#039;s Billboard Music Awards in Las Vegas, wi
 
 ### Changes:
 
-1. [2015 "Billboard" Music Awards: American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/2015-billboard-music-awards-american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md) _2017-08-27 03:42:19 (First version)_
+1. [2015 "Billboard" Music Awards: American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/2015-billboard-music-awards-american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md) _2018-02-06 13:49:27 (First version)_
 1. [American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md) _(Current version)_
 
 ### Related:

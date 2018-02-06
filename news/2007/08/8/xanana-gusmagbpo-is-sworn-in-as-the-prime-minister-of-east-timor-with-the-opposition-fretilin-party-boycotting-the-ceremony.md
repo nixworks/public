@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/8/xanana-gusmagbpo-is-sworn-in-as-the-prime-minist
 
 ### Changes:
 
-1. [ Xanana Gusmao is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmapso-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md) _2017-08-25 03:20:29 (First version)_
+1. [ Xanana Gusmao is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmapso-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md) _2018-02-06 13:49:18 (First version)_
 1. [ Xanana GusmGBPo is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmagbpo-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md) _(Current version)_
 
 ### Related:

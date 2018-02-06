@@ -16,7 +16,7 @@ The Italian coastguard Monday rescued 1,850 migrants in eight operations in the 
 
 ### Changes:
 
-1. [European migrant crisis: The Italian Coast Guard rescues 1,850 in the Strait of Sicily. ](/news/2016/04/11/european-migrant-crisis-the-italian-coast-guard-rescues-1-850-in-the-strait-of-sicily.md) _2017-08-27 03:45:34 (First version)_
+1. [European migrant crisis: The Italian Coast Guard rescues 1,850 in the Strait of Sicily. ](/news/2016/04/11/european-migrant-crisis-the-italian-coast-guard-rescues-1-850-in-the-strait-of-sicily.md) _2018-02-06 13:49:28 (First version)_
 1. [The Italian Coast Guard rescues 1,850 in the Strait of Sicily. ](/news/2016/04/11/the-italian-coast-guard-rescues-1-850-in-the-strait-of-sicily.md) _(Current version)_
 
 ### Related:

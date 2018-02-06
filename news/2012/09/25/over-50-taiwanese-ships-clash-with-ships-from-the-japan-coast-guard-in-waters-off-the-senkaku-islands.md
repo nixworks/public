@@ -19,8 +19,8 @@ Formats: [HTML](/news/2012/09/25/over-50-taiwanese-ships-clash-with-ships-from-t
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/senkaku-islands-dispute-pover-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md) _2017-08-25 03:36:36 (First version)_
-2. [Senkaku Islands dispute:: Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/senkaku-islands-dispute-over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md) _2017-08-27 03:36:46 (Update)_
+1. [Senkaku Islands dispute:Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/senkaku-islands-dispute-pover-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/senkaku-islands-dispute-over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md) _2018-02-06 13:49:23 (Update)_
 2. [Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md) _(Current version)_
 
 ### Related:

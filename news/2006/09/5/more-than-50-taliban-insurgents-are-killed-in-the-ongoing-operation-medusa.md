@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/5/more-than-50-taliban-insurgents-are-killed-in-th
 
 ### Changes:
 
-1. [ Taliban insurgency in More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/taliban-insurgency-in-more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _2017-08-25 03:18:20 (First version)_
-2. [ Taliban insurgency in Afghanistan: More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/taliban-insurgency-in-afghanistan-more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _2017-08-27 03:18:15 (Update)_
+1. [ Taliban insurgency in More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/taliban-insurgency-in-more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _2018-02-06 13:49:17 (First version)_
+2. [ Taliban insurgency in Afghanistan: More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/taliban-insurgency-in-afghanistan-more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _2018-02-06 13:49:17 (Update)_
 2. [ More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The vice presidential candidates from the two major parties in the US presidenti
 
 ### Changes:
 
-1. [United States presidential election, 2016: Democratic Senator Tim Kaine, and the Governor of Indiana Mike Pence hold the first and only vice-presidential debate of the 2016 presidential election at Longwood University in Farmville, Virginia. ](/news/2016/10/4/united-states-presidential-election-2016-democratic-senator-tim-kaine-and-the-governor-of-indiana-mike-pence-hold-the-first-and-only-vice.md) _2017-08-27 03:46:57 (First version)_
+1. [United States presidential election, 2016: Democratic Senator Tim Kaine, and the Governor of Indiana Mike Pence hold the first and only vice-presidential debate of the 2016 presidential election at Longwood University in Farmville, Virginia. ](/news/2016/10/4/united-states-presidential-election-2016-democratic-senator-tim-kaine-and-the-governor-of-indiana-mike-pence-hold-the-first-and-only-vice.md) _2018-02-06 13:49:29 (First version)_
 1. [Democratic Senator Tim Kaine, and the Governor of Indiana Mike Pence hold the first and only vice-presidential debate of the 2016 presidential election at Longwood University in Farmville, Virginia. ](/news/2016/10/4/democratic-senator-tim-kaine-and-the-governor-of-indiana-mike-pence-hold-the-first-and-only-vice-presidential-debate-of-the-2016-presidenti.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ German media projections show clear win for Merkel&#39;s party and defeat for so
 
 ### Changes:
 
-1. [North Rhine-Westphalia state election, 2017: Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/north-rhine-westphalia-state-election-2017-voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesti.md) _2017-08-27 03:48:20 (First version)_
+1. [North Rhine-Westphalia state election, 2017: Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/north-rhine-westphalia-state-election-2017-voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesti.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesting-a-victory-for-angela-merkel-s-cdu-over-the.md) _(Current version)_
 
 ### Related:

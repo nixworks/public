@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/7/israeli-troops-have-detained-another-hamas-membe
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: Israeli troops have detained another Hamas member of Palestinian Parliament during an overnight raid in the West Bank. ](/news/2006/08/7/israeli-palestinian-conflict-israeli-troops-have-detained-another-hamas-member-of-palestinian-parliament-during-an-overnight-raid-in-the-w.md) _2017-08-27 03:18:06 (First version)_
+1. [ Israeli-Palestinian conflict: Israeli troops have detained another Hamas member of Palestinian Parliament during an overnight raid in the West Bank. ](/news/2006/08/7/israeli-palestinian-conflict-israeli-troops-have-detained-another-hamas-member-of-palestinian-parliament-during-an-overnight-raid-in-the-w.md) _2018-02-06 13:49:17 (First version)_
 1. [ Israeli troops have detained another Hamas member of Palestinian Parliament during an overnight raid in the West Bank. ](/news/2006/08/7/israeli-troops-have-detained-another-hamas-member-of-palestinian-parliament-during-an-overnight-raid-in-the-west-bank.md) _(Current version)_
 
 ### Related:

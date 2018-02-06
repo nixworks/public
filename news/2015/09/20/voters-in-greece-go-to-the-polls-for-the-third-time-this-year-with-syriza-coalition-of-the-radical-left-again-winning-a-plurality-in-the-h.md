@@ -19,7 +19,7 @@ Polls suggest the embattled Syriza leader might just squeak home in Sunday’s s
 
 ### Changes:
 
-1. [Greek legislative election, September 2015: Voters in Greece go to the polls for the third time this year with Syriza (Coalition of the Radical Left) again winning a plurality in the Hellenic Parliament. ](/news/2015/09/20/greek-legislative-election-september-2015-voters-in-greece-go-to-the-polls-for-the-third-time-this-year-with-syriza-coalition-of-the-radi.md) _2017-08-27 03:43:06 (First version)_
+1. [Greek legislative election, September 2015: Voters in Greece go to the polls for the third time this year with Syriza (Coalition of the Radical Left) again winning a plurality in the Hellenic Parliament. ](/news/2015/09/20/greek-legislative-election-september-2015-voters-in-greece-go-to-the-polls-for-the-third-time-this-year-with-syriza-coalition-of-the-radi.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Greece go to the polls for the third time this year with Syriza (Coalition of the Radical Left) again winning a plurality in the Hellenic Parliament. ](/news/2015/09/20/voters-in-greece-go-to-the-polls-for-the-third-time-this-year-with-syriza-coalition-of-the-radical-left-again-winning-a-plurality-in-the-h.md) _(Current version)_
 
 ### Related:

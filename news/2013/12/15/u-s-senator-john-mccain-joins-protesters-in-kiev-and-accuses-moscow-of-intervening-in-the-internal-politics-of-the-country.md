@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kie
 
 ### Changes:
 
-1. [Euromaidan:U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-pu-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _2017-08-25 03:39:42 (First version)_
-2. [Euromaidan:: U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _2017-08-27 03:39:59 (Update)_
+1. [Euromaidan:: U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-pu-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _2018-02-06 13:49:25 (Update)_
 2. [U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _(Current version)_
 
 ### Related:

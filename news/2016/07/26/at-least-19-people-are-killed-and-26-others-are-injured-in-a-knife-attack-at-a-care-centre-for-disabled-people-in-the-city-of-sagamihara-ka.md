@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/26/at-least-19-people-are-killed-and-26-others-are
 
 ### Changes:
 
-1. [Sagamihara stabbings: At least 19 people are killed and 26 others are injured in a knife attack at a care centre for disabled people in the city of Sagamihara, Kanagawa Prefecture, Japan. A man has handed himself in to the police, according to local media. ](/news/2016/07/26/sagamihara-stabbings-at-least-19-people-are-killed-and-26-others-are-injured-in-a-knife-attack-at-a-care-centre-for-disabled-people-in-the.md) _2017-08-27 03:46:33 (First version)_
+1. [Sagamihara stabbings: At least 19 people are killed and 26 others are injured in a knife attack at a care centre for disabled people in the city of Sagamihara, Kanagawa Prefecture, Japan. A man has handed himself in to the police, according to local media. ](/news/2016/07/26/sagamihara-stabbings-at-least-19-people-are-killed-and-26-others-are-injured-in-a-knife-attack-at-a-care-centre-for-disabled-people-in-the.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 19 people are killed and 26 others are injured in a knife attack at a care centre for disabled people in the city of Sagamihara, Kanagawa Prefecture, Japan. A man has handed himself in to the police, according to local media. ](/news/2016/07/26/at-least-19-people-are-killed-and-26-others-are-injured-in-a-knife-attack-at-a-care-centre-for-disabled-people-in-the-city-of-sagamihara-ka.md) _(Current version)_
 
 ### Related:

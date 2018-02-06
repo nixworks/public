@@ -16,6 +16,6 @@ Andrew Fryberg, 15, died Friday from critical head injuries in the Marysville-Pi
 
 ### Changes:
 
-1. [Marysville Pilchuck High School shooting:The death toll in the shooting rises to five. ](/news/2014/11/7/marysville-pilchuck-high-school-shooting-pthe-death-toll-in-the-shooting-rises-to-five.md) _2017-08-25 03:41:10 (First version)_
-2. [Marysville Pilchuck High School shooting:: The death toll in the shooting rises to five. ](/news/2014/11/7/marysville-pilchuck-high-school-shooting-the-death-toll-in-the-shooting-rises-to-five.md) _2017-08-27 03:41:29 (Update)_
+1. [Marysville Pilchuck High School shooting:: The death toll in the shooting rises to five. ](/news/2014/11/7/marysville-pilchuck-high-school-shooting-the-death-toll-in-the-shooting-rises-to-five.md) _2018-02-06 13:49:26 (First version)_
+2. [Marysville Pilchuck High School shooting:The death toll in the shooting rises to five. ](/news/2014/11/7/marysville-pilchuck-high-school-shooting-pthe-death-toll-in-the-shooting-rises-to-five.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll in the shooting rises to five. ](/news/2014/11/7/the-death-toll-in-the-shooting-rises-to-five.md) _(Current version)_

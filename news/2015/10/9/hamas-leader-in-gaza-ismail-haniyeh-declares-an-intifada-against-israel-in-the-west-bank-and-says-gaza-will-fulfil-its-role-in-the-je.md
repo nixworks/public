@@ -21,7 +21,7 @@ In one of the bloodiest days since last year&#039;s Gaza war, Israeli troops kil
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation- with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/israeli-palestinian-conflict-hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaz.md) _2017-08-27 03:43:17 (First version)_
+1. [Israeli-Palestinian conflict: Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation- with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/israeli-palestinian-conflict-hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaz.md) _2018-02-06 13:49:28 (First version)_
 1. [Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation" with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaza-will-fulfil-its-role-in-the-je.md) _(Current version)_
 
 ### Related:

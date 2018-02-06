@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/29/a-jury-trial-convicts-five-individuals-accused-
 
 ### Changes:
 
-1. [Aftermath of the A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov. These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. ](/news/2017/06/29/aftermath-of-the-a-jury-trial-convicts-five-individuals-accused-of-working-together-to-assassinate-boris-nemtsov-these-individuals-had-bee.md) _2017-08-25 03:48:07 (First version)_
+1. [Aftermath of the A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov. These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. ](/news/2017/06/29/aftermath-of-the-a-jury-trial-convicts-five-individuals-accused-of-working-together-to-assassinate-boris-nemtsov-these-individuals-had-bee.md) _2018-02-06 13:49:30 (First version)_
 1. [A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov. These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. ](/news/2017/06/29/a-jury-trial-convicts-five-individuals-accused-of-working-together-to-assassinate-boris-nemtsov-these-individuals-had-been-promised-a-bount.md) _(Current version)_
 
 ### Related:

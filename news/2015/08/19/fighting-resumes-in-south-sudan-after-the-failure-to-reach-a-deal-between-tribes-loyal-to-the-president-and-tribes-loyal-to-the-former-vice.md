@@ -16,7 +16,7 @@ A military spokesman says fighting has resumed between South Sudanese troops and
 
 ### Changes:
 
-1. [South Sudanese Civil War: Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/south-sudanese-civil-war-fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes.md) _2017-08-27 03:42:51 (First version)_
+1. [South Sudanese Civil War: Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/south-sudanese-civil-war-fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes.md) _2018-02-06 13:49:27 (First version)_
 1. [Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes-loyal-to-the-former-vice.md) _(Current version)_
 
 ### Related:

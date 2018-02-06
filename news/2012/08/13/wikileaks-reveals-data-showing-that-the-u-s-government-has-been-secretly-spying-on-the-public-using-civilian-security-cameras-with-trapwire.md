@@ -19,8 +19,8 @@ Emails obtained via a hack of intelligence agency Stratfor have shed light on a 
 
 ### Changes:
 
-1. [WikiLeaks revelations and attack:WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-pwikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civil.md) _2017-08-25 03:36:15 (First version)_
-2. [WikiLeaks revelations and attack:: WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-wikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civi.md) _2017-08-27 03:36:27 (Update)_
+1. [WikiLeaks revelations and attack:: WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-wikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civi.md) _2018-02-06 13:49:23 (First version)_
+2. [WikiLeaks revelations and attack:WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-pwikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civil.md) _2018-02-06 13:49:23 (Update)_
 2. [WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civilian-security-cameras-with-trapwire.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Eight people were killed and 25 wounded in a suicide bomb attack on Monday on a 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/iraqi-insurgency-post-u-s-withdrawal-peight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-the.md) _2017-08-25 03:39:08 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/iraqi-insurgency-post-u-s-withdrawal-eight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-th.md) _2017-08-27 03:39:24 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/iraqi-insurgency-post-u-s-withdrawal-peight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-the.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/iraqi-insurgency-post-u-s-withdrawal-eight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-th.md) _2018-02-06 13:49:25 (Update)_
 2. [Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/eight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-the-iraqi-capital-baghdad.md) _(Current version)_
 
 ### Related:

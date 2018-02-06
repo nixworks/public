@@ -17,7 +17,7 @@ Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil g
 
 ### Changes:
 
-1. [Deepwater Horizon drilling rig explosion in the The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/deepwater-horizon-drilling-rig-explosion-in-the-the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled-in-the-aftermat.md) _2017-08-25 03:27:47 (First version)_
+1. [Deepwater Horizon drilling rig explosion in the The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/deepwater-horizon-drilling-rig-explosion-in-the-the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled-in-the-aftermat.md) _2018-02-06 13:49:20 (First version)_
 1. [The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled-in-the-aftermath-of-the-deepwater-horizon-disaster.md) _(Current version)_
 
 ### Related:

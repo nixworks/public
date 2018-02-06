@@ -18,7 +18,7 @@ Former Virginia Sen. Jim Webb plans to announce on Tuesday that he will drop out
 
 ### Changes:
 
-1. [Democratic Party presidential candidates, 2016: Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/democratic-party-presidential-candidates-2016-former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-p.md) _2017-08-27 03:43:25 (First version)_
+1. [Democratic Party presidential candidates, 2016: Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/democratic-party-presidential-candidates-2016-former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-p.md) _2018-02-06 13:49:28 (First version)_
 1. [Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-presidential-nomination-during-a-press-conference.md) _(Current version)_
 
 ### Related:

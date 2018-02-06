@@ -17,8 +17,8 @@ The demonstrations reflected concerns that the new chief executive, Leung Chun-y
 
 ### Changes:
 
-1. [Hong Kong:Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/hong-kong-pprotesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-execut.md) _2017-08-25 03:36:01 (First version)_
-2. [Hong Kong:: Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/hong-kong-protesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-execu.md) _2017-08-27 03:36:12 (Update)_
+1. [Hong Kong:: Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/hong-kong-protesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-execu.md) _2018-02-06 13:49:23 (First version)_
+2. [Hong Kong:Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/hong-kong-pprotesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-execut.md) _2018-02-06 13:49:23 (Update)_
 2. [Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/protesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-executive-and-the.md) _(Current version)_
 
 ### Related:

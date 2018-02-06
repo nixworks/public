@@ -16,7 +16,7 @@ Usman is the other target in the botched police Special Action Force (SAF) opera
 
 ### Changes:
 
-1. [Moro insurgency in the Philippines: Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/moro-insurgency-in-the-philippines-fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md) _2017-08-27 03:42:16 (First version)_
+1. [Moro insurgency in the Philippines: Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/moro-insurgency-in-the-philippines-fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md) _2018-02-06 13:49:27 (First version)_
 1. [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md) _(Current version)_
 
 ### Related:

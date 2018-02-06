@@ -17,8 +17,8 @@ Michael Phelps had a stunning comeback in the men’s 100-meter butterfly, out-t
 
 ### Changes:
 
-1. [ Swimming at the 2008 Summer Olympics: Michael Phelps of the United States wins his seventh gold medal of the 2008 Summer Olympics in the 100 metre butterfly, tying Mark Spitz's record for gold medals at an Olympic Games. ](/news/2008/08/16/swimming-at-the-2008-summer-olympics-p-michael-phelps-of-the-united-states-wins-his-seventh-gold-medal-of-the-2008-summer-olympics-in-the-1.md) _2017-08-25 03:22:42 (First version)_
-2. [ Swimming at the 2008 Summer Olympics:: Michael Phelps of the United States wins his seventh gold medal of the 2008 Summer Olympics in the 100 metre butterfly, tying Mark Spitz's record for gold medals at an Olympic Games. ](/news/2008/08/16/swimming-at-the-2008-summer-olympics-michael-phelps-of-the-united-states-wins-his-seventh-gold-medal-of-the-2008-summer-olympics-in-the-1.md) _2017-08-27 03:22:36 (Update)_
+1. [ Swimming at the 2008 Summer Olympics: Michael Phelps of the United States wins his seventh gold medal of the 2008 Summer Olympics in the 100 metre butterfly, tying Mark Spitz's record for gold medals at an Olympic Games. ](/news/2008/08/16/swimming-at-the-2008-summer-olympics-p-michael-phelps-of-the-united-states-wins-his-seventh-gold-medal-of-the-2008-summer-olympics-in-the-1.md) _2018-02-06 13:49:18 (First version)_
+2. [ Swimming at the 2008 Summer Olympics:: Michael Phelps of the United States wins his seventh gold medal of the 2008 Summer Olympics in the 100 metre butterfly, tying Mark Spitz's record for gold medals at an Olympic Games. ](/news/2008/08/16/swimming-at-the-2008-summer-olympics-michael-phelps-of-the-united-states-wins-his-seventh-gold-medal-of-the-2008-summer-olympics-in-the-1.md) _2018-02-06 13:49:18 (Update)_
 2. [ Michael Phelps of the United States wins his seventh gold medal of the 2008 Summer Olympics in the 100 metre butterfly, tying Mark Spitz's record for gold medals at an Olympic Games. ](/news/2008/08/16/michael-phelps-of-the-united-states-wins-his-seventh-gold-medal-of-the-2008-summer-olympics-in-the-100-metre-butterfly-tying-mark-spitz-s.md) _(Current version)_
 
 ### Related:

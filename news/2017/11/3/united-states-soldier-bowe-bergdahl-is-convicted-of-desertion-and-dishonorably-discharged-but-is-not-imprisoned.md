@@ -16,8 +16,8 @@ The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is d
 
 ### Changes:
 
-1. [United States soldier Bowe Bergdahl gets convicted and is dishonorably discharged but escapes imprisonment. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-and-is-dishonorably-discharged-but-escapes-imprisonment.md) _2017-11-04 06:30:06 (First version)_
-2. [United States soldier Bowe Bergdahl gets convicted of desertion and is dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-of-desertion-and-is-dishonorably-discharged-but-is-not-imprisoned.md) _2017-11-06 11:30:04 (Update)_
+1. [United States soldier Bowe Bergdahl gets convicted of desertion and is dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-of-desertion-and-is-dishonorably-discharged-but-is-not-imprisoned.md) _2018-02-06 13:49:31 (First version)_
+2. [United States soldier Bowe Bergdahl gets convicted and is dishonorably discharged but escapes imprisonment. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-and-is-dishonorably-discharged-but-escapes-imprisonment.md) _2018-02-06 13:49:31 (Update)_
 2. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _(Current version)_
 
 ### Related:

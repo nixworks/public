@@ -18,7 +18,7 @@ A military statement has ordered civilians to leave the &quot;Islamic State&quot
 
 ### Changes:
 
-1. [Iraqi Civil War, The Iraqi government, via state TV, requests all civilians leave the ISIL-held city of Ramadi in Anbar province, after several days of U.S.-led coalition airstrikes against ISIL. Observers speculate this request precedes major ground operations to retake Ramadi, which fell to ISIL in May. ](/news/2015/12/1/iraqi-civil-war-the-iraqi-government-via-state-tv-requests-all-civilians-leave-the-isil-held-city-of-ramadi-in-anbar-province-after-seve.md) _2017-08-25 03:43:48 (First version)_
+1. [Iraqi Civil War, The Iraqi government, via state TV, requests all civilians leave the ISIL-held city of Ramadi in Anbar province, after several days of U.S.-led coalition airstrikes against ISIL. Observers speculate this request precedes major ground operations to retake Ramadi, which fell to ISIL in May. ](/news/2015/12/1/iraqi-civil-war-the-iraqi-government-via-state-tv-requests-all-civilians-leave-the-isil-held-city-of-ramadi-in-anbar-province-after-seve.md) _2018-02-06 13:49:28 (First version)_
 1. [The Iraqi government, via state TV, requests all civilians leave the ISIL-held city of Ramadi in Anbar province, after several days of U.S.-led coalition airstrikes against ISIL. Observers speculate this request precedes major ground operations to retake Ramadi, which fell to ISIL in May. ](/news/2015/12/1/the-iraqi-government-via-state-tv-requests-all-civilians-leave-the-isil-held-city-of-ramadi-in-anbar-province-after-several-days-of-u-s.md) _(Current version)_
 
 ### Related:

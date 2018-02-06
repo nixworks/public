@@ -17,7 +17,7 @@ IRBIL: The UN said on Tuesday it is expanding camps for displaced people around 
 
 ### Changes:
 
-1. [Battle of Mosul: The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/battle-of-mosul-the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-is.md) _2017-08-27 03:48:06 (First version)_
+1. [Battle of Mosul: The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/battle-of-mosul-the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-is.md) _2018-02-06 13:49:30 (First version)_
 1. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _(Current version)_
 
 ### Related:

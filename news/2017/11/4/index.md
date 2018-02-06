@@ -3,13 +3,13 @@ Formats: [HTML](2017/11/4/index.html)  [JSON](2017/11/4/index.json)  [XML](2017/
 
 ## [2017-11-4](/news/2017/11/4/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Houthi rebels in Yemen fire a ballistic missile at King Khalid International Airport in Riyadh, Saudi Arabia. The missile was shot down, according to Saudi officials, with no resulting injuries or damage.](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-acc.md)
 Amid regional tensions, Yemen’s Iran-aligned Houthi rebels reached Riyadh with a ballistic missile for the first time.
 
 ##### 2017 Pacific typhoon season
 ### [Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.md)
-_Context: 2017 Pacific typhoon season, Typhoon Damrey, APEC Vietnam 2017, Vietnam_
+_Context: APEC Vietnam 2017, Vietnam, 2017 Pacific typhoon season, Typhoon Damrey_
 
 ##### Temporary Protected Status
 ### [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md)
@@ -37,7 +37,7 @@ Saad al-Hariri resigns saying he fears an assassination plot, while also fiercel
 
 ##### Slovak regional elections, 2017
 ### [Jan Lunter defeats Marian Kotleba in the Slovakian regional election held in the Banska Bystrica Region. Direction - Social Democracy loses four regions to center-right opposition candidates. ](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovakian-regional-election-held-in-the-banska-bystrica-region-direction-a-social-democracy-lo.md)
-_Context: Marian Kotleba, Banska Bystrica Region, Jan Lunter, Direction - Social Democracy, Slovak regional elections, 2017_
+_Context: Jan Lunter, Direction - Social Democracy, Marian Kotleba, Slovak regional elections, 2017, Banska Bystrica Region_
 
 ##### Protests against Donald Trump
 ### [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md)

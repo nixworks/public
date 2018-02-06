@@ -16,7 +16,7 @@ In addition to the presidential museum and gardens, the new center will feature 
 
 ### Changes:
 
-1. [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama is revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-is-revealed.md) _2017-05-03 23:30:08 (First version)_
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama is revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-is-revealed.md) _2018-02-06 13:49:30 (First version)_
 1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _(Current version)_
 
 ### Related:

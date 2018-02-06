@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/07/28/north-korea-launches-an-intercontinental-ballis
 
 ### Changes:
 
-1. [North Korea launched a ballistic missile that flew 620 miles horizontally in about 45 minutes landing in the Sea of Japan, according to Japan, South Korea, and the United States. ](/news/2017/07/28/north-korea-launched-a-ballistic-missile-that-flew-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japan-according-to-japa.md) _2017-07-28 17:30:06 (First version)_
-2. [North Korea launches a ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-a-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japan-according-to-ja.md) _2017-07-29 00:30:06 (Update)_
+1. [North Korea launches a ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-a-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japan-according-to-ja.md) _2018-02-06 13:49:31 (First version)_
+2. [North Korea launched a ballistic missile that flew 620 miles horizontally in about 45 minutes landing in the Sea of Japan, according to Japan, South Korea, and the United States. ](/news/2017/07/28/north-korea-launched-a-ballistic-missile-that-flew-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japan-according-to-japa.md) _2018-02-06 13:49:31 (Update)_
 2. [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md) _(Current version)_
 
 ### Related:

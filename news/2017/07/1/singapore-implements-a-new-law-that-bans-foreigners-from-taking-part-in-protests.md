@@ -16,7 +16,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 
 ### Changes:
 
-1. [Law of Singapore: Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/law-of-singapore-singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _2017-08-27 03:48:35 (First version)_
+1. [Law of Singapore: Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/law-of-singapore-singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _2018-02-06 13:49:30 (First version)_
 1. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ CARACAS (AFP) - Venezuelans marched in silence on Saturday (April 22) against Pr
 
 ### Changes:
 
-1. [Venezuelan protests: Dressed in white, the Venezuela opposition march, in silence, to the headquarters of the country's Catholic archdiocese to honor the more than a dozen people killed in three weeks of protests. For the first time, protesters were able to cross from the east to the western side of Caracas without being confronted by state security. ](/news/2017/04/22/venezuelan-protests-dressed-in-white-the-venezuela-opposition-march-in-silence-to-the-headquarters-of-the-country-s-catholic-archdiocese.md) _2017-08-27 03:48:13 (First version)_
+1. [Venezuelan protests: Dressed in white, the Venezuela opposition march, in silence, to the headquarters of the country's Catholic archdiocese to honor the more than a dozen people killed in three weeks of protests. For the first time, protesters were able to cross from the east to the western side of Caracas without being confronted by state security. ](/news/2017/04/22/venezuelan-protests-dressed-in-white-the-venezuela-opposition-march-in-silence-to-the-headquarters-of-the-country-s-catholic-archdiocese.md) _2018-02-06 13:49:30 (First version)_
 1. [Dressed in white, the Venezuela opposition march, in silence, to the headquarters of the country's Catholic archdiocese to honor the more than a dozen people killed in three weeks of protests. For the first time, protesters were able to cross from the east to the western side of Caracas without being confronted by state security. ](/news/2017/04/22/dressed-in-white-the-venezuela-opposition-march-in-silence-to-the-headquarters-of-the-country-s-catholic-archdiocese-to-honor-the-more-th.md) _(Current version)_
 
 ### Related:

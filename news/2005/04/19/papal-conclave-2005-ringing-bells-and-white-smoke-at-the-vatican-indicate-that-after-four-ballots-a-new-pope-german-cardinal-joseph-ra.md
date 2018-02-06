@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smo
 
 ### Changes:
 
-1. [ Papal conclave, 2005: Ringing bells and white smoke at the Vatican indicate that, after four ballots, a new Pope, German Cardinal Joseph Ratzinger, has been elected. He has taken the regnal name Pope Benedict XVI. ](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smoke-at-the-vatican-indicate-that-after-four-ballots-a-new-pope-german-cardinal-joseph-r.md) _2017-08-25 03:16:01 (First version)_
+1. [ Papal conclave, 2005: Ringing bells and white smoke at the Vatican indicate that, after four ballots, a new Pope, German Cardinal Joseph Ratzinger, has been elected. He has taken the regnal name Pope Benedict XVI. ](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smoke-at-the-vatican-indicate-that-after-four-ballots-a-new-pope-german-cardinal-joseph-r.md) _2018-02-06 13:49:16 (First version)_
 1. [ Papal conclave, 2005: Ringing bells and white smoke at the Vatican indicate that, after four ballots, a new Pope, German Cardinal Joseph Ratzinger, has been elected. He has taken the regnal name Pope Benedict XVI. ](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smoke-at-the-vatican-indicate-that-after-four-ballots-a-new-pope-german-cardinal-joseph-ra.md) _(Current version)_
 
 ### Related:

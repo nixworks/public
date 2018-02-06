@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/23/samoan-authorities-prepared-for-severe-tropical
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/2015-16-south-pacific-cyclone-season-samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-late.md) _2017-08-27 03:45:47 (First version)_
+1. [2015-16 South Pacific cyclone season: Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/2015-16-south-pacific-cyclone-season-samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-late.md) _2018-02-06 13:49:28 (First version)_
 1. [Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-later-tonight.md) _(Current version)_
 
 ### Related:

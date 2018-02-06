@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/27/a-bomb-explodes-outside-the-residence-of-a-gree
 
 ### Changes:
 
-1. [Terrorism in Greece:A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-pa-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _2017-08-25 03:38:03 (First version)_
-2. [Terrorism in Greece:: A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _2017-08-27 03:38:14 (Update)_
+1. [Terrorism in Greece:A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-pa-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Greece:: A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md) _(Current version)_
 
 ### Related:

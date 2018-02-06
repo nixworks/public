@@ -16,7 +16,7 @@ An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Part
 
 ### Changes:
 
-1. [Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-he-risks-142-years-in-prison.md) _2017-12-07 22:30:06 (First version)_
+1. [Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-he-risks-142-years-in-prison.md) _2018-02-06 13:49:31 (First version)_
 1. [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md) _(Current version)_
 
 ### Related:

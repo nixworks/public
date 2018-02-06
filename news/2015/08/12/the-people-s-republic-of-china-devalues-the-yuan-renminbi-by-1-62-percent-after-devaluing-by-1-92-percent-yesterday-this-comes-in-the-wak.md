@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/08/12/the-people-s-republic-of-china-devalues-the-yua
 
 ### Changes:
 
-1. [2015 Chinese stock market crash: The People's Republic of China devalues the yuan (Renminbi) by 1.62 percent after devaluing by 1.92 percent yesterday. This comes in the wake of a 30% drop of Chinese stocks last month. ](/news/2015/08/12/2015-chinese-stock-market-crash-the-people-s-republic-of-china-devalues-the-yuan-renminbi-by-1-62-percent-after-devaluing-by-1-92-percent.md) _2017-08-27 03:42:49 (First version)_
+1. [2015 Chinese stock market crash: The People's Republic of China devalues the yuan (Renminbi) by 1.62 percent after devaluing by 1.92 percent yesterday. This comes in the wake of a 30% drop of Chinese stocks last month. ](/news/2015/08/12/2015-chinese-stock-market-crash-the-people-s-republic-of-china-devalues-the-yuan-renminbi-by-1-62-percent-after-devaluing-by-1-92-percent.md) _2018-02-06 13:49:27 (First version)_
 1. [The People's Republic of China devalues the yuan (Renminbi) by 1.62 percent after devaluing by 1.92 percent yesterday. This comes in the wake of a 30% drop of Chinese stocks last month. ](/news/2015/08/12/the-people-s-republic-of-china-devalues-the-yuan-renminbi-by-1-62-percent-after-devaluing-by-1-92-percent-yesterday-this-comes-in-the-wak.md) _(Current version)_
 
 ### Related:

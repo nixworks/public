@@ -17,7 +17,7 @@ The Army continued Friday to search for four missing soldiers from Fort Hood a d
 
 ### Changes:
 
-1. [May 2016 United States storm complex: The four missing Fort Hood soldiers from the overturned Light Medium Tactical Vehicle are found dead, bringing the death toll from the accident to nine. ](/news/2016/06/3/may-2016-united-states-storm-complex-the-four-missing-fort-hood-soldiers-from-the-overturned-light-medium-tactical-vehicle-are-found-dead.md) _2017-08-27 03:46:12 (First version)_
+1. [May 2016 United States storm complex: The four missing Fort Hood soldiers from the overturned Light Medium Tactical Vehicle are found dead, bringing the death toll from the accident to nine. ](/news/2016/06/3/may-2016-united-states-storm-complex-the-four-missing-fort-hood-soldiers-from-the-overturned-light-medium-tactical-vehicle-are-found-dead.md) _2018-02-06 13:49:29 (First version)_
 1. [The four missing Fort Hood soldiers from the overturned Light Medium Tactical Vehicle are found dead, bringing the death toll from the accident to nine. ](/news/2016/06/3/the-four-missing-fort-hood-soldiers-from-the-overturned-light-medium-tactical-vehicle-are-found-dead-bringing-the-death-toll-from-the-accid.md) _(Current version)_
 
 ### Related:

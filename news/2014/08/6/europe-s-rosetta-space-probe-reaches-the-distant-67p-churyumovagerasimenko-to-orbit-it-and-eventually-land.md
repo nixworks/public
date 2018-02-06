@@ -16,7 +16,7 @@ In a historic first, a European spacecraft arrives at a speeding comet after a 1
 
 ### Changes:
 
-1. [Europe's Rosetta space probe reaches the distant 67P-Churyumov-Gerasimenko to orbit it and eventually land. ](/news/2014/08/6/europe-s-rosetta-space-probe-reaches-the-distant-67p-churyumov-gerasimenko-to-orbit-it-and-eventually-land.md) _2017-08-27 03:41:07 (First version)_
+1. [Europe's Rosetta space probe reaches the distant 67P-Churyumov-Gerasimenko to orbit it and eventually land. ](/news/2014/08/6/europe-s-rosetta-space-probe-reaches-the-distant-67p-churyumov-gerasimenko-to-orbit-it-and-eventually-land.md) _2018-02-06 13:49:26 (First version)_
 1. [Europe's Rosetta space probe reaches the distant 67P-Churyumov-Gerasimenko to orbit it and eventually land. ](/news/2014/08/6/europe-s-rosetta-space-probe-reaches-the-distant-67p-churyumovagerasimenko-to-orbit-it-and-eventually-land.md) _(Current version)_
 
 ### Related:

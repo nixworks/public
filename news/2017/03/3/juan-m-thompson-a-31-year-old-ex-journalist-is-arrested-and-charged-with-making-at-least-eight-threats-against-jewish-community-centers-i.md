@@ -16,7 +16,7 @@ Prosecutors say Juan Thompson made eight bomb threats and tried to pin it on an 
 
 ### Changes:
 
-1. [Antisemitism in the United States: Juan M. Thompson, a 31-year-old ex-journalist, is arrested and charged with making at least eight threats against Jewish Community Centers in the United States, as well as a threat made against the Anti-Defamation League, while allegedly impersonating a former girlfriend. ](/news/2017/03/3/antisemitism-in-the-united-states-juan-m-thompson-a-31-year-old-ex-journalist-is-arrested-and-charged-with-making-at-least-eight-threats.md) _2017-08-27 03:47:56 (First version)_
+1. [Antisemitism in the United States: Juan M. Thompson, a 31-year-old ex-journalist, is arrested and charged with making at least eight threats against Jewish Community Centers in the United States, as well as a threat made against the Anti-Defamation League, while allegedly impersonating a former girlfriend. ](/news/2017/03/3/antisemitism-in-the-united-states-juan-m-thompson-a-31-year-old-ex-journalist-is-arrested-and-charged-with-making-at-least-eight-threats.md) _2018-02-06 13:49:30 (First version)_
 1. [Juan M. Thompson, a 31-year-old ex-journalist, is arrested and charged with making at least eight threats against Jewish Community Centers in the United States, as well as a threat made against the Anti-Defamation League, while allegedly impersonating a former girlfriend. ](/news/2017/03/3/juan-m-thompson-a-31-year-old-ex-journalist-is-arrested-and-charged-with-making-at-least-eight-threats-against-jewish-community-centers-i.md) _(Current version)_
 
 ### Related:

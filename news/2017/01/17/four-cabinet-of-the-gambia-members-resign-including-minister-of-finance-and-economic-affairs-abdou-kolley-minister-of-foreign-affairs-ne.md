@@ -17,7 +17,7 @@ President Yahya Jammeh is meant to hand over power to Adama Barrow on Thursday.
 
 ### Changes:
 
-1. [2016-2017 Gambian constitutional crisis: Four Cabinet of the Gambia members resign, including Minister of Finance and Economic Affairs, Abdou Kolley, Minister of Foreign Affairs, Neneh Macdouall-Gaye, Minister of Trade, Abdou Jobe, and Minister of Environment Pa Ousman Jarju. ](/news/2017/01/17/2016-2017-gambian-constitutional-crisis-four-cabinet-of-the-gambia-members-resign-including-minister-of-finance-and-economic-affairs-ab.md) _2017-08-27 03:47:37 (First version)_
+1. [2016-2017 Gambian constitutional crisis: Four Cabinet of the Gambia members resign, including Minister of Finance and Economic Affairs, Abdou Kolley, Minister of Foreign Affairs, Neneh Macdouall-Gaye, Minister of Trade, Abdou Jobe, and Minister of Environment Pa Ousman Jarju. ](/news/2017/01/17/2016-2017-gambian-constitutional-crisis-four-cabinet-of-the-gambia-members-resign-including-minister-of-finance-and-economic-affairs-ab.md) _2018-02-06 13:49:30 (First version)_
 1. [Four Cabinet of the Gambia members resign, including Minister of Finance and Economic Affairs, Abdou Kolley, Minister of Foreign Affairs, Neneh Macdouall-Gaye, Minister of Trade, Abdou Jobe, and Minister of Environment Pa Ousman Jarju. ](/news/2017/01/17/four-cabinet-of-the-gambia-members-resign-including-minister-of-finance-and-economic-affairs-abdou-kolley-minister-of-foreign-affairs-ne.md) _(Current version)_
 
 ### Related:

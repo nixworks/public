@@ -16,7 +16,7 @@ At least 18 people were killed in attacks across Iraq on Sunday, including a mil
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): 18 people are killed in attacks across Iraq, including a military general in a bombing in the northern city of Mosul. ](/news/2013/12/29/iraqi-insurgency-post-u-s-withdrawal-18-people-are-killed-in-attacks-across-iraq-including-a-military-general-in-a-bombing-in-the-north.md) _2017-08-27 03:40:06 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): 18 people are killed in attacks across Iraq, including a military general in a bombing in the northern city of Mosul. ](/news/2013/12/29/iraqi-insurgency-post-u-s-withdrawal-18-people-are-killed-in-attacks-across-iraq-including-a-military-general-in-a-bombing-in-the-north.md) _2018-02-06 13:49:25 (First version)_
 1. [18 people are killed in attacks across Iraq, including a military general in a bombing in the northern city of Mosul. ](/news/2013/12/29/18-people-are-killed-in-attacks-across-iraq-including-a-military-general-in-a-bombing-in-the-northern-city-of-mosul.md) _(Current version)_
 
 ### Related:

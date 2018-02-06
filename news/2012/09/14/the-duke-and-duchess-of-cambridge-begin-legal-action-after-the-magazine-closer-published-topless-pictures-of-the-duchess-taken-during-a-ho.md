@@ -17,7 +17,7 @@ The Duke and Duchess of Cambridge have launched legal action against the French 
 
 ### Changes:
 
-1. [The Duke and Duchess of Cambridge begin legal action after the magazine ''Closer'' published topless pictures of the Duchess taken during a holiday to France last week, and which their spokesman describes as "a grotesque and totally unjustifiable" invasion of privacy. ](/news/2012/09/14/the-duke-and-duchess-of-cambridge-begin-legal-action-after-the-magazine-closer-published-topless-pictures-of-the-duchess-taken-during-a.md) _2017-08-25 03:36:30 (First version)_
+1. [The Duke and Duchess of Cambridge begin legal action after the magazine ''Closer'' published topless pictures of the Duchess taken during a holiday to France last week, and which their spokesman describes as "a grotesque and totally unjustifiable" invasion of privacy. ](/news/2012/09/14/the-duke-and-duchess-of-cambridge-begin-legal-action-after-the-magazine-closer-published-topless-pictures-of-the-duchess-taken-during-a.md) _2018-02-06 13:49:23 (First version)_
 1. [The Duke and Duchess of Cambridge begin legal action after the magazine "Closer" published topless pictures of the Duchess taken during a holiday to France last week, and which their spokesman describes as "a grotesque and totally unjustifiable" invasion of privacy. ](/news/2012/09/14/the-duke-and-duchess-of-cambridge-begin-legal-action-after-the-magazine-closer-published-topless-pictures-of-the-duchess-taken-during-a-ho.md) _(Current version)_
 
 ### Related:

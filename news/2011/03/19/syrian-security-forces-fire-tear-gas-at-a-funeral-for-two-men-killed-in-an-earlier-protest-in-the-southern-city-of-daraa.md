@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funer
 
 ### Changes:
 
-1. [Arab Spring: Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/arab-spring-syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _2017-08-27 03:32:43 (First version)_
+1. [Arab Spring: Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/arab-spring-syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _2018-02-06 13:49:22 (First version)_
 1. [Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _(Current version)_
 
 ### Related:

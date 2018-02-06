@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Atlantic hurricane season: Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _2018-02-06 13:49:27 (First version)_
 1. [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _(Current version)_
 
 ### Related:

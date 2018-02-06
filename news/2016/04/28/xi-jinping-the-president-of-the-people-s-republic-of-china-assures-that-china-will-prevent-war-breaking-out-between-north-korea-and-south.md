@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/04/28/xi-jinping-the-president-of-the-people-s-republ
 
 ### Changes:
 
-1. [North Korea-South Korea relations: Xi Jinping, the President of the People's Republic of China, assures that China will prevent war breaking out between North Korea and South Korea. ](/news/2016/04/28/north-korea-south-korea-relations-xi-jinping-the-president-of-the-people-s-republic-of-china-assures-that-china-will-prevent-war-breaki.md) _2017-08-27 03:45:54 (First version)_
+1. [North Korea-South Korea relations: Xi Jinping, the President of the People's Republic of China, assures that China will prevent war breaking out between North Korea and South Korea. ](/news/2016/04/28/north-korea-south-korea-relations-xi-jinping-the-president-of-the-people-s-republic-of-china-assures-that-china-will-prevent-war-breaki.md) _2018-02-06 13:49:29 (First version)_
 1. [Xi Jinping, the President of the People's Republic of China, assures that China will prevent war breaking out between North Korea and South Korea. ](/news/2016/04/28/xi-jinping-the-president-of-the-people-s-republic-of-china-assures-that-china-will-prevent-war-breaking-out-between-north-korea-and-south.md) _(Current version)_
 
 ### Related:

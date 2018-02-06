@@ -16,7 +16,7 @@ As their country is sucked into a the depths of a new economic crisis, Zimbabwea
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: The Zimbabwe economy is crippled after a week of protests as a result of dissatisfaction with the regime of Robert Mugabe. ](/news/2016/07/9/2016-zimbabwe-protests-the-zimbabwe-economy-is-crippled-after-a-week-of-protests-as-a-result-of-dissatisfaction-with-the-regime-of-robert-m.md) _2017-08-27 03:46:27 (First version)_
+1. [2016 Zimbabwe protests: The Zimbabwe economy is crippled after a week of protests as a result of dissatisfaction with the regime of Robert Mugabe. ](/news/2016/07/9/2016-zimbabwe-protests-the-zimbabwe-economy-is-crippled-after-a-week-of-protests-as-a-result-of-dissatisfaction-with-the-regime-of-robert-m.md) _2018-02-06 13:49:29 (First version)_
 1. [The Zimbabwe economy is crippled after a week of protests as a result of dissatisfaction with the regime of Robert Mugabe. ](/news/2016/07/9/the-zimbabwe-economy-is-crippled-after-a-week-of-protests-as-a-result-of-dissatisfaction-with-the-regime-of-robert-mugabe.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Producer Harvey Weinstein has been kicked out of the motion picture academy foll
 
 ### Changes:
 
-1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md) _2017-10-15 20:30:05 (First version)_
+1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md) _2018-02-06 13:49:31 (First version)_
 1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following several allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-several.md) _(Current version)_
 
 ### Related:

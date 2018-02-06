@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-pric
 
 ### Changes:
 
-1. [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-reg.md) _2017-08-25 03:47:19 (First version)_
+1. [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-reg.md) _2018-02-06 13:49:30 (First version)_
 1. [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-regul.md) _(Current version)_
 
 ### Related:

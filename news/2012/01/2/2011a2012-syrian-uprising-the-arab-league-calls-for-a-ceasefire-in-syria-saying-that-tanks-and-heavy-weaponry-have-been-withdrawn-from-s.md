@@ -18,8 +18,8 @@ Bloc to discuss preliminary assessment from monitors following reports that Syri
 
 ### Changes:
 
-1. [Arab Spring:2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/arab-spring-p2011a2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-wit.md) _2017-08-25 03:34:47 (First version)_
-2. [Arab Spring:: 2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/arab-spring-2011-2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-wi.md) _2017-08-27 03:34:57 (Update)_
+1. [Arab Spring:2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/arab-spring-p2011a2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-wit.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: 2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/arab-spring-2011-2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-wi.md) _2018-02-06 13:49:23 (Update)_
 2. [2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/2011a2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-withdrawn-from-s.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/27/abel-mutsakani-editor-of-the-zimonline-is-shot-
 
 ### Changes:
 
-1. [ Abel Mutsakani, editor of the ''ZimOnline'', is shot and seriously wounded in Johannesburg, South Africa in what may have been an assassination attempt. ](/news/2007/07/27/abel-mutsakani-editor-of-the-zimonline-is-shot-and-seriously-wounded-in-johannesburg-south-africa-in-what-may-have-been-an-assassina.md) _2017-08-25 03:20:19 (First version)_
+1. [ Abel Mutsakani, editor of the ''ZimOnline'', is shot and seriously wounded in Johannesburg, South Africa in what may have been an assassination attempt. ](/news/2007/07/27/abel-mutsakani-editor-of-the-zimonline-is-shot-and-seriously-wounded-in-johannesburg-south-africa-in-what-may-have-been-an-assassina.md) _2018-02-06 13:49:17 (First version)_
 1. [ Abel Mutsakani, editor of the "ZimOnline", is shot and seriously wounded in Johannesburg, South Africa in what may have been an assassination attempt. ](/news/2007/07/27/abel-mutsakani-editor-of-the-zimonline-is-shot-and-seriously-wounded-in-johannesburg-south-africa-in-what-may-have-been-an-assassinati.md) _(Current version)_
 
 ### Related:

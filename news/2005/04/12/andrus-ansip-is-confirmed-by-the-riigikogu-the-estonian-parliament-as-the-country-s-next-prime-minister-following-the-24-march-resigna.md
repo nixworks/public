@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-
 
 ### Changes:
 
-1. [ Andrus Ansip is confirmed by the ''Riigikogu'', the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resig.md) _2017-08-25 03:15:58 (First version)_
+1. [ Andrus Ansip is confirmed by the ''Riigikogu'', the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resig.md) _2018-02-06 13:49:16 (First version)_
 1. [ Andrus Ansip is confirmed by the "Riigikogu", the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resigna.md) _(Current version)_
 
 ### Related:

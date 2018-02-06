@@ -17,8 +17,8 @@ Large study is the first to find an effective method of screening for an often d
 
 ### Changes:
 
-1. [Researchers at University College London report in ''The Lancet'' that an annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-o.md) _2017-08-25 03:44:03 (First version)_
-2. [Researchers at University College London report in "The Lancet" that an annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-ovari.md) _2017-10-17 03:51:13 (Update)_
+1. [Researchers at University College London report in "The Lancet" that an annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-ovari.md) _2018-02-06 13:49:28 (First version)_
+2. [Researchers at University College London report in ''The Lancet'' that an annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-o.md) _2018-02-06 13:49:28 (Update)_
 2. [ Researchers at University College London report in "The Lancet" that an annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-ovar.md) _(Current version)_
 
 ### Related:

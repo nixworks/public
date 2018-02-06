@@ -16,7 +16,7 @@ Brent crude futures fell for a fifth straight day on Tuesday to end below $60 a 
 
 ### Changes:
 
-1. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55-60-per-barrel-for-the-first-time-since-2009.md) _2017-08-27 03:41:38 (First version)_
+1. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55-60-per-barrel-for-the-first-time-since-2009.md) _2018-02-06 13:49:26 (First version)_
 1. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55a60-per-barrel-for-the-first-time-since-2009.md) _(Current version)_
 
 ### Related:

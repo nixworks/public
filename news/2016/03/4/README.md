@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Yemeni Civil War (2015-present)
 ### [Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns. ](/news/2016/03/4/gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people-including-four-catholic-nuns.md)
-_Context: Yemen, Yemeni Civil War (2015-present), Mother Teresa_
+_Context: Mother Teresa, Yemeni Civil War (2015-present), Yemen_
 
 ##### Dissident Irish Republican campaign (1998-present)
 ### [A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republicans-have-claimed-responsibility.md)
@@ -29,7 +29,7 @@ _Context: Syria, Electricity, electrical grid, Syria's Electricity Ministry_
 
 ##### Indonesia
 ### [Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bali.md)
-_Context: East Java, Bali Strait, Indonesia, Bali_
+_Context: Bali Strait, Indonesia, East Java, Bali_
 
 ##### South China Sea disputes
 ### [The U.S. Navy dispatches a carrier strike group containing the Nimitz carrier nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-carrier-nuclear-powered-supercarrier-john-c-stennis-to-the-south-chin.md)
@@ -65,7 +65,7 @@ Polling is underway in Samoa&#39;s general election.
 
 ##### Serbian parliamentary election, 2016
 ### [Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-dissolves-serbia-s-parliament-and-calls-fo.md)
-_Context: President of Serbia, National Assembly, Tomislav Nikolic, Serbia, Aleksandar Vucic, Serbian parliamentary election, 2016, Prime Minister of Serbia_
+_Context: National Assembly, Serbia, Tomislav Nikolic, Prime Minister of Serbia, Aleksandar Vucic, President of Serbia, Serbian parliamentary election, 2016_
 
 ##### 2016 U.S. presidential election
 ### [Ben Carson suspends his campaign for the Republican Party nomination. The expected announcement was made during a speech at the 2016 Conservative Political Action Conference (CPAC). ](/news/2016/03/4/ben-carson-suspends-his-campaign-for-the-republican-party-nomination-the-expected-announcement-was-made-during-a-speech-at-the-2016-conserv.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 17: The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/malaysia-airlines-flight-17-the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-access.md) _2017-08-27 03:41:30 (First version)_
+1. [Malaysia Airlines Flight 17: The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/malaysia-airlines-flight-17-the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-access.md) _2018-02-06 13:49:26 (First version)_
 1. [The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.md) _(Current version)_
 
 ### Related:

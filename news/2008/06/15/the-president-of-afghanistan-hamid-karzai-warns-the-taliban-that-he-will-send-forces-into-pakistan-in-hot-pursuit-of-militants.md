@@ -18,7 +18,7 @@ U.S-led and Afghan forces killed more than 15 insurgents in a search for hundred
 
 ### Changes:
 
-1. [ Afghanistan: The President of Afghanistan Hamid Karzai warns the Taliban that he will send forces into Pakistan in hot pursuit of militants. ](/news/2008/06/15/afghanistan-the-president-of-afghanistan-hamid-karzai-warns-the-taliban-that-he-will-send-forces-into-pakistan-in-hot-pursuit-of-militants.md) _2017-08-27 03:22:16 (First version)_
+1. [ Afghanistan: The President of Afghanistan Hamid Karzai warns the Taliban that he will send forces into Pakistan in hot pursuit of militants. ](/news/2008/06/15/afghanistan-the-president-of-afghanistan-hamid-karzai-warns-the-taliban-that-he-will-send-forces-into-pakistan-in-hot-pursuit-of-militants.md) _2018-02-06 13:49:18 (First version)_
 1. [ The President of Afghanistan Hamid Karzai warns the Taliban that he will send forces into Pakistan in hot pursuit of militants. ](/news/2008/06/15/the-president-of-afghanistan-hamid-karzai-warns-the-taliban-that-he-will-send-forces-into-pakistan-in-hot-pursuit-of-militants.md) _(Current version)_
 
 ### Related:

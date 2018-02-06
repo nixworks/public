@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known
 
 ### Changes:
 
-1. [Carrie Fisher, the actress and writer best known for playing Princess Leia in the ''Star Wars'' franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from.md) _2017-08-25 03:47:08 (First version)_
+1. [Carrie Fisher, the actress and writer best known for playing Princess Leia in the ''Star Wars'' franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from.md) _2018-02-06 13:49:30 (First version)_
 1. [Carrie Fisher, the actress and writer best known for playing Princess Leia in the "Star Wars" franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from-a.md) _(Current version)_
 
 ### Related:

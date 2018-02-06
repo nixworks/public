@@ -16,7 +16,7 @@ India said a group of militants from Pakistan killed five of its soldiers in an 
 
 ### Changes:
 
-1. [2013 India-Pakistan border incidents: Five Indian Army soldiers are killed in an attack near the Pakistan border in the state of Jammu and Kashmir. ](/news/2013/08/6/2013-india-pakistan-border-incidents-five-indian-army-soldiers-are-killed-in-an-attack-near-the-pakistan-border-in-the-state-of-jammu-and.md) _2017-08-27 03:39:22 (First version)_
+1. [2013 India-Pakistan border incidents: Five Indian Army soldiers are killed in an attack near the Pakistan border in the state of Jammu and Kashmir. ](/news/2013/08/6/2013-india-pakistan-border-incidents-five-indian-army-soldiers-are-killed-in-an-attack-near-the-pakistan-border-in-the-state-of-jammu-and.md) _2018-02-06 13:49:25 (First version)_
 1. [2013 India-Pakistan border incidents: Five Indian Army soldiers are killed in an attack near the Pakistan border in the state of Jammu and Kashmir. ](/news/2013/08/6/2013-indiaapakistan-border-incidents-five-indian-army-soldiers-are-killed-in-an-attack-near-the-pakistan-border-in-the-state-of-jammu-and.md) _(Current version)_
 
 ### Related:

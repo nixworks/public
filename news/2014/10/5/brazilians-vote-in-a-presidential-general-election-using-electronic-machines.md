@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/10/5/brazilians-vote-in-a-presidential-general-electi
 
 ### Changes:
 
-1. [Brazilian general election, 2014: Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilian-general-election-2014-brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md) _2017-08-27 03:41:21 (First version)_
+1. [Brazilian general election, 2014: Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilian-general-election-2014-brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md) _2018-02-06 13:49:26 (First version)_
 1. [Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md) _(Current version)_
 
 ### Related:

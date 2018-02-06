@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troop
 
 ### Changes:
 
-1. [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50th-anniversary-of-the-country-s-independence.md) _2017-10-02 03:32:04 (First version)_
+1. [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50th-anniversary-of-the-country-s-independence.md) _2018-02-06 13:49:20 (First version)_
 1. [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md) _(Current version)_
 
 ### Related:

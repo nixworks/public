@@ -21,7 +21,7 @@ UPDATED Saturday, 6:15PM: The terrorist rampage that left at least 129 dead and 
 
 ### Changes:
 
-1. [November 2015 Paris attacks: French police report multiple blasts and gunfire in Paris with at least 26 dead in a restaurant in the 10th arrondissement and an explosion near the Stade de France. ](/news/2015/11/13/november-2015-paris-attacks-french-police-report-multiple-blasts-and-gunfire-in-paris-with-at-least-26-dead-in-a-restaurant-in-the-10th-arr.md) _2017-08-27 03:43:50 (First version)_
+1. [November 2015 Paris attacks: French police report multiple blasts and gunfire in Paris with at least 26 dead in a restaurant in the 10th arrondissement and an explosion near the Stade de France. ](/news/2015/11/13/november-2015-paris-attacks-french-police-report-multiple-blasts-and-gunfire-in-paris-with-at-least-26-dead-in-a-restaurant-in-the-10th-arr.md) _2018-02-06 13:49:28 (First version)_
 1. [French police report multiple blasts and gunfire in Paris with at least 26 dead in a restaurant in the 10th arrondissement and an explosion near the Stade de France. ](/news/2015/11/13/french-police-report-multiple-blasts-and-gunfire-in-paris-with-at-least-26-dead-in-a-restaurant-in-the-10th-arrondissement-and-an-explosion.md) _(Current version)_
 
 ### Related:

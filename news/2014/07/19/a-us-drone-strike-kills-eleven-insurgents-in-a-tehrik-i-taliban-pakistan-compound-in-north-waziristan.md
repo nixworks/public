@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/19/a-us-drone-strike-kills-eleven-insurgents-in-a-
 
 ### Changes:
 
-1. [War in North-West Pakistan:A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/war-in-north-west-pakistan-pa-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md) _2017-08-25 03:40:42 (First version)_
-2. [War in North-West Pakistan:: A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/war-in-north-west-pakistan-a-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md) _2017-08-27 03:41:00 (Update)_
+1. [War in North-West Pakistan:A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/war-in-north-west-pakistan-pa-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/war-in-north-west-pakistan-a-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md) _2018-02-06 13:49:26 (Update)_
 2. [A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/a-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/27/a-middle-eastern-coalition-led-by-the-saudi-ara
 
 ### Changes:
 
-1. [2015 military intervention in Yemen: A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate. Saudi Arabia declares that it will enforce a "no-fly zone". ](/news/2015/03/27/2015-military-intervention-in-yemen-a-middle-eastern-coalition-led-by-the-saudi-arabian-army-and-egyptian-navy-attacks-positions-in-yemen-f.md) _2017-08-27 03:42:08 (First version)_
+1. [2015 military intervention in Yemen: A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate. Saudi Arabia declares that it will enforce a "no-fly zone". ](/news/2015/03/27/2015-military-intervention-in-yemen-a-middle-eastern-coalition-led-by-the-saudi-arabian-army-and-egyptian-navy-attacks-positions-in-yemen-f.md) _2018-02-06 13:49:26 (First version)_
 1. [A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate. Saudi Arabia declares that it will enforce a "no-fly zone". ](/news/2015/03/27/a-middle-eastern-coalition-led-by-the-saudi-arabian-army-and-egyptian-navy-attacks-positions-in-yemen-for-the-second-successive-day-resulti.md) _(Current version)_
 
 ### Related:

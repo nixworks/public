@@ -17,8 +17,8 @@ Harrison and Haji Mujtaba
 
 ### Changes:
 
-1. [NATO invasion of Pakistani airspace:A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/nato-invasion-of-pakistani-airspace-pa-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakist.md) _2017-08-25 03:33:09 (First version)_
-2. [NATO invasion of Pakistani airspace:: A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/nato-invasion-of-pakistani-airspace-a-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakis.md) _2017-08-27 03:33:18 (Update)_
+1. [NATO invasion of Pakistani airspace:A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/nato-invasion-of-pakistani-airspace-pa-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakist.md) _2018-02-06 13:49:22 (First version)_
+2. [NATO invasion of Pakistani airspace:: A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/nato-invasion-of-pakistani-airspace-a-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakis.md) _2018-02-06 13:49:22 (Update)_
 2. [A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/a-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakistan-army-checkpoint-wounding-two-sold.md) _(Current version)_
 
 ### Related:

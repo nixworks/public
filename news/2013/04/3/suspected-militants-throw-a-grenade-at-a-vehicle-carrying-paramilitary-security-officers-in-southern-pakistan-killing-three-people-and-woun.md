@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in North-West Pakistan:Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/war-in-north-west-pakistan-psuspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan-k.md) _2017-08-25 03:38:09 (First version)_
-2. [War in North-West Pakistan:: Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/war-in-north-west-pakistan-suspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan.md) _2017-08-27 03:38:20 (Update)_
+1. [War in North-West Pakistan:: Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/war-in-north-west-pakistan-suspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/war-in-north-west-pakistan-psuspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan-k.md) _2018-02-06 13:49:24 (Update)_
 2. [Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/suspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan-killing-three-people-and-woun.md) _(Current version)_
 
 ### Related:

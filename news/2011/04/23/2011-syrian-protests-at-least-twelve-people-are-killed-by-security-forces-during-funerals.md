@@ -21,8 +21,8 @@ NATO carried out another series of air strikes on Tripoli early Saturday, Libyan
 
 ### Changes:
 
-1. [2011 Syrian protests:At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/2011-syrian-protests-pat-least-twelve-people-are-killed-by-security-forces-during-funerals.md) _2017-08-25 03:32:52 (First version)_
-2. [Arab Spring: 2011 Syrian protests:: At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/arab-spring-2011-syrian-protests-at-least-twelve-people-are-killed-by-security-forces-during-funerals.md) _2017-08-27 03:33:00 (Update)_
+1. [Arab Spring: 2011 Syrian protests:: At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/arab-spring-2011-syrian-protests-at-least-twelve-people-are-killed-by-security-forces-during-funerals.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/2011-syrian-protests-pat-least-twelve-people-are-killed-by-security-forces-during-funerals.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian protests:At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/2011-syrian-protests-at-least-twelve-people-are-killed-by-security-forces-during-funerals.md) _(Current version)_
 
 ### Related:

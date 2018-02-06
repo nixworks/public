@@ -17,7 +17,7 @@ Israel today refused to allow Indonesian Foreign Minister Retno Marsudi to visit
 
 ### Changes:
 
-1. [Israel-Palestine relations: The Palestinian Ministry of Foreign Affairs says Israel prevented Indonesian Foreign Minister Retno Marsudi from entering the West Bank to meet with Palestinian officials. The Israeli spokesman would not comment. Israel and Indonesia do not have formal diplomatic relations. ](/news/2016/03/13/israel-palestine-relations-the-palestinian-ministry-of-foreign-affairs-says-israel-prevented-indonesian-foreign-minister-retno-marsudi-fr.md) _2017-08-27 03:45:14 (First version)_
+1. [Israel-Palestine relations: The Palestinian Ministry of Foreign Affairs says Israel prevented Indonesian Foreign Minister Retno Marsudi from entering the West Bank to meet with Palestinian officials. The Israeli spokesman would not comment. Israel and Indonesia do not have formal diplomatic relations. ](/news/2016/03/13/israel-palestine-relations-the-palestinian-ministry-of-foreign-affairs-says-israel-prevented-indonesian-foreign-minister-retno-marsudi-fr.md) _2018-02-06 13:49:28 (First version)_
 1. [The Palestinian Ministry of Foreign Affairs says Israel prevented Indonesian Foreign Minister Retno Marsudi from entering the West Bank to meet with Palestinian officials. The Israeli spokesman would not comment. Israel and Indonesia do not have formal diplomatic relations. ](/news/2016/03/13/the-palestinian-ministry-of-foreign-affairs-says-israel-prevented-indonesian-foreign-minister-retno-marsudi-from-entering-the-west-bank-to-m.md) _(Current version)_
 
 ### Related:

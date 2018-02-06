@@ -17,8 +17,8 @@ In the days following the war in Lebanon, newspapers from the Arab world report 
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/2006-israel-lebanon-conflict-p-hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifi.md) _2017-08-25 03:18:19 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/2006-israel-lebanon-conflict-hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifi.md) _2017-08-27 03:18:14 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/2006-israel-lebanon-conflict-p-hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifi.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/2006-israel-lebanon-conflict-hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifi.md) _2018-02-06 13:49:17 (Update)_
 2. [ Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifice-their-lives-an-egyptian-wee.md) _(Current version)_
 
 ### Related:

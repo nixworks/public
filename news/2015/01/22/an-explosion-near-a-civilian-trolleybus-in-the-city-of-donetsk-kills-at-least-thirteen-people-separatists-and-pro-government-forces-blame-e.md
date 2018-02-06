@@ -16,8 +16,8 @@ Ukrainian troops leave the main terminal of the bitterly contested airport in Do
 
 ### Changes:
 
-1. [War in Donbass:An explosion near a civilian trolleybus in the city of Donetsk kills at least thirteen people. Separatists and pro-government forces blame each other for the incident. ](/news/2015/01/22/war-in-donbass-pan-explosion-near-a-civilian-trolleybus-in-the-city-of-donetsk-kills-at-least-thirteen-people-separatists-and-pro-governmen.md) _2017-08-25 03:41:31 (First version)_
-2. [War in Donbass:: An explosion near a civilian trolleybus in the city of Donetsk kills at least thirteen people. Separatists and pro-government forces blame each other for the incident. ](/news/2015/01/22/war-in-donbass-an-explosion-near-a-civilian-trolleybus-in-the-city-of-donetsk-kills-at-least-thirteen-people-separatists-and-pro-governme.md) _2017-08-27 03:41:49 (Update)_
+1. [War in Donbass:An explosion near a civilian trolleybus in the city of Donetsk kills at least thirteen people. Separatists and pro-government forces blame each other for the incident. ](/news/2015/01/22/war-in-donbass-pan-explosion-near-a-civilian-trolleybus-in-the-city-of-donetsk-kills-at-least-thirteen-people-separatists-and-pro-governmen.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:: An explosion near a civilian trolleybus in the city of Donetsk kills at least thirteen people. Separatists and pro-government forces blame each other for the incident. ](/news/2015/01/22/war-in-donbass-an-explosion-near-a-civilian-trolleybus-in-the-city-of-donetsk-kills-at-least-thirteen-people-separatists-and-pro-governme.md) _2018-02-06 13:49:26 (Update)_
 2. [An explosion near a civilian trolleybus in the city of Donetsk kills at least thirteen people. Separatists and pro-government forces blame each other for the incident. ](/news/2015/01/22/an-explosion-near-a-civilian-trolleybus-in-the-city-of-donetsk-kills-at-least-thirteen-people-separatists-and-pro-government-forces-blame-e.md) _(Current version)_
 
 ### Related:

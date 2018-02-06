@@ -16,7 +16,7 @@ Its empty homes and ageing residents mirror the wider fate of east German hinter
 
 ### Changes:
 
-1. [The 16-hectare hamlet of Alwine in Uebigau-Wahrenbruck, Germany, is sold for 140.000 EUR. ](/news/2017/12/9/the-16-hectare-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-germany-is-sold-for-140-000-a.md) _2017-12-10 00:30:07 (First version)_
+1. [The 16-hectare hamlet of Alwine in Uebigau-Wahrenbruck, Germany, is sold for 140.000 EUR. ](/news/2017/12/9/the-16-hectare-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-germany-is-sold-for-140-000-a.md) _2018-02-06 13:49:31 (First version)_
 1. [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140,000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md) _(Current version)_
 
 ### Related:

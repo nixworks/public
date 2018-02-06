@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/25/carl-scully-resigns-as-police-minister-of-new-s
 
 ### Changes:
 
-1. [ Carl Scully resigns as Police Minister of New South Wales for misleading the New South Wales Legislative Assembly twice in two weeks over a report on the 2005 Cronulla riots. ](/news/2006/10/25/carl-scully-resigns-as-police-minister-of-new-south-wales-for-misleading-the-new-south-wales-legislative-assembly-twice-in-two-weeks-over.md) _2017-08-25 03:18:37 (First version)_
+1. [ Carl Scully resigns as Police Minister of New South Wales for misleading the New South Wales Legislative Assembly twice in two weeks over a report on the 2005 Cronulla riots. ](/news/2006/10/25/carl-scully-resigns-as-police-minister-of-new-south-wales-for-misleading-the-new-south-wales-legislative-assembly-twice-in-two-weeks-over.md) _2018-02-06 13:49:17 (First version)_
 1. [ Carl Scully resigns as Police Minister of New South Wales for misleading the New South Wales Legislative Assembly twice in two weeks over a report on the 2005 Cronulla riots. ](/news/2006/10/25/carl-scully-resigns-as-police-minister-of-new-south-wales-for-misleading-the-new-south-wales-legislative-assembly-twice-in-two-weeks-over-a.md) _(Current version)_
 
 ### Related:

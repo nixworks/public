@@ -17,7 +17,7 @@ KABUL, Afghanistan (AP) — Militants stormed a building housing an internationa
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Gunfire is heard in the Afghan capital Kabul with security forces looking for attackers with at least one person killed and six injured. ](/news/2016/09/6/war-in-afghanistan-2015-present-gunfire-is-heard-in-the-afghan-capital-kabul-with-security-forces-looking-for-attackers-with-at-least-o.md) _2017-08-27 03:46:47 (First version)_
+1. [War in Afghanistan (2015-present): Gunfire is heard in the Afghan capital Kabul with security forces looking for attackers with at least one person killed and six injured. ](/news/2016/09/6/war-in-afghanistan-2015-present-gunfire-is-heard-in-the-afghan-capital-kabul-with-security-forces-looking-for-attackers-with-at-least-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Gunfire is heard in the Afghan capital Kabul with security forces looking for attackers with at least one person killed and six injured. ](/news/2016/09/6/gunfire-is-heard-in-the-afghan-capital-kabul-with-security-forces-looking-for-attackers-with-at-least-one-person-killed-and-six-injured.md) _(Current version)_
 
 ### Related:

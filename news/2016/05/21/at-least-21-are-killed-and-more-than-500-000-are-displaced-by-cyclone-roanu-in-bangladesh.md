@@ -22,7 +22,7 @@ A cyclone battered coastal Bangladesh on Saturday, killing at least 21 people an
 
 ### Changes:
 
-1. [ Cyclone Roanu: At least 21 are killed and more than 500,000 are displaced by cyclone Roanu in Bangladesh. ](/news/2016/05/21/cyclone-roanu-at-least-21-are-killed-and-more-than-500-000-are-displaced-by-cyclone-roanu-in-bangladesh.md) _2017-08-27 03:46:05 (First version)_
+1. [ Cyclone Roanu: At least 21 are killed and more than 500,000 are displaced by cyclone Roanu in Bangladesh. ](/news/2016/05/21/cyclone-roanu-at-least-21-are-killed-and-more-than-500-000-are-displaced-by-cyclone-roanu-in-bangladesh.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least 21 are killed and more than 500,000 are displaced by cyclone Roanu in Bangladesh. ](/news/2016/05/21/at-least-21-are-killed-and-more-than-500-000-are-displaced-by-cyclone-roanu-in-bangladesh.md) _(Current version)_
 
 ### Related:

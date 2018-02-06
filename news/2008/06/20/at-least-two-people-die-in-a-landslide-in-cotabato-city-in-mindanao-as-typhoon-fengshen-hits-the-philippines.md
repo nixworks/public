@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/20/at-least-two-people-die-in-a-landslide-in-cotab
 
 ### Changes:
 
-1. [ 2008 Pacific typhoon season: Typhoon Fengshen in the At least two people die in a landslide in Cotabato City in Mindanao as Typhoon Fengshen hits the Philippines. ](/news/2008/06/20/2008-pacific-typhoon-season-typhoon-fengshen-in-the-at-least-two-people-die-in-a-landslide-in-cotabato-city-in-mindanao-as-typhoon-fengs.md) _2017-08-25 03:22:26 (First version)_
+1. [ 2008 Pacific typhoon season: Typhoon Fengshen in the At least two people die in a landslide in Cotabato City in Mindanao as Typhoon Fengshen hits the Philippines. ](/news/2008/06/20/2008-pacific-typhoon-season-typhoon-fengshen-in-the-at-least-two-people-die-in-a-landslide-in-cotabato-city-in-mindanao-as-typhoon-fengs.md) _2018-02-06 13:49:18 (First version)_
 1. [ At least two people die in a landslide in Cotabato City in Mindanao as Typhoon Fengshen hits the Philippines. ](/news/2008/06/20/at-least-two-people-die-in-a-landslide-in-cotabato-city-in-mindanao-as-typhoon-fengshen-hits-the-philippines.md) _(Current version)_
 
 ### Related:

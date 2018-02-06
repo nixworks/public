@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/6/sierra-leone-declares-a-four-day-nationwide-lock
 
 ### Changes:
 
-1. [West Africa Ebola virus epidemic:Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/west-africa-ebola-virus-epidemic-psierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _2017-08-25 03:40:56 (First version)_
-2. [West Africa Ebola virus epidemic:: Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/west-africa-ebola-virus-epidemic-sierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _2017-08-27 03:41:14 (Update)_
+1. [West Africa Ebola virus epidemic:: Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/west-africa-ebola-virus-epidemic-sierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _2018-02-06 13:49:26 (First version)_
+2. [West Africa Ebola virus epidemic:Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/west-africa-ebola-virus-epidemic-psierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _2018-02-06 13:49:26 (Update)_
 2. [Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/sierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md) _(Current version)_
 
 ### Related:

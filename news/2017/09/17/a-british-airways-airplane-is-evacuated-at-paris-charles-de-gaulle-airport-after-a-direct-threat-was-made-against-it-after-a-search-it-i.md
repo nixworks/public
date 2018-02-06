@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-pari
 
 ### Changes:
 
-1. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md) _2017-09-18 21:30:06 (First version)_
-2. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after it is verbally threatened. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-it-is-verbally-threatened-after-a-search-it-is-declared-s.md) _2017-09-19 16:30:05 (Update)_
+1. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md) _2018-02-06 13:49:31 (First version)_
+2. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after it is verbally threatened. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-it-is-verbally-threatened-after-a-search-it-is-declared-s.md) _2018-02-06 13:49:31 (Update)_
 2. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after a "direct threat" was made against it. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-a-direct-threat-was-made-against-it-after-a-search-it-i.md) _(Current version)_
 
 ### Related:

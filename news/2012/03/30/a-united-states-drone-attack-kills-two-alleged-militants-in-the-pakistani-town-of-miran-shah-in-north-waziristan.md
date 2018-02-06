@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/03/30/a-united-states-drone-attack-kills-two-alleged-
 
 ### Changes:
 
-1. [Pakistan:A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/pakistan-pa-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md) _2017-08-25 03:35:24 (First version)_
-2. [Pakistan:: A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/pakistan-a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md) _2017-08-27 03:35:33 (Update)_
+1. [Pakistan:A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/pakistan-pa-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md) _2018-02-06 13:49:23 (First version)_
+2. [Pakistan:: A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/pakistan-a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md) _2018-02-06 13:49:23 (Update)_
 2. [A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md) _(Current version)_
 
 ### Related:

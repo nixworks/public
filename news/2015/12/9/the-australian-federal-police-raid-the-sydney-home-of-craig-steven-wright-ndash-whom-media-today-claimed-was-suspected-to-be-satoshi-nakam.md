@@ -16,7 +16,7 @@ The AFP raids the home of a Sydney-based digital-currency entrepreneur linked to
 
 ### Changes:
 
-1. [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-naka.md) _2017-08-25 03:43:56 (First version)_
+1. [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-naka.md) _2018-02-06 13:49:28 (First version)_
 1. [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-nakam.md) _(Current version)_
 
 ### Related:

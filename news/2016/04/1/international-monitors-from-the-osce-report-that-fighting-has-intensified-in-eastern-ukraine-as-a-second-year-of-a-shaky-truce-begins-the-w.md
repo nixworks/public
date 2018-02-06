@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/1/international-monitors-from-the-osce-report-that
 
 ### Changes:
 
-1. [War in Donbass: International monitors from the OSCE report that fighting has intensified in Eastern Ukraine as a second year of a shaky truce begins. The worst of the fighting is located between government-controlled Avdiivka and separatist-controlled Yasynuvata. ](/news/2016/04/1/war-in-donbass-international-monitors-from-the-osce-report-that-fighting-has-intensified-in-eastern-ukraine-as-a-second-year-of-a-shaky-tru.md) _2017-08-27 03:45:27 (First version)_
+1. [War in Donbass: International monitors from the OSCE report that fighting has intensified in Eastern Ukraine as a second year of a shaky truce begins. The worst of the fighting is located between government-controlled Avdiivka and separatist-controlled Yasynuvata. ](/news/2016/04/1/war-in-donbass-international-monitors-from-the-osce-report-that-fighting-has-intensified-in-eastern-ukraine-as-a-second-year-of-a-shaky-tru.md) _2018-02-06 13:49:28 (First version)_
 1. [International monitors from the OSCE report that fighting has intensified in Eastern Ukraine as a second year of a shaky truce begins. The worst of the fighting is located between government-controlled Avdiivka and separatist-controlled Yasynuvata. ](/news/2016/04/1/international-monitors-from-the-osce-report-that-fighting-has-intensified-in-eastern-ukraine-as-a-second-year-of-a-shaky-truce-begins-the-w.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Pfizer Inc. decided to terminate its $160 billion merger with Allergan Plc, a pe
 
 ### Changes:
 
-1. [Tax inversion: Pfizer Inc. decides to terminate its $160 billion merger with Allergan, Plc as officials in Washington crack down on corporate inversions. Pfizer will need to pay a $400 million fee to Allergan for expenses relating to the deal. ](/news/2016/04/5/tax-inversion-pfizer-inc-decides-to-terminate-its-160-billion-merger-with-allergan-plc-as-officials-in-washington-crack-down-on-corporat.md) _2017-08-27 03:45:30 (First version)_
+1. [Tax inversion: Pfizer Inc. decides to terminate its $160 billion merger with Allergan, Plc as officials in Washington crack down on corporate inversions. Pfizer will need to pay a $400 million fee to Allergan for expenses relating to the deal. ](/news/2016/04/5/tax-inversion-pfizer-inc-decides-to-terminate-its-160-billion-merger-with-allergan-plc-as-officials-in-washington-crack-down-on-corporat.md) _2018-02-06 13:49:29 (First version)_
 1. [Pfizer Inc. decides to terminate its $160 billion merger with Allergan, Plc as officials in Washington crack down on corporate inversions. Pfizer will need to pay a $400 million fee to Allergan for expenses relating to the deal. ](/news/2016/04/5/pfizer-inc-decides-to-terminate-its-160-billion-merger-with-allergan-plc-as-officials-in-washington-crack-down-on-corporate-inversions-p.md) _(Current version)_
 
 ### Related:

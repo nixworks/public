@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnap
 
 ### Changes:
 
-1. [Libyan Crisis (2011-present): Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/libyan-crisis-2011-present-three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-a.md) _2017-08-27 03:42:33 (First version)_
+1. [Libyan Crisis (2011-present): Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/libyan-crisis-2011-present-three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-a.md) _2018-02-06 13:49:27 (First version)_
 1. [Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-about-the-others.md) _(Current version)_
 
 ### Related:

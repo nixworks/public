@@ -17,7 +17,7 @@ China announced new commercial flight routes along its southeastern coast today,
 
 ### Changes:
 
-1. [Taiwan protests China-s new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-china-s-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md) _2017-08-27 03:41:47 (First version)_
+1. [Taiwan protests China-s new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-china-s-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md) _2018-02-06 13:49:26 (First version)_
 1. [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md) _(Current version)_
 
 ### Related:

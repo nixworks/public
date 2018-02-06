@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/17/north-korea-blocks-a-delegation-of-south-korean
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-pnorth-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-insi.md) _2017-08-25 03:38:23 (First version)_
-2. [2013 Korean crisis:: North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-north-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-ins.md) _2017-08-27 03:38:36 (Update)_
+1. [2013 Korean crisis:North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-pnorth-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-insi.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/2013-korean-crisis-north-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-ins.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/north-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-inside-the-closed-kaeson.md) _(Current version)_
 
 ### Related:

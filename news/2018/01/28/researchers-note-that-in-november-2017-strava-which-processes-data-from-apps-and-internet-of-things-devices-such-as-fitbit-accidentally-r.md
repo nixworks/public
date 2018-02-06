@@ -17,7 +17,7 @@ Geolocation isn’t a new problem for the military
 
 ### Changes:
 
-1. [Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally reveals the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-reveals-the-locations-of-alleged-united-s.md) _2018-01-29 18:30:30 (First version)_
+1. [Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally reveals the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-reveals-the-locations-of-alleged-united-s.md) _2018-02-06 13:49:31 (First version)_
 1. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _(Current version)_
 
 ### Related:

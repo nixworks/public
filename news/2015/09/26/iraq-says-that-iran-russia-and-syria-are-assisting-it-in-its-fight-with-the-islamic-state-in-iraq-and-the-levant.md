@@ -16,7 +16,7 @@ Iraq said on Saturday that its military officials were engaged in intelligence a
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Iraq says that Iran, Russia and Syria are assisting it in its fight with the Islamic State in Iraq and the Levant. ](/news/2015/09/26/iraqi-civil-war-2014-present-iraq-says-that-iran-russia-and-syria-are-assisting-it-in-its-fight-with-the-islamic-state-in-iraq-and-the.md) _2017-08-27 03:43:09 (First version)_
+1. [Iraqi Civil War (2014-present): Iraq says that Iran, Russia and Syria are assisting it in its fight with the Islamic State in Iraq and the Levant. ](/news/2015/09/26/iraqi-civil-war-2014-present-iraq-says-that-iran-russia-and-syria-are-assisting-it-in-its-fight-with-the-islamic-state-in-iraq-and-the.md) _2018-02-06 13:49:27 (First version)_
 1. [Iraq says that Iran, Russia and Syria are assisting it in its fight with the Islamic State in Iraq and the Levant. ](/news/2015/09/26/iraq-says-that-iran-russia-and-syria-are-assisting-it-in-its-fight-with-the-islamic-state-in-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

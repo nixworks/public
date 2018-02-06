@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/5/over-1-000-people-in-the-philippines-are-strande
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/2015-pacific-typhoon-season-over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslid.md) _2017-08-27 03:42:39 (First version)_
+1. [2015 Pacific typhoon season: Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/2015-pacific-typhoon-season-over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslid.md) _2018-02-06 13:49:27 (First version)_
 1. [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md) _(Current version)_
 
 ### Related:

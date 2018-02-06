@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/01/25/17-people-are-killed-in-car-bomb-and-mortar-att
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): 17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/iraqi-insurgency-post-u-s-withdrawal-17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md) _2017-08-27 03:40:15 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): 17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/iraqi-insurgency-post-u-s-withdrawal-17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md) _2018-02-06 13:49:25 (First version)_
 1. [17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md) _(Current version)_
 
 ### Related:

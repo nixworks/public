@@ -16,7 +16,7 @@ Eastern Ukraine has suffered the worst violence in more than a week as fighting 
 
 ### Changes:
 
-1. [War in Donbass: Renewed clashes around the Donetsk International Airport between the pro-Russian rebels and Ukrainian government troops kill at least 12 people in the worst flareup of violence since the ceasefire accord earlier in September. ](/news/2014/09/29/war-in-donbass-renewed-clashes-around-the-donetsk-international-airport-between-the-pro-russian-rebels-and-ukrainian-government-troops-kill.md) _2017-08-27 03:41:20 (First version)_
+1. [War in Donbass: Renewed clashes around the Donetsk International Airport between the pro-Russian rebels and Ukrainian government troops kill at least 12 people in the worst flareup of violence since the ceasefire accord earlier in September. ](/news/2014/09/29/war-in-donbass-renewed-clashes-around-the-donetsk-international-airport-between-the-pro-russian-rebels-and-ukrainian-government-troops-kill.md) _2018-02-06 13:49:26 (First version)_
 1. [Renewed clashes around the Donetsk International Airport between the pro-Russian rebels and Ukrainian government troops kill at least 12 people in the worst flareup of violence since the ceasefire accord earlier in September. ](/news/2014/09/29/renewed-clashes-around-the-donetsk-international-airport-between-the-pro-russian-rebels-and-ukrainian-government-troops-kill-at-least-12-peo.md) _(Current version)_
 
 ### Related:

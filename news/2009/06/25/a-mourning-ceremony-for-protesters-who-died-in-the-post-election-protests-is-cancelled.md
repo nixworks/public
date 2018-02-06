@@ -18,8 +18,8 @@ A mourning ceremony for protestors who have died in Iran&#39;s post-election tur
 
 ### Changes:
 
-1. [ Iran A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/iran-p-a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md) _2017-05-25 03:25:45 (First version)_
-2. [ Iran: A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/iran-a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md) _2017-08-27 03:24:50 (Update)_
+1. [ Iran A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/iran-p-a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md) _2018-02-06 13:49:19 (First version)_
+2. [ Iran: A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/iran-a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md) _2018-02-06 13:49:19 (Update)_
 2. [ A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md) _(Current version)_
 
 ### Related:

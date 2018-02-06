@@ -16,7 +16,7 @@ An immigrant from Mali in West Africa has died after French police shot him twic
 
 ### Changes:
 
-1. [An inquiry is ordered over the death of an immigrant in France, who was tear gassed, batoned, and twice tasered during an incident which left four police injured. ](/news/2010/11/30/an-inquiry-is-ordered-over-the-death-of-an-immigrant-in-france-who-was-tear-gassed-batoned-and-twice-tasered-during-an-incident-which-l.md) _2017-08-25 03:31:13 (First version)_
+1. [An inquiry is ordered over the death of an immigrant in France, who was tear gassed, batoned, and twice tasered during an incident which left four police injured. ](/news/2010/11/30/an-inquiry-is-ordered-over-the-death-of-an-immigrant-in-france-who-was-tear-gassed-batoned-and-twice-tasered-during-an-incident-which-l.md) _2018-02-06 13:49:21 (First version)_
 1. [An inquiry is ordered over the death of an immigrant in France, who was tear gassed, batoned, and twice tasered during an incident which left four police injured. ](/news/2010/11/30/an-inquiry-is-ordered-over-the-death-of-an-immigrant-in-france-who-was-tear-gassed-batoned-and-twice-tasered-during-an-incident-which-lef.md) _(Current version)_
 
 ### Related:

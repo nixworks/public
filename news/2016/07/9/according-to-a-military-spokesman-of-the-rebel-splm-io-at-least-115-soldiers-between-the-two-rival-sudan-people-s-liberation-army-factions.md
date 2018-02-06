@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/9/according-to-a-military-spokesman-of-the-rebel-s
 
 ### Changes:
 
-1. [South Sudanese Civil War: According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. ](/news/2016/07/9/south-sudanese-civil-war-according-to-a-military-spokesman-of-the-rebel-splm-io-at-least-115-soldiers-between-the-two-rival-sudan-people-s.md) _2017-08-27 03:46:27 (First version)_
+1. [South Sudanese Civil War: According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. ](/news/2016/07/9/south-sudanese-civil-war-according-to-a-military-spokesman-of-the-rebel-splm-io-at-least-115-soldiers-between-the-two-rival-sudan-people-s.md) _2018-02-06 13:49:29 (First version)_
 1. [According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. ](/news/2016/07/9/according-to-a-military-spokesman-of-the-rebel-splm-io-at-least-115-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions.md) _(Current version)_
 
 ### Related:

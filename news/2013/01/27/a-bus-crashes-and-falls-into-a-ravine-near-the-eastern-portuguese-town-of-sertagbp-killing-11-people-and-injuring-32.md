@@ -18,7 +18,7 @@ At least 10 people die and more than 30 are injured after a bus crashes from a r
 
 ### Changes:
 
-1. [A bus crashes and falls into a ravine near the eastern Portuguese town of Serta, killing 11 people and injuring 32. ](/news/2013/01/27/a-bus-crashes-and-falls-into-a-ravine-near-the-eastern-portuguese-town-of-sertaps-killing-11-people-and-injuring-32.md) _2017-08-25 03:37:21 (First version)_
+1. [A bus crashes and falls into a ravine near the eastern Portuguese town of Serta, killing 11 people and injuring 32. ](/news/2013/01/27/a-bus-crashes-and-falls-into-a-ravine-near-the-eastern-portuguese-town-of-sertaps-killing-11-people-and-injuring-32.md) _2018-02-06 13:49:24 (First version)_
 1. [A bus crashes and falls into a ravine near the eastern Portuguese town of SertGBP, killing 11 people and injuring 32. ](/news/2013/01/27/a-bus-crashes-and-falls-into-a-ravine-near-the-eastern-portuguese-town-of-sertagbp-killing-11-people-and-injuring-32.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Seven soldiers were killed on Friday in clashes with Islamist militants in the e
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Seven Libyan National Army soldiers are killed fighting ISIL militants in Benghazi. ](/news/2016/02/26/libyan-civil-war-2014-present-seven-libyan-national-army-soldiers-are-killed-fighting-isil-militants-in-benghazi.md) _2017-08-27 03:45:02 (First version)_
+1. [Libyan Civil War (2014-present): Seven Libyan National Army soldiers are killed fighting ISIL militants in Benghazi. ](/news/2016/02/26/libyan-civil-war-2014-present-seven-libyan-national-army-soldiers-are-killed-fighting-isil-militants-in-benghazi.md) _2018-02-06 13:49:28 (First version)_
 1. [Seven Libyan National Army soldiers are killed fighting ISIL militants in Benghazi. ](/news/2016/02/26/seven-libyan-national-army-soldiers-are-killed-fighting-isil-militants-in-benghazi.md) _(Current version)_
 
 ### Related:

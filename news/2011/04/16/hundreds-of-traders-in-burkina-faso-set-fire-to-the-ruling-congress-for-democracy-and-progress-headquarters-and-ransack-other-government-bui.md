@@ -18,8 +18,8 @@ Authorities in Burkina Faso place the capital Ouagadougou under curfew as unrest
 
 ### Changes:
 
-1. [Burkina Faso unrestHundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/burkina-faso-unrestphundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack.md) _2017-08-25 03:32:50 (First version)_
-2. [Burkina Faso unrest: Hundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/burkina-faso-unrest-hundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack.md) _2017-08-27 03:32:58 (Update)_
+1. [Burkina Faso unrestHundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/burkina-faso-unrestphundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack.md) _2018-02-06 13:49:22 (First version)_
+2. [Burkina Faso unrest: Hundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/burkina-faso-unrest-hundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack.md) _2018-02-06 13:49:22 (Update)_
 2. [Hundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/hundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack-other-government-bui.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Officials say bodies of 162 people have been pulled from the Mediterranean, amid
 
 ### Changes:
 
-1. [2016 Egypt migrant shipwreck: The death toll increases to at least 148 with another 240 believed to still be missing. ](/news/2016/09/23/2016-egypt-migrant-shipwreck-the-death-toll-increases-to-at-least-148-with-another-240-believed-to-still-be-missing.md) _2017-08-27 03:46:54 (First version)_
+1. [2016 Egypt migrant shipwreck: The death toll increases to at least 148 with another 240 believed to still be missing. ](/news/2016/09/23/2016-egypt-migrant-shipwreck-the-death-toll-increases-to-at-least-148-with-another-240-believed-to-still-be-missing.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll increases to at least 148 with another 240 believed to still be missing. ](/news/2016/09/23/the-death-toll-increases-to-at-least-148-with-another-240-believed-to-still-be-missing.md) _(Current version)_
 
 ### Related:

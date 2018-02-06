@@ -18,7 +18,7 @@ Bradley Manning, the US Army private accused in the Wikileaks case, pleads guilt
 
 ### Changes:
 
-1. [''United States v. Manning'': Bradley Manning pleads guilty to 10 counts out of 22 against him for leaking classified material in the WikiLeaks case. ](/news/2013/02/28/united-states-v-manning-bradley-manning-pleads-guilty-to-10-counts-out-of-22-against-him-for-leaking-classified-material-in-the-wikile.md) _2017-08-25 03:37:40 (First version)_
+1. [''United States v. Manning'': Bradley Manning pleads guilty to 10 counts out of 22 against him for leaking classified material in the WikiLeaks case. ](/news/2013/02/28/united-states-v-manning-bradley-manning-pleads-guilty-to-10-counts-out-of-22-against-him-for-leaking-classified-material-in-the-wikile.md) _2018-02-06 13:49:24 (First version)_
 1. ["United States v. Manning": Bradley Manning pleads guilty to 10 counts out of 22 against him for leaking classified material in the WikiLeaks case. ](/news/2013/02/28/united-states-v-manning-bradley-manning-pleads-guilty-to-10-counts-out-of-22-against-him-for-leaking-classified-material-in-the-wikileak.md) _(Current version)_
 
 ### Related:

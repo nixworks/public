@@ -16,8 +16,8 @@ A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (
 
 ### Changes:
 
-1. [Iraqi insurgency:A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-pa-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-others.md) _2017-08-25 03:41:23 (First version)_
-2. [Iraqi insurgency:: A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-other.md) _2017-08-27 03:41:41 (Update)_
+1. [Iraqi insurgency:A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-pa-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-others.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency:: A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-other.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-others-wounded.md) _(Current version)_
 
 ### Related:

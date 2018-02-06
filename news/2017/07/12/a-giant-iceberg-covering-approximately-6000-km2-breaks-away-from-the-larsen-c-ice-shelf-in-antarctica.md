@@ -16,10 +16,10 @@ A block of ice a quarter the size of Wales calves from the eastern side of the A
 
 ### Changes:
 
-1. [A giant iceberg covering approximately 6000 sq km breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-sq-km-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2017-07-12 17:30:06 (First version)_
-2. [A giant iceberg covering approximately 6,000 sq km breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6-000-sq-km-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2017-07-12 23:30:05 (Update)_
-3. [Larsen Ice Shelf: A giant iceberg covering approximately 6000|km2|sqmi breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/larsen-ice-shelf-a-giant-iceberg-covering-approximately-6000-km2-sqmi-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2017-08-27 03:48:39 (Update)_
-4. [A giant iceberg covering approximately 6000|km2|sqmi breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2-sqmi-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2017-08-29 03:48:10 (Update)_
+1. [Larsen Ice Shelf: A giant iceberg covering approximately 6000|km2|sqmi breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/larsen-ice-shelf-a-giant-iceberg-covering-approximately-6000-km2-sqmi-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2018-02-06 13:49:30 (First version)_
+2. [A giant iceberg covering approximately 6000 sq km breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-sq-km-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2018-02-06 13:49:30 (Update)_
+3. [A giant iceberg covering approximately 6000|km2|sqmi breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2-sqmi-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2018-02-06 13:49:30 (Update)_
+4. [A giant iceberg covering approximately 6,000 sq km breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6-000-sq-km-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _2018-02-06 13:49:30 (Update)_
 4. [A giant iceberg covering approximately 6000 km2 breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _(Current version)_
 
 ### Related:

@@ -3,7 +3,7 @@ Formats: [HTML](2015/06/3/index.html)  [JSON](2015/06/3/index.json)  [XML](2015/
 
 ## [2015-06-3](/news/2015/06/3/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [The Saudi Arabia led coalition launches airstrikes on military bases near the Yemeni capital Sanaa. ](/news/2015/06/3/the-saudi-arabia-led-coalition-launches-airstrikes-on-military-bases-near-the-yemeni-capital-sanaa.md)
 Saudi-led air strikes killed a group of around 20 Houthi fighters outside the southern Yemeni port city of Aden on Wednesday and also shook the capital Sanaa in the north, militiamen opposed to the Houthis said.
 
@@ -21,7 +21,7 @@ Fighting broke out Wednesday between rebels and Ukrainian soldiers on the outski
 
 ##### filling station
 ### [At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. ](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.md)
-_Context: filling station, Accra, Ghana_
+_Context: Ghana, filling station, Accra_
 
 ##### South Korea
 ### [South Korea has successfully test fired two ballistic missiles that can hit all of North Korea. ](/news/2015/06/3/south-korea-has-successfully-test-fired-two-ballistic-missiles-that-can-hit-all-of-north-korea.md)

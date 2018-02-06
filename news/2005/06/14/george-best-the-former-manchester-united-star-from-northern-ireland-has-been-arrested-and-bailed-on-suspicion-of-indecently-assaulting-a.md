@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/06/14/george-best-the-former-manchester-united-star-f
 
 ### Changes:
 
-1. [ Football (soccer) sex crime allegations: George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/football-soccer-sex-crime-allegations-p-george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-baile.md) _2017-08-25 03:16:22 (First version)_
-2. [ Football (soccer) sex crime allegations:: George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/football-soccer-sex-crime-allegations-george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-baile.md) _2017-08-27 03:16:25 (Update)_
+1. [ Football (soccer) sex crime allegations: George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/football-soccer-sex-crime-allegations-p-george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-baile.md) _2018-02-06 13:49:16 (First version)_
+2. [ Football (soccer) sex crime allegations:: George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/football-soccer-sex-crime-allegations-george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-baile.md) _2018-02-06 13:49:16 (Update)_
 2. [ George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-bailed-on-suspicion-of-indecently-assaulting-a.md) _(Current version)_
 
 ### Related:

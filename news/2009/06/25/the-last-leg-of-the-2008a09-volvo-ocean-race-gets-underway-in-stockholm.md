@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/25/the-last-leg-of-the-2008a09-volvo-ocean-race-ge
 
 ### Changes:
 
-1. [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008-09-volvo-ocean-race-gets-underway-in-stockholm.md) _2017-08-27 03:24:49 (First version)_
+1. [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008-09-volvo-ocean-race-gets-underway-in-stockholm.md) _2018-02-06 13:49:19 (First version)_
 1. [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008a09-volvo-ocean-race-gets-underway-in-stockholm.md) _(Current version)_
 
 ### Related:

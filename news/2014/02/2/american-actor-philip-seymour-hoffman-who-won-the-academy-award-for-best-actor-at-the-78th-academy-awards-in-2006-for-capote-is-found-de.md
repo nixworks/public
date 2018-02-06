@@ -16,7 +16,7 @@ Oscar-winning actor Philip Seymour Hoffman was found dead of an apparent heroin 
 
 ### Changes:
 
-1. [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for ''Capote'', is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found.md) _2017-08-25 03:39:57 (First version)_
+1. [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for ''Capote'', is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found.md) _2018-02-06 13:49:25 (First version)_
 1. [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for "Capote", is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.md) _(Current version)_
 
 ### Related:

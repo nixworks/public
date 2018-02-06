@@ -17,8 +17,8 @@ A DEVASTATING fire ravaged a popular shopping mall that has left at least 37 peo
 
 ### Changes:
 
-1. [Thirty-seven people are missing presumed dead after a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-are-missing-presumed-dead-after-a-fire-in-the-davao-city-mall-in-the-philippines.md) _2017-12-25 00:30:06 (First version)_
-2. [Thirty-seven people, most call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-most-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _2017-12-25 20:30:06 (Update)_
+1. [Thirty-seven people, most call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-most-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _2018-02-06 13:49:31 (First version)_
+2. [Thirty-seven people are missing presumed dead after a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-are-missing-presumed-dead-after-a-fire-in-the-davao-city-mall-in-the-philippines.md) _2018-02-06 13:49:31 (Update)_
 2. [Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russ
 
 ### Changes:
 
-1. [2013-15 Ukrainian crisis:Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013a15-ukrainian-crisis-pclashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _2017-08-25 03:41:30 (First version)_
-2. [2013-15 Ukrainian crisis:: Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013-15-ukrainian-crisis-clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _2017-08-27 03:41:48 (Update)_
+1. [2013-15 Ukrainian crisis:Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013a15-ukrainian-crisis-pclashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _2018-02-06 13:49:26 (First version)_
+2. [2013-15 Ukrainian crisis:: Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013-15-ukrainian-crisis-clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _2018-02-06 13:49:26 (Update)_
 2. [Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md) _(Current version)_
 
 ### Related:

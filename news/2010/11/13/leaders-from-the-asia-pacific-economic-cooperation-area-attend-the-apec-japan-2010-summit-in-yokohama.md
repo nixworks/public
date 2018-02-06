@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/11/13/leaders-from-the-asia-pacific-economic-cooperat
 
 ### Changes:
 
-1. [APEC Japan 2010:Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/apec-japan-2010-pleaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md) _2017-08-25 03:31:00 (First version)_
-2. [APEC Japan 2010:: Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/apec-japan-2010-leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md) _2017-08-27 03:31:07 (Update)_
+1. [APEC Japan 2010:Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/apec-japan-2010-pleaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md) _2018-02-06 13:49:21 (First version)_
+2. [APEC Japan 2010:: Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/apec-japan-2010-leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md) _2018-02-06 13:49:21 (Update)_
 2. [Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md) _(Current version)_
 
 ### Related:

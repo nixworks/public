@@ -17,7 +17,7 @@ Officials are searching for the source of the Elizabethkingia anophelis bacteria
 
 ### Changes:
 
-1. [2016 United States Elizabethkingia outbreak: A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. ](/news/2016/03/18/2016-united-states-elizabethkingia-outbreak-a-rare-bacterial-infection-from-bacterium-elizabethkingia-anophelis-may-have-contributed-to-the.md) _2017-08-27 03:45:18 (First version)_
+1. [2016 United States Elizabethkingia outbreak: A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. ](/news/2016/03/18/2016-united-states-elizabethkingia-outbreak-a-rare-bacterial-infection-from-bacterium-elizabethkingia-anophelis-may-have-contributed-to-the.md) _2018-02-06 13:49:28 (First version)_
 1. [ A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. ](/news/2016/03/18/a-rare-bacterial-infection-from-bacterium-elizabethkingia-anophelis-may-have-contributed-to-the-deaths-of-17-people-since-november-2015.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/6/forensic-specialists-at-the-university-of-innsbr
 
 ### Changes:
 
-1. [2014 Iguala mass kidnapping: Forensic specialists at the University of Innsbruck confirm the identity of the first of the 43 missing students in Guerrero. The remains were located at a municipal dump in Cocula, Guerrero. ](/news/2014/12/6/2014-iguala-mass-kidnapping-forensic-specialists-at-the-university-of-innsbruck-confirm-the-identity-of-the-first-of-the-43-missing-student.md) _2017-08-27 03:41:35 (First version)_
+1. [2014 Iguala mass kidnapping: Forensic specialists at the University of Innsbruck confirm the identity of the first of the 43 missing students in Guerrero. The remains were located at a municipal dump in Cocula, Guerrero. ](/news/2014/12/6/2014-iguala-mass-kidnapping-forensic-specialists-at-the-university-of-innsbruck-confirm-the-identity-of-the-first-of-the-43-missing-student.md) _2018-02-06 13:49:26 (First version)_
 1. [Forensic specialists at the University of Innsbruck confirm the identity of the first of the 43 missing students in Guerrero. The remains were located at a municipal dump in Cocula, Guerrero. ](/news/2014/12/6/forensic-specialists-at-the-university-of-innsbruck-confirm-the-identity-of-the-first-of-the-43-missing-students-in-guerrero-the-remains-we.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Singapore&#039;s ruling party has romped to a substantial election victory and i
 
 ### Changes:
 
-1. [Singaporean general election, 2015: Singapore's elections conclude with more than 2.46 million voters casting ballots. The governing People's Action Party (PAP), wins 83 out of 89 seats. ](/news/2015/09/11/singaporean-general-election-2015-singapore-s-elections-conclude-with-more-than-2-46-million-voters-casting-ballots-the-governing-people.md) _2017-08-27 03:43:01 (First version)_
+1. [Singaporean general election, 2015: Singapore's elections conclude with more than 2.46 million voters casting ballots. The governing People's Action Party (PAP), wins 83 out of 89 seats. ](/news/2015/09/11/singaporean-general-election-2015-singapore-s-elections-conclude-with-more-than-2-46-million-voters-casting-ballots-the-governing-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Singapore's elections conclude with more than 2.46 million voters casting ballots. The governing People's Action Party (PAP), wins 83 out of 89 seats. ](/news/2015/09/11/singapore-s-elections-conclude-with-more-than-2-46-million-voters-casting-ballots-the-governing-people-s-action-party-pap-wins-83-out-of.md) _(Current version)_
 
 ### Related:

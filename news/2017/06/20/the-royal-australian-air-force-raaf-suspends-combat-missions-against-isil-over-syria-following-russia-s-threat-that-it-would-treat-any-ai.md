@@ -17,7 +17,7 @@ Move follows Moscow’s warning coalition planes west of Euphrates will be a pot
 
 ### Changes:
 
-1. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-it-would-treat-any-aircraf.md) _2017-06-21 03:51:12 (First version)_
+1. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-it-would-treat-any-aircraf.md) _2018-02-06 13:49:30 (First version)_
 1. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _(Current version)_
 
 ### Related:

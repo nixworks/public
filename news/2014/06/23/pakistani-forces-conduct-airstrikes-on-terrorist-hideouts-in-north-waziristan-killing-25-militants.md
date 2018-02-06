@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/23/pakistani-forces-conduct-airstrikes-on-terroris
 
 ### Changes:
 
-1. [War in North-West Pakistan:Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-ppakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _2017-08-25 03:40:35 (First version)_
-2. [War in North-West Pakistan:: Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _2017-08-27 03:40:53 (Update)_
+1. [War in North-West Pakistan:Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-ppakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan:: Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _2018-02-06 13:49:26 (Update)_
 2. [Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md) _(Current version)_
 
 ### Related:

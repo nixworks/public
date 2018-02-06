@@ -16,7 +16,7 @@ A rare sheet of 10 stamps showing film star Audrey Hepburn smoking fetches 430,0
 
 ### Changes:
 
-1. [Rare German stamps featuring film star Audrey Hepburn smoking fetch -430,000 at a charity auction in Berlin. ](/news/2010/10/17/rare-german-stamps-featuring-film-star-audrey-hepburn-smoking-fetch-430-000-at-a-charity-auction-in-berlin.md) _2017-08-27 03:30:40 (First version)_
+1. [Rare German stamps featuring film star Audrey Hepburn smoking fetch -430,000 at a charity auction in Berlin. ](/news/2010/10/17/rare-german-stamps-featuring-film-star-audrey-hepburn-smoking-fetch-430-000-at-a-charity-auction-in-berlin.md) _2018-02-06 13:49:20 (First version)_
 1. [Rare German stamps featuring film star Audrey Hepburn smoking fetch EUR430,000 at a charity auction in Berlin. ](/news/2010/10/17/rare-german-stamps-featuring-film-star-audrey-hepburn-smoking-fetch-a-430-000-at-a-charity-auction-in-berlin.md) _(Current version)_
 
 ### Related:

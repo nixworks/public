@@ -16,7 +16,7 @@ Head of chamber of tourist facilities in region surrounding Red Sea resort says 
 
 ### Changes:
 
-1. [Metrojet Flight 9268: Tourism bookings in Egypt-s main Red Sea resort of Sharm el-Sheikh plunge in the wake of the plane crash with some 80% of reservations cancelled and at least 40% of the tourists leaving the resort since the crash. ](/news/2015/11/11/metrojet-flight-9268-tourism-bookings-in-egypt-s-main-red-sea-resort-of-sharm-el-sheikh-plunge-in-the-wake-of-the-plane-crash-with-some-8.md) _2017-08-27 03:43:48 (First version)_
+1. [Metrojet Flight 9268: Tourism bookings in Egypt-s main Red Sea resort of Sharm el-Sheikh plunge in the wake of the plane crash with some 80% of reservations cancelled and at least 40% of the tourists leaving the resort since the crash. ](/news/2015/11/11/metrojet-flight-9268-tourism-bookings-in-egypt-s-main-red-sea-resort-of-sharm-el-sheikh-plunge-in-the-wake-of-the-plane-crash-with-some-8.md) _2018-02-06 13:49:28 (First version)_
 1. [Tourism bookings in Egypt's main Red Sea resort of Sharm el-Sheikh plunge in the wake of the plane crash with some 80% of reservations cancelled and at least 40% of the tourists leaving the resort since the crash. ](/news/2015/11/11/tourism-bookings-in-egyptas-main-red-sea-resort-of-sharm-el-sheikh-plunge-in-the-wake-of-the-plane-crash-with-some-80-of-reservations-can.md) _(Current version)_
 
 ### Related:

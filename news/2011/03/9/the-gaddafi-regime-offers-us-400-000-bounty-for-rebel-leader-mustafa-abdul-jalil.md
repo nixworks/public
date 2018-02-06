@@ -24,8 +24,8 @@ Squatters have taken over a London house thought to belong to Saif al-Islam Gadd
 
 ### Changes:
 
-1. [Libyan Civil War:The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/libyan-civil-war-pthe-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md) _2017-08-25 03:32:29 (First version)_
-2. [Libyan Civil War:: The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/libyan-civil-war-the-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md) _2017-08-27 03:32:37 (Update)_
+1. [Libyan Civil War:: The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/libyan-civil-war-the-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/libyan-civil-war-pthe-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md) _2018-02-06 13:49:22 (Update)_
 2. [The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/the-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md) _(Current version)_
 
 ### Related:

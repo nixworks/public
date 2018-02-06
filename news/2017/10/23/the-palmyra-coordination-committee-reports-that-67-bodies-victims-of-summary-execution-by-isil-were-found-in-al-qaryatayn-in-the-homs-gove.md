@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/10/23/the-palmyra-coordination-committee-reports-that
 
 ### Changes:
 
-1. [The Palmyra Coordination Committee reports that 67 bodies, many summarily killed by ISIL, were found in Al-Qaryatayn in the Homs Governorate in central Syria. ](/news/2017/10/23/the-palmyra-coordination-committee-reports-that-67-bodies-many-summarily-killed-by-isil-were-found-in-al-qaryatayn-in-the-homs-governorate.md) _2017-10-24 08:30:05 (First version)_
+1. [The Palmyra Coordination Committee reports that 67 bodies, many summarily killed by ISIL, were found in Al-Qaryatayn in the Homs Governorate in central Syria. ](/news/2017/10/23/the-palmyra-coordination-committee-reports-that-67-bodies-many-summarily-killed-by-isil-were-found-in-al-qaryatayn-in-the-homs-governorate.md) _2018-02-06 13:49:31 (First version)_
 1. [The Palmyra Coordination Committee reports that 67 bodies, victims of summary execution by ISIL, were found in Al-Qaryatayn in the Homs Governorate in central Syria. ](/news/2017/10/23/the-palmyra-coordination-committee-reports-that-67-bodies-victims-of-summary-execution-by-isil-were-found-in-al-qaryatayn-in-the-homs-gove.md) _(Current version)_
 
 ### Related:

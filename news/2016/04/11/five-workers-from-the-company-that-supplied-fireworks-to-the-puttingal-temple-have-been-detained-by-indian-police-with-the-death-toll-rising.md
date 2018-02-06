@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/11/five-workers-from-the-company-that-supplied-fir
 
 ### Changes:
 
-1. [Kollam temple fire: Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/kollam-temple-fire-five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-t.md) _2017-08-27 03:45:34 (First version)_
+1. [Kollam temple fire: Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/kollam-temple-fire-five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Chandra Bahadur Dangi, who was recorded as the world’s shortest man with a hei
 
 ### Changes:
 
-1. [The world's shortest man ever recorded, Chandra Bahadur Dangi, dies from pneumonia in an American Samoan hospital at age 75. Dangi lived with his family in Dang District, Nepal. His height, listed in the Guinness World Records, is 54.6 centimeters - 21.5 inches. ](/news/2015/09/4/the-world-s-shortest-man-ever-recorded-chandra-bahadur-dangi-dies-from-pneumonia-in-an-american-samoan-hospital-at-age-75-dangi-lived-w.md) _2017-08-25 03:42:41 (First version)_
+1. [The world's shortest man ever recorded, Chandra Bahadur Dangi, dies from pneumonia in an American Samoan hospital at age 75. Dangi lived with his family in Dang District, Nepal. His height, listed in the Guinness World Records, is 54.6 centimeters - 21.5 inches. ](/news/2015/09/4/the-world-s-shortest-man-ever-recorded-chandra-bahadur-dangi-dies-from-pneumonia-in-an-american-samoan-hospital-at-age-75-dangi-lived-w.md) _2018-02-06 13:49:27 (First version)_
 1. [The world's shortest man ever recorded, Chandra Bahadur Dangi, dies from pneumonia in an American Samoan hospital at age 75. Dangi lived with his family in Dang District, Nepal. His height, listed in the Guinness World Records, is 54.6 centimeters - 21.5 inches. ](/news/2015/09/4/the-world-s-shortest-man-ever-recorded-chandra-bahadur-dangi-dies-from-pneumonia-in-an-american-samoan-hospital-at-age-75-dangi-lived-wit.md) _(Current version)_
 
 ### Related:

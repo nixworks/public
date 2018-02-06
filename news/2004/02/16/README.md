@@ -5,7 +5,7 @@ Formats: [HTML](2004/02/16/index.html)  [JSON](2004/02/16/index.json)  [XML](200
 
 ##### temple
 ### [ Temple in Jerusalem: An 800-year-old wall holding back part of the hill jutting out from the Western Wall leading up to the Mughrabim Gate partially collapses. Authorities believe a recent earthquake may be responsible. ](/news/2004/02/16/temple-in-jerusalem-an-800-year-old-wall-holding-back-part-of-the-hill-jutting-out-from-the-western-wall-leading-up-to-the-mughrabim-gate.md)
-_Context: Western Wall, temple_
+_Context: temple, Western Wall_
 
 ##### Kashmir
 ### [ India and Pakistan begin formal peace negotiations, with Kashmir on the agenda. ](/news/2004/02/16/india-and-pakistan-begin-formal-peace-negotiations-with-kashmir-on-the-agenda.md)
@@ -21,7 +21,7 @@ _Context: Afghanistan_
 
 ##### Taiwan
 ### [ The Taiwan (ROC)'s pro-independence president, Chen Shui-bian, states that Taiwan may eventually reunify with Mainland China. Nonetheless, Chen rejects the People's Republic of China's "one country, two systems" formula which was applied to Hong Kong and Macau. This is a new step for Chen who, shortly after taking office in 2000, had said unification was just one option--comments widely seen as a push for independence for the island. ](/news/2004/02/16/the-taiwan-roc-s-pro-independence-president-chen-shui-bian-states-that-taiwan-may-eventually-reunify-with-mainland-china-nonetheless.md)
-_Context: independence, Taiwan, Chen Shui-bian, autonomy, Hong Kong, Macau, Mainland China_
+_Context: Hong Kong, Taiwan, autonomy, independence, Chen Shui-bian, Mainland China, Macau_
 
 ##### San Francisco, California
 ### [ Officials at the city and county of San Francisco, California, estimate by the end of the day that they will have issued 2,000 licenses for same-sex marriages in the four days since they started granting legal recognition to gay and lesbian unions. ](/news/2004/02/16/officials-at-the-city-and-county-of-san-francisco-california-estimate-by-the-end-of-the-day-that-they-will-have-issued-2-000-licenses-for.md)

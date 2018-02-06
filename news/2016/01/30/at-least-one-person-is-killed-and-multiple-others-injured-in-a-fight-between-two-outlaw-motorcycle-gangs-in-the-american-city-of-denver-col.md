@@ -16,7 +16,7 @@ Denver Police say two people were shot and one person was stabbed Saturday after
 
 ### Changes:
 
-1. [National Western Complex shootout: At least one person is killed and multiple others injured in a fight between two outlaw motorcycle gangs in the American city of Denver, Colorado. ](/news/2016/01/30/national-western-complex-shootout-at-least-one-person-is-killed-and-multiple-others-injured-in-a-fight-between-two-outlaw-motorcycle-gangs.md) _2017-08-27 03:44:47 (First version)_
+1. [National Western Complex shootout: At least one person is killed and multiple others injured in a fight between two outlaw motorcycle gangs in the American city of Denver, Colorado. ](/news/2016/01/30/national-western-complex-shootout-at-least-one-person-is-killed-and-multiple-others-injured-in-a-fight-between-two-outlaw-motorcycle-gangs.md) _2018-02-06 13:49:28 (First version)_
 1. [At least one person is killed and multiple others injured in a fight between two outlaw motorcycle gangs in the American city of Denver, Colorado. ](/news/2016/01/30/at-least-one-person-is-killed-and-multiple-others-injured-in-a-fight-between-two-outlaw-motorcycle-gangs-in-the-american-city-of-denver-col.md) _(Current version)_
 
 ### Related:

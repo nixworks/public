@@ -17,15 +17,15 @@ Government extends foreign land leases and allows independent agricultural busin
 
 ##### ICC
 ### [The International Criminal Court reports Kenya to the United Nations Security Council over a visit by Sudanese President Omar al-Bashir to the country. ](/news/2010/08/28/the-international-criminal-court-reports-kenya-to-the-united-nations-security-council-over-a-visit-by-sudanese-president-omar-al-bashir-to-t.md)
-_Context: Kenya, United Nations Security Council, Omar al-Bashir, Sudan, Sudanese President, ICC_
+_Context: Omar al-Bashir, United Nations Security Council, Sudan, ICC, Kenya, Sudanese President_
 
 ##### Rwanda
 ### [Rwanda threatens to limit cooperation with the United Nations after a report accused the country of war crimes in neighbouring Democratic Republic of the Congo. ](/news/2010/08/28/rwanda-threatens-to-limit-cooperation-with-the-united-nations-after-a-report-accused-the-country-of-war-crimes-in-neighbouring-democratic-re.md)
-_Context: Rwanda, DR Congo, United Nations, war crime_
+_Context: DR Congo, war crime, Rwanda, United Nations_
 
 ##### Iran
 ### [Iran says no final decision has been made on the stoning of Sakineh Mohammadi Ashtiani, who was convicted of adultery. ](/news/2010/08/28/iran-says-no-final-decision-has-been-made-on-the-stoning-of-sakineh-mohammadi-ashtiani-who-was-convicted-of-adultery.md)
-_Context: Iran, Sakineh Mohammadi Ashtiani, stoning, adultery_
+_Context: stoning, Iran, adultery, Sakineh Mohammadi Ashtiani_
 
 ##### President
 ### [Former President of Madagascar Marc Ravalomanana is sentenced "in absentia" to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of-o.md)

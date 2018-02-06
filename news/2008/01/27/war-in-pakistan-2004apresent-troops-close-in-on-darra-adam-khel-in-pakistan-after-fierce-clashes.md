@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on
 
 ### Changes:
 
-1. [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004-present-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md) _2017-08-27 03:21:36 (First version)_
+1. [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004-present-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md) _2018-02-06 13:49:18 (First version)_
 1. [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md) _(Current version)_
 
 ### Related:

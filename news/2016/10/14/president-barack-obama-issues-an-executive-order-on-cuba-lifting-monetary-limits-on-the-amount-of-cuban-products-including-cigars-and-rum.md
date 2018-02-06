@@ -18,7 +18,7 @@ In a sweeping directive, President Obama pressed forward in the face of lingerin
 
 ### Changes:
 
-1. [Cuba-United States relations: President Barack Obama issues an executive order on Cuba lifting monetary limits on the amount of Cuban products, including cigars and rum, which Americans can bring back for personal use, allowing Cubans and Americans to engage in joint medical research, and allowing Cubans to buy certain U.S. consumer goods online. ](/news/2016/10/14/cuba-united-states-relations-president-barack-obama-issues-an-executive-order-on-cuba-lifting-monetary-limits-on-the-amount-of-cuban-prod.md) _2017-08-27 03:47:02 (First version)_
+1. [Cuba-United States relations: President Barack Obama issues an executive order on Cuba lifting monetary limits on the amount of Cuban products, including cigars and rum, which Americans can bring back for personal use, allowing Cubans and Americans to engage in joint medical research, and allowing Cubans to buy certain U.S. consumer goods online. ](/news/2016/10/14/cuba-united-states-relations-president-barack-obama-issues-an-executive-order-on-cuba-lifting-monetary-limits-on-the-amount-of-cuban-prod.md) _2018-02-06 13:49:29 (First version)_
 1. [President Barack Obama issues an executive order on Cuba lifting monetary limits on the amount of Cuban products, including cigars and rum, which Americans can bring back for personal use, allowing Cubans and Americans to engage in joint medical research, and allowing Cubans to buy certain U.S. consumer goods online. ](/news/2016/10/14/president-barack-obama-issues-an-executive-order-on-cuba-lifting-monetary-limits-on-the-amount-of-cuban-products-including-cigars-and-rum.md) _(Current version)_
 
 ### Related:

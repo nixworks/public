@@ -16,9 +16,9 @@ Stunt coordinator Joel Kramer denies allegations that he molested actor during p
 
 ### Changes:
 
-1. [Albanian-American actress Eliza Dushku says that a stuntman molested her when she was twelve. ](/news/2018/01/15/albanian-american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-twelve.md) _2018-01-15 16:30:06 (First version)_
-2. [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md) _2018-01-18 00:30:05 (Update)_
-3. [American actress Eliza Dushku claims she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-claims-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md) _2018-01-22 18:30:04 (Update)_
+1. [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md) _2018-02-06 13:49:31 (First version)_
+2. [American actress Eliza Dushku claims she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-claims-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md) _2018-02-06 13:49:31 (Update)_
+3. [Albanian-American actress Eliza Dushku says that a stuntman molested her when she was twelve. ](/news/2018/01/15/albanian-american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-twelve.md) _2018-02-06 13:49:31 (Update)_
 3. [American actress Eliza Dushku says she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md) _(Current version)_
 
 ### Related:

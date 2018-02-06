@@ -15,7 +15,7 @@ Suicide car bomb kills 10 members of forces allied to UN-backed government and w
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A suicide bombing kills at least 10 security force members in the village of Abu Qurayn, west of Sirte. ](/news/2016/06/16/libyan-civil-war-2014-present-a-suicide-bombing-kills-at-least-10-security-force-members-in-the-village-of-abu-qurayn-west-of-sirte.md) _2017-08-27 03:46:16 (First version)_
+1. [Libyan Civil War (2014-present): A suicide bombing kills at least 10 security force members in the village of Abu Qurayn, west of Sirte. ](/news/2016/06/16/libyan-civil-war-2014-present-a-suicide-bombing-kills-at-least-10-security-force-members-in-the-village-of-abu-qurayn-west-of-sirte.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing kills at least 10 security force members in the village of Abu Qurayn, west of Sirte. ](/news/2016/06/16/a-suicide-bombing-kills-at-least-10-security-force-members-in-the-village-of-abu-qurayn-west-of-sirte.md) _(Current version)_
 
 ### Related:

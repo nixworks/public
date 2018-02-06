@@ -16,8 +16,8 @@ Unless carbon emissions are curtailed, climate change may expose 1.5 billion peo
 
 ### Changes:
 
-1. [Large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _2017-08-03 03:49:50 (First version)_
-2. [Effects of global warming on South Asia: New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/effects-of-global-warming-on-south-asia-new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels.md) _2017-08-27 03:48:45 (Update)_
+1. [Large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _2018-02-06 13:49:31 (First version)_
+2. [Effects of global warming on South Asia: New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/effects-of-global-warming-on-south-asia-new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels.md) _2018-02-06 13:49:31 (Update)_
 2. [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _(Current version)_
 
 ### Related:

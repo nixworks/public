@@ -9,11 +9,11 @@ Police in the Thai capital, Bangkok, use tear gas against thousands of protester
 
 ##### Czech Republic
 ### [23-year-old Czech beauty queen Tereza Fajksov wins Miss Earth 2012, the 12th edition of the Miss Earth pageant, in Alabang, Muntinlupa City, Philippines. ](/news/2012/11/24/23-year-old-czech-beauty-queen-tereza-fajksova-wins-miss-earth-2012-the-12th-edition-of-the-miss-earth-pageant-in-alabang-muntinlupa-city.md)
-_Context: Alabang, Miss Earth 2012, Miss Earth, Czech Republic, Muntinlupa City, Tereza Fajksov, Philippines_
+_Context: Muntinlupa City, Miss Earth, Alabang, Tereza Fajksov, Czech Republic, Philippines, Miss Earth 2012_
 
 ##### South Korea
 ### [The music video for South Korean pop singer Psy's "Gangnam Style" surpasses 808 million views, making it the most viewed video in the history of YouTube. ](/news/2012/11/24/the-music-video-for-south-korean-pop-singer-psy-s-gangnam-style-surpasses-808-million-views-making-it-the-most-viewed-video-in-the-histor.md)
-_Context: South Korea, Gangnam Style, YouTube, Psy_
+_Context: Gangnam Style, YouTube, South Korea, Psy_
 
 ##### austerity
 ### [Around 10,000 people demonstrate against austerity in Dublin amid calls for a general strike to shut the country down. ](/news/2012/11/24/around-10-000-people-demonstrate-against-austerity-in-dublin-amid-calls-for-a-general-strike-to-shut-the-country-down.md)
@@ -21,11 +21,11 @@ About 10,000 people attended an anti-austerity protest in Dublin on Saturday, ac
 
 ##### shopping online
 ### [Retail analysis says more Americans went out to shop (as opposed to shopping online) on Black Friday, 23 November. However, total sales decreased 1.8% from the previous Black Friday. ](/news/2012/11/24/retail-analysis-says-more-americans-went-out-to-shop-as-opposed-to-shopping-online-on-black-friday-23-november-however-total-sales-decr.md)
-_Context: Black Friday, shopping online_
+_Context: shopping online, Black Friday_
 
 ##### natural gas
 ### [A natural gas explosion in Springfield, Massachusetts levels two buildings and damages others, injuring at least 18 people. ](/news/2012/11/24/a-natural-gas-explosion-in-springfield-massachusetts-levels-two-buildings-and-damages-others-injuring-at-least-18-people.md)
-_Context: natural gas, explosion, Springfield_
+_Context: Springfield, explosion, natural gas_
 
 ##### coal mine
 ### [A coal mine accident in Guizhou province, China's southwest, kills eighteen workers and traps five more. ](/news/2012/11/24/a-coal-mine-accident-in-guizhou-province-china-s-southwest-kills-eighteen-workers-and-traps-five-more.md)
@@ -45,7 +45,7 @@ The editor of the Irish Daily Star newspaper resigns over the controversial publ
 
 ##### Ernest Bai Koroma
 ### [Ernest Bai Koroma is re-elected President of Sierra Leone in the general election, held on 17 November. ](/news/2012/11/24/ernest-bai-koroma-is-re-elected-president-of-sierra-leone-in-the-general-election-held-on-17-november.md)
-_Context: President of Sierra Leone, general election, Ernest Bai Koroma_
+_Context: Ernest Bai Koroma, President of Sierra Leone, general election_
 
 ##### Secretary of State for Education
 ### [The UK's Education Secretary, Michael Gove, and Rotherham Council announce separate investigations into the case of three children who were removed from their foster parents because the couple belongs to the UK Independence Party. ](/news/2012/11/24/the-uk-s-education-secretary-michael-gove-and-rotherham-council-announce-separate-investigations-into-the-case-of-three-children-who-were.md)

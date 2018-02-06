@@ -16,7 +16,7 @@ Queensland Premier Annastacia Palaszczuk says preparations are well under way as
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/2014-15-australian-region-cyclone-season-authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cycl.md) _2017-08-27 03:42:06 (First version)_
+1. [2014-15 Australian region cyclone season: Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/2014-15-australian-region-cyclone-season-authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cycl.md) _2018-02-06 13:49:26 (First version)_
 1. [Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cyclone-nathan-which-is-forecast-to-make-landfal.md) _(Current version)_
 
 ### Related:

@@ -17,11 +17,11 @@ The man accused of killing two police officers in a gun and grenade attack now a
 
 ##### 2013 Southern California shootings
 ### [2013 Southern California shootings: Christopher Dorner kills a sheriff's deputy and injures another in the Big Bear Lake, California, United States. He then barricades himself in a cabin, which catches on fire during a police assault. The suspect was killed in the fire. ](/news/2013/02/12/2013-southern-california-shootings-christopher-dorner-kills-a-sheriff-s-deputy-and-injures-another-in-the-big-bear-lake-california-united.md)
-_Context: 2013 Southern California shootings, Christopher Dorner, United States, California, Big Bear Lake_
+_Context: United States, Christopher Dorner, 2013 Southern California shootings, California, Big Bear Lake_
 
 ##### stabbed
 ### [Three people are dead and 11 are wounded in a stabbing attack on the U.S. territory island of Guam. ](/news/2013/02/12/three-people-are-dead-and-11-are-wounded-in-a-stabbing-attack-on-the-u-s-territory-island-of-guam.md)
-_Context: stabbed, U.S. territory, Guam_
+_Context: U.S. territory, stabbed, Guam_
 
 ##### Midvale
 ### [Three people are killed in a drug-related shooting in a house in Midvale, Utah, United States. ](/news/2013/02/12/three-people-are-killed-in-a-drug-related-shooting-in-a-house-in-midvale-utah-united-states.md)
@@ -33,7 +33,7 @@ _Context: 10 Downing Street, Britain's Court of Appeal_
 
 ##### Sattam bin Abdulaziz Al Saud
 ### [Prince Sattam bin Abdulaziz Al Saud, a member of the House of Saud and the governor of the Riyadh Province, dies at the age of 72 in Riyadh. ](/news/2013/02/12/prince-sattam-bin-abdulaziz-al-saud-a-member-of-the-house-of-saud-and-the-governor-of-the-riyadh-province-dies-at-the-age-of-72-in-riyadh.md)
-_Context: Sattam bin Abdulaziz Al Saud, Riyadh, Saudi Royal Family, Riyadh Province_
+_Context: Sattam bin Abdulaziz Al Saud, Saudi Royal Family, Riyadh Province, Riyadh_
 
 ## [Previous Day...](/news/2013/02/11/index.md)
 

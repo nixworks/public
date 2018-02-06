@@ -15,8 +15,8 @@ The move comes in retaliation for U.S. actions against the RT news network.
 
 ### Changes:
 
-1. [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. This is in retaliation to the U.S. Justice Department requiring Russia Today to register as a foreign agent. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents-this-is-in-retaliation-to.md) _2017-12-06 08:30:05 (First version)_
-2. [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents.md) _2017-12-11 16:30:04 (Update)_
+1. [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents.md) _2018-02-06 13:49:31 (First version)_
+2. [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. This is in retaliation to the U.S. Justice Department requiring Russia Today to register as a foreign agent. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents-this-is-in-retaliation-to.md) _2018-02-06 13:49:31 (Update)_
 2. [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. The move comes after the United States government ordered the Russian government-funded television network RT America to register as a foreign agent. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents-the-move-comes-after-the-u.md) _(Current version)_
 
 ### Related:

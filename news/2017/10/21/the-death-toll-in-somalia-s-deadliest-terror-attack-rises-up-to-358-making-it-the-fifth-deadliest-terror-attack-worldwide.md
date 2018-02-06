@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-at
 
 ### Changes:
 
-1. [The death toll in Somalia's deadliest terror attack rises up to 358, making it the sixth deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-sixth-deadliest-terror-attack-worldwide.md) _2017-10-21 12:30:05 (First version)_
+1. [The death toll in Somalia's deadliest terror attack rises up to 358, making it the sixth deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-sixth-deadliest-terror-attack-worldwide.md) _2018-02-06 13:49:31 (First version)_
 1. [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md) _(Current version)_
 
 ### Related:

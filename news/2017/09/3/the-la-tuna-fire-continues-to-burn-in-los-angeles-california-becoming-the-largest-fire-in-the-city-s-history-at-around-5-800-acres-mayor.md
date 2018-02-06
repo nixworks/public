@@ -17,7 +17,7 @@ The La Tuna fire, one of the largest wildfires in Los Angeles&apos; history, bur
 
 ### Changes:
 
-1. [The La Tuna Canyon fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history. Los Angeles Mayor Eric Garcetti declares a state of emergency for the city. ](/news/2017/09/3/the-la-tuna-canyon-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-los-angeles-mayor-eri.md) _2017-09-03 16:30:05 (First version)_
+1. [The La Tuna Canyon fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history. Los Angeles Mayor Eric Garcetti declares a state of emergency for the city. ](/news/2017/09/3/the-la-tuna-canyon-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-los-angeles-mayor-eri.md) _2018-02-06 13:49:31 (First version)_
 1. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Mexican security forces say they have arrested the drug lord known as &#034;Ugly
 
 ### Changes:
 
-1. [Mexican Drug War: Mexican forces arrest Alberto Carrillo Fuentes, the alleged leader of the Juarez Cartel. ](/news/2013/09/2/mexican-drug-war-mexican-forces-arrest-alberto-carrillo-fuentes-the-alleged-leader-of-the-jua-rez-cartel.md) _2017-08-27 03:39:30 (First version)_
+1. [Mexican Drug War: Mexican forces arrest Alberto Carrillo Fuentes, the alleged leader of the Juarez Cartel. ](/news/2013/09/2/mexican-drug-war-mexican-forces-arrest-alberto-carrillo-fuentes-the-alleged-leader-of-the-jua-rez-cartel.md) _2018-02-06 13:49:25 (First version)_
 1. [Mexican forces arrest Alberto Carrillo Fuentes, the alleged leader of the Juarez Cartel. ](/news/2013/09/2/mexican-forces-arrest-alberto-carrillo-fuentes-the-alleged-leader-of-the-jua-rez-cartel.md) _(Current version)_
 
 ### Related:

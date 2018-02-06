@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2015 Canadian Wildfires: Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/2015-canadian-wildfires-wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _2017-08-27 03:42:41 (First version)_
+1. [2015 Canadian Wildfires: Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/2015-canadian-wildfires-wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _2018-02-06 13:49:27 (First version)_
 1. [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _(Current version)_
 
 ### Related:

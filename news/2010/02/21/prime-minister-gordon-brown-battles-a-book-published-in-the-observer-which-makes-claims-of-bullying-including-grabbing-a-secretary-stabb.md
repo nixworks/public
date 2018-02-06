@@ -19,7 +19,7 @@ A number of Downing Street staff have called an anti-bullying hotline, according
 
 ### Changes:
 
-1. [Prime Minister Gordon Brown battles a book published in ''The Observer'' which makes claims of bullying, including grabbing a secretary, stabbing with a pen and shouting expletives as members of his own staff contact the National Bullying Helpline to express their "concerns". ](/news/2010/02/21/prime-minister-gordon-brown-battles-a-book-published-in-the-observer-which-makes-claims-of-bullying-including-grabbing-a-secretary-sta.md) _2017-08-25 03:27:12 (First version)_
+1. [Prime Minister Gordon Brown battles a book published in ''The Observer'' which makes claims of bullying, including grabbing a secretary, stabbing with a pen and shouting expletives as members of his own staff contact the National Bullying Helpline to express their "concerns". ](/news/2010/02/21/prime-minister-gordon-brown-battles-a-book-published-in-the-observer-which-makes-claims-of-bullying-including-grabbing-a-secretary-sta.md) _2018-02-06 13:49:19 (First version)_
 1. [Prime Minister Gordon Brown battles a book published in "The Observer" which makes claims of bullying, including grabbing a secretary, stabbing with a pen and shouting expletives as members of his own staff contact the National Bullying Helpline to express their "concerns". ](/news/2010/02/21/prime-minister-gordon-brown-battles-a-book-published-in-the-observer-which-makes-claims-of-bullying-including-grabbing-a-secretary-stabb.md) _(Current version)_
 
 ### Related:

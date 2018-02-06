@@ -17,8 +17,8 @@ Formats: [HTML](/news/2015/04/28/niger-states-that-46-of-its-soldiers-and-156-bo
 
 ### Changes:
 
-1. [2015 West African offensive:Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/2015-west-african-offensive-pniger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on.md) _2017-08-25 03:41:56 (First version)_
-2. [2015 West African offensive:: Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/2015-west-african-offensive-niger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on.md) _2017-08-27 03:42:15 (Update)_
+1. [2015 West African offensive:Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/2015-west-african-offensive-pniger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on.md) _2018-02-06 13:49:27 (First version)_
+2. [2015 West African offensive:: Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/2015-west-african-offensive-niger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on.md) _2018-02-06 13:49:27 (Update)_
 2. [Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/niger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on-lake-chad-at-least-28-civili.md) _(Current version)_
 
 ### Related:

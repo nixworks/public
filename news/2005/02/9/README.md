@@ -5,7 +5,7 @@ Formats: [HTML](2005/02/9/index.html)  [JSON](2005/02/9/index.json)  [XML](2005/
 
 ##### War on Terror
 ### [ War on Terror: Democrat Jane Harman, the ranking member of the U.S. House Permanent Select Committee on Intelligence, announces she is planning to introduce a bill to ban torture by U.S. interrogators and bar transfers of detainees to countries that engage in torture. ](/news/2005/02/9/war-on-terror-democrat-jane-harman-the-ranking-member-of-the-u-s-house-permanent-select-committee-on-intelligence-announces-she-is-plan.md)
-_Context: torture, U.S. House Permanent Select Committee on Intelligence, Jane Harman, Democrat, ranking member, War on Terror_
+_Context: Democrat, Jane Harman, U.S. House Permanent Select Committee on Intelligence, War on Terror, torture, ranking member_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A suicide bomber kills at least 21 people outside a police recruiting center in Baghdad. In a separate incident also in Baghdad, three policemen die from a firefight in the notoriously dangerous neighborhood of Ghazaliyah. ](/news/2005/02/9/conflict-in-iraq-a-suicide-bomber-kills-at-least-21-people-outside-a-police-recruiting-center-in-baghdad-in-a-separate-incident-also-in-b.md)
@@ -33,7 +33,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Canadian
 ### [ In Canada, former prime minister Jean Chrtien defends his government's actions in an inquiry into the misuse of government advertising and sponsorship funds. ](/news/2005/02/9/in-canada-former-prime-minister-jean-chretien-defends-his-government-s-actions-in-an-inquiry-into-the-misuse-of-government-advertising-and.md)
-_Context: Canadian, Prime Minister of Canada, Jean Chrtien_
+_Context: Jean Chrtien, Prime Minister of Canada, Canadian_
 
 ##### French parliament
 ### [ Parliament of France votes in favor of relaxing the 35-hour work week rules. ](/news/2005/02/9/parliament-of-france-votes-in-favor-of-relaxing-the-35-hour-work-week-rules.md)

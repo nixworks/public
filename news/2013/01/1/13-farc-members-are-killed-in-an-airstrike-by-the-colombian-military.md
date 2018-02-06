@@ -16,8 +16,8 @@ The Colombian Air Force says it has killed 13 Farc rebels in an attack on a camp
 
 ### Changes:
 
-1. [Colombian conflict:13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/colombian-conflict-p13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md) _2017-08-25 03:37:10 (First version)_
-2. [Colombian conflict:: 13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/colombian-conflict-13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md) _2017-08-27 03:37:20 (Update)_
+1. [Colombian conflict:13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/colombian-conflict-p13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md) _2018-02-06 13:49:24 (First version)_
+2. [Colombian conflict:: 13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/colombian-conflict-13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md) _2018-02-06 13:49:24 (Update)_
 2. [13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md) _(Current version)_
 
 ### Related:

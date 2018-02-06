@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/7/sittings-of-the-council-of-representatives-of-ir
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/iraqi-insurgency-post-u-s-withdrawal-sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of.md) _2017-08-27 03:40:56 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/iraqi-insurgency-post-u-s-withdrawal-sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of.md) _2018-02-06 13:49:26 (First version)_
 1. [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md) _(Current version)_
 
 ### Related:

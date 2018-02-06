@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/14/an-australian-court-orders-british-consumer-goo
 
 ### Changes:
 
-1. [An Australian court orders British consumer goods company Reckitt Benckiser to stop selling several versions of the popular painkiller, Nurofen, that were identical to its standard ibuprofen pills but nearly twice as expensive. ](/news/2015/12/14/an-australian-court-orders-british-consumer-goods-company-reckitt-benckiser-to-stop-selling-several-versions-of-the-popular-painkiller-nur.md) _2017-08-25 03:44:00 (First version)_
+1. [An Australian court orders British consumer goods company Reckitt Benckiser to stop selling several versions of the popular painkiller, Nurofen, that were identical to its standard ibuprofen pills but nearly twice as expensive. ](/news/2015/12/14/an-australian-court-orders-british-consumer-goods-company-reckitt-benckiser-to-stop-selling-several-versions-of-the-popular-painkiller-nur.md) _2018-02-06 13:49:28 (First version)_
 1. [An Australian court orders British consumer goods company Reckitt Benckiser to stop selling several versions of the popular painkiller, Nurofen, that were identical to its standard ibuprofen pills but nearly twice as expensive. ](/news/2015/12/14/an-australian-court-orders-british-consumer-goods-company-reckitt-benckiser-to-stop-selling-several-versions-of-the-popular-painkiller-nuro.md) _(Current version)_
 
 ### Related:

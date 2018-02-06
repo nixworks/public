@@ -22,8 +22,8 @@ Four men have been arrested for the murder of an Al Jazeera journalist, and rebe
 
 ### Changes:
 
-1. [Arab Spring:The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/arab-spring-pthe-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md) _2017-08-25 03:32:33 (First version)_
-2. [Arab Spring:: The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/arab-spring-the-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md) _2017-08-27 03:32:41 (Update)_
+1. [Arab Spring:: The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/arab-spring-the-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/arab-spring-pthe-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md) _(Current version)_
 
 ### Related:

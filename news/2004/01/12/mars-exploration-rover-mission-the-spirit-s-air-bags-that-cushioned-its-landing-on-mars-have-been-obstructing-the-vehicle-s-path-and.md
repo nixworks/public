@@ -11,7 +11,7 @@ Formats: [HTML](/news/2004/01/12/mars-exploration-rover-mission-the-spirit-s-air
 
 ### Changes:
 
-1. [ Mars Exploration Rover Mission: The "Spirit" ' s air bags that cushioned its landing on Mars have been obstructing the vehicle's path, and this complication has postponed its exit of the launch vehicle until Wednesday or Thursday.](/news/2004/01/12/mars-exploration-rover-mission-the-spirit-s-air-bags-that-cushioned-its-landing-on-mars-have-been-obstructing-the-vehicle-s-path-and-th.md) _2017-10-02 03:16:16 (First version)_
+1. [ Mars Exploration Rover Mission: The "Spirit" ' s air bags that cushioned its landing on Mars have been obstructing the vehicle's path, and this complication has postponed its exit of the launch vehicle until Wednesday or Thursday.](/news/2004/01/12/mars-exploration-rover-mission-the-spirit-s-air-bags-that-cushioned-its-landing-on-mars-have-been-obstructing-the-vehicle-s-path-and-th.md) _2018-02-06 13:49:15 (First version)_
 1. [ Mars Exploration Rover Mission: The "Spirit" ' s air bags that cushioned its landing on Mars have been obstructing the vehicle's path, and this complication has postponed its exit of the launch vehicle until Wednesday or Thursday.](/news/2004/01/12/mars-exploration-rover-mission-the-spirit-s-air-bags-that-cushioned-its-landing-on-mars-have-been-obstructing-the-vehicle-s-path-and.md) _(Current version)_
 
 ### Related:

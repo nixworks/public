@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/22/a-man-is-charged-in-australia-for-allegedly-com
 
 ### Changes:
 
-1. [Claremont murders: A man is charged in Australia for allegedly committing the 20-year old crimes. ](/news/2016/12/22/claremont-murders-a-man-is-charged-in-australia-for-allegedly-committing-the-20-year-old-crimes.md) _2017-08-27 03:47:30 (First version)_
+1. [Claremont murders: A man is charged in Australia for allegedly committing the 20-year old crimes. ](/news/2016/12/22/claremont-murders-a-man-is-charged-in-australia-for-allegedly-committing-the-20-year-old-crimes.md) _2018-02-06 13:49:30 (First version)_
 1. [A man is charged in Australia for allegedly committing the 20-year old crimes. ](/news/2016/12/22/a-man-is-charged-in-australia-for-allegedly-committing-the-20-year-old-crimes.md) _(Current version)_
 
 ### Related:

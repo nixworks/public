@@ -29,7 +29,7 @@ A 40-foot sinkhole developed inside the National Corvette Museum overnight in Bo
 
 ##### French President
 ### [French President Franois Hollande is hosted by US President Barack Obama at a White House state dinner, during a visit by Hollande to the US aimed at renewing the partnership between the two countries. ](/news/2014/02/12/french-president-francois-hollande-is-hosted-by-us-president-barack-obama-at-a-white-house-state-dinner-during-a-visit-by-hollande-to-the-u.md)
-_Context: renewing the partnership, Franois Hollande, US President, White House state dinner, French President, Barack Obama_
+_Context: White House state dinner, Franois Hollande, French President, Barack Obama, renewing the partnership, US President_
 
 ##### Garbage
 ### [Garbage from Canada is discovered to be being dumped in the Philippines. ](/news/2014/02/12/garbage-from-canada-is-discovered-to-be-being-dumped-in-the-philippines.md)
@@ -37,7 +37,7 @@ _Context: dumped, Garbage_
 
 ##### $
 ### [The Philippines recovers US $29 million from Ferdinand Marcos' bank accounts in Switzerland and Singapore. ](/news/2014/02/12/the-philippines-recovers-us-29-million-from-ferdinand-marcos-bank-accounts-in-switzerland-and-singapore.md)
-_Context: $, Ferdinand Marcos, Singapore, Switzerland_
+_Context: Ferdinand Marcos, $, Singapore, Switzerland_
 
 ##### Conservative Party
 ### [The BBC is told that the UK's three main political parties, the Conservatives, Labour and the Liberal Democrats, will declare that whoever forms the government after the next general election will not agree to a currency union with an independent Scotland. ](/news/2014/02/12/the-bbc-is-told-that-the-uk-s-three-main-political-parties-the-conservatives-labour-and-the-liberal-democrats-will-declare-that-whoever-f.md)

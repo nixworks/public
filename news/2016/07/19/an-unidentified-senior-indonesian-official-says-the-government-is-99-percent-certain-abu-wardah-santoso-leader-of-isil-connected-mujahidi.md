@@ -16,7 +16,7 @@ Indonesia is &quot;99 percent&quot; sure its most-wanted militant, a supporter o
 
 ### Changes:
 
-1. [An unidentified senior Indonesian official says the government is "99 percent" certain Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, was killed in Monday's clash with security forces on Sulawesi island. ](/news/2016/07/19/an-unidentified-senior-indonesian-official-says-the-government-is-99-percent-certain-abu-wardah-santoso-leader-of-isil-connected-mujah.md) _2017-08-25 03:46:08 (First version)_
+1. [An unidentified senior Indonesian official says the government is "99 percent" certain Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, was killed in Monday's clash with security forces on Sulawesi island. ](/news/2016/07/19/an-unidentified-senior-indonesian-official-says-the-government-is-99-percent-certain-abu-wardah-santoso-leader-of-isil-connected-mujah.md) _2018-02-06 13:49:29 (First version)_
 1. [An unidentified senior Indonesian official says the government is "99 percent" certain Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, was killed in Monday's clash with security forces on Sulawesi island. ](/news/2016/07/19/an-unidentified-senior-indonesian-official-says-the-government-is-99-percent-certain-abu-wardah-santoso-leader-of-isil-connected-mujahidi.md) _(Current version)_
 
 ### Related:

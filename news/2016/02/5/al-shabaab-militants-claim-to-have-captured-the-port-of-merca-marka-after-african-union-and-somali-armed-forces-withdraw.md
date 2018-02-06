@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-
 
 ### Changes:
 
-1. [War in Somalia: al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/war-in-somalia-al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md) _2017-08-27 03:44:50 (First version)_
+1. [War in Somalia: al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/war-in-somalia-al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md) _2018-02-06 13:49:28 (First version)_
 1. [al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Anti-government demonstrations in Thailand continue into a third day, with prote
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/2013a14-thai-political-crisis-pthai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md) _2017-08-25 03:39:52 (First version)_
-2. [2013-14 Thai political crisis:: Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/2013-14-thai-political-crisis-thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md) _2017-08-27 03:40:10 (Update)_
+1. [2013-14 Thai political crisis:Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/2013a14-thai-political-crisis-pthai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/2013-14-thai-political-crisis-thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md) _2018-02-06 13:49:25 (Update)_
 2. [Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md) _(Current version)_
 
 ### Related:

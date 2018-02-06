@@ -16,7 +16,7 @@ The United States has lifted a ban on laptops in cabins on flights from Abu Dhab
 
 ### Changes:
 
-1. [2017 electronics ban: The United States lifts its ban on electronics in the cabin of flights from Abu Dhabi to the U.S. ](/news/2017/07/2/2017-electronics-ban-the-united-states-lifts-its-ban-on-electronics-in-the-cabin-of-flights-from-abu-dhabi-to-the-u-s.md) _2017-08-27 03:48:36 (First version)_
+1. [2017 electronics ban: The United States lifts its ban on electronics in the cabin of flights from Abu Dhabi to the U.S. ](/news/2017/07/2/2017-electronics-ban-the-united-states-lifts-its-ban-on-electronics-in-the-cabin-of-flights-from-abu-dhabi-to-the-u-s.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States lifts its ban on electronics in the cabin of flights from Abu Dhabi to the U.S. ](/news/2017/07/2/the-united-states-lifts-its-ban-on-electronics-in-the-cabin-of-flights-from-abu-dhabi-to-the-u-s.md) _(Current version)_
 
 ### Related:

@@ -17,11 +17,11 @@ Macedonia said on Tuesday 40 armed men in camouflage uniforms and speaking Alban
 
 ##### Pope Francis
 ### [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-cityasaint-joseph-for-failing-to-rep.md)
-_Context: bishop, Pope Francis, Robert Finn, Roman Catholic Diocese of Kansas City-Saint Joseph_
+_Context: Pope Francis, bishop, Roman Catholic Diocese of Kansas City-Saint Joseph, Robert Finn_
 
 ##### Teva Pharmaceutical
 ### [Israeli generics giant Teva Pharmaceutical offers $4 billion to acquire US rival Mylan. ](/news/2015/04/21/israeli-generics-giant-teva-pharmaceutical-offers-4-billion-to-acquire-us-rival-mylan.md)
-_Context: Teva Pharmaceutical, Mylan_
+_Context: Mylan, Teva Pharmaceutical_
 
 ##### Australian east coast low
 ### [Three people have died in floods in the Australian town of Dungog, New South Wales as heavy rains and cyclonic winds hits the state of New South Wales causing widespread flooding, loss of power to over 100,000 homes and disruption of transport services. ](/news/2015/04/21/three-people-have-died-in-floods-in-the-australian-town-of-dungog-new-south-wales-as-heavy-rains-and-cyclonic-winds-hits-the-state-of-new-s.md)
@@ -29,19 +29,19 @@ Three people are killed in wild weather in NSW&#039;s Central Hunter region, whe
 
 ##### AC/DC
 ### [Former AC-DC drummer Phil Rudd pleads guilty to threatening to kill and drug possession charges in Tauranga, New Zealand. ](/news/2015/04/21/former-ac-dc-drummer-phil-rudd-pleads-guilty-to-threatening-to-kill-and-drug-possession-charges-in-tauranga-new-zealand.md)
-_Context: Phil Rudd, AC/DC, Tauranga, New Zealand_
+_Context: New Zealand, Phil Rudd, Tauranga, AC/DC_
 
 ##### April 2015 Mediterranean Sea migrant shipwrecks
 ### [Italian police arrest the captain and crew member of a vessel that sank in the Mediterranean Sea on Sunday drowning as many as 900 people. ](/news/2015/04/21/italian-police-arrest-the-captain-and-crew-member-of-a-vessel-that-sank-in-the-mediterranean-sea-on-sunday-drowning-as-many-as-900-people.md)
-_Context: Italian, April 2015 Mediterranean Sea migrant shipwrecks, Mediterranean Sea_
+_Context: April 2015 Mediterranean Sea migrant shipwrecks, Italian, Mediterranean Sea_
 
 ##### American
 ### [An American man Tommy Schaefer is sentenced to 18 years imprisonment in Bali for the murder of his mother-in-law Sheila von Wiese Mack last year. ](/news/2015/04/21/an-american-man-tommy-schaefer-is-sentenced-to-18-years-imprisonment-in-bali-for-the-murder-of-his-mother-in-law-sheila-von-wiese-mack-last.md)
-_Context: Bali, American_
+_Context: American, Bali_
 
 ##### Egypt
 ### [An Egyptian court sentences former President Mohammed Morsi to twenty years imprisonment for involvement in the killing of protesters when he was in power. ](/news/2015/04/21/an-egyptian-court-sentences-former-president-mohammed-morsi-to-twenty-years-imprisonment-for-involvement-in-the-killing-of-protesters-when-h.md)
-_Context: President, Egypt, Mohammed Morsi_
+_Context: President, Mohammed Morsi, Egypt_
 
 ##### U.S. Justice Department
 ### [The U.S. Justice Department has charged Navinder Singh Sarao with commodities fraud and related offenses, alleging that he played a part in the flash crash of May 2010. ](/news/2015/04/21/the-u-s-justice-department-has-charged-navinder-singh-sarao-with-commodities-fraud-and-related-offenses-alleging-that-he-played-a-part-in.md)
@@ -49,11 +49,11 @@ A high-frequency trader was arrested in London over his alleged role in the May 
 
 ##### Death of Freddie Gray
 ### [The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-custody-in-the-city-of-ba.md)
-_Context: Death of Freddie Gray, Baltimore, Department of Justice_
+_Context: Department of Justice, Baltimore, Death of Freddie Gray_
 
 ##### Michele Leonhart
 ### [Michele Leonhart announces her retirement as the Administrator of the United States Drug Enforcement Administration with concerns raised about her leadership following a prostitution scandal involving Agency officers having sex with prostitutes provided by drug cartels. ](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.md)
-_Context: Drug Enforcement Administration, drug cartel, Michele Leonhart_
+_Context: Drug Enforcement Administration, Michele Leonhart, drug cartel_
 
 ## [Previous Day...](/news/2015/04/20/index.md)
 

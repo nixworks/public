@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-lea
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/al-qaeda-insurgency-in-yemen-clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-we.md) _2017-08-27 03:41:27 (First version)_
+1. [al-Qaeda insurgency in Yemen: Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/al-qaeda-insurgency-in-yemen-clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-we.md) _2018-02-06 13:49:26 (First version)_
 1. [Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-western-yemen.md) _(Current version)_
 
 ### Related:

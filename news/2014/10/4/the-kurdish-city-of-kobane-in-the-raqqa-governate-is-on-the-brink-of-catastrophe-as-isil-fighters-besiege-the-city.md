@@ -16,7 +16,7 @@ Turkey orders troops to border but refuses to intervene to repel brutal jihadist
 
 ### Changes:
 
-1. [Syrian civil war: The Kurdish city of Kobane in the Raqqa governate is on the brink of catastrophe as ISIL fighters besiege the city. ](/news/2014/10/4/syrian-civil-war-the-kurdish-city-of-kobane-in-the-raqqa-governate-is-on-the-brink-of-catastrophe-as-isil-fighters-besiege-the-city.md) _2017-08-27 03:41:21 (First version)_
+1. [Syrian civil war: The Kurdish city of Kobane in the Raqqa governate is on the brink of catastrophe as ISIL fighters besiege the city. ](/news/2014/10/4/syrian-civil-war-the-kurdish-city-of-kobane-in-the-raqqa-governate-is-on-the-brink-of-catastrophe-as-isil-fighters-besiege-the-city.md) _2018-02-06 13:49:26 (First version)_
 1. [The Kurdish city of Kobane in the Raqqa governate is on the brink of catastrophe as ISIL fighters besiege the city. ](/news/2014/10/4/the-kurdish-city-of-kobane-in-the-raqqa-governate-is-on-the-brink-of-catastrophe-as-isil-fighters-besiege-the-city.md) _(Current version)_
 
 ### Related:

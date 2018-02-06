@@ -17,7 +17,7 @@ The Greek coastguard rescued 242 migrants when their wooden boat sank north of t
 
 ### Changes:
 
-1. [European migrant crisis: The Greek coastguard says they rescued 242 migrants whose wooden boat sank north of the island of Lesbos, but at least three drowned, including two small boys. ](/news/2015/10/28/european-migrant-crisis-the-greek-coastguard-says-they-rescued-242-migrants-whose-wooden-boat-sank-north-of-the-island-of-lesbos-but-at-le.md) _2017-08-27 03:43:34 (First version)_
+1. [European migrant crisis: The Greek coastguard says they rescued 242 migrants whose wooden boat sank north of the island of Lesbos, but at least three drowned, including two small boys. ](/news/2015/10/28/european-migrant-crisis-the-greek-coastguard-says-they-rescued-242-migrants-whose-wooden-boat-sank-north-of-the-island-of-lesbos-but-at-le.md) _2018-02-06 13:49:28 (First version)_
 1. [The Greek coastguard says they rescued 242 migrants whose wooden boat sank north of the island of Lesbos, but at least three drowned, including two small boys. ](/news/2015/10/28/the-greek-coastguard-says-they-rescued-242-migrants-whose-wooden-boat-sank-north-of-the-island-of-lesbos-but-at-least-three-drowned-includ.md) _(Current version)_
 
 ### Related:

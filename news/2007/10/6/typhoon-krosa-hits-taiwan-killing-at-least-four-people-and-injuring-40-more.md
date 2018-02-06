@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/10/6/typhoon-krosa-hits-taiwan-killing-at-least-four-
 
 ### Changes:
 
-1. [ 2007 Pacific typhoon season: Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/2007-pacific-typhoon-season-p-typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md) _2017-08-25 03:21:07 (First version)_
-2. [ 2007 Pacific typhoon season:: Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/2007-pacific-typhoon-season-typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md) _2017-08-27 03:21:03 (Update)_
+1. [ 2007 Pacific typhoon season:: Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/2007-pacific-typhoon-season-typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pacific typhoon season: Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/2007-pacific-typhoon-season-p-typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md) _2018-02-06 13:49:18 (Update)_
 2. [ Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md) _(Current version)_
 
 ### Related:

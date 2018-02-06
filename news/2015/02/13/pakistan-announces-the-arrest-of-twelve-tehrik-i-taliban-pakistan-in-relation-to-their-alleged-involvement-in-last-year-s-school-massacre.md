@@ -17,8 +17,8 @@ At least 12 Taliban fighters held for their alleged involvement in attack that k
 
 ### Changes:
 
-1. [War in North-West Pakistan Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-ppakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md) _2017-05-25 03:43:34 (First version)_
-2. [War in North-West Pakistan: Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md) _2017-08-27 03:41:55 (Update)_
+1. [War in North-West Pakistan Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-ppakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md) _2018-02-06 13:49:26 (First version)_
+2. [War in North-West Pakistan: Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md) _2018-02-06 13:49:26 (Update)_
 2. [Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-last-year-s-school-massacre.md) _(Current version)_
 
 ### Related:

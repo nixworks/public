@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-
 
 ### Changes:
 
-1. [Taliban insurgency:A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-pa-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provinc.md) _2017-08-25 03:37:50 (First version)_
-2. [Taliban insurgency:: A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provin.md) _2017-08-27 03:38:01 (Update)_
+1. [Taliban insurgency:A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-pa-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provinc.md) _2018-02-06 13:49:24 (First version)_
+2. [Taliban insurgency:: A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provin.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md) _(Current version)_
 
 ### Related:

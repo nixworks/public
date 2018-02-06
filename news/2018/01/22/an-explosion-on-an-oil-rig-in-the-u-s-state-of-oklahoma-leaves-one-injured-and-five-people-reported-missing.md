@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-
 
 ### Changes:
 
-1. [An explosion on an oil rig in the U.S. state of Oklahoma leaves five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-five-people-reported-missing.md) _2018-01-23 00:30:07 (First version)_
+1. [An explosion on an oil rig in the U.S. state of Oklahoma leaves five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-five-people-reported-missing.md) _2018-02-06 13:49:31 (First version)_
 1. [An explosion on an oil rig in the U.S. state of Oklahoma leaves one injured and five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-one-injured-and-five-people-reported-missing.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Staff at cement plant near town of Dumayr abducted by ISIL fighters and moved to
 
 ### Changes:
 
-1. [Syrian Civil War: According to Syrian state television, ISIL militants kidnapped over 300 staff members from a cement factory outside of the city of Al-Dumayr earlier this week and no contact with them has been made since. ](/news/2016/04/7/syrian-civil-war-according-to-syrian-state-television-isil-militants-kidnapped-over-300-staff-members-from-a-cement-factory-outside-of-the.md) _2017-08-27 03:45:31 (First version)_
+1. [Syrian Civil War: According to Syrian state television, ISIL militants kidnapped over 300 staff members from a cement factory outside of the city of Al-Dumayr earlier this week and no contact with them has been made since. ](/news/2016/04/7/syrian-civil-war-according-to-syrian-state-television-isil-militants-kidnapped-over-300-staff-members-from-a-cement-factory-outside-of-the.md) _2018-02-06 13:49:29 (First version)_
 1. [According to Syrian state television, ISIL militants kidnapped over 300 staff members from a cement factory outside of the city of Al-Dumayr earlier this week and no contact with them has been made since. ](/news/2016/04/7/according-to-syrian-state-television-isil-militants-kidnapped-over-300-staff-members-from-a-cement-factory-outside-of-the-city-of-al-dumayr.md) _(Current version)_
 
 ### Related:

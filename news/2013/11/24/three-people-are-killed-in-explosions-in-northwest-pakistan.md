@@ -16,6 +16,6 @@ At least three persons, including two school students, were killed in two back-t
 
 ### Changes:
 
-1. [War in North-West Pakistan:Three people are killed in explosions in northwest Pakistan. ](/news/2013/11/24/war-in-north-west-pakistan-pthree-people-are-killed-in-explosions-in-northwest-pakistan.md) _2017-08-25 03:39:35 (First version)_
-2. [War in North-West Pakistan:: Three people are killed in explosions in northwest Pakistan. ](/news/2013/11/24/war-in-north-west-pakistan-three-people-are-killed-in-explosions-in-northwest-pakistan.md) _2017-08-27 03:39:53 (Update)_
+1. [War in North-West Pakistan:: Three people are killed in explosions in northwest Pakistan. ](/news/2013/11/24/war-in-north-west-pakistan-three-people-are-killed-in-explosions-in-northwest-pakistan.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:Three people are killed in explosions in northwest Pakistan. ](/news/2013/11/24/war-in-north-west-pakistan-pthree-people-are-killed-in-explosions-in-northwest-pakistan.md) _2018-02-06 13:49:25 (Update)_
 2. [Three people are killed in explosions in northwest Pakistan. ](/news/2013/11/24/three-people-are-killed-in-explosions-in-northwest-pakistan.md) _(Current version)_

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-ga
 
 ### Changes:
 
-1. [Israeli-Palestinian Conflict: The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/israeli-palestinian-conflict-the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinia.md) _2017-08-27 03:40:15 (First version)_
+1. [Israeli-Palestinian Conflict: The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/israeli-palestinian-conflict-the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinia.md) _2018-02-06 13:49:25 (First version)_
 1. [The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinian-territory.md) _(Current version)_
 
 ### Related:

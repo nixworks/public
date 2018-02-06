@@ -19,7 +19,7 @@ The death toll from the central Italy earthquake reaches 250, amid fears many mo
 
 ### Changes:
 
-1. [2016 Central Italy earthquake: The search continues for survivors in central Italy with the death toll now 241. An aftershock of 4.7 MMS hits further east in the province near Norcia. ](/news/2016/08/25/2016-central-italy-earthquake-the-search-continues-for-survivors-in-central-italy-with-the-death-toll-now-241-an-aftershock-of-4-7-mms-hit.md) _2017-08-27 03:46:43 (First version)_
+1. [2016 Central Italy earthquake: The search continues for survivors in central Italy with the death toll now 241. An aftershock of 4.7 MMS hits further east in the province near Norcia. ](/news/2016/08/25/2016-central-italy-earthquake-the-search-continues-for-survivors-in-central-italy-with-the-death-toll-now-241-an-aftershock-of-4-7-mms-hit.md) _2018-02-06 13:49:29 (First version)_
 1. [The search continues for survivors in central Italy with the death toll now 241. An aftershock of 4.7 MMS hits further east in the province near Norcia. ](/news/2016/08/25/the-search-continues-for-survivors-in-central-italy-with-the-death-toll-now-241-an-aftershock-of-4-7-mms-hits-further-east-in-the-province.md) _(Current version)_
 
 ### Related:

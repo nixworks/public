@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/6/finland-s-government-plans-to-give-all-its-citiz
 
 ### Changes:
 
-1. [Basic income: Finland's government plans to give all its citizens, rich or poor, a monthly payment of -800, with no strings attached. The Finnish government says it wants to launch a -universal basic income experiment- in 2017 to test the feasibility of this program, which would replace the country-s current benefits system. ](/news/2015/12/6/basic-income-finland-s-government-plans-to-give-all-its-citizens-rich-or-poor-a-monthly-payment-of-800-with-no-strings-attached-the.md) _2017-08-27 03:44:12 (First version)_
+1. [Basic income: Finland's government plans to give all its citizens, rich or poor, a monthly payment of -800, with no strings attached. The Finnish government says it wants to launch a -universal basic income experiment- in 2017 to test the feasibility of this program, which would replace the country-s current benefits system. ](/news/2015/12/6/basic-income-finland-s-government-plans-to-give-all-its-citizens-rich-or-poor-a-monthly-payment-of-800-with-no-strings-attached-the.md) _2018-02-06 13:49:28 (First version)_
 1. [Finland's government plans to give all its citizens, rich or poor, a monthly payment of EUR800, with no strings attached. The Finnish government says it wants to launch a "universal basic income experiment" in 2017 to test the feasibility of this program, which would replace the country's current benefits system. ](/news/2015/12/6/finland-s-government-plans-to-give-all-its-citizens-rich-or-poor-a-monthly-payment-of-a-800-with-no-strings-attached-the-finnish-govern.md) _(Current version)_
 
 ### Related:

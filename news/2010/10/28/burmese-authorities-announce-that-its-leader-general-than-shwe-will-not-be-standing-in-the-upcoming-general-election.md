@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/10/28/burmese-authorities-announce-that-its-leader-ge
 
 ### Changes:
 
-1. [Burma: Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burma-burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md) _2017-08-27 03:30:50 (First version)_
+1. [Burma: Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burma-burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md) _2018-02-06 13:49:20 (First version)_
 1. [Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md) _(Current version)_
 
 ### Related:

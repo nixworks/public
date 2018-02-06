@@ -16,7 +16,7 @@ The woman at the centre of a political scandal that has cast the South Korean pr
 
 ### Changes:
 
-1. [2016 South Korean political scandal: Choi Soon-sil, the woman at the centre of a South Korean political scandal involving her friend President of Korea Park Geun-hye, is detained for questioning. ](/news/2016/11/1/2016-south-korean-political-scandal-choi-soon-sil-the-woman-at-the-centre-of-a-south-korean-political-scandal-involving-her-friend-preside.md) _2017-08-27 03:47:09 (First version)_
+1. [2016 South Korean political scandal: Choi Soon-sil, the woman at the centre of a South Korean political scandal involving her friend President of Korea Park Geun-hye, is detained for questioning. ](/news/2016/11/1/2016-south-korean-political-scandal-choi-soon-sil-the-woman-at-the-centre-of-a-south-korean-political-scandal-involving-her-friend-preside.md) _2018-02-06 13:49:29 (First version)_
 1. [Choi Soon-sil, the woman at the centre of a South Korean political scandal involving her friend President of Korea Park Geun-hye, is detained for questioning. ](/news/2016/11/1/choi-soon-sil-the-woman-at-the-centre-of-a-south-korean-political-scandal-involving-her-friend-president-of-korea-park-geun-hye-is-detaine.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ At least 11 people, including six soldiers, are killed by a remote-controlled bo
 
 ### Changes:
 
-1. [War in Somalia (2009-present):Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/war-in-somalia-2009apresent-pfive-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md) _2017-08-25 03:39:46 (First version)_
-2. [War in Somalia (2009-present):: Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/war-in-somalia-2009-present-five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md) _2017-08-27 03:40:05 (Update)_
+1. [War in Somalia (2009-present):Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/war-in-somalia-2009apresent-pfive-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/war-in-somalia-2009-present-five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md) _2018-02-06 13:49:25 (Update)_
 2. [Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md) _(Current version)_
 
 ### Related:

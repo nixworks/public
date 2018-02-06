@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/4/jordan-executes-convicted-iraqi-terrorists-sajid
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Jordan executes convicted Iraqi terrorists Sajida al-Rishawi and Ziad al-Karbouli in response to the execution by ISIL of Jordanian Air Force lieutenant Muath Al-Kasasbeh. ](/news/2015/02/4/islamic-state-of-iraq-and-the-levant-jordan-executes-convicted-iraqi-terrorists-sajida-al-rishawi-and-ziad-al-karbouli-in-response-to-the-e.md) _2017-08-27 03:41:53 (First version)_
+1. [Islamic State of Iraq and the Levant: Jordan executes convicted Iraqi terrorists Sajida al-Rishawi and Ziad al-Karbouli in response to the execution by ISIL of Jordanian Air Force lieutenant Muath Al-Kasasbeh. ](/news/2015/02/4/islamic-state-of-iraq-and-the-levant-jordan-executes-convicted-iraqi-terrorists-sajida-al-rishawi-and-ziad-al-karbouli-in-response-to-the-e.md) _2018-02-06 13:49:26 (First version)_
 1. [Jordan executes convicted Iraqi terrorists Sajida al-Rishawi and Ziad al-Karbouli in response to the execution by ISIL of Jordanian Air Force lieutenant Muath Al-Kasasbeh. ](/news/2015/02/4/jordan-executes-convicted-iraqi-terrorists-sajida-al-rishawi-and-ziad-al-karbouli-in-response-to-the-execution-by-isil-of-jordanian-air-forc.md) _(Current version)_
 
 ### Related:

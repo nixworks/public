@@ -16,7 +16,7 @@ At least 10 people dead and many wounded in bombing of restaurant in Baidoa, jus
 
 ### Changes:
 
-1. [Terrorism in Somalia: A suicide bomb attack kills at least 10 at a restaurant in Baidoa. ](/news/2014/12/5/terrorism-in-somalia-a-suicide-bomb-attack-kills-at-least-10-at-a-restaurant-in-baidoa.md) _2017-08-27 03:41:35 (First version)_
+1. [Terrorism in Somalia: A suicide bomb attack kills at least 10 at a restaurant in Baidoa. ](/news/2014/12/5/terrorism-in-somalia-a-suicide-bomb-attack-kills-at-least-10-at-a-restaurant-in-baidoa.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomb attack kills at least 10 at a restaurant in Baidoa. ](/news/2014/12/5/a-suicide-bomb-attack-kills-at-least-10-at-a-restaurant-in-baidoa.md) _(Current version)_
 
 ### Related:

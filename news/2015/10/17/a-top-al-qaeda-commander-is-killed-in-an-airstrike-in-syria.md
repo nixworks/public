@@ -17,7 +17,7 @@ Syrian troops backed by Hezbollah and Iranian fighters made advances on Saturday
 
 ### Changes:
 
-1. [Syrian Civil War: A top Al-Qaeda commander is killed in an airstrike in Syria. ](/news/2015/10/17/syrian-civil-war-a-top-al-qaeda-commander-is-killed-in-an-airstrike-in-syria.md) _2017-08-27 03:43:23 (First version)_
+1. [Syrian Civil War: A top Al-Qaeda commander is killed in an airstrike in Syria. ](/news/2015/10/17/syrian-civil-war-a-top-al-qaeda-commander-is-killed-in-an-airstrike-in-syria.md) _2018-02-06 13:49:27 (First version)_
 1. [A top Al-Qaeda commander is killed in an airstrike in Syria. ](/news/2015/10/17/a-top-al-qaeda-commander-is-killed-in-an-airstrike-in-syria.md) _(Current version)_
 
 ### Related:

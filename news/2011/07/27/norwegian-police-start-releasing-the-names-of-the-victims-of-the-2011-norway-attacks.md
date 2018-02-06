@@ -17,7 +17,7 @@ Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20
 
 ### Changes:
 
-1. [2011 Norway attacks: Norwegian police start releasing the names of the victims of the 2011 Norway attacks. ](/news/2011/07/27/2011-norway-attacks-norwegian-police-start-releasing-the-names-of-the-victims-of-the-2011-norway-attacks.md) _2017-08-27 03:34:00 (First version)_
+1. [2011 Norway attacks: Norwegian police start releasing the names of the victims of the 2011 Norway attacks. ](/news/2011/07/27/2011-norway-attacks-norwegian-police-start-releasing-the-names-of-the-victims-of-the-2011-norway-attacks.md) _2018-02-06 13:49:22 (First version)_
 1. [Norwegian police start releasing the names of the victims of the 2011 Norway attacks. ](/news/2011/07/27/norwegian-police-start-releasing-the-names-of-the-victims-of-the-2011-norway-attacks.md) _(Current version)_
 
 ### Related:

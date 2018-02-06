@@ -13,15 +13,15 @@ Saleh supporter killed in Hadramaut, while anti-government protester shot in pol
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md)
-_Context: Cote d'Ivoire, 2010-2011 Ivorian crisis, Alassane Ouattara_
+_Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire_
 
 ##### Uganda
 ### [Police in Uganda fire tear gas at demonstrators protesting the win of incumbent President Yoweri Museveni in elections. ](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.md)
-_Context: Yoweri Museveni, President, elections, Uganda_
+_Context: elections, President, Yoweri Museveni, Uganda_
 
 ##### Christian
 ### [Clashes between Christian Copt and Muslims in the Egyptian capital Cairo kill 13 people and injure 140. ](/news/2011/03/9/clashes-between-christian-copt-and-muslims-in-the-egyptian-capital-cairo-kill-13-people-and-injure-140.md)
-_Context: Christian, Muslim, Egypt, Cairo, Copt_
+_Context: Cairo, Egypt, Muslim, Christian, Copt_
 
 ##### United Nations
 ### [According to the United Nations, Afghan civilian deaths increased by 15% in 2010, to 2777. ](/news/2011/03/9/according-to-the-united-nations-afghan-civilian-deaths-increased-by-15-in-2010-to-2777.md)
@@ -37,15 +37,15 @@ Zara Phillips and her rugby player fiance Mike Tindall are to be married at the 
 
 ##### Canadian
 ### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
-_Context: oil sands, Athabasca River, polycyclic, Canadian, aromatic_
+_Context: polycyclic, oil sands, aromatic, Canadian, Athabasca River_
 
 ##### tsunami
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
-_Context: earthquake, tsunami, Japan, Honshu Island_
+_Context: earthquake, Japan, tsunami, Honshu Island_
 
 ##### New Jersey Governor
 ### [The Governor of the US state of New Jersey, Chris Christie declares a state of emergency along the Passaic and Delaware Rivers and Bound Brook in Somerset County in order to prepare for anticipated floods later in the week. ](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.md)
-_Context: Delaware River, Bound Brook, Chris Christie, New Jersey Governor, Somerset County, state of emergency, Passaic, New Jersey_
+_Context: Passaic, Delaware River, Chris Christie, Bound Brook, Somerset County, state of emergency, New Jersey Governor, New Jersey_
 
 ##### Antarctica
 ### [Ice loss from Antarctica and Greenland has accelerated over the past 20 years, according to new research, and will soon become the biggest driver of sea level rise. ](/news/2011/03/9/ice-loss-from-antarctica-and-greenland-has-accelerated-over-the-past-20-years-according-to-new-research-and-will-soon-become-the-biggest-d.md)
@@ -57,7 +57,7 @@ _Context: defects, North Korea_
 
 ##### Taiwan
 ### [Taiwan says it will end restrictions on Philippine workers imposed after a row over the deportation of 14 Taiwanese to mainland China. ](/news/2011/03/9/taiwan-says-it-will-end-restrictions-on-philippine-workers-imposed-after-a-row-over-the-deportation-of-14-taiwanese-to-mainland-china.md)
-_Context: Taiwan, China, Philippine, mainland China_
+_Context: Philippine, mainland China, Taiwan, China_
 
 ##### Denmark
 ### [Denmark upgrades its relation with Palestine to a mission, the second highest rank, following many other western nations recent upgrades.](/news/2011/03/9/denmark-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank-following-many-other-western-nations-recent-upgrades.md)
@@ -65,11 +65,11 @@ _Context: Palestine, its relation, Denmark_
 
 ##### Malaysia
 ### [Malaysia bans Shi'ites from promoting their faith to other Muslims, but remain able to practice it themselves. ](/news/2011/03/9/malaysia-bans-shi-ites-from-promoting-their-faith-to-other-muslims-but-remain-able-to-practice-it-themselves.md)
-_Context: Shia, Muslim, Malaysia_
+_Context: Shia, Malaysia, Muslim_
 
 ##### Judy Moran
 ### [Judy Moran, the matriarch of the Australian Moran crime family, is convicted of the murder of her brother-in-law Des Moran in Melbourne, Victoria. ](/news/2011/03/9/judy-moran-the-matriarch-of-the-australian-moran-crime-family-is-convicted-of-the-murder-of-her-brother-in-law-des-moran-in-melbourne-vic.md)
-_Context: Victoria, Judy Moran, Melbourne, Des "Tuppence" Moran, Australia_
+_Context: Melbourne, Australia, Judy Moran, Des "Tuppence" Moran, Victoria_
 
 ##### Federal grand jury
 ### [A Federal grand jury in the US city of Lubbock, Texas indicts Khalid Aldawsari on one charge of Attempted Use of a Weapon of Mass Destruction. ](/news/2011/03/9/a-federal-grand-jury-in-the-us-city-of-lubbock-texas-indicts-khalid-aldawsari-on-one-charge-of-attempted-use-of-a-weapon-of-mass-destructio.md)
@@ -93,7 +93,7 @@ Nearly 300 migrant workers in Greece end a six-week hunger strike after the gove
 
 ##### Takeaki Matsumoto
 ### [Takeaki Matsumoto is sworn in as the Foreign Minister of Japan, replacing Seiji Maehara who resigned following a political donations scandal. ](/news/2011/03/9/takeaki-matsumoto-is-sworn-in-as-the-foreign-minister-of-japan-replacing-seiji-maehara-who-resigned-following-a-political-donations-scandal.md)
-_Context: Japan, Seiji Maehara, Takeaki Matsumoto_
+_Context: Takeaki Matsumoto, Japan, Seiji Maehara_
 
 ##### Enda Kenny
 ### [Enda Kenny is elected as the 13th Taoiseach of Ireland by a margin of 117-27 in the 31st Dail Eireann, replacing Brian Cowen. ](/news/2011/03/9/enda-kenny-is-elected-as-the-13th-taoiseach-of-ireland-by-a-margin-of-117-27-in-the-31st-da-il-aireann-replacing-brian-cowen.md)
@@ -101,7 +101,7 @@ Fine Gael leader Enda Kenny has been elected Taoiseach of the 31st D&aacute;il a
 
 ##### Canadian government
 ### [The minority government led by Prime Minister Stephen Harper is reprimanded by the Canadian House of Commons for failing to produce documents but avoids a no confidence motion. ](/news/2011/03/9/the-minority-government-led-by-prime-minister-stephen-harper-is-reprimanded-by-the-canadian-house-of-commons-for-failing-to-produce-document.md)
-_Context: no confidence motion, Stephen Harper, Prime Minister of Canada, Canadian House of Commons, Canadian government_
+_Context: Stephen Harper, Prime Minister of Canada, Canadian government, Canadian House of Commons, no confidence motion_
 
 ##### 2011 Wisconsin budget protests
 ### [Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separate-from-the-budget-to-end-the-imp.md)
@@ -109,23 +109,23 @@ Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers o
 
 ##### Michigan State Senator
 ### [The Senate in the US state of Michigan approves a proposal to allow state-appointed emergency managers authority to break labor deals to turn around failing schools and cities most notably in Detroit. ](/news/2011/03/9/the-senate-in-the-us-state-of-michigan-approves-a-proposal-to-allow-state-appointed-emergency-managers-authority-to-break-labor-deals-to-tur.md)
-_Context: Detroit, Michigan State Senator, Mich._
+_Context: Detroit, Mich., Michigan State Senator_
 
 ##### King Mohammed VI of Morocco
 ### [King Mohammed VI of Morocco promises ""comprehensive constitutional reform" to expand individual and collective liberties in a televised address to the nation. ](/news/2011/03/9/king-mohammed-vi-of-morocco-promises-comprehensive-constitutional-reform-to-expand-individual-and-collective-liberties-in-a-televised-add.md)
-_Context: Morocco, King Mohammed VI of Morocco_
+_Context: King Mohammed VI of Morocco, Morocco_
 
 ##### Governor of Illinois
 ### [The Governor of the US state of Illinois, Pat Quinn, signs a law banning the death penalty and commutes the sentence of 15 death row prisoners to life without parole. ](/news/2011/03/9/the-governor-of-the-us-state-of-illinois-pat-quinn-signs-a-law-banning-the-death-penalty-and-commutes-the-sentence-of-15-death-row-prisone.md)
-_Context: sentenced to death, death row, Illinois, Governor of Illinois, Pat Quinn_
+_Context: Pat Quinn, Governor of Illinois, Illinois, death row, sentenced to death_
 
 ##### Space Shuttle
 ### [The Space Shuttle "Discovery" makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md)
-_Context: Space Shuttle, Kennedy Space Center, the state, Discovery_
+_Context: Discovery, Kennedy Space Center, Space Shuttle, the state_
 
 ##### United States
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, United States, lupus, Food and Drug Administration_
+_Context: United States, Food and Drug Administration, Belimumab, lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

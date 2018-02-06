@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depr
 
 ### Changes:
 
-1. [2014 North Indian Ocean cyclone season: Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/2014-north-indian-ocean-cyclone-season-cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 North Indian Ocean cyclone season: Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/2014-north-indian-ocean-cyclone-season-cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with-5-dead-in-andhra-pradesh-and-3-people-de.md) _(Current version)_
 
 ### Related:

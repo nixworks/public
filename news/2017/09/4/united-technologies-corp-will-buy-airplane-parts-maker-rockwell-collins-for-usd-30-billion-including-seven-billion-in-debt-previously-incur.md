@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts
 
 ### Changes:
 
-1. [United Technologies Corp will buy airplane parts maker Rockwell Collins for $23 billion. ](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts-maker-rockwell-collins-for-23-billion.md) _2017-09-05 00:30:05 (First version)_
+1. [United Technologies Corp will buy airplane parts maker Rockwell Collins for $23 billion. ](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts-maker-rockwell-collins-for-23-billion.md) _2018-02-06 13:49:31 (First version)_
 1. [United Technologies Corp will buy airplane parts maker Rockwell Collins for USD$30 Billion, including seven billion in debt previously incurred by Rockwell Collins. ](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts-maker-rockwell-collins-for-usd-30-billion-including-seven-billion-in-debt-previously-incur.md) _(Current version)_
 
 ### Related:

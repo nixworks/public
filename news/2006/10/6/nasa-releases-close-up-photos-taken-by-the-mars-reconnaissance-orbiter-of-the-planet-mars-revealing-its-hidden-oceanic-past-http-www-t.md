@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/10/6/nasa-releases-close-up-photos-taken-by-the-mars-
 
 ### Changes:
 
-1. [ NASA releases close-up photos taken by the Mars Reconnaissance Orbiter of the planet Mars revealing its hidden, oceanic past. ](/news/2006/10/6/nasa-releases-close-up-photos-taken-by-the-mars-reconnaissance-orbiter-of-the-planet-mars-revealing-its-hidden-oceanic-past.md) _2017-08-25 03:18:32 (First version)_
+1. [ NASA releases close-up photos taken by the Mars Reconnaissance Orbiter of the planet Mars revealing its hidden, oceanic past. ](/news/2006/10/6/nasa-releases-close-up-photos-taken-by-the-mars-reconnaissance-orbiter-of-the-planet-mars-revealing-its-hidden-oceanic-past.md) _2018-02-06 13:49:17 (First version)_
 1. [ NASA releases close-up photos taken by the Mars Reconnaissance Orbiter of the planet Mars revealing its hidden, oceanic past. [http:--www.timesonline.co.uk-article-0,,3-2393113,00.html (The Times (UK))]](/news/2006/10/6/nasa-releases-close-up-photos-taken-by-the-mars-reconnaissance-orbiter-of-the-planet-mars-revealing-its-hidden-oceanic-past-http-www-t.md) _(Current version)_
 
 ### Related:

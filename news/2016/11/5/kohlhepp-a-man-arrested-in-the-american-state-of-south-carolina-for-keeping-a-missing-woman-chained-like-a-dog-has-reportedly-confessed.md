@@ -17,7 +17,7 @@ Todd Kohlhepp, who is accused of holding Kala Brown captive and chained to stora
 
 ### Changes:
 
-1. [Todd Kohlhepp: Kohlhepp, a man arrested in the American state of South Carolina for keeping a missing woman "chained like a dog", has reportedly confessed to seven murders, including four killed in an unsolved mass shooting at a motorcycle shop in 2003. ](/news/2016/11/5/todd-kohlhepp-kohlhepp-a-man-arrested-in-the-american-state-of-south-carolina-for-keeping-a-missing-woman-chained-like-a-dog-has-report.md) _2017-08-27 03:47:11 (First version)_
+1. [Todd Kohlhepp: Kohlhepp, a man arrested in the American state of South Carolina for keeping a missing woman "chained like a dog", has reportedly confessed to seven murders, including four killed in an unsolved mass shooting at a motorcycle shop in 2003. ](/news/2016/11/5/todd-kohlhepp-kohlhepp-a-man-arrested-in-the-american-state-of-south-carolina-for-keeping-a-missing-woman-chained-like-a-dog-has-report.md) _2018-02-06 13:49:29 (First version)_
 1. [Kohlhepp, a man arrested in the American state of South Carolina for keeping a missing woman "chained like a dog", has reportedly confessed to seven murders, including four killed in an unsolved mass shooting at a motorcycle shop in 2003. ](/news/2016/11/5/kohlhepp-a-man-arrested-in-the-american-state-of-south-carolina-for-keeping-a-missing-woman-chained-like-a-dog-has-reportedly-confessed.md) _(Current version)_
 
 ### Related:

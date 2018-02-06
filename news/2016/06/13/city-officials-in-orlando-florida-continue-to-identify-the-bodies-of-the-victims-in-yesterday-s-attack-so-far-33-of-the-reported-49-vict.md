@@ -16,7 +16,7 @@ During this difficult time, we offer heartfelt condolences to the families of th
 
 ### Changes:
 
-1. [2016 Orlando nightclub shooting: City officials in Orlando, Florida, continue to identify the bodies of the victims in yesterday's attack. So far, 33 of the reported 49 victims have been identified and their families notified. ](/news/2016/06/13/2016-orlando-nightclub-shooting-city-officials-in-orlando-florida-continue-to-identify-the-bodies-of-the-victims-in-yesterday-s-attack-s.md) _2017-08-27 03:46:15 (First version)_
+1. [2016 Orlando nightclub shooting: City officials in Orlando, Florida, continue to identify the bodies of the victims in yesterday's attack. So far, 33 of the reported 49 victims have been identified and their families notified. ](/news/2016/06/13/2016-orlando-nightclub-shooting-city-officials-in-orlando-florida-continue-to-identify-the-bodies-of-the-victims-in-yesterday-s-attack-s.md) _2018-02-06 13:49:29 (First version)_
 1. [City officials in Orlando, Florida, continue to identify the bodies of the victims in yesterday's attack. So far, 33 of the reported 49 victims have been identified and their families notified. ](/news/2016/06/13/city-officials-in-orlando-florida-continue-to-identify-the-bodies-of-the-victims-in-yesterday-s-attack-so-far-33-of-the-reported-49-vict.md) _(Current version)_
 
 ### Related:

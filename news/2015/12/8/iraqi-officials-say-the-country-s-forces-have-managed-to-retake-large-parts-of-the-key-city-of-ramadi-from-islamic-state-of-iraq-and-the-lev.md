@@ -16,7 +16,7 @@ Iraqi forces retake large parts of the key city of Ramadi from Daesh militants.
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-civil-war-2014-present-iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from.md) _2017-08-27 03:44:15 (First version)_
+1. [Iraqi Civil War (2014-present): Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-civil-war-2014-present-iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from.md) _2018-02-06 13:49:28 (First version)_
 1. [Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from-islamic-state-of-iraq-and-the-lev.md) _(Current version)_
 
 ### Related:

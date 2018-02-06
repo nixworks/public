@@ -17,7 +17,7 @@ On Tuesday, the Northern Command announced that military sleuths had uncovered a
 
 ### Changes:
 
-1. [ Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water ](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-scam-where-contractors-responsible-for-transportation-of-fuel-to-depots-of-its-northern-comma.md) _2017-08-25 03:16:33 (First version)_
+1. [ Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water ](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-scam-where-contractors-responsible-for-transportation-of-fuel-to-depots-of-its-northern-comma.md) _2018-02-06 13:49:16 (First version)_
 1. [ Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water ](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-scam-where-contractors-responsible-for-transportation-of-fuel-to-depots-of-its-northern-comman.md) _(Current version)_
 
 ### Related:

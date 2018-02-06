@@ -15,7 +15,7 @@ Violent clashes involving gunmen, a community police force and state police kill
 
 ### Changes:
 
-1. [Eleven people are killed Sunday in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the troubled southern state of Guerrero. In separate incidents Saturday night, seven people were killed in a series of shootouts near the Mexican resort city of San Jose del Cabo in the western state of Baja California Sur. ](/news/2018/01/7/eleven-people-are-killed-sunday-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gu.md) _2018-01-08 07:30:06 (First version)_
+1. [Eleven people are killed Sunday in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the troubled southern state of Guerrero. In separate incidents Saturday night, seven people were killed in a series of shootouts near the Mexican resort city of San Jose del Cabo in the western state of Baja California Sur. ](/news/2018/01/7/eleven-people-are-killed-sunday-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gu.md) _2018-02-06 13:49:31 (First version)_
 1. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _(Current version)_
 
 ### Related:

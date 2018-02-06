@@ -15,8 +15,8 @@ The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly si
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-pan-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _2017-08-25 03:38:35 (First version)_
-2. [Nigerian Sharia conflict:: An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _2017-08-27 03:38:49 (Update)_
+1. [Nigerian Sharia conflict:An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-pan-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _2018-02-06 13:49:25 (Update)_
 2. [An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _(Current version)_
 
 ### Related:

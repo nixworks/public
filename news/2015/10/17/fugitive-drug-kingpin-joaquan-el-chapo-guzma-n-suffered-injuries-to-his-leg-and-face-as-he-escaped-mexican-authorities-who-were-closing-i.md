@@ -17,7 +17,7 @@ According to NBC News, fugitive drug lord Joaquin &#8220;El Chapo&#8221; Guzman 
 
 ### Changes:
 
-1. [Mexican Drug War: Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/mexican-drug-war-fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities.md) _2017-08-27 03:43:23 (First version)_
+1. [Mexican Drug War: Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/mexican-drug-war-fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities.md) _2018-02-06 13:49:27 (First version)_
 1. [Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities-who-were-closing-i.md) _(Current version)_
 
 ### Related:

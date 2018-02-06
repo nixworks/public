@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-be
 
 ### Changes:
 
-1. [The ''charge d'affaires'' of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's announcement he will withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw.md) _2017-08-25 03:47:59 (First version)_
+1. [The ''charge d'affaires'' of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's announcement he will withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw.md) _2018-02-06 13:49:30 (First version)_
 1. [The "charge d'affaires" of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's announcement he will withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw-the.md) _(Current version)_
 
 ### Related:

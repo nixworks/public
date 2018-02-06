@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/09/10/ma-rio-viegas-carrascalagbpo-resigns-as-the-dep
 
 ### Changes:
 
-1. [Mario Viegas Carrascalao resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana Gusmao without a majority in the Parliament. ](/news/2010/09/10/ma-rio-viegas-carrascalapso-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmapso-without-a-majority-i.md) _2017-08-25 03:29:57 (First version)_
+1. [Mario Viegas Carrascalao resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana Gusmao without a majority in the Parliament. ](/news/2010/09/10/ma-rio-viegas-carrascalapso-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmapso-without-a-majority-i.md) _2018-02-06 13:49:20 (First version)_
 1. [Mario Viegas CarrascalGBPo resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana GusmGBPo without a majority in the Parliament. ](/news/2010/09/10/ma-rio-viegas-carrascalagbpo-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmagbpo-without-a-majori.md) _(Current version)_
 
 ### Related:

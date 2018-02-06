@@ -16,8 +16,8 @@ At least 15 people are killed in a bombing at the Jalozai refugee camp close to 
 
 ### Changes:
 
-1. [Terrorism in Pakistan:A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/terrorism-in-pakistan-pa-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up.md) _2017-08-25 03:37:56 (First version)_
-2. [Terrorism in Pakistan:: A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/terrorism-in-pakistan-a-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up.md) _2017-08-27 03:38:07 (Update)_
+1. [Terrorism in Pakistan:A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/terrorism-in-pakistan-pa-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Pakistan:: A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/terrorism-in-pakistan-a-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up.md) _2018-02-06 13:49:24 (Update)_
 2. [A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/a-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up-to-30-others.md) _(Current version)_
 
 ### Related:

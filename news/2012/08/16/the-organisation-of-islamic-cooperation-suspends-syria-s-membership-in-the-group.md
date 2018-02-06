@@ -19,8 +19,8 @@ Observers will be removed within days, with plans to set up a smaller political 
 
 ### Changes:
 
-1. [Syrian civil war:The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/syrian-civil-war-pthe-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md) _2017-08-25 03:36:16 (First version)_
-2. [Syrian civil war:: The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/syrian-civil-war-the-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md) _2017-08-27 03:36:27 (Update)_
+1. [Syrian civil war:: The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/syrian-civil-war-the-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/syrian-civil-war-pthe-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md) _2018-02-06 13:49:23 (Update)_
 2. [The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/the-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md) _(Current version)_
 
 ### Related:

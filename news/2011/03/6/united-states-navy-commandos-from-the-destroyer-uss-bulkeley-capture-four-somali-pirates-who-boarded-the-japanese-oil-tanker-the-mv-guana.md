@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-
 
 ### Changes:
 
-1. [United States Navy commandos from the destroyer USS ''Bulkeley'' capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-gua.md) _2017-08-25 03:32:26 (First version)_
+1. [United States Navy commandos from the destroyer USS ''Bulkeley'' capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-gua.md) _2018-02-06 13:49:22 (First version)_
 1. [United States Navy commandos from the destroyer USS "Bulkeley" capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-guana.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-
 
 ### Changes:
 
-1. [Hundreds of thousands of women protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-of-women-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md) _2018-01-22 00:30:07 (First version)_
+1. [Hundreds of thousands of women protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-of-women-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md) _2018-02-06 13:49:31 (First version)_
 1. [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md) _(Current version)_
 
 ### Related:

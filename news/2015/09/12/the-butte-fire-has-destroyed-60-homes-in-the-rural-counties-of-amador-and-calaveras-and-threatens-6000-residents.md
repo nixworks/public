@@ -16,7 +16,7 @@ An explosive, fast-moving wildfire in California&#039;s Sierra Nevada mountains 
 
 ### Changes:
 
-1. [2015 California wildfires: The Butte Fire has destroyed 60 homes in the rural counties of Amador and Calaveras and threatens 6000 residents. ](/news/2015/09/12/2015-california-wildfires-the-butte-fire-has-destroyed-60-homes-in-the-rural-counties-of-amador-and-calaveras-and-threatens-6000-residents.md) _2017-08-27 03:43:02 (First version)_
+1. [2015 California wildfires: The Butte Fire has destroyed 60 homes in the rural counties of Amador and Calaveras and threatens 6000 residents. ](/news/2015/09/12/2015-california-wildfires-the-butte-fire-has-destroyed-60-homes-in-the-rural-counties-of-amador-and-calaveras-and-threatens-6000-residents.md) _2018-02-06 13:49:27 (First version)_
 1. [The Butte Fire has destroyed 60 homes in the rural counties of Amador and Calaveras and threatens 6000 residents. ](/news/2015/09/12/the-butte-fire-has-destroyed-60-homes-in-the-rural-counties-of-amador-and-calaveras-and-threatens-6000-residents.md) _(Current version)_
 
 ### Related:

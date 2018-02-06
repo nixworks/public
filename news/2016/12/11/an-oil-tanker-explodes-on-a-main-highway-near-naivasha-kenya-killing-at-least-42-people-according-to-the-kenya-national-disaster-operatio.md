@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/11/an-oil-tanker-explodes-on-a-main-highway-near-n
 
 ### Changes:
 
-1. [2016 Naivasha oil tanker explosion: An oil tanker explodes on a main highway near Naivasha, Kenya, killing at least 42 people, according to the Kenya National Disaster Operation Centre. ](/news/2016/12/11/2016-naivasha-oil-tanker-explosion-an-oil-tanker-explodes-on-a-main-highway-near-naivasha-kenya-killing-at-least-42-people-according-to.md) _2017-08-27 03:47:25 (First version)_
+1. [2016 Naivasha oil tanker explosion: An oil tanker explodes on a main highway near Naivasha, Kenya, killing at least 42 people, according to the Kenya National Disaster Operation Centre. ](/news/2016/12/11/2016-naivasha-oil-tanker-explosion-an-oil-tanker-explodes-on-a-main-highway-near-naivasha-kenya-killing-at-least-42-people-according-to.md) _2018-02-06 13:49:29 (First version)_
 1. [An oil tanker explodes on a main highway near Naivasha, Kenya, killing at least 42 people, according to the Kenya National Disaster Operation Centre. ](/news/2016/12/11/an-oil-tanker-explodes-on-a-main-highway-near-naivasha-kenya-killing-at-least-42-people-according-to-the-kenya-national-disaster-operatio.md) _(Current version)_
 
 ### Related:

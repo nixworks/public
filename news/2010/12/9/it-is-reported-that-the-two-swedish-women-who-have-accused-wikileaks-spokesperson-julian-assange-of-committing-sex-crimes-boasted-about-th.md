@@ -18,8 +18,8 @@ The two Swedish women who have brought sex charges against WikiLeaks founder Jul
 
 ### Changes:
 
-1. [Detention of Julian Assange:It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/detention-of-julian-assange-pit-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing.md) _2017-08-25 03:31:20 (First version)_
-2. [Detention of Julian Assange:: It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/detention-of-julian-assange-it-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing.md) _2017-08-27 03:31:27 (Update)_
+1. [Detention of Julian Assange:It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/detention-of-julian-assange-pit-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing.md) _2018-02-06 13:49:21 (First version)_
+2. [Detention of Julian Assange:: It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/detention-of-julian-assange-it-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing.md) _2018-02-06 13:49:21 (Update)_
 2. [It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/it-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing-sex-crimes-boasted-about-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Palestinian flag raised at event in Bethlehem held in week of centenary of decla
 
 ### Changes:
 
-1. [A Bethlehem art installation (by anonymous artist Banksy) celebrates the 100th anniversary of the Balfour Declaration. ](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-celebrates-the-100th-anniversary-of-the-balfour-declaration.md) _2017-11-02 08:30:05 (First version)_
+1. [A Bethlehem art installation (by anonymous artist Banksy) celebrates the 100th anniversary of the Balfour Declaration. ](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-celebrates-the-100th-anniversary-of-the-balfour-declaration.md) _2018-02-06 13:49:31 (First version)_
 1. [A Bethlehem art installation (by anonymous artist Banksy) satirizes the 100th anniversary of the Balfour Declaration. ](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.md) _(Current version)_
 
 ### Related:

@@ -20,7 +20,7 @@ Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western co
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/2016-zimbabwe-protests-protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-m.md) _2017-08-27 03:46:27 (First version)_
+1. [2016 Zimbabwe protests: Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/2016-zimbabwe-protests-protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-m.md) _2018-02-06 13:49:29 (First version)_
 1. [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ The 2010 World Cup draw will take place in Cape Town, South Africa at 2 a.m. Sat
 
 ### Changes:
 
-1. [ 2010 FIFA World Cup draw: The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-p-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md) _2017-08-25 03:26:31 (First version)_
-2. [ 2010 FIFA World Cup draw:: The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md) _2017-08-27 03:26:23 (Update)_
+1. [ 2010 FIFA World Cup draw:: The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md) _2018-02-06 13:49:19 (First version)_
+2. [ 2010 FIFA World Cup draw: The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-p-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md) _2018-02-06 13:49:19 (Update)_
 2. [ The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md) _(Current version)_
 
 ### Related:

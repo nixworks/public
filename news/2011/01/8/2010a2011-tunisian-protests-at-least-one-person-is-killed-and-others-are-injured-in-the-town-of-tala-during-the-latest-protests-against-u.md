@@ -16,7 +16,7 @@ Fatalities reported after fresh clashes between demonstrators and security force
 
 ### Changes:
 
-1. [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010-2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md) _2017-08-27 03:31:49 (First version)_
+1. [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010-2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md) _2018-02-06 13:49:21 (First version)_
 1. [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010a2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md) _(Current version)_
 
 ### Related:

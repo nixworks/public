@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/09/19/a-bomb-explodes-outside-the-home-of-a-senior-po
 
 ### Changes:
 
-1. [Terrorism in Pakistan:A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-pa-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _2017-08-25 03:34:11 (First version)_
-2. [Terrorism in Pakistan:: A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _2017-08-27 03:34:19 (Update)_
+1. [Terrorism in Pakistan:A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-pa-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _2018-02-06 13:49:22 (First version)_
+2. [Terrorism in Pakistan:: A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _2018-02-06 13:49:22 (Update)_
 2. [A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _(Current version)_
 
 ### Related:

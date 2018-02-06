@@ -23,7 +23,7 @@ Former Green Party presidential candidate Jill Stein on Thursday launched a bid 
 
 ### Changes:
 
-1. [United States presidential election, 2016: Jill Stein's campaign to hold recounts in Michigan, Pennsylvania, and Wisconsin receives grassroots support, having crowdfunded millions of dollars through private donations. ](/news/2016/11/25/united-states-presidential-election-2016-jill-stein-s-campaign-to-hold-recounts-in-michigan-pennsylvania-and-wisconsin-receives-grassroo.md) _2017-08-27 03:47:18 (First version)_
+1. [United States presidential election, 2016: Jill Stein's campaign to hold recounts in Michigan, Pennsylvania, and Wisconsin receives grassroots support, having crowdfunded millions of dollars through private donations. ](/news/2016/11/25/united-states-presidential-election-2016-jill-stein-s-campaign-to-hold-recounts-in-michigan-pennsylvania-and-wisconsin-receives-grassroo.md) _2018-02-06 13:49:29 (First version)_
 1. [Jill Stein's campaign to hold recounts in Michigan, Pennsylvania, and Wisconsin receives grassroots support, having crowdfunded millions of dollars through private donations. ](/news/2016/11/25/jill-stein-s-campaign-to-hold-recounts-in-michigan-pennsylvania-and-wisconsin-receives-grassroots-support-having-crowdfunded-millions-of.md) _(Current version)_
 
 ### Related:

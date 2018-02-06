@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/01/27/president-trump-signs-an-executive-order-limiti
 
 ### Changes:
 
-1. [Presidency of Donald Trump: President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/presidency-of-donald-trump-president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries.md) _2017-08-27 03:47:42 (First version)_
+1. [Presidency of Donald Trump: President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/presidency-of-donald-trump-president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries.md) _2018-02-06 13:49:30 (First version)_
 1. [President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries-including-iran-iraq-libya.md) _(Current version)_
 
 ### Related:

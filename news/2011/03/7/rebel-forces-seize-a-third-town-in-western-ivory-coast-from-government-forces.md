@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis: Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/2010-2011-ivorian-crisis-rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md) _2017-08-27 03:32:34 (First version)_
+1. [2010-2011 Ivorian crisis: Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/2010-2011-ivorian-crisis-rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md) _2018-02-06 13:49:22 (First version)_
 1. [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md) _(Current version)_
 
 ### Related:

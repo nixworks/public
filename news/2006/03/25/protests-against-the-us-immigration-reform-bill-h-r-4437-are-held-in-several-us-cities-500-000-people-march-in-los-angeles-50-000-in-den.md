@@ -18,7 +18,7 @@ Formats: [HTML](/news/2006/03/25/protests-against-the-us-immigration-reform-bill
 
 ### Changes:
 
-1. [ Protests against the US immigration reform bill H.R. 4437 are held in several US cities. 500,000 people march in Los Angeles, 50,000 in Denver, and 20,000 in Phoenix, Arizona, protesting proposed legislation that includes construction of a security wall along the United States-Mexico border. ](/news/2006/03/25/protests-against-the-us-immigration-reform-bill-h-r-4437-are-held-in-several-us-cities-500-000-people-march-in-los-angeles-50-000-in-de.md) _2017-08-25 03:17:32 (First version)_
+1. [ Protests against the US immigration reform bill H.R. 4437 are held in several US cities. 500,000 people march in Los Angeles, 50,000 in Denver, and 20,000 in Phoenix, Arizona, protesting proposed legislation that includes construction of a security wall along the United States-Mexico border. ](/news/2006/03/25/protests-against-the-us-immigration-reform-bill-h-r-4437-are-held-in-several-us-cities-500-000-people-march-in-los-angeles-50-000-in-de.md) _2018-02-06 13:49:17 (First version)_
 1. [ Protests against the US immigration reform bill H.R. 4437 are held in several US cities. 500,000 people march in Los Angeles, 50,000 in Denver, and 20,000 in Phoenix, Arizona, protesting proposed legislation that includes construction of a security wall along the United States-Mexico border. ](/news/2006/03/25/protests-against-the-us-immigration-reform-bill-h-r-4437-are-held-in-several-us-cities-500-000-people-march-in-los-angeles-50-000-in-den.md) _(Current version)_
 
 ### Related:

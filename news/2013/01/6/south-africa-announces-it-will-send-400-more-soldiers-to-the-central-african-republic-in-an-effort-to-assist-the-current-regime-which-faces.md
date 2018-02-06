@@ -16,7 +16,7 @@ South Africa is sending more soldiers to support government troops in the Centra
 
 ### Changes:
 
-1. [2012-2013 Central African Republic rebellion:: South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/2012-2013-central-african-republic-rebellion-south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an.md) _2017-08-27 03:37:23 (First version)_
+1. [2012-2013 Central African Republic rebellion:: South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/2012-2013-central-african-republic-rebellion-south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an.md) _2018-02-06 13:49:24 (First version)_
 1. [South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an-effort-to-assist-the-current-regime-which-faces.md) _(Current version)_
 
 ### Related:

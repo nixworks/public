@@ -17,7 +17,7 @@ China decides to end its decades-long policy of allowing couples to have only on
 
 ### Changes:
 
-1. [One-child policy: China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/one-child-policy-china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md) _2017-08-27 03:43:35 (First version)_
+1. [One-child policy: China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/one-child-policy-china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md) _2018-02-06 13:49:28 (First version)_
 1. [China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md) _(Current version)_
 
 ### Related:

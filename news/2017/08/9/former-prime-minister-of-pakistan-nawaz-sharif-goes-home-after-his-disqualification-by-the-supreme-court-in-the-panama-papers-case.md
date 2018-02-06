@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-g
 
 ### Changes:
 
-1. [ Former Pakistani Prime Minister Nawaz Sharif go home after his disqualification by Supreme Court of Pakistan in Panama Papers case. ](/news/2017/08/9/former-pakistani-prime-minister-nawaz-sharif-go-home-after-his-disqualification-by-supreme-court-of-pakistan-in-panama-papers-case.md) _2017-08-09 15:30:05 (First version)_
-2. [GT road rally: Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/gt-road-rally-former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers.md) _2017-08-27 03:48:47 (Update)_
+1. [GT road rally: Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/gt-road-rally-former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers.md) _2018-02-06 13:49:31 (First version)_
+2. [ Former Pakistani Prime Minister Nawaz Sharif go home after his disqualification by Supreme Court of Pakistan in Panama Papers case. ](/news/2017/08/9/former-pakistani-prime-minister-nawaz-sharif-go-home-after-his-disqualification-by-supreme-court-of-pakistan-in-panama-papers-case.md) _2018-02-06 13:49:31 (Update)_
 2. [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md) _(Current version)_
 
 ### Related:

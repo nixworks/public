@@ -16,8 +16,8 @@ The passenger train bound for the Belgian capital jumps the tracks, with one car
 
 ### Changes:
 
-1. [One person is killed and 20 are injured when a passenger train derails near {{rws|Leuven}}, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-rws-leuven-belgium.md) _2017-05-01 03:51:40 (First version)_
-2. [2017 Leuven derailment: One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/2017-leuven-derailment-one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _2017-08-27 03:47:50 (Update)_
+1. [One person is killed and 20 are injured when a passenger train derails near {{rws|Leuven}}, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-rws-leuven-belgium.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Leuven derailment: One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/2017-leuven-derailment-one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _2018-02-06 13:49:30 (Update)_
 2. [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _(Current version)_
 
 ### Related:

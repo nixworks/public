@@ -16,8 +16,8 @@ A case between PETA and nature photographer David Slater and Blurb is now being 
 
 ### Changes:
 
-1. [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns their selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-thei.md) _2017-07-13 14:30:05 (First version)_
-2. [Monkey selfie: The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/monkey-selfie-the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-ma.md) _2017-08-27 03:48:39 (Update)_
+1. [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns their selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-thei.md) _2018-02-06 13:49:30 (First version)_
+2. [Monkey selfie: The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/monkey-selfie-the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-ma.md) _2018-02-06 13:49:30 (Update)_
 2. [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-its.md) _(Current version)_
 
 ### Related:

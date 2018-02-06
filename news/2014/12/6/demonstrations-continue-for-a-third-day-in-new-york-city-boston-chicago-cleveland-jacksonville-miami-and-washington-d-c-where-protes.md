@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/6/demonstrations-continue-for-a-third-day-in-new-y
 
 ### Changes:
 
-1. [2014 Ferguson unrest: Death of Eric Garner: Demonstrations continue for a third day in New York City, Boston, Chicago, Cleveland, Jacksonville, Miami, and Washington, D.C. where protesters perform "die-ins" over the deaths of Michael Brown and Eric Garner. ](/news/2014/12/6/2014-ferguson-unrest-death-of-eric-garner-demonstrations-continue-for-a-third-day-in-new-york-city-boston-chicago-cleveland-jacksonvil.md) _2017-08-27 03:41:35 (First version)_
+1. [2014 Ferguson unrest: Death of Eric Garner: Demonstrations continue for a third day in New York City, Boston, Chicago, Cleveland, Jacksonville, Miami, and Washington, D.C. where protesters perform "die-ins" over the deaths of Michael Brown and Eric Garner. ](/news/2014/12/6/2014-ferguson-unrest-death-of-eric-garner-demonstrations-continue-for-a-third-day-in-new-york-city-boston-chicago-cleveland-jacksonvil.md) _2018-02-06 13:49:26 (First version)_
 1. [Demonstrations continue for a third day in New York City, Boston, Chicago, Cleveland, Jacksonville, Miami, and Washington, D.C. where protesters perform "die-ins" over the deaths of Michael Brown and Eric Garner. ](/news/2014/12/6/demonstrations-continue-for-a-third-day-in-new-york-city-boston-chicago-cleveland-jacksonville-miami-and-washington-d-c-where-protes.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Italian Prime Minister Matteo Renzi looks to have suffered a heavy defeat in the
 
 ### Changes:
 
-1. [Italian constitutional referendum, 2016: Italians go to the polls to for a referendum on whether to approve a constitutional law that amends the Constitution of Italy to reform the powers of the Italian Parliament. Prime Minister Matteo Renzi, who introduced the referendum bill, resigns after exit polls show that the no case is likely to be successful. ](/news/2016/12/4/italian-constitutional-referendum-2016-italians-go-to-the-polls-to-for-a-referendum-on-whether-to-approve-a-constitutional-law-that-amends.md) _2017-08-27 03:47:23 (First version)_
+1. [Italian constitutional referendum, 2016: Italians go to the polls to for a referendum on whether to approve a constitutional law that amends the Constitution of Italy to reform the powers of the Italian Parliament. Prime Minister Matteo Renzi, who introduced the referendum bill, resigns after exit polls show that the no case is likely to be successful. ](/news/2016/12/4/italian-constitutional-referendum-2016-italians-go-to-the-polls-to-for-a-referendum-on-whether-to-approve-a-constitutional-law-that-amends.md) _2018-02-06 13:49:30 (First version)_
 1. [Italians go to the polls to for a referendum on whether to approve a constitutional law that amends the Constitution of Italy to reform the powers of the Italian Parliament. Prime Minister Matteo Renzi, who introduced the referendum bill, resigns after exit polls show that the no case is likely to be successful. ](/news/2016/12/4/italians-go-to-the-polls-to-for-a-referendum-on-whether-to-approve-a-constitutional-law-that-amends-the-constitution-of-italy-to-reform-the.md) _(Current version)_
 
 ### Related:

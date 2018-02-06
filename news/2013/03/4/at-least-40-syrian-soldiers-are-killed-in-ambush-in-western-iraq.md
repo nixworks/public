@@ -16,8 +16,8 @@ At least 40 Syrian soldiers and Iraqis have been killed by gunmen in western Ira
 
 ### Changes:
 
-1. [Akashat ambush:At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-pat-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _2017-08-25 03:37:42 (First version)_
-2. [Akashat ambush:: At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _2017-08-27 03:37:54 (Update)_
+1. [Akashat ambush:At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-pat-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _2018-02-06 13:49:24 (First version)_
+2. [Akashat ambush:: At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md) _(Current version)_
 
 ### Related:

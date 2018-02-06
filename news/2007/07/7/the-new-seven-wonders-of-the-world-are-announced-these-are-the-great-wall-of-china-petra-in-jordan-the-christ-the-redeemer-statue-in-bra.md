@@ -16,7 +16,7 @@ Sydney&#039;s Opera House failed to make the cut as the organisers of a huge onl
 
 ### Changes:
 
-1. [ The New Seven Wonders of the World are announced. These are The Great Wall of China, Petra in Jordan, the Christ the Redeemer statue in Brazil, Machu Picchu in Peru, Mexico's Chichen Itza Mayan site, the Colosseum in Rome and the Taj Mahal in India. ](/news/2007/07/7/the-new-seven-wonders-of-the-world-are-announced-these-are-the-great-wall-of-china-petra-in-jordan-the-christ-the-redeemer-statue-in-br.md) _2017-08-25 03:20:07 (First version)_
+1. [ The New Seven Wonders of the World are announced. These are The Great Wall of China, Petra in Jordan, the Christ the Redeemer statue in Brazil, Machu Picchu in Peru, Mexico's Chichen Itza Mayan site, the Colosseum in Rome and the Taj Mahal in India. ](/news/2007/07/7/the-new-seven-wonders-of-the-world-are-announced-these-are-the-great-wall-of-china-petra-in-jordan-the-christ-the-redeemer-statue-in-br.md) _2018-02-06 13:49:17 (First version)_
 1. [ The New Seven Wonders of the World are announced. These are The Great Wall of China, Petra in Jordan, the Christ the Redeemer statue in Brazil, Machu Picchu in Peru, Mexico's Chichen Itza Mayan site, the Colosseum in Rome and the Taj Mahal in India. ](/news/2007/07/7/the-new-seven-wonders-of-the-world-are-announced-these-are-the-great-wall-of-china-petra-in-jordan-the-christ-the-redeemer-statue-in-bra.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The clashes come as militants try to gain access to a military base, Russian off
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. ](/news/2017/03/24/insurgency-in-the-north-caucasus-six-chechen-soldiers-along-with-six-militants-are-killed-in-a-nighttime-attack-on-a-russian-national-gua.md) _2017-08-27 03:48:02 (First version)_
+1. [Insurgency in the North Caucasus: Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. ](/news/2017/03/24/insurgency-in-the-north-caucasus-six-chechen-soldiers-along-with-six-militants-are-killed-in-a-nighttime-attack-on-a-russian-national-gua.md) _2018-02-06 13:49:30 (First version)_
 1. [Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. ](/news/2017/03/24/six-chechen-soldiers-along-with-six-militants-are-killed-in-a-nighttime-attack-on-a-russian-national-guard-base-in-chechnya.md) _(Current version)_
 
 ### Related:

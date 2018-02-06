@@ -16,7 +16,7 @@ Five people survived the accident on the bus, thought to have been carrying many
 
 ### Changes:
 
-1. [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing at least 52 people. At least five people managed to escape and have been treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-at-least-52-people-at-least-five-people-managed-to.md) _2018-01-19 00:30:06 (First version)_
+1. [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing at least 52 people. At least five people managed to escape and have been treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-at-least-52-people-at-least-five-people-managed-to.md) _2018-02-06 13:49:31 (First version)_
 1. [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing 52 people. Five people escape and are treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-52-people-five-people-escape-and-are-treated-by-re.md) _(Current version)_
 
 ### Related:

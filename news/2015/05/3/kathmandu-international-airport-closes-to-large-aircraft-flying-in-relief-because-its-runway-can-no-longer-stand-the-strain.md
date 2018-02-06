@@ -17,7 +17,7 @@ The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with 
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/april-2015-nepal-earthquake-kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stan.md) _2017-08-27 03:42:16 (First version)_
+1. [April 2015 Nepal earthquake: Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/april-2015-nepal-earthquake-kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stan.md) _2018-02-06 13:49:27 (First version)_
 1. [Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stand-the-strain.md) _(Current version)_
 
 ### Related:

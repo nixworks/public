@@ -16,8 +16,8 @@ Europe was plunged into fresh crisis on Friday as Austria&rsquo;s courts ordered
 
 ### Changes:
 
-1. [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austri.md) _2017-08-25 03:46:02 (First version)_
-2. [Austrian presidential election, 2016: Austria-s highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austrian-presidential-election-2016-austria-s-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right.md) _2017-08-27 03:46:23 (Update)_
+1. [Austrian presidential election, 2016: Austria-s highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austrian-presidential-election-2016-austria-s-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right.md) _2018-02-06 13:49:29 (First version)_
+2. [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austri.md) _2018-02-06 13:49:29 (Update)_
 2. [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austria.md) _(Current version)_
 
 ### Related:

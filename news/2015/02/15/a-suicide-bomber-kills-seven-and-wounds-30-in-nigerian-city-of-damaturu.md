@@ -16,7 +16,7 @@ A female suicide bomber kills seven people at a bus station in the Nigerian city
 
 ### Changes:
 
-1. [Boko Haram insurgency: A suicide bomber kills seven and wounds 30 in Nigerian city of Damaturu. ](/news/2015/02/15/boko-haram-insurgency-a-suicide-bomber-kills-seven-and-wounds-30-in-nigerian-city-of-damaturu.md) _2017-08-27 03:41:56 (First version)_
+1. [Boko Haram insurgency: A suicide bomber kills seven and wounds 30 in Nigerian city of Damaturu. ](/news/2015/02/15/boko-haram-insurgency-a-suicide-bomber-kills-seven-and-wounds-30-in-nigerian-city-of-damaturu.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber kills seven and wounds 30 in Nigerian city of Damaturu. ](/news/2015/02/15/a-suicide-bomber-kills-seven-and-wounds-30-in-nigerian-city-of-damaturu.md) _(Current version)_
 
 ### Related:

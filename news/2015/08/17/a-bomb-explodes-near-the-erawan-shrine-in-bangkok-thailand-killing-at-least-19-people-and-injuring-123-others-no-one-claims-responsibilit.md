@@ -20,7 +20,7 @@ The live blog has closed off. See our main article for all information on the si
 
 ### Changes:
 
-1. [2015 Ratchaprasong bombing: A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others. No one claims responsibility. Thai Society president Songvut Manoonpong says that parties opposing the Thai military government are responsible. ](/news/2015/08/17/2015-ratchaprasong-bombing-a-bomb-explodes-near-the-erawan-shrine-in-bangkok-thailand-killing-at-least-19-people-and-injuring-123-others.md) _2017-08-27 03:42:51 (First version)_
+1. [2015 Ratchaprasong bombing: A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others. No one claims responsibility. Thai Society president Songvut Manoonpong says that parties opposing the Thai military government are responsible. ](/news/2015/08/17/2015-ratchaprasong-bombing-a-bomb-explodes-near-the-erawan-shrine-in-bangkok-thailand-killing-at-least-19-people-and-injuring-123-others.md) _2018-02-06 13:49:27 (First version)_
 1. [A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others. No one claims responsibility. Thai Society president Songvut Manoonpong says that parties opposing the Thai military government are responsible. ](/news/2015/08/17/a-bomb-explodes-near-the-erawan-shrine-in-bangkok-thailand-killing-at-least-19-people-and-injuring-123-others-no-one-claims-responsibilit.md) _(Current version)_
 
 ### Related:

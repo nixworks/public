@@ -17,7 +17,7 @@ Taoiseach Enda Kenny has performed a dramatic U-turn on his pre-election promise
 
 ### Changes:
 
-1. [Irish general election, 2016: Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail, as he forms the country's government. Sinn Fein says it is not interested in forming a coalition government with Kenny's Fine Gael party. ](/news/2016/03/1/irish-general-election-2016-prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-eng.md) _2017-08-27 03:45:06 (First version)_
+1. [Irish general election, 2016: Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail, as he forms the country's government. Sinn Fein says it is not interested in forming a coalition government with Kenny's Fine Gael party. ](/news/2016/03/1/irish-general-election-2016-prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-eng.md) _2018-02-06 13:49:28 (First version)_
 1. [Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail, as he forms the country's government. Sinn Fein says it is not interested in forming a coalition government with Kenny's Fine Gael party. ](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-engage-with-other-parties-groups.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The recruitment drive follows the announcement that the UN is leaving Haiti.
 
 ### Changes:
 
-1. [Human rights in Haiti: Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/human-rights-in-haiti-haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _2017-08-27 03:48:38 (First version)_
+1. [Human rights in Haiti: Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/human-rights-in-haiti-haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _2018-02-06 13:49:30 (First version)_
 1. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _(Current version)_
 
 ### Related:

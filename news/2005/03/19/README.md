@@ -5,15 +5,15 @@ Formats: [HTML](2005/03/19/index.html)  [JSON](2005/03/19/index.json)  [XML](200
 
 ##### magnitude
 ### [ A 7.0 magnitude earthquake hits Japan's southernmost main island of Kyushu. Japan's Meteorological Agency emits warnings for tsunamis that could hit areas including the coast of Kyushu. ](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-southernmost-main-island-of-kya-sha-japan-s-meteorological-agency-emits-warnings-for-tsunamis-tha.md)
-_Context: Kyushu, Japan's Meteorological Agency, tsunami, magnitude, Japan_
+_Context: magnitude, Kyushu, Japan's Meteorological Agency, Japan, tsunami_
 
-##### British
+##### United Kingdom
 ### [ One Briton killed and 12 people wounded by a car bomb in Doha, Qatar. ](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.md)
-_Context: Doha, British, Qatar_
+_Context: Qatar, United Kingdom, Doha_
 
 ##### Pakistan
 ### [ Pakistan successfully test-fires a long-range nuclear-capable ballistic missile, Shaheen-II, the latest in a series of tests. Shaheen-II can travel up to 2,000 km and carry all kinds of warheads. ](/news/2005/03/19/pakistan-successfully-test-fires-a-long-range-nuclear-capable-ballistic-missile-shaheen-ii-the-latest-in-a-series-of-tests-shaheen-ii-ca.md)
-_Context: ballistic missile, Shaheen-II, Pakistan_
+_Context: ballistic missile, Pakistan, Shaheen-II_
 
 ##### G20
 ### [ G20 group of the developing countries calls on rich nations to end their farming subsidies in five years ](/news/2005/03/19/g20-group-of-the-developing-countries-calls-on-rich-nations-to-end-their-farming-subsidies-in-five-years.md)

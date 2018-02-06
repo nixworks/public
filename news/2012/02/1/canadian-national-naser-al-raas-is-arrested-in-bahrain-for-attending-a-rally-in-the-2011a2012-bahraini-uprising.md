@@ -16,7 +16,7 @@ Former Ottawa resident Naser al-Raas has been arrested in a Bahrain court after 
 
 ### Changes:
 
-1. [Canadian national Naser al-Raas is arrested in Bahrain for attending a rally in the 2011-2012 Bahraini uprising. ](/news/2012/02/1/canadian-national-naser-al-raas-is-arrested-in-bahrain-for-attending-a-rally-in-the-2011-2012-bahraini-uprising.md) _2017-08-27 03:35:06 (First version)_
+1. [Canadian national Naser al-Raas is arrested in Bahrain for attending a rally in the 2011-2012 Bahraini uprising. ](/news/2012/02/1/canadian-national-naser-al-raas-is-arrested-in-bahrain-for-attending-a-rally-in-the-2011-2012-bahraini-uprising.md) _2018-02-06 13:49:23 (First version)_
 1. [Canadian national Naser al-Raas is arrested in Bahrain for attending a rally in the 2011-2012 Bahraini uprising. ](/news/2012/02/1/canadian-national-naser-al-raas-is-arrested-in-bahrain-for-attending-a-rally-in-the-2011a2012-bahraini-uprising.md) _(Current version)_
 
 ### Related:

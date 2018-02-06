@@ -26,8 +26,8 @@ Powerful storm blew into metro, killing 1, injuring 30 and putting North Side un
 
 ### Changes:
 
-1. [May 2011 tornado outbreak in the Central United States:Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/may-2011-tornado-outbreak-in-the-central-united-states-ptornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killin.md) _2017-08-25 03:33:13 (First version)_
-2. [May 2011 tornado outbreak in the Central United States:: Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/may-2011-tornado-outbreak-in-the-central-united-states-tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killi.md) _2017-08-27 03:33:22 (Update)_
+1. [May 2011 tornado outbreak in the Central United States:: Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/may-2011-tornado-outbreak-in-the-central-united-states-tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killi.md) _2018-02-06 13:49:22 (First version)_
+2. [May 2011 tornado outbreak in the Central United States:Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/may-2011-tornado-outbreak-in-the-central-united-states-ptornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killin.md) _2018-02-06 13:49:22 (Update)_
 2. [Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killing-at-least-one-person.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/28/pope-francis-returns-to-rome-after-finishing-hi
 
 ### Changes:
 
-1. [Pope Francis%27 visit to the United States: Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-27-visit-to-the-united-states-pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md) _2017-08-27 03:43:10 (First version)_
+1. [Pope Francis%27 visit to the United States: Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-27-visit-to-the-united-states-pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md) _2018-02-06 13:49:27 (First version)_
 1. [Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md) _(Current version)_
 
 ### Related:

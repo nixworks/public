@@ -16,8 +16,8 @@ Children and women said to be among victims of attacks on two towns in Deraa app
 
 ### Changes:
 
-1. [Syrian civil war:At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/syrian-civil-war-pat-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md) _2017-08-25 03:38:17 (First version)_
-2. [Syrian civil war:: At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/syrian-civil-war-at-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md) _2017-08-27 03:38:29 (Update)_
+1. [Syrian civil war:At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/syrian-civil-war-pat-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/syrian-civil-war-at-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/at-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md) _(Current version)_
 
 ### Related:

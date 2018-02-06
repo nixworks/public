@@ -16,7 +16,7 @@ Some 300 Turkish naval officers have been suspended or dismissed as part of a cr
 
 ### Changes:
 
-1. [2016 Turkish purges: The Turkish Defense Ministry announces about 300 Turkish naval officers, suspected of having ties to the failed government coup, have been suspended or dismissed. ](/news/2016/11/13/2016-turkish-purges-the-turkish-defense-ministry-announces-about-300-turkish-naval-officers-suspected-of-having-ties-to-the-failed-governm.md) _2017-08-27 03:47:14 (First version)_
+1. [2016 Turkish purges: The Turkish Defense Ministry announces about 300 Turkish naval officers, suspected of having ties to the failed government coup, have been suspended or dismissed. ](/news/2016/11/13/2016-turkish-purges-the-turkish-defense-ministry-announces-about-300-turkish-naval-officers-suspected-of-having-ties-to-the-failed-governm.md) _2018-02-06 13:49:29 (First version)_
 1. [The Turkish Defense Ministry announces about 300 Turkish naval officers, suspected of having ties to the failed government coup, have been suspended or dismissed. ](/news/2016/11/13/the-turkish-defense-ministry-announces-about-300-turkish-naval-officers-suspected-of-having-ties-to-the-failed-government-coup-have-been-s.md) _(Current version)_
 
 ### Related:

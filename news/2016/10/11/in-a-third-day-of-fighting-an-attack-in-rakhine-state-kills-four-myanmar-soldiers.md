@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/11/in-a-third-day-of-fighting-an-attack-in-rakhine
 
 ### Changes:
 
-1. [Rohingya insurgency in Western Myanmar: In a third day of fighting, an attack in Rakhine State kills four Myanmar soldiers. ](/news/2016/10/11/rohingya-insurgency-in-western-myanmar-in-a-third-day-of-fighting-an-attack-in-rakhine-state-kills-four-myanmar-soldiers.md) _2017-08-27 03:47:01 (First version)_
+1. [Rohingya insurgency in Western Myanmar: In a third day of fighting, an attack in Rakhine State kills four Myanmar soldiers. ](/news/2016/10/11/rohingya-insurgency-in-western-myanmar-in-a-third-day-of-fighting-an-attack-in-rakhine-state-kills-four-myanmar-soldiers.md) _2018-02-06 13:49:29 (First version)_
 1. [In a third day of fighting, an attack in Rakhine State kills four Myanmar soldiers. ](/news/2016/10/11/in-a-third-day-of-fighting-an-attack-in-rakhine-state-kills-four-myanmar-soldiers.md) _(Current version)_
 
 ### Related:

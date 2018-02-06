@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/30/russian-financial-crisis-2014apresent-the-centr
 
 ### Changes:
 
-1. [Russian financial crisis (2014-present): The Central Bank of Russia lowers its interest rate the third time to 12.5%, a drop from 14%. ](/news/2015/04/30/russian-financial-crisis-2014-present-the-central-bank-of-russia-lowers-its-interest-rate-the-third-time-to-12-5-a-drop-from-14.md) _2017-08-27 03:42:15 (First version)_
+1. [Russian financial crisis (2014-present): The Central Bank of Russia lowers its interest rate the third time to 12.5%, a drop from 14%. ](/news/2015/04/30/russian-financial-crisis-2014-present-the-central-bank-of-russia-lowers-its-interest-rate-the-third-time-to-12-5-a-drop-from-14.md) _2018-02-06 13:49:27 (First version)_
 1. [Russian financial crisis (2014-present): The Central Bank of Russia lowers its interest rate the third time to 12.5%, a drop from 14%. ](/news/2015/04/30/russian-financial-crisis-2014apresent-the-central-bank-of-russia-lowers-its-interest-rate-the-third-time-to-12-5-a-drop-from-14.md) _(Current version)_
 
 ### Related:

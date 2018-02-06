@@ -18,7 +18,7 @@ The death toll of Britons killed in the Tunisian gun attack will double to at le
 
 ### Changes:
 
-1. [2015 Sousse attacks: Tunisia deploys an additional 1000 police in resorts and beaches following the attack on tourists on Friday. ](/news/2015/06/28/2015-sousse-attacks-tunisia-deploys-an-additional-1000-police-in-resorts-and-beaches-following-the-attack-on-tourists-on-friday.md) _2017-08-27 03:42:36 (First version)_
+1. [2015 Sousse attacks: Tunisia deploys an additional 1000 police in resorts and beaches following the attack on tourists on Friday. ](/news/2015/06/28/2015-sousse-attacks-tunisia-deploys-an-additional-1000-police-in-resorts-and-beaches-following-the-attack-on-tourists-on-friday.md) _2018-02-06 13:49:27 (First version)_
 1. [Tunisia deploys an additional 1000 police in resorts and beaches following the attack on tourists on Friday. ](/news/2015/06/28/tunisia-deploys-an-additional-1000-police-in-resorts-and-beaches-following-the-attack-on-tourists-on-friday.md) _(Current version)_
 
 ### Related:

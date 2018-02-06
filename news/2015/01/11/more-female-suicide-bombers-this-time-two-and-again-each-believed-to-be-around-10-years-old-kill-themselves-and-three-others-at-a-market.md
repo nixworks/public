@@ -16,7 +16,7 @@ Two suspected child suicide bombers have blown themselves up in a market in nort
 
 ### Changes:
 
-1. [Boko Haram: More female suicide bombers, this time two, and again each believed to be around 10 years old, kill themselves and three others at a market in the northeastern city of Potiskum, Nigeria. ](/news/2015/01/11/boko-haram-more-female-suicide-bombers-this-time-two-and-again-each-believed-to-be-around-10-years-old-kill-themselves-and-three-others.md) _2017-08-27 03:41:46 (First version)_
+1. [Boko Haram: More female suicide bombers, this time two, and again each believed to be around 10 years old, kill themselves and three others at a market in the northeastern city of Potiskum, Nigeria. ](/news/2015/01/11/boko-haram-more-female-suicide-bombers-this-time-two-and-again-each-believed-to-be-around-10-years-old-kill-themselves-and-three-others.md) _2018-02-06 13:49:26 (First version)_
 1. [More female suicide bombers, this time two, and again each believed to be around 10 years old, kill themselves and three others at a market in the northeastern city of Potiskum, Nigeria. ](/news/2015/01/11/more-female-suicide-bombers-this-time-two-and-again-each-believed-to-be-around-10-years-old-kill-themselves-and-three-others-at-a-market.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence
 
 ### Changes:
 
-1. [Somali civil war: A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/somali-civil-war-a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-m.md) _2017-08-27 03:41:42 (First version)_
+1. [Somali civil war: A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/somali-civil-war-a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-m.md) _2018-02-06 13:49:26 (First version)_
 1. [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md) _(Current version)_
 
 ### Related:

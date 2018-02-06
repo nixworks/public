@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese
 
 ### Changes:
 
-1. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier ''Liaoning'', sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following.md) _2017-08-25 03:47:11 (First version)_
+1. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier ''Liaoning'', sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following.md) _2018-02-06 13:49:30 (First version)_
 1. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md) _(Current version)_
 
 ### Related:

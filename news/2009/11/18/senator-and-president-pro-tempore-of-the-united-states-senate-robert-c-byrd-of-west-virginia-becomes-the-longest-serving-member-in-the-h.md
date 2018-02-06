@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united
 
 ### Changes:
 
-1. [ Senator and President ''pro tempore'' of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the.md) _2017-08-25 03:26:23 (First version)_
+1. [ Senator and President ''pro tempore'' of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the.md) _2018-02-06 13:49:19 (First version)_
 1. [ Senator and President "pro tempore" of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the-h.md) _(Current version)_
 
 ### Related:

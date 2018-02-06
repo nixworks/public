@@ -15,7 +15,7 @@ International effort to re-ignite moribund talks between Israelis and Palestinia
 
 ### Changes:
 
-1. [Israeli-Palestinian peace process: A summit begins in Paris, France, to restart peace negotiations between Israel and Palestine in an effort to discuss a possible two-state solution to the conflict. However, neither Israel nor Palestine sent representatives to the summit, casting doubts on a breakthrough. ](/news/2017/01/15/israeli-palestinian-peace-process-a-summit-begins-in-paris-france-to-restart-peace-negotiations-between-israel-and-palestine-in-an-effo.md) _2017-08-27 03:47:36 (First version)_
+1. [Israeli-Palestinian peace process: A summit begins in Paris, France, to restart peace negotiations between Israel and Palestine in an effort to discuss a possible two-state solution to the conflict. However, neither Israel nor Palestine sent representatives to the summit, casting doubts on a breakthrough. ](/news/2017/01/15/israeli-palestinian-peace-process-a-summit-begins-in-paris-france-to-restart-peace-negotiations-between-israel-and-palestine-in-an-effo.md) _2018-02-06 13:49:30 (First version)_
 1. [A summit begins in Paris, France, to restart peace negotiations between Israel and Palestine in an effort to discuss a possible two-state solution to the conflict. However, neither Israel nor Palestine sent representatives to the summit, casting doubts on a breakthrough. ](/news/2017/01/15/a-summit-begins-in-paris-france-to-restart-peace-negotiations-between-israel-and-palestine-in-an-effort-to-discuss-a-possible-two-state-so.md) _(Current version)_
 
 ### Related:

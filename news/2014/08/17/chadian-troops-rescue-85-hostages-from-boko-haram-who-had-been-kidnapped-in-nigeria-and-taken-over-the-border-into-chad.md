@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/08/17/chadian-troops-rescue-85-hostages-from-boko-har
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/islamist-insurgency-in-nigeria-pchadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-borde.md) _2017-08-25 03:40:51 (First version)_
-2. [Islamist insurgency in Nigeria:: Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/islamist-insurgency-in-nigeria-chadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-bord.md) _2017-08-27 03:41:09 (Update)_
+1. [Islamist insurgency in Nigeria:Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/islamist-insurgency-in-nigeria-pchadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-borde.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/islamist-insurgency-in-nigeria-chadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-bord.md) _2018-02-06 13:49:26 (Update)_
 2. [Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/chadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-border-into-chad.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Although the consitutionality of their proposal is questionable, Senate Republic
 
 ### Changes:
 
-1. [2011 Wisconsin budget protests: The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/2011-wisconsin-budget-protests-the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md) _2017-08-27 03:32:32 (First version)_
+1. [2011 Wisconsin budget protests: The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/2011-wisconsin-budget-protests-the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md) _2018-02-06 13:49:22 (First version)_
 1. [The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md) _(Current version)_
 
 ### Related:

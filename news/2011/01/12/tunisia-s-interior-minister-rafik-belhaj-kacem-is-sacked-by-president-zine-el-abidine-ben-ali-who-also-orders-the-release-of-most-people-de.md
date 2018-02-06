@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-
 
 ### Changes:
 
-1. [2010-2011 Tunisian protests:Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/2010a2011-tunisian-protests-ptunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-order.md) _2017-08-25 03:31:44 (First version)_
-2. [2010-2011 Tunisian protests:: Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/2010-2011-tunisian-protests-tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orde.md) _2017-08-27 03:31:53 (Update)_
+1. [2010-2011 Tunisian protests:Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/2010a2011-tunisian-protests-ptunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-order.md) _2018-02-06 13:49:21 (First version)_
+2. [2010-2011 Tunisian protests:: Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/2010-2011-tunisian-protests-tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orde.md) _2018-02-06 13:49:21 (Update)_
 2. [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md) _(Current version)_
 
 ### Related:

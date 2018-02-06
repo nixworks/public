@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hydera
 
 ### Changes:
 
-1. [ 25 August 2007 Hyderabad bombings: Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/25-august-2007-hyderabad-bombings-seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _2017-08-27 03:20:41 (First version)_
+1. [ 25 August 2007 Hyderabad bombings: Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/25-august-2007-hyderabad-bombings-seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _2018-02-06 13:49:18 (First version)_
 1. [ Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _(Current version)_
 
 ### Related:

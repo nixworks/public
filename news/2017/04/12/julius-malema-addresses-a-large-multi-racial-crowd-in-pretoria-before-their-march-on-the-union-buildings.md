@@ -16,7 +16,7 @@ PRETORIA, April 12 (ANA) – Economic Freedom Fighters (EFF) leader Julius Malem
 
 ### Changes:
 
-1. [Protests in South Africa: Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. ](/news/2017/04/12/protests-in-south-africa-julius-malema-addresses-a-large-multi-racial-crowd-in-pretoria-before-their-march-on-the-union-buildings.md) _2017-08-27 03:48:08 (First version)_
+1. [Protests in South Africa: Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. ](/news/2017/04/12/protests-in-south-africa-julius-malema-addresses-a-large-multi-racial-crowd-in-pretoria-before-their-march-on-the-union-buildings.md) _2018-02-06 13:49:30 (First version)_
 1. [Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. ](/news/2017/04/12/julius-malema-addresses-a-large-multi-racial-crowd-in-pretoria-before-their-march-on-the-union-buildings.md) _(Current version)_
 
 ### Related:

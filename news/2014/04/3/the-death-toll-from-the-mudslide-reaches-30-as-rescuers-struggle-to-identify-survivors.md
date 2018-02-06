@@ -16,6 +16,6 @@ The number of dead in a mudslide that hit the north-western US state of Washingt
 
 ### Changes:
 
-1. [Oso, Washington mudslide:The death toll from the mudslide reaches 30 as rescuers struggle to identify survivors. ](/news/2014/04/3/oso-washington-mudslide-pthe-death-toll-from-the-mudslide-reaches-30-as-rescuers-struggle-to-identify-survivors.md) _2017-08-25 03:40:15 (First version)_
-2. [Oso, Washington mudslide:: The death toll from the mudslide reaches 30 as rescuers struggle to identify survivors. ](/news/2014/04/3/oso-washington-mudslide-the-death-toll-from-the-mudslide-reaches-30-as-rescuers-struggle-to-identify-survivors.md) _2017-08-27 03:40:33 (Update)_
+1. [Oso, Washington mudslide:: The death toll from the mudslide reaches 30 as rescuers struggle to identify survivors. ](/news/2014/04/3/oso-washington-mudslide-the-death-toll-from-the-mudslide-reaches-30-as-rescuers-struggle-to-identify-survivors.md) _2018-02-06 13:49:26 (First version)_
+2. [Oso, Washington mudslide:The death toll from the mudslide reaches 30 as rescuers struggle to identify survivors. ](/news/2014/04/3/oso-washington-mudslide-pthe-death-toll-from-the-mudslide-reaches-30-as-rescuers-struggle-to-identify-survivors.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll from the mudslide reaches 30 as rescuers struggle to identify survivors. ](/news/2014/04/3/the-death-toll-from-the-mudslide-reaches-30-as-rescuers-struggle-to-identify-survivors.md) _(Current version)_

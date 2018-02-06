@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/21/the-united-states-department-of-justice-announc
 
 ### Changes:
 
-1. [Death of Freddie Gray: The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/death-of-freddie-gray-the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-cu.md) _2017-08-27 03:42:13 (First version)_
+1. [Death of Freddie Gray: The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/death-of-freddie-gray-the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-cu.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-custody-in-the-city-of-ba.md) _(Current version)_
 
 ### Related:

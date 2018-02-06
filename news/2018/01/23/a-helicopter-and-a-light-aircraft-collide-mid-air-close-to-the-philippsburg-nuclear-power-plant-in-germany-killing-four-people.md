@@ -16,7 +16,7 @@ A mid-air collision between a small airplane and a helicopter in southern German
 
 ### Changes:
 
-1. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, resulting in four casualities. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-resulting-in-four-casualities.md) _2018-01-24 00:30:08 (First version)_
+1. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, resulting in four casualities. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-resulting-in-four-casualities.md) _2018-02-06 13:49:31 (First version)_
 1. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _(Current version)_
 
 ### Related:

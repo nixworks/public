@@ -16,7 +16,7 @@ Taliban bombers attack an Afghan police convoy outside Kabul, killing at least 3
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): An Afghan National Security Forces convoy outside Kabul is attacked in a coordinated ambush including suicide bombers and heavy machine guns resulting in over 40 deaths. ](/news/2016/06/30/war-in-afghanistan-2015-present-an-afghan-national-security-forces-convoy-outside-kabul-is-attacked-in-a-coordinated-ambush-including-s.md) _2017-08-27 03:46:22 (First version)_
+1. [War in Afghanistan (2015-present): An Afghan National Security Forces convoy outside Kabul is attacked in a coordinated ambush including suicide bombers and heavy machine guns resulting in over 40 deaths. ](/news/2016/06/30/war-in-afghanistan-2015-present-an-afghan-national-security-forces-convoy-outside-kabul-is-attacked-in-a-coordinated-ambush-including-s.md) _2018-02-06 13:49:29 (First version)_
 1. [An Afghan National Security Forces convoy outside Kabul is attacked in a coordinated ambush including suicide bombers and heavy machine guns resulting in over 40 deaths. ](/news/2016/06/30/an-afghan-national-security-forces-convoy-outside-kabul-is-attacked-in-a-coordinated-ambush-including-suicide-bombers-and-heavy-machine-guns.md) _(Current version)_
 
 ### Related:

@@ -16,6 +16,6 @@ Formats: [HTML](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makue
 
 ### Changes:
 
-1. [27 people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/27-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md) _2017-04-26 07:26:55 (First version)_
-2. [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobi-mombasa-road.md) _2017-08-27 03:48:14 (Update)_
+1. [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobi-mombasa-road.md) _2018-02-06 13:49:30 (First version)_
+2. [27 people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/27-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md) _2018-02-06 13:49:30 (Update)_
 2. [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md) _(Current version)_

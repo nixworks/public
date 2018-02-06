@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/12/chemical-weapons-are-used-again-in-syria-this-t
 
 ### Changes:
 
-1. [Syrian Civil War:Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/syrian-civil-war-pchemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md) _2017-08-25 03:40:17 (First version)_
-2. [Syrian Civil War:: Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/syrian-civil-war-chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md) _2017-08-27 03:40:34 (Update)_
+1. [Syrian Civil War:Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/syrian-civil-war-pchemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/syrian-civil-war-chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md) _2018-02-06 13:49:26 (Update)_
 2. [Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md) _(Current version)_
 
 ### Related:

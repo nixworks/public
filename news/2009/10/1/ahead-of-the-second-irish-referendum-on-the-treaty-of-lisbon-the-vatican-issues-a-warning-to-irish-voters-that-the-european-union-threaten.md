@@ -17,8 +17,8 @@ The Vatican has made an unexpected last-minute intervention on the eve of Irelan
 
 ### Changes:
 
-1. [ Treaty of Lisbon: Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/treaty-of-lisbon-p-ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-euro.md) _2017-08-25 03:25:55 (First version)_
-2. [ Treaty of Lisbon:: Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/treaty-of-lisbon-ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-euro.md) _2017-08-27 03:25:49 (Update)_
+1. [ Treaty of Lisbon: Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/treaty-of-lisbon-p-ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-euro.md) _2018-02-06 13:49:19 (First version)_
+2. [ Treaty of Lisbon:: Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/treaty-of-lisbon-ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-euro.md) _2018-02-06 13:49:19 (Update)_
 2. [ Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-european-union-threaten.md) _(Current version)_
 
 ### Related:

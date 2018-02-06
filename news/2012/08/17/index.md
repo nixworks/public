@@ -11,9 +11,9 @@ State media say rebels forced out of areas near Aleppo airport as the UN chooses
 ### [Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md)
 Two US soldiers are shot dead by a local policeman in Afghanistan, officials for the international Nato-led force in the country say.
 
-##### Turkish
+##### Turkey
 ### [Turkey urges its citizens not to travel to Lebanon after the kidnapping of two Turkish nationals. ](/news/2012/08/17/turkey-urges-its-citizens-not-to-travel-to-lebanon-after-the-kidnapping-of-two-turkish-nationals.md)
-_Context: Turkish, Lebanon_
+_Context: Turkey, Lebanon_
 
 ##### pirate
 ### [More than 60 fishermen are rescued after being abducted by pirates in the Bay of Bengal. ](/news/2012/08/17/more-than-60-fishermen-are-rescued-after-being-abducted-by-pirates-in-the-bay-of-bengal.md)
@@ -25,7 +25,7 @@ _Context: Ali Bongo Ondimba, Gabon_
 
 ##### Insurgency in the North Caucasus
 ### [North Caucasus insurgency: 4 police officers are killed in an attack near Grozny, the capital of the Russian North Caucasus republic of Chechnya. ](/news/2012/08/17/north-caucasus-insurgency-4-police-officers-are-killed-in-an-attack-near-grozny-the-capital-of-the-russian-north-caucasus-republic-of-chec.md)
-_Context: Insurgency in the North Caucasus, Russia, Grozny, Chechnya_
+_Context: Russia, Grozny, Insurgency in the North Caucasus, Chechnya_
 
 ##### described
 ### [An unusual spider discovered in 2010 is described as a separate family, the Trogloraptoridae. The single species will be named "Trogloraptor marchingtoni", after Neil Marchington, a deputy sheriff, amateur biologist and local cave explorer who helped with the discovery. ](/news/2012/08/17/an-unusual-spider-discovered-in-2010-is-described-as-a-separate-family-the-trogloraptoridae-the-single-species-will-be-named-trogloraptor.md)
@@ -37,7 +37,7 @@ People are dying in large numbers in a refugee camp in South Sudan, a medical ch
 
 ##### Jang Song-thaek
 ### [Jang Song-thaek, the uncle of North Korean leader Kim Jong-un, meets Chinese president Hu Jintao. ](/news/2012/08/17/jang-song-thaek-the-uncle-of-north-korean-leader-kim-jong-un-meets-chinese-president-hu-jintao.md)
-_Context: Jang Song-thaek, Kim Jong-un, China, Hu Jintao, North Korea_
+_Context: Jang Song-thaek, North Korea, Hu Jintao, Kim Jong-un, China_
 
 ##### Moscow
 ### [A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/a-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and-jails-th.md)
@@ -49,7 +49,7 @@ Police Minister Nathi Mthethwa says more than 30 people were killed in a shootin
 
 ##### Federal Constitutional Court of Germany
 ### [The Federal Constitutional Court of Germany rules that the German constitution allows its military to start operations inside Germany, for the first time since 1945. ](/news/2012/08/17/the-federal-constitutional-court-of-germany-rules-that-the-german-constitution-allows-its-military-to-start-operations-inside-germany-for-t.md)
-_Context: military's, German Constitution, Federal Constitutional Court of Germany_
+_Context: German Constitution, military's, Federal Constitutional Court of Germany_
 
 ## [Previous Day...](/news/2012/08/16/index.md)
 

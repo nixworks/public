@@ -16,7 +16,7 @@ A woman suicide bomber killed at least 31 people and wounded 35 in a crowded mar
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/iraqi-civil-war-2014-present-a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _2017-08-27 03:48:27 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/iraqi-civil-war-2014-present-a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _(Current version)_
 
 ### Related:

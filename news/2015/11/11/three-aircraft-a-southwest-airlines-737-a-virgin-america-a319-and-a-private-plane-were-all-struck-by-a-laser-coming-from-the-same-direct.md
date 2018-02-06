@@ -16,7 +16,7 @@ Three airplanes were hit by a laser coming from the same direction as they were 
 
 ### Changes:
 
-1. [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direc.md) _2017-08-25 03:43:29 (First version)_
+1. [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direc.md) _2018-02-06 13:49:28 (First version)_
 1. [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direct.md) _(Current version)_
 
 ### Related:

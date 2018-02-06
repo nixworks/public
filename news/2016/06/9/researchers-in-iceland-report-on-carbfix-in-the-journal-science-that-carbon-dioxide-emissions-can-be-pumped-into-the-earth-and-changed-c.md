@@ -17,7 +17,7 @@ Scientists and engineers working at a major power plant in Iceland have shown fo
 
 ### Changes:
 
-1. [Researchers in Iceland report on CarbFix, in the journal ''Science'', that carbon dioxide emissions can be pumped into the earth and changed chemically to stone &nbsp;-- significantly faster than expected. ](/news/2016/06/9/researchers-in-iceland-report-on-carbfix-in-the-journal-science-that-carbon-dioxide-emissions-can-be-pumped-into-the-earth-and-changed.md) _2017-08-25 03:45:51 (First version)_
+1. [Researchers in Iceland report on CarbFix, in the journal ''Science'', that carbon dioxide emissions can be pumped into the earth and changed chemically to stone &nbsp;-- significantly faster than expected. ](/news/2016/06/9/researchers-in-iceland-report-on-carbfix-in-the-journal-science-that-carbon-dioxide-emissions-can-be-pumped-into-the-earth-and-changed.md) _2018-02-06 13:49:29 (First version)_
 1. [Researchers in Iceland report on CarbFix, in the journal "Science", that carbon dioxide emissions can be pumped into the earth and changed chemically to stone &nbsp;-- significantly faster than expected. ](/news/2016/06/9/researchers-in-iceland-report-on-carbfix-in-the-journal-science-that-carbon-dioxide-emissions-can-be-pumped-into-the-earth-and-changed-c.md) _(Current version)_
 
 ### Related:

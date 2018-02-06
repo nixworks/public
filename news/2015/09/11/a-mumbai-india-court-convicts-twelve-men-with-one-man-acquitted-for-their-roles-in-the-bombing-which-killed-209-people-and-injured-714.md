@@ -17,7 +17,7 @@ A special court convicts 12 out of 13 men accused of planning bombings on commut
 
 ### Changes:
 
-1. [2006 Mumbai train bombings: A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/2006-mumbai-train-bombings-a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209.md) _2017-08-27 03:43:01 (First version)_
+1. [2006 Mumbai train bombings: A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/2006-mumbai-train-bombings-a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209.md) _2018-02-06 13:49:27 (First version)_
 1. [A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209-people-and-injured-714.md) _(Current version)_
 
 ### Related:

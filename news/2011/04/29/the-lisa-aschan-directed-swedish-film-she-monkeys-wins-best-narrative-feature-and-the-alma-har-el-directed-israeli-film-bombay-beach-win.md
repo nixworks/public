@@ -16,7 +16,7 @@ A Swedish film about two teenage girls whose friendship turns to rivalry wins a 
 
 ### Changes:
 
-1. [The Lisa Aschan-directed Swedish film ''She Monkeys'' wins best narrative feature and the Alma Har'el-directed Israeli film ''Bombay Beach'' wins best documentary prize at New York's Tribeca Film Festival. ](/news/2011/04/29/the-lisa-aschan-directed-swedish-film-she-monkeys-wins-best-narrative-feature-and-the-alma-har-el-directed-israeli-film-bombay-beach.md) _2017-08-25 03:32:55 (First version)_
+1. [The Lisa Aschan-directed Swedish film ''She Monkeys'' wins best narrative feature and the Alma Har'el-directed Israeli film ''Bombay Beach'' wins best documentary prize at New York's Tribeca Film Festival. ](/news/2011/04/29/the-lisa-aschan-directed-swedish-film-she-monkeys-wins-best-narrative-feature-and-the-alma-har-el-directed-israeli-film-bombay-beach.md) _2018-02-06 13:49:22 (First version)_
 1. [The Lisa Aschan-directed Swedish film "She Monkeys" wins best narrative feature and the Alma Har'el-directed Israeli film "Bombay Beach" wins best documentary prize at New York's Tribeca Film Festival. ](/news/2011/04/29/the-lisa-aschan-directed-swedish-film-she-monkeys-wins-best-narrative-feature-and-the-alma-har-el-directed-israeli-film-bombay-beach-win.md) _(Current version)_
 
 ### Related:

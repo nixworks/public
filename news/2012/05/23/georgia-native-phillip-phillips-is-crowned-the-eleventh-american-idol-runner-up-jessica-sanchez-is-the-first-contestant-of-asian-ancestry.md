@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-
 
 ### Changes:
 
-1. [Georgia-native Phillip Phillips is crowned the eleventh ''American Idol''. Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancest.md) _2017-08-25 03:35:45 (First version)_
+1. [Georgia-native Phillip Phillips is crowned the eleventh ''American Idol''. Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancest.md) _2018-02-06 13:49:23 (First version)_
 1. [Georgia-native Phillip Phillips is crowned the eleventh "American Idol". Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancestry.md) _(Current version)_
 
 ### Related:

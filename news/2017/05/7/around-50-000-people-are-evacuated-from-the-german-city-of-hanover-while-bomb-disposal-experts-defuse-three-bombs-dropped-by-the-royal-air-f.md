@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-germ
 
 ### Changes:
 
-1. [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts diffuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-diffuse-three-bombs-dropped-by-the-royal-air.md) _2017-05-07 16:30:06 (First version)_
+1. [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts diffuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-diffuse-three-bombs-dropped-by-the-royal-air.md) _2018-02-06 13:49:30 (First version)_
 1. [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts defuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-defuse-three-bombs-dropped-by-the-royal-air-f.md) _(Current version)_
 
 ### Related:

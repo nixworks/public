@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-a
 
 ### Changes:
 
-1. [ Conflict in Iraq: Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/conflict-in-iraq-p-three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md) _2017-08-25 03:16:40 (First version)_
-2. [ Conflict in Iraq:: Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/conflict-in-iraq-three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md) _2017-08-27 03:16:42 (Update)_
+1. [ Conflict in Iraq:: Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/conflict-in-iraq-three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq: Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/conflict-in-iraq-p-three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md) _2018-02-06 13:49:16 (Update)_
 2. [ Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md) _(Current version)_
 
 ### Related:

@@ -19,6 +19,6 @@ Formats: [HTML](/news/2014/07/24/ukrainian-government-forces-recapture-the-city-
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/2014-pro-russian-unrest-in-ukraine-pukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md) _2017-08-25 03:40:44 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/2014-pro-russian-unrest-in-ukraine-ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md) _2017-08-27 03:41:03 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/2014-pro-russian-unrest-in-ukraine-ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/2014-pro-russian-unrest-in-ukraine-pukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md) _(Current version)_

@@ -15,7 +15,7 @@ New deputy leader had previously vowed to prosecute ex-ruler Yahya Jammeh for al
 
 ### Changes:
 
-1. [2016-2017 Gambian constitutional crisis: Gambian President Adama Barrow names Fatoumata Tambajang as Vice-President of the Gambia. ](/news/2017/01/24/2016-2017-gambian-constitutional-crisis-gambian-president-adama-barrow-names-fatoumata-tambajang-as-vice-president-of-the-gambia.md) _2017-08-27 03:47:40 (First version)_
+1. [2016-2017 Gambian constitutional crisis: Gambian President Adama Barrow names Fatoumata Tambajang as Vice-President of the Gambia. ](/news/2017/01/24/2016-2017-gambian-constitutional-crisis-gambian-president-adama-barrow-names-fatoumata-tambajang-as-vice-president-of-the-gambia.md) _2018-02-06 13:49:30 (First version)_
 1. [Gambian President Adama Barrow names Fatoumata Tambajang as Vice-President of the Gambia. ](/news/2017/01/24/gambian-president-adama-barrow-names-fatoumata-tambajang-as-vice-president-of-the-gambia.md) _(Current version)_
 
 ### Related:

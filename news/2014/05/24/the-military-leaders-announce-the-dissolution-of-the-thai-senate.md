@@ -16,8 +16,8 @@ Military says it is assuming all political power, a day after arresting former p
 
 ### Changes:
 
-1. [2014 Thai coup d'etat:The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-pthe-military-leaders-announce-the-dissolution-of-the-thai-senate.md) _2017-08-25 03:40:27 (First version)_
-2. [2014 Thai coup d'etat:: The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-military-leaders-announce-the-dissolution-of-the-thai-senate.md) _2017-08-27 03:40:44 (Update)_
+1. [2014 Thai coup d'etat:: The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-military-leaders-announce-the-dissolution-of-the-thai-senate.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Thai coup d'etat:The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-pthe-military-leaders-announce-the-dissolution-of-the-thai-senate.md) _2018-02-06 13:49:26 (Update)_
 2. [The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/the-military-leaders-announce-the-dissolution-of-the-thai-senate.md) _(Current version)_
 
 ### Related:

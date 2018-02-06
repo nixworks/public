@@ -15,7 +15,7 @@ KABUL, Afghanistan (AP) — Norway&#039;s foreign minister says his government h
 
 ### Changes:
 
-1. [War in Afghanistan: Norway Foreign Minister Borge Brende says his government is doubling humanitarian aid to Afghanistan to around 200 million kroner (US$24 million). ](/news/2016/05/21/war-in-afghanistan-norway-foreign-minister-ba-rge-brende-says-his-government-is-doubling-humanitarian-aid-to-afghanistan-to-around-200-mill.md) _2017-08-27 03:46:05 (First version)_
+1. [War in Afghanistan: Norway Foreign Minister Borge Brende says his government is doubling humanitarian aid to Afghanistan to around 200 million kroner (US$24 million). ](/news/2016/05/21/war-in-afghanistan-norway-foreign-minister-ba-rge-brende-says-his-government-is-doubling-humanitarian-aid-to-afghanistan-to-around-200-mill.md) _2018-02-06 13:49:29 (First version)_
 1. [ Norway Foreign Minister Borge Brende says his government is doubling humanitarian aid to Afghanistan to around 200 million kroner (US$24 million). ](/news/2016/05/21/norway-foreign-minister-ba-rge-brende-says-his-government-is-doubling-humanitarian-aid-to-afghanistan-to-around-200-million-kroner-us-24-m.md) _(Current version)_
 
 ### Related:

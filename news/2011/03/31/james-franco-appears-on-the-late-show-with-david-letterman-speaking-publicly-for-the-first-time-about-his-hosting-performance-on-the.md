@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/31/james-franco-appears-on-the-late-show-with-davi
 
 ### Changes:
 
-1. ['''James Franco''' appears on the ''Late Show with David Letterman'', speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on.md) _2017-08-25 03:32:42 (First version)_
+1. ['''James Franco''' appears on the ''Late Show with David Letterman'', speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on.md) _2018-02-06 13:49:22 (First version)_
 1. ["'James Franco"' appears on the "Late Show with David Letterman", speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on-the.md) _(Current version)_
 
 ### Related:

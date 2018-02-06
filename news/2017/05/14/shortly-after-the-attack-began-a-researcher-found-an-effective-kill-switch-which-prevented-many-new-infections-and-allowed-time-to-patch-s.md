@@ -18,7 +18,7 @@ As the world readies to open for business on Monday, companies and governments a
 
 ### Changes:
 
-1. [WannaCry ransomware attack: Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/wannacry-ransomware-attack-shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections.md) _2017-08-27 03:48:20 (First version)_
+1. [WannaCry ransomware attack: Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/wannacry-ransomware-attack-shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections.md) _2018-02-06 13:49:30 (First version)_
 1. [Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections-and-allowed-time-to-patch-s.md) _(Current version)_
 
 ### Related:

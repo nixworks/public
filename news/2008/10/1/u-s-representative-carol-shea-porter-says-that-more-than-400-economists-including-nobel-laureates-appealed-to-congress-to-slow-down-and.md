@@ -18,8 +18,8 @@ Formats: [HTML](/news/2008/10/1/u-s-representative-carol-shea-porter-says-that-m
 
 ### Changes:
 
-1. [ Subprime mortgage crisis: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-p-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md) _2017-08-25 03:22:58 (First version)_
-2. [ Subprime mortgage crisis:: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md) _2017-08-27 03:22:51 (Update)_
+1. [ Subprime mortgage crisis:: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md) _2018-02-06 13:49:18 (First version)_
+2. [ Subprime mortgage crisis: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-p-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md) _2018-02-06 13:49:18 (Update)_
 2. [ U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-to-congress-to-slow-down-and.md) _(Current version)_
 
 ### Related:

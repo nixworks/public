@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/30/index.html)  [JSON](2011/09/30/index.json)  [XML](201
 
 ##### Al Qaeda in the Arabian Peninsula
 ### [Al Qaeda in the Arabian Peninsula leader and U.S. citizen Anwar al-Awlaki is reported killed in Yemen. ](/news/2011/09/30/al-qaeda-in-the-arabian-peninsula-leader-and-u-s-citizen-anwar-al-awlaki-is-reported-killed-in-yemen.md)
-_Context: Anwar al-Awlaki, Yemen, Al Qaeda in the Arabian Peninsula, U.S. citizen_
+_Context: Al Qaeda in the Arabian Peninsula, Anwar al-Awlaki, U.S. citizen, Yemen_
 
 ##### Heather Shanholtz
 ### [Heather Shanholtz received an award for "Best Swimwear Model" for 2011 at the Women in the Arts Awards. ](/news/2011/09/30/heather-shanholtz-received-an-award-for-best-swimwear-model-for-2011-at-the-women-in-the-arts-awards.md)
@@ -21,7 +21,7 @@ _Context: Supreme Court of Canada, Insite_
 
 ##### Thein Sein
 ### [Burma's President Thein Sein halts controversial Myitsone Dam project after a rare public outcry. ](/news/2011/09/30/burma-s-president-thein-sein-halts-controversial-myitsone-dam-project-after-a-rare-public-outcry.md)
-_Context: Myitsone Dam, Thein Sein_
+_Context: Thein Sein, Myitsone Dam_
 
 ## [Previous Day...](/news/2011/09/29/index.md)
 

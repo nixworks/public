@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pl
 
 ### Changes:
 
-1. [Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md) _2017-08-25 03:47:03 (First version)_
-2. [November 2016 Jakarta protests: Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/november-2016-jakarta-protests-jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-se.md) _2017-08-27 03:47:26 (Update)_
+1. [November 2016 Jakarta protests: Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/november-2016-jakarta-protests-jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-se.md) _2018-02-06 13:49:29 (First version)_
+2. [Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md) _2018-02-06 13:49:29 (Update)_
 2. [Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-ahok.md) _(Current version)_
 
 ### Related:

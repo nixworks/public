@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/21/2010a2011-ivorian-crisis-thousands-of-supporter
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis: Thousands of supporters of incumbent Cote d'Ivoire President Laurent Gbagbo gather to enlist in the army. ](/news/2011/03/21/2010-2011-ivorian-crisis-thousands-of-supporters-of-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-gather-to-enlist-in-the-army.md) _2017-08-27 03:32:44 (First version)_
+1. [2010-2011 Ivorian crisis: Thousands of supporters of incumbent Cote d'Ivoire President Laurent Gbagbo gather to enlist in the army. ](/news/2011/03/21/2010-2011-ivorian-crisis-thousands-of-supporters-of-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-gather-to-enlist-in-the-army.md) _2018-02-06 13:49:22 (First version)_
 1. [2010-2011 Ivorian crisis: Thousands of supporters of incumbent Cote d'Ivoire President Laurent Gbagbo gather to enlist in the army. ](/news/2011/03/21/2010a2011-ivorian-crisis-thousands-of-supporters-of-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-gather-to-enlist-in-the-army.md) _(Current version)_
 
 ### Related:

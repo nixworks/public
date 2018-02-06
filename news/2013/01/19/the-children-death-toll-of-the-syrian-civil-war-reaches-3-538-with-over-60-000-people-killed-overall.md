@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/19/the-children-death-toll-of-the-syrian-civil-war
 
 ### Changes:
 
-1. [Syrian civil war:The children death toll of the Syrian civil war reaches 3,538, with over 60,000 people killed overall. ](/news/2013/01/19/syrian-civil-war-pthe-children-death-toll-of-the-syrian-civil-war-reaches-3-538-with-over-60-000-people-killed-overall.md) _2017-08-25 03:37:17 (First version)_
-2. [Syrian civil war:: The children death toll of the Syrian civil war reaches 3,538, with over 60,000 people killed overall. ](/news/2013/01/19/syrian-civil-war-the-children-death-toll-of-the-syrian-civil-war-reaches-3-538-with-over-60-000-people-killed-overall.md) _2017-08-27 03:37:27 (Update)_
+1. [Syrian civil war:: The children death toll of the Syrian civil war reaches 3,538, with over 60,000 people killed overall. ](/news/2013/01/19/syrian-civil-war-the-children-death-toll-of-the-syrian-civil-war-reaches-3-538-with-over-60-000-people-killed-overall.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The children death toll of the Syrian civil war reaches 3,538, with over 60,000 people killed overall. ](/news/2013/01/19/syrian-civil-war-pthe-children-death-toll-of-the-syrian-civil-war-reaches-3-538-with-over-60-000-people-killed-overall.md) _2018-02-06 13:49:24 (Update)_
 2. [The children death toll of the Syrian civil war reaches 3,538, with over 60,000 people killed overall. ](/news/2013/01/19/the-children-death-toll-of-the-syrian-civil-war-reaches-3-538-with-over-60-000-people-killed-overall.md) _(Current version)_
 
 ### Related:

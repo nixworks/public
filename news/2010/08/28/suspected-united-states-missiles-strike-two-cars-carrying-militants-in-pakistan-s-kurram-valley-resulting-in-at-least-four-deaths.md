@@ -19,7 +19,7 @@ Suspected U.S. missiles struck two vehicles carrying militants in northwest Paki
 
 ### Changes:
 
-1. [Pakistan: Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/pakistan-suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md) _2017-08-27 03:29:47 (First version)_
+1. [Pakistan: Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/pakistan-suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md) _2018-02-06 13:49:20 (First version)_
 1. [Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md) _(Current version)_
 
 ### Related:

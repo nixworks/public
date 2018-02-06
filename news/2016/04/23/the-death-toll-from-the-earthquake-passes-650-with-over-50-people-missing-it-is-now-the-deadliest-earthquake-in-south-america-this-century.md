@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2016 Ecuador earthquake: The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/2016-ecuador-earthquake-the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-so.md) _2017-08-27 03:45:48 (First version)_
+1. [2016 Ecuador earthquake: The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/2016-ecuador-earthquake-the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-so.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.md) _(Current version)_
 
 ### Related:

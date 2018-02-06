@@ -17,8 +17,8 @@ Somali government troops backed by Ethiopian tanks and MiG fighter jets have cap
 
 ### Changes:
 
-1. [ War in Somalia: The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-p-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md) _2017-08-25 03:18:57 (First version)_
-2. [ War in Somalia:: The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md) _2017-08-27 03:18:53 (Update)_
+1. [ War in Somalia:: The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Somalia: The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-p-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md) _2018-02-06 13:49:17 (Update)_
 2. [ The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the-kenyan-border.md) _(Current version)_
 
 ### Related:

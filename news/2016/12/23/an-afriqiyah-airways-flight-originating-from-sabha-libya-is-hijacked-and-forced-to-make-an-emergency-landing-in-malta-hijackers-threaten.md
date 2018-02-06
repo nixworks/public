@@ -16,7 +16,7 @@ Two hijackers diverted a Libyan commercial plane to Malta on Friday and threaten
 
 ### Changes:
 
-1. [Afriqiyah Airways Flight 209: An Afriqiyah Airways flight originating from Sabha, Libya, is hijacked and forced to make an emergency landing in Malta. Hijackers threaten to blow up the aircraft with grenades, but the standoff ends peacefully with all hostages released and both hijackers surrendering. ](/news/2016/12/23/afriqiyah-airways-flight-209-an-afriqiyah-airways-flight-originating-from-sabha-libya-is-hijacked-and-forced-to-make-an-emergency-landing.md) _2017-08-27 03:47:30 (First version)_
+1. [Afriqiyah Airways Flight 209: An Afriqiyah Airways flight originating from Sabha, Libya, is hijacked and forced to make an emergency landing in Malta. Hijackers threaten to blow up the aircraft with grenades, but the standoff ends peacefully with all hostages released and both hijackers surrendering. ](/news/2016/12/23/afriqiyah-airways-flight-209-an-afriqiyah-airways-flight-originating-from-sabha-libya-is-hijacked-and-forced-to-make-an-emergency-landing.md) _2018-02-06 13:49:30 (First version)_
 1. [An Afriqiyah Airways flight originating from Sabha, Libya, is hijacked and forced to make an emergency landing in Malta. Hijackers threaten to blow up the aircraft with grenades, but the standoff ends peacefully with all hostages released and both hijackers surrendering. ](/news/2016/12/23/an-afriqiyah-airways-flight-originating-from-sabha-libya-is-hijacked-and-forced-to-make-an-emergency-landing-in-malta-hijackers-threaten.md) _(Current version)_
 
 ### Related:

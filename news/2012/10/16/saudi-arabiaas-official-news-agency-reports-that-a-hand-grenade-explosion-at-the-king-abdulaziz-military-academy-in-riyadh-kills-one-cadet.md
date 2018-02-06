@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/16/saudi-arabiaas-official-news-agency-reports-tha
 
 ### Changes:
 
-1. [Saudi Arabia-s official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabia-s-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md) _2017-08-27 03:36:52 (First version)_
+1. [Saudi Arabia-s official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabia-s-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md) _2018-02-06 13:49:24 (First version)_
 1. [Saudi Arabia's official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabiaas-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md) _(Current version)_
 
 ### Related:

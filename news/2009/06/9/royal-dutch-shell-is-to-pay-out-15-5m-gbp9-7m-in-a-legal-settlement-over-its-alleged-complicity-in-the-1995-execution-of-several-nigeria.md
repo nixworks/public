@@ -17,7 +17,7 @@ Royal Dutch Shell has agreed to a $15.5m payout to settle a lawsuit alleging com
 
 ### Changes:
 
-1. [ Royal Dutch Shell is to pay out $15.5m (9.7m) in a legal settlement over its alleged complicity in the 1995 execution of several Nigerian environmental activists, including author Ken Saro-Wiwa, in Nigeria in 1995. ](/news/2009/06/9/royal-dutch-shell-is-to-pay-out-15-5m-ps9-7m-in-a-legal-settlement-over-its-alleged-complicity-in-the-1995-execution-of-several-nigerian.md) _2017-08-25 03:24:49 (First version)_
+1. [ Royal Dutch Shell is to pay out $15.5m (9.7m) in a legal settlement over its alleged complicity in the 1995 execution of several Nigerian environmental activists, including author Ken Saro-Wiwa, in Nigeria in 1995. ](/news/2009/06/9/royal-dutch-shell-is-to-pay-out-15-5m-ps9-7m-in-a-legal-settlement-over-its-alleged-complicity-in-the-1995-execution-of-several-nigerian.md) _2018-02-06 13:49:19 (First version)_
 1. [ Royal Dutch Shell is to pay out $15.5m (GBP9.7m) in a legal settlement over its alleged complicity in the 1995 execution of several Nigerian environmental activists, including author Ken Saro-Wiwa, in Nigeria in 1995. ](/news/2009/06/9/royal-dutch-shell-is-to-pay-out-15-5m-gbp9-7m-in-a-legal-settlement-over-its-alleged-complicity-in-the-1995-execution-of-several-nigeria.md) _(Current version)_
 
 ### Related:

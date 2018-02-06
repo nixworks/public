@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/10/29/syrian-security-forces-attack-the-city-of-homs-
 
 ### Changes:
 
-1. [2011 Syrian uprising:Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/2011-syrian-uprising-psyrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _2017-08-25 03:34:24 (First version)_
-2. [2011 Syrian uprising:: Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/2011-syrian-uprising-syrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _2017-08-27 03:34:33 (Update)_
+1. [2011 Syrian uprising:: Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/2011-syrian-uprising-syrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Syrian uprising:Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/2011-syrian-uprising-psyrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/syrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md) _(Current version)_
 
 ### Related:

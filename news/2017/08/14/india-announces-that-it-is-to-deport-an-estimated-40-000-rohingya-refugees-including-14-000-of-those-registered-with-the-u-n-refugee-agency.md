@@ -16,7 +16,7 @@ All of an estimated 40,000 Rohingya Muslims living in India are illegal immigran
 
 ### Changes:
 
-1. [2016-17 Rohingya persecution in Myanmar: India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/2016-17-rohingya-persecution-in-myanmar-india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-th.md) _2017-08-27 03:48:48 (First version)_
+1. [2016-17 Rohingya persecution in Myanmar: India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/2016-17-rohingya-persecution-in-myanmar-india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-th.md) _2018-02-06 13:49:31 (First version)_
 1. [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md) _(Current version)_
 
 ### Related:

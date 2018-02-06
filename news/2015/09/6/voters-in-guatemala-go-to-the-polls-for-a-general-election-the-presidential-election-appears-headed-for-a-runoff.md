@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/6/voters-in-guatemala-go-to-the-polls-for-a-genera
 
 ### Changes:
 
-1. [Guatemalan general election, 2015: Voters in Guatemala go to the polls for a general election. The presidential election appears headed for a runoff. ](/news/2015/09/6/guatemalan-general-election-2015-voters-in-guatemala-go-to-the-polls-for-a-general-election-the-presidential-election-appears-headed-for.md) _2017-08-27 03:42:58 (First version)_
+1. [Guatemalan general election, 2015: Voters in Guatemala go to the polls for a general election. The presidential election appears headed for a runoff. ](/news/2015/09/6/guatemalan-general-election-2015-voters-in-guatemala-go-to-the-polls-for-a-general-election-the-presidential-election-appears-headed-for.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Guatemala go to the polls for a general election. The presidential election appears headed for a runoff. ](/news/2015/09/6/voters-in-guatemala-go-to-the-polls-for-a-general-election-the-presidential-election-appears-headed-for-a-runoff.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/31/conservationists-report-in-oryx-the-internation
 
 ### Changes:
 
-1. [Conservationists report in ''Oryx, the International Journal of Conservation'' that the Sumatran Rhino is now considered extinct in the wild in Malaysia. No new wild animals have been spotted since 2007, elsewhere fewer than 100 Rhinos remain in the wild. ](/news/2015/08/31/conservationists-report-in-oryx-the-international-journal-of-conservation-that-the-sumatran-rhino-is-now-considered-extinct-in-the-wild.md) _2017-08-25 03:42:39 (First version)_
+1. [Conservationists report in ''Oryx, the International Journal of Conservation'' that the Sumatran Rhino is now considered extinct in the wild in Malaysia. No new wild animals have been spotted since 2007, elsewhere fewer than 100 Rhinos remain in the wild. ](/news/2015/08/31/conservationists-report-in-oryx-the-international-journal-of-conservation-that-the-sumatran-rhino-is-now-considered-extinct-in-the-wild.md) _2018-02-06 13:49:27 (First version)_
 1. [Conservationists report in "Oryx, the International Journal of Conservation" that the Sumatran Rhino is now considered extinct in the wild in Malaysia. No new wild animals have been spotted since 2007, elsewhere fewer than 100 Rhinos remain in the wild. ](/news/2015/08/31/conservationists-report-in-oryx-the-international-journal-of-conservation-that-the-sumatran-rhino-is-now-considered-extinct-in-the-wild-i.md) _(Current version)_
 
 ### Related:

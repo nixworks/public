@@ -16,7 +16,7 @@ The union representing United Parcel Service pilots voted overwhelmingly to stri
 
 ### Changes:
 
-1. [The United Parcel Service pilots- union authorizes its executive board to call a strike at the board-s discretion as contract talks slog into a fifth year. This is in the wake of competitor FedEx pilots' approval of a new six-year contract. ](/news/2015/10/25/the-united-parcel-service-pilots-union-authorizes-its-executive-board-to-call-a-strike-at-the-board-s-discretion-as-contract-talks-slog.md) _2017-08-27 03:43:30 (First version)_
+1. [The United Parcel Service pilots- union authorizes its executive board to call a strike at the board-s discretion as contract talks slog into a fifth year. This is in the wake of competitor FedEx pilots' approval of a new six-year contract. ](/news/2015/10/25/the-united-parcel-service-pilots-union-authorizes-its-executive-board-to-call-a-strike-at-the-board-s-discretion-as-contract-talks-slog.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Parcel Service pilots' union authorizes its executive board to call a strike at the board's discretion as contract talks slog into a fifth year. This is in the wake of competitor FedEx pilots' approval of a new six-year contract. ](/news/2015/10/25/the-united-parcel-service-pilotsa-union-authorizes-its-executive-board-to-call-a-strike-at-the-boardas-discretion-as-contract-talks-slog.md) _(Current version)_
 
 ### Related:

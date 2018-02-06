@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/yemeni-civil-war-2015-present-al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md) _2017-08-27 03:44:58 (First version)_
+1. [Yemeni Civil War (2015-present): Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/yemeni-civil-war-2015-present-al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md) _2018-02-06 13:49:28 (First version)_
 1. [Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md) _(Current version)_
 
 ### Related:

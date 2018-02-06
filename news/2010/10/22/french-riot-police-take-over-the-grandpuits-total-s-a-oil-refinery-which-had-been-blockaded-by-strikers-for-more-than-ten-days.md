@@ -18,8 +18,8 @@ Clashes break out outside a major oil refinery in France after riot police move 
 
 ### Changes:
 
-1. [2010 strikes in France:French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-pfrench-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-th.md) _2017-08-25 03:30:37 (First version)_
-2. [2010 strikes in France:: French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-t.md) _2017-08-27 03:30:43 (Update)_
+1. [2010 strikes in France:French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-pfrench-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-th.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 strikes in France:: French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-t.md) _2018-02-06 13:49:20 (Update)_
 2. [French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-than-ten-days.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A 19-year-old individual was shot and killed by police in the northern Quebec vi
 
 ### Changes:
 
-1. [Crime in Canada: Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/crime-in-canada-quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-p.md) _2017-08-27 03:48:27 (First version)_
+1. [Crime in Canada: Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/crime-in-canada-quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-p.md) _2018-02-06 13:49:30 (First version)_
 1. [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ MALI-VIOLENCE/ (URGENT):Mali declares 3-month state of emergency as Islamist vio
 
 ### Changes:
 
-1. [Northern Mali conflict: Following the Nampala attack, the government of Mali declares a three-day mourning period for the 17 soldiers killed in the attack, as well as a state of emergency for three months across the country. ](/news/2016/07/20/northern-mali-conflict-following-the-nampala-attack-the-government-of-mali-declares-a-three-day-mourning-period-for-the-17-soldiers-killed.md) _2017-08-27 03:46:31 (First version)_
+1. [Northern Mali conflict: Following the Nampala attack, the government of Mali declares a three-day mourning period for the 17 soldiers killed in the attack, as well as a state of emergency for three months across the country. ](/news/2016/07/20/northern-mali-conflict-following-the-nampala-attack-the-government-of-mali-declares-a-three-day-mourning-period-for-the-17-soldiers-killed.md) _2018-02-06 13:49:29 (First version)_
 1. [Following the Nampala attack, the government of Mali declares a three-day mourning period for the 17 soldiers killed in the attack, as well as a state of emergency for three months across the country. ](/news/2016/07/20/following-the-nampala-attack-the-government-of-mali-declares-a-three-day-mourning-period-for-the-17-soldiers-killed-in-the-attack-as-well.md) _(Current version)_
 
 ### Related:

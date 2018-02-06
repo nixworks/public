@@ -19,8 +19,8 @@ Italian media report security around Benedict XVI tightened following harsh resp
 
 ### Changes:
 
-1. [ Pope Benedict XVI Islam controversy: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-p-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _2017-08-25 03:18:24 (First version)_
-2. [ Pope Benedict XVI Islam controversy:: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _2017-08-27 03:18:18 (Update)_
+1. [ Pope Benedict XVI Islam controversy:: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _2018-02-06 13:49:17 (First version)_
+2. [ Pope Benedict XVI Islam controversy: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-p-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _2018-02-06 13:49:17 (Update)_
 2. [ Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md) _(Current version)_
 
 ### Related:

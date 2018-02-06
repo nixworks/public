@@ -16,7 +16,7 @@ The retired US space shuttle Endeavour finally reaches its new home in a Los Ang
 
 ### Changes:
 
-1. [Residents of Los Angeles watch in awe as U.S. Space Shuttle ''Endeavour'' inches through the city on a giant trolley, bound for a museum. Hundreds of trees in its path are chopped down. ](/news/2012/10/13/residents-of-los-angeles-watch-in-awe-as-u-s-space-shuttle-endeavour-inches-through-the-city-on-a-giant-trolley-bound-for-a-museum-hu.md) _2017-08-25 03:36:41 (First version)_
+1. [Residents of Los Angeles watch in awe as U.S. Space Shuttle ''Endeavour'' inches through the city on a giant trolley, bound for a museum. Hundreds of trees in its path are chopped down. ](/news/2012/10/13/residents-of-los-angeles-watch-in-awe-as-u-s-space-shuttle-endeavour-inches-through-the-city-on-a-giant-trolley-bound-for-a-museum-hu.md) _2018-02-06 13:49:24 (First version)_
 1. [Residents of Los Angeles watch in awe as U.S. Space Shuttle "Endeavour" inches through the city on a giant trolley, bound for a museum. Hundreds of trees in its path are chopped down. ](/news/2012/10/13/residents-of-los-angeles-watch-in-awe-as-u-s-space-shuttle-endeavour-inches-through-the-city-on-a-giant-trolley-bound-for-a-museum-hund.md) _(Current version)_
 
 ### Related:

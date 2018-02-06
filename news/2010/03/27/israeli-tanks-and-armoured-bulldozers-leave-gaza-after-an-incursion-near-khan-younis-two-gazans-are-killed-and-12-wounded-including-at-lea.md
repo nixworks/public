@@ -17,8 +17,8 @@ Soldier fights for his life in hospital; Barak warns of &quot;ramifications.&quo
 
 ### Changes:
 
-1. [Middle East:Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/middle-east-pisraeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-inc.md) _2017-08-25 03:27:29 (First version)_
-2. [Middle East:: Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/middle-east-israeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-in.md) _2017-08-27 03:27:26 (Update)_
+1. [Middle East:Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/middle-east-pisraeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-inc.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/middle-east-israeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-in.md) _2018-02-06 13:49:19 (Update)_
 2. [Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/israeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-including-at-lea.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/15/hurricane-alex-heads-towards-the-azores-with-hu
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/2016-atlantic-hurricane-season-hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md) _2017-08-27 03:44:40 (First version)_
+1. [2016 Atlantic hurricane season: Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/2016-atlantic-hurricane-season-hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md) _2018-02-06 13:49:28 (First version)_
 1. [Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md) _(Current version)_
 
 ### Related:

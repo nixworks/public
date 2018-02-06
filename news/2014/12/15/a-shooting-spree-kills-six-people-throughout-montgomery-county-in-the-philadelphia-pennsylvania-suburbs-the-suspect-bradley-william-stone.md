@@ -17,7 +17,7 @@ Investigators are releasing new details about the murder spree in Montgomery Cou
 
 ### Changes:
 
-1. [Montgomery County, Pennsylvania shootings: A shooting spree kills six people throughout Montgomery County in the Philadelphia, Pennsylvania suburbs. The suspect, Bradley William Stone, remains at large. ](/news/2014/12/15/montgomery-county-pennsylvania-shootings-a-shooting-spree-kills-six-people-throughout-montgomery-county-in-the-philadelphia-pennsylvania.md) _2017-08-27 03:41:38 (First version)_
+1. [Montgomery County, Pennsylvania shootings: A shooting spree kills six people throughout Montgomery County in the Philadelphia, Pennsylvania suburbs. The suspect, Bradley William Stone, remains at large. ](/news/2014/12/15/montgomery-county-pennsylvania-shootings-a-shooting-spree-kills-six-people-throughout-montgomery-county-in-the-philadelphia-pennsylvania.md) _2018-02-06 13:49:26 (First version)_
 1. [A shooting spree kills six people throughout Montgomery County in the Philadelphia, Pennsylvania suburbs. The suspect, Bradley William Stone, remains at large. ](/news/2014/12/15/a-shooting-spree-kills-six-people-throughout-montgomery-county-in-the-philadelphia-pennsylvania-suburbs-the-suspect-bradley-william-stone.md) _(Current version)_
 
 ### Related:

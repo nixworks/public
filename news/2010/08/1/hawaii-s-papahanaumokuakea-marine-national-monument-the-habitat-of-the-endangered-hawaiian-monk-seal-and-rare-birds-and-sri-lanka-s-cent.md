@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/08/1/hawaii-s-papahanaumokuakea-marine-national-monum
 
 ### Changes:
 
-1. [World Heritage List: Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/world-heritage-list-hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds.md) _2017-08-27 03:29:08 (First version)_
+1. [World Heritage List: Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/world-heritage-list-hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds.md) _2018-02-06 13:49:20 (First version)_
 1. [Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds-and-sri-lanka-s-cent.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/07/6/the-international-olympic-committee-names-london
 
 ### Changes:
 
-1. [ The International Olympic Committee names London, United Kingdom as the site of the 2012 Summer Olympics. ](/news/2005/07/6/the-international-olympic-committee-names-london-united-kingdom-as-the-site-of-the-2012-summer-olympics.md) _2017-08-25 03:16:29 (First version)_
+1. [ The International Olympic Committee names London, United Kingdom as the site of the 2012 Summer Olympics. ](/news/2005/07/6/the-international-olympic-committee-names-london-united-kingdom-as-the-site-of-the-2012-summer-olympics.md) _2018-02-06 13:49:16 (First version)_
 1. [ The International Olympic Committee names London, United Kingdom as the site of the 2012 Summer Olympics. [http:--news.bbc.co.uk-sport1-hi-front_page-4655555.stm (BBC)] [http:--abcnews.go.com-Sports-wireStory?id=909526 (ABC)] (Link dead as of 04:20, 16 January 2007 (UTC)), [http:--edition.cnn.com-2005-SPORT-07-05-singapore.olympics-index.html (CNN)] (Wikinews)](/news/2005/07/6/the-international-olympic-committee-names-london-united-kingdom-as-the-site-of-the-2012-summer-olympics-http-news-bbc-co-uk-sport1-hi.md) _(Current version)_
 
 ### Related:

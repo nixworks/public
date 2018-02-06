@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-st
 
 ### Changes:
 
-1. [At least 22 people are killed this week in a string of raids on villages in the Central African Republic. The escalation of violence threatens to derail a visit by Pope Francis and crucial elections scheduled for December 27, 2015. ](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-string-of-raids-on-villages-in-the-central-african-republic-the-escalation-of-violence-threat.md) _2017-08-25 03:43:31 (First version)_
+1. [At least 22 people are killed this week in a string of raids on villages in the Central African Republic. The escalation of violence threatens to derail a visit by Pope Francis and crucial elections scheduled for December 27, 2015. ](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-string-of-raids-on-villages-in-the-central-african-republic-the-escalation-of-violence-threat.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 22 people are killed this week in a string of raids on villages in the Central African Republic. The escalation of violence threatens to derail a visit by Pope Francis and crucial elections scheduled for December 27, 2015. ](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-string-of-raids-on-villages-in-the-central-african-republic-the-escalation-of-violence-threate.md) _(Current version)_
 
 ### Related:

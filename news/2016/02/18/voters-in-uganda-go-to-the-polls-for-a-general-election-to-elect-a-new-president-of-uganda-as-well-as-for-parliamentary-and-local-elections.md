@@ -21,7 +21,7 @@ Social media is blocked in Uganda on the day of presidential elections to stop p
 
 ### Changes:
 
-1. [Ugandan general election, 2016: Voters in Uganda go to the polls for a general election to elect a new President of Uganda as well as for parliamentary and local elections. The Presidential race with eight candidates including incumbent Yoweri Museveni and seven challengers is tipped to be the closest in the nation's history. ](/news/2016/02/18/ugandan-general-election-2016-voters-in-uganda-go-to-the-polls-for-a-general-election-to-elect-a-new-president-of-uganda-as-well-as-for-pa.md) _2017-08-27 03:44:56 (First version)_
+1. [Ugandan general election, 2016: Voters in Uganda go to the polls for a general election to elect a new President of Uganda as well as for parliamentary and local elections. The Presidential race with eight candidates including incumbent Yoweri Museveni and seven challengers is tipped to be the closest in the nation's history. ](/news/2016/02/18/ugandan-general-election-2016-voters-in-uganda-go-to-the-polls-for-a-general-election-to-elect-a-new-president-of-uganda-as-well-as-for-pa.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Uganda go to the polls for a general election to elect a new President of Uganda as well as for parliamentary and local elections. The Presidential race with eight candidates including incumbent Yoweri Museveni and seven challengers is tipped to be the closest in the nation's history. ](/news/2016/02/18/voters-in-uganda-go-to-the-polls-for-a-general-election-to-elect-a-new-president-of-uganda-as-well-as-for-parliamentary-and-local-elections.md) _(Current version)_
 
 ### Related:

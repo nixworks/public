@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/22/filipino-troops-stage-raids-to-attempt-to-free-
 
 ### Changes:
 
-1. [Moro conflict: Filipino troops stage raids to attempt to free six overseas-born hostages held by Abu Sayyaf militants. ](/news/2015/09/22/moro-conflict-filipino-troops-stage-raids-to-attempt-to-free-six-overseas-born-hostages-held-by-abu-sayyaf-militants.md) _2017-08-27 03:43:07 (First version)_
+1. [Moro conflict: Filipino troops stage raids to attempt to free six overseas-born hostages held by Abu Sayyaf militants. ](/news/2015/09/22/moro-conflict-filipino-troops-stage-raids-to-attempt-to-free-six-overseas-born-hostages-held-by-abu-sayyaf-militants.md) _2018-02-06 13:49:27 (First version)_
 1. [Filipino troops stage raids to attempt to free six overseas-born hostages held by Abu Sayyaf militants. ](/news/2015/09/22/filipino-troops-stage-raids-to-attempt-to-free-six-overseas-born-hostages-held-by-abu-sayyaf-militants.md) _(Current version)_
 
 ### Related:

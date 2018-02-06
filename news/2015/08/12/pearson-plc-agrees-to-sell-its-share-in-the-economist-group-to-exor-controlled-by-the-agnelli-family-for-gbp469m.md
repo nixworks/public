@@ -16,7 +16,7 @@ Publishing group Pearson says it has agreed to sell its 50% stake in the Economi
 
 ### Changes:
 
-1. [Pearson PLC agrees to sell its share in the Economist Group to Exor controlled by the Agnelli family for 469m. ](/news/2015/08/12/pearson-plc-agrees-to-sell-its-share-in-the-economist-group-to-exor-controlled-by-the-agnelli-family-for-ps469m.md) _2017-08-25 03:42:32 (First version)_
+1. [Pearson PLC agrees to sell its share in the Economist Group to Exor controlled by the Agnelli family for 469m. ](/news/2015/08/12/pearson-plc-agrees-to-sell-its-share-in-the-economist-group-to-exor-controlled-by-the-agnelli-family-for-ps469m.md) _2018-02-06 13:49:27 (First version)_
 1. [Pearson PLC agrees to sell its share in the Economist Group to Exor controlled by the Agnelli family for GBP469m. ](/news/2015/08/12/pearson-plc-agrees-to-sell-its-share-in-the-economist-group-to-exor-controlled-by-the-agnelli-family-for-gbp469m.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/01/24/hezbollah-and-its-allies-win-support-a-majority
 
 ### Changes:
 
-1. [Hezbollah and its allies win support a majority in parliament to nominate their candidate, Najib Mikati, as Prime Minister of Lebanon, giving them the upper hand in attempts to form a government and sparking accusations of a pro-Iranian coup by loyalists of ousted Prime Minister Saad Hariri. ](/news/2011/01/24/hezbollah-and-its-allies-win-support-a-majority-in-parliament-to-nominate-their-candidate-najib-mikati-as-prime-minister-of-lebanon-givi.md) _2017-08-25 03:31:55 (First version)_
+1. [Hezbollah and its allies win support a majority in parliament to nominate their candidate, Najib Mikati, as Prime Minister of Lebanon, giving them the upper hand in attempts to form a government and sparking accusations of a pro-Iranian coup by loyalists of ousted Prime Minister Saad Hariri. ](/news/2011/01/24/hezbollah-and-its-allies-win-support-a-majority-in-parliament-to-nominate-their-candidate-najib-mikati-as-prime-minister-of-lebanon-givi.md) _2018-02-06 13:49:21 (First version)_
 1. [Hezbollah and its allies win support a majority in parliament to nominate their candidate, Najib Mikati, as Prime Minister of Lebanon, giving them the upper hand in attempts to form a government and sparking accusations of a pro-Iranian coup by loyalists of ousted Prime Minister Saad Hariri. ](/news/2011/01/24/hezbollah-and-its-allies-win-support-a-majority-in-parliament-to-nominate-their-candidate-najib-mikati-as-prime-minister-of-lebanon-givin.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ After talks fail, governor announces Puerto Rico will not make nearly $370 milli
 
 ### Changes:
 
-1. [Puerto Rican government-debt crisis: Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says debt payments have been suspended in order to pay for essential services for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rican-government-debt-crisis-puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bon.md) _2017-08-27 03:45:56 (First version)_
+1. [Puerto Rican government-debt crisis: Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says debt payments have been suspended in order to pay for essential services for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rican-government-debt-crisis-puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bon.md) _2018-02-06 13:49:29 (First version)_
 1. [Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says debt payments have been suspended in order to pay for essential services for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bond-payment-due-monday-garcaa-padilla.md) _(Current version)_
 
 ### Related:

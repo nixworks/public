@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/04/4/2012-south-sudanasudan-border-conflict-the-sudan
 
 ### Changes:
 
-1. [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudan-sudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md) _2017-08-27 03:35:35 (First version)_
+1. [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudan-sudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md) _2018-02-06 13:49:23 (First version)_
 1. [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudanasudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md) _(Current version)_
 
 ### Related:

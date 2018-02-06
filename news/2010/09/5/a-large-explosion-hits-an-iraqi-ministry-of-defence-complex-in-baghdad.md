@@ -18,7 +18,7 @@ An explosion has rocked an Iraqi ministry of defence complex that three weeks ag
 
 ### Changes:
 
-1. [Iraq: A large explosion hits an Iraqi Ministry of Defence complex in Baghdad. ](/news/2010/09/5/iraq-a-large-explosion-hits-an-iraqi-ministry-of-defence-complex-in-baghdad.md) _2017-08-27 03:29:57 (First version)_
+1. [Iraq: A large explosion hits an Iraqi Ministry of Defence complex in Baghdad. ](/news/2010/09/5/iraq-a-large-explosion-hits-an-iraqi-ministry-of-defence-complex-in-baghdad.md) _2018-02-06 13:49:20 (First version)_
 1. [A large explosion hits an Iraqi Ministry of Defence complex in Baghdad. ](/news/2010/09/5/a-large-explosion-hits-an-iraqi-ministry-of-defence-complex-in-baghdad.md) _(Current version)_
 
 ### Related:

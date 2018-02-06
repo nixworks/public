@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-pa-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _2017-08-25 03:38:57 (First version)_
-2. [War in North-West Pakistan:: A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-a-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _2017-08-27 03:39:12 (Update)_
+1. [War in North-West Pakistan:A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-pa-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-a-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _2018-02-06 13:49:25 (Update)_
 2. [A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/a-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md) _(Current version)_
 
 ### Related:

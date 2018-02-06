@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/11/20/russian-president-vladimir-putin-visits-japan-w
 
 ### Changes:
 
-1. [ Russia: Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russia-p-russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md) _2017-08-25 03:17:09 (First version)_
-2. [ Russia:: Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russia-russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md) _2017-08-27 03:17:08 (Update)_
+1. [ Russia:: Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russia-russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md) _2018-02-06 13:49:16 (First version)_
+2. [ Russia: Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russia-p-russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md) _2018-02-06 13:49:16 (Update)_
 2. [ Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md) _(Current version)_
 
 ### Related:

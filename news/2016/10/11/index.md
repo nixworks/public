@@ -9,7 +9,7 @@ Gunmen walked into a Shiite mosque in the Afghan capital on Tuesday and opened f
 
 ##### Rohingya insurgency in Western Myanmar
 ### [In a third day of fighting, an attack in Rakhine State kills four Myanmar soldiers. ](/news/2016/10/11/in-a-third-day-of-fighting-an-attack-in-rakhine-state-kills-four-myanmar-soldiers.md)
-_Context: Myanmar Army, Rohingya insurgency in Western Myanmar, Rakhine State_
+_Context: Rakhine State, Rohingya insurgency in Western Myanmar, Myanmar Army_
 
 ##### Yemeni Crisis
 ### [The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-for-october-9-un.md)
@@ -49,7 +49,7 @@ Infections of the Zika virus are &quot;highly likely&quot; to keep spreading in 
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court hears arguments in a patent dispute between Apple Inc. and Samsung concerning both company's smart phone designs (Samsung Electronics v. Apple (15-777)). ](/news/2016/10/11/the-u-s-supreme-court-hears-arguments-in-a-patent-dispute-between-apple-inc-and-samsung-concerning-both-company-s-smart-phone-designs-sam.md)
-_Context: Apple Inc., Samsung, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Apple Inc., Samsung_
 
 ##### Obama administration
 ### [The Obama administration through the U.S. Department of Justice announces that they will file criminal contempt of court charges against Maricopa County, Arizona sheriff Joe Arpaio for violating a judge's order to stop immigration patrols that led to a court finding of racial profiling. The charges carry a maximum penalty of six months in jail. ](/news/2016/10/11/the-obama-administration-through-the-u-s-department-of-justice-announces-that-they-will-file-criminal-contempt-of-court-charges-against-mar.md)
@@ -61,7 +61,7 @@ An unarmed black man shot dead by a white police officer after his car broke dow
 
 ##### 2014 UZ224
 ### [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md)
-_Context: Sun, V774104, AU, Solar System, Eris, 2014 UZ224_
+_Context: 2014 UZ224, Eris, Astronomical unit, Sun, Solar System, V774104_
 
 ## [Previous Day...](/news/2016/10/10/index.md)
 

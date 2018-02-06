@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/19/former-u-s-congressman-anthony-weiner-pleads-gu
 
 ### Changes:
 
-1. [Anthony Weiner sexting scandals: Former U.S. Congressman Anthony Weiner pleads guilty to sexting with a 15-year-old girl. ](/news/2017/05/19/anthony-weiner-sexting-scandals-former-u-s-congressman-anthony-weiner-pleads-guilty-to-sexting-with-a-15-year-old-girl.md) _2017-08-27 03:48:21 (First version)_
+1. [Anthony Weiner sexting scandals: Former U.S. Congressman Anthony Weiner pleads guilty to sexting with a 15-year-old girl. ](/news/2017/05/19/anthony-weiner-sexting-scandals-former-u-s-congressman-anthony-weiner-pleads-guilty-to-sexting-with-a-15-year-old-girl.md) _2018-02-06 13:49:30 (First version)_
 1. [Former U.S. Congressman Anthony Weiner pleads guilty to sexting with a 15-year-old girl. ](/news/2017/05/19/former-u-s-congressman-anthony-weiner-pleads-guilty-to-sexting-with-a-15-year-old-girl.md) _(Current version)_
 
 ### Related:

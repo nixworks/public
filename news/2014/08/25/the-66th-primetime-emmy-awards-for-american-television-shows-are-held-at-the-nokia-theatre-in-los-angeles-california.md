@@ -18,8 +18,8 @@ KEEP us bookmarked through the day for rolling coverage of the winners, losers a
 
 ### Changes:
 
-1. [66th Primetime Emmy Awards:The 66th Primetime Emmy Awards for American television shows are held at the Nokia Theatre in Los Angeles, California. ](/news/2014/08/25/66th-primetime-emmy-awards-pthe-66th-primetime-emmy-awards-for-american-television-shows-are-held-at-the-nokia-theatre-in-los-angeles-calif.md) _2017-08-25 03:40:53 (First version)_
-2. [66th Primetime Emmy Awards:: The 66th Primetime Emmy Awards for American television shows are held at the Nokia Theatre in Los Angeles, California. ](/news/2014/08/25/66th-primetime-emmy-awards-the-66th-primetime-emmy-awards-for-american-television-shows-are-held-at-the-nokia-theatre-in-los-angeles-cali.md) _2017-08-27 03:41:11 (Update)_
+1. [66th Primetime Emmy Awards:: The 66th Primetime Emmy Awards for American television shows are held at the Nokia Theatre in Los Angeles, California. ](/news/2014/08/25/66th-primetime-emmy-awards-the-66th-primetime-emmy-awards-for-american-television-shows-are-held-at-the-nokia-theatre-in-los-angeles-cali.md) _2018-02-06 13:49:26 (First version)_
+2. [66th Primetime Emmy Awards:The 66th Primetime Emmy Awards for American television shows are held at the Nokia Theatre in Los Angeles, California. ](/news/2014/08/25/66th-primetime-emmy-awards-pthe-66th-primetime-emmy-awards-for-american-television-shows-are-held-at-the-nokia-theatre-in-los-angeles-calif.md) _2018-02-06 13:49:26 (Update)_
 2. [The 66th Primetime Emmy Awards for American television shows are held at the Nokia Theatre in Los Angeles, California. ](/news/2014/08/25/the-66th-primetime-emmy-awards-for-american-television-shows-are-held-at-the-nokia-theatre-in-los-angeles-california.md) _(Current version)_
 
 ### Related:

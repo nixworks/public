@@ -18,7 +18,7 @@ Forests nationwide are feeling the heat from increasing drought and climate chan
 
 ### Changes:
 
-1. [A new study by scientists from 14 research institutions, that is published in the March 2016 Global Change Biology Journal, finds all U.S. forests are threatened by drought and climate change. ](/news/2016/02/22/a-new-study-by-scientists-from-14-research-institutions-that-is-published-in-the-march-2016-global-change-biology-journal-finds-all-u-s.md) _2017-08-25 03:44:39 (First version)_
+1. [A new study by scientists from 14 research institutions, that is published in the March 2016 Global Change Biology Journal, finds all U.S. forests are threatened by drought and climate change. ](/news/2016/02/22/a-new-study-by-scientists-from-14-research-institutions-that-is-published-in-the-march-2016-global-change-biology-journal-finds-all-u-s.md) _2018-02-06 13:49:28 (First version)_
 1. [A new study by scientists from 14 research institutions, that is published in the March 2016 Global Change Biology Journal, finds all U.S. forests are threatened by drought and climate change. ](/news/2016/02/22/a-new-study-by-scientists-from-14-research-institutions-that-is-published-in-the-march-2016-global-change-biology-journal-finds-all-u-s-f.md) _(Current version)_
 
 ### Related:

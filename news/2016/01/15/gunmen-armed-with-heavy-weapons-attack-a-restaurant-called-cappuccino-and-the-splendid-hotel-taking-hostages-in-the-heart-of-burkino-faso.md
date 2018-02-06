@@ -18,7 +18,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 
 ### Changes:
 
-1. [2016 Ouagadougou attacks: Gunmen armed with heavy weapons attack a restaurant called Cappuccino and the Splendid Hotel, taking hostages, in the heart of Burkino Faso's capital, Ouagadougou. At least 20 people are reportedly killed. ](/news/2016/01/15/2016-ouagadougou-attacks-gunmen-armed-with-heavy-weapons-attack-a-restaurant-called-cappuccino-and-the-splendid-hotel-taking-hostages-in.md) _2017-08-27 03:44:41 (First version)_
+1. [2016 Ouagadougou attacks: Gunmen armed with heavy weapons attack a restaurant called Cappuccino and the Splendid Hotel, taking hostages, in the heart of Burkino Faso's capital, Ouagadougou. At least 20 people are reportedly killed. ](/news/2016/01/15/2016-ouagadougou-attacks-gunmen-armed-with-heavy-weapons-attack-a-restaurant-called-cappuccino-and-the-splendid-hotel-taking-hostages-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunmen armed with heavy weapons attack a restaurant called Cappuccino and the Splendid Hotel, taking hostages, in the heart of Burkino Faso's capital, Ouagadougou. At least 20 people are reportedly killed. ](/news/2016/01/15/gunmen-armed-with-heavy-weapons-attack-a-restaurant-called-cappuccino-and-the-splendid-hotel-taking-hostages-in-the-heart-of-burkino-faso.md) _(Current version)_
 
 ### Related:

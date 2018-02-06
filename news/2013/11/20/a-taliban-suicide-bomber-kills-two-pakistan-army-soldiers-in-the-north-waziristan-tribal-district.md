@@ -16,8 +16,8 @@ Security checkpoints were targeted in the attacks.
 
 ### Changes:
 
-1. [War in North-West Pakistan:A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/war-in-north-west-pakistan-pa-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md) _2017-08-25 03:39:33 (First version)_
-2. [War in North-West Pakistan:: A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/war-in-north-west-pakistan-a-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md) _2017-08-27 03:39:51 (Update)_
+1. [War in North-West Pakistan:A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/war-in-north-west-pakistan-pa-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/war-in-north-west-pakistan-a-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md) _2018-02-06 13:49:25 (Update)_
 2. [A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/a-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/24/12-people-are-killed-when-a-students-union-rall
 
 ### Changes:
 
-1. [ 12 people are killed when a students' union rally turns violent in Guwahati, India.{{Fact|date=December 2007}} ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-fact-date-december-2007.md) _2017-05-01 03:22:22 (First version)_
+1. [ 12 people are killed when a students' union rally turns violent in Guwahati, India.{{Fact|date=December 2007}} ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ 12 people are killed when a students' union rally turns violent in Guwahati, India.date=December 2007 ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-date-december-2007.md) _(Current version)_
 
 ### Related:

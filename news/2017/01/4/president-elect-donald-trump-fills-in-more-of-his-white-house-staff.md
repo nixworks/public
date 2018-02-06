@@ -18,7 +18,7 @@ Clayton has worked with some of the biggest names on Wall Street, including Gold
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/presidential-transition-of-donald-trump-president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _2017-08-27 03:47:34 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/presidential-transition-of-donald-trump-president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _2018-02-06 13:49:30 (First version)_
 1. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _(Current version)_
 
 ### Related:

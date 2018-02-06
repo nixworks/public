@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippin
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/2015-pacific-typhoon-season-typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a.md) _2017-08-27 03:43:23 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/2015-pacific-typhoon-season-typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a-category-4-storm-linger-and.md) _(Current version)_
 
 ### Related:

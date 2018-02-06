@@ -16,8 +16,8 @@ Almost 50 people have been killed by two days of government air strikes in an op
 
 ### Changes:
 
-1. [Syrian Civil War:Nearly 50 people have been killed in two days of Syrian government airstrikes on the town of Talbiseh in Homs Governorate. ](/news/2014/09/17/syrian-civil-war-pnearly-50-people-have-been-killed-in-two-days-of-syrian-government-airstrikes-on-the-town-of-talbiseh-in-homs-governorate.md) _2017-08-25 03:40:59 (First version)_
-2. [Syrian Civil War:: Nearly 50 people have been killed in two days of Syrian government airstrikes on the town of Talbiseh in Homs Governorate. ](/news/2014/09/17/syrian-civil-war-nearly-50-people-have-been-killed-in-two-days-of-syrian-government-airstrikes-on-the-town-of-talbiseh-in-homs-governorate.md) _2017-08-27 03:41:17 (Update)_
+1. [Syrian Civil War:Nearly 50 people have been killed in two days of Syrian government airstrikes on the town of Talbiseh in Homs Governorate. ](/news/2014/09/17/syrian-civil-war-pnearly-50-people-have-been-killed-in-two-days-of-syrian-government-airstrikes-on-the-town-of-talbiseh-in-homs-governorate.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: Nearly 50 people have been killed in two days of Syrian government airstrikes on the town of Talbiseh in Homs Governorate. ](/news/2014/09/17/syrian-civil-war-nearly-50-people-have-been-killed-in-two-days-of-syrian-government-airstrikes-on-the-town-of-talbiseh-in-homs-governorate.md) _2018-02-06 13:49:26 (Update)_
 2. [Nearly 50 people have been killed in two days of Syrian government airstrikes on the town of Talbiseh in Homs Governorate. ](/news/2014/09/17/nearly-50-people-have-been-killed-in-two-days-of-syrian-government-airstrikes-on-the-town-of-talbiseh-in-homs-governorate.md) _(Current version)_
 
 ### Related:

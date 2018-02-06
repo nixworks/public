@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sa
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/war-in-somalia-2009-present-somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-y.md) _2017-08-27 03:40:57 (First version)_
+1. [War in Somalia (2009-present): Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/war-in-somalia-2009-present-somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-y.md) _2018-02-06 13:49:26 (First version)_
 1. [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md) _(Current version)_
 
 ### Related:

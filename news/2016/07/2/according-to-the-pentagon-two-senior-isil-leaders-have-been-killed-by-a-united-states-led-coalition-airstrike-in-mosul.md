@@ -17,7 +17,7 @@ Pentagon says deputy minister of war and commander died in US-led coalition airs
 
 ### Changes:
 
-1. [Iraqi Civil War: Military intervention against ISIL: According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. ](/news/2016/07/2/iraqi-civil-war-military-intervention-against-isil-according-to-the-pentagon-two-senior-isil-leaders-have-been-killed-by-a-united-states.md) _2017-08-27 03:46:24 (First version)_
+1. [Iraqi Civil War: Military intervention against ISIL: According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. ](/news/2016/07/2/iraqi-civil-war-military-intervention-against-isil-according-to-the-pentagon-two-senior-isil-leaders-have-been-killed-by-a-united-states.md) _2018-02-06 13:49:29 (First version)_
 1. [According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. ](/news/2016/07/2/according-to-the-pentagon-two-senior-isil-leaders-have-been-killed-by-a-united-states-led-coalition-airstrike-in-mosul.md) _(Current version)_
 
 ### Related:

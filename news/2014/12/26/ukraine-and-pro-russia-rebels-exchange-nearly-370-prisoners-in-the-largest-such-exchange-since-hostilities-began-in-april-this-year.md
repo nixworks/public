@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in Donbass: Ukraine and pro-Russia rebels exchange nearly 370 prisoners in the largest such exchange since hostilities began in April this year. ](/news/2014/12/26/war-in-donbass-ukraine-and-pro-russia-rebels-exchange-nearly-370-prisoners-in-the-largest-such-exchange-since-hostilities-began-in-april-th.md) _2017-08-27 03:41:41 (First version)_
+1. [War in Donbass: Ukraine and pro-Russia rebels exchange nearly 370 prisoners in the largest such exchange since hostilities began in April this year. ](/news/2014/12/26/war-in-donbass-ukraine-and-pro-russia-rebels-exchange-nearly-370-prisoners-in-the-largest-such-exchange-since-hostilities-began-in-april-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukraine and pro-Russia rebels exchange nearly 370 prisoners in the largest such exchange since hostilities began in April this year. ](/news/2014/12/26/ukraine-and-pro-russia-rebels-exchange-nearly-370-prisoners-in-the-largest-such-exchange-since-hostilities-began-in-april-this-year.md) _(Current version)_
 
 ### Related:

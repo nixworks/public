@@ -16,8 +16,8 @@ Syrian army helicopters bombarded the northern rebel-held town of Al-Bab for a s
 
 ### Changes:
 
-1. [Syrian civil war:Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-civil-war-psyrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md) _2017-08-25 03:39:36 (First version)_
-2. [Syrian civil war:: Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-civil-war-syrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md) _2017-08-27 03:39:55 (Update)_
+1. [Syrian civil war:: Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-civil-war-syrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-civil-war-psyrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md) _(Current version)_
 
 ### Related:

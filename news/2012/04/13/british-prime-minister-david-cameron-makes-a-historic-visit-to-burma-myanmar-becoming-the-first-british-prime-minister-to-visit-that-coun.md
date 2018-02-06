@@ -17,8 +17,8 @@ The Prime Minister David Cameron today called for sanctions against Burma to be 
 
 ### Changes:
 
-1. [David Cameron's visit to Burma:British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/david-cameron-s-visit-to-burma-pbritish-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british-p.md) _2017-08-25 03:35:29 (First version)_
-2. [David Cameron's visit to Burma:: British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/david-cameron-s-visit-to-burma-british-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british.md) _2017-08-27 03:35:38 (Update)_
+1. [David Cameron's visit to Burma:British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/david-cameron-s-visit-to-burma-pbritish-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british-p.md) _2018-02-06 13:49:23 (First version)_
+2. [David Cameron's visit to Burma:: British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/david-cameron-s-visit-to-burma-british-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british.md) _2018-02-06 13:49:23 (Update)_
 2. [British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/british-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british-prime-minister-to-visit-that-coun.md) _(Current version)_
 
 ### Related:

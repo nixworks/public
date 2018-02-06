@@ -20,8 +20,8 @@ At least ten people were killed and seven injured in a suicide bomb attack that 
 
 ### Changes:
 
-1. [Afghanistan:At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-pat-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _2017-08-25 03:27:26 (First version)_
-2. [Afghanistan:: At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _2017-08-27 03:27:22 (Update)_
+1. [Afghanistan:At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-pat-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _2018-02-06 13:49:19 (First version)_
+2. [Afghanistan:: At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _2018-02-06 13:49:19 (Update)_
 2. [At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md) _(Current version)_
 
 ### Related:

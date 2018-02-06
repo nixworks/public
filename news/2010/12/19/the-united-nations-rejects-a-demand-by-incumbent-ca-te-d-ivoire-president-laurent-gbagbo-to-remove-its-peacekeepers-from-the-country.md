@@ -19,8 +19,8 @@ UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;Pre
 
 ### Changes:
 
-1. [Cote d'Ivoire:The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-pthe-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the.md) _2017-08-25 03:31:26 (First version)_
-2. [Cote d'Ivoire:: The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-th.md) _2017-08-27 03:31:34 (Update)_
+1. [Cote d'Ivoire:: The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-th.md) _2018-02-06 13:49:21 (First version)_
+2. [Cote d'Ivoire:The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-pthe-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the.md) _2018-02-06 13:49:21 (Update)_
 2. [The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the-country.md) _(Current version)_
 
 ### Related:

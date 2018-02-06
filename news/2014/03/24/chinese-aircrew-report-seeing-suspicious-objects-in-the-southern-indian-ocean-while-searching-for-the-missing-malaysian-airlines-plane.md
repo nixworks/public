@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/24/chinese-aircrew-report-seeing-suspicious-object
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370:Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/malaysia-airlines-flight-370-pchinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missin.md) _2017-08-25 03:40:12 (First version)_
-2. [Malaysia Airlines Flight 370:: Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/malaysia-airlines-flight-370-chinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missi.md) _2017-08-27 03:40:30 (Update)_
+1. [Malaysia Airlines Flight 370:Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/malaysia-airlines-flight-370-pchinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missin.md) _2018-02-06 13:49:26 (First version)_
+2. [Malaysia Airlines Flight 370:: Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/malaysia-airlines-flight-370-chinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missi.md) _2018-02-06 13:49:26 (Update)_
 2. [Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/chinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missing-malaysian-airlines-plane.md) _(Current version)_
 
 ### Related:

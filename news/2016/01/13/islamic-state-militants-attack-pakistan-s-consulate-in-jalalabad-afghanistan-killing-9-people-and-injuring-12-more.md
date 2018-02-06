@@ -16,7 +16,7 @@ Afghan security forces exchanged fire with gunmen barricaded in a house near the
 
 ### Changes:
 
-1. [War in Afghanistan: Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. ](/news/2016/01/13/war-in-afghanistan-islamic-state-militants-attack-pakistan-s-consulate-in-jalalabad-afghanistan-killing-9-people-and-injuring-12-more.md) _2017-08-27 03:44:40 (First version)_
+1. [War in Afghanistan: Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. ](/news/2016/01/13/war-in-afghanistan-islamic-state-militants-attack-pakistan-s-consulate-in-jalalabad-afghanistan-killing-9-people-and-injuring-12-more.md) _2018-02-06 13:49:28 (First version)_
 1. [Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. ](/news/2016/01/13/islamic-state-militants-attack-pakistan-s-consulate-in-jalalabad-afghanistan-killing-9-people-and-injuring-12-more.md) _(Current version)_
 
 ### Related:

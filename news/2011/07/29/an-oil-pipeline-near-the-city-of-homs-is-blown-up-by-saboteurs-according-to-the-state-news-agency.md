@@ -16,7 +16,7 @@ Syrian forces shot dead at least 20 civilians in attacks on pro-democracy demons
 
 ### Changes:
 
-1. [2011 Syrian uprising: An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/2011-syrian-uprising-an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md) _2017-08-27 03:34:01 (First version)_
+1. [2011 Syrian uprising: An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/2011-syrian-uprising-an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md) _2018-02-06 13:49:22 (First version)_
 1. [An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md) _(Current version)_
 
 ### Related:

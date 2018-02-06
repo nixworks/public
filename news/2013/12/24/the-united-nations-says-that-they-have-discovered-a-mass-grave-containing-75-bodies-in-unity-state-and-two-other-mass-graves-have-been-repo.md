@@ -17,8 +17,8 @@ Leaders warned they may be held to account over deaths as fears of ethnic killin
 
 ### Changes:
 
-1. [2013 South Sudanese political crisis:The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-pthe-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-an.md) _2017-08-25 03:39:46 (First version)_
-2. [2013 South Sudanese political crisis:: The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-a.md) _2017-08-27 03:40:04 (Update)_
+1. [2013 South Sudanese political crisis:: The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-a.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 South Sudanese political crisis:The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-pthe-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-an.md) _2018-02-06 13:49:25 (Update)_
 2. [The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-and-two-other-mass-graves-have-been-repo.md) _(Current version)_
 
 ### Related:

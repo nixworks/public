@@ -16,7 +16,7 @@ The European Court Of Justice has declared the data retention directive, which r
 
 ### Changes:
 
-1. [The European Court of Justice rules against the European Union Data Retention Directive which mandates that telecom operators must retain all their customers' communications data for up to two years. ](/news/2014/04/8/the-european-court-of-justice-rules-against-the-european-union-data-retention-directive-which-mandates-that-telecom-operators-must-retain-a.md) _2017-08-25 03:40:16 (First version)_
+1. [The European Court of Justice rules against the European Union Data Retention Directive which mandates that telecom operators must retain all their customers' communications data for up to two years. ](/news/2014/04/8/the-european-court-of-justice-rules-against-the-european-union-data-retention-directive-which-mandates-that-telecom-operators-must-retain-a.md) _2018-02-06 13:49:26 (First version)_
 1. [The European Court of Justice rules against the European Union Data Retention Directive which mandates that telecom operators must retain all their customers' communications data for up to two years. ](/news/2014/04/8/the-european-court-of-justice-rules-against-the-european-union-data-retention-directive-which-mandates-that-telecom-operators-must-retain-al.md) _(Current version)_
 
 ### Related:

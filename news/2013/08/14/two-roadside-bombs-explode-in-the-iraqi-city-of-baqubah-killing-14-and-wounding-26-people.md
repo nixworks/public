@@ -16,8 +16,8 @@ Twin roadside bombs exploded in the Iraqi city of Baquba on Wednesday, killing 1
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/iraqi-insurgency-post-u-s-withdrawal-ptwo-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md) _2017-08-25 03:39:09 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md) _2017-08-27 03:39:24 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/iraqi-insurgency-post-u-s-withdrawal-ptwo-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/two-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md) _(Current version)_
 
 ### Related:

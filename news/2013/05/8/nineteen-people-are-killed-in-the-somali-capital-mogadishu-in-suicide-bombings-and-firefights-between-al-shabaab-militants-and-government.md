@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital
 
 ### Changes:
 
-1. [War in Somalia (2009-present):Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/war-in-somalia-2009apresent-pnineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al.md) _2017-08-25 03:38:36 (First version)_
-2. [War in Somalia (2009-present):: Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/war-in-somalia-2009-present-nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al.md) _2017-08-27 03:38:49 (Update)_
+1. [War in Somalia (2009-present):Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/war-in-somalia-2009apresent-pnineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/war-in-somalia-2009-present-nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al.md) _2018-02-06 13:49:25 (Update)_
 2. [Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al-shabaab-militants-and-government.md) _(Current version)_
 
 ### Related:

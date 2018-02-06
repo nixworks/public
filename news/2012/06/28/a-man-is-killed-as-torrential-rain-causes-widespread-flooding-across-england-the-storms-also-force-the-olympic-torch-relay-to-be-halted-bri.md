@@ -17,8 +17,8 @@ A man dies, thousands are without power and roads and rail lines blocked as heav
 
 ### Changes:
 
-1. [2012 Great Britain and Ireland floods:A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/2012-great-britain-and-ireland-floods-pa-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force-t.md) _2017-08-25 03:35:59 (First version)_
-2. [2012 Great Britain and Ireland floods:: A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/2012-great-britain-and-ireland-floods-a-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force.md) _2017-08-27 03:36:10 (Update)_
+1. [2012 Great Britain and Ireland floods:A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/2012-great-britain-and-ireland-floods-pa-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force-t.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Great Britain and Ireland floods:: A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/2012-great-britain-and-ireland-floods-a-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force.md) _2018-02-06 13:49:23 (Update)_
 2. [A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/a-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force-the-olympic-torch-relay-to-be-halted-bri.md) _(Current version)_
 
 ### Related:

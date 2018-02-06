@@ -20,8 +20,8 @@ Formats: [HTML](/news/2009/10/16/the-mdc-partially-pulls-out-of-the-unity-govern
 
 ### Changes:
 
-1. [ Zimbabwe: The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/zimbabwe-p-the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained.md) _2017-08-25 03:26:04 (First version)_
-2. [ Zimbabwe:: The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/zimbabwe-the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained.md) _2017-08-27 03:25:56 (Update)_
+1. [ Zimbabwe:: The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/zimbabwe-the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained.md) _2018-02-06 13:49:19 (First version)_
+2. [ Zimbabwe: The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/zimbabwe-p-the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained.md) _2018-02-06 13:49:19 (Update)_
 2. [ The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained-on-terrori.md) _(Current version)_
 
 ### Related:

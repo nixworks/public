@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/17/the-guinea-electoral-commission-reports-that-th
 
 ### Changes:
 
-1. [Guinean presidential election, 2015: The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/guinean-presidential-election-2015-the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-w.md) _2017-08-27 03:43:23 (First version)_
+1. [Guinean presidential election, 2015: The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/guinean-presidential-election-2015-the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-w.md) _2018-02-06 13:49:27 (First version)_
 1. [The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-with-58-per-cent-of-the-vote.md) _(Current version)_
 
 ### Related:

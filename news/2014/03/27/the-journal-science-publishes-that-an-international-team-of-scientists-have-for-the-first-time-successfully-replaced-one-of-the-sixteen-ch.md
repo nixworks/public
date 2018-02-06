@@ -16,7 +16,7 @@ Scientists have created the first synthetic chromosome for yeast in a landmark a
 
 ### Changes:
 
-1. [The journal ''Science'' publishes that an international team of scientists have for the first time successfully replaced one of the sixteen chromosomes of the genome of a yeast cell with a synthetic DNA chromosome. ](/news/2014/03/27/the-journal-science-publishes-that-an-international-team-of-scientists-have-for-the-first-time-successfully-replaced-one-of-the-sixteen.md) _2017-08-25 03:40:13 (First version)_
+1. [The journal ''Science'' publishes that an international team of scientists have for the first time successfully replaced one of the sixteen chromosomes of the genome of a yeast cell with a synthetic DNA chromosome. ](/news/2014/03/27/the-journal-science-publishes-that-an-international-team-of-scientists-have-for-the-first-time-successfully-replaced-one-of-the-sixteen.md) _2018-02-06 13:49:26 (First version)_
 1. [The journal "Science" publishes that an international team of scientists have for the first time successfully replaced one of the sixteen chromosomes of the genome of a yeast cell with a synthetic DNA chromosome. ](/news/2014/03/27/the-journal-science-publishes-that-an-international-team-of-scientists-have-for-the-first-time-successfully-replaced-one-of-the-sixteen-ch.md) _(Current version)_
 
 ### Related:

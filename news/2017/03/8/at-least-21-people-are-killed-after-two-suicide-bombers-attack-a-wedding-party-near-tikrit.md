@@ -15,7 +15,7 @@ Suicide bomb explosions target wedding ceremony in a village near the Iraqi city
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. ](/news/2017/03/8/iraqi-civil-war-2014-present-at-least-21-people-are-killed-after-two-suicide-bombers-attack-a-wedding-party-near-tikrit.md) _2017-08-27 03:47:57 (First version)_
+1. [Iraqi Civil War (2014-present): At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. ](/news/2017/03/8/iraqi-civil-war-2014-present-at-least-21-people-are-killed-after-two-suicide-bombers-attack-a-wedding-party-near-tikrit.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. ](/news/2017/03/8/at-least-21-people-are-killed-after-two-suicide-bombers-attack-a-wedding-party-near-tikrit.md) _(Current version)_
 
 ### Related:

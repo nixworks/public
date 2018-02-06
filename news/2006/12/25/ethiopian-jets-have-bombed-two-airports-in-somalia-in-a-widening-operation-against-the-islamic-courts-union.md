@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/12/25/ethiopian-jets-have-bombed-two-airports-in-soma
 
 ### Changes:
 
-1. [ War in Somalia: Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/war-in-somalia-p-ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md) _2017-08-25 03:18:57 (First version)_
-2. [ War in Somalia:: Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/war-in-somalia-ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md) _2017-08-27 03:18:52 (Update)_
+1. [ War in Somalia: Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/war-in-somalia-p-ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Somalia:: Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/war-in-somalia-ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md) _2018-02-06 13:49:17 (Update)_
 2. [ Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md) _(Current version)_
 
 ### Related:

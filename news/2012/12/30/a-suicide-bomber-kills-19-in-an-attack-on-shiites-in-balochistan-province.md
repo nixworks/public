@@ -18,8 +18,8 @@ A bomb targeting buses carrying Shia Muslim pilgrims in southwest Pakistan kills
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/war-in-north-west-pakistan-pa-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md) _2017-08-25 03:37:09 (First version)_
-2. [War in North-West Pakistan:: A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/war-in-north-west-pakistan-a-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md) _2017-08-27 03:37:20 (Update)_
+1. [War in North-West Pakistan:A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/war-in-north-west-pakistan-pa-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/war-in-north-west-pakistan-a-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/a-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md) _(Current version)_
 
 ### Related:

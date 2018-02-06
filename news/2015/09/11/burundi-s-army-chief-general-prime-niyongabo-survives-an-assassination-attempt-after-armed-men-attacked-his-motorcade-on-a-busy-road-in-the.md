@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-su
 
 ### Changes:
 
-1. [2015 Burundian unrest: Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/2015-burundian-unrest-burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade.md) _2017-08-27 03:43:01 (First version)_
+1. [2015 Burundian unrest: Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/2015-burundian-unrest-burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade.md) _2018-02-06 13:49:27 (First version)_
 1. [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md) _(Current version)_
 
 ### Related:

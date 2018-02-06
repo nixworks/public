@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/25/the-death-toll-from-the-heat-wave-passes-1-000-
 
 ### Changes:
 
-1. [2015 Pakistani heat wave: The death toll from the heat wave passes 1,000 in Sindh province alone. ](/news/2015/06/25/2015-pakistani-heat-wave-the-death-toll-from-the-heat-wave-passes-1-000-in-sindh-province-alone.md) _2017-08-27 03:42:35 (First version)_
+1. [2015 Pakistani heat wave: The death toll from the heat wave passes 1,000 in Sindh province alone. ](/news/2015/06/25/2015-pakistani-heat-wave-the-death-toll-from-the-heat-wave-passes-1-000-in-sindh-province-alone.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the heat wave passes 1,000 in Sindh province alone. ](/news/2015/06/25/the-death-toll-from-the-heat-wave-passes-1-000-in-sindh-province-alone.md) _(Current version)_
 
 ### Related:

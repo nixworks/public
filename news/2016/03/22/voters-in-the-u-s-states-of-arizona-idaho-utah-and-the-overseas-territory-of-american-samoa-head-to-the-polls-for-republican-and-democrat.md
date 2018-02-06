@@ -17,7 +17,7 @@ Republicans will face off in Arizona and Utah, while Democrats battle it out in 
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in the U.S. states of Arizona, Idaho, Utah and the overseas territory of American Samoa head to the polls for Republican and Democratic Party primaries and caucuses. ](/news/2016/03/22/united-states-presidential-election-2016-voters-in-the-u-s-states-of-arizona-idaho-utah-and-the-overseas-territory-of-american-samoa-he.md) _2017-08-27 03:45:21 (First version)_
+1. [United States presidential election, 2016: Voters in the U.S. states of Arizona, Idaho, Utah and the overseas territory of American Samoa head to the polls for Republican and Democratic Party primaries and caucuses. ](/news/2016/03/22/united-states-presidential-election-2016-voters-in-the-u-s-states-of-arizona-idaho-utah-and-the-overseas-territory-of-american-samoa-he.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in the U.S. states of Arizona, Idaho, Utah and the overseas territory of American Samoa head to the polls for Republican and Democratic Party primaries and caucuses. ](/news/2016/03/22/voters-in-the-u-s-states-of-arizona-idaho-utah-and-the-overseas-territory-of-american-samoa-head-to-the-polls-for-republican-and-democrat.md) _(Current version)_
 
 ### Related:

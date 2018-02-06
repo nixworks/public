@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/3/the-march-23-movement-in-the-democratic-republic
 
 ### Changes:
 
-1. [M23 rebellion:The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/m23-rebellion-pthe-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-k.md) _2017-08-25 03:37:11 (First version)_
-2. [M23 rebellion:: The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/m23-rebellion-the-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph.md) _2017-08-27 03:37:22 (Update)_
+1. [M23 rebellion:: The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/m23-rebellion-the-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph.md) _2018-02-06 13:49:24 (First version)_
+2. [M23 rebellion:The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/m23-rebellion-pthe-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-k.md) _2018-02-06 13:49:24 (Update)_
 2. [The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/the-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-kabila-s-governm.md) _(Current version)_
 
 ### Related:

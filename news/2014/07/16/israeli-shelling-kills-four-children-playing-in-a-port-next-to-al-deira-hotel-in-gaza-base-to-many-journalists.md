@@ -16,8 +16,8 @@ There is a deafening explosion, then a second. Four children are dead. Four surv
 
 ### Changes:
 
-1. [Operation Protective Edge:Israeli shelling kills four children playing in a port next to Al-Deira hotel in Gaza, base to many journalists. ](/news/2014/07/16/operation-protective-edge-pisraeli-shelling-kills-four-children-playing-in-a-port-next-to-al-deira-hotel-in-gaza-base-to-many-journalists.md) _2017-08-25 03:40:41 (First version)_
-2. [Operation Protective Edge:: Israeli shelling kills four children playing in a port next to Al-Deira hotel in Gaza, base to many journalists. ](/news/2014/07/16/operation-protective-edge-israeli-shelling-kills-four-children-playing-in-a-port-next-to-al-deira-hotel-in-gaza-base-to-many-journalists.md) _2017-08-27 03:40:59 (Update)_
+1. [Operation Protective Edge:Israeli shelling kills four children playing in a port next to Al-Deira hotel in Gaza, base to many journalists. ](/news/2014/07/16/operation-protective-edge-pisraeli-shelling-kills-four-children-playing-in-a-port-next-to-al-deira-hotel-in-gaza-base-to-many-journalists.md) _2018-02-06 13:49:26 (First version)_
+2. [Operation Protective Edge:: Israeli shelling kills four children playing in a port next to Al-Deira hotel in Gaza, base to many journalists. ](/news/2014/07/16/operation-protective-edge-israeli-shelling-kills-four-children-playing-in-a-port-next-to-al-deira-hotel-in-gaza-base-to-many-journalists.md) _2018-02-06 13:49:26 (Update)_
 2. [Israeli shelling kills four children playing in a port next to Al-Deira hotel in Gaza, base to many journalists. ](/news/2014/07/16/israeli-shelling-kills-four-children-playing-in-a-port-next-to-al-deira-hotel-in-gaza-base-to-many-journalists.md) _(Current version)_
 
 ### Related:

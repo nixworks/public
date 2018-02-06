@@ -15,7 +15,7 @@ Army forces enter southwestern port city of Mokha, as dozens of families flee on
 
 ### Changes:
 
-1. [Yemeni Civil War: The Yemeni Army claims to have recaptured the port city of Mocha from Houthi rebels. ](/news/2017/01/23/yemeni-civil-war-the-yemeni-army-claims-to-have-recaptured-the-port-city-of-mocha-from-houthi-rebels.md) _2017-08-27 03:47:40 (First version)_
+1. [Yemeni Civil War: The Yemeni Army claims to have recaptured the port city of Mocha from Houthi rebels. ](/news/2017/01/23/yemeni-civil-war-the-yemeni-army-claims-to-have-recaptured-the-port-city-of-mocha-from-houthi-rebels.md) _2018-02-06 13:49:30 (First version)_
 1. [The Yemeni Army claims to have recaptured the port city of Mocha from Houthi rebels. ](/news/2017/01/23/the-yemeni-army-claims-to-have-recaptured-the-port-city-of-mocha-from-houthi-rebels.md) _(Current version)_
 
 ### Related:

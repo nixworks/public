@@ -19,7 +19,7 @@ A freight train derails and explodes in a north-east Bulgarian village, killing 
 
 ### Changes:
 
-1. [Hitrino train derailment: At least seven people have been killed and 25 others are injured after an explosion caused by the derailment of a train carrying propane and butane in the Bulgarian village of Hitrino, near Shumen. ](/news/2016/12/10/hitrino-train-derailment-at-least-seven-people-have-been-killed-and-25-others-are-injured-after-an-explosion-caused-by-the-derailment-of-a.md) _2017-08-27 03:47:25 (First version)_
+1. [Hitrino train derailment: At least seven people have been killed and 25 others are injured after an explosion caused by the derailment of a train carrying propane and butane in the Bulgarian village of Hitrino, near Shumen. ](/news/2016/12/10/hitrino-train-derailment-at-least-seven-people-have-been-killed-and-25-others-are-injured-after-an-explosion-caused-by-the-derailment-of-a.md) _2018-02-06 13:49:29 (First version)_
 1. [At least seven people have been killed and 25 others are injured after an explosion caused by the derailment of a train carrying propane and butane in the Bulgarian village of Hitrino, near Shumen. ](/news/2016/12/10/at-least-seven-people-have-been-killed-and-25-others-are-injured-after-an-explosion-caused-by-the-derailment-of-a-train-carrying-propane-and.md) _(Current version)_
 
 ### Related:

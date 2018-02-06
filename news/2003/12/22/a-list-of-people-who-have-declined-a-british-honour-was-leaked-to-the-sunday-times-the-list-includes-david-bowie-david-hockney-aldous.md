@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-ho
 
 ### Changes:
 
-1. [ A list of people who have declined a British honour was leaked to ''The Sunday Times''. The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldou.md) _2017-08-25 03:15:26 (First version)_
+1. [ A list of people who have declined a British honour was leaked to ''The Sunday Times''. The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldou.md) _2018-02-06 13:49:15 (First version)_
 1. [ A list of people who have declined a British honour was leaked to "The Sunday Times". The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldous.md) _(Current version)_
 
 ### Related:

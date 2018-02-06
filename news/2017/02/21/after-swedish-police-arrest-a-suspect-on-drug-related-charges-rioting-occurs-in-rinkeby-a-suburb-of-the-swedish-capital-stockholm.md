@@ -15,7 +15,7 @@ Swedish police say riots broke out overnight in a predominantly immigrant Stockh
 
 ### Changes:
 
-1. [2017 Rinkeby riots: After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/2017-rinkeby-riots-after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capita.md) _2017-08-27 03:47:51 (First version)_
+1. [2017 Rinkeby riots: After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/2017-rinkeby-riots-after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capita.md) _2018-02-06 13:49:30 (First version)_
 1. [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md) _(Current version)_
 
 ### Related:

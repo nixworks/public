@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/8/lloyds-banking-group-repay-agbp2-56-billion-to-h
 
 ### Changes:
 
-1. [ Lloyds Banking Group repay PS2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-aps2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md) _2017-08-25 03:24:48 (First version)_
+1. [ Lloyds Banking Group repay PS2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-aps2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md) _2018-02-06 13:49:19 (First version)_
 1. [ Lloyds Banking Group repay GBP2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-agbp2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md) _(Current version)_
 
 ### Related:

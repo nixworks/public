@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/09/17/hurricane-karl-reaches-category-3-strength-prio
 
 ### Changes:
 
-1. [2010 Atlantic hurricane season:Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-phurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-pe.md) _2017-08-25 03:30:05 (First version)_
-2. [2010 Atlantic hurricane season:: Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-p.md) _2017-08-27 03:30:08 (Update)_
+1. [2010 Atlantic hurricane season:Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-phurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-pe.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Atlantic hurricane season:: Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-p.md) _2018-02-06 13:49:20 (Update)_
 2. [Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-people-are-killed-in-a-mudslide.md) _(Current version)_
 
 ### Related:

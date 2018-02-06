@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/02/20/the-jury-sitting-in-the-case-of-r-v-huhne-and-p
 
 ### Changes:
 
-1. [The jury sitting in the case of ''R v Huhne and Pryce'' fails to reach a verdict on Vicky Pryce regarding driving licence penalty points she accepted on behalf of her former husband, Chris Huhne, requiring a retrial. ](/news/2013/02/20/the-jury-sitting-in-the-case-of-r-v-huhne-and-pryce-fails-to-reach-a-verdict-on-vicky-pryce-regarding-driving-licence-penalty-points-she.md) _2017-08-25 03:37:34 (First version)_
+1. [The jury sitting in the case of ''R v Huhne and Pryce'' fails to reach a verdict on Vicky Pryce regarding driving licence penalty points she accepted on behalf of her former husband, Chris Huhne, requiring a retrial. ](/news/2013/02/20/the-jury-sitting-in-the-case-of-r-v-huhne-and-pryce-fails-to-reach-a-verdict-on-vicky-pryce-regarding-driving-licence-penalty-points-she.md) _2018-02-06 13:49:24 (First version)_
 1. [The jury sitting in the case of "R v Huhne and Pryce" fails to reach a verdict on Vicky Pryce regarding driving licence penalty points she accepted on behalf of her former husband, Chris Huhne, requiring a retrial. ](/news/2013/02/20/the-jury-sitting-in-the-case-of-r-v-huhne-and-pryce-fails-to-reach-a-verdict-on-vicky-pryce-regarding-driving-licence-penalty-points-she-a.md) _(Current version)_
 
 ### Related:

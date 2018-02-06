@@ -17,7 +17,7 @@ President Barack Obama on Monday became the first sitting U.S. president to step
 
 ### Changes:
 
-1. [2016 ASEAN Summit: Laos prepares to host the 28th and 29th ASEAN Summit. ](/news/2016/09/6/2016-asean-summit-laos-prepares-to-host-the-28th-and-29th-asean-summit.md) _2017-08-27 03:46:47 (First version)_
+1. [2016 ASEAN Summit: Laos prepares to host the 28th and 29th ASEAN Summit. ](/news/2016/09/6/2016-asean-summit-laos-prepares-to-host-the-28th-and-29th-asean-summit.md) _2018-02-06 13:49:29 (First version)_
 1. [Laos prepares to host the 28th and 29th ASEAN Summit. ](/news/2016/09/6/laos-prepares-to-host-the-28th-and-29th-asean-summit.md) _(Current version)_
 
 ### Related:

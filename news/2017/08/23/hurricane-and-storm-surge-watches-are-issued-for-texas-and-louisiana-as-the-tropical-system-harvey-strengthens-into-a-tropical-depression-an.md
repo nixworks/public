@@ -16,7 +16,7 @@ The Gulf Coast landfall will only be part of the danger.
 
 ### Changes:
 
-1. [2017 Atlantic hurricane season: Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/2017-atlantic-hurricane-season-hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthe.md) _2017-08-27 17:30:04 (First version)_
+1. [2017 Atlantic hurricane season: Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/2017-atlantic-hurricane-season-hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthe.md) _2018-02-06 13:49:31 (First version)_
 1. [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md) _(Current version)_
 
 ### Related:

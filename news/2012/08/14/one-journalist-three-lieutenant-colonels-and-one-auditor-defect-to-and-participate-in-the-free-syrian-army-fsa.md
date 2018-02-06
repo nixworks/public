@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/08/14/one-journalist-three-lieutenant-colonels-and-on
 
 ### Changes:
 
-1. [Syrian civil war:One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-pone-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md) _2017-08-25 03:36:16 (First version)_
-2. [Syrian civil war:: One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-one-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md) _2017-08-27 03:36:27 (Update)_
+1. [Syrian civil war:One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-pone-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-one-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md) _2018-02-06 13:49:23 (Update)_
 2. [One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/one-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md) _(Current version)_
 
 ### Related:

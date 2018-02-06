@@ -16,7 +16,7 @@ Game Of Thrones wins the Emmy for best drama, as Jon Hamm wins best actor for Ma
 
 ### Changes:
 
-1. [67th Primetime Emmy Awards: The Emmy Awards are held in Los Angeles, California with "Game of Thrones" winning the Emmy for best drama series. ](/news/2015/09/20/67th-primetime-emmy-awards-the-emmy-awards-are-held-in-los-angeles-california-with-game-of-thrones-winning-the-emmy-for-best-drama-serie.md) _2017-08-27 03:43:06 (First version)_
+1. [67th Primetime Emmy Awards: The Emmy Awards are held in Los Angeles, California with "Game of Thrones" winning the Emmy for best drama series. ](/news/2015/09/20/67th-primetime-emmy-awards-the-emmy-awards-are-held-in-los-angeles-california-with-game-of-thrones-winning-the-emmy-for-best-drama-serie.md) _2018-02-06 13:49:27 (First version)_
 1. [The Emmy Awards are held in Los Angeles, California with "Game of Thrones" winning the Emmy for best drama series. ](/news/2015/09/20/the-emmy-awards-are-held-in-los-angeles-california-with-game-of-thrones-winning-the-emmy-for-best-drama-series.md) _(Current version)_
 
 ### Related:

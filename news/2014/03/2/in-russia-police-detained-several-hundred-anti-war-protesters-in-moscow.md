@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/2/in-russia-police-detained-several-hundred-anti-w
 
 ### Changes:
 
-1. [2014 Russian anti-war protests: In Russia, police detained several hundred anti-war protesters in Moscow. ](/news/2014/03/2/2014-russian-anti-war-protests-in-russia-police-detained-several-hundred-anti-war-protesters-in-moscow.md) _2017-08-27 03:40:24 (First version)_
+1. [2014 Russian anti-war protests: In Russia, police detained several hundred anti-war protesters in Moscow. ](/news/2014/03/2/2014-russian-anti-war-protests-in-russia-police-detained-several-hundred-anti-war-protesters-in-moscow.md) _2018-02-06 13:49:25 (First version)_
 1. [In Russia, police detained several hundred anti-war protesters in Moscow. ](/news/2014/03/2/in-russia-police-detained-several-hundred-anti-war-protesters-in-moscow.md) _(Current version)_
 
 ### Related:

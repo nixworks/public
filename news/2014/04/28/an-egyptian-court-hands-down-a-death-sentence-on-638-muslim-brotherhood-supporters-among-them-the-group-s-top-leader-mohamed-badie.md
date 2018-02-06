@@ -16,8 +16,8 @@ An Egyptian court sentenced the leader of the outlawed Muslim Brotherhood and 68
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/post-coup-unrest-in-egypt-pan-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-le.md) _2017-08-25 03:40:21 (First version)_
-2. [Post-coup unrest in Egypt:: An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/post-coup-unrest-in-egypt-an-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-l.md) _2017-08-27 03:40:38 (Update)_
+1. [Post-coup unrest in Egypt:An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/post-coup-unrest-in-egypt-pan-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-le.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt:: An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/post-coup-unrest-in-egypt-an-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-l.md) _2018-02-06 13:49:26 (Update)_
 2. [An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/an-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-leader-mohamed-badie.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Ukrainian President Petro Poroshenko accused Russia on Wednesday of sending 9,00
 
 ### Changes:
 
-1. [2014-15 Russian military intervention in Ukraine:The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014a15-russian-military-intervention-in-ukraine-pthe-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-he.md) _2017-08-25 03:41:31 (First version)_
-2. [2014-15 Russian military intervention in Ukraine:: The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014-15-russian-military-intervention-in-ukraine-the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-h.md) _2017-08-27 03:41:49 (Update)_
+1. [2014-15 Russian military intervention in Ukraine:The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014a15-russian-military-intervention-in-ukraine-pthe-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-he.md) _2018-02-06 13:49:26 (First version)_
+2. [2014-15 Russian military intervention in Ukraine:: The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014-15-russian-military-intervention-in-ukraine-the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-h.md) _2018-02-06 13:49:26 (Update)_
 2. [The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-help-separatists-in-eastern-ukraine.md) _(Current version)_
 
 ### Related:

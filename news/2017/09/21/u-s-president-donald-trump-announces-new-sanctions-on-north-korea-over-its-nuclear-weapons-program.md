@@ -16,8 +16,8 @@ The US measures will target individuals and firms, including banks, that trade w
 
 ### Changes:
 
-1. [ US President Donald Trump has announced fresh sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/us-president-donald-trump-has-announced-fresh-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _2017-09-21 20:30:05 (First version)_
-2. [ U.S. President Donald Trump announces fresh sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-fresh-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _2017-09-21 23:30:05 (Update)_
+1. [ US President Donald Trump has announced fresh sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/us-president-donald-trump-has-announced-fresh-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _2018-02-06 13:49:31 (First version)_
+2. [ U.S. President Donald Trump announces fresh sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-fresh-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _2018-02-06 13:49:31 (Update)_
 2. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _(Current version)_
 
 ### Related:

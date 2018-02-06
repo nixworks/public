@@ -16,9 +16,9 @@ Newly released footage of a gunfight that left three Americans dead in November 
 
 ### Changes:
 
-1. [Jordanian authorities release a video of a shooting of United States soldiers in Jordan by a Jordanian Air Force seargent. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-in-jordan-by-a-jordanian-air-force-seargent.md) _2017-07-25 11:30:06 (First version)_
-2. [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md) _2017-07-26 12:30:07 (Update)_
-3. [Jordan-United States relations: Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordan-united-states-relations-jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _2017-08-27 03:48:43 (Update)_
+1. [Jordanian authorities release a video of a shooting of United States soldiers in Jordan by a Jordanian Air Force seargent. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-in-jordan-by-a-jordanian-air-force-seargent.md) _2018-02-06 13:49:30 (First version)_
+2. [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md) _2018-02-06 13:49:30 (Update)_
+3. [Jordan-United States relations: Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordan-united-states-relations-jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _2018-02-06 13:49:30 (Update)_
 3. [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _(Current version)_
 
 ### Related:

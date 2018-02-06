@@ -16,7 +16,7 @@ Suspected Boko Haram militants have kidnapped about 40 boys and young men in a r
 
 ### Changes:
 
-1. [Boko Haram: Fleeing villagers from a remote part of the Borno State report that Boko Haram had three days prior kidnapped around 40 boys and young men. ](/news/2015/01/3/boko-haram-fleeing-villagers-from-a-remote-part-of-the-borno-state-report-that-boko-haram-had-three-days-prior-kidnapped-around-40-boys-and.md) _2017-08-27 03:41:43 (First version)_
+1. [Boko Haram: Fleeing villagers from a remote part of the Borno State report that Boko Haram had three days prior kidnapped around 40 boys and young men. ](/news/2015/01/3/boko-haram-fleeing-villagers-from-a-remote-part-of-the-borno-state-report-that-boko-haram-had-three-days-prior-kidnapped-around-40-boys-and.md) _2018-02-06 13:49:26 (First version)_
 1. [Fleeing villagers from a remote part of the Borno State report that Boko Haram had three days prior kidnapped around 40 boys and young men. ](/news/2015/01/3/fleeing-villagers-from-a-remote-part-of-the-borno-state-report-that-boko-haram-had-three-days-prior-kidnapped-around-40-boys-and-young-men.md) _(Current version)_
 
 ### Related:

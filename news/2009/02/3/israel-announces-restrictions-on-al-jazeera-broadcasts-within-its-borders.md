@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/02/3/israel-announces-restrictions-on-al-jazeera-broa
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/2008a2009-israelagaza-conflict-p-israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _2017-08-25 03:23:39 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/2008-2009-israel-gaza-conflict-israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _2017-08-27 03:23:31 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/2008a2009-israelagaza-conflict-p-israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/2008-2009-israel-gaza-conflict-israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _2018-02-06 13:49:18 (Update)_
 2. [ Israel announces restrictions on Al Jazeera broadcasts within its borders. ](/news/2009/02/3/israel-announces-restrictions-on-al-jazeera-broadcasts-within-its-borders.md) _(Current version)_
 
 ### Related:

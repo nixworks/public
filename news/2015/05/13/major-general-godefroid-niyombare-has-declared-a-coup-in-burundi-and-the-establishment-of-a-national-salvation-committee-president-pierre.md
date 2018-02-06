@@ -19,7 +19,7 @@ A coup is launched in Burundi to try to overthrow President Pierre Nkurunziza, a
 
 ### Changes:
 
-1. [2015 Burundian unrest: Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/2015-burundian-unrest-major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-commi.md) _2017-08-27 03:42:19 (First version)_
+1. [2015 Burundian unrest: Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/2015-burundian-unrest-major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-commi.md) _2018-02-06 13:49:27 (First version)_
 1. [Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-committee-president-pierre.md) _(Current version)_
 
 ### Related:

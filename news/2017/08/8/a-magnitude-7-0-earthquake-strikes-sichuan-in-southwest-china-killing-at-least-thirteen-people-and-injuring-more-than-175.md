@@ -17,9 +17,9 @@ At least five people have reportedly died and more than 60 wounded in the 6.5-ma
 
 ### Changes:
 
-1. [A magnitute 6.5 earthquake strikes Sichuan in southwest China, killing at least five people and injuring more than 60. ](/news/2017/08/8/a-magnitute-6-5-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-five-people-and-injuring-more-than-60.md) _2017-08-08 19:30:06 (First version)_
-2. [A magnitude 6.5 earthquake strikes Sichuan in southwest China, killing at least five people and injuring more than 60. ](/news/2017/08/8/a-magnitude-6-5-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-five-people-and-injuring-more-than-60.md) _2017-08-09 03:49:52 (Update)_
-3. [2017 Jiuzhaigou earthquake: A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/2017-jiuzhaigou-earthquake-a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-mor.md) _2017-08-27 03:48:47 (Update)_
+1. [A magnitute 6.5 earthquake strikes Sichuan in southwest China, killing at least five people and injuring more than 60. ](/news/2017/08/8/a-magnitute-6-5-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-five-people-and-injuring-more-than-60.md) _2018-02-06 13:49:31 (First version)_
+2. [A magnitude 6.5 earthquake strikes Sichuan in southwest China, killing at least five people and injuring more than 60. ](/news/2017/08/8/a-magnitude-6-5-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-five-people-and-injuring-more-than-60.md) _2018-02-06 13:49:31 (Update)_
+3. [2017 Jiuzhaigou earthquake: A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/2017-jiuzhaigou-earthquake-a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-mor.md) _2018-02-06 13:49:31 (Update)_
 3. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _(Current version)_
 
 ### Related:

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/a-humanitarian-ship-from-turkey-rescues-more-tha
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### Turkish
+##### Turkey
 # A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. 
 
 A Turkish humanitarian ship carrying more than 250 injured people from the Libyan city of Misrata arrives in the rebel stronghold of Benghazi.
@@ -19,14 +19,14 @@ A Turkish humanitarian ship carrying more than 250 injured people from the Libya
 
 ### Changes:
 
-1. [2011 Libyan civil war:A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/2011-libyan-civil-war-pa-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-reb.md) _2017-08-25 03:32:44 (First version)_
-2. [2011 Libyan civil war:: A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/2011-libyan-civil-war-a-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-re.md) _2017-08-27 03:32:52 (Update)_
+1. [2011 Libyan civil war:A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/2011-libyan-civil-war-pa-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-reb.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/2011-libyan-civil-war-a-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-re.md) _2018-02-06 13:49:22 (Update)_
 2. [A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/a-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-rebel-stronghold-of-bengha.md) _(Current version)_
 
 ### Related:
 
-1. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkish_
-2. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: Turkish_
-3. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Benghazi_
-4. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: Turkish_
-5. [A bus crash in Turkey's northwestern Eskisehir Province kills at least 11 people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-11-people-and-injures-46-others.md) _Context: Turkish_
+1. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_
+2. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkey_
+3. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: Turkey_
+4. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Benghazi_
+5. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: Turkey_

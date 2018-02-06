@@ -19,8 +19,8 @@ Formats: [HTML](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-a
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011apresent-p56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _2017-08-25 03:36:05 (First version)_
-2. [Syrian uprising (2011-present):: 56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011-present-56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _2017-08-27 03:36:16 (Update)_
+1. [Syrian uprising (2011-present):56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011apresent-p56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: 56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011-present-56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _2018-02-06 13:49:23 (Update)_
 2. [56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _(Current version)_
 
 ### Related:

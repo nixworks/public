@@ -16,8 +16,8 @@ Soldiers killed in attack in Paktia province near border with Pakistan.
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/war-in-afghanistan-2001-present-pthree-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md) _2017-08-25 03:39:08 (First version)_
-2. [War in Afghanistan (2001-present):: Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/war-in-afghanistan-2001-present-three-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md) _2017-08-27 03:39:24 (Update)_
+1. [War in Afghanistan (2001-present):: Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/war-in-afghanistan-2001-present-three-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/war-in-afghanistan-2001-present-pthree-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md) _2018-02-06 13:49:25 (Update)_
 2. [Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/three-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md) _(Current version)_
 
 ### Related:

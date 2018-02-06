@@ -19,7 +19,7 @@ A storm that brought heavy rain and gusty thunderstorms to Southern California w
 ### [The World Health Organization declares the spread of the Zika virus a global public health emergency requiring an urgent, united response. ](/news/2016/02/1/the-world-health-organization-declares-the-spread-of-the-zika-virus-a-global-public-health-emergency-requiring-an-urgent-united-response.md)
 Zika poses a global public health emergency requiring a united response - WHO.
 
-##### British
+##### United Kingdom
 ### [The United Kingdom Human Fertilisation and Embryology Authority gives licensing rights to the Francis Crick Institute to genetically modify human embryos to study the early stages of embryo development though still needs the approval of a local research ethic board. ](/news/2016/02/1/the-united-kingdom-human-fertilisation-and-embryology-authority-gives-licensing-rights-to-the-francis-crick-institute-to-genetically-modify.md)
 UK scientists win permission to genetically modify human embryos for the first time.
 
@@ -29,11 +29,11 @@ China arrests 21 people involved in an online finance scam alleged to have robbe
 
 ##### Tibetan
 ### [Two men are sentenced to death for the murder of Tibetan religious leader Akong Rinpoche, his nephew and his driver in 2013. ](/news/2016/02/1/two-men-are-sentenced-to-death-for-the-murder-of-tibetan-religious-leader-akong-rinpoche-his-nephew-and-his-driver-in-2013.md)
-_Context: Tibetan, Akong Rinpoche_
+_Context: Akong Rinpoche, Tibetan_
 
 ##### parliament
 ### [The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. ](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.md)
-_Context: National League for Democracy, Myanmar, Aung San Suu Kyi, parliament_
+_Context: parliament, Myanmar, Aung San Suu Kyi, National League for Democracy_
 
 ## [Previous Day...](/news/2016/01/31/index.md)
 

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/2/u-s-president-george-w-bush-tours-the-area-devas
 
 ### Changes:
 
-1. [ U.S. President George W. Bush tours the area devastated by Hurricane Katrina amidst growing criticism of his lack of leadership. Media reports say he will not visit New Orleans. Bush said order would be restored and New Orleans would emerge from its "darkest days". ](/news/2005/09/2/u-s-president-george-w-bush-tours-the-area-devastated-by-hurricane-katrina-amidst-growing-criticism-of-his-lack-of-leadership-media-rep.md) _2017-08-25 03:16:45 (First version)_
+1. [ U.S. President George W. Bush tours the area devastated by Hurricane Katrina amidst growing criticism of his lack of leadership. Media reports say he will not visit New Orleans. Bush said order would be restored and New Orleans would emerge from its "darkest days". ](/news/2005/09/2/u-s-president-george-w-bush-tours-the-area-devastated-by-hurricane-katrina-amidst-growing-criticism-of-his-lack-of-leadership-media-rep.md) _2018-02-06 13:49:16 (First version)_
 1. [ U.S. President George W. Bush tours the area devastated by Hurricane Katrina amidst growing criticism of his lack of leadership. Media reports say he will not visit New Orleans. Bush said order would be restored and New Orleans would emerge from its "darkest days". ](/news/2005/09/2/u-s-president-george-w-bush-tours-the-area-devastated-by-hurricane-katrina-amidst-growing-criticism-of-his-lack-of-leadership-media-repo.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ min Park and Jack Kim
 
 ### Changes:
 
-1. [Impeachment process against Park Geun-hye: A bill is introduced into the South Korean National Assembly to impeach President Park Geun-hye. A vote is expected tomorrow. ](/news/2016/12/8/impeachment-process-against-park-geun-hye-a-bill-is-introduced-into-the-south-korean-national-assembly-to-impeach-president-park-geun-hye.md) _2017-08-27 03:47:24 (First version)_
+1. [Impeachment process against Park Geun-hye: A bill is introduced into the South Korean National Assembly to impeach President Park Geun-hye. A vote is expected tomorrow. ](/news/2016/12/8/impeachment-process-against-park-geun-hye-a-bill-is-introduced-into-the-south-korean-national-assembly-to-impeach-president-park-geun-hye.md) _2018-02-06 13:49:30 (First version)_
 1. [A bill is introduced into the South Korean National Assembly to impeach President Park Geun-hye. A vote is expected tomorrow. ](/news/2016/12/8/a-bill-is-introduced-into-the-south-korean-national-assembly-to-impeach-president-park-geun-hye-a-vote-is-expected-tomorrow.md) _(Current version)_
 
 ### Related:

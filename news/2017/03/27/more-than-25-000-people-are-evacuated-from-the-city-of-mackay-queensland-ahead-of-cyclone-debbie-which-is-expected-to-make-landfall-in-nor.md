@@ -16,7 +16,7 @@ Tropical Cyclone Debbie strengthens to category four and is expected to hit the 
 
 ### Changes:
 
-1. [2016-17 Australian region cyclone season: More than 25,000 people are evacuated from the city of Mackay, Queensland, ahead of Cyclone Debbie which is expected to make landfall in northern Queensland tomorrow. The Australian Bureau of Meteorology warns that Cyclone Debbie will be the worst storm to hit Queensland since Cyclone Yasi in 2011. ](/news/2017/03/27/2016-17-australian-region-cyclone-season-more-than-25-000-people-are-evacuated-from-the-city-of-mackay-queensland-ahead-of-cyclone-debb.md) _2017-08-27 03:48:03 (First version)_
+1. [2016-17 Australian region cyclone season: More than 25,000 people are evacuated from the city of Mackay, Queensland, ahead of Cyclone Debbie which is expected to make landfall in northern Queensland tomorrow. The Australian Bureau of Meteorology warns that Cyclone Debbie will be the worst storm to hit Queensland since Cyclone Yasi in 2011. ](/news/2017/03/27/2016-17-australian-region-cyclone-season-more-than-25-000-people-are-evacuated-from-the-city-of-mackay-queensland-ahead-of-cyclone-debb.md) _2018-02-06 13:49:30 (First version)_
 1. [More than 25,000 people are evacuated from the city of Mackay, Queensland, ahead of Cyclone Debbie which is expected to make landfall in northern Queensland tomorrow. The Australian Bureau of Meteorology warns that Cyclone Debbie will be the worst storm to hit Queensland since Cyclone Yasi in 2011. ](/news/2017/03/27/more-than-25-000-people-are-evacuated-from-the-city-of-mackay-queensland-ahead-of-cyclone-debbie-which-is-expected-to-make-landfall-in-nor.md) _(Current version)_
 
 ### Related:

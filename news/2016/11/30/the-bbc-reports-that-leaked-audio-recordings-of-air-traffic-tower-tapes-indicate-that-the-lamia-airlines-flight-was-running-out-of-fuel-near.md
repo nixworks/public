@@ -16,7 +16,7 @@ The plane carrying footballers which crashed in Colombia ran out of fuel, a leak
 
 ### Changes:
 
-1. [LaMia Airlines Flight 2933: The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. ](/news/2016/11/30/lamia-airlines-flight-2933-the-bbc-reports-that-leaked-audio-recordings-of-air-traffic-tower-tapes-indicate-that-the-lamia-airlines-flight.md) _2017-08-27 03:47:21 (First version)_
+1. [LaMia Airlines Flight 2933: The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. ](/news/2016/11/30/lamia-airlines-flight-2933-the-bbc-reports-that-leaked-audio-recordings-of-air-traffic-tower-tapes-indicate-that-the-lamia-airlines-flight.md) _2018-02-06 13:49:29 (First version)_
 1. [The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. ](/news/2016/11/30/the-bbc-reports-that-leaked-audio-recordings-of-air-traffic-tower-tapes-indicate-that-the-lamia-airlines-flight-was-running-out-of-fuel-near.md) _(Current version)_
 
 ### Related:

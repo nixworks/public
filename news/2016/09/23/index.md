@@ -29,7 +29,7 @@ A U.N. aviation agency has snubbed Taiwan by not inviting it to its assembly in 
 
 ##### 2016 Cascade Mall shooting
 ### [An, as yet, uncaptured shooter at a mall in the town of Burlington, Washington kills at least three people and injures two others. ](/news/2016/09/23/an-as-yet-uncaptured-shooter-at-a-mall-in-the-town-of-burlington-washington-kills-at-least-three-people-and-injures-two-others.md)
-_Context: Burlington, Washington, 2016 Cascade Mall shooting_
+_Context: 2016 Cascade Mall shooting, Burlington, Washington_
 
 ## [Previous Day...](/news/2016/09/22/index.md)
 

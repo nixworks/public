@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/19/two-people-are-killed-and-38-injured-in-a-bombi
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon: Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/syrian-civil-war-spillover-in-lebanon-two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md) _2017-08-27 03:40:21 (First version)_
+1. [Syrian Civil War spillover in Lebanon: Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/syrian-civil-war-spillover-in-lebanon-two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md) _2018-02-06 13:49:25 (First version)_
 1. [Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md) _(Current version)_
 
 ### Related:

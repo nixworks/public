@@ -17,8 +17,8 @@ Long queues at poll stations in Fiji&#039;s first election since the 2006 milita
 
 ### Changes:
 
-1. [Fijian general election, 2014:Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/fijian-general-election-2014-pvoters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimaram.md) _2017-08-25 03:40:59 (First version)_
-2. [Fijian general election, 2014:: Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/fijian-general-election-2014-voters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimara.md) _2017-08-27 03:41:17 (Update)_
+1. [Fijian general election, 2014:: Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/fijian-general-election-2014-voters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimara.md) _2018-02-06 13:49:26 (First version)_
+2. [Fijian general election, 2014:Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/fijian-general-election-2014-pvoters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimaram.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/voters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimarama-s-fiji-first-party-achieving.md) _(Current version)_
 
 ### Related:

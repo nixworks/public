@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspecte
 
 ### Changes:
 
-1. [ Moro conflict: At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/moro-conflict-at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _2017-08-27 03:47:15 (First version)_
+1. [ Moro conflict: At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/moro-conflict-at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _2018-02-06 13:49:29 (First version)_
 1. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _(Current version)_
 
 ### Related:

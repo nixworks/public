@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-wh
 
 ### Changes:
 
-1. [Two men are killed and another one is wounded when unidentified gunmen open fire at a Lexus in the capital of Russia-s Caucasian republic of Dagestan, Makhachkala. ](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-when-unidentified-gunmen-open-fire-at-a-lexus-in-the-capital-of-russia-s-caucasian-republic.md) _2017-08-27 03:27:48 (First version)_
+1. [Two men are killed and another one is wounded when unidentified gunmen open fire at a Lexus in the capital of Russia-s Caucasian republic of Dagestan, Makhachkala. ](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-when-unidentified-gunmen-open-fire-at-a-lexus-in-the-capital-of-russia-s-caucasian-republic.md) _2018-02-06 13:49:20 (First version)_
 1. [Two men are killed and another one is wounded when unidentified gunmen open fire at a Lexus in the capital of Russia's Caucasian republic of Dagestan, Makhachkala. ](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-when-unidentified-gunmen-open-fire-at-a-lexus-in-the-capital-of-russiaas-caucasian-republic.md) _(Current version)_
 
 ### Related:

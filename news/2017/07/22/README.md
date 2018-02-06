@@ -11,7 +11,7 @@ The US, Russia, EU and United Nations have expressed concern about escalating vi
 ### [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md)
 Bank of America Corp. has picked Dublin to locate its main European Union hub in preparation for Britain quitting the bloc in 2019, the latest global bank to finalize its contingency arrangements after Brexit.
 
-##### British
+##### United Kingdom
 ### [A United Kingdom court blocks a GBP14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-agbp14-billion-class-action-lawsuit-against-mastercard.md)
 Fledgling competition tribunal refuses to allow claim relating to 16 years of alleged overcharging to proceed
 
@@ -25,11 +25,11 @@ Kislyak emerged as a central figure in investigations into possible collusion be
 
 ##### Law of Poland
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
-_Context: European Union, Andrzej Duda, Poland, Hungary, Law of Poland, President, Poles_
+_Context: Law of Poland, Poles, European Union, Andrzej Duda, Poland, President, Hungary_
 
 ##### East Timorese parliamentary election, 2017
 ### [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md)
-_Context: East Timorese parliamentary election, 2017, East Timor, National Parliament_
+_Context: East Timorese parliamentary election, 2017, National Parliament, East Timor_
 
 ##### martial law
 ### [After seven hours of debate, the joint special session of the Congress of the Philippines votes 261-18 in favour of the motion to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis), that was set to expire 10 PM Philippine Standard Time, until the end of the year. ](/news/2017/07/22/after-seven-hours-of-debate-the-joint-special-session-of-the-congress-of-the-philippines-votes-261a18-in-favour-of-the-motion-to-extend-p.md)

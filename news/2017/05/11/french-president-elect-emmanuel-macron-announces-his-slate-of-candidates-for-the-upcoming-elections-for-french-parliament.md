@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/11/french-president-elect-emmanuel-macron-announce
 
 ### Changes:
 
-1. [French President-elect Emmanuel Macron announces his slate for the upcoming elections. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-for-the-upcoming-elections.md) _2017-05-12 00:30:06 (First version)_
-2. [French parliamentary election, 2017: French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-parliamentary-election-2017-french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for.md) _2017-08-27 03:48:19 (Update)_
+1. [French President-elect Emmanuel Macron announces his slate for the upcoming elections. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-for-the-upcoming-elections.md) _2018-02-06 13:49:30 (First version)_
+2. [French parliamentary election, 2017: French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-parliamentary-election-2017-french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for.md) _2018-02-06 13:49:30 (Update)_
 2. [French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for-french-parliament.md) _(Current version)_
 
 ### Related:

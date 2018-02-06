@@ -19,8 +19,8 @@ Gulf nations suspend mediation efforts after Saleh fails to sign exit pact and w
 
 ### Changes:
 
-1. [2011 Yemen protests:Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/2011-yemen-protests-pyemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30.md) _2017-08-25 03:33:13 (First version)_
-2. [2011 Yemen protests:: Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/2011-yemen-protests-yemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30.md) _2017-08-27 03:33:22 (Update)_
+1. [2011 Yemen protests:: Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/2011-yemen-protests-yemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemen protests:Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/2011-yemen-protests-pyemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30.md) _2018-02-06 13:49:22 (Update)_
 2. [Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/yemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30-days-in-exchange-for.md) _(Current version)_
 
 ### Related:

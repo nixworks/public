@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/17/12-people-injured-1-boy-killed-and-several-home
 
 ### Changes:
 
-1. [Tolikara riot: 12 people injured, 1 boy killed, and several home and kiosk burned in Tolikara Regency, Papua, Indonesia. ](/news/2015/07/17/tolikara-riot-12-people-injured-1-boy-killed-and-several-home-and-kiosk-burned-in-tolikara-regency-papua-indonesia.md) _2017-08-27 03:42:43 (First version)_
+1. [Tolikara riot: 12 people injured, 1 boy killed, and several home and kiosk burned in Tolikara Regency, Papua, Indonesia. ](/news/2015/07/17/tolikara-riot-12-people-injured-1-boy-killed-and-several-home-and-kiosk-burned-in-tolikara-regency-papua-indonesia.md) _2018-02-06 13:49:27 (First version)_
 1. [12 people injured, 1 boy killed, and several home and kiosk burned in Tolikara Regency, Papua, Indonesia. ](/news/2015/07/17/12-people-injured-1-boy-killed-and-several-home-and-kiosk-burned-in-tolikara-regency-papua-indonesia.md) _(Current version)_
 
 ### Related:

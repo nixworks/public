@@ -17,7 +17,7 @@ An air strike killed at least 40 people at a camp for displaced people in north 
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): The People's Republic of China evacuates its citizens from Yemen due to concerns over declining security. ](/news/2015/03/30/yemeni-crisis-2011-present-the-people-s-republic-of-china-evacuates-its-citizens-from-yemen-due-to-concerns-over-declining-security.md) _2017-08-27 03:42:08 (First version)_
+1. [Yemeni Crisis (2011-present): The People's Republic of China evacuates its citizens from Yemen due to concerns over declining security. ](/news/2015/03/30/yemeni-crisis-2011-present-the-people-s-republic-of-china-evacuates-its-citizens-from-yemen-due-to-concerns-over-declining-security.md) _2018-02-06 13:49:27 (First version)_
 1. [The People's Republic of China evacuates its citizens from Yemen due to concerns over declining security. ](/news/2015/03/30/the-people-s-republic-of-china-evacuates-its-citizens-from-yemen-due-to-concerns-over-declining-security.md) _(Current version)_
 
 ### Related:

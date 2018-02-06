@@ -17,7 +17,7 @@ The city of Paris is on high alert, with floodwaters on the River Seine due to p
 
 ### Changes:
 
-1. [2016 European floods: The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/2016-european-floods-the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and.md) _2017-08-27 03:46:12 (First version)_
+1. [2016 European floods: The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/2016-european-floods-the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and.md) _2018-02-06 13:49:29 (First version)_
 1. [The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and-germany-has-so-far-cl.md) _(Current version)_
 
 ### Related:

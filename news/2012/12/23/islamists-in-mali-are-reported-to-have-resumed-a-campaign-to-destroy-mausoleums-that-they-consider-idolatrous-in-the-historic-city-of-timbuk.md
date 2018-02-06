@@ -16,8 +16,8 @@ Islamists in Mali are reported to have resumed a campaign to destroy mausoleums 
 
 ### Changes:
 
-1. [2012 Northern Mali conflict:Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-pislamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-i.md) _2017-08-25 03:37:06 (First version)_
-2. [2012 Northern Mali conflict:: Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous.md) _2017-08-27 03:37:17 (Update)_
+1. [2012 Northern Mali conflict:Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-pislamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-i.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Northern Mali conflict:: Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous.md) _2018-02-06 13:49:24 (Update)_
 2. [Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-in-the-historic-city-of-timbuk.md) _(Current version)_
 
 ### Related:

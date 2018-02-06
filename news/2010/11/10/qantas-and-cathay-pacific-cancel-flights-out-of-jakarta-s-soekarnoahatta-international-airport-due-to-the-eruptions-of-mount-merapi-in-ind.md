@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of
 
 ### Changes:
 
-1. [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarno-hatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md) _2017-08-27 03:31:04 (First version)_
+1. [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarno-hatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md) _2018-02-06 13:49:21 (First version)_
 1. [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarnoahatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Colin and Chris Weir, from Ayrshire, say they are &quot;tickled pink&quot; by th
 
 ### Changes:
 
-1. [Europe's biggest lottery jackpot, PS161 million (US$260 million), is scooped by a couple from Largs, Ayrshire, in Scotland. ](/news/2011/07/15/europe-s-biggest-lottery-jackpot-aps161-million-us-260-million-is-scooped-by-a-couple-from-largs-ayrshire-in-scotland.md) _2017-08-25 03:33:47 (First version)_
+1. [Europe's biggest lottery jackpot, PS161 million (US$260 million), is scooped by a couple from Largs, Ayrshire, in Scotland. ](/news/2011/07/15/europe-s-biggest-lottery-jackpot-aps161-million-us-260-million-is-scooped-by-a-couple-from-largs-ayrshire-in-scotland.md) _2018-02-06 13:49:22 (First version)_
 1. [Europe's biggest lottery jackpot, GBP161 million (US$260 million), is scooped by a couple from Largs, Ayrshire, in Scotland. ](/news/2011/07/15/europe-s-biggest-lottery-jackpot-agbp161-million-us-260-million-is-scooped-by-a-couple-from-largs-ayrshire-in-scotland.md) _(Current version)_
 
 ### Related:

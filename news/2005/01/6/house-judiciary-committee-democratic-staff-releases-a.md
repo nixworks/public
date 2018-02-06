@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/01/6/house-judiciary-committee-democratic-staff-relea
 
 ### Changes:
 
-1. [ 2004 United States election voting controversies: House Judiciary Committee Democratic Staff releases a ](/news/2005/01/6/2004-united-states-election-voting-controversies-p-house-judiciary-committee-democratic-staff-releases-a.md) _2017-08-25 03:15:29 (First version)_
-2. [ 2004 United States election voting controversies:: House Judiciary Committee Democratic Staff releases a ](/news/2005/01/6/2004-united-states-election-voting-controversies-house-judiciary-committee-democratic-staff-releases-a.md) _2017-08-27 03:15:30 (Update)_
+1. [ 2004 United States election voting controversies: House Judiciary Committee Democratic Staff releases a ](/news/2005/01/6/2004-united-states-election-voting-controversies-p-house-judiciary-committee-democratic-staff-releases-a.md) _2018-02-06 13:49:16 (First version)_
+2. [ 2004 United States election voting controversies:: House Judiciary Committee Democratic Staff releases a ](/news/2005/01/6/2004-united-states-election-voting-controversies-house-judiciary-committee-democratic-staff-releases-a.md) _2018-02-06 13:49:16 (Update)_
 2. [ House Judiciary Committee Democratic Staff releases a ](/news/2005/01/6/house-judiciary-committee-democratic-staff-releases-a.md) _(Current version)_
 
 ### Related:

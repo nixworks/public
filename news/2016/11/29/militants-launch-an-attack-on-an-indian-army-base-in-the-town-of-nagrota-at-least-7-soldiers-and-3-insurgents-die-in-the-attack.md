@@ -18,7 +18,7 @@ Militants attacked an army base near the Indian city of Jammu on Tuesday, killin
 
 ### Changes:
 
-1. [Kashmir conflict: Nagrota army base attack: Militants launch an attack on an Indian Army base in the town of Nagrota. At least 7 soldiers and 3 insurgents die in the attack. ](/news/2016/11/29/kashmir-conflict-nagrota-army-base-attack-militants-launch-an-attack-on-an-indian-army-base-in-the-town-of-nagrota-at-least-7-soldiers-an.md) _2017-08-27 03:47:20 (First version)_
+1. [Kashmir conflict: Nagrota army base attack: Militants launch an attack on an Indian Army base in the town of Nagrota. At least 7 soldiers and 3 insurgents die in the attack. ](/news/2016/11/29/kashmir-conflict-nagrota-army-base-attack-militants-launch-an-attack-on-an-indian-army-base-in-the-town-of-nagrota-at-least-7-soldiers-an.md) _2018-02-06 13:49:29 (First version)_
 1. [Militants launch an attack on an Indian Army base in the town of Nagrota. At least 7 soldiers and 3 insurgents die in the attack. ](/news/2016/11/29/militants-launch-an-attack-on-an-indian-army-base-in-the-town-of-nagrota-at-least-7-soldiers-and-3-insurgents-die-in-the-attack.md) _(Current version)_
 
 ### Related:

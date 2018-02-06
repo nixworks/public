@@ -16,5 +16,5 @@ Formats: [HTML](/news/2013/05/26/fast-furious-6-opens-at-the-top-of-the-movie-sa
 
 ### Changes:
 
-1. [''Fast & Furious 6'' opens at the top of the movie sales charts in 59 countries, including the United States and Canada where it grossed an estimated $122 million. ](/news/2013/05/26/fast-furious-6-opens-at-the-top-of-the-movie-sales-charts-in-59-countries-including-the-united-states-and-canada-where-it-grossed-an.md) _2017-08-25 03:38:43 (First version)_
+1. [''Fast & Furious 6'' opens at the top of the movie sales charts in 59 countries, including the United States and Canada where it grossed an estimated $122 million. ](/news/2013/05/26/fast-furious-6-opens-at-the-top-of-the-movie-sales-charts-in-59-countries-including-the-united-states-and-canada-where-it-grossed-an.md) _2018-02-06 13:49:24 (First version)_
 1. ["Fast & Furious 6" opens at the top of the movie sales charts in 59 countries, including the United States and Canada where it grossed an estimated $122 million. ](/news/2013/05/26/fast-furious-6-opens-at-the-top-of-the-movie-sales-charts-in-59-countries-including-the-united-states-and-canada-where-it-grossed-an-es.md) _(Current version)_

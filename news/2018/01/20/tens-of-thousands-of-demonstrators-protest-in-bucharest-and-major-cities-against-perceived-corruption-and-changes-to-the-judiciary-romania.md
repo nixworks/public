@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-b
 
 ### Changes:
 
-1. [ Tens of thousands of Romanians protest in Bucharest and major cities against perceived corruption and changes to judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-romanians-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-judiciary-romanians-in-di.md) _2018-01-22 23:30:06 (First version)_
+1. [ Tens of thousands of Romanians protest in Bucharest and major cities against perceived corruption and changes to judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-romanians-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-judiciary-romanians-in-di.md) _2018-02-06 13:49:31 (First version)_
 1. [ Tens of thousands of demonstrators protest in Bucharest and major cities against perceived corruption and changes to the judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-the-judiciary-romania.md) _(Current version)_
 
 ### Related:

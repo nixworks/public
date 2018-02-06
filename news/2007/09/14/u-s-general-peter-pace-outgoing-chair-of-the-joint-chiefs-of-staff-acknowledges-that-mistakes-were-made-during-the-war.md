@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/09/14/u-s-general-peter-pace-outgoing-chair-of-the-jo
 
 ### Changes:
 
-1. [ War in Iraq: U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/war-in-iraq-p-u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md) _2017-08-25 03:20:58 (First version)_
-2. [ War in Iraq:: U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/war-in-iraq-u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md) _2017-08-27 03:20:54 (Update)_
+1. [ War in Iraq:: U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/war-in-iraq-u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Iraq: U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/war-in-iraq-p-u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md) _2018-02-06 13:49:18 (Update)_
 2. [ U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier 
 
 ##### China
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
-_Context: China, rare earth_
+_Context: rare earth, China_
 
 ##### Typhoon Haikui
 ### [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
@@ -21,7 +21,7 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 
 ##### Hurricane Ernesto
 ### [Hurricane Ernesto hits the Yucatn Peninsula in Mexico. ](/news/2012/08/8/hurricane-ernesto-hits-the-yucatan-peninsula-in-mexico.md)
-_Context: Hurricane Ernesto, Yucatn Peninsula_
+_Context: Yucatn Peninsula, Hurricane Ernesto_
 
 ##### One World Trade Center
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
@@ -33,7 +33,7 @@ _Context: Orange County_
 
 ##### Templo Mayor
 ### [Anthropologists find the skeleton of a young woman inside a burial in Templo Mayor, surrounded by piles of 1,789 human bones. This finding is "unprecedented for the Aztec culture." ](/news/2012/08/8/anthropologists-find-the-skeleton-of-a-young-woman-inside-a-burial-in-templo-mayor-surrounded-by-piles-of-1-789-human-bones-this-finding-i.md)
-_Context: Templo Mayor, Aztec_
+_Context: Aztec, Templo Mayor_
 
 ##### Marvin Lee Wilson
 ### [Marvin Lee Wilson is executed by the state of Texas despite the low IQ results that could have invalidated his punishment. ](/news/2012/08/8/marvin-lee-wilson-is-executed-by-the-state-of-texas-despite-the-low-iq-results-that-could-have-invalidated-his-punishment.md)
@@ -53,7 +53,7 @@ The man sentenced to 25 years in jail for the murder of honeymooner Anni Dewani 
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, the shooter in the 2011 Tucson shooting, pleads guilty to all charges and is sentenced to life in prison without the possibility of parole. ](/news/2012/08/8/jared-lee-loughner-the-shooter-in-the-2011-tucson-shooting-pleads-guilty-to-all-charges-and-is-sentenced-to-life-in-prison-without-the-pos.md)
-_Context: Jared Lee Loughner, 2011 Tucson shooting_
+_Context: 2011 Tucson shooting, Jared Lee Loughner_
 
 ##### German
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: Russian language, Hungarian, Ukrainian President, regional, minority language, Russian-speaking regions, Viktor Yanukovych, Crimean Tatar language_
+_Context: Russian language, Hungarian, regional, Russian-speaking regions, Ukrainian President, Viktor Yanukovych, minority language, Crimean Tatar language_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

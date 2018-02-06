@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/31/voters-elect-sergio-mattarella-president-of-ita
 
 ### Changes:
 
-1. [Italian presidential election, 2015: Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/italian-presidential-election-2015-voters-elect-sergio-mattarella-president-of-italy.md) _2017-08-27 03:41:52 (First version)_
+1. [Italian presidential election, 2015: Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/italian-presidential-election-2015-voters-elect-sergio-mattarella-president-of-italy.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/voters-elect-sergio-mattarella-president-of-italy.md) _(Current version)_
 
 ### Related:

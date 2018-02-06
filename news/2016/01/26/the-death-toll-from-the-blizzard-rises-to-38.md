@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [January 2016 United States blizzard: The death toll from the blizzard rises to 38. ](/news/2016/01/26/january-2016-united-states-blizzard-the-death-toll-from-the-blizzard-rises-to-38.md) _2017-08-27 03:44:46 (First version)_
+1. [January 2016 United States blizzard: The death toll from the blizzard rises to 38. ](/news/2016/01/26/january-2016-united-states-blizzard-the-death-toll-from-the-blizzard-rises-to-38.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the blizzard rises to 38. ](/news/2016/01/26/the-death-toll-from-the-blizzard-rises-to-38.md) _(Current version)_
 
 ### Related:

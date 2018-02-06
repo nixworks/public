@@ -16,8 +16,8 @@ The US state department says it is considering all options, including sanctions,
 
 ### Changes:
 
-1. [Euromaidan:Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/euromaidan-psanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md) _2017-08-25 03:39:40 (First version)_
-2. [Euromaidan:: Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/euromaidan-sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md) _2017-08-27 03:39:58 (Update)_
+1. [Euromaidan:: Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/euromaidan-sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/euromaidan-psanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md) _2018-02-06 13:49:25 (Update)_
 2. [Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md) _(Current version)_
 
 ### Related:

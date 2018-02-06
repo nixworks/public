@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/21/italian-police-announce-67-arrests-a-250-millio
 
 ### Changes:
 
-1. [Italian police announce 67 arrests, -250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md) _2017-08-27 03:28:57 (First version)_
+1. [Italian police announce 67 arrests, -250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md) _2018-02-06 13:49:20 (First version)_
 1. [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md) _(Current version)_
 
 ### Related:

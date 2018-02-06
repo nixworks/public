@@ -17,7 +17,7 @@ Barkat declares war against rock-throwers in capital.
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israel deploys an extra 800 Israeli police officers as Palestinians call for a "day of rage" protests in Jerusalem over entry restrictions to Al-Aqsa mosque. A police vehicle in Jerusalem was attacked with assault rifle fire. ](/news/2015/09/18/israeli-palestinian-conflict-israel-deploys-an-extra-800-israeli-police-officers-as-palestinians-call-for-a-day-of-rage-protests-in-jer.md) _2017-08-27 03:43:05 (First version)_
+1. [Israeli-Palestinian conflict: Israel deploys an extra 800 Israeli police officers as Palestinians call for a "day of rage" protests in Jerusalem over entry restrictions to Al-Aqsa mosque. A police vehicle in Jerusalem was attacked with assault rifle fire. ](/news/2015/09/18/israeli-palestinian-conflict-israel-deploys-an-extra-800-israeli-police-officers-as-palestinians-call-for-a-day-of-rage-protests-in-jer.md) _2018-02-06 13:49:27 (First version)_
 1. [Israel deploys an extra 800 Israeli police officers as Palestinians call for a "day of rage" protests in Jerusalem over entry restrictions to Al-Aqsa mosque. A police vehicle in Jerusalem was attacked with assault rifle fire. ](/news/2015/09/18/israel-deploys-an-extra-800-israeli-police-officers-as-palestinians-call-for-a-day-of-rage-protests-in-jerusalem-over-entry-restrictions-t.md) _(Current version)_
 
 ### Related:

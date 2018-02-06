@@ -16,7 +16,7 @@ Saudi Arabia said the crash happened as the prince was touring local projects 50
 
 ### Changes:
 
-1. [A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.md) _2017-11-16 08:30:04 (First version)_
+1. [A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.md) _2018-02-06 13:49:31 (First version)_
 1. [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md) _(Current version)_
 
 ### Related:

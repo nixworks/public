@@ -15,8 +15,8 @@ Members of Parliament say no one was hurt, contradicting Taliban spokesman who c
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban fighters fire explosives at Afghanistan's Parliament while it is in session. Members of Parliament said no one was wounded while a Taliban spokesperson claims it caused heavy casualities. ](/news/2016/03/28/war-in-afghanistan-2015-present-taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliam.md) _2017-08-27 03:45:24 (First version)_
-2. [Taliban fighters fire explosives at Afghanistan's Parliament while it is in session. Members of Parliament said no one was wounded while a Taliban spokesperson claims it caused heavy casualities. ](/news/2016/03/28/taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliament-said-no-one-was-wounded-while-a-t.md) _2017-10-17 03:52:22 (Update)_
+1. [War in Afghanistan (2015-present): Taliban fighters fire explosives at Afghanistan's Parliament while it is in session. Members of Parliament said no one was wounded while a Taliban spokesperson claims it caused heavy casualities. ](/news/2016/03/28/war-in-afghanistan-2015-present-taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliam.md) _2018-02-06 13:49:28 (First version)_
+2. [Taliban fighters fire explosives at Afghanistan's Parliament while it is in session. Members of Parliament said no one was wounded while a Taliban spokesperson claims it caused heavy casualities. ](/news/2016/03/28/taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliament-said-no-one-was-wounded-while-a-t.md) _2018-02-06 13:49:28 (Update)_
 2. [ Taliban fighters fire explosives at Afghanistan's Parliament while it is in session. Members of Parliament said no one was wounded while a Taliban spokesperson claims it caused heavy casualities. ](/news/2016/03/28/taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliament-said-no-one-was-wounded-while-a.md) _(Current version)_
 
 ### Related:

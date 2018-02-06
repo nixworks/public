@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-millio
 
 ### Changes:
 
-1. [Nigerian general election, 2015: Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/nigerian-general-election-2015-challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes.md) _2017-08-27 03:42:08 (First version)_
+1. [Nigerian general election, 2015: Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/nigerian-general-election-2015-challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes.md) _2018-02-06 13:49:27 (First version)_
 1. [Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes-counted-but-votes-from-some-of-p.md) _(Current version)_
 
 ### Related:

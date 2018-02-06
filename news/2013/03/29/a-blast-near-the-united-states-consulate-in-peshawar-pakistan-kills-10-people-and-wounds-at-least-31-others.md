@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/29/a-blast-near-the-united-states-consulate-in-pes
 
 ### Changes:
 
-1. [Terrorism in Pakistan:A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-pa-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md) _2017-08-25 03:38:05 (First version)_
-2. [Terrorism in Pakistan:: A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md) _2017-08-27 03:38:16 (Update)_
+1. [Terrorism in Pakistan:A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-pa-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Pakistan:: A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md) _2018-02-06 13:49:24 (Update)_
 2. [A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The Syrian army and its allies have broken a three-year rebel siege of two Shiâ€
 
 ### Changes:
 
-1. [Syrian Civil War: Siege of Nubl and Al-Zahraa: The Syrian Army and its allies break a three-year rebel siege of two Shi-ite towns in northwest Syria, Nubl and Al-Zahraa. ](/news/2016/02/3/syrian-civil-war-siege-of-nubl-and-al-zahraa-the-syrian-army-and-its-allies-break-a-three-year-rebel-siege-of-two-shi-ite-towns-in-north.md) _2017-08-27 03:44:48 (First version)_
+1. [Syrian Civil War: Siege of Nubl and Al-Zahraa: The Syrian Army and its allies break a three-year rebel siege of two Shi-ite towns in northwest Syria, Nubl and Al-Zahraa. ](/news/2016/02/3/syrian-civil-war-siege-of-nubl-and-al-zahraa-the-syrian-army-and-its-allies-break-a-three-year-rebel-siege-of-two-shi-ite-towns-in-north.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army and its allies break a three-year rebel siege of two Shi'ite towns in northwest Syria, Nubl and Al-Zahraa. ](/news/2016/02/3/the-syrian-army-and-its-allies-break-a-three-year-rebel-siege-of-two-shiaite-towns-in-northwest-syria-nubl-and-al-zahraa.md) _(Current version)_
 
 ### Related:

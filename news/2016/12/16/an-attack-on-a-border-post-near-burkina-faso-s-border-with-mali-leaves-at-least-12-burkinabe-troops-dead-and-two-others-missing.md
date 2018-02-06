@@ -16,7 +16,7 @@ Twelve soldiers were killed during an attack by Islamist militants in Burkina Fa
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/insurgency-in-the-maghreb-2002-present-an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-tr.md) _2017-08-27 03:47:27 (First version)_
+1. [Insurgency in the Maghreb (2002-present): An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/insurgency-in-the-maghreb-2002-present-an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-tr.md) _2018-02-06 13:49:29 (First version)_
 1. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostag
 
 ### Changes:
 
-1. [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.{{Fact|date=December 2007}}](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-fact-date-december-2007.md) _2017-05-01 03:22:00 (First version)_
+1. [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.{{Fact|date=December 2007}}](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.date=December 2007](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-date-december-2007.md) _(Current version)_
 
 ### Related:

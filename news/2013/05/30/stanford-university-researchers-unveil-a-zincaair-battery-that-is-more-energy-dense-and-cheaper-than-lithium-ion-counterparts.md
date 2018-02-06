@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/05/30/stanford-university-researchers-unveil-a-zincaa
 
 ### Changes:
 
-1. [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zinc-air-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md) _2017-08-27 03:38:58 (First version)_
+1. [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zinc-air-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md) _2018-02-06 13:49:24 (First version)_
 1. [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zincaair-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-st
 
 ### Changes:
 
-1. [ The Alaskan cruise ship ''Empress of the North'' strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passenger.md) _2017-08-25 03:19:48 (First version)_
+1. [ The Alaskan cruise ship ''Empress of the North'' strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passenger.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Alaskan cruise ship "Empress of the North" strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passengers.md) _(Current version)_
 
 ### Related:

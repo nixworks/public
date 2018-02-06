@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the
 
 ### Changes:
 
-1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried -hijack- the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-hijack-the-copenhagen-summit-s-accord-by-clai.md) _2017-08-27 03:26:41 (First version)_
+1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried -hijack- the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-hijack-the-copenhagen-summit-s-accord-by-clai.md) _2018-02-06 13:49:19 (First version)_
 1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried "hijack" the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Three US soldiers with the Nato-led force in Kandahar province in southern Afgha
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _2017-08-25 03:38:40 (First version)_
-2. [War in Afghanistan (2001-present):: The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001-present-the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _2017-08-27 03:38:52 (Update)_
+1. [War in Afghanistan (2001-present):The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001-present-the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _2018-02-06 13:49:24 (Update)_
 2. [The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _(Current version)_
 
 ### Related:

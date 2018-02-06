@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/08/19/a-photo-journalist-is-ambushed-and-killed-by-un
 
 ### Changes:
 
-1. [Mexican Drug War:A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. ](/news/2012/08/19/mexican-drug-war-pa-photo-journalist-is-ambushed-and-killed-by-unknown-assailants-while-driving-a-vehicle-in-chihuahua-chihuahua.md) _2017-08-25 03:36:18 (First version)_
-2. [Mexican Drug War:: A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. ](/news/2012/08/19/mexican-drug-war-a-photo-journalist-is-ambushed-and-killed-by-unknown-assailants-while-driving-a-vehicle-in-chihuahua-chihuahua.md) _2017-08-27 03:36:29 (Update)_
+1. [Mexican Drug War:A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. ](/news/2012/08/19/mexican-drug-war-pa-photo-journalist-is-ambushed-and-killed-by-unknown-assailants-while-driving-a-vehicle-in-chihuahua-chihuahua.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. ](/news/2012/08/19/mexican-drug-war-a-photo-journalist-is-ambushed-and-killed-by-unknown-assailants-while-driving-a-vehicle-in-chihuahua-chihuahua.md) _2018-02-06 13:49:23 (Update)_
 2. [A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. ](/news/2012/08/19/a-photo-journalist-is-ambushed-and-killed-by-unknown-assailants-while-driving-a-vehicle-in-chihuahua-chihuahua.md) _(Current version)_
 
 ### Related:

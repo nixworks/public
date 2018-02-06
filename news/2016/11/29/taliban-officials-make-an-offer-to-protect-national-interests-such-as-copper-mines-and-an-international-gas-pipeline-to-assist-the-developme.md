@@ -15,7 +15,7 @@ Armed group behind much of the violence over the past 15 years, frightening off 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban officials make an offer to protect national interests such as copper mines and an international gas pipeline to assist the development of Afghanistan. ](/news/2016/11/29/war-in-afghanistan-2015-present-taliban-officials-make-an-offer-to-protect-national-interests-such-as-copper-mines-and-an-international.md) _2017-08-27 03:47:20 (First version)_
+1. [War in Afghanistan (2015-present): Taliban officials make an offer to protect national interests such as copper mines and an international gas pipeline to assist the development of Afghanistan. ](/news/2016/11/29/war-in-afghanistan-2015-present-taliban-officials-make-an-offer-to-protect-national-interests-such-as-copper-mines-and-an-international.md) _2018-02-06 13:49:29 (First version)_
 1. [Taliban officials make an offer to protect national interests such as copper mines and an international gas pipeline to assist the development of Afghanistan. ](/news/2016/11/29/taliban-officials-make-an-offer-to-protect-national-interests-such-as-copper-mines-and-an-international-gas-pipeline-to-assist-the-developme.md) _(Current version)_
 
 ### Related:

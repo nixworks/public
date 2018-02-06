@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-af
 
 ### Changes:
 
-1. [Recognition of same-sex unions in Germany: German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/recognition-of-same-sex-unions-in-germany-german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition.md) _2017-08-27 03:48:34 (First version)_
+1. [Recognition of same-sex unions in Germany: German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/recognition-of-same-sex-unions-in-germany-german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition.md) _2018-02-06 13:49:30 (First version)_
 1. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _(Current version)_
 
 ### Related:

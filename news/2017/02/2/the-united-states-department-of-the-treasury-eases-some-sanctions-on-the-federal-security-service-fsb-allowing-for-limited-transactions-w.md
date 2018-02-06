@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/2/the-united-states-department-of-the-treasury-eas
 
 ### Changes:
 
-1. [Russia-United States relations: The United States Department of the Treasury eases some sanctions on the Federal Security Service (FSB), allowing for limited transactions with the intelligence agency. The sanctions were put in place last year by Barack Obama over alleged Russian interference in the 2016 U.S. election. ](/news/2017/02/2/russia-united-states-relations-the-united-states-department-of-the-treasury-eases-some-sanctions-on-the-federal-security-service-fsb-a.md) _2017-08-27 03:47:45 (First version)_
+1. [Russia-United States relations: The United States Department of the Treasury eases some sanctions on the Federal Security Service (FSB), allowing for limited transactions with the intelligence agency. The sanctions were put in place last year by Barack Obama over alleged Russian interference in the 2016 U.S. election. ](/news/2017/02/2/russia-united-states-relations-the-united-states-department-of-the-treasury-eases-some-sanctions-on-the-federal-security-service-fsb-a.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Department of the Treasury eases some sanctions on the Federal Security Service (FSB), allowing for limited transactions with the intelligence agency. The sanctions were put in place last year by Barack Obama over alleged Russian interference in the 2016 U.S. election. ](/news/2017/02/2/the-united-states-department-of-the-treasury-eases-some-sanctions-on-the-federal-security-service-fsb-allowing-for-limited-transactions-w.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ Amman, March 1 (DPA) Hundreds of relatives protested in Amman Tuesday to press f
 
 ##### civil war
 ### [Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md)
-_Context: Misrata, civil war, Al-Jazeera, Libya, Muammar Gaddafi_
+_Context: Al-Jazeera, Libya, civil war, Muammar Gaddafi, Misrata_
 
 ##### anti-government protests
 ### [2011 Omani protests: A fourth day of protests take place, with security forces firing into the air in an attempt to disperse protesters. ](/news/2011/03/1/2011-omani-protests-a-fourth-day-of-protests-take-place-with-security-forces-firing-into-the-air-in-an-attempt-to-disperse-protesters.md)
@@ -29,7 +29,7 @@ Archaeologists have recovered six cannons from the ships of Welsh privateer Henr
 
 ##### Christian Dior S.A.
 ### [Christian Dior S.A. fires fashion designer John Galliano following a series of anti-semitic remarks. ](/news/2011/03/1/christian-dior-s-a-fires-fashion-designer-john-galliano-following-a-series-of-anti-semitic-remarks.md)
-_Context: fashion designer, Christian Dior S.A., John Galliano, anti-semitic_
+_Context: John Galliano, Christian Dior S.A., fashion designer, anti-semitic_
 
 ##### Charlie Sheen
 ### [American actor Charlie Sheen loses custody of his two sons Bob and Max following claims by their mother Brooke Mueller that he made threats of domestic violence. ](/news/2011/03/1/american-actor-charlie-sheen-loses-custody-of-his-two-sons-bob-and-max-following-claims-by-their-mother-brooke-mueller-that-he-made-threats.md)
@@ -45,7 +45,7 @@ The death toll from the Christchurch earthquake is likely to be about 240, polic
 
 ##### South Korean President
 ### [The President of South Korea Lee Myung-bak calls on North Korea to abandon its nuclear and missile programs. ](/news/2011/03/1/the-president-of-south-korea-lee-myung-bak-calls-on-north-korea-to-abandon-its-nuclear-and-missile-programs.md)
-_Context: Lee Myung-bak, North Korea, South Korean President_
+_Context: South Korean President, North Korea, Lee Myung-bak_
 
 ##### life sentence
 ### [Eleven people are sentenced to death and twenty to life sentences for their roles in the Godhra train burning in New Delhi, India. ](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.md)
@@ -65,7 +65,7 @@ _Context: main opposition party, Sierra Leone_
 
 ##### Jody Weis
 ### [Jody Weis resigns as the Superintendent of the Chicago Police Department in the US city of Chicago. ](/news/2011/03/1/jody-weis-resigns-as-the-superintendent-of-the-chicago-police-department-in-the-us-city-of-chicago.md)
-_Context: Chicago, Chicago police, Jody Weis_
+_Context: Jody Weis, Chicago police, Chicago_
 
 ##### 2011 Yemeni protests
 ### [The protests in Yemen continue with tens of thousands of protestors in the streets in a "Day of Rage". ](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.md)
@@ -73,11 +73,11 @@ _Context: 2011 Yemeni protests, Yemen_
 
 ##### German
 ### [The German Federal Minister for Defence Karl-Theodor zu Guttenberg resigns over a plagiarism scandal. ](/news/2011/03/1/the-german-federal-minister-for-defence-karl-theodor-zu-guttenberg-resigns-over-a-plagiarism-scandal.md)
-_Context: Federal Minister for Defence, German, Karl-Theodor zu Guttenberg, plagiarising_
+_Context: German, Karl-Theodor zu Guttenberg, plagiarising, Federal Minister for Defence_
 
 ##### Canadian
 ### [The Canadian Federal Court of Appeal rules against the Conservative Party of Canada on ad spending prior to the Canadian federal election, 2006, while the Harper government reaches 43% support and announces cuts to the budget. ](/news/2011/03/1/the-canadian-federal-court-of-appeal-rules-against-the-conservative-party-of-canada-on-ad-spending-prior-to-the-canadian-federal-election-2.md)
-_Context: Conservative Party's, Federal Court of Appeal, Harper government, Canadian, Canadian federal election, 2006_
+_Context: Canadian federal election, 2006, Federal Court of Appeal, Canadian, Harper government, Conservative Party's_
 
 ## [Previous Day...](/news/2011/02/28/index.md)
 

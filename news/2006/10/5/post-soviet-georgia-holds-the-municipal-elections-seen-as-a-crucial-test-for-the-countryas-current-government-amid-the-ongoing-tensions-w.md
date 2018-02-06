@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-election
 
 ### Changes:
 
-1. [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country-s current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-country-s-current-government-amid-the-ongoing-tensions-w.md) _2017-08-27 03:18:26 (First version)_
+1. [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country-s current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-country-s-current-government-amid-the-ongoing-tensions-w.md) _2018-02-06 13:49:17 (First version)_
 1. [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country's current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-countryas-current-government-amid-the-ongoing-tensions-w.md) _(Current version)_
 
 ### Related:

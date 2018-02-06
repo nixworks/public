@@ -19,8 +19,8 @@ The British press has released details of the use of chemical weapons in the Syr
 
 ### Changes:
 
-1. [Syrian civil war:Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/syrian-civil-war-ptwenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md) _2017-08-25 03:38:19 (First version)_
-2. [Syrian civil war:: Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/syrian-civil-war-twenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md) _2017-08-27 03:38:32 (Update)_
+1. [Syrian civil war:: Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/syrian-civil-war-twenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/syrian-civil-war-ptwenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md) _2018-02-06 13:49:24 (Update)_
 2. [Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/twenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md) _(Current version)_
 
 ### Related:

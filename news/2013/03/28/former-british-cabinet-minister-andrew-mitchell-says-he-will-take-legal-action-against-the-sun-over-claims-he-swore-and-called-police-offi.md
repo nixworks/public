@@ -16,7 +16,7 @@ Former cabinet minister Andrew Mitchell is suing the Sun over claims he swore an
 
 ### Changes:
 
-1. [Former British Cabinet minister Andrew Mitchell says he will take legal action against ''The Sun'' over claims he swore and called police officers plebs in a row in Downing Street. ](/news/2013/03/28/former-british-cabinet-minister-andrew-mitchell-says-he-will-take-legal-action-against-the-sun-over-claims-he-swore-and-called-police-of.md) _2017-08-25 03:38:04 (First version)_
+1. [Former British Cabinet minister Andrew Mitchell says he will take legal action against ''The Sun'' over claims he swore and called police officers plebs in a row in Downing Street. ](/news/2013/03/28/former-british-cabinet-minister-andrew-mitchell-says-he-will-take-legal-action-against-the-sun-over-claims-he-swore-and-called-police-of.md) _2018-02-06 13:49:24 (First version)_
 1. [Former British Cabinet minister Andrew Mitchell says he will take legal action against "The Sun" over claims he swore and called police officers plebs in a row in Downing Street. ](/news/2013/03/28/former-british-cabinet-minister-andrew-mitchell-says-he-will-take-legal-action-against-the-sun-over-claims-he-swore-and-called-police-offi.md) _(Current version)_
 
 ### Related:

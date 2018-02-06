@@ -16,7 +16,7 @@ A motorcycle bomb killed a father and daughter in front of a Thai elementary sch
 
 ### Changes:
 
-1. [South Thailand insurgency: A motorcycle bomb kills a father and daughter outside an elementary school in Narathiwat province. ](/news/2016/09/6/south-thailand-insurgency-a-motorcycle-bomb-kills-a-father-and-daughter-outside-an-elementary-school-in-narathiwat-province.md) _2017-08-27 03:46:47 (First version)_
+1. [South Thailand insurgency: A motorcycle bomb kills a father and daughter outside an elementary school in Narathiwat province. ](/news/2016/09/6/south-thailand-insurgency-a-motorcycle-bomb-kills-a-father-and-daughter-outside-an-elementary-school-in-narathiwat-province.md) _2018-02-06 13:49:29 (First version)_
 1. [A motorcycle bomb kills a father and daughter outside an elementary school in Narathiwat province. ](/news/2016/09/6/a-motorcycle-bomb-kills-a-father-and-daughter-outside-an-elementary-school-in-narathiwat-province.md) _(Current version)_
 
 ### Related:

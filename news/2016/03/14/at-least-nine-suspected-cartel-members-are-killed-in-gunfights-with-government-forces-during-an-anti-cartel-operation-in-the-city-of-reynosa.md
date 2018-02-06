@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-kill
 
 ### Changes:
 
-1. [Mexican Drug War: At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/mexican-drug-war-at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-t.md) _2017-08-27 03:45:14 (First version)_
+1. [Mexican Drug War: At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/mexican-drug-war-at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-t.md) _2018-02-06 13:49:28 (First version)_
 1. [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md) _(Current version)_
 
 ### Related:

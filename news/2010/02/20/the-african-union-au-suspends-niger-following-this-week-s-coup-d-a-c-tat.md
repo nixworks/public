@@ -19,8 +19,8 @@ Capital calm as international bodies urge military leadership to restore democra
 
 ### Changes:
 
-1. [2010 Nigerien coup d'etat:The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-pthe-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _2017-08-25 03:27:11 (First version)_
-2. [2010 Nigerien coup d'etat:: The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _2017-08-27 03:27:06 (Update)_
+1. [2010 Nigerien coup d'etat:: The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Nigerien coup d'etat:The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-pthe-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _2018-02-06 13:49:19 (Update)_
 2. [The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md) _(Current version)_
 
 ### Related:

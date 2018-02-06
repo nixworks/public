@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/26/islamist-terror-group-boko-haram-kills-at-least
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-insurgency-in-nigeria-pislamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeaste.md) _2017-08-25 03:40:27 (First version)_
-2. [Islamist insurgency in Nigeria:: Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-insurgency-in-nigeria-islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeast.md) _2017-08-27 03:40:45 (Update)_
+1. [Islamist insurgency in Nigeria:Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-insurgency-in-nigeria-pislamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeaste.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-insurgency-in-nigeria-islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeast.md) _2018-02-06 13:49:26 (Update)_
 2. [Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeastern-yobe-state.md) _(Current version)_
 
 ### Related:

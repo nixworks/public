@@ -17,8 +17,8 @@ Fears are growing in Haiti over the spread of cholera, as the death toll rises t
 
 ### Changes:
 
-1. [2010 Haiti cholera outbreak:Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-pdoctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md) _2017-08-25 03:30:58 (First version)_
-2. [2010 Haiti cholera outbreak:: Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md) _2017-08-27 03:31:04 (Update)_
+1. [2010 Haiti cholera outbreak:Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-pdoctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md) _2018-02-06 13:49:21 (First version)_
+2. [2010 Haiti cholera outbreak:: Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md) _2018-02-06 13:49:21 (Update)_
 2. [Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md) _(Current version)_
 
 ### Related:

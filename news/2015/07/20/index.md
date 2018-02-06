@@ -17,7 +17,7 @@ _Context: Greek government-debt crisis timeline_
 
 ##### Lockheed
 ### [Lockheed Martin agrees to buy United Technologies Corp's Sikorsky Aircraft for $9 billion. ](/news/2015/07/20/lockheed-martin-agrees-to-buy-united-technologies-corp-s-sikorsky-aircraft-for-9-billion.md)
-_Context: Sikorsky Aircraft, Lockheed, United Technologies Corp_
+_Context: Sikorsky Aircraft, United Technologies Corp, Lockheed_
 
 ##### Venezuela
 ### [Venezuela orders producers to divert supplies to state stores amid a chronic shortage of goods. ](/news/2015/07/20/venezuela-orders-producers-to-divert-supplies-to-state-stores-amid-a-chronic-shortage-of-goods.md)
@@ -25,11 +25,11 @@ _Context: Venezuela_
 
 ##### Joint Comprehensive Plan of Action
 ### [The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-six-world-powers-in-return-for-sanctio.md)
-_Context: Joint Comprehensive Plan of Action, Iran, United Nations Security Council, several world powers, Nuclear Pact_
+_Context: Nuclear Pact, Iran, several world powers, United Nations Security Council, Joint Comprehensive Plan of Action_
 
 ##### United States
 ### [The United States and Cuba resume full diplomatic relations after five decades. ](/news/2015/07/20/the-united-states-and-cuba-resume-full-diplomatic-relations-after-five-decades.md)
-_Context: Cuba, United States, Cuba-United States relations_
+_Context: United States, Cuba, Cuba-United States relations_
 
 ##### Philae
 ### [ The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-control.md)

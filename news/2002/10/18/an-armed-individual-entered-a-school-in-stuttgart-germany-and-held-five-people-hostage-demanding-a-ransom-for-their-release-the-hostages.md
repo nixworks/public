@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/18/an-armed-individual-entered-a-school-in-stuttga
 
 ### Changes:
 
-1. [ An armed individual entered a school in Stuttgart, Germany and held five people hostage, demanding a ransom for their release. The hostages were known to be four schoolchildren and one teacher. The 16-year-old subsequently released the hostages and surrendered peacefully.](/news/2002/10/18/an-armed-individual-entered-a-school-in-stuttgart-germany-and-held-five-people-hostage-demanding-a-ransom-for-their-release-the-hostage.md) _2017-08-25 03:15:15 (First version)_
+1. [ An armed individual entered a school in Stuttgart, Germany and held five people hostage, demanding a ransom for their release. The hostages were known to be four schoolchildren and one teacher. The 16-year-old subsequently released the hostages and surrendered peacefully.](/news/2002/10/18/an-armed-individual-entered-a-school-in-stuttgart-germany-and-held-five-people-hostage-demanding-a-ransom-for-their-release-the-hostage.md) _2018-02-06 13:49:15 (First version)_
 1. [ An armed individual entered a school in Stuttgart, Germany and held five people hostage, demanding a ransom for their release. The hostages were known to be four schoolchildren and one teacher. The 16-year-old subsequently released the hostages and surrendered peacefully.](/news/2002/10/18/an-armed-individual-entered-a-school-in-stuttgart-germany-and-held-five-people-hostage-demanding-a-ransom-for-their-release-the-hostages.md) _(Current version)_
 
 ### Related:

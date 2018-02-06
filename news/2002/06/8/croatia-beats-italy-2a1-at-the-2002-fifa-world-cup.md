@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/8/croatia-beats-italy-2a1-at-the-2002-fifa-world-c
 
 ### Changes:
 
-1. [ Croatia beats Italy 2-1 at the 2002 FIFA World Cup.](/news/2002/06/8/croatia-beats-italy-2-1-at-the-2002-fifa-world-cup.md) _2017-08-27 03:15:13 (First version)_
+1. [ Croatia beats Italy 2-1 at the 2002 FIFA World Cup.](/news/2002/06/8/croatia-beats-italy-2-1-at-the-2002-fifa-world-cup.md) _2018-02-06 13:49:15 (First version)_
 1. [ Croatia beats Italy 2-1 at the 2002 FIFA World Cup.](/news/2002/06/8/croatia-beats-italy-2a1-at-the-2002-fifa-world-cup.md) _(Current version)_
 
 ### Related:

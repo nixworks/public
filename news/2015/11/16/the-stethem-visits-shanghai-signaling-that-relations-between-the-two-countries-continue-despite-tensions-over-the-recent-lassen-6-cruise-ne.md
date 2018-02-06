@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [The USS Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent USS Lassen cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-uss-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-uss-lassen-cru.md) _2017-10-17 03:50:35 (First version)_
+1. [The USS Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent USS Lassen cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-uss-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-uss-lassen-cru.md) _2018-02-06 13:49:28 (First version)_
 1. [The Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent Lassen 6 cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-lassen-6-cruise-ne.md) _(Current version)_
 
 ### Related:

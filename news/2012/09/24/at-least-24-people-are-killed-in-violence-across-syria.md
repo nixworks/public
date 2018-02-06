@@ -17,8 +17,8 @@ Some 24 people died in government shelling attacks in Syria on Monday hours befo
 
 ### Changes:
 
-1. [Syrian civil war:At least 24 people are killed in violence across Syria. ](/news/2012/09/24/syrian-civil-war-pat-least-24-people-are-killed-in-violence-across-syria.md) _2017-08-25 03:36:35 (First version)_
-2. [Syrian civil war:: At least 24 people are killed in violence across Syria. ](/news/2012/09/24/syrian-civil-war-at-least-24-people-are-killed-in-violence-across-syria.md) _2017-08-27 03:36:45 (Update)_
+1. [Syrian civil war:At least 24 people are killed in violence across Syria. ](/news/2012/09/24/syrian-civil-war-pat-least-24-people-are-killed-in-violence-across-syria.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: At least 24 people are killed in violence across Syria. ](/news/2012/09/24/syrian-civil-war-at-least-24-people-are-killed-in-violence-across-syria.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 24 people are killed in violence across Syria. ](/news/2012/09/24/at-least-24-people-are-killed-in-violence-across-syria.md) _(Current version)_
 
 ### Related:

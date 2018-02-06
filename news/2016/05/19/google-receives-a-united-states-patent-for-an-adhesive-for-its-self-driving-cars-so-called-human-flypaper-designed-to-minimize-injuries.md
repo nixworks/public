@@ -17,7 +17,7 @@ Google knows that its self-driving cars are going to get into accidents — mayb
 
 ### Changes:
 
-1. [ Google receives a United States patent for an adhesive for its self-driving cars, so-called ''human flypaper'', designed to minimize injuries in a pedestrian accident by holding the person to the car rather than being thrown after impact. ](/news/2016/05/19/google-receives-a-united-states-patent-for-an-adhesive-for-its-self-driving-cars-so-called-human-flypaper-designed-to-minimize-injur.md) _2017-08-25 03:45:41 (First version)_
+1. [ Google receives a United States patent for an adhesive for its self-driving cars, so-called ''human flypaper'', designed to minimize injuries in a pedestrian accident by holding the person to the car rather than being thrown after impact. ](/news/2016/05/19/google-receives-a-united-states-patent-for-an-adhesive-for-its-self-driving-cars-so-called-human-flypaper-designed-to-minimize-injur.md) _2018-02-06 13:49:29 (First version)_
 1. [ Google receives a United States patent for an adhesive for its self-driving cars, so-called "human flypaper", designed to minimize injuries in a pedestrian accident by holding the person to the car rather than being thrown after impact. ](/news/2016/05/19/google-receives-a-united-states-patent-for-an-adhesive-for-its-self-driving-cars-so-called-human-flypaper-designed-to-minimize-injuries.md) _(Current version)_
 
 ### Related:

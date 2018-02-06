@@ -15,8 +15,8 @@ U.S. special forces are aiding troops from the Philippines in attempting to brea
 
 ### Changes:
 
-1. [United States special forces join the battle in Marawi against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-against-the-maute.md) _2017-06-10 14:30:07 (First version)_
-2. [Marawi crisis: United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/marawi-crisis-united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _2017-08-27 03:48:28 (Update)_
+1. [United States special forces join the battle in Marawi against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-against-the-maute.md) _2018-02-06 13:49:30 (First version)_
+2. [Marawi crisis: United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/marawi-crisis-united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _2018-02-06 13:49:30 (Update)_
 2. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _(Current version)_
 
 ### Related:

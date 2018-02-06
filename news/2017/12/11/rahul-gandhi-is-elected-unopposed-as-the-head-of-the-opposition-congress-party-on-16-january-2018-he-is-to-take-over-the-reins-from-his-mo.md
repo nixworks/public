@@ -17,7 +17,7 @@ The Congress on Monday named Rahul Gandhi its new president. &quot;I hereby decl
 
 ### Changes:
 
-1. [Rahul Gandhi is elected unopposed as the head of the opposition Congress Party. On the 16th of January, he is to take over the reins from his mother Sonia Gandhi, who held the position for 19 years. ](/news/2017/12/11/rahul-gandhi-is-elected-unopposed-as-the-head-of-the-opposition-congress-party-on-the-16th-of-january-he-is-to-take-over-the-reins-from-hi.md) _2017-12-12 00:30:07 (First version)_
+1. [Rahul Gandhi is elected unopposed as the head of the opposition Congress Party. On the 16th of January, he is to take over the reins from his mother Sonia Gandhi, who held the position for 19 years. ](/news/2017/12/11/rahul-gandhi-is-elected-unopposed-as-the-head-of-the-opposition-congress-party-on-the-16th-of-january-he-is-to-take-over-the-reins-from-hi.md) _2018-02-06 13:49:31 (First version)_
 1. [Rahul Gandhi is elected unopposed as the head of the opposition Congress Party. On 16 January 2018, he is to take over the reins from his mother Sonia Gandhi, who held the position for 19 years. ](/news/2017/12/11/rahul-gandhi-is-elected-unopposed-as-the-head-of-the-opposition-congress-party-on-16-january-2018-he-is-to-take-over-the-reins-from-his-mo.md) _(Current version)_
 
 ### Related:

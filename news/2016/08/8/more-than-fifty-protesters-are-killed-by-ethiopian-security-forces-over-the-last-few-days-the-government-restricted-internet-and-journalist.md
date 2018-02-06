@@ -15,7 +15,7 @@ Security forces accused of shooting dead people in Oromia and Amhara regions in 
 
 ### Changes:
 
-1. [2016 Ethiopian protests: More than fifty protesters are killed by Ethiopian security forces over the last few days. The government restricted internet and journalist access to the country. ](/news/2016/08/8/2016-ethiopian-protests-more-than-fifty-protesters-are-killed-by-ethiopian-security-forces-over-the-last-few-days-the-government-restricte.md) _2017-08-27 03:46:37 (First version)_
+1. [2016 Ethiopian protests: More than fifty protesters are killed by Ethiopian security forces over the last few days. The government restricted internet and journalist access to the country. ](/news/2016/08/8/2016-ethiopian-protests-more-than-fifty-protesters-are-killed-by-ethiopian-security-forces-over-the-last-few-days-the-government-restricte.md) _2018-02-06 13:49:29 (First version)_
 1. [More than fifty protesters are killed by Ethiopian security forces over the last few days. The government restricted internet and journalist access to the country. ](/news/2016/08/8/more-than-fifty-protesters-are-killed-by-ethiopian-security-forces-over-the-last-few-days-the-government-restricted-internet-and-journalist.md) _(Current version)_
 
 ### Related:

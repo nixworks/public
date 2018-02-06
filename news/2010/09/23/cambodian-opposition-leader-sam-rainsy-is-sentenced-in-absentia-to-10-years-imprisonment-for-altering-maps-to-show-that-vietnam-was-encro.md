@@ -17,7 +17,7 @@ Cambodian opposition leader Sam Rainsy is sentenced to 10 years in jail in his a
 
 ### Changes:
 
-1. [Cambodian opposition leader Sam Rainsy is sentenced ''in absentia'' to 10 years' imprisonment for altering maps to show that Vietnam was encroaching on Cambodian territory. ](/news/2010/09/23/cambodian-opposition-leader-sam-rainsy-is-sentenced-in-absentia-to-10-years-imprisonment-for-altering-maps-to-show-that-vietnam-was-enc.md) _2017-08-25 03:30:12 (First version)_
+1. [Cambodian opposition leader Sam Rainsy is sentenced ''in absentia'' to 10 years' imprisonment for altering maps to show that Vietnam was encroaching on Cambodian territory. ](/news/2010/09/23/cambodian-opposition-leader-sam-rainsy-is-sentenced-in-absentia-to-10-years-imprisonment-for-altering-maps-to-show-that-vietnam-was-enc.md) _2018-02-06 13:49:20 (First version)_
 1. [Cambodian opposition leader Sam Rainsy is sentenced "in absentia" to 10 years' imprisonment for altering maps to show that Vietnam was encroaching on Cambodian territory. ](/news/2010/09/23/cambodian-opposition-leader-sam-rainsy-is-sentenced-in-absentia-to-10-years-imprisonment-for-altering-maps-to-show-that-vietnam-was-encro.md) _(Current version)_
 
 ### Related:

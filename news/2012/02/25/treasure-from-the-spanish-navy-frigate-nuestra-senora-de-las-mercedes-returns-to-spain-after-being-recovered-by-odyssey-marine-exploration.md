@@ -16,7 +16,7 @@ Coins worth nearly half a billion dollars finally arrived in Spain on Saturday a
 
 ### Changes:
 
-1. [Treasure from the Spanish Navy frigate ''Nuestra Seora de las Mercedes'' returns to Spain after being recovered by Odyssey Marine Exploration in 2007. ](/news/2012/02/25/treasure-from-the-spanish-navy-frigate-nuestra-senora-de-las-mercedes-returns-to-spain-after-being-recovered-by-odyssey-marine-explorati.md) _2017-08-25 03:35:08 (First version)_
+1. [Treasure from the Spanish Navy frigate ''Nuestra Seora de las Mercedes'' returns to Spain after being recovered by Odyssey Marine Exploration in 2007. ](/news/2012/02/25/treasure-from-the-spanish-navy-frigate-nuestra-senora-de-las-mercedes-returns-to-spain-after-being-recovered-by-odyssey-marine-explorati.md) _2018-02-06 13:49:23 (First version)_
 1. [Treasure from the Spanish Navy frigate "Nuestra Seora de las Mercedes" returns to Spain after being recovered by Odyssey Marine Exploration in 2007. ](/news/2012/02/25/treasure-from-the-spanish-navy-frigate-nuestra-senora-de-las-mercedes-returns-to-spain-after-being-recovered-by-odyssey-marine-exploration.md) _(Current version)_
 
 ### Related:

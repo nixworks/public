@@ -16,7 +16,7 @@ President says Turkish troops will be on island in perpetuity and proposed terms
 
 ### Changes:
 
-1. [Cyprus dispute: Turkish President Recep Tayyip Erdogan vows that the Turkish Armed Forces will stay on Cyprus "in perpetuity" and that the proposal of a rotating presidency for a unified island is unacceptable, casting doubts on an eventual solution to the dispute. The remarks come as the latest round of unity talks end, with them to restart on January 18. ](/news/2017/01/13/cyprus-dispute-turkish-president-recep-tayyip-erdoaan-vows-that-the-turkish-armed-forces-will-stay-on-cyprus-in-perpetuity-and-that-the.md) _2017-08-27 03:47:36 (First version)_
+1. [Cyprus dispute: Turkish President Recep Tayyip Erdogan vows that the Turkish Armed Forces will stay on Cyprus "in perpetuity" and that the proposal of a rotating presidency for a unified island is unacceptable, casting doubts on an eventual solution to the dispute. The remarks come as the latest round of unity talks end, with them to restart on January 18. ](/news/2017/01/13/cyprus-dispute-turkish-president-recep-tayyip-erdoaan-vows-that-the-turkish-armed-forces-will-stay-on-cyprus-in-perpetuity-and-that-the.md) _2018-02-06 13:49:30 (First version)_
 1. [Turkish President Recep Tayyip Erdogan vows that the Turkish Armed Forces will stay on Cyprus "in perpetuity" and that the proposal of a rotating presidency for a unified island is unacceptable, casting doubts on an eventual solution to the dispute. The remarks come as the latest round of unity talks end, with them to restart on January 18. ](/news/2017/01/13/turkish-president-recep-tayyip-erdoaan-vows-that-the-turkish-armed-forces-will-stay-on-cyprus-in-perpetuity-and-that-the-proposal-of-a-ro.md) _(Current version)_
 
 ### Related:

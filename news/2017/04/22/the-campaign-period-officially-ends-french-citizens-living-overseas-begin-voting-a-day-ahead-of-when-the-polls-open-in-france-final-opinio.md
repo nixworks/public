@@ -18,7 +18,7 @@ The final hours of campaigning for the French presidential elections have been o
 
 ### Changes:
 
-1. [2017 French presidential election: The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. ](/news/2017/04/22/2017-french-presidential-election-the-campaign-period-officially-ends-french-citizens-living-overseas-begin-voting-a-day-ahead-of-when-the.md) _2017-08-27 03:48:13 (First version)_
+1. [2017 French presidential election: The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. ](/news/2017/04/22/2017-french-presidential-election-the-campaign-period-officially-ends-french-citizens-living-overseas-begin-voting-a-day-ahead-of-when-the.md) _2018-02-06 13:49:30 (First version)_
 1. [The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. ](/news/2017/04/22/the-campaign-period-officially-ends-french-citizens-living-overseas-begin-voting-a-day-ahead-of-when-the-polls-open-in-france-final-opinio.md) _(Current version)_
 
 ### Related:

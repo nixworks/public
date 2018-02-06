@@ -17,8 +17,8 @@ The 74-year-old ousted Tunisian president, exiled in Saudi Arabia, is said to be
 
 ### Changes:
 
-1. [Other Arab Spring Events:Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/other-arab-spring-events-pformer-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to-h.md) _2017-08-25 03:32:15 (First version)_
-2. [Other Arab Spring Events:: Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/other-arab-spring-events-former-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to.md) _2017-08-27 03:32:23 (Update)_
+1. [Other Arab Spring Events:Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/other-arab-spring-events-pformer-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to-h.md) _2018-02-06 13:49:22 (First version)_
+2. [Other Arab Spring Events:: Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/other-arab-spring-events-former-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to.md) _2018-02-06 13:49:22 (Update)_
 2. [Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/former-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to-have-slipped-into-a-coma-fo.md) _(Current version)_
 
 ### Related:

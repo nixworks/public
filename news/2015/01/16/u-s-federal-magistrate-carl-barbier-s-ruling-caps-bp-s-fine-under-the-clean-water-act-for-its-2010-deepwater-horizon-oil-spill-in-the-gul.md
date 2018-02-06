@@ -16,7 +16,7 @@ BP Plc (BP.L) will face a maximum fine of $13.7 billion under the Clean Water Ac
 
 ### Changes:
 
-1. [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 ''Deepwater Horizon'' oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-g.md) _2017-08-25 03:41:30 (First version)_
+1. [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 ''Deepwater Horizon'' oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-g.md) _2018-02-06 13:49:26 (First version)_
 1. [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 "Deepwater Horizon" oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-gul.md) _(Current version)_
 
 ### Related:

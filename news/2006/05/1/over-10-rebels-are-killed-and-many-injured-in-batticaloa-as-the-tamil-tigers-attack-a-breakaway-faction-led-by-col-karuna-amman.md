@@ -18,8 +18,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Changes:
 
-1. [ Sri Lankan Civil War: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-p-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md) _2017-08-25 03:17:35 (First version)_
-2. [ Sri Lankan Civil War:: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md) _2017-08-27 03:17:35 (Update)_
+1. [ Sri Lankan Civil War: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-p-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md) _2018-02-06 13:49:17 (First version)_
+2. [ Sri Lankan Civil War:: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md) _2018-02-06 13:49:17 (Update)_
 2. [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Take a look at the latest and archived public health news releases published by 
 
 ### Changes:
 
-1. [Brazil Zika virus outbreak (2015 - present): The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/brazil-zika-virus-outbreak-2015-present-the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-coun.md) _2017-08-27 03:44:41 (First version)_
+1. [Brazil Zika virus outbreak (2015 - present): The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/brazil-zika-virus-outbreak-2015-present-the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-coun.md) _2018-02-06 13:49:28 (First version)_
 1. [The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.md) _(Current version)_
 
 ### Related:

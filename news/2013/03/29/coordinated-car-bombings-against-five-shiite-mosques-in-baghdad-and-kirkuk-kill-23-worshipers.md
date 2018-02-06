@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-pcoordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md) _2017-08-25 03:38:05 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md) _2017-08-27 03:38:16 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-pcoordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md) _2018-02-06 13:49:24 (Update)_
 2. [Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md) _(Current version)_
 
 ### Related:

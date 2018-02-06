@@ -16,7 +16,7 @@ When politicians smear science, real people get hurt. I’m marching because we 
 
 ### Changes:
 
-1. [March for Science: People around the world gather during Earth Day to bring awareness to science. ](/news/2017/04/22/march-for-science-people-around-the-world-gather-during-earth-day-to-bring-awareness-to-science.md) _2017-08-27 03:48:13 (First version)_
+1. [March for Science: People around the world gather during Earth Day to bring awareness to science. ](/news/2017/04/22/march-for-science-people-around-the-world-gather-during-earth-day-to-bring-awareness-to-science.md) _2018-02-06 13:49:30 (First version)_
 1. [People around the world gather during Earth Day to bring awareness to science. ](/news/2017/04/22/people-around-the-world-gather-during-earth-day-to-bring-awareness-to-science.md) _(Current version)_
 
 ### Related:

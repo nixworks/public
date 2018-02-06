@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lotter
 
 ### Changes:
 
-1. [A British ticket scoops the largest ever lottery prize in Europe, the PS161,653,000 EuroMillions jackpot, by securing all five numbers and both Lucky Stars. ](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lottery-prize-in-europe-the-aps161-653-000-euromillions-jackpot-by-securing-all-five-numbers-and-b.md) _2017-08-25 03:33:45 (First version)_
+1. [A British ticket scoops the largest ever lottery prize in Europe, the PS161,653,000 EuroMillions jackpot, by securing all five numbers and both Lucky Stars. ](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lottery-prize-in-europe-the-aps161-653-000-euromillions-jackpot-by-securing-all-five-numbers-and-b.md) _2018-02-06 13:49:22 (First version)_
 1. [A British ticket scoops the largest ever lottery prize in Europe, the GBP161,653,000 EuroMillions jackpot, by securing all five numbers and both Lucky Stars. ](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lottery-prize-in-europe-the-agbp161-653-000-euromillions-jackpot-by-securing-all-five-numbers-and.md) _(Current version)_
 
 ### Related:

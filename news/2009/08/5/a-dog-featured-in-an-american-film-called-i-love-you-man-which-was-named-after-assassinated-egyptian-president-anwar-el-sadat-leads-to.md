@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love
 
 ### Changes:
 
-1. [ A dog featured in an American film called ''I Love You, Man'', which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads.md) _2017-08-25 03:25:22 (First version)_
+1. [ A dog featured in an American film called ''I Love You, Man'', which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads.md) _2018-02-06 13:49:19 (First version)_
 1. [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md) _(Current version)_
 
 ### Related:

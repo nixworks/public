@@ -16,8 +16,8 @@ A suicide bombing claimed by al Qaeda killed at least 26 people outside a presid
 
 ### Changes:
 
-1. [Yemen:An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-pan-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md) _2017-08-25 03:35:08 (First version)_
-2. [Yemen:: An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md) _2017-08-27 03:35:17 (Update)_
+1. [Yemen:An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-pan-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md) _2018-02-06 13:49:23 (First version)_
+2. [Yemen:: An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md) _2018-02-06 13:49:23 (Update)_
 2. [An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md) _(Current version)_
 
 ### Related:

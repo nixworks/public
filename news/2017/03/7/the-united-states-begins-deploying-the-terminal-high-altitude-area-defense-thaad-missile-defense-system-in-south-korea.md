@@ -16,7 +16,7 @@ The start of the Thaad deployment comes a day after North Korea launched four ba
 
 ### Changes:
 
-1. [South Korea-United States relations: The United States begins deploying the Terminal High Altitude Area Defense (THAAD) missile defense system in South Korea. ](/news/2017/03/7/south-korea-united-states-relations-the-united-states-begins-deploying-the-terminal-high-altitude-area-defense-thaad-missile-defense-sy.md) _2017-08-27 03:47:57 (First version)_
+1. [South Korea-United States relations: The United States begins deploying the Terminal High Altitude Area Defense (THAAD) missile defense system in South Korea. ](/news/2017/03/7/south-korea-united-states-relations-the-united-states-begins-deploying-the-terminal-high-altitude-area-defense-thaad-missile-defense-sy.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States begins deploying the Terminal High Altitude Area Defense (THAAD) missile defense system in South Korea. ](/news/2017/03/7/the-united-states-begins-deploying-the-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-south-korea.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ David Drumm has resigned as chief executive of Anglo Irish Bank following last n
 
 ### Changes:
 
-1. [ Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of -87 million in loans. ](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-chairman-sean-fitzpatrick-admits-to-concealing-a-total-of-87-million-in-loans.md) _2017-08-27 03:23:12 (First version)_
+1. [ Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of -87 million in loans. ](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-chairman-sean-fitzpatrick-admits-to-concealing-a-total-of-87-million-in-loans.md) _2018-02-06 13:49:18 (First version)_
 1. [ Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of EUR87 million in loans. ](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-chairman-sean-fitzpatrick-admits-to-concealing-a-total-of-a-87-million-in-loans.md) _(Current version)_
 
 ### Related:

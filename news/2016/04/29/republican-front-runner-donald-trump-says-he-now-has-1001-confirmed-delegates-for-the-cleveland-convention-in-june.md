@@ -16,8 +16,8 @@ A new analysis by the Cook Political Report says the odds of a contested Republi
 
 ### Changes:
 
-1. [Republican Party presidential primaries, 2016:Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. ](/news/2016/04/29/republican-party-presidential-primaries-2016-prepublican-front-runner-donald-trump-says-he-now-has-1001-confirmed-delegates-for-the-clevela.md) _2017-08-25 03:45:32 (First version)_
-2. [Republican Party presidential primaries, 2016:: Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. ](/news/2016/04/29/republican-party-presidential-primaries-2016-republican-front-runner-donald-trump-says-he-now-has-1001-confirmed-delegates-for-the-clevel.md) _2017-08-27 03:45:55 (Update)_
+1. [Republican Party presidential primaries, 2016:: Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. ](/news/2016/04/29/republican-party-presidential-primaries-2016-republican-front-runner-donald-trump-says-he-now-has-1001-confirmed-delegates-for-the-clevel.md) _2018-02-06 13:49:29 (First version)_
+2. [Republican Party presidential primaries, 2016:Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. ](/news/2016/04/29/republican-party-presidential-primaries-2016-prepublican-front-runner-donald-trump-says-he-now-has-1001-confirmed-delegates-for-the-clevela.md) _2018-02-06 13:49:29 (Update)_
 2. [Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. ](/news/2016/04/29/republican-front-runner-donald-trump-says-he-now-has-1001-confirmed-delegates-for-the-cleveland-convention-in-june.md) _(Current version)_
 
 ### Related:

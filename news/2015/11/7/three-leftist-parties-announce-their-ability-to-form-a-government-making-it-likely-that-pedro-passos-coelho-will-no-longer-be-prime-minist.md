@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-
 
 ### Changes:
 
-1. [Portuguese legislative election, 2015: Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/portuguese-legislative-election-2015-three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos.md) _2017-08-27 03:43:44 (First version)_
+1. [Portuguese legislative election, 2015: Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/portuguese-legislative-election-2015-three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos.md) _2018-02-06 13:49:28 (First version)_
 1. [ Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.md) _(Current version)_
 
 ### Related:

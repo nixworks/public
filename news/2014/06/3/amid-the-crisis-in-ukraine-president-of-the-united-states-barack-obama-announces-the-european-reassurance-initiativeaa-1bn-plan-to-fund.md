@@ -17,7 +17,7 @@ President Barack Obama announces plans for a $1bn fund to increase US military d
 
 ### Changes:
 
-1. [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative-a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiative-a-1bn-plan-to-fund.md) _2017-08-27 03:40:47 (First version)_
+1. [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative-a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiative-a-1bn-plan-to-fund.md) _2018-02-06 13:49:26 (First version)_
 1. [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative--a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiativeaa-1bn-plan-to-fund.md) _(Current version)_
 
 ### Related:

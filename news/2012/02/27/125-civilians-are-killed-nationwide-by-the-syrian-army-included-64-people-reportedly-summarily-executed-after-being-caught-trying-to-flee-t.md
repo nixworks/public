@@ -17,8 +17,8 @@ The Syrian military launches a new offensive against opposition-held towns in th
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/2011-2012-syrian-uprising-p125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-be.md) _2017-08-25 03:35:09 (First version)_
-2. [2011-2012 Syrian uprising:: 125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/2011-2012-syrian-uprising-125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-b.md) _2017-08-27 03:35:19 (Update)_
+1. [2011-2012 Syrian uprising:125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/2011-2012-syrian-uprising-p125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-be.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: 125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/2011-2012-syrian-uprising-125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-b.md) _2018-02-06 13:49:23 (Update)_
 2. [125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-being-caught-trying-to-flee-t.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Shuping Yang praised the &quot;fresh air of free speech&quot; in the U.S. during
 
 ### Changes:
 
-1. [Freedom of speech in China: A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/freedom-of-speech-in-china-a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md) _2017-08-27 03:48:23 (First version)_
+1. [Freedom of speech in China: A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/freedom-of-speech-in-china-a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md) _2018-02-06 13:49:30 (First version)_
 1. [A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md) _(Current version)_
 
 ### Related:

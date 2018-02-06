@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckwo
 
 ### Changes:
 
-1. [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworth-lewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md) _2017-08-27 03:29:13 (First version)_
+1. [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworth-lewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md) _2018-02-06 13:49:20 (First version)_
 1. [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworthalewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md) _(Current version)_
 
 ### Related:

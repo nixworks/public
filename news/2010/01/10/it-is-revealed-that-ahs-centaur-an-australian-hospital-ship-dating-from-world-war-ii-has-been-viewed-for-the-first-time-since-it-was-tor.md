@@ -19,7 +19,7 @@ A plaque will be placed at the site of the torpedoed wartime hospital ship, the 
 
 ### Changes:
 
-1. [It is revealed that ''AHS Centaur'', an Australian hospital ship dating from World War II, has been viewed for the first time since it was torpedoed by the Japanese in May 1943 killing 268 people. ](/news/2010/01/10/it-is-revealed-that-ahs-centaur-an-australian-hospital-ship-dating-from-world-war-ii-has-been-viewed-for-the-first-time-since-it-was-t.md) _2017-08-25 03:26:51 (First version)_
+1. [It is revealed that ''AHS Centaur'', an Australian hospital ship dating from World War II, has been viewed for the first time since it was torpedoed by the Japanese in May 1943 killing 268 people. ](/news/2010/01/10/it-is-revealed-that-ahs-centaur-an-australian-hospital-ship-dating-from-world-war-ii-has-been-viewed-for-the-first-time-since-it-was-t.md) _2018-02-06 13:49:19 (First version)_
 1. [It is revealed that "AHS Centaur", an Australian hospital ship dating from World War II, has been viewed for the first time since it was torpedoed by the Japanese in May 1943 killing 268 people. ](/news/2010/01/10/it-is-revealed-that-ahs-centaur-an-australian-hospital-ship-dating-from-world-war-ii-has-been-viewed-for-the-first-time-since-it-was-tor.md) _(Current version)_
 
 ### Related:

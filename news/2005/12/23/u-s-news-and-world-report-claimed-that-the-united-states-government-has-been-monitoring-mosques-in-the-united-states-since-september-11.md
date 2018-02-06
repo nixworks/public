@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-unit
 
 ### Changes:
 
-1. [ ''U.S. News and World Report'' claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. ](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-united-states-government-has-been-monitoring-mosques-in-the-united-states-since-september-1.md) _2017-08-25 03:17:18 (First version)_
+1. [ ''U.S. News and World Report'' claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. ](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-united-states-government-has-been-monitoring-mosques-in-the-united-states-since-september-1.md) _2018-02-06 13:49:16 (First version)_
 1. [ "U.S. News and World Report" claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. ](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-united-states-government-has-been-monitoring-mosques-in-the-united-states-since-september-11.md) _(Current version)_
 
 ### Related:

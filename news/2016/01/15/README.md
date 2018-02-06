@@ -9,7 +9,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 
 ##### 2016 Jakarta attacks
 ### [Three men are arrested in the outskirts of Jakarta in connection with the attacks. Police have identified the attackers killed in the raid with two of the men having been imprisoned for terrorism related offences. ](/news/2016/01/15/three-men-are-arrested-in-the-outskirts-of-jakarta-in-connection-with-the-attacks-police-have-identified-the-attackers-killed-in-the-raid-w.md)
-_Context: Jakarta, 2016 Jakarta attacks_
+_Context: 2016 Jakarta attacks, Jakarta_
 
 ##### War in Somalia
 ### [al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. ](/news/2016/01/15/al-shabaab-militants-overrun-an-african-union-base-in-southern-somalia-with-unconfirmed-reports-of-dozens-of-soldiers-dead.md)
@@ -17,7 +17,7 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ##### Syrian Civil War
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: Syria, malnutrition, Syrian Civil War, Kafraya, Madaya, UNICEF, Russia, Al-Fu'ah_
+_Context: UNICEF, Kafraya, Syrian Civil War, Russia, malnutrition, Madaya, Al-Fu'ah, Syria_
 
 ##### Wikipedia
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
@@ -33,7 +33,7 @@ At least 14 people were killed after a bus carrying skiers flipped over a guardr
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md)
-_Context: Azores, 2016 Atlantic hurricane season, Hurricane Alex_
+_Context: Hurricane Alex, 2016 Atlantic hurricane season, Azores_
 
 ##### Udhampur district
 ### [Twelve people are feared dead following a road accident in the Udhampur district of India's Jammu and Kashmir state. ](/news/2016/01/15/twelve-people-are-feared-dead-following-a-road-accident-in-the-udhampur-district-of-india-s-jammu-and-kashmir-state.md)
@@ -81,15 +81,15 @@ A special court is being set up in The Hague to try war crimes committed during 
 
 ##### PKK rebellion (2015-present)
 ### [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md)
-_Context: Kurdistan Workers Party, Turkish, Turkish, PKK rebellion (2015-present)_
+_Context: PKK rebellion (2015-present), Turkish, Turkey, Kurdistan Workers Party_
 
 ##### Anti-corruption campaign in China
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
-_Context: Wei Hong, Sichuan, Anti-corruption campaign in China, Central Commission for Discipline Inspection_
+_Context: Central Commission for Discipline Inspection, Wei Hong, Anti-corruption campaign in China, Sichuan_
 
 ##### Azerbaijan
 ### [Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. ](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-water-cannons-to-forcibly-disperse-protesters-in-the-quba-district-who-were-protesting-the-coun.md)
-_Context: National Police,  Quba District, Azerbaijan_
+_Context: Azerbaijan, National Police,  Quba District_
 
 ## [Previous Day...](/news/2016/01/14/index.md)
 

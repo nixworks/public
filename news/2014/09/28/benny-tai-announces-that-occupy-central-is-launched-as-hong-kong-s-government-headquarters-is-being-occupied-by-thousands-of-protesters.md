@@ -17,8 +17,8 @@ Tens of thousands join mass civil disobedience over voting rights as authorities
 
 ### Changes:
 
-1. [2014 Hong Kong protests:Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/2014-hong-kong-protests-pbenny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-tho.md) _2017-08-25 03:41:02 (First version)_
-2. [2014 Hong Kong protests:: Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/2014-hong-kong-protests-benny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-th.md) _2017-08-27 03:41:20 (Update)_
+1. [2014 Hong Kong protests:Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/2014-hong-kong-protests-pbenny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-tho.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Hong Kong protests:: Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/2014-hong-kong-protests-benny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-th.md) _2018-02-06 13:49:26 (Update)_
 2. [Benny Tai announces that Occupy Central is launched as Hong Kong's government headquarters is being occupied by thousands of protesters. ](/news/2014/09/28/benny-tai-announces-that-occupy-central-is-launched-as-hong-kong-s-government-headquarters-is-being-occupied-by-thousands-of-protesters.md) _(Current version)_
 
 ### Related:

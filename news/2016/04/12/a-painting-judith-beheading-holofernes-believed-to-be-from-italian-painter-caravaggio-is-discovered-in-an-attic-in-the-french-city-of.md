@@ -16,7 +16,7 @@ Painting valued at up to €120m found by accident believed by many to be work o
 
 ### Changes:
 
-1. [ A painting, ''Judith Beheading Holofernes'', believed to be from Italian painter Caravaggio, is discovered in an attic in the French city of Toulouse. ](/news/2016/04/12/a-painting-judith-beheading-holofernes-believed-to-be-from-italian-painter-caravaggio-is-discovered-in-an-attic-in-the-french-city-o.md) _2017-08-25 03:45:14 (First version)_
+1. [ A painting, ''Judith Beheading Holofernes'', believed to be from Italian painter Caravaggio, is discovered in an attic in the French city of Toulouse. ](/news/2016/04/12/a-painting-judith-beheading-holofernes-believed-to-be-from-italian-painter-caravaggio-is-discovered-in-an-attic-in-the-french-city-o.md) _2018-02-06 13:49:28 (First version)_
 1. [ A painting, "Judith Beheading Holofernes", believed to be from Italian painter Caravaggio, is discovered in an attic in the French city of Toulouse. ](/news/2016/04/12/a-painting-judith-beheading-holofernes-believed-to-be-from-italian-painter-caravaggio-is-discovered-in-an-attic-in-the-french-city-of.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Taliban militants behead seven Pakistani soldiers captured by insurgents in a cr
 
 ### Changes:
 
-1. [War in North-West Pakistan:Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/war-in-north-west-pakistan-pseven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-clo.md) _2017-08-25 03:35:57 (First version)_
-2. [War in North-West Pakistan:: Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/war-in-north-west-pakistan-seven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-cl.md) _2017-08-27 03:36:09 (Update)_
+1. [War in North-West Pakistan:: Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/war-in-north-west-pakistan-seven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-cl.md) _2018-02-06 13:49:23 (First version)_
+2. [War in North-West Pakistan:Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/war-in-north-west-pakistan-pseven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-clo.md) _2018-02-06 13:49:23 (Update)_
 2. [Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/seven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-close-to-the-afghan-border.md) _(Current version)_
 
 ### Related:

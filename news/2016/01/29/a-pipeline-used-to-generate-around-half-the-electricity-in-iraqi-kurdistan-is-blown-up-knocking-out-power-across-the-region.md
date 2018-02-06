@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-ele
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/iraqi-civil-war-2014-present-a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power.md) _2017-08-27 03:44:47 (First version)_
+1. [Iraqi Civil War (2014-present): A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/iraqi-civil-war-2014-present-a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power.md) _2018-02-06 13:49:28 (First version)_
 1. [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Formats: [HTML](/news/2009/07/30/nigerian-forces-attack-a-mosque-used-by-the-mil
 
 ### Changes:
 
-1. [ 2009 Nigeria religious violence: Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/2009-nigeria-religious-violence-nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md) _2017-08-27 03:25:09 (First version)_
+1. [ 2009 Nigeria religious violence: Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/2009-nigeria-religious-violence-nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md) _2018-02-06 13:49:19 (First version)_
 1. [ Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madon
 
 ### Changes:
 
-1. [ The Edvard Munch paintings ''The Scream'' and ''Madonna'', which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been.md) _2017-08-25 03:16:05 (First version)_
+1. [ The Edvard Munch paintings ''The Scream'' and ''Madonna'', which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Edvard Munch paintings "The Scream" and "Madonna", which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been-bur.md) _(Current version)_
 
 ### Related:

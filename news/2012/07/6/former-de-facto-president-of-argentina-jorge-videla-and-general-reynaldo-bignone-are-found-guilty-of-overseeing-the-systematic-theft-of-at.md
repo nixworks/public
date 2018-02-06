@@ -16,7 +16,7 @@ Two former military leaders in Argentina have been found guilty of overseeing th
 
 ### Changes:
 
-1. [Former ''de facto'' President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of.md) _2017-08-25 03:36:03 (First version)_
+1. [Former ''de facto'' President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of.md) _2018-02-06 13:49:23 (First version)_
 1. [Former "de facto" President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of-at.md) _(Current version)_
 
 ### Related:

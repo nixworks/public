@@ -19,7 +19,7 @@ Formats: [HTML](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-st
 
 ### Changes:
 
-1. [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in ''Perry v. Schwarzenegger'' that California Proposition 8 banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzen.md) _2017-08-25 03:29:10 (First version)_
+1. [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in ''Perry v. Schwarzenegger'' that California Proposition 8 banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzen.md) _2018-02-06 13:49:20 (First version)_
 1. [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in "Perry v. Schwarzenegger" that California Proposition 8 banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzene.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/08/19/3-members-of-the-main-sunni-arab-political-part
 
 ### Changes:
 
-1. [ Conflict in Iraq: 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/conflict-in-iraq-p-3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-t.md) _2017-08-25 03:16:42 (First version)_
-2. [ Conflict in Iraq:: 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/conflict-in-iraq-3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-t.md) _2017-08-27 03:16:43 (Update)_
+1. [ Conflict in Iraq: 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/conflict-in-iraq-p-3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-t.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/conflict-in-iraq-3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-t.md) _2018-02-06 13:49:16 (Update)_
 2. [ 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-to-vote-in-the-upcom.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-
 
 ### Changes:
 
-1. [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coord.md) _2017-08-25 03:36:37 (First version)_
+1. [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coord.md) _2018-02-06 13:49:23 (First version)_
 1. [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coordi.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Formats: [HTML](/news/2012/12/11/at-least-125-people-are-killed-and-up-to-200-in
 
 ### Changes:
 
-1. [Syrian civil war:At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-pat-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md) _2017-08-25 03:36:59 (First version)_
-2. [Syrian civil war:: At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md) _2017-08-27 03:37:10 (Update)_
+1. [Syrian civil war:At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-pat-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md) _(Current version)_
 
 ### Related:

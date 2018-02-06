@@ -16,7 +16,7 @@ Pope Francis unveils reforms intended to make it easier for Roman Catholics to g
 
 ### Changes:
 
-1. [Matrimonial nullity trial reforms of Pope Francis: Pope Francis announces canon law reforms making it easier for people to obtain declarations of nullity (marriage annulments) ](/news/2015/09/8/matrimonial-nullity-trial-reforms-of-pope-francis-pope-francis-announces-canon-law-reforms-making-it-easier-for-people-to-obtain-declaratio.md) _2017-08-27 03:42:59 (First version)_
+1. [Matrimonial nullity trial reforms of Pope Francis: Pope Francis announces canon law reforms making it easier for people to obtain declarations of nullity (marriage annulments) ](/news/2015/09/8/matrimonial-nullity-trial-reforms-of-pope-francis-pope-francis-announces-canon-law-reforms-making-it-easier-for-people-to-obtain-declaratio.md) _2018-02-06 13:49:27 (First version)_
 1. [Pope Francis announces canon law reforms making it easier for people to obtain declarations of nullity (marriage annulments) ](/news/2015/09/8/pope-francis-announces-canon-law-reforms-making-it-easier-for-people-to-obtain-declarations-of-nullity-marriage-annulments.md) _(Current version)_
 
 ### Related:

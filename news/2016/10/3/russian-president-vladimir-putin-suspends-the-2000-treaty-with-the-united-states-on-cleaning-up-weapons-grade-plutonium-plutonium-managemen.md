@@ -16,7 +16,7 @@ Russian President Vladimir Putin on Monday suspended a treaty with Washington on
 
 ### Changes:
 
-1. [Russia and weapons of mass destruction: Russian President Vladimir Putin suspends the 2000 treaty with the United States on cleaning up weapons-grade plutonium (Plutonium Management and Disposition Agreement) {{ru icon}}. ](/news/2016/10/3/russia-and-weapons-of-mass-destruction-russian-president-vladimir-putin-suspends-the-2000-treaty-with-the-united-states-on-cleaning-up-weap.md) _2017-08-27 03:46:57 (First version)_
+1. [Russia and weapons of mass destruction: Russian President Vladimir Putin suspends the 2000 treaty with the United States on cleaning up weapons-grade plutonium (Plutonium Management and Disposition Agreement) {{ru icon}}. ](/news/2016/10/3/russia-and-weapons-of-mass-destruction-russian-president-vladimir-putin-suspends-the-2000-treaty-with-the-united-states-on-cleaning-up-weap.md) _2018-02-06 13:49:29 (First version)_
 1. [Russian President Vladimir Putin suspends the 2000 treaty with the United States on cleaning up weapons-grade plutonium (Plutonium Management and Disposition Agreement) {{ru icon}}. ](/news/2016/10/3/russian-president-vladimir-putin-suspends-the-2000-treaty-with-the-united-states-on-cleaning-up-weapons-grade-plutonium-plutonium-managemen.md) _(Current version)_
 
 ### Related:

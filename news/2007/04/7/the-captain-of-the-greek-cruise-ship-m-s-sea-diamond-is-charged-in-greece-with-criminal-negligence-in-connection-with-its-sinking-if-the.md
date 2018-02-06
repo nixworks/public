@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/7/the-captain-of-the-greek-cruise-ship-m-s-sea-dia
 
 ### Changes:
 
-1. [ The captain of the Greek cruise ship M-S ''Sea Diamond'' is charged in Greece with criminal negligence in connection with its sinking. If the two missing passengers are found dead, he may face more serious charges. ](/news/2007/04/7/the-captain-of-the-greek-cruise-ship-m-s-sea-diamond-is-charged-in-greece-with-criminal-negligence-in-connection-with-its-sinking-if.md) _2017-08-25 03:19:32 (First version)_
+1. [ The captain of the Greek cruise ship M-S ''Sea Diamond'' is charged in Greece with criminal negligence in connection with its sinking. If the two missing passengers are found dead, he may face more serious charges. ](/news/2007/04/7/the-captain-of-the-greek-cruise-ship-m-s-sea-diamond-is-charged-in-greece-with-criminal-negligence-in-connection-with-its-sinking-if.md) _2018-02-06 13:49:17 (First version)_
 1. [ The captain of the Greek cruise ship M-S "Sea Diamond" is charged in Greece with criminal negligence in connection with its sinking. If the two missing passengers are found dead, he may face more serious charges. ](/news/2007/04/7/the-captain-of-the-greek-cruise-ship-m-s-sea-diamond-is-charged-in-greece-with-criminal-negligence-in-connection-with-its-sinking-if-the.md) _(Current version)_
 
 ### Related:

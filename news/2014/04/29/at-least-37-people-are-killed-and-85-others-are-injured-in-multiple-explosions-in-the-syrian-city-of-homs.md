@@ -16,8 +16,8 @@ At least 37 people are killed in explosions in the Syrian city of Homs, after at
 
 ### Changes:
 
-1. [Syrian Civil War:At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/syrian-civil-war-pat-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md) _2017-08-25 03:40:21 (First version)_
-2. [Syrian Civil War:: At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/syrian-civil-war-at-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md) _2017-08-27 03:40:39 (Update)_
+1. [Syrian Civil War:At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/syrian-civil-war-pat-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/syrian-civil-war-at-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/at-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md) _(Current version)_
 
 ### Related:

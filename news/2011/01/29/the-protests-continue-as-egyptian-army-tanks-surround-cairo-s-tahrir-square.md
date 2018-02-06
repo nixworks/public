@@ -46,8 +46,8 @@ At least three people killed as protesters attempt to storm the interior ministr
 
 ### Changes:
 
-1. [2011 Egyptian protests:The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-pthe-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _2017-08-25 03:31:57 (First version)_
-2. [2011 Egyptian protests:: The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _2017-08-27 03:32:05 (Update)_
+1. [2011 Egyptian protests:: The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Egyptian protests:The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-pthe-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _2018-02-06 13:49:21 (Update)_
 2. [The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md) _(Current version)_
 
 ### Related:

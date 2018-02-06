@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-t
 
 ### Changes:
 
-1. [ Police recruit sniffer dogs and detectives in their hunt for the ''Arbeit macht frei'' sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-retur.md) _2017-08-25 03:26:38 (First version)_
+1. [ Police recruit sniffer dogs and detectives in their hunt for the ''Arbeit macht frei'' sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-retur.md) _2018-02-06 13:49:19 (First version)_
 1. [ Police recruit sniffer dogs and detectives in their hunt for the "Arbeit macht frei" sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-return.md) _(Current version)_
 
 ### Related:

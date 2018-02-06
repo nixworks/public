@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/12/russia-says-planned-u-s-financial-aid-to-ukrain
 
 ### Changes:
 
-1. [2014 Crimean crisis: Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/2014-crimean-crisis-russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md) _2017-08-27 03:40:27 (First version)_
+1. [2014 Crimean crisis: Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/2014-crimean-crisis-russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md) _2018-02-06 13:49:25 (First version)_
 1. [Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md) _(Current version)_
 
 ### Related:

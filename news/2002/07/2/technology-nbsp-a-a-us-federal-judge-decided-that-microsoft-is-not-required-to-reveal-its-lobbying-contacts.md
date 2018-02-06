@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/07/2/technology-nbsp-a-a-us-federal-judge-decided-tha
 
 ### Changes:
 
-1. [ Technology&nbsp;- A US federal judge decided that Microsoft is not required to reveal its lobbying contacts.](/news/2002/07/2/technology-nbsp-a-us-federal-judge-decided-that-microsoft-is-not-required-to-reveal-its-lobbying-contacts.md) _2017-08-27 03:15:13 (First version)_
+1. [ Technology&nbsp;- A US federal judge decided that Microsoft is not required to reveal its lobbying contacts.](/news/2002/07/2/technology-nbsp-a-us-federal-judge-decided-that-microsoft-is-not-required-to-reveal-its-lobbying-contacts.md) _2018-02-06 13:49:15 (First version)_
 1. [ Technology&nbsp;- A US federal judge decided that Microsoft is not required to reveal its lobbying contacts.](/news/2002/07/2/technology-nbsp-a-a-us-federal-judge-decided-that-microsoft-is-not-required-to-reveal-its-lobbying-contacts.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ More than 500 people were killed in twin bomb blasts in Mogadishu in October, a 
 
 ### Changes:
 
-1. [A Somali committee determined that the death toll of the twin boming in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-boming-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-512.md) _2017-12-02 23:30:04 (First version)_
+1. [A Somali committee determined that the death toll of the twin boming in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-boming-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-512.md) _2018-02-06 13:49:31 (First version)_
 1. [A Somali committee determined that the death toll of the twin bombing in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-bombing-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-51.md) _(Current version)_
 
 ### Related:

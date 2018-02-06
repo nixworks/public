@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/05/7/paeleoclimatology-research-published-in-current-
 
 ### Changes:
 
-1. [Paeleoclimatology research published in ''Current Biology'' suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-war.md) _2017-08-25 03:35:38 (First version)_
+1. [Paeleoclimatology research published in ''Current Biology'' suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-war.md) _2018-02-06 13:49:23 (First version)_
 1. [Paeleoclimatology research published in "Current Biology" suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-warme.md) _(Current version)_
 
 ### Related:

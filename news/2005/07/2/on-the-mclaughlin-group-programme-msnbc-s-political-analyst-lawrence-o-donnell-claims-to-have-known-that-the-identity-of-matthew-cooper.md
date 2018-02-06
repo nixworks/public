@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/2/on-the-mclaughlin-group-programme-msnbc-s-politi
 
 ### Changes:
 
-1. [ On ''The McLaughlin Group'' programme, MSNBC's political analyst Lawrence O'Donnell claims to have known that the identity of Matthew Cooper's source in the Valerie Plame exposure scandal was Karl Rove. ](/news/2005/07/2/on-the-mclaughlin-group-programme-msnbc-s-political-analyst-lawrence-o-donnell-claims-to-have-known-that-the-identity-of-matthew-coope.md) _2017-08-25 03:16:27 (First version)_
+1. [ On ''The McLaughlin Group'' programme, MSNBC's political analyst Lawrence O'Donnell claims to have known that the identity of Matthew Cooper's source in the Valerie Plame exposure scandal was Karl Rove. ](/news/2005/07/2/on-the-mclaughlin-group-programme-msnbc-s-political-analyst-lawrence-o-donnell-claims-to-have-known-that-the-identity-of-matthew-coope.md) _2018-02-06 13:49:16 (First version)_
 1. [ On "The McLaughlin Group" programme, MSNBC's political analyst Lawrence O'Donnell claims to have known that the identity of Matthew Cooper's source in the Valerie Plame exposure scandal was Karl Rove. ](/news/2005/07/2/on-the-mclaughlin-group-programme-msnbc-s-political-analyst-lawrence-o-donnell-claims-to-have-known-that-the-identity-of-matthew-cooper.md) _(Current version)_
 
 ### Related:

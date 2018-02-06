@@ -17,9 +17,9 @@ Hours after the US says it is pulling out of the UN cultural agency, Israel says
 
 ### Changes:
 
-1. [The United States and Israel announce their planned withdrawal as members from UNESCO. ](/news/2017/10/12/the-united-states-and-israel-announce-their-planned-withdrawal-as-members-from-unesco.md) _2017-10-12 20:30:07 (First version)_
-2. [The United States and Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-and-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _2017-10-12 23:30:07 (Update)_
-3. [The United States Trump administraion and Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administraion-and-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _2017-10-13 00:30:06 (Update)_
+1. [The United States Trump administraion and Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administraion-and-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _2018-02-06 13:49:31 (First version)_
+2. [The United States and Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-and-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _2018-02-06 13:49:31 (Update)_
+3. [The United States and Israel announce their planned withdrawal as members from UNESCO. ](/news/2017/10/12/the-united-states-and-israel-announce-their-planned-withdrawal-as-members-from-unesco.md) _2018-02-06 13:49:31 (Update)_
 3. [The United States Trump administration and the government of Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administration-and-the-government-of-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _(Current version)_
 
 ### Related:

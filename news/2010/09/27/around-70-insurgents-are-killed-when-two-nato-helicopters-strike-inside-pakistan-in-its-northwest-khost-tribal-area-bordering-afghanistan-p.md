@@ -19,7 +19,7 @@ Nato-led forces have killed more than 50 insurgents on Pakistani soil after a ra
 
 ### Changes:
 
-1. [Around 70 insurgents are killed when two NATO helicopters strike inside Pakistan in its northwest Khost tribal area bordering Afghanistan. Pakistan strongly condemned the attack, calling it a violation of its airspace. ](/news/2010/09/27/around-70-insurgents-are-killed-when-two-nato-helicopters-strike-inside-pakistan-in-its-northwest-khost-tribal-area-bordering-afghanistan.md) _2017-08-25 03:30:14 (First version)_
+1. [Around 70 insurgents are killed when two NATO helicopters strike inside Pakistan in its northwest Khost tribal area bordering Afghanistan. Pakistan strongly condemned the attack, calling it a violation of its airspace. ](/news/2010/09/27/around-70-insurgents-are-killed-when-two-nato-helicopters-strike-inside-pakistan-in-its-northwest-khost-tribal-area-bordering-afghanistan.md) _2018-02-06 13:49:20 (First version)_
 1. [Around 70 insurgents are killed when two NATO helicopters strike inside Pakistan in its northwest Khost tribal area bordering Afghanistan. Pakistan strongly condemned the attack, calling it a violation of its airspace. ](/news/2010/09/27/around-70-insurgents-are-killed-when-two-nato-helicopters-strike-inside-pakistan-in-its-northwest-khost-tribal-area-bordering-afghanistan-p.md) _(Current version)_
 
 ### Related:

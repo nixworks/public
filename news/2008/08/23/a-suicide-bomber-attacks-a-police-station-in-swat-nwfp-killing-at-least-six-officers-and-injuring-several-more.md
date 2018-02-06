@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-sw
 
 ### Changes:
 
-1. [ War in North-West Pakistan: A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/war-in-north-west-pakistan-a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-mor.md) _2017-08-27 03:22:38 (First version)_
+1. [ War in North-West Pakistan: A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/war-in-north-west-pakistan-a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-mor.md) _2018-02-06 13:49:18 (First version)_
 1. [ A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-more.md) _(Current version)_
 
 ### Related:

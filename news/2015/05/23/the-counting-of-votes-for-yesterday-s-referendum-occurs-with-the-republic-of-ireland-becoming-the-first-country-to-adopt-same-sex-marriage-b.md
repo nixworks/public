@@ -18,7 +18,7 @@ With all of the results in, Ireland has voted a historic yes in its gay marriage
 
 ### Changes:
 
-1. [The counting of votes for yesterday's referendum occurs with the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. ](/news/2015/05/23/the-counting-of-votes-for-yesterday-s-referendum-occurs-with-the-republic-of-ireland-becoming-the-first-country-to-adopt-same-sex-marriage.md) _2017-08-25 03:42:04 (First version)_
+1. [The counting of votes for yesterday's referendum occurs with the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. ](/news/2015/05/23/the-counting-of-votes-for-yesterday-s-referendum-occurs-with-the-republic-of-ireland-becoming-the-first-country-to-adopt-same-sex-marriage.md) _2018-02-06 13:49:27 (First version)_
 1. [The counting of votes for yesterday's referendum occurs with the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. ](/news/2015/05/23/the-counting-of-votes-for-yesterday-s-referendum-occurs-with-the-republic-of-ireland-becoming-the-first-country-to-adopt-same-sex-marriage-b.md) _(Current version)_
 
 ### Related:

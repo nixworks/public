@@ -16,8 +16,8 @@ Authorities in Iraq say a double bombing at a Kurdish party office has killed 13
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 13 people are killed and 60 injured as a result of a double bombing at the offices of the Patriotic Union of Kurdistan in Jalula, Diyala region. ](/news/2014/06/8/iraqi-insurgency-post-u-s-withdrawal-pat-least-13-people-are-killed-and-60-injured-as-a-result-of-a-double-bombing-at-the-offices-of-the.md) _2017-08-25 03:40:31 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 13 people are killed and 60 injured as a result of a double bombing at the offices of the Patriotic Union of Kurdistan in Jalula, Diyala region. ](/news/2014/06/8/iraqi-insurgency-post-u-s-withdrawal-at-least-13-people-are-killed-and-60-injured-as-a-result-of-a-double-bombing-at-the-offices-of-the.md) _2017-08-27 03:40:48 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 13 people are killed and 60 injured as a result of a double bombing at the offices of the Patriotic Union of Kurdistan in Jalula, Diyala region. ](/news/2014/06/8/iraqi-insurgency-post-u-s-withdrawal-pat-least-13-people-are-killed-and-60-injured-as-a-result-of-a-double-bombing-at-the-offices-of-the.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 13 people are killed and 60 injured as a result of a double bombing at the offices of the Patriotic Union of Kurdistan in Jalula, Diyala region. ](/news/2014/06/8/iraqi-insurgency-post-u-s-withdrawal-at-least-13-people-are-killed-and-60-injured-as-a-result-of-a-double-bombing-at-the-offices-of-the.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 13 people are killed and 60 injured as a result of a double bombing at the offices of the Patriotic Union of Kurdistan in Jalula, Diyala region. ](/news/2014/06/8/at-least-13-people-are-killed-and-60-injured-as-a-result-of-a-double-bombing-at-the-offices-of-the-patriotic-union-of-kurdistan-in-jalula-d.md) _(Current version)_
 
 ### Related:

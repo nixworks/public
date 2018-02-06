@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/3/people-s-republic-of-china-president-hu-jintao-h
 
 ### Changes:
 
-1. [ People's Republic of China President Hu Jintao has postponed his scheduled visit to Washington in the coming week. He plans to meet with President Bush later in the month while attending the United Nations General Assembly in New York City. ](/news/2005/09/3/people-s-republic-of-china-president-hu-jintao-has-postponed-his-scheduled-visit-to-washington-in-the-coming-week-he-plans-to-meet-with-p.md) _2017-08-25 03:16:45 (First version)_
+1. [ People's Republic of China President Hu Jintao has postponed his scheduled visit to Washington in the coming week. He plans to meet with President Bush later in the month while attending the United Nations General Assembly in New York City. ](/news/2005/09/3/people-s-republic-of-china-president-hu-jintao-has-postponed-his-scheduled-visit-to-washington-in-the-coming-week-he-plans-to-meet-with-p.md) _2018-02-06 13:49:16 (First version)_
 1. [ People's Republic of China President Hu Jintao has postponed his scheduled visit to Washington in the coming week. He plans to meet with President Bush later in the month while attending the United Nations General Assembly in New York City. ](/news/2005/09/3/people-s-republic-of-china-president-hu-jintao-has-postponed-his-scheduled-visit-to-washington-in-the-coming-week-he-plans-to-meet-with-pr.md) _(Current version)_
 
 ### Related:

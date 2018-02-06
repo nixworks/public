@@ -11,7 +11,7 @@ Formats: [HTML](/news/2001/12/2/enron-files-for-chapter-11-bankruptcy-protection
 
 ### Changes:
 
-1. [ Enron files for Chapter 11 bankruptcy protection five days after Dynegy canceled a {{Nowrap|US$8.4 billion}} buyout bid ({{As of|2003|lc=on}} this was the largest bankruptcy in the history of the United States).](/news/2001/12/2/enron-files-for-chapter-11-bankruptcy-protection-five-days-after-dynegy-canceled-a-nowrap-us-8-4-billion-buyout-bid-as-of-2003-lc-on.md) _2017-05-01 03:15:12 (First version)_
+1. [ Enron files for Chapter 11 bankruptcy protection five days after Dynegy canceled a {{Nowrap|US$8.4 billion}} buyout bid ({{As of|2003|lc=on}} this was the largest bankruptcy in the history of the United States).](/news/2001/12/2/enron-files-for-chapter-11-bankruptcy-protection-five-days-after-dynegy-canceled-a-nowrap-us-8-4-billion-buyout-bid-as-of-2003-lc-on.md) _2018-02-06 13:49:15 (First version)_
 1. [ Enron files for Chapter 11 bankruptcy protection five days after Dynegy canceled a US$8.4 billion buyout bid (2003 lc=on this was the largest bankruptcy in the history of the United States).](/news/2001/12/2/enron-files-for-chapter-11-bankruptcy-protection-five-days-after-dynegy-canceled-a-us-8-4-billion-buyout-bid-2003-lc-on-this-was-the-large.md) _(Current version)_
 
 ### Related:

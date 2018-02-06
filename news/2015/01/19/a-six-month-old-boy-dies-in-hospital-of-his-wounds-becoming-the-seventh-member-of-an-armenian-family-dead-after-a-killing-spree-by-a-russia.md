@@ -16,8 +16,8 @@ The death toll in the slaying of a family in Armenia blamed on a Russian soldier
 
 ### Changes:
 
-1. [Gyumri massacre:A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/gyumri-massacre-pa-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing.md) _2017-08-25 03:41:30 (First version)_
-2. [Gyumri massacre:: A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/gyumri-massacre-a-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing.md) _2017-08-27 03:41:49 (Update)_
+1. [Gyumri massacre:A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/gyumri-massacre-pa-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing.md) _2018-02-06 13:49:26 (First version)_
+2. [Gyumri massacre:: A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/gyumri-massacre-a-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing.md) _2018-02-06 13:49:26 (Update)_
 2. [A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/a-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing-spree-by-a-russia.md) _(Current version)_
 
 ### Related:

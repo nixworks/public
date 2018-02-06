@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Mexican Drug War: Three Mexican Army soldiers die as gunfire downs a helicopter in the state of Jalisco. Ten soldiers and two Federal Police officers are injured. ](/news/2015/05/1/mexican-drug-war-three-mexican-army-soldiers-die-as-gunfire-downs-a-helicopter-in-the-state-of-jalisco-ten-soldiers-and-two-federal-police.md) _2017-08-27 03:42:16 (First version)_
+1. [Mexican Drug War: Three Mexican Army soldiers die as gunfire downs a helicopter in the state of Jalisco. Ten soldiers and two Federal Police officers are injured. ](/news/2015/05/1/mexican-drug-war-three-mexican-army-soldiers-die-as-gunfire-downs-a-helicopter-in-the-state-of-jalisco-ten-soldiers-and-two-federal-police.md) _2018-02-06 13:49:27 (First version)_
 1. [Three Mexican Army soldiers die as gunfire downs a helicopter in the state of Jalisco. Ten soldiers and two Federal Police officers are injured. ](/news/2015/05/1/three-mexican-army-soldiers-die-as-gunfire-downs-a-helicopter-in-the-state-of-jalisco-ten-soldiers-and-two-federal-police-officers-are-inju.md) _(Current version)_
 
 ### Related:

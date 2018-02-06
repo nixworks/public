@@ -19,8 +19,8 @@ Nearly 100 people were killed on Wednesday in violence across Syria, including 1
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011apresent-p97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md) _2017-08-25 03:36:08 (First version)_
-2. [Syrian uprising (2011-present):: 97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011-present-97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md) _2017-08-27 03:36:20 (Update)_
+1. [Syrian uprising (2011-present):97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011apresent-p97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: 97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011-present-97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md) _2018-02-06 13:49:23 (Update)_
 2. [97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Several car bombs explode in mainly Shia areas in the Iraqi capital, Baghdad, ki
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-area.md) _2017-08-25 03:37:33 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-are.md) _2017-08-27 03:37:44 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-area.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-are.md) _2018-02-06 13:49:24 (Update)_
 2. [A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/a-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-areas-of-the-capital-baghdad.md) _(Current version)_
 
 ### Related:

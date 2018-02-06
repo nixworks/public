@@ -20,8 +20,8 @@ Rocket alert system rings out across Ashkelon as rocket from Gaza slams into sou
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/israeliapalestinian-conflict-ppalestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-ta.md) _2017-08-25 03:32:35 (First version)_
-2. [Israeli-Palestinian conflict:: Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/israeli-palestinian-conflict-palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-t.md) _2017-08-27 03:32:44 (Update)_
+1. [Israeli-Palestinian conflict:Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/israeliapalestinian-conflict-ppalestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-ta.md) _2018-02-06 13:49:22 (First version)_
+2. [Israeli-Palestinian conflict:: Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/israeli-palestinian-conflict-palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-t.md) _2018-02-06 13:49:22 (Update)_
 2. [Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-taken-to-a-clinic-for-medical-trea.md) _(Current version)_
 
 ### Related:

@@ -16,5 +16,5 @@ A virus that has been causing severe respiratory illness a number of children is
 
 ### Changes:
 
-1. [Enterovirus 68: First death to be blamed on Enterovirus 68. Claims the life of a 4 year old named Eli Waller. ](/news/2014/10/6/enterovirus-68-first-death-to-be-blamed-on-enterovirus-68-claims-the-life-of-a-4-year-old-named-eli-waller.md) _2017-08-27 03:41:22 (First version)_
+1. [Enterovirus 68: First death to be blamed on Enterovirus 68. Claims the life of a 4 year old named Eli Waller. ](/news/2014/10/6/enterovirus-68-first-death-to-be-blamed-on-enterovirus-68-claims-the-life-of-a-4-year-old-named-eli-waller.md) _2018-02-06 13:49:26 (First version)_
 1. [First death to be blamed on Enterovirus 68. Claims the life of a 4 year old named Eli Waller. ](/news/2014/10/6/first-death-to-be-blamed-on-enterovirus-68-claims-the-life-of-a-4-year-old-named-eli-waller.md) _(Current version)_

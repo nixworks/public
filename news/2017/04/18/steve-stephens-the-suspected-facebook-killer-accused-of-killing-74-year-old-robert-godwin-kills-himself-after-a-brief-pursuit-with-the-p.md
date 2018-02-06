@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/18/steve-stephens-the-suspected-facebook-killer-ac
 
 ### Changes:
 
-1. [Shooting of Robert Godwin: Steve Stephens, the suspected "Facebook killer" accused of killing 74-year-old Robert Godwin, kills himself after a brief pursuit with the Pennsylvania State Police. ](/news/2017/04/18/shooting-of-robert-godwin-steve-stephens-the-suspected-facebook-killer-accused-of-killing-74-year-old-robert-godwin-kills-himself-after.md) _2017-08-27 03:48:11 (First version)_
+1. [Shooting of Robert Godwin: Steve Stephens, the suspected "Facebook killer" accused of killing 74-year-old Robert Godwin, kills himself after a brief pursuit with the Pennsylvania State Police. ](/news/2017/04/18/shooting-of-robert-godwin-steve-stephens-the-suspected-facebook-killer-accused-of-killing-74-year-old-robert-godwin-kills-himself-after.md) _2018-02-06 13:49:30 (First version)_
 1. [Steve Stephens, the suspected "Facebook killer" accused of killing 74-year-old Robert Godwin, kills himself after a brief pursuit with the Pennsylvania State Police. ](/news/2017/04/18/steve-stephens-the-suspected-facebook-killer-accused-of-killing-74-year-old-robert-godwin-kills-himself-after-a-brief-pursuit-with-the-p.md) _(Current version)_
 
 ### Related:

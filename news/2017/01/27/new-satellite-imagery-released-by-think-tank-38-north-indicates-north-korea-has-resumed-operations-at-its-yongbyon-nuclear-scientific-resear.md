@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/27/new-satellite-imagery-released-by-think-tank-38
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: New satellite imagery released by think tank 38 North indicates North Korea has resumed operations at its Yongbyon Nuclear Scientific Research Center in North Pyongan Province. ](/news/2017/01/27/north-korea-and-weapons-of-mass-destruction-new-satellite-imagery-released-by-think-tank-38-north-indicates-north-korea-has-resumed-operati.md) _2017-08-27 03:47:42 (First version)_
+1. [North Korea and weapons of mass destruction: New satellite imagery released by think tank 38 North indicates North Korea has resumed operations at its Yongbyon Nuclear Scientific Research Center in North Pyongan Province. ](/news/2017/01/27/north-korea-and-weapons-of-mass-destruction-new-satellite-imagery-released-by-think-tank-38-north-indicates-north-korea-has-resumed-operati.md) _2018-02-06 13:49:30 (First version)_
 1. [New satellite imagery released by think tank 38 North indicates North Korea has resumed operations at its Yongbyon Nuclear Scientific Research Center in North Pyongan Province. ](/news/2017/01/27/new-satellite-imagery-released-by-think-tank-38-north-indicates-north-korea-has-resumed-operations-at-its-yongbyon-nuclear-scientific-resear.md) _(Current version)_
 
 ### Related:

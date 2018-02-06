@@ -16,7 +16,7 @@ Iraq’s autonomous Kurdish region said Wednesday that 727 of its fighters had b
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The Kurdish region-s military forces, the Peshmerga Ministry, states that over 700 Iraqi Kurds have died fighting ISIL forces since June. ](/news/2014/12/10/islamic-state-of-iraq-and-the-levant-the-kurdish-region-s-military-forces-the-peshmerga-ministry-states-that-over-700-iraqi-kurds-have.md) _2017-08-27 03:41:36 (First version)_
+1. [Islamic State of Iraq and the Levant: The Kurdish region-s military forces, the Peshmerga Ministry, states that over 700 Iraqi Kurds have died fighting ISIL forces since June. ](/news/2014/12/10/islamic-state-of-iraq-and-the-levant-the-kurdish-region-s-military-forces-the-peshmerga-ministry-states-that-over-700-iraqi-kurds-have.md) _2018-02-06 13:49:26 (First version)_
 1. [The Kurdish region's military forces, the Peshmerga Ministry, states that over 700 Iraqi Kurds have died fighting ISIL forces since June. ](/news/2014/12/10/the-kurdish-regionas-military-forces-the-peshmerga-ministry-states-that-over-700-iraqi-kurds-have-died-fighting-isil-forces-since-june.md) _(Current version)_
 
 ### Related:

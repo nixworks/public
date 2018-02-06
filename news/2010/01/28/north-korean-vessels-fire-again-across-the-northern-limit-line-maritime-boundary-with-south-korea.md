@@ -20,8 +20,8 @@ State media says unnamed American man detained after trespassing on border with 
 
 ### Changes:
 
-1. [North Korea:North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-pnorth-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2017-08-25 03:27:02 (First version)_
-2. [North Korea:: North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2017-08-27 03:26:56 (Update)_
+1. [North Korea:North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-pnorth-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2018-02-06 13:49:19 (First version)_
+2. [North Korea:: North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2018-02-06 13:49:19 (Update)_
 2. [North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/09/12/hurricane-igor-strengthens-to-category-4-in-the
 
 ### Changes:
 
-1. [2010 Atlantic hurricane season:Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-phurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md) _2017-08-25 03:30:00 (First version)_
-2. [2010 Atlantic hurricane season:: Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-hurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md) _2017-08-27 03:30:04 (Update)_
+1. [2010 Atlantic hurricane season:Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-phurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Atlantic hurricane season:: Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-hurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md) _2018-02-06 13:49:20 (Update)_
 2. [Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/hurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md) _(Current version)_
 
 ### Related:

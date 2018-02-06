@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/9/a-car-bombing-in-a-busy-street-in-baghdad-s-larg
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): A car bombing in a busy street in Baghdad's largest Shi'ite neighbourhood kills at least 12 people. ](/news/2014/10/9/iraqi-insurgency-2011-present-a-car-bombing-in-a-busy-street-in-baghdad-s-largest-shi-ite-neighbourhood-kills-at-least-12-people.md) _2017-08-27 03:41:22 (First version)_
+1. [Iraqi insurgency (2011-present): A car bombing in a busy street in Baghdad's largest Shi'ite neighbourhood kills at least 12 people. ](/news/2014/10/9/iraqi-insurgency-2011-present-a-car-bombing-in-a-busy-street-in-baghdad-s-largest-shi-ite-neighbourhood-kills-at-least-12-people.md) _2018-02-06 13:49:26 (First version)_
 1. [A car bombing in a busy street in Baghdad's largest Shi'ite neighbourhood kills at least 12 people. ](/news/2014/10/9/a-car-bombing-in-a-busy-street-in-baghdad-s-largest-shi-ite-neighbourhood-kills-at-least-12-people.md) _(Current version)_
 
 ### Related:

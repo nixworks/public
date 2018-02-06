@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin
 
 ### Changes:
 
-1. [ Two Bangladeshi newspapers, the ''Daily Manab Zamin'' and the ''New Nation'', apologise after publishing an article taken from satirical US website ''The Onion'', which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us.md) _2017-08-25 03:25:40 (First version)_
+1. [ Two Bangladeshi newspapers, the ''Daily Manab Zamin'' and the ''New Nation'', apologise after publishing an article taken from satirical US website ''The Onion'', which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us.md) _2018-02-06 13:49:19 (First version)_
 1. [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md) _(Current version)_
 
 ### Related:

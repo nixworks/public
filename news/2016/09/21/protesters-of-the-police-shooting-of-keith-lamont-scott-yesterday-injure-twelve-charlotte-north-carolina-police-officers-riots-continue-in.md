@@ -18,7 +18,7 @@ Violent demonstrations in the North Carolina city of Charlotte leave 12 police o
 
 ### Changes:
 
-1. [Shooting of Keith Lamont Scott: Protesters of the police shooting of Keith Lamont Scott yesterday injure twelve Charlotte, North Carolina police officers. Riots continue into a second night with North Carolina Governor Pat McCrory declaring a state of emergency. ](/news/2016/09/21/shooting-of-keith-lamont-scott-protesters-of-the-police-shooting-of-keith-lamont-scott-yesterday-injure-twelve-charlotte-north-carolina-po.md) _2017-08-27 03:46:53 (First version)_
+1. [Shooting of Keith Lamont Scott: Protesters of the police shooting of Keith Lamont Scott yesterday injure twelve Charlotte, North Carolina police officers. Riots continue into a second night with North Carolina Governor Pat McCrory declaring a state of emergency. ](/news/2016/09/21/shooting-of-keith-lamont-scott-protesters-of-the-police-shooting-of-keith-lamont-scott-yesterday-injure-twelve-charlotte-north-carolina-po.md) _2018-02-06 13:49:29 (First version)_
 1. [Protesters of the police shooting of Keith Lamont Scott yesterday injure twelve Charlotte, North Carolina police officers. Riots continue into a second night with North Carolina Governor Pat McCrory declaring a state of emergency. ](/news/2016/09/21/protesters-of-the-police-shooting-of-keith-lamont-scott-yesterday-injure-twelve-charlotte-north-carolina-police-officers-riots-continue-in.md) _(Current version)_
 
 ### Related:

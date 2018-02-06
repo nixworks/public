@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suici
 
 ### Changes:
 
-1. [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.{{Fact|date=December 2007}} ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-fact-date-december-2007.md) _2017-05-01 03:22:09 (First version)_
+1. [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.{{Fact|date=December 2007}} ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.date=December 2007 ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-date-december-2007.md) _(Current version)_
 
 ### Related:

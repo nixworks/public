@@ -18,7 +18,7 @@ Formats: [HTML](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging
 
 ### Changes:
 
-1. [ News Corp. announces its intent to start charging online customers for news content across all its websites, including ''The Times'', ''The Sun'', ''The Wall Street Journal'', ''New York Post'' and ''Herald Sun''. ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the.md) _2017-08-25 03:25:23 (First version)_
+1. [ News Corp. announces its intent to start charging online customers for news content across all its websites, including ''The Times'', ''The Sun'', ''The Wall Street Journal'', ''New York Post'' and ''Herald Sun''. ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the.md) _2018-02-06 13:49:19 (First version)_
 1. [ News Corp. announces its intent to start charging online customers for news content across all its websites, including "The Times", "The Sun", "The Wall Street Journal", "New York Post" and "Herald Sun". ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the-su.md) _(Current version)_
 
 ### Related:

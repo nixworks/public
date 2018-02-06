@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/03/10/south-korea-s-constitutional-court-upholds-the-
 
 ### Changes:
 
-1. [Impeachment of Park Geun-hye: South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/impeachment-of-park-geun-hye-south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-offic.md) _2017-08-27 03:47:58 (First version)_
+1. [Impeachment of Park Geun-hye: South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/impeachment-of-park-geun-hye-south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-offic.md) _2018-02-06 13:49:30 (First version)_
 1. [South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-office-hwang-kyo-ahn-assumes-power.md) _(Current version)_
 
 ### Related:

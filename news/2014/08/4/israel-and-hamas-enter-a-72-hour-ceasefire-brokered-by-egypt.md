@@ -21,7 +21,7 @@ Mughrabi and Ori Lewis
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/2014-israel-gaza-conflict-israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _2017-08-27 03:41:06 (First version)_
+1. [2014 Israel-Gaza conflict: Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/2014-israel-gaza-conflict-israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _(Current version)_
 
 ### Related:

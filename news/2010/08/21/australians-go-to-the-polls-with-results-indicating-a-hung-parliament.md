@@ -19,7 +19,7 @@ First female PM fighting to keep power amid strong challenge from conservative c
 
 ### Changes:
 
-1. [Australian federal election, 2010: Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australian-federal-election-2010-australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md) _2017-08-27 03:29:40 (First version)_
+1. [Australian federal election, 2010: Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australian-federal-election-2010-australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md) _2018-02-06 13:49:20 (First version)_
 1. [Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md) _(Current version)_
 
 ### Related:

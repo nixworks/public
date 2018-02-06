@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-afte
 
 ### Changes:
 
-1. [''Slumdog Millionaire'' souvenirs are destroyed after the home of actress Rubina Ali burns down in a fire in Garib Nagar near Bandra Railway Station in Mumbai. 21 people are wounded and more than 2,000 others become homeless. ](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-after-the-home-of-actress-rubina-ali-burns-down-in-a-fire-in-garib-nagar-near-bandra-railway.md) _2017-08-25 03:32:25 (First version)_
+1. [''Slumdog Millionaire'' souvenirs are destroyed after the home of actress Rubina Ali burns down in a fire in Garib Nagar near Bandra Railway Station in Mumbai. 21 people are wounded and more than 2,000 others become homeless. ](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-after-the-home-of-actress-rubina-ali-burns-down-in-a-fire-in-garib-nagar-near-bandra-railway.md) _2018-02-06 13:49:22 (First version)_
 1. ["Slumdog Millionaire" souvenirs are destroyed after the home of actress Rubina Ali burns down in a fire in Garib Nagar near Bandra Railway Station in Mumbai. 21 people are wounded and more than 2,000 others become homeless. ](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-after-the-home-of-actress-rubina-ali-burns-down-in-a-fire-in-garib-nagar-near-bandra-railway-s.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A 6ft-long lizard species that roamed South East Asia some 36-40 million years a
 
 ### Changes:
 
-1. [A newly discovered prehistoric lizard, ''Barbaturex morrisoni'', is named after Doors singer Jim Morrison who called himself "The Lizard King". ](/news/2013/06/4/a-newly-discovered-prehistoric-lizard-barbaturex-morrisoni-is-named-after-doors-singer-jim-morrison-who-called-himself-the-lizard-kin.md) _2017-08-25 03:38:46 (First version)_
+1. [A newly discovered prehistoric lizard, ''Barbaturex morrisoni'', is named after Doors singer Jim Morrison who called himself "The Lizard King". ](/news/2013/06/4/a-newly-discovered-prehistoric-lizard-barbaturex-morrisoni-is-named-after-doors-singer-jim-morrison-who-called-himself-the-lizard-kin.md) _2018-02-06 13:49:25 (First version)_
 1. [A newly discovered prehistoric lizard, "Barbaturex morrisoni", is named after Doors singer Jim Morrison who called himself "The Lizard King". ](/news/2013/06/4/a-newly-discovered-prehistoric-lizard-barbaturex-morrisoni-is-named-after-doors-singer-jim-morrison-who-called-himself-the-lizard-king.md) _(Current version)_
 
 ### Related:

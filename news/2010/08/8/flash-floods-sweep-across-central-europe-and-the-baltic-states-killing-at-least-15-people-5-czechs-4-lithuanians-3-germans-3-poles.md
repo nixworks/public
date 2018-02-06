@@ -21,8 +21,8 @@ Flash floods brought on by torrential rains cause at least 15 deaths in central 
 
 ### Changes:
 
-1. [Flash floods in the Baltic and Central Europe:Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-pflash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md) _2017-08-25 03:29:17 (First version)_
-2. [Flash floods in the Baltic and Central Europe:: Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-flash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md) _2017-08-27 03:29:20 (Update)_
+1. [Flash floods in the Baltic and Central Europe:Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-pflash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md) _2018-02-06 13:49:20 (First version)_
+2. [Flash floods in the Baltic and Central Europe:: Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-flash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md) _2018-02-06 13:49:20 (Update)_
 2. [Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people-5-czechs-4-lithuanians-3-germans-3-poles.md) _(Current version)_
 
 ### Related:

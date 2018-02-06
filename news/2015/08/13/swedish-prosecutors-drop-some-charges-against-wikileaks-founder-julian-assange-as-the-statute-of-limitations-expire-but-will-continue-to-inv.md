@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-w
 
 ### Changes:
 
-1. [Assange v Swedish Prosecution Authority: Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/assange-v-swedish-prosecution-authority-swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-li.md) _2017-08-27 03:42:49 (First version)_
+1. [Assange v Swedish Prosecution Authority: Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/assange-v-swedish-prosecution-authority-swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-li.md) _2018-02-06 13:49:27 (First version)_
 1. [Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-limitations-expire-but-will-continue-to-inv.md) _(Current version)_
 
 ### Related:

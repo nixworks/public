@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/05/15/police-use-truncheons-to-break-up-an-opposition
 
 ### Changes:
 
-1. [2011 Moroccan protests:Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/2011-moroccan-protests-ppolice-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _2017-08-25 03:33:07 (First version)_
-2. [2011 Moroccan protests:: Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/2011-moroccan-protests-police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _2017-08-27 03:33:17 (Update)_
+1. [2011 Moroccan protests:Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/2011-moroccan-protests-ppolice-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Moroccan protests:: Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/2011-moroccan-protests-police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _2018-02-06 13:49:22 (Update)_
 2. [Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _(Current version)_
 
 ### Related:

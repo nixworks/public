@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/02/28/new-zealand-police-evacuate-60-properties-in-ch
 
 ### Changes:
 
-1. [New Zealand earthquakes:New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-earthquakes-pnew-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake.md) _2017-08-25 03:32:22 (First version)_
-2. [New Zealand earthquakes:: New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-earthquakes-new-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake.md) _2017-08-27 03:32:30 (Update)_
+1. [New Zealand earthquakes:New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-earthquakes-pnew-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake.md) _2018-02-06 13:49:22 (First version)_
+2. [New Zealand earthquakes:: New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-earthquakes-new-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake.md) _2018-02-06 13:49:22 (Update)_
 2. [New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake-appear-in-cliffs.md) _(Current version)_
 
 ### Related:

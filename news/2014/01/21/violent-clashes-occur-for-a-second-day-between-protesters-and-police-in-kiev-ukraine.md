@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/21/violent-clashes-occur-for-a-second-day-between-
 
 ### Changes:
 
-1. [Euromaidan:Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-pviolent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md) _2017-08-25 03:39:55 (First version)_
-2. [Euromaidan:: Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-violent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md) _2017-08-27 03:40:14 (Update)_
+1. [Euromaidan:: Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-violent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-pviolent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md) _2018-02-06 13:49:25 (Update)_
 2. [Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/violent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Iranian president said to be considering resignation after intelligence chief he
 
 ### Changes:
 
-1. [Iranian politics:A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-pa-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md) _2017-08-25 03:33:01 (First version)_
-2. [Iranian politics:: A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-a-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md) _2017-08-27 03:33:09 (Update)_
+1. [Iranian politics:A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-pa-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md) _2018-02-06 13:49:22 (First version)_
+2. [Iranian politics:: A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-a-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md) _2018-02-06 13:49:22 (Update)_
 2. [A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/a-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with-ahmadinejad-said-t.md) _(Current version)_
 
 ### Related:

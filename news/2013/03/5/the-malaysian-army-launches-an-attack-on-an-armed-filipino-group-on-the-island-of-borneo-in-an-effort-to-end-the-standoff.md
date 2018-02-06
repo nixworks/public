@@ -16,8 +16,8 @@ Malaysian soldiers launch an assault on armed members of a Filipino clan in an o
 
 ### Changes:
 
-1. [2013 Lahad Datu standoff:The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/2013-lahad-datu-standoff-pthe-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the-s.md) _2017-08-25 03:37:44 (First version)_
-2. [2013 Lahad Datu standoff:: The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/2013-lahad-datu-standoff-the-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the.md) _2017-08-27 03:37:55 (Update)_
+1. [2013 Lahad Datu standoff:: The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/2013-lahad-datu-standoff-the-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Lahad Datu standoff:The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/2013-lahad-datu-standoff-pthe-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the-s.md) _2018-02-06 13:49:24 (Update)_
 2. [The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/the-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the-standoff.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ By Jungmin Jang and Narae Kim MOKPO/JINDO, South Korea (Reuters) - Rescuers stru
 
 ### Changes:
 
-1. [2014 South Korean ferry capsizing:Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/2014-south-korean-ferry-capsizing-prepublic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-f.md) _2017-08-25 03:40:18 (First version)_
-2. [2014 South Korean ferry capsizing:: Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/2014-south-korean-ferry-capsizing-republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s.md) _2017-08-27 03:40:36 (Update)_
+1. [2014 South Korean ferry capsizing:: Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/2014-south-korean-ferry-capsizing-republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 South Korean ferry capsizing:Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/2014-south-korean-ferry-capsizing-prepublic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-f.md) _2018-02-06 13:49:26 (Update)_
 2. [Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-ferry-capsizing-off-the-coast-of-the.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-a
 
 ### Changes:
 
-1. [2013 Queensland floods:Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-presidents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy.md) _2017-08-25 03:37:20 (First version)_
-2. [2013 Queensland floods:: Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heav.md) _2017-08-27 03:37:31 (Update)_
+1. [2013 Queensland floods:: Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heav.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Queensland floods:Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-presidents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy.md) _2018-02-06 13:49:24 (Update)_
 2. [Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.md) _(Current version)_
 
 ### Related:

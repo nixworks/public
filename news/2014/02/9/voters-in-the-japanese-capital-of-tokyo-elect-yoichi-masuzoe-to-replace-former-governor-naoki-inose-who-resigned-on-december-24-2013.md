@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/9/voters-in-the-japanese-capital-of-tokyo-elect-yo
 
 ### Changes:
 
-1. [Tokyo gubernatorial election, 2014:Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/tokyo-gubernatorial-election-2014-pvoters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-who.md) _2017-08-25 03:39:59 (First version)_
-2. [Tokyo gubernatorial election, 2014:: Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/tokyo-gubernatorial-election-2014-voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-wh.md) _2017-08-27 03:40:17 (Update)_
+1. [Tokyo gubernatorial election, 2014:: Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/tokyo-gubernatorial-election-2014-voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-wh.md) _2018-02-06 13:49:25 (First version)_
+2. [Tokyo gubernatorial election, 2014:Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/tokyo-gubernatorial-election-2014-pvoters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-who.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-who-resigned-on-december-24-2013.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Sri Lankans finish voting in a general election in which former President Mahind
 
 ### Changes:
 
-1. [Sri Lankan parliamentary election, 2015: Voters in Sri Lanka go to the polls for a general election with the ruling United National Party holding on to power. ](/news/2015/08/17/sri-lankan-parliamentary-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-general-election-with-the-ruling-united-national-party-ho.md) _2017-08-27 03:42:51 (First version)_
+1. [Sri Lankan parliamentary election, 2015: Voters in Sri Lanka go to the polls for a general election with the ruling United National Party holding on to power. ](/news/2015/08/17/sri-lankan-parliamentary-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-general-election-with-the-ruling-united-national-party-ho.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Sri Lanka go to the polls for a general election with the ruling United National Party holding on to power. ](/news/2015/08/17/voters-in-sri-lanka-go-to-the-polls-for-a-general-election-with-the-ruling-united-national-party-holding-on-to-power.md) _(Current version)_
 
 ### Related:

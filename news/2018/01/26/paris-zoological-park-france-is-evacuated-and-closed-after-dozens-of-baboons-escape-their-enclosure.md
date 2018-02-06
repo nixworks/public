@@ -16,7 +16,7 @@ Visitors to Paris Zoological Park evacuated as workers try to lure animals back 
 
 ### Changes:
 
-1. [In France, zoological park is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/in-france-zoological-park-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _2018-01-28 20:30:10 (First version)_
+1. [In France, zoological park is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/in-france-zoological-park-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _2018-02-06 13:49:31 (First version)_
 1. [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _(Current version)_
 
 ### Related:

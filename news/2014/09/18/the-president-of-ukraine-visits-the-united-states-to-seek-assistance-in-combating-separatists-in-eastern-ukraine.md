@@ -16,7 +16,7 @@ Ukrainian President Petro Poroshenko calls on the US to provide military assista
 
 ### Changes:
 
-1. [Russian military intervention in Ukraine: The President of Ukraine visits the United States to seek assistance in combating separatists in eastern Ukraine. ](/news/2014/09/18/russian-military-intervention-in-ukraine-the-president-of-ukraine-visits-the-united-states-to-seek-assistance-in-combating-separatists-in-e.md) _2017-08-27 03:41:18 (First version)_
+1. [Russian military intervention in Ukraine: The President of Ukraine visits the United States to seek assistance in combating separatists in eastern Ukraine. ](/news/2014/09/18/russian-military-intervention-in-ukraine-the-president-of-ukraine-visits-the-united-states-to-seek-assistance-in-combating-separatists-in-e.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of Ukraine visits the United States to seek assistance in combating separatists in eastern Ukraine. ](/news/2014/09/18/the-president-of-ukraine-visits-the-united-states-to-seek-assistance-in-combating-separatists-in-eastern-ukraine.md) _(Current version)_
 
 ### Related:

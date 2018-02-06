@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/28/former-governor-of-new-york-george-pataki-annou
 
 ### Changes:
 
-1. [Republican Party presidential primaries, 2016: Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/republican-party-presidential-primaries-2016-former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party.md) _2017-08-27 03:42:25 (First version)_
+1. [Republican Party presidential primaries, 2016: Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/republican-party-presidential-primaries-2016-former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party-nomination-for-the-2016-presidential-election.md) _(Current version)_
 
 ### Related:

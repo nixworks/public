@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-inju
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present) At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014apresent-pat-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md) _2017-05-25 03:48:37 (First version)_
-2. [Iraqi Civil War (2014-present): At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014-present-at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md) _2017-08-27 03:46:26 (Update)_
+1. [Iraqi Civil War (2014-present) At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014apresent-pat-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md) _2018-02-06 13:49:29 (First version)_
+2. [Iraqi Civil War (2014-present): At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014-present-at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md) _2018-02-06 13:49:29 (Update)_
 2. [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md) _(Current version)_
 
 ### Related:

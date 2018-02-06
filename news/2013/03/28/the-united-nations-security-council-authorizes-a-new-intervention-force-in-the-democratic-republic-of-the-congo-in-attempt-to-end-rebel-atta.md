@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/28/the-united-nations-security-council-authorizes-
 
 ### Changes:
 
-1. [M23 rebellion:The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/m23-rebellion-pthe-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-to.md) _2017-08-25 03:38:04 (First version)_
-2. [M23 rebellion:: The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/m23-rebellion-the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-t.md) _2017-08-27 03:38:15 (Update)_
+1. [M23 rebellion:: The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/m23-rebellion-the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-t.md) _2018-02-06 13:49:24 (First version)_
+2. [M23 rebellion:The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/m23-rebellion-pthe-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-to.md) _2018-02-06 13:49:24 (Update)_
 2. [The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-to-end-rebel-atta.md) _(Current version)_
 
 ### Related:

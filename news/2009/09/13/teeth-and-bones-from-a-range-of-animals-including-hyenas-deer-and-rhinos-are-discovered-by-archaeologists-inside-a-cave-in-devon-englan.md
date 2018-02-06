@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-includi
 
 ### Changes:
 
-1. [ Teeth and bones from a range of animals, including hyenas, deer and rhinos, are discovered by archaeologists inside a cave in Devon, England. ](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-including-hyenas-deer-and-rhinos-are-discovered-by-archaeologists-inside-a-cave-in-devon-engla.md) _2017-08-25 03:25:43 (First version)_
+1. [ Teeth and bones from a range of animals, including hyenas, deer and rhinos, are discovered by archaeologists inside a cave in Devon, England. ](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-including-hyenas-deer-and-rhinos-are-discovered-by-archaeologists-inside-a-cave-in-devon-engla.md) _2018-02-06 13:49:19 (First version)_
 1. [ Teeth and bones from a range of animals, including hyenas, deer and rhinos, are discovered by archaeologists inside a cave in Devon, England. ](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-including-hyenas-deer-and-rhinos-are-discovered-by-archaeologists-inside-a-cave-in-devon-englan.md) _(Current version)_
 
 ### Related:

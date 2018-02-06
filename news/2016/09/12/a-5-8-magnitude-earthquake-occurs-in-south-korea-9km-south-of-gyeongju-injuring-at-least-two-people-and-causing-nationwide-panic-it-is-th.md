@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/12/a-5-8-magnitude-earthquake-occurs-in-south-kore
 
 ### Changes:
 
-1. [2016 Gyeongju earthquake: A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/2016-gyeongju-earthquake-a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing.md) _2017-08-27 03:46:50 (First version)_
+1. [2016 Gyeongju earthquake: A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/2016-gyeongju-earthquake-a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing.md) _2018-02-06 13:49:29 (First version)_
 1. [A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing-nationwide-panic-it-is-th.md) _(Current version)_
 
 ### Related:

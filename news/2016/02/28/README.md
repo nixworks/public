@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/28/index.html)  [JSON](2016/02/28/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md)
-_Context: War in Afghanistan (2015-present), Afghan police, Helmand Province_
+_Context: Afghan police, Helmand Province, War in Afghanistan (2015-present)_
 
 ##### Iraqi Civil War (2014-present)
 ### [Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack. ](/news/2016/02/28/two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq-isil-claims-responsibility-for-th.md)
@@ -13,7 +13,7 @@ Over 70 people were killed and 100 others wounded in Sadr City, a southern subur
 
 ##### War in Somalia (2009-present)
 ### [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md)
-_Context: Baidoa, War in Somalia (2009-present), Al-Shabaab, Somalia_
+_Context: Al-Shabaab, Baidoa, Somalia, War in Somalia (2009-present)_
 
 ##### 88th Academy Awards
 ### [The 88th Academy Awards are held at the Dolby Theatre in Hollywood, California. ](/news/2016/02/28/the-88th-academy-awards-are-held-at-the-dolby-theatre-in-hollywood-california.md)

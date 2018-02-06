@@ -17,8 +17,8 @@ A deal to end the unrest in Yemen appears to be unravelling after President Ali 
 
 ### Changes:
 
-1. [2011 Yemeni revolution:Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/2011-yemeni-revolution-pali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the.md) _2017-08-25 03:32:57 (First version)_
-2. [2011 Yemeni revolution:: Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/2011-yemeni-revolution-ali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the.md) _2017-08-27 03:33:06 (Update)_
+1. [2011 Yemeni revolution:Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/2011-yemeni-revolution-pali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni revolution:: Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/2011-yemeni-revolution-ali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the.md) _2018-02-06 13:49:22 (Update)_
 2. [Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/ali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the-deal-has-collapsed-the.md) _(Current version)_
 
 ### Related:

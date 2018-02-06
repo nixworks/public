@@ -17,8 +17,8 @@ The White House on Wednesday confirmed the authenticity of an Internet video tha
 
 ### Changes:
 
-1. [Syrian Civil War:A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/syrian-civil-war-pa-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authent.md) _2017-08-25 03:40:56 (First version)_
-2. [Syrian Civil War:: A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/syrian-civil-war-a-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authen.md) _2017-08-27 03:41:14 (Update)_
+1. [Syrian Civil War:A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/syrian-civil-war-pa-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authent.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/syrian-civil-war-a-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authen.md) _2018-02-06 13:49:26 (Update)_
 2. [A spokesman for the White House confirms that a video showing American journalist Steven Sotloff being beheaded is authentic. ](/news/2014/09/3/a-spokesman-for-the-white-house-confirms-that-a-video-showing-american-journalist-steven-sotloff-being-beheaded-is-authentic.md) _(Current version)_
 
 ### Related:

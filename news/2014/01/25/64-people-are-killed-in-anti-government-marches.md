@@ -18,6 +18,6 @@ At least 49 people are killed in clashes in Egypt as rallies mark the anniversar
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:64 people are killed in anti-government marches. ](/news/2014/01/25/post-coup-unrest-in-egypt-p64-people-are-killed-in-anti-government-marches.md) _2017-08-25 03:39:56 (First version)_
-2. [Post-coup unrest in Egypt:: 64 people are killed in anti-government marches. ](/news/2014/01/25/post-coup-unrest-in-egypt-64-people-are-killed-in-anti-government-marches.md) _2017-08-27 03:40:15 (Update)_
+1. [Post-coup unrest in Egypt:64 people are killed in anti-government marches. ](/news/2014/01/25/post-coup-unrest-in-egypt-p64-people-are-killed-in-anti-government-marches.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-coup unrest in Egypt:: 64 people are killed in anti-government marches. ](/news/2014/01/25/post-coup-unrest-in-egypt-64-people-are-killed-in-anti-government-marches.md) _2018-02-06 13:49:25 (Update)_
 2. [64 people are killed in anti-government marches. ](/news/2014/01/25/64-people-are-killed-in-anti-government-marches.md) _(Current version)_

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/13/in-a-report-by-amnesty-international-the-group-
 
 ### Changes:
 
-1. [Human rights in Egypt: In a report by Amnesty International, the group documents findings of Egyptian officials forcibly making hundreds of people disappear and face torture in the past year in an attempt to crack down on dissent in the country. ](/news/2016/07/13/human-rights-in-egypt-in-a-report-by-amnesty-international-the-group-documents-findings-of-egyptian-officials-forcibly-making-hundreds-of.md) _2017-08-27 03:46:29 (First version)_
+1. [Human rights in Egypt: In a report by Amnesty International, the group documents findings of Egyptian officials forcibly making hundreds of people disappear and face torture in the past year in an attempt to crack down on dissent in the country. ](/news/2016/07/13/human-rights-in-egypt-in-a-report-by-amnesty-international-the-group-documents-findings-of-egyptian-officials-forcibly-making-hundreds-of.md) _2018-02-06 13:49:29 (First version)_
 1. [In a report by Amnesty International, the group documents findings of Egyptian officials forcibly making hundreds of people disappear and face torture in the past year in an attempt to crack down on dissent in the country. ](/news/2016/07/13/in-a-report-by-amnesty-international-the-group-documents-findings-of-egyptian-officials-forcibly-making-hundreds-of-people-disappear-and-fa.md) _(Current version)_
 
 ### Related:

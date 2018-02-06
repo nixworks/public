@@ -19,8 +19,8 @@ European Commission President José Manuel Barroso has said a No vote will affec
 
 ### Changes:
 
-1. [ Treaty of Lisbon: President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-p-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md) _2017-08-25 03:25:47 (First version)_
-2. [ Treaty of Lisbon:: President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md) _2017-08-27 03:25:40 (Update)_
+1. [ Treaty of Lisbon:: President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md) _2018-02-06 13:49:19 (First version)_
+2. [ Treaty of Lisbon: President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-p-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md) _2018-02-06 13:49:19 (Update)_
 2. [ President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-second-referendum-on-t.md) _(Current version)_
 
 ### Related:

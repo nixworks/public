@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/24/abd-rabbuh-mansur-hadi-withdraws-his-resignatio
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/yemeni-crisis-2011-present-abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-th.md) _2017-08-27 03:42:00 (First version)_
+1. [Yemeni Crisis (2011-present): Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/yemeni-crisis-2011-present-abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-the-houthis.md) _(Current version)_
 
 ### Related:

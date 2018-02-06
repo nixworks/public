@@ -17,7 +17,7 @@ At least 35 believed killed in bus station bombing during rush hour in the capit
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Twin bomb blasts hit a crowded bus station at the outskirts of the Nigerian capital Abuja, killing at least 71 and injuring more than 120 others. ](/news/2014/04/14/islamist-insurgency-in-nigeria-twin-bomb-blasts-hit-a-crowded-bus-station-at-the-outskirts-of-the-nigerian-capital-abuja-killing-at-least.md) _2017-08-27 03:40:35 (First version)_
+1. [Islamist insurgency in Nigeria: Twin bomb blasts hit a crowded bus station at the outskirts of the Nigerian capital Abuja, killing at least 71 and injuring more than 120 others. ](/news/2014/04/14/islamist-insurgency-in-nigeria-twin-bomb-blasts-hit-a-crowded-bus-station-at-the-outskirts-of-the-nigerian-capital-abuja-killing-at-least.md) _2018-02-06 13:49:26 (First version)_
 1. [Twin bomb blasts hit a crowded bus station at the outskirts of the Nigerian capital Abuja, killing at least 71 and injuring more than 120 others. ](/news/2014/04/14/twin-bomb-blasts-hit-a-crowded-bus-station-at-the-outskirts-of-the-nigerian-capital-abuja-killing-at-least-71-and-injuring-more-than-120-ot.md) _(Current version)_
 
 ### Related:

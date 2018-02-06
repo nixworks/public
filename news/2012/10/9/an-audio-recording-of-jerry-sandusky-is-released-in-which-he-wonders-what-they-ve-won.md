@@ -18,8 +18,8 @@ Jerry Sandusky released an audio statement on Penn State radio on the eve of his
 
 ### Changes:
 
-1. [Penn State child sex abuse scandal:An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-pan-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _2017-08-25 03:36:40 (First version)_
-2. [Penn State child sex abuse scandal:: An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-an-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _2017-08-27 03:36:50 (Update)_
+1. [Penn State child sex abuse scandal:An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-pan-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _2018-02-06 13:49:24 (First version)_
+2. [Penn State child sex abuse scandal:: An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-an-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _2018-02-06 13:49:24 (Update)_
 2. [An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/an-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md) _(Current version)_
 
 ### Related:

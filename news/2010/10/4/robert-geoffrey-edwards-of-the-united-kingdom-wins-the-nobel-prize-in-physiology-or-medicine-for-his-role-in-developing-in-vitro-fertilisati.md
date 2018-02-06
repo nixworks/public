@@ -21,8 +21,8 @@ The man who devised the fertility treatment IVF is awarded the Nobel prize for m
 
 ### Changes:
 
-1. [Nobel Prize in Physiology or Medicine:Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-probert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md) _2017-08-25 03:30:20 (First version)_
-2. [Nobel Prize in Physiology or Medicine:: Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md) _2017-08-27 03:30:24 (Update)_
+1. [Nobel Prize in Physiology or Medicine:: Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md) _2018-02-06 13:49:20 (First version)_
+2. [Nobel Prize in Physiology or Medicine:Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-probert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md) _2018-02-06 13:49:20 (Update)_
 2. [Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his-role-in-developing-in-vitro-fertilisati.md) _(Current version)_
 
 ### Related:

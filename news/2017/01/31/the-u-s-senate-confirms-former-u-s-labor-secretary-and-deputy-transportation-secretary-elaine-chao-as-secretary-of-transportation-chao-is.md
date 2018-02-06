@@ -15,7 +15,7 @@ Amid tensions over president&rsquo;s travel ban, a longtime Washington figure is
 
 ### Changes:
 
-1. [Cabinet of Donald Trump: The U.S. Senate confirms former U.S. labor secretary and deputy transportation secretary Elaine Chao as Secretary of Transportation. Chao is married to Senate Majority Leader Mitch McConnell. ](/news/2017/01/31/cabinet-of-donald-trump-the-u-s-senate-confirms-former-u-s-labor-secretary-and-deputy-transportation-secretary-elaine-chao-as-secretary-o.md) _2017-08-27 03:47:44 (First version)_
+1. [Cabinet of Donald Trump: The U.S. Senate confirms former U.S. labor secretary and deputy transportation secretary Elaine Chao as Secretary of Transportation. Chao is married to Senate Majority Leader Mitch McConnell. ](/news/2017/01/31/cabinet-of-donald-trump-the-u-s-senate-confirms-former-u-s-labor-secretary-and-deputy-transportation-secretary-elaine-chao-as-secretary-o.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Senate confirms former U.S. labor secretary and deputy transportation secretary Elaine Chao as Secretary of Transportation. Chao is married to Senate Majority Leader Mitch McConnell. ](/news/2017/01/31/the-u-s-senate-confirms-former-u-s-labor-secretary-and-deputy-transportation-secretary-elaine-chao-as-secretary-of-transportation-chao-is.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Phi Kappa Psi fraternity at the University of Virginia said Monday that it i
 
 ### Changes:
 
-1. [University of Virginia fraternity Phi Kappa Psi announces that it will "pursue all available options" against ''Rolling Stone'' magazine a day after the magazine withdraws "A Rape on Campus", a story alleging a student was gang-raped at a party in 2012. ](/news/2015/04/6/university-of-virginia-fraternity-phi-kappa-psi-announces-that-it-will-pursue-all-available-options-against-rolling-stone-magazine-a-d.md) _2017-08-25 03:41:51 (First version)_
+1. [University of Virginia fraternity Phi Kappa Psi announces that it will "pursue all available options" against ''Rolling Stone'' magazine a day after the magazine withdraws "A Rape on Campus", a story alleging a student was gang-raped at a party in 2012. ](/news/2015/04/6/university-of-virginia-fraternity-phi-kappa-psi-announces-that-it-will-pursue-all-available-options-against-rolling-stone-magazine-a-d.md) _2018-02-06 13:49:27 (First version)_
 1. [University of Virginia fraternity Phi Kappa Psi announces that it will "pursue all available options" against "Rolling Stone" magazine a day after the magazine withdraws "A Rape on Campus", a story alleging a student was gang-raped at a party in 2012. ](/news/2015/04/6/university-of-virginia-fraternity-phi-kappa-psi-announces-that-it-will-pursue-all-available-options-against-rolling-stone-magazine-a-day.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-go
 
 ### Changes:
 
-1. [War in North-West Pakistan: A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/war-in-north-west-pakistan-a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-cri.md) _2017-08-27 03:45:41 (First version)_
+1. [War in North-West Pakistan: A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/war-in-north-west-pakistan-a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-cri.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.md) _(Current version)_
 
 ### Related:

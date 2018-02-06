@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/2/at-least-15-somalia-army-soldiers-are-killed-in-
 
 ### Changes:
 
-1. [War in Somalia (2009-present): At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/war-in-somalia-2009-present-at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lowe.md) _2017-08-27 03:43:39 (First version)_
+1. [War in Somalia (2009-present): At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/war-in-somalia-2009-present-at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lowe.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lower-shebelle-region.md) _(Current version)_
 
 ### Related:

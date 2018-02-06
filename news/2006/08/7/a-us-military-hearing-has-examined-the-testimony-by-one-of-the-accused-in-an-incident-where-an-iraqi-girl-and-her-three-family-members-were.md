@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/08/7/a-us-military-hearing-has-examined-the-testimony
 
 ### Changes:
 
-1. [ Iraq War: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/iraq-war-p-a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-m.md) _2017-08-25 03:18:09 (First version)_
-2. [ Iraq War:: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/iraq-war-a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-m.md) _2017-08-27 03:18:07 (Update)_
+1. [ Iraq War: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/iraq-war-p-a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-m.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/iraq-war-a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-m.md) _2018-02-06 13:49:17 (Update)_
 2. [ A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-members-were.md) _(Current version)_
 
 ### Related:

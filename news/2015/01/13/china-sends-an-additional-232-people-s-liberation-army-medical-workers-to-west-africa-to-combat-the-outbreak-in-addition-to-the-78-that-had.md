@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/13/china-sends-an-additional-232-people-s-liberati
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/ebola-virus-epidemic-in-west-africa-china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-out.md) _2017-08-27 03:41:47 (First version)_
+1. [Ebola virus epidemic in West Africa: China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/ebola-virus-epidemic-in-west-africa-china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-out.md) _2018-02-06 13:49:26 (First version)_
 1. [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md) _(Current version)_
 
 ### Related:

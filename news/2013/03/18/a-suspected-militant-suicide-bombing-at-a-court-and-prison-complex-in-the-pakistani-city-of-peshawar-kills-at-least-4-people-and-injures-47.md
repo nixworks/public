@@ -17,8 +17,8 @@ Militants kill at least four people and injure 29 in an attack on a court and pr
 
 ### Changes:
 
-1. [Terrorism in Pakistan:A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-pa-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4.md) _2017-08-25 03:37:54 (First version)_
-2. [Terrorism in Pakistan:: A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least.md) _2017-08-27 03:38:04 (Update)_
+1. [Terrorism in Pakistan:A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-pa-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Pakistan:: A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least.md) _2018-02-06 13:49:24 (Update)_
 2. [A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4-people-and-injures-47.md) _(Current version)_
 
 ### Related:

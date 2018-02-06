@@ -17,7 +17,7 @@ The U.S. has removed all remaining personnel from Yemen as Shiite rebels control
 
 ### Changes:
 
-1. [Yemeni crisis: The United Nations Security Council meets to discuss the deteriorating security situation in Yemen as the United States removes all remaining personnel. ](/news/2015/03/22/yemeni-crisis-the-united-nations-security-council-meets-to-discuss-the-deteriorating-security-situation-in-yemen-as-the-united-states-remov.md) _2017-08-27 03:42:07 (First version)_
+1. [Yemeni crisis: The United Nations Security Council meets to discuss the deteriorating security situation in Yemen as the United States removes all remaining personnel. ](/news/2015/03/22/yemeni-crisis-the-united-nations-security-council-meets-to-discuss-the-deteriorating-security-situation-in-yemen-as-the-united-states-remov.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Nations Security Council meets to discuss the deteriorating security situation in Yemen as the United States removes all remaining personnel. ](/news/2015/03/22/the-united-nations-security-council-meets-to-discuss-the-deteriorating-security-situation-in-yemen-as-the-united-states-removes-all-remainin.md) _(Current version)_
 
 ### Related:

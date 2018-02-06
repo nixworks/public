@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/01/18/a-us-drone-attack-kills-five-militants-in-a-com
 
 ### Changes:
 
-1. [War in North-West Pakistan:A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/war-in-north-west-pakistan-pa-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md) _2017-08-25 03:31:50 (First version)_
-2. [War in North-West Pakistan:: A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/war-in-north-west-pakistan-a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md) _2017-08-27 03:31:58 (Update)_
+1. [War in North-West Pakistan:A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/war-in-north-west-pakistan-pa-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md) _2018-02-06 13:49:21 (First version)_
+2. [War in North-West Pakistan:: A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/war-in-north-west-pakistan-a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md) _2018-02-06 13:49:21 (Update)_
 2. [A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md) _(Current version)_
 
 ### Related:

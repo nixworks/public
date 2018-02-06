@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/04/10/four-people-are-arrested-in-a-shiite-village-in
 
 ### Changes:
 
-1. [Bahraini uprising:Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-pfour-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attac.md) _2017-08-25 03:35:28 (First version)_
-2. [Bahraini uprising:: Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-atta.md) _2017-08-27 03:35:37 (Update)_
+1. [Bahraini uprising:Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-pfour-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attac.md) _2018-02-06 13:49:23 (First version)_
+2. [Bahraini uprising:: Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-atta.md) _2018-02-06 13:49:23 (Update)_
 2. [Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attack.md) _(Current version)_
 
 ### Related:

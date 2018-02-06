@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/26/china-resumes-diplomatic-ties-with-sagbpo-toma-
 
 ### Changes:
 
-1. [ China resumes diplomatic ties with Sao Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sapso-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _2017-08-25 03:47:08 (First version)_
+1. [ China resumes diplomatic ties with Sao Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sapso-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _2018-02-06 13:49:30 (First version)_
 1. [ China resumes diplomatic ties with SGBPo Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sagbpo-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _(Current version)_
 
 ### Related:

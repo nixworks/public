@@ -16,6 +16,6 @@ Formats: [HTML](/news/2014/05/24/the-thai-military-arrests-35-more-individuals-i
 
 ### Changes:
 
-1. [2014 Thai coup d'etat:The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-pthe-thai-military-arrests-35-more-individuals-including-prominent-academics.md) _2017-08-25 03:40:27 (First version)_
-2. [2014 Thai coup d'etat:: The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-thai-military-arrests-35-more-individuals-including-prominent-academics.md) _2017-08-27 03:40:44 (Update)_
+1. [2014 Thai coup d'etat:: The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-thai-military-arrests-35-more-individuals-including-prominent-academics.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Thai coup d'etat:The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-pthe-thai-military-arrests-35-more-individuals-including-prominent-academics.md) _2018-02-06 13:49:26 (Update)_
 2. [The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/the-thai-military-arrests-35-more-individuals-including-prominent-academics.md) _(Current version)_

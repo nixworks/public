@@ -18,7 +18,7 @@ Formats: [HTML](/news/2012/03/18/voters-in-the-us-territory-of-puerto-rico-go-to
 
 ### Changes:
 
-1. [Republican Party presidential primaries, 2012: Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/republican-party-presidential-primaries-2012-voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mit.md) _2017-08-27 03:35:28 (First version)_
+1. [Republican Party presidential primaries, 2012: Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/republican-party-presidential-primaries-2012-voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mit.md) _2018-02-06 13:49:23 (First version)_
 1. [Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mitt-romney-winning-all-of-the-delegates.md) _(Current version)_
 
 ### Related:

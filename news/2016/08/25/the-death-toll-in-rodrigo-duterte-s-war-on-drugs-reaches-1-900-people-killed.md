@@ -16,7 +16,7 @@ Police records and data gathered by Al Jazeera show close to 6,000 killed since 
 
 ### Changes:
 
-1. [Philippine Drug War: The death toll in Rodrigo Duterte's war on drugs reaches 1,900 people killed. ](/news/2016/08/25/philippine-drug-war-the-death-toll-in-rodrigo-duterte-s-war-on-drugs-reaches-1-900-people-killed.md) _2017-08-27 03:46:43 (First version)_
+1. [Philippine Drug War: The death toll in Rodrigo Duterte's war on drugs reaches 1,900 people killed. ](/news/2016/08/25/philippine-drug-war-the-death-toll-in-rodrigo-duterte-s-war-on-drugs-reaches-1-900-people-killed.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll in Rodrigo Duterte's war on drugs reaches 1,900 people killed. ](/news/2016/08/25/the-death-toll-in-rodrigo-duterte-s-war-on-drugs-reaches-1-900-people-killed.md) _(Current version)_
 
 ### Related:

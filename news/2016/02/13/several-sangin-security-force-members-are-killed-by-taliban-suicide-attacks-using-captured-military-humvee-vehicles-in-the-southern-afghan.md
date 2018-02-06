@@ -16,7 +16,7 @@ Taliban insurgents in captured military Humvee vehicles launched suicide attacks
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. ](/news/2016/02/13/war-in-afghanistan-2015-present-several-sangin-security-force-members-are-killed-by-taliban-suicide-attacks-using-captured-military-hu.md) _2017-08-27 03:44:53 (First version)_
+1. [War in Afghanistan (2015-present): Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. ](/news/2016/02/13/war-in-afghanistan-2015-present-several-sangin-security-force-members-are-killed-by-taliban-suicide-attacks-using-captured-military-hu.md) _2018-02-06 13:49:28 (First version)_
 1. [Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. ](/news/2016/02/13/several-sangin-security-force-members-are-killed-by-taliban-suicide-attacks-using-captured-military-humvee-vehicles-in-the-southern-afghan.md) _(Current version)_
 
 ### Related:

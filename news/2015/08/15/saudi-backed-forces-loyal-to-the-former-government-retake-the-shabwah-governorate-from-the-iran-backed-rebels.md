@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/15/saudi-backed-forces-loyal-to-the-former-governm
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/yemeni-civil-war-2015-saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md) _2017-08-27 03:42:50 (First version)_
+1. [Yemeni Civil War (2015): Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/yemeni-civil-war-2015-saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md) _2018-02-06 13:49:27 (First version)_
 1. [Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md) _(Current version)_
 
 ### Related:

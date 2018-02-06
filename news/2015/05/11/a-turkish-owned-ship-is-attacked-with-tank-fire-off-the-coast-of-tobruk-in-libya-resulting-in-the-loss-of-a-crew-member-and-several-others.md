@@ -16,7 +16,7 @@ A Turkish dry cargo ship is attacked off the Libyan coast, killing one crew memb
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A Turkish-owned ship is attacked with tank fire off the coast of Tobruk in Libya, resulting in the loss of a crew member and several others being injured. ](/news/2015/05/11/libyan-civil-war-2014-present-a-turkish-owned-ship-is-attacked-with-tank-fire-off-the-coast-of-tobruk-in-libya-resulting-in-the-loss-o.md) _2017-08-27 03:42:18 (First version)_
+1. [Libyan Civil War (2014-present): A Turkish-owned ship is attacked with tank fire off the coast of Tobruk in Libya, resulting in the loss of a crew member and several others being injured. ](/news/2015/05/11/libyan-civil-war-2014-present-a-turkish-owned-ship-is-attacked-with-tank-fire-off-the-coast-of-tobruk-in-libya-resulting-in-the-loss-o.md) _2018-02-06 13:49:27 (First version)_
 1. [A Turkish-owned ship is attacked with tank fire off the coast of Tobruk in Libya, resulting in the loss of a crew member and several others being injured. ](/news/2015/05/11/a-turkish-owned-ship-is-attacked-with-tank-fire-off-the-coast-of-tobruk-in-libya-resulting-in-the-loss-of-a-crew-member-and-several-others.md) _(Current version)_
 
 ### Related:

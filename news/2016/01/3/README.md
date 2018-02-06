@@ -13,13 +13,13 @@ Pathankot terror attack: Operation continues for second day; PM Modi chairs high
 
 ##### 2015-16 South Pacific cyclone season
 ### [Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md)
-_Context: severe tropical cyclone Ula, Fiji, 2015-16 South Pacific cyclone season_
+_Context: Fiji, 2015-16 South Pacific cyclone season, severe tropical cyclone Ula_
 
 ##### United States
 ### [In the United States, New York Governor Andrew M. Cuomo orders communities statewide to place homeless people in shelters when temperatures reach freezing. ](/news/2016/01/3/in-the-united-states-new-york-governor-andrew-m-cuomo-orders-communities-statewide-to-place-homeless-people-in-shelters-when-temperatures.md)
 A roundup of news from across the nation.
 
-##### British
+##### United Kingdom
 ### [The United Kingdom designates Ascension Island and its surrounding waters in the Atlantic Ocean as a Marine protected area. The reserve will be almost as big as the UK with just over half of the protected area completely closed to fishing. ](/news/2016/01/3/the-united-kingdom-designates-ascension-island-and-its-surrounding-waters-in-the-atlantic-ocean-as-a-marine-protected-area-the-reserve-will.md)
 The government is to create a marine reserve almost as big as the UK in the Atlantic waters of Ascension Island.
 

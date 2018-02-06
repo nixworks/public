@@ -20,7 +20,7 @@ An Antonov-12 Soviet-made cargo plane has crash-landed near South Sudan’s airp
 
 ### Changes:
 
-1. [2015 Juba plane crash: A cargo plane crashes shortly after takeoff from Juba International Airport in Juba, South Sudan. 41 people have reportedly died. The five Armenian crew members were killed. ](/news/2015/11/4/2015-juba-plane-crash-a-cargo-plane-crashes-shortly-after-takeoff-from-juba-international-airport-in-juba-south-sudan-41-people-have-repo.md) _2017-08-27 03:43:41 (First version)_
+1. [2015 Juba plane crash: A cargo plane crashes shortly after takeoff from Juba International Airport in Juba, South Sudan. 41 people have reportedly died. The five Armenian crew members were killed. ](/news/2015/11/4/2015-juba-plane-crash-a-cargo-plane-crashes-shortly-after-takeoff-from-juba-international-airport-in-juba-south-sudan-41-people-have-repo.md) _2018-02-06 13:49:28 (First version)_
 1. [A cargo plane crashes shortly after takeoff from Juba International Airport in Juba, South Sudan. 41 people have reportedly died. The five Armenian crew members were killed. ](/news/2015/11/4/a-cargo-plane-crashes-shortly-after-takeoff-from-juba-international-airport-in-juba-south-sudan-41-people-have-reportedly-died-the-five-a.md) _(Current version)_
 
 ### Related:

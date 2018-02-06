@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states
 
 ### Changes:
 
-1. [ The Prime Minister of Israel Ehud Olmert states that Israel has agreed to swap five prisoners with Hezbollah to provide the bodies of two Israeli soldiers captured in 2006. ](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states-that-israel-has-agreed-to-swap-five-prisoners-with-hezbollah-to-provide-the-bodies-of-two.md) _2017-08-25 03:22:34 (First version)_
+1. [ The Prime Minister of Israel Ehud Olmert states that Israel has agreed to swap five prisoners with Hezbollah to provide the bodies of two Israeli soldiers captured in 2006. ](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states-that-israel-has-agreed-to-swap-five-prisoners-with-hezbollah-to-provide-the-bodies-of-two.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Prime Minister of Israel Ehud Olmert states that Israel has agreed to swap five prisoners with Hezbollah to provide the bodies of two Israeli soldiers captured in 2006. ](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states-that-israel-has-agreed-to-swap-five-prisoners-with-hezbollah-to-provide-the-bodies-of-two-i.md) _(Current version)_
 
 ### Related:

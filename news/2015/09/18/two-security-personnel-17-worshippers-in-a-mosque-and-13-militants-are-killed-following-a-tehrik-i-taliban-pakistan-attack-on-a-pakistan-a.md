@@ -17,7 +17,7 @@ TTP claims responsibility for attack
 
 ### Changes:
 
-1. [2015 Camp Badaber attack: Two security personnel, 17 worshippers in a mosque, and 13 militants are killed following a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar. ](/news/2015/09/18/2015-camp-badaber-attack-two-security-personnel-17-worshippers-in-a-mosque-and-13-militants-are-killed-following-a-tehrik-i-taliban-pakis.md) _2017-08-27 03:43:05 (First version)_
+1. [2015 Camp Badaber attack: Two security personnel, 17 worshippers in a mosque, and 13 militants are killed following a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar. ](/news/2015/09/18/2015-camp-badaber-attack-two-security-personnel-17-worshippers-in-a-mosque-and-13-militants-are-killed-following-a-tehrik-i-taliban-pakis.md) _2018-02-06 13:49:27 (First version)_
 1. [Two security personnel, 17 worshippers in a mosque, and 13 militants are killed following a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar. ](/news/2015/09/18/two-security-personnel-17-worshippers-in-a-mosque-and-13-militants-are-killed-following-a-tehrik-i-taliban-pakistan-attack-on-a-pakistan-a.md) _(Current version)_
 
 ### Related:

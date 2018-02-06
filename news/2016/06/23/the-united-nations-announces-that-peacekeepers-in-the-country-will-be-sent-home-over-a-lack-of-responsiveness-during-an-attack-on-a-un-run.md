@@ -15,7 +15,7 @@ Peacekeepers reprimanded over &quot;lack of responsiveness&quot; during deadly a
 
 ### Changes:
 
-1. [South Sudanese Civil War: The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/south-sudanese-civil-war-the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-du.md) _2017-08-27 03:46:19 (First version)_
+1. [South Sudanese Civil War: The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/south-sudanese-civil-war-the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-du.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.md) _(Current version)_
 
 ### Related:

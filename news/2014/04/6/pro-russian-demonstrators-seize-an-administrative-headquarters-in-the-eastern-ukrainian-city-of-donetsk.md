@@ -16,8 +16,8 @@ Pro-Russian protesters storm government buildings in three eastern Ukrainian cit
 
 ### Changes:
 
-1. [2014 pro-Russian protests in Ukraine:Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/2014-pro-russian-protests-in-ukraine-ppro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donets.md) _2017-08-25 03:40:15 (First version)_
-2. [2014 pro-Russian protests in Ukraine:: Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/2014-pro-russian-protests-in-ukraine-pro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donet.md) _2017-08-27 03:40:33 (Update)_
+1. [2014 pro-Russian protests in Ukraine:: Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/2014-pro-russian-protests-in-ukraine-pro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donet.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian protests in Ukraine:Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/2014-pro-russian-protests-in-ukraine-ppro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donets.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/pro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donetsk.md) _(Current version)_
 
 ### Related:

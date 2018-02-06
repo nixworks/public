@@ -21,8 +21,8 @@ More than 500 demonstrators arrested as thousands return to streets in protest o
 
 ### Changes:
 
-1. [Egyptian Protests:Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-pthree-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md) _2017-08-25 03:31:56 (First version)_
-2. [Egyptian Protests:: Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-three-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md) _2017-08-27 03:32:04 (Update)_
+1. [Egyptian Protests:: Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-three-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md) _2018-02-06 13:49:21 (First version)_
+2. [Egyptian Protests:Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-pthree-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md) _2018-02-06 13:49:21 (Update)_
 2. [Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/three-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md) _(Current version)_
 
 ### Related:

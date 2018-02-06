@@ -21,8 +21,8 @@ Up to 150,000 civilians are reportedly forced to flee their homes in the Iraqi c
 
 ### Changes:
 
-1. [ Islamic State of Iraq and the Levant:Syria's President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-psyriaas-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _2017-08-25 03:41:54 (First version)_
-2. [ Islamic State of Iraq and the Levant:: Syria-s President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-syria-s-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _2017-08-27 03:42:13 (Update)_
+1. [ Islamic State of Iraq and the Levant:: Syria-s President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-syria-s-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _2018-02-06 13:49:27 (First version)_
+2. [ Islamic State of Iraq and the Levant:Syria's President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-psyriaas-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _2018-02-06 13:49:27 (Update)_
 2. [Syria's President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/syriaas-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _(Current version)_
 
 ### Related:

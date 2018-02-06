@@ -16,7 +16,7 @@ Sgt Alexander Blackman is released after his conviction for murder was reduced t
 
 ### Changes:
 
-1. [2011 Helmand Province incident: Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/2011-helmand-province-incident-sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgen.md) _2017-08-27 03:48:16 (First version)_
+1. [2011 Helmand Province incident: Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/2011-helmand-province-incident-sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgen.md) _2018-02-06 13:49:30 (First version)_
 1. [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ The eurozone gives Greece until Thursday to present final proposals to secure a 
 
 ### Changes:
 
-1. [Greek debt crisis timeline: Eurozone leaders hold a crisis meeting to discuss options on Greek debt following the referendum as Greek banks are near to running out of cash. For the last week Greek banks allowed to withdraw only 60 euros a day. ](/news/2015/07/7/greek-debt-crisis-timeline-eurozone-leaders-hold-a-crisis-meeting-to-discuss-options-on-greek-debt-following-the-referendum-as-greek-banks.md) _2017-08-27 03:42:39 (First version)_
+1. [Greek debt crisis timeline: Eurozone leaders hold a crisis meeting to discuss options on Greek debt following the referendum as Greek banks are near to running out of cash. For the last week Greek banks allowed to withdraw only 60 euros a day. ](/news/2015/07/7/greek-debt-crisis-timeline-eurozone-leaders-hold-a-crisis-meeting-to-discuss-options-on-greek-debt-following-the-referendum-as-greek-banks.md) _2018-02-06 13:49:27 (First version)_
 1. [Eurozone leaders hold a crisis meeting to discuss options on Greek debt following the referendum as Greek banks are near to running out of cash. For the last week Greek banks allowed to withdraw only 60 euros a day. ](/news/2015/07/7/eurozone-leaders-hold-a-crisis-meeting-to-discuss-options-on-greek-debt-following-the-referendum-as-greek-banks-are-near-to-running-out-of-c.md) _(Current version)_
 
 ### Related:

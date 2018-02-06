@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-m
 
 ### Changes:
 
-1. [War in North-West Pakistan: A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/war-in-north-west-pakistan-a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tr.md) _2017-08-27 03:47:55 (First version)_
+1. [War in North-West Pakistan: A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/war-in-north-west-pakistan-a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tr.md) _2018-02-06 13:49:30 (First version)_
 1. [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md) _(Current version)_
 
 ### Related:

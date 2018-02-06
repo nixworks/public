@@ -16,7 +16,7 @@ A failed Syrian asylum seeker blows himself up and injures 15 other people with 
 
 ### Changes:
 
-1. [2016 Ansbach bombing: Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/2016-ansbach-bombing-fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Ansbach bombing: Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/2016-ansbach-bombing-fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md) _2018-02-06 13:49:29 (First version)_
 1. [Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md) _(Current version)_
 
 ### Related:

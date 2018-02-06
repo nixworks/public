@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/18/the-washington-post-reports-that-united-states-
 
 ### Changes:
 
-1. [The ''Washington Post'' reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senat.md) _2017-08-25 03:32:15 (First version)_
+1. [The ''Washington Post'' reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senat.md) _2018-02-06 13:49:22 (First version)_
 1. [The "Washington Post" reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senate.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Prime Minister Chung Hong-won announces resignation amid criticism of government
 
 ### Changes:
 
-1. [Sinking of the MV "Sewol": The Prime Minister of South Korea Jung Hong-won announces his immediate resignation following growing criticism of the response to the sinking of the MV "Sewol". ](/news/2014/04/27/sinking-of-the-mv-sewol-the-prime-minister-of-south-korea-jung-hong-won-announces-his-immediate-resignation-following-growing-criticism-o.md) _2017-08-27 03:40:38 (First version)_
+1. [Sinking of the MV "Sewol": The Prime Minister of South Korea Jung Hong-won announces his immediate resignation following growing criticism of the response to the sinking of the MV "Sewol". ](/news/2014/04/27/sinking-of-the-mv-sewol-the-prime-minister-of-south-korea-jung-hong-won-announces-his-immediate-resignation-following-growing-criticism-o.md) _2018-02-06 13:49:26 (First version)_
 1. [The Prime Minister of South Korea Jung Hong-won announces his immediate resignation following growing criticism of the response to the sinking of the MV "Sewol". ](/news/2014/04/27/the-prime-minister-of-south-korea-jung-hong-won-announces-his-immediate-resignation-following-growing-criticism-of-the-response-to-the-sinki.md) _(Current version)_
 
 ### Related:

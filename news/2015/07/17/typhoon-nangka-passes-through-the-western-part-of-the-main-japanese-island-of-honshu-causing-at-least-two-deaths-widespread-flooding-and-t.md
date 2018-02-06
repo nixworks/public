@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/17/typhoon-nangka-passes-through-the-western-part-
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Nangka passes through the western part of the main Japanese island of Honshu, causing at least two deaths, widespread flooding and the evacuation of 100,000 people. ](/news/2015/07/17/2015-pacific-typhoon-season-typhoon-nangka-passes-through-the-western-part-of-the-main-japanese-island-of-honshu-causing-at-least-two-deat.md) _2017-08-27 03:42:43 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Nangka passes through the western part of the main Japanese island of Honshu, causing at least two deaths, widespread flooding and the evacuation of 100,000 people. ](/news/2015/07/17/2015-pacific-typhoon-season-typhoon-nangka-passes-through-the-western-part-of-the-main-japanese-island-of-honshu-causing-at-least-two-deat.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Nangka passes through the western part of the main Japanese island of Honshu, causing at least two deaths, widespread flooding and the evacuation of 100,000 people. ](/news/2015/07/17/typhoon-nangka-passes-through-the-western-part-of-the-main-japanese-island-of-honshu-causing-at-least-two-deaths-widespread-flooding-and-t.md) _(Current version)_
 
 ### Related:

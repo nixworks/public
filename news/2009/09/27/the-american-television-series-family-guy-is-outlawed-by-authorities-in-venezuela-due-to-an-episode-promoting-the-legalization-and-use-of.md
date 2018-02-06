@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/27/the-american-television-series-family-guy-is-ou
 
 ### Changes:
 
-1. [ The American television series ''Family Guy'' is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use.md) _2017-08-25 03:25:54 (First version)_
+1. [ The American television series ''Family Guy'' is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use.md) _2018-02-06 13:49:19 (First version)_
 1. [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md) _(Current version)_
 
 ### Related:

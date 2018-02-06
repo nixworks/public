@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/06/12/the-european-union-promises-a-500-million-towar
 
 ### Changes:
 
-1. [The European Union promises -500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md) _2017-08-27 03:28:14 (First version)_
+1. [The European Union promises -500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md) _2018-02-06 13:49:20 (First version)_
 1. [The European Union promises EUR500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md) _(Current version)_
 
 ### Related:

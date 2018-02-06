@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/22/index.html)  [JSON](2014/08/22/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The United Nations estimates that the death toll in Syria has doubled to at least 191,000 in the past year. ](/news/2014/08/22/the-united-nations-estimates-that-the-death-toll-in-syria-has-doubled-to-at-least-191-000-in-the-past-year.md)
-_Context: Syrian Civil War, Syria, United Nations_
+_Context: Syria, Syrian Civil War, United Nations_
 
 ##### 2014 Israel-Gaza conflict
 ### [At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a-hamas-website-warns-that.md)
@@ -13,7 +13,7 @@ Witnesses said more than a dozen were killed in what was seen as a message to po
 
 ##### Eastern Ukraine
 ### [Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/russian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-us-the-eu-and-n.md)
-_Context: Government of Ukraine, European Union, NATO, United Nations, Eastern Ukraine_
+_Context: Government of Ukraine, Eastern Ukraine, European Union, United Nations, NATO_
 
 ##### attack a Sunni mosque
 ### [A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/a-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyala-province-killing-at-least-65-peo.md)
@@ -25,7 +25,7 @@ Rescue workers battled through mud for a second day in search of dozens of peopl
 
 ##### Malaysia Airlines Flight 17
 ### [The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-have-been-returned-to-kuala-lum.md)
-_Context: Kuala Lumpur, Malaysian, Malaysia Airlines Flight 17, Ukraine_
+_Context: Malaysian, Kuala Lumpur, Malaysia Airlines Flight 17, Ukraine_
 
 ##### Egypt
 ### [44 people are killed and 41 injured after two buses crash in the south of Egypt's Sinai Peninsula. ](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.md)

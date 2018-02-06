@@ -16,7 +16,7 @@ A U.N. Security Council vote on a resolution to dramatically expand sanctions on
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday. Russia requests more time to review the text. ](/news/2016/03/1/2016-north-korean-nuclear-test-the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-resch.md) _2017-08-27 03:45:05 (First version)_
+1. [2016 North Korean nuclear test: The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday. Russia requests more time to review the text. ](/news/2016/03/1/2016-north-korean-nuclear-test-the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-resch.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday. Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md) _(Current version)_
 
 ### Related:

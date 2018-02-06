@@ -17,8 +17,8 @@ At least 17 people including women and children are killed by a roadside bomb in
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001apresent-pan-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2017-08-25 03:38:58 (First version)_
-2. [War in Afghanistan (2001-present):: An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001-present-an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2017-08-27 03:39:13 (Update)_
+1. [War in Afghanistan (2001-present):An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001apresent-pan-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001-present-an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2018-02-06 13:49:25 (Update)_
 2. [An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _(Current version)_
 
 ### Related:

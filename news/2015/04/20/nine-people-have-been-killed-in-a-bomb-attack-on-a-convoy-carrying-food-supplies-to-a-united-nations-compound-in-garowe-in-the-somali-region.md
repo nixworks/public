@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/20/nine-people-have-been-killed-in-a-bomb-attack-o
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Nine people have been killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland. ](/news/2015/04/20/war-in-somalia-2009-present-nine-people-have-been-killed-in-a-bomb-attack-on-a-convoy-carrying-food-supplies-to-a-united-nations-compou.md) _2017-08-27 03:42:13 (First version)_
+1. [War in Somalia (2009-present): Nine people have been killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland. ](/news/2015/04/20/war-in-somalia-2009-present-nine-people-have-been-killed-in-a-bomb-attack-on-a-convoy-carrying-food-supplies-to-a-united-nations-compou.md) _2018-02-06 13:49:27 (First version)_
 1. [Nine people have been killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland. ](/news/2015/04/20/nine-people-have-been-killed-in-a-bomb-attack-on-a-convoy-carrying-food-supplies-to-a-united-nations-compound-in-garowe-in-the-somali-region.md) _(Current version)_
 
 ### Related:

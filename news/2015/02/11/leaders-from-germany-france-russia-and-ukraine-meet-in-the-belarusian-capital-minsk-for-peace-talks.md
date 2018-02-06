@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-
 
 ### Changes:
 
-1. [War in Donbass: Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/war-in-donbass-leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md) _2017-08-27 03:41:55 (First version)_
+1. [War in Donbass: Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/war-in-donbass-leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md) _2018-02-06 13:49:26 (First version)_
 1. [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md) _(Current version)_
 
 ### Related:

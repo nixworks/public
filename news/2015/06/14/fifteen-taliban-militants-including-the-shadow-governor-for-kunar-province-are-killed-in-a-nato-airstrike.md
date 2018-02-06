@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/14/fifteen-taliban-militants-including-the-shadow-
 
 ### Changes:
 
-1. [War in Afghanistan: Fifteen Taliban militants, including the shadow governor for Kunar Province, are killed in a NATO airstrike. ](/news/2015/06/14/war-in-afghanistan-fifteen-taliban-militants-including-the-shadow-governor-for-kunar-province-are-killed-in-a-nato-airstrike.md) _2017-08-27 03:42:32 (First version)_
+1. [War in Afghanistan: Fifteen Taliban militants, including the shadow governor for Kunar Province, are killed in a NATO airstrike. ](/news/2015/06/14/war-in-afghanistan-fifteen-taliban-militants-including-the-shadow-governor-for-kunar-province-are-killed-in-a-nato-airstrike.md) _2018-02-06 13:49:27 (First version)_
 1. [Fifteen Taliban militants, including the shadow governor for Kunar Province, are killed in a NATO airstrike. ](/news/2015/06/14/fifteen-taliban-militants-including-the-shadow-governor-for-kunar-province-are-killed-in-a-nato-airstrike.md) _(Current version)_
 
 ### Related:

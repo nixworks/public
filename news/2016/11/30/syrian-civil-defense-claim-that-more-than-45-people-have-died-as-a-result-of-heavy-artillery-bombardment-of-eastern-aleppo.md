@@ -17,7 +17,7 @@ Rescue workers said more than 45 people had been killed in artillery bombardment
 
 ### Changes:
 
-1. [Aleppo offensive (November 2016): Syrian Civil Defense claim that more than 45 people have died as a result of heavy artillery bombardment of eastern Aleppo. ](/news/2016/11/30/aleppo-offensive-november-2016-syrian-civil-defense-claim-that-more-than-45-people-have-died-as-a-result-of-heavy-artillery-bombardment-o.md) _2017-08-27 03:47:21 (First version)_
+1. [Aleppo offensive (November 2016): Syrian Civil Defense claim that more than 45 people have died as a result of heavy artillery bombardment of eastern Aleppo. ](/news/2016/11/30/aleppo-offensive-november-2016-syrian-civil-defense-claim-that-more-than-45-people-have-died-as-a-result-of-heavy-artillery-bombardment-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian Civil Defense claim that more than 45 people have died as a result of heavy artillery bombardment of eastern Aleppo. ](/news/2016/11/30/syrian-civil-defense-claim-that-more-than-45-people-have-died-as-a-result-of-heavy-artillery-bombardment-of-eastern-aleppo.md) _(Current version)_
 
 ### Related:

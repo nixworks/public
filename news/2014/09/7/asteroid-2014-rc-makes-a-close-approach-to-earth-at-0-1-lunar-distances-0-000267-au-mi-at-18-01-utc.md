@@ -16,6 +16,6 @@ Tonight, the online Slooh Community Observatory will set its sights on the near-
 
 ### Changes:
 
-1. [Asteroid 2014 RC makes a close approach to Earth at 0.1 Lunar Distances ({{convert|0.000267|AU|km mi}}) at 18:01 UTC ](/news/2014/09/7/asteroid-2014-rc-makes-a-close-approach-to-earth-at-0-1-lunar-distances-convert-0-000267-au-km-mi-at-18-01-utc.md) _2017-05-01 03:44:31 (First version)_
-2. [Asteroid 2014 RC makes a close approach to Earth at 0.1 Lunar Distances (0.000267|AU|km mi) at 18:01 UTC ](/news/2014/09/7/asteroid-2014-rc-makes-a-close-approach-to-earth-at-0-1-lunar-distances-0-000267-au-km-mi-at-18-01-utc.md) _2017-08-29 03:40:54 (Update)_
+1. [Asteroid 2014 RC makes a close approach to Earth at 0.1 Lunar Distances ({{convert|0.000267|AU|km mi}}) at 18:01 UTC ](/news/2014/09/7/asteroid-2014-rc-makes-a-close-approach-to-earth-at-0-1-lunar-distances-convert-0-000267-au-km-mi-at-18-01-utc.md) _2018-02-06 13:49:26 (First version)_
+2. [Asteroid 2014 RC makes a close approach to Earth at 0.1 Lunar Distances (0.000267|AU|km mi) at 18:01 UTC ](/news/2014/09/7/asteroid-2014-rc-makes-a-close-approach-to-earth-at-0-1-lunar-distances-0-000267-au-km-mi-at-18-01-utc.md) _2018-02-06 13:49:26 (Update)_
 2. [Asteroid 2014 RC makes a close approach to Earth at 0.1 Lunar Distances (0.000267 AU mi) at 18:01 UTC ](/news/2014/09/7/asteroid-2014-rc-makes-a-close-approach-to-earth-at-0-1-lunar-distances-0-000267-au-mi-at-18-01-utc.md) _(Current version)_

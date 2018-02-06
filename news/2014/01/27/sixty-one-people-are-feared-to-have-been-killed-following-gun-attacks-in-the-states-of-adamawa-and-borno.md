@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/27/sixty-one-people-are-feared-to-have-been-killed
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/islamist-insurgency-in-nigeria-psixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md) _2017-08-25 03:39:56 (First version)_
-2. [Islamist insurgency in Nigeria:: Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/islamist-insurgency-in-nigeria-sixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md) _2017-08-27 03:40:15 (Update)_
+1. [Islamist insurgency in Nigeria:: Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/islamist-insurgency-in-nigeria-sixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/islamist-insurgency-in-nigeria-psixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md) _2018-02-06 13:49:25 (Update)_
 2. [Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/sixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md) _(Current version)_
 
 ### Related:

@@ -16,5 +16,5 @@ In its first apology for the scandal in 50 years, Grunenthal said on Friday it w
 
 ### Changes:
 
-1. [Now middle-aged victims of Thalidomide (''Softenon'', ''Contergan'')'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-m.md) _2017-08-25 03:36:23 (First version)_
+1. [Now middle-aged victims of Thalidomide (''Softenon'', ''Contergan'')'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-m.md) _2018-02-06 13:49:23 (First version)_
 1. [Now middle-aged victims of Thalidomide ("Softenon", "Contergan")'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-manuf.md) _(Current version)_

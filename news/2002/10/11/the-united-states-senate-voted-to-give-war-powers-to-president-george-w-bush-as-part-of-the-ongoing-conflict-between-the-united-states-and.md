@@ -11,8 +11,8 @@ Formats: [HTML](/news/2002/10/11/the-united-states-senate-voted-to-give-war-powe
 
 ### Changes:
 
-1. [ The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.](/news/2002/10/11/the-united-states-senate-voted-to-give-war-powers-to-president-george-w-bush-as-part-of-the-ongoing-conflict-between-the-united-states-an.md) _2017-08-25 03:15:15 (First version)_
-2. [ U.S. plan to invade Iraq: The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.](/news/2002/10/11/u-s-plan-to-invade-iraq-the-united-states-senate-voted-to-give-war-powers-to-president-george-w-bush-as-part-of-the-ongoing-conflict-bet.md) _2017-08-27 03:15:16 (Update)_
+1. [ U.S. plan to invade Iraq: The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.](/news/2002/10/11/u-s-plan-to-invade-iraq-the-united-states-senate-voted-to-give-war-powers-to-president-george-w-bush-as-part-of-the-ongoing-conflict-bet.md) _2018-02-06 13:49:15 (First version)_
+2. [ The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.](/news/2002/10/11/the-united-states-senate-voted-to-give-war-powers-to-president-george-w-bush-as-part-of-the-ongoing-conflict-between-the-united-states-an.md) _2018-02-06 13:49:15 (Update)_
 2. [ The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.](/news/2002/10/11/the-united-states-senate-voted-to-give-war-powers-to-president-george-w-bush-as-part-of-the-ongoing-conflict-between-the-united-states-and.md) _(Current version)_
 
 ### Related:

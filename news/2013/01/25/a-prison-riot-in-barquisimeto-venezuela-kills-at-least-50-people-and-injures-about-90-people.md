@@ -18,8 +18,8 @@ More than 50 people have been killed and dozens more injured in a prison riot in
 
 ### Changes:
 
-1. [2013 Uribana prison riot:A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-pa-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md) _2017-08-25 03:37:20 (First version)_
-2. [2013 Uribana prison riot:: A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md) _2017-08-27 03:37:30 (Update)_
+1. [2013 Uribana prison riot:A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-pa-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Uribana prison riot:: A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md) _2018-02-06 13:49:24 (Update)_
 2. [A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md) _(Current version)_
 
 ### Related:

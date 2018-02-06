@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/12/14/attorneys-general-for-california-new-york-illin
 
 ### Changes:
 
-1. [Attorney generals for California, New York, Illinois and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorney-generals-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-granti.md) _2017-12-15 11:30:06 (First version)_
-2. [Attorneys general for California, New York, Illinois and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorneys-general-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-granti.md) _2017-12-15 16:30:07 (Update)_
+1. [Attorneys general for California, New York, Illinois and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorneys-general-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-granti.md) _2018-02-06 13:49:31 (First version)_
+2. [Attorney generals for California, New York, Illinois and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorney-generals-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-granti.md) _2018-02-06 13:49:31 (Update)_
 2. [Attorneys general for California, New York, Illinois, and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorneys-general-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-grant.md) _(Current version)_
 
 ### Related:

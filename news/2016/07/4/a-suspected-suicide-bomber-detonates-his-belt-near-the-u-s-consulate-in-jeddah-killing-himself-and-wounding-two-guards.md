@@ -19,7 +19,7 @@ A suspected suicide bomber dies after being tackled by guards near the US consul
 
 ### Changes:
 
-1. [2016 Saudi Arabia bombings: A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/2016-saudi-arabia-bombings-a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-tw.md) _2017-08-27 03:46:24 (First version)_
+1. [2016 Saudi Arabia bombings: A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/2016-saudi-arabia-bombings-a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-tw.md) _2018-02-06 13:49:29 (First version)_
 1. [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md) _(Current version)_
 
 ### Related:

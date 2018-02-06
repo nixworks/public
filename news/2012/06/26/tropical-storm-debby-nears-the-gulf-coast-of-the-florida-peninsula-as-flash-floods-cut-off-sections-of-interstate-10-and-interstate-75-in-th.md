@@ -17,8 +17,8 @@ The National Hurricane Center says Debby has weakened to a tropical depression a
 
 ### Changes:
 
-1. [2012 Atlantic hurricane season:Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-ptropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inter.md) _2017-08-25 03:35:58 (First version)_
-2. [2012 Atlantic hurricane season:: Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inte.md) _2017-08-27 03:36:09 (Update)_
+1. [2012 Atlantic hurricane season:: Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inte.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Atlantic hurricane season:Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-ptropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inter.md) _2018-02-06 13:49:23 (Update)_
 2. [Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-interstate-10-and-interstate-75-in-th.md) _(Current version)_
 
 ### Related:

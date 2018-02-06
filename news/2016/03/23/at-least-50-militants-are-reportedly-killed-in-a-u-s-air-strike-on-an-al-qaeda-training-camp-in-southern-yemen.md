@@ -16,7 +16,7 @@ At least 50 militants were killed in a U.S. air strike on an al Qaeda training c
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): War on Terror: At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/yemeni-civil-war-2015-present-war-on-terror-at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-c.md) _2017-08-27 03:45:21 (First version)_
+1. [Yemeni Civil War (2015-present): War on Terror: At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/yemeni-civil-war-2015-present-war-on-terror-at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-c.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-camp-in-southern-yemen.md) _(Current version)_
 
 ### Related:

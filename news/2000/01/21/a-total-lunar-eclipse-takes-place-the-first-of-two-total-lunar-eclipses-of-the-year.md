@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/21/a-total-lunar-eclipse-takes-place-the-first-of-
 
 ### Changes:
 
-1. [January 2000 lunar eclipse: A total lunar eclipse takes place, the first of two total lunar eclipses of the year.](/news/2000/01/21/january-2000-lunar-eclipse-a-total-lunar-eclipse-takes-place-the-first-of-two-total-lunar-eclipses-of-the-year.md) _2017-08-27 03:15:07 (First version)_
+1. [January 2000 lunar eclipse: A total lunar eclipse takes place, the first of two total lunar eclipses of the year.](/news/2000/01/21/january-2000-lunar-eclipse-a-total-lunar-eclipse-takes-place-the-first-of-two-total-lunar-eclipses-of-the-year.md) _2018-02-06 13:49:15 (First version)_
 1. [A total lunar eclipse takes place, the first of two total lunar eclipses of the year.](/news/2000/01/21/a-total-lunar-eclipse-takes-place-the-first-of-two-total-lunar-eclipses-of-the-year.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Iraqi government forces have retaken the town of Dhuluiya from Islamic State, so
 
 ### Changes:
 
-1. [Iraqi insurgency: Iraqi government forces and allied Shia militia recapture the town of Dhuluiya in Saladin Province, north of Baghdad, from the Islamic State of Iraq and the Levant. ](/news/2014/12/30/iraqi-insurgency-iraqi-government-forces-and-allied-shia-militia-recapture-the-town-of-dhuluiya-in-saladin-province-north-of-baghdad-from.md) _2017-08-27 03:41:42 (First version)_
+1. [Iraqi insurgency: Iraqi government forces and allied Shia militia recapture the town of Dhuluiya in Saladin Province, north of Baghdad, from the Islamic State of Iraq and the Levant. ](/news/2014/12/30/iraqi-insurgency-iraqi-government-forces-and-allied-shia-militia-recapture-the-town-of-dhuluiya-in-saladin-province-north-of-baghdad-from.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraqi government forces and allied Shia militia recapture the town of Dhuluiya in Saladin Province, north of Baghdad, from the Islamic State of Iraq and the Levant. ](/news/2014/12/30/iraqi-government-forces-and-allied-shia-militia-recapture-the-town-of-dhuluiya-in-saladin-province-north-of-baghdad-from-the-islamic-state.md) _(Current version)_
 
 ### Related:

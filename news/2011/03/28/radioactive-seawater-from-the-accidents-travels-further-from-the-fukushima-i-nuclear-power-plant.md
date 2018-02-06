@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/28/radioactive-seawater-from-the-accidents-travels
 
 ### Changes:
 
-1. [Fukushima I nuclear accidents: Radioactive seawater from the accidents travels further from the Fukushima I Nuclear Power Plant. ](/news/2011/03/28/fukushima-i-nuclear-accidents-radioactive-seawater-from-the-accidents-travels-further-from-the-fukushima-i-nuclear-power-plant.md) _2017-08-27 03:32:48 (First version)_
+1. [Fukushima I nuclear accidents: Radioactive seawater from the accidents travels further from the Fukushima I Nuclear Power Plant. ](/news/2011/03/28/fukushima-i-nuclear-accidents-radioactive-seawater-from-the-accidents-travels-further-from-the-fukushima-i-nuclear-power-plant.md) _2018-02-06 13:49:22 (First version)_
 1. [Radioactive seawater from the accidents travels further from the Fukushima I Nuclear Power Plant. ](/news/2011/03/28/radioactive-seawater-from-the-accidents-travels-further-from-the-fukushima-i-nuclear-power-plant.md) _(Current version)_
 
 ### Related:

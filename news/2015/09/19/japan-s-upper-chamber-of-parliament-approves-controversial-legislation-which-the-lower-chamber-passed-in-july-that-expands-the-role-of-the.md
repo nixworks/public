@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-co
 
 ### Changes:
 
-1. [Japanese Self-Defense Forces: Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japanese-self-defense-forces-japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july.md) _2017-08-27 03:43:05 (First version)_
+1. [Japanese Self-Defense Forces: Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japanese-self-defense-forces-japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july.md) _2018-02-06 13:49:27 (First version)_
 1. [Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july-that-expands-the-role-of-the.md) _(Current version)_
 
 ### Related:

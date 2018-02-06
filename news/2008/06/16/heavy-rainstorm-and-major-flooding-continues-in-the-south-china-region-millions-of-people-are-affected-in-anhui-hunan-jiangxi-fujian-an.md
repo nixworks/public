@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in
 
 ### Changes:
 
-1. [ Heavy rainstorm and major flooding continues in the South China region. Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong. Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-a.md) _2017-08-25 03:22:23 (First version)_
+1. [ Heavy rainstorm and major flooding continues in the South China region. Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong. Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-a.md) _2018-02-06 13:49:18 (First version)_
 1. [ Heavy rainstorm and major flooding continues in the South China region. Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong. Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-an.md) _(Current version)_
 
 ### Related:

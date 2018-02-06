@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/6/the-trial-of-tim-selwyn-for-sedition-begins-in-a
 
 ### Changes:
 
-1. [ The trial of Tim Selwyn for sedition begins in Auckland, New Zealand. Selwyn is the first New Zealander in over 80 years to be charged with sedition. ](/news/2006/06/6/the-trial-of-tim-selwyn-for-sedition-begins-in-auckland-new-zealand-selwyn-is-the-first-new-zealander-in-over-80-years-to-be-charged-wit.md) _2017-08-25 03:17:44 (First version)_
+1. [ The trial of Tim Selwyn for sedition begins in Auckland, New Zealand. Selwyn is the first New Zealander in over 80 years to be charged with sedition. ](/news/2006/06/6/the-trial-of-tim-selwyn-for-sedition-begins-in-auckland-new-zealand-selwyn-is-the-first-new-zealander-in-over-80-years-to-be-charged-wit.md) _2018-02-06 13:49:17 (First version)_
 1. [ The trial of Tim Selwyn for sedition begins in Auckland, New Zealand. Selwyn is the first New Zealander in over 80 years to be charged with sedition. ](/news/2006/06/6/the-trial-of-tim-selwyn-for-sedition-begins-in-auckland-new-zealand-selwyn-is-the-first-new-zealander-in-over-80-years-to-be-charged-with.md) _(Current version)_
 
 ### Related:

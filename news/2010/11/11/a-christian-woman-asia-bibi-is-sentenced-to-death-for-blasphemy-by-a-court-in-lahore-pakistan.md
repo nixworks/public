@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/11/11/a-christian-woman-asia-bibi-is-sentenced-to-dea
 
 ### Changes:
 
-1. [A Christian woman, Aasia Bibi, is sentenced to death for blasphemy by a court in Lahore, Pakistan. ](/news/2010/11/11/a-christian-woman-aasia-bibi-is-sentenced-to-death-for-blasphemy-by-a-court-in-lahore-pakistan.md) _2017-10-17 03:36:00 (First version)_
+1. [A Christian woman, Aasia Bibi, is sentenced to death for blasphemy by a court in Lahore, Pakistan. ](/news/2010/11/11/a-christian-woman-aasia-bibi-is-sentenced-to-death-for-blasphemy-by-a-court-in-lahore-pakistan.md) _2018-02-06 13:49:21 (First version)_
 1. [A Christian woman, Asia Bibi, is sentenced to death for blasphemy by a court in Lahore, Pakistan. ](/news/2010/11/11/a-christian-woman-asia-bibi-is-sentenced-to-death-for-blasphemy-by-a-court-in-lahore-pakistan.md) _(Current version)_
 
 ### Related:

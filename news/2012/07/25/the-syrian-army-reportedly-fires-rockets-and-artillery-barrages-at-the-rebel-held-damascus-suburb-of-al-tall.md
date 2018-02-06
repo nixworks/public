@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/07/25/the-syrian-army-reportedly-fires-rockets-and-ar
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-pthe-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _2017-08-25 03:36:10 (First version)_
-2. [Syrian civil war:: The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _2017-08-27 03:36:21 (Update)_
+1. [Syrian civil war:: The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-pthe-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _(Current version)_
 
 ### Related:

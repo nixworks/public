@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/04/12/at-least-11-people-are-killed-and-more-than-30-
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/iraqi-insurgency-post-u-s-withdrawal-pat-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-bagh.md) _2017-08-25 03:38:18 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/iraqi-insurgency-post-u-s-withdrawal-at-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-bag.md) _2017-08-27 03:38:31 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/iraqi-insurgency-post-u-s-withdrawal-pat-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-bagh.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/iraqi-insurgency-post-u-s-withdrawal-at-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-bag.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/at-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-baghdad-and-in-the-province-of-diyala.md) _(Current version)_
 
 ### Related:

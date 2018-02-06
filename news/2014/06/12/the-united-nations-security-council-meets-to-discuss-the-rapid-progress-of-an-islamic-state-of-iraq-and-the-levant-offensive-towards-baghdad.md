@@ -17,7 +17,7 @@ Stay up-to-date with the latest developments in the ongoing IS battle in Iraq an
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/iraqi-insurgency-post-u-s-withdrawal-the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq.md) _2017-08-27 03:40:50 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/iraqi-insurgency-post-u-s-withdrawal-the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq-and-the-levant-offensive-towards-baghdad.md) _(Current version)_
 
 ### Related:

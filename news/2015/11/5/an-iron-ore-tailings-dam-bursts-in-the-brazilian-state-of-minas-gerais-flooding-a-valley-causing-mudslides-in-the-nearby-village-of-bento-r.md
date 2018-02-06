@@ -19,7 +19,7 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 
 ### Changes:
 
-1. [Minas Gerais dam disaster: An iron ore tailings dam bursts in the Brazilian state of Minas Gerais flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing up to 17 deaths and 45 missing. The dam is operated by Samarco MineracGBPo, a joint venture between BHP Billiton and Vale. ](/news/2015/11/5/minas-gerais-dam-disaster-an-iron-ore-tailings-dam-bursts-in-the-brazilian-state-of-minas-gerais-flooding-a-valley-causing-mudslides-in-th.md) _2017-08-27 03:43:41 (First version)_
+1. [Minas Gerais dam disaster: An iron ore tailings dam bursts in the Brazilian state of Minas Gerais flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing up to 17 deaths and 45 missing. The dam is operated by Samarco MineracGBPo, a joint venture between BHP Billiton and Vale. ](/news/2015/11/5/minas-gerais-dam-disaster-an-iron-ore-tailings-dam-bursts-in-the-brazilian-state-of-minas-gerais-flooding-a-valley-causing-mudslides-in-th.md) _2018-02-06 13:49:28 (First version)_
 1. [An iron ore tailings dam bursts in the Brazilian state of Minas Gerais flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing up to 17 deaths and 45 missing. The dam is operated by Samarco MineracGBPo, a joint venture between BHP Billiton and Vale. ](/news/2015/11/5/an-iron-ore-tailings-dam-bursts-in-the-brazilian-state-of-minas-gerais-flooding-a-valley-causing-mudslides-in-the-nearby-village-of-bento-r.md) _(Current version)_
 
 ### Related:

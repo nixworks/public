@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-ke
 
 ### Changes:
 
-1. [ An Eldoret operation commences to close down Kenya's largest camp for people forced to flee their homes during the 2007-2008 Kenyan crisis ethnic violence. ](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-kenya-s-largest-camp-for-people-forced-to-flee-their-homes-during-the-2007-2008-kenyan-crisi.md) _2017-08-27 03:25:47 (First version)_
+1. [ An Eldoret operation commences to close down Kenya's largest camp for people forced to flee their homes during the 2007-2008 Kenyan crisis ethnic violence. ](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-kenya-s-largest-camp-for-people-forced-to-flee-their-homes-during-the-2007-2008-kenyan-crisi.md) _2018-02-06 13:49:19 (First version)_
 1. [ An Eldoret operation commences to close down Kenya's largest camp for people forced to flee their homes during the 2007-2008 Kenyan crisis ethnic violence. ](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-kenya-s-largest-camp-for-people-forced-to-flee-their-homes-during-the-2007a2008-kenyan-crisi.md) _(Current version)_
 
 ### Related:

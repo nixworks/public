@@ -16,8 +16,8 @@ Islamic State fighters in Syria said on Monday they had taken control of a gas f
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant:Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-in-iraq-and-the-levant-pislamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-th.md) _2017-08-25 03:41:09 (First version)_
-2. [Islamic State in Iraq and the Levant:: Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-in-iraq-and-the-levant-islamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-t.md) _2017-08-27 03:41:28 (Update)_
+1. [Islamic State in Iraq and the Levant:Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-in-iraq-and-the-levant-pislamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-th.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamic State in Iraq and the Levant:: Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-in-iraq-and-the-levant-islamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-t.md) _2018-02-06 13:49:26 (Update)_
 2. [Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-the-second-gas-field-they-have-captured.md) _(Current version)_
 
 ### Related:

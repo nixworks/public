@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/2/dozens-of-people-are-killed-as-boko-haram-captur
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/islamist-insurgency-in-nigeria-pdozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md) _2017-08-25 03:40:56 (First version)_
-2. [Islamist insurgency in Nigeria:: Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/islamist-insurgency-in-nigeria-dozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md) _2017-08-27 03:41:14 (Update)_
+1. [Islamist insurgency in Nigeria:Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/islamist-insurgency-in-nigeria-pdozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/islamist-insurgency-in-nigeria-dozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md) _2018-02-06 13:49:26 (Update)_
 2. [Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/dozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md) _(Current version)_
 
 ### Related:

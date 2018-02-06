@@ -19,8 +19,8 @@ FM Alain Juppe says &#39;vise is tightening&#39; around Assad regime; pro-regime
 
 ### Changes:
 
-1. [Syrian uprising:The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-pthe-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-in.md) _2017-08-25 03:34:30 (First version)_
-2. [Syrian uprising:: The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-i.md) _2017-08-27 03:34:39 (Update)_
+1. [Syrian uprising:: The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-i.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-pthe-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-in.md) _2018-02-06 13:49:23 (Update)_
 2. [The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-in-the-country.md) _(Current version)_
 
 ### Related:

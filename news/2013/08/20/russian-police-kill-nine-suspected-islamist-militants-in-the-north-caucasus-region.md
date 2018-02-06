@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/08/20/russian-police-kill-nine-suspected-islamist-mil
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-prussian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _2017-08-25 03:39:10 (First version)_
-2. [Insurgency in the North Caucasus:: Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _2017-08-27 03:39:26 (Update)_
+1. [Insurgency in the North Caucasus:: Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _2018-02-06 13:49:25 (First version)_
+2. [Insurgency in the North Caucasus:Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-prussian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _2018-02-06 13:49:25 (Update)_
 2. [Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Sixty-nine Kurdish insurgents and two Turkish soldiers have been killed in four 
 
 ### Changes:
 
-1. [Turkey-PKK conflict: The Turkish army says 69 Kurdish insurgents and two Turkish soldiers were killed in four days of fighting in Cizre and Silopi, near the Syrian and Iraqi borders, in southeast Turkey. ](/news/2015/12/19/turkey-pkk-conflict-the-turkish-army-says-69-kurdish-insurgents-and-two-turkish-soldiers-were-killed-in-four-days-of-fighting-in-cizre-an.md) _2017-08-27 03:44:26 (First version)_
+1. [Turkey-PKK conflict: The Turkish army says 69 Kurdish insurgents and two Turkish soldiers were killed in four days of fighting in Cizre and Silopi, near the Syrian and Iraqi borders, in southeast Turkey. ](/news/2015/12/19/turkey-pkk-conflict-the-turkish-army-says-69-kurdish-insurgents-and-two-turkish-soldiers-were-killed-in-four-days-of-fighting-in-cizre-an.md) _2018-02-06 13:49:28 (First version)_
 1. [The Turkish army says 69 Kurdish insurgents and two Turkish soldiers were killed in four days of fighting in Cizre and Silopi, near the Syrian and Iraqi borders, in southeast Turkey. ](/news/2015/12/19/the-turkish-army-says-69-kurdish-insurgents-and-two-turkish-soldiers-were-killed-in-four-days-of-fighting-in-cizre-and-silopi-near-the-syri.md) _(Current version)_
 
 ### Related:

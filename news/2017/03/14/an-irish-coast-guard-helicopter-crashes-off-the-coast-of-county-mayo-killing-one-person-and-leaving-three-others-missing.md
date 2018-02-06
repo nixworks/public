@@ -16,7 +16,7 @@ A search operation for three missing Irish Coast Guard crew members will continu
 
 ### Changes:
 
-1. [2017 Irish Coast Guard S-92 crash: An Irish Coast Guard helicopter crashes off the coast of County Mayo, killing one person and leaving three others missing. ](/news/2017/03/14/2017-irish-coast-guard-s-92-crash-an-irish-coast-guard-helicopter-crashes-off-the-coast-of-county-mayo-killing-one-person-and-leaving-thre.md) _2017-08-27 03:47:59 (First version)_
+1. [2017 Irish Coast Guard S-92 crash: An Irish Coast Guard helicopter crashes off the coast of County Mayo, killing one person and leaving three others missing. ](/news/2017/03/14/2017-irish-coast-guard-s-92-crash-an-irish-coast-guard-helicopter-crashes-off-the-coast-of-county-mayo-killing-one-person-and-leaving-thre.md) _2018-02-06 13:49:30 (First version)_
 1. [An Irish Coast Guard helicopter crashes off the coast of County Mayo, killing one person and leaving three others missing. ](/news/2017/03/14/an-irish-coast-guard-helicopter-crashes-off-the-coast-of-county-mayo-killing-one-person-and-leaving-three-others-missing.md) _(Current version)_
 
 ### Related:

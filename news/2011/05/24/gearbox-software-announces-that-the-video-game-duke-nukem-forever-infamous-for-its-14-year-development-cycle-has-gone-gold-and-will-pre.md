@@ -16,5 +16,5 @@ Back in January, Gearbox Software released a Duke Nukem Forever trailer, and our
 
 ### Changes:
 
-1. [Gearbox Software announces that the video game ''Duke Nukem Forever'', infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-p.md) _2017-08-25 03:33:15 (First version)_
+1. [Gearbox Software announces that the video game ''Duke Nukem Forever'', infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-p.md) _2018-02-06 13:49:22 (First version)_
 1. [Gearbox Software announces that the video game "Duke Nukem Forever", infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-pre.md) _(Current version)_

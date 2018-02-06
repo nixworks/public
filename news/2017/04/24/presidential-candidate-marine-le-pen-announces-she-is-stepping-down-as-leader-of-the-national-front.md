@@ -16,7 +16,7 @@ Marine Le Pen says she will be above &quot;partisan considerations&quot; as she 
 
 ### Changes:
 
-1. [2017 French presidential election: Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/2017-french-presidential-election-presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _2017-08-27 03:48:14 (First version)_
+1. [2017 French presidential election: Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/2017-french-presidential-election-presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _2018-02-06 13:49:30 (First version)_
 1. [Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _(Current version)_
 
 ### Related:

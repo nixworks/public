@@ -16,7 +16,7 @@ Security forces end an attack by four gunmen on a university in north-west Pakis
 
 ### Changes:
 
-1. [War in North-West Pakistan: Bacha Khan University attack: Gunmen attack a university in Charsadda, Pakistan. At least 21 people are reportedly killed. ](/news/2016/01/20/war-in-north-west-pakistan-bacha-khan-university-attack-gunmen-attack-a-university-in-charsadda-pakistan-at-least-21-people-are-reported.md) _2017-08-27 03:44:44 (First version)_
+1. [War in North-West Pakistan: Bacha Khan University attack: Gunmen attack a university in Charsadda, Pakistan. At least 21 people are reportedly killed. ](/news/2016/01/20/war-in-north-west-pakistan-bacha-khan-university-attack-gunmen-attack-a-university-in-charsadda-pakistan-at-least-21-people-are-reported.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunmen attack a university in Charsadda, Pakistan. At least 21 people are reportedly killed. ](/news/2016/01/20/gunmen-attack-a-university-in-charsadda-pakistan-at-least-21-people-are-reportedly-killed.md) _(Current version)_
 
 ### Related:

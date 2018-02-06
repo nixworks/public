@@ -16,7 +16,7 @@ PokerStars, Full Tilt Poker and Absolute Poker have been charged by Manhattan U.
 
 ### Changes:
 
-1. [The U.S. Attorney's office in Manhattan announces indictments of the owners of the three largest online poker sites accepting U.S. players-PokerStars, Full Tilt Poker, and Absolute Poker-on charges of bank fraud, gambling offenses, and money laundering. ](/news/2011/04/15/the-u-s-attorney-s-office-in-manhattan-announces-indictments-of-the-owners-of-the-three-largest-online-poker-sites-accepting-u-s-players.md) _2017-08-27 03:32:57 (First version)_
+1. [The U.S. Attorney's office in Manhattan announces indictments of the owners of the three largest online poker sites accepting U.S. players-PokerStars, Full Tilt Poker, and Absolute Poker-on charges of bank fraud, gambling offenses, and money laundering. ](/news/2011/04/15/the-u-s-attorney-s-office-in-manhattan-announces-indictments-of-the-owners-of-the-three-largest-online-poker-sites-accepting-u-s-players.md) _2018-02-06 13:49:22 (First version)_
 1. [The U.S. Attorney's office in Manhattan announces indictments of the owners of the three largest online poker sites accepting U.S. players--PokerStars, Full Tilt Poker, and Absolute Poker--on charges of bank fraud, gambling offenses, and money laundering. ](/news/2011/04/15/the-u-s-attorney-s-office-in-manhattan-announces-indictments-of-the-owners-of-the-three-largest-online-poker-sites-accepting-u-s-playersa.md) _(Current version)_
 
 ### Related:

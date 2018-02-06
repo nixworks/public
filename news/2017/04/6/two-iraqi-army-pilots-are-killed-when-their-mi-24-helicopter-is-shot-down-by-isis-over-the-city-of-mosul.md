@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/6/two-iraqi-army-pilots-are-killed-when-their-mi-2
 
 ### Changes:
 
-1. [Battle of Mosul: Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/battle-of-mosul-two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md) _2017-08-27 03:48:07 (First version)_
+1. [Battle of Mosul: Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/battle-of-mosul-two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md) _2018-02-06 13:49:30 (First version)_
 1. [Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md) _(Current version)_
 
 ### Related:

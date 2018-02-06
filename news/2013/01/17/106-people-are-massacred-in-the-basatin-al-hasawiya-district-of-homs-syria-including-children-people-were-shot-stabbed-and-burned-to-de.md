@@ -19,8 +19,8 @@ More than 100 people were shot, stabbed or possibly burned to death by governmen
 
 ### Changes:
 
-1. [Syrian civil war:106 people are massacred in the Basatin al-Hasawiya district of Homs, Syria, including children. People were shot, stabbed, and burned to death by forces loyal to Bashar al-Assad known as the Shabiha. ](/news/2013/01/17/syrian-civil-war-p106-people-are-massacred-in-the-basatin-al-hasawiya-district-of-homs-syria-including-children-people-were-shot-stabbed.md) _2017-08-25 03:37:17 (First version)_
-2. [Syrian civil war:: 106 people are massacred in the Basatin al-Hasawiya district of Homs, Syria, including children. People were shot, stabbed, and burned to death by forces loyal to Bashar al-Assad known as the Shabiha. ](/news/2013/01/17/syrian-civil-war-106-people-are-massacred-in-the-basatin-al-hasawiya-district-of-homs-syria-including-children-people-were-shot-stabbe.md) _2017-08-27 03:37:27 (Update)_
+1. [Syrian civil war:106 people are massacred in the Basatin al-Hasawiya district of Homs, Syria, including children. People were shot, stabbed, and burned to death by forces loyal to Bashar al-Assad known as the Shabiha. ](/news/2013/01/17/syrian-civil-war-p106-people-are-massacred-in-the-basatin-al-hasawiya-district-of-homs-syria-including-children-people-were-shot-stabbed.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: 106 people are massacred in the Basatin al-Hasawiya district of Homs, Syria, including children. People were shot, stabbed, and burned to death by forces loyal to Bashar al-Assad known as the Shabiha. ](/news/2013/01/17/syrian-civil-war-106-people-are-massacred-in-the-basatin-al-hasawiya-district-of-homs-syria-including-children-people-were-shot-stabbe.md) _2018-02-06 13:49:24 (Update)_
 2. [106 people are massacred in the Basatin al-Hasawiya district of Homs, Syria, including children. People were shot, stabbed, and burned to death by forces loyal to Bashar al-Assad known as the Shabiha. ](/news/2013/01/17/106-people-are-massacred-in-the-basatin-al-hasawiya-district-of-homs-syria-including-children-people-were-shot-stabbed-and-burned-to-de.md) _(Current version)_
 
 ### Related:

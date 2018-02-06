@@ -17,7 +17,7 @@ Shanghai (AFP) - Super typhoon Chan-hom barrelled towards eastern China near com
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Eastern China braces for the impact of Typhoon Chan-hom with the province of Zhejiang evacuating 865,000 people in coastal areas. ](/news/2015/07/11/2015-pacific-typhoon-season-eastern-china-braces-for-the-impact-of-typhoon-chan-hom-with-the-province-of-zhejiang-evacuating-865-000-people.md) _2017-08-27 03:42:41 (First version)_
+1. [2015 Pacific typhoon season: Eastern China braces for the impact of Typhoon Chan-hom with the province of Zhejiang evacuating 865,000 people in coastal areas. ](/news/2015/07/11/2015-pacific-typhoon-season-eastern-china-braces-for-the-impact-of-typhoon-chan-hom-with-the-province-of-zhejiang-evacuating-865-000-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Eastern China braces for the impact of Typhoon Chan-hom with the province of Zhejiang evacuating 865,000 people in coastal areas. ](/news/2015/07/11/eastern-china-braces-for-the-impact-of-typhoon-chan-hom-with-the-province-of-zhejiang-evacuating-865-000-people-in-coastal-areas.md) _(Current version)_
 
 ### Related:

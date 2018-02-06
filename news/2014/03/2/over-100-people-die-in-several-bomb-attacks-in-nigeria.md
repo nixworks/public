@@ -16,8 +16,8 @@ It was another tragic day in Maiduguri, Borno State capital, yesterday, after tw
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-pover-100-people-die-in-several-bomb-attacks-in-nigeria.md) _2017-08-25 03:40:06 (First version)_
-2. [Islamist insurgency in Nigeria:: Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-over-100-people-die-in-several-bomb-attacks-in-nigeria.md) _2017-08-27 03:40:24 (Update)_
+1. [Islamist insurgency in Nigeria:Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-pover-100-people-die-in-several-bomb-attacks-in-nigeria.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-over-100-people-die-in-several-bomb-attacks-in-nigeria.md) _2018-02-06 13:49:25 (Update)_
 2. [Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/over-100-people-die-in-several-bomb-attacks-in-nigeria.md) _(Current version)_
 
 ### Related:

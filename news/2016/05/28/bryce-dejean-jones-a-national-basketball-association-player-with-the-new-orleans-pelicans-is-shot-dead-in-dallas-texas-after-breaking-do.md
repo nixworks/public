@@ -17,7 +17,7 @@ Pelicans guard Bryce Dejean-Jones, 23, has died of a gunshot wound to the abdome
 
 ### Changes:
 
-1. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas, after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-d.md) _2017-08-25 03:45:47 (First version)_
+1. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas, after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-d.md) _2018-02-06 13:49:29 (First version)_
 1. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas, after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-do.md) _(Current version)_
 
 ### Related:

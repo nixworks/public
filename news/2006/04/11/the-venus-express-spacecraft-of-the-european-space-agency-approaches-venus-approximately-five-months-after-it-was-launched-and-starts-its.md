@@ -17,7 +17,7 @@ Formats: [HTML](/news/2006/04/11/the-venus-express-spacecraft-of-the-european-sp
 
 ### Changes:
 
-1. [ The ''Venus Express'' spacecraft of the European Space Agency approaches Venus approximately five months after it was launched and starts its main engine burn to slow itself down and allow the capture into orbit around Venus. ](/news/2006/04/11/the-venus-express-spacecraft-of-the-european-space-agency-approaches-venus-approximately-five-months-after-it-was-launched-and-starts-i.md) _2017-08-25 03:17:33 (First version)_
+1. [ The ''Venus Express'' spacecraft of the European Space Agency approaches Venus approximately five months after it was launched and starts its main engine burn to slow itself down and allow the capture into orbit around Venus. ](/news/2006/04/11/the-venus-express-spacecraft-of-the-european-space-agency-approaches-venus-approximately-five-months-after-it-was-launched-and-starts-i.md) _2018-02-06 13:49:17 (First version)_
 1. [ The "Venus Express" spacecraft of the European Space Agency approaches Venus approximately five months after it was launched and starts its main engine burn to slow itself down and allow the capture into orbit around Venus. ](/news/2006/04/11/the-venus-express-spacecraft-of-the-european-space-agency-approaches-venus-approximately-five-months-after-it-was-launched-and-starts-its.md) _(Current version)_
 
 ### Related:

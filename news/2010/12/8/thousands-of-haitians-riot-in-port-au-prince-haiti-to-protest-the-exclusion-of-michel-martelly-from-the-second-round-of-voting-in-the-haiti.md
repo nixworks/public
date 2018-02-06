@@ -17,8 +17,8 @@ Thousands of protesters rampage in Haitian towns, torching buildings in armed cl
 
 ### Changes:
 
-1. [Haiti election protests:Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/haiti-election-protests-pthousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-rou.md) _2017-08-25 03:31:19 (First version)_
-2. [Haiti election protests:: Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/haiti-election-protests-thousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-ro.md) _2017-08-27 03:31:27 (Update)_
+1. [Haiti election protests:: Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/haiti-election-protests-thousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-ro.md) _2018-02-06 13:49:21 (First version)_
+2. [Haiti election protests:Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/haiti-election-protests-pthousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-rou.md) _2018-02-06 13:49:21 (Update)_
 2. [Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/thousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-round-of-voting-in-the-haiti.md) _(Current version)_
 
 ### Related:

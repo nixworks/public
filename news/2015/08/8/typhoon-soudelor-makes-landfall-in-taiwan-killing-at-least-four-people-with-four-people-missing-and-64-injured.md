@@ -18,7 +18,7 @@ Fourteen people have been killed in China in the heaviest rains in a century bro
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Typhoon Soudelor makes landfall in Taiwan killing at least four people with four people missing and 64 injured. ](/news/2015/08/8/2015-pacific-typhoon-season-typhoon-soudelor-makes-landfall-in-taiwan-killing-at-least-four-people-with-four-people-missing-and-64-injured.md) _2017-08-27 03:42:48 (First version)_
+1. [2015 Pacific typhoon season: Typhoon Soudelor makes landfall in Taiwan killing at least four people with four people missing and 64 injured. ](/news/2015/08/8/2015-pacific-typhoon-season-typhoon-soudelor-makes-landfall-in-taiwan-killing-at-least-four-people-with-four-people-missing-and-64-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [Typhoon Soudelor makes landfall in Taiwan killing at least four people with four people missing and 64 injured. ](/news/2015/08/8/typhoon-soudelor-makes-landfall-in-taiwan-killing-at-least-four-people-with-four-people-missing-and-64-injured.md) _(Current version)_
 
 ### Related:

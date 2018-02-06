@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/01/1/israeli-troops-allegedly-misfire-a-tank-shell-an
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-palestinian-conflict-p-israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister.md) _2017-08-25 03:15:29 (First version)_
-2. [ Israeli-Palestinian conflict:: Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-palestinian-conflict-israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister.md) _2017-08-27 03:15:30 (Update)_
+1. [ Israeli-Palestinian conflict: Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-palestinian-conflict-p-israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict:: Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-palestinian-conflict-israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister.md) _2018-02-06 13:49:16 (Update)_
 2. [ Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister-was-also-injured.md) _(Current version)_
 
 ### Related:

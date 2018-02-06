@@ -16,7 +16,7 @@ A Philippine presidential debate erupted into heated exchanges Sunday over alleg
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The second leg of the presidential debates was held in Cebu City. ](/news/2016/03/20/philippine-presidential-election-2016-the-second-leg-of-the-presidential-debates-was-held-in-cebu-city.md) _2017-08-27 03:45:19 (First version)_
+1. [Philippine presidential election, 2016: The second leg of the presidential debates was held in Cebu City. ](/news/2016/03/20/philippine-presidential-election-2016-the-second-leg-of-the-presidential-debates-was-held-in-cebu-city.md) _2018-02-06 13:49:28 (First version)_
 1. [The second leg of the presidential debates was held in Cebu City. ](/news/2016/03/20/the-second-leg-of-the-presidential-debates-was-held-in-cebu-city.md) _(Current version)_
 
 ### Related:

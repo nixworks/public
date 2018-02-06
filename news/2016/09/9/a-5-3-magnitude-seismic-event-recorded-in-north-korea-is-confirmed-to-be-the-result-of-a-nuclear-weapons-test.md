@@ -17,7 +17,7 @@ North Korea says it has carried out its fifth successful nuclear test - reported
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: A 5.3 magnitude seismic event recorded in North Korea is confirmed to be the result of a nuclear weapons test. ](/news/2016/09/9/north-korea-and-weapons-of-mass-destruction-a-5-3-magnitude-seismic-event-recorded-in-north-korea-is-confirmed-to-be-the-result-of-a-nuclea.md) _2017-08-27 03:46:49 (First version)_
+1. [North Korea and weapons of mass destruction: A 5.3 magnitude seismic event recorded in North Korea is confirmed to be the result of a nuclear weapons test. ](/news/2016/09/9/north-korea-and-weapons-of-mass-destruction-a-5-3-magnitude-seismic-event-recorded-in-north-korea-is-confirmed-to-be-the-result-of-a-nuclea.md) _2018-02-06 13:49:29 (First version)_
 1. [A 5.3 magnitude seismic event recorded in North Korea is confirmed to be the result of a nuclear weapons test. ](/news/2016/09/9/a-5-3-magnitude-seismic-event-recorded-in-north-korea-is-confirmed-to-be-the-result-of-a-nuclear-weapons-test.md) _(Current version)_
 
 ### Related:

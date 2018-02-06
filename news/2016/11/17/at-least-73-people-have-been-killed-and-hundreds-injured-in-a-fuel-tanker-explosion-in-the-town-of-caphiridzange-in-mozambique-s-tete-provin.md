@@ -17,7 +17,7 @@ At least 73 people were killed and scores injured in Mozambique on Thursday as t
 
 ### Changes:
 
-1. [Caphiridzange explosion: At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in Mozambique's Tete Province. ](/news/2016/11/17/caphiridzange-explosion-at-least-73-people-have-been-killed-and-hundreds-injured-in-a-fuel-tanker-explosion-in-the-town-of-caphiridzange-in.md) _2017-08-27 03:47:15 (First version)_
+1. [Caphiridzange explosion: At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in Mozambique's Tete Province. ](/news/2016/11/17/caphiridzange-explosion-at-least-73-people-have-been-killed-and-hundreds-injured-in-a-fuel-tanker-explosion-in-the-town-of-caphiridzange-in.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in Mozambique's Tete Province. ](/news/2016/11/17/at-least-73-people-have-been-killed-and-hundreds-injured-in-a-fuel-tanker-explosion-in-the-town-of-caphiridzange-in-mozambique-s-tete-provin.md) _(Current version)_
 
 ### Related:

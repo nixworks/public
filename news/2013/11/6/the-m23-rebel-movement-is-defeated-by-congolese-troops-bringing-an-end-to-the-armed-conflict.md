@@ -16,8 +16,8 @@ Group ends 20-month campaign after army captures last hilltop strongholds, raisi
 
 ### Changes:
 
-1. [M23 rebellion:The M23 rebel movement is defeated by Congolese troops, bringing an end to the armed conflict. ](/news/2013/11/6/m23-rebellion-pthe-m23-rebel-movement-is-defeated-by-congolese-troops-bringing-an-end-to-the-armed-conflict.md) _2017-08-25 03:39:29 (First version)_
-2. [M23 rebellion:: The M23 rebel movement is defeated by Congolese troops, bringing an end to the armed conflict. ](/news/2013/11/6/m23-rebellion-the-m23-rebel-movement-is-defeated-by-congolese-troops-bringing-an-end-to-the-armed-conflict.md) _2017-08-27 03:39:47 (Update)_
+1. [M23 rebellion:: The M23 rebel movement is defeated by Congolese troops, bringing an end to the armed conflict. ](/news/2013/11/6/m23-rebellion-the-m23-rebel-movement-is-defeated-by-congolese-troops-bringing-an-end-to-the-armed-conflict.md) _2018-02-06 13:49:25 (First version)_
+2. [M23 rebellion:The M23 rebel movement is defeated by Congolese troops, bringing an end to the armed conflict. ](/news/2013/11/6/m23-rebellion-pthe-m23-rebel-movement-is-defeated-by-congolese-troops-bringing-an-end-to-the-armed-conflict.md) _2018-02-06 13:49:25 (Update)_
 2. [The M23 rebel movement is defeated by Congolese troops, bringing an end to the armed conflict. ](/news/2013/11/6/the-m23-rebel-movement-is-defeated-by-congolese-troops-bringing-an-end-to-the-armed-conflict.md) _(Current version)_
 
 ### Related:

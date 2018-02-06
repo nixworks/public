@@ -18,7 +18,7 @@ The Russian plane crash in Egypt was not due to technical failures, say French a
 
 ### Changes:
 
-1. [Metrojet Flight 9268: A sudden noise immediately before the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/metrojet-flight-9268-a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down.md) _2017-08-27 03:43:44 (First version)_
+1. [Metrojet Flight 9268: A sudden noise immediately before the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/metrojet-flight-9268-a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down.md) _2018-02-06 13:49:28 (First version)_
 1. [ A sudden noise immediately before the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down-by-a-bomb-according.md) _(Current version)_
 
 ### Related:

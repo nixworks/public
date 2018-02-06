@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/9/two-separate-car-bombs-explode-in-baghdad-killin
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Two separate car bombs explode in Baghdad, killing at least 20 people. ](/news/2016/06/9/iraqi-civil-war-2014-present-two-separate-car-bombs-explode-in-baghdad-killing-at-least-20-people.md) _2017-08-27 03:46:13 (First version)_
+1. [Iraqi Civil War (2014-present): Two separate car bombs explode in Baghdad, killing at least 20 people. ](/news/2016/06/9/iraqi-civil-war-2014-present-two-separate-car-bombs-explode-in-baghdad-killing-at-least-20-people.md) _2018-02-06 13:49:29 (First version)_
 1. [Two separate car bombs explode in Baghdad, killing at least 20 people. ](/news/2016/06/9/two-separate-car-bombs-explode-in-baghdad-killing-at-least-20-people.md) _(Current version)_
 
 ### Related:

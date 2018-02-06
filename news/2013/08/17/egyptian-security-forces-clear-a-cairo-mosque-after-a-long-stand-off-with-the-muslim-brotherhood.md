@@ -17,8 +17,8 @@ Egyptian Prime Minister Hazem el-Beblawi has proposed the legal dissolution of t
 
 ### Changes:
 
-1. [Political violence in Egypt:Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/political-violence-in-egypt-pegyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md) _2017-08-25 03:39:10 (First version)_
-2. [Political violence in Egypt:: Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/political-violence-in-egypt-egyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md) _2017-08-27 03:39:25 (Update)_
+1. [Political violence in Egypt:Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/political-violence-in-egypt-pegyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md) _2018-02-06 13:49:25 (First version)_
+2. [Political violence in Egypt:: Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/political-violence-in-egypt-egyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md) _2018-02-06 13:49:25 (Update)_
 2. [Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/egyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md) _(Current version)_
 
 ### Related:

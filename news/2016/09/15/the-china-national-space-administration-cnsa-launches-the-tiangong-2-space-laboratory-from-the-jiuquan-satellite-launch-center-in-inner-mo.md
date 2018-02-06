@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/15/the-china-national-space-administration-cnsa-la
 
 ### Changes:
 
-1. [Tiangong program: The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/tiangong-program-the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch.md) _2017-08-27 03:46:51 (First version)_
+1. [Tiangong program: The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/tiangong-program-the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch.md) _2018-02-06 13:49:29 (First version)_
 1. [The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.md) _(Current version)_
 
 ### Related:

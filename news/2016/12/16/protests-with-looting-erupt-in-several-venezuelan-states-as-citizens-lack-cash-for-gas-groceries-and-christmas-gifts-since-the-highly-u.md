@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/16/protests-with-looting-erupt-in-several-venezuel
 
 ### Changes:
 
-1. [Protests, with looting, erupt in several Venezuelan states as citizens lack cash for gas, groceries, and Christmas gifts, since the highly used, but now worthless, 100-bolivar notes were removed from circulation, and the substitute 500-bolivar notes are not available because of delays in bank deliveries. ](/news/2016/12/16/protests-with-looting-erupt-in-several-venezuelan-states-as-citizens-lack-cash-for-gas-groceries-and-christmas-gifts-since-the-highly.md) _2017-08-25 03:47:03 (First version)_
+1. [Protests, with looting, erupt in several Venezuelan states as citizens lack cash for gas, groceries, and Christmas gifts, since the highly used, but now worthless, 100-bolivar notes were removed from circulation, and the substitute 500-bolivar notes are not available because of delays in bank deliveries. ](/news/2016/12/16/protests-with-looting-erupt-in-several-venezuelan-states-as-citizens-lack-cash-for-gas-groceries-and-christmas-gifts-since-the-highly.md) _2018-02-06 13:49:30 (First version)_
 1. [Protests, with looting, erupt in several Venezuelan states as citizens lack cash for gas, groceries, and Christmas gifts, since the highly used, but now worthless, 100-bolivar notes were removed from circulation, and the substitute 500-bolivar notes are not available because of delays in bank deliveries. ](/news/2016/12/16/protests-with-looting-erupt-in-several-venezuelan-states-as-citizens-lack-cash-for-gas-groceries-and-christmas-gifts-since-the-highly-u.md) _(Current version)_
 
 ### Related:

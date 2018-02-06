@@ -16,7 +16,7 @@ The so-called Islamic State, or ISIS, released a video early on Wednesday in an 
 
 ### Changes:
 
-1. [Moro conflict: The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/moro-conflict-the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md) _2017-08-27 03:46:19 (First version)_
+1. [Moro conflict: The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/moro-conflict-the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md) _2018-02-06 13:49:29 (First version)_
 1. [The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md) _(Current version)_
 
 ### Related:

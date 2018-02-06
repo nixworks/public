@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleg
 
 ### Changes:
 
-1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their ''Tropic of Cancer'' programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer.md) _2017-08-25 03:27:25 (First version)_
+1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their ''Tropic of Cancer'' programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer.md) _2018-02-06 13:49:19 (First version)_
 1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their "Tropic of Cancer" programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.md) _(Current version)_
 
 ### Related:

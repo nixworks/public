@@ -24,7 +24,7 @@ West Bank /PNN/ Israeli occupation forces killed on Friday, a Palestinian woman 
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: A Palestinian woman, in what was construed to be an attempt to stab Israeli Border Police officers at the entrance to the Tomb of the Patriarchs in Hebron, is shot and later dies. ](/news/2016/07/1/israeli-palestinian-conflict-a-palestinian-woman-in-what-was-construed-to-be-an-attempt-to-stab-israeli-border-police-officers-at-the-en.md) _2017-08-27 03:46:23 (First version)_
+1. [Israeli-Palestinian conflict: A Palestinian woman, in what was construed to be an attempt to stab Israeli Border Police officers at the entrance to the Tomb of the Patriarchs in Hebron, is shot and later dies. ](/news/2016/07/1/israeli-palestinian-conflict-a-palestinian-woman-in-what-was-construed-to-be-an-attempt-to-stab-israeli-border-police-officers-at-the-en.md) _2018-02-06 13:49:29 (First version)_
 1. [ A Palestinian woman, in what was construed to be an attempt to stab Israeli Border Police officers at the entrance to the Tomb of the Patriarchs in Hebron, is shot and later dies. ](/news/2016/07/1/a-palestinian-woman-in-what-was-construed-to-be-an-attempt-to-stab-israeli-border-police-officers-at-the-entrance-to-the-tomb-of-the-patri.md) _(Current version)_
 
 ### Related:

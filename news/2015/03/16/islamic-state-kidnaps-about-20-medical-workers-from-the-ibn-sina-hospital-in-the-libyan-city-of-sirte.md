@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/16/islamic-state-kidnaps-about-20-medical-workers-
 
 ### Changes:
 
-1. [Libyan Civil War: Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/libyan-civil-war-islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md) _2017-08-27 03:42:06 (First version)_
+1. [Libyan Civil War: Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/libyan-civil-war-islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-i
 
 ### Changes:
 
-1. [War in North-West Pakistan:Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-pfour-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2017-08-25 03:37:14 (First version)_
-2. [War in North-West Pakistan:: Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2017-08-27 03:37:24 (Update)_
+1. [War in North-West Pakistan:Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-pfour-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2018-02-06 13:49:24 (Update)_
 2. [Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _(Current version)_
 
 ### Related:

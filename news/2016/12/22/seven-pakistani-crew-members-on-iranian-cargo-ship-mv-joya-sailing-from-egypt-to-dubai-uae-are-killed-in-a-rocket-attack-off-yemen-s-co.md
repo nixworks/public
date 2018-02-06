@@ -17,8 +17,8 @@ KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a
 
 ### Changes:
 
-1. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _2017-08-25 03:47:06 (First version)_
-2. [Yemeni Civil War: Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/yemeni-civil-war-seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-att.md) _2017-08-27 03:47:30 (Update)_
+1. [Yemeni Civil War: Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/yemeni-civil-war-seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-att.md) _2018-02-06 13:49:30 (First version)_
+2. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _2018-02-06 13:49:30 (Update)_
 2. [Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s-co.md) _(Current version)_
 
 ### Related:

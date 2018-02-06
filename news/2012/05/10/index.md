@@ -9,11 +9,11 @@ Dozens of people were killed or wounded in two &quot;terrorist explosions&quot; 
 
 ##### al-Qaeda
 ### [An airstrike reportedly kills five al-Qaeda militants in the southern Yemeni town of Jaar. ](/news/2012/05/10/an-airstrike-reportedly-kills-five-al-qaeda-militants-in-the-southern-yemeni-town-of-jaar.md)
-_Context: al-Qaeda, Ja'ar, Yemen_
+_Context: Yemen, Ja'ar, al-Qaeda_
 
 ##### International Committee of the Red Cross
 ### [The International Committee of the Red Cross suspends all humanitarian work in Pakistan after a worker was kidnapped and killed. ](/news/2012/05/10/the-international-committee-of-the-red-cross-suspends-all-humanitarian-work-in-pakistan-after-a-worker-was-kidnapped-and-killed.md)
-_Context: Pakistan, International Committee of the Red Cross_
+_Context: International Committee of the Red Cross, Pakistan_
 
 ##### pop art
 ### ["Sleeping Girl", a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. ](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-roy-lichtenstein-sells-at-auction-for-us-44-9-million-setting-a-new-record-for-a-lichten.md)
@@ -25,15 +25,15 @@ A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheb
 
 ##### Salman Rushdie
 ### [Salman Rushdie, Art Spiegelman and Mario Vargas Llosa are among those to protest against the planned spending of US$300 million on the Fifth Avenue branch of the New York Public Library, saying it is "a misplaced use of funds in a time of great scarcity". A letter signed by more than 700 writers, academics and others is sent to the library. ](/news/2012/05/10/salman-rushdie-art-spiegelman-and-mario-vargas-llosa-are-among-those-to-protest-against-the-planned-spending-of-us-300-million-on-the-fifth.md)
-_Context: Fifth Avenue, Art Spiegelman, Salman Rushdie, New York Public Library, Mario Vargas Llosa_
+_Context: Salman Rushdie, New York Public Library, Fifth Avenue, Mario Vargas Llosa, Art Spiegelman_
 
-##### British
+##### United Kingdom
 ### [As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-protest-against-planned-pension-cut.md)
 Public sector workers are taking part in a 24-hour UK-wide strike over pensions, but the government insists it has made them a &quot;generous offer&quot;.
 
 ##### Air India
 ### [An Air India industrial dispute escalates, with over 20 flights cancelled. ](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.md)
-_Context: industrial dispute, Air India_
+_Context: Air India, industrial dispute_
 
 ##### Sukhoi Superjet 100
 ### [The wreckage of a missing Sukhoi Superjet 100 plane, which vanished from radar on a demonstration flight with 45 people on board on May 9, is found in Indonesia. There are reportedly no signs of survivors. ](/news/2012/05/10/the-wreckage-of-a-missing-sukhoi-superjet-100-plane-which-vanished-from-radar-on-a-demonstration-flight-with-45-people-on-board-on-may-9-i.md)
@@ -41,7 +41,7 @@ _Context: Sukhoi Superjet 100, Russian passenger jet that crashed, Indonesia_
 
 ##### North Sea
 ### [A helicopter ditches in the North Sea off Aberdeen. ](/news/2012/05/10/a-helicopter-ditches-in-the-north-sea-off-aberdeen.md)
-_Context: Aberdeen, North Sea_
+_Context: North Sea, Aberdeen_
 
 ##### United Nations
 ### [Members of the United Nations peacekeeping force sent to Haiti are alleged to have raped a Haitian teenage boy and sexually abused him at a UN base in the town of Port-Salut: he is to testify in a closed hearing. ](/news/2012/05/10/members-of-the-united-nations-peacekeeping-force-sent-to-haiti-are-alleged-to-have-raped-a-haitian-teenage-boy-and-sexually-abused-him-at-a.md)
@@ -57,7 +57,7 @@ _Context: Australian Federal Police, Vanuatu, Australia, Prime Minister of Vanua
 
 ##### London
 ### [London's Metropolitan Police launches its 14th investigation into alleged police racism in six weeks. ](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.md)
-_Context: Metropolitan Police, London_
+_Context: London, Metropolitan Police_
 
 ##### David Cameron
 ### [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct "News of the World" tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tabloid.md)

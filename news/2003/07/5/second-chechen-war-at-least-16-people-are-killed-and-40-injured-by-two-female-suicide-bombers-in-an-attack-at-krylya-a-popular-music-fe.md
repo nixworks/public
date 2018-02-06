@@ -15,7 +15,7 @@ Formats: [HTML](/news/2003/07/5/second-chechen-war-at-least-16-people-are-killed
 
 ### Changes:
 
-1. [ Second Chechen War: At least 16 people are killed and 40 injured by two female suicide bombers in an attack at ''Krylya'', a popular music festival, at the Tushino airfield near Moscow. The Russian authorities blame an on-going terrorism campaign by Chechen rebels; the Chechen government denies any connection to the attacks. ](/news/2003/07/5/second-chechen-war-at-least-16-people-are-killed-and-40-injured-by-two-female-suicide-bombers-in-an-attack-at-krylya-a-popular-music.md) _2017-08-25 03:15:19 (First version)_
+1. [ Second Chechen War: At least 16 people are killed and 40 injured by two female suicide bombers in an attack at ''Krylya'', a popular music festival, at the Tushino airfield near Moscow. The Russian authorities blame an on-going terrorism campaign by Chechen rebels; the Chechen government denies any connection to the attacks. ](/news/2003/07/5/second-chechen-war-at-least-16-people-are-killed-and-40-injured-by-two-female-suicide-bombers-in-an-attack-at-krylya-a-popular-music.md) _2018-02-06 13:49:15 (First version)_
 1. [ Second Chechen War: At least 16 people are killed and 40 injured by two female suicide bombers in an attack at "Krylya", a popular music festival, at the Tushino airfield near Moscow. The Russian authorities blame an on-going terrorism campaign by Chechen rebels; the Chechen government denies any connection to the attacks. ](/news/2003/07/5/second-chechen-war-at-least-16-people-are-killed-and-40-injured-by-two-female-suicide-bombers-in-an-attack-at-krylya-a-popular-music-fe.md) _(Current version)_
 
 ### Related:

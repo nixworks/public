@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-
 
 ### Changes:
 
-1. [Egypt-Saudi Arabia relations: A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/egypt-saudi-arabia-relations-a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md) _2017-08-27 03:47:37 (First version)_
+1. [Egypt-Saudi Arabia relations: A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/egypt-saudi-arabia-relations-a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md) _2018-02-06 13:49:30 (First version)_
 1. [A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/10/24/scientists-studying-the-gulf-of-mexico-oil-disa
 
 ### Changes:
 
-1. [Scientists studying the Gulf of Mexico oil disaster-s impact find substantial amounts of oil on the seafloor, contradicting statements by US government officials that the oil has largely disappeared [http:--www.usatoday.com-news-nation-2010-10-25-oilresearch25_ST_N.htm ("USA Today") ]](/news/2010/10/24/scientists-studying-the-gulf-of-mexico-oil-disaster-s-impact-find-substantial-amounts-of-oil-on-the-seafloor-contradicting-statements-by.md) _2017-08-27 03:30:45 (First version)_
+1. [Scientists studying the Gulf of Mexico oil disaster-s impact find substantial amounts of oil on the seafloor, contradicting statements by US government officials that the oil has largely disappeared [http:--www.usatoday.com-news-nation-2010-10-25-oilresearch25_ST_N.htm ("USA Today") ]](/news/2010/10/24/scientists-studying-the-gulf-of-mexico-oil-disaster-s-impact-find-substantial-amounts-of-oil-on-the-seafloor-contradicting-statements-by.md) _2018-02-06 13:49:20 (First version)_
 1. [Scientists studying the Gulf of Mexico oil disaster's impact find substantial amounts of oil on the seafloor, contradicting statements by US government officials that the oil has largely disappeared [https:--www.usatoday.com-news-nation-2010-10-25-oilresearch25_ST_N.htm ("USA Today") ]](/news/2010/10/24/scientists-studying-the-gulf-of-mexico-oil-disasteras-impact-find-substantial-amounts-of-oil-on-the-seafloor-contradicting-statements-by.md) _(Current version)_
 
 ### Related:

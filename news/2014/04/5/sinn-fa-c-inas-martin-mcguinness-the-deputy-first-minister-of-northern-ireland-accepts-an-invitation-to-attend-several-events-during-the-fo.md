@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-firs
 
 ### Changes:
 
-1. [Sinn Fein-s Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-in-s-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md) _2017-08-27 03:40:33 (First version)_
+1. [Sinn Fein-s Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-in-s-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md) _2018-02-06 13:49:26 (First version)_
 1. [Sinn Fein's Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md) _(Current version)_
 
 ### Related:

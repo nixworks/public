@@ -16,7 +16,7 @@ Pope Francis&#8217; arrival Thursday marked the first papal visit in 20 years to
 
 ### Changes:
 
-1. [Pope Francis' visit to the Philippines: Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-visit-to-the-philippines-pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md) _2017-08-27 03:41:47 (First version)_
+1. [Pope Francis' visit to the Philippines: Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-visit-to-the-philippines-pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md) _2018-02-06 13:49:26 (First version)_
 1. [Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md) _(Current version)_
 
 ### Related:

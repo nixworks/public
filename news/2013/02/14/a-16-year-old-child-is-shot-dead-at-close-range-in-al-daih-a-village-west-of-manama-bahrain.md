@@ -18,8 +18,8 @@ Teenager and policeman killed during rallies to mark two years of anti-governmen
 
 ### Changes:
 
-1. [Bahraini uprising (2011-present):A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/bahraini-uprising-2011apresent-pa-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md) _2017-08-25 03:37:32 (First version)_
-2. [Bahraini uprising (2011-present):: A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/bahraini-uprising-2011-present-a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md) _2017-08-27 03:37:43 (Update)_
+1. [Bahraini uprising (2011-present):A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/bahraini-uprising-2011apresent-pa-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md) _2018-02-06 13:49:24 (First version)_
+2. [Bahraini uprising (2011-present):: A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/bahraini-uprising-2011-present-a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md) _2018-02-06 13:49:24 (Update)_
 2. [A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md) _(Current version)_
 
 ### Related:

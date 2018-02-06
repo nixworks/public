@@ -17,9 +17,9 @@ Formats: [HTML](/news/2005/01/7/japan-sends-its-largest-military-deployment-sinc
 
 ### Changes:
 
-1. [ 2004 Indian Ocean earthquake: Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-p-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000.md) _2017-05-25 03:15:34 (First version)_
-2. [ 2004 Indian Ocean earthquake: Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-p-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000-t.md) _2017-08-25 03:15:30 (Update)_
-3. [ 2004 Indian Ocean earthquake:: Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000-t.md) _2017-08-27 03:15:31 (Update)_
+1. [ 2004 Indian Ocean earthquake: Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-p-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000.md) _2018-02-06 13:49:16 (First version)_
+2. [ 2004 Indian Ocean earthquake: Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-p-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000-t.md) _2018-02-06 13:49:16 (Update)_
+3. [ 2004 Indian Ocean earthquake:: Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000-t.md) _2018-02-06 13:49:16 (Update)_
 3. [ Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000-troops-on-standby.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not be
 
 ### Changes:
 
-1. [Former ''Daily Mirror'' editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hac.md) _2017-08-25 03:34:41 (First version)_
+1. [Former ''Daily Mirror'' editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hac.md) _2018-02-06 13:49:23 (First version)_
 1. [Former "Daily Mirror" editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hacki.md) _(Current version)_
 
 ### Related:

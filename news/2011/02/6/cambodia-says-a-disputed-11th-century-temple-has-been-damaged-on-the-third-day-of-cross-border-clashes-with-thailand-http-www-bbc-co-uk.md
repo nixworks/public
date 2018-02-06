@@ -11,8 +11,8 @@ Formats: [HTML](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has
 
 ### Changes:
 
-1. [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-u.md) _2017-08-25 03:32:04 (First version)_
-2. [Cambodian-Thai border stand-off: Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodian-thai-border-stand-off-cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-wi.md) _2017-08-27 03:32:12 (Update)_
+1. [Cambodian-Thai border stand-off: Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodian-thai-border-stand-off-cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-wi.md) _2018-02-06 13:49:22 (First version)_
+2. [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-u.md) _2018-02-06 13:49:22 (Update)_
 2. [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http:--www.bbc.co.uk-news-world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-uk.md) _(Current version)_
 
 ### Related:

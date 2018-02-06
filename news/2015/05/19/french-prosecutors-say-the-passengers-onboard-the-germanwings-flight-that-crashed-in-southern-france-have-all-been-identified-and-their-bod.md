@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-t
 
 ### Changes:
 
-1. [Germanwings Flight 9525: French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/germanwings-flight-9525-french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been.md) _2017-08-27 03:42:20 (First version)_
+1. [Germanwings Flight 9525: French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/germanwings-flight-9525-french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been.md) _2018-02-06 13:49:27 (First version)_
 1. [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md) _(Current version)_
 
 ### Related:

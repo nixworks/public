@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/16/the-pakistan-air-force-claims-to-have-killed-at
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/war-in-north-west-pakistan-the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md) _2017-08-27 03:41:24 (First version)_
+1. [War in North-West Pakistan: The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/war-in-north-west-pakistan-the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md) _(Current version)_
 
 ### Related:

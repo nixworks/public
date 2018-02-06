@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/naxalite-maoist-insurgency-a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md) _2017-08-27 03:39:41 (First version)_
+1. [Naxalite-Maoist insurgency: A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/naxalite-maoist-insurgency-a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md) _2018-02-06 13:49:25 (First version)_
 1. [A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md) _(Current version)_
 
 ### Related:

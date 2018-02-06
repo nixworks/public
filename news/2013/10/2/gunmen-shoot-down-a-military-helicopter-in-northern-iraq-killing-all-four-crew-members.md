@@ -16,8 +16,8 @@ Unidentified militants shot down a military helicopter in northern Iraq on Wedne
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen shoot down a military helicopter in northern Iraq killing all four crew members. ](/news/2013/10/2/iraqi-insurgency-post-u-s-withdrawal-pgunmen-shoot-down-a-military-helicopter-in-northern-iraq-killing-all-four-crew-members.md) _2017-08-25 03:39:21 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen shoot down a military helicopter in northern Iraq killing all four crew members. ](/news/2013/10/2/iraqi-insurgency-post-u-s-withdrawal-gunmen-shoot-down-a-military-helicopter-in-northern-iraq-killing-all-four-crew-members.md) _2017-08-27 03:39:38 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen shoot down a military helicopter in northern Iraq killing all four crew members. ](/news/2013/10/2/iraqi-insurgency-post-u-s-withdrawal-pgunmen-shoot-down-a-military-helicopter-in-northern-iraq-killing-all-four-crew-members.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen shoot down a military helicopter in northern Iraq killing all four crew members. ](/news/2013/10/2/iraqi-insurgency-post-u-s-withdrawal-gunmen-shoot-down-a-military-helicopter-in-northern-iraq-killing-all-four-crew-members.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen shoot down a military helicopter in northern Iraq killing all four crew members. ](/news/2013/10/2/gunmen-shoot-down-a-military-helicopter-in-northern-iraq-killing-all-four-crew-members.md) _(Current version)_
 
 ### Related:

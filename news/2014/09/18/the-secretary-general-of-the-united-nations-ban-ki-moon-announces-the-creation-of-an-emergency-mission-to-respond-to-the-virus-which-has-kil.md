@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/18/the-secretary-general-of-the-united-nations-ban
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The Secretary General of the United Nations Ban Ki-Moon announces the creation of an emergency mission to respond to the virus which has killed over 2,500 people in West Africa . ](/news/2014/09/18/ebola-virus-epidemic-in-west-africa-the-secretary-general-of-the-united-nations-ban-ki-moon-announces-the-creation-of-an-emergency-mission.md) _2017-08-27 03:41:18 (First version)_
+1. [Ebola virus epidemic in West Africa: The Secretary General of the United Nations Ban Ki-Moon announces the creation of an emergency mission to respond to the virus which has killed over 2,500 people in West Africa . ](/news/2014/09/18/ebola-virus-epidemic-in-west-africa-the-secretary-general-of-the-united-nations-ban-ki-moon-announces-the-creation-of-an-emergency-mission.md) _2018-02-06 13:49:26 (First version)_
 1. [The Secretary General of the United Nations Ban Ki-Moon announces the creation of an emergency mission to respond to the virus which has killed over 2,500 people in West Africa . ](/news/2014/09/18/the-secretary-general-of-the-united-nations-ban-ki-moon-announces-the-creation-of-an-emergency-mission-to-respond-to-the-virus-which-has-kil.md) _(Current version)_
 
 ### Related:

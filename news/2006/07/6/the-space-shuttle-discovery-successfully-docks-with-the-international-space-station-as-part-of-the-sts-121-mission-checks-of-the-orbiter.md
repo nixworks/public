@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-w
 
 ### Changes:
 
-1. [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station as part of the STS-121 mission. Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbi.md) _2017-08-25 03:17:54 (First version)_
+1. [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station as part of the STS-121 mission. Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbi.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Space Shuttle "Discovery" successfully docks with the International Space Station as part of the STS-121 mission. Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbiter.md) _(Current version)_
 
 ### Related:

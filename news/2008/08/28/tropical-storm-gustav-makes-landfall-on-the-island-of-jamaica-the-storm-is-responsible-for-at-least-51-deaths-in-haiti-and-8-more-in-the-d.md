@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/08/28/tropical-storm-gustav-makes-landfall-on-the-isl
 
 ### Changes:
 
-1. [ Tropical Storm Gustav makes landfall on the island of Jamaica. The storm is responsible for at least 51 deaths in Haiti and 8 more in the Dominican Republic. ](/news/2008/08/28/tropical-storm-gustav-makes-landfall-on-the-island-of-jamaica-the-storm-is-responsible-for-at-least-51-deaths-in-haiti-and-8-more-in-the.md) _2017-08-25 03:22:47 (First version)_
-2. [ 2008 Atlantic hurricane season: Tropical Storm Gustav makes landfall on the island of Jamaica. The storm is responsible for at least 51 deaths in Haiti and 8 more in the Dominican Republic. ](/news/2008/08/28/2008-atlantic-hurricane-season-tropical-storm-gustav-makes-landfall-on-the-island-of-jamaica-the-storm-is-responsible-for-at-least-51-dea.md) _2017-08-27 03:22:40 (Update)_
+1. [ Tropical Storm Gustav makes landfall on the island of Jamaica. The storm is responsible for at least 51 deaths in Haiti and 8 more in the Dominican Republic. ](/news/2008/08/28/tropical-storm-gustav-makes-landfall-on-the-island-of-jamaica-the-storm-is-responsible-for-at-least-51-deaths-in-haiti-and-8-more-in-the.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Atlantic hurricane season: Tropical Storm Gustav makes landfall on the island of Jamaica. The storm is responsible for at least 51 deaths in Haiti and 8 more in the Dominican Republic. ](/news/2008/08/28/2008-atlantic-hurricane-season-tropical-storm-gustav-makes-landfall-on-the-island-of-jamaica-the-storm-is-responsible-for-at-least-51-dea.md) _2018-02-06 13:49:18 (Update)_
 2. [ Tropical Storm Gustav makes landfall on the island of Jamaica. The storm is responsible for at least 51 deaths in Haiti and 8 more in the Dominican Republic. ](/news/2008/08/28/tropical-storm-gustav-makes-landfall-on-the-island-of-jamaica-the-storm-is-responsible-for-at-least-51-deaths-in-haiti-and-8-more-in-the-d.md) _(Current version)_
 
 ### Related:

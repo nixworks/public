@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspe
 
 ### Changes:
 
-1. [A police officer dies in hospital after a suspected militant attack in Russia-s North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russia-s-north-caucasus-republic-of-dagestan.md) _2017-08-27 03:31:13 (First version)_
+1. [A police officer dies in hospital after a suspected militant attack in Russia-s North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russia-s-north-caucasus-republic-of-dagestan.md) _2018-02-06 13:49:21 (First version)_
 1. [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md) _(Current version)_
 
 ### Related:

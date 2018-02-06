@@ -25,11 +25,11 @@ Philippine Interior Secretary Jesse Robredo is missing after a light aircraft he
 
 ##### Tropical Storm Leslie
 ### [Tropical Storm Helene approaches Mexico. ](/news/2012/08/18/tropical-storm-helene-approaches-mexico.md)
-_Context: Tropical Storm Leslie, Mexico_
+_Context: Mexico, Tropical Storm Leslie_
 
 ##### Reserve Bank of India
 ### [The Reserve Bank of India acknowledges poor data for the current monsoon season. ](/news/2012/08/18/the-reserve-bank-of-india-acknowledges-poor-data-for-the-current-monsoon-season.md)
-_Context: monsoon, Reserve Bank of India_
+_Context: Reserve Bank of India, monsoon_
 
 ##### Egypt
 ### [Egypt's state news agency says President Mohammed Morsi is to attend the upcoming Non-Aligned Movement meeting in Iran at the end of August. ](/news/2012/08/18/egypt-s-state-news-agency-says-president-mohammed-morsi-is-to-attend-the-upcoming-non-aligned-movement-meeting-in-iran-at-the-end-of-august.md)
@@ -41,7 +41,7 @@ Facebook Inc., whose shares fell to a record low yesterday, failed to persuade a
 
 ##### the House of Commons
 ### [The Treasury Committee of the House of Commons of the United Kingdom releases the first volume of a planned two-volume report on the LIBOR fixing scandal. ](/news/2012/08/18/the-treasury-committee-of-the-house-of-commons-of-the-united-kingdom-releases-the-first-volume-of-a-planned-two-volume-report-on-the-libor-f.md)
-_Context: Libor scandal, the House of Commons, LIBOR_
+_Context: LIBOR, the House of Commons, Libor scandal_
 
 ## [Previous Day...](/news/2012/08/17/index.md)
 

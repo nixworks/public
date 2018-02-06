@@ -18,7 +18,7 @@ Rising rates of obesity among young Americans could pose a risk to the future of
 
 ### Changes:
 
-1. [Two retired generals tell ''The Washington Post'' that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-t.md) _2017-08-25 03:27:49 (First version)_
+1. [Two retired generals tell ''The Washington Post'' that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-t.md) _2018-02-06 13:49:20 (First version)_
 1. [Two retired generals tell "The Washington Post" that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-thr.md) _(Current version)_
 
 ### Related:

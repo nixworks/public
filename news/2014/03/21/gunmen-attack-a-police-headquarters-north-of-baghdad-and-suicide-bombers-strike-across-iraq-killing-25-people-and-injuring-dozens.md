@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/03/21/gunmen-attack-a-police-headquarters-north-of-ba
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/iraqi-insurgency-post-u-s-withdrawal-pgunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killing.md) _2017-08-25 03:40:12 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/iraqi-insurgency-post-u-s-withdrawal-gunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killin.md) _2017-08-27 03:40:30 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/iraqi-insurgency-post-u-s-withdrawal-pgunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killing.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/iraqi-insurgency-post-u-s-withdrawal-gunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killin.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen attack a police headquarters north of Baghdad and suicide bombers strike across Iraq killing 25 people and injuring dozens. ](/news/2014/03/21/gunmen-attack-a-police-headquarters-north-of-baghdad-and-suicide-bombers-strike-across-iraq-killing-25-people-and-injuring-dozens.md) _(Current version)_
 
 ### Related:

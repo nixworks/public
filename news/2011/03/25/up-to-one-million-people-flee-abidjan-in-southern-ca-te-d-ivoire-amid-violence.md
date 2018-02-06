@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southe
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis: Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/2010-2011-ivorian-crisis-up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _2017-08-27 03:32:47 (First version)_
+1. [2010-2011 Ivorian crisis: Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/2010-2011-ivorian-crisis-up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _2018-02-06 13:49:22 (First version)_
 1. [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _(Current version)_
 
 ### Related:

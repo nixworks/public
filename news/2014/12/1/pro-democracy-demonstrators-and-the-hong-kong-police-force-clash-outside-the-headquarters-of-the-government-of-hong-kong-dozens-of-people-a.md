@@ -17,7 +17,7 @@ The police used pepper spray to try to subdue thousands of pro-democracy demonst
 
 ### Changes:
 
-1. [2014 Hong Kong protests: Pro-democracy demonstrators and the Hong Kong Police Force clash outside the headquarters of the Government of Hong Kong. Dozens of people are arrested. ](/news/2014/12/1/2014-hong-kong-protests-pro-democracy-demonstrators-and-the-hong-kong-police-force-clash-outside-the-headquarters-of-the-government-of-hong.md) _2017-08-27 03:41:34 (First version)_
+1. [2014 Hong Kong protests: Pro-democracy demonstrators and the Hong Kong Police Force clash outside the headquarters of the Government of Hong Kong. Dozens of people are arrested. ](/news/2014/12/1/2014-hong-kong-protests-pro-democracy-demonstrators-and-the-hong-kong-police-force-clash-outside-the-headquarters-of-the-government-of-hong.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-democracy demonstrators and the Hong Kong Police Force clash outside the headquarters of the Government of Hong Kong. Dozens of people are arrested. ](/news/2014/12/1/pro-democracy-demonstrators-and-the-hong-kong-police-force-clash-outside-the-headquarters-of-the-government-of-hong-kong-dozens-of-people-a.md) _(Current version)_
 
 ### Related:

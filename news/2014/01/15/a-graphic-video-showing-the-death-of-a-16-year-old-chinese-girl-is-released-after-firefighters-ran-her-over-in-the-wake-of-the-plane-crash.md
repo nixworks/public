@@ -16,8 +16,8 @@ A hemet-mounted camera worn by a firefighter may provide answers in the death of
 
 ### Changes:
 
-1. [Asiana Airlines Flight 214:A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/asiana-airlines-flight-214-pa-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in-t.md) _2017-08-25 03:39:52 (First version)_
-2. [Asiana Airlines Flight 214:: A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/asiana-airlines-flight-214-a-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in.md) _2017-08-27 03:40:11 (Update)_
+1. [Asiana Airlines Flight 214:A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/asiana-airlines-flight-214-pa-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in-t.md) _2018-02-06 13:49:25 (First version)_
+2. [Asiana Airlines Flight 214:: A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/asiana-airlines-flight-214-a-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in.md) _2018-02-06 13:49:25 (Update)_
 2. [A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/a-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in-the-wake-of-the-plane-crash.md) _(Current version)_
 
 ### Related:

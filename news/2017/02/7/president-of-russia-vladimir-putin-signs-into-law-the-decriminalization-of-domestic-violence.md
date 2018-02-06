@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-la
 
 ### Changes:
 
-1. [Women in Russia: President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/women-in-russia-president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _2017-08-27 03:47:46 (First version)_
+1. [Women in Russia: President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/women-in-russia-president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _2018-02-06 13:49:30 (First version)_
 1. [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _(Current version)_
 
 ### Related:

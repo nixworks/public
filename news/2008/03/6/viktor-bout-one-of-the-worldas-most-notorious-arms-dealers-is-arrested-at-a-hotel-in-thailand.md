@@ -16,7 +16,7 @@ One of the world’s most notorious arms dealers was arrested in Thailand and ch
 
 ### Changes:
 
-1. [ Viktor Bout, one of the world-s most notorious arms dealers, is arrested at a hotel in Thailand. ](/news/2008/03/6/viktor-bout-one-of-the-world-s-most-notorious-arms-dealers-is-arrested-at-a-hotel-in-thailand.md) _2017-08-27 03:21:45 (First version)_
+1. [ Viktor Bout, one of the world-s most notorious arms dealers, is arrested at a hotel in Thailand. ](/news/2008/03/6/viktor-bout-one-of-the-world-s-most-notorious-arms-dealers-is-arrested-at-a-hotel-in-thailand.md) _2018-02-06 13:49:18 (First version)_
 1. [ Viktor Bout, one of the world's most notorious arms dealers, is arrested at a hotel in Thailand. ](/news/2008/03/6/viktor-bout-one-of-the-worldas-most-notorious-arms-dealers-is-arrested-at-a-hotel-in-thailand.md) _(Current version)_
 
 ### Related:

@@ -17,9 +17,9 @@ On May 16, a story was posted on the Fox News website on the investigation into 
 
 ### Changes:
 
-1. [Fox News makes a retraction about their claims regarding the murder. ](/news/2017/05/24/fox-news-makes-a-retraction-about-their-claims-regarding-the-murder.md) _2017-05-24 18:30:07 (First version)_
-2. [Fox News makes a retraction on their claims regarding the murder. ](/news/2017/05/24/fox-news-makes-a-retraction-on-their-claims-regarding-the-murder.md) _2017-05-24 19:30:07 (Update)_
-3. [Murder of Seth Rich: Fox News retracts their claims regarding the murder. ](/news/2017/05/24/murder-of-seth-rich-fox-news-retracts-their-claims-regarding-the-murder.md) _2017-08-27 03:48:23 (Update)_
+1. [Murder of Seth Rich: Fox News retracts their claims regarding the murder. ](/news/2017/05/24/murder-of-seth-rich-fox-news-retracts-their-claims-regarding-the-murder.md) _2018-02-06 13:49:30 (First version)_
+2. [Fox News makes a retraction on their claims regarding the murder. ](/news/2017/05/24/fox-news-makes-a-retraction-on-their-claims-regarding-the-murder.md) _2018-02-06 13:49:30 (Update)_
+3. [Fox News makes a retraction about their claims regarding the murder. ](/news/2017/05/24/fox-news-makes-a-retraction-about-their-claims-regarding-the-murder.md) _2018-02-06 13:49:30 (Update)_
 3. [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md) _(Current version)_
 
 ### Related:

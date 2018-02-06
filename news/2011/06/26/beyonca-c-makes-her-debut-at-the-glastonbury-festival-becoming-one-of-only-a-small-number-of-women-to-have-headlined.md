@@ -19,8 +19,8 @@ US star Beyonce makes her debut at Glastonbury, bringing the three-day festival 
 
 ### Changes:
 
-1. [Glastonbury Festival 2011 in Pilton, Somerset:Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-pbeyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md) _2017-08-25 03:33:35 (First version)_
-2. [Glastonbury Festival 2011 in Pilton, Somerset:: Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md) _2017-08-27 03:33:43 (Update)_
+1. [Glastonbury Festival 2011 in Pilton, Somerset:Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-pbeyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md) _2018-02-06 13:49:22 (First version)_
+2. [Glastonbury Festival 2011 in Pilton, Somerset:: Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md) _2018-02-06 13:49:22 (Update)_
 2. [Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of-women-to-have-headlined.md) _(Current version)_
 
 ### Related:

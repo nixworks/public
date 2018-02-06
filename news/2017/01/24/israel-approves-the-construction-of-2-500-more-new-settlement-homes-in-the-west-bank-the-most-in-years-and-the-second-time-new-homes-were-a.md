@@ -16,7 +16,7 @@ Announcement of construction in occupied Palestinian territories is second since
 
 ### Changes:
 
-1. [Israeli settlement: Israel approves the construction of 2,500 more new settlement homes in the West Bank, the most in years and the second time new homes were approved since Donald Trump was inaugurated as President of the United States. ](/news/2017/01/24/israeli-settlement-israel-approves-the-construction-of-2-500-more-new-settlement-homes-in-the-west-bank-the-most-in-years-and-the-second-t.md) _2017-08-27 03:47:40 (First version)_
+1. [Israeli settlement: Israel approves the construction of 2,500 more new settlement homes in the West Bank, the most in years and the second time new homes were approved since Donald Trump was inaugurated as President of the United States. ](/news/2017/01/24/israeli-settlement-israel-approves-the-construction-of-2-500-more-new-settlement-homes-in-the-west-bank-the-most-in-years-and-the-second-t.md) _2018-02-06 13:49:30 (First version)_
 1. [Israel approves the construction of 2,500 more new settlement homes in the West Bank, the most in years and the second time new homes were approved since Donald Trump was inaugurated as President of the United States. ](/news/2017/01/24/israel-approves-the-construction-of-2-500-more-new-settlement-homes-in-the-west-bank-the-most-in-years-and-the-second-time-new-homes-were-a.md) _(Current version)_
 
 ### Related:

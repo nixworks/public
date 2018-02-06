@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/07/30/air-safety-investigators-from-the-australian-tr
 
 ### Changes:
 
-1. [ Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion-on-board.md) _2017-08-25 03:22:38 (First version)_
-2. [ Australia: Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/australia-air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion.md) _2017-08-27 03:22:31 (Update)_
+1. [ Australia: Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/australia-air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion.md) _2018-02-06 13:49:18 (First version)_
+2. [ Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion-on-board.md) _2018-02-06 13:49:18 (Update)_
 2. [ Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion-on-board-q.md) _(Current version)_
 
 ### Related:

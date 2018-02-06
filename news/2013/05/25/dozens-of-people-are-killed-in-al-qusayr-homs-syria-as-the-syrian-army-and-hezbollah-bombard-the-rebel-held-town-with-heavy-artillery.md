@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/25/dozens-of-people-are-killed-in-al-qusayr-homs-s
 
 ### Changes:
 
-1. [Syrian civil war:Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-pdozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-h.md) _2017-08-25 03:38:43 (First version)_
-2. [Syrian civil war:: Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with.md) _2017-08-27 03:38:56 (Update)_
+1. [Syrian civil war:Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-pdozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-h.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with.md) _2018-02-06 13:49:24 (Update)_
 2. [Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-heavy-artillery.md) _(Current version)_
 
 ### Related:

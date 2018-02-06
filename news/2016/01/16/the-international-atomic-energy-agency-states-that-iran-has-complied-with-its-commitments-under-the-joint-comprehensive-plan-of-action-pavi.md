@@ -18,7 +18,7 @@ International sanctions on Iran are lifted after its compliance with obligations
 
 ### Changes:
 
-1. [Nuclear program of Iran: The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/nuclear-program-of-iran-the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehen.md) _2017-08-27 03:44:42 (First version)_
+1. [Nuclear program of Iran: The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/nuclear-program-of-iran-the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehen.md) _2018-02-06 13:49:28 (First version)_
 1. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _(Current version)_
 
 ### Related:

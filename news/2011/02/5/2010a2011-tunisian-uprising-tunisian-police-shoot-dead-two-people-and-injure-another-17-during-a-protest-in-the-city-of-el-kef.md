@@ -17,7 +17,7 @@ Tunisian police kill at least two people in the north-western town of Kef, durin
 
 ### Changes:
 
-1. [2010-2011 Tunisian uprising: Tunisian police shoot dead two people and injure another 17 during a protest in the city of El Kef. ](/news/2011/02/5/2010-2011-tunisian-uprising-tunisian-police-shoot-dead-two-people-and-injure-another-17-during-a-protest-in-the-city-of-el-kef.md) _2017-08-27 03:32:11 (First version)_
+1. [2010-2011 Tunisian uprising: Tunisian police shoot dead two people and injure another 17 during a protest in the city of El Kef. ](/news/2011/02/5/2010-2011-tunisian-uprising-tunisian-police-shoot-dead-two-people-and-injure-another-17-during-a-protest-in-the-city-of-el-kef.md) _2018-02-06 13:49:22 (First version)_
 1. [2010-2011 Tunisian uprising: Tunisian police shoot dead two people and injure another 17 during a protest in the city of El Kef. ](/news/2011/02/5/2010a2011-tunisian-uprising-tunisian-police-shoot-dead-two-people-and-injure-another-17-during-a-protest-in-the-city-of-el-kef.md) _(Current version)_
 
 ### Related:

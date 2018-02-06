@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/18/an-official-study-released-by-the-chinese-gover
 
 ### Changes:
 
-1. [Pollution in China:An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/pollution-in-china-pan-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md) _2017-08-25 03:40:18 (First version)_
-2. [Pollution in China:: An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/pollution-in-china-an-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md) _2017-08-27 03:40:36 (Update)_
+1. [Pollution in China:An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/pollution-in-china-pan-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md) _2018-02-06 13:49:26 (First version)_
+2. [Pollution in China:: An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/pollution-in-china-an-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md) _2018-02-06 13:49:26 (Update)_
 2. [An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/an-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md) _(Current version)_
 
 ### Related:

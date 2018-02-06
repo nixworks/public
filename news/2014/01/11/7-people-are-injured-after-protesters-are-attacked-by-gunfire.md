@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/01/11/7-people-are-injured-after-protesters-are-attac
 
 ### Changes:
 
-1. [2013 Thai political crisis: 7 people are injured after protesters are attacked by gunfire. ](/news/2014/01/11/2013-thai-political-crisis-7-people-are-injured-after-protesters-are-attacked-by-gunfire.md) _2017-08-27 03:40:09 (First version)_
+1. [2013 Thai political crisis: 7 people are injured after protesters are attacked by gunfire. ](/news/2014/01/11/2013-thai-political-crisis-7-people-are-injured-after-protesters-are-attacked-by-gunfire.md) _2018-02-06 13:49:25 (First version)_
 1. [7 people are injured after protesters are attacked by gunfire. ](/news/2014/01/11/7-people-are-injured-after-protesters-are-attacked-by-gunfire.md) _(Current version)_
 
 ### Related:

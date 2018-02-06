@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-
 
 ### Changes:
 
-1. [Ukraine-European Union relations: The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/ukraine-european-union-relations-the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for.md) _2017-08-27 03:48:24 (First version)_
+1. [Ukraine-European Union relations: The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/ukraine-european-union-relations-the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for.md) _2018-02-06 13:49:30 (First version)_
 1. [The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for-it-to-be-ratified-as-early-as-july.md) _(Current version)_
 
 ### Related:

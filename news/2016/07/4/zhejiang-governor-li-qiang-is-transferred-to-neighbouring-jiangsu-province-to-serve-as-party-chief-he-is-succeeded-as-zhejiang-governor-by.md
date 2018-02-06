@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/07/4/zhejiang-governor-li-qiang-is-transferred-to-nei
 
 ### Changes:
 
-1. [Political reshuffle in the Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/political-reshuffle-in-the-zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeed.md) _2017-08-25 03:46:03 (First version)_
+1. [Political reshuffle in the Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/political-reshuffle-in-the-zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeed.md) _2018-02-06 13:49:29 (First version)_
 1. [Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeeded-as-zhejiang-governor-by.md) _(Current version)_
 
 ### Related:

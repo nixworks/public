@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/11/25/russia-prepares-for-new-protests-after-garry-ka
 
 ### Changes:
 
-1. [ Russia protests of 2007: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-p-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _2017-08-25 03:21:28 (First version)_
-2. [ Russia protests of 2007:: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _2017-08-27 03:21:24 (Update)_
+1. [ Russia protests of 2007:: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _2018-02-06 13:49:18 (First version)_
+2. [ Russia protests of 2007: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-p-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _2018-02-06 13:49:18 (Update)_
 2. [ Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md) _(Current version)_
 
 ### Related:

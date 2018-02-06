@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/10/20/at-luxembourg-s-general-election-jean-claude-ju
 
 ### Changes:
 
-1. [At Luxembourg's general election, Jean-Claude Juncker's Christian Social People's Party loses three seats, but remain the largest party in the Chamber of Deputies with 23 of the 60 seats. ''([http:--www.bbc.co.uk-news-world-europe-24599621 BBC])''](/news/2013/10/20/at-luxembourg-s-general-election-jean-claude-juncker-s-christian-social-people-s-party-loses-three-seats-but-remain-the-largest-party-in.md) _2017-08-25 03:39:24 (First version)_
+1. [At Luxembourg's general election, Jean-Claude Juncker's Christian Social People's Party loses three seats, but remain the largest party in the Chamber of Deputies with 23 of the 60 seats. ''([http:--www.bbc.co.uk-news-world-europe-24599621 BBC])''](/news/2013/10/20/at-luxembourg-s-general-election-jean-claude-juncker-s-christian-social-people-s-party-loses-three-seats-but-remain-the-largest-party-in.md) _2018-02-06 13:49:25 (First version)_
 1. [At Luxembourg's general election, Jean-Claude Juncker's Christian Social People's Party loses three seats, but remain the largest party in the Chamber of Deputies with 23 of the 60 seats. "([http:--www.bbc.co.uk-news-world-europe-24599621 BBC])"](/news/2013/10/20/at-luxembourg-s-general-election-jean-claude-juncker-s-christian-social-people-s-party-loses-three-seats-but-remain-the-largest-party-in-t.md) _(Current version)_
 
 ### Related:

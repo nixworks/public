@@ -20,8 +20,8 @@ Syrian troops storm a Damascus suburb as part of a wider crackdown on protests a
 
 ### Changes:
 
-1. [2011 Syrian protests:Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-pdozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _2017-08-25 03:33:00 (First version)_
-2. [2011 Syrian protests:: Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _2017-08-27 03:33:09 (Update)_
+1. [2011 Syrian protests:Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-pdozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:: Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _2018-02-06 13:49:22 (Update)_
 2. [Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _(Current version)_
 
 ### Related:

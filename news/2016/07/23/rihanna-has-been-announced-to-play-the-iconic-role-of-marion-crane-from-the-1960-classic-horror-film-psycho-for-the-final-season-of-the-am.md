@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-r
 
 ### Changes:
 
-1. [Rihanna has been announced to play the iconic role of Marion Crane from the 1960 classic horror film ''Psycho'' for the final season of the American television series ''Bates Motel''. ](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-role-of-marion-crane-from-the-1960-classic-horror-film-psycho-for-the-final-season-of-the.md) _2017-08-25 03:46:09 (First version)_
+1. [Rihanna has been announced to play the iconic role of Marion Crane from the 1960 classic horror film ''Psycho'' for the final season of the American television series ''Bates Motel''. ](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-role-of-marion-crane-from-the-1960-classic-horror-film-psycho-for-the-final-season-of-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Rihanna has been announced to play the iconic role of Marion Crane from the 1960 classic horror film "Psycho" for the final season of the American television series "Bates Motel". ](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-role-of-marion-crane-from-the-1960-classic-horror-film-psycho-for-the-final-season-of-the-am.md) _(Current version)_
 
 ### Related:

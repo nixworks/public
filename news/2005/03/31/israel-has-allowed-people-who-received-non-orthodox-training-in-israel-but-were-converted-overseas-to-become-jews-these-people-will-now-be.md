@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/03/31/israel-has-allowed-people-who-received-non-orth
 
 ### Changes:
 
-1. [ Israel has allowed people who received non-Orthodox training in Israel but were converted overseas to become Jews. These people will now be eligible for Israeli citizenship. ](/news/2005/03/31/israel-has-allowed-people-who-received-non-orthodox-training-in-israel-but-were-converted-overseas-to-become-jews-these-people-will-now-b.md) _2017-08-25 03:15:52 (First version)_
+1. [ Israel has allowed people who received non-Orthodox training in Israel but were converted overseas to become Jews. These people will now be eligible for Israeli citizenship. ](/news/2005/03/31/israel-has-allowed-people-who-received-non-orthodox-training-in-israel-but-were-converted-overseas-to-become-jews-these-people-will-now-b.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israel has allowed people who received non-Orthodox training in Israel but were converted overseas to become Jews. These people will now be eligible for Israeli citizenship. ](/news/2005/03/31/israel-has-allowed-people-who-received-non-orthodox-training-in-israel-but-were-converted-overseas-to-become-jews-these-people-will-now-be.md) _(Current version)_
 
 ### Related:

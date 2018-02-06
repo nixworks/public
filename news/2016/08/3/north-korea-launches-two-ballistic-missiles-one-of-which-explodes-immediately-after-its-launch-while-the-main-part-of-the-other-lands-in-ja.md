@@ -16,8 +16,8 @@ min Park and James Pearson
 
 ### Changes:
 
-1. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-j.md) _2017-08-25 03:46:13 (First version)_
-2. [North Korea and weapons of mass destruction: North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-and-weapons-of-mass-destruction-north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch.md) _2017-08-27 03:46:35 (Update)_
+1. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-j.md) _2018-02-06 13:49:29 (First version)_
+2. [North Korea and weapons of mass destruction: North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-and-weapons-of-mass-destruction-north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch.md) _2018-02-06 13:49:29 (Update)_
 2. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-ja.md) _(Current version)_
 
 ### Related:

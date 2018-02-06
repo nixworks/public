@@ -9,7 +9,7 @@ Things to do in Miami
 
 ##### Ahmat Mahamat Bachir
 ### [ Ahmat Mahamat Bachir, the president of the Chadian Independent National Election Commission, announces that incumbent President of Chad Idriss Dby won the 2006 Chadian presidential election held on May 3 with 77.5% of the vote. The official turnout was 61%, though international observers estimated turnout at 4&ndash;10%. ](/news/2006/05/14/ahmat-mahamat-bachir-the-president-of-the-chadian-independent-national-election-commission-announces-that-incumbent-president-of-chad-idr.md)
-_Context: incumbent, Chadian Independent National Election Commission, Idriss Dby, presidential elections, President of Chad, Ahmat Mahamat Bachir, May 3_
+_Context: Idriss Dby, presidential elections, President of Chad, incumbent, Chadian Independent National Election Commission, Ahmat Mahamat Bachir, May 3_
 
 ##### Primeiro Comando da Capital
 ### [ Organized crime led by the group Primeiro Comando da Capital causes rioting in Brazil and claims over 50 lives. ](/news/2006/05/14/organized-crime-led-by-the-group-primeiro-comando-da-capital-causes-rioting-in-brazil-and-claims-over-50-lives.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Prime Minister
 ### [ Prime Minister of the United Kingdom, Tony Blair, signs a petition in support of animal testing and condemns the acts of animal-rights extremists. ](/news/2006/05/14/prime-minister-of-the-united-kingdom-tony-blair-signs-a-petition-in-support-of-animal-testing-and-condemns-the-acts-of-animal-rights-extr.md)
-_Context: animal testing, British, Prime Minister, Tony Blair_
+_Context: United Kingdom, animal testing, Tony Blair, Prime Minister_
 
 ##### Iran
 ### [ Seven people are wounded as two bombs explode in the Iranian city of Kermanshah. A local branch of the Kurdistan Workers Party (PKK) claimed responsibility. ](/news/2006/05/14/seven-people-are-wounded-as-two-bombs-explode-in-the-iranian-city-of-kermanshah-a-local-branch-of-the-kurdistan-workers-party-pkk-claime.md)

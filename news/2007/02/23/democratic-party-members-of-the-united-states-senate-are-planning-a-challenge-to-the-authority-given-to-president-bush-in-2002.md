@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/02/23/democratic-party-members-of-the-united-states-s
 
 ### Changes:
 
-1. [ Iraq War: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-p-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md) _2017-08-25 03:19:16 (First version)_
-2. [ Iraq War:: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md) _2017-08-27 03:19:11 (Update)_
+1. [ Iraq War: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-p-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md) _2018-02-06 13:49:17 (Update)_
 2. [ Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md) _(Current version)_
 
 ### Related:

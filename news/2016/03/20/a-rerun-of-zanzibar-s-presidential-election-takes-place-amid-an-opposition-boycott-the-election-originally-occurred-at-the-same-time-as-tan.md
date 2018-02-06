@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/20/a-rerun-of-zanzibar-s-presidential-election-tak
 
 ### Changes:
 
-1. [Tanzanian general election, 2015: A rerun of Zanzibar's presidential election takes place amid an opposition boycott. The election originally occurred at the same time as Tanzania's general election in 2015 but was annulled because of supposed fraud. ](/news/2016/03/20/tanzanian-general-election-2015-a-rerun-of-zanzibar-s-presidential-election-takes-place-amid-an-opposition-boycott-the-election-originall.md) _2017-08-27 03:45:19 (First version)_
+1. [Tanzanian general election, 2015: A rerun of Zanzibar's presidential election takes place amid an opposition boycott. The election originally occurred at the same time as Tanzania's general election in 2015 but was annulled because of supposed fraud. ](/news/2016/03/20/tanzanian-general-election-2015-a-rerun-of-zanzibar-s-presidential-election-takes-place-amid-an-opposition-boycott-the-election-originall.md) _2018-02-06 13:49:28 (First version)_
 1. [A rerun of Zanzibar's presidential election takes place amid an opposition boycott. The election originally occurred at the same time as Tanzania's general election in 2015 but was annulled because of supposed fraud. ](/news/2016/03/20/a-rerun-of-zanzibar-s-presidential-election-takes-place-amid-an-opposition-boycott-the-election-originally-occurred-at-the-same-time-as-tan.md) _(Current version)_
 
 ### Related:

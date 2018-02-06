@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a
 
 ### Changes:
 
-1. [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-149-days-have-pas.md) _2017-08-27 03:21:13 (First version)_
+1. [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-149-days-have-pas.md) _2018-02-06 13:49:18 (First version)_
 1. [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-a-149-days-have-pas.md) _(Current version)_
 
 ### Related:

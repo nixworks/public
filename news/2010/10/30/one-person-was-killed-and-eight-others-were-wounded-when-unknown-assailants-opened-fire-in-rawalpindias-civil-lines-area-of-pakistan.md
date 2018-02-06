@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wou
 
 ### Changes:
 
-1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi-s Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindi-s-civil-lines-area-of-pakistan.md) _2017-08-27 03:30:53 (First version)_
+1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi-s Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindi-s-civil-lines-area-of-pakistan.md) _2018-02-06 13:49:20 (First version)_
 1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi's Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.md) _(Current version)_
 
 ### Related:

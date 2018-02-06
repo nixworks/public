@@ -16,8 +16,8 @@ Rebels in the Syrian city of Aleppo set off a massive suicide lorry bomb to seiz
 
 ### Changes:
 
-1. [Syrian Civil War:Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. ](/news/2013/12/21/syrian-civil-war-pbattle-of-aleppo-rebel-forces-capture-the-al-kindi-hospital-after-a-huge-suicide-truck-bombing-destroys-part-of-the-build.md) _2017-08-25 03:39:45 (First version)_
-2. [Syrian Civil War:: Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. ](/news/2013/12/21/syrian-civil-war-battle-of-aleppo-rebel-forces-capture-the-al-kindi-hospital-after-a-huge-suicide-truck-bombing-destroys-part-of-the-buil.md) _2017-08-27 03:40:03 (Update)_
+1. [Syrian Civil War:Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. ](/news/2013/12/21/syrian-civil-war-pbattle-of-aleppo-rebel-forces-capture-the-al-kindi-hospital-after-a-huge-suicide-truck-bombing-destroys-part-of-the-build.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. ](/news/2013/12/21/syrian-civil-war-battle-of-aleppo-rebel-forces-capture-the-al-kindi-hospital-after-a-huge-suicide-truck-bombing-destroys-part-of-the-buil.md) _2018-02-06 13:49:25 (Update)_
 2. [Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. ](/news/2013/12/21/battle-of-aleppo-rebel-forces-capture-the-al-kindi-hospital-after-a-huge-suicide-truck-bombing-destroys-part-of-the-building.md) _(Current version)_
 
 ### Related:

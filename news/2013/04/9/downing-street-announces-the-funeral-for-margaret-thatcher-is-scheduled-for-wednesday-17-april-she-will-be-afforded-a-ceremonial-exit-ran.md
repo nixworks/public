@@ -20,8 +20,8 @@ Former Prime Minister Tony Blair criticises parties held to &quot;celebrate&quot
 
 ### Changes:
 
-1. [Thatcher funeral events:Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/thatcher-funeral-events-pdowning-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-afford.md) _2017-08-25 03:38:15 (First version)_
-2. [Thatcher funeral events:: Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/thatcher-funeral-events-downing-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-affor.md) _2017-08-27 03:38:27 (Update)_
+1. [Thatcher funeral events:Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/thatcher-funeral-events-pdowning-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-afford.md) _2018-02-06 13:49:24 (First version)_
+2. [Thatcher funeral events:: Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/thatcher-funeral-events-downing-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-affor.md) _2018-02-06 13:49:24 (Update)_
 2. [Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/downing-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-afforded-a-ceremonial-exit-ran.md) _(Current version)_
 
 ### Related:

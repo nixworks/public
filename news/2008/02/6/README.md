@@ -11,13 +11,13 @@ _Context: Tungurahua, Ecuador, Tungurahua_
 ### [ A $158 billion plan to stimulate economic growth in the United States fails in the U.S. Senate on a procedural vote 58-41, just short of the 60 votes needed to advance. ](/news/2008/02/6/a-158-billion-plan-to-stimulate-economic-growth-in-the-united-states-fails-in-the-u-s-senate-on-a-procedural-vote-58-41-just-short-of-th.md)
 Senate Republicans on Wednesday blocked a Democratic-backed $157 billion economic stimulus plan that would have provided benefits for the long-term unemployed and expanded proposed tax rebates to include retirees and disabled veterans.
 
-##### Turkish
+##### Turkey
 ### [ The Turkish freighter ship "UND Adriyatik" catches fire off Croatia. ](/news/2008/02/6/the-turkish-freighter-ship-und-adriyatik-catches-fire-off-croatia.md)
-_Context: Turkish, Croatia, UND Adriyatik_
+_Context: Croatia, UND Adriyatik, Turkey_
 
 ##### President of Italy
 ### [ President of Italy Giorgio Napolitano dismisses the parliament; the cabinet sets early elections for 13 and 14 April. ](/news/2008/02/6/president-of-italy-giorgio-napolitano-dismisses-the-parliament-the-cabinet-sets-early-elections-for-13-and-14-april.md)
-_Context: Giorgio Napolitano, President of Italy, 14 April, parliament, re-elected, 13_
+_Context: re-elected, 14 April, parliament, Giorgio Napolitano, 13, President of Italy_
 
 ##### Centers for Disease Control
 ### [ The United States Centers for Disease Control says that an infected mother can transmit HIV to her baby via pre-chewed food. ](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.md)

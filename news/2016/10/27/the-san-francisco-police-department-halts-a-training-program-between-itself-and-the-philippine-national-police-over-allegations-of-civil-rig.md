@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/27/the-san-francisco-police-department-halts-a-tra
 
 ### Changes:
 
-1. [Philippines-United States relations: The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. ](/news/2016/10/27/philippines-united-states-relations-the-san-francisco-police-department-halts-a-training-program-between-itself-and-the-philippine-nation.md) _2017-08-27 03:47:08 (First version)_
+1. [Philippines-United States relations: The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. ](/news/2016/10/27/philippines-united-states-relations-the-san-francisco-police-department-halts-a-training-program-between-itself-and-the-philippine-nation.md) _2018-02-06 13:49:29 (First version)_
 1. [The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. ](/news/2016/10/27/the-san-francisco-police-department-halts-a-training-program-between-itself-and-the-philippine-national-police-over-allegations-of-civil-rig.md) _(Current version)_
 
 ### Related:

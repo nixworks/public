@@ -16,7 +16,7 @@ Still months away from the official start of the 2016 hurricane season, a hurric
 
 ### Changes:
 
-1. [2016 Pacific hurricane season: Hurricane Pali becomes the earliest hurricane on record in the central Pacific Ocean. It is currently no threat to land. ](/news/2016/01/12/2016-pacific-hurricane-season-hurricane-pali-becomes-the-earliest-hurricane-on-record-in-the-central-pacific-ocean-it-is-currently-no-thre.md) _2017-08-27 03:44:40 (First version)_
+1. [2016 Pacific hurricane season: Hurricane Pali becomes the earliest hurricane on record in the central Pacific Ocean. It is currently no threat to land. ](/news/2016/01/12/2016-pacific-hurricane-season-hurricane-pali-becomes-the-earliest-hurricane-on-record-in-the-central-pacific-ocean-it-is-currently-no-thre.md) _2018-02-06 13:49:28 (First version)_
 1. [Hurricane Pali becomes the earliest hurricane on record in the central Pacific Ocean. It is currently no threat to land. ](/news/2016/01/12/hurricane-pali-becomes-the-earliest-hurricane-on-record-in-the-central-pacific-ocean-it-is-currently-no-threat-to-land.md) _(Current version)_
 
 ### Related:

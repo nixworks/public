@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/11/tropical-cyclone-nathan-intensifies-to-a-catego
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Tropical Cyclone Nathan intensifies to a Category 2 system as it nears Cape York Peninsula in the north of the Australian state of Queensland. ](/news/2015/03/11/2014-15-australian-region-cyclone-season-tropical-cyclone-nathan-intensifies-to-a-category-2-system-as-it-nears-cape-york-peninsula-in-th.md) _2017-08-27 03:42:05 (First version)_
+1. [2014-15 Australian region cyclone season: Tropical Cyclone Nathan intensifies to a Category 2 system as it nears Cape York Peninsula in the north of the Australian state of Queensland. ](/news/2015/03/11/2014-15-australian-region-cyclone-season-tropical-cyclone-nathan-intensifies-to-a-category-2-system-as-it-nears-cape-york-peninsula-in-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Tropical Cyclone Nathan intensifies to a Category 2 system as it nears Cape York Peninsula in the north of the Australian state of Queensland. ](/news/2015/03/11/tropical-cyclone-nathan-intensifies-to-a-category-2-system-as-it-nears-cape-york-peninsula-in-the-north-of-the-australian-state-of-queenslan.md) _(Current version)_
 
 ### Related:

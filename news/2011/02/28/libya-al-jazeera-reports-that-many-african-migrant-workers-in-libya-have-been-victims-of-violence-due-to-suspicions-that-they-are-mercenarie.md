@@ -27,8 +27,8 @@ Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hi
 
 ### Changes:
 
-1. [Arab Spring:Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/arab-spring-plibya-pal-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-they.md) _2017-08-25 03:32:22 (First version)_
-2. [Arab Spring:: Libya:: Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/arab-spring-libya-al-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-the.md) _2017-08-27 03:32:30 (Update)_
+1. [Arab Spring:Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/arab-spring-plibya-pal-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-they.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: Libya:: Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/arab-spring-libya-al-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-the.md) _2018-02-06 13:49:22 (Update)_
 2. [Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/libya-al-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-they-are-mercenarie.md) _(Current version)_
 
 ### Related:

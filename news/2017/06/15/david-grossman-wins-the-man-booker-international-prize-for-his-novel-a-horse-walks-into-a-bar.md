@@ -16,7 +16,7 @@ David Grossman is awarded the Man Booker International Prize for his novel about
 
 ### Changes:
 
-1. [ Man Booker International Prize: David Grossman wins the Man Booker International Prize for his novel "A Horse Walks Into a Bar". ](/news/2017/06/15/man-booker-international-prize-david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md) _2017-08-27 03:48:29 (First version)_
+1. [ Man Booker International Prize: David Grossman wins the Man Booker International Prize for his novel "A Horse Walks Into a Bar". ](/news/2017/06/15/man-booker-international-prize-david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md) _2018-02-06 13:49:30 (First version)_
 1. [David Grossman wins the Man Booker International Prize for his novel "A Horse Walks Into a Bar". ](/news/2017/06/15/david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md) _(Current version)_
 
 ### Related:

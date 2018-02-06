@@ -16,8 +16,8 @@ Militants killed at least 22 members of the security forces in Iraq on Tuesday, 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/iraqi-insurgency-post-u-s-withdrawal-pmilitants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md) _2017-08-25 03:39:25 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/iraqi-insurgency-post-u-s-withdrawal-militants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md) _2017-08-27 03:39:42 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/iraqi-insurgency-post-u-s-withdrawal-pmilitants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/iraqi-insurgency-post-u-s-withdrawal-militants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md) _2018-02-06 13:49:25 (Update)_
 2. [Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/militants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md) _(Current version)_
 
 ### Related:

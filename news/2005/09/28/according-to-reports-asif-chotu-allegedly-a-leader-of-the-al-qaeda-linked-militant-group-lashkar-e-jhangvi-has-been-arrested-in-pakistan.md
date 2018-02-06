@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/09/28/according-to-reports-asif-chotu-allegedly-a-lea
 
 ### Changes:
 
-1. [ According to reports, Asif Chotu, allegedly a leader of the al Qaeda-linked militant group Lashkar-e-Jhangvi, has been arrested in Pakistan. ](/news/2005/09/28/according-to-reports-asif-chotu-allegedly-a-leader-of-the-al-qaeda-linked-militant-group-lashkar-e-jhangvi-has-been-arrested-in-pakista.md) _2017-08-25 03:16:51 (First version)_
+1. [ According to reports, Asif Chotu, allegedly a leader of the al Qaeda-linked militant group Lashkar-e-Jhangvi, has been arrested in Pakistan. ](/news/2005/09/28/according-to-reports-asif-chotu-allegedly-a-leader-of-the-al-qaeda-linked-militant-group-lashkar-e-jhangvi-has-been-arrested-in-pakista.md) _2018-02-06 13:49:16 (First version)_
 1. [ According to reports, Asif Chotu, allegedly a leader of the al Qaeda-linked militant group Lashkar-e-Jhangvi, has been arrested in Pakistan. ](/news/2005/09/28/according-to-reports-asif-chotu-allegedly-a-leader-of-the-al-qaeda-linked-militant-group-lashkar-e-jhangvi-has-been-arrested-in-pakistan.md) _(Current version)_
 
 ### Related:

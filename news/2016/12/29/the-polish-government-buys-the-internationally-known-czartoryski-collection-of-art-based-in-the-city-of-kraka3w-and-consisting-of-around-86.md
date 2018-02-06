@@ -16,7 +16,7 @@ Poland buys the Czartoryski collection of about 86,000 artefacts for about 5% of
 
 ### Changes:
 
-1. [Czartoryski Museum: The Polish government buys the internationally-known Czartoryski collection of art. Based in the city of Krakow and consisting of around 86,000 pieces, this features works by Leonardo da Vinci, Rembrandt and Pierre-Auguste Renoir. ](/news/2016/12/29/czartoryski-museum-the-polish-government-buys-the-internationally-known-czartoryski-collection-of-art-based-in-the-city-of-kraka3w-and-con.md) _2017-08-27 03:47:32 (First version)_
+1. [Czartoryski Museum: The Polish government buys the internationally-known Czartoryski collection of art. Based in the city of Krakow and consisting of around 86,000 pieces, this features works by Leonardo da Vinci, Rembrandt and Pierre-Auguste Renoir. ](/news/2016/12/29/czartoryski-museum-the-polish-government-buys-the-internationally-known-czartoryski-collection-of-art-based-in-the-city-of-kraka3w-and-con.md) _2018-02-06 13:49:30 (First version)_
 1. [The Polish government buys the internationally-known Czartoryski collection of art. Based in the city of Krakow and consisting of around 86,000 pieces, this features works by Leonardo da Vinci, Rembrandt and Pierre-Auguste Renoir. ](/news/2016/12/29/the-polish-government-buys-the-internationally-known-czartoryski-collection-of-art-based-in-the-city-of-kraka3w-and-consisting-of-around-86.md) _(Current version)_
 
 ### Related:

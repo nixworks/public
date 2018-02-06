@@ -17,9 +17,9 @@ Somali pirates who seized a Ukrainian ship laden with military hardware last wee
 
 ### Changes:
 
-1. [ Piracy in Somalia: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-p-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african.md) _2017-05-25 03:23:32 (First version)_
-2. [ Piracy in Somalia: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-p-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-c.md) _2017-08-25 03:22:57 (Update)_
-3. [ Piracy in Somalia:: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-c.md) _2017-08-27 03:22:51 (Update)_
+1. [ Piracy in Somalia:: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-c.md) _2018-02-06 13:49:18 (First version)_
+2. [ Piracy in Somalia: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-p-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african.md) _2018-02-06 13:49:18 (Update)_
+3. [ Piracy in Somalia: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-p-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-c.md) _2018-02-06 13:49:18 (Update)_
 3. [ Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-coast.md) _(Current version)_
 
 ### Related:

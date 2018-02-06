@@ -17,8 +17,8 @@ Coalition partners David Cameron and Nick Clegg take differing views on laws to 
 
 ### Changes:
 
-1. [Leveson report:Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/leveson-report-plord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _2017-08-25 03:36:54 (First version)_
-2. [Leveson report:: Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/leveson-report-lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _2017-08-27 03:37:04 (Update)_
+1. [Leveson report:Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/leveson-report-plord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _2018-02-06 13:49:24 (First version)_
+2. [Leveson report:: Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/leveson-report-lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _2018-02-06 13:49:24 (Update)_
 2. [Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _(Current version)_
 
 ### Related:

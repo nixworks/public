@@ -17,7 +17,7 @@ By Kieran GuilbertDAKAR (Thomson Reuters Foundation) - Violence in northeast Nig
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage, Manuel Fontaine, UNICEF-s West and Central Africa regional director, said in a statement. ](/news/2015/12/22/islamist-insurgency-in-nigeria-more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeast.md) _2017-08-27 03:44:28 (First version)_
+1. [Islamist insurgency in Nigeria: More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage, Manuel Fontaine, UNICEF-s West and Central Africa regional director, said in a statement. ](/news/2015/12/22/islamist-insurgency-in-nigeria-more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeast.md) _2018-02-06 13:49:28 (First version)_
 1. [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage, Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md) _(Current version)_
 
 ### Related:

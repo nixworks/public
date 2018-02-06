@@ -18,7 +18,7 @@ The Belgian region of Wallonia rejected new amendments to a planned EU-Canada fr
 
 ### Changes:
 
-1. [Canada-European Union relations: The European Union calls an emergency two-day meeting about the planned EU-Canada free trade agreement, approved by all 28 EU member governments but held up by the "non" vote in Wallonia, one of Belgium's five sub-federal administrations. ](/news/2016/10/20/canada-european-union-relations-the-european-union-calls-an-emergency-two-day-meeting-about-the-planned-eu-canada-free-trade-agreement-a.md) _2017-08-27 17:30:03 (First version)_
+1. [Canada-European Union relations: The European Union calls an emergency two-day meeting about the planned EU-Canada free trade agreement, approved by all 28 EU member governments but held up by the "non" vote in Wallonia, one of Belgium's five sub-federal administrations. ](/news/2016/10/20/canada-european-union-relations-the-european-union-calls-an-emergency-two-day-meeting-about-the-planned-eu-canada-free-trade-agreement-a.md) _2018-02-06 13:49:29 (First version)_
 1. [The European Union calls an emergency two-day meeting about the planned EU-Canada free trade agreement, approved by all 28 EU member governments but held up by the "non" vote in Walloonia, one of Belgium's five sub-federal administrations. ](/news/2016/10/20/the-european-union-calls-an-emergency-two-day-meeting-about-the-planned-eu-canada-free-trade-agreement-approved-by-all-28-eu-member-governm.md) _(Current version)_
 
 ### Related:

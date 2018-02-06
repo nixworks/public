@@ -17,7 +17,7 @@ Rahami has been charged with five counts of attempted murder of a law enforcemen
 
 ### Changes:
 
-1. [2016 New York and New Jersey bombings: A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/2016-new-york-and-new-jersey-bombings-a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there.md) _2017-08-27 03:46:52 (First version)_
+1. [2016 New York and New Jersey bombings: A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/2016-new-york-and-new-jersey-bombings-a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there.md) _2018-02-06 13:49:29 (First version)_
 1. [A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there-has-been-a-previous-explosion-in-seasi.md) _(Current version)_
 
 ### Related:

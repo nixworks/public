@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/07/1/in-hong-kong-500-000-people-march-to-protest-the
 
 ### Changes:
 
-1. [ In Hong Kong, 500,000 people march to protest the rush into legislation of Hong Kong Basic Law Article 23, the anti-subversion law. Critics say the law is both too broad and too vague.](/news/2003/07/1/in-hong-kong-500-000-people-march-to-protest-the-rush-into-legislation-of-hong-kong-basic-law-article-23-the-anti-subversion-law-critic.md) _2017-08-25 03:15:19 (First version)_
+1. [ In Hong Kong, 500,000 people march to protest the rush into legislation of Hong Kong Basic Law Article 23, the anti-subversion law. Critics say the law is both too broad and too vague.](/news/2003/07/1/in-hong-kong-500-000-people-march-to-protest-the-rush-into-legislation-of-hong-kong-basic-law-article-23-the-anti-subversion-law-critic.md) _2018-02-06 13:49:15 (First version)_
 1. [ In Hong Kong, 500,000 people march to protest the rush into legislation of Hong Kong Basic Law Article 23, the anti-subversion law. Critics say the law is both too broad and too vague.](/news/2003/07/1/in-hong-kong-500-000-people-march-to-protest-the-rush-into-legislation-of-hong-kong-basic-law-article-23-the-anti-subversion-law-critics.md) _(Current version)_
 
 ### Related:

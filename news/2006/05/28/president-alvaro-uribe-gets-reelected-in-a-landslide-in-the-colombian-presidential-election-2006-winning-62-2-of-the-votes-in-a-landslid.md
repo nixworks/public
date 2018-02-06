@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/05/28/president-alvaro-uribe-gets-reelected-in-a-land
 
 ### Changes:
 
-1. [ President Alvaro Uribe gets reelected in a landslide in the Colombian presidential election, 2006, winning 62.2% of the votes in a landslide. This is the first time a Colombian President gets reelected in more than a century. He will serve another 4-year term.](/news/2006/05/28/president-alvaro-uribe-gets-reelected-in-a-landslide-in-the-colombian-presidential-election-2006-winning-62-2-of-the-votes-in-a-landsl.md) _2017-08-25 03:17:41 (First version)_
+1. [ President Alvaro Uribe gets reelected in a landslide in the Colombian presidential election, 2006, winning 62.2% of the votes in a landslide. This is the first time a Colombian President gets reelected in more than a century. He will serve another 4-year term.](/news/2006/05/28/president-alvaro-uribe-gets-reelected-in-a-landslide-in-the-colombian-presidential-election-2006-winning-62-2-of-the-votes-in-a-landsl.md) _2018-02-06 13:49:17 (First version)_
 1. [ President Alvaro Uribe gets reelected in a landslide in the Colombian presidential election, 2006, winning 62.2% of the votes in a landslide. This is the first time a Colombian President gets reelected in more than a century. He will serve another 4-year term.](/news/2006/05/28/president-alvaro-uribe-gets-reelected-in-a-landslide-in-the-colombian-presidential-election-2006-winning-62-2-of-the-votes-in-a-landslid.md) _(Current version)_
 
 ### Related:

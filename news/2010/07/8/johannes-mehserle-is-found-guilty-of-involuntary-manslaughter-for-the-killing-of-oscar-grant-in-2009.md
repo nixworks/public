@@ -17,7 +17,7 @@ The involuntary manslaughter conviction of a white former transit officer in the
 
 ### Changes:
 
-1. [BART Police shooting of Oscar Grant: Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/bart-police-shooting-of-oscar-grant-johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md) _2017-08-27 03:28:38 (First version)_
+1. [BART Police shooting of Oscar Grant: Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/bart-police-shooting-of-oscar-grant-johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md) _2018-02-06 13:49:20 (First version)_
 1. [Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md) _(Current version)_
 
 ### Related:

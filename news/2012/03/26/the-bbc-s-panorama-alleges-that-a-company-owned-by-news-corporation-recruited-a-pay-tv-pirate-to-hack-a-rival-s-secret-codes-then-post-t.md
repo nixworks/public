@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/03/26/the-bbc-s-panorama-alleges-that-a-company-owned
 
 ### Changes:
 
-1. [The BBC's ''Panorama'' alleges that a company owned by News Corporation recruited a pay-TV "pirate" to hack a rival's secret codes then post the details online. ](/news/2012/03/26/the-bbc-s-panorama-alleges-that-a-company-owned-by-news-corporation-recruited-a-pay-tv-pirate-to-hack-a-rival-s-secret-codes-then-post.md) _2017-08-25 03:35:22 (First version)_
+1. [The BBC's ''Panorama'' alleges that a company owned by News Corporation recruited a pay-TV "pirate" to hack a rival's secret codes then post the details online. ](/news/2012/03/26/the-bbc-s-panorama-alleges-that-a-company-owned-by-news-corporation-recruited-a-pay-tv-pirate-to-hack-a-rival-s-secret-codes-then-post.md) _2018-02-06 13:49:23 (First version)_
 1. [The BBC's "Panorama" alleges that a company owned by News Corporation recruited a pay-TV "pirate" to hack a rival's secret codes then post the details online. ](/news/2012/03/26/the-bbc-s-panorama-alleges-that-a-company-owned-by-news-corporation-recruited-a-pay-tv-pirate-to-hack-a-rival-s-secret-codes-then-post-t.md) _(Current version)_
 
 ### Related:

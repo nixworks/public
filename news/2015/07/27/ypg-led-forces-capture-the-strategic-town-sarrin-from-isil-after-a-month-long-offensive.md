@@ -16,7 +16,7 @@ The Kurdish YPG militia on Monday captured a town from Islamic State fighters in
 
 ### Changes:
 
-1. [ Syrian Civil War: Battle of Sarrin (June-July 2015): YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/syrian-civil-war-battle-of-sarrin-june-july-2015-ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offens.md) _2017-08-27 03:42:45 (First version)_
+1. [ Syrian Civil War: Battle of Sarrin (June-July 2015): YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/syrian-civil-war-battle-of-sarrin-june-july-2015-ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offens.md) _2018-02-06 13:49:27 (First version)_
 1. [ YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offensive.md) _(Current version)_
 
 ### Related:

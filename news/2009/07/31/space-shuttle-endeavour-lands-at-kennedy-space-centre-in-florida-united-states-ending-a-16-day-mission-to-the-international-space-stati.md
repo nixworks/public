@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-
 
 ### Changes:
 
-1. [ Space Shuttle ''Endeavour'' lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-sta.md) _2017-08-25 03:25:19 (First version)_
+1. [ Space Shuttle ''Endeavour'' lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-sta.md) _2018-02-06 13:49:19 (First version)_
 1. [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md) _(Current version)_
 
 ### Related:

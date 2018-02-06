@@ -11,7 +11,7 @@ Formats: [HTML](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from
 
 ### Changes:
 
-1. [The oldest copy of ''Codex Holmiensis'', dating from 1280, is returned to Denmark after 300 years in Sweden. [http:--www.dr.dk-Nyheder-Kultur-2011-03-30-103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultu.md) _2017-08-25 03:32:41 (First version)_
+1. [The oldest copy of ''Codex Holmiensis'', dating from 1280, is returned to Denmark after 300 years in Sweden. [http:--www.dr.dk-Nyheder-Kultur-2011-03-30-103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultu.md) _2018-02-06 13:49:22 (First version)_
 1. [The oldest copy of "Codex Holmiensis", dating from 1280, is returned to Denmark after 300 years in Sweden. [http:--www.dr.dk-Nyheder-Kultur-2011-03-30-103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultur.md) _(Current version)_
 
 ### Related:

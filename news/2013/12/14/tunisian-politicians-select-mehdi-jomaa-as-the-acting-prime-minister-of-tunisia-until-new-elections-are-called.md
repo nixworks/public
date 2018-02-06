@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/14/tunisian-politicians-select-mehdi-jomaa-as-the-
 
 ### Changes:
 
-1. [2013 Tunisian protests:Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/2013-tunisian-protests-ptunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md) _2017-08-25 03:39:41 (First version)_
-2. [2013 Tunisian protests:: Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/2013-tunisian-protests-tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md) _2017-08-27 03:39:59 (Update)_
+1. [2013 Tunisian protests:: Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/2013-tunisian-protests-tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Tunisian protests:Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/2013-tunisian-protests-ptunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md) _2018-02-06 13:49:25 (Update)_
 2. [Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md) _(Current version)_
 
 ### Related:

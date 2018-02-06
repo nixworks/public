@@ -16,7 +16,7 @@ Iran negotiated with Russia at the weekend over buying an upgraded version of th
 
 ### Changes:
 
-1. [Iran-Russia relations: Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-russia-relations-iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _2017-08-27 03:44:59 (First version)_
+1. [Iran-Russia relations: Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-russia-relations-iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _(Current version)_
 
 ### Related:

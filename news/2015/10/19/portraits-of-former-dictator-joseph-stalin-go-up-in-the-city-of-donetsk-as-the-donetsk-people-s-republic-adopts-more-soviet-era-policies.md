@@ -16,7 +16,7 @@ Soviet nostalgia rules as images of the former dictator go on display in the cen
 
 ### Changes:
 
-1. [War in Donbass: Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/war-in-donbass-portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet.md) _2017-08-27 03:43:24 (First version)_
+1. [War in Donbass: Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/war-in-donbass-portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet.md) _2018-02-06 13:49:27 (First version)_
 1. [Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet-era-policies.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-dir
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present):A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013apresent-pa-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura.md) _2017-08-25 03:39:46 (First version)_
-2. [Islamist protests in Egypt (July 2013-present):: A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013-present-a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansour.md) _2017-08-27 03:40:04 (Update)_
+1. [Islamist protests in Egypt (July 2013-present):A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013apresent-pa-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013-present-a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansour.md) _2018-02-06 13:49:25 (Update)_
 2. [A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura-killing-16-and-injuring-at-least-134.md) _(Current version)_
 
 ### Related:

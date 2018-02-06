@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/11/the-elders-forum-in-the-nigerian-state-of-borno
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:The Elders Forum in the Nigerian state of Borno warns that Boko Haram militants have surrounded the city of Maiduguri. ](/news/2014/09/11/islamist-insurgency-in-nigeria-pthe-elders-forum-in-the-nigerian-state-of-borno-warns-that-boko-haram-militants-have-surrounded-the-city-of.md) _2017-08-25 03:40:57 (First version)_
-2. [Islamist insurgency in Nigeria:: The Elders Forum in the Nigerian state of Borno warns that Boko Haram militants have surrounded the city of Maiduguri. ](/news/2014/09/11/islamist-insurgency-in-nigeria-the-elders-forum-in-the-nigerian-state-of-borno-warns-that-boko-haram-militants-have-surrounded-the-city-of.md) _2017-08-27 03:41:16 (Update)_
+1. [Islamist insurgency in Nigeria:: The Elders Forum in the Nigerian state of Borno warns that Boko Haram militants have surrounded the city of Maiduguri. ](/news/2014/09/11/islamist-insurgency-in-nigeria-the-elders-forum-in-the-nigerian-state-of-borno-warns-that-boko-haram-militants-have-surrounded-the-city-of.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:The Elders Forum in the Nigerian state of Borno warns that Boko Haram militants have surrounded the city of Maiduguri. ](/news/2014/09/11/islamist-insurgency-in-nigeria-pthe-elders-forum-in-the-nigerian-state-of-borno-warns-that-boko-haram-militants-have-surrounded-the-city-of.md) _2018-02-06 13:49:26 (Update)_
 2. [The Elders Forum in the Nigerian state of Borno warns that Boko Haram militants have surrounded the city of Maiduguri. ](/news/2014/09/11/the-elders-forum-in-the-nigerian-state-of-borno-warns-that-boko-haram-militants-have-surrounded-the-city-of-maiduguri.md) _(Current version)_
 
 ### Related:

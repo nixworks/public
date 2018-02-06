@@ -16,7 +16,7 @@ The U.S.-led coalition in Afghanistan formally ended its combat mission on Sunda
 
 ### Changes:
 
-1. [War in Afghanistan: The International Security Assistance Force formally ends its combat mission. ](/news/2014/12/28/war-in-afghanistan-the-international-security-assistance-force-formally-ends-its-combat-mission.md) _2017-08-27 03:41:41 (First version)_
+1. [War in Afghanistan: The International Security Assistance Force formally ends its combat mission. ](/news/2014/12/28/war-in-afghanistan-the-international-security-assistance-force-formally-ends-its-combat-mission.md) _2018-02-06 13:49:26 (First version)_
 1. [The International Security Assistance Force formally ends its combat mission. ](/news/2014/12/28/the-international-security-assistance-force-formally-ends-its-combat-mission.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ While South Korea has determined that the North is capable of fitting miniaturiz
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/north-korea-and-weapons-of-mass-destruction-south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-r.md) _2017-08-27 03:45:30 (First version)_
+1. [North Korea and weapons of mass destruction: South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/north-korea-and-weapons-of-mass-destruction-south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-r.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-range-rodong-1-ballistic-missile-which-could.md) _(Current version)_
 
 ### Related:

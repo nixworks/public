@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/1/shells-fired-by-houthi-forces-have-killed-at-lea
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Shells fired by Houthi forces have killed at least 18 people near the southern port city of Aden, meanwhile United Nations officials have warned that a deadly dengue fever outbreak is rapidly gaining pace in the war-torn country. ](/news/2015/07/1/yemeni-civil-war-2015-shells-fired-by-houthi-forces-have-killed-at-least-18-people-near-the-southern-port-city-of-aden-meanwhile-united.md) _2017-08-27 03:42:37 (First version)_
+1. [Yemeni Civil War (2015): Shells fired by Houthi forces have killed at least 18 people near the southern port city of Aden, meanwhile United Nations officials have warned that a deadly dengue fever outbreak is rapidly gaining pace in the war-torn country. ](/news/2015/07/1/yemeni-civil-war-2015-shells-fired-by-houthi-forces-have-killed-at-least-18-people-near-the-southern-port-city-of-aden-meanwhile-united.md) _2018-02-06 13:49:27 (First version)_
 1. [Shells fired by Houthi forces have killed at least 18 people near the southern port city of Aden, meanwhile United Nations officials have warned that a deadly dengue fever outbreak is rapidly gaining pace in the war-torn country. ](/news/2015/07/1/shells-fired-by-houthi-forces-have-killed-at-least-18-people-near-the-southern-port-city-of-aden-meanwhile-united-nations-officials-have-wa.md) _(Current version)_
 
 ### Related:

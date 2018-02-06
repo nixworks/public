@@ -16,8 +16,8 @@ Syrian rebel fighters launch an attack on Aleppo prison, and government forces r
 
 ### Changes:
 
-1. [Syrian civil war:Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-prebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md) _2017-08-25 03:38:40 (First version)_
-2. [Syrian civil war:: Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md) _2017-08-27 03:38:53 (Update)_
+1. [Syrian civil war:: Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-prebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md) _(Current version)_
 
 ### Related:

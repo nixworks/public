@@ -18,8 +18,8 @@ Hope drained out of this mountain valley Saturday as thousands of homeless resid
 
 ### Changes:
 
-1. [ 2008 Sichuan earthquake: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-p-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _2017-08-25 03:22:12 (First version)_
-2. [ 2008 Sichuan earthquake:: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _2017-08-27 03:22:06 (Update)_
+1. [ 2008 Sichuan earthquake:: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Sichuan earthquake: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-p-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _2018-02-06 13:49:18 (Update)_
 2. [ The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md) _(Current version)_
 
 ### Related:

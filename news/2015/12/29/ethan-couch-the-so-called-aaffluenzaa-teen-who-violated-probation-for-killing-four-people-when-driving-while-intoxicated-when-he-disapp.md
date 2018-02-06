@@ -16,7 +16,7 @@ A rich Texas teenager who fled with his mother to Mexico to avoid possible jail 
 
 ### Changes:
 
-1. [Ethan Couch, the so-called -affluenza- teen who violated probation for killing four people when driving while intoxicated when he disappeared from Tarrant County, Texas, is taken into custody in Mexico. Mexican officials will remand Couch and his mother, with whom he fled, to the U.S. Marshals Service. ](/news/2015/12/29/ethan-couch-the-so-called-affluenza-teen-who-violated-probation-for-killing-four-people-when-driving-while-intoxicated-when-he-disapp.md) _2017-08-27 03:44:33 (First version)_
+1. [Ethan Couch, the so-called -affluenza- teen who violated probation for killing four people when driving while intoxicated when he disappeared from Tarrant County, Texas, is taken into custody in Mexico. Mexican officials will remand Couch and his mother, with whom he fled, to the U.S. Marshals Service. ](/news/2015/12/29/ethan-couch-the-so-called-affluenza-teen-who-violated-probation-for-killing-four-people-when-driving-while-intoxicated-when-he-disapp.md) _2018-02-06 13:49:28 (First version)_
 1. [Ethan Couch, the so-called "affluenza" teen who violated probation for killing four people when driving while intoxicated when he disappeared from Tarrant County, Texas, is taken into custody in Mexico. Mexican officials will remand Couch and his mother, with whom he fled, to the U.S. Marshals Service. ](/news/2015/12/29/ethan-couch-the-so-called-aaffluenzaa-teen-who-violated-probation-for-killing-four-people-when-driving-while-intoxicated-when-he-disapp.md) _(Current version)_
 
 ### Related:

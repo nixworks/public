@@ -16,7 +16,7 @@ The man, identified as a minister from Tennessee, was trying to enter the visito
 
 ### Changes:
 
-1. [The United States Capitol in Washington, D.C. is on lockdown following reports of shots fired at the Capitol Visitor Center. The White House, in what appears to be an unrelated incident, was briefly locked down this afternoon. ](/news/2016/03/28/the-united-states-capitol-in-washington-d-c-is-on-lockdown-following-reports-of-shots-fired-at-the-capitol-visitor-center-the-white-house.md) _2017-10-17 03:52:22 (First version)_
+1. [The United States Capitol in Washington, D.C. is on lockdown following reports of shots fired at the Capitol Visitor Center. The White House, in what appears to be an unrelated incident, was briefly locked down this afternoon. ](/news/2016/03/28/the-united-states-capitol-in-washington-d-c-is-on-lockdown-following-reports-of-shots-fired-at-the-capitol-visitor-center-the-white-house.md) _2018-02-06 13:49:28 (First version)_
 1. [ The United States Capitol in Washington, D.C. is on lockdown following reports of shots fired at the Capitol Visitor Center. The White House, in what appears to be an unrelated incident, was briefly locked down this afternoon. ](/news/2016/03/28/the-united-states-capitol-in-washington-d-c-is-on-lockdown-following-reports-of-shots-fired-at-the-capitol-visitor-center-the-white-hous.md) _(Current version)_
 
 ### Related:

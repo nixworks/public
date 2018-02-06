@@ -16,8 +16,8 @@ Dead include six civilians, clash took place between BRA members and tribesmen.
 
 ### Changes:
 
-1. [Balochistan conflict:An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/balochistan-conflict-pan-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md) _2017-08-25 03:39:58 (First version)_
-2. [Balochistan conflict:: An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/balochistan-conflict-an-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md) _2017-08-27 03:40:17 (Update)_
+1. [Balochistan conflict:An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/balochistan-conflict-pan-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Balochistan conflict:: An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/balochistan-conflict-an-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md) _2018-02-06 13:49:25 (Update)_
 2. [An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/an-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md) _(Current version)_
 
 ### Related:

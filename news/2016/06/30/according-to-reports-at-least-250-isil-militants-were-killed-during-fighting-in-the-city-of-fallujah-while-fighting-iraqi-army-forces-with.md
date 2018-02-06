@@ -16,7 +16,7 @@ Preliminary and unofficial estimates suggest US-led coalition air strikes have k
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/iraqi-civil-war-2014-present-according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-whil.md) _2017-08-27 03:46:22 (First version)_
+1. [Iraqi Civil War (2014-present): According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/iraqi-civil-war-2014-present-according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-whil.md) _2018-02-06 13:49:29 (First version)_
 1. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _(Current version)_
 
 ### Related:

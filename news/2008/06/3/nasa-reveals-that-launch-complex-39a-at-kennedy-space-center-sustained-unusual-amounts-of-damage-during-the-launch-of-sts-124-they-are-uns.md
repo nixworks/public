@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-
 
 ### Changes:
 
-1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-un.md) _2017-08-25 03:22:16 (First version)_
+1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-un.md) _2018-02-06 13:49:18 (First version)_
 1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.md) _(Current version)_
 
 ### Related:

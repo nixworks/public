@@ -21,8 +21,8 @@ Syrian soldiers and tanks have been firing in the city of Deraa, a centre of ant
 
 ### Changes:
 
-1. [Syrian civil war:Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/syrian-civil-war-pcitizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by-g.md) _2017-08-25 03:32:57 (First version)_
-2. [Syrian civil war:: Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/syrian-civil-war-citizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by.md) _2017-08-27 03:33:06 (Update)_
+1. [Syrian civil war:Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/syrian-civil-war-pcitizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by-g.md) _2018-02-06 13:49:22 (First version)_
+2. [Syrian civil war:: Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/syrian-civil-war-citizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by.md) _2018-02-06 13:49:22 (Update)_
 2. [Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/citizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by-government-soldiers.md) _(Current version)_
 
 ### Related:

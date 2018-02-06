@@ -17,8 +17,8 @@ An Indonesian suicide bomber believed to be a supporter of the Islamic State mil
 
 ### Changes:
 
-1. [A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a police officer. Solo is the birthplace of President Joko Widodo. ](/news/2016/07/5/a-suicide-bomber-attacks-a-police-station-in-solo-indonesia-killing-himself-and-injuring-a-police-officer-solo-is-the-birthplace-of-pres.md) _2017-08-25 03:46:03 (First version)_
-2. [Terrorism in Indonesia: A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a police officer. Solo is the birthplace of President Joko Widodo. ](/news/2016/07/5/terrorism-in-indonesia-a-suicide-bomber-attacks-a-police-station-in-solo-indonesia-killing-himself-and-injuring-a-police-officer-solo-is.md) _2017-08-27 03:46:25 (Update)_
+1. [Terrorism in Indonesia: A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a police officer. Solo is the birthplace of President Joko Widodo. ](/news/2016/07/5/terrorism-in-indonesia-a-suicide-bomber-attacks-a-police-station-in-solo-indonesia-killing-himself-and-injuring-a-police-officer-solo-is.md) _2018-02-06 13:49:29 (First version)_
+2. [A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a police officer. Solo is the birthplace of President Joko Widodo. ](/news/2016/07/5/a-suicide-bomber-attacks-a-police-station-in-solo-indonesia-killing-himself-and-injuring-a-police-officer-solo-is-the-birthplace-of-pres.md) _2018-02-06 13:49:29 (Update)_
 2. [A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a police officer. Solo is the birthplace of President Joko Widodo. ](/news/2016/07/5/a-suicide-bomber-attacks-a-police-station-in-solo-indonesia-killing-himself-and-injuring-a-police-officer-solo-is-the-birthplace-of-presi.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/4/at-least-ten-civilians-are-killed-when-three-sep
 
 ### Changes:
 
-1. [ Second Libyan Civil War: At least ten civilians are killed when three separate car bombs explode simultaneously in the eastern coastal city of Derna. ](/news/2015/07/4/second-libyan-civil-war-at-least-ten-civilians-are-killed-when-three-separate-car-bombs-explode-simultaneously-in-the-eastern-coastal-city.md) _2017-08-27 03:42:39 (First version)_
+1. [ Second Libyan Civil War: At least ten civilians are killed when three separate car bombs explode simultaneously in the eastern coastal city of Derna. ](/news/2015/07/4/second-libyan-civil-war-at-least-ten-civilians-are-killed-when-three-separate-car-bombs-explode-simultaneously-in-the-eastern-coastal-city.md) _2018-02-06 13:49:27 (First version)_
 1. [ At least ten civilians are killed when three separate car bombs explode simultaneously in the eastern coastal city of Derna. ](/news/2015/07/4/at-least-ten-civilians-are-killed-when-three-separate-car-bombs-explode-simultaneously-in-the-eastern-coastal-city-of-derna.md) _(Current version)_
 
 ### Related:

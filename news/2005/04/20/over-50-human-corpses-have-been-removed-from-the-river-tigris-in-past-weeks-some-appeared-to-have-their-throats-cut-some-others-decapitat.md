@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/04/20/over-50-human-corpses-have-been-removed-from-th
 
 ### Changes:
 
-1. [ Conflict in Iraq: Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/conflict-in-iraq-p-over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-so.md) _2017-08-25 03:16:02 (First version)_
-2. [ Conflict in Iraq:: Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/conflict-in-iraq-over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-so.md) _2017-08-27 03:16:04 (Update)_
+1. [ Conflict in Iraq: Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/conflict-in-iraq-p-over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-so.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/conflict-in-iraq-over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-so.md) _2018-02-06 13:49:16 (Update)_
 2. [ Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-some-others-decapitat.md) _(Current version)_
 
 ### Related:

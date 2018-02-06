@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/30/french-intelligence-services-are-reportedly-ope
 
 ### Changes:
 
-1. [Paris attack aftermath: French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/paris-attack-aftermath-french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has.md) _2017-08-27 03:44:07 (First version)_
+1. [Paris attack aftermath: French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/paris-attack-aftermath-french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has.md) _2018-02-06 13:49:28 (First version)_
 1. [French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has-escaped-to-syria-despit.md) _(Current version)_
 
 ### Related:

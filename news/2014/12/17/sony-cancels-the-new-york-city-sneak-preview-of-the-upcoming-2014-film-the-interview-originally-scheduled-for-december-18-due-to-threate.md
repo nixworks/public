@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/12/17/sony-cancels-the-new-york-city-sneak-preview-of
 
 ### Changes:
 
-1. [Sony cancels the New York City sneak preview of the upcoming 2014 film ''The Interview'', originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-scheduled-for-december-18-due-to-threa.md) _2017-08-25 03:41:21 (First version)_
-2. [Sony Pictures Entertainment hack: Sony cancels the New York City sneak preview of the upcoming 2014 film "The Interview", originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-pictures-entertainment-hack-sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-schedul.md) _2017-08-27 03:41:38 (Update)_
+1. [Sony Pictures Entertainment hack: Sony cancels the New York City sneak preview of the upcoming 2014 film "The Interview", originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-pictures-entertainment-hack-sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-schedul.md) _2018-02-06 13:49:26 (First version)_
+2. [Sony cancels the New York City sneak preview of the upcoming 2014 film ''The Interview'', originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-scheduled-for-december-18-due-to-threa.md) _2018-02-06 13:49:26 (Update)_
 2. [Sony cancels the New York City sneak preview of the upcoming 2014 film "The Interview", originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-scheduled-for-december-18-due-to-threate.md) _(Current version)_
 
 ### Related:

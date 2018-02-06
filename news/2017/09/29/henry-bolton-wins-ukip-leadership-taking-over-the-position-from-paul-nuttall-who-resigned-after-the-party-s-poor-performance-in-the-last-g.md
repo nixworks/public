@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-t
 
 ### Changes:
 
-1. [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttal who resigned after the party's poor performance in the [last UK election General election 2017] ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttal-who-resigned-after-the-party-s-poor-performance-in-the-last-uk.md) _2017-09-29 15:30:05 (First version)_
-2. [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md) _2017-10-01 15:30:05 (Update)_
+1. [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-ge.md) _2018-02-06 13:49:31 (First version)_
+2. [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttal who resigned after the party's poor performance in the [last UK election General election 2017] ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttal-who-resigned-after-the-party-s-poor-performance-in-the-last-uk.md) _2018-02-06 13:49:31 (Update)_
 2. [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall, who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-g.md) _(Current version)_
 
 ### Related:

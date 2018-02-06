@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakista
 
 ### Changes:
 
-1. [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strik.md) _2017-08-25 03:20:15 (First version)_
+1. [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strik.md) _2018-02-06 13:49:17 (First version)_
 1. [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strike.md) _(Current version)_
 
 ### Related:

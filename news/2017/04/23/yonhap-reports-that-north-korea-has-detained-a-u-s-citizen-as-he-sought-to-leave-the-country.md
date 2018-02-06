@@ -16,7 +16,7 @@ The detention of a third US man comes amid heightened tension on the peninsula.
 
 ### Changes:
 
-1. [North Korea-United States relations: Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/north-korea-united-states-relations-yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _2017-08-27 03:48:13 (First version)_
+1. [North Korea-United States relations: Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/north-korea-united-states-relations-yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _2018-02-06 13:49:30 (First version)_
 1. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _(Current version)_
 
 ### Related:

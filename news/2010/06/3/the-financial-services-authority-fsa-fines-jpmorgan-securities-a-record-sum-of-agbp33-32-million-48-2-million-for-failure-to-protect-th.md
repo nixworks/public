@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmor
 
 ### Changes:
 
-1. [The Financial Services Authority (FSA) fines JPMorgan Securities a record sum of PS33.32 million ($48.2 million) for failure to protect the money of its clients. ](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmorgan-securities-a-record-sum-of-aps33-32-million-48-2-million-for-failure-to-protect-the.md) _2017-08-25 03:28:07 (First version)_
+1. [The Financial Services Authority (FSA) fines JPMorgan Securities a record sum of PS33.32 million ($48.2 million) for failure to protect the money of its clients. ](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmorgan-securities-a-record-sum-of-aps33-32-million-48-2-million-for-failure-to-protect-the.md) _2018-02-06 13:49:20 (First version)_
 1. [The Financial Services Authority (FSA) fines JPMorgan Securities a record sum of GBP33.32 million ($48.2 million) for failure to protect the money of its clients. ](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmorgan-securities-a-record-sum-of-agbp33-32-million-48-2-million-for-failure-to-protect-th.md) _(Current version)_
 
 ### Related:

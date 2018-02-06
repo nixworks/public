@@ -16,8 +16,8 @@ After a historic but awkward comet landing, the robot probe Philae is now stable
 
 ### Changes:
 
-1. [Comet landingThe Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/13/comet-landingpthe-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-pictures.md) _2017-08-25 03:41:12 (First version)_
-2. [Comet landing: The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/13/comet-landing-the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-picture.md) _2017-08-27 03:41:30 (Update)_
+1. [Comet landingThe Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/13/comet-landingpthe-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-pictures.md) _2018-02-06 13:49:26 (First version)_
+2. [Comet landing: The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/13/comet-landing-the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-picture.md) _2018-02-06 13:49:26 (Update)_
 2. [The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/13/the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-pictures-from-the-surf.md) _(Current version)_
 
 ### Related:

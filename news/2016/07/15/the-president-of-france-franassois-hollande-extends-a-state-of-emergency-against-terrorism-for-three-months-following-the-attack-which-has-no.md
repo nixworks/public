@@ -19,7 +19,7 @@ A lorry strikes a crowd amid Bastille Day celebrations in the French city of Nic
 
 ### Changes:
 
-1. [2016 Nice attack: The President of France Francois Hollande extends a state of emergency against terrorism for three months following the attack which has now claimed over 80 lives. He had previously announced that it would be lifted on 26 July. ](/news/2016/07/15/2016-nice-attack-the-president-of-france-franassois-hollande-extends-a-state-of-emergency-against-terrorism-for-three-months-following-the-a.md) _2017-08-27 03:46:30 (First version)_
+1. [2016 Nice attack: The President of France Francois Hollande extends a state of emergency against terrorism for three months following the attack which has now claimed over 80 lives. He had previously announced that it would be lifted on 26 July. ](/news/2016/07/15/2016-nice-attack-the-president-of-france-franassois-hollande-extends-a-state-of-emergency-against-terrorism-for-three-months-following-the-a.md) _2018-02-06 13:49:29 (First version)_
 1. [The President of France Francois Hollande extends a state of emergency against terrorism for three months following the attack which has now claimed over 80 lives. He had previously announced that it would be lifted on 26 July. ](/news/2016/07/15/the-president-of-france-franassois-hollande-extends-a-state-of-emergency-against-terrorism-for-three-months-following-the-attack-which-has-no.md) _(Current version)_
 
 ### Related:

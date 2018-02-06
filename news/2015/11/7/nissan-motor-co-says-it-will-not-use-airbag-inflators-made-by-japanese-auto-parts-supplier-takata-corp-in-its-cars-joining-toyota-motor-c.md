@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/7/nissan-motor-co-says-it-will-not-use-airbag-infl
 
 ### Changes:
 
-1. [Takata Defective airbag recalls (2013-present): Nissan Motor Co. says it will not use airbag inflators made by Japanese auto parts supplier Takata Corp. in its cars, joining Toyota Motor Corp. and Honda Motor Co. ](/news/2015/11/7/takata-defective-airbag-recalls-2013-present-nissan-motor-co-says-it-will-not-use-airbag-inflators-made-by-japanese-auto-parts-supplier.md) _2017-08-27 03:43:43 (First version)_
+1. [Takata Defective airbag recalls (2013-present): Nissan Motor Co. says it will not use airbag inflators made by Japanese auto parts supplier Takata Corp. in its cars, joining Toyota Motor Corp. and Honda Motor Co. ](/news/2015/11/7/takata-defective-airbag-recalls-2013-present-nissan-motor-co-says-it-will-not-use-airbag-inflators-made-by-japanese-auto-parts-supplier.md) _2018-02-06 13:49:28 (First version)_
 1. [Nissan Motor Co. says it will not use airbag inflators made by Japanese auto parts supplier Takata Corp. in its cars, joining Toyota Motor Corp. and Honda Motor Co. ](/news/2015/11/7/nissan-motor-co-says-it-will-not-use-airbag-inflators-made-by-japanese-auto-parts-supplier-takata-corp-in-its-cars-joining-toyota-motor-c.md) _(Current version)_
 
 ### Related:

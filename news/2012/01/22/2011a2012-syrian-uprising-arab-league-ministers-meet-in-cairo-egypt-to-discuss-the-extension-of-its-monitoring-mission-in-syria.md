@@ -16,7 +16,7 @@ Saudi Arabia announces it is to pull out of the Arab League mission in Syria, an
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: Arab League ministers meet in Cairo, Egypt, to discuss the extension of its monitoring mission in Syria. ](/news/2012/01/22/2011-2012-syrian-uprising-arab-league-ministers-meet-in-cairo-egypt-to-discuss-the-extension-of-its-monitoring-mission-in-syria.md) _2017-08-27 03:35:02 (First version)_
+1. [2011-2012 Syrian uprising: Arab League ministers meet in Cairo, Egypt, to discuss the extension of its monitoring mission in Syria. ](/news/2012/01/22/2011-2012-syrian-uprising-arab-league-ministers-meet-in-cairo-egypt-to-discuss-the-extension-of-its-monitoring-mission-in-syria.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: Arab League ministers meet in Cairo, Egypt, to discuss the extension of its monitoring mission in Syria. ](/news/2012/01/22/2011a2012-syrian-uprising-arab-league-ministers-meet-in-cairo-egypt-to-discuss-the-extension-of-its-monitoring-mission-in-syria.md) _(Current version)_
 
 ### Related:

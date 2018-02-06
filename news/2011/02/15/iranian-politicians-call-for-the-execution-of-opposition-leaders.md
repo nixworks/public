@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/02/15/iranian-politicians-call-for-the-execution-of-o
 
 ### Changes:
 
-1. [2011 Iranian protests:Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-piranian-politicians-call-for-the-execution-of-opposition-leaders.md) _2017-08-25 03:32:12 (First version)_
-2. [2011 Iranian protests:: Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-iranian-politicians-call-for-the-execution-of-opposition-leaders.md) _2017-08-27 03:32:20 (Update)_
+1. [2011 Iranian protests:Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-piranian-politicians-call-for-the-execution-of-opposition-leaders.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Iranian protests:: Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-iranian-politicians-call-for-the-execution-of-opposition-leaders.md) _2018-02-06 13:49:21 (Update)_
 2. [Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/iranian-politicians-call-for-the-execution-of-opposition-leaders.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Sun and Daily Mirror are facing contempt of court proceedings over the way t
 
 ### Changes:
 
-1. [The High Court of England and Wales grants the Attorney General permission to bring a case against ''The Sun'' and the ''Daily Mirror'' for the way they reported aspects of the hunt for the killer of Joanna Yeates. ](/news/2011/05/12/the-high-court-of-england-and-wales-grants-the-attorney-general-permission-to-bring-a-case-against-the-sun-and-the-daily-mirror-for.md) _2017-08-25 03:33:05 (First version)_
+1. [The High Court of England and Wales grants the Attorney General permission to bring a case against ''The Sun'' and the ''Daily Mirror'' for the way they reported aspects of the hunt for the killer of Joanna Yeates. ](/news/2011/05/12/the-high-court-of-england-and-wales-grants-the-attorney-general-permission-to-bring-a-case-against-the-sun-and-the-daily-mirror-for.md) _2018-02-06 13:49:22 (First version)_
 1. [The High Court of England and Wales grants the Attorney General permission to bring a case against "The Sun" and the "Daily Mirror" for the way they reported aspects of the hunt for the killer of Joanna Yeates. ](/news/2011/05/12/the-high-court-of-england-and-wales-grants-the-attorney-general-permission-to-bring-a-case-against-the-sun-and-the-daily-mirror-for-the.md) _(Current version)_
 
 ### Related:

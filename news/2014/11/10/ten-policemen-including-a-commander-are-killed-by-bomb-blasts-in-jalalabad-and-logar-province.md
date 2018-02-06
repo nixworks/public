@@ -15,7 +15,7 @@ In the deadliest of two assaults, a suicide bomber killed seven police officers,
 
 ### Changes:
 
-1. [Taliban insurgency: Ten policemen, including a commander, are killed by bomb blasts in Jalalabad and Logar Province. ](/news/2014/11/10/taliban-insurgency-ten-policemen-including-a-commander-are-killed-by-bomb-blasts-in-jalalabad-and-logar-province.md) _2017-08-27 03:41:29 (First version)_
+1. [Taliban insurgency: Ten policemen, including a commander, are killed by bomb blasts in Jalalabad and Logar Province. ](/news/2014/11/10/taliban-insurgency-ten-policemen-including-a-commander-are-killed-by-bomb-blasts-in-jalalabad-and-logar-province.md) _2018-02-06 13:49:26 (First version)_
 1. [Ten policemen, including a commander, are killed by bomb blasts in Jalalabad and Logar Province. ](/news/2014/11/10/ten-policemen-including-a-commander-are-killed-by-bomb-blasts-in-jalalabad-and-logar-province.md) _(Current version)_
 
 ### Related:

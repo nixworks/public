@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-p
 
 ### Changes:
 
-1. [Gun laws in the Czech Republic: The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/gun-laws-in-the-czech-republic-the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-t.md) _2017-08-27 03:48:34 (First version)_
+1. [Gun laws in the Czech Republic: The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/gun-laws-in-the-czech-republic-the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-t.md) _2018-02-06 13:49:30 (First version)_
 1. [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md) _(Current version)_
 
 ### Related:

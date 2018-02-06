@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrai
 
 ### Changes:
 
-1. [British author J. K. Rowling urges fans to refrain from buying a manuscript written by her, a ''Harry Potter'' prequel, which was originally auctioned off for charity but was later stolen. ](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally.md) _2017-08-25 03:47:53 (First version)_
+1. [British author J. K. Rowling urges fans to refrain from buying a manuscript written by her, a ''Harry Potter'' prequel, which was originally auctioned off for charity but was later stolen. ](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally.md) _2018-02-06 13:49:30 (First version)_
 1. [British author J. K. Rowling urges fans to refrain from buying a manuscript written by her, a "Harry Potter" prequel, which was originally auctioned off for charity but was later stolen. ](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.md) _(Current version)_
 
 ### Related:

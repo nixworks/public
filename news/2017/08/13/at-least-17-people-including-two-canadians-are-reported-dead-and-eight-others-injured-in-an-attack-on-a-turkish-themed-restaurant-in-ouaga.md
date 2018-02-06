@@ -17,8 +17,8 @@ At least 17 people, including foreigners, were reportedly shot dead as suspected
 
 ### Changes:
 
-1. [At least 17 people are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/at-least-17-people-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-themed-restaurant-in-ouagadougou-the-capital-of-bur.md) _2017-08-14 17:30:05 (First version)_
-2. [2017 Ouagadougou attack: At least 17 people, including two Canadians, are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/2017-ouagadougou-attack-at-least-17-people-including-two-canadians-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-t.md) _2017-08-27 03:48:48 (Update)_
+1. [At least 17 people are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/at-least-17-people-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-themed-restaurant-in-ouagadougou-the-capital-of-bur.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 Ouagadougou attack: At least 17 people, including two Canadians, are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/2017-ouagadougou-attack-at-least-17-people-including-two-canadians-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-t.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 17 people, including two Canadians, are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/at-least-17-people-including-two-canadians-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-themed-restaurant-in-ouaga.md) _(Current version)_
 
 ### Related:

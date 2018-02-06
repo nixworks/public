@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/09/2/astronomy-astronomers-announce-the-discovery-of-
 
 ### Changes:
 
-1. [ Astronomy: Astronomers announce the discovery of an asteroid (2003 QQ 47 ) whose orbit has a remote chance of striking earth.](/news/2003/09/2/astronomy-astronomers-announce-the-discovery-of-an-asteroid-2003-qq47-whose-orbit-has-a-remote-chance-of-striking-earth.md) _2017-10-02 03:15:46 (First version)_
+1. [ Astronomy: Astronomers announce the discovery of an asteroid (2003 QQ 47 ) whose orbit has a remote chance of striking earth.](/news/2003/09/2/astronomy-astronomers-announce-the-discovery-of-an-asteroid-2003-qq47-whose-orbit-has-a-remote-chance-of-striking-earth.md) _2018-02-06 13:49:15 (First version)_
 1. [ Astronomy: Astronomers announce the discovery of an asteroid (2003 QQ 47 ) whose orbit has a remote chance of striking earth.](/news/2003/09/2/astronomy-astronomers-announce-the-discovery-of-an-asteroid-2003-qq-47-whose-orbit-has-a-remote-chance-of-striking-earth.md) _(Current version)_
 
 ### Related:

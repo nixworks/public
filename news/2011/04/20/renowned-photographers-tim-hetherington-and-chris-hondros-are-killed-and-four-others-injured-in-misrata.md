@@ -17,8 +17,8 @@ The Oscar-nominated British filmmaker and photojournalist Tim Hetherington and A
 
 ### Changes:
 
-1. [2011 Libyan civil war:Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/2011-libyan-civil-war-prenowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md) _2017-08-25 03:32:51 (First version)_
-2. [2011 Libyan civil war:: Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/2011-libyan-civil-war-renowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Libyan civil war:: Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/2011-libyan-civil-war-renowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/2011-libyan-civil-war-prenowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md) _2018-02-06 13:49:22 (Update)_
 2. [Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/renowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md) _(Current version)_
 
 ### Related:

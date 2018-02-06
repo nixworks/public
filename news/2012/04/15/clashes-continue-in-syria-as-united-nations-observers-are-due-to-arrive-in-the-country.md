@@ -17,8 +17,8 @@ Syrian government forces shelled the city of Homs, resident opposition activists
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/2011-2012-syrian-uprising-pclashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md) _2017-08-25 03:35:30 (First version)_
-2. [2011-2012 Syrian uprising:: Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/2011-2012-syrian-uprising-clashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md) _2017-08-27 03:35:39 (Update)_
+1. [2011-2012 Syrian uprising:Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/2011-2012-syrian-uprising-pclashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/2011-2012-syrian-uprising-clashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md) _2018-02-06 13:49:23 (Update)_
 2. [Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/clashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-
 
 ### Changes:
 
-1. [Taliban insurgency: A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/taliban-insurgency-a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _2017-08-27 03:41:15 (First version)_
+1. [Taliban insurgency: A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/taliban-insurgency-a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Share this on WhatsApp
 
 ### Changes:
 
-1. [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representa.md) _2017-08-25 03:45:29 (First version)_
-2. [Taliban insurgency: The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/taliban-insurgency-the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisone.md) _2017-08-27 03:45:52 (Update)_
+1. [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representa.md) _2018-02-06 13:49:28 (First version)_
+2. [Taliban insurgency: The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/taliban-insurgency-the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisone.md) _2018-02-06 13:49:28 (Update)_
 2. [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representati.md) _(Current version)_
 
 ### Related:

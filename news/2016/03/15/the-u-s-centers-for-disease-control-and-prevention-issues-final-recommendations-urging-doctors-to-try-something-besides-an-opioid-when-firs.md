@@ -17,7 +17,7 @@ New guidelines from the CDC urge doctors to take it easy in prescribing the pote
 
 ### Changes:
 
-1. [The U.S. Centers for Disease Control and Prevention issues final recommendations urging doctors to try something besides an opioid when first treating pain, and if an opioid drug, such as hydrocodone or oxycodone, is the best choice, start with the lowest possible dose. ](/news/2016/03/15/the-u-s-centers-for-disease-control-and-prevention-issues-final-recommendations-urging-doctors-to-try-something-besides-an-opioid-when-fir.md) _2017-08-25 03:44:53 (First version)_
+1. [The U.S. Centers for Disease Control and Prevention issues final recommendations urging doctors to try something besides an opioid when first treating pain, and if an opioid drug, such as hydrocodone or oxycodone, is the best choice, start with the lowest possible dose. ](/news/2016/03/15/the-u-s-centers-for-disease-control-and-prevention-issues-final-recommendations-urging-doctors-to-try-something-besides-an-opioid-when-fir.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Centers for Disease Control and Prevention issues final recommendations urging doctors to try something besides an opioid when first treating pain, and if an opioid drug, such as hydrocodone or oxycodone, is the best choice, start with the lowest possible dose. ](/news/2016/03/15/the-u-s-centers-for-disease-control-and-prevention-issues-final-recommendations-urging-doctors-to-try-something-besides-an-opioid-when-firs.md) _(Current version)_
 
 ### Related:

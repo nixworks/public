@@ -17,7 +17,7 @@ A massive wildfire burning north of Big Sur has scorched more than 33,000 acres 
 
 ### Changes:
 
-1. [2016 California wildfires: The deadly, nine-day old Soberanes Fire, blazing south of Carmel-by-the-Sea, has destroyed 57 homes and is expected to grow to 170,000 acres (265 square miles) before it's done. It is 15 percent contained. Six major Big Sur State Parks remain closed through August 6. ](/news/2016/07/30/2016-california-wildfires-the-deadly-nine-day-old-soberanes-fire-blazing-south-of-carmel-by-the-sea-has-destroyed-57-homes-and-is-expect.md) _2017-08-27 03:46:34 (First version)_
+1. [2016 California wildfires: The deadly, nine-day old Soberanes Fire, blazing south of Carmel-by-the-Sea, has destroyed 57 homes and is expected to grow to 170,000 acres (265 square miles) before it's done. It is 15 percent contained. Six major Big Sur State Parks remain closed through August 6. ](/news/2016/07/30/2016-california-wildfires-the-deadly-nine-day-old-soberanes-fire-blazing-south-of-carmel-by-the-sea-has-destroyed-57-homes-and-is-expect.md) _2018-02-06 13:49:29 (First version)_
 1. [The deadly, nine-day old Soberanes Fire, blazing south of Carmel-by-the-Sea, has destroyed 57 homes and is expected to grow to 170,000 acres (265 square miles) before it's done. It is 15 percent contained. Six major Big Sur State Parks remain closed through August 6. ](/news/2016/07/30/the-deadly-nine-day-old-soberanes-fire-blazing-south-of-carmel-by-the-sea-has-destroyed-57-homes-and-is-expected-to-grow-to-170-000-acres.md) _(Current version)_
 
 ### Related:

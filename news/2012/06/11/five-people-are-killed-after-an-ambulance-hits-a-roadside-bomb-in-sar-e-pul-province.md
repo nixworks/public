@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/06/11/five-people-are-killed-after-an-ambulance-hits-
 
 ### Changes:
 
-1. [Afghanistan:Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-pfive-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md) _2017-08-25 03:35:51 (First version)_
-2. [Afghanistan:: Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-five-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md) _2017-08-27 03:36:02 (Update)_
+1. [Afghanistan:Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-pfive-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md) _2018-02-06 13:49:23 (First version)_
+2. [Afghanistan:: Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-five-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md) _2018-02-06 13:49:23 (Update)_
 2. [Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/five-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md) _(Current version)_
 
 ### Related:

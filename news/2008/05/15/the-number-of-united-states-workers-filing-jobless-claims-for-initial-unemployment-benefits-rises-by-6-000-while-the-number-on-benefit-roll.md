@@ -17,8 +17,8 @@ The number of U.S. workersfiling claims for initial jobless benefits rose by 6,0
 
 ### Changes:
 
-1. [ The number of United States workers filing jobless claims for initial unemployment benefits rises by 6,000 while the number on benefit rolls after a first week of aid hit a four-year high. ](/news/2008/05/15/the-number-of-united-states-workers-filing-jobless-claims-for-initial-unemployment-benefits-rises-by-6-000-while-the-number-on-benefit-rol.md) _2017-08-25 03:22:11 (First version)_
-2. [ Economy of the United States: The number of United States workers filing jobless claims for initial unemployment benefits rises by 6,000 while the number on benefit rolls after a first week of aid hit a four-year high. ](/news/2008/05/15/economy-of-the-united-states-the-number-of-united-states-workers-filing-jobless-claims-for-initial-unemployment-benefits-rises-by-6-000-wh.md) _2017-08-27 03:22:05 (Update)_
+1. [ The number of United States workers filing jobless claims for initial unemployment benefits rises by 6,000 while the number on benefit rolls after a first week of aid hit a four-year high. ](/news/2008/05/15/the-number-of-united-states-workers-filing-jobless-claims-for-initial-unemployment-benefits-rises-by-6-000-while-the-number-on-benefit-rol.md) _2018-02-06 13:49:18 (First version)_
+2. [ Economy of the United States: The number of United States workers filing jobless claims for initial unemployment benefits rises by 6,000 while the number on benefit rolls after a first week of aid hit a four-year high. ](/news/2008/05/15/economy-of-the-united-states-the-number-of-united-states-workers-filing-jobless-claims-for-initial-unemployment-benefits-rises-by-6-000-wh.md) _2018-02-06 13:49:18 (Update)_
 2. [ The number of United States workers filing jobless claims for initial unemployment benefits rises by 6,000 while the number on benefit rolls after a first week of aid hit a four-year high. ](/news/2008/05/15/the-number-of-united-states-workers-filing-jobless-claims-for-initial-unemployment-benefits-rises-by-6-000-while-the-number-on-benefit-roll.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Up to 500 people may have drowned after overloaded boat sank in Mediterranean
 
 ### Changes:
 
-1. [European migrant crisis: Up to 500 people are feared to have drowned off the coast of Libya in the Mediterranean last week, in what would be the deadliest migrant shipwreck in months. ](/news/2016/04/20/european-migrant-crisis-up-to-500-people-are-feared-to-have-drowned-off-the-coast-of-libya-in-the-mediterranean-last-week-in-what-would-be.md) _2017-08-27 03:45:42 (First version)_
+1. [European migrant crisis: Up to 500 people are feared to have drowned off the coast of Libya in the Mediterranean last week, in what would be the deadliest migrant shipwreck in months. ](/news/2016/04/20/european-migrant-crisis-up-to-500-people-are-feared-to-have-drowned-off-the-coast-of-libya-in-the-mediterranean-last-week-in-what-would-be.md) _2018-02-06 13:49:28 (First version)_
 1. [Up to 500 people are feared to have drowned off the coast of Libya in the Mediterranean last week, in what would be the deadliest migrant shipwreck in months. ](/news/2016/04/20/up-to-500-people-are-feared-to-have-drowned-off-the-coast-of-libya-in-the-mediterranean-last-week-in-what-would-be-the-deadliest-migrant-sh.md) _(Current version)_
 
 ### Related:

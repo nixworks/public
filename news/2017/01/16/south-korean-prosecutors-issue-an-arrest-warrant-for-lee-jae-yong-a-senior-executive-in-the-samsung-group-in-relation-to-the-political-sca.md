@@ -16,7 +16,7 @@ A decision was expected Monday on whether to prosecute Samsung chief Lee Jae-yon
 
 ### Changes:
 
-1. [2016 South Korean political scandal: South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/2016-south-korean-political-scandal-south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-gr.md) _2017-08-27 03:47:37 (First version)_
+1. [2016 South Korean political scandal: South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/2016-south-korean-political-scandal-south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-gr.md) _2018-02-06 13:49:30 (First version)_
 1. [South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-group-in-relation-to-the-political-sca.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/11/15/ligo-announces-it-has-detected-gravitational-wa
 
 ### Changes:
 
-1. [LIGO announced it detected the gravitational waves GW170608. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-gw170608.md) _2017-11-16 16:30:04 (First version)_
-2. [LIGO announced it detected the gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-from-the-merger-of-two-black-holes.md) _2017-11-16 19:30:05 (Update)_
+1. [LIGO announced it detected the gravitational waves GW170608. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-gw170608.md) _2018-02-06 13:49:31 (First version)_
+2. [LIGO announced it detected the gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-from-the-merger-of-two-black-holes.md) _2018-02-06 13:49:31 (Update)_
 2. [LIGO announces it has detected gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announces-it-has-detected-gravitational-waves-from-the-merger-of-two-black-holes.md) _(Current version)_
 
 ### Related:

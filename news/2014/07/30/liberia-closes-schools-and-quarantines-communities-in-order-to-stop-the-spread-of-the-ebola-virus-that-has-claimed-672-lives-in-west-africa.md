@@ -16,7 +16,7 @@ Liberia quarantines communities and closes schools across the country in a bid t
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: Liberia closes schools and quarantines communities in order to stop the spread of the Ebola virus that has claimed 672 lives in West Africa. ](/news/2014/07/30/2014-west-africa-ebola-outbreak-liberia-closes-schools-and-quarantines-communities-in-order-to-stop-the-spread-of-the-ebola-virus-that-has.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 West Africa Ebola outbreak: Liberia closes schools and quarantines communities in order to stop the spread of the Ebola virus that has claimed 672 lives in West Africa. ](/news/2014/07/30/2014-west-africa-ebola-outbreak-liberia-closes-schools-and-quarantines-communities-in-order-to-stop-the-spread-of-the-ebola-virus-that-has.md) _2018-02-06 13:49:26 (First version)_
 1. [Liberia closes schools and quarantines communities in order to stop the spread of the Ebola virus that has claimed 672 lives in West Africa. ](/news/2014/07/30/liberia-closes-schools-and-quarantines-communities-in-order-to-stop-the-spread-of-the-ebola-virus-that-has-claimed-672-lives-in-west-africa.md) _(Current version)_
 
 ### Related:

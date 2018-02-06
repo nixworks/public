@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2014 Hong Kong protests:The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/2014-hong-kong-protests-pthe-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md) _2017-08-25 03:41:18 (First version)_
-2. [2014 Hong Kong protests:: The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/2014-hong-kong-protests-the-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md) _2017-08-27 03:41:36 (Update)_
+1. [2014 Hong Kong protests:: The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/2014-hong-kong-protests-the-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Hong Kong protests:The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/2014-hong-kong-protests-pthe-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md) _2018-02-06 13:49:26 (Update)_
 2. [The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/the-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/17/two-bombs-explode-near-two-separate-mosques-in-
 
 ### Changes:
 
-1. [War in North-West Pakistan:Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/war-in-north-west-pakistan-ptwo-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-wounding.md) _2017-08-25 03:38:41 (First version)_
-2. [War in North-West Pakistan:: Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/war-in-north-west-pakistan-two-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-woundin.md) _2017-08-27 03:38:54 (Update)_
+1. [War in North-West Pakistan:: Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/war-in-north-west-pakistan-two-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-woundin.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/war-in-north-west-pakistan-ptwo-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-wounding.md) _2018-02-06 13:49:24 (Update)_
 2. [Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/two-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-wounding-at-least-100-others.md) _(Current version)_
 
 ### Related:

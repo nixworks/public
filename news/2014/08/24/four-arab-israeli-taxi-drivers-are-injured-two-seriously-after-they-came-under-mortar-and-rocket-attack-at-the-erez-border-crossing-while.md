@@ -19,7 +19,7 @@ Four taxi drivers injured as mortars slam into Erez terminal. &#8216;This is an 
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/2014-israel-gaza-conflict-four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the.md) _2017-08-27 03:41:11 (First version)_
+1. [2014 Israel-Gaza conflict: Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/2014-israel-gaza-conflict-four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the.md) _2018-02-06 13:49:26 (First version)_
 1. [Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the-erez-border-crossing-while.md) _(Current version)_
 
 ### Related:

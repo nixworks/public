@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/11/8/nineteen-palestinian-civilians-are-killed-in-the
 
 ### Changes:
 
-1. [ Beit Hanoun November 2006 incident: Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/beit-hanoun-november-2006-incident-p-nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medica.md) _2017-08-25 03:18:45 (First version)_
-2. [ Beit Hanoun November 2006 incident:: Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/beit-hanoun-november-2006-incident-nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medica.md) _2017-08-27 03:18:39 (Update)_
+1. [ Beit Hanoun November 2006 incident: Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/beit-hanoun-november-2006-incident-p-nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medica.md) _2018-02-06 13:49:17 (First version)_
+2. [ Beit Hanoun November 2006 incident:: Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/beit-hanoun-november-2006-incident-nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medica.md) _2018-02-06 13:49:17 (Update)_
 2. [ Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medical-officers.md) _(Current version)_
 
 ### Related:

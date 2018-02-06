@@ -17,6 +17,6 @@ A married teacher who belongs to a breakaway Catholic faction becomes the first 
 
 ### Changes:
 
-1. [{{Interlanguage link multi|Maria Vittoria Longhitano|it}}, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/interlanguage-link-multi-maria-vittoria-longhitano-it-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md) _2017-05-01 03:29:32 (First version)_
-2. [Maria Vittoria Longhitano|it, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/maria-vittoria-longhitano-it-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md) _2017-08-29 03:28:06 (Update)_
+1. [Maria Vittoria Longhitano|it, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/maria-vittoria-longhitano-it-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md) _2018-02-06 13:49:20 (First version)_
+2. [{{Interlanguage link multi|Maria Vittoria Longhitano|it}}, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/interlanguage-link-multi-maria-vittoria-longhitano-it-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md) _2018-02-06 13:49:20 (Update)_
 2. [Maria Vittoria Longhitano, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/maria-vittoria-longhitano-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md) _(Current version)_

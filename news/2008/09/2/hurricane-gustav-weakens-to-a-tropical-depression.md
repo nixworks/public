@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/09/2/hurricane-gustav-weakens-to-a-tropical-depressio
 
 ### Changes:
 
-1. [ 2008 Atlantic hurricane season: Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/2008-atlantic-hurricane-season-p-hurricane-gustav-weakens-to-a-tropical-depression.md) _2017-08-25 03:22:47 (First version)_
-2. [ 2008 Atlantic hurricane season:: Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/2008-atlantic-hurricane-season-hurricane-gustav-weakens-to-a-tropical-depression.md) _2017-08-27 03:22:41 (Update)_
+1. [ 2008 Atlantic hurricane season: Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/2008-atlantic-hurricane-season-p-hurricane-gustav-weakens-to-a-tropical-depression.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Atlantic hurricane season:: Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/2008-atlantic-hurricane-season-hurricane-gustav-weakens-to-a-tropical-depression.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/hurricane-gustav-weakens-to-a-tropical-depression.md) _(Current version)_
 
 ### Related:

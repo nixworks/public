@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-whi
 
 ### Changes:
 
-1. [Russian financial crisis (2014-present): The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/russian-financial-crisis-2014-present-the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-6.md) _2017-08-27 03:42:46 (First version)_
+1. [Russian financial crisis (2014-present): The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/russian-financial-crisis-2014-present-the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-6.md) _2018-02-06 13:49:27 (First version)_
 1. [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md) _(Current version)_
 
 ### Related:

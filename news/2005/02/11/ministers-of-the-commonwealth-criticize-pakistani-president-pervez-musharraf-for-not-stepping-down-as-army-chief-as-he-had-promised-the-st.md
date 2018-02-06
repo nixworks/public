@@ -19,7 +19,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### Changes:
 
-1. [ Ministers of the Commonwealth criticize Pakistani president Pervez Musharraf for not stepping down as army chief as he had promised. The State Department of the United States also asks him to end his dual role. ](/news/2005/02/11/ministers-of-the-commonwealth-criticize-pakistani-president-pervez-musharraf-for-not-stepping-down-as-army-chief-as-he-had-promised-the-s.md) _2017-08-25 03:15:38 (First version)_
+1. [ Ministers of the Commonwealth criticize Pakistani president Pervez Musharraf for not stepping down as army chief as he had promised. The State Department of the United States also asks him to end his dual role. ](/news/2005/02/11/ministers-of-the-commonwealth-criticize-pakistani-president-pervez-musharraf-for-not-stepping-down-as-army-chief-as-he-had-promised-the-s.md) _2018-02-06 13:49:16 (First version)_
 1. [ Ministers of the Commonwealth criticize Pakistani president Pervez Musharraf for not stepping down as army chief as he had promised. The State Department of the United States also asks him to end his dual role. ](/news/2005/02/11/ministers-of-the-commonwealth-criticize-pakistani-president-pervez-musharraf-for-not-stepping-down-as-army-chief-as-he-had-promised-the-st.md) _(Current version)_
 
 ### Related:

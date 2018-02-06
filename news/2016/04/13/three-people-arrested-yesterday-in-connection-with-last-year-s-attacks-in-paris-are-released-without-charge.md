@@ -16,7 +16,7 @@ Three people arrested in Brussels in connection with the November Paris attacks 
 
 ### Changes:
 
-1. [November 2015 Paris attacks: Three people arrested yesterday in connection with last year's attacks in Paris are released without charge. ](/news/2016/04/13/november-2015-paris-attacks-three-people-arrested-yesterday-in-connection-with-last-year-s-attacks-in-paris-are-released-without-charge.md) _2017-08-27 03:45:36 (First version)_
+1. [November 2015 Paris attacks: Three people arrested yesterday in connection with last year's attacks in Paris are released without charge. ](/news/2016/04/13/november-2015-paris-attacks-three-people-arrested-yesterday-in-connection-with-last-year-s-attacks-in-paris-are-released-without-charge.md) _2018-02-06 13:49:28 (First version)_
 1. [Three people arrested yesterday in connection with last year's attacks in Paris are released without charge. ](/news/2016/04/13/three-people-arrested-yesterday-in-connection-with-last-year-s-attacks-in-paris-are-released-without-charge.md) _(Current version)_
 
 ### Related:

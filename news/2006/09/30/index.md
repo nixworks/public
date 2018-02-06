@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/30/index.html)  [JSON](2006/09/30/index.json)  [XML](200
 
 ##### Los Angeles Times
 ### [ The "Los Angeles Times" has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-of.md)
-_Context: doping, Los Angeles Times, Major League Baseball, Roger Clemens, Miguel Tejada, Andy Pettitte, Jason Grimsley_
+_Context: Roger Clemens, Major League Baseball, Jason Grimsley, doping, Los Angeles Times, Andy Pettitte, Miguel Tejada_
 
 ##### Nigeria
 ### [ In Nigeria, the collapse of a dam wall kills forty people in Gusau, Zamfara state. ](/news/2006/09/30/in-nigeria-the-collapse-of-a-dam-wall-kills-forty-people-in-gusau-zamfara-state.md)

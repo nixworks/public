@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/15/index.html)  [JSON](2014/08/15/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/suspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy-fishing-village-in-the-northeast.md)
-_Context: Boko Haram, Lake Chad, Doron Baga, Borno State_
+_Context: Lake Chad, Boko Haram, Doron Baga, Borno State_
 
 ##### Russia
 ### [A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/a-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-first-confirmed-si.md)
@@ -29,15 +29,15 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Japanese
 ### [Two Japanese cabinet ministers Keiji Furuya and Yoshitaka Shindo visit the Yasukuni Shrine to mark the 69th anniversary of Japan's surrender at the end of World War II. This visit upsets China and South Korea as the shrine contains the graves of war criminals. ](/news/2014/08/15/two-japanese-cabinet-ministers-keiji-furuya-and-yoshitaka-shindo-visit-the-yasukuni-shrine-to-mark-the-69th-anniversary-of-japan-s-surrender.md)
-_Context: World War II, South Korea, surrender, Yoshitaka Shindo, China, Japanese, Yasukuni Shrine, Japan, Keiji Furuya_
+_Context: Keiji Furuya, China, surrender, South Korea, World War II, Yasukuni Shrine, Japanese, Yoshitaka Shindo, Japan_
 
 ##### Philippines
 ### [The Philippines and the Moro Islamic Liberation Front reach a consensus regarding the creation of Bangsamoro. ](/news/2014/08/15/the-philippines-and-the-moro-islamic-liberation-front-reach-a-consensus-regarding-the-creation-of-bangsamoro.md)
-_Context: Bangsamoro, Moro Islamic Liberation Front, Philippines_
+_Context: Philippines, Moro Islamic Liberation Front, Bangsamoro_
 
 ##### Grand Ayatollah
 ### [Several influential Iraqis, including Grand Ayatollah Ali al-Sistani, Ali Hatem al-Suleiman, and a group of six leaders from Sunni provinces, state that they are willing to work with the new Prime Minister of Iraq, Haider Al-Abadi, if certain conditions are met. ](/news/2014/08/15/several-influential-iraqis-including-grand-ayatollah-ali-al-sistani-ali-hatem-al-suleiman-and-a-group-of-six-leaders-from-sunni-provinces.md)
-_Context: Grand Ayatollah, Haider Al-Abadi, Ali Hatem al-Suleiman, Iraq Prime Minister, Ali al-Sistani_
+_Context: Ali Hatem al-Suleiman, Ali al-Sistani, Haider Al-Abadi, Grand Ayatollah, Iraq Prime Minister_
 
 ## [Previous Day...](/news/2014/08/14/index.md)
 

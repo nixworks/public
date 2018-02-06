@@ -9,7 +9,7 @@ Fighting between government forces and Russian-backed rebels in eastern Ukraine 
 
 ##### Ranger School
 ### [Two women pass the United States Army's Ranger School becoming the first to do so, and earning Ranger tabs on their uniforms. ](/news/2015/08/18/two-women-pass-the-united-states-army-s-ranger-school-becoming-the-first-to-do-so-and-earning-ranger-tabs-on-their-uniforms.md)
-_Context: Ranger tab, Ranger School_
+_Context: Ranger School, Ranger tab_
 
 ##### Obama administration
 ### [The Obama administration, through the United States Environmental Protection Agency announces new regulations on emissions of the greenhouse gas methane. ](/news/2015/08/18/the-obama-administration-through-the-united-states-environmental-protection-agency-announces-new-regulations-on-emissions-of-the-greenhouse.md)
@@ -21,11 +21,11 @@ Rescue teams reached the crash site of a commercial aircraft that went down over
 
 ##### Food and Drug Administration
 ### [The US Food and Drug Administration approves the use of Flibanserin to help women with Hypoactive Sexual Desire Disorder. ](/news/2015/08/18/the-us-food-and-drug-administration-approves-the-use-of-flibanserin-to-help-women-with-hypoactive-sexual-desire-disorder.md)
-_Context: Hypoactive Sexual Desire Disorder, Food and Drug Administration, Flibanserin_
+_Context: Food and Drug Administration, Flibanserin, Hypoactive Sexual Desire Disorder_
 
 ##### Turkish Prime Minister
 ### [The Prime Minister of Turkey Ahmet Davutoglu returns his mandate to form a government to the President after failing to form a coalition government. This means that a new election is likely. ](/news/2015/08/18/the-prime-minister-of-turkey-ahmet-davutoalu-returns-his-mandate-to-form-a-government-to-the-president-after-failing-to-form-a-coalition-go.md)
-_Context: Ahmet Davutoglu, President of Turkey, Turkish Prime Minister, mandate_
+_Context: Ahmet Davutoglu, mandate, President of Turkey, Turkish Prime Minister_
 
 ## [Previous Day...](/news/2015/08/17/index.md)
 

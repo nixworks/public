@@ -18,8 +18,8 @@ More than 100 are feared killed as a military transport plane crashes in a resid
 
 ### Changes:
 
-1. [ A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-l.md) _2017-08-25 03:42:19 (First version)_
-2. [ 2015 Indonesian military plane crash: A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/2015-indonesian-military-plane-crash-a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indon.md) _2017-08-27 03:42:37 (Update)_
+1. [ A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-l.md) _2018-02-06 13:49:27 (First version)_
+2. [ 2015 Indonesian military plane crash: A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/2015-indonesian-military-plane-crash-a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indon.md) _2018-02-06 13:49:27 (Update)_
 2. [A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-le.md) _(Current version)_
 
 ### Related:

@@ -18,6 +18,6 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Changes:
 
-1. [ Afghanistan: Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/afghanistan-p-aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md) _2017-08-25 03:15:54 (First version)_
-2. [ Afghanistan:: Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/afghanistan-aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md) _2017-08-27 03:15:56 (Update)_
+1. [ Afghanistan: Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/afghanistan-p-aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md) _2018-02-06 13:49:16 (First version)_
+2. [ Afghanistan:: Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/afghanistan-aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md) _2018-02-06 13:49:16 (Update)_
 2. [ Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md) _(Current version)_

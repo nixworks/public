@@ -17,7 +17,7 @@ By Syed Raza Hassan and Maria Golovnina ISLAMABAD (Reuters) - Pakistani soldiers
 
 ### Changes:
 
-1. [Pakistan unrest: Pakistani protesters armed with sticks and stones clash with police in the centre of Islamabad after protests calling for the resignation of Prime Minister Nawaz Sharif turn violent. All schools in the capital have been closed as a result of the clashes. ](/news/2014/09/1/pakistan-unrest-pakistani-protesters-armed-with-sticks-and-stones-clash-with-police-in-the-centre-of-islamabad-after-protests-calling-for-t.md) _2017-08-27 03:41:14 (First version)_
+1. [Pakistan unrest: Pakistani protesters armed with sticks and stones clash with police in the centre of Islamabad after protests calling for the resignation of Prime Minister Nawaz Sharif turn violent. All schools in the capital have been closed as a result of the clashes. ](/news/2014/09/1/pakistan-unrest-pakistani-protesters-armed-with-sticks-and-stones-clash-with-police-in-the-centre-of-islamabad-after-protests-calling-for-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Pakistani protesters armed with sticks and stones clash with police in the centre of Islamabad after protests calling for the resignation of Prime Minister Nawaz Sharif turn violent. All schools in the capital have been closed as a result of the clashes. ](/news/2014/09/1/pakistani-protesters-armed-with-sticks-and-stones-clash-with-police-in-the-centre-of-islamabad-after-protests-calling-for-the-resignation-of.md) _(Current version)_
 
 ### Related:

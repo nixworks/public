@@ -17,8 +17,8 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 
 ### Changes:
 
-1. [Northern Mali conflict:French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-pfrench-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _2017-08-25 03:37:18 (First version)_
-2. [Northern Mali conflict:: French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _2017-08-27 03:37:28 (Update)_
+1. [Northern Mali conflict:French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-pfrench-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:: French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _2018-02-06 13:49:24 (Update)_
 2. [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _(Current version)_
 
 ### Related:

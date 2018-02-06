@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/26/a-55-year-old-contractor-from-putnam-county-wes
 
 ### Changes:
 
-1. [A 55-year-old contractor from Putnam County, West Virginia named Andrew "Jack" Whittaker Jr won the {{Nowrap|$314.9 million}} Christmas Day Powerball jackpot which is the biggest undivided lottery prize in American history.](/news/2002/12/26/a-55-year-old-contractor-from-putnam-county-west-virginia-named-andrew-jack-whittaker-jr-won-the-nowrap-314-9-million-christmas-day.md) _2017-05-01 03:15:20 (First version)_
+1. [A 55-year-old contractor from Putnam County, West Virginia named Andrew "Jack" Whittaker Jr won the {{Nowrap|$314.9 million}} Christmas Day Powerball jackpot which is the biggest undivided lottery prize in American history.](/news/2002/12/26/a-55-year-old-contractor-from-putnam-county-west-virginia-named-andrew-jack-whittaker-jr-won-the-nowrap-314-9-million-christmas-day.md) _2018-02-06 13:49:15 (First version)_
 1. [A 55-year-old contractor from Putnam County, West Virginia named Andrew "Jack" Whittaker Jr won the $314.9 million Christmas Day Powerball jackpot which is the biggest undivided lottery prize in American history.](/news/2002/12/26/a-55-year-old-contractor-from-putnam-county-west-virginia-named-andrew-jack-whittaker-jr-won-the-314-9-million-christmas-day-powerball-j.md) _(Current version)_
 
 ### Related:

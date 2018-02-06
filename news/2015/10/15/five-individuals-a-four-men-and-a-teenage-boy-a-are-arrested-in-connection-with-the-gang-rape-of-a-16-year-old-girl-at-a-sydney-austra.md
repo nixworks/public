@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a
 
 ### Changes:
 
-1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-four-men-and-a-teenage-boy-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _2017-08-27 03:43:21 (First version)_
+1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-four-men-and-a-teenage-boy-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _2018-02-06 13:49:27 (First version)_
 1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _(Current version)_
 
 ### Related:

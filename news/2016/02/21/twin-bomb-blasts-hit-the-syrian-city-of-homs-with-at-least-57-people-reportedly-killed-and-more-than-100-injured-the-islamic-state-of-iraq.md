@@ -20,7 +20,7 @@ Bomb blasts in the Syrian cities of Homs and Damascus have killed at least 140 p
 
 ### Changes:
 
-1. [Syrian Civil War: February 2016 Homs bombings: Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/syrian-civil-war-february-2016-homs-bombings-twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-mo.md) _2017-08-27 03:44:58 (First version)_
+1. [Syrian Civil War: February 2016 Homs bombings: Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/syrian-civil-war-february-2016-homs-bombings-twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-mo.md) _2018-02-06 13:49:28 (First version)_
 1. [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md) _(Current version)_
 
 ### Related:

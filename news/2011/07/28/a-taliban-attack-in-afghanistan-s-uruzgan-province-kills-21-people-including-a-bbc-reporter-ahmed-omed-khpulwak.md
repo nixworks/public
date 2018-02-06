@@ -16,8 +16,8 @@ Taliban bomb and gun attacks on an official&#039;s compound and a militia base i
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/war-in-afghanistan-2001apresent-pa-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed.md) _2017-08-25 03:33:53 (First version)_
-2. [War in Afghanistan (2001-present):: A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/war-in-afghanistan-2001-present-a-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed.md) _2017-08-27 03:34:01 (Update)_
+1. [War in Afghanistan (2001-present):A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/war-in-afghanistan-2001apresent-pa-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan (2001-present):: A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/war-in-afghanistan-2001-present-a-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed.md) _2018-02-06 13:49:22 (Update)_
 2. [A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/a-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed-khpulwak.md) _(Current version)_
 
 ### Related:

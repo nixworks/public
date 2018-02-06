@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/08/1/the-international-olympic-committee-and-the-beij
 
 ### Changes:
 
-1. [ 2008 Summer Olympics: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-p-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md) _2017-08-25 03:22:38 (First version)_
-2. [ 2008 Summer Olympics:: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md) _2017-08-27 03:22:31 (Update)_
+1. [ 2008 Summer Olympics:: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Summer Olympics: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-p-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md) _2018-02-06 13:49:18 (Update)_
 2. [ The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-the-2008-olympic-games.md) _(Current version)_
 
 ### Related:

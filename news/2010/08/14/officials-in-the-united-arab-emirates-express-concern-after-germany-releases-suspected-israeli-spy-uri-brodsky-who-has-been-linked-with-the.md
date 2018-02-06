@@ -17,8 +17,8 @@ Uri Brodsky released on bail following his extradition from Poland to Germany on
 
 ### Changes:
 
-1. [Release of Uri Brodsky:Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/release-of-uri-brodsky-pofficials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who.md) _2017-08-25 03:29:26 (First version)_
-2. [Release of Uri Brodsky:: Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/release-of-uri-brodsky-officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who.md) _2017-08-27 03:29:29 (Update)_
+1. [Release of Uri Brodsky:Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/release-of-uri-brodsky-pofficials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who.md) _2018-02-06 13:49:20 (First version)_
+2. [Release of Uri Brodsky:: Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/release-of-uri-brodsky-officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who.md) _2018-02-06 13:49:20 (Update)_
 2. [Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who-has-been-linked-with-the.md) _(Current version)_
 
 ### Related:

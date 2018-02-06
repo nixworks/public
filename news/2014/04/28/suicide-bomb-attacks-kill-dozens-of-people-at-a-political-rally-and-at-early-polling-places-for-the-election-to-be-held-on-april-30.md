@@ -16,8 +16,8 @@ At least 50 people killed in Iraq as suicide bombers attack ahead of a national 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/iraqi-insurgency-post-u-s-withdrawal-psuicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-the.md) _2017-08-25 03:40:21 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/iraqi-insurgency-post-u-s-withdrawal-suicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-th.md) _2017-08-27 03:40:38 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/iraqi-insurgency-post-u-s-withdrawal-suicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-th.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/iraqi-insurgency-post-u-s-withdrawal-psuicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-the.md) _2018-02-06 13:49:26 (Update)_
 2. [Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/suicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-the-election-to-be-held-on-april-30.md) _(Current version)_
 
 ### Related:

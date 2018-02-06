@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/02/8/a-5-4-m-w-earthquake-southeast-of-mexicali-mexic
 
 ### Changes:
 
-1. [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-mw-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md) _2017-10-02 03:24:40 (First version)_
+1. [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-mw-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md) _2018-02-06 13:49:18 (First version)_
 1. [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-m-w-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md) _(Current version)_
 
 ### Related:

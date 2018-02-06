@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/15/swedish-police-increase-checks-of-asylum-facili
 
 ### Changes:
 
-1. [European migrant crisis: Swedish police increase checks of asylum facilities in the country's southwest amid reports refugees are leaving to avoid being registered by immigration officials. ](/news/2015/11/15/european-migrant-crisis-swedish-police-increase-checks-of-asylum-facilities-in-the-country-s-southwest-amid-reports-refugees-are-leaving-to.md) _2017-08-27 03:43:52 (First version)_
+1. [European migrant crisis: Swedish police increase checks of asylum facilities in the country's southwest amid reports refugees are leaving to avoid being registered by immigration officials. ](/news/2015/11/15/european-migrant-crisis-swedish-police-increase-checks-of-asylum-facilities-in-the-country-s-southwest-amid-reports-refugees-are-leaving-to.md) _2018-02-06 13:49:28 (First version)_
 1. [Swedish police increase checks of asylum facilities in the country's southwest amid reports refugees are leaving to avoid being registered by immigration officials. ](/news/2015/11/15/swedish-police-increase-checks-of-asylum-facilities-in-the-country-s-southwest-amid-reports-refugees-are-leaving-to-avoid-being-registered-b.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/10/16/a-leader-of-islamic-jihad-is-killed-in-a-shoot-
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/israeli-palestinian-conflict-p-a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jeni.md) _2017-08-25 03:16:58 (First version)_
-2. [ Israeli-Palestinian Conflict:: A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/israeli-palestinian-conflict-a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jeni.md) _2017-08-27 03:16:57 (Update)_
+1. [ Israeli-Palestinian Conflict: A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/israeli-palestinian-conflict-p-a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jeni.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict:: A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/israeli-palestinian-conflict-a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jeni.md) _2018-02-06 13:49:16 (Update)_
 2. [ A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jenin.md) _(Current version)_
 
 ### Related:

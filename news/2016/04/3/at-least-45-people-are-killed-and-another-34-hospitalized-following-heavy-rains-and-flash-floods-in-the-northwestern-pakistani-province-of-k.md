@@ -17,7 +17,7 @@ Several homes, standing crops and orchards also destroyed across the province.
 
 ### Changes:
 
-1. [2016 Khyber Pakhtunkhwa flood: At least 45 people are killed and another 34 hospitalized following heavy rains and flash floods in the northwestern Pakistani province of Khyber Pakhtunkhwa. ](/news/2016/04/3/2016-khyber-pakhtunkhwa-flood-at-least-45-people-are-killed-and-another-34-hospitalized-following-heavy-rains-and-flash-floods-in-the-north.md) _2017-08-27 03:45:28 (First version)_
+1. [2016 Khyber Pakhtunkhwa flood: At least 45 people are killed and another 34 hospitalized following heavy rains and flash floods in the northwestern Pakistani province of Khyber Pakhtunkhwa. ](/news/2016/04/3/2016-khyber-pakhtunkhwa-flood-at-least-45-people-are-killed-and-another-34-hospitalized-following-heavy-rains-and-flash-floods-in-the-north.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 45 people are killed and another 34 hospitalized following heavy rains and flash floods in the northwestern Pakistani province of Khyber Pakhtunkhwa. ](/news/2016/04/3/at-least-45-people-are-killed-and-another-34-hospitalized-following-heavy-rains-and-flash-floods-in-the-northwestern-pakistani-province-of-k.md) _(Current version)_
 
 ### Related:

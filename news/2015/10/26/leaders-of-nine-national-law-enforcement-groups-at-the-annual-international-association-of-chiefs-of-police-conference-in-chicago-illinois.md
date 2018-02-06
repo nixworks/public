@@ -17,7 +17,7 @@ Police chiefs from across the United States called on Monday for universal backg
 
 ### Changes:
 
-1. [Gun politics in the United States: Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/gun-politics-in-the-united-states-leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-pol.md) _2017-08-27 03:43:30 (First version)_
+1. [Gun politics in the United States: Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/gun-politics-in-the-united-states-leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-pol.md) _2018-02-06 13:49:28 (First version)_
 1. [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md) _(Current version)_
 
 ### Related:

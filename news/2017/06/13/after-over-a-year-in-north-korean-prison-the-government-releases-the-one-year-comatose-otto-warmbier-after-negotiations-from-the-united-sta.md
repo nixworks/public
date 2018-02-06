@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-go
 
 ### Changes:
 
-1. [After over a year in North Korean prison, Otto Warmbier was released after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-otto-warmbier-was-released-after-negotiations-from-the-united-states-department-of-state.md) _2017-06-13 19:30:08 (First version)_
-2. [North Korea-United States relations: After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/north-korea-united-states-relations-after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier.md) _2017-08-27 03:48:28 (Update)_
+1. [North Korea-United States relations: After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/north-korea-united-states-relations-after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier.md) _2018-02-06 13:49:30 (First version)_
+2. [After over a year in North Korean prison, Otto Warmbier was released after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-otto-warmbier-was-released-after-negotiations-from-the-united-states-department-of-state.md) _2018-02-06 13:49:30 (Update)_
 2. [After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier-after-negotiations-from-the-united-sta.md) _(Current version)_
 
 ### Related:

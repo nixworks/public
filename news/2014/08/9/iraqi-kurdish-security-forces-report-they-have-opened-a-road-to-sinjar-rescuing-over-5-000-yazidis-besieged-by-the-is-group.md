@@ -16,8 +16,8 @@ Kurdish forces tell Al Jazeera they have opened a road to Sinjar, reaching more 
 
 ### Changes:
 
-1. [2014 Iraq conflict:Iraqi Kurdish security forces report they have opened a road to Sinjar, rescuing over 5,000 Yazidis besieged by the IS group. ](/news/2014/08/9/2014-iraq-conflict-piraqi-kurdish-security-forces-report-they-have-opened-a-road-to-sinjar-rescuing-over-5-000-yazidis-besieged-by-the-is-g.md) _2017-08-25 03:40:49 (First version)_
-2. [2014 Iraq conflict:: Iraqi Kurdish security forces report they have opened a road to Sinjar, rescuing over 5,000 Yazidis besieged by the IS group. ](/news/2014/08/9/2014-iraq-conflict-iraqi-kurdish-security-forces-report-they-have-opened-a-road-to-sinjar-rescuing-over-5-000-yazidis-besieged-by-the-is.md) _2017-08-27 03:41:08 (Update)_
+1. [2014 Iraq conflict:Iraqi Kurdish security forces report they have opened a road to Sinjar, rescuing over 5,000 Yazidis besieged by the IS group. ](/news/2014/08/9/2014-iraq-conflict-piraqi-kurdish-security-forces-report-they-have-opened-a-road-to-sinjar-rescuing-over-5-000-yazidis-besieged-by-the-is-g.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Iraq conflict:: Iraqi Kurdish security forces report they have opened a road to Sinjar, rescuing over 5,000 Yazidis besieged by the IS group. ](/news/2014/08/9/2014-iraq-conflict-iraqi-kurdish-security-forces-report-they-have-opened-a-road-to-sinjar-rescuing-over-5-000-yazidis-besieged-by-the-is.md) _2018-02-06 13:49:26 (Update)_
 2. [Iraqi Kurdish security forces report they have opened a road to Sinjar, rescuing over 5,000 Yazidis besieged by the IS group. ](/news/2014/08/9/iraqi-kurdish-security-forces-report-they-have-opened-a-road-to-sinjar-rescuing-over-5-000-yazidis-besieged-by-the-is-group.md) _(Current version)_
 
 ### Related:

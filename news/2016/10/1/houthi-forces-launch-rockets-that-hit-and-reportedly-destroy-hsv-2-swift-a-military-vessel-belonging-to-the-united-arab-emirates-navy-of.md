@@ -17,8 +17,8 @@ A Saudi-led force in Yemen said it rescued passengers on Saturday from a vessel 
 
 ### Changes:
 
-1. [Houthi forces launch rockets that hit and reportedly destroy HSV-2 ''Swift'', a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab-emirates-navy.md) _2017-08-25 03:46:32 (First version)_
-2. [Yemeni Civil War: Houthi forces launch rockets that hit and reportedly destroy HSV-2 "Swift", a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/yemeni-civil-war-houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab.md) _2017-08-27 03:46:56 (Update)_
+1. [Yemeni Civil War: Houthi forces launch rockets that hit and reportedly destroy HSV-2 "Swift", a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/yemeni-civil-war-houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab.md) _2018-02-06 13:49:29 (First version)_
+2. [Houthi forces launch rockets that hit and reportedly destroy HSV-2 ''Swift'', a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab-emirates-navy.md) _2018-02-06 13:49:29 (Update)_
 2. [Houthi forces launch rockets that hit and reportedly destroy HSV-2 "Swift", a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab-emirates-navy-of.md) _(Current version)_
 
 ### Related:

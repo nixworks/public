@@ -17,8 +17,8 @@ Court sentences three members of band to two-year jail terms for performing prot
 
 ### Changes:
 
-1. [Russia:A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/russia-pa-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and.md) _2017-08-25 03:36:17 (First version)_
-2. [Russia:: A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/russia-a-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and.md) _2017-08-27 03:36:28 (Update)_
+1. [Russia:A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/russia-pa-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and.md) _2018-02-06 13:49:23 (First version)_
+2. [Russia:: A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/russia-a-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and.md) _2018-02-06 13:49:23 (Update)_
 2. [A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/a-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and-jails-th.md) _(Current version)_
 
 ### Related:

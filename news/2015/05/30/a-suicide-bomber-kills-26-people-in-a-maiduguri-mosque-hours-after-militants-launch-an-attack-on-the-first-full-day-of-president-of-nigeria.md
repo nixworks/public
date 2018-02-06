@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/30/a-suicide-bomber-kills-26-people-in-a-maiduguri
 
 ### Changes:
 
-1. [Boko Haram: A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/boko-haram-a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president.md) _2017-08-27 03:42:27 (First version)_
+1. [Boko Haram: A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/boko-haram-a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president-of-nigeria.md) _(Current version)_
 
 ### Related:

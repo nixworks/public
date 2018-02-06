@@ -15,9 +15,9 @@ Formats: [HTML](/news/2007/02/18/eight-u-s-troops-are-killed-and-14-wounded-in-a
 
 ### Changes:
 
-1. [ War in Afghanistan (2001-present): Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001apresent-p-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the.md) _2017-05-25 03:19:34 (First version)_
-2. [ War in Afghanistan (2001-present): Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001apresent-p-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u.md) _2017-08-25 03:19:14 (Update)_
-3. [ War in Afghanistan (2001-present):: Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001-present-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u.md) _2017-08-27 03:19:09 (Update)_
+1. [ War in Afghanistan (2001-present): Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001apresent-p-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Afghanistan (2001-present): Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001apresent-p-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u.md) _2018-02-06 13:49:17 (Update)_
+3. [ War in Afghanistan (2001-present):: Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001-present-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u.md) _2018-02-06 13:49:17 (Update)_
 3. [ Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u-s-led-coalition-has-said.md) _(Current version)_
 
 ### Related:

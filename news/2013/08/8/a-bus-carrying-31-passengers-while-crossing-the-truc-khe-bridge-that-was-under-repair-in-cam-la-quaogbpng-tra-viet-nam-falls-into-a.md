@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-
 
 ### Changes:
 
-1. [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (Quang Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaopsng-tra-viet-nam-falls-into-a-r.md) _2017-08-25 03:39:07 (First version)_
+1. [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (Quang Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaopsng-tra-viet-nam-falls-into-a-r.md) _2018-02-06 13:49:25 (First version)_
 1. [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (QuGBPng Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaogbpng-tra-viet-nam-falls-into-a.md) _(Current version)_
 
 ### Related:

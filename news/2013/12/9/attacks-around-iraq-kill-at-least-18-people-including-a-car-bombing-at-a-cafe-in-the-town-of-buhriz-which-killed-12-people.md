@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/9/attacks-around-iraq-kill-at-least-18-people-incl
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Attacks around Iraq kill at least 18 people, including a car bombing at a cafe in the town of Buhriz which killed 12 people. ](/news/2013/12/9/iraqi-insurgency-post-u-s-withdrawal-pattacks-around-iraq-kill-at-least-18-people-including-a-car-bombing-at-a-cafe-in-the-town-of-buhri.md) _2017-08-25 03:39:39 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Attacks around Iraq kill at least 18 people, including a car bombing at a cafe in the town of Buhriz which killed 12 people. ](/news/2013/12/9/iraqi-insurgency-post-u-s-withdrawal-attacks-around-iraq-kill-at-least-18-people-including-a-car-bombing-at-a-cafe-in-the-town-of-buhr.md) _2017-08-27 03:39:57 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Attacks around Iraq kill at least 18 people, including a car bombing at a cafe in the town of Buhriz which killed 12 people. ](/news/2013/12/9/iraqi-insurgency-post-u-s-withdrawal-pattacks-around-iraq-kill-at-least-18-people-including-a-car-bombing-at-a-cafe-in-the-town-of-buhri.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Attacks around Iraq kill at least 18 people, including a car bombing at a cafe in the town of Buhriz which killed 12 people. ](/news/2013/12/9/iraqi-insurgency-post-u-s-withdrawal-attacks-around-iraq-kill-at-least-18-people-including-a-car-bombing-at-a-cafe-in-the-town-of-buhr.md) _2018-02-06 13:49:25 (Update)_
 2. [Attacks around Iraq kill at least 18 people, including a car bombing at a cafe in the town of Buhriz which killed 12 people. ](/news/2013/12/9/attacks-around-iraq-kill-at-least-18-people-including-a-car-bombing-at-a-cafe-in-the-town-of-buhriz-which-killed-12-people.md) _(Current version)_
 
 ### Related:

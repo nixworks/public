@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sul
 
 ### Changes:
 
-1. [ MV ''Princess of the Stars disaster: Ship owner Sulpicio Lines ask a court to stop the Board of Marine Inquiry's investigation and sue the body for allegedly contributing to unfair negative publicity surrounding Sulpicio. ](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sulpicio-lines-ask-a-court-to-stop-the-board-of-marine-inquiry-s-investigation-and-sue-the.md) _2017-08-25 03:22:32 (First version)_
+1. [ MV ''Princess of the Stars disaster: Ship owner Sulpicio Lines ask a court to stop the Board of Marine Inquiry's investigation and sue the body for allegedly contributing to unfair negative publicity surrounding Sulpicio. ](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sulpicio-lines-ask-a-court-to-stop-the-board-of-marine-inquiry-s-investigation-and-sue-the.md) _2018-02-06 13:49:18 (First version)_
 1. [ MV "Princess of the Stars disaster: Ship owner Sulpicio Lines ask a court to stop the Board of Marine Inquiry's investigation and sue the body for allegedly contributing to unfair negative publicity surrounding Sulpicio. ](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sulpicio-lines-ask-a-court-to-stop-the-board-of-marine-inquiry-s-investigation-and-sue-the-b.md) _(Current version)_
 
 ### Related:

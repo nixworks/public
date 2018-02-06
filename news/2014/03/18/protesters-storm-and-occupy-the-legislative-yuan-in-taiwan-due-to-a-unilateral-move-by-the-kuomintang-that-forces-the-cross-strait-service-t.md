@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yua
 
 ### Changes:
 
-1. [Occupy Taiwan Legislature: Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/occupy-taiwan-legislature-protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces.md) _2017-08-27 03:40:28 (First version)_
+1. [Occupy Taiwan Legislature: Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/occupy-taiwan-legislature-protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces.md) _2018-02-06 13:49:25 (First version)_
 1. [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md) _(Current version)_
 
 ### Related:

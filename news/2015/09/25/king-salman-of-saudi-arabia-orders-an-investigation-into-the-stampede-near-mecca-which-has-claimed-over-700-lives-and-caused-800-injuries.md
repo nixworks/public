@@ -16,7 +16,7 @@ Saudi Arabia&#039;s King orders an investigation into a stampede at the annual H
 
 ### Changes:
 
-1. [2015 Hajj stampede: King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/2015-hajj-stampede-king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-ca.md) _2017-08-27 03:43:08 (First version)_
+1. [2015 Hajj stampede: King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/2015-hajj-stampede-king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-ca.md) _2018-02-06 13:49:27 (First version)_
 1. [King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-caused-800-injuries.md) _(Current version)_
 
 ### Related:

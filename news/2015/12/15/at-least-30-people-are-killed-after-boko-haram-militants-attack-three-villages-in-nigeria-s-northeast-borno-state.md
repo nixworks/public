@@ -16,7 +16,7 @@ Brutal weekend attacks on three villages by Boko Haram Islamists in the restive 
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/islamist-insurgency-in-nigeria-at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno.md) _2017-08-27 03:44:22 (First version)_
+1. [Islamist insurgency in Nigeria: At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/islamist-insurgency-in-nigeria-at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _(Current version)_
 
 ### Related:

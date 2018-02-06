@@ -16,8 +16,8 @@ At least seven people died after clashes broke out between security forces and w
 
 ### Changes:
 
-1. [7 people died in clashes between security forces and worshippers taking part in a religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/7-people-died-in-clashes-between-security-forces-and-worshippers-taking-part-in-a-religious-ceremony-marking-timkat-epiphany-in-woldiya-a.md) _2018-01-22 18:30:07 (First version)_
-2. [Seven people died in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-died-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md) _2018-01-22 21:30:08 (Update)_
+1. [Seven people died in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-died-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md) _2018-02-06 13:49:31 (First version)_
+2. [7 people died in clashes between security forces and worshippers taking part in a religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/7-people-died-in-clashes-between-security-forces-and-worshippers-taking-part-in-a-religious-ceremony-marking-timkat-epiphany-in-woldiya-a.md) _2018-02-06 13:49:31 (Update)_
 2. [Seven people die in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-die-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md) _(Current version)_
 
 ### Related:

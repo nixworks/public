@@ -16,8 +16,8 @@ Ling Jihua, a top aide to China&#8217;s former president, was also removed from 
 
 ### Changes:
 
-1. [Anti-corruption campaign in China: Ling Jihua is expelled from the Communist Party of China after an investigation and arrested to faced criminal charges. ](/news/2015/07/20/anti-corruption-campaign-in-china-p-ling-jihua-is-expelled-from-the-communist-party-of-china-after-an-investigation-and-arrested-to-faced-cr.md) _2017-08-25 03:42:26 (First version)_
-2. [Anti-corruption campaign in China:: Ling Jihua is expelled from the Communist Party of China after an investigation and arrested to faced criminal charges. ](/news/2015/07/20/anti-corruption-campaign-in-china-ling-jihua-is-expelled-from-the-communist-party-of-china-after-an-investigation-and-arrested-to-faced-cr.md) _2017-08-27 03:42:43 (Update)_
+1. [Anti-corruption campaign in China: Ling Jihua is expelled from the Communist Party of China after an investigation and arrested to faced criminal charges. ](/news/2015/07/20/anti-corruption-campaign-in-china-p-ling-jihua-is-expelled-from-the-communist-party-of-china-after-an-investigation-and-arrested-to-faced-cr.md) _2018-02-06 13:49:27 (First version)_
+2. [Anti-corruption campaign in China:: Ling Jihua is expelled from the Communist Party of China after an investigation and arrested to faced criminal charges. ](/news/2015/07/20/anti-corruption-campaign-in-china-ling-jihua-is-expelled-from-the-communist-party-of-china-after-an-investigation-and-arrested-to-faced-cr.md) _2018-02-06 13:49:27 (Update)_
 2. [ Ling Jihua is expelled from the Communist Party of China after an investigation and arrested to faced criminal charges. ](/news/2015/07/20/ling-jihua-is-expelled-from-the-communist-party-of-china-after-an-investigation-and-arrested-to-faced-criminal-charges.md) _(Current version)_
 
 ### Related:

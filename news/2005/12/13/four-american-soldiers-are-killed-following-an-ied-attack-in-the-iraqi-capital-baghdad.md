@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/12/13/four-american-soldiers-are-killed-following-an-
 
 ### Changes:
 
-1. [ Conflict in Iraq: Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-p-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _2017-08-25 03:17:15 (First version)_
-2. [ Conflict in Iraq:: Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _2017-08-27 03:17:15 (Update)_
+1. [ Conflict in Iraq: Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-p-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _2018-02-06 13:49:16 (Update)_
 2. [ Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ It also gives NASA a $19.5 billion budget, cancels a mission to capture an aster
 
 ### Changes:
 
-1. [Timeline of Mars exploration: U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/timeline-of-mars-exploration-u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _2017-08-27 03:47:57 (First version)_
+1. [Timeline of Mars exploration: U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/timeline-of-mars-exploration-u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ NATO has reopened informal talks with Russia for the first time in nearly two ye
 
 ### Changes:
 
-1. [NATO-Russia relations: NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today-s meeting did not change that." ](/news/2016/04/20/nato-russia-relations-nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general.md) _2017-08-27 03:45:42 (First version)_
+1. [NATO-Russia relations: NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today-s meeting did not change that." ](/news/2016/04/20/nato-russia-relations-nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general.md) _2018-02-06 13:49:28 (First version)_
 1. [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md) _(Current version)_
 
 ### Related:

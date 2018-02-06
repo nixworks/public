@@ -17,7 +17,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 ### Changes:
 
-1. [ Scientists at Florida State University conclude that ''Homo floresiensis'' is a separate species from ''Homo sapiens'' and belongs in the ''Homo'' genus through computer mapping of its brain. ](/news/2005/03/3/scientists-at-florida-state-university-conclude-that-homo-floresiensis-is-a-separate-species-from-homo-sapiens-and-belongs-in-the.md) _2017-08-25 03:15:44 (First version)_
+1. [ Scientists at Florida State University conclude that ''Homo floresiensis'' is a separate species from ''Homo sapiens'' and belongs in the ''Homo'' genus through computer mapping of its brain. ](/news/2005/03/3/scientists-at-florida-state-university-conclude-that-homo-floresiensis-is-a-separate-species-from-homo-sapiens-and-belongs-in-the.md) _2018-02-06 13:49:16 (First version)_
 1. [ Scientists at Florida State University conclude that "Homo floresiensis" is a separate species from "Homo sapiens" and belongs in the "Homo" genus through computer mapping of its brain. ](/news/2005/03/3/scientists-at-florida-state-university-conclude-that-homo-floresiensis-is-a-separate-species-from-homo-sapiens-and-belongs-in-the-homo.md) _(Current version)_
 
 ### Related:

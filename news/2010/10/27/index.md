@@ -21,27 +21,27 @@ _Context: Baghdad, Iraq_
 
 ##### Taliban
 ### [Security forces raid Taliban hideouts in northern Baghlan province of Afghanistan eliminating five insurgents. ](/news/2010/10/27/security-forces-raid-taliban-hideouts-in-northern-baghlan-province-of-afghanistan-eliminating-five-insurgents.md)
-_Context: Baghlan province, Afghanistan, Taliban_
+_Context: Baghlan province, Taliban, Afghanistan_
 
 ##### NATO
 ### [A NATO soldier is killed in a roadside bomb attack in Afghanistan, taking the 2010 death toll for allied troops in Afghanistan to 603. ](/news/2010/10/27/a-nato-soldier-is-killed-in-a-roadside-bomb-attack-in-afghanistan-taking-the-2010-death-toll-for-allied-troops-in-afghanistan-to-603.md)
-_Context: War in Afghanistan (2001-present), NATO, 2010 death toll_
+_Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
 
 ##### Hamas
 ### [An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by-israel-de.md)
-_Context:  Israeli, Israel Defense Forces, Hamas, Gaza Strip_
+_Context: Hamas,  Israeli, Israel Defense Forces, Gaza Strip_
 
 ##### Warner Bros.
 ### [Warner Bros. and New Line confirm that the "The Hobbit" films will be shot in New Zealand. ](/news/2010/10/27/warner-bros-and-new-line-confirm-that-the-the-hobbit-films-will-be-shot-in-new-zealand.md)
-_Context: New Zealand, The Hobbit, New Line, Warner Bros._
+_Context: New Line, The Hobbit, Warner Bros., New Zealand_
 
 ##### Wells Fargo
 ### [American bank Wells Fargo admits it made mistakes in 55,000 real estate foreclosure cases. ](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.md)
-_Context: housing, Wells Fargo, foreclose_
+_Context: Wells Fargo, housing, foreclose_
 
 ##### China
 ### [One sailor drowns and 12 are missing after a freighter carrying Chinese crew capsized off Taiwan. ](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.md)
-_Context: Taiwan, China_
+_Context: China, Taiwan_
 
 ##### Thailand
 ### [Floods in 18 Thai provinces kill 59 people. ](/news/2010/10/27/floods-in-18-thai-provinces-kill-59-people.md)
@@ -49,7 +49,7 @@ _Context: Thailand_
 
 ##### Mount Merapi volcanic eruption
 ### [Fatalities caused by the eruption of Mount Merapi in Indonesia's Yogyakarta province rises, with 28 people known to have been killed by hot ash. ](/news/2010/10/27/fatalities-caused-by-the-eruption-of-mount-merapi-in-indonesia-s-yogyakarta-province-rises-with-28-people-known-to-have-been-killed-by-hot.md)
-_Context: Yogyakarta, Indonesia, Mounts Merapi, Mount Merapi volcanic eruption_
+_Context: Mounts Merapi, Indonesia, Yogyakarta, Mount Merapi volcanic eruption_
 
 ##### tsunami
 ### [The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-people-still-missing.md)
@@ -69,11 +69,11 @@ _Context: North Korea, South Korea_
 
 ##### India
 ### [India and Malaysia announce that a free trade accord between them would come into effect in July 2011. ](/news/2010/10/27/india-and-malaysia-announce-that-a-free-trade-accord-between-them-would-come-into-effect-in-july-2011.md)
-_Context: Malaysia, India, free trade_
+_Context: India, Malaysia, free trade_
 
 ##### Transparency International
 ### [Transparency International releases its Corruption Perception Index showing Denmark, New Zealand and Singapore as the least corrupt nations and Somalia as the most corrupt. ](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.md)
-_Context: Somalia, New Zealand, Singapore, Denmark, Corruption Perception Index, Transparency International_
+_Context: Corruption Perception Index, Denmark, Somalia, Transparency International, New Zealand, Singapore_
 
 ##### Kimba Wood
 ### [Judge Kimba Wood of the United States District Court for the Southern District of New York shuts down filesharing service LimeWire. ](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.md)
@@ -105,7 +105,7 @@ Three days of mourning have been declared in Argentina after former president Ne
 
 ##### National Assembly
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: National Assembly, French President, Nicolas Sarkozy, France, recent strikes and demonstrations_
+_Context: National Assembly, recent strikes and demonstrations, Nicolas Sarkozy, French President, France_
 
 ##### Myanmar snub-nosed monkey
 ### [Scientists announce the discovery of the Myanmar snub-nosed monkey. ](/news/2010/10/27/scientists-announce-the-discovery-of-the-myanmar-snub-nosed-monkey.md)

@@ -17,7 +17,7 @@ Europe has had a number of important elections over the past year, but for the E
 
 ### Changes:
 
-1. [2017 French presidential election: Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/2017-french-presidential-election-voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for.md) _2017-08-27 03:48:13 (First version)_
+1. [2017 French presidential election: Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/2017-french-presidential-election-voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for-the-second-round.md) _(Current version)_
 
 ### Related:

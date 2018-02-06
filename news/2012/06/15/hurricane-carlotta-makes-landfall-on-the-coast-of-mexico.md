@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/06/15/hurricane-carlotta-makes-landfall-on-the-coast-
 
 ### Changes:
 
-1. [2012 Pacific hurricane season:Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-phurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _2017-08-25 03:35:53 (First version)_
-2. [2012 Pacific hurricane season:: Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _2017-08-27 03:36:04 (Update)_
+1. [2012 Pacific hurricane season:Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-phurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Pacific hurricane season:: Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _2018-02-06 13:49:23 (Update)_
 2. [Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md) _(Current version)_
 
 ### Related:

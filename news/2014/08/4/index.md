@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/4/index.html)  [JSON](2014/08/4/index.json)  [XML](2014/
 
 ##### Yasynuvata
 ### [Ukrainian government forces recapture control of Yasynuvata from pro-Russian insurgents; government troops have now all but encircled the rebels' second-largest stronghold of Luhansk, and rebels declared a "state of siege" in Donetsk. ](/news/2014/08/4/ukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents-government-troops-have-now-all-but-encircled-the-re.md)
-_Context: Donetsk, Luhansk, Yasynuvata_
+_Context: Yasynuvata, Luhansk, Donetsk_
 
 ##### 2014 Israel-Gaza conflict
 ### [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md)
@@ -15,7 +15,7 @@ Mughrabi and Ori Lewis
 ### [The Lebanese Army states that 14 soldiers have been killed and 22 are missing after alleged clashes with Islamic State of Iraq and the Levant fighters on the Syrian border. ](/news/2014/08/4/the-lebanese-army-states-that-14-soldiers-have-been-killed-and-22-are-missing-after-alleged-clashes-with-islamic-state-of-iraq-and-the-levan.md)
 BEIRUT (Reuters) - The Lebanese army said on Monday 22 of its soldiers were missing and another 14 had been killed following clashes with Islamist militants at the Syrian border. In a statement, the army said another 86 soldiers had been injured in the fighting in Arsal, where militant Islamists lau...
 
-##### British
+##### United Kingdom
 ### [The United Kingdom commemorates the 100th anniversary of its declaration of war against Germany in the First World War. ](/news/2014/08/4/the-united-kingdom-commemorates-the-100th-anniversary-of-its-declaration-of-war-against-germany-in-the-first-world-war.md)
 It is a date that marks the start of events that would go on to change the course of millions of lives – tomorrow is the 100th anniversary of the day Britain declared war on Germany and the First World War began.
 
@@ -41,7 +41,7 @@ A ferry with about 200 passengers on board capsizes in a river south of the Bang
 
 ##### 2014 West Africa Ebola outbreak
 ### [The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md)
-_Context: 2014 West Africa Ebola outbreak, Ebola virus, World Health Organisation_
+_Context: World Health Organisation, Ebola virus, 2014 West Africa Ebola outbreak_
 
 ##### US-Africa Leaders Summit
 ### [The first US-Africa Leaders Summit begins today in Washington, D.C. ](/news/2014/08/4/the-first-usaafrica-leaders-summit-begins-today-in-washington-d-c.md)

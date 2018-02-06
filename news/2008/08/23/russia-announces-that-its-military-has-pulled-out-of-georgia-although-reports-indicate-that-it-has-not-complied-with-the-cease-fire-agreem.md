@@ -21,8 +21,8 @@ Georgian Army units appeared in Gori for the first time since they retreated und
 
 ### Changes:
 
-1. [ Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-with-the-cease-fire-agree.md) _2017-08-25 03:22:45 (First version)_
-2. [ 2008 South Ossetia war: Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/2008-south-ossetia-war-russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-wi.md) _2017-08-27 03:22:39 (Update)_
+1. [ Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-with-the-cease-fire-agree.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war: Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/2008-south-ossetia-war-russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-wi.md) _2018-02-06 13:49:18 (Update)_
 2. [ Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-with-the-cease-fire-agreem.md) _(Current version)_
 
 ### Related:

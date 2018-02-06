@@ -16,7 +16,7 @@ Nigeria, Cameroon and Niger claim to have made gains in pushing back or capturin
 
 ### Changes:
 
-1. [Boko Haram insurgency: Nigeria regains the key town of Monguno from Boko Haram. ](/news/2015/02/16/boko-haram-insurgency-nigeria-regains-the-key-town-of-monguno-from-boko-haram.md) _2017-08-27 03:41:57 (First version)_
+1. [Boko Haram insurgency: Nigeria regains the key town of Monguno from Boko Haram. ](/news/2015/02/16/boko-haram-insurgency-nigeria-regains-the-key-town-of-monguno-from-boko-haram.md) _2018-02-06 13:49:26 (First version)_
 1. [Nigeria regains the key town of Monguno from Boko Haram. ](/news/2015/02/16/nigeria-regains-the-key-town-of-monguno-from-boko-haram.md) _(Current version)_
 
 ### Related:

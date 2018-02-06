@@ -16,7 +16,7 @@ Pakistani troops kill 80 militants in heavy clashes in the country&#039;s lawles
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistan Army claims to have killed 80 Tehrik-i-Taliban Pakistan fighters in fighting in Khyber Pakhtunkhwa in recent days while the Taliban claims to have killed at least six soldiers. ](/news/2015/03/22/war-in-north-west-pakistan-the-pakistan-army-claims-to-have-killed-80-tehrik-i-taliban-pakistan-fighters-in-fighting-in-khyber-pakhtunkhwa.md) _2017-08-27 03:42:07 (First version)_
+1. [War in North-West Pakistan: The Pakistan Army claims to have killed 80 Tehrik-i-Taliban Pakistan fighters in fighting in Khyber Pakhtunkhwa in recent days while the Taliban claims to have killed at least six soldiers. ](/news/2015/03/22/war-in-north-west-pakistan-the-pakistan-army-claims-to-have-killed-80-tehrik-i-taliban-pakistan-fighters-in-fighting-in-khyber-pakhtunkhwa.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistan Army claims to have killed 80 Tehrik-i-Taliban Pakistan fighters in fighting in Khyber Pakhtunkhwa in recent days while the Taliban claims to have killed at least six soldiers. ](/news/2015/03/22/the-pakistan-army-claims-to-have-killed-80-tehrik-i-taliban-pakistan-fighters-in-fighting-in-khyber-pakhtunkhwa-in-recent-days-while-the-tal.md) _(Current version)_
 
 ### Related:

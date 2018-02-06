@@ -13,7 +13,7 @@ _Context: Colombian conflict, FARC_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md)
-_Context: Kerbala, Shiite, suicide bombing, Iraqi Civil War (2014-present)_
+_Context: suicide bombing, Shiite, Kerbala, Iraqi Civil War (2014-present)_
 
 ##### European migrant crisis
 ### [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard. ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md)
@@ -37,7 +37,7 @@ Manila Archbishop Luis Antonio Cardinal Tagle denounces not only extrajudicial k
 
 ##### Wu Yingjie
 ### [Wu Yingjie becomes the Communist Party Secretary of the Tibet Autonomous Region, replacing Chen Quanguo, who will assume another post.Chen Hao becomes Communist Party Secretary of Yunnan, replacing Li Jiheng, who will assume another post.Du Jiahao becomes Communist Party Secretary of Hunan, replacing Xu Shousheng. ](/news/2016/08/28/wu-yingjie-becomes-the-communist-party-secretary-of-the-tibet-autonomous-region-replacing-chen-quanguo-who-will-assume-another-post-chen-h.md)
-_Context: Yunnan, Chen Quanguo, Xu Shousheng, Tibet Autonomous Region, Hunan, Communist Party Secretary, Chen Hao, Wu Yingjie, Du Jiahao, Li Jiheng_
+_Context: Li Jiheng, Wu Yingjie, Xu Shousheng, Chen Hao, Hunan, Chen Quanguo, Yunnan, Tibet Autonomous Region, Du Jiahao, Communist Party Secretary_
 
 ##### German Economy Ministry
 ### [German economy minister Sigmar Gabriel claims the TTIP negotiations "have de facto failed", citing a general lack of progress. The U.S. and the European Commission have no immediate response to his comment. ](/news/2016/08/28/german-economy-minister-sigmar-gabriel-claims-the-ttip-negotiations-have-de-facto-failed-citing-a-general-lack-of-progress-the-u-s-and.md)
@@ -45,7 +45,7 @@ BERLIN (AP) — Free trade talks between the European Union and the United State
 
 ##### Gabonese presidential election, 2016
 ### [Both President Ali Bongo Ondimba and his main challenger, former Foreign Minister Jean Ping, say they won yesterday's election for a seven-year term as president. Official results are expected Tuesday. ](/news/2016/08/28/both-president-ali-bongo-ondimba-and-his-main-challenger-former-foreign-minister-jean-ping-say-they-won-yesterday-s-election-for-a-seven-y.md)
-_Context: Ali Bongo Ondimba, President, Jean Ping, Gabonese presidential election, 2016, Foreign Minister_
+_Context: Foreign Minister, Ali Bongo Ondimba, Gabonese presidential election, 2016, President, Jean Ping_
 
 ##### ISRO
 ### [The Indian Space agency ISRO successfully tests its Scramjet engines. Two scramjet engines were mounted alongside of a two-stage, solid fueled rocket called Advanced Technology Vehicle (ATV), which is an advanced sounding rocket. Scramjet engines were then ignited when ATV achieved a speed of Mach 6 (7350 km-hr) at an altitude of 20 km. ](/news/2016/08/28/the-indian-space-agency-isro-successfully-tests-its-scramjet-engines-two-scramjet-engines-were-mounted-alongside-of-a-two-stage-solid-fuel.md)

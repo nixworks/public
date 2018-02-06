@@ -16,7 +16,7 @@ Typhoon Nida has hit southeast China after impacting the Philippines.
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Nida makes landfall near Hong Kong with Category 1 hurricane strength. ](/news/2016/08/2/2016-pacific-typhoon-season-typhoon-nida-makes-landfall-near-hong-kong-with-category-1-hurricane-strength.md) _2017-08-27 03:46:35 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Nida makes landfall near Hong Kong with Category 1 hurricane strength. ](/news/2016/08/2/2016-pacific-typhoon-season-typhoon-nida-makes-landfall-near-hong-kong-with-category-1-hurricane-strength.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Nida makes landfall near Hong Kong with Category 1 hurricane strength. ](/news/2016/08/2/typhoon-nida-makes-landfall-near-hong-kong-with-category-1-hurricane-strength.md) _(Current version)_
 
 ### Related:

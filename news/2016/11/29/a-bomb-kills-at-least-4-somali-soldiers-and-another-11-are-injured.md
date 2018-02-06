@@ -16,7 +16,7 @@ Islamist insurgents killed four pro-government Somali soldiers and injured 11 ot
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A bomb kills at least 4 Somali soldiers and another 11 are injured. ](/news/2016/11/29/war-in-somalia-2009-present-a-bomb-kills-at-least-4-somali-soldiers-and-another-11-are-injured.md) _2017-08-27 03:47:20 (First version)_
+1. [War in Somalia (2009-present): A bomb kills at least 4 Somali soldiers and another 11 are injured. ](/news/2016/11/29/war-in-somalia-2009-present-a-bomb-kills-at-least-4-somali-soldiers-and-another-11-are-injured.md) _2018-02-06 13:49:29 (First version)_
 1. [A bomb kills at least 4 Somali soldiers and another 11 are injured. ](/news/2016/11/29/a-bomb-kills-at-least-4-somali-soldiers-and-another-11-are-injured.md) _(Current version)_
 
 ### Related:

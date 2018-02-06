@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/11/27/malian-forces-arrest-two-men-in-their-early-30s
 
 ### Changes:
 
-1. [Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. ](/news/2015/11/27/malian-forces-arrest-two-men-in-their-early-30s-linked-to-a-cell-phone-found-at-the-scene-of-last-week-s-deadly-hotel-attack-no-details.md) _2017-08-25 03:43:44 (First version)_
-2. [2015 Bamako hotel attack: Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. ](/news/2015/11/27/2015-bamako-hotel-attack-malian-forces-arrest-two-men-in-their-early-30s-linked-to-a-cell-phone-found-at-the-scene-of-last-week-s-deadly-ho.md) _2017-08-27 03:44:05 (Update)_
+1. [Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. ](/news/2015/11/27/malian-forces-arrest-two-men-in-their-early-30s-linked-to-a-cell-phone-found-at-the-scene-of-last-week-s-deadly-hotel-attack-no-details.md) _2018-02-06 13:49:28 (First version)_
+2. [2015 Bamako hotel attack: Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. ](/news/2015/11/27/2015-bamako-hotel-attack-malian-forces-arrest-two-men-in-their-early-30s-linked-to-a-cell-phone-found-at-the-scene-of-last-week-s-deadly-ho.md) _2018-02-06 13:49:28 (Update)_
 2. [Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. ](/news/2015/11/27/malian-forces-arrest-two-men-in-their-early-30s-linked-to-a-cell-phone-found-at-the-scene-of-last-week-s-deadly-hotel-attack-no-details-are.md) _(Current version)_
 
 ### Related:

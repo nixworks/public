@@ -25,7 +25,7 @@ At least 10 people are killed after Syrian police open fire on people protesting
 
 ### Changes:
 
-1. [Arab Spring: Protest in Jordan sees 500 March in Jordan's capital Amman demanding the removal of prime minister Marouf al-Bakhit and other reforms. ](/news/2011/03/24/arab-spring-protest-in-jordan-sees-500-march-in-jordan-s-capital-amman-demanding-the-removal-of-prime-minister-marouf-al-bakhit-and-other-r.md) _2017-08-27 03:32:47 (First version)_
+1. [Arab Spring: Protest in Jordan sees 500 March in Jordan's capital Amman demanding the removal of prime minister Marouf al-Bakhit and other reforms. ](/news/2011/03/24/arab-spring-protest-in-jordan-sees-500-march-in-jordan-s-capital-amman-demanding-the-removal-of-prime-minister-marouf-al-bakhit-and-other-r.md) _2018-02-06 13:49:22 (First version)_
 1. [Protest in Jordan sees 500 March in Jordan's capital Amman demanding the removal of prime minister Marouf al-Bakhit and other reforms. ](/news/2011/03/24/protest-in-jordan-sees-500-march-in-jordan-s-capital-amman-demanding-the-removal-of-prime-minister-marouf-al-bakhit-and-other-reforms.md) _(Current version)_
 
 ### Related:

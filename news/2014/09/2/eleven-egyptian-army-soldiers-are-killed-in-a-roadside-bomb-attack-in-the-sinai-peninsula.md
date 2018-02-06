@@ -16,8 +16,8 @@ Officials say bomb attack killed 11 soldiers in region, where attacks on army ha
 
 ### Changes:
 
-1. [Sinai insurgency:Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-peleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _2017-08-25 03:40:55 (First version)_
-2. [Sinai insurgency:: Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _2017-08-27 03:41:14 (Update)_
+1. [Sinai insurgency:Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-peleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinai insurgency:: Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _2018-02-06 13:49:26 (Update)_
 2. [Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md) _(Current version)_
 
 ### Related:

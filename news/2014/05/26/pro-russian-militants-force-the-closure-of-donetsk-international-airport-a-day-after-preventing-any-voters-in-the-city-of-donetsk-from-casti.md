@@ -17,7 +17,7 @@ DONETSK, Ukraine (Reuters) - Ukrainian government warplanes carried out airstrik
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Pro-Russian militants force the closure of Donetsk International Airport a day after preventing any voters in the city of Donetsk from casting a vote in the Ukrainian presidential election. ](/news/2014/05/26/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-force-the-closure-of-donetsk-international-airport-a-day-after-preventing-any-vote.md) _2017-08-27 03:40:45 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Pro-Russian militants force the closure of Donetsk International Airport a day after preventing any voters in the city of Donetsk from casting a vote in the Ukrainian presidential election. ](/news/2014/05/26/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-force-the-closure-of-donetsk-international-airport-a-day-after-preventing-any-vote.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian militants force the closure of Donetsk International Airport a day after preventing any voters in the city of Donetsk from casting a vote in the Ukrainian presidential election. ](/news/2014/05/26/pro-russian-militants-force-the-closure-of-donetsk-international-airport-a-day-after-preventing-any-voters-in-the-city-of-donetsk-from-casti.md) _(Current version)_
 
 ### Related:

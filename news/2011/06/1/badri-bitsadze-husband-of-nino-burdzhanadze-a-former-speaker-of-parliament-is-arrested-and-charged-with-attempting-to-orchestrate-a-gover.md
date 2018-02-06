@@ -11,7 +11,7 @@ Formats: [HTML](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-fo
 
 ### Changes:
 
-1. [Badri Bitsadze, husband of Nino Burdzhanadze, a former Speaker of Parliament, is arrested and charged with attempting to orchestrate a government takeover using paramilitary groups during the 2011 Georgian protests.](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-former-speaker-of-parliament-is-arrested-and-charged-with-attempting-to-orchestrate-a-gove.md) _2017-08-25 03:33:20 (First version)_
+1. [Badri Bitsadze, husband of Nino Burdzhanadze, a former Speaker of Parliament, is arrested and charged with attempting to orchestrate a government takeover using paramilitary groups during the 2011 Georgian protests.](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-former-speaker-of-parliament-is-arrested-and-charged-with-attempting-to-orchestrate-a-gove.md) _2018-02-06 13:49:22 (First version)_
 1. [Badri Bitsadze, husband of Nino Burdzhanadze, a former Speaker of Parliament, is arrested and charged with attempting to orchestrate a government takeover using paramilitary groups during the 2011 Georgian protests.](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-former-speaker-of-parliament-is-arrested-and-charged-with-attempting-to-orchestrate-a-gover.md) _(Current version)_
 
 ### Related:

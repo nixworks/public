@@ -16,7 +16,7 @@ Disney boss Bob Iger has become the latest chief executive to quit Donald Trumpâ
 
 ### Changes:
 
-1. [Disney CEO Bob Iger joins Elon Musk in resigning from President Trump's advisory councils in response to the decision to withdraw the U.S. from the Paris Agreement. ](/news/2017/06/2/disney-ceo-bob-iger-joins-elon-musk-in-resigning-from-president-trump-s-advisory-councils-in-response-to-the-decision-to-withdraw-the-u-s-f.md) _2017-06-02 23:30:06 (First version)_
+1. [Disney CEO Bob Iger joins Elon Musk in resigning from President Trump's advisory councils in response to the decision to withdraw the U.S. from the Paris Agreement. ](/news/2017/06/2/disney-ceo-bob-iger-joins-elon-musk-in-resigning-from-president-trump-s-advisory-councils-in-response-to-the-decision-to-withdraw-the-u-s-f.md) _2018-02-06 13:49:30 (First version)_
 1. [Disney CEO Bob Iger joins Elon Musk in resigning from President Trump's advisory councils in response to Trump's decision to withdraw the U.S. from the Paris Agreement. ](/news/2017/06/2/disney-ceo-bob-iger-joins-elon-musk-in-resigning-from-president-trump-s-advisory-councils-in-response-to-trump-s-decision-to-withdraw-the-u.md) _(Current version)_
 
 ### Related:

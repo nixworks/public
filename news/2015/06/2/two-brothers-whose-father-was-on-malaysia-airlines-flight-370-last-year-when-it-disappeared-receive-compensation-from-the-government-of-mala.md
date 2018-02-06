@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/2/two-brothers-whose-father-was-on-malaysia-airlin
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. ](/news/2015/06/2/malaysia-airlines-flight-370-two-brothers-whose-father-was-on-malaysia-airlines-flight-370-last-year-when-it-disappeared-receive-compensati.md) _2017-08-27 03:42:27 (First version)_
+1. [Malaysia Airlines Flight 370: Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. ](/news/2015/06/2/malaysia-airlines-flight-370-two-brothers-whose-father-was-on-malaysia-airlines-flight-370-last-year-when-it-disappeared-receive-compensati.md) _2018-02-06 13:49:27 (First version)_
 1. [Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. ](/news/2015/06/2/two-brothers-whose-father-was-on-malaysia-airlines-flight-370-last-year-when-it-disappeared-receive-compensation-from-the-government-of-mala.md) _(Current version)_
 
 ### Related:

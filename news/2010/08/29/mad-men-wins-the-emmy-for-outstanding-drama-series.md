@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-ser
 
 ### Changes:
 
-1. [62nd Primetime Emmy Awards: "Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/62nd-primetime-emmy-awards-mad-men-wins-the-emmy-for-outstanding-drama-series.md) _2017-08-27 03:29:48 (First version)_
+1. [62nd Primetime Emmy Awards: "Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/62nd-primetime-emmy-awards-mad-men-wins-the-emmy-for-outstanding-drama-series.md) _2018-02-06 13:49:20 (First version)_
 1. ["Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-series.md) _(Current version)_
 
 ### Related:

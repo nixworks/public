@@ -17,7 +17,7 @@ Actor Paul Walker, best known for the Fast and Furious movies, is killed in a fi
 
 ### Changes:
 
-1. [American actor Paul Walker (''The Fast and the Furious'' franchise) is one of two killed in a car accident after attending a charity event in Santa Clarita, California. ](/news/2013/11/30/american-actor-paul-walker-the-fast-and-the-furious-franchise-is-one-of-two-killed-in-a-car-accident-after-attending-a-charity-event-i.md) _2017-08-25 03:39:36 (First version)_
+1. [American actor Paul Walker (''The Fast and the Furious'' franchise) is one of two killed in a car accident after attending a charity event in Santa Clarita, California. ](/news/2013/11/30/american-actor-paul-walker-the-fast-and-the-furious-franchise-is-one-of-two-killed-in-a-car-accident-after-attending-a-charity-event-i.md) _2018-02-06 13:49:25 (First version)_
 1. [American actor Paul Walker ("The Fast and the Furious" franchise) is one of two killed in a car accident after attending a charity event in Santa Clarita, California. ](/news/2013/11/30/american-actor-paul-walker-the-fast-and-the-furious-franchise-is-one-of-two-killed-in-a-car-accident-after-attending-a-charity-event-in.md) _(Current version)_
 
 ### Related:

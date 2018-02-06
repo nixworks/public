@@ -17,7 +17,7 @@ Residents tell of the horror of the major bushfire burning in South Australia, w
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: A bushfire burns out of control near the South Australian town of Wasleys with authorities warning of significant risk to lives and property. Two deaths have been confirmed with another person feared dead. ](/news/2015/11/25/2015-16-australian-bushfire-season-a-bushfire-burns-out-of-control-near-the-south-australian-town-of-wasleys-with-authorities-warning-of.md) _2017-08-27 03:44:03 (First version)_
+1. [2015-16 Australian bushfire season: A bushfire burns out of control near the South Australian town of Wasleys with authorities warning of significant risk to lives and property. Two deaths have been confirmed with another person feared dead. ](/news/2015/11/25/2015-16-australian-bushfire-season-a-bushfire-burns-out-of-control-near-the-south-australian-town-of-wasleys-with-authorities-warning-of.md) _2018-02-06 13:49:28 (First version)_
 1. [A bushfire burns out of control near the South Australian town of Wasleys with authorities warning of significant risk to lives and property. Two deaths have been confirmed with another person feared dead. ](/news/2015/11/25/a-bushfire-burns-out-of-control-near-the-south-australian-town-of-wasleys-with-authorities-warning-of-significant-risk-to-lives-and-property.md) _(Current version)_
 
 ### Related:

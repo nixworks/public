@@ -16,7 +16,7 @@ A car bomb in southern Baghdad kills at least 48 people - the third such blast i
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/iraqi-civil-war-2014-present-a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-respon.md) _2017-08-27 03:47:49 (First version)_
+1. [Iraqi Civil War (2014-present): A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/iraqi-civil-war-2014-present-a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-respon.md) _2018-02-06 13:49:30 (First version)_
 1. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _(Current version)_
 
 ### Related:

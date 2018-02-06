@@ -18,8 +18,8 @@ Robert Mugabe has been declared the run-away winner of Zimbabwe&#39;s controvers
 
 ### Changes:
 
-1. [Zimbabwean general election, 2013:Robert Mugabe is declared the run-away winner of Zimbabwe's controversial presidential election by a 61% majority, extending his 33-year rule. ](/news/2013/08/3/zimbabwean-general-election-2013-probert-mugabe-is-declared-the-run-away-winner-of-zimbabwe-s-controversial-presidential-election-by-a-61.md) _2017-08-25 03:39:05 (First version)_
-2. [Zimbabwean general election, 2013:: Robert Mugabe is declared the run-away winner of Zimbabwe's controversial presidential election by a 61% majority, extending his 33-year rule. ](/news/2013/08/3/zimbabwean-general-election-2013-robert-mugabe-is-declared-the-run-away-winner-of-zimbabwe-s-controversial-presidential-election-by-a-61.md) _2017-08-27 03:39:21 (Update)_
+1. [Zimbabwean general election, 2013:: Robert Mugabe is declared the run-away winner of Zimbabwe's controversial presidential election by a 61% majority, extending his 33-year rule. ](/news/2013/08/3/zimbabwean-general-election-2013-robert-mugabe-is-declared-the-run-away-winner-of-zimbabwe-s-controversial-presidential-election-by-a-61.md) _2018-02-06 13:49:25 (First version)_
+2. [Zimbabwean general election, 2013:Robert Mugabe is declared the run-away winner of Zimbabwe's controversial presidential election by a 61% majority, extending his 33-year rule. ](/news/2013/08/3/zimbabwean-general-election-2013-probert-mugabe-is-declared-the-run-away-winner-of-zimbabwe-s-controversial-presidential-election-by-a-61.md) _2018-02-06 13:49:25 (Update)_
 2. [Robert Mugabe is declared the run-away winner of Zimbabwe's controversial presidential election by a 61% majority, extending his 33-year rule. ](/news/2013/08/3/robert-mugabe-is-declared-the-run-away-winner-of-zimbabwe-s-controversial-presidential-election-by-a-61-majority-extending-his-33-year-rul.md) _(Current version)_
 
 ### Related:

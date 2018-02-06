@@ -16,7 +16,7 @@ Two men who were presumed dead when a camper was swept away in rushing waters du
 
 ### Changes:
 
-1. [ 2016 West Virginia flood: Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. ](/news/2016/06/27/2016-west-virginia-flood-two-men-initially-thought-to-have-died-when-a-camper-was-swept-away-in-greenbrier-county-are-found-alive-lowerin.md) _2017-08-27 03:46:21 (First version)_
+1. [ 2016 West Virginia flood: Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. ](/news/2016/06/27/2016-west-virginia-flood-two-men-initially-thought-to-have-died-when-a-camper-was-swept-away-in-greenbrier-county-are-found-alive-lowerin.md) _2018-02-06 13:49:29 (First version)_
 1. [ Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. ](/news/2016/06/27/two-men-initially-thought-to-have-died-when-a-camper-was-swept-away-in-greenbrier-county-are-found-alive-lowering-the-death-toll-from-the.md) _(Current version)_
 
 ### Related:

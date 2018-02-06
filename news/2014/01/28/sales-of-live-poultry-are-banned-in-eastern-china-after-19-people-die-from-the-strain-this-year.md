@@ -17,8 +17,8 @@ AUTHORITIES in eastern China have banned live poultry sales after an increase in
 
 ### Changes:
 
-1. [Bird flu in China:Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/bird-flu-in-china-psales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md) _2017-08-25 03:39:56 (First version)_
-2. [Bird flu in China:: Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/bird-flu-in-china-sales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md) _2017-08-27 03:40:15 (Update)_
+1. [Bird flu in China:: Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/bird-flu-in-china-sales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md) _2018-02-06 13:49:25 (First version)_
+2. [Bird flu in China:Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/bird-flu-in-china-psales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md) _2018-02-06 13:49:25 (Update)_
 2. [Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/sales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md) _(Current version)_
 
 ### Related:

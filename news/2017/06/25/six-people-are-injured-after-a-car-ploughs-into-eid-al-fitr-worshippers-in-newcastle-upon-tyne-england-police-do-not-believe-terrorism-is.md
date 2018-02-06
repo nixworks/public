@@ -17,9 +17,9 @@ Six people were injured on Sunday after a car mounted a pavement outside a sport
 
 ### Changes:
 
-1. [Six people are injured when a car ploughs into Eid al-Fitr worshippers in Newcastle, England. ](/news/2017/06/25/six-people-are-injured-when-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-england.md) _2017-06-25 18:30:06 (First version)_
-2. [Six people are injured after a car ploughs into Eid al-Fitr worshippers in Newcastle upon Tyne, England. ](/news/2017/06/25/six-people-are-injured-after-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-upon-tyne-england.md) _2017-06-26 00:30:07 (Update)_
-3. [2017 Newcastle incident: Six people are injured after a car ploughs into Eid al-Fitr worshippers in Newcastle upon Tyne, England. Police do not believe terrorism is involved. ](/news/2017/06/25/2017-newcastle-incident-six-people-are-injured-after-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-upon-tyne-england-police-do.md) _2017-08-27 03:48:33 (Update)_
+1. [Six people are injured when a car ploughs into Eid al-Fitr worshippers in Newcastle, England. ](/news/2017/06/25/six-people-are-injured-when-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-england.md) _2018-02-06 13:49:30 (First version)_
+2. [Six people are injured after a car ploughs into Eid al-Fitr worshippers in Newcastle upon Tyne, England. ](/news/2017/06/25/six-people-are-injured-after-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-upon-tyne-england.md) _2018-02-06 13:49:30 (Update)_
+3. [2017 Newcastle incident: Six people are injured after a car ploughs into Eid al-Fitr worshippers in Newcastle upon Tyne, England. Police do not believe terrorism is involved. ](/news/2017/06/25/2017-newcastle-incident-six-people-are-injured-after-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-upon-tyne-england-police-do.md) _2018-02-06 13:49:30 (Update)_
 3. [Six people are injured after a car ploughs into Eid al-Fitr worshippers in Newcastle upon Tyne, England. Police do not believe terrorism is involved. ](/news/2017/06/25/six-people-are-injured-after-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-upon-tyne-england-police-do-not-believe-terrorism-is.md) _(Current version)_
 
 ### Related:

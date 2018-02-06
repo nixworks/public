@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that
 
 ### Changes:
 
-1. [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-s.md) _2017-08-25 03:31:12 (First version)_
+1. [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-s.md) _2018-02-06 13:49:21 (First version)_
 1. [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-so.md) _(Current version)_
 
 ### Related:

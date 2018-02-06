@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/14/at-least-two-people-are-killed-and-12-injured-a
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/war-in-afghanistan-2015-present-at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-i.md) _2017-08-27 03:46:02 (First version)_
+1. [War in Afghanistan (2015-present): At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/war-in-afghanistan-2015-present-at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-i.md) _2018-02-06 13:49:29 (First version)_
 1. [At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-in-helmand-province.md) _(Current version)_
 
 ### Related:

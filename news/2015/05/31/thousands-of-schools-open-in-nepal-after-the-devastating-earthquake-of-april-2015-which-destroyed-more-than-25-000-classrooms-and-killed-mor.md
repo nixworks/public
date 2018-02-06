@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-de
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/april-2015-nepal-earthquake-thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25.md) _2017-08-27 03:42:27 (First version)_
+1. [April 2015 Nepal earthquake: Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/april-2015-nepal-earthquake-thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25.md) _2018-02-06 13:49:27 (First version)_
 1. [Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25-000-classrooms-and-killed-mor.md) _(Current version)_
 
 ### Related:

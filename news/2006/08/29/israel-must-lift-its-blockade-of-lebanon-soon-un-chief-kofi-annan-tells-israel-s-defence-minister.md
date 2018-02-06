@@ -16,8 +16,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/2006-israel-lebanon-conflict-p-israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md) _2017-08-25 03:18:17 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/2006-israel-lebanon-conflict-israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md) _2017-08-27 03:18:13 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/2006-israel-lebanon-conflict-p-israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/2006-israel-lebanon-conflict-israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md) _(Current version)_
 
 ### Related:

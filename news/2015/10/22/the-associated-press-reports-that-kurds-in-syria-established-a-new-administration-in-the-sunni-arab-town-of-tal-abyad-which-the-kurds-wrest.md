@@ -17,7 +17,7 @@ At least 13 people including medical staff were killed when Russian warplanes st
 
 ### Changes:
 
-1. [Syrian Civil War: The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. ](/news/2015/10/22/syrian-civil-war-the-associated-press-reports-that-kurds-in-syria-established-a-new-administration-in-the-sunni-arab-town-of-tal-abyad-whi.md) _2017-08-27 03:43:28 (First version)_
+1. [Syrian Civil War: The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. ](/news/2015/10/22/syrian-civil-war-the-associated-press-reports-that-kurds-in-syria-established-a-new-administration-in-the-sunni-arab-town-of-tal-abyad-whi.md) _2018-02-06 13:49:28 (First version)_
 1. [The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. ](/news/2015/10/22/the-associated-press-reports-that-kurds-in-syria-established-a-new-administration-in-the-sunni-arab-town-of-tal-abyad-which-the-kurds-wrest.md) _(Current version)_
 
 ### Related:

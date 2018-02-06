@@ -19,8 +19,8 @@ A migrant boat capsizes off Turkey, killing at least 27 people who were trying t
 
 ### Changes:
 
-1. [At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near-the-greek-island-of-lesb.md) _2017-08-25 03:44:29 (First version)_
-2. [European migrant crisis: At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/european-migrant-crisis-at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near.md) _2017-08-27 03:44:51 (Update)_
+1. [European migrant crisis: At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/european-migrant-crisis-at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near.md) _2018-02-06 13:49:28 (First version)_
+2. [At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near-the-greek-island-of-lesb.md) _2018-02-06 13:49:28 (Update)_
 2. [At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near-the-greek-island-of-lesbo.md) _(Current version)_
 
 ### Related:

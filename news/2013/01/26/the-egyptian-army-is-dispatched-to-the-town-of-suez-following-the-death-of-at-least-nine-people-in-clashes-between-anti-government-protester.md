@@ -20,8 +20,8 @@ At least 32 people were killed on Saturday when Egyptians rampaged in protest at
 
 ### Changes:
 
-1. [2012-2013 Egyptian protests:The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012a2013-egyptian-protests-pthe-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-be.md) _2017-08-25 03:37:21 (First version)_
-2. [2012-2013 Egyptian protests:: The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012-2013-egyptian-protests-the-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-b.md) _2017-08-27 03:37:31 (Update)_
+1. [2012-2013 Egyptian protests:The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012a2013-egyptian-protests-pthe-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-be.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Egyptian protests:: The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012-2013-egyptian-protests-the-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-b.md) _2018-02-06 13:49:24 (Update)_
 2. [The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/the-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-between-anti-government-protester.md) _(Current version)_
 
 ### Related:

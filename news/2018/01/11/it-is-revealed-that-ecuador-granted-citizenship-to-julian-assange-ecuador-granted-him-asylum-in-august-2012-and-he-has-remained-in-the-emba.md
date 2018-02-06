@@ -16,7 +16,7 @@ Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founde
 
 ### Changes:
 
-1. [Ecuador grants citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/ecuador-grants-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-embassy-of-ecuador-in-lon.md) _2018-01-13 13:30:05 (First version)_
+1. [Ecuador grants citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/ecuador-grants-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-embassy-of-ecuador-in-lon.md) _2018-02-06 13:49:31 (First version)_
 1. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _(Current version)_
 
 ### Related:

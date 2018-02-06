@@ -17,7 +17,7 @@ Police rule out any form of radicalisation in the fatal stabbing of a 21-year-ol
 
 ### Changes:
 
-1. [2016 Home Hill stabbings: One British woman is killed and two others are wounded in a stabbing attack on a North Queensland backpacker hostel, Australia. ](/news/2016/08/24/2016-home-hill-stabbings-one-british-woman-is-killed-and-two-others-are-wounded-in-a-stabbing-attack-on-a-north-queensland-backpacker-hoste.md) _2017-08-27 03:46:42 (First version)_
+1. [2016 Home Hill stabbings: One British woman is killed and two others are wounded in a stabbing attack on a North Queensland backpacker hostel, Australia. ](/news/2016/08/24/2016-home-hill-stabbings-one-british-woman-is-killed-and-two-others-are-wounded-in-a-stabbing-attack-on-a-north-queensland-backpacker-hoste.md) _2018-02-06 13:49:29 (First version)_
 1. [One British woman is killed and two others are wounded in a stabbing attack on a North Queensland backpacker hostel, Australia. ](/news/2016/08/24/one-british-woman-is-killed-and-two-others-are-wounded-in-a-stabbing-attack-on-a-north-queensland-backpacker-hostel-australia.md) _(Current version)_
 
 ### Related:

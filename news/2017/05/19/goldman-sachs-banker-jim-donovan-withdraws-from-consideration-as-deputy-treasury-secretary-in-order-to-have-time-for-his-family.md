@@ -16,7 +16,7 @@ He was expected to play a critical role in helping shape the administration&rsqu
 
 ### Changes:
 
-1. [Political appointments of Donald Trump: Goldman Sachs banker Jim Donovan withdraws from consideration as Deputy Treasury Secretary in order to have time for his family. ](/news/2017/05/19/political-appointments-of-donald-trump-goldman-sachs-banker-jim-donovan-withdraws-from-consideration-as-deputy-treasury-secretary-in-order.md) _2017-08-27 03:48:21 (First version)_
+1. [Political appointments of Donald Trump: Goldman Sachs banker Jim Donovan withdraws from consideration as Deputy Treasury Secretary in order to have time for his family. ](/news/2017/05/19/political-appointments-of-donald-trump-goldman-sachs-banker-jim-donovan-withdraws-from-consideration-as-deputy-treasury-secretary-in-order.md) _2018-02-06 13:49:30 (First version)_
 1. [Goldman Sachs banker Jim Donovan withdraws from consideration as Deputy Treasury Secretary in order to have time for his family. ](/news/2017/05/19/goldman-sachs-banker-jim-donovan-withdraws-from-consideration-as-deputy-treasury-secretary-in-order-to-have-time-for-his-family.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Tomb of revered Muslim in ancient town attacked and burned by Islamist fighters 
 
 ### Changes:
 
-1. [The tomb of Muslim saint Sidi Mahmoud Ben Amar, part of the World Heritage Site in Timbuktu, Mali, is attacked and burned by Islamist fighters. ](/news/2012/05/7/the-tomb-of-muslim-saint-sidi-mahmoud-ben-amar-part-of-the-world-heritage-site-in-timbuktu-mali-is-attacked-and-burned-by-islamist-fight.md) _2017-08-25 03:35:38 (First version)_
+1. [The tomb of Muslim saint Sidi Mahmoud Ben Amar, part of the World Heritage Site in Timbuktu, Mali, is attacked and burned by Islamist fighters. ](/news/2012/05/7/the-tomb-of-muslim-saint-sidi-mahmoud-ben-amar-part-of-the-world-heritage-site-in-timbuktu-mali-is-attacked-and-burned-by-islamist-fight.md) _2018-02-06 13:49:23 (First version)_
 1. [The tomb of Muslim saint Sidi Mahmoud Ben Amar, part of the World Heritage Site in Timbuktu, Mali, is attacked and burned by Islamist fighters. ](/news/2012/05/7/the-tomb-of-muslim-saint-sidi-mahmoud-ben-amar-part-of-the-world-heritage-site-in-timbuktu-mali-is-attacked-and-burned-by-islamist-fighte.md) _(Current version)_
 
 ### Related:

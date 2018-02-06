@@ -19,7 +19,7 @@ We measure the grounding line retreat of glaciers draining the Amundsen Sea sect
 
 ### Changes:
 
-1. [Studies published in ''Geophysical Research Letters'' and ''Science'' find that the West Antarctic ice sheet is potentially irrevocably melting. ](/news/2014/05/13/studies-published-in-geophysical-research-letters-and-science-find-that-the-west-antarctic-ice-sheet-is-potentially-irrevocably-melt.md) _2017-08-25 03:40:24 (First version)_
+1. [Studies published in ''Geophysical Research Letters'' and ''Science'' find that the West Antarctic ice sheet is potentially irrevocably melting. ](/news/2014/05/13/studies-published-in-geophysical-research-letters-and-science-find-that-the-west-antarctic-ice-sheet-is-potentially-irrevocably-melt.md) _2018-02-06 13:49:26 (First version)_
 1. [Studies published in "Geophysical Research Letters" and "Science" find that the West Antarctic ice sheet is potentially irrevocably melting. ](/news/2014/05/13/studies-published-in-geophysical-research-letters-and-science-find-that-the-west-antarctic-ice-sheet-is-potentially-irrevocably-melting.md) _(Current version)_
 
 ### Related:

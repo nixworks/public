@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/06/9/karachi-s-jinnah-international-airport-will-resu
 
 ### Changes:
 
-1. [2014 Jinnah International Airport attack:Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-pkarachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claimed.md) _2017-08-25 03:40:31 (First version)_
-2. [2014 Jinnah International Airport attack:: Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claime.md) _2017-08-27 03:40:49 (Update)_
+1. [2014 Jinnah International Airport attack:Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-pkarachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claimed.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Jinnah International Airport attack:: Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claime.md) _2018-02-06 13:49:26 (Update)_
 2. [Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claimed-21-lives.md) _(Current version)_
 
 ### Related:

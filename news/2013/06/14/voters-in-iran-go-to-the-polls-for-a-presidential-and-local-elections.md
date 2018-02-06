@@ -19,8 +19,8 @@ IRAN-ELECTION/RESULTS:Rohani tops early Iran election results -interior minister
 
 ### Changes:
 
-1. [Iranian general election:Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-pvoters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md) _2017-08-25 03:38:50 (First version)_
-2. [Iranian general election:: Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md) _2017-08-27 03:39:05 (Update)_
+1. [Iranian general election:: Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md) _2018-02-06 13:49:25 (First version)_
+2. [Iranian general election:Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-pvoters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md) _(Current version)_
 
 ### Related:

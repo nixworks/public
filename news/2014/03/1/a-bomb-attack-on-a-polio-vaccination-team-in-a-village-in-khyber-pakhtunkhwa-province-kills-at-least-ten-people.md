@@ -17,7 +17,7 @@ A bomb attack on a polio vaccination team in north-west Pakistan has killed at l
 
 ### Changes:
 
-1. [War in North-West Pakistan: A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/war-in-north-west-pakistan-a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _2017-08-27 03:40:24 (First version)_
+1. [War in North-West Pakistan: A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/war-in-north-west-pakistan-a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _2018-02-06 13:49:25 (First version)_
 1. [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _(Current version)_
 
 ### Related:

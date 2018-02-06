@@ -16,7 +16,7 @@ At least 10 people are killed and more than 65 wounded in the northern Afghan ci
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Gunmen mount an attack on the office of the attorney-general of Afghanistan's Balkh Province in the city of Mazar-e-Sharif. ](/news/2015/04/9/war-in-afghanistan-2015-present-gunmen-mount-an-attack-on-the-office-of-the-attorney-general-of-afghanistan-s-balkh-province-in-the-cit.md) _2017-08-27 03:42:10 (First version)_
+1. [War in Afghanistan (2015-present): Gunmen mount an attack on the office of the attorney-general of Afghanistan's Balkh Province in the city of Mazar-e-Sharif. ](/news/2015/04/9/war-in-afghanistan-2015-present-gunmen-mount-an-attack-on-the-office-of-the-attorney-general-of-afghanistan-s-balkh-province-in-the-cit.md) _2018-02-06 13:49:27 (First version)_
 1. [Gunmen mount an attack on the office of the attorney-general of Afghanistan's Balkh Province in the city of Mazar-e-Sharif. ](/news/2015/04/9/gunmen-mount-an-attack-on-the-office-of-the-attorney-general-of-afghanistan-s-balkh-province-in-the-city-of-mazar-e-sharif.md) _(Current version)_
 
 ### Related:

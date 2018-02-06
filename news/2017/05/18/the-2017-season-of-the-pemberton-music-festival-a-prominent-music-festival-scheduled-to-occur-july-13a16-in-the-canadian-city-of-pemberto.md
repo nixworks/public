@@ -16,7 +16,7 @@ The biggest music festival in B.C. has been cancelled. Global News has learned t
 
 ### Changes:
 
-1. [The 2017 season of the Pemberton Music Festival, a prominent music festival scheduled to occur July 13-16 in the Canadian city of Pemberton, British Columbia, is cancelled following declaration of bankruptcy by the organizers. ](/news/2017/05/18/the-2017-season-of-the-pemberton-music-festival-a-prominent-music-festival-scheduled-to-occur-july-13-16-in-the-canadian-city-of-pemberto.md) _2017-08-27 03:48:21 (First version)_
+1. [The 2017 season of the Pemberton Music Festival, a prominent music festival scheduled to occur July 13-16 in the Canadian city of Pemberton, British Columbia, is cancelled following declaration of bankruptcy by the organizers. ](/news/2017/05/18/the-2017-season-of-the-pemberton-music-festival-a-prominent-music-festival-scheduled-to-occur-july-13-16-in-the-canadian-city-of-pemberto.md) _2018-02-06 13:49:30 (First version)_
 1. [The 2017 season of the Pemberton Music Festival, a prominent music festival scheduled to occur July 13-16 in the Canadian city of Pemberton, British Columbia, is cancelled following declaration of bankruptcy by the organizers. ](/news/2017/05/18/the-2017-season-of-the-pemberton-music-festival-a-prominent-music-festival-scheduled-to-occur-july-13a16-in-the-canadian-city-of-pemberto.md) _(Current version)_
 
 ### Related:

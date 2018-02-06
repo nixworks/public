@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-
 
 ### Changes:
 
-1. [United States presidential election, 2016: Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/united-states-presidential-election-2016-mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eas.md) _2017-08-27 03:47:23 (First version)_
+1. [United States presidential election, 2016: Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/united-states-presidential-election-2016-mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eas.md) _2018-02-06 13:49:30 (First version)_
 1. [Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eastern-district-of-michigan-ends-a-recount-fo.md) _(Current version)_
 
 ### Related:

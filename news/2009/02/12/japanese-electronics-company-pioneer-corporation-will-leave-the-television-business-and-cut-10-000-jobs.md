@@ -17,8 +17,8 @@ Union pledges to fight to reverse the decision.
 
 ### Changes:
 
-1. [ Late 2000s recession: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-p-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _2017-08-25 03:23:44 (First version)_
-2. [ Late 2000s recession:: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _2017-08-27 03:23:35 (Update)_
+1. [ Late 2000s recession: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-p-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession:: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _2018-02-06 13:49:18 (Update)_
 2. [ Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md) _(Current version)_
 
 ### Related:

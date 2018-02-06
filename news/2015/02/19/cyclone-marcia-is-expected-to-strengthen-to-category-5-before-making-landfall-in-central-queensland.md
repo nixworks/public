@@ -18,7 +18,7 @@ Queenslanders are being warned to have enough supplies to last a couple of days 
 
 ### Changes:
 
-1. [2014-15 Australian region cyclone season: Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/2014-15-australian-region-cyclone-season-cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensl.md) _2017-08-27 03:41:58 (First version)_
+1. [2014-15 Australian region cyclone season: Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/2014-15-australian-region-cyclone-season-cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensl.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensland.md) _(Current version)_
 
 ### Related:

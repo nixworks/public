@@ -13,7 +13,7 @@ Twelve people were killed late on Friday in two suicide bombings claimed by Isla
 
 ##### Norway
 ### [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-waraer.md)
-_Context: Facebook, napalm girl, Vietnam War, child pornography, Norway, Aftenposten_
+_Context: Facebook, Vietnam War, Norway, child pornography, Aftenposten, napalm girl_
 
 ##### General Motors
 ### [General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. ](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.md)
@@ -27,7 +27,7 @@ A Volkswagen engineer from Southern California pleaded guilty to charges he help
 ### [A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/a-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reservation-of-the-sioux-people.md)
 But federal authorities quickly said the pipeline near a lake will not go forward pending more reviews, and said the case highlights need for reform.
 
-##### British
+##### United Kingdom
 ### [One or more unnamed authors at the European Commission, in their internal discussion, regards the United Kingdom as having lost direction in its Brexit policy and planning and thinks the UK will eventually 'plead' for a deal. ](/news/2016/09/9/one-or-more-unnamed-authors-at-the-european-commission-in-their-internal-discussion-regards-the-united-kingdom-as-having-lost-direction-in.md)
 Britain has become &ldquo;completely lost&rdquo; post Brexit and can eventually be expected to &ldquo;plead&rdquo; for a deal when it realises the weakness of its position at the negotiating table, senior European Commission officials now believe.
 
@@ -41,7 +41,7 @@ _Context: famine, Nigeria_
 
 ##### train derails
 ### [A train derails at a station in the town of O Porrino in Galicia, Spain, killing at least four people. ](/news/2016/09/9/a-train-derails-at-a-station-in-the-town-of-o-porria-o-in-galicia-spain-killing-at-least-four-people.md)
-_Context: Spain, Galicia, O Porrino, train derails_
+_Context: Spain, Galicia, train derails, O Porrino_
 
 ##### French Alps
 ### [More than a hundred tourists in the French Alps spend an evening suspended in midair inside cable cars that ceased to move. ](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.md)

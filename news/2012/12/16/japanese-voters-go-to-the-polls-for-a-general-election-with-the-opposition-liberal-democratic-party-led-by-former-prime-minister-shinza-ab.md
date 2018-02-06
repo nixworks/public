@@ -20,8 +20,8 @@ TOKYO -- The conservative party that dominated post-war Japan is back in power a
 
 ### Changes:
 
-1. [Japanese general election, 2012:Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-general-election-2012-pjapanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by.md) _2017-08-25 03:37:03 (First version)_
-2. [Japanese general election, 2012:: Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-general-election-2012-japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-b.md) _2017-08-27 03:37:13 (Update)_
+1. [Japanese general election, 2012:Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-general-election-2012-pjapanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by.md) _2018-02-06 13:49:24 (First version)_
+2. [Japanese general election, 2012:: Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-general-election-2012-japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-b.md) _2018-02-06 13:49:24 (Update)_
 2. [Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by-former-prime-minister-shinza-ab.md) _(Current version)_
 
 ### Related:

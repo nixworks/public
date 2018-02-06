@@ -19,7 +19,7 @@ Malik and Mubasher Bukhari
 
 ### Changes:
 
-1. [2016 Lahore suicide bombing: A suicide bomber from a Pakistani Taliban faction kills at least 60 people and injures 300 others at a park in Lahore, Pakistan, and the group claimed responsibility for the attack, saying it intentionally targeted Christians celebrating on Easter Sunday. An official says the explosion took place close to Gulshan-e-Iqbal Park's children's rides. ](/news/2016/03/27/2016-lahore-suicide-bombing-a-suicide-bomber-from-a-pakistani-taliban-faction-kills-at-least-60-people-and-injures-300-others-at-a-park-in.md) _2017-08-27 03:45:23 (First version)_
+1. [2016 Lahore suicide bombing: A suicide bomber from a Pakistani Taliban faction kills at least 60 people and injures 300 others at a park in Lahore, Pakistan, and the group claimed responsibility for the attack, saying it intentionally targeted Christians celebrating on Easter Sunday. An official says the explosion took place close to Gulshan-e-Iqbal Park's children's rides. ](/news/2016/03/27/2016-lahore-suicide-bombing-a-suicide-bomber-from-a-pakistani-taliban-faction-kills-at-least-60-people-and-injures-300-others-at-a-park-in.md) _2018-02-06 13:49:28 (First version)_
 1. [ A suicide bomber from a Pakistani Taliban faction kills at least 60 people and injures 300 others at a park in Lahore, Pakistan, and the group claimed responsibility for the attack, saying it intentionally targeted Christians celebrating on Easter Sunday. An official says the explosion took place close to Gulshan-e-Iqbal Park's children's rides. ](/news/2016/03/27/a-suicide-bomber-from-a-pakistani-taliban-faction-kills-at-least-60-people-and-injures-300-others-at-a-park-in-lahore-pakistan-and-the-gr.md) _(Current version)_
 
 ### Related:

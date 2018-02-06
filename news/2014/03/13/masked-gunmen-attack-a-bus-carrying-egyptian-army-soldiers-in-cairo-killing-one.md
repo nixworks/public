@@ -16,8 +16,8 @@ Masked gunmen opened fire on an army bus in Cairo on Thursday, killing one soldi
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt:Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/post-coup-unrest-in-egypt-pmasked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md) _2017-08-25 03:40:09 (First version)_
-2. [Post-coup unrest in Egypt:: Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/post-coup-unrest-in-egypt-masked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md) _2017-08-27 03:40:27 (Update)_
+1. [Post-coup unrest in Egypt:Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/post-coup-unrest-in-egypt-pmasked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-coup unrest in Egypt:: Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/post-coup-unrest-in-egypt-masked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md) _2018-02-06 13:49:25 (Update)_
 2. [Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/masked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Former Argentine military ruler Jorge Videla is sentenced to life in prison for 
 
 ### Changes:
 
-1. [Jorge Rafael Videla, the former ''de facto'' President of Argentina, is sentenced to life imprisonment after being convicted of crimes against humanity. ](/news/2010/12/22/jorge-rafael-videla-the-former-de-facto-president-of-argentina-is-sentenced-to-life-imprisonment-after-being-convicted-of-crimes-again.md) _2017-08-25 03:31:29 (First version)_
+1. [Jorge Rafael Videla, the former ''de facto'' President of Argentina, is sentenced to life imprisonment after being convicted of crimes against humanity. ](/news/2010/12/22/jorge-rafael-videla-the-former-de-facto-president-of-argentina-is-sentenced-to-life-imprisonment-after-being-convicted-of-crimes-again.md) _2018-02-06 13:49:21 (First version)_
 1. [Jorge Rafael Videla, the former "de facto" President of Argentina, is sentenced to life imprisonment after being convicted of crimes against humanity. ](/news/2010/12/22/jorge-rafael-videla-the-former-de-facto-president-of-argentina-is-sentenced-to-life-imprisonment-after-being-convicted-of-crimes-against.md) _(Current version)_
 
 ### Related:

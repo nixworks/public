@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-i
 
 ### Changes:
 
-1. [War in North-West Pakistan:5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-p5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _2017-08-25 03:39:11 (First version)_
-2. [War in North-West Pakistan:: 5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _2017-08-27 03:39:27 (Update)_
+1. [War in North-West Pakistan:5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-p5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: 5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _2018-02-06 13:49:25 (Update)_
 2. [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md) _(Current version)_
 
 ### Related:

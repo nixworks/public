@@ -16,7 +16,7 @@ Frauke Petry ‘drops bomb’ on rightwing nationalist party by announcing she w
 
 ### Changes:
 
-1. [Frauke Petry resigns as leader of the right-wing Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-right-wing-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-fir.md) _2017-09-25 22:30:05 (First version)_
+1. [Frauke Petry resigns as leader of the right-wing Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-right-wing-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-fir.md) _2018-02-06 13:49:31 (First version)_
 1. [Frauke Petry resigns as leader of the far right Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-far-right-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-firs.md) _(Current version)_
 
 ### Related:

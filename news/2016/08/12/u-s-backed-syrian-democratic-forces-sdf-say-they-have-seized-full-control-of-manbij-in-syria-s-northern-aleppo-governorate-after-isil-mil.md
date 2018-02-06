@@ -17,7 +17,7 @@ Khalidi and Lisa Barrington
 
 ### Changes:
 
-1. [Syrian Civil War: U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/syrian-civil-war-u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governor.md) _2017-08-27 03:46:39 (First version)_
+1. [Syrian Civil War: U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/syrian-civil-war-u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governor.md) _2018-02-06 13:49:29 (First version)_
 1. [U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.md) _(Current version)_
 
 ### Related:

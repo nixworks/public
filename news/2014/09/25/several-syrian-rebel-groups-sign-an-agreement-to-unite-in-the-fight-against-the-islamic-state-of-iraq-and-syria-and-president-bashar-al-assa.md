@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/25/several-syrian-rebel-groups-sign-an-agreement-t
 
 ### Changes:
 
-1. [Syrian Civil War: Several Syrian rebel groups sign an agreement to unite in the fight against the Islamic State of Iraq and Syria and President Bashar al-Assad's forces. ](/news/2014/09/25/syrian-civil-war-several-syrian-rebel-groups-sign-an-agreement-to-unite-in-the-fight-against-the-islamic-state-of-iraq-and-syria-and-presid.md) _2017-08-27 03:41:20 (First version)_
+1. [Syrian Civil War: Several Syrian rebel groups sign an agreement to unite in the fight against the Islamic State of Iraq and Syria and President Bashar al-Assad's forces. ](/news/2014/09/25/syrian-civil-war-several-syrian-rebel-groups-sign-an-agreement-to-unite-in-the-fight-against-the-islamic-state-of-iraq-and-syria-and-presid.md) _2018-02-06 13:49:26 (First version)_
 1. [Several Syrian rebel groups sign an agreement to unite in the fight against the Islamic State of Iraq and Syria and President Bashar al-Assad's forces. ](/news/2014/09/25/several-syrian-rebel-groups-sign-an-agreement-to-unite-in-the-fight-against-the-islamic-state-of-iraq-and-syria-and-president-bashar-al-assa.md) _(Current version)_
 
 ### Related:

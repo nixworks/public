@@ -18,7 +18,7 @@ Activists say Syrian army helicopters bomb a refugee camp, killing at least 20 p
 
 ### Changes:
 
-1. [Syrian Civil War: Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/syrian-civil-war-opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at.md) _2017-08-27 03:40:52 (First version)_
+1. [Syrian Civil War: Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/syrian-civil-war-opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at.md) _2018-02-06 13:49:26 (First version)_
 1. [Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at-least-20-people.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The new law will make it easier for third-generation immigrants to become citize
 
 ### Changes:
 
-1. [Swiss referendums, 2017: Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants to become citizens. ](/news/2017/02/12/swiss-referendums-2017-voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md) _2017-08-27 03:47:48 (First version)_
+1. [Swiss referendums, 2017: Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants to become citizens. ](/news/2017/02/12/swiss-referendums-2017-voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants to become citizens. ](/news/2017/02/12/voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md) _(Current version)_
 
 ### Related:

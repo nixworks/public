@@ -17,8 +17,8 @@ Spanish Prime Minister Mariano Rajoy has declared three days of official mournin
 
 ### Changes:
 
-1. [Santiago de Compostela derailment:Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/santiago-de-compostela-derailment-pmariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-ki.md) _2017-08-25 03:39:03 (First version)_
-2. [Santiago de Compostela derailment:: Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/santiago-de-compostela-derailment-mariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-k.md) _2017-08-27 03:39:18 (Update)_
+1. [Santiago de Compostela derailment:Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/santiago-de-compostela-derailment-pmariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-ki.md) _2018-02-06 13:49:25 (First version)_
+2. [Santiago de Compostela derailment:: Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/santiago-de-compostela-derailment-mariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-k.md) _2018-02-06 13:49:25 (Update)_
 2. [Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/mariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-killed-in-the-derailment-spain-s-wor.md) _(Current version)_
 
 ### Related:

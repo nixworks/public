@@ -18,7 +18,7 @@ Archaeologists unearth thousands of stone tools in North America they say predat
 
 ### Changes:
 
-1. [Archaeologist Michael R. Waters and associates report in ''Science'' that discoveries at the Debra L Friedkin site north of Austin, Texas, may indicate that the Clovis culture was not the first to settle the Americas. ](/news/2011/03/25/archaeologist-michael-r-waters-and-associates-report-in-science-that-discoveries-at-the-debra-l-friedkin-site-north-of-austin-texas-m.md) _2017-08-25 03:32:39 (First version)_
+1. [Archaeologist Michael R. Waters and associates report in ''Science'' that discoveries at the Debra L Friedkin site north of Austin, Texas, may indicate that the Clovis culture was not the first to settle the Americas. ](/news/2011/03/25/archaeologist-michael-r-waters-and-associates-report-in-science-that-discoveries-at-the-debra-l-friedkin-site-north-of-austin-texas-m.md) _2018-02-06 13:49:22 (First version)_
 1. [Archaeologist Michael R. Waters and associates report in "Science" that discoveries at the Debra L Friedkin site north of Austin, Texas, may indicate that the Clovis culture was not the first to settle the Americas. ](/news/2011/03/25/archaeologist-michael-r-waters-and-associates-report-in-science-that-discoveries-at-the-debra-l-friedkin-site-north-of-austin-texas-may.md) _(Current version)_
 
 ### Related:

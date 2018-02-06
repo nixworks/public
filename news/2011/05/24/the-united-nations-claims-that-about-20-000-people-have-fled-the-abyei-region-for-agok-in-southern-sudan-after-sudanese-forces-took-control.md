@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/05/24/the-united-nations-claims-that-about-20-000-peo
 
 ### Changes:
 
-1. [Situation in Sudan:The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/situation-in-sudan-pthe-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese.md) _2017-08-25 03:33:14 (First version)_
-2. [Situation in Sudan:: The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/situation-in-sudan-the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese.md) _2017-08-27 03:33:24 (Update)_
+1. [Situation in Sudan:: The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/situation-in-sudan-the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese.md) _2018-02-06 13:49:22 (First version)_
+2. [Situation in Sudan:The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/situation-in-sudan-pthe-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese.md) _2018-02-06 13:49:22 (Update)_
 2. [The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese-forces-took-control.md) _(Current version)_
 
 ### Related:

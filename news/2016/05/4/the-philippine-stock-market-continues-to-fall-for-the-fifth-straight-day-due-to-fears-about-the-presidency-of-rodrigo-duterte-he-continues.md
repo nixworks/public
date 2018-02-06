@@ -17,7 +17,7 @@ Foreign analysts writing country risk assessments in recent weeks are adopting a
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The Philippine stock market continues to fall for the fifth straight day due to fears about the presidency of Rodrigo Duterte. He continues to lead in opinion polls. ](/news/2016/05/4/philippine-presidential-election-2016-the-philippine-stock-market-continues-to-fall-for-the-fifth-straight-day-due-to-fears-about-the-pres.md) _2017-08-27 03:45:58 (First version)_
+1. [Philippine presidential election, 2016: The Philippine stock market continues to fall for the fifth straight day due to fears about the presidency of Rodrigo Duterte. He continues to lead in opinion polls. ](/news/2016/05/4/philippine-presidential-election-2016-the-philippine-stock-market-continues-to-fall-for-the-fifth-straight-day-due-to-fears-about-the-pres.md) _2018-02-06 13:49:29 (First version)_
 1. [The Philippine stock market continues to fall for the fifth straight day due to fears about the presidency of Rodrigo Duterte. He continues to lead in opinion polls. ](/news/2016/05/4/the-philippine-stock-market-continues-to-fall-for-the-fifth-straight-day-due-to-fears-about-the-presidency-of-rodrigo-duterte-he-continues.md) _(Current version)_
 
 ### Related:

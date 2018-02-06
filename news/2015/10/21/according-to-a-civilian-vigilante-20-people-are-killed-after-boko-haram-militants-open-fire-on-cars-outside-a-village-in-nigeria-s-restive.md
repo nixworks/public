@@ -16,7 +16,7 @@ Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road 
 
 ### Changes:
 
-1. [Boko Haram insurgency: According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/boko-haram-insurgency-according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-villag.md) _2017-08-27 03:43:26 (First version)_
+1. [Boko Haram insurgency: According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/boko-haram-insurgency-according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-villag.md) _2018-02-06 13:49:28 (First version)_
 1. [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md) _(Current version)_
 
 ### Related:

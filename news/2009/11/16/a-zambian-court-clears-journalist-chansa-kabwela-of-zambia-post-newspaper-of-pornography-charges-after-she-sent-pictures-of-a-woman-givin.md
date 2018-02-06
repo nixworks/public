@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/11/16/a-zambian-court-clears-journalist-chansa-kabwel
 
 ### Changes:
 
-1. [ A Zambian court clears journalist Chansa Kabwela of ''Zambia Post'' newspaper of pornography charges after she sent pictures of a woman giving birth in a hospital car park to President Rupiah Banda in protest at the effects of a national strike. ](/news/2009/11/16/a-zambian-court-clears-journalist-chansa-kabwela-of-zambia-post-newspaper-of-pornography-charges-after-she-sent-pictures-of-a-woman-giv.md) _2017-08-25 03:26:22 (First version)_
+1. [ A Zambian court clears journalist Chansa Kabwela of ''Zambia Post'' newspaper of pornography charges after she sent pictures of a woman giving birth in a hospital car park to President Rupiah Banda in protest at the effects of a national strike. ](/news/2009/11/16/a-zambian-court-clears-journalist-chansa-kabwela-of-zambia-post-newspaper-of-pornography-charges-after-she-sent-pictures-of-a-woman-giv.md) _2018-02-06 13:49:19 (First version)_
 1. [ A Zambian court clears journalist Chansa Kabwela of "Zambia Post" newspaper of pornography charges after she sent pictures of a woman giving birth in a hospital car park to President Rupiah Banda in protest at the effects of a national strike. ](/news/2009/11/16/a-zambian-court-clears-journalist-chansa-kabwela-of-zambia-post-newspaper-of-pornography-charges-after-she-sent-pictures-of-a-woman-givin.md) _(Current version)_
 
 ### Related:

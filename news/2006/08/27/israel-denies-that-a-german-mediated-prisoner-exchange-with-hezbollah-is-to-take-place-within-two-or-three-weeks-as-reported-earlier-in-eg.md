@@ -19,8 +19,8 @@ DURING THE RECENT month-long war between Hezbollah and Israel, U.N. peacekeeping
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-p-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md) _2017-08-25 03:18:16 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md) _2017-08-27 03:18:12 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-p-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-weeks-as-reported-earlier-in-eg.md) _(Current version)_
 
 ### Related:

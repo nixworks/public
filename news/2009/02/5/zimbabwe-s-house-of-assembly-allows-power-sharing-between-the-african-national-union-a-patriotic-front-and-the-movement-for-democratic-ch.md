@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharin
 
 ### Changes:
 
-1. [ Zimbabwe's House of Assembly allows power-sharing between the African National Union - Patriotic Front and the Movement for Democratic Change. ](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharing-between-the-african-national-union-patriotic-front-and-the-movement-for-democratic-ch.md) _2017-08-27 03:23:32 (First version)_
+1. [ Zimbabwe's House of Assembly allows power-sharing between the African National Union - Patriotic Front and the Movement for Democratic Change. ](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharing-between-the-african-national-union-patriotic-front-and-the-movement-for-democratic-ch.md) _2018-02-06 13:49:18 (First version)_
 1. [ Zimbabwe's House of Assembly allows power-sharing between the African National Union - Patriotic Front and the Movement for Democratic Change. ](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharing-between-the-african-national-union-a-patriotic-front-and-the-movement-for-democratic-ch.md) _(Current version)_
 
 ### Related:

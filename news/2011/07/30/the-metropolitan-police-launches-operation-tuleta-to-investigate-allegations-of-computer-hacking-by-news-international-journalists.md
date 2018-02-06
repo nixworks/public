@@ -16,7 +16,7 @@ A new team of officers is to investigate claims of computer hacking, the Metropo
 
 ### Changes:
 
-1. [News International phone hacking scandal: The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/news-international-phone-hacking-scandal-the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-b.md) _2017-08-27 03:34:02 (First version)_
+1. [News International phone hacking scandal: The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/news-international-phone-hacking-scandal-the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-b.md) _2018-02-06 13:49:22 (First version)_
 1. [The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-by-news-international-journalists.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/09/17/japanese-electronics-company-panasonic-suspends
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-pjapanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china.md) _2017-08-25 03:36:33 (First version)_
-2. [Senkaku Islands dispute:: Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-japanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-chin.md) _2017-08-27 03:36:42 (Update)_
+1. [Senkaku Islands dispute:Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-pjapanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:: Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-japanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-chin.md) _2018-02-06 13:49:23 (Update)_
 2. [Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/japanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china-until-tuesday-as-a-resul.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/01/29/near-earth-asteroid-2007-tu-passes-earth-at-a-d
 
 ### Changes:
 
-1. [ Near-Earth asteroid {{mp|2007 TU|24}} passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-mp-2007-tu-24-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its.md) _2017-05-01 03:22:35 (First version)_
-2. [ Near-Earth asteroid 2007 TU|24 passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-24-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-f.md) _2017-08-29 03:21:46 (Update)_
+1. [ Near-Earth asteroid {{mp|2007 TU|24}} passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-mp-2007-tu-24-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its.md) _2018-02-06 13:49:18 (First version)_
+2. [ Near-Earth asteroid 2007 TU|24 passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-24-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-f.md) _2018-02-06 13:49:18 (Update)_
 2. [ Near-Earth asteroid 2007 TU passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-from.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ At least 31 people are dead in Portugal and three in Spain as dozens of wildfire
 
 ### Changes:
 
-1. [Wildfires in Spain and Portugal kill at least 31 people. [http:--www.bbc.com-news-world-europe-41634125 (BBC) ]](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-http-www-bbc-com-news-world-europe-41634125-bbc.md) _2017-10-16 19:30:07 (First version)_
+1. [Wildfires in Spain and Portugal kill at least 31 people. [http:--www.bbc.com-news-world-europe-41634125 (BBC) ]](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-http-www-bbc-com-news-world-europe-41634125-bbc.md) _2018-02-06 13:49:31 (First version)_
 1. [Wildfires in Spain and Portugal kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. ](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.md) _(Current version)_
 
 ### Related:

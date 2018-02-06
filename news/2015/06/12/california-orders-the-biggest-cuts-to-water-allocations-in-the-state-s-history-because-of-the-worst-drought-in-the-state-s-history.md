@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/12/california-orders-the-biggest-cuts-to-water-all
 
 ### Changes:
 
-1. [2012-15 North American drought: California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/2012-15-north-american-drought-california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drough.md) _2017-08-27 03:42:31 (First version)_
+1. [2012-15 North American drought: California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/2012-15-north-american-drought-california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drough.md) _2018-02-06 13:49:27 (First version)_
 1. [California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drought-in-the-state-s-history.md) _(Current version)_
 
 ### Related:

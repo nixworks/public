@@ -5,39 +5,39 @@ Formats: [HTML](2009/03/22/index.html)  [JSON](2009/03/22/index.json)  [XML](200
 
 ##### Alaska
 ### [ Alaska's Mount Redoubt volcano erupts. ](/news/2009/03/22/alaska-s-mount-redoubt-volcano-erupts.md)
-_Context: Mount Redoubt, volcano, Alaska_
+_Context: Alaska, volcano, Mount Redoubt_
 
 ##### Pilatus PC-12
 ### [ A Pilatus PC-12 crashes near Butte, Montana, killing at least 17 people. ](/news/2009/03/22/a-pilatus-pc-12-crashes-near-butte-montana-killing-at-least-17-people.md)
-_Context: Butte, crashes, Pilatus PC-12, Montana_
+_Context: Montana, Butte, crashes, Pilatus PC-12_
 
 ##### police officer
 ### [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md)
-_Context: Oakland, California, police officer, California, killed, United States_
+_Context: California, police officer, Oakland, California, United States, killed_
 
 ##### India
 ### [ India's Board of Control for Cricket will relocate the 2009 Premier League outside the country. ](/news/2009/03/22/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-outside-the-country.md)
-_Context: India, win, Board of Control for Cricket, Indian Premier League_
+_Context: India, win, Indian Premier League, Board of Control for Cricket_
 
 ##### India
 ### [ India and Pakistan exchange gunfire at the Line of Control. ](/news/2009/03/22/india-and-pakistan-exchange-gunfire-at-the-line-of-control.md)
-_Context: Pakistan, India, India-Pakistan relations, Line of Control, Gunshot_
+_Context: Gunshot, Pakistan, India-Pakistan relations, Line of Control, India_
 
 ##### England
 ### [ England defeats New Zealand to win the Women's Cricket World Cup. ](/news/2009/03/22/england-defeats-new-zealand-to-win-the-women-s-cricket-world-cup.md)
-_Context: New Zealand, Women's Cricket World Cup, win, England_
+_Context: New Zealand, win, Women's Cricket World Cup, England_
 
 ##### Australia
 ### [ An Australian motorcycle gang assaults and kills a man at Sydney Airport. ](/news/2009/03/22/an-australian-motorcycle-gang-assaults-and-kills-a-man-at-sydney-airport.md)
-_Context: Australia, beating, outlaw motorcycle gangs, Sydney Airport_
+_Context: Sydney Airport, beating, Australia, outlaw motorcycle gangs_
 
 ##### Tibet
 ### [ Ninety-three Tibetan monks are arrested after attacking a police station in Qinghai, China. ](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.md)
-_Context: police station, Tibet, China, arrest, monk, attacking, Qinghai_
+_Context: Tibet, China, police station, Qinghai, attacking, monk, arrest_
 
 ##### Pope
 ### [ Thousands of people assemble for Pope Benedict XVI's Catholic Mass in Luanda, Angola. ](/news/2009/03/22/thousands-of-people-assemble-for-pope-benedict-xvi-s-catholic-mass-in-luanda-angola.md)
-_Context: Pope Benedict XVI, Mass, Luanda, Roman Catholic Church, Pope, Angola_
+_Context: Pope Benedict XVI, Luanda, Mass, Roman Catholic Church, Pope, Angola_
 
 ##### Somalia
 ### [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md)

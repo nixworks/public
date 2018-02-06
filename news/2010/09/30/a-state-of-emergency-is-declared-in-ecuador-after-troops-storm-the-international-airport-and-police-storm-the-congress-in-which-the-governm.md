@@ -20,8 +20,8 @@ A state of emergency is declared in Ecuador after President Rafael Correa accuse
 
 ### Changes:
 
-1. [2010 Ecuador crisis	A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/2010-ecuador-crisis-pa-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress.md) _2017-05-25 03:31:27 (First version)_
-2. [2010 Ecuador crisis: A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/2010-ecuador-crisis-a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress.md) _2017-08-27 03:30:21 (Update)_
+1. [2010 Ecuador crisis	A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/2010-ecuador-crisis-pa-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Ecuador crisis: A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/2010-ecuador-crisis-a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress.md) _2018-02-06 13:49:20 (Update)_
 2. [A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress-in-which-the-governm.md) _(Current version)_
 
 ### Related:

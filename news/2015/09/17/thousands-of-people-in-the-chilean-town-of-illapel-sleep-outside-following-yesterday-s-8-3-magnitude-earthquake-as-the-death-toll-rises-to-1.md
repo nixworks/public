@@ -19,7 +19,7 @@ At least 10 dead from powerful temblor that cuts off power to a quarter-million 
 
 ### Changes:
 
-1. [2015 Illapel earthquake: Thousands of people in the Chilean town of Illapel sleep outside following yesterday's 8.3 magnitude earthquake as the death toll rises to 11. ](/news/2015/09/17/2015-illapel-earthquake-thousands-of-people-in-the-chilean-town-of-illapel-sleep-outside-following-yesterday-s-8-3-magnitude-earthquake-as.md) _2017-08-27 03:43:04 (First version)_
+1. [2015 Illapel earthquake: Thousands of people in the Chilean town of Illapel sleep outside following yesterday's 8.3 magnitude earthquake as the death toll rises to 11. ](/news/2015/09/17/2015-illapel-earthquake-thousands-of-people-in-the-chilean-town-of-illapel-sleep-outside-following-yesterday-s-8-3-magnitude-earthquake-as.md) _2018-02-06 13:49:27 (First version)_
 1. [Thousands of people in the Chilean town of Illapel sleep outside following yesterday's 8.3 magnitude earthquake as the death toll rises to 11. ](/news/2015/09/17/thousands-of-people-in-the-chilean-town-of-illapel-sleep-outside-following-yesterday-s-8-3-magnitude-earthquake-as-the-death-toll-rises-to-1.md) _(Current version)_
 
 ### Related:

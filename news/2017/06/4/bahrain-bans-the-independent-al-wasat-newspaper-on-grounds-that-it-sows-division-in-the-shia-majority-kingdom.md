@@ -16,7 +16,7 @@ The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the 
 
 ### Changes:
 
-1. [Censorship in Bahrain: Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/censorship-in-bahrain-bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _2017-08-27 03:48:25 (First version)_
+1. [Censorship in Bahrain: Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/censorship-in-bahrain-bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _2018-02-06 13:49:30 (First version)_
 1. [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _(Current version)_
 
 ### Related:

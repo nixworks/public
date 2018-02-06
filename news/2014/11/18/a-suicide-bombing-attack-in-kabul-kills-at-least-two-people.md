@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/11/18/a-suicide-bombing-attack-in-kabul-kills-at-leas
 
 ### Changes:
 
-1. [War in Afghanistan:A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-pa-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _2017-08-25 03:41:13 (First version)_
-2. [War in Afghanistan:: A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-a-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _2017-08-27 03:41:31 (Update)_
+1. [War in Afghanistan:A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-pa-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan:: A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-a-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/a-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md) _(Current version)_
 
 ### Related:

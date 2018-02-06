@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-w
 
 ### Changes:
 
-1. [North Caucasus insurgency:Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/north-caucasus-insurgency-pseven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-repu.md) _2017-08-25 03:36:18 (First version)_
-2. [North Caucasus insurgency:: Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/north-caucasus-insurgency-seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-rep.md) _2017-08-27 03:36:29 (Update)_
+1. [North Caucasus insurgency:: Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/north-caucasus-insurgency-seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-rep.md) _2018-02-06 13:49:23 (First version)_
+2. [North Caucasus insurgency:Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/north-caucasus-insurgency-pseven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-repu.md) _2018-02-06 13:49:23 (Update)_
 2. [Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-republic-of-ingushetia.md) _(Current version)_
 
 ### Related:

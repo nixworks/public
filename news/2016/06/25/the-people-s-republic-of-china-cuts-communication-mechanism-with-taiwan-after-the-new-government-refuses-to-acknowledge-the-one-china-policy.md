@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/25/the-people-s-republic-of-china-cuts-communicati
 
 ### Changes:
 
-1. [Cross-Strait relations: The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/cross-strait-relations-the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowle.md) _2017-08-27 03:46:20 (First version)_
+1. [Cross-Strait relations: The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/cross-strait-relations-the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowle.md) _2018-02-06 13:49:29 (First version)_
 1. [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md) _(Current version)_
 
 ### Related:

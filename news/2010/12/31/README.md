@@ -21,7 +21,7 @@ Singer Annie Lennox is recognised in the New Year Honours, along with actors Dav
 
 ##### Estonia
 ### [Estonia, one of the Baltic republics of the former Soviet Union, adopts the euro as its official currency, becoming the 17th country to do so. ](/news/2010/12/31/estonia-one-of-the-baltic-republics-of-the-former-soviet-union-adopts-the-euro-as-its-official-currency-becoming-the-17th-country-to-do-s.md)
-_Context: euro, Soviet, Estonia_
+_Context: euro, Estonia, Soviet_
 
 ##### Tibetan writers
 ### [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting-a.md)
@@ -29,7 +29,7 @@ _Context: Tibetan writers, Chinese police_
 
 ##### Ikililou Dhoinine
 ### [Ikililou Dhoinine is elected President of the Comoros, defeating rival Mohamed Said Fazul with 61% of the vote. ](/news/2010/12/31/ikililou-dhoinine-is-elected-president-of-the-comoros-defeating-rival-mohamed-said-fazul-with-61-of-the-vote.md)
-_Context: Ikililou Dhoinine, Comoros, Mohamed Said Fazul, President of the, elected_
+_Context: Mohamed Said Fazul, President of the, elected, Ikililou Dhoinine, Comoros_
 
 ##### Foreign Minister
 ### [After an official protest by German Foreign Minister, Guido Westerwelle, Iran allows access to two journalists arrested in mid-October for interviewing family members of Sakineh Mohammadi Ashtiani, sentenced to death by stoning for alleged adultery. ](/news/2010/12/31/after-an-official-protest-by-german-foreign-minister-guido-westerwelle-iran-allows-access-to-two-journalists-arrested-in-mid-october-for-i.md)
@@ -37,7 +37,7 @@ The two journalists were arrested in mid-October for interviewing family members
 
 ##### China
 ### [Officials in the Chinese Ministry of Industry and Information Technology warn of a crackdown on "illegal" voice-over-Internet(VoIP) telephony services that are not licensed or approved by the country's telecoms regulator. ](/news/2010/12/31/officials-in-the-chinese-ministry-of-industry-and-information-technology-warn-of-a-crackdown-on-illegal-voice-over-internet-voip-telephon.md)
-_Context: Ministry of Industry and Information Technology, internet calls, China_
+_Context: China, internet calls, Ministry of Industry and Information Technology_
 
 ##### Italy
 ### [Italy bans plastic bags. ](/news/2010/12/31/italy-bans-plastic-bags.md)

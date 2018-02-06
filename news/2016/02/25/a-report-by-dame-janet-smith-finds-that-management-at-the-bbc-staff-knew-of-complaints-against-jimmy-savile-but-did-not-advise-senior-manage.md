@@ -16,7 +16,7 @@ The BBC missed opportunities to stop &quot;monstrous&quot; abuse by DJ Jimmy Sav
 
 ### Changes:
 
-1. [Jimmy Savile sexual abuse scandal: A report by Dame Janet Smith finds that management at the BBC staff knew of complaints against Jimmy Savile but did not advise senior management due to a "culture of fear". ](/news/2016/02/25/jimmy-savile-sexual-abuse-scandal-a-report-by-dame-janet-smith-finds-that-management-at-the-bbc-staff-knew-of-complaints-against-jimmy-savi.md) _2017-08-27 03:45:02 (First version)_
+1. [Jimmy Savile sexual abuse scandal: A report by Dame Janet Smith finds that management at the BBC staff knew of complaints against Jimmy Savile but did not advise senior management due to a "culture of fear". ](/news/2016/02/25/jimmy-savile-sexual-abuse-scandal-a-report-by-dame-janet-smith-finds-that-management-at-the-bbc-staff-knew-of-complaints-against-jimmy-savi.md) _2018-02-06 13:49:28 (First version)_
 1. [A report by Dame Janet Smith finds that management at the BBC staff knew of complaints against Jimmy Savile but did not advise senior management due to a "culture of fear". ](/news/2016/02/25/a-report-by-dame-janet-smith-finds-that-management-at-the-bbc-staff-knew-of-complaints-against-jimmy-savile-but-did-not-advise-senior-manage.md) _(Current version)_
 
 ### Related:

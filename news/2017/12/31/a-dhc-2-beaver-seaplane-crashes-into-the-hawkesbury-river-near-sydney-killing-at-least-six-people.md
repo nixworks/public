@@ -17,7 +17,7 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 
 ### Changes:
 
-1. [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people, including four British nationals. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people-including-four-british-nationals.md) _2017-12-31 18:30:05 (First version)_
+1. [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people, including four British nationals. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people-including-four-british-nationals.md) _2018-02-06 13:49:31 (First version)_
 1. [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md) _(Current version)_
 
 ### Related:

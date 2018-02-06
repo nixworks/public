@@ -25,7 +25,7 @@ Many people are said to have been injured after a blast on a local train in Kolk
 
 ##### Typhoon Noul
 ### [Typhoon Noul arrives at the southern Japanese islands at Amami Oshima before moving through Kyushu and then Honshu. ](/news/2015/05/12/typhoon-noul-arrives-at-the-southern-japanese-islands-at-amami-oshima-before-moving-through-kyushu-and-then-honshu.md)
-_Context: Amami Oshima, Honshu Island, Typhoon Noul, Japan, Kyushu_
+_Context: Typhoon Noul, Honshu Island, Japan, Kyushu, Amami Oshima_
 
 ##### yesterday's earthquake
 ### [A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-for-mount-everest.md)
@@ -33,7 +33,7 @@ Dozens die as a new earthquake of magnitude 7.3 strikes Nepal, two weeks after a
 
 ##### 2015 Philadelphia train derailment
 ### [An Amtrak train derails in the Port Richmond neighborhood of the American city of Philadelphia causing cars to roll over. At least 5 people have been killed, 50 people are injured in the derailment.](/news/2015/05/12/an-amtrak-train-derails-in-the-port-richmond-neighborhood-of-the-american-city-of-philadelphia-causing-cars-to-roll-over-at-least-5-people.md)
-_Context: Philadelphia, cars, Port Richmond, 2015 Philadelphia train derailment, Amtrak_
+_Context: 2015 Philadelphia train derailment, cars, Philadelphia, Amtrak, Port Richmond_
 
 ##### United States Secretary of State
 ### [United States Secretary of State John Kerry will meet President of Russia Vladimir Putin during his first visit to Russia since the Ukraine crisis began. ](/news/2015/05/12/united-states-secretary-of-state-john-kerry-will-meet-president-of-russia-vladimir-putin-during-his-first-visit-to-russia-since-the-ukraine.md)
@@ -49,11 +49,11 @@ A secular blogger is hacked to death by suspected Islamists in Bangladesh, the t
 
 ##### Shooting of Tony Robinson
 ### [Officer Matt Kenny of the Madison Police Department will not face charges in relation to the shooting of Tony Robinson in March 2015 in the American city of Madison, Wisconsin. ](/news/2015/05/12/officer-matt-kenny-of-the-madison-police-department-will-not-face-charges-in-relation-to-the-shooting-of-tony-robinson-in-march-2015-in-the.md)
-_Context: Madison Police Department, Shooting of Tony Robinson, Madison, Wisconsin_
+_Context: Madison, Wisconsin, Shooting of Tony Robinson, Madison Police Department_
 
 ##### Russia
 ### [Russia delays the return of three astronauts from the International Space Station due to a recent failure of a supply mission. ](/news/2015/05/12/russia-delays-the-return-of-three-astronauts-from-the-international-space-station-due-to-a-recent-failure-of-a-supply-mission.md)
-_Context: International Space Station, Russia_
+_Context: Russia, International Space Station_
 
 ## [Previous Day...](/news/2015/05/11/index.md)
 

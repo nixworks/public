@@ -16,8 +16,8 @@ After meeting in Amman, 11 Western and Arab nations also warn of &#39;severe con
 
 ### Changes:
 
-1. [Syrian Civil War:Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-pfriends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _2017-08-25 03:38:43 (First version)_
-2. [Syrian Civil War:: Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-friends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _2017-08-27 03:38:56 (Update)_
+1. [Syrian Civil War:Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-pfriends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian Civil War:: Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-friends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _2018-02-06 13:49:24 (Update)_
 2. [Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/friends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md) _(Current version)_
 
 ### Related:

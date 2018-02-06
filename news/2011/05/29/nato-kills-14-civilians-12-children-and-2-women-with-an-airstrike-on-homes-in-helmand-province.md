@@ -18,8 +18,8 @@ Deadly attack in volatile southwestern province followed small arms fire on US M
 
 ### Changes:
 
-1. [NATO killing of civilians in Afghanistan:NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-killing-of-civilians-in-afghanistan-pnato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md) _2017-08-25 03:33:18 (First version)_
-2. [NATO killing of civilians in Afghanistan:: NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-killing-of-civilians-in-afghanistan-nato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md) _2017-08-27 03:33:27 (Update)_
+1. [NATO killing of civilians in Afghanistan:NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-killing-of-civilians-in-afghanistan-pnato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md) _2018-02-06 13:49:22 (First version)_
+2. [NATO killing of civilians in Afghanistan:: NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-killing-of-civilians-in-afghanistan-nato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md) _(Current version)_
 
 ### Related:

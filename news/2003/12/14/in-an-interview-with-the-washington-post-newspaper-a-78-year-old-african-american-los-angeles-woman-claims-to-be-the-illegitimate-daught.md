@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/14/in-an-interview-with-the-washington-post-newspa
 
 ### Changes:
 
-1. [ In an interview with ''The Washington Post'' newspaper, a 78-year-old African-American Los Angeles woman claims to be the illegitimate daughter of the late U.S. Senator Strom Thurmond. [http:--www.washingtonpost.com-wp-dyn-articles-A60363-2003Dec12.html]](/news/2003/12/14/in-an-interview-with-the-washington-post-newspaper-a-78-year-old-african-american-los-angeles-woman-claims-to-be-the-illegitimate-daug.md) _2017-08-25 03:15:24 (First version)_
+1. [ In an interview with ''The Washington Post'' newspaper, a 78-year-old African-American Los Angeles woman claims to be the illegitimate daughter of the late U.S. Senator Strom Thurmond. [http:--www.washingtonpost.com-wp-dyn-articles-A60363-2003Dec12.html]](/news/2003/12/14/in-an-interview-with-the-washington-post-newspaper-a-78-year-old-african-american-los-angeles-woman-claims-to-be-the-illegitimate-daug.md) _2018-02-06 13:49:15 (First version)_
 1. [ In an interview with "The Washington Post" newspaper, a 78-year-old African-American Los Angeles woman claims to be the illegitimate daughter of the late U.S. Senator Strom Thurmond. [https:--www.washingtonpost.com-wp-dyn-articles-A60363-2003Dec12.html]](/news/2003/12/14/in-an-interview-with-the-washington-post-newspaper-a-78-year-old-african-american-los-angeles-woman-claims-to-be-the-illegitimate-daught.md) _(Current version)_
 
 ### Related:

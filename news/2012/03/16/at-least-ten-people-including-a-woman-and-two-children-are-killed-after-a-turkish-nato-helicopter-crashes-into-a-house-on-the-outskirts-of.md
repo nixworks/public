@@ -19,8 +19,8 @@ FOURTEEN people, including two children, are dead after a NATO helicopter crashe
 
 ### Changes:
 
-1. [Afghanistan:At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-pat-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-the.md) _2017-08-25 03:35:18 (First version)_
-2. [Afghanistan:: At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-th.md) _2017-08-27 03:35:27 (Update)_
+1. [Afghanistan:At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-pat-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-the.md) _2018-02-06 13:49:23 (First version)_
+2. [Afghanistan:: At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-th.md) _2018-02-06 13:49:23 (Update)_
 2. [At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-the-outskirts-of.md) _(Current version)_
 
 ### Related:

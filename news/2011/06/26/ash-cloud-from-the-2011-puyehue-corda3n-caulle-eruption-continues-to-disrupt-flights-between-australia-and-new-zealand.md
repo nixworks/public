@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/06/26/ash-cloud-from-the-2011-puyehue-corda3n-caulle-
 
 ### Changes:
 
-1. [Eruption of Puyehue-Cordon Caulle in Chile:Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-pash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-au.md) _2017-08-25 03:33:35 (First version)_
-2. [Eruption of Puyehue-Cordon Caulle in Chile:: Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-a.md) _2017-08-27 03:33:42 (Update)_
+1. [Eruption of Puyehue-Cordon Caulle in Chile:Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-pash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-au.md) _2018-02-06 13:49:22 (First version)_
+2. [Eruption of Puyehue-Cordon Caulle in Chile:: Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-a.md) _2018-02-06 13:49:22 (Update)_
 2. [Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-australia-and-new-zealand.md) _(Current version)_
 
 ### Related:

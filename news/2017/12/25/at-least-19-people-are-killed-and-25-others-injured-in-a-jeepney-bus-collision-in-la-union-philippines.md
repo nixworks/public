@@ -16,6 +16,6 @@ Formats: [HTML](/news/2017/12/25/at-least-19-people-are-killed-and-25-others-inj
 
 ### Changes:
 
-1. [About 19 were killed and 25 others were injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-were-killed-and-25-others-were-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md) _2017-12-25 22:30:06 (First version)_
-2. [About 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md) _2017-12-27 22:30:06 (Update)_
+1. [About 19 were killed and 25 others were injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-were-killed-and-25-others-were-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md) _2018-02-06 13:49:31 (First version)_
+2. [About 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/at-least-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md) _(Current version)_

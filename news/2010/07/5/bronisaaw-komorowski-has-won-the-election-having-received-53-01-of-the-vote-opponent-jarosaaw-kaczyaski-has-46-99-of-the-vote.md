@@ -16,7 +16,7 @@ Bronislaw Komorowski is declared the winner in a dramatic race for the Polish pr
 
 ### Changes:
 
-1. [Polish presidential election, 2010: Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/polish-presidential-election-2010-bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczya.md) _2017-08-27 03:28:35 (First version)_
+1. [Polish presidential election, 2010: Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/polish-presidential-election-2010-bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczya.md) _2018-02-06 13:49:20 (First version)_
 1. [Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczyaski-has-46-99-of-the-vote.md) _(Current version)_
 
 ### Related:

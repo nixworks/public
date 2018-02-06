@@ -19,8 +19,8 @@ Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the d
 
 ### Changes:
 
-1. [President Robert Mugabe got fired as the leader of ZANU-PF and was replaced with Emmerson Mnangagwa, the former Vice President of Zimbabwe. ](/news/2017/11/19/president-robert-mugabe-got-fired-as-the-leader-of-zanuapf-and-was-replaced-with-emmerson-mnangagwa-the-former-vice-president-of-zimbabwe.md) _2017-11-19 15:30:04 (First version)_
-2. [President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with Emmerson Mnangagwa, the former Vice President of Zimbabwe. ](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as-the-leader-of-zanuapf-and-replaced-with-emmerson-mnangagwa-the-former-vice-president-of-z.md) _2017-11-19 19:30:05 (Update)_
+1. [President Robert Mugabe got fired as the leader of ZANU-PF and was replaced with Emmerson Mnangagwa, the former Vice President of Zimbabwe. ](/news/2017/11/19/president-robert-mugabe-got-fired-as-the-leader-of-zanuapf-and-was-replaced-with-emmerson-mnangagwa-the-former-vice-president-of-zimbabwe.md) _2018-02-06 13:49:31 (First version)_
+2. [President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with Emmerson Mnangagwa, the former Vice President of Zimbabwe. ](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as-the-leader-of-zanuapf-and-replaced-with-emmerson-mnangagwa-the-former-vice-president-of-z.md) _2018-02-06 13:49:31 (Update)_
 2. [President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with former Vice President Emmerson Mnangagwa. ](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as-the-leader-of-zanuapf-and-replaced-with-former-vice-president-emmerson-mnangagwa.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Zika virus is likely to spread across nearly all of the Americas, the World 
 
 ### Changes:
 
-1. [Zika virus outbreak in Brazil (2015 - present): The World Health Organisation warns that the Zika virus could spread to most countries in the Americas. ](/news/2016/01/25/zika-virus-outbreak-in-brazil-2015-present-the-world-health-organisation-warns-that-the-zika-virus-could-spread-to-most-countries-in-th.md) _2017-08-27 03:44:45 (First version)_
+1. [Zika virus outbreak in Brazil (2015 - present): The World Health Organisation warns that the Zika virus could spread to most countries in the Americas. ](/news/2016/01/25/zika-virus-outbreak-in-brazil-2015-present-the-world-health-organisation-warns-that-the-zika-virus-could-spread-to-most-countries-in-th.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Health Organisation warns that the Zika virus could spread to most countries in the Americas. ](/news/2016/01/25/the-world-health-organisation-warns-that-the-zika-virus-could-spread-to-most-countries-in-the-americas.md) _(Current version)_
 
 ### Related:

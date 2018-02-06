@@ -17,8 +17,8 @@ Prices in Zimbabwe could be 1,000 times higher at the end of this year than they
 
 ### Changes:
 
-1. [ Zimbabwe: The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/zimbabwe-p-the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-presi.md) _2017-08-25 03:20:23 (First version)_
-2. [ Zimbabwe:: The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/zimbabwe-the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-presi.md) _2017-08-27 03:20:21 (Update)_
+1. [ Zimbabwe:: The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/zimbabwe-the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-presi.md) _2018-02-06 13:49:17 (First version)_
+2. [ Zimbabwe: The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/zimbabwe-p-the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-presi.md) _2018-02-06 13:49:17 (Update)_
 2. [ The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-president-for-li.md) _(Current version)_
 
 ### Related:

@@ -9,11 +9,11 @@ Gulf nations suspend mediation efforts after Saleh fails to sign exit pact and w
 
 ##### civil war
 ### [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md)
-_Context: Tripoli, Muammar Gaddafi, NATO, Libya, civil war_
+_Context: Muammar Gaddafi, Libya, civil war, Tripoli, NATO_
 
 ##### suicide bomber
 ### [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md)
-_Context: Khost, Afghanistan, Afghan government, suicide bomber_
+_Context: Khost, Afghan government, Afghanistan, suicide bomber_
 
 ##### bomb
 ### [A series of bomb attacks around the Iraqi capital of Baghdad kills at least 18 people, including 7 policemen. ](/news/2011/05/22/a-series-of-bomb-attacks-around-the-iraqi-capital-of-baghdad-kills-at-least-18-people-including-7-policemen.md)
@@ -25,19 +25,19 @@ The United Nations Security Council called on the north Sudanese army to withdra
 
 ##### African Union
 ### [African Union and Somali troops advance on Mogadishu's Bakara market, a rebel-held area, amid intense fighting. ](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.md)
-_Context: Mogadishu, Somalia, African Union_
+_Context: African Union, Somalia, Mogadishu_
 
 ##### Pakistan Air Force
 ### [Three explosions rock a Pakistan Air Force base in the southern city of Karachi. ](/news/2011/05/22/three-explosions-rock-a-pakistan-air-force-base-in-the-southern-city-of-karachi.md)
 _Context: Pakistan Air Force, Karachi_
 
-##### British
+##### United Kingdom
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
-_Context: Iraq, Royal Navy, military operation, British_
+_Context: military operation, Royal Navy, Iraq, United Kingdom_
 
 ##### Taliban
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
-_Context: Taliban, Afghanistan, Kazakhstan_
+_Context: Kazakhstan, Taliban, Afghanistan_
 
 ##### The Tree of Life
 ### ["The Tree of Life", directed by Terrence Malick and starring Brad Pitt, wins the Palme d'Or at the 2011 Cannes Film Festival. ](/news/2011/05/22/the-tree-of-life-directed-by-terrence-malick-and-starring-brad-pitt-wins-the-palme-d-or-at-the-2011-cannes-film-festival.md)
@@ -49,7 +49,7 @@ Sherlock wins a pair of trophies including best drama series at the Bafta TV Awa
 
 ##### Princess Beatrice
 ### [The infamous hat worn by Princess Beatrice at the 2011 Royal Wedding has been sold on auction site eBay for GBP81,100.01. Funds raised from the sale will go to the charities UNICEF and Children in Crisis. ](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-the-2011-royal-wedding-has-been-sold-on-auction-site-ebay-for-agbp81-100-01-funds-raised-from.md)
-_Context: Princess Beatrice, UNICEF, eBay, 2011 Royal Wedding, Children in Crisis_
+_Context: UNICEF, 2011 Royal Wedding, Princess Beatrice, Children in Crisis, eBay_
 
 ##### Jimmy Choo
 ### [US company Jimmy Choo is sold to private equity firm Labelux for $800 million. ](/news/2011/05/22/us-company-jimmy-choo-is-sold-to-private-equity-firm-labelux-for-800-million.md)
@@ -57,7 +57,7 @@ _Context: Jimmy Choo, Labelux_
 
 ##### Government of Iceland
 ### [The Government of Iceland imposes a flight ban, following the eruption of Iceland's most active volcano, Grimsvotn. ](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-following-the-eruption-of-iceland-s-most-active-volcano-gramsvaptn.md)
-_Context: Iceland, volcano, Grimsvotn, Government of Iceland_
+_Context: Government of Iceland, Iceland, Grimsvotn, volcano_
 
 ##### Minneapolis
 ### [Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killing-at-least-one-person.md)
@@ -65,11 +65,11 @@ Powerful storm blew into metro, killing 1, injuring 30 and putting North Side un
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan, the Premier of China Wen Jiabao and the President of South Korea Lee Myung Bak meet in Japan and agree to improve cooperation on nuclear and economic issues. ](/news/2011/05/22/the-prime-minister-of-japan-naoto-kan-the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-meet-in-japan-and-agre.md)
-_Context: South Korean President, Japan, Wen Jiabao, Lee Myung Bak, Naoto Kan, Premier of China, Prime Minister of Japan_
+_Context: Lee Myung Bak, Japan, Prime Minister of Japan, Premier of China, Wen Jiabao, Naoto Kan, South Korean President_
 
 ##### Hamid Baqai
 ### [Hamid Baqai, the Chief of Staff of the Iranian President, is banned from public office for four years, after it was exposed that he was involved in a multi-million dollar embezzlement during the construction of a building on Kish Island in 2010. ](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.md)
-_Context: Hamid Baqai, Kish Island, President_
+_Context: President, Kish Island, Hamid Baqai_
 
 ##### The Sunday Herald
 ### [Scottish newspaper "The Sunday Herald" names a footballer accused of being linked to a privacy superinjunction by users of social networking website Twitter, arguing that the injunction is only enforceable under English law and does not apply in Scots law. ](/news/2011/05/22/scottish-newspaper-the-sunday-herald-names-a-footballer-accused-of-being-linked-to-a-privacy-superinjunction-by-users-of-social-networking.md)
@@ -89,7 +89,7 @@ _Context: Cyprus, parliamentary election_
 
 ##### Mahmoud Ahmadinejad
 ### [Mahmoud Ahmadinejad, President of Iran, nominates Ali Nikzad to head the newly-established Ministry of Infrastructure. ](/news/2011/05/22/mahmoud-ahmadinejad-president-of-iran-nominates-ali-nikzad-to-head-the-newly-established-ministry-of-infrastructure.md)
-_Context: Mahmoud Ahmadinejad, President, Ministry of Infrastructure, Ali Nikzad_
+_Context: Mahmoud Ahmadinejad, Ministry of Infrastructure, President, Ali Nikzad_
 
 ##### nuclear power
 ### [20,000 people attend an anti-nuclear rally in Switzerland. ](/news/2011/05/22/20-000-people-attend-an-anti-nuclear-rally-in-switzerland.md)
@@ -111,7 +111,7 @@ Spain’s Socialists suffered their worst electoral defeat in more than 30 years
 
 ##### Tim Pawlenty
 ### [Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. ](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.md)
-_Context: nomination, Minnesota Governor, candidacy, Tim Pawlenty, U.S. President_
+_Context: U.S. President, nomination, candidacy, Minnesota Governor, Tim Pawlenty_
 
 ## [Previous Day...](/news/2011/05/21/index.md)
 

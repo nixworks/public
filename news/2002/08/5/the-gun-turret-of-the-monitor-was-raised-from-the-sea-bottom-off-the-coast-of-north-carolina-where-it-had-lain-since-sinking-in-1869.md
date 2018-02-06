@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/08/5/the-gun-turret-of-the-monitor-was-raised-from-th
 
 ### Changes:
 
-1. [ The gun turret of the {{USS|Monitor}} was raised from the sea bottom off the coast of North Carolina, where it had lain since sinking in 1869.](/news/2002/08/5/the-gun-turret-of-the-uss-monitor-was-raised-from-the-sea-bottom-off-the-coast-of-north-carolina-where-it-had-lain-since-sinking-in-18.md) _2017-05-01 03:15:15 (First version)_
+1. [ The gun turret of the {{USS|Monitor}} was raised from the sea bottom off the coast of North Carolina, where it had lain since sinking in 1869.](/news/2002/08/5/the-gun-turret-of-the-uss-monitor-was-raised-from-the-sea-bottom-off-the-coast-of-north-carolina-where-it-had-lain-since-sinking-in-18.md) _2018-02-06 13:49:15 (First version)_
 1. [ The gun turret of the Monitor was raised from the sea bottom off the coast of North Carolina, where it had lain since sinking in 1869.](/news/2002/08/5/the-gun-turret-of-the-monitor-was-raised-from-the-sea-bottom-off-the-coast-of-north-carolina-where-it-had-lain-since-sinking-in-1869.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ NASA’s decision this week to give up trying to move stuck Mars rover Spirit ma
 
 ### Changes:
 
-1. [NASA and Cornell University have given up attempting to move the ''Spirit'' rover, currently stuck in sand near Home Plate, Gusev crater on the planet Mars, and are converting it into a stationary outpost. Its twin rover, ''Opportunity'', remains mobile on Mars. ](/news/2010/02/3/nasa-and-cornell-university-have-given-up-attempting-to-move-the-spirit-rover-currently-stuck-in-sand-near-home-plate-gusev-crater-on.md) _2017-08-25 03:27:05 (First version)_
+1. [NASA and Cornell University have given up attempting to move the ''Spirit'' rover, currently stuck in sand near Home Plate, Gusev crater on the planet Mars, and are converting it into a stationary outpost. Its twin rover, ''Opportunity'', remains mobile on Mars. ](/news/2010/02/3/nasa-and-cornell-university-have-given-up-attempting-to-move-the-spirit-rover-currently-stuck-in-sand-near-home-plate-gusev-crater-on.md) _2018-02-06 13:49:19 (First version)_
 1. [NASA and Cornell University have given up attempting to move the "Spirit" rover, currently stuck in sand near Home Plate, Gusev crater on the planet Mars, and are converting it into a stationary outpost. Its twin rover, "Opportunity", remains mobile on Mars. ](/news/2010/02/3/nasa-and-cornell-university-have-given-up-attempting-to-move-the-spirit-rover-currently-stuck-in-sand-near-home-plate-gusev-crater-on-th.md) _(Current version)_
 
 ### Related:

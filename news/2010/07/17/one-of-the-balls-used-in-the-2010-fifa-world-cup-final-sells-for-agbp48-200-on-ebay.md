@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cu
 
 ### Changes:
 
-1. [One of the balls used in the 2010 FIFA World Cup Final sells for PS48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-aps48-200-on-ebay.md) _2017-08-25 03:28:48 (First version)_
+1. [One of the balls used in the 2010 FIFA World Cup Final sells for PS48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-aps48-200-on-ebay.md) _2018-02-06 13:49:20 (First version)_
 1. [One of the balls used in the 2010 FIFA World Cup Final sells for GBP48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-agbp48-200-on-ebay.md) _(Current version)_
 
 ### Related:

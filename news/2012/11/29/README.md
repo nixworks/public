@@ -9,7 +9,7 @@ Syrian rebels battled forces loyal to President Bashar al-Assad just outside Dam
 
 ##### Shia Muslim
 ### [Bombs in two majority Shia Muslim cities in southern Iraq, Hillah and Karbala, kill at least 30 people and wound more than 100. ](/news/2012/11/29/bombs-in-two-majority-shia-muslim-cities-in-southern-iraq-hillah-and-karbala-kill-at-least-30-people-and-wound-more-than-100.md)
-_Context: Iraq, Hillah, Shia Muslim, Karbala_
+_Context: Shia Muslim, Karbala, Hillah, Iraq_
 
 ##### police
 ### [Police in Burma break up a three-month-long protest against the expansion of a copper mine run by the military and a Chinese company. ](/news/2012/11/29/police-in-burma-break-up-a-three-month-long-protest-against-the-expansion-of-a-copper-mine-run-by-the-military-and-a-chinese-company.md)
@@ -37,7 +37,7 @@ A UN war crimes tribunal acquits former Kosovan Prime Minister Ramush Haradinaj 
 
 ##### Florida Atlantic University
 ### [The Arts and Letters Building at Florida Atlantic University's campus in Boca Raton, Florida, and the nearby Boca Raton campus of Palm Beach State College, are given the all-clear and are back to normal after police locked them both down for three hours searching for a gunman believed to have robbed a student at gunpoint, no injuries. ](/news/2012/11/29/the-arts-and-letters-building-at-florida-atlantic-university-s-campus-in-boca-raton-florida-and-the-nearby-boca-raton-campus-of-palm-beach.md)
-_Context: Florida Atlantic University, all-clear, Palm Beach State College, Boca Raton, Florida_
+_Context: all-clear, Boca Raton, Florida, Florida Atlantic University, Palm Beach State College_
 
 ##### Lord Leveson
 ### [Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md)
@@ -49,7 +49,7 @@ President Barack Obama and his vanquished Republican challenger, Mitt Romney, sa
 
 ##### Draft constitution
 ### [A committee charged with developing a new Egyptian constitution releases a final draft as protests against sweeping new powers granted to President Mohamed Morsi continue. ](/news/2012/11/29/a-committee-charged-with-developing-a-new-egyptian-constitution-releases-a-final-draft-as-protests-against-sweeping-new-powers-granted-to-pr.md)
-_Context: Mohamed Morsi, President, Draft constitution_
+_Context: Draft constitution, President, Mohamed Morsi_
 
 ##### Michigan State Senator
 ### [Michigan State Senator Rick Jones of the Republican Party proposes dissolving the city of Detroit due to financial problems. ](/news/2012/11/29/michigan-state-senator-rick-jones-of-the-republican-party-proposes-dissolving-the-city-of-detroit-due-to-financial-problems.md)
@@ -69,7 +69,7 @@ A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of thre
 
 ##### darter fish
 ### [The new species of darter fish are classified and named as "Etheostoma obama" after U.S. President Barack Obama. ](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-and-named-as-etheostoma-obama-after-u-s-president-barack-obama.md)
-_Context: U.S. President, Etheostoma obama, Barack Obama, darter fish_
+_Context: Etheostoma obama, U.S. President, darter fish, Barack Obama_
 
 ## [Previous Day...](/news/2012/11/28/index.md)
 

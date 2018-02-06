@@ -24,8 +24,8 @@ Thousands of protesters surge through an eastern Uzbekistani city, enraged by th
 
 ### Changes:
 
-1. [ Unrest In Uzbekistan: Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/unrest-in-uzbekistan-p-thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the.md) _2017-08-25 03:16:11 (First version)_
-2. [ Unrest In Uzbekistan:: Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/unrest-in-uzbekistan-thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the.md) _2017-08-27 03:16:13 (Update)_
+1. [ Unrest In Uzbekistan:: Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/unrest-in-uzbekistan-thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the.md) _2018-02-06 13:49:16 (First version)_
+2. [ Unrest In Uzbekistan: Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/unrest-in-uzbekistan-p-thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the.md) _2018-02-06 13:49:16 (Update)_
 2. [ Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the-jail-sentence-of-23-bu.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/08/3/syrian-forces-shell-and-advance-on-the-city-of-h
 
 ### Changes:
 
-1. [2011 Syrian uprising:Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/2011-syrian-uprising-psyrian-forces-shell-and-advance-on-the-city-of-hama.md) _2017-08-25 03:33:56 (First version)_
-2. [2011 Syrian uprising:: Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/2011-syrian-uprising-syrian-forces-shell-and-advance-on-the-city-of-hama.md) _2017-08-27 03:34:04 (Update)_
+1. [2011 Syrian uprising:: Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/2011-syrian-uprising-syrian-forces-shell-and-advance-on-the-city-of-hama.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/2011-syrian-uprising-psyrian-forces-shell-and-advance-on-the-city-of-hama.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/syrian-forces-shell-and-advance-on-the-city-of-hama.md) _(Current version)_
 
 ### Related:

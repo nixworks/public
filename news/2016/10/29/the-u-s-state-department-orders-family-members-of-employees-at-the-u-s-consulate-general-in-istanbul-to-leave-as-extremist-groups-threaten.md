@@ -16,8 +16,8 @@ The State Department cited fears of attacks by extremist groups in ordering fami
 
 ### Changes:
 
-1. [The U.S. State Department orders family members of employees at the U.S. Consulate General in Istanbul to leave as extremist groups threaten to kill or kidnap U.S. citizens and Westerners. ](/news/2016/10/29/the-u-s-state-department-orders-family-members-of-employees-at-the-u-s-consulate-general-in-istanbul-to-leave-as-extremist-groups-threate.md) _2017-08-25 03:46:43 (First version)_
-2. [Turkey-United States relations: The U.S. State Department orders family members of employees at the U.S. Consulate General in Istanbul to leave as extremist groups threaten to kill or kidnap U.S. citizens and Westerners. ](/news/2016/10/29/turkey-united-states-relations-the-u-s-state-department-orders-family-members-of-employees-at-the-u-s-consulate-general-in-istanbul-to-le.md) _2017-08-27 03:47:08 (Update)_
+1. [Turkey-United States relations: The U.S. State Department orders family members of employees at the U.S. Consulate General in Istanbul to leave as extremist groups threaten to kill or kidnap U.S. citizens and Westerners. ](/news/2016/10/29/turkey-united-states-relations-the-u-s-state-department-orders-family-members-of-employees-at-the-u-s-consulate-general-in-istanbul-to-le.md) _2018-02-06 13:49:29 (First version)_
+2. [The U.S. State Department orders family members of employees at the U.S. Consulate General in Istanbul to leave as extremist groups threaten to kill or kidnap U.S. citizens and Westerners. ](/news/2016/10/29/the-u-s-state-department-orders-family-members-of-employees-at-the-u-s-consulate-general-in-istanbul-to-leave-as-extremist-groups-threate.md) _2018-02-06 13:49:29 (Update)_
 2. [The U.S. State Department orders family members of employees at the U.S. Consulate General in Istanbul to leave as extremist groups threaten to kill or kidnap U.S. citizens and Westerners. ](/news/2016/10/29/the-u-s-state-department-orders-family-members-of-employees-at-the-u-s-consulate-general-in-istanbul-to-leave-as-extremist-groups-threaten.md) _(Current version)_
 
 ### Related:

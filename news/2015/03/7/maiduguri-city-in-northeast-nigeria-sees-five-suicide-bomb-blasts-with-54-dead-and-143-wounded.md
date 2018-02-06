@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/7/maiduguri-city-in-northeast-nigeria-sees-five-su
 
 ### Changes:
 
-1. [Boko Haram: Maiduguri city in northeast Nigeria sees five suicide bomb blasts with 54 dead and 143 wounded. ](/news/2015/03/7/boko-haram-maiduguri-city-in-northeast-nigeria-sees-five-suicide-bomb-blasts-with-54-dead-and-143-wounded.md) _2017-08-27 03:42:03 (First version)_
+1. [Boko Haram: Maiduguri city in northeast Nigeria sees five suicide bomb blasts with 54 dead and 143 wounded. ](/news/2015/03/7/boko-haram-maiduguri-city-in-northeast-nigeria-sees-five-suicide-bomb-blasts-with-54-dead-and-143-wounded.md) _2018-02-06 13:49:27 (First version)_
 1. [Maiduguri city in northeast Nigeria sees five suicide bomb blasts with 54 dead and 143 wounded. ](/news/2015/03/7/maiduguri-city-in-northeast-nigeria-sees-five-suicide-bomb-blasts-with-54-dead-and-143-wounded.md) _(Current version)_
 
 ### Related:

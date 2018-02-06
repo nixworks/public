@@ -16,7 +16,7 @@ A major power plant in the eastern Libyan city of Benghazi has been attacked by 
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A major power station in the eastern Libyan city of Benghazi is shelled by militants. ](/news/2016/01/9/libyan-civil-war-2014-present-a-major-power-station-in-the-eastern-libyan-city-of-benghazi-is-shelled-by-militants.md) _2017-08-27 03:44:38 (First version)_
+1. [Libyan Civil War (2014-present): A major power station in the eastern Libyan city of Benghazi is shelled by militants. ](/news/2016/01/9/libyan-civil-war-2014-present-a-major-power-station-in-the-eastern-libyan-city-of-benghazi-is-shelled-by-militants.md) _2018-02-06 13:49:28 (First version)_
 1. [A major power station in the eastern Libyan city of Benghazi is shelled by militants. ](/news/2016/01/9/a-major-power-station-in-the-eastern-libyan-city-of-benghazi-is-shelled-by-militants.md) _(Current version)_
 
 ### Related:

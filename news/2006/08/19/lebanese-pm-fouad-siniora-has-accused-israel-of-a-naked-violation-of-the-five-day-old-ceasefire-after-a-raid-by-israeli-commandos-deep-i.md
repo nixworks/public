@@ -21,8 +21,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/2006-israel-lebanon-conflict-p-lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-r.md) _2017-08-25 03:18:13 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/2006-israel-lebanon-conflict-lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-r.md) _2017-08-27 03:18:09 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/2006-israel-lebanon-conflict-p-lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-r.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/2006-israel-lebanon-conflict-lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-r.md) _2018-02-06 13:49:17 (Update)_
 2. [ Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-raid-by-israeli-commandos-deep-i.md) _(Current version)_
 
 ### Related:

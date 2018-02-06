@@ -16,7 +16,7 @@ Oscar-winning 1991 thriller The Silence of the Lambs is to be preserved by the U
 
 ### Changes:
 
-1. [''The Silence of the Lambs'', a 1991 thriller film starring Jodie Foster and Anthony Hopkins, is to be preserved by the United States Library of Congress as part of its National Film Registry. ](/news/2011/12/28/the-silence-of-the-lambs-a-1991-thriller-film-starring-jodie-foster-and-anthony-hopkins-is-to-be-preserved-by-the-united-states-librar.md) _2017-08-25 03:34:44 (First version)_
+1. [''The Silence of the Lambs'', a 1991 thriller film starring Jodie Foster and Anthony Hopkins, is to be preserved by the United States Library of Congress as part of its National Film Registry. ](/news/2011/12/28/the-silence-of-the-lambs-a-1991-thriller-film-starring-jodie-foster-and-anthony-hopkins-is-to-be-preserved-by-the-united-states-librar.md) _2018-02-06 13:49:23 (First version)_
 1. ["The Silence of the Lambs", a 1991 thriller film starring Jodie Foster and Anthony Hopkins, is to be preserved by the United States Library of Congress as part of its National Film Registry. ](/news/2011/12/28/the-silence-of-the-lambs-a-1991-thriller-film-starring-jodie-foster-and-anthony-hopkins-is-to-be-preserved-by-the-united-states-library.md) _(Current version)_
 
 ### Related:

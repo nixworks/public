@@ -20,7 +20,7 @@ At least two people have been killed in an explosion at a civil guard barracks o
 
 ### Changes:
 
-1. [ Palmanova bombing: At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/palmanova-bombing-at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-o.md) _2017-08-27 03:25:10 (First version)_
+1. [ Palmanova bombing: At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/palmanova-bombing-at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-o.md) _2018-02-06 13:49:19 (First version)_
 1. [ At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-of-mallorca.md) _(Current version)_
 
 ### Related:

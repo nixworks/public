@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/7/index.html)  [JSON](2011/09/7/index.json)  [XML](2011/
 
 ##### Pakistan
 ### [At least eleven people are killed following bombings in the Pakistan city of Quetta. ](/news/2011/09/7/at-least-eleven-people-are-killed-following-bombings-in-the-pakistan-city-of-quetta.md)
-_Context: Quetta, Pakistan_
+_Context: Pakistan, Quetta_
 
 ##### bomb explosion
 ### [A bomb explosion outside the Delhi High Court in the Indian court in New Delhi kills at least nine people and injures another 45. ](/news/2011/09/7/a-bomb-explosion-outside-the-delhi-high-court-in-the-indian-court-in-new-delhi-kills-at-least-nine-people-and-injures-another-45.md)
@@ -25,7 +25,7 @@ _Context: Saab Automobile, bankruptcy, Swede_
 
 ##### Yak Service
 ### [A Yak Service Yak-42 carrying the KHL hockey team Lokomotiv Yaroslavl crashes near Yaroslavl, Russia, killing 44. ](/news/2011/09/7/a-yak-service-yak-42-carrying-the-khl-hockey-team-lokomotiv-yaroslavl-crashes-near-yaroslavl-russia-killing-44.md)
-_Context: Lokomotiv Yaroslavl, crashes, Yak Service, Yak-42, KHL, Yaroslavl_
+_Context: Yak Service, Lokomotiv Yaroslavl, crashes, KHL, Yak-42, Yaroslavl_
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate is set to arrive at the Atlantic coast of Mexico tonight or tomorrow morning. ](/news/2011/09/7/tropical-storm-nate-is-set-to-arrive-at-the-atlantic-coast-of-mexico-tonight-or-tomorrow-morning.md)
@@ -37,7 +37,7 @@ Dozens of districts closed schools early due to flooding, power outages and conc
 
 ##### Prime Minister
 ### [The Prime Minister of India Manmohan Singh and the Prime Minister of Bangladesh Sheikh Hasina sign an accord ending four decades of disputes over the borders of India and Bangladesh. ](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.md)
-_Context: Prime Minister, India, Bangladesh, Sheikh Hasina, Manmohan Singh, borders, Prime Minister_
+_Context: India, Bangladesh, Sheikh Hasina, Prime Minister, Prime Minister, borders, Manmohan Singh_
 
 ##### First Minister
 ### [Scottish First Minister Alex Salmond unveils a legislative programme for the coming year which includes plans to create a single police force and a single fire service for Scotland. ](/news/2011/09/7/scottish-first-minister-alex-salmond-unveils-a-legislative-programme-for-the-coming-year-which-includes-plans-to-create-a-single-police-forc.md)
@@ -45,7 +45,7 @@ Legislation to create a single police force and single fire service in Scotland 
 
 ##### Republican
 ### [Republican Party candidates in the 2012 US presidential election hold a debate in California's Simi Valley. ](/news/2011/09/7/republican-party-candidates-in-the-2012-us-presidential-election-hold-a-debate-in-california-s-simi-valley.md)
-_Context: Simi Valley, United States presidential election, 2012, California, Republican_
+_Context: California, Republican, United States presidential election, 2012, Simi Valley_
 
 ## [Previous Day...](/news/2011/09/6/index.md)
 

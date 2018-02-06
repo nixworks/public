@@ -17,7 +17,7 @@ Denmark has resumed rail services to Germany, after closing the train line and a
 
 ### Changes:
 
-1. [European migrant crisis: Denmark reopens rail services to Germany after closing rail lines and a motorway in order to stem the flow of migrants on their way to Sweden. ](/news/2015/09/10/european-migrant-crisis-denmark-reopens-rail-services-to-germany-after-closing-rail-lines-and-a-motorway-in-order-to-stem-the-flow-of-migra.md) _2017-08-27 03:43:01 (First version)_
+1. [European migrant crisis: Denmark reopens rail services to Germany after closing rail lines and a motorway in order to stem the flow of migrants on their way to Sweden. ](/news/2015/09/10/european-migrant-crisis-denmark-reopens-rail-services-to-germany-after-closing-rail-lines-and-a-motorway-in-order-to-stem-the-flow-of-migra.md) _2018-02-06 13:49:27 (First version)_
 1. [Denmark reopens rail services to Germany after closing rail lines and a motorway in order to stem the flow of migrants on their way to Sweden. ](/news/2015/09/10/denmark-reopens-rail-services-to-germany-after-closing-rail-lines-and-a-motorway-in-order-to-stem-the-flow-of-migrants-on-their-way-to-swede.md) _(Current version)_
 
 ### Related:

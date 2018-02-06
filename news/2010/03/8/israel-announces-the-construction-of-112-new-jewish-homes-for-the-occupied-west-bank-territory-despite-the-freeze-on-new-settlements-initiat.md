@@ -17,8 +17,8 @@ Israel has approved the construction of 112 new Jewish homes in the occupied Wes
 
 ### Changes:
 
-1. [Middle East:Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-pisrael-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settle.md) _2017-08-25 03:27:19 (First version)_
-2. [Middle East:: Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-israel-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settl.md) _2017-08-27 03:27:13 (Update)_
+1. [Middle East:Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-pisrael-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settle.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-israel-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settl.md) _2018-02-06 13:49:19 (Update)_
 2. [Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/israel-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settlements-initiat.md) _(Current version)_
 
 ### Related:

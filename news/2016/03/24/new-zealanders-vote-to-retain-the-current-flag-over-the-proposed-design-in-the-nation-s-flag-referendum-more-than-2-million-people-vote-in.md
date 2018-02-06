@@ -18,7 +18,7 @@ Prime Minister John Key says he is disappointed New Zealanders have voted to kee
 
 ### Changes:
 
-1. [New Zealand flag debate: New Zealanders vote to retain the current flag over the proposed design in the nation's flag referendum. More than 2 million people vote in the referendum. ](/news/2016/03/24/new-zealand-flag-debate-new-zealanders-vote-to-retain-the-current-flag-over-the-proposed-design-in-the-nation-s-flag-referendum-more-than.md) _2017-08-27 03:45:21 (First version)_
+1. [New Zealand flag debate: New Zealanders vote to retain the current flag over the proposed design in the nation's flag referendum. More than 2 million people vote in the referendum. ](/news/2016/03/24/new-zealand-flag-debate-new-zealanders-vote-to-retain-the-current-flag-over-the-proposed-design-in-the-nation-s-flag-referendum-more-than.md) _2018-02-06 13:49:28 (First version)_
 1. [New Zealanders vote to retain the current flag over the proposed design in the nation's flag referendum. More than 2 million people vote in the referendum. ](/news/2016/03/24/new-zealanders-vote-to-retain-the-current-flag-over-the-proposed-design-in-the-nation-s-flag-referendum-more-than-2-million-people-vote-in.md) _(Current version)_
 
 ### Related:

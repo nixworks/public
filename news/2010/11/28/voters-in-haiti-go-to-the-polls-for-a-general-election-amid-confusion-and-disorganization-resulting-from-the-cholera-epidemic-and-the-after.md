@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-e
 
 ### Changes:
 
-1. [Haitian general election, 2010:Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-pvoters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-th.md) _2017-08-25 03:31:11 (First version)_
-2. [Haitian general election, 2010:: Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-t.md) _2017-08-27 03:31:19 (Update)_
+1. [Haitian general election, 2010:: Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-t.md) _2018-02-06 13:49:21 (First version)_
+2. [Haitian general election, 2010:Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-pvoters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-th.md) _2018-02-06 13:49:21 (Update)_
 2. [Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-the-cholera-epidemic-and-the-after.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/19/index.html)  [JSON](2013/10/19/index.json)  [XML](201
 
 ##### suicide bomber
 ### [A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md)
-_Context: suicide bomber, Syrian Army, Damascus_
+_Context: Syrian Army, suicide bomber, Damascus_
 
 ##### Somalia
 ### [16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central-somali-town-of-beledweyne.md)

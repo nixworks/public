@@ -19,7 +19,7 @@ The Supreme Court temporarily blocked a Virginia transgender student from using 
 
 ### Changes:
 
-1. [The United States Supreme Court grants a Virginia school board's emergency request to stop implementation of the federal government policy that calls for student use of the bathroom consistent with their gender identity in order to allow the board to appeal the Fourth Circuit Court ruling that upheld this policy. ](/news/2016/08/3/the-united-states-supreme-court-grants-a-virginia-school-board-s-emergency-request-to-stop-implementation-of-the-federal-government-policy.md) _2017-08-25 03:46:13 (First version)_
+1. [The United States Supreme Court grants a Virginia school board's emergency request to stop implementation of the federal government policy that calls for student use of the bathroom consistent with their gender identity in order to allow the board to appeal the Fourth Circuit Court ruling that upheld this policy. ](/news/2016/08/3/the-united-states-supreme-court-grants-a-virginia-school-board-s-emergency-request-to-stop-implementation-of-the-federal-government-policy.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Supreme Court grants a Virginia school board's emergency request to stop implementation of the federal government policy that calls for student use of the bathroom consistent with their gender identity in order to allow the board to appeal the Fourth Circuit Court ruling that upheld this policy. ](/news/2016/08/3/the-united-states-supreme-court-grants-a-virginia-school-board-s-emergency-request-to-stop-implementation-of-the-federal-government-policy-t.md) _(Current version)_
 
 ### Related:

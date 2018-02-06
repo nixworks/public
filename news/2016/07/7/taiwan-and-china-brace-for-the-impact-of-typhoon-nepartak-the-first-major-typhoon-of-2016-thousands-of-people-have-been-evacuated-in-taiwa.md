@@ -18,7 +18,7 @@ Taiwan is experiencing extreme winds and lashing rains as the first typhoon of t
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/2016-pacific-typhoon-season-taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people.md) _2017-08-27 03:46:26 (First version)_
+1. [2016 Pacific typhoon season: Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/2016-pacific-typhoon-season-taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people.md) _2018-02-06 13:49:29 (First version)_
 1. [Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people-have-been-evacuated-in-taiwa.md) _(Current version)_
 
 ### Related:

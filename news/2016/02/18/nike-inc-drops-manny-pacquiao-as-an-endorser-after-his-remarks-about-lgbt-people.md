@@ -17,7 +17,7 @@ Nike terminates its relationship with Manny Pacquiao after the boxing great desc
 
 ### Changes:
 
-1. [Philippine Senate election, 2016: Nike, Inc. drops Manny Pacquiao as an endorser after his remarks about LGBT people. ](/news/2016/02/18/philippine-senate-election-2016-nike-inc-drops-manny-pacquiao-as-an-endorser-after-his-remarks-about-lgbt-people.md) _2017-08-27 03:44:56 (First version)_
+1. [Philippine Senate election, 2016: Nike, Inc. drops Manny Pacquiao as an endorser after his remarks about LGBT people. ](/news/2016/02/18/philippine-senate-election-2016-nike-inc-drops-manny-pacquiao-as-an-endorser-after-his-remarks-about-lgbt-people.md) _2018-02-06 13:49:28 (First version)_
 1. [Nike, Inc. drops Manny Pacquiao as an endorser after his remarks about LGBT people. ](/news/2016/02/18/nike-inc-drops-manny-pacquiao-as-an-endorser-after-his-remarks-about-lgbt-people.md) _(Current version)_
 
 ### Related:

@@ -9,11 +9,11 @@ _Context: Homs, 2011-2012 Syrian uprising_
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: Dozens are killed and wounded as fighting intensifies between the Russian forces and the local Muslim insurgents in Chechnya and Dagestan. ](/news/2012/02/17/insurgency-in-the-north-caucasus-dozens-are-killed-and-wounded-as-fighting-intensifies-between-the-russian-forces-and-the-local-muslim-insu.md)
-_Context: Chechnya, Dagestan, fighting intensifies, Russia, Insurgency in the North Caucasus_
+_Context: Russia, Dagestan, fighting intensifies, Insurgency in the North Caucasus, Chechnya_
 
 ##### Thai police officers
 ### [Thai police search for two more suspects in an attempted terror attack on Israeli diplomats widely blamed on Iran. ](/news/2012/02/17/thai-police-search-for-two-more-suspects-in-an-attempted-terror-attack-on-israeli-diplomats-widely-blamed-on-iran.md)
-_Context: Iran, Thai police officers, Israel_
+_Context: Thai police officers, Israel, Iran_
 
 ##### Capitol Police
 ### [United States Capitol Police and the Federal Bureau of Investigation arrested Amine El Khalifi, a man from Morocco who allegedly planned a suicide attack on the United States Capitol. ](/news/2012/02/17/united-states-capitol-police-and-the-federal-bureau-of-investigation-arrested-amine-el-khalifi-a-man-from-morocco-who-allegedly-planned-a-s.md)
@@ -49,9 +49,9 @@ _Context: World Bank, Robert Zoellick_
 
 ##### Prince Friso of Orange-Nassau
 ### [Prince Friso of Orange-Nassau, a member of the Dutch royal family, is severely injured in an avalanche at an Austrian ski resort and is reported to be in critical but stable condition. ](/news/2012/02/17/prince-friso-of-orange-nassau-a-member-of-the-dutch-royal-family-is-severely-injured-in-an-avalanche-at-an-austrian-ski-resort-and-is-repo.md)
-_Context: Queen of the Netherlands, Prince Friso of Orange-Nassau, Austria_
+_Context: Queen of the Netherlands, Austria, Prince Friso of Orange-Nassau_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom and France sign a deal to improve cooperation on nuclear energy. ](/news/2012/02/17/the-united-kingdom-and-france-sign-a-deal-to-improve-cooperation-on-nuclear-energy.md)
 The UK signs a deal with France to strengthen co-operation on civil nuclear energy as a Franco-British summit is held in Paris.
 
@@ -61,7 +61,7 @@ German President Christian Wulff announces his resignation, after prosecutors ca
 
 ##### Senator
 ### [The Senate of the United States passes a resolution condemning the Government of Syria for its violent crackdown on anti-Assad protests. ](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.md)
-_Context: Senator, Government of Syria, Bashar Assad's_
+_Context: Bashar Assad's, Senator, Government of Syria_
 
 ## [Previous Day...](/news/2012/02/16/index.md)
 

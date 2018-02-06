@@ -11,8 +11,8 @@ Formats: [HTML](/news/2000/10/12/in-aden-yemen-the-cole-6-is-badly-damaged-by-tw
 
 ### Changes:
 
-1. [In Aden, Yemen, the {{USS|Cole|DDG-67|6}} is badly damaged by two suicide bombers who placed a small boat laden with explosives alongside the United States Navy destroyer, killing 17 crew members and wounding at least 39.](/news/2000/10/12/in-aden-yemen-the-uss-cole-ddg-67-6-is-badly-damaged-by-two-suicide-bombers-who-placed-a-small-boat-laden-with-explosives-alongside-th.md) _2017-05-01 03:15:09 (First version)_
-2. [In Aden, Yemen, the Cole|DDG-67|6 is badly damaged by two suicide bombers who placed a small boat laden with explosives alongside the United States Navy destroyer, killing 17 crew members and wounding at least 39.](/news/2000/10/12/in-aden-yemen-the-cole-ddg-67-6-is-badly-damaged-by-two-suicide-bombers-who-placed-a-small-boat-laden-with-explosives-alongside-the-united.md) _2017-08-29 03:15:08 (Update)_
+1. [In Aden, Yemen, the {{USS|Cole|DDG-67|6}} is badly damaged by two suicide bombers who placed a small boat laden with explosives alongside the United States Navy destroyer, killing 17 crew members and wounding at least 39.](/news/2000/10/12/in-aden-yemen-the-uss-cole-ddg-67-6-is-badly-damaged-by-two-suicide-bombers-who-placed-a-small-boat-laden-with-explosives-alongside-th.md) _2018-02-06 13:49:15 (First version)_
+2. [In Aden, Yemen, the Cole|DDG-67|6 is badly damaged by two suicide bombers who placed a small boat laden with explosives alongside the United States Navy destroyer, killing 17 crew members and wounding at least 39.](/news/2000/10/12/in-aden-yemen-the-cole-ddg-67-6-is-badly-damaged-by-two-suicide-bombers-who-placed-a-small-boat-laden-with-explosives-alongside-the-united.md) _2018-02-06 13:49:15 (Update)_
 2. [In Aden, Yemen, the Cole 6 is badly damaged by two suicide bombers who placed a small boat laden with explosives alongside the United States Navy destroyer, killing 17 crew members and wounding at least 39.](/news/2000/10/12/in-aden-yemen-the-cole-6-is-badly-damaged-by-two-suicide-bombers-who-placed-a-small-boat-laden-with-explosives-alongside-the-united-states.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The Turkish Army launched an operation targeting the Tomb of Suleyman Shah, whic
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/islamic-state-in-iraq-and-the-levant-the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-arte.md) _2017-08-27 03:41:58 (First version)_
+1. [Islamic State in Iraq and the Levant: The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/islamic-state-in-iraq-and-the-levant-the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-arte.md) _2018-02-06 13:49:26 (First version)_
 1. [The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-artefacts-from-the-tomb-of-suleyman-shah-i.md) _(Current version)_
 
 ### Related:

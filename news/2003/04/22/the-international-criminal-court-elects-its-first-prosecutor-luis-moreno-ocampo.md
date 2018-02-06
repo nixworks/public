@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/04/22/the-international-criminal-court-elects-its-fir
 
 ### Changes:
 
-1. [ The International Criminal Court elects its first prosecutor, Moreno Ocampo. ](/news/2003/04/22/the-international-criminal-court-elects-its-first-prosecutor-moreno-ocampo.md) _2017-10-17 03:15:34 (First version)_
+1. [ The International Criminal Court elects its first prosecutor, Moreno Ocampo. ](/news/2003/04/22/the-international-criminal-court-elects-its-first-prosecutor-moreno-ocampo.md) _2018-02-06 13:49:15 (First version)_
 1. [ The International Criminal Court elects its first prosecutor, Luis Moreno Ocampo. ](/news/2003/04/22/the-international-criminal-court-elects-its-first-prosecutor-luis-moreno-ocampo.md) _(Current version)_
 
 ### Related:

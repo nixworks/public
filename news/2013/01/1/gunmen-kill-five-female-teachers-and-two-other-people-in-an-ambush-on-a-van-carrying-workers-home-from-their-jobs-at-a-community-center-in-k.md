@@ -17,8 +17,8 @@ Seven charity workers, six of them women, are killed by gunmen in north-west Pak
 
 ### Changes:
 
-1. [War in North-West Pakistan:Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-pgunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-job.md) _2017-08-25 03:37:10 (First version)_
-2. [War in North-West Pakistan:: Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-gunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-jo.md) _2017-08-27 03:37:20 (Update)_
+1. [War in North-West Pakistan:Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-pgunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-job.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-gunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-jo.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/gunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-jobs-at-a-community-center-in-k.md) _(Current version)_
 
 ### Related:

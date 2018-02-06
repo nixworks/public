@@ -17,8 +17,8 @@ The Spanish Supreme Court decided to keep former Catalan Vice President Oriol Ju
 
 ### Changes:
 
-1. [The prosecutor in a Brussels court repeated the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delayed the decision until December 14th. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeated-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the.md) _2017-12-04 17:30:06 (First version)_
-2. [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-j.md) _2017-12-04 20:30:08 (Update)_
+1. [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-j.md) _2018-02-06 13:49:31 (First version)_
+2. [The prosecutor in a Brussels court repeated the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delayed the decision until December 14th. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeated-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the.md) _2018-02-06 13:49:31 (Update)_
 2. [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md) _(Current version)_
 
 ### Related:

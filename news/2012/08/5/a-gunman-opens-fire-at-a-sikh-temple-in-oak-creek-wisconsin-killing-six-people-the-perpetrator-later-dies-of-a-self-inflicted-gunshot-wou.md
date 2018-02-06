@@ -17,7 +17,7 @@ At least seven people, including a gunman, have died in a shooting at a Sikh tem
 
 ### Changes:
 
-1. [Wisconsin Sikh temple shooting: A gunman opens fire at a Sikh temple in Oak Creek, Wisconsin, killing six people; the perpetrator later dies of a self-inflicted gunshot wound to the head. ](/news/2012/08/5/wisconsin-sikh-temple-shooting-a-gunman-opens-fire-at-a-sikh-temple-in-oak-creek-wisconsin-killing-six-people-the-perpetrator-later-dies.md) _2017-08-27 03:36:24 (First version)_
+1. [Wisconsin Sikh temple shooting: A gunman opens fire at a Sikh temple in Oak Creek, Wisconsin, killing six people; the perpetrator later dies of a self-inflicted gunshot wound to the head. ](/news/2012/08/5/wisconsin-sikh-temple-shooting-a-gunman-opens-fire-at-a-sikh-temple-in-oak-creek-wisconsin-killing-six-people-the-perpetrator-later-dies.md) _2018-02-06 13:49:23 (First version)_
 1. [A gunman opens fire at a Sikh temple in Oak Creek, Wisconsin, killing six people; the perpetrator later dies of a self-inflicted gunshot wound to the head. ](/news/2012/08/5/a-gunman-opens-fire-at-a-sikh-temple-in-oak-creek-wisconsin-killing-six-people-the-perpetrator-later-dies-of-a-self-inflicted-gunshot-wou.md) _(Current version)_
 
 ### Related:

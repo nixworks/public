@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-2
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/2014-pacific-typhoon-season-the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md) _2017-08-27 03:41:01 (First version)_
+1. [2014 Pacific typhoon season: The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/2014-pacific-typhoon-season-the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md) _(Current version)_
 
 ### Related:

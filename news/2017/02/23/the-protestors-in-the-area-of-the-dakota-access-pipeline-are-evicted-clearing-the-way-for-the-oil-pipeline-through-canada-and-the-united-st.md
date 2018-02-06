@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access
 
 ### Changes:
 
-1. [Dakota Access Pipeline protests: The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/dakota-access-pipeline-protests-the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline.md) _2017-08-27 03:47:53 (First version)_
+1. [Dakota Access Pipeline protests: The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/dakota-access-pipeline-protests-the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline.md) _2018-02-06 13:49:30 (First version)_
 1. [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md) _(Current version)_
 
 ### Related:

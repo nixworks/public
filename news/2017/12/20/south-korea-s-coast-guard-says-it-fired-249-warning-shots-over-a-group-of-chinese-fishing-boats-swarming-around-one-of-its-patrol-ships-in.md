@@ -16,7 +16,7 @@ South Korea&#039;s coast guard said it fired 249 warning shots over a group of C
 
 ### Changes:
 
-1. [South Korea's coast guard says it fired 249 warning shots over a group of Chinese fishing boats "swarming around" one of its patrol ships in South Korean waters. ](/news/2017/12/20/south-korea-s-coast-guard-says-it-fired-249-warning-shots-over-a-group-of-chinese-fishing-boats-aswarming-arounda-one-of-its-patrol-ship.md) _2017-12-21 18:30:06 (First version)_
+1. [South Korea's coast guard says it fired 249 warning shots over a group of Chinese fishing boats "swarming around" one of its patrol ships in South Korean waters. ](/news/2017/12/20/south-korea-s-coast-guard-says-it-fired-249-warning-shots-over-a-group-of-chinese-fishing-boats-aswarming-arounda-one-of-its-patrol-ship.md) _2018-02-06 13:49:31 (First version)_
 1. [South Korea's coast guard says it fired 249 warning shots over a group of Chinese fishing boats "swarming around" one of its patrol ships in South Korean waters. ](/news/2017/12/20/south-korea-s-coast-guard-says-it-fired-249-warning-shots-over-a-group-of-chinese-fishing-boats-swarming-around-one-of-its-patrol-ships-in.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ The European Union believes it can complete the Portuguese bail-out, set to be w
 
 ### Changes:
 
-1. [The European Union aims to complete Portugal's bailout of approximately -80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md) _2017-08-27 03:32:54 (First version)_
+1. [The European Union aims to complete Portugal's bailout of approximately -80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md) _2018-02-06 13:49:22 (First version)_
 1. [The European Union aims to complete Portugal's bailout of approximately EUR80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-a-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md) _(Current version)_
 
 ### Related:

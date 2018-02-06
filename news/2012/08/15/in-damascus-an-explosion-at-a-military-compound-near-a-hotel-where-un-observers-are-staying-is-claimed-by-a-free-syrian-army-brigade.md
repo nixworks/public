@@ -20,8 +20,8 @@ Spokesperson of Free Syrian Army unit that planned Damascus bombings tells Al Ja
 
 ### Changes:
 
-1. [Syrian civil war:In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/syrian-civil-war-pin-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian-a.md) _2017-08-25 03:36:16 (First version)_
-2. [Syrian civil war:: In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/syrian-civil-war-in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian.md) _2017-08-27 03:36:27 (Update)_
+1. [Syrian civil war:In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/syrian-civil-war-pin-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian-a.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/syrian-civil-war-in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian.md) _2018-02-06 13:49:23 (Update)_
 2. [In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian-army-brigade.md) _(Current version)_
 
 ### Related:

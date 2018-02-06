@@ -16,7 +16,7 @@ At least 20 people have died in a suicide bomb attack at a fish market in the no
 
 ### Changes:
 
-1. [Boko Haram insurgency: At least 20 people are killed after a female suicide bomber attacks a fish market in Nigeria's north-eastern city of Maiduguri. The militant Islamist group Boko Haram is suspected to be behind the attack. ](/news/2015/06/22/boko-haram-insurgency-at-least-20-people-are-killed-after-a-female-suicide-bomber-attacks-a-fish-market-in-nigeria-s-north-eastern-city-of.md) _2017-08-27 03:42:34 (First version)_
+1. [Boko Haram insurgency: At least 20 people are killed after a female suicide bomber attacks a fish market in Nigeria's north-eastern city of Maiduguri. The militant Islamist group Boko Haram is suspected to be behind the attack. ](/news/2015/06/22/boko-haram-insurgency-at-least-20-people-are-killed-after-a-female-suicide-bomber-attacks-a-fish-market-in-nigeria-s-north-eastern-city-of.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 20 people are killed after a female suicide bomber attacks a fish market in Nigeria's north-eastern city of Maiduguri. The militant Islamist group Boko Haram is suspected to be behind the attack. ](/news/2015/06/22/at-least-20-people-are-killed-after-a-female-suicide-bomber-attacks-a-fish-market-in-nigeria-s-north-eastern-city-of-maiduguri-the-militant.md) _(Current version)_
 
 ### Related:

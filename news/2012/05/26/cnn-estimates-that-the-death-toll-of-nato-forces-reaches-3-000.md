@@ -17,8 +17,8 @@ A sombre milestone has been reached in the Afghanistan war after an American sai
 
 ### Changes:
 
-1. [War in Afghanistan:CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-pcnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md) _2017-08-25 03:35:45 (First version)_
-2. [War in Afghanistan:: CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-cnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md) _2017-08-27 03:35:56 (Update)_
+1. [War in Afghanistan:CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-pcnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-cnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md) _2018-02-06 13:49:23 (Update)_
 2. [CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/cnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md) _(Current version)_
 
 ### Related:

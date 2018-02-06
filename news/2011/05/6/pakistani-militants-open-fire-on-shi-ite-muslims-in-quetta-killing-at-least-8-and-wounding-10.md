@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/05/6/pakistani-militants-open-fire-on-shi-ite-muslims
 
 ### Changes:
 
-1. [PakistanPakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistanppakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md) _2017-08-25 03:33:00 (First version)_
-2. [Pakistan: Pakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistan-pakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md) _2017-08-27 03:33:09 (Update)_
+1. [PakistanPakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistanppakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md) _2018-02-06 13:49:22 (First version)_
+2. [Pakistan: Pakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistan-pakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md) _2018-02-06 13:49:22 (Update)_
 2. [Pakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md) _(Current version)_
 
 ### Related:

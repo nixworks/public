@@ -19,7 +19,7 @@ Two Arab newspapers and alJazeera television said on Monday Libyan leader Muamma
 
 ### Changes:
 
-1. [Libyan Civil War: NATO decides to increase surveillance flights over Libya to a 24-7 basis. ](/news/2011/03/7/libyan-civil-war-nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md) _2017-08-27 03:32:35 (First version)_
+1. [Libyan Civil War: NATO decides to increase surveillance flights over Libya to a 24-7 basis. ](/news/2011/03/7/libyan-civil-war-nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md) _2018-02-06 13:49:22 (First version)_
 1. [NATO decides to increase surveillance flights over Libya to a 24-7 basis. ](/news/2011/03/7/nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md) _(Current version)_
 
 ### Related:

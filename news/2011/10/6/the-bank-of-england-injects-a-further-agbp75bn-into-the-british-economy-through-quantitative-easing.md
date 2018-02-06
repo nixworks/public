@@ -16,7 +16,7 @@ The Bank of England says it will inject a further £75bn into the economy throug
 
 ### Changes:
 
-1. [The Bank of England injects a further PS75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-aps75bn-into-the-british-economy-through-quantitative-easing.md) _2017-08-25 03:34:16 (First version)_
+1. [The Bank of England injects a further PS75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-aps75bn-into-the-british-economy-through-quantitative-easing.md) _2018-02-06 13:49:23 (First version)_
 1. [The Bank of England injects a further GBP75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-agbp75bn-into-the-british-economy-through-quantitative-easing.md) _(Current version)_
 
 ### Related:

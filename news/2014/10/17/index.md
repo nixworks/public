@@ -17,7 +17,7 @@ Washington (AFP) - President Barack Obama on Friday named attorney Ron Klain to 
 
 ##### Kyodo
 ### [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md)
-_Context: Yasukuni Shrine, China, Kyodo, Shinzo Abe, South Korea, Prime Minister of Japan, Tokyo_
+_Context: China, Prime Minister of Japan, Kyodo, Yasukuni Shrine, Shinzo Abe, South Korea, Tokyo_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md)

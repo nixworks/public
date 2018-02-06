@@ -16,7 +16,7 @@ NASA completed its part in the construction of the International Space Station o
 
 ### Changes:
 
-1. [Space Shuttle ''Endeavour'' crewmembers Mike Fincke and Greg Chamitoff undertake what is expected to be the last spacewalk ever conducted by a space shuttle crew. ](/news/2011/05/27/space-shuttle-endeavour-crewmembers-mike-fincke-and-greg-chamitoff-undertake-what-is-expected-to-be-the-last-spacewalk-ever-conducted-by.md) _2017-08-25 03:33:17 (First version)_
+1. [Space Shuttle ''Endeavour'' crewmembers Mike Fincke and Greg Chamitoff undertake what is expected to be the last spacewalk ever conducted by a space shuttle crew. ](/news/2011/05/27/space-shuttle-endeavour-crewmembers-mike-fincke-and-greg-chamitoff-undertake-what-is-expected-to-be-the-last-spacewalk-ever-conducted-by.md) _2018-02-06 13:49:22 (First version)_
 1. [Space Shuttle "Endeavour" crewmembers Mike Fincke and Greg Chamitoff undertake what is expected to be the last spacewalk ever conducted by a space shuttle crew. ](/news/2011/05/27/space-shuttle-endeavour-crewmembers-mike-fincke-and-greg-chamitoff-undertake-what-is-expected-to-be-the-last-spacewalk-ever-conducted-by-a.md) _(Current version)_
 
 ### Related:

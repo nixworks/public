@@ -17,8 +17,8 @@ An Arizona judge orders the 22-year-old man accused of killing six people and in
 
 ### Changes:
 
-1. [Aftermath of the 2011 Tucson shooting:A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-pa-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-including.md) _2017-08-25 03:31:43 (First version)_
-2. [Aftermath of the 2011 Tucson shooting:: A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-a-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-includin.md) _2017-08-27 03:31:51 (Update)_
+1. [Aftermath of the 2011 Tucson shooting:A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-pa-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-including.md) _2018-02-06 13:49:21 (First version)_
+2. [Aftermath of the 2011 Tucson shooting:: A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-a-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-includin.md) _2018-02-06 13:49:21 (Update)_
 2. [A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/a-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-including-a-federal-judge-and-u-s-congresswoman.md) _(Current version)_
 
 ### Related:

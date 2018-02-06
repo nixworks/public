@@ -17,7 +17,7 @@ The Philippines records the fastest-growing HIV/AIDS epidemic in the Asia-Pacifi
 
 ### Changes:
 
-1. [Epidemiology of HIV-AIDS: According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/epidemiology-of-hiv-aids-according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-w.md) _2017-08-27 03:48:45 (First version)_
+1. [Epidemiology of HIV-AIDS: According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/epidemiology-of-hiv-aids-according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-w.md) _2018-02-06 13:49:31 (First version)_
 1. [According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-with-about-a-140-increase.md) _(Current version)_
 
 ### Related:

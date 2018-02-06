@@ -17,8 +17,8 @@ President Bush has told Chinese President Hu Jintao that a mistake was made in t
 
 ### Changes:
 
-1. [ 2008 unrest in Tibet: The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/2008-unrest-in-tibet-p-the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md) _2017-08-25 03:21:59 (First version)_
-2. [ 2008 unrest in Tibet:: The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/2008-unrest-in-tibet-the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md) _2017-08-27 03:21:53 (Update)_
+1. [ 2008 unrest in Tibet:: The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/2008-unrest-in-tibet-the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Tibet: The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/2008-unrest-in-tibet-p-the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md) _2018-02-06 13:49:18 (Update)_
 2. [ The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md) _(Current version)_
 
 ### Related:

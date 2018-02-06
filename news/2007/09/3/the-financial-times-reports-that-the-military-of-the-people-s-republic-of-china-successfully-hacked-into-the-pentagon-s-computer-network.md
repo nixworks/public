@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/3/the-financial-times-reports-that-the-military-of
 
 ### Changes:
 
-1. [ The ''Financial Times'' reports that the military of the People's Republic of China successfully hacked into The Pentagon's computer network. ](/news/2007/09/3/the-financial-times-reports-that-the-military-of-the-people-s-republic-of-china-successfully-hacked-into-the-pentagon-s-computer-networ.md) _2017-08-25 03:20:50 (First version)_
+1. [ The ''Financial Times'' reports that the military of the People's Republic of China successfully hacked into The Pentagon's computer network. ](/news/2007/09/3/the-financial-times-reports-that-the-military-of-the-people-s-republic-of-china-successfully-hacked-into-the-pentagon-s-computer-networ.md) _2018-02-06 13:49:18 (First version)_
 1. [ The "Financial Times" reports that the military of the People's Republic of China successfully hacked into The Pentagon's computer network. ](/news/2007/09/3/the-financial-times-reports-that-the-military-of-the-people-s-republic-of-china-successfully-hacked-into-the-pentagon-s-computer-network.md) _(Current version)_
 
 ### Related:

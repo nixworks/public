@@ -16,7 +16,7 @@ The German Bundestag is expected to approve €86bn bailout, paving the way for 
 
 ### Changes:
 
-1. [Greek government-debt crisis: The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/greek-government-debt-crisis-the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _2017-08-27 03:42:51 (First version)_
+1. [Greek government-debt crisis: The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/greek-government-debt-crisis-the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _2018-02-06 13:49:27 (First version)_
 1. [The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _(Current version)_
 
 ### Related:

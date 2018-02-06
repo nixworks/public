@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/7/united-states-president-barack-obama-orders-1500
 
 ### Changes:
 
-1. [2014 military intervention against ISIS: United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/2014-military-intervention-against-isis-united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md) _2017-08-27 03:41:29 (First version)_
+1. [2014 military intervention against ISIS: United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/2014-military-intervention-against-isis-united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md) _2018-02-06 13:49:26 (First version)_
 1. [United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md) _(Current version)_
 
 ### Related:

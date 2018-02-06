@@ -17,7 +17,7 @@ Nato members meet in Lisbon for a crucial summit, with a timetable for handing s
 
 ### Changes:
 
-1. [NATO summit: NATO members meet in Lisbon, Portugal, to discuss progress in the War in Afghanistan and relations with Russia. ](/news/2010/11/19/nato-summit-nato-members-meet-in-lisbon-portugal-to-discuss-progress-in-the-war-in-afghanistan-and-relations-with-russia.md) _2017-08-27 03:31:13 (First version)_
+1. [NATO summit: NATO members meet in Lisbon, Portugal, to discuss progress in the War in Afghanistan and relations with Russia. ](/news/2010/11/19/nato-summit-nato-members-meet-in-lisbon-portugal-to-discuss-progress-in-the-war-in-afghanistan-and-relations-with-russia.md) _2018-02-06 13:49:21 (First version)_
 1. [NATO members meet in Lisbon, Portugal, to discuss progress in the War in Afghanistan and relations with Russia. ](/news/2010/11/19/nato-members-meet-in-lisbon-portugal-to-discuss-progress-in-the-war-in-afghanistan-and-relations-with-russia.md) _(Current version)_
 
 ### Related:

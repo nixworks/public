@@ -16,7 +16,7 @@ Republican nominee wishes Manafort ‘success’ after resignation that comes da
 
 ### Changes:
 
-1. [United States presidential election, 2016: Paul Manafort resigns as chairman of Donald Trump's presidential campaign. ](/news/2016/08/19/united-states-presidential-election-2016-paul-manafort-resigns-as-chairman-of-donald-trump-s-presidential-campaign.md) _2017-08-27 03:46:40 (First version)_
+1. [United States presidential election, 2016: Paul Manafort resigns as chairman of Donald Trump's presidential campaign. ](/news/2016/08/19/united-states-presidential-election-2016-paul-manafort-resigns-as-chairman-of-donald-trump-s-presidential-campaign.md) _2018-02-06 13:49:29 (First version)_
 1. [Paul Manafort resigns as chairman of Donald Trump's presidential campaign. ](/news/2016/08/19/paul-manafort-resigns-as-chairman-of-donald-trump-s-presidential-campaign.md) _(Current version)_
 
 ### Related:

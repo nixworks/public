@@ -20,7 +20,7 @@ The earthquake that struck central Italy on Wednesday has killed at least 247 pe
 
 ### Changes:
 
-1. [2016 Central Italy earthquake: A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/2016-central-italy-earthquake-a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatric.md) _2017-08-27 03:46:42 (First version)_
+1. [2016 Central Italy earthquake: A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/2016-central-italy-earthquake-a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatric.md) _2018-02-06 13:49:29 (First version)_
 1. [A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.md) _(Current version)_
 
 ### Related:

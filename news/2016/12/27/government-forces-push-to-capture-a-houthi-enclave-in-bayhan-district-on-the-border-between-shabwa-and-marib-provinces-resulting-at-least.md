@@ -16,7 +16,7 @@ At least 28 Huthi insurgents and 12 Yemeni soldiers were killed in clashes in th
 
 ### Changes:
 
-1. [Yemeni Civil War: Government forces push to capture a Houthi enclave in Bayhan District, on the border between Shabwa and Marib provinces, resulting at least 28 Houthi militants and 12 Yemeni soldiers killed. ](/news/2016/12/27/yemeni-civil-war-government-forces-push-to-capture-a-houthi-enclave-in-bayhan-district-on-the-border-between-shabwa-and-marib-provinces-r.md) _2017-08-27 03:47:32 (First version)_
+1. [Yemeni Civil War: Government forces push to capture a Houthi enclave in Bayhan District, on the border between Shabwa and Marib provinces, resulting at least 28 Houthi militants and 12 Yemeni soldiers killed. ](/news/2016/12/27/yemeni-civil-war-government-forces-push-to-capture-a-houthi-enclave-in-bayhan-district-on-the-border-between-shabwa-and-marib-provinces-r.md) _2018-02-06 13:49:30 (First version)_
 1. [Government forces push to capture a Houthi enclave in Bayhan District, on the border between Shabwa and Marib provinces, resulting at least 28 Houthi militants and 12 Yemeni soldiers killed. ](/news/2016/12/27/government-forces-push-to-capture-a-houthi-enclave-in-bayhan-district-on-the-border-between-shabwa-and-marib-provinces-resulting-at-least.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Thousands demand resignation of CY Leung who critics accuse of failing to confro
 
 ### Changes:
 
-1. [Causeway Bay Books disappearances: Thousands of people take to the streets of Hong Kong, demanding answers over China's alleged abduction of five booksellers in late 2015 and that Chief Executive Leung Chun-ying resign from office. ](/news/2016/07/1/causeway-bay-books-disappearances-thousands-of-people-take-to-the-streets-of-hong-kong-demanding-answers-over-china-s-alleged-abduction-of.md) _2017-08-27 03:46:24 (First version)_
+1. [Causeway Bay Books disappearances: Thousands of people take to the streets of Hong Kong, demanding answers over China's alleged abduction of five booksellers in late 2015 and that Chief Executive Leung Chun-ying resign from office. ](/news/2016/07/1/causeway-bay-books-disappearances-thousands-of-people-take-to-the-streets-of-hong-kong-demanding-answers-over-china-s-alleged-abduction-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Thousands of people take to the streets of Hong Kong, demanding answers over China's alleged abduction of five booksellers in late 2015 and that Chief Executive Leung Chun-ying resign from office. ](/news/2016/07/1/thousands-of-people-take-to-the-streets-of-hong-kong-demanding-answers-over-china-s-alleged-abduction-of-five-booksellers-in-late-2015-and.md) _(Current version)_
 
 ### Related:

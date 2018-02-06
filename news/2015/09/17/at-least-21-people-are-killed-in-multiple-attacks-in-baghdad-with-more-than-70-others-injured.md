@@ -17,7 +17,7 @@ Baghdad was hit by two suicide bombers on Thursday in an alleged attack by ISIS 
 
 ### Changes:
 
-1. [Iraq War (2014-present): At least 21 people are killed in multiple attacks in Baghdad with more than 70 others injured. ](/news/2015/09/17/iraq-war-2014-present-at-least-21-people-are-killed-in-multiple-attacks-in-baghdad-with-more-than-70-others-injured.md) _2017-08-27 03:43:04 (First version)_
+1. [Iraq War (2014-present): At least 21 people are killed in multiple attacks in Baghdad with more than 70 others injured. ](/news/2015/09/17/iraq-war-2014-present-at-least-21-people-are-killed-in-multiple-attacks-in-baghdad-with-more-than-70-others-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 21 people are killed in multiple attacks in Baghdad with more than 70 others injured. ](/news/2015/09/17/at-least-21-people-are-killed-in-multiple-attacks-in-baghdad-with-more-than-70-others-injured.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/02/23/the-scheduled-start-date-of-the-parliamentary-e
 
 ### Changes:
 
-1. [Egyptian parliamentary election, 2013:The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/egyptian-parliamentary-election-2013-pthe-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md) _2017-08-25 03:37:36 (First version)_
-2. [Egyptian parliamentary election, 2013:: The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/egyptian-parliamentary-election-2013-the-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md) _2017-08-27 03:37:48 (Update)_
+1. [Egyptian parliamentary election, 2013:: The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/egyptian-parliamentary-election-2013-the-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md) _2018-02-06 13:49:24 (First version)_
+2. [Egyptian parliamentary election, 2013:The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/egyptian-parliamentary-election-2013-pthe-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md) _2018-02-06 13:49:24 (Update)_
 2. [The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/the-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md) _(Current version)_
 
 ### Related:

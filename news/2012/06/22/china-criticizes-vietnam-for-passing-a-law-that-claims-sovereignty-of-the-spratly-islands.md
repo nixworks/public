@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/06/22/china-criticizes-vietnam-for-passing-a-law-that
 
 ### Changes:
 
-1. [South China Sea dispute:China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-pchina-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md) _2017-08-25 03:35:56 (First version)_
-2. [South China Sea dispute:: China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md) _2017-08-27 03:36:07 (Update)_
+1. [South China Sea dispute:China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-pchina-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md) _2018-02-06 13:49:23 (First version)_
+2. [South China Sea dispute:: China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md) _2018-02-06 13:49:23 (Update)_
 2. [China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md) _(Current version)_
 
 ### Related:

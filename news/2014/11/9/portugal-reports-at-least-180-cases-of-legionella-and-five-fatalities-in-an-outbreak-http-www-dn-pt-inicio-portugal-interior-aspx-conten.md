@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/11/9/portugal-reports-at-least-180-cases-of-legionell
 
 ### Changes:
 
-1. [Portugal reports at least 180 cases of Legionella and five fatalities in an outbreak. ](/news/2014/11/9/portugal-reports-at-least-180-cases-of-legionella-and-five-fatalities-in-an-outbreak.md) _2017-08-25 03:41:10 (First version)_
+1. [Portugal reports at least 180 cases of Legionella and five fatalities in an outbreak. ](/news/2014/11/9/portugal-reports-at-least-180-cases-of-legionella-and-five-fatalities-in-an-outbreak.md) _2018-02-06 13:49:26 (First version)_
 1. [Portugal reports at least 180 cases of Legionella and five fatalities in an outbreak. [http:--www.dn.pt-inicio-portugal-interior.aspx?content_id=4228714 (Dirio de Notcias) ]](/news/2014/11/9/portugal-reports-at-least-180-cases-of-legionella-and-five-fatalities-in-an-outbreak-http-www-dn-pt-inicio-portugal-interior-aspx-conten.md) _(Current version)_
 
 ### Related:

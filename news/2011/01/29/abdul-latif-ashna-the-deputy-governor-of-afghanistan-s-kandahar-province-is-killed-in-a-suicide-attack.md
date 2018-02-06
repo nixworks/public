@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghan
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001apresent-pabdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attac.md) _2017-08-25 03:31:58 (First version)_
-2. [War in Afghanistan (2001-present):: Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001-present-abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-atta.md) _2017-08-27 03:32:05 (Update)_
+1. [War in Afghanistan (2001-present):Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001apresent-pabdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attac.md) _2018-02-06 13:49:21 (First version)_
+2. [War in Afghanistan (2001-present):: Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001-present-abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-atta.md) _2018-02-06 13:49:21 (Update)_
 2. [Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attack.md) _(Current version)_
 
 ### Related:

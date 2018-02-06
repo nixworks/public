@@ -17,9 +17,9 @@ A strong storm killed eight people and injured at least 67 in western Romania on
 
 ### Changes:
 
-1. [At least eight people were killed and 67 were injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-were-killed-and-67-were-injured-after-a-strong-storm-hit-western-and-central-romania.md) _2017-09-17 21:30:05 (First version)_
-2. [At least eight people are killed and 67 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-67-injured-after-a-strong-storm-hit-western-and-central-romania.md) _2017-09-18 20:30:05 (Update)_
-3. [At least eight people are killed and 137 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-137-injured-after-a-strong-storm-hit-western-and-central-romania.md) _2017-09-18 21:30:06 (Update)_
+1. [At least eight people were killed and 67 were injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-were-killed-and-67-were-injured-after-a-strong-storm-hit-western-and-central-romania.md) _2018-02-06 13:49:31 (First version)_
+2. [At least eight people are killed and 67 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-67-injured-after-a-strong-storm-hit-western-and-central-romania.md) _2018-02-06 13:49:31 (Update)_
+3. [At least eight people are killed and 137 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-137-injured-after-a-strong-storm-hit-western-and-central-romania.md) _2018-02-06 13:49:31 (Update)_
 3. [At least eight people are killed and 137 injured after a strong storm hits western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-137-injured-after-a-strong-storm-hits-western-and-central-romania.md) _(Current version)_
 
 ### Related:

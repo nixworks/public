@@ -17,8 +17,8 @@ Former Labour MP Phil Woolas admits defeat in his battle to overturn a court rul
 
 ### Changes:
 
-1. [Politics in the United Kingdom:Former British Labour MP Phil Woolas loses his appeal to overturn an election court ruling that stripped him of his Parliamentary seat, thus triggering a by-election in his constituency. ](/news/2010/12/3/politics-in-the-united-kingdom-pformer-british-labour-mp-phil-woolas-loses-his-appeal-to-overturn-an-election-court-ruling-that-stripped-him.md) _2017-08-25 03:31:16 (First version)_
-2. [Politics in the United Kingdom:: Former British Labour MP Phil Woolas loses his appeal to overturn an election court ruling that stripped him of his Parliamentary seat, thus triggering a by-election in his constituency. ](/news/2010/12/3/politics-in-the-united-kingdom-former-british-labour-mp-phil-woolas-loses-his-appeal-to-overturn-an-election-court-ruling-that-stripped-hi.md) _2017-08-27 03:31:23 (Update)_
+1. [Politics in the United Kingdom:Former British Labour MP Phil Woolas loses his appeal to overturn an election court ruling that stripped him of his Parliamentary seat, thus triggering a by-election in his constituency. ](/news/2010/12/3/politics-in-the-united-kingdom-pformer-british-labour-mp-phil-woolas-loses-his-appeal-to-overturn-an-election-court-ruling-that-stripped-him.md) _2018-02-06 13:49:21 (First version)_
+2. [Politics in the United Kingdom:: Former British Labour MP Phil Woolas loses his appeal to overturn an election court ruling that stripped him of his Parliamentary seat, thus triggering a by-election in his constituency. ](/news/2010/12/3/politics-in-the-united-kingdom-former-british-labour-mp-phil-woolas-loses-his-appeal-to-overturn-an-election-court-ruling-that-stripped-hi.md) _2018-02-06 13:49:21 (Update)_
 2. [Former British Labour MP Phil Woolas loses his appeal to overturn an election court ruling that stripped him of his Parliamentary seat, thus triggering a by-election in his constituency. ](/news/2010/12/3/former-british-labour-mp-phil-woolas-loses-his-appeal-to-overturn-an-election-court-ruling-that-stripped-him-of-his-parliamentary-seat-thus.md) _(Current version)_
 
 ### Related:

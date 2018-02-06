@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/29/singapore-holds-a-funeral-and-elaborate-process
 
 ### Changes:
 
-1. [Death of Lee Kuan Yew: Singapore holds a funeral and elaborate procession for Lee Kuan Yew, the first Prime Minister of Singapore. ](/news/2015/03/29/death-of-lee-kuan-yew-singapore-holds-a-funeral-and-elaborate-procession-for-lee-kuan-yew-the-first-prime-minister-of-singapore.md) _2017-08-27 03:42:08 (First version)_
+1. [Death of Lee Kuan Yew: Singapore holds a funeral and elaborate procession for Lee Kuan Yew, the first Prime Minister of Singapore. ](/news/2015/03/29/death-of-lee-kuan-yew-singapore-holds-a-funeral-and-elaborate-procession-for-lee-kuan-yew-the-first-prime-minister-of-singapore.md) _2018-02-06 13:49:27 (First version)_
 1. [Singapore holds a funeral and elaborate procession for Lee Kuan Yew, the first Prime Minister of Singapore. ](/news/2015/03/29/singapore-holds-a-funeral-and-elaborate-procession-for-lee-kuan-yew-the-first-prime-minister-of-singapore.md) _(Current version)_
 
 ### Related:

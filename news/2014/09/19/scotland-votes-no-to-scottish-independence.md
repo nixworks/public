@@ -19,7 +19,7 @@ Turnout in the referendum on Scottish independence hit a record high for any ele
 
 ### Changes:
 
-1. [2014 Scottish independence referendum: Scotland votes "No" to Scottish independence. ](/news/2014/09/19/2014-scottish-independence-referendum-scotland-votes-no-to-scottish-independence.md) _2017-08-27 03:41:18 (First version)_
+1. [2014 Scottish independence referendum: Scotland votes "No" to Scottish independence. ](/news/2014/09/19/2014-scottish-independence-referendum-scotland-votes-no-to-scottish-independence.md) _2018-02-06 13:49:26 (First version)_
 1. [Scotland votes "No" to Scottish independence. ](/news/2014/09/19/scotland-votes-no-to-scottish-independence.md) _(Current version)_
 
 ### Related:

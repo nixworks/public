@@ -17,7 +17,7 @@ Gunmen and a suicide bomber storm a restaurant and open fire before a bomb explo
 
 ### Changes:
 
-1. [2017 Nasiriyah attacks: several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others. ](/news/2017/09/14/2017-nasiriyah-attacks-several-members-of-isil-stage-multiple-attacks-on-the-outskirts-of-nasiriyah-in-the-southern-dhi-qar-governorate-ki.md) _2017-09-15 00:30:05 (First version)_
+1. [2017 Nasiriyah attacks: several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others. ](/news/2017/09/14/2017-nasiriyah-attacks-several-members-of-isil-stage-multiple-attacks-on-the-outskirts-of-nasiriyah-in-the-southern-dhi-qar-governorate-ki.md) _2018-02-06 13:49:31 (First version)_
 1. [Several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others. ](/news/2017/09/14/several-members-of-isil-stage-multiple-attacks-on-the-outskirts-of-nasiriyah-in-the-southern-dhi-qar-governorate-killing-at-least-50-people.md) _(Current version)_
 
 ### Related:

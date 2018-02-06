@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barri
 
 ### Changes:
 
-1. [2014 Hong Kong protests: Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/2014-hong-kong-protests-hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md) _2017-08-27 03:41:33 (First version)_
+1. [2014 Hong Kong protests: Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/2014-hong-kong-protests-hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md) _2018-02-06 13:49:26 (First version)_
 1. [Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md) _(Current version)_
 
 ### Related:

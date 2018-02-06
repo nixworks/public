@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/08/18/israeli-troops-forcibly-remove-zionist-jews-opp
 
 ### Changes:
 
-1. [ Israeli troops forcibly remove Zionist Jews opposed to Ariel Sharon's unilateral disengagement plan one by one from their strongholds in the synagogues in the Israeli settlements on the Gaza Strip. Some of the protesters threw paint, rocks and acid at the soldiers. ](/news/2005/08/18/israeli-troops-forcibly-remove-zionist-jews-opposed-to-ariel-sharon-s-unilateral-disengagement-plan-one-by-one-from-their-strongholds-in-t.md) _2017-08-25 03:16:42 (First version)_
+1. [ Israeli troops forcibly remove Zionist Jews opposed to Ariel Sharon's unilateral disengagement plan one by one from their strongholds in the synagogues in the Israeli settlements on the Gaza Strip. Some of the protesters threw paint, rocks and acid at the soldiers. ](/news/2005/08/18/israeli-troops-forcibly-remove-zionist-jews-opposed-to-ariel-sharon-s-unilateral-disengagement-plan-one-by-one-from-their-strongholds-in-t.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israeli troops forcibly remove Zionist Jews opposed to Ariel Sharon's unilateral disengagement plan one by one from their strongholds in the synagogues in the Israeli settlements on the Gaza Strip. Some of the protesters threw paint, rocks and acid at the soldiers. ](/news/2005/08/18/israeli-troops-forcibly-remove-zionist-jews-opposed-to-ariel-sharon-s-unilateral-disengagement-plan-one-by-one-from-their-strongholds-in-th.md) _(Current version)_
 
 ### Related:

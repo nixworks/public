@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/15/hurricane-carlos-hits-southwestern-mexico-with-
 
 ### Changes:
 
-1. [2015 Pacific hurricane season: Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/2015-pacific-hurricane-season-hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later.md) _2017-08-27 03:42:33 (First version)_
+1. [2015 Pacific hurricane season: Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/2015-pacific-hurricane-season-hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later.md) _2018-02-06 13:49:27 (First version)_
 1. [Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later-in-the-week.md) _(Current version)_
 
 ### Related:

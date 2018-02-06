@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/02/18/the-42nd-known-mersenne-prime-is-discovered-by-
 
 ### Changes:
 
-1. [ The 42nd known Mersenne prime is discovered by Martin Nowak of Germany, a participant of the GIMPS distributed computing project. The prime number is the largest known Mersenne prime at the time of its discovery, and is nearly eight million digits long.](/news/2005/02/18/the-42nd-known-mersenne-prime-is-discovered-by-martin-nowak-of-germany-a-participant-of-the-gimps-distributed-computing-project-the-prim.md) _2017-08-25 03:15:40 (First version)_
+1. [ The 42nd known Mersenne prime is discovered by Martin Nowak of Germany, a participant of the GIMPS distributed computing project. The prime number is the largest known Mersenne prime at the time of its discovery, and is nearly eight million digits long.](/news/2005/02/18/the-42nd-known-mersenne-prime-is-discovered-by-martin-nowak-of-germany-a-participant-of-the-gimps-distributed-computing-project-the-prim.md) _2018-02-06 13:49:16 (First version)_
 1. [ The 42nd known Mersenne prime is discovered by Martin Nowak of Germany, a participant of the GIMPS distributed computing project. The prime number is the largest known Mersenne prime at the time of its discovery, and is nearly eight million digits long.](/news/2005/02/18/the-42nd-known-mersenne-prime-is-discovered-by-martin-nowak-of-germany-a-participant-of-the-gimps-distributed-computing-project-the-prime.md) _(Current version)_
 
 ### Related:

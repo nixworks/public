@@ -16,7 +16,7 @@ Three Filipino soldiers were killed and 17 others wounded in nearly two hours of
 
 ### Changes:
 
-1. [Moro conflict: Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/moro-conflict-three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-phili.md) _2017-08-27 03:47:25 (First version)_
+1. [Moro conflict: Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/moro-conflict-three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-phili.md) _2018-02-06 13:49:29 (First version)_
 1. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _(Current version)_
 
 ### Related:

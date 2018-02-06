@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/03/31/french-government-and-socialist-party-admit-maj
 
 ### Changes:
 
-1. [French politicsFrench government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-politicspfrench-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-m.md) _2017-08-25 03:40:14 (First version)_
+1. [French politicsFrench government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-politicspfrench-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-m.md) _2018-02-06 13:49:26 (First version)_
 1. [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md) _(Current version)_
 
 ### Related:

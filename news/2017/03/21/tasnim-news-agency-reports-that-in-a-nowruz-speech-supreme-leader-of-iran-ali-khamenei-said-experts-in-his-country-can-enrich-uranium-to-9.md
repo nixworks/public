@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/21/tasnim-news-agency-reports-that-in-a-nowruz-spe
 
 ### Changes:
 
-1. [Joint Comprehensive Plan of Action: Tasnim News Agency reports that, in a Nowruz speech, Supreme Leader of Iran Ali Khamenei said experts in his country can enrich uranium to 99 percent. ISNA reports that Iranian Foreign Minister Mohammad Javad Zarif is threatening to quit the Iran nuclear deal if the United States blocks Iran's version of the deal's implementation. ](/news/2017/03/21/joint-comprehensive-plan-of-action-tasnim-news-agency-reports-that-in-a-nowruz-speech-supreme-leader-of-iran-ali-khamenei-said-experts-in.md) _2017-08-27 03:48:01 (First version)_
+1. [Joint Comprehensive Plan of Action: Tasnim News Agency reports that, in a Nowruz speech, Supreme Leader of Iran Ali Khamenei said experts in his country can enrich uranium to 99 percent. ISNA reports that Iranian Foreign Minister Mohammad Javad Zarif is threatening to quit the Iran nuclear deal if the United States blocks Iran's version of the deal's implementation. ](/news/2017/03/21/joint-comprehensive-plan-of-action-tasnim-news-agency-reports-that-in-a-nowruz-speech-supreme-leader-of-iran-ali-khamenei-said-experts-in.md) _2018-02-06 13:49:30 (First version)_
 1. [Tasnim News Agency reports that, in a Nowruz speech, Supreme Leader of Iran Ali Khamenei said experts in his country can enrich uranium to 99 percent. ISNA reports that Iranian Foreign Minister Mohammad Javad Zarif is threatening to quit the Iran nuclear deal if the United States blocks Iran's version of the deal's implementation. ](/news/2017/03/21/tasnim-news-agency-reports-that-in-a-nowruz-speech-supreme-leader-of-iran-ali-khamenei-said-experts-in-his-country-can-enrich-uranium-to-9.md) _(Current version)_
 
 ### Related:

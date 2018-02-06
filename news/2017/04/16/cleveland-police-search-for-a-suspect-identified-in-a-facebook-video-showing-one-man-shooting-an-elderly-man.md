@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/16/cleveland-police-search-for-a-suspect-identifie
 
 ### Changes:
 
-1. [Shooting of Robert Godwin: Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/shooting-of-robert-godwin-cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _2017-08-27 03:48:10 (First version)_
+1. [Shooting of Robert Godwin: Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/shooting-of-robert-godwin-cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _2018-02-06 13:49:30 (First version)_
 1. [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _(Current version)_
 
 ### Related:

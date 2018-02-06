@@ -16,7 +16,7 @@ Russian troops storm a Ukrainian airbase in Crimea throwing stun grenades and fi
 
 ### Changes:
 
-1. [2014 Crimean crisis: Russian troops capture Novofedorivka, an airbase of the Ukrainian Navy in the western region of the Crimean Peninsula. ](/news/2014/03/22/2014-crimean-crisis-russian-troops-capture-novofedorivka-an-airbase-of-the-ukrainian-navy-in-the-western-region-of-the-crimean-peninsula.md) _2017-08-27 03:40:30 (First version)_
+1. [2014 Crimean crisis: Russian troops capture Novofedorivka, an airbase of the Ukrainian Navy in the western region of the Crimean Peninsula. ](/news/2014/03/22/2014-crimean-crisis-russian-troops-capture-novofedorivka-an-airbase-of-the-ukrainian-navy-in-the-western-region-of-the-crimean-peninsula.md) _2018-02-06 13:49:26 (First version)_
 1. [Russian troops capture Novofedorivka, an airbase of the Ukrainian Navy in the western region of the Crimean Peninsula. ](/news/2014/03/22/russian-troops-capture-novofedorivka-an-airbase-of-the-ukrainian-navy-in-the-western-region-of-the-crimean-peninsula.md) _(Current version)_
 
 ### Related:

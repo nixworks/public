@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### police officers
 ### [Pakistani police arrest multiple people involved in the stoning of Farzana Parveen, bringing the total number of people in custody to 12. ](/news/2014/06/5/pakistani-police-arrest-multiple-people-involved-in-the-stoning-of-farzana-parveen-bringing-the-total-number-of-people-in-custody-to-12.md)
-_Context: stoning of Farzana Parveen, police officers_
+_Context: police officers, stoning of Farzana Parveen_
 
 ##### Royal Canadian Mounted Police
 ### [Royal Canadian Mounted Police extend a national manhunt for a 24-year-old gunman who killed 3 police officers and wounded 2 others in a shootout in Moncton.](/news/2014/06/5/royal-canadian-mounted-police-extend-a-national-manhunt-for-a-24-year-old-gunman-who-killed-3-police-officers-and-wounded-2-others-in-a-shoo.md)
@@ -45,7 +45,7 @@ A gunman opened fire inside a building on the campus of a small university near 
 
 ##### hip hop
 ### [American hip hop band the Beastie Boys win a $1.7 million copyright violation suit against the makers of Monster Energy drink for unauthorised use of their music in advertising. ](/news/2014/06/5/american-hip-hop-band-the-beastie-boys-win-a-1-7-million-copyright-violation-suit-against-the-makers-of-monster-energy-drink-for-unauthoris.md)
-_Context: copyright, hip hop, Beastie Boys, Monster Energy_
+_Context: Beastie Boys, copyright, hip hop, Monster Energy_
 
 ## [Previous Day...](/news/2014/06/4/index.md)
 

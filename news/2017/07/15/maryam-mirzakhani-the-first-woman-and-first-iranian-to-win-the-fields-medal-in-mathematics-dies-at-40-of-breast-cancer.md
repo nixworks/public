@@ -16,7 +16,7 @@ Stanford University’s Maryam Mirzakhani was the first and only woman to win th
 
 ### Changes:
 
-1. [Fields Medal: Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/fields-medal-maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md) _2017-08-27 03:48:40 (First version)_
+1. [Fields Medal: Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/fields-medal-maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md) _2018-02-06 13:49:30 (First version)_
 1. [Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md) _(Current version)_
 
 ### Related:

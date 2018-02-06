@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-m
 
 ### Changes:
 
-1. [At least 15 people are killed by flooding and mudslides in and around Sao Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sapso-paulo-brazil-following-heavy-rain.md) _2017-08-25 03:44:51 (First version)_
-2. [2016 SGBPo Paulo flood and mudslide: At least 15 people are killed by flooding and mudslides in and around SGBPo Paulo, Brazil, following heavy rain. ](/news/2016/03/11/2016-sagbpo-paulo-flood-and-mudslide-at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sagbpo-paulo-brazil-following.md) _2017-08-27 03:45:12 (Update)_
+1. [At least 15 people are killed by flooding and mudslides in and around Sao Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sapso-paulo-brazil-following-heavy-rain.md) _2018-02-06 13:49:28 (First version)_
+2. [2016 SGBPo Paulo flood and mudslide: At least 15 people are killed by flooding and mudslides in and around SGBPo Paulo, Brazil, following heavy rain. ](/news/2016/03/11/2016-sagbpo-paulo-flood-and-mudslide-at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sagbpo-paulo-brazil-following.md) _2018-02-06 13:49:28 (Update)_
 2. [At least 15 people are killed by flooding and mudslides in and around SGBPo Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sagbpo-paulo-brazil-following-heavy-rain.md) _(Current version)_
 
 ### Related:

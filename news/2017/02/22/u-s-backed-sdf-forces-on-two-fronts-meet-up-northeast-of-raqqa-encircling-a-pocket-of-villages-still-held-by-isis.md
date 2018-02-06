@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-nor
 
 ### Changes:
 
-1. [Raqqa offensive: U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/raqqa-offensive-u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md) _2017-08-27 03:47:52 (First version)_
+1. [Raqqa offensive: U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/raqqa-offensive-u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md) _(Current version)_
 
 ### Related:

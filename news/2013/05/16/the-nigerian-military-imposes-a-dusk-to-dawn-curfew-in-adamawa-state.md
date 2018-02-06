@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-cu
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-pthe-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md) _2017-08-25 03:38:41 (First version)_
-2. [Nigerian Sharia conflict:: The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md) _2017-08-27 03:38:54 (Update)_
+1. [Nigerian Sharia conflict:: The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-pthe-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md) _2018-02-06 13:49:24 (Update)_
 2. [The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md) _(Current version)_
 
 ### Related:

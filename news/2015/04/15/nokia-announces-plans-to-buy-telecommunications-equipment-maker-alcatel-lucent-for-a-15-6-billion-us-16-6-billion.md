@@ -16,7 +16,7 @@ Nokia has announced its intention to acquire telecoms equipment company Alcatel-
 
 ### Changes:
 
-1. [Nokia announces plans to buy telecommunications equipment maker Alcatel-Lucent for -15.6 billion (US$16.6 billion). ](/news/2015/04/15/nokia-announces-plans-to-buy-telecommunications-equipment-maker-alcatel-lucent-for-15-6-billion-us-16-6-billion.md) _2017-08-27 03:42:12 (First version)_
+1. [Nokia announces plans to buy telecommunications equipment maker Alcatel-Lucent for -15.6 billion (US$16.6 billion). ](/news/2015/04/15/nokia-announces-plans-to-buy-telecommunications-equipment-maker-alcatel-lucent-for-15-6-billion-us-16-6-billion.md) _2018-02-06 13:49:27 (First version)_
 1. [Nokia announces plans to buy telecommunications equipment maker Alcatel-Lucent for EUR15.6 billion (US$16.6 billion). ](/news/2015/04/15/nokia-announces-plans-to-buy-telecommunications-equipment-maker-alcatel-lucent-for-a-15-6-billion-us-16-6-billion.md) _(Current version)_
 
 ### Related:

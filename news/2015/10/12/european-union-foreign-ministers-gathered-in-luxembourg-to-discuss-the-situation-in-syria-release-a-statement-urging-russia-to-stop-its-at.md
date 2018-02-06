@@ -18,7 +18,7 @@ The European Union accuses Russia of putting peace efforts at risk in Syria.
 
 ### Changes:
 
-1. [Foreign involvement: European Union foreign ministers, gathered in Luxembourg to discuss the situation in Syria, release a statement urging Russia to stop its attacks in Syria and direct efforts towards a political solution. ](/news/2015/10/12/foreign-involvement-european-union-foreign-ministers-gathered-in-luxembourg-to-discuss-the-situation-in-syria-release-a-statement-urging.md) _2017-08-27 03:43:19 (First version)_
+1. [Foreign involvement: European Union foreign ministers, gathered in Luxembourg to discuss the situation in Syria, release a statement urging Russia to stop its attacks in Syria and direct efforts towards a political solution. ](/news/2015/10/12/foreign-involvement-european-union-foreign-ministers-gathered-in-luxembourg-to-discuss-the-situation-in-syria-release-a-statement-urging.md) _2018-02-06 13:49:27 (First version)_
 1. [European Union foreign ministers, gathered in Luxembourg to discuss the situation in Syria, release a statement urging Russia to stop its attacks in Syria and direct efforts towards a political solution. ](/news/2015/10/12/european-union-foreign-ministers-gathered-in-luxembourg-to-discuss-the-situation-in-syria-release-a-statement-urging-russia-to-stop-its-at.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The United Nations Security Council unanimously adopted a resolution on Friday a
 
 ### Changes:
 
-1. [Syrian Civil War: The United Nations Security Council unanimously adopts a resolution aimed at identifying those responsible for deploying chlorine and other chemical weapons in attacks in Syria. ](/news/2015/08/7/syrian-civil-war-the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-identifying-those-responsible-for-deploying-c.md) _2017-08-27 03:42:48 (First version)_
+1. [Syrian Civil War: The United Nations Security Council unanimously adopts a resolution aimed at identifying those responsible for deploying chlorine and other chemical weapons in attacks in Syria. ](/news/2015/08/7/syrian-civil-war-the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-identifying-those-responsible-for-deploying-c.md) _2018-02-06 13:49:27 (First version)_
 1. [The United Nations Security Council unanimously adopts a resolution aimed at identifying those responsible for deploying chlorine and other chemical weapons in attacks in Syria. ](/news/2015/08/7/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-identifying-those-responsible-for-deploying-chlorine-and-other.md) _(Current version)_
 
 ### Related:

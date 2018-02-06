@@ -17,8 +17,8 @@ In a pair of landmark decisions, the Supreme Court on Wednesday struck down the 
 
 ### Changes:
 
-1. [Same-sex marriage in the United States:The U.S. Supreme Court rules that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution. ](/news/2013/06/26/same-sex-marriage-in-the-united-states-pthe-u-s-supreme-court-rules-that-section-3-of-the-defense-of-marriage-act-is-unconstitutional-and-i.md) _2017-08-25 03:38:54 (First version)_
-2. [Same-sex marriage in the United States:: The U.S. Supreme Court rules that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution. ](/news/2013/06/26/same-sex-marriage-in-the-united-states-the-u-s-supreme-court-rules-that-section-3-of-the-defense-of-marriage-act-is-unconstitutional-and.md) _2017-08-27 03:39:09 (Update)_
+1. [Same-sex marriage in the United States:: The U.S. Supreme Court rules that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution. ](/news/2013/06/26/same-sex-marriage-in-the-united-states-the-u-s-supreme-court-rules-that-section-3-of-the-defense-of-marriage-act-is-unconstitutional-and.md) _2018-02-06 13:49:25 (First version)_
+2. [Same-sex marriage in the United States:The U.S. Supreme Court rules that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution. ](/news/2013/06/26/same-sex-marriage-in-the-united-states-pthe-u-s-supreme-court-rules-that-section-3-of-the-defense-of-marriage-act-is-unconstitutional-and-i.md) _2018-02-06 13:49:25 (Update)_
 2. [The U.S. Supreme Court rules that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution. ](/news/2013/06/26/the-u-s-supreme-court-rules-that-section-3-of-the-defense-of-marriage-act-is-unconstitutional-and-in-violation-of-the-fifth-amendment-to-th.md) _(Current version)_
 
 ### Related:

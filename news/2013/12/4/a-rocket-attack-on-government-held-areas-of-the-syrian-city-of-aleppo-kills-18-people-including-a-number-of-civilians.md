@@ -16,8 +16,8 @@ At least 18 people have been killed in a rocket attack on government-held areas 
 
 ### Changes:
 
-1. [Syrian civil war:A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/syrian-civil-war-pa-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md) _2017-08-25 03:39:37 (First version)_
-2. [Syrian civil war:: A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/syrian-civil-war-a-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md) _2017-08-27 03:39:55 (Update)_
+1. [Syrian civil war:A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/syrian-civil-war-pa-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/syrian-civil-war-a-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md) _2018-02-06 13:49:25 (Update)_
 2. [A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/a-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md) _(Current version)_
 
 ### Related:

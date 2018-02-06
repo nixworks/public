@@ -16,7 +16,7 @@ Some 20 people, including senior officials, are killed in an al-Shabab attack du
 
 ### Changes:
 
-1. [War in Somalia (2009-present): At least 20 people are killed, including senior officials, in an attack on the Central Hotel in Mogadishu. ](/news/2015/02/20/war-in-somalia-2009-present-at-least-20-people-are-killed-including-senior-officials-in-an-attack-on-the-central-hotel-in-mogadishu.md) _2017-08-27 03:41:58 (First version)_
+1. [War in Somalia (2009-present): At least 20 people are killed, including senior officials, in an attack on the Central Hotel in Mogadishu. ](/news/2015/02/20/war-in-somalia-2009-present-at-least-20-people-are-killed-including-senior-officials-in-an-attack-on-the-central-hotel-in-mogadishu.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 20 people are killed, including senior officials, in an attack on the Central Hotel in Mogadishu. ](/news/2015/02/20/at-least-20-people-are-killed-including-senior-officials-in-an-attack-on-the-central-hotel-in-mogadishu.md) _(Current version)_
 
 ### Related:

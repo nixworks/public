@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/2/police-allegedly-attack-oromo-protestors-at-a-re
 
 ### Changes:
 
-1. [2016 Ethiopian protests: Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/2016-ethiopian-protests-police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kil.md) _2017-08-27 03:46:56 (First version)_
+1. [2016 Ethiopian protests: Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/2016-ethiopian-protests-police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kil.md) _2018-02-06 13:49:29 (First version)_
 1. [Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kills-dozens-of-people.md) _(Current version)_
 
 ### Related:

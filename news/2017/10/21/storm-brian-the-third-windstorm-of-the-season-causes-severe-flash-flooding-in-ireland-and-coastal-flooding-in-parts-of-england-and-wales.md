@@ -16,7 +16,7 @@ Gusts of 78mph hit Wales, although the storm has not been as bad as was feared, 
 
 ### Changes:
 
-1. [Storm Brian, the third windstorm of the season, causes severe flash flooding in southern Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-southern-ireland-and-coastal-flooding-in-parts-of-england-an.md) _2017-10-23 09:30:05 (First version)_
+1. [Storm Brian, the third windstorm of the season, causes severe flash flooding in southern Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-southern-ireland-and-coastal-flooding-in-parts-of-england-an.md) _2018-02-06 13:49:31 (First version)_
 1. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _(Current version)_
 
 ### Related:

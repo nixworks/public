@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/03/18/japan-attempts-to-restore-electric-power-to-two
 
 ### Changes:
 
-1. [Fukushima I nuclear accidents: Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/fukushima-i-nuclear-accidents-japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-c.md) _2017-08-27 03:32:42 (First version)_
+1. [Fukushima I nuclear accidents: Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/fukushima-i-nuclear-accidents-japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-c.md) _2018-02-06 13:49:22 (First version)_
 1. [Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-combat-ongoing-problems.md) _(Current version)_
 
 ### Related:

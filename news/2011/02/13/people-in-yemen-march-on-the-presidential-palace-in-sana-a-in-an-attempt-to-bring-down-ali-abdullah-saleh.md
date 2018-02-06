@@ -20,8 +20,8 @@ About 2,000 demonstrators clash with police in the Yemeni capital Sanaa in the t
 
 ### Changes:
 
-1. [2011 Yemeni protests:People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-ppeople-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md) _2017-08-25 03:32:09 (First version)_
-2. [2011 Yemeni protests:: People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-people-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md) _2017-08-27 03:32:18 (Update)_
+1. [2011 Yemeni protests:People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-ppeople-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Yemeni protests:: People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-people-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md) _2018-02-06 13:49:21 (Update)_
 2. [People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/people-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md) _(Current version)_
 
 ### Related:

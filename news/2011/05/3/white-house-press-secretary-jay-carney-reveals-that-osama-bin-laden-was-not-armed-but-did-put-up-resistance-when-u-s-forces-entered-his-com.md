@@ -25,8 +25,8 @@ The Pakistani government lashed out at the American raid that killed Osama bin L
 
 ### Changes:
 
-1. [Reaction to the death of Osama bin Laden:White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-pwhite-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up-r.md) _2017-08-25 03:32:58 (First version)_
-2. [Reaction to the death of Osama bin Laden:: White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up.md) _2017-08-27 03:33:07 (Update)_
+1. [Reaction to the death of Osama bin Laden:: White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up.md) _2018-02-06 13:49:22 (First version)_
+2. [Reaction to the death of Osama bin Laden:White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-pwhite-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up-r.md) _2018-02-06 13:49:22 (Update)_
 2. [White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up-resistance-when-u-s-forces-entered-his-com.md) _(Current version)_
 
 ### Related:

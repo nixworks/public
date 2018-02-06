@@ -17,7 +17,7 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 
 ### Changes:
 
-1. [A Hindu priest is hacked to death and two devotees, who tried to intercede, are wounded in a temple in the Panchagarh District in northern Bangladesh. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/a-hindu-priest-is-hacked-to-death-and-two-devotees-who-tried-to-intercede-are-wounded-in-a-temple-in-the-panchagarh-district-in-northern.md) _2017-08-25 03:44:37 (First version)_
+1. [A Hindu priest is hacked to death and two devotees, who tried to intercede, are wounded in a temple in the Panchagarh District in northern Bangladesh. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/a-hindu-priest-is-hacked-to-death-and-two-devotees-who-tried-to-intercede-are-wounded-in-a-temple-in-the-panchagarh-district-in-northern.md) _2018-02-06 13:49:28 (First version)_
 1. [A Hindu priest is hacked to death and two devotees, who tried to intercede, are wounded in a temple in the Panchagarh District in northern Bangladesh. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/a-hindu-priest-is-hacked-to-death-and-two-devotees-who-tried-to-intercede-are-wounded-in-a-temple-in-the-panchagarh-district-in-northern-b.md) _(Current version)_
 
 ### Related:

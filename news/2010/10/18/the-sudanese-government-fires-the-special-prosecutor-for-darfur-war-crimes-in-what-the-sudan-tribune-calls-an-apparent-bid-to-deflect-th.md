@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/18/the-sudanese-government-fires-the-special-prose
 
 ### Changes:
 
-1. [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the ''Sudan Tribune'' calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect.md) _2017-08-25 03:30:35 (First version)_
+1. [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the ''Sudan Tribune'' calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect.md) _2018-02-06 13:49:20 (First version)_
 1. [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the "Sudan Tribune" calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect-th.md) _(Current version)_
 
 ### Related:

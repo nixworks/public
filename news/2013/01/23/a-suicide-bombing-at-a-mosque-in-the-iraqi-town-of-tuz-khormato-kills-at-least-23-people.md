@@ -16,8 +16,8 @@ At least 23 people are killed by a suicide bomber targeting a funeral being held
 
 ### Changes:
 
-1. [Iraqi insurgency:A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/iraqi-insurgency-pa-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md) _2017-08-25 03:37:19 (First version)_
-2. [Iraqi insurgency:: A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/iraqi-insurgency-a-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md) _2017-08-27 03:37:29 (Update)_
+1. [Iraqi insurgency:A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/iraqi-insurgency-pa-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency:: A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/iraqi-insurgency-a-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/a-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md) _(Current version)_
 
 ### Related:

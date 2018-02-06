@@ -17,7 +17,7 @@ Berliners will go to the polls on Sunday to vote in a state parliamentary electi
 
 ### Changes:
 
-1. [Berlin state election, 2016: Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/berlin-state-election-2016-voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling.md) _2017-08-27 03:46:52 (First version)_
+1. [Berlin state election, 2016: Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/berlin-state-election-2016-voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md) _(Current version)_
 
 ### Related:

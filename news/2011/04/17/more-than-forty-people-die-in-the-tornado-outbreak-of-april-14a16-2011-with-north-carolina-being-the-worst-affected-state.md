@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/04/17/more-than-forty-people-die-in-the-tornado-outbr
 
 ### Changes:
 
-1. [More than forty people die in the Mid-April 2011 Southern United States tornado outbreak, with North Carolina being the worst affected state. ](/news/2011/04/17/more-than-forty-people-die-in-the-mid-april-2011-southern-united-states-tornado-outbreak-with-north-carolina-being-the-worst-affected-state.md) _2017-10-17 03:38:11 (First version)_
+1. [More than forty people die in the Mid-April 2011 Southern United States tornado outbreak, with North Carolina being the worst affected state. ](/news/2011/04/17/more-than-forty-people-die-in-the-mid-april-2011-southern-united-states-tornado-outbreak-with-north-carolina-being-the-worst-affected-state.md) _2018-02-06 13:49:22 (First version)_
 1. [More than forty people die in the tornado outbreak of April 14-16, 2011, with North Carolina being the worst affected state. ](/news/2011/04/17/more-than-forty-people-die-in-the-tornado-outbreak-of-april-14a16-2011-with-north-carolina-being-the-worst-affected-state.md) _(Current version)_
 
 ### Related:

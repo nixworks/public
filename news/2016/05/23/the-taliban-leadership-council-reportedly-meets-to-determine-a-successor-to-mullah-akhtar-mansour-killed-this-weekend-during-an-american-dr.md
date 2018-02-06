@@ -16,8 +16,8 @@ U.S. President Barack Obama approved the drone strike that killed Mullah Akhtar 
 
 ### Changes:
 
-1. [ The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american.md) _2017-08-25 03:45:44 (First version)_
-2. [ War in Afghanistan: The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/war-in-afghanistan-the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend.md) _2017-08-27 03:46:07 (Update)_
+1. [ War in Afghanistan: The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/war-in-afghanistan-the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend.md) _2018-02-06 13:49:29 (First version)_
+2. [ The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american.md) _2018-02-06 13:49:29 (Update)_
 2. [The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american-dr.md) _(Current version)_
 
 ### Related:

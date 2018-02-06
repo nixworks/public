@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/18/gunmen-break-into-the-home-of-an-anti-terrorism
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/iraqi-insurgency-post-u-s-withdrawal-pgunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him.md) _2017-08-25 03:38:41 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/iraqi-insurgency-post-u-s-withdrawal-gunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him.md) _2017-08-27 03:38:54 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/iraqi-insurgency-post-u-s-withdrawal-pgunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/iraqi-insurgency-post-u-s-withdrawal-gunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/gunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him-and-his-family.md) _(Current version)_
 
 ### Related:

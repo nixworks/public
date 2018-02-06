@@ -17,7 +17,7 @@ There’s a real movement afoot to make the Golden State its own golden republic
 
 ### Changes:
 
-1. [California independence referendum: Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/california-independence-referendum-yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _2017-08-27 03:47:42 (First version)_
+1. [California independence referendum: Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/california-independence-referendum-yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _2018-02-06 13:49:30 (First version)_
 1. [Yes California, the campaign to reinstate the independence of California launches its signature campaign. ](/news/2017/01/27/yes-california-the-campaign-to-reinstate-the-independence-of-california-launches-its-signature-campaign.md) _(Current version)_
 
 ### Related:

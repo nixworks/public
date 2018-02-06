@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-a
 
 ### Changes:
 
-1. [Russo-Georgian War: Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/russo-georgian-war-georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will.md) _2017-08-27 03:44:46 (First version)_
+1. [Russo-Georgian War: Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/russo-georgian-war-georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will.md) _2018-02-06 13:49:28 (First version)_
 1. [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md) _(Current version)_
 
 ### Related:

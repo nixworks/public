@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Masked gunmen kill 19 people and wound seven others at multiple locations of Sao Paulo's suburbs Thursday night. ](/news/2015/08/14/masked-gunmen-kill-19-people-and-wound-seven-others-at-multiple-locations-of-sapso-paulo-s-suburbs-thursday-night.md) _2017-08-25 03:42:33 (First version)_
+1. [Masked gunmen kill 19 people and wound seven others at multiple locations of Sao Paulo's suburbs Thursday night. ](/news/2015/08/14/masked-gunmen-kill-19-people-and-wound-seven-others-at-multiple-locations-of-sapso-paulo-s-suburbs-thursday-night.md) _2018-02-06 13:49:27 (First version)_
 1. [Masked gunmen kill 19 people and wound seven others at multiple locations of SGBPo Paulo's suburbs Thursday night. ](/news/2015/08/14/masked-gunmen-kill-19-people-and-wound-seven-others-at-multiple-locations-of-sagbpo-paulo-s-suburbs-thursday-night.md) _(Current version)_
 
 ### Related:

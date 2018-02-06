@@ -17,7 +17,7 @@ RT&Eacute; has extended sympathy to Ryan Tubridy and his family following the de
 
 ### Changes:
 
-1. [Pat Kenny, most recently presenter of ''The Frontline'', makes his return as host of ''The Late Late Show'' after the death this week of regular host Ryan Tubridy's father. ](/news/2013/02/1/pat-kenny-most-recently-presenter-of-the-frontline-makes-his-return-as-host-of-the-late-late-show-after-the-death-this-week-of-reg.md) _2017-08-25 03:37:24 (First version)_
+1. [Pat Kenny, most recently presenter of ''The Frontline'', makes his return as host of ''The Late Late Show'' after the death this week of regular host Ryan Tubridy's father. ](/news/2013/02/1/pat-kenny-most-recently-presenter-of-the-frontline-makes-his-return-as-host-of-the-late-late-show-after-the-death-this-week-of-reg.md) _2018-02-06 13:49:24 (First version)_
 1. [Pat Kenny, most recently presenter of "The Frontline", makes his return as host of "The Late Late Show" after the death this week of regular host Ryan Tubridy's father. ](/news/2013/02/1/pat-kenny-most-recently-presenter-of-the-frontline-makes-his-return-as-host-of-the-late-late-show-after-the-death-this-week-of-regular.md) _(Current version)_
 
 ### Related:

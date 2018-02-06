@@ -16,7 +16,7 @@ Turkey dismissed nearly 1,400 more members of its armed forces and stacked the t
 
 ### Changes:
 
-1. [2016 Turkish purges: The Turkish government dismisses nearly 1,400 military personnel for alleged links to exiled cleric Fethullah Gulen. ](/news/2016/07/31/2016-turkish-purges-the-turkish-government-dismisses-nearly-1-400-military-personnel-for-alleged-links-to-exiled-cleric-fethullah-ga1-4len.md) _2017-08-27 03:46:34 (First version)_
+1. [2016 Turkish purges: The Turkish government dismisses nearly 1,400 military personnel for alleged links to exiled cleric Fethullah Gulen. ](/news/2016/07/31/2016-turkish-purges-the-turkish-government-dismisses-nearly-1-400-military-personnel-for-alleged-links-to-exiled-cleric-fethullah-ga1-4len.md) _2018-02-06 13:49:29 (First version)_
 1. [The Turkish government dismisses nearly 1,400 military personnel for alleged links to exiled cleric Fethullah Gulen. ](/news/2016/07/31/the-turkish-government-dismisses-nearly-1-400-military-personnel-for-alleged-links-to-exiled-cleric-fethullah-ga1-4len.md) _(Current version)_
 
 ### Related:

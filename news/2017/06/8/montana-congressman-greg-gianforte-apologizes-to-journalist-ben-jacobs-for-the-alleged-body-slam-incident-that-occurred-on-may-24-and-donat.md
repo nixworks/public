@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to
 
 ### Changes:
 
-1. [Montana congressman Greg Gianforte apologizes to Ben Jacobs for an allege body slam incident and donates US$ 50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-ben-jacobs-for-an-allege-body-slam-incident-and-donates-us-50-000-to-the-committee-to-prot.md) _2017-06-08 07:30:06 (First version)_
-2. [Freedom of the press in the United States: Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/freedom-of-the-press-in-the-united-states-montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam.md) _2017-08-27 03:48:27 (Update)_
+1. [Montana congressman Greg Gianforte apologizes to Ben Jacobs for an allege body slam incident and donates US$ 50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-ben-jacobs-for-an-allege-body-slam-incident-and-donates-us-50-000-to-the-committee-to-prot.md) _2018-02-06 13:49:30 (First version)_
+2. [Freedom of the press in the United States: Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/freedom-of-the-press-in-the-united-states-montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam.md) _2018-02-06 13:49:30 (Update)_
 2. [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md) _(Current version)_
 
 ### Related:

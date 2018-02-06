@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/11/the-death-toll-from-the-earthquake-rises-to-59-
 
 ### Changes:
 
-1. [2016 Taiwan earthquake: The death toll from the earthquake rises to 59 with 76 missing. ](/news/2016/02/11/2016-taiwan-earthquake-the-death-toll-from-the-earthquake-rises-to-59-with-76-missing.md) _2017-08-27 03:44:53 (First version)_
+1. [2016 Taiwan earthquake: The death toll from the earthquake rises to 59 with 76 missing. ](/news/2016/02/11/2016-taiwan-earthquake-the-death-toll-from-the-earthquake-rises-to-59-with-76-missing.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the earthquake rises to 59 with 76 missing. ](/news/2016/02/11/the-death-toll-from-the-earthquake-rises-to-59-with-76-missing.md) _(Current version)_
 
 ### Related:

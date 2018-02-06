@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suf
 
 ### Changes:
 
-1. [HBO issues a public apology for any offence suffered after the use of a severed head in ''Game of Thrones''; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to.md) _2017-08-25 03:35:52 (First version)_
+1. [HBO issues a public apology for any offence suffered after the use of a severed head in ''Game of Thrones''; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to.md) _2018-02-06 13:49:23 (First version)_
 1. [HBO issues a public apology for any offence suffered after the use of a severed head in "Game of Thrones"; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.md) _(Current version)_
 
 ### Related:

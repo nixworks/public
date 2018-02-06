@@ -16,7 +16,7 @@ Two ethnic groups from Nepal&#039;s restive southern Terai region have claimed r
 
 ### Changes:
 
-1. [ Two groups from the Terai region of Nepal - the Terai Army and the Nepal People's Army - claim responsibility for bombs that killed two people and injured 30 in Kathmandu yesterday. ](/news/2007/09/3/two-groups-from-the-terai-region-of-nepal-the-terai-army-and-the-nepal-people-s-army-claim-responsibility-for-bombs-that-killed-two.md) _2017-08-27 03:20:47 (First version)_
+1. [ Two groups from the Terai region of Nepal - the Terai Army and the Nepal People's Army - claim responsibility for bombs that killed two people and injured 30 in Kathmandu yesterday. ](/news/2007/09/3/two-groups-from-the-terai-region-of-nepal-the-terai-army-and-the-nepal-people-s-army-claim-responsibility-for-bombs-that-killed-two.md) _2018-02-06 13:49:18 (First version)_
 1. [ Two groups from the Terai region of Nepal - the Terai Army and the Nepal People's Army - claim responsibility for bombs that killed two people and injured 30 in Kathmandu yesterday. ](/news/2007/09/3/two-groups-from-the-terai-region-of-nepal-a-the-terai-army-and-the-nepal-people-s-army-a-claim-responsibility-for-bombs-that-killed-two.md) _(Current version)_
 
 ### Related:

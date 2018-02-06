@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/16/former-vice-president-and-2000-democratic-presi
 
 ### Changes:
 
-1. [Former Vice President and 2000 Democratic presidential candidate Al Gore announces on the CBS News' ''60 Minutes'' that he will not seek election to the presidency in 2004.](/news/2002/12/16/former-vice-president-and-2000-democratic-presidential-candidate-al-gore-announces-on-the-cbs-news-60-minutes-that-he-will-not-seek-ele.md) _2017-08-25 03:15:18 (First version)_
+1. [Former Vice President and 2000 Democratic presidential candidate Al Gore announces on the CBS News' ''60 Minutes'' that he will not seek election to the presidency in 2004.](/news/2002/12/16/former-vice-president-and-2000-democratic-presidential-candidate-al-gore-announces-on-the-cbs-news-60-minutes-that-he-will-not-seek-ele.md) _2018-02-06 13:49:15 (First version)_
 1. [Former Vice President and 2000 Democratic presidential candidate Al Gore announces on the CBS News' "60 Minutes" that he will not seek election to the presidency in 2004.](/news/2002/12/16/former-vice-president-and-2000-democratic-presidential-candidate-al-gore-announces-on-the-cbs-news-60-minutes-that-he-will-not-seek-elect.md) _(Current version)_
 
 ### Related:

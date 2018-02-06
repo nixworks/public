@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/11/15/president-pervez-musharraf-appoints-muhammad-mi
 
 ### Changes:
 
-1. [ 2007 Pakistani state of emergency: President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-p-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md) _2017-08-25 03:21:22 (First version)_
-2. [ 2007 Pakistani state of emergency:: President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md) _2017-08-27 03:21:18 (Update)_
+1. [ 2007 Pakistani state of emergency:: President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pakistani state of emergency: President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-p-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md) _2018-02-06 13:49:18 (Update)_
 2. [ President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-minister.md) _(Current version)_
 
 ### Related:

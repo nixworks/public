@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/11/22/the-european-commission-gives-its-backing-to-co
 
 ### Changes:
 
-1. [The European Commission gives its backing to commodities giant Glencore's $31 billion (PS19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-aps19-5-billion-bid-to-take-over-mining-company-xstra.md) _2017-08-25 03:36:51 (First version)_
+1. [The European Commission gives its backing to commodities giant Glencore's $31 billion (PS19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-aps19-5-billion-bid-to-take-over-mining-company-xstra.md) _2018-02-06 13:49:24 (First version)_
 1. [The European Commission gives its backing to commodities giant Glencore's $31 billion (GBP19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-agbp19-5-billion-bid-to-take-over-mining-company-xst.md) _(Current version)_
 
 ### Related:

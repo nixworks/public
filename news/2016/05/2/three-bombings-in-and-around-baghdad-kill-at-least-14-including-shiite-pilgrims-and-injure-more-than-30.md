@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-lea
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/iraqi-civil-war-2014-present-three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _2017-08-27 03:45:57 (First version)_
+1. [Iraqi Civil War (2014-present): Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/iraqi-civil-war-2014-present-three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _2018-02-06 13:49:29 (First version)_
 1. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Boris Berezovsky won &pound;150,000 High Court libel damages over claims on a Ru
 
 ### Changes:
 
-1. [Boris Berezovsky is awarded 150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-ps150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexander.md) _2017-08-25 03:27:20 (First version)_
+1. [Boris Berezovsky is awarded 150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-ps150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexander.md) _2018-02-06 13:49:19 (First version)_
 1. [Boris Berezovsky is awarded GBP150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-gbp150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexand.md) _(Current version)_
 
 ### Related:

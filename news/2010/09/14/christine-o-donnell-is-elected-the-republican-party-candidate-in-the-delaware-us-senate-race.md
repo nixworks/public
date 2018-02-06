@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/09/14/christine-o-donnell-is-elected-the-republican-p
 
 ### Changes:
 
-1. [United States primary electionsChristine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-electionspchristine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md) _2017-08-25 03:30:01 (First version)_
-2. [United States primary elections: Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-elections-christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md) _2017-08-27 03:30:05 (Update)_
+1. [United States primary electionsChristine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-electionspchristine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md) _2018-02-06 13:49:20 (First version)_
+2. [United States primary elections: Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-elections-christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md) _2018-02-06 13:49:20 (Update)_
 2. [Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md) _(Current version)_
 
 ### Related:

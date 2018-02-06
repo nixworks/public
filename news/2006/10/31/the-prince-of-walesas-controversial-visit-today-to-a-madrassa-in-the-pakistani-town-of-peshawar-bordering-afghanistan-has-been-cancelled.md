@@ -16,7 +16,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [ The Prince of Wales-s controversial visit today to a madrassa in the Pakistani town of Peshawar, bordering Afghanistan has been cancelled over fears for his safety, after calls by Islamic leaders for revenge for a Pakistani airstrike that destroyed another religious school about 60 miles away. ](/news/2006/10/31/the-prince-of-wales-s-controversial-visit-today-to-a-madrassa-in-the-pakistani-town-of-peshawar-bordering-afghanistan-has-been-cancelled.md) _2017-08-27 03:18:35 (First version)_
+1. [ The Prince of Wales-s controversial visit today to a madrassa in the Pakistani town of Peshawar, bordering Afghanistan has been cancelled over fears for his safety, after calls by Islamic leaders for revenge for a Pakistani airstrike that destroyed another religious school about 60 miles away. ](/news/2006/10/31/the-prince-of-wales-s-controversial-visit-today-to-a-madrassa-in-the-pakistani-town-of-peshawar-bordering-afghanistan-has-been-cancelled.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Prince of Wales's controversial visit today to a madrassa in the Pakistani town of Peshawar, bordering Afghanistan has been cancelled over fears for his safety, after calls by Islamic leaders for revenge for a Pakistani airstrike that destroyed another religious school about 60 miles away. ](/news/2006/10/31/the-prince-of-walesas-controversial-visit-today-to-a-madrassa-in-the-pakistani-town-of-peshawar-bordering-afghanistan-has-been-cancelled.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Grenade attack destroys a minibus in a Somali-dominated neighbourhood of the cap
 
 ### Changes:
 
-1. [2012 terrorist attacks in Kenya:Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/2012-terrorist-attacks-in-kenya-pfive-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _2017-08-25 03:36:50 (First version)_
-2. [2012 terrorist attacks in Kenya:: Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/2012-terrorist-attacks-in-kenya-five-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _2017-08-27 03:36:59 (Update)_
+1. [2012 terrorist attacks in Kenya:Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/2012-terrorist-attacks-in-kenya-pfive-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 terrorist attacks in Kenya:: Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/2012-terrorist-attacks-in-kenya-five-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _2018-02-06 13:49:24 (Update)_
 2. [Five people are killed after a grenade destroys a bus in Nairobi, Kenya. ](/news/2012/11/18/five-people-are-killed-after-a-grenade-destroys-a-bus-in-nairobi-kenya.md) _(Current version)_
 
 ### Related:

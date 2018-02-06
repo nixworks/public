@@ -20,8 +20,8 @@ Palestinians fire rockets from Gaza Strip into western Negev, moderately injurin
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: The Israeli Military stations troops and artillery on the edge of Gaza and seals the borders of the Gaza Strip and West Bank. ](/news/2005/09/24/israeli-palestinian-conflict-p-the-israeli-military-stations-troops-and-artillery-on-the-edge-of-gaza-and-seals-the-borders-of-the-gaza-str.md) _2017-08-25 03:16:50 (First version)_
-2. [ Israeli-Palestinian Conflict:: The Israeli Military stations troops and artillery on the edge of Gaza and seals the borders of the Gaza Strip and West Bank. ](/news/2005/09/24/israeli-palestinian-conflict-the-israeli-military-stations-troops-and-artillery-on-the-edge-of-gaza-and-seals-the-borders-of-the-gaza-str.md) _2017-08-27 03:16:51 (Update)_
+1. [ Israeli-Palestinian Conflict:: The Israeli Military stations troops and artillery on the edge of Gaza and seals the borders of the Gaza Strip and West Bank. ](/news/2005/09/24/israeli-palestinian-conflict-the-israeli-military-stations-troops-and-artillery-on-the-edge-of-gaza-and-seals-the-borders-of-the-gaza-str.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict: The Israeli Military stations troops and artillery on the edge of Gaza and seals the borders of the Gaza Strip and West Bank. ](/news/2005/09/24/israeli-palestinian-conflict-p-the-israeli-military-stations-troops-and-artillery-on-the-edge-of-gaza-and-seals-the-borders-of-the-gaza-str.md) _2018-02-06 13:49:16 (Update)_
 2. [ The Israeli Military stations troops and artillery on the edge of Gaza and seals the borders of the Gaza Strip and West Bank. ](/news/2005/09/24/the-israeli-military-stations-troops-and-artillery-on-the-edge-of-gaza-and-seals-the-borders-of-the-gaza-strip-and-west-bank.md) _(Current version)_
 
 ### Related:

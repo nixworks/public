@@ -16,7 +16,7 @@ Rebekah Brooks, the former head of Rupert Murdoch’s newspaper holdings in Brit
 
 ### Changes:
 
-1. [R v Brooks, Coulson and six others: Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/r-v-brooks-coulson-and-six-others-former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack.md) _2017-08-27 03:40:53 (First version)_
+1. [R v Brooks, Coulson and six others: Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/r-v-brooks-coulson-and-six-others-former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack.md) _2018-02-06 13:49:26 (First version)_
 1. [Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack-mobile-phones-rebekah-brooks-charl.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Navy christened the USS Gerald Ford on Saturday with the traditional smashin
 
 ### Changes:
 
-1. [The United States Navy christened the USS ''Gerald R. Ford'' - the $15.5 billion aircraft carrier is the most technologically advanced ship ever built. ](/news/2013/11/9/the-united-states-navy-christened-the-uss-gerald-r-ford-the-15-5-billion-aircraft-carrier-is-the-most-technologically-advanced-ship.md) _2017-08-25 03:39:30 (First version)_
+1. [The United States Navy christened the USS ''Gerald R. Ford'' - the $15.5 billion aircraft carrier is the most technologically advanced ship ever built. ](/news/2013/11/9/the-united-states-navy-christened-the-uss-gerald-r-ford-the-15-5-billion-aircraft-carrier-is-the-most-technologically-advanced-ship.md) _2018-02-06 13:49:25 (First version)_
 1. [The United States Navy christened the USS "Gerald R. Ford" - the $15.5 billion aircraft carrier is the most technologically advanced ship ever built. ](/news/2013/11/9/the-united-states-navy-christened-the-uss-gerald-r-ford-the-15-5-billion-aircraft-carrier-is-the-most-technologically-advanced-ship-ev.md) _(Current version)_
 
 ### Related:

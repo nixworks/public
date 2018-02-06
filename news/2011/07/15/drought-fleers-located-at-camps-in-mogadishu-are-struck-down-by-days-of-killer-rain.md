@@ -18,8 +18,8 @@ People who have fled the drought in Somalia to camps near the capital Mogadishu 
 
 ### Changes:
 
-1. [2011 Horn of Africa drought:Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-pdrought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _2017-08-25 03:33:47 (First version)_
-2. [2011 Horn of Africa drought:: Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _2017-08-27 03:33:54 (Update)_
+1. [2011 Horn of Africa drought:Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-pdrought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Horn of Africa drought:: Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _2018-02-06 13:49:22 (Update)_
 2. [Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md) _(Current version)_
 
 ### Related:

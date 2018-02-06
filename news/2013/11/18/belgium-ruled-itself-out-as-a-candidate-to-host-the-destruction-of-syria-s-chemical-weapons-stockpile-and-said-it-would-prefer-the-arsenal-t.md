@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Destruction of Syria's chemical weapons: Belgium ruled itself out as a candidate to host the destruction of Syria's chemical weapons stockpile and said it would prefer the arsenal to be eradicated close to Syria itself. ](/news/2013/11/18/destruction-of-syria-s-chemical-weapons-belgium-ruled-itself-out-as-a-candidate-to-host-the-destruction-of-syria-s-chemical-weapons-stockpi.md) _2017-08-27 03:39:51 (First version)_
+1. [Destruction of Syria's chemical weapons: Belgium ruled itself out as a candidate to host the destruction of Syria's chemical weapons stockpile and said it would prefer the arsenal to be eradicated close to Syria itself. ](/news/2013/11/18/destruction-of-syria-s-chemical-weapons-belgium-ruled-itself-out-as-a-candidate-to-host-the-destruction-of-syria-s-chemical-weapons-stockpi.md) _2018-02-06 13:49:25 (First version)_
 1. [Belgium ruled itself out as a candidate to host the destruction of Syria's chemical weapons stockpile and said it would prefer the arsenal to be eradicated close to Syria itself. ](/news/2013/11/18/belgium-ruled-itself-out-as-a-candidate-to-host-the-destruction-of-syria-s-chemical-weapons-stockpile-and-said-it-would-prefer-the-arsenal-t.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-g
 
 ### Changes:
 
-1. [Governor Nathan Deal, of the American state of Georgia, vetoes a religious liberties bill that would have protected people whose religious beliefs don't include same-sex marriage. ](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-georgia-vetoes-a-religious-liberties-bill-that-would-have-protected-people-whose-religious-b.md) _2017-10-17 03:52:22 (First version)_
+1. [Governor Nathan Deal, of the American state of Georgia, vetoes a religious liberties bill that would have protected people whose religious beliefs don't include same-sex marriage. ](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-georgia-vetoes-a-religious-liberties-bill-that-would-have-protected-people-whose-religious-b.md) _2018-02-06 13:49:28 (First version)_
 1. [ Governor Nathan Deal, of the American state of Georgia, vetoes a religious liberties bill that would have protected people whose religious beliefs don't include same-sex marriage. ](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-georgia-vetoes-a-religious-liberties-bill-that-would-have-protected-people-whose-religious.md) _(Current version)_
 
 ### Related:

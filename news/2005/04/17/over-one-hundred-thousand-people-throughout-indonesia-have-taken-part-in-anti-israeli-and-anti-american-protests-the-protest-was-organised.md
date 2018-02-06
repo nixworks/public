@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/04/17/over-one-hundred-thousand-people-throughout-ind
 
 ### Changes:
 
-1. [ Over one hundred thousand people throughout Indonesia have taken part in anti-Israeli and anti-American protests. The protest was organised by the Prosperous Justice Party in order to show Muslim unity regarding the Al Aqsa Mosque. ](/news/2005/04/17/over-one-hundred-thousand-people-throughout-indonesia-have-taken-part-in-anti-israeli-and-anti-american-protests-the-protest-was-organise.md) _2017-08-25 03:16:00 (First version)_
+1. [ Over one hundred thousand people throughout Indonesia have taken part in anti-Israeli and anti-American protests. The protest was organised by the Prosperous Justice Party in order to show Muslim unity regarding the Al Aqsa Mosque. ](/news/2005/04/17/over-one-hundred-thousand-people-throughout-indonesia-have-taken-part-in-anti-israeli-and-anti-american-protests-the-protest-was-organise.md) _2018-02-06 13:49:16 (First version)_
 1. [ Over one hundred thousand people throughout Indonesia have taken part in anti-Israeli and anti-American protests. The protest was organised by the Prosperous Justice Party in order to show Muslim unity regarding the Al Aqsa Mosque. ](/news/2005/04/17/over-one-hundred-thousand-people-throughout-indonesia-have-taken-part-in-anti-israeli-and-anti-american-protests-the-protest-was-organised.md) _(Current version)_
 
 ### Related:

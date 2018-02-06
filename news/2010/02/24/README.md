@@ -21,11 +21,11 @@ The hunger strike death of a Cuban political prisoner provoked international con
 
 ##### RasGas
 ### [RasGas, a joint venture of Qatar Petroleum and ExxonMobil, starts its seventh LNG train, ensuring Qatar's position as the world's biggest producer of liquefied natural gas. ](/news/2010/02/24/rasgas-a-joint-venture-of-qatar-petroleum-and-exxonmobil-starts-its-seventh-lng-train-ensuring-qatar-s-position-as-the-world-s-biggest-pr.md)
-_Context: RasGas, liquefied natural gas, ExxonMobil Corporation, Qatar Petroleum, LNG train, Qatar_
+_Context: Qatar Petroleum, RasGas, ExxonMobil Corporation, LNG train, liquefied natural gas, Qatar_
 
 ##### Oxfam
 ### [Oxfam Hong Kong suspends its student training programme in China after the Chinese government said the charity had "unfriendly intentions". ](/news/2010/02/24/oxfam-hong-kong-suspends-its-student-training-programme-in-china-after-the-chinese-government-said-the-charity-had-unfriendly-intentions.md)
-_Context: Oxfam, China_
+_Context: China, Oxfam_
 
 ##### Sachin Tendulkar
 ### [Sachin Tendulkar becomes the first cricketer in history to score a double century in One Day International cricket. ](/news/2010/02/24/sachin-tendulkar-becomes-the-first-cricketer-in-history-to-score-a-double-century-in-one-day-international-cricket.md)

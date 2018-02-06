@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanes
 
 ### Changes:
 
-1. [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. [http:--news.bbc.co.uk-2-hi-africa-6042096.stm (BBC)]. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad-http-news-bbc-co-uk-2-hi-africa-604209.md) _2017-06-18 03:18:45 (First version)_
+1. [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. [http:--news.bbc.co.uk-2-hi-africa-6042096.stm (BBC)]. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad-http-news-bbc-co-uk-2-hi-africa-604209.md) _2018-02-06 13:49:17 (First version)_
 1. [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-
 
 ### Changes:
 
-1. [An ATR-72 aircraft belonging to Carpatair veers off a runway at Rome's Leonardo da Vinci-Fiumicino Airport, injuring at least 6 people. ](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-off-a-runway-at-rome-s-leonardo-da-vinci-fiumicino-airport-injuring-at-least-6-people.md) _2017-08-27 03:37:35 (First version)_
+1. [An ATR-72 aircraft belonging to Carpatair veers off a runway at Rome's Leonardo da Vinci-Fiumicino Airport, injuring at least 6 people. ](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-off-a-runway-at-rome-s-leonardo-da-vinci-fiumicino-airport-injuring-at-least-6-people.md) _2018-02-06 13:49:24 (First version)_
 1. [An ATR-72 aircraft belonging to Carpatair veers off a runway at Rome's Leonardo da Vinci-Fiumicino Airport, injuring at least 6 people. ](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-off-a-runway-at-rome-s-leonardo-da-vinciafiumicino-airport-injuring-at-least-6-people.md) _(Current version)_
 
 ### Related:

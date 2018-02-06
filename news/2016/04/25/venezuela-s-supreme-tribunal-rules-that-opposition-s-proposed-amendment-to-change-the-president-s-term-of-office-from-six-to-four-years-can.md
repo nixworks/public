@@ -17,7 +17,7 @@ CARACAS, Venezuela (AP) — Venezuela&#039;s supreme court has struck down an at
 
 ### Changes:
 
-1. [Constitution of Venezuela: Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six to four years can not be applied retroactively, thereby ending this attempt to cut short President Nicolas Maduro's time in office. ](/news/2016/04/25/constitution-of-venezuela-venezuela-s-supreme-tribunal-rules-that-opposition-s-proposed-amendment-to-change-the-president-s-term-of-office.md) _2017-08-27 03:45:49 (First version)_
+1. [Constitution of Venezuela: Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six to four years can not be applied retroactively, thereby ending this attempt to cut short President Nicolas Maduro's time in office. ](/news/2016/04/25/constitution-of-venezuela-venezuela-s-supreme-tribunal-rules-that-opposition-s-proposed-amendment-to-change-the-president-s-term-of-office.md) _2018-02-06 13:49:28 (First version)_
 1. [Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six to four years can not be applied retroactively, thereby ending this attempt to cut short President Nicolas Maduro's time in office. ](/news/2016/04/25/venezuela-s-supreme-tribunal-rules-that-opposition-s-proposed-amendment-to-change-the-president-s-term-of-office-from-six-to-four-years-can.md) _(Current version)_
 
 ### Related:

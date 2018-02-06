@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/09/2/hurricane-felix-becomes-a-category-2-hurricane-e
 
 ### Changes:
 
-1. [ Hurricane Felix Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-p-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md) _2017-05-25 03:21:17 (First version)_
-2. [ Hurricane Felix: Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md) _2017-08-27 03:20:47 (Update)_
+1. [ Hurricane Felix Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-p-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md) _2018-02-06 13:49:18 (First version)_
+2. [ Hurricane Felix: Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md) _(Current version)_
 
 ### Related:

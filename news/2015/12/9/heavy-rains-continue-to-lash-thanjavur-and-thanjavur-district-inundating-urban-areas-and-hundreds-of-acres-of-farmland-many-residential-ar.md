@@ -16,7 +16,7 @@ Fields are submerged; AIADMK worker electrocuted; old man washed away
 
 ### Changes:
 
-1. [2015 South Indian floods: Heavy rains continue to lash Thanjavur and Thanjavur district, inundating urban areas and hundreds of acres of farmland. Many residential areas in Thanjavur have been marooned by rising water. ](/news/2015/12/9/2015-south-indian-floods-heavy-rains-continue-to-lash-thanjavur-and-thanjavur-district-inundating-urban-areas-and-hundreds-of-acres-of-far.md) _2017-08-27 03:44:17 (First version)_
+1. [2015 South Indian floods: Heavy rains continue to lash Thanjavur and Thanjavur district, inundating urban areas and hundreds of acres of farmland. Many residential areas in Thanjavur have been marooned by rising water. ](/news/2015/12/9/2015-south-indian-floods-heavy-rains-continue-to-lash-thanjavur-and-thanjavur-district-inundating-urban-areas-and-hundreds-of-acres-of-far.md) _2018-02-06 13:49:28 (First version)_
 1. [Heavy rains continue to lash Thanjavur and Thanjavur district, inundating urban areas and hundreds of acres of farmland. Many residential areas in Thanjavur have been marooned by rising water. ](/news/2015/12/9/heavy-rains-continue-to-lash-thanjavur-and-thanjavur-district-inundating-urban-areas-and-hundreds-of-acres-of-farmland-many-residential-ar.md) _(Current version)_
 
 ### Related:

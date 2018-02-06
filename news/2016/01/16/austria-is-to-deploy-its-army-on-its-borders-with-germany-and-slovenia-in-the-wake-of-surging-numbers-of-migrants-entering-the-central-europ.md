@@ -16,7 +16,7 @@ The Austrian Defense Ministry announced in new regulations on Saturday that it w
 
 ### Changes:
 
-1. [European migrant crisis: Austria is to deploy its army on its borders with Germany and Slovenia in the wake of surging numbers of migrants entering the Central European country. ](/news/2016/01/16/european-migrant-crisis-austria-is-to-deploy-its-army-on-its-borders-with-germany-and-slovenia-in-the-wake-of-surging-numbers-of-migrants-e.md) _2017-08-27 03:44:41 (First version)_
+1. [European migrant crisis: Austria is to deploy its army on its borders with Germany and Slovenia in the wake of surging numbers of migrants entering the Central European country. ](/news/2016/01/16/european-migrant-crisis-austria-is-to-deploy-its-army-on-its-borders-with-germany-and-slovenia-in-the-wake-of-surging-numbers-of-migrants-e.md) _2018-02-06 13:49:28 (First version)_
 1. [Austria is to deploy its army on its borders with Germany and Slovenia in the wake of surging numbers of migrants entering the Central European country. ](/news/2016/01/16/austria-is-to-deploy-its-army-on-its-borders-with-germany-and-slovenia-in-the-wake-of-surging-numbers-of-migrants-entering-the-central-europ.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/06/12/28-bodies-believed-to-mainly-be-sunni-arabs-hav
 
 ### Changes:
 
-1. [ Conflict in Iraq: 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/conflict-in-iraq-p-28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md) _2017-08-25 03:16:21 (First version)_
-2. [ Conflict in Iraq:: 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/conflict-in-iraq-28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md) _2017-08-27 03:16:24 (Update)_
+1. [ Conflict in Iraq: 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/conflict-in-iraq-p-28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/conflict-in-iraq-28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md) _2018-02-06 13:49:16 (Update)_
 2. [ 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md) _(Current version)_
 
 ### Related:

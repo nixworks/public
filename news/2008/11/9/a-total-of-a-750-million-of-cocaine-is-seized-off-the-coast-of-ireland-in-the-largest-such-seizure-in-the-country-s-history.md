@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/11/9/a-total-of-a-750-million-of-cocaine-is-seized-of
 
 ### Changes:
 
-1. [ A total of -750 million of cocaine is seized off the coast of Ireland, in the largest such seizure in the country's history. ](/news/2008/11/9/a-total-of-750-million-of-cocaine-is-seized-off-the-coast-of-ireland-in-the-largest-such-seizure-in-the-country-s-history.md) _2017-08-27 03:23:02 (First version)_
+1. [ A total of -750 million of cocaine is seized off the coast of Ireland, in the largest such seizure in the country's history. ](/news/2008/11/9/a-total-of-750-million-of-cocaine-is-seized-off-the-coast-of-ireland-in-the-largest-such-seizure-in-the-country-s-history.md) _2018-02-06 13:49:18 (First version)_
 1. [ A total of EUR750 million of cocaine is seized off the coast of Ireland, in the largest such seizure in the country's history. ](/news/2008/11/9/a-total-of-a-750-million-of-cocaine-is-seized-off-the-coast-of-ireland-in-the-largest-such-seizure-in-the-country-s-history.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/22/voters-in-bahrain-go-to-the-polls-for-the-first
 
 ### Changes:
 
-1. [Bahraini general election, 2014: Voters in Bahrain go to the polls for the first parliamentary elections since the unsuccessful Pearl Revolution. ](/news/2014/11/22/bahraini-general-election-2014-voters-in-bahrain-go-to-the-polls-for-the-first-parliamentary-elections-since-the-unsuccessful-pearl-revolu.md) _2017-08-27 03:41:32 (First version)_
+1. [Bahraini general election, 2014: Voters in Bahrain go to the polls for the first parliamentary elections since the unsuccessful Pearl Revolution. ](/news/2014/11/22/bahraini-general-election-2014-voters-in-bahrain-go-to-the-polls-for-the-first-parliamentary-elections-since-the-unsuccessful-pearl-revolu.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Bahrain go to the polls for the first parliamentary elections since the unsuccessful Pearl Revolution. ](/news/2014/11/22/voters-in-bahrain-go-to-the-polls-for-the-first-parliamentary-elections-since-the-unsuccessful-pearl-revolution.md) _(Current version)_
 
 ### Related:

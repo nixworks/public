@@ -20,8 +20,8 @@ A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet acr
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-psyrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md) _2017-08-25 03:35:56 (First version)_
-2. [Arab Spring:: Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-syrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md) _2017-08-27 03:36:07 (Update)_
+1. [Arab Spring:: Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-syrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-psyrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/syrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern-jordan.md) _(Current version)_
 
 ### Related:

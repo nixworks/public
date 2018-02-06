@@ -16,7 +16,7 @@ The BBC has become the latest victim of Twitter hackers as several of its feeds,
 
 ### Changes:
 
-1. [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electroni.md) _2017-08-25 03:37:57 (First version)_
+1. [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electroni.md) _2018-02-06 13:49:24 (First version)_
 1. [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electronic.md) _(Current version)_
 
 ### Related:

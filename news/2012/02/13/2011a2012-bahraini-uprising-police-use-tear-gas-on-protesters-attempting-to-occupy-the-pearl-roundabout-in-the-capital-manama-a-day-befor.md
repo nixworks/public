@@ -16,7 +16,7 @@ Tear gas fired on protesters trying to occupy Pearl Roundabout before one-year a
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising: Police use tear gas on protesters attempting to occupy the Pearl Roundabout in the capital Manama a day before the anniversary of the start of anti-government protests. ](/news/2012/02/13/2011-2012-bahraini-uprising-police-use-tear-gas-on-protesters-attempting-to-occupy-the-pearl-roundabout-in-the-capital-manama-a-day-befor.md) _2017-08-27 03:35:12 (First version)_
+1. [2011-2012 Bahraini uprising: Police use tear gas on protesters attempting to occupy the Pearl Roundabout in the capital Manama a day before the anniversary of the start of anti-government protests. ](/news/2012/02/13/2011-2012-bahraini-uprising-police-use-tear-gas-on-protesters-attempting-to-occupy-the-pearl-roundabout-in-the-capital-manama-a-day-befor.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Bahraini uprising: Police use tear gas on protesters attempting to occupy the Pearl Roundabout in the capital Manama a day before the anniversary of the start of anti-government protests. ](/news/2012/02/13/2011a2012-bahraini-uprising-police-use-tear-gas-on-protesters-attempting-to-occupy-the-pearl-roundabout-in-the-capital-manama-a-day-befor.md) _(Current version)_
 
 ### Related:

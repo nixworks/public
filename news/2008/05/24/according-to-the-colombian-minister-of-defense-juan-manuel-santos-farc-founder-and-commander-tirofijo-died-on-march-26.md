@@ -19,8 +19,8 @@ Formats: [HTML](/news/2008/05/24/according-to-the-colombian-minister-of-defense-
 
 ### Changes:
 
-1. [ Colombia: According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-p-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md) _2017-08-25 03:22:13 (First version)_
-2. [ Colombia:: According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md) _2017-08-27 03:22:07 (Update)_
+1. [ Colombia: According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-p-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md) _2018-02-06 13:49:18 (First version)_
+2. [ Colombia:: According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md) _2018-02-06 13:49:18 (Update)_
 2. [ According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md) _(Current version)_
 
 ### Related:

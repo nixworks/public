@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/13/president-of-burma-thein-sein-defends-the-armya
 
 ### Changes:
 
-1. [Kachin conflict:President of Burma Thein Sein defends the army's response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/kachin-conflict-ppresident-of-burma-thein-sein-defends-the-armyas-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of.md) _2017-08-25 03:37:15 (First version)_
-2. [Kachin conflict:: President of Burma Thein Sein defends the army-s response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/kachin-conflict-president-of-burma-thein-sein-defends-the-army-s-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of.md) _2017-08-27 03:37:25 (Update)_
+1. [Kachin conflict:: President of Burma Thein Sein defends the army-s response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/kachin-conflict-president-of-burma-thein-sein-defends-the-army-s-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of.md) _2018-02-06 13:49:24 (First version)_
+2. [Kachin conflict:President of Burma Thein Sein defends the army's response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/kachin-conflict-ppresident-of-burma-thein-sein-defends-the-armyas-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of.md) _2018-02-06 13:49:24 (Update)_
 2. [President of Burma Thein Sein defends the army's response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/president-of-burma-thein-sein-defends-the-armyas-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of-violence-that-has.md) _(Current version)_
 
 ### Related:

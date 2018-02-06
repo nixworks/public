@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-
 
 ### Changes:
 
-1. [November 2015 Paris attacks: Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/november-2015-paris-attacks-belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-autho.md) _2017-08-27 03:45:53 (First version)_
+1. [November 2015 Paris attacks: Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/november-2015-paris-attacks-belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-autho.md) _2018-02-06 13:49:28 (First version)_
 1. [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md) _(Current version)_
 
 ### Related:

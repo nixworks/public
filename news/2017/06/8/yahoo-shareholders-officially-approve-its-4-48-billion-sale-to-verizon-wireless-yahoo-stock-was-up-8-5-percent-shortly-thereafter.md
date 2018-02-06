@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-b
 
 ### Changes:
 
-1. [Verizon Wireless: Yahoo! shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo! stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/verizon-wireless-yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly.md) _2017-08-27 03:48:26 (First version)_
+1. [Verizon Wireless: Yahoo! shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo! stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/verizon-wireless-yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly.md) _2018-02-06 13:49:30 (First version)_
 1. [Yahoo! shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo! stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md) _(Current version)_
 
 ### Related:

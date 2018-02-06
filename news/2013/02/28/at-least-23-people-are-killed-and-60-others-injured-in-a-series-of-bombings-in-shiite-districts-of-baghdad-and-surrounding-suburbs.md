@@ -17,8 +17,8 @@ Bombings target predominantly Shia Muslim areas in and around Baghdad against a 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/iraqi-insurgency-post-u-s-withdrawal-pat-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of.md) _2017-08-25 03:37:41 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/iraqi-insurgency-post-u-s-withdrawal-at-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of.md) _2017-08-27 03:37:52 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/iraqi-insurgency-post-u-s-withdrawal-pat-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/iraqi-insurgency-post-u-s-withdrawal-at-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/at-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of-baghdad-and-surrounding-suburbs.md) _(Current version)_
 
 ### Related:

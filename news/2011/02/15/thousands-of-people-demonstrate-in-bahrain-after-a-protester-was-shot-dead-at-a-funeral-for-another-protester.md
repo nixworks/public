@@ -17,8 +17,8 @@ The king of Bahrain has gone on television to announce an investigation into the
 
 ### Changes:
 
-1. [2011 Bahraini protests:Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-pthousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2017-08-25 03:32:12 (First version)_
-2. [2011 Bahraini protests:: Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2017-08-27 03:32:20 (Update)_
+1. [2011 Bahraini protests:: Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Bahraini protests:Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-pthousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2018-02-06 13:49:21 (Update)_
 2. [Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _(Current version)_
 
 ### Related:

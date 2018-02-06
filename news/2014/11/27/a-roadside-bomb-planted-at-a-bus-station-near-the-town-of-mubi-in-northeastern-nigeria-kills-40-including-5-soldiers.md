@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/11/27/a-roadside-bomb-planted-at-a-bus-station-near-t
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/islamist-insurgency-in-nigeria-pa-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including-5.md) _2017-08-25 03:41:15 (First version)_
-2. [Islamist insurgency in Nigeria:: A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/islamist-insurgency-in-nigeria-a-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including.md) _2017-08-27 03:41:33 (Update)_
+1. [Islamist insurgency in Nigeria:A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/islamist-insurgency-in-nigeria-pa-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including-5.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/islamist-insurgency-in-nigeria-a-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including.md) _2018-02-06 13:49:26 (Update)_
 2. [A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/a-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including-5-soldiers.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Samarco and its owners Vale SA and BHP Billiton sued for 155bn real ($43.5bn), a
 
 ### Changes:
 
-1. [Bento Rodrigues dam disaster: The Government of Brazil sues iron miner Samarco and parent companies Vale and BHP Billiton for 155 billion Brazilian reals ($43.5 billion US) for the collapse of a tailings dam that resulted in 19 deaths and caused major pollution to the Doce River. ](/news/2016/05/3/bento-rodrigues-dam-disaster-the-government-of-brazil-sues-iron-miner-samarco-and-parent-companies-vale-and-bhp-billiton-for-155-billion-br.md) _2017-08-27 03:45:58 (First version)_
+1. [Bento Rodrigues dam disaster: The Government of Brazil sues iron miner Samarco and parent companies Vale and BHP Billiton for 155 billion Brazilian reals ($43.5 billion US) for the collapse of a tailings dam that resulted in 19 deaths and caused major pollution to the Doce River. ](/news/2016/05/3/bento-rodrigues-dam-disaster-the-government-of-brazil-sues-iron-miner-samarco-and-parent-companies-vale-and-bhp-billiton-for-155-billion-br.md) _2018-02-06 13:49:29 (First version)_
 1. [The Government of Brazil sues iron miner Samarco and parent companies Vale and BHP Billiton for 155 billion Brazilian reals ($43.5 billion US) for the collapse of a tailings dam that resulted in 19 deaths and caused major pollution to the Doce River. ](/news/2016/05/3/the-government-of-brazil-sues-iron-miner-samarco-and-parent-companies-vale-and-bhp-billiton-for-155-billion-brazilian-reals-43-5-billion-u.md) _(Current version)_
 
 ### Related:

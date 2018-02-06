@@ -19,7 +19,7 @@ The national party had accused the Sanders campaign of improperly accessing Clin
 
 ### Changes:
 
-1. [United States presidential election, 2016: The Democratic National Committee suspends Vermont Senator Bernie Sanders' presidential campaign's access to its national voter database after a member of his campaign staff took advantage of a software error to review Hillary Clinton-s private campaign data. In response, the campaign files a lawsuit. ](/news/2015/12/18/united-states-presidential-election-2016-the-democratic-national-committee-suspends-vermont-senator-bernie-sanders-presidential-campaign.md) _2017-08-27 03:44:26 (First version)_
+1. [United States presidential election, 2016: The Democratic National Committee suspends Vermont Senator Bernie Sanders' presidential campaign's access to its national voter database after a member of his campaign staff took advantage of a software error to review Hillary Clinton-s private campaign data. In response, the campaign files a lawsuit. ](/news/2015/12/18/united-states-presidential-election-2016-the-democratic-national-committee-suspends-vermont-senator-bernie-sanders-presidential-campaign.md) _2018-02-06 13:49:28 (First version)_
 1. [The Democratic National Committee suspends Vermont Senator Bernie Sanders' presidential campaign's access to its national voter database after a member of his campaign staff took advantage of a software error to review Hillary Clinton's private campaign data. In response, the campaign files a lawsuit. ](/news/2015/12/18/the-democratic-national-committee-suspends-vermont-senator-bernie-sanders-presidential-campaign-s-access-to-its-national-voter-database-aft.md) _(Current version)_
 
 ### Related:

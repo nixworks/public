@@ -15,7 +15,7 @@ Pathankot terror attack: Enemies of humanity can&#039;t see India develop, says 
 
 ### Changes:
 
-1. [Terrorism in India: 2016 Pathankot attack: Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/terrorism-in-india-2016-pathankot-attack-heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base.md) _2017-08-27 03:44:34 (First version)_
+1. [Terrorism in India: 2016 Pathankot attack: Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/terrorism-in-india-2016-pathankot-attack-heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base.md) _2018-02-06 13:49:28 (First version)_
 1. [Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base-in-pathankot-punjab-three-security-force.md) _(Current version)_
 
 ### Related:

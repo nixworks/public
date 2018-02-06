@@ -16,8 +16,8 @@ The US charges five Chinese army officers with hacking into private-sector compa
 
 ### Changes:
 
-1. [China-United States relations:The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/chinaaunited-states-relations-pthe-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-se.md) _2017-08-25 03:40:25 (First version)_
-2. [China-United States relations:: The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/china-united-states-relations-the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-s.md) _2017-08-27 03:40:43 (Update)_
+1. [China-United States relations:The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/chinaaunited-states-relations-pthe-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-se.md) _2018-02-06 13:49:26 (First version)_
+2. [China-United States relations:: The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/china-united-states-relations-the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-s.md) _2018-02-06 13:49:26 (Update)_
 2. [The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-sector-american-companies-in-a-bid.md) _(Current version)_
 
 ### Related:

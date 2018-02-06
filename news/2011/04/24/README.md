@@ -45,13 +45,13 @@ Landslides and floods triggered by torrential rain have killed at least 10 peopl
 
 ##### Sulawesi island
 ### [A magnitude 6.2 earthquake hits southeastern Sulawesi in Indonesia. ](/news/2011/04/24/a-magnitude-6-2-earthquake-hits-southeastern-sulawesi-in-indonesia.md)
-_Context: Sulawesi island, Indonesia_
+_Context: Indonesia, Sulawesi island_
 
 ##### Red River of the North
 ### [Flooding on the Red River of the North forces the evacuation of the Roseau River Anishinabe First Nation community in Manitoba. ](/news/2011/04/24/flooding-on-the-red-river-of-the-north-forces-the-evacuation-of-the-roseau-river-anishinabe-first-nation-community-in-manitoba.md)
 The evacuation of Roseau River Anishinabe First Nation continued Sunday with about 90% of residents expected to have left the southern Manitoba community of 800 by the end of the day. 
 
-##### British
+##### United Kingdom
 ### [In the United Kingdom, Secretary of State for Energy and Climate Change Chris Huhne of Liberal Democrats threatens legal action over "untruths" told by Conservatives opposed to the Alternative Vote system as the country prepares to vote on the issue. ](/news/2011/04/24/in-the-united-kingdom-secretary-of-state-for-energy-and-climate-change-chris-huhne-of-liberal-democrats-threatens-legal-action-over-untrut.md)
 Senior Liberal Democrat minister Chris Huhne threatens legal action over &quot;untruths&quot; told by Conservatives opposed to the Alternative Vote system.
 

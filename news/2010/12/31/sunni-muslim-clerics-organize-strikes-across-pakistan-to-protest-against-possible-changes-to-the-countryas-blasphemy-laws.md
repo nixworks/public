@@ -16,7 +16,7 @@ A 24-hour strike organised by Sunni Muslim clerics has taken place across Pakist
 
 ### Changes:
 
-1. [Sunni Muslim clerics organize strikes across Pakistan to protest against possible changes to the country-s blasphemy laws. ](/news/2010/12/31/sunni-muslim-clerics-organize-strikes-across-pakistan-to-protest-against-possible-changes-to-the-country-s-blasphemy-laws.md) _2017-08-27 03:31:44 (First version)_
+1. [Sunni Muslim clerics organize strikes across Pakistan to protest against possible changes to the country-s blasphemy laws. ](/news/2010/12/31/sunni-muslim-clerics-organize-strikes-across-pakistan-to-protest-against-possible-changes-to-the-country-s-blasphemy-laws.md) _2018-02-06 13:49:21 (First version)_
 1. [Sunni Muslim clerics organize strikes across Pakistan to protest against possible changes to the country's blasphemy laws. ](/news/2010/12/31/sunni-muslim-clerics-organize-strikes-across-pakistan-to-protest-against-possible-changes-to-the-countryas-blasphemy-laws.md) _(Current version)_
 
 ### Related:

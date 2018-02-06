@@ -16,7 +16,7 @@ Two Air France flights bound for Paris from the United States were diverted for 
 
 ### Changes:
 
-1. [November 2015 Paris attacks: Two Air France flights bound for Paris from the United States are diverted for several hours on following anonymous bomb threats. ](/news/2015/11/17/november-2015-paris-attacks-two-air-france-flights-bound-for-paris-from-the-united-states-are-diverted-for-several-hours-on-following-anony.md) _2017-08-27 03:43:55 (First version)_
+1. [November 2015 Paris attacks: Two Air France flights bound for Paris from the United States are diverted for several hours on following anonymous bomb threats. ](/news/2015/11/17/november-2015-paris-attacks-two-air-france-flights-bound-for-paris-from-the-united-states-are-diverted-for-several-hours-on-following-anony.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Air France flights bound for Paris from the United States are diverted for several hours on following anonymous bomb threats. ](/news/2015/11/17/two-air-france-flights-bound-for-paris-from-the-united-states-are-diverted-for-several-hours-on-following-anonymous-bomb-threats.md) _(Current version)_
 
 ### Related:

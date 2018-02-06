@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/03/12/swedenas-largest-lake-the-va-nern-which-is-also
 
 ### Changes:
 
-1. [ Sweden-s largest lake, the Vanern, which is also the third largest lake in Europe, will be lowered by 15 centimeters, in order to avoid flooding. ](/news/2008/03/12/sweden-s-largest-lake-the-va-nern-which-is-also-the-third-largest-lake-in-europe-will-be-lowered-by-15-centimeters-in-order-to-avoid.md) _2017-08-27 03:21:47 (First version)_
+1. [ Sweden-s largest lake, the Vanern, which is also the third largest lake in Europe, will be lowered by 15 centimeters, in order to avoid flooding. ](/news/2008/03/12/sweden-s-largest-lake-the-va-nern-which-is-also-the-third-largest-lake-in-europe-will-be-lowered-by-15-centimeters-in-order-to-avoid.md) _2018-02-06 13:49:18 (First version)_
 1. [ Sweden's largest lake, the Vanern, which is also the third largest lake in Europe, will be lowered by 15 centimeters, in order to avoid flooding. ](/news/2008/03/12/swedenas-largest-lake-the-va-nern-which-is-also-the-third-largest-lake-in-europe-will-be-lowered-by-15-centimeters-in-order-to-avoid.md) _(Current version)_
 
 ### Related:

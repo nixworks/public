@@ -22,8 +22,8 @@ The World Bank has increased funding to help Pakistan cope with catastrophic flo
 
 ### Changes:
 
-1. [2010 Pakistan floods:The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-pthe-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _2017-08-25 03:29:48 (First version)_
-2. [2010 Pakistan floods:: The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _2017-08-27 03:29:52 (Update)_
+1. [2010 Pakistan floods:: The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Pakistan floods:The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-pthe-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _2018-02-06 13:49:20 (Update)_
 2. [The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md) _(Current version)_
 
 ### Related:

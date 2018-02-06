@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/08/28/indian-prime-minister-manmohan-singh-says-the-c
 
 ### Changes:
 
-1. [ Indian Prime Minister Manmohan Singh says the country will help Afghanistan deal with terrorism and rebuilding the country. ([http:--www.ndtv.com-topstories-showtopstory.asp?slug=PM+calls+for+stability+in+Afghanistan%0D&id=17629 NDTV]) ](/news/2005/08/28/indian-prime-minister-manmohan-singh-says-the-country-will-help-afghanistan-deal-with-terrorism-and-rebuilding-the-country-http-www-n.md) _2017-08-25 03:16:43 (First version)_
+1. [ Indian Prime Minister Manmohan Singh says the country will help Afghanistan deal with terrorism and rebuilding the country. ([http:--www.ndtv.com-topstories-showtopstory.asp?slug=PM+calls+for+stability+in+Afghanistan%0D&id=17629 NDTV]) ](/news/2005/08/28/indian-prime-minister-manmohan-singh-says-the-country-will-help-afghanistan-deal-with-terrorism-and-rebuilding-the-country-http-www-n.md) _2018-02-06 13:49:16 (First version)_
 1. [ Indian Prime Minister Manmohan Singh says the country will help Afghanistan deal with terrorism and rebuilding the country. ([http:--www.ndtv.com-topstories-showtopstory.asp?slug=PM+calls+for+stability+in+Afghanistan%0D&id=17629 NDTV]) ](/news/2005/08/28/indian-prime-minister-manmohan-singh-says-the-country-will-help-afghanistan-deal-with-terrorism-and-rebuilding-the-country-http-www-nd.md) _(Current version)_
 
 ### Related:

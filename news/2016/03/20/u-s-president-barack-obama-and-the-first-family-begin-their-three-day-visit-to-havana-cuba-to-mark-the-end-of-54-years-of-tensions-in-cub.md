@@ -18,7 +18,7 @@ The Twitter account of President published a first message of greeting to Cubans
 
 ### Changes:
 
-1. [United States-Cuban Thaw: U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/united-states-cuban-thaw-u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of.md) _2017-08-27 03:45:20 (First version)_
+1. [United States-Cuban Thaw: U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/united-states-cuban-thaw-u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md) _(Current version)_
 
 ### Related:

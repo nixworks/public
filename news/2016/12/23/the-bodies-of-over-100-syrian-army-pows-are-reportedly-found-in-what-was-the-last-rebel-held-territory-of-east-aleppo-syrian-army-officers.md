@@ -16,7 +16,7 @@ BEIRUT, LEBANON (10:40 P.M.) - The jihadist rebels of Fatah Halab and Jabhat Fat
 
 ### Changes:
 
-1. [Syrian Civil War: The bodies of over 100 Syrian Army POWs are reportedly found in what was the last rebel held territory of East Aleppo. Syrian Army officers claim they were executed by rebel forces. ](/news/2016/12/23/syrian-civil-war-the-bodies-of-over-100-syrian-army-pows-are-reportedly-found-in-what-was-the-last-rebel-held-territory-of-east-aleppo-syr.md) _2017-08-27 03:47:30 (First version)_
+1. [Syrian Civil War: The bodies of over 100 Syrian Army POWs are reportedly found in what was the last rebel held territory of East Aleppo. Syrian Army officers claim they were executed by rebel forces. ](/news/2016/12/23/syrian-civil-war-the-bodies-of-over-100-syrian-army-pows-are-reportedly-found-in-what-was-the-last-rebel-held-territory-of-east-aleppo-syr.md) _2018-02-06 13:49:30 (First version)_
 1. [The bodies of over 100 Syrian Army POWs are reportedly found in what was the last rebel held territory of East Aleppo. Syrian Army officers claim they were executed by rebel forces. ](/news/2016/12/23/the-bodies-of-over-100-syrian-army-pows-are-reportedly-found-in-what-was-the-last-rebel-held-territory-of-east-aleppo-syrian-army-officers.md) _(Current version)_
 
 ### Related:

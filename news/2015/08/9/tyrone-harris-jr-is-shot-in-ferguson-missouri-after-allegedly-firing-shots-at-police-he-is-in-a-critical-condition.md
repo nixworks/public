@@ -16,7 +16,7 @@ A peaceful day of remembrance of Michael Brown on anniversary of his killing tur
 
 ### Changes:
 
-1. [Ferguson unrest: Tyrone Harris, Jr is shot in Ferguson, Missouri after allegedly firing shots at police. He is in a critical condition.](/news/2015/08/9/ferguson-unrest-tyrone-harris-jr-is-shot-in-ferguson-missouri-after-allegedly-firing-shots-at-police-he-is-in-a-critical-condition.md) _2017-08-27 03:42:48 (First version)_
+1. [Ferguson unrest: Tyrone Harris, Jr is shot in Ferguson, Missouri after allegedly firing shots at police. He is in a critical condition.](/news/2015/08/9/ferguson-unrest-tyrone-harris-jr-is-shot-in-ferguson-missouri-after-allegedly-firing-shots-at-police-he-is-in-a-critical-condition.md) _2018-02-06 13:49:27 (First version)_
 1. [Tyrone Harris, Jr is shot in Ferguson, Missouri after allegedly firing shots at police. He is in a critical condition.](/news/2015/08/9/tyrone-harris-jr-is-shot-in-ferguson-missouri-after-allegedly-firing-shots-at-police-he-is-in-a-critical-condition.md) _(Current version)_
 
 ### Related:

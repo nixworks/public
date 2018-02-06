@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implem
 
 ### Changes:
 
-1. [''The Stressful Life of Salman Rushdie and Implementation of his Verdict'', an in-development video game designed to introduce the younger generations to ''The Satanic Verses'' controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-g.md) _2017-08-25 03:35:58 (First version)_
+1. [''The Stressful Life of Salman Rushdie and Implementation of his Verdict'', an in-development video game designed to introduce the younger generations to ''The Satanic Verses'' controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-g.md) _2018-02-06 13:49:23 (First version)_
 1. ["The Stressful Life of Salman Rushdie and Implementation of his Verdict", an in-development video game designed to introduce the younger generations to "The Satanic Verses" controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-gen.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-af
 
 ### Changes:
 
-1. [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party (PSD). ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party-psd.md) _2018-01-17 22:30:06 (First version)_
+1. [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party (PSD). ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party-psd.md) _2018-02-06 13:49:31 (First version)_
 1. [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md) _(Current version)_
 
 ### Related:

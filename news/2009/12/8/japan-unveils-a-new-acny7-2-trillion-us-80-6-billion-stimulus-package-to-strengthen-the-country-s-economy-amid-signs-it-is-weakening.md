@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/12/8/japan-unveils-a-new-acny7-2-trillion-us-80-6-bil
 
 ### Changes:
 
-1. [ Japan unveils a new Y=7.2 trillion (US$80.6 billion) stimulus package to strengthen the country's economy amid signs it is weakening. ](/news/2009/12/8/japan-unveils-a-new-ay-7-2-trillion-us-80-6-billion-stimulus-package-to-strengthen-the-country-s-economy-amid-signs-it-is-weakening.md) _2017-08-25 03:26:33 (First version)_
+1. [ Japan unveils a new Y=7.2 trillion (US$80.6 billion) stimulus package to strengthen the country's economy amid signs it is weakening. ](/news/2009/12/8/japan-unveils-a-new-ay-7-2-trillion-us-80-6-billion-stimulus-package-to-strengthen-the-country-s-economy-amid-signs-it-is-weakening.md) _2018-02-06 13:49:19 (First version)_
 1. [ Japan unveils a new CNY7.2 trillion (US$80.6 billion) stimulus package to strengthen the country's economy amid signs it is weakening. ](/news/2009/12/8/japan-unveils-a-new-acny7-2-trillion-us-80-6-billion-stimulus-package-to-strengthen-the-country-s-economy-amid-signs-it-is-weakening.md) _(Current version)_
 
 ### Related:

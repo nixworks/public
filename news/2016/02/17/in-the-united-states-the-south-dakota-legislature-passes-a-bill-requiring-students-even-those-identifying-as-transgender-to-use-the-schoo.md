@@ -17,7 +17,7 @@ The South Dakota legislature passed a bill requiring students to use the bathroo
 
 ### Changes:
 
-1. [Transgender and schools: In the[United States, the South Dakota legislature passes a bill requiring students, even those identifying as transgender, to use the school bathroom corresponding to their sex at birth. It now moves to Governor Dennis Daugaard for his approval or veto. ](/news/2016/02/17/transgender-and-schools-in-the-united-states-the-south-dakota-legislature-passes-a-bill-requiring-students-even-those-identifying-as-tran.md) _2017-08-27 03:44:56 (First version)_
+1. [Transgender and schools: In the[United States, the South Dakota legislature passes a bill requiring students, even those identifying as transgender, to use the school bathroom corresponding to their sex at birth. It now moves to Governor Dennis Daugaard for his approval or veto. ](/news/2016/02/17/transgender-and-schools-in-the-united-states-the-south-dakota-legislature-passes-a-bill-requiring-students-even-those-identifying-as-tran.md) _2018-02-06 13:49:28 (First version)_
 1. [In the[United States, the South Dakota legislature passes a bill requiring students, even those identifying as transgender, to use the school bathroom corresponding to their sex at birth. It now moves to Governor Dennis Daugaard for his approval or veto. ](/news/2016/02/17/in-the-united-states-the-south-dakota-legislature-passes-a-bill-requiring-students-even-those-identifying-as-transgender-to-use-the-schoo.md) _(Current version)_
 
 ### Related:

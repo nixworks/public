@@ -20,8 +20,8 @@ In historic events involving tens of thousands, often hundreds of thousands, som
 
 ### Changes:
 
-1. [2013 protests in Turkey:Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/2013-protests-in-turkey-pturkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-canno.md) _2017-08-25 03:38:47 (First version)_
-2. [2013 protests in Turkey:: Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/2013-protests-in-turkey-turkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-cann.md) _2017-08-27 03:39:00 (Update)_
+1. [2013 protests in Turkey:: Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/2013-protests-in-turkey-turkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-cann.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 protests in Turkey:Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/2013-protests-in-turkey-pturkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-canno.md) _2018-02-06 13:49:25 (Update)_
 2. [Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/turkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-cannon-in-cities-nationwide.md) _(Current version)_
 
 ### Related:

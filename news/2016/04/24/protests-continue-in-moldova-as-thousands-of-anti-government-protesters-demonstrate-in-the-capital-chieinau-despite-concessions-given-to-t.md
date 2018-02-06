@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/24/protests-continue-in-moldova-as-thousands-of-an
 
 ### Changes:
 
-1. [2015-16 protests in Moldova: Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/2015-16-protests-in-moldova-protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau.md) _2017-08-27 03:45:48 (First version)_
+1. [2015-16 protests in Moldova: Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/2015-16-protests-in-moldova-protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau.md) _2018-02-06 13:49:28 (First version)_
 1. [Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau-despite-concessions-given-to-t.md) _(Current version)_
 
 ### Related:

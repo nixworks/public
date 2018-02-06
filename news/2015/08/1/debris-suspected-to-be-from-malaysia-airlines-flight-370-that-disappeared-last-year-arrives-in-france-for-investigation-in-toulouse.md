@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/1/debris-suspected-to-be-from-malaysia-airlines-fl
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/malaysia-airlines-flight-370-debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-inve.md) _2017-08-27 03:42:46 (First version)_
+1. [Malaysia Airlines Flight 370: Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/malaysia-airlines-flight-370-debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-inve.md) _2018-02-06 13:49:27 (First version)_
 1. [Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-investigation-in-toulouse.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/9/the-guardian-publishes-wikileaks-cables-claiming
 
 ### Changes:
 
-1. [''The Guardian'' publishes WikiLeaks cables claiming that Saudi Arabia had exaggerated its crude oil reserves by nearly 40% and will have trouble keeping a cap on oil prices. ](/news/2011/02/9/the-guardian-publishes-wikileaks-cables-claiming-that-saudi-arabia-had-exaggerated-its-crude-oil-reserves-by-nearly-40-and-will-have-tr.md) _2017-08-25 03:32:06 (First version)_
+1. [''The Guardian'' publishes WikiLeaks cables claiming that Saudi Arabia had exaggerated its crude oil reserves by nearly 40% and will have trouble keeping a cap on oil prices. ](/news/2011/02/9/the-guardian-publishes-wikileaks-cables-claiming-that-saudi-arabia-had-exaggerated-its-crude-oil-reserves-by-nearly-40-and-will-have-tr.md) _2018-02-06 13:49:22 (First version)_
 1. ["The Guardian" publishes WikiLeaks cables claiming that Saudi Arabia had exaggerated its crude oil reserves by nearly 40% and will have trouble keeping a cap on oil prices. ](/news/2011/02/9/the-guardian-publishes-wikileaks-cables-claiming-that-saudi-arabia-had-exaggerated-its-crude-oil-reserves-by-nearly-40-and-will-have-trou.md) _(Current version)_
 
 ### Related:

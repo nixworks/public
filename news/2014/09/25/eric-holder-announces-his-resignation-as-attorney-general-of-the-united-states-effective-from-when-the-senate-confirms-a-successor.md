@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorn
 
 ### Changes:
 
-1. [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. [http:--www.npr.org-blogs-thetwo-way-2014-09-25-351363171-eric-holder-to-step-down-as-attorney-general (NPR)].](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor-http.md) _2017-06-18 03:43:24 (First version)_
+1. [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. [http:--www.npr.org-blogs-thetwo-way-2014-09-25-351363171-eric-holder-to-step-down-as-attorney-general (NPR)].](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor-http.md) _2018-02-06 13:49:26 (First version)_
 1. [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. ](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor.md) _(Current version)_
 
 ### Related:

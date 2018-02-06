@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/27/the-animated-sitcom-the-simpsons-becomes-the-lo
 
 ### Changes:
 
-1. [ The animated sitcom ''The Simpsons'' becomes the longest-running U.S. primetime television series after Fox Broadcasting confirms two more seasons. ](/news/2009/02/27/the-animated-sitcom-the-simpsons-becomes-the-longest-running-u-s-primetime-television-series-after-fox-broadcasting-confirms-two-more.md) _2017-08-25 03:23:57 (First version)_
+1. [ The animated sitcom ''The Simpsons'' becomes the longest-running U.S. primetime television series after Fox Broadcasting confirms two more seasons. ](/news/2009/02/27/the-animated-sitcom-the-simpsons-becomes-the-longest-running-u-s-primetime-television-series-after-fox-broadcasting-confirms-two-more.md) _2018-02-06 13:49:18 (First version)_
 1. [ The animated sitcom "The Simpsons" becomes the longest-running U.S. primetime television series after Fox Broadcasting confirms two more seasons. ](/news/2009/02/27/the-animated-sitcom-the-simpsons-becomes-the-longest-running-u-s-primetime-television-series-after-fox-broadcasting-confirms-two-more-se.md) _(Current version)_
 
 ### Related:

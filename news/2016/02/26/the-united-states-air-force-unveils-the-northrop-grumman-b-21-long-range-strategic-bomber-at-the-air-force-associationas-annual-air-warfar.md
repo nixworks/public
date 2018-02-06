@@ -15,7 +15,7 @@ It has been designated the B-21.
 
 ### Changes:
 
-1. [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association-s annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-association-s-annual-air-warfar.md) _2017-08-27 03:45:03 (First version)_
+1. [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association-s annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-association-s-annual-air-warfar.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association's annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-associationas-annual-air-warfar.md) _(Current version)_
 
 ### Related:

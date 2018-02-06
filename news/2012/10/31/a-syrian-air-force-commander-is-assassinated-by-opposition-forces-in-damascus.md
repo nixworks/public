@@ -17,6 +17,6 @@ The government announced that Gen. Abdullah Mahmud al-Khalidi was killed by “t
 
 ### Changes:
 
-1. [Syrian civil war:A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-pa-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md) _2017-08-25 03:36:46 (First version)_
-2. [Syrian civil war:: A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-a-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md) _2017-08-27 03:36:56 (Update)_
+1. [Syrian civil war:A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-pa-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-a-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md) _2018-02-06 13:49:24 (Update)_
 2. [A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/a-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md) _(Current version)_

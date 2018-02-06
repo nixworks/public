@@ -16,8 +16,8 @@ TUSCALOOSA, Alabama -- The city says the number of missing people in Tuscaloosa 
 
 ### Changes:
 
-1. [The US city of Tuscaloosa, Alabama revises the number of missing there during the April 25-28, 2011 tornado outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-april-25-28-2011-tornado-outbreak-from-340-on-monday-to.md) _2017-08-27 03:33:07 (First version)_
-2. [The US city of Tuscaloosa, Alabama revises the number of missing there during the April 25-28, 2011 tornado outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-april-25a28-2011-tornado-outbreak-from-340-on-monday-to.md) _2017-10-17 03:38:21 (Update)_
+1. [The US city of Tuscaloosa, Alabama revises the number of missing there during the April 25-28, 2011 tornado outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-april-25a28-2011-tornado-outbreak-from-340-on-monday-to.md) _2018-02-06 13:49:22 (First version)_
+2. [The US city of Tuscaloosa, Alabama revises the number of missing there during the April 25-28, 2011 tornado outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-april-25-28-2011-tornado-outbreak-from-340-on-monday-to.md) _2018-02-06 13:49:22 (Update)_
 2. [The US city of Tuscaloosa, Alabama revises the number of missing there during the 2011 Super Outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-2011-super-outbreak-from-340-on-monday-to-80.md) _(Current version)_
 
 ### Related:

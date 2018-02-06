@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/17/at-least-25-militants-are-killed-as-the-pakista
 
 ### Changes:
 
-1. [War in North-West Pakistan: At least 25 militants are killed as the Pakistan Air Force strikes terrorist hideouts in North Waziristan. ](/news/2014/06/17/war-in-north-west-pakistan-at-least-25-militants-are-killed-as-the-pakistan-air-force-strikes-terrorist-hideouts-in-north-waziristan.md) _2017-08-27 03:40:52 (First version)_
+1. [War in North-West Pakistan: At least 25 militants are killed as the Pakistan Air Force strikes terrorist hideouts in North Waziristan. ](/news/2014/06/17/war-in-north-west-pakistan-at-least-25-militants-are-killed-as-the-pakistan-air-force-strikes-terrorist-hideouts-in-north-waziristan.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 25 militants are killed as the Pakistan Air Force strikes terrorist hideouts in North Waziristan. ](/news/2014/06/17/at-least-25-militants-are-killed-as-the-pakistan-air-force-strikes-terrorist-hideouts-in-north-waziristan.md) _(Current version)_
 
 ### Related:

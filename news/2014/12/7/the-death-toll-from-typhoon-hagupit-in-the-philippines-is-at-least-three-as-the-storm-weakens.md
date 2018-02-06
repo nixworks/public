@@ -16,7 +16,7 @@ Tropical Storm Hagupit weakens as it sweeps across the Philippines towards Manil
 
 ### Changes:
 
-1. [Typhoon Hagupit: The death toll from Typhoon Hagupit in the Philippines is at least three as the storm weakens. ](/news/2014/12/7/typhoon-hagupit-the-death-toll-from-typhoon-hagupit-in-the-philippines-is-at-least-three-as-the-storm-weakens.md) _2017-08-27 03:41:36 (First version)_
+1. [Typhoon Hagupit: The death toll from Typhoon Hagupit in the Philippines is at least three as the storm weakens. ](/news/2014/12/7/typhoon-hagupit-the-death-toll-from-typhoon-hagupit-in-the-philippines-is-at-least-three-as-the-storm-weakens.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from Typhoon Hagupit in the Philippines is at least three as the storm weakens. ](/news/2014/12/7/the-death-toll-from-typhoon-hagupit-in-the-philippines-is-at-least-three-as-the-storm-weakens.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-bet
 
 ### Changes:
 
-1. [A drawing is held to resolve a tied election between Shelly Simonds (D) and David Yancey (R), and Yancey is randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-shelly-simonds-d-and-david-yancey-r-and-yancey-is-randomly-chosen-as-the-winner.md) _2018-01-05 06:30:05 (First version)_
-2. [A drawing is held to resolve a tied election between Democrat Shelley Simmons and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelley-simmons-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _2018-01-05 19:30:05 (Update)_
+1. [A drawing is held to resolve a tied election between Shelly Simonds (D) and David Yancey (R), and Yancey is randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-shelly-simonds-d-and-david-yancey-r-and-yancey-is-randomly-chosen-as-the-winner.md) _2018-02-06 13:49:31 (First version)_
+2. [A drawing is held to resolve a tied election between Democrat Shelley Simmons and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelley-simmons-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _2018-02-06 13:49:31 (Update)_
 2. [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A breakthrough in Minsk as Putin announces a ceasefire deal following marathon t
 
 ### Changes:
 
-1. [War in Donbass: The President of Russia Vladimir Putin announces the third peace agreement. ](/news/2015/02/12/war-in-donbass-the-president-of-russia-vladimir-putin-announces-the-third-peace-agreement.md) _2017-08-27 03:41:55 (First version)_
+1. [War in Donbass: The President of Russia Vladimir Putin announces the third peace agreement. ](/news/2015/02/12/war-in-donbass-the-president-of-russia-vladimir-putin-announces-the-third-peace-agreement.md) _2018-02-06 13:49:26 (First version)_
 1. [The President of Russia Vladimir Putin announces the third peace agreement. ](/news/2015/02/12/the-president-of-russia-vladimir-putin-announces-the-third-peace-agreement.md) _(Current version)_
 
 ### Related:

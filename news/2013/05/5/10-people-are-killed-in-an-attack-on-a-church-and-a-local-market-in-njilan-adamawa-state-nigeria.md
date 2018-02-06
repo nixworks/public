@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/5/10-people-are-killed-in-an-attack-on-a-church-an
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-p10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md) _2017-08-25 03:38:33 (First version)_
-2. [Nigerian Sharia conflict:: 10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md) _2017-08-27 03:38:46 (Update)_
+1. [Nigerian Sharia conflict:10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-p10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md) _2018-02-06 13:49:25 (First version)_
+2. [Nigerian Sharia conflict:: 10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md) _2018-02-06 13:49:25 (Update)_
 2. [10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md) _(Current version)_
 
 ### Related:

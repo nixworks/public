@@ -19,8 +19,8 @@ At least three people are killed and more than 100 injured, some seriously, in t
 
 ### Changes:
 
-1. [Boston Marathon bombings:Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/boston-marathon-bombings-ptwo-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and.md) _2017-08-25 03:38:21 (First version)_
-2. [Boston Marathon bombings:: Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/boston-marathon-bombings-two-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and.md) _2017-08-27 03:38:33 (Update)_
+1. [Boston Marathon bombings:: Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/boston-marathon-bombings-two-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and.md) _2018-02-06 13:49:24 (First version)_
+2. [Boston Marathon bombings:Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/boston-marathon-bombings-ptwo-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and.md) _2018-02-06 13:49:24 (Update)_
 2. [Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/two-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and-183-injured.md) _(Current version)_
 
 ### Related:

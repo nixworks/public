@@ -18,8 +18,8 @@ Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on 
 
 ### Changes:
 
-1. [ Trial of Aung San Suu Kyi: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-p-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _2017-08-25 03:24:41 (First version)_
-2. [ Trial of Aung San Suu Kyi:: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _2017-08-27 03:24:32 (Update)_
+1. [ Trial of Aung San Suu Kyi:: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _2018-02-06 13:49:19 (First version)_
+2. [ Trial of Aung San Suu Kyi: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-p-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _2018-02-06 13:49:19 (Update)_
 2. [ The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md) _(Current version)_
 
 ### Related:

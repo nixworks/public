@@ -20,7 +20,7 @@ Suicide bomber strikes outside central bus station in southern town of Be&#39;er
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: A Palestinian Islamic Jihad suicide bomber kills himself and injures close to 50 people in the southern Israeli city of Beersheba near the main bus terminal. According to sources, the bomber was trying to make his way to Beersheba's Soroka Hospital. ](/news/2005/08/28/israeli-palestinian-conflict-a-palestinian-islamic-jihad-suicide-bomber-kills-himself-and-injures-close-to-50-people-in-the-southern-isra.md) _2017-08-25 03:16:44 (First version)_
+1. [ Israeli-Palestinian Conflict: A Palestinian Islamic Jihad suicide bomber kills himself and injures close to 50 people in the southern Israeli city of Beersheba near the main bus terminal. According to sources, the bomber was trying to make his way to Beersheba's Soroka Hospital. ](/news/2005/08/28/israeli-palestinian-conflict-a-palestinian-islamic-jihad-suicide-bomber-kills-himself-and-injures-close-to-50-people-in-the-southern-isra.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israeli-Palestinian Conflict: A Palestinian Islamic Jihad suicide bomber kills himself and injures close to 50 people in the southern Israeli city of Beersheba near the main bus terminal. According to sources, the bomber was trying to make his way to Beersheba's Soroka Hospital. ](/news/2005/08/28/israeli-palestinian-conflict-a-palestinian-islamic-jihad-suicide-bomber-kills-himself-and-injures-close-to-50-people-in-the-southern-israe.md) _(Current version)_
 
 ### Related:

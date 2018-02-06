@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/27/militants-believed-to-be-from-al-shabab-attack-
 
 ### Changes:
 
-1. [War in Somalia: Militants believed to be from al-Shabab attack and temporarily occupy a Mogadishu hotel leaving at least nine people dead. ](/news/2015/03/27/war-in-somalia-militants-believed-to-be-from-al-shabab-attack-and-temporarily-occupy-a-mogadishu-hotel-leaving-at-least-nine-people-dead.md) _2017-08-27 03:42:08 (First version)_
+1. [War in Somalia: Militants believed to be from al-Shabab attack and temporarily occupy a Mogadishu hotel leaving at least nine people dead. ](/news/2015/03/27/war-in-somalia-militants-believed-to-be-from-al-shabab-attack-and-temporarily-occupy-a-mogadishu-hotel-leaving-at-least-nine-people-dead.md) _2018-02-06 13:49:26 (First version)_
 1. [Militants believed to be from al-Shabab attack and temporarily occupy a Mogadishu hotel leaving at least nine people dead. ](/news/2015/03/27/militants-believed-to-be-from-al-shabab-attack-and-temporarily-occupy-a-mogadishu-hotel-leaving-at-least-nine-people-dead.md) _(Current version)_
 
 ### Related:

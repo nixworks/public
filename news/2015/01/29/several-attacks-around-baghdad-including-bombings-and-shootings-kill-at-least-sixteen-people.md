@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/29/several-attacks-around-baghdad-including-bombin
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/iraqi-insurgency-2011-present-several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md) _2017-08-27 03:41:51 (First version)_
+1. [Iraqi insurgency (2011-present): Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/iraqi-insurgency-2011-present-several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md) _2018-02-06 13:49:26 (First version)_
 1. [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md) _(Current version)_
 
 ### Related:

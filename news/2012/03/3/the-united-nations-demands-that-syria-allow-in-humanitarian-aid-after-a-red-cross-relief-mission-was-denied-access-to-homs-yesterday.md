@@ -17,8 +17,8 @@ A suicide bomber killed two people and wounded several others in the southern Sy
 
 ### Changes:
 
-1. [Syria:The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-pthe-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md) _2017-08-25 03:35:12 (First version)_
-2. [Syria:: The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-the-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md) _2017-08-27 03:35:21 (Update)_
+1. [Syria:: The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-the-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md) _2018-02-06 13:49:23 (First version)_
+2. [Syria:The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-pthe-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md) _2018-02-06 13:49:23 (Update)_
 2. [The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/the-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md) _(Current version)_
 
 ### Related:

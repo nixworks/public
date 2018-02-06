@@ -18,7 +18,7 @@ First the bad news: Spain&#039;s economy contracted by 3.6% in 2009, the most in
 
 ### Changes:
 
-1. [The Bank of Spain announces that Spain-s economy fell 3.6% in 2009, the most in decades. ](/news/2010/02/6/the-bank-of-spain-announces-that-spain-s-economy-fell-3-6-in-2009-the-most-in-decades.md) _2017-08-27 03:27:00 (First version)_
+1. [The Bank of Spain announces that Spain-s economy fell 3.6% in 2009, the most in decades. ](/news/2010/02/6/the-bank-of-spain-announces-that-spain-s-economy-fell-3-6-in-2009-the-most-in-decades.md) _2018-02-06 13:49:19 (First version)_
 1. [The Bank of Spain announces that Spain's economy fell 3.6% in 2009, the most in decades. ](/news/2010/02/6/the-bank-of-spain-announces-that-spainas-economy-fell-3-6-in-2009-the-most-in-decades.md) _(Current version)_
 
 ### Related:

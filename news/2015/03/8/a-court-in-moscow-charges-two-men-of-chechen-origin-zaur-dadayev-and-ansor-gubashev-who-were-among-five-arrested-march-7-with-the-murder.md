@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/8/a-court-in-moscow-charges-two-men-of-chechen-ori
 
 ### Changes:
 
-1. [Assassination of Boris Nemtsov: A court in Moscow charges two men of Chechen origin, Zaur Dadayev and Ansor Gubashev, who were among five arrested March 7, with the murder of Russian opposition leader Boris Nemtsov. The others also arrested, Gubashev's younger brother Shahid Gubashev and two others named only as Bakhayev and Eskerkhanov, are still only suspects. ](/news/2015/03/8/assassination-of-boris-nemtsov-a-court-in-moscow-charges-two-men-of-chechen-origin-zaur-dadayev-and-ansor-gubashev-who-were-among-five-ar.md) _2017-08-27 03:42:03 (First version)_
+1. [Assassination of Boris Nemtsov: A court in Moscow charges two men of Chechen origin, Zaur Dadayev and Ansor Gubashev, who were among five arrested March 7, with the murder of Russian opposition leader Boris Nemtsov. The others also arrested, Gubashev's younger brother Shahid Gubashev and two others named only as Bakhayev and Eskerkhanov, are still only suspects. ](/news/2015/03/8/assassination-of-boris-nemtsov-a-court-in-moscow-charges-two-men-of-chechen-origin-zaur-dadayev-and-ansor-gubashev-who-were-among-five-ar.md) _2018-02-06 13:49:27 (First version)_
 1. [A court in Moscow charges two men of Chechen origin, Zaur Dadayev and Ansor Gubashev, who were among five arrested March 7, with the murder of Russian opposition leader Boris Nemtsov. The others also arrested, Gubashev's younger brother Shahid Gubashev and two others named only as Bakhayev and Eskerkhanov, are still only suspects. ](/news/2015/03/8/a-court-in-moscow-charges-two-men-of-chechen-origin-zaur-dadayev-and-ansor-gubashev-who-were-among-five-arrested-march-7-with-the-murder.md) _(Current version)_
 
 ### Related:

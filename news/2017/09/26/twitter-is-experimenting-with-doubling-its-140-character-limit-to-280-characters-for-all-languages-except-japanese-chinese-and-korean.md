@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-
 
 ### Changes:
 
-1. [Twitter announces that it'll double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-ll-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md) _2017-09-27 03:52:37 (First version)_
-2. [Twitter announces that it will double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-will-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md) _2017-09-27 15:30:06 (Update)_
+1. [Twitter announces that it will double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-will-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md) _2018-02-06 13:49:31 (First version)_
+2. [Twitter announces that it'll double its 140 character limit to 280 characters for languages that need the extra space. ](/news/2017/09/26/twitter-announces-that-it-ll-double-its-140-character-limit-to-280-characters-for-languages-that-need-the-extra-space.md) _2018-02-06 13:49:31 (Update)_
 2. [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md) _(Current version)_
 
 ### Related:

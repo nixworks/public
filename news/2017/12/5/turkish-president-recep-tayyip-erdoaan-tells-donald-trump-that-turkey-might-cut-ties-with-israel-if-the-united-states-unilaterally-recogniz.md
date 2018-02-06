@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-don
 
 ### Changes:
 
-1. [Turkish President Tayyip Erdogan tells Donald Trump Turkey might cut ties with Israel if America unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-tayyip-erdogan-tells-donald-trump-turkey-might-cut-ties-with-israel-if-america-unilaterally-recognizes-jerusalem-as-its-ca.md) _2017-12-05 18:30:06 (First version)_
-2. [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if America unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-america-unilaterally-recognizes-jerusal.md) _2017-12-05 21:30:05 (Update)_
+1. [Turkish President Tayyip Erdogan tells Donald Trump Turkey might cut ties with Israel if America unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-tayyip-erdogan-tells-donald-trump-turkey-might-cut-ties-with-israel-if-america-unilaterally-recognizes-jerusalem-as-its-ca.md) _2018-02-06 13:49:31 (First version)_
+2. [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if America unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-america-unilaterally-recognizes-jerusal.md) _2018-02-06 13:49:31 (Update)_
 2. [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md) _(Current version)_
 
 ### Related:

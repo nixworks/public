@@ -17,7 +17,7 @@ Turkey&#39;s prime minister has announced an end to the operation known as &quot
 
 ### Changes:
 
-1. [Turkish military intervention in Syria: Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." ](/news/2017/03/29/turkish-military-intervention-in-syria-turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which.md) _2017-08-27 03:48:04 (First version)_
+1. [Turkish military intervention in Syria: Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." ](/news/2017/03/29/turkish-military-intervention-in-syria-turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which.md) _2018-02-06 13:49:30 (First version)_
 1. [Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." ](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which-was-part-of-international-military-opera.md) _(Current version)_
 
 ### Related:

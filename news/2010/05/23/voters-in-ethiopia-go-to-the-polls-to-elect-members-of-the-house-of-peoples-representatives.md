@@ -23,8 +23,8 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Changes:
 
-1. [Ethiopian general election, 2010:Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-pvoters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _2017-08-25 03:27:59 (First version)_
-2. [Ethiopian general election, 2010:: Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-voters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _2017-08-27 03:27:57 (Update)_
+1. [Ethiopian general election, 2010:: Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-voters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _2018-02-06 13:49:20 (First version)_
+2. [Ethiopian general election, 2010:Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-pvoters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _2018-02-06 13:49:20 (Update)_
 2. [Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/voters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _(Current version)_
 
 ### Related:

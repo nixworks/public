@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/14/brazil-suffers-severe-natural-gas-shortages-fol
 
 ### Changes:
 
-1. [ Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provides-half-of-brazil-s-na.md) _2017-08-25 03:22:52 (First version)_
-2. [ 2008 unrest in Bolivia: Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/2008-unrest-in-bolivia-brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provi.md) _2017-08-27 03:22:45 (Update)_
+1. [ Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provides-half-of-brazil-s-na.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 unrest in Bolivia: Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/2008-unrest-in-bolivia-brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provi.md) _2018-02-06 13:49:18 (Update)_
 2. [ Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provides-half-of-brazil-s-nat.md) _(Current version)_
 
 ### Related:

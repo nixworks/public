@@ -19,7 +19,7 @@ The Jakarta Foreign Correspondents Club (JFCC) decided to &quot;err on the side 
 
 ### Changes:
 
-1. [ Indonesia bans the Australian film ''Balibo'', which follows the story of the Balibo Five, a group of journalists killed during the 1975 Indonesian invasion of East Timor. ](/news/2009/12/2/indonesia-bans-the-australian-film-balibo-which-follows-the-story-of-the-balibo-five-a-group-of-journalists-killed-during-the-1975-in.md) _2017-08-25 03:26:30 (First version)_
+1. [ Indonesia bans the Australian film ''Balibo'', which follows the story of the Balibo Five, a group of journalists killed during the 1975 Indonesian invasion of East Timor. ](/news/2009/12/2/indonesia-bans-the-australian-film-balibo-which-follows-the-story-of-the-balibo-five-a-group-of-journalists-killed-during-the-1975-in.md) _2018-02-06 13:49:19 (First version)_
 1. [ Indonesia bans the Australian film "Balibo", which follows the story of the Balibo Five, a group of journalists killed during the 1975 Indonesian invasion of East Timor. ](/news/2009/12/2/indonesia-bans-the-australian-film-balibo-which-follows-the-story-of-the-balibo-five-a-group-of-journalists-killed-during-the-1975-indo.md) _(Current version)_
 
 ### Related:

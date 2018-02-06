@@ -24,7 +24,7 @@ Formats: [HTML](/news/2012/09/18/people-in-over-180-cities-of-china-attend-prote
 
 ### Changes:
 
-1. [Senkaku Islands dispute: People in over 180 cities of China attend protests sparked by Japan's nationalization of the Senkaku Islands and the 81st anniversary of the Mukden Incident. ](/news/2012/09/18/senkaku-islands-dispute-people-in-over-180-cities-of-china-attend-protests-sparked-by-japan-s-nationalization-of-the-senkaku-islands-and-th.md) _2017-08-27 03:36:43 (First version)_
+1. [Senkaku Islands dispute: People in over 180 cities of China attend protests sparked by Japan's nationalization of the Senkaku Islands and the 81st anniversary of the Mukden Incident. ](/news/2012/09/18/senkaku-islands-dispute-people-in-over-180-cities-of-china-attend-protests-sparked-by-japan-s-nationalization-of-the-senkaku-islands-and-th.md) _2018-02-06 13:49:23 (First version)_
 1. [People in over 180 cities of China attend protests sparked by Japan's nationalization of the Senkaku Islands and the 81st anniversary of the Mukden Incident. ](/news/2012/09/18/people-in-over-180-cities-of-china-attend-protests-sparked-by-japan-s-nationalization-of-the-senkaku-islands-and-the-81st-anniversary-of-the.md) _(Current version)_
 
 ### Related:

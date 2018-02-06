@@ -16,7 +16,7 @@ The blast occurred at a checkpoint near the presidential palace just as the new 
 
 ### Changes:
 
-1. [War in Somalia: A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/war-in-somalia-a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-re.md) _2017-08-27 03:48:01 (First version)_
+1. [War in Somalia: A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/war-in-somalia-a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-re.md) _2018-02-06 13:49:30 (First version)_
 1. [A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-residence-in-mogad.md) _(Current version)_
 
 ### Related:

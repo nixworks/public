@@ -15,7 +15,7 @@ Police vehicle escorting passenger bus in Mandera is set on fire after being att
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Five Kenyan police officers are killed when Al-Shabaab militants ambush their convoy near El Wak, Kenya. ](/news/2016/06/21/war-in-somalia-2009-present-five-kenyan-police-officers-are-killed-when-al-shabaab-militants-ambush-their-convoy-near-el-wak-kenya.md) _2017-08-27 03:46:18 (First version)_
+1. [War in Somalia (2009-present): Five Kenyan police officers are killed when Al-Shabaab militants ambush their convoy near El Wak, Kenya. ](/news/2016/06/21/war-in-somalia-2009-present-five-kenyan-police-officers-are-killed-when-al-shabaab-militants-ambush-their-convoy-near-el-wak-kenya.md) _2018-02-06 13:49:29 (First version)_
 1. [Five Kenyan police officers are killed when Al-Shabaab militants ambush their convoy near El Wak, Kenya. ](/news/2016/06/21/five-kenyan-police-officers-are-killed-when-al-shabaab-militants-ambush-their-convoy-near-el-wak-kenya.md) _(Current version)_
 
 ### Related:

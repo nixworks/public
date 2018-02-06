@@ -17,7 +17,7 @@ Both the Ukrainian Army and Russian-backed militants said that their soldiers we
 
 ### Changes:
 
-1. [War in Donbass: The office of the President of Ukraine calls on the European Union and NATO to condemn the Russian-backed rebels for military action in Debaltseve. The self-proclaimed rebel government officials claim the town was not part of the recently established ceasefire. ](/news/2015/02/17/war-in-donbass-the-office-of-the-president-of-ukraine-calls-on-the-european-union-and-nato-to-condemn-the-russian-backed-rebels-for-militar.md) _2017-08-27 03:41:57 (First version)_
+1. [War in Donbass: The office of the President of Ukraine calls on the European Union and NATO to condemn the Russian-backed rebels for military action in Debaltseve. The self-proclaimed rebel government officials claim the town was not part of the recently established ceasefire. ](/news/2015/02/17/war-in-donbass-the-office-of-the-president-of-ukraine-calls-on-the-european-union-and-nato-to-condemn-the-russian-backed-rebels-for-militar.md) _2018-02-06 13:49:26 (First version)_
 1. [The office of the President of Ukraine calls on the European Union and NATO to condemn the Russian-backed rebels for military action in Debaltseve. The self-proclaimed rebel government officials claim the town was not part of the recently established ceasefire. ](/news/2015/02/17/the-office-of-the-president-of-ukraine-calls-on-the-european-union-and-nato-to-condemn-the-russian-backed-rebels-for-military-action-in-deba.md) _(Current version)_
 
 ### Related:

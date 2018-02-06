@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/12/22/the-philippine-commission-on-elections-disquali
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/philippine-presidential-election-2016-the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-riv.md) _2017-08-27 03:44:29 (First version)_
+1. [Philippine presidential election, 2016: The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/philippine-presidential-election-2016-the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-riv.md) _2018-02-06 13:49:28 (First version)_
 1. [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md) _(Current version)_
 
 ### Related:

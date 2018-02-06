@@ -18,8 +18,8 @@ Thirteen soldiers and 10 civilians have died in an attack by Taliban militants o
 
 ### Changes:
 
-1. [War in North-West Pakistan:Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/war-in-north-west-pakistan-pmilitants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injuring.md) _2017-08-25 03:37:24 (First version)_
-2. [War in North-West Pakistan:: Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/war-in-north-west-pakistan-militants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injurin.md) _2017-08-27 03:37:35 (Update)_
+1. [War in North-West Pakistan:Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/war-in-north-west-pakistan-pmilitants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injuring.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/war-in-north-west-pakistan-militants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injurin.md) _2018-02-06 13:49:24 (Update)_
 2. [Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/militants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injuring-at-least-8.md) _(Current version)_
 
 ### Related:

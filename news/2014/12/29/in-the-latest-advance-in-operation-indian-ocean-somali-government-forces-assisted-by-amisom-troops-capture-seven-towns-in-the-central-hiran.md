@@ -16,7 +16,7 @@ Somali government forces aided by African Union peacekeepers...
 
 ### Changes:
 
-1. [War in Somalia: In the latest advance in Operation Indian Ocean, Somali government forces assisted by AMISOM troops capture seven towns in the central Hiran province from Al-Shabaab. ](/news/2014/12/29/war-in-somalia-in-the-latest-advance-in-operation-indian-ocean-somali-government-forces-assisted-by-amisom-troops-capture-seven-towns-in-t.md) _2017-08-27 03:41:42 (First version)_
+1. [War in Somalia: In the latest advance in Operation Indian Ocean, Somali government forces assisted by AMISOM troops capture seven towns in the central Hiran province from Al-Shabaab. ](/news/2014/12/29/war-in-somalia-in-the-latest-advance-in-operation-indian-ocean-somali-government-forces-assisted-by-amisom-troops-capture-seven-towns-in-t.md) _2018-02-06 13:49:26 (First version)_
 1. [In the latest advance in Operation Indian Ocean, Somali government forces assisted by AMISOM troops capture seven towns in the central Hiran province from Al-Shabaab. ](/news/2014/12/29/in-the-latest-advance-in-operation-indian-ocean-somali-government-forces-assisted-by-amisom-troops-capture-seven-towns-in-the-central-hiran.md) _(Current version)_
 
 ### Related:

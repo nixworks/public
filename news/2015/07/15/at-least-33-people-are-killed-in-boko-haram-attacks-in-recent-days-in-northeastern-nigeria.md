@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/15/at-least-33-people-are-killed-in-boko-haram-att
 
 ### Changes:
 
-1. [Boko Haram: At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria. ](/news/2015/07/15/boko-haram-at-least-33-people-are-killed-in-boko-haram-attacks-in-recent-days-in-northeastern-nigeria.md) _2017-08-27 03:42:42 (First version)_
+1. [Boko Haram: At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria. ](/news/2015/07/15/boko-haram-at-least-33-people-are-killed-in-boko-haram-attacks-in-recent-days-in-northeastern-nigeria.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria. ](/news/2015/07/15/at-least-33-people-are-killed-in-boko-haram-attacks-in-recent-days-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

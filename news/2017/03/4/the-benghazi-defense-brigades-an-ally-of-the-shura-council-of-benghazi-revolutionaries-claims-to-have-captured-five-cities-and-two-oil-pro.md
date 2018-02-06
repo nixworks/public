@@ -15,7 +15,7 @@ Benghazi Defence Brigades says in control of five cities and two major oil produ
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/libyan-civil-war-2014-present-the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-c.md) _2017-08-27 03:47:56 (First version)_
+1. [Libyan Civil War (2014-present): The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/libyan-civil-war-2014-present-the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-c.md) _2018-02-06 13:49:30 (First version)_
 1. [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md) _(Current version)_
 
 ### Related:

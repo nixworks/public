@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens
 
 ### Changes:
 
-1. [The world's largest food group, Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro. ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-i.md) _2017-08-25 03:34:05 (First version)_
+1. [The world's largest food group, Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro. ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-i.md) _2018-02-06 13:49:22 (First version)_
 1. [The world's largest food group, Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro. ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-is.md) _(Current version)_
 
 ### Related:

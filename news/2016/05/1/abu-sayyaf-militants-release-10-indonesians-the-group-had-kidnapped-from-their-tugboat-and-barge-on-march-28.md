@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-
 
 ### Changes:
 
-1. [Moro conflict: Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/moro-conflict-abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md) _2017-08-27 03:45:56 (First version)_
+1. [Moro conflict: Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/moro-conflict-abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md) _2018-02-06 13:49:29 (First version)_
 1. [Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md) _(Current version)_
 
 ### Related:

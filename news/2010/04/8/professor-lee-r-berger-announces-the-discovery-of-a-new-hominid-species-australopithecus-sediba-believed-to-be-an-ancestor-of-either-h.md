@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/8/professor-lee-r-berger-announces-the-discovery-o
 
 ### Changes:
 
-1. [Professor Lee R. Berger announces the discovery of a new hominid species, ''Australopithecus sediba'', believed to be an ancestor of either ''Homo habilis'' or ''Homo erectus''. ](/news/2010/04/8/professor-lee-r-berger-announces-the-discovery-of-a-new-hominid-species-australopithecus-sediba-believed-to-be-an-ancestor-of-either.md) _2017-08-25 03:27:34 (First version)_
+1. [Professor Lee R. Berger announces the discovery of a new hominid species, ''Australopithecus sediba'', believed to be an ancestor of either ''Homo habilis'' or ''Homo erectus''. ](/news/2010/04/8/professor-lee-r-berger-announces-the-discovery-of-a-new-hominid-species-australopithecus-sediba-believed-to-be-an-ancestor-of-either.md) _2018-02-06 13:49:20 (First version)_
 1. [Professor Lee R. Berger announces the discovery of a new hominid species, "Australopithecus sediba", believed to be an ancestor of either "Homo habilis" or "Homo erectus". ](/news/2010/04/8/professor-lee-r-berger-announces-the-discovery-of-a-new-hominid-species-australopithecus-sediba-believed-to-be-an-ancestor-of-either-h.md) _(Current version)_
 
 ### Related:

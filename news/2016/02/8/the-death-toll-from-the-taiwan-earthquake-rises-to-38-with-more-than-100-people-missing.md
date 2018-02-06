@@ -18,7 +18,7 @@ TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled
 
 ### Changes:
 
-1. [2016 Taiwan earthquake: The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/2016-taiwan-earthquake-the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md) _2017-08-27 03:44:51 (First version)_
+1. [2016 Taiwan earthquake: The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/2016-taiwan-earthquake-the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md) _(Current version)_
 
 ### Related:

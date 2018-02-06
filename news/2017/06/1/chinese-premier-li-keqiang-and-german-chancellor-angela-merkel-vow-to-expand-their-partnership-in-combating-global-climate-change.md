@@ -16,8 +16,8 @@ Germany and China vowed on Thursday to expand their partnership and pledged to c
 
 ### Changes:
 
-1. [Chinese Premier Li Keqiang and German Chancellor Angela Merkel vow still expand their partnership in combating global climate change. ](/news/2017/06/1/chinese-premier-li-keqiang-and-german-chancellor-angela-merkel-vow-still-expand-their-partnership-in-combating-global-climate-change.md) _2017-06-01 23:30:05 (First version)_
-2. [China-Germany relations: Chinese Premier Li Keqiang and German Chancellor Angela Merkel vow to expand their partnership in combating global climate change. ](/news/2017/06/1/china-germany-relations-chinese-premier-li-keqiang-and-german-chancellor-angela-merkel-vow-to-expand-their-partnership-in-combating-globa.md) _2017-08-27 03:48:25 (Update)_
+1. [Chinese Premier Li Keqiang and German Chancellor Angela Merkel vow still expand their partnership in combating global climate change. ](/news/2017/06/1/chinese-premier-li-keqiang-and-german-chancellor-angela-merkel-vow-still-expand-their-partnership-in-combating-global-climate-change.md) _2018-02-06 13:49:30 (First version)_
+2. [China-Germany relations: Chinese Premier Li Keqiang and German Chancellor Angela Merkel vow to expand their partnership in combating global climate change. ](/news/2017/06/1/china-germany-relations-chinese-premier-li-keqiang-and-german-chancellor-angela-merkel-vow-to-expand-their-partnership-in-combating-globa.md) _2018-02-06 13:49:30 (Update)_
 2. [Chinese Premier Li Keqiang and German Chancellor Angela Merkel vow to expand their partnership in combating global climate change. ](/news/2017/06/1/chinese-premier-li-keqiang-and-german-chancellor-angela-merkel-vow-to-expand-their-partnership-in-combating-global-climate-change.md) _(Current version)_
 
 ### Related:

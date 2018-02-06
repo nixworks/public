@@ -16,7 +16,7 @@ Federal Indigenous Affairs Minister Mal Brough says the passing of the Commonwea
 
 ### Changes:
 
-1. [ The Parliament of Australia passes the ''Northern Territory Indigenous Bill'' making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-righ.md) _2017-08-25 03:20:37 (First version)_
+1. [ The Parliament of Australia passes the ''Northern Territory Indigenous Bill'' making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-righ.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Parliament of Australia passes the "Northern Territory Indigenous Bill" making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-rights.md) _(Current version)_
 
 ### Related:

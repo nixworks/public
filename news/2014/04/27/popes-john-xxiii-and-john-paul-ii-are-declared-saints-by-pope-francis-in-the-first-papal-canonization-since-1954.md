@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/27/popes-john-xxiii-and-john-paul-ii-are-declared-
 
 ### Changes:
 
-1. [Canonization of Pope John XXIII and Pope John Paul II:Popes John XXIII and John Paul II are declared saints by Pope Francis in the first papal canonization since 1954. ](/news/2014/04/27/canonization-of-pope-john-xxiii-and-pope-john-paul-ii-ppopes-john-xxiii-and-john-paul-ii-are-declared-saints-by-pope-francis-in-the-first-pa.md) _2017-08-25 03:40:20 (First version)_
-2. [Canonization of Pope John XXIII and Pope John Paul II:: Popes John XXIII and John Paul II are declared saints by Pope Francis in the first papal canonization since 1954. ](/news/2014/04/27/canonization-of-pope-john-xxiii-and-pope-john-paul-ii-popes-john-xxiii-and-john-paul-ii-are-declared-saints-by-pope-francis-in-the-first-p.md) _2017-08-27 03:40:38 (Update)_
+1. [Canonization of Pope John XXIII and Pope John Paul II:Popes John XXIII and John Paul II are declared saints by Pope Francis in the first papal canonization since 1954. ](/news/2014/04/27/canonization-of-pope-john-xxiii-and-pope-john-paul-ii-ppopes-john-xxiii-and-john-paul-ii-are-declared-saints-by-pope-francis-in-the-first-pa.md) _2018-02-06 13:49:26 (First version)_
+2. [Canonization of Pope John XXIII and Pope John Paul II:: Popes John XXIII and John Paul II are declared saints by Pope Francis in the first papal canonization since 1954. ](/news/2014/04/27/canonization-of-pope-john-xxiii-and-pope-john-paul-ii-popes-john-xxiii-and-john-paul-ii-are-declared-saints-by-pope-francis-in-the-first-p.md) _2018-02-06 13:49:26 (Update)_
 2. [Popes John XXIII and John Paul II are declared saints by Pope Francis in the first papal canonization since 1954. ](/news/2014/04/27/popes-john-xxiii-and-john-paul-ii-are-declared-saints-by-pope-francis-in-the-first-papal-canonization-since-1954.md) _(Current version)_
 
 ### Related:

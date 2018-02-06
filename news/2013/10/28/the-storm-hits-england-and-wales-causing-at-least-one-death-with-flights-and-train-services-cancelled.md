@@ -17,8 +17,8 @@ So-called St. Jude storm lashes the U.K. with heavy rains and high winds; people
 
 ### Changes:
 
-1. [St Jude storm:The storm hits England and Wales, causing at least one death with flights and train services cancelled. ](/news/2013/10/28/st-jude-storm-pthe-storm-hits-england-and-wales-causing-at-least-one-death-with-flights-and-train-services-cancelled.md) _2017-08-25 03:39:27 (First version)_
-2. [St Jude storm:: The storm hits England and Wales, causing at least one death with flights and train services cancelled. ](/news/2013/10/28/st-jude-storm-the-storm-hits-england-and-wales-causing-at-least-one-death-with-flights-and-train-services-cancelled.md) _2017-08-27 03:39:44 (Update)_
+1. [St Jude storm:: The storm hits England and Wales, causing at least one death with flights and train services cancelled. ](/news/2013/10/28/st-jude-storm-the-storm-hits-england-and-wales-causing-at-least-one-death-with-flights-and-train-services-cancelled.md) _2018-02-06 13:49:25 (First version)_
+2. [St Jude storm:The storm hits England and Wales, causing at least one death with flights and train services cancelled. ](/news/2013/10/28/st-jude-storm-pthe-storm-hits-england-and-wales-causing-at-least-one-death-with-flights-and-train-services-cancelled.md) _2018-02-06 13:49:25 (Update)_
 2. [The storm hits England and Wales, causing at least one death with flights and train services cancelled. ](/news/2013/10/28/the-storm-hits-england-and-wales-causing-at-least-one-death-with-flights-and-train-services-cancelled.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan
 
 ### Changes:
 
-1. [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10-30-possibly-indicating-future-missile-testing.md) _2017-08-27 03:24:39 (First version)_
+1. [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10-30-possibly-indicating-future-missile-testing.md) _2018-02-06 13:49:19 (First version)_
 1. [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md) _(Current version)_
 
 ### Related:

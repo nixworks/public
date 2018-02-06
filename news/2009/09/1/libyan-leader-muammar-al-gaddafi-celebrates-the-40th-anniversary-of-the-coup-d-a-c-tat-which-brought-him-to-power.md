@@ -19,8 +19,8 @@ Libyan leader Muammar Gaddafi is celebrating the 40th anniversary of the coup th
 
 ### Changes:
 
-1. [ Muammar al-Gaddafi: Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-p-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md) _2017-08-25 03:25:37 (First version)_
-2. [ Muammar al-Gaddafi:: Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md) _2017-08-27 03:25:29 (Update)_
+1. [ Muammar al-Gaddafi: Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-p-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md) _2018-02-06 13:49:19 (First version)_
+2. [ Muammar al-Gaddafi:: Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md) _2018-02-06 13:49:19 (Update)_
 2. [ Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md) _(Current version)_
 
 ### Related:

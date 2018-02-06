@@ -18,7 +18,7 @@ Australian and New Zealand researchers have used ancient DNA to identify a previ
 
 ### Changes:
 
-1. [ New Zealand and Australian researchers identify a new species of penguin, the Waitaha penguin (''Megadyptes waitaha''), which lived in New Zealand until its extinction 500 years ago. ](/news/2008/11/19/new-zealand-and-australian-researchers-identify-a-new-species-of-penguin-the-waitaha-penguin-megadyptes-waitaha-which-lived-in-new.md) _2017-08-25 03:23:11 (First version)_
+1. [ New Zealand and Australian researchers identify a new species of penguin, the Waitaha penguin (''Megadyptes waitaha''), which lived in New Zealand until its extinction 500 years ago. ](/news/2008/11/19/new-zealand-and-australian-researchers-identify-a-new-species-of-penguin-the-waitaha-penguin-megadyptes-waitaha-which-lived-in-new.md) _2018-02-06 13:49:18 (First version)_
 1. [ New Zealand and Australian researchers identify a new species of penguin, the Waitaha penguin ("Megadyptes waitaha"), which lived in New Zealand until its extinction 500 years ago. ](/news/2008/11/19/new-zealand-and-australian-researchers-identify-a-new-species-of-penguin-the-waitaha-penguin-megadyptes-waitaha-which-lived-in-new-ze.md) _(Current version)_
 
 ### Related:

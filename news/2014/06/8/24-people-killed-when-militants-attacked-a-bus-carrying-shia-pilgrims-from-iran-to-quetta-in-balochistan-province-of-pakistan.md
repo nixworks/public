@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-c
 
 ### Changes:
 
-1. [Terrorism in Pakistan: 24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/terrorism-in-pakistan-24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of.md) _2017-08-27 03:40:49 (First version)_
+1. [Terrorism in Pakistan: 24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/terrorism-in-pakistan-24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of.md) _2018-02-06 13:49:26 (First version)_
 1. [24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of-pakistan.md) _(Current version)_
 
 ### Related:

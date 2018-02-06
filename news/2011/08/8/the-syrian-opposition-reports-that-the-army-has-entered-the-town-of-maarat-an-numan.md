@@ -21,7 +21,7 @@ Bahrain has recalled its ambassador from Syria for consultation Foreign Minister
 
 ### Changes:
 
-1. [2011 Syrian uprising: The Syrian opposition reports that the Army has entered the town of Maarat an-Numan. ](/news/2011/08/8/2011-syrian-uprising-the-syrian-opposition-reports-that-the-army-has-entered-the-town-of-maarat-an-numan.md) _2017-08-27 03:34:06 (First version)_
+1. [2011 Syrian uprising: The Syrian opposition reports that the Army has entered the town of Maarat an-Numan. ](/news/2011/08/8/2011-syrian-uprising-the-syrian-opposition-reports-that-the-army-has-entered-the-town-of-maarat-an-numan.md) _2018-02-06 13:49:22 (First version)_
 1. [The Syrian opposition reports that the Army has entered the town of Maarat an-Numan. ](/news/2011/08/8/the-syrian-opposition-reports-that-the-army-has-entered-the-town-of-maarat-an-numan.md) _(Current version)_
 
 ### Related:

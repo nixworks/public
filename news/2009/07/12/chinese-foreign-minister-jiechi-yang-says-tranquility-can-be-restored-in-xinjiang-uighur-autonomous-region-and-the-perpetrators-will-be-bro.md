@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranq
 
 ### Changes:
 
-1. [ Chinese Foreign Minister Jiechi Yang says tranquility can be restored in Xinjiang Uighur Autonomous Region and the perpetrators will be brought into court without any ethnical discrimination, in a 1 hour 15 minute phone conversation regarding the recent incidents with his Turkish counterpart Ahmet Davutoglu. ](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranquility-can-be-restored-in-xinjiang-uighur-autonomous-region-and-the-perpetrators-will-be-br.md) _2017-08-25 03:25:09 (First version)_
+1. [ Chinese Foreign Minister Jiechi Yang says tranquility can be restored in Xinjiang Uighur Autonomous Region and the perpetrators will be brought into court without any ethnical discrimination, in a 1 hour 15 minute phone conversation regarding the recent incidents with his Turkish counterpart Ahmet Davutoglu. ](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranquility-can-be-restored-in-xinjiang-uighur-autonomous-region-and-the-perpetrators-will-be-br.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chinese Foreign Minister Jiechi Yang says tranquility can be restored in Xinjiang Uighur Autonomous Region and the perpetrators will be brought into court without any ethnical discrimination, in a 1 hour 15 minute phone conversation regarding the recent incidents with his Turkish counterpart Ahmet Davutoglu. ](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranquility-can-be-restored-in-xinjiang-uighur-autonomous-region-and-the-perpetrators-will-be-bro.md) _(Current version)_
 
 ### Related:

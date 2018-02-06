@@ -16,7 +16,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 
 ### Changes:
 
-1. [European migrant crisis: The German state of Bavaria plans "emergency measures" in response to the migrant crisis, including deporting migrants back to Austria and closing the border. An estimated 225,000 migrants have arrived in the southern German state in less than five weeks. ](/news/2015/10/8/european-migrant-crisis-the-german-state-of-bavaria-plans-emergency-measures-in-response-to-the-migrant-crisis-including-deporting-migra.md) _2017-08-27 03:43:16 (First version)_
+1. [European migrant crisis: The German state of Bavaria plans "emergency measures" in response to the migrant crisis, including deporting migrants back to Austria and closing the border. An estimated 225,000 migrants have arrived in the southern German state in less than five weeks. ](/news/2015/10/8/european-migrant-crisis-the-german-state-of-bavaria-plans-emergency-measures-in-response-to-the-migrant-crisis-including-deporting-migra.md) _2018-02-06 13:49:28 (First version)_
 1. [The German state of Bavaria plans "emergency measures" in response to the migrant crisis, including deporting migrants back to Austria and closing the border. An estimated 225,000 migrants have arrived in the southern German state in less than five weeks. ](/news/2015/10/8/the-german-state-of-bavaria-plans-emergency-measures-in-response-to-the-migrant-crisis-including-deporting-migrants-back-to-austria-and-c.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2015/11/4/whole-foods-the-texas-based-food-retailer-announ
 
 ### Changes:
 
-1. [Whole Foods, the Texas based food retailer, announces that it will buy back $1 billion of its shares, and increases its dividend. [http:--www.reuters.com-article-2015-11-04-us-whole-foods-mrkt-buyback-idUSKCN0ST2WM20151104#w2r3VIHyTDcAQMAt.97(Reuters)] ](/news/2015/11/4/whole-foods-the-texas-based-food-retailer-announces-that-it-will-buy-back-1-billion-of-its-shares-and-increases-its-dividend-http-ww.md) _2017-10-17 03:50:22 (First version)_
+1. [Whole Foods, the Texas based food retailer, announces that it will buy back $1 billion of its shares, and increases its dividend. [http:--www.reuters.com-article-2015-11-04-us-whole-foods-mrkt-buyback-idUSKCN0ST2WM20151104#w2r3VIHyTDcAQMAt.97(Reuters)] ](/news/2015/11/4/whole-foods-the-texas-based-food-retailer-announces-that-it-will-buy-back-1-billion-of-its-shares-and-increases-its-dividend-http-ww.md) _2018-02-06 13:49:28 (First version)_
 1. [Whole Foods, the Texas based food retailer, announces that it will buy back $1 billion of its shares, and increases its dividend. [https:--www.reuters.com-article-2015-11-04-us-whole-foods-mrkt-buyback-idUSKCN0ST2WM20151104#w2r3VIHyTDcAQMAt.97(Reuters)] ](/news/2015/11/4/whole-foods-the-texas-based-food-retailer-announces-that-it-will-buy-back-1-billion-of-its-shares-and-increases-its-dividend-https-w.md) _(Current version)_
 
 ### Related:

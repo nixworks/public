@@ -16,7 +16,7 @@ More than a dozen killed in attack on government workers in volatile city of Pes
 
 ### Changes:
 
-1. [ War in North-West Pakistan: 2016 Peshawar bus bombing: A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/war-in-north-west-pakistan-2016-peshawar-bus-bombing-a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killi.md) _2017-08-27 03:45:16 (First version)_
+1. [ War in North-West Pakistan: 2016 Peshawar bus bombing: A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/war-in-north-west-pakistan-2016-peshawar-bus-bombing-a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killi.md) _2018-02-06 13:49:28 (First version)_
 1. [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Two people were killed and 21 were wounded in an attack early Thursday on an ant
 
 ##### Turkestan Islamic Party
 ### [A group named Turkestan Islamic Party claims the responsibility for the attack on Urumqi Railway Station in China. ](/news/2014/05/15/a-group-named-turkestan-islamic-party-claims-the-responsibility-for-the-attack-on-ara1-4mqi-railway-station-in-china.md)
-_Context: Turkestan Islamic Party, Urumqi Railway Station, the attack_
+_Context: the attack, Turkestan Islamic Party, Urumqi Railway Station_
 
 ##### First Family
 ### [First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/first-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memorial-with-the-victims-on-ground-zero.md)
@@ -25,7 +25,7 @@ The somber ceremony dedicating the National September 11 Memorial Museum was hel
 
 ##### labour unions
 ### [Several trade unions in Turkey hold a one-day strike in response to the disaster. ](/news/2014/05/15/several-trade-unions-in-turkey-hold-a-one-day-strike-in-response-to-the-disaster.md)
-_Context: Turkish, labour unions_
+_Context: Turkey, labour unions_
 
 ##### Los Angeles
 ### [An oil pipe in Los Angeles broke, spilling an estimated 10,000 gallons of oil in the streets. ](/news/2014/05/15/an-oil-pipe-in-los-angeles-broke-spilling-an-estimated-10-000-gallons-of-oil-in-the-streets.md)
@@ -41,7 +41,7 @@ _Context: South Korea_
 
 ##### New England Patriots
 ### [Former New England Patriots tight end Aaron Hernandez is charged with two counts of murder in relation to a drive-by shooting in Boston's South End district in July 2012. ](/news/2014/05/15/former-new-england-patriots-tight-end-aaron-hernandez-is-charged-with-two-counts-of-murder-in-relation-to-a-drive-by-shooting-in-boston-s-so.md)
-_Context: tight end, Aaron Hernandez, New England Patriots, South End, Boston_
+_Context: Boston, tight end, New England Patriots, South End, Aaron Hernandez_
 
 ##### Meriam Yehya Ibrahim
 ### [An eight month pregnant Christian woman, Meriam Yehya Ibrahim, is sentenced to death by hanging for apostasy in Sudan in a case that has drawn widespread international condemnation.](/news/2014/05/15/an-eight-month-pregnant-christian-woman-meriam-yehya-ibrahim-is-sentenced-to-death-by-hanging-for-apostasy-in-sudan-in-a-case-that-has-dra.md)

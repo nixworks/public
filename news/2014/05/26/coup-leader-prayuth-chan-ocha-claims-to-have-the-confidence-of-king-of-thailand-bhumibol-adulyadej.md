@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-th
 
 ### Changes:
 
-1. [2014 Thai coup d'tat: Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/2014-thai-coup-d-etat-coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md) _2017-08-27 03:40:45 (First version)_
+1. [2014 Thai coup d'tat: Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/2014-thai-coup-d-etat-coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md) _2018-02-06 13:49:26 (First version)_
 1. [Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md) _(Current version)_
 
 ### Related:

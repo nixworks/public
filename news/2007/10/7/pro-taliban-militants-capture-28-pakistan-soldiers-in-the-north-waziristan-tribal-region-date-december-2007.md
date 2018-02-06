@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/7/pro-taliban-militants-capture-28-pakistan-soldie
 
 ### Changes:
 
-1. [ Pro-Taliban militants capture 28 Pakistan soldiers in the North Waziristan tribal region.{{Fact|date=December 2007}} ](/news/2007/10/7/pro-taliban-militants-capture-28-pakistan-soldiers-in-the-north-waziristan-tribal-region-fact-date-december-2007.md) _2017-05-01 03:21:59 (First version)_
+1. [ Pro-Taliban militants capture 28 Pakistan soldiers in the North Waziristan tribal region.{{Fact|date=December 2007}} ](/news/2007/10/7/pro-taliban-militants-capture-28-pakistan-soldiers-in-the-north-waziristan-tribal-region-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pro-Taliban militants capture 28 Pakistan soldiers in the North Waziristan tribal region.date=December 2007 ](/news/2007/10/7/pro-taliban-militants-capture-28-pakistan-soldiers-in-the-north-waziristan-tribal-region-date-december-2007.md) _(Current version)_
 
 ### Related:

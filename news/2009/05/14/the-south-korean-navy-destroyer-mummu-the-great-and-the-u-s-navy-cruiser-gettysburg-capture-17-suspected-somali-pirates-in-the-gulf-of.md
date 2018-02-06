@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great
 
 ### Changes:
 
-1. [ The South Korean Navy destroyer ''Mummu the Great'' and the U.S. Navy cruiser ''Gettysburg'' capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gul.md) _2017-08-25 03:24:33 (First version)_
+1. [ The South Korean Navy destroyer ''Mummu the Great'' and the U.S. Navy cruiser ''Gettysburg'' capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gul.md) _2018-02-06 13:49:19 (First version)_
 1. [ The South Korean Navy destroyer "Mummu the Great" and the U.S. Navy cruiser "Gettysburg" capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gulf-of.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Over a hundred Baluch militants fighting against Pakistani forces in the separat
 
 ### Changes:
 
-1. [Balochistan conflict Over 100 Baloch rebels pledge allegiance to the government after abandoning armed struggle. ](/news/2015/06/15/balochistan-conflict-pover-100-baloch-rebels-pledge-allegiance-to-the-government-after-abandoning-armed-struggle.md) _2017-05-25 03:44:19 (First version)_
-2. [Balochistan conflict: Over 100 Baloch rebels pledge allegiance to the government after abandoning armed struggle. ](/news/2015/06/15/balochistan-conflict-over-100-baloch-rebels-pledge-allegiance-to-the-government-after-abandoning-armed-struggle.md) _2017-08-27 03:42:33 (Update)_
+1. [Balochistan conflict Over 100 Baloch rebels pledge allegiance to the government after abandoning armed struggle. ](/news/2015/06/15/balochistan-conflict-pover-100-baloch-rebels-pledge-allegiance-to-the-government-after-abandoning-armed-struggle.md) _2018-02-06 13:49:27 (First version)_
+2. [Balochistan conflict: Over 100 Baloch rebels pledge allegiance to the government after abandoning armed struggle. ](/news/2015/06/15/balochistan-conflict-over-100-baloch-rebels-pledge-allegiance-to-the-government-after-abandoning-armed-struggle.md) _2018-02-06 13:49:27 (Update)_
 2. [Over 100 Baloch rebels pledge allegiance to the government after abandoning armed struggle. ](/news/2015/06/15/over-100-baloch-rebels-pledge-allegiance-to-the-government-after-abandoning-armed-struggle.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/01/15/hamas-in-principle-accepts-the-united-nations-c
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008a2009-israelagaza-conflict-p-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md) _2017-08-25 03:23:29 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008-2009-israel-gaza-conflict-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md) _2017-08-27 03:23:21 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008a2009-israelagaza-conflict-p-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008-2009-israel-gaza-conflict-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md) _(Current version)_
 
 ### Related:

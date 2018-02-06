@@ -29,8 +29,8 @@ Formats: [HTML](/news/2008/08/10/georgian-troops-are-forced-to-withdraw-from-tsk
 
 ### Changes:
 
-1. [ 2008 South Ossetian War: Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/2008-south-ossetian-war-p-georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md) _2017-08-25 03:22:41 (First version)_
-2. [ 2008 South Ossetian War:: Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/2008-south-ossetian-war-georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md) _2017-08-27 03:22:35 (Update)_
+1. [ 2008 South Ossetian War: Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/2008-south-ossetian-war-p-georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetian War:: Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/2008-south-ossetian-war-georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md) _2018-02-06 13:49:18 (Update)_
 2. [ Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md) _(Current version)_
 
 ### Related:

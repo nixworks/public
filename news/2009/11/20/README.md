@@ -13,19 +13,19 @@ _Context: French Polynesian President, Oscar Temaru, motion of no confidence_
 
 ##### United States
 ### [ The United States Senate clears Senator Roland Burris of legal wrongdoing in relation to his appointment to the Senate. ](/news/2009/11/20/the-united-states-senate-clears-senator-roland-burris-of-legal-wrongdoing-in-relation-to-his-appointment-to-the-senate.md)
-_Context: United States, United States Senate, Roland Burris_
+_Context: United States Senate, Roland Burris, United States_
 
 ##### DR Congo
 ### [ At least 100 people are killed and around 50,000 displaced in the Democratic Republic of the Congo, with some fleeing to the Republic of the Congo, in an ethnic conflict over fishing rights. ](/news/2009/11/20/at-least-100-people-are-killed-and-around-50-000-displaced-in-the-democratic-republic-of-the-congo-with-some-fleeing-to-the-republic-of-th.md)
-_Context: Republic of the Congo, DR Congo_
+_Context: DR Congo, Republic of the Congo_
 
-##### British
+##### United Kingdom
 ### [ Officials from the United Kingdom, France, Germany, Russia, China and the United States express "regret" at Iran's refusal to accept nuclear proposals. ](/news/2009/11/20/officials-from-the-united-kingdom-france-germany-russia-china-and-the-united-states-express-regret-at-iran-s-refusal-to-accept-nuclea.md)
 Senior officials from six world powers expressed disappointment Friday that Iran had not accepted proposals intended to delay its potential ability to make nuclear bombs, and urged Tehran to reconsider.
 
 ##### Europe
 ### [ 200 European football matches are under investigation in a match-fixing inquiry, at least three from the UEFA Champions League and 12 from the UEFA Europa League as Europe's biggest ever match-fixing scandal is revealed. ](/news/2009/11/20/200-european-football-matches-are-under-investigation-in-a-match-fixing-inquiry-at-least-three-from-the-uefa-champions-league-and-12-from.md)
-_Context: UEFA Champions League, Europe, football, Europe's biggest ever match-fixing scandal, UEFA Europa League_
+_Context: Europe, football, Europe's biggest ever match-fixing scandal, UEFA Europa League, UEFA Champions League_
 
 ##### FIFA
 ### [ FIFA turns down the Football Association of Ireland's request for a rematch between France and Republic of Ireland, after a controversial handball decided the 2010 FIFA World Cup qualification playoff between the two countries. ](/news/2009/11/20/fifa-turns-down-the-football-association-of-ireland-s-request-for-a-rematch-between-france-and-republic-of-ireland-after-a-controversial-h.md)
@@ -37,7 +37,7 @@ _Context: Iraq Football Association, FIFA_
 
 ##### Egypt
 ### [ 35 people are injured and fire bombs are thrown after Egyptian riot police clash with protesters at a demonstration outside the Algerian embassy in Cairo, following Egypt's defeat in a World Cup qualifying playoff match. ](/news/2009/11/20/35-people-are-injured-and-fire-bombs-are-thrown-after-egyptian-riot-police-clash-with-protesters-at-a-demonstration-outside-the-algerian-em.md)
-_Context: Egypt, Algeria, qualifying match, Cairo_
+_Context: Cairo, Egypt, qualifying match, Algeria_
 
 ##### Irish Defence Forces
 ### [ The Irish Defence Forces are deployed to assist civil authorities after widespread flooding hits the west and south of Ireland after the heaviest rainfall in over thirty years falls in one night. The worst affected areas are Cork and Galway, where there is widespread disruption to public transport and services and several major roads are closed. Lectures at University College Cork are cancelled as the university is submerged. ](/news/2009/11/20/the-irish-defence-forces-are-deployed-to-assist-civil-authorities-after-widespread-flooding-hits-the-west-and-south-of-ireland-after-the-he.md)
@@ -45,7 +45,7 @@ The Defence Forces have further increased their deployment due to the recent flo
 
 ##### Somalia
 ### [ Somalia announces it is to ratify the United Nations Convention on the Rights of the Child, leaving the United States the only country not to ratify it. ](/news/2009/11/20/somalia-announces-it-is-to-ratify-the-united-nations-convention-on-the-rights-of-the-child-leaving-the-united-states-the-only-country-not.md)
-_Context: United Nations, United States, Convention on the Rights of the Child, Somalia_
+_Context: United States, Somalia, Convention on the Rights of the Child, United Nations_
 
 ##### Colombia
 ### [ Colombia accuses Venezuelan troops of blowing up two border bridges between the two countries. ](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.md)

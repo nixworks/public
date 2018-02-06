@@ -18,7 +18,7 @@ At least 31 people are killed and dozens injured after a Syrian military aircraf
 
 ### Changes:
 
-1. [Syrian Civil War: A Syrian fighter jet crashes into a marketplace in the town of Ariha leaving at least 31 people dead and dozens injured. ](/news/2015/08/3/syrian-civil-war-a-syrian-fighter-jet-crashes-into-a-marketplace-in-the-town-of-ariha-leaving-at-least-31-people-dead-and-dozens-injured.md) _2017-08-27 03:42:47 (First version)_
+1. [Syrian Civil War: A Syrian fighter jet crashes into a marketplace in the town of Ariha leaving at least 31 people dead and dozens injured. ](/news/2015/08/3/syrian-civil-war-a-syrian-fighter-jet-crashes-into-a-marketplace-in-the-town-of-ariha-leaving-at-least-31-people-dead-and-dozens-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [A Syrian fighter jet crashes into a marketplace in the town of Ariha leaving at least 31 people dead and dozens injured. ](/news/2015/08/3/a-syrian-fighter-jet-crashes-into-a-marketplace-in-the-town-of-ariha-leaving-at-least-31-people-dead-and-dozens-injured.md) _(Current version)_
 
 ### Related:

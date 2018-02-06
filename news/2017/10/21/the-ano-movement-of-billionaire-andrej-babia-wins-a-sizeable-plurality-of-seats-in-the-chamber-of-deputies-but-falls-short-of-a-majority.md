@@ -17,7 +17,7 @@ Andrej Babis, the billionaire leader of an anti-establishment party, is expected
 
 ### Changes:
 
-1. [The ANO movement of billionaire Andrej Babis wins most seats in the Czech legislative election.](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-most-seats-in-the-czech-legislative-election.md) _2017-10-21 23:30:05 (First version)_
+1. [The ANO movement of billionaire Andrej Babis wins most seats in the Czech legislative election.](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-most-seats-in-the-czech-legislative-election.md) _2018-02-06 13:49:31 (First version)_
 1. [The ANO movement of billionaire Andrej Babis wins a sizeable plurality of seats in the Chamber of Deputies, but falls short of a majority. ](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-a-sizeable-plurality-of-seats-in-the-chamber-of-deputies-but-falls-short-of-a-majority.md) _(Current version)_
 
 ### Related:

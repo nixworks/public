@@ -16,7 +16,7 @@ Hundreds of thousands face running out of food in besieged city, while Isis laun
 
 ### Changes:
 
-1. [Syrian civil war: At least 44 people are killed in a twin bombing in the Kurdish-controlled city of Al-Qamishli on the Syria-Turkey border. ISIL claims responsibility for the attack. ](/news/2016/07/27/syrian-civil-war-at-least-44-people-are-killed-in-a-twin-bombing-in-the-kurdish-controlled-city-of-al-qamishli-on-the-syria-turkey-border.md) _2017-08-27 03:46:33 (First version)_
+1. [Syrian civil war: At least 44 people are killed in a twin bombing in the Kurdish-controlled city of Al-Qamishli on the Syria-Turkey border. ISIL claims responsibility for the attack. ](/news/2016/07/27/syrian-civil-war-at-least-44-people-are-killed-in-a-twin-bombing-in-the-kurdish-controlled-city-of-al-qamishli-on-the-syria-turkey-border.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 44 people are killed in a twin bombing in the Kurdish-controlled city of Al-Qamishli on the Syria-Turkey border. ISIL claims responsibility for the attack. ](/news/2016/07/27/at-least-44-people-are-killed-in-a-twin-bombing-in-the-kurdish-controlled-city-of-al-qamishli-on-the-syriaaturkey-border-isil-claims-resp.md) _(Current version)_
 
 ### Related:

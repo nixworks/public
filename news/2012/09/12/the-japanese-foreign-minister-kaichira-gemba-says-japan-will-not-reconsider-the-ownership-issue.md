@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/09/12/the-japanese-foreign-minister-kaichira-gemba-sa
 
 ### Changes:
 
-1. [Senkaku Islands dispute:The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-pthe-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md) _2017-08-25 03:36:30 (First version)_
-2. [Senkaku Islands dispute:: The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-the-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md) _2017-08-27 03:36:40 (Update)_
+1. [Senkaku Islands dispute:: The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-the-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md) _2018-02-06 13:49:23 (First version)_
+2. [Senkaku Islands dispute:The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-pthe-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md) _2018-02-06 13:49:23 (Update)_
 2. [The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/the-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Northern Rock bank, nationalised at the height of the credit crunch, is being so
 
 ### Changes:
 
-1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for PS747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-aps747m.md) _2017-08-25 03:34:30 (First version)_
+1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for PS747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-aps747m.md) _2018-02-06 13:49:23 (First version)_
 1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for GBP747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.md) _(Current version)_
 
 ### Related:

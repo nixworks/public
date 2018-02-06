@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/16/battle-of-diabaly-french-troops-are-reported-to
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/northern-mali-conflict-2012apresent-pbattle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly-a.md) _2017-08-25 03:37:16 (First version)_
-2. [Northern Mali conflict (2012-present):: Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/northern-mali-conflict-2012-present-battle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly.md) _2017-08-27 03:37:26 (Update)_
+1. [Northern Mali conflict (2012-present):Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/northern-mali-conflict-2012apresent-pbattle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly-a.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/northern-mali-conflict-2012-present-battle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly.md) _2018-02-06 13:49:24 (Update)_
 2. [Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/battle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly-alongside-malian-troops.md) _(Current version)_
 
 ### Related:

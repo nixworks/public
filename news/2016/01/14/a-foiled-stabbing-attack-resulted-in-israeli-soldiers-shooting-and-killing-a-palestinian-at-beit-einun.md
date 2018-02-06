@@ -16,7 +16,7 @@ No Israelis were injured in the event.
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015-present): A foiled stabbing attack resulted in Israeli soldiers shooting and killing a Palestinian at Beit Einun. ](/news/2016/01/14/israeli-palestinian-conflict-2015-present-a-foiled-stabbing-attack-resulted-in-israeli-soldiers-shooting-and-killing-a-palestinian-at.md) _2017-08-27 03:44:40 (First version)_
+1. [Israeli-Palestinian conflict (2015-present): A foiled stabbing attack resulted in Israeli soldiers shooting and killing a Palestinian at Beit Einun. ](/news/2016/01/14/israeli-palestinian-conflict-2015-present-a-foiled-stabbing-attack-resulted-in-israeli-soldiers-shooting-and-killing-a-palestinian-at.md) _2018-02-06 13:49:28 (First version)_
 1. [A foiled stabbing attack resulted in Israeli soldiers shooting and killing a Palestinian at Beit Einun. ](/news/2016/01/14/a-foiled-stabbing-attack-resulted-in-israeli-soldiers-shooting-and-killing-a-palestinian-at-beit-einun.md) _(Current version)_
 
 ### Related:

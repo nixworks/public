@@ -15,7 +15,7 @@ At least 63 killed and more than 30 injured as incessant rains cause havoc parti
 
 ### Changes:
 
-1. [2016 Khyber Pakhtunkhwa flood: At least 63 people are killed and over 30 are injured as flash floods ravage Khyber Pakhtunkhwa, Azad Kashmir and other parts of northwest Pakistan. ](/news/2016/04/4/2016-khyber-pakhtunkhwa-flood-at-least-63-people-are-killed-and-over-30-are-injured-as-flash-floods-ravage-khyber-pakhtunkhwa-azad-kashmir.md) _2017-08-27 03:45:29 (First version)_
+1. [2016 Khyber Pakhtunkhwa flood: At least 63 people are killed and over 30 are injured as flash floods ravage Khyber Pakhtunkhwa, Azad Kashmir and other parts of northwest Pakistan. ](/news/2016/04/4/2016-khyber-pakhtunkhwa-flood-at-least-63-people-are-killed-and-over-30-are-injured-as-flash-floods-ravage-khyber-pakhtunkhwa-azad-kashmir.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 63 people are killed and over 30 are injured as flash floods ravage Khyber Pakhtunkhwa, Azad Kashmir and other parts of northwest Pakistan. ](/news/2016/04/4/at-least-63-people-are-killed-and-over-30-are-injured-as-flash-floods-ravage-khyber-pakhtunkhwa-azad-kashmir-and-other-parts-of-northwest-p.md) _(Current version)_
 
 ### Related:

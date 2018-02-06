@@ -16,7 +16,7 @@ TV footage shows young man hitting prime minister on side of head but a party sp
 
 ### Changes:
 
-1. [Spanish general election, 2015: Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-general-election-2015-spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-e.md) _2017-08-27 03:44:23 (First version)_
+1. [Spanish general election, 2015: Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-general-election-2015-spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-e.md) _2018-02-06 13:49:28 (First version)_
 1. [Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-event-in-the-city-of-pontevedra.md) _(Current version)_
 
 ### Related:

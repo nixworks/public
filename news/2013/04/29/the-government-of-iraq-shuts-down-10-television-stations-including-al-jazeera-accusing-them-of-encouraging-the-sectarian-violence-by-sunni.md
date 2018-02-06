@@ -16,8 +16,8 @@ BAGHDAD - The Iraqi government ordered 10 predominantly Sunni Muslim satellite t
 
 ### Changes:
 
-1. [2012-13 Iraqi protests:The government of Iraq shuts down 10 television stations including Al Jazeera, accusing them of encouraging the sectarian violence by Sunni muslims in the country. ](/news/2013/04/29/2012a13-iraqi-protests-pthe-government-of-iraq-shuts-down-10-television-stations-including-al-jazeera-accusing-them-of-encouraging-the-se.md) _2017-08-25 03:38:30 (First version)_
-2. [2012-13 Iraqi protests:: The government of Iraq shuts down 10 television stations including Al Jazeera, accusing them of encouraging the sectarian violence by Sunni muslims in the country. ](/news/2013/04/29/2012-13-iraqi-protests-the-government-of-iraq-shuts-down-10-television-stations-including-al-jazeera-accusing-them-of-encouraging-the-s.md) _2017-08-27 03:38:43 (Update)_
+1. [2012-13 Iraqi protests:The government of Iraq shuts down 10 television stations including Al Jazeera, accusing them of encouraging the sectarian violence by Sunni muslims in the country. ](/news/2013/04/29/2012a13-iraqi-protests-pthe-government-of-iraq-shuts-down-10-television-stations-including-al-jazeera-accusing-them-of-encouraging-the-se.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-13 Iraqi protests:: The government of Iraq shuts down 10 television stations including Al Jazeera, accusing them of encouraging the sectarian violence by Sunni muslims in the country. ](/news/2013/04/29/2012-13-iraqi-protests-the-government-of-iraq-shuts-down-10-television-stations-including-al-jazeera-accusing-them-of-encouraging-the-s.md) _2018-02-06 13:49:24 (Update)_
 2. [The government of Iraq shuts down 10 television stations including Al Jazeera, accusing them of encouraging the sectarian violence by Sunni muslims in the country. ](/news/2013/04/29/the-government-of-iraq-shuts-down-10-television-stations-including-al-jazeera-accusing-them-of-encouraging-the-sectarian-violence-by-sunni.md) _(Current version)_
 
 ### Related:

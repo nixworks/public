@@ -19,8 +19,8 @@ Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian 
 
 ### Changes:
 
-1. [Syrian civil war:U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-pu-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2017-08-25 03:36:15 (First version)_
-2. [Syrian civil war:: U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2017-08-27 03:36:26 (Update)_
+1. [Syrian civil war:: U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-pu-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2018-02-06 13:49:23 (Update)_
 2. [U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _(Current version)_
 
 ### Related:

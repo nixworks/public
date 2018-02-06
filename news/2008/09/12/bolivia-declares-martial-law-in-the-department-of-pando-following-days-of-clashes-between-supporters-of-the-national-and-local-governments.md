@@ -18,7 +18,7 @@ Formats: [HTML](/news/2008/09/12/bolivia-declares-martial-law-in-the-department-
 
 ### Changes:
 
-1. [ 2008 unrest in Bolivia: Bolivia declares martial law in the department of Pando following days of clashes between supporters of the national and local governments. ](/news/2008/09/12/2008-unrest-in-bolivia-bolivia-declares-martial-law-in-the-department-of-pando-following-days-of-clashes-between-supporters-of-the-nationa.md) _2017-08-27 03:22:44 (First version)_
+1. [ 2008 unrest in Bolivia: Bolivia declares martial law in the department of Pando following days of clashes between supporters of the national and local governments. ](/news/2008/09/12/2008-unrest-in-bolivia-bolivia-declares-martial-law-in-the-department-of-pando-following-days-of-clashes-between-supporters-of-the-nationa.md) _2018-02-06 13:49:18 (First version)_
 1. [ Bolivia declares martial law in the department of Pando following days of clashes between supporters of the national and local governments. ](/news/2008/09/12/bolivia-declares-martial-law-in-the-department-of-pando-following-days-of-clashes-between-supporters-of-the-national-and-local-governments.md) _(Current version)_
 
 ### Related:

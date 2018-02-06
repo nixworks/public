@@ -16,8 +16,8 @@ Syrian soldiers have raised the national flag on the battlements of a 900-year-o
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-civil-war-psyrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortre.md) _2017-08-25 03:40:11 (First version)_
-2. [Syrian Civil War:: Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-civil-war-syrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortre.md) _2017-08-27 03:40:29 (Update)_
+1. [Syrian Civil War:: Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-civil-war-syrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortre.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-civil-war-psyrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortre.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortress-since-january.md) _(Current version)_
 
 ### Related:

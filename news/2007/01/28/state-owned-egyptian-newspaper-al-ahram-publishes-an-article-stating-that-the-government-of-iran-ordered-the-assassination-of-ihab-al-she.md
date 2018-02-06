@@ -16,7 +16,7 @@ Attributed to anonymous sources and denied by the foreign ministries of both Egy
 
 ### Changes:
 
-1. [ State-owned Egyptian newspaper ''Al Ahram'' publishes an article stating that the Government of Iran ordered the assassination of Ihab al-Sherif, Egypt's ambassador to Iraq, in July 2005 in an effort to limit Egypt's influence in the region. ](/news/2007/01/28/state-owned-egyptian-newspaper-al-ahram-publishes-an-article-stating-that-the-government-of-iran-ordered-the-assassination-of-ihab-al-s.md) _2017-08-25 03:19:05 (First version)_
+1. [ State-owned Egyptian newspaper ''Al Ahram'' publishes an article stating that the Government of Iran ordered the assassination of Ihab al-Sherif, Egypt's ambassador to Iraq, in July 2005 in an effort to limit Egypt's influence in the region. ](/news/2007/01/28/state-owned-egyptian-newspaper-al-ahram-publishes-an-article-stating-that-the-government-of-iran-ordered-the-assassination-of-ihab-al-s.md) _2018-02-06 13:49:17 (First version)_
 1. [ State-owned Egyptian newspaper "Al Ahram" publishes an article stating that the Government of Iran ordered the assassination of Ihab al-Sherif, Egypt's ambassador to Iraq, in July 2005 in an effort to limit Egypt's influence in the region. ](/news/2007/01/28/state-owned-egyptian-newspaper-al-ahram-publishes-an-article-stating-that-the-government-of-iran-ordered-the-assassination-of-ihab-al-she.md) _(Current version)_
 
 ### Related:

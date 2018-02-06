@@ -16,8 +16,8 @@ Researchers mapping the sea floor off Victoria have uncovered the rusting wreck 
 
 ### Changes:
 
-1. [ The United States' World War II motor ship {{MS|City of Rayville||2}} is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-ms-city-of-rayville-2-is-located-near-australia.md) _2017-05-01 03:25:23 (First version)_
-2. [ The United States' World War II motor ship City of Rayville||2 is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-2-is-located-near-australia.md) _2017-08-29 03:24:21 (Update)_
+1. [ The United States' World War II motor ship {{MS|City of Rayville||2}} is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-ms-city-of-rayville-2-is-located-near-australia.md) _2018-02-06 13:49:18 (First version)_
+2. [ The United States' World War II motor ship City of Rayville||2 is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-2-is-located-near-australia.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States' World War II motor ship City of Rayville is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-is-located-near-australia.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-a
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001apresent-pa-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _2017-08-25 03:38:46 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001-present-a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _2017-08-27 03:38:59 (Update)_
+1. [War in Afghanistan (2001-present):A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001apresent-pa-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001-present-a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md) _(Current version)_
 
 ### Related:

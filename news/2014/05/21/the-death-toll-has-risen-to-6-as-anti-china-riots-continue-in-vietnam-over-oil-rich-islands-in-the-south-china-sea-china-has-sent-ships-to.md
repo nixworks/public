@@ -16,8 +16,8 @@ Metallurgical Corp of China Ltd (MCC) said on Wednesday four of its employees wo
 
 ### Changes:
 
-1. [2014 Vietnam anti-China protests:The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/2014-vietnam-anti-china-protests-pthe-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south-c.md) _2017-08-25 03:40:26 (First version)_
-2. [2014 Vietnam anti-China protests:: The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/2014-vietnam-anti-china-protests-the-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south.md) _2017-08-27 03:40:43 (Update)_
+1. [2014 Vietnam anti-China protests:: The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/2014-vietnam-anti-china-protests-the-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Vietnam anti-China protests:The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/2014-vietnam-anti-china-protests-pthe-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south-c.md) _2018-02-06 13:49:26 (Update)_
 2. [The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/the-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south-china-sea-china-has-sent-ships-to.md) _(Current version)_
 
 ### Related:

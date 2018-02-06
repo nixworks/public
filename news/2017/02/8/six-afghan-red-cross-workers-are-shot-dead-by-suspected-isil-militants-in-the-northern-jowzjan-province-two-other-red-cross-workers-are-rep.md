@@ -16,7 +16,7 @@ The International Committee of the Red Cross says it is putting its work in Afgh
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Six Afghan Red Cross workers are shot dead by suspected ISIL militants in the northern Jowzjan Province. Two other Red Cross workers are reportedly abducted. ](/news/2017/02/8/war-in-afghanistan-2015-present-six-afghan-red-cross-workers-are-shot-dead-by-suspected-isil-militants-in-the-northern-jowzjan-province.md) _2017-08-27 03:47:47 (First version)_
+1. [War in Afghanistan (2015-present): Six Afghan Red Cross workers are shot dead by suspected ISIL militants in the northern Jowzjan Province. Two other Red Cross workers are reportedly abducted. ](/news/2017/02/8/war-in-afghanistan-2015-present-six-afghan-red-cross-workers-are-shot-dead-by-suspected-isil-militants-in-the-northern-jowzjan-province.md) _2018-02-06 13:49:30 (First version)_
 1. [Six Afghan Red Cross workers are shot dead by suspected ISIL militants in the northern Jowzjan Province. Two other Red Cross workers are reportedly abducted. ](/news/2017/02/8/six-afghan-red-cross-workers-are-shot-dead-by-suspected-isil-militants-in-the-northern-jowzjan-province-two-other-red-cross-workers-are-rep.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ SEOUL, South Korea (AP) — South Korea and the United States began annual milit
 
 ### Changes:
 
-1. [North Korea-South Korea relations: South Korea and the United States start annual military drills despite North Korea's threats of nuclear attacks. ](/news/2016/08/22/north-korea-south-korea-relations-south-korea-and-the-united-states-start-annual-military-drills-despite-north-korea-s-threats-of-nuclear.md) _2017-08-27 03:46:41 (First version)_
+1. [North Korea-South Korea relations: South Korea and the United States start annual military drills despite North Korea's threats of nuclear attacks. ](/news/2016/08/22/north-korea-south-korea-relations-south-korea-and-the-united-states-start-annual-military-drills-despite-north-korea-s-threats-of-nuclear.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korea and the United States start annual military drills despite North Korea's threats of nuclear attacks. ](/news/2016/08/22/south-korea-and-the-united-states-start-annual-military-drills-despite-north-korea-s-threats-of-nuclear-attacks.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/02/8/a-bomb-at-a-market-kills-16-people-and-wounds-27
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-pa-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md) _2017-08-25 03:37:28 (First version)_
-2. [War in North-West Pakistan:: A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-a-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md) _2017-08-27 03:37:39 (Update)_
+1. [War in North-West Pakistan:A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-pa-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-a-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/a-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md) _(Current version)_
 
 ### Related:

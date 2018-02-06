@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/12/index.html)  [JSON](2010/02/12/index.json)  [XML](201
 
 ##### Ban Ki-moon
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Japan, South Korea, Six-Party Talks, Ban Ki-moon, China, DPRK, United States, Russia_
+_Context: DPRK, China, South Korea, Ban Ki-moon, United States, Japan, Russia, Six-Party Talks_
 
 ##### Mtwapa
 ### [Police in Mtwapa arrest five men accused of being homosexuals, two of whom had wedding rings and were attempting to marry in a first for Kenya. ](/news/2010/02/12/police-in-mtwapa-arrest-five-men-accused-of-being-homosexuals-two-of-whom-had-wedding-rings-and-were-attempting-to-marry-in-a-first-for-ken.md)
@@ -21,11 +21,11 @@ _Context: Russia, Ingushetia_
 
 ##### Togo
 ### [Togo appeal to the Court of Arbitration for Sport over their ban from the next two Africa Cup of Nations in the aftermath of the Togo national football team attack. ](/news/2010/02/12/togo-appeal-to-the-court-of-arbitration-for-sport-over-their-ban-from-the-next-two-africa-cup-of-nations-in-the-aftermath-of-the-togo-nation.md)
-_Context: Court of Arbitration for Sport, Togo, Togo national football team attack, Africa Cup of Nations_
+_Context: Africa Cup of Nations, Togo, Court of Arbitration for Sport, Togo national football team attack_
 
 ##### Mexico
 ### [Mexican President Felipe Caldern's visit to a community centre in Ciudad Jurez where 13 teenagers and two adults were shot dead at a school party on 31 January is disrupted by murders, riot police and dozens of protesters. ](/news/2010/02/12/mexican-president-felipe-calderon-s-visit-to-a-community-centre-in-ciudad-juarez-where-13-teenagers-and-two-adults-were-shot-dead-at-a-schoo.md)
-_Context: Mexico, Felipe Caldern, President, Juarez_
+_Context: Felipe Caldern, President, Juarez, Mexico_
 
 ##### shooting
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
@@ -41,7 +41,7 @@ A U.S. high-powered airbornelaser weapon shot down a ballistic missile in the fi
 
 ##### Thailand
 ### [Thailand deports the five-man crew detained in the country since December after transporting weapons from North Korea. ](/news/2010/02/12/thailand-deports-the-five-man-crew-detained-in-the-country-since-december-after-transporting-weapons-from-north-korea.md)
-_Context: Thailand, North Korea_
+_Context: North Korea, Thailand_
 
 ##### Iraq
 ### [Campaigning for Iraq's parliamentary election begins. ](/news/2010/02/12/campaigning-for-iraq-s-parliamentary-election-begins.md)
@@ -61,7 +61,7 @@ Senior General says elections to proceed this year but gives no specific dates.
 
 ##### China
 ### [Chinese human rights activist Feng Zhenghu, stranded at Japan's Narita International Airport after being refused entry to China for three months, returns home. ](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.md)
-_Context: China, Japan, Feng Zhenghu, Narita International Airport_
+_Context: Japan, China, Feng Zhenghu, Narita International Airport_
 
 ## [Previous Day...](/news/2010/02/11/index.md)
 

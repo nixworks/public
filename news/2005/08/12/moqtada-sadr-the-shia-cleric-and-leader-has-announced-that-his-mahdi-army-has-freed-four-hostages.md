@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/08/12/moqtada-sadr-the-shia-cleric-and-leader-has-ann
 
 ### Changes:
 
-1. [ Iraq War: Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/iraq-war-moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md) _2017-08-27 03:16:41 (First version)_
+1. [ Iraq War: Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/iraq-war-moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md) _2018-02-06 13:49:16 (First version)_
 1. [ Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md) _(Current version)_
 
 ### Related:

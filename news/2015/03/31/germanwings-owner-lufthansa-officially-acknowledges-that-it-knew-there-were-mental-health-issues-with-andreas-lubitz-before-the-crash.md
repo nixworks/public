@@ -17,8 +17,8 @@ The company said Andreas Lubitz, thought to have intentionally crashed a Germanw
 
 ### Changes:
 
-1. [Germanwings Flight 9525:Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-flight-9525-pgermanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubi.md) _2017-08-25 03:41:49 (First version)_
-2. [Germanwings Flight 9525:: Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-flight-9525-germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lub.md) _2017-08-27 03:42:08 (Update)_
+1. [Germanwings Flight 9525:Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-flight-9525-pgermanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubi.md) _2018-02-06 13:49:27 (First version)_
+2. [Germanwings Flight 9525:: Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-flight-9525-germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lub.md) _2018-02-06 13:49:27 (Update)_
 2. [Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubitz-before-the-crash.md) _(Current version)_
 
 ### Related:

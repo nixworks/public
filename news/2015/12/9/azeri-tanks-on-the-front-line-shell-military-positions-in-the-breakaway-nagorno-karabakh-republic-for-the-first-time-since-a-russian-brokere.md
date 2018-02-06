@@ -16,7 +16,7 @@ Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karaba
 
 ### Changes:
 
-1. [Nagorno-Karabakh conflict: Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/nagorno-karabakh-conflict-azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-t.md) _2017-08-27 03:44:17 (First version)_
+1. [Nagorno-Karabakh conflict: Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/nagorno-karabakh-conflict-azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.md) _(Current version)_
 
 ### Related:

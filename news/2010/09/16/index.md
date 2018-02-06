@@ -13,7 +13,7 @@ _Context: United Nations, AMISOM_
 
 ##### Taliban
 ### [The Taliban kidnaps 18 election officials and campaign workers for the Afghan parliamentary election in Badghis Province, Afghanistan. ](/news/2010/09/16/the-taliban-kidnaps-18-election-officials-and-campaign-workers-for-the-afghan-parliamentary-election-in-badghis-province-afghanistan.md)
-_Context: parliamentary election, Badghis Province, Taliban, Afghanistan_
+_Context: parliamentary election, Afghanistan, Badghis Province, Taliban_
 
 #####  home repossession
 ### [American banks set a new record for the home repossession rate, with 1.2 million homes this year. Another 3.2 million American homes remain in foreclosure proceedings currently.](/news/2010/09/16/american-banks-set-a-new-record-for-the-home-repossession-rate-with-1-2-million-homes-this-year-another-3-2-million-american-homes-remain.md)
@@ -29,11 +29,11 @@ The U.S. poverty rate rose to 14.3 percent in 2009 from 13.2 percent the year be
 
 ##### Transocean
 ### [Transocean, the company that leased the Deepwater Horizon oil rig, accuses BP of covering up data about the explosion and subsequent oil spill. ](/news/2010/09/16/transocean-the-company-that-leased-the-deepwater-horizon-oil-rig-accuses-bp-of-covering-up-data-about-the-explosion-and-subsequent-oil-spi.md)
-_Context: explosion, Deepwater Horizon, Deepwater Horizon oil spill, Transocean, BP, oil rig_
+_Context: Deepwater Horizon, Deepwater Horizon oil spill, oil rig, BP, Transocean, explosion_
 
 ##### BP
 ### [BP's first relief well intersects with its Gulf of Mexico Macondo well prior to pumping heavy mud and cement to seal permanently the oil reservoir adjacent to the well. ](/news/2010/09/16/bp-s-first-relief-well-intersects-with-its-gulf-of-mexico-macondo-well-prior-to-pumping-heavy-mud-and-cement-to-seal-permanently-the-oil-res.md)
-_Context: Gulf of Mexico, Macondo well, BP_
+_Context: BP, Macondo well, Gulf of Mexico_
 
 ##### state of emergency
 ### [The state of emergency in Christchurch, New Zealand, following the 2010 Canterbury earthquake is lifted. ](/news/2010/09/16/the-state-of-emergency-in-christchurch-new-zealand-following-the-2010-canterbury-earthquake-is-lifted.md)
@@ -45,7 +45,7 @@ _Context: New York City, Flushing, Macroburst_
 
 ##### 2010 Atlantic hurricane season
 ### [Hurricane Karl becomes a Category 2 hurricane as it heads across Mexico's offshore oil wells in the Gulf of Mexico. ](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.md)
-_Context: 2010 Atlantic hurricane season, Gulf of Mexico, hurricane, Mexico_
+_Context: 2010 Atlantic hurricane season, Gulf of Mexico, Mexico, hurricane_
 
 ##### Iran
 ### [Iranian state television allegedly airs an interview with Sakineh Mohammadi Ashtiani claiming that she has not been tortured. ](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.md)
@@ -53,15 +53,15 @@ Iranian TV airs what it says is an interview with Sakineh Mohammadi Ashtiani, wh
 
 ##### United Nations
 ### [The United Nations-backed Extraordinary Chambers in the Courts of Cambodia indict four Khmer Rouge leaders for genocide, war crimes and crimes against humanity for their role in the regime in the late 1970s, including Pol Pot's deputy Nuon Chea, former Foreign Minister Ieng Sary, Social Affairs minister Ieng Thirith and head of state Khieu Samphan. ](/news/2010/09/16/the-united-nations-backed-extraordinary-chambers-in-the-courts-of-cambodia-indict-four-khmer-rouge-leaders-for-genocide-war-crimes-and-crim.md)
-_Context: Ieng Thirith, Pol Pot, Nuon Chea, Khieu Samphan, United Nations, Extraordinary Chambers in the Courts of Cambodia, Khmer Rouge, genocide, Ieng Sary, war crimes_
+_Context: genocide, Pol Pot, United Nations, Khieu Samphan, Ieng Sary, Khmer Rouge, Nuon Chea, war crimes, Ieng Thirith, Extraordinary Chambers in the Courts of Cambodia_
 
 ##### Imran Farooq
 ### [Dr Imran Farooq, an exiled leader of Pakistan's Muttahida Qaumi Movement (MQM) is murdered in the North London suburb of Edgware, England leading to schools and shops being closed in Farooq's home city of Karachi. ](/news/2010/09/16/dr-imran-farooq-an-exiled-leader-of-pakistan-s-muttahida-qaumi-movement-mqm-is-murdered-in-the-north-london-suburb-of-edgware-england-le.md)
-_Context: Karachi, Muttahida Qaumi Movement, Imran Farooq, London, England, Pakistan, Edgware_
+_Context: England, Muttahida Qaumi Movement, Pakistan, Edgware, Karachi, Imran Farooq, London_
 
 ##### Burma
 ### [Burma bars several areas of the country from taking part in the upcoming general election where the vote would "not be free and fair". ](/news/2010/09/16/burma-bars-several-areas-of-the-country-from-taking-part-in-the-upcoming-general-election-where-the-vote-would-not-be-free-and-fair.md)
-_Context: Burma, general elections_
+_Context: general elections, Burma_
 
 ##### Mexico
 ### [Mexico celebrates 200 years of independence from Spain. ](/news/2010/09/16/mexico-celebrates-200-years-of-independence-from-spain.md)

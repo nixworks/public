@@ -18,7 +18,7 @@ The speech also marks 12 years since Obama was introduced to the national stage.
 
 ### Changes:
 
-1. [2016 Democratic National Convention: U.S. President Barack Obama's advocates for Hillary Clinton stating there has never been anyone more qualified than Hillary to serve as president. ](/news/2016/07/27/2016-democratic-national-convention-u-s-president-barack-obama-s-advocates-for-hillary-clinton-stating-there-has-never-been-anyone-more-qu.md) _2017-08-27 03:46:33 (First version)_
+1. [2016 Democratic National Convention: U.S. President Barack Obama's advocates for Hillary Clinton stating there has never been anyone more qualified than Hillary to serve as president. ](/news/2016/07/27/2016-democratic-national-convention-u-s-president-barack-obama-s-advocates-for-hillary-clinton-stating-there-has-never-been-anyone-more-qu.md) _2018-02-06 13:49:29 (First version)_
 1. [U.S. President Barack Obama's advocates for Hillary Clinton stating there has never been anyone more qualified than Hillary to serve as president. ](/news/2016/07/27/u-s-president-barack-obama-s-advocates-for-hillary-clinton-stating-there-has-never-been-anyone-more-qualified-than-hillary-to-serve-as-pres.md) _(Current version)_
 
 ### Related:

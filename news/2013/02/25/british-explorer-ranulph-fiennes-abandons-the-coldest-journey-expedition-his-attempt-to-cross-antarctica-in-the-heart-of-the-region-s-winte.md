@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-c
 
 ### [2013-02-25](/news/2013/02/25/index.md)
 
-##### British
+##### United Kingdom
 # British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. 
 
 Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica hailed as the last great polar challenge because of severe frostbite.
@@ -19,8 +19,8 @@ Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica 
 
 ### Related:
 
-1. [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md) _Context: Antarctica, British_
-2. [British explorer Henry Worsley dies at the age of 55 while attempting to be the first person to cross Antarctica unaided. ](/news/2016/01/25/british-explorer-henry-worsley-dies-at-the-age-of-55-while-attempting-to-be-the-first-person-to-cross-antarctica-unaided.md) _Context: Antarctica, British_
-3. [A British research team launches a long-awaited project to hunt for life in Lake Ellsworth hidden beneath the ice-sheet in Antarctica. ](/news/2012/12/12/a-british-research-team-launches-a-long-awaited-project-to-hunt-for-life-in-lake-ellsworth-hidden-beneath-the-ice-sheet-in-antarctica.md) _Context: Antarctica, British_
-4. [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md) _Context: Antarctica, British_
-5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+1. [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md) _Context: Antarctica, United Kingdom_
+2. [British explorer Henry Worsley dies at the age of 55 while attempting to be the first person to cross Antarctica unaided. ](/news/2016/01/25/british-explorer-henry-worsley-dies-at-the-age-of-55-while-attempting-to-be-the-first-person-to-cross-antarctica-unaided.md) _Context: Antarctica, United Kingdom_
+3. [A British research team launches a long-awaited project to hunt for life in Lake Ellsworth hidden beneath the ice-sheet in Antarctica. ](/news/2012/12/12/a-british-research-team-launches-a-long-awaited-project-to-hunt-for-life-in-lake-ellsworth-hidden-beneath-the-ice-sheet-in-antarctica.md) _Context: Antarctica, United Kingdom_
+4. [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md) _Context: Antarctica, United Kingdom_
+5. [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md) _Context: United Kingdom_

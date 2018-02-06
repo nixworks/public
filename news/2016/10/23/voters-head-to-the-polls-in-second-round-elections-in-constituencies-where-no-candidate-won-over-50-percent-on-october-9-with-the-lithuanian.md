@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/10/23/voters-head-to-the-polls-in-second-round-electi
 
 ### Changes:
 
-1. [Lithuanian parliamentary election, 2016: Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/lithuanian-parliamentary-election-2016-voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50.md) _2017-08-27 03:47:07 (First version)_
+1. [Lithuanian parliamentary election, 2016: Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/lithuanian-parliamentary-election-2016-voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md) _(Current version)_
 
 ### Related:

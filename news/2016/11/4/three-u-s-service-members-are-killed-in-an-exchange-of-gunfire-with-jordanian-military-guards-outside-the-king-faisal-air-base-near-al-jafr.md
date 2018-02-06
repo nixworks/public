@@ -16,7 +16,7 @@ Jordanian army says car failed to stop at gate of airbase in al-Jafr, leading to
 
 ### Changes:
 
-1. [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jaf.md) _2017-08-25 03:46:45 (First version)_
+1. [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jaf.md) _2018-02-06 13:49:29 (First version)_
 1. [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jafr.md) _(Current version)_
 
 ### Related:

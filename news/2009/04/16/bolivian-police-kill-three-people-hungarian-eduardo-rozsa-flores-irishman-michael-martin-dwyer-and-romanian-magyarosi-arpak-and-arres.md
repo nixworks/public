@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-edu
 
 ### Changes:
 
-1. [ Bolivian police kill three people - Hungarian Eduardo Rzsa-Flores, Irishman Michael Dwyer, and Romanian Magyarosi Arpak - and arrest two others over an alleged plot to assassinate President Evo Morales and Vice President lvaro Garca Linera. ](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-eduardo-rozsa-flores-irishman-michael-dwyer-and-romanian-magyarosi-arpak-and-arrest-two-o.md) _2017-06-06 03:25:18 (First version)_
+1. [ Bolivian police kill three people - Hungarian Eduardo Rzsa-Flores, Irishman Michael Dwyer, and Romanian Magyarosi Arpak - and arrest two others over an alleged plot to assassinate President Evo Morales and Vice President lvaro Garca Linera. ](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-eduardo-rozsa-flores-irishman-michael-dwyer-and-romanian-magyarosi-arpak-and-arrest-two-o.md) _2018-02-06 13:49:18 (First version)_
 1. [ Bolivian police kill three people - Hungarian Eduardo Rzsa-Flores, Irishman Michael Martin Dwyer, and Romanian Magyarosi Arpak - and arrest two others over an alleged plot to assassinate President Evo Morales and Vice President lvaro Garca Linera. ](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-eduardo-rozsa-flores-irishman-michael-martin-dwyer-and-romanian-magyarosi-arpak-and-arres.md) _(Current version)_
 
 ### Related:

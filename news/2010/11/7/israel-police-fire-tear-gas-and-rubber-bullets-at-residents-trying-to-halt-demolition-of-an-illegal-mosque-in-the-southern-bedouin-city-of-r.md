@@ -17,7 +17,7 @@ Action in Arab town in Negev, following a court order, prompts protest call by M
 
 ### Changes:
 
-1. [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of.md) _2017-08-25 03:30:54 (First version)_
+1. [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of.md) _2018-02-06 13:49:21 (First version)_
 1. [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of-r.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): A largely ineffective 48-hour ceasefire comes to a head as both sides violate the terms of the armistice and continue clashing. At least 35 are killed, including 4 civilians. ](/news/2016/11/21/yemeni-civil-war-2015-present-a-largely-ineffective-48-hour-ceasefire-comes-to-a-head-as-both-sides-violate-the-terms-of-the-armistice.md) _2017-08-27 03:47:16 (First version)_
+1. [Yemeni Civil War (2015-present): A largely ineffective 48-hour ceasefire comes to a head as both sides violate the terms of the armistice and continue clashing. At least 35 are killed, including 4 civilians. ](/news/2016/11/21/yemeni-civil-war-2015-present-a-largely-ineffective-48-hour-ceasefire-comes-to-a-head-as-both-sides-violate-the-terms-of-the-armistice.md) _2018-02-06 13:49:29 (First version)_
 1. [ A largely ineffective 48-hour ceasefire comes to a head as both sides violate the terms of the armistice and continue clashing. At least 35 are killed, including 4 civilians. ](/news/2016/11/21/a-largely-ineffective-48-hour-ceasefire-comes-to-a-head-as-both-sides-violate-the-terms-of-the-armistice-and-continue-clashing-at-least-35.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/08/29/russia-calls-for-a-joint-united-nations-arab-le
 
 ### Changes:
 
-1. [Syrian civil war:Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-prussia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md) _2017-08-25 03:36:22 (First version)_
-2. [Syrian civil war:: Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md) _2017-08-27 03:36:33 (Update)_
+1. [Syrian civil war:: Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-prussia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md) _2018-02-06 13:49:23 (Update)_
 2. [Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md) _(Current version)_
 
 ### Related:

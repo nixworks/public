@@ -16,7 +16,7 @@ The evacuation breakdown came a day after more than 8,000 people from eastern Al
 
 ### Changes:
 
-1. [ Aleppo offensive (November-December 2016): Evacuations following the failed ceasefire are once again disrupted by the Syrian forces for reasons withheld. An estimate of 8000 people, mostly civilians, successfully fled the remains of the city. ](/news/2016/12/16/aleppo-offensive-november-december-2016-evacuations-following-the-failed-ceasefire-are-once-again-disrupted-by-the-syrian-forces-for-r.md) _2017-08-27 03:47:27 (First version)_
+1. [ Aleppo offensive (November-December 2016): Evacuations following the failed ceasefire are once again disrupted by the Syrian forces for reasons withheld. An estimate of 8000 people, mostly civilians, successfully fled the remains of the city. ](/news/2016/12/16/aleppo-offensive-november-december-2016-evacuations-following-the-failed-ceasefire-are-once-again-disrupted-by-the-syrian-forces-for-r.md) _2018-02-06 13:49:29 (First version)_
 1. [ Evacuations following the failed ceasefire are once again disrupted by the Syrian forces for reasons withheld. An estimate of 8000 people, mostly civilians, successfully fled the remains of the city. ](/news/2016/12/16/evacuations-following-the-failed-ceasefire-are-once-again-disrupted-by-the-syrian-forces-for-reasons-withheld-an-estimate-of-8000-people.md) _(Current version)_
 
 ### Related:

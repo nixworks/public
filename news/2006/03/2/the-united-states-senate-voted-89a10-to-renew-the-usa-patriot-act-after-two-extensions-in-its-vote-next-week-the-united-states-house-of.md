@@ -16,7 +16,7 @@ With the Senate voting Thursday to renew the USA Patriot Act on Thursday, the me
 
 ### Changes:
 
-1. [ The United States Senate voted 89-10 to renew the USA PATRIOT Act after two extensions. In its vote next week, the United States House of Representatives will likely also vote to renew the Act, analysts say. ](/news/2006/03/2/the-united-states-senate-voted-89-10-to-renew-the-usa-patriot-act-after-two-extensions-in-its-vote-next-week-the-united-states-house-of.md) _2017-08-27 03:17:29 (First version)_
+1. [ The United States Senate voted 89-10 to renew the USA PATRIOT Act after two extensions. In its vote next week, the United States House of Representatives will likely also vote to renew the Act, analysts say. ](/news/2006/03/2/the-united-states-senate-voted-89-10-to-renew-the-usa-patriot-act-after-two-extensions-in-its-vote-next-week-the-united-states-house-of.md) _2018-02-06 13:49:17 (First version)_
 1. [ The United States Senate voted 89-10 to renew the USA PATRIOT Act after two extensions. In its vote next week, the United States House of Representatives will likely also vote to renew the Act, analysts say. ](/news/2006/03/2/the-united-states-senate-voted-89a10-to-renew-the-usa-patriot-act-after-two-extensions-in-its-vote-next-week-the-united-states-house-of.md) _(Current version)_
 
 ### Related:

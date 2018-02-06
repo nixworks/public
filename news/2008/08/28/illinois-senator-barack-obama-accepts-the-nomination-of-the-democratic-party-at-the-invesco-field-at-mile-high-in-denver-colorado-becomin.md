@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/08/28/illinois-senator-barack-obama-accepts-the-nomin
 
 ### Changes:
 
-1. [ U.S. presidential election: Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/u-s-presidential-election-illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high.md) _2017-08-25 03:22:47 (First version)_
+1. [ U.S. presidential election: Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/u-s-presidential-election-illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high.md) _2018-02-06 13:49:18 (First version)_
 1. [ Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high-in-denver-colorado-becomin.md) _(Current version)_
 
 ### Related:

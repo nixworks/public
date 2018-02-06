@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/07/9/the-government-of-the-philippines-demands-its-cr
 
 ### Changes:
 
-1. [Human rights in the Philippines: The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/human-rights-in-the-philippines-the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations.md) _2017-08-27 03:46:27 (First version)_
+1. [Human rights in the Philippines: The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/human-rights-in-the-philippines-the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations.md) _2018-02-06 13:49:29 (First version)_
 1. [The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations-conducted-during-its-drug-war.md) _(Current version)_
 
 ### Related:

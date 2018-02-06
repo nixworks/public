@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/01/27/thousands-continue-protesting-in-tunisia-callin
 
 ### Changes:
 
-1. [2010-2011 Tunisian uprising:Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010a2011-tunisian-uprising-pthousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-ben.md) _2017-08-25 03:31:56 (First version)_
-2. [2010-2011 Tunisian uprising:: Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010-2011-tunisian-uprising-thousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-be.md) _2017-08-27 03:32:04 (Update)_
+1. [2010-2011 Tunisian uprising:Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010a2011-tunisian-uprising-pthousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-ben.md) _2018-02-06 13:49:21 (First version)_
+2. [2010-2011 Tunisian uprising:: Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010-2011-tunisian-uprising-thousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-be.md) _2018-02-06 13:49:21 (Update)_
 2. [Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/thousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-ben-ali-s-regime-to-leave-the-inte.md) _(Current version)_
 
 ### Related:

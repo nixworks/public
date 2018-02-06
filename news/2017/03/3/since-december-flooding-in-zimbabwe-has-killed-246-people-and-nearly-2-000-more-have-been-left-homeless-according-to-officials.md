@@ -15,7 +15,7 @@ Officials declare national disaster and appeal to international donors for $100m
 
 ### Changes:
 
-1. [2016-17 Zimbabwe floods: Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/2016-17-zimbabwe-floods-since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-accordi.md) _2017-08-27 03:47:56 (First version)_
+1. [2016-17 Zimbabwe floods: Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/2016-17-zimbabwe-floods-since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-accordi.md) _2018-02-06 13:49:30 (First version)_
 1. [Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-according-to-officials.md) _(Current version)_
 
 ### Related:

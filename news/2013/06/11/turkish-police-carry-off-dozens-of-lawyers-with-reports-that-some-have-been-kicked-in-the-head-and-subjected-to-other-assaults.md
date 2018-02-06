@@ -20,8 +20,8 @@ Turkish police have taken several dozen lawyers into custody for joining the ong
 
 ### Changes:
 
-1. [2013 protests in Turkey:Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-pturkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-ot.md) _2017-08-25 03:38:49 (First version)_
-2. [2013 protests in Turkey:: Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-o.md) _2017-08-27 03:39:02 (Update)_
+1. [2013 protests in Turkey:: Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-o.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 protests in Turkey:Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-pturkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-ot.md) _2018-02-06 13:49:25 (Update)_
 2. [Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-other-assaults.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ At least 31 people have died in an explosion in the capital of China&#39;s weste
 
 ### Changes:
 
-1. [May 2014 Urumqi attack:An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/may-2014-ara1-4mqi-attack-pan-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region.md) _2017-08-25 03:40:26 (First version)_
-2. [May 2014 Urumqi attack:: An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/may-2014-ara1-4mqi-attack-an-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region.md) _2017-08-27 03:40:44 (Update)_
+1. [May 2014 Urumqi attack:An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/may-2014-ara1-4mqi-attack-pan-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region.md) _2018-02-06 13:49:26 (First version)_
+2. [May 2014 Urumqi attack:: An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/may-2014-ara1-4mqi-attack-an-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region.md) _2018-02-06 13:49:26 (Update)_
 2. [An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/an-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region-resulting-in-at-least-31.md) _(Current version)_
 
 ### Related:

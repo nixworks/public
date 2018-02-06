@@ -19,7 +19,7 @@ America&#039;s last World War 1 veteran is farewelled decades after returning to
 
 ### Changes:
 
-1. [The passing of the United States generation that fought in World War I is marked by the funeral of '''Frank Buckles''', who died on 27 February 2011, aged 110, and was buried with full military honors at Arlington National Cemetery. ](/news/2011/03/15/the-passing-of-the-united-states-generation-that-fought-in-world-war-i-is-marked-by-the-funeral-of-frank-buckles-who-died-on-27-febru.md) _2017-08-25 03:32:32 (First version)_
+1. [The passing of the United States generation that fought in World War I is marked by the funeral of '''Frank Buckles''', who died on 27 February 2011, aged 110, and was buried with full military honors at Arlington National Cemetery. ](/news/2011/03/15/the-passing-of-the-united-states-generation-that-fought-in-world-war-i-is-marked-by-the-funeral-of-frank-buckles-who-died-on-27-febru.md) _2018-02-06 13:49:22 (First version)_
 1. [The passing of the United States generation that fought in World War I is marked by the funeral of "'Frank Buckles"', who died on 27 February 2011, aged 110, and was buried with full military honors at Arlington National Cemetery. ](/news/2011/03/15/the-passing-of-the-united-states-generation-that-fought-in-world-war-i-is-marked-by-the-funeral-of-frank-buckles-who-died-on-27-februar.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Hundreds, including journalists, held after deadly clashes between security forc
 
 ### Changes:
 
-1. [At least one person is killed and at least 373 others are wounded when armed forces fire water cannon, tear gas and rocks on demonstrators near Egypt's defence ministry in Cairo. ](/news/2012/05/4/at-least-one-person-is-killed-and-at-least-373-others-are-wounded-when-armed-forces-fire-water-cannon-tear-gas-and-rocks-on-demonstrators.md) _2017-08-25 03:35:37 (First version)_
+1. [At least one person is killed and at least 373 others are wounded when armed forces fire water cannon, tear gas and rocks on demonstrators near Egypt's defence ministry in Cairo. ](/news/2012/05/4/at-least-one-person-is-killed-and-at-least-373-others-are-wounded-when-armed-forces-fire-water-cannon-tear-gas-and-rocks-on-demonstrators.md) _2018-02-06 13:49:23 (First version)_
 1. [At least one person is killed and at least 373 others are wounded when armed forces fire water cannon, tear gas and rocks on demonstrators near Egypt's defence ministry in Cairo. ](/news/2012/05/4/at-least-one-person-is-killed-and-at-least-373-others-are-wounded-when-armed-forces-fire-water-cannon-tear-gas-and-rocks-on-demonstrators-n.md) _(Current version)_
 
 ### Related:

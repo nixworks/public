@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/29/a-car-bomb-explodes-behind-a-military-hospital-
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility. ](/news/2015/06/29/yemeni-crisis-2011-present-a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-s.md) _2017-08-27 03:42:36 (First version)_
+1. [Yemeni Crisis (2011-present): A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility. ](/news/2015/06/29/yemeni-crisis-2011-present-a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-s.md) _2018-02-06 13:49:27 (First version)_
 1. [A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility. ](/news/2015/06/29/a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-state-has-claimed-responsibility.md) _(Current version)_
 
 ### Related:

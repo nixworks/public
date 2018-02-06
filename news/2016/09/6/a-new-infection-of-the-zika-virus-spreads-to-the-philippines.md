@@ -16,7 +16,7 @@ The Philippines confirms its first case of the Zika virus this year and says it 
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: A new infection of the Zika virus spreads to the Philippines. ](/news/2016/09/6/2015-16-zika-virus-epidemic-a-new-infection-of-the-zika-virus-spreads-to-the-philippines.md) _2017-08-27 03:46:47 (First version)_
+1. [2015-16 Zika virus epidemic: A new infection of the Zika virus spreads to the Philippines. ](/news/2016/09/6/2015-16-zika-virus-epidemic-a-new-infection-of-the-zika-virus-spreads-to-the-philippines.md) _2018-02-06 13:49:29 (First version)_
 1. [A new infection of the Zika virus spreads to the Philippines. ](/news/2016/09/6/a-new-infection-of-the-zika-virus-spreads-to-the-philippines.md) _(Current version)_
 
 ### Related:

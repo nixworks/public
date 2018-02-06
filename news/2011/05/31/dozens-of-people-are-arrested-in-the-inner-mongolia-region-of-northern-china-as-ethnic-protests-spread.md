@@ -19,8 +19,8 @@ Chinese authorities Monday arrested dozens of demonstrators in Hohhot as protest
 
 ### Changes:
 
-1. [2011 Xilinhot incident:Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/2011-xilinhot-incident-pdozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md) _2017-08-25 03:33:18 (First version)_
-2. [2011 Xilinhot incident:: Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/2011-xilinhot-incident-dozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md) _2017-08-27 03:33:28 (Update)_
+1. [2011 Xilinhot incident:Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/2011-xilinhot-incident-pdozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Xilinhot incident:: Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/2011-xilinhot-incident-dozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md) _2018-02-06 13:49:22 (Update)_
 2. [Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/dozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md) _(Current version)_
 
 ### Related:

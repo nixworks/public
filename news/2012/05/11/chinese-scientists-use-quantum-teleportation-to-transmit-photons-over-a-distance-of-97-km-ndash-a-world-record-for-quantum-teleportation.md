@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to
 
 ### Changes:
 
-1. [Chinese scientists use quantum teleportation to transmit photons over a distance of {{convert|97|km|mi}} &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-convert-97-km-mi-ndash-a-world-record-for-quantum.md) _2017-05-01 03:38:16 (First version)_
-2. [Chinese scientists use quantum teleportation to transmit photons over a distance of 97|km|mi &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-97-km-mi-ndash-a-world-record-for-quantum-teleportatio.md) _2017-08-29 03:35:42 (Update)_
+1. [Chinese scientists use quantum teleportation to transmit photons over a distance of {{convert|97|km|mi}} &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-convert-97-km-mi-ndash-a-world-record-for-quantum.md) _2018-02-06 13:49:23 (First version)_
+2. [Chinese scientists use quantum teleportation to transmit photons over a distance of 97|km|mi &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-97-km-mi-ndash-a-world-record-for-quantum-teleportatio.md) _2018-02-06 13:49:23 (Update)_
 2. [Chinese scientists use quantum teleportation to transmit photons over a distance of 97 km &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-97-km-ndash-a-world-record-for-quantum-teleportation.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ Formats: [HTML](/news/2011/03/27/the-syrian-army-is-deployed-to-the-country-s-ma
 
 ### Changes:
 
-1. [Arab Spring:The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/arab-spring-pthe-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md) _2017-08-25 03:32:40 (First version)_
-2. [Arab Spring:: 2011 Syrian protests: The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/arab-spring-2011-syrian-protests-the-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md) _2017-08-27 03:32:48 (Update)_
+1. [Arab Spring:The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/arab-spring-pthe-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian protests: The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/arab-spring-2011-syrian-protests-the-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md) _2018-02-06 13:49:22 (Update)_
 2. [The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/the-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md) _(Current version)_
 
 ### Related:

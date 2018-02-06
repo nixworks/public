@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/01/25/the-united-states-describes-the-israeli-commiss
 
 ### Changes:
 
-1. [The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the "primary forum" for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. ](/news/2011/01/25/the-united-states-describes-the-israeli-commission-of-inquiry-into-the-may-2010-gaza-flotilla-raid-as-an-independent-report-credible-and.md) _2017-08-25 03:31:56 (First version)_
+1. [The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the "primary forum" for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. ](/news/2011/01/25/the-united-states-describes-the-israeli-commission-of-inquiry-into-the-may-2010-gaza-flotilla-raid-as-an-independent-report-credible-and.md) _2018-02-06 13:49:21 (First version)_
 1. [The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the "primary forum" for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. ](/news/2011/01/25/the-united-states-describes-the-israeli-commission-of-inquiry-into-the-may-2010-gaza-flotilla-raid-as-an-independent-report-credible-and-i.md) _(Current version)_
 
 ### Related:

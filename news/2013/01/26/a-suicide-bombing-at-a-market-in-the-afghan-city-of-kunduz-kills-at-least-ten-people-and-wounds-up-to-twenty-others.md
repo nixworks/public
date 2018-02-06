@@ -16,8 +16,8 @@ At least 10 people have been killed and many injured in a suicide attack in a bu
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-t.md) _2017-08-25 03:37:21 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to.md) _2017-08-27 03:37:31 (Update)_
+1. [War in Afghanistan (2001-present):A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-t.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-twenty-others.md) _(Current version)_
 
 ### Related:

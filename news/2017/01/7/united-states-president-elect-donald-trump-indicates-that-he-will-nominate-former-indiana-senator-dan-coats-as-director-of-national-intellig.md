@@ -16,7 +16,7 @@ US President-elect Donald Trump names Dan Coats as his national intelligence dir
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/presidential-transition-of-donald-trump-united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-d.md) _2017-08-27 03:47:34 (First version)_
+1. [Presidential transition of Donald Trump: United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/presidential-transition-of-donald-trump-united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-d.md) _2018-02-06 13:49:30 (First version)_
 1. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khalid-el-
 
 ### Changes:
 
-1. [ CIA officials try to get the case of Khaled el-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md) _2017-09-24 03:20:00 (First version)_
+1. [ CIA officials try to get the case of Khaled el-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md) _2018-02-06 13:49:17 (First version)_
 1. [ CIA officials try to get the case of Khalid El-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khalid-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md) _(Current version)_
 
 ### Related:

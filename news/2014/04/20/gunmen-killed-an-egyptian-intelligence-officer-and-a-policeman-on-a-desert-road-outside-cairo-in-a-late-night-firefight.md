@@ -16,8 +16,8 @@ CAIRO (Reuters) - Gunmen killed an Egyptian intelligence officer and a policeman
 
 ### Changes:
 
-1. [Post-coup unrest in Egypt (2013-14):Gunmen killed an Egyptian intelligence officer and a policeman on a desert road outside Cairo in a late-night firefight. ](/news/2014/04/20/post-coup-unrest-in-egypt-2013a14-pgunmen-killed-an-egyptian-intelligence-officer-and-a-policeman-on-a-desert-road-outside-cairo-in-a-la.md) _2017-08-25 03:40:19 (First version)_
-2. [Post-coup unrest in Egypt (2013-14):: Gunmen killed an Egyptian intelligence officer and a policeman on a desert road outside Cairo in a late-night firefight. ](/news/2014/04/20/post-coup-unrest-in-egypt-2013-14-gunmen-killed-an-egyptian-intelligence-officer-and-a-policeman-on-a-desert-road-outside-cairo-in-a-l.md) _2017-08-27 03:40:36 (Update)_
+1. [Post-coup unrest in Egypt (2013-14):Gunmen killed an Egyptian intelligence officer and a policeman on a desert road outside Cairo in a late-night firefight. ](/news/2014/04/20/post-coup-unrest-in-egypt-2013a14-pgunmen-killed-an-egyptian-intelligence-officer-and-a-policeman-on-a-desert-road-outside-cairo-in-a-la.md) _2018-02-06 13:49:26 (First version)_
+2. [Post-coup unrest in Egypt (2013-14):: Gunmen killed an Egyptian intelligence officer and a policeman on a desert road outside Cairo in a late-night firefight. ](/news/2014/04/20/post-coup-unrest-in-egypt-2013-14-gunmen-killed-an-egyptian-intelligence-officer-and-a-policeman-on-a-desert-road-outside-cairo-in-a-l.md) _2018-02-06 13:49:26 (Update)_
 2. [Gunmen killed an Egyptian intelligence officer and a policeman on a desert road outside Cairo in a late-night firefight. ](/news/2014/04/20/gunmen-killed-an-egyptian-intelligence-officer-and-a-policeman-on-a-desert-road-outside-cairo-in-a-late-night-firefight.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Khairalla and Paul Tait
 
 ### Changes:
 
-1. [ Iraq War: Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/iraq-war-p-shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to.md) _2017-08-25 03:19:36 (First version)_
-2. [ Iraq War:: Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/iraq-war-shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to.md) _2017-08-27 03:19:32 (Update)_
+1. [ Iraq War:: Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/iraq-war-shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War: Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/iraq-war-p-shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to.md) _2018-02-06 13:49:17 (Update)_
 2. [ Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to-press-its-d.md) _(Current version)_
 
 ### Related:

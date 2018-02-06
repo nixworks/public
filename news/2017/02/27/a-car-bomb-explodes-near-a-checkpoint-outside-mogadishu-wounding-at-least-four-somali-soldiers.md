@@ -15,7 +15,7 @@ Explosion hits close to army checkpoint after al-Shabab threatens attacks agains
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/war-in-somalia-2009-present-a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md) _2017-08-27 03:47:54 (First version)_
+1. [War in Somalia (2009-present): A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/war-in-somalia-2009-present-a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md) _2018-02-06 13:49:30 (First version)_
 1. [A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-depa
 
 ### Changes:
 
-1. [U.S. commercial TV network NBC announces the departure of Jay Leno from the ''The Tonight Show'' in spring 2014. Leno is to be replaced by Jimmy Fallon, host of ''Late Night with Jimmy Fallon''. ](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-departure-of-jay-leno-from-the-the-tonight-show-in-spring-2014-leno-is-to-be-replaced-by-j.md) _2017-08-25 03:38:09 (First version)_
+1. [U.S. commercial TV network NBC announces the departure of Jay Leno from the ''The Tonight Show'' in spring 2014. Leno is to be replaced by Jimmy Fallon, host of ''Late Night with Jimmy Fallon''. ](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-departure-of-jay-leno-from-the-the-tonight-show-in-spring-2014-leno-is-to-be-replaced-by-j.md) _2018-02-06 13:49:24 (First version)_
 1. [U.S. commercial TV network NBC announces the departure of Jay Leno from the "The Tonight Show" in spring 2014. Leno is to be replaced by Jimmy Fallon, host of "Late Night with Jimmy Fallon". ](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-departure-of-jay-leno-from-the-the-tonight-show-in-spring-2014-leno-is-to-be-replaced-by-jim.md) _(Current version)_
 
 ### Related:

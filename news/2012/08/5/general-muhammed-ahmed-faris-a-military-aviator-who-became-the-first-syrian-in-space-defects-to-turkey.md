@@ -15,6 +15,6 @@ Formats: [HTML](/news/2012/08/5/general-muhammed-ahmed-faris-a-military-aviator-
 
 ### Changes:
 
-1. [Syrian civil war:General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/syrian-civil-war-pgeneral-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md) _2017-08-25 03:36:13 (First version)_
-2. [Syrian civil war:: General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/syrian-civil-war-general-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md) _2017-08-27 03:36:24 (Update)_
+1. [Syrian civil war:General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/syrian-civil-war-pgeneral-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/syrian-civil-war-general-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md) _2018-02-06 13:49:23 (Update)_
 2. [General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/general-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md) _(Current version)_

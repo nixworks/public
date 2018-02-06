@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/01/5/the-male-friend-of-the-delhi-gang-rape-victim-a-
 
 ### Changes:
 
-1. [The male friend of the Delhi gang-rape victim - the only witness in the case - on Friday spoke for the first time in front of the nation and exclusively told Zee News that his friend was "positive" and wanted to live even after the horrific incident that took place on the night of December 16. ](/news/2013/01/5/the-male-friend-of-the-delhi-gang-rape-victim-the-only-witness-in-the-case-on-friday-spoke-for-the-first-time-in-front-of-the-nation.md) _2017-08-27 03:37:23 (First version)_
+1. [The male friend of the Delhi gang-rape victim - the only witness in the case - on Friday spoke for the first time in front of the nation and exclusively told Zee News that his friend was "positive" and wanted to live even after the horrific incident that took place on the night of December 16. ](/news/2013/01/5/the-male-friend-of-the-delhi-gang-rape-victim-the-only-witness-in-the-case-on-friday-spoke-for-the-first-time-in-front-of-the-nation.md) _2018-02-06 13:49:24 (First version)_
 1. [The male friend of the Delhi gang-rape victim - the only witness in the case - on Friday spoke for the first time in front of the nation and exclusively told Zee News that his friend was "positive" and wanted to live even after the horrific incident that took place on the night of December 16. ](/news/2013/01/5/the-male-friend-of-the-delhi-gang-rape-victim-a-the-only-witness-in-the-case-a-on-friday-spoke-for-the-first-time-in-front-of-the-nation.md) _(Current version)_
 
 ### Related:

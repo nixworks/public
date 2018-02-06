@@ -16,7 +16,7 @@ The Italian government on Monday decided to set 4 December as the date of a key 
 
 ### Changes:
 
-1. [Italian constitutional referendum, 2016: The Italian cabinet sets a constitutional reform vote for December 4. ](/news/2016/09/26/italian-constitutional-referendum-2016-the-italian-cabinet-sets-a-constitutional-reform-vote-for-december-4.md) _2017-08-27 03:46:54 (First version)_
+1. [Italian constitutional referendum, 2016: The Italian cabinet sets a constitutional reform vote for December 4. ](/news/2016/09/26/italian-constitutional-referendum-2016-the-italian-cabinet-sets-a-constitutional-reform-vote-for-december-4.md) _2018-02-06 13:49:29 (First version)_
 1. [The Italian cabinet sets a constitutional reform vote for December 4. ](/news/2016/09/26/the-italian-cabinet-sets-a-constitutional-reform-vote-for-december-4.md) _(Current version)_
 
 ### Related:

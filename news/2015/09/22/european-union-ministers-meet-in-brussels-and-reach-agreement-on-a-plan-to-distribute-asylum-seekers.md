@@ -17,7 +17,7 @@ Gathering for their second such session in eight days, the ministers haggled ove
 
 ### Changes:
 
-1. [European migrant crisis: European Union ministers meet in Brussels and reach agreement on a plan to distribute asylum seekers. ](/news/2015/09/22/european-migrant-crisis-european-union-ministers-meet-in-brussels-and-reach-agreement-on-a-plan-to-distribute-asylum-seekers.md) _2017-08-27 03:43:07 (First version)_
+1. [European migrant crisis: European Union ministers meet in Brussels and reach agreement on a plan to distribute asylum seekers. ](/news/2015/09/22/european-migrant-crisis-european-union-ministers-meet-in-brussels-and-reach-agreement-on-a-plan-to-distribute-asylum-seekers.md) _2018-02-06 13:49:27 (First version)_
 1. [European Union ministers meet in Brussels and reach agreement on a plan to distribute asylum seekers. ](/news/2015/09/22/european-union-ministers-meet-in-brussels-and-reach-agreement-on-a-plan-to-distribute-asylum-seekers.md) _(Current version)_
 
 ### Related:

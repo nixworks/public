@@ -17,7 +17,7 @@ A deadly shooting has occurred in the city of Imatra in South-East Finland. Poli
 
 ### Changes:
 
-1. [Imatra shooting: Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. ](/news/2016/12/4/imatra-shooting-three-women-the-imatra-town-council-chairwoman-and-two-local-reporters-are-shot-dead-outside-a-restaurant-in-imatra-finl.md) _2017-08-27 03:47:23 (First version)_
+1. [Imatra shooting: Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. ](/news/2016/12/4/imatra-shooting-three-women-the-imatra-town-council-chairwoman-and-two-local-reporters-are-shot-dead-outside-a-restaurant-in-imatra-finl.md) _2018-02-06 13:49:30 (First version)_
 1. [Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. ](/news/2016/12/4/three-women-the-imatra-town-council-chairwoman-and-two-local-reporters-are-shot-dead-outside-a-restaurant-in-imatra-finland-a-town-east.md) _(Current version)_
 
 ### Related:

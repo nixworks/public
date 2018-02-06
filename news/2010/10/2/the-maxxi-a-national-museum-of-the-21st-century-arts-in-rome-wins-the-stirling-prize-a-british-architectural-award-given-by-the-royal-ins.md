@@ -18,7 +18,7 @@ The British architect Zaha Hadid has finally won the RIBA Stirling Prize on her 
 
 ### Changes:
 
-1. [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md) _2017-08-27 03:30:23 (First version)_
+1. [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md) _2018-02-06 13:49:20 (First version)_
 1. [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-a-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md) _(Current version)_
 
 ### Related:

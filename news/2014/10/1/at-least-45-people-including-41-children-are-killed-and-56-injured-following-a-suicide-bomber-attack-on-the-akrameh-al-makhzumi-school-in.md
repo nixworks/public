@@ -17,8 +17,8 @@ At least 30 Syrian children have been killed in a double bombing by a lone assai
 
 ### Changes:
 
-1. [Syrian civil war:At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-pat-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al-m.md) _2017-08-25 03:41:02 (First version)_
-2. [Syrian civil war:: At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al.md) _2017-08-27 03:41:21 (Update)_
+1. [Syrian civil war:At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-pat-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al-m.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian civil war:: At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al-makhzumi-school-in.md) _(Current version)_
 
 ### Related:

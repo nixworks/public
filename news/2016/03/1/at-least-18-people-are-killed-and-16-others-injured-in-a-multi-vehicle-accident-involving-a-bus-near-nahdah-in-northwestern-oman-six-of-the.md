@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [At least 18 people are killed and 16 others injured in a multi-vehicle accident involving a bus near Nahdah in northwestern Oman. Six of the dead were from Oman, four from Saudi Arabia, two from Pakistan, and one from Yemen. Five others are unidentified. ](/news/2016/03/1/at-least-18-people-are-killed-and-16-others-injured-in-a-multi-vehicle-accident-involving-a-bus-near-nahdah-in-northwestern-oman-six-of-t.md) _2017-08-25 03:44:43 (First version)_
+1. [At least 18 people are killed and 16 others injured in a multi-vehicle accident involving a bus near Nahdah in northwestern Oman. Six of the dead were from Oman, four from Saudi Arabia, two from Pakistan, and one from Yemen. Five others are unidentified. ](/news/2016/03/1/at-least-18-people-are-killed-and-16-others-injured-in-a-multi-vehicle-accident-involving-a-bus-near-nahdah-in-northwestern-oman-six-of-t.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 18 people are killed and 16 others injured in a multi-vehicle accident involving a bus near Nahdah in northwestern Oman. Six of the dead were from Oman, four from Saudi Arabia, two from Pakistan, and one from Yemen. Five others are unidentified. ](/news/2016/03/1/at-least-18-people-are-killed-and-16-others-injured-in-a-multi-vehicle-accident-involving-a-bus-near-nahdah-in-northwestern-oman-six-of-the.md) _(Current version)_
 
 ### Related:

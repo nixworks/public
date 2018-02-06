@@ -17,7 +17,7 @@ SpaceX has finally landed its Falcon 9 rocket on a drone ship at sea, after laun
 
 ### Changes:
 
-1. [SpaceX CRS-8: SpaceX launches a NASA cargo run to the International Space Station, and in a spaceflight first, successfully lands its reusable main-stage booster on an autonomous spaceport drone ship. ](/news/2016/04/8/spacex-crs-8-spacex-launches-a-nasa-cargo-run-to-the-international-space-station-and-in-a-spaceflight-first-successfully-lands-its-reusab.md) _2017-08-27 03:45:31 (First version)_
+1. [SpaceX CRS-8: SpaceX launches a NASA cargo run to the International Space Station, and in a spaceflight first, successfully lands its reusable main-stage booster on an autonomous spaceport drone ship. ](/news/2016/04/8/spacex-crs-8-spacex-launches-a-nasa-cargo-run-to-the-international-space-station-and-in-a-spaceflight-first-successfully-lands-its-reusab.md) _2018-02-06 13:49:29 (First version)_
 1. [SpaceX launches a NASA cargo run to the International Space Station, and in a spaceflight first, successfully lands its reusable main-stage booster on an autonomous spaceport drone ship. ](/news/2016/04/8/spacex-launches-a-nasa-cargo-run-to-the-international-space-station-and-in-a-spaceflight-first-successfully-lands-its-reusable-main-stage.md) _(Current version)_
 
 ### Related:

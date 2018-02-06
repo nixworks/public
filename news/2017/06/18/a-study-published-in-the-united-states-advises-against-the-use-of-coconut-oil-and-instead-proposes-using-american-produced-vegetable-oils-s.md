@@ -18,7 +18,7 @@ Who doesn’t love logging on to the good old ‘net on a Friday morning to the 
 
 ### Changes:
 
-1. [Health in the United States: A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/health-in-the-united-states-a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-americ.md) _2017-08-27 03:48:30 (First version)_
+1. [Health in the United States: A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/health-in-the-united-states-a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-americ.md) _2018-02-06 13:49:30 (First version)_
 1. [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md) _(Current version)_
 
 ### Related:

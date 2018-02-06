@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/04/9/egypt-and-saudi-arabia-reach-an-agreement-on-the
 
 ### Changes:
 
-1. [Egypt-Saudi Arabia relations: Egypt and Saudi Arabia reach an agreement on the disputed islands of Tiran Island and Sanafir Island, placing the formerly Egyptian-administered islands officially under Saudi Arabian sovereignty. ](/news/2016/04/9/egypt-saudi-arabia-relations-egypt-and-saudi-arabia-reach-an-agreement-on-the-disputed-islands-of-tiran-island-and-sanafir-island-placin.md) _2017-08-27 03:45:33 (First version)_
-2. [Egypt and Saudi Arabia reach an agreement on the disputed islands of Tiran Island and Sanafir Island, placing the formerly Egyptian-administered islands officially under Saudi Arabian sovereignty. ](/news/2016/04/9/egypt-and-saudi-arabia-reach-an-agreement-on-the-disputed-islands-of-tiran-island-and-sanafir-island-placing-the-formerly-egyptian-administ.md) _2017-10-17 03:52:32 (Update)_
+1. [Egypt-Saudi Arabia relations: Egypt and Saudi Arabia reach an agreement on the disputed islands of Tiran Island and Sanafir Island, placing the formerly Egyptian-administered islands officially under Saudi Arabian sovereignty. ](/news/2016/04/9/egypt-saudi-arabia-relations-egypt-and-saudi-arabia-reach-an-agreement-on-the-disputed-islands-of-tiran-island-and-sanafir-island-placin.md) _2018-02-06 13:49:29 (First version)_
+2. [Egypt and Saudi Arabia reach an agreement on the disputed islands of Tiran Island and Sanafir Island, placing the formerly Egyptian-administered islands officially under Saudi Arabian sovereignty. ](/news/2016/04/9/egypt-and-saudi-arabia-reach-an-agreement-on-the-disputed-islands-of-tiran-island-and-sanafir-island-placing-the-formerly-egyptian-administ.md) _2018-02-06 13:49:29 (Update)_
 2. [ Egypt and Saudi Arabia reach an agreement on the disputed islands of Tiran Island and Sanafir Island, placing the formerly Egyptian-administered islands officially under Saudi Arabian sovereignty. ](/news/2016/04/9/egypt-and-saudi-arabia-reach-an-agreement-on-the-disputed-islands-of-tiran-island-and-sanafir-island-placing-the-formerly-egyptian-adminis.md) _(Current version)_
 
 ### Related:

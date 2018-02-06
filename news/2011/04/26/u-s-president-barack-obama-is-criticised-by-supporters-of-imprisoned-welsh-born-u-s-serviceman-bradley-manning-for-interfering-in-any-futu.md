@@ -17,7 +17,7 @@ President Barack Obama has unwittingly waded into a military legal tangle by dec
 
 ### Changes:
 
-1. [U.S. president Barack Obama is criticised by supporters of imprisoned Welsh-born U.S. serviceman Bradley Manning for interfering in any future trial after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/26/u-s-president-barack-obama-is-criticised-by-supporters-of-imprisoned-welsh-born-u-s-serviceman-bradley-manning-for-interfering-in-any-fut.md) _2017-08-25 03:32:53 (First version)_
+1. [U.S. president Barack Obama is criticised by supporters of imprisoned Welsh-born U.S. serviceman Bradley Manning for interfering in any future trial after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/26/u-s-president-barack-obama-is-criticised-by-supporters-of-imprisoned-welsh-born-u-s-serviceman-bradley-manning-for-interfering-in-any-fut.md) _2018-02-06 13:49:22 (First version)_
 1. [U.S. president Barack Obama is criticised by supporters of imprisoned Welsh-born U.S. serviceman Bradley Manning for interfering in any future trial after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/26/u-s-president-barack-obama-is-criticised-by-supporters-of-imprisoned-welsh-born-u-s-serviceman-bradley-manning-for-interfering-in-any-futu.md) _(Current version)_
 
 ### Related:

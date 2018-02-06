@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/27/the-death-toll-from-the-earthquakes-in-nepal-ri
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. ](/news/2015/04/27/april-2015-nepal-earthquake-the-death-toll-from-the-earthquakes-in-nepal-rises-to-more-than-3-700-with-reports-that-tens-of-thousands-of-pe.md) _2017-08-27 03:42:15 (First version)_
+1. [April 2015 Nepal earthquake: The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. ](/news/2015/04/27/april-2015-nepal-earthquake-the-death-toll-from-the-earthquakes-in-nepal-rises-to-more-than-3-700-with-reports-that-tens-of-thousands-of-pe.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. ](/news/2015/04/27/the-death-toll-from-the-earthquakes-in-nepal-rises-to-more-than-3-700-with-reports-that-tens-of-thousands-of-people-are-homeless-there-are.md) _(Current version)_
 
 ### Related:

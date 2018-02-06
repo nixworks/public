@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-
 
 ### Changes:
 
-1. [January 2017 European cold wave: A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/january-2017-european-cold-wave-a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain.md) _2017-08-27 03:47:36 (First version)_
+1. [January 2017 European cold wave: A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/january-2017-european-cold-wave-a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain.md) _2018-02-06 13:49:30 (First version)_
 1. [A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain-evacuated-and-travel-disrupted.md) _(Current version)_
 
 ### Related:

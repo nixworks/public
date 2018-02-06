@@ -17,8 +17,8 @@ Haitian police have opened fire on a group of looters, killing at least one of t
 
 ### Changes:
 
-1. [Aftermath of 2010 Haiti earthquake:A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/aftermath-of-2010-haiti-earthquake-pa-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md) _2017-08-25 03:26:53 (First version)_
-2. [Aftermath of 2010 Haiti earthquake:: A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/aftermath-of-2010-haiti-earthquake-a-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md) _2017-08-27 03:26:46 (Update)_
+1. [Aftermath of 2010 Haiti earthquake:A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/aftermath-of-2010-haiti-earthquake-pa-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md) _2018-02-06 13:49:19 (First version)_
+2. [Aftermath of 2010 Haiti earthquake:: A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/aftermath-of-2010-haiti-earthquake-a-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md) _2018-02-06 13:49:19 (Update)_
 2. [A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/a-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md) _(Current version)_
 
 ### Related:

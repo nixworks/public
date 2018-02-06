@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/08/3/around-46-people-are-killed-and-more-than-100-ot
 
 ### Changes:
 
-1. [Assassination of Raza Haider:Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-paround-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md) _2017-08-25 03:29:09 (First version)_
-2. [Assassination of Raza Haider:: Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md) _2017-08-27 03:29:10 (Update)_
+1. [Assassination of Raza Haider:Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-paround-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md) _2018-02-06 13:49:20 (First version)_
+2. [Assassination of Raza Haider:: Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md) _2018-02-06 13:49:20 (Update)_
 2. [Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow-the-assassination.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-president
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/war-in-somalia-2009-present-al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-tr.md) _2017-08-27 03:40:57 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/war-in-somalia-2009-present-al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-tr.md) _2018-02-06 13:49:26 (First version)_
 1. [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md) _(Current version)_
 
 ### Related:

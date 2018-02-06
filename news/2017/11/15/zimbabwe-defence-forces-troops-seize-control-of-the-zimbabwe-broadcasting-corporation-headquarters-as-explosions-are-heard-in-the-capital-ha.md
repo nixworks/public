@@ -18,7 +18,7 @@ Military spokesman Maj Gen SB Moyo has addressed the nation after troops took ov
 
 ### Changes:
 
-1. [Zimbabwe National Army troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-har.md) _2017-11-15 17:30:05 (First version)_
+1. [Zimbabwe National Army troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-har.md) _2018-02-06 13:49:31 (First version)_
 1. [Zimbabwe Defence Forces troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-defence-forces-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-ha.md) _(Current version)_
 
 ### Related:

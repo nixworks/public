@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/19/according-to-the-islamic-state-of-iraq-and-the-
 
 ### Changes:
 
-1. [Metrojet Flight 9268: According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/metrojet-flight-9268-according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a.md) _2017-08-27 03:43:57 (First version)_
+1. [Metrojet Flight 9268: According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/metrojet-flight-9268-according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a.md) _2018-02-06 13:49:28 (First version)_
 1. [According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a-so-called-schweppes-b.md) _(Current version)_
 
 ### Related:

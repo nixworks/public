@@ -17,8 +17,8 @@ At least 24 Egyptian policemen are killed in an attack in Sinai, amid the wider 
 
 ### Changes:
 
-1. [Sinai insurgency:At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-pat-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md) _2017-08-25 03:39:10 (First version)_
-2. [Sinai insurgency:: At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-at-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md) _2017-08-27 03:39:26 (Update)_
+1. [Sinai insurgency:At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-pat-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md) _2018-02-06 13:49:25 (First version)_
+2. [Sinai insurgency:: At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-at-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/at-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md) _(Current version)_
 
 ### Related:

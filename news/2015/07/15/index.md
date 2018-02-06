@@ -5,15 +5,15 @@ Formats: [HTML](2015/07/15/index.html)  [JSON](2015/07/15/index.json)  [XML](201
 
 ##### Boko Haram
 ### [At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria. ](/news/2015/07/15/at-least-33-people-are-killed-in-boko-haram-attacks-in-recent-days-in-northeastern-nigeria.md)
-_Context: Boko Haram, Nigeria_
+_Context: Nigeria, Boko Haram_
 
 ##### Yemeni Crisis (2011-present)
 ### [Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of-being-under-houthi-control.md)
-_Context: President, Abd Rabbuh Mansur Hadi, Yemeni Crisis (2011-present), Aden International Airport, Houthi_
+_Context: Aden International Airport, Abd Rabbuh Mansur Hadi, Yemeni Crisis (2011-present), Houthi, President_
 
 ##### Dutch Safety Board
 ### [A preliminary report from the Dutch Safety Board of the investigation of the Malaysia Airlines Flight 17 (MH17) disaster points to pro-Russian rebels as being responsible for the shooting down of the passenger flight on 17 July 2014. ](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.md)
-_Context: Malaysia Airlines Flight 17, Dutch Safety Board_
+_Context: Dutch Safety Board, Malaysia Airlines Flight 17_
 
 ##### Greek government-debt crisis
 ### [The Hellenic Parliament votes to approve the Greek bailout package despite many senior lawmakers from the ruling Syriza Party refusing to vote for the deal. ](/news/2015/07/15/the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-despite-many-senior-lawmakers-from-the-ruling-syriza-party-refusing-to-vo.md)
@@ -21,7 +21,7 @@ Greek MPs approve tough economic measures required to enable an €86bn eurozone
 
 ##### Puerto Rico government debt crisis
 ### [ Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a-near-term-default-is-a-virtual-certa.md)
-_Context: Government Development Bank, Puerto Rico government debt crisis, Standard & Poor's, Puerto Rico_
+_Context: Standard & Poor's, Puerto Rico, Puerto Rico government debt crisis, Government Development Bank_
 
 ##### Pabst Brewing Company
 ### [ Pabst Brewing Company announces plans to brew again at their historic brewery located in Milwaukee. ](/news/2015/07/15/pabst-brewing-company-announces-plans-to-brew-again-at-their-historic-brewery-located-in-milwaukee.md)
@@ -33,7 +33,7 @@ Company does not give explanation for contract blow; share price tumbles 12% aft
 
 ##### South Korea
 ### [Two South Korean airlines, Korean Air and Asiana Airlines, will resume flights to Japan after suspending flights during the recent MERS outbreak. ](/news/2015/07/15/two-south-korean-airlines-korean-air-and-asiana-airlines-will-resume-flights-to-japan-after-suspending-flights-during-the-recent-mers-outb.md)
-_Context: Japan, South Korea, Asiana Airlines, recent MERS outbreak, Korean Air_
+_Context: recent MERS outbreak, South Korea, Korean Air, Asiana Airlines, Japan_
 
 ##### Oskar Groning
 ### [Oskar Groning, known as the "Auschwitz book-keeper", is sentenced to four years imprisonment for being an accessory to the murder of 300,000 Jews. ](/news/2015/07/15/oskar-grapning-known-as-the-auschwitz-book-keeper-is-sentenced-to-four-years-imprisonment-for-being-an-accessory-to-the-murder-of-300-00.md)

@@ -17,8 +17,8 @@ Just days after the United States said it would increase troop numbers in Afghan
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-2001-present-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosti.md) _2017-08-26 03:48:56 (First version)_
-2. [War in Afghanistan: New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-c.md) _2017-08-27 17:30:05 (Update)_
+1. [War in Afghanistan: New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-c.md) _2018-02-06 13:49:31 (First version)_
+2. [War in Afghanistan (2001-present): New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-2001-present-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosti.md) _2018-02-06 13:49:31 (Update)_
 2. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _(Current version)_
 
 ### Related:

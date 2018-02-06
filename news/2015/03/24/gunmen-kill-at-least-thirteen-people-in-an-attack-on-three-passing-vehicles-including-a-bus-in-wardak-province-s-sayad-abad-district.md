@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/24/gunmen-kill-at-least-thirteen-people-in-an-atta
 
 ### Changes:
 
-1. [War in Afghanistan: Gunmen kill at least thirteen people in an attack on three passing vehicles including a bus in Wardak province's Sayad Abad district. ](/news/2015/03/24/war-in-afghanistan-gunmen-kill-at-least-thirteen-people-in-an-attack-on-three-passing-vehicles-including-a-bus-in-wardak-province-s-sayad-a.md) _2017-08-27 03:42:07 (First version)_
+1. [War in Afghanistan: Gunmen kill at least thirteen people in an attack on three passing vehicles including a bus in Wardak province's Sayad Abad district. ](/news/2015/03/24/war-in-afghanistan-gunmen-kill-at-least-thirteen-people-in-an-attack-on-three-passing-vehicles-including-a-bus-in-wardak-province-s-sayad-a.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen kill at least thirteen people in an attack on three passing vehicles including a bus in Wardak province's Sayad Abad district. ](/news/2015/03/24/gunmen-kill-at-least-thirteen-people-in-an-attack-on-three-passing-vehicles-including-a-bus-in-wardak-province-s-sayad-abad-district.md) _(Current version)_
 
 ### Related:

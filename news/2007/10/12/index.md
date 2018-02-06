@@ -9,19 +9,19 @@ The Prime Minister of Canada has appointed a member of the opposition Liberal Pa
 
 ##### Russian President
 ### [ The President of Russia Vladimir Putin threatens to renounce the Cold War-era INF Treaty while calling on the United States to abandon a proposed European missile shield in talks with the United States Secretary of State Condoleezza Rice and Secretary of Defence Robert Gates. ](/news/2007/10/12/the-president-of-russia-vladimir-putin-threatens-to-renounce-the-cold-war-era-inf-treaty-while-calling-on-the-united-states-to-abandon-a-pr.md)
-_Context: INF Treaty, United States, Robert Gates, United States Secretary of Defence, Europe, Condoleezza Rice, missile interceptor, United States Secretary of State, Vladimir Putin, Russian President, Cold War_
+_Context: Russian President, Vladimir Putin, Condoleezza Rice, United States Secretary of Defence, United States Secretary of State, Europe, Cold War, Robert Gates, United States, missile interceptor, INF Treaty_
 
 ##### U.S. Vice President
 ### [ Former U.S. Vice President Al Gore and the UN Intergovernmental Panel on Climate Change (IPCC) share the 2007 Nobel Peace Prize. ](/news/2007/10/12/former-u-s-vice-president-al-gore-and-the-un-intergovernmental-panel-on-climate-change-ipcc-share-the-2007-nobel-peace-prize.md)
-_Context: Intergovernmental Panel on Climate Change, Al Gore, U.S. Vice President, United Nations, Nobel Peace Prize_
+_Context: U.S. Vice President, Al Gore, Nobel Peace Prize, Intergovernmental Panel on Climate Change, United Nations_
 
 ##### Indonesia
 ### [ Indonesia and Australia commemorate the fifth anniversary of the 2002 Bali bombings. ](/news/2007/10/12/indonesia-and-australia-commemorate-the-fifth-anniversary-of-the-2002-bali-bombings.md)
-_Context: Indonesia, 2002 Bali bombings, Australia_
+_Context: Australia, Indonesia, 2002 Bali bombings_
 
 ##### Newhall Pass interchange
 ### [ Three people are dead at the Newhall Pass interchange on Interstate 5 just north of Los Angeles, California after thirty-one vehicles collide in a highway tunnel, closing the freeway entirely. ](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-interchange-on-interstate-5-just-north-of-los-angeles-california-after-thirty-one-vehicles-colli.md)
-_Context: Los Angeles, California, California, freeway, tunnel, Interstate 5, Newhall Pass interchange_
+_Context: California, Interstate 5, Los Angeles, California, Newhall Pass interchange, freeway, tunnel_
 
 ## [Previous Day...](/news/2007/10/11/index.md)
 

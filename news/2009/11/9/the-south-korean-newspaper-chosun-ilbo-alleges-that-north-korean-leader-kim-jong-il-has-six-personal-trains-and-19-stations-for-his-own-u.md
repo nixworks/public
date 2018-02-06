@@ -18,7 +18,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 
 ### Changes:
 
-1. [ The South Korean newspaper ''Chosun Ilbo'' alleges that North Korean leader Kim Jong-il has six personal trains and 19 stations for his own use. ](/news/2009/11/9/the-south-korean-newspaper-chosun-ilbo-alleges-that-north-korean-leader-kim-jong-il-has-six-personal-trains-and-19-stations-for-his-own.md) _2017-08-25 03:26:18 (First version)_
+1. [ The South Korean newspaper ''Chosun Ilbo'' alleges that North Korean leader Kim Jong-il has six personal trains and 19 stations for his own use. ](/news/2009/11/9/the-south-korean-newspaper-chosun-ilbo-alleges-that-north-korean-leader-kim-jong-il-has-six-personal-trains-and-19-stations-for-his-own.md) _2018-02-06 13:49:19 (First version)_
 1. [ The South Korean newspaper "Chosun Ilbo" alleges that North Korean leader Kim Jong-il has six personal trains and 19 stations for his own use. ](/news/2009/11/9/the-south-korean-newspaper-chosun-ilbo-alleges-that-north-korean-leader-kim-jong-il-has-six-personal-trains-and-19-stations-for-his-own-u.md) _(Current version)_
 
 ### Related:

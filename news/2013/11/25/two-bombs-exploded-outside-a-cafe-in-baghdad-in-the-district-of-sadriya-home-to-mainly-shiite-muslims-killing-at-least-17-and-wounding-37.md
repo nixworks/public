@@ -16,8 +16,8 @@ Two bombs exploded outside a cafe in Baghdad on Monday, killing 17 people and wo
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Two bombs exploded outside a cafe in Baghdad in the district of Sadriya, home to mainly Shiite Muslims, killing at least 17 and wounding 37. ](/news/2013/11/25/iraqi-insurgency-post-u-s-withdrawal-ptwo-bombs-exploded-outside-a-cafe-in-baghdad-in-the-district-of-sadriya-home-to-mainly-shiite-musl.md) _2017-08-25 03:39:35 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Two bombs exploded outside a cafe in Baghdad in the district of Sadriya, home to mainly Shiite Muslims, killing at least 17 and wounding 37. ](/news/2013/11/25/iraqi-insurgency-post-u-s-withdrawal-two-bombs-exploded-outside-a-cafe-in-baghdad-in-the-district-of-sadriya-home-to-mainly-shiite-mus.md) _2017-08-27 03:39:53 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Two bombs exploded outside a cafe in Baghdad in the district of Sadriya, home to mainly Shiite Muslims, killing at least 17 and wounding 37. ](/news/2013/11/25/iraqi-insurgency-post-u-s-withdrawal-two-bombs-exploded-outside-a-cafe-in-baghdad-in-the-district-of-sadriya-home-to-mainly-shiite-mus.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Two bombs exploded outside a cafe in Baghdad in the district of Sadriya, home to mainly Shiite Muslims, killing at least 17 and wounding 37. ](/news/2013/11/25/iraqi-insurgency-post-u-s-withdrawal-ptwo-bombs-exploded-outside-a-cafe-in-baghdad-in-the-district-of-sadriya-home-to-mainly-shiite-musl.md) _2018-02-06 13:49:25 (Update)_
 2. [Two bombs exploded outside a cafe in Baghdad in the district of Sadriya, home to mainly Shiite Muslims, killing at least 17 and wounding 37. ](/news/2013/11/25/two-bombs-exploded-outside-a-cafe-in-baghdad-in-the-district-of-sadriya-home-to-mainly-shiite-muslims-killing-at-least-17-and-wounding-37.md) _(Current version)_
 
 ### Related:

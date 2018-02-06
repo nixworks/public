@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/04/12/u-s-president-barack-obama-opens-the-summit-of-
 
 ### Changes:
 
-1. [Nuclear Security Summit: U.S. President Barack Obama opens the summit of 47 countries, the purpose of which is to discuss nuclear security, in particular how to keep nuclear weapons out of the hands of potential terrorists. ](/news/2010/04/12/nuclear-security-summit-u-s-president-barack-obama-opens-the-summit-of-47-countries-the-purpose-of-which-is-to-discuss-nuclear-security.md) _2017-08-27 03:27:34 (First version)_
+1. [Nuclear Security Summit: U.S. President Barack Obama opens the summit of 47 countries, the purpose of which is to discuss nuclear security, in particular how to keep nuclear weapons out of the hands of potential terrorists. ](/news/2010/04/12/nuclear-security-summit-u-s-president-barack-obama-opens-the-summit-of-47-countries-the-purpose-of-which-is-to-discuss-nuclear-security.md) _2018-02-06 13:49:19 (First version)_
 1. [U.S. President Barack Obama opens the summit of 47 countries, the purpose of which is to discuss nuclear security, in particular how to keep nuclear weapons out of the hands of potential terrorists. ](/news/2010/04/12/u-s-president-barack-obama-opens-the-summit-of-47-countries-the-purpose-of-which-is-to-discuss-nuclear-security-in-particular-how-to-keep.md) _(Current version)_
 
 ### Related:

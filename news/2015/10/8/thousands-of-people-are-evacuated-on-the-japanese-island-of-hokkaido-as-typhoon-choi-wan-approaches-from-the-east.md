@@ -15,7 +15,7 @@ A powerful typhoon bearing down on the northern Japanese island of Hokkaido has 
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Thousands of people are evacuated on the Japanese island of Hokkaido as Typhoon Choi-wan approaches from the east. ](/news/2015/10/8/2015-pacific-typhoon-season-thousands-of-people-are-evacuated-on-the-japanese-island-of-hokkaido-as-typhoon-choi-wan-approaches-from-the-ea.md) _2017-08-27 03:43:16 (First version)_
+1. [2015 Pacific typhoon season: Thousands of people are evacuated on the Japanese island of Hokkaido as Typhoon Choi-wan approaches from the east. ](/news/2015/10/8/2015-pacific-typhoon-season-thousands-of-people-are-evacuated-on-the-japanese-island-of-hokkaido-as-typhoon-choi-wan-approaches-from-the-ea.md) _2018-02-06 13:49:28 (First version)_
 1. [Thousands of people are evacuated on the Japanese island of Hokkaido as Typhoon Choi-wan approaches from the east. ](/news/2015/10/8/thousands-of-people-are-evacuated-on-the-japanese-island-of-hokkaido-as-typhoon-choi-wan-approaches-from-the-east.md) _(Current version)_
 
 ### Related:

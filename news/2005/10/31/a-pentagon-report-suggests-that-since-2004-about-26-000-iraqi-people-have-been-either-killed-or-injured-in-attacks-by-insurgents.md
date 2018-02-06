@@ -18,8 +18,8 @@ Formats: [HTML](/news/2005/10/31/a-pentagon-report-suggests-that-since-2004-abou
 
 ### Changes:
 
-1. [ Conflict in Iraq: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-p-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md) _2017-08-25 03:17:03 (First version)_
-2. [ Conflict in Iraq:: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md) _2017-08-27 03:17:02 (Update)_
+1. [ Conflict in Iraq: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-p-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md) _2018-02-06 13:49:16 (Update)_
 2. [ A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-insurgents.md) _(Current version)_
 
 ### Related:

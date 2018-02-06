@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/05/11/pablo-picasso-s-women-of-algiers-version-o-beco
 
 ### Changes:
 
-1. [Pablo Picasso's ''Women of Algiers (Version O)'' becomes the most expensive artwork ever to sell at an auction at Christie's auction house selling for US$179,365,000. ](/news/2015/05/11/pablo-picasso-s-women-of-algiers-version-o-becomes-the-most-expensive-artwork-ever-to-sell-at-an-auction-at-christie-s-auction-house-s.md) _2017-08-25 03:42:00 (First version)_
+1. [Pablo Picasso's ''Women of Algiers (Version O)'' becomes the most expensive artwork ever to sell at an auction at Christie's auction house selling for US$179,365,000. ](/news/2015/05/11/pablo-picasso-s-women-of-algiers-version-o-becomes-the-most-expensive-artwork-ever-to-sell-at-an-auction-at-christie-s-auction-house-s.md) _2018-02-06 13:49:27 (First version)_
 1. [Pablo Picasso's "Women of Algiers (Version O)" becomes the most expensive artwork ever to sell at an auction at Christie's auction house selling for US$179,365,000. ](/news/2015/05/11/pablo-picasso-s-women-of-algiers-version-o-becomes-the-most-expensive-artwork-ever-to-sell-at-an-auction-at-christie-s-auction-house-sel.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A spokesperson for MSF says their staff in northern Yemen received the bodies of
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/yemeni-civil-war-2015-present-at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi.md) _2017-08-27 03:46:39 (First version)_
+1. [Yemeni Civil War (2015-present): At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/yemeni-civil-war-2015-present-at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi-group-claims-that-the-saudi-arabia.md) _(Current version)_
 
 ### Related:

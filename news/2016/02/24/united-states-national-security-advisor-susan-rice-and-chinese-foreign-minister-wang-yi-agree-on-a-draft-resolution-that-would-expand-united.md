@@ -17,7 +17,7 @@ The United States and China have agreed on a draft resolution that would expand 
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: United States National Security Advisor Susan Rice and Chinese Foreign Minister Wang Yi agree on a draft resolution that would expand United Nations Security Council sanctions following North Korea's latest nuclear test. U.S. President Barack Obama participated in the meeting. The draft is now headed to the full 15-member council. ](/news/2016/02/24/2016-north-korean-nuclear-test-united-states-national-security-advisor-susan-rice-and-chinese-foreign-minister-wang-yi-agree-on-a-draft-res.md) _2017-08-27 03:45:01 (First version)_
+1. [2016 North Korean nuclear test: United States National Security Advisor Susan Rice and Chinese Foreign Minister Wang Yi agree on a draft resolution that would expand United Nations Security Council sanctions following North Korea's latest nuclear test. U.S. President Barack Obama participated in the meeting. The draft is now headed to the full 15-member council. ](/news/2016/02/24/2016-north-korean-nuclear-test-united-states-national-security-advisor-susan-rice-and-chinese-foreign-minister-wang-yi-agree-on-a-draft-res.md) _2018-02-06 13:49:28 (First version)_
 1. [United States National Security Advisor Susan Rice and Chinese Foreign Minister Wang Yi agree on a draft resolution that would expand United Nations Security Council sanctions following North Korea's latest nuclear test. U.S. President Barack Obama participated in the meeting. The draft is now headed to the full 15-member council. ](/news/2016/02/24/united-states-national-security-advisor-susan-rice-and-chinese-foreign-minister-wang-yi-agree-on-a-draft-resolution-that-would-expand-united.md) _(Current version)_
 
 ### Related:

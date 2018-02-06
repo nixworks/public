@@ -16,7 +16,7 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 
 ### Changes:
 
-1. [2014 Amsterdam drug deaths: People died afrer snorting white heroin that was sold as cocaine by a street dealer in Amsterdam, the Netherlands ](/news/2014/11/25/2014-amsterdam-drug-deaths-people-died-afrer-snorting-white-heroin-that-was-sold-as-cocaine-by-a-street-dealer-in-amsterdam-the-netherland.md) _2017-08-27 03:41:33 (First version)_
+1. [2014 Amsterdam drug deaths: People died afrer snorting white heroin that was sold as cocaine by a street dealer in Amsterdam, the Netherlands ](/news/2014/11/25/2014-amsterdam-drug-deaths-people-died-afrer-snorting-white-heroin-that-was-sold-as-cocaine-by-a-street-dealer-in-amsterdam-the-netherland.md) _2018-02-06 13:49:26 (First version)_
 1. [People died afrer snorting white heroin that was sold as cocaine by a street dealer in Amsterdam, the Netherlands ](/news/2014/11/25/people-died-afrer-snorting-white-heroin-that-was-sold-as-cocaine-by-a-street-dealer-in-amsterdam-the-netherlands.md) _(Current version)_
 
 ### Related:

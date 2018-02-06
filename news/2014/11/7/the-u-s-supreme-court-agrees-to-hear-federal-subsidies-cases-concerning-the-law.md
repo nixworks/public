@@ -16,7 +16,7 @@ The Supreme Court agreed Friday to hear a new challenge to ObamaCare, bringing t
 
 ### Changes:
 
-1. [Patient Protection and Affordable Care Act: The U.S. Supreme Court agrees to hear federal subsidies cases concerning the law. ](/news/2014/11/7/patient-protection-and-affordable-care-act-the-u-s-supreme-court-agrees-to-hear-federal-subsidies-cases-concerning-the-law.md) _2017-08-27 03:41:29 (First version)_
+1. [Patient Protection and Affordable Care Act: The U.S. Supreme Court agrees to hear federal subsidies cases concerning the law. ](/news/2014/11/7/patient-protection-and-affordable-care-act-the-u-s-supreme-court-agrees-to-hear-federal-subsidies-cases-concerning-the-law.md) _2018-02-06 13:49:26 (First version)_
 1. [The U.S. Supreme Court agrees to hear federal subsidies cases concerning the law. ](/news/2014/11/7/the-u-s-supreme-court-agrees-to-hear-federal-subsidies-cases-concerning-the-law.md) _(Current version)_
 
 ### Related:

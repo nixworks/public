@@ -16,7 +16,7 @@ Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowi
 
 ### Changes:
 
-1. [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist -revolution-. ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-revolution.md) _2017-08-27 03:25:19 (First version)_
+1. [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist -revolution-. ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-revolution.md) _2018-02-06 13:49:19 (First version)_
 1. [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist "revolution". ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-arevolutiona.md) _(Current version)_
 
 ### Related:

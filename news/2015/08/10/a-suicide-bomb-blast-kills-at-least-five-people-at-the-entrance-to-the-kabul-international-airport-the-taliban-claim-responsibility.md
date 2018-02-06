@@ -16,7 +16,7 @@ A Taliban suicide bomber attacks a checkpoint near the entrance to the internati
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomb blast kills at least five people at the entrance to the Kabul International Airport. The Taliban claim responsibility. ](/news/2015/08/10/war-in-afghanistan-2015-present-a-suicide-bomb-blast-kills-at-least-five-people-at-the-entrance-to-the-kabul-international-airport-the.md) _2017-08-27 03:42:48 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomb blast kills at least five people at the entrance to the Kabul International Airport. The Taliban claim responsibility. ](/news/2015/08/10/war-in-afghanistan-2015-present-a-suicide-bomb-blast-kills-at-least-five-people-at-the-entrance-to-the-kabul-international-airport-the.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomb blast kills at least five people at the entrance to the Kabul International Airport. The Taliban claim responsibility. ](/news/2015/08/10/a-suicide-bomb-blast-kills-at-least-five-people-at-the-entrance-to-the-kabul-international-airport-the-taliban-claim-responsibility.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Sanchi goes down a week after a collision with a cargo ship, claiming 32 liv
 
 ### Changes:
 
-1. [The National Iranian Tanker Company-operated MV "Sanchi" sinks following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-mv-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-sha.md) _2018-01-15 08:30:05 (First version)_
+1. [The National Iranian Tanker Company-operated MV "Sanchi" sinks following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-mv-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-sha.md) _2018-02-06 13:49:31 (First version)_
 1. [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md) _(Current version)_
 
 ### Related:

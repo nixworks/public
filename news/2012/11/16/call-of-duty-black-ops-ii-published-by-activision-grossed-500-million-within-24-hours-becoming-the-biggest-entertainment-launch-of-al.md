@@ -11,7 +11,7 @@ Formats: [HTML](/news/2012/11/16/call-of-duty-black-ops-ii-published-by-activisi
 
 ### Changes:
 
-1. [''Call of Duty: Black Ops II'', published by Activision, grossed $500 million within 24 hours, becoming the biggest entertainment launch of all time. ](/news/2012/11/16/call-of-duty-black-ops-ii-published-by-activision-grossed-500-million-within-24-hours-becoming-the-biggest-entertainment-launch-of.md) _2017-08-25 03:36:50 (First version)_
+1. [''Call of Duty: Black Ops II'', published by Activision, grossed $500 million within 24 hours, becoming the biggest entertainment launch of all time. ](/news/2012/11/16/call-of-duty-black-ops-ii-published-by-activision-grossed-500-million-within-24-hours-becoming-the-biggest-entertainment-launch-of.md) _2018-02-06 13:49:24 (First version)_
 1. ["Call of Duty: Black Ops II", published by Activision, grossed $500 million within 24 hours, becoming the biggest entertainment launch of all time. [http:--www.telegraph.co.uk-technology-news-9683341-Call-of-duty-Black-Ops-II-sales-hit-500-million-in-first-24-hours.html "(The Telegraph)"]](/news/2012/11/16/call-of-duty-black-ops-ii-published-by-activision-grossed-500-million-within-24-hours-becoming-the-biggest-entertainment-launch-of-al.md) _(Current version)_
 
 ### Related:

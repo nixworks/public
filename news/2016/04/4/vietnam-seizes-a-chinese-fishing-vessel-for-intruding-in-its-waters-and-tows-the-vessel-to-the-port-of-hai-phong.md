@@ -15,7 +15,7 @@ HANOI, Vietnam (AP) — Vietnam&#039;s coast guard in a rare move has seized a C
 
 ### Changes:
 
-1. [China-Vietnam relations: Vietnam seizes a Chinese fishing vessel for intruding in its waters and tows the vessel to the port of Hai Phong. ](/news/2016/04/4/china-vietnam-relations-vietnam-seizes-a-chinese-fishing-vessel-for-intruding-in-its-waters-and-tows-the-vessel-to-the-port-of-hai-phong.md) _2017-08-27 03:45:29 (First version)_
+1. [China-Vietnam relations: Vietnam seizes a Chinese fishing vessel for intruding in its waters and tows the vessel to the port of Hai Phong. ](/news/2016/04/4/china-vietnam-relations-vietnam-seizes-a-chinese-fishing-vessel-for-intruding-in-its-waters-and-tows-the-vessel-to-the-port-of-hai-phong.md) _2018-02-06 13:49:29 (First version)_
 1. [Vietnam seizes a Chinese fishing vessel for intruding in its waters and tows the vessel to the port of Hai Phong. ](/news/2016/04/4/vietnam-seizes-a-chinese-fishing-vessel-for-intruding-in-its-waters-and-tows-the-vessel-to-the-port-of-hai-phong.md) _(Current version)_
 
 ### Related:

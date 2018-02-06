@@ -17,7 +17,7 @@ Formats: [HTML](/news/2013/03/2/image-taken-by-the-cassini-spacecraft-from-satur
 
 ### Changes:
 
-1. [Image taken by the Cassini spacecraft from Saturn orbit shows Venus shining like a bright beacon through Saturn-s rings. ](/news/2013/03/2/image-taken-by-the-cassini-spacecraft-from-saturn-orbit-shows-venus-shining-like-a-bright-beacon-through-saturn-s-rings.md) _2017-08-27 03:37:53 (First version)_
+1. [Image taken by the Cassini spacecraft from Saturn orbit shows Venus shining like a bright beacon through Saturn-s rings. ](/news/2013/03/2/image-taken-by-the-cassini-spacecraft-from-saturn-orbit-shows-venus-shining-like-a-bright-beacon-through-saturn-s-rings.md) _2018-02-06 13:49:24 (First version)_
 1. [Image taken by the Cassini spacecraft from Saturn orbit shows Venus shining like a bright beacon through Saturn's rings. ](/news/2013/03/2/image-taken-by-the-cassini-spacecraft-from-saturn-orbit-shows-venus-shining-like-a-bright-beacon-through-saturnas-rings.md) _(Current version)_
 
 ### Related:

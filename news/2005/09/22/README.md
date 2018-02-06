@@ -5,11 +5,11 @@ Formats: [HTML](2005/09/22/index.html)  [JSON](2005/09/22/index.json)  [XML](200
 
 ##### Australia
 ### [ Australia agrees to fund Indonesia's response to avian influenza by providing anti-viral drugs to protect health workers in the event of a pandemic and contributing to a World Health Organisation team being sent to Jakarta. The Federal Opposition foreign affairs spokesman, Kevin Rudd, urged the Australian Government to further co-operate with regional states by calling for a regional summit on the issue. ](/news/2005/09/22/australia-agrees-to-fund-indonesia-s-response-to-avian-influenza-by-providing-anti-viral-drugs-to-protect-health-workers-in-the-event-of-a.md)
-_Context: Jakarta, Government of Australia, avian influenza, Kevin Rudd, Opposition, Australia, World Health Organisation, Indonesia_
+_Context: Australia, Kevin Rudd, avian influenza, Jakarta, Government of Australia, World Health Organisation, Indonesia, Opposition_
 
 ##### U.S. Senate Committee on the Judiciary
 ### [ The U.S. Senate Committee on the Judiciary votes 13 to 5 for the nomination of John Roberts as Chief Justice of the United States. The appointment needs approval of the entire Senate, and that vote is expected during the week of September 26.](/news/2005/09/22/the-u-s-senate-committee-on-the-judiciary-votes-13-to-5-for-the-nomination-of-john-roberts-as-chief-justice-of-the-united-states-the-appo.md)
-_Context: U.S. Senate Committee on the Judiciary, September 26, John Roberts, Chief Justice_
+_Context: John Roberts, U.S. Senate Committee on the Judiciary, September 26, Chief Justice_
 
 ##### parliament
 ### [ Verkhovna Rada (the Parliament of Ukraine) approves Yuriy Yekhanurov as the country's new Prime Minister. ](/news/2005/09/22/verkhovna-rada-the-parliament-of-ukraine-approves-yuriy-yekhanurov-as-the-country-s-new-prime-minister.md)

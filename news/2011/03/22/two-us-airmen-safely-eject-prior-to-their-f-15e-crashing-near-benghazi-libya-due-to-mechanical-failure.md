@@ -19,8 +19,8 @@ Two US airmen are rescued in eastern Libya after their warplane crashed during a
 
 ### Changes:
 
-1. [2011 Libyan civil war:Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-ptwo-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _2017-08-25 03:32:37 (First version)_
-2. [2011 Libyan civil war:: Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _2017-08-27 03:32:45 (Update)_
+1. [2011 Libyan civil war:: Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-ptwo-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _2018-02-06 13:49:22 (Update)_
 2. [Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _(Current version)_
 
 ### Related:

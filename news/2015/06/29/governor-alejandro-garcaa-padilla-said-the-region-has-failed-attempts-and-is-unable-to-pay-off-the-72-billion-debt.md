@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/29/governor-alejandro-garcaa-padilla-said-the-regi
 
 ### Changes:
 
-1. [Puerto Rico government-debt crisis: Governor Alejandro Garcia Padilla said the region has failed attempts and is unable to pay off the $72 billion debt. ](/news/2015/06/29/puerto-rico-government-debt-crisis-governor-alejandro-garcaa-padilla-said-the-region-has-failed-attempts-and-is-unable-to-pay-off-the-72.md) _2017-08-27 03:42:36 (First version)_
+1. [Puerto Rico government-debt crisis: Governor Alejandro Garcia Padilla said the region has failed attempts and is unable to pay off the $72 billion debt. ](/news/2015/06/29/puerto-rico-government-debt-crisis-governor-alejandro-garcaa-padilla-said-the-region-has-failed-attempts-and-is-unable-to-pay-off-the-72.md) _2018-02-06 13:49:27 (First version)_
 1. [Governor Alejandro Garcia Padilla said the region has failed attempts and is unable to pay off the $72 billion debt. ](/news/2015/06/29/governor-alejandro-garcaa-padilla-said-the-region-has-failed-attempts-and-is-unable-to-pay-off-the-72-billion-debt.md) _(Current version)_
 
 ### Related:

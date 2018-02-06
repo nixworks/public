@@ -18,8 +18,8 @@ Assembly Minority Leader Peter Barca filed a complaint Thursday with the Dane Co
 
 ### Changes:
 
-1. [2011 Wisconsin protests in USThe Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/2011-wisconsin-protests-in-uspthe-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _2017-08-25 03:32:29 (First version)_
-2. [2011 Wisconsin protests in US: The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/2011-wisconsin-protests-in-us-the-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _2017-08-27 03:32:38 (Update)_
+1. [2011 Wisconsin protests in USThe Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/2011-wisconsin-protests-in-uspthe-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Wisconsin protests in US: The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/2011-wisconsin-protests-in-us-the-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _2018-02-06 13:49:22 (Update)_
 2. [The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. ](/news/2011/03/10/the-wisconsin-state-capitol-is-placed-on-lockdown-to-prevent-protesters-gaining-access.md) _(Current version)_
 
 ### Related:

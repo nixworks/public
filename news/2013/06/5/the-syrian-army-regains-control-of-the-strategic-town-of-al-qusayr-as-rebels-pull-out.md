@@ -18,8 +18,8 @@ Syrian government forces and their Lebanese Hezbollah allies seized control of t
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/syrian-civil-war-pthe-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md) _2017-08-25 03:38:47 (First version)_
-2. [Syrian civil war:: The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/syrian-civil-war-the-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md) _2017-08-27 03:39:00 (Update)_
+1. [Syrian civil war:: The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/syrian-civil-war-the-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/syrian-civil-war-pthe-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/the-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md) _(Current version)_
 
 ### Related:

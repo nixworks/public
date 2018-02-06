@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/04/26/2011a2012-bahraini-uprising-mourners-and-police
 
 ### Changes:
 
-1. [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011-2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md) _2017-08-27 03:35:44 (First version)_
+1. [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011-2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011a2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md) _(Current version)_
 
 ### Related:

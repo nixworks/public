@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-c
 
 ### Changes:
 
-1. [A grenade attack at a peace concert in Bangui, Central Africa Republic kills 7 and injuries 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-africa-republic-kills-7-and-injuries-20.md) _2017-11-12 20:30:07 (First version)_
-2. [A grenade attack at a peace concert in Bangui, Central African Republic, kills 7 and injuries 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-7-and-injuries-20.md) _2017-11-12 21:30:07 (Update)_
+1. [A grenade attack at a peace concert in Bangui, Central African Republic, kills 7 and injuries 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-7-and-injuries-20.md) _2018-02-06 13:49:31 (First version)_
+2. [A grenade attack at a peace concert in Bangui, Central Africa Republic kills 7 and injuries 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-africa-republic-kills-7-and-injuries-20.md) _2018-02-06 13:49:31 (Update)_
 2. [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md) _(Current version)_
 
 ### Related:

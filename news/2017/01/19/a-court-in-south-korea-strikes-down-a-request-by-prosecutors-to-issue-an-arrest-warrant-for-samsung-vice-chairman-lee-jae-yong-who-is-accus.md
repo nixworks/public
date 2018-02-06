@@ -16,7 +16,7 @@ A judge rules there is not enough evidence to justify arresting Lee Jae-yong for
 
 ### Changes:
 
-1. [2016 South Korean political scandal: A court in South Korea strikes down a request by prosecutors to issue an arrest warrant for Samsung vice chairman Lee Jae-yong, who is accused of bribery and embezzlement, in connection to a corruption scandal involving impeached President Park Geun-hye. ](/news/2017/01/19/2016-south-korean-political-scandal-a-court-in-south-korea-strikes-down-a-request-by-prosecutors-to-issue-an-arrest-warrant-for-samsung-vic.md) _2017-08-27 03:47:38 (First version)_
+1. [2016 South Korean political scandal: A court in South Korea strikes down a request by prosecutors to issue an arrest warrant for Samsung vice chairman Lee Jae-yong, who is accused of bribery and embezzlement, in connection to a corruption scandal involving impeached President Park Geun-hye. ](/news/2017/01/19/2016-south-korean-political-scandal-a-court-in-south-korea-strikes-down-a-request-by-prosecutors-to-issue-an-arrest-warrant-for-samsung-vic.md) _2018-02-06 13:49:30 (First version)_
 1. [A court in South Korea strikes down a request by prosecutors to issue an arrest warrant for Samsung vice chairman Lee Jae-yong, who is accused of bribery and embezzlement, in connection to a corruption scandal involving impeached President Park Geun-hye. ](/news/2017/01/19/a-court-in-south-korea-strikes-down-a-request-by-prosecutors-to-issue-an-arrest-warrant-for-samsung-vice-chairman-lee-jae-yong-who-is-accus.md) _(Current version)_
 
 ### Related:

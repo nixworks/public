@@ -16,7 +16,7 @@ Syrian government troops pulled back armoured vehicles from the town of Zabandi 
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011-2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md) _2017-08-27 03:35:01 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011-2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011a2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md) _(Current version)_
 
 ### Related:

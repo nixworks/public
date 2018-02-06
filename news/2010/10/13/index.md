@@ -17,7 +17,7 @@ _Context: Puntland, Said Mohamed Rageh, Somali pirates_
 
 ##### Iran
 ### [Iran's Fars News Agency (FNA) announces that 18 people were killed in a blast at one of the Revolutionary Guards' bases in Luristan Province. ](/news/2010/10/13/iran-s-fars-news-agency-fna-announces-that-18-people-were-killed-in-a-blast-at-one-of-the-revolutionary-guards-bases-in-luristan-province.md)
-_Context: Iran, Fars News Agency, Luristan Province, Revolutionary Guards_
+_Context: Luristan Province, Fars News Agency, Revolutionary Guards, Iran_
 
 ##### War in Afghanistan
 ### [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
@@ -29,7 +29,7 @@ _Context: War in Afghanistan_
 
 ##### India
 ### [India will spend $2.3 trillion by 2030 to attempt to improve energy efficiency and use of clean technology.](/news/2010/10/13/india-will-spend-2-3-trillion-by-2030-to-attempt-to-improve-energy-efficiency-and-use-of-clean-technology.md)
-_Context: clean technology, India, energy efficiency_
+_Context: India, clean technology, energy efficiency_
 
 ##### France
 ### [French unions continue mass strikes for a second day with over one million people protesting on Tuesday against pension reform. ](/news/2010/10/13/french-unions-continue-mass-strikes-for-a-second-day-with-over-one-million-people-protesting-on-tuesday-against-pension-reform.md)
@@ -37,7 +37,7 @@ _Context: France_
 
 ##### A$
 ### [The Australian dollar reaches its highest level against the United States dollar in 27 years. ](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.md)
-_Context: A$, $_
+_Context: $, A$_
 
 #####  moratorium
 ### [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hurt.md)

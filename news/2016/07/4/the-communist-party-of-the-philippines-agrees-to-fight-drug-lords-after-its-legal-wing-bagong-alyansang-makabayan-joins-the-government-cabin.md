@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to
 
 ### Changes:
 
-1. [CPP-NPA-NDF rebellion; The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cppanpaandf-rebellion-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan.md) _2017-08-25 03:46:02 (First version)_
-2. [CPP-NPA-NDF rebellion; Philippine Drug War: The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cpp-npa-ndf-rebellion-philippine-drug-war-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagon.md) _2017-08-27 03:46:24 (Update)_
+1. [CPP-NPA-NDF rebellion; The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cppanpaandf-rebellion-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan.md) _2018-02-06 13:49:29 (First version)_
+2. [CPP-NPA-NDF rebellion; Philippine Drug War: The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cpp-npa-ndf-rebellion-philippine-drug-war-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagon.md) _2018-02-06 13:49:29 (Update)_
 2. [The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan-joins-the-government-cabin.md) _(Current version)_
 
 ### Related:

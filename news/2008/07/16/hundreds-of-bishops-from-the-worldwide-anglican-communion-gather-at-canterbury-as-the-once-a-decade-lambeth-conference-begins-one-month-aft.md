@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican
 
 ### Changes:
 
-1. [ Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. ](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican-communion-gather-at-canterbury-as-the-once-a-decade-lambeth-conference-begins-one-month-af.md) _2017-08-25 03:22:35 (First version)_
+1. [ Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. ](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican-communion-gather-at-canterbury-as-the-once-a-decade-lambeth-conference-begins-one-month-af.md) _2018-02-06 13:49:18 (First version)_
 1. [ Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. ](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican-communion-gather-at-canterbury-as-the-once-a-decade-lambeth-conference-begins-one-month-aft.md) _(Current version)_
 
 ### Related:

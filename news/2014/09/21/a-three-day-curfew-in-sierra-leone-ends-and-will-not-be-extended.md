@@ -16,7 +16,7 @@ Authorities in Sierra Leone say a three-day curfew aimed at containing the Ebola
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: A three day curfew in Sierra Leone ends and will not be extended. ](/news/2014/09/21/ebola-virus-epidemic-in-west-africa-a-three-day-curfew-in-sierra-leone-ends-and-will-not-be-extended.md) _2017-08-27 03:41:19 (First version)_
+1. [Ebola virus epidemic in West Africa: A three day curfew in Sierra Leone ends and will not be extended. ](/news/2014/09/21/ebola-virus-epidemic-in-west-africa-a-three-day-curfew-in-sierra-leone-ends-and-will-not-be-extended.md) _2018-02-06 13:49:26 (First version)_
 1. [A three day curfew in Sierra Leone ends and will not be extended. ](/news/2014/09/21/a-three-day-curfew-in-sierra-leone-ends-and-will-not-be-extended.md) _(Current version)_
 
 ### Related:

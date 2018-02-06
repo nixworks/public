@@ -18,7 +18,7 @@ Islamic extremist group al-Shabab on Saturday claimed responsibility for the lat
 
 ### Changes:
 
-1. [War in Somalia: A suspected Al-Shabab suicide bomber blows open the gate of Mogadishu's Nasa-Hablod hotel in Somalia, before militant fighters storm the building. Officials said at least 15 were killed, 25 injured, and an unknown number of guests were taken hostage. ](/news/2016/06/25/war-in-somalia-a-suspected-al-shabab-suicide-bomber-blows-open-the-gate-of-mogadishu-s-nasa-hablod-hotel-in-somalia-before-militant-fighte.md) _2017-08-27 03:46:20 (First version)_
+1. [War in Somalia: A suspected Al-Shabab suicide bomber blows open the gate of Mogadishu's Nasa-Hablod hotel in Somalia, before militant fighters storm the building. Officials said at least 15 were killed, 25 injured, and an unknown number of guests were taken hostage. ](/news/2016/06/25/war-in-somalia-a-suspected-al-shabab-suicide-bomber-blows-open-the-gate-of-mogadishu-s-nasa-hablod-hotel-in-somalia-before-militant-fighte.md) _2018-02-06 13:49:29 (First version)_
 1. [A suspected Al-Shabab suicide bomber blows open the gate of Mogadishu's Nasa-Hablod hotel in Somalia, before militant fighters storm the building. Officials said at least 15 were killed, 25 injured, and an unknown number of guests were taken hostage. ](/news/2016/06/25/a-suspected-al-shabab-suicide-bomber-blows-open-the-gate-of-mogadishu-s-nasa-hablod-hotel-in-somalia-before-militant-fighters-storm-the-bui.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/03/2/police-in-dubai-order-an-arrest-warrant-for-isra
 
 ### Changes:
 
-1. [Assassination of Mahmoud al-Mabhouh:Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/assassination-of-mahmoud-al-mabhouh-ppolice-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of-m.md) _2017-08-25 03:27:16 (First version)_
-2. [Assassination of Mahmoud al-Mabhouh:: Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/assassination-of-mahmoud-al-mabhouh-police-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of.md) _2017-08-27 03:27:11 (Update)_
+1. [Assassination of Mahmoud al-Mabhouh:Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/assassination-of-mahmoud-al-mabhouh-ppolice-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of-m.md) _2018-02-06 13:49:19 (First version)_
+2. [Assassination of Mahmoud al-Mabhouh:: Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/assassination-of-mahmoud-al-mabhouh-police-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of.md) _2018-02-06 13:49:19 (Update)_
 2. [Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/police-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of-mossad-in-connection-with-the-assassin.md) _(Current version)_
 
 ### Related:

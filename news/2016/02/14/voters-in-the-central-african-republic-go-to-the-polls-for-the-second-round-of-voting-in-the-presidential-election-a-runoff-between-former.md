@@ -16,7 +16,7 @@ People in the violence-hit Central African Republic vote in the second round of 
 
 ### Changes:
 
-1. [Central African general election, 2015-16: Voters in the Central African Republic go to the polls for the second round of voting in the presidential election, a runoff between former prime ministers Anicet-Georges Dologuele (1999-2001) and Faustin-Archange Touadera (2008-13). ](/news/2016/02/14/central-african-general-election-2015-16-voters-in-the-central-african-republic-go-to-the-polls-for-the-second-round-of-voting-in-the-pr.md) _2017-08-27 03:44:54 (First version)_
+1. [Central African general election, 2015-16: Voters in the Central African Republic go to the polls for the second round of voting in the presidential election, a runoff between former prime ministers Anicet-Georges Dologuele (1999-2001) and Faustin-Archange Touadera (2008-13). ](/news/2016/02/14/central-african-general-election-2015-16-voters-in-the-central-african-republic-go-to-the-polls-for-the-second-round-of-voting-in-the-pr.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in the Central African Republic go to the polls for the second round of voting in the presidential election, a runoff between former prime ministers Anicet-Georges Dologuele (1999-2001) and Faustin-Archange Touadera (2008-13). ](/news/2016/02/14/voters-in-the-central-african-republic-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-a-runoff-between-former.md) _(Current version)_
 
 ### Related:

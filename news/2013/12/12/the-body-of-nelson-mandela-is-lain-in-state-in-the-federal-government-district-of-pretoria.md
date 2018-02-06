@@ -15,8 +15,8 @@ After an official send-off ceremony held by the African National Congress in Pre
 
 ### Changes:
 
-1. [Death and state funeral of Nelson Mandela:The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/death-and-state-funeral-of-nelson-mandela-pthe-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md) _2017-08-25 03:39:40 (First version)_
-2. [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md) _2017-08-27 03:39:58 (Update)_
+1. [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md) _2018-02-06 13:49:25 (First version)_
+2. [Death and state funeral of Nelson Mandela:The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/death-and-state-funeral-of-nelson-mandela-pthe-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md) _2018-02-06 13:49:25 (Update)_
 2. [The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/the-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md) _(Current version)_
 
 ### Related:

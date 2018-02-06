@@ -20,7 +20,7 @@ The closure of the embassy comes after weeks of concern about the safety of thos
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/2011-2012-syrian-uprising-syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _2017-08-27 03:35:08 (First version)_
+1. [2011-2012 Syrian uprising: Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/2011-2012-syrian-uprising-syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _2018-02-06 13:49:23 (First version)_
 1. [Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Pakistani military says it has killed at least 15 militants in air strikes i
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistan Air Force conducts bombing raids against Tehrik-i-Taliban Pakistan positions in the Tirah region killing at least 15 militants in response to the Jinnah International Airport attack in Karachi. ](/news/2014/06/10/war-in-north-west-pakistan-the-pakistan-air-force-conducts-bombing-raids-against-tehrik-i-taliban-pakistan-positions-in-the-tirah-region-ki.md) _2017-08-27 03:40:49 (First version)_
+1. [War in North-West Pakistan: The Pakistan Air Force conducts bombing raids against Tehrik-i-Taliban Pakistan positions in the Tirah region killing at least 15 militants in response to the Jinnah International Airport attack in Karachi. ](/news/2014/06/10/war-in-north-west-pakistan-the-pakistan-air-force-conducts-bombing-raids-against-tehrik-i-taliban-pakistan-positions-in-the-tirah-region-ki.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistan Air Force conducts bombing raids against Tehrik-i-Taliban Pakistan positions in the Tirah region killing at least 15 militants in response to the Jinnah International Airport attack in Karachi. ](/news/2014/06/10/the-pakistan-air-force-conducts-bombing-raids-against-tehrik-i-taliban-pakistan-positions-in-the-tirah-region-killing-at-least-15-militants.md) _(Current version)_
 
 ### Related:

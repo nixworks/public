@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/10/nato-and-afghan-forces-killed-94-taliban-fighte
 
 ### Changes:
 
-1. [ Taliban insurgency (Operation Medusa): NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/taliban-insurgency-operation-medusa-p-nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanis.md) _2017-08-25 03:18:22 (First version)_
-2. [ Taliban insurgency (Operation Medusa):: NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/taliban-insurgency-operation-medusa-nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanis.md) _2017-08-27 03:18:16 (Update)_
+1. [ Taliban insurgency (Operation Medusa): NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/taliban-insurgency-operation-medusa-p-nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanis.md) _2018-02-06 13:49:17 (First version)_
+2. [ Taliban insurgency (Operation Medusa):: NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/taliban-insurgency-operation-medusa-nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanis.md) _2018-02-06 13:49:17 (Update)_
 2. [ NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanistan-the-military-alliance-says.md) _(Current version)_
 
 ### Related:

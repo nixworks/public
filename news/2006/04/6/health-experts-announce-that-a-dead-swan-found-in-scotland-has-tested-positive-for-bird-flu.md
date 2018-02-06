@@ -17,7 +17,7 @@ Formats: [HTML](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-i
 
 ### Changes:
 
-1. [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. [http:--news.bbc.co.uk-1-hi-uk-4882946.stm (BBC)]. It has been further confirmed that the bird had the deadly H5N1 strain of the virus [http:--www.bloomberg.com-apps-news?pid=10000085&sid=aEgX0Zq0jJBM (Bloomberg)]. Scotland and the UK confirm H5N1 virus, but say a GB-wide poultry housing requirement would be "disproportionate." [http:--www.fwi.co.uk-home-default.aspx (Farmers Weekly)].](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu-http-news-bbc-co-uk-1-hi-uk-4882946-stm-bb.md) _2017-06-18 03:17:42 (First version)_
+1. [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. [http:--news.bbc.co.uk-1-hi-uk-4882946.stm (BBC)]. It has been further confirmed that the bird had the deadly H5N1 strain of the virus [http:--www.bloomberg.com-apps-news?pid=10000085&sid=aEgX0Zq0jJBM (Bloomberg)]. Scotland and the UK confirm H5N1 virus, but say a GB-wide poultry housing requirement would be "disproportionate." [http:--www.fwi.co.uk-home-default.aspx (Farmers Weekly)].](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu-http-news-bbc-co-uk-1-hi-uk-4882946-stm-bb.md) _2018-02-06 13:49:17 (First version)_
 1. [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. ](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu.md) _(Current version)_
 
 ### Related:

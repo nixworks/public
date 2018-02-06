@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/5/afghan-police-and-international-forces-kill-64-p
 
 ### Changes:
 
-1. [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16.md) _2017-08-25 03:28:35 (First version)_
+1. [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16.md) _2018-02-06 13:49:20 (First version)_
 1. [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md) _(Current version)_
 
 ### Related:

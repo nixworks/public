@@ -16,7 +16,7 @@ At least eight people are dead in Vanuatu, a senior aid official says, after one
 
 ### Changes:
 
-1. [Cyclone Pam: Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md) _2017-08-27 03:42:05 (First version)_
+1. [Cyclone Pam: Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md) _2018-02-06 13:49:26 (First version)_
 1. [Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md) _(Current version)_
 
 ### Related:

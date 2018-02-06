@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/26/boko-haram-captures-karamga-island-in-lake-chad
 
 ### Changes:
 
-1. [Boko Haram: Boko Haram captures Karamga island in Lake Chad from Niger, killing many soldiers. ](/news/2015/04/26/boko-haram-boko-haram-captures-karamga-island-in-lake-chad-from-niger-killing-many-soldiers.md) _2017-08-27 03:42:15 (First version)_
+1. [Boko Haram: Boko Haram captures Karamga island in Lake Chad from Niger, killing many soldiers. ](/news/2015/04/26/boko-haram-boko-haram-captures-karamga-island-in-lake-chad-from-niger-killing-many-soldiers.md) _2018-02-06 13:49:27 (First version)_
 1. [Boko Haram captures Karamga island in Lake Chad from Niger, killing many soldiers. ](/news/2015/04/26/boko-haram-captures-karamga-island-in-lake-chad-from-niger-killing-many-soldiers.md) _(Current version)_
 
 ### Related:

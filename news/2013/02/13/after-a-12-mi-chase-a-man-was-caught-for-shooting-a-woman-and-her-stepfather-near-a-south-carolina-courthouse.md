@@ -16,8 +16,8 @@ A man involved in a paternity dispute opened fire Wednesday in front of a South 
 
 ### Changes:
 
-1. [After a {{convert|12|mi|km|adj=on}} chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-convert-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2017-05-01 03:40:30 (First version)_
-2. [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2017-08-29 03:37:32 (Update)_
+1. [After a {{convert|12|mi|km|adj=on}} chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-convert-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2018-02-06 13:49:24 (First version)_
+2. [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2018-02-06 13:49:24 (Update)_
 2. [After a 12 mi chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _(Current version)_
 
 ### Related:

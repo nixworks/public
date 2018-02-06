@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/15/wreckage-from-the-american-helicopter-missing-s
 
 ### Changes:
 
-1. [ April 2015 Nepal earthquake: Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/april-2015-nepal-earthquake-wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occup.md) _2017-08-27 03:42:19 (First version)_
+1. [ April 2015 Nepal earthquake: Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/april-2015-nepal-earthquake-wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occup.md) _2018-02-06 13:49:27 (First version)_
 1. [ Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occupants.md) _(Current version)_
 
 ### Related:

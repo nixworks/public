@@ -16,7 +16,7 @@ At least 43 people are killed when a powerful suicide bombing rips through the Y
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: A suicide bomb attack kills at least 20 people in Tahrir Square in the Yemeni capital Sana'a. ](/news/2014/10/9/al-qaeda-insurgency-in-yemen-a-suicide-bomb-attack-kills-at-least-20-people-in-tahrir-square-in-the-yemeni-capital-sana-a.md) _2017-08-27 03:41:22 (First version)_
+1. [al-Qaeda insurgency in Yemen: A suicide bomb attack kills at least 20 people in Tahrir Square in the Yemeni capital Sana'a. ](/news/2014/10/9/al-qaeda-insurgency-in-yemen-a-suicide-bomb-attack-kills-at-least-20-people-in-tahrir-square-in-the-yemeni-capital-sana-a.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomb attack kills at least 20 people in Tahrir Square in the Yemeni capital Sana'a. ](/news/2014/10/9/a-suicide-bomb-attack-kills-at-least-20-people-in-tahrir-square-in-the-yemeni-capital-sana-a.md) _(Current version)_
 
 ### Related:

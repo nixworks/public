@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-r
 
 ### Changes:
 
-1. [Armenian constitutional referendum, 2015: Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/armenian-constitutional-referendum-2015-voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parli.md) _2017-08-27 03:44:12 (First version)_
+1. [Armenian constitutional referendum, 2015: Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/armenian-constitutional-referendum-2015-voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parli.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.md) _(Current version)_
 
 ### Related:

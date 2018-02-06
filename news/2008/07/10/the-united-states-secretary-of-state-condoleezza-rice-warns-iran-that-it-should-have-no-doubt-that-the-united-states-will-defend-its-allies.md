@@ -18,8 +18,8 @@ Formats: [HTML](/news/2008/07/10/the-united-states-secretary-of-state-condoleezz
 
 ### Changes:
 
-1. [ Iran: The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/iran-p-the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its.md) _2017-08-25 03:22:33 (First version)_
-2. [ Iran:: The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/iran-the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its.md) _2017-08-27 03:22:27 (Update)_
+1. [ Iran:: The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/iran-the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its.md) _2018-02-06 13:49:18 (First version)_
+2. [ Iran: The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/iran-p-the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its-allies.md) _(Current version)_
 
 ### Related:

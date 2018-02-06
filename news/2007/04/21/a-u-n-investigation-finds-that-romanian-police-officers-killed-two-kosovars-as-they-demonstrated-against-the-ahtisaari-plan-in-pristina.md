@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-
 
 ### Changes:
 
-1. [ A U.N. investigation finds that Romanian police officers killed two Kosovars as they demonstrated ''against'' the Ahtisaari Plan in Pristina, capital of Kosovo, in February 2007. The Romanian force has since left Kosovo. ](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-officers-killed-two-kosovars-as-they-demonstrated-against-the-ahtisaari-plan-in-pristin.md) _2017-08-25 03:19:39 (First version)_
+1. [ A U.N. investigation finds that Romanian police officers killed two Kosovars as they demonstrated ''against'' the Ahtisaari Plan in Pristina, capital of Kosovo, in February 2007. The Romanian force has since left Kosovo. ](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-officers-killed-two-kosovars-as-they-demonstrated-against-the-ahtisaari-plan-in-pristin.md) _2018-02-06 13:49:17 (First version)_
 1. [ A U.N. investigation finds that Romanian police officers killed two Kosovars as they demonstrated "against" the Ahtisaari Plan in Pristina, capital of Kosovo, in February 2007. The Romanian force has since left Kosovo. ](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-officers-killed-two-kosovars-as-they-demonstrated-against-the-ahtisaari-plan-in-pristina.md) _(Current version)_
 
 ### Related:

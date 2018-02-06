@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/05/22/german-chancellor-gerhard-schroder-has-declared
 
 ### Changes:
 
-1. [ German Chancellor Goo Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. ](/news/2005/05/22/german-chancellor-goo-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-than.md) _2017-08-13 03:16:25 (First version)_
+1. [ German Chancellor Goo Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. ](/news/2005/05/22/german-chancellor-goo-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-than.md) _2018-02-06 13:49:16 (First version)_
 1. [ German Chancellor Gerhard Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. ](/news/2005/05/22/german-chancellor-gerhard-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-t.md) _(Current version)_
 
 ### Related:

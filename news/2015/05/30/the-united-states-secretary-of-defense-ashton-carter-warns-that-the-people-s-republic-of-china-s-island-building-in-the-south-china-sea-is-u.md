@@ -18,7 +18,7 @@ US defence secretary expresses deep concern about China’s push to claim resour
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: The United States Secretary of Defense Ashton Carter warns that the People's Republic of China's island building in the South China Sea is undermining security in the Asia-Pacific region and has called for a diplomatic solution. ](/news/2015/05/30/territorial-disputes-in-the-south-china-sea-the-united-states-secretary-of-defense-ashton-carter-warns-that-the-people-s-republic-of-china.md) _2017-08-27 03:42:26 (First version)_
+1. [Territorial disputes in the South China Sea: The United States Secretary of Defense Ashton Carter warns that the People's Republic of China's island building in the South China Sea is undermining security in the Asia-Pacific region and has called for a diplomatic solution. ](/news/2015/05/30/territorial-disputes-in-the-south-china-sea-the-united-states-secretary-of-defense-ashton-carter-warns-that-the-people-s-republic-of-china.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States Secretary of Defense Ashton Carter warns that the People's Republic of China's island building in the South China Sea is undermining security in the Asia-Pacific region and has called for a diplomatic solution. ](/news/2015/05/30/the-united-states-secretary-of-defense-ashton-carter-warns-that-the-people-s-republic-of-china-s-island-building-in-the-south-china-sea-is-u.md) _(Current version)_
 
 ### Related:

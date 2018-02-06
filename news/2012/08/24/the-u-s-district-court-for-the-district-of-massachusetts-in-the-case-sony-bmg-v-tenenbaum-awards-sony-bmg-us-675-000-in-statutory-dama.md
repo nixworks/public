@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/08/24/the-u-s-district-court-for-the-district-of-mass
 
 ### Changes:
 
-1. [The U.S. District Court for the District of Massachusetts, in the case ''Sony BMG v. Tenenbaum'', awards Sony BMG US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-d.md) _2017-08-25 03:36:20 (First version)_
+1. [The U.S. District Court for the District of Massachusetts, in the case ''Sony BMG v. Tenenbaum'', awards Sony BMG US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-d.md) _2018-02-06 13:49:23 (First version)_
 1. [The U.S. District Court for the District of Massachusetts, in the case "Sony BMG v. Tenenbaum", awards Sony BMG US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-dama.md) _(Current version)_
 
 ### Related:

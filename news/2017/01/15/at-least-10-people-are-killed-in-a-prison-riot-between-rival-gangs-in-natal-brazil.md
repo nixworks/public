@@ -16,7 +16,7 @@ Inmates seize control of a jail for 14 hours in the city of Natal, killing at le
 
 ### Changes:
 
-1. [Crime in Brazil: At least 10 people are killed in a prison riot between rival gangs in Natal, Brazil. ](/news/2017/01/15/crime-in-brazil-at-least-10-people-are-killed-in-a-prison-riot-between-rival-gangs-in-natal-brazil.md) _2017-08-27 03:47:36 (First version)_
+1. [Crime in Brazil: At least 10 people are killed in a prison riot between rival gangs in Natal, Brazil. ](/news/2017/01/15/crime-in-brazil-at-least-10-people-are-killed-in-a-prison-riot-between-rival-gangs-in-natal-brazil.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 10 people are killed in a prison riot between rival gangs in Natal, Brazil. ](/news/2017/01/15/at-least-10-people-are-killed-in-a-prison-riot-between-rival-gangs-in-natal-brazil.md) _(Current version)_
 
 ### Related:

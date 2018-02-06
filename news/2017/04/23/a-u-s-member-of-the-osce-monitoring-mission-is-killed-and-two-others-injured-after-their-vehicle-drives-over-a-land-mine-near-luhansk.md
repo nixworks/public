@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-
 
 ### Changes:
 
-1. [War in Donbass: A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/war-in-donbass-a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-ne.md) _2017-08-27 03:48:13 (First version)_
+1. [War in Donbass: A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/war-in-donbass-a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-ne.md) _2018-02-06 13:49:30 (First version)_
 1. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/17/several-hundred-people-take-part-in-clashes-bet
 
 ### Changes:
 
-1. [Several hundred people are injured in clashes at the October Palace, Kiev, between police and anti-Petro Poroshenko protestors, who demand his resignation. ](/news/2017/12/17/several-hundred-people-are-injured-in-clashes-at-the-october-palace-kiev-between-police-and-anti-petro-poroshenko-protestors-who-demand-h.md) _2017-12-17 21:30:05 (First version)_
+1. [Several hundred people are injured in clashes at the October Palace, Kiev, between police and anti-Petro Poroshenko protestors, who demand his resignation. ](/news/2017/12/17/several-hundred-people-are-injured-in-clashes-at-the-october-palace-kiev-between-police-and-anti-petro-poroshenko-protestors-who-demand-h.md) _2018-02-06 13:49:31 (First version)_
 1. [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md) _(Current version)_
 
 ### Related:

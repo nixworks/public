@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/09/2/severe-tropical-storm-lionrock-lands-in-china-s-
 
 ### Changes:
 
-1. [2010 Pacific typhoon season: Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/2010-pacific-typhoon-season-severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-ra.md) _2017-08-27 03:29:55 (First version)_
+1. [2010 Pacific typhoon season: Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/2010-pacific-typhoon-season-severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-ra.md) _2018-02-06 13:49:20 (First version)_
 1. [Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-rains.md) _(Current version)_
 
 ### Related:

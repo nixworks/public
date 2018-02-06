@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/28/a-group-of-schoolchildren-are-taken-hostage-by-
 
 ### Changes:
 
-1. [ War in North-West Pakistan: A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. ](/news/2008/01/28/war-in-north-west-pakistan-a-group-of-schoolchildren-are-taken-hostage-by-militants-in-bannu-pakistan-but-later-released.md) _2017-08-27 03:21:36 (First version)_
+1. [ War in North-West Pakistan: A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. ](/news/2008/01/28/war-in-north-west-pakistan-a-group-of-schoolchildren-are-taken-hostage-by-militants-in-bannu-pakistan-but-later-released.md) _2018-02-06 13:49:18 (First version)_
 1. [ A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. ](/news/2008/01/28/a-group-of-schoolchildren-are-taken-hostage-by-militants-in-bannu-pakistan-but-later-released.md) _(Current version)_
 
 ### Related:

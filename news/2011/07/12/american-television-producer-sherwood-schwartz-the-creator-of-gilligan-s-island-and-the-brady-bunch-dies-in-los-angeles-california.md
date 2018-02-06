@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/12/american-television-producer-sherwood-schwartz-
 
 ### Changes:
 
-1. [American television producer Sherwood Schwartz, the creator of ''Gilligan's Island'' and ''The Brady Bunch'', dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-californi.md) _2017-08-25 03:33:46 (First version)_
+1. [American television producer Sherwood Schwartz, the creator of ''Gilligan's Island'' and ''The Brady Bunch'', dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-californi.md) _2018-02-06 13:49:22 (First version)_
 1. [American television producer Sherwood Schwartz, the creator of "Gilligan's Island" and "The Brady Bunch", dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-california.md) _(Current version)_
 
 ### Related:

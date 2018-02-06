@@ -16,7 +16,7 @@ The head of Cologne’s police force has been suspended from his post as anger c
 
 ### Changes:
 
-1. [New Year's Eve sexual assaults in Germany: The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/new-year-s-eve-sexual-assaults-in-germany-the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-critici.md) _2017-08-27 03:44:37 (First version)_
+1. [New Year's Eve sexual assaults in Germany: The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/new-year-s-eve-sexual-assaults-in-germany-the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-critici.md) _2018-02-06 13:49:28 (First version)_
 1. [The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.md) _(Current version)_
 
 ### Related:

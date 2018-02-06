@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/25/a-militia-attack-on-a-power-plant-in-sirte-leav
 
 ### Changes:
 
-1. [Libyan civil war: A militia attack on a power plant in Sirte leaves at least 19 soldiers dead. ](/news/2014/12/25/libyan-civil-war-a-militia-attack-on-a-power-plant-in-sirte-leaves-at-least-19-soldiers-dead.md) _2017-08-27 03:41:41 (First version)_
+1. [Libyan civil war: A militia attack on a power plant in Sirte leaves at least 19 soldiers dead. ](/news/2014/12/25/libyan-civil-war-a-militia-attack-on-a-power-plant-in-sirte-leaves-at-least-19-soldiers-dead.md) _2018-02-06 13:49:26 (First version)_
 1. [A militia attack on a power plant in Sirte leaves at least 19 soldiers dead. ](/news/2014/12/25/a-militia-attack-on-a-power-plant-in-sirte-leaves-at-least-19-soldiers-dead.md) _(Current version)_
 
 ### Related:

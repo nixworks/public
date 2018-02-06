@@ -17,8 +17,8 @@ Secretary of State John Kerry says the US now has evidence of sarin gas use in S
 
 ### Changes:
 
-1. [Syrian civil war:The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/syrian-civil-war-pthe-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md) _2017-08-25 03:39:14 (First version)_
-2. [Syrian civil war:: The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/syrian-civil-war-the-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md) _2017-08-27 03:39:30 (Update)_
+1. [Syrian civil war:: The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/syrian-civil-war-the-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/syrian-civil-war-pthe-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md) _2018-02-06 13:49:25 (Update)_
 2. [The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/the-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md) _(Current version)_
 
 ### Related:

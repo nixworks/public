@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-su
 
 ### Changes:
 
-1. [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudan-sudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md) _2017-08-27 03:35:31 (First version)_
+1. [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudan-sudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md) _2018-02-06 13:49:23 (First version)_
 1. [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md) _(Current version)_
 
 ### Related:

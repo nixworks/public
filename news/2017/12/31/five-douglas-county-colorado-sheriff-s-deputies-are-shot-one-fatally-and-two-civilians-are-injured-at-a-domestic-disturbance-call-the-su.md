@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies
 
 ### Changes:
 
-1. [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured, at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-s.md) _2017-12-31 18:30:05 (First version)_
+1. [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured, at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-s.md) _2018-02-06 13:49:31 (First version)_
 1. [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md) _(Current version)_
 
 ### Related:

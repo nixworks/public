@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/5/separate-attacks-in-baghdad-kill-at-least-eight-
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present): Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/iraqi-insurgency-2011-present-separate-attacks-in-baghdad-kill-at-least-eight-people.md) _2017-08-27 03:42:02 (First version)_
+1. [Iraqi insurgency (2011-present): Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/iraqi-insurgency-2011-present-separate-attacks-in-baghdad-kill-at-least-eight-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/separate-attacks-in-baghdad-kill-at-least-eight-people.md) _(Current version)_
 
 ### Related:

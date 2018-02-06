@@ -18,7 +18,7 @@ Hundreds of armed police seal off an area of central Sydney where a gunman is ho
 
 ### Changes:
 
-1. [2014 Sydney hostage crisis: A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/2014-sydney-hostage-crisis-a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md) _2017-08-27 03:41:38 (First version)_
+1. [2014 Sydney hostage crisis: A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/2014-sydney-hostage-crisis-a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md) _2018-02-06 13:49:26 (First version)_
 1. [A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md) _(Current version)_
 
 ### Related:

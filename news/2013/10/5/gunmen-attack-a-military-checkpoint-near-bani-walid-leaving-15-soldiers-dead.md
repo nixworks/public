@@ -16,8 +16,8 @@ Gunmen attack military checkpoint south-east of the Libyan capital Tripoli killi
 
 ### Changes:
 
-1. [Post-civil war clashes in Libya:Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-pgunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _2017-08-25 03:39:21 (First version)_
-2. [Post-civil war clashes in Libya:: Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _2017-08-27 03:39:38 (Update)_
+1. [Post-civil war clashes in Libya:Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-pgunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war clashes in Libya:: Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md) _(Current version)_
 
 ### Related:

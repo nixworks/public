@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/30/the-influential-christian-sect-iglesia-ni-crist
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The influential Christian sect Iglesia ni Cristo endorses Grace Poe for president and Bongbong Marcos for vice president. ](/news/2016/04/30/philippine-presidential-election-2016-the-influential-christian-sect-iglesia-ni-cristo-endorses-grace-poe-for-president-and-bongbong-marco.md) _2017-08-27 03:45:55 (First version)_
+1. [Philippine presidential election, 2016: The influential Christian sect Iglesia ni Cristo endorses Grace Poe for president and Bongbong Marcos for vice president. ](/news/2016/04/30/philippine-presidential-election-2016-the-influential-christian-sect-iglesia-ni-cristo-endorses-grace-poe-for-president-and-bongbong-marco.md) _2018-02-06 13:49:29 (First version)_
 1. [The influential Christian sect Iglesia ni Cristo endorses Grace Poe for president and Bongbong Marcos for vice president. ](/news/2016/04/30/the-influential-christian-sect-iglesia-ni-cristo-endorses-grace-poe-for-president-and-bongbong-marcos-for-vice-president.md) _(Current version)_
 
 ### Related:

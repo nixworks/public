@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/war-in-afghanistan-2015-present-four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suici.md) _2017-08-27 03:47:14 (First version)_
+1. [War in Afghanistan (2015-present): Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/war-in-afghanistan-2015-present-four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suici.md) _2018-02-06 13:49:29 (First version)_
 1. [Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suicide-bomber-attack-near-the-afghan-defe.md) _(Current version)_
 
 ### Related:

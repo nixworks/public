@@ -17,8 +17,8 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 
 ### Changes:
 
-1. [ Pakistan: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-p-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _2017-08-25 03:24:26 (First version)_
-2. [ Pakistan:: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _2017-08-27 03:24:18 (Update)_
+1. [ Pakistan:: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _2018-02-06 13:49:18 (First version)_
+2. [ Pakistan: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-p-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Latest violence between Lulua-Luba and Chow-Pende communities extends eight mont
 
 ##### Jonathan Demme
 ### [American film director Jonathan Demme, winner of the Academy Award for Best Director for "The Silence of the Lambs", dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications-f.md)
-_Context: Jonathan Demme, esophageal cancer, Academy Award for Best Director, The Silence of the Lambs_
+_Context: Academy Award for Best Director, Jonathan Demme, The Silence of the Lambs, esophageal cancer_
 
 ##### North Korea-South Korea relations
 ### [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md)
@@ -49,7 +49,7 @@ TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledglin
 
 ##### Morocco
 ### [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md)
-_Context: Saadeddine Othmani, cabinet, Morocco, Assembly of Representatives_
+_Context: Morocco, Saadeddine Othmani, cabinet, Assembly of Representatives_
 
 ##### Homo
 ### [A speculative study hypothesizes that a species of "Homo" may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)

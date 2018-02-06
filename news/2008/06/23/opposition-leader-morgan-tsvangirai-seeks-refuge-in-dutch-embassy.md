@@ -18,8 +18,8 @@ It will be impossible for Zimbabwe to hold a free and fair run-off election on F
 
 ### Changes:
 
-1. [ Zimbabwean Electoral Crisis: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-p-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md) _2017-08-25 03:22:27 (First version)_
-2. [ Zimbabwean Electoral Crisis:: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md) _2017-08-27 03:22:20 (Update)_
+1. [ Zimbabwean Electoral Crisis: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-p-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md) _2018-02-06 13:49:18 (First version)_
+2. [ Zimbabwean Electoral Crisis:: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md) _2018-02-06 13:49:18 (Update)_
 2. [ Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md) _(Current version)_
 
 ### Related:

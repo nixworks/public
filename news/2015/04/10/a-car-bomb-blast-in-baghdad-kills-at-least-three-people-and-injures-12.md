@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/10/a-car-bomb-blast-in-baghdad-kills-at-least-thre
 
 ### Changes:
 
-1. [Iraqi insurgency: A car bomb blast in Baghdad kills at least three people and injures 12. ](/news/2015/04/10/iraqi-insurgency-a-car-bomb-blast-in-baghdad-kills-at-least-three-people-and-injures-12.md) _2017-08-27 03:42:11 (First version)_
+1. [Iraqi insurgency: A car bomb blast in Baghdad kills at least three people and injures 12. ](/news/2015/04/10/iraqi-insurgency-a-car-bomb-blast-in-baghdad-kills-at-least-three-people-and-injures-12.md) _2018-02-06 13:49:27 (First version)_
 1. [A car bomb blast in Baghdad kills at least three people and injures 12. ](/news/2015/04/10/a-car-bomb-blast-in-baghdad-kills-at-least-three-people-and-injures-12.md) _(Current version)_
 
 ### Related:

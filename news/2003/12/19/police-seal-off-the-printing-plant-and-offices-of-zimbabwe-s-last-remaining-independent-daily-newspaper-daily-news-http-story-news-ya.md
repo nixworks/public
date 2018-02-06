@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/19/police-seal-off-the-printing-plant-and-offices-
 
 ### Changes:
 
-1. [Police seal off the printing plant and offices of Zimbabwe's last remaining independent daily newspaper, ''Daily News''. [http:--story.news.yahoo.com-news?tmpl=story&u=-ap-20031219-ap_on_re_af-zimbabwe_media]](/news/2003/12/19/police-seal-off-the-printing-plant-and-offices-of-zimbabwe-s-last-remaining-independent-daily-newspaper-daily-news-http-story-news.md) _2017-08-25 03:15:25 (First version)_
+1. [Police seal off the printing plant and offices of Zimbabwe's last remaining independent daily newspaper, ''Daily News''. [http:--story.news.yahoo.com-news?tmpl=story&u=-ap-20031219-ap_on_re_af-zimbabwe_media]](/news/2003/12/19/police-seal-off-the-printing-plant-and-offices-of-zimbabwe-s-last-remaining-independent-daily-newspaper-daily-news-http-story-news.md) _2018-02-06 13:49:15 (First version)_
 1. [Police seal off the printing plant and offices of Zimbabwe's last remaining independent daily newspaper, "Daily News". [http:--story.news.yahoo.com-news?tmpl=story&u=-ap-20031219-ap_on_re_af-zimbabwe_media]](/news/2003/12/19/police-seal-off-the-printing-plant-and-offices-of-zimbabwe-s-last-remaining-independent-daily-newspaper-daily-news-http-story-news-ya.md) _(Current version)_
 
 ### Related:

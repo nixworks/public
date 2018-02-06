@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/23/in-a-raid-on-boko-haram-islamists-northeast-hea
 
 ### Changes:
 
-1. [Boko Haram insurgency: In a raid on Boko Haram Islamists' northeast heartland, Nigeria-s air force kills senior militants and possibly fatally wounds their leader, Abubakar Shekau. ](/news/2016/08/23/boko-haram-insurgency-in-a-raid-on-boko-haram-islamists-northeast-heartland-nigeria-s-air-force-kills-senior-militants-and-possibly-fat.md) _2017-08-27 03:46:42 (First version)_
+1. [Boko Haram insurgency: In a raid on Boko Haram Islamists' northeast heartland, Nigeria-s air force kills senior militants and possibly fatally wounds their leader, Abubakar Shekau. ](/news/2016/08/23/boko-haram-insurgency-in-a-raid-on-boko-haram-islamists-northeast-heartland-nigeria-s-air-force-kills-senior-militants-and-possibly-fat.md) _2018-02-06 13:49:29 (First version)_
 1. [In a raid on Boko Haram Islamists' northeast heartland, Nigeria's air force kills senior militants and possibly fatally wounds their leader, Abubakar Shekau. ](/news/2016/08/23/in-a-raid-on-boko-haram-islamists-northeast-heartland-nigeriaas-air-force-kills-senior-militants-and-possibly-fatally-wounds-their-leade.md) _(Current version)_
 
 ### Related:

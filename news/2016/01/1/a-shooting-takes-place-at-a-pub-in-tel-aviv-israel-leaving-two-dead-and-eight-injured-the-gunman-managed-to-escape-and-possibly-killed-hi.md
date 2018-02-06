@@ -16,7 +16,7 @@ Massive manhunt underway for suspect, identified as an Israeli Arab; two serious
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: A shooting takes place at a pub in Tel Aviv, Israel, leaving two dead and eight injured. The gunman managed to escape and possibly killed his accomplice, an Arab taxi driver, whose body was found nearby. The police identified the shooter as 30 year old muslim Nisa'at Melkham from Ar'ara and searched his home. ](/news/2016/01/1/israeli-palestinian-conflict-a-shooting-takes-place-at-a-pub-in-tel-aviv-israel-leaving-two-dead-and-eight-injured-the-gunman-managed.md) _2017-08-27 03:44:34 (First version)_
+1. [Israeli-Palestinian conflict: A shooting takes place at a pub in Tel Aviv, Israel, leaving two dead and eight injured. The gunman managed to escape and possibly killed his accomplice, an Arab taxi driver, whose body was found nearby. The police identified the shooter as 30 year old muslim Nisa'at Melkham from Ar'ara and searched his home. ](/news/2016/01/1/israeli-palestinian-conflict-a-shooting-takes-place-at-a-pub-in-tel-aviv-israel-leaving-two-dead-and-eight-injured-the-gunman-managed.md) _2018-02-06 13:49:28 (First version)_
 1. [A shooting takes place at a pub in Tel Aviv, Israel, leaving two dead and eight injured. The gunman managed to escape and possibly killed his accomplice, an Arab taxi driver, whose body was found nearby. The police identified the shooter as 30 year old muslim Nisa'at Melkham from Ar'ara and searched his home. ](/news/2016/01/1/a-shooting-takes-place-at-a-pub-in-tel-aviv-israel-leaving-two-dead-and-eight-injured-the-gunman-managed-to-escape-and-possibly-killed-hi.md) _(Current version)_
 
 ### Related:

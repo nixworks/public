@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/23/according-to-an-advisor-to-gambian-president-ad
 
 ### Changes:
 
-1. [2016-2017 Gambian constitutional crisis: According to an advisor to Gambian President Adama Barrow, more than 500 million dalasi, equivalent to US$11.3 million, are reported missing from state coffers after former President Yahya Jammeh left the country in exile. ](/news/2017/01/23/2016-2017-gambian-constitutional-crisis-according-to-an-advisor-to-gambian-president-adama-barrow-more-than-500-million-dalasi-equivale.md) _2017-08-27 03:47:40 (First version)_
+1. [2016-2017 Gambian constitutional crisis: According to an advisor to Gambian President Adama Barrow, more than 500 million dalasi, equivalent to US$11.3 million, are reported missing from state coffers after former President Yahya Jammeh left the country in exile. ](/news/2017/01/23/2016-2017-gambian-constitutional-crisis-according-to-an-advisor-to-gambian-president-adama-barrow-more-than-500-million-dalasi-equivale.md) _2018-02-06 13:49:30 (First version)_
 1. [According to an advisor to Gambian President Adama Barrow, more than 500 million dalasi, equivalent to US$11.3 million, are reported missing from state coffers after former President Yahya Jammeh left the country in exile. ](/news/2017/01/23/according-to-an-advisor-to-gambian-president-adama-barrow-more-than-500-million-dalasi-equivalent-to-us-11-3-million-are-reported-missing.md) _(Current version)_
 
 ### Related:

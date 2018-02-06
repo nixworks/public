@@ -16,7 +16,7 @@ The local government is expecting more residents to be displaced as the military
 
 ### Changes:
 
-1. [November 2016 Butig clash: Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. ](/news/2016/11/29/november-2016-butig-clash-almost-2-000-families-are-displaced-in-mindanao-region-of-the-philippines-due-to-clashes-between-government-force.md) _2017-08-27 03:47:20 (First version)_
+1. [November 2016 Butig clash: Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. ](/news/2016/11/29/november-2016-butig-clash-almost-2-000-families-are-displaced-in-mindanao-region-of-the-philippines-due-to-clashes-between-government-force.md) _2018-02-06 13:49:29 (First version)_
 1. [Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. ](/news/2016/11/29/almost-2-000-families-are-displaced-in-mindanao-region-of-the-philippines-due-to-clashes-between-government-forces-and-islamist-militants.md) _(Current version)_
 
 ### Related:

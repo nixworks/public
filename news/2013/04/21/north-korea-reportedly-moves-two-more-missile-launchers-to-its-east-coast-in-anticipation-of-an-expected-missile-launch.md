@@ -16,8 +16,8 @@ North Korea has moved two more missile launchers to its east coast, where prepar
 
 ### Changes:
 
-1. [2013 Korean crisis:North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-pnorth-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md) _2017-08-25 03:38:26 (First version)_
-2. [2013 Korean crisis:: North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-north-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md) _2017-08-27 03:38:38 (Update)_
+1. [2013 Korean crisis:North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-pnorth-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Korean crisis:: North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-north-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/north-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md) _(Current version)_
 
 ### Related:

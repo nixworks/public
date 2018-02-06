@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/21/a-u-s-federal-judge-in-san-francisco-orders-two
 
 ### Changes:
 
-1. [ A U.S. federal judge in San Francisco orders two ''San Francisco Chronicle'' reporters jailed for up to 18 months for refusing to reveal who leaked them secret grand jury testimony about steroids in baseball. ](/news/2006/09/21/a-u-s-federal-judge-in-san-francisco-orders-two-san-francisco-chronicle-reporters-jailed-for-up-to-18-months-for-refusing-to-reveal-wh.md) _2017-08-25 03:18:27 (First version)_
+1. [ A U.S. federal judge in San Francisco orders two ''San Francisco Chronicle'' reporters jailed for up to 18 months for refusing to reveal who leaked them secret grand jury testimony about steroids in baseball. ](/news/2006/09/21/a-u-s-federal-judge-in-san-francisco-orders-two-san-francisco-chronicle-reporters-jailed-for-up-to-18-months-for-refusing-to-reveal-wh.md) _2018-02-06 13:49:17 (First version)_
 1. [ A U.S. federal judge in San Francisco orders two "San Francisco Chronicle" reporters jailed for up to 18 months for refusing to reveal who leaked them secret grand jury testimony about steroids in baseball. ](/news/2006/09/21/a-u-s-federal-judge-in-san-francisco-orders-two-san-francisco-chronicle-reporters-jailed-for-up-to-18-months-for-refusing-to-reveal-who.md) _(Current version)_
 
 ### Related:

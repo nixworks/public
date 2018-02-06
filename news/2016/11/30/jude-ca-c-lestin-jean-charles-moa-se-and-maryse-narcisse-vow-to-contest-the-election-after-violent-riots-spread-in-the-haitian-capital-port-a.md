@@ -16,7 +16,7 @@ Violent protests erupted in Haiti on Tuesday as losing candidates rejected the p
 
 ### Changes:
 
-1. [Haitian presidential election, round 2: Jude Celestin, Jean-Charles Moise and Maryse Narcisse vow to contest the election after violent riots spread in the Haitian capital Port-au-Prince. ](/news/2016/11/30/haitian-presidential-election-round-2-jude-ca-c-lestin-jean-charles-moa-se-and-maryse-narcisse-vow-to-contest-the-election-after-violent-ri.md) _2017-08-27 03:47:21 (First version)_
+1. [Haitian presidential election, round 2: Jude Celestin, Jean-Charles Moise and Maryse Narcisse vow to contest the election after violent riots spread in the Haitian capital Port-au-Prince. ](/news/2016/11/30/haitian-presidential-election-round-2-jude-ca-c-lestin-jean-charles-moa-se-and-maryse-narcisse-vow-to-contest-the-election-after-violent-ri.md) _2018-02-06 13:49:29 (First version)_
 1. [Jude Celestin, Jean-Charles Moise and Maryse Narcisse vow to contest the election after violent riots spread in the Haitian capital Port-au-Prince. ](/news/2016/11/30/jude-ca-c-lestin-jean-charles-moa-se-and-maryse-narcisse-vow-to-contest-the-election-after-violent-riots-spread-in-the-haitian-capital-port-a.md) _(Current version)_
 
 ### Related:

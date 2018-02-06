@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/02/27/beji-caid-el-sebsi-is-announced-as-the-new-prim
 
 ### Changes:
 
-1. [ Tunisia:Beji Caid el Sebsi is announced as the new Prime Minister. ](/news/2011/02/27/tunisia-pbeji-caid-el-sebsi-is-announced-as-the-new-prime-minister.md) _2017-08-25 03:32:21 (First version)_
-2. [ Tunisia:: Beji Caid el Sebsi is announced as the new Prime Minister. ](/news/2011/02/27/tunisia-beji-caid-el-sebsi-is-announced-as-the-new-prime-minister.md) _2017-08-27 03:32:29 (Update)_
+1. [ Tunisia:Beji Caid el Sebsi is announced as the new Prime Minister. ](/news/2011/02/27/tunisia-pbeji-caid-el-sebsi-is-announced-as-the-new-prime-minister.md) _2018-02-06 13:49:22 (First version)_
+2. [ Tunisia:: Beji Caid el Sebsi is announced as the new Prime Minister. ](/news/2011/02/27/tunisia-beji-caid-el-sebsi-is-announced-as-the-new-prime-minister.md) _2018-02-06 13:49:22 (Update)_
 2. [Beji Caid el Sebsi is announced as the new Prime Minister. ](/news/2011/02/27/beji-caid-el-sebsi-is-announced-as-the-new-prime-minister.md) _(Current version)_
 
 ### Related:

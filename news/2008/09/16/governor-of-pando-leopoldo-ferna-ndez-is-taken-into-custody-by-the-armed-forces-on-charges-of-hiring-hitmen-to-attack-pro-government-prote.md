@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/16/governor-of-pando-leopoldo-ferna-ndez-is-taken-
 
 ### Changes:
 
-1. [ Unrest in Bolivia: Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-p-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md) _2017-08-25 03:22:53 (First version)_
-2. [ Unrest in Bolivia:: Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md) _2017-08-27 03:22:46 (Update)_
+1. [ Unrest in Bolivia: Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-p-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md) _2018-02-06 13:49:18 (First version)_
+2. [ Unrest in Bolivia:: Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md) _2018-02-06 13:49:18 (Update)_
 2. [ Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack-pro-government-prote.md) _(Current version)_
 
 ### Related:

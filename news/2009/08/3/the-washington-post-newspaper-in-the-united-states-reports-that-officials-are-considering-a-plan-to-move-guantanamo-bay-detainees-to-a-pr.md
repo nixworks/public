@@ -16,7 +16,7 @@ Officials are reportedly considering a plan to move Guantanamo detainees to a sp
 
 ### Changes:
 
-1. [ ''The Washington Post'' newspaper in the United States reports that officials are considering a plan to move Guantnamo Bay detainees to a prison camp. ](/news/2009/08/3/the-washington-post-newspaper-in-the-united-states-reports-that-officials-are-considering-a-plan-to-move-guantanamo-bay-detainees-to-a.md) _2017-08-25 03:25:21 (First version)_
+1. [ ''The Washington Post'' newspaper in the United States reports that officials are considering a plan to move Guantnamo Bay detainees to a prison camp. ](/news/2009/08/3/the-washington-post-newspaper-in-the-united-states-reports-that-officials-are-considering-a-plan-to-move-guantanamo-bay-detainees-to-a.md) _2018-02-06 13:49:19 (First version)_
 1. [ "The Washington Post" newspaper in the United States reports that officials are considering a plan to move Guantnamo Bay detainees to a prison camp. ](/news/2009/08/3/the-washington-post-newspaper-in-the-united-states-reports-that-officials-are-considering-a-plan-to-move-guantanamo-bay-detainees-to-a-pr.md) _(Current version)_
 
 ### Related:

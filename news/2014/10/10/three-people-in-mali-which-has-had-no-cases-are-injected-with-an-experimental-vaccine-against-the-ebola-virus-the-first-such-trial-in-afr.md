@@ -17,8 +17,8 @@ First Ebola vaccine trial starts on African soil; Hagel to discuss Ebola with Ce
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa:Three people in Mali, which has had no cases, are injected with an experimental vaccine against the Ebola virus, the first such trial in Africa. ](/news/2014/10/10/ebola-virus-epidemic-in-west-africa-pthree-people-in-mali-which-has-had-no-cases-are-injected-with-an-experimental-vaccine-against-the-ebo.md) _2017-08-25 03:41:04 (First version)_
-2. [Ebola virus epidemic in West Africa:: Three people in Mali, which has had no cases, are injected with an experimental vaccine against the Ebola virus, the first such trial in Africa. ](/news/2014/10/10/ebola-virus-epidemic-in-west-africa-three-people-in-mali-which-has-had-no-cases-are-injected-with-an-experimental-vaccine-against-the-eb.md) _2017-08-27 03:41:23 (Update)_
+1. [Ebola virus epidemic in West Africa:: Three people in Mali, which has had no cases, are injected with an experimental vaccine against the Ebola virus, the first such trial in Africa. ](/news/2014/10/10/ebola-virus-epidemic-in-west-africa-three-people-in-mali-which-has-had-no-cases-are-injected-with-an-experimental-vaccine-against-the-eb.md) _2018-02-06 13:49:26 (First version)_
+2. [Ebola virus epidemic in West Africa:Three people in Mali, which has had no cases, are injected with an experimental vaccine against the Ebola virus, the first such trial in Africa. ](/news/2014/10/10/ebola-virus-epidemic-in-west-africa-pthree-people-in-mali-which-has-had-no-cases-are-injected-with-an-experimental-vaccine-against-the-ebo.md) _2018-02-06 13:49:26 (Update)_
 2. [Three people in Mali, which has had no cases, are injected with an experimental vaccine against the Ebola virus, the first such trial in Africa. ](/news/2014/10/10/three-people-in-mali-which-has-had-no-cases-are-injected-with-an-experimental-vaccine-against-the-ebola-virus-the-first-such-trial-in-afr.md) _(Current version)_
 
 ### Related:

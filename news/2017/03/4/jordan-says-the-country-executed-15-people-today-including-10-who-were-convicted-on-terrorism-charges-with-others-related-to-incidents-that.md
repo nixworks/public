@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/4/jordan-says-the-country-executed-15-people-today
 
 ### Changes:
 
-1. [Capital punishment in Jordan: Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/capital-punishment-in-jordan-jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-ot.md) _2017-08-27 03:47:56 (First version)_
+1. [Capital punishment in Jordan: Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/capital-punishment-in-jordan-jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-ot.md) _2018-02-06 13:49:30 (First version)_
 1. [Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-others-related-to-incidents-that.md) _(Current version)_
 
 ### Related:

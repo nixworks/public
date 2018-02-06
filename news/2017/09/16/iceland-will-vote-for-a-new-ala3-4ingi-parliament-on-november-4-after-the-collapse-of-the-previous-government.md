@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliame
 
 ### Changes:
 
-1. [Iceland will vote for a new Althing (parliament) on the fourth of November after the collapse of the previous government by Bjarni Benediktsson of the Independence Party due to a corruption scandal. ](/news/2017/09/16/iceland-will-vote-for-a-new-althing-parliament-on-the-fourth-of-november-after-the-collapse-of-the-previous-government-by-bjarni-benedikts.md) _2017-09-17 03:49:21 (First version)_
-2. [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government by Bjarni Benediktsson of the Independence Party due to a corruption scandal. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government-by-bjarni-benediktsson-of-the-i.md) _2017-09-17 06:30:05 (Update)_
-3. [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _2017-09-17 10:30:05 (Update)_
+1. [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _2018-02-06 13:49:31 (First version)_
+2. [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government by Bjarni Benediktsson of the Independence Party due to a corruption scandal. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government-by-bjarni-benediktsson-of-the-i.md) _2018-02-06 13:49:31 (Update)_
+3. [Iceland will vote for a new Althing (parliament) on the fourth of November after the collapse of the previous government by Bjarni Benediktsson of the Independence Party due to a corruption scandal. ](/news/2017/09/16/iceland-will-vote-for-a-new-althing-parliament-on-the-fourth-of-november-after-the-collapse-of-the-previous-government-by-bjarni-benedikts.md) _2018-02-06 13:49:31 (Update)_
 3. [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _(Current version)_
 
 ### Related:

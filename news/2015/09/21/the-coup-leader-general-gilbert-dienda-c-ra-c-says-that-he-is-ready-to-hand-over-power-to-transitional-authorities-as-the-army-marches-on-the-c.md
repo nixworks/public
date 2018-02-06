@@ -16,7 +16,7 @@ The coup leader in Burkina Faso says he is ready to hand over power to transitio
 
 ### Changes:
 
-1. [2015 Burkinabe coup d'etat: The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. ](/news/2015/09/21/2015-burkinabe-coup-d-a-c-tat-the-coup-leader-general-gilbert-dienda-c-ra-c-says-that-he-is-ready-to-hand-over-power-to-transitional-authorities.md) _2017-08-27 03:43:07 (First version)_
+1. [2015 Burkinabe coup d'etat: The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. ](/news/2015/09/21/2015-burkinabe-coup-d-a-c-tat-the-coup-leader-general-gilbert-dienda-c-ra-c-says-that-he-is-ready-to-hand-over-power-to-transitional-authorities.md) _2018-02-06 13:49:27 (First version)_
 1. [The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. ](/news/2015/09/21/the-coup-leader-general-gilbert-dienda-c-ra-c-says-that-he-is-ready-to-hand-over-power-to-transitional-authorities-as-the-army-marches-on-the-c.md) _(Current version)_
 
 ### Related:

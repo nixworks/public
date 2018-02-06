@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [An emergency rescue SMURD helicopter crashes into Lake Siutghiol, Constanta County, Romania with four people killed. ](/news/2014/12/15/an-emergency-rescue-smurd-helicopter-crashes-into-lake-siutghiol-constanapsa-county-romania-with-four-people-killed.md) _2017-08-25 03:41:20 (First version)_
+1. [An emergency rescue SMURD helicopter crashes into Lake Siutghiol, Constanta County, Romania with four people killed. ](/news/2014/12/15/an-emergency-rescue-smurd-helicopter-crashes-into-lake-siutghiol-constanapsa-county-romania-with-four-people-killed.md) _2018-02-06 13:49:26 (First version)_
 1. [An emergency rescue SMURD helicopter crashes into Lake Siutghiol, ConstanGBPa County, Romania with four people killed. ](/news/2014/12/15/an-emergency-rescue-smurd-helicopter-crashes-into-lake-siutghiol-constanagbpa-county-romania-with-four-people-killed.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ It features a Chinese actor in a turban and fake beard, mockingly assuming an In
 
 ### Changes:
 
-1. [ An English-language Chinese propaganda video from Xinhua, entitled ''The Spark: 7 Sins of India'' about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-chin.md) _2017-08-17 18:30:05 (First version)_
-2. [2017 China-India border standoff: An English-language Chinese propaganda video from Xinhua, entitled "The Spark: 7 Sins of India" about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/2017-china-india-border-standoff-an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-th.md) _2017-08-27 03:48:49 (Update)_
+1. [ An English-language Chinese propaganda video from Xinhua, entitled ''The Spark: 7 Sins of India'' about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-chin.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 China-India border standoff: An English-language Chinese propaganda video from Xinhua, entitled "The Spark: 7 Sins of India" about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/2017-china-india-border-standoff-an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-th.md) _2018-02-06 13:49:31 (Update)_
 2. [An English-language Chinese propaganda video from Xinhua, entitled "The Spark: 7 Sins of India" about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.md) _(Current version)_
 
 ### Related:

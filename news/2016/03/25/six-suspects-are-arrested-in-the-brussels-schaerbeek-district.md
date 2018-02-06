@@ -18,8 +18,8 @@ Formats: [HTML](/news/2016/03/25/six-suspects-are-arrested-in-the-brussels-schae
 
 ### Changes:
 
-1. [Aftermath of the Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/aftermath-of-the-six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _2017-08-25 03:45:00 (First version)_
-2. [Aftermath of the 2016 Brussels bombings: Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/aftermath-of-the-2016-brussels-bombings-six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _2017-08-27 03:45:22 (Update)_
+1. [Aftermath of the Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/aftermath-of-the-six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _2018-02-06 13:49:28 (First version)_
+2. [Aftermath of the 2016 Brussels bombings: Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/aftermath-of-the-2016-brussels-bombings-six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _2018-02-06 13:49:28 (Update)_
 2. [Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md) _(Current version)_
 
 ### Related:

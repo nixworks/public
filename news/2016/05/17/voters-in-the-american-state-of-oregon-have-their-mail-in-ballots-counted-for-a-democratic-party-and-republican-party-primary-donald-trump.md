@@ -21,7 +21,7 @@ Presidential election results from the 2016 Oregon Democratic Primary and Oregon
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race. ](/news/2016/05/17/united-states-presidential-election-2016-voters-in-the-american-state-of-oregon-have-their-mail-in-ballots-counted-for-a-democratic-party.md) _2017-08-27 03:46:03 (First version)_
+1. [United States presidential election, 2016: Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race. ](/news/2016/05/17/united-states-presidential-election-2016-voters-in-the-american-state-of-oregon-have-their-mail-in-ballots-counted-for-a-democratic-party.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race. ](/news/2016/05/17/voters-in-the-american-state-of-oregon-have-their-mail-in-ballots-counted-for-a-democratic-party-and-republican-party-primary-donald-trump.md) _(Current version)_
 
 ### Related:

@@ -25,7 +25,7 @@ Black-clad anarchists protesting at the G20 summit have smashed storefronts and 
 
 ### Changes:
 
-1. [2010 G-20 Toronto summit: The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/2010-g-20-toronto-summit-the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md) _2017-08-27 03:28:26 (First version)_
+1. [2010 G-20 Toronto summit: The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/2010-g-20-toronto-summit-the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md) _2018-02-06 13:49:20 (First version)_
 1. [The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md) _(Current version)_
 
 ### Related:

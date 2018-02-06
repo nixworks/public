@@ -17,7 +17,7 @@ The Rohingya group says it targeted the Burmese military in an attack on Friday.
 
 ### Changes:
 
-1. [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy and wound three soldiers. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-and-wound-three-soldiers.md) _2018-01-07 23:30:05 (First version)_
+1. [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy and wound three soldiers. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-and-wound-three-soldiers.md) _2018-02-06 13:49:31 (First version)_
 1. [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy in the village of Turaing. Three members of Myanmar's security forces are reportedly wounded. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-in-the-village-of-turaing-three-members-of-myan.md) _(Current version)_
 
 ### Related:

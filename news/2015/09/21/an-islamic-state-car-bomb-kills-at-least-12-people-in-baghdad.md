@@ -16,7 +16,7 @@ At least 17 people were killed in and around the Iraqi capital on Monday in four
 
 ### Changes:
 
-1. [Iraq War (2014-present): An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/iraq-war-2014-present-an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _2017-08-27 03:43:06 (First version)_
+1. [Iraq War (2014-present): An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/iraq-war-2014-present-an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _2018-02-06 13:49:27 (First version)_
 1. [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md) _(Current version)_
 
 ### Related:

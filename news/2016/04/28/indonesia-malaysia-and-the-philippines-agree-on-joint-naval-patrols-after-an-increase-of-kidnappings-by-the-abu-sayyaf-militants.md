@@ -16,7 +16,7 @@ Indonesia will gather with Malaysian and Philippine officials in the capital nex
 
 ### Changes:
 
-1. [Moro conflict: Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/moro-conflict-indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-mili.md) _2017-08-27 03:45:53 (First version)_
+1. [Moro conflict: Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/moro-conflict-indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-mili.md) _2018-02-06 13:49:29 (First version)_
 1. [Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-militants.md) _(Current version)_
 
 ### Related:

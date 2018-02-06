@@ -20,8 +20,8 @@ The explosion happened at the end of a pop concert by the US singer Ariana Grand
 
 ### Changes:
 
-1. [Greater Manchester Police report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-performance-o.md) _2017-05-23 03:48:59 (First version)_
-2. [2017 Manchester Arena bombing: Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande-s performance on her Dangerous Woman Tour. ](/news/2017/05/22/2017-manchester-arena-bombing-greater-manchester-police-gmp-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-e.md) _2017-08-27 03:48:22 (Update)_
+1. [Greater Manchester Police report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-performance-o.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Manchester Arena bombing: Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande-s performance on her Dangerous Woman Tour. ](/news/2017/05/22/2017-manchester-arena-bombing-greater-manchester-police-gmp-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-e.md) _2018-02-06 13:49:30 (Update)_
 2. [Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-gmp-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-perform.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Voters go to the polls in three states on Tuesday in another set of Republican a
 
 ### Changes:
 
-1. [Tuesday, March 22 primaries-caucusesFront runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/tuesday-march-22-primaries-caucusespfront-runners-hillary-clinton-and-donald-trump-each-won-the-democratic-and-republican-primary-in-arizon.md) _2017-08-25 03:45:00 (First version)_
-2. [United States presidential election, 2016: Tuesday, March 22 primaries-caucuses: Front runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/united-states-presidential-election-2016-tuesday-march-22-primaries-caucuses-front-runners-hillary-clinton-and-donald-trump-each-won-the.md) _2017-08-27 03:45:21 (Update)_
+1. [United States presidential election, 2016: Tuesday, March 22 primaries-caucuses: Front runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/united-states-presidential-election-2016-tuesday-march-22-primaries-caucuses-front-runners-hillary-clinton-and-donald-trump-each-won-the.md) _2018-02-06 13:49:28 (First version)_
+2. [Tuesday, March 22 primaries-caucusesFront runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/tuesday-march-22-primaries-caucusespfront-runners-hillary-clinton-and-donald-trump-each-won-the-democratic-and-republican-primary-in-arizon.md) _2018-02-06 13:49:28 (Update)_
 2. [Tuesday, March 22 primaries-caucusesFront runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/tuesday-march-22-primaries-caucusesfront-runners-hillary-clinton-and-donald-trump-each-won-the-democratic-and-republican-primary-in-arizona.md) _(Current version)_
 
 ### Related:

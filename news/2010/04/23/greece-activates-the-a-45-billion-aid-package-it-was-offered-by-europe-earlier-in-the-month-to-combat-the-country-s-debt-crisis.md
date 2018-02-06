@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/23/greece-activates-the-a-45-billion-aid-package-i
 
 ### Changes:
 
-1. [Greece activates the -45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md) _2017-08-27 03:27:41 (First version)_
+1. [Greece activates the -45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md) _2018-02-06 13:49:19 (First version)_
 1. [Greece activates the EUR45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-a-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md) _(Current version)_
 
 ### Related:

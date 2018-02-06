@@ -18,8 +18,8 @@ Opposition video said to show Gaddafi soldiers killed for refusing to fire on re
 
 ### Changes:
 
-1. [2011 Libyan civil war:Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-pal-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-po.md) _2017-08-25 03:32:28 (First version)_
-2. [2011 Libyan civil war:: Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-p.md) _2017-08-27 03:32:36 (Update)_
+1. [2011 Libyan civil war:Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-pal-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-po.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-p.md) _2018-02-06 13:49:22 (Update)_
 2. [Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-positions-west-of-the-cap.md) _(Current version)_
 
 ### Related:

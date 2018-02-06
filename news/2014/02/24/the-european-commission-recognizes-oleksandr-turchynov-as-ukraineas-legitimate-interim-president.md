@@ -18,8 +18,8 @@ Formats: [HTML](/news/2014/02/24/the-european-commission-recognizes-oleksandr-tu
 
 ### Changes:
 
-1. [2014 Ukrainian Revolution:The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-pthe-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md) _2017-08-25 03:40:04 (First version)_
-2. [2014 Ukrainian Revolution:: The European Commission recognizes Oleksandr Turchynov as Ukraine-s legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-the-european-commission-recognizes-oleksandr-turchynov-as-ukraine-s-legitimate-interim-president.md) _2017-08-27 03:40:22 (Update)_
+1. [2014 Ukrainian Revolution:: The European Commission recognizes Oleksandr Turchynov as Ukraine-s legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-the-european-commission-recognizes-oleksandr-turchynov-as-ukraine-s-legitimate-interim-president.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Ukrainian Revolution:The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-pthe-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md) _2018-02-06 13:49:25 (Update)_
 2. [The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/the-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Khaltmaa Battulga won more than 50 percent of the votes in a scandal-ridden pres
 
 ### Changes:
 
-1. [Mongolian presidential election, 2017: Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/mongolian-presidential-election-2017-battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-sec.md) _2017-08-27 03:48:37 (First version)_
+1. [Mongolian presidential election, 2017: Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/mongolian-presidential-election-2017-battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-sec.md) _2018-02-06 13:49:31 (First version)_
 1. [Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-second-round-defeating-former-prime-minis.md) _(Current version)_
 
 ### Related:

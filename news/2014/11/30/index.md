@@ -9,7 +9,7 @@ _Context: ISIL, Raqqa, Coalition forces_
 
 ##### Colombian conflict
 ### [FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md)
-_Context: FARC, Colombian Army, Colombian conflict_
+_Context: Colombian Army, FARC, Colombian conflict_
 
 ##### south of France
 ### [Heavy flooding in the south of France claims five lives and forces more than 3000 people to leave their homes. ](/news/2014/11/30/heavy-flooding-in-the-south-of-france-claims-five-lives-and-forces-more-than-3000-people-to-leave-their-homes.md)
@@ -21,7 +21,7 @@ _Context: Alois Brunner, Adolf Eichmann, Simon Wiesenthal Center, Nazi war crimi
 
 ##### Uruguayan general election
 ### [Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-president-tabara-c-va-zquez-of-the.md)
-_Context: Tabare Vazquez, President, Uruguayan general election, Broad Front, Uruguay_
+_Context: Tabare Vazquez, Broad Front, Uruguayan general election, President, Uruguay_
 
 ##### Swiss immigration referendum
 ### [By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/by-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-year.md)

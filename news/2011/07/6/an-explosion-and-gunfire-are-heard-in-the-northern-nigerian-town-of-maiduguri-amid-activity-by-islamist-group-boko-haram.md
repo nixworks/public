@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/07/6/an-explosion-and-gunfire-are-heard-in-the-northe
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/nigerian-sharia-conflict-pan-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-bok.md) _2017-08-25 03:33:42 (First version)_
-2. [Nigerian Sharia conflict:: An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/nigerian-sharia-conflict-an-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-bo.md) _2017-08-27 03:33:50 (Update)_
+1. [Nigerian Sharia conflict:An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/nigerian-sharia-conflict-pan-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-bok.md) _2018-02-06 13:49:22 (First version)_
+2. [Nigerian Sharia conflict:: An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/nigerian-sharia-conflict-an-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-bo.md) _2018-02-06 13:49:22 (Update)_
 2. [An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/an-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-boko-haram.md) _(Current version)_
 
 ### Related:

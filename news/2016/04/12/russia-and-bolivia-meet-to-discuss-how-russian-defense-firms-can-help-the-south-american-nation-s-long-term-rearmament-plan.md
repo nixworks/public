@@ -16,7 +16,7 @@ Bolivia is looking to Russian defense firms to revamp its aging military arsenal
 
 ### Changes:
 
-1. [ Bolivia - Russia relations: Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/bolivia-russia-relations-russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-r.md) _2017-08-27 03:45:35 (First version)_
+1. [ Bolivia - Russia relations: Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/bolivia-russia-relations-russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-r.md) _2018-02-06 13:49:28 (First version)_
 1. [ Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.md) _(Current version)_
 
 ### Related:

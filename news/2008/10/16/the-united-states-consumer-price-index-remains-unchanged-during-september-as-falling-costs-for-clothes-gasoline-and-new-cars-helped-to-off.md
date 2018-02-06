@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/10/16/the-united-states-consumer-price-index-remains-
 
 ### Changes:
 
-1. [ The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and-new-cars-helped-to-of.md) _2017-08-25 03:23:04 (First version)_
-2. [ United States economy: The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/united-states-economy-the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and.md) _2017-08-27 03:22:57 (Update)_
+1. [ United States economy: The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/united-states-economy-the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and.md) _2018-02-06 13:49:18 (First version)_
+2. [ The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and-new-cars-helped-to-of.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and-new-cars-helped-to-off.md) _(Current version)_
 
 ### Related:

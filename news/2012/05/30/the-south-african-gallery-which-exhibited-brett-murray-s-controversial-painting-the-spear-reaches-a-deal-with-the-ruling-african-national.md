@@ -16,7 +16,7 @@ A South African art gallery agrees not to display a painting of President Jacob 
 
 ### Changes:
 
-1. [The South African gallery which exhibited Brett Murray's controversial painting ''The Spear'' reaches a deal with the ruling African National Congress (ANC), which opposes its display. ](/news/2012/05/30/the-south-african-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-reaches-a-deal-with-the-ruling-african-nationa.md) _2017-08-25 03:35:47 (First version)_
+1. [The South African gallery which exhibited Brett Murray's controversial painting ''The Spear'' reaches a deal with the ruling African National Congress (ANC), which opposes its display. ](/news/2012/05/30/the-south-african-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-reaches-a-deal-with-the-ruling-african-nationa.md) _2018-02-06 13:49:23 (First version)_
 1. [The South African gallery which exhibited Brett Murray's controversial painting "The Spear" reaches a deal with the ruling African National Congress (ANC), which opposes its display. ](/news/2012/05/30/the-south-african-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-reaches-a-deal-with-the-ruling-african-national.md) _(Current version)_
 
 ### Related:

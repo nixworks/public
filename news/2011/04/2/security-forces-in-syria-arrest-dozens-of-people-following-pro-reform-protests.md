@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/04/2/security-forces-in-syria-arrest-dozens-of-people
 
 ### Changes:
 
-1. [2011 Syrian protests:Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/2011-syrian-protests-psecurity-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md) _2017-08-25 03:32:43 (First version)_
-2. [2011 Syrian protests:: Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/2011-syrian-protests-security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md) _2017-08-27 03:32:51 (Update)_
+1. [2011 Syrian protests:: Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/2011-syrian-protests-security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/2011-syrian-protests-psecurity-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md) _(Current version)_
 
 ### Related:

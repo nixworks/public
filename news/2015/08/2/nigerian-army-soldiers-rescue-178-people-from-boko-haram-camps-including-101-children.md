@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-bo
 
 ### Changes:
 
-1. [Boko Haram: Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/boko-haram-nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _2017-08-27 03:42:46 (First version)_
+1. [Boko Haram: Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/boko-haram-nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _2018-02-06 13:49:27 (First version)_
 1. [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _(Current version)_
 
 ### Related:

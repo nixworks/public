@@ -20,8 +20,8 @@ The Syrian military has encircled the central city of Hama, according to media r
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising: The Syrian army encircles the city of Hama after one of the largest protests against the regime of Bashar al-Assad. ](/news/2011/07/3/arab-spring-p2011-syrian-uprising-the-syrian-army-encircles-the-city-of-hama-after-one-of-the-largest-protests-against-the-regime-of-bashar.md) _2017-08-25 03:33:40 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising: The Syrian army encircles the city of Hama after one of the largest protests against the regime of Bashar al-Assad. ](/news/2011/07/3/arab-spring-2011-syrian-uprising-the-syrian-army-encircles-the-city-of-hama-after-one-of-the-largest-protests-against-the-regime-of-basha.md) _2017-08-27 03:33:48 (Update)_
+1. [Arab Spring:2011 Syrian uprising: The Syrian army encircles the city of Hama after one of the largest protests against the regime of Bashar al-Assad. ](/news/2011/07/3/arab-spring-p2011-syrian-uprising-the-syrian-army-encircles-the-city-of-hama-after-one-of-the-largest-protests-against-the-regime-of-bashar.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising: The Syrian army encircles the city of Hama after one of the largest protests against the regime of Bashar al-Assad. ](/news/2011/07/3/arab-spring-2011-syrian-uprising-the-syrian-army-encircles-the-city-of-hama-after-one-of-the-largest-protests-against-the-regime-of-basha.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising: The Syrian army encircles the city of Hama after one of the largest protests against the regime of Bashar al-Assad. ](/news/2011/07/3/2011-syrian-uprising-the-syrian-army-encircles-the-city-of-hama-after-one-of-the-largest-protests-against-the-regime-of-bashar-al-assad.md) _(Current version)_
 
 ### Related:

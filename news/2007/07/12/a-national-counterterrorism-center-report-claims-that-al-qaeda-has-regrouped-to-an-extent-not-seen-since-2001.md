@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/07/12/a-national-counterterrorism-center-report-claim
 
 ### Changes:
 
-1. [ Al-Qaeda: A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-p-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md) _2017-08-25 03:20:09 (First version)_
-2. [ Al-Qaeda:: A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md) _2017-08-27 03:20:09 (Update)_
+1. [ Al-Qaeda: A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-p-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md) _2018-02-06 13:49:17 (First version)_
+2. [ Al-Qaeda:: A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md) _2018-02-06 13:49:17 (Update)_
 2. [ A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md) _(Current version)_
 
 ### Related:

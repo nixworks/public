@@ -17,7 +17,7 @@ A military helicopter has crashed close to the Vietnamese capital of Hanoi, kill
 
 ### Changes:
 
-1. [A Russian-made Mil Mi-17 crashes in the Thach That District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaoy-t-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md) _2017-08-25 03:40:38 (First version)_
+1. [A Russian-made Mil Mi-17 crashes in the Thach That District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaoy-t-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md) _2018-02-06 13:49:26 (First version)_
 1. [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md) _(Current version)_
 
 ### Related:

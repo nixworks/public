@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/04/19/mypyramid-is-released-by-the-united-states-depa
 
 ### Changes:
 
-1. [ ''MyPyramid'' is released by the United States Department of Agriculture. The new food guidance icon is an update of the 13-year-old food guide pyramid, which was itself an update of charts expounding on the ''four basic food groups''. ](/news/2005/04/19/mypyramid-is-released-by-the-united-states-department-of-agriculture-the-new-food-guidance-icon-is-an-update-of-the-13-year-old-food-g.md) _2017-08-25 03:16:01 (First version)_
+1. [ ''MyPyramid'' is released by the United States Department of Agriculture. The new food guidance icon is an update of the 13-year-old food guide pyramid, which was itself an update of charts expounding on the ''four basic food groups''. ](/news/2005/04/19/mypyramid-is-released-by-the-united-states-department-of-agriculture-the-new-food-guidance-icon-is-an-update-of-the-13-year-old-food-g.md) _2018-02-06 13:49:16 (First version)_
 1. [ "MyPyramid" is released by the United States Department of Agriculture. The new food guidance icon is an update of the 13-year-old food guide pyramid, which was itself an update of charts expounding on the "four basic food groups". ](/news/2005/04/19/mypyramid-is-released-by-the-united-states-department-of-agriculture-the-new-food-guidance-icon-is-an-update-of-the-13-year-old-food-gui.md) _(Current version)_
 
 ### Related:

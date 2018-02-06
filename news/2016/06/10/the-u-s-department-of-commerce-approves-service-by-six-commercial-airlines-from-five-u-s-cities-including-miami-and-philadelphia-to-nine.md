@@ -16,7 +16,7 @@ Flights from Miami and Fort Lauderdale figure heavily in new commercial service.
 
 ### Changes:
 
-1. [Cuba-United States relations: The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. ](/news/2016/06/10/cuba-united-states-relations-the-u-s-department-of-commerce-approves-service-by-six-commercial-airlines-from-five-u-s-cities-including.md) _2017-08-27 03:46:14 (First version)_
+1. [Cuba-United States relations: The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. ](/news/2016/06/10/cuba-united-states-relations-the-u-s-department-of-commerce-approves-service-by-six-commercial-airlines-from-five-u-s-cities-including.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. ](/news/2016/06/10/the-u-s-department-of-commerce-approves-service-by-six-commercial-airlines-from-five-u-s-cities-including-miami-and-philadelphia-to-nine.md) _(Current version)_
 
 ### Related:

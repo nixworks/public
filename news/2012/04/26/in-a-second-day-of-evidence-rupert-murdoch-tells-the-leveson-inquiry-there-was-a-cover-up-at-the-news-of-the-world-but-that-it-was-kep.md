@@ -16,7 +16,7 @@ Rupert Murdoch tells the Leveson Inquiry into media ethics there was a &quot;cov
 
 ### Changes:
 
-1. [In a second day of evidence, Rupert Murdoch tells the Leveson Inquiry there was a "cover-up" at the ''News of the World'', but that it was kept hidden from him. ](/news/2012/04/26/in-a-second-day-of-evidence-rupert-murdoch-tells-the-leveson-inquiry-there-was-a-cover-up-at-the-news-of-the-world-but-that-it-was-k.md) _2017-08-25 03:35:34 (First version)_
+1. [In a second day of evidence, Rupert Murdoch tells the Leveson Inquiry there was a "cover-up" at the ''News of the World'', but that it was kept hidden from him. ](/news/2012/04/26/in-a-second-day-of-evidence-rupert-murdoch-tells-the-leveson-inquiry-there-was-a-cover-up-at-the-news-of-the-world-but-that-it-was-k.md) _2018-02-06 13:49:23 (First version)_
 1. [In a second day of evidence, Rupert Murdoch tells the Leveson Inquiry there was a "cover-up" at the "News of the World", but that it was kept hidden from him. ](/news/2012/04/26/in-a-second-day-of-evidence-rupert-murdoch-tells-the-leveson-inquiry-there-was-a-cover-up-at-the-news-of-the-world-but-that-it-was-kep.md) _(Current version)_
 
 ### Related:

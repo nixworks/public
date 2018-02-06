@@ -22,8 +22,8 @@ Irish airports remained open today, but there is disruption in some parts of sou
 
 ### Changes:
 
-1. [Icelandic volcanic disruption:Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-pmost-flights-between-europe-and-north-america-face-delays-today.md) _2017-08-25 03:27:52 (First version)_
-2. [Icelandic volcanic disruption:: Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-most-flights-between-europe-and-north-america-face-delays-today.md) _2017-08-27 03:27:50 (Update)_
+1. [Icelandic volcanic disruption:Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-pmost-flights-between-europe-and-north-america-face-delays-today.md) _2018-02-06 13:49:20 (First version)_
+2. [Icelandic volcanic disruption:: Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-most-flights-between-europe-and-north-america-face-delays-today.md) _2018-02-06 13:49:20 (Update)_
 2. [Most flights between Europe and North America face delays today. ](/news/2010/05/8/most-flights-between-europe-and-north-america-face-delays-today.md) _(Current version)_
 
 ### Related:

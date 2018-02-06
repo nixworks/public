@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/02/7/tuareg-rebellion-2011apresent-22-000-people-flee
 
 ### Changes:
 
-1. [Tuareg Rebellion (2011-present): 22,000 people flee fighting in Mali to neighbouring countries. ](/news/2012/02/7/tuareg-rebellion-2011-present-22-000-people-flee-fighting-in-mali-to-neighbouring-countries.md) _2017-08-27 03:35:08 (First version)_
+1. [Tuareg Rebellion (2011-present): 22,000 people flee fighting in Mali to neighbouring countries. ](/news/2012/02/7/tuareg-rebellion-2011-present-22-000-people-flee-fighting-in-mali-to-neighbouring-countries.md) _2018-02-06 13:49:23 (First version)_
 1. [Tuareg Rebellion (2011-present): 22,000 people flee fighting in Mali to neighbouring countries. ](/news/2012/02/7/tuareg-rebellion-2011apresent-22-000-people-flee-fighting-in-mali-to-neighbouring-countries.md) _(Current version)_
 
 ### Related:

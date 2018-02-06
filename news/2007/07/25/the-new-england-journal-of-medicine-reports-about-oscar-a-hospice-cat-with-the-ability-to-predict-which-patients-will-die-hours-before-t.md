@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/07/25/the-new-england-journal-of-medicine-reports-abo
 
 ### Changes:
 
-1. [ The ''New England Journal of Medicine'' reports about Oscar, a hospice cat with the ability to predict which patients will die hours before their death. ](/news/2007/07/25/the-new-england-journal-of-medicine-reports-about-oscar-a-hospice-cat-with-the-ability-to-predict-which-patients-will-die-hours-before.md) _2017-08-25 03:20:17 (First version)_
+1. [ The ''New England Journal of Medicine'' reports about Oscar, a hospice cat with the ability to predict which patients will die hours before their death. ](/news/2007/07/25/the-new-england-journal-of-medicine-reports-about-oscar-a-hospice-cat-with-the-ability-to-predict-which-patients-will-die-hours-before.md) _2018-02-06 13:49:17 (First version)_
 1. [ The "New England Journal of Medicine" reports about Oscar, a hospice cat with the ability to predict which patients will die hours before their death. ](/news/2007/07/25/the-new-england-journal-of-medicine-reports-about-oscar-a-hospice-cat-with-the-ability-to-predict-which-patients-will-die-hours-before-t.md) _(Current version)_
 
 ### Related:

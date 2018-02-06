@@ -16,7 +16,7 @@ A bomb attack on a packed market in northeastern Nigeria bearing the hallmarks o
 
 ### Changes:
 
-1. [Boko Haram insurgency: A bomb attack consistent with Boko Haram kills 50 people in Nigeria's Borno State. ](/news/2015/08/11/boko-haram-insurgency-a-bomb-attack-consistent-with-boko-haram-kills-50-people-in-nigeria-s-borno-state.md) _2017-08-27 03:42:48 (First version)_
+1. [Boko Haram insurgency: A bomb attack consistent with Boko Haram kills 50 people in Nigeria's Borno State. ](/news/2015/08/11/boko-haram-insurgency-a-bomb-attack-consistent-with-boko-haram-kills-50-people-in-nigeria-s-borno-state.md) _2018-02-06 13:49:27 (First version)_
 1. [A bomb attack consistent with Boko Haram kills 50 people in Nigeria's Borno State. ](/news/2015/08/11/a-bomb-attack-consistent-with-boko-haram-kills-50-people-in-nigeria-s-borno-state.md) _(Current version)_
 
 ### Related:

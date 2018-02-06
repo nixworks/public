@@ -16,7 +16,7 @@ Former chief executive Bob Diamond is set to be paid about $3m in July, a year a
 
 ### Changes:
 
-1. [Former Barclays chief executive Bob Diamond is set to be paid about PS2m ($3m) in July, a year after he left the bank following its Libor interest rate fixing scandal. ](/news/2013/03/8/former-barclays-chief-executive-bob-diamond-is-set-to-be-paid-about-aps2m-3m-in-july-a-year-after-he-left-the-bank-following-its-libor-in.md) _2017-08-25 03:37:45 (First version)_
+1. [Former Barclays chief executive Bob Diamond is set to be paid about PS2m ($3m) in July, a year after he left the bank following its Libor interest rate fixing scandal. ](/news/2013/03/8/former-barclays-chief-executive-bob-diamond-is-set-to-be-paid-about-aps2m-3m-in-july-a-year-after-he-left-the-bank-following-its-libor-in.md) _2018-02-06 13:49:24 (First version)_
 1. [Former Barclays chief executive Bob Diamond is set to be paid about GBP2m ($3m) in July, a year after he left the bank following its Libor interest rate fixing scandal. ](/news/2013/03/8/former-barclays-chief-executive-bob-diamond-is-set-to-be-paid-about-agbp2m-3m-in-july-a-year-after-he-left-the-bank-following-its-libor.md) _(Current version)_
 
 ### Related:

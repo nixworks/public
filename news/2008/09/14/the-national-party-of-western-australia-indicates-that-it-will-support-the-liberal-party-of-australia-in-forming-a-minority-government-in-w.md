@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/09/14/the-national-party-of-western-australia-indicat
 
 ### Changes:
 
-1. [ The National Party of Western Australia indicates that it will support the Liberal Party of Australia in forming a minority government in Western Australia. Liberal leader, Colin Barnett, becomes the Premier-elect and incumbent Premier Alan Carpenter of the Australian Labor Party concedes defeat. ](/news/2008/09/14/the-national-party-of-western-australia-indicates-that-it-will-support-the-liberal-party-of-australia-in-forming-a-minority-government-in.md) _2017-08-25 03:22:52 (First version)_
+1. [ The National Party of Western Australia indicates that it will support the Liberal Party of Australia in forming a minority government in Western Australia. Liberal leader, Colin Barnett, becomes the Premier-elect and incumbent Premier Alan Carpenter of the Australian Labor Party concedes defeat. ](/news/2008/09/14/the-national-party-of-western-australia-indicates-that-it-will-support-the-liberal-party-of-australia-in-forming-a-minority-government-in.md) _2018-02-06 13:49:18 (First version)_
 1. [ The National Party of Western Australia indicates that it will support the Liberal Party of Australia in forming a minority government in Western Australia. Liberal leader, Colin Barnett, becomes the Premier-elect and incumbent Premier Alan Carpenter of the Australian Labor Party concedes defeat. ](/news/2008/09/14/the-national-party-of-western-australia-indicates-that-it-will-support-the-liberal-party-of-australia-in-forming-a-minority-government-in-w.md) _(Current version)_
 
 ### Related:

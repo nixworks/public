@@ -13,7 +13,7 @@ _Context: India, New Delhi_
 
 ##### Anti-Trump protests
 ### [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md)
-_Context: Portland, Oregon, Los Angeles, Donald Trump, Atlanta, New York City, Anti-Trump protests, riot_
+_Context: New York City, Portland, Oregon, Anti-Trump protests, riot, Atlanta, Los Angeles, Donald Trump_
 
 ##### Atlas V
 ### [An Atlas V rocket successfully launches WorldView-4 for DigitalGlobe from Vandenberg Air Force Base after a two-month delay caused by wildfires near the spaceport. ](/news/2016/11/11/an-atlas-v-rocket-successfully-launches-worldview-4-for-digitalglobe-from-vandenberg-air-force-base-after-a-two-month-delay-caused-by-wildfi.md)

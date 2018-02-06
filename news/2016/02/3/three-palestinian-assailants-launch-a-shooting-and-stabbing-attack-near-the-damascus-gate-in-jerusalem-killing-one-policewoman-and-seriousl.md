@@ -17,7 +17,7 @@ Hadar Cohen of Or Yehuda succumbs to wounds in hospital, second officer in serio
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-i.md) _2017-08-27 03:44:48 (First version)_
+1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.md) _(Current version)_
 
 ### Related:

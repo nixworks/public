@@ -19,8 +19,8 @@ Bangladesh&#39;s finance minister has downplayed the impact of last week&#39;s f
 
 ### Changes:
 
-1. [2013 Savar building collapse:The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-547.md) _2017-08-25 03:38:32 (First version)_
-2. [2013 Savar building collapse:: The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-547.md) _2017-08-27 03:38:46 (Update)_
+1. [2013 Savar building collapse:: The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-547.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Savar building collapse:The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-547.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll in Bangladesh rises to 547. ](/news/2013/05/3/the-death-toll-in-bangladesh-rises-to-547.md) _(Current version)_
 
 ### Related:

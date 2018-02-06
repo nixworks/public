@@ -18,7 +18,7 @@ Activists have condemned as an “assault on women&#039;s health”, a decision 
 
 ### Changes:
 
-1. [Presidency of Donald Trump: U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/presidency-of-donald-trump-u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partner.md) _2017-08-27 03:47:40 (First version)_
+1. [Presidency of Donald Trump: U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/presidency-of-donald-trump-u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partner.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partnership-and-reinstates-the-mex.md) _(Current version)_
 
 ### Related:

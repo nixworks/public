@@ -17,8 +17,8 @@ Pro-democracy protests which swept the Arab world earlier in the year have erupt
 
 ### Changes:
 
-1. [Arab Spring:At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/arab-spring-pat-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-ta.md) _2017-08-25 03:34:16 (First version)_
-2. [Arab Spring:: At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/arab-spring-at-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-t.md) _2017-08-27 03:34:24 (Update)_
+1. [Arab Spring:At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/arab-spring-pat-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-ta.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/arab-spring-at-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-t.md) _2018-02-06 13:49:23 (Update)_
 2. [At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/at-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-taiz.md) _(Current version)_
 
 ### Related:

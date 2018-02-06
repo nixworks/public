@@ -19,8 +19,8 @@ Harry, 22, is a junior officer in the upper-crust Blues and Royals regiment of t
 
 ### Changes:
 
-1. [ Iraq War: The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/iraq-war-p-the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _2017-08-25 03:19:15 (First version)_
-2. [ Iraq War:: The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/iraq-war-the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _2017-08-27 03:19:11 (Update)_
+1. [ Iraq War:: The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/iraq-war-the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War: The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/iraq-war-p-the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _2018-02-06 13:49:17 (Update)_
 2. [ The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue t
 
 ### Changes:
 
-1. [ 2009 Iranian election protests: Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/2009-iranian-election-protests-p-iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md) _2017-08-25 03:24:56 (First version)_
-2. [ 2009 Iranian election protests:: Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/2009-iranian-election-protests-iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md) _2017-08-27 03:24:48 (Update)_
+1. [ 2009 Iranian election protests: Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/2009-iranian-election-protests-p-iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md) _2018-02-06 13:49:19 (First version)_
+2. [ 2009 Iranian election protests:: Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/2009-iranian-election-protests-iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md) _2018-02-06 13:49:19 (Update)_
 2. [ Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md) _(Current version)_
 
 ### Related:

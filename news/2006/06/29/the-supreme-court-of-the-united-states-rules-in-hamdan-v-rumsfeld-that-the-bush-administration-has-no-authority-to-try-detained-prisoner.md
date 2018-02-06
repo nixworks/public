@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in
 
 ### Changes:
 
-1. [ The Supreme Court of the United States rules in ''Hamdan v. Rumsfeld'' that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-priso.md) _2017-08-25 03:17:51 (First version)_
+1. [ The Supreme Court of the United States rules in ''Hamdan v. Rumsfeld'' that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-priso.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Supreme Court of the United States rules in "Hamdan v. Rumsfeld" that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-prisoner.md) _(Current version)_
 
 ### Related:

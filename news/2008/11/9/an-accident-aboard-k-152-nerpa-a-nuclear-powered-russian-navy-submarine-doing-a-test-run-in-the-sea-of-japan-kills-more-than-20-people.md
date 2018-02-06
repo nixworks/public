@@ -16,7 +16,7 @@ At least 20 people are killed after the failure of a fire-extinguishing system.
 
 ### Changes:
 
-1. [ An accident aboard K-152 ''Nerpa'', a nuclear-powered Russian Navy submarine doing a test run in the Sea of Japan, kills more than 20 people. ](/news/2008/11/9/an-accident-aboard-k-152-nerpa-a-nuclear-powered-russian-navy-submarine-doing-a-test-run-in-the-sea-of-japan-kills-more-than-20-peopl.md) _2017-08-25 03:23:09 (First version)_
+1. [ An accident aboard K-152 ''Nerpa'', a nuclear-powered Russian Navy submarine doing a test run in the Sea of Japan, kills more than 20 people. ](/news/2008/11/9/an-accident-aboard-k-152-nerpa-a-nuclear-powered-russian-navy-submarine-doing-a-test-run-in-the-sea-of-japan-kills-more-than-20-peopl.md) _2018-02-06 13:49:18 (First version)_
 1. [ An accident aboard K-152 "Nerpa", a nuclear-powered Russian Navy submarine doing a test run in the Sea of Japan, kills more than 20 people. ](/news/2008/11/9/an-accident-aboard-k-152-nerpa-a-nuclear-powered-russian-navy-submarine-doing-a-test-run-in-the-sea-of-japan-kills-more-than-20-people.md) _(Current version)_
 
 ### Related:

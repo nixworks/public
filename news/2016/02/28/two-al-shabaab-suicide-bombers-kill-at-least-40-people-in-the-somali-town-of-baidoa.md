@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/war-in-somalia-2009-present-two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _2017-08-27 03:45:03 (First version)_
+1. [War in Somalia (2009-present): Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/war-in-somalia-2009-present-two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _2018-02-06 13:49:28 (First version)_
 1. [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _(Current version)_
 
 ### Related:

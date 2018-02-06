@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/04/20/south-sudanasudan-border-conflict-south-sudan-a
 
 ### Changes:
 
-1. [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudan-sudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md) _2017-08-27 03:35:41 (First version)_
+1. [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudan-sudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md) _2018-02-06 13:49:23 (First version)_
 1. [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudanasudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md) _(Current version)_
 
 ### Related:

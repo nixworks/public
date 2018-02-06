@@ -17,7 +17,7 @@ Human rights groups criticise Israel for the treatment of migrants trying to ent
 
 ### Changes:
 
-1. [Human Rights Watch and other rights groups issue a report rejecting the Israeli government-s arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-government-s-arguments-against-accepting-africans-migrants.md) _2017-08-27 03:36:55 (First version)_
+1. [Human Rights Watch and other rights groups issue a report rejecting the Israeli government-s arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-government-s-arguments-against-accepting-africans-migrants.md) _2018-02-06 13:49:24 (First version)_
 1. [Human Rights Watch and other rights groups issue a report rejecting the Israeli government's arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-governmentas-arguments-against-accepting-africans-migrants.md) _(Current version)_
 
 ### Related:

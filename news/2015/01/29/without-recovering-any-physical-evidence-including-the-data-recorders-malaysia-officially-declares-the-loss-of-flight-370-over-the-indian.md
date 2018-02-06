@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/29/without-recovering-any-physical-evidence-includ
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/malaysia-airlines-flight-370-without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss.md) _2017-08-27 03:41:51 (First version)_
+1. [Malaysia Airlines Flight 370: Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/malaysia-airlines-flight-370-without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss.md) _2018-02-06 13:49:26 (First version)_
 1. [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md) _(Current version)_
 
 ### Related:

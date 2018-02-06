@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end
 
 ### Changes:
 
-1. [Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections.md) _2017-08-25 03:27:43 (First version)_
+1. [Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections.md) _2018-02-06 13:49:20 (First version)_
 1. [Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections-w.md) _(Current version)_
 
 ### Related:

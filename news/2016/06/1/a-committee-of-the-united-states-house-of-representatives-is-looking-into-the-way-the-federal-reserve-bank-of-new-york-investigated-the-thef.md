@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/1/a-committee-of-the-united-states-house-of-repres
 
 ### Changes:
 
-1. [2016 Bangladesh Bank heist: A committee of the United States House of Representatives is looking into the way the Federal Reserve Bank of New York investigated the theft of assets it was holding for the central bank of Bangladesh. ](/news/2016/06/1/2016-bangladesh-bank-heist-a-committee-of-the-united-states-house-of-representatives-is-looking-into-the-way-the-federal-reserve-bank-of-ne.md) _2017-08-27 03:46:11 (First version)_
+1. [2016 Bangladesh Bank heist: A committee of the United States House of Representatives is looking into the way the Federal Reserve Bank of New York investigated the theft of assets it was holding for the central bank of Bangladesh. ](/news/2016/06/1/2016-bangladesh-bank-heist-a-committee-of-the-united-states-house-of-representatives-is-looking-into-the-way-the-federal-reserve-bank-of-ne.md) _2018-02-06 13:49:29 (First version)_
 1. [A committee of the United States House of Representatives is looking into the way the Federal Reserve Bank of New York investigated the theft of assets it was holding for the central bank of Bangladesh. ](/news/2016/06/1/a-committee-of-the-united-states-house-of-representatives-is-looking-into-the-way-the-federal-reserve-bank-of-new-york-investigated-the-thef.md) _(Current version)_
 
 ### Related:

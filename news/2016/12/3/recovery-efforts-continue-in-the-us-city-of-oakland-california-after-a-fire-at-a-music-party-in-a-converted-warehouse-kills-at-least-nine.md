@@ -17,7 +17,7 @@ The fire broke out at a building known as the Ghost Ship which was being used as
 
 ### Changes:
 
-1. [2016 Oakland warehouse fire: Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/2016-oakland-warehouse-fire-recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-w.md) _2017-08-27 03:47:22 (First version)_
+1. [2016 Oakland warehouse fire: Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/2016-oakland-warehouse-fire-recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-w.md) _2018-02-06 13:49:30 (First version)_
 1. [Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-warehouse-kills-at-least-nine.md) _(Current version)_
 
 ### Related:

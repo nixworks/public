@@ -18,7 +18,7 @@ Romanian Prime Minister Victor Ponta resigns, a day after thousands protest agai
 
 ### Changes:
 
-1. [Colectiv nightclub fire: Romanian Prime Minister Victor Ponta and his government resigns after tens of thousands took to the streets to protest over the Colectiv nightclub fire that killed 32 people. Mircea Dusa has been proposed to be installed as Acting Prime Minister. ](/news/2015/11/4/colectiv-nightclub-fire-romanian-prime-minister-victor-ponta-and-his-government-resigns-after-tens-of-thousands-took-to-the-streets-to-prot.md) _2017-08-27 03:43:41 (First version)_
+1. [Colectiv nightclub fire: Romanian Prime Minister Victor Ponta and his government resigns after tens of thousands took to the streets to protest over the Colectiv nightclub fire that killed 32 people. Mircea Dusa has been proposed to be installed as Acting Prime Minister. ](/news/2015/11/4/colectiv-nightclub-fire-romanian-prime-minister-victor-ponta-and-his-government-resigns-after-tens-of-thousands-took-to-the-streets-to-prot.md) _2018-02-06 13:49:28 (First version)_
 1. [Romanian Prime Minister Victor Ponta and his government resigns after tens of thousands took to the streets to protest over the Colectiv nightclub fire that killed 32 people. Mircea Dusa has been proposed to be installed as Acting Prime Minister. ](/news/2015/11/4/romanian-prime-minister-victor-ponta-and-his-government-resigns-after-tens-of-thousands-took-to-the-streets-to-protest-over-the-colectiv-nig.md) _(Current version)_
 
 ### Related:

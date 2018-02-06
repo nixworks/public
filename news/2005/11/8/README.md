@@ -9,11 +9,11 @@ People in Liberia were voting for a new president Tuesday, choosing between a fo
 
 ##### Italy
 ### [ Italian state-owned channel RaiNews 24 airs a controversial documentary in which Iraqi people and ex-U.S. soldiers report that white phosphorus, a chemical weapon, and Mk-77 napalm bombs were used by the U.S. Army against civilians in Fallujah last year. ](/news/2005/11/8/italian-state-owned-channel-rainews-24-airs-a-controversial-documentary-in-which-iraqi-people-and-ex-u-s-soldiers-report-that-white-phosph.md)
-_Context: napalm, chemical warfare, documentary, Italy, United States soldier, Iraq, Fallujah, civilian, United States, white phosphorus, Mk-77, RaiNews 24_
+_Context: Iraq, documentary, Italy, RaiNews 24, civilian, Fallujah, chemical warfare, United States, United States soldier, white phosphorus, napalm, Mk-77_
 
 ##### 2005 Sydney terrorism plot
 ### [ 2005 Sydney terrorism plot: Australian authorities arrest nine men, led by Abdul Nacer Benbrika, in a counterterrorism raid. Benbrika and six other men are later convicted of terrorism-related offenses. ](/news/2005/11/8/2005-sydney-terrorism-plot-australian-authorities-arrest-nine-men-led-by-abdul-nacer-benbrika-in-a-counterterrorism-raid-benbrika-and-s.md)
-_Context: Abdul Nacer Benbrika, 2005 Sydney terrorism plot, Australia, terrorism, counterterrorism_
+_Context: Abdul Nacer Benbrika, Australia, counterterrorism, terrorism, 2005 Sydney terrorism plot_
 
 ## [Previous Day...](/news/2005/11/7/index.md)
 

@@ -16,7 +16,7 @@ A Senegalese court jails Chad ex-leader Hissene Habre for life for crimes agains
 
 ### Changes:
 
-1. [ Hissene Habre, ex president of Chad, is sentenced to life in prison for ordering rape, sexual slavery and killings during his rule from 1982 to 1990. ](/news/2016/05/30/hissene-habre-ex-president-of-chad-is-sentenced-to-life-in-prison-for-ordering-rape-sexual-slavery-and-killings-during-his-rule-from-19.md) _2017-08-25 03:45:47 (First version)_
+1. [ Hissene Habre, ex president of Chad, is sentenced to life in prison for ordering rape, sexual slavery and killings during his rule from 1982 to 1990. ](/news/2016/05/30/hissene-habre-ex-president-of-chad-is-sentenced-to-life-in-prison-for-ordering-rape-sexual-slavery-and-killings-during-his-rule-from-19.md) _2018-02-06 13:49:29 (First version)_
 1. [ Hissene Habre, ex president of Chad, is sentenced to life in prison for ordering rape, sexual slavery and killings during his rule from 1982 to 1990. ](/news/2016/05/30/hissene-habre-ex-president-of-chad-is-sentenced-to-life-in-prison-for-ordering-rape-sexual-slavery-and-killings-during-his-rule-from-198.md) _(Current version)_
 
 ### Related:

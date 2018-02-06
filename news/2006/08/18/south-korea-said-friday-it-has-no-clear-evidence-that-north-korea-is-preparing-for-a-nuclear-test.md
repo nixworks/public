@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/08/18/south-korea-said-friday-it-has-no-clear-evidenc
 
 ### Changes:
 
-1. [ North Korea: South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/north-korea-p-south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _2017-08-25 03:18:12 (First version)_
-2. [ North Korea:: South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/north-korea-south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _2017-08-27 03:18:09 (Update)_
+1. [ North Korea:: South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/north-korea-south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _2018-02-06 13:49:17 (First version)_
+2. [ North Korea: South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/north-korea-p-south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _2018-02-06 13:49:17 (Update)_
 2. [ South Korea said Friday it has no clear evidence that North Korea is preparing for a nuclear test. ](/news/2006/08/18/south-korea-said-friday-it-has-no-clear-evidence-that-north-korea-is-preparing-for-a-nuclear-test.md) _(Current version)_
 
 ### Related:

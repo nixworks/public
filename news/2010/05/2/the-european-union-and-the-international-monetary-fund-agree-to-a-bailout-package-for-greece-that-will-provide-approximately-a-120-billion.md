@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/05/2/the-european-union-and-the-international-monetar
 
 ### Changes:
 
-1. [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately -120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-120-billion.md) _2017-08-27 03:27:47 (First version)_
+1. [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately -120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-120-billion.md) _2018-02-06 13:49:20 (First version)_
 1. [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately EUR120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-a-120-billion.md) _(Current version)_
 
 ### Related:

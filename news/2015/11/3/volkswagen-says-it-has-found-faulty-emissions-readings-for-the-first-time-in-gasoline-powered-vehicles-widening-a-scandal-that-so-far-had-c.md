@@ -17,7 +17,7 @@ Volkswagen AG said it found faulty emissions readings for the first time in gaso
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen says it has found faulty emissions readings for the first time in gasoline-powered vehicles, widening a scandal that so far had centered on diesel engines. ](/news/2015/11/3/volkswagen-emissions-scandal-volkswagen-says-it-has-found-faulty-emissions-readings-for-the-first-time-in-gasoline-powered-vehicles-wideni.md) _2017-08-27 03:43:40 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen says it has found faulty emissions readings for the first time in gasoline-powered vehicles, widening a scandal that so far had centered on diesel engines. ](/news/2015/11/3/volkswagen-emissions-scandal-volkswagen-says-it-has-found-faulty-emissions-readings-for-the-first-time-in-gasoline-powered-vehicles-wideni.md) _2018-02-06 13:49:28 (First version)_
 1. [Volkswagen says it has found faulty emissions readings for the first time in gasoline-powered vehicles, widening a scandal that so far had centered on diesel engines. ](/news/2015/11/3/volkswagen-says-it-has-found-faulty-emissions-readings-for-the-first-time-in-gasoline-powered-vehicles-widening-a-scandal-that-so-far-had-c.md) _(Current version)_
 
 ### Related:

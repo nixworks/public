@@ -16,7 +16,7 @@ Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead th
 
 ### Changes:
 
-1. [Politics of Vatican City: Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/politics-of-vatican-city-pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md) _2017-08-27 03:48:35 (First version)_
+1. [Politics of Vatican City: Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/politics-of-vatican-city-pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md) _2018-02-06 13:49:30 (First version)_
 1. [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md) _(Current version)_
 
 ### Related:

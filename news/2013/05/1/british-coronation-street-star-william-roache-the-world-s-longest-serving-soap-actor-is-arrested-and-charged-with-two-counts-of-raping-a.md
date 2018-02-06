@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/05/1/british-coronation-street-star-william-roache-th
 
 ### Changes:
 
-1. [British ''Coronation Street'' star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping.md) _2017-08-25 03:38:31 (First version)_
+1. [British ''Coronation Street'' star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping.md) _2018-02-06 13:49:24 (First version)_
 1. [British "Coronation Street" star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping-a.md) _(Current version)_
 
 ### Related:

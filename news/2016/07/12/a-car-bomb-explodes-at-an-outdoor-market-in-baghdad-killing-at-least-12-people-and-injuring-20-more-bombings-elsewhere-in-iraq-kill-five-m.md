@@ -17,7 +17,7 @@ BAGHDAD (AP) — A suicide car bomb ripped through an outdoor market in a Shiite
 
 ### Changes:
 
-1. [Iraqi Civil War: A car bomb explodes at an outdoor market in Baghdad, killing at least 12 people and injuring 20 more. Bombings elsewhere in Iraq kill five more people. ](/news/2016/07/12/iraqi-civil-war-a-car-bomb-explodes-at-an-outdoor-market-in-baghdad-killing-at-least-12-people-and-injuring-20-more-bombings-elsewhere-in.md) _2017-08-27 03:46:29 (First version)_
+1. [Iraqi Civil War: A car bomb explodes at an outdoor market in Baghdad, killing at least 12 people and injuring 20 more. Bombings elsewhere in Iraq kill five more people. ](/news/2016/07/12/iraqi-civil-war-a-car-bomb-explodes-at-an-outdoor-market-in-baghdad-killing-at-least-12-people-and-injuring-20-more-bombings-elsewhere-in.md) _2018-02-06 13:49:29 (First version)_
 1. [A car bomb explodes at an outdoor market in Baghdad, killing at least 12 people and injuring 20 more. Bombings elsewhere in Iraq kill five more people. ](/news/2016/07/12/a-car-bomb-explodes-at-an-outdoor-market-in-baghdad-killing-at-least-12-people-and-injuring-20-more-bombings-elsewhere-in-iraq-kill-five-m.md) _(Current version)_
 
 ### Related:

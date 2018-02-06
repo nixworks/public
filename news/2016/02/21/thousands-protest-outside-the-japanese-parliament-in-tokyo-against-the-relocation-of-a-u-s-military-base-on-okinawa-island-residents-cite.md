@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/21/thousands-protest-outside-the-japanese-parliame
 
 ### Changes:
 
-1. [Japan-United States relations: Thousands protest outside the Japanese parliament in Tokyo against the relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/japan-united-states-relations-thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-o.md) _2017-08-27 03:44:58 (First version)_
+1. [Japan-United States relations: Thousands protest outside the Japanese parliament in Tokyo against the relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/japan-united-states-relations-thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-o.md) _2018-02-06 13:49:28 (First version)_
 1. [Thousands protest outside the Japanese parliament in Tokyo against the relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-p
 
 ### Changes:
 
-1. [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub attack, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-attack-is-arrested-in-istanbul-s-esenyurt-district.md) _2017-09-19 03:49:34 (First version)_
+1. [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub attack, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-attack-is-arrested-in-istanbul-s-esenyurt-district.md) _2018-02-06 13:49:30 (First version)_
 1. [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub shooting, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-shooting-is-arrested-in-istanbul-s-esenyurt-district.md) _(Current version)_
 
 ### Related:

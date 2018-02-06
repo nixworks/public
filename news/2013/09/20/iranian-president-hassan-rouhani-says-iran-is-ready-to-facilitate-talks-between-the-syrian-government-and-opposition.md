@@ -16,8 +16,8 @@ Outline of nuclear deal begins to emerge before UN debut as president says peopl
 
 ### Changes:
 
-1. [Syrian civil war:Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/syrian-civil-war-piranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md) _2017-08-25 03:39:18 (First version)_
-2. [Syrian civil war:: Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/syrian-civil-war-iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md) _2017-08-27 03:39:34 (Update)_
+1. [Syrian civil war:Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/syrian-civil-war-piranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/syrian-civil-war-iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md) _2018-02-06 13:49:25 (Update)_
 2. [Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md) _(Current version)_
 
 ### Related:

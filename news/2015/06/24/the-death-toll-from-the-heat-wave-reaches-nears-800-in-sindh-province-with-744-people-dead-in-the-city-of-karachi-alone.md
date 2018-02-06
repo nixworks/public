@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/24/the-death-toll-from-the-heat-wave-reaches-nears
 
 ### Changes:
 
-1. [Pakistani heat wave: The death toll from the heat wave reaches nears 800 in Sindh province with 744 people dead in the city of Karachi alone. ](/news/2015/06/24/pakistani-heat-wave-the-death-toll-from-the-heat-wave-reaches-nears-800-in-sindh-province-with-744-people-dead-in-the-city-of-karachi-alone.md) _2017-08-27 03:42:35 (First version)_
+1. [Pakistani heat wave: The death toll from the heat wave reaches nears 800 in Sindh province with 744 people dead in the city of Karachi alone. ](/news/2015/06/24/pakistani-heat-wave-the-death-toll-from-the-heat-wave-reaches-nears-800-in-sindh-province-with-744-people-dead-in-the-city-of-karachi-alone.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the heat wave reaches nears 800 in Sindh province with 744 people dead in the city of Karachi alone. ](/news/2015/06/24/the-death-toll-from-the-heat-wave-reaches-nears-800-in-sindh-province-with-744-people-dead-in-the-city-of-karachi-alone.md) _(Current version)_
 
 ### Related:

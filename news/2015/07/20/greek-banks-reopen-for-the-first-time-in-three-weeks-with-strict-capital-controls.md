@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/20/greek-banks-reopen-for-the-first-time-in-three-
 
 ### Changes:
 
-1. [Greek government-debt crisis timeline: Greek banks reopen for the first time in three weeks with strict capital controls. ](/news/2015/07/20/greek-government-debt-crisis-timeline-greek-banks-reopen-for-the-first-time-in-three-weeks-with-strict-capital-controls.md) _2017-08-27 03:42:43 (First version)_
+1. [Greek government-debt crisis timeline: Greek banks reopen for the first time in three weeks with strict capital controls. ](/news/2015/07/20/greek-government-debt-crisis-timeline-greek-banks-reopen-for-the-first-time-in-three-weeks-with-strict-capital-controls.md) _2018-02-06 13:49:27 (First version)_
 1. [Greek banks reopen for the first time in three weeks with strict capital controls. ](/news/2015/07/20/greek-banks-reopen-for-the-first-time-in-three-weeks-with-strict-capital-controls.md) _(Current version)_
 
 ### Related:

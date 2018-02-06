@@ -25,7 +25,7 @@ The fighters are expanding their reach in a nearly lawless region of southern Ye
 
 ##### Kim Sung-chan
 ### [Admiral Kim Sung-chan, the head of the Republic of Korea Navy, vows a stronger response to aggression from North Korea. ](/news/2011/06/15/admiral-kim-sung-chan-the-head-of-the-republic-of-korea-navy-vows-a-stronger-response-to-aggression-from-north-korea.md)
-_Context: North Korea, South Korean Navy, Kim Sung-chan_
+_Context: North Korea, Kim Sung-chan, South Korean Navy_
 
 ##### Colum McCann
 ### [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel "Let the Great World Spin". ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.md)
@@ -49,7 +49,7 @@ The federal government has served notice that it intends to introduce back-to-wo
 
 ##### TerreStar Networks
 ### [TerreStar Networks, a mobile-communications company that has been in bankruptcy since October 2010, picks Dish Network as the stalking horse bidder for an upcoming auction. ](/news/2011/06/15/terrestar-networks-a-mobile-communications-company-that-has-been-in-bankruptcy-since-october-2010-picks-dish-network-as-the-stalking-horse.md)
-_Context: stalking horse, TerreStar Networks, October 2010, bankruptcy, Dish Network_
+_Context: bankruptcy, October 2010, stalking horse, Dish Network, TerreStar Networks_
 
 ##### Northern Rock
 ### [British public-owned bank Northern Rock is to be privatised by the coalition government. ](/news/2011/06/15/british-public-owned-bank-northern-rock-is-to-be-privatised-by-the-coalition-government.md)
@@ -61,23 +61,23 @@ A close watch is being kept on river levels across the lower mid-north coast of 
 
 ##### Australia
 ### [Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/australian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-eruption-in-chile-with-fl.md)
-_Context: Chile, QANTAS, Australia, Perth, Virgin Australia, Tasmania, New Zealand_
+_Context: Australia, Chile, New Zealand, Perth, Tasmania, Virgin Australia, QANTAS_
 
 ##### Yonhap
 ### [The Yonhap news agency reports that nine North Koreans have defected to South Korea across the Yellow Sea. ](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.md)
-_Context: Yonhap, Yellow Sea, South Korea, North Korea_
+_Context: Yonhap, North Korea, South Korea, Yellow Sea_
 
 ##### Liberia
 ### [Liberia suspends diplomatic ties with Libya, after United States Secretary of State Hillary Clinton called on countries to sever ties with Libya. ](/news/2011/06/15/liberia-suspends-diplomatic-ties-with-libya-after-united-states-secretary-of-state-hillary-clinton-called-on-countries-to-sever-ties-with-l.md)
-_Context: United States Secretary of State, Libya, Liberia, Hillary Clinton_
+_Context: Libya, Hillary Clinton, United States Secretary of State, Liberia_
 
 ##### Australian Broadcasting Corporation
 ### [The Australian Broadcasting Corporation reports that the son of the acting Prime Minister of Papua New Guinea Sam Abal has been arrested on murder charges. ](/news/2011/06/15/the-australian-broadcasting-corporation-reports-that-the-son-of-the-acting-prime-minister-of-papua-new-guinea-sam-abal-has-been-arrested-on.md)
-_Context: Papua New Guinea, Prime Minister, Sam Abal, Australian Broadcasting Corporation_
+_Context: Papua New Guinea, Prime Minister, Australian Broadcasting Corporation, Sam Abal_
 
 ##### state's legislature
 ### [The General Assembly of the U.S. state of North Carolina votes on a motion to veto override by the Governor Bev Perdue of the state budget. ](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-carolina-votes-on-a-motion-to-veto-override-by-the-governor-bev-perdue-of-the-state-budget.md)
-_Context: Bev Perdue, North Carolina, state's legislature, veto override, U.S. state, Governor_
+_Context: veto override, North Carolina, U.S. state, Governor, state's legislature, Bev Perdue_
 
 ##### Public and Commercial Services Union
 ### [Members of the United Kingdom's Public and Commercial Services Union agree to join teachers and lecturers in strike action planned for 30 June. ](/news/2011/06/15/members-of-the-united-kingdom-s-public-and-commercial-services-union-agree-to-join-teachers-and-lecturers-in-strike-action-planned-for-30-ju.md)
@@ -85,7 +85,7 @@ Up to 750,000 public sector workers will strike on 30 June after members of the 
 
 ##### first
 ### [The first lunar eclipse of the year occurs with it being the first central lunar eclipse since 1990. ](/news/2011/06/15/the-first-lunar-eclipse-of-the-year-occurs-with-it-being-the-first-central-lunar-eclipse-since-1990.md)
-_Context: first, central lunar eclipse, lunar eclipse_
+_Context: lunar eclipse, central lunar eclipse, first_
 
 ## [Previous Day...](/news/2011/06/14/index.md)
 

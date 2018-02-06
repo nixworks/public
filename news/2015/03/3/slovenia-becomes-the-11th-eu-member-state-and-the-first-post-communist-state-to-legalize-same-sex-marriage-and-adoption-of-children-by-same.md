@@ -16,7 +16,7 @@ Slovenia joined a growing number of European countries that allow same-sex marri
 
 ### Changes:
 
-1. [Same-sex marriage in Slovenia: Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/same-sex-marriage-in-slovenia-slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-an.md) _2017-08-27 03:42:02 (First version)_
+1. [Same-sex marriage in Slovenia: Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/same-sex-marriage-in-slovenia-slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-an.md) _2018-02-06 13:49:27 (First version)_
 1. [Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-and-adoption-of-children-by-same.md) _(Current version)_
 
 ### Related:

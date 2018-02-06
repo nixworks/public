@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/31/the-19th-national-congress-of-the-communist-par
 
 ### Changes:
 
-1. [The 19th National Congress of the Communist Party of China is expected to start October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-october-18-2017.md) _2017-09-01 07:30:06 (First version)_
+1. [The 19th National Congress of the Communist Party of China is expected to start October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-october-18-2017.md) _2018-02-06 13:49:31 (First version)_
 1. [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md) _(Current version)_
 
 ### Related:

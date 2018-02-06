@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/16/the-united-states-national-transportation-safet
 
 ### Changes:
 
-1. [The United States National Transportation Safety Board announces it has completed its search of the sunken ''El Faro'', but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the.md) _2017-08-25 03:43:33 (First version)_
+1. [The United States National Transportation Safety Board announces it has completed its search of the sunken ''El Faro'', but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the-v.md) _(Current version)_
 
 ### Related:

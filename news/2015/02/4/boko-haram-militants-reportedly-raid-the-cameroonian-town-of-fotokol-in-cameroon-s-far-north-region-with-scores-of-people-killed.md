@@ -18,7 +18,7 @@ Formats: [HTML](/news/2015/02/4/boko-haram-militants-reportedly-raid-the-cameroo
 
 ### Changes:
 
-1. [Boko Haram: Boko Haram militants reportedly raid the Cameroonian town of Fotokol in Cameroon's Far North Region with scores of people killed. ](/news/2015/02/4/boko-haram-boko-haram-militants-reportedly-raid-the-cameroonian-town-of-fotokol-in-cameroon-s-far-north-region-with-scores-of-people-killed.md) _2017-08-27 03:41:53 (First version)_
+1. [Boko Haram: Boko Haram militants reportedly raid the Cameroonian town of Fotokol in Cameroon's Far North Region with scores of people killed. ](/news/2015/02/4/boko-haram-boko-haram-militants-reportedly-raid-the-cameroonian-town-of-fotokol-in-cameroon-s-far-north-region-with-scores-of-people-killed.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram militants reportedly raid the Cameroonian town of Fotokol in Cameroon's Far North Region with scores of people killed. ](/news/2015/02/4/boko-haram-militants-reportedly-raid-the-cameroonian-town-of-fotokol-in-cameroon-s-far-north-region-with-scores-of-people-killed.md) _(Current version)_
 
 ### Related:

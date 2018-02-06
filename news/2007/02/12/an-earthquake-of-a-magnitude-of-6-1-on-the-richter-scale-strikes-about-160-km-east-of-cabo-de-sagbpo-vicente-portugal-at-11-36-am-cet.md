@@ -16,7 +16,7 @@ There has been an earthquake off the coast of the Algarve in Portugal.
 
 ### Changes:
 
-1. [ An earthquake of a magnitude of 6.1 on the Richter scale strikes about 160 km east of Cabo de Sao Vicente, Portugal, at 11:36 am (CET). ](/news/2007/02/12/an-earthquake-of-a-magnitude-of-6-1-on-the-richter-scale-strikes-about-160-km-east-of-cabo-de-sapso-vicente-portugal-at-11-36-am-cet.md) _2017-08-25 03:19:10 (First version)_
+1. [ An earthquake of a magnitude of 6.1 on the Richter scale strikes about 160 km east of Cabo de Sao Vicente, Portugal, at 11:36 am (CET). ](/news/2007/02/12/an-earthquake-of-a-magnitude-of-6-1-on-the-richter-scale-strikes-about-160-km-east-of-cabo-de-sapso-vicente-portugal-at-11-36-am-cet.md) _2018-02-06 13:49:17 (First version)_
 1. [ An earthquake of a magnitude of 6.1 on the Richter scale strikes about 160 km east of Cabo de SGBPo Vicente, Portugal, at 11:36 am (CET). ](/news/2007/02/12/an-earthquake-of-a-magnitude-of-6-1-on-the-richter-scale-strikes-about-160-km-east-of-cabo-de-sagbpo-vicente-portugal-at-11-36-am-cet.md) _(Current version)_
 
 ### Related:

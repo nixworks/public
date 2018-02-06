@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-retu
 
 ### Changes:
 
-1. [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal. Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prov.md) _2017-08-25 03:16:59 (First version)_
+1. [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal. Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prov.md) _2018-02-06 13:49:16 (First version)_
 1. [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal. Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prove.md) _(Current version)_
 
 ### Related:

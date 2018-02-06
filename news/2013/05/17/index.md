@@ -25,7 +25,7 @@ An elite U.S. Navy SEAL was killed and seven service members were injured in a v
 
 ##### Metro-North Railroad
 ### [Two Metro-North commuter trains collide near Bridgeport, Connecticut injuring at least 72 people and resulting in the cancellation of Amtrak services between New York City and Boston. ](/news/2013/05/17/two-metro-north-commuter-trains-collide-near-bridgeport-connecticut-injuring-at-least-72-people-and-resulting-in-the-cancellation-of-amtrak.md)
-_Context: Connecticut, collide, Bridgeport, Metro-North Railroad, Amtrak, Boston, Massachusetts, New York City, commuter train_
+_Context: Boston, Massachusetts, Amtrak, Bridgeport, Connecticut, collide, New York City, Metro-North Railroad, commuter train_
 
 ##### Jorge Rafael Videla
 ### [Jorge Rafael Videla, who served as President of Argentina after the 1976 Argentine coup d'tat, dies at the age of 87 in a jail of Marcos Paz, Buenos Aires. ](/news/2013/05/17/jorge-rafael-videla-who-served-as-president-of-argentina-after-the-1976-argentine-coup-d-etat-dies-at-the-age-of-87-in-a-jail-of-marcos-pa.md)
@@ -37,7 +37,7 @@ More than $1m (£650,000) worth of jewels have been stolen from a hotel in the F
 
 ##### homophobia
 ### [An anti-homophobia march in the Georgian capital Tbilisi results in a riot with dozens of people injured as opponents attack the march. ](/news/2013/05/17/an-anti-homophobia-march-in-the-georgian-capital-tbilisi-results-in-a-riot-with-dozens-of-people-injured-as-opponents-attack-the-march.md)
-_Context: Tbilisi, homophobia,  Georgian_
+_Context: homophobia, Tbilisi,  Georgian_
 
 ##### NASA
 ### [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md)

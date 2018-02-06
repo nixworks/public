@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/11/7/the-trial-of-saddam-hussein-for-alleged-genocide
 
 ### Changes:
 
-1. [ Trial of Saddam Hussein: The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/trial-of-saddam-hussein-p-the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md) _2017-08-25 03:18:44 (First version)_
-2. [ Trial of Saddam Hussein:: The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/trial-of-saddam-hussein-the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md) _2017-08-27 03:18:39 (Update)_
+1. [ Trial of Saddam Hussein:: The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/trial-of-saddam-hussein-the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md) _2018-02-06 13:49:17 (First version)_
+2. [ Trial of Saddam Hussein: The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/trial-of-saddam-hussein-p-the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md) _2018-02-06 13:49:17 (Update)_
 2. [ The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md) _(Current version)_
 
 ### Related:

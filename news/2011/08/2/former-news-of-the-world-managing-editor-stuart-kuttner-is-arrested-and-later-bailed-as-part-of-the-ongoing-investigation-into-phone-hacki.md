@@ -17,8 +17,8 @@ A 71-year-old man, thought to be ex-News of the World executive Stuart Kuttner, 
 
 ### Changes:
 
-1. [Former ''News of the World'' managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of-the-ongoing-investigation-into-phone-hac.md) _2017-08-25 03:33:55 (First version)_
-2. [News International phone hacking scandal: Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/news-international-phone-hacking-scandal-former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of.md) _2017-08-27 03:34:04 (Update)_
+1. [News International phone hacking scandal: Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/news-international-phone-hacking-scandal-former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of.md) _2018-02-06 13:49:22 (First version)_
+2. [Former ''News of the World'' managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of-the-ongoing-investigation-into-phone-hac.md) _2018-02-06 13:49:22 (Update)_
 2. [Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of-the-ongoing-investigation-into-phone-hacki.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ A series of blasts targeting Shia Muslims in Dhaka killed at least one person an
 
 ##### Sinai insurgency
 ### [A first lieutenant and two soldiers have been killed in an explosion which targeted a police armored vehicle in the northern Sinai city of Al-Arish. ](/news/2015/10/24/a-first-lieutenant-and-two-soldiers-have-been-killed-in-an-explosion-which-targeted-a-police-armored-vehicle-in-the-northern-sinai-city-of-a.md)
-_Context: Sinai insurgency, Sinai, Arish, Egyptian parliamentary election, 2015, first lieutenant_
+_Context: Egyptian parliamentary election, 2015, Sinai, first lieutenant, Arish, Sinai insurgency_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [Violence continues while talks persist looking for a peaceful resolution. A 16-year old Palestinian is shot dead after he tried to stab an Israeli security guard at a West Bank border crossing. A 25-year old Palestinian protester died of wounds suffered last week when he was shot by Israeli troops during a border clash near the Gazan town of Khan Yunis. ](/news/2015/10/24/violence-continues-while-talks-persist-looking-for-a-peaceful-resolution-a-16-year-old-palestinian-is-shot-dead-after-he-tried-to-stab-an-i.md)
@@ -19,7 +19,7 @@ The United States on Saturday proposed steps, including 24-hour video surveillan
 ### [Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-during-clashes-with-t.md)
 The leader of the Syrian branch of al-Qaeda has reportedly been killed in Aleppo. Opposition figures told The Independent that three senior members of Jabhat al-Nusra had been killed, but could not confirm if any of them were the jihadist group&#039;s leader Abu Suleiman al-Masri.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [At least 40 people, including several fishermen, are reportedly killed following Saudi-led coalition airstrikes on two islands off Yemen's Red Sea coast. Local fisherman reported coalition aircraft and warships struck the Aqban and Kadman islands targeting Houthi forces but also destroyed several boats killing local fishermen. ](/news/2015/10/24/at-least-40-people-including-several-fishermen-are-reportedly-killed-following-saudi-led-coalition-airstrikes-on-two-islands-off-yemen-s-r.md)
 At least 40 people were killed, including several fishermen, when Saudi-led coalition strikes hit two Yemeni islands on the Red Sea overnight, several locals said on Saturday.
 
@@ -29,7 +29,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### landmark
 ### [Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. ](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.md)
-_Context: Paris, New York City, Pyramid, Egypt, landmark, Empire State Building, countries, United Nations, Eiffel Tower_
+_Context: Pyramid, Empire State Building, Egypt, countries, Paris, Eiffel Tower, New York City, United Nations, landmark_
 
 ##### synod on the family
 ### [The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. ](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.md)
@@ -45,7 +45,7 @@ Hurricane Patricia has weakened dramatically from the monster Category 5 storm t
 
 ##### driving under the influence
 ### [A driver, arrested on suspicion of driving under the influence (DUI), plows into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34 with eight in critical condition. The homecoming game with Kansas was played at 2:30 p.m. CT as scheduled. ](/news/2015/10/24/a-driver-arrested-on-suspicion-of-driving-under-the-influence-dui-plows-into-the-oklahoma-state-homecoming-parade-in-stillwater-oklahom.md)
-_Context: driving under the influence, 2015 Oklahoma State University homecoming parade crash, Kansas, Oklahoma State Homecoming parade, Stillwater, Oklahoma, homecoming game_
+_Context: Stillwater, Oklahoma, Kansas, 2015 Oklahoma State University homecoming parade crash, driving under the influence, homecoming game, Oklahoma State Homecoming parade_
 
 ##### Costa Rica
 ### [Costa Rica's restive Turrialba Volcano erupts. ](/news/2015/10/24/costa-rica-s-restive-turrialba-volcano-erupts.md)
@@ -61,7 +61,7 @@ Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night t
 
 ##### Ahmed Adeeb
 ### [Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. ](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.md)
-_Context: Abdulla Yameen, Ahmed Adeeb, the Maldives, President_
+_Context: Abdulla Yameen, Ahmed Adeeb, the Maldives, President of the Maldives_
 
 ##### law enforcement
 ### [A cache of over 7,000 stolen firearms is discovered by law enforcement in the U.S. state of South Carolina. ](/news/2015/10/24/a-cache-of-over-7-000-stolen-firearms-is-discovered-by-law-enforcement-in-the-u-s-state-of-south-carolina.md)

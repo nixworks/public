@@ -16,7 +16,7 @@ The roof of a crowded church collapses in southern Nigeria, reportedly killing a
 
 ### Changes:
 
-1. [Uyo church collapse: The death toll from yesterday's church collapse in Uyo, Nigeria, rises to 160 with the death toll expected to rise further. ](/news/2016/12/11/uyo-church-collapse-the-death-toll-from-yesterday-s-church-collapse-in-uyo-nigeria-rises-to-160-with-the-death-toll-expected-to-rise-furt.md) _2017-08-27 03:47:25 (First version)_
+1. [Uyo church collapse: The death toll from yesterday's church collapse in Uyo, Nigeria, rises to 160 with the death toll expected to rise further. ](/news/2016/12/11/uyo-church-collapse-the-death-toll-from-yesterday-s-church-collapse-in-uyo-nigeria-rises-to-160-with-the-death-toll-expected-to-rise-furt.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll from yesterday's church collapse in Uyo, Nigeria, rises to 160 with the death toll expected to rise further. ](/news/2016/12/11/the-death-toll-from-yesterday-s-church-collapse-in-uyo-nigeria-rises-to-160-with-the-death-toll-expected-to-rise-further.md) _(Current version)_
 
 ### Related:

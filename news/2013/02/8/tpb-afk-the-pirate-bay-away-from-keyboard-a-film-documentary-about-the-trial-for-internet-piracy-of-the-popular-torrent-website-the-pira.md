@@ -16,7 +16,7 @@ Filmmaker Simon Klose has spent the last four years following the founders of Th
 
 ### Changes:
 
-1. [''TPB AFK: The Pirate Bay Away From Keyboard'', a film documentary about the trial for Internet piracy of the popular torrent website The Pirate Bay, is released online. ](/news/2013/02/8/tpb-afk-the-pirate-bay-away-from-keyboard-a-film-documentary-about-the-trial-for-internet-piracy-of-the-popular-torrent-website-the-pi.md) _2017-08-25 03:37:28 (First version)_
+1. [''TPB AFK: The Pirate Bay Away From Keyboard'', a film documentary about the trial for Internet piracy of the popular torrent website The Pirate Bay, is released online. ](/news/2013/02/8/tpb-afk-the-pirate-bay-away-from-keyboard-a-film-documentary-about-the-trial-for-internet-piracy-of-the-popular-torrent-website-the-pi.md) _2018-02-06 13:49:24 (First version)_
 1. ["TPB AFK: The Pirate Bay Away From Keyboard", a film documentary about the trial for Internet piracy of the popular torrent website The Pirate Bay, is released online. ](/news/2013/02/8/tpb-afk-the-pirate-bay-away-from-keyboard-a-film-documentary-about-the-trial-for-internet-piracy-of-the-popular-torrent-website-the-pira.md) _(Current version)_
 
 ### Related:

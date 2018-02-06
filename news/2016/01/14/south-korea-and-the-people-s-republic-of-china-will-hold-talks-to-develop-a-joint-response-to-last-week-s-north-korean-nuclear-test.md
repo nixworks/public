@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-
 
 ### Changes:
 
-1. [2016 North Korean nuclear test: South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/2016-north-korean-nuclear-test-south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-no.md) _2017-08-27 03:44:40 (First version)_
+1. [2016 North Korean nuclear test: South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/2016-north-korean-nuclear-test-south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-no.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _(Current version)_
 
 ### Related:

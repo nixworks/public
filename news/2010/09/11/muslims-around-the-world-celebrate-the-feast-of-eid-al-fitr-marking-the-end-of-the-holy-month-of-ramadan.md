@@ -17,8 +17,8 @@ Tens of thousands of people across Indian-administered Kashmir join protests aga
 
 ### Changes:
 
-1. [Eid al-Fitr:Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/eid-al-fitr-pmuslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md) _2017-08-25 03:29:58 (First version)_
-2. [Eid al-Fitr:: Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/eid-al-fitr-muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md) _2017-08-27 03:30:03 (Update)_
+1. [Eid al-Fitr:Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/eid-al-fitr-pmuslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md) _2018-02-06 13:49:20 (First version)_
+2. [Eid al-Fitr:: Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/eid-al-fitr-muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md) _2018-02-06 13:49:20 (Update)_
 2. [Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md) _(Current version)_
 
 ### Related:

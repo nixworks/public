@@ -16,7 +16,7 @@ By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive
 
 ### Changes:
 
-1. [A study from Spain published in the ''New England Journal of Medicine'' finds that following a Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables reduces the risk of heart disease. ](/news/2013/02/25/a-study-from-spain-published-in-the-new-england-journal-of-medicine-finds-that-following-a-mediterranean-diet-high-in-olive-oil-nuts-f.md) _2017-08-25 03:37:37 (First version)_
+1. [A study from Spain published in the ''New England Journal of Medicine'' finds that following a Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables reduces the risk of heart disease. ](/news/2013/02/25/a-study-from-spain-published-in-the-new-england-journal-of-medicine-finds-that-following-a-mediterranean-diet-high-in-olive-oil-nuts-f.md) _2018-02-06 13:49:24 (First version)_
 1. [A study from Spain published in the "New England Journal of Medicine" finds that following a Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables reduces the risk of heart disease. ](/news/2013/02/25/a-study-from-spain-published-in-the-new-england-journal-of-medicine-finds-that-following-a-mediterranean-diet-high-in-olive-oil-nuts-fis.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/6/the-syrian-army-and-its-allies-launch-an-offensi
 
 ### Changes:
 
-1. [Syrian Civil War: Aleppo offensive (April 2016): The Syrian Army and its allies launch an offensive south of Aleppo. ](/news/2016/04/6/syrian-civil-war-aleppo-offensive-april-2016-the-syrian-army-and-its-allies-launch-an-offensive-south-of-aleppo.md) _2017-08-27 03:45:31 (First version)_
+1. [Syrian Civil War: Aleppo offensive (April 2016): The Syrian Army and its allies launch an offensive south of Aleppo. ](/news/2016/04/6/syrian-civil-war-aleppo-offensive-april-2016-the-syrian-army-and-its-allies-launch-an-offensive-south-of-aleppo.md) _2018-02-06 13:49:29 (First version)_
 1. [The Syrian Army and its allies launch an offensive south of Aleppo. ](/news/2016/04/6/the-syrian-army-and-its-allies-launch-an-offensive-south-of-aleppo.md) _(Current version)_
 
 ### Related:

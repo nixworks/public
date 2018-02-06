@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian
 
 ### Changes:
 
-1. [ War in Chad (2005-present)-Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005-present-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md) _2017-08-27 03:18:47 (First version)_
+1. [ War in Chad (2005-present)-Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005-present-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md) _2018-02-06 13:49:17 (First version)_
 1. [ War in Chad (2005-present)-Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md) _(Current version)_
 
 ### Related:

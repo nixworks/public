@@ -17,7 +17,7 @@ Polish Interior Minister Mariusz Błaszczak has said a march marking Independenc
 
 ### Changes:
 
-1. [An estimated 60,000 nationalists, some with banners "White Europe" and "Pray for an Islamic Holocaust", march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocaust-march-through-warsaw-disrupting-cel.md) _2017-11-13 12:30:04 (First version)_
+1. [An estimated 60,000 nationalists, some with banners "White Europe" and "Pray for an Islamic Holocaust", march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocaust-march-through-warsaw-disrupting-cel.md) _2018-02-06 13:49:31 (First version)_
 1. [An estimated 60,000 Polish citizens, including a few hundred nationalists, some with banners "White Europe" and "Pray for an Islamic Holocaust", march through Warsaw under an umbrella slogan of "We want God", on the annual Independence March during the celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.md) _(Current version)_
 
 ### Related:

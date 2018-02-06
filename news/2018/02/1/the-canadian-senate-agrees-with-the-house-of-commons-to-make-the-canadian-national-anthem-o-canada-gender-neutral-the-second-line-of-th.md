@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-com
 
 ### Changes:
 
-1. [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem (O Canada) gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-the.md) _2018-02-02 06:30:20 (First version)_
+1. [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem (O Canada) gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-the.md) _2018-02-06 13:49:31 (First version)_
 1. [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md) _(Current version)_
 
 ### Related:

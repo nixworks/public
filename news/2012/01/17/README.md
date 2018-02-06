@@ -13,7 +13,7 @@ _Context: Syria_
 
 ##### Burma
 ### [Officials in Burma order the military to stop offensives in ethnic minority areas. ](/news/2012/01/17/officials-in-burma-order-the-military-to-stop-offensives-in-ethnic-minority-areas.md)
-_Context: Burma, Internal conflict in Burma, security forces_
+_Context: Burma, security forces, Internal conflict in Burma_
 
 ##### 2011-2012 Yemeni uprising
 ### [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md)
@@ -33,15 +33,15 @@ Zhu Yufu became the latest advocate to be swept up in a continuing series of arr
 
 ##### Kim Jong-nam
 ### [Kim Jong-nam, half-brother of new North Korean leader Kim Jong-un, predicts the regime will fall if reforms are not made soon. ](/news/2012/01/17/kim-jong-nam-half-brother-of-new-north-korean-leader-kim-jong-un-predicts-the-regime-will-fall-if-reforms-are-not-made-soon.md)
-_Context: Kim Jong-un, Kim Jong-nam, North Korea_
+_Context: North Korea, Kim Jong-un, Kim Jong-nam_
 
 ##### Vietnam
 ### [Vietnam's Prime Minister Nguyen TCNYn Dung orders an investigation into a guerrilla-style standoff with farmers who laid land mines and firing improvised shotguns amid a land eviction. ](/news/2012/01/17/vietnam-s-prime-minister-nguya-n-taocnyn-da-c-ng-orders-an-investigation-into-a-guerrilla-style-standoff-with-farmers-who-laid-land-mines-and.md)
-_Context: land mine, Nguyen TCNYn Dung, Vietnam_
+_Context: Vietnam, Nguyen TCNYn Dung, land mine_
 
 ##### Abdollah Jassbi
 ### [Abdollah Jassbi resigns as President of Islamic Azad University after near thirty years in position. ](/news/2012/01/17/abdollah-jassbi-resigns-as-president-of-islamic-azad-university-after-near-thirty-years-in-position.md)
-_Context: Islamic Azad University, Abdollah Jassbi_
+_Context: Abdollah Jassbi, Islamic Azad University_
 
 ## [Previous Day...](/news/2012/01/16/index.md)
 

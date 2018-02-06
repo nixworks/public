@@ -16,7 +16,7 @@ At least 13 people have died in Cook and DuPage counties while shoveling &quot;h
 
 ### Changes:
 
-1. [2014-15 North American winter: Ten people die in Cook County, Illinois while shoveling snow. ](/news/2015/02/3/2014-15-north-american-winter-ten-people-die-in-cook-county-illinois-while-shoveling-snow.md) _2017-08-27 03:41:52 (First version)_
+1. [2014-15 North American winter: Ten people die in Cook County, Illinois while shoveling snow. ](/news/2015/02/3/2014-15-north-american-winter-ten-people-die-in-cook-county-illinois-while-shoveling-snow.md) _2018-02-06 13:49:26 (First version)_
 1. [Ten people die in Cook County, Illinois while shoveling snow. ](/news/2015/02/3/ten-people-die-in-cook-county-illinois-while-shoveling-snow.md) _(Current version)_
 
 ### Related:

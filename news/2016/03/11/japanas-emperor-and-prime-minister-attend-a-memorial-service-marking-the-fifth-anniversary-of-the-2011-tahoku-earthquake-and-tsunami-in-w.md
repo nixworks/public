@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-mem
 
 ### Changes:
 
-1. [Japan-s emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japan-s-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md) _2017-08-27 03:45:12 (First version)_
+1. [Japan-s emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japan-s-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md) _2018-02-06 13:49:28 (First version)_
 1. [Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md) _(Current version)_
 
 ### Related:

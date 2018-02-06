@@ -19,7 +19,7 @@ The president-elect spoke by phone with the president of Taiwan in the first suc
 
 ### Changes:
 
-1. [Taiwan-United States relations: United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/taiwan-united-states-relations-united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-in.md) _2017-08-27 03:47:21 (First version)_
+1. [Taiwan-United States relations: United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/taiwan-united-states-relations-united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-in.md) _2018-02-06 13:49:30 (First version)_
 1. [United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-ing-wen-the-first-known-contact-bet.md) _(Current version)_
 
 ### Related:

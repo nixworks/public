@@ -17,7 +17,7 @@ _Context: War in Afghanistan (2015-present), Afghanistan, car bomb, United State
 
 ##### Colombian conflict (1964-present)
 ### [The Government of Colombia and FARC announce plans to negotiate a ceasefire to end the fifty year old dispute. ](/news/2015/07/12/the-government-of-colombia-and-farc-announce-plans-to-negotiate-a-ceasefire-to-end-the-fifty-year-old-dispute.md)
-_Context: FARC, government, Colombian conflict (1964-present)_
+_Context: government, FARC, Colombian conflict (1964-present)_
 
 ##### Greek government debt crisis
 ### [A European Union leaders' summit to discuss the Greek debt crisis is cancelled due to failure of finance ministers to agree on Greek proposals. However, Eurozone leaders do meet, with discussions continuing into the night. ](/news/2015/07/12/a-european-union-leaders-summit-to-discuss-the-greek-debt-crisis-is-cancelled-due-to-failure-of-finance-ministers-to-agree-on-greek-proposa.md)

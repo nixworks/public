@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-of
 
 ### Changes:
 
-1. [2014-16 Venezuelan protests: An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/2014-16-venezuelan-protests-an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protest.md) _2017-08-27 03:47:07 (First version)_
+1. [2014-16 Venezuelan protests: An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/2014-16-venezuelan-protests-an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protest.md) _2018-02-06 13:49:29 (First version)_
 1. [An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.md) _(Current version)_
 
 ### Related:

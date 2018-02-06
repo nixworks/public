@@ -17,7 +17,7 @@ Scientists share prize awarded for discoveries of molecular mechanisms controlli
 
 ### Changes:
 
-1. [Jeffrey C. Hall, Michael Rosbash and Michael W. Young were awarded the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/jeffrey-c-hall-michael-rosbash-and-michael-w-young-were-awarded-the-prize-for-their-work-on-molecular-mechanisms-that-control-circadian-s.md) _2017-10-02 10:30:05 (First version)_
+1. [Jeffrey C. Hall, Michael Rosbash and Michael W. Young were awarded the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/jeffrey-c-hall-michael-rosbash-and-michael-w-young-were-awarded-the-prize-for-their-work-on-molecular-mechanisms-that-control-circadian-s.md) _2018-02-06 13:49:31 (First version)_
 1. [The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. ](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.md) _(Current version)_
 
 ### Related:

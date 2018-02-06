@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/01/19/british-confectionery-maker-cadbury-is-to-be-pu
 
 ### Changes:
 
-1. [Cadbury acquisition:British confectionery maker Cadbury is to be purchased by American company Kraft Foods for 11.5 billion (850 pence per share). ](/news/2010/01/19/cadbury-acquisition-pbritish-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-ps11-5-billion-850-pence-per.md) _2017-08-25 03:26:55 (First version)_
-2. [Cadbury acquisition:: British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/cadbury-acquisition-british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence.md) _2017-08-27 03:26:48 (Update)_
+1. [Cadbury acquisition:British confectionery maker Cadbury is to be purchased by American company Kraft Foods for 11.5 billion (850 pence per share). ](/news/2010/01/19/cadbury-acquisition-pbritish-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-ps11-5-billion-850-pence-per.md) _2018-02-06 13:49:19 (First version)_
+2. [Cadbury acquisition:: British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/cadbury-acquisition-british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence.md) _2018-02-06 13:49:19 (Update)_
 2. [British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence-per-share.md) _(Current version)_
 
 ### Related:

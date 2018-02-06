@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/war-in-afghanistan-2015-present-according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-fa.md) _2017-08-27 03:47:45 (First version)_
+1. [War in Afghanistan (2015-present): According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/war-in-afghanistan-2015-present-according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-fa.md) _2018-02-06 13:49:30 (First version)_
 1. [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md) _(Current version)_
 
 ### Related:

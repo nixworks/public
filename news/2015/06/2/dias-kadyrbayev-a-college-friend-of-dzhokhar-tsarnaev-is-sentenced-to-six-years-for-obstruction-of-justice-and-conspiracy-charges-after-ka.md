@@ -16,7 +16,7 @@ Dias Kadyrbayev apologized to the bombing victims and their families at his sent
 
 ### Changes:
 
-1. [Boston Marathon bombing: Dias Kadyrbayev, a college friend of Dzhokhar Tsarnaev, is sentenced to six years for obstruction of justice and conspiracy charges after Kadyrbayev removed incriminating evidence from Tsarnaev's college dorm room. ](/news/2015/06/2/boston-marathon-bombing-dias-kadyrbayev-a-college-friend-of-dzhokhar-tsarnaev-is-sentenced-to-six-years-for-obstruction-of-justice-and-co.md) _2017-08-27 03:42:28 (First version)_
+1. [Boston Marathon bombing: Dias Kadyrbayev, a college friend of Dzhokhar Tsarnaev, is sentenced to six years for obstruction of justice and conspiracy charges after Kadyrbayev removed incriminating evidence from Tsarnaev's college dorm room. ](/news/2015/06/2/boston-marathon-bombing-dias-kadyrbayev-a-college-friend-of-dzhokhar-tsarnaev-is-sentenced-to-six-years-for-obstruction-of-justice-and-co.md) _2018-02-06 13:49:27 (First version)_
 1. [Dias Kadyrbayev, a college friend of Dzhokhar Tsarnaev, is sentenced to six years for obstruction of justice and conspiracy charges after Kadyrbayev removed incriminating evidence from Tsarnaev's college dorm room. ](/news/2015/06/2/dias-kadyrbayev-a-college-friend-of-dzhokhar-tsarnaev-is-sentenced-to-six-years-for-obstruction-of-justice-and-conspiracy-charges-after-ka.md) _(Current version)_
 
 ### Related:

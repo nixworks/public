@@ -16,7 +16,7 @@ A Somali member of parliament is shot dead by al-Shabab militants in Mogadishu a
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Islamists from al-Shabab kill a member of the parliament Abdullahi Qayad Barre in the capital city of Mogadishu, Somalia. ](/news/2015/02/9/war-in-somalia-2009-present-islamists-from-al-shabab-kill-a-member-of-the-parliament-abdullahi-qayad-barre-in-the-capital-city-of-mogad.md) _2017-08-27 03:41:54 (First version)_
+1. [War in Somalia (2009-present): Islamists from al-Shabab kill a member of the parliament Abdullahi Qayad Barre in the capital city of Mogadishu, Somalia. ](/news/2015/02/9/war-in-somalia-2009-present-islamists-from-al-shabab-kill-a-member-of-the-parliament-abdullahi-qayad-barre-in-the-capital-city-of-mogad.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamists from al-Shabab kill a member of the parliament Abdullahi Qayad Barre in the capital city of Mogadishu, Somalia. ](/news/2015/02/9/islamists-from-al-shabab-kill-a-member-of-the-parliament-abdullahi-qayad-barre-in-the-capital-city-of-mogadishu-somalia.md) _(Current version)_
 
 ### Related:

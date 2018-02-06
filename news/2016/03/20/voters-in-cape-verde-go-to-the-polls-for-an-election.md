@@ -16,7 +16,7 @@ Elections are held in Benin, Cape Verde, Congo, Niger and Zanzibar, while Senega
 
 ### Changes:
 
-1. [Cape Verdean parliamentary election, 2016: Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/cape-verdean-parliamentary-election-2016-voters-in-cape-verde-go-to-the-polls-for-an-election.md) _2017-08-27 03:45:19 (First version)_
+1. [Cape Verdean parliamentary election, 2016: Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/cape-verdean-parliamentary-election-2016-voters-in-cape-verde-go-to-the-polls-for-an-election.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/voters-in-cape-verde-go-to-the-polls-for-an-election.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Israeli authorities said Tuesday that two Palestinians suspected of taking part 
 
 ### Changes:
 
-1. [Arab-Israeli conflict: Israel shoots down a Syrian Air Force Sukhoi Su-24 that had infiltrated its air space. ](/news/2014/09/23/arab-israeli-conflict-israel-shoots-down-a-syrian-air-force-sukhoi-su-24-that-had-infiltrated-its-air-space.md) _2017-08-27 03:41:19 (First version)_
+1. [Arab-Israeli conflict: Israel shoots down a Syrian Air Force Sukhoi Su-24 that had infiltrated its air space. ](/news/2014/09/23/arab-israeli-conflict-israel-shoots-down-a-syrian-air-force-sukhoi-su-24-that-had-infiltrated-its-air-space.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel shoots down a Syrian Air Force Sukhoi Su-24 that had infiltrated its air space. ](/news/2014/09/23/israel-shoots-down-a-syrian-air-force-sukhoi-su-24-that-had-infiltrated-its-air-space.md) _(Current version)_
 
 ### Related:

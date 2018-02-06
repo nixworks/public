@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afgha
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md) _2017-08-25 03:33:47 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md) _2017-08-27 03:33:54 (Update)_
+1. [War in Afghanistan (2001-present):A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md) _2018-02-06 13:49:22 (Update)_
 2. [A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the-head-of-the-provincial-religious-coun.md) _(Current version)_
 
 ### Related:

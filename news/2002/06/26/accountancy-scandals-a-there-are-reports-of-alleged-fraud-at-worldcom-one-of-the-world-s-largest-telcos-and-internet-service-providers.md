@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/26/accountancy-scandals-a-there-are-reports-of-all
 
 ### Changes:
 
-1. [ Accountancy scandals - There are reports of alleged fraud at WorldCom, one of the world's largest telcos and internet service providers.](/news/2002/06/26/accountancy-scandals-there-are-reports-of-alleged-fraud-at-worldcom-one-of-the-world-s-largest-telcos-and-internet-service-providers.md) _2017-08-27 03:15:13 (First version)_
+1. [ Accountancy scandals - There are reports of alleged fraud at WorldCom, one of the world's largest telcos and internet service providers.](/news/2002/06/26/accountancy-scandals-there-are-reports-of-alleged-fraud-at-worldcom-one-of-the-world-s-largest-telcos-and-internet-service-providers.md) _2018-02-06 13:49:15 (First version)_
 1. [ Accountancy scandals - There are reports of alleged fraud at WorldCom, one of the world's largest telcos and internet service providers.](/news/2002/06/26/accountancy-scandals-a-there-are-reports-of-alleged-fraud-at-worldcom-one-of-the-world-s-largest-telcos-and-internet-service-providers.md) _(Current version)_
 
 ### Related:

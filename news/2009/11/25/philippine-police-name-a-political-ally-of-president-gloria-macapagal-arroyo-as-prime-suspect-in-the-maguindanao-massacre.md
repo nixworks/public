@@ -17,7 +17,7 @@ MANILA - Police on Wednesday named a political ally of President Gloria Arroyo a
 
 ### Changes:
 
-1. [ Maguindanao massacre: Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/maguindanao-massacre-philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-mass.md) _2017-08-27 03:26:19 (First version)_
+1. [ Maguindanao massacre: Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/maguindanao-massacre-philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-mass.md) _2018-02-06 13:49:19 (First version)_
 1. [ Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-massacre.md) _(Current version)_
 
 ### Related:

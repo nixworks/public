@@ -17,7 +17,7 @@ Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut F
 
 ### Changes:
 
-1. [2016 California wildfires: The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/2016-california-wildfires-the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md) _2017-08-27 03:46:40 (First version)_
+1. [2016 California wildfires: The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/2016-california-wildfires-the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md) _2018-02-06 13:49:29 (First version)_
 1. [The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-pjapan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md) _2017-08-25 03:38:15 (First version)_
-2. [Senkaku Islands dispute:: Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md) _2017-08-27 03:38:28 (Update)_
+1. [Senkaku Islands dispute:Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-pjapan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md) _2018-02-06 13:49:24 (First version)_
+2. [Senkaku Islands dispute:: Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md) _2018-02-06 13:49:24 (Update)_
 2. [Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns-over-the-deal.md) _(Current version)_
 
 ### Related:

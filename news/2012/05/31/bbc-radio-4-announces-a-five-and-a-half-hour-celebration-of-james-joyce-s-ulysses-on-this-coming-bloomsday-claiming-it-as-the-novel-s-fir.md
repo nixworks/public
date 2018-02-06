@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-ce
 
 ### Changes:
 
-1. [BBC Radio 4 announces a five-and-a-half-hour celebration of James Joyce's ''Ulysses'' on this coming Bloomsday, claiming it as the novel's first full-length dramatisation in Britain. ](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-celebration-of-james-joyce-s-ulysses-on-this-coming-bloomsday-claiming-it-as-the-novel-s-f.md) _2017-08-25 03:35:47 (First version)_
+1. [BBC Radio 4 announces a five-and-a-half-hour celebration of James Joyce's ''Ulysses'' on this coming Bloomsday, claiming it as the novel's first full-length dramatisation in Britain. ](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-celebration-of-james-joyce-s-ulysses-on-this-coming-bloomsday-claiming-it-as-the-novel-s-f.md) _2018-02-06 13:49:23 (First version)_
 1. [BBC Radio 4 announces a five-and-a-half-hour celebration of James Joyce's "Ulysses" on this coming Bloomsday, claiming it as the novel's first full-length dramatisation in Britain. ](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-celebration-of-james-joyce-s-ulysses-on-this-coming-bloomsday-claiming-it-as-the-novel-s-fir.md) _(Current version)_
 
 ### Related:

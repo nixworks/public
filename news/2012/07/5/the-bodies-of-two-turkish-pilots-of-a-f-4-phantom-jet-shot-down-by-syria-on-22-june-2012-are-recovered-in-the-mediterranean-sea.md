@@ -20,7 +20,7 @@ Formats: [HTML](/news/2012/07/5/the-bodies-of-two-turkish-pilots-of-a-f-4-phanto
 
 ### Changes:
 
-1. [Syrian uprising (2011-present): The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/syrian-uprising-2011-present-the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in.md) _2017-08-27 03:36:14 (First version)_
+1. [Syrian uprising (2011-present): The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/syrian-uprising-2011-present-the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in.md) _2018-02-06 13:49:23 (First version)_
 1. [The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in-the-mediterranean-sea.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A Nato air strike has hit two Afghan military checkpoints in a restive province 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): In a friendly fire incident, a NATO air strike hits an Afghan National Army outpost in Logar Province, about 30 miles east of Kabul, with at least seven soldiers killed and five wounded. ](/news/2015/07/20/war-in-afghanistan-2015-present-in-a-friendly-fire-incident-a-nato-air-strike-hits-an-afghan-national-army-outpost-in-logar-province.md) _2017-08-27 03:42:43 (First version)_
+1. [War in Afghanistan (2015-present): In a friendly fire incident, a NATO air strike hits an Afghan National Army outpost in Logar Province, about 30 miles east of Kabul, with at least seven soldiers killed and five wounded. ](/news/2015/07/20/war-in-afghanistan-2015-present-in-a-friendly-fire-incident-a-nato-air-strike-hits-an-afghan-national-army-outpost-in-logar-province.md) _2018-02-06 13:49:27 (First version)_
 1. [In a friendly fire incident, a NATO air strike hits an Afghan National Army outpost in Logar Province, about 30 miles east of Kabul, with at least seven soldiers killed and five wounded. ](/news/2015/07/20/in-a-friendly-fire-incident-a-nato-air-strike-hits-an-afghan-national-army-outpost-in-logar-province-about-30-miles-east-of-kabul-with-at.md) _(Current version)_
 
 ### Related:

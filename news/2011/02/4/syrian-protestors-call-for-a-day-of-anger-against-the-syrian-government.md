@@ -17,8 +17,8 @@ Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;ang
 
 ### Changes:
 
-1. [2011 Syrian protests:Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-psyrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md) _2017-08-25 03:32:02 (First version)_
-2. [2011 Syrian protests:: Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md) _2017-08-27 03:32:11 (Update)_
+1. [2011 Syrian protests:: Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-psyrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md) _(Current version)_
 
 ### Related:

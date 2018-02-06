@@ -16,7 +16,7 @@ Ohio Gov. John Kasich is officially running for the Republican nomination for pr
 
 ### Changes:
 
-1. [United States presidential election, 2016: The Governor of Ohio John Kasich becomes the 16th person to seek the nomination of the Republican Party. ](/news/2015/07/21/united-states-presidential-election-2016-the-governor-of-ohio-john-kasich-becomes-the-16th-person-to-seek-the-nomination-of-the-republican.md) _2017-08-27 03:42:44 (First version)_
+1. [United States presidential election, 2016: The Governor of Ohio John Kasich becomes the 16th person to seek the nomination of the Republican Party. ](/news/2015/07/21/united-states-presidential-election-2016-the-governor-of-ohio-john-kasich-becomes-the-16th-person-to-seek-the-nomination-of-the-republican.md) _2018-02-06 13:49:27 (First version)_
 1. [The Governor of Ohio John Kasich becomes the 16th person to seek the nomination of the Republican Party. ](/news/2015/07/21/the-governor-of-ohio-john-kasich-becomes-the-16th-person-to-seek-the-nomination-of-the-republican-party.md) _(Current version)_
 
 ### Related:

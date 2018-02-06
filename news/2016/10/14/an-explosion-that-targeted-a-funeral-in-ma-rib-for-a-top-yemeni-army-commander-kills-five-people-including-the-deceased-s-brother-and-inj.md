@@ -17,8 +17,8 @@ Yemeni officials say an explosion has ripped through a funeral held for a top ar
 
 ### Changes:
 
-1. [An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased-s-brother-and-in.md) _2017-08-25 03:46:38 (First version)_
-2. [Yemeni Civil War: An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/yemeni-civil-war-an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased.md) _2017-08-27 03:47:02 (Update)_
+1. [Yemeni Civil War: An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/yemeni-civil-war-an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased.md) _2018-02-06 13:49:29 (First version)_
+2. [An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased-s-brother-and-in.md) _2018-02-06 13:49:29 (Update)_
 2. [An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased-s-brother-and-inj.md) _(Current version)_
 
 ### Related:

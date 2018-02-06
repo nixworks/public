@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-
 
 ### Changes:
 
-1. [2011 Syrian uprising:The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-pthe-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _2017-08-25 03:34:14 (First version)_
-2. [2011 Syrian uprising:: The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _2017-08-27 03:34:22 (Update)_
+1. [2011 Syrian uprising:: The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-pthe-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _2018-02-06 13:49:22 (Update)_
 2. [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md) _(Current version)_
 
 ### Related:

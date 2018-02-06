@@ -13,23 +13,23 @@ _Context: Pakistan Army, Pakistani Taliban_
 
 ##### Ethiopian Airlines Flight 702
 ### [Ethiopian Airlines Flight 702 between Addis Ababa and Rome is diverted to land at Geneva in an attempted hijacking by the co-pilot who claims to be seeking political asylum. ](/news/2014/02/17/ethiopian-airlines-flight-702-between-addis-ababa-and-rome-is-diverted-to-land-at-geneva-in-an-attempted-hijacking-by-the-co-pilot-who-claim.md)
-_Context: Ethiopian Airlines Flight 702, Addis Ababa, Geneva, Rome, Italy_
+_Context: Rome, Italy, Addis Ababa, Geneva, Ethiopian Airlines Flight 702_
 
 ##### The Tonight Show Starring Jimmy Fallon
 ### [American late-night show "The Tonight Show Starring Jimmy Fallon" premieres on the National Broadcasting Company, with Jimmy Fallon succeeding Jay Leno as host. ](/news/2014/02/17/american-late-night-show-the-tonight-show-starring-jimmy-fallon-premieres-on-the-national-broadcasting-company-with-jimmy-fallon-succeedi.md)
-_Context: Jay Leno, NBC, Jimmy Fallon, The Tonight Show Starring Jimmy Fallon_
+_Context: The Tonight Show Starring Jimmy Fallon, NBC, Jimmy Fallon, Jay Leno_
 
-##### British
+##### United Kingdom
 ### [Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weather-warnings-for-southwest-england.md)
 The government urges the insurance industry to deal with flood-related claims as quickly as possible, as more rain hits ground already saturated with water.
 
 ##### Nepalese police
 ### [Nepalese police find the wreckage of a missing Nepal Airlines plane in the mountainous West with all 18 passengers and crew dead. ](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.md)
-_Context: Nepalese police, Nepal Airlines_
+_Context: Nepal Airlines, Nepalese police_
 
 ##### Pope Francis
 ### [The Vatican head of state, Pope Francis, renews his Argentine passport, reportedly asking not to enjoy any privilege. ](/news/2014/02/17/the-vatican-head-of-state-pope-francis-renews-his-argentine-passport-reportedly-asking-not-to-enjoy-any-privilege.md)
-_Context: Argentina, Pope Francis_
+_Context: Pope Francis, Argentina_
 
 ##### United Nations
 ### [A United Nations report accuses North Korea of atrocities and calls for an investigation by the International Criminal Court. ](/news/2014/02/17/a-united-nations-report-accuses-north-korea-of-atrocities-and-calls-for-an-investigation-by-the-international-criminal-court.md)
@@ -41,7 +41,7 @@ Iran&#39;s ambassador to Moscow says Russia could build the Islamic republic a s
 
 ##### Venezuela
 ### [Venezuela orders the expulsion of three US consular officials amid rising tensions over anti-government protests after accusing the US of working with the opposition to undermine President Nicolas Maduro's government. ](/news/2014/02/17/venezuela-orders-the-expulsion-of-three-us-consular-officials-amid-rising-tensions-over-anti-government-protests-after-accusing-the-us-of-wo.md)
-_Context: Nicolas Maduro, Venezuela, United States-Venezuela relations, 2014 Venezuelan protests_
+_Context: Venezuela, Nicolas Maduro, 2014 Venezuelan protests, United States-Venezuela relations_
 
 ##### United States Supreme Court
 ### [The legality of private gambling is taken before the United States Supreme Court. ](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.md)
@@ -49,7 +49,7 @@ _Context: United States Supreme Court_
 
 ##### Government of Australia
 ### [A riot at the Australian Government's immigration detention facility on Manus Island in Papua New Guinea results in one death and 77 injuries. ](/news/2014/02/17/a-riot-at-the-australian-government-s-immigration-detention-facility-on-manus-island-in-papua-new-guinea-results-in-one-death-and-77-injurie.md)
-_Context: immigration detention facility, Government of Australia, Manus Island, Papua New Guinea_
+_Context: Manus Island, Papua New Guinea, Government of Australia, immigration detention facility_
 
 ##### Mayor of Florence
 ### [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md)
@@ -57,7 +57,7 @@ Florence Mayor Matteo Renzi, Italy’s prime minister-designate, set to building
 
 ##### First Minister
 ### [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md)
-_Context: Scotland, British, Alex Salmond, Scottish independence, First Minister_
+_Context: United Kingdom, Scottish independence, First Minister, Alex Salmond, Scotland_
 
 ##### near-Earth asteroid
 ### [A large near-Earth asteroid, 2000 EM26, passes by the Earth safely with no threat of collision at 8.8 times further from the Earth than the Moon. ](/news/2014/02/17/a-large-near-earth-asteroid-2000-em26-passes-by-the-earth-safely-with-no-threat-of-collision-at-8-8-times-further-from-the-earth-than-the.md)

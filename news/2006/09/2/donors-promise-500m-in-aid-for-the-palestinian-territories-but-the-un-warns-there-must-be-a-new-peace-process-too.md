@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/09/2/donors-promise-500m-in-aid-for-the-palestinian-t
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/israeli-palestinian-conflict-p-donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-proce.md) _2017-08-25 03:18:19 (First version)_
-2. [ Israeli-Palestinian conflict:: Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/israeli-palestinian-conflict-donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-proce.md) _2017-08-27 03:18:14 (Update)_
+1. [ Israeli-Palestinian conflict: Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/israeli-palestinian-conflict-p-donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-proce.md) _2018-02-06 13:49:17 (First version)_
+2. [ Israeli-Palestinian conflict:: Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/israeli-palestinian-conflict-donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-proce.md) _2018-02-06 13:49:17 (Update)_
 2. [ Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-process-too.md) _(Current version)_
 
 ### Related:

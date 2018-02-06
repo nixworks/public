@@ -16,7 +16,7 @@ A cloud of radioactive pollution spread over Europe after a possible &quot;accid
 
 ### Changes:
 
-1. [France's nuclear safety institute, IRSN picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kazak.md) _2017-11-11 16:30:05 (First version)_
+1. [France's nuclear safety institute, IRSN picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kazak.md) _2018-02-06 13:49:31 (First version)_
 1. [France's nuclear safety institute (IRSN) picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.md) _(Current version)_
 
 ### Related:

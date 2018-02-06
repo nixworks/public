@@ -13,7 +13,7 @@ South Korea said North Korea fired artillery salvos near a disputed sea border t
 
 ##### drones launch
 ### [A US drone missile attack kills at least 18 people in Pakistan's North Waziristan district. ](/news/2011/08/10/a-us-drone-missile-attack-kills-at-least-18-people-in-pakistan-s-north-waziristan-district.md)
-_Context: drones launch, North Waziristan, Pakistan_
+_Context: Pakistan, North Waziristan, drones launch_
 
 ##### Aoraki / Mount Cook
 ### [The south ridge of Aoraki - Mount Cook, New Zealand's highest mountain, is renamed Hillary Ridge after Sir Edmund Hillary, the first man to conquer Mount Everest. ](/news/2011/08/10/the-south-ridge-of-aoraki-mount-cook-new-zealand-s-highest-mountain-is-renamed-hillary-ridge-after-sir-edmund-hillary-the-first-man-to.md)
@@ -21,11 +21,11 @@ WELLINGTON (Reuters Life!) - New Zealand will name a part of its highest mountai
 
 ##### Stock market
 ### [Stock markets in Asia and Australia continue to rebound after the United States Federal Reserve promises to keep interest rates near zero for two years. ](/news/2011/08/10/stock-markets-in-asia-and-australia-continue-to-rebound-after-the-united-states-federal-reserve-promises-to-keep-interest-rates-near-zero-fo.md)
-_Context: interest rates, Australia, United States Federal Reserve, Asia, Stock market_
+_Context: United States Federal Reserve, Stock market, Australia, interest rates, Asia_
 
 ##### trade deficit
 ### [The trade surplus of the People's Republic of China rises to US$31.5 billion in July, the highest level in two years. ](/news/2011/08/10/the-trade-surplus-of-the-people-s-republic-of-china-rises-to-us-31-5-billion-in-july-the-highest-level-in-two-years.md)
-_Context: trade deficit, China_
+_Context: China, trade deficit_
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority gives Tiger Airways the all clear to resume operations after a six-week suspension for safety violations. ](/news/2011/08/10/australia-s-civil-aviation-safety-authority-gives-tiger-airways-the-all-clear-to-resume-operations-after-a-six-week-suspension-for-safety-vi.md)

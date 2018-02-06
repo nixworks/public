@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-
 
 ### Changes:
 
-1. [January 2017 Baghdad bombings: A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/january-2017-baghdad-bombings-a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of.md) _2017-08-27 03:47:34 (First version)_
+1. [January 2017 Baghdad bombings: A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/january-2017-baghdad-bombings-a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of.md) _2018-02-06 13:49:30 (First version)_
 1. [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md) _(Current version)_
 
 ### Related:

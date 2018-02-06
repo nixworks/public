@@ -17,7 +17,7 @@ Toppled president is charged in absentia on various charges including incitement
 
 ### Changes:
 
-1. [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment ''in absentia'' by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. ](/news/2012/06/13/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-20-years-imprisonment-in-absentia-by-a-tunisian-military-court-for-i.md) _2017-08-25 03:35:52 (First version)_
+1. [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment ''in absentia'' by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. ](/news/2012/06/13/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-20-years-imprisonment-in-absentia-by-a-tunisian-military-court-for-i.md) _2018-02-06 13:49:23 (First version)_
 1. [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment "in absentia" by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. ](/news/2012/06/13/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-20-years-imprisonment-in-absentia-by-a-tunisian-military-court-for-inc.md) _(Current version)_
 
 ### Related:

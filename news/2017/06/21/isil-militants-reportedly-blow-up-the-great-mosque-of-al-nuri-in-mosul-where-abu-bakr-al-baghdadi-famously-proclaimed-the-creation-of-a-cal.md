@@ -16,8 +16,8 @@ The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;cal
 
 ### Changes:
 
-1. [ISIL militants blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ](/news/2017/06/21/isil-militants-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-caliphate-in-2.md) _2017-06-22 06:30:07 (First version)_
-2. [Iraqi Civil War: Battle of Mosul: ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/iraqi-civil-war-battle-of-mosul-isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famousl.md) _2017-08-27 03:48:32 (Update)_
+1. [ISIL militants blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ](/news/2017/06/21/isil-militants-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-caliphate-in-2.md) _2018-02-06 13:49:30 (First version)_
+2. [Iraqi Civil War: Battle of Mosul: ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/iraqi-civil-war-battle-of-mosul-isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famousl.md) _2018-02-06 13:49:30 (Update)_
 2. [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md) _(Current version)_
 
 ### Related:

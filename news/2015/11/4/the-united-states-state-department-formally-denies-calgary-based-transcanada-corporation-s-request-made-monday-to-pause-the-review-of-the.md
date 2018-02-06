@@ -17,7 +17,7 @@ The Obama administration said Wednesday it is continuing a review of the propose
 
 ### Changes:
 
-1. [Keystone XL Pipeline: The United States State Department formally denies Calgary-based TransCanada Corporation's request, made Monday, to pause the review of the proposed Keystone XL oil pipeline. "Reuters" states this is expected to lead to the project's rejection by the Obama administration. ](/news/2015/11/4/keystone-xl-pipeline-the-united-states-state-department-formally-denies-calgary-based-transcanada-corporation-s-request-made-monday-to-pa.md) _2017-08-27 03:43:41 (First version)_
+1. [Keystone XL Pipeline: The United States State Department formally denies Calgary-based TransCanada Corporation's request, made Monday, to pause the review of the proposed Keystone XL oil pipeline. "Reuters" states this is expected to lead to the project's rejection by the Obama administration. ](/news/2015/11/4/keystone-xl-pipeline-the-united-states-state-department-formally-denies-calgary-based-transcanada-corporation-s-request-made-monday-to-pa.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States State Department formally denies Calgary-based TransCanada Corporation's request, made Monday, to pause the review of the proposed Keystone XL oil pipeline. "Reuters" states this is expected to lead to the project's rejection by the Obama administration. ](/news/2015/11/4/the-united-states-state-department-formally-denies-calgary-based-transcanada-corporation-s-request-made-monday-to-pause-the-review-of-the.md) _(Current version)_
 
 ### Related:

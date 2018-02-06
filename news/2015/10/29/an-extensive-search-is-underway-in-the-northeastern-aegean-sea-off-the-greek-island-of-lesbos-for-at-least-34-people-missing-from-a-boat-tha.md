@@ -18,7 +18,7 @@ An extensive search was underway off a Greek island on Thursday for at least 34 
 
 ### Changes:
 
-1. [European migrant crisis: An extensive search is underway in the northeastern Aegean Sea off the Greek island of Lesbos for at least 34 people missing from a boat that sank yesterday. Some 242 people were rescued but eight died, five children, two men and a woman. ](/news/2015/10/29/european-migrant-crisis-an-extensive-search-is-underway-in-the-northeastern-aegean-sea-off-the-greek-island-of-lesbos-for-at-least-34-peopl.md) _2017-08-27 03:43:34 (First version)_
+1. [European migrant crisis: An extensive search is underway in the northeastern Aegean Sea off the Greek island of Lesbos for at least 34 people missing from a boat that sank yesterday. Some 242 people were rescued but eight died, five children, two men and a woman. ](/news/2015/10/29/european-migrant-crisis-an-extensive-search-is-underway-in-the-northeastern-aegean-sea-off-the-greek-island-of-lesbos-for-at-least-34-peopl.md) _2018-02-06 13:49:28 (First version)_
 1. [An extensive search is underway in the northeastern Aegean Sea off the Greek island of Lesbos for at least 34 people missing from a boat that sank yesterday. Some 242 people were rescued but eight died, five children, two men and a woman. ](/news/2015/10/29/an-extensive-search-is-underway-in-the-northeastern-aegean-sea-off-the-greek-island-of-lesbos-for-at-least-34-people-missing-from-a-boat-tha.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/25/the-yemeni-military-kills-5-al-qaeda-militants-
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-pthe-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md) _2017-08-25 03:40:27 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md) _2017-08-27 03:40:45 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-pthe-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md) _2018-02-06 13:49:26 (Update)_
 2. [The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md) _(Current version)_
 
 ### Related:

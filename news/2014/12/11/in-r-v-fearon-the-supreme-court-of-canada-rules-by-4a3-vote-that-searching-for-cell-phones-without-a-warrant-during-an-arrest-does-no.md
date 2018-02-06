@@ -16,8 +16,8 @@ Whether or not passwords matter, and what conditions police must meet to search 
 
 ### Changes:
 
-1. [In ''R. v. Fearon'', the Supreme Court of Canada rules by 4-3 vote that searching for cell phones without a warrant during an arrest does not violate the Section Eight of the Canadian Charter of Rights and Freedoms. ](/news/2014/12/11/in-r-v-fearon-the-supreme-court-of-canada-rules-by-4a3-vote-that-searching-for-cell-phones-without-a-warrant-during-an-arrest-does.md) _2017-08-25 03:41:19 (First version)_
-2. [In "R. v. Fearon", the Supreme Court of Canada rules by 4-3 vote that searching for cell phones without a warrant during an arrest does not violate the Section Eight of the Canadian Charter of Rights and Freedoms. ](/news/2014/12/11/in-r-v-fearon-the-supreme-court-of-canada-rules-by-4-3-vote-that-searching-for-cell-phones-without-a-warrant-during-an-arrest-does-no.md) _2017-08-27 03:41:37 (Update)_
+1. [In ''R. v. Fearon'', the Supreme Court of Canada rules by 4-3 vote that searching for cell phones without a warrant during an arrest does not violate the Section Eight of the Canadian Charter of Rights and Freedoms. ](/news/2014/12/11/in-r-v-fearon-the-supreme-court-of-canada-rules-by-4a3-vote-that-searching-for-cell-phones-without-a-warrant-during-an-arrest-does.md) _2018-02-06 13:49:26 (First version)_
+2. [In "R. v. Fearon", the Supreme Court of Canada rules by 4-3 vote that searching for cell phones without a warrant during an arrest does not violate the Section Eight of the Canadian Charter of Rights and Freedoms. ](/news/2014/12/11/in-r-v-fearon-the-supreme-court-of-canada-rules-by-4-3-vote-that-searching-for-cell-phones-without-a-warrant-during-an-arrest-does-no.md) _2018-02-06 13:49:26 (Update)_
 2. [In "R. v. Fearon", the Supreme Court of Canada rules by 4-3 vote that searching for cell phones without a warrant during an arrest does not violate the Section Eight of the Canadian Charter of Rights and Freedoms. ](/news/2014/12/11/in-r-v-fearon-the-supreme-court-of-canada-rules-by-4a3-vote-that-searching-for-cell-phones-without-a-warrant-during-an-arrest-does-no.md) _(Current version)_
 
 ### Related:

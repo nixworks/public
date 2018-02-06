@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/28/syrian-rebels-capture-three-military-airbases-i
 
 ### Changes:
 
-1. [Syrian civil war:Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-psyrian-rebels-capture-three-military-airbases-in-the-north.md) _2017-08-25 03:38:30 (First version)_
-2. [Syrian civil war:: Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-syrian-rebels-capture-three-military-airbases-in-the-north.md) _2017-08-27 03:38:42 (Update)_
+1. [Syrian civil war:: Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-syrian-rebels-capture-three-military-airbases-in-the-north.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-psyrian-rebels-capture-three-military-airbases-in-the-north.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-rebels-capture-three-military-airbases-in-the-north.md) _(Current version)_
 
 ### Related:

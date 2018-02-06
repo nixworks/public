@@ -17,7 +17,7 @@ As many as 40 Afghan civilians were feared to be among the 90 people killed in a
 
 ### Changes:
 
-1. [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel.md) _2017-08-25 03:25:40 (First version)_
+1. [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel.md) _2018-02-06 13:49:19 (First version)_
 1. [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel-t.md) _(Current version)_
 
 ### Related:

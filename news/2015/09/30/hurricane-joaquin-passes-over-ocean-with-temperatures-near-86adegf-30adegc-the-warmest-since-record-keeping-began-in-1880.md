@@ -24,7 +24,7 @@ Tropical Storm Joaquin is expected to strengthen while moving north of the East 
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: Hurricane Joaquin: Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/2015-atlantic-hurricane-season-hurricane-joaquin-hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-si.md) _2017-08-27 03:43:11 (First version)_
+1. [2015 Atlantic hurricane season: Hurricane Joaquin: Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/2015-atlantic-hurricane-season-hurricane-joaquin-hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-si.md) _2018-02-06 13:49:27 (First version)_
 1. [Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-since-record-keeping-began-in-1880.md) _(Current version)_
 
 ### Related:

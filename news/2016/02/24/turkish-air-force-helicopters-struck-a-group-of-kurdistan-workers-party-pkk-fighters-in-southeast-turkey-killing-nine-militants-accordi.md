@@ -16,7 +16,7 @@ By Seyhmus Cakan DIYARBAKIR, Turkey (Reuters) - Turkish military helicopters kil
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict: Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/kurdish-turkish-conflict-turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-kil.md) _2017-08-27 03:45:01 (First version)_
+1. [Kurdish-Turkish conflict: Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/kurdish-turkish-conflict-turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-kil.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-killing-nine-militants-accordi.md) _(Current version)_
 
 ### Related:

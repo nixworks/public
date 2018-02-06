@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/10/28/the-syrian-army-retakes-the-ancient-christian-t
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/syrian-civil-war-pthe-syrian-army-retakes-the-ancient-christian-town-of-sadad.md) _2017-08-25 03:39:26 (First version)_
-2. [Syrian civil war:: The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/syrian-civil-war-the-syrian-army-retakes-the-ancient-christian-town-of-sadad.md) _2017-08-27 03:39:44 (Update)_
+1. [Syrian civil war:: The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/syrian-civil-war-the-syrian-army-retakes-the-ancient-christian-town-of-sadad.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/syrian-civil-war-pthe-syrian-army-retakes-the-ancient-christian-town-of-sadad.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/the-syrian-army-retakes-the-ancient-christian-town-of-sadad.md) _(Current version)_
 
 ### Related:

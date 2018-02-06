@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-go
 
 ### Changes:
 
-1. [The Venice Biennale awards its top price, the Golden Lion for best national participation, to German artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-price-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md) _2017-05-13 21:30:05 (First version)_
-2. [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md) _2017-08-25 03:47:53 (Update)_
+1. [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md) _2018-02-06 13:49:30 (First version)_
+2. [The Venice Biennale awards its top price, the Golden Lion for best national participation, to German artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-price-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md) _2018-02-06 13:49:30 (Update)_
 2. [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-fo.md) _(Current version)_
 
 ### Related:

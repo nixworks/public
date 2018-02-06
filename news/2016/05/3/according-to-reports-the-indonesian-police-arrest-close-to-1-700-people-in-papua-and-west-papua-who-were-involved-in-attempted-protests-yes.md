@@ -16,7 +16,7 @@ Indonesian police arrested almost 1700 West Papuans yesterday for taking part in
 
 ### Changes:
 
-1. [Papua conflict: According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/papua-conflict-according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attemp.md) _2017-08-27 03:45:58 (First version)_
+1. [Papua conflict: According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/papua-conflict-according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attemp.md) _2018-02-06 13:49:29 (First version)_
 1. [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md) _(Current version)_
 
 ### Related:

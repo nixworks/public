@@ -15,5 +15,5 @@ Formats: [HTML](/news/2015/05/5/archaeornithura-meemannae-a-new-species-of-prehi
 
 ### Changes:
 
-1. [ ''Archaeornithura meemannae'', a new species of prehistoric bird that represents the oldest known member of the modern bird lineage, is discovered. ](/news/2015/05/5/archaeornithura-meemannae-a-new-species-of-prehistoric-bird-that-represents-the-oldest-known-member-of-the-modern-bird-lineage-is-dis.md) _2017-08-25 03:41:58 (First version)_
+1. [ ''Archaeornithura meemannae'', a new species of prehistoric bird that represents the oldest known member of the modern bird lineage, is discovered. ](/news/2015/05/5/archaeornithura-meemannae-a-new-species-of-prehistoric-bird-that-represents-the-oldest-known-member-of-the-modern-bird-lineage-is-dis.md) _2018-02-06 13:49:27 (First version)_
 1. [ "Archaeornithura meemannae", a new species of prehistoric bird that represents the oldest known member of the modern bird lineage, is discovered. ](/news/2015/05/5/archaeornithura-meemannae-a-new-species-of-prehistoric-bird-that-represents-the-oldest-known-member-of-the-modern-bird-lineage-is-disco.md) _(Current version)_

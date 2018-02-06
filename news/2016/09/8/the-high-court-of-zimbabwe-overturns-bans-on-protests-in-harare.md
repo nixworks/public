@@ -15,7 +15,7 @@ Judge lifts police ban, days after president accused courts of recklessness for 
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/2016-zimbabwe-protests-the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _2017-08-27 03:46:48 (First version)_
+1. [2016 Zimbabwe protests: The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/2016-zimbabwe-protests-the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _2018-02-06 13:49:29 (First version)_
 1. [The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _(Current version)_
 
 ### Related:

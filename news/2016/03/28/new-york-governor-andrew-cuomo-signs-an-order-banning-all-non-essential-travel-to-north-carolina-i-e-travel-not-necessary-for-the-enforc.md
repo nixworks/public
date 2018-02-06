@@ -16,7 +16,7 @@ New York state Gov. Andrew Cuomo on Monday signed an order banning all non-essen
 
 ### Changes:
 
-1. [New York Governor Andrew Cuomo signs an order banning all non-essential travel to North Carolina, i.e., travel not necessary for the enforcement of New York state law, public health, and-or safety, following the state's passage of a law blocking local governments from passing anti-discrimination ordinances. ](/news/2016/03/28/new-york-governor-andrew-cuomo-signs-an-order-banning-all-non-essential-travel-to-north-carolina-i-e-travel-not-necessary-for-the-enforce.md) _2017-10-17 03:52:22 (First version)_
+1. [New York Governor Andrew Cuomo signs an order banning all non-essential travel to North Carolina, i.e., travel not necessary for the enforcement of New York state law, public health, and-or safety, following the state's passage of a law blocking local governments from passing anti-discrimination ordinances. ](/news/2016/03/28/new-york-governor-andrew-cuomo-signs-an-order-banning-all-non-essential-travel-to-north-carolina-i-e-travel-not-necessary-for-the-enforce.md) _2018-02-06 13:49:28 (First version)_
 1. [ New York Governor Andrew Cuomo signs an order banning all non-essential travel to North Carolina, i.e., travel not necessary for the enforcement of New York state law, public health, and-or safety, following the state's passage of a law blocking local governments from passing anti-discrimination ordinances. ](/news/2016/03/28/new-york-governor-andrew-cuomo-signs-an-order-banning-all-non-essential-travel-to-north-carolina-i-e-travel-not-necessary-for-the-enforc.md) _(Current version)_
 
 ### Related:

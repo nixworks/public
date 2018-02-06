@@ -16,7 +16,7 @@ After only three appearances on the Comedy Central show, a 31-year-old comedian 
 
 ### Changes:
 
-1. [South African comedian Trevor Noah will succeed Jon Stewart as host of the television program ''The Daily Show'' on the Comedy Central network. ](/news/2015/03/30/south-african-comedian-trevor-noah-will-succeed-jon-stewart-as-host-of-the-television-program-the-daily-show-on-the-comedy-central-netwo.md) _2017-08-25 03:41:49 (First version)_
+1. [South African comedian Trevor Noah will succeed Jon Stewart as host of the television program ''The Daily Show'' on the Comedy Central network. ](/news/2015/03/30/south-african-comedian-trevor-noah-will-succeed-jon-stewart-as-host-of-the-television-program-the-daily-show-on-the-comedy-central-netwo.md) _2018-02-06 13:49:27 (First version)_
 1. [South African comedian Trevor Noah will succeed Jon Stewart as host of the television program "The Daily Show" on the Comedy Central network. ](/news/2015/03/30/south-african-comedian-trevor-noah-will-succeed-jon-stewart-as-host-of-the-television-program-the-daily-show-on-the-comedy-central-network.md) _(Current version)_
 
 ### Related:

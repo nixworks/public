@@ -16,7 +16,7 @@ International sanctions on Iran are lifted after its compliance with obligations
 
 ### Changes:
 
-1. [Joint Comprehensive Plan of Action: Europe and the United States lift sanctions imposed on Iran regarding its nuclear programme, and the Joint Comprehensive Plan of Action begins to be implemented. ](/news/2016/01/17/joint-comprehensive-plan-of-action-europe-and-the-united-states-lift-sanctions-imposed-on-iran-regarding-its-nuclear-programme-and-the-joi.md) _2017-08-27 03:44:42 (First version)_
+1. [Joint Comprehensive Plan of Action: Europe and the United States lift sanctions imposed on Iran regarding its nuclear programme, and the Joint Comprehensive Plan of Action begins to be implemented. ](/news/2016/01/17/joint-comprehensive-plan-of-action-europe-and-the-united-states-lift-sanctions-imposed-on-iran-regarding-its-nuclear-programme-and-the-joi.md) _2018-02-06 13:49:28 (First version)_
 1. [Europe and the United States lift sanctions imposed on Iran regarding its nuclear programme, and the Joint Comprehensive Plan of Action begins to be implemented. ](/news/2016/01/17/europe-and-the-united-states-lift-sanctions-imposed-on-iran-regarding-its-nuclear-programme-and-the-joint-comprehensive-plan-of-action-begi.md) _(Current version)_
 
 ### Related:

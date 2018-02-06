@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/20/after-a-globe-and-mail-article-from-journalist-
 
 ### Changes:
 
-1. [ After a ''Globe and Mail'' article from journalist Jan Wong created controversy and accusations of racism against Quebec, the Canadian House of Commons unanimously passes a motion requesting an apology from ''The Globe and Mail''. ](/news/2006/09/20/after-a-globe-and-mail-article-from-journalist-jan-wong-created-controversy-and-accusations-of-racism-against-quebec-the-canadian-hous.md) _2017-08-25 03:18:26 (First version)_
+1. [ After a ''Globe and Mail'' article from journalist Jan Wong created controversy and accusations of racism against Quebec, the Canadian House of Commons unanimously passes a motion requesting an apology from ''The Globe and Mail''. ](/news/2006/09/20/after-a-globe-and-mail-article-from-journalist-jan-wong-created-controversy-and-accusations-of-racism-against-quebec-the-canadian-hous.md) _2018-02-06 13:49:17 (First version)_
 1. [ After a "Globe and Mail" article from journalist Jan Wong created controversy and accusations of racism against Quebec, the Canadian House of Commons unanimously passes a motion requesting an apology from "The Globe and Mail". ](/news/2006/09/20/after-a-globe-and-mail-article-from-journalist-jan-wong-created-controversy-and-accusations-of-racism-against-quebec-the-canadian-house.md) _(Current version)_
 
 ### Related:

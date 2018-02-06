@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in
 
 ### Changes:
 
-1. [War in Afghanistan: 10 January 2017 Afghanistan bombings: Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/war-in-afghanistan-10-january-2017-afghanistan-bombings-two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _2017-08-27 03:47:35 (First version)_
+1. [War in Afghanistan: 10 January 2017 Afghanistan bombings: Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/war-in-afghanistan-10-january-2017-afghanistan-bombings-two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _2018-02-06 13:49:30 (First version)_
 1. [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _(Current version)_
 
 ### Related:

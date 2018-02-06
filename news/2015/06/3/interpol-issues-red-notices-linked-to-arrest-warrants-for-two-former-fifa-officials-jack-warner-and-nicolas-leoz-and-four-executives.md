@@ -19,7 +19,7 @@ Formats: [HTML](/news/2015/06/3/interpol-issues-red-notices-linked-to-arrest-war
 
 ### Changes:
 
-1. [2015 FIFA corruption case: Interpol issues red notices linked to arrest warrants for two former FIFA officials Jack Warner and Nicolas Leoz and four executives. ](/news/2015/06/3/2015-fifa-corruption-case-interpol-issues-red-notices-linked-to-arrest-warrants-for-two-former-fifa-officials-jack-warner-and-nicolas-leoz.md) _2017-08-27 03:42:28 (First version)_
+1. [2015 FIFA corruption case: Interpol issues red notices linked to arrest warrants for two former FIFA officials Jack Warner and Nicolas Leoz and four executives. ](/news/2015/06/3/2015-fifa-corruption-case-interpol-issues-red-notices-linked-to-arrest-warrants-for-two-former-fifa-officials-jack-warner-and-nicolas-leoz.md) _2018-02-06 13:49:27 (First version)_
 1. [Interpol issues red notices linked to arrest warrants for two former FIFA officials Jack Warner and Nicolas Leoz and four executives. ](/news/2015/06/3/interpol-issues-red-notices-linked-to-arrest-warrants-for-two-former-fifa-officials-jack-warner-and-nicolas-leoz-and-four-executives.md) _(Current version)_
 
 ### Related:

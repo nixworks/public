@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-ele
 
 ### Changes:
 
-1. [Kosovan parliamentary election, 2017: Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/kosovan-parliamentary-election-2017-voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-m.md) _2017-08-27 03:48:28 (First version)_
+1. [Kosovan parliamentary election, 2017: Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/kosovan-parliamentary-election-2017-voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-m.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The owners of a Brazilian mine that suffered a dam burst, setting off a deadly m
 
 ### Changes:
 
-1. [Mining company Samarco agrees to pay $4.4bn reais (PS804m) in compensation to victims of the Bento Rodrigues dam disaster in Brazil. ](/news/2016/03/2/mining-company-samarco-agrees-to-pay-4-4bn-reais-aps804m-in-compensation-to-victims-of-the-bento-rodrigues-dam-disaster-in-brazil.md) _2017-08-25 03:44:45 (First version)_
+1. [Mining company Samarco agrees to pay $4.4bn reais (PS804m) in compensation to victims of the Bento Rodrigues dam disaster in Brazil. ](/news/2016/03/2/mining-company-samarco-agrees-to-pay-4-4bn-reais-aps804m-in-compensation-to-victims-of-the-bento-rodrigues-dam-disaster-in-brazil.md) _2018-02-06 13:49:28 (First version)_
 1. [Mining company Samarco agrees to pay $4.4bn reais (GBP804m) in compensation to victims of the Bento Rodrigues dam disaster in Brazil. ](/news/2016/03/2/mining-company-samarco-agrees-to-pay-4-4bn-reais-agbp804m-in-compensation-to-victims-of-the-bento-rodrigues-dam-disaster-in-brazil.md) _(Current version)_
 
 ### Related:

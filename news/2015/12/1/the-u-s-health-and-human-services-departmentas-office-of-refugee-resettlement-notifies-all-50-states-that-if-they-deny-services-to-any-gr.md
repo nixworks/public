@@ -15,7 +15,7 @@ States risk losing all resettlement funding if they try to pick and choose who t
 
 ### Changes:
 
-1. [European migrant crisis: The U.S. Health and Human Services Department-s Office of Refugee Resettlement notifies all 50 states that if they deny services to any group of refugees, states may risk losing resettlement funding altogether. More than half of the nation-s governors have said they will not accept Syrian refugees in their states. ](/news/2015/12/1/european-migrant-crisis-the-u-s-health-and-human-services-department-s-office-of-refugee-resettlement-notifies-all-50-states-that-if-the.md) _2017-08-27 03:44:09 (First version)_
+1. [European migrant crisis: The U.S. Health and Human Services Department-s Office of Refugee Resettlement notifies all 50 states that if they deny services to any group of refugees, states may risk losing resettlement funding altogether. More than half of the nation-s governors have said they will not accept Syrian refugees in their states. ](/news/2015/12/1/european-migrant-crisis-the-u-s-health-and-human-services-department-s-office-of-refugee-resettlement-notifies-all-50-states-that-if-the.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Health and Human Services Department's Office of Refugee Resettlement notifies all 50 states that if they deny services to any group of refugees, states may risk losing resettlement funding altogether. More than half of the nation's governors have said they will not accept Syrian refugees in their states. ](/news/2015/12/1/the-u-s-health-and-human-services-departmentas-office-of-refugee-resettlement-notifies-all-50-states-that-if-they-deny-services-to-any-gr.md) _(Current version)_
 
 ### Related:

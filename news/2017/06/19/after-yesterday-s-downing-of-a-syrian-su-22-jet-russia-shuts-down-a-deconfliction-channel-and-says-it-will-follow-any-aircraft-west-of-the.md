@@ -16,7 +16,7 @@ An American aircraft shot down a Syrian air force fighter jet Sunday, prompting 
 
 ### Changes:
 
-1. [Syrian Civil War: After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/syrian-civil-war-after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-air.md) _2017-08-27 03:48:30 (First version)_
+1. [Syrian Civil War: After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/syrian-civil-war-after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-air.md) _2018-02-06 13:49:30 (First version)_
 1. [After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-aircraft-west-of-the.md) _(Current version)_
 
 ### Related:

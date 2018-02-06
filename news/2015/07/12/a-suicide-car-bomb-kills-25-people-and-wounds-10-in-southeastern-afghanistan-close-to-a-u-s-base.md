@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-1
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/war-in-afghanistan-2015-present-a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md) _2017-08-27 03:42:41 (First version)_
+1. [War in Afghanistan (2015-present): A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/war-in-afghanistan-2015-present-a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md) _(Current version)_
 
 ### Related:

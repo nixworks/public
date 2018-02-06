@@ -11,8 +11,8 @@ Formats: [HTML](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-engl
 
 ### Changes:
 
-1. [ American football: Super Bowl&nbsp;XXXVI: New England Patriots 20, St. Louis Rams 17--one of the most astonishing upsets in Super Bowl history.](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-england-patriots-20-st-louis-rams-17aone-of-the-most-astonishing-upsets-in-super-bowl-h.md) _2017-08-25 03:15:11 (First version)_
-2. [ American football: Super Bowl&nbsp;XXXVI: New England Patriots 20, St. Louis Rams 17-one of the most astonishing upsets in Super Bowl history.](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-england-patriots-20-st-louis-rams-17-one-of-the-most-astonishing-upsets-in-super-bowl-his.md) _2017-08-27 03:15:12 (Update)_
+1. [ American football: Super Bowl&nbsp;XXXVI: New England Patriots 20, St. Louis Rams 17--one of the most astonishing upsets in Super Bowl history.](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-england-patriots-20-st-louis-rams-17aone-of-the-most-astonishing-upsets-in-super-bowl-h.md) _2018-02-06 13:49:15 (First version)_
+2. [ American football: Super Bowl&nbsp;XXXVI: New England Patriots 20, St. Louis Rams 17-one of the most astonishing upsets in Super Bowl history.](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-england-patriots-20-st-louis-rams-17-one-of-the-most-astonishing-upsets-in-super-bowl-his.md) _2018-02-06 13:49:15 (Update)_
 2. [ American football: Super Bowl&nbsp;XXXVI: New England Patriots 20, St. Louis Rams 17--one of the most astonishing upsets in Super Bowl history.](/news/2002/02/3/american-football-super-bowl-nbsp-xxxvi-new-england-patriots-20-st-louis-rams-17aone-of-the-most-astonishing-upsets-in-super-bowl-his.md) _(Current version)_
 
 ### Related:

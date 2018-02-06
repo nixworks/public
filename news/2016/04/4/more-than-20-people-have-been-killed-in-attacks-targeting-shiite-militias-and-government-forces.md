@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/4/more-than-20-people-have-been-killed-in-attacks-
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/iraqi-civil-war-2014-present-more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md) _2017-08-27 03:45:29 (First version)_
+1. [Iraqi Civil War (2014-present): More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/iraqi-civil-war-2014-present-more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md) _2018-02-06 13:49:29 (First version)_
 1. [More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md) _(Current version)_
 
 ### Related:

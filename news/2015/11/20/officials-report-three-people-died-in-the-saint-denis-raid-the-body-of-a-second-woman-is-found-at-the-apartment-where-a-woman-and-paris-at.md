@@ -19,8 +19,8 @@ Prosecutors confirm the cousin of the Paris attacks plotter was killed in the ra
 
 ### Changes:
 
-1. [ Officials report three people died in the Saint-Denis raid. The body of a second woman is found at the apartment where a woman and Paris attacks ringleader Abdelhamid Abaaoud were killed. ](/news/2015/11/20/officials-report-three-people-died-in-the-saint-denis-raid-the-body-of-a-second-woman-is-found-at-the-apartment-where-a-woman-and-paris-a.md) _2017-08-25 03:43:38 (First version)_
-2. [November 2015 Paris attacks: Officials report three people died in the Saint-Denis raid. The body of a second woman is found at the apartment where a woman and Paris attacks ringleader Abdelhamid Abaaoud were killed. ](/news/2015/11/20/november-2015-paris-attacks-officials-report-three-people-died-in-the-saint-denis-raid-the-body-of-a-second-woman-is-found-at-the-apartmen.md) _2017-08-27 03:43:58 (Update)_
+1. [ Officials report three people died in the Saint-Denis raid. The body of a second woman is found at the apartment where a woman and Paris attacks ringleader Abdelhamid Abaaoud were killed. ](/news/2015/11/20/officials-report-three-people-died-in-the-saint-denis-raid-the-body-of-a-second-woman-is-found-at-the-apartment-where-a-woman-and-paris-a.md) _2018-02-06 13:49:28 (First version)_
+2. [November 2015 Paris attacks: Officials report three people died in the Saint-Denis raid. The body of a second woman is found at the apartment where a woman and Paris attacks ringleader Abdelhamid Abaaoud were killed. ](/news/2015/11/20/november-2015-paris-attacks-officials-report-three-people-died-in-the-saint-denis-raid-the-body-of-a-second-woman-is-found-at-the-apartmen.md) _2018-02-06 13:49:28 (Update)_
 2. [ Officials report three people died in the Saint-Denis raid. The body of a second woman is found at the apartment where a woman and Paris attacks ringleader Abdelhamid Abaaoud were killed. ](/news/2015/11/20/officials-report-three-people-died-in-the-saint-denis-raid-the-body-of-a-second-woman-is-found-at-the-apartment-where-a-woman-and-paris-at.md) _(Current version)_
 
 ### Related:

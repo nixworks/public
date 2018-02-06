@@ -16,7 +16,7 @@ Police in southwestern China shot dead one person and detained 21 others who wer
 
 ### Changes:
 
-1. [''Xinhua'' reports that on December 21 Chinese police in Guangxi shot dead one person and detained 21 others. China considers the group to be "religious extremists" who were trying to cross the border into Vietnam. ](/news/2014/12/24/xinhua-reports-that-on-december-21-chinese-police-in-guangxi-shot-dead-one-person-and-detained-21-others-china-considers-the-group-to-b.md) _2017-08-25 03:41:23 (First version)_
+1. [''Xinhua'' reports that on December 21 Chinese police in Guangxi shot dead one person and detained 21 others. China considers the group to be "religious extremists" who were trying to cross the border into Vietnam. ](/news/2014/12/24/xinhua-reports-that-on-december-21-chinese-police-in-guangxi-shot-dead-one-person-and-detained-21-others-china-considers-the-group-to-b.md) _2018-02-06 13:49:26 (First version)_
 1. ["Xinhua" reports that on December 21 Chinese police in Guangxi shot dead one person and detained 21 others. China considers the group to be "religious extremists" who were trying to cross the border into Vietnam. ](/news/2014/12/24/xinhua-reports-that-on-december-21-chinese-police-in-guangxi-shot-dead-one-person-and-detained-21-others-china-considers-the-group-to-be.md) _(Current version)_
 
 ### Related:

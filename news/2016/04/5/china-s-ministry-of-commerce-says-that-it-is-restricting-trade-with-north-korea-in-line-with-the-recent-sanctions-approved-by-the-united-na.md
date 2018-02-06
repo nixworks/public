@@ -16,7 +16,7 @@ China says it is restricting trade with North Korea, announcing bans on gold and
 
 ### Changes:
 
-1. [China-North Korea relations: China's Ministry of Commerce says that it is restricting trade with North Korea, in line with the recent sanctions approved by the United Nations Security Council last March. China will be banning the export of jet fuel and import of gold, some coal and "rare earth metals" used in high-tech goods. ](/news/2016/04/5/china-north-korea-relations-china-s-ministry-of-commerce-says-that-it-is-restricting-trade-with-north-korea-in-line-with-the-recent-sanc.md) _2017-08-27 03:45:30 (First version)_
+1. [China-North Korea relations: China's Ministry of Commerce says that it is restricting trade with North Korea, in line with the recent sanctions approved by the United Nations Security Council last March. China will be banning the export of jet fuel and import of gold, some coal and "rare earth metals" used in high-tech goods. ](/news/2016/04/5/china-north-korea-relations-china-s-ministry-of-commerce-says-that-it-is-restricting-trade-with-north-korea-in-line-with-the-recent-sanc.md) _2018-02-06 13:49:29 (First version)_
 1. [China's Ministry of Commerce says that it is restricting trade with North Korea, in line with the recent sanctions approved by the United Nations Security Council last March. China will be banning the export of jet fuel and import of gold, some coal and "rare earth metals" used in high-tech goods. ](/news/2016/04/5/china-s-ministry-of-commerce-says-that-it-is-restricting-trade-with-north-korea-in-line-with-the-recent-sanctions-approved-by-the-united-na.md) _(Current version)_
 
 ### Related:

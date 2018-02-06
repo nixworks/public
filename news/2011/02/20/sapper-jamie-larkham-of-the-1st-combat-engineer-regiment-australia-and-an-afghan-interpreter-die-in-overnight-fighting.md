@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer
 
 ### Changes:
 
-1. [War in Afghanistan:Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-psapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md) _2017-08-25 03:32:17 (First version)_
-2. [War in Afghanistan:: Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fightin.md) _2017-08-27 03:32:25 (Update)_
+1. [War in Afghanistan:: Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fightin.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan:Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-psapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md) _2018-02-06 13:49:22 (Update)_
 2. [Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md) _(Current version)_
 
 ### Related:

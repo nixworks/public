@@ -18,7 +18,7 @@ At least 278 people killed and month-long state of emergency imposed after secur
 
 ### Changes:
 
-1. [Aftermath of the 2013 Egyptian coup d'etat:: Hundreds are reported dead - including 43 police - across Egypt as Morsi supporters clash with security forces in response to a crackdown on protests. ](/news/2013/08/14/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-hundreds-are-reported-dead-including-43-police-across-egypt-as-morsi-supporters-clash-with.md) _2017-08-27 03:39:24 (First version)_
+1. [Aftermath of the 2013 Egyptian coup d'etat:: Hundreds are reported dead - including 43 police - across Egypt as Morsi supporters clash with security forces in response to a crackdown on protests. ](/news/2013/08/14/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-hundreds-are-reported-dead-including-43-police-across-egypt-as-morsi-supporters-clash-with.md) _2018-02-06 13:49:25 (First version)_
 1. [Hundreds are reported dead - including 43 police - across Egypt as Morsi supporters clash with security forces in response to a crackdown on protests. ](/news/2013/08/14/hundreds-are-reported-dead-including-43-police-across-egypt-as-morsi-supporters-clash-with-security-forces-in-response-to-a-crackdown-on.md) _(Current version)_
 
 ### Related:

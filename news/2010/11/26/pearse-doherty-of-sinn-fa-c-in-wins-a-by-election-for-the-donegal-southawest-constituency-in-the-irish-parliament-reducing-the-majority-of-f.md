@@ -16,7 +16,7 @@ Sinn Fein candidate Pearse Doherty is elected to the Irish parliament in the wak
 
 ### Changes:
 
-1. [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-south-west-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md) _2017-08-27 03:31:16 (First version)_
+1. [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-south-west-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md) _2018-02-06 13:49:21 (First version)_
 1. [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-southawest-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md) _(Current version)_
 
 ### Related:

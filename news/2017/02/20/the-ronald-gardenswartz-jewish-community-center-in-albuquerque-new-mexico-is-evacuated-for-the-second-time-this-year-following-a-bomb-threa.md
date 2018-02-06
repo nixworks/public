@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/20/the-ronald-gardenswartz-jewish-community-center
 
 ### Changes:
 
-1. [Antisemitism in the United States: The Ronald Gardenswartz Jewish Community Center in Albuquerque, New Mexico is evacuated for the second time this year following a bomb threat, after a wave of threats against Jewish institutions in the United States. ](/news/2017/02/20/antisemitism-in-the-united-states-the-ronald-gardenswartz-jewish-community-center-in-albuquerque-new-mexico-is-evacuated-for-the-second-ti.md) _2017-08-27 03:47:51 (First version)_
+1. [Antisemitism in the United States: The Ronald Gardenswartz Jewish Community Center in Albuquerque, New Mexico is evacuated for the second time this year following a bomb threat, after a wave of threats against Jewish institutions in the United States. ](/news/2017/02/20/antisemitism-in-the-united-states-the-ronald-gardenswartz-jewish-community-center-in-albuquerque-new-mexico-is-evacuated-for-the-second-ti.md) _2018-02-06 13:49:30 (First version)_
 1. [The Ronald Gardenswartz Jewish Community Center in Albuquerque, New Mexico is evacuated for the second time this year following a bomb threat, after a wave of threats against Jewish institutions in the United States. ](/news/2017/02/20/the-ronald-gardenswartz-jewish-community-center-in-albuquerque-new-mexico-is-evacuated-for-the-second-time-this-year-following-a-bomb-threa.md) _(Current version)_
 
 ### Related:

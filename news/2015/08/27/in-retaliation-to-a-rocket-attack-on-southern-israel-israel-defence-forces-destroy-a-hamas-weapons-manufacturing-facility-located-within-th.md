@@ -16,7 +16,7 @@ Hamas weapons factory targeted by Israel Air Force; rocket launched from Gaza ex
 
 ### Changes:
 
-1. [Gaza-Israel conflict: In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/gaza-israel-conflict-in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-fa.md) _2017-08-27 03:42:54 (First version)_
+1. [Gaza-Israel conflict: In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/gaza-israel-conflict-in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-fa.md) _2018-02-06 13:49:27 (First version)_
 1. [In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-facility-located-within-th.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-fir
 
 ### Changes:
 
-1. [ United States Inauguration Day 2009: Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/united-states-inauguration-day-2009-p-barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _2017-08-25 03:23:31 (First version)_
-2. [ United States Inauguration Day 2009:: Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/united-states-inauguration-day-2009-barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _2017-08-27 03:23:23 (Update)_
+1. [ United States Inauguration Day 2009: Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/united-states-inauguration-day-2009-p-barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States Inauguration Day 2009:: Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/united-states-inauguration-day-2009-barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _2018-02-06 13:49:18 (Update)_
 2. [ Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _(Current version)_
 
 ### Related:

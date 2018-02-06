@@ -17,7 +17,7 @@ US intelligence gathering has grown so much since 9/11 no-one knows its true cos
 
 ### Changes:
 
-1. [A two-year "Top Secret America" investigation by ''The Washington Post'' concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-mu.md) _2017-08-25 03:28:53 (First version)_
+1. [A two-year "Top Secret America" investigation by ''The Washington Post'' concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-mu.md) _2018-02-06 13:49:20 (First version)_
 1. [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md) _(Current version)_
 
 ### Related:

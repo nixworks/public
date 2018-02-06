@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-sti
 
 ### Changes:
 
-1. [European migrant crisis: German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/european-migrant-crisis-german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-w.md) _2017-08-27 03:43:49 (First version)_
+1. [European migrant crisis: German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/european-migrant-crisis-german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-w.md) _2018-02-06 13:49:28 (First version)_
 1. [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md) _(Current version)_
 
 ### Related:

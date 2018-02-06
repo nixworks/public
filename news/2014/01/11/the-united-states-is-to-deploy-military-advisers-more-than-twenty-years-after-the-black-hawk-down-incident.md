@@ -16,7 +16,7 @@ The US military secretly deployed a small number of trainers and advisers to Som
 
 ### Changes:
 
-1. [Somali Civil War: The United States is to deploy military advisers more than twenty years after the Black Hawk down incident. ](/news/2014/01/11/somali-civil-war-the-united-states-is-to-deploy-military-advisers-more-than-twenty-years-after-the-black-hawk-down-incident.md) _2017-08-27 03:40:09 (First version)_
+1. [Somali Civil War: The United States is to deploy military advisers more than twenty years after the Black Hawk down incident. ](/news/2014/01/11/somali-civil-war-the-united-states-is-to-deploy-military-advisers-more-than-twenty-years-after-the-black-hawk-down-incident.md) _2018-02-06 13:49:25 (First version)_
 1. [The United States is to deploy military advisers more than twenty years after the Black Hawk down incident. ](/news/2014/01/11/the-united-states-is-to-deploy-military-advisers-more-than-twenty-years-after-the-black-hawk-down-incident.md) _(Current version)_
 
 ### Related:

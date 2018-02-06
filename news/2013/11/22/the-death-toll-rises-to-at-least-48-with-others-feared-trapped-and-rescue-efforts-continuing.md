@@ -17,6 +17,6 @@ Six people are killed, many injured and dozens more feared trapped after the roo
 
 ### Changes:
 
-1. [2013 Riga Maxima superstore collapse:The death toll rises to at least 48, with others feared trapped and rescue efforts continuing. ](/news/2013/11/22/2013-riga-maxima-superstore-collapse-pthe-death-toll-rises-to-at-least-48-with-others-feared-trapped-and-rescue-efforts-continuing.md) _2017-08-25 03:39:34 (First version)_
-2. [2013 Riga Maxima superstore collapse:: The death toll rises to at least 48, with others feared trapped and rescue efforts continuing. ](/news/2013/11/22/2013-riga-maxima-superstore-collapse-the-death-toll-rises-to-at-least-48-with-others-feared-trapped-and-rescue-efforts-continuing.md) _2017-08-27 03:39:52 (Update)_
+1. [2013 Riga Maxima superstore collapse:: The death toll rises to at least 48, with others feared trapped and rescue efforts continuing. ](/news/2013/11/22/2013-riga-maxima-superstore-collapse-the-death-toll-rises-to-at-least-48-with-others-feared-trapped-and-rescue-efforts-continuing.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Riga Maxima superstore collapse:The death toll rises to at least 48, with others feared trapped and rescue efforts continuing. ](/news/2013/11/22/2013-riga-maxima-superstore-collapse-pthe-death-toll-rises-to-at-least-48-with-others-feared-trapped-and-rescue-efforts-continuing.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll rises to at least 48, with others feared trapped and rescue efforts continuing. ](/news/2013/11/22/the-death-toll-rises-to-at-least-48-with-others-feared-trapped-and-rescue-efforts-continuing.md) _(Current version)_

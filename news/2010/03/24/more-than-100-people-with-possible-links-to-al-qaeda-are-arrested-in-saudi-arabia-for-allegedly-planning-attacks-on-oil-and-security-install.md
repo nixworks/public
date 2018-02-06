@@ -20,8 +20,8 @@ PM orders panel to freeze deliberations on construction in capital.
 
 ### Changes:
 
-1. [Middle East:More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/middle-east-pmore-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-sec.md) _2017-08-25 03:27:27 (First version)_
-2. [Middle East:: More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/middle-east-more-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-se.md) _2017-08-27 03:27:24 (Update)_
+1. [Middle East:More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/middle-east-pmore-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-sec.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/middle-east-more-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-se.md) _2018-02-06 13:49:19 (Update)_
 2. [More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/more-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-security-install.md) _(Current version)_
 
 ### Related:

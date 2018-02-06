@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/2/about-200-u-s-troops-arrive-in-moldova-from-roma
 
 ### Changes:
 
-1. [Moldova-United States relations: About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/moldova-united-states-relations-about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-mil.md) _2017-08-27 03:45:57 (First version)_
+1. [Moldova-United States relations: About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/moldova-united-states-relations-about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-mil.md) _2018-02-06 13:49:29 (First version)_
 1. [About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-military-which-will-last-until-may-20.md) _(Current version)_
 
 ### Related:

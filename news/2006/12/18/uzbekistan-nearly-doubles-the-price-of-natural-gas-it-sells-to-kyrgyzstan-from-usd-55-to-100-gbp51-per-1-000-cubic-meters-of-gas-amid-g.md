@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/18/uzbekistan-nearly-doubles-the-price-of-natural-
 
 ### Changes:
 
-1. [ Uzbekistan nearly doubles the price of natural gas it sells to Kyrgyzstan from USD $55 to $100 (51) per 1,000 cubic meters of gas amid growing tension between the two nations over alleged spying. ](/news/2006/12/18/uzbekistan-nearly-doubles-the-price-of-natural-gas-it-sells-to-kyrgyzstan-from-usd-55-to-100-ps51-per-1-000-cubic-meters-of-gas-amid-gro.md) _2017-08-25 03:18:55 (First version)_
+1. [ Uzbekistan nearly doubles the price of natural gas it sells to Kyrgyzstan from USD $55 to $100 (51) per 1,000 cubic meters of gas amid growing tension between the two nations over alleged spying. ](/news/2006/12/18/uzbekistan-nearly-doubles-the-price-of-natural-gas-it-sells-to-kyrgyzstan-from-usd-55-to-100-ps51-per-1-000-cubic-meters-of-gas-amid-gro.md) _2018-02-06 13:49:17 (First version)_
 1. [ Uzbekistan nearly doubles the price of natural gas it sells to Kyrgyzstan from USD $55 to $100 (GBP51) per 1,000 cubic meters of gas amid growing tension between the two nations over alleged spying. ](/news/2006/12/18/uzbekistan-nearly-doubles-the-price-of-natural-gas-it-sells-to-kyrgyzstan-from-usd-55-to-100-gbp51-per-1-000-cubic-meters-of-gas-amid-g.md) _(Current version)_
 
 ### Related:

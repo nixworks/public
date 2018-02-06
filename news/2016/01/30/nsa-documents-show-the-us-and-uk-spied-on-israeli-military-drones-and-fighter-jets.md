@@ -17,7 +17,7 @@ Newly released documents from Edward Snowden show that the NSA and GCHQ coordina
 
 ### Changes:
 
-1. [Global surveillance disclosures (2013-present): Edward Snowden: NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/global-surveillance-disclosures-2013-present-edward-snowden-nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-figh.md) _2017-08-27 03:44:47 (First version)_
+1. [Global surveillance disclosures (2013-present): Edward Snowden: NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/global-surveillance-disclosures-2013-present-edward-snowden-nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-figh.md) _2018-02-06 13:49:28 (First version)_
 1. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _(Current version)_
 
 ### Related:

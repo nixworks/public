@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/25/pope-francis-condemns-the-islamic-state-of-iraq
 
 ### Changes:
 
-1. [''Urbi et Orbi''Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/urbi-et-orbi-ppope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md) _2017-08-25 03:41:23 (First version)_
-2. ["Urbi et Orbi": Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/urbi-et-orbi-pope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md) _2017-08-27 03:41:41 (Update)_
+1. [''Urbi et Orbi''Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/urbi-et-orbi-ppope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md) _2018-02-06 13:49:26 (First version)_
+2. ["Urbi et Orbi": Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/urbi-et-orbi-pope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md) _2018-02-06 13:49:26 (Update)_
 2. [Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/pope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md) _(Current version)_
 
 ### Related:

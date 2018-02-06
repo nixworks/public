@@ -16,7 +16,7 @@ All the awards at the 69th Cannes film festival, as it happens, with Ken Loachâ€
 
 ### Changes:
 
-1. [2016 Cannes Film Festival: British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/2016-cannes-film-festival-british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md) _2017-08-27 03:46:05 (First version)_
+1. [2016 Cannes Film Festival: British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/2016-cannes-film-festival-british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md) _2018-02-06 13:49:29 (First version)_
 1. [British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ At least seven people are killed and 630 others injured after violence breaks ou
 
 ### Changes:
 
-1. [2012-2013 Egyptian protests:Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012a2013-egyptian-protests-pseven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md) _2017-08-25 03:37:21 (First version)_
-2. [2012-2013 Egyptian protests:: Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012-2013-egyptian-protests-seven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md) _2017-08-27 03:37:31 (Update)_
+1. [2012-2013 Egyptian protests:Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012a2013-egyptian-protests-pseven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md) _2018-02-06 13:49:24 (First version)_
+2. [2012-2013 Egyptian protests:: Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012-2013-egyptian-protests-seven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md) _2018-02-06 13:49:24 (Update)_
 2. [Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/seven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port-said.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Rebels in eastern DR Congo advance to within a few kilometres of the provincial 
 
 ### Changes:
 
-1. [2012 East DR Congo conflict:M23 rebels in the Democratic Republic of the Congo advance on the city of Goma. ](/news/2012/11/18/2012-east-dr-congo-conflict-pm23-rebels-in-the-democratic-republic-of-the-congo-advance-on-the-city-of-goma.md) _2017-08-25 03:36:50 (First version)_
-2. [2012 East DR Congo conflict:: M23 rebels in the Democratic Republic of the Congo advance on the city of Goma. ](/news/2012/11/18/2012-east-dr-congo-conflict-m23-rebels-in-the-democratic-republic-of-the-congo-advance-on-the-city-of-goma.md) _2017-08-27 03:37:00 (Update)_
+1. [2012 East DR Congo conflict:M23 rebels in the Democratic Republic of the Congo advance on the city of Goma. ](/news/2012/11/18/2012-east-dr-congo-conflict-pm23-rebels-in-the-democratic-republic-of-the-congo-advance-on-the-city-of-goma.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 East DR Congo conflict:: M23 rebels in the Democratic Republic of the Congo advance on the city of Goma. ](/news/2012/11/18/2012-east-dr-congo-conflict-m23-rebels-in-the-democratic-republic-of-the-congo-advance-on-the-city-of-goma.md) _2018-02-06 13:49:24 (Update)_
 2. [M23 rebels in the Democratic Republic of the Congo advance on the city of Goma. ](/news/2012/11/18/m23-rebels-in-the-democratic-republic-of-the-congo-advance-on-the-city-of-goma.md) _(Current version)_
 
 ### Related:

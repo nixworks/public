@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/26/the-death-toll-in-bangladesh-rises-to-401.html)
 
 ### Changes:
 
-1. [2013 Savar building collapse:The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-401.md) _2017-08-25 03:38:28 (First version)_
-2. [2013 Savar building collapse:: The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-401.md) _2017-08-27 03:38:41 (Update)_
+1. [2013 Savar building collapse:: The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-401.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Savar building collapse:The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-401.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll in Bangladesh rises to 401. ](/news/2013/04/26/the-death-toll-in-bangladesh-rises-to-401.md) _(Current version)_
 
 ### Related:

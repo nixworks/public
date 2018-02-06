@@ -16,7 +16,7 @@ Russian president talks of desire for &#034;international coalition&#034; to fig
 
 ### Changes:
 
-1. [Russia's role in the Syrian Civil War: Russian President Vladimir Putin confirms that Russia is providing military aid in Syrian Civil War in support of the Bashar al-Assad regime and is providing heavy weapons, aircraft, tanks, serious training and logistical support to the Syrian Army. ](/news/2015/09/4/russia-s-role-in-the-syrian-civil-war-russian-president-vladimir-putin-confirms-that-russia-is-providing-military-aid-in-syrian-civil-war-i.md) _2017-08-27 03:42:58 (First version)_
+1. [Russia's role in the Syrian Civil War: Russian President Vladimir Putin confirms that Russia is providing military aid in Syrian Civil War in support of the Bashar al-Assad regime and is providing heavy weapons, aircraft, tanks, serious training and logistical support to the Syrian Army. ](/news/2015/09/4/russia-s-role-in-the-syrian-civil-war-russian-president-vladimir-putin-confirms-that-russia-is-providing-military-aid-in-syrian-civil-war-i.md) _2018-02-06 13:49:27 (First version)_
 1. [Russian President Vladimir Putin confirms that Russia is providing military aid in Syrian Civil War in support of the Bashar al-Assad regime and is providing heavy weapons, aircraft, tanks, serious training and logistical support to the Syrian Army. ](/news/2015/09/4/russian-president-vladimir-putin-confirms-that-russia-is-providing-military-aid-in-syrian-civil-war-in-support-of-the-bashar-al-assad-regime.md) _(Current version)_
 
 ### Related:

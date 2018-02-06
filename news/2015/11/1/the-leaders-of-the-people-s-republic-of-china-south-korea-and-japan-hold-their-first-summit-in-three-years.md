@@ -17,7 +17,7 @@ The return of trilateral talks among the three powers, last held in 2012, reflec
 
 ### Changes:
 
-1. [China-Japan-South Korea trilateral summit: The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/china-japan-south-korea-trilateral-summit-the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit.md) _2017-08-27 03:43:38 (First version)_
+1. [China-Japan-South Korea trilateral summit: The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/china-japan-south-korea-trilateral-summit-the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit.md) _2018-02-06 13:49:28 (First version)_
 1. [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md) _(Current version)_
 
 ### Related:

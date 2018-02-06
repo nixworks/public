@@ -16,8 +16,8 @@ The US government fines General Motors $35m(£20.8m) for delays in recalling sma
 
 ### Changes:
 
-1. [2014 General Motors recall:The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/2014-general-motors-recall-pthe-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-faul.md) _2017-08-25 03:40:24 (First version)_
-2. [2014 General Motors recall:: The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/2014-general-motors-recall-the-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-fau.md) _2017-08-27 03:40:42 (Update)_
+1. [2014 General Motors recall:: The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/2014-general-motors-recall-the-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-fau.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 General Motors recall:The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/2014-general-motors-recall-pthe-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-faul.md) _2018-02-06 13:49:26 (Update)_
 2. [The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/the-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-faulty-ignition-switches.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ American government agencies are now banned from using software created by the R
 
 ### Changes:
 
-1. [United States Homeland Security bans Kaspersky Lab products from government computers due to fears from alleged Russian intervention. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-from-alleged-russian-intervention.md) _2017-09-14 21:30:06 (First version)_
+1. [United States Homeland Security bans Kaspersky Lab products from government computers due to fears from alleged Russian intervention. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-from-alleged-russian-intervention.md) _2018-02-06 13:49:31 (First version)_
 1. [United States Homeland Security bans Kaspersky Lab products from government computers due to fears they could be coerced into sharing information with the Russian government. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-they-could-be-coerced-into-sharing-inform.md) _(Current version)_
 
 ### Related:

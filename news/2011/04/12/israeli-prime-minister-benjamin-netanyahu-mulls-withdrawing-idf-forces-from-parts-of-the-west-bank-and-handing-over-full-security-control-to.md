@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/04/12/israeli-prime-minister-benjamin-netanyahu-mulls
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing.md) _2017-08-27 03:32:56 (First version)_
+1. [Israeli-Palestinian conflict: Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing.md) _2018-02-06 13:49:22 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing-over-full-security-control-to.md) _(Current version)_
 
 ### Related:

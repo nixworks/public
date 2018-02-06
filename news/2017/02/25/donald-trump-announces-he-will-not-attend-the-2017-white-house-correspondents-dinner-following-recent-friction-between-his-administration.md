@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/25/donald-trump-announces-he-will-not-attend-the-2
 
 ### Changes:
 
-1. [Presidency of Donald Trump: Donald Trump announces he will not attend the 2017 White House Correspondents' Dinner, following recent friction between his administration and various news organizations. ](/news/2017/02/25/presidency-of-donald-trump-donald-trump-announces-he-will-not-attend-the-2017-white-house-correspondents-dinner-following-recent-friction.md) _2017-08-27 03:47:53 (First version)_
+1. [Presidency of Donald Trump: Donald Trump announces he will not attend the 2017 White House Correspondents' Dinner, following recent friction between his administration and various news organizations. ](/news/2017/02/25/presidency-of-donald-trump-donald-trump-announces-he-will-not-attend-the-2017-white-house-correspondents-dinner-following-recent-friction.md) _2018-02-06 13:49:30 (First version)_
 1. [Donald Trump announces he will not attend the 2017 White House Correspondents' Dinner, following recent friction between his administration and various news organizations. ](/news/2017/02/25/donald-trump-announces-he-will-not-attend-the-2017-white-house-correspondents-dinner-following-recent-friction-between-his-administration.md) _(Current version)_
 
 ### Related:

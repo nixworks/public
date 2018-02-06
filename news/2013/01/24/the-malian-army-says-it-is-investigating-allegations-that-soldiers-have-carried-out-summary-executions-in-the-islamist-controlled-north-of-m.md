@@ -16,8 +16,8 @@ The Malian army investigates claims that soldiers have carried out summary execu
 
 ### Changes:
 
-1. [Northern Mali conflict:The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/northern-mali-conflict-pthe-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islami.md) _2017-08-25 03:37:19 (First version)_
-2. [Northern Mali conflict:: The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/northern-mali-conflict-the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islam.md) _2017-08-27 03:37:29 (Update)_
+1. [Northern Mali conflict:: The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/northern-mali-conflict-the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islam.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/northern-mali-conflict-pthe-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islami.md) _2018-02-06 13:49:24 (Update)_
 2. [The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islamist-controlled-north-of-m.md) _(Current version)_
 
 ### Related:

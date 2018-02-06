@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/9/index.html)  [JSON](2016/03/9/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md)
-_Context: Afghanistan, War in Afghanistan (2015-present), Taliban, Helmand Province_
+_Context: Afghanistan, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ##### War in Somalia (2009-present)
 ### [U.S. special forces, landing in two helicopters, stage an overnight raid on the al-Shabaab-controlled town of Awdhegele in Somalia's Lower Shebelle region. Al-Shabaab spokesman, Sheik Abduasiz Abu Musab, confirmed the raid saying "The helicopters landed outside town and the ground forces entered, there was heavy fighting and they were forced to flee"."They were masked and spoke foreign languages which our fighters could not understand," Abu Musab told Reuters. "We do not know who they were but we foiled them." ](/news/2016/03/9/u-s-special-forces-landing-in-two-helicopters-stage-an-overnight-raid-on-the-al-shabaab-controlled-town-of-awdhegele-in-somalia-s-lower-s.md)
@@ -21,7 +21,7 @@ A senior Japanese trade negotiator said on Wednesday that it would be impossible
 
 ##### Lagos
 ### [At least 30 people are killed after a five-story building still under construction collapses in Lagos, Nigeria. ](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story-building-still-under-construction-collapses-in-lagos-nigeria.md)
-_Context: Nigeria, Lagos_
+_Context: Lagos, Nigeria_
 
 ##### Seattle
 ### [In Seattle, Washington, a Seattle Fire Department crew, responding to reports of a natural gas leak in the Greenwood neighborhood, are caught in an explosion that injures nine firefighters. The explosion blew out windows in businesses and storefronts in the surrounding blocks, destroying three businesses and heavily damaging a fourth. ](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.md)
@@ -43,7 +43,7 @@ North Korean leader Kim Jong Un said his country has miniaturized nuclear warhea
 ### [Macedonia says it will no longer let any migrants through its southern border with Greece, effectively blocking the Balkan route for migrants. The decision came after Slovenia barred access to migrants transiting the country. There are around 13,000 migrants now stranded at the Macedonia-Greece border. ](/news/2016/03/9/macedonia-says-it-will-no-longer-let-any-migrants-through-its-southern-border-with-greece-effectively-blocking-the-balkan-route-for-migrant.md)
 Macedonia says it will no longer let any migrants cross its border with Greece, leaving some 13,000 stranded in a sprawling camp.
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A Saudi-led coalition spokesman announces they have exchanged prisoners with their Houthi opponents and "welcome a pause in the combat on the border." Saudi Foreign Minister Adel al-Jubeir said the lull was important to deliver aid and medical supplies to people in northern regions of Yemen. Yesterday, a Houthi delegation was in Saudi Arabia for talks to end the war. Al-Jubeir and his Yemeni counterpart noted formal negotiations to end the fighting can only take place under the auspices of the United Nations. ](/news/2016/03/9/a-saudi-led-coalition-spokesman-announces-they-have-exchanged-prisoners-with-their-houthi-opponents-and-welcome-a-pause-in-the-combat-on-th.md)
 A Saudi-led coalition fighting in Yemen said on Wednesday it had exchanged prisoners with its Houthi opponents and also welcomed a pause in combat on the border, prompting hopes of a push to end the year-long war that has killed some 6,000 people.
 
@@ -61,7 +61,7 @@ At least eight people have been shot and five killed in a mass shooting in the U
 
 ##### Peruvian general election, 2016
 ### [Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.md)
-_Context: Julio Guzman, Cesar Acuna Peralta, Peru, Peruvian general election, 2016_
+_Context: Julio Guzman, Peru, Cesar Acuna Peralta, Peruvian general election, 2016_
 
 ##### president
 ### [Former President of Brazil Luiz Inacio Lula da Silva is charged with money laundering. ](/news/2016/03/9/former-president-of-brazil-luiz-ina-cio-lula-da-silva-is-charged-with-money-laundering.md)

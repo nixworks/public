@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/1/numerous-u-s-states-including-california-mississ
 
 ### Changes:
 
-1. [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md) _2017-07-02 03:50:23 (First version)_
-2. [Presidency of Donald Trump: Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/presidency-of-donald-trump-numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-regist.md) _2017-08-27 03:48:35 (Update)_
+1. [Presidency of Donald Trump: Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/presidency-of-donald-trump-numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-regist.md) _2018-02-06 13:49:30 (First version)_
+2. [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md) _2018-02-06 13:49:30 (Update)_
 2. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _(Current version)_
 
 ### Related:

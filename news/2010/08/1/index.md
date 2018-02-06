@@ -9,23 +9,23 @@ Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20
 
 ##### landmine
 ### [Wooden box mines, suspected to come from North Korea, wash ashore on a South Korean beach killing one man and injuring another. ](/news/2010/08/1/wooden-box-mines-suspected-to-come-from-north-korea-wash-ashore-on-a-south-korean-beach-killing-one-man-and-injuring-another.md)
-_Context: South Korea, landmine, North Korea_
+_Context: landmine, South Korea, North Korea_
 
 ##### Israel Defense Forces
 ### [Israel Defense Forces jets attack targets in the Gaza Strip following a Qassam rocket fired at the Negev in Israel on Saturday night. ](/news/2010/08/1/israel-defense-forces-jets-attack-targets-in-the-gaza-strip-following-a-qassam-rocket-fired-at-the-negev-in-israel-on-saturday-night.md)
-_Context: Qassam rocket, Negev, Israel Defense Forces, Israel, Gaza Strip_
+_Context: Israel Defense Forces, Qassam rocket, Gaza Strip, Israel, Negev_
 
 ##### DR Congo
 ### [Almost 90,000 people flee renewed fighting in the eastern Democratic Republic of the Congo in the past month reflecting a declining security situation as the military fights Allied Democratic Forces-National Army for the Liberation of Uganda Ugandan Islamist rebels. ](/news/2010/08/1/almost-90-000-people-flee-renewed-fighting-in-the-eastern-democratic-republic-of-the-congo-in-the-past-month-reflecting-a-declining-security.md)
-_Context: Allied Democratic Forces-National Army for the Liberation of Uganda, DR Congo, Uganda, Military of the Democratic Republic of the Congo, Islamist_
+_Context: Military of the Democratic Republic of the Congo, DR Congo, Allied Democratic Forces-National Army for the Liberation of Uganda, Islamist, Uganda_
 
 ##### India
 ### [Six people die in the Indian province of Jammu and Kashmir after a third day of clashes between security forces and Muslim separatists. ](/news/2010/08/1/six-people-die-in-the-indian-province-of-jammu-and-kashmir-after-a-third-day-of-clashes-between-security-forces-and-muslim-separatists.md)
-_Context: security forces, India, Jammu and Kashmir_
+_Context: India, Jammu and Kashmir, security forces_
 
 ##### World Heritage List
 ### [Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds-and-sri-lanka-s-cent.md)
-_Context: Monk seal, Papahanaumokuakea Marine National Monument, Hawaii, Sri Lanka, World Heritage List_
+_Context: Papahanaumokuakea Marine National Monument, World Heritage List, Sri Lanka, Hawaii, Monk seal_
 
 ##### Philippine Airlines
 ### [Philippine Airlines tells 25 airline pilots to return to work after quitting without notice forcing the airline to cancel flights. ](/news/2010/08/1/philippine-airlines-tells-25-airline-pilots-to-return-to-work-after-quitting-without-notice-forcing-the-airline-to-cancel-flights.md)
@@ -37,11 +37,11 @@ Chinese manufacturing output grew at its slowest rate for 17 months in July, as 
 
 ##### United Arab Emirates
 ### [The United Arab Emirates will suspend some BlackBerry mobile services from October amid concerns that data from some equipment is being exported offshore and managed by foreign organisations. Saudi Arabia plans to suspend some services later this month. ](/news/2010/08/1/the-united-arab-emirates-will-suspend-some-blackberry-mobile-services-from-october-amid-concerns-that-data-from-some-equipment-is-being-expo.md)
-_Context: BlackBerry, United Arab Emirates, Saudi Arabia_
+_Context: Saudi Arabia, BlackBerry, United Arab Emirates_
 
 ##### Russia
 ### [Thousands of troops are mobilised in Russia to tackle forest fires spreading in 17 regions, the worst in decades, as the death toll rises to 30. ](/news/2010/08/1/thousands-of-troops-are-mobilised-in-russia-to-tackle-forest-fires-spreading-in-17-regions-the-worst-in-decades-as-the-death-toll-rises-to.md)
-_Context: Russia, forest fire_
+_Context: forest fire, Russia_
 
 ##### China
 ### [Floods in northeastern China kill more than 100 people and sweep 3,000 chemical-filled barrels into the Songhua River. ](/news/2010/08/1/floods-in-northeastern-china-kill-more-than-100-people-and-sweep-3-000-chemical-filled-barrels-into-the-songhua-river.md)
@@ -63,7 +63,7 @@ _Context: Hugo Chavez, Colombia, Venezuela_
 ### [The President of Israel Shimon Peres and the President of Egypt Hosni Mubarak agree that Israel and the Palestinian Authority should hold direct talks. ](/news/2010/08/1/the-president-of-israel-shimon-peres-and-the-president-of-egypt-hosni-mubarak-agree-that-israel-and-the-palestinian-authority-should-hold-di.md)
 Both men agree window of opportunity for peace agreement is open.
 
-##### British
+##### United Kingdom
 ### [United Kingdom - Sarah's Law, a scheme which allows parents to check if someone with access to their children is a sex offender, will be extended to cover the whole of England and Wales by Spring 2011 after proving successful in four pilot areas. ](/news/2010/08/1/united-kingdom-sarah-s-law-a-scheme-which-allows-parents-to-check-if-someone-with-access-to-their-children-is-a-sex-offender-will-be-ext.md)
 Police dismiss fears that a scheme that allows parents to check if someone is a sex offender could lead to vigilante attacks, as the pilot is expanded.
 

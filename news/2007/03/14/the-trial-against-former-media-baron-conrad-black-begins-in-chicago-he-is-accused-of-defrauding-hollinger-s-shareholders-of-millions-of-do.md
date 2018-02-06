@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/14/the-trial-against-former-media-baron-conrad-bla
 
 ### Changes:
 
-1. [ The trial against former media baron Conrad Black begins in Chicago. He is accused of defrauding Hollinger's shareholders of millions of dollars. ](/news/2007/03/14/the-trial-against-former-media-baron-conrad-black-begins-in-chicago-he-is-accused-of-defrauding-hollinger-s-shareholders-of-millions-of-d.md) _2017-08-25 03:19:23 (First version)_
+1. [ The trial against former media baron Conrad Black begins in Chicago. He is accused of defrauding Hollinger's shareholders of millions of dollars. ](/news/2007/03/14/the-trial-against-former-media-baron-conrad-black-begins-in-chicago-he-is-accused-of-defrauding-hollinger-s-shareholders-of-millions-of-d.md) _2018-02-06 13:49:17 (First version)_
 1. [ The trial against former media baron Conrad Black begins in Chicago. He is accused of defrauding Hollinger's shareholders of millions of dollars. ](/news/2007/03/14/the-trial-against-former-media-baron-conrad-black-begins-in-chicago-he-is-accused-of-defrauding-hollinger-s-shareholders-of-millions-of-do.md) _(Current version)_
 
 ### Related:

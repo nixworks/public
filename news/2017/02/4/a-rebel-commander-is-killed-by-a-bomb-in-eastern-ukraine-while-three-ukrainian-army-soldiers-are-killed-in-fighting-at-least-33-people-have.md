@@ -16,7 +16,7 @@ A top rebel commander in eastern Ukraine has been killed in a car bombing that r
 
 ### Changes:
 
-1. [War in Donbass: A rebel commander is killed by a bomb in eastern Ukraine while three Ukrainian Army soldiers are killed in fighting. At least 33 people have been killed in fighting over the past week. ](/news/2017/02/4/war-in-donbass-a-rebel-commander-is-killed-by-a-bomb-in-eastern-ukraine-while-three-ukrainian-army-soldiers-are-killed-in-fighting-at-leas.md) _2017-08-27 03:47:45 (First version)_
+1. [War in Donbass: A rebel commander is killed by a bomb in eastern Ukraine while three Ukrainian Army soldiers are killed in fighting. At least 33 people have been killed in fighting over the past week. ](/news/2017/02/4/war-in-donbass-a-rebel-commander-is-killed-by-a-bomb-in-eastern-ukraine-while-three-ukrainian-army-soldiers-are-killed-in-fighting-at-leas.md) _2018-02-06 13:49:30 (First version)_
 1. [A rebel commander is killed by a bomb in eastern Ukraine while three Ukrainian Army soldiers are killed in fighting. At least 33 people have been killed in fighting over the past week. ](/news/2017/02/4/a-rebel-commander-is-killed-by-a-bomb-in-eastern-ukraine-while-three-ukrainian-army-soldiers-are-killed-in-fighting-at-least-33-people-have.md) _(Current version)_
 
 ### Related:

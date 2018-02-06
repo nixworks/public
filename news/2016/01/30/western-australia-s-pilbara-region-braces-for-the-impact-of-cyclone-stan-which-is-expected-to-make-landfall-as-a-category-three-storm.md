@@ -16,7 +16,7 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 
 ### Changes:
 
-1. [2015-16 Australian region cyclone season: Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/2015-16-australian-region-cyclone-season-western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-m.md) _2017-08-27 03:44:47 (First version)_
+1. [2015-16 Australian region cyclone season: Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/2015-16-australian-region-cyclone-season-western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-m.md) _2018-02-06 13:49:28 (First version)_
 1. [Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-make-landfall-as-a-category-three-storm.md) _(Current version)_
 
 ### Related:

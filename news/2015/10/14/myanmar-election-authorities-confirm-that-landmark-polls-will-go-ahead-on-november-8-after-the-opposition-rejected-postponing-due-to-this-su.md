@@ -17,7 +17,7 @@ Myanmar election authorities confirm that landmark polls will go ahead in Novemb
 
 ### Changes:
 
-1. [Myanmar general election, 2015: Myanmar election authorities confirm that landmark polls will go ahead on November 8 after the opposition rejected postponing due to this summer's widespread flooding. The upcoming election is Myanmar-s first since moving away from half a century of military rule in 2011. ](/news/2015/10/14/myanmar-general-election-2015-myanmar-election-authorities-confirm-that-landmark-polls-will-go-ahead-on-november-8-after-the-opposition-re.md) _2017-08-27 03:43:20 (First version)_
+1. [Myanmar general election, 2015: Myanmar election authorities confirm that landmark polls will go ahead on November 8 after the opposition rejected postponing due to this summer's widespread flooding. The upcoming election is Myanmar-s first since moving away from half a century of military rule in 2011. ](/news/2015/10/14/myanmar-general-election-2015-myanmar-election-authorities-confirm-that-landmark-polls-will-go-ahead-on-november-8-after-the-opposition-re.md) _2018-02-06 13:49:27 (First version)_
 1. [Myanmar election authorities confirm that landmark polls will go ahead on November 8 after the opposition rejected postponing due to this summer's widespread flooding. The upcoming election is Myanmar's first since moving away from half a century of military rule in 2011. ](/news/2015/10/14/myanmar-election-authorities-confirm-that-landmark-polls-will-go-ahead-on-november-8-after-the-opposition-rejected-postponing-due-to-this-su.md) _(Current version)_
 
 ### Related:

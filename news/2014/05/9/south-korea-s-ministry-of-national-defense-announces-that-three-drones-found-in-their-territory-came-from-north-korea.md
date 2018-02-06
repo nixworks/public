@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/9/south-korea-s-ministry-of-national-defense-annou
 
 ### Changes:
 
-1. [North Korea-South Korea relations:South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/north-koreaasouth-korea-relations-psouth-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-fr.md) _2017-08-25 03:40:23 (First version)_
-2. [North Korea-South Korea relations:: South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/north-korea-south-korea-relations-south-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-f.md) _2017-08-27 03:40:41 (Update)_
+1. [North Korea-South Korea relations:South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/north-koreaasouth-korea-relations-psouth-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-fr.md) _2018-02-06 13:49:26 (First version)_
+2. [North Korea-South Korea relations:: South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/north-korea-south-korea-relations-south-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-f.md) _2018-02-06 13:49:26 (Update)_
 2. [South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/south-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-from-north-korea.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ MONTECITO, Calif. (AP) - At least 13 people were killed and dozens of homes were
 
 ### Changes:
 
-1. [At least six people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-six-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md) _2018-01-10 00:30:05 (First version)_
-2. [At least 13 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-13-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md) _2018-01-10 15:30:05 (Update)_
+1. [At least six people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-six-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md) _2018-02-06 13:49:31 (First version)_
+2. [At least 13 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-13-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 15 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-15-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md) _(Current version)_
 
 ### Related:

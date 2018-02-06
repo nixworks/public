@@ -20,7 +20,7 @@ Prominent Shia cleric Sheikh Nimr al-Nimr is among 47 people executed for terror
 
 ### Changes:
 
-1. [Sheikh Nimr: 2011-12 Saudi Arabian protests: The Saudi Arabian government executes 47 people, including Sheikh Nimr al-Nimr, a prominent Shia Muslim cleric and leader of the anti-government Shia opposition group. His execution generated negative worldwide reactions from politicians, Muslim religious figures, and Shia people. ](/news/2016/01/2/sheikh-nimr-2011-12-saudi-arabian-protests-the-saudi-arabian-government-executes-47-people-including-sheikh-nimr-al-nimr-a-prominent-s.md) _2017-08-27 03:44:34 (First version)_
+1. [Sheikh Nimr: 2011-12 Saudi Arabian protests: The Saudi Arabian government executes 47 people, including Sheikh Nimr al-Nimr, a prominent Shia Muslim cleric and leader of the anti-government Shia opposition group. His execution generated negative worldwide reactions from politicians, Muslim religious figures, and Shia people. ](/news/2016/01/2/sheikh-nimr-2011-12-saudi-arabian-protests-the-saudi-arabian-government-executes-47-people-including-sheikh-nimr-al-nimr-a-prominent-s.md) _2018-02-06 13:49:28 (First version)_
 1. [The Saudi Arabian government executes 47 people, including Sheikh Nimr al-Nimr, a prominent Shia Muslim cleric and leader of the anti-government Shia opposition group. His execution generated negative worldwide reactions from politicians, Muslim religious figures, and Shia people. ](/news/2016/01/2/the-saudi-arabian-government-executes-47-people-including-sheikh-nimr-al-nimr-a-prominent-shia-muslim-cleric-and-leader-of-the-anti-govern.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/26/james-eagan-holmes-is-formally-sentenced-to-12-
 
 ### Changes:
 
-1. [2012 Aurora shooting: James Eagan Holmes is formally sentenced to 12 consecutive life sentences plus 3,318 years for the murder of 12 people and injury of 70 others at a Century movie theatre in the U.S. city of Aurora, Colorado. ](/news/2015/08/26/2012-aurora-shooting-james-eagan-holmes-is-formally-sentenced-to-12-consecutive-life-sentences-plus-3-318-years-for-the-murder-of-12-people.md) _2017-08-27 03:42:54 (First version)_
+1. [2012 Aurora shooting: James Eagan Holmes is formally sentenced to 12 consecutive life sentences plus 3,318 years for the murder of 12 people and injury of 70 others at a Century movie theatre in the U.S. city of Aurora, Colorado. ](/news/2015/08/26/2012-aurora-shooting-james-eagan-holmes-is-formally-sentenced-to-12-consecutive-life-sentences-plus-3-318-years-for-the-murder-of-12-people.md) _2018-02-06 13:49:27 (First version)_
 1. [James Eagan Holmes is formally sentenced to 12 consecutive life sentences plus 3,318 years for the murder of 12 people and injury of 70 others at a Century movie theatre in the U.S. city of Aurora, Colorado. ](/news/2015/08/26/james-eagan-holmes-is-formally-sentenced-to-12-consecutive-life-sentences-plus-3-318-years-for-the-murder-of-12-people-and-injury-of-70-othe.md) _(Current version)_
 
 ### Related:

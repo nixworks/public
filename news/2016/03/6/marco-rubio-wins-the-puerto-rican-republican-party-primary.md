@@ -17,7 +17,7 @@ Bernie Sanders beats Hillary Clinton in the Maine caucuses, the latest contest i
 
 ### Changes:
 
-1. [United States presidential election, 2016: Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/united-states-presidential-election-2016-marco-rubio-wins-the-puerto-rican-republican-party-primary.md) _2017-08-27 03:45:09 (First version)_
+1. [United States presidential election, 2016: Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/united-states-presidential-election-2016-marco-rubio-wins-the-puerto-rican-republican-party-primary.md) _2018-02-06 13:49:28 (First version)_
 1. [Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/marco-rubio-wins-the-puerto-rican-republican-party-primary.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-s
 
 ### Changes:
 
-1. [2 Iranian films, -Michael- and -When the Light Shines-, win top prizes at Italy's -13th International Religions Today Film Festival- at its closing ceremony. ](/news/2010/10/22/2-iranian-films-michael-and-when-the-light-shines-win-top-prizes-at-italy-s-13th-international-religions-today-film-festiva.md) _2017-08-27 03:30:43 (First version)_
+1. [2 Iranian films, -Michael- and -When the Light Shines-, win top prizes at Italy's -13th International Religions Today Film Festival- at its closing ceremony. ](/news/2010/10/22/2-iranian-films-michael-and-when-the-light-shines-win-top-prizes-at-italy-s-13th-international-religions-today-film-festiva.md) _2018-02-06 13:49:20 (First version)_
 1. [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md) _(Current version)_
 
 ### Related:

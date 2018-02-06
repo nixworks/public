@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/13/bombs-across-iraq-detonate-killing-18-people.ht
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/iraqi-insurgency-post-u-s-withdrawal-pbombs-across-iraq-detonate-killing-18-people.md) _2017-08-25 03:39:31 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/iraqi-insurgency-post-u-s-withdrawal-bombs-across-iraq-detonate-killing-18-people.md) _2017-08-27 03:39:49 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/iraqi-insurgency-post-u-s-withdrawal-pbombs-across-iraq-detonate-killing-18-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/iraqi-insurgency-post-u-s-withdrawal-bombs-across-iraq-detonate-killing-18-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/bombs-across-iraq-detonate-killing-18-people.md) _(Current version)_
 
 ### Related:

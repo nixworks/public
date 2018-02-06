@@ -18,8 +18,8 @@ Parts of Co Clare are on high flood alert because of increasing water levels in 
 
 ### Changes:
 
-1. [ Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for-a-missing-woman-swept-away-near-breco.md) _2017-08-25 03:26:26 (First version)_
-2. [ Flooding in Great Britain and Ireland: Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/flooding-in-great-britain-and-ireland-residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for.md) _2017-08-27 03:26:18 (Update)_
+1. [ Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for-a-missing-woman-swept-away-near-breco.md) _2018-02-06 13:49:19 (First version)_
+2. [ Flooding in Great Britain and Ireland: Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/flooding-in-great-britain-and-ireland-residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for.md) _2018-02-06 13:49:19 (Update)_
 2. [ Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for-a-missing-woman-swept-away-near-brecon.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/11/rebel-forces-take-over-the-strategic-taftanaz-a
 
 ### Changes:
 
-1. [Syrian civil war:Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-prebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _2017-08-25 03:37:15 (First version)_
-2. [Syrian civil war:: Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-rebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _2017-08-27 03:37:25 (Update)_
+1. [Syrian civil war:: Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-rebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-prebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/rebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _(Current version)_
 
 ### Related:

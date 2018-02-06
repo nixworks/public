@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/20/triple-explosions-kill-at-least-80-people-and-i
 
 ### Changes:
 
-1. [Boko Haram insurgency: Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/boko-haram-insurgency-triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md) _2017-08-27 03:43:06 (First version)_
+1. [Boko Haram insurgency: Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/boko-haram-insurgency-triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md) _2018-02-06 13:49:27 (First version)_
 1. [ Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md) _(Current version)_
 
 ### Related:

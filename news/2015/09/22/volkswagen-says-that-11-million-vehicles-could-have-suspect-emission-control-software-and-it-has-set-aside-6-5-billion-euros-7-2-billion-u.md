@@ -16,7 +16,7 @@ It&#x27;s a figure that could be eclipsed by potential penalties and lawsuits fa
 
 ### Changes:
 
-1. [Volkswagen emissions violations: Volkswagen says that 11 million vehicles could have suspect emission control software and it has set aside 6.5 billion euros ($7.2 billion US dollars) for possible fines, repairs, and litigation. ](/news/2015/09/22/volkswagen-emissions-violations-volkswagen-says-that-11-million-vehicles-could-have-suspect-emission-control-software-and-it-has-set-aside.md) _2017-08-27 03:43:07 (First version)_
+1. [Volkswagen emissions violations: Volkswagen says that 11 million vehicles could have suspect emission control software and it has set aside 6.5 billion euros ($7.2 billion US dollars) for possible fines, repairs, and litigation. ](/news/2015/09/22/volkswagen-emissions-violations-volkswagen-says-that-11-million-vehicles-could-have-suspect-emission-control-software-and-it-has-set-aside.md) _2018-02-06 13:49:27 (First version)_
 1. [Volkswagen says that 11 million vehicles could have suspect emission control software and it has set aside 6.5 billion euros ($7.2 billion US dollars) for possible fines, repairs, and litigation. ](/news/2015/09/22/volkswagen-says-that-11-million-vehicles-could-have-suspect-emission-control-software-and-it-has-set-aside-6-5-billion-euros-7-2-billion-u.md) _(Current version)_
 
 ### Related:

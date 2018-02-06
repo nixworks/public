@@ -16,8 +16,8 @@ California Department of Water Resources discloses more than $200 million in add
 
 ### Changes:
 
-1. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-pa.md) _2018-01-28 12:30:22 (First version)_
-2. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will largely pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-la.md) _2018-01-28 16:30:22 (Update)_
+1. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-pa.md) _2018-02-06 13:49:31 (First version)_
+2. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will largely pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-la.md) _2018-02-06 13:49:31 (Update)_
 2. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _(Current version)_
 
 ### Related:

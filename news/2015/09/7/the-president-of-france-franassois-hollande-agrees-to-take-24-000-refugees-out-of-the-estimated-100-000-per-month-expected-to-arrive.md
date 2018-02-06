@@ -17,7 +17,7 @@ Several hundred Arabs, Asians and Africans tired of waiting for buses broke thro
 
 ### Changes:
 
-1. [European refugee crisis: The President of France Francois Hollande agrees to take 24,000 refugees out of the estimated 100,000 per month expected to arrive. ](/news/2015/09/7/european-refugee-crisis-the-president-of-france-franassois-hollande-agrees-to-take-24-000-refugees-out-of-the-estimated-100-000-per-month-ex.md) _2017-08-27 03:42:59 (First version)_
+1. [European refugee crisis: The President of France Francois Hollande agrees to take 24,000 refugees out of the estimated 100,000 per month expected to arrive. ](/news/2015/09/7/european-refugee-crisis-the-president-of-france-franassois-hollande-agrees-to-take-24-000-refugees-out-of-the-estimated-100-000-per-month-ex.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of France Francois Hollande agrees to take 24,000 refugees out of the estimated 100,000 per month expected to arrive. ](/news/2015/09/7/the-president-of-france-franassois-hollande-agrees-to-take-24-000-refugees-out-of-the-estimated-100-000-per-month-expected-to-arrive.md) _(Current version)_
 
 ### Related:

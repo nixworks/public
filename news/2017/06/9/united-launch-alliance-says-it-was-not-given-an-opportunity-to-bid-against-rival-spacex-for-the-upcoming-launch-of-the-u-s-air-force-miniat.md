@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-
 
 ### Changes:
 
-1. [Space launch market competition: United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The Air Force declined to comment. ](/news/2017/06/9/space-launch-market-competition-united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-la.md) _2017-08-27 03:48:27 (First version)_
+1. [Space launch market competition: United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The Air Force declined to comment. ](/news/2017/06/9/space-launch-market-competition-united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-la.md) _2018-02-06 13:49:30 (First version)_
 1. [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md) _(Current version)_
 
 ### Related:

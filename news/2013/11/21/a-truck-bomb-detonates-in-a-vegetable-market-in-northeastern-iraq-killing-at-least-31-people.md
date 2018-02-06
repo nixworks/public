@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/iraqi-insurgency-post-u-s-withdrawal-pa-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md) _2017-08-25 03:39:34 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/iraqi-insurgency-post-u-s-withdrawal-a-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md) _2017-08-27 03:39:51 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/iraqi-insurgency-post-u-s-withdrawal-pa-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/iraqi-insurgency-post-u-s-withdrawal-a-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/a-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md) _(Current version)_
 
 ### Related:

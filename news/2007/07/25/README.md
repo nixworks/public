@@ -13,7 +13,7 @@ Nurses in Fiji are holding a national strike over a pay cut forced on them by th
 
 ##### United States
 ### [ A United States federal court judge orders Sudan to pay $8 million in compensation to the victims of the bombing of the USS "Cole". ](/news/2007/07/25/a-united-states-federal-court-judge-orders-sudan-to-pay-8-million-in-compensation-to-the-victims-of-the-bombing-of-the-uss-cole.md)
-_Context: United States, USS ''Cole'', $, Sudan_
+_Context: United States, $, Sudan, USS ''Cole''_
 
 ##### 2007 Tour de France
 ### [ Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
@@ -25,23 +25,23 @@ The move came after President Luiz Inácio Lula da Silva had assured Brazilians 
 
 ##### United States House Committee on the Judiciary
 ### [ The United States House Committee on the Judiciary votes 22-17 to approve a report citing former White House counsel Harriet Miers and current Chief of Staff for President George W. Bush Joshua Bolten for failing to comply with subpoenas regarding the dismissal of U.S. attorneys controversy. ](/news/2007/07/25/the-united-states-house-committee-on-the-judiciary-votes-22-17-to-approve-a-report-citing-former-white-house-counsel-harriet-miers-and-curr.md)
-_Context: Joshua Bolten, United States House Committee on the Judiciary, subpoena, Harriet Miers, George W. Bush, White House, dismissal of U.S. attorneys controversy, U.S. President_
+_Context: White House, Harriet Miers, United States House Committee on the Judiciary, U.S. President, subpoena, dismissal of U.S. attorneys controversy, Joshua Bolten, George W. Bush_
 
 ##### car bomb
 ### [ A car bomb in the Mansour district of Baghdad kills at least 30 Iraqis celebrating their team's victory in an Asian Cup match against South Korea. Another suicide attack in East Baghdad kills another 20. ](/news/2007/07/25/a-car-bomb-in-the-mansour-district-of-baghdad-kills-at-least-30-iraqis-celebrating-their-team-s-victory-in-an-asian-cup-match-against-south.md)
-_Context: car bomb, South Korea, Iraq, Asian Cup, Mansour district, Iraq, Baghdad_
+_Context: Iraq, Asian Cup, Mansour district, Iraq, car bomb, Baghdad, South Korea_
 
 ##### release 23 of its captured fighters
 ### [ 8 of the 23 South Koreans held hostage by the Taliban in Afghanistan are released, while one of the hostages is executed. The Taliban gives further warning that the remaining hostages will be killed. ](/news/2007/07/25/8-of-the-23-south-koreans-held-hostage-by-the-taliban-in-afghanistan-are-released-while-one-of-the-hostages-is-executed-the-taliban-gives.md)
-_Context: release 23 of its captured fighters, Taliban, Afghanistan_
+_Context: Afghanistan, Taliban, release 23 of its captured fighters_
 
 ##### Arab League
 ### [ The first delegation from the Arab League comprising the foreign ministers of Egypt and Jordan visits Israel to talk about the Arab Peace Initiative. ](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.md)
-_Context: Egypt, Jordan, Israel, Arab League, Arab Peace Initiative_
+_Context: Israel, Arab Peace Initiative, Arab League, Jordan, Egypt_
 
 ##### Iraq
 ### [ Iraq's largest Sunni Arab bloc, The Iraqi Accordance Front, suspends its membership in Prime Minister Nouri al-Maliki's coalition government. ](/news/2007/07/25/iraq-s-largest-sunni-arab-bloc-the-iraqi-accordance-front-suspends-its-membership-in-prime-minister-nouri-al-maliki-s-coalition-governmen.md)
-_Context: Sunni, Iraq, Arab, Iraq Prime Minister, coalition government, Iraqi Accordance Front, Nouri al-Maliki_
+_Context: Iraq, Sunni, coalition government, Iraqi Accordance Front, Iraq Prime Minister, Arab, Nouri al-Maliki_
 
 ##### Russia
 ### [ A Russian subcontractor advises that Iran's first nuclear power reactor will be ready in August 2008. ](/news/2007/07/25/a-russian-subcontractor-advises-that-iran-s-first-nuclear-power-reactor-will-be-ready-in-august-2008.md)
@@ -57,15 +57,15 @@ _Context: Oxford, River Thames_
 
 ##### North Korea
 ### [ North and South Korea conduct high-level talks to resolve a border dispute. ](/news/2007/07/25/north-and-south-korea-conduct-high-level-talks-to-resolve-a-border-dispute.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### French President
 ### [ The President of France Nicolas Sarkozy travels to Libya following the release of the medical workers sentenced to death in the HIV trial in Libya. ](/news/2007/07/25/the-president-of-france-nicolas-sarkozy-travels-to-libya-following-the-release-of-the-medical-workers-sentenced-to-death-in-the-hiv-trial-i.md)
-_Context: French President, HIV trial in Libya, Libya, Nicolas Sarkozy_
+_Context: Libya, Nicolas Sarkozy, French President, HIV trial in Libya_
 
 ##### Ward Churchill
 ### [ Controversial American academic Ward Churchill is dismissed by the Board of Regents of the University of Colorado after accusations of academic misconduct. ](/news/2007/07/25/controversial-american-academic-ward-churchill-is-dismissed-by-the-board-of-regents-of-the-university-of-colorado-after-accusations-of-acad.md)
-_Context: Board of Regents, Colorado, Ward Churchill_
+_Context: Ward Churchill, Colorado, Board of Regents_
 
 ## [Previous Day...](/news/2007/07/24/index.md)
 

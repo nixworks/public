@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/9/north-korea-claims-to-have-successfully-tested-t
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-and-weapons-of-mass-destruction-north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-mis.md) _2017-08-27 03:45:32 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-and-weapons-of-mass-destruction-north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-mis.md) _2018-02-06 13:49:29 (First version)_
 1. [ North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-missile.md) _(Current version)_
 
 ### Related:

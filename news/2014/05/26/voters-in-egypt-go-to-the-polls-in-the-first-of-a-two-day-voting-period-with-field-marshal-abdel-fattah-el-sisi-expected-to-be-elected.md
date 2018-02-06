@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of
 
 ### Changes:
 
-1. [Egyptian presidential election, 2014: Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/egyptian-presidential-election-2014-voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fatta.md) _2017-08-27 03:40:45 (First version)_
+1. [Egyptian presidential election, 2014: Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/egyptian-presidential-election-2014-voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fatta.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ As prime minister warns Ukrainians of pain ahead, IMF pledges $18B to prop up si
 
 ### Changes:
 
-1. [2014 Ukrainian revolution:The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/2014-ukrainian-revolution-pthe-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-to.md) _2017-08-25 03:40:13 (First version)_
-2. [2014 Ukrainian revolution:: The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/2014-ukrainian-revolution-the-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-t.md) _2017-08-27 03:40:31 (Update)_
+1. [2014 Ukrainian revolution:: The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/2014-ukrainian-revolution-the-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-t.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Ukrainian revolution:The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/2014-ukrainian-revolution-pthe-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-to.md) _2018-02-06 13:49:26 (Update)_
 2. [The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/the-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-to-secure-an-aid-package-from.md) _(Current version)_
 
 ### Related:

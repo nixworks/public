@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/08/7/the-syrian-army-launches-a-large-missile-on-the-
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-pthe-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinia.md) _2017-08-25 03:39:07 (First version)_
-2. [Syrian civil war:: The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestini.md) _2017-08-27 03:39:22 (Update)_
+1. [Syrian civil war:: The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestini.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-pthe-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinia.md) _2018-02-06 13:49:25 (Update)_
 2. [The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinian-refugees.md) _(Current version)_
 
 ### Related:

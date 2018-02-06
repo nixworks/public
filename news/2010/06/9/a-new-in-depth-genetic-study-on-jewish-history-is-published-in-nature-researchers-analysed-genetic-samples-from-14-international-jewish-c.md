@@ -16,7 +16,7 @@ Scientists shed light on Jewish heritage with an in-depth genetic study from com
 
 ### Changes:
 
-1. [A new in-depth genetic study on Jewish history is published in ''Nature'': researchers analysed genetic samples from 14 international Jewish communities and 69 international non-Jewish communities. ](/news/2010/06/9/a-new-in-depth-genetic-study-on-jewish-history-is-published-in-nature-researchers-analysed-genetic-samples-from-14-international-jewish.md) _2017-08-25 03:28:11 (First version)_
+1. [A new in-depth genetic study on Jewish history is published in ''Nature'': researchers analysed genetic samples from 14 international Jewish communities and 69 international non-Jewish communities. ](/news/2010/06/9/a-new-in-depth-genetic-study-on-jewish-history-is-published-in-nature-researchers-analysed-genetic-samples-from-14-international-jewish.md) _2018-02-06 13:49:20 (First version)_
 1. [A new in-depth genetic study on Jewish history is published in "Nature": researchers analysed genetic samples from 14 international Jewish communities and 69 international non-Jewish communities. ](/news/2010/06/9/a-new-in-depth-genetic-study-on-jewish-history-is-published-in-nature-researchers-analysed-genetic-samples-from-14-international-jewish-c.md) _(Current version)_
 
 ### Related:

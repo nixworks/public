@@ -17,7 +17,7 @@ A Thai soldier is shot dead in a disputed area around the Cambodia border, where
 
 ### Changes:
 
-1. [Cambodian-Thai border stand-off: A Thai soldier is shot dead and four wounded in clashes with Cambodian troops in a disputed border area. ](/news/2011/02/5/cambodian-thai-border-stand-off-a-thai-soldier-is-shot-dead-and-four-wounded-in-clashes-with-cambodian-troops-in-a-disputed-border-area.md) _2017-08-27 03:32:11 (First version)_
+1. [Cambodian-Thai border stand-off: A Thai soldier is shot dead and four wounded in clashes with Cambodian troops in a disputed border area. ](/news/2011/02/5/cambodian-thai-border-stand-off-a-thai-soldier-is-shot-dead-and-four-wounded-in-clashes-with-cambodian-troops-in-a-disputed-border-area.md) _2018-02-06 13:49:22 (First version)_
 1. [Cambodian-Thai border stand-off: A Thai soldier is shot dead and four wounded in clashes with Cambodian troops in a disputed border area. ](/news/2011/02/5/cambodianathai-border-stand-off-a-thai-soldier-is-shot-dead-and-four-wounded-in-clashes-with-cambodian-troops-in-a-disputed-border-area.md) _(Current version)_
 
 ### Related:

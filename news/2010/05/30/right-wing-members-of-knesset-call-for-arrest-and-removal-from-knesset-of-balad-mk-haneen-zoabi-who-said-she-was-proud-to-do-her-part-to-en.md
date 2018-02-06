@@ -23,8 +23,8 @@ Activists aboard an aid flotilla say they have left Cyprus and will reach Gaza o
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Right-wing members of Knesset call for arrest and removal from Knesset of Balad MK Haneen Zoabi, who said she was proud to do her part to end what she called a siege on Gaza.](/news/2010/05/30/israeliapalestinian-conflict-pright-wing-members-of-knesset-call-for-arrest-and-removal-from-knesset-of-balad-mk-haneen-zoabi-who-said-sh.md) _2017-08-25 03:28:04 (First version)_
-2. [Israeli-Palestinian conflict:: Right-wing members of Knesset call for arrest and removal from Knesset of Balad MK Haneen Zoabi, who said she was proud to do her part to end what she called a siege on Gaza.](/news/2010/05/30/israeli-palestinian-conflict-right-wing-members-of-knesset-call-for-arrest-and-removal-from-knesset-of-balad-mk-haneen-zoabi-who-said-s.md) _2017-08-27 03:28:03 (Update)_
+1. [Israeli-Palestinian conflict:Right-wing members of Knesset call for arrest and removal from Knesset of Balad MK Haneen Zoabi, who said she was proud to do her part to end what she called a siege on Gaza.](/news/2010/05/30/israeliapalestinian-conflict-pright-wing-members-of-knesset-call-for-arrest-and-removal-from-knesset-of-balad-mk-haneen-zoabi-who-said-sh.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: Right-wing members of Knesset call for arrest and removal from Knesset of Balad MK Haneen Zoabi, who said she was proud to do her part to end what she called a siege on Gaza.](/news/2010/05/30/israeli-palestinian-conflict-right-wing-members-of-knesset-call-for-arrest-and-removal-from-knesset-of-balad-mk-haneen-zoabi-who-said-s.md) _2018-02-06 13:49:20 (Update)_
 2. [Right-wing members of Knesset call for arrest and removal from Knesset of Balad MK Haneen Zoabi, who said she was proud to do her part to end what she called a siege on Gaza.](/news/2010/05/30/right-wing-members-of-knesset-call-for-arrest-and-removal-from-knesset-of-balad-mk-haneen-zoabi-who-said-she-was-proud-to-do-her-part-to-en.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Centrist Emmanuel Macron and Marine Le Pen, of the far-right Front National, go 
 
 ### Changes:
 
-1. [French presidential election, 2017: Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/french-presidential-election-2017-candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _2017-08-27 03:48:17 (First version)_
+1. [French presidential election, 2017: Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/french-presidential-election-2017-candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _2018-02-06 13:49:30 (First version)_
 1. [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _(Current version)_
 
 ### Related:

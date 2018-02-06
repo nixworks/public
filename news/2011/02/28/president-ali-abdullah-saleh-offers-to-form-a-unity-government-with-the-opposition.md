@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/02/28/president-ali-abdullah-saleh-offers-to-form-a-u
 
 ### Changes:
 
-1. [2011 Yemeni protests:President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-ppresident-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md) _2017-08-25 03:32:22 (First version)_
-2. [2011 Yemeni protests:: President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-president-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md) _2017-08-27 03:32:30 (Update)_
+1. [2011 Yemeni protests:: President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-president-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-ppresident-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md) _2018-02-06 13:49:22 (Update)_
 2. [President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/president-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md) _(Current version)_
 
 ### Related:

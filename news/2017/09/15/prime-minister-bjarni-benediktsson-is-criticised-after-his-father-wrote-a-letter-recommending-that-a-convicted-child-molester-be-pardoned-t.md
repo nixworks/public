@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticise
 
 ### Changes:
 
-1. [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned.md) _2017-09-15 16:30:05 (First version)_
-2. [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned-the-b.md) _2017-09-16 16:30:06 (Update)_
+1. [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned.md) _2018-02-06 13:49:31 (First version)_
+2. [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned-the-b.md) _2018-02-06 13:49:31 (Update)_
 2. [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted child molester be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-child-molester-be-pardoned-t.md) _(Current version)_
 
 ### Related:

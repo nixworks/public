@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/17/deutsche-bank-agrees-to-a-7-2-billion-settlemen
 
 ### Changes:
 
-1. [Germany-United States relations: Deutsche Bank agrees to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the years leading up to the 2008 financial crisis. ](/news/2017/01/17/germany-united-states-relations-deutsche-bank-agrees-to-a-7-2-billion-settlement-with-the-u-s-department-of-justice-over-its-sale-and-p.md) _2017-08-27 03:47:37 (First version)_
+1. [Germany-United States relations: Deutsche Bank agrees to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the years leading up to the 2008 financial crisis. ](/news/2017/01/17/germany-united-states-relations-deutsche-bank-agrees-to-a-7-2-billion-settlement-with-the-u-s-department-of-justice-over-its-sale-and-p.md) _2018-02-06 13:49:30 (First version)_
 1. [Deutsche Bank agrees to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the years leading up to the 2008 financial crisis. ](/news/2017/01/17/deutsche-bank-agrees-to-a-7-2-billion-settlement-with-the-u-s-department-of-justice-over-its-sale-and-pooling-of-toxic-mortgage-securities.md) _(Current version)_
 
 ### Related:

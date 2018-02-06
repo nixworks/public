@@ -15,9 +15,9 @@ Formats: [HTML](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designa
 
 ### Changes:
 
-1. [ The solar system's largest dwarf planet, designated until now as {{mp|2003 UB|313}}, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-mp-2003-ub-313-is-officially-named-eris-its-satellite-is-now-know.md) _2017-05-01 03:18:50 (First version)_
-2. [ The solar system's largest dwarf planet, designated until now as 2003 UB|313, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-2003-ub-313-is-officially-named-eris-its-satellite-is-now-known-as-d.md) _2017-08-25 03:18:23 (Update)_
-3. [ The solar system's largest dwarf planet, designated until now as 2003 UB|313, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-2003-ub-313-is-officially-named-eris-its-satellite-is-now-known-as-dy.md) _2017-08-29 03:18:27 (Update)_
+1. [ The solar system's largest dwarf planet, designated until now as {{mp|2003 UB|313}}, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-mp-2003-ub-313-is-officially-named-eris-its-satellite-is-now-know.md) _2018-02-06 13:49:17 (First version)_
+2. [ The solar system's largest dwarf planet, designated until now as 2003 UB|313, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-2003-ub-313-is-officially-named-eris-its-satellite-is-now-known-as-dy.md) _2018-02-06 13:49:17 (Update)_
+3. [ The solar system's largest dwarf planet, designated until now as 2003 UB|313, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-2003-ub-313-is-officially-named-eris-its-satellite-is-now-known-as-d.md) _2018-02-06 13:49:17 (Update)_
 3. [ The solar system's largest dwarf planet, designated until now as 2003 UB, is officially named "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-2003-ub-is-officially-named-eris-its-satellite-is-now-known-as-dysnom.md) _(Current version)_
 
 ### Related:

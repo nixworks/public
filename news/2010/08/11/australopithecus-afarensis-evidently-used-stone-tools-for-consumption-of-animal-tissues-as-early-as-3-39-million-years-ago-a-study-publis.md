@@ -17,7 +17,7 @@ Researchers have unearthed evidence that our ancestors used tools and ate meat 8
 
 ### Changes:
 
-1. [''Australopithecus afarensis'' evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in ''Nature'' finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publ.md) _2017-08-25 03:29:22 (First version)_
+1. [''Australopithecus afarensis'' evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in ''Nature'' finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publ.md) _2018-02-06 13:49:20 (First version)_
 1. ["Australopithecus afarensis" evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in "Nature" finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.md) _(Current version)_
 
 ### Related:

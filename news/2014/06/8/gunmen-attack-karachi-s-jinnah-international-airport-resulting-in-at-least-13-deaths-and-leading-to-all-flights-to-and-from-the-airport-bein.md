@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/06/8/gunmen-attack-karachi-s-jinnah-international-air
 
 ### Changes:
 
-1. [2014 Jinnah International Airport attack: Gunmen attack Karachi's Jinnah International Airport resulting in at least 13 deaths and leading to all flights to and from the airport being cancelled. ](/news/2014/06/8/2014-jinnah-international-airport-attack-gunmen-attack-karachi-s-jinnah-international-airport-resulting-in-at-least-13-deaths-and-leading-t.md) _2017-08-27 03:40:49 (First version)_
+1. [2014 Jinnah International Airport attack: Gunmen attack Karachi's Jinnah International Airport resulting in at least 13 deaths and leading to all flights to and from the airport being cancelled. ](/news/2014/06/8/2014-jinnah-international-airport-attack-gunmen-attack-karachi-s-jinnah-international-airport-resulting-in-at-least-13-deaths-and-leading-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen attack Karachi's Jinnah International Airport resulting in at least 13 deaths and leading to all flights to and from the airport being cancelled. ](/news/2014/06/8/gunmen-attack-karachi-s-jinnah-international-airport-resulting-in-at-least-13-deaths-and-leading-to-all-flights-to-and-from-the-airport-bein.md) _(Current version)_
 
 ### Related:

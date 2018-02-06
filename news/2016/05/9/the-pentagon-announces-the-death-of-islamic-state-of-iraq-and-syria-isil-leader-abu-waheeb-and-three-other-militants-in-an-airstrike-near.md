@@ -18,8 +18,8 @@ A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, i
 
 ### Changes:
 
-1. [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-ne.md) _2017-08-25 03:45:38 (First version)_
-2. [ Iraqi Civil War (2014-present): The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/iraqi-civil-war-2014-present-the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-ot.md) _2017-08-27 03:46:00 (Update)_
+1. [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-ne.md) _2018-02-06 13:49:29 (First version)_
+2. [ Iraqi Civil War (2014-present): The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/iraqi-civil-war-2014-present-the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-ot.md) _2018-02-06 13:49:29 (Update)_
 2. [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-near.md) _(Current version)_
 
 ### Related:

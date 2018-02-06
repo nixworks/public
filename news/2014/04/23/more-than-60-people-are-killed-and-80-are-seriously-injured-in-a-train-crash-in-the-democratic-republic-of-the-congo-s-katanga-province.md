@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/23/more-than-60-people-are-killed-and-80-are-serio
 
 ### Changes:
 
-1. [2014 Katanga train derailment:More than 60 people are killed and 80 are seriously injured in a train crash in the Democratic Republic of the Congo's Katanga Province. ](/news/2014/04/23/2014-katanga-train-derailment-pmore-than-60-people-are-killed-and-80-are-seriously-injured-in-a-train-crash-in-the-democratic-republic-of-th.md) _2017-08-25 03:40:19 (First version)_
-2. [2014 Katanga train derailment:: More than 60 people are killed and 80 are seriously injured in a train crash in the Democratic Republic of the Congo's Katanga Province. ](/news/2014/04/23/2014-katanga-train-derailment-more-than-60-people-are-killed-and-80-are-seriously-injured-in-a-train-crash-in-the-democratic-republic-of-t.md) _2017-08-27 03:40:37 (Update)_
+1. [2014 Katanga train derailment:More than 60 people are killed and 80 are seriously injured in a train crash in the Democratic Republic of the Congo's Katanga Province. ](/news/2014/04/23/2014-katanga-train-derailment-pmore-than-60-people-are-killed-and-80-are-seriously-injured-in-a-train-crash-in-the-democratic-republic-of-th.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Katanga train derailment:: More than 60 people are killed and 80 are seriously injured in a train crash in the Democratic Republic of the Congo's Katanga Province. ](/news/2014/04/23/2014-katanga-train-derailment-more-than-60-people-are-killed-and-80-are-seriously-injured-in-a-train-crash-in-the-democratic-republic-of-t.md) _2018-02-06 13:49:26 (Update)_
 2. [More than 60 people are killed and 80 are seriously injured in a train crash in the Democratic Republic of the Congo's Katanga Province. ](/news/2014/04/23/more-than-60-people-are-killed-and-80-are-seriously-injured-in-a-train-crash-in-the-democratic-republic-of-the-congo-s-katanga-province.md) _(Current version)_
 
 ### Related:

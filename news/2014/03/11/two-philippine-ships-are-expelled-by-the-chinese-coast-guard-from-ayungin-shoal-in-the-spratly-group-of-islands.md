@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/03/11/two-philippine-ships-are-expelled-by-the-chines
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea:Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-ptwo-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md) _2017-08-25 03:40:08 (First version)_
-2. [Territorial disputes in the South China Sea:: Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md) _2017-08-27 03:40:27 (Update)_
+1. [Territorial disputes in the South China Sea:: Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md) _2018-02-06 13:49:25 (First version)_
+2. [Territorial disputes in the South China Sea:Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-ptwo-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md) _2018-02-06 13:49:25 (Update)_
 2. [Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly-group-of-islands.md) _(Current version)_
 
 ### Related:

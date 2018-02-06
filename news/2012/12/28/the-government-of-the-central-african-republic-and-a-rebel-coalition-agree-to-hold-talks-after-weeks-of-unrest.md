@@ -16,8 +16,8 @@ The government of the Central African Republic and a rebel coalition have agreed
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-pthe-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-week.md) _2017-08-25 03:37:09 (First version)_
-2. [2012 Central African Republic rebellion:: The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-the-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-wee.md) _2017-08-27 03:37:19 (Update)_
+1. [2012 Central African Republic rebellion:: The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-the-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-wee.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-pthe-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-week.md) _2018-02-06 13:49:24 (Update)_
 2. [The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/the-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-weeks-of-unrest.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ At least 12 people, including several children, have died in a series of bomb at
 
 ### Changes:
 
-1. [War in Afghanistan:A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-pa-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md) _2017-08-25 03:34:48 (First version)_
-2. [War in Afghanistan:: A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md) _2017-08-27 03:34:57 (Update)_
+1. [War in Afghanistan:A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-pa-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan:: A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md) _2018-02-06 13:49:23 (Update)_
 2. [A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md) _(Current version)_
 
 ### Related:

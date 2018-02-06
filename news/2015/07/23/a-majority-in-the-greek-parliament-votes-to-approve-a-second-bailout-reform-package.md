@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-app
 
 ### Changes:
 
-1. [ Greek government-debt crisis timeline A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/greek-government-debt-crisis-timeline-p-a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _2017-05-25 03:44:33 (First version)_
-2. [ Greek government-debt crisis timeline: A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/greek-government-debt-crisis-timeline-a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _2017-08-27 03:42:44 (Update)_
+1. [ Greek government-debt crisis timeline A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/greek-government-debt-crisis-timeline-p-a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _2018-02-06 13:49:27 (First version)_
+2. [ Greek government-debt crisis timeline: A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/greek-government-debt-crisis-timeline-a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _2018-02-06 13:49:27 (Update)_
 2. [ A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _(Current version)_
 
 ### Related:

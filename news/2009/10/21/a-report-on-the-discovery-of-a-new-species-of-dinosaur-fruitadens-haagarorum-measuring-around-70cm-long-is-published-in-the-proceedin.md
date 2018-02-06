@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-d
 
 ### Changes:
 
-1. [ A report on the discovery of a new species of dinosaur, ''Fruitadens haagarorum'', measuring around 70cm long, is published in the ''Proceedings of the Royal Society''. ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-procee.md) _2017-08-25 03:26:07 (First version)_
+1. [ A report on the discovery of a new species of dinosaur, ''Fruitadens haagarorum'', measuring around 70cm long, is published in the ''Proceedings of the Royal Society''. ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-procee.md) _2018-02-06 13:49:19 (First version)_
 1. [ A report on the discovery of a new species of dinosaur, "Fruitadens haagarorum", measuring around 70cm long, is published in the "Proceedings of the Royal Society". ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-proceedin.md) _(Current version)_
 
 ### Related:

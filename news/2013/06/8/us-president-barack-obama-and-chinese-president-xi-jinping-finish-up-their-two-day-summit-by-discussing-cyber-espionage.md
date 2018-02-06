@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/06/8/us-president-barack-obama-and-chinese-president-
 
 ### Changes:
 
-1. [US-China summit:US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-china-summit-pus-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md) _2017-08-25 03:38:48 (First version)_
-2. [US-China summit:: US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-china-summit-us-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md) _2017-08-27 03:39:02 (Update)_
+1. [US-China summit:: US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-china-summit-us-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md) _2018-02-06 13:49:25 (First version)_
+2. [US-China summit:US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-china-summit-pus-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md) _2018-02-06 13:49:25 (Update)_
 2. [US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The APEC summit in Sydney is drawing to a conclusion, with leaders working on th
 
 ### Changes:
 
-1. [ APEC Australia 2007: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-p-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2017-08-25 03:20:55 (First version)_
-2. [ APEC Australia 2007:: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2017-08-27 03:20:52 (Update)_
+1. [ APEC Australia 2007:: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2018-02-06 13:49:18 (First version)_
+2. [ APEC Australia 2007: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-p-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2018-02-06 13:49:18 (Update)_
 2. [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md) _(Current version)_
 
 ### Related:

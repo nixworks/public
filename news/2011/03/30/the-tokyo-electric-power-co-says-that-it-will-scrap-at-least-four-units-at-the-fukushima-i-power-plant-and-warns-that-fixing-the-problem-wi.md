@@ -17,7 +17,7 @@ Japan called on the world not to impose &quot;unjustifiable&quot; import curbs o
 
 ### Changes:
 
-1. [Fukushima I Nuclear Power Plant: The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/fukushima-i-nuclear-power-plant-the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and.md) _2017-08-27 03:32:49 (First version)_
+1. [Fukushima I Nuclear Power Plant: The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/fukushima-i-nuclear-power-plant-the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and.md) _2018-02-06 13:49:22 (First version)_
 1. [The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and-warns-that-fixing-the-problem-wi.md) _(Current version)_
 
 ### Related:

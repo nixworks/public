@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-k
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/war-in-somalia-2009-present-kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-g.md) _2017-08-27 03:41:33 (First version)_
+1. [War in Somalia (2009-present): Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/war-in-somalia-2009-present-kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-g.md) _2018-02-06 13:49:26 (First version)_
 1. [Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-group-hijacking-a-bus-and-killing.md) _(Current version)_
 
 ### Related:

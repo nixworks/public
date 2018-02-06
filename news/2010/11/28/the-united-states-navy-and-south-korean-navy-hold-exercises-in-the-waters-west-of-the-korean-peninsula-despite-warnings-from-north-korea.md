@@ -23,8 +23,8 @@ gyun and Jo Yong-hak
 
 ### Changes:
 
-1. [Korean peninsula:The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/korean-peninsula-pthe-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-fr.md) _2017-08-25 03:31:11 (First version)_
-2. [Korean peninsula:: The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/korean-peninsula-the-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-f.md) _2017-08-27 03:31:19 (Update)_
+1. [Korean peninsula:: The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/korean-peninsula-the-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-f.md) _2018-02-06 13:49:21 (First version)_
+2. [Korean peninsula:The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/korean-peninsula-pthe-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-fr.md) _2018-02-06 13:49:21 (Update)_
 2. [The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/the-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-from-north-korea.md) _(Current version)_
 
 ### Related:

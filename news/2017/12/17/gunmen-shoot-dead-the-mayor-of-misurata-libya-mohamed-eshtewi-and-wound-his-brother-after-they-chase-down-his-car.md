@@ -16,9 +16,9 @@ Formats: [HTML](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-m
 
 ### Changes:
 
-1. [Gunmen shot dead Mayor of Misurata, Libya, Mohamed Eshtewi as they chased down his car. ](/news/2017/12/17/gunmen-shot-dead-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chased-down-his-car.md) _2017-12-18 10:30:06 (First version)_
-2. [Gunmen shot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chased down his car. ](/news/2017/12/17/gunmen-shot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chased-down-his-car.md) _2017-12-18 12:30:05 (Update)_
-3. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chase-down-his-car.md) _2017-12-18 18:30:05 (Update)_
+1. [Gunmen shot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chased down his car. ](/news/2017/12/17/gunmen-shot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chased-down-his-car.md) _2018-02-06 13:49:31 (First version)_
+2. [Gunmen shot dead Mayor of Misurata, Libya, Mohamed Eshtewi as they chased down his car. ](/news/2017/12/17/gunmen-shot-dead-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chased-down-his-car.md) _2018-02-06 13:49:31 (Update)_
+3. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chase-down-his-car.md) _2018-02-06 13:49:31 (Update)_
 3. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md) _(Current version)_
 
 ### Related:

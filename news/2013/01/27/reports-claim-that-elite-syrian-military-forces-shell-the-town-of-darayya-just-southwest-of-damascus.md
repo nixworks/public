@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces
 
 ### Changes:
 
-1. [Syrian civil war:Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-preports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md) _2017-08-25 03:37:21 (First version)_
-2. [Syrian civil war:: Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md) _2017-08-27 03:37:31 (Update)_
+1. [Syrian civil war:: Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-preports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md) _2018-02-06 13:49:24 (Update)_
 2. [Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md) _(Current version)_
 
 ### Related:

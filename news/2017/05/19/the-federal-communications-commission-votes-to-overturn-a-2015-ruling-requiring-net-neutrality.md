@@ -16,7 +16,7 @@ Critics say changing the rules may mean some data travels on &quot;fast lanes&qu
 
 ### Changes:
 
-1. [Net neutrality in the United States: The Federal Communications Commission votes to overturn a 2015 ruling requiring net neutrality. ](/news/2017/05/19/net-neutrality-in-the-united-states-the-federal-communications-commission-votes-to-overturn-a-2015-ruling-requiring-net-neutrality.md) _2017-08-27 03:48:21 (First version)_
+1. [Net neutrality in the United States: The Federal Communications Commission votes to overturn a 2015 ruling requiring net neutrality. ](/news/2017/05/19/net-neutrality-in-the-united-states-the-federal-communications-commission-votes-to-overturn-a-2015-ruling-requiring-net-neutrality.md) _2018-02-06 13:49:30 (First version)_
 1. [The Federal Communications Commission votes to overturn a 2015 ruling requiring net neutrality. ](/news/2017/05/19/the-federal-communications-commission-votes-to-overturn-a-2015-ruling-requiring-net-neutrality.md) _(Current version)_
 
 ### Related:

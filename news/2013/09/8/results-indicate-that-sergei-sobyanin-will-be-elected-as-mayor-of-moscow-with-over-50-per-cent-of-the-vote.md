@@ -18,8 +18,8 @@ Kremlin ally Sergei Sobyanin won 57.7 won percent of the votes in a Moscow mayor
 
 ### Changes:
 
-1. [Russian elections:Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/russian-elections-presults-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md) _2017-08-25 03:39:15 (First version)_
-2. [Russian elections:: Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/russian-elections-results-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md) _2017-08-27 03:39:31 (Update)_
+1. [Russian elections:: Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/russian-elections-results-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md) _2018-02-06 13:49:25 (First version)_
+2. [Russian elections:Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/russian-elections-presults-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md) _2018-02-06 13:49:25 (Update)_
 2. [Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/results-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md) _(Current version)_
 
 ### Related:

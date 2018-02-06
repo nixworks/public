@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/08/15/three-germans-are-killed-by-a-bomb-attack-near-
 
 ### Changes:
 
-1. [ War in Afghanistan: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-p-three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _2017-08-25 03:20:35 (First version)_
-2. [ War in Afghanistan:: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _2017-08-27 03:20:32 (Update)_
+1. [ War in Afghanistan:: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Afghanistan: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-p-three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _2018-02-06 13:49:17 (Update)_
 2. [ Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/three-germans-are-killed-by-a-bomb-attack-near-kabul.md) _(Current version)_
 
 ### Related:

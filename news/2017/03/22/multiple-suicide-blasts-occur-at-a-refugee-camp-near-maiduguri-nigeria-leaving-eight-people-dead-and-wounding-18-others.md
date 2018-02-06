@@ -17,7 +17,7 @@ A total of eight people including five suicide bombers have been killed in multi
 
 ### Changes:
 
-1. [Boko Haram insurgency: 2017 Maiduguri attack: Multiple suicide blasts occur at a refugee camp near Maiduguri, Nigeria, leaving eight people dead and wounding 18 others. ](/news/2017/03/22/boko-haram-insurgency-2017-maiduguri-attack-multiple-suicide-blasts-occur-at-a-refugee-camp-near-maiduguri-nigeria-leaving-eight-people.md) _2017-08-27 03:48:01 (First version)_
+1. [Boko Haram insurgency: 2017 Maiduguri attack: Multiple suicide blasts occur at a refugee camp near Maiduguri, Nigeria, leaving eight people dead and wounding 18 others. ](/news/2017/03/22/boko-haram-insurgency-2017-maiduguri-attack-multiple-suicide-blasts-occur-at-a-refugee-camp-near-maiduguri-nigeria-leaving-eight-people.md) _2018-02-06 13:49:30 (First version)_
 1. [Multiple suicide blasts occur at a refugee camp near Maiduguri, Nigeria, leaving eight people dead and wounding 18 others. ](/news/2017/03/22/multiple-suicide-blasts-occur-at-a-refugee-camp-near-maiduguri-nigeria-leaving-eight-people-dead-and-wounding-18-others.md) _(Current version)_
 
 ### Related:

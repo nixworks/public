@@ -16,7 +16,7 @@ Manila Standard | Defining The News
 
 ### Changes:
 
-1. [Philippine Drug War: Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. ](/news/2016/08/4/philippine-drug-war-rodrigo-duterte-says-that-the-sinaloa-cartel-and-the-chinese-triad-are-active-in-the-philippine-narcotic-trade.md) _2017-08-27 03:46:36 (First version)_
+1. [Philippine Drug War: Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. ](/news/2016/08/4/philippine-drug-war-rodrigo-duterte-says-that-the-sinaloa-cartel-and-the-chinese-triad-are-active-in-the-philippine-narcotic-trade.md) _2018-02-06 13:49:29 (First version)_
 1. [Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. ](/news/2016/08/4/rodrigo-duterte-says-that-the-sinaloa-cartel-and-the-chinese-triad-are-active-in-the-philippine-narcotic-trade.md) _(Current version)_
 
 ### Related:

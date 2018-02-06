@@ -18,7 +18,7 @@ Twenty hostages were killed by militants who stormed an upscale restaurant in th
 
 ### Changes:
 
-1. [2016 Gulshan attack: Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/2016-gulshan-attack-gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-o.md) _2017-08-27 03:46:24 (First version)_
+1. [2016 Gulshan attack: Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/2016-gulshan-attack-gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-of-dhaka-bangladesh.md) _(Current version)_
 
 ### Related:

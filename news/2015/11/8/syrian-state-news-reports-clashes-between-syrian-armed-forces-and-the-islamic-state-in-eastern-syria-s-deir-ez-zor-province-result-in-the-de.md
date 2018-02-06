@@ -19,8 +19,8 @@ Syrian troops killed 58 militants associated with the Islamic State (IS) group i
 
 ### Changes:
 
-1. [Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-province-result-in-the-d.md) _2017-08-25 03:43:26 (First version)_
-2. [Syrian Civil War: Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-civil-war-syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-provinc.md) _2017-08-27 03:43:44 (Update)_
+1. [Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-province-result-in-the-d.md) _2018-02-06 13:49:28 (First version)_
+2. [Syrian Civil War: Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-civil-war-syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-provinc.md) _2018-02-06 13:49:28 (Update)_
 2. [Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-province-result-in-the-de.md) _(Current version)_
 
 ### Related:

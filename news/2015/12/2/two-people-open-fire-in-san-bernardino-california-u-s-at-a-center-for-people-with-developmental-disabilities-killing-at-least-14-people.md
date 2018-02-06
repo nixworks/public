@@ -23,7 +23,7 @@ Gunmen opened fire on a holiday party on Wednesday at a social services agency i
 
 ### Changes:
 
-1. [2015 San Bernardino shooting: Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city-s police chief described as an act of domestic terrorism. ](/news/2015/12/2/2015-san-bernardino-shooting-two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabiliti.md) _2017-08-27 03:44:10 (First version)_
+1. [2015 San Bernardino shooting: Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city-s police chief described as an act of domestic terrorism. ](/news/2015/12/2/2015-san-bernardino-shooting-two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabiliti.md) _2018-02-06 13:49:28 (First version)_
 1. [Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city's police chief described as an act of domestic terrorism. ](/news/2015/12/2/two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabilities-killing-at-least-14-people.md) _(Current version)_
 
 ### Related:

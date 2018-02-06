@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/07/12/the-disputed-afghan-presidential-election-is-to
 
 ### Changes:
 
-1. [Afghan presidential election, 2014:The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/afghan-presidential-election-2014-pthe-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the.md) _2017-08-25 03:40:40 (First version)_
-2. [Afghan presidential election, 2014:: The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/afghan-presidential-election-2014-the-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the.md) _2017-08-27 03:40:58 (Update)_
+1. [Afghan presidential election, 2014:: The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/afghan-presidential-election-2014-the-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the.md) _2018-02-06 13:49:26 (First version)_
+2. [Afghan presidential election, 2014:The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/afghan-presidential-election-2014-pthe-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the.md) _2018-02-06 13:49:26 (Update)_
 2. [The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/the-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the-two-leading-candidates-abdullah-abdu.md) _(Current version)_
 
 ### Related:

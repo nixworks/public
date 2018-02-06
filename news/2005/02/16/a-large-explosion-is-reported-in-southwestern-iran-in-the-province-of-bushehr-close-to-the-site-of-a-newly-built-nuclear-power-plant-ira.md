@@ -20,7 +20,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Changes:
 
-1. [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant. Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam. ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ir.md) _2017-08-25 03:15:40 (First version)_
+1. [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant. Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam. ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ir.md) _2018-02-06 13:49:16 (First version)_
 1. [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant. Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam. ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ira.md) _(Current version)_
 
 ### Related:

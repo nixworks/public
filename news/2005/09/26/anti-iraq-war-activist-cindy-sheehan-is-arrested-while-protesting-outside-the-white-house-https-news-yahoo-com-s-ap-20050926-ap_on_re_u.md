@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/09/26/anti-iraq-war-activist-cindy-sheehan-is-arreste
 
 ### Changes:
 
-1. [ Anti-Iraq War activist Cindy Sheehan is arrested while protesting outside the White House. [http:--news.yahoo.com-s-ap-20050926-ap_on_re_us-war_demonstrations_8 (Yahoo! News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/anti-iraq-war-activist-cindy-sheehan-is-arrested-while-protesting-outside-the-white-house-http-news-yahoo-com-s-ap-20050926-ap_on_re_us.md) _2017-10-17 03:19:24 (First version)_
+1. [ Anti-Iraq War activist Cindy Sheehan is arrested while protesting outside the White House. [http:--news.yahoo.com-s-ap-20050926-ap_on_re_us-war_demonstrations_8 (Yahoo! News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/anti-iraq-war-activist-cindy-sheehan-is-arrested-while-protesting-outside-the-white-house-http-news-yahoo-com-s-ap-20050926-ap_on_re_us.md) _2018-02-06 13:49:16 (First version)_
 1. [ Anti-Iraq War activist Cindy Sheehan is arrested while protesting outside the White House. [https:--news.yahoo.com-s-ap-20050926-ap_on_re_us-war_demonstrations_8 (Yahoo! News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/anti-iraq-war-activist-cindy-sheehan-is-arrested-while-protesting-outside-the-white-house-https-news-yahoo-com-s-ap-20050926-ap_on_re_u.md) _(Current version)_
 
 ### Related:

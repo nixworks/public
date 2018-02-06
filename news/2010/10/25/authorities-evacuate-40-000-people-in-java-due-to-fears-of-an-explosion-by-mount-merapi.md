@@ -19,7 +19,7 @@ A major earthquake with a magnitude of 7.5 strikes off western Sumatra triggerin
 
 ### Changes:
 
-1. [Indonesia: Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/indonesia-authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md) _2017-08-27 03:30:46 (First version)_
+1. [Indonesia: Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/indonesia-authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md) _2018-02-06 13:49:20 (First version)_
 1. [Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md) _(Current version)_
 
 ### Related:

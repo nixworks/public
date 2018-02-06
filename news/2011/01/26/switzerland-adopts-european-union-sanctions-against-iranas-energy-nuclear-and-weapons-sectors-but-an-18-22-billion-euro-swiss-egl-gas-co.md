@@ -16,7 +16,7 @@ Giant gas deal with Iran still on; sanctions target Iranian energy, nuclear prol
 
 ### Changes:
 
-1. [Switzerland adopts European Union sanctions against Iran-s energy, nuclear and weapons sectors, but an 18-22 billion euro Swiss EGL gas contract with the National Iranian Gas Export Company has not been canceled. ](/news/2011/01/26/switzerland-adopts-european-union-sanctions-against-iran-s-energy-nuclear-and-weapons-sectors-but-an-18-22-billion-euro-swiss-egl-gas-co.md) _2017-08-27 03:32:04 (First version)_
+1. [Switzerland adopts European Union sanctions against Iran-s energy, nuclear and weapons sectors, but an 18-22 billion euro Swiss EGL gas contract with the National Iranian Gas Export Company has not been canceled. ](/news/2011/01/26/switzerland-adopts-european-union-sanctions-against-iran-s-energy-nuclear-and-weapons-sectors-but-an-18-22-billion-euro-swiss-egl-gas-co.md) _2018-02-06 13:49:21 (First version)_
 1. [Switzerland adopts European Union sanctions against Iran's energy, nuclear and weapons sectors, but an 18-22 billion euro Swiss EGL gas contract with the National Iranian Gas Export Company has not been canceled. ](/news/2011/01/26/switzerland-adopts-european-union-sanctions-against-iranas-energy-nuclear-and-weapons-sectors-but-an-18-22-billion-euro-swiss-egl-gas-co.md) _(Current version)_
 
 ### Related:

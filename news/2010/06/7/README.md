@@ -9,7 +9,7 @@ Senior IDF officer says investigation of incident off Gaza&#39;s coastline deter
 
 ##### Canadian
 ### [Canadian poet Anne Michaels's novel "Fugitive Pieces" has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. "Fugitive Pieces" won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.md)
-_Context: teenagers, Canadian, Fugitive Pieces, Orange Prize for Fiction, Anne Michaels_
+_Context: Canadian, Orange Prize for Fiction, Fugitive Pieces, teenagers, Anne Michaels_
 
 ##### Chinese stock market
 ### [Chinese stock markets closed down Monday on weaker global recovery prospects. ](/news/2010/06/7/chinese-stock-markets-closed-down-monday-on-weaker-global-recovery-prospects.md)
@@ -21,7 +21,7 @@ _Context: Tropical Storm Agatha, Guatemala_
 
 ##### Midwest U.S.
 ### [At least 5 people are confirmed dead as tornados and storms batter the Midwest U.S. state of Ohio. ](/news/2010/06/7/at-least-5-people-are-confirmed-dead-as-tornados-and-storms-batter-the-midwest-u-s-state-of-ohio.md)
-_Context: Midwest U.S., Ohio_
+_Context: Ohio, Midwest U.S._
 
 ##### natural gas
 ### [At least three people die and 10 go missing during an explosion in a natural gas pipeline in Cleburne, Texas. ](/news/2010/06/7/at-least-three-people-die-and-10-go-missing-during-an-explosion-in-a-natural-gas-pipeline-in-cleburne-texas.md)
@@ -37,11 +37,11 @@ Mexico police find 55 bodies in an abandoned mine that appears to have been used
 
 ##### Poland
 ### [Polish officials say 6,000 Polish zloty were withdrawn using credit cards stolen from a passenger killed in the 2010 Polish Air Force Tu-154 crash near Smolensk. Poland says four soldiers have been arrested, while Russia denies this. ](/news/2010/06/7/polish-officials-say-6-000-polish-zloty-were-withdrawn-using-credit-cards-stolen-from-a-passenger-killed-in-the-2010-polish-air-force-tu-154.md)
-_Context: Polish zloty, Poland, 2010 Polish Air Force Tu-154 crash, Russia, Smolensk_
+_Context: 2010 Polish Air Force Tu-154 crash, Polish zloty, Russia, Poland, Smolensk_
 
 ##### derailment
 ### [9 passengers are injured and a train carriage left dangling over an embankment after a derailment in Scotland. ](/news/2010/06/7/9-passengers-are-injured-and-a-train-carriage-left-dangling-over-an-embankment-after-a-derailment-in-scotland.md)
-_Context: derailment, Scotland_
+_Context: Scotland, derailment_
 
 ##### migrant worker
 ### [The number of migrant workers who died or were injured at South Korea's workplaces has risen over the last three years to reach nearly 14,500. ](/news/2010/06/7/the-number-of-migrant-workers-who-died-or-were-injured-at-south-korea-s-workplaces-has-risen-over-the-last-three-years-to-reach-nearly-14-50.md)
@@ -49,7 +49,7 @@ _Context: migrant worker, South Korea_
 
 ##### Cyprus
 ### [The Cyprus-based Free Gaza Movement packs up and leaves Cyprus for London after the Cypriot government's decision to interfere with and disrupt last week's international aid flotilla. ](/news/2010/06/7/the-cyprus-based-free-gaza-movement-packs-up-and-leaves-cyprus-for-london-after-the-cypriot-government-s-decision-to-interfere-with-and-disr.md)
-_Context: Cyprus, London, Free Gaza Movement_
+_Context: Free Gaza Movement, London, Cyprus_
 
 ##### Helen Thomas
 ### [Veteran American journalist Helen Thomas announces she is retiring, after apologizing for making remarks saying Jews should leave Israel and return to Europe are widely condemned in the United States. ](/news/2010/06/7/veteran-american-journalist-helen-thomas-announces-she-is-retiring-after-apologizing-for-making-remarks-saying-jews-should-leave-israel-and.md)
@@ -79,7 +79,7 @@ _Context: Angela Merkel, her coalition cabinet, Chancellor_
 
 ##### North Korea
 ### [North Korea holds a rare second session of its parliament, with Choe Yong-rim appointed to replace Kim Yong-il as Premier. ](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.md)
-_Context: North Korea, Premier, Kim Yong-il, its parliament, Choe Yong-rim_
+_Context: Premier, Kim Yong-il, North Korea, its parliament, Choe Yong-rim_
 
 ##### maize
 ### [The genetically modified variety of maize known as NK603, outlawed across the European Union, is sown and contaminates fields in seven German states. ](/news/2010/06/7/the-genetically-modified-variety-of-maize-known-as-nk603-outlawed-across-the-european-union-is-sown-and-contaminates-fields-in-seven-germa.md)

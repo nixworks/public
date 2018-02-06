@@ -17,7 +17,7 @@ JAKARTA, Indonesia (AP) — Indonesia&#039;s most wanted Islamic militant was ki
 
 ### Changes:
 
-1. [Indonesian police kill two militants in a clash in a remote jungle area on Sulawesi island. One may be Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, and the country's "most wanted man." Forensic tests will be carried out. Three others, including two women, escaped. ](/news/2016/07/18/indonesian-police-kill-two-militants-in-a-clash-in-a-remote-jungle-area-on-sulawesi-island-one-may-be-abu-wardah-santoso-leader-of-isil-c.md) _2017-08-25 03:46:08 (First version)_
+1. [Indonesian police kill two militants in a clash in a remote jungle area on Sulawesi island. One may be Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, and the country's "most wanted man." Forensic tests will be carried out. Three others, including two women, escaped. ](/news/2016/07/18/indonesian-police-kill-two-militants-in-a-clash-in-a-remote-jungle-area-on-sulawesi-island-one-may-be-abu-wardah-santoso-leader-of-isil-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Indonesian police kill two militants in a clash in a remote jungle area on Sulawesi island. One may be Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, and the country's "most wanted man." Forensic tests will be carried out. Three others, including two women, escaped. ](/news/2016/07/18/indonesian-police-kill-two-militants-in-a-clash-in-a-remote-jungle-area-on-sulawesi-island-one-may-be-abu-wardah-santoso-leader-of-isil-co.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ The number of people known to have been killed by floods in north-west Pakistan 
 
 ### Changes:
 
-1. [Pakistan floodsThe death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floodspthe-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _2017-08-25 03:29:07 (First version)_
-2. [Pakistan floods: The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _2017-08-27 03:29:08 (Update)_
+1. [Pakistan floodsThe death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floodspthe-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _2018-02-06 13:49:20 (First version)_
+2. [Pakistan floods: The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _2018-02-06 13:49:20 (Update)_
 2. [The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _(Current version)_
 
 ### Related:

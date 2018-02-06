@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-ale
 
 ### Changes:
 
-1. [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da-esh-ISIS), Boko Haram, al-Qa-ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-da-esh-isis-bo.md) _2017-08-27 03:44:01 (First version)_
+1. [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da-esh-ISIS), Boko Haram, al-Qa-ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-da-esh-isis-bo.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh-ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-daaesh-isis-bo.md) _(Current version)_
 
 ### Related:

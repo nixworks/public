@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/05/19/chelsea-f-c-wins-the-fa-cup-final-2007-defeatin
 
 ### Changes:
 
-1. [ Chelsea F.C. wins the FA Cup Final 2007, defeating Manchester United 1-0 through a goal by Didier Drogba in extra time. It was the first final played at a rebuilt Wembley Stadium. ](/news/2007/05/19/chelsea-f-c-wins-the-fa-cup-final-2007-defeating-manchester-united-1-0-through-a-goal-by-didier-drogba-in-extra-time-it-was-the-first.md) _2017-08-27 03:19:48 (First version)_
+1. [ Chelsea F.C. wins the FA Cup Final 2007, defeating Manchester United 1-0 through a goal by Didier Drogba in extra time. It was the first final played at a rebuilt Wembley Stadium. ](/news/2007/05/19/chelsea-f-c-wins-the-fa-cup-final-2007-defeating-manchester-united-1-0-through-a-goal-by-didier-drogba-in-extra-time-it-was-the-first.md) _2018-02-06 13:49:17 (First version)_
 1. [ Chelsea F.C. wins the FA Cup Final 2007, defeating Manchester United 1-0 through a goal by Didier Drogba in extra time. It was the first final played at a rebuilt Wembley Stadium. ](/news/2007/05/19/chelsea-f-c-wins-the-fa-cup-final-2007-defeating-manchester-united-1a0-through-a-goal-by-didier-drogba-in-extra-time-it-was-the-first.md) _(Current version)_
 
 ### Related:

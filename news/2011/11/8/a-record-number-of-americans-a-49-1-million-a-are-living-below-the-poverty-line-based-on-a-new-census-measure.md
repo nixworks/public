@@ -15,5 +15,5 @@ Formats: [HTML](/news/2011/11/8/a-record-number-of-americans-a-49-1-million-a-ar
 
 ### Changes:
 
-1. [A record number of Americans - 49.1 million - are living below the poverty line, based on a new census measure. ](/news/2011/11/8/a-record-number-of-americans-49-1-million-are-living-below-the-poverty-line-based-on-a-new-census-measure.md) _2017-08-27 03:34:36 (First version)_
+1. [A record number of Americans - 49.1 million - are living below the poverty line, based on a new census measure. ](/news/2011/11/8/a-record-number-of-americans-49-1-million-are-living-below-the-poverty-line-based-on-a-new-census-measure.md) _2018-02-06 13:49:23 (First version)_
 1. [A record number of Americans -- 49.1 million -- are living below the poverty line, based on a new census measure. ](/news/2011/11/8/a-record-number-of-americans-a-49-1-million-a-are-living-below-the-poverty-line-based-on-a-new-census-measure.md) _(Current version)_

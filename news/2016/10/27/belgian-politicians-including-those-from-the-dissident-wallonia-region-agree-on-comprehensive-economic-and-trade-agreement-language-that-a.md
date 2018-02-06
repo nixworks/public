@@ -16,7 +16,7 @@ Jan Bartunek and Philip Blenkinsop
 
 ### Changes:
 
-1. [Belgian politicians, including those from the dissident Wallonia region, agree on Comprehensive Economic and Trade Agreement language that addresses Walloon concerns. This ends the deadlock on CETA, though the revised text must again be approved by the other 27 EU member states. ](/news/2016/10/27/belgian-politicians-including-those-from-the-dissident-wallonia-region-agree-on-comprehensive-economic-and-trade-agreement-language-that.md) _2017-08-25 03:46:43 (First version)_
+1. [Belgian politicians, including those from the dissident Wallonia region, agree on Comprehensive Economic and Trade Agreement language that addresses Walloon concerns. This ends the deadlock on CETA, though the revised text must again be approved by the other 27 EU member states. ](/news/2016/10/27/belgian-politicians-including-those-from-the-dissident-wallonia-region-agree-on-comprehensive-economic-and-trade-agreement-language-that.md) _2018-02-06 13:49:29 (First version)_
 1. [Belgian politicians, including those from the dissident Wallonia region, agree on Comprehensive Economic and Trade Agreement language that addresses Walloon concerns. This ends the deadlock on CETA, though the revised text must again be approved by the other 27 EU member states. ](/news/2016/10/27/belgian-politicians-including-those-from-the-dissident-wallonia-region-agree-on-comprehensive-economic-and-trade-agreement-language-that-a.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A total of 13.83 crore people will vote in the 7th phase of LS polls in 7 states
 
 ### Changes:
 
-1. [Indian general election: Voting is in progress in 89 constituencies spread across seven states and two union territories.](/news/2014/04/30/indian-general-election-voting-is-in-progress-in-89-constituencies-spread-across-seven-states-and-two-union-territories.md) _2017-08-27 03:40:39 (First version)_
+1. [Indian general election: Voting is in progress in 89 constituencies spread across seven states and two union territories.](/news/2014/04/30/indian-general-election-voting-is-in-progress-in-89-constituencies-spread-across-seven-states-and-two-union-territories.md) _2018-02-06 13:49:26 (First version)_
 1. [Voting is in progress in 89 constituencies spread across seven states and two union territories.](/news/2014/04/30/voting-is-in-progress-in-89-constituencies-spread-across-seven-states-and-two-union-territories.md) _(Current version)_
 
 ### Related:

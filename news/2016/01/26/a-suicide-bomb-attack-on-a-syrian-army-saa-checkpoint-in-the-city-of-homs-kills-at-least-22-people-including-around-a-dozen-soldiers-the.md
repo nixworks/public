@@ -18,7 +18,7 @@ Syrian pro-government forces captured a strategic southern rebel town close to t
 
 ### Changes:
 
-1. [Syrian Civil War: A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/syrian-civil-war-a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-d.md) _2017-08-27 03:44:45 (First version)_
+1. [Syrian Civil War: A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/syrian-civil-war-a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-d.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-dozen-soldiers-the.md) _(Current version)_
 
 ### Related:

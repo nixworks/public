@@ -17,8 +17,8 @@ Syrian security forces enter the city of Homs making a number of arrests, as nat
 
 ### Changes:
 
-1. [2011 Syrian protests:Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-psyrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md) _2017-08-25 03:33:02 (First version)_
-2. [2011 Syrian protests:: Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-syrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md) _2017-08-27 03:33:11 (Update)_
+1. [2011 Syrian protests:: Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-syrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian protests:Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-psyrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md) _2018-02-06 13:49:22 (Update)_
 2. [Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/syrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md) _(Current version)_
 
 ### Related:

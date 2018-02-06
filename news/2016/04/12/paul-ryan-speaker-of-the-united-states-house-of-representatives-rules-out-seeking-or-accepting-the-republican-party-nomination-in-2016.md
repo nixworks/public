@@ -16,7 +16,7 @@ House Speaker Paul Ryan tried Tuesday to put an end “once and for all” to th
 
 ### Changes:
 
-1. [ United States presidential election, 2016: Paul Ryan, Speaker of the United States House of Representatives, rules out seeking or accepting the Republican Party nomination in 2016. ](/news/2016/04/12/united-states-presidential-election-2016-paul-ryan-speaker-of-the-united-states-house-of-representatives-rules-out-seeking-or-accepting.md) _2017-08-27 03:45:35 (First version)_
+1. [ United States presidential election, 2016: Paul Ryan, Speaker of the United States House of Representatives, rules out seeking or accepting the Republican Party nomination in 2016. ](/news/2016/04/12/united-states-presidential-election-2016-paul-ryan-speaker-of-the-united-states-house-of-representatives-rules-out-seeking-or-accepting.md) _2018-02-06 13:49:28 (First version)_
 1. [ Paul Ryan, Speaker of the United States House of Representatives, rules out seeking or accepting the Republican Party nomination in 2016. ](/news/2016/04/12/paul-ryan-speaker-of-the-united-states-house-of-representatives-rules-out-seeking-or-accepting-the-republican-party-nomination-in-2016.md) _(Current version)_
 
 ### Related:

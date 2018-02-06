@@ -16,7 +16,7 @@ A dispute in Okinawa is escalating after the governor of the island refused to r
 
 ### Changes:
 
-1. [Japan-United States relations: Okinawa Governor Takeshi Onaga says he "cannot comply with the recommendation" from Tokyo's Land Minister Keiichi Ishii, and will not retract his revocation of a U.S. military base relocation permit. ](/news/2015/11/6/japan-united-states-relations-okinawa-governor-takeshi-onaga-says-he-cannot-comply-with-the-recommendation-from-tokyo-s-land-minister-k.md) _2017-08-27 03:43:42 (First version)_
+1. [Japan-United States relations: Okinawa Governor Takeshi Onaga says he "cannot comply with the recommendation" from Tokyo's Land Minister Keiichi Ishii, and will not retract his revocation of a U.S. military base relocation permit. ](/news/2015/11/6/japan-united-states-relations-okinawa-governor-takeshi-onaga-says-he-cannot-comply-with-the-recommendation-from-tokyo-s-land-minister-k.md) _2018-02-06 13:49:28 (First version)_
 1. [Okinawa Governor Takeshi Onaga says he "cannot comply with the recommendation" from Tokyo's Land Minister Keiichi Ishii, and will not retract his revocation of a U.S. military base relocation permit. ](/news/2015/11/6/okinawa-governor-takeshi-onaga-says-he-cannot-comply-with-the-recommendation-from-tokyo-s-land-minister-keiichi-ishii-and-will-not-retrac.md) _(Current version)_
 
 ### Related:

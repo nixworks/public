@@ -16,8 +16,8 @@ Formats: [HTML](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-s
 
 ### Changes:
 
-1. [A judge in Turkey charges two reporters and a support worker for ''Vice News'' with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-iraq-and-levant-follo.md) _2017-08-25 03:42:39 (First version)_
-2. [Turkey-PKK conflict: A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/turkey-pkk-conflict-a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-i.md) _2017-08-27 03:42:56 (Update)_
+1. [Turkey-PKK conflict: A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/turkey-pkk-conflict-a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-i.md) _2018-02-06 13:49:27 (First version)_
+2. [A judge in Turkey charges two reporters and a support worker for ''Vice News'' with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-iraq-and-levant-follo.md) _2018-02-06 13:49:27 (Update)_
 2. [A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-iraq-and-levant-followi.md) _(Current version)_
 
 ### Related:

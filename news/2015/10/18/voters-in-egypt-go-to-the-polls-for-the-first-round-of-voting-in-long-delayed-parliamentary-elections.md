@@ -16,7 +16,7 @@ People vote in Egypt in the first round of long-delayed elections to choose a ne
 
 ### Changes:
 
-1. [Egyptian parliamentary election, 2015: Voters in Egypt go to the polls for the first round of voting in long delayed parliamentary elections. ](/news/2015/10/18/egyptian-parliamentary-election-2015-voters-in-egypt-go-to-the-polls-for-the-first-round-of-voting-in-long-delayed-parliamentary-elections.md) _2017-08-27 03:43:23 (First version)_
+1. [Egyptian parliamentary election, 2015: Voters in Egypt go to the polls for the first round of voting in long delayed parliamentary elections. ](/news/2015/10/18/egyptian-parliamentary-election-2015-voters-in-egypt-go-to-the-polls-for-the-first-round-of-voting-in-long-delayed-parliamentary-elections.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Egypt go to the polls for the first round of voting in long delayed parliamentary elections. ](/news/2015/10/18/voters-in-egypt-go-to-the-polls-for-the-first-round-of-voting-in-long-delayed-parliamentary-elections.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Two crew and four passengers evacuated by helicopter after fire forces Amsterdam
 
 ### Changes:
 
-1. [The passenger ferry ''MS King Seaways'', en route from Newcastle, England, to Amsterdam in the Netherlands, catches fire in the North Sea; a man is arrested on suspicion of arson. ](/news/2013/12/29/the-passenger-ferry-ms-king-seaways-en-route-from-newcastle-england-to-amsterdam-in-the-netherlands-catches-fire-in-the-north-sea-a.md) _2017-08-25 03:39:47 (First version)_
+1. [The passenger ferry ''MS King Seaways'', en route from Newcastle, England, to Amsterdam in the Netherlands, catches fire in the North Sea; a man is arrested on suspicion of arson. ](/news/2013/12/29/the-passenger-ferry-ms-king-seaways-en-route-from-newcastle-england-to-amsterdam-in-the-netherlands-catches-fire-in-the-north-sea-a.md) _2018-02-06 13:49:25 (First version)_
 1. [The passenger ferry "MS King Seaways", en route from Newcastle, England, to Amsterdam in the Netherlands, catches fire in the North Sea; a man is arrested on suspicion of arson. ](/news/2013/12/29/the-passenger-ferry-ms-king-seaways-en-route-from-newcastle-england-to-amsterdam-in-the-netherlands-catches-fire-in-the-north-sea-a-m.md) _(Current version)_
 
 ### Related:

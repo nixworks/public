@@ -17,7 +17,7 @@ The episode was not the only case of mistaken identity reported this week in con
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: An Israeli is stabbed by a fellow Israeli Jew, because he is mistaken for an Arab. ](/news/2015/10/15/israeli-palestinian-conflict-an-israeli-is-stabbed-by-a-fellow-israeli-jew-because-he-is-mistaken-for-an-arab.md) _2017-08-27 03:43:21 (First version)_
+1. [Israeli-Palestinian conflict: An Israeli is stabbed by a fellow Israeli Jew, because he is mistaken for an Arab. ](/news/2015/10/15/israeli-palestinian-conflict-an-israeli-is-stabbed-by-a-fellow-israeli-jew-because-he-is-mistaken-for-an-arab.md) _2018-02-06 13:49:27 (First version)_
 1. [An Israeli is stabbed by a fellow Israeli Jew, because he is mistaken for an Arab. ](/news/2015/10/15/an-israeli-is-stabbed-by-a-fellow-israeli-jew-because-he-is-mistaken-for-an-arab.md) _(Current version)_
 
 ### Related:

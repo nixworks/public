@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-miss
 
 ### Changes:
 
-1. [ The U.S. moves forward with plans to base a missile shield for National Missile Defense in the Czech Republic and Poland. In response, Russian officials have claimed they may target the two Eastern European countries. The Russians also claimed they could pull out of the 1987 Intermediate Range Nuclear Forces Treaty. ](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-missile-shield-for-national-missile-defense-in-the-czech-republic-and-poland-in-response-rus.md) _2017-08-25 03:19:14 (First version)_
+1. [ The U.S. moves forward with plans to base a missile shield for National Missile Defense in the Czech Republic and Poland. In response, Russian officials have claimed they may target the two Eastern European countries. The Russians also claimed they could pull out of the 1987 Intermediate Range Nuclear Forces Treaty. ](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-missile-shield-for-national-missile-defense-in-the-czech-republic-and-poland-in-response-rus.md) _2018-02-06 13:49:17 (First version)_
 1. [ The U.S. moves forward with plans to base a missile shield for National Missile Defense in the Czech Republic and Poland. In response, Russian officials have claimed they may target the two Eastern European countries. The Russians also claimed they could pull out of the 1987 Intermediate Range Nuclear Forces Treaty. ](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-missile-shield-for-national-missile-defense-in-the-czech-republic-and-poland-in-response-russ.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [International reactions to Philippines v. China: China threatens the United States regarding the South China Sea and it will not accept a verdict in the Permanent Court of Arbitration. ](/news/2016/07/6/international-reactions-to-philippines-v-china-china-threatens-the-united-states-regarding-the-south-china-sea-and-it-will-not-accept-a-ve.md) _2017-08-27 03:46:25 (First version)_
+1. [International reactions to Philippines v. China: China threatens the United States regarding the South China Sea and it will not accept a verdict in the Permanent Court of Arbitration. ](/news/2016/07/6/international-reactions-to-philippines-v-china-china-threatens-the-united-states-regarding-the-south-china-sea-and-it-will-not-accept-a-ve.md) _2018-02-06 13:49:29 (First version)_
 1. [China threatens the United States regarding the South China Sea and it will not accept a verdict in the Permanent Court of Arbitration. ](/news/2016/07/6/china-threatens-the-united-states-regarding-the-south-china-sea-and-it-will-not-accept-a-verdict-in-the-permanent-court-of-arbitration.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A Royal Navy crewman is killed and another is in a life-threatening condition af
 
 ### Changes:
 
-1. [A crew member shoots two of his crew mates on board the nuclear submarine HMS ''Astute'' at Southampton in Hampshire, England, killing one and sending the other into a life-threatening condition; police dismiss any link to terrorism. ](/news/2011/04/8/a-crew-member-shoots-two-of-his-crew-mates-on-board-the-nuclear-submarine-hms-astute-at-southampton-in-hampshire-england-killing-one-a.md) _2017-08-25 03:32:46 (First version)_
+1. [A crew member shoots two of his crew mates on board the nuclear submarine HMS ''Astute'' at Southampton in Hampshire, England, killing one and sending the other into a life-threatening condition; police dismiss any link to terrorism. ](/news/2011/04/8/a-crew-member-shoots-two-of-his-crew-mates-on-board-the-nuclear-submarine-hms-astute-at-southampton-in-hampshire-england-killing-one-a.md) _2018-02-06 13:49:22 (First version)_
 1. [A crew member shoots two of his crew mates on board the nuclear submarine HMS "Astute" at Southampton in Hampshire, England, killing one and sending the other into a life-threatening condition; police dismiss any link to terrorism. ](/news/2011/04/8/a-crew-member-shoots-two-of-his-crew-mates-on-board-the-nuclear-submarine-hms-astute-at-southampton-in-hampshire-england-killing-one-and.md) _(Current version)_
 
 ### Related:

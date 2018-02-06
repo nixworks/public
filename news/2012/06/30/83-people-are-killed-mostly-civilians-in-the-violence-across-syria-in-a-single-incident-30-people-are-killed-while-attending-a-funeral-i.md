@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/06/30/83-people-are-killed-mostly-civilians-in-the-vi
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/syrian-uprising-2011apresent-p83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are.md) _2017-08-25 03:36:00 (First version)_
-2. [Syrian uprising (2011-present):: 83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/syrian-uprising-2011-present-83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are.md) _2017-08-27 03:36:12 (Update)_
+1. [Syrian uprising (2011-present):83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/syrian-uprising-2011apresent-p83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: 83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/syrian-uprising-2011-present-83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are.md) _2018-02-06 13:49:23 (Update)_
 2. [83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are-killed-while-attending-a-funeral-i.md) _(Current version)_
 
 ### Related:

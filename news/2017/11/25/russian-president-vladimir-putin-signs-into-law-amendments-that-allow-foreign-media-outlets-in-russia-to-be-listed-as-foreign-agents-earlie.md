@@ -17,7 +17,7 @@ Russian President Vladimir Putin signed into law on Saturday new measures allowi
 
 ### Changes:
 
-1. [Russian President Vladmir Putin signs into law amendments that allow foreign media outlets in Russia to be listed as foreign agents, Earlier this month RT America registered as a foreign agent in the United States. ](/news/2017/11/25/russian-president-vladmir-putin-signs-into-law-amendments-that-allow-foreign-media-outlets-in-russia-to-be-listed-as-foreign-agents-earlier.md) _2017-11-26 00:30:05 (First version)_
+1. [Russian President Vladmir Putin signs into law amendments that allow foreign media outlets in Russia to be listed as foreign agents, Earlier this month RT America registered as a foreign agent in the United States. ](/news/2017/11/25/russian-president-vladmir-putin-signs-into-law-amendments-that-allow-foreign-media-outlets-in-russia-to-be-listed-as-foreign-agents-earlier.md) _2018-02-06 13:49:31 (First version)_
 1. [Russian President Vladimir Putin signs into law amendments that allow foreign media outlets in Russia to be listed as foreign agents. Earlier this month, RT America has been forced to be registered as a foreign agent in the United States. ](/news/2017/11/25/russian-president-vladimir-putin-signs-into-law-amendments-that-allow-foreign-media-outlets-in-russia-to-be-listed-as-foreign-agents-earlie.md) _(Current version)_
 
 ### Related:

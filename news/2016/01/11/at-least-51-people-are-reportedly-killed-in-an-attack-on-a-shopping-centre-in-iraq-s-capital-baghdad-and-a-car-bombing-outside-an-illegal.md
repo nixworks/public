@@ -18,7 +18,7 @@ The Islamic State (IS) group says it targeted Shia Muslims at a Baghdad shopping
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least 51 people are reportedly killed in an attack on a shopping centre in Iraq's capital, Baghdad, and a car bombing outside an illegal casino in Miqdadiyah, east of Baghdad, with the Islamic State of Iraq and the Levant claiming responsibility for both attacks. ](/news/2016/01/11/iraqi-civil-war-2014-present-at-least-51-people-are-reportedly-killed-in-an-attack-on-a-shopping-centre-in-iraq-s-capital-baghdad-and.md) _2017-08-27 03:44:38 (First version)_
+1. [Iraqi Civil War (2014-present): At least 51 people are reportedly killed in an attack on a shopping centre in Iraq's capital, Baghdad, and a car bombing outside an illegal casino in Miqdadiyah, east of Baghdad, with the Islamic State of Iraq and the Levant claiming responsibility for both attacks. ](/news/2016/01/11/iraqi-civil-war-2014-present-at-least-51-people-are-reportedly-killed-in-an-attack-on-a-shopping-centre-in-iraq-s-capital-baghdad-and.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 51 people are reportedly killed in an attack on a shopping centre in Iraq's capital, Baghdad, and a car bombing outside an illegal casino in Miqdadiyah, east of Baghdad, with the Islamic State of Iraq and the Levant claiming responsibility for both attacks. ](/news/2016/01/11/at-least-51-people-are-reportedly-killed-in-an-attack-on-a-shopping-centre-in-iraq-s-capital-baghdad-and-a-car-bombing-outside-an-illegal.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/28/oxfam-launches-an-emergency-appeal-for-agbp9-5-
 
 ### Changes:
 
-1. [ Oxfam launches an emergency appeal for PS9.5 million for Ethiopia and other East African countries to fight the worst drought in a decade. ](/news/2009/09/28/oxfam-launches-an-emergency-appeal-for-aps9-5-million-for-ethiopia-and-other-east-african-countries-to-fight-the-worst-drought-in-a-decade.md) _2017-08-25 03:25:54 (First version)_
+1. [ Oxfam launches an emergency appeal for PS9.5 million for Ethiopia and other East African countries to fight the worst drought in a decade. ](/news/2009/09/28/oxfam-launches-an-emergency-appeal-for-aps9-5-million-for-ethiopia-and-other-east-african-countries-to-fight-the-worst-drought-in-a-decade.md) _2018-02-06 13:49:19 (First version)_
 1. [ Oxfam launches an emergency appeal for GBP9.5 million for Ethiopia and other East African countries to fight the worst drought in a decade. ](/news/2009/09/28/oxfam-launches-an-emergency-appeal-for-agbp9-5-million-for-ethiopia-and-other-east-african-countries-to-fight-the-worst-drought-in-a-decade.md) _(Current version)_
 
 ### Related:

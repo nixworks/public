@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/29/the-death-toll-from-a-rocket-attack-on-a-camp-c
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): The death toll from a rocket attack on a camp containing members of an Iranian opposition group next to Baghdad International Airport rises to 23. ](/news/2015/10/29/iraqi-civil-war-2014-present-the-death-toll-from-a-rocket-attack-on-a-camp-containing-members-of-an-iranian-opposition-group-next-to-ba.md) _2017-08-27 03:43:35 (First version)_
+1. [Iraqi Civil War (2014-present): The death toll from a rocket attack on a camp containing members of an Iranian opposition group next to Baghdad International Airport rises to 23. ](/news/2015/10/29/iraqi-civil-war-2014-present-the-death-toll-from-a-rocket-attack-on-a-camp-containing-members-of-an-iranian-opposition-group-next-to-ba.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from a rocket attack on a camp containing members of an Iranian opposition group next to Baghdad International Airport rises to 23. ](/news/2015/10/29/the-death-toll-from-a-rocket-attack-on-a-camp-containing-members-of-an-iranian-opposition-group-next-to-baghdad-international-airport-rises.md) _(Current version)_
 
 ### Related:

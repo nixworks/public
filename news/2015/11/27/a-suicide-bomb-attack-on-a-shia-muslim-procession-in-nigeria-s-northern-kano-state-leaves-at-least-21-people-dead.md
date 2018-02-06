@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/27/a-suicide-bomb-attack-on-a-shia-muslim-processi
 
 ### Changes:
 
-1. [Islamist insurgency in West Africa: A suicide-bomb attack on a Shia Muslim procession in Nigeria's northern Kano state leaves at least 21 people dead. ](/news/2015/11/27/islamist-insurgency-in-west-africa-a-suicide-bomb-attack-on-a-shia-muslim-procession-in-nigeria-s-northern-kano-state-leaves-at-least-21-pe.md) _2017-08-27 03:44:05 (First version)_
+1. [Islamist insurgency in West Africa: A suicide-bomb attack on a Shia Muslim procession in Nigeria's northern Kano state leaves at least 21 people dead. ](/news/2015/11/27/islamist-insurgency-in-west-africa-a-suicide-bomb-attack-on-a-shia-muslim-procession-in-nigeria-s-northern-kano-state-leaves-at-least-21-pe.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide-bomb attack on a Shia Muslim procession in Nigeria's northern Kano state leaves at least 21 people dead. ](/news/2015/11/27/a-suicide-bomb-attack-on-a-shia-muslim-procession-in-nigeria-s-northern-kano-state-leaves-at-least-21-people-dead.md) _(Current version)_
 
 ### Related:

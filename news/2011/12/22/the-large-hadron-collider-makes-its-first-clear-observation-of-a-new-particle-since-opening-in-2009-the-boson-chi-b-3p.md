@@ -16,7 +16,7 @@ The first clear evidence for a new particle at the Large Hadron Collider emerges
 
 ### Changes:
 
-1. [The Large Hadron Collider makes its first clear observation of a new particle since opening in 2009, the boson Chi b 3P. ](/news/2011/12/22/the-large-hadron-collider-makes-its-first-clear-observation-of-a-new-particle-since-opening-in-2009-the-boson-chib-3p.md) _2017-10-02 03:38:34 (First version)_
+1. [The Large Hadron Collider makes its first clear observation of a new particle since opening in 2009, the boson Chi b 3P. ](/news/2011/12/22/the-large-hadron-collider-makes-its-first-clear-observation-of-a-new-particle-since-opening-in-2009-the-boson-chib-3p.md) _2018-02-06 13:49:23 (First version)_
 1. [The Large Hadron Collider makes its first clear observation of a new particle since opening in 2009, the boson Chi b 3P. ](/news/2011/12/22/the-large-hadron-collider-makes-its-first-clear-observation-of-a-new-particle-since-opening-in-2009-the-boson-chi-b-3p.md) _(Current version)_
 
 ### Related:

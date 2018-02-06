@@ -16,7 +16,7 @@ The Chilean government will subsidize the purchase of more fuel-efficient trucks
 
 ### Changes:
 
-1. [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its -Cambia tu Camion- (-Change your Truck-) program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-cambia-tu-camia3n.md) _2017-08-27 03:25:29 (First version)_
+1. [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its -Cambia tu Camion- (-Change your Truck-) program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-cambia-tu-camia3n.md) _2018-02-06 13:49:19 (First version)_
 1. [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its "Cambia tu Camion" ("Change your Truck") program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-acambia-tu-camia3na.md) _(Current version)_
 
 ### Related:

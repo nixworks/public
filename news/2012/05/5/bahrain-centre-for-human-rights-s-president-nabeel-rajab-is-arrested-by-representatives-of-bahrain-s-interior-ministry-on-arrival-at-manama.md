@@ -18,8 +18,8 @@ Nabeel Rajab has been arrested on the eve of his court appearance.
 
 ### Changes:
 
-1. [Arab Spring:Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/arab-spring-pbahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arriv.md) _2017-08-25 03:35:38 (First version)_
-2. [Arab Spring:: Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/arab-spring-bahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arri.md) _2017-08-27 03:35:48 (Update)_
+1. [Arab Spring:Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/arab-spring-pbahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arriv.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/arab-spring-bahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arri.md) _2018-02-06 13:49:23 (Update)_
 2. [Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/bahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arrival-at-manama.md) _(Current version)_
 
 ### Related:

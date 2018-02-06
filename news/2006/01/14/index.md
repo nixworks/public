@@ -9,7 +9,7 @@ _Context: U.S. Figure Skating Championships, Johnny Weir_
 
 ##### Liverpool
 ### [ Liverpool F.C. wins a football match against Tottenham Hotspur F.C. by 1-0. ](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.md)
-_Context: Tottenham Hotspur, Liverpool_
+_Context: Liverpool, Tottenham Hotspur_
 
 ## [Previous Day...](/news/2006/01/13/index.md)
 

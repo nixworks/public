@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/04/10/american-politician-rick-santorum-suspends-his-
 
 ### Changes:
 
-1. [United States presidential election, 2012:American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/united-states-presidential-election-2012-pamerican-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasin.md) _2017-08-25 03:35:28 (First version)_
-2. [United States presidential election, 2012:: American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/united-states-presidential-election-2012-american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasi.md) _2017-08-27 03:35:37 (Update)_
+1. [United States presidential election, 2012:American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/united-states-presidential-election-2012-pamerican-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasin.md) _2018-02-06 13:49:23 (First version)_
+2. [United States presidential election, 2012:: American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/united-states-presidential-election-2012-american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasi.md) _2018-02-06 13:49:23 (Update)_
 2. [American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasing-the-likelihood-that-mitt-romney-will-be-t.md) _(Current version)_
 
 ### Related:

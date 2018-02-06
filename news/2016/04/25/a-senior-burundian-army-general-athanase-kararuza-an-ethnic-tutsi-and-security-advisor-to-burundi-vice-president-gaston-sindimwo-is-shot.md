@@ -16,7 +16,7 @@ A prosecutor said that she had seen reports of killings, disappearances, impriso
 
 ### Changes:
 
-1. [Burundian unrest (2015-present): A senior Burundian Army general, Athanase Kararuza, an ethnic Tutsi and security advisor to Burundi Vice-President Gaston Sindimwo, is shot dead by heavily armed men in the capital Bujumbura. ](/news/2016/04/25/burundian-unrest-2015-present-a-senior-burundian-army-general-athanase-kararuza-an-ethnic-tutsi-and-security-advisor-to-burundi-vice.md) _2017-08-27 03:45:50 (First version)_
+1. [Burundian unrest (2015-present): A senior Burundian Army general, Athanase Kararuza, an ethnic Tutsi and security advisor to Burundi Vice-President Gaston Sindimwo, is shot dead by heavily armed men in the capital Bujumbura. ](/news/2016/04/25/burundian-unrest-2015-present-a-senior-burundian-army-general-athanase-kararuza-an-ethnic-tutsi-and-security-advisor-to-burundi-vice.md) _2018-02-06 13:49:28 (First version)_
 1. [A senior Burundian Army general, Athanase Kararuza, an ethnic Tutsi and security advisor to Burundi Vice-President Gaston Sindimwo, is shot dead by heavily armed men in the capital Bujumbura. ](/news/2016/04/25/a-senior-burundian-army-general-athanase-kararuza-an-ethnic-tutsi-and-security-advisor-to-burundi-vice-president-gaston-sindimwo-is-shot.md) _(Current version)_
 
 ### Related:

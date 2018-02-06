@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Sinai insurgency: A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/sinai-insurgency-a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-peopl.md) _2017-08-27 03:42:13 (First version)_
+1. [Sinai insurgency: A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/sinai-insurgency-a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-peopl.md) _2018-02-06 13:49:27 (First version)_
 1. [A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-people.md) _(Current version)_
 
 ### Related:

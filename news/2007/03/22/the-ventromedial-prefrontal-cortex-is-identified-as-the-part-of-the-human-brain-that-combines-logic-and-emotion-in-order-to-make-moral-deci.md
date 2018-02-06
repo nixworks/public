@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identifie
 
 ### Changes:
 
-1. [ The ventromedial prefrontal cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-dec.md) _2017-08-25 03:19:27 (First version)_
+1. [ The ventromedial prefrontal cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-dec.md) _2018-02-06 13:49:17 (First version)_
 1. [ The ventromedial prefrontal cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-deci.md) _(Current version)_
 
 ### Related:

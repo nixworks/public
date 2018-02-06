@@ -17,8 +17,8 @@ Europe&#39;s robot lab Philae has fallen &quot;silent&quot; on the surface of a 
 
 ### Changes:
 
-1. [Rosetta mission: The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/rosetta-mission-p-the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-contro.md) _2017-08-25 03:42:26 (First version)_
-2. [Rosetta mission:: The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/rosetta-mission-the-philae-lander-on-comet-67p-churyumov-gerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-contro.md) _2017-08-27 03:42:43 (Update)_
+1. [Rosetta mission:: The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/rosetta-mission-the-philae-lander-on-comet-67p-churyumov-gerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-contro.md) _2018-02-06 13:49:27 (First version)_
+2. [Rosetta mission: The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/rosetta-mission-p-the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-contro.md) _2018-02-06 13:49:27 (Update)_
 2. [ The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-control.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ ISIS claims responsibility for bomb attack against Italian consulate in Cairo
 
 ### Changes:
 
-1. [2015 Bombing of the Cairo Italian Consulate: A car bomb explodes outside the Italian consulate in the Egyptian capital Cairo, resulting in at least one death and four people injured; ISIS claims responsibility. ](/news/2015/07/11/2015-bombing-of-the-cairo-italian-consulate-a-car-bomb-explodes-outside-the-italian-consulate-in-the-egyptian-capital-cairo-resulting-in-a.md) _2017-08-27 03:42:41 (First version)_
+1. [2015 Bombing of the Cairo Italian Consulate: A car bomb explodes outside the Italian consulate in the Egyptian capital Cairo, resulting in at least one death and four people injured; ISIS claims responsibility. ](/news/2015/07/11/2015-bombing-of-the-cairo-italian-consulate-a-car-bomb-explodes-outside-the-italian-consulate-in-the-egyptian-capital-cairo-resulting-in-a.md) _2018-02-06 13:49:27 (First version)_
 1. [A car bomb explodes outside the Italian consulate in the Egyptian capital Cairo, resulting in at least one death and four people injured; ISIS claims responsibility. ](/news/2015/07/11/a-car-bomb-explodes-outside-the-italian-consulate-in-the-egyptian-capital-cairo-resulting-in-at-least-one-death-and-four-people-injured-is.md) _(Current version)_
 
 ### Related:

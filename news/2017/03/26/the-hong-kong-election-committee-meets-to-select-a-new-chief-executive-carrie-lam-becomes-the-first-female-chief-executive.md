@@ -17,7 +17,7 @@ A committee will decide Hong Kong&rsquo;s new leader on Sunday in the first chie
 
 ### Changes:
 
-1. [Hong Kong Chief Executive election, 2017: The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/hong-kong-chief-executive-election-2017-the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-fir.md) _2017-08-27 03:48:03 (First version)_
+1. [Hong Kong Chief Executive election, 2017: The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/hong-kong-chief-executive-election-2017-the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-fir.md) _2018-02-06 13:49:30 (First version)_
 1. [The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-first-female-chief-executive.md) _(Current version)_
 
 ### Related:

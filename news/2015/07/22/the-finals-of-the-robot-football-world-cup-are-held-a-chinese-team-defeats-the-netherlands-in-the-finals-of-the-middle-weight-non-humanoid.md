@@ -17,7 +17,7 @@ Football playing robots built by researchers at Eindhoven University have lost t
 
 ### Changes:
 
-1. [ The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. ](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-held-a-chinese-team-defeats-the-netherlands-in-the-finals-of-the-middle-weight-non-humanoi.md) _2017-08-25 03:42:27 (First version)_
+1. [ The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. ](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-held-a-chinese-team-defeats-the-netherlands-in-the-finals-of-the-middle-weight-non-humanoi.md) _2018-02-06 13:49:27 (First version)_
 1. [ The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. ](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-held-a-chinese-team-defeats-the-netherlands-in-the-finals-of-the-middle-weight-non-humanoid.md) _(Current version)_
 
 ### Related:

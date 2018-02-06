@@ -19,8 +19,8 @@ Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served 
 
 ### Changes:
 
-1. [Occupy Wall Street movement:In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/occupy-wall-street-movement-pin-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making.md) _2017-08-25 03:34:22 (First version)_
-2. [Occupy Wall Street movement:: In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/occupy-wall-street-movement-in-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making.md) _2017-08-27 03:34:32 (Update)_
+1. [Occupy Wall Street movement:In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/occupy-wall-street-movement-pin-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making.md) _2018-02-06 13:49:23 (First version)_
+2. [Occupy Wall Street movement:: In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/occupy-wall-street-movement-in-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making.md) _2018-02-06 13:49:23 (Update)_
 2. [In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/in-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making-numerous-arrests.md) _(Current version)_
 
 ### Related:

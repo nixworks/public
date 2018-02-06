@@ -17,7 +17,7 @@ Finance ministers from the UN Security Council on Thursday unanimously backed a 
 
 ### Changes:
 
-1. [The United Nations Security Council unanimously adopts a resolution aimed at disrupting revenue the Islamic State gets from oil sales, ransom payments, and other criminal activities. ](/news/2015/12/17/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-disrupting-revenue-the-islamic-state-gets-from-oil-sales-ranso.md) _2017-10-17 03:51:12 (First version)_
+1. [The United Nations Security Council unanimously adopts a resolution aimed at disrupting revenue the Islamic State gets from oil sales, ransom payments, and other criminal activities. ](/news/2015/12/17/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-disrupting-revenue-the-islamic-state-gets-from-oil-sales-ranso.md) _2018-02-06 13:49:28 (First version)_
 1. [ The United Nations Security Council unanimously adopts a resolution aimed at disrupting revenue the Islamic State gets from oil sales, ransom payments, and other criminal activities. ](/news/2015/12/17/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-disrupting-revenue-the-islamic-state-gets-from-oil-sales-rans.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-target
 
 ### Changes:
 
-1. [Syrian Civil War: Israel-Syria relations: Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/syrian-civil-war-israel-syria-relations-israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-aft.md) _2017-08-27 03:46:24 (First version)_
+1. [Syrian Civil War: Israel-Syria relations: Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/syrian-civil-war-israel-syria-relations-israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-aft.md) _2018-02-06 13:49:29 (First version)_
 1. [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md) _(Current version)_
 
 ### Related:

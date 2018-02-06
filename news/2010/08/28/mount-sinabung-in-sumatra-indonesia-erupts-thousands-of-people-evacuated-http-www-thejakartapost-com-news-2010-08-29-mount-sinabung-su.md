@@ -11,7 +11,7 @@ Formats: [HTML](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thou
 
 ### Changes:
 
-1. [Mount Sinabung in Sumatra, Indonesia, erupts. Thousands of people evacuated.](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thousands-of-people-evacuated.md) _2017-08-25 03:29:43 (First version)_
+1. [Mount Sinabung in Sumatra, Indonesia, erupts. Thousands of people evacuated.](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thousands-of-people-evacuated.md) _2018-02-06 13:49:20 (First version)_
 1. [Mount Sinabung in Sumatra, Indonesia, erupts. Thousands of people evacuated.[http:--www.thejakartapost.com-news-2010-08-29-mount-sinabung-sumatra-erupts.html (The Jakarta Post)] (Wikinews)](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thousands-of-people-evacuated-http-www-thejakartapost-com-news-2010-08-29-mount-sinabung-su.md) _(Current version)_
 
 ### Related:

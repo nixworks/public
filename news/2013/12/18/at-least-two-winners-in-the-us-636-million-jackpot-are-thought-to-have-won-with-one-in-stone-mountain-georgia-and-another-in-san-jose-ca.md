@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/18/at-least-two-winners-in-the-us-636-million-jack
 
 ### Changes:
 
-1. [Mega Millions lottery:At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-pat-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md) _2017-08-25 03:39:43 (First version)_
-2. [Mega Millions lottery:: At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md) _2017-08-27 03:40:01 (Update)_
+1. [Mega Millions lottery:At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-pat-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md) _2018-02-06 13:49:25 (First version)_
+2. [Mega Millions lottery:: At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md) _2018-02-06 13:49:25 (Update)_
 2. [At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and-another-in-san-jose-ca.md) _(Current version)_
 
 ### Related:

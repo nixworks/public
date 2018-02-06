@@ -17,7 +17,7 @@ It projects 702 million people or 9.6% of the world’s population will be livin
 
 ### Changes:
 
-1. [The World Bank estimates that 9.6 percent of the world-s population is living in extreme poverty this year, down from 12.8% in 2012. The bank also updated its global poverty line from $1.25 per day to $1.90 per day to reflect inflation and changes in purchasing power around the world; it was last adjusted in 2008. ](/news/2015/10/5/the-world-bank-estimates-that-9-6-percent-of-the-world-s-population-is-living-in-extreme-poverty-this-year-down-from-12-8-in-2012-the-b.md) _2017-08-27 03:43:14 (First version)_
+1. [The World Bank estimates that 9.6 percent of the world-s population is living in extreme poverty this year, down from 12.8% in 2012. The bank also updated its global poverty line from $1.25 per day to $1.90 per day to reflect inflation and changes in purchasing power around the world; it was last adjusted in 2008. ](/news/2015/10/5/the-world-bank-estimates-that-9-6-percent-of-the-world-s-population-is-living-in-extreme-poverty-this-year-down-from-12-8-in-2012-the-b.md) _2018-02-06 13:49:28 (First version)_
 1. [The World Bank estimates that 9.6 percent of the world's population is living in extreme poverty this year, down from 12.8% in 2012. The bank also updated its global poverty line from $1.25 per day to $1.90 per day to reflect inflation and changes in purchasing power around the world; it was last adjusted in 2008. ](/news/2015/10/5/the-world-bank-estimates-that-9-6-percent-of-the-worldas-population-is-living-in-extreme-poverty-this-year-down-from-12-8-in-2012-the-b.md) _(Current version)_
 
 ### Related:

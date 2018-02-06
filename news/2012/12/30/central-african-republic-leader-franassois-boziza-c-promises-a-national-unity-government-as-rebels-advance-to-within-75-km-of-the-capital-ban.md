@@ -17,8 +17,8 @@ Central African Republic leader Francois Bozize promises a national unity govern
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/2012-central-african-republic-rebellion-pcentral-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels-a.md) _2017-08-25 03:37:09 (First version)_
-2. [2012 Central African Republic rebellion:: Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/2012-central-african-republic-rebellion-central-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels.md) _2017-08-27 03:37:20 (Update)_
+1. [2012 Central African Republic rebellion:Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/2012-central-african-republic-rebellion-pcentral-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels-a.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:: Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/2012-central-african-republic-rebellion-central-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels.md) _2018-02-06 13:49:24 (Update)_
 2. [Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/central-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels-advance-to-within-75-km-of-the-capital-ban.md) _(Current version)_
 
 ### Related:

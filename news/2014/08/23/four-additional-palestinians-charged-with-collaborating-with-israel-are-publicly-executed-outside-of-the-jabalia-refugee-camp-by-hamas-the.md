@@ -17,7 +17,7 @@ Tayeb Abdel Rahim calls killings of suspected collaborators with Israel &#8216;c
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: Four additional Palestinians charged with collaborating with Israel are publicly executed outside of the Jabalia refugee camp by Hamas; the killings are denounced by the secretary-general of the PA, Tayeb Abdel Rahim, who compared them to ISIS. ](/news/2014/08/23/2014-israel-gaza-conflict-four-additional-palestinians-charged-with-collaborating-with-israel-are-publicly-executed-outside-of-the-jabalia.md) _2017-08-27 03:41:11 (First version)_
+1. [2014 Israel-Gaza conflict: Four additional Palestinians charged with collaborating with Israel are publicly executed outside of the Jabalia refugee camp by Hamas; the killings are denounced by the secretary-general of the PA, Tayeb Abdel Rahim, who compared them to ISIS. ](/news/2014/08/23/2014-israel-gaza-conflict-four-additional-palestinians-charged-with-collaborating-with-israel-are-publicly-executed-outside-of-the-jabalia.md) _2018-02-06 13:49:26 (First version)_
 1. [Four additional Palestinians charged with collaborating with Israel are publicly executed outside of the Jabalia refugee camp by Hamas; the killings are denounced by the secretary-general of the PA, Tayeb Abdel Rahim, who compared them to ISIS. ](/news/2014/08/23/four-additional-palestinians-charged-with-collaborating-with-israel-are-publicly-executed-outside-of-the-jabalia-refugee-camp-by-hamas-the.md) _(Current version)_
 
 ### Related:

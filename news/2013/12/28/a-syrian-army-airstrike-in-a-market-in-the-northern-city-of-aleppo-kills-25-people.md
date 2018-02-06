@@ -17,8 +17,8 @@ A Syrian army air strike on a vegetable market in the northern city of Aleppo ki
 
 ### Changes:
 
-1. [Syrian Civil War:A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/syrian-civil-war-pa-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md) _2017-08-25 03:39:47 (First version)_
-2. [Syrian Civil War:: A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/syrian-civil-war-a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md) _2017-08-27 03:40:05 (Update)_
+1. [Syrian Civil War:A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/syrian-civil-war-pa-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/syrian-civil-war-a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md) _2018-02-06 13:49:25 (Update)_
 2. [A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md) _(Current version)_
 
 ### Related:

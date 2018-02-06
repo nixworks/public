@@ -16,8 +16,8 @@ Security forces pulled back after seizing control of a large section of the squa
 
 ### Changes:
 
-1. [Euromaidan:Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-ppolice-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _2017-08-25 03:39:40 (First version)_
-2. [Euromaidan:: Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _2017-08-27 03:39:57 (Update)_
+1. [Euromaidan:Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-ppolice-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _2018-02-06 13:49:25 (First version)_
+2. [Euromaidan:: Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _2018-02-06 13:49:25 (Update)_
 2. [Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md) _(Current version)_
 
 ### Related:

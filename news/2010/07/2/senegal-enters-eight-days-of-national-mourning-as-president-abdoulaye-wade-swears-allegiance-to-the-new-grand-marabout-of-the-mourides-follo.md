@@ -21,7 +21,7 @@ At least 17 people killed in fighting between government forces and rebels.
 
 ### Changes:
 
-1. [Africa: Senegal enters eight days of national mourning as President Abdoulaye Wade swears allegiance to the new Grand Marabout of the Mourides following the death of his predecessor, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/2/africa-senegal-enters-eight-days-of-national-mourning-as-president-abdoulaye-wade-swears-allegiance-to-the-new-grand-marabout-of-the-mourid.md) _2017-08-27 03:28:32 (First version)_
+1. [Africa: Senegal enters eight days of national mourning as President Abdoulaye Wade swears allegiance to the new Grand Marabout of the Mourides following the death of his predecessor, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/2/africa-senegal-enters-eight-days-of-national-mourning-as-president-abdoulaye-wade-swears-allegiance-to-the-new-grand-marabout-of-the-mourid.md) _2018-02-06 13:49:20 (First version)_
 1. [Senegal enters eight days of national mourning as President Abdoulaye Wade swears allegiance to the new Grand Marabout of the Mourides following the death of his predecessor, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/2/senegal-enters-eight-days-of-national-mourning-as-president-abdoulaye-wade-swears-allegiance-to-the-new-grand-marabout-of-the-mourides-follo.md) _(Current version)_
 
 ### Related:

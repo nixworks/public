@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-h
 
 ### Changes:
 
-1. [Northern Mali conflict:A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-pa-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2017-08-25 03:41:25 (First version)_
-2. [Northern Mali conflict:: A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2017-08-27 03:41:43 (Update)_
+1. [Northern Mali conflict:A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-pa-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2018-02-06 13:49:26 (First version)_
+2. [Northern Mali conflict:: A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2018-02-06 13:49:26 (Update)_
 2. [A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _(Current version)_
 
 ### Related:

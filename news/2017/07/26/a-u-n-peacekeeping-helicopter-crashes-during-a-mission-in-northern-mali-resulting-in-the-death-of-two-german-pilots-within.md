@@ -16,7 +16,7 @@ Two German army pilots have died after their helicopter crashed near Gao, easter
 
 ### Changes:
 
-1. [Northern Mali conflict: A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/northern-mali-conflict-a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilot.md) _2017-08-27 03:48:43 (First version)_
+1. [Northern Mali conflict: A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/northern-mali-conflict-a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilot.md) _2018-02-06 13:49:30 (First version)_
 1. [A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilots-within.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/06/4/two-red-cross-aid-workers-are-found-dead-after-b
 
 ### Changes:
 
-1. [ ''Sri Lankan Civil War:'' Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-p-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-poli.md) _2017-08-25 03:19:56 (First version)_
-2. [ "Sri Lankan Civil War:": Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md) _2017-08-27 03:19:54 (Update)_
+1. [ "Sri Lankan Civil War:": Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md) _2018-02-06 13:49:17 (First version)_
+2. [ ''Sri Lankan Civil War:'' Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-p-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-poli.md) _2018-02-06 13:49:17 (Update)_
 2. [ Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/05/12/the-dow-jones-industrial-average-and-s-p-500-hi
 
 ### Changes:
 
-1. [The Dow Jones Industrial Average and S&P 500 hit record highs. ](/news/2014/05/12/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs.md) _2017-08-25 03:40:23 (First version)_
+1. [The Dow Jones Industrial Average and S&P 500 hit record highs. ](/news/2014/05/12/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs.md) _2018-02-06 13:49:26 (First version)_
 1. [The Dow Jones Industrial Average and S&P 500 hit record highs. [http:--time.com-96738-us-stock-market-record-high-monday- "(TIME)"]](/news/2014/05/12/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs-http-time-com-96738-us-stock-market-record-high-monday-time.md) _(Current version)_
 
 ### Related:

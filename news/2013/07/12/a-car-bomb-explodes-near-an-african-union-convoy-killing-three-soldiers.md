@@ -16,6 +16,6 @@ MOGADISHU, July 12 - At least three people were killed Friday when a car bomb ta
 
 ### Changes:
 
-1. [War in Somalia (2009-present):A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009apresent-pa-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md) _2017-08-25 03:38:59 (First version)_
-2. [War in Somalia (2009-present):: A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009-present-a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md) _2017-08-27 03:39:14 (Update)_
+1. [War in Somalia (2009-present):A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009apresent-pa-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009-present-a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md) _2018-02-06 13:49:25 (Update)_
 2. [A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md) _(Current version)_

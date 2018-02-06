@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/11/a-candidate-for-election-in-pakistan-is-attacke
 
 ### Changes:
 
-1. [War in North-West Pakistan:A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/war-in-north-west-pakistan-pa-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md) _2017-08-25 03:38:17 (First version)_
-2. [War in North-West Pakistan:: A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/war-in-north-west-pakistan-a-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md) _2017-08-27 03:38:28 (Update)_
+1. [War in North-West Pakistan:A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/war-in-north-west-pakistan-pa-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/war-in-north-west-pakistan-a-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md) _2018-02-06 13:49:24 (Update)_
 2. [A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/a-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/28/taiwan-prepares-for-the-impact-of-typhoon-dujua
 
 ### Changes:
 
-1. [2015 Pacific typhoon season: Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/2015-pacific-typhoon-season-taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-isla.md) _2017-08-27 03:43:10 (First version)_
+1. [2015 Pacific typhoon season: Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/2015-pacific-typhoon-season-taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-isla.md) _2018-02-06 13:49:27 (First version)_
 1. [Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-islands-ahead-of-this.md) _(Current version)_
 
 ### Related:

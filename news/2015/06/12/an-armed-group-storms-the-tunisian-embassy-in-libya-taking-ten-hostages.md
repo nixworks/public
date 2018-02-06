@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-l
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/libyan-civil-war-2014-present-an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md) _2017-08-27 03:42:31 (First version)_
+1. [Libyan Civil War (2014-present): An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/libyan-civil-war-2014-present-an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md) _2018-02-06 13:49:27 (First version)_
 1. [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md) _(Current version)_
 
 ### Related:

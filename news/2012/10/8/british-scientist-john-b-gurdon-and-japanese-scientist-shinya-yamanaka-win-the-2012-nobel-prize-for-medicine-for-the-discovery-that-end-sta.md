@@ -16,7 +16,7 @@ Scientists from Britain and Japan shared a Nobel Prize on Monday for the discove
 
 ### Changes:
 
-1. [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-st.md) _2017-08-25 03:36:40 (First version)_
+1. [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-st.md) _2018-02-06 13:49:24 (First version)_
 1. [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-sta.md) _(Current version)_
 
 ### Related:

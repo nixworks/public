@@ -17,7 +17,7 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 
 ### Changes:
 
-1. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 dave days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-dave-days-detention-for-organizing.md) _2017-12-07 00:30:04 (First version)_
+1. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 dave days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-dave-days-detention-for-organizing.md) _2018-02-06 13:49:31 (First version)_
 1. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md) _(Current version)_
 
 ### Related:

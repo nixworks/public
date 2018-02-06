@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/8/syrian-rebels-with-backing-from-the-turkish-arme
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian rebels, with backing from the Turkish Armed Forces, advance on ISIL-held al-Bab, capturing the outskirts of the town. ](/news/2017/02/8/syrian-civil-war-syrian-rebels-with-backing-from-the-turkish-armed-forces-advance-on-isil-held-al-bab-capturing-the-outskirts-of-the-tow.md) _2017-08-27 03:47:47 (First version)_
+1. [Syrian Civil War: Syrian rebels, with backing from the Turkish Armed Forces, advance on ISIL-held al-Bab, capturing the outskirts of the town. ](/news/2017/02/8/syrian-civil-war-syrian-rebels-with-backing-from-the-turkish-armed-forces-advance-on-isil-held-al-bab-capturing-the-outskirts-of-the-tow.md) _2018-02-06 13:49:30 (First version)_
 1. [Syrian rebels, with backing from the Turkish Armed Forces, advance on ISIL-held al-Bab, capturing the outskirts of the town. ](/news/2017/02/8/syrian-rebels-with-backing-from-the-turkish-armed-forces-advance-on-isil-held-al-bab-capturing-the-outskirts-of-the-town.md) _(Current version)_
 
 ### Related:

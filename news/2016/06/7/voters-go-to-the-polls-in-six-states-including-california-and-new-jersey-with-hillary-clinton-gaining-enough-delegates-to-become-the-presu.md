@@ -20,7 +20,7 @@ U.S. presidential candidates Hillary Clinton and Donald Trump kicked off a fierc
 
 ### Changes:
 
-1. [United States presidential election, 2016: Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/united-states-presidential-election-2016-voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-g.md) _2017-08-27 03:46:13 (First version)_
+1. [United States presidential election, 2016: Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/united-states-presidential-election-2016-voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-g.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md) _(Current version)_
 
 ### Related:

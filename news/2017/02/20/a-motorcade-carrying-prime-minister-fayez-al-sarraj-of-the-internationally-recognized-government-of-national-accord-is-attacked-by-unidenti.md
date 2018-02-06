@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/20/a-motorcade-carrying-prime-minister-fayez-al-sa
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/libyan-civil-war-2014-present-a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-natio.md) _2017-08-27 03:47:51 (First version)_
+1. [Libyan Civil War (2014-present): A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/libyan-civil-war-2014-present-a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-natio.md) _2018-02-06 13:49:30 (First version)_
 1. [A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-national-accord-is-attacked-by-unidenti.md) _(Current version)_
 
 ### Related:

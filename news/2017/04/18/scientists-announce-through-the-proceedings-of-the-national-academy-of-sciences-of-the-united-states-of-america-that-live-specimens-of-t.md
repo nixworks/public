@@ -16,7 +16,7 @@ Scientists find live specimens of the giant shipworm, described as &quot;rare an
 
 ### Changes:
 
-1. [Scientists announce, through the ''Proceedings of the National Academy of Sciences of the United States of America'', that live specimens of the rare ''Kuphus polythalamia'' (giant shipworm) have been discovered for the first time in the Philippines. ](/news/2017/04/18/scientists-announce-through-the-proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-that-live-specimens-of.md) _2017-08-25 03:47:45 (First version)_
+1. [Scientists announce, through the ''Proceedings of the National Academy of Sciences of the United States of America'', that live specimens of the rare ''Kuphus polythalamia'' (giant shipworm) have been discovered for the first time in the Philippines. ](/news/2017/04/18/scientists-announce-through-the-proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-that-live-specimens-of.md) _2018-02-06 13:49:30 (First version)_
 1. [Scientists announce, through the "Proceedings of the National Academy of Sciences of the United States of America", that live specimens of the rare "Kuphus polythalamia" (giant shipworm) have been discovered for the first time in the Philippines. ](/news/2017/04/18/scientists-announce-through-the-proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-that-live-specimens-of-t.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Exclusive: Secret interrogation facility reveals creeping aspects of war on terr
 
 ### Changes:
 
-1. [''The Guardian'' publishes articles alleging that the Chicago Police Department have been running a black site at Homan Square for detained Americans; former justice officials call for investigation. The CPD denies the allegations. ](/news/2015/02/26/the-guardian-publishes-articles-alleging-that-the-chicago-police-department-have-been-running-a-black-site-at-homan-square-for-detained.md) _2017-08-25 03:41:42 (First version)_
+1. [''The Guardian'' publishes articles alleging that the Chicago Police Department have been running a black site at Homan Square for detained Americans; former justice officials call for investigation. The CPD denies the allegations. ](/news/2015/02/26/the-guardian-publishes-articles-alleging-that-the-chicago-police-department-have-been-running-a-black-site-at-homan-square-for-detained.md) _2018-02-06 13:49:26 (First version)_
 1. ["The Guardian" publishes articles alleging that the Chicago Police Department have been running a black site at Homan Square for detained Americans; former justice officials call for investigation. The CPD denies the allegations. ](/news/2015/02/26/the-guardian-publishes-articles-alleging-that-the-chicago-police-department-have-been-running-a-black-site-at-homan-square-for-detained-am.md) _(Current version)_
 
 ### Related:

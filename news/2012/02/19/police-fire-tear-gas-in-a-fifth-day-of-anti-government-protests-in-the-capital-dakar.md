@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/02/19/police-fire-tear-gas-in-a-fifth-day-of-anti-gov
 
 ### Changes:
 
-1. [2012 Senegalese protests:Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-ppolice-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _2017-08-25 03:35:05 (First version)_
-2. [2012 Senegalese protests:: Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _2017-08-27 03:35:14 (Update)_
+1. [2012 Senegalese protests:Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-ppolice-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Senegalese protests:: Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _2018-02-06 13:49:23 (Update)_
 2. [Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md) _(Current version)_
 
 ### Related:

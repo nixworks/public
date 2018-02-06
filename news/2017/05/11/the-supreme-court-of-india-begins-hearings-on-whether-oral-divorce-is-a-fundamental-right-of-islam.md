@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-w
 
 ### Changes:
 
-1. [The Supreme Court of India beings hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-beings-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md) _2017-05-11 12:30:05 (First version)_
-2. [Triple Talaq in India: The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/triple-talaq-in-india-the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md) _2017-08-27 03:48:19 (Update)_
+1. [Triple Talaq in India: The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/triple-talaq-in-india-the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md) _2018-02-06 13:49:30 (First version)_
+2. [The Supreme Court of India beings hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-beings-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md) _2018-02-06 13:49:30 (Update)_
 2. [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md) _(Current version)_
 
 ### Related:

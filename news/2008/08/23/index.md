@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/23/index.html)  [JSON](2008/08/23/index.json)  [XML](200
 
 ##### War in Somalia (2006-09)
 ### [ Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md)
-_Context: Elasha, Somalia, War in Somalia (2006-09)_
+_Context: War in Somalia (2006-09), Somalia, Elasha_
 
 ##### War in North-West Pakistan
 ### [ A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-more.md)
@@ -25,11 +25,11 @@ _Context: Moab, Utah, USA, King Air A-100_
 
 ##### United States
 ### [ The United States Department of Health and Human Services announces plans to implement a rule that would protect healthcare workers from being fired or otherwise penalized for refusing to provide services they find morally objectionable, such as performing abortions or dispensing contraception. ](/news/2008/08/23/the-united-states-department-of-health-and-human-services-announces-plans-to-implement-a-rule-that-would-protect-healthcare-workers-from-be.md)
-_Context: U.S. Health and Human Services Department's, United States, abortion, contraception_
+_Context: United States, U.S. Health and Human Services Department's, abortion, contraception_
 
 ##### 2008
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
-_Context: United States Senate, Joe Biden, 2008, running mate, Barack Obama_
+_Context: United States Senate, Barack Obama, 2008, running mate, Joe Biden_
 
 ## [Previous Day...](/news/2008/08/22/index.md)
 

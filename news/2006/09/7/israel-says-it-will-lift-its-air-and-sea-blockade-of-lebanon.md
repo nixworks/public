@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/7/israel-says-it-will-lift-its-air-and-sea-blockad
 
 ### Changes:
 
-1. [2006 Israel-Lebanon conflict: Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/2006-israel-lebanon-conflict-israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md) _2017-08-27 03:18:15 (First version)_
+1. [2006 Israel-Lebanon conflict: Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/2006-israel-lebanon-conflict-israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md) _2018-02-06 13:49:17 (First version)_
 1. [Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md) _(Current version)_
 
 ### Related:

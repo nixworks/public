@@ -17,7 +17,7 @@ Inquiry looking into press standards told ex-editor of News of the World tabloid
 
 ### Changes:
 
-1. [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct ''News of the World'' tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tablo.md) _2017-08-25 03:35:39 (First version)_
+1. [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct ''News of the World'' tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tablo.md) _2018-02-06 13:49:23 (First version)_
 1. [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct "News of the World" tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tabloid.md) _(Current version)_
 
 ### Related:

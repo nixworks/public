@@ -16,7 +16,7 @@ The man swam with foam attached to his shoulders to help him stay afloat, offici
 
 ### Changes:
 
-1. [North Korean defectors: A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/north-korean-defectors-a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection.md) _2017-08-27 03:48:30 (First version)_
+1. [North Korean defectors: A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/north-korean-defectors-a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection.md) _2018-02-06 13:49:30 (First version)_
 1. [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md) _(Current version)_
 
 ### Related:

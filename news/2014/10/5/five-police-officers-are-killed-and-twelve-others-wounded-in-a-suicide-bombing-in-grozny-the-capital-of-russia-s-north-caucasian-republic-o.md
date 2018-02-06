@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/10/5/five-police-officers-are-killed-and-twelve-other
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. ](/news/2014/10/5/insurgency-in-the-north-caucasus-pfive-police-officers-are-killed-and-twelve-others-wounded-in-a-suicide-bombing-in-grozny-the-capital-of-r.md) _2017-08-25 03:41:03 (First version)_
-2. [Insurgency in the North Caucasus:: Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. ](/news/2014/10/5/insurgency-in-the-north-caucasus-five-police-officers-are-killed-and-twelve-others-wounded-in-a-suicide-bombing-in-grozny-the-capital-of.md) _2017-08-27 03:41:21 (Update)_
+1. [Insurgency in the North Caucasus:Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. ](/news/2014/10/5/insurgency-in-the-north-caucasus-pfive-police-officers-are-killed-and-twelve-others-wounded-in-a-suicide-bombing-in-grozny-the-capital-of-r.md) _2018-02-06 13:49:26 (First version)_
+2. [Insurgency in the North Caucasus:: Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. ](/news/2014/10/5/insurgency-in-the-north-caucasus-five-police-officers-are-killed-and-twelve-others-wounded-in-a-suicide-bombing-in-grozny-the-capital-of.md) _2018-02-06 13:49:26 (Update)_
 2. [Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. ](/news/2014/10/5/five-police-officers-are-killed-and-twelve-others-wounded-in-a-suicide-bombing-in-grozny-the-capital-of-russia-s-north-caucasian-republic-o.md) _(Current version)_
 
 ### Related:

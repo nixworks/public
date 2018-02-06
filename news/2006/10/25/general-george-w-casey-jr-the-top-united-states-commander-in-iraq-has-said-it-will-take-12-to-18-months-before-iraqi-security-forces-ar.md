@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/25/general-george-w-casey-jr-the-top-united-states
 
 ### Changes:
 
-1. [ General George William Casey Jr., the top United States commander in Iraq has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-william-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-force.md) _2017-10-17 03:21:36 (First version)_
+1. [ General George William Casey Jr., the top United States commander in Iraq has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-william-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-force.md) _2018-02-06 13:49:17 (First version)_
 1. [ General George W. Casey Jr., the top United States commander in Iraq, has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-w-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-forces-ar.md) _(Current version)_
 
 ### Related:

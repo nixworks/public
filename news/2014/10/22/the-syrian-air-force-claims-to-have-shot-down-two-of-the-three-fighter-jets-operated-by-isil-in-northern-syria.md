@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/22/the-syrian-air-force-claims-to-have-shot-down-t
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The Syrian Air Force claims to have shot down two of the three fighter jets operated by ISIL in northern Syria. ](/news/2014/10/22/islamic-state-of-iraq-and-the-levant-the-syrian-air-force-claims-to-have-shot-down-two-of-the-three-fighter-jets-operated-by-isil-in-northe.md) _2017-08-27 03:41:25 (First version)_
+1. [Islamic State of Iraq and the Levant: The Syrian Air Force claims to have shot down two of the three fighter jets operated by ISIL in northern Syria. ](/news/2014/10/22/islamic-state-of-iraq-and-the-levant-the-syrian-air-force-claims-to-have-shot-down-two-of-the-three-fighter-jets-operated-by-isil-in-northe.md) _2018-02-06 13:49:26 (First version)_
 1. [The Syrian Air Force claims to have shot down two of the three fighter jets operated by ISIL in northern Syria. ](/news/2014/10/22/the-syrian-air-force-claims-to-have-shot-down-two-of-the-three-fighter-jets-operated-by-isil-in-northern-syria.md) _(Current version)_
 
 ### Related:

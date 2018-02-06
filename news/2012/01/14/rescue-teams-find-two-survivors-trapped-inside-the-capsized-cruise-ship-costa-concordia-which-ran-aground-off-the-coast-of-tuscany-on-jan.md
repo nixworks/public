@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-
 
 ### Changes:
 
-1. [Rescue teams find two survivors trapped inside the capsized cruise ship ''Costa Concordia'', which ran aground off the coast of Tuscany on January 13, killing at least three people. The ship's captain is detained by police for questioning. ](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-the-capsized-cruise-ship-costa-concordia-which-ran-aground-off-the-coast-of-tuscany-on-j.md) _2017-08-25 03:34:50 (First version)_
+1. [Rescue teams find two survivors trapped inside the capsized cruise ship ''Costa Concordia'', which ran aground off the coast of Tuscany on January 13, killing at least three people. The ship's captain is detained by police for questioning. ](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-the-capsized-cruise-ship-costa-concordia-which-ran-aground-off-the-coast-of-tuscany-on-j.md) _2018-02-06 13:49:23 (First version)_
 1. [Rescue teams find two survivors trapped inside the capsized cruise ship "Costa Concordia", which ran aground off the coast of Tuscany on January 13, killing at least three people. The ship's captain is detained by police for questioning. ](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-the-capsized-cruise-ship-costa-concordia-which-ran-aground-off-the-coast-of-tuscany-on-jan.md) _(Current version)_
 
 ### Related:

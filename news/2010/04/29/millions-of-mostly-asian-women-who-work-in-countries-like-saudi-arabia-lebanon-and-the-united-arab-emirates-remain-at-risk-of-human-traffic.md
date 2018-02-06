@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-coun
 
 ### Changes:
 
-1. [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffi.md) _2017-08-25 03:27:47 (First version)_
+1. [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffi.md) _2018-02-06 13:49:20 (First version)_
 1. [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffic.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Rescuers recovered the bodies of 11 more climbers from Malaysia&#x27;s highest p
 
 ### Changes:
 
-1. [2015 Sabah earthquake: More bodies are found on Malaysia's highest peak Mount Kinabalu with the total death from the earthquake at 13 with most casualties from Malaysia and Singapore. ](/news/2015/06/7/2015-sabah-earthquake-more-bodies-are-found-on-malaysia-s-highest-peak-mount-kinabalu-with-the-total-death-from-the-earthquake-at-13-with-m.md) _2017-08-27 03:42:29 (First version)_
+1. [2015 Sabah earthquake: More bodies are found on Malaysia's highest peak Mount Kinabalu with the total death from the earthquake at 13 with most casualties from Malaysia and Singapore. ](/news/2015/06/7/2015-sabah-earthquake-more-bodies-are-found-on-malaysia-s-highest-peak-mount-kinabalu-with-the-total-death-from-the-earthquake-at-13-with-m.md) _2018-02-06 13:49:27 (First version)_
 1. [More bodies are found on Malaysia's highest peak Mount Kinabalu with the total death from the earthquake at 13 with most casualties from Malaysia and Singapore. ](/news/2015/06/7/more-bodies-are-found-on-malaysia-s-highest-peak-mount-kinabalu-with-the-total-death-from-the-earthquake-at-13-with-most-casualties-from-mal.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/12/6/the-china-national-space-administration-achieves
 
 ### Changes:
 
-1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a {{convert|100|km|mi|abbr=on}}-high circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-c.md) _2017-05-01 03:43:02 (First version)_
+1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a {{convert|100|km|mi|abbr=on}}-high circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-c.md) _2018-02-06 13:49:25 (First version)_
 1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a 100 km circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.md) _(Current version)_
 
 ### Related:

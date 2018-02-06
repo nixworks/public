@@ -16,8 +16,8 @@ Militants in pick-up trucks ambushed Iraqi army outposts protecting a major oil 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S withdraw):16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-p16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipeline.md) _2017-08-25 03:40:00 (First version)_
-2. [Iraqi insurgency (post-U.S withdraw):: 16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipelin.md) _2017-08-27 03:40:18 (Update)_
+1. [Iraqi insurgency (post-U.S withdraw):16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-p16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipeline.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S withdraw):: 16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipelin.md) _2018-02-06 13:49:25 (Update)_
 2. [16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipeline-in-northern-iraq.md) _(Current version)_
 
 ### Related:

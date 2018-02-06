@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/01/25/an-earthquake-measuring-6-2-m-w-strikes-taiwan-
 
 ### Changes:
 
-1. [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-mw-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md) _2017-10-02 03:21:44 (First version)_
+1. [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-mw-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md) _2018-02-06 13:49:17 (First version)_
 1. [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-m-w-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md) _(Current version)_
 
 ### Related:

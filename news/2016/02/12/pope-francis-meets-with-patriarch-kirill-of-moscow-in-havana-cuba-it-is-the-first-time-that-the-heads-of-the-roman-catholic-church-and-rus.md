@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/12/pope-francis-meets-with-patriarch-kirill-of-mos
 
 ### Changes:
 
-1. [East-West Schism: Pope Francis meets with Patriarch Kirill of Moscow in Havana, Cuba. It is the first time that the heads of the Roman Catholic Church and Russian Orthodox Church have ever met. ](/news/2016/02/12/east-west-schism-pope-francis-meets-with-patriarch-kirill-of-moscow-in-havana-cuba-it-is-the-first-time-that-the-heads-of-the-roman-cat.md) _2017-08-27 03:44:53 (First version)_
+1. [East-West Schism: Pope Francis meets with Patriarch Kirill of Moscow in Havana, Cuba. It is the first time that the heads of the Roman Catholic Church and Russian Orthodox Church have ever met. ](/news/2016/02/12/east-west-schism-pope-francis-meets-with-patriarch-kirill-of-moscow-in-havana-cuba-it-is-the-first-time-that-the-heads-of-the-roman-cat.md) _2018-02-06 13:49:28 (First version)_
 1. [Pope Francis meets with Patriarch Kirill of Moscow in Havana, Cuba. It is the first time that the heads of the Roman Catholic Church and Russian Orthodox Church have ever met. ](/news/2016/02/12/pope-francis-meets-with-patriarch-kirill-of-moscow-in-havana-cuba-it-is-the-first-time-that-the-heads-of-the-roman-catholic-church-and-rus.md) _(Current version)_
 
 ### Related:

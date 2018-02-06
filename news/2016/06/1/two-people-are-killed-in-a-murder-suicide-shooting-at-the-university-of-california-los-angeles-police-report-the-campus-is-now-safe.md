@@ -18,7 +18,7 @@ Police are investigating a possible active shooter at UCLA.
 
 ### Changes:
 
-1. [ 2016 UCLA shooting: Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/2016-ucla-shooting-two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campu.md) _2017-08-27 03:46:11 (First version)_
+1. [ 2016 UCLA shooting: Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/2016-ucla-shooting-two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campu.md) _2018-02-06 13:49:29 (First version)_
 1. [ Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campus-is-now-safe.md) _(Current version)_
 
 ### Related:

@@ -53,7 +53,7 @@ The launch, which may be visible from the District, has been rescheduled for Sun
 
 ##### kilt
 ### [A study finds that men who wear kilts and no underwear have higher sperm counts than men who sport underwear. ](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.md)
-_Context: underwear, kilt, sperm_
+_Context: kilt, underwear, sperm_
 
 ## [Previous Day...](/news/2013/04/19/index.md)
 

@@ -16,7 +16,7 @@ Vanuatu warns it faces imminent food shortages in the wake of Cyclone Pam that s
 
 ### Changes:
 
-1. [Cyclone Pam: Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/cyclone-pam-authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md) _2017-08-27 03:42:06 (First version)_
+1. [Cyclone Pam: Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/cyclone-pam-authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md) _2018-02-06 13:49:26 (First version)_
 1. [Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md) _(Current version)_
 
 ### Related:

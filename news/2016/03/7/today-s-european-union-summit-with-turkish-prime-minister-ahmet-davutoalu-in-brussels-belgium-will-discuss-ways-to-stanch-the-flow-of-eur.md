@@ -23,8 +23,8 @@ The EU holds a key summit with Turkey on tackling the refugee crisis, as the Tur
 
 ### Changes:
 
-1. [Today's European Union summit with Turkish Prime Minister Ahmet Davutoglu in Brussels, Belgium, will discuss ways to stanch the flow of European-bound migrants. ](/news/2016/03/7/today-s-european-union-summit-with-turkish-prime-minister-ahmet-davutoalu-in-brussels-belgium-will-discuss-ways-to-stanch-the-flow-of.md) _2017-08-25 03:44:48 (First version)_
-2. [European migrant crisis: Today's European Union summit with Turkish Prime Minister Ahmet Davutoglu in Brussels, Belgium, will discuss ways to stanch the flow of European-bound migrants. ](/news/2016/03/7/european-migrant-crisis-today-s-european-union-summit-with-turkish-prime-minister-ahmet-davutoalu-in-brussels-belgium-will-discuss-ways.md) _2017-08-27 03:45:10 (Update)_
+1. [Today's European Union summit with Turkish Prime Minister Ahmet Davutoglu in Brussels, Belgium, will discuss ways to stanch the flow of European-bound migrants. ](/news/2016/03/7/today-s-european-union-summit-with-turkish-prime-minister-ahmet-davutoalu-in-brussels-belgium-will-discuss-ways-to-stanch-the-flow-of.md) _2018-02-06 13:49:28 (First version)_
+2. [European migrant crisis: Today's European Union summit with Turkish Prime Minister Ahmet Davutoglu in Brussels, Belgium, will discuss ways to stanch the flow of European-bound migrants. ](/news/2016/03/7/european-migrant-crisis-today-s-european-union-summit-with-turkish-prime-minister-ahmet-davutoalu-in-brussels-belgium-will-discuss-ways.md) _2018-02-06 13:49:28 (Update)_
 2. [Today's European Union summit with Turkish Prime Minister Ahmet Davutoglu in Brussels, Belgium, will discuss ways to stanch the flow of European-bound migrants. ](/news/2016/03/7/today-s-european-union-summit-with-turkish-prime-minister-ahmet-davutoalu-in-brussels-belgium-will-discuss-ways-to-stanch-the-flow-of-eur.md) _(Current version)_
 
 ### Related:

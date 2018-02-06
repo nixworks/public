@@ -18,7 +18,7 @@ Nicaraguan leader Daniel Ortega wins a third consecutive term, but the oppositio
 
 ### Changes:
 
-1. [Nicaraguan general election, 2016: Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/nicaraguan-general-election-2016-voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-ni.md) _2017-08-27 03:47:11 (First version)_
+1. [Nicaraguan general election, 2016: Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/nicaraguan-general-election-2016-voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-ni.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-nicaragua-daniel-ortega-will-be-elect.md) _(Current version)_
 
 ### Related:

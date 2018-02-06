@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/2/brazil-s-lower-house-of-congress-opens-impeachme
 
 ### Changes:
 
-1. [2015 protests in Brazil: Brazil's lower house of Congress opens impeachment proceedings against President Dilma Rousseff over a corruption scandal involving the state-owned oil giant, Petrobras. ](/news/2015/12/2/2015-protests-in-brazil-brazil-s-lower-house-of-congress-opens-impeachment-proceedings-against-president-dilma-rousseff-over-a-corruption-s.md) _2017-08-27 03:44:09 (First version)_
+1. [2015 protests in Brazil: Brazil's lower house of Congress opens impeachment proceedings against President Dilma Rousseff over a corruption scandal involving the state-owned oil giant, Petrobras. ](/news/2015/12/2/2015-protests-in-brazil-brazil-s-lower-house-of-congress-opens-impeachment-proceedings-against-president-dilma-rousseff-over-a-corruption-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Brazil's lower house of Congress opens impeachment proceedings against President Dilma Rousseff over a corruption scandal involving the state-owned oil giant, Petrobras. ](/news/2015/12/2/brazil-s-lower-house-of-congress-opens-impeachment-proceedings-against-president-dilma-rousseff-over-a-corruption-scandal-involving-the-stat.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Convicted murderer Troy Davis was executed late Wednesday after the U.S. Supreme
 
 ### Changes:
 
-1. [Troy Davis case:The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/troy-davis-case-pthe-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardon.md) _2017-08-25 03:34:12 (First version)_
-2. [Troy Davis case:: The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/troy-davis-case-the-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardo.md) _2017-08-27 03:34:20 (Update)_
+1. [Troy Davis case:: The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/troy-davis-case-the-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardo.md) _2018-02-06 13:49:22 (First version)_
+2. [Troy Davis case:The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/troy-davis-case-pthe-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardon.md) _2018-02-06 13:49:22 (Update)_
 2. [The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/the-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardons-and-paroles-rej.md) _(Current version)_
 
 ### Related:

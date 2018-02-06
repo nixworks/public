@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/13/index.html)  [JSON](2017/02/13/index.json)  [XML](201
 
 ##### 2017 Lahore suicide bombing
 ### [At least 13 people, including six police officers, are killed and 85 are injured after a bomb explodes at a protest rally in Lahore, Punjab. The Pakistani Taliban splinter group Jamaat-ul-Ahrar claims responsibility. ](/news/2017/02/13/at-least-13-people-including-six-police-officers-are-killed-and-85-are-injured-after-a-bomb-explodes-at-a-protest-rally-in-lahore-punjab.md)
-_Context: 2017 Lahore suicide bombing, Jamaat-ul-Ahrar, Punjab, police officers, Pakistani Taliban, Lahore_
+_Context: 2017 Lahore suicide bombing, Punjab, Lahore, Jamaat-ul-Ahrar, police officers, Pakistani Taliban_
 
 ##### War in Afghanistan (2015-present)
 ### [According to a United Nations Assistance Mission in Afghanistan inquiry, 18 civilians in Helmand Province were killed in coalition air raids last Thursday and Friday, with locals and Afghan officials claiming that the death toll is higher. ](/news/2017/02/13/according-to-a-united-nations-assistance-mission-in-afghanistan-inquiry-18-civilians-in-helmand-province-were-killed-in-coalition-air-raids.md)
@@ -37,7 +37,7 @@ _Context: Valentine's Day, Islamabad High Court, Pakistan_
 
 ##### Michael Flynn
 ### [Michael T. Flynn resigns as National Security Advisor following controversy over his alleged contacts with Russian officials. Retired United States Army general Keith Kellogg subsequently becomes acting National Security Advisor until a permanent replacement is appointed. ](/news/2017/02/13/michael-t-flynn-resigns-as-national-security-advisor-following-controversy-over-his-alleged-contacts-with-russian-officials-retired-united.md)
-_Context: Michael Flynn, United States soldier, National Security Advisor, Keith Kellogg, Russia_
+_Context: Russia, Michael Flynn, Keith Kellogg, National Security Advisor, United States soldier_
 
 ##### Kim Jong-nam
 ### [Kim Jong-nam, eldest son of Kim Jong-il, is assassinated in Malaysia after two unidentified women reportedly poisoned him at Kuala Lumpur International Airport. ](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.md)

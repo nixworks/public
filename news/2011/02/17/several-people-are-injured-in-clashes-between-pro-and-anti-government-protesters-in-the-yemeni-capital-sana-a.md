@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/02/17/several-people-are-injured-in-clashes-between-p
 
 ### Changes:
 
-1. [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-25 03:32:15 (First version)_
-2. [2011 Yemeni protests:: Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-27 03:32:22 (Update)_
+1. [2011 Yemeni protests:: Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2018-02-06 13:49:22 (Update)_
 2. [Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _(Current version)_
 
 ### Related:

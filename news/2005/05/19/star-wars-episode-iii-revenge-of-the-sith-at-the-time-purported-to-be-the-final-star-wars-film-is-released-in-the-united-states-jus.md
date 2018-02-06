@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-th
 
 ### Changes:
 
-1. [ ''Star Wars Episode III: Revenge of the Sith'', at the time purported to be the final ''Star Wars'' film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states.md) _2017-08-25 03:16:14 (First version)_
+1. [ ''Star Wars Episode III: Revenge of the Sith'', at the time purported to be the final ''Star Wars'' film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states.md) _2018-02-06 13:49:16 (First version)_
 1. [ "Star Wars Episode III: Revenge of the Sith", at the time purported to be the final "Star Wars" film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states-jus.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/11/26/voters-in-new-zealand-go-to-the-polls-for-a-gen
 
 ### Changes:
 
-1. [New Zealand general election and voting method referendum:Voters in New Zealand go to the polls for a general election and voting method referendum. ](/news/2011/11/26/new-zealand-general-election-and-voting-method-referendum-pvoters-in-new-zealand-go-to-the-polls-for-a-general-election-and-voting-method-re.md) _2017-08-25 03:34:32 (First version)_
-2. [New Zealand general election and voting method referendum:: Voters in New Zealand go to the polls for a general election and voting method referendum. ](/news/2011/11/26/new-zealand-general-election-and-voting-method-referendum-voters-in-new-zealand-go-to-the-polls-for-a-general-election-and-voting-method-r.md) _2017-08-27 03:34:42 (Update)_
+1. [New Zealand general election and voting method referendum:: Voters in New Zealand go to the polls for a general election and voting method referendum. ](/news/2011/11/26/new-zealand-general-election-and-voting-method-referendum-voters-in-new-zealand-go-to-the-polls-for-a-general-election-and-voting-method-r.md) _2018-02-06 13:49:23 (First version)_
+2. [New Zealand general election and voting method referendum:Voters in New Zealand go to the polls for a general election and voting method referendum. ](/news/2011/11/26/new-zealand-general-election-and-voting-method-referendum-pvoters-in-new-zealand-go-to-the-polls-for-a-general-election-and-voting-method-re.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in New Zealand go to the polls for a general election and voting method referendum. ](/news/2011/11/26/voters-in-new-zealand-go-to-the-polls-for-a-general-election-and-voting-method-referendum.md) _(Current version)_
 
 ### Related:

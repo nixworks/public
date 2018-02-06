@@ -16,7 +16,7 @@ After a marathon meeting, the Eurogroup has agreed to extend bailout loans to Gr
 
 ### Changes:
 
-1. [Greek financial crisis: The Eurozone agrees to a -10.3 billion ($11.48 billion) bailout package for Greece. ](/news/2016/05/25/greek-financial-crisis-the-eurozone-agrees-to-a-10-3-billion-11-48-billion-bailout-package-for-greece.md) _2017-08-27 03:46:08 (First version)_
+1. [Greek financial crisis: The Eurozone agrees to a -10.3 billion ($11.48 billion) bailout package for Greece. ](/news/2016/05/25/greek-financial-crisis-the-eurozone-agrees-to-a-10-3-billion-11-48-billion-bailout-package-for-greece.md) _2018-02-06 13:49:29 (First version)_
 1. [The Eurozone agrees to a EUR10.3 billion ($11.48 billion) bailout package for Greece. ](/news/2016/05/25/the-eurozone-agrees-to-a-a-10-3-billion-11-48-billion-bailout-package-for-greece.md) _(Current version)_
 
 ### Related:

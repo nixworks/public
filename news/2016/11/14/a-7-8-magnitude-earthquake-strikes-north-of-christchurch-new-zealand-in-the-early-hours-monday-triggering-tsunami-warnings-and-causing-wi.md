@@ -17,7 +17,7 @@ A powerful 7.8 magnitude earthquake pummeled central New Zealand early on Monday
 
 ### Changes:
 
-1. [2016 Kaikoura earthquake: A 7.8 magnitude earthquake strikes north of Christchurch, New Zealand, in the early hours Monday, triggering tsunami warnings and causing widespread damage. At least two people are reported killed. ](/news/2016/11/14/2016-kaikoura-earthquake-a-7-8-magnitude-earthquake-strikes-north-of-christchurch-new-zealand-in-the-early-hours-monday-triggering-tsuna.md) _2017-08-27 03:47:14 (First version)_
+1. [2016 Kaikoura earthquake: A 7.8 magnitude earthquake strikes north of Christchurch, New Zealand, in the early hours Monday, triggering tsunami warnings and causing widespread damage. At least two people are reported killed. ](/news/2016/11/14/2016-kaikoura-earthquake-a-7-8-magnitude-earthquake-strikes-north-of-christchurch-new-zealand-in-the-early-hours-monday-triggering-tsuna.md) _2018-02-06 13:49:29 (First version)_
 1. [A 7.8 magnitude earthquake strikes north of Christchurch, New Zealand, in the early hours Monday, triggering tsunami warnings and causing widespread damage. At least two people are reported killed. ](/news/2016/11/14/a-7-8-magnitude-earthquake-strikes-north-of-christchurch-new-zealand-in-the-early-hours-monday-triggering-tsunami-warnings-and-causing-wi.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the
 
 ### Changes:
 
-1. [ Pope Benedict laments the violence in Darfur, the Democratic Republic of Congo, Zimbabwe, Somalia, Afghanistan, and the Middle East, stating, "nothing positive is happening in Iraq" in his Easter homily. ](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the-democratic-republic-of-congo-zimbabwe-somalia-afghanistan-and-the-middle-east-stati.md) _2017-08-25 03:19:32 (First version)_
+1. [ Pope Benedict laments the violence in Darfur, the Democratic Republic of Congo, Zimbabwe, Somalia, Afghanistan, and the Middle East, stating, "nothing positive is happening in Iraq" in his Easter homily. ](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the-democratic-republic-of-congo-zimbabwe-somalia-afghanistan-and-the-middle-east-stati.md) _2018-02-06 13:49:17 (First version)_
 1. [ Pope Benedict laments the violence in Darfur, the Democratic Republic of Congo, Zimbabwe, Somalia, Afghanistan, and the Middle East, stating, "nothing positive is happening in Iraq" in his Easter homily. ](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the-democratic-republic-of-congo-zimbabwe-somalia-afghanistan-and-the-middle-east-statin.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/04/5/forces-loyal-to-alassane-ouattara-claim-to-have-
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010a2011-ivorian-crisis-pforces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md) _2017-08-25 03:32:45 (First version)_
-2. [2010-2011 Ivorian crisis:: Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md) _2017-08-27 03:32:53 (Update)_
+1. [2010-2011 Ivorian crisis:Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010a2011-ivorian-crisis-pforces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis:: Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md) _2018-02-06 13:49:22 (Update)_
 2. [Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md) _(Current version)_
 
 ### Related:

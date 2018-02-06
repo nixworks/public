@@ -17,7 +17,7 @@ Pregnant women in northern Italy who face economic hardship are to be offered mo
 
 ### Changes:
 
-1. [President of Lombardy, Roberto Formigoni, offers pregnant women -4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md) _2017-08-27 03:28:05 (First version)_
+1. [President of Lombardy, Roberto Formigoni, offers pregnant women -4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md) _2018-02-06 13:49:20 (First version)_
 1. [President of Lombardy, Roberto Formigoni, offers pregnant women EUR4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-a-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md) _(Current version)_
 
 ### Related:

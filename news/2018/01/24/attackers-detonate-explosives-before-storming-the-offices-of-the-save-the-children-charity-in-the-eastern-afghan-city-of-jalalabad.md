@@ -16,7 +16,7 @@ Gunmen detonate explosives then storm the offices of the charity in the city of 
 
 ### Changes:
 
-1. [Attackers have detonated explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-have-detonated-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _2018-01-24 21:30:07 (First version)_
+1. [Attackers have detonated explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-have-detonated-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _2018-02-06 13:49:31 (First version)_
 1. [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _(Current version)_
 
 ### Related:

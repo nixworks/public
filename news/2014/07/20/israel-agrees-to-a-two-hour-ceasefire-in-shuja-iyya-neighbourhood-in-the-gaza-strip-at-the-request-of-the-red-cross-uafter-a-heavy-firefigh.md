@@ -17,7 +17,7 @@ US President Barack Obama called for an &quot;immediate ceasefire&quot; between 
 
 ### Changes:
 
-1. [Operation Protective Edge: Israel agrees to a two hour ceasefire in Shuja'iyya neighbourhood in the Gaza Strip at the request of the Red Cross iafter a heavy firefight caused the death of more than 74 Palestinians and 13 Israel Defense Forces soldiers. ](/news/2014/07/20/operation-protective-edge-israel-agrees-to-a-two-hour-ceasefire-in-shuja-iyya-neighbourhood-in-the-gaza-strip-at-the-request-of-the-red-cro.md) _2017-08-27 03:41:01 (First version)_
+1. [Operation Protective Edge: Israel agrees to a two hour ceasefire in Shuja'iyya neighbourhood in the Gaza Strip at the request of the Red Cross iafter a heavy firefight caused the death of more than 74 Palestinians and 13 Israel Defense Forces soldiers. ](/news/2014/07/20/operation-protective-edge-israel-agrees-to-a-two-hour-ceasefire-in-shuja-iyya-neighbourhood-in-the-gaza-strip-at-the-request-of-the-red-cro.md) _2018-02-06 13:49:26 (First version)_
 1. [Israel agrees to a two hour ceasefire in Shuja'iyya neighbourhood in the Gaza Strip at the request of the Red Cross iafter a heavy firefight caused the death of more than 74 Palestinians and 13 Israel Defense Forces soldiers. ](/news/2014/07/20/israel-agrees-to-a-two-hour-ceasefire-in-shuja-iyya-neighbourhood-in-the-gaza-strip-at-the-request-of-the-red-cross-uafter-a-heavy-firefigh.md) _(Current version)_
 
 ### Related:

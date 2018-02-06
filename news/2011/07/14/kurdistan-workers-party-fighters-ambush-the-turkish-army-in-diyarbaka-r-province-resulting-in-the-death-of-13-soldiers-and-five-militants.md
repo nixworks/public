@@ -16,8 +16,8 @@ Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven mili
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict:Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdishaturkish-conflict-pkurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-s.md) _2017-08-25 03:33:46 (First version)_
-2. [Kurdish-Turkish conflict:: Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdish-turkish-conflict-kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13.md) _2017-08-27 03:33:54 (Update)_
+1. [Kurdish-Turkish conflict:Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdishaturkish-conflict-pkurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-s.md) _2018-02-06 13:49:22 (First version)_
+2. [Kurdish-Turkish conflict:: Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdish-turkish-conflict-kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13.md) _2018-02-06 13:49:22 (Update)_
 2. [Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.md) _(Current version)_
 
 ### Related:

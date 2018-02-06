@@ -16,7 +16,7 @@ YEMEN-SECURITY/:Exiled Yemeni government pulls out of planned peace talks
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): The government in exile says that it will no longer attend United Nations brokered talks with the rebel Houthis. ](/news/2015/09/13/yemeni-crisis-2011-present-the-government-in-exile-says-that-it-will-no-longer-attend-united-nations-brokered-talks-with-the-rebel-hout.md) _2017-08-27 03:43:02 (First version)_
+1. [Yemeni Crisis (2011-present): The government in exile says that it will no longer attend United Nations brokered talks with the rebel Houthis. ](/news/2015/09/13/yemeni-crisis-2011-present-the-government-in-exile-says-that-it-will-no-longer-attend-united-nations-brokered-talks-with-the-rebel-hout.md) _2018-02-06 13:49:27 (First version)_
 1. [The government in exile says that it will no longer attend United Nations brokered talks with the rebel Houthis. ](/news/2015/09/13/the-government-in-exile-says-that-it-will-no-longer-attend-united-nations-brokered-talks-with-the-rebel-houthis.md) _(Current version)_
 
 ### Related:

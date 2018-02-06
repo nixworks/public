@@ -19,7 +19,7 @@ YOU could almost predict who is going to take home a Grammy award by the roll ca
 
 ### Changes:
 
-1. [57th Annual Grammy Awards: The National Academy of Recording Arts and Sciences members present the Grammy Awards at the Staples Center in Los Angeles, California. ](/news/2015/02/8/57th-annual-grammy-awards-the-national-academy-of-recording-arts-and-sciences-members-present-the-grammy-awards-at-the-staples-center-in-lo.md) _2017-08-27 03:41:54 (First version)_
+1. [57th Annual Grammy Awards: The National Academy of Recording Arts and Sciences members present the Grammy Awards at the Staples Center in Los Angeles, California. ](/news/2015/02/8/57th-annual-grammy-awards-the-national-academy-of-recording-arts-and-sciences-members-present-the-grammy-awards-at-the-staples-center-in-lo.md) _2018-02-06 13:49:26 (First version)_
 1. [The National Academy of Recording Arts and Sciences members present the Grammy Awards at the Staples Center in Los Angeles, California. ](/news/2015/02/8/the-national-academy-of-recording-arts-and-sciences-members-present-the-grammy-awards-at-the-staples-center-in-los-angeles-california.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ France is carrying out operations against so-called Islamic State in Iraq from t
 
 ### Changes:
 
-1. [Military intervention against ISIL: France conducts airstrikes against ISIL positions in Iraq from the French aircraft carrier "Charles de Gaulle". ](/news/2016/09/30/military-intervention-against-isil-france-conducts-airstrikes-against-isil-positions-in-iraq-from-the-french-aircraft-carrier-charles-de-g.md) _2017-08-27 03:46:55 (First version)_
+1. [Military intervention against ISIL: France conducts airstrikes against ISIL positions in Iraq from the French aircraft carrier "Charles de Gaulle". ](/news/2016/09/30/military-intervention-against-isil-france-conducts-airstrikes-against-isil-positions-in-iraq-from-the-french-aircraft-carrier-charles-de-g.md) _2018-02-06 13:49:29 (First version)_
 1. [France conducts airstrikes against ISIL positions in Iraq from the French aircraft carrier "Charles de Gaulle". ](/news/2016/09/30/france-conducts-airstrikes-against-isil-positions-in-iraq-from-the-french-aircraft-carrier-charles-de-gaulle.md) _(Current version)_
 
 ### Related:

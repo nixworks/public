@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/5/battles-between-loyalist-forces-and-militias-hav
 
 ### Changes:
 
-1. [Libyan Civil War: Battles between loyalist forces and militias have killed nearly 400 in three weeks, including at least 250 deaths in Benghazi and 140 near the capital Tripoli. ](/news/2014/11/5/libyan-civil-war-battles-between-loyalist-forces-and-militias-have-killed-nearly-400-in-three-weeks-including-at-least-250-deaths-in-bengh.md) _2017-08-27 03:41:28 (First version)_
+1. [Libyan Civil War: Battles between loyalist forces and militias have killed nearly 400 in three weeks, including at least 250 deaths in Benghazi and 140 near the capital Tripoli. ](/news/2014/11/5/libyan-civil-war-battles-between-loyalist-forces-and-militias-have-killed-nearly-400-in-three-weeks-including-at-least-250-deaths-in-bengh.md) _2018-02-06 13:49:26 (First version)_
 1. [Battles between loyalist forces and militias have killed nearly 400 in three weeks, including at least 250 deaths in Benghazi and 140 near the capital Tripoli. ](/news/2014/11/5/battles-between-loyalist-forces-and-militias-have-killed-nearly-400-in-three-weeks-including-at-least-250-deaths-in-benghazi-and-140-near-t.md) _(Current version)_
 
 ### Related:

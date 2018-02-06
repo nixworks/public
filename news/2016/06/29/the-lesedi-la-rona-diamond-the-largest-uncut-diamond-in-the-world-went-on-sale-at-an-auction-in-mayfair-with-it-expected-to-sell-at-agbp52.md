@@ -17,7 +17,7 @@ Vancouver-based Lucara Diamond Corp. has failed to sell the tennis-ball sized di
 
 ### Changes:
 
-1. [The Lesedi La Rona diamond, the largest uncut diamond in the world, went on sale at an auction in Mayfair with it expected to sell at PS52 million, or US$70 million. However, the diamond only managed to draw a high bid of US$61 million, falling short of the reserve price to sell it. ](/news/2016/06/29/the-lesedi-la-rona-diamond-the-largest-uncut-diamond-in-the-world-went-on-sale-at-an-auction-in-mayfair-with-it-expected-to-sell-at-aps52-m.md) _2017-08-25 03:46:00 (First version)_
+1. [The Lesedi La Rona diamond, the largest uncut diamond in the world, went on sale at an auction in Mayfair with it expected to sell at PS52 million, or US$70 million. However, the diamond only managed to draw a high bid of US$61 million, falling short of the reserve price to sell it. ](/news/2016/06/29/the-lesedi-la-rona-diamond-the-largest-uncut-diamond-in-the-world-went-on-sale-at-an-auction-in-mayfair-with-it-expected-to-sell-at-aps52-m.md) _2018-02-06 13:49:29 (First version)_
 1. [The Lesedi La Rona diamond, the largest uncut diamond in the world, went on sale at an auction in Mayfair with it expected to sell at GBP52 million, or US$70 million. However, the diamond only managed to draw a high bid of US$61 million, falling short of the reserve price to sell it. ](/news/2016/06/29/the-lesedi-la-rona-diamond-the-largest-uncut-diamond-in-the-world-went-on-sale-at-an-auction-in-mayfair-with-it-expected-to-sell-at-agbp52.md) _(Current version)_
 
 ### Related:

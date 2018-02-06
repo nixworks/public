@@ -17,8 +17,8 @@ Boston Marathon bombing suspect Tamerlan Tsarnaev has been buried in a Muslim ce
 
 ### Changes:
 
-1. [Boston Marathon bombings:Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/boston-marathon-bombings-psuspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md) _2017-08-25 03:38:37 (First version)_
-2. [Boston Marathon bombings:: Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/boston-marathon-bombings-suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md) _2017-08-27 03:38:50 (Update)_
+1. [Boston Marathon bombings:: Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/boston-marathon-bombings-suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md) _2018-02-06 13:49:24 (First version)_
+2. [Boston Marathon bombings:Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/boston-marathon-bombings-psuspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md) _2018-02-06 13:49:24 (Update)_
 2. [Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md) _(Current version)_
 
 ### Related:

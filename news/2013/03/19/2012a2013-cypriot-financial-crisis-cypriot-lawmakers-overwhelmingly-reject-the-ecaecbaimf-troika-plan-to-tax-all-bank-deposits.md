@@ -17,7 +17,7 @@ Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank 
 
 ### Changes:
 
-1. [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012-2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ec-ecb-imf-troika-plan-to-tax-all-bank-deposits.md) _2017-08-27 03:38:06 (First version)_
+1. [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012-2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ec-ecb-imf-troika-plan-to-tax-all-bank-deposits.md) _2018-02-06 13:49:24 (First version)_
 1. [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md) _(Current version)_
 
 ### Related:

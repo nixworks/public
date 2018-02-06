@@ -16,8 +16,8 @@ Yemeni&#x20;protesters&#x20;remained&#x20;defiant&#x20;on&#x20;Wednesday&#x20;fo
 
 ### Changes:
 
-1. [2011 Yemeni protests:Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/2011-yemeni-protests-peight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md) _2017-08-25 03:32:19 (First version)_
-2. [2011 Yemeni protests:: Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/2011-yemeni-protests-eight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md) _2017-08-27 03:32:26 (Update)_
+1. [2011 Yemeni protests:Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/2011-yemeni-protests-peight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/2011-yemeni-protests-eight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md) _2018-02-06 13:49:22 (Update)_
 2. [Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/eight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md) _(Current version)_
 
 ### Related:

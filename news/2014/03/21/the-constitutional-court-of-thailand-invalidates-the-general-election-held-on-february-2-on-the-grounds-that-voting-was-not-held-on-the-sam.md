@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/03/21/the-constitutional-court-of-thailand-invalidate
 
 ### Changes:
 
-1. [Thai general election, 2014:The Constitutional Court of Thailand invalidates the general election held on February 2, on the grounds that voting was not held on the same day throughout the country. ](/news/2014/03/21/thai-general-election-2014-pthe-constitutional-court-of-thailand-invalidates-the-general-election-held-on-february-2-on-the-grounds-that-v.md) _2017-08-25 03:40:12 (First version)_
-2. [Thai general election, 2014:: The Constitutional Court of Thailand invalidates the general election held on February 2, on the grounds that voting was not held on the same day throughout the country. ](/news/2014/03/21/thai-general-election-2014-the-constitutional-court-of-thailand-invalidates-the-general-election-held-on-february-2-on-the-grounds-that.md) _2017-08-27 03:40:30 (Update)_
+1. [Thai general election, 2014:: The Constitutional Court of Thailand invalidates the general election held on February 2, on the grounds that voting was not held on the same day throughout the country. ](/news/2014/03/21/thai-general-election-2014-the-constitutional-court-of-thailand-invalidates-the-general-election-held-on-february-2-on-the-grounds-that.md) _2018-02-06 13:49:25 (First version)_
+2. [Thai general election, 2014:The Constitutional Court of Thailand invalidates the general election held on February 2, on the grounds that voting was not held on the same day throughout the country. ](/news/2014/03/21/thai-general-election-2014-pthe-constitutional-court-of-thailand-invalidates-the-general-election-held-on-february-2-on-the-grounds-that-v.md) _2018-02-06 13:49:25 (Update)_
 2. [The Constitutional Court of Thailand invalidates the general election held on February 2, on the grounds that voting was not held on the same day throughout the country. ](/news/2014/03/21/the-constitutional-court-of-thailand-invalidates-the-general-election-held-on-february-2-on-the-grounds-that-voting-was-not-held-on-the-sam.md) _(Current version)_
 
 ### Related:

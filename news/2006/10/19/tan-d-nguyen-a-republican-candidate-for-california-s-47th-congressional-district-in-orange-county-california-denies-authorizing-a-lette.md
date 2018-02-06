@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-califor
 
 ### Changes:
 
-1. [ Tan D. Nguyen, a Republican candidate for California's 47th congressional district in Orange County, California, denies authorizing a letter warning Hispanic immigrants that they could go to jail or be deported if they vote next month, a mailing that prompted an investigation by the state government. ](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-california-s-47th-congressional-district-in-orange-county-california-denies-authorizing-a-lett.md) _2017-08-25 03:18:36 (First version)_
+1. [ Tan D. Nguyen, a Republican candidate for California's 47th congressional district in Orange County, California, denies authorizing a letter warning Hispanic immigrants that they could go to jail or be deported if they vote next month, a mailing that prompted an investigation by the state government. ](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-california-s-47th-congressional-district-in-orange-county-california-denies-authorizing-a-lett.md) _2018-02-06 13:49:17 (First version)_
 1. [ Tan D. Nguyen, a Republican candidate for California's 47th congressional district in Orange County, California, denies authorizing a letter warning Hispanic immigrants that they could go to jail or be deported if they vote next month, a mailing that prompted an investigation by the state government. ](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-california-s-47th-congressional-district-in-orange-county-california-denies-authorizing-a-lette.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The death toll in a series of explosions at a fireworks market outside Mexico Ci
 
 ### Changes:
 
-1. [2016 San Pablito Market fireworks explosion: Authorities say the death toll is now 31, and that 47 of the 60 people injured remain hospitalized. ](/news/2016/12/21/2016-san-pablito-market-fireworks-explosion-authorities-say-the-death-toll-is-now-31-and-that-47-of-the-60-people-injured-remain-hospitali.md) _2017-08-27 03:47:29 (First version)_
+1. [2016 San Pablito Market fireworks explosion: Authorities say the death toll is now 31, and that 47 of the 60 people injured remain hospitalized. ](/news/2016/12/21/2016-san-pablito-market-fireworks-explosion-authorities-say-the-death-toll-is-now-31-and-that-47-of-the-60-people-injured-remain-hospitali.md) _2018-02-06 13:49:30 (First version)_
 1. [Authorities say the death toll is now 31, and that 47 of the 60 people injured remain hospitalized. ](/news/2016/12/21/authorities-say-the-death-toll-is-now-31-and-that-47-of-the-60-people-injured-remain-hospitalized.md) _(Current version)_
 
 ### Related:

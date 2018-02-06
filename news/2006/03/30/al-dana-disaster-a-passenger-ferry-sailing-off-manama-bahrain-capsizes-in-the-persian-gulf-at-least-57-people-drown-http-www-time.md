@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/03/30/al-dana-disaster-a-passenger-ferry-sailing-off-
 
 ### Changes:
 
-1. [ ''Al-Dana'' disaster: A passenger ferry sailing off Manama, Bahrain, capsizes in the Persian Gulf. At least 57 people drown. [http:--www.timesonline.co.uk-tol-news-world-middle_east-article700758.ece]](/news/2006/03/30/al-dana-disaster-a-passenger-ferry-sailing-off-manama-bahrain-capsizes-in-the-persian-gulf-at-least-57-people-drown-http-www-ti.md) _2017-08-25 03:17:32 (First version)_
+1. [ ''Al-Dana'' disaster: A passenger ferry sailing off Manama, Bahrain, capsizes in the Persian Gulf. At least 57 people drown. [http:--www.timesonline.co.uk-tol-news-world-middle_east-article700758.ece]](/news/2006/03/30/al-dana-disaster-a-passenger-ferry-sailing-off-manama-bahrain-capsizes-in-the-persian-gulf-at-least-57-people-drown-http-www-ti.md) _2018-02-06 13:49:17 (First version)_
 1. [ "Al-Dana" disaster: A passenger ferry sailing off Manama, Bahrain, capsizes in the Persian Gulf. At least 57 people drown. [http:--www.timesonline.co.uk-tol-news-world-middle_east-article700758.ece]](/news/2006/03/30/al-dana-disaster-a-passenger-ferry-sailing-off-manama-bahrain-capsizes-in-the-persian-gulf-at-least-57-people-drown-http-www-time.md) _(Current version)_
 
 ### Related:

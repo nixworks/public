@@ -16,7 +16,7 @@ Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Alban
 
 ### Changes:
 
-1. [French Riviera: Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/french-riviera-wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-arm.md) _2017-08-27 03:48:43 (First version)_
+1. [French Riviera: Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/french-riviera-wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-arm.md) _2018-02-06 13:49:30 (First version)_
 1. [Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-armed-forces-person.md) _(Current version)_
 
 ### Related:

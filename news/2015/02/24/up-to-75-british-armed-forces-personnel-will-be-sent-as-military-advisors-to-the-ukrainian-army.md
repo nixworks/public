@@ -16,7 +16,7 @@ Up to 75 British military personnel will deploy to Ukraine next month to provide
 
 ### Changes:
 
-1. [War in Donbass: Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/war-in-donbass-up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md) _2017-08-27 03:42:00 (First version)_
+1. [War in Donbass: Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/war-in-donbass-up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md) _2018-02-06 13:49:26 (First version)_
 1. [Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md) _(Current version)_
 
 ### Related:

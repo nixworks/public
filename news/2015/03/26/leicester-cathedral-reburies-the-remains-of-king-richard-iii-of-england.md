@@ -16,7 +16,7 @@ On the eve of King Richard III&#039;s reburial, his relatives visit Bosworth Bat
 
 ### Changes:
 
-1. [Exhumation of Richard III of England: Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/exhumation-of-richard-iii-of-england-leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md) _2017-08-27 03:42:08 (First version)_
+1. [Exhumation of Richard III of England: Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/exhumation-of-richard-iii-of-england-leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md) _2018-02-06 13:49:26 (First version)_
 1. [Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md) _(Current version)_
 
 ### Related:

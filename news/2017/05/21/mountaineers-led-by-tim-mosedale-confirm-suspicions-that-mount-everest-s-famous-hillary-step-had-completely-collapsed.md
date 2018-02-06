@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspic
 
 ### Changes:
 
-1. [Mountaineers led by Tim Mosedale confirm that Mount Everest's famous Hillary Step has completely collapsed. It has been suspected that Nepal's April 2015 earthquake had damaged the feature but due to heavy snow it could not be confirmed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-that-mount-everest-s-famous-hillary-step-has-completely-collapsed-it-has-been-suspected-that-nepa.md) _2017-05-21 21:30:06 (First version)_
+1. [Mountaineers led by Tim Mosedale confirm that Mount Everest's famous Hillary Step has completely collapsed. It has been suspected that Nepal's April 2015 earthquake had damaged the feature but due to heavy snow it could not be confirmed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-that-mount-everest-s-famous-hillary-step-has-completely-collapsed-it-has-been-suspected-that-nepa.md) _2018-02-06 13:49:30 (First version)_
 1. [Mountaineers led by Tim Mosedale confirm suspicions that Mount Everest's famous Hillary Step had completely collapsed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspicions-that-mount-everest-s-famous-hillary-step-had-completely-collapsed.md) _(Current version)_
 
 ### Related:

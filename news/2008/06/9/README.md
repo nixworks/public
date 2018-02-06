@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/9/index.html)  [JSON](2008/06/9/index.json)  [XML](2008/
 
 ##### France
 ### [ French foreign minister Bernard Kouchner warns Ireland, saying the Irish would be the "first victim" if they reject the EU Treaty of Lisbon. ](/news/2008/06/9/french-foreign-minister-bernard-kouchner-warns-ireland-saying-the-irish-would-be-the-first-victim-if-they-reject-the-eu-treaty-of-lisbon.md)
-_Context: European Union, Ireland, France, the second Irish referendum, Treaty of Lisbon, Bernard Kouchner_
+_Context: Bernard Kouchner, Ireland, Treaty of Lisbon, France, European Union, the second Irish referendum_
 
 ##### June 2008 Midwest Flood
 ### [ June 2008 Midwest Flood: A stalled storm system in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wisc.md)
@@ -13,13 +13,13 @@ A stalled storm system poured heavy rain on parts of the Midwest, setting off se
 
 ##### Pakistan
 ### [ Pakistan lawyers begin a "Long March" of protests against the Government of the President of Pakistan Pervez Musharraf calling for the reinstatement of judges dismissed last year including the former Chief Justice of Pakistan Iftikhar Muhammad Chaudhry. ](/news/2008/06/9/pakistan-lawyers-begin-a-long-march-of-protests-against-the-government-of-the-president-of-pakistan-pervez-musharraf-calling-for-the-rein.md)
-_Context: president, Pervez Musharraf, Pakistan's chief justice, Pakistan, Iftikhar Muhammad Chaudhry_
+_Context: Pervez Musharraf, Iftikhar Muhammad Chaudhry, president, Pakistan's chief justice, Pakistan_
 
 ##### Ukrainian coal mine collapse
 ### [ 24 miners are rescued from the Ukrainian coal mine collapse with 12 still missing and one reported fatality. ](/news/2008/06/9/24-miners-are-rescued-from-the-ukrainian-coal-mine-collapse-with-12-still-missing-and-one-reported-fatality.md)
 Rescue workers located 24 miners alive after a gas explosion at a Ukraine colliery and were bringing them slowly to safety on Monday.
 
-##### British
+##### United Kingdom
 ### [ A further three British Conservative MEPs (Robert Atkins, Sajjad Karim, and John Purvis) are facing allegations of financial abuse, following the resignation of two fellow members from European Parliament positions last week. ](/news/2008/06/9/a-further-three-british-conservative-meps-robert-atkins-sajjad-karim-and-john-purvis-are-facing-allegations-of-financial-abuse-followi.md)
 More than half of David Cameron&#039;s European MPs have refused to comply with rules requiring them to reveal how they spend their expenses.
 
@@ -29,19 +29,19 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Apple, Inc.
 ### [ Apple, Inc. introduces a new iPhone with 3G capabilities, a GPS, and new features. The device is called iPhone 3G. ](/news/2008/06/9/apple-inc-introduces-a-new-iphone-with-3g-capabilities-a-gps-and-new-features-the-device-is-called-iphone-3g.md)
-_Context: iPhone, GPS, iPhone 3G, Apple, Inc., 3G_
+_Context: 3G, GPS, iPhone, Apple, Inc., iPhone 3G_
 
 ##### IBM
 ### [ IBM and Los Alamos National Laboratory break processing speed barrier with the world's first petaflop computer, Roadrunner. ](/news/2008/06/9/ibm-and-los-alamos-national-laboratory-break-processing-speed-barrier-with-the-world-s-first-petaflop-computer-roadrunner.md)
-_Context: petaflop, IBM Roadrunner, Los Alamos National Laboratory, IBM_
+_Context: Los Alamos National Laboratory, IBM Roadrunner, IBM, petaflop_
 
 ##### Murder of Travis Alexander
 ### [ The body of businessman Travis Alexander is found in his home in Mesa, Arizona. It is believed he was murdered. ](/news/2008/06/9/the-body-of-businessman-travis-alexander-is-found-in-his-home-in-mesa-arizona-it-is-believed-he-was-murdered.md)
-_Context: Arizona, Murder of Travis Alexander, Mesa_
+_Context: Mesa, Arizona, Murder of Travis Alexander_
 
 ##### India
 ### [ India's prime minister Manmohan Singh calls for global nuclear disarmament asking world countries to create 'timebound framework' to rid the world of atomic weapons. ](/news/2008/06/9/india-s-prime-minister-manmohan-singh-calls-for-global-nuclear-disarmament-asking-world-countries-to-create-timebound-framework-to-rid-th.md)
-_Context: Manmohan Singh, India_
+_Context: India, Manmohan Singh_
 
 ##### Indonesia
 ### [ Indonesia makes the practice of the Ahmadiyya form of Islam in Indonesia a crime punishable by five years in prison. ](/news/2008/06/9/indonesia-makes-the-practice-of-the-ahmadiyya-form-of-islam-in-indonesia-a-crime-punishable-by-five-years-in-prison.md)
@@ -49,23 +49,23 @@ _Context: Islam in Indonesia, Ahmadiyya, Indonesia_
 
 ##### McDonald's restaurants
 ### [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md)
-_Context: tomato, hamburger, Salmonellosis, United States, McDonald's restaurants_
+_Context: hamburger, United States, McDonald's restaurants, Salmonellosis, tomato_
 
 ##### Spain
 ### [ Tens of thousands of Spanish truck drivers start an indefinite strike over the increases in the price of diesel. ](/news/2008/06/9/tens-of-thousands-of-spanish-truck-drivers-start-an-indefinite-strike-over-the-increases-in-the-price-of-diesel.md)
-_Context: strike, diesel, truck drivers, Spain_
+_Context: Spain, strike, diesel, truck drivers_
 
 ##### Rajasthan
 ### [ The government of the Indian state of Rajasthan meets with leaders of the Gujjar community after two weeks of protests over the reservation system. ](/news/2008/06/9/the-government-of-the-indian-state-of-rajasthan-meets-with-leaders-of-the-gujjar-community-after-two-weeks-of-protests-over-the-reservation.md)
-_Context: reservations, Rajasthan, Gujjar_
+_Context: Gujjar, Rajasthan, reservations_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush commences the last visit to Europe of his presidency. ](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.md)
-_Context: U.S. President, Europe, George W. Bush_
+_Context: Europe, George W. Bush, U.S. President_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates nominates Norton Schwartz to be the next Chief of Staff of the United States Air Force with Michael B. Donley nominated as the next United States Secretary of the Air Force. ](/news/2008/06/9/the-united-states-secretary-of-defense-robert-gates-nominates-norton-schwartz-to-be-the-next-chief-of-staff-of-the-united-states-air-force.md)
-_Context: Michael B. Donley, Chief of Staff of the United States Air Force, Norton Schwartz, United States Secretary of Defense, Secretary of the Air Force, Robert Gates_
+_Context: Chief of Staff of the United States Air Force, United States Secretary of Defense, Norton Schwartz, Michael B. Donley, Robert Gates, Secretary of the Air Force_
 
 ## [Previous Day...](/news/2008/06/8/index.md)
 

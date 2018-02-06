@@ -16,7 +16,7 @@ The ex-policeman is accused of leading an armed rebellion involving a helicopter
 
 ### Changes:
 
-1. [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to Venezuelan authorities. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-oscar-pa-c-rez-the-rogue-pilot-responsible-for-the.md) _2018-01-16 19:30:06 (First version)_
+1. [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to Venezuelan authorities. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-oscar-pa-c-rez-the-rogue-pilot-responsible-for-the.md) _2018-02-06 13:49:31 (First version)_
 1. [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md) _(Current version)_
 
 ### Related:

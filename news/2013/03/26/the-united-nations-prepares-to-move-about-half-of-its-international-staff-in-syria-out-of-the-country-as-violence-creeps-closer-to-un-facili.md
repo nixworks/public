@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/26/the-united-nations-prepares-to-move-about-half-
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/syrian-civil-war-pthe-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps-c.md) _2017-08-25 03:38:02 (First version)_
-2. [Syrian civil war:: The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/syrian-civil-war-the-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps.md) _2017-08-27 03:38:13 (Update)_
+1. [Syrian civil war:: The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/syrian-civil-war-the-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/syrian-civil-war-pthe-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps-c.md) _2018-02-06 13:49:24 (Update)_
 2. [The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/the-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps-closer-to-un-facili.md) _(Current version)_
 
 ### Related:

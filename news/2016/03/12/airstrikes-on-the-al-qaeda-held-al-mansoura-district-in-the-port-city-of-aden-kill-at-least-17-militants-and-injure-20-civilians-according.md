@@ -16,7 +16,7 @@ Saudi-led helicopters attacked al Qaeda militants in Aden overnight in an effort
 
 ### Changes:
 
-1. [Aden unrest: Airstrikes on the Al-Qaeda-held Al-Mansoura district in the port city of Aden, kill at least 17 militants and injure 20 civilians, according to local medics and a Yemeni security official. ](/news/2016/03/12/aden-unrest-airstrikes-on-the-al-qaeda-held-al-mansoura-district-in-the-port-city-of-aden-kill-at-least-17-militants-and-injure-20-civilia.md) _2017-08-27 03:45:13 (First version)_
+1. [Aden unrest: Airstrikes on the Al-Qaeda-held Al-Mansoura district in the port city of Aden, kill at least 17 militants and injure 20 civilians, according to local medics and a Yemeni security official. ](/news/2016/03/12/aden-unrest-airstrikes-on-the-al-qaeda-held-al-mansoura-district-in-the-port-city-of-aden-kill-at-least-17-militants-and-injure-20-civilia.md) _2018-02-06 13:49:28 (First version)_
 1. [Airstrikes on the Al-Qaeda-held Al-Mansoura district in the port city of Aden, kill at least 17 militants and injure 20 civilians, according to local medics and a Yemeni security official. ](/news/2016/03/12/airstrikes-on-the-al-qaeda-held-al-mansoura-district-in-the-port-city-of-aden-kill-at-least-17-militants-and-injure-20-civilians-according.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/11/fighting-breaks-out-between-isil-militants-and-
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Fighting breaks out between ISIL militants and Afghan police in the Haska Mina District, Nangarhar Province, leaving six police officers and 15 militants dead, according to officials. ](/news/2016/06/11/war-in-afghanistan-2015-present-fighting-breaks-out-between-isil-militants-and-afghan-police-in-the-haska-mina-district-nangarhar-prov.md) _2017-08-27 03:46:14 (First version)_
+1. [War in Afghanistan (2015-present): Fighting breaks out between ISIL militants and Afghan police in the Haska Mina District, Nangarhar Province, leaving six police officers and 15 militants dead, according to officials. ](/news/2016/06/11/war-in-afghanistan-2015-present-fighting-breaks-out-between-isil-militants-and-afghan-police-in-the-haska-mina-district-nangarhar-prov.md) _2018-02-06 13:49:29 (First version)_
 1. [Fighting breaks out between ISIL militants and Afghan police in the Haska Mina District, Nangarhar Province, leaving six police officers and 15 militants dead, according to officials. ](/news/2016/06/11/fighting-breaks-out-between-isil-militants-and-afghan-police-in-the-haska-mina-district-nangarhar-province-leaving-six-police-officers-and.md) _(Current version)_
 
 ### Related:

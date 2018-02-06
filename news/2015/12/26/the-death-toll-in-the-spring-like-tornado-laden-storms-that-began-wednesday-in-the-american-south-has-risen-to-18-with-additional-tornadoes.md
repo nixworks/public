@@ -17,7 +17,7 @@ The body of a 5-year-old boy, who went missing Friday after the car he was in wa
 
 ### Changes:
 
-1. [Tornadoes of 2015: The death toll in the spring-like, tornado-laden storms that began Wednesday in the American South has risen to 18 with additional tornadoes hitting north-central Alabama Friday and one outside of Dallas, Texas, today. ](/news/2015/12/26/tornadoes-of-2015-the-death-toll-in-the-spring-like-tornado-laden-storms-that-began-wednesday-in-the-american-south-has-risen-to-18-with-a.md) _2017-08-27 03:44:31 (First version)_
+1. [Tornadoes of 2015: The death toll in the spring-like, tornado-laden storms that began Wednesday in the American South has risen to 18 with additional tornadoes hitting north-central Alabama Friday and one outside of Dallas, Texas, today. ](/news/2015/12/26/tornadoes-of-2015-the-death-toll-in-the-spring-like-tornado-laden-storms-that-began-wednesday-in-the-american-south-has-risen-to-18-with-a.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll in the spring-like, tornado-laden storms that began Wednesday in the American South has risen to 18 with additional tornadoes hitting north-central Alabama Friday and one outside of Dallas, Texas, today. ](/news/2015/12/26/the-death-toll-in-the-spring-like-tornado-laden-storms-that-began-wednesday-in-the-american-south-has-risen-to-18-with-additional-tornadoes.md) _(Current version)_
 
 ### Related:

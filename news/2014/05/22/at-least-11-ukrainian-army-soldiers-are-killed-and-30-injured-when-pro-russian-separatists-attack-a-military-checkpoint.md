@@ -19,8 +19,8 @@ Editor&#039;s Note: On May 11, the People&#039;s Republics of Donetsk and Luhans
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:At least 11 Ukrainian Army soldiers are killed and 30 injured when pro-Russian separatists attack a military checkpoint. ](/news/2014/05/22/2014-pro-russian-unrest-in-ukraine-pat-least-11-ukrainian-army-soldiers-are-killed-and-30-injured-when-pro-russian-separatists-attack-a-mili.md) _2017-08-25 03:40:26 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: At least 11 Ukrainian Army soldiers are killed and 30 injured when pro-Russian separatists attack a military checkpoint. ](/news/2014/05/22/2014-pro-russian-unrest-in-ukraine-at-least-11-ukrainian-army-soldiers-are-killed-and-30-injured-when-pro-russian-separatists-attack-a-mil.md) _2017-08-27 03:40:44 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:At least 11 Ukrainian Army soldiers are killed and 30 injured when pro-Russian separatists attack a military checkpoint. ](/news/2014/05/22/2014-pro-russian-unrest-in-ukraine-pat-least-11-ukrainian-army-soldiers-are-killed-and-30-injured-when-pro-russian-separatists-attack-a-mili.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:: At least 11 Ukrainian Army soldiers are killed and 30 injured when pro-Russian separatists attack a military checkpoint. ](/news/2014/05/22/2014-pro-russian-unrest-in-ukraine-at-least-11-ukrainian-army-soldiers-are-killed-and-30-injured-when-pro-russian-separatists-attack-a-mil.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 11 Ukrainian Army soldiers are killed and 30 injured when pro-Russian separatists attack a military checkpoint. ](/news/2014/05/22/at-least-11-ukrainian-army-soldiers-are-killed-and-30-injured-when-pro-russian-separatists-attack-a-military-checkpoint.md) _(Current version)_
 
 ### Related:

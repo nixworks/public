@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/2/thai-prime-minister-samak-sundaravej-declares-a-
 
 ### Changes:
 
-1. [ 2008 Thai political crisis: Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/2008-thai-political-crisis-p-thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of.md) _2017-08-25 03:22:48 (First version)_
-2. [ 2008 Thai political crisis:: Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/2008-thai-political-crisis-thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of.md) _2017-08-27 03:22:41 (Update)_
+1. [ 2008 Thai political crisis:: Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/2008-thai-political-crisis-thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 Thai political crisis: Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/2008-thai-political-crisis-p-thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of.md) _2018-02-06 13:49:18 (Update)_
 2. [ Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of-pro-and-anti-government-prot.md) _(Current version)_
 
 ### Related:

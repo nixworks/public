@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-t
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-insurgency-in-yemen-al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-be.md) _2017-08-27 03:41:22 (First version)_
+1. [al-Qaeda insurgency in Yemen: al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-insurgency-in-yemen-al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-be.md) _2018-02-06 13:49:26 (First version)_
 1. [al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-beaten-back-by-the-army.md) _(Current version)_
 
 ### Related:

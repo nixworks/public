@@ -16,7 +16,7 @@ The US Secret Service has launched an investigation after hackers posted what th
 
 ### Changes:
 
-1. [The US Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-us-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-celebrities-i.md) _2017-10-17 03:44:01 (First version)_
+1. [The US Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-us-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-celebrities-i.md) _2018-02-06 13:49:24 (First version)_
 1. [The United States Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-united-states-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-cel.md) _(Current version)_
 
 ### Related:

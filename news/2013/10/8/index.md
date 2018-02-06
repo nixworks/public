@@ -29,7 +29,7 @@ _Context: Denver_
 
 ##### Savannah, Tennessee
 ### [Four people living at the same address in Savannah, Tennessee (3 men and 1 woman), believed to be involved in an area child pornography investigation and who had earlier fled a September 2013 FBI investigation (where computers and cameras were seized) are found dead of gunshot wounds (they may have been drugged) in a murder-suicide on a road in Double Springs, Winston County, Alabama. ](/news/2013/10/8/four-people-living-at-the-same-address-in-savannah-tennessee-3-men-and-1-woman-believed-to-be-involved-in-an-area-child-pornography-inve.md)
-_Context: Savannah, Tennessee, child pornography, Winston County, Alabama_
+_Context: child pornography, Winston County, Alabama, Savannah, Tennessee_
 
 ##### Royal Charter
 ### [Proposals for a Royal Charter on self-regulation of the British press put forward by the press industry itself are rejected by the Privy Council. ](/news/2013/10/8/proposals-for-a-royal-charter-on-self-regulation-of-the-british-press-put-forward-by-the-press-industry-itself-are-rejected-by-the-privy-cou.md)

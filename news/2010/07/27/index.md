@@ -5,11 +5,11 @@ Formats: [HTML](2010/07/27/index.html)  [JSON](2010/07/27/index.json)  [XML](201
 
 ##### classified information
 ### [The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. ](/news/2010/07/27/the-afghan-war-diary-claim-that-pakistan-s-inter-service-intelligence-isi-orchestrated-the-suicide-attack-on-the-indian-embassy-in-kabul-i.md)
-_Context: Inter-Service Intelligence, India, suicide attack, embassies, classified information, Pakistan, Kabul_
+_Context: India, embassies, Kabul, classified information, suicide attack, Pakistan, Inter-Service Intelligence_
 
 ##### photographic negatives
 ### [Experts verify that photographic negatives bought at a garage sale are early works of the American photographer Ansel Adams. ](/news/2010/07/27/experts-verify-that-photographic-negatives-bought-at-a-garage-sale-are-early-works-of-the-american-photographer-ansel-adams.md)
-_Context: photographer, Ansel Adams, garage sale, photographic negatives, United States_
+_Context: photographic negatives, Ansel Adams, garage sale, United States, photographer_
 
 ##### BP
 ### [BP announces that Tony Hayward is to step down as CEO following the Deepwater Horizon oil spill and will be replaced by Bob Dudley on October 1st. ](/news/2010/07/27/bp-announces-that-tony-hayward-is-to-step-down-as-ceo-following-the-deepwater-horizon-oil-spill-and-will-be-replaced-by-bob-dudley-on-octobe.md)
@@ -29,7 +29,7 @@ A Lufthansa cargo plane crashes at King Khaled International Airport in the Saud
 
 ##### oil spill
 ### [An oil spill in Dalian, China, is contained from reaching international waters. ](/news/2010/07/27/an-oil-spill-in-dalian-china-is-contained-from-reaching-international-waters.md)
-_Context: international waters, Dalian, oil spill_
+_Context: Dalian, international waters, oil spill_
 
 ##### Egypt
 ### [Two police officers in Egypt go on trial for brutality over the death of a man in custody in Alexandria. ](/news/2010/07/27/two-police-officers-in-egypt-go-on-trial-for-brutality-over-the-death-of-a-man-in-custody-in-alexandria.md)
@@ -37,7 +37,7 @@ Two officers in court accused of beating a young man who later died in custody.
 
 ##### Israeli police
 ### [Following a court order, Israeli police demolished the Bedouin village of Al-Araqeeb north of Beer Sheva, evicting 200 residents. ](/news/2010/07/27/following-a-court-order-israeli-police-demolished-the-bedouin-village-of-al-araqeeb-north-of-beer-sheva-evicting-200-residents.md)
-_Context: Al-Araqeeb, Beer Sheva, Israeli police, Bedouin_
+_Context: Israeli police, Al-Araqeeb, Beer Sheva, Bedouin_
 
 ##### Netherlands
 ### [A Dutch court rules that sailor Laura Dekker can attempt to become the youngest person to circumnavigate the world solo. ](/news/2010/07/27/a-dutch-court-rules-that-sailor-laura-dekker-can-attempt-to-become-the-youngest-person-to-circumnavigate-the-world-solo.md)
@@ -45,7 +45,7 @@ Laura Dekker, 14, wins a court battle allowing her to try to become the youngest
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, describes the Gaza Strip as a "prison camp" during a visit to Turkey. Israel's ambassador to the UK, Ron Prosor, describes the people of the Gaza strip as "prisoners of the terrorist organization Hamas". ](/news/2010/07/27/david-cameron-the-prime-minister-of-the-united-kingdom-describes-the-gaza-strip-as-a-prison-camp-during-a-visit-to-turkey-israel-s-amba.md)
-_Context: terrorist, Hamas, David Cameron, Turkish, Gaza Strip, Israel, prison camp, Ron Prosor, Prime Minister_
+_Context: Prime Minister, prison camp, terrorist, Turkey, Hamas, Israel, Gaza Strip, Ron Prosor, David Cameron_
 
 ##### lawmakers
 ### [The United States Congress provides funding for a troop increase for the War in Afghanistan. ](/news/2010/07/27/the-united-states-congress-provides-funding-for-a-troop-increase-for-the-war-in-afghanistan.md)
@@ -53,7 +53,7 @@ The Congress on Tuesday gave President Barack Obama long-delayed funding for his
 
 ##### 19th century
 ### [The wreck of the 19th century Royal Navy ship HMS Investigator is found in Mercy Bay in northern Canada. ](/news/2010/07/27/the-wreck-of-the-19th-century-royal-navy-ship-hms-investigator-is-found-in-mercy-bay-in-northern-canada.md)
-_Context: 19th century, HMS Investigator, Mercy Bay, Royal Navy, Canadian_
+_Context: Mercy Bay, HMS Investigator, Royal Navy, 19th century, Canadian_
 
 ##### Argentine Football Association
 ### [The Argentine Football Association decides not to renew Diego Maradona's contract as coach of the Argentina national football team. ](/news/2010/07/27/the-argentine-football-association-decides-not-to-renew-diego-maradona-s-contract-as-coach-of-the-argentina-national-football-team.md)

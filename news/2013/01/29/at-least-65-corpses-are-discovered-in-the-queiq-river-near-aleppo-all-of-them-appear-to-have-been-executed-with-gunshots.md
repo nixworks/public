@@ -16,8 +16,8 @@ The bodies of at least 71 young men, all apparently summarily executed, have bee
 
 ### Changes:
 
-1. [Syrian civil war:At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-pat-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _2017-08-25 03:37:22 (First version)_
-2. [Syrian civil war:: At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _2017-08-27 03:37:32 (Update)_
+1. [Syrian civil war:At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-pat-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md) _(Current version)_
 
 ### Related:

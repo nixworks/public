@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/11/walmart-announces-that-it-will-increase-the-min
 
 ### Changes:
 
-1. [Walmart increases the minimum hourly wage for its U.S. employees to $11 per hour. ](/news/2018/01/11/walmart-increases-the-minimum-hourly-wage-for-its-u-s-employees-to-11-per-hour.md) _2018-01-11 16:30:05 (First version)_
-2. [Walmart increases the minimum wage for its U.S. employees to $11 per hour. ](/news/2018/01/11/walmart-increases-the-minimum-wage-for-its-u-s-employees-to-11-per-hour.md) _2018-01-12 00:30:05 (Update)_
+1. [Walmart increases the minimum wage for its U.S. employees to $11 per hour. ](/news/2018/01/11/walmart-increases-the-minimum-wage-for-its-u-s-employees-to-11-per-hour.md) _2018-02-06 13:49:31 (First version)_
+2. [Walmart increases the minimum hourly wage for its U.S. employees to $11 per hour. ](/news/2018/01/11/walmart-increases-the-minimum-hourly-wage-for-its-u-s-employees-to-11-per-hour.md) _2018-02-06 13:49:31 (Update)_
 2. [Walmart announces that it will increase the minimum wage for its U.S. employees to $11 per hour and close 50 Sam's Club stores. ](/news/2018/01/11/walmart-announces-that-it-will-increase-the-minimum-wage-for-its-u-s-employees-to-11-per-hour-and-close-50-sam-s-club-stores.md) _(Current version)_
 
 ### Related:

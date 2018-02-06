@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/25/the-islamic-state-of-iraq-and-the-levant-claim-
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/insurgency-in-the-maghreb-2002-present-the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia.md) _2017-08-27 03:44:03 (First version)_
+1. [Insurgency in the Maghreb (2002-present): The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/insurgency-in-the-maghreb-2002-present-the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia.md) _2018-02-06 13:49:28 (First version)_
 1. [The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia-s-presidential-guard-in-tunis-that-killed-14.md) _(Current version)_
 
 ### Related:

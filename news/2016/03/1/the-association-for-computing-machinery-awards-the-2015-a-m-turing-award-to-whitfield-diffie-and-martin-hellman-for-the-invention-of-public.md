@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/1/the-association-for-computing-machinery-awards-t
 
 ### Changes:
 
-1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-publ.md) _2017-08-25 03:44:43 (First version)_
+1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-publ.md) _2018-02-06 13:49:28 (First version)_
 1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.md) _(Current version)_
 
 ### Related:

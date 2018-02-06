@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/06/12/iranian-authorities-disperse-and-arrest-protest
 
 ### Changes:
 
-1. [2011 Iranian protests:Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/2011-iranian-protests-piranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-ele.md) _2017-08-25 03:33:28 (First version)_
-2. [2011 Iranian protests:: Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/2011-iranian-protests-iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-el.md) _2017-08-27 03:33:36 (Update)_
+1. [2011 Iranian protests:Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/2011-iranian-protests-piranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-ele.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Iranian protests:: Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/2011-iranian-protests-iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-el.md) _2018-02-06 13:49:22 (Update)_
 2. [Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-election-of-mahmoud-ahmadi.md) _(Current version)_
 
 ### Related:

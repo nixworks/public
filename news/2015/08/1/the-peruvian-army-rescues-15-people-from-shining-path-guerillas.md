@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/1/the-peruvian-army-rescues-15-people-from-shining
 
 ### Changes:
 
-1. [Internal conflict in Peru: The Peruvian Army rescues 15 people from Shining Path guerillas. ](/news/2015/08/1/internal-conflict-in-peru-the-peruvian-army-rescues-15-people-from-shining-path-guerillas.md) _2017-08-27 03:42:46 (First version)_
+1. [Internal conflict in Peru: The Peruvian Army rescues 15 people from Shining Path guerillas. ](/news/2015/08/1/internal-conflict-in-peru-the-peruvian-army-rescues-15-people-from-shining-path-guerillas.md) _2018-02-06 13:49:27 (First version)_
 1. [The Peruvian Army rescues 15 people from Shining Path guerillas. ](/news/2015/08/1/the-peruvian-army-rescues-15-people-from-shining-path-guerillas.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Opposition leader demands action before Friday&rsquo;s negotiations in Vienna
 
 ### Changes:
 
-1. [2016 Macedonian protests: Protests continue against President Gjorge Ivanov in Skopje, Macedonia. Opposition leader Zoran Zaev said he will only take part in EU-brokered negotiations with the government if certain conditions are met. ](/news/2016/04/20/2016-macedonian-protests-protests-continue-against-president-gjorge-ivanov-in-skopje-macedonia-opposition-leader-zoran-zaev-said-he-will.md) _2017-08-27 03:45:43 (First version)_
+1. [2016 Macedonian protests: Protests continue against President Gjorge Ivanov in Skopje, Macedonia. Opposition leader Zoran Zaev said he will only take part in EU-brokered negotiations with the government if certain conditions are met. ](/news/2016/04/20/2016-macedonian-protests-protests-continue-against-president-gjorge-ivanov-in-skopje-macedonia-opposition-leader-zoran-zaev-said-he-will.md) _2018-02-06 13:49:28 (First version)_
 1. [Protests continue against President Gjorge Ivanov in Skopje, Macedonia. Opposition leader Zoran Zaev said he will only take part in EU-brokered negotiations with the government if certain conditions are met. ](/news/2016/04/20/protests-continue-against-president-gjorge-ivanov-in-skopje-macedonia-opposition-leader-zoran-zaev-said-he-will-only-take-part-in-eu-broke.md) _(Current version)_
 
 ### Related:

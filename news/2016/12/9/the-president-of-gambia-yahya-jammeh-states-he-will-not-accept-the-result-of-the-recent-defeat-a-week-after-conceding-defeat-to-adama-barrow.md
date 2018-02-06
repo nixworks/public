@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-w
 
 ### Changes:
 
-1. [Gambian presidential election, 2016: The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/gambian-presidential-election-2016-the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-a.md) _2017-08-27 03:47:24 (First version)_
+1. [Gambian presidential election, 2016: The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/gambian-presidential-election-2016-the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-a.md) _2018-02-06 13:49:30 (First version)_
 1. [The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-after-conceding-defeat-to-adama-barrow.md) _(Current version)_
 
 ### Related:

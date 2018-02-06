@@ -17,7 +17,7 @@ The Commonwealth on Saturday pledged itself towards an &quot;ambitious&quot;, le
 
 ### Changes:
 
-1. [Commonwealth Heads of Government Meeting 2015: The Commonwealth Heads of Government meeting in Malta calls for an ambitious and legally binding outcome at the 2015 United Nations Climate Change Conference. ](/news/2015/11/28/commonwealth-heads-of-government-meeting-2015-the-commonwealth-heads-of-government-meeting-in-malta-calls-for-an-ambitious-and-legally-bind.md) _2017-08-27 03:44:05 (First version)_
+1. [Commonwealth Heads of Government Meeting 2015: The Commonwealth Heads of Government meeting in Malta calls for an ambitious and legally binding outcome at the 2015 United Nations Climate Change Conference. ](/news/2015/11/28/commonwealth-heads-of-government-meeting-2015-the-commonwealth-heads-of-government-meeting-in-malta-calls-for-an-ambitious-and-legally-bind.md) _2018-02-06 13:49:28 (First version)_
 1. [The Commonwealth Heads of Government meeting in Malta calls for an ambitious and legally binding outcome at the 2015 United Nations Climate Change Conference. ](/news/2015/11/28/the-commonwealth-heads-of-government-meeting-in-malta-calls-for-an-ambitious-and-legally-binding-outcome-at-the-2015-united-nations-climate.md) _(Current version)_
 
 ### Related:

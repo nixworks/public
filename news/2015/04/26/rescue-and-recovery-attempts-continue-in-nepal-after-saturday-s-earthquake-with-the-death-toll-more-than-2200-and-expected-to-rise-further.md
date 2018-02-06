@@ -20,7 +20,7 @@ Tens of thousands of Nepalese who spent the night under a chilly sky were jolted
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: Rescue and recovery attempts continue in Nepal after Saturday's earthquake with the death toll more than 2200 and expected to rise further. ](/news/2015/04/26/april-2015-nepal-earthquake-rescue-and-recovery-attempts-continue-in-nepal-after-saturday-s-earthquake-with-the-death-toll-more-than-2200-a.md) _2017-08-27 03:42:15 (First version)_
+1. [April 2015 Nepal earthquake: Rescue and recovery attempts continue in Nepal after Saturday's earthquake with the death toll more than 2200 and expected to rise further. ](/news/2015/04/26/april-2015-nepal-earthquake-rescue-and-recovery-attempts-continue-in-nepal-after-saturday-s-earthquake-with-the-death-toll-more-than-2200-a.md) _2018-02-06 13:49:27 (First version)_
 1. [Rescue and recovery attempts continue in Nepal after Saturday's earthquake with the death toll more than 2200 and expected to rise further. ](/news/2015/04/26/rescue-and-recovery-attempts-continue-in-nepal-after-saturday-s-earthquake-with-the-death-toll-more-than-2200-and-expected-to-rise-further.md) _(Current version)_
 
 ### Related:

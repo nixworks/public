@@ -9,7 +9,7 @@ _Context: Lebanon, Syrian Air Force_
 
 ##### car bombing
 ### [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: car bombing, Somalia, Mogadishu_
+_Context: Somalia, Mogadishu, car bombing_
 
 ##### suicide bombing
 ### [A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4-people-and-injures-47.md)
@@ -17,7 +17,7 @@ Militants kill at least four people and injure 29 in an attack on a court and pr
 
 ##### bus park
 ### [A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md)
-_Context: bus park, Kano, Nigeria_
+_Context: Kano, bus park, Nigeria_
 
 ##### U.S. Marines
 ### [Seven U.S. Marines are killed and seven others are injured when a mortar explodes during a training exercise in the Hawthorne Army Depot in Hawthorne, Nevada, United States. ](/news/2013/03/18/seven-u-s-marines-are-killed-and-seven-others-are-injured-when-a-mortar-explodes-during-a-training-exercise-in-the-hawthorne-army-depot-in.md)
@@ -25,15 +25,15 @@ A deadly explosion at a military ammunition storage facility in Nevada during a 
 
 ##### Japan
 ### [Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. ](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.md)
-_Context: China, Japan, DCNS, France_
+_Context: DCNS, China, Japan, France_
 
 ##### President of Argentina
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
-_Context: Argentina, President of Argentina, Pope Francis, British, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute_
+_Context: Cristina Fernandez de Kirchner, Argentina, Pope Francis, United Kingdom, President of Argentina, Falkland Islands sovereignty dispute_
 
 ##### China
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
-_Context: China, missile defence, Washington, D.C., North Korea, United States_
+_Context: North Korea, missile defence, China, Washington, D.C., United States_
 
 ##### North Korea
 ### [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md)
@@ -57,19 +57,19 @@ HOUSTON -- An undergraduate student at the University of Central Florida apparen
 
 ##### FBI
 ### [The United States FBI states that they know who carried out greatest art heist in American history at Boston's Isabella Stewart Gardner Museum in 1990. ](/news/2013/03/18/the-united-states-fbi-states-that-they-know-who-carried-out-greatest-art-heist-in-american-history-at-boston-s-isabella-stewart-gardner-muse.md)
-_Context: Boston, Isabella Stewart Gardner Museum, United States, art heist, FBI_
+_Context: Isabella Stewart Gardner Museum, United States, FBI, art heist, Boston_
 
 ##### Ghassan Hitto
 ### [Ghassan Hitto is elected as the Syrian National Coalition's provisional Prime Minister. He will be tasked with forming a government amid the Syrian civil war. ](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.md)
 The opposition Syrian National Coalition chose Western-educated former businessman Ghassan Hitto as provisional prime minister in a vote on Tuesday at a meeting in Istanbul.
 
-##### British
+##### United Kingdom
 ### [The UK's three main political parties reach an agreement on measures to regulate the British press. ](/news/2013/03/18/the-uk-s-three-main-political-parties-reach-an-agreement-on-measures-to-regulate-the-british-press.md)
 Plans for a new press watchdog able to impose million-pound fines and demand apologies are set out as a deal is struck between the three main parties after the phone-hacking scandal.
 
 ##### United States
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: Hillary Clinton, same-sex marriage, United States Secretary of State, United States_
+_Context: United States Secretary of State, Hillary Clinton, same-sex marriage, United States_
 
 ##### US
 ### [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md)

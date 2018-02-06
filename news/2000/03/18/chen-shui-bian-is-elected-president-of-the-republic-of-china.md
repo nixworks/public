@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/03/18/chen-shui-bian-is-elected-president-of-the-repu
 
 ### Changes:
 
-1. [2000 Taiwanese presidential election: Chen Shui-bian is elected President of the Republic of China.](/news/2000/03/18/2000-taiwanese-presidential-election-chen-shui-bian-is-elected-president-of-the-republic-of-china.md) _2017-08-27 03:15:08 (First version)_
+1. [2000 Taiwanese presidential election: Chen Shui-bian is elected President of the Republic of China.](/news/2000/03/18/2000-taiwanese-presidential-election-chen-shui-bian-is-elected-president-of-the-republic-of-china.md) _2018-02-06 13:49:15 (First version)_
 1. [Chen Shui-bian is elected President of the Republic of China.](/news/2000/03/18/chen-shui-bian-is-elected-president-of-the-republic-of-china.md) _(Current version)_
 
 ### Related:

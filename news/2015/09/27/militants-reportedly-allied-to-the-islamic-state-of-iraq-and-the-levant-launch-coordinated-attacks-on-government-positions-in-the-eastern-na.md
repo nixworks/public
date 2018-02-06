@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/27/militants-reportedly-allied-to-the-islamic-stat
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Militants reportedly allied to the Islamic State of Iraq and the Levant launch coordinated attacks on government positions in the eastern Nangarhar Province close to the border with Pakistan. Two police officers are reportedly killed. ](/news/2015/09/27/war-in-afghanistan-2015-present-militants-reportedly-allied-to-the-islamic-state-of-iraq-and-the-levant-launch-coordinated-attacks-on-g.md) _2017-08-27 03:43:10 (First version)_
+1. [War in Afghanistan (2015-present): Militants reportedly allied to the Islamic State of Iraq and the Levant launch coordinated attacks on government positions in the eastern Nangarhar Province close to the border with Pakistan. Two police officers are reportedly killed. ](/news/2015/09/27/war-in-afghanistan-2015-present-militants-reportedly-allied-to-the-islamic-state-of-iraq-and-the-levant-launch-coordinated-attacks-on-g.md) _2018-02-06 13:49:27 (First version)_
 1. [Militants reportedly allied to the Islamic State of Iraq and the Levant launch coordinated attacks on government positions in the eastern Nangarhar Province close to the border with Pakistan. Two police officers are reportedly killed. ](/news/2015/09/27/militants-reportedly-allied-to-the-islamic-state-of-iraq-and-the-levant-launch-coordinated-attacks-on-government-positions-in-the-eastern-na.md) _(Current version)_
 
 ### Related:

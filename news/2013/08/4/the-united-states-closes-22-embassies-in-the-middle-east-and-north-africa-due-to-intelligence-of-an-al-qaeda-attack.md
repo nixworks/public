@@ -18,8 +18,8 @@ The Canadian embassy in Dhaka, the capital of Bangladesh, will be closed Sunday 
 
 ### Changes:
 
-1. [Worldwide embassy closingsThe United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/worldwide-embassy-closingspthe-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-atta.md) _2017-08-25 03:39:05 (First version)_
-2. [Worldwide embassy closings: The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/worldwide-embassy-closings-the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-att.md) _2017-08-27 03:39:21 (Update)_
+1. [Worldwide embassy closingsThe United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/worldwide-embassy-closingspthe-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-atta.md) _2018-02-06 13:49:25 (First version)_
+2. [Worldwide embassy closings: The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/worldwide-embassy-closings-the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-att.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-attack.md) _(Current version)_
 
 ### Related:

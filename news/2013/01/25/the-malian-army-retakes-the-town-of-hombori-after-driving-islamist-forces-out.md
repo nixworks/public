@@ -19,8 +19,8 @@ French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Ga
 
 ### Changes:
 
-1. [Northern Mali conflict:The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-pthe-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _2017-08-25 03:37:20 (First version)_
-2. [Northern Mali conflict:: The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _2017-08-27 03:37:30 (Update)_
+1. [Northern Mali conflict:: The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-pthe-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _2018-02-06 13:49:24 (Update)_
 2. [The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md) _(Current version)_
 
 ### Related:

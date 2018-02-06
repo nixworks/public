@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/05/15/cbs-corporation-agreed-to-buy-the-popular-compu
 
 ### Changes:
 
-1. [ Mergers and Acquisitions: CBS Corporation agreed to buy the popular computer and technology website CNET Networks for $1.75 billion. ](/news/2008/05/15/mergers-and-acquisitions-cbs-corporation-agreed-to-buy-the-popular-computer-and-technology-website-cnet-networks-for-1-75-billion.md) _2017-08-27 03:22:05 (First version)_
+1. [ Mergers and Acquisitions: CBS Corporation agreed to buy the popular computer and technology website CNET Networks for $1.75 billion. ](/news/2008/05/15/mergers-and-acquisitions-cbs-corporation-agreed-to-buy-the-popular-computer-and-technology-website-cnet-networks-for-1-75-billion.md) _2018-02-06 13:49:18 (First version)_
 1. [ CBS Corporation agreed to buy the popular computer and technology website CNET Networks for $1.75 billion. ](/news/2008/05/15/cbs-corporation-agreed-to-buy-the-popular-computer-and-technology-website-cnet-networks-for-1-75-billion.md) _(Current version)_
 
 ### Related:

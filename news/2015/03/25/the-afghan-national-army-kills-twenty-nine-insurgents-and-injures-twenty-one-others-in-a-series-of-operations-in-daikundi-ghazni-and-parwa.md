@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/25/the-afghan-national-army-kills-twenty-nine-insu
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Afghan National Army kills twenty-nine insurgents and injures twenty-one others in a series of operations in Daikundi, Ghazni, and Parwan provinces during the past 24 hours. ](/news/2015/03/25/war-in-afghanistan-2015-present-the-afghan-national-army-kills-twenty-nine-insurgents-and-injures-twenty-one-others-in-a-series-of-oper.md) _2017-08-27 03:42:08 (First version)_
+1. [War in Afghanistan (2015-present): The Afghan National Army kills twenty-nine insurgents and injures twenty-one others in a series of operations in Daikundi, Ghazni, and Parwan provinces during the past 24 hours. ](/news/2015/03/25/war-in-afghanistan-2015-present-the-afghan-national-army-kills-twenty-nine-insurgents-and-injures-twenty-one-others-in-a-series-of-oper.md) _2018-02-06 13:49:26 (First version)_
 1. [The Afghan National Army kills twenty-nine insurgents and injures twenty-one others in a series of operations in Daikundi, Ghazni, and Parwan provinces during the past 24 hours. ](/news/2015/03/25/the-afghan-national-army-kills-twenty-nine-insurgents-and-injures-twenty-one-others-in-a-series-of-operations-in-daikundi-ghazni-and-parwa.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The gunman who killed a professor and himself may have also killed a woman in Mi
 
 ### Changes:
 
-1. [2016 UCLA shooting: A second victim of the UCLA shooter is found in Minnesota; the shooter is identified as a former Ph.D. candidate in mechanical engineering that claimed his first victim had "cleverly stolen his code." ](/news/2016/06/2/2016-ucla-shooting-a-second-victim-of-the-ucla-shooter-is-found-in-minnesota-the-shooter-is-identified-as-a-former-ph-d-candidate-in-mech.md) _2017-08-27 03:46:12 (First version)_
+1. [2016 UCLA shooting: A second victim of the UCLA shooter is found in Minnesota; the shooter is identified as a former Ph.D. candidate in mechanical engineering that claimed his first victim had "cleverly stolen his code." ](/news/2016/06/2/2016-ucla-shooting-a-second-victim-of-the-ucla-shooter-is-found-in-minnesota-the-shooter-is-identified-as-a-former-ph-d-candidate-in-mech.md) _2018-02-06 13:49:29 (First version)_
 1. [A second victim of the UCLA shooter is found in Minnesota; the shooter is identified as a former Ph.D. candidate in mechanical engineering that claimed his first victim had "cleverly stolen his code." ](/news/2016/06/2/a-second-victim-of-the-ucla-shooter-is-found-in-minnesota-the-shooter-is-identified-as-a-former-ph-d-candidate-in-mechanical-engineering-t.md) _(Current version)_
 
 ### Related:

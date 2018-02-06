@@ -17,8 +17,8 @@ Yemeni army forces backed by Arab coalition aircraft killed about 40 suspected a
 
 ### Changes:
 
-1. [About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes-fight-their-way.md) _2017-08-25 03:46:16 (First version)_
-2. [Yemeni Civil War: About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/yemeni-civil-war-about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes.md) _2017-08-27 03:46:39 (Update)_
+1. [Yemeni Civil War: About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/yemeni-civil-war-about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes.md) _2018-02-06 13:49:29 (First version)_
+2. [About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes-fight-their-way.md) _2018-02-06 13:49:29 (Update)_
 2. [About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes-fight-their-way-in.md) _(Current version)_
 
 ### Related:

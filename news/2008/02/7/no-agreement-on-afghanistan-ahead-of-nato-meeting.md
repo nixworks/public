@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meetin
 
 ### Changes:
 
-1. [ NATO meets in Vilnius, Lithuania. No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/nato-meets-in-vilnius-lithuania-p-no-agreement-on-afghanistan-ahead-of-nato-meeting.md) _2017-08-25 03:21:45 (First version)_
-2. [ NATO meets in Vilnius, Lithuania.: No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/nato-meets-in-vilnius-lithuania-no-agreement-on-afghanistan-ahead-of-nato-meeting.md) _2017-08-27 03:21:39 (Update)_
+1. [ NATO meets in Vilnius, Lithuania. No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/nato-meets-in-vilnius-lithuania-p-no-agreement-on-afghanistan-ahead-of-nato-meeting.md) _2018-02-06 13:49:18 (First version)_
+2. [ NATO meets in Vilnius, Lithuania.: No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/nato-meets-in-vilnius-lithuania-no-agreement-on-afghanistan-ahead-of-nato-meeting.md) _2018-02-06 13:49:18 (Update)_
 2. [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md) _(Current version)_
 
 ### Related:

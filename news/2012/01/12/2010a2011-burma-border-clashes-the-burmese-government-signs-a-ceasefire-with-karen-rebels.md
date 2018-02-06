@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/01/12/2010a2011-burma-border-clashes-the-burmese-gove
 
 ### Changes:
 
-1. [2010-2011 Burma border clashes: The Burmese government signs a ceasefire with Karen rebels. ](/news/2012/01/12/2010-2011-burma-border-clashes-the-burmese-government-signs-a-ceasefire-with-karen-rebels.md) _2017-08-27 03:34:59 (First version)_
+1. [2010-2011 Burma border clashes: The Burmese government signs a ceasefire with Karen rebels. ](/news/2012/01/12/2010-2011-burma-border-clashes-the-burmese-government-signs-a-ceasefire-with-karen-rebels.md) _2018-02-06 13:49:23 (First version)_
 1. [2010-2011 Burma border clashes: The Burmese government signs a ceasefire with Karen rebels. ](/news/2012/01/12/2010a2011-burma-border-clashes-the-burmese-government-signs-a-ceasefire-with-karen-rebels.md) _(Current version)_
 
 ### Related:

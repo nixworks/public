@@ -5,11 +5,11 @@ Formats: [HTML](2008/04/25/index.html)  [JSON](2008/04/25/index.json)  [XML](200
 
 ##### Mennonite
 ### [ Some forty people are injured when the floor of a Mennonite church collapses during a Christian rock concert in Abbotsford, British Columbia. ](/news/2008/04/25/some-forty-people-are-injured-when-the-floor-of-a-mennonite-church-collapses-during-a-christian-rock-concert-in-abbotsford-british-columbi.md)
-_Context: Mennonite, Abbotsford, British Columbia, church, Christian rock_
+_Context: church, Christian rock, Mennonite, Abbotsford, British Columbia_
 
 ##### semitrailer
 ### [ Two people are killed and more than a dozen injured after a semitrailer crashes into a Chicago Transit Authority station during rush hour. ](/news/2008/04/25/two-people-are-killed-and-more-than-a-dozen-injured-after-a-semitrailer-crashes-into-a-chicago-transit-authority-station-during-rush-hour.md)
-_Context: Chicago Transit Authority, rush hour, semitrailer_
+_Context: rush hour, semitrailer, Chicago Transit Authority_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: At least 24 people are killed by a blast on a bus near Colombo. ](/news/2008/04/25/sri-lankan-civil-war-at-least-24-people-are-killed-by-a-blast-on-a-bus-near-colombo.md)

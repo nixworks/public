@@ -9,7 +9,7 @@ At least five people have been killed in multiple suicide bombings in a mainly C
 
 ##### Mahamasina Municipal Stadium
 ### [At least two people are killed and 72 are injured following a grenade attack on a concert at the Mahamasina Municipal Stadium in Madagascar's capital, Antananarivo. ](/news/2016/06/27/at-least-two-people-are-killed-and-72-are-injured-following-a-grenade-attack-on-a-concert-at-the-mahamasina-municipal-stadium-in-madagascar.md)
-_Context: Mahamasina Municipal Stadium, Madagascar, Antananarivo_
+_Context: Mahamasina Municipal Stadium, Antananarivo, Madagascar_
 
 ##### Brexit impact
 ### [The value of the British pound initially falls by more than 2% as Asian markets open to a decline. ](/news/2016/06/27/the-value-of-the-british-pound-initially-falls-by-more-than-2-as-asian-markets-open-to-a-decline.md)
@@ -29,7 +29,7 @@ Two men who were presumed dead when a camper was swept away in rushing waters du
 
 ##### India
 ### [India formally joins the Missile Technology Control Regime (MTCR). ](/news/2016/06/27/india-formally-joins-the-missile-technology-control-regime-mtcr.md)
-_Context: Missile Technology Control Regime, India_
+_Context: India, Missile Technology Control Regime_
 
 ##### Russia-Turkey relations
 ### [Turkish President Recep Tayyip Erdogan writes Russian President Vladimir Putin to offer condolences to the family of the deceased Russian pilot of the Sukhoi Su-24 warplane shot down last November. The Kremlin has insisted on a personal apology for months. A Turkish spokesman says this is a step toward improving bilateral relations between the two countries. ](/news/2016/06/27/turkish-president-recep-tayyip-erdoaan-writes-russian-president-vladimir-putin-to-offer-condolences-to-the-family-of-the-deceased-russian-p.md)

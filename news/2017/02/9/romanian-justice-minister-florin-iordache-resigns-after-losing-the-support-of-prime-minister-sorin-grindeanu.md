@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/02/9/romanian-justice-minister-florin-iordache-resign
 
 ### Changes:
 
-1. [2017 Romanian protests: Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/2017-romanian-protests-romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md) _2017-08-27 03:47:47 (First version)_
+1. [2017 Romanian protests: Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/2017-romanian-protests-romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md) _2018-02-06 13:49:30 (First version)_
 1. [Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md) _(Current version)_
 
 ### Related:

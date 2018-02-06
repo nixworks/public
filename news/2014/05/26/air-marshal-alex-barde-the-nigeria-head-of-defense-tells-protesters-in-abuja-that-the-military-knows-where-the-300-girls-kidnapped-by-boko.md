@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defe
 
 ### Changes:
 
-1. [2014 Chibok kidnapping: Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/2014-chibok-kidnapping-air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300.md) _2017-08-27 03:40:45 (First version)_
+1. [2014 Chibok kidnapping: Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/2014-chibok-kidnapping-air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300.md) _2018-02-06 13:49:26 (First version)_
 1. [Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300-girls-kidnapped-by-boko.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Danny became a Category 3 hurricane in the Atlantic Ocean and then dissipated ne
 
 ### Changes:
 
-1. [2015 Atlantic hurricane season: The season's first hurricane, Hurricane Danny, is upgraded to Category 3, as its winds strengthened to 115 mph. On its current track, the hurricane will move across the Leeward Islands by Monday but may weaken when it reaches Puerto Rico and the Virgin Islands. ](/news/2015/08/21/2015-atlantic-hurricane-season-the-season-s-first-hurricane-hurricane-danny-is-upgraded-to-category-3-as-its-winds-strengthened-to-115-m.md) _2017-08-27 03:42:52 (First version)_
+1. [2015 Atlantic hurricane season: The season's first hurricane, Hurricane Danny, is upgraded to Category 3, as its winds strengthened to 115 mph. On its current track, the hurricane will move across the Leeward Islands by Monday but may weaken when it reaches Puerto Rico and the Virgin Islands. ](/news/2015/08/21/2015-atlantic-hurricane-season-the-season-s-first-hurricane-hurricane-danny-is-upgraded-to-category-3-as-its-winds-strengthened-to-115-m.md) _2018-02-06 13:49:27 (First version)_
 1. [The season's first hurricane, Hurricane Danny, is upgraded to Category 3, as its winds strengthened to 115 mph. On its current track, the hurricane will move across the Leeward Islands by Monday but may weaken when it reaches Puerto Rico and the Virgin Islands. ](/news/2015/08/21/the-season-s-first-hurricane-hurricane-danny-is-upgraded-to-category-3-as-its-winds-strengthened-to-115-mph-on-its-current-track-the-hu.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support
 
 ### Changes:
 
-1. [Ukraine-NATO relations: NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/ukraine-nato-relations-nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-wi.md) _2017-08-27 03:46:16 (First version)_
+1. [Ukraine-NATO relations: NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/ukraine-nato-relations-nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-wi.md) _2018-02-06 13:49:29 (First version)_
 1. [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md) _(Current version)_
 
 ### Related:

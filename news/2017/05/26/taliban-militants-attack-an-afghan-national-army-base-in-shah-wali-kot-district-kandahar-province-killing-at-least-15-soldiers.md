@@ -16,7 +16,7 @@ The attack comes days after the militants stormed another military base in the s
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/war-in-afghanistan-2015-present-taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-kil.md) _2017-08-27 03:48:23 (First version)_
+1. [War in Afghanistan (2015-present): Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/war-in-afghanistan-2015-present-taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-kil.md) _2018-02-06 13:49:30 (First version)_
 1. [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md) _(Current version)_
 
 ### Related:

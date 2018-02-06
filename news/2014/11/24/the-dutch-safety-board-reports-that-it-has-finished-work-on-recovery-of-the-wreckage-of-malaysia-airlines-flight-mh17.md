@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/24/the-dutch-safety-board-reports-that-it-has-fini
 
 ### Changes:
 
-1. [Malaysia Airlines flight MH17: The Dutch Safety Board reports that it has finished work on recovery of the wreckage of Malaysia Airlines flight MH17. ](/news/2014/11/24/malaysia-airlines-flight-mh17-the-dutch-safety-board-reports-that-it-has-finished-work-on-recovery-of-the-wreckage-of-malaysia-airlines-fli.md) _2017-08-27 03:41:33 (First version)_
+1. [Malaysia Airlines flight MH17: The Dutch Safety Board reports that it has finished work on recovery of the wreckage of Malaysia Airlines flight MH17. ](/news/2014/11/24/malaysia-airlines-flight-mh17-the-dutch-safety-board-reports-that-it-has-finished-work-on-recovery-of-the-wreckage-of-malaysia-airlines-fli.md) _2018-02-06 13:49:26 (First version)_
 1. [The Dutch Safety Board reports that it has finished work on recovery of the wreckage of Malaysia Airlines flight MH17. ](/news/2014/11/24/the-dutch-safety-board-reports-that-it-has-finished-work-on-recovery-of-the-wreckage-of-malaysia-airlines-flight-mh17.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forc
 
 ### Changes:
 
-1. [Kachin conflict:Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/kachin-conflict-pburmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a.md) _2017-08-25 03:37:17 (First version)_
-2. [Kachin conflict:: Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/kachin-conflict-burmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a.md) _2017-08-27 03:37:28 (Update)_
+1. [Kachin conflict:Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/kachin-conflict-pburmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a.md) _2018-02-06 13:49:24 (First version)_
+2. [Kachin conflict:: Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/kachin-conflict-burmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a.md) _2018-02-06 13:49:24 (Update)_
 2. [Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/burmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a-government-ceasef.md) _(Current version)_
 
 ### Related:

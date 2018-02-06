@@ -16,7 +16,7 @@ Decision ends five-year battle by archive holders hoping to sell trove of papers
 
 ### Changes:
 
-1. [A collection of manuscripts by Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. ](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-max-brod-must-be-handed-over-to-the-national-library-of-israel-says-the-judge-in-tel-aviv.md) _2017-08-25 03:36:41 (First version)_
+1. [A collection of manuscripts by Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. ](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-max-brod-must-be-handed-over-to-the-national-library-of-israel-says-the-judge-in-tel-aviv.md) _2018-02-06 13:49:24 (First version)_
 1. [A collection of manuscripts by Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. ](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-max-brod-must-be-handed-over-to-the-national-library-of-israel-says-the-judge-in-tel-aviv-s.md) _(Current version)_
 
 ### Related:

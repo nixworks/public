@@ -16,7 +16,7 @@ Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional renditi
 
 ### Changes:
 
-1. [One Love Manchester: The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/one-love-manchester-the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester.md) _2017-08-27 03:48:25 (First version)_
+1. [One Love Manchester: The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/one-love-manchester-the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester.md) _2018-02-06 13:49:30 (First version)_
 1. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _(Current version)_
 
 ### Related:

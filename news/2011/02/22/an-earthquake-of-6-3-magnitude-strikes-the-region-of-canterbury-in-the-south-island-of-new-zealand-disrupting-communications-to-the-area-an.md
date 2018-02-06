@@ -28,8 +28,8 @@ There have been multiple fatalities after a shallow 6.3 magnitude earthquake in 
 
 ### Changes:
 
-1. [2011 Canterbury earthquake:An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/2011-canterbury-earthquake-pan-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting-c.md) _2017-08-25 03:32:18 (First version)_
-2. [2011 Canterbury earthquake:: An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/2011-canterbury-earthquake-an-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting.md) _2017-08-27 03:32:26 (Update)_
+1. [2011 Canterbury earthquake:An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/2011-canterbury-earthquake-pan-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting-c.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Canterbury earthquake:: An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/2011-canterbury-earthquake-an-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting.md) _2018-02-06 13:49:22 (Update)_
 2. [An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/an-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting-communications-to-the-area-an.md) _(Current version)_
 
 ### Related:

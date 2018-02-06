@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/6/at-least-36-people-are-dead-after-two-buses-cras
 
 ### Changes:
 
-1. [At least 36 people are dead after two buses crash on the Lagos-Ibadan Expressway in Nigeria. ](/news/2017/05/6/at-least-36-people-are-dead-after-two-buses-crash-on-the-lagos-ibadan-expressway-in-nigeria.md) _2017-08-27 03:48:18 (First version)_
+1. [At least 36 people are dead after two buses crash on the Lagos-Ibadan Expressway in Nigeria. ](/news/2017/05/6/at-least-36-people-are-dead-after-two-buses-crash-on-the-lagos-ibadan-expressway-in-nigeria.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 36 people are dead after two buses crash on the Lagos-Ibadan Expressway in Nigeria. ](/news/2017/05/6/at-least-36-people-are-dead-after-two-buses-crash-on-the-lagosaibadan-expressway-in-nigeria.md) _(Current version)_
 
 ### Related:

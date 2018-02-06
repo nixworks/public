@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/2/index.html)  [JSON](2012/02/2/index.json)  [XML](2012/
 
 ##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Zulkifli bin Hir, Umbra Jumdail, Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines_
+_Context: Umbra Jumdail, Jemaah Islamiyah, Malaysian, Philippines, Abu Sayyaf, Zulkifli bin Hir_
 
 ##### Yemen
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -13,7 +13,7 @@ _Context: Yemen_
 
 ##### Mexican Army
 ### [The Mexican Army sends 4,000 soldiers to Michoacn state as a result of recent violence. ](/news/2012/02/2/the-mexican-army-sends-4-000-soldiers-to-michoacan-state-as-a-result-of-recent-violence.md)
-_Context: Michoacn, Mexican Army_
+_Context: Mexican Army, Michoacn_
 
 ##### Papua New Guinea
 ### [The ferry Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board-nearby.md)
@@ -37,11 +37,11 @@ Corruption charges against former West Australian Labor premier Brian Burke have
 
 ##### Supreme Court of India
 ### [The Supreme Court of India cancels 122 telecom licences granted in the 2008 sale at the centre of a corruption scandal involving former minister A. Raja. ](/news/2012/02/2/the-supreme-court-of-india-cancels-122-telecom-licences-granted-in-the-2008-sale-at-the-centre-of-a-corruption-scandal-involving-former-mini.md)
-_Context: A. Raja, telecom, Supreme Court of India_
+_Context: Supreme Court of India, A. Raja, telecom_
 
 ##### French-born
 ### [A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. ](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.md)
-_Context: French-born, Church of Scientology, fraud_
+_Context: fraud, French-born, Church of Scientology_
 
 ##### Egypt
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-contro
 
 ### Changes:
 
-1. [Sinai insurgency: Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/sinai-insurgency-egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-succ.md) _2017-08-27 03:43:28 (First version)_
+1. [Sinai insurgency: Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/sinai-insurgency-egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-succ.md) _2018-02-06 13:49:28 (First version)_
 1. [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md) _(Current version)_
 
 ### Related:

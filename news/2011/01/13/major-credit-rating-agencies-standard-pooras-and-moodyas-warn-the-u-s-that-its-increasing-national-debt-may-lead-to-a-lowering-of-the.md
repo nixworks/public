@@ -16,7 +16,7 @@ Moody’s and S.& P. warned the United States that it might ruin its triple-A cr
 
 ### Changes:
 
-1. [Major credit rating agencies Standard & Poor-s and Moody-s warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-poor-s-and-moody-s-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md) _2017-08-27 03:31:53 (First version)_
+1. [Major credit rating agencies Standard & Poor-s and Moody-s warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-poor-s-and-moody-s-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md) _2018-02-06 13:49:21 (First version)_
 1. [Major credit rating agencies Standard & Poor's and Moody's warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-pooras-and-moodyas-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md) _(Current version)_
 
 ### Related:

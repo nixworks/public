@@ -21,11 +21,11 @@ _Context: Taiwan_
 
 ##### Nigeria
 ### [Nigerian soldiers are granted permission to shoot to kill "to protect civilians" in Jos. ](/news/2011/01/18/nigerian-soldiers-are-granted-permission-to-shoot-to-kill-to-protect-civilians-in-jos.md)
-_Context: Jos, Nigeria_
+_Context: Nigeria, Jos_
 
 ##### sets herself alight
 ### [A 25-year-old unemployed male dies after setting himself on fire in Alexandria. Another man, aged 40, sets himself on fire in Cairo in protests against rising prices. ](/news/2011/01/18/a-25-year-old-unemployed-male-dies-after-setting-himself-on-fire-in-alexandria-another-man-aged-40-sets-himself-on-fire-in-cairo-in-prote.md)
-_Context: sets herself alight, Alexandria, Cairo_
+_Context: sets herself alight, Cairo, Alexandria_
 
 ##### U.S.
 ### [The U.S. Federal Communications Commission and the U.S. Justice Department approve a $28 billion merger of Comcast and NBC Universal with critics complaining of even greater media consolidation in the U.S. and how this merger removes competitive forces and hurts consumers. ](/news/2011/01/18/the-u-s-federal-communications-commission-and-the-u-s-justice-department-approve-a-28-billion-merger-of-comcast-and-nbc-universal-with-cr.md)
@@ -65,11 +65,11 @@ _Context: Sri Lanka_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
-_Context: East Jerusalem, Dmitry Medvedev, West Bank, Russian President_
+_Context: West Bank, Russian President, Dmitry Medvedev, East Jerusalem_
 
 ##### Puntland
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
-_Context: Puntland, Somalia_
+_Context: Somalia, Puntland_
 
 ##### China
 ### [Chinese President Hu Jintao begins a four-day state visit to the United States. ](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.md)
@@ -97,7 +97,7 @@ Irish PM Brian Cowen survives a secret confidence vote on his leadership in the 
 
 ##### Qatar Emir
 ### [Emir of Qatar Sheikh Hamad bin Khalifa Al Thani appoints Mohammed Saleh al-Sada as Energy Minister, succeeding Abdullah Al-Attiyah in a cabinet reshuffle. ](/news/2011/01/18/emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-appoints-mohammed-saleh-al-sada-as-energy-minister-succeeding-abdullah-al-attiyah-in-a-cabi.md)
-_Context: Energy Minister, Qatar Emir, Hamad bin Khalifa Al Thani, Qatar, Abdullah Al-Attiyah_
+_Context: Energy Minister, Hamad bin Khalifa Al Thani, Qatar Emir, Abdullah Al-Attiyah, Qatar_
 
 ##### Communist Party
 ### [Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. ](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.md)

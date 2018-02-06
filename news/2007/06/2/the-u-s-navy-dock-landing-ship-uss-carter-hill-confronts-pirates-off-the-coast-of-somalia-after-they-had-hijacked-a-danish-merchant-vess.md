@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/06/2/the-u-s-navy-dock-landing-ship-uss-carter-hill-c
 
 ### Changes:
 
-1. [ The U.S. Navy dock landing ship USS ''Carter Hill'' confronts pirates off the coast of Somalia after they had hijacked a Danish merchant vessel, the MV ''Danica White''. ](/news/2007/06/2/the-u-s-navy-dock-landing-ship-uss-carter-hill-confronts-pirates-off-the-coast-of-somalia-after-they-had-hijacked-a-danish-merchant-ve.md) _2017-08-25 03:19:55 (First version)_
+1. [ The U.S. Navy dock landing ship USS ''Carter Hill'' confronts pirates off the coast of Somalia after they had hijacked a Danish merchant vessel, the MV ''Danica White''. ](/news/2007/06/2/the-u-s-navy-dock-landing-ship-uss-carter-hill-confronts-pirates-off-the-coast-of-somalia-after-they-had-hijacked-a-danish-merchant-ve.md) _2018-02-06 13:49:17 (First version)_
 1. [ The U.S. Navy dock landing ship USS "Carter Hill" confronts pirates off the coast of Somalia after they had hijacked a Danish merchant vessel, the MV "Danica White". ](/news/2007/06/2/the-u-s-navy-dock-landing-ship-uss-carter-hill-confronts-pirates-off-the-coast-of-somalia-after-they-had-hijacked-a-danish-merchant-vess.md) _(Current version)_
 
 ### Related:

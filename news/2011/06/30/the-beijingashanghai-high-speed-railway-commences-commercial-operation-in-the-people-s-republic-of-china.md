@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commenc
 
 ### Changes:
 
-1. [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijing-shanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md) _2017-08-27 03:33:45 (First version)_
+1. [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijing-shanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md) _2018-02-06 13:49:22 (First version)_
 1. [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md) _(Current version)_
 
 ### Related:

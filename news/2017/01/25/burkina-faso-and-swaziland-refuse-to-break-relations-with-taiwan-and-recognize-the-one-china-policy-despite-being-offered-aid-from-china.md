@@ -16,7 +16,7 @@ Taiwan’s last two African allies have no plans to switch allegiances and break
 
 ### Changes:
 
-1. [Foreign relations of Taiwan: Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/foreign-relations-of-taiwan-burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-bei.md) _2017-08-27 03:47:41 (First version)_
+1. [Foreign relations of Taiwan: Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/foreign-relations-of-taiwan-burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-bei.md) _2018-02-06 13:49:30 (First version)_
 1. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _(Current version)_
 
 ### Related:

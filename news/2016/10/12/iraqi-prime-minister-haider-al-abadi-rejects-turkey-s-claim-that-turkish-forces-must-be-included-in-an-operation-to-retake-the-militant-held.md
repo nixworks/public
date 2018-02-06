@@ -16,7 +16,7 @@ Turkey-Iraq relations became strained after Ankara sent troops late last year to
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraqi Prime Minister Haider al-Abadi rejects Turkey's claim that Turkish forces must be included in an operation to retake the militant-held city of Mosul. ](/news/2016/10/12/iraqi-civil-war-iraqi-prime-minister-haider-al-abadi-rejects-turkey-s-claim-that-turkish-forces-must-be-included-in-an-operation-to-retake.md) _2017-08-27 03:47:01 (First version)_
+1. [Iraqi Civil War: Iraqi Prime Minister Haider al-Abadi rejects Turkey's claim that Turkish forces must be included in an operation to retake the militant-held city of Mosul. ](/news/2016/10/12/iraqi-civil-war-iraqi-prime-minister-haider-al-abadi-rejects-turkey-s-claim-that-turkish-forces-must-be-included-in-an-operation-to-retake.md) _2018-02-06 13:49:29 (First version)_
 1. [Iraqi Prime Minister Haider al-Abadi rejects Turkey's claim that Turkish forces must be included in an operation to retake the militant-held city of Mosul. ](/news/2016/10/12/iraqi-prime-minister-haider-al-abadi-rejects-turkey-s-claim-that-turkish-forces-must-be-included-in-an-operation-to-retake-the-militant-held.md) _(Current version)_
 
 ### Related:

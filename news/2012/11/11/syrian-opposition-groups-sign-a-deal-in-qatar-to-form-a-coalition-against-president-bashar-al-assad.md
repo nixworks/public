@@ -19,8 +19,8 @@ Syrian opposition groups havesigned an initial agreement to form a new coalition
 
 ### Changes:
 
-1. [Syrian civil war:Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. ](/news/2012/11/11/syrian-civil-war-psyrian-opposition-groups-sign-a-deal-in-qatar-to-form-a-coalition-against-president-bashar-al-assad.md) _2017-08-25 03:36:48 (First version)_
-2. [Syrian civil war:: Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. ](/news/2012/11/11/syrian-civil-war-syrian-opposition-groups-sign-a-deal-in-qatar-to-form-a-coalition-against-president-bashar-al-assad.md) _2017-08-27 03:36:58 (Update)_
+1. [Syrian civil war:: Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. ](/news/2012/11/11/syrian-civil-war-syrian-opposition-groups-sign-a-deal-in-qatar-to-form-a-coalition-against-president-bashar-al-assad.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. ](/news/2012/11/11/syrian-civil-war-psyrian-opposition-groups-sign-a-deal-in-qatar-to-form-a-coalition-against-president-bashar-al-assad.md) _2018-02-06 13:49:24 (Update)_
 2. [Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. ](/news/2012/11/11/syrian-opposition-groups-sign-a-deal-in-qatar-to-form-a-coalition-against-president-bashar-al-assad.md) _(Current version)_
 
 ### Related:

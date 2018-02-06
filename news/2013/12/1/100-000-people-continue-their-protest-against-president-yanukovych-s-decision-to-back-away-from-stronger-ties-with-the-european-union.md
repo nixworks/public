@@ -18,8 +18,8 @@ Casualties are reported in clashes as a massive rally is held in Kiev over a Ukr
 
 ### Changes:
 
-1. [2013 Ukraine pro-European Union protests:100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/2013-ukraine-pro-european-union-protests-p100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-st.md) _2017-08-25 03:39:36 (First version)_
-2. [2013 Ukraine pro-European Union protests:: 100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/2013-ukraine-pro-european-union-protests-100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-s.md) _2017-08-27 03:39:54 (Update)_
+1. [2013 Ukraine pro-European Union protests:100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/2013-ukraine-pro-european-union-protests-p100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-st.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Ukraine pro-European Union protests:: 100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/2013-ukraine-pro-european-union-protests-100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-s.md) _2018-02-06 13:49:25 (Update)_
 2. [100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-stronger-ties-with-the-european-union.md) _(Current version)_
 
 ### Related:

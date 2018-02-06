@@ -22,8 +22,8 @@ Formats: [HTML](/news/2008/08/11/according-to-ossetian-and-russian-sources-georg
 
 ### Changes:
 
-1. [ 2008 South Ossetian War: According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/2008-south-ossetian-war-p-according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civil.md) _2017-08-25 03:22:41 (First version)_
-2. [ 2008 South Ossetian War:: According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/2008-south-ossetian-war-according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civil.md) _2017-08-27 03:22:35 (Update)_
+1. [ 2008 South Ossetian War: According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/2008-south-ossetian-war-p-according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civil.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetian War:: According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/2008-south-ossetian-war-according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civil.md) _2018-02-06 13:49:18 (Update)_
 2. [ According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civilian-population-of-tskhinva.md) _(Current version)_
 
 ### Related:

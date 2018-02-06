@@ -17,8 +17,8 @@ Rebels battle troops loyal to Muammar Gaddafi as they attempt to seize town betw
 
 ### Changes:
 
-1. [2011 Libyan civil war:Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/2011-libyan-civil-war-pfighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddafi.md) _2017-08-25 03:33:28 (First version)_
-2. [2011 Libyan civil war:: Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/2011-libyan-civil-war-fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddaf.md) _2017-08-27 03:33:36 (Update)_
+1. [2011 Libyan civil war:Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/2011-libyan-civil-war-pfighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddafi.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/2011-libyan-civil-war-fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddaf.md) _2018-02-06 13:49:22 (Update)_
 2. [Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddafi.md) _(Current version)_
 
 ### Related:

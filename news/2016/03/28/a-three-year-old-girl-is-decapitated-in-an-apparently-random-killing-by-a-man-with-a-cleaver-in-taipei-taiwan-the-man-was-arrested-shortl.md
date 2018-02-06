@@ -16,7 +16,7 @@ Police arrest man following Monday’s apparently random attack outside subway s
 
 ### Changes:
 
-1. [A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortly.md) _2017-10-17 03:52:22 (First version)_
+1. [A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortly.md) _2018-02-06 13:49:28 (First version)_
 1. [ A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/24/unicef-reports-that-hundreds-of-children-have-b
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/yemeni-civil-war-2015-unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recrui.md) _2017-08-27 03:42:14 (First version)_
+1. [Yemeni Civil War (2015): UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/yemeni-civil-war-2015-unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recrui.md) _2018-02-06 13:49:27 (First version)_
 1. [UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recruited-hundreds-more.md) _(Current version)_
 
 ### Related:

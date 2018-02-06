@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/24/the-china-national-space-administration-launche
 
 ### Changes:
 
-1. [Chinese space program: The China National Space Administration launches the unmanned Chang'e 5-T1 spacecraft to fly around the moon and back to earth. ](/news/2014/10/24/chinese-space-program-the-china-national-space-administration-launches-the-unmanned-chang-e-5-t1-spacecraft-to-fly-around-the-moon-and-back.md) _2017-08-27 03:41:26 (First version)_
+1. [Chinese space program: The China National Space Administration launches the unmanned Chang'e 5-T1 spacecraft to fly around the moon and back to earth. ](/news/2014/10/24/chinese-space-program-the-china-national-space-administration-launches-the-unmanned-chang-e-5-t1-spacecraft-to-fly-around-the-moon-and-back.md) _2018-02-06 13:49:26 (First version)_
 1. [The China National Space Administration launches the unmanned Chang'e 5-T1 spacecraft to fly around the moon and back to earth. ](/news/2014/10/24/the-china-national-space-administration-launches-the-unmanned-chang-e-5-t1-spacecraft-to-fly-around-the-moon-and-back-to-earth.md) _(Current version)_
 
 ### Related:

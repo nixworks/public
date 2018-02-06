@@ -16,8 +16,8 @@ Malian forces appeared close to recapturing key town of Diabaly where bands of a
 
 ### Changes:
 
-1. [Northern Mali conflict:Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-pislamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-the.md) _2017-08-25 03:37:17 (First version)_
-2. [Northern Mali conflict:: Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-islamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-th.md) _2017-08-27 03:37:28 (Update)_
+1. [Northern Mali conflict:Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-pislamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-the.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:: Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-islamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-th.md) _2018-02-06 13:49:24 (Update)_
 2. [Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/islamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-they-control-the-city.md) _(Current version)_
 
 ### Related:

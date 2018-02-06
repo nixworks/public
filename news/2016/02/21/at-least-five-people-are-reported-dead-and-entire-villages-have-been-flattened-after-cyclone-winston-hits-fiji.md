@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/21/at-least-five-people-are-reported-dead-and-enti
 
 ### Changes:
 
-1. [2015-16 South Pacific cyclone season: Cyclone Winston: At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/2015-16-south-pacific-cyclone-season-cyclone-winston-at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-afte.md) _2017-08-27 03:44:58 (First version)_
+1. [2015-16 South Pacific cyclone season: Cyclone Winston: At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/2015-16-south-pacific-cyclone-season-cyclone-winston-at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-afte.md) _2018-02-06 13:49:28 (First version)_
 1. [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md) _(Current version)_
 
 ### Related:

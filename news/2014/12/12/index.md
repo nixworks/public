@@ -17,7 +17,7 @@ The Dow posted its worst week in more than three years as oil prices continued t
 
 ##### capsized ferry MV Mutambala
 ### [The ferry MV Mutambala capsizes on Lake Tanganyika, Democratic Republic of the Congo leaving at least 26 dead. ](/news/2014/12/12/the-ferry-mv-mutambala-capsizes-on-lake-tanganyika-democratic-republic-of-the-congo-leaving-at-least-26-dead.md)
-_Context: capsized ferry MV Mutambala, Lake Tanganyika, DR Congo_
+_Context: Lake Tanganyika, capsized ferry MV Mutambala, DR Congo_
 
 ##### Portland, Oregon
 ### [An unknown person shoots four people outside of Rosemary Anderson High School, an alternative high school in Portland, Oregon. Police later question a 22-year-old man. ](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.md)
@@ -37,7 +37,7 @@ This is the best alternative so far.
 
 ##### Microsoft
 ### [Microsoft announces its upcoming Windows 10 consumer version preview for January 21. ](/news/2014/12/12/microsoft-announces-its-upcoming-windows-10-consumer-version-preview-for-january-21.md)
-_Context: Windows 10, Microsoft_
+_Context: Microsoft, Windows 10_
 
 ## [Previous Day...](/news/2014/12/11/index.md)
 

@@ -22,8 +22,8 @@ Severe storms blowing across the Southeast killed at least five people in Georgi
 
 ### Changes:
 
-1. [U.S. tornado outbreak:A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-pa-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _2017-08-25 03:32:44 (First version)_
-2. [U.S. tornado outbreak:: A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _2017-08-27 03:32:52 (Update)_
+1. [U.S. tornado outbreak:A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-pa-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _2018-02-06 13:49:22 (First version)_
+2. [U.S. tornado outbreak:: A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _2018-02-06 13:49:22 (Update)_
 2. [A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _(Current version)_
 
 ### Related:

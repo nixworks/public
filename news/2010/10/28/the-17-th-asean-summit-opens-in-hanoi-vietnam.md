@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/10/28/the-17-th-asean-summit-opens-in-hanoi-vietnam.h
 
 ### Changes:
 
-1. [The 17 th ASEAN Summit opens in Hanoi, Vietnam. ](/news/2010/10/28/the-17th-asean-summit-opens-in-hanoi-vietnam.md) _2017-10-02 03:34:24 (First version)_
+1. [The 17 th ASEAN Summit opens in Hanoi, Vietnam. ](/news/2010/10/28/the-17th-asean-summit-opens-in-hanoi-vietnam.md) _2018-02-06 13:49:20 (First version)_
 1. [The 17 th ASEAN Summit opens in Hanoi, Vietnam. ](/news/2010/10/28/the-17-th-asean-summit-opens-in-hanoi-vietnam.md) _(Current version)_
 
 ### Related:

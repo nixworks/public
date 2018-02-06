@@ -17,7 +17,7 @@ France and Australia have condemned the death penalty as executions for three of
 
 ### Changes:
 
-1. [Australia-Indonesia relations: Australia withdraws its ambassador after eight people including Brazilian Rodrigo Gularte, an Indonesian, four Nigerians, and two Australians, Andrew Chan and Myuran Sukumaran are executed. ](/news/2015/04/29/australia-indonesia-relations-australia-withdraws-its-ambassador-after-eight-people-including-brazilian-rodrigo-gularte-an-indonesian-f.md) _2017-08-27 03:42:15 (First version)_
+1. [Australia-Indonesia relations: Australia withdraws its ambassador after eight people including Brazilian Rodrigo Gularte, an Indonesian, four Nigerians, and two Australians, Andrew Chan and Myuran Sukumaran are executed. ](/news/2015/04/29/australia-indonesia-relations-australia-withdraws-its-ambassador-after-eight-people-including-brazilian-rodrigo-gularte-an-indonesian-f.md) _2018-02-06 13:49:27 (First version)_
 1. [Australia withdraws its ambassador after eight people including Brazilian Rodrigo Gularte, an Indonesian, four Nigerians, and two Australians, Andrew Chan and Myuran Sukumaran are executed. ](/news/2015/04/29/australia-withdraws-its-ambassador-after-eight-people-including-brazilian-rodrigo-gularte-an-indonesian-four-nigerians-and-two-australian.md) _(Current version)_
 
 ### Related:

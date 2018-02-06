@@ -18,7 +18,7 @@ The Constitutional Council opposed a plan to impose a 75 percent marginal income
 
 ### Changes:
 
-1. [France-s Constitutional Council strikes down the government-s plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/france-s-constitutional-council-strikes-down-the-government-s-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md) _2017-08-27 03:37:20 (First version)_
+1. [France-s Constitutional Council strikes down the government-s plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/france-s-constitutional-council-strikes-down-the-government-s-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md) _2018-02-06 13:49:24 (First version)_
 1. [France's Constitutional Council strikes down the government's plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/franceas-constitutional-council-strikes-down-the-governmentas-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md) _(Current version)_
 
 ### Related:

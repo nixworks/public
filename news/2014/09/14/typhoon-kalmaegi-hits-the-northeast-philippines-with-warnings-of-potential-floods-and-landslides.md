@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/2014-pacific-typhoon-season-typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md) _2017-08-27 03:41:17 (First version)_
+1. [2014 Pacific typhoon season: Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/2014-pacific-typhoon-season-typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md) _(Current version)_
 
 ### Related:

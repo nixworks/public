@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/7/a-chlorine-attack-in-aleppo-on-tuesday-injures-m
 
 ### Changes:
 
-1. [Syrian civil war: A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/syrian-civil-war-a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md) _2017-08-27 03:46:47 (First version)_
+1. [Syrian civil war: A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/syrian-civil-war-a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md) _2018-02-06 13:49:29 (First version)_
 1. [A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Japan has temporarily banned poultry imports from Australia following an outbrea
 
 ### Changes:
 
-1. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-who.md) _2017-08-25 03:34:56 (First version)_
+1. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-who.md) _2018-02-06 13:49:23 (First version)_
 1. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-whol.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Nigerian officials say Boko Haram gunmen have killed seven people in a raid in n
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram militants shoot and kill 7 people and burn down 10 houses in Madagali, Adamawa. ](/news/2016/01/12/boko-haram-insurgency-boko-haram-militants-shoot-and-kill-7-people-and-burn-down-10-houses-in-madagali-adamawa.md) _2017-08-27 03:44:39 (First version)_
+1. [Boko Haram insurgency: Boko Haram militants shoot and kill 7 people and burn down 10 houses in Madagali, Adamawa. ](/news/2016/01/12/boko-haram-insurgency-boko-haram-militants-shoot-and-kill-7-people-and-burn-down-10-houses-in-madagali-adamawa.md) _2018-02-06 13:49:28 (First version)_
 1. [Boko Haram militants shoot and kill 7 people and burn down 10 houses in Madagali, Adamawa. ](/news/2016/01/12/boko-haram-militants-shoot-and-kill-7-people-and-burn-down-10-houses-in-madagali-adamawa.md) _(Current version)_
 
 ### Related:

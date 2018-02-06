@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/17/police-service-of-northern-ireland-received-a-p
 
 ### Changes:
 
-1. [Dissident Irish Republican campaign: Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/dissident-irish-republican-campaign-police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident.md) _2017-08-27 03:41:57 (First version)_
+1. [Dissident Irish Republican campaign: Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/dissident-irish-republican-campaign-police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident.md) _2018-02-06 13:49:26 (First version)_
 1. [Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident-republican-group-claiming-to-have-pla.md) _(Current version)_
 
 ### Related:

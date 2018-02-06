@@ -15,7 +15,7 @@ The 33-year-old from San Diego disappeared after crossing into Syria from Turkey
 
 ### Changes:
 
-1. [Syria-United States relations: Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-united-states-relations-syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md) _2017-08-27 03:45:31 (First version)_
+1. [Syria-United States relations: Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-united-states-relations-syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md) _2018-02-06 13:49:29 (First version)_
 1. [Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md) _(Current version)_
 
 ### Related:

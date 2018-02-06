@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/7/boko-haram-suicide-bombers-kill-at-least-15-peop
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram suicide bombers kill at least 15 people at a mosque in the northeastern Nigerian city of Damaturu. ](/news/2015/10/7/boko-haram-insurgency-boko-haram-suicide-bombers-kill-at-least-15-people-at-a-mosque-in-the-northeastern-nigerian-city-of-damaturu.md) _2017-08-27 03:43:15 (First version)_
+1. [Boko Haram insurgency: Boko Haram suicide bombers kill at least 15 people at a mosque in the northeastern Nigerian city of Damaturu. ](/news/2015/10/7/boko-haram-insurgency-boko-haram-suicide-bombers-kill-at-least-15-people-at-a-mosque-in-the-northeastern-nigerian-city-of-damaturu.md) _2018-02-06 13:49:28 (First version)_
 1. [Boko Haram suicide bombers kill at least 15 people at a mosque in the northeastern Nigerian city of Damaturu. ](/news/2015/10/7/boko-haram-suicide-bombers-kill-at-least-15-people-at-a-mosque-in-the-northeastern-nigerian-city-of-damaturu.md) _(Current version)_
 
 ### Related:

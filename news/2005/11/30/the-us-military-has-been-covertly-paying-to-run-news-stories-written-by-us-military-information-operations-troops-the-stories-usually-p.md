@@ -17,7 +17,7 @@ As part of an information offensive in Iraq, the U.S. military is secretly payin
 
 ### Changes:
 
-1. [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops. The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually.md) _2017-08-25 03:17:10 (First version)_
+1. [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops. The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually.md) _2018-02-06 13:49:16 (First version)_
 1. [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops. The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually-p.md) _(Current version)_
 
 ### Related:

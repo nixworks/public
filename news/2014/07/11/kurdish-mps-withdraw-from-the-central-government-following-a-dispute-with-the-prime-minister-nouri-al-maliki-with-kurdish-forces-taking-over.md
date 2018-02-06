@@ -16,7 +16,7 @@ Iraqi Kurdish forces have taken over two oilfields amid a growing dispute with t
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): Kurdish MPs withdraw from the central government following a dispute with the Prime Minister Nouri al-Maliki with Kurdish forces taking over control of two northern oil fields at Bai Hassan and Kirkuk. ](/news/2014/07/11/iraqi-insurgency-post-u-s-withdrawal-kurdish-mps-withdraw-from-the-central-government-following-a-dispute-with-the-prime-minister-nouri.md) _2017-08-27 03:40:58 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): Kurdish MPs withdraw from the central government following a dispute with the Prime Minister Nouri al-Maliki with Kurdish forces taking over control of two northern oil fields at Bai Hassan and Kirkuk. ](/news/2014/07/11/iraqi-insurgency-post-u-s-withdrawal-kurdish-mps-withdraw-from-the-central-government-following-a-dispute-with-the-prime-minister-nouri.md) _2018-02-06 13:49:26 (First version)_
 1. [Kurdish MPs withdraw from the central government following a dispute with the Prime Minister Nouri al-Maliki with Kurdish forces taking over control of two northern oil fields at Bai Hassan and Kirkuk. ](/news/2014/07/11/kurdish-mps-withdraw-from-the-central-government-following-a-dispute-with-the-prime-minister-nouri-al-maliki-with-kurdish-forces-taking-over.md) _(Current version)_
 
 ### Related:

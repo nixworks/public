@@ -21,7 +21,7 @@ A senior Taliban commander confirmed early Sunday the death of the group’s Afg
 
 ### Changes:
 
-1. [ War in Afghanistan: Six police officers are killed in an insider attack in Uruzgan province. ](/news/2016/05/21/war-in-afghanistan-six-police-officers-are-killed-in-an-insider-attack-in-uruzgan-province.md) _2017-08-27 03:46:05 (First version)_
+1. [ War in Afghanistan: Six police officers are killed in an insider attack in Uruzgan province. ](/news/2016/05/21/war-in-afghanistan-six-police-officers-are-killed-in-an-insider-attack-in-uruzgan-province.md) _2018-02-06 13:49:29 (First version)_
 1. [ Six police officers are killed in an insider attack in Uruzgan province. ](/news/2016/05/21/six-police-officers-are-killed-in-an-insider-attack-in-uruzgan-province.md) _(Current version)_
 
 ### Related:

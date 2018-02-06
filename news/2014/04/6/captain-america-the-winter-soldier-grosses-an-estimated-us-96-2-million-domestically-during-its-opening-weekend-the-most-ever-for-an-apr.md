@@ -16,5 +16,5 @@ UPDATED: The superhero sequel debuts to a stunning $96.2 million in North Americ
 
 ### Changes:
 
-1. [''Captain America: The Winter Soldier'' grosses an estimated US$96.2 million domestically during its opening weekend, the most ever for an April opener. ](/news/2014/04/6/captain-america-the-winter-soldier-grosses-an-estimated-us-96-2-million-domestically-during-its-opening-weekend-the-most-ever-for-an-a.md) _2017-08-25 03:40:15 (First version)_
+1. [''Captain America: The Winter Soldier'' grosses an estimated US$96.2 million domestically during its opening weekend, the most ever for an April opener. ](/news/2014/04/6/captain-america-the-winter-soldier-grosses-an-estimated-us-96-2-million-domestically-during-its-opening-weekend-the-most-ever-for-an-a.md) _2018-02-06 13:49:26 (First version)_
 1. ["Captain America: The Winter Soldier" grosses an estimated US$96.2 million domestically during its opening weekend, the most ever for an April opener. ](/news/2014/04/6/captain-america-the-winter-soldier-grosses-an-estimated-us-96-2-million-domestically-during-its-opening-weekend-the-most-ever-for-an-apr.md) _(Current version)_

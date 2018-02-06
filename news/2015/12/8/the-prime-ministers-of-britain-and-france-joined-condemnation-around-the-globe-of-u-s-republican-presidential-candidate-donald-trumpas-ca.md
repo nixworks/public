@@ -15,8 +15,8 @@ Critics around the globe wonder whether the leading GOP presidential contender h
 
 ### Changes:
 
-1. [The prime ministers of Britain and France joined condemnation around the globe of U.S. Republican presidential candidate Donald Trump's call for a "total and complete ban" on Muslims entering the United States. ](/news/2015/12/8/the-prime-ministers-of-britain-and-france-joined-condemnation-around-the-globe-of-u-s-republican-presidential-candidate-donald-trumpas-c.md) _2017-08-25 03:43:54 (First version)_
-2. [The prime ministers of Britain and France joined condemnation around the globe of U.S. Republican presidential candidate Donald Trump-s call for a -total and complete ban- on Muslims entering the United States. ](/news/2015/12/8/the-prime-ministers-of-britain-and-france-joined-condemnation-around-the-globe-of-u-s-republican-presidential-candidate-donald-trump-s-ca.md) _2017-08-27 03:44:16 (Update)_
+1. [The prime ministers of Britain and France joined condemnation around the globe of U.S. Republican presidential candidate Donald Trump's call for a "total and complete ban" on Muslims entering the United States. ](/news/2015/12/8/the-prime-ministers-of-britain-and-france-joined-condemnation-around-the-globe-of-u-s-republican-presidential-candidate-donald-trumpas-c.md) _2018-02-06 13:49:28 (First version)_
+2. [The prime ministers of Britain and France joined condemnation around the globe of U.S. Republican presidential candidate Donald Trump-s call for a -total and complete ban- on Muslims entering the United States. ](/news/2015/12/8/the-prime-ministers-of-britain-and-france-joined-condemnation-around-the-globe-of-u-s-republican-presidential-candidate-donald-trump-s-ca.md) _2018-02-06 13:49:28 (Update)_
 2. [The prime ministers of Britain and France joined condemnation around the globe of U.S. Republican presidential candidate Donald Trump's call for a "total and complete ban" on Muslims entering the United States. ](/news/2015/12/8/the-prime-ministers-of-britain-and-france-joined-condemnation-around-the-globe-of-u-s-republican-presidential-candidate-donald-trumpas-ca.md) _(Current version)_
 
 ### Related:

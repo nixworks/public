@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-
 
 ### Changes:
 
-1. [ Nguyen Minh Triet becomes President of Vietnam with Nguyen Tan Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taoy-n-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md) _2017-08-25 03:17:50 (First version)_
+1. [ Nguyen Minh Triet becomes President of Vietnam with Nguyen Tan Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taoy-n-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md) _2018-02-06 13:49:17 (First version)_
 1. [ Nguyen Minh Triet becomes President of Vietnam with Nguyen TCNYn Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taocnyn-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md) _(Current version)_
 
 ### Related:

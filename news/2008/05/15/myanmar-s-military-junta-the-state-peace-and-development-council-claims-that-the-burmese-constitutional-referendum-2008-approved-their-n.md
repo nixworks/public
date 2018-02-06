@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/15/myanmar-s-military-junta-the-state-peace-and-de
 
 ### Changes:
 
-1. [ Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved-their.md) _2017-08-25 03:22:11 (First version)_
-2. [ Burma: Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/burma-myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved.md) _2017-08-27 03:22:05 (Update)_
+1. [ Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved-their.md) _2018-02-06 13:49:18 (First version)_
+2. [ Burma: Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/burma-myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved.md) _2018-02-06 13:49:18 (Update)_
 2. [ Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved-their-n.md) _(Current version)_
 
 ### Related:

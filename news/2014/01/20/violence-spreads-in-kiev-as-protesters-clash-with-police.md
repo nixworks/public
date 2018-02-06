@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Euromaidan: Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/euromaidan-violence-spreads-in-kiev-as-protesters-clash-with-police.md) _2017-08-27 03:40:12 (First version)_
+1. [Euromaidan: Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/euromaidan-violence-spreads-in-kiev-as-protesters-clash-with-police.md) _2018-02-06 13:49:25 (First version)_
 1. [Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/violence-spreads-in-kiev-as-protesters-clash-with-police.md) _(Current version)_
 
 ### Related:

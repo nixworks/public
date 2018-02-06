@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-know
 
 ### Changes:
 
-1. [Syrian civil war:Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/syrian-civil-war-pjihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-a.md) _2017-08-25 03:39:18 (First version)_
-2. [Syrian civil war:: Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/syrian-civil-war-jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian.md) _2017-08-27 03:39:34 (Update)_
+1. [Syrian civil war:Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/syrian-civil-war-pjihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-a.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/syrian-civil-war-jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian.md) _2018-02-06 13:49:25 (Update)_
 2. [Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-army.md) _(Current version)_
 
 ### Related:

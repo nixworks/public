@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-hea
 
 ### Changes:
 
-1. [NATO-Russia relations: Cold War II: U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia-s expanded and assertive actions. ](/news/2016/04/22/nato-russia-relations-cold-war-ii-u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-say.md) _2017-08-27 03:45:46 (First version)_
+1. [NATO-Russia relations: Cold War II: U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia-s expanded and assertive actions. ](/news/2016/04/22/nato-russia-relations-cold-war-ii-u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-say.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md) _(Current version)_
 
 ### Related:

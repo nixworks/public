@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the
 
 ### Changes:
 
-1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-f.md) _2017-08-25 03:45:58 (First version)_
-2. [2016 West Virginia flood: The Kanawha County sheriff's office reports the death toll is now 26-three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/2016-west-virginia-flood-the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26-three-more-victims-were-found-overnight-it.md) _2017-08-27 03:46:20 (Update)_
+1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-f.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 West Virginia flood: The Kanawha County sheriff's office reports the death toll is now 26-three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/2016-west-virginia-flood-the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26-three-more-victims-were-found-overnight-it.md) _2018-02-06 13:49:29 (Update)_
 2. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/08/18/pakistani-president-pervez-musharraf-who-was-fa
 
 ### Changes:
 
-1. [ Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president-indirect-presidential-elections.md) _2017-08-25 03:22:43 (First version)_
-2. [ Pakistan Presidential Impeachment: Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistan-presidential-impeachment-pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president.md) _2017-08-27 03:22:36 (Update)_
+1. [ Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president-indirect-presidential-elections.md) _2018-02-06 13:49:18 (First version)_
+2. [ Pakistan Presidential Impeachment: Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistan-presidential-impeachment-pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president.md) _2018-02-06 13:49:18 (Update)_
 2. [ Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president-indirect-presidential-elections-w.md) _(Current version)_
 
 ### Related:

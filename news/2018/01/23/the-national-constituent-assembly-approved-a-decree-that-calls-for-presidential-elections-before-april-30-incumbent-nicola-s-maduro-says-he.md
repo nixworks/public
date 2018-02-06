@@ -16,7 +16,7 @@ Should the presidential vote be perceived as fraudulent, further foreign sanctio
 
 ### Changes:
 
-1. [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Venezuelan President says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-venezuelan-president-says-he-will.md) _2018-01-24 08:30:06 (First version)_
+1. [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Venezuelan President says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-venezuelan-president-says-he-will.md) _2018-02-06 13:49:31 (First version)_
 1. [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Incumbent Nicolas Maduro says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-incumbent-nicola-s-maduro-says-he.md) _(Current version)_
 
 ### Related:

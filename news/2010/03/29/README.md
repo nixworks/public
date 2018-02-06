@@ -5,15 +5,15 @@ Formats: [HTML](2010/03/29/index.html)  [JSON](2010/03/29/index.json)  [XML](201
 
 ##### Israel
 ### [15 people, including 2 journalists, are arrested by Israel during a police attack on a protest near Bethlehem. ](/news/2010/03/29/15-people-including-2-journalists-are-arrested-by-israel-during-a-police-attack-on-a-protest-near-bethlehem.md)
-_Context: Israel, Bethlehem_
+_Context: Bethlehem, Israel_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi's party, the National League for Democracy, announces it will boycott the upcoming general elections in Burma. ](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.md)
-_Context: Aung San Suu Kyi, general elections, Burma, National League for Democracy_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, general elections_
 
 ##### suicide bombing
 ### [Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. ](/news/2010/03/29/suicide-bombers-detonate-two-bombs-at-moscow-metro-stations-lubyanka-and-park-kultury-killing-at-least-36-with-the-death-toll-expected-to-r.md)
-_Context: 2010 Moscow Metro bombings, Moscow Metro, Park Kultury, suicide bombing, Lubyanka_
+_Context: suicide bombing, Moscow Metro, 2010 Moscow Metro bombings, Lubyanka, Park Kultury_
 
 ##### stern
 ### [The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. ](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.md)
@@ -41,7 +41,7 @@ MORE than 300 southern right whales, most of them young calves, have been found 
 
 ##### architecture
 ### [In architecture, Kazuyo Sejima and Ryue Nishizawa, cofounders of the firm SANAA, win the 2010 Pritzker Prize. ](/news/2010/03/29/in-architecture-kazuyo-sejima-and-ryue-nishizawa-cofounders-of-the-firm-sanaa-win-the-2010-pritzker-prize.md)
-_Context: Ryue Nishizawa, SANAA, architecture, Pritzker Prize, Kazuyo Sejima_
+_Context: Ryue Nishizawa, architecture, Pritzker Prize, Kazuyo Sejima, SANAA_
 
 ##### Hutaree
 ### [Nine members of the Hutaree militia are arrested in the United States on allegations of a plot to kill policemen then to attack the funerals, in preparation for a war against all levels of American government. ](/news/2010/03/29/nine-members-of-the-hutaree-militia-are-arrested-in-the-united-states-on-allegations-of-a-plot-to-kill-policemen-then-to-attack-the-funerals.md)

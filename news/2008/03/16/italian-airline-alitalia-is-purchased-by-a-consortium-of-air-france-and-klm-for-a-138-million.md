@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-cons
 
 ### Changes:
 
-1. [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for -138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-138-million.md) _2017-08-27 03:21:49 (First version)_
+1. [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for -138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-138-million.md) _2018-02-06 13:49:18 (First version)_
 1. [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md) _(Current version)_
 
 ### Related:

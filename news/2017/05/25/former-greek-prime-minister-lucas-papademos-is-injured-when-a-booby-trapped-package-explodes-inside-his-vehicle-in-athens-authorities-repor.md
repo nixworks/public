@@ -17,7 +17,7 @@ A former Greek prime minister was injured when a booby-trapped package exploded 
 
 ### Changes:
 
-1. [Former Greek Prime Minister Lucas Papademos is injured in an explosion inside his vehicle in Athens. ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-in-an-explosion-inside-his-vehicle-in-athens.md) _2017-05-25 21:30:07 (First version)_
+1. [Former Greek Prime Minister Lucas Papademos is injured in an explosion inside his vehicle in Athens. ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-in-an-explosion-inside-his-vehicle-in-athens.md) _2018-02-06 13:49:30 (First version)_
 1. [Former Greek Prime Minister Lucas Papademos is injured when a booby-trapped package explodes inside his vehicle in Athens. Authorities report his injuries are not life threatening. ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-when-a-booby-trapped-package-explodes-inside-his-vehicle-in-athens-authorities-repor.md) _(Current version)_
 
 ### Related:

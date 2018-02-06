@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/26/the-world-health-organisation-says-that-the-dea
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _2017-08-27 03:41:20 (First version)_
+1. [Ebola virus epidemic in West Africa: The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _2018-02-06 13:49:26 (First version)_
 1. [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _(Current version)_
 
 ### Related:

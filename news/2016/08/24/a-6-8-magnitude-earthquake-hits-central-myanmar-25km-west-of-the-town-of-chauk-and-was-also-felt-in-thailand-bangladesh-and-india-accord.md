@@ -16,7 +16,7 @@ A 6.8 magnitude earthquake strikes central Myanmar, damaging ancient temples and
 
 ### Changes:
 
-1. [August 2016 Myanmar earthquake: A 6.8 magnitude earthquake hits central Myanmar, 25km west of the town of Chauk, and was also felt in Thailand, Bangladesh and India, according to reports. At least three people are killed. ](/news/2016/08/24/august-2016-myanmar-earthquake-a-6-8-magnitude-earthquake-hits-central-myanmar-25km-west-of-the-town-of-chauk-and-was-also-felt-in-thaila.md) _2017-08-27 03:46:42 (First version)_
+1. [August 2016 Myanmar earthquake: A 6.8 magnitude earthquake hits central Myanmar, 25km west of the town of Chauk, and was also felt in Thailand, Bangladesh and India, according to reports. At least three people are killed. ](/news/2016/08/24/august-2016-myanmar-earthquake-a-6-8-magnitude-earthquake-hits-central-myanmar-25km-west-of-the-town-of-chauk-and-was-also-felt-in-thaila.md) _2018-02-06 13:49:29 (First version)_
 1. [A 6.8 magnitude earthquake hits central Myanmar, 25km west of the town of Chauk, and was also felt in Thailand, Bangladesh and India, according to reports. At least three people are killed. ](/news/2016/08/24/a-6-8-magnitude-earthquake-hits-central-myanmar-25km-west-of-the-town-of-chauk-and-was-also-felt-in-thailand-bangladesh-and-india-accord.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Follow all the election day action live from the first votes to the moment the w
 
 ### Changes:
 
-1. [Australian federal election, 2013:Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-pvoters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-opposition.md) _2017-08-25 03:39:14 (First version)_
-2. [Australian federal election, 2013:: Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-voters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-oppositio.md) _2017-08-27 03:39:31 (Update)_
+1. [Australian federal election, 2013:: Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-voters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-oppositio.md) _2018-02-06 13:49:25 (First version)_
+2. [Australian federal election, 2013:Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-pvoters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-opposition.md) _2018-02-06 13:49:25 (Update)_
 2. [Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/voters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-opposition-led-by-opposition-leader-tony-abbo.md) _(Current version)_
 
 ### Related:

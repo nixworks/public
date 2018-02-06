@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/05/16/the-american-adaptation-of-the-television-serie
 
 ### Changes:
 
-1. [The American adaptation of the television series ''The Office'' airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-season.md) _2017-08-25 03:38:41 (First version)_
+1. [The American adaptation of the television series ''The Office'' airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-season.md) _2018-02-06 13:49:24 (First version)_
 1. [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md) _(Current version)_
 
 ### Related:

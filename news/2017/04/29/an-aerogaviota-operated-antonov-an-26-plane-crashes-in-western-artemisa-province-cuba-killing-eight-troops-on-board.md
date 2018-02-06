@@ -17,8 +17,8 @@ A Cuban military plane has reportedly crashed in the western province of Artemis
 
 ### Changes:
 
-1. [An Aerogaviota-operated Antonov An-26 plane crashes in western Pinar del Rio Province, Cuba, reportedly killing all 39 people onboard. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-pinar-del-rao-province-cuba-reportedly-killing-all-39-people-onboard.md) _2017-04-29 21:30:06 (First version)_
-2. [2017 Aerogaviota Antonov An-26 crash: An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/2017-aerogaviota-antonov-an-26-crash-an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight.md) _2017-08-27 03:48:16 (Update)_
+1. [An Aerogaviota-operated Antonov An-26 plane crashes in western Pinar del Rio Province, Cuba, reportedly killing all 39 people onboard. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-pinar-del-rao-province-cuba-reportedly-killing-all-39-people-onboard.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Aerogaviota Antonov An-26 crash: An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/2017-aerogaviota-antonov-an-26-crash-an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight.md) _2018-02-06 13:49:30 (Update)_
 2. [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md) _(Current version)_
 
 ### Related:

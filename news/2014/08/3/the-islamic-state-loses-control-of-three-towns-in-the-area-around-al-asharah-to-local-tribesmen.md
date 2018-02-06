@@ -16,7 +16,7 @@ Villagers in eastern Syria drive out Islamic State militants, in a rare display 
 
 ### Changes:
 
-1. [Syrian Civil War: The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/syrian-civil-war-the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md) _2017-08-27 03:41:06 (First version)_
+1. [Syrian Civil War: The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/syrian-civil-war-the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md) _2018-02-06 13:49:26 (First version)_
 1. [The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md) _(Current version)_
 
 ### Related:

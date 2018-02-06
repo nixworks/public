@@ -17,8 +17,8 @@ Initial results indicate that party advocating a split of Belgium wins general e
 
 ### Changes:
 
-1. [Belgian general election, 2010:The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-pthe-belgian-elections-take-place-amid-a-possibility-of-partition.md) _2017-08-25 03:28:15 (First version)_
-2. [Belgian general election, 2010:: The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-the-belgian-elections-take-place-amid-a-possibility-of-partition.md) _2017-08-27 03:28:15 (Update)_
+1. [Belgian general election, 2010:: The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-the-belgian-elections-take-place-amid-a-possibility-of-partition.md) _2018-02-06 13:49:20 (First version)_
+2. [Belgian general election, 2010:The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-pthe-belgian-elections-take-place-amid-a-possibility-of-partition.md) _2018-02-06 13:49:20 (Update)_
 2. [The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/the-belgian-elections-take-place-amid-a-possibility-of-partition.md) _(Current version)_
 
 ### Related:

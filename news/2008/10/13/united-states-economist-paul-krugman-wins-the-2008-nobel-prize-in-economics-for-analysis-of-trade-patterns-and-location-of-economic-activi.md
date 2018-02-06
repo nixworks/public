@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/10/13/united-states-economist-paul-krugman-wins-the-2
 
 ### Changes:
 
-1. [ Nobel Prize: United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/nobel-prize-p-united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-e.md) _2017-08-25 03:23:02 (First version)_
-2. [ Nobel Prize:: United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/nobel-prize-united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-e.md) _2017-08-27 03:22:56 (Update)_
+1. [ Nobel Prize:: United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/nobel-prize-united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-e.md) _2018-02-06 13:49:18 (First version)_
+2. [ Nobel Prize: United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/nobel-prize-p-united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-e.md) _2018-02-06 13:49:18 (Update)_
 2. [ United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-economic-activi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/28/the-united-nations-security-council-extends-the
 
 ### Changes:
 
-1. [Western Sahara conflict: The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauritania. ](/news/2017/04/28/western-sahara-conflict-the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sa.md) _2017-08-27 03:48:16 (First version)_
+1. [Western Sahara conflict: The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauritania. ](/news/2017/04/28/western-sahara-conflict-the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sa.md) _2018-02-06 13:49:30 (First version)_
 1. [The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauritania. ](/news/2017/04/28/the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sahara-peace-process-negoti.md) _(Current version)_
 
 ### Related:

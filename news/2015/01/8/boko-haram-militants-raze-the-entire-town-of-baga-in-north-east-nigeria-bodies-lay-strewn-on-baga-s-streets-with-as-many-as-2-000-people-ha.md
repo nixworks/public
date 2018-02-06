@@ -16,7 +16,7 @@ Bodies lay strewn on the streets of a key north-eastern Nigerian town following 
 
 ### Changes:
 
-1. [2015 Baga massacre: Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State, which is the worst-affected by the insurgency. ](/news/2015/01/8/2015-baga-massacre-boko-haram-militants-raze-the-entire-town-of-baga-in-north-east-nigeria-bodies-lay-strewn-on-baga-s-streets-with-as-man.md) _2017-08-27 03:41:45 (First version)_
+1. [2015 Baga massacre: Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State, which is the worst-affected by the insurgency. ](/news/2015/01/8/2015-baga-massacre-boko-haram-militants-raze-the-entire-town-of-baga-in-north-east-nigeria-bodies-lay-strewn-on-baga-s-streets-with-as-man.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State, which is the worst-affected by the insurgency. ](/news/2015/01/8/boko-haram-militants-raze-the-entire-town-of-baga-in-north-east-nigeria-bodies-lay-strewn-on-baga-s-streets-with-as-many-as-2-000-people-ha.md) _(Current version)_
 
 ### Related:

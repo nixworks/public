@@ -25,11 +25,11 @@ Ebert had been the film critic for the Chicago Sun-Times since April 3, 1967. He
 
 ##### Rio Tinto
 ### [Mining giant Rio Tinto, continuing a program of asset divestment, asks Macquarie Group to find a buyer for its interest in the Australian Northparkes copper and gold mine. ](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.md)
-_Context: Rio Tinto, Macquarie Group, Northparkes, copper, gold_
+_Context: copper, Rio Tinto, Macquarie Group, gold, Northparkes_
 
 ##### CEO
 ### [Ex-CEO of Enron Jeffrey Skilling is in talks with federal prosecutors to discuss a reduction in his sentence. ](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.md)
-_Context: Enron, CEO, Jeffrey Skilling_
+_Context: Jeffrey Skilling, CEO, Enron_
 
 ##### 2013 Thane building collapse
 ### [2013 Thane building collapse: At least 46 people are killed when an illegally constructed building collapses in Mumbra, a suburb of Thane, India. ](/news/2013/04/4/2013-thane-building-collapse-at-least-46-people-are-killed-when-an-illegally-constructed-building-collapses-in-mumbra-a-suburb-of-thane-i.md)
@@ -37,7 +37,7 @@ At least 45 people are killed, including 15 children, after a building being con
 
 ##### 2013 Argentina floods
 ### [2013 Argentina floods: The death toll of the floods in Argentina reaches 59, with more than 1500 displaced. ](/news/2013/04/4/2013-argentina-floods-the-death-toll-of-the-floods-in-argentina-reaches-59-with-more-than-1500-displaced.md)
-_Context: 2013 Argentina floods, floods, Argentina_
+_Context: floods, Argentina, 2013 Argentina floods_
 
 ##### Grozny
 ### [One of the Grozny-City Towers, the tallest building in Chechnya, Russia, is damaged in a large fire. ](/news/2013/04/4/one-of-the-grozny-city-towers-the-tallest-building-in-chechnya-russia-is-damaged-in-a-large-fire.md)
@@ -49,7 +49,7 @@ The death toll from a new strain of bird flu rose to six in China on Thursday as
 
 ##### United States
 ### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
-_Context: Washington University, United States, genetic markers, Alzheimer's disease, ''Neuron''_
+_Context: Alzheimer's disease, Washington University, ''Neuron'', genetic markers, United States_
 
 ##### South Korea
 ### [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md)
@@ -77,11 +77,11 @@ Undercover U.S. agents have arrested the former navy chief of Guinea Bissau, wan
 
 ##### Jackson
 ### [In Jackson, Mississippi, Jeremy Powell, 23, a suspect in the stabbing death of a 20-year-old male, and Eric Smith, a Jackson Police Department homicide detective, who had been conducting the police interview with Powell, are found dead in a 3rd floor room of the department, according to Jackson Police Chief Rebecca Coleman. ](/news/2013/04/4/in-jackson-mississippi-jeremy-powell-23-a-suspect-in-the-stabbing-death-of-a-20-year-old-male-and-eric-smith-a-jackson-police-departme.md)
-_Context: detective, stabbed, homicide, interview, Mississippi, Jackson_
+_Context: homicide, stabbed, Jackson, detective, interview, Mississippi_
 
 ##### Banda Aceh
 ### [Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. ](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.md)
-_Context: Islam, emblem, Banda Aceh, Aceh, separatist, Indonesia_
+_Context: Islam, emblem, Indonesia, Banda Aceh, separatist, Aceh_
 
 ##### Hubble Space Telescope
 ### [The Hubble Space Telescope observes the most distant supernova on record. ](/news/2013/04/4/the-hubble-space-telescope-observes-the-most-distant-supernova-on-record.md)

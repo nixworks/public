@@ -11,8 +11,8 @@ Formats: [HTML](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-32
 
 ### Changes:
 
-1. [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. ](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3.md) _2017-08-25 03:39:57 (First version)_
-2. [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. [http:--www.usatoday.com-story-money-markets-2014-02-02-stocks-monday-after-super-bowl-5171807- "(USA Today)"]](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3-http-www-usatoday-com-story-mone.md) _2017-10-17 03:46:27 (Update)_
+1. [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. ](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3.md) _2018-02-06 13:49:25 (First version)_
+2. [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. [http:--www.usatoday.com-story-money-markets-2014-02-02-stocks-monday-after-super-bowl-5171807- "(USA Today)"]](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3-http-www-usatoday-com-story-mone.md) _2018-02-06 13:49:25 (Update)_
 2. [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. [https:--www.usatoday.com-story-money-markets-2014-02-02-stocks-monday-after-super-bowl-5171807- "(USA Today)"]](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3-https-www-usatoday-com-story-mon.md) _(Current version)_
 
 ### Related:

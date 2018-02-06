@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/30/at-least-seven-central-reserve-police-force-crp
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/naxalite-maoist-insurgency-at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-t.md) _2017-08-27 03:45:25 (First version)_
+1. [Naxalite-Maoist insurgency: At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/naxalite-maoist-insurgency-at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-t.md) _2018-02-06 13:49:28 (First version)_
 1. [At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-the-indian-state-of-chhattisgar.md) _(Current version)_
 
 ### Related:

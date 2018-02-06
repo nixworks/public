@@ -17,7 +17,7 @@ Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): Netherlands pulls out of Afghanistan. ](/news/2010/08/1/war-in-afghanistan-2001-present-netherlands-pulls-out-of-afghanistan.md) _2017-08-27 03:29:08 (First version)_
+1. [War in Afghanistan (2001-present): Netherlands pulls out of Afghanistan. ](/news/2010/08/1/war-in-afghanistan-2001-present-netherlands-pulls-out-of-afghanistan.md) _2018-02-06 13:49:20 (First version)_
 1. [Netherlands pulls out of Afghanistan. ](/news/2010/08/1/netherlands-pulls-out-of-afghanistan.md) _(Current version)_
 
 ### Related:

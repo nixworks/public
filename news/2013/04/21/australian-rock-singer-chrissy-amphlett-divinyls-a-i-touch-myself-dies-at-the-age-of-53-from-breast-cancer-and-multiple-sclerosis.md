@@ -16,7 +16,7 @@ Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from br
 
 ### Changes:
 
-1. [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md) _2017-08-27 03:38:39 (First version)_
+1. [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md) _2018-02-06 13:49:24 (First version)_
 1. [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-a-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md) _(Current version)_
 
 ### Related:

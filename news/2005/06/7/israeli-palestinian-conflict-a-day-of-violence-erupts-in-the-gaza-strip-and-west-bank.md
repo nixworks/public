@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/06/7/israeli-palestinian-conflict-a-day-of-violence-e
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: A day of violence erupts in the Gaza Strip and West Bank. [http:--www.haaretz.com-hasen-spages-585411.html Haaretz].](/news/2005/06/7/israeli-palestinian-conflict-a-day-of-violence-erupts-in-the-gaza-strip-and-west-bank-http-www-haaretz-com-hasen-spages-585411-html-ha.md) _2017-06-18 03:16:26 (First version)_
+1. [ Israeli-Palestinian conflict: A day of violence erupts in the Gaza Strip and West Bank. [http:--www.haaretz.com-hasen-spages-585411.html Haaretz].](/news/2005/06/7/israeli-palestinian-conflict-a-day-of-violence-erupts-in-the-gaza-strip-and-west-bank-http-www-haaretz-com-hasen-spages-585411-html-ha.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israeli-Palestinian conflict: A day of violence erupts in the Gaza Strip and West Bank. ](/news/2005/06/7/israeli-palestinian-conflict-a-day-of-violence-erupts-in-the-gaza-strip-and-west-bank.md) _(Current version)_
 
 ### Related:

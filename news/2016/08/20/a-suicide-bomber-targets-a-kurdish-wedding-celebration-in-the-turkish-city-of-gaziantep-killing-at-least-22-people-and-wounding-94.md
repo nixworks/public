@@ -17,7 +17,7 @@ Turkey vowed on Monday to &quot;completely cleanse&quot; Islamic State militants
 
 ### Changes:
 
-1. [Gaziantep bombing: A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/gaziantep-bombing-a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wo.md) _2017-08-27 03:46:40 (First version)_
+1. [Gaziantep bombing: A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/gaziantep-bombing-a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wo.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wounding-94.md) _(Current version)_
 
 ### Related:

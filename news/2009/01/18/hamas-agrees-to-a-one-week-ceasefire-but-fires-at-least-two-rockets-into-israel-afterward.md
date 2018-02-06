@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008a2009-israelagaza-conflict-p-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2017-08-25 03:23:30 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008-2009-israel-gaza-conflict-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2017-08-27 03:23:22 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008a2009-israelagaza-conflict-p-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008-2009-israel-gaza-conflict-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _(Current version)_
 
 ### Related:

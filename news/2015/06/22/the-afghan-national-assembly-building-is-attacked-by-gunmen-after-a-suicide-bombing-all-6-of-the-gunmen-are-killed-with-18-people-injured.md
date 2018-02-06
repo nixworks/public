@@ -16,7 +16,7 @@ A co-ordinated Taliban attack on the Afghan parliament in Kabul ends with all si
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All 6 of the gunmen are killed, with 18 people injured. ](/news/2015/06/22/war-in-afghanistan-2015-present-the-afghan-national-assembly-building-is-attacked-by-gunmen-after-a-suicide-bombing-all-6-of-the-gunme.md) _2017-08-27 03:42:34 (First version)_
+1. [War in Afghanistan (2015-present): The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All 6 of the gunmen are killed, with 18 people injured. ](/news/2015/06/22/war-in-afghanistan-2015-present-the-afghan-national-assembly-building-is-attacked-by-gunmen-after-a-suicide-bombing-all-6-of-the-gunme.md) _2018-02-06 13:49:27 (First version)_
 1. [The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All 6 of the gunmen are killed, with 18 people injured. ](/news/2015/06/22/the-afghan-national-assembly-building-is-attacked-by-gunmen-after-a-suicide-bombing-all-6-of-the-gunmen-are-killed-with-18-people-injured.md) _(Current version)_
 
 ### Related:

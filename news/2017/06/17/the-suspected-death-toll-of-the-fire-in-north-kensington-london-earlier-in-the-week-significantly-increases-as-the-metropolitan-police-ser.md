@@ -16,7 +16,7 @@ The official response to the Grenfell Tower catastrophe &ldquo;was not good enou
 
 ### Changes:
 
-1. [Grenfell Tower fire: The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/grenfell-tower-fire-the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-me.md) _2017-08-27 03:48:29 (First version)_
+1. [Grenfell Tower fire: The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/grenfell-tower-fire-the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-me.md) _2018-02-06 13:49:30 (First version)_
 1. [The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-metropolitan-police-ser.md) _(Current version)_
 
 ### Related:

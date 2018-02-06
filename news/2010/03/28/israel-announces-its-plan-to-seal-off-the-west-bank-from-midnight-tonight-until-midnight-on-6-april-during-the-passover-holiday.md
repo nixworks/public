@@ -25,8 +25,8 @@ Posters leaving out Al Aksa mosque plastered on buses with e. Jerusalem routes.
 
 ### Changes:
 
-1. [Middle East:Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/middle-east-pisrael-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holiday.md) _2017-08-25 03:27:30 (First version)_
-2. [Middle East:: Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/middle-east-israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holida.md) _2017-08-27 03:27:26 (Update)_
+1. [Middle East:Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/middle-east-pisrael-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holiday.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/middle-east-israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holida.md) _2018-02-06 13:49:19 (Update)_
 2. [Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holiday.md) _(Current version)_
 
 ### Related:

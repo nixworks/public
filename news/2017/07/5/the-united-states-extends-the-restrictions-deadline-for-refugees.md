@@ -16,7 +16,7 @@ Refugee resettlement agencies say the State Department has given them updated in
 
 ### Changes:
 
-1. [Executive Order 13780: The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/executive-order-13780-the-united-states-extends-the-restrictions-deadline-for-refugees.md) _2017-08-27 03:48:37 (First version)_
+1. [Executive Order 13780: The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/executive-order-13780-the-united-states-extends-the-restrictions-deadline-for-refugees.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/the-united-states-extends-the-restrictions-deadline-for-refugees.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Slovenia said Sunday it would clamp down on the number of migrants allowed to en
 
 ### Changes:
 
-1. [European migrant crisis: Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/european-migrant-crisis-slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md) _2017-08-27 03:44:54 (First version)_
+1. [European migrant crisis: Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/european-migrant-crisis-slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md) _2018-02-06 13:49:28 (First version)_
 1. [Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md) _(Current version)_
 
 ### Related:

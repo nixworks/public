@@ -20,7 +20,7 @@ Formats: [HTML](/news/2010/08/14/robert-zoellick-the-president-of-the-world-bank
 
 ### Changes:
 
-1. [2010 Pakistan floods: Robert Zoellick, the President of the World Bank estimates that the 2010 Pakistan floods have caused $1 billion in damages to crops. ](/news/2010/08/14/2010-pakistan-floods-robert-zoellick-the-president-of-the-world-bank-estimates-that-the-2010-pakistan-floods-have-caused-1-billion-in-dam.md) _2017-08-27 03:29:29 (First version)_
+1. [2010 Pakistan floods: Robert Zoellick, the President of the World Bank estimates that the 2010 Pakistan floods have caused $1 billion in damages to crops. ](/news/2010/08/14/2010-pakistan-floods-robert-zoellick-the-president-of-the-world-bank-estimates-that-the-2010-pakistan-floods-have-caused-1-billion-in-dam.md) _2018-02-06 13:49:20 (First version)_
 1. [Robert Zoellick, the President of the World Bank estimates that the 2010 Pakistan floods have caused $1 billion in damages to crops. ](/news/2010/08/14/robert-zoellick-the-president-of-the-world-bank-estimates-that-the-2010-pakistan-floods-have-caused-1-billion-in-damages-to-crops.md) _(Current version)_
 
 ### Related:

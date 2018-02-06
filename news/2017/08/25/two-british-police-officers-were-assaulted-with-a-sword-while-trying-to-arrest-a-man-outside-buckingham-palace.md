@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/08/25/two-british-police-officers-were-assaulted-with
 
 ### Changes:
 
-1. [2017 Buckingham Palace incident: Two British police officers were assaulted with a machette while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-machette-while-trying-to-arrest-a-man-outside-buckingham.md) _2017-08-27 03:48:50 (First version)_
-2. [2017 Buckingham Palace incident: Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-pal.md) _2017-08-27 17:30:05 (Update)_
+1. [2017 Buckingham Palace incident: Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-pal.md) _2018-02-06 13:49:31 (First version)_
+2. [2017 Buckingham Palace incident: Two British police officers were assaulted with a machette while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-machette-while-trying-to-arrest-a-man-outside-buckingham.md) _2018-02-06 13:49:31 (Update)_
 2. [Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-palace.md) _(Current version)_
 
 ### Related:

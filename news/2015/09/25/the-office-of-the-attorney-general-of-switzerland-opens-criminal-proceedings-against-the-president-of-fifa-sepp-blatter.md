@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerla
 
 ### Changes:
 
-1. [2015 FIFA corruption case: The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/2015-fifa-corruption-case-the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-b.md) _2017-08-27 03:43:09 (First version)_
+1. [2015 FIFA corruption case: The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/2015-fifa-corruption-case-the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-b.md) _2018-02-06 13:49:27 (First version)_
 1. [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md) _(Current version)_
 
 ### Related:

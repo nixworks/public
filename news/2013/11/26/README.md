@@ -21,7 +21,7 @@ CBS suspends star reporter Lara Logan and a producer for a discredited 60 Minute
 
 ##### Chancellor of the Exchequer
 ### [The U.K. Chancellor of the Exchequer asks the Bank of England whether it needs more power. The central bank's Financial Policy Committee will study the question. ](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.md)
-_Context: Chancellor of the Exchequer, Bank of England_
+_Context: Bank of England, Chancellor of the Exchequer_
 
 ##### Ford Motor Company
 ### [Ford recalls 140,000 Escape model cars from the United States and an additional 21,000 from other nations after 13 engine fires were reported. ](/news/2013/11/26/ford-recalls-140-000-escape-model-cars-from-the-united-states-and-an-additional-21-000-from-other-nations-after-13-engine-fires-were-reporte.md)
@@ -35,7 +35,7 @@ The fatal accident is the latest in a series of shipwrecks involving Haitian mig
 ### [Angola denies it has banned Islam. ](/news/2013/11/26/angola-denies-it-has-banned-islam.md)
 An official at the Angolan Embassy said Angola is a country that does not interfere in religion.
 
-##### British
+##### United Kingdom
 ### [Britain makes a protest to the Spanish authorities over the opening of a diplomatic bag at the border with Gibraltar on Friday 22 November 2013. ](/news/2013/11/26/britain-makes-a-protest-to-the-spanish-authorities-over-the-opening-of-a-diplomatic-bag-at-the-border-with-gibraltar-on-friday-22-november-2.md)
 Britain has protested to the Spanish authorities after police opened a diplomatic bag at the border with Gibraltar, calling it &quot;a serious infringement&quot; of the Vienna Convention on Diplomatic Relations.
 
@@ -45,7 +45,7 @@ Chinese police have detained nine people in connection with oil pipeline explosi
 
 ##### P.C.
 ### [P.C. Keith Wallis is charged as part of the investigation into the Plebgate incident at Downing Street. ](/news/2013/11/26/p-c-keith-wallis-is-charged-as-part-of-the-investigation-into-the-plebgate-incident-at-downing-street.md)
-_Context: Plebgate, Downing Street, P.C._
+_Context: Downing Street, P.C., Plebgate_
 
 ##### Lostprophets
 ### [Lostprophets frontman Ian Watkins pleads guilty at Cardiff Crown Court to a range of child sex offences including the attempted rape of a baby. ](/news/2013/11/26/lostprophets-frontman-ian-watkins-pleads-guilty-at-cardiff-crown-court-to-a-range-of-child-sex-offences-including-the-attempted-rape-of-a-ba.md)
@@ -53,11 +53,11 @@ The rock singer has pleaded guilty to offences including two of attempting to ra
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court agrees to hear certain major religious freedom cases that will decide whether a company that is for-profit (including family-run ones)- and other entities who are not themselves churches- can refuse to provide contraceptive coverage that would otherwise be required under the Patient Protection and Affordable Care Act; lower courts are split. ](/news/2013/11/26/the-u-s-supreme-court-agrees-to-hear-certain-major-religious-freedom-cases-that-will-decide-whether-a-company-that-is-for-profit-including.md)
-_Context: appeals court, Obamacare, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Obamacare, appeals court_
 
 ##### Prime Minister
 ### [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md)
-_Context: Thaksin Shinawatra, Yingluck Shinawatra, Prime Minister_
+_Context: Prime Minister, Yingluck Shinawatra, Thaksin Shinawatra_
 
 ##### White Paper
 ### [A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)

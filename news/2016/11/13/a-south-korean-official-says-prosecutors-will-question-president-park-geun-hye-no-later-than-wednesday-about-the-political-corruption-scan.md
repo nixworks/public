@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/13/a-south-korean-official-says-prosecutors-will-q
 
 ### Changes:
 
-1. [2016 South Korean political scandal: A South Korean official says prosecutors will question President Park Geun-hye, no later than Wednesday, about the political corruption scandal. This will be the first time a sitting president is questioned by prosecutors in a criminal case. ](/news/2016/11/13/2016-south-korean-political-scandal-a-south-korean-official-says-prosecutors-will-question-president-park-geun-hye-no-later-than-wednesday.md) _2017-08-27 03:47:13 (First version)_
+1. [2016 South Korean political scandal: A South Korean official says prosecutors will question President Park Geun-hye, no later than Wednesday, about the political corruption scandal. This will be the first time a sitting president is questioned by prosecutors in a criminal case. ](/news/2016/11/13/2016-south-korean-political-scandal-a-south-korean-official-says-prosecutors-will-question-president-park-geun-hye-no-later-than-wednesday.md) _2018-02-06 13:49:29 (First version)_
 1. [A South Korean official says prosecutors will question President Park Geun-hye, no later than Wednesday, about the political corruption scandal. This will be the first time a sitting president is questioned by prosecutors in a criminal case. ](/news/2016/11/13/a-south-korean-official-says-prosecutors-will-question-president-park-geun-hye-no-later-than-wednesday-about-the-political-corruption-scan.md) _(Current version)_
 
 ### Related:

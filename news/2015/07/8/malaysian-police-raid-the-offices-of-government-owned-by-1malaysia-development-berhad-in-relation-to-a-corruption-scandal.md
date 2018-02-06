@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-
 
 ### Changes:
 
-1. [1Malaysia Development Berhad scandal: Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/1malaysia-development-berhad-scandal-malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a.md) _2017-08-27 03:42:40 (First version)_
+1. [1Malaysia Development Berhad scandal: Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/1malaysia-development-berhad-scandal-malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a.md) _2018-02-06 13:49:27 (First version)_
 1. [Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a-corruption-scandal.md) _(Current version)_
 
 ### Related:

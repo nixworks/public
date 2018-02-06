@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-
 
 ### Changes:
 
-1. [Costa Concordia disaster: The cruise ship ''Costa Concordia'' runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. ](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-concordia-runs-aground-at-isola-del-giglio-in-the-mediterranean-sea-with-32-passengers.md) _2017-08-25 03:34:50 (First version)_
+1. [Costa Concordia disaster: The cruise ship ''Costa Concordia'' runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. ](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-concordia-runs-aground-at-isola-del-giglio-in-the-mediterranean-sea-with-32-passengers.md) _2018-02-06 13:49:23 (First version)_
 1. [Costa Concordia disaster: The cruise ship "Costa Concordia" runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. ](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-concordia-runs-aground-at-isola-del-giglio-in-the-mediterranean-sea-with-32-passengers-de.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Iraqi Prime Minister Haider al-Abadi has announced the start of an offensive aim
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraqi Prime Minister Haider al-Abadi announces the start of the Battle of Mosul, backed by the U.S.-led coalition, to retake ISIL-held Mosul, the self-declared caliphate's capital in Iraq. ](/news/2016/10/17/iraqi-civil-war-iraqi-prime-minister-haider-al-abadi-announces-the-start-of-the-battle-of-mosul-backed-by-the-u-s-led-coalition-to-retak.md) _2017-08-27 03:47:04 (First version)_
+1. [Iraqi Civil War: Iraqi Prime Minister Haider al-Abadi announces the start of the Battle of Mosul, backed by the U.S.-led coalition, to retake ISIL-held Mosul, the self-declared caliphate's capital in Iraq. ](/news/2016/10/17/iraqi-civil-war-iraqi-prime-minister-haider-al-abadi-announces-the-start-of-the-battle-of-mosul-backed-by-the-u-s-led-coalition-to-retak.md) _2018-02-06 13:49:29 (First version)_
 1. [Iraqi Prime Minister Haider al-Abadi announces the start of the Battle of Mosul, backed by the U.S.-led coalition, to retake ISIL-held Mosul, the self-declared caliphate's capital in Iraq. ](/news/2016/10/17/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-the-battle-of-mosul-backed-by-the-u-s-led-coalition-to-retake-isil-held-mosul.md) _(Current version)_
 
 ### Related:

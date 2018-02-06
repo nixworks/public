@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-6
 
 ### Changes:
 
-1. [Ukraine-s government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country-s territory during the pro-Russian unrest. ](/news/2014/08/8/ukraine-s-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md) _2017-08-27 03:41:08 (First version)_
+1. [Ukraine-s government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country-s territory during the pro-Russian unrest. ](/news/2014/08/8/ukraine-s-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukraine's government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country's territory during the pro-Russian unrest. ](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md) _(Current version)_
 
 ### Related:

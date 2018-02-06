@@ -21,7 +21,7 @@ A suicide car bomber crashed into a gate outside a hotel frequented by lawmakers
 
 ### Changes:
 
-1. [War in Somalia (2009-present): At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/war-in-somalia-2009-present-at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-clai.md) _2017-08-27 03:46:11 (First version)_
+1. [War in Somalia (2009-present): At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/war-in-somalia-2009-present-at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-clai.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-claims-responsibility.md) _(Current version)_
 
 ### Related:

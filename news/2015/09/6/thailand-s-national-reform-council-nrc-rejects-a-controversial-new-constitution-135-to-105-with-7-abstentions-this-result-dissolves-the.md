@@ -17,7 +17,7 @@ Thailand&#039;s junta-appointed National Reform Council (NRC) yesterday rejected
 
 ### Changes:
 
-1. [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions. This result dissolves the NRC, continues military rule for at least 7 months, and delays the scheduled January 2016 referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-th.md) _2017-08-25 03:42:42 (First version)_
+1. [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions. This result dissolves the NRC, continues military rule for at least 7 months, and delays the scheduled January 2016 referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-th.md) _2018-02-06 13:49:27 (First version)_
 1. [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions. This result dissolves the NRC, continues military rule for at least 7 months, and delays the scheduled January 2016 referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-the.md) _(Current version)_
 
 ### Related:

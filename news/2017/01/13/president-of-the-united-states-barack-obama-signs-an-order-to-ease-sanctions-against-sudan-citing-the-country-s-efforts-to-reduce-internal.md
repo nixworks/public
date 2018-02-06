@@ -16,7 +16,7 @@ The White House says the move recognises apparent progress on terrorism and huma
 
 ### Changes:
 
-1. [Sudan-United States relations: President of the United States Barack Obama signs an order to ease sanctions against Sudan, citing the country's efforts to "reduce internal conflict, improve humanitarian access to people requiring aid and curtail terrorism". ](/news/2017/01/13/sudan-united-states-relations-president-of-the-united-states-barack-obama-signs-an-order-to-ease-sanctions-against-sudan-citing-the-coun.md) _2017-08-27 03:47:36 (First version)_
+1. [Sudan-United States relations: President of the United States Barack Obama signs an order to ease sanctions against Sudan, citing the country's efforts to "reduce internal conflict, improve humanitarian access to people requiring aid and curtail terrorism". ](/news/2017/01/13/sudan-united-states-relations-president-of-the-united-states-barack-obama-signs-an-order-to-ease-sanctions-against-sudan-citing-the-coun.md) _2018-02-06 13:49:30 (First version)_
 1. [President of the United States Barack Obama signs an order to ease sanctions against Sudan, citing the country's efforts to "reduce internal conflict, improve humanitarian access to people requiring aid and curtail terrorism". ](/news/2017/01/13/president-of-the-united-states-barack-obama-signs-an-order-to-ease-sanctions-against-sudan-citing-the-country-s-efforts-to-reduce-internal.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Lebanon&#39;s Saad Hariri, the son of the country&#39;s assassinated former Prem
 
 ### Changes:
 
-1. [ Lebanese general election, 2005: Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-p-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md) _2017-08-25 03:16:18 (First version)_
-2. [ Lebanese general election, 2005:: Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md) _2017-08-27 03:16:20 (Update)_
+1. [ Lebanese general election, 2005:: Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md) _2018-02-06 13:49:16 (First version)_
+2. [ Lebanese general election, 2005: Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-p-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md) _2018-02-06 13:49:16 (Update)_
 2. [ Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in-beirut-parliamentary-elections-de.md) _(Current version)_
 
 ### Related:

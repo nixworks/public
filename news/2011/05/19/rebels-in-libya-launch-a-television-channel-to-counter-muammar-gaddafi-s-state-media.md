@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/05/19/rebels-in-libya-launch-a-television-channel-to-
 
 ### Changes:
 
-1. [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md) _2017-08-25 03:33:11 (First version)_
-2. [2011 Libyan civil war:: Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md) _2017-08-27 03:33:20 (Update)_
+1. [2011 Libyan civil war:: Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md) _2018-02-06 13:49:22 (Update)_
 2. [Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md) _(Current version)_
 
 ### Related:

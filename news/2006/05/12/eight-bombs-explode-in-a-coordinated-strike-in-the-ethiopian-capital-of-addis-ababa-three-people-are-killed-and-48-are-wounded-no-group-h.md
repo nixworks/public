@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/05/12/eight-bombs-explode-in-a-coordinated-strike-in-
 
 ### Changes:
 
-1. [ Eight bombs explode in a coordinated strike in the Ethiopian capital of Addis Ababa. Three people are killed and 48 are wounded. No group has yet claimed responsibility. ](/news/2006/05/12/eight-bombs-explode-in-a-coordinated-strike-in-the-ethiopian-capital-of-addis-ababa-three-people-are-killed-and-48-are-wounded-no-group.md) _2017-08-25 03:17:38 (First version)_
+1. [ Eight bombs explode in a coordinated strike in the Ethiopian capital of Addis Ababa. Three people are killed and 48 are wounded. No group has yet claimed responsibility. ](/news/2006/05/12/eight-bombs-explode-in-a-coordinated-strike-in-the-ethiopian-capital-of-addis-ababa-three-people-are-killed-and-48-are-wounded-no-group.md) _2018-02-06 13:49:17 (First version)_
 1. [ Eight bombs explode in a coordinated strike in the Ethiopian capital of Addis Ababa. Three people are killed and 48 are wounded. No group has yet claimed responsibility. ](/news/2006/05/12/eight-bombs-explode-in-a-coordinated-strike-in-the-ethiopian-capital-of-addis-ababa-three-people-are-killed-and-48-are-wounded-no-group-h.md) _(Current version)_
 
 ### Related:

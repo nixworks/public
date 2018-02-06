@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/06/8/the-centre-right-european-people-s-party-increas
 
 ### Changes:
 
-1. [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md) _2017-08-25 03:24:49 (First version)_
-2. [ European Union's parliamentary elections:: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-the-centre-right-european-people-s-party-increases-its-plurality.md) _2017-08-27 03:24:39 (Update)_
+1. [ European Union's parliamentary elections:: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-the-centre-right-european-people-s-party-increases-its-plurality.md) _2018-02-06 13:49:19 (First version)_
+2. [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md) _2018-02-06 13:49:19 (Update)_
 2. [ The centre-right European People's Party increases its plurality. ](/news/2009/06/8/the-centre-right-european-people-s-party-increases-its-plurality.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Six others also remanded on charges of aiding terrorist group PKK - Anadolu Agen
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict (2015-present): Security forces kill at least 10 PKK insurgents in Sirnak. ](/news/2016/11/29/kurdish-turkish-conflict-2015-present-security-forces-kill-at-least-10-pkk-insurgents-in-aa-rnak.md) _2017-08-27 03:47:20 (First version)_
+1. [Kurdish-Turkish conflict (2015-present): Security forces kill at least 10 PKK insurgents in Sirnak. ](/news/2016/11/29/kurdish-turkish-conflict-2015-present-security-forces-kill-at-least-10-pkk-insurgents-in-aa-rnak.md) _2018-02-06 13:49:29 (First version)_
 1. [Security forces kill at least 10 PKK insurgents in Sirnak. ](/news/2016/11/29/security-forces-kill-at-least-10-pkk-insurgents-in-aa-rnak.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Latest updates in the aftermath of the raid on St-Denis, in which two suspects d
 
 ### Changes:
 
-1. [Military intervention against ISIL: Cyprus offers France the use of its airbase facilities to bomb the Islamic State of Iraq and the Levant in Syria. Cypriot airbases are already being used by British and Canadian air forces for military operations. ](/news/2015/11/20/military-intervention-against-isil-cyprus-offers-france-the-use-of-its-airbase-facilities-to-bomb-the-islamic-state-of-iraq-and-the-levant.md) _2017-08-27 03:43:58 (First version)_
+1. [Military intervention against ISIL: Cyprus offers France the use of its airbase facilities to bomb the Islamic State of Iraq and the Levant in Syria. Cypriot airbases are already being used by British and Canadian air forces for military operations. ](/news/2015/11/20/military-intervention-against-isil-cyprus-offers-france-the-use-of-its-airbase-facilities-to-bomb-the-islamic-state-of-iraq-and-the-levant.md) _2018-02-06 13:49:28 (First version)_
 1. [Cyprus offers France the use of its airbase facilities to bomb the Islamic State of Iraq and the Levant in Syria. Cypriot airbases are already being used by British and Canadian air forces for military operations. ](/news/2015/11/20/cyprus-offers-france-the-use-of-its-airbase-facilities-to-bomb-the-islamic-state-of-iraq-and-the-levant-in-syria-cypriot-airbases-are-alrea.md) _(Current version)_
 
 ### Related:

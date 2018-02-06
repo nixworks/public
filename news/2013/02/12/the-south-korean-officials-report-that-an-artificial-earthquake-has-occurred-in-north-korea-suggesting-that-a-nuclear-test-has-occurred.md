@@ -20,8 +20,8 @@ North Korea conducted its third nuclear test on Tuesday in defiance of U.N. reso
 
 ### Changes:
 
-1. [2013 North Korean nuclear test:The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/2013-north-korean-nuclear-test-pthe-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-tha.md) _2017-08-25 03:37:31 (First version)_
-2. [2013 North Korean nuclear test:: The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/2013-north-korean-nuclear-test-the-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-th.md) _2017-08-27 03:37:41 (Update)_
+1. [2013 North Korean nuclear test:: The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/2013-north-korean-nuclear-test-the-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-th.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 North Korean nuclear test:The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/2013-north-korean-nuclear-test-pthe-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-tha.md) _2018-02-06 13:49:24 (Update)_
 2. [The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/the-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-that-a-nuclear-test-has-occurred.md) _(Current version)_
 
 ### Related:

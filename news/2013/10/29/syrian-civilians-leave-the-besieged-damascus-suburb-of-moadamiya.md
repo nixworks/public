@@ -16,8 +16,8 @@ Thousands of desperate civilians flee a suburb of the Syrian capital Damascus th
 
 ### Changes:
 
-1. [Syrian civil war:Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civil-war-psyrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md) _2017-08-25 03:39:27 (First version)_
-2. [Syrian civil war:: Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civil-war-syrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md) _2017-08-27 03:39:44 (Update)_
+1. [Syrian civil war:: Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civil-war-syrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civil-war-psyrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md) _(Current version)_
 
 ### Related:

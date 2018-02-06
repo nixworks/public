@@ -16,5 +16,5 @@ Assets worth £100m belonging to Syrian regime leaders have been located and fro
 
 ### Changes:
 
-1. [Syrian leaders' assets with the worth of PS100m are located and frozen in the United Kingdom. ](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-aps100m-are-located-and-frozen-in-the-united-kingdom.md) _2017-08-25 03:36:08 (First version)_
+1. [Syrian leaders' assets with the worth of PS100m are located and frozen in the United Kingdom. ](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-aps100m-are-located-and-frozen-in-the-united-kingdom.md) _2018-02-06 13:49:23 (First version)_
 1. [Syrian leaders' assets with the worth of GBP100m are located and frozen in the United Kingdom. ](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-agbp100m-are-located-and-frozen-in-the-united-kingdom.md) _(Current version)_

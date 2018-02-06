@@ -17,8 +17,8 @@ An explosion near a mosque in a Shia area of the Pakistani city of Karachi has k
 
 ### Changes:
 
-1. [March 2013 Karachi bombing:A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/march-2013-karachi-bombing-pa-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md) _2017-08-25 03:37:42 (First version)_
-2. [March 2013 Karachi bombing:: A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/march-2013-karachi-bombing-a-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md) _2017-08-27 03:37:53 (Update)_
+1. [March 2013 Karachi bombing:A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/march-2013-karachi-bombing-pa-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md) _2018-02-06 13:49:24 (First version)_
+2. [March 2013 Karachi bombing:: A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/march-2013-karachi-bombing-a-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/a-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md) _(Current version)_
 
 ### Related:

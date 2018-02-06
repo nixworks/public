@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/07/10/three-nato-service-members-are-killed-in-separa
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001apresent-pthree-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md) _2017-08-25 03:33:44 (First version)_
-2. [War in Afghanistan (2001-present):: Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001-present-three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md) _2017-08-27 03:33:51 (Update)_
+1. [War in Afghanistan (2001-present):Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001apresent-pthree-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md) _2018-02-06 13:49:22 (First version)_
+2. [War in Afghanistan (2001-present):: Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001-present-three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md) _2018-02-06 13:49:22 (Update)_
 2. [Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md) _(Current version)_
 
 ### Related:

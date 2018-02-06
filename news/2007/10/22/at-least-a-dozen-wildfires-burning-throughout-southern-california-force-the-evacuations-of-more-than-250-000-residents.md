@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/10/22/at-least-a-dozen-wildfires-burning-throughout-s
 
 ### Changes:
 
-1. [ California wildfires of October 2007: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-p-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md) _2017-08-25 03:21:14 (First version)_
-2. [ California wildfires of October 2007:: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md) _2017-08-27 03:21:09 (Update)_
+1. [ California wildfires of October 2007: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-p-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md) _2018-02-06 13:49:18 (First version)_
+2. [ California wildfires of October 2007:: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md) _2018-02-06 13:49:18 (Update)_
 2. [ At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than-250-000-residents.md) _(Current version)_
 
 ### Related:

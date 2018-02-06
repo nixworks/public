@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/24/u-s-president-donald-trump-signs-documents-appr
 
 ### Changes:
 
-1. [Presidency of Donald Trump: U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/presidency-of-donald-trump-u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access.md) _2017-08-27 03:47:40 (First version)_
+1. [Presidency of Donald Trump: U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/presidency-of-donald-trump-u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md) _(Current version)_
 
 ### Related:

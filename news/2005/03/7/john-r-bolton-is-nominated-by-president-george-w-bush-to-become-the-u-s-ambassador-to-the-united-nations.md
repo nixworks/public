@@ -17,7 +17,7 @@ President Bush intends to nominate Undersecretary of State John R. Bolton to be 
 
 ### Changes:
 
-1. [ John R. Bolton is nominated by President George W. Bush to become the U.S. Ambassador to the United Nations. [http:--www.cnn.com-2005-US-03-07-bolton-index.html (CNN)] [http:--www.foxnews.com-story-0,2933,149633,00.html (Fox News)].](/news/2005/03/7/john-r-bolton-is-nominated-by-president-george-w-bush-to-become-the-u-s-ambassador-to-the-united-nations-http-www-cnn-com-2005-us-03.md) _2017-06-18 03:15:50 (First version)_
+1. [ John R. Bolton is nominated by President George W. Bush to become the U.S. Ambassador to the United Nations. [http:--www.cnn.com-2005-US-03-07-bolton-index.html (CNN)] [http:--www.foxnews.com-story-0,2933,149633,00.html (Fox News)].](/news/2005/03/7/john-r-bolton-is-nominated-by-president-george-w-bush-to-become-the-u-s-ambassador-to-the-united-nations-http-www-cnn-com-2005-us-03.md) _2018-02-06 13:49:16 (First version)_
 1. [ John R. Bolton is nominated by President George W. Bush to become the U.S. Ambassador to the United Nations. ](/news/2005/03/7/john-r-bolton-is-nominated-by-president-george-w-bush-to-become-the-u-s-ambassador-to-the-united-nations.md) _(Current version)_
 
 ### Related:

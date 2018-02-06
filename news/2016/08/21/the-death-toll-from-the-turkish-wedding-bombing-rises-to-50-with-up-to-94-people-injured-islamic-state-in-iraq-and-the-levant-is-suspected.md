@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/21/the-death-toll-from-the-turkish-wedding-bombing
 
 ### Changes:
 
-1. [Gaziantep bombing: The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. ](/news/2016/08/21/gaziantep-bombing-the-death-toll-from-the-turkish-wedding-bombing-rises-to-50-with-up-to-94-people-injured-islamic-state-in-iraq-and-the-l.md) _2017-08-27 03:46:41 (First version)_
+1. [Gaziantep bombing: The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. ](/news/2016/08/21/gaziantep-bombing-the-death-toll-from-the-turkish-wedding-bombing-rises-to-50-with-up-to-94-people-injured-islamic-state-in-iraq-and-the-l.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. ](/news/2016/08/21/the-death-toll-from-the-turkish-wedding-bombing-rises-to-50-with-up-to-94-people-injured-islamic-state-in-iraq-and-the-levant-is-suspected.md) _(Current version)_
 
 ### Related:

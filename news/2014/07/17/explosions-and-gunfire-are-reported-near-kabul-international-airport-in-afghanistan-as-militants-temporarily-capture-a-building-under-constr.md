@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/07/17/explosions-and-gunfire-are-reported-near-kabul-
 
 ### Changes:
 
-1. [Taliban insurgency:Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-pexplosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-b.md) _2017-08-25 03:40:42 (First version)_
-2. [Taliban insurgency:: Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a.md) _2017-08-27 03:40:59 (Update)_
+1. [Taliban insurgency:Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-pexplosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-b.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency:: Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a.md) _2018-02-06 13:49:26 (Update)_
 2. [Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-building-under-constr.md) _(Current version)_
 
 ### Related:

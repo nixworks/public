@@ -21,7 +21,7 @@ Killing Of Palestinian Schoolgirl, 10, Sparks Renewed Violence
 
 ### Changes:
 
-1. [ Arab-Israeli conflict: A ten-year-old Palestinian girl dies after being shot in the head as she played in her school playground in Rafah. The source of the gunfire is disputed. Hamas launches mortar shells in retaliation, damaging a house in an Israeli settlement. ](/news/2005/01/31/arab-israeli-conflict-a-ten-year-old-palestinian-girl-dies-after-being-shot-in-the-head-as-she-played-in-her-school-playground-in-rafah.md) _2017-08-27 03:15:38 (First version)_
+1. [ Arab-Israeli conflict: A ten-year-old Palestinian girl dies after being shot in the head as she played in her school playground in Rafah. The source of the gunfire is disputed. Hamas launches mortar shells in retaliation, damaging a house in an Israeli settlement. ](/news/2005/01/31/arab-israeli-conflict-a-ten-year-old-palestinian-girl-dies-after-being-shot-in-the-head-as-she-played-in-her-school-playground-in-rafah.md) _2018-02-06 13:49:16 (First version)_
 1. [ Arab-Israeli conflict: A ten-year-old Palestinian girl dies after being shot in the head as she played in her school playground in Rafah. The source of the gunfire is disputed. Hamas launches mortar shells in retaliation, damaging a house in an Israeli settlement. ](/news/2005/01/31/arabaisraeli-conflict-a-ten-year-old-palestinian-girl-dies-after-being-shot-in-the-head-as-she-played-in-her-school-playground-in-rafah.md) _(Current version)_
 
 ### Related:

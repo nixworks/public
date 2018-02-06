@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-anno
 
 ### Changes:
 
-1. [ In the Philippines, President Gloria Arroyo announces that she intends to form a ''truth commission'' to investigate charges of poll fraud against her. ](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-announces-that-she-intends-to-form-a-truth-commission-to-investigate-charges-of-poll-fraud.md) _2017-08-25 03:16:33 (First version)_
+1. [ In the Philippines, President Gloria Arroyo announces that she intends to form a ''truth commission'' to investigate charges of poll fraud against her. ](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-announces-that-she-intends-to-form-a-truth-commission-to-investigate-charges-of-poll-fraud.md) _2018-02-06 13:49:16 (First version)_
 1. [ In the Philippines, President Gloria Arroyo announces that she intends to form a "truth commission" to investigate charges of poll fraud against her. ](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-announces-that-she-intends-to-form-a-truth-commission-to-investigate-charges-of-poll-fraud-ag.md) _(Current version)_
 
 ### Related:

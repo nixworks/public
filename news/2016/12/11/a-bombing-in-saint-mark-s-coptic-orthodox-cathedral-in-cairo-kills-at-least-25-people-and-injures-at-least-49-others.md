@@ -17,7 +17,7 @@ An explosion inside Cairo&#039;s Coptic cathedral has killed at least 25 people 
 
 ### Changes:
 
-1. [Botroseya Church bombing: A bombing in Saint Mark's Coptic Orthodox Cathedral in Cairo kills at least 25 people and injures at least 49 others. ](/news/2016/12/11/botroseya-church-bombing-a-bombing-in-saint-mark-s-coptic-orthodox-cathedral-in-cairo-kills-at-least-25-people-and-injures-at-least-49-othe.md) _2017-08-27 03:47:25 (First version)_
+1. [Botroseya Church bombing: A bombing in Saint Mark's Coptic Orthodox Cathedral in Cairo kills at least 25 people and injures at least 49 others. ](/news/2016/12/11/botroseya-church-bombing-a-bombing-in-saint-mark-s-coptic-orthodox-cathedral-in-cairo-kills-at-least-25-people-and-injures-at-least-49-othe.md) _2018-02-06 13:49:29 (First version)_
 1. [A bombing in Saint Mark's Coptic Orthodox Cathedral in Cairo kills at least 25 people and injures at least 49 others. ](/news/2016/12/11/a-bombing-in-saint-mark-s-coptic-orthodox-cathedral-in-cairo-kills-at-least-25-people-and-injures-at-least-49-others.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-foll
 
 ### Changes:
 
-1. [Nagorno-Karabakh conflict: At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/nagorno-karabakh-conflict-at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-y.md) _2017-08-27 03:43:09 (First version)_
+1. [Nagorno-Karabakh conflict: At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/nagorno-karabakh-conflict-at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-y.md) _2018-02-06 13:49:27 (First version)_
 1. [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md) _(Current version)_
 
 ### Related:

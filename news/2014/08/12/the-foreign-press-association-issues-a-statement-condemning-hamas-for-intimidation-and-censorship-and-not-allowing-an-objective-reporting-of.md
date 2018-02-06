@@ -16,7 +16,7 @@ FPA statement &#39;protests methods by Hamas against journalists in Gaza&#39;, c
 
 ### Changes:
 
-1. [2014 Israel-Gaza Conflict: The Foreign Press Association issues a statement condemning Hamas for intimidation and censorship and not allowing an objective reporting of events. ](/news/2014/08/12/2014-israel-gaza-conflict-the-foreign-press-association-issues-a-statement-condemning-hamas-for-intimidation-and-censorship-and-not-allowin.md) _2017-08-27 03:41:08 (First version)_
+1. [2014 Israel-Gaza Conflict: The Foreign Press Association issues a statement condemning Hamas for intimidation and censorship and not allowing an objective reporting of events. ](/news/2014/08/12/2014-israel-gaza-conflict-the-foreign-press-association-issues-a-statement-condemning-hamas-for-intimidation-and-censorship-and-not-allowin.md) _2018-02-06 13:49:26 (First version)_
 1. [The Foreign Press Association issues a statement condemning Hamas for intimidation and censorship and not allowing an objective reporting of events. ](/news/2014/08/12/the-foreign-press-association-issues-a-statement-condemning-hamas-for-intimidation-and-censorship-and-not-allowing-an-objective-reporting-of.md) _(Current version)_
 
 ### Related:

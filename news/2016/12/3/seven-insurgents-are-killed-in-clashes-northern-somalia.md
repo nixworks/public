@@ -16,7 +16,7 @@ Soldiers allied to the Western-backed Somali government said they killed seven i
 
 ### Changes:
 
-1. [Somali Civil War (2009-present): Seven insurgents are killed in clashes northern Somalia. ](/news/2016/12/3/somali-civil-war-2009-present-seven-insurgents-are-killed-in-clashes-northern-somalia.md) _2017-08-27 03:47:22 (First version)_
+1. [Somali Civil War (2009-present): Seven insurgents are killed in clashes northern Somalia. ](/news/2016/12/3/somali-civil-war-2009-present-seven-insurgents-are-killed-in-clashes-northern-somalia.md) _2018-02-06 13:49:30 (First version)_
 1. [ Seven insurgents are killed in clashes northern Somalia. ](/news/2016/12/3/seven-insurgents-are-killed-in-clashes-northern-somalia.md) _(Current version)_
 
 ### Related:

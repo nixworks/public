@@ -16,7 +16,7 @@ Hungary will hold a referendum on 2 October on whether to accept mandatory EU qu
 
 ### Changes:
 
-1. [European migrant crisis: Hungarian Prime Minister Viktor Orban announces that the country will hold a referendum on October 2 where voters will get to choose whether or not to accept European Union-imposed quotas on the distribution of migrants. ](/news/2016/07/5/european-migrant-crisis-hungarian-prime-minister-viktor-orba-n-announces-that-the-country-will-hold-a-referendum-on-october-2-where-voters.md) _2017-08-27 03:46:25 (First version)_
+1. [European migrant crisis: Hungarian Prime Minister Viktor Orban announces that the country will hold a referendum on October 2 where voters will get to choose whether or not to accept European Union-imposed quotas on the distribution of migrants. ](/news/2016/07/5/european-migrant-crisis-hungarian-prime-minister-viktor-orba-n-announces-that-the-country-will-hold-a-referendum-on-october-2-where-voters.md) _2018-02-06 13:49:29 (First version)_
 1. [Hungarian Prime Minister Viktor Orban announces that the country will hold a referendum on October 2 where voters will get to choose whether or not to accept European Union-imposed quotas on the distribution of migrants. ](/news/2016/07/5/hungarian-prime-minister-viktor-orba-n-announces-that-the-country-will-hold-a-referendum-on-october-2-where-voters-will-get-to-choose-whethe.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ French-led troops in Mali have taken control of the northern Islamist stronghold
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/northern-mali-conflict-2012apresent-pfrench-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islami.md) _2017-08-25 03:37:21 (First version)_
-2. [Northern Mali conflict (2012-present):: French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/northern-mali-conflict-2012-present-french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islam.md) _2017-08-27 03:37:31 (Update)_
+1. [Northern Mali conflict (2012-present):French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/northern-mali-conflict-2012apresent-pfrench-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islami.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/northern-mali-conflict-2012-present-french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islam.md) _2018-02-06 13:49:24 (Update)_
 2. [French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islamist-stronghold-of-gao.md) _(Current version)_
 
 ### Related:

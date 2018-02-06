@@ -15,7 +15,7 @@ Islamabad, Sep 2 (IANS) At least six people were killed in a US drone strike in 
 
 ### Changes:
 
-1. [War in North-West Pakistan: Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/war-in-north-west-pakistan-six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _2017-08-27 03:42:57 (First version)_
+1. [War in North-West Pakistan: Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/war-in-north-west-pakistan-six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _2018-02-06 13:49:27 (First version)_
 1. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _(Current version)_
 
 ### Related:

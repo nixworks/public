@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/1/china-s-top-security-official-blames-the-east-tu
 
 ### Changes:
 
-1. [2013 Tiananmen Square attack:China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-pchina-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-five.md) _2017-08-25 03:39:28 (First version)_
-2. [2013 Tiananmen Square attack:: China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-china-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-fiv.md) _2017-08-27 03:39:46 (Update)_
+1. [2013 Tiananmen Square attack:China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-pchina-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-five.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Tiananmen Square attack:: China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-china-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-fiv.md) _2018-02-06 13:49:25 (Update)_
 2. [China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/china-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-five-people-at-the-tiananmen-gate.md) _(Current version)_
 
 ### Related:

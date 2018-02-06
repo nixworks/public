@@ -18,7 +18,7 @@ Formats: [HTML](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-t
 
 ### Changes:
 
-1. [ A new picture of Fidel Castro is published in the ''Juventud Rebelde'' state-run newspaper, apparently showing Cuba's ailing former leader in much better health. ](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-the-juventud-rebelde-state-run-newspaper-apparently-showing-cuba-s-ailing-former-leader.md) _2017-08-25 03:25:32 (First version)_
+1. [ A new picture of Fidel Castro is published in the ''Juventud Rebelde'' state-run newspaper, apparently showing Cuba's ailing former leader in much better health. ](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-the-juventud-rebelde-state-run-newspaper-apparently-showing-cuba-s-ailing-former-leader.md) _2018-02-06 13:49:19 (First version)_
 1. [ A new picture of Fidel Castro is published in the "Juventud Rebelde" state-run newspaper, apparently showing Cuba's ailing former leader in much better health. ](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-the-juventud-rebelde-state-run-newspaper-apparently-showing-cuba-s-ailing-former-leader-in.md) _(Current version)_
 
 ### Related:

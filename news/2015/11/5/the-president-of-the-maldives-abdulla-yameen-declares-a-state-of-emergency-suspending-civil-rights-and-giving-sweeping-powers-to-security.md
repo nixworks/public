@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/5/the-president-of-the-maldives-abdulla-yameen-dec
 
 ### [2015-11-5](/news/2015/11/5/index.md)
 
-##### President
+##### President of the Maldives
 # The President of the Maldives, Abdulla Yameen, declares a state of emergency suspending civil rights and giving sweeping powers to security forces. 
 
 President’s decree suspends all basic rights and gives sweeping powers to security forces ahead of opposition protest rally
@@ -18,8 +18,8 @@ President’s decree suspends all basic rights and gives sweeping powers to secu
 
 ### Related:
 
-1. [A Maldives court convicts Ahmed Adeeb, the country's former vice president, of masterminding a plot to kill President Abdulla Yameen. He is sentenced to 15 years in prison. Earlier this week, Adeeb was sentenced to 10 years for firearms possession. ](/news/2016/06/10/a-maldives-court-convicts-ahmed-adeeb-the-country-s-former-vice-president-of-masterminding-a-plot-to-kill-president-abdulla-yameen-he-is.md) _Context: Abdulla Yameen, President_
-2. [Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. ](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.md) _Context: Abdulla Yameen, President_
-3. [Abdulla Yameen is sworn in as the President of the Maldives following yesterday's election victory. ](/news/2013/11/17/abdulla-yameen-is-sworn-in-as-the-president-of-the-maldives-following-yesterday-s-election-victory.md) _Context: Abdulla Yameen, President_
-4. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: state of emergency_
-5. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: state of emergency_
+1. [The President of the Maldives, Abdulla Yameen, declares a 15-day state of emergency. Security forces storm the Supreme Court of the Maldives in a bid to block the court-ordered release of jailed opposition politicians. Police arrest former President Maumoon Abdul Gayoom. ](/news/2018/02/5/the-president-of-the-maldives-abdulla-yameen-declares-a-15-day-state-of-emergency-security-forces-storm-the-supreme-court-of-the-maldives.md) _Context: Abdulla Yameen, President of the Maldives_
+2. [A Maldives court convicts Ahmed Adeeb, the country's former vice president, of masterminding a plot to kill President Abdulla Yameen. He is sentenced to 15 years in prison. Earlier this week, Adeeb was sentenced to 10 years for firearms possession. ](/news/2016/06/10/a-maldives-court-convicts-ahmed-adeeb-the-country-s-former-vice-president-of-masterminding-a-plot-to-kill-president-abdulla-yameen-he-is.md) _Context: Abdulla Yameen, President of the Maldives_
+3. [Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. ](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.md) _Context: Abdulla Yameen, President of the Maldives_
+4. [Abdulla Yameen is sworn in as the President of the Maldives following yesterday's election victory. ](/news/2013/11/17/abdulla-yameen-is-sworn-in-as-the-president-of-the-maldives-following-yesterday-s-election-victory.md) _Context: Abdulla Yameen, President of the Maldives_
+5. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: state of emergency_

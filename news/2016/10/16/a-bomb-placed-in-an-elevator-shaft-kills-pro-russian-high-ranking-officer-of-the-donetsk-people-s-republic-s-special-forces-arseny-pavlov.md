@@ -17,7 +17,7 @@ A self-made explosive device went off while Arsen Pavlov, known as Motorola, was
 
 ### Changes:
 
-1. [War in Donbass: A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. ](/news/2016/10/16/war-in-donbass-a-bomb-placed-in-an-elevator-shaft-kills-pro-russian-high-ranking-officer-of-the-donetsk-people-s-republic-s-special-forces.md) _2017-08-27 03:47:04 (First version)_
+1. [War in Donbass: A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. ](/news/2016/10/16/war-in-donbass-a-bomb-placed-in-an-elevator-shaft-kills-pro-russian-high-ranking-officer-of-the-donetsk-people-s-republic-s-special-forces.md) _2018-02-06 13:49:29 (First version)_
 1. [A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. ](/news/2016/10/16/a-bomb-placed-in-an-elevator-shaft-kills-pro-russian-high-ranking-officer-of-the-donetsk-people-s-republic-s-special-forces-arseny-pavlov.md) _(Current version)_
 
 ### Related:

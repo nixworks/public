@@ -16,7 +16,7 @@ The machete-wielding man shouted &quot;Allahu Akbar&quot; and attacked soldiers 
 
 ### Changes:
 
-1. [2017 Paris machete attack: A French Army soldier shoots and wounds a man armed with a knife who was trying to enter an underground shopping area near the Louvre in Paris. The museum was evacuated. ](/news/2017/02/3/2017-paris-machete-attack-a-french-army-soldier-shoots-and-wounds-a-man-armed-with-a-knife-who-was-trying-to-enter-an-underground-shopping.md) _2017-08-27 03:47:45 (First version)_
+1. [2017 Paris machete attack: A French Army soldier shoots and wounds a man armed with a knife who was trying to enter an underground shopping area near the Louvre in Paris. The museum was evacuated. ](/news/2017/02/3/2017-paris-machete-attack-a-french-army-soldier-shoots-and-wounds-a-man-armed-with-a-knife-who-was-trying-to-enter-an-underground-shopping.md) _2018-02-06 13:49:30 (First version)_
 1. [A French Army soldier shoots and wounds a man armed with a knife who was trying to enter an underground shopping area near the Louvre in Paris. The museum was evacuated. ](/news/2017/02/3/a-french-army-soldier-shoots-and-wounds-a-man-armed-with-a-knife-who-was-trying-to-enter-an-underground-shopping-area-near-the-louvre-in-par.md) _(Current version)_
 
 ### Related:

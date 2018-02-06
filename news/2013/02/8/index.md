@@ -5,7 +5,7 @@ Formats: [HTML](2013/02/8/index.html)  [JSON](2013/02/8/index.json)  [XML](2013/
 
 ##### Syrian army's
 ### [Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md)
-_Context: Syrian army's, Syria_
+_Context: Syria, Syrian army's_
 
 ##### Iraq
 ### [A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-blasts-in-baghdad-s-kadhimiya-neighborhood.md)
@@ -17,15 +17,15 @@ GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a m
 
 ##### Kalaya
 ### [A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/a-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md)
-_Context: Orakzai Tribal Area, Pakistan, Kalaya_
+_Context: Pakistan, Kalaya, Orakzai Tribal Area_
 
 ##### Nigeria
 ### [Nine women are shot to death in the Nigerian city of Kano. According to reports, all of them were involved in a polio vaccination policy and were most probably killed by the Islamist movement Boko Haram, which has previously threatened to target those involved in vaccinations. ](/news/2013/02/8/nine-women-are-shot-to-death-in-the-nigerian-city-of-kano-according-to-reports-all-of-them-were-involved-in-a-polio-vaccination-policy-and.md)
-_Context: Boko Haram, Nigeria, Kano, polio_
+_Context: Boko Haram, Kano, polio, Nigeria_
 
 ##### Lucy Maud Montgomery
 ### [The cover of the latest edition of Lucy Maud Montgomery's "Anne of Green Gables" arouses controversy among readers as the orphan with the "very thick, decidedly red hair" and the "much freckled" face is transformed into a blonde, buxom farm girl with come-hither eyes. This follows the recent controversy over a new cover for Sylvia Plath's "The Bell Jar" which portrays a young woman applying make-up. ](/news/2013/02/8/the-cover-of-the-latest-edition-of-lucy-maud-montgomery-s-anne-of-green-gables-arouses-controversy-among-readers-as-the-orphan-with-the-v.md)
-_Context: The Bell Jar, Sylvia Plath, Lucy Maud Montgomery, Anne of Green Gables_
+_Context: Sylvia Plath, Anne of Green Gables, Lucy Maud Montgomery, The Bell Jar_
 
 ##### US Appeals Court
 ### [The United States Court of Appeals for the Federal Circuit, which hears all appeals in U.S. patent cases, hears arguments in "CLS Bank v. Alice", a case that may sharpen standards for patentability in the fields of computer software, business methods, and financial services. ](/news/2013/02/8/the-united-states-court-of-appeals-for-the-federal-circuit-which-hears-all-appeals-in-u-s-patent-cases-hears-arguments-in-cls-bank-v-al.md)
@@ -37,15 +37,15 @@ A major snowstorm in the north-eastern US and eastern Canada leaves to hundreds 
 
 ##### Meghna River
 ### [A ferry carrying 100 passengers capsizes in the Meghna River in Bangladesh's Munshiganj District near the capital Dhaka. ](/news/2013/02/8/a-ferry-carrying-100-passengers-capsizes-in-the-meghna-river-in-bangladesh-s-munshiganj-district-near-the-capital-dhaka.md)
-_Context: Meghna River, Bangladesh, Munshiganj District, Dhaka_
+_Context: Dhaka, Bangladesh, Meghna River, Munshiganj District_
 
 ##### hackers
 ### [Authorities are investigating how a hacker obtained access to the e-mail accounts of George H. W. Bush as well as several of the former U.S. President's relatives and close friends. ](/news/2013/02/8/authorities-are-investigating-how-a-hacker-obtained-access-to-the-e-mail-accounts-of-george-h-w-bush-as-well-as-several-of-the-former-u-s.md)
-_Context: U.S. President, hackers, George H. W. Bush_
+_Context: George H. W. Bush, hackers, U.S. President_
 
 ##### murder-suicide
 ### [A murder-suicide on Interstate 80, near Salt Lake City, United States, causes the death of two people. ](/news/2013/02/8/a-murder-suicide-on-interstate-80-near-salt-lake-city-united-states-causes-the-death-of-two-people.md)
-_Context: murder-suicide, Salt Lake City, Interstate 80, United States_
+_Context: Interstate 80, Salt Lake City, United States, murder-suicide_
 
 ##### 2013 Bangladesh protests
 ### [2013 Bangladesh protests: In Bangladesh, over 100,000 people join in a mass movement to demand justice for atrocities committed during the Bangladesh Liberation War. ](/news/2013/02/8/2013-bangladesh-protests-in-bangladesh-over-100-000-people-join-in-a-mass-movement-to-demand-justice-for-atrocities-committed-during-the-b.md)
@@ -53,7 +53,7 @@ Hundreds of thousands rally in Bangladesh to demand the death penalty for a poli
 
 ##### 2010-2013 Greek protests
 ### [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md)
-_Context: candle, torch, Crete, 2010-2013 Greek protests, Ierapetra_
+_Context: torch, Crete, Ierapetra, 2010-2013 Greek protests, candle_
 
 ##### Tunisia
 ### [In Tunisia, the funeral of the opposition politician Chokri Belaid takes place as over a million people gather in mourning amid major protests. A general strike is declared. Tunis Airport is closed and all flights suspended. ](/news/2013/02/8/in-tunisia-the-funeral-of-the-opposition-politician-chokri-belaid-takes-place-as-over-a-million-people-gather-in-mourning-amid-major-protes.md)
@@ -65,7 +65,7 @@ Filmmaker Simon Klose has spent the last four years following the founders of Th
 
 ##### influenza vaccine
 ### [Some scientists express concern that an influenza vaccine marketed by GlaxoSmithKline called Pandemrix may be responsible for an increase in cases of narcolepsy in Europe. ](/news/2013/02/8/some-scientists-express-concern-that-an-influenza-vaccine-marketed-by-glaxosmithkline-called-pandemrix-may-be-responsible-for-an-increase-in.md)
-_Context: Pandemrix, narcolepsy, influenza vaccine, GlaxoSmithKline, Europe_
+_Context: GlaxoSmithKline, Pandemrix, influenza vaccine, narcolepsy, Europe_
 
 ## [Previous Day...](/news/2013/02/7/index.md)
 

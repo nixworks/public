@@ -16,7 +16,7 @@ The leader of the Syrian branch of al-Qaeda has reportedly been killed in Aleppo
 
 ### Changes:
 
-1. [Syrian Civil War: Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/syrian-civil-war-al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-dur.md) _2017-08-27 03:43:29 (First version)_
+1. [Syrian Civil War: Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/syrian-civil-war-al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-dur.md) _2018-02-06 13:49:28 (First version)_
 1. [Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-during-clashes-with-t.md) _(Current version)_
 
 ### Related:

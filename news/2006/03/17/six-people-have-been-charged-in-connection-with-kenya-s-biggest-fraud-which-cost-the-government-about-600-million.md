@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/17/six-people-have-been-charged-in-connection-with
 
 ### Changes:
 
-1. [ Six people have been charged in connection with Kenya's biggest fraud, which cost the government about {{Nowrap|$600 million}}. ](/news/2006/03/17/six-people-have-been-charged-in-connection-with-kenya-s-biggest-fraud-which-cost-the-government-about-nowrap-600-million.md) _2017-05-01 03:17:53 (First version)_
+1. [ Six people have been charged in connection with Kenya's biggest fraud, which cost the government about {{Nowrap|$600 million}}. ](/news/2006/03/17/six-people-have-been-charged-in-connection-with-kenya-s-biggest-fraud-which-cost-the-government-about-nowrap-600-million.md) _2018-02-06 13:49:17 (First version)_
 1. [ Six people have been charged in connection with Kenya's biggest fraud, which cost the government about $600 million. ](/news/2006/03/17/six-people-have-been-charged-in-connection-with-kenya-s-biggest-fraud-which-cost-the-government-about-600-million.md) _(Current version)_
 
 ### Related:

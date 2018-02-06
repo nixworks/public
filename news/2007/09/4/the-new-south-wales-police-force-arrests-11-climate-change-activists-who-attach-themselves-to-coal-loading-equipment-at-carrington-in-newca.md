@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/09/4/the-new-south-wales-police-force-arrests-11-clim
 
 ### Changes:
 
-1. [ APEC summit meeting: The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/apec-summit-meeting-p-the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment.md) _2017-08-25 03:20:51 (First version)_
-2. [ APEC summit meeting:: The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/apec-summit-meeting-the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment.md) _2017-08-27 03:20:48 (Update)_
+1. [ APEC summit meeting:: The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/apec-summit-meeting-the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment.md) _2018-02-06 13:49:18 (First version)_
+2. [ APEC summit meeting: The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/apec-summit-meeting-p-the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment.md) _2018-02-06 13:49:18 (Update)_
 2. [ The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment-at-carrington-in-newca.md) _(Current version)_
 
 ### Related:

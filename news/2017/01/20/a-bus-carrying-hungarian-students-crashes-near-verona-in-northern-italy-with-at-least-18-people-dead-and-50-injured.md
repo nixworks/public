@@ -17,8 +17,8 @@ Sixteen people were killed and about 40 injured when a bus carrying students fro
 
 ### Changes:
 
-1. [2017 Verona bus crash A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-pa-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _2017-05-25 03:49:48 (First version)_
-2. [2017 Verona bus crash: A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _2017-08-27 03:47:39 (Update)_
+1. [2017 Verona bus crash A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-pa-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Verona bus crash: A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _2018-02-06 13:49:30 (Update)_
 2. [A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _(Current version)_
 
 ### Related:

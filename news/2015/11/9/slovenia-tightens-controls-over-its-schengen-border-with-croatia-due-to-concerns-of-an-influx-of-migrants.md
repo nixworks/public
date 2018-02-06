@@ -16,7 +16,7 @@ Slovenian government said Monday it would take urgent measures to strengthen con
 
 ### Changes:
 
-1. [European migrant crisis: Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/european-migrant-crisis-slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md) _2017-08-27 03:43:45 (First version)_
+1. [European migrant crisis: Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/european-migrant-crisis-slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md) _2018-02-06 13:49:28 (First version)_
 1. [Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md) _(Current version)_
 
 ### Related:

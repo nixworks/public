@@ -17,8 +17,8 @@ Indian police use tear gas, water cannon and batons to disperse protesters march
 
 ### Changes:
 
-1. [2012 Delhi gang rape case:People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/2012-delhi-gang-rape-case-ppeople-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons-i.md) _2017-08-25 03:37:06 (First version)_
-2. [2012 Delhi gang rape case:: People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/2012-delhi-gang-rape-case-people-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons.md) _2017-08-27 03:37:17 (Update)_
+1. [2012 Delhi gang rape case:People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/2012-delhi-gang-rape-case-ppeople-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons-i.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Delhi gang rape case:: People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/2012-delhi-gang-rape-case-people-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons.md) _2018-02-06 13:49:24 (Update)_
 2. [People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/people-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons-in-new-delhi-india.md) _(Current version)_
 
 ### Related:

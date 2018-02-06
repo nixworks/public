@@ -17,7 +17,7 @@ There was no immediate confirmation of the agreement from the Syrian government.
 
 ### Changes:
 
-1. [The warring parties reach agreement on a ceasefire, now that the fighting has ended, to allow civilians and the remaining rebel fighters trapped in the besieged Syrian city to evacuate. Five buses will start moving to pick up passengers at 5:00 a.m. EET Wednesday (03:00 UTC). ](/news/2016/12/13/the-warring-parties-reach-agreement-on-a-ceasefire-now-that-the-fighting-has-ended-to-allow-civilians-and-the-remaining-rebel-fighters-tr.md) _2017-08-25 03:47:02 (First version)_
+1. [The warring parties reach agreement on a ceasefire, now that the fighting has ended, to allow civilians and the remaining rebel fighters trapped in the besieged Syrian city to evacuate. Five buses will start moving to pick up passengers at 5:00 a.m. EET Wednesday (03:00 UTC). ](/news/2016/12/13/the-warring-parties-reach-agreement-on-a-ceasefire-now-that-the-fighting-has-ended-to-allow-civilians-and-the-remaining-rebel-fighters-tr.md) _2018-02-06 13:49:29 (First version)_
 1. [The warring parties reach agreement on a ceasefire, now that the fighting has ended, to allow civilians and the remaining rebel fighters trapped in the besieged Syrian city to evacuate. Five buses will start moving to pick up passengers at 5:00 a.m. EET Wednesday (03:00 UTC). ](/news/2016/12/13/the-warring-parties-reach-agreement-on-a-ceasefire-now-that-the-fighting-has-ended-to-allow-civilians-and-the-remaining-rebel-fighters-tra.md) _(Current version)_
 
 ### Related:

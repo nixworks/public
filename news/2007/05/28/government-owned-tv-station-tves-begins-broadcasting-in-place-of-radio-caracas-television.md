@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/05/28/government-owned-tv-station-tves-begins-broadca
 
 ### Changes:
 
-1. [ Venezuela: Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/venezuela-p-government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md) _2017-08-25 03:19:53 (First version)_
-2. [ Venezuela:: Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/venezuela-government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md) _2017-08-27 03:19:52 (Update)_
+1. [ Venezuela: Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/venezuela-p-government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md) _2018-02-06 13:49:17 (First version)_
+2. [ Venezuela:: Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/venezuela-government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md) _2018-02-06 13:49:17 (Update)_
 2. [ Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md) _(Current version)_
 
 ### Related:

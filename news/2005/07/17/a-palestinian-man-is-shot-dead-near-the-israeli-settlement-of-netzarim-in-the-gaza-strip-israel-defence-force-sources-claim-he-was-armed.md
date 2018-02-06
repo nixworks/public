@@ -19,8 +19,8 @@ Formats: [HTML](/news/2005/07/17/a-palestinian-man-is-shot-dead-near-the-israeli
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/israeliapalestinian-conflict-p-a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-f.md) _2017-08-25 03:16:32 (First version)_
-2. [ Israeli-Palestinian conflict:: A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/israeli-palestinian-conflict-a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-f.md) _2017-08-27 03:16:34 (Update)_
+1. [ Israeli-Palestinian conflict: A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/israeliapalestinian-conflict-p-a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-f.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict:: A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/israeli-palestinian-conflict-a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-f.md) _2018-02-06 13:49:16 (Update)_
 2. [ A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-force-sources-claim-he-was-armed.md) _(Current version)_
 
 ### Related:

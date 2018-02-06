@@ -17,7 +17,7 @@ Irish author Colum McCann wins the International Impac Dublin Literary Award for
 
 ### Changes:
 
-1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel ''Let the Great World Spin''. ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spi.md) _2017-08-25 03:33:29 (First version)_
+1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel ''Let the Great World Spin''. ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spi.md) _2018-02-06 13:49:22 (First version)_
 1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel "Let the Great World Spin". ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.md) _(Current version)_
 
 ### Related:

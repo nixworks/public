@@ -17,7 +17,7 @@ A multiple bomb attack by Islamic State militants in Libya has killed at least 4
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Multiple car bombs kill at least 45 and wound 30 in the eastern Libyan town of Al Qubbah. ](/news/2015/02/20/libyan-civil-war-2014-present-multiple-car-bombs-kill-at-least-45-and-wound-30-in-the-eastern-libyan-town-of-al-qubbah.md) _2017-08-27 03:41:58 (First version)_
+1. [Libyan Civil War (2014-present): Multiple car bombs kill at least 45 and wound 30 in the eastern Libyan town of Al Qubbah. ](/news/2015/02/20/libyan-civil-war-2014-present-multiple-car-bombs-kill-at-least-45-and-wound-30-in-the-eastern-libyan-town-of-al-qubbah.md) _2018-02-06 13:49:26 (First version)_
 1. [Multiple car bombs kill at least 45 and wound 30 in the eastern Libyan town of Al Qubbah. ](/news/2015/02/20/multiple-car-bombs-kill-at-least-45-and-wound-30-in-the-eastern-libyan-town-of-al-qubbah.md) _(Current version)_
 
 ### Related:

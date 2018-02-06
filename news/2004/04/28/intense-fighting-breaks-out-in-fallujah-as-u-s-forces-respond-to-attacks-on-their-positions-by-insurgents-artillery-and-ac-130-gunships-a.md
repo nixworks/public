@@ -17,7 +17,7 @@ Formats: [HTML](/news/2004/04/28/intense-fighting-breaks-out-in-fallujah-as-u-s-
 
 ### Changes:
 
-1. [ Intense fighting breaks out in Fallujah as U.S. forces respond to attacks on their positions by insurgentss. Artillery and AC-130 gunships are used to bombard guerrilla positions, but the number of casualties is as yet unknown. ](/news/2004/04/28/intense-fighting-breaks-out-in-fallujah-as-u-s-forces-respond-to-attacks-on-their-positions-by-insurgentss-artillery-and-ac-130-gunships.md) _2017-10-17 03:16:45 (First version)_
+1. [ Intense fighting breaks out in Fallujah as U.S. forces respond to attacks on their positions by insurgentss. Artillery and AC-130 gunships are used to bombard guerrilla positions, but the number of casualties is as yet unknown. ](/news/2004/04/28/intense-fighting-breaks-out-in-fallujah-as-u-s-forces-respond-to-attacks-on-their-positions-by-insurgentss-artillery-and-ac-130-gunships.md) _2018-02-06 13:49:15 (First version)_
 1. [ Intense fighting breaks out in Fallujah as U.S. forces respond to attacks on their positions by insurgents. Artillery and AC-130 gunships are used to bombard guerrilla positions, but the number of casualties is as yet unknown. ](/news/2004/04/28/intense-fighting-breaks-out-in-fallujah-as-u-s-forces-respond-to-attacks-on-their-positions-by-insurgents-artillery-and-ac-130-gunships-a.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Tens of thousands of Indian peasants began a 350-kilometre march to New Delhi to
 
 ### Changes:
 
-1. [Tens of thousands of India's poorest farmers march more than 300 kilometers to Delhi in a ''Jan Satyagraha'' to demand land reform under the banner of Ekta Parishad. ](/news/2012/10/3/tens-of-thousands-of-india-s-poorest-farmers-march-more-than-300-kilometers-to-delhi-in-a-jan-satyagraha-to-demand-land-reform-under-the.md) _2017-08-25 03:36:38 (First version)_
+1. [Tens of thousands of India's poorest farmers march more than 300 kilometers to Delhi in a ''Jan Satyagraha'' to demand land reform under the banner of Ekta Parishad. ](/news/2012/10/3/tens-of-thousands-of-india-s-poorest-farmers-march-more-than-300-kilometers-to-delhi-in-a-jan-satyagraha-to-demand-land-reform-under-the.md) _2018-02-06 13:49:24 (First version)_
 1. [Tens of thousands of India's poorest farmers march more than 300 kilometers to Delhi in a "Jan Satyagraha" to demand land reform under the banner of Ekta Parishad. ](/news/2012/10/3/tens-of-thousands-of-india-s-poorest-farmers-march-more-than-300-kilometers-to-delhi-in-a-jan-satyagraha-to-demand-land-reform-under-the-b.md) _(Current version)_
 
 ### Related:

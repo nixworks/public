@@ -16,8 +16,8 @@ Three suicide bombers detonate explosives belts among Shiite pilgrims in Iraq, k
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md) _2017-08-25 03:39:44 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md) _2017-08-27 03:40:02 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md) _2018-02-06 13:49:25 (Update)_
 2. [A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/a-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md) _(Current version)_
 
 ### Related:

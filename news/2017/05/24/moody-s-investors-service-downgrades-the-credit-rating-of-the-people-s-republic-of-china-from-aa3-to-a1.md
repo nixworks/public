@@ -15,8 +15,8 @@ Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 
 ### Changes:
 
-1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA to Aa3. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa-to-aa3.md) _2017-05-24 03:49:45 (First version)_
-2. [Economy of the People's Republic of China: Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/economy-of-the-people-s-republic-of-china-moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3.md) _2017-08-27 03:48:23 (Update)_
+1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA to Aa3. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa-to-aa3.md) _2018-02-06 13:49:30 (First version)_
+2. [Economy of the People's Republic of China: Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/economy-of-the-people-s-republic-of-china-moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3.md) _2018-02-06 13:49:30 (Update)_
 2. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md) _(Current version)_
 
 ### Related:

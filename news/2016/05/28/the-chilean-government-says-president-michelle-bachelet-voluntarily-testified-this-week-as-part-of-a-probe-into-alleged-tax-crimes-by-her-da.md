@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/28/the-chilean-government-says-president-michelle-
 
 ### Changes:
 
-1. [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her.md) _2017-08-25 03:45:46 (First version)_
+1. [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her.md) _2018-02-06 13:49:29 (First version)_
 1. [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her-da.md) _(Current version)_
 
 ### Related:

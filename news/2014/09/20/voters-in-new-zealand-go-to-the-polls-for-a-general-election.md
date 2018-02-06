@@ -17,7 +17,7 @@ Forget dirty politics, high-profile scalps and accusations of lies and spies - J
 
 ### Changes:
 
-1. [New Zealand general election, 2014: Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/new-zealand-general-election-2014-voters-in-new-zealand-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:41:18 (First version)_
+1. [New Zealand general election, 2014: Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/new-zealand-general-election-2014-voters-in-new-zealand-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/voters-in-new-zealand-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

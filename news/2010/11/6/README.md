@@ -9,7 +9,7 @@ Unicef says 650 women and girls locked up, tortured and sexually abused by secur
 
 ##### Karachi
 ### [27 people are killed in various arson incidents in Karachi, capital of Pakistan's Sindh province. ](/news/2010/11/6/27-people-are-killed-in-various-arson-incidents-in-karachi-capital-of-pakistan-s-sindh-province.md)
-_Context: Karachi, Pakistan, Sindh province_
+_Context: Karachi, Sindh province, Pakistan_
 
 ##### Palestinian rocket attacks on Israel
 ### [In response to militants firing rockets into southern Israel, the Israel Air Force launches two raids on the southern Gaza Strip; one Palestinian is wounded. ](/news/2010/11/6/in-response-to-militants-firing-rockets-into-southern-israel-the-israel-air-force-launches-two-raids-on-the-southern-gaza-strip-one-palest.md)
@@ -25,11 +25,11 @@ Somali pirates are reported to have received a total of about $12.3m (£7.6m) in
 
 ##### Armenia
 ### [Armenia and Azerbaijan exchange the bodies of deceased soldiers and a civilian under the auspices of the International Committee of the Red Cross. ](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.md)
-_Context: Armenia, Azerbaijan, International Committee of the Red Cross_
+_Context: International Committee of the Red Cross, Azerbaijan, Armenia_
 
 ##### ancient Roman
 ### [The House of the Gladiators in the ancient Roman city of Pompeii collapses, prompting criticism of the Italian government's "neglect" of the site. ](/news/2010/11/6/the-house-of-the-gladiators-in-the-ancient-roman-city-of-pompeii-collapses-prompting-criticism-of-the-italian-government-s-neglect-of-the.md)
-_Context: Pompeii, ancient Roman, Italy_
+_Context: Italy, Pompeii, ancient Roman_
 
 ##### China
 ### [Chinese artist Ai Weiwei claims that he has been placed under house arrest to stop him organising a demolition party to observe the destruction of his studio. ](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.md)
@@ -37,7 +37,7 @@ Chinese artist Ai Weiwei says he has been placed under house arrest to prevent h
 
 ##### Christ the King
 ### [Christ the King, the world's biggest statue of Jesus, is completed in Swiebodzin, Poland ](/news/2010/11/6/christ-the-king-the-world-s-biggest-statue-of-jesus-is-completed-in-awiebodzin-poland.md)
-_Context: Poland, Swiebodzin, Christ the King, biggest statue of Jesus_
+_Context: Poland, Christ the King, Swiebodzin, biggest statue of Jesus_
 
 ##### Haiti cholera outbreak
 ### [The death toll from the Haiti cholera outbreak rises to 500. ](/news/2010/11/6/the-death-toll-from-the-haiti-cholera-outbreak-rises-to-500.md)
@@ -49,7 +49,7 @@ A fire in a shopping centre in northern China kills at least 19 people and leave
 
 ##### Mount Merapi volcanic eruption
 ### [Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises-to-120.md)
-_Context: Mounts Merapi, Mount Merapi volcanic eruption, Indonesia, Java_
+_Context: Java, Mount Merapi volcanic eruption, Mounts Merapi, Indonesia_
 
 ##### Tropical Storm Tomas
 ### [Tropical Storm Tomas heads for the Turks and Caicos Islands after killing seven people in Haiti. ](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.md)
@@ -61,7 +61,7 @@ Obama and his wife walked down the ladder to a red carpet welcome and were recei
 
 ##### Finance Minister
 ### [Finance Ministers from the Asia-Pacific Economic Cooperation meet in Tokyo, Japan. ](/news/2010/11/6/finance-ministers-from-the-asia-pacific-economic-cooperation-meet-in-tokyo-japan.md)
-_Context: Japan, Tokyo, Finance Minister, Asia-Pacific Economic Cooperation_
+_Context: Finance Minister, Japan, Asia-Pacific Economic Cooperation, Tokyo_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI begins a visit to Spain at Santiago de Compostela. ](/news/2010/11/6/pope-benedict-xvi-begins-a-visit-to-spain-at-santiago-de-compostela.md)
@@ -81,7 +81,7 @@ Police say a bomb attack on officers in West Belfast could have ended in &quot;m
 
 ##### Yemen
 ### [A judge in Yemen orders the capture of militant Islamic cleric Anwar al-Awlaki to face charges of "forming an armed gang". ](/news/2010/11/6/a-judge-in-yemen-orders-the-capture-of-militant-islamic-cleric-anwar-al-awlaki-to-face-charges-of-forming-an-armed-gang.md)
-_Context: Islam, Yemen, Anwar al-Awlaki_
+_Context: Yemen, Islam, Anwar al-Awlaki_
 
 ##### carjack
 ### [Armed attackers attempt to carjack Formula One World Champion Jensen Button in SGBPo Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. ](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-world-champion-jensen-button-in-sagbpo-paulo-as-he-was-returning-from-practice-for-the-brazil.md)
@@ -109,7 +109,7 @@ _Context: general elections, Burma_
 
 ##### Ivory Coast
 ### [The Ivory Coast presidential election will go to a second round with President Laurent Gbagbo facing opposition leader Alassane Ouattara. ](/news/2010/11/6/the-ivory-coast-presidential-election-will-go-to-a-second-round-with-president-laurent-gbagbo-facing-opposition-leader-alassane-ouattara.md)
-_Context: Laurent Gbagbo, Ivory Coast, 2010 presidential election, President, Alassane Ouattara_
+_Context: Laurent Gbagbo, President, 2010 presidential election, Alassane Ouattara, Ivory Coast_
 
 ## [Previous Day...](/news/2010/11/5/index.md)
 

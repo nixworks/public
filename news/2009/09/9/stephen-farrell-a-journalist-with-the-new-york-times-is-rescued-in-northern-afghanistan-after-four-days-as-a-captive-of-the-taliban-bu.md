@@ -16,7 +16,7 @@ A journalist with dual Irish and British citizenship who was held captive for fo
 
 ### Changes:
 
-1. [ Stephen Farrell, a journalist with ''The New York Times'', is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban.md) _2017-08-25 03:25:41 (First version)_
+1. [ Stephen Farrell, a journalist with ''The New York Times'', is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban.md) _2018-02-06 13:49:19 (First version)_
 1. [ Stephen Farrell, a journalist with "The New York Times", is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban-bu.md) _(Current version)_
 
 ### Related:

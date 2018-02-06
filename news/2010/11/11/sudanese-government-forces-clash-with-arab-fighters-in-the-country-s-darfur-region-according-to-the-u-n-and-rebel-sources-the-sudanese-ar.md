@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/11/sudanese-government-forces-clash-with-arab-figh
 
 ### Changes:
 
-1. [Sudanese government forces clash with Arab fighters in the country's Darfur region, according to the U.N. and rebel sources; the Sudanese army denies any fighting took place ](/news/2010/11/11/sudanese-government-forces-clash-with-arab-fighters-in-the-country-s-darfur-region-according-to-the-u-n-and-rebel-sources-the-sudanese-a.md) _2017-08-25 03:30:59 (First version)_
+1. [Sudanese government forces clash with Arab fighters in the country's Darfur region, according to the U.N. and rebel sources; the Sudanese army denies any fighting took place ](/news/2010/11/11/sudanese-government-forces-clash-with-arab-fighters-in-the-country-s-darfur-region-according-to-the-u-n-and-rebel-sources-the-sudanese-a.md) _2018-02-06 13:49:21 (First version)_
 1. [Sudanese government forces clash with Arab fighters in the country's Darfur region, according to the U.N. and rebel sources; the Sudanese army denies any fighting took place ](/news/2010/11/11/sudanese-government-forces-clash-with-arab-fighters-in-the-country-s-darfur-region-according-to-the-u-n-and-rebel-sources-the-sudanese-ar.md) _(Current version)_
 
 ### Related:

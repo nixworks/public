@@ -16,8 +16,8 @@ UN Security Council members call for restraint and dialogue between protesters a
 
 ### Changes:
 
-1. [2011 Yemeni protests:The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/2011-yemeni-protests-pthe-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss-t.md) _2017-08-25 03:32:51 (First version)_
-2. [2011 Yemeni protests:: The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/2011-yemeni-protests-the-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Yemeni protests:: The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/2011-yemeni-protests-the-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/2011-yemeni-protests-pthe-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss-t.md) _2018-02-06 13:49:22 (Update)_
 2. [The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/the-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss-the-crisis-in-yemen-as.md) _(Current version)_
 
 ### Related:

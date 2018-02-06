@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/09/26/the-57-member-united-nations-human-rights-counc
 
 ### Changes:
 
-1. [UNHRC report into the Gaza flotilla raid:The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-pthe-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-in.md) _2017-08-25 03:30:14 (First version)_
-2. [UNHRC report into the Gaza flotilla raid:: The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-i.md) _2017-08-27 03:30:17 (Update)_
+1. [UNHRC report into the Gaza flotilla raid:: The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-i.md) _2018-02-06 13:49:20 (First version)_
+2. [UNHRC report into the Gaza flotilla raid:The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-pthe-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-in.md) _2018-02-06 13:49:20 (Update)_
 2. [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md) _(Current version)_
 
 ### Related:

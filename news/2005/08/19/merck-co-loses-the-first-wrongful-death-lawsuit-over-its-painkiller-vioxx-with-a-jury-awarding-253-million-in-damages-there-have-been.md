@@ -17,7 +17,7 @@ Merck &amp; Co. suffered a serious blow Friday when it lost the first wrongful d
 
 ### Changes:
 
-1. [ Merck & Co. loses the first wrongful death lawsuit over its painkiller Vioxx, with a jury awarding $253 Million in damages. There have been over 4000 cases filed against Merck over this drug. ](/news/2005/08/19/merck-co-loses-the-first-wrongful-death-lawsuit-over-its-painkiller-vioxx-with-a-jury-awarding-253-million-in-damages-there-have-bee.md) _2017-08-25 03:16:42 (First version)_
+1. [ Merck & Co. loses the first wrongful death lawsuit over its painkiller Vioxx, with a jury awarding $253 Million in damages. There have been over 4000 cases filed against Merck over this drug. ](/news/2005/08/19/merck-co-loses-the-first-wrongful-death-lawsuit-over-its-painkiller-vioxx-with-a-jury-awarding-253-million-in-damages-there-have-bee.md) _2018-02-06 13:49:16 (First version)_
 1. [ Merck & Co. loses the first wrongful death lawsuit over its painkiller Vioxx, with a jury awarding $253 Million in damages. There have been over 4000 cases filed against Merck over this drug. ](/news/2005/08/19/merck-co-loses-the-first-wrongful-death-lawsuit-over-its-painkiller-vioxx-with-a-jury-awarding-253-million-in-damages-there-have-been.md) _(Current version)_
 
 ### Related:

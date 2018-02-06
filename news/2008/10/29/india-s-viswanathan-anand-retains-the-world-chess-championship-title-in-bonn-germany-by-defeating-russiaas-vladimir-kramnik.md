@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/29/india-s-viswanathan-anand-retains-the-world-che
 
 ### Changes:
 
-1. [ India's Viswanathan Anand retains the World Chess Championship title in Bonn, Germany, by defeating Russia-s Vladimir Kramnik. ](/news/2008/10/29/india-s-viswanathan-anand-retains-the-world-chess-championship-title-in-bonn-germany-by-defeating-russia-s-vladimir-kramnik.md) _2017-08-27 03:23:00 (First version)_
+1. [ India's Viswanathan Anand retains the World Chess Championship title in Bonn, Germany, by defeating Russia-s Vladimir Kramnik. ](/news/2008/10/29/india-s-viswanathan-anand-retains-the-world-chess-championship-title-in-bonn-germany-by-defeating-russia-s-vladimir-kramnik.md) _2018-02-06 13:49:18 (First version)_
 1. [ India's Viswanathan Anand retains the World Chess Championship title in Bonn, Germany, by defeating Russia's Vladimir Kramnik. ](/news/2008/10/29/india-s-viswanathan-anand-retains-the-world-chess-championship-title-in-bonn-germany-by-defeating-russiaas-vladimir-kramnik.md) _(Current version)_
 
 ### Related:

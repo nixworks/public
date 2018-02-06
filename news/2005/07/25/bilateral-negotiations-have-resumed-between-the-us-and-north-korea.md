@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the
 
 ### Changes:
 
-1. [ Bilateral negotiations have resumed between the US and North Korea. [http:--news.bbc.co.uk-2-hi-asia-pacific-4716307.stm (BBC)].](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea-http-news-bbc-co-uk-2-hi-asia-pacific-4716307-stm-bbc.md) _2017-06-18 03:16:42 (First version)_
+1. [ Bilateral negotiations have resumed between the US and North Korea. [http:--news.bbc.co.uk-2-hi-asia-pacific-4716307.stm (BBC)].](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea-http-news-bbc-co-uk-2-hi-asia-pacific-4716307-stm-bbc.md) _2018-02-06 13:49:16 (First version)_
 1. [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md) _(Current version)_
 
 ### Related:

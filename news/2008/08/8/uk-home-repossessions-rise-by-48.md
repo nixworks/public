@@ -18,6 +18,6 @@ Formats: [HTML](/news/2008/08/8/uk-home-repossessions-rise-by-48.html)  [JSON](/
 
 ### Changes:
 
-1. [ Economic crisis of 2008: UK home repossessions rise by 48%. ](/news/2008/08/8/economic-crisis-of-2008-p-uk-home-repossessions-rise-by-48.md) _2017-08-25 03:22:40 (First version)_
-2. [ Economic crisis of 2008:: UK home repossessions rise by 48%. ](/news/2008/08/8/economic-crisis-of-2008-uk-home-repossessions-rise-by-48.md) _2017-08-27 03:22:34 (Update)_
+1. [ Economic crisis of 2008:: UK home repossessions rise by 48%. ](/news/2008/08/8/economic-crisis-of-2008-uk-home-repossessions-rise-by-48.md) _2018-02-06 13:49:18 (First version)_
+2. [ Economic crisis of 2008: UK home repossessions rise by 48%. ](/news/2008/08/8/economic-crisis-of-2008-p-uk-home-repossessions-rise-by-48.md) _2018-02-06 13:49:18 (Update)_
 2. [ UK home repossessions rise by 48%. ](/news/2008/08/8/uk-home-repossessions-rise-by-48.md) _(Current version)_

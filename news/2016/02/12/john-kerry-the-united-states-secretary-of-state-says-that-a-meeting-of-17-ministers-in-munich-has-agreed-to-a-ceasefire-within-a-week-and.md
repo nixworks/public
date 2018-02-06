@@ -16,7 +16,7 @@ Ministers holding crisis talks over Syria agree to cease hostilities within a we
 
 ### Changes:
 
-1. [Syrian Civil War: John Kerry, the United States Secretary of State, says that a meeting of 17 ministers in Munich has agreed to a ceasefire within a week and delivery of humanitarian assistance beginning immediately. ](/news/2016/02/12/syrian-civil-war-john-kerry-the-united-states-secretary-of-state-says-that-a-meeting-of-17-ministers-in-munich-has-agreed-to-a-ceasefire.md) _2017-08-27 03:44:53 (First version)_
+1. [Syrian Civil War: John Kerry, the United States Secretary of State, says that a meeting of 17 ministers in Munich has agreed to a ceasefire within a week and delivery of humanitarian assistance beginning immediately. ](/news/2016/02/12/syrian-civil-war-john-kerry-the-united-states-secretary-of-state-says-that-a-meeting-of-17-ministers-in-munich-has-agreed-to-a-ceasefire.md) _2018-02-06 13:49:28 (First version)_
 1. [John Kerry, the United States Secretary of State, says that a meeting of 17 ministers in Munich has agreed to a ceasefire within a week and delivery of humanitarian assistance beginning immediately. ](/news/2016/02/12/john-kerry-the-united-states-secretary-of-state-says-that-a-meeting-of-17-ministers-in-munich-has-agreed-to-a-ceasefire-within-a-week-and.md) _(Current version)_
 
 ### Related:

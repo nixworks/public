@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission
 
 ### Changes:
 
-1. [Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along-with-two-of-the-attacker.md) _2017-08-25 03:43:40 (First version)_
-2. [2015 Bamako hotel attack: Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/2015-bamako-hotel-attack-olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along.md) _2017-08-27 03:43:59 (Update)_
+1. [Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along-with-two-of-the-attacker.md) _2018-02-06 13:49:28 (First version)_
+2. [2015 Bamako hotel attack: Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/2015-bamako-hotel-attack-olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along.md) _2018-02-06 13:49:28 (Update)_
 2. [Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along-with-two-of-the-attackers.md) _(Current version)_
 
 ### Related:

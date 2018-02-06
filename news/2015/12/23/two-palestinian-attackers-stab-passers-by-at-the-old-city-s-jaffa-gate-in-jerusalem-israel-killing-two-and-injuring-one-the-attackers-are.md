@@ -17,7 +17,7 @@ Both assailants shot and killed by 2 female Border Police officers; Police heigh
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/israeli-palestinian-conflict-2015-two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-tw.md) _2017-08-27 03:44:29 (First version)_
+1. [Israeli-Palestinian conflict (2015): Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/israeli-palestinian-conflict-2015-two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-tw.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md) _(Current version)_
 
 ### Related:

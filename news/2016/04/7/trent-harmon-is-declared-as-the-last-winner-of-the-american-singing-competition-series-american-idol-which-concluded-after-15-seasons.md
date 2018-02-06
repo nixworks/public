@@ -16,7 +16,7 @@ La&#39;Porsha Renae and Trent Harmon competed for the season 15 title
 
 ### Changes:
 
-1. ["American Idol" (season 15): Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. ](/news/2016/04/7/american-idol-season-15-trent-harmon-is-declared-as-the-last-winner-of-the-american-singing-competition-series-american-idol-which.md) _2017-08-27 03:45:31 (First version)_
+1. ["American Idol" (season 15): Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. ](/news/2016/04/7/american-idol-season-15-trent-harmon-is-declared-as-the-last-winner-of-the-american-singing-competition-series-american-idol-which.md) _2018-02-06 13:49:29 (First version)_
 1. [Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. ](/news/2016/04/7/trent-harmon-is-declared-as-the-last-winner-of-the-american-singing-competition-series-american-idol-which-concluded-after-15-seasons.md) _(Current version)_
 
 ### Related:

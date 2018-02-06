@@ -16,8 +16,8 @@ Pakistani Taliban attacked a prison in the country&rsquo;s northwestern town of 
 
 ### Changes:
 
-1. [War in North-West Pakistan:The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-pthe-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-fr.md) _2017-08-25 03:39:04 (First version)_
-2. [War in North-West Pakistan:: The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-f.md) _2017-08-27 03:39:19 (Update)_
+1. [War in North-West Pakistan:: The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-f.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-pthe-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-fr.md) _2018-02-06 13:49:25 (Update)_
 2. [The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-freed.md) _(Current version)_
 
 ### Related:

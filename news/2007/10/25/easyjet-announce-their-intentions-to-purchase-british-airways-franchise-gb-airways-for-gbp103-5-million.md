@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-b
 
 ### Changes:
 
-1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for 103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-ps103-5-million.md) _2017-08-25 03:21:16 (First version)_
+1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for 103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-ps103-5-million.md) _2018-02-06 13:49:18 (First version)_
 1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for GBP103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.md) _(Current version)_
 
 ### Related:

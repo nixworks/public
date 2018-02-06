@@ -15,8 +15,8 @@ Formats: [HTML](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkis
 
 ### Changes:
 
-1. [President of Turkey Erdogan announces that Turkish Army ground troops entered the territory of Afrin in Syria. Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/president-of-turkey-erdoaan-announces-that-turkish-army-ground-troops-entered-the-territory-of-afrin-in-syria-prime-minister-ya-lda-ra-m-s.md) _2018-01-21 19:30:07 (First version)_
-2. [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-ya.md) _2018-01-22 16:30:07 (Update)_
+1. [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-ya.md) _2018-02-06 13:49:31 (First version)_
+2. [President of Turkey Erdogan announces that Turkish Army ground troops entered the territory of Afrin in Syria. Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/president-of-turkey-erdoaan-announces-that-turkish-army-ground-troops-entered-the-territory-of-afrin-in-syria-prime-minister-ya-lda-ra-m-s.md) _2018-02-06 13:49:31 (Update)_
 2. [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md) _(Current version)_
 
 ### Related:

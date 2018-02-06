@@ -16,7 +16,7 @@ The US and Russia announce that a planned partial cessation of hostilities in Sy
 
 ### Changes:
 
-1. [Syrian Civil War: The United States and Russia broker a truce which is due to come into effect on midnight 27 February. ](/news/2016/02/22/syrian-civil-war-the-united-states-and-russia-broker-a-truce-which-is-due-to-come-into-effect-on-midnight-27-february.md) _2017-08-27 03:44:59 (First version)_
+1. [Syrian Civil War: The United States and Russia broker a truce which is due to come into effect on midnight 27 February. ](/news/2016/02/22/syrian-civil-war-the-united-states-and-russia-broker-a-truce-which-is-due-to-come-into-effect-on-midnight-27-february.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States and Russia broker a truce which is due to come into effect on midnight 27 February. ](/news/2016/02/22/the-united-states-and-russia-broker-a-truce-which-is-due-to-come-into-effect-on-midnight-27-february.md) _(Current version)_
 
 ### Related:

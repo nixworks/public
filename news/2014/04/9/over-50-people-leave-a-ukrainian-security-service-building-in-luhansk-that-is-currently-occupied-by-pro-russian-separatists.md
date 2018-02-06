@@ -17,8 +17,8 @@ Pro-Russian separatists reinforced barricades around the state security building
 
 ### Changes:
 
-1. [2014 pro-Russian protests in Ukraine:Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-pover-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pr.md) _2017-08-25 03:40:16 (First version)_
-2. [2014 pro-Russian protests in Ukraine:: Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-p.md) _2017-08-27 03:40:34 (Update)_
+1. [2014 pro-Russian protests in Ukraine:Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-pover-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pr.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian protests in Ukraine:: Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-p.md) _2018-02-06 13:49:26 (Update)_
 2. [Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pro-russian-separatists.md) _(Current version)_
 
 ### Related:

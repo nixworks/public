@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/10/12/a-gun-attack-on-the-office-of-a-satellite-tv-st
 
 ### Changes:
 
-1. [ Iraq insurgency: A gun attack on the office of a satellite TV station in Baghdad kills 11 people. ](/news/2006/10/12/iraq-insurgency-p-a-gun-attack-on-the-office-of-a-satellite-tv-station-in-baghdad-kills-11-people.md) _2017-08-25 03:18:33 (First version)_
-2. [ Iraq insurgency:: A gun attack on the office of a satellite TV station in Baghdad kills 11 people. ](/news/2006/10/12/iraq-insurgency-a-gun-attack-on-the-office-of-a-satellite-tv-station-in-baghdad-kills-11-people.md) _2017-08-27 03:18:28 (Update)_
+1. [ Iraq insurgency: A gun attack on the office of a satellite TV station in Baghdad kills 11 people. ](/news/2006/10/12/iraq-insurgency-p-a-gun-attack-on-the-office-of-a-satellite-tv-station-in-baghdad-kills-11-people.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq insurgency:: A gun attack on the office of a satellite TV station in Baghdad kills 11 people. ](/news/2006/10/12/iraq-insurgency-a-gun-attack-on-the-office-of-a-satellite-tv-station-in-baghdad-kills-11-people.md) _2018-02-06 13:49:17 (Update)_
 2. [ A gun attack on the office of a satellite TV station in Baghdad kills 11 people. ](/news/2006/10/12/a-gun-attack-on-the-office-of-a-satellite-tv-station-in-baghdad-kills-11-people.md) _(Current version)_
 
 ### Related:

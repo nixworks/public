@@ -23,8 +23,8 @@ CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday
 
 ### Changes:
 
-1. [2011 Egyptian protests:Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-pnationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _2017-08-25 03:32:07 (First version)_
-2. [2011 Egyptian protests:: Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _2017-08-27 03:32:15 (Update)_
+1. [2011 Egyptian protests:Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-pnationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian protests:: Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _2018-02-06 13:49:22 (Update)_
 2. [Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md) _(Current version)_
 
 ### Related:

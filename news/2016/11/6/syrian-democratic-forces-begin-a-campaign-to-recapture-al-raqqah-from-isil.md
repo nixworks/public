@@ -16,7 +16,7 @@ BEIRUT (AP) — Kurdish-led Syrian forces began an offensive Sunday to liberate 
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian Democratic Forces begin a campaign to recapture Al-Raqqah from ISIL. ](/news/2016/11/6/syrian-civil-war-syrian-democratic-forces-begin-a-campaign-to-recapture-al-raqqah-from-isil.md) _2017-08-27 03:47:11 (First version)_
+1. [Syrian Civil War: Syrian Democratic Forces begin a campaign to recapture Al-Raqqah from ISIL. ](/news/2016/11/6/syrian-civil-war-syrian-democratic-forces-begin-a-campaign-to-recapture-al-raqqah-from-isil.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian Democratic Forces begin a campaign to recapture Al-Raqqah from ISIL. ](/news/2016/11/6/syrian-democratic-forces-begin-a-campaign-to-recapture-al-raqqah-from-isil.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Ukraine leader slams Russia over arms given to rebels
 
 ### Changes:
 
-1. [Russian military intervention in Ukraine: Ukrainian President Petro Poroshenko demands Russia halt arms supplies to Russian-backed militants as the leaders of France and Germany tried to revive a peace plan. ](/news/2017/07/24/russian-military-intervention-in-ukraine-ukrainian-president-petro-poroshenko-demands-russia-halt-arms-supplies-to-russian-backed-militants.md) _2017-08-27 03:48:43 (First version)_
+1. [Russian military intervention in Ukraine: Ukrainian President Petro Poroshenko demands Russia halt arms supplies to Russian-backed militants as the leaders of France and Germany tried to revive a peace plan. ](/news/2017/07/24/russian-military-intervention-in-ukraine-ukrainian-president-petro-poroshenko-demands-russia-halt-arms-supplies-to-russian-backed-militants.md) _2018-02-06 13:49:30 (First version)_
 1. [Ukrainian President Petro Poroshenko demands Russia halt arms supplies to Russian-backed militants as the leaders of France and Germany tried to revive a peace plan. ](/news/2017/07/24/ukrainian-president-petro-poroshenko-demands-russia-halt-arms-supplies-to-russian-backed-militants-as-the-leaders-of-france-and-germany-trie.md) _(Current version)_
 
 ### Related:

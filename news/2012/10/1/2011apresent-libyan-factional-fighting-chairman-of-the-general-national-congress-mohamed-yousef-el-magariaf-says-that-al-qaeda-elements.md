@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/1/2011apresent-libyan-factional-fighting-chairman-
 
 ### Changes:
 
-1. [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011-present-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md) _2017-08-27 03:36:48 (First version)_
+1. [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011-present-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md) _2018-02-06 13:49:24 (First version)_
 1. [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011apresent-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/01/26/an-israeli-soldier-is-killed-and-three-others-i
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/2008a2009-israelagaza-conflict-p-an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md) _2017-08-25 03:23:34 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/2008-2009-israel-gaza-conflict-an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md) _2017-08-27 03:23:26 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/2008a2009-israelagaza-conflict-p-an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/2008-2009-israel-gaza-conflict-an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md) _2018-02-06 13:49:18 (Update)_
 2. [ An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md) _(Current version)_
 
 ### Related:

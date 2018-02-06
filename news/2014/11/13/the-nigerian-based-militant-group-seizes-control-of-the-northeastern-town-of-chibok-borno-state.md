@@ -16,8 +16,8 @@ Boko Haram militants seize Chibok, the north-eastern Nigerian town from which th
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/islamist-insurgency-in-nigeria-pthe-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md) _2017-08-25 03:41:12 (First version)_
-2. [Islamist insurgency in Nigeria:: The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/islamist-insurgency-in-nigeria-the-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md) _2017-08-27 03:41:30 (Update)_
+1. [Islamist insurgency in Nigeria:: The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/islamist-insurgency-in-nigeria-the-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/islamist-insurgency-in-nigeria-pthe-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md) _2018-02-06 13:49:26 (Update)_
 2. [The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/the-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md) _(Current version)_
 
 ### Related:

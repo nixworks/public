@@ -16,7 +16,7 @@ Eight Ukrainian service personnel have been killed and 34 wounded in fighting ag
 
 ### Changes:
 
-1. [War in Donbass: Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/war-in-donbass-ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-u.md) _2017-08-27 03:41:55 (First version)_
+1. [War in Donbass: Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/war-in-donbass-ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-u.md) _2018-02-06 13:49:26 (First version)_
 1. [Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-ukraine-service-p.md) _(Current version)_
 
 ### Related:

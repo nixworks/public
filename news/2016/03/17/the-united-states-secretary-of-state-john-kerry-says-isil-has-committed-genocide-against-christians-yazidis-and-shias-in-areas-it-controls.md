@@ -17,7 +17,7 @@ US Secretary of State John Kerry says the Islamic State group has committed geno
 
 ### Changes:
 
-1. [Iraqi Civil War: Syrian Civil War: The United States Secretary of State John Kerry says ISIL has committed genocide against Christians, Yazidis and Shias in areas it controls in Syria and Iraq. ](/news/2016/03/17/iraqi-civil-war-syrian-civil-war-the-united-states-secretary-of-state-john-kerry-says-isil-has-committed-genocide-against-christians-yazi.md) _2017-08-27 03:45:16 (First version)_
+1. [Iraqi Civil War: Syrian Civil War: The United States Secretary of State John Kerry says ISIL has committed genocide against Christians, Yazidis and Shias in areas it controls in Syria and Iraq. ](/news/2016/03/17/iraqi-civil-war-syrian-civil-war-the-united-states-secretary-of-state-john-kerry-says-isil-has-committed-genocide-against-christians-yazi.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Secretary of State John Kerry says ISIL has committed genocide against Christians, Yazidis and Shias in areas it controls in Syria and Iraq. ](/news/2016/03/17/the-united-states-secretary-of-state-john-kerry-says-isil-has-committed-genocide-against-christians-yazidis-and-shias-in-areas-it-controls.md) _(Current version)_
 
 ### Related:

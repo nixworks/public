@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/03/4/independent-television-reports-a-loss-of-gbp2-7-
 
 ### Changes:
 
-1. [ Independent Television reports a loss of 2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-ps2-7-billion-for-2008-and-will-cut-600-jobs.md) _2017-08-25 03:24:00 (First version)_
+1. [ Independent Television reports a loss of 2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-ps2-7-billion-for-2008-and-will-cut-600-jobs.md) _2018-02-06 13:49:18 (First version)_
 1. [ Independent Television reports a loss of GBP2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-gbp2-7-billion-for-2008-and-will-cut-600-jobs.md) _(Current version)_
 
 ### Related:

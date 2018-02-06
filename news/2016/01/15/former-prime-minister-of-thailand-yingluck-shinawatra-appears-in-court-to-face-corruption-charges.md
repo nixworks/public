@@ -16,7 +16,7 @@ THAILAND-POLITICS/RICE (PIX, TV):Ousted Thai PM Yingluck in court for corruption
 
 ### Changes:
 
-1. [2013-14 Thai political crisis: Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/2013-14-thai-political-crisis-former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _2017-08-27 03:44:40 (First version)_
+1. [2013-14 Thai political crisis: Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/2013-14-thai-political-crisis-former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _2018-02-06 13:49:28 (First version)_
 1. [Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _(Current version)_
 
 ### Related:

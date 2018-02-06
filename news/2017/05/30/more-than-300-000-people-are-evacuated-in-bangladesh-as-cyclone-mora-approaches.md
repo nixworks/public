@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangl
 
 ### Changes:
 
-1. [2017 North Indian Ocean cyclone season: More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/2017-north-indian-ocean-cyclone-season-more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _2017-08-27 03:48:24 (First version)_
+1. [2017 North Indian Ocean cyclone season: More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/2017-north-indian-ocean-cyclone-season-more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _2018-02-06 13:49:30 (First version)_
 1. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _(Current version)_
 
 ### Related:

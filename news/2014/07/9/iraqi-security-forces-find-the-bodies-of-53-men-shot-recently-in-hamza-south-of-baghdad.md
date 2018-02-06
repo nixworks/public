@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-insurgency-post-u-s-withdrawal-iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md) _2017-08-27 03:40:57 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-insurgency-post-u-s-withdrawal-iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md) _(Current version)_
 
 ### Related:

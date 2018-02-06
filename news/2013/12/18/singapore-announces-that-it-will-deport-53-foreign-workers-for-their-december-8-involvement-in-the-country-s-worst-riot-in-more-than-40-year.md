@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/18/singapore-announces-that-it-will-deport-53-fore
 
 ### Changes:
 
-1. [2013 Little India riot:Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/2013-little-india-riot-psingapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst-r.md) _2017-08-25 03:39:43 (First version)_
-2. [2013 Little India riot:: Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/2013-little-india-riot-singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst.md) _2017-08-27 03:40:01 (Update)_
+1. [2013 Little India riot:: Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/2013-little-india-riot-singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Little India riot:Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/2013-little-india-riot-psingapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst-r.md) _2018-02-06 13:49:25 (Update)_
 2. [Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst-riot-in-more-than-40-year.md) _(Current version)_
 
 ### Related:

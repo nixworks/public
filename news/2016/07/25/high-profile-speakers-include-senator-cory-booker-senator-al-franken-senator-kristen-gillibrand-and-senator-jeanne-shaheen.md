@@ -20,7 +20,7 @@ Democrats are kicking off their convention with a prime-time lineup of some of t
 
 ### Changes:
 
-1. [2016 Democratic National Convention: High profile speakers include Senator Cory Booker, Senator Al Franken, Senator Kristen Gillibrand and Senator Jeanne Shaheen. ](/news/2016/07/25/2016-democratic-national-convention-high-profile-speakers-include-senator-cory-booker-senator-al-franken-senator-kristen-gillibrand-and-s.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Democratic National Convention: High profile speakers include Senator Cory Booker, Senator Al Franken, Senator Kristen Gillibrand and Senator Jeanne Shaheen. ](/news/2016/07/25/2016-democratic-national-convention-high-profile-speakers-include-senator-cory-booker-senator-al-franken-senator-kristen-gillibrand-and-s.md) _2018-02-06 13:49:29 (First version)_
 1. [High profile speakers include Senator Cory Booker, Senator Al Franken, Senator Kristen Gillibrand and Senator Jeanne Shaheen. ](/news/2016/07/25/high-profile-speakers-include-senator-cory-booker-senator-al-franken-senator-kristen-gillibrand-and-senator-jeanne-shaheen.md) _(Current version)_
 
 ### Related:

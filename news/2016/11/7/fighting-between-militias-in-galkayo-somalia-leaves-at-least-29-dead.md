@@ -15,7 +15,7 @@ Fragile ceasefire brokered by Dubai breaks down between rivals of Galmudug and P
 
 ### Changes:
 
-1. [ Somali Civil War: Fighting between militias in Galkayo, Somalia, leaves at least 29 dead. ](/news/2016/11/7/somali-civil-war-fighting-between-militias-in-galkayo-somalia-leaves-at-least-29-dead.md) _2017-08-27 03:47:12 (First version)_
+1. [ Somali Civil War: Fighting between militias in Galkayo, Somalia, leaves at least 29 dead. ](/news/2016/11/7/somali-civil-war-fighting-between-militias-in-galkayo-somalia-leaves-at-least-29-dead.md) _2018-02-06 13:49:29 (First version)_
 1. [ Fighting between militias in Galkayo, Somalia, leaves at least 29 dead. ](/news/2016/11/7/fighting-between-militias-in-galkayo-somalia-leaves-at-least-29-dead.md) _(Current version)_
 
 ### Related:

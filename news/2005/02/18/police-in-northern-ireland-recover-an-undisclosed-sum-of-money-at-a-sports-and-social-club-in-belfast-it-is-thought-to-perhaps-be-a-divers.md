@@ -21,8 +21,8 @@ The Sinn Féin leader, Gerry Adams, has categorically denied that Sinn Féin was
 
 ### Changes:
 
-1. [ Northern Bank robbery investigation: Police in Northern Ireland recover an undisclosed sum of money at a sports and social club in Belfast. It is thought to perhaps be a diversion, but it is being investigated. ](/news/2005/02/18/northern-bank-robbery-investigation-p-police-in-northern-ireland-recover-an-undisclosed-sum-of-money-at-a-sports-and-social-club-in-belfast.md) _2017-08-25 03:15:40 (First version)_
-2. [ Northern Bank robbery investigation:: Police in Northern Ireland recover an undisclosed sum of money at a sports and social club in Belfast. It is thought to perhaps be a diversion, but it is being investigated. ](/news/2005/02/18/northern-bank-robbery-investigation-police-in-northern-ireland-recover-an-undisclosed-sum-of-money-at-a-sports-and-social-club-in-belfast.md) _2017-08-27 03:15:42 (Update)_
+1. [ Northern Bank robbery investigation:: Police in Northern Ireland recover an undisclosed sum of money at a sports and social club in Belfast. It is thought to perhaps be a diversion, but it is being investigated. ](/news/2005/02/18/northern-bank-robbery-investigation-police-in-northern-ireland-recover-an-undisclosed-sum-of-money-at-a-sports-and-social-club-in-belfast.md) _2018-02-06 13:49:16 (First version)_
+2. [ Northern Bank robbery investigation: Police in Northern Ireland recover an undisclosed sum of money at a sports and social club in Belfast. It is thought to perhaps be a diversion, but it is being investigated. ](/news/2005/02/18/northern-bank-robbery-investigation-p-police-in-northern-ireland-recover-an-undisclosed-sum-of-money-at-a-sports-and-social-club-in-belfast.md) _2018-02-06 13:49:16 (Update)_
 2. [ Police in Northern Ireland recover an undisclosed sum of money at a sports and social club in Belfast. It is thought to perhaps be a diversion, but it is being investigated. ](/news/2005/02/18/police-in-northern-ireland-recover-an-undisclosed-sum-of-money-at-a-sports-and-social-club-in-belfast-it-is-thought-to-perhaps-be-a-divers.md) _(Current version)_
 
 ### Related:

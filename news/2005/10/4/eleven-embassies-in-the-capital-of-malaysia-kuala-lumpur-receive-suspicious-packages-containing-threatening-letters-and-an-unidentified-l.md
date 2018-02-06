@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kual
 
 ### Changes:
 
-1. [ Eleven embassies in the capital of Malaysia, Kuala Lumpur, receive suspicious packages containing threatening letters and an unidentified liquid, triggering security alerts. ](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kuala-lumpur-receive-suspicious-packages-containing-threatening-letters-and-an-unidentified.md) _2017-08-25 03:16:53 (First version)_
+1. [ Eleven embassies in the capital of Malaysia, Kuala Lumpur, receive suspicious packages containing threatening letters and an unidentified liquid, triggering security alerts. ](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kuala-lumpur-receive-suspicious-packages-containing-threatening-letters-and-an-unidentified.md) _2018-02-06 13:49:16 (First version)_
 1. [ Eleven embassies in the capital of Malaysia, Kuala Lumpur, receive suspicious packages containing threatening letters and an unidentified liquid, triggering security alerts. ](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kuala-lumpur-receive-suspicious-packages-containing-threatening-letters-and-an-unidentified-l.md) _(Current version)_
 
 ### Related:

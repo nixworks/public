@@ -17,8 +17,8 @@ FRANKFURT, Germany (AP) — The European Central Bank has restored a key waiver 
 
 ### Changes:
 
-1. [The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-regular-loans-for-t.md) _2017-08-25 03:45:56 (First version)_
-2. [Greek debt crisis: The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/greek-debt-crisis-the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-reg.md) _2017-08-27 03:46:18 (Update)_
+1. [The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-regular-loans-for-t.md) _2018-02-06 13:49:29 (First version)_
+2. [Greek debt crisis: The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/greek-debt-crisis-the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-reg.md) _2018-02-06 13:49:29 (Update)_
 2. [The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-regular-loans-for-the.md) _(Current version)_
 
 ### Related:

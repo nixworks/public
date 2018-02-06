@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/15/egyptians-vote-on-a-constitution-that-will-ban-
 
 ### Changes:
 
-1. [Egyptian constitutional referendum, 2014:Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptian-constitutional-referendum-2014-pegyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equ.md) _2017-08-25 03:39:51 (First version)_
-2. [Egyptian constitutional referendum, 2014:: Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptian-constitutional-referendum-2014-egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-eq.md) _2017-08-27 03:40:10 (Update)_
+1. [Egyptian constitutional referendum, 2014:Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptian-constitutional-referendum-2014-pegyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equ.md) _2018-02-06 13:49:25 (First version)_
+2. [Egyptian constitutional referendum, 2014:: Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptian-constitutional-referendum-2014-egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-eq.md) _2018-02-06 13:49:25 (Update)_
 2. [Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equal-rights-and-protect-the-status-of-minori.md) _(Current version)_
 
 ### Related:

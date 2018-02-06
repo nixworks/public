@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-co
 
 ### Changes:
 
-1. [Chinese security ''tsar'' and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister.md) _2017-08-25 03:35:41 (First version)_
+1. [Chinese security ''tsar'' and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister.md) _2018-02-06 13:49:23 (First version)_
 1. [Chinese security "tsar" and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.md) _(Current version)_
 
 ### Related:

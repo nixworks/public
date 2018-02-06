@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the
 
 ### Changes:
 
-1. [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbana-champaign-as-a-result-of-an-admissions-scandal.md) _2017-08-27 03:25:58 (First version)_
+1. [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbana-champaign-as-a-result-of-an-admissions-scandal.md) _2018-02-06 13:49:19 (First version)_
 1. [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbanaachampaign-as-a-result-of-an-admissions-scandal.md) _(Current version)_
 
 ### Related:

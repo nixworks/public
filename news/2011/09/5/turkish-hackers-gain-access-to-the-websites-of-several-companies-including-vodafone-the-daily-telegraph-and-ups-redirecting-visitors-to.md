@@ -16,7 +16,7 @@ Turkish hackers managed to re-direct visitors away from high-profile sites, incl
 
 ### Changes:
 
-1. [Turkish hackers gain access to the websites of several companies, including Vodafone, the ''Daily Telegraph'' and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors.md) _2017-08-25 03:34:06 (First version)_
+1. [Turkish hackers gain access to the websites of several companies, including Vodafone, the ''Daily Telegraph'' and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors.md) _2018-02-06 13:49:22 (First version)_
 1. [Turkish hackers gain access to the websites of several companies, including Vodafone, the "Daily Telegraph" and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors-to.md) _(Current version)_
 
 ### Related:

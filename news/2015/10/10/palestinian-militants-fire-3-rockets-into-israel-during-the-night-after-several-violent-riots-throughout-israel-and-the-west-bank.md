@@ -18,7 +18,7 @@ Palestinian militants in the Gaza Strip have fired a rocket into southern Israel
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Palestinian militants fire 3 rockets into Israel during the night after several violent riots throughout Israel and the West Bank. ](/news/2015/10/10/israeli-palestinian-conflict-palestinian-militants-fire-3-rockets-into-israel-during-the-night-after-several-violent-riots-throughout-isr.md) _2017-08-27 03:43:17 (First version)_
+1. [Israeli-Palestinian conflict: Palestinian militants fire 3 rockets into Israel during the night after several violent riots throughout Israel and the West Bank. ](/news/2015/10/10/israeli-palestinian-conflict-palestinian-militants-fire-3-rockets-into-israel-during-the-night-after-several-violent-riots-throughout-isr.md) _2018-02-06 13:49:27 (First version)_
 1. [Palestinian militants fire 3 rockets into Israel during the night after several violent riots throughout Israel and the West Bank. ](/news/2015/10/10/palestinian-militants-fire-3-rockets-into-israel-during-the-night-after-several-violent-riots-throughout-israel-and-the-west-bank.md) _(Current version)_
 
 ### Related:

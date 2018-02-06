@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/02/2/prime-minister-of-japan-shinza-abe-vows-to-defen
 
 ### Changes:
 
-1. [Senkaku Islands dispute:Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/senkaku-islands-dispute-pprime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japa.md) _2017-08-25 03:37:25 (First version)_
-2. [Senkaku Islands dispute:: Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/senkaku-islands-dispute-prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-jap.md) _2017-08-27 03:37:35 (Update)_
+1. [Senkaku Islands dispute:: Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/senkaku-islands-dispute-prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-jap.md) _2018-02-06 13:49:24 (First version)_
+2. [Senkaku Islands dispute:Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/senkaku-islands-dispute-pprime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japa.md) _2018-02-06 13:49:24 (Update)_
 2. [Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japan-self-defense-forces.md) _(Current version)_
 
 ### Related:

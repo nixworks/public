@@ -16,7 +16,7 @@ Chinese troops will be positioned in Pakistan to protect the 3,000-km-long China
 
 ### Changes:
 
-1. [China-Pakistan relations: China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-pakistan-relations-china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-china-pakistan-economic-cor.md) _2017-08-27 03:45:13 (First version)_
+1. [China-Pakistan relations: China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-pakistan-relations-china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-china-pakistan-economic-cor.md) _2018-02-06 13:49:28 (First version)_
 1. [China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-chinaapakistan-economic-corridor-that-connects-the-chin.md) _(Current version)_
 
 ### Related:

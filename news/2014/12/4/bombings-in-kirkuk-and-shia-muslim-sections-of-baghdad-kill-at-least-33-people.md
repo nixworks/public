@@ -16,8 +16,8 @@ Police say at least 33 people killed in bombings in Shia districts of Iraqi capi
 
 ### Changes:
 
-1. [Iraqi insurgency:Bombings in Kirkuk and Shia Muslim sections of Baghdad kill at least 33 people. ](/news/2014/12/4/iraqi-insurgency-pbombings-in-kirkuk-and-shia-muslim-sections-of-baghdad-kill-at-least-33-people.md) _2017-08-25 03:41:17 (First version)_
-2. [Iraqi insurgency:: Bombings in Kirkuk and Shia Muslim sections of Baghdad kill at least 33 people. ](/news/2014/12/4/iraqi-insurgency-bombings-in-kirkuk-and-shia-muslim-sections-of-baghdad-kill-at-least-33-people.md) _2017-08-27 03:41:35 (Update)_
+1. [Iraqi insurgency:Bombings in Kirkuk and Shia Muslim sections of Baghdad kill at least 33 people. ](/news/2014/12/4/iraqi-insurgency-pbombings-in-kirkuk-and-shia-muslim-sections-of-baghdad-kill-at-least-33-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency:: Bombings in Kirkuk and Shia Muslim sections of Baghdad kill at least 33 people. ](/news/2014/12/4/iraqi-insurgency-bombings-in-kirkuk-and-shia-muslim-sections-of-baghdad-kill-at-least-33-people.md) _2018-02-06 13:49:26 (Update)_
 2. [Bombings in Kirkuk and Shia Muslim sections of Baghdad kill at least 33 people. ](/news/2014/12/4/bombings-in-kirkuk-and-shia-muslim-sections-of-baghdad-kill-at-least-33-people.md) _(Current version)_
 
 ### Related:

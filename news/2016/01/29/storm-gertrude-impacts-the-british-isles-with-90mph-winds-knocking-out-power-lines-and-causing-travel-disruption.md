@@ -16,7 +16,7 @@ The latest in a succession of storms since Christmas reaches Scotland and is exp
 
 ### Changes:
 
-1. [2015-16 UK and Ireland windstorm season: Storm Gertrude impacts the British Isles, with 90mph winds knocking out power lines and causing travel disruption. ](/news/2016/01/29/2015-16-uk-and-ireland-windstorm-season-storm-gertrude-impacts-the-british-isles-with-90mph-winds-knocking-out-power-lines-and-causing-t.md) _2017-08-27 03:44:47 (First version)_
+1. [2015-16 UK and Ireland windstorm season: Storm Gertrude impacts the British Isles, with 90mph winds knocking out power lines and causing travel disruption. ](/news/2016/01/29/2015-16-uk-and-ireland-windstorm-season-storm-gertrude-impacts-the-british-isles-with-90mph-winds-knocking-out-power-lines-and-causing-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Storm Gertrude impacts the British Isles, with 90mph winds knocking out power lines and causing travel disruption. ](/news/2016/01/29/storm-gertrude-impacts-the-british-isles-with-90mph-winds-knocking-out-power-lines-and-causing-travel-disruption.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thir
 
 ### Changes:
 
-1. [The Parliament of Egypt approves, with a two-thirds majority in favour, to extend the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-to-extend-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _2018-01-09 20:30:05 (First version)_
+1. [The Parliament of Egypt approves, with a two-thirds majority in favour, to extend the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-to-extend-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _2018-02-06 13:49:31 (First version)_
 1. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _(Current version)_
 
 ### Related:

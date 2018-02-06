@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-reques
 
 ### Changes:
 
-1. [Serbian parliamentary election, 2016: Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-parliamentary-election-2016-serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-diss.md) _2017-08-27 03:45:07 (First version)_
+1. [Serbian parliamentary election, 2016: Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-parliamentary-election-2016-serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-diss.md) _2018-02-06 13:49:28 (First version)_
 1. [Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-dissolves-serbia-s-parliament-and-calls-fo.md) _(Current version)_
 
 ### Related:

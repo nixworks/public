@@ -17,7 +17,7 @@ Panama seizes a North Korean-flagged ship carrying &quot;undeclared military car
 
 ### Changes:
 
-1. [Panamanian authorities seize North Korean bulk carrier ''Chong Chon Gang'' after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which.md) _2017-08-25 03:39:00 (First version)_
+1. [Panamanian authorities seize North Korean bulk carrier ''Chong Chon Gang'' after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which.md) _2018-02-06 13:49:25 (First version)_
 1. [Panamanian authorities seize North Korean bulk carrier "Chong Chon Gang" after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which-w.md) _(Current version)_
 
 ### Related:

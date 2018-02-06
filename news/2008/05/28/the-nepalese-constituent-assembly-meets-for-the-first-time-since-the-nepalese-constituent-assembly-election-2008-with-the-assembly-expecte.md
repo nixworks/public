@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the
 
 ### Changes:
 
-1. [ The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly-expect.md) _2017-08-25 03:22:14 (First version)_
-2. [ Nepal: The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/nepal-the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly.md) _2017-08-27 03:22:09 (Update)_
+1. [ The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly-expect.md) _2018-02-06 13:49:18 (First version)_
+2. [ Nepal: The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/nepal-the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly-expecte.md) _(Current version)_
 
 ### Related:

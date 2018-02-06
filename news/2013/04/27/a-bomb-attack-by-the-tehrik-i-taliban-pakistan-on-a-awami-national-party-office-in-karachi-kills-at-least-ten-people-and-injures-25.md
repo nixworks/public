@@ -16,8 +16,8 @@ A bomb attack on an election meeting in the southern Pakistani city of Karachi o
 
 ### Changes:
 
-1. [War in North-West Pakistan:A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/war-in-north-west-pakistan-pa-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-pe.md) _2017-08-25 03:38:29 (First version)_
-2. [War in North-West Pakistan:: A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/war-in-north-west-pakistan-a-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-p.md) _2017-08-27 03:38:42 (Update)_
+1. [War in North-West Pakistan:A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/war-in-north-west-pakistan-pa-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-pe.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/war-in-north-west-pakistan-a-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-p.md) _2018-02-06 13:49:24 (Update)_
 2. [A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/a-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-people-and-injures-25.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/10/19/2011apresent-libyan-factional-fighting-the-liby
 
 ### Changes:
 
-1. [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011-present-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md) _2017-08-27 03:36:53 (First version)_
+1. [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011-present-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md) _2018-02-06 13:49:24 (First version)_
 1. [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011apresent-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md) _(Current version)_
 
 ### Related:

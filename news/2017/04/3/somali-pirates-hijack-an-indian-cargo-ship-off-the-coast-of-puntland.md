@@ -16,7 +16,7 @@ A new attack is reported off the central coast of Somalia some two weeks after a
 
 ### Changes:
 
-1. [Piracy off the coast of Somalia: Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/piracy-off-the-coast-of-somalia-somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _2017-08-27 03:48:06 (First version)_
+1. [Piracy off the coast of Somalia: Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/piracy-off-the-coast-of-somalia-somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _2018-02-06 13:49:30 (First version)_
 1. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _(Current version)_
 
 ### Related:

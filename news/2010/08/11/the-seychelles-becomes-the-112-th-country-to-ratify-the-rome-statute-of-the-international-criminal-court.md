@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/08/11/the-seychelles-becomes-the-112-th-country-to-ra
 
 ### Changes:
 
-1. [The Seychelles becomes the 112 th country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md) _2017-10-02 03:32:57 (First version)_
+1. [The Seychelles becomes the 112 th country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md) _2018-02-06 13:49:20 (First version)_
 1. [The Seychelles becomes the 112 th country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112-th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md) _(Current version)_
 
 ### Related:

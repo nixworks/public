@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/04/6/gunmen-kidnap-42-university-students-near-the-ir
 
 ### Changes:
 
-1. [ War in Iraq: Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/war-in-iraq-p-gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md) _2017-08-25 03:22:02 (First version)_
-2. [ War in Iraq:: Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/war-in-iraq-gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md) _2017-08-27 03:21:56 (Update)_
+1. [ War in Iraq: Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/war-in-iraq-p-gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Iraq:: Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/war-in-iraq-gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md) _2018-02-06 13:49:18 (Update)_
 2. [ Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md) _(Current version)_
 
 ### Related:

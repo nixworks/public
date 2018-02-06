@@ -17,8 +17,8 @@ A pastor in north-eastern Nigeria says gunmen have killed six people in an attac
 
 ### Changes:
 
-1. [Nigeria:Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/nigeria-pbombs-explode-in-two-northern-nigerian-cities.md) _2017-08-25 03:34:49 (First version)_
-2. [Nigeria:: Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/nigeria-bombs-explode-in-two-northern-nigerian-cities.md) _2017-08-27 03:34:58 (Update)_
+1. [Nigeria:Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/nigeria-pbombs-explode-in-two-northern-nigerian-cities.md) _2018-02-06 13:49:23 (First version)_
+2. [Nigeria:: Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/nigeria-bombs-explode-in-two-northern-nigerian-cities.md) _2018-02-06 13:49:23 (Update)_
 2. [Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/bombs-explode-in-two-northern-nigerian-cities.md) _(Current version)_
 
 ### Related:

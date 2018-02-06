@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/7/although-greater-than-90-vote-in-favor-of-the-re
 
 ### Changes:
 
-1. [Slovak same-sex marriage referendum: Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/slovak-same-sex-marriage-referendum-although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-in.md) _2017-08-27 03:41:53 (First version)_
+1. [Slovak same-sex marriage referendum: Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/slovak-same-sex-marriage-referendum-although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-in.md) _2018-02-06 13:49:26 (First version)_
 1. [Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-invalid-due-to-a-low-21-voter-turnout.md) _(Current version)_
 
 ### Related:

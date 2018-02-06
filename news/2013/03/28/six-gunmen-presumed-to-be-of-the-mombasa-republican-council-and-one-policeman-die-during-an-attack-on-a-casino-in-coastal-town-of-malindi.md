@@ -16,8 +16,8 @@ Six gunmen and one policeman die in fierce gunbattles during raid by mob on casi
 
 ### Changes:
 
-1. [Terrorism in Kenya:Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/terrorism-in-kenya-psix-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coas.md) _2017-08-25 03:38:04 (First version)_
-2. [Terrorism in Kenya:: Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/terrorism-in-kenya-six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coa.md) _2017-08-27 03:38:14 (Update)_
+1. [Terrorism in Kenya:: Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/terrorism-in-kenya-six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coa.md) _2018-02-06 13:49:24 (First version)_
+2. [Terrorism in Kenya:Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/terrorism-in-kenya-psix-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coas.md) _2018-02-06 13:49:24 (Update)_
 2. [Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coastal-town-of-malindi.md) _(Current version)_
 
 ### Related:

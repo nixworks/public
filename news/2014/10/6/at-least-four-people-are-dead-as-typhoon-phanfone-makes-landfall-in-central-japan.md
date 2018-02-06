@@ -16,7 +16,7 @@ One US military official is dead and two missing after being swept away by waves
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: At least four people are dead as Typhoon Phanfone makes landfall in central Japan. ](/news/2014/10/6/2014-pacific-typhoon-season-at-least-four-people-are-dead-as-typhoon-phanfone-makes-landfall-in-central-japan.md) _2017-08-27 03:41:21 (First version)_
+1. [2014 Pacific typhoon season: At least four people are dead as Typhoon Phanfone makes landfall in central Japan. ](/news/2014/10/6/2014-pacific-typhoon-season-at-least-four-people-are-dead-as-typhoon-phanfone-makes-landfall-in-central-japan.md) _2018-02-06 13:49:26 (First version)_
 1. [At least four people are dead as Typhoon Phanfone makes landfall in central Japan. ](/news/2014/10/6/at-least-four-people-are-dead-as-typhoon-phanfone-makes-landfall-in-central-japan.md) _(Current version)_
 
 ### Related:

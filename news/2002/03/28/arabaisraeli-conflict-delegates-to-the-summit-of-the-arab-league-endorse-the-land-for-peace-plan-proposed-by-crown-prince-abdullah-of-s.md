@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/03/28/arabaisraeli-conflict-delegates-to-the-summit-o
 
 ### Changes:
 
-1. [Arab-Israeli conflict: Delegates to the summit of the Arab League endorse the "land for peace" plan proposed by Crown Prince Abdullah of Saudi Arabia.](/news/2002/03/28/arab-israeli-conflict-delegates-to-the-summit-of-the-arab-league-endorse-the-land-for-peace-plan-proposed-by-crown-prince-abdullah-of-s.md) _2017-08-27 03:15:12 (First version)_
+1. [Arab-Israeli conflict: Delegates to the summit of the Arab League endorse the "land for peace" plan proposed by Crown Prince Abdullah of Saudi Arabia.](/news/2002/03/28/arab-israeli-conflict-delegates-to-the-summit-of-the-arab-league-endorse-the-land-for-peace-plan-proposed-by-crown-prince-abdullah-of-s.md) _2018-02-06 13:49:15 (First version)_
 1. [Arab-Israeli conflict: Delegates to the summit of the Arab League endorse the "land for peace" plan proposed by Crown Prince Abdullah of Saudi Arabia.](/news/2002/03/28/arabaisraeli-conflict-delegates-to-the-summit-of-the-arab-league-endorse-the-land-for-peace-plan-proposed-by-crown-prince-abdullah-of-s.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Fitzgerald owned stocks in tobacco companies despite being in charge of smoking 
 
 ### Changes:
 
-1. [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in a tobacco company shortly after taking her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-a-tob.md) _2018-02-01 18:30:19 (First version)_
+1. [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in a tobacco company shortly after taking her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-a-tob.md) _2018-02-06 13:49:31 (First version)_
 1. [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in food, health insurance, and tobacco companies shortly after taking up her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-food.md) _(Current version)_
 
 ### Related:

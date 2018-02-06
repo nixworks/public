@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/12/the-people-s-republic-of-china-launches-the-man
 
 ### Changes:
 
-1. [ The People's Republic of China launches the manned ''Shenzhou 6'' spacecraft. Fei Junlong and Nie Haisheng will spend five days in orbit in their Shenzhou spacecraft. ](/news/2005/10/12/the-people-s-republic-of-china-launches-the-manned-shenzhou-6-spacecraft-fei-junlong-and-nia-hcisha-ng-will-spend-five-days-in-orbit.md) _2017-08-25 03:16:56 (First version)_
+1. [ The People's Republic of China launches the manned ''Shenzhou 6'' spacecraft. Fei Junlong and Nie Haisheng will spend five days in orbit in their Shenzhou spacecraft. ](/news/2005/10/12/the-people-s-republic-of-china-launches-the-manned-shenzhou-6-spacecraft-fei-junlong-and-nia-hcisha-ng-will-spend-five-days-in-orbit.md) _2018-02-06 13:49:16 (First version)_
 1. [ The People's Republic of China launches the manned "Shenzhou 6" spacecraft. Fei Junlong and Nie Haisheng will spend five days in orbit in their Shenzhou spacecraft. ](/news/2005/10/12/the-people-s-republic-of-china-launches-the-manned-shenzhou-6-spacecraft-fei-junlong-and-nia-hcisha-ng-will-spend-five-days-in-orbit-i.md) _(Current version)_
 
 ### Related:

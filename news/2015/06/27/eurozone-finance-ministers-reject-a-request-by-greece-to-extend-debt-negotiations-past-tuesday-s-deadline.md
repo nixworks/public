@@ -16,7 +16,7 @@ European officials rejected Greece’s request to extend its bailout program so 
 
 ### Changes:
 
-1. [Greek government-debt crisis: Eurozone finance ministers reject a request by Greece to extend debt negotiations past Tuesday's deadline. ](/news/2015/06/27/greek-government-debt-crisis-eurozone-finance-ministers-reject-a-request-by-greece-to-extend-debt-negotiations-past-tuesday-s-deadline.md) _2017-08-27 03:42:36 (First version)_
+1. [Greek government-debt crisis: Eurozone finance ministers reject a request by Greece to extend debt negotiations past Tuesday's deadline. ](/news/2015/06/27/greek-government-debt-crisis-eurozone-finance-ministers-reject-a-request-by-greece-to-extend-debt-negotiations-past-tuesday-s-deadline.md) _2018-02-06 13:49:27 (First version)_
 1. [Eurozone finance ministers reject a request by Greece to extend debt negotiations past Tuesday's deadline. ](/news/2015/06/27/eurozone-finance-ministers-reject-a-request-by-greece-to-extend-debt-negotiations-past-tuesday-s-deadline.md) _(Current version)_
 
 ### Related:

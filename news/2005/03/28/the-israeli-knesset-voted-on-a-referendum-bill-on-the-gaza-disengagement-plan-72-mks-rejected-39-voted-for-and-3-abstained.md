@@ -19,8 +19,8 @@ Formats: [HTML](/news/2005/03/28/the-israeli-knesset-voted-on-a-referendum-bill-
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/israeli-palestinian-conflict-p-the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for.md) _2017-08-25 03:15:51 (First version)_
-2. [ Israeli-Palestinian Conflict:: The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/israeli-palestinian-conflict-the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for.md) _2017-08-27 03:15:52 (Update)_
+1. [ Israeli-Palestinian Conflict:: The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/israeli-palestinian-conflict-the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict: The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/israeli-palestinian-conflict-p-the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for.md) _2018-02-06 13:49:16 (Update)_
 2. [ The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for-and-3-abstained.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-lon
 
 ### Changes:
 
-1. [The Metropolitan Police in London publish a long suppressed report on the 1979 death of Blair Peach which concludes that a police officer was probably responsible for his killing. ](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-long-suppressed-report-on-the-1979-death-of-blair-peach-which-concludes-that-a-police-officer-w.md) _2017-08-25 03:27:46 (First version)_
+1. [The Metropolitan Police in London publish a long suppressed report on the 1979 death of Blair Peach which concludes that a police officer was probably responsible for his killing. ](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-long-suppressed-report-on-the-1979-death-of-blair-peach-which-concludes-that-a-police-officer-w.md) _2018-02-06 13:49:20 (First version)_
 1. [The Metropolitan Police in London publish a long suppressed report on the 1979 death of Blair Peach which concludes that a police officer was probably responsible for his killing. ](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-long-suppressed-report-on-the-1979-death-of-blair-peach-which-concludes-that-a-police-officer-wa.md) _(Current version)_
 
 ### Related:

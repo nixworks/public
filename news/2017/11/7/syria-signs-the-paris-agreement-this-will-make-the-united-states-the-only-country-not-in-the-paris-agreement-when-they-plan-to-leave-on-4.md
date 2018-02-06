@@ -16,9 +16,9 @@ Syria’s decision means America will be the only country outside the landmark d
 
 ### Changes:
 
-1. [Syria signs the Paris Agreement. This makes the United States the only country not in the Paris Agreement, when they leave on November 4, 2020.](/news/2017/11/7/syria-signs-the-paris-agreement-this-makes-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-leave-on-november-4-20.md) _2017-11-07 22:30:06 (First version)_
-2. [Syria signs the Paris Agreement. This makes the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020.](/news/2017/11/7/syria-signs-the-paris-agreement-this-makes-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-novemb.md) _2017-11-08 00:30:06 (Update)_
-3. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-no.md) _2017-11-08 19:30:07 (Update)_
+1. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-no.md) _2018-02-06 13:49:31 (First version)_
+2. [Syria signs the Paris Agreement. This makes the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020.](/news/2017/11/7/syria-signs-the-paris-agreement-this-makes-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-novemb.md) _2018-02-06 13:49:31 (Update)_
+3. [Syria signs the Paris Agreement. This makes the United States the only country not in the Paris Agreement, when they leave on November 4, 2020.](/news/2017/11/7/syria-signs-the-paris-agreement-this-makes-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-leave-on-november-4-20.md) _2018-02-06 13:49:31 (Update)_
 3. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _(Current version)_
 
 ### Related:

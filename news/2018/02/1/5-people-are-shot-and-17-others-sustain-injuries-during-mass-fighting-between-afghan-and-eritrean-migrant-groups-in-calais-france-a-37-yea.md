@@ -16,7 +16,7 @@ An Afghan is suspected of shooting at a queue for food handouts, critically inju
 
 ### Changes:
 
-1. [5 people are shot and 17 others sustain injuries during fighting between rival migrant groups in Calais, France. ](/news/2018/02/1/5-people-are-shot-and-17-others-sustain-injuries-during-fighting-between-rival-migrant-groups-in-calais-france.md) _2018-02-03 11:30:12 (First version)_
+1. [5 people are shot and 17 others sustain injuries during fighting between rival migrant groups in Calais, France. ](/news/2018/02/1/5-people-are-shot-and-17-others-sustain-injuries-during-fighting-between-rival-migrant-groups-in-calais-france.md) _2018-02-06 13:49:31 (First version)_
 1. [5 people are shot and 17 others sustain injuries during mass fighting between Afghan and Eritrean migrant groups in Calais, France. A 37-year old Afghan man is suspected of having critically wounded four Eritrean teenagers at a queue for food handouts. ](/news/2018/02/1/5-people-are-shot-and-17-others-sustain-injuries-during-mass-fighting-between-afghan-and-eritrean-migrant-groups-in-calais-france-a-37-yea.md) _(Current version)_
 
 ### Related:

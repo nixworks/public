@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/08/30/students-and-activists-protest-in-tokyo-against
 
 ### Changes:
 
-1. [Japanese anti-militarism protestsStudents and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/japanese-anti-militarism-protestspstudents-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _2017-08-25 03:42:39 (First version)_
-2. [Japanese anti-militarism protests: Students and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/japanese-anti-militarism-protests-students-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _2017-08-27 03:42:56 (Update)_
+1. [Japanese anti-militarism protestsStudents and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/japanese-anti-militarism-protestspstudents-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _2018-02-06 13:49:27 (First version)_
+2. [Japanese anti-militarism protests: Students and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/japanese-anti-militarism-protests-students-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _2018-02-06 13:49:27 (Update)_
 2. [Students and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/students-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _(Current version)_
 
 ### Related:

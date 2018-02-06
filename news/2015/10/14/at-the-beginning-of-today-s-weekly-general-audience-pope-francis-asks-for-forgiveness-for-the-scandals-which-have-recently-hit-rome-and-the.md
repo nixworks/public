@@ -18,7 +18,7 @@ Francis made the surprise comments at today&#8217;s general audience in St Peter
 
 ### Changes:
 
-1. [At the beginning of today's weekly general audience, Pope Francis asks for forgiveness for the scandals which have recently hit Rome and the Vatican. He did not offer details. The Church's Synod on the Family concludes Sunday, October 25, 2015. ](/news/2015/10/14/at-the-beginning-of-today-s-weekly-general-audience-pope-francis-asks-for-forgiveness-for-the-scandals-which-have-recently-hit-rome-and-th.md) _2017-08-25 03:43:03 (First version)_
+1. [At the beginning of today's weekly general audience, Pope Francis asks for forgiveness for the scandals which have recently hit Rome and the Vatican. He did not offer details. The Church's Synod on the Family concludes Sunday, October 25, 2015. ](/news/2015/10/14/at-the-beginning-of-today-s-weekly-general-audience-pope-francis-asks-for-forgiveness-for-the-scandals-which-have-recently-hit-rome-and-th.md) _2018-02-06 13:49:27 (First version)_
 1. [At the beginning of today's weekly general audience, Pope Francis asks for forgiveness for the scandals which have recently hit Rome and the Vatican. He did not offer details. The Church's Synod on the Family concludes Sunday, October 25, 2015. ](/news/2015/10/14/at-the-beginning-of-today-s-weekly-general-audience-pope-francis-asks-for-forgiveness-for-the-scandals-which-have-recently-hit-rome-and-the.md) _(Current version)_
 
 ### Related:

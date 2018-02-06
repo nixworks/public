@@ -16,8 +16,8 @@ Announcement comes as Hollande says France will end intervention only when stabi
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/northern-mali-conflict-2012apresent-pafrican-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-we.md) _2017-08-25 03:37:16 (First version)_
-2. [Northern Mali conflict (2012-present):: African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/northern-mali-conflict-2012-present-african-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-w.md) _2017-08-27 03:37:26 (Update)_
+1. [Northern Mali conflict (2012-present):African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/northern-mali-conflict-2012apresent-pafrican-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-we.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/northern-mali-conflict-2012-present-african-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-w.md) _2018-02-06 13:49:24 (Update)_
 2. [African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/african-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-week.md) _(Current version)_
 
 ### Related:

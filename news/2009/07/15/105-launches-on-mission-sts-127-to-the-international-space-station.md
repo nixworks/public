@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/07/15/105-launches-on-mission-sts-127-to-the-internat
 
 ### Changes:
 
-1. [ {{OV|105}} launches on mission STS-127 to the International Space Station. ](/news/2009/07/15/ov-105-launches-on-mission-sts-127-to-the-international-space-station.md) _2017-05-01 03:26:24 (First version)_
+1. [ {{OV|105}} launches on mission STS-127 to the International Space Station. ](/news/2009/07/15/ov-105-launches-on-mission-sts-127-to-the-international-space-station.md) _2018-02-06 13:49:19 (First version)_
 1. [ 105 launches on mission STS-127 to the International Space Station. ](/news/2009/07/15/105-launches-on-mission-sts-127-to-the-international-space-station.md) _(Current version)_
 
 ### Related:

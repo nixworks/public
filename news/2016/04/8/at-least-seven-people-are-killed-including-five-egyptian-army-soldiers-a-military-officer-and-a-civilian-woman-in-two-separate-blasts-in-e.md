@@ -16,7 +16,7 @@ At least five Egyptian soldiers, a military officer and a civilian woman were ki
 
 ### Changes:
 
-1. [Sinai insurgency: At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/sinai-insurgency-at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-se.md) _2017-08-27 03:45:32 (First version)_
+1. [Sinai insurgency: At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/sinai-insurgency-at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-se.md) _2018-02-06 13:49:29 (First version)_
 1. [At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-separate-blasts-in-e.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/11/all-four-remaining-occupiers-leave-the-refuge-a
 
 ### Changes:
 
-1. [Occupation of the Malheur National Wildlife Refuge: All four remaining occupiers leave the refuge and surrender. ](/news/2016/02/11/occupation-of-the-malheur-national-wildlife-refuge-all-four-remaining-occupiers-leave-the-refuge-and-surrender.md) _2017-08-27 03:44:53 (First version)_
+1. [Occupation of the Malheur National Wildlife Refuge: All four remaining occupiers leave the refuge and surrender. ](/news/2016/02/11/occupation-of-the-malheur-national-wildlife-refuge-all-four-remaining-occupiers-leave-the-refuge-and-surrender.md) _2018-02-06 13:49:28 (First version)_
 1. [All four remaining occupiers leave the refuge and surrender. ](/news/2016/02/11/all-four-remaining-occupiers-leave-the-refuge-and-surrender.md) _(Current version)_
 
 ### Related:

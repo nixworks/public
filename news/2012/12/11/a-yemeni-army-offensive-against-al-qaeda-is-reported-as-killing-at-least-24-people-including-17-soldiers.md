@@ -16,8 +16,8 @@ A MAJOR offensive launched by the Yemeni army against al-Qaeda following the ass
 
 ### Changes:
 
-1. [War on Terror:A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-pa-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md) _2017-08-25 03:36:59 (First version)_
-2. [War on Terror:: A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md) _2017-08-27 03:37:10 (Update)_
+1. [War on Terror:A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-pa-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md) _2018-02-06 13:49:24 (First version)_
+2. [War on Terror:: A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md) _2018-02-06 13:49:24 (Update)_
 2. [A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md) _(Current version)_
 
 ### Related:

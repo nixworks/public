@@ -17,7 +17,7 @@ Thailand is making preparations for Crown Prince Maha Vajiralongkorn to ascend t
 
 ### Changes:
 
-1. [Succession to Thailand's throne: Thailand is preparing for the December 1, 2016, ascension of Crown Prince Maha Vajiralongkorn to the throne, according to senior military sources. ](/news/2016/11/1/succession-to-thailand-s-throne-thailand-is-preparing-for-the-december-1-2016-ascension-of-crown-prince-maha-vajiralongkorn-to-the-throne.md) _2017-08-27 03:47:09 (First version)_
+1. [Succession to Thailand's throne: Thailand is preparing for the December 1, 2016, ascension of Crown Prince Maha Vajiralongkorn to the throne, according to senior military sources. ](/news/2016/11/1/succession-to-thailand-s-throne-thailand-is-preparing-for-the-december-1-2016-ascension-of-crown-prince-maha-vajiralongkorn-to-the-throne.md) _2018-02-06 13:49:29 (First version)_
 1. [Thailand is preparing for the December 1, 2016, ascension of Crown Prince Maha Vajiralongkorn to the throne, according to senior military sources. ](/news/2016/11/1/thailand-is-preparing-for-the-december-1-2016-ascension-of-crown-prince-maha-vajiralongkorn-to-the-throne-according-to-senior-military-so.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The United States remains the &quot;closest friend&quot; of the Philippines but 
 
 ### Changes:
 
-1. [Philippines-United States relations: Philippine Foreign Affairs Secretary Perfecto Yasay states that the United States remains our "closest friend," but that the Philippines wants to break away and forge closer ties with other nations. ](/news/2016/10/22/philippines-united-states-relations-philippine-foreign-affairs-secretary-perfecto-yasay-states-that-the-united-states-remains-our-closes.md) _2017-08-27 03:47:06 (First version)_
+1. [Philippines-United States relations: Philippine Foreign Affairs Secretary Perfecto Yasay states that the United States remains our "closest friend," but that the Philippines wants to break away and forge closer ties with other nations. ](/news/2016/10/22/philippines-united-states-relations-philippine-foreign-affairs-secretary-perfecto-yasay-states-that-the-united-states-remains-our-closes.md) _2018-02-06 13:49:29 (First version)_
 1. [Philippine Foreign Affairs Secretary Perfecto Yasay states that the United States remains our "closest friend," but that the Philippines wants to break away and forge closer ties with other nations. ](/news/2016/10/22/philippine-foreign-affairs-secretary-perfecto-yasay-states-that-the-united-states-remains-our-closest-friend-but-that-the-philippines-wan.md) _(Current version)_
 
 ### Related:

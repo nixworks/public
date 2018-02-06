@@ -19,7 +19,7 @@ A Malaysian man who was being held by Islamist militants in the southern Philipp
 
 ### Changes:
 
-1. [Moro conflict: Malaysian Prime Minister Najib Razak condemns the Philippine-based Abu Sayyaf's beheading of a Malaysian man. Businessman Bernard Then and a woman were kidnapped in May from the Malaysia-island Sabah; the woman was released last week. Philippine Colonel Restituto Padilla said the killing followed a "failure of the negotiations about money." ](/news/2015/11/18/moro-conflict-malaysian-prime-minister-najib-razak-condemns-the-philippine-based-abu-sayyaf-s-beheading-of-a-malaysian-man-businessman-ber.md) _2017-08-27 03:43:55 (First version)_
+1. [Moro conflict: Malaysian Prime Minister Najib Razak condemns the Philippine-based Abu Sayyaf's beheading of a Malaysian man. Businessman Bernard Then and a woman were kidnapped in May from the Malaysia-island Sabah; the woman was released last week. Philippine Colonel Restituto Padilla said the killing followed a "failure of the negotiations about money." ](/news/2015/11/18/moro-conflict-malaysian-prime-minister-najib-razak-condemns-the-philippine-based-abu-sayyaf-s-beheading-of-a-malaysian-man-businessman-ber.md) _2018-02-06 13:49:28 (First version)_
 1. [Malaysian Prime Minister Najib Razak condemns the Philippine-based Abu Sayyaf's beheading of a Malaysian man. Businessman Bernard Then and a woman were kidnapped in May from the Malaysia-island Sabah; the woman was released last week. Philippine Colonel Restituto Padilla said the killing followed a "failure of the negotiations about money." ](/news/2015/11/18/malaysian-prime-minister-najib-razak-condemns-the-philippine-based-abu-sayyaf-s-beheading-of-a-malaysian-man-businessman-bernard-then-and-a.md) _(Current version)_
 
 ### Related:

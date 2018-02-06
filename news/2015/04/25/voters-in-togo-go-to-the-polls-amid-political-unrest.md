@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-u
 
 ### Changes:
 
-1. [Togolese presidential election, 2015: Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/togolese-presidential-election-2015-voters-in-togo-go-to-the-polls-amid-political-unrest.md) _2017-08-27 03:42:14 (First version)_
+1. [Togolese presidential election, 2015: Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/togolese-presidential-election-2015-voters-in-togo-go-to-the-polls-amid-political-unrest.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md) _(Current version)_
 
 ### Related:

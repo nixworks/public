@@ -17,7 +17,7 @@ Weeks of protests in Venezuela are shifting the spotlight onto the nation’s mi
 
 ### Changes:
 
-1. [2014-17 Venezuelan protests: Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/2014-17-venezuelan-protests-venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-o.md) _2017-08-27 03:48:12 (First version)_
+1. [2014-17 Venezuelan protests: Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/2014-17-venezuelan-protests-venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-o.md) _2018-02-06 13:49:30 (First version)_
 1. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _(Current version)_
 
 ### Related:

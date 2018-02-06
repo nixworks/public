@@ -16,7 +16,7 @@ Saudi Arabia has cancelled billions of dollars of aid to Lebanon over claims Bei
 
 ### Changes:
 
-1. [Foreign relations of Lebanon: The United Arab Emirates (UAE) bans its citizens from traveling to Lebanon, just hours after Saudi Arabia issued a warning to its citizens to leave Lebanon in retaliation for Lebanon choosing to side with Iran in the Iran-Saudi Arabia proxy conflict and Hezbollah's influence on the Lebanese government. ](/news/2016/02/23/foreign-relations-of-lebanon-the-united-arab-emirates-uae-bans-its-citizens-from-traveling-to-lebanon-just-hours-after-saudi-arabia-issu.md) _2017-08-27 03:45:00 (First version)_
+1. [Foreign relations of Lebanon: The United Arab Emirates (UAE) bans its citizens from traveling to Lebanon, just hours after Saudi Arabia issued a warning to its citizens to leave Lebanon in retaliation for Lebanon choosing to side with Iran in the Iran-Saudi Arabia proxy conflict and Hezbollah's influence on the Lebanese government. ](/news/2016/02/23/foreign-relations-of-lebanon-the-united-arab-emirates-uae-bans-its-citizens-from-traveling-to-lebanon-just-hours-after-saudi-arabia-issu.md) _2018-02-06 13:49:28 (First version)_
 1. [The United Arab Emirates (UAE) bans its citizens from traveling to Lebanon, just hours after Saudi Arabia issued a warning to its citizens to leave Lebanon in retaliation for Lebanon choosing to side with Iran in the Iran-Saudi Arabia proxy conflict and Hezbollah's influence on the Lebanese government. ](/news/2016/02/23/the-united-arab-emirates-uae-bans-its-citizens-from-traveling-to-lebanon-just-hours-after-saudi-arabia-issued-a-warning-to-its-citizens-t.md) _(Current version)_
 
 ### Related:

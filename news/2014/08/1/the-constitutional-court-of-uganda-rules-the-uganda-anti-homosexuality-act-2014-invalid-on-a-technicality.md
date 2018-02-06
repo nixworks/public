@@ -18,5 +18,5 @@ Constitutional court petitioned to scrap law that calls for gay people to be jai
 
 ### Changes:
 
-1. [Uganda Anti-Homosexuality Act, 2014: The Constitutional Court of Uganda rules the Uganda Anti-Homosexuality Act, 2014 invalid on a technicality. ](/news/2014/08/1/uganda-anti-homosexuality-act-2014-the-constitutional-court-of-uganda-rules-the-uganda-anti-homosexuality-act-2014-invalid-on-a-technical.md) _2017-08-27 03:41:05 (First version)_
+1. [Uganda Anti-Homosexuality Act, 2014: The Constitutional Court of Uganda rules the Uganda Anti-Homosexuality Act, 2014 invalid on a technicality. ](/news/2014/08/1/uganda-anti-homosexuality-act-2014-the-constitutional-court-of-uganda-rules-the-uganda-anti-homosexuality-act-2014-invalid-on-a-technical.md) _2018-02-06 13:49:26 (First version)_
 1. [The Constitutional Court of Uganda rules the Uganda Anti-Homosexuality Act, 2014 invalid on a technicality. ](/news/2014/08/1/the-constitutional-court-of-uganda-rules-the-uganda-anti-homosexuality-act-2014-invalid-on-a-technicality.md) _(Current version)_

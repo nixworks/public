@@ -16,7 +16,7 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 
 ### Changes:
 
-1. [British Airways reports a half-year profit of 158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-ps158m-the-first-in-two-years.md) _2017-08-25 03:30:45 (First version)_
+1. [British Airways reports a half-year profit of 158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-ps158m-the-first-in-two-years.md) _2018-02-06 13:49:20 (First version)_
 1. [British Airways reports a half-year profit of GBP158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-gbp158m-the-first-in-two-years.md) _(Current version)_
 
 ### Related:

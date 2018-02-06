@@ -18,8 +18,8 @@ The violence in Syria continues. An air strike has killed 15 people in Aleppo. T
 
 ### Changes:
 
-1. [Syrian civil war:An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-pan-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _2017-08-25 03:38:12 (First version)_
-2. [Syrian civil war:: An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _2017-08-27 03:38:24 (Update)_
+1. [Syrian civil war:An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-pan-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _2018-02-06 13:49:24 (Update)_
 2. [An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md) _(Current version)_
 
 ### Related:

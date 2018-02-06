@@ -17,8 +17,8 @@ Tunisian authorities ban protests planned for Friday, after rival Islamist ralli
 
 ### Changes:
 
-1. [Arab Spring:Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-ptunisian-authorities-ban-protests-planned-for-friday.md) _2017-08-25 03:35:52 (First version)_
-2. [Arab Spring:: Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-tunisian-authorities-ban-protests-planned-for-friday.md) _2017-08-27 03:36:03 (Update)_
+1. [Arab Spring:: Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-tunisian-authorities-ban-protests-planned-for-friday.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-ptunisian-authorities-ban-protests-planned-for-friday.md) _2018-02-06 13:49:23 (Update)_
 2. [Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/tunisian-authorities-ban-protests-planned-for-friday.md) _(Current version)_
 
 ### Related:

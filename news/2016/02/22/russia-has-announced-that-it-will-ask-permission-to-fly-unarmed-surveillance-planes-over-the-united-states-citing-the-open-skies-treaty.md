@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/22/russia-has-announced-that-it-will-ask-permissio
 
 ### Changes:
 
-1. [Russia-United States relations: Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-united-states-relations-russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states.md) _2017-08-27 03:44:59 (First version)_
+1. [Russia-United States relations: Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-united-states-relations-russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states.md) _2018-02-06 13:49:28 (First version)_
 1. [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md) _(Current version)_
 
 ### Related:

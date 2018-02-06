@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/19/2016-nampala-attack-at-least-12-soldiers-are-ki
 
 ### Changes:
 
-1. [Northern Mali conflict: 2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. ](/news/2016/07/19/northern-mali-conflict-2016-nampala-attack-at-least-12-soldiers-are-killed-and-27-others-injured-after-unidentified-militants-briefly-over.md) _2017-08-27 03:46:31 (First version)_
+1. [Northern Mali conflict: 2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. ](/news/2016/07/19/northern-mali-conflict-2016-nampala-attack-at-least-12-soldiers-are-killed-and-27-others-injured-after-unidentified-militants-briefly-over.md) _2018-02-06 13:49:29 (First version)_
 1. [ 2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. ](/news/2016/07/19/2016-nampala-attack-at-least-12-soldiers-are-killed-and-27-others-injured-after-unidentified-militants-briefly-overrun-a-government-base-i.md) _(Current version)_
 
 ### Related:

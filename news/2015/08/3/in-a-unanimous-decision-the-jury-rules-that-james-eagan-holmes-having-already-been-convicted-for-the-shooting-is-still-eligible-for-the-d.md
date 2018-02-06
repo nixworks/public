@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/3/in-a-unanimous-decision-the-jury-rules-that-jame
 
 ### Changes:
 
-1. [2012 Aurora shooting: In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/2012-aurora-shooting-in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-st.md) _2017-08-27 03:42:47 (First version)_
+1. [2012 Aurora shooting: In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/2012-aurora-shooting-in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-st.md) _2018-02-06 13:49:27 (First version)_
 1. [In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-still-eligible-for-the-d.md) _(Current version)_
 
 ### Related:

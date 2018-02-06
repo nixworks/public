@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-r
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/naxalite-maoist-insurgency-indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _2017-08-27 03:42:30 (First version)_
+1. [Naxalite-Maoist insurgency: Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/naxalite-maoist-insurgency-indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _2018-02-06 13:49:27 (First version)_
 1. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _(Current version)_
 
 ### Related:

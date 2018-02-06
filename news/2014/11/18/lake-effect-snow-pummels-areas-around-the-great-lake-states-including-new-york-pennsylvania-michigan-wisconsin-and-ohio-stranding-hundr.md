@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/18/lake-effect-snow-pummels-areas-around-the-great
 
 ### Changes:
 
-1. [November 2014 North American cold wave: Lake effect snow pummels areas around the Great Lake states, including New York, Pennsylvania, Michigan, Wisconsin and Ohio, stranding hundreds of vehicles and causing Erie County, New York, to declare a state of emergency. ](/news/2014/11/18/november-2014-north-american-cold-wave-lake-effect-snow-pummels-areas-around-the-great-lake-states-including-new-york-pennsylvania-michi.md) _2017-08-27 03:41:31 (First version)_
+1. [November 2014 North American cold wave: Lake effect snow pummels areas around the Great Lake states, including New York, Pennsylvania, Michigan, Wisconsin and Ohio, stranding hundreds of vehicles and causing Erie County, New York, to declare a state of emergency. ](/news/2014/11/18/november-2014-north-american-cold-wave-lake-effect-snow-pummels-areas-around-the-great-lake-states-including-new-york-pennsylvania-michi.md) _2018-02-06 13:49:26 (First version)_
 1. [Lake-effect snow pummels areas around the Great Lake states, including New York, Pennsylvania, Michigan, Wisconsin and Ohio, stranding hundreds of vehicles and causing Erie County, New York, to declare a state of emergency. ](/news/2014/11/18/lake-effect-snow-pummels-areas-around-the-great-lake-states-including-new-york-pennsylvania-michigan-wisconsin-and-ohio-stranding-hundr.md) _(Current version)_
 
 ### Related:

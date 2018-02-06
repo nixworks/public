@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/07/6/the-european-commission-denounces-international-
 
 ### Changes:
 
-1. [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gr.md) _2017-08-25 03:33:42 (First version)_
+1. [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gr.md) _2018-02-06 13:49:22 (First version)_
 1. [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gre.md) _(Current version)_
 
 ### Related:

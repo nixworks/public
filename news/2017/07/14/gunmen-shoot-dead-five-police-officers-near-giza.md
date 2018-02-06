@@ -17,7 +17,7 @@ A man is arrested after two tourists are killed at the Egyptian resort of Hurgha
 
 ### Changes:
 
-1. [Insurgency in Egypt (2013-present): Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/insurgency-in-egypt-2013-present-gunmen-shoot-dead-five-police-officers-near-giza.md) _2017-08-27 03:48:40 (First version)_
+1. [Insurgency in Egypt (2013-present): Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/insurgency-in-egypt-2013-present-gunmen-shoot-dead-five-police-officers-near-giza.md) _2018-02-06 13:49:30 (First version)_
 1. [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md) _(Current version)_
 
 ### Related:

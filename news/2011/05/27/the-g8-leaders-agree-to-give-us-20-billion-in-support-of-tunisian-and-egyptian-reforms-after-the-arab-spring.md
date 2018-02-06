@@ -18,8 +18,8 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 
 ### Changes:
 
-1. [37th G8 summit:The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-pthe-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _2017-08-25 03:33:17 (First version)_
-2. [37th G8 summit:: The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-the-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _2017-08-27 03:33:26 (Update)_
+1. [37th G8 summit:: The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-the-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _2018-02-06 13:49:22 (First version)_
+2. [37th G8 summit:The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-pthe-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _2018-02-06 13:49:22 (Update)_
 2. [The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/the-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-mi
 
 ### Changes:
 
-1. [War in North-West Pakistan: Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/war-in-north-west-pakistan-pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _2017-08-27 03:41:26 (First version)_
+1. [War in North-West Pakistan: Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/war-in-north-west-pakistan-pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _2018-02-06 13:49:26 (First version)_
 1. [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md) _(Current version)_
 
 ### Related:

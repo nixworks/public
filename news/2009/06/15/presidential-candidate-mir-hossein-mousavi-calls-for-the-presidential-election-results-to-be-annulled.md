@@ -20,7 +20,7 @@ Mousavi tells tens of thousands of supporters he will stand if new polls are cal
 
 ### Changes:
 
-1. [ Iran: Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/iran-presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md) _2017-08-27 03:24:44 (First version)_
+1. [ Iran: Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/iran-presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md) _2018-02-06 13:49:19 (First version)_
 1. [ Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md) _(Current version)_
 
 ### Related:

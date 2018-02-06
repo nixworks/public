@@ -22,8 +22,8 @@ In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&
 
 ### Changes:
 
-1. [2011 Libyan civil war:France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/2011-libyan-civil-war-pfrance-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md) _2017-08-25 03:32:30 (First version)_
-2. [2011 Libyan civil war:: France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/2011-libyan-civil-war-france-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md) _2017-08-27 03:32:37 (Update)_
+1. [2011 Libyan civil war:France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/2011-libyan-civil-war-pfrance-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/2011-libyan-civil-war-france-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md) _2018-02-06 13:49:22 (Update)_
 2. [France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/france-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md) _(Current version)_
 
 ### Related:

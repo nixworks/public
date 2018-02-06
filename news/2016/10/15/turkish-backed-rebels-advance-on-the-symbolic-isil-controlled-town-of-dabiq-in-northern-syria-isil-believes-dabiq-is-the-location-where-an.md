@@ -16,7 +16,7 @@ Turkish-backed rebels in Syria are advancing on the symbolically important IS st
 
 ### Changes:
 
-1. [Syrian Civil War: Turkish-backed rebels advance on the symbolic ISIL-controlled town of Dabiq, in northern Syria. ISIL believes Dabiq is the location where an apocalyptic battle will take place shortly before the end of the world. ](/news/2016/10/15/syrian-civil-war-turkish-backed-rebels-advance-on-the-symbolic-isil-controlled-town-of-dabiq-in-northern-syria-isil-believes-dabiq-is-the.md) _2017-08-27 03:47:03 (First version)_
+1. [Syrian Civil War: Turkish-backed rebels advance on the symbolic ISIL-controlled town of Dabiq, in northern Syria. ISIL believes Dabiq is the location where an apocalyptic battle will take place shortly before the end of the world. ](/news/2016/10/15/syrian-civil-war-turkish-backed-rebels-advance-on-the-symbolic-isil-controlled-town-of-dabiq-in-northern-syria-isil-believes-dabiq-is-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Turkish-backed rebels advance on the symbolic ISIL-controlled town of Dabiq, in northern Syria. ISIL believes Dabiq is the location where an apocalyptic battle will take place shortly before the end of the world. ](/news/2016/10/15/turkish-backed-rebels-advance-on-the-symbolic-isil-controlled-town-of-dabiq-in-northern-syria-isil-believes-dabiq-is-the-location-where-an.md) _(Current version)_
 
 ### Related:

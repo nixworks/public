@@ -16,7 +16,7 @@ Flash floods killed at least 13 people and injured 31 in central Vietnam this we
 
 ### Changes:
 
-1. [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in Quang Tri, Quang Binh and Quang Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaopsng-tra-quaopsng-ba-nh-and-quaops.md) _2017-08-25 03:21:17 (First version)_
+1. [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in Quang Tri, Quang Binh and Quang Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaopsng-tra-quaopsng-ba-nh-and-quaops.md) _2018-02-06 13:49:18 (First version)_
 1. [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in QuGBPng Tri, QuGBPng Binh and QuGBPng Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaogbpng-tra-quaogbpng-ba-nh-and-q.md) _(Current version)_
 
 ### Related:

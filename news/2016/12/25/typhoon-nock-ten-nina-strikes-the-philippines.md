@@ -16,7 +16,7 @@ A typhoon with gusts of wind up to 255km/h makes landfall in the eastern Philipp
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Nock-ten (Nina) strikes the Philippines. ](/news/2016/12/25/2016-pacific-typhoon-season-typhoon-nock-ten-nina-strikes-the-philippines.md) _2017-08-27 03:47:31 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Nock-ten (Nina) strikes the Philippines. ](/news/2016/12/25/2016-pacific-typhoon-season-typhoon-nock-ten-nina-strikes-the-philippines.md) _2018-02-06 13:49:30 (First version)_
 1. [Typhoon Nock-ten (Nina) strikes the Philippines. ](/news/2016/12/25/typhoon-nock-ten-nina-strikes-the-philippines.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Azerbaijan said Friday eight soldiers had been killed in three days of clashes w
 
 ### Changes:
 
-1. [Nagorno-Karabakh conflict: At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/nagorno-karabakh-conflict-at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disput.md) _2017-08-27 03:41:05 (First version)_
+1. [Nagorno-Karabakh conflict: At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/nagorno-karabakh-conflict-at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disput.md) _2018-02-06 13:49:26 (First version)_
 1. [At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.md) _(Current version)_
 
 ### Related:

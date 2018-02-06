@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united
 
 ### Changes:
 
-1. [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31-february-2-2011-north-american-winter-storm.md) _2017-08-27 03:32:09 (First version)_
+1. [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31-february-2-2011-north-american-winter-storm.md) _2018-02-06 13:49:22 (First version)_
 1. [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31afebruary-2-2011-north-american-winter-storm.md) _(Current version)_
 
 ### Related:

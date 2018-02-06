@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/02/25/french-president-franassois-hollande-reproaches
 
 ### Changes:
 
-1. [France-United States relations: French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/france-united-states-relations-french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-ab.md) _2017-08-27 03:47:53 (First version)_
+1. [France-United States relations: French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/france-united-states-relations-french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-ab.md) _2018-02-06 13:49:30 (First version)_
 1. [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md) _(Current version)_
 
 ### Related:

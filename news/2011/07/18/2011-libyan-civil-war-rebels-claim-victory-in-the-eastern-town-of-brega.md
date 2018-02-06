@@ -19,8 +19,8 @@ Reports from the Syrian city of Hama say 50 protesters have been released and go
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war:Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-p2011-libyan-civil-war-prebels-claim-victory-in-the-eastern-town-of-brega.md) _2017-08-25 03:33:49 (First version)_
-2. [Arab Spring:: 2011 Libyan civil war:: Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md) _2017-08-27 03:33:56 (Update)_
+1. [Arab Spring:2011 Libyan civil war:Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-p2011-libyan-civil-war-prebels-claim-victory-in-the-eastern-town-of-brega.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war:Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md) _(Current version)_
 
 ### Related:

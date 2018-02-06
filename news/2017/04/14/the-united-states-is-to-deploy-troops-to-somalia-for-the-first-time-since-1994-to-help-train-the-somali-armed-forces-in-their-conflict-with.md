@@ -16,7 +16,7 @@ The last regular US soldiers left after the &quot;Black Hawk Down&quot; killings
 
 ### Changes:
 
-1. [War in Somalia (2009-present): The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/war-in-somalia-2009-present-the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-arm.md) _2017-08-27 03:48:09 (First version)_
+1. [War in Somalia (2009-present): The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/war-in-somalia-2009-present-the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-arm.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-armed-forces-in-their-conflict-with.md) _(Current version)_
 
 ### Related:

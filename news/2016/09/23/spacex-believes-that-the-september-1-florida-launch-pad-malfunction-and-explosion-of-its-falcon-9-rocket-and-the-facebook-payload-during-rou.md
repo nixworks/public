@@ -16,7 +16,7 @@ A SpaceX rocket that burst into flames on its launch pad at the beginning of thi
 
 ### Changes:
 
-1. [Amos-6: SpaceX believes that the September 1 Florida launch pad malfunction and explosion of its Falcon 9 rocket and the Facebook payload during routine preparation was likely due to a large breach in its upper-stage oxygen tank's helium system. ](/news/2016/09/23/amos-6-spacex-believes-that-the-september-1-florida-launch-pad-malfunction-and-explosion-of-its-falcon-9-rocket-and-the-facebook-payload-du.md) _2017-08-27 03:46:54 (First version)_
+1. [Amos-6: SpaceX believes that the September 1 Florida launch pad malfunction and explosion of its Falcon 9 rocket and the Facebook payload during routine preparation was likely due to a large breach in its upper-stage oxygen tank's helium system. ](/news/2016/09/23/amos-6-spacex-believes-that-the-september-1-florida-launch-pad-malfunction-and-explosion-of-its-falcon-9-rocket-and-the-facebook-payload-du.md) _2018-02-06 13:49:29 (First version)_
 1. [SpaceX believes that the September 1 Florida launch pad malfunction and explosion of its Falcon 9 rocket and the Facebook payload during routine preparation was likely due to a large breach in its upper-stage oxygen tank's helium system. ](/news/2016/09/23/spacex-believes-that-the-september-1-florida-launch-pad-malfunction-and-explosion-of-its-falcon-9-rocket-and-the-facebook-payload-during-rou.md) _(Current version)_
 
 ### Related:

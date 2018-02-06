@@ -16,8 +16,8 @@ A Nato adviser is shot dead by a woman police officer in Kabul, as five Afghan p
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/war-in-afghanistan-2001apresent-pa-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen-a.md) _2017-08-25 03:37:06 (First version)_
-2. [War in Afghanistan (2001-present):: A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/war-in-afghanistan-2001-present-a-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen.md) _2017-08-27 03:37:17 (Update)_
+1. [War in Afghanistan (2001-present):A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/war-in-afghanistan-2001apresent-pa-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen-a.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/war-in-afghanistan-2001-present-a-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen.md) _2018-02-06 13:49:24 (Update)_
 2. [A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/a-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen-are-killed-by-another-officer-in-north.md) _(Current version)_
 
 ### Related:

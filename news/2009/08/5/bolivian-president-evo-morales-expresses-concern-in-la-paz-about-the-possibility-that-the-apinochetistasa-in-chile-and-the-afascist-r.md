@@ -16,7 +16,7 @@ Bolivian president Evo Morales said he was quite concerned with the possibility 
 
 ### Changes:
 
-1. [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the -Pinochetistas- in Chile and the -fascist right- in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-pinochetistas-in-chile-and-the-fascist-r.md) _2017-08-27 03:25:16 (First version)_
+1. [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the -Pinochetistas- in Chile and the -fascist right- in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-pinochetistas-in-chile-and-the-fascist-r.md) _2018-02-06 13:49:19 (First version)_
 1. [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the "Pinochetistas" in Chile and the "fascist right" in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-apinochetistasa-in-chile-and-the-afascist-r.md) _(Current version)_
 
 ### Related:

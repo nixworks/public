@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/20/coca-cola-femsa-suspends-all-production-in-vene
 
 ### Changes:
 
-1. [Shortages in Venezuela: Coca-Cola FEMSA suspends all production in Venezuela due to a sugar shortage. ](/news/2016/05/20/shortages-in-venezuela-coca-cola-femsa-suspends-all-production-in-venezuela-due-to-a-sugar-shortage.md) _2017-08-27 03:46:04 (First version)_
+1. [Shortages in Venezuela: Coca-Cola FEMSA suspends all production in Venezuela due to a sugar shortage. ](/news/2016/05/20/shortages-in-venezuela-coca-cola-femsa-suspends-all-production-in-venezuela-due-to-a-sugar-shortage.md) _2018-02-06 13:49:29 (First version)_
 1. [Coca-Cola FEMSA suspends all production in Venezuela due to a sugar shortage. ](/news/2016/05/20/coca-cola-femsa-suspends-all-production-in-venezuela-due-to-a-sugar-shortage.md) _(Current version)_
 
 ### Related:

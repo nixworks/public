@@ -17,7 +17,7 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 
 ### Changes:
 
-1. [''BMJ'' finds scientists behind World Health Organization advice on stockpiling of pandemic flu drugs had financial ties with companies which stood to profit. ](/news/2010/06/4/bmj-finds-scientists-behind-world-health-organization-advice-on-stockpiling-of-pandemic-flu-drugs-had-financial-ties-with-companies-whic.md) _2017-08-25 03:28:07 (First version)_
+1. [''BMJ'' finds scientists behind World Health Organization advice on stockpiling of pandemic flu drugs had financial ties with companies which stood to profit. ](/news/2010/06/4/bmj-finds-scientists-behind-world-health-organization-advice-on-stockpiling-of-pandemic-flu-drugs-had-financial-ties-with-companies-whic.md) _2018-02-06 13:49:20 (First version)_
 1. ["BMJ" finds scientists behind World Health Organization advice on stockpiling of pandemic flu drugs had financial ties with companies which stood to profit. ](/news/2010/06/4/bmj-finds-scientists-behind-world-health-organization-advice-on-stockpiling-of-pandemic-flu-drugs-had-financial-ties-with-companies-which.md) _(Current version)_
 
 ### Related:

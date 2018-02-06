@@ -17,8 +17,8 @@ U.S. forces launched an airborne assault on a desert compound south of Baghdad o
 
 ### Changes:
 
-1. [ War in Iraq: United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/war-in-iraq-p-united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-fir.md) _2017-08-25 03:20:36 (First version)_
-2. [ War in Iraq:: United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/war-in-iraq-united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-fir.md) _2017-08-27 03:20:35 (Update)_
+1. [ War in Iraq:: United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/war-in-iraq-united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-fir.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Iraq: United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/war-in-iraq-p-united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-fir.md) _2018-02-06 13:49:17 (Update)_
 2. [ United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-first-phase-of-op.md) _(Current version)_
 
 ### Related:

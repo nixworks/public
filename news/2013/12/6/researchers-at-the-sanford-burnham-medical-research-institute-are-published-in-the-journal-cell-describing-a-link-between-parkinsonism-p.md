@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-resea
 
 ### Changes:
 
-1. [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal ''Cell'', describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism.md) _2017-08-25 03:39:38 (First version)_
+1. [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal ''Cell'', describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism.md) _2018-02-06 13:49:25 (First version)_
 1. [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal "Cell", describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism-p.md) _(Current version)_
 
 ### Related:

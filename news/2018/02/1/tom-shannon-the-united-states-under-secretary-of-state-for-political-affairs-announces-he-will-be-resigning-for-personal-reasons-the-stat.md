@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of
 
 ### Changes:
 
-1. [Tom Shannon, the United States under secretary of state for political affairs announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-state.md) _2018-02-02 08:30:23 (First version)_
+1. [Tom Shannon, the United States under secretary of state for political affairs announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-state.md) _2018-02-06 13:49:31 (First version)_
 1. [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md) _(Current version)_
 
 ### Related:

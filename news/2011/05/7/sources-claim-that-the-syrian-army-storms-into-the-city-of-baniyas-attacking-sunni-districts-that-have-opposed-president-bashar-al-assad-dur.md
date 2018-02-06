@@ -17,8 +17,8 @@ Residents form a human chain in a bid to halt troops from sweeping into the coas
 
 ### Changes:
 
-1. [2011 Syrian uprising Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-psources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md) _2017-05-25 03:34:21 (First version)_
-2. [2011 Syrian uprising: Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md) _2017-08-27 03:33:11 (Update)_
+1. [2011 Syrian uprising: Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-psources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md) _2018-02-06 13:49:22 (Update)_
 2. [Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-president-bashar-al-assad-dur.md) _(Current version)_
 
 ### Related:

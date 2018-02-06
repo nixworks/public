@@ -16,9 +16,9 @@ French and Malian forces move on Timbuktu after recapturing other northern towns
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present): French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md) _2017-05-25 03:38:51 (First version)_
-2. [Northern Mali conflict (2012-present):French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-in.md) _2017-08-25 03:37:21 (Update)_
-3. [Northern Mali conflict (2012-present):: French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012-present-french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md) _2017-08-27 03:37:31 (Update)_
+1. [Northern Mali conflict (2012-present):French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-in.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present): French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md) _2018-02-06 13:49:24 (Update)_
+3. [Northern Mali conflict (2012-present):: French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012-present-french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md) _2018-02-06 13:49:24 (Update)_
 3. [French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-into-mali.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km-2-386-sq
 
 ### Changes:
 
-1. [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km2-386-sq-miles-of-farmland-in-tanzania.md) _2017-10-02 03:29:04 (First version)_
+1. [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km2-386-sq-miles-of-farmland-in-tanzania.md) _2018-02-06 13:49:19 (First version)_
 1. [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km-2-386-sq-miles-of-farmland-in-tanzania.md) _(Current version)_
 
 ### Related:

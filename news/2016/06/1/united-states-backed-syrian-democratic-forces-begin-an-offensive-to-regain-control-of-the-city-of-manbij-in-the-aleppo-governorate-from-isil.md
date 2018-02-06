@@ -16,7 +16,7 @@ MIDEAST-CRISIS/SYRIA-OFFENSIVE (EXCLUSIVE, URGENT):EXCLUSIVE-U.S.-backed Syria f
 
 ### Changes:
 
-1. [Syrian Civil War: United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/syrian-civil-war-united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-gov.md) _2017-08-27 03:46:11 (First version)_
+1. [Syrian Civil War: United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/syrian-civil-war-united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-gov.md) _2018-02-06 13:49:29 (First version)_
 1. [United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-governorate-from-isil.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/11/20/a-small-china-eastern-airlines-jet-a-bombardier
 
 ### Changes:
 
-1. [ A small China Eastern airlines jet, a Bombardier CRJ2000, crashes in Mongolia, causing the deaths of 53 persons. ](/news/2004/11/20/a-small-china-eastern-airlines-jet-a-bombardier-crj2000-crashes-in-mongolia-causing-the-deaths-of-53-persons.md) _2017-10-17 03:17:30 (First version)_
+1. [ A small China Eastern airlines jet, a Bombardier CRJ2000, crashes in Mongolia, causing the deaths of 53 persons. ](/news/2004/11/20/a-small-china-eastern-airlines-jet-a-bombardier-crj2000-crashes-in-mongolia-causing-the-deaths-of-53-persons.md) _2018-02-06 13:49:16 (First version)_
 1. [ A small China Eastern airlines jet, a Bombardier CRJ2000, crashes in Baotou, Inner Mongolia, causing the deaths of 53 persons. ](/news/2004/11/20/a-small-china-eastern-airlines-jet-a-bombardier-crj2000-crashes-in-baotou-inner-mongolia-causing-the-deaths-of-53-persons.md) _(Current version)_
 
 ### Related:

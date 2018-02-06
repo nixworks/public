@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-
 
 ### Changes:
 
-1. [The spying charge death sentence against Vrije Universiteit Brussel guest-lecturer Ahmadreza Djalali is now executable since his Iranian lawyer did not appeal the verdict and sentence within the required three-week limit. ](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-universiteit-brussel-guest-lecturer-ahmadreza-djalali-is-now-executable-since-his-iranian-law.md) _2017-12-11 00:30:05 (First version)_
+1. [The spying charge death sentence against Vrije Universiteit Brussel guest-lecturer Ahmadreza Djalali is now executable since his Iranian lawyer did not appeal the verdict and sentence within the required three-week limit. ](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-universiteit-brussel-guest-lecturer-ahmadreza-djalali-is-now-executable-since-his-iranian-law.md) _2018-02-06 13:49:31 (First version)_
 1. [The spying charge death sentence against Vrije Universiteit Brussel guest-lecturer Ahmadreza Djalali is now executable, since his Iranian lawyer did not appeal the verdict and sentence within the required three-week limit. ](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-universiteit-brussel-guest-lecturer-ahmadreza-djalali-is-now-executable-since-his-iranian-la.md) _(Current version)_
 
 ### Related:

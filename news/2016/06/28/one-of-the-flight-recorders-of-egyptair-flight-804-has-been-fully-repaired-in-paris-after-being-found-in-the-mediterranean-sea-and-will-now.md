@@ -16,7 +16,7 @@ One of the flight recorders of crashed EgyptAir flight MS804 has been successful
 
 ### Changes:
 
-1. [EgyptAir Flight 804: One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/egyptair-flight-804-one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterran.md) _2017-08-27 03:46:21 (First version)_
+1. [EgyptAir Flight 804: One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/egyptair-flight-804-one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterran.md) _2018-02-06 13:49:29 (First version)_
 1. [One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterranean-sea-and-will-now.md) _(Current version)_
 
 ### Related:

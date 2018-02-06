@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Egypt Economic Development Conference: Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/egypt-economic-development-conference-among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-del.md) _2017-08-27 03:42:05 (First version)_
+1. [Egypt Economic Development Conference: Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/egypt-economic-development-conference-among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-del.md) _2018-02-06 13:49:26 (First version)_
 1. [Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-delivers-a-speech-during-the-investment-su.md) _(Current version)_
 
 ### Related:

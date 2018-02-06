@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-it
 
 ### Changes:
 
-1. [Syrian Civil War: ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/syrian-civil-war-isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as.md) _2017-08-27 03:43:26 (First version)_
+1. [Syrian Civil War: ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/syrian-civil-war-isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as.md) _2018-02-06 13:49:28 (First version)_
 1. [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md) _(Current version)_
 
 ### Related:

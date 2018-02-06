@@ -16,8 +16,8 @@ Most of those killed had been kidnapped and were later shot dead with their corp
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md) _2017-08-25 03:39:36 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md) _2017-08-27 03:39:54 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md) _2018-02-06 13:49:25 (Update)_
 2. [A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/a-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md) _(Current version)_
 
 ### Related:

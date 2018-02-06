@@ -19,7 +19,7 @@ Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in 
 
 ### Changes:
 
-1. [2010 Atlantic hurricane season: Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/2010-atlantic-hurricane-season-category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135.md) _2017-08-27 03:29:49 (First version)_
+1. [2010 Atlantic hurricane season: Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/2010-atlantic-hurricane-season-category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135.md) _2018-02-06 13:49:20 (First version)_
 1. [Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.md) _(Current version)_
 
 ### Related:

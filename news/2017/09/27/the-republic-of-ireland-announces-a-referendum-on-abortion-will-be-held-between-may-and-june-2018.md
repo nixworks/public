@@ -16,7 +16,7 @@ Ireland is to hold a referendum on abortion in 2018, it has been announced. A de
 
 ### Changes:
 
-1. [The Republic of Ireland announces a referendum on abortion will be held in May or June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-in-may-or-june-2018.md) _2017-09-27 19:30:05 (First version)_
+1. [The Republic of Ireland announces a referendum on abortion will be held in May or June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-in-may-or-june-2018.md) _2018-02-06 13:49:31 (First version)_
 1. [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md) _(Current version)_
 
 ### Related:

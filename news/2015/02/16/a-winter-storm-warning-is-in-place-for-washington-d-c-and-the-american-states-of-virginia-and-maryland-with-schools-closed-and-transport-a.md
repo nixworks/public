@@ -17,7 +17,7 @@ Roads and sidewalks will refreeze overnight, and several D.C. area school distri
 
 ### Changes:
 
-1. [2014-15 North American winter: A winter storm warning is in place for Washington, D.C. and the American states of Virginia and Maryland with schools closed and transport advisories in place. ](/news/2015/02/16/2014-15-north-american-winter-a-winter-storm-warning-is-in-place-for-washington-d-c-and-the-american-states-of-virginia-and-maryland-wi.md) _2017-08-27 03:41:56 (First version)_
+1. [2014-15 North American winter: A winter storm warning is in place for Washington, D.C. and the American states of Virginia and Maryland with schools closed and transport advisories in place. ](/news/2015/02/16/2014-15-north-american-winter-a-winter-storm-warning-is-in-place-for-washington-d-c-and-the-american-states-of-virginia-and-maryland-wi.md) _2018-02-06 13:49:26 (First version)_
 1. [A winter storm warning is in place for Washington, D.C. and the American states of Virginia and Maryland with schools closed and transport advisories in place. ](/news/2015/02/16/a-winter-storm-warning-is-in-place-for-washington-d-c-and-the-american-states-of-virginia-and-maryland-with-schools-closed-and-transport-a.md) _(Current version)_
 
 ### Related:

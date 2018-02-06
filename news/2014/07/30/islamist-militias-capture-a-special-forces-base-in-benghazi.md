@@ -16,7 +16,7 @@ A special forces base in Libya has been seized by militias, the fighters and off
 
 ### Changes:
 
-1. [Post-civil war violence in Libya: Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/post-civil-war-violence-in-libya-islamist-militias-capture-a-special-forces-base-in-benghazi.md) _2017-08-27 03:41:05 (First version)_
+1. [Post-civil war violence in Libya: Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/post-civil-war-violence-in-libya-islamist-militias-capture-a-special-forces-base-in-benghazi.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/islamist-militias-capture-a-special-forces-base-in-benghazi.md) _(Current version)_
 
 ### Related:

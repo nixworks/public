@@ -16,7 +16,7 @@ Third soldier dies in hospital from injuries sustained in ambush - Anadolu Agenc
 
 ### Changes:
 
-1. [PKK Rebellion (2015-present): Two Turkish Army soldiers are killed in a Kurdistan Workers' Party ambush in the southeast Diyarbakir Province. ](/news/2016/02/1/pkk-rebellion-2015-present-two-turkish-army-soldiers-are-killed-in-a-kurdistan-workers-party-ambush-in-the-southeast-diyarbaka-r-provi.md) _2017-08-27 03:44:48 (First version)_
+1. [PKK Rebellion (2015-present): Two Turkish Army soldiers are killed in a Kurdistan Workers' Party ambush in the southeast Diyarbakir Province. ](/news/2016/02/1/pkk-rebellion-2015-present-two-turkish-army-soldiers-are-killed-in-a-kurdistan-workers-party-ambush-in-the-southeast-diyarbaka-r-provi.md) _2018-02-06 13:49:28 (First version)_
 1. [Two Turkish Army soldiers are killed in a Kurdistan Workers' Party ambush in the southeast Diyarbakir Province. ](/news/2016/02/1/two-turkish-army-soldiers-are-killed-in-a-kurdistan-workers-party-ambush-in-the-southeast-diyarbaka-r-province.md) _(Current version)_
 
 ### Related:

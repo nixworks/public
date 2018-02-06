@@ -17,7 +17,7 @@ At least 33 people killed in coalition strike on school used as refugee centre n
 
 ### Changes:
 
-1. [Syrian Civil War: Raqqa offensive (2016-present): A U.S.-led coalition airstrike on a school west of Raqqa, kills at least 33 people. ](/news/2017/03/22/syrian-civil-war-raqqa-offensive-2016-present-a-u-s-led-coalition-airstrike-on-a-school-west-of-raqqa-kills-at-least-33-people.md) _2017-08-27 03:48:02 (First version)_
+1. [Syrian Civil War: Raqqa offensive (2016-present): A U.S.-led coalition airstrike on a school west of Raqqa, kills at least 33 people. ](/news/2017/03/22/syrian-civil-war-raqqa-offensive-2016-present-a-u-s-led-coalition-airstrike-on-a-school-west-of-raqqa-kills-at-least-33-people.md) _2018-02-06 13:49:30 (First version)_
 1. [A U.S.-led coalition airstrike on a school west of Raqqa, kills at least 33 people. ](/news/2017/03/22/a-u-s-led-coalition-airstrike-on-a-school-west-of-raqqa-kills-at-least-33-people.md) _(Current version)_
 
 ### Related:

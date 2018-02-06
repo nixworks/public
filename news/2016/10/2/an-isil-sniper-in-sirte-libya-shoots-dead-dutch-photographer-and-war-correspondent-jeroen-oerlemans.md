@@ -16,7 +16,7 @@ A Dutch journalist has been killed while covering a government-backed offensive 
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/libyan-civil-war-2014-present-an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _2017-08-27 03:46:56 (First version)_
+1. [Libyan Civil War (2014-present): An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/libyan-civil-war-2014-present-an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _2018-02-06 13:49:29 (First version)_
 1. [An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _(Current version)_
 
 ### Related:

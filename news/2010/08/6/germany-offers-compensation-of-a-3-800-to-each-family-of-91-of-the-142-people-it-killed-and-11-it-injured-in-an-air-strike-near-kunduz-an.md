@@ -17,7 +17,7 @@ Germany will pay $5,000 each to the families of people killed or injured in an a
 
 ### Changes:
 
-1. [Germany offers compensation of -3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md) _2017-08-27 03:29:15 (First version)_
+1. [Germany offers compensation of -3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md) _2018-02-06 13:49:20 (First version)_
 1. [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md) _(Current version)_
 
 ### Related:

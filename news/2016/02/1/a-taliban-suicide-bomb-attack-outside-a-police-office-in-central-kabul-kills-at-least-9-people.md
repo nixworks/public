@@ -18,7 +18,7 @@ Ambulances rushed to the scene but there was no immediate comment from Afghan se
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/war-in-afghanistan-2015-present-a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _2017-08-27 03:44:48 (First version)_
+1. [War in Afghanistan (2015-present): A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/war-in-afghanistan-2015-present-a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _2018-02-06 13:49:28 (First version)_
 1. [A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _(Current version)_
 
 ### Related:

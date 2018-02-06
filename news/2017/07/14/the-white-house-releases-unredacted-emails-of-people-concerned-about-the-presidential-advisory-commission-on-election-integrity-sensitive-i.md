@@ -17,7 +17,7 @@ There’s a high proportion of four-letter words.
 
 ### Changes:
 
-1. [Presidency of Donald Trump: The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/presidency-of-donald-trump-the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-ele.md) _2017-08-27 03:48:40 (First version)_
+1. [Presidency of Donald Trump: The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/presidency-of-donald-trump-the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-ele.md) _2018-02-06 13:49:30 (First version)_
 1. [The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-election-integrity-sensitive-i.md) _(Current version)_
 
 ### Related:

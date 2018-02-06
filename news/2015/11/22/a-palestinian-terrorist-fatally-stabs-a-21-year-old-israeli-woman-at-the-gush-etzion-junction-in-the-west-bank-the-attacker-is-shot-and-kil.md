@@ -17,7 +17,7 @@ Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers. ](/news/2015/11/22/israeli-palestinian-conflict-2015-a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-we.md) _2017-08-27 03:44:00 (First version)_
+1. [Israeli-Palestinian conflict (2015): A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers. ](/news/2015/11/22/israeli-palestinian-conflict-2015-a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-we.md) _2018-02-06 13:49:28 (First version)_
 1. [A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers. ](/news/2015/11/22/a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-west-bank-the-attacker-is-shot-and-kil.md) _(Current version)_
 
 ### Related:

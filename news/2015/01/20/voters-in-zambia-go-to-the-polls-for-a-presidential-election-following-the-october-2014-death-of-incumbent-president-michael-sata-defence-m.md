@@ -16,7 +16,7 @@ Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a c
 
 ### Changes:
 
-1. [Zambian presidential election, 2015: Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/zambian-presidential-election-2015-voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumb.md) _2017-08-27 03:41:49 (First version)_
+1. [Zambian presidential election, 2015: Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/zambian-presidential-election-2015-voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumb.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumbent-president-michael-sata-defence-m.md) _(Current version)_
 
 ### Related:

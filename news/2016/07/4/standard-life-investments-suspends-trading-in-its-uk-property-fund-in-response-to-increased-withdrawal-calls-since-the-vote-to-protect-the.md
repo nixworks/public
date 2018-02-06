@@ -16,7 +16,7 @@ Standard Life Investments suspends trading in its UK property fund for the first
 
 ### Changes:
 
-1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-t.md) _2017-08-25 03:46:03 (First version)_
+1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-t.md) _2018-02-06 13:49:29 (First version)_
 1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.md) _(Current version)_
 
 ### Related:

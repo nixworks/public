@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/08/15/israel-claims-that-hezbollah-fired-10-katyusha-
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-p-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md) _2017-08-25 03:18:11 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md) _2017-08-27 03:18:08 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-p-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md) _2018-02-06 13:49:17 (Update)_
 2. [ Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md) _(Current version)_
 
 ### Related:

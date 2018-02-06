@@ -18,7 +18,7 @@ The Palestinian government in the West Bank is now largely ready to govern a sta
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/israeli-palestinian-conflict-the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md) _2017-08-27 03:32:56 (First version)_
+1. [Israeli-Palestinian conflict: The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/israeli-palestinian-conflict-the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md) _2018-02-06 13:49:22 (First version)_
 1. [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md) _(Current version)_
 
 ### Related:

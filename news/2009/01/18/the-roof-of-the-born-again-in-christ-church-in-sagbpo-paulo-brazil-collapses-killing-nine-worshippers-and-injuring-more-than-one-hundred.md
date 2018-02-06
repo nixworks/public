@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-
 
 ### Changes:
 
-1. [ The roof of the Born Again in Christ Church in Sao Paulo, Brazil, collapses, killing nine worshippers and injuring more than one hundred others. ](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-sapso-paulo-brazil-collapses-killing-nine-worshippers-and-injuring-more-than-one-hundred.md) _2017-08-25 03:23:30 (First version)_
+1. [ The roof of the Born Again in Christ Church in Sao Paulo, Brazil, collapses, killing nine worshippers and injuring more than one hundred others. ](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-sapso-paulo-brazil-collapses-killing-nine-worshippers-and-injuring-more-than-one-hundred.md) _2018-02-06 13:49:18 (First version)_
 1. [ The roof of the Born Again in Christ Church in SGBPo Paulo, Brazil, collapses, killing nine worshippers and injuring more than one hundred others. ](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-sagbpo-paulo-brazil-collapses-killing-nine-worshippers-and-injuring-more-than-one-hundred.md) _(Current version)_
 
 ### Related:

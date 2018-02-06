@@ -16,7 +16,7 @@ The leaders of China and Japan hold formal talks on the sidelines of a major Asi
 
 ### Changes:
 
-1. [APEC China 2014: Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/apec-china-2014-members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md) _2017-08-27 03:41:29 (First version)_
+1. [APEC China 2014: Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/apec-china-2014-members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md) _2018-02-06 13:49:26 (First version)_
 1. [Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md) _(Current version)_
 
 ### Related:

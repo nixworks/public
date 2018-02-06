@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/08/21/2013-chinaarussia-floods-twenty-one-people-are-
 
 ### Changes:
 
-1. [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-china-russia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md) _2017-08-27 03:39:27 (First version)_
+1. [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-china-russia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md) _2018-02-06 13:49:25 (First version)_
 1. [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-chinaarussia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md) _(Current version)_
 
 ### Related:

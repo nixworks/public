@@ -15,7 +15,7 @@ Terrence McNeil of Akron faces 15 to 20 years in prison.
 
 ### Changes:
 
-1. [Terrorism in the United States: ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/terrorism-in-the-united-states-isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-cri.md) _2017-08-27 03:48:12 (First version)_
+1. [Terrorism in the United States: ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/terrorism-in-the-united-states-isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-cri.md) _2018-02-06 13:49:30 (First version)_
 1. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _(Current version)_
 
 ### Related:

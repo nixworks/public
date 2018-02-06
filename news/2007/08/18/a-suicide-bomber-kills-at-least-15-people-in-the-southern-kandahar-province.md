@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/08/18/a-suicide-bomber-kills-at-least-15-people-in-th
 
 ### Changes:
 
-1. [ Afghanistan: A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/afghanistan-p-a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md) _2017-08-25 03:20:39 (First version)_
-2. [ Afghanistan:: A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/afghanistan-a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md) _2017-08-27 03:20:37 (Update)_
+1. [ Afghanistan: A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/afghanistan-p-a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md) _2018-02-06 13:49:17 (First version)_
+2. [ Afghanistan:: A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/afghanistan-a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md) _2018-02-06 13:49:17 (Update)_
 2. [ A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md) _(Current version)_
 
 ### Related:

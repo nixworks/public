@@ -17,7 +17,7 @@ At least 35 people have died and hundreds more have been wounded in separate bom
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A truck bomb explodes in Kabul leaving at least fifteen people dead and 400 more injured. ](/news/2015/08/7/war-in-afghanistan-2015-present-a-truck-bomb-explodes-in-kabul-leaving-at-least-fifteen-people-dead-and-400-more-injured.md) _2017-08-27 03:42:47 (First version)_
+1. [War in Afghanistan (2015-present): A truck bomb explodes in Kabul leaving at least fifteen people dead and 400 more injured. ](/news/2015/08/7/war-in-afghanistan-2015-present-a-truck-bomb-explodes-in-kabul-leaving-at-least-fifteen-people-dead-and-400-more-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [A truck bomb explodes in Kabul leaving at least fifteen people dead and 400 more injured. ](/news/2015/08/7/a-truck-bomb-explodes-in-kabul-leaving-at-least-fifteen-people-dead-and-400-more-injured.md) _(Current version)_
 
 ### Related:

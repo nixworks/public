@@ -27,8 +27,8 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 
 ### Changes:
 
-1. [Middle East:Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-pisrael-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _2017-08-25 03:28:17 (First version)_
-2. [Middle East:: Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _2017-08-27 03:28:17 (Update)_
+1. [Middle East:Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-pisrael-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _2018-02-06 13:49:20 (First version)_
+2. [Middle East:: Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _2018-02-06 13:49:20 (Update)_
 2. [Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md) _(Current version)_
 
 ### Related:

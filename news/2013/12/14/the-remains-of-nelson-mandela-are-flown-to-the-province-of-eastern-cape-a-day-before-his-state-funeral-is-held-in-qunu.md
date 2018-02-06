@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/12/14/the-remains-of-nelson-mandela-are-flown-to-the-
 
 ### Changes:
 
-1. [Death and state funeral of Nelson Mandela: The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/death-and-state-funeral-of-nelson-mandela-the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-f.md) _2017-08-27 03:39:59 (First version)_
+1. [Death and state funeral of Nelson Mandela: The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/death-and-state-funeral-of-nelson-mandela-the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-f.md) _2018-02-06 13:49:25 (First version)_
 1. [The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-funeral-is-held-in-qunu.md) _(Current version)_
 
 ### Related:

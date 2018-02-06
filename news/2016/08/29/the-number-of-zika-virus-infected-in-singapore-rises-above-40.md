@@ -16,7 +16,7 @@ Tiny Singapore says it has its own outbreak of Zika virus.
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The number of Zika virus infected in Singapore rises above 40. ](/news/2016/08/29/2015-16-zika-virus-epidemic-the-number-of-zika-virus-infected-in-singapore-rises-above-40.md) _2017-08-27 03:46:44 (First version)_
+1. [2015-16 Zika virus epidemic: The number of Zika virus infected in Singapore rises above 40. ](/news/2016/08/29/2015-16-zika-virus-epidemic-the-number-of-zika-virus-infected-in-singapore-rises-above-40.md) _2018-02-06 13:49:29 (First version)_
 1. [The number of Zika virus infected in Singapore rises above 40. ](/news/2016/08/29/the-number-of-zika-virus-infected-in-singapore-rises-above-40.md) _(Current version)_
 
 ### Related:

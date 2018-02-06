@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/31/the-first-commercial-flight-from-the-united-sta
 
 ### Changes:
 
-1. [The first commercial flight from the United States to Cuba since 1961 takes place as ''JetBlue Flight 387'' lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. ''JetBlue Flight 387'' had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clar.md) _2017-08-25 03:46:21 (First version)_
+1. [The first commercial flight from the United States to Cuba since 1961 takes place as ''JetBlue Flight 387'' lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. ''JetBlue Flight 387'' had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clar.md) _2018-02-06 13:49:29 (First version)_
 1. [The first commercial flight from the United States to Cuba since 1961 takes place as "JetBlue Flight 387" lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. "JetBlue Flight 387" had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clara.md) _(Current version)_
 
 ### Related:

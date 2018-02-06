@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/06/30/time-says-that-it-will-hand-over-records-in-com
 
 ### Changes:
 
-1. [ ''Time'' says that it will hand over records in compliance with a court order in the investigation of the leak of a covert CIA operative's name. This decision in the matter of Valerie Plame could avoid jail time for one of its reporters, Matthew Cooper.](/news/2005/06/30/time-says-that-it-will-hand-over-records-in-compliance-with-a-court-order-in-the-investigation-of-the-leak-of-a-covert-cia-operative-s.md) _2017-08-25 03:16:27 (First version)_
+1. [ ''Time'' says that it will hand over records in compliance with a court order in the investigation of the leak of a covert CIA operative's name. This decision in the matter of Valerie Plame could avoid jail time for one of its reporters, Matthew Cooper.](/news/2005/06/30/time-says-that-it-will-hand-over-records-in-compliance-with-a-court-order-in-the-investigation-of-the-leak-of-a-covert-cia-operative-s.md) _2018-02-06 13:49:16 (First version)_
 1. [ "Time" says that it will hand over records in compliance with a court order in the investigation of the leak of a covert CIA operative's name. This decision in the matter of Valerie Plame could avoid jail time for one of its reporters, Matthew Cooper.](/news/2005/06/30/time-says-that-it-will-hand-over-records-in-compliance-with-a-court-order-in-the-investigation-of-the-leak-of-a-covert-cia-operative-s-na.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-s
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/war-in-north-west-pakistan-the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _2017-08-27 03:45:48 (First version)_
+1. [War in North-West Pakistan: The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/war-in-north-west-pakistan-the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _2018-02-06 13:49:28 (First version)_
 1. [The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _(Current version)_
 
 ### Related:

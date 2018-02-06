@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/11/1/at-least-14-people-are-killed-and-59-burned-when
 
 ### Changes:
 
-1. [Gadani ship-breaking yard: At least 14 people are killed and 59 burned when a gas cylinder explosion aboard an oil tanker causes a major fire at the ship-breaking yard in Gadani in Pakistan's Balochistan Province. Dozens other workers remain missing as many injured are transferred to hospitals in nearby Karachi. ](/news/2016/11/1/gadani-ship-breaking-yard-at-least-14-people-are-killed-and-59-burned-when-a-gas-cylinder-explosion-aboard-an-oil-tanker-causes-a-major-fir.md) _2017-08-27 03:47:09 (First version)_
+1. [Gadani ship-breaking yard: At least 14 people are killed and 59 burned when a gas cylinder explosion aboard an oil tanker causes a major fire at the ship-breaking yard in Gadani in Pakistan's Balochistan Province. Dozens other workers remain missing as many injured are transferred to hospitals in nearby Karachi. ](/news/2016/11/1/gadani-ship-breaking-yard-at-least-14-people-are-killed-and-59-burned-when-a-gas-cylinder-explosion-aboard-an-oil-tanker-causes-a-major-fir.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 14 people are killed and 59 burned when a gas cylinder explosion aboard an oil tanker causes a major fire at the ship-breaking yard in Gadani in Pakistan's Balochistan Province. Dozens other workers remain missing as many injured are transferred to hospitals in nearby Karachi. ](/news/2016/11/1/at-least-14-people-are-killed-and-59-burned-when-a-gas-cylinder-explosion-aboard-an-oil-tanker-causes-a-major-fire-at-the-ship-breaking-yard.md) _(Current version)_
 
 ### Related:

@@ -23,8 +23,8 @@ Hundreds of thousands of people reportedly stage fresh anti-government protests 
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising:Hundreds of thousands of people protest against the regime nationwide as the crackdown against civilians continues. ](/news/2011/07/1/arab-spring-p2011-syrian-uprising-phundreds-of-thousands-of-people-protest-against-the-regime-nationwide-as-the-crackdown-against-civilians.md) _2017-08-25 03:33:39 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising:: Hundreds of thousands of people protest against the regime nationwide as the crackdown against civilians continues. ](/news/2011/07/1/arab-spring-2011-syrian-uprising-hundreds-of-thousands-of-people-protest-against-the-regime-nationwide-as-the-crackdown-against-civilian.md) _2017-08-27 03:33:47 (Update)_
+1. [Arab Spring:2011 Syrian uprising:Hundreds of thousands of people protest against the regime nationwide as the crackdown against civilians continues. ](/news/2011/07/1/arab-spring-p2011-syrian-uprising-phundreds-of-thousands-of-people-protest-against-the-regime-nationwide-as-the-crackdown-against-civilians.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising:: Hundreds of thousands of people protest against the regime nationwide as the crackdown against civilians continues. ](/news/2011/07/1/arab-spring-2011-syrian-uprising-hundreds-of-thousands-of-people-protest-against-the-regime-nationwide-as-the-crackdown-against-civilian.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising:Hundreds of thousands of people protest against the regime nationwide as the crackdown against civilians continues. ](/news/2011/07/1/2011-syrian-uprising-hundreds-of-thousands-of-people-protest-against-the-regime-nationwide-as-the-crackdown-against-civilians-continues.md) _(Current version)_
 
 ### Related:

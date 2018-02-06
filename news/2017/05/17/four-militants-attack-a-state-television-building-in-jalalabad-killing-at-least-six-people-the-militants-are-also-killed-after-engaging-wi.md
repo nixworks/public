@@ -16,7 +16,7 @@ At least six people and four IS gunmen die in a battle at the Afghan state TV bu
 
 ### Changes:
 
-1. [War in Afghanistan: Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/war-in-afghanistan-four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-kill.md) _2017-08-27 03:48:20 (First version)_
+1. [War in Afghanistan: Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/war-in-afghanistan-four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-kill.md) _2018-02-06 13:49:30 (First version)_
 1. [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md) _(Current version)_
 
 ### Related:

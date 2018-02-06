@@ -18,8 +18,8 @@ Swiss police re-arrest ex-banker Rudolf Elmer over the passing of data to WikiLe
 
 ### Changes:
 
-1. [Rudolf Elmer:Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/rudolf-elmer-pformer-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-b.md) _2017-08-25 03:31:50 (First version)_
-2. [Rudolf Elmer:: Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/rudolf-elmer-former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of.md) _2017-08-27 03:31:58 (Update)_
+1. [Rudolf Elmer:Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/rudolf-elmer-pformer-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-b.md) _2018-02-06 13:49:21 (First version)_
+2. [Rudolf Elmer:: Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/rudolf-elmer-former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of.md) _2018-02-06 13:49:21 (Update)_
 2. [Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-breaching-switz.md) _(Current version)_
 
 ### Related:

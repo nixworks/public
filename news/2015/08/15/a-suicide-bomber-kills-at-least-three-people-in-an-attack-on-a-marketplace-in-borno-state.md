@@ -16,7 +16,7 @@ A suicide bomber killed at least three people Saturday in an attack on a market 
 
 ### Changes:
 
-1. [Boko Haram insurgency: A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/boko-haram-insurgency-a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _2017-08-27 03:42:50 (First version)_
+1. [Boko Haram insurgency: A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/boko-haram-insurgency-a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _(Current version)_
 
 ### Related:

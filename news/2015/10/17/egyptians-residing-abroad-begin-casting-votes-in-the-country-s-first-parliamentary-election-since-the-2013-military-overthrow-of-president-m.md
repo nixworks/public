@@ -17,7 +17,7 @@ Voters express the hope that Egypt will some day become a land of opportunity li
 
 ### Changes:
 
-1. [Egyptian parliamentary election, 2015: Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptian-parliamentary-election-2015-egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the.md) _2017-08-27 03:43:23 (First version)_
+1. [Egyptian parliamentary election, 2015: Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptian-parliamentary-election-2015-egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the.md) _2018-02-06 13:49:27 (First version)_
 1. [Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the-2013-military-overthrow-of-president-m.md) _(Current version)_
 
 ### Related:

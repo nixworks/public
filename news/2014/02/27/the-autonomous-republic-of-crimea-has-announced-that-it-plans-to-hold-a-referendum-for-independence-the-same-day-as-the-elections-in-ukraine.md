@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced
 
 ### Changes:
 
-1. [Crimean referendum, 2014: The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/crimean-referendum-2014-the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-a.md) _2017-08-27 03:40:24 (First version)_
+1. [Crimean referendum, 2014: The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/crimean-referendum-2014-the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-a.md) _2018-02-06 13:49:25 (First version)_
 1. [The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-as-the-elections-in-ukraine.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Investigators from the FBI peered deeper Tuesday into the life of the Orlando ni
 
 ### Changes:
 
-1. [Six of the wounded are critically ill, five remain in "guarded" condition, and 16 more are still hospitalized. Forty-four people were brought to the Orlando Regional Medical Center after the shooting. ](/news/2016/06/14/six-of-the-wounded-are-critically-ill-five-remain-in-guarded-condition-and-16-more-are-still-hospitalized-forty-four-people-were-brou.md) _2017-08-25 03:45:53 (First version)_
-2. [2016 Orlando nightclub shooting: Six of the wounded are critically ill, five remain in "guarded" condition, and 16 more are still hospitalized. Forty-four people were brought to the Orlando Regional Medical Center after the shooting. ](/news/2016/06/14/2016-orlando-nightclub-shooting-six-of-the-wounded-are-critically-ill-five-remain-in-guarded-condition-and-16-more-are-still-hospitaliz.md) _2017-08-27 03:46:15 (Update)_
+1. [Six of the wounded are critically ill, five remain in "guarded" condition, and 16 more are still hospitalized. Forty-four people were brought to the Orlando Regional Medical Center after the shooting. ](/news/2016/06/14/six-of-the-wounded-are-critically-ill-five-remain-in-guarded-condition-and-16-more-are-still-hospitalized-forty-four-people-were-brou.md) _2018-02-06 13:49:29 (First version)_
+2. [2016 Orlando nightclub shooting: Six of the wounded are critically ill, five remain in "guarded" condition, and 16 more are still hospitalized. Forty-four people were brought to the Orlando Regional Medical Center after the shooting. ](/news/2016/06/14/2016-orlando-nightclub-shooting-six-of-the-wounded-are-critically-ill-five-remain-in-guarded-condition-and-16-more-are-still-hospitaliz.md) _2018-02-06 13:49:29 (Update)_
 2. [Six of the wounded are critically ill, five remain in "guarded" condition, and 16 more are still hospitalized. Forty-four people were brought to the Orlando Regional Medical Center after the shooting. ](/news/2016/06/14/six-of-the-wounded-are-critically-ill-five-remain-in-guarded-condition-and-16-more-are-still-hospitalized-forty-four-people-were-brough.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-phi
 
 ### Changes:
 
-1. [Islamic insurgency in the Philippines:Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-pzamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-betw.md) _2017-08-25 03:39:18 (First version)_
-2. [Islamic insurgency in the Philippines:: Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-bet.md) _2017-08-27 03:39:35 (Update)_
+1. [Islamic insurgency in the Philippines:: Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-bet.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamic insurgency in the Philippines:Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-pzamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-betw.md) _2018-02-06 13:49:25 (Update)_
 2. [Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.md) _(Current version)_
 
 ### Related:

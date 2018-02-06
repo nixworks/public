@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-annou
 
 ### Changes:
 
-1. [ Japanese Prime Minister Junichiro Koizumi announces plans to withdraw his country's troops from Iraq. The 600 soldiers had been deployed to Iraq in 2004 to aid in reconstruction and sparked controversy in Japan, as it was the most ambitious overseas deployment by Japan since World War II. ](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-announces-plans-to-withdraw-his-country-s-troops-from-iraq-the-600-soldiers-had-been-deployed-t.md) _2017-08-25 03:17:48 (First version)_
+1. [ Japanese Prime Minister Junichiro Koizumi announces plans to withdraw his country's troops from Iraq. The 600 soldiers had been deployed to Iraq in 2004 to aid in reconstruction and sparked controversy in Japan, as it was the most ambitious overseas deployment by Japan since World War II. ](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-announces-plans-to-withdraw-his-country-s-troops-from-iraq-the-600-soldiers-had-been-deployed-t.md) _2018-02-06 13:49:17 (First version)_
 1. [ Japanese Prime Minister Junichiro Koizumi announces plans to withdraw his country's troops from Iraq. The 600 soldiers had been deployed to Iraq in 2004 to aid in reconstruction and sparked controversy in Japan, as it was the most ambitious overseas deployment by Japan since World War II. ](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-announces-plans-to-withdraw-his-country-s-troops-from-iraq-the-600-soldiers-had-been-deployed-to.md) _(Current version)_
 
 ### Related:

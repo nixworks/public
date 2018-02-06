@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-la
 
 ### Changes:
 
-1. [ 2016 Silk Way Airlines Antonov An-12 crash: An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/2016-silk-way-airlines-antonov-an-12-crash-an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out.md) _2017-08-27 03:46:03 (First version)_
+1. [ 2016 Silk Way Airlines Antonov An-12 crash: An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/2016-silk-way-airlines-antonov-an-12-crash-an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out.md) _2018-02-06 13:49:29 (First version)_
 1. [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md) _(Current version)_
 
 ### Related:

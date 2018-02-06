@@ -16,8 +16,8 @@ The death toll from Typhoon Haiyan that struck the central Philippines on Nov. 8
 
 ### Changes:
 
-1. [Typhoon Haiyan:The death toll passes 6,000, officially making it the deadliest recorded typhoon in the Philippines. ](/news/2013/12/13/typhoon-haiyan-pthe-death-toll-passes-6-000-officially-making-it-the-deadliest-recorded-typhoon-in-the-philippines.md) _2017-08-25 03:39:41 (First version)_
-2. [Typhoon Haiyan:: The death toll passes 6,000, officially making it the deadliest recorded typhoon in the Philippines. ](/news/2013/12/13/typhoon-haiyan-the-death-toll-passes-6-000-officially-making-it-the-deadliest-recorded-typhoon-in-the-philippines.md) _2017-08-27 03:39:59 (Update)_
+1. [Typhoon Haiyan:: The death toll passes 6,000, officially making it the deadliest recorded typhoon in the Philippines. ](/news/2013/12/13/typhoon-haiyan-the-death-toll-passes-6-000-officially-making-it-the-deadliest-recorded-typhoon-in-the-philippines.md) _2018-02-06 13:49:25 (First version)_
+2. [Typhoon Haiyan:The death toll passes 6,000, officially making it the deadliest recorded typhoon in the Philippines. ](/news/2013/12/13/typhoon-haiyan-pthe-death-toll-passes-6-000-officially-making-it-the-deadliest-recorded-typhoon-in-the-philippines.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll passes 6,000, officially making it the deadliest recorded typhoon in the Philippines. ](/news/2013/12/13/the-death-toll-passes-6-000-officially-making-it-the-deadliest-recorded-typhoon-in-the-philippines.md) _(Current version)_
 
 ### Related:

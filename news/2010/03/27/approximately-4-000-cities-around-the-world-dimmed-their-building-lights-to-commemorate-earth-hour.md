@@ -19,7 +19,7 @@ Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera 
 
 ### Changes:
 
-1. [Earth Hour: Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/earth-hour-approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _2017-08-27 03:27:26 (First version)_
+1. [Earth Hour: Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/earth-hour-approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _2018-02-06 13:49:19 (First version)_
 1. [Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _(Current version)_
 
 ### Related:

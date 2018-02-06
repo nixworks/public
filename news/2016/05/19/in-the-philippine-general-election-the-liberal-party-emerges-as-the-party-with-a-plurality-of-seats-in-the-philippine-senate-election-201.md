@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/05/19/in-the-philippine-general-election-the-liberal-
 
 ### Changes:
 
-1. [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-20.md) _2017-08-25 03:45:42 (First version)_
-2. [ Philippine general election, 2016: In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/philippine-general-election-2016-in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in.md) _2017-08-27 03:46:04 (Update)_
+1. [ Philippine general election, 2016: In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/philippine-general-election-2016-in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in.md) _2018-02-06 13:49:29 (First version)_
+2. [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-20.md) _2018-02-06 13:49:29 (Update)_
 2. [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-201.md) _(Current version)_
 
 ### Related:

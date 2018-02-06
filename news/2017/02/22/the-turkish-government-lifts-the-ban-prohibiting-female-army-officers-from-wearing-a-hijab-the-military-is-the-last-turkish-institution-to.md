@@ -16,7 +16,7 @@ The army was the last institution in officially secular Turkey with a ban on the
 
 ### Changes:
 
-1. [Headscarf rights in Turkey: The Turkish government lifts the ban prohibiting female army officers from wearing a Hijab. The military is the last Turkish institution to end the ban. ](/news/2017/02/22/headscarf-rights-in-turkey-the-turkish-government-lifts-the-ban-prohibiting-female-army-officers-from-wearing-a-hijab-the-military-is-the.md) _2017-08-27 03:47:52 (First version)_
+1. [Headscarf rights in Turkey: The Turkish government lifts the ban prohibiting female army officers from wearing a Hijab. The military is the last Turkish institution to end the ban. ](/news/2017/02/22/headscarf-rights-in-turkey-the-turkish-government-lifts-the-ban-prohibiting-female-army-officers-from-wearing-a-hijab-the-military-is-the.md) _2018-02-06 13:49:30 (First version)_
 1. [The Turkish government lifts the ban prohibiting female army officers from wearing a Hijab. The military is the last Turkish institution to end the ban. ](/news/2017/02/22/the-turkish-government-lifts-the-ban-prohibiting-female-army-officers-from-wearing-a-hijab-the-military-is-the-last-turkish-institution-to.md) _(Current version)_
 
 ### Related:

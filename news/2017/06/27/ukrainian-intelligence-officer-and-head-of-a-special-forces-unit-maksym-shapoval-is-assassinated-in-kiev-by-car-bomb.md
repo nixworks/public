@@ -17,10 +17,10 @@ Analysts believe the attack could be connected to the Russian-backed insurgency 
 
 ### Changes:
 
-1. [Ukrainian chief intelligence officer Maksim Shapoval is assassinated in Kiev.](/news/2017/06/27/ukrainian-chief-intelligence-officer-maksim-shapoval-is-assassinated-in-kiev.md) _2017-06-28 00:30:07 (First version)_
-2. [Ukrainian intelligence officer and head of a special forces unit, Maksim Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksim-shapoval-is-assassinated-in-kiev.md) _2017-06-28 09:30:06 (Update)_
-3. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev.md) _2017-06-28 13:30:06 (Update)_
-4. [Ukrainian crisis: Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-crisis-ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _2017-08-27 03:48:33 (Update)_
+1. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev.md) _2018-02-06 13:49:30 (First version)_
+2. [Ukrainian intelligence officer and head of a special forces unit, Maksim Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksim-shapoval-is-assassinated-in-kiev.md) _2018-02-06 13:49:30 (Update)_
+3. [Ukrainian crisis: Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-crisis-ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _2018-02-06 13:49:30 (Update)_
+4. [Ukrainian chief intelligence officer Maksim Shapoval is assassinated in Kiev.](/news/2017/06/27/ukrainian-chief-intelligence-officer-maksim-shapoval-is-assassinated-in-kiev.md) _2018-02-06 13:49:30 (Update)_
 4. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _(Current version)_
 
 ### Related:

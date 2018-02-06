@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ YouTube is unblocked in Brazil as a Sao Paulo state court revises its ruling for Daniela Cicarelli video clips. ](/news/2007/01/9/youtube-is-unblocked-in-brazil-as-a-sapso-paulo-state-court-revises-its-ruling-for-daniela-cicarelli-video-clips.md) _2017-08-25 03:18:59 (First version)_
+1. [ YouTube is unblocked in Brazil as a Sao Paulo state court revises its ruling for Daniela Cicarelli video clips. ](/news/2007/01/9/youtube-is-unblocked-in-brazil-as-a-sapso-paulo-state-court-revises-its-ruling-for-daniela-cicarelli-video-clips.md) _2018-02-06 13:49:17 (First version)_
 1. [ YouTube is unblocked in Brazil as a SGBPo Paulo state court revises its ruling for Daniela Cicarelli video clips. ](/news/2007/01/9/youtube-is-unblocked-in-brazil-as-a-sagbpo-paulo-state-court-revises-its-ruling-for-daniela-cicarelli-video-clips.md) _(Current version)_
 
 ### Related:

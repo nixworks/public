@@ -16,8 +16,8 @@ The court has increased the bail for the Russian senator from 5 mln to 40 mln eu
 
 ### Changes:
 
-1. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail. Kerimov was arrested November 20 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-kerimov-was-arrested-november-20-in-a-money-lau.md) _2017-12-06 15:30:05 (First version)_
-2. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md) _2017-12-07 12:30:06 (Update)_
+1. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail. Kerimov was arrested November 20 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-kerimov-was-arrested-november-20-in-a-money-lau.md) _2018-02-06 13:49:31 (First version)_
+2. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md) _2018-02-06 13:49:31 (Update)_
 2. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested on November 21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-on-no.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Civilian casualties of the war in Afghanistan rose to record levels for the seve
 
 ### Changes:
 
-1. [The United Nations reports that civilian casualties reached a record level in 2015; at least 3,545 non-combatants were killed and 7,457 injured. ](/news/2016/02/14/the-united-nations-reports-that-civilian-casualties-reached-a-record-level-in-2015-at-least-3-545-non-combatants-were-killed-and-7-457-inj.md) _2017-08-25 03:44:32 (First version)_
-2. [War in Afghanistan: The United Nations reports that civilian casualties reached a record level in 2015; at least 3,545 non-combatants were killed and 7,457 injured. ](/news/2016/02/14/war-in-afghanistan-the-united-nations-reports-that-civilian-casualties-reached-a-record-level-in-2015-at-least-3-545-non-combatants-were-k.md) _2017-08-27 03:44:54 (Update)_
+1. [War in Afghanistan: The United Nations reports that civilian casualties reached a record level in 2015; at least 3,545 non-combatants were killed and 7,457 injured. ](/news/2016/02/14/war-in-afghanistan-the-united-nations-reports-that-civilian-casualties-reached-a-record-level-in-2015-at-least-3-545-non-combatants-were-k.md) _2018-02-06 13:49:28 (First version)_
+2. [The United Nations reports that civilian casualties reached a record level in 2015; at least 3,545 non-combatants were killed and 7,457 injured. ](/news/2016/02/14/the-united-nations-reports-that-civilian-casualties-reached-a-record-level-in-2015-at-least-3-545-non-combatants-were-killed-and-7-457-inj.md) _2018-02-06 13:49:28 (Update)_
 2. [The United Nations reports that civilian casualties reached a record level in 2015; at least 3,545 non-combatants were killed and 7,457 injured. ](/news/2016/02/14/the-united-nations-reports-that-civilian-casualties-reached-a-record-level-in-2015-at-least-3-545-non-combatants-were-killed-and-7-457-inju.md) _(Current version)_
 
 ### Related:

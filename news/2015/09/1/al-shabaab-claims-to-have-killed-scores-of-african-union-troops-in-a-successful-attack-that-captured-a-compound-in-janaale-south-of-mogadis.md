@@ -17,7 +17,7 @@ Residents say Somali armed group controls AMISOM base in Janaale, but African Un
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab claims to have killed scores of African Union troops in a successful attack that captured a compound in Janaale, south of Mogadishu. ](/news/2015/09/1/war-in-somalia-2009-present-al-shabaab-claims-to-have-killed-scores-of-african-union-troops-in-a-successful-attack-that-captured-a-comp.md) _2017-08-27 03:42:56 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab claims to have killed scores of African Union troops in a successful attack that captured a compound in Janaale, south of Mogadishu. ](/news/2015/09/1/war-in-somalia-2009-present-al-shabaab-claims-to-have-killed-scores-of-african-union-troops-in-a-successful-attack-that-captured-a-comp.md) _2018-02-06 13:49:27 (First version)_
 1. [Al-Shabaab claims to have killed scores of African Union troops in a successful attack that captured a compound in Janaale, south of Mogadishu. ](/news/2015/09/1/al-shabaab-claims-to-have-killed-scores-of-african-union-troops-in-a-successful-attack-that-captured-a-compound-in-janaale-south-of-mogadis.md) _(Current version)_
 
 ### Related:

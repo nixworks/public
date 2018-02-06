@@ -16,8 +16,8 @@ Britain will help eliminate Syria¿s chemical stockpile by destroying 165 tons o
 
 ### Changes:
 
-1. [Syrian Civil War:Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-pbritain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _2017-08-25 03:39:44 (First version)_
-2. [Syrian Civil War:: Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-britain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _2017-08-27 03:40:03 (Update)_
+1. [Syrian Civil War:Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-pbritain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-britain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _2018-02-06 13:49:25 (Update)_
 2. [Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/britain-agrees-to-help-destroy-syria-s-chemical-weapons.md) _(Current version)_
 
 ### Related:

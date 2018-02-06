@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/14/a-triple-suicide-bomb-attack-in-the-northeast-n
 
 ### Changes:
 
-1. [Boko Haram insurgency: A triple suicide-bomb attack in the northeast Nigerian city of Maiduguri kills at least 7 people. ](/news/2015/10/14/boko-haram-insurgency-a-triple-suicide-bomb-attack-in-the-northeast-nigerian-city-of-maiduguri-kills-at-least-7-people.md) _2017-08-27 03:43:21 (First version)_
+1. [Boko Haram insurgency: A triple suicide-bomb attack in the northeast Nigerian city of Maiduguri kills at least 7 people. ](/news/2015/10/14/boko-haram-insurgency-a-triple-suicide-bomb-attack-in-the-northeast-nigerian-city-of-maiduguri-kills-at-least-7-people.md) _2018-02-06 13:49:27 (First version)_
 1. [A triple suicide-bomb attack in the northeast Nigerian city of Maiduguri kills at least 7 people. ](/news/2015/10/14/a-triple-suicide-bomb-attack-in-the-northeast-nigerian-city-of-maiduguri-kills-at-least-7-people.md) _(Current version)_
 
 ### Related:

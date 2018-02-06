@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-o
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/yemeni-crisis-2011-present-the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-r.md) _2017-08-27 03:41:56 (First version)_
+1. [Yemeni Crisis (2011-present): The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/yemeni-crisis-2011-present-the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-r.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-recent-shiite-houthi-rebel-take-o.md) _(Current version)_
 
 ### Related:

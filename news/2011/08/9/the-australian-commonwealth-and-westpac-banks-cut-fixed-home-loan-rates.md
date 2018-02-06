@@ -22,7 +22,7 @@ Australian stocks staged a spectacular recovery today, reversing a massive slide
 
 ### Changes:
 
-1. [August 2011 stock markets fall: The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/august-2011-stock-markets-fall-the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md) _2017-08-27 03:34:06 (First version)_
+1. [August 2011 stock markets fall: The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/august-2011-stock-markets-fall-the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md) _2018-02-06 13:49:22 (First version)_
 1. [The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md) _(Current version)_
 
 ### Related:

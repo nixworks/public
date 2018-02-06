@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-
 
 ### Changes:
 
-1. [ NASA's planned launch of STS-114, Space Shuttle ''Discovery'' from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of ''Columbia'' over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed.md) _2017-08-25 03:16:31 (First version)_
+1. [ NASA's planned launch of STS-114, Space Shuttle ''Discovery'' from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of ''Columbia'' over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed.md) _2018-02-06 13:49:16 (First version)_
 1. [ NASA's planned launch of STS-114, Space Shuttle "Discovery" from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of "Columbia" over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed-du.md) _(Current version)_
 
 ### Related:

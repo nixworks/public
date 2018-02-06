@@ -17,7 +17,7 @@ The second round of voting in a bitterly fought campaign for Jakarta&#039;s top 
 
 ### Changes:
 
-1. [Jakarta gubernatorial election, 2017: Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. ](/news/2017/04/19/jakarta-gubernatorial-election-2017-indonesian-voters-in-jakarta-return-to-the-polls-for-the-second-round-of-a-gubernatorial-election-betw.md) _2017-08-27 03:48:11 (First version)_
+1. [Jakarta gubernatorial election, 2017: Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. ](/news/2017/04/19/jakarta-gubernatorial-election-2017-indonesian-voters-in-jakarta-return-to-the-polls-for-the-second-round-of-a-gubernatorial-election-betw.md) _2018-02-06 13:49:30 (First version)_
 1. [Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. ](/news/2017/04/19/indonesian-voters-in-jakarta-return-to-the-polls-for-the-second-round-of-a-gubernatorial-election-between-incumbent-basuki-tjahaja-purnama.md) _(Current version)_
 
 ### Related:

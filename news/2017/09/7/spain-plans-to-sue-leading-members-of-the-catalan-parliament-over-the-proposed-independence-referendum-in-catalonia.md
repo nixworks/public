@@ -19,7 +19,7 @@ Members of Catalonia&#39;s parliament who voted in favour of a referendum on ind
 
 ### Changes:
 
-1. [Spain plans to sue the propagators of the independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-the-propagators-of-the-independence-referendum-in-catalonia.md) _2017-09-08 03:49:02 (First version)_
+1. [Spain plans to sue the propagators of the independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-the-propagators-of-the-independence-referendum-in-catalonia.md) _2018-02-06 13:49:31 (First version)_
 1. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _(Current version)_
 
 ### Related:

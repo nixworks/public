@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-a
 
 ### Changes:
 
-1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city Sao Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sapso-paulo-which-is-due-to-host-the-opening-ceremony-o.md) _2017-08-25 03:39:35 (First version)_
+1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city Sao Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sapso-paulo-which-is-due-to-host-the-opening-ceremony-o.md) _2018-02-06 13:49:25 (First version)_
 1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md) _(Current version)_
 
 ### Related:

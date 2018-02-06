@@ -16,7 +16,7 @@ The U.S. Senate passed a 10-year extension of sanctions against Iran on Thursday
 
 ### Changes:
 
-1. [Iran-United States relations: The United States Senate votes 99-0 in favor of a ten-year extension of the Iran Sanctions Act, the measure will now be sent to President Barack Obama to sign into law. The act was due to expire on December 31, 2016, if not renewed. ](/news/2016/12/1/iran-united-states-relations-the-united-states-senate-votes-99-0-in-favor-of-a-ten-year-extension-of-the-iran-sanctions-act-the-measure.md) _2017-08-27 03:47:21 (First version)_
+1. [Iran-United States relations: The United States Senate votes 99-0 in favor of a ten-year extension of the Iran Sanctions Act, the measure will now be sent to President Barack Obama to sign into law. The act was due to expire on December 31, 2016, if not renewed. ](/news/2016/12/1/iran-united-states-relations-the-united-states-senate-votes-99-0-in-favor-of-a-ten-year-extension-of-the-iran-sanctions-act-the-measure.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Senate votes 99-0 in favor of a ten-year extension of the Iran Sanctions Act, the measure will now be sent to President Barack Obama to sign into law. The act was due to expire on December 31, 2016, if not renewed. ](/news/2016/12/1/the-united-states-senate-votes-99-0-in-favor-of-a-ten-year-extension-of-the-iran-sanctions-act-the-measure-will-now-be-sent-to-president-ba.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ At least 30 people have been killed in a wave of car bombings across central and
 
 ##### Quaid-e-Azam Residency
 ### [The Quaid-e-Azam Residency, a heritage site in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
-_Context: Balochistan Liberation Army, Quaid-e-Azam Residency, Ziarat, Pakistan, attack_
+_Context: Balochistan Liberation Army, Ziarat, Quaid-e-Azam Residency, Pakistan, attack_
 
 ##### Pakistan
 ### [Gunmen kill two polio vaccinators in northwest Pakistan. ](/news/2013/06/16/gunmen-kill-two-polio-vaccinators-in-northwest-pakistan.md)
@@ -51,11 +51,11 @@ _Context: Australian Competition and Consumer Commission, online scam_
 
 ##### arms smuggling
 ### [Three policemen are arrested on charges of arms smuggling in Hamirpur, India. ](/news/2013/06/16/three-policemen-are-arrested-on-charges-of-arms-smuggling-in-hamirpur-india.md)
-_Context: Hamirpur, arms smuggling_
+_Context: arms smuggling, Hamirpur_
 
 ##### Google
 ### [Google announces a new system aimed at removing child pornography from the internet. ](/news/2013/06/16/google-announces-a-new-system-aimed-at-removing-child-pornography-from-the-internet.md)
-_Context: child pornography, Google_
+_Context: Google, child pornography_
 
 ##### Robert Mugabe
 ### [Robert Mugabe, president of Zimbabwe, agrees to delay elections amidst pressure from regional leaders. ](/news/2013/06/16/robert-mugabe-president-of-zimbabwe-agrees-to-delay-elections-amidst-pressure-from-regional-leaders.md)
@@ -63,7 +63,7 @@ _Context: Robert Mugabe_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama chooses a Washington, D.C. lawyer, Clifford Sloan, with experience in all three branches of government to be the U.S. State Department's Special Envoy for closing the military-run prison at the Guantanamo Bay Naval Base. ](/news/2013/06/16/u-s-president-barack-obama-chooses-a-washington-d-c-lawyer-clifford-sloan-with-experience-in-all-three-branches-of-government-to-be-the.md)
-_Context: Barack Obama, U.S. State Department, Special Envoy, Washington, D.C., military base at Guantanamo Bay_
+_Context: Special Envoy, Barack Obama, U.S. State Department, Washington, D.C., military base at Guantanamo Bay_
 
 ##### 
 ### [Kuwait's Constitutional Court dissolves the nation's parliament and orders new elections. ](/news/2013/06/16/kuwait-s-constitutional-court-dissolves-the-nation-s-parliament-and-orders-new-elections.md)

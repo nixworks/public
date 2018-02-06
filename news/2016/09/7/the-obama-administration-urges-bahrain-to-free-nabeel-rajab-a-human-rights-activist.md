@@ -16,7 +16,7 @@ The US State Department urges Bahrain to immediately release prominent human rig
 
 ### Changes:
 
-1. [Bahrain-United States relations: The Obama administration urges Bahrain to free Nabeel Rajab, a human rights activist. ](/news/2016/09/7/bahrain-united-states-relations-the-obama-administration-urges-bahrain-to-free-nabeel-rajab-a-human-rights-activist.md) _2017-08-27 03:46:47 (First version)_
+1. [Bahrain-United States relations: The Obama administration urges Bahrain to free Nabeel Rajab, a human rights activist. ](/news/2016/09/7/bahrain-united-states-relations-the-obama-administration-urges-bahrain-to-free-nabeel-rajab-a-human-rights-activist.md) _2018-02-06 13:49:29 (First version)_
 1. [The Obama administration urges Bahrain to free Nabeel Rajab, a human rights activist. ](/news/2016/09/7/the-obama-administration-urges-bahrain-to-free-nabeel-rajab-a-human-rights-activist.md) _(Current version)_
 
 ### Related:

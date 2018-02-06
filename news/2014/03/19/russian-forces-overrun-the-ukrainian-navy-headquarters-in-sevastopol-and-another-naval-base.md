@@ -18,7 +18,7 @@ By Aleksandar Vasovic and Maria Kiselyova SEVASTOPOL, Ukraine/MOSCOW (Reuters) -
 
 ### Changes:
 
-1. [2014 Crimean crisis: Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base. ](/news/2014/03/19/2014-crimean-crisis-russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md) _2017-08-27 03:40:29 (First version)_
+1. [2014 Crimean crisis: Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base. ](/news/2014/03/19/2014-crimean-crisis-russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md) _2018-02-06 13:49:25 (First version)_
 1. [Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base. ](/news/2014/03/19/russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md) _(Current version)_
 
 ### Related:

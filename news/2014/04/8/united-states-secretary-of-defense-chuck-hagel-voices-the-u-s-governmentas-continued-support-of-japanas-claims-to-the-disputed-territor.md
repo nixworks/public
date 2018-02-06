@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/8/united-states-secretary-of-defense-chuck-hagel-v
 
 ### Changes:
 
-1. [Senkaku Islands dispute:United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-punited-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims.md) _2017-08-25 03:40:16 (First version)_
-2. [Senkaku Islands dispute:: United States Secretary of Defense Chuck Hagel voices the U.S. government-s continued support of Japan-s claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-government-s-continued-support-of-japan-s-claim.md) _2017-08-27 03:40:34 (Update)_
+1. [Senkaku Islands dispute:: United States Secretary of Defense Chuck Hagel voices the U.S. government-s continued support of Japan-s claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-government-s-continued-support-of-japan-s-claim.md) _2018-02-06 13:49:26 (First version)_
+2. [Senkaku Islands dispute:United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-punited-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims.md) _2018-02-06 13:49:26 (Update)_
 2. [United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims-to-the-disputed-territor.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/insurgency-in-the-north-caucasus-a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _2017-08-27 03:44:54 (First version)_
+1. [Insurgency in the North Caucasus: A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/insurgency-in-the-north-caucasus-a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _2018-02-06 13:49:28 (First version)_
 1. [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ The White House clashed Monday with a large group of American diplomats who are 
 
 ### Changes:
 
-1. [Executive Order 13769: White House Press Secretary Sean Spicer, during the daily press briefing, says State Department officials should follow the President's program or get new jobs . ](/news/2017/01/30/executive-order-13769-white-house-press-secretary-sean-spicer-during-the-daily-press-briefing-says-state-department-officials-should-foll.md) _2017-08-27 03:47:43 (First version)_
+1. [Executive Order 13769: White House Press Secretary Sean Spicer, during the daily press briefing, says State Department officials should follow the President's program or get new jobs . ](/news/2017/01/30/executive-order-13769-white-house-press-secretary-sean-spicer-during-the-daily-press-briefing-says-state-department-officials-should-foll.md) _2018-02-06 13:49:30 (First version)_
 1. [White House Press Secretary Sean Spicer, during the daily press briefing, says State Department officials should follow the President's program or get new jobs . ](/news/2017/01/30/white-house-press-secretary-sean-spicer-during-the-daily-press-briefing-says-state-department-officials-should-follow-the-president-s-prog.md) _(Current version)_
 
 ### Related:

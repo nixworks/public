@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/2/two-police-officers-are-shot-and-killed-in-separ
 
 ### Changes:
 
-1. [2016 shootings of Des Moines police officers: Two police officers are shot and killed in separate "ambush-style" attacks in Urbandale and Des Moines, Iowa. A suspect in both shootings was identified and was captured by police two hours later. ](/news/2016/11/2/2016-shootings-of-des-moines-police-officers-two-police-officers-are-shot-and-killed-in-separate-ambush-style-attacks-in-urbandale-and-de.md) _2017-08-27 03:47:09 (First version)_
+1. [2016 shootings of Des Moines police officers: Two police officers are shot and killed in separate "ambush-style" attacks in Urbandale and Des Moines, Iowa. A suspect in both shootings was identified and was captured by police two hours later. ](/news/2016/11/2/2016-shootings-of-des-moines-police-officers-two-police-officers-are-shot-and-killed-in-separate-ambush-style-attacks-in-urbandale-and-de.md) _2018-02-06 13:49:29 (First version)_
 1. [Two police officers are shot and killed in separate "ambush-style" attacks in Urbandale and Des Moines, Iowa. A suspect in both shootings was identified and was captured by police two hours later. ](/news/2016/11/2/two-police-officers-are-shot-and-killed-in-separate-ambush-style-attacks-in-urbandale-and-des-moines-iowa-a-suspect-in-both-shootings-wa.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ After over nine years of travel in deep space, NASA&#39;s New Horizons spacecraf
 
 ### Changes:
 
-1. [NASA's ''New Horizons'' spacecraft completes a historic flyby of the dwarf planet Pluto and its five moons. Measurements, along with many high-quality photos and reams of data, were taken, including conclusive information regarding the diameter of Pluto and its moons.](/news/2015/07/14/nasa-s-new-horizons-spacecraft-completes-a-historic-flyby-of-the-dwarf-planet-pluto-and-its-five-moons-measurements-along-with-many-hi.md) _2017-08-25 03:42:25 (First version)_
+1. [NASA's ''New Horizons'' spacecraft completes a historic flyby of the dwarf planet Pluto and its five moons. Measurements, along with many high-quality photos and reams of data, were taken, including conclusive information regarding the diameter of Pluto and its moons.](/news/2015/07/14/nasa-s-new-horizons-spacecraft-completes-a-historic-flyby-of-the-dwarf-planet-pluto-and-its-five-moons-measurements-along-with-many-hi.md) _2018-02-06 13:49:27 (First version)_
 1. [NASA's "New Horizons" spacecraft completes a historic flyby of the dwarf planet Pluto and its five moons. Measurements, along with many high-quality photos and reams of data, were taken, including conclusive information regarding the diameter of Pluto and its moons.](/news/2015/07/14/nasa-s-new-horizons-spacecraft-completes-a-historic-flyby-of-the-dwarf-planet-pluto-and-its-five-moons-measurements-along-with-many-high.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ Clashes break out between rival Russian and Polish football fans in the Polish c
 
 ##### Mexican Drug War
 ### [Mexican Drug War: 14 corpses are found in an abandoned truck in the Mexican state of Veracruz. ](/news/2012/06/12/mexican-drug-war-14-corpses-are-found-in-an-abandoned-truck-in-the-mexican-state-of-veracruz.md)
-_Context: Veracruz, Mexican Drug War_
+_Context: Mexican Drug War, Veracruz_
 
 ##### fighting between Buddhists and Muslims
 ### [Unrest continues in Burma as more buildings are burned. ](/news/2012/06/12/unrest-continues-in-burma-as-more-buildings-are-burned.md)
@@ -37,7 +37,7 @@ Six flood warnings and 42 flood alerts remain in place across London and the sou
 
 ##### Israel
 ### [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md)
-_Context: international waters, Israel, Gaza flotilla raid, Turkish, Armenian genocide, Mediterranean Sea_
+_Context: international waters, Mediterranean Sea, Turkey, Gaza flotilla raid, Armenian genocide, Israel_
 
 ##### NME
 ### [The "NME" issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-falsel.md)
@@ -59,9 +59,9 @@ Tough new Kremlin measures against protests may have emboldened rather than dete
 ### [The Falkland Islands government announces that it will hold a referendum on the islands' sovereignty next year. ](/news/2012/06/12/the-falkland-islands-government-announces-that-it-will-hold-a-referendum-on-the-islands-sovereignty-next-year.md)
 The Falkland Islands government says it intends to send Argentina the message it wants to stay British, after announcing a referendum on its sovereignty.
 
-##### Turkish
+##### Turkey
 ### [Turkey announces plans to introduce elective Kurdish language course in schools, a step aimed at easing tension that Kurdish minority activists argue does not go far enough. ](/news/2012/06/12/turkey-announces-plans-to-introduce-elective-kurdish-language-course-in-schools-a-step-aimed-at-easing-tension-that-kurdish-minority-activi.md)
-_Context: Turkish, Kurdish_
+_Context: Turkey, Kurdish_
 
 ##### 8th congressional district
 ### [Voters in the 8th congressional district in the US state of Arizona go to the polls for a special election caused by the resignation of Gabrielle Giffords due to health reasons with Democrat Ron Barber duly elected. ](/news/2012/06/12/voters-in-the-8th-congressional-district-in-the-us-state-of-arizona-go-to-the-polls-for-a-special-election-caused-by-the-resignation-of-gabr.md)

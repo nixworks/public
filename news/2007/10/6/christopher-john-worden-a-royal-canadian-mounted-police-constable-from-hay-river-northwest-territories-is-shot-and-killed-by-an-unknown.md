@@ -17,7 +17,7 @@ Formats: [HTML](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted
 
 ### Changes:
 
-1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknow.md) _2017-08-25 03:21:08 (First version)_
+1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknow.md) _2018-02-06 13:49:18 (First version)_
 1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md) _(Current version)_
 
 ### Related:

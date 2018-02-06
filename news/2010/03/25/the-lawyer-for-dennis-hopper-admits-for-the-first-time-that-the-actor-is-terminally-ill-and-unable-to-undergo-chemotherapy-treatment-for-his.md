@@ -19,8 +19,8 @@ American actor Dennis Hopper is terminally ill and unable to undergo chemotherap
 
 ### Changes:
 
-1. [Dennis Hopper:The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. ](/news/2010/03/25/dennis-hopper-pthe-lawyer-for-dennis-hopper-admits-for-the-first-time-that-the-actor-is-terminally-ill-and-unable-to-undergo-chemotherapy-tr.md) _2017-08-25 03:27:28 (First version)_
-2. [Dennis Hopper:: The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. ](/news/2010/03/25/dennis-hopper-the-lawyer-for-dennis-hopper-admits-for-the-first-time-that-the-actor-is-terminally-ill-and-unable-to-undergo-chemotherapy-t.md) _2017-08-27 03:27:25 (Update)_
+1. [Dennis Hopper:: The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. ](/news/2010/03/25/dennis-hopper-the-lawyer-for-dennis-hopper-admits-for-the-first-time-that-the-actor-is-terminally-ill-and-unable-to-undergo-chemotherapy-t.md) _2018-02-06 13:49:19 (First version)_
+2. [Dennis Hopper:The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. ](/news/2010/03/25/dennis-hopper-pthe-lawyer-for-dennis-hopper-admits-for-the-first-time-that-the-actor-is-terminally-ill-and-unable-to-undergo-chemotherapy-tr.md) _2018-02-06 13:49:19 (Update)_
 2. [The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. ](/news/2010/03/25/the-lawyer-for-dennis-hopper-admits-for-the-first-time-that-the-actor-is-terminally-ill-and-unable-to-undergo-chemotherapy-treatment-for-his.md) _(Current version)_
 
 ### Related:

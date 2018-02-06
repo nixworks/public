@@ -16,7 +16,7 @@ Hillary Clinton and Donald Trump will square off for the third and final time in
 
 ### Changes:
 
-1. [United States presidential election, 2016: Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. ](/news/2016/10/19/united-states-presidential-election-2016-hillary-clinton-and-donald-trump-meet-for-the-third-presidential-debate-of-the-2016-u-s-election.md) _2017-08-27 03:47:05 (First version)_
+1. [United States presidential election, 2016: Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. ](/news/2016/10/19/united-states-presidential-election-2016-hillary-clinton-and-donald-trump-meet-for-the-third-presidential-debate-of-the-2016-u-s-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. ](/news/2016/10/19/hillary-clinton-and-donald-trump-meet-for-the-third-presidential-debate-of-the-2016-u-s-election-at-the-university-of-nevada-las-vegas.md) _(Current version)_
 
 ### Related:

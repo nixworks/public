@@ -16,7 +16,7 @@ A US judge has dismissed legal action accusing Harry Potter author JK Rowling of
 
 ### Changes:
 
-1. [A lawsuit by the estate of Adrian Jacobs against Scholastic, claiming that J. K. Rowling's ''Harry Potter and the Goblet of Fire'' plagiarised one of his own works, is dismissed by a court in the United States. ](/news/2011/01/7/a-lawsuit-by-the-estate-of-adrian-jacobs-against-scholastic-claiming-that-j-k-rowling-s-harry-potter-and-the-goblet-of-fire-plagiaris.md) _2017-08-25 03:31:40 (First version)_
+1. [A lawsuit by the estate of Adrian Jacobs against Scholastic, claiming that J. K. Rowling's ''Harry Potter and the Goblet of Fire'' plagiarised one of his own works, is dismissed by a court in the United States. ](/news/2011/01/7/a-lawsuit-by-the-estate-of-adrian-jacobs-against-scholastic-claiming-that-j-k-rowling-s-harry-potter-and-the-goblet-of-fire-plagiaris.md) _2018-02-06 13:49:21 (First version)_
 1. [A lawsuit by the estate of Adrian Jacobs against Scholastic, claiming that J. K. Rowling's "Harry Potter and the Goblet of Fire" plagiarised one of his own works, is dismissed by a court in the United States. ](/news/2011/01/7/a-lawsuit-by-the-estate-of-adrian-jacobs-against-scholastic-claiming-that-j-k-rowling-s-harry-potter-and-the-goblet-of-fire-plagiarised.md) _(Current version)_
 
 ### Related:

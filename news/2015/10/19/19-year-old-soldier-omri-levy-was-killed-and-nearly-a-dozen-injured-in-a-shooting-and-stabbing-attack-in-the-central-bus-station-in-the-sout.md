@@ -19,7 +19,7 @@ A gunman killed an Israeli soldier and wounded at least 11 other people at a bus
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): 19-year-old soldier Omri Levy was killed and nearly a dozen injured in a shooting and stabbing attack in the central bus station in the southern city of Beersheba carried out by an Israeli Bedouin Arab, 21-year old Mohind al-Okbi, who was killed after a gun battle. ](/news/2015/10/19/israeli-palestinian-conflict-2015-19-year-old-soldier-omri-levy-was-killed-and-nearly-a-dozen-injured-in-a-shooting-and-stabbing-attack.md) _2017-08-27 03:43:24 (First version)_
+1. [Israeli-Palestinian conflict (2015): 19-year-old soldier Omri Levy was killed and nearly a dozen injured in a shooting and stabbing attack in the central bus station in the southern city of Beersheba carried out by an Israeli Bedouin Arab, 21-year old Mohind al-Okbi, who was killed after a gun battle. ](/news/2015/10/19/israeli-palestinian-conflict-2015-19-year-old-soldier-omri-levy-was-killed-and-nearly-a-dozen-injured-in-a-shooting-and-stabbing-attack.md) _2018-02-06 13:49:27 (First version)_
 1. [19-year-old soldier Omri Levy was killed and nearly a dozen injured in a shooting and stabbing attack in the central bus station in the southern city of Beersheba carried out by an Israeli Bedouin Arab, 21-year old Mohind al-Okbi, who was killed after a gun battle. ](/news/2015/10/19/19-year-old-soldier-omri-levy-was-killed-and-nearly-a-dozen-injured-in-a-shooting-and-stabbing-attack-in-the-central-bus-station-in-the-sout.md) _(Current version)_
 
 ### Related:

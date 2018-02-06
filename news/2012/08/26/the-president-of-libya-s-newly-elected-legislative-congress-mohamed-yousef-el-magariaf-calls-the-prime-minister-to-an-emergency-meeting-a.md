@@ -19,7 +19,7 @@ Formats: [HTML](/news/2012/08/26/the-president-of-libya-s-newly-elected-legislat
 
 ### Changes:
 
-1. [Libya Abdullah Al-Sha Mausoleum's destruction:The president of Libya's newly elected legislative congress, Mohamed Yousef el-Magariaf, calls the prime minister to an emergency meeting, after Saturday's bulldozing of the Sidi el-Sha'ab mausoleum in Tripoli by unnamed organized assailants. ](/news/2012/08/26/libya-abdullah-al-sha-mausoleum-s-destruction-pthe-president-of-libya-s-newly-elected-legislative-congress-mohamed-yousef-el-magariaf-call.md) _2017-08-25 03:36:20 (First version)_
+1. [Libya Abdullah Al-Sha Mausoleum's destruction:The president of Libya's newly elected legislative congress, Mohamed Yousef el-Magariaf, calls the prime minister to an emergency meeting, after Saturday's bulldozing of the Sidi el-Sha'ab mausoleum in Tripoli by unnamed organized assailants. ](/news/2012/08/26/libya-abdullah-al-sha-mausoleum-s-destruction-pthe-president-of-libya-s-newly-elected-legislative-congress-mohamed-yousef-el-magariaf-call.md) _2018-02-06 13:49:23 (First version)_
 1. [The president of Libya's newly elected legislative congress, Mohamed Yousef el-Magariaf, calls the prime minister to an emergency meeting, after Saturday's bulldozing of the Sidi el-Sha'ab mausoleum in Tripoli by unnamed organized assailants. ](/news/2012/08/26/the-president-of-libya-s-newly-elected-legislative-congress-mohamed-yousef-el-magariaf-calls-the-prime-minister-to-an-emergency-meeting-a.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ U.S. stocks rose, rebounding from three days of losses and reversing a worldwide
 
 ### Changes:
 
-1. [Greek economic crisis:The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-pthe-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-thr.md) _2017-08-25 03:33:36 (First version)_
-2. [Greek economic crisis:: The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-the-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-th.md) _2017-08-27 03:33:43 (Update)_
+1. [Greek economic crisis:: The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-the-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-th.md) _2018-02-06 13:49:22 (First version)_
+2. [Greek economic crisis:The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-pthe-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-thr.md) _2018-02-06 13:49:22 (Update)_
 2. [The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/the-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-through-a-78-billion-euro.md) _(Current version)_
 
 ### Related:

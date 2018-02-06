@@ -17,7 +17,7 @@ Tehran has responded to the latest US sanctions over Iran’s alleged human righ
 
 ### Changes:
 
-1. [Iran says the January 12 U.S. sanctions on Chief Justice Sadeq Amoli-Larijani are "beyond all [...] red lines." ](/news/2018/01/13/iran-says-the-january-12-u-s-sanctions-on-chief-justice-sadeq-amoli-larijani-are-beyond-all-red-lines.md) _2018-01-13 23:30:05 (First version)_
+1. [Iran says the January 12 U.S. sanctions on Chief Justice Sadeq Amoli-Larijani are "beyond all [...] red lines." ](/news/2018/01/13/iran-says-the-january-12-u-s-sanctions-on-chief-justice-sadeq-amoli-larijani-are-beyond-all-red-lines.md) _2018-02-06 13:49:31 (First version)_
 1. [Iran's Ministry of Foreign Affairs says the January 12 U.S. sanctions on Chief Justice Sadeq Amoli-Larijani are "beyond all [...] red lines." ](/news/2018/01/13/iran-s-ministry-of-foreign-affairs-says-the-january-12-u-s-sanctions-on-chief-justice-sadeq-amoli-larijani-are-beyond-all-red-lines.md) _(Current version)_
 
 ### Related:

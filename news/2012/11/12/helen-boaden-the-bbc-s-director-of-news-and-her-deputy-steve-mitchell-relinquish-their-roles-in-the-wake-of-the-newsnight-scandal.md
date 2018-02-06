@@ -18,8 +18,8 @@ An official report into the BBC&#39;s Newsnight programme on 2 November has conc
 
 ### Changes:
 
-1. [''Newsnight'' controversy:Helen Boaden, the BBC's Director of News, and her deputy Steve Mitchell relinquish their roles in the wake of the ''Newsnight'' scandal. ](/news/2012/11/12/newsnight-controversy-phelen-boaden-the-bbc-s-director-of-news-and-her-deputy-steve-mitchell-relinquish-their-roles-in-the-wake-of-the.md) _2017-08-25 03:36:48 (First version)_
-2. ["Newsnight" controversy:: Helen Boaden, the BBC's Director of News, and her deputy Steve Mitchell relinquish their roles in the wake of the "Newsnight" scandal. ](/news/2012/11/12/newsnight-controversy-helen-boaden-the-bbc-s-director-of-news-and-her-deputy-steve-mitchell-relinquish-their-roles-in-the-wake-of-the.md) _2017-08-27 03:36:58 (Update)_
+1. [''Newsnight'' controversy:Helen Boaden, the BBC's Director of News, and her deputy Steve Mitchell relinquish their roles in the wake of the ''Newsnight'' scandal. ](/news/2012/11/12/newsnight-controversy-phelen-boaden-the-bbc-s-director-of-news-and-her-deputy-steve-mitchell-relinquish-their-roles-in-the-wake-of-the.md) _2018-02-06 13:49:24 (First version)_
+2. ["Newsnight" controversy:: Helen Boaden, the BBC's Director of News, and her deputy Steve Mitchell relinquish their roles in the wake of the "Newsnight" scandal. ](/news/2012/11/12/newsnight-controversy-helen-boaden-the-bbc-s-director-of-news-and-her-deputy-steve-mitchell-relinquish-their-roles-in-the-wake-of-the.md) _2018-02-06 13:49:24 (Update)_
 2. [Helen Boaden, the BBC's Director of News, and her deputy Steve Mitchell relinquish their roles in the wake of the "Newsnight" scandal. ](/news/2012/11/12/helen-boaden-the-bbc-s-director-of-news-and-her-deputy-steve-mitchell-relinquish-their-roles-in-the-wake-of-the-newsnight-scandal.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/20/georgia-s-ministry-of-foreign-affairs-expresses
 
 ### Changes:
 
-1. [Abkhaz-Georgian conflict: Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. ](/news/2016/05/20/abkhaz-georgian-conflict-georgia-s-ministry-of-foreign-affairs-expresses-shock-and-deep-concern-after-a-georgian-citizen-31-year-old-g.md) _2017-08-27 03:46:05 (First version)_
+1. [Abkhaz-Georgian conflict: Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. ](/news/2016/05/20/abkhaz-georgian-conflict-georgia-s-ministry-of-foreign-affairs-expresses-shock-and-deep-concern-after-a-georgian-citizen-31-year-old-g.md) _2018-02-06 13:49:29 (First version)_
 1. [Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. ](/news/2016/05/20/georgia-s-ministry-of-foreign-affairs-expresses-shock-and-deep-concern-after-a-georgian-citizen-31-year-old-giga-otkhozoria-was-shot-dea.md) _(Current version)_
 
 ### Related:

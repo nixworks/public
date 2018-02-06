@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/11/dr-craig-spencer-a-doctors-without-borders-volu
 
 ### Changes:
 
-1. [Ebola virus cases in the United States: Dr. Craig Spencer, a Doctors Without Borders volunteer, was declared free of the Ebola virus and released from a New York City hospital. His was the last Ebola case being treated in the United States. ](/news/2014/11/11/ebola-virus-cases-in-the-united-states-dr-craig-spencer-a-doctors-without-borders-volunteer-was-declared-free-of-the-ebola-virus-and-rel.md) _2017-08-27 03:41:30 (First version)_
+1. [Ebola virus cases in the United States: Dr. Craig Spencer, a Doctors Without Borders volunteer, was declared free of the Ebola virus and released from a New York City hospital. His was the last Ebola case being treated in the United States. ](/news/2014/11/11/ebola-virus-cases-in-the-united-states-dr-craig-spencer-a-doctors-without-borders-volunteer-was-declared-free-of-the-ebola-virus-and-rel.md) _2018-02-06 13:49:26 (First version)_
 1. [Dr. Craig Spencer, a Doctors Without Borders volunteer, was declared free of the Ebola virus and released from a New York City hospital. His was the last Ebola case being treated in the United States. ](/news/2014/11/11/dr-craig-spencer-a-doctors-without-borders-volunteer-was-declared-free-of-the-ebola-virus-and-released-from-a-new-york-city-hospital-his.md) _(Current version)_
 
 ### Related:

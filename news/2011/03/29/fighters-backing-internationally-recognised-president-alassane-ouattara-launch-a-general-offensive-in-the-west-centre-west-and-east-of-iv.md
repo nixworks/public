@@ -16,8 +16,8 @@ Fighting&#x20;raged&#x20;in&#x20;a&#x20;key&#x20;town&#x20;in&#x20;western&#x20;
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:Fighters backing internationally recognised president Alassane Ouattara launch a "general offensive" in the west, centre-west and east of Ivory Coast. ](/news/2011/03/29/2010-2011-ivorian-crisis-pfighters-backing-internationally-recognised-president-alassane-ouattara-launch-a-general-offensive-in-the-west.md) _2017-08-25 03:32:40 (First version)_
-2. [2010-2011 Ivorian crisis:: Fighters backing internationally recognised president Alassane Ouattara launch a "general offensive" in the west, centre-west and east of Ivory Coast. ](/news/2011/03/29/2010-2011-ivorian-crisis-fighters-backing-internationally-recognised-president-alassane-ouattara-launch-a-general-offensive-in-the-west.md) _2017-08-27 03:32:48 (Update)_
+1. [2010-2011 Ivorian crisis:Fighters backing internationally recognised president Alassane Ouattara launch a "general offensive" in the west, centre-west and east of Ivory Coast. ](/news/2011/03/29/2010-2011-ivorian-crisis-pfighters-backing-internationally-recognised-president-alassane-ouattara-launch-a-general-offensive-in-the-west.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis:: Fighters backing internationally recognised president Alassane Ouattara launch a "general offensive" in the west, centre-west and east of Ivory Coast. ](/news/2011/03/29/2010-2011-ivorian-crisis-fighters-backing-internationally-recognised-president-alassane-ouattara-launch-a-general-offensive-in-the-west.md) _2018-02-06 13:49:22 (Update)_
 2. [Fighters backing internationally recognised president Alassane Ouattara launch a "general offensive" in the west, centre-west and east of Ivory Coast. ](/news/2011/03/29/fighters-backing-internationally-recognised-president-alassane-ouattara-launch-a-general-offensive-in-the-west-centre-west-and-east-of-iv.md) _(Current version)_
 
 ### Related:

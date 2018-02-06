@@ -13,7 +13,7 @@ Turkish warplanes shoot down a Russian military aircraft on the border with Syri
 
 ##### Libyan Civil War (2014-present)
 ### [A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md)
-_Context: Libya, Tripoli, Libyan Civil War (2014-present)_
+_Context: Tripoli, Libyan Civil War (2014-present), Libya_
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md)
@@ -41,7 +41,7 @@ Of the 120 major outbreaks during 2010 to 2014, fruits, leafy greens, and beef w
 
 ##### United Kingdom withdrawal from the European Union
 ### [According to an opinion poll, a majority of British citizens now want the United Kingdom to leave the European Union as voter anxiety rises over the bloc's handling of a crisis provoked by an influx of migrants into Europe. A referendum on the United Kingdom's EU membership is scheduled to take place before the end of 2017. ](/news/2015/11/24/according-to-an-opinion-poll-a-majority-of-british-citizens-now-want-the-united-kingdom-to-leave-the-european-union-as-voter-anxiety-rises.md)
-_Context: British, European migrant crisis, United Kingdom withdrawal from the European Union, European Union, United Kingdom European Union membership referendum_
+_Context: European Union, United Kingdom withdrawal from the European Union, European migrant crisis, United Kingdom European Union membership referendum, United Kingdom_
 
 ##### European migrant crisis
 ### [Sweden will introduce tighter border controls and asylum rules in a bid to reduce the number of asylum seekers entering the country. Sweden expects up to 190,000 asylum seekers to reach its borders this year and says its reception system cannot cope. "The situation is untenable", according to Swedish prime minister Stefan Lofven who told reporters, "to put it bluntly, more people will have to seek asylum and get protection in other European countries". ](/news/2015/11/24/sweden-will-introduce-tighter-border-controls-and-asylum-rules-in-a-bid-to-reduce-the-number-of-asylum-seekers-entering-the-country-sweden.md)
@@ -61,7 +61,7 @@ A bomb exploded outside the offices of a Greek business federation in central At
 
 ##### Chicago
 ### [Chicago, Illinois police officer Jason Van Dyke is charged with first-degree murder for the October 2014 shooting death of Laquan McDonald, a 17-year-old boy armed with a 3-inch knife. The charge comes shortly before the release of the police video showing the shooting. Chicago Mayor Rahm Emanuel meets with community leaders to discuss the video's release and the potential ramifications for the city. ](/news/2015/11/24/chicago-illinois-police-officer-jason-van-dyke-is-charged-with-first-degree-murder-for-the-october-2014-shooting-death-of-laquan-mcdonald.md)
-_Context: Laquan McDonald, Rahm Emanuel, Chicago, Illinois_
+_Context: Illinois, Rahm Emanuel, Laquan McDonald, Chicago_
 
 ##### 2015 Roubaix shootings
 ### [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md)
@@ -77,7 +77,7 @@ The gunfire came as Minneapolis grapples with protests over one police shooting 
 
 ##### U.S. reactions to November 2015 Paris attacks
 ### [The American Civil Liberties Union of Indiana sues Indiana Governor Mike Pence over his decision to block Syrian refugees from resettling in the state. The ACLU, on behalf of Indianapolis-based nonprofit Exodus Refugee Immigration, accuses Pence of violating the Equal Protection Clause of the Constitution by accepting refugees from other countries but not those from Syria. ](/news/2015/11/24/the-american-civil-liberties-union-of-indiana-sues-indiana-governor-mike-pence-over-his-decision-to-block-syrian-refugees-from-resettling-in.md)
-_Context: Syria, refugees from Syria, American Civil Liberties Union, Indiana, Constitution, nonprofit, Mike Pence, U.S. reactions to November 2015 Paris attacks, Equal Protection Clause, Exodus Refugee Immigration, Governor of Indiana, Indianapolis_
+_Context: U.S. reactions to November 2015 Paris attacks, Syria, nonprofit, Indiana, Governor of Indiana, Equal Protection Clause, Constitution, American Civil Liberties Union, Indianapolis, Mike Pence, Exodus Refugee Immigration, refugees from Syria_
 
 ##### Antonio Costa
 ### [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md)

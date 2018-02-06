@@ -16,8 +16,8 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 
 ### Changes:
 
-1. [War in North-West Pakistan:A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirista.md) _2017-08-25 03:37:13 (First version)_
-2. [War in North-West Pakistan:: A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirist.md) _2017-08-27 03:37:23 (Update)_
+1. [War in North-West Pakistan:A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirista.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirist.md) _2018-02-06 13:49:24 (Update)_
 2. [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md) _(Current version)_
 
 ### Related:

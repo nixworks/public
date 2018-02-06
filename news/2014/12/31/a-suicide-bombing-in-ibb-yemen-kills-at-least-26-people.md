@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/31/a-suicide-bombing-in-ibb-yemen-kills-at-least-2
 
 ### Changes:
 
-1. [Terrorism in Yemen: A suicide bombing in Ibb, Yemen, kills at least 26 people. ](/news/2014/12/31/terrorism-in-yemen-a-suicide-bombing-in-ibb-yemen-kills-at-least-26-people.md) _2017-08-27 03:41:42 (First version)_
+1. [Terrorism in Yemen: A suicide bombing in Ibb, Yemen, kills at least 26 people. ](/news/2014/12/31/terrorism-in-yemen-a-suicide-bombing-in-ibb-yemen-kills-at-least-26-people.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bombing in Ibb, Yemen, kills at least 26 people. ](/news/2014/12/31/a-suicide-bombing-in-ibb-yemen-kills-at-least-26-people.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ The move deepens tensions between Saudi Arabia and its chief regional rival.
 
 ### Changes:
 
-1. [The Gulf Cooperation Council formally designates Lebanon's Hezbollah militia a terrorist organization. The GCC member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. ](/news/2016/03/2/the-gulf-cooperation-council-formally-designates-lebanon-s-hezbollah-militia-a-terrorist-organization-the-gcc-member-states-are-bahrain.md) _2017-08-25 03:44:45 (First version)_
+1. [The Gulf Cooperation Council formally designates Lebanon's Hezbollah militia a terrorist organization. The GCC member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. ](/news/2016/03/2/the-gulf-cooperation-council-formally-designates-lebanon-s-hezbollah-militia-a-terrorist-organization-the-gcc-member-states-are-bahrain.md) _2018-02-06 13:49:28 (First version)_
 1. [The Gulf Cooperation Council formally designates Lebanon's Hezbollah militia a terrorist organization. The GCC member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. ](/news/2016/03/2/the-gulf-cooperation-council-formally-designates-lebanon-s-hezbollah-militia-a-terrorist-organization-the-gcc-member-states-are-bahrain-ku.md) _(Current version)_
 
 ### Related:

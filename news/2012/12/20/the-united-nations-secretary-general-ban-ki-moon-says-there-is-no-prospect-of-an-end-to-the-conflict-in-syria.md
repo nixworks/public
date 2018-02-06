@@ -16,8 +16,8 @@ UN chief Ban Ki-moon says political settlement is only way to stop violence, and
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-pthe-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _2017-08-25 03:37:05 (First version)_
-2. [Syrian civil war:: The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-the-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _2017-08-27 03:37:16 (Update)_
+1. [Syrian civil war:: The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-the-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-pthe-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _2018-02-06 13:49:24 (Update)_
 2. [The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/the-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md) _(Current version)_
 
 ### Related:

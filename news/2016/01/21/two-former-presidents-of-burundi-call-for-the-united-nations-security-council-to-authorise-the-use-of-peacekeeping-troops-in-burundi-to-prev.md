@@ -16,7 +16,7 @@ Two former Burundi presidents pleaded for the United Nations Security Council on
 
 ### Changes:
 
-1. [Burundian unrest (2015-present): Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/burundian-unrest-2015-present-two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-pea.md) _2017-08-27 03:44:44 (First version)_
+1. [Burundian unrest (2015-present): Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/burundian-unrest-2015-present-two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-pea.md) _2018-02-06 13:49:28 (First version)_
 1. [Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-peacekeeping-troops-in-burundi-to-prev.md) _(Current version)_
 
 ### Related:

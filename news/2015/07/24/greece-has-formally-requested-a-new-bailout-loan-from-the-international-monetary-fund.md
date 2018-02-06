@@ -16,7 +16,7 @@ Greek officials have invited the International Monetary Fund to join talks with 
 
 ### Changes:
 
-1. [Greek government-debt crisis timeline: Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greek-government-debt-crisis-timeline-greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md) _2017-08-27 03:42:44 (First version)_
+1. [Greek government-debt crisis timeline: Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greek-government-debt-crisis-timeline-greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md) _2018-02-06 13:49:27 (First version)_
 1. [Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md) _(Current version)_
 
 ### Related:

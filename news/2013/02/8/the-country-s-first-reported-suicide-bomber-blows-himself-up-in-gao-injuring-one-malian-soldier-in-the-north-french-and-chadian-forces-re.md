@@ -17,8 +17,8 @@ GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a m
 
 ### Changes:
 
-1. [Northern Mali conflict (2012-present):The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012apresent-pthe-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier-i.md) _2017-08-25 03:37:28 (First version)_
-2. [Northern Mali conflict (2012-present):: The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012-present-the-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier.md) _2017-08-27 03:37:38 (Update)_
+1. [Northern Mali conflict (2012-present):The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012apresent-pthe-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier-i.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict (2012-present):: The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012-present-the-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier.md) _2018-02-06 13:49:24 (Update)_
 2. [The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/the-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier-in-the-north-french-and-chadian-forces-re.md) _(Current version)_
 
 ### Related:

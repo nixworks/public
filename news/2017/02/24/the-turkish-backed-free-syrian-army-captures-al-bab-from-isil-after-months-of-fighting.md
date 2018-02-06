@@ -19,7 +19,7 @@ The victory follows a long and bloody operation to drive the militants from Turk
 
 ### Changes:
 
-1. [Syrian Civil War: Battle of al-Bab: The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/syrian-civil-war-battle-of-al-bab-the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _2017-08-27 03:47:53 (First version)_
+1. [Syrian Civil War: Battle of al-Bab: The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/syrian-civil-war-battle-of-al-bab-the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _2018-02-06 13:49:30 (First version)_
 1. [The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _(Current version)_
 
 ### Related:

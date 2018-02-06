@@ -16,8 +16,8 @@ US President Barack Obama hosts the exiled Tibetan spiritual leader the Dalai La
 
 ### Changes:
 
-1. [Chinese-U.S. relations:The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/chinese-u-s-relations-pthe-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-th.md) _2017-08-25 03:40:04 (First version)_
-2. [Chinese-U.S. relations:: The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/chinese-u-s-relations-the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-t.md) _2017-08-27 03:40:22 (Update)_
+1. [Chinese-U.S. relations:: The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/chinese-u-s-relations-the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-t.md) _2018-02-06 13:49:25 (First version)_
+2. [Chinese-U.S. relations:The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/chinese-u-s-relations-pthe-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-th.md) _2018-02-06 13:49:25 (Update)_
 2. [The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-the-meeting.md) _(Current version)_
 
 ### Related:

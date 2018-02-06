@@ -16,7 +16,7 @@ Last week’s four-day annual plenary meeting of the diamond-regulating Kimberle
 
 ### Changes:
 
-1. [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of -blood diamond- exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-blood-diamond-exports-from.md) _2017-08-27 03:31:02 (First version)_
+1. [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of -blood diamond- exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-blood-diamond-exports-from.md) _2018-02-06 13:49:21 (First version)_
 1. [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of "blood diamond" exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-ablood-diamonda-exports-from.md) _(Current version)_
 
 ### Related:

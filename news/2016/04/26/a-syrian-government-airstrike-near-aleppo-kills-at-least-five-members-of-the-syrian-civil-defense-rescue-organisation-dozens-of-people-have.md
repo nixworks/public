@@ -16,7 +16,7 @@ Attacks by government forces and rebels killed at least 30 people, including eig
 
 ### Changes:
 
-1. [Syrian Civil War: A Syrian government airstrike near Aleppo kills at least five members of the Syrian Civil Defense rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. ](/news/2016/04/26/syrian-civil-war-a-syrian-government-airstrike-near-aleppo-kills-at-least-five-members-of-the-syrian-civil-defense-rescue-organisation-doz.md) _2017-08-27 03:45:51 (First version)_
+1. [Syrian Civil War: A Syrian government airstrike near Aleppo kills at least five members of the Syrian Civil Defense rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. ](/news/2016/04/26/syrian-civil-war-a-syrian-government-airstrike-near-aleppo-kills-at-least-five-members-of-the-syrian-civil-defense-rescue-organisation-doz.md) _2018-02-06 13:49:28 (First version)_
 1. [A Syrian government airstrike near Aleppo kills at least five members of the Syrian Civil Defense rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. ](/news/2016/04/26/a-syrian-government-airstrike-near-aleppo-kills-at-least-five-members-of-the-syrian-civil-defense-rescue-organisation-dozens-of-people-have.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/12/31/a-high-court-in-malaysia-rules-that-the-country
 
 ### Changes:
 
-1. [ A High Court in Malaysia rules that the country's Christians have a constitutional right to use the word ''Allah'' in reference to God, declaring the government's ban on the use of ''Allah'' by non-Muslims as unconstitutional. ](/news/2009/12/31/a-high-court-in-malaysia-rules-that-the-country-s-christians-have-a-constitutional-right-to-use-the-word-allah-in-reference-to-god-dec.md) _2017-08-25 03:26:45 (First version)_
+1. [ A High Court in Malaysia rules that the country's Christians have a constitutional right to use the word ''Allah'' in reference to God, declaring the government's ban on the use of ''Allah'' by non-Muslims as unconstitutional. ](/news/2009/12/31/a-high-court-in-malaysia-rules-that-the-country-s-christians-have-a-constitutional-right-to-use-the-word-allah-in-reference-to-god-dec.md) _2018-02-06 13:49:19 (First version)_
 1. [ A High Court in Malaysia rules that the country's Christians have a constitutional right to use the word "Allah" in reference to God, declaring the government's ban on the use of "Allah" by non-Muslims as unconstitutional. ](/news/2009/12/31/a-high-court-in-malaysia-rules-that-the-country-s-christians-have-a-constitutional-right-to-use-the-word-allah-in-reference-to-god-decla.md) _(Current version)_
 
 ### Related:

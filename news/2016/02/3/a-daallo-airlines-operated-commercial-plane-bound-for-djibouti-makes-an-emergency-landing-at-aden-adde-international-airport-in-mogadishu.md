@@ -16,7 +16,7 @@ An investigation is launched in Somalia after a plane made an emergency landing 
 
 ### Changes:
 
-1. [Daallo Airlines Flight 159: A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/daallo-airlines-flight-159-a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-interna.md) _2017-08-27 03:44:49 (First version)_
+1. [Daallo Airlines Flight 159: A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/daallo-airlines-flight-159-a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-interna.md) _2018-02-06 13:49:28 (First version)_
 1. [A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-international-airport-in-mogadishu.md) _(Current version)_
 
 ### Related:

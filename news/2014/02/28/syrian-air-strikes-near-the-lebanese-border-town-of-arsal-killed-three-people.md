@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/02/28/syrian-air-strikes-near-the-lebanese-border-tow
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-civil-war-psyrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md) _2017-08-25 03:40:06 (First version)_
-2. [Syrian Civil War:: Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-civil-war-syrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md) _2017-08-27 03:40:24 (Update)_
+1. [Syrian Civil War:: Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-civil-war-syrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-civil-war-psyrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md) _(Current version)_
 
 ### Related:

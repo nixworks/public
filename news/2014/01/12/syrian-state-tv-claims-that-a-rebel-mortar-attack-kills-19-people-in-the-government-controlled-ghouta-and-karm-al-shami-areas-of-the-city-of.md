@@ -16,8 +16,8 @@ A MORTAR attack has killed at least 19 people in the central Syrian city of Homs
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian State TV claims that a rebel mortar attack kills 19 people in the government-controlled Ghouta and Karm al shami areas of the city of Homs. ](/news/2014/01/12/syrian-civil-war-psyrian-state-tv-claims-that-a-rebel-mortar-attack-kills-19-people-in-the-government-controlled-ghouta-and-karm-al-shami-ar.md) _2017-08-25 03:39:51 (First version)_
-2. [Syrian Civil War:: Syrian State TV claims that a rebel mortar attack kills 19 people in the government-controlled Ghouta and Karm al shami areas of the city of Homs. ](/news/2014/01/12/syrian-civil-war-syrian-state-tv-claims-that-a-rebel-mortar-attack-kills-19-people-in-the-government-controlled-ghouta-and-karm-al-shami-a.md) _2017-08-27 03:40:09 (Update)_
+1. [Syrian Civil War:: Syrian State TV claims that a rebel mortar attack kills 19 people in the government-controlled Ghouta and Karm al shami areas of the city of Homs. ](/news/2014/01/12/syrian-civil-war-syrian-state-tv-claims-that-a-rebel-mortar-attack-kills-19-people-in-the-government-controlled-ghouta-and-karm-al-shami-a.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Syrian State TV claims that a rebel mortar attack kills 19 people in the government-controlled Ghouta and Karm al shami areas of the city of Homs. ](/news/2014/01/12/syrian-civil-war-psyrian-state-tv-claims-that-a-rebel-mortar-attack-kills-19-people-in-the-government-controlled-ghouta-and-karm-al-shami-ar.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian State TV claims that a rebel mortar attack kills 19 people in the government-controlled Ghouta and Karm al shami areas of the city of Homs. ](/news/2014/01/12/syrian-state-tv-claims-that-a-rebel-mortar-attack-kills-19-people-in-the-government-controlled-ghouta-and-karm-al-shami-areas-of-the-city-of.md) _(Current version)_
 
 ### Related:

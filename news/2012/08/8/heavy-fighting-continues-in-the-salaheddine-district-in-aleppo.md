@@ -15,8 +15,8 @@ Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier 
 
 ### Changes:
 
-1. [Syrian civil war:Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-pheavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _2017-08-25 03:36:14 (First version)_
-2. [Syrian civil war:: Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _2017-08-27 03:36:25 (Update)_
+1. [Syrian civil war:Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-pheavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _2018-02-06 13:49:23 (Update)_
 2. [Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md) _(Current version)_
 
 ### Related:

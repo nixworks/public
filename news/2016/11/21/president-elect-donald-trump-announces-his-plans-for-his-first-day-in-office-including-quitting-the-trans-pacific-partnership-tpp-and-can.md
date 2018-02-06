@@ -16,7 +16,7 @@ Donald Trump says the US will quit the Trans-Pacific Partnership trade deal when
 
 ### Changes:
 
-1. [Presidency of Donald Trump: President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/presidency-of-donald-trump-president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacif.md) _2017-08-27 03:47:16 (First version)_
+1. [Presidency of Donald Trump: President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/presidency-of-donald-trump-president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacif.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacific-partnership-tpp-and-can.md) _(Current version)_
 
 ### Related:

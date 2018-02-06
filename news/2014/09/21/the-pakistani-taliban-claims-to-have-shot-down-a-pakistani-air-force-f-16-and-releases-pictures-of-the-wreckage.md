@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/09/21/the-pakistani-taliban-claims-to-have-shot-down-
 
 ### Changes:
 
-1. [Terrorism in Pakistan: The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/terrorism-in-pakistan-the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md) _2017-08-27 03:41:18 (First version)_
+1. [Terrorism in Pakistan: The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/terrorism-in-pakistan-the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md) _(Current version)_
 
 ### Related:

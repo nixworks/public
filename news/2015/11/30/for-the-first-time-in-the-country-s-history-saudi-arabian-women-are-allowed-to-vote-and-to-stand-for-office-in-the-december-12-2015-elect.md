@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/30/for-the-first-time-in-the-country-s-history-sau
 
 ### Changes:
 
-1. [Saudi Arabia elections, 2015: For the first time in the country's history, Saudi Arabian women are allowed to vote and to stand for office in the December 12, 2015, elections. Candidacy filings opened yesterday. In two days, more than 900 women have signed up to run for various local government positions in the Arab nation. ](/news/2015/11/30/saudi-arabia-elections-2015-for-the-first-time-in-the-country-s-history-saudi-arabian-women-are-allowed-to-vote-and-to-stand-for-office-i.md) _2017-08-27 03:44:07 (First version)_
+1. [Saudi Arabia elections, 2015: For the first time in the country's history, Saudi Arabian women are allowed to vote and to stand for office in the December 12, 2015, elections. Candidacy filings opened yesterday. In two days, more than 900 women have signed up to run for various local government positions in the Arab nation. ](/news/2015/11/30/saudi-arabia-elections-2015-for-the-first-time-in-the-country-s-history-saudi-arabian-women-are-allowed-to-vote-and-to-stand-for-office-i.md) _2018-02-06 13:49:28 (First version)_
 1. [For the first time in the country's history, Saudi Arabian women are allowed to vote and to stand for office in the December 12, 2015, elections. Candidacy filings opened yesterday. In two days, more than 900 women have signed up to run for various local government positions in the Arab nation. ](/news/2015/11/30/for-the-first-time-in-the-country-s-history-saudi-arabian-women-are-allowed-to-vote-and-to-stand-for-office-in-the-december-12-2015-elect.md) _(Current version)_
 
 ### Related:

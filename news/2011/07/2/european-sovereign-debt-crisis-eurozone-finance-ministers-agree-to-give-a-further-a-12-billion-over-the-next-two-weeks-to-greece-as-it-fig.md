@@ -17,7 +17,7 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 
 ### Changes:
 
-1. [European sovereign debt crisis: Eurozone finance ministers agree to give a further -12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md) _2017-08-27 03:33:47 (First version)_
+1. [European sovereign debt crisis: Eurozone finance ministers agree to give a further -12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md) _2018-02-06 13:49:22 (First version)_
 1. [European sovereign debt crisis: Eurozone finance ministers agree to give a further EUR12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-a-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md) _(Current version)_
 
 ### Related:

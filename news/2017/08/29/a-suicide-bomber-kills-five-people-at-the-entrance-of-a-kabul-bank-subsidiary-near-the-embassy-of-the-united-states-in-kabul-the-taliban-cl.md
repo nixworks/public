@@ -16,7 +16,7 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 
 ### Changes:
 
-1. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. Taliban claim their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-taliban-claim.md) _2017-08-31 09:30:04 (First version)_
+1. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. Taliban claim their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-taliban-claim.md) _2018-02-06 13:49:31 (First version)_
 1. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Australia&#039;s carbon tax is set to become law after the lower house of parlia
 
 ### Changes:
 
-1. [Carbon tax in Australia:The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/carbon-tax-in-australia-pthe-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md) _2017-08-25 03:34:18 (First version)_
-2. [Carbon tax in Australia:: The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/carbon-tax-in-australia-the-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md) _2017-08-27 03:34:26 (Update)_
+1. [Carbon tax in Australia:: The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/carbon-tax-in-australia-the-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md) _2018-02-06 13:49:22 (First version)_
+2. [Carbon tax in Australia:The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/carbon-tax-in-australia-pthe-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md) _2018-02-06 13:49:22 (Update)_
 2. [The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/the-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md) _(Current version)_
 
 ### Related:

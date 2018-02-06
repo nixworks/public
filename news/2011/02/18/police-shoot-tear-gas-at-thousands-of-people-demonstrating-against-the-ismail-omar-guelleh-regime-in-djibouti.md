@@ -16,8 +16,8 @@ Police use tear gas to disperse thousands demonstrating in East African nation t
 
 ### Changes:
 
-1. [2011 Djibouti protests:Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/2011-djibouti-protests-ppolice-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md) _2017-08-25 03:32:15 (First version)_
-2. [2011 Djibouti protests:: Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/2011-djibouti-protests-police-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md) _2017-08-27 03:32:23 (Update)_
+1. [2011 Djibouti protests:Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/2011-djibouti-protests-ppolice-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Djibouti protests:: Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/2011-djibouti-protests-police-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md) _2018-02-06 13:49:22 (Update)_
 2. [Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/police-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md) _(Current version)_
 
 ### Related:

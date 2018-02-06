@@ -13,7 +13,7 @@ _Context: Cajamarca, Peru, coach_
 
 ##### Iraq
 ### [ Iraq's Interior Ministry arrests Ayesh Ali Hussein al-Harbi for his alleged role in the 2000 hijacking of a Saudi Arabian Airlines Boeing 777 and serial killings in the country. ](/news/2009/01/10/iraq-s-interior-ministry-arrests-ayesh-ali-hussein-al-harbi-for-his-alleged-role-in-the-2000-hijacking-of-a-saudi-arabian-airlines-boeing-7.md)
-_Context: Iraq, Serial killer, Boeing 777, aircraft piracy, Saudi Arabian Airlines, Ayesh Ali Hussein al-Harbi, Iraqi Interior Minister, 2000_
+_Context: Saudi Arabian Airlines, aircraft piracy, Iraqi Interior Minister, 2000, Serial killer, Iraq, Boeing 777, Ayesh Ali Hussein al-Harbi_
 
 ## [Previous Day...](/news/2009/01/9/index.md)
 

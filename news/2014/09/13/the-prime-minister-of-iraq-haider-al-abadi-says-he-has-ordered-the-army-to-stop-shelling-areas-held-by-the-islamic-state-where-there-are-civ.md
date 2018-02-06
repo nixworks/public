@@ -17,8 +17,8 @@ Terrorist group ISIS released a video Saturday purportedly showing the execution
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant:The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/islamic-state-of-iraq-and-the-levant-pthe-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-by.md) _2017-08-25 03:40:58 (First version)_
-2. [Islamic State of Iraq and the Levant:: The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/islamic-state-of-iraq-and-the-levant-the-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-b.md) _2017-08-27 03:41:16 (Update)_
+1. [Islamic State of Iraq and the Levant:: The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/islamic-state-of-iraq-and-the-levant-the-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-b.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamic State of Iraq and the Levant:The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/islamic-state-of-iraq-and-the-levant-pthe-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-by.md) _2018-02-06 13:49:26 (Update)_
 2. [The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/the-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-by-the-islamic-state-where-there-are-civ.md) _(Current version)_
 
 ### Related:

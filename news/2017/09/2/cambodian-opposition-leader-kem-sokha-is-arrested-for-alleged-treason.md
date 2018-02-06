@@ -16,8 +16,8 @@ Police in Cambodia arrested the leader of the country&apos;s main opposition par
 
 ### Changes:
 
-1. [The Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/the-cambodian-opposition-leader-kem-sokha-is-arrested.md) _2017-09-03 00:30:05 (First version)_
-2. [Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested.md) _2017-09-03 03:47:29 (Update)_
+1. [The Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/the-cambodian-opposition-leader-kem-sokha-is-arrested.md) _2018-02-06 13:49:31 (First version)_
+2. [Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested.md) _2018-02-06 13:49:31 (Update)_
 2. [Cambodian opposition leader Kem Sokha is arrested for alleged treason. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested-for-alleged-treason.md) _(Current version)_
 
 ### Related:

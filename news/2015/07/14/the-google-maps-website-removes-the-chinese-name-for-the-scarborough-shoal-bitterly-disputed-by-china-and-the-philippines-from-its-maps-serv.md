@@ -16,7 +16,7 @@ Google has quietly removed the Chinese name for a South China Sea shoal bitterly
 
 ### Changes:
 
-1. [Territorial disputes in the South China Sea: The Google Maps website removes the Chinese name for the Scarborough Shoal bitterly disputed by China and the Philippines from its maps service, following an outcry from Filipinos. ](/news/2015/07/14/territorial-disputes-in-the-south-china-sea-the-google-maps-website-removes-the-chinese-name-for-the-scarborough-shoal-bitterly-disputed-by.md) _2017-08-27 03:42:42 (First version)_
+1. [Territorial disputes in the South China Sea: The Google Maps website removes the Chinese name for the Scarborough Shoal bitterly disputed by China and the Philippines from its maps service, following an outcry from Filipinos. ](/news/2015/07/14/territorial-disputes-in-the-south-china-sea-the-google-maps-website-removes-the-chinese-name-for-the-scarborough-shoal-bitterly-disputed-by.md) _2018-02-06 13:49:27 (First version)_
 1. [The Google Maps website removes the Chinese name for the Scarborough Shoal bitterly disputed by China and the Philippines from its maps service, following an outcry from Filipinos. ](/news/2015/07/14/the-google-maps-website-removes-the-chinese-name-for-the-scarborough-shoal-bitterly-disputed-by-china-and-the-philippines-from-its-maps-serv.md) _(Current version)_
 
 ### Related:

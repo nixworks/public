@@ -17,8 +17,8 @@ European Union officials voiced guarded optimism on Friday that Turkey was start
 
 ### Changes:
 
-1. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-s.md) _2017-08-25 03:44:47 (First version)_
-2. [European migrant crisis: The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/european-migrant-crisis-the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26.md) _2017-08-27 03:45:07 (Update)_
+1. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-s.md) _2018-02-06 13:49:28 (First version)_
+2. [European migrant crisis: The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/european-migrant-crisis-the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26.md) _2018-02-06 13:49:28 (Update)_
 2. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.md) _(Current version)_
 
 ### Related:

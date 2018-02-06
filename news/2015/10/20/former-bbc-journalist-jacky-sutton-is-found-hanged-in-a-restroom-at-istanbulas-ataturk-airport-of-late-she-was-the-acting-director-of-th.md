@@ -16,7 +16,7 @@ Briton Jacky Sutton, the acting Iraq director for the Institute of War and Peace
 
 ### Changes:
 
-1. [Former BBC journalist Jacky Sutton is found hanged in a restroom at Istanbul-s Ataturk Airport. Of late, she was the acting director of the Institute for War and Peace Reporting. ](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbul-s-ataturk-airport-of-late-she-was-the-acting-director-of-th.md) _2017-08-27 03:43:26 (First version)_
+1. [Former BBC journalist Jacky Sutton is found hanged in a restroom at Istanbul-s Ataturk Airport. Of late, she was the acting director of the Institute for War and Peace Reporting. ](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbul-s-ataturk-airport-of-late-she-was-the-acting-director-of-th.md) _2018-02-06 13:49:28 (First version)_
 1. [Former BBC journalist Jacky Sutton is found hanged in a restroom at Istanbul's Ataturk Airport. Of late, she was the acting director of the Institute for War and Peace Reporting. ](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbulas-ataturk-airport-of-late-she-was-the-acting-director-of-th.md) _(Current version)_
 
 ### Related:

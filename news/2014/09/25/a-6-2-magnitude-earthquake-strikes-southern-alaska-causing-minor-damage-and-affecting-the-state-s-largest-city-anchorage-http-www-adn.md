@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-ala
 
 ### Changes:
 
-1. [A 6.2 magnitude earthquake strikes southern Alaska, causing minor damage and affecting the state's largest city, Anchorage. ](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-alaska-causing-minor-damage-and-affecting-the-state-s-largest-city-anchorage.md) _2017-08-25 03:41:01 (First version)_
+1. [A 6.2 magnitude earthquake strikes southern Alaska, causing minor damage and affecting the state's largest city, Anchorage. ](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-alaska-causing-minor-damage-and-affecting-the-state-s-largest-city-anchorage.md) _2018-02-06 13:49:26 (First version)_
 1. [A 6.2 magnitude earthquake strikes southern Alaska, causing minor damage and affecting the state's largest city, Anchorage. [http:--www.adn.com-article-20140925-earthquake-shakes-southcentral-alaska (Alaska Dispatch News) ]](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-alaska-causing-minor-damage-and-affecting-the-state-s-largest-city-anchorage-http-www-adn.md) _(Current version)_
 
 ### Related:

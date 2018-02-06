@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/5/46-indian-nurses-held-hostage-by-the-isis-for-al
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: 46 Indian nurses held hostage by the ISIS for almost a month in Tikrit, Iraq, arrive at Cochin airport, Kochi, India. ](/news/2014/07/5/2014-northern-iraq-offensive-46-indian-nurses-held-hostage-by-the-isis-for-almost-a-month-in-tikrit-iraq-arrive-at-cochin-airport-kochi.md) _2017-08-27 03:40:56 (First version)_
+1. [2014 Northern Iraq offensive: 46 Indian nurses held hostage by the ISIS for almost a month in Tikrit, Iraq, arrive at Cochin airport, Kochi, India. ](/news/2014/07/5/2014-northern-iraq-offensive-46-indian-nurses-held-hostage-by-the-isis-for-almost-a-month-in-tikrit-iraq-arrive-at-cochin-airport-kochi.md) _2018-02-06 13:49:26 (First version)_
 1. [46 Indian nurses held hostage by the ISIS for almost a month in Tikrit, Iraq, arrive at Cochin airport, Kochi, India. ](/news/2014/07/5/46-indian-nurses-held-hostage-by-the-isis-for-almost-a-month-in-tikrit-iraq-arrive-at-cochin-airport-kochi-india.md) _(Current version)_
 
 ### Related:

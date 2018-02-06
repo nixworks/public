@@ -16,7 +16,7 @@ Ruling prevents possible 91,000 pages of documents from being turned over to pla
 
 ### Changes:
 
-1. [General Motors ignition switch scandal: U.S. District Judge Jesse Furman rules General Motors Co., and its outside law firm King & Spalding, do not have to turn over lawyer-client documents from previously settled ignition switch lawsuits to plaintiffs- lawyers in pending cases. ](/news/2015/11/25/general-motors-ignition-switch-scandal-u-s-district-judge-jesse-furman-rules-general-motors-co-and-its-outside-law-firm-king-spalding.md) _2017-08-27 03:44:03 (First version)_
+1. [General Motors ignition switch scandal: U.S. District Judge Jesse Furman rules General Motors Co., and its outside law firm King & Spalding, do not have to turn over lawyer-client documents from previously settled ignition switch lawsuits to plaintiffs- lawyers in pending cases. ](/news/2015/11/25/general-motors-ignition-switch-scandal-u-s-district-judge-jesse-furman-rules-general-motors-co-and-its-outside-law-firm-king-spalding.md) _2018-02-06 13:49:28 (First version)_
 1. [U.S. District Judge Jesse Furman rules General Motors Co., and its outside law firm King & Spalding, do not have to turn over lawyer-client documents from previously settled ignition switch lawsuits to plaintiffs' lawyers in pending cases. ](/news/2015/11/25/u-s-district-judge-jesse-furman-rules-general-motors-co-and-its-outside-law-firm-king-spalding-do-not-have-to-turn-over-lawyer-client.md) _(Current version)_
 
 ### Related:

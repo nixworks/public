@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/8/a-suicide-bomber-kills-at-least-four-people-and-
 
 ### Changes:
 
-1. [Taliban insurgency: A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/taliban-insurgency-a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md) _2017-08-27 03:41:22 (First version)_
+1. [Taliban insurgency: A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/taliban-insurgency-a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md) _(Current version)_
 
 ### Related:

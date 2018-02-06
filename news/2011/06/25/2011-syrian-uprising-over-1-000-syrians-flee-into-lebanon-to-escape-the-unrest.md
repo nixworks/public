@@ -23,8 +23,8 @@ A group of Libyan football figures, including members of the national team, tell
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising:Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-p2011-syrian-uprising-pover-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md) _2017-08-25 03:33:34 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising:: Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-2011-syrian-uprising-over-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md) _2017-08-27 03:33:42 (Update)_
+1. [Arab Spring:2011 Syrian uprising:Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-p2011-syrian-uprising-pover-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising:: Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-2011-syrian-uprising-over-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising:Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/2011-syrian-uprising-over-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md) _(Current version)_
 
 ### Related:

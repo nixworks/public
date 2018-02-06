@@ -16,8 +16,8 @@ Ukraine and pro-Russian rebels reached a ceasefire agreement on Friday, the firs
 
 ### Changes:
 
-1. [War in Donbass:The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/war-in-donbass-pthe-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md) _2017-08-25 03:40:56 (First version)_
-2. [War in Donbass:: The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/war-in-donbass-the-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md) _2017-08-27 03:41:14 (Update)_
+1. [War in Donbass:: The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/war-in-donbass-the-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/war-in-donbass-pthe-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md) _2018-02-06 13:49:26 (Update)_
 2. [The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/the-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md) _(Current version)_
 
 ### Related:

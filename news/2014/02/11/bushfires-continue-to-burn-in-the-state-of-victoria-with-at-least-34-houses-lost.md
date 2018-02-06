@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/11/bushfires-continue-to-burn-in-the-state-of-vict
 
 ### Changes:
 
-1. [2013-14 Australian bushfire season:Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013a14-australian-bushfire-season-pbushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md) _2017-08-25 03:40:00 (First version)_
-2. [2013-14 Australian bushfire season:: Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013-14-australian-bushfire-season-bushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md) _2017-08-27 03:40:18 (Update)_
+1. [2013-14 Australian bushfire season:Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013a14-australian-bushfire-season-pbushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Australian bushfire season:: Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013-14-australian-bushfire-season-bushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md) _2018-02-06 13:49:25 (Update)_
 2. [Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/bushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md) _(Current version)_
 
 ### Related:

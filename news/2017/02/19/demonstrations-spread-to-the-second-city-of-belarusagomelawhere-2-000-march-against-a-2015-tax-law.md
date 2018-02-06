@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/19/demonstrations-spread-to-the-second-city-of-bel
 
 ### Changes:
 
-1. [2017 Belarusian protests: Demonstrations spread to the second city of Belarus-Gomel-where 2,000 march against a 2015 tax law. ](/news/2017/02/19/2017-belarusian-protests-demonstrations-spread-to-the-second-city-of-belarus-gomel-where-2-000-march-against-a-2015-tax-law.md) _2017-08-27 03:47:50 (First version)_
+1. [2017 Belarusian protests: Demonstrations spread to the second city of Belarus-Gomel-where 2,000 march against a 2015 tax law. ](/news/2017/02/19/2017-belarusian-protests-demonstrations-spread-to-the-second-city-of-belarus-gomel-where-2-000-march-against-a-2015-tax-law.md) _2018-02-06 13:49:30 (First version)_
 1. [Demonstrations spread to the second city of Belarus--Gomel--where 2,000 march against a 2015 tax law. ](/news/2017/02/19/demonstrations-spread-to-the-second-city-of-belarusagomelawhere-2-000-march-against-a-2015-tax-law.md) _(Current version)_
 
 ### Related:

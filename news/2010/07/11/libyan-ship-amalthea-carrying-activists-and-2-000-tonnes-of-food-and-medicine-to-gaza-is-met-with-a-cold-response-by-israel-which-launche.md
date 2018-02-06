@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/07/11/libyan-ship-amalthea-carrying-activists-and-2-0
 
 ### Changes:
 
-1. [Libyan ship, {{MV|Amalthea||2}}, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-mv-amalthea-2-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-whi.md) _2017-05-01 03:30:20 (First version)_
-2. [Libyan ship, Amalthea||2, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-amalthea-2-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-which-laun.md) _2017-08-29 03:28:47 (Update)_
+1. [Libyan ship, {{MV|Amalthea||2}}, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-mv-amalthea-2-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-whi.md) _2018-02-06 13:49:20 (First version)_
+2. [Libyan ship, Amalthea||2, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-amalthea-2-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-which-laun.md) _2018-02-06 13:49:20 (Update)_
 2. [Libyan ship, Amalthea, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-amalthea-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-which-launche.md) _(Current version)_
 
 ### Related:

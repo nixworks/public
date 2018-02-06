@@ -9,15 +9,15 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 
 ##### Imam
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: Imam, Ahmad Afzali, Najibullah Zazi, New York City subway, United States, Saudi Arabia_
+_Context: Ahmad Afzali, Imam, Saudi Arabia, Najibullah Zazi, New York City subway, United States_
 
 ##### hijab
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)
-_Context: AK-47s, Mogadishu, African Union, Somalia, hijab, AMISOM, high-powered rifles_
+_Context: Mogadishu, AMISOM, high-powered rifles, African Union, Somalia, hijab, AK-47s_
 
 ##### European Union
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
-_Context: human rights record, Sri Lanka, European Union_
+_Context: human rights record, European Union, Sri Lanka_
 
 ##### Iran
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)
@@ -25,7 +25,7 @@ Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jet
 
 ##### police
 ### [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md)
-_Context: narcotic, Afghanistan, International Security Assistance Force, police, Helmand_
+_Context: International Security Assistance Force, Afghanistan, narcotic, police, Helmand_
 
 ##### India
 ### [A nationwide strike takes place in India in protest at a recent rise in fuel prices. ](/news/2010/07/5/a-nationwide-strike-takes-place-in-india-in-protest-at-a-recent-rise-in-fuel-prices.md)
@@ -49,7 +49,7 @@ Laboratory tests showed that the tar balls came from the BP Macondo well that bl
 
 ##### Xinjiang
 ### [Security is boosted in Xinjiang in western China on the anniversary of the July 2009 Urumqi riots. ](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.md)
-_Context: Xinjiang, China, ethnic riots_
+_Context: China, Xinjiang, ethnic riots_
 
 ##### Saidnaya
 ### [Human rights groups say at least 52 prisoners have disappeared from Saidnaya Military Prison in Syria, following disturbances in 2008 that led to the deaths of 22 people. ](/news/2010/07/5/human-rights-groups-say-at-least-52-prisoners-have-disappeared-from-saidnaya-military-prison-in-syria-following-disturbances-in-2008-that-l.md)
@@ -81,7 +81,7 @@ Bronislaw Komorowski is declared the winner in a dramatic race for the Polish pr
 
 ##### Mexico
 ### [The Institutional Revolutionary Party (PRI) did not achieve as big a win as exit polls indicated, with the National Action Party (PAN) running ahead in three states that are currently controlled by PRI. ](/news/2010/07/5/the-institutional-revolutionary-party-pri-did-not-achieve-as-big-a-win-as-exit-polls-indicated-with-the-national-action-party-pan-runni.md)
-_Context: National Action Party (PAN), Institutional Revolutionary Party, Mexico_
+_Context: Institutional Revolutionary Party, Mexico, National Action Party (PAN)_
 
 ##### Bayan Muna
 ### [A local politician and provincial Bayan Muna party leader in Aklan, Fernando Baldomero, is shot dead bringing the total number of political and human rights activists killed in the Philippines since the return of democracy in 1986 to over 1,200. ](/news/2010/07/5/a-local-politician-and-provincial-bayan-muna-party-leader-in-aklan-fernando-baldomero-is-shot-dead-bringing-the-total-number-of-political.md)
@@ -91,7 +91,7 @@ The killing of Fernando Baldomero was the first apparent political killing since
 ### [Kenyan Prime Minister Raila Odinga condemns the nation's lawmakers for voting themselves a huge pay increase, which makes them the best paid lawmakers in the world. ](/news/2010/07/5/kenyan-prime-minister-raila-odinga-condemns-the-nation-s-lawmakers-for-voting-themselves-a-huge-pay-increase-which-makes-them-the-best-paid.md)
 Kenya Prime Minister Raila Odinga criticises MPs for voting themselves a huge pay rise, saying it is &quot;unfair&quot;.
 
-##### British
+##### United Kingdom
 ### [United Kingdom - Deputy Prime Minister Nick Clegg announces that a referendum on introducing the alternative vote system for national elections will be held on 5 May 2011. ](/news/2010/07/5/united-kingdom-deputy-prime-minister-nick-clegg-announces-that-a-referendum-on-introducing-the-alternative-vote-system-for-national-electi.md)
 The deputy prime minister confirms plans for fewer MPs, a voting referendum and fixed-term parliaments.
 

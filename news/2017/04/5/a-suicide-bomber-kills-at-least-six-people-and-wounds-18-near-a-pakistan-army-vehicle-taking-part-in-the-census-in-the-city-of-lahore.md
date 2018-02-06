@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-w
 
 ### Changes:
 
-1. [War in North-West Pakistan: A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census.md) _2017-08-27 03:48:06 (First version)_
+1. [War in North-West Pakistan: A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _(Current version)_
 
 ### Related:

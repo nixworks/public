@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-inju
 
 ### Changes:
 
-1. [Nimr al-Nimr: One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/nimr-al-nimr-one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _2017-08-27 03:44:36 (First version)_
+1. [Nimr al-Nimr: One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/nimr-al-nimr-one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _2018-02-06 13:49:28 (First version)_
 1. [One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _(Current version)_
 
 ### Related:

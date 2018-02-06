@@ -18,7 +18,7 @@ KARACHI - The Sindh government has declared a health emergency in Karachi’s Ma
 
 ### Changes:
 
-1. [Sindh Government officials declare a health emergency in Malir, Karachi, as thousands of patients have been affected by the mysterious Chikungunya virus. The government states the ''aedes aegypti'' mosquito is responsible for spreading the Chikungunya virus in Pakistan's largest city. ](/news/2016/12/21/sindh-government-officials-declare-a-health-emergency-in-malir-karachi-as-thousands-of-patients-have-been-affected-by-the-mysterious-chik.md) _2017-08-25 03:47:05 (First version)_
+1. [Sindh Government officials declare a health emergency in Malir, Karachi, as thousands of patients have been affected by the mysterious Chikungunya virus. The government states the ''aedes aegypti'' mosquito is responsible for spreading the Chikungunya virus in Pakistan's largest city. ](/news/2016/12/21/sindh-government-officials-declare-a-health-emergency-in-malir-karachi-as-thousands-of-patients-have-been-affected-by-the-mysterious-chik.md) _2018-02-06 13:49:30 (First version)_
 1. [Sindh Government officials declare a health emergency in Malir, Karachi, as thousands of patients have been affected by the mysterious Chikungunya virus. The government states the "aedes aegypti" mosquito is responsible for spreading the Chikungunya virus in Pakistan's largest city. ](/news/2016/12/21/sindh-government-officials-declare-a-health-emergency-in-malir-karachi-as-thousands-of-patients-have-been-affected-by-the-mysterious-chiku.md) _(Current version)_
 
 ### Related:

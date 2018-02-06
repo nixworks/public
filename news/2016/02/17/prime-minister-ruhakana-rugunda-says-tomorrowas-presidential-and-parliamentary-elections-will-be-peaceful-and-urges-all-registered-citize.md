@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/17/prime-minister-ruhakana-rugunda-says-tomorrowas
 
 ### Changes:
 
-1. [Ugandan general election, 2016: Prime Minister Ruhakana Rugunda says tomorrow-s presidential and parliamentary elections will be peaceful, and urges all registered citizens to vote. Seven candidates are vying to unseat President Museveni, who has been in office since 1986. ](/news/2016/02/17/ugandan-general-election-2016-prime-minister-ruhakana-rugunda-says-tomorrow-s-presidential-and-parliamentary-elections-will-be-peaceful.md) _2017-08-27 03:44:56 (First version)_
+1. [Ugandan general election, 2016: Prime Minister Ruhakana Rugunda says tomorrow-s presidential and parliamentary elections will be peaceful, and urges all registered citizens to vote. Seven candidates are vying to unseat President Museveni, who has been in office since 1986. ](/news/2016/02/17/ugandan-general-election-2016-prime-minister-ruhakana-rugunda-says-tomorrow-s-presidential-and-parliamentary-elections-will-be-peaceful.md) _2018-02-06 13:49:28 (First version)_
 1. [Prime Minister Ruhakana Rugunda says tomorrow's presidential and parliamentary elections will be peaceful, and urges all registered citizens to vote. Seven candidates are vying to unseat President Museveni, who has been in office since 1986. ](/news/2016/02/17/prime-minister-ruhakana-rugunda-says-tomorrowas-presidential-and-parliamentary-elections-will-be-peaceful-and-urges-all-registered-citize.md) _(Current version)_
 
 ### Related:

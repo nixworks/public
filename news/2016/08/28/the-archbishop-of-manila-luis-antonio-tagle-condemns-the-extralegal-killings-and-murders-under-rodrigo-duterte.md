@@ -16,7 +16,7 @@ Manila Archbishop Luis Antonio Cardinal Tagle denounces not only extrajudicial k
 
 ### Changes:
 
-1. [Philippine Drug War: The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/philippine-drug-war-the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _2017-08-27 03:46:43 (First version)_
+1. [Philippine Drug War: The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/philippine-drug-war-the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _2018-02-06 13:49:29 (First version)_
 1. [The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _(Current version)_
 
 ### Related:

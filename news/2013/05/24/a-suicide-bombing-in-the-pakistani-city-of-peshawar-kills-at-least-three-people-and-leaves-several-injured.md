@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/24/a-suicide-bombing-in-the-pakistani-city-of-pesh
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/war-in-north-west-pakistan-pa-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md) _2017-08-25 03:38:43 (First version)_
-2. [War in North-West Pakistan:: A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/war-in-north-west-pakistan-a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md) _2017-08-27 03:38:56 (Update)_
+1. [War in North-West Pakistan:A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/war-in-north-west-pakistan-pa-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/war-in-north-west-pakistan-a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The editor of the Irish Daily Star newspaper resigns over the controversial publ
 
 ### Changes:
 
-1. [''Irish Daily Star'' editor Michael O'Kane resigns over his role in the publication of topless photographs of Catherine, Duchess of Cambridge. ](/news/2012/11/24/irish-daily-star-editor-michael-o-kane-resigns-over-his-role-in-the-publication-of-topless-photographs-of-catherine-duchess-of-cambridg.md) _2017-08-25 03:36:52 (First version)_
+1. [''Irish Daily Star'' editor Michael O'Kane resigns over his role in the publication of topless photographs of Catherine, Duchess of Cambridge. ](/news/2012/11/24/irish-daily-star-editor-michael-o-kane-resigns-over-his-role-in-the-publication-of-topless-photographs-of-catherine-duchess-of-cambridg.md) _2018-02-06 13:49:24 (First version)_
 1. ["Irish Daily Star" editor Michael O'Kane resigns over his role in the publication of topless photographs of Catherine, Duchess of Cambridge. ](/news/2012/11/24/irish-daily-star-editor-michael-o-kane-resigns-over-his-role-in-the-publication-of-topless-photographs-of-catherine-duchess-of-cambridge.md) _(Current version)_
 
 ### Related:

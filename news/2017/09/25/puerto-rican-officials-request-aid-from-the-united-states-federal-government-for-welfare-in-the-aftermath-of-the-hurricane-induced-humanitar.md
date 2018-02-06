@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-uni
 
 ### Changes:
 
-1. [Millions of Puerto Ricans request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/millions-of-puerto-ricans-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humani.md) _2017-09-25 19:30:05 (First version)_
+1. [Millions of Puerto Ricans request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/millions-of-puerto-ricans-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humani.md) _2018-02-06 13:49:31 (First version)_
 1. [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md) _(Current version)_
 
 ### Related:

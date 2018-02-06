@@ -18,7 +18,7 @@ Okinawa&#039;s anti-base faction retained and slightly increased its majority in
 
 ### Changes:
 
-1. [Okinawa prefectural election, 2016: Voters in Okinawa, Japan, go to the polls to elect the members of the next Okinawa Prefectural Assembly. The election results give the camp supporting Governor Takeshi Onaga a clear majority in the assembly. Onaga is opposed to the central government's plan to relocate MCAS Futenma to Henoko Bay in Nago. ](/news/2016/06/5/okinawa-prefectural-election-2016-voters-in-okinawa-japan-go-to-the-polls-to-elect-the-members-of-the-next-okinawa-prefectural-assembly.md) _2017-08-27 03:46:12 (First version)_
+1. [Okinawa prefectural election, 2016: Voters in Okinawa, Japan, go to the polls to elect the members of the next Okinawa Prefectural Assembly. The election results give the camp supporting Governor Takeshi Onaga a clear majority in the assembly. Onaga is opposed to the central government's plan to relocate MCAS Futenma to Henoko Bay in Nago. ](/news/2016/06/5/okinawa-prefectural-election-2016-voters-in-okinawa-japan-go-to-the-polls-to-elect-the-members-of-the-next-okinawa-prefectural-assembly.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in Okinawa, Japan, go to the polls to elect the members of the next Okinawa Prefectural Assembly. The election results give the camp supporting Governor Takeshi Onaga a clear majority in the assembly. Onaga is opposed to the central government's plan to relocate MCAS Futenma to Henoko Bay in Nago. ](/news/2016/06/5/voters-in-okinawa-japan-go-to-the-polls-to-elect-the-members-of-the-next-okinawa-prefectural-assembly-the-election-results-give-the-camp.md) _(Current version)_
 
 ### Related:

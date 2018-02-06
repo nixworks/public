@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/11/20/north-korea-and-south-korea-agree-to-hold-talks
 
 ### Changes:
 
-1. [North Korea-South Korea relations North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-koreaasouth-korea-relations-pnorth-korea-and-south-korea-agree-to-hold-talks-next-week.md) _2017-05-25 03:45:48 (First version)_
-2. [North Korea-South Korea relations: North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-south-korea-relations-north-korea-and-south-korea-agree-to-hold-talks-next-week.md) _2017-08-27 03:43:57 (Update)_
+1. [North Korea-South Korea relations North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-koreaasouth-korea-relations-pnorth-korea-and-south-korea-agree-to-hold-talks-next-week.md) _2018-02-06 13:49:28 (First version)_
+2. [North Korea-South Korea relations: North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-south-korea-relations-north-korea-and-south-korea-agree-to-hold-talks-next-week.md) _2018-02-06 13:49:28 (Update)_
 2. [North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-and-south-korea-agree-to-hold-talks-next-week.md) _(Current version)_
 
 ### Related:

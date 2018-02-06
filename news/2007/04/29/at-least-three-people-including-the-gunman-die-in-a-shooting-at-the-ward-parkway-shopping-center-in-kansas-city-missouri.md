@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/04/29/at-least-three-people-including-the-gunman-die-
 
 ### Changes:
 
-1. [ At least three people including the gunman die in a shooting at the Ward Parkway shopping center in Kansas City, Missouri . [http:--www.kansas.com-197-story-57573.html (AP via Wichita Eagle)] [http:--news.bbc.co.uk-1-hi-world-americas-6606379.stm (BBC)].](/news/2007/04/29/at-least-three-people-including-the-gunman-die-in-a-shooting-at-the-ward-parkway-shopping-center-in-kansas-city-missouri-http-www-ka.md) _2017-06-18 03:19:58 (First version)_
+1. [ At least three people including the gunman die in a shooting at the Ward Parkway shopping center in Kansas City, Missouri . [http:--www.kansas.com-197-story-57573.html (AP via Wichita Eagle)] [http:--news.bbc.co.uk-1-hi-world-americas-6606379.stm (BBC)].](/news/2007/04/29/at-least-three-people-including-the-gunman-die-in-a-shooting-at-the-ward-parkway-shopping-center-in-kansas-city-missouri-http-www-ka.md) _2018-02-06 13:49:17 (First version)_
 1. [ At least three people including the gunman die in a shooting at the Ward Parkway shopping center in Kansas City, Missouri . ](/news/2007/04/29/at-least-three-people-including-the-gunman-die-in-a-shooting-at-the-ward-parkway-shopping-center-in-kansas-city-missouri.md) _(Current version)_
 
 ### Related:

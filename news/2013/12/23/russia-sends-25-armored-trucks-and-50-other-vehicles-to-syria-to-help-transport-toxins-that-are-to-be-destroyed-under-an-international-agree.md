@@ -16,8 +16,8 @@ Russia has sent 25 armored trucks and 50 other vehicles to Syria to help transpo
 
 ### Changes:
 
-1. [Syrian Civil War:Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-prussia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an-i.md) _2017-08-25 03:39:46 (First version)_
-2. [Syrian Civil War:: Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-russia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an.md) _2017-08-27 03:40:04 (Update)_
+1. [Syrian Civil War:: Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-russia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-prussia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an-i.md) _2018-02-06 13:49:25 (Update)_
 2. [Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/russia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an-international-agree.md) _(Current version)_
 
 ### Related:

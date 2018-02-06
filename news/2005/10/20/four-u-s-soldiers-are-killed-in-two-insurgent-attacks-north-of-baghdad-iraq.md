@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-a
 
 ### Changes:
 
-1. [ Conflict in Iraq: Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-p-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _2017-08-25 03:17:00 (First version)_
-2. [ Conflict in Iraq:: Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _2017-08-27 03:16:58 (Update)_
+1. [ Conflict in Iraq: Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-p-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _2018-02-06 13:49:16 (Update)_
 2. [ Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _(Current version)_
 
 ### Related:

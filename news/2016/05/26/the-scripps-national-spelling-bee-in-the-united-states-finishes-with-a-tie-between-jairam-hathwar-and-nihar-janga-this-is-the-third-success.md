@@ -16,7 +16,7 @@ Rolling report: Ten youngsters compete for spelling’s top prize before a natio
 
 ### Changes:
 
-1. [89th Scripps National Spelling Bee: The Scripps National Spelling Bee in the United States finishes with a tie between Jairam Hathwar and Nihar Janga. This is the third successive year the event has finished in a tie. ](/news/2016/05/26/89th-scripps-national-spelling-bee-the-scripps-national-spelling-bee-in-the-united-states-finishes-with-a-tie-between-jairam-hathwar-and-ni.md) _2017-08-27 03:46:08 (First version)_
+1. [89th Scripps National Spelling Bee: The Scripps National Spelling Bee in the United States finishes with a tie between Jairam Hathwar and Nihar Janga. This is the third successive year the event has finished in a tie. ](/news/2016/05/26/89th-scripps-national-spelling-bee-the-scripps-national-spelling-bee-in-the-united-states-finishes-with-a-tie-between-jairam-hathwar-and-ni.md) _2018-02-06 13:49:29 (First version)_
 1. [The Scripps National Spelling Bee in the United States finishes with a tie between Jairam Hathwar and Nihar Janga. This is the third successive year the event has finished in a tie. ](/news/2016/05/26/the-scripps-national-spelling-bee-in-the-united-states-finishes-with-a-tie-between-jairam-hathwar-and-nihar-janga-this-is-the-third-success.md) _(Current version)_
 
 ### Related:

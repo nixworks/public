@@ -15,7 +15,7 @@ Philippine government halts talks with communist rebels after series of attacks 
 
 ### Changes:
 
-1. [CPP-NPA-NDF rebellion: President of the Philippines Rodrigo Duterte indefinitely freezes the peace talks with the Communist Party of the Philippines after numerous attacks by the communist rebels on government forces. The President also vowed to re-orient anew the offensive against the Party's armed wing the New People's Army. ](/news/2017/07/21/cpp-npa-ndf-rebellion-president-of-the-philippines-rodrigo-duterte-indefinitely-freezes-the-peace-talks-with-the-communist-party-of-the.md) _2017-08-27 03:48:41 (First version)_
+1. [CPP-NPA-NDF rebellion: President of the Philippines Rodrigo Duterte indefinitely freezes the peace talks with the Communist Party of the Philippines after numerous attacks by the communist rebels on government forces. The President also vowed to re-orient anew the offensive against the Party's armed wing the New People's Army. ](/news/2017/07/21/cpp-npa-ndf-rebellion-president-of-the-philippines-rodrigo-duterte-indefinitely-freezes-the-peace-talks-with-the-communist-party-of-the.md) _2018-02-06 13:49:30 (First version)_
 1. [President of the Philippines Rodrigo Duterte indefinitely freezes the peace talks with the Communist Party of the Philippines after numerous attacks by the communist rebels on government forces. The President also vowed to re-orient anew the offensive against the Party's armed wing the New People's Army. ](/news/2017/07/21/president-of-the-philippines-rodrigo-duterte-indefinitely-freezes-the-peace-talks-with-the-communist-party-of-the-philippines-after-numerous.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/19/two-people-are-attacked-and-killed-by-black-bea
 
 ### Changes:
 
-1. [Bear attacks: Two people are attacked and killed by black bears, in separate incidents in Alaska, following a rise in bear attacks in that state. ](/news/2017/06/19/bear-attacks-two-people-are-attacked-and-killed-by-black-bears-in-separate-incidents-in-alaska-following-a-rise-in-bear-attacks-in-that-s.md) _2017-08-27 03:48:30 (First version)_
+1. [Bear attacks: Two people are attacked and killed by black bears, in separate incidents in Alaska, following a rise in bear attacks in that state. ](/news/2017/06/19/bear-attacks-two-people-are-attacked-and-killed-by-black-bears-in-separate-incidents-in-alaska-following-a-rise-in-bear-attacks-in-that-s.md) _2018-02-06 13:49:30 (First version)_
 1. [Two people are attacked and killed by black bears, in separate incidents in Alaska, following a rise in bear attacks in that state. ](/news/2017/06/19/two-people-are-attacked-and-killed-by-black-bears-in-separate-incidents-in-alaska-following-a-rise-in-bear-attacks-in-that-state.md) _(Current version)_
 
 ### Related:

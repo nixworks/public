@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-t
 
 ### Changes:
 
-1. [The United States Senate reaches agreement to reopen federal agencies through Feb. 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-agreement-to-reopen-federal-agencies-through-feb-8-a-bill-is-working-its-way-through-the-legislative-proc.md) _2018-01-22 19:30:08 (First version)_
-2. [The United States Senate reaches an agreement to reopen federal agencies through Feb. 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-feb-8-a-bill-is-working-its-way-through-the-legislative-p.md) _2018-01-23 00:30:07 (Update)_
+1. [The United States Senate reaches an agreement to reopen federal agencies through Feb. 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-feb-8-a-bill-is-working-its-way-through-the-legislative-p.md) _2018-02-06 13:49:31 (First version)_
+2. [The United States Senate reaches agreement to reopen federal agencies through Feb. 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-agreement-to-reopen-federal-agencies-through-feb-8-a-bill-is-working-its-way-through-the-legislative-proc.md) _2018-02-06 13:49:31 (Update)_
 2. [The United States Senate reaches an agreement to reopen federal agencies through to February 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-to-february-8-a-bill-is-working-its-way-through-the-legisl.md) _(Current version)_
 
 ### Related:

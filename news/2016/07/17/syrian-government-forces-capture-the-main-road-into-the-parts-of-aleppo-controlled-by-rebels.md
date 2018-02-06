@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/17/syrian-government-forces-capture-the-main-road-
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-civil-war-syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md) _2017-08-27 03:46:30 (First version)_
+1. [Syrian Civil War: Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-civil-war-syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md) _(Current version)_
 
 ### Related:

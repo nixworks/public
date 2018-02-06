@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/05/25/amnesty-international-releases-its-annual-human
 
 ### Changes:
 
-1. [ Human Rights: Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-p-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md) _2017-08-25 03:16:16 (First version)_
-2. [ Human Rights:: Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md) _2017-08-27 03:16:18 (Update)_
+1. [ Human Rights: Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-p-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md) _2018-02-06 13:49:16 (First version)_
+2. [ Human Rights:: Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md) _2018-02-06 13:49:16 (Update)_
 2. [ Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/5/the-united-nations-security-council-votes-15a0-t
 
 ### Changes:
 
-1. [North Korea and the United Nations: The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/north-korea-and-the-united-nations-the-united-nations-security-council-votes-15-0-to-impose-sanctions-on-north-korea-for-its-intercontine.md) _2017-08-27 03:48:46 (First version)_
+1. [North Korea and the United Nations: The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/north-korea-and-the-united-nations-the-united-nations-security-council-votes-15-0-to-impose-sanctions-on-north-korea-for-its-intercontine.md) _2018-02-06 13:49:31 (First version)_
 1. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _(Current version)_
 
 ### Related:

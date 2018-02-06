@@ -16,8 +16,8 @@ Sixteen people are injured in an explosion near the office of a political party 
 
 ### Changes:
 
-1. [2013 Bangalore blast:Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/2013-bangalore-blast-psixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahea.md) _2017-08-25 03:38:23 (First version)_
-2. [2013 Bangalore blast:: Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/2013-bangalore-blast-sixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahe.md) _2017-08-27 03:38:35 (Update)_
+1. [2013 Bangalore blast:: Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/2013-bangalore-blast-sixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahe.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Bangalore blast:Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/2013-bangalore-blast-psixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahea.md) _2018-02-06 13:49:24 (Update)_
 2. [Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/sixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahead-of-elections-in-the.md) _(Current version)_
 
 ### Related:

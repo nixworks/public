@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghan
 
 ### Changes:
 
-1. [NATO summitNATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-summitpnato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control.md) _2017-08-25 03:31:07 (First version)_
-2. [NATO summit: NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-summit-nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control.md) _2017-08-27 03:31:14 (Update)_
+1. [NATO summitNATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-summitpnato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control.md) _2018-02-06 13:49:21 (First version)_
+2. [NATO summit: NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-summit-nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control.md) _2018-02-06 13:49:21 (Update)_
 2. [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md) _(Current version)_
 
 ### Related:

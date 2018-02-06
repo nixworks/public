@@ -16,8 +16,8 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/war-in-afghanistan-2001apresent-pafghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-sta.md) _2017-08-25 03:40:01 (First version)_
-2. [War in Afghanistan (2001-present):: Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/war-in-afghanistan-2001-present-afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-st.md) _2017-08-27 03:40:19 (Update)_
+1. [War in Afghanistan (2001-present):Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/war-in-afghanistan-2001apresent-pafghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-sta.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/war-in-afghanistan-2001-present-afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-st.md) _2018-02-06 13:49:25 (Update)_
 2. [Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-states-that-the-men-were-responsible-for.md) _(Current version)_
 
 ### Related:

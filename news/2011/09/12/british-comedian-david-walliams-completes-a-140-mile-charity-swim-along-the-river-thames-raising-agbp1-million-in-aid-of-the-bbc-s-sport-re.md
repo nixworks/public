@@ -16,7 +16,7 @@ Comedian David Walliams says he is relieved after swimming 140 miles of the Rive
 
 ### Changes:
 
-1. [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising PS1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-aps1-million-in-aid-of-the-bbc-s-sport-reli.md) _2017-08-25 03:34:08 (First version)_
+1. [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising PS1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-aps1-million-in-aid-of-the-bbc-s-sport-reli.md) _2018-02-06 13:49:22 (First version)_
 1. [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising GBP1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-agbp1-million-in-aid-of-the-bbc-s-sport-re.md) _(Current version)_
 
 ### Related:

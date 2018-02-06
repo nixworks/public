@@ -16,8 +16,8 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 
 ### Changes:
 
-1. [Yemeni al-Qaeda crackdown:80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/yemeni-al-qaeda-crackdown-p80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-government.md) _2017-08-25 03:29:39 (First version)_
-2. [Yemeni al-Qaeda crackdown:: 80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/yemeni-al-qaeda-crackdown-80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-governmen.md) _2017-08-27 03:29:43 (Update)_
+1. [Yemeni al-Qaeda crackdown:80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/yemeni-al-qaeda-crackdown-p80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-government.md) _2018-02-06 13:49:20 (First version)_
+2. [Yemeni al-Qaeda crackdown:: 80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/yemeni-al-qaeda-crackdown-80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-governmen.md) _2018-02-06 13:49:20 (Update)_
 2. [80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-government-troops-killed-several-peop.md) _(Current version)_
 
 ### Related:

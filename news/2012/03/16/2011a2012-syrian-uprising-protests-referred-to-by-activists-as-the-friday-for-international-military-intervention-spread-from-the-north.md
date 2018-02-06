@@ -16,7 +16,7 @@ Activists call for foreign intervention as UN-Arab League envoy Kofi Annan prepa
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011-2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md) _2017-08-27 03:35:27 (First version)_
+1. [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011-2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011a2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md) _(Current version)_
 
 ### Related:

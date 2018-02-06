@@ -16,7 +16,7 @@ President Obama promised to raise human rights concerns when he makes a historic
 
 ### Changes:
 
-1. [Cuba-United States relations: The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/cuba-united-states-relations-the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-fi.md) _2017-08-27 03:44:57 (First version)_
+1. [Cuba-United States relations: The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/cuba-united-states-relations-the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-fi.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.md) _(Current version)_
 
 ### Related:

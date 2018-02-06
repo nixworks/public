@@ -16,7 +16,7 @@ A storm that brought heavy rain and gusty thunderstorms to Southern California w
 
 ### Changes:
 
-1. [February 2016 North American storm complex: A snow storm in the United States is affecting multiple regions in Colorado, California and elsewhere, with more than 70,000 people in southern California losing power. ](/news/2016/02/1/february-2016-north-american-storm-complex-a-snow-storm-in-the-united-states-is-affecting-multiple-regions-in-colorado-california-and-else.md) _2017-08-27 03:44:48 (First version)_
+1. [February 2016 North American storm complex: A snow storm in the United States is affecting multiple regions in Colorado, California and elsewhere, with more than 70,000 people in southern California losing power. ](/news/2016/02/1/february-2016-north-american-storm-complex-a-snow-storm-in-the-united-states-is-affecting-multiple-regions-in-colorado-california-and-else.md) _2018-02-06 13:49:28 (First version)_
 1. [A snow storm in the United States is affecting multiple regions in Colorado, California and elsewhere, with more than 70,000 people in southern California losing power. ](/news/2016/02/1/a-snow-storm-in-the-united-states-is-affecting-multiple-regions-in-colorado-california-and-elsewhere-with-more-than-70-000-people-in-south.md) _(Current version)_
 
 ### Related:

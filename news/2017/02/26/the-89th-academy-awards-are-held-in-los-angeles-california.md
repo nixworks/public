@@ -21,7 +21,7 @@ The most coveted award of the Oscars descends into chaos, with La La Land mistak
 
 ### Changes:
 
-1. [89th Academy Awards: The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/89th-academy-awards-the-89th-academy-awards-are-held-in-los-angeles-california.md) _2017-08-27 03:47:54 (First version)_
+1. [89th Academy Awards: The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/89th-academy-awards-the-89th-academy-awards-are-held-in-los-angeles-california.md) _2018-02-06 13:49:30 (First version)_
 1. [The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/the-89th-academy-awards-are-held-in-los-angeles-california.md) _(Current version)_
 
 ### Related:

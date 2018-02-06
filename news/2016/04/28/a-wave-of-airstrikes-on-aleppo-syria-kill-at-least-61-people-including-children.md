@@ -19,7 +19,7 @@ At least 27 people at a hospital in Aleppo, Syria, were killed overnight, includ
 
 ### Changes:
 
-1. [Syrian Civil War: A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/syrian-civil-war-a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _2017-08-27 03:45:54 (First version)_
+1. [Syrian Civil War: A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/syrian-civil-war-a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _2018-02-06 13:49:29 (First version)_
 1. [A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _(Current version)_
 
 ### Related:

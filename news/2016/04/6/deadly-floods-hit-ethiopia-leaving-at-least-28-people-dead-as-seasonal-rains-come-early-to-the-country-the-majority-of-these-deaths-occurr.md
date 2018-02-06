@@ -15,7 +15,7 @@ Months of a severe drought broken by heavy rain as torrential downpours develop 
 
 ### Changes:
 
-1. [2016 Ethiopia flood: Deadly floods hit Ethiopia, leaving at least 28 people dead as seasonal rains come early to the country. The majority of these deaths occurred in the city of Jijiga while elsewhere, heavy downpours of rain were reported with more floods expected in the next few days. ](/news/2016/04/6/2016-ethiopia-flood-deadly-floods-hit-ethiopia-leaving-at-least-28-people-dead-as-seasonal-rains-come-early-to-the-country-the-majority-o.md) _2017-08-27 03:45:31 (First version)_
+1. [2016 Ethiopia flood: Deadly floods hit Ethiopia, leaving at least 28 people dead as seasonal rains come early to the country. The majority of these deaths occurred in the city of Jijiga while elsewhere, heavy downpours of rain were reported with more floods expected in the next few days. ](/news/2016/04/6/2016-ethiopia-flood-deadly-floods-hit-ethiopia-leaving-at-least-28-people-dead-as-seasonal-rains-come-early-to-the-country-the-majority-o.md) _2018-02-06 13:49:29 (First version)_
 1. [Deadly floods hit Ethiopia, leaving at least 28 people dead as seasonal rains come early to the country. The majority of these deaths occurred in the city of Jijiga while elsewhere, heavy downpours of rain were reported with more floods expected in the next few days. ](/news/2016/04/6/deadly-floods-hit-ethiopia-leaving-at-least-28-people-dead-as-seasonal-rains-come-early-to-the-country-the-majority-of-these-deaths-occurr.md) _(Current version)_
 
 ### Related:

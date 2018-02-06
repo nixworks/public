@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/01/18/an-israeli-helicopter-strike-near-the-border-wi
 
 ### Changes:
 
-1. [Israeli-Lebanese conflict: An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/israeli-lebanese-conflict-an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbol.md) _2017-08-27 03:41:48 (First version)_
+1. [Israeli-Lebanese conflict: An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/israeli-lebanese-conflict-an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbol.md) _2018-02-06 13:49:26 (First version)_
 1. [An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbollah.md) _(Current version)_
 
 ### Related:

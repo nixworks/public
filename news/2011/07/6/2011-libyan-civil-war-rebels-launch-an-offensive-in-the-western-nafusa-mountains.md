@@ -20,8 +20,8 @@ Fighters take town of al-Qawalish after six-hour battle and move closer to cutti
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war:Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/arab-spring-p2011-libyan-civil-war-prebels-launch-an-offensive-in-the-western-nafusa-mountains.md) _2017-08-25 03:33:42 (First version)_
-2. [Arab Spring:: 2011 Libyan civil war:: Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/arab-spring-2011-libyan-civil-war-rebels-launch-an-offensive-in-the-western-nafusa-mountains.md) _2017-08-27 03:33:50 (Update)_
+1. [Arab Spring:2011 Libyan civil war:Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/arab-spring-p2011-libyan-civil-war-prebels-launch-an-offensive-in-the-western-nafusa-mountains.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/arab-spring-2011-libyan-civil-war-rebels-launch-an-offensive-in-the-western-nafusa-mountains.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war:Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/2011-libyan-civil-war-rebels-launch-an-offensive-in-the-western-nafusa-mountains.md) _(Current version)_
 
 ### Related:

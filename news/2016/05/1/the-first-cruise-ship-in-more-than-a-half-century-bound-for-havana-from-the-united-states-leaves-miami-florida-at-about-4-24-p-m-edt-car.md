@@ -16,7 +16,7 @@ MIAMI (AP) — Passengers set sail Sunday from Miami on an historic cruise to Cu
 
 ### Changes:
 
-1. [United States-Cuban thaw: The first cruise ship in more than a half-century bound for Havana from the United States leaves Miami, Florida, at about 4:24 p.m. EDT. Carnival Cruise Line's 704-passenger Adonia was able to set sail for the northern Caribbean country after Cuba, April 22, loosened its policy banning Cuban-born people from traveling to the country by sea. ](/news/2016/05/1/united-states-cuban-thaw-the-first-cruise-ship-in-more-than-a-half-century-bound-for-havana-from-the-united-states-leaves-miami-florida.md) _2017-08-27 03:45:56 (First version)_
+1. [United States-Cuban thaw: The first cruise ship in more than a half-century bound for Havana from the United States leaves Miami, Florida, at about 4:24 p.m. EDT. Carnival Cruise Line's 704-passenger Adonia was able to set sail for the northern Caribbean country after Cuba, April 22, loosened its policy banning Cuban-born people from traveling to the country by sea. ](/news/2016/05/1/united-states-cuban-thaw-the-first-cruise-ship-in-more-than-a-half-century-bound-for-havana-from-the-united-states-leaves-miami-florida.md) _2018-02-06 13:49:29 (First version)_
 1. [The first cruise ship in more than a half-century bound for Havana from the United States leaves Miami, Florida, at about 4:24 p.m. EDT. Carnival Cruise Line's 704-passenger Adonia was able to set sail for the northern Caribbean country after Cuba, April 22, loosened its policy banning Cuban-born people from traveling to the country by sea. ](/news/2016/05/1/the-first-cruise-ship-in-more-than-a-half-century-bound-for-havana-from-the-united-states-leaves-miami-florida-at-about-4-24-p-m-edt-car.md) _(Current version)_
 
 ### Related:

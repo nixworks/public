@@ -17,7 +17,7 @@ At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
 ##### Somalia
 ### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md)
-_Context: President, Sharif Ahmed, Somalia_
+_Context: Somalia, President, Sharif Ahmed_
 
 ##### Senegal
 ### [Millions of people in Senegal mourn the death of Grand Marabout of the Mourides, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/1/millions-of-people-in-senegal-mourn-the-death-of-grand-marabout-of-the-mourides-serigne-mouhamadou-lamine-bara-mbacka-c.md)
@@ -25,11 +25,11 @@ Hundreds of thousands of Senegalese are expected at ceremonies to mourn the lead
 
 ##### Ottawa
 ### [People take to the streets in Ottawa to celebrate Canada's 143rd birthday. ](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.md)
-_Context: Canada Day, Ottawa_
+_Context: Ottawa, Canada Day_
 
 ##### China
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
-_Context: 24-hour English TV news channel, China, China, Xinhua_
+_Context: 24-hour English TV news channel, Xinhua, China, China_
 
 ##### Hurricane Alex
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
@@ -53,7 +53,7 @@ _Context: Nita Lowey, House Appropriations Committee_
 
 ##### drug
 ### [More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. ](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.md)
-_Context: dancing outreach, morphine, opium, ketamine, methamphetamine hydrochloride, drug, Tibet, Lhasa_
+_Context: dancing outreach, ketamine, drug, Lhasa, Tibet, morphine, opium, methamphetamine hydrochloride_
 
 ##### Hong Kong
 ### [An estimated 52,000 people took part in anti-government protests in the former British colony of Hong Kong. ](/news/2010/07/1/an-estimated-52-000-people-took-part-in-anti-government-protests-in-the-former-british-colony-of-hong-kong.md)
@@ -61,13 +61,13 @@ Tens of thousands of people stage pro-democracy protests in Hong Kong on the ann
 
 ##### 
 ### [The United States Government actively seizes the domains of 7 U.S. based ](/news/2010/07/1/the-united-states-government-actively-seizes-the-domains-of-7-u-s-based.md)
-##### British
+##### United Kingdom
 ### [The United Kingdom's Forced Marriage Unit (FMU) reports there has been a surge in cases of gay and bisexual men in some communities being forced to marry by their families. ](/news/2010/07/1/the-united-kingdom-s-forced-marriage-unit-fmu-reports-there-has-been-a-surge-in-cases-of-gay-and-bisexual-men-in-some-communities-being-fo.md)
-_Context: British_
+_Context: United Kingdom_
 
 ##### Pierre Nkurunziza
 ### [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md)
-_Context: Burundi, President, presidential election, Pierre Nkurunziza_
+_Context: President, Burundi, presidential election, Pierre Nkurunziza_
 
 ##### Parliament of Finland
 ### [The Parliament of Finland approves the construction of two nuclear power stations. ](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.md)

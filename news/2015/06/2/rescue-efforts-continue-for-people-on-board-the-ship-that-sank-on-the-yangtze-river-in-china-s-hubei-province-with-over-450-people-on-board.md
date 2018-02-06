@@ -17,7 +17,7 @@ China’s official news agency said the ship sank Monday night in a storm, and a
 
 ### Changes:
 
-1. [Sinking of the "Dong Fang Zhi Xing": Rescue efforts continue for people on board the ship that sank on the Yangtze River in China's Hubei province with over 450 people on board. So far, fewer than 12 have been rescued and five bodies recovered. ](/news/2015/06/2/sinking-of-the-dong-fang-zhi-xing-rescue-efforts-continue-for-people-on-board-the-ship-that-sank-on-the-yangtze-river-in-china-s-hubei-pr.md) _2017-08-27 03:42:28 (First version)_
+1. [Sinking of the "Dong Fang Zhi Xing": Rescue efforts continue for people on board the ship that sank on the Yangtze River in China's Hubei province with over 450 people on board. So far, fewer than 12 have been rescued and five bodies recovered. ](/news/2015/06/2/sinking-of-the-dong-fang-zhi-xing-rescue-efforts-continue-for-people-on-board-the-ship-that-sank-on-the-yangtze-river-in-china-s-hubei-pr.md) _2018-02-06 13:49:27 (First version)_
 1. [Rescue efforts continue for people on board the ship that sank on the Yangtze River in China's Hubei province with over 450 people on board. So far, fewer than 12 have been rescued and five bodies recovered. ](/news/2015/06/2/rescue-efforts-continue-for-people-on-board-the-ship-that-sank-on-the-yangtze-river-in-china-s-hubei-province-with-over-450-people-on-board.md) _(Current version)_
 
 ### Related:

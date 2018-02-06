@@ -18,7 +18,7 @@ Hundreds of thousands called on President Park Geun-hye to resign amid a widenin
 
 ### Changes:
 
-1. [2016 South Korean protests: As many as 1,000,000 people march on the presidential Blue House in Seoul, South Korea, calling for the resignation of President Park Geun-hye amid an ongoing corruption scandal. It is the largest protest in South Korea since the protests against U.S. beef imports in 2008. ](/news/2016/11/12/2016-south-korean-protests-as-many-as-1-000-000-people-march-on-the-presidential-blue-house-in-seoul-south-korea-calling-for-the-resignat.md) _2017-08-27 03:47:13 (First version)_
+1. [2016 South Korean protests: As many as 1,000,000 people march on the presidential Blue House in Seoul, South Korea, calling for the resignation of President Park Geun-hye amid an ongoing corruption scandal. It is the largest protest in South Korea since the protests against U.S. beef imports in 2008. ](/news/2016/11/12/2016-south-korean-protests-as-many-as-1-000-000-people-march-on-the-presidential-blue-house-in-seoul-south-korea-calling-for-the-resignat.md) _2018-02-06 13:49:29 (First version)_
 1. [As many as 1,000,000 people march on the presidential Blue House in Seoul, South Korea, calling for the resignation of President Park Geun-hye amid an ongoing corruption scandal. It is the largest protest in South Korea since the protests against U.S. beef imports in 2008. ](/news/2016/11/12/as-many-as-1-000-000-people-march-on-the-presidential-blue-house-in-seoul-south-korea-calling-for-the-resignation-of-president-park-geun-h.md) _(Current version)_
 
 ### Related:

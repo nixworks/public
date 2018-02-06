@@ -18,8 +18,8 @@ Forces fighting to oust the Libyan leader Col Muammar Gaddafi seize control of Z
 
 ### Changes:
 
-1. [ Libya:The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/libya-pthe-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _2017-08-25 03:32:21 (First version)_
-2. [ Libya:: The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/libya-the-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _2017-08-27 03:32:29 (Update)_
+1. [ Libya:: The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/libya-the-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _2018-02-06 13:49:22 (First version)_
+2. [ Libya:The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/libya-pthe-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _2018-02-06 13:49:22 (Update)_
 2. [The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/the-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md) _(Current version)_
 
 ### Related:

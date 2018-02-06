@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/8/amidst-several-spending-scandals-the-french-majo
 
 ### Changes:
 
-1. [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of -79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of.md) _2017-08-27 03:40:57 (First version)_
+1. [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of -79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of.md) _2018-02-06 13:49:26 (First version)_
 1. [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of-a.md) _(Current version)_
 
 ### Related:

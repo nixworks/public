@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/12/31/patrick-stewart-the-actor-who-played-captain-je
 
 ### Changes:
 
-1. [ Patrick Stewart, the actor who played Captain Jean-Luc Picard in ''Star Trek: The Next Generation'' and Professor X in ''X-Men'', is knighted by Queen Elizabeth II of the United Kingdom. ](/news/2009/12/31/patrick-stewart-the-actor-who-played-captain-jean-luc-picard-in-star-trek-the-next-generation-and-professor-x-in-x-men-is-knight.md) _2017-08-25 03:26:45 (First version)_
+1. [ Patrick Stewart, the actor who played Captain Jean-Luc Picard in ''Star Trek: The Next Generation'' and Professor X in ''X-Men'', is knighted by Queen Elizabeth II of the United Kingdom. ](/news/2009/12/31/patrick-stewart-the-actor-who-played-captain-jean-luc-picard-in-star-trek-the-next-generation-and-professor-x-in-x-men-is-knight.md) _2018-02-06 13:49:19 (First version)_
 1. [ Patrick Stewart, the actor who played Captain Jean-Luc Picard in "Star Trek: The Next Generation" and Professor X in "X-Men", is knighted by Queen Elizabeth II of the United Kingdom. ](/news/2009/12/31/patrick-stewart-the-actor-who-played-captain-jean-luc-picard-in-star-trek-the-next-generation-and-professor-x-in-x-men-is-knighted-b.md) _(Current version)_
 
 ### Related:

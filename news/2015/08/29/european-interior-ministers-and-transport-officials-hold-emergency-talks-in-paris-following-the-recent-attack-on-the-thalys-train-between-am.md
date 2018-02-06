@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/08/29/european-interior-ministers-and-transport-offic
 
 ### Changes:
 
-1. [2015 Thalys train attack: European interior ministers and transport officials hold emergency talks in Paris following the recent attack on the Thalys train between Amsterdam and Paris. ](/news/2015/08/29/2015-thalys-train-attack-european-interior-ministers-and-transport-officials-hold-emergency-talks-in-paris-following-the-recent-attack-on-t.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Thalys train attack: European interior ministers and transport officials hold emergency talks in Paris following the recent attack on the Thalys train between Amsterdam and Paris. ](/news/2015/08/29/2015-thalys-train-attack-european-interior-ministers-and-transport-officials-hold-emergency-talks-in-paris-following-the-recent-attack-on-t.md) _2018-02-06 13:49:27 (First version)_
 1. [European interior ministers and transport officials hold emergency talks in Paris following the recent attack on the Thalys train between Amsterdam and Paris. ](/news/2015/08/29/european-interior-ministers-and-transport-officials-hold-emergency-talks-in-paris-following-the-recent-attack-on-the-thalys-train-between-am.md) _(Current version)_
 
 ### Related:

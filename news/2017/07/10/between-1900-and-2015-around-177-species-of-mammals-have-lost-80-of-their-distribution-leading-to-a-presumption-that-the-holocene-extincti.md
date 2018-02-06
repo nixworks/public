@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/10/between-1900-and-2015-around-177-species-of-mam
 
 ### Changes:
 
-1. [''The Sixth Extinction''Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/the-sixth-extinction-pbetween-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-t.md) _2017-08-25 03:48:11 (First version)_
-2. ["The Sixth Extinction": Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/the-sixth-extinction-between-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-th.md) _2017-08-27 03:48:38 (Update)_
+1. [''The Sixth Extinction''Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/the-sixth-extinction-pbetween-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-t.md) _2018-02-06 13:49:30 (First version)_
+2. ["The Sixth Extinction": Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/the-sixth-extinction-between-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-th.md) _2018-02-06 13:49:30 (Update)_
 2. [Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/between-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-that-the-holocene-extincti.md) _(Current version)_
 
 ### Related:

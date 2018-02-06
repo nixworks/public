@@ -16,7 +16,7 @@ The agreement comes as upscale American brands grapple with plummeting sales and
 
 ### Changes:
 
-1. [Jimmy Choo Ltd: Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/jimmy-choo-ltd-michael-kors-buys-jimmy-choo-for-us-1-2-billion.md) _2017-08-27 03:48:43 (First version)_
+1. [Jimmy Choo Ltd: Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/jimmy-choo-ltd-michael-kors-buys-jimmy-choo-for-us-1-2-billion.md) _2018-02-06 13:49:30 (First version)_
 1. [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md) _(Current version)_
 
 ### Related:

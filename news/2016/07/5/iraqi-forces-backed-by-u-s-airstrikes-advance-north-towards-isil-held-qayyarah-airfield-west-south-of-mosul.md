@@ -17,7 +17,7 @@ Iraqi forces have retaken a cluster of northern villages from Islamic State mili
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraqi forces, backed by U.S. airstrikes, advance north towards ISIL-held Qayyarah Airfield West south of Mosul. ](/news/2016/07/5/iraqi-civil-war-iraqi-forces-backed-by-u-s-airstrikes-advance-north-towards-isil-held-qayyarah-airfield-west-south-of-mosul.md) _2017-08-27 03:46:25 (First version)_
+1. [Iraqi Civil War: Iraqi forces, backed by U.S. airstrikes, advance north towards ISIL-held Qayyarah Airfield West south of Mosul. ](/news/2016/07/5/iraqi-civil-war-iraqi-forces-backed-by-u-s-airstrikes-advance-north-towards-isil-held-qayyarah-airfield-west-south-of-mosul.md) _2018-02-06 13:49:29 (First version)_
 1. [Iraqi forces, backed by U.S. airstrikes, advance north towards ISIL-held Qayyarah Airfield West south of Mosul. ](/news/2016/07/5/iraqi-forces-backed-by-u-s-airstrikes-advance-north-towards-isil-held-qayyarah-airfield-west-south-of-mosul.md) _(Current version)_
 
 ### Related:

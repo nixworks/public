@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/27/france-nationalises-the-stx-europe-owned-chanti
 
 ### Changes:
 
-1. [Chantiers de l'Atlantique: France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/chantiers-de-l-atlantique-france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-t.md) _2017-08-27 03:48:44 (First version)_
+1. [Chantiers de l'Atlantique: France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/chantiers-de-l-atlantique-france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-t.md) _2018-02-06 13:49:31 (First version)_
 1. [France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-to-prevent-italian-shipbuild.md) _(Current version)_
 
 ### Related:

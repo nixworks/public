@@ -15,7 +15,7 @@ Pathankot terror attack: Operation continues for second day; PM Modi chairs high
 
 ### Changes:
 
-1. [Terrorism in India: 2016 Pathankot attack: Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. ](/news/2016/01/3/terrorism-in-india-2016-pathankot-attack-gunfire-and-loud-explosions-are-heard-at-an-indian-air-force-base-in-pathankot-punjab-as-anti-t.md) _2017-08-27 03:44:34 (First version)_
+1. [Terrorism in India: 2016 Pathankot attack: Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. ](/news/2016/01/3/terrorism-in-india-2016-pathankot-attack-gunfire-and-loud-explosions-are-heard-at-an-indian-air-force-base-in-pathankot-punjab-as-anti-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. ](/news/2016/01/3/gunfire-and-loud-explosions-are-heard-at-an-indian-air-force-base-in-pathankot-punjab-as-anti-terrorist-operations-continue-a-further-two.md) _(Current version)_
 
 ### Related:

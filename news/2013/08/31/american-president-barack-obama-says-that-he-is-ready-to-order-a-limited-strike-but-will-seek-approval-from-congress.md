@@ -18,8 +18,8 @@ BEIRUT - A United Nations chemical inspection team left Syria on Saturday as U.S
 
 ### Changes:
 
-1. [Syrian civil war:American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/syrian-civil-war-pamerican-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md) _2017-08-25 03:39:14 (First version)_
-2. [Syrian civil war:: American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/syrian-civil-war-american-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md) _2017-08-27 03:39:29 (Update)_
+1. [Syrian civil war:American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/syrian-civil-war-pamerican-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/syrian-civil-war-american-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md) _2018-02-06 13:49:25 (Update)_
 2. [American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/american-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md) _(Current version)_
 
 ### Related:

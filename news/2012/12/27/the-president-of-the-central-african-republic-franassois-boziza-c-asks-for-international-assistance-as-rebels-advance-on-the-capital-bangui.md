@@ -18,8 +18,8 @@ Leader of Central African Republic appeals for help securing city of Bangui, as 
 
 ### Changes:
 
-1. [2012 Central African Republic rebellion:The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/2012-central-african-republic-rebellion-pthe-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistance.md) _2017-08-25 03:37:08 (First version)_
-2. [2012 Central African Republic rebellion:: The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/2012-central-african-republic-rebellion-the-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistanc.md) _2017-08-27 03:37:19 (Update)_
+1. [2012 Central African Republic rebellion:: The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/2012-central-african-republic-rebellion-the-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistanc.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 Central African Republic rebellion:The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/2012-central-african-republic-rebellion-pthe-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistance.md) _2018-02-06 13:49:24 (Update)_
 2. [The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/the-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistance-as-rebels-advance-on-the-capital-bangui.md) _(Current version)_
 
 ### Related:

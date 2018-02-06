@@ -17,7 +17,7 @@ South Korean prosecutors have raided the offices of Samsung Electronics as part 
 
 ### Changes:
 
-1. [2016 South Korean political scandal: South Korean prosecutors raid the offices of Samsung Electronics as part of a ongoing probe into President Park Geun-hye's controversial association with Choi Soon-sil. Yonhap News Agency reports prosecutors are investigating whether Samsung improperly provided financial assistance to Choi's daughter, Chung Yoo-ra. ](/news/2016/11/8/2016-south-korean-political-scandal-south-korean-prosecutors-raid-the-offices-of-samsung-electronics-as-part-of-a-ongoing-probe-into-presid.md) _2017-08-27 03:47:12 (First version)_
+1. [2016 South Korean political scandal: South Korean prosecutors raid the offices of Samsung Electronics as part of a ongoing probe into President Park Geun-hye's controversial association with Choi Soon-sil. Yonhap News Agency reports prosecutors are investigating whether Samsung improperly provided financial assistance to Choi's daughter, Chung Yoo-ra. ](/news/2016/11/8/2016-south-korean-political-scandal-south-korean-prosecutors-raid-the-offices-of-samsung-electronics-as-part-of-a-ongoing-probe-into-presid.md) _2018-02-06 13:49:29 (First version)_
 1. [South Korean prosecutors raid the offices of Samsung Electronics as part of a ongoing probe into President Park Geun-hye's controversial association with Choi Soon-sil. Yonhap News Agency reports prosecutors are investigating whether Samsung improperly provided financial assistance to Choi's daughter, Chung Yoo-ra. ](/news/2016/11/8/south-korean-prosecutors-raid-the-offices-of-samsung-electronics-as-part-of-a-ongoing-probe-into-president-park-geun-hye-s-controversial-ass.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Iraqi officials say a car bomb in Baghdad has killed at least 23 people and woun
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/iraqi-civil-war-2014-present-a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-o.md) _2017-08-27 03:48:00 (First version)_
+1. [Iraqi Civil War (2014-present): A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/iraqi-civil-war-2014-present-a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-o.md) _2018-02-06 13:49:30 (First version)_
 1. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _(Current version)_
 
 ### Related:

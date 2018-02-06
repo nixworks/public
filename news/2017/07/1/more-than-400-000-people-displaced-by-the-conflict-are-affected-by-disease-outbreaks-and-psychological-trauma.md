@@ -16,7 +16,7 @@ Over 70,380 people have been housed in 79 government-run evacuation centers wher
 
 ### Changes:
 
-1. [Marawi crisis: More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/marawi-crisis-more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md) _2017-08-27 03:48:35 (First version)_
+1. [Marawi crisis: More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/marawi-crisis-more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md) _2018-02-06 13:49:30 (First version)_
 1. [More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ At least six people have been killed in ongoing shooting in Kalamazoo County, Mi
 
 ### Changes:
 
-1. [2016 Kalamazoo shootings: Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _2017-08-27 03:44:57 (First version)_
+1. [2016 Kalamazoo shootings: Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _2018-02-06 13:49:28 (First version)_
 1. [Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.md) _(Current version)_
 
 ### Related:

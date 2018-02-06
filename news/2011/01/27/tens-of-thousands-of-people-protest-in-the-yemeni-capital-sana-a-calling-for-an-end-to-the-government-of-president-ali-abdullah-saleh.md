@@ -17,8 +17,8 @@ Tens of thousands of Yemenis demonstrate in the capital, Sanaa, calling on Presi
 
 ### Changes:
 
-1. [2011 Yemeni protests:Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/2011-yemeni-protests-ptens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-ali.md) _2017-08-25 03:31:57 (First version)_
-2. [2011 Yemeni protests:: Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/2011-yemeni-protests-tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-al.md) _2017-08-27 03:32:04 (Update)_
+1. [2011 Yemeni protests:: Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/2011-yemeni-protests-tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-al.md) _2018-02-06 13:49:21 (First version)_
+2. [2011 Yemeni protests:Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/2011-yemeni-protests-ptens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-ali.md) _2018-02-06 13:49:21 (Update)_
 2. [Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-ali-abdullah-saleh.md) _(Current version)_
 
 ### Related:

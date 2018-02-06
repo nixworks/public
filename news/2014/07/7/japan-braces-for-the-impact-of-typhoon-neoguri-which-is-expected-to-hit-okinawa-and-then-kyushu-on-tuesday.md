@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-w
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/2014-pacific-typhoon-season-japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md) _2017-08-27 03:40:56 (First version)_
+1. [2014 Pacific typhoon season: Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/2014-pacific-typhoon-season-japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md) _2018-02-06 13:49:26 (First version)_
 1. [Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md) _(Current version)_
 
 ### Related:

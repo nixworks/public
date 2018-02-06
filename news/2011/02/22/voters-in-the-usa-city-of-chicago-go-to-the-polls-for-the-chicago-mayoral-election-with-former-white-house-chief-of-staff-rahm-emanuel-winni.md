@@ -19,8 +19,8 @@ Formats: [HTML](/news/2011/02/22/voters-in-the-usa-city-of-chicago-go-to-the-pol
 
 ### Changes:
 
-1. [U.S. mayoral elections:Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/u-s-mayoral-elections-pvoters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of.md) _2017-08-25 03:32:18 (First version)_
-2. [U.S. mayoral elections:: Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/u-s-mayoral-elections-voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of.md) _2017-08-27 03:32:26 (Update)_
+1. [U.S. mayoral elections:: Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/u-s-mayoral-elections-voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of.md) _2018-02-06 13:49:22 (First version)_
+2. [U.S. mayoral elections:Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/u-s-mayoral-elections-pvoters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of.md) _2018-02-06 13:49:22 (Update)_
 2. [Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of-staff-rahm-emanuel-winni.md) _(Current version)_
 
 ### Related:

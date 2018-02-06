@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/27/index.html)  [JSON](2017/10/27/index.json)  [XML](201
 
 ##### Kazakh alphabets
 ### [President Nursultan Nazarbayev of Kazakhstan announces that the Kazakh language will begin using a Latin script, rather than the current Cyrillic script. ](/news/2017/10/27/president-nursultan-nazarbayev-of-kazakhstan-announces-that-the-kazakh-language-will-begin-using-a-latin-script-rather-than-the-current-cyr.md)
-_Context: Kazakh language, Latin script, Kazakh alphabets, Cyrillic script, Nursultan Nazarbayev_
+_Context: Nursultan Nazarbayev, Cyrillic script, Latin script, Kazakh alphabets, Kazakh language_
 
 ##### Burundian unrest (2015-present)
 ### [Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. ](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-international-criminal-court-amid-accusations-the-government-committed-crimes-against-humanit.md)

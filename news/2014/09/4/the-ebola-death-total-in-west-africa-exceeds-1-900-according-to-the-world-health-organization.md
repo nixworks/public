@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/09/4/the-ebola-death-total-in-west-africa-exceeds-1-9
 
 ### Changes:
 
-1. [2014 West Africa Ebola virus outbreak:The Ebola death total in West Africa exceeds 1,900, according to the World Health Organization. ](/news/2014/09/4/2014-west-africa-ebola-virus-outbreak-pthe-ebola-death-total-in-west-africa-exceeds-1-900-according-to-the-world-health-organization.md) _2017-08-25 03:40:56 (First version)_
-2. [2014 West Africa Ebola virus outbreak:: The Ebola death total in West Africa exceeds 1,900, according to the World Health Organization. ](/news/2014/09/4/2014-west-africa-ebola-virus-outbreak-the-ebola-death-total-in-west-africa-exceeds-1-900-according-to-the-world-health-organization.md) _2017-08-27 03:41:14 (Update)_
+1. [2014 West Africa Ebola virus outbreak:: The Ebola death total in West Africa exceeds 1,900, according to the World Health Organization. ](/news/2014/09/4/2014-west-africa-ebola-virus-outbreak-the-ebola-death-total-in-west-africa-exceeds-1-900-according-to-the-world-health-organization.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola virus outbreak:The Ebola death total in West Africa exceeds 1,900, according to the World Health Organization. ](/news/2014/09/4/2014-west-africa-ebola-virus-outbreak-pthe-ebola-death-total-in-west-africa-exceeds-1-900-according-to-the-world-health-organization.md) _2018-02-06 13:49:26 (Update)_
 2. [The Ebola death total in West Africa exceeds 1,900, according to the World Health Organization. ](/news/2014/09/4/the-ebola-death-total-in-west-africa-exceeds-1-900-according-to-the-world-health-organization.md) _(Current version)_
 
 ### Related:

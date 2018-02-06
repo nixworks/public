@@ -16,7 +16,7 @@ At least seven people are dead and many are missing as the floods on the island 
 
 ### Changes:
 
-1. [2017 Pacific typhoon season: Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/2017-pacific-typhoon-season-severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md) _2017-08-27 03:48:37 (First version)_
+1. [2017 Pacific typhoon season: Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/2017-pacific-typhoon-season-severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md) _2018-02-06 13:49:31 (First version)_
 1. [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md) _(Current version)_
 
 ### Related:

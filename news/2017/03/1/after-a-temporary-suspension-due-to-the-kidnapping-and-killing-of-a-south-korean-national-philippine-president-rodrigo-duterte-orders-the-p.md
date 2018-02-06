@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/1/after-a-temporary-suspension-due-to-the-kidnappi
 
 ### Changes:
 
-1. [Philippine Drug War: After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/philippine-drug-war-after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo.md) _2017-08-27 03:47:55 (First version)_
+1. [Philippine Drug War: After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/philippine-drug-war-after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo.md) _2018-02-06 13:49:30 (First version)_
 1. [After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo-duterte-orders-the-p.md) _(Current version)_
 
 ### Related:

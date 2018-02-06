@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are
 
 ### Changes:
 
-1. [Iran-Saudi Arabia relations: The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/iran-saudi-arabia-relations-the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md) _2017-08-27 03:46:47 (First version)_
+1. [Iran-Saudi Arabia relations: The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/iran-saudi-arabia-relations-the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md) _2018-02-06 13:49:29 (First version)_
 1. [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md) _(Current version)_
 
 ### Related:

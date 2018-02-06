@@ -16,8 +16,8 @@ Two suspected al Qaeda militants were killed in a U.S. drone strike in the south
 
 ### Changes:
 
-1. [South Yemen insurgency:Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-ptwo-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _2017-08-25 03:39:49 (First version)_
-2. [South Yemen insurgency:: Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _2017-08-27 03:40:07 (Update)_
+1. [South Yemen insurgency:: Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _2018-02-06 13:49:25 (First version)_
+2. [South Yemen insurgency:Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-ptwo-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _2018-02-06 13:49:25 (Update)_
 2. [Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md) _(Current version)_
 
 ### Related:

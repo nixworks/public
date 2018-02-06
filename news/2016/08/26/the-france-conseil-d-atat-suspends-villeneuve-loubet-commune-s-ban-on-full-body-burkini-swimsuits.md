@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-l
 
 ### Changes:
 
-1. [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-on-full-body-burkini-swimsuits.md) _2017-07-23 03:47:26 (First version)_
+1. [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-on-full-body-burkini-swimsuits.md) _2018-02-06 13:49:29 (First version)_
 1. [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.md) _(Current version)_
 
 ### Related:

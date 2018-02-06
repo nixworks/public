@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/12/6/israeliapalestinian-conflict-israeli-troops-back
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli troops backed by tanks and helicopter gunships swept into the Bureij refugee camp in the Gaza Strip on Friday, provoking a gunbattle and killing 10 people, Palestinian witnesses and medics said.](/news/2002/12/6/israeli-palestinian-conflict-israeli-troops-backed-by-tanks-and-helicopter-gunships-swept-into-the-bureij-refugee-camp-in-the-gaza-strip.md) _2017-08-27 03:15:18 (First version)_
+1. [Israeli-Palestinian conflict: Israeli troops backed by tanks and helicopter gunships swept into the Bureij refugee camp in the Gaza Strip on Friday, provoking a gunbattle and killing 10 people, Palestinian witnesses and medics said.](/news/2002/12/6/israeli-palestinian-conflict-israeli-troops-backed-by-tanks-and-helicopter-gunships-swept-into-the-bureij-refugee-camp-in-the-gaza-strip.md) _2018-02-06 13:49:15 (First version)_
 1. [Israeli-Palestinian conflict: Israeli troops backed by tanks and helicopter gunships swept into the Bureij refugee camp in the Gaza Strip on Friday, provoking a gunbattle and killing 10 people, Palestinian witnesses and medics said.](/news/2002/12/6/israeliapalestinian-conflict-israeli-troops-backed-by-tanks-and-helicopter-gunships-swept-into-the-bureij-refugee-camp-in-the-gaza-strip.md) _(Current version)_
 
 ### Related:

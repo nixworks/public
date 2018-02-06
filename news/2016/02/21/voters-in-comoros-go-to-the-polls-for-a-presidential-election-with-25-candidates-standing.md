@@ -16,7 +16,7 @@ The country has had more than 20 coups or attempts at seizing power since it gai
 
 ### Changes:
 
-1. [Comorian presidential election, 2016: Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/comorian-presidential-election-2016-voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _2017-08-27 03:44:58 (First version)_
+1. [Comorian presidential election, 2016: Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/comorian-presidential-election-2016-voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _(Current version)_
 
 ### Related:

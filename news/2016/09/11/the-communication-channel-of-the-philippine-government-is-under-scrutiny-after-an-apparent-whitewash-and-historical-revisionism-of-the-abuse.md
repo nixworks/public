@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/11/the-communication-channel-of-the-philippine-gov
 
 ### Changes:
 
-1. [Burial of Ferdinand Marcos: The communication channel of the Philippine government is under scrutiny after an apparent whitewash and historical revisionism of the abuses of the Marcos dictatorship. ](/news/2016/09/11/burial-of-ferdinand-marcos-the-communication-channel-of-the-philippine-government-is-under-scrutiny-after-an-apparent-whitewash-and-histori.md) _2017-08-27 03:46:49 (First version)_
+1. [Burial of Ferdinand Marcos: The communication channel of the Philippine government is under scrutiny after an apparent whitewash and historical revisionism of the abuses of the Marcos dictatorship. ](/news/2016/09/11/burial-of-ferdinand-marcos-the-communication-channel-of-the-philippine-government-is-under-scrutiny-after-an-apparent-whitewash-and-histori.md) _2018-02-06 13:49:29 (First version)_
 1. [The communication channel of the Philippine government is under scrutiny after an apparent whitewash and historical revisionism of the abuses of the Marcos dictatorship. ](/news/2016/09/11/the-communication-channel-of-the-philippine-government-is-under-scrutiny-after-an-apparent-whitewash-and-historical-revisionism-of-the-abuse.md) _(Current version)_
 
 ### Related:

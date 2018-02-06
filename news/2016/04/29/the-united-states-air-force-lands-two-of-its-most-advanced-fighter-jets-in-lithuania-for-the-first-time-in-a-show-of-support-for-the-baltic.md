@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-mo
 
 ### Changes:
 
-1. [Lithuania-United States relations: The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/lithuania-united-states-relations-the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time.md) _2017-08-27 03:45:55 (First version)_
+1. [Lithuania-United States relations: The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/lithuania-united-states-relations-the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md) _(Current version)_
 
 ### Related:

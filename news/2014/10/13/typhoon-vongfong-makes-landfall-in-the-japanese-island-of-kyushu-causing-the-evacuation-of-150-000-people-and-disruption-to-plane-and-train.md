@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/2014-pacific-typhoon-season-typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-d.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Pacific typhoon season: Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/2014-pacific-typhoon-season-typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-d.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-disruption-to-plane-and-train.md) _(Current version)_
 
 ### Related:

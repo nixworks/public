@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/12/index.html)  [JSON](2010/06/12/index.json)  [XML](201
 
 ##### Arkansas
 ### [The death toll from the Arkansas floods reaches 18. ](/news/2010/06/12/the-death-toll-from-the-arkansas-floods-reaches-18.md)
-_Context: floods, Arkansas_
+_Context: Arkansas, floods_
 
 ##### Ogaden National Liberation Front
 ### [The Ogaden National Liberation Front (ONLF) says the government of Ethiopia killed 71 civilians in a military operation last month. ](/news/2010/06/12/the-ogaden-national-liberation-front-onlf-says-the-government-of-ethiopia-killed-71-civilians-in-a-military-operation-last-month.md)
@@ -13,7 +13,7 @@ Ethiopia rejects claim by rebel group that government forces killed 71 civilians
 
 ##### Roza Otunbayeva
 ### [Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern-city-of-osh.md)
-_Context: Roza Otunbayeva, Osh, president, Russia, Kyrgyzstan_
+_Context: president, Roza Otunbayeva, Russia, Osh, Kyrgyzstan_
 
 ##### re-election
 ### [The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. ](/news/2010/06/12/the-first-anniversary-since-the-disputed-presidential-election-which-retained-mahmoud-ahmadinejad-passes-relatively-quietly-after-the-oppo.md)
@@ -37,7 +37,7 @@ The Cuban government is releasing an ailing political prisoner and transferring 
 
 ##### New Zealand
 ### [New Zealand's police find at least thirteen girls aged 12-16 who work as "active prostitutes" in the "young red light area" in Auckland's CBD. ](/news/2010/06/12/new-zealand-s-police-find-at-least-thirteen-girls-aged-12-16-who-work-as-active-prostitutes-in-the-young-red-light-area-in-auckland-s-cb.md)
-_Context: CBD, prostitute, New Zealand, young red light area, Auckland_
+_Context: prostitute, New Zealand, Auckland, CBD, young red light area_
 
 ##### teacher
 ### [A school teacher who stabbed 16 young pupils and a teacher in a knife rampage in south China in April is sentenced to death. ](/news/2010/06/12/a-school-teacher-who-stabbed-16-young-pupils-and-a-teacher-in-a-knife-rampage-in-south-china-in-april-is-sentenced-to-death.md)
@@ -49,15 +49,15 @@ _Context: East Africa, Kenya, European Union_
 
 ##### Buddhist monks
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
-_Context: Gautama Buddha, Buddhist monks, Buddhists, Jiangsu Province_
+_Context: Gautama Buddha, Buddhists, Jiangsu Province, Buddhist monks_
 
-##### British
+##### United Kingdom
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
-_Context: U.S. President, Prime Minister, Deepwater Horizon oil spill, Barack Obama, British, David Cameron_
+_Context: U.S. President, Prime Minister, Barack Obama, David Cameron, United Kingdom, Deepwater Horizon oil spill_
 
 ##### France
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: Southern Ocean, United States, Abby Sunderland, France, teenage, fishing boat, sailor_
+_Context: teenage, United States, fishing boat, sailor, Abby Sunderland, France, Southern Ocean_
 
 ##### Pilots
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)

@@ -17,7 +17,7 @@ A bomb killed at least 20 people at a Kurdish wedding in the northeast Syrian ci
 
 ### Changes:
 
-1. [Syrian civil war: A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. ](/news/2016/10/3/syrian-civil-war-a-suspected-female-suicide-bomber-kills-at-least-20-people-at-a-kurdish-wedding-in-the-syrian-city-of-al-hasakah.md) _2017-08-27 03:46:56 (First version)_
+1. [Syrian civil war: A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. ](/news/2016/10/3/syrian-civil-war-a-suspected-female-suicide-bomber-kills-at-least-20-people-at-a-kurdish-wedding-in-the-syrian-city-of-al-hasakah.md) _2018-02-06 13:49:29 (First version)_
 1. [A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. ](/news/2016/10/3/a-suspected-female-suicide-bomber-kills-at-least-20-people-at-a-kurdish-wedding-in-the-syrian-city-of-al-hasakah.md) _(Current version)_
 
 ### Related:

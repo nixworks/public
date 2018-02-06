@@ -23,7 +23,7 @@ At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as
 
 ### Changes:
 
-1. [US tornado outbreak: Tornados hit the midwestern and southern United States two days after the 2012 Leap Day tornado outbreak. ](/news/2012/03/2/us-tornado-outbreak-tornados-hit-the-midwestern-and-southern-united-states-two-days-after-the-2012-leap-day-tornado-outbreak.md) _2017-08-27 03:35:20 (First version)_
+1. [US tornado outbreak: Tornados hit the midwestern and southern United States two days after the 2012 Leap Day tornado outbreak. ](/news/2012/03/2/us-tornado-outbreak-tornados-hit-the-midwestern-and-southern-united-states-two-days-after-the-2012-leap-day-tornado-outbreak.md) _2018-02-06 13:49:23 (First version)_
 1. [Tornados hit the midwestern and southern United States two days after the 2012 Leap Day tornado outbreak. ](/news/2012/03/2/tornados-hit-the-midwestern-and-southern-united-states-two-days-after-the-2012-leap-day-tornado-outbreak.md) _(Current version)_
 
 ### Related:

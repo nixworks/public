@@ -16,7 +16,7 @@ Hong Kong’s legislature rejected a Beijing-backed election-reform plan, dealin
 
 ### Changes:
 
-1. [Hong Kong electoral reform: The Legislative Council of Hong Kong rejects a Beijing-backed electoral reform which sparked the Occupy Central with Love and Peace movement. ](/news/2015/06/18/hong-kong-electoral-reform-the-legislative-council-of-hong-kong-rejects-a-beijing-backed-electoral-reform-which-sparked-the-occupy-central.md) _2017-08-27 03:42:33 (First version)_
+1. [Hong Kong electoral reform: The Legislative Council of Hong Kong rejects a Beijing-backed electoral reform which sparked the Occupy Central with Love and Peace movement. ](/news/2015/06/18/hong-kong-electoral-reform-the-legislative-council-of-hong-kong-rejects-a-beijing-backed-electoral-reform-which-sparked-the-occupy-central.md) _2018-02-06 13:49:27 (First version)_
 1. [The Legislative Council of Hong Kong rejects a Beijing-backed electoral reform which sparked the Occupy Central with Love and Peace movement. ](/news/2015/06/18/the-legislative-council-of-hong-kong-rejects-a-beijing-backed-electoral-reform-which-sparked-the-occupy-central-with-love-and-peace-movement.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ The number of U.S. mortgage applications dropped last week by the most this year
 
 ### Changes:
 
-1. [Economy of the United States: New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/economy-of-the-united-states-new-home-construction-fell-to-its-lowest-level-since-april-2009.md) _2017-08-27 03:31:11 (First version)_
+1. [Economy of the United States: New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/economy-of-the-united-states-new-home-construction-fell-to-its-lowest-level-since-april-2009.md) _2018-02-06 13:49:21 (First version)_
 1. [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md) _(Current version)_
 
 ### Related:

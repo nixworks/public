@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/5/the-judge-disallows-discussion-of-bradley-mannin
 
 ### Changes:
 
-1. [''United States v. Bradley Manning'':The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-pthe-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikilea.md) _2017-08-25 03:38:47 (First version)_
-2. ["United States v. Bradley Manning":: The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileak.md) _2017-08-27 03:39:00 (Update)_
+1. ["United States v. Bradley Manning":: The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileak.md) _2018-02-06 13:49:25 (First version)_
+2. [''United States v. Bradley Manning'':The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-pthe-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikilea.md) _2018-02-06 13:49:25 (Update)_
 2. [The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileaks-at-this-time.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/02/19/an-agreement-is-reached-between-mongolian-gover
 
 ### Changes:
 
-1. [An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-international-partners.md) _2017-08-25 03:47:25 (First version)_
-2. [Mongolia's economy: An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/mongolia-s-economy-an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-inter.md) _2017-08-27 03:47:50 (Update)_
+1. [Mongolia's economy: An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/mongolia-s-economy-an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-inter.md) _2018-02-06 13:49:30 (First version)_
+2. [An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-international-partners.md) _2018-02-06 13:49:30 (Update)_
 2. [An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-international-partners-on.md) _(Current version)_
 
 ### Related:

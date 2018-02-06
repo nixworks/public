@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/03/11/the-united-states-national-aeronautics-and-spac
 
 ### Changes:
 
-1. [ The United States National Aeronautics and Space Administration delays the Space Shuttle ''Discovery'''s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space.md) _2017-08-25 03:24:04 (First version)_
+1. [ The United States National Aeronautics and Space Administration delays the Space Shuttle ''Discovery'''s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space.md) _2018-02-06 13:49:18 (First version)_
 1. [ The United States National Aeronautics and Space Administration delays the Space Shuttle "Discovery"'s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space-s.md) _(Current version)_
 
 ### Related:

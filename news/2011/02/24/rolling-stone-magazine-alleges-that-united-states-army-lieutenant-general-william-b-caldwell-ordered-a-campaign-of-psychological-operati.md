@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/02/24/rolling-stone-magazine-alleges-that-united-stat
 
 ### Changes:
 
-1. [''Rolling Stone Magazine'' alleges that United States Army Lieutenant General William B. Caldwell ordered a campaign of "psychological operations" to persuade influential people to continue support for the War in Afghanistan. ](/news/2011/02/24/rolling-stone-magazine-alleges-that-united-states-army-lieutenant-general-william-b-caldwell-ordered-a-campaign-of-psychological-opera.md) _2017-08-25 03:32:19 (First version)_
+1. [''Rolling Stone Magazine'' alleges that United States Army Lieutenant General William B. Caldwell ordered a campaign of "psychological operations" to persuade influential people to continue support for the War in Afghanistan. ](/news/2011/02/24/rolling-stone-magazine-alleges-that-united-states-army-lieutenant-general-william-b-caldwell-ordered-a-campaign-of-psychological-opera.md) _2018-02-06 13:49:22 (First version)_
 1. ["Rolling Stone" magazine alleges that United States Army Lieutenant General William B. Caldwell ordered a campaign of "psychological operations" to persuade influential people to continue support for the War in Afghanistan. ](/news/2011/02/24/rolling-stone-magazine-alleges-that-united-states-army-lieutenant-general-william-b-caldwell-ordered-a-campaign-of-psychological-operati.md) _(Current version)_
 
 ### Related:

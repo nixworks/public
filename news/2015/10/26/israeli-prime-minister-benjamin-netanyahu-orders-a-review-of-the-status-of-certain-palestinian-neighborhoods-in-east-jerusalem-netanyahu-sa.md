@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-order
 
 ### Changes:
 
-1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-s.md) _2017-08-25 03:43:13 (First version)_
+1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md) _(Current version)_
 
 ### Related:

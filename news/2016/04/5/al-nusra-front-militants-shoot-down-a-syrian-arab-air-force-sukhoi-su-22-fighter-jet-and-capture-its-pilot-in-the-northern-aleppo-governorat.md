@@ -16,7 +16,7 @@ The Syrian al-Qaeda faction Jabhat al-Nusra has captured an Assad regime pilot a
 
 ### Changes:
 
-1. [Syrian Civil War: Al-Nusra Front militants shoot down a Syrian Arab Air Force Sukhoi Su-22 fighter jet and capture its pilot in the northern Aleppo Governorate. ](/news/2016/04/5/syrian-civil-war-al-nusra-front-militants-shoot-down-a-syrian-arab-air-force-sukhoi-su-22-fighter-jet-and-capture-its-pilot-in-the-northern.md) _2017-08-27 03:45:30 (First version)_
+1. [Syrian Civil War: Al-Nusra Front militants shoot down a Syrian Arab Air Force Sukhoi Su-22 fighter jet and capture its pilot in the northern Aleppo Governorate. ](/news/2016/04/5/syrian-civil-war-al-nusra-front-militants-shoot-down-a-syrian-arab-air-force-sukhoi-su-22-fighter-jet-and-capture-its-pilot-in-the-northern.md) _2018-02-06 13:49:29 (First version)_
 1. [Al-Nusra Front militants shoot down a Syrian Arab Air Force Sukhoi Su-22 fighter jet and capture its pilot in the northern Aleppo Governorate. ](/news/2016/04/5/al-nusra-front-militants-shoot-down-a-syrian-arab-air-force-sukhoi-su-22-fighter-jet-and-capture-its-pilot-in-the-northern-aleppo-governorat.md) _(Current version)_
 
 ### Related:

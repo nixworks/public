@@ -17,7 +17,7 @@ The body of a &quot;one to two-year-old girl&quot; has been discovered in the ba
 
 ### Changes:
 
-1. [European migrant crisis: The body count from a van found on an Austrian highway carrying migrants yesterday rises to at least 71. Three people are arrested in Hungary in relation to their deaths. ](/news/2015/08/28/european-migrant-crisis-the-body-count-from-a-van-found-on-an-austrian-highway-carrying-migrants-yesterday-rises-to-at-least-71-three-peop.md) _2017-08-27 03:42:55 (First version)_
+1. [European migrant crisis: The body count from a van found on an Austrian highway carrying migrants yesterday rises to at least 71. Three people are arrested in Hungary in relation to their deaths. ](/news/2015/08/28/european-migrant-crisis-the-body-count-from-a-van-found-on-an-austrian-highway-carrying-migrants-yesterday-rises-to-at-least-71-three-peop.md) _2018-02-06 13:49:27 (First version)_
 1. [The body count from a van found on an Austrian highway carrying migrants yesterday rises to at least 71. Three people are arrested in Hungary in relation to their deaths. ](/news/2015/08/28/the-body-count-from-a-van-found-on-an-austrian-highway-carrying-migrants-yesterday-rises-to-at-least-71-three-people-are-arrested-in-hungar.md) _(Current version)_
 
 ### Related:

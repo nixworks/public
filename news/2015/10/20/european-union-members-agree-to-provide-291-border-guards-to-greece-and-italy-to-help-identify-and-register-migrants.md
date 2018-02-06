@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/20/european-union-members-agree-to-provide-291-bor
 
 ### Changes:
 
-1. [European migrant crisis: European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-migrant-crisis-european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrant.md) _2017-08-27 03:43:25 (First version)_
+1. [European migrant crisis: European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-migrant-crisis-european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrant.md) _2018-02-06 13:49:28 (First version)_
 1. [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md) _(Current version)_
 
 ### Related:

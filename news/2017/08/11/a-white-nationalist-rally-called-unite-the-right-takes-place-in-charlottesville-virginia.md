@@ -15,9 +15,9 @@ Formats: [HTML](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-righ
 
 ### Changes:
 
-1. [A white nationalist rally called Unite The Right took place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-took-place-in-charlottesville-virginia.md) _2017-08-12 20:30:04 (First version)_
-2. [Unite the Right rally: A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/unite-the-right-rally-a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _2017-08-27 03:48:47 (Update)_
-3. [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _2017-09-12 03:49:25 (Update)_
+1. [Unite the Right rally: A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/unite-the-right-rally-a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _2018-02-06 13:49:31 (First version)_
+2. [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _2018-02-06 13:49:31 (Update)_
+3. [A white nationalist rally called Unite The Right took place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-took-place-in-charlottesville-virginia.md) _2018-02-06 13:49:31 (Update)_
 3. [A white nationalist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Emmanuel Macron&#39;s party is on course to secure an historic majority in parli
 
 ### Changes:
 
-1. [French legislative election, 2017: Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/french-legislative-election-2017-voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-le.md) _2017-08-27 03:48:28 (First version)_
+1. [French legislative election, 2017: Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/french-legislative-election-2017-voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-le.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-legislative-election-to-begin-choosi.md) _(Current version)_
 
 ### Related:

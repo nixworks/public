@@ -22,7 +22,7 @@ Formats: [HTML](/news/2011/02/25/leader-muammar-gaddafi-addresses-a-crowd-of-sup
 
 ### Changes:
 
-1. [2011 Libyan civil war: Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/2011-libyan-civil-war-leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md) _2017-08-27 03:32:28 (First version)_
+1. [2011 Libyan civil war: Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/2011-libyan-civil-war-leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md) _2018-02-06 13:49:22 (First version)_
 1. [Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md) _(Current version)_
 
 ### Related:

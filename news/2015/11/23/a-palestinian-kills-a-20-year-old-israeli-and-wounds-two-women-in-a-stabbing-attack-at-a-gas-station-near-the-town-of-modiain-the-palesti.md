@@ -18,7 +18,7 @@ Israeli soldier murdered in attack on Route 443; Palestinians, 14 and 16, attack
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): A Palestinian kills a 20 year-old Israeli and wounds two women in a stabbing attack at a gas station near the town of Modi-in; the Palestinian assailant is shot and killed by an officer at the scene. ](/news/2015/11/23/israeli-palestinian-conflict-2015-a-palestinian-kills-a-20-year-old-israeli-and-wounds-two-women-in-a-stabbing-attack-at-a-gas-station-ne.md) _2017-08-27 03:44:01 (First version)_
+1. [Israeli-Palestinian conflict (2015): A Palestinian kills a 20 year-old Israeli and wounds two women in a stabbing attack at a gas station near the town of Modi-in; the Palestinian assailant is shot and killed by an officer at the scene. ](/news/2015/11/23/israeli-palestinian-conflict-2015-a-palestinian-kills-a-20-year-old-israeli-and-wounds-two-women-in-a-stabbing-attack-at-a-gas-station-ne.md) _2018-02-06 13:49:28 (First version)_
 1. [A Palestinian kills a 20 year-old Israeli and wounds two women in a stabbing attack at a gas station near the town of Modi'in; the Palestinian assailant is shot and killed by an officer at the scene. ](/news/2015/11/23/a-palestinian-kills-a-20-year-old-israeli-and-wounds-two-women-in-a-stabbing-attack-at-a-gas-station-near-the-town-of-modiain-the-palesti.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-
 
 ### Changes:
 
-1. [Drug policy of Canada: Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/drug-policy-of-canada-canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring.md) _2017-08-27 03:45:42 (First version)_
+1. [Drug policy of Canada: Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/drug-policy-of-canada-canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring.md) _2018-02-06 13:49:28 (First version)_
 1. [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md) _(Current version)_
 
 ### Related:

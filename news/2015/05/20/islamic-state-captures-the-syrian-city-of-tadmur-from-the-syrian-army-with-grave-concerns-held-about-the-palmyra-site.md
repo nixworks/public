@@ -17,7 +17,7 @@ Ancient Palmyra is home to 2,000-year-old monuments; Syrian antiquities chief sa
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: Islamic State captures the Syrian city of Tadmur from the Syrian Army with grave concerns held about the Palmyra site. ](/news/2015/05/20/islamic-state-in-iraq-and-the-levant-islamic-state-captures-the-syrian-city-of-tadmur-from-the-syrian-army-with-grave-concerns-held-about-t.md) _2017-08-27 03:42:21 (First version)_
+1. [Islamic State in Iraq and the Levant: Islamic State captures the Syrian city of Tadmur from the Syrian Army with grave concerns held about the Palmyra site. ](/news/2015/05/20/islamic-state-in-iraq-and-the-levant-islamic-state-captures-the-syrian-city-of-tadmur-from-the-syrian-army-with-grave-concerns-held-about-t.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic State captures the Syrian city of Tadmur from the Syrian Army with grave concerns held about the Palmyra site. ](/news/2015/05/20/islamic-state-captures-the-syrian-city-of-tadmur-from-the-syrian-army-with-grave-concerns-held-about-the-palmyra-site.md) _(Current version)_
 
 ### Related:

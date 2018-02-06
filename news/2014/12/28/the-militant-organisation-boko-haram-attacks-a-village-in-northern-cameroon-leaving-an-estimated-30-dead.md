@@ -16,7 +16,7 @@ A fresh attack by the Nigerian Islamist group Boko Haram in Cameroon has left ab
 
 ### Changes:
 
-1. [Boko Haram: The militant organisation Boko Haram attacks a village in Northern Cameroon, leaving an estimated 30 dead. ](/news/2014/12/28/boko-haram-the-militant-organisation-boko-haram-attacks-a-village-in-northern-cameroon-leaving-an-estimated-30-dead.md) _2017-08-27 03:41:41 (First version)_
+1. [Boko Haram: The militant organisation Boko Haram attacks a village in Northern Cameroon, leaving an estimated 30 dead. ](/news/2014/12/28/boko-haram-the-militant-organisation-boko-haram-attacks-a-village-in-northern-cameroon-leaving-an-estimated-30-dead.md) _2018-02-06 13:49:26 (First version)_
 1. [The militant organisation Boko Haram attacks a village in Northern Cameroon, leaving an estimated 30 dead. ](/news/2014/12/28/the-militant-organisation-boko-haram-attacks-a-village-in-northern-cameroon-leaving-an-estimated-30-dead.md) _(Current version)_
 
 ### Related:

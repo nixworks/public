@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/22/space-shuttle-discovery-lands-safely-at-the-ken
 
 ### Changes:
 
-1. [ Space Shuttle ''Discovery'' lands safely at the Kennedy Space Center at 5:32 p.m. EST (22:32 UTC), concluding mission STS-116. They spent 13 days in space and visited the International Space Station. ](/news/2006/12/22/space-shuttle-discovery-lands-safely-at-the-kennedy-space-center-at-5-32-p-m-est-22-32-utc-concluding-mission-sts-116-they-spent-1.md) _2017-08-25 03:18:56 (First version)_
+1. [ Space Shuttle ''Discovery'' lands safely at the Kennedy Space Center at 5:32 p.m. EST (22:32 UTC), concluding mission STS-116. They spent 13 days in space and visited the International Space Station. ](/news/2006/12/22/space-shuttle-discovery-lands-safely-at-the-kennedy-space-center-at-5-32-p-m-est-22-32-utc-concluding-mission-sts-116-they-spent-1.md) _2018-02-06 13:49:17 (First version)_
 1. [ Space Shuttle "Discovery" lands safely at the Kennedy Space Center at 5:32 p.m. EST (22:32 UTC), concluding mission STS-116. They spent 13 days in space and visited the International Space Station. ](/news/2006/12/22/space-shuttle-discovery-lands-safely-at-the-kennedy-space-center-at-5-32-p-m-est-22-32-utc-concluding-mission-sts-116-they-spent-13.md) _(Current version)_
 
 ### Related:

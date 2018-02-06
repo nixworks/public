@@ -17,7 +17,7 @@ Here&#039;s the latest on severe weather that hit the Lone Star State late Sunda
 
 ### Changes:
 
-1. [Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at.md) _2017-08-25 03:47:26 (First version)_
+1. [Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at.md) _2018-02-06 13:49:30 (First version)_
 1. [Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at-le.md) _(Current version)_
 
 ### Related:

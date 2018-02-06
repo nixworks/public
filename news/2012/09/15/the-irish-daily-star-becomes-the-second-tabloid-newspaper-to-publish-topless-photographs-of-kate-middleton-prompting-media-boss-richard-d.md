@@ -16,7 +16,7 @@ Media boss Richard Desmond tonight began &quot;immediate steps&quot; to close do
 
 ### Changes:
 
-1. [The ''Irish Daily Star'' becomes the second tabloid newspaper to publish topless photographs of Kate Middleton, prompting media boss Richard Desmond to close down the joint venture between Independent News and Media and his Northern and Shell group that published the paper. ](/news/2012/09/15/the-irish-daily-star-becomes-the-second-tabloid-newspaper-to-publish-topless-photographs-of-kate-middleton-prompting-media-boss-richard.md) _2017-08-25 03:36:31 (First version)_
+1. [The ''Irish Daily Star'' becomes the second tabloid newspaper to publish topless photographs of Kate Middleton, prompting media boss Richard Desmond to close down the joint venture between Independent News and Media and his Northern and Shell group that published the paper. ](/news/2012/09/15/the-irish-daily-star-becomes-the-second-tabloid-newspaper-to-publish-topless-photographs-of-kate-middleton-prompting-media-boss-richard.md) _2018-02-06 13:49:23 (First version)_
 1. [The "Irish Daily Star" becomes the second tabloid newspaper to publish topless photographs of Kate Middleton, prompting media boss Richard Desmond to close down the joint venture between Independent News and Media and his Northern and Shell group that published the paper. ](/news/2012/09/15/the-irish-daily-star-becomes-the-second-tabloid-newspaper-to-publish-topless-photographs-of-kate-middleton-prompting-media-boss-richard-d.md) _(Current version)_
 
 ### Related:

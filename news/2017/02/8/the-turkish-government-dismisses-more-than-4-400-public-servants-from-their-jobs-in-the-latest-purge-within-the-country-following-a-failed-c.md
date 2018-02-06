@@ -16,7 +16,7 @@ Dismissals come hours after first phone call between presidents Trump and Erdoğ
 
 ### Changes:
 
-1. [ 2016-17 Turkish purges: The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/2016-17-turkish-purges-the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-c.md) _2017-08-27 03:47:46 (First version)_
+1. [ 2016-17 Turkish purges: The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/2016-17-turkish-purges-the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-c.md) _2018-02-06 13:49:30 (First version)_
 1. [The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-country-following-a-failed-c.md) _(Current version)_
 
 ### Related:

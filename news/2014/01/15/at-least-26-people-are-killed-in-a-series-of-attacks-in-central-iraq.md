@@ -16,7 +16,7 @@ At least 73 people have been killed in a series of bomb attacks in central Iraq,
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/iraqi-insurgency-post-u-s-withdrawal-at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md) _2017-08-27 03:40:10 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/iraqi-insurgency-post-u-s-withdrawal-at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md) _2018-02-06 13:49:25 (First version)_
 1. [At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md) _(Current version)_
 
 ### Related:

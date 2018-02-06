@@ -16,8 +16,8 @@ Follow live updates as a UN report into last month&#x27;s chemical weapons attac
 
 ### Changes:
 
-1. [Syrian civil war:The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-pthe-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md) _2017-08-25 03:39:17 (First version)_
-2. [Syrian civil war:: The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md) _2017-08-27 03:39:33 (Update)_
+1. [Syrian civil war:: The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-pthe-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md) _2018-02-06 13:49:25 (Update)_
 2. [The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md) _(Current version)_
 
 ### Related:

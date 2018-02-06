@@ -17,7 +17,7 @@ A small community in northern Saskatchewan is reeling after shootings at two loc
 
 ### Changes:
 
-1. [La Loche shootings: A former La Loche Community School student shot and killed two brothers at home, and two females, one a teacher, at the school in La Loche, Saskatchewan, Canada, while injuring others. A suspect has been arrested. ](/news/2016/01/22/la-loche-shootings-a-former-la-loche-community-school-student-shot-and-killed-two-brothers-at-home-and-two-females-one-a-teacher-at-the.md) _2017-08-27 03:44:44 (First version)_
+1. [La Loche shootings: A former La Loche Community School student shot and killed two brothers at home, and two females, one a teacher, at the school in La Loche, Saskatchewan, Canada, while injuring others. A suspect has been arrested. ](/news/2016/01/22/la-loche-shootings-a-former-la-loche-community-school-student-shot-and-killed-two-brothers-at-home-and-two-females-one-a-teacher-at-the.md) _2018-02-06 13:49:28 (First version)_
 1. [A former La Loche Community School student shot and killed two brothers at home, and two females, one a teacher, at the school in La Loche, Saskatchewan, Canada, while injuring others. A suspect has been arrested. ](/news/2016/01/22/a-former-la-loche-community-school-student-shot-and-killed-two-brothers-at-home-and-two-females-one-a-teacher-at-the-school-in-la-loche.md) _(Current version)_
 
 ### Related:

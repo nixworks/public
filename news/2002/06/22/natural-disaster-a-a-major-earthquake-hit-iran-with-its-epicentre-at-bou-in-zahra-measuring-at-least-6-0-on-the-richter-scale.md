@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/22/natural-disaster-a-a-major-earthquake-hit-iran-
 
 ### Changes:
 
-1. [ Natural disaster - a major earthquake hit Iran, with its epicentre at Bou'in-Zahra, measuring at least 6.0 on the Richter scale.](/news/2002/06/22/natural-disaster-a-major-earthquake-hit-iran-with-its-epicentre-at-bou-in-zahra-measuring-at-least-6-0-on-the-richter-scale.md) _2017-08-27 03:15:13 (First version)_
+1. [ Natural disaster - a major earthquake hit Iran, with its epicentre at Bou'in-Zahra, measuring at least 6.0 on the Richter scale.](/news/2002/06/22/natural-disaster-a-major-earthquake-hit-iran-with-its-epicentre-at-bou-in-zahra-measuring-at-least-6-0-on-the-richter-scale.md) _2018-02-06 13:49:15 (First version)_
 1. [ Natural disaster - a major earthquake hit Iran, with its epicentre at Bou'in-Zahra, measuring at least 6.0 on the Richter scale.](/news/2002/06/22/natural-disaster-a-a-major-earthquake-hit-iran-with-its-epicentre-at-bou-in-zahra-measuring-at-least-6-0-on-the-richter-scale.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Zika virus behind an outbreak in Singapore was not imported from South Ameri
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/2015-16-zika-virus-epidemic-the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _2017-08-27 03:46:46 (First version)_
+1. [2015-16 Zika virus epidemic: The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/2015-16-zika-virus-epidemic-the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _2018-02-06 13:49:29 (First version)_
 1. [The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _(Current version)_
 
 ### Related:

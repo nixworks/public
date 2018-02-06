@@ -16,7 +16,7 @@ A hillside collapsed onto Santa Catarina Pinula on the south-eastern edge of Gua
 
 ### Changes:
 
-1. [2015 Guatemala landslide: The death toll from the landslides in Guatemala rises to 253 with 374 people still missing. ](/news/2015/10/9/2015-guatemala-landslide-the-death-toll-from-the-landslides-in-guatemala-rises-to-253-with-374-people-still-missing.md) _2017-08-27 03:43:17 (First version)_
+1. [2015 Guatemala landslide: The death toll from the landslides in Guatemala rises to 253 with 374 people still missing. ](/news/2015/10/9/2015-guatemala-landslide-the-death-toll-from-the-landslides-in-guatemala-rises-to-253-with-374-people-still-missing.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the landslides in Guatemala rises to 253 with 374 people still missing. ](/news/2015/10/9/the-death-toll-from-the-landslides-in-guatemala-rises-to-253-with-374-people-still-missing.md) _(Current version)_
 
 ### Related:

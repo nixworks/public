@@ -20,7 +20,7 @@ The Democratic Party of Japan has promised to reverse the economic decline and r
 
 ### Changes:
 
-1. [ Japanese general election, 2009:: Japanese voters go to the polls. ](/news/2009/08/30/japanese-general-election-2009-japanese-voters-go-to-the-polls.md) _2017-08-27 03:25:28 (First version)_
+1. [ Japanese general election, 2009:: Japanese voters go to the polls. ](/news/2009/08/30/japanese-general-election-2009-japanese-voters-go-to-the-polls.md) _2018-02-06 13:49:19 (First version)_
 1. [ Japanese voters go to the polls. ](/news/2009/08/30/japanese-voters-go-to-the-polls.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Embattled Iraqi prime minister seeks to shore up crumbling support for his gover
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: The Prime Minister of Iraq Nouri al-Maliki calls for national unity as a Islamic State in Iraq and the Levant reaches Yathrib 87 kilometres (54 miles) north of Baghdad. ](/news/2014/06/25/2014-northern-iraq-offensive-the-prime-minister-of-iraq-nouri-al-maliki-calls-for-national-unity-as-a-islamic-state-in-iraq-and-the-levant.md) _2017-08-27 03:40:53 (First version)_
+1. [2014 Northern Iraq offensive: The Prime Minister of Iraq Nouri al-Maliki calls for national unity as a Islamic State in Iraq and the Levant reaches Yathrib 87 kilometres (54 miles) north of Baghdad. ](/news/2014/06/25/2014-northern-iraq-offensive-the-prime-minister-of-iraq-nouri-al-maliki-calls-for-national-unity-as-a-islamic-state-in-iraq-and-the-levant.md) _2018-02-06 13:49:26 (First version)_
 1. [The Prime Minister of Iraq Nouri al-Maliki calls for national unity as a Islamic State in Iraq and the Levant reaches Yathrib 87 kilometres (54 miles) north of Baghdad. ](/news/2014/06/25/the-prime-minister-of-iraq-nouri-al-maliki-calls-for-national-unity-as-a-islamic-state-in-iraq-and-the-levant-reaches-yathrib-87-kilometres.md) _(Current version)_
 
 ### Related:

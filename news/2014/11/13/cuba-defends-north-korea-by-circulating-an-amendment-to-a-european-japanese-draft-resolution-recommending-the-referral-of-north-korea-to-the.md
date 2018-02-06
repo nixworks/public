@@ -16,7 +16,7 @@ Cuba, which was involved in a violation of U.N. sanctions against North Korea la
 
 ### Changes:
 
-1. [United Nations: Cuba defends North Korea by circulating an amendment to a European-Japanese draft resolution recommending the referral of North Korea to the International Criminal Court for crimes against humanity. ](/news/2014/11/13/united-nations-cuba-defends-north-korea-by-circulating-an-amendment-to-a-european-japanese-draft-resolution-recommending-the-referral-of-no.md) _2017-08-27 03:41:30 (First version)_
+1. [United Nations: Cuba defends North Korea by circulating an amendment to a European-Japanese draft resolution recommending the referral of North Korea to the International Criminal Court for crimes against humanity. ](/news/2014/11/13/united-nations-cuba-defends-north-korea-by-circulating-an-amendment-to-a-european-japanese-draft-resolution-recommending-the-referral-of-no.md) _2018-02-06 13:49:26 (First version)_
 1. [Cuba defends North Korea by circulating an amendment to a European-Japanese draft resolution recommending the referral of North Korea to the International Criminal Court for crimes against humanity. ](/news/2014/11/13/cuba-defends-north-korea-by-circulating-an-amendment-to-a-european-japanese-draft-resolution-recommending-the-referral-of-north-korea-to-the.md) _(Current version)_
 
 ### Related:

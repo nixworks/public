@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-c
 
 ### Changes:
 
-1. [2016-17 South Pacific cyclone season: Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/2016-17-south-pacific-cyclone-season-severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-inf.md) _2017-08-27 03:48:18 (First version)_
+1. [2016-17 South Pacific cyclone season: Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/2016-17-south-pacific-cyclone-season-severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-inf.md) _2018-02-06 13:49:30 (First version)_
 1. [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md) _(Current version)_
 
 ### Related:

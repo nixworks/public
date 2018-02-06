@@ -15,7 +15,7 @@ Government to appeal court&#39;s nullification of President Sisi&#39;s plan to c
 
 ### Changes:
 
-1. [Egypt-Saudi Arabia relations: An Egyptian court, while not final, reverses the decision by President Abdel Fattah el-Sisi to cede Tiran and Sanafir Island to Saudi Arabia. ](/news/2016/06/21/egypt-saudi-arabia-relations-an-egyptian-court-while-not-final-reverses-the-decision-by-president-abdel-fattah-el-sisi-to-cede-tiran-an.md) _2017-08-27 03:46:18 (First version)_
+1. [Egypt-Saudi Arabia relations: An Egyptian court, while not final, reverses the decision by President Abdel Fattah el-Sisi to cede Tiran and Sanafir Island to Saudi Arabia. ](/news/2016/06/21/egypt-saudi-arabia-relations-an-egyptian-court-while-not-final-reverses-the-decision-by-president-abdel-fattah-el-sisi-to-cede-tiran-an.md) _2018-02-06 13:49:29 (First version)_
 1. [An Egyptian court, while not final, reverses the decision by President Abdel Fattah el-Sisi to cede Tiran and Sanafir Island to Saudi Arabia. ](/news/2016/06/21/an-egyptian-court-while-not-final-reverses-the-decision-by-president-abdel-fattah-el-sisi-to-cede-tiran-and-sanafir-island-to-saudi-arabia.md) _(Current version)_
 
 ### Related:

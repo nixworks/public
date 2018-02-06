@@ -9,7 +9,7 @@ _Context: FirstEnergy, U.S. nuclear regulators, Davis-Besse_
 
 ##### Archeologist
 ### [ Archeologists digging under the Roman Forum, Rome, Italy, discover a tomb estimated at 3000 years old, predating the creation of the Forum by several centuries. ](/news/2006/01/20/archeologists-digging-under-the-roman-forum-rome-italy-discover-a-tomb-estimated-at-3000-years-old-predating-the-creation-of-the-forum.md)
-_Context: Roman Forum, Archeologist_
+_Context: Archeologist, Roman Forum_
 
 ##### Afghanistan
 ### [ Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar. The discovery comes just days after a suicide bomber killed Canadian diplomat Glyn Berry and seriously wounded three soldiers travelling with him. ](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Iraq
 ### [ Iraq's election commission says that an alliance of Shiite religious parties, the United Iraqi Alliance, has won the most seats in Iraq's new National Assembly after the December 2005 legislative elections. ](/news/2006/01/20/iraq-s-election-commission-says-that-an-alliance-of-shiite-religious-parties-the-united-iraqi-alliance-has-won-the-most-seats-in-iraq-s-n.md)
-_Context: Shiite, Iraq, December 2005, National Assembly of Iraq, United Iraqi Alliance_
+_Context: December 2005, United Iraqi Alliance, Iraq, Shiite, National Assembly of Iraq_
 
 ##### Kashmir
 ### [ At least 52 people including five children are killed after an overcrowded bus plunges down a deep gorge in Indian Kashmir. ](/news/2006/01/20/at-least-52-people-including-five-children-are-killed-after-an-overcrowded-bus-plunges-down-a-deep-gorge-in-indian-kashmir.md)
@@ -39,17 +39,17 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [ Japan has halted the import of U.S. beef after an animal spine was found in a beef shipment at Tokyo International Airport. A ban has now been reinstated. ](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.md)
 _Context: Haneda Airport_
 
-##### Turkish
+##### Turkey
 ### [ Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. ](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-custody-mehmet-ali-aaca-the-man-who-shot-pope-john-paul-nbsp-ii-in-1981-after-an-appeals.md)
-_Context: Turkish, Pope John Paul&nbsp;II, Mehmet Ali Agca_
+_Context: Mehmet Ali Agca, Pope John Paul&nbsp;II, Turkey_
 
 ##### whale
 ### [ A whale, identified as a 5 metre (17') long Northern Bottlenose whale, is observed in the River Thames in Central London passing upstream of the Houses of Parliament. The "River Thames whale" is believed to have passed through the Thames Barrier about 1515 UTC on Thursday afternoon. Attempts are being made to guide it back to the Thames estuary, where a second whale has been sighted off Southend on Sea. ](/news/2006/01/20/a-whale-identified-as-a-5-metre-17-long-northern-bottlenose-whale-is-observed-in-the-river-thames-in-central-london-passing-upstream-o.md)
-_Context: Parliament, River Thames whale, River Thames, whale, Bottlenose whale, London, Thames Barrier, Southend on Sea_
+_Context: River Thames, Bottlenose whale, whale, London, Parliament, River Thames whale, Southend on Sea, Thames Barrier_
 
 ##### Young Patriots
 ### [ Protests by the pro-government Young Patriots in Cote d'Ivoire end after their leader, Charles Ble Goude, tells them to "go home and clean up the streets". ](/news/2006/01/20/protests-by-the-pro-government-young-patriots-in-ca-te-d-ivoire-end-after-their-leader-charles-bla-c-gouda-c-tells-them-to-go-home-and-cle.md)
-_Context: Cote d'Ivoire, Charles Ble Goude, Young Patriots_
+_Context: Cote d'Ivoire, Young Patriots, Charles Ble Goude_
 
 ## [Previous Day...](/news/2006/01/19/index.md)
 

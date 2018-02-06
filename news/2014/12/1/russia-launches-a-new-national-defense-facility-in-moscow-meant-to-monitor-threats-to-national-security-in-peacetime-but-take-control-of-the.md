@@ -16,7 +16,7 @@ Russia is launching a new national defense facility, which is meant to monitor t
 
 ### Changes:
 
-1. [Russia launches a new national defense facility in Moscow meant to monitor threats to national security in peacetime but take control of the country in wartime. ](/news/2014/12/1/russia-launches-a-new-national-defense-facility-in-moscow-meant-to-monitor-threats-to-national-security-in-peacetime-but-take-control-of-th.md) _2017-08-25 03:41:16 (First version)_
+1. [Russia launches a new national defense facility in Moscow meant to monitor threats to national security in peacetime but take control of the country in wartime. ](/news/2014/12/1/russia-launches-a-new-national-defense-facility-in-moscow-meant-to-monitor-threats-to-national-security-in-peacetime-but-take-control-of-th.md) _2018-02-06 13:49:26 (First version)_
 1. [Russia launches a new national defense facility in Moscow meant to monitor threats to national security in peacetime but take control of the country in wartime. ](/news/2014/12/1/russia-launches-a-new-national-defense-facility-in-moscow-meant-to-monitor-threats-to-national-security-in-peacetime-but-take-control-of-the.md) _(Current version)_
 
 ### Related:

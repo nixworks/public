@@ -16,7 +16,7 @@ Nine building contractors and a policeman have been killed by insurgents in an a
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present): 10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/war-in-afghanistan-2001-present-10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md) _2017-08-27 03:39:25 (First version)_
+1. [War in Afghanistan (2001-present): 10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/war-in-afghanistan-2001-present-10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md) _2018-02-06 13:49:25 (First version)_
 1. [10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md) _(Current version)_
 
 ### Related:

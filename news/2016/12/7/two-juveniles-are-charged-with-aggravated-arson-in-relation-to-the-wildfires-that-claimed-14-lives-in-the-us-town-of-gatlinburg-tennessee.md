@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/7/two-juveniles-are-charged-with-aggravated-arson-
 
 ### Changes:
 
-1. [2016 Great Smoky Mountains wildfires: Two juveniles are charged with aggravated arson in relation to the wildfires that claimed 14 lives in the US town of Gatlinburg, Tennessee. ](/news/2016/12/7/2016-great-smoky-mountains-wildfires-two-juveniles-are-charged-with-aggravated-arson-in-relation-to-the-wildfires-that-claimed-14-lives-in.md) _2017-08-27 03:47:24 (First version)_
+1. [2016 Great Smoky Mountains wildfires: Two juveniles are charged with aggravated arson in relation to the wildfires that claimed 14 lives in the US town of Gatlinburg, Tennessee. ](/news/2016/12/7/2016-great-smoky-mountains-wildfires-two-juveniles-are-charged-with-aggravated-arson-in-relation-to-the-wildfires-that-claimed-14-lives-in.md) _2018-02-06 13:49:30 (First version)_
 1. [Two juveniles are charged with aggravated arson in relation to the wildfires that claimed 14 lives in the US town of Gatlinburg, Tennessee. ](/news/2016/12/7/two-juveniles-are-charged-with-aggravated-arson-in-relation-to-the-wildfires-that-claimed-14-lives-in-the-us-town-of-gatlinburg-tennessee.md) _(Current version)_
 
 ### Related:

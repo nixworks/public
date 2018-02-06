@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/11/18/asean-leaders-sign-a-controversial-human-rights
 
 ### Changes:
 
-1. [7th East Asia Summit:ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-pasean-leaders-sign-a-controversial-human-rights-declaration.md) _2017-08-25 03:36:50 (First version)_
-2. [7th East Asia Summit:: ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-asean-leaders-sign-a-controversial-human-rights-declaration.md) _2017-08-27 03:37:00 (Update)_
+1. [7th East Asia Summit:ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-pasean-leaders-sign-a-controversial-human-rights-declaration.md) _2018-02-06 13:49:24 (First version)_
+2. [7th East Asia Summit:: ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-asean-leaders-sign-a-controversial-human-rights-declaration.md) _2018-02-06 13:49:24 (Update)_
 2. [ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/asean-leaders-sign-a-controversial-human-rights-declaration.md) _(Current version)_
 
 ### Related:

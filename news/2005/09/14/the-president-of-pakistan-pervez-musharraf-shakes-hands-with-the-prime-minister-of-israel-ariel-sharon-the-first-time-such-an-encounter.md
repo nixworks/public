@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shak
 
 ### Changes:
 
-1. [ The President of Pakistan, Pervez Musharraf, shakes hands with the Prime Minister of Israel, Ariel Sharon, the first time such an encounter has been made in public. ](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shakes-hands-with-the-prime-minister-of-israel-ariel-sharon-the-first-time-such-an-encounte.md) _2017-08-25 03:16:47 (First version)_
+1. [ The President of Pakistan, Pervez Musharraf, shakes hands with the Prime Minister of Israel, Ariel Sharon, the first time such an encounter has been made in public. ](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shakes-hands-with-the-prime-minister-of-israel-ariel-sharon-the-first-time-such-an-encounte.md) _2018-02-06 13:49:16 (First version)_
 1. [ The President of Pakistan, Pervez Musharraf, shakes hands with the Prime Minister of Israel, Ariel Sharon, the first time such an encounter has been made in public. ](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shakes-hands-with-the-prime-minister-of-israel-ariel-sharon-the-first-time-such-an-encounter.md) _(Current version)_
 
 ### Related:

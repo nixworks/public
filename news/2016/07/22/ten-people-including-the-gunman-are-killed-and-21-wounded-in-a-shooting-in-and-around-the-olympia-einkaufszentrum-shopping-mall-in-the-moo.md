@@ -20,7 +20,7 @@ A German-Iranian teenager who shot dead nine people in Munich was a deranged lon
 
 ### Changes:
 
-1. [2016 Munich shooting: Ten people, including the gunman, are killed and 21 wounded in a shooting in and around the Olympia-Einkaufszentrum shopping mall in the Moosach district of Munich, Germany, next to the Olympic stadium.](/news/2016/07/22/2016-munich-shooting-ten-people-including-the-gunman-are-killed-and-21-wounded-in-a-shooting-in-and-around-the-olympia-einkaufszentrum-sh.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Munich shooting: Ten people, including the gunman, are killed and 21 wounded in a shooting in and around the Olympia-Einkaufszentrum shopping mall in the Moosach district of Munich, Germany, next to the Olympic stadium.](/news/2016/07/22/2016-munich-shooting-ten-people-including-the-gunman-are-killed-and-21-wounded-in-a-shooting-in-and-around-the-olympia-einkaufszentrum-sh.md) _2018-02-06 13:49:29 (First version)_
 1. [Ten people, including the gunman, are killed and 21 wounded in a shooting in and around the Olympia-Einkaufszentrum shopping mall in the Moosach district of Munich, Germany, next to the Olympic stadium.](/news/2016/07/22/ten-people-including-the-gunman-are-killed-and-21-wounded-in-a-shooting-in-and-around-the-olympia-einkaufszentrum-shopping-mall-in-the-moo.md) _(Current version)_
 
 ### Related:

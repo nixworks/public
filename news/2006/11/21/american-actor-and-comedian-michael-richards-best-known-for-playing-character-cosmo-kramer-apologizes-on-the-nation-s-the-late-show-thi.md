@@ -16,7 +16,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 
 ### Changes:
 
-1. [ American actor and comedian Michael Richards, best known for playing character Cosmo Kramer, apologizes on the nation's ''The Late Show'' this morning after referring to two African Americans as "niggers" at a Los Angeles area comedy club. ](/news/2006/11/21/american-actor-and-comedian-michael-richards-best-known-for-playing-character-cosmo-kramer-apologizes-on-the-nation-s-the-late-show-t.md) _2017-08-25 03:18:49 (First version)_
+1. [ American actor and comedian Michael Richards, best known for playing character Cosmo Kramer, apologizes on the nation's ''The Late Show'' this morning after referring to two African Americans as "niggers" at a Los Angeles area comedy club. ](/news/2006/11/21/american-actor-and-comedian-michael-richards-best-known-for-playing-character-cosmo-kramer-apologizes-on-the-nation-s-the-late-show-t.md) _2018-02-06 13:49:17 (First version)_
 1. [ American actor and comedian Michael Richards, best known for playing character Cosmo Kramer, apologizes on the nation's "The Late Show" this morning after referring to two African Americans as "niggers" at a Los Angeles area comedy club. ](/news/2006/11/21/american-actor-and-comedian-michael-richards-best-known-for-playing-character-cosmo-kramer-apologizes-on-the-nation-s-the-late-show-thi.md) _(Current version)_
 
 ### Related:

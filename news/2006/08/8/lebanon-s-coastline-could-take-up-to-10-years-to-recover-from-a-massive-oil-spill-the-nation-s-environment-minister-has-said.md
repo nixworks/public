@@ -22,8 +22,8 @@ Foreign Ministry recalls envoy following Venezuelan president&#39;s comments com
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/2006-israel-lebanon-conflict-p-lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment.md) _2017-08-25 03:18:09 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/2006-israel-lebanon-conflict-lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment.md) _2017-08-27 03:18:07 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/2006-israel-lebanon-conflict-p-lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/2006-israel-lebanon-conflict-lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment.md) _2018-02-06 13:49:17 (Update)_
 2. [ Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment-minister-has-said.md) _(Current version)_
 
 ### Related:

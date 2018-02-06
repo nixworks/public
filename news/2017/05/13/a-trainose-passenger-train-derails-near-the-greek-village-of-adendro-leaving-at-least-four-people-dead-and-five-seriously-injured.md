@@ -16,7 +16,7 @@ The intercity train was travelling from Athens to the northern city of Thessalon
 
 ### Changes:
 
-1. [2017 Adendro train derailment: A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/2017-adendro-train-derailment-a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-f.md) _2017-08-27 03:48:19 (First version)_
+1. [2017 Adendro train derailment: A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/2017-adendro-train-derailment-a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-f.md) _2018-02-06 13:49:30 (First version)_
 1. [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md) _(Current version)_
 
 ### Related:

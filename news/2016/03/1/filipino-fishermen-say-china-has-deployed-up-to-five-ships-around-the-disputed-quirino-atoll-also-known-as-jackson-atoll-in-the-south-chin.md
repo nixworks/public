@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-
 
 ### Changes:
 
-1. [South China Sea disputes: Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/south-china-sea-disputes-filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackso.md) _2017-08-27 03:45:05 (First version)_
+1. [South China Sea disputes: Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/south-china-sea-disputes-filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackso.md) _2018-02-06 13:49:28 (First version)_
 1. [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md) _(Current version)_
 
 ### Related:

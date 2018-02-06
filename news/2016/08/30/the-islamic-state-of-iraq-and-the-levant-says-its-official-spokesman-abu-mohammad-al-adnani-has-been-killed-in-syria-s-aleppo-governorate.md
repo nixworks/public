@@ -16,7 +16,7 @@ Islamic State said on Tuesday one of its most prominent and longest-serving lead
 
 ### Changes:
 
-1. [Syrian civil war: The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/syrian-civil-war-the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-a.md) _2017-08-27 03:46:44 (First version)_
+1. [Syrian civil war: The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/syrian-civil-war-the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-a.md) _2018-02-06 13:49:29 (First version)_
 1. [The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-aleppo-governorate.md) _(Current version)_
 
 ### Related:

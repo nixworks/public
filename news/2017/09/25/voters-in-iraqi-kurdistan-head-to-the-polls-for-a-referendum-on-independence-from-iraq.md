@@ -16,7 +16,7 @@ The US and Britain are both opposed to the &quot;destabilising&quot; vote, argui
 
 ### Changes:
 
-1. [Voters in Iraqi Kurdistan head to the polls for a historic referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-historic-referendum-on-independence-from-iraq.md) _2017-09-25 03:52:41 (First version)_
+1. [Voters in Iraqi Kurdistan head to the polls for a historic referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-historic-referendum-on-independence-from-iraq.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _(Current version)_
 
 ### Related:

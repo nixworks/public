@@ -16,7 +16,7 @@ At least 30 people were killed in heavy fighting between police and Muslim rebel
 
 ### Changes:
 
-1. [Moro insurgency in the Philippines: Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/moro-insurgency-in-the-philippines-around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberatio.md) _2017-08-27 03:41:49 (First version)_
+1. [Moro insurgency in the Philippines: Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/moro-insurgency-in-the-philippines-around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberatio.md) _2018-02-06 13:49:26 (First version)_
 1. [Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.md) _(Current version)_
 
 ### Related:

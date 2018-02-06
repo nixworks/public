@@ -17,7 +17,7 @@ Four Palestinians were killed by Israelis, and one critically wounded, after att
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict: Israeli security forces kill four Palestinians and critically wound another who attempted to stab either police officers or a member of the public today. This is the latest in a month of similar attacks where 17 Palestinian attackers and eight Israelis have been killed. ](/news/2015/10/17/israeli-palestinian-conflict-israeli-security-forces-kill-four-palestinians-and-critically-wound-another-who-attempted-to-stab-either-pol.md) _2017-08-27 03:43:23 (First version)_
+1. [Israeli-Palestinian conflict: Israeli security forces kill four Palestinians and critically wound another who attempted to stab either police officers or a member of the public today. This is the latest in a month of similar attacks where 17 Palestinian attackers and eight Israelis have been killed. ](/news/2015/10/17/israeli-palestinian-conflict-israeli-security-forces-kill-four-palestinians-and-critically-wound-another-who-attempted-to-stab-either-pol.md) _2018-02-06 13:49:27 (First version)_
 1. [Israeli security forces kill four Palestinians and critically wound another who attempted to stab either police officers or a member of the public today. This is the latest in a month of similar attacks where 17 Palestinian attackers and eight Israelis have been killed. ](/news/2015/10/17/israeli-security-forces-kill-four-palestinians-and-critically-wound-another-who-attempted-to-stab-either-police-officers-or-a-member-of-the.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Four US service personnel are wounded as aircraft involved in evacuating US citi
 
 ### Changes:
 
-1. [2013 South Sudanese political crisis:Four U.S. personnel are wounded after the three CV-22 Osprey aircraft they were on were shot during an evacuation attempt of Americans from Bor, South Sudan. ](/news/2013/12/21/2013-south-sudanese-political-crisis-pfour-u-s-personnel-are-wounded-after-the-three-cv-22-osprey-aircraft-they-were-on-were-shot-during-an.md) _2017-08-25 03:39:45 (First version)_
-2. [2013 South Sudanese political crisis:: Four U.S. personnel are wounded after the three CV-22 Osprey aircraft they were on were shot during an evacuation attempt of Americans from Bor, South Sudan. ](/news/2013/12/21/2013-south-sudanese-political-crisis-four-u-s-personnel-are-wounded-after-the-three-cv-22-osprey-aircraft-they-were-on-were-shot-during-a.md) _2017-08-27 03:40:03 (Update)_
+1. [2013 South Sudanese political crisis:Four U.S. personnel are wounded after the three CV-22 Osprey aircraft they were on were shot during an evacuation attempt of Americans from Bor, South Sudan. ](/news/2013/12/21/2013-south-sudanese-political-crisis-pfour-u-s-personnel-are-wounded-after-the-three-cv-22-osprey-aircraft-they-were-on-were-shot-during-an.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 South Sudanese political crisis:: Four U.S. personnel are wounded after the three CV-22 Osprey aircraft they were on were shot during an evacuation attempt of Americans from Bor, South Sudan. ](/news/2013/12/21/2013-south-sudanese-political-crisis-four-u-s-personnel-are-wounded-after-the-three-cv-22-osprey-aircraft-they-were-on-were-shot-during-a.md) _2018-02-06 13:49:25 (Update)_
 2. [Four U.S. personnel are wounded after the three CV-22 Osprey aircraft they were on were shot during an evacuation attempt of Americans from Bor, South Sudan. ](/news/2013/12/21/four-u-s-personnel-are-wounded-after-the-three-cv-22-osprey-aircraft-they-were-on-were-shot-during-an-evacuation-attempt-of-americans-from.md) _(Current version)_
 
 ### Related:

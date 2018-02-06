@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/19/index.html)  [JSON](2017/12/19/index.json)  [XML](201
 
 ## [2017-12-19](/news/2017/12/19/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Houthis say that they launched a Volcano H-2 missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. ](/news/2017/12/19/houthis-say-that-they-launched-a-volcano-h-2-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-according-to-th.md)
 Earlier Tuesday, Yemen&#39;s Houthi rebel group said it fired &#39;ballistic missile&#39; towards Saudi capital Riyadh - Anadolu Agency
 
@@ -17,7 +17,7 @@ The majority of the passengers came from two ships belonging to Miami-based Roya
 
 ##### Canada-United States relations
 ### [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md)
-_Context: Canada-United States relations, Rex Tillerson, Chrystia Freeland, Canadian counterpart, Vancouver, North Korea's nuclear program, United States Secretary of State_
+_Context: North Korea's nuclear program, United States Secretary of State, Vancouver, Chrystia Freeland, Canadian counterpart, Canada-United States relations, Rex Tillerson_
 
 ##### United States
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. After being sent to the United States Senate for a vote, the Senate's parliamentarian found that several provisions in the House bill violated Senate rules, which forced the House of Representatives to call a second vote on an altered version of the legislation that has the violating provisions removed. The second vote by the House of Representatives is expected to take place on December 20, 2017. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-after-being-sent-to-the-united-stat.md)

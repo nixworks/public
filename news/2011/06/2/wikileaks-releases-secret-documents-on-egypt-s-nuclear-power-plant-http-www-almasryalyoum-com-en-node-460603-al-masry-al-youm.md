@@ -11,7 +11,7 @@ Formats: [HTML](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-n
 
 ### Changes:
 
-1. [WikiLeaks releases secret documents on Egypt's nuclear power plant. ](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant.md) _2017-08-25 03:33:20 (First version)_
+1. [WikiLeaks releases secret documents on Egypt's nuclear power plant. ](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant.md) _2018-02-06 13:49:22 (First version)_
 1. [WikiLeaks releases secret documents on Egypt's nuclear power plant. [http:--www.almasryalyoum.com-en-node-460603 "(Al-Masry Al-Youm)"]](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant-http-www-almasryalyoum-com-en-node-460603-al-masry-al-youm.md) _(Current version)_
 
 ### Related:

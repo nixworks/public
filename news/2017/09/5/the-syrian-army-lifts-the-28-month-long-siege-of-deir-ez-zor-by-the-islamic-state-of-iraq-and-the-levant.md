@@ -17,8 +17,8 @@ Some 93,000 civilians were trapped there for years, leaving them dependent on ai
 
 ### Changes:
 
-1. [The Syrian Army lifts the 28-month-long siege of Deir Ezzor by the Islamic State. Syrian President Bashar al-Assad congratulates commanders for the victory. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ezzor-by-the-islamic-state-syrian-president-bashar-al-assad-congratulates-commanders.md) _2017-09-05 21:30:05 (First version)_
-2. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. Syrian President Bashar al-Assad congratulates commanders for the victory. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant-syrian-president-bashar-al-assad-c.md) _2017-09-06 03:47:56 (Update)_
+1. [The Syrian Army lifts the 28-month-long siege of Deir Ezzor by the Islamic State. Syrian President Bashar al-Assad congratulates commanders for the victory. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ezzor-by-the-islamic-state-syrian-president-bashar-al-assad-congratulates-commanders.md) _2018-02-06 13:49:31 (First version)_
+2. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. Syrian President Bashar al-Assad congratulates commanders for the victory. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant-syrian-president-bashar-al-assad-c.md) _2018-02-06 13:49:31 (Update)_
 2. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-govern
 
 ### Changes:
 
-1. [ The Supreme Court of Pakistan orders the government to recognise ''hijras'' (eunuchs and transgender individuals) as a distinct gender. ([http:--news.bbc.co.uk-2-hi-south_asia-8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-h.md) _2017-08-25 03:26:40 (First version)_
+1. [ The Supreme Court of Pakistan orders the government to recognise ''hijras'' (eunuchs and transgender individuals) as a distinct gender. ([http:--news.bbc.co.uk-2-hi-south_asia-8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-h.md) _2018-02-06 13:49:19 (First version)_
 1. [ The Supreme Court of Pakistan orders the government to recognise "hijras" (eunuchs and transgender individuals) as a distinct gender. ([http:--news.bbc.co.uk-2-hi-south_asia-8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-htt.md) _(Current version)_
 
 ### Related:

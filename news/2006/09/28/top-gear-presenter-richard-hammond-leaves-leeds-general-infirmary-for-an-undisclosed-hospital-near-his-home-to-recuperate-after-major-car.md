@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds
 
 ### Changes:
 
-1. [ ''Top Gear'' presenter Richard Hammond leaves Leeds General Infirmary for an undisclosed hospital near his home to recuperate after major car crash whilst filming the week before. ](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds-general-infirmary-for-an-undisclosed-hospital-near-his-home-to-recuperate-after-major-c.md) _2017-08-25 03:18:29 (First version)_
+1. [ ''Top Gear'' presenter Richard Hammond leaves Leeds General Infirmary for an undisclosed hospital near his home to recuperate after major car crash whilst filming the week before. ](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds-general-infirmary-for-an-undisclosed-hospital-near-his-home-to-recuperate-after-major-c.md) _2018-02-06 13:49:17 (First version)_
 1. [ "Top Gear" presenter Richard Hammond leaves Leeds General Infirmary for an undisclosed hospital near his home to recuperate after major car crash whilst filming the week before. ](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds-general-infirmary-for-an-undisclosed-hospital-near-his-home-to-recuperate-after-major-car.md) _(Current version)_
 
 ### Related:

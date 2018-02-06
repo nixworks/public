@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-t
 
 ### Changes:
 
-1. [The infamous hat worn by Princess Beatrice at the 2011 Royal Wedding has been sold on auction site eBay for 81,100.01. Funds raised from the sale will go to the charities UNICEF and Children in Crisis. ](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-the-2011-royal-wedding-has-been-sold-on-auction-site-ebay-for-ps81-100-01-funds-raised-from-th.md) _2017-08-25 03:33:13 (First version)_
-2. [The infamous hat worn by Princess Beatrice at the 2011 Royal Wedding has been sold on auction site eBay for GBP81,100.01. Funds raised from the sale will go to the charities UNICEF and Children in Crisis. ](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-the-2011-royal-wedding-has-been-sold-on-auction-site-ebay-for-gbp81-100-01-funds-raised-from.md) _2017-10-17 03:38:39 (Update)_
+1. [The infamous hat worn by Princess Beatrice at the 2011 Royal Wedding has been sold on auction site eBay for 81,100.01. Funds raised from the sale will go to the charities UNICEF and Children in Crisis. ](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-the-2011-royal-wedding-has-been-sold-on-auction-site-ebay-for-ps81-100-01-funds-raised-from-th.md) _2018-02-06 13:49:22 (First version)_
+2. [The infamous hat worn by Princess Beatrice at the 2011 Royal Wedding has been sold on auction site eBay for GBP81,100.01. Funds raised from the sale will go to the charities UNICEF and Children in Crisis. ](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-the-2011-royal-wedding-has-been-sold-on-auction-site-ebay-for-gbp81-100-01-funds-raised-from.md) _2018-02-06 13:49:22 (Update)_
 2. [The infamous hat worn by Princess Beatrice at the 2011 Royal Wedding has been sold on auction site eBay for GBP81,100.01. Funds raised from the sale will go to the charities UNICEF and Children in Crisis. ](/news/2011/05/22/the-infamous-hat-worn-by-princess-beatrice-at-the-2011-royal-wedding-has-been-sold-on-auction-site-ebay-for-agbp81-100-01-funds-raised-from.md) _(Current version)_
 
 ### Related:

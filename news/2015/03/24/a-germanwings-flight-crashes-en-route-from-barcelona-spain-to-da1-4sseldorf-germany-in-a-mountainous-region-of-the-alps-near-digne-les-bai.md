@@ -19,7 +19,7 @@ An Airbus A320 with 144 passengers and 6 crewmembers has crashed in Digne region
 
 ### Changes:
 
-1. [Germanwings Flight 9525: A Germanwings flight crashes en route from Barcelona, Spain, to Dusseldorf, Germany, in a mountainous region of the Alps near Digne-les-Bains in Southern France leaving 150 dead. Rescue workers recover the damaged, but still usable, cockpit voice recorder. ](/news/2015/03/24/germanwings-flight-9525-a-germanwings-flight-crashes-en-route-from-barcelona-spain-to-da1-4sseldorf-germany-in-a-mountainous-region-of-th.md) _2017-08-27 03:42:07 (First version)_
+1. [Germanwings Flight 9525: A Germanwings flight crashes en route from Barcelona, Spain, to Dusseldorf, Germany, in a mountainous region of the Alps near Digne-les-Bains in Southern France leaving 150 dead. Rescue workers recover the damaged, but still usable, cockpit voice recorder. ](/news/2015/03/24/germanwings-flight-9525-a-germanwings-flight-crashes-en-route-from-barcelona-spain-to-da1-4sseldorf-germany-in-a-mountainous-region-of-th.md) _2018-02-06 13:49:26 (First version)_
 1. [A Germanwings flight crashes en route from Barcelona, Spain, to Dusseldorf, Germany, in a mountainous region of the Alps near Digne-les-Bains in Southern France leaving 150 dead. Rescue workers recover the damaged, but still usable, cockpit voice recorder. ](/news/2015/03/24/a-germanwings-flight-crashes-en-route-from-barcelona-spain-to-da1-4sseldorf-germany-in-a-mountainous-region-of-the-alps-near-digne-les-bai.md) _(Current version)_
 
 ### Related:

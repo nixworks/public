@@ -16,7 +16,7 @@ Authorities race to identify bodies as rescue workers reach new areas and fear m
 
 ### Changes:
 
-1. [2017 Gujarat flood: Flooding in Gujarat, Western India, kills at least 213 people with the death toll expected to rise as receding flood waters reveal additional victims. Chief Minister of Gujarat Vijay Rupani says heavy rain had triggered "the worst flood of the century" in the state. ](/news/2017/07/31/2017-gujarat-flood-flooding-in-gujarat-western-india-kills-at-least-213-people-with-the-death-toll-expected-to-rise-as-receding-flood-wat.md) _2017-08-27 03:48:45 (First version)_
+1. [2017 Gujarat flood: Flooding in Gujarat, Western India, kills at least 213 people with the death toll expected to rise as receding flood waters reveal additional victims. Chief Minister of Gujarat Vijay Rupani says heavy rain had triggered "the worst flood of the century" in the state. ](/news/2017/07/31/2017-gujarat-flood-flooding-in-gujarat-western-india-kills-at-least-213-people-with-the-death-toll-expected-to-rise-as-receding-flood-wat.md) _2018-02-06 13:49:31 (First version)_
 1. [Flooding in Gujarat, Western India, kills at least 213 people with the death toll expected to rise as receding flood waters reveal additional victims. Chief Minister of Gujarat Vijay Rupani says heavy rain had triggered "the worst flood of the century" in the state. ](/news/2017/07/31/flooding-in-gujarat-western-india-kills-at-least-213-people-with-the-death-toll-expected-to-rise-as-receding-flood-waters-reveal-additiona.md) _(Current version)_
 
 ### Related:

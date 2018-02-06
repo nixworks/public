@@ -17,8 +17,8 @@ Warfalli and Ahmed Elumami
 
 ### Changes:
 
-1. [2014 Libyan uprising:General Khalifa Belqasim Haftar calls on the government to hand over power to the country's top judges amid heavy fighting in the capital Tripoli. ](/news/2014/05/21/2014-libyan-uprising-pgeneral-khalifa-belqasim-haftar-calls-on-the-government-to-hand-over-power-to-the-country-s-top-judges-amid-heavy-figh.md) _2017-08-25 03:40:26 (First version)_
-2. [2014 Libyan uprising:: General Khalifa Belqasim Haftar calls on the government to hand over power to the country's top judges amid heavy fighting in the capital Tripoli. ](/news/2014/05/21/2014-libyan-uprising-general-khalifa-belqasim-haftar-calls-on-the-government-to-hand-over-power-to-the-country-s-top-judges-amid-heavy-fig.md) _2017-08-27 03:40:43 (Update)_
+1. [2014 Libyan uprising:General Khalifa Belqasim Haftar calls on the government to hand over power to the country's top judges amid heavy fighting in the capital Tripoli. ](/news/2014/05/21/2014-libyan-uprising-pgeneral-khalifa-belqasim-haftar-calls-on-the-government-to-hand-over-power-to-the-country-s-top-judges-amid-heavy-figh.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Libyan uprising:: General Khalifa Belqasim Haftar calls on the government to hand over power to the country's top judges amid heavy fighting in the capital Tripoli. ](/news/2014/05/21/2014-libyan-uprising-general-khalifa-belqasim-haftar-calls-on-the-government-to-hand-over-power-to-the-country-s-top-judges-amid-heavy-fig.md) _2018-02-06 13:49:26 (Update)_
 2. [General Khalifa Belqasim Haftar calls on the government to hand over power to the country's top judges amid heavy fighting in the capital Tripoli. ](/news/2014/05/21/general-khalifa-belqasim-haftar-calls-on-the-government-to-hand-over-power-to-the-country-s-top-judges-amid-heavy-fighting-in-the-capital-tr.md) _(Current version)_
 
 ### Related:

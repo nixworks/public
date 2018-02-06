@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/11/7/georgian-riot-police-use-tear-gas-water-and-soni
 
 ### Changes:
 
-1. [ 2007 Georgian demonstrations: Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/2007-georgian-demonstrations-p-georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-proteste.md) _2017-08-25 03:21:19 (First version)_
-2. [ 2007 Georgian demonstrations:: Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/2007-georgian-demonstrations-georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-proteste.md) _2017-08-27 03:21:14 (Update)_
+1. [ 2007 Georgian demonstrations: Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/2007-georgian-demonstrations-p-georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-proteste.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Georgian demonstrations:: Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/2007-georgian-demonstrations-georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-proteste.md) _2018-02-06 13:49:18 (Update)_
 2. [ Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-protesters-calling-for-the-resignation.md) _(Current version)_
 
 ### Related:

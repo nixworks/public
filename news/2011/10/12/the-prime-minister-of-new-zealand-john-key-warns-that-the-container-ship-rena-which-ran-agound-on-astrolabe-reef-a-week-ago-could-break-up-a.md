@@ -16,7 +16,7 @@ The second officer of the Rena is facing a charge under the Maritime Transport A
 
 ### Changes:
 
-1. [The Prime Minister of New Zealand John Key warns that the container ship {{MV|Rena}} which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-mv-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-bre.md) _2017-05-01 03:36:42 (First version)_
+1. [The Prime Minister of New Zealand John Key warns that the container ship {{MV|Rena}} which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-mv-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-bre.md) _2018-02-06 13:49:22 (First version)_
 1. [The Prime Minister of New Zealand John Key warns that the container ship Rena which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-break-up-a.md) _(Current version)_
 
 ### Related:

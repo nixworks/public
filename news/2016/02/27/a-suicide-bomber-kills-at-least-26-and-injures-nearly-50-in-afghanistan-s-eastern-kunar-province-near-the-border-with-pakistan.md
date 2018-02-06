@@ -17,7 +17,7 @@ A SUICIDE bomber has killed an Afghan militia commander and at least 10 others i
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-t.md) _2017-08-27 03:45:03 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-t.md) _2018-02-06 13:49:28 (First version)_
 1. [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md) _(Current version)_
 
 ### Related:

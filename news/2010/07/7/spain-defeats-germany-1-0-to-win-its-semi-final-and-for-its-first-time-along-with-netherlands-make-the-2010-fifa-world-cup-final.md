@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-
 
 ### Changes:
 
-1. [FIFA World Cup 2010: Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/fifa-world-cup-2010-spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world.md) _2017-08-27 03:28:37 (First version)_
+1. [FIFA World Cup 2010: Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/fifa-world-cup-2010-spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world.md) _2018-02-06 13:49:20 (First version)_
 1. [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md) _(Current version)_
 
 ### Related:

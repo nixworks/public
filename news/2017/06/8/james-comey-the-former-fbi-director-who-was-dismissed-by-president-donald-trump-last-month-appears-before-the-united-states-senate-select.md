@@ -17,7 +17,7 @@ Former FBI director offers statement describing a meeting in which Trump asked h
 
 ### Changes:
 
-1. [James Comey, the former FBI Director who was dismissed by President Donald Trump last month, is scheduled to appear before the Intelligence Committee. ](/news/2017/06/8/james-comey-the-former-fbi-director-who-was-dismissed-by-president-donald-trump-last-month-is-scheduled-to-appear-before-the-intelligence.md) _2017-06-08 17:30:06 (First version)_
+1. [James Comey, the former FBI Director who was dismissed by President Donald Trump last month, is scheduled to appear before the Intelligence Committee. ](/news/2017/06/8/james-comey-the-former-fbi-director-who-was-dismissed-by-president-donald-trump-last-month-is-scheduled-to-appear-before-the-intelligence.md) _2018-02-06 13:49:30 (First version)_
 1. [James Comey, the former FBI Director who was dismissed by President Donald Trump last month, appears before the United States Senate Select Committee on Intelligence. Comey says he believes he was fired because of the FBI investigation into the possible collusion between President Trump's campaign team and Russia's interference in the 2016 elections.](/news/2017/06/8/james-comey-the-former-fbi-director-who-was-dismissed-by-president-donald-trump-last-month-appears-before-the-united-states-senate-select.md) _(Current version)_
 
 ### Related:

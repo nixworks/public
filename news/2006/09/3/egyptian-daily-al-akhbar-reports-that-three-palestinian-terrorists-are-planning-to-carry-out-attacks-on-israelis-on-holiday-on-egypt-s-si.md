@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/3/egyptian-daily-al-akhbar-reports-that-three-pale
 
 ### Changes:
 
-1. [ Egyptian daily ''Al Akhbar'' reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-israelis-on-holiday-on-egypt-s.md) _2017-08-25 03:18:19 (First version)_
-2. [ Israeli-Palestinian conflict: Egyptian daily "Al Akhbar" reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/israeli-palestinian-conflict-egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-isr.md) _2017-08-27 03:18:14 (Update)_
+1. [ Israeli-Palestinian conflict: Egyptian daily "Al Akhbar" reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/israeli-palestinian-conflict-egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-isr.md) _2018-02-06 13:49:17 (First version)_
+2. [ Egyptian daily ''Al Akhbar'' reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-israelis-on-holiday-on-egypt-s.md) _2018-02-06 13:49:17 (Update)_
 2. [ Egyptian daily "Al Akhbar" reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-israelis-on-holiday-on-egypt-s-si.md) _(Current version)_
 
 ### Related:

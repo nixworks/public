@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/05/8/the-prime-minister-of-egypt-essam-sharaf-to-disc
 
 ### Changes:
 
-1. [2011 Egyptian revolution:The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/2011-egyptian-revolution-pthe-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-dis.md) _2017-08-25 03:33:02 (First version)_
-2. [2011 Egyptian revolution:: The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/2011-egyptian-revolution-the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-di.md) _2017-08-27 03:33:11 (Update)_
+1. [2011 Egyptian revolution:: The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/2011-egyptian-revolution-the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-di.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian revolution:The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/2011-egyptian-revolution-pthe-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-dis.md) _2018-02-06 13:49:22 (Update)_
 2. [The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-district-of-cairo.md) _(Current version)_
 
 ### Related:

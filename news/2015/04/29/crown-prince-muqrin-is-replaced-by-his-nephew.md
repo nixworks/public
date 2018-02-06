@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/29/crown-prince-muqrin-is-replaced-by-his-nephew.h
 
 ### Changes:
 
-1. [Succession to the Saudi Arabian throne: Crown Prince Muqrin is replaced by his nephew. ](/news/2015/04/29/succession-to-the-saudi-arabian-throne-crown-prince-muqrin-is-replaced-by-his-nephew.md) _2017-08-27 03:42:15 (First version)_
+1. [Succession to the Saudi Arabian throne: Crown Prince Muqrin is replaced by his nephew. ](/news/2015/04/29/succession-to-the-saudi-arabian-throne-crown-prince-muqrin-is-replaced-by-his-nephew.md) _2018-02-06 13:49:27 (First version)_
 1. [Crown Prince Muqrin is replaced by his nephew. ](/news/2015/04/29/crown-prince-muqrin-is-replaced-by-his-nephew.md) _(Current version)_
 
 ### Related:

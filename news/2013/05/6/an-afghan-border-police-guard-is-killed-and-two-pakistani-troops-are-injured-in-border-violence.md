@@ -16,6 +16,6 @@ Afghan and Pakistani troops clash for the second time in a week amid tensions ov
 
 ### Changes:
 
-1. [Afghanistan-Pakistan skirmishes:An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/afghanistanapakistan-skirmishes-pan-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md) _2017-08-25 03:38:34 (First version)_
-2. [Afghanistan-Pakistan skirmishes:: An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/afghanistan-pakistan-skirmishes-an-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md) _2017-08-27 03:38:47 (Update)_
+1. [Afghanistan-Pakistan skirmishes:An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/afghanistanapakistan-skirmishes-pan-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md) _2018-02-06 13:49:25 (First version)_
+2. [Afghanistan-Pakistan skirmishes:: An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/afghanistan-pakistan-skirmishes-an-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md) _2018-02-06 13:49:25 (Update)_
 2. [An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/an-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md) _(Current version)_

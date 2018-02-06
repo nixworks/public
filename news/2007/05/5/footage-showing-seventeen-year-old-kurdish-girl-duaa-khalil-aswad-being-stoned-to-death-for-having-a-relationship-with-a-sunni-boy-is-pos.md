@@ -16,7 +16,7 @@ A horrifying video showing a 17-year-old Kurdish girl being stoned to death for 
 
 ### Changes:
 
-1. [ Footage showing seventeen-year-old Kurdish girl Du-a Khalil Aswad being stoned to death for having a relationship with a Sunni boy is posted on YouTube. ](/news/2007/05/5/footage-showing-seventeen-year-old-kurdish-girl-du-a-khalil-aswad-being-stoned-to-death-for-having-a-relationship-with-a-sunni-boy-is-pos.md) _2017-08-27 03:19:42 (First version)_
+1. [ Footage showing seventeen-year-old Kurdish girl Du-a Khalil Aswad being stoned to death for having a relationship with a Sunni boy is posted on YouTube. ](/news/2007/05/5/footage-showing-seventeen-year-old-kurdish-girl-du-a-khalil-aswad-being-stoned-to-death-for-having-a-relationship-with-a-sunni-boy-is-pos.md) _2018-02-06 13:49:17 (First version)_
 1. [ Footage showing seventeen-year-old Kurdish girl Du'a Khalil Aswad being stoned to death for having a relationship with a Sunni boy is posted on YouTube. ](/news/2007/05/5/footage-showing-seventeen-year-old-kurdish-girl-duaa-khalil-aswad-being-stoned-to-death-for-having-a-relationship-with-a-sunni-boy-is-pos.md) _(Current version)_
 
 ### Related:

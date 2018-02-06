@@ -15,7 +15,7 @@ High-level officials from the world&rsquo;s eight Arctic nations will meet in Al
 
 ### Changes:
 
-1. [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss of oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-of-oil-drilling.md) _2017-05-11 12:30:05 (First version)_
+1. [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss of oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-of-oil-drilling.md) _2018-02-06 13:49:30 (First version)_
 1. [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md) _(Current version)_
 
 ### Related:

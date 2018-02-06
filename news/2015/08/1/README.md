@@ -13,19 +13,19 @@ A Palestinian youth died on Saturday at a West Bank hospital following a clash w
 
 ##### Internal conflict in Peru
 ### [The Peruvian Army rescues 15 people from Shining Path guerillas. ](/news/2015/08/1/the-peruvian-army-rescues-15-people-from-shining-path-guerillas.md)
-_Context: Internal conflict in Peru, Shining Path, Peruvian Army_
+_Context: Internal conflict in Peru, Peruvian Army, Shining Path_
 
 ##### speech
 ### [The speech by Japanese Emperor Hirohito announcing the unconditional surrender of Japan is released in digital form. ](/news/2015/08/1/the-speech-by-japanese-emperor-hirohito-announcing-the-unconditional-surrender-of-japan-is-released-in-digital-form.md)
-_Context: unconditional surrender, Japan, Japanese Emperor, speech, Hirohito_
+_Context: unconditional surrender, Japanese Emperor, Hirohito, Japan, speech_
 
 ##### Russian President
 ### [The President of Russia, Vladimir Putin, places the ancient historic site of Chersonesus under the control of the Russian federal government after a local government made a controversial appointment as site manager. ](/news/2015/08/1/the-president-of-russia-vladimir-putin-places-the-ancient-historic-site-of-chersonesus-under-the-control-of-the-russian-federal-government.md)
-_Context: Russian President, Russian government, Chersonesus, Vladimir Putin_
+_Context: Russian government, Vladimir Putin, Chersonesus, Russian President_
 
 ##### Puerto Rico
 ### [Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. ](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.md)
-_Context: Gubernatorial Chief of Staff, Puerto Rico, Victor Suarez_
+_Context: Puerto Rico, Victor Suarez, Gubernatorial Chief of Staff_
 
 ##### Malaysia Airlines Flight 370
 ### [Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-investigation-in-toulouse.md)

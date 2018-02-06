@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/04/15/canadian-and-somali-security-forces-probe-for-e
 
 ### Changes:
 
-1. [War in Somalia (2009-present):Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/war-in-somalia-2009apresent-pcanadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-stude.md) _2017-08-25 03:38:21 (First version)_
-2. [War in Somalia (2009-present):: Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/war-in-somalia-2009-present-canadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-stud.md) _2017-08-27 03:38:33 (Update)_
+1. [War in Somalia (2009-present):Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/war-in-somalia-2009apresent-pcanadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-stude.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia (2009-present):: Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/war-in-somalia-2009-present-canadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-stud.md) _2018-02-06 13:49:24 (Update)_
 2. [Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/canadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-student-was-part-of-the-mogadishu-sui.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ### Changes:
 
-1. [ Iraq War: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-p-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _2017-08-25 03:19:29 (First version)_
-2. [ Iraq War:: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _2017-08-27 03:19:25 (Update)_
+1. [ Iraq War:: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-p-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _2018-02-06 13:49:17 (Update)_
 2. [ Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md) _(Current version)_
 
 ### Related:

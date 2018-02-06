@@ -18,8 +18,8 @@ The attack hit a vehicle in northwestern Pakistan late on Thursday night, govern
 
 ### Changes:
 
-1. [Drone attacks in Pakistan:Pakistan officials say that a US drone strike has killed 4 suspected insurgents in a car in Datta Khel in North Waziristan. ](/news/2013/03/22/drone-attacks-in-pakistan-ppakistan-officials-say-that-a-us-drone-strike-has-killed-4-suspected-insurgents-in-a-car-in-datta-khel-in-north-w.md) _2017-08-25 03:37:57 (First version)_
-2. [Drone attacks in Pakistan:: Pakistan officials say that a US drone strike has killed 4 suspected insurgents in a car in Datta Khel in North Waziristan. ](/news/2013/03/22/drone-attacks-in-pakistan-pakistan-officials-say-that-a-us-drone-strike-has-killed-4-suspected-insurgents-in-a-car-in-datta-khel-in-north.md) _2017-08-27 03:38:08 (Update)_
+1. [Drone attacks in Pakistan:Pakistan officials say that a US drone strike has killed 4 suspected insurgents in a car in Datta Khel in North Waziristan. ](/news/2013/03/22/drone-attacks-in-pakistan-ppakistan-officials-say-that-a-us-drone-strike-has-killed-4-suspected-insurgents-in-a-car-in-datta-khel-in-north-w.md) _2018-02-06 13:49:24 (First version)_
+2. [Drone attacks in Pakistan:: Pakistan officials say that a US drone strike has killed 4 suspected insurgents in a car in Datta Khel in North Waziristan. ](/news/2013/03/22/drone-attacks-in-pakistan-pakistan-officials-say-that-a-us-drone-strike-has-killed-4-suspected-insurgents-in-a-car-in-datta-khel-in-north.md) _2018-02-06 13:49:24 (Update)_
 2. [Pakistan officials say that a US drone strike has killed 4 suspected insurgents in a car in Datta Khel in North Waziristan. ](/news/2013/03/22/pakistan-officials-say-that-a-us-drone-strike-has-killed-4-suspected-insurgents-in-a-car-in-datta-khel-in-north-waziristan.md) _(Current version)_
 
 ### Related:

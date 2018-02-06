@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/12/tunisia-arrests-127-people-suspected-of-being-m
 
 ### Changes:
 
-1. [2015 Sousse attacks: Tunisia arrests 127 people suspected of being members of terrorist groups following last month's attack. ](/news/2015/07/12/2015-sousse-attacks-tunisia-arrests-127-people-suspected-of-being-members-of-terrorist-groups-following-last-month-s-attack.md) _2017-08-27 03:42:41 (First version)_
+1. [2015 Sousse attacks: Tunisia arrests 127 people suspected of being members of terrorist groups following last month's attack. ](/news/2015/07/12/2015-sousse-attacks-tunisia-arrests-127-people-suspected-of-being-members-of-terrorist-groups-following-last-month-s-attack.md) _2018-02-06 13:49:27 (First version)_
 1. [Tunisia arrests 127 people suspected of being members of terrorist groups following last month's attack. ](/news/2015/07/12/tunisia-arrests-127-people-suspected-of-being-members-of-terrorist-groups-following-last-month-s-attack.md) _(Current version)_
 
 ### Related:

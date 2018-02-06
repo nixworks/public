@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/7/two-bombs-explode-on-a-train-near-the-town-of-ma
 
 ### Changes:
 
-1. [Insurgency in Balochistan: Two bombs explode on a train near the town of Machh, Pakistan, killing at least six people with nineteen more injured. ](/news/2016/10/7/insurgency-in-balochistan-two-bombs-explode-on-a-train-near-the-town-of-machh-pakistan-killing-at-least-six-people-with-nineteen-more-inj.md) _2017-08-27 03:46:59 (First version)_
+1. [Insurgency in Balochistan: Two bombs explode on a train near the town of Machh, Pakistan, killing at least six people with nineteen more injured. ](/news/2016/10/7/insurgency-in-balochistan-two-bombs-explode-on-a-train-near-the-town-of-machh-pakistan-killing-at-least-six-people-with-nineteen-more-inj.md) _2018-02-06 13:49:29 (First version)_
 1. [Two bombs explode on a train near the town of Machh, Pakistan, killing at least six people with nineteen more injured. ](/news/2016/10/7/two-bombs-explode-on-a-train-near-the-town-of-machh-pakistan-killing-at-least-six-people-with-nineteen-more-injured.md) _(Current version)_
 
 ### Related:

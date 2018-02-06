@@ -16,7 +16,7 @@ The US space shuttle Atlantis has touched down in California&#039;s Mojave Deser
 
 ### Changes:
 
-1. [ Space Shuttle ''Atlantis'' lands safely at Edwards Air Force Base in California after inclement weather had prevented its programmed landing at the Kennedy Space Center in Florida, ending STS-117. ](/news/2007/06/22/space-shuttle-atlantis-lands-safely-at-edwards-air-force-base-in-california-after-inclement-weather-had-prevented-its-programmed-landin.md) _2017-08-25 03:20:00 (First version)_
+1. [ Space Shuttle ''Atlantis'' lands safely at Edwards Air Force Base in California after inclement weather had prevented its programmed landing at the Kennedy Space Center in Florida, ending STS-117. ](/news/2007/06/22/space-shuttle-atlantis-lands-safely-at-edwards-air-force-base-in-california-after-inclement-weather-had-prevented-its-programmed-landin.md) _2018-02-06 13:49:17 (First version)_
 1. [ Space Shuttle "Atlantis" lands safely at Edwards Air Force Base in California after inclement weather had prevented its programmed landing at the Kennedy Space Center in Florida, ending STS-117. ](/news/2007/06/22/space-shuttle-atlantis-lands-safely-at-edwards-air-force-base-in-california-after-inclement-weather-had-prevented-its-programmed-landing.md) _(Current version)_
 
 ### Related:

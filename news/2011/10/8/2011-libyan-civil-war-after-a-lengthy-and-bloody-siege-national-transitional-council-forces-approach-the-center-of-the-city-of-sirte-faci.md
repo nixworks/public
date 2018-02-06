@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody
 
 ### Changes:
 
-1. [2011 Libyan civil war: After a lengthy and bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. ](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody-siege-national-transitional-council-forces-approach-the-center-of-the-city-of-sirte-fac.md) _2017-08-25 03:34:17 (First version)_
+1. [2011 Libyan civil war: After a lengthy and bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. ](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody-siege-national-transitional-council-forces-approach-the-center-of-the-city-of-sirte-fac.md) _2018-02-06 13:49:23 (First version)_
 1. [2011 Libyan civil war: After a lengthy and bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. ](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody-siege-national-transitional-council-forces-approach-the-center-of-the-city-of-sirte-faci.md) _(Current version)_
 
 ### Related:

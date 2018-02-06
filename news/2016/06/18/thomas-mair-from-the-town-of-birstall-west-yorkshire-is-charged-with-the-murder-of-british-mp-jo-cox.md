@@ -17,7 +17,7 @@ Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot;
 
 ### Changes:
 
-1. [Killing of Jo Cox: Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/killing-of-jo-cox-thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md) _2017-08-27 03:46:17 (First version)_
+1. [Killing of Jo Cox: Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/killing-of-jo-cox-thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md) _2018-02-06 13:49:29 (First version)_
 1. [Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Budapest escapes damage as swollen Danube river recedes from record level of 8.9
 
 ### Changes:
 
-1. [2013 European floods:The swollen Elbe River breaches its banks forcing German authorities to evacuate 10 villages. So far, 21 people have died across Central Europe. ](/news/2013/06/10/2013-european-floods-pthe-swollen-elbe-river-breaches-its-banks-forcing-german-authorities-to-evacuate-10-villages-so-far-21-people-have-d.md) _2017-08-25 03:38:48 (First version)_
-2. [2013 European floods:: The swollen Elbe River breaches its banks forcing German authorities to evacuate 10 villages. So far, 21 people have died across Central Europe. ](/news/2013/06/10/2013-european-floods-the-swollen-elbe-river-breaches-its-banks-forcing-german-authorities-to-evacuate-10-villages-so-far-21-people-have.md) _2017-08-27 03:39:02 (Update)_
+1. [2013 European floods:: The swollen Elbe River breaches its banks forcing German authorities to evacuate 10 villages. So far, 21 people have died across Central Europe. ](/news/2013/06/10/2013-european-floods-the-swollen-elbe-river-breaches-its-banks-forcing-german-authorities-to-evacuate-10-villages-so-far-21-people-have.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 European floods:The swollen Elbe River breaches its banks forcing German authorities to evacuate 10 villages. So far, 21 people have died across Central Europe. ](/news/2013/06/10/2013-european-floods-pthe-swollen-elbe-river-breaches-its-banks-forcing-german-authorities-to-evacuate-10-villages-so-far-21-people-have-d.md) _2018-02-06 13:49:25 (Update)_
 2. [The swollen Elbe River breaches its banks forcing German authorities to evacuate 10 villages. So far, 21 people have died across Central Europe. ](/news/2013/06/10/the-swollen-elbe-river-breaches-its-banks-forcing-german-authorities-to-evacuate-10-villages-so-far-21-people-have-died-across-central-eur.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Three people are killed and many more wounded as a shell hits a hospital in the 
 
 ### Changes:
 
-1. [War in Donbass: A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/war-in-donbass-a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _2017-08-27 03:41:52 (First version)_
+1. [War in Donbass: A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/war-in-donbass-a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _2018-02-06 13:49:26 (First version)_
 1. [A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _(Current version)_
 
 ### Related:

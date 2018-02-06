@@ -16,7 +16,7 @@ Angry Mogadishu residents protested for a second day on Tuesday against food tra
 
 ### Changes:
 
-1. [ 2007-2008 world food price crisis: Mogadishu residents protest for a second day over high food prices as traders reject old Somali shilling notes due to high inflation. ](/news/2008/05/6/2007-2008-world-food-price-crisis-mogadishu-residents-protest-for-a-second-day-over-high-food-prices-as-traders-reject-old-somali-shilli.md) _2017-08-27 03:22:02 (First version)_
+1. [ 2007-2008 world food price crisis: Mogadishu residents protest for a second day over high food prices as traders reject old Somali shilling notes due to high inflation. ](/news/2008/05/6/2007-2008-world-food-price-crisis-mogadishu-residents-protest-for-a-second-day-over-high-food-prices-as-traders-reject-old-somali-shilli.md) _2018-02-06 13:49:18 (First version)_
 1. [ 2007-2008 world food price crisis: Mogadishu residents protest for a second day over high food prices as traders reject old Somali shilling notes due to high inflation. ](/news/2008/05/6/2007a2008-world-food-price-crisis-mogadishu-residents-protest-for-a-second-day-over-high-food-prices-as-traders-reject-old-somali-shilli.md) _(Current version)_
 
 ### Related:

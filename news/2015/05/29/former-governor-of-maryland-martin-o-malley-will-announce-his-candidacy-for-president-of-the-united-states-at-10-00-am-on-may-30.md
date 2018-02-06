@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/29/former-governor-of-maryland-martin-o-malley-wil
 
 ### Changes:
 
-1. [Democratic Party presidential primaries, 2016: Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/democratic-party-presidential-primaries-2016-former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the.md) _2017-08-27 03:42:26 (First version)_
+1. [Democratic Party presidential primaries, 2016: Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/democratic-party-presidential-primaries-2016-former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the-united-states-at-10-00-am-on-may-30.md) _(Current version)_
 
 ### Related:

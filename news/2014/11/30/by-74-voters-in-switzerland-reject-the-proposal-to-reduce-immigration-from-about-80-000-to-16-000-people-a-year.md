@@ -18,8 +18,8 @@ Swiss voters decisively reject a referendum proposal to cut net immigration to n
 
 ### Changes:
 
-1. [Swiss immigration referendum By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/swiss-immigration-referendum-pby-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-y.md) _2017-05-25 03:43:07 (First version)_
-2. [Swiss immigration referendum: By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/swiss-immigration-referendum-by-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-ye.md) _2017-08-27 03:41:34 (Update)_
+1. [Swiss immigration referendum By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/swiss-immigration-referendum-pby-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-y.md) _2018-02-06 13:49:26 (First version)_
+2. [Swiss immigration referendum: By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/swiss-immigration-referendum-by-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-ye.md) _2018-02-06 13:49:26 (Update)_
 2. [By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/by-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-year.md) _(Current version)_
 
 ### Related:

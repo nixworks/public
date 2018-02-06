@@ -18,7 +18,7 @@ At least 85 people are killed in a gas explosion at a restaurant in the central 
 
 ### Changes:
 
-1. [Petlawad explosion: A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. ](/news/2015/09/12/petlawad-explosion-a-series-of-explosions-involving-propane-triggering-nearby-illegally-stored-mining-detonators-in-the-indian-town-of-petl.md) _2017-08-27 03:43:02 (First version)_
+1. [Petlawad explosion: A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. ](/news/2015/09/12/petlawad-explosion-a-series-of-explosions-involving-propane-triggering-nearby-illegally-stored-mining-detonators-in-the-indian-town-of-petl.md) _2018-02-06 13:49:27 (First version)_
 1. [A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. ](/news/2015/09/12/a-series-of-explosions-involving-propane-triggering-nearby-illegally-stored-mining-detonators-in-the-indian-town-of-petlawad-in-the-state-of.md) _(Current version)_
 
 ### Related:

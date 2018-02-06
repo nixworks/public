@@ -16,7 +16,7 @@ The Supreme Court rejected the Bush administration’s argument that the Guantá
 
 ### Changes:
 
-1. [ In ''Boumediene v. Bush'', the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights.md) _2017-08-25 03:22:21 (First version)_
+1. [ In ''Boumediene v. Bush'', the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights.md) _2018-02-06 13:49:18 (First version)_
 1. [ In "Boumediene v. Bush", the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights-to.md) _(Current version)_
 
 ### Related:

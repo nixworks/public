@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/05/13/the-bahraini-government-tortures-doctors-into-c
 
 ### Changes:
 
-1. [2011 Bahraini uprising:The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/2011-bahraini-uprising-pthe-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-ci.md) _2017-08-25 03:33:06 (First version)_
-2. [2011 Bahraini uprising:: The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/2011-bahraini-uprising-the-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-c.md) _2017-08-27 03:33:15 (Update)_
+1. [2011 Bahraini uprising:: The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/2011-bahraini-uprising-the-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-c.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Bahraini uprising:The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/2011-bahraini-uprising-pthe-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-ci.md) _2018-02-06 13:49:22 (Update)_
 2. [The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/the-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-civilians-who-protested-du.md) _(Current version)_
 
 ### Related:

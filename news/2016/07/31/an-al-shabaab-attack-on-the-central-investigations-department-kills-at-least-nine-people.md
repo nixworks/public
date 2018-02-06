@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/31/an-al-shabaab-attack-on-the-central-investigati
 
 ### Changes:
 
-1. [War in Somalia (2009-present): An Al-Shabaab attack on the Central Investigations Department kills at least nine people. ](/news/2016/07/31/war-in-somalia-2009-present-an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md) _2017-08-27 03:46:34 (First version)_
+1. [War in Somalia (2009-present): An Al-Shabaab attack on the Central Investigations Department kills at least nine people. ](/news/2016/07/31/war-in-somalia-2009-present-an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md) _2018-02-06 13:49:29 (First version)_
 1. [An Al-Shabaab attack on the Central Investigations Department kills at least nine people. ](/news/2016/07/31/an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md) _(Current version)_
 
 ### Related:

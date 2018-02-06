@@ -18,8 +18,8 @@ A suicide car bombing claimed by Islamic State killed at least 40 Yemeni army re
 
 ### Changes:
 
-1. [ At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen-the-islamic-state-of-iraq-and-the.md) _2017-08-25 03:45:45 (First version)_
-2. [ Yemeni civil war (2015-present): At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/yemeni-civil-war-2015-present-at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen.md) _2017-08-27 03:46:06 (Update)_
+1. [ Yemeni civil war (2015-present): At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/yemeni-civil-war-2015-present-at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen.md) _2018-02-06 13:49:29 (First version)_
+2. [ At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen-the-islamic-state-of-iraq-and-the.md) _2018-02-06 13:49:29 (Update)_
 2. [ At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen-the-islamic-state-of-iraq-and-the-l.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2013 Thai protests:The King of Thailand Bhumibol Adulyadej calls for stability as he celebrates his 86th birthday. ](/news/2013/12/5/2013-thai-protests-pthe-king-of-thailand-bhumibol-adulyadej-calls-for-stability-as-he-celebrates-his-86th-birthday.md) _2017-08-25 03:39:38 (First version)_
-2. [2013 Thai protests:: The King of Thailand Bhumibol Adulyadej calls for stability as he celebrates his 86th birthday. ](/news/2013/12/5/2013-thai-protests-the-king-of-thailand-bhumibol-adulyadej-calls-for-stability-as-he-celebrates-his-86th-birthday.md) _2017-08-27 03:39:56 (Update)_
+1. [2013 Thai protests:: The King of Thailand Bhumibol Adulyadej calls for stability as he celebrates his 86th birthday. ](/news/2013/12/5/2013-thai-protests-the-king-of-thailand-bhumibol-adulyadej-calls-for-stability-as-he-celebrates-his-86th-birthday.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:The King of Thailand Bhumibol Adulyadej calls for stability as he celebrates his 86th birthday. ](/news/2013/12/5/2013-thai-protests-pthe-king-of-thailand-bhumibol-adulyadej-calls-for-stability-as-he-celebrates-his-86th-birthday.md) _2018-02-06 13:49:25 (Update)_
 2. [The King of Thailand Bhumibol Adulyadej calls for stability as he celebrates his 86th birthday. ](/news/2013/12/5/the-king-of-thailand-bhumibol-adulyadej-calls-for-stability-as-he-celebrates-his-86th-birthday.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Voting begins in New Zealand in the first stage of a referendum which could see 
 
 ### Changes:
 
-1. [New Zealand flag referendum: The first stage of the voting process to potentially select a new flag of New Zealand starts. ](/news/2015/11/20/new-zealand-flag-referendum-the-first-stage-of-the-voting-process-to-potentially-select-a-new-flag-of-new-zealand-starts.md) _2017-08-27 03:43:57 (First version)_
+1. [New Zealand flag referendum: The first stage of the voting process to potentially select a new flag of New Zealand starts. ](/news/2015/11/20/new-zealand-flag-referendum-the-first-stage-of-the-voting-process-to-potentially-select-a-new-flag-of-new-zealand-starts.md) _2018-02-06 13:49:28 (First version)_
 1. [The first stage of the voting process to potentially select a new flag of New Zealand starts. ](/news/2015/11/20/the-first-stage-of-the-voting-process-to-potentially-select-a-new-flag-of-new-zealand-starts.md) _(Current version)_
 
 ### Related:

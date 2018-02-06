@@ -17,7 +17,7 @@ IRELAND will hold a general election on February 26, Prime Minister Enda Kenny h
 
 ### Changes:
 
-1. [Irish general election, 2016: Voters in Ireland will go to the polls on February 26 after the President dissolves the current Dail or parliament. ](/news/2016/02/3/irish-general-election-2016-voters-in-ireland-will-go-to-the-polls-on-february-26-after-the-president-dissolves-the-current-dail-or-parlia.md) _2017-08-27 03:44:49 (First version)_
+1. [Irish general election, 2016: Voters in Ireland will go to the polls on February 26 after the President dissolves the current Dail or parliament. ](/news/2016/02/3/irish-general-election-2016-voters-in-ireland-will-go-to-the-polls-on-february-26-after-the-president-dissolves-the-current-dail-or-parlia.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Ireland will go to the polls on February 26 after the President dissolves the current Dail or parliament. ](/news/2016/02/3/voters-in-ireland-will-go-to-the-polls-on-february-26-after-the-president-dissolves-the-current-dail-or-parliament.md) _(Current version)_
 
 ### Related:

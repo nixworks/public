@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/1/at-least-15-children-are-killed-by-isis-snipers-
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): At least 15 children are killed by ISIS snipers in Mosul. ](/news/2016/12/1/iraqi-civil-war-2014-present-at-least-15-children-are-killed-by-isis-snipers-in-mosul.md) _2017-08-27 03:47:21 (First version)_
+1. [Iraqi Civil War (2014-present): At least 15 children are killed by ISIS snipers in Mosul. ](/news/2016/12/1/iraqi-civil-war-2014-present-at-least-15-children-are-killed-by-isis-snipers-in-mosul.md) _2018-02-06 13:49:29 (First version)_
 1. [At least 15 children are killed by ISIS snipers in Mosul. ](/news/2016/12/1/at-least-15-children-are-killed-by-isis-snipers-in-mosul.md) _(Current version)_
 
 ### Related:

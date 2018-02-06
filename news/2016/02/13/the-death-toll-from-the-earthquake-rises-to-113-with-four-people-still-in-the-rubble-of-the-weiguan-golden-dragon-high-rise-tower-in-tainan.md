@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/13/the-death-toll-from-the-earthquake-rises-to-113
 
 ### Changes:
 
-1. [2016 Taiwan earthquake: The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. ](/news/2016/02/13/2016-taiwan-earthquake-the-death-toll-from-the-earthquake-rises-to-113-with-four-people-still-in-the-rubble-of-the-weiguan-golden-dragon-hi.md) _2017-08-27 03:44:53 (First version)_
+1. [2016 Taiwan earthquake: The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. ](/news/2016/02/13/2016-taiwan-earthquake-the-death-toll-from-the-earthquake-rises-to-113-with-four-people-still-in-the-rubble-of-the-weiguan-golden-dragon-hi.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. ](/news/2016/02/13/the-death-toll-from-the-earthquake-rises-to-113-with-four-people-still-in-the-rubble-of-the-weiguan-golden-dragon-high-rise-tower-in-tainan.md) _(Current version)_
 
 ### Related:

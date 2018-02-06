@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic
 
 ### Changes:
 
-1. [''Plastiki'', a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific.md) _2017-08-25 03:27:25 (First version)_
+1. [''Plastiki'', a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific.md) _2018-02-06 13:49:19 (First version)_
 1. ["Plastiki", a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific-g.md) _(Current version)_
 
 ### Related:

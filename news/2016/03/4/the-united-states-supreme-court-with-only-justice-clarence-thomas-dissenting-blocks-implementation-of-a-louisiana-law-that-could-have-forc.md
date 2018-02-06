@@ -17,7 +17,7 @@ The Supreme Court handed abortion rights advocates a victory Friday by blocking 
 
 ### Changes:
 
-1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-fo.md) _2017-08-25 03:44:46 (First version)_
+1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-fo.md) _2018-02-06 13:49:28 (First version)_
 1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-forc.md) _(Current version)_
 
 ### Related:

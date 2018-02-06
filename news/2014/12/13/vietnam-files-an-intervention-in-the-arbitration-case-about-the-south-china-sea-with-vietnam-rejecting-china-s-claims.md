@@ -15,9 +15,9 @@ Formats: [HTML](/news/2014/12/13/vietnam-files-an-intervention-in-the-arbitratio
 
 ### Changes:
 
-1. [''Philippines v. China'' Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-cla.md) _2017-05-25 03:43:11 (First version)_
-2. [''Philippines v. China''Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-clai.md) _2017-08-25 03:41:19 (Update)_
-3. ["Philippines v. China": Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claim.md) _2017-08-27 03:41:37 (Update)_
+1. ["Philippines v. China": Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claim.md) _2018-02-06 13:49:26 (First version)_
+2. [''Philippines v. China''Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-clai.md) _2018-02-06 13:49:26 (Update)_
+3. [''Philippines v. China'' Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-cla.md) _2018-02-06 13:49:26 (Update)_
 3. [Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claims.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/07/31/british-airways-loses-agbp148m-in-the-last-thre
 
 ### Changes:
 
-1. [ British Airways loses PS148m in the last three months, the company's first loss since privatisation in 1987. ](/news/2009/07/31/british-airways-loses-aps148m-in-the-last-three-months-the-company-s-first-loss-since-privatisation-in-1987.md) _2017-08-25 03:25:18 (First version)_
+1. [ British Airways loses PS148m in the last three months, the company's first loss since privatisation in 1987. ](/news/2009/07/31/british-airways-loses-aps148m-in-the-last-three-months-the-company-s-first-loss-since-privatisation-in-1987.md) _2018-02-06 13:49:19 (First version)_
 1. [ British Airways loses GBP148m in the last three months, the company's first loss since privatisation in 1987. ](/news/2009/07/31/british-airways-loses-agbp148m-in-the-last-three-months-the-company-s-first-loss-since-privatisation-in-1987.md) _(Current version)_
 
 ### Related:

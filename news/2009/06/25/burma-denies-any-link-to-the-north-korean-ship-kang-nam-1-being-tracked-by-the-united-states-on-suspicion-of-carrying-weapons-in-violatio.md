@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-
 
 ### Changes:
 
-1. [ Burma denies any link to the North Korean ship ''Kang Nam 1'' being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violat.md) _2017-08-25 03:24:58 (First version)_
+1. [ Burma denies any link to the North Korean ship ''Kang Nam 1'' being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violat.md) _2018-02-06 13:49:19 (First version)_
 1. [ Burma denies any link to the North Korean ship "Kang Nam 1" being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violatio.md) _(Current version)_
 
 ### Related:

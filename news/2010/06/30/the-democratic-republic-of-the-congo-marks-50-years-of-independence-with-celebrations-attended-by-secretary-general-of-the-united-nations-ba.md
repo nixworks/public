@@ -20,7 +20,7 @@ The Democratic Republic of Congo marks 50 years of independence Wednesday with U
 
 ### Changes:
 
-1. [Africa: The Democratic Republic of the Congo marks 50 years of independence with celebrations attended by Secretary-General of the United Nations Ban Ki-moon, the Belgian king and other world leaders, days after the funeral of Floribert Chebeya. ](/news/2010/06/30/africa-the-democratic-republic-of-the-congo-marks-50-years-of-independence-with-celebrations-attended-by-secretary-general-of-the-united-na.md) _2017-08-27 03:28:31 (First version)_
+1. [Africa: The Democratic Republic of the Congo marks 50 years of independence with celebrations attended by Secretary-General of the United Nations Ban Ki-moon, the Belgian king and other world leaders, days after the funeral of Floribert Chebeya. ](/news/2010/06/30/africa-the-democratic-republic-of-the-congo-marks-50-years-of-independence-with-celebrations-attended-by-secretary-general-of-the-united-na.md) _2018-02-06 13:49:20 (First version)_
 1. [The Democratic Republic of the Congo marks 50 years of independence with celebrations attended by Secretary-General of the United Nations Ban Ki-moon, the Belgian king and other world leaders, days after the funeral of Floribert Chebeya. ](/news/2010/06/30/the-democratic-republic-of-the-congo-marks-50-years-of-independence-with-celebrations-attended-by-secretary-general-of-the-united-nations-ba.md) _(Current version)_
 
 ### Related:

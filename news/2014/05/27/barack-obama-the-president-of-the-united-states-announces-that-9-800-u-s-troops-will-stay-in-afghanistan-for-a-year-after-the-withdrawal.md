@@ -15,8 +15,8 @@ The troops will include troops to train and advise Afghanistan&rsquo;s military 
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/war-in-afghanistan-2001apresent-pbarack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghani.md) _2017-08-25 03:40:28 (First version)_
-2. [War in Afghanistan (2001-present):: Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/war-in-afghanistan-2001-present-barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghan.md) _2017-08-27 03:40:45 (Update)_
+1. [War in Afghanistan (2001-present):Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/war-in-afghanistan-2001apresent-pbarack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghani.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Afghanistan (2001-present):: Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/war-in-afghanistan-2001-present-barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghan.md) _2018-02-06 13:49:26 (Update)_
 2. [Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghanistan-for-a-year-after-the-withdrawal.md) _(Current version)_
 
 ### Related:

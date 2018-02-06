@@ -18,7 +18,7 @@ Formats: [HTML](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the
 
 ### Changes:
 
-1. [Tunisian presidential election, 2014: Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/tunisian-presidential-election-2014-voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring.md) _2017-08-27 03:41:33 (First version)_
+1. [Tunisian presidential election, 2014: Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/tunisian-presidential-election-2014-voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md) _(Current version)_
 
 ### Related:

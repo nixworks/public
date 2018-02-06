@@ -16,8 +16,8 @@ Brazen attack on Kirkuk mall by gunmen and suicide bombers leaves many dead as v
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-insurgency-post-u-s-withdrawal-piraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md) _2017-08-25 03:39:37 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-insurgency-post-u-s-withdrawal-iraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md) _2017-08-27 03:39:55 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-insurgency-post-u-s-withdrawal-piraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-insurgency-post-u-s-withdrawal-iraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md) _2018-02-06 13:49:25 (Update)_
 2. [Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md) _(Current version)_
 
 ### Related:

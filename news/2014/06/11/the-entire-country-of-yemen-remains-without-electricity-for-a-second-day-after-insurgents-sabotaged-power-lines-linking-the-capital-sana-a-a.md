@@ -16,8 +16,8 @@ Assault on lines linking Sanaa with al-Qaeda stronghold Marib trips national gri
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:The entire country of Yemen remains without electricity for a second day after insurgents sabotaged power lines linking the capital Sana'a and the contested Ma'rib Governorate. ](/news/2014/06/11/al-qaeda-insurgency-in-yemen-pthe-entire-country-of-yemen-remains-without-electricity-for-a-second-day-after-insurgents-sabotaged-power-line.md) _2017-08-25 03:40:32 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: The entire country of Yemen remains without electricity for a second day after insurgents sabotaged power lines linking the capital Sana'a and the contested Ma'rib Governorate. ](/news/2014/06/11/al-qaeda-insurgency-in-yemen-the-entire-country-of-yemen-remains-without-electricity-for-a-second-day-after-insurgents-sabotaged-power-lin.md) _2017-08-27 03:40:50 (Update)_
+1. [Al-Qaeda insurgency in Yemen:: The entire country of Yemen remains without electricity for a second day after insurgents sabotaged power lines linking the capital Sana'a and the contested Ma'rib Governorate. ](/news/2014/06/11/al-qaeda-insurgency-in-yemen-the-entire-country-of-yemen-remains-without-electricity-for-a-second-day-after-insurgents-sabotaged-power-lin.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:The entire country of Yemen remains without electricity for a second day after insurgents sabotaged power lines linking the capital Sana'a and the contested Ma'rib Governorate. ](/news/2014/06/11/al-qaeda-insurgency-in-yemen-pthe-entire-country-of-yemen-remains-without-electricity-for-a-second-day-after-insurgents-sabotaged-power-line.md) _2018-02-06 13:49:26 (Update)_
 2. [The entire country of Yemen remains without electricity for a second day after insurgents sabotaged power lines linking the capital Sana'a and the contested Ma'rib Governorate. ](/news/2014/06/11/the-entire-country-of-yemen-remains-without-electricity-for-a-second-day-after-insurgents-sabotaged-power-lines-linking-the-capital-sana-a-a.md) _(Current version)_
 
 ### Related:

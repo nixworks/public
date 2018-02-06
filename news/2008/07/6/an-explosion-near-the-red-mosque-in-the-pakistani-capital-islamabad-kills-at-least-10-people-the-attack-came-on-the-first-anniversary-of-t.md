@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/6/an-explosion-near-the-red-mosque-in-the-pakistan
 
 ### Changes:
 
-1. [ An explosion near the Red Mosque in the Pakistani capital Islamabad kills at least 10 people. The attack came on the first anniversary of the deadly siege and storming of the Red Mosque. ](/news/2008/07/6/an-explosion-near-the-red-mosque-in-the-pakistani-capital-islamabad-kills-at-least-10-people-the-attack-came-on-the-first-anniversary-of.md) _2017-08-25 03:22:32 (First version)_
+1. [ An explosion near the Red Mosque in the Pakistani capital Islamabad kills at least 10 people. The attack came on the first anniversary of the deadly siege and storming of the Red Mosque. ](/news/2008/07/6/an-explosion-near-the-red-mosque-in-the-pakistani-capital-islamabad-kills-at-least-10-people-the-attack-came-on-the-first-anniversary-of.md) _2018-02-06 13:49:18 (First version)_
 1. [ An explosion near the Red Mosque in the Pakistani capital Islamabad kills at least 10 people. The attack came on the first anniversary of the deadly siege and storming of the Red Mosque. ](/news/2008/07/6/an-explosion-near-the-red-mosque-in-the-pakistani-capital-islamabad-kills-at-least-10-people-the-attack-came-on-the-first-anniversary-of-t.md) _(Current version)_
 
 ### Related:

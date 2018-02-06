@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/15/loyalists-of-exiled-president-abd-rabbuh-mansur
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/yemeni-crisis-2011-present-loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of.md) _2017-08-27 03:42:42 (First version)_
+1. [Yemeni Crisis (2011-present): Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/yemeni-crisis-2011-present-loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of.md) _2018-02-06 13:49:27 (First version)_
 1. [Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of-being-under-houthi-control.md) _(Current version)_
 
 ### Related:

@@ -15,13 +15,13 @@ Formats: [HTML](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-co
 
 ### Changes:
 
-1. [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-benin-ore-expressway.md) _2017-08-27 03:38:23 (First version)_
+1. [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-benin-ore-expressway.md) _2018-02-06 13:49:24 (First version)_
 1. [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-beninaore-expressway.md) _(Current version)_
 
 ### Related:
 
-1. [Nigeria, Niger, Cameroon, Benin, and Chad join together to combat Boko Haram. ](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.md) _Context: Beninese, Nigeria_
+1. [Nigeria, Niger, Cameroon, Benin, and Chad join together to combat Boko Haram. ](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.md) _Context: Benin, Nigeria_
 2. [ 56 people die in Nigeria when a bus travelling from Lagos crashes and falls off a bridge into the Gadar Tamburawa river, just south of Kano. It is believed that the driver fell asleep as he drove. ](/news/2005/07/24/56-people-die-in-nigeria-when-a-bus-travelling-from-lagos-crashes-and-falls-off-a-bridge-into-the-gadar-tamburawa-river-just-south-of-kano.md) _Context: Nigeria, bus_
-3. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
-4. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_
-5. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Nigeria_
+3. [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md) _Context: Benin_
+4. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
+5. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_

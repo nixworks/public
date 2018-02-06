@@ -9,7 +9,7 @@ _Context: Philadelphia Phillies, baseball world series, New York Yankees_
 
 ##### Houthi
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Shia insurgency in Yemen, Houthi, Saudi Arabia, Yemen_
+_Context: Saudi Arabia, Shia insurgency in Yemen, Houthi, Yemen_
 
 ##### Israeli navy
 ### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
@@ -37,7 +37,7 @@ Twenty-three US secret agents, accused of seizing imam, sentenced to jail in abs
 
 ##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Prime Minister, Thein Sein, United States, Burma, Aung San Suu Kyi_
+_Context: Burma, Aung San Suu Kyi, United States, Thein Sein, Prime Minister_
 
 ##### President of Sierra Leone
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
@@ -49,15 +49,15 @@ Italian political leaders have united to condemn a European court ruling that cr
 
 ##### earthquake
 ### [ Around 700 people are injured in two earthquakes in southern Iran. ](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.md)
-_Context: Iran, earthquake_
+_Context: earthquake, Iran_
 
 ##### China
 ### [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md)
-_Context: theme park, Shanghai, Disney, China_
+_Context: Shanghai, Disney, China, theme park_
 
 ##### Australia
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
-_Context: Australia, Fiji, Voreqe Bainimarama, Prime Minister, New Zealand_
+_Context: Voreqe Bainimarama, Prime Minister, Fiji, New Zealand, Australia_
 
 ##### Huwei
 ### [ A fire at a warehouse in Huwei Yunlin County, Taiwan, destroys between 400 and 500 historic puppets. ](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.md)
@@ -65,7 +65,7 @@ TAIPEI (Reuters Life!) - A region of Taiwan that prides itself on puppetry, an a
 
 ##### Kerala
 ### [ Eight children drown after a boat carrying 35 pupils capsizes in Kerala, southern India. ](/news/2009/11/4/eight-children-drown-after-a-boat-carrying-35-pupils-capsizes-in-kerala-southern-india.md)
-_Context: India, Kerala_
+_Context: Kerala, India_
 
 ##### United States elections, 2009
 ### [ Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md)

@@ -17,7 +17,7 @@ Hundreds of people are feared dead after two boats carrying up to 500 migrants c
 
 ### Changes:
 
-1. [European migrant crisis: Two boats carrying migrants capsize off of the coast of Zuwarah, Libya, with hundreds feared dead. ](/news/2015/08/27/european-migrant-crisis-two-boats-carrying-migrants-capsize-off-of-the-coast-of-zuwarah-libya-with-hundreds-feared-dead.md) _2017-08-27 03:42:55 (First version)_
+1. [European migrant crisis: Two boats carrying migrants capsize off of the coast of Zuwarah, Libya, with hundreds feared dead. ](/news/2015/08/27/european-migrant-crisis-two-boats-carrying-migrants-capsize-off-of-the-coast-of-zuwarah-libya-with-hundreds-feared-dead.md) _2018-02-06 13:49:27 (First version)_
 1. [Two boats carrying migrants capsize off of the coast of Zuwarah, Libya, with hundreds feared dead. ](/news/2015/08/27/two-boats-carrying-migrants-capsize-off-of-the-coast-of-zuwarah-libya-with-hundreds-feared-dead.md) _(Current version)_
 
 ### Related:

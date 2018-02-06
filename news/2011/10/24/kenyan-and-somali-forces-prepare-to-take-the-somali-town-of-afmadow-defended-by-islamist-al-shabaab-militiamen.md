@@ -18,8 +18,8 @@ Twin attacks in central Nairobi come two days after the US issued a terrorism al
 
 ### Changes:
 
-1. [Kenyan-Somalian military operation:Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-somalian-military-operation-pkenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-mil.md) _2017-08-25 03:34:22 (First version)_
-2. [Kenyan-Somalian military operation:: Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-somalian-military-operation-kenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-mi.md) _2017-08-27 03:34:30 (Update)_
+1. [Kenyan-Somalian military operation:Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-somalian-military-operation-pkenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-mil.md) _2018-02-06 13:49:23 (First version)_
+2. [Kenyan-Somalian military operation:: Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-somalian-military-operation-kenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-mi.md) _2018-02-06 13:49:23 (Update)_
 2. [Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-militiamen.md) _(Current version)_
 
 ### Related:

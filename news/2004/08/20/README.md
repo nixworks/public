@@ -13,15 +13,15 @@ _Context: Palestinian, Hamas_
 
 ##### Homeland Security
 ### [ Homeland Security official Asa Hutchinson apologizes for a database mix-up that causes U.S. Senator Ted Kennedy to be held up at airline gates three times, on suspicion that he is a terrorist. ](/news/2004/08/20/homeland-security-official-asa-hutchinson-apologizes-for-a-database-mix-up-that-causes-u-s-senator-ted-kennedy-to-be-held-up-at-airline-ga.md)
-_Context: United States Senate, Homeland Security, Ted Kennedy, airline, database, Asa Hutchinson, terrorist_
+_Context: terrorist, Ted Kennedy, United States Senate, Homeland Security, database, airline, Asa Hutchinson_
 
 ##### Maoist
 ### [ Maoist rebels shoot a police officer and detonate two bombs in Kathmandu, the capital of Nepal. ](/news/2004/08/20/maoist-rebels-shoot-a-police-officer-and-detonate-two-bombs-in-kathmandu-the-capital-of-nepal.md)
-_Context: police officer, Nepal, Kathmandu, Maoist supporters, bomb, Maoist_
+_Context: Nepal, bomb, Maoist supporters, police officer, Kathmandu, Maoist_
 
 ##### Darfur
 ### [ Refugee camps in Darfur are hit by hepatitis E, a deadly virus. ](/news/2004/08/20/refugee-camps-in-darfur-are-hit-by-hepatitis-e-a-deadly-virus.md)
-_Context: hepatitis E, virus, Darfur_
+_Context: Darfur, hepatitis E, virus_
 
 ## [Previous Day...](/news/2004/08/19/index.md)
 

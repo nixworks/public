@@ -16,7 +16,7 @@ Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a
 
 ### Changes:
 
-1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-status-from-unnecessary-detention-an.md) _2017-09-13 08:30:06 (First version)_
+1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-status-from-unnecessary-detention-an.md) _2018-02-06 13:49:31 (First version)_
 1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md) _(Current version)_
 
 ### Related:

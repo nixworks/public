@@ -17,7 +17,7 @@ At a tribunal considering appeals by six Croats convicted over actions in Bosnia
 
 ### Changes:
 
-1. [ Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the International Criminal Tribunal for the former Yugoslavia upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-criminal-tribunal-for-the-former-yugos.md) _2017-11-29 19:30:05 (First version)_
+1. [ Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the International Criminal Tribunal for the former Yugoslavia upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-criminal-tribunal-for-the-former-yugos.md) _2018-02-06 13:49:31 (First version)_
 1. [Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the international tribunal upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-tribunal-upheld-his-war-crime-convictio.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ The French are voting Sunday for the fourth time in two months and the main outs
 
 ### Changes:
 
-1. [French legislative election, 2017: Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/french-legislative-election-2017-voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seat.md) _2017-08-27 03:48:30 (First version)_
+1. [French legislative election, 2017: Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/french-legislative-election-2017-voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seat.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md) _(Current version)_
 
 ### Related:

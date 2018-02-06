@@ -16,8 +16,8 @@ Ukraine, Georgia and Moldova sign partnership agreements with the European Union
 
 ### Changes:
 
-1. [Ukraine-European Union Association Agreement:The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraineaeuropean-union-association-agreement-pthe-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md) _2017-08-25 03:40:36 (First version)_
-2. [Ukraine-European Union Association Agreement:: The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraine-european-union-association-agreement-the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md) _2017-08-27 03:40:54 (Update)_
+1. [Ukraine-European Union Association Agreement:The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraineaeuropean-union-association-agreement-pthe-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md) _2018-02-06 13:49:26 (First version)_
+2. [Ukraine-European Union Association Agreement:: The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraine-european-union-association-agreement-the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md) _2018-02-06 13:49:26 (Update)_
 2. [The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed-by-russia.md) _(Current version)_
 
 ### Related:

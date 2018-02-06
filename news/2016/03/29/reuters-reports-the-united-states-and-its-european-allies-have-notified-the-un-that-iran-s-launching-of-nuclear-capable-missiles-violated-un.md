@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/29/reuters-reports-the-united-states-and-its-europ
 
 ### Changes:
 
-1. [Iran and weapons of mass destruction: Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/iran-and-weapons-of-mass-destruction-reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-o.md) _2017-08-27 03:45:24 (First version)_
+1. [Iran and weapons of mass destruction: Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/iran-and-weapons-of-mass-destruction-reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-o.md) _2018-02-06 13:49:28 (First version)_
 1. [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md) _(Current version)_
 
 ### Related:

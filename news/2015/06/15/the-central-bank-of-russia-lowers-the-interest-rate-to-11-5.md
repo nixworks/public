@@ -16,7 +16,7 @@ The Russian central bank cut its main lending rate further on Monday, in line wi
 
 ### Changes:
 
-1. [Russian financial crisis (2014-present): The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/russian-financial-crisis-2014-present-the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md) _2017-08-27 03:42:33 (First version)_
+1. [Russian financial crisis (2014-present): The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/russian-financial-crisis-2014-present-the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md) _2018-02-06 13:49:27 (First version)_
 1. [The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md) _(Current version)_
 
 ### Related:

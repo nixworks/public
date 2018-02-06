@@ -16,7 +16,7 @@ Four people, including a patient who was being airlifted from the scene of a car
 
 ### Changes:
 
-1. [All four on board are killed when a medical services helicopter, transporting a patient from a car accident, crashes in a wooded area in Coffee County, Alabama. The helicopter pilot, a nurse, a medic, and the patient were killed. ](/news/2016/03/26/all-four-on-board-are-killed-when-a-medical-services-helicopter-transporting-a-patient-from-a-car-accident-crashes-in-a-wooded-area-in-c.md) _2017-08-25 03:45:02 (First version)_
+1. [All four on board are killed when a medical services helicopter, transporting a patient from a car accident, crashes in a wooded area in Coffee County, Alabama. The helicopter pilot, a nurse, a medic, and the patient were killed. ](/news/2016/03/26/all-four-on-board-are-killed-when-a-medical-services-helicopter-transporting-a-patient-from-a-car-accident-crashes-in-a-wooded-area-in-c.md) _2018-02-06 13:49:28 (First version)_
 1. [All four on board are killed when a medical services helicopter, transporting a patient from a car accident, crashes in a wooded area in Coffee County, Alabama. The helicopter pilot, a nurse, a medic, and the patient were killed. ](/news/2016/03/26/all-four-on-board-are-killed-when-a-medical-services-helicopter-transporting-a-patient-from-a-car-accident-crashes-in-a-wooded-area-in-cof.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pie
 
 ### Changes:
 
-1. [Canadian poet Anne Michaels's novel ''Fugitive Pieces'' has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. ''Fugitive Pieces'' won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-i.md) _2017-08-25 03:28:09 (First version)_
+1. [Canadian poet Anne Michaels's novel ''Fugitive Pieces'' has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. ''Fugitive Pieces'' won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-i.md) _2018-02-06 13:49:20 (First version)_
 1. [Canadian poet Anne Michaels's novel "Fugitive Pieces" has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. "Fugitive Pieces" won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.md) _(Current version)_
 
 ### Related:

@@ -15,6 +15,6 @@ Formats: [HTML](/news/2014/07/26/dr-kent-brantly-the-medical-director-for-samari
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak:Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/2014-west-africa-ebola-outbreak-pdr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md) _2017-08-25 03:40:45 (First version)_
-2. [2014 West Africa Ebola outbreak:: Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/2014-west-africa-ebola-outbreak-dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md) _2017-08-27 03:41:04 (Update)_
+1. [2014 West Africa Ebola outbreak:Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/2014-west-africa-ebola-outbreak-pdr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola outbreak:: Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/2014-west-africa-ebola-outbreak-dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md) _2018-02-06 13:49:26 (Update)_
 2. [Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md) _(Current version)_

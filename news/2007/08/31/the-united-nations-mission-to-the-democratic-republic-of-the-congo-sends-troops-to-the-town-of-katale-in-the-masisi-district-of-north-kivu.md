@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/08/31/the-united-nations-mission-to-the-democratic-re
 
 ### Changes:
 
-1. [ Democratic Republic of the Congo: The United Nations mission to the Democratic Republic of the Congo sends troops to the town of Katale in the Masisi district of North Kivu province due to heavy fighting between the army and supporters of rebel General Laurent Nkunda. ](/news/2007/08/31/democratic-republic-of-the-congo-the-united-nations-mission-to-the-democratic-republic-of-the-congo-sends-troops-to-the-town-of-katale-in.md) _2017-08-27 03:20:45 (First version)_
+1. [ Democratic Republic of the Congo: The United Nations mission to the Democratic Republic of the Congo sends troops to the town of Katale in the Masisi district of North Kivu province due to heavy fighting between the army and supporters of rebel General Laurent Nkunda. ](/news/2007/08/31/democratic-republic-of-the-congo-the-united-nations-mission-to-the-democratic-republic-of-the-congo-sends-troops-to-the-town-of-katale-in.md) _2018-02-06 13:49:18 (First version)_
 1. [ The United Nations mission to the Democratic Republic of the Congo sends troops to the town of Katale in the Masisi district of North Kivu province due to heavy fighting between the army and supporters of rebel General Laurent Nkunda. ](/news/2007/08/31/the-united-nations-mission-to-the-democratic-republic-of-the-congo-sends-troops-to-the-town-of-katale-in-the-masisi-district-of-north-kivu.md) _(Current version)_
 
 ### Related:

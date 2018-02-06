@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/15/heavy-shelling-on-the-city-of-donetsk-ukraine-l
 
 ### Changes:
 
-1. [War in Donbass:Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/war-in-donbass-pheavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md) _2017-08-25 03:40:58 (First version)_
-2. [War in Donbass:: Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/war-in-donbass-heavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md) _2017-08-27 03:41:17 (Update)_
+1. [War in Donbass:Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/war-in-donbass-pheavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:: Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/war-in-donbass-heavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md) _2018-02-06 13:49:26 (Update)_
 2. [Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/heavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md) _(Current version)_
 
 ### Related:

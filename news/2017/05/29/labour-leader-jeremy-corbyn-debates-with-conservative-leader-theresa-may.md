@@ -16,8 +16,8 @@ Jeremy Corbyn will remain leader of the Labour Party regardless of what happens 
 
 ### Changes:
 
-1. [Labour leader Jeremy Corbyn debates with Conservative ruler Theresa May. ](/news/2017/05/29/labour-leader-jeremy-corbyn-debates-with-conservative-ruler-theresa-may.md) _2017-05-29 13:30:07 (First version)_
-2. [United Kingdom general election, 2017: Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. ](/news/2017/05/29/united-kingdom-general-election-2017-labour-leader-jeremy-corbyn-debates-with-conservative-leader-theresa-may.md) _2017-08-27 03:48:24 (Update)_
+1. [United Kingdom general election, 2017: Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. ](/news/2017/05/29/united-kingdom-general-election-2017-labour-leader-jeremy-corbyn-debates-with-conservative-leader-theresa-may.md) _2018-02-06 13:49:30 (First version)_
+2. [Labour leader Jeremy Corbyn debates with Conservative ruler Theresa May. ](/news/2017/05/29/labour-leader-jeremy-corbyn-debates-with-conservative-ruler-theresa-may.md) _2018-02-06 13:49:30 (Update)_
 2. [Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. ](/news/2017/05/29/labour-leader-jeremy-corbyn-debates-with-conservative-leader-theresa-may.md) _(Current version)_
 
 ### Related:

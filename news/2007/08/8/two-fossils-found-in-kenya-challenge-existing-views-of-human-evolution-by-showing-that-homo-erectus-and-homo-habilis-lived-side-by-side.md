@@ -16,7 +16,7 @@ Two fossils have shaken the human family tree, possibly rearranging major branch
 
 ### Changes:
 
-1. [ Two fossils found in Kenya challenge existing views of human evolution by showing that ''Homo erectus'' and ''Homo habilis'' lived side by side in eastern Africa for half a million years. ](/news/2007/08/8/two-fossils-found-in-kenya-challenge-existing-views-of-human-evolution-by-showing-that-homo-erectus-and-homo-habilis-lived-side-by.md) _2017-08-25 03:20:29 (First version)_
+1. [ Two fossils found in Kenya challenge existing views of human evolution by showing that ''Homo erectus'' and ''Homo habilis'' lived side by side in eastern Africa for half a million years. ](/news/2007/08/8/two-fossils-found-in-kenya-challenge-existing-views-of-human-evolution-by-showing-that-homo-erectus-and-homo-habilis-lived-side-by.md) _2018-02-06 13:49:18 (First version)_
 1. [ Two fossils found in Kenya challenge existing views of human evolution by showing that "Homo erectus" and "Homo habilis" lived side by side in eastern Africa for half a million years. ](/news/2007/08/8/two-fossils-found-in-kenya-challenge-existing-views-of-human-evolution-by-showing-that-homo-erectus-and-homo-habilis-lived-side-by-side.md) _(Current version)_
 
 ### Related:

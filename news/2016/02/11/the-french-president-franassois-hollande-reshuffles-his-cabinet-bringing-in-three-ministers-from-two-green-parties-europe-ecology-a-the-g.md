@@ -17,7 +17,7 @@ Former prime minister Jean-Marc Ayrault replaces Laurent Fabius as foreign minis
 
 ### Changes:
 
-1. [The French president Francois Hollande reshuffles his cabinet, bringing in three ministers from two green parties, Europe Ecology - The Greens and Ecologistes !; former Prime Minister of France Jean-Marc Ayrault is named as the new Foreign Minister replacing Laurent Fabius who resigned earlier in the week. ](/news/2016/02/11/the-french-president-franassois-hollande-reshuffles-his-cabinet-bringing-in-three-ministers-from-two-green-parties-europe-ecology-the-g.md) _2017-08-27 03:44:53 (First version)_
+1. [The French president Francois Hollande reshuffles his cabinet, bringing in three ministers from two green parties, Europe Ecology - The Greens and Ecologistes !; former Prime Minister of France Jean-Marc Ayrault is named as the new Foreign Minister replacing Laurent Fabius who resigned earlier in the week. ](/news/2016/02/11/the-french-president-franassois-hollande-reshuffles-his-cabinet-bringing-in-three-ministers-from-two-green-parties-europe-ecology-the-g.md) _2018-02-06 13:49:28 (First version)_
 1. [The French president Francois Hollande reshuffles his cabinet, bringing in three ministers from two green parties, Europe Ecology - The Greens and Ecologistes !; former Prime Minister of France Jean-Marc Ayrault is named as the new Foreign Minister replacing Laurent Fabius who resigned earlier in the week. ](/news/2016/02/11/the-french-president-franassois-hollande-reshuffles-his-cabinet-bringing-in-three-ministers-from-two-green-parties-europe-ecology-a-the-g.md) _(Current version)_
 
 ### Related:

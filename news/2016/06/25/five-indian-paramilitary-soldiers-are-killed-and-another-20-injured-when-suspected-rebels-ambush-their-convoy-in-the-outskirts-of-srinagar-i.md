@@ -16,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Changes:
 
-1. [Insurgency in Jammu and Kashmir: Five Indian paramilitary soldiers are killed and another 20 injured when suspected rebels ambush their convoy in the outskirts of Srinagar in the Indian portion of Kashmir. Two of the attackers are killed by return fire; the others escape. ](/news/2016/06/25/insurgency-in-jammu-and-kashmir-five-indian-paramilitary-soldiers-are-killed-and-another-20-injured-when-suspected-rebels-ambush-their-conv.md) _2017-08-27 03:46:20 (First version)_
+1. [Insurgency in Jammu and Kashmir: Five Indian paramilitary soldiers are killed and another 20 injured when suspected rebels ambush their convoy in the outskirts of Srinagar in the Indian portion of Kashmir. Two of the attackers are killed by return fire; the others escape. ](/news/2016/06/25/insurgency-in-jammu-and-kashmir-five-indian-paramilitary-soldiers-are-killed-and-another-20-injured-when-suspected-rebels-ambush-their-conv.md) _2018-02-06 13:49:29 (First version)_
 1. [Five Indian paramilitary soldiers are killed and another 20 injured when suspected rebels ambush their convoy in the outskirts of Srinagar in the Indian portion of Kashmir. Two of the attackers are killed by return fire; the others escape. ](/news/2016/06/25/five-indian-paramilitary-soldiers-are-killed-and-another-20-injured-when-suspected-rebels-ambush-their-convoy-in-the-outskirts-of-srinagar-i.md) _(Current version)_
 
 ### Related:

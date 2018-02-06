@@ -18,8 +18,8 @@ Opposition fighters in besieged western city continue advance after breaking thr
 
 ### Changes:
 
-1. [2011 Libyan civil war:Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _2017-08-25 03:33:04 (First version)_
-2. [2011 Libyan civil war:: Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-opposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _2017-08-27 03:33:14 (Update)_
+1. [2011 Libyan civil war:Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-opposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _2018-02-06 13:49:22 (Update)_
 2. [Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/opposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _(Current version)_
 
 ### Related:

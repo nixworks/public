@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-fina
 
 ### Changes:
 
-1. [ The RMS ''Queen Elizabeth 2'' sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirate.md) _2017-08-25 03:23:10 (First version)_
+1. [ The RMS ''Queen Elizabeth 2'' sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirate.md) _2018-02-06 13:49:18 (First version)_
 1. [ The RMS "Queen Elizabeth 2" sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirates.md) _(Current version)_
 
 ### Related:

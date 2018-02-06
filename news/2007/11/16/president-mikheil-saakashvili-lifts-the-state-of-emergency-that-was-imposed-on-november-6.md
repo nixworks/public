@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-o
 
 ### Changes:
 
-1. [ 2007 Georgian demonstrations: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-p-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md) _2017-08-25 03:21:24 (First version)_
-2. [ 2007 Georgian demonstrations:: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md) _2017-08-27 03:21:20 (Update)_
+1. [ 2007 Georgian demonstrations:: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Georgian demonstrations: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-p-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md) _2018-02-06 13:49:18 (Update)_
 2. [ President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md) _(Current version)_
 
 ### Related:

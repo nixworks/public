@@ -15,8 +15,8 @@ Two new Democrats in the Senate narrow the Republican majority to the barest of 
 
 ### Changes:
 
-1. [Two new Democratic senators - Doug Jones of Alabama and Tina Smith of Minnesota - are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independendent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down.md) _2018-01-03 16:30:05 (First version)_
-2. [Two new Democratic senators, Doug Jones of Alabama and Tina Smith of Minnesota, are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down-to.md) _2018-01-03 18:30:06 (Update)_
+1. [Two new Democratic senators - Doug Jones of Alabama and Tina Smith of Minnesota - are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independendent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down.md) _2018-02-06 13:49:31 (First version)_
+2. [Two new Democratic senators, Doug Jones of Alabama and Tina Smith of Minnesota, are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down-to.md) _2018-02-06 13:49:31 (Update)_
 2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _(Current version)_
 
 ### Related:

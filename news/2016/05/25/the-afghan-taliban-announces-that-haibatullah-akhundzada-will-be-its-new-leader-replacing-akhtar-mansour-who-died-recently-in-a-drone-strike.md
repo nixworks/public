@@ -17,7 +17,7 @@ A suicide bomber killed at least 10 people and wounded four on Wednesday in an a
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Afghan Taliban announces that Haibatullah Akhundzada will be its new leader replacing Akhtar Mansour who died recently in a drone strike. Sirajuddin Haqqani and Mullah Yaqoob are named as deputy leaders. ](/news/2016/05/25/war-in-afghanistan-2015-present-the-afghan-taliban-announces-that-haibatullah-akhundzada-will-be-its-new-leader-replacing-akhtar-mansou.md) _2017-08-27 03:46:08 (First version)_
+1. [War in Afghanistan (2015-present): The Afghan Taliban announces that Haibatullah Akhundzada will be its new leader replacing Akhtar Mansour who died recently in a drone strike. Sirajuddin Haqqani and Mullah Yaqoob are named as deputy leaders. ](/news/2016/05/25/war-in-afghanistan-2015-present-the-afghan-taliban-announces-that-haibatullah-akhundzada-will-be-its-new-leader-replacing-akhtar-mansou.md) _2018-02-06 13:49:29 (First version)_
 1. [The Afghan Taliban announces that Haibatullah Akhundzada will be its new leader replacing Akhtar Mansour who died recently in a drone strike. Sirajuddin Haqqani and Mullah Yaqoob are named as deputy leaders. ](/news/2016/05/25/the-afghan-taliban-announces-that-haibatullah-akhundzada-will-be-its-new-leader-replacing-akhtar-mansour-who-died-recently-in-a-drone-strike.md) _(Current version)_
 
 ### Related:

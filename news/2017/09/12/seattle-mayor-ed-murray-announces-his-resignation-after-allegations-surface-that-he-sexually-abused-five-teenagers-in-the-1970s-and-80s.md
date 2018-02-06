@@ -16,9 +16,9 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 
 ### Changes:
 
-1. [Seattle mayor Ed Murray announces his resignation after allegations that he sexual abused five teenagers decades ago. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-that-he-sexual-abused-five-teenagers-decades-ago.md) _2017-09-12 21:30:06 (First version)_
-2. [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers decades ago. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-decades-ago.md) _2017-09-12 23:30:05 (Update)_
-3. [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970's and 80's. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970-s-and-80-s.md) _2017-09-13 03:48:36 (Update)_
+1. [Seattle mayor Ed Murray announces his resignation after allegations that he sexual abused five teenagers decades ago. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-that-he-sexual-abused-five-teenagers-decades-ago.md) _2018-02-06 13:49:31 (First version)_
+2. [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970's and 80's. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970-s-and-80-s.md) _2018-02-06 13:49:31 (Update)_
+3. [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers decades ago. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-decades-ago.md) _2018-02-06 13:49:31 (Update)_
 3. [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970s and 80s. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970s-and-80s.md) _(Current version)_
 
 ### Related:

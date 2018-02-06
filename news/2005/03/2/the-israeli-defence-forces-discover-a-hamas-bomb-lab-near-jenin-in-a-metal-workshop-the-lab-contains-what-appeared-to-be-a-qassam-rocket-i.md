@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/03/2/the-israeli-defence-forces-discover-a-hamas-bomb
 
 ### Changes:
 
-1. [ The Israeli Defence Forces discover a Hamas bomb-lab near Jenin in a metal workshop. The lab contains what appeared to be a Qassam rocket in an initial state of production, and large quantities of other materials used for manufacturing bombs. ](/news/2005/03/2/the-israeli-defence-forces-discover-a-hamas-bomb-lab-near-jenin-in-a-metal-workshop-the-lab-contains-what-appeared-to-be-a-qassam-rocket.md) _2017-08-25 03:15:44 (First version)_
+1. [ The Israeli Defence Forces discover a Hamas bomb-lab near Jenin in a metal workshop. The lab contains what appeared to be a Qassam rocket in an initial state of production, and large quantities of other materials used for manufacturing bombs. ](/news/2005/03/2/the-israeli-defence-forces-discover-a-hamas-bomb-lab-near-jenin-in-a-metal-workshop-the-lab-contains-what-appeared-to-be-a-qassam-rocket.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Israeli Defence Forces discover a Hamas bomb-lab near Jenin in a metal workshop. The lab contains what appeared to be a Qassam rocket in an initial state of production, and large quantities of other materials used for manufacturing bombs. ](/news/2005/03/2/the-israeli-defence-forces-discover-a-hamas-bomb-lab-near-jenin-in-a-metal-workshop-the-lab-contains-what-appeared-to-be-a-qassam-rocket-i.md) _(Current version)_
 
 ### Related:

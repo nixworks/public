@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-a
 
 ### Changes:
 
-1. [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-iraq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md) _2017-08-27 03:22:10 (First version)_
+1. [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-iraq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md) _2018-02-06 13:49:18 (First version)_
 1. [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md) _(Current version)_
 
 ### Related:

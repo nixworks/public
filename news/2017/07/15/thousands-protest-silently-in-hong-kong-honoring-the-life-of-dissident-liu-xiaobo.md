@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honorin
 
 ### Changes:
 
-1. [Politics of Hong Kong: Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/politics-of-hong-kong-thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _2017-08-27 03:48:40 (First version)_
+1. [Politics of Hong Kong: Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/politics-of-hong-kong-thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _2018-02-06 13:49:30 (First version)_
 1. [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _(Current version)_
 
 ### Related:

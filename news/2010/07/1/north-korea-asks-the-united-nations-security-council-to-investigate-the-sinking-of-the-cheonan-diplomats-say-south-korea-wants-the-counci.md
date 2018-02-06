@@ -18,8 +18,8 @@ Pyongyang wants new investigation into deadly sinking of South Korean frigate.
 
 ### Changes:
 
-1. [North Korea asks the United Nations Security Council to investigate the sinking of the ''Cheonan''. Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-coun.md) _2017-08-25 03:28:32 (First version)_
-2. [Inter-Korean Relations: North Korea asks the United Nations Security Council to investigate the sinking of the "Cheonan". Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/inter-korean-relations-north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-sout.md) _2017-08-27 03:28:31 (Update)_
+1. [North Korea asks the United Nations Security Council to investigate the sinking of the ''Cheonan''. Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-coun.md) _2018-02-06 13:49:20 (First version)_
+2. [Inter-Korean Relations: North Korea asks the United Nations Security Council to investigate the sinking of the "Cheonan". Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/inter-korean-relations-north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-sout.md) _2018-02-06 13:49:20 (Update)_
 2. [North Korea asks the United Nations Security Council to investigate the sinking of the "Cheonan". Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-counci.md) _(Current version)_
 
 ### Related:

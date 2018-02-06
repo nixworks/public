@@ -16,8 +16,8 @@ A Nato air strike in eastern Ghazni province kills four Afghan policemen and a c
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md) _2017-08-25 03:38:10 (First version)_
-2. [War in Afghanistan (2001-present):: An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md) _2017-08-27 03:38:22 (Update)_
+1. [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md) _2018-02-06 13:49:24 (Update)_
 2. [An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/an-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md) _(Current version)_
 
 ### Related:

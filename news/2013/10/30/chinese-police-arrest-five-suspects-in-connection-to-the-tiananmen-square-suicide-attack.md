@@ -17,8 +17,8 @@ Police say they found machetes and flag with &#x27;extreme religious content&#x2
 
 ### Changes:
 
-1. [2013 Tiananmen Square car attack:Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/2013-tiananmen-square-car-attack-pchinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md) _2017-08-25 03:39:27 (First version)_
-2. [2013 Tiananmen Square car attack:: Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/2013-tiananmen-square-car-attack-chinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md) _2017-08-27 03:39:45 (Update)_
+1. [2013 Tiananmen Square car attack:Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/2013-tiananmen-square-car-attack-pchinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Tiananmen Square car attack:: Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/2013-tiananmen-square-car-attack-chinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md) _2018-02-06 13:49:25 (Update)_
 2. [Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/chinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md) _(Current version)_
 
 ### Related:

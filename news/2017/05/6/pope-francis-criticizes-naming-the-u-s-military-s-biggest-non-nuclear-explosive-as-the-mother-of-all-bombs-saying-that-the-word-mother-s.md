@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-
 
 ### Changes:
 
-1. [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs. The word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-the-word-mother-should-not-be.md) _2017-05-06 22:30:06 (First version)_
-2. [War in Afghanistan (2015-present): Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/war-in-afghanistan-2015-present-pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-b.md) _2017-08-27 03:48:18 (Update)_
+1. [War in Afghanistan (2015-present): Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/war-in-afghanistan-2015-present-pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-b.md) _2018-02-06 13:49:30 (First version)_
+2. [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs. The word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-the-word-mother-should-not-be.md) _2018-02-06 13:49:30 (Update)_
 2. [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md) _(Current version)_
 
 ### Related:

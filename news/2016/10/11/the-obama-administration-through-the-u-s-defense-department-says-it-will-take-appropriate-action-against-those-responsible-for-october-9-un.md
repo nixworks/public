@@ -16,7 +16,7 @@ The Pentagon on Tuesday warned that whoever fired missiles at a U.S. Navy destro
 
 ### Changes:
 
-1. [Yemeni Crisis: The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/yemeni-crisis-the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-f.md) _2017-08-27 03:47:01 (First version)_
+1. [Yemeni Crisis: The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/yemeni-crisis-the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-f.md) _2018-02-06 13:49:29 (First version)_
 1. [The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-for-october-9-un.md) _(Current version)_
 
 ### Related:

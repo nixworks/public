@@ -16,7 +16,7 @@ The company is challenging the use of secrecy orders that prevent it from tellin
 
 ### Changes:
 
-1. [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company-s customers in violation of the company-s constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-company-s-custo.md) _2017-08-27 03:45:37 (First version)_
+1. [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company-s customers in violation of the company-s constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-company-s-custo.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md) _(Current version)_
 
 ### Related:

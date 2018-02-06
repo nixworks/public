@@ -17,7 +17,7 @@ An official says 250 people are believed missing following a mudslide and avalan
 
 ### Changes:
 
-1. [April 2015 Nepal earthquake: The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. ](/news/2015/04/28/april-2015-nepal-earthquake-the-official-death-toll-exceeds-5-000-with-the-united-nations-estimating-that-1-4-million-people-in-the-region.md) _2017-08-27 03:42:15 (First version)_
+1. [April 2015 Nepal earthquake: The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. ](/news/2015/04/28/april-2015-nepal-earthquake-the-official-death-toll-exceeds-5-000-with-the-united-nations-estimating-that-1-4-million-people-in-the-region.md) _2018-02-06 13:49:27 (First version)_
 1. [The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. ](/news/2015/04/28/the-official-death-toll-exceeds-5-000-with-the-united-nations-estimating-that-1-4-million-people-in-the-region-need-emergency-food-assistanc.md) _(Current version)_
 
 ### Related:

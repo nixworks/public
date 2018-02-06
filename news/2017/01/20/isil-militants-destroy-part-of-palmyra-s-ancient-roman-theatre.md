@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/01/20/isil-militants-destroy-part-of-palmyra-s-ancien
 
 ### Changes:
 
-1. [Syrian Civil War: ISIL militants destroy part of Palmyra's ancient Roman theatre. ](/news/2017/01/20/syrian-civil-war-isil-militants-destroy-part-of-palmyra-s-ancient-roman-theatre.md) _2017-08-27 03:47:39 (First version)_
+1. [Syrian Civil War: ISIL militants destroy part of Palmyra's ancient Roman theatre. ](/news/2017/01/20/syrian-civil-war-isil-militants-destroy-part-of-palmyra-s-ancient-roman-theatre.md) _2018-02-06 13:49:30 (First version)_
 1. [ISIL militants destroy part of Palmyra's ancient Roman theatre. ](/news/2017/01/20/isil-militants-destroy-part-of-palmyra-s-ancient-roman-theatre.md) _(Current version)_
 
 ### Related:

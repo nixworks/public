@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/05/29/two-indian-american-teenagers-sriram-hathwar-of
 
 ### Changes:
 
-1. [87th Scripps National Spelling Bee: Two Indian-American teenagers Sriram Hathwar of Painted Post, New York, and Ansun Sujoe of Fort Worth, Texas, share the title after tying in the final round. ](/news/2014/05/29/87th-scripps-national-spelling-bee-two-indian-american-teenagers-sriram-hathwar-of-painted-post-new-york-and-ansun-sujoe-of-fort-worth-t.md) _2017-08-27 03:40:46 (First version)_
+1. [87th Scripps National Spelling Bee: Two Indian-American teenagers Sriram Hathwar of Painted Post, New York, and Ansun Sujoe of Fort Worth, Texas, share the title after tying in the final round. ](/news/2014/05/29/87th-scripps-national-spelling-bee-two-indian-american-teenagers-sriram-hathwar-of-painted-post-new-york-and-ansun-sujoe-of-fort-worth-t.md) _2018-02-06 13:49:26 (First version)_
 1. [Two Indian-American teenagers Sriram Hathwar of Painted Post, New York, and Ansun Sujoe of Fort Worth, Texas, share the title after tying in the final round. ](/news/2014/05/29/two-indian-american-teenagers-sriram-hathwar-of-painted-post-new-york-and-ansun-sujoe-of-fort-worth-texas-share-the-title-after-tying-in.md) _(Current version)_
 
 ### Related:

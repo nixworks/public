@@ -17,7 +17,7 @@ Rights groups say they have documented names of civilians allegedly killed by se
 
 ### Changes:
 
-1. [2011 Syrian protests: Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/2011-syrian-protests-human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md) _2017-08-27 03:33:24 (First version)_
+1. [2011 Syrian protests: Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/2011-syrian-protests-human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md) _2018-02-06 13:49:22 (First version)_
 1. [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md) _(Current version)_
 
 ### Related:

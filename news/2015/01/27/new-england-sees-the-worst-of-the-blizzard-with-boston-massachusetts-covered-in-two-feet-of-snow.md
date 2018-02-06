@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/27/new-england-sees-the-worst-of-the-blizzard-with
 
 ### Changes:
 
-1. [January 2015 nor'easter: New England sees the worst of the blizzard with Boston, Massachusetts covered in two feet of snow. ](/news/2015/01/27/january-2015-nor-easter-new-england-sees-the-worst-of-the-blizzard-with-boston-massachusetts-covered-in-two-feet-of-snow.md) _2017-08-27 03:41:51 (First version)_
+1. [January 2015 nor'easter: New England sees the worst of the blizzard with Boston, Massachusetts covered in two feet of snow. ](/news/2015/01/27/january-2015-nor-easter-new-england-sees-the-worst-of-the-blizzard-with-boston-massachusetts-covered-in-two-feet-of-snow.md) _2018-02-06 13:49:26 (First version)_
 1. [New England sees the worst of the blizzard with Boston, Massachusetts covered in two feet of snow. ](/news/2015/01/27/new-england-sees-the-worst-of-the-blizzard-with-boston-massachusetts-covered-in-two-feet-of-snow.md) _(Current version)_
 
 ### Related:

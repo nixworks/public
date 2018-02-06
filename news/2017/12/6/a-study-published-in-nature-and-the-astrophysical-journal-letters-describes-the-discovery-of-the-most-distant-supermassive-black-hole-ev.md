@@ -16,8 +16,8 @@ We’re seeing how it looked when the Universe was a toddler
 
 ### Changes:
 
-1. [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-supermassive-black-hole-ever-around-1.md) _2017-12-06 23:30:05 (First version)_
-2. [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ever.md) _2017-12-07 17:30:06 (Update)_
+1. [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-supermassive-black-hole-ever-around-1.md) _2018-02-06 13:49:31 (First version)_
+2. [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ever.md) _2018-02-06 13:49:31 (Update)_
 2. [A study published in "Nature" and the "Astrophysical Journal Letters" describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ev.md) _(Current version)_
 
 ### Related:

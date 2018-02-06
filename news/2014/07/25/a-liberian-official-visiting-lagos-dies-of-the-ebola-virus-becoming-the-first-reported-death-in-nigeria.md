@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/07/25/a-liberian-official-visiting-lagos-dies-of-the-
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak:A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/2014-west-africa-ebola-outbreak-pa-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md) _2017-08-25 03:40:45 (First version)_
-2. [2014 West Africa Ebola outbreak:: A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/2014-west-africa-ebola-outbreak-a-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md) _2017-08-27 03:41:03 (Update)_
+1. [2014 West Africa Ebola outbreak:A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/2014-west-africa-ebola-outbreak-pa-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola outbreak:: A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/2014-west-africa-ebola-outbreak-a-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md) _2018-02-06 13:49:26 (Update)_
 2. [A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/a-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md) _(Current version)_
 
 ### Related:

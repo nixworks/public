@@ -16,7 +16,7 @@ French Green party candidate Yannick Jadot has said he will support Socialist pr
 
 ### Changes:
 
-1. [French presidential election, 2017: Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/french-presidential-election-2017-yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _2017-08-27 03:47:53 (First version)_
+1. [French presidential election, 2017: Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/french-presidential-election-2017-yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _2018-02-06 13:49:30 (First version)_
 1. [Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _(Current version)_
 
 ### Related:

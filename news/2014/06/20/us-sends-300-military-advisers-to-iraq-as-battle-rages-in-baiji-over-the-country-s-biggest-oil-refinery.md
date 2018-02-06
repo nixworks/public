@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battl
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive:US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-pus-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2017-08-25 03:40:35 (First version)_
-2. [2014 Northern Iraq offensive:: US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2017-08-27 03:40:52 (Update)_
+1. [2014 Northern Iraq offensive:: US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Northern Iraq offensive:US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-pus-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2018-02-06 13:49:26 (Update)_
 2. [US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _(Current version)_
 
 ### Related:

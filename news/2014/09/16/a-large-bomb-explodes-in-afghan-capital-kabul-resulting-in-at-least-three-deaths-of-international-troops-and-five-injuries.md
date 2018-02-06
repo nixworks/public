@@ -18,8 +18,8 @@ A Taliban suicide car bomber attacks a foreign military convoy in the Afghan cap
 
 ### Changes:
 
-1. [Taliban insurgency:A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/taliban-insurgency-pa-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuri.md) _2017-08-25 03:40:59 (First version)_
-2. [Taliban insurgency:: A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/taliban-insurgency-a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injur.md) _2017-08-27 03:41:17 (Update)_
+1. [Taliban insurgency:A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/taliban-insurgency-pa-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuri.md) _2018-02-06 13:49:26 (First version)_
+2. [Taliban insurgency:: A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/taliban-insurgency-a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injur.md) _2018-02-06 13:49:26 (Update)_
 2. [A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuries.md) _(Current version)_
 
 ### Related:

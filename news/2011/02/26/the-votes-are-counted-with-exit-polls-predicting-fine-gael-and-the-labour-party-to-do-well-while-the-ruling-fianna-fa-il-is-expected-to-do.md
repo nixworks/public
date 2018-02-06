@@ -29,8 +29,8 @@ Counting of votes has begun around the country as an exit poll indicated Fine Ga
 
 ### Changes:
 
-1. [Irish general election, 2011:The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-pthe-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling-f.md) _2017-08-25 03:32:21 (First version)_
-2. [Irish general election, 2011:: The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-the-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling.md) _2017-08-27 03:32:29 (Update)_
+1. [Irish general election, 2011:: The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-the-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling.md) _2018-02-06 13:49:22 (First version)_
+2. [Irish general election, 2011:The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-pthe-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling-f.md) _2018-02-06 13:49:22 (Update)_
 2. [The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/the-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling-fianna-fa-il-is-expected-to-do.md) _(Current version)_
 
 ### Related:

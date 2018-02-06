@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/02/5/more-than-600-000-people-protest-in-dozens-of-ci
 
 ### Changes:
 
-1. [ 2017 Romanian protests: More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/2017-romanian-protests-more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md) _2017-08-27 03:47:46 (First version)_
+1. [ 2017 Romanian protests: More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/2017-romanian-protests-more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md) _2018-02-06 13:49:30 (First version)_
 1. [ More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md) _(Current version)_
 
 ### Related:

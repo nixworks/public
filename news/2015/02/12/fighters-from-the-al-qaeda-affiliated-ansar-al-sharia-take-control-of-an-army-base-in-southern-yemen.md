@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/12/fighters-from-the-al-qaeda-affiliated-ansar-al-
 
 ### Changes:
 
-1. [Yemeni Civil War: Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/yemeni-civil-war-fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md) _2017-08-27 03:41:55 (First version)_
+1. [Yemeni Civil War: Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/yemeni-civil-war-fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md) _(Current version)_
 
 ### Related:

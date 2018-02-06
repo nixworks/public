@@ -18,7 +18,7 @@ WARSAW, Poland (AP) — Exit poll shows Andrzej Duda ahead of President Bronisla
 
 ### Changes:
 
-1. [Polish presidential election, 2015: Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-broni.md) _2017-08-27 03:42:22 (First version)_
+1. [Polish presidential election, 2015: Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-broni.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-bronisaaw-komorowski-and-challenger-andr.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Eurovision Song Contest hits a major road bump, as 21 top level staff resign
 
 ### Changes:
 
-1. [Eurovision Song Contest 2017: Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. ](/news/2017/02/15/eurovision-song-contest-2017-twenty-one-organizers-for-the-eurovision-song-contest-in-kiev-ukraine-resign-en-masse-after-claiming-they-we.md) _2017-08-27 03:47:49 (First version)_
+1. [Eurovision Song Contest 2017: Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. ](/news/2017/02/15/eurovision-song-contest-2017-twenty-one-organizers-for-the-eurovision-song-contest-in-kiev-ukraine-resign-en-masse-after-claiming-they-we.md) _2018-02-06 13:49:30 (First version)_
 1. [Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. ](/news/2017/02/15/twenty-one-organizers-for-the-eurovision-song-contest-in-kiev-ukraine-resign-en-masse-after-claiming-they-were-completely-blocked-from-mak.md) _(Current version)_
 
 ### Related:

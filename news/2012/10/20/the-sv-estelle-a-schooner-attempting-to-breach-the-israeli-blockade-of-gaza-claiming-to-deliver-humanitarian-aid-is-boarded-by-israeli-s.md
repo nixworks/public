@@ -17,7 +17,7 @@ Israeli naval vessels have stopped a pro-Palestinian boat attempting to reach Ga
 
 ### Changes:
 
-1. [The SV ''Estelle', a schooner attempting to breach the Israeli blockade of Gaza claiming to deliver humanitarian aid, is boarded by Israeli soldiers and diverted to the port of Ashdod by Israeli naval ships; Israel says no aid is found aboard. Passengers offer no resistance. ](/news/2012/10/20/the-sv-estelle-a-schooner-attempting-to-breach-the-israeli-blockade-of-gaza-claiming-to-deliver-humanitarian-aid-is-boarded-by-israeli.md) _2017-08-25 03:36:43 (First version)_
+1. [The SV ''Estelle', a schooner attempting to breach the Israeli blockade of Gaza claiming to deliver humanitarian aid, is boarded by Israeli soldiers and diverted to the port of Ashdod by Israeli naval ships; Israel says no aid is found aboard. Passengers offer no resistance. ](/news/2012/10/20/the-sv-estelle-a-schooner-attempting-to-breach-the-israeli-blockade-of-gaza-claiming-to-deliver-humanitarian-aid-is-boarded-by-israeli.md) _2018-02-06 13:49:24 (First version)_
 1. [The SV "Estelle', a schooner attempting to breach the Israeli blockade of Gaza claiming to deliver humanitarian aid, is boarded by Israeli soldiers and diverted to the port of Ashdod by Israeli naval ships; Israel says no aid is found aboard. Passengers offer no resistance. ](/news/2012/10/20/the-sv-estelle-a-schooner-attempting-to-breach-the-israeli-blockade-of-gaza-claiming-to-deliver-humanitarian-aid-is-boarded-by-israeli-s.md) _(Current version)_
 
 ### Related:

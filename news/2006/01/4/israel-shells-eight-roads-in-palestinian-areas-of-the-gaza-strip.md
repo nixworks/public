@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/01/4/israel-shells-eight-roads-in-palestinian-areas-o
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-p-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _2017-08-25 03:17:20 (First version)_
-2. [ Israeli-Palestinian Conflict:: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _2017-08-27 03:17:20 (Update)_
+1. [ Israeli-Palestinian Conflict: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-p-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict:: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _2018-02-06 13:49:16 (Update)_
 2. [ Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md) _(Current version)_
 
 ### Related:

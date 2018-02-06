@@ -16,7 +16,7 @@ German Foreign Minister Sigmar Gabriel and his Turkish counterpart Mevlut Cavuso
 
 ### Changes:
 
-1. [German diplomat Sigmar Gabriel and Turkish diplomat Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-diplomat-sigmar-gabriel-and-turkish-diplomat-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md) _2018-01-07 00:30:05 (First version)_
+1. [German diplomat Sigmar Gabriel and Turkish diplomat Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-diplomat-sigmar-gabriel-and-turkish-diplomat-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md) _2018-02-06 13:49:31 (First version)_
 1. [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md) _(Current version)_
 
 ### Related:

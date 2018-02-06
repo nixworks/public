@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/02/4/cambodianathai-border-stand-off-the-thai-army-an
 
 ### Changes:
 
-1. [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodian-thai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md) _2017-08-27 03:32:10 (First version)_
+1. [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodian-thai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md) _2018-02-06 13:49:22 (First version)_
 1. [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodianathai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md) _(Current version)_
 
 ### Related:

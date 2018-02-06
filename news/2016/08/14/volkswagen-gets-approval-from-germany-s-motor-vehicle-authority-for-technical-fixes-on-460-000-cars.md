@@ -16,7 +16,7 @@ Volkswagen (VOWG_p.DE) has won German regulatory approval for technical fixes on
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-emissions-scandal-volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _2017-08-27 03:46:39 (First version)_
+1. [Volkswagen emissions scandal: Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-emissions-scandal-volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _2018-02-06 13:49:29 (First version)_
 1. [Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _(Current version)_
 
 ### Related:

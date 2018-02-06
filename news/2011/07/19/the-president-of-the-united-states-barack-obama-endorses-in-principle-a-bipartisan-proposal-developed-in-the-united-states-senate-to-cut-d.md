@@ -15,8 +15,8 @@ An ambitious plan to slice $3.7 trillion from the federal budget over the next d
 
 ### Changes:
 
-1. [US budget debateThe President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/us-budget-debatepthe-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-state.md) _2017-08-25 03:33:49 (First version)_
-2. [US budget debate: The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/us-budget-debate-the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-stat.md) _2017-08-27 03:33:56 (Update)_
+1. [US budget debateThe President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/us-budget-debatepthe-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-state.md) _2018-02-06 13:49:22 (First version)_
+2. [US budget debate: The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/us-budget-debate-the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-stat.md) _2018-02-06 13:49:22 (Update)_
 2. [The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-states-senate-to-cut-d.md) _(Current version)_
 
 ### Related:

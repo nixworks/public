@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/4/protests-erupt-in-new-york-city-after-a-grand-ju
 
 ### Changes:
 
-1. [Death of Eric Garner:Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. ](/news/2014/12/4/death-of-eric-garner-pprotests-erupt-in-new-york-city-after-a-grand-jury-decides-not-to-indict-any-police-officers-in-the-death-of-garner.md) _2017-08-25 03:41:17 (First version)_
-2. [Death of Eric Garner:: Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. ](/news/2014/12/4/death-of-eric-garner-protests-erupt-in-new-york-city-after-a-grand-jury-decides-not-to-indict-any-police-officers-in-the-death-of-garner.md) _2017-08-27 03:41:35 (Update)_
+1. [Death of Eric Garner:: Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. ](/news/2014/12/4/death-of-eric-garner-protests-erupt-in-new-york-city-after-a-grand-jury-decides-not-to-indict-any-police-officers-in-the-death-of-garner.md) _2018-02-06 13:49:26 (First version)_
+2. [Death of Eric Garner:Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. ](/news/2014/12/4/death-of-eric-garner-pprotests-erupt-in-new-york-city-after-a-grand-jury-decides-not-to-indict-any-police-officers-in-the-death-of-garner.md) _2018-02-06 13:49:26 (Update)_
 2. [Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. ](/news/2014/12/4/protests-erupt-in-new-york-city-after-a-grand-jury-decides-not-to-indict-any-police-officers-in-the-death-of-garner.md) _(Current version)_
 
 ### Related:

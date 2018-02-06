@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/05/23/the-national-weather-service-continues-issuing-
 
 ### Changes:
 
-1. [May 2011 tornado outbreak in the US:The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/may-2011-tornado-outbreak-in-the-us-pthe-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states.md) _2017-08-25 03:33:13 (First version)_
-2. [May 2011 tornado outbreak in the US:: The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/may-2011-tornado-outbreak-in-the-us-the-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states.md) _2017-08-27 03:33:23 (Update)_
+1. [May 2011 tornado outbreak in the US:: The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/may-2011-tornado-outbreak-in-the-us-the-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states.md) _2018-02-06 13:49:22 (First version)_
+2. [May 2011 tornado outbreak in the US:The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/may-2011-tornado-outbreak-in-the-us-pthe-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states.md) _2018-02-06 13:49:22 (Update)_
 2. [The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/the-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states-including-arkansas-oklahoma-and-mis.md) _(Current version)_
 
 ### Related:

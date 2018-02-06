@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrau
 
 ### Changes:
 
-1. [The Fields Medal is awarded to Elon Lindenstrauss, Ngo Bao Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baopso-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congres.md) _2017-08-25 03:29:34 (First version)_
+1. [The Fields Medal is awarded to Elon Lindenstrauss, Ngo Bao Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baopso-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congres.md) _2018-02-06 13:49:20 (First version)_
 1. [The Fields Medal is awarded to Elon Lindenstrauss, Ngo BGBPo Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baogbpo-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congr.md) _(Current version)_
 
 ### Related:

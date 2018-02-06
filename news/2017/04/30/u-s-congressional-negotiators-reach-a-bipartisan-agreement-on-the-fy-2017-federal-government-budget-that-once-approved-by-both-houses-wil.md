@@ -17,7 +17,7 @@ U.S. House and Senate negotiators reached a bipartisan deal on a $1.16 trillion 
 
 ### Changes:
 
-1. [2017 United States federal budget: U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires Friday, May 5. ](/news/2017/04/30/2017-united-states-federal-budget-u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that.md) _2017-08-27 03:48:16 (First version)_
+1. [2017 United States federal budget: U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires Friday, May 5. ](/news/2017/04/30/2017-united-states-federal-budget-u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires Friday, May 5. ](/news/2017/04/30/u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that-once-approved-by-both-houses-wil.md) _(Current version)_
 
 ### Related:

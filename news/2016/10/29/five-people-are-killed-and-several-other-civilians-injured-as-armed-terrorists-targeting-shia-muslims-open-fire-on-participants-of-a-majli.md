@@ -17,7 +17,7 @@ KARACHI: At least five people were killed and many others were wounded in what a
 
 ### Changes:
 
-1. [Sectarianism in Pakistan: Five people are killed and several other civilians injured as armed terrorists, targeting Shia Muslims, open fire on participants of a Majlis at a home in the Nazimabad district of Karachi, Pakistan. ](/news/2016/10/29/sectarianism-in-pakistan-five-people-are-killed-and-several-other-civilians-injured-as-armed-terrorists-targeting-shia-muslims-open-fire.md) _2017-08-27 03:47:08 (First version)_
+1. [Sectarianism in Pakistan: Five people are killed and several other civilians injured as armed terrorists, targeting Shia Muslims, open fire on participants of a Majlis at a home in the Nazimabad district of Karachi, Pakistan. ](/news/2016/10/29/sectarianism-in-pakistan-five-people-are-killed-and-several-other-civilians-injured-as-armed-terrorists-targeting-shia-muslims-open-fire.md) _2018-02-06 13:49:29 (First version)_
 1. [Five people are killed and several other civilians injured as armed terrorists, targeting Shia Muslims, open fire on participants of a Majlis at a home in the Nazimabad district of Karachi, Pakistan. ](/news/2016/10/29/five-people-are-killed-and-several-other-civilians-injured-as-armed-terrorists-targeting-shia-muslims-open-fire-on-participants-of-a-majli.md) _(Current version)_
 
 ### Related:

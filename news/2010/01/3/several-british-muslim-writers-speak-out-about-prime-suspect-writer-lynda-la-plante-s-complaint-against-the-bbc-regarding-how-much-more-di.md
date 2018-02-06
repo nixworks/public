@@ -17,7 +17,7 @@ Muslim writers have hit back at the crime doyenne Lynda La Plante after she clai
 
 ### Changes:
 
-1. [Several British Muslim writers speak out about ''Prime Suspect'' writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more.md) _2017-08-25 03:26:46 (First version)_
+1. [Several British Muslim writers speak out about ''Prime Suspect'' writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more.md) _2018-02-06 13:49:19 (First version)_
 1. [Several British Muslim writers speak out about "Prime Suspect" writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more-di.md) _(Current version)_
 
 ### Related:

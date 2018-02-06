@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/06/17/a-military-judge-dismisses-charges-against-a-un
 
 ### Changes:
 
-1. [ Iraq: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-p-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md) _2017-08-25 03:22:24 (First version)_
-2. [ Iraq:: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md) _2017-08-27 03:22:17 (Update)_
+1. [ Iraq: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-p-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md) _2018-02-06 13:49:18 (First version)_
+2. [ Iraq:: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md) _2018-02-06 13:49:18 (Update)_
 2. [ A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ TWO emergency warnings are in place for lightning-sparked bushfires in Western A
 
 ### Changes:
 
-1. [2014-15 Australian bushfire season: The Department of Fire and Emergency Services orders the evacuation of residents of the Western Australia town of Northcliffe as a bushfire approaches. ](/news/2015/02/3/2014-15-australian-bushfire-season-the-department-of-fire-and-emergency-services-orders-the-evacuation-of-residents-of-the-western-austra.md) _2017-08-27 03:41:52 (First version)_
+1. [2014-15 Australian bushfire season: The Department of Fire and Emergency Services orders the evacuation of residents of the Western Australia town of Northcliffe as a bushfire approaches. ](/news/2015/02/3/2014-15-australian-bushfire-season-the-department-of-fire-and-emergency-services-orders-the-evacuation-of-residents-of-the-western-austra.md) _2018-02-06 13:49:26 (First version)_
 1. [The Department of Fire and Emergency Services orders the evacuation of residents of the Western Australia town of Northcliffe as a bushfire approaches. ](/news/2015/02/3/the-department-of-fire-and-emergency-services-orders-the-evacuation-of-residents-of-the-western-australia-town-of-northcliffe-as-a-bushfire.md) _(Current version)_
 
 ### Related:

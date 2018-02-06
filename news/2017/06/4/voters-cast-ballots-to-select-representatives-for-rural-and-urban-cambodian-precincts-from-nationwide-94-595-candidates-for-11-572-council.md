@@ -18,7 +18,7 @@ Formats: [HTML](/news/2017/06/4/voters-cast-ballots-to-select-representatives-fo
 
 ### Changes:
 
-1. [Cambodian communal elections, 2017: Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/cambodian-communal-elections-2017-voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide.md) _2017-08-27 03:48:25 (First version)_
+1. [Cambodian communal elections, 2017: Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/cambodian-communal-elections-2017-voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide-94-595-candidates-for-11-572-council.md) _(Current version)_
 
 ### Related:

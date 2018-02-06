@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/23/index.html)  [JSON](2009/05/23/index.json)  [XML](200
 
 ##### Madhav Kumar Nepal
 ### [ Madhav Kumar Nepal of the Communist Party (Unified Marxist-Leninist) is elected as Prime Minister of Nepal. ](/news/2009/05/23/madhav-kumar-nepal-of-the-communist-party-unified-marxist-leninist-is-elected-as-prime-minister-of-nepal.md)
-_Context: Madhav Kumar Nepal, Prime Minister, Nepal, Communist Party (Unified Marxist-Leninist)_
+_Context: Communist Party (Unified Marxist-Leninist), Nepal, Madhav Kumar Nepal, Prime Minister_
 
 ##### Super King Air
 ### [ Fourteen people are killed as a King Air 350 crashes near Trancoso, Bahia, Brazil. ](/news/2009/05/23/fourteen-people-are-killed-as-a-king-air-350-crashes-near-trancoso-bahia-brazil.md)
@@ -13,7 +13,7 @@ Authorities say 14 people were killed in the crash of a small executive jet at a
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon demands better humanitarian aid for 250,000 war refugees in Sri Lanka. ](/news/2009/05/23/united-nations-secretary-general-ban-ki-moon-demands-better-humanitarian-aid-for-250-000-war-refugees-in-sri-lanka.md)
-_Context: refugee, United Nations, humanitarian aid, Sri Lankan Civil War, Sri Lanka, United Nations Secretary-General, Ban Ki-moon_
+_Context: humanitarian aid, refugee, United Nations Secretary-General, Ban Ki-moon, Sri Lanka, United Nations, Sri Lankan Civil War_
 
 ##### Pakistan Army
 ### [ The Army and the Taliban battle in Mingora, Swat, Pakistan. ](/news/2009/05/23/the-army-and-the-taliban-battle-in-mingora-swat-pakistan.md)
@@ -25,19 +25,19 @@ USA TODAY delivers current local and national news, sports, entertainment, finan
 
 ##### Flood
 ### [ Floods force the evacuations of Kempsey and Grafton, New South Wales, Australia. ](/news/2009/05/23/floods-force-the-evacuations-of-kempsey-and-grafton-new-south-wales-australia.md)
-_Context: NSW, Flood, Australia, evacuation centers, Grafton, Kempsey_
+_Context: evacuation centers, Grafton, NSW, Flood, Kempsey, Australia_
 
 ##### Madagascar
 ### [ Madagascar's political parties agree to establish a provisional government and a truth-reconciliation commission. ](/news/2009/05/23/madagascar-s-political-parties-agree-to-establish-a-provisional-government-and-a-truth-reconciliation-commission.md)
-_Context: truth/reconciliation commission, political crisis, provisional government, political parties, Madagascar_
+_Context: political parties, Madagascar, truth/reconciliation commission, provisional government, political crisis_
 
 ##### car bomb
 ### [ A car bomb kills at least six people and injures 70 others in Peshawar, Pakistan. ](/news/2009/05/23/a-car-bomb-kills-at-least-six-people-and-injures-70-others-in-peshawar-pakistan.md)
-_Context: Peshawar, Pakistan, War in North-West Pakistan, car bomb_
+_Context: War in North-West Pakistan, car bomb, Pakistan, Peshawar_
 
 ##### German
 ### [ Germany's Federal Assembly re-elects Horst Khler as President. ](/news/2009/05/23/germany-s-federal-assembly-re-elects-horst-kohler-as-president.md)
-_Context: German, President of Germany, Horst Khler, re-elects, Federal Assembly_
+_Context: Federal Assembly, German, re-elects, President of Germany, Horst Khler_
 
 ##### United States
 ### [ United States President Barack Obama nominates former astronaut Charles F. Bolden, Jr. as Administrator of the National Aeronautics and Space Administration. ](/news/2009/05/23/united-states-president-barack-obama-nominates-former-astronaut-charles-f-bolden-jr-as-administrator-of-the-national-aeronautics-and-spa.md)
@@ -45,7 +45,7 @@ President Obama will name former astronaut Charles F. Bolden Jr. as NASA adminis
 
 ##### bomb
 ### [ A bomb kills two people and injures 12 others in Kathmandu, Nepal. ](/news/2009/05/23/a-bomb-kills-two-people-and-injures-12-others-in-kathmandu-nepal.md)
-_Context: Kathmandu, Nepal, bomb_
+_Context: bomb, Kathmandu, Nepal_
 
 ## [Previous Day...](/news/2009/05/22/index.md)
 

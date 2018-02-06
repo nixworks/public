@@ -16,7 +16,7 @@ The teenage girls die a day after a riot erupted at the shelter near Guatemala C
 
 ### Changes:
 
-1. [Virgen de la Asuncion fire: A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/virgen-de-la-asuncia3n-fire-a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including.md) _2017-08-27 03:47:57 (First version)_
+1. [Virgen de la Asuncion fire: A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/virgen-de-la-asuncia3n-fire-a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including.md) _2018-02-06 13:49:30 (First version)_
 1. [A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including-alleged-sexual-and-physical.md) _(Current version)_
 
 ### Related:

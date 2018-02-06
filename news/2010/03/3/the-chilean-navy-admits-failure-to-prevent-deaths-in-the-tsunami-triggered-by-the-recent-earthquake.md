@@ -18,8 +18,8 @@ Admiral says some lives could have been spared had a warning been issued earlier
 
 ### Changes:
 
-1. [Aftermath of the 2010 Chile earthquake:The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/aftermath-of-the-2010-chile-earthquake-pthe-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _2017-08-25 03:27:16 (First version)_
-2. [Aftermath of the 2010 Chile earthquake:: The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/aftermath-of-the-2010-chile-earthquake-the-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _2017-08-27 03:27:11 (Update)_
+1. [Aftermath of the 2010 Chile earthquake:: The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/aftermath-of-the-2010-chile-earthquake-the-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _2018-02-06 13:49:19 (First version)_
+2. [Aftermath of the 2010 Chile earthquake:The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/aftermath-of-the-2010-chile-earthquake-pthe-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _2018-02-06 13:49:19 (Update)_
 2. [The Chilean Navy admits failure to prevent deaths in the tsunami triggered by the recent earthquake. ](/news/2010/03/3/the-chilean-navy-admits-failure-to-prevent-deaths-in-the-tsunami-triggered-by-the-recent-earthquake.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Formats: [HTML](/news/2008/04/7/the-olympic-torch-is-extinguished-by-officials-a
 
 ### Changes:
 
-1. [ 2008 Summer Olympics: The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/2008-summer-olympics-the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay.md) _2017-08-27 03:21:56 (First version)_
+1. [ 2008 Summer Olympics: The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/2008-summer-olympics-the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay-through-paris.md) _(Current version)_
 
 ### Related:

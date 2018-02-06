@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/11/26/war-in-chad-2005apresent-chad-s-army-claims-to-
 
 ### Changes:
 
-1. [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005-present-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md) _2017-08-27 03:21:25 (First version)_
+1. [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005-present-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md) _2018-02-06 13:49:18 (First version)_
 1. [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005apresent-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md) _(Current version)_
 
 ### Related:

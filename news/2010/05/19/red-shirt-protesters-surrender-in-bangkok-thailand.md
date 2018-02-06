@@ -18,8 +18,8 @@ Bangkok and about a third of the rest of Thailand spend a first night under curf
 
 ### Changes:
 
-1. [Battle of Bangkok:Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-pred-shirt-protesters-surrender-in-bangkok-thailand.md) _2017-08-25 03:27:58 (First version)_
-2. [Battle of Bangkok:: Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-red-shirt-protesters-surrender-in-bangkok-thailand.md) _2017-08-27 03:27:56 (Update)_
+1. [Battle of Bangkok:: Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-red-shirt-protesters-surrender-in-bangkok-thailand.md) _2018-02-06 13:49:20 (First version)_
+2. [Battle of Bangkok:Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-pred-shirt-protesters-surrender-in-bangkok-thailand.md) _2018-02-06 13:49:20 (Update)_
 2. [Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/red-shirt-protesters-surrender-in-bangkok-thailand.md) _(Current version)_
 
 ### Related:

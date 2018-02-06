@@ -16,7 +16,7 @@ MOSCOW -- Ukraine opposition leader Yuri Lutsenko was seriously injured when pro
 
 ### Changes:
 
-1. [Euromaidan: Yuri Lutsenko, one of the leaders of the protests, is injured during clashes with the police. ](/news/2014/01/11/euromaidan-yuri-lutsenko-one-of-the-leaders-of-the-protests-is-injured-during-clashes-with-the-police.md) _2017-08-27 03:40:09 (First version)_
+1. [Euromaidan: Yuri Lutsenko, one of the leaders of the protests, is injured during clashes with the police. ](/news/2014/01/11/euromaidan-yuri-lutsenko-one-of-the-leaders-of-the-protests-is-injured-during-clashes-with-the-police.md) _2018-02-06 13:49:25 (First version)_
 1. [Yuri Lutsenko, one of the leaders of the protests, is injured during clashes with the police. ](/news/2014/01/11/yuri-lutsenko-one-of-the-leaders-of-the-protests-is-injured-during-clashes-with-the-police.md) _(Current version)_
 
 ### Related:

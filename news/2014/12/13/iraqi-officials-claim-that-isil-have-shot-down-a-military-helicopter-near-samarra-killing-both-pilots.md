@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/13/iraqi-officials-claim-that-isil-have-shot-down-
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: Iraqi officials claim that ISIL have shot down a military helicopter near Samarra, killing both pilots. ](/news/2014/12/13/islamic-state-in-iraq-and-the-levant-iraqi-officials-claim-that-isil-have-shot-down-a-military-helicopter-near-samarra-killing-both-pilots.md) _2017-08-27 03:41:37 (First version)_
+1. [Islamic State in Iraq and the Levant: Iraqi officials claim that ISIL have shot down a military helicopter near Samarra, killing both pilots. ](/news/2014/12/13/islamic-state-in-iraq-and-the-levant-iraqi-officials-claim-that-isil-have-shot-down-a-military-helicopter-near-samarra-killing-both-pilots.md) _2018-02-06 13:49:26 (First version)_
 1. [Iraqi officials claim that ISIL have shot down a military helicopter near Samarra, killing both pilots. ](/news/2014/12/13/iraqi-officials-claim-that-isil-have-shot-down-a-military-helicopter-near-samarra-killing-both-pilots.md) _(Current version)_
 
 ### Related:

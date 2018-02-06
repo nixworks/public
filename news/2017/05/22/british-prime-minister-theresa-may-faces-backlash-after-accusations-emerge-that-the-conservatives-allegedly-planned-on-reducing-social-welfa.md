@@ -17,7 +17,7 @@ Prime minister spends day battling against accusations of indecision after chang
 
 ### Changes:
 
-1. [United Kingdom general election, 2017: British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/united-kingdom-general-election-2017-british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-all.md) _2017-08-27 03:48:23 (First version)_
+1. [United Kingdom general election, 2017: British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/united-kingdom-general-election-2017-british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-all.md) _2018-02-06 13:49:30 (First version)_
 1. [British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-allegedly-planned-on-reducing-social-welfa.md) _(Current version)_
 
 ### Related:

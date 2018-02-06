@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-un
 
 ### Changes:
 
-1. [List of executive actions by Donald Trump: U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/list-of-executive-actions-by-donald-trump-u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-pol.md) _2017-08-27 03:48:03 (First version)_
+1. [List of executive actions by Donald Trump: U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/list-of-executive-actions-by-donald-trump-u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-pol.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-policies.md) _(Current version)_
 
 ### Related:

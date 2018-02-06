@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal
 
 ### Changes:
 
-1. [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2-1-to-cancel-several-trademarks.md) _2017-08-27 03:40:52 (First version)_
+1. [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2-1-to-cancel-several-trademarks.md) _2018-02-06 13:49:26 (First version)_
 1. [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2a1-to-cancel-several-trademarks.md) _(Current version)_
 
 ### Related:

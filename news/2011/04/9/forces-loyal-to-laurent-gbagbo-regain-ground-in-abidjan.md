@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/04/9/forces-loyal-to-laurent-gbagbo-regain-ground-in-
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis-Second Ivorian Civil War:Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/2010-2011-ivorian-crisis-second-ivorian-civil-war-pforces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md) _2017-08-25 03:32:46 (First version)_
-2. [2010-2011 Ivorian crisis-Second Ivorian Civil War:: Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/2010-2011-ivorian-crisis-second-ivorian-civil-war-forces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md) _2017-08-27 03:32:54 (Update)_
+1. [2010-2011 Ivorian crisis-Second Ivorian Civil War:Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/2010-2011-ivorian-crisis-second-ivorian-civil-war-pforces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis-Second Ivorian Civil War:: Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/2010-2011-ivorian-crisis-second-ivorian-civil-war-forces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md) _2018-02-06 13:49:22 (Update)_
 2. [Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/forces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ Police in Majorca are on heightened alert following yesterday&#39;s car bombing 
 
 ### Changes:
 
-1. [ Spain: Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md) _2017-08-27 03:25:11 (First version)_
+1. [ Spain: Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md) _2018-02-06 13:49:19 (First version)_
 1. [ Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md) _(Current version)_
 
 ### Related:

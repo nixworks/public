@@ -16,7 +16,7 @@ Pakistan army kills five militants in northwest as security is tightened against
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/war-in-north-west-pakistan-the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _2017-08-27 03:41:39 (First version)_
+1. [War in North-West Pakistan: The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/war-in-north-west-pakistan-the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _(Current version)_
 
 ### Related:

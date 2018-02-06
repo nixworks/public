@@ -17,7 +17,7 @@ Ten former ministers make a comeback, while seven are making their debut. Løkke
 
 ### Changes:
 
-1. [Danish general election, 2015: Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/danish-general-election-2015-lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes.md) _2017-08-27 03:42:36 (First version)_
+1. [Danish general election, 2015: Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/danish-general-election-2015-lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes.md) _2018-02-06 13:49:27 (First version)_
 1. [Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes-the-first-prime-minister-in-33.md) _(Current version)_
 
 ### Related:

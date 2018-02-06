@@ -53,7 +53,7 @@ A Saudi court sentences five men to death for their role in three suicide bomb a
 
 ##### US Marshals
 ### [A defendant is shot to death by a U.S. marshal at a U.S. federal court in Salt Lake City, Utah after attempting to attack a witness. ](/news/2014/04/21/a-defendant-is-shot-to-death-by-a-u-s-marshal-at-a-u-s-federal-court-in-salt-lake-city-utah-after-attempting-to-attack-a-witness.md)
-_Context: U.S. federal court, Utah, Salt Lake City, US Marshals_
+_Context: Salt Lake City, US Marshals, U.S. federal court, Utah_
 
 ##### Syrian government
 ### [The Syrian government sets the presidential election for June 3, with opposition groups calling it a "parody of democracy". ](/news/2014/04/21/the-syrian-government-sets-the-presidential-election-for-june-3-with-opposition-groups-calling-it-a-parody-of-democracy.md)

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/02/19/two-suicide-car-bombs-kill-at-least-eleven-peop
 
 ### Changes:
 
-1. [ Iraq War: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-p-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _2017-08-25 03:19:14 (First version)_
-2. [ Iraq War:: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _2017-08-27 03:19:10 (Update)_
+1. [ Iraq War:: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-p-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _2018-02-06 13:49:17 (Update)_
 2. [ Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md) _(Current version)_
 
 ### Related:

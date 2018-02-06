@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devast
 
 ### Changes:
 
-1. [2012 Pakistan garment factory fires: A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/2012-pakistan-garment-factory-fires-a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bang.md) _2017-08-27 03:47:22 (First version)_
+1. [2012 Pakistan garment factory fires: A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/2012-pakistan-garment-factory-fires-a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bang.md) _2018-02-06 13:49:30 (First version)_
 1. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _(Current version)_
 
 ### Related:

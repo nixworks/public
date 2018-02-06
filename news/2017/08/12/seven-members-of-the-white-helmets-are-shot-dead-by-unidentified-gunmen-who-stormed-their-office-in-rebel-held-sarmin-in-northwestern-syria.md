@@ -15,9 +15,9 @@ Formats: [HTML](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dea
 
 ### Changes:
 
-1. [Seven White Helmets are shot dead by unidentified gunmen who storm the volunteers' office in northwestern Syria ](/news/2017/08/12/seven-white-helmets-are-shot-dead-by-unidentified-gunmen-who-storm-the-volunteers-office-in-northwestern-syria.md) _2017-08-12 20:30:05 (First version)_
-2. [Seven members of the White Helmets group are shot dead by unidentified gunmen who has stormed their office in rebel-held part of northwestern Syria ](/news/2017/08/12/seven-members-of-the-white-helmets-group-are-shot-dead-by-unidentified-gunmen-who-has-stormed-their-office-in-rebel-held-part-of-northwester.md) _2017-08-12 21:30:06 (Update)_
-3. [Syrian Civil War: Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/syrian-civil-war-seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in.md) _2017-08-27 03:48:47 (Update)_
+1. [Syrian Civil War: Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/syrian-civil-war-seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in.md) _2018-02-06 13:49:31 (First version)_
+2. [Seven White Helmets are shot dead by unidentified gunmen who storm the volunteers' office in northwestern Syria ](/news/2017/08/12/seven-white-helmets-are-shot-dead-by-unidentified-gunmen-who-storm-the-volunteers-office-in-northwestern-syria.md) _2018-02-06 13:49:31 (Update)_
+3. [Seven members of the White Helmets group are shot dead by unidentified gunmen who has stormed their office in rebel-held part of northwestern Syria ](/news/2017/08/12/seven-members-of-the-white-helmets-group-are-shot-dead-by-unidentified-gunmen-who-has-stormed-their-office-in-rebel-held-part-of-northwester.md) _2018-02-06 13:49:31 (Update)_
 3. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _(Current version)_
 
 ### Related:

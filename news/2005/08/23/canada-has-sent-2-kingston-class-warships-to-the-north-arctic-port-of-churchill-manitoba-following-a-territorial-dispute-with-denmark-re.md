@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/08/23/canada-has-sent-2-kingston-class-warships-to-th
 
 ### Changes:
 
-1. [ Canada has sent 2 ''Kingston''-class warships to the north Arctic port of Churchill, Manitoba following a territorial dispute with Denmark regarding Hans Island. ](/news/2005/08/23/canada-has-sent-2-kingston-class-warships-to-the-north-arctic-port-of-churchill-manitoba-following-a-territorial-dispute-with-denmark.md) _2017-08-25 03:16:42 (First version)_
+1. [ Canada has sent 2 ''Kingston''-class warships to the north Arctic port of Churchill, Manitoba following a territorial dispute with Denmark regarding Hans Island. ](/news/2005/08/23/canada-has-sent-2-kingston-class-warships-to-the-north-arctic-port-of-churchill-manitoba-following-a-territorial-dispute-with-denmark.md) _2018-02-06 13:49:16 (First version)_
 1. [ Canada has sent 2 "Kingston"-class warships to the north Arctic port of Churchill, Manitoba following a territorial dispute with Denmark regarding Hans Island. ](/news/2005/08/23/canada-has-sent-2-kingston-class-warships-to-the-north-arctic-port-of-churchill-manitoba-following-a-territorial-dispute-with-denmark-re.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/4/syrian-government-forces-advance-around-and-enci
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-civil-war-syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md) _2017-08-27 03:46:46 (First version)_
+1. [Syrian Civil War: Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-civil-war-syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md) _(Current version)_
 
 ### Related:

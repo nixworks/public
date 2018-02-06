@@ -27,8 +27,8 @@ The man was shot by fellow soldiers along the Gaza border in an operation aimed 
 
 ### Changes:
 
-1. [Middle East:Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-pfive-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-ten.md) _2017-08-25 03:27:27 (First version)_
-2. [Middle East:: Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-te.md) _2017-08-27 03:27:23 (Update)_
+1. [Middle East:Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-pfive-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-ten.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-te.md) _2018-02-06 13:49:19 (Update)_
 2. [Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-ten-rockets-fire.md) _(Current version)_
 
 ### Related:

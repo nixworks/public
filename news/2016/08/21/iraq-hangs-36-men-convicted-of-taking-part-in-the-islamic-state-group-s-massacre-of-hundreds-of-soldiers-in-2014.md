@@ -16,7 +16,7 @@ BAGHDAD (AP) — Iraq on Sunday executed 36 men convicted of taking part in the 
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraq hangs 36 men convicted of taking part in the Islamic State group's massacre of hundreds of soldiers in 2014. ](/news/2016/08/21/iraqi-civil-war-iraq-hangs-36-men-convicted-of-taking-part-in-the-islamic-state-group-s-massacre-of-hundreds-of-soldiers-in-2014.md) _2017-08-27 03:46:41 (First version)_
+1. [Iraqi Civil War: Iraq hangs 36 men convicted of taking part in the Islamic State group's massacre of hundreds of soldiers in 2014. ](/news/2016/08/21/iraqi-civil-war-iraq-hangs-36-men-convicted-of-taking-part-in-the-islamic-state-group-s-massacre-of-hundreds-of-soldiers-in-2014.md) _2018-02-06 13:49:29 (First version)_
 1. [Iraq hangs 36 men convicted of taking part in the Islamic State group's massacre of hundreds of soldiers in 2014. ](/news/2016/08/21/iraq-hangs-36-men-convicted-of-taking-part-in-the-islamic-state-group-s-massacre-of-hundreds-of-soldiers-in-2014.md) _(Current version)_
 
 ### Related:

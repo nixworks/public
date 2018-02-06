@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking
 
 ### Changes:
 
-1. [Efforts to impeach Barack Obama: The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/efforts-to-impeach-barack-obama-the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-a.md) _2017-08-27 03:46:04 (First version)_
+1. [Efforts to impeach Barack Obama: The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/efforts-to-impeach-barack-obama-the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-a.md) _2018-02-06 13:49:29 (First version)_
 1. [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Jimmy Morales, a former TV comedy actor who promised to clean up Guatemala’s c
 
 ### Changes:
 
-1. [Guatemalan general election, 2015: Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/guatemalan-general-election-2015-voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former.md) _2017-08-27 03:43:30 (First version)_
+1. [Guatemalan general election, 2015: Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/guatemalan-general-election-2015-voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former-tv-comedian-jimmy-morales-winning.md) _(Current version)_
 
 ### Related:

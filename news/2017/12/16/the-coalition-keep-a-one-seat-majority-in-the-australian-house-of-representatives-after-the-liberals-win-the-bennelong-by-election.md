@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/16/the-coalition-keep-a-one-seat-majority-in-the-a
 
 ### Changes:
 
-1. [The Liberals keep a one-seat majority in the Australian House of Representatives after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberals-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-winning-the-bennelong-by-election-against-a-labor-can.md) _2017-12-18 00:30:05 (First version)_
+1. [The Liberals keep a one-seat majority in the Australian House of Representatives after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberals-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-winning-the-bennelong-by-election-against-a-labor-can.md) _2018-02-06 13:49:31 (First version)_
 1. [The Coalition keep a one-seat majority in the Australian House of Representatives after the Liberals win the Bennelong by-election. ](/news/2017/12/16/the-coalition-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-the-liberals-win-the-bennelong-by-election.md) _(Current version)_
 
 ### Related:

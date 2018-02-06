@@ -17,7 +17,7 @@ People in northern parts of New Caledonia are told to stay indoors as Cyclone Co
 
 ### Changes:
 
-1. [2016-17 South Pacific cyclone season: Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. ](/news/2017/04/10/2016-17-south-pacific-cyclone-season-category-3-cyclone-cook-hits-grand-terre-the-main-island-of-new-caledonia.md) _2017-08-27 03:48:08 (First version)_
+1. [2016-17 South Pacific cyclone season: Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. ](/news/2017/04/10/2016-17-south-pacific-cyclone-season-category-3-cyclone-cook-hits-grand-terre-the-main-island-of-new-caledonia.md) _2018-02-06 13:49:30 (First version)_
 1. [Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. ](/news/2017/04/10/category-3-cyclone-cook-hits-grand-terre-the-main-island-of-new-caledonia.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/2/military-aircraft-in-burma-target-rebel-held-are
 
 ### Changes:
 
-1. [Kachin conflict:Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/kachin-conflict-pmilitary-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md) _2017-08-25 03:37:11 (First version)_
-2. [Kachin conflict:: Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/kachin-conflict-military-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md) _2017-08-27 03:37:21 (Update)_
+1. [Kachin conflict:Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/kachin-conflict-pmilitary-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md) _2018-02-06 13:49:24 (First version)_
+2. [Kachin conflict:: Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/kachin-conflict-military-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md) _2018-02-06 13:49:24 (Update)_
 2. [Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/military-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md) _(Current version)_
 
 ### Related:

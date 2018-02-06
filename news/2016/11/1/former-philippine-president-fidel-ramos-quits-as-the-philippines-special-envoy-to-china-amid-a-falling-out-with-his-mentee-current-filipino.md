@@ -16,7 +16,7 @@ FORMER President Fidel V. Ramos on Monday resigned as the countrys special envoy
 
 ### Changes:
 
-1. [China-Philippines relations: Former Philippine president Fidel Ramos quits as the Philippines' special envoy to China amid a falling out with his mentee current Filipino president Rodrigo Duterte. ](/news/2016/11/1/china-philippines-relations-former-philippine-president-fidel-ramos-quits-as-the-philippines-special-envoy-to-china-amid-a-falling-out-w.md) _2017-08-27 03:47:09 (First version)_
+1. [China-Philippines relations: Former Philippine president Fidel Ramos quits as the Philippines' special envoy to China amid a falling out with his mentee current Filipino president Rodrigo Duterte. ](/news/2016/11/1/china-philippines-relations-former-philippine-president-fidel-ramos-quits-as-the-philippines-special-envoy-to-china-amid-a-falling-out-w.md) _2018-02-06 13:49:29 (First version)_
 1. [Former Philippine president Fidel Ramos quits as the Philippines' special envoy to China amid a falling out with his mentee current Filipino president Rodrigo Duterte. ](/news/2016/11/1/former-philippine-president-fidel-ramos-quits-as-the-philippines-special-envoy-to-china-amid-a-falling-out-with-his-mentee-current-filipino.md) _(Current version)_
 
 ### Related:

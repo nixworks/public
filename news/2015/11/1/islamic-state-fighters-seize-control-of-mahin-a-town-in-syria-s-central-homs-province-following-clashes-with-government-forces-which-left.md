@@ -16,7 +16,7 @@ Islamic State fighters drove Syrian government forces from a western town on Sun
 
 ### Changes:
 
-1. [Syrian Civil War: Islamic State fighters seize control of Mahin, a town in Syria's central Homs province, following clashes with government forces which left about 50 dead. Fighting was also reported to be taking place on the outskirts of Sadad, a nearby town mostly populated by Christians. ](/news/2015/11/1/syrian-civil-war-islamic-state-fighters-seize-control-of-mahin-a-town-in-syria-s-central-homs-province-following-clashes-with-government.md) _2017-08-27 03:43:38 (First version)_
+1. [Syrian Civil War: Islamic State fighters seize control of Mahin, a town in Syria's central Homs province, following clashes with government forces which left about 50 dead. Fighting was also reported to be taking place on the outskirts of Sadad, a nearby town mostly populated by Christians. ](/news/2015/11/1/syrian-civil-war-islamic-state-fighters-seize-control-of-mahin-a-town-in-syria-s-central-homs-province-following-clashes-with-government.md) _2018-02-06 13:49:28 (First version)_
 1. [Islamic State fighters seize control of Mahin, a town in Syria's central Homs province, following clashes with government forces which left about 50 dead. Fighting was also reported to be taking place on the outskirts of Sadad, a nearby town mostly populated by Christians. ](/news/2015/11/1/islamic-state-fighters-seize-control-of-mahin-a-town-in-syria-s-central-homs-province-following-clashes-with-government-forces-which-left.md) _(Current version)_
 
 ### Related:

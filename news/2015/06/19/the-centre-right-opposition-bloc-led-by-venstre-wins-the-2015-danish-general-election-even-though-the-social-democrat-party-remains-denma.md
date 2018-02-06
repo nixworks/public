@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/06/19/the-centre-right-opposition-bloc-led-by-venstre
 
 ### Changes:
 
-1. [The centre-right opposition bloc led by ''Venstre'' wins the 2015 Danish general election, even though the Social Democrat party remains Denmark's largest. The anti-immigration Danish People's Party will be the second-largest in parliament. ](/news/2015/06/19/the-centre-right-opposition-bloc-led-by-venstre-wins-the-2015-danish-general-election-even-though-the-social-democrat-party-remains-den.md) _2017-08-25 03:42:15 (First version)_
+1. [The centre-right opposition bloc led by ''Venstre'' wins the 2015 Danish general election, even though the Social Democrat party remains Denmark's largest. The anti-immigration Danish People's Party will be the second-largest in parliament. ](/news/2015/06/19/the-centre-right-opposition-bloc-led-by-venstre-wins-the-2015-danish-general-election-even-though-the-social-democrat-party-remains-den.md) _2018-02-06 13:49:27 (First version)_
 1. [The centre-right opposition bloc led by "Venstre" wins the 2015 Danish general election, even though the Social Democrat party remains Denmark's largest. The anti-immigration Danish People's Party will be the second-largest in parliament. ](/news/2015/06/19/the-centre-right-opposition-bloc-led-by-venstre-wins-the-2015-danish-general-election-even-though-the-social-democrat-party-remains-denma.md) _(Current version)_
 
 ### Related:

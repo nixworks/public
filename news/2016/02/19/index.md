@@ -13,7 +13,7 @@ Two suicide bombers posing as food vendors killed at least 24 people and injured
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md)
-_Context: Palestinians, Israel, Israeli-Palestinian conflict (2015-present), Jerusalem, West Bank_
+_Context: West Bank, Jerusalem, Israeli-Palestinian conflict (2015-present), Palestinians, Israel_
 
 ##### Syrian Civil War
 ### [The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al-hasakah-governora.md)
@@ -49,7 +49,7 @@ A Columbian businessman, who is visiting South Africa, has been diagnosed with t
 
 ##### Prime Minister
 ### [New Zealand Prime Minister John Key says his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru's detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-de.md)
-_Context: Middle East, detention camps, people smugglers, Nauru, John Key, Asia, Australia, imminent danger, Pacific island nations, Prime Minister_
+_Context: Middle East, Pacific island nations, people smugglers, imminent danger, Prime Minister, Nauru, Australia, detention camps, Asia, John Key_
 
 ##### European migrant crisis
 ### [Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. ](/news/2016/02/19/serbia-closes-its-southern-border-with-macedonia-to-migrants-from-countries-not-affected-by-war-as-part-of-measures-to-prevent-illegal-immig.md)
@@ -73,7 +73,7 @@ Anti-virus creator John McAfee claims he can break the encryption on an iPhone u
 
 ##### Ugandan general election, 2016
 ### [Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. ](/news/2016/02/19/opposition-leader-kizza-besigye-is-arrested-again-just-before-a-planned-press-conference-police-raid-besigye-s-forum-for-democratic-change.md)
-_Context: Yoweri Museveni, Kizza Besigye, Ugandan general election, 2016, Forum for Democratic Change_
+_Context: Kizza Besigye, Yoweri Museveni, Ugandan general election, 2016, Forum for Democratic Change_
 
 ##### Kosovo
 ### [Kosovo opposition lawmakers twice disrupt today's session of parliament by tossing tear gas into the chamber to protest recent changes giving the country's Serb minority greater powers, and demanding the government's resignation and snap elections. ](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.md)
@@ -81,7 +81,7 @@ PRISTINA: Despite security checks at the entrance, Kosovo opposition lawmakers o
 
 ##### Indian Police
 ### [According to Indian Police, at least one person is killed and up to 20 people injured during, what became violent, protests by the Jat agricultural community in Rohtak, India, for a 10 percent increase in the number of their caste quota (affirmative action). ](/news/2016/02/19/according-to-indian-police-at-least-one-person-is-killed-and-up-to-20-people-injured-during-what-became-violent-protests-by-the-jat-agric.md)
-_Context: Indian Police, caste, affirmative action, Rohtak, India, Jat, reservations_
+_Context: affirmative action, Indian Police, India, Jat, Rohtak, caste, reservations_
 
 ##### United States congressional elections, 2016
 ### [Following the United States Supreme Court's denial of North Carolina's request to use the current district map, the state's legislature meets the deadline for a court-ordered reapportionment of its congressional voting districts. Congressional primaries are rescheduled to June 7, 2016, from March 15. ](/news/2016/02/19/following-the-united-states-supreme-court-s-denial-of-north-carolina-s-request-to-use-the-current-district-map-the-state-s-legislature-meet.md)

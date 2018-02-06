@@ -17,7 +17,7 @@ Two hostages and the gunman at the centre of a 16-hour siege at a cafe in Sydney
 
 ### Changes:
 
-1. [2014 Sydney hostage crisis: The hostage situation ends with gunman Man Haron Monis and two hostages dead and four others injured. ](/news/2014/12/16/2014-sydney-hostage-crisis-the-hostage-situation-ends-with-gunman-man-haron-monis-and-two-hostages-dead-and-four-others-injured.md) _2017-08-27 03:41:38 (First version)_
+1. [2014 Sydney hostage crisis: The hostage situation ends with gunman Man Haron Monis and two hostages dead and four others injured. ](/news/2014/12/16/2014-sydney-hostage-crisis-the-hostage-situation-ends-with-gunman-man-haron-monis-and-two-hostages-dead-and-four-others-injured.md) _2018-02-06 13:49:26 (First version)_
 1. [The hostage situation ends with gunman Man Haron Monis and two hostages dead and four others injured. ](/news/2014/12/16/the-hostage-situation-ends-with-gunman-man-haron-monis-and-two-hostages-dead-and-four-others-injured.md) _(Current version)_
 
 ### Related:

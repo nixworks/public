@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/01/15/japanese-machine-orders-decrease-16-2-percent-f
 
 ### Changes:
 
-1. [ Late 2000s recession: Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-p-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md) _2017-08-25 03:23:29 (First version)_
-2. [ Late 2000s recession:: Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md) _2017-08-27 03:23:21 (Update)_
+1. [ Late 2000s recession: Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-p-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession:: Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md) _2018-02-06 13:49:18 (Update)_
 2. [ Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-than-twice-the-expected-r.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ The Seattle City Council voted 8-0 Monday afternoon to enact Councilmember Mike 
 
 ### Changes:
 
-1. [The Seattle City Council unanimously votes to give Uber, Lyft, and other contract drivers the power to unionize. The Washington city becomes the first in the United States to do so. Seattle Mayor Ed Murray opposes the bill which can still become law without his signature. Court challenges are expected. ](/news/2015/12/14/the-seattle-city-council-unanimously-votes-to-give-uber-lyft-and-other-contract-drivers-the-power-to-unionize-the-washington-city-becom.md) _2017-08-25 03:44:00 (First version)_
+1. [The Seattle City Council unanimously votes to give Uber, Lyft, and other contract drivers the power to unionize. The Washington city becomes the first in the United States to do so. Seattle Mayor Ed Murray opposes the bill which can still become law without his signature. Court challenges are expected. ](/news/2015/12/14/the-seattle-city-council-unanimously-votes-to-give-uber-lyft-and-other-contract-drivers-the-power-to-unionize-the-washington-city-becom.md) _2018-02-06 13:49:28 (First version)_
 1. [The Seattle City Council unanimously votes to give Uber, Lyft, and other contract drivers the power to unionize. The Washington city becomes the first in the United States to do so. Seattle Mayor Ed Murray opposes the bill which can still become law without his signature. Court challenges are expected. ](/news/2015/12/14/the-seattle-city-council-unanimously-votes-to-give-uber-lyft-and-other-contract-drivers-the-power-to-unionize-the-washington-city-becomes.md) _(Current version)_
 
 ### Related:

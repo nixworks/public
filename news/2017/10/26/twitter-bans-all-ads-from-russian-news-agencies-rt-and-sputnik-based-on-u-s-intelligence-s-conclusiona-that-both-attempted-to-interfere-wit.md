@@ -16,7 +16,7 @@ Twitter on Thursday announced that it was banning all advertisements on the serv
 
 ### Changes:
 
-1. [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusionthat both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusion-that-both-attempted-to-interfere-with.md) _2017-10-26 18:30:05 (First version)_
+1. [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusionthat both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusion-that-both-attempted-to-interfere-with.md) _2018-02-06 13:49:31 (First version)_
 1. [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md) _(Current version)_
 
 ### Related:

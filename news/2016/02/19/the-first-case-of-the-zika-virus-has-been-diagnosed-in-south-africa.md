@@ -16,7 +16,7 @@ A Columbian businessman, who is visiting South Africa, has been diagnosed with t
 
 ### Changes:
 
-1. [Zika virus outbreak: The first case of the Zika virus has been diagnosed in South Africa. ](/news/2016/02/19/zika-virus-outbreak-the-first-case-of-the-zika-virus-has-been-diagnosed-in-south-africa.md) _2017-08-27 03:44:57 (First version)_
+1. [Zika virus outbreak: The first case of the Zika virus has been diagnosed in South Africa. ](/news/2016/02/19/zika-virus-outbreak-the-first-case-of-the-zika-virus-has-been-diagnosed-in-south-africa.md) _2018-02-06 13:49:28 (First version)_
 1. [The first case of the Zika virus has been diagnosed in South Africa. ](/news/2016/02/19/the-first-case-of-the-zika-virus-has-been-diagnosed-in-south-africa.md) _(Current version)_
 
 ### Related:

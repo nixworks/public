@@ -18,7 +18,7 @@ HIT, Iraq (AP) — Iraqi forces took the northern edge of the Islamic State-held
 
 ### Changes:
 
-1. [Iraq Civil War: The United States military reports a drone attack killed ISIL rocket expert Jasim Khadijah. The unmanned airstrike also killed other IS militants and destroyed at least one makeshift drone. Khadijah, a former Iraqi officer, is believed responsible for the March attack that killed a U.S. Marine in northern Iraq. ](/news/2016/04/3/iraq-civil-war-the-united-states-military-reports-a-drone-attack-killed-isil-rocket-expert-jasim-khadijah-the-unmanned-airstrike-also-kill.md) _2017-08-27 03:45:28 (First version)_
+1. [Iraq Civil War: The United States military reports a drone attack killed ISIL rocket expert Jasim Khadijah. The unmanned airstrike also killed other IS militants and destroyed at least one makeshift drone. Khadijah, a former Iraqi officer, is believed responsible for the March attack that killed a U.S. Marine in northern Iraq. ](/news/2016/04/3/iraq-civil-war-the-united-states-military-reports-a-drone-attack-killed-isil-rocket-expert-jasim-khadijah-the-unmanned-airstrike-also-kill.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States military reports a drone attack killed ISIL rocket expert Jasim Khadijah. The unmanned airstrike also killed other IS militants and destroyed at least one makeshift drone. Khadijah, a former Iraqi officer, is believed responsible for the March attack that killed a U.S. Marine in northern Iraq. ](/news/2016/04/3/the-united-states-military-reports-a-drone-attack-killed-isil-rocket-expert-jasim-khadijah-the-unmanned-airstrike-also-killed-other-is-mili.md) _(Current version)_
 
 ### Related:

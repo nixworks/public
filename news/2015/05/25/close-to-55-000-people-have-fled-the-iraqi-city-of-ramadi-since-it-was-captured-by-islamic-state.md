@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/islamic-state-of-iraq-and-the-levant-close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md) _2017-08-27 03:42:23 (First version)_
+1. [Islamic State of Iraq and the Levant: Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/islamic-state-of-iraq-and-the-levant-close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md) _2018-02-06 13:49:27 (First version)_
 1. [Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md) _(Current version)_
 
 ### Related:

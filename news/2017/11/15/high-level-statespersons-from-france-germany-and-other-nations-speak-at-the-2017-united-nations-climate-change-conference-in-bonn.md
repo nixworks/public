@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/15/high-level-statespersons-from-france-germany-an
 
 ### Changes:
 
-1. [High level statespersons from France, Germany and other nations speak at the 2017 United Nations Climate Change Conference in Bonn - Fiji. ](/news/2017/11/15/high-level-statespersons-from-france-germany-and-other-nations-speak-at-the-2017-united-nations-climate-change-conference-in-bonn-fiji.md) _2017-11-16 21:30:05 (First version)_
+1. [High level statespersons from France, Germany and other nations speak at the 2017 United Nations Climate Change Conference in Bonn - Fiji. ](/news/2017/11/15/high-level-statespersons-from-france-germany-and-other-nations-speak-at-the-2017-united-nations-climate-change-conference-in-bonn-fiji.md) _2018-02-06 13:49:31 (First version)_
 1. [High level statespersons from France, Germany and other nations speak at the 2017 United Nations Climate Change Conference in Bonn. ](/news/2017/11/15/high-level-statespersons-from-france-germany-and-other-nations-speak-at-the-2017-united-nations-climate-change-conference-in-bonn.md) _(Current version)_
 
 ### Related:

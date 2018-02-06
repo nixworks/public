@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-
 
 ### Changes:
 
-1. [A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the Balochistan province, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. ](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-balochistan-province-kill.md) _2017-05-12 21:30:06 (First version)_
+1. [A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the Balochistan province, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. ](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-balochistan-province-kill.md) _2018-02-06 13:49:30 (First version)_
 1. [A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the province of Balochistan, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. ](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.md) _(Current version)_
 
 ### Related:

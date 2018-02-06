@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/02/1/12-people-are-injured-by-a-bomb-attack-in-mindan
 
 ### Changes:
 
-1. [Moro insurgency in the Philippines:12 people are injured by a bomb attack in Mindanao. ](/news/2014/02/1/moro-insurgency-in-the-philippines-p12-people-are-injured-by-a-bomb-attack-in-mindanao.md) _2017-08-25 03:39:57 (First version)_
-2. [Moro insurgency in the Philippines:: 12 people are injured by a bomb attack in Mindanao. ](/news/2014/02/1/moro-insurgency-in-the-philippines-12-people-are-injured-by-a-bomb-attack-in-mindanao.md) _2017-08-27 03:40:15 (Update)_
+1. [Moro insurgency in the Philippines:12 people are injured by a bomb attack in Mindanao. ](/news/2014/02/1/moro-insurgency-in-the-philippines-p12-people-are-injured-by-a-bomb-attack-in-mindanao.md) _2018-02-06 13:49:25 (First version)_
+2. [Moro insurgency in the Philippines:: 12 people are injured by a bomb attack in Mindanao. ](/news/2014/02/1/moro-insurgency-in-the-philippines-12-people-are-injured-by-a-bomb-attack-in-mindanao.md) _2018-02-06 13:49:25 (Update)_
 2. [12 people are injured by a bomb attack in Mindanao. ](/news/2014/02/1/12-people-are-injured-by-a-bomb-attack-in-mindanao.md) _(Current version)_
 
 ### Related:

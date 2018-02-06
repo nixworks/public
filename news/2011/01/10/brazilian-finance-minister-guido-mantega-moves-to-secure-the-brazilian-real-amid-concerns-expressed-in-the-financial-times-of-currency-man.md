@@ -16,7 +16,7 @@ Brazilian Finance Minister Guido Mantega says the world is on course for a trade
 
 ### Changes:
 
-1. [Brazilian Finance Minister Guido Mantega moves to secure the Brazilian real amid concerns expressed in the ''Financial Times'' of currency manipulation by the United States, China and others. ](/news/2011/01/10/brazilian-finance-minister-guido-mantega-moves-to-secure-the-brazilian-real-amid-concerns-expressed-in-the-financial-times-of-currency-m.md) _2017-08-25 03:31:43 (First version)_
+1. [Brazilian Finance Minister Guido Mantega moves to secure the Brazilian real amid concerns expressed in the ''Financial Times'' of currency manipulation by the United States, China and others. ](/news/2011/01/10/brazilian-finance-minister-guido-mantega-moves-to-secure-the-brazilian-real-amid-concerns-expressed-in-the-financial-times-of-currency-m.md) _2018-02-06 13:49:21 (First version)_
 1. [Brazilian Finance Minister Guido Mantega moves to secure the Brazilian real amid concerns expressed in the "Financial Times" of currency manipulation by the United States, China and others. ](/news/2011/01/10/brazilian-finance-minister-guido-mantega-moves-to-secure-the-brazilian-real-amid-concerns-expressed-in-the-financial-times-of-currency-man.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ There have been more demonstrations in Indonesia&#39;s Papua region today, in su
 
 ### Changes:
 
-1. [Papua conflict: Thousands of people take to the streets of Jayapura and other towns in Papua, Indonesia, in support of the Free Papua Movement and its effort to join the Melanesian Spearhead Group. Indonesia responded with a large police and military presence, with reports of police firing on demonstrators in Wamena and arresting dozens across the province. ](/news/2016/05/31/papua-conflict-thousands-of-people-take-to-the-streets-of-jayapura-and-other-towns-in-papua-indonesia-in-support-of-the-free-papua-moveme.md) _2017-08-27 03:46:10 (First version)_
+1. [Papua conflict: Thousands of people take to the streets of Jayapura and other towns in Papua, Indonesia, in support of the Free Papua Movement and its effort to join the Melanesian Spearhead Group. Indonesia responded with a large police and military presence, with reports of police firing on demonstrators in Wamena and arresting dozens across the province. ](/news/2016/05/31/papua-conflict-thousands-of-people-take-to-the-streets-of-jayapura-and-other-towns-in-papua-indonesia-in-support-of-the-free-papua-moveme.md) _2018-02-06 13:49:29 (First version)_
 1. [Thousands of people take to the streets of Jayapura and other towns in Papua, Indonesia, in support of the Free Papua Movement and its effort to join the Melanesian Spearhead Group. Indonesia responded with a large police and military presence, with reports of police firing on demonstrators in Wamena and arresting dozens across the province. ](/news/2016/05/31/thousands-of-people-take-to-the-streets-of-jayapura-and-other-towns-in-papua-indonesia-in-support-of-the-free-papua-movement-and-its-effor.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/05/19/xinhua-reports-that-200-relief-workers-trying-t
 
 ### Changes:
 
-1. [ 2008 Sichuan earthquake: Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/2008-sichuan-earthquake-xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md) _2017-08-27 03:22:06 (First version)_
+1. [ 2008 Sichuan earthquake: Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/2008-sichuan-earthquake-xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md) _2018-02-06 13:49:18 (First version)_
 1. [ Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md) _(Current version)_
 
 ### Related:

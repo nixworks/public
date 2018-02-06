@@ -18,7 +18,7 @@ A major storm system coming in from the Pacific will dump heavy rains on Califor
 
 ### Changes:
 
-1. [Droughts in the United States California's state climatologist Michael Anderson mentions that the recent El Nino-fueled storms will put a dent in the ongoing drought, but not end the conditions citing larger reservoirs that are still below normal. ](/news/2016/01/5/droughts-in-the-united-states-pcalifornia-s-state-climatologist-michael-anderson-mentions-that-the-recent-el-nia-o-fueled-storms-will-put-a.md) _2017-05-25 03:46:29 (First version)_
+1. [Droughts in the United States California's state climatologist Michael Anderson mentions that the recent El Nino-fueled storms will put a dent in the ongoing drought, but not end the conditions citing larger reservoirs that are still below normal. ](/news/2016/01/5/droughts-in-the-united-states-pcalifornia-s-state-climatologist-michael-anderson-mentions-that-the-recent-el-nia-o-fueled-storms-will-put-a.md) _2018-02-06 13:49:28 (First version)_
 1. [California's state climatologist Michael Anderson mentions that the recent El Nino-fueled storms will put a dent in the ongoing drought, but not end the conditions citing larger reservoirs that are still below normal. ](/news/2016/01/5/california-s-state-climatologist-michael-anderson-mentions-that-the-recent-el-nia-o-fueled-storms-will-put-a-dent-in-the-ongoing-drought-bu.md) _(Current version)_
 
 ### Related:

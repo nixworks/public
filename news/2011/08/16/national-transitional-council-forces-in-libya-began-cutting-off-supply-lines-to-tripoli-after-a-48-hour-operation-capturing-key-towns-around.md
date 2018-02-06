@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/08/16/national-transitional-council-forces-in-libya-b
 
 ### Changes:
 
-1. [2011 Libyan civil war: National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. ](/news/2011/08/16/2011-libyan-civil-war-national-transitional-council-forces-in-libya-began-cutting-off-supply-lines-to-tripoli-after-a-48-hour-operation-cap.md) _2017-08-27 03:34:08 (First version)_
+1. [2011 Libyan civil war: National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. ](/news/2011/08/16/2011-libyan-civil-war-national-transitional-council-forces-in-libya-began-cutting-off-supply-lines-to-tripoli-after-a-48-hour-operation-cap.md) _2018-02-06 13:49:22 (First version)_
 1. [National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. ](/news/2011/08/16/national-transitional-council-forces-in-libya-began-cutting-off-supply-lines-to-tripoli-after-a-48-hour-operation-capturing-key-towns-around.md) _(Current version)_
 
 ### Related:

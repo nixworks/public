@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/24/the-government-of-colombia-and-farc-finalise-a-
 
 ### Changes:
 
-1. [Colombian conflict: The government of Colombia and FARC finalise a peace deal ending 50 years of conflict. ](/news/2016/08/24/colombian-conflict-the-government-of-colombia-and-farc-finalise-a-peace-deal-ending-50-years-of-conflict.md) _2017-08-27 03:46:42 (First version)_
+1. [Colombian conflict: The government of Colombia and FARC finalise a peace deal ending 50 years of conflict. ](/news/2016/08/24/colombian-conflict-the-government-of-colombia-and-farc-finalise-a-peace-deal-ending-50-years-of-conflict.md) _2018-02-06 13:49:29 (First version)_
 1. [The government of Colombia and FARC finalise a peace deal ending 50 years of conflict. ](/news/2016/08/24/the-government-of-colombia-and-farc-finalise-a-peace-deal-ending-50-years-of-conflict.md) _(Current version)_
 
 ### Related:

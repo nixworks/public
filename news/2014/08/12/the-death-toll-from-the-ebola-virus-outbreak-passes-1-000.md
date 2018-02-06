@@ -17,7 +17,7 @@ The death toll from the worst ever outbreak of Ebola has reached 1,013 after ano
 
 ### Changes:
 
-1. [2014 West Africa Ebola virus outbreak: The death toll from the Ebola virus outbreak passes 1,000. ](/news/2014/08/12/2014-west-africa-ebola-virus-outbreak-the-death-toll-from-the-ebola-virus-outbreak-passes-1-000.md) _2017-08-27 03:41:08 (First version)_
+1. [2014 West Africa Ebola virus outbreak: The death toll from the Ebola virus outbreak passes 1,000. ](/news/2014/08/12/2014-west-africa-ebola-virus-outbreak-the-death-toll-from-the-ebola-virus-outbreak-passes-1-000.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from the Ebola virus outbreak passes 1,000. ](/news/2014/08/12/the-death-toll-from-the-ebola-virus-outbreak-passes-1-000.md) _(Current version)_
 
 ### Related:

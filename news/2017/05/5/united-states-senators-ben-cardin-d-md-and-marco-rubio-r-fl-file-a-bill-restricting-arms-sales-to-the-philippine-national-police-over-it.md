@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco
 
 ### Changes:
 
-1. [U.S. senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales the the Philippine National Police over its drug war. ](/news/2017/05/5/u-s-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-the-the-philippine-national-police-over-its-drug-w.md) _2017-05-05 11:30:06 (First version)_
-2. [U.S. senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/u-s-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-its-drug-wa.md) _2017-05-07 13:30:05 (Update)_
+1. [U.S. senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/u-s-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-its-drug-wa.md) _2018-02-06 13:49:30 (First version)_
+2. [U.S. senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales the the Philippine National Police over its drug war. ](/news/2017/05/5/u-s-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-the-the-philippine-national-police-over-its-drug-w.md) _2018-02-06 13:49:30 (Update)_
 2. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _(Current version)_
 
 ### Related:

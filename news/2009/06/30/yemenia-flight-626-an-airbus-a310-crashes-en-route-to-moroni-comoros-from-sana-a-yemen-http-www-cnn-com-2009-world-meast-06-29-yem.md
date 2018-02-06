@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-ro
 
 ### Changes:
 
-1. [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. ](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen.md) _2017-08-25 03:25:00 (First version)_
+1. [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. ](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen.md) _2018-02-06 13:49:19 (First version)_
 1. [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. [http:--www.cnn.com-2009-WORLD-meast-06-29-yemen.plane.crash-index.html (CNN) ]](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen-http-www-cnn-com-2009-world-meast-06-29-yem.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-a
 
 ### Changes:
 
-1. [2016 Zimbabwe protests: Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/2016-zimbabwe-protests-robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _2017-08-27 03:46:33 (First version)_
+1. [2016 Zimbabwe protests: Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/2016-zimbabwe-protests-robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _2018-02-06 13:49:29 (First version)_
 1. [Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _(Current version)_
 
 ### Related:

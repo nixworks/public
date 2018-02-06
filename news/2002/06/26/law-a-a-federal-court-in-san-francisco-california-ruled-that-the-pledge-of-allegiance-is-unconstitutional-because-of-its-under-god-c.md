@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/06/26/law-a-a-federal-court-in-san-francisco-californ
 
 ### Changes:
 
-1. [ Law - A federal court in San Francisco, California, ruled that the Pledge of Allegiance is unconstitutional, because of its "under God" clause.](/news/2002/06/26/law-a-federal-court-in-san-francisco-california-ruled-that-the-pledge-of-allegiance-is-unconstitutional-because-of-its-under-god-c.md) _2017-08-27 03:15:13 (First version)_
+1. [ Law - A federal court in San Francisco, California, ruled that the Pledge of Allegiance is unconstitutional, because of its "under God" clause.](/news/2002/06/26/law-a-federal-court-in-san-francisco-california-ruled-that-the-pledge-of-allegiance-is-unconstitutional-because-of-its-under-god-c.md) _2018-02-06 13:49:15 (First version)_
 1. [ Law - A federal court in San Francisco, California, ruled that the Pledge of Allegiance is unconstitutional, because of its "under God" clause.](/news/2002/06/26/law-a-a-federal-court-in-san-francisco-california-ruled-that-the-pledge-of-allegiance-is-unconstitutional-because-of-its-under-god-c.md) _(Current version)_
 
 ### Related:

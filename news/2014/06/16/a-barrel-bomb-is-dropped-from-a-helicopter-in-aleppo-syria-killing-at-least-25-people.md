@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/06/16/a-barrel-bomb-is-dropped-from-a-helicopter-in-a
 
 ### Changes:
 
-1. [Syrian Civil War:A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-pa-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md) _2017-08-25 03:40:34 (First version)_
-2. [Syrian Civil War:: A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md) _2017-08-27 03:40:52 (Update)_
+1. [Syrian Civil War:A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-pa-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md) _2018-02-06 13:49:26 (Update)_
 2. [A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md) _(Current version)_
 
 ### Related:

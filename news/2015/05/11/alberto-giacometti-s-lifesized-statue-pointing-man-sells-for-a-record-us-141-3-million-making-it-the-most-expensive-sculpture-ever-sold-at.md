@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/11/alberto-giacometti-s-lifesized-statue-pointing-
 
 ### Changes:
 
-1. [Alberto Giacometti's lifesized statue ''Pointing Man'' sells for a record US$141.3 million making it the most expensive sculpture ever sold at auction. ](/news/2015/05/11/alberto-giacometti-s-lifesized-statue-pointing-man-sells-for-a-record-us-141-3-million-making-it-the-most-expensive-sculpture-ever-sold.md) _2017-08-25 03:41:59 (First version)_
+1. [Alberto Giacometti's lifesized statue ''Pointing Man'' sells for a record US$141.3 million making it the most expensive sculpture ever sold at auction. ](/news/2015/05/11/alberto-giacometti-s-lifesized-statue-pointing-man-sells-for-a-record-us-141-3-million-making-it-the-most-expensive-sculpture-ever-sold.md) _2018-02-06 13:49:27 (First version)_
 1. [Alberto Giacometti's lifesized statue "Pointing Man" sells for a record US$141.3 million making it the most expensive sculpture ever sold at auction. ](/news/2015/05/11/alberto-giacometti-s-lifesized-statue-pointing-man-sells-for-a-record-us-141-3-million-making-it-the-most-expensive-sculpture-ever-sold-at.md) _(Current version)_
 
 ### Related:

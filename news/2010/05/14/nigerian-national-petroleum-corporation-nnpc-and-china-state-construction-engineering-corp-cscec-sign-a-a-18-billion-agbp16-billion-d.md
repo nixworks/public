@@ -16,8 +16,8 @@ Nigerian and Chinese authorities sign a $23bn deal to build three refineries and
 
 ### Changes:
 
-1. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a EUR18 billion (PS16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-a-18-billion-aps16-billion-dea.md) _2017-08-25 03:27:55 (First version)_
-2. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a -18 billion (GBP16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-18-billion-agbp16-billion-d.md) _2017-08-27 03:27:53 (Update)_
+1. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a EUR18 billion (PS16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-a-18-billion-aps16-billion-dea.md) _2018-02-06 13:49:20 (First version)_
+2. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a -18 billion (GBP16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-18-billion-agbp16-billion-d.md) _2018-02-06 13:49:20 (Update)_
 2. [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a EUR18 billion (GBP16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-a-18-billion-agbp16-billion-d.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Venezuela will suspend the sale of alcoholic beverages, fireworks and weapons in
 
 ### Changes:
 
-1. [Venezuelan parliamentary election, 2015: Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuelan-parliamentary-election-2015-venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-s.md) _2017-08-27 03:44:07 (First version)_
+1. [Venezuelan parliamentary election, 2015: Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuelan-parliamentary-election-2015-venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-sunday-s-parliamentary-elections-starting.md) _(Current version)_
 
 ### Related:

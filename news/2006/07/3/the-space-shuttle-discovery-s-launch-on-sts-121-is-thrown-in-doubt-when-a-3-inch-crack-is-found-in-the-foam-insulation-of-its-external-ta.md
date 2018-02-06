@@ -18,7 +18,7 @@ NASA loads the shuttle Discovery&#39;s external tank with rocket fuel in prepara
 
 ### Changes:
 
-1. [ The Space Shuttle ''Discovery'''s launch on STS-121 is thrown in doubt when a 3 inch crack is found in the foam insulation of its external tank. Despite the crack, NASA decides to proceed with the launch, scheduled for 2:38 PM ET Tuesday, which would be the first manned launch on the United States Independence Day. ](/news/2006/07/3/the-space-shuttle-discovery-s-launch-on-sts-121-is-thrown-in-doubt-when-a-3-inch-crack-is-found-in-the-foam-insulation-of-its-external.md) _2017-08-25 03:17:52 (First version)_
+1. [ The Space Shuttle ''Discovery'''s launch on STS-121 is thrown in doubt when a 3 inch crack is found in the foam insulation of its external tank. Despite the crack, NASA decides to proceed with the launch, scheduled for 2:38 PM ET Tuesday, which would be the first manned launch on the United States Independence Day. ](/news/2006/07/3/the-space-shuttle-discovery-s-launch-on-sts-121-is-thrown-in-doubt-when-a-3-inch-crack-is-found-in-the-foam-insulation-of-its-external.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Space Shuttle "Discovery"'s launch on STS-121 is thrown in doubt when a 3 inch crack is found in the foam insulation of its external tank. Despite the crack, NASA decides to proceed with the launch, scheduled for 2:38 PM ET Tuesday, which would be the first manned launch on the United States Independence Day. ](/news/2006/07/3/the-space-shuttle-discovery-s-launch-on-sts-121-is-thrown-in-doubt-when-a-3-inch-crack-is-found-in-the-foam-insulation-of-its-external-ta.md) _(Current version)_
 
 ### Related:

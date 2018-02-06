@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/18/the-governor-of-iraq-s-anbar-governorate-estima
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: The Governor of Iraq's Anbar Governorate estimates that 500 people were killed and 8000 fled as ISIS captured the strategically important city of Ramadi. ](/news/2015/05/18/islamic-state-in-iraq-and-the-levant-the-governor-of-iraq-s-anbar-governorate-estimates-that-500-people-were-killed-and-8000-fled-as-isis-c.md) _2017-08-27 03:42:20 (First version)_
+1. [Islamic State in Iraq and the Levant: The Governor of Iraq's Anbar Governorate estimates that 500 people were killed and 8000 fled as ISIS captured the strategically important city of Ramadi. ](/news/2015/05/18/islamic-state-in-iraq-and-the-levant-the-governor-of-iraq-s-anbar-governorate-estimates-that-500-people-were-killed-and-8000-fled-as-isis-c.md) _2018-02-06 13:49:27 (First version)_
 1. [The Governor of Iraq's Anbar Governorate estimates that 500 people were killed and 8000 fled as ISIS captured the strategically important city of Ramadi. ](/news/2015/05/18/the-governor-of-iraq-s-anbar-governorate-estimates-that-500-people-were-killed-and-8000-fled-as-isis-captured-the-strategically-important-ci.md) _(Current version)_
 
 ### Related:

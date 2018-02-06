@@ -19,8 +19,8 @@ In a surprisingly sharp move, the Arab League voted Saturday to suspend Syria ov
 
 ### Changes:
 
-1. [Syrian uprising:The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/syrian-uprising-pthe-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urgi.md) _2017-08-25 03:34:28 (First version)_
-2. [Syrian uprising:: The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/syrian-uprising-the-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urg.md) _2017-08-27 03:34:38 (Update)_
+1. [Syrian uprising:: The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/syrian-uprising-the-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urg.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising:The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/syrian-uprising-pthe-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urgi.md) _2018-02-06 13:49:23 (Update)_
 2. [The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/the-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urging-member-states.md) _(Current version)_
 
 ### Related:

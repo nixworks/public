@@ -16,7 +16,7 @@ RIO DE JANEIRO (AP) — The rollercoaster ride that is the impeachment drive aga
 
 ### Changes:
 
-1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate unanimously votes to strip Delcidio do Amaral of his senate seat. Amaral, one of Rousseff's biggest foes, was arrested last November for allegedly taking kickbacks from Petrobras. ](/news/2016/05/10/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-unanimously-votes-to-strip-delcadio-do-amaral-of-his-senate-seat-amara.md) _2017-08-27 03:46:00 (First version)_
+1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate unanimously votes to strip Delcidio do Amaral of his senate seat. Amaral, one of Rousseff's biggest foes, was arrested last November for allegedly taking kickbacks from Petrobras. ](/news/2016/05/10/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-unanimously-votes-to-strip-delcadio-do-amaral-of-his-senate-seat-amara.md) _2018-02-06 13:49:29 (First version)_
 1. [Brazil's Federal Senate unanimously votes to strip Delcidio do Amaral of his senate seat. Amaral, one of Rousseff's biggest foes, was arrested last November for allegedly taking kickbacks from Petrobras. ](/news/2016/05/10/brazil-s-federal-senate-unanimously-votes-to-strip-delcadio-do-amaral-of-his-senate-seat-amaral-one-of-rousseff-s-biggest-foes-was-arres.md) _(Current version)_
 
 ### Related:

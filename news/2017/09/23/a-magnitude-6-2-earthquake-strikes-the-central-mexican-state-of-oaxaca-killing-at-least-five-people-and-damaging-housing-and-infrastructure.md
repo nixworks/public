@@ -18,7 +18,7 @@ A new earthquake with a magnitude of 6.1 has hit Mexico, just days after another
 
 ### Changes:
 
-1. [ A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca.md) _2017-09-24 03:52:27 (First version)_
+1. [ A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca.md) _2018-02-06 13:49:31 (First version)_
 1. [A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca-killing-at-least-five-people-and-damaging-housing-and-infrastructure.md) _(Current version)_
 
 ### Related:

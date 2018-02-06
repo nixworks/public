@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/7/the-pentagon-raises-security-at-its-us-military-
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/islamic-state-of-iraq-and-the-levant-the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-s.md) _2017-08-27 03:42:16 (First version)_
+1. [Islamic State of Iraq and the Levant: The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/islamic-state-of-iraq-and-the-levant-the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-s.md) _2018-02-06 13:49:27 (First version)_
 1. [The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-states-and-a-recent-shooting-in-garland.md) _(Current version)_
 
 ### Related:

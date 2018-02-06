@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/06/23/the-supreme-court-of-the-united-states-decides-
 
 ### Changes:
 
-1. [ The Supreme Court of the United States decides 5-4 in the case ''Kelo v. New London'' that local governments can seize residential and commercial property for private development projects against the will of property owners as a "public use" under the 5th Amendment. ](/news/2005/06/23/the-supreme-court-of-the-united-states-decides-5-4-in-the-case-kelo-v-new-london-that-local-governments-can-seize-residential-and-comm.md) _2017-08-25 03:16:25 (First version)_
+1. [ The Supreme Court of the United States decides 5-4 in the case ''Kelo v. New London'' that local governments can seize residential and commercial property for private development projects against the will of property owners as a "public use" under the 5th Amendment. ](/news/2005/06/23/the-supreme-court-of-the-united-states-decides-5-4-in-the-case-kelo-v-new-london-that-local-governments-can-seize-residential-and-comm.md) _2018-02-06 13:49:16 (First version)_
 1. [ The Supreme Court of the United States decides 5-4 in the case "Kelo v. New London" that local governments can seize residential and commercial property for private development projects against the will of property owners as a "public use" under the 5th Amendment. ](/news/2005/06/23/the-supreme-court-of-the-united-states-decides-5-4-in-the-case-kelo-v-new-london-that-local-governments-can-seize-residential-and-commer.md) _(Current version)_
 
 ### Related:

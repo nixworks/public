@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/09/3/more-than-200-taliban-rebel-and-four-canadian-tr
 
 ### Changes:
 
-1. [ Taliban insurgency in More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/taliban-insurgency-in-more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _2017-08-25 03:18:19 (First version)_
-2. [ Taliban insurgency in Afghanistan: More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/taliban-insurgency-in-afghanistan-more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _2017-08-27 03:18:15 (Update)_
+1. [ Taliban insurgency in More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/taliban-insurgency-in-more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _2018-02-06 13:49:17 (First version)_
+2. [ Taliban insurgency in Afghanistan: More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/taliban-insurgency-in-afghanistan-more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _2018-02-06 13:49:17 (Update)_
 2. [ More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md) _(Current version)_
 
 ### Related:

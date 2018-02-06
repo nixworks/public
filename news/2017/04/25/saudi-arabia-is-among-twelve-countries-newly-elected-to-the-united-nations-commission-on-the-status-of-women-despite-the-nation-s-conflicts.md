@@ -16,8 +16,8 @@ Saudi Arabia is elected to the UN Commission on the Status of Women, despite the
 
 ### Changes:
 
-1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, in spite of the nation's poor record with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-in-spite-of-the-nation-s-poor.md) _2017-04-26 07:26:55 (First version)_
-2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _2017-04-26 07:26:55 (Update)_
+1. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, in spite of the nation's poor record with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-in-spite-of-the-nation-s-poor.md) _2018-02-06 13:49:30 (First version)_
+2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite of the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-of-the-nation-s-confli.md) _2018-02-06 13:49:30 (Update)_
 2. [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md) _(Current version)_
 
 ### Related:

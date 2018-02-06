@@ -16,7 +16,7 @@ The United States on Monday launched the first salvo in the renegotiation of the
 
 ### Changes:
 
-1. [Foreign trade of the United States: Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/foreign-trade-of-the-united-states-robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for.md) _2017-08-27 03:48:40 (First version)_
+1. [Foreign trade of the United States: Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/foreign-trade-of-the-united-states-robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for.md) _2018-02-06 13:49:30 (First version)_
 1. [Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for-renegotiating-nafta-including-lowe.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Bidhya Devi Bhandari is deputy leader of the ruling Communist party and campaign
 
 ### Changes:
 
-1. [Elections in Nepal: The Nepalese Parliament elects the country's first female president, Communist Party of Nepal (Unified Marxist-Leninist) vice-chairperson Bidhya Devi Bhandari, by a vote of 327 to 214. ](/news/2015/10/28/elections-in-nepal-the-nepalese-parliament-elects-the-country-s-first-female-president-communist-party-of-nepal-unified-marxist-leninis.md) _2017-08-27 03:43:34 (First version)_
+1. [Elections in Nepal: The Nepalese Parliament elects the country's first female president, Communist Party of Nepal (Unified Marxist-Leninist) vice-chairperson Bidhya Devi Bhandari, by a vote of 327 to 214. ](/news/2015/10/28/elections-in-nepal-the-nepalese-parliament-elects-the-country-s-first-female-president-communist-party-of-nepal-unified-marxist-leninis.md) _2018-02-06 13:49:28 (First version)_
 1. [The Nepalese Parliament elects the country's first female president, Communist Party of Nepal (Unified Marxist-Leninist) vice-chairperson Bidhya Devi Bhandari, by a vote of 327 to 214. ](/news/2015/10/28/the-nepalese-parliament-elects-the-country-s-first-female-president-communist-party-of-nepal-unified-marxistaleninist-vice-chairperson.md) _(Current version)_
 
 ### Related:

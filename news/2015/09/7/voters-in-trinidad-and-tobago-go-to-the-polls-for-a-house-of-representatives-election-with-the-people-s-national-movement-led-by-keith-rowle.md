@@ -17,7 +17,7 @@ After becoming the first female to lead oil-rich Trinidad and Tobago, Kamla Pers
 
 ### Changes:
 
-1. [Trinidad and Tobago general election, 2015: Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. ](/news/2015/09/7/trinidad-and-tobago-general-election-2015-voters-in-trinidad-and-tobago-go-to-the-polls-for-a-house-of-representatives-election-with-the-p.md) _2017-08-27 03:42:59 (First version)_
+1. [Trinidad and Tobago general election, 2015: Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. ](/news/2015/09/7/trinidad-and-tobago-general-election-2015-voters-in-trinidad-and-tobago-go-to-the-polls-for-a-house-of-representatives-election-with-the-p.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. ](/news/2015/09/7/voters-in-trinidad-and-tobago-go-to-the-polls-for-a-house-of-representatives-election-with-the-people-s-national-movement-led-by-keith-rowle.md) _(Current version)_
 
 ### Related:

@@ -5,11 +5,11 @@ Formats: [HTML](2008/01/29/index.html)  [JSON](2008/01/29/index.json)  [XML](200
 
 ##### school bus
 ### [ 20 civilians including 11 children die and 14 are wounded after a mine explodes targeting a school bus in Madhu, Sri Lanka. ](/news/2008/01/29/20-civilians-including-11-children-die-and-14-are-wounded-after-a-mine-explodes-targeting-a-school-bus-in-madhu-sri-lanka.md)
-_Context: Madhu, Sri Lanka, school bus_
+_Context: school bus, Sri Lanka, Madhu_
 
 ##### Iran
 ### [ Iran's judiciary sentences 54 Bah' religion followers for "anti-regime propaganda." ](/news/2008/01/29/iran-s-judiciary-sentences-54-baha-i-religion-followers-for-anti-regime-propaganda.md)
-_Context: Bah', Iran, propaganda, sentences_
+_Context: Iran, propaganda, sentences, Bah'_
 
 ##### Beijing-Guangzhou railway
 ### [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's "Chunyun" period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md)
@@ -21,7 +21,7 @@ The House, seizing a rare moment of bipartisanship to respond to the economy’s
 
 ##### Venezuela
 ### [ Venezuelan gunmen hold 30 hostages in a bank in Gurico state before fleeing the scene in an ambulance with several hostages. The gunmen are subsequently captured. ](/news/2008/01/29/venezuelan-gunmen-hold-30-hostages-in-a-bank-in-guarico-state-before-fleeing-the-scene-in-an-ambulance-with-several-hostages-the-gunmen-ar.md)
-_Context: bank, Gurico, ambulance, Venezuela_
+_Context: ambulance, Venezuela, Gurico, bank_
 
 ##### Voters
 ### [ Voters in Florida go to the polls to determine presidential nominees. New York Senator Hillary Clinton wins the Democratic primary with no delegates awarded. ](/news/2008/01/29/voters-in-florida-go-to-the-polls-to-determine-presidential-nominees-new-york-senator-hillary-clinton-wins-the-democratic-primary-with-no.md)
@@ -29,15 +29,15 @@ Senator John McCain won the biggest delegate prize so far in a closely contested
 
 ##### Near-Earth asteroid
 ### [ Near-Earth asteroid 2007 TU passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-from.md)
-_Context: Earth, 2007 TU|24, Near-Earth asteroid_
+_Context: 2007 TU|24, Near-Earth asteroid, Earth_
 
 ##### Pakistan Army
 ### [ A missile strike by the Pakistan Army in North Waziristan kills ten suspected militants. ](/news/2008/01/29/a-missile-strike-by-the-pakistan-army-in-north-waziristan-kills-ten-suspected-militants.md)
-_Context: Pakistan Army, North Waziristan_
+_Context: North Waziristan, Pakistan Army_
 
 ##### car bomb
 ### [ A car bomb in Thenia, Algeria kills at least three people. ](/news/2008/01/29/a-car-bomb-in-thenia-algeria-kills-at-least-three-people.md)
-_Context: car bomb, Algeria, Thenia_
+_Context: Algeria, Thenia, car bomb_
 
 ## [Previous Day...](/news/2008/01/28/index.md)
 

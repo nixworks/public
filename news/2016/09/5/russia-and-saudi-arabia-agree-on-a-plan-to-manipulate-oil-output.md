@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manip
 
 ### Changes:
 
-1. [Russia-Saudi Arabia relations: Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-saudi-arabia-relations-russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md) _2017-08-27 03:46:46 (First version)_
+1. [Russia-Saudi Arabia relations: Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-saudi-arabia-relations-russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md) _2018-02-06 13:49:29 (First version)_
 1. [Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md) _(Current version)_
 
 ### Related:

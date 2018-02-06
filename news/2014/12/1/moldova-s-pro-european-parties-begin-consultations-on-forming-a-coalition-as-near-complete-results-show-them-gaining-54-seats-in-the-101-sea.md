@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/12/1/moldova-s-pro-european-parties-begin-consultatio
 
 ### Changes:
 
-1. [Moldovan parliamentary election, 2014 Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldovan-parliamentary-election-2014-pmoldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-sh.md) _2017-05-25 03:43:07 (First version)_
-2. [Moldovan parliamentary election, 2014: Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldovan-parliamentary-election-2014-moldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-sh.md) _2017-08-27 03:41:34 (Update)_
+1. [Moldovan parliamentary election, 2014 Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldovan-parliamentary-election-2014-pmoldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-sh.md) _2018-02-06 13:49:26 (First version)_
+2. [Moldovan parliamentary election, 2014: Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldovan-parliamentary-election-2014-moldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-sh.md) _2018-02-06 13:49:26 (Update)_
 2. [Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-show-them-gaining-54-seats-in-the-101-sea.md) _(Current version)_
 
 ### Related:

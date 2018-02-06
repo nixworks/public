@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-a
 
 ### Changes:
 
-1. [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop.md) _2017-08-25 03:46:46 (First version)_
+1. [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop.md) _2018-02-06 13:49:29 (First version)_
 1. [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop-t.md) _(Current version)_
 
 ### Related:

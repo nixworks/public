@@ -16,7 +16,7 @@ The Iranian Intelligence Ministry has released the names of and other informatio
 
 ### Changes:
 
-1. [2017 Tehran attacks: Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/2017-tehran-attacks-iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md) _2017-08-27 03:48:27 (First version)_
+1. [2017 Tehran attacks: Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/2017-tehran-attacks-iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md) _2018-02-06 13:49:30 (First version)_
 1. [Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md) _(Current version)_
 
 ### Related:

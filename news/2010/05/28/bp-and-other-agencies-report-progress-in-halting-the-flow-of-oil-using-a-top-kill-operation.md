@@ -19,8 +19,8 @@ As BP continued its effort to gain control of its untamed deep-sea well, Preside
 
 ### Changes:
 
-1. [Gulf of Mexico oil spill:BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-pbp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _2017-08-25 03:28:03 (First version)_
-2. [Gulf of Mexico oil spill:: BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _2017-08-27 03:28:02 (Update)_
+1. [Gulf of Mexico oil spill:BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-pbp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _2018-02-06 13:49:20 (First version)_
+2. [Gulf of Mexico oil spill:: BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _2018-02-06 13:49:20 (Update)_
 2. [BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md) _(Current version)_
 
 ### Related:

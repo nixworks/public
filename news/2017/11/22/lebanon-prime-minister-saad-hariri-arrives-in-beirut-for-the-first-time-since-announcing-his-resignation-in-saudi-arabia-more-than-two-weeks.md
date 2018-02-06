@@ -17,7 +17,7 @@ Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi A
 
 ### Changes:
 
-1. [Lebanese Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. ](/news/2017/11/22/lebanese-prime-minister-saad-hariri-arrives-in-beirut-for-the-first-time-since-announcing-his-resignation-in-saudi-arabia-more-than-two-week.md) _2017-11-22 13:30:04 (First version)_
+1. [Lebanese Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. ](/news/2017/11/22/lebanese-prime-minister-saad-hariri-arrives-in-beirut-for-the-first-time-since-announcing-his-resignation-in-saudi-arabia-more-than-two-week.md) _2018-02-06 13:49:31 (First version)_
 1. [Lebanon Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. ](/news/2017/11/22/lebanon-prime-minister-saad-hariri-arrives-in-beirut-for-the-first-time-since-announcing-his-resignation-in-saudi-arabia-more-than-two-weeks.md) _(Current version)_
 
 ### Related:

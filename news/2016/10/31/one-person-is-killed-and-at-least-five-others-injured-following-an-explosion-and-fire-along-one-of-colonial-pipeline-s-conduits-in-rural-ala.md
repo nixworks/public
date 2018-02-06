@@ -17,7 +17,7 @@ Five were hospitalized after the blast, which occurred after equipment used by a
 
 ### Changes:
 
-1. [One person is killed and at least five others injured following an explosion and fire along one of Colonial Pipeline's conduits in rural Alabama (US), the second incident on this section of the line in less than two months. One pipeline reopened this evening while a second is expected to working by Saturday. ](/news/2016/10/31/one-person-is-killed-and-at-least-five-others-injured-following-an-explosion-and-fire-along-one-of-colonial-pipeline-s-conduits-in-rural-a.md) _2017-08-25 03:46:44 (First version)_
+1. [One person is killed and at least five others injured following an explosion and fire along one of Colonial Pipeline's conduits in rural Alabama (US), the second incident on this section of the line in less than two months. One pipeline reopened this evening while a second is expected to working by Saturday. ](/news/2016/10/31/one-person-is-killed-and-at-least-five-others-injured-following-an-explosion-and-fire-along-one-of-colonial-pipeline-s-conduits-in-rural-a.md) _2018-02-06 13:49:29 (First version)_
 1. [One person is killed and at least five others injured following an explosion and fire along one of Colonial Pipeline's conduits in rural Alabama (US), the second incident on this section of the line in less than two months. One pipeline reopened this evening while a second is expected to working by Saturday. ](/news/2016/10/31/one-person-is-killed-and-at-least-five-others-injured-following-an-explosion-and-fire-along-one-of-colonial-pipeline-s-conduits-in-rural-ala.md) _(Current version)_
 
 ### Related:

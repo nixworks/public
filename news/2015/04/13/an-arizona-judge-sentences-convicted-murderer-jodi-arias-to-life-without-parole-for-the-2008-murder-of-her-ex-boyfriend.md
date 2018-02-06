@@ -16,7 +16,7 @@ An Arizona judge sentenced former waitress Jodi Arias to life in prison with no 
 
 ### Changes:
 
-1. [Murder of Travis Alexander: An Arizona judge sentences convicted murderer Jodi Arias to life without parole for the 2008 murder of her ex-boyfriend. ](/news/2015/04/13/murder-of-travis-alexander-an-arizona-judge-sentences-convicted-murderer-jodi-arias-to-life-without-parole-for-the-2008-murder-of-her-ex-bo.md) _2017-08-27 03:42:11 (First version)_
+1. [Murder of Travis Alexander: An Arizona judge sentences convicted murderer Jodi Arias to life without parole for the 2008 murder of her ex-boyfriend. ](/news/2015/04/13/murder-of-travis-alexander-an-arizona-judge-sentences-convicted-murderer-jodi-arias-to-life-without-parole-for-the-2008-murder-of-her-ex-bo.md) _2018-02-06 13:49:27 (First version)_
 1. [An Arizona judge sentences convicted murderer Jodi Arias to life without parole for the 2008 murder of her ex-boyfriend. ](/news/2015/04/13/an-arizona-judge-sentences-convicted-murderer-jodi-arias-to-life-without-parole-for-the-2008-murder-of-her-ex-boyfriend.md) _(Current version)_
 
 ### Related:

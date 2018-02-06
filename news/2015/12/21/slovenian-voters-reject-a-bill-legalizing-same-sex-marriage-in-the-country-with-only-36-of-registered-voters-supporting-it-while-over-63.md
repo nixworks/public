@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/21/slovenian-voters-reject-a-bill-legalizing-same-
 
 ### Changes:
 
-1. [Slovenian same-sex marriage referendum, 2015: Slovenian voters reject a bill legalizing same-sex marriage in the country with only 36% of registered voters supporting it, while over 63% of voters voted against the bill. ](/news/2015/12/21/slovenian-same-sex-marriage-referendum-2015-slovenian-voters-reject-a-bill-legalizing-same-sex-marriage-in-the-country-with-only-36-of-re.md) _2017-08-27 03:44:27 (First version)_
+1. [Slovenian same-sex marriage referendum, 2015: Slovenian voters reject a bill legalizing same-sex marriage in the country with only 36% of registered voters supporting it, while over 63% of voters voted against the bill. ](/news/2015/12/21/slovenian-same-sex-marriage-referendum-2015-slovenian-voters-reject-a-bill-legalizing-same-sex-marriage-in-the-country-with-only-36-of-re.md) _2018-02-06 13:49:28 (First version)_
 1. [Slovenian voters reject a bill legalizing same-sex marriage in the country with only 36% of registered voters supporting it, while over 63% of voters voted against the bill. ](/news/2015/12/21/slovenian-voters-reject-a-bill-legalizing-same-sex-marriage-in-the-country-with-only-36-of-registered-voters-supporting-it-while-over-63.md) _(Current version)_
 
 ### Related:

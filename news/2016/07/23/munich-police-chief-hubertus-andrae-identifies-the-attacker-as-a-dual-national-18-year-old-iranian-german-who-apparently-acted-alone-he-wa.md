@@ -17,7 +17,7 @@ A German-Iranian teenager who shot dead nine people in Munich was a deranged lon
 
 ### Changes:
 
-1. [2016 Munich shooting: Munich Police Chief Hubertus Andrae identifies the attacker as a dual national, 18-year-old Iranian-German who apparently acted alone. He was found dead of a suspected self-inflicted gunshot wound to his head. ](/news/2016/07/23/2016-munich-shooting-munich-police-chief-hubertus-andrae-identifies-the-attacker-as-a-dual-national-18-year-old-iranian-german-who-apparen.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 Munich shooting: Munich Police Chief Hubertus Andrae identifies the attacker as a dual national, 18-year-old Iranian-German who apparently acted alone. He was found dead of a suspected self-inflicted gunshot wound to his head. ](/news/2016/07/23/2016-munich-shooting-munich-police-chief-hubertus-andrae-identifies-the-attacker-as-a-dual-national-18-year-old-iranian-german-who-apparen.md) _2018-02-06 13:49:29 (First version)_
 1. [Munich Police Chief Hubertus Andrae identifies the attacker as a dual national, 18-year-old Iranian-German who apparently acted alone. He was found dead of a suspected self-inflicted gunshot wound to his head. ](/news/2016/07/23/munich-police-chief-hubertus-andrae-identifies-the-attacker-as-a-dual-national-18-year-old-iranian-german-who-apparently-acted-alone-he-wa.md) _(Current version)_
 
 ### Related:

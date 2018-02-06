@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-th
 
 ### Changes:
 
-1. [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2017-08-25 03:28:13 (First version)_
-2. [Politics of Japan:: Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2017-08-27 03:28:13 (Update)_
+1. [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2018-02-06 13:49:20 (First version)_
+2. [Politics of Japan:: Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2018-02-06 13:49:20 (Update)_
 2. [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _(Current version)_
 
 ### Related:

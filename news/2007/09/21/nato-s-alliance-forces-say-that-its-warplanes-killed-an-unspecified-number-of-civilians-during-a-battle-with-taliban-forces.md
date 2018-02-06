@@ -17,9 +17,9 @@ NATO&#039;s alliance force in Afghanistan says its warplanes killed an unspecifi
 
 ### Changes:
 
-1. [ War in Afghanistan: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-p-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban.md) _2017-05-25 03:21:30 (First version)_
-2. [ War in Afghanistan: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-p-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-f.md) _2017-08-25 03:21:02 (Update)_
-3. [ War in Afghanistan:: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-f.md) _2017-08-27 03:20:58 (Update)_
+1. [ War in Afghanistan: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-p-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Afghanistan: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-p-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-f.md) _2018-02-06 13:49:18 (Update)_
+3. [ War in Afghanistan:: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-f.md) _2018-02-06 13:49:18 (Update)_
 3. [ NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-forces.md) _(Current version)_
 
 ### Related:

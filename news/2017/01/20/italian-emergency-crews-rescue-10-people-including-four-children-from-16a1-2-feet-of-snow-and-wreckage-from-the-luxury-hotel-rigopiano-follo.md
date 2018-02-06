@@ -16,7 +16,7 @@ Among the people pulled out alive was a plucky 6-year-old who just wanted her fa
 
 ### Changes:
 
-1. [2017 Rigopiano avalanche: Italian emergency crews rescue 10 people, including four children, from 161-2 feet of snow and wreckage from the luxury Hotel Rigopiano following yesterday's Gran Sasso mountain avalanche. Searchers find four bodies, while families of at least 16 people still missing wait for news. ](/news/2017/01/20/2017-rigopiano-avalanche-italian-emergency-crews-rescue-10-people-including-four-children-from-16a1-2-feet-of-snow-and-wreckage-from-the-lu.md) _2017-08-27 03:47:39 (First version)_
+1. [2017 Rigopiano avalanche: Italian emergency crews rescue 10 people, including four children, from 161-2 feet of snow and wreckage from the luxury Hotel Rigopiano following yesterday's Gran Sasso mountain avalanche. Searchers find four bodies, while families of at least 16 people still missing wait for news. ](/news/2017/01/20/2017-rigopiano-avalanche-italian-emergency-crews-rescue-10-people-including-four-children-from-16a1-2-feet-of-snow-and-wreckage-from-the-lu.md) _2018-02-06 13:49:30 (First version)_
 1. [Italian emergency crews rescue 10 people, including four children, from 161/2 feet of snow and wreckage from the luxury Hotel Rigopiano following yesterday's Gran Sasso mountain avalanche. Searchers find four bodies, while families of at least 16 people still missing wait for news. ](/news/2017/01/20/italian-emergency-crews-rescue-10-people-including-four-children-from-16a1-2-feet-of-snow-and-wreckage-from-the-luxury-hotel-rigopiano-follo.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Argentine police have seized a cache of Nazi artefacts hidden behind a library i
 
 ### Changes:
 
-1. [Nazi plunder: A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/nazi-plunder-a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _2017-08-27 03:48:31 (First version)_
+1. [Nazi plunder: A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/nazi-plunder-a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _2018-02-06 13:49:30 (First version)_
 1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _(Current version)_
 
 ### Related:

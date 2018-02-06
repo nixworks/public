@@ -17,7 +17,7 @@ Chinese military will carry out three days of exercises close to disputed territ
 
 ### Changes:
 
-1. [Cross-Strait relations: The People's Liberation Army of China holds three days of live-fire drills in the Taiwan Strait, while Taiwan holds exercises simulating Chinese submarines attacking Kinmen and being repelled by Taiwanese amphibious forces. ](/news/2015/09/11/cross-strait-relations-the-people-s-liberation-army-of-china-holds-three-days-of-live-fire-drills-in-the-taiwan-strait-while-taiwan-holds.md) _2017-08-27 03:43:01 (First version)_
+1. [Cross-Strait relations: The People's Liberation Army of China holds three days of live-fire drills in the Taiwan Strait, while Taiwan holds exercises simulating Chinese submarines attacking Kinmen and being repelled by Taiwanese amphibious forces. ](/news/2015/09/11/cross-strait-relations-the-people-s-liberation-army-of-china-holds-three-days-of-live-fire-drills-in-the-taiwan-strait-while-taiwan-holds.md) _2018-02-06 13:49:27 (First version)_
 1. [The People's Liberation Army of China holds three days of live-fire drills in the Taiwan Strait, while Taiwan holds exercises simulating Chinese submarines attacking Kinmen and being repelled by Taiwanese amphibious forces. ](/news/2015/09/11/the-people-s-liberation-army-of-china-holds-three-days-of-live-fire-drills-in-the-taiwan-strait-while-taiwan-holds-exercises-simulating-chi.md) _(Current version)_
 
 ### Related:

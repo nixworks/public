@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit
 
 ### Changes:
 
-1. [Vietnam-s credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnam-s-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md) _2017-08-27 03:31:40 (First version)_
+1. [Vietnam-s credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnam-s-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md) _2018-02-06 13:49:21 (First version)_
 1. [Vietnam's credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md) _(Current version)_
 
 ### Related:

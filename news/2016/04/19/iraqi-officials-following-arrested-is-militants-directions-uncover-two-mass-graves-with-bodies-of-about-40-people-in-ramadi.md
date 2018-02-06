@@ -16,7 +16,7 @@ Iraqi officials say police have unearthed two mass graves in the western city of
 
 ### Changes:
 
-1. [Iraqi Civil War: Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-civil-war-iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ram.md) _2017-08-27 03:45:41 (First version)_
+1. [Iraqi Civil War: Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-civil-war-iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ram.md) _2018-02-06 13:49:28 (First version)_
 1. [Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ramadi.md) _(Current version)_
 
 ### Related:

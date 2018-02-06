@@ -16,7 +16,7 @@ The suspect, a Belgian of Moroccan origin, was arrested in the port city of Moha
 
 ### Changes:
 
-1. [November 2015 Paris attacks: A man linked to the Paris attacks is arrested in Mohammedia, Morocco. ](/news/2016/01/18/november-2015-paris-attacks-a-man-linked-to-the-paris-attacks-is-arrested-in-mohammedia-morocco.md) _2017-08-27 03:44:43 (First version)_
+1. [November 2015 Paris attacks: A man linked to the Paris attacks is arrested in Mohammedia, Morocco. ](/news/2016/01/18/november-2015-paris-attacks-a-man-linked-to-the-paris-attacks-is-arrested-in-mohammedia-morocco.md) _2018-02-06 13:49:28 (First version)_
 1. [A man linked to the Paris attacks is arrested in Mohammedia, Morocco. ](/news/2016/01/18/a-man-linked-to-the-paris-attacks-is-arrested-in-mohammedia-morocco.md) _(Current version)_
 
 ### Related:

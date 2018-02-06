@@ -15,8 +15,8 @@ The evacuations raise hopes ahed of a second round of peace talks
 
 ### Changes:
 
-1. [Syrian Civil War:Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/syrian-civil-war-pcivilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-blo.md) _2017-08-25 03:39:58 (First version)_
-2. [Syrian Civil War:: Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/syrian-civil-war-civilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-bl.md) _2017-08-27 03:40:17 (Update)_
+1. [Syrian Civil War:Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/syrian-civil-war-pcivilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-blo.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/syrian-civil-war-civilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-bl.md) _2018-02-06 13:49:25 (Update)_
 2. [Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/civilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-blockade.md) _(Current version)_
 
 ### Related:

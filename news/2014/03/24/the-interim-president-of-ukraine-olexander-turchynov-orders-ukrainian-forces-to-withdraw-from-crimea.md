@@ -17,8 +17,8 @@ Ukrainian troops are leaving Crimea, after emotional farewells to wives and fami
 
 ### Changes:
 
-1. [2014 Crimean crisis:The interim President of Ukraine Olexander Turchynov orders Ukrainian forces to withdraw from Crimea. ](/news/2014/03/24/2014-crimean-crisis-pthe-interim-president-of-ukraine-olexander-turchynov-orders-ukrainian-forces-to-withdraw-from-crimea.md) _2017-08-25 03:40:12 (First version)_
-2. [2014 Crimean crisis:: The interim President of Ukraine Olexander Turchynov orders Ukrainian forces to withdraw from Crimea. ](/news/2014/03/24/2014-crimean-crisis-the-interim-president-of-ukraine-olexander-turchynov-orders-ukrainian-forces-to-withdraw-from-crimea.md) _2017-08-27 03:40:30 (Update)_
+1. [2014 Crimean crisis:: The interim President of Ukraine Olexander Turchynov orders Ukrainian forces to withdraw from Crimea. ](/news/2014/03/24/2014-crimean-crisis-the-interim-president-of-ukraine-olexander-turchynov-orders-ukrainian-forces-to-withdraw-from-crimea.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:The interim President of Ukraine Olexander Turchynov orders Ukrainian forces to withdraw from Crimea. ](/news/2014/03/24/2014-crimean-crisis-pthe-interim-president-of-ukraine-olexander-turchynov-orders-ukrainian-forces-to-withdraw-from-crimea.md) _2018-02-06 13:49:26 (Update)_
 2. [The interim President of Ukraine Olexander Turchynov orders Ukrainian forces to withdraw from Crimea. ](/news/2014/03/24/the-interim-president-of-ukraine-olexander-turchynov-orders-ukrainian-forces-to-withdraw-from-crimea.md) _(Current version)_
 
 ### Related:

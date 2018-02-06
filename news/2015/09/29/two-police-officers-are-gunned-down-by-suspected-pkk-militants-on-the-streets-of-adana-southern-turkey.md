@@ -16,7 +16,7 @@ The attack comes the same day a pro-Kurdish news agency was raided by Turkish po
 
 ### Changes:
 
-1. [Turkey-PKK conflict: 2015 PKK rebellion: Two police officers are gunned down by suspected PKK militants on the streets of Adana, southern Turkey. ](/news/2015/09/29/turkey-pkk-conflict-2015-pkk-rebellion-two-police-officers-are-gunned-down-by-suspected-pkk-militants-on-the-streets-of-adana-southern.md) _2017-08-27 03:43:11 (First version)_
+1. [Turkey-PKK conflict: 2015 PKK rebellion: Two police officers are gunned down by suspected PKK militants on the streets of Adana, southern Turkey. ](/news/2015/09/29/turkey-pkk-conflict-2015-pkk-rebellion-two-police-officers-are-gunned-down-by-suspected-pkk-militants-on-the-streets-of-adana-southern.md) _2018-02-06 13:49:27 (First version)_
 1. [Two police officers are gunned down by suspected PKK militants on the streets of Adana, southern Turkey. ](/news/2015/09/29/two-police-officers-are-gunned-down-by-suspected-pkk-militants-on-the-streets-of-adana-southern-turkey.md) _(Current version)_
 
 ### Related:

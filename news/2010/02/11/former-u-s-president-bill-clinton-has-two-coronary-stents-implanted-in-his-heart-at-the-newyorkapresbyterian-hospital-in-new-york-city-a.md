@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coron
 
 ### Changes:
 
-1. [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyork-presbyterian-hospital-in-new-york-city-a.md) _2017-08-27 03:27:02 (First version)_
+1. [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyork-presbyterian-hospital-in-new-york-city-a.md) _2018-02-06 13:49:19 (First version)_
 1. [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md) _(Current version)_
 
 ### Related:

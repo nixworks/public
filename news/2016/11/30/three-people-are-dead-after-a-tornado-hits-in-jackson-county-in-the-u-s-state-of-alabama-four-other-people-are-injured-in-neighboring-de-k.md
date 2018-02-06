@@ -17,7 +17,7 @@ Three people are dead after storms moved through Rosalie early Wednesday morning
 
 ### Changes:
 
-1. [Tornadoes of 2016: Three people are dead after a tornado hits in Jackson County in the U.S. state of Alabama. Four other people are injured in neighboring De Kalb County. ](/news/2016/11/30/tornadoes-of-2016-three-people-are-dead-after-a-tornado-hits-in-jackson-county-in-the-u-s-state-of-alabama-four-other-people-are-injured.md) _2017-08-27 03:47:21 (First version)_
+1. [Tornadoes of 2016: Three people are dead after a tornado hits in Jackson County in the U.S. state of Alabama. Four other people are injured in neighboring De Kalb County. ](/news/2016/11/30/tornadoes-of-2016-three-people-are-dead-after-a-tornado-hits-in-jackson-county-in-the-u-s-state-of-alabama-four-other-people-are-injured.md) _2018-02-06 13:49:29 (First version)_
 1. [Three people are dead after a tornado hits in Jackson County in the U.S. state of Alabama. Four other people are injured in neighboring De Kalb County. ](/news/2016/11/30/three-people-are-dead-after-a-tornado-hits-in-jackson-county-in-the-u-s-state-of-alabama-four-other-people-are-injured-in-neighboring-de-k.md) _(Current version)_
 
 ### Related:

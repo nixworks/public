@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/09/21/the-leaders-of-thailand-s-coup-ban-all-meetings
 
 ### Changes:
 
-1. [ Thailand coup d'tat: The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/thailand-coup-d-etat-p-the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-pow.md) _2017-08-25 03:18:27 (First version)_
-2. [ Thailand coup d'tat:: The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/thailand-coup-d-etat-the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-pow.md) _2017-08-27 03:18:21 (Update)_
+1. [ Thailand coup d'tat:: The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/thailand-coup-d-etat-the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-pow.md) _2018-02-06 13:49:17 (First version)_
+2. [ Thailand coup d'tat: The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/thailand-coup-d-etat-p-the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-pow.md) _2018-02-06 13:49:17 (Update)_
 2. [ The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-power.md) _(Current version)_
 
 ### Related:

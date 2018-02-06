@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-dispute
 
 ### Changes:
 
-1. [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal {{convert|50|nmi|km|abbr=on}} west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-convert-50-nmi-km-abbr-on-west-of-st-martin-s-island.md) _2017-05-01 03:27:21 (First version)_
-2. [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50|nmi|km|abbr=on west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-km-abbr-on-west-of-st-martin-s-island.md) _2017-08-29 03:26:10 (Update)_
+1. [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal {{convert|50|nmi|km|abbr=on}} west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-convert-50-nmi-km-abbr-on-west-of-st-martin-s-island.md) _2018-02-06 13:49:19 (First version)_
+2. [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50|nmi|km|abbr=on west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-km-abbr-on-west-of-st-martin-s-island.md) _2018-02-06 13:49:19 (Update)_
 2. [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50 nmi west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-west-of-st-martin-s-island.md) _(Current version)_
 
 ### Related:

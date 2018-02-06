@@ -11,7 +11,7 @@ Formats: [HTML](/news/2001/07/2/the-world-s-first-self-contained-artificial-hear
 
 ### Changes:
 
-1. [ The world's first self-contained artificial heart is implanted in Robert Pools.](/news/2001/07/2/the-world-s-first-self-contained-artificial-heart-is-implanted-in-robert-pools.md) _2017-09-12 03:15:10 (First version)_
+1. [ The world's first self-contained artificial heart is implanted in Robert Pools.](/news/2001/07/2/the-world-s-first-self-contained-artificial-heart-is-implanted-in-robert-pools.md) _2018-02-06 13:49:15 (First version)_
 1. [ The world's first self-contained artificial heart is implanted in Robert Tools.](/news/2001/07/2/the-world-s-first-self-contained-artificial-heart-is-implanted-in-robert-tools.md) _(Current version)_
 
 ### Related:

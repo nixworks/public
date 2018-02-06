@@ -18,7 +18,7 @@ Japan&#039;s prime minister draws criticism from China and South Korea over his 
 
 ### Changes:
 
-1. [Victory over Japan Day: Countries around the world commemorate the end of World War II. ](/news/2015/08/15/victory-over-japan-day-countries-around-the-world-commemorate-the-end-of-world-war-ii.md) _2017-08-27 03:42:50 (First version)_
+1. [Victory over Japan Day: Countries around the world commemorate the end of World War II. ](/news/2015/08/15/victory-over-japan-day-countries-around-the-world-commemorate-the-end-of-world-war-ii.md) _2018-02-06 13:49:27 (First version)_
 1. [Countries around the world commemorate the end of World War II. ](/news/2015/08/15/countries-around-the-world-commemorate-the-end-of-world-war-ii.md) _(Current version)_
 
 ### Related:

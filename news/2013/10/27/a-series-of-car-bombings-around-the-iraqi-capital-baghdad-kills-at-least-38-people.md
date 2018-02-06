@@ -16,7 +16,7 @@ Dozens of people are killed in car bombings in Baghdad and Mosul, security offic
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _2017-08-27 03:39:44 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _2018-02-06 13:49:25 (First version)_
 1. [A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _(Current version)_
 
 ### Related:

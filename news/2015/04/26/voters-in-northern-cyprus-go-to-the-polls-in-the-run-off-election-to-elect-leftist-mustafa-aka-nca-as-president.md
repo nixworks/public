@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/26/voters-in-northern-cyprus-go-to-the-polls-in-th
 
 ### Changes:
 
-1. [Northern Cyprus presidential election, 2015: Voters in Northern Cyprus go to the polls in the run-off election to elect leftist Mustafa Akinci as president. ](/news/2015/04/26/northern-cyprus-presidential-election-2015-voters-in-northern-cyprus-go-to-the-polls-in-the-run-off-election-to-elect-leftist-mustafa-aka.md) _2017-08-27 03:42:15 (First version)_
+1. [Northern Cyprus presidential election, 2015: Voters in Northern Cyprus go to the polls in the run-off election to elect leftist Mustafa Akinci as president. ](/news/2015/04/26/northern-cyprus-presidential-election-2015-voters-in-northern-cyprus-go-to-the-polls-in-the-run-off-election-to-elect-leftist-mustafa-aka.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Northern Cyprus go to the polls in the run-off election to elect leftist Mustafa Akinci as president. ](/news/2015/04/26/voters-in-northern-cyprus-go-to-the-polls-in-the-run-off-election-to-elect-leftist-mustafa-aka-nca-as-president.md) _(Current version)_
 
 ### Related:

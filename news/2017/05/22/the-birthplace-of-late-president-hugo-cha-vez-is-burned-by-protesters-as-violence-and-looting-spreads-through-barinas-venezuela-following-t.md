@@ -16,7 +16,7 @@ Protesters set fire to late President Hugo Chavez&apos;s childhood home in weste
 
 ### Changes:
 
-1. [2017 Venezuelan protests: The birthplace of late President Hugo Chavez is burned by protesters as violence and looting spreads through Barinas, Venezuela following the death of a protester. ](/news/2017/05/22/2017-venezuelan-protests-the-birthplace-of-late-president-hugo-cha-vez-is-burned-by-protesters-as-violence-and-looting-spreads-through-bari.md) _2017-08-27 03:48:22 (First version)_
+1. [2017 Venezuelan protests: The birthplace of late President Hugo Chavez is burned by protesters as violence and looting spreads through Barinas, Venezuela following the death of a protester. ](/news/2017/05/22/2017-venezuelan-protests-the-birthplace-of-late-president-hugo-cha-vez-is-burned-by-protesters-as-violence-and-looting-spreads-through-bari.md) _2018-02-06 13:49:30 (First version)_
 1. [The birthplace of late President Hugo Chavez is burned by protesters as violence and looting spreads through Barinas, Venezuela following the death of a protester. ](/news/2017/05/22/the-birthplace-of-late-president-hugo-cha-vez-is-burned-by-protesters-as-violence-and-looting-spreads-through-barinas-venezuela-following-t.md) _(Current version)_
 
 ### Related:

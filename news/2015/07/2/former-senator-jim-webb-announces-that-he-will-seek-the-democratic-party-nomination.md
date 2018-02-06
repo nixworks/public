@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/2/former-senator-jim-webb-announces-that-he-will-s
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former Senator Jim Webb announces that he will seek the Democratic Party nomination. ](/news/2015/07/2/united-states-presidential-election-2016-former-senator-jim-webb-announces-that-he-will-seek-the-democratic-party-nomination.md) _2017-08-27 03:42:38 (First version)_
+1. [United States presidential election, 2016: Former Senator Jim Webb announces that he will seek the Democratic Party nomination. ](/news/2015/07/2/united-states-presidential-election-2016-former-senator-jim-webb-announces-that-he-will-seek-the-democratic-party-nomination.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Senator Jim Webb announces that he will seek the Democratic Party nomination. ](/news/2015/07/2/former-senator-jim-webb-announces-that-he-will-seek-the-democratic-party-nomination.md) _(Current version)_
 
 ### Related:

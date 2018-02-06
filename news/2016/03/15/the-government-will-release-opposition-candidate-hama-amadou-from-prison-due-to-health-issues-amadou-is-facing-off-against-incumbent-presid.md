@@ -16,7 +16,7 @@ Authorities in Niger will attempt to evacuate to a hospital in the capital jaile
 
 ### Changes:
 
-1. [Nigerien general election, 2016: The government will release opposition candidate Hama Amadou from prison due to health issues. Amadou is facing off against incumbent President of Niger Mahamadou Issoufou in the second round of voting on Sunday. ](/news/2016/03/15/nigerien-general-election-2016-the-government-will-release-opposition-candidate-hama-amadou-from-prison-due-to-health-issues-amadou-is-fa.md) _2017-08-27 03:45:15 (First version)_
+1. [Nigerien general election, 2016: The government will release opposition candidate Hama Amadou from prison due to health issues. Amadou is facing off against incumbent President of Niger Mahamadou Issoufou in the second round of voting on Sunday. ](/news/2016/03/15/nigerien-general-election-2016-the-government-will-release-opposition-candidate-hama-amadou-from-prison-due-to-health-issues-amadou-is-fa.md) _2018-02-06 13:49:28 (First version)_
 1. [The government will release opposition candidate Hama Amadou from prison due to health issues. Amadou is facing off against incumbent President of Niger Mahamadou Issoufou in the second round of voting on Sunday. ](/news/2016/03/15/the-government-will-release-opposition-candidate-hama-amadou-from-prison-due-to-health-issues-amadou-is-facing-off-against-incumbent-presid.md) _(Current version)_
 
 ### Related:

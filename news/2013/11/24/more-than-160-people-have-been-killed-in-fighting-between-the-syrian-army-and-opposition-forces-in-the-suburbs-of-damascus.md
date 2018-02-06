@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/24/more-than-160-people-have-been-killed-in-fighti
 
 ### Changes:
 
-1. [Syrian civil war:More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/syrian-civil-war-pmore-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascus.md) _2017-08-25 03:39:34 (First version)_
-2. [Syrian civil war:: More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/syrian-civil-war-more-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascu.md) _2017-08-27 03:39:53 (Update)_
+1. [Syrian civil war:More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/syrian-civil-war-pmore-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascus.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/syrian-civil-war-more-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascu.md) _2018-02-06 13:49:25 (Update)_
 2. [More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/more-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascus.md) _(Current version)_
 
 ### Related:

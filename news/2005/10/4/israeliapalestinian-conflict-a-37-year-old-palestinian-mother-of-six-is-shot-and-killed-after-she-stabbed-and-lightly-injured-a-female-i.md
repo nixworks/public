@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/10/4/israeliapalestinian-conflict-a-37-year-old-pales
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: A 37-year-old Palestinian mother of six is shot and killed after she stabbed and lightly injured a female Israel Defense Forces soldier at the Hawara roadblock south of Nablus. No militant group claimed the attack, but it is known that the woman's brother was killed by the IDF at the beginning of the Al-Aqsa Intifada. ](/news/2005/10/4/israeli-palestinian-conflict-a-37-year-old-palestinian-mother-of-six-is-shot-and-killed-after-she-stabbed-and-lightly-injured-a-female-i.md) _2017-08-27 03:16:54 (First version)_
+1. [ Israeli-Palestinian Conflict: A 37-year-old Palestinian mother of six is shot and killed after she stabbed and lightly injured a female Israel Defense Forces soldier at the Hawara roadblock south of Nablus. No militant group claimed the attack, but it is known that the woman's brother was killed by the IDF at the beginning of the Al-Aqsa Intifada. ](/news/2005/10/4/israeli-palestinian-conflict-a-37-year-old-palestinian-mother-of-six-is-shot-and-killed-after-she-stabbed-and-lightly-injured-a-female-i.md) _2018-02-06 13:49:16 (First version)_
 1. [ Israeli-Palestinian Conflict: A 37-year-old Palestinian mother of six is shot and killed after she stabbed and lightly injured a female Israel Defense Forces soldier at the Hawara roadblock south of Nablus. No militant group claimed the attack, but it is known that the woman's brother was killed by the IDF at the beginning of the Al-Aqsa Intifada. ](/news/2005/10/4/israeliapalestinian-conflict-a-37-year-old-palestinian-mother-of-six-is-shot-and-killed-after-she-stabbed-and-lightly-injured-a-female-i.md) _(Current version)_
 
 ### Related:

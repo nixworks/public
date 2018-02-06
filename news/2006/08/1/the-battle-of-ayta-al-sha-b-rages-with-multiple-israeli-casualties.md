@@ -19,7 +19,7 @@ Formats: [HTML](/news/2006/08/1/the-battle-of-ayta-al-sha-b-rages-with-multiple-
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. ](/news/2006/08/1/2006-israel-lebanon-conflict-the-battle-of-ayta-al-sha-b-rages-with-multiple-israeli-casualties.md) _2017-08-27 03:18:05 (First version)_
+1. [ 2006 Israel-Lebanon conflict: The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. ](/news/2006/08/1/2006-israel-lebanon-conflict-the-battle-of-ayta-al-sha-b-rages-with-multiple-israeli-casualties.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. ](/news/2006/08/1/the-battle-of-ayta-al-sha-b-rages-with-multiple-israeli-casualties.md) _(Current version)_
 
 ### Related:

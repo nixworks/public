@@ -17,7 +17,7 @@ The dead and injured were shifted to Civil Hospital Jacobabad, where an emergenc
 
 ### Changes:
 
-1. [War in North-West Pakistan: A bomb detonates in a Muharram procession in Jacobabad killing twenty-four people, including 10 children & 6 women and several others injured. ](/news/2015/10/23/war-in-north-west-pakistan-a-bomb-detonates-in-a-muharram-procession-in-jacobabad-killing-twenty-four-people-including-10-children-6-wom.md) _2017-08-27 03:43:28 (First version)_
+1. [War in North-West Pakistan: A bomb detonates in a Muharram procession in Jacobabad killing twenty-four people, including 10 children & 6 women and several others injured. ](/news/2015/10/23/war-in-north-west-pakistan-a-bomb-detonates-in-a-muharram-procession-in-jacobabad-killing-twenty-four-people-including-10-children-6-wom.md) _2018-02-06 13:49:28 (First version)_
 1. [A bomb detonates in a Muharram procession in Jacobabad killing twenty-four people, including 10 children & 6 women and several others injured. ](/news/2015/10/23/a-bomb-detonates-in-a-muharram-procession-in-jacobabad-killing-twenty-four-people-including-10-children-6-women-and-several-others-injure.md) _(Current version)_
 
 ### Related:

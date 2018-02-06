@@ -17,7 +17,7 @@ A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot
 
 ### Changes:
 
-1. [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid ''The Sun'' about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-a.md) _2017-08-25 03:38:47 (First version)_
+1. [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid ''The Sun'' about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-a.md) _2018-02-06 13:49:25 (First version)_
 1. [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid "The Sun" about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-abo.md) _(Current version)_
 
 ### Related:

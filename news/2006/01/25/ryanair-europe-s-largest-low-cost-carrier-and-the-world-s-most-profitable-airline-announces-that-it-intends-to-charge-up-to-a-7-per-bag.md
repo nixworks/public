@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/25/ryanair-europe-s-largest-low-cost-carrier-and-t
 
 ### Changes:
 
-1. [ Ryanair, Europe's largest low-cost carrier, and the world's most profitable airline, announces that it intends to charge up to -7 per bag checked in by customers. In return, the airline fares will drop by 9%. ](/news/2006/01/25/ryanair-europe-s-largest-low-cost-carrier-and-the-world-s-most-profitable-airline-announces-that-it-intends-to-charge-up-to-7-per-bag.md) _2017-08-27 03:17:23 (First version)_
+1. [ Ryanair, Europe's largest low-cost carrier, and the world's most profitable airline, announces that it intends to charge up to -7 per bag checked in by customers. In return, the airline fares will drop by 9%. ](/news/2006/01/25/ryanair-europe-s-largest-low-cost-carrier-and-the-world-s-most-profitable-airline-announces-that-it-intends-to-charge-up-to-7-per-bag.md) _2018-02-06 13:49:16 (First version)_
 1. [ Ryanair, Europe's largest low-cost carrier, and the world's most profitable airline, announces that it intends to charge up to EUR7 per bag checked in by customers. In return, the airline fares will drop by 9%. ](/news/2006/01/25/ryanair-europe-s-largest-low-cost-carrier-and-the-world-s-most-profitable-airline-announces-that-it-intends-to-charge-up-to-a-7-per-bag.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-
 
 ### Changes:
 
-1. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-at-the-age-of-69.md) _2017-11-28 00:30:05 (First version)_
-2. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69.md) _2017-11-29 22:30:05 (Update)_
+1. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69.md) _2018-02-06 13:49:31 (First version)_
+2. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-at-the-age-of-69.md) _2018-02-06 13:49:31 (Update)_
 2. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69, few days after the death of the Attorney General of the State. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69-few-days-aft.md) _(Current version)_
 
 ### Related:

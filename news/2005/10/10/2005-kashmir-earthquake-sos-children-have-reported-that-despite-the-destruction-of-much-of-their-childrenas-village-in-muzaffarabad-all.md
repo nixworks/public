@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-repor
 
 ### Changes:
 
-1. [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children-s Village in Muzaffarabad all of the children in their care are believed safe. [http:--www.sos-childrensvillages.org-News-and-Media-News-Pages-Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-children-s-village-in-muzaffarabad-all.md) _2017-08-27 03:16:56 (First version)_
+1. [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children-s Village in Muzaffarabad all of the children in their care are believed safe. [http:--www.sos-childrensvillages.org-News-and-Media-News-Pages-Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-children-s-village-in-muzaffarabad-all.md) _2018-02-06 13:49:16 (First version)_
 1. [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children's Village in Muzaffarabad all of the children in their care are believed safe. [http:--www.sos-childrensvillages.org-News-and-Media-News-Pages-Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-childrenas-village-in-muzaffarabad-all.md) _(Current version)_
 
 ### Related:

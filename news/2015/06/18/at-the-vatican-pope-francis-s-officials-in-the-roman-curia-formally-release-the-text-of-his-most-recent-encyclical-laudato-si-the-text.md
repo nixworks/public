@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/06/18/at-the-vatican-pope-francis-s-officials-in-the-
 
 ### Changes:
 
-1. [At the Vatican, Pope Francis's officials in the Roman Curia formally release the text of his most recent encyclical, ''Laudato si'''. The text, which had been quite anticipated by many sides on the climate change debate and been criticized by some for his involvement in the politicized and charged issue, had been previously leaked. ](/news/2015/06/18/at-the-vatican-pope-francis-s-officials-in-the-roman-curia-formally-release-the-text-of-his-most-recent-encyclical-laudato-si-the-te.md) _2017-08-25 03:42:15 (First version)_
+1. [At the Vatican, Pope Francis's officials in the Roman Curia formally release the text of his most recent encyclical, ''Laudato si'''. The text, which had been quite anticipated by many sides on the climate change debate and been criticized by some for his involvement in the politicized and charged issue, had been previously leaked. ](/news/2015/06/18/at-the-vatican-pope-francis-s-officials-in-the-roman-curia-formally-release-the-text-of-his-most-recent-encyclical-laudato-si-the-te.md) _2018-02-06 13:49:27 (First version)_
 1. [At the Vatican, Pope Francis's officials in the Roman Curia formally release the text of his most recent encyclical, "Laudato si"'. The text, which had been quite anticipated by many sides on the climate change debate and been criticized by some for his involvement in the politicized and charged issue, had been previously leaked. ](/news/2015/06/18/at-the-vatican-pope-francis-s-officials-in-the-roman-curia-formally-release-the-text-of-his-most-recent-encyclical-laudato-si-the-text.md) _(Current version)_
 
 ### Related:

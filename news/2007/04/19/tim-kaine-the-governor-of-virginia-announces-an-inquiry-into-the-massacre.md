@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/04/19/tim-kaine-the-governor-of-virginia-announces-an
 
 ### Changes:
 
-1. [ Virginia Tech massacre: Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-p-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _2017-08-25 03:19:38 (First version)_
-2. [ Virginia Tech massacre:: Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _2017-08-27 03:19:35 (Update)_
+1. [ Virginia Tech massacre:: Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _2018-02-06 13:49:17 (First version)_
+2. [ Virginia Tech massacre: Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-p-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _2018-02-06 13:49:17 (Update)_
 2. [ Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _(Current version)_
 
 ### Related:

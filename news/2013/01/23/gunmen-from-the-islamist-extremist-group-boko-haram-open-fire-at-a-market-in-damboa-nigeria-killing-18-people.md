@@ -21,8 +21,8 @@ Five people were hacked to death on Wednesday in Maiduguri in northeastern Niger
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-pgunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md) _2017-08-25 03:37:19 (First version)_
-2. [Nigerian Sharia conflict:: Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md) _2017-08-27 03:37:29 (Update)_
+1. [Nigerian Sharia conflict:Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-pgunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md) _(Current version)_
 
 ### Related:

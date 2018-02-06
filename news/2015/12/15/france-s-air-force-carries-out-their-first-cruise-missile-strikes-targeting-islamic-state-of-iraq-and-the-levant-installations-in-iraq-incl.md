@@ -16,7 +16,7 @@ The French air force used its first cruise missiles against Islamic State group 
 
 ### Changes:
 
-1. [Military intervention against ISIL: France's Air Force carries out their first cruise-missile strikes targeting Islamic State of Iraq and the Levant installations in Iraq, including -a training center and logistical depot,- according to the French defence ministry. ](/news/2015/12/15/military-intervention-against-isil-france-s-air-force-carries-out-their-first-cruise-missile-strikes-targeting-islamic-state-of-iraq-and-th.md) _2017-08-27 03:44:22 (First version)_
+1. [Military intervention against ISIL: France's Air Force carries out their first cruise-missile strikes targeting Islamic State of Iraq and the Levant installations in Iraq, including -a training center and logistical depot,- according to the French defence ministry. ](/news/2015/12/15/military-intervention-against-isil-france-s-air-force-carries-out-their-first-cruise-missile-strikes-targeting-islamic-state-of-iraq-and-th.md) _2018-02-06 13:49:28 (First version)_
 1. [France's Air Force carries out their first cruise-missile strikes targeting Islamic State of Iraq and the Levant installations in Iraq, including "a training center and logistical depot," according to the French defence ministry. ](/news/2015/12/15/france-s-air-force-carries-out-their-first-cruise-missile-strikes-targeting-islamic-state-of-iraq-and-the-levant-installations-in-iraq-incl.md) _(Current version)_
 
 ### Related:

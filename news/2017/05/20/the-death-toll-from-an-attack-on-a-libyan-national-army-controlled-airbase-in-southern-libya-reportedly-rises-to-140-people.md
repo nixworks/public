@@ -16,7 +16,7 @@ Most of those reportedly killed are linked to a faction allied to self-styled ge
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/libyan-civil-war-2014-present-the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-r.md) _2017-08-27 03:48:21 (First version)_
+1. [Libyan Civil War (2014-present): The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/libyan-civil-war-2014-present-the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-r.md) _2018-02-06 13:49:30 (First version)_
 1. [The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-rises-to-140-people.md) _(Current version)_
 
 ### Related:

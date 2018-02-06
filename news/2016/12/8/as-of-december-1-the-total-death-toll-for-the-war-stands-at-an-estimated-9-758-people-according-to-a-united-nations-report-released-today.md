@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/12/8/as-of-december-1-the-total-death-toll-for-the-wa
 
 ### Changes:
 
-1. [War in Donbass: As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. ](/news/2016/12/8/war-in-donbass-as-of-december-1-the-total-death-toll-for-the-war-stands-at-an-estimated-9-758-people-according-to-a-united-nations-report.md) _2017-08-27 03:47:24 (First version)_
+1. [War in Donbass: As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. ](/news/2016/12/8/war-in-donbass-as-of-december-1-the-total-death-toll-for-the-war-stands-at-an-estimated-9-758-people-according-to-a-united-nations-report.md) _2018-02-06 13:49:30 (First version)_
 1. [As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. ](/news/2016/12/8/as-of-december-1-the-total-death-toll-for-the-war-stands-at-an-estimated-9-758-people-according-to-a-united-nations-report-released-today.md) _(Current version)_
 
 ### Related:

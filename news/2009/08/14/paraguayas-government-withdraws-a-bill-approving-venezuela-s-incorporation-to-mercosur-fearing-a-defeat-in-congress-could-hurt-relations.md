@@ -16,7 +16,7 @@ Paraguay&#039;s government withdrew a bill that would approve the incorporation 
 
 ### Changes:
 
-1. [ Paraguay-s government withdraws a bill approving Venezuela's incorporation to Mercosur, fearing a defeat in Congress could hurt relations between the two countries. ](/news/2009/08/14/paraguay-s-government-withdraws-a-bill-approving-venezuela-s-incorporation-to-mercosur-fearing-a-defeat-in-congress-could-hurt-relations.md) _2017-08-27 03:25:21 (First version)_
+1. [ Paraguay-s government withdraws a bill approving Venezuela's incorporation to Mercosur, fearing a defeat in Congress could hurt relations between the two countries. ](/news/2009/08/14/paraguay-s-government-withdraws-a-bill-approving-venezuela-s-incorporation-to-mercosur-fearing-a-defeat-in-congress-could-hurt-relations.md) _2018-02-06 13:49:19 (First version)_
 1. [ Paraguay's government withdraws a bill approving Venezuela's incorporation to Mercosur, fearing a defeat in Congress could hurt relations between the two countries. ](/news/2009/08/14/paraguayas-government-withdraws-a-bill-approving-venezuela-s-incorporation-to-mercosur-fearing-a-defeat-in-congress-could-hurt-relations.md) _(Current version)_
 
 ### Related:

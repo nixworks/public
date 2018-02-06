@@ -17,8 +17,8 @@ Twelve suspected gang members and two soldiers have been killed in a shootout be
 
 ### Changes:
 
-1. [Mexican Drug War:14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-p14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md) _2017-08-25 03:31:46 (First version)_
-2. [Mexican Drug War:: 14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md) _2017-08-27 03:31:54 (Update)_
+1. [Mexican Drug War:14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-p14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md) _2018-02-06 13:49:21 (First version)_
+2. [Mexican Drug War:: 14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md) _2018-02-06 13:49:21 (Update)_
 2. [14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md) _(Current version)_
 
 ### Related:

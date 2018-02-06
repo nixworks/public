@@ -16,8 +16,8 @@ BAGHDAD -- Multiple explosions rocked Baghdad on Wednesday, killing at least 32 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _2017-08-25 03:39:57 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _2017-08-27 03:40:16 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _2018-02-06 13:49:25 (Update)_
 2. [A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md) _(Current version)_
 
 ### Related:

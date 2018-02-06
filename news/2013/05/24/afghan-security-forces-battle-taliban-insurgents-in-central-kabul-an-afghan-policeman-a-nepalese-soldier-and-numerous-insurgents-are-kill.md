@@ -16,8 +16,8 @@ Afghan security forces battle Taliban insurgents for hours in central Kabul, fol
 
 ### Changes:
 
-1. [Afghanistan War:Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghanistan-war-pafghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous.md) _2017-08-25 03:38:43 (First version)_
-2. [Afghanistan War:: Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghanistan-war-afghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous-i.md) _2017-08-27 03:38:56 (Update)_
+1. [Afghanistan War:Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghanistan-war-pafghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous.md) _2018-02-06 13:49:24 (First version)_
+2. [Afghanistan War:: Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghanistan-war-afghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous-i.md) _2018-02-06 13:49:24 (Update)_
 2. [Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous-insurgents-are-kill.md) _(Current version)_
 
 ### Related:

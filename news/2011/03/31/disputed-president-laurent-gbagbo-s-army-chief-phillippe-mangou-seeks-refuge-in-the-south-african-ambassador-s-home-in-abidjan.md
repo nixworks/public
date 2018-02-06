@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/03/31/disputed-president-laurent-gbagbo-s-army-chief-
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010a2011-ivorian-crisis-pdisputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s-h.md) _2017-08-25 03:32:42 (First version)_
-2. [2010-2011 Ivorian crisis:: Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010-2011-ivorian-crisis-disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s.md) _2017-08-27 03:32:50 (Update)_
+1. [2010-2011 Ivorian crisis:Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010a2011-ivorian-crisis-pdisputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s-h.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis:: Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010-2011-ivorian-crisis-disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s.md) _2018-02-06 13:49:22 (Update)_
 2. [Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s-home-in-abidjan.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ The so-called Sand Fire north of Los Angeles was at 11,000 acres at noon Saturda
 
 ### Changes:
 
-1. [2016 California wildfires: A dead body is found in the area of the Sand Fire near Santa Clarita that has doubled in size to more than 22,000 acres. Officials order mandatory evacuations for 1,500 homes in Little Tujunga, Sand, and Placerita canyons. The South Coast Air Quality Management District issues an alert for unhealthy air quality in affected areas. ](/news/2016/07/24/2016-california-wildfires-a-dead-body-is-found-in-the-area-of-the-sand-fire-near-santa-clarita-that-has-doubled-in-size-to-more-than-22-000.md) _2017-08-27 03:46:32 (First version)_
+1. [2016 California wildfires: A dead body is found in the area of the Sand Fire near Santa Clarita that has doubled in size to more than 22,000 acres. Officials order mandatory evacuations for 1,500 homes in Little Tujunga, Sand, and Placerita canyons. The South Coast Air Quality Management District issues an alert for unhealthy air quality in affected areas. ](/news/2016/07/24/2016-california-wildfires-a-dead-body-is-found-in-the-area-of-the-sand-fire-near-santa-clarita-that-has-doubled-in-size-to-more-than-22-000.md) _2018-02-06 13:49:29 (First version)_
 1. [A dead body is found in the area of the Sand Fire near Santa Clarita that has doubled in size to more than 22,000 acres. Officials order mandatory evacuations for 1,500 homes in Little Tujunga, Sand, and Placerita canyons. The South Coast Air Quality Management District issues an alert for unhealthy air quality in affected areas. ](/news/2016/07/24/a-dead-body-is-found-in-the-area-of-the-sand-fire-near-santa-clarita-that-has-doubled-in-size-to-more-than-22-000-acres-officials-order-man.md) _(Current version)_
 
 ### Related:

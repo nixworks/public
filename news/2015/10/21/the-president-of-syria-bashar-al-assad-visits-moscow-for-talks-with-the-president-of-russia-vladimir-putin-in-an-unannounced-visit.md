@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-m
 
 ### Changes:
 
-1. [Syrian Civil War: The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/syrian-civil-war-the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounc.md) _2017-08-27 03:43:27 (First version)_
+1. [Syrian Civil War: The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/syrian-civil-war-the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounc.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md) _(Current version)_
 
 ### Related:

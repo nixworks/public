@@ -16,7 +16,7 @@ A car bomb kills at least nine people and wounds several others at a bus station
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): A car bombing at a bus station in central Baghdad kills at least nine people. ](/news/2014/01/12/iraqi-insurgency-post-u-s-withdrawal-a-car-bombing-at-a-bus-station-in-central-baghdad-kills-at-least-nine-people.md) _2017-08-27 03:40:09 (First version)_
+1. [Iraqi insurgency (post-U.S. withdrawal): A car bombing at a bus station in central Baghdad kills at least nine people. ](/news/2014/01/12/iraqi-insurgency-post-u-s-withdrawal-a-car-bombing-at-a-bus-station-in-central-baghdad-kills-at-least-nine-people.md) _2018-02-06 13:49:25 (First version)_
 1. [A car bombing at a bus station in central Baghdad kills at least nine people. ](/news/2014/01/12/a-car-bombing-at-a-bus-station-in-central-baghdad-kills-at-least-nine-people.md) _(Current version)_
 
 ### Related:

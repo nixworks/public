@@ -16,7 +16,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ### Changes:
 
-1. [ NASA launches Space Shuttle ''Atlantis'' on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carrier.md) _2017-08-25 03:26:22 (First version)_
+1. [ NASA launches Space Shuttle ''Atlantis'' on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carrier.md) _2018-02-06 13:49:19 (First version)_
 1. [ NASA launches Space Shuttle "Atlantis" on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carriers.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/08/17/the-financial-times-reports-that-sources-famili
 
 ### Changes:
 
-1. [The ''Financial Times'' reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-no.md) _2017-08-25 03:34:01 (First version)_
+1. [The ''Financial Times'' reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-no.md) _2018-02-06 13:49:22 (First version)_
 1. [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md) _(Current version)_
 
 ### Related:

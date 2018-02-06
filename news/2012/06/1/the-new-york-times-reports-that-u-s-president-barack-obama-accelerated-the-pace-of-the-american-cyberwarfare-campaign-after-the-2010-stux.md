@@ -17,7 +17,7 @@ Even after the Stuxnet computer worm became public, President Obama accelerated 
 
 ### Changes:
 
-1. [''The New York Times'' reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-st.md) _2017-08-25 03:35:47 (First version)_
+1. [''The New York Times'' reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-st.md) _2018-02-06 13:49:23 (First version)_
 1. ["The New York Times" reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-stux.md) _(Current version)_
 
 ### Related:

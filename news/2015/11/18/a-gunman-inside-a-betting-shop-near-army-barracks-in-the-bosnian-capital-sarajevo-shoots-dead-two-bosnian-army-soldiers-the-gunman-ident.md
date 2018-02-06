@@ -16,7 +16,7 @@ Two soldiers of the Bosnian army were shot dead late on Wednesday when an attack
 
 ### Changes:
 
-1. [2015 Sarajevo shooting: A gunman inside a betting shop near army barracks in the Bosnian capital, Sarajevo, shoots dead two Bosnian Army soldiers. The gunman, identified as Salafi extremist Enes Omeragic, later commits suicide after police surround his house. ](/news/2015/11/18/2015-sarajevo-shooting-a-gunman-inside-a-betting-shop-near-army-barracks-in-the-bosnian-capital-sarajevo-shoots-dead-two-bosnian-army-sol.md) _2017-08-27 03:43:55 (First version)_
+1. [2015 Sarajevo shooting: A gunman inside a betting shop near army barracks in the Bosnian capital, Sarajevo, shoots dead two Bosnian Army soldiers. The gunman, identified as Salafi extremist Enes Omeragic, later commits suicide after police surround his house. ](/news/2015/11/18/2015-sarajevo-shooting-a-gunman-inside-a-betting-shop-near-army-barracks-in-the-bosnian-capital-sarajevo-shoots-dead-two-bosnian-army-sol.md) _2018-02-06 13:49:28 (First version)_
 1. [A gunman inside a betting shop near army barracks in the Bosnian capital, Sarajevo, shoots dead two Bosnian Army soldiers. The gunman, identified as Salafi extremist Enes Omeragic, later commits suicide after police surround his house. ](/news/2015/11/18/a-gunman-inside-a-betting-shop-near-army-barracks-in-the-bosnian-capital-sarajevo-shoots-dead-two-bosnian-army-soldiers-the-gunman-ident.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Hosni Mubarak had temporarily handed over power to PM before his gallbladder ope
 
 ### Changes:
 
-1. [Hosni Mubarak:Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. ](/news/2010/03/6/hosni-mubarak-pegyptian-president-hosni-mubarak-temporarily-hands-over-power-due-to-surgery-on-his-gallbladder.md) _2017-08-25 03:27:17 (First version)_
-2. [Hosni Mubarak:: Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. ](/news/2010/03/6/hosni-mubarak-egyptian-president-hosni-mubarak-temporarily-hands-over-power-due-to-surgery-on-his-gallbladder.md) _2017-08-27 03:27:13 (Update)_
+1. [Hosni Mubarak:Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. ](/news/2010/03/6/hosni-mubarak-pegyptian-president-hosni-mubarak-temporarily-hands-over-power-due-to-surgery-on-his-gallbladder.md) _2018-02-06 13:49:19 (First version)_
+2. [Hosni Mubarak:: Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. ](/news/2010/03/6/hosni-mubarak-egyptian-president-hosni-mubarak-temporarily-hands-over-power-due-to-surgery-on-his-gallbladder.md) _2018-02-06 13:49:19 (Update)_
 2. [Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. ](/news/2010/03/6/egyptian-president-hosni-mubarak-temporarily-hands-over-power-due-to-surgery-on-his-gallbladder.md) _(Current version)_
 
 ### Related:

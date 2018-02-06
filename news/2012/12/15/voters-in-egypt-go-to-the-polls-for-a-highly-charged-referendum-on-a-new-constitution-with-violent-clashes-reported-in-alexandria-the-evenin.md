@@ -18,8 +18,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Changes:
 
-1. [Egyptian constitutional referendum, 2012:Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/egyptian-constitutional-referendum-2012-pvoters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violent.md) _2017-08-25 03:37:02 (First version)_
-2. [Egyptian constitutional referendum, 2012:: Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/egyptian-constitutional-referendum-2012-voters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violen.md) _2017-08-27 03:37:13 (Update)_
+1. [Egyptian constitutional referendum, 2012:: Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/egyptian-constitutional-referendum-2012-voters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violen.md) _2018-02-06 13:49:24 (First version)_
+2. [Egyptian constitutional referendum, 2012:Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/egyptian-constitutional-referendum-2012-pvoters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violent.md) _2018-02-06 13:49:24 (Update)_
 2. [Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/voters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violent-clashes-reported-in-alexandria-the-evenin.md) _(Current version)_
 
 ### Related:

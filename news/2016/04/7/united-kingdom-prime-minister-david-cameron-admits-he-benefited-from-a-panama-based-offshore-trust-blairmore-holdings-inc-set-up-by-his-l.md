@@ -18,7 +18,7 @@ PM sold stake in Blairmore investment fund, which featured in Panama Papers, for
 
 ### Changes:
 
-1. [Panama Papers: United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/panama-papers-united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc.md) _2017-08-27 03:45:31 (First version)_
+1. [Panama Papers: United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/panama-papers-united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc.md) _2018-02-06 13:49:29 (First version)_
 1. [United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.md) _(Current version)_
 
 ### Related:

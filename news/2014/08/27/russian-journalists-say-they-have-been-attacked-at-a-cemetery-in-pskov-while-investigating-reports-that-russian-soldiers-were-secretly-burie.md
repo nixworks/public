@@ -18,8 +18,8 @@ Journalists say they were attacked while investigating reports of the burial of 
 
 ### Changes:
 
-1. [War in Donbass:Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/war-in-donbass-prussian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-wer.md) _2017-08-25 03:40:54 (First version)_
-2. [War in Donbass:: Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/war-in-donbass-russian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-we.md) _2017-08-27 03:41:12 (Update)_
+1. [War in Donbass:: Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/war-in-donbass-russian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-we.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/war-in-donbass-prussian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-wer.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/russian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-were-secretly-burie.md) _(Current version)_
 
 ### Related:

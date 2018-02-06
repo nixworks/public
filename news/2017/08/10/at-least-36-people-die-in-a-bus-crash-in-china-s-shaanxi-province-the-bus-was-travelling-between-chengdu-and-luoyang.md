@@ -16,7 +16,7 @@ A passenger coach crashed into the wall of an expressway tunnel in China&#39;s n
 
 ### Changes:
 
-1. [Road incidents in China: At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/road-incidents-in-china-at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoya.md) _2017-08-27 03:48:47 (First version)_
+1. [Road incidents in China: At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/road-incidents-in-china-at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoya.md) _2018-02-06 13:49:31 (First version)_
 1. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _(Current version)_
 
 ### Related:

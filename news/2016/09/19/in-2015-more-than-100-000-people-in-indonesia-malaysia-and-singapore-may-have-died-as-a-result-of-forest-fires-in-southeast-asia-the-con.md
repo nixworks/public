@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-m
 
 ### Changes:
 
-1. [2016 Southeast Asian haze: In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/2016-southeast-asian-haze-in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires.md) _2017-08-27 03:46:52 (First version)_
+1. [2016 Southeast Asian haze: In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/2016-southeast-asian-haze-in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires.md) _2018-02-06 13:49:29 (First version)_
 1. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _(Current version)_
 
 ### Related:

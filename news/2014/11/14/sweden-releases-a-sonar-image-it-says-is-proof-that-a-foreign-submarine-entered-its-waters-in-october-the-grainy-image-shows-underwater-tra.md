@@ -16,8 +16,8 @@ Sweden releases a sonar image it says is proof that a foreign submarine entered 
 
 ### Changes:
 
-1. [Swedish submarine incidents:Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/swedish-submarine-incidents-psweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-grai.md) _2017-08-25 03:41:12 (First version)_
-2. [Swedish submarine incidents:: Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/swedish-submarine-incidents-sweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-gra.md) _2017-08-27 03:41:30 (Update)_
+1. [Swedish submarine incidents:: Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/swedish-submarine-incidents-sweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-gra.md) _2018-02-06 13:49:26 (First version)_
+2. [Swedish submarine incidents:Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/swedish-submarine-incidents-psweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-grai.md) _2018-02-06 13:49:26 (Update)_
 2. [Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/sweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-grainy-image-shows-underwater-tra.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/9/the-united-states-congress-refuses-to-offer-a-ba
 
 ### Changes:
 
-1. [Puerto Rican debt crisis: The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/puerto-rican-debt-crisis-the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md) _2017-08-27 03:42:40 (First version)_
+1. [Puerto Rican debt crisis: The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/puerto-rican-debt-crisis-the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md) _(Current version)_
 
 ### Related:

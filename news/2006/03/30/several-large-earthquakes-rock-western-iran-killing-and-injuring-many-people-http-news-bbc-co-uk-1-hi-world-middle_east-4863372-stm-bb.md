@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/03/30/several-large-earthquakes-rock-western-iran-kil
 
 ### Changes:
 
-1. [ Several large earthquakes rock western Iran, killing and injuring many people ](/news/2006/03/30/several-large-earthquakes-rock-western-iran-killing-and-injuring-many-people.md) _2017-08-25 03:17:32 (First version)_
+1. [ Several large earthquakes rock western Iran, killing and injuring many people ](/news/2006/03/30/several-large-earthquakes-rock-western-iran-killing-and-injuring-many-people.md) _2018-02-06 13:49:17 (First version)_
 1. [ Several large earthquakes rock western Iran, killing and injuring many people [http:--news.bbc.co.uk-1-hi-world-middle_east-4863372.stm (BBC)](WikiNews)](/news/2006/03/30/several-large-earthquakes-rock-western-iran-killing-and-injuring-many-people-http-news-bbc-co-uk-1-hi-world-middle_east-4863372-stm-bb.md) _(Current version)_
 
 ### Related:

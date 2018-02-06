@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/1/the-european-union-suspends-talks-on-a-new-partn
 
 ### Changes:
 
-1. [ 2008 South Ossetia war: The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-p-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md) _2017-08-25 03:22:47 (First version)_
-2. [ 2008 South Ossetia war:: The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md) _2017-08-27 03:22:41 (Update)_
+1. [ 2008 South Ossetia war:: The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia war: The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-p-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md) _2018-02-06 13:49:18 (Update)_
 2. [ The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-from-georgia.md) _(Current version)_
 
 ### Related:

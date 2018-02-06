@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-
 
 ### Changes:
 
-1. [The "de facto" leader of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-de-facto-leader-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md) _2017-09-28 20:30:06 (First version)_
+1. [The "de facto" leader of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-de-facto-leader-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md) _2018-02-06 13:49:31 (First version)_
 1. [The President of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md) _(Current version)_
 
 ### Related:

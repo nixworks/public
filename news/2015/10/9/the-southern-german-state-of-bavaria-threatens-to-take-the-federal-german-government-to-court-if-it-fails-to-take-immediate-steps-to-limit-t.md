@@ -16,7 +16,7 @@ The state of Bavaria threatened on Friday to take the German government to court
 
 ### Changes:
 
-1. [European migrant crisis: The southern German state of Bavaria threatens to take the Federal German government to court if it fails to take immediate steps to limit the flow of migrants to Germany. Over 200,000 migrants are estimated to have entered Germany since the beginning of September, the vast majority over the Austrian border into Bavaria. ](/news/2015/10/9/european-migrant-crisis-the-southern-german-state-of-bavaria-threatens-to-take-the-federal-german-government-to-court-if-it-fails-to-take-i.md) _2017-08-27 03:43:17 (First version)_
+1. [European migrant crisis: The southern German state of Bavaria threatens to take the Federal German government to court if it fails to take immediate steps to limit the flow of migrants to Germany. Over 200,000 migrants are estimated to have entered Germany since the beginning of September, the vast majority over the Austrian border into Bavaria. ](/news/2015/10/9/european-migrant-crisis-the-southern-german-state-of-bavaria-threatens-to-take-the-federal-german-government-to-court-if-it-fails-to-take-i.md) _2018-02-06 13:49:28 (First version)_
 1. [The southern German state of Bavaria threatens to take the Federal German government to court if it fails to take immediate steps to limit the flow of migrants to Germany. Over 200,000 migrants are estimated to have entered Germany since the beginning of September, the vast majority over the Austrian border into Bavaria. ](/news/2015/10/9/the-southern-german-state-of-bavaria-threatens-to-take-the-federal-german-government-to-court-if-it-fails-to-take-immediate-steps-to-limit-t.md) _(Current version)_
 
 ### Related:

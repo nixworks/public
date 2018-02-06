@@ -18,8 +18,8 @@ North Korea threatened the United States on Thursday with a preemptive nuclear s
 
 ### Changes:
 
-1. [Nuclear program of North Korea:North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/nuclear-program-of-north-korea-pnorth-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-threa.md) _2017-08-25 03:37:45 (First version)_
-2. [Nuclear program of North Korea:: North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/nuclear-program-of-north-korea-north-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-thre.md) _2017-08-27 03:37:56 (Update)_
+1. [Nuclear program of North Korea:North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/nuclear-program-of-north-korea-pnorth-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-threa.md) _2018-02-06 13:49:24 (First version)_
+2. [Nuclear program of North Korea:: North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/nuclear-program-of-north-korea-north-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-thre.md) _2018-02-06 13:49:24 (Update)_
 2. [North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/north-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-threatening-rhetoric.md) _(Current version)_
 
 ### Related:

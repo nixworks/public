@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/28/the-haitian-national-electoral-commission-promi
 
 ### Changes:
 
-1. [Haitian presidential election, 2016-17: The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/haitian-presidential-election-2016-17-the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elec.md) _2017-08-27 03:47:19 (First version)_
+1. [Haitian presidential election, 2016-17: The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/haitian-presidential-election-2016-17-the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elec.md) _2018-02-06 13:49:29 (First version)_
 1. [The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elections-between-the-candidates-jovenel-moise.md) _(Current version)_
 
 ### Related:

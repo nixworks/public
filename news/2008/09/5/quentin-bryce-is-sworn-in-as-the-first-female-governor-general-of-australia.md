@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/5/quentin-bryce-is-sworn-in-as-the-first-female-go
 
 ### Changes:
 
-1. [ Australia: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-p-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _2017-08-25 03:22:49 (First version)_
-2. [ Australia:: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _2017-08-27 03:22:42 (Update)_
+1. [ Australia:: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _2018-02-06 13:49:18 (First version)_
+2. [ Australia: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-p-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _2018-02-06 13:49:18 (Update)_
 2. [ Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md) _(Current version)_
 
 ### Related:

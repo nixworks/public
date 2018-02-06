@@ -25,7 +25,7 @@ Yemen&#39;s president has declared a state of emergency after at least 25 protes
 
 ### Changes:
 
-1. [Arab Spring: At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/arab-spring-at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md) _2017-08-27 03:32:42 (First version)_
+1. [Arab Spring: At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/arab-spring-at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md) _2018-02-06 13:49:22 (First version)_
 1. [At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-
 
 ### Changes:
 
-1. [Francesco Schettino, former captain of the ''Costa Concordia'' cruise ship, goes on trial in Italy for manslaughter and abandoning ship during the disaster on 13 January 2012. ](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-concordia-cruise-ship-goes-on-trial-in-italy-for-manslaughter-and-abandoning-ship-dur.md) _2017-08-25 03:38:58 (First version)_
+1. [Francesco Schettino, former captain of the ''Costa Concordia'' cruise ship, goes on trial in Italy for manslaughter and abandoning ship during the disaster on 13 January 2012. ](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-concordia-cruise-ship-goes-on-trial-in-italy-for-manslaughter-and-abandoning-ship-dur.md) _2018-02-06 13:49:25 (First version)_
 1. [Francesco Schettino, former captain of the "Costa Concordia" cruise ship, goes on trial in Italy for manslaughter and abandoning ship during the disaster on 13 January 2012. ](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-concordia-cruise-ship-goes-on-trial-in-italy-for-manslaughter-and-abandoning-ship-during.md) _(Current version)_
 
 ### Related:

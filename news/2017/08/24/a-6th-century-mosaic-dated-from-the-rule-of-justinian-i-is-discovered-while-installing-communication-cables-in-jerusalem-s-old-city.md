@@ -16,7 +16,7 @@ An almost entirely intact mosaic dating to AD 550/551 is uncovered by constructi
 
 ### Changes:
 
-1. [Archaeology of Israel: A 6th century mosaic dated from the rule of Justinian I is discovered while installing communication cables in Jerusalem's Old City. ](/news/2017/08/24/archaeology-of-israel-a-6th-century-mosaic-dated-from-the-rule-of-justinian-i-is-discovered-while-installing-communication-cables-in-jerusa.md) _2017-08-27 17:30:04 (First version)_
+1. [Archaeology of Israel: A 6th century mosaic dated from the rule of Justinian I is discovered while installing communication cables in Jerusalem's Old City. ](/news/2017/08/24/archaeology-of-israel-a-6th-century-mosaic-dated-from-the-rule-of-justinian-i-is-discovered-while-installing-communication-cables-in-jerusa.md) _2018-02-06 13:49:31 (First version)_
 1. [A 6th century mosaic dated from the rule of Justinian I is discovered while installing communication cables in Jerusalem's Old City. ](/news/2017/08/24/a-6th-century-mosaic-dated-from-the-rule-of-justinian-i-is-discovered-while-installing-communication-cables-in-jerusalem-s-old-city.md) _(Current version)_
 
 ### Related:

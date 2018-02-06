@@ -16,7 +16,7 @@ A bus plunged nearly 30 feet into a riverbed in India on Friday, killing at leas
 
 ### Changes:
 
-1. [ At least 20 people die in a bus crash near Patna, the capital of Bihar state in India. [http:--www.foxnews.com-story-0,2933,271413,00.html (Fox News)].](/news/2007/05/11/at-least-20-people-die-in-a-bus-crash-near-patna-the-capital-of-bihar-state-in-india-http-www-foxnews-com-story-0-2933-271413-00-html.md) _2017-06-18 03:20:04 (First version)_
+1. [ At least 20 people die in a bus crash near Patna, the capital of Bihar state in India. [http:--www.foxnews.com-story-0,2933,271413,00.html (Fox News)].](/news/2007/05/11/at-least-20-people-die-in-a-bus-crash-near-patna-the-capital-of-bihar-state-in-india-http-www-foxnews-com-story-0-2933-271413-00-html.md) _2018-02-06 13:49:17 (First version)_
 1. [ At least 20 people die in a bus crash near Patna, the capital of Bihar state in India. ](/news/2007/05/11/at-least-20-people-die-in-a-bus-crash-near-patna-the-capital-of-bihar-state-in-india.md) _(Current version)_
 
 ### Related:

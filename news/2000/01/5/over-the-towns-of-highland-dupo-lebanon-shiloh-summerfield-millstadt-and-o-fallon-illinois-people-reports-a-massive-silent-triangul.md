@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/01/5/over-the-towns-of-highland-dupo-lebanon-shiloh-s
 
 ### Changes:
 
-1. [Southern Illinois incident: Over the towns of Highland, Dupo, Lebanon, Shiloh, Summerfield, Millstadt and O'Fallon, Illinois, people reports a massive, silent, triangular operating at an unusual treetop level altitude and speeds.](/news/2000/01/5/southern-illinois-incident-over-the-towns-of-highland-dupo-lebanon-shiloh-summerfield-millstadt-and-o-fallon-illinois-people-reports.md) _2017-08-27 03:15:07 (First version)_
+1. [Southern Illinois incident: Over the towns of Highland, Dupo, Lebanon, Shiloh, Summerfield, Millstadt and O'Fallon, Illinois, people reports a massive, silent, triangular operating at an unusual treetop level altitude and speeds.](/news/2000/01/5/southern-illinois-incident-over-the-towns-of-highland-dupo-lebanon-shiloh-summerfield-millstadt-and-o-fallon-illinois-people-reports.md) _2018-02-06 13:49:15 (First version)_
 1. [Over the towns of Highland, Dupo, Lebanon, Shiloh, Summerfield, Millstadt and O'Fallon, Illinois, people reports a massive, silent, triangular operating at an unusual treetop level altitude and speeds.](/news/2000/01/5/over-the-towns-of-highland-dupo-lebanon-shiloh-summerfield-millstadt-and-o-fallon-illinois-people-reports-a-massive-silent-triangul.md) _(Current version)_
 
 ### Related:

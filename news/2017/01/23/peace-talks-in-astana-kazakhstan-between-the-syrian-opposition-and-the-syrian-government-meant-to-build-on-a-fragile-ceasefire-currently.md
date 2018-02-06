@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/23/peace-talks-in-astana-kazakhstan-between-the-sy
 
 ### Changes:
 
-1. [Syrian peace process: Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/syrian-peace-process-peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragil.md) _2017-08-27 03:47:40 (First version)_
+1. [Syrian peace process: Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/syrian-peace-process-peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragil.md) _2018-02-06 13:49:30 (First version)_
 1. [Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragile-ceasefire-currently.md) _(Current version)_
 
 ### Related:

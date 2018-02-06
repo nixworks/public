@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/09/20/a-suicide-bomber-attacks-a-pakistan-army-convoy
 
 ### Changes:
 
-1. [ War in North-West Pakistan: A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-p-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md) _2017-08-25 03:22:54 (First version)_
-2. [ War in North-West Pakistan:: A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md) _2017-08-27 03:22:47 (Update)_
+1. [ War in North-West Pakistan: A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-p-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in North-West Pakistan:: A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md) _2018-02-06 13:49:18 (Update)_
 2. [ A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md) _(Current version)_
 
 ### Related:

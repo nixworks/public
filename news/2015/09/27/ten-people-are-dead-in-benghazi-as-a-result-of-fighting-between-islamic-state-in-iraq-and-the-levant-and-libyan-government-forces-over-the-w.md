@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/09/27/ten-people-are-dead-in-benghazi-as-a-result-of-
 
 ### Changes:
 
-1. [Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and-libyan-government-forces-over-the.md) _2017-08-25 03:42:52 (First version)_
-2. [Libyan Civil War (2014-present): Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/libyan-civil-war-2014-present-ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and.md) _2017-08-27 03:43:10 (Update)_
+1. [Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and-libyan-government-forces-over-the.md) _2018-02-06 13:49:27 (First version)_
+2. [Libyan Civil War (2014-present): Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/libyan-civil-war-2014-present-ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and.md) _2018-02-06 13:49:27 (Update)_
 2. [Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and-libyan-government-forces-over-the-w.md) _(Current version)_
 
 ### Related:

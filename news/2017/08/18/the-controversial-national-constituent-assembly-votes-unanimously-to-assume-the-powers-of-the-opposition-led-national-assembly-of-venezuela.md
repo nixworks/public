@@ -16,7 +16,7 @@ The opposition-led parliament says the move will be rejected by Venezuelans.
 
 ### Changes:
 
-1. [2017 Venezuelan constitutional crisis: The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. ](/news/2017/08/18/2017-venezuelan-constitutional-crisis-the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposit.md) _2017-08-27 03:48:49 (First version)_
+1. [2017 Venezuelan constitutional crisis: The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. ](/news/2017/08/18/2017-venezuelan-constitutional-crisis-the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposit.md) _2018-02-06 13:49:31 (First version)_
 1. [The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. ](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.md) _(Current version)_
 
 ### Related:

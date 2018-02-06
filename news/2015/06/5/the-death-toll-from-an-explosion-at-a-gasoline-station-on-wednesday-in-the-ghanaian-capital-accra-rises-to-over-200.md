@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/06/5/the-death-toll-from-an-explosion-at-a-gasoline-s
 
 ### Changes:
 
-1. [2015 Accra explosion: The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/2015-accra-explosion-the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md) _2017-08-27 03:42:28 (First version)_
+1. [2015 Accra explosion: The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/2015-accra-explosion-the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/2/index.html)  [JSON](2013/06/2/index.json)  [XML](2013/
 
 ##### car bomb
 ### [A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. ](/news/2013/06/2/a-car-bomb-explodes-near-a-police-station-in-the-damascus-suburb-of-jobar-killing-at-least-eight-members-of-the-security-forces-and-injurin.md)
-_Context: Jobar, car bomb, Damascus_
+_Context: car bomb, Damascus, Jobar_
 
 ##### Taliban
 ### [Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four-afghan-police-officers.md)
@@ -17,7 +17,7 @@ _Context: Aboriginal Australians, Yothu Yindi, Mandawuy Yunupingu_
 
 ##### earthquake
 ### [A 6.2-magnitude earthquake strikes central Taiwan, killing at least one person. ](/news/2013/06/2/a-6-2-magnitude-earthquake-strikes-central-taiwan-killing-at-least-one-person.md)
-_Context: Taiwan, earthquake_
+_Context: earthquake, Taiwan_
 
 ##### Austria
 ### [Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md)
@@ -37,7 +37,7 @@ Two Labour peers are suspended by the party and a UUP peer resigns his party whi
 
 ##### Supreme Constitutional Court
 ### [The Supreme Constitutional Court of Egypt rules that the country's Islamist dominated Parliament and Constituent Assembly of Egypt were illegally elected. ](/news/2013/06/2/the-supreme-constitutional-court-of-egypt-rules-that-the-country-s-islamist-dominated-parliament-and-constituent-assembly-of-egypt-were-ille.md)
-_Context: Constituent Assembly of Egypt, Parliament of Egypt, Islamist, Supreme Constitutional Court_
+_Context: Constituent Assembly of Egypt, Supreme Constitutional Court, Islamist, Parliament of Egypt_
 
 ##### graphene
 ### [New research finds that graphene is the strongest material in the world, even when patched together. ](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.md)

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france
 
 ### Changes:
 
-1. [ A ceremony is held at Thiepval, Picardy, in France, to commemorate the 90th anniversary of the Battle of the Somme. ([http:--news.bbc.co.uk-1-hi-uk-5135878.stm BBC])](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france-to-commemorate-the-90th-anniversary-of-the-battle-of-the-somme-http-news-bbc-co-u.md) _2017-08-25 03:17:52 (First version)_
+1. [ A ceremony is held at Thiepval, Picardy, in France, to commemorate the 90th anniversary of the Battle of the Somme. ([http:--news.bbc.co.uk-1-hi-uk-5135878.stm BBC])](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france-to-commemorate-the-90th-anniversary-of-the-battle-of-the-somme-http-news-bbc-co-u.md) _2018-02-06 13:49:17 (First version)_
 1. [ A ceremony is held at Thiepval, Picardy, in France, to commemorate the 90th anniversary of the Battle of the Somme. ([http:--news.bbc.co.uk-1-hi-uk-5135878.stm BBC])](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france-to-commemorate-the-90th-anniversary-of-the-battle-of-the-somme-http-news-bbc-co-uk.md) _(Current version)_
 
 ### Related:

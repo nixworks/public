@@ -17,8 +17,8 @@ At least 18 people were killed in a gunfight between two feuding tribes in south
 
 ### Changes:
 
-1. [2014 Aswan tribal clashes:23 people are killed in a gunfight between feuding tribes near the Egyptian city of Aswan. ](/news/2014/04/5/2014-aswan-tribal-clashes-p23-people-are-killed-in-a-gunfight-between-feuding-tribes-near-the-egyptian-city-of-aswan.md) _2017-08-25 03:40:15 (First version)_
-2. [2014 Aswan tribal clashes:: 23 people are killed in a gunfight between feuding tribes near the Egyptian city of Aswan. ](/news/2014/04/5/2014-aswan-tribal-clashes-23-people-are-killed-in-a-gunfight-between-feuding-tribes-near-the-egyptian-city-of-aswan.md) _2017-08-27 03:40:33 (Update)_
+1. [2014 Aswan tribal clashes:23 people are killed in a gunfight between feuding tribes near the Egyptian city of Aswan. ](/news/2014/04/5/2014-aswan-tribal-clashes-p23-people-are-killed-in-a-gunfight-between-feuding-tribes-near-the-egyptian-city-of-aswan.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Aswan tribal clashes:: 23 people are killed in a gunfight between feuding tribes near the Egyptian city of Aswan. ](/news/2014/04/5/2014-aswan-tribal-clashes-23-people-are-killed-in-a-gunfight-between-feuding-tribes-near-the-egyptian-city-of-aswan.md) _2018-02-06 13:49:26 (Update)_
 2. [23 people are killed in a gunfight between feuding tribes near the Egyptian city of Aswan. ](/news/2014/04/5/23-people-are-killed-in-a-gunfight-between-feuding-tribes-near-the-egyptian-city-of-aswan.md) _(Current version)_
 
 ### Related:

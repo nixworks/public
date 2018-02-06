@@ -18,7 +18,7 @@ US citizen, Palestinian among dead in attack, bringing day&#8217;s toll to 5 &#8
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015): A Palestinian kills three people, including an American student and another Palestinian, and injures four others, after opening fire at Israeli cars and then ramming his vehicle into a group of pedestrians, injuring several more near Alon Shvut in the West Bank. ](/news/2015/11/19/israeli-palestinian-conflict-2015-a-palestinian-kills-three-people-including-an-american-student-and-another-palestinian-and-injures.md) _2017-08-27 03:43:57 (First version)_
+1. [Israeli-Palestinian conflict (2015): A Palestinian kills three people, including an American student and another Palestinian, and injures four others, after opening fire at Israeli cars and then ramming his vehicle into a group of pedestrians, injuring several more near Alon Shvut in the West Bank. ](/news/2015/11/19/israeli-palestinian-conflict-2015-a-palestinian-kills-three-people-including-an-american-student-and-another-palestinian-and-injures.md) _2018-02-06 13:49:28 (First version)_
 1. [A Palestinian kills three people, including an American student and another Palestinian, and injures four others, after opening fire at Israeli cars and then ramming his vehicle into a group of pedestrians, injuring several more near Alon Shvut in the West Bank. ](/news/2015/11/19/a-palestinian-kills-three-people-including-an-american-student-and-another-palestinian-and-injures-four-others-after-opening-fire-at-isra.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/25/voters-in-the-ivory-coast-go-to-the-polls-for-a
 
 ### Changes:
 
-1. [Ivorian presidential election, 2015: Voters in the Ivory Coast go to the polls for a presidential election with incumbent Alassane Ouattara favoured to win. ](/news/2015/10/25/ivorian-presidential-election-2015-voters-in-the-ivory-coast-go-to-the-polls-for-a-presidential-election-with-incumbent-alassane-ouattara.md) _2017-08-27 03:43:30 (First version)_
+1. [Ivorian presidential election, 2015: Voters in the Ivory Coast go to the polls for a presidential election with incumbent Alassane Ouattara favoured to win. ](/news/2015/10/25/ivorian-presidential-election-2015-voters-in-the-ivory-coast-go-to-the-polls-for-a-presidential-election-with-incumbent-alassane-ouattara.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in the Ivory Coast go to the polls for a presidential election with incumbent Alassane Ouattara favoured to win. ](/news/2015/10/25/voters-in-the-ivory-coast-go-to-the-polls-for-a-presidential-election-with-incumbent-alassane-ouattara-favoured-to-win.md) _(Current version)_
 
 ### Related:

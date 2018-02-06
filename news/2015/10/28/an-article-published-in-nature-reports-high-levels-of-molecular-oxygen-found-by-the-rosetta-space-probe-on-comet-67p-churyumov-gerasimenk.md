@@ -19,7 +19,7 @@ The Rosetta spacecraft has detected significant levels of molecular oxygen comin
 
 ### Changes:
 
-1. [ An article published in ''Nature'' reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasime.md) _2017-08-25 03:43:15 (First version)_
+1. [ An article published in ''Nature'' reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasime.md) _2018-02-06 13:49:28 (First version)_
 1. [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md) _(Current version)_
 
 ### Related:

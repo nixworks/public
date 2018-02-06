@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/13/israel-says-an-arab-israeli-man-who-served-in-t
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/islamic-state-of-iraq-and-the-levant-israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state.md) _2017-08-27 03:44:20 (First version)_
+1. [Islamic State of Iraq and the Levant: Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/islamic-state-of-iraq-and-the-levant-israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state.md) _2018-02-06 13:49:28 (First version)_
 1. [Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state-militants-in-syria.md) _(Current version)_
 
 ### Related:

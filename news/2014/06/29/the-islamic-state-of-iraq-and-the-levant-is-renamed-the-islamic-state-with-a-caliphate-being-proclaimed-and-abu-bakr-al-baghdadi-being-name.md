@@ -16,7 +16,7 @@ The Islamic State of Iraq and the Levant (Isis) has reportedly declared the area
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: The Islamic State of Iraq and the Levant is renamed The Islamic State, with a caliphate being proclaimed and Abu Bakr al-Baghdadi being named caliph. ](/news/2014/06/29/2014-northern-iraq-offensive-the-islamic-state-of-iraq-and-the-levant-is-renamed-the-islamic-state-with-a-caliphate-being-proclaimed-and-a.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 Northern Iraq offensive: The Islamic State of Iraq and the Levant is renamed The Islamic State, with a caliphate being proclaimed and Abu Bakr al-Baghdadi being named caliph. ](/news/2014/06/29/2014-northern-iraq-offensive-the-islamic-state-of-iraq-and-the-levant-is-renamed-the-islamic-state-with-a-caliphate-being-proclaimed-and-a.md) _2018-02-06 13:49:26 (First version)_
 1. [The Islamic State of Iraq and the Levant is renamed The Islamic State, with a caliphate being proclaimed and Abu Bakr al-Baghdadi being named caliph. ](/news/2014/06/29/the-islamic-state-of-iraq-and-the-levant-is-renamed-the-islamic-state-with-a-caliphate-being-proclaimed-and-abu-bakr-al-baghdadi-being-name.md) _(Current version)_
 
 ### Related:

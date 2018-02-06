@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the
 
 ### Changes:
 
-1. [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president.md) _2017-08-25 03:47:25 (First version)_
-2. [Philippine presidential election, 2016: The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/philippine-presidential-election-2016-the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-mar.md) _2017-08-27 03:47:49 (Update)_
+1. [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president.md) _2018-02-06 13:49:30 (First version)_
+2. [Philippine presidential election, 2016: The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/philippine-presidential-election-2016-the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-mar.md) _2018-02-06 13:49:30 (Update)_
 2. [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president-le.md) _(Current version)_
 
 ### Related:

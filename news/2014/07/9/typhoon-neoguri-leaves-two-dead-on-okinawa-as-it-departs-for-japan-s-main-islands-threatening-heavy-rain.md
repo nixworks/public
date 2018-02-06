@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/2014-pacific-typhoon-season-typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md) _2017-08-27 03:40:57 (First version)_
+1. [2014 Pacific typhoon season: Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/2014-pacific-typhoon-season-typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md) _2018-02-06 13:49:26 (First version)_
 1. [Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md) _(Current version)_
 
 ### Related:

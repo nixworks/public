@@ -16,8 +16,8 @@ At least 12 people - including two soldiers - are killed in a gunfight between t
 
 ### Changes:
 
-1. [Mexican Drug War:A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-pa-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-th.md) _2017-08-25 03:35:36 (First version)_
-2. [Mexican Drug War:: A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-a-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-t.md) _2017-08-27 03:35:46 (Update)_
+1. [Mexican Drug War:A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-pa-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-th.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-a-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-t.md) _2018-02-06 13:49:23 (Update)_
 2. [A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/a-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-the-homestate-of-joa.md) _(Current version)_
 
 ### Related:

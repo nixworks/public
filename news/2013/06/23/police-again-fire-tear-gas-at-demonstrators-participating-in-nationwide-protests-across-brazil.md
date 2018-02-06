@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/23/police-again-fire-tear-gas-at-demonstrators-par
 
 ### Changes:
 
-1. [2013 protests in Brazil:Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/2013-protests-in-brazil-ppolice-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md) _2017-08-25 03:38:53 (First version)_
-2. [2013 protests in Brazil:: Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/2013-protests-in-brazil-police-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md) _2017-08-27 03:39:08 (Update)_
+1. [2013 protests in Brazil:Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/2013-protests-in-brazil-ppolice-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 protests in Brazil:: Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/2013-protests-in-brazil-police-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md) _2018-02-06 13:49:25 (Update)_
 2. [Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/police-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md) _(Current version)_
 
 ### Related:

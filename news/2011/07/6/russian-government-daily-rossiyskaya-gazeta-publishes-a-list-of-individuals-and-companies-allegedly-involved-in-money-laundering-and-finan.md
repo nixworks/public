@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publ
 
 ### Changes:
 
-1. [Russian government daily ''Rossiyskaya Gazeta'' publishes a list of individuals and companies allegedly involved in money laundering and financing of terrorism. ](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publishes-a-list-of-individuals-and-companies-allegedly-involved-in-money-laundering-and-fin.md) _2017-08-25 03:33:42 (First version)_
+1. [Russian government daily ''Rossiyskaya Gazeta'' publishes a list of individuals and companies allegedly involved in money laundering and financing of terrorism. ](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publishes-a-list-of-individuals-and-companies-allegedly-involved-in-money-laundering-and-fin.md) _2018-02-06 13:49:22 (First version)_
 1. [Russian government daily "Rossiyskaya Gazeta" publishes a list of individuals and companies allegedly involved in money laundering and financing of terrorism. ](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publishes-a-list-of-individuals-and-companies-allegedly-involved-in-money-laundering-and-finan.md) _(Current version)_
 
 ### Related:

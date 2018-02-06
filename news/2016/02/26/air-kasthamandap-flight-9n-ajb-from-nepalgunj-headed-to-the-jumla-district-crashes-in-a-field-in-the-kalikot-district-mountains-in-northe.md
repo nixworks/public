@@ -17,7 +17,7 @@ Two days after the fatal Tara Air crash, a plane belonging to Air Kasthamandap c
 
 ### Changes:
 
-1. [ Air Kasthamandap Flight 9N-AJB, from Nepalgunj headed to the Jumla District, crashes in a field in the Kalikot District mountains in northern Nepal, killing the two pilots and injuring all nine passengers, one seriously. ](/news/2016/02/26/air-kasthamandap-flight-9n-ajb-from-nepalgunj-headed-to-the-jumla-district-crashes-in-a-field-in-the-kalikot-district-mountains-in-nort.md) _2017-08-25 03:44:41 (First version)_
+1. [ Air Kasthamandap Flight 9N-AJB, from Nepalgunj headed to the Jumla District, crashes in a field in the Kalikot District mountains in northern Nepal, killing the two pilots and injuring all nine passengers, one seriously. ](/news/2016/02/26/air-kasthamandap-flight-9n-ajb-from-nepalgunj-headed-to-the-jumla-district-crashes-in-a-field-in-the-kalikot-district-mountains-in-nort.md) _2018-02-06 13:49:28 (First version)_
 1. [ Air Kasthamandap Flight 9N-AJB, from Nepalgunj headed to the Jumla District, crashes in a field in the Kalikot District mountains in northern Nepal, killing the two pilots and injuring all nine passengers, one seriously. ](/news/2016/02/26/air-kasthamandap-flight-9n-ajb-from-nepalgunj-headed-to-the-jumla-district-crashes-in-a-field-in-the-kalikot-district-mountains-in-northe.md) _(Current version)_
 
 ### Related:

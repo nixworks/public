@@ -16,7 +16,7 @@ Venezuelan security forces have arrested at least 400 people after the latest bo
 
 ### Changes:
 
-1. [2014-16 Venezuelan protests: Venezuelan police arrest at least 400 people in the city of Cumana after food riots and looting broke out yesterday. ](/news/2016/06/15/2014-16-venezuelan-protests-venezuelan-police-arrest-at-least-400-people-in-the-city-of-cumana-after-food-riots-and-looting-broke-out-ye.md) _2017-08-27 03:46:16 (First version)_
+1. [2014-16 Venezuelan protests: Venezuelan police arrest at least 400 people in the city of Cumana after food riots and looting broke out yesterday. ](/news/2016/06/15/2014-16-venezuelan-protests-venezuelan-police-arrest-at-least-400-people-in-the-city-of-cumana-after-food-riots-and-looting-broke-out-ye.md) _2018-02-06 13:49:29 (First version)_
 1. [Venezuelan police arrest at least 400 people in the city of Cumana after food riots and looting broke out yesterday. ](/news/2016/06/15/venezuelan-police-arrest-at-least-400-people-in-the-city-of-cumana-after-food-riots-and-looting-broke-out-yesterday.md) _(Current version)_
 
 ### Related:

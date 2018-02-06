@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/27/the-death-toll-in-the-two-worst-affected-states
 
 ### Changes:
 
-1. [2015 Indian heat wave: The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/2015-indian-heat-wave-the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md) _2017-08-27 03:42:25 (First version)_
+1. [2015 Indian heat wave: The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/2015-indian-heat-wave-the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md) _(Current version)_
 
 ### Related:

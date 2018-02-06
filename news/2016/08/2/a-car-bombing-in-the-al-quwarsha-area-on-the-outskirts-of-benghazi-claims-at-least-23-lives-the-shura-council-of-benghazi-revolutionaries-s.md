@@ -17,7 +17,7 @@ Blast targeting security wounds dozens after Italy says it may let US use air ba
 
 ### Changes:
 
-1. [Libyan Civil War: A car bombing in the Al-Quwarsha area on the outskirts of Benghazi claims at least 23 lives. The Shura Council of Benghazi Revolutionaries says it is responsible. ](/news/2016/08/2/libyan-civil-war-a-car-bombing-in-the-al-quwarsha-area-on-the-outskirts-of-benghazi-claims-at-least-23-lives-the-shura-council-of-benghazi.md) _2017-08-27 03:46:35 (First version)_
+1. [Libyan Civil War: A car bombing in the Al-Quwarsha area on the outskirts of Benghazi claims at least 23 lives. The Shura Council of Benghazi Revolutionaries says it is responsible. ](/news/2016/08/2/libyan-civil-war-a-car-bombing-in-the-al-quwarsha-area-on-the-outskirts-of-benghazi-claims-at-least-23-lives-the-shura-council-of-benghazi.md) _2018-02-06 13:49:29 (First version)_
 1. [A car bombing in the Al-Quwarsha area on the outskirts of Benghazi claims at least 23 lives. The Shura Council of Benghazi Revolutionaries says it is responsible. ](/news/2016/08/2/a-car-bombing-in-the-al-quwarsha-area-on-the-outskirts-of-benghazi-claims-at-least-23-lives-the-shura-council-of-benghazi-revolutionaries-s.md) _(Current version)_
 
 ### Related:

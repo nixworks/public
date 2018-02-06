@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/08/14/igor-girkin-a-russian-citizen-from-moscow-and-m
 
 ### Changes:
 
-1. [War in Donbass:Igor Girkin, a Russian citizen from Moscow and military commander of the Donetsk People's Republic rebellion, resigns, making it the third change at top of the rebel leadership of the past week. ](/news/2014/08/14/war-in-donbass-pigor-girkin-a-russian-citizen-from-moscow-and-military-commander-of-the-donetsk-people-s-republic-rebellion-resigns-makin.md) _2017-08-25 03:40:50 (First version)_
-2. [War in Donbass:: Igor Girkin, a Russian citizen from Moscow and military commander of the Donetsk People's Republic rebellion, resigns, making it the third change at top of the rebel leadership of the past week. ](/news/2014/08/14/war-in-donbass-igor-girkin-a-russian-citizen-from-moscow-and-military-commander-of-the-donetsk-people-s-republic-rebellion-resigns-maki.md) _2017-08-27 03:41:09 (Update)_
+1. [War in Donbass:Igor Girkin, a Russian citizen from Moscow and military commander of the Donetsk People's Republic rebellion, resigns, making it the third change at top of the rebel leadership of the past week. ](/news/2014/08/14/war-in-donbass-pigor-girkin-a-russian-citizen-from-moscow-and-military-commander-of-the-donetsk-people-s-republic-rebellion-resigns-makin.md) _2018-02-06 13:49:26 (First version)_
+2. [War in Donbass:: Igor Girkin, a Russian citizen from Moscow and military commander of the Donetsk People's Republic rebellion, resigns, making it the third change at top of the rebel leadership of the past week. ](/news/2014/08/14/war-in-donbass-igor-girkin-a-russian-citizen-from-moscow-and-military-commander-of-the-donetsk-people-s-republic-rebellion-resigns-maki.md) _2018-02-06 13:49:26 (Update)_
 2. [Igor Girkin, a Russian citizen from Moscow and military commander of the Donetsk People's Republic rebellion, resigns, making it the third change at top of the rebel leadership of the past week. ](/news/2014/08/14/igor-girkin-a-russian-citizen-from-moscow-and-military-commander-of-the-donetsk-people-s-republic-rebellion-resigns-making-it-the-third-c.md) _(Current version)_
 
 ### Related:

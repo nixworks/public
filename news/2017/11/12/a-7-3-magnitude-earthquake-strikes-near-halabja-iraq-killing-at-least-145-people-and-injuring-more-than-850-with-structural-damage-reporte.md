@@ -20,8 +20,8 @@ A strong earthquake hit large parts of northern Iraq and the capital Baghdad on 
 
 ### Changes:
 
-1. [A 7.2 magnitude earthquake strikes Halabja, Iraq, killing at least 10 people with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-2-magnitude-earthquake-strikes-halabja-iraq-killing-at-least-10-people-with-structural-damage-reported-in-both-iraq-and-iran.md) _2017-11-12 23:30:06 (First version)_
-2. [A 7.2 magnitude earthquake strikes Halabja, Iraq, killing at least 67 and injuring 500 people with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-2-magnitude-earthquake-strikes-halabja-iraq-killing-at-least-67-and-injuring-500-people-with-structural-damage-reported-in-both-iraq-a.md) _2017-11-13 00:30:05 (Update)_
+1. [A 7.2 magnitude earthquake strikes Halabja, Iraq, killing at least 67 and injuring 500 people with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-2-magnitude-earthquake-strikes-halabja-iraq-killing-at-least-67-and-injuring-500-people-with-structural-damage-reported-in-both-iraq-a.md) _2018-02-06 13:49:31 (First version)_
+2. [A 7.2 magnitude earthquake strikes Halabja, Iraq, killing at least 10 people with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-2-magnitude-earthquake-strikes-halabja-iraq-killing-at-least-10-people-with-structural-damage-reported-in-both-iraq-and-iran.md) _2018-02-06 13:49:31 (Update)_
 2. [A 7.3 magnitude earthquake strikes near Halabja, Iraq, killing at least 145 people and injuring more than 850 with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.md) _(Current version)_
 
 ### Related:

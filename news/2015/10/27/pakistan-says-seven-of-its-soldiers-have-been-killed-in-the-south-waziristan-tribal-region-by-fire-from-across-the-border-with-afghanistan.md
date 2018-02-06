@@ -17,7 +17,7 @@ Pakistan says seven of its soldiers have been killed in the South Waziristan tri
 
 ### Changes:
 
-1. [War in North-West Pakistan: Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/war-in-north-west-pakistan-pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-t.md) _2017-08-27 03:43:32 (First version)_
+1. [War in North-West Pakistan: Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/war-in-north-west-pakistan-pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-t.md) _2018-02-06 13:49:28 (First version)_
 1. [Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-the-border-with-afghanistan.md) _(Current version)_
 
 ### Related:

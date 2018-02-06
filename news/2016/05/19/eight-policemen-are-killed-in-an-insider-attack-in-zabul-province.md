@@ -16,7 +16,7 @@ Eight Afghan policemen were killed by a colleague who turned his gun on them at 
 
 ### Changes:
 
-1. [ Taliban insurgency: Eight policemen are killed in an insider attack in Zabul Province. ](/news/2016/05/19/taliban-insurgency-eight-policemen-are-killed-in-an-insider-attack-in-zabul-province.md) _2017-08-27 03:46:04 (First version)_
+1. [ Taliban insurgency: Eight policemen are killed in an insider attack in Zabul Province. ](/news/2016/05/19/taliban-insurgency-eight-policemen-are-killed-in-an-insider-attack-in-zabul-province.md) _2018-02-06 13:49:29 (First version)_
 1. [ Eight policemen are killed in an insider attack in Zabul Province. ](/news/2016/05/19/eight-policemen-are-killed-in-an-insider-attack-in-zabul-province.md) _(Current version)_
 
 ### Related:

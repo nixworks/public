@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/01/25/two-car-bombs-explode-in-the-syrian-controlled-
 
 ### Changes:
 
-1. [Syrian civil war:Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-ptwo-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md) _2017-08-25 03:37:20 (First version)_
-2. [Syrian civil war:: Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md) _2017-08-27 03:37:30 (Update)_
+1. [Syrian civil war:: Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-ptwo-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md) _2018-02-06 13:49:24 (Update)_
 2. [Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md) _(Current version)_
 
 ### Related:

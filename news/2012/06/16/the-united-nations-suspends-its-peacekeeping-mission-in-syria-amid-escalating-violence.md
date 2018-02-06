@@ -17,8 +17,8 @@ UN observers in Syria suspend their activities because of the escalating violenc
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-pthe-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2017-08-25 03:35:53 (First version)_
-2. [Syrian uprising (2011-present):: The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2017-08-27 03:36:04 (Update)_
+1. [Syrian uprising (2011-present):: The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-pthe-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2018-02-06 13:49:23 (Update)_
 2. [The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _(Current version)_
 
 ### Related:

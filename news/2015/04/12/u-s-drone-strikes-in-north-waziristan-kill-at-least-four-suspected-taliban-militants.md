@@ -16,7 +16,7 @@ A U.S. drone strike killed at least four suspected Taliban militants in northwes
 
 ### Changes:
 
-1. [War in North-West Pakistan: U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/war-in-north-west-pakistan-u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _2017-08-27 03:42:11 (First version)_
+1. [War in North-West Pakistan: U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/war-in-north-west-pakistan-u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _2018-02-06 13:49:27 (First version)_
 1. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _(Current version)_
 
 ### Related:

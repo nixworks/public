@@ -16,7 +16,7 @@ Man suspected of killing nine black churchgoers in Charleston indicted by federa
 
 ### Changes:
 
-1. [Charleston church shooting: Dylann Roof, the suspect in the murder of nine people in the American city of Charleston, South Carolina, is indicted on dozens of federal offenses including hate crimes. ](/news/2015/07/22/charleston-church-shooting-dylann-roof-the-suspect-in-the-murder-of-nine-people-in-the-american-city-of-charleston-south-carolina-is-ind.md) _2017-08-27 03:42:44 (First version)_
+1. [Charleston church shooting: Dylann Roof, the suspect in the murder of nine people in the American city of Charleston, South Carolina, is indicted on dozens of federal offenses including hate crimes. ](/news/2015/07/22/charleston-church-shooting-dylann-roof-the-suspect-in-the-murder-of-nine-people-in-the-american-city-of-charleston-south-carolina-is-ind.md) _2018-02-06 13:49:27 (First version)_
 1. [Dylann Roof, the suspect in the murder of nine people in the American city of Charleston, South Carolina, is indicted on dozens of federal offenses including hate crimes. ](/news/2015/07/22/dylann-roof-the-suspect-in-the-murder-of-nine-people-in-the-american-city-of-charleston-south-carolina-is-indicted-on-dozens-of-federal-o.md) _(Current version)_
 
 ### Related:

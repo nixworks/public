@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/12/22/thousands-of-somali-civilians-flee-their-homes-
 
 ### Changes:
 
-1. [ Ethiopian war in Somalia: Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/ethiopian-war-in-somalia-p-thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-af.md) _2017-08-25 03:18:56 (First version)_
-2. [ Ethiopian war in Somalia:: Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/ethiopian-war-in-somalia-thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-af.md) _2017-08-27 03:18:52 (Update)_
+1. [ Ethiopian war in Somalia:: Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/ethiopian-war-in-somalia-thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-af.md) _2018-02-06 13:49:17 (First version)_
+2. [ Ethiopian war in Somalia: Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/ethiopian-war-in-somalia-p-thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-af.md) _2018-02-06 13:49:17 (Update)_
 2. [ Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-after-a-night-of-artillery-an.md) _(Current version)_
 
 ### Related:

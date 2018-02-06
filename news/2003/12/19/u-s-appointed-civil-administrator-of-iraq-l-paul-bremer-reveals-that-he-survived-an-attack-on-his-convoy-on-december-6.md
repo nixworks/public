@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/12/19/u-s-appointed-civil-administrator-of-iraq-l-pau
 
 ### Changes:
 
-1. [ Occupation of Iraq: U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/occupation-of-iraq-p-u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-decembe.md) _2017-08-25 03:15:25 (First version)_
-2. [ Occupation of Iraq:: U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/occupation-of-iraq-u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-decembe.md) _2017-08-27 03:15:26 (Update)_
+1. [ Occupation of Iraq:: U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/occupation-of-iraq-u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-decembe.md) _2018-02-06 13:49:15 (First version)_
+2. [ Occupation of Iraq: U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/occupation-of-iraq-p-u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-decembe.md) _2018-02-06 13:49:15 (Update)_
 2. [ U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-december-6.md) _(Current version)_
 
 ### Related:

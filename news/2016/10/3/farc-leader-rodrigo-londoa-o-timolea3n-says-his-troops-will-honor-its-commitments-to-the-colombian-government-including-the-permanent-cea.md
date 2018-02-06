@@ -17,7 +17,7 @@ BOGOTA, Colombia (AP) — As peace talks in Colombia advanced over the past year
 
 ### Changes:
 
-1. [Colombian peace agreement referendum, 2016: FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum. President Juan Manuel Santos calls the country's political parties to an emergency meeting. ](/news/2016/10/3/colombian-peace-agreement-referendum-2016-farc-leader-rodrigo-londoa-o-timolea3n-says-his-troops-will-honor-its-commitments-to-the-colom.md) _2017-08-27 03:46:57 (First version)_
+1. [Colombian peace agreement referendum, 2016: FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum. President Juan Manuel Santos calls the country's political parties to an emergency meeting. ](/news/2016/10/3/colombian-peace-agreement-referendum-2016-farc-leader-rodrigo-londoa-o-timolea3n-says-his-troops-will-honor-its-commitments-to-the-colom.md) _2018-02-06 13:49:29 (First version)_
 1. [FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum. President Juan Manuel Santos calls the country's political parties to an emergency meeting. ](/news/2016/10/3/farc-leader-rodrigo-londoa-o-timolea3n-says-his-troops-will-honor-its-commitments-to-the-colombian-government-including-the-permanent-cea.md) _(Current version)_
 
 ### Related:

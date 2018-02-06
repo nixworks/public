@@ -16,7 +16,7 @@ U.S.-led warplanes on Wednesday blocked a convoy of Islamic State fighters and t
 
 ### Changes:
 
-1. [CJTF-OIR jets destroy a section of road blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. ](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blocking-the-path-of-a-convoy-carrying-isil-evacuees-from-the-lebanonasyria-border-en-route-to-a.md) _2017-08-31 06:30:05 (First version)_
+1. [CJTF-OIR jets destroy a section of road blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. ](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blocking-the-path-of-a-convoy-carrying-isil-evacuees-from-the-lebanonasyria-border-en-route-to-a.md) _2018-02-06 13:49:31 (First version)_
 1. [CJTF-OIR jets destroy a section of road, blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. ](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blocking-the-path-of-a-convoy-carrying-isil-evacuees-from-the-lebanonasyria-border-en-route-to.md) _(Current version)_
 
 ### Related:

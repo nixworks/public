@@ -18,7 +18,7 @@ A local court in the southern Taiwan city of Tainan ruled on Tuesday to take int
 
 ### Changes:
 
-1. [2016 Taiwan earthquake: The death toll from Saturday's earthquake in Taiwan rises to 41 with 109 people missing. ](/news/2016/02/9/2016-taiwan-earthquake-the-death-toll-from-saturday-s-earthquake-in-taiwan-rises-to-41-with-109-people-missing.md) _2017-08-27 03:44:52 (First version)_
+1. [2016 Taiwan earthquake: The death toll from Saturday's earthquake in Taiwan rises to 41 with 109 people missing. ](/news/2016/02/9/2016-taiwan-earthquake-the-death-toll-from-saturday-s-earthquake-in-taiwan-rises-to-41-with-109-people-missing.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from Saturday's earthquake in Taiwan rises to 41 with 109 people missing. ](/news/2016/02/9/the-death-toll-from-saturday-s-earthquake-in-taiwan-rises-to-41-with-109-people-missing.md) _(Current version)_
 
 ### Related:

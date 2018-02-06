@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/iraqi-civil-war-2014-present-a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md) _2017-08-27 03:46:43 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/iraqi-civil-war-2014-present-a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md) _(Current version)_
 
 ### Related:

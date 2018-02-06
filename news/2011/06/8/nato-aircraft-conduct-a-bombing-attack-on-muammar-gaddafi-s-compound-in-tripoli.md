@@ -17,8 +17,8 @@ POWERFUL explosions have again rocked the area around the residence of Libyan le
 
 ### Changes:
 
-1. [Libyan Civil War:NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-pnato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md) _2017-08-25 03:33:25 (First version)_
-2. [Libyan Civil War:: NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-nato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md) _2017-08-27 03:33:33 (Update)_
+1. [Libyan Civil War:NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-pnato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-nato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md) _2018-02-06 13:49:22 (Update)_
 2. [NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/nato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md) _(Current version)_
 
 ### Related:

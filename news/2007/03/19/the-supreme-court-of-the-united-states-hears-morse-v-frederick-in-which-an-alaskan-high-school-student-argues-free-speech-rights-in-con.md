@@ -16,7 +16,7 @@ A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus
 
 ### Changes:
 
-1. [ The Supreme Court of the United States hears ''Morse v. Frederick'', in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in.md) _2017-08-25 03:19:26 (First version)_
+1. [ The Supreme Court of the United States hears ''Morse v. Frederick'', in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Supreme Court of the United States hears "Morse v. Frederick", in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.md) _(Current version)_
 
 ### Related:

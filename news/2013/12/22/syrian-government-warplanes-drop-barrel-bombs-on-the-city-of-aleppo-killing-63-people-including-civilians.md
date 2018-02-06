@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/22/syrian-government-warplanes-drop-barrel-bombs-o
 
 ### Changes:
 
-1. [Syrian Civil War:Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-civil-war-psyrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md) _2017-08-25 03:39:45 (First version)_
-2. [Syrian Civil War:: Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-civil-war-syrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md) _2017-08-27 03:40:03 (Update)_
+1. [Syrian Civil War:: Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-civil-war-syrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-civil-war-psyrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md) _(Current version)_
 
 ### Related:

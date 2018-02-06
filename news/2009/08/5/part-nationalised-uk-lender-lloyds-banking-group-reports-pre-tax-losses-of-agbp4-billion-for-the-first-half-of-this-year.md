@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/08/5/part-nationalised-uk-lender-lloyds-banking-group
 
 ### Changes:
 
-1. [ Part-nationalised UK lender Lloyds Banking Group reports pre-tax losses of PS4 billion for the first half of this year. ](/news/2009/08/5/part-nationalised-uk-lender-lloyds-banking-group-reports-pre-tax-losses-of-aps4-billion-for-the-first-half-of-this-year.md) _2017-08-25 03:25:22 (First version)_
+1. [ Part-nationalised UK lender Lloyds Banking Group reports pre-tax losses of PS4 billion for the first half of this year. ](/news/2009/08/5/part-nationalised-uk-lender-lloyds-banking-group-reports-pre-tax-losses-of-aps4-billion-for-the-first-half-of-this-year.md) _2018-02-06 13:49:19 (First version)_
 1. [ Part-nationalised UK lender Lloyds Banking Group reports pre-tax losses of GBP4 billion for the first half of this year. ](/news/2009/08/5/part-nationalised-uk-lender-lloyds-banking-group-reports-pre-tax-losses-of-agbp4-billion-for-the-first-half-of-this-year.md) _(Current version)_
 
 ### Related:

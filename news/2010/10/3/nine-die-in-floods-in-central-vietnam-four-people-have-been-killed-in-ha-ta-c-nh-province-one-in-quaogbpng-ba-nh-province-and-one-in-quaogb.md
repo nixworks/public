@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-peopl
 
 ### Changes:
 
-1. [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in Quang Binh Province and one in Quang Tri Province, while two individuals were injured in [a Tinh and Quang Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaopsng-ba-nh-province-and-one-in-quaopsng.md) _2017-08-25 03:30:20 (First version)_
+1. [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in Quang Binh Province and one in Quang Tri Province, while two individuals were injured in [a Tinh and Quang Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaopsng-ba-nh-province-and-one-in-quaopsng.md) _2018-02-06 13:49:20 (First version)_
 1. [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in QuGBPng Binh Province and one in QuGBPng Tri Province, while two individuals were injured in [a Tinh and QuGBPng Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaogbpng-ba-nh-province-and-one-in-quaogb.md) _(Current version)_
 
 ### Related:

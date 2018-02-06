@@ -16,7 +16,7 @@ The new 20 euro note, the third in the Europa series, enters into circulation on
 
 ### Changes:
 
-1. [The new 20 euro note, the third in the Europa series, enters into circulation today. The European Central Bank says the banknote has a -refreshed look and more vibrant colours,- and includes a new kind of security feature: a -portrait window- near the top of the hologram stripe which becomes transparent when seen against the light. ](/news/2015/11/25/the-new-20-euro-note-the-third-in-the-europa-series-enters-into-circulation-today-the-european-central-bank-says-the-banknote-has-a-re.md) _2017-08-27 03:44:03 (First version)_
+1. [The new 20 euro note, the third in the Europa series, enters into circulation today. The European Central Bank says the banknote has a -refreshed look and more vibrant colours,- and includes a new kind of security feature: a -portrait window- near the top of the hologram stripe which becomes transparent when seen against the light. ](/news/2015/11/25/the-new-20-euro-note-the-third-in-the-europa-series-enters-into-circulation-today-the-european-central-bank-says-the-banknote-has-a-re.md) _2018-02-06 13:49:28 (First version)_
 1. [The new 20 euro note, the third in the Europa series, enters into circulation today. The European Central Bank says the banknote has a "refreshed look and more vibrant colours," and includes a new kind of security feature: a "portrait window" near the top of the hologram stripe which becomes transparent when seen against the light. ](/news/2015/11/25/the-new-20-euro-note-the-third-in-the-europa-series-enters-into-circulation-today-the-european-central-bank-says-the-banknote-has-a-are.md) _(Current version)_
 
 ### Related:

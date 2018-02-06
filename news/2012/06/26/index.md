@@ -9,11 +9,11 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). ](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.md)
-_Context: List of politicians killed in the Mexican Drug War, Institutional Revolutionary Party, Mexican Drug War, Apaxtla, Guerrero_
+_Context: Apaxtla, Guerrero, Mexican Drug War, List of politicians killed in the Mexican Drug War, Institutional Revolutionary Party_
 
 ##### Rohingya
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
-_Context: Rohingya, Buddhist, Burma_
+_Context: Burma, Rohingya, Buddhist_
 
 ##### Libya
 ### [A bomb explodes outside the Tunisian consulate in Libya; no casualties are reported. ](/news/2012/06/26/a-bomb-explodes-outside-the-tunisian-consulate-in-libya-no-casualties-are-reported.md)
@@ -37,7 +37,7 @@ The five members of the Spice Girls reunite to launch Viva Forever!, a new West 
 
 ##### Salman Rushdie
 ### ["The Stressful Life of Salman Rushdie and Implementation of his Verdict", an in-development video game designed to introduce the younger generations to "The Satanic Verses" controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-gen.md)
-_Context: Salman Rushdie, Tehran, ''The Satanic Verses'' controversy_
+_Context: Salman Rushdie, ''The Satanic Verses'' controversy, Tehran_
 
 ##### University of Virginia
 ### [The University of Virginia reinstates President Teresa Sullivan after she was ousted without a formal vote earlier this month. ](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.md)
@@ -49,7 +49,7 @@ Stockton set to become the largest American city ever to declare bankruptcy.
 
 ##### Bhutan
 ### [Bhutan's four-century old Wangdue Phodrang Dzong, a ridge-top monastery, catches fire and is destroyed; however no relics were destroyed since the monastery was undergoing a renovation. ](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.md)
-_Context: Bhutan, Wangdue Phodrang Dzong, monastery_
+_Context: Bhutan, monastery, Wangdue Phodrang Dzong_
 
 ##### Tropical Storm Debby
 ### [Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-interstate-10-and-interstate-75-in-th.md)

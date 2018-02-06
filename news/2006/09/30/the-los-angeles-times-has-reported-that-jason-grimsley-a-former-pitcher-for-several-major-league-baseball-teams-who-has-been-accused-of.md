@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-g
 
 ### Changes:
 
-1. [ The ''Los Angeles Times'' has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-o.md) _2017-08-25 03:18:29 (First version)_
+1. [ The ''Los Angeles Times'' has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-o.md) _2018-02-06 13:49:17 (First version)_
 1. [ The "Los Angeles Times" has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-of.md) _(Current version)_
 
 ### Related:

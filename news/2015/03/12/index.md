@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/12/index.html)  [JSON](2015/03/12/index.json)  [XML](201
 
 ##### Somalia
 ### [A U.S. drone strike in Somalia near the town of Bardhere kills the mastermind al-Shabab terrorist Aden Garaar responsible for the September 2013 three-day siege Westgate shopping mall attack in Nairobi, Kenya, in which 67 people were killed by four gunmen. ](/news/2015/03/12/a-u-s-drone-strike-in-somalia-near-the-town-of-bardhere-kills-the-mastermind-al-shabab-terrorist-aden-garaar-responsible-for-the-september.md)
-_Context: Al-Shabaab, Westgate shopping mall attack, Nairobi, Somalia, Aden Garaar, Bardhere_
+_Context: Nairobi, Bardhere, Aden Garaar, Al-Shabaab, Westgate shopping mall attack, Somalia_
 
 ##### United Steelworkers
 ### [The United Steelworkers union and Royal Dutch Shell negotiate a contract, pending union ratification, to end of a six-week strike that began February 1 that has affected twelve U.S. refineries. Previously, the strike had been cited as a reason for recent oil price increases. ](/news/2015/03/12/the-united-steelworkers-union-and-royal-dutch-shell-negotiate-a-contract-pending-union-ratification-to-end-of-a-six-week-strike-that-began.md)
@@ -17,7 +17,7 @@ _Context: New York City, Argentine debt restructuring, Thomas Griesa, Citigroup_
 
 ##### 2014-15 South Pacific cyclone season
 ### [Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-tropical-cyclone-intensity-scale.md)
-_Context: Category 3 or Category 4 hurricane, category 5, Pam, Vanuatu, typhoon, 2014-15 South Pacific cyclone season_
+_Context: typhoon, category 5, 2014-15 South Pacific cyclone season, Vanuatu, Pam, Category 3 or Category 4 hurricane_
 
 ##### 2014-15 Australian region cyclone season
 ### [Tropical Cyclone Olwyn intensifies with the potential to reach Category 3 on the Saffir-Simpson scale before making landfall in Western Australia's Pilbara region on March 13. ](/news/2015/03/12/tropical-cyclone-olwyn-intensifies-with-the-potential-to-reach-category-3-on-the-saffir-simpson-scale-before-making-landfall-in-western-aust.md)
@@ -29,11 +29,11 @@ A cement warehouse partially collapses in Bangladesh, with at least eight people
 
 ##### Ferguson unrest
 ### [An unknown gunman shoots two policemen in front of the Ferguson city police headquarters in the U.S. state of Missouri. ](/news/2015/03/12/an-unknown-gunman-shoots-two-policemen-in-front-of-the-ferguson-city-police-headquarters-in-the-u-s-state-of-missouri.md)
-_Context: Missouri, Ferguson, Missouri, police force, U.S. state, Ferguson unrest_
+_Context: Ferguson, Missouri, Missouri, Ferguson unrest, U.S. state, police force_
 
 ##### anti-graft agency
 ### [The anti-graft agency of the Communist Party of China (CCFDI) investigates former Urumqi party chief Li Zhi. He is the first official investigated from Xinjiang since the campaign began in 2013. ](/news/2015/03/12/the-anti-graft-agency-of-the-communist-party-of-china-ccfdi-investigates-former-urumqi-party-chief-li-zhi-he-is-the-first-official-invest.md)
-_Context: Urumqi, investigates, anti-graft agency, Xinjiang, Li Zhi_
+_Context: anti-graft agency, Urumqi, investigates, Li Zhi, Xinjiang_
 
 ##### CERN
 ### [CERN's Large Hadron Collider, which went into shutdown for upgrades to increase beam energy, will resume operation later this month with the hope of creating more Higgs boson particles. ](/news/2015/03/12/cern-s-large-hadron-collider-which-went-into-shutdown-for-upgrades-to-increase-beam-energy-will-resume-operation-later-this-month-with-the.md)

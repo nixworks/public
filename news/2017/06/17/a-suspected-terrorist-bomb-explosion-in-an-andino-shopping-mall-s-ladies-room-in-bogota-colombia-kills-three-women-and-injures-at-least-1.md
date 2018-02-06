@@ -17,8 +17,8 @@ A bomb attack inside a shopping mall in one of the most exclusive areas of Colom
 
 ### Changes:
 
-1. [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills one woman and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-one-woman-and-injures-at-least-11.md) _2017-06-18 03:51:04 (First version)_
-2. [Colombian conflict: A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills three women and injures at least 11. ](/news/2017/06/17/colombian-conflict-a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-three-women-an.md) _2017-08-27 03:48:30 (Update)_
+1. [Colombian conflict: A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills three women and injures at least 11. ](/news/2017/06/17/colombian-conflict-a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-three-women-an.md) _2018-02-06 13:49:30 (First version)_
+2. [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills one woman and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-one-woman-and-injures-at-least-11.md) _2018-02-06 13:49:30 (Update)_
 2. [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills three women and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-three-women-and-injures-at-least-1.md) _(Current version)_
 
 ### Related:

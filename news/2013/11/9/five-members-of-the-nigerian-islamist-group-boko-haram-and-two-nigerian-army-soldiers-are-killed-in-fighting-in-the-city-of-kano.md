@@ -16,8 +16,8 @@ Five members of theNigerian Islamist sect Boko Haram and two soldiers were kille
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-pfive-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting.md) _2017-08-25 03:39:30 (First version)_
-2. [Islamist insurgency in Nigeria:: Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fightin.md) _2017-08-27 03:39:48 (Update)_
+1. [Islamist insurgency in Nigeria:Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-pfive-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fightin.md) _2018-02-06 13:49:25 (Update)_
 2. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _(Current version)_
 
 ### Related:

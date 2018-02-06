@@ -21,8 +21,8 @@ Calls said to be made for anti-government rallies apparently inspired by events 
 
 ### Changes:
 
-1. [Other Arab Spring:Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-popposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisia.md) _2017-08-25 03:32:09 (First version)_
-2. [Other Arab Spring:: Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-opposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisi.md) _2017-08-27 03:32:18 (Update)_
+1. [Other Arab Spring:Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-popposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisia.md) _2018-02-06 13:49:21 (First version)_
+2. [Other Arab Spring:: Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-opposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisi.md) _2018-02-06 13:49:21 (Update)_
 2. [Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/opposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisian-and-egyptian-revo.md) _(Current version)_
 
 ### Related:

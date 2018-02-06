@@ -9,15 +9,15 @@ Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the
 
 ##### Baidoa
 ### [At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. ](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.md)
-_Context: Somalia, Baidoa_
+_Context: Baidoa, Somalia_
 
 ##### Daniel Bahr
 ### [German Health Minister Daniel Bahr tells "Die Welt" that the Israeli government's declaration of Gunter Grass as "persona non grata" in reaction to his poem "What Must Be Said" is "exaggerated". Meanwhile, a sculpture celebrating freedom of speech in Gottingen is daubed in red paint telling the recipient of the 1999 Nobel Prize in Literature to "shut your mouth". ](/news/2012/04/9/german-health-minister-daniel-bahr-tells-die-welt-that-the-israeli-government-s-declaration-of-ga1-4nter-grass-as-persona-non-grata-in-rea.md)
-_Context: Die Welt, freedom of speech, Daniel Bahr, persona non grata, Gottingen, Nobel Prize in Literature, What Must Be Said, Gunter Grass_
+_Context: Daniel Bahr, Gunter Grass, freedom of speech, persona non grata, Nobel Prize in Literature, Gottingen, What Must Be Said, Die Welt_
 
 ##### The Lion King
 ### ["The Lion King" becomes the all-time highest grossing show on Broadway, overtaking "The Phantom of the Opera". ](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.md)
-_Context: Broadway, The Phantom of the Opera, The Lion King_
+_Context: The Lion King, Broadway, The Phantom of the Opera_
 
 ##### China
 ### [China establishes a rare earth association in order to streamline the sector's development. ](/news/2012/04/9/china-establishes-a-rare-earth-association-in-order-to-streamline-the-sector-s-development.md)

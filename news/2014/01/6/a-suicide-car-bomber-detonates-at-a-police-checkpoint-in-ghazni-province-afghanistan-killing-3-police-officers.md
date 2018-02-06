@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/6/a-suicide-car-bomber-detonates-at-a-police-check
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001apresent-pa-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police.md) _2017-08-25 03:39:49 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001-present-a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-polic.md) _2017-08-27 03:40:07 (Update)_
+1. [War in Afghanistan (2001-present):A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001apresent-pa-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001-present-a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-polic.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police-officers.md) _(Current version)_
 
 ### Related:

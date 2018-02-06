@@ -16,7 +16,7 @@ A stabbing at a Tube station in east London, in which one man suffered serious i
 
 ### Changes:
 
-1. [Terrorism in the United Kingdom: Scotland Yard advises that it will be treating three non-fatal stabbings at the Leytonstone tube station in London as a terrorist incident. ](/news/2015/12/5/terrorism-in-the-united-kingdom-scotland-yard-advises-that-it-will-be-treating-three-non-fatal-stabbings-at-the-leytonstone-tube-station-in.md) _2017-08-27 03:44:11 (First version)_
+1. [Terrorism in the United Kingdom: Scotland Yard advises that it will be treating three non-fatal stabbings at the Leytonstone tube station in London as a terrorist incident. ](/news/2015/12/5/terrorism-in-the-united-kingdom-scotland-yard-advises-that-it-will-be-treating-three-non-fatal-stabbings-at-the-leytonstone-tube-station-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Scotland Yard advises that it will be treating three non-fatal stabbings at the Leytonstone tube station in London as a terrorist incident. ](/news/2015/12/5/scotland-yard-advises-that-it-will-be-treating-three-non-fatal-stabbings-at-the-leytonstone-tube-station-in-london-as-a-terrorist-incident.md) _(Current version)_
 
 ### Related:

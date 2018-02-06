@@ -16,8 +16,8 @@ Suspected Islamist Boko Haram gunmen rampaged through three villages in northern
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/islamist-insurgency-in-nigeria-pboko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md) _2017-08-25 03:40:27 (First version)_
-2. [Islamist insurgency in Nigeria:: Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/islamist-insurgency-in-nigeria-boko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md) _2017-08-27 03:40:44 (Update)_
+1. [Islamist insurgency in Nigeria:Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/islamist-insurgency-in-nigeria-pboko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/islamist-insurgency-in-nigeria-boko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md) _2018-02-06 13:49:26 (Update)_
 2. [Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/boko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ Police clear protesters from central Madrid, after nationwide protests by the &q
 
 ### Changes:
 
-1. [Eurozone debt crisis:The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-pthe-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing.md) _2017-08-25 03:35:41 (First version)_
-2. [Eurozone debt crisis:: The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoin.md) _2017-08-27 03:35:51 (Update)_
+1. [Eurozone debt crisis:: The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoin.md) _2018-02-06 13:49:23 (First version)_
+2. [Eurozone debt crisis:The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-pthe-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing.md) _2018-02-06 13:49:23 (Update)_
 2. [The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing-debt-crisis-and-high.md) _(Current version)_
 
 ### Related:

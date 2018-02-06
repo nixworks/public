@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talk
 
 ### Changes:
 
-1. [Syrian Civil War: Syria peace talks in Vienna: U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/syrian-civil-war-syria-peace-talks-in-vienna-u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be.md) _2017-08-27 03:43:37 (First version)_
+1. [Syrian Civil War: Syria peace talks in Vienna: U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/syrian-civil-war-syria-peace-talks-in-vienna-u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be.md) _2018-02-06 13:49:28 (First version)_
 1. [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md) _(Current version)_
 
 ### Related:

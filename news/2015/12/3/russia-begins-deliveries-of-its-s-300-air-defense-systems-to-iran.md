@@ -16,7 +16,7 @@ Russia has started the delivery of its S-300 air defense systems to Iran, TASS n
 
 ### Changes:
 
-1. [Iran-Russia relations: Russia begins deliveries of its S-300 air defense systems to Iran. ](/news/2015/12/3/iran-russia-relations-russia-begins-deliveries-of-its-s-300-air-defense-systems-to-iran.md) _2017-08-27 03:44:10 (First version)_
+1. [Iran-Russia relations: Russia begins deliveries of its S-300 air defense systems to Iran. ](/news/2015/12/3/iran-russia-relations-russia-begins-deliveries-of-its-s-300-air-defense-systems-to-iran.md) _2018-02-06 13:49:28 (First version)_
 1. [Russia begins deliveries of its S-300 air defense systems to Iran. ](/news/2015/12/3/russia-begins-deliveries-of-its-s-300-air-defense-systems-to-iran.md) _(Current version)_
 
 ### Related:

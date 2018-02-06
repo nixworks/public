@@ -17,7 +17,7 @@ Authorities in the Philippines are hunting for more than 100 prisoners who escap
 
 ### Changes:
 
-1. [2017 Kidapawan jail siege: More than 100 prisoners escape in the Philippines after armed suspected Muslim rebels storm a prison in Kidapawan. A prison guard dies. ](/news/2017/01/3/2017-kidapawan-jail-siege-more-than-100-prisoners-escape-in-the-philippines-after-armed-suspected-muslim-rebels-storm-a-prison-in-kidapawan.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Kidapawan jail siege: More than 100 prisoners escape in the Philippines after armed suspected Muslim rebels storm a prison in Kidapawan. A prison guard dies. ](/news/2017/01/3/2017-kidapawan-jail-siege-more-than-100-prisoners-escape-in-the-philippines-after-armed-suspected-muslim-rebels-storm-a-prison-in-kidapawan.md) _2018-02-06 13:49:30 (First version)_
 1. [More than 100 prisoners escape in the Philippines after armed suspected Muslim rebels storm a prison in Kidapawan. A prison guard dies. ](/news/2017/01/3/more-than-100-prisoners-escape-in-the-philippines-after-armed-suspected-muslim-rebels-storm-a-prison-in-kidapawan-a-prison-guard-dies.md) _(Current version)_
 
 ### Related:

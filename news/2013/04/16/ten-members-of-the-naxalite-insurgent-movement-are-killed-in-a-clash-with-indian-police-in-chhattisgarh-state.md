@@ -16,8 +16,8 @@ Ten Naxals were killed and several others injured in an encounter with security 
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency:Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/naxaliteamaoist-insurgency-pten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md) _2017-08-25 03:38:21 (First version)_
-2. [Naxalite-Maoist insurgency:: Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/naxalite-maoist-insurgency-ten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md) _2017-08-27 03:38:34 (Update)_
+1. [Naxalite-Maoist insurgency:Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/naxaliteamaoist-insurgency-pten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md) _2018-02-06 13:49:24 (First version)_
+2. [Naxalite-Maoist insurgency:: Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/naxalite-maoist-insurgency-ten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md) _2018-02-06 13:49:24 (Update)_
 2. [Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/ten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md) _(Current version)_
 
 ### Related:

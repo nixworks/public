@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circui
 
 ### Changes:
 
-1. [The U.S. Court of Appeals for the Seventh Circuit denies the release of Brendan Dassey, subject of the 2015 documentary series ''Making a Murderer''. ](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circuit-denies-the-release-of-brendan-dassey-subject-of-the-2015-documentary-series-making-a-mu.md) _2017-08-25 03:46:50 (First version)_
+1. [The U.S. Court of Appeals for the Seventh Circuit denies the release of Brendan Dassey, subject of the 2015 documentary series ''Making a Murderer''. ](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circuit-denies-the-release-of-brendan-dassey-subject-of-the-2015-documentary-series-making-a-mu.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. Court of Appeals for the Seventh Circuit denies the release of Brendan Dassey, subject of the 2015 documentary series "Making a Murderer". ](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circuit-denies-the-release-of-brendan-dassey-subject-of-the-2015-documentary-series-making-a-mur.md) _(Current version)_
 
 ### Related:

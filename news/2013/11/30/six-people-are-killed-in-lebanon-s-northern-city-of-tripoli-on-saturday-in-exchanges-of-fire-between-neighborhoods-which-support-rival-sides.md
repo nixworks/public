@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/30/six-people-are-killed-in-lebanon-s-northern-cit
 
 ### Changes:
 
-1. [Syrian civil war spillover in Lebanon:Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/syrian-civil-war-spillover-in-lebanon-psix-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between.md) _2017-08-25 03:39:36 (First version)_
-2. [Syrian civil war spillover in Lebanon:: Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/syrian-civil-war-spillover-in-lebanon-six-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between.md) _2017-08-27 03:39:54 (Update)_
+1. [Syrian civil war spillover in Lebanon:: Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/syrian-civil-war-spillover-in-lebanon-six-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war spillover in Lebanon:Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/syrian-civil-war-spillover-in-lebanon-psix-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between.md) _2018-02-06 13:49:25 (Update)_
 2. [Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/six-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between-neighborhoods-which-support-rival-sides.md) _(Current version)_
 
 ### Related:

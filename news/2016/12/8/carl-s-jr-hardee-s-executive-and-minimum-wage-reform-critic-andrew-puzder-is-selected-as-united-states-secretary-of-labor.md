@@ -16,7 +16,7 @@ Mr. Puzder, chief executive of the company behind Hardee’s and Carl’s Jr., a
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/presidential-transition-of-donald-trump-carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-st.md) _2017-08-27 03:47:24 (First version)_
+1. [Presidential transition of Donald Trump: Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/presidential-transition-of-donald-trump-carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-st.md) _2018-02-06 13:49:30 (First version)_
 1. [Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md) _(Current version)_
 
 ### Related:

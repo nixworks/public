@@ -18,7 +18,7 @@ Military and security officials say fierce battles are ongoing between military 
 
 ### Changes:
 
-1. [Yemeni Civil War: Government forces and the Southern Resistance backed by coalition forces wrest control of the strategic strait of Bab Al Mandab and a small Mayoun Island in the Red Sea from Houthi militants. ](/news/2015/10/1/yemeni-civil-war-government-forces-and-the-southern-resistance-backed-by-coalition-forces-wrest-control-of-the-strategic-strait-of-bab-al-m.md) _2017-08-27 03:43:12 (First version)_
+1. [Yemeni Civil War: Government forces and the Southern Resistance backed by coalition forces wrest control of the strategic strait of Bab Al Mandab and a small Mayoun Island in the Red Sea from Houthi militants. ](/news/2015/10/1/yemeni-civil-war-government-forces-and-the-southern-resistance-backed-by-coalition-forces-wrest-control-of-the-strategic-strait-of-bab-al-m.md) _2018-02-06 13:49:27 (First version)_
 1. [Government forces and the Southern Resistance backed by coalition forces wrest control of the strategic strait of Bab Al Mandab and a small Mayoun Island in the Red Sea from Houthi militants. ](/news/2015/10/1/government-forces-and-the-southern-resistance-backed-by-coalition-forces-wrest-control-of-the-strategic-strait-of-bab-al-mandab-and-a-small.md) _(Current version)_
 
 ### Related:

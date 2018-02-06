@@ -17,7 +17,7 @@ Ukrainian government forces and pro-Russian separatists exchange dozens of priso
 
 ### Changes:
 
-1. [War in Donbass: Pro-Russian rebels start a two-week process of removing heavy weapons from the front lines in eastern Ukraine in accordance with the ceasefire agreement. ](/news/2015/02/22/war-in-donbass-pro-russian-rebels-start-a-two-week-process-of-removing-heavy-weapons-from-the-front-lines-in-eastern-ukraine-in-accordance.md) _2017-08-27 03:41:59 (First version)_
+1. [War in Donbass: Pro-Russian rebels start a two-week process of removing heavy weapons from the front lines in eastern Ukraine in accordance with the ceasefire agreement. ](/news/2015/02/22/war-in-donbass-pro-russian-rebels-start-a-two-week-process-of-removing-heavy-weapons-from-the-front-lines-in-eastern-ukraine-in-accordance.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-Russian rebels start a two-week process of removing heavy weapons from the front lines in eastern Ukraine in accordance with the ceasefire agreement. ](/news/2015/02/22/pro-russian-rebels-start-a-two-week-process-of-removing-heavy-weapons-from-the-front-lines-in-eastern-ukraine-in-accordance-with-the-ceasefi.md) _(Current version)_
 
 ### Related:

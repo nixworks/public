@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-pa
 
 ### Changes:
 
-1. [A United Nations survey reveals Afghans have paid about US$2.5 (or 1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-ps1-5-billion-in-bribes-in-the-last-year.md) _2017-08-25 03:26:55 (First version)_
+1. [A United Nations survey reveals Afghans have paid about US$2.5 (or 1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-ps1-5-billion-in-bribes-in-the-last-year.md) _2018-02-06 13:49:19 (First version)_
 1. [A United Nations survey reveals Afghans have paid about US$2.5 (or GBP1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-gbp1-5-billion-in-bribes-in-the-last-year.md) _(Current version)_
 
 ### Related:

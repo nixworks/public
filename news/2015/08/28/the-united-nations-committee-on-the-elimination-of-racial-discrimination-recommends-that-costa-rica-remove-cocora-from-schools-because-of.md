@@ -16,7 +16,7 @@ The U.N. Committee on the Elimination of Racial Discrimination said its members 
 
 ### Changes:
 
-1. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove ''Cocori'' from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because.md) _2017-08-25 03:42:38 (First version)_
+1. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove ''Cocori'' from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because.md) _2018-02-06 13:49:27 (First version)_
 1. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove "Cocori" from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.md) _(Current version)_
 
 ### Related:

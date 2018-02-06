@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/04/15/the-death-toll-from-the-west-africa-ebola-outbr
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/2014-west-africa-ebola-outbreak-the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md) _2017-08-27 03:40:35 (First version)_
+1. [2014 West Africa Ebola outbreak: The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/2014-west-africa-ebola-outbreak-the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md) _(Current version)_
 
 ### Related:

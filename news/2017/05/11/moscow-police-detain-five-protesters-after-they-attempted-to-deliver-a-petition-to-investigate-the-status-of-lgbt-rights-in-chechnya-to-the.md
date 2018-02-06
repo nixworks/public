@@ -16,7 +16,7 @@ They were calling for an investigation into the alleged torture of gay people in
 
 ### Changes:
 
-1. [Five protesters are detained in Moscow, after attempting to deliver a petition to investigate the poor state of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/five-protesters-are-detained-in-moscow-after-attempting-to-deliver-a-petition-to-investigate-the-poor-state-of-lgbt-rights-in-chechnya-to-t.md) _2017-05-11 16:30:06 (First version)_
+1. [Five protesters are detained in Moscow, after attempting to deliver a petition to investigate the poor state of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/five-protesters-are-detained-in-moscow-after-attempting-to-deliver-a-petition-to-investigate-the-poor-state-of-lgbt-rights-in-chechnya-to-t.md) _2018-02-06 13:49:30 (First version)_
 1. [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md) _(Current version)_
 
 ### Related:

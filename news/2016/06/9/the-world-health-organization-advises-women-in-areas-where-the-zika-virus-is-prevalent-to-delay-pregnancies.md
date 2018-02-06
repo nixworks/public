@@ -16,7 +16,7 @@ The advice affects millions of couples in 46 countries across Latin America and 
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies. ](/news/2016/06/9/2015-16-zika-virus-epidemic-the-world-health-organization-advises-women-in-areas-where-the-zika-virus-is-prevalent-to-delay-pregnancies.md) _2017-08-27 03:46:14 (First version)_
+1. [2015-16 Zika virus epidemic: The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies. ](/news/2016/06/9/2015-16-zika-virus-epidemic-the-world-health-organization-advises-women-in-areas-where-the-zika-virus-is-prevalent-to-delay-pregnancies.md) _2018-02-06 13:49:29 (First version)_
 1. [The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies. ](/news/2016/06/9/the-world-health-organization-advises-women-in-areas-where-the-zika-virus-is-prevalent-to-delay-pregnancies.md) _(Current version)_
 
 ### Related:

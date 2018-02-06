@@ -16,7 +16,7 @@ A bill which allows same-sex weddings to take place in Scotland is passed by MSP
 
 ### Changes:
 
-1. [The Scottish Parliament votes overwhelmingly (105-18) in favor of a bill legalizing same-sex marriage in Scotland. ](/news/2014/02/4/the-scottish-parliament-votes-overwhelmingly-105-18-in-favor-of-a-bill-legalizing-same-sex-marriage-in-scotland.md) _2017-08-27 03:40:16 (First version)_
+1. [The Scottish Parliament votes overwhelmingly (105-18) in favor of a bill legalizing same-sex marriage in Scotland. ](/news/2014/02/4/the-scottish-parliament-votes-overwhelmingly-105-18-in-favor-of-a-bill-legalizing-same-sex-marriage-in-scotland.md) _2018-02-06 13:49:25 (First version)_
 1. [The Scottish Parliament votes overwhelmingly (105-18) in favor of a bill legalizing same-sex marriage in Scotland. ](/news/2014/02/4/the-scottish-parliament-votes-overwhelmingly-105a18-in-favor-of-a-bill-legalizing-same-sex-marriage-in-scotland.md) _(Current version)_
 
 ### Related:

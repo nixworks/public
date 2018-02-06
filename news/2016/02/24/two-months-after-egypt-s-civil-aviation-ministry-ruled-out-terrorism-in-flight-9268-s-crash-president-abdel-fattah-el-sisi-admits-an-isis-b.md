@@ -16,7 +16,7 @@ Abdel Fattah Al Sisi, Jan. 30, 2016. (AP Photo/Mulugeta Ayene) Finally, months a
 
 ### Changes:
 
-1. [Metrojet Flight 9268: Two months after Egypt's Civil Aviation Ministry ruled out terrorism in Flight 9268's crash, President Abdel Fattah el-Sisi admits an ISIS bomb downed the Russian passenger jet. The terrorist group's Sinai Peninsula Branch claimed responsibility shortly after the incident. ](/news/2016/02/24/metrojet-flight-9268-two-months-after-egypt-s-civil-aviation-ministry-ruled-out-terrorism-in-flight-9268-s-crash-president-abdel-fattah-el.md) _2017-08-27 03:45:01 (First version)_
+1. [Metrojet Flight 9268: Two months after Egypt's Civil Aviation Ministry ruled out terrorism in Flight 9268's crash, President Abdel Fattah el-Sisi admits an ISIS bomb downed the Russian passenger jet. The terrorist group's Sinai Peninsula Branch claimed responsibility shortly after the incident. ](/news/2016/02/24/metrojet-flight-9268-two-months-after-egypt-s-civil-aviation-ministry-ruled-out-terrorism-in-flight-9268-s-crash-president-abdel-fattah-el.md) _2018-02-06 13:49:28 (First version)_
 1. [Two months after Egypt's Civil Aviation Ministry ruled out terrorism in Flight 9268's crash, President Abdel Fattah el-Sisi admits an ISIS bomb downed the Russian passenger jet. The terrorist group's Sinai Peninsula Branch claimed responsibility shortly after the incident. ](/news/2016/02/24/two-months-after-egypt-s-civil-aviation-ministry-ruled-out-terrorism-in-flight-9268-s-crash-president-abdel-fattah-el-sisi-admits-an-isis-b.md) _(Current version)_
 
 ### Related:

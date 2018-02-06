@@ -16,7 +16,7 @@ The Twitter and YouTube accounts for the U.S. military command that oversees ope
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/islamic-state-of-iraq-and-the-levant-apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and.md) _2017-08-27 03:41:46 (First version)_
+1. [Islamic State of Iraq and the Levant: Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/islamic-state-of-iraq-and-the-levant-apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and.md) _2018-02-06 13:49:26 (First version)_
 1. [Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and-youtube.md) _(Current version)_
 
 ### Related:

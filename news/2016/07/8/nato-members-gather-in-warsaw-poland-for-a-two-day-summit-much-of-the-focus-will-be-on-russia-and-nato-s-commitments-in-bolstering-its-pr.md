@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/8/nato-members-gather-in-warsaw-poland-for-a-two-d
 
 ### Changes:
 
-1. [2016 Warsaw summit: NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/2016-warsaw-summit-nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments.md) _2017-08-27 03:46:26 (First version)_
+1. [2016 Warsaw summit: NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/2016-warsaw-summit-nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments.md) _2018-02-06 13:49:29 (First version)_
 1. [NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments-in-bolstering-its-pr.md) _(Current version)_
 
 ### Related:

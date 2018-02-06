@@ -16,7 +16,7 @@ KABUL (PAN) Afghanistan is set to lift a block placed on Youtube more than two m
 
 ### Changes:
 
-1. [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video ''Innocence of Muslims''. ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-musli.md) _2017-08-25 03:36:52 (First version)_
+1. [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video ''Innocence of Muslims''. ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-musli.md) _2018-02-06 13:49:24 (First version)_
 1. [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video "Innocence of Muslims". ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-muslim.md) _(Current version)_
 
 ### Related:

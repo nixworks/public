@@ -17,7 +17,7 @@ Pregnant women should consider not traveling to the 2016 Olympic Games in Brazil
 
 ### Changes:
 
-1. [ Because of the risk of Zika virus infection, the U.S. Centers for Disease Control and Prevention (CDC) recommends pregnant women consider not traveling to Brazil for the 2016 Summer Olympics in August, and-or for the 2016 Summer Paralympics the following month. ](/news/2016/02/26/because-of-the-risk-of-zika-virus-infection-the-u-s-centers-for-disease-control-and-prevention-cdc-recommends-pregnant-women-consider.md) _2017-08-25 03:44:41 (First version)_
+1. [ Because of the risk of Zika virus infection, the U.S. Centers for Disease Control and Prevention (CDC) recommends pregnant women consider not traveling to Brazil for the 2016 Summer Olympics in August, and-or for the 2016 Summer Paralympics the following month. ](/news/2016/02/26/because-of-the-risk-of-zika-virus-infection-the-u-s-centers-for-disease-control-and-prevention-cdc-recommends-pregnant-women-consider.md) _2018-02-06 13:49:28 (First version)_
 1. [ Because of the risk of Zika virus infection, the U.S. Centers for Disease Control and Prevention (CDC) recommends pregnant women consider not traveling to Brazil for the 2016 Summer Olympics in August, and-or for the 2016 Summer Paralympics the following month. ](/news/2016/02/26/because-of-the-risk-of-zika-virus-infection-the-u-s-centers-for-disease-control-and-prevention-cdc-recommends-pregnant-women-consider-n.md) _(Current version)_
 
 ### Related:

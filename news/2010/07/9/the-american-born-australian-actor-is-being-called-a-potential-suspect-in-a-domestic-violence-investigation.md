@@ -19,8 +19,8 @@ The Sheriff&#39;s Department says it is investigating Mel Gibson over a possible
 
 ### Changes:
 
-1. [Mel Gibson:The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/mel-gibson-pthe-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md) _2017-08-25 03:28:40 (First version)_
-2. [Mel Gibson:: The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/mel-gibson-the-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md) _2017-08-27 03:28:39 (Update)_
+1. [Mel Gibson:: The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/mel-gibson-the-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md) _2018-02-06 13:49:20 (First version)_
+2. [Mel Gibson:The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/mel-gibson-pthe-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md) _2018-02-06 13:49:20 (Update)_
 2. [The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/the-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md) _(Current version)_
 
 ### Related:

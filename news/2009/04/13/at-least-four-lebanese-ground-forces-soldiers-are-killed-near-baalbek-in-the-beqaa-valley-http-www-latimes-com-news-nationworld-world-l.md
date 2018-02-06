@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-a
 
 ### Changes:
 
-1. [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. ](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley.md) _2017-08-25 03:24:20 (First version)_
+1. [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. ](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley.md) _2018-02-06 13:49:18 (First version)_
 1. [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. [http:--www.latimes.com-news-nationworld-world-la-fg-lebanon-ambush14-2009apr14,0,3527611.story "(Los Angeles Times)"]](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley-http-www-latimes-com-news-nationworld-world-l.md) _(Current version)_
 
 ### Related:

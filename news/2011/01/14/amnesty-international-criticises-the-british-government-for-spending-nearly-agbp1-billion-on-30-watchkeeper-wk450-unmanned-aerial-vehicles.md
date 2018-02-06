@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/01/14/amnesty-international-criticises-the-british-go
 
 ### Changes:
 
-1. [Amnesty International criticises the British government for spending nearly PS1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-aps1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles-ua.md) _2017-08-25 03:31:46 (First version)_
+1. [Amnesty International criticises the British government for spending nearly PS1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-aps1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles-ua.md) _2018-02-06 13:49:21 (First version)_
 1. [Amnesty International criticises the British government for spending nearly GBP1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-agbp1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles.md) _(Current version)_
 
 ### Related:

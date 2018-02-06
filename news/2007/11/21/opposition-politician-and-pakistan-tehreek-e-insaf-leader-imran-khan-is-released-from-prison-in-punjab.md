@@ -18,8 +18,8 @@ Formats: [HTML](/news/2007/11/21/opposition-politician-and-pakistan-tehreek-e-in
 
 ### Changes:
 
-1. [ 2007 Pakistani state of emergency: Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/2007-pakistani-state-of-emergency-p-opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md) _2017-08-25 03:21:26 (First version)_
-2. [ 2007 Pakistani state of emergency:: Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/2007-pakistani-state-of-emergency-opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md) _2017-08-27 03:21:22 (Update)_
+1. [ 2007 Pakistani state of emergency: Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/2007-pakistani-state-of-emergency-p-opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pakistani state of emergency:: Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/2007-pakistani-state-of-emergency-opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md) _2018-02-06 13:49:18 (Update)_
 2. [ Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md) _(Current version)_
 
 ### Related:

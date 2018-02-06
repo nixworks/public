@@ -16,7 +16,7 @@ Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic
 
 ### Changes:
 
-1. [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008-09-financial-crisis-until-2014.md) _2017-08-27 03:24:38 (First version)_
+1. [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008-09-financial-crisis-until-2014.md) _2018-02-06 13:49:19 (First version)_
 1. [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008a09-financial-crisis-until-2014.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Two men and a woman were killed in a shooting inside a suburban Denver Walmart o
 
 ### Changes:
 
-1. [A gunman opens fire in a Wal-Mart in Thornton, Colorado, killing three people. ](/news/2017/11/1/a-gunman-opens-fire-in-a-wal-mart-in-thornton-colorado-killing-three-people.md) _2017-11-02 20:30:05 (First version)_
+1. [A gunman opens fire in a Wal-Mart in Thornton, Colorado, killing three people. ](/news/2017/11/1/a-gunman-opens-fire-in-a-wal-mart-in-thornton-colorado-killing-three-people.md) _2018-02-06 13:49:31 (First version)_
 1. [A gunman opens fire in a Walmart in Thornton, Colorado, killing three people. ](/news/2017/11/1/a-gunman-opens-fire-in-a-walmart-in-thornton-colorado-killing-three-people.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Supporters of the two leading candidates in Iran’s presidential election took 
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Official campaigning ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/iranian-presidential-election-2017-official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-lead.md) _2017-08-27 03:48:21 (First version)_
+1. [Iranian presidential election, 2017: Official campaigning ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/iranian-presidential-election-2017-official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-lead.md) _2018-02-06 13:49:30 (First version)_
 1. [Official campaigning ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-leading-candidates.md) _(Current version)_
 
 ### Related:

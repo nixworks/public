@@ -16,7 +16,7 @@ The attack comes ahead of the June 22 polling for by-election to Anantnag Assemb
 
 ### Changes:
 
-1. [Kashmir conflict: Two militants attack a police checkpoint in the city of Anantnag in south Kashmir killing two Indian police officers. ](/news/2016/06/4/kashmir-conflict-two-militants-attack-a-police-checkpoint-in-the-city-of-anantnag-in-south-kashmir-killing-two-indian-police-officers.md) _2017-08-27 03:46:12 (First version)_
+1. [Kashmir conflict: Two militants attack a police checkpoint in the city of Anantnag in south Kashmir killing two Indian police officers. ](/news/2016/06/4/kashmir-conflict-two-militants-attack-a-police-checkpoint-in-the-city-of-anantnag-in-south-kashmir-killing-two-indian-police-officers.md) _2018-02-06 13:49:29 (First version)_
 1. [Two militants attack a police checkpoint in the city of Anantnag in south Kashmir killing two Indian police officers. ](/news/2016/06/4/two-militants-attack-a-police-checkpoint-in-the-city-of-anantnag-in-south-kashmir-killing-two-indian-police-officers.md) _(Current version)_
 
 ### Related:

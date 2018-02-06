@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/7/at-least-five-people-are-killed-in-a-boko-haram-
 
 ### Changes:
 
-1. [Boko Haram: At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/boko-haram-at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md) _2017-08-27 03:42:16 (First version)_
+1. [Boko Haram: At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/boko-haram-at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md) _2018-02-06 13:49:27 (First version)_
 1. [At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md) _(Current version)_
 
 ### Related:

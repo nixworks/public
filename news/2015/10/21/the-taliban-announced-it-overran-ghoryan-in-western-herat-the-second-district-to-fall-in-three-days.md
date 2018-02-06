@@ -16,7 +16,7 @@ Map detailing Taliban-controlled or contested districts. Click colored district 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban announced it overran Ghoryan in western Herat, the second district to fall in three days. ](/news/2015/10/21/war-in-afghanistan-2015-present-the-taliban-announced-it-overran-ghoryan-in-western-herat-the-second-district-to-fall-in-three-days.md) _2017-08-27 03:43:26 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban announced it overran Ghoryan in western Herat, the second district to fall in three days. ](/news/2015/10/21/war-in-afghanistan-2015-present-the-taliban-announced-it-overran-ghoryan-in-western-herat-the-second-district-to-fall-in-three-days.md) _2018-02-06 13:49:28 (First version)_
 1. [The Taliban announced it overran Ghoryan in western Herat, the second district to fall in three days. ](/news/2015/10/21/the-taliban-announced-it-overran-ghoryan-in-western-herat-the-second-district-to-fall-in-three-days.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-
 
 ### Changes:
 
-1. [ Thousands of Poles continue to protest against the bill concerning the Supreme Court. [http:--www.politico.eu-article-protests-in-warsaw-as-government-moves-on-courts- (''Politico'')](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court-http-www-politico-eu-article-protests-in-warsaw-a.md) _2017-07-21 11:30:06 (First version)_
-2. [Cabinet of Beata Szydlo: Thousands of Poles continue to protest against the bill concerning the Supreme Court. ](/news/2017/07/20/cabinet-of-beata-szydao-thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court.md) _2017-08-27 03:48:41 (Update)_
+1. [ Thousands of Poles continue to protest against the bill concerning the Supreme Court. [http:--www.politico.eu-article-protests-in-warsaw-as-government-moves-on-courts- (''Politico'')](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court-http-www-politico-eu-article-protests-in-warsaw-a.md) _2018-02-06 13:49:30 (First version)_
+2. [Cabinet of Beata Szydlo: Thousands of Poles continue to protest against the bill concerning the Supreme Court. ](/news/2017/07/20/cabinet-of-beata-szydao-thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court.md) _2018-02-06 13:49:30 (Update)_
 2. [Thousands of Poles continue to protest against the bill concerning the Supreme Court. ](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court.md) _(Current version)_
 
 ### Related:

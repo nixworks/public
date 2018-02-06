@@ -15,7 +15,7 @@ A huge explosion has rocked the rebel-held city of Donetsk in eastern Ukraine, s
 
 ### Changes:
 
-1. [War in Donbass: A huge explosion occurs in a rubber factory in the rebel held city of Donetsk with the Russian media claiming it was caused by a missile. The Government of Ukraine denies the charges. ](/news/2014/10/20/war-in-donbass-a-huge-explosion-occurs-in-a-rubber-factory-in-the-rebel-held-city-of-donetsk-with-the-russian-media-claiming-it-was-caused.md) _2017-08-27 03:41:25 (First version)_
+1. [War in Donbass: A huge explosion occurs in a rubber factory in the rebel held city of Donetsk with the Russian media claiming it was caused by a missile. The Government of Ukraine denies the charges. ](/news/2014/10/20/war-in-donbass-a-huge-explosion-occurs-in-a-rubber-factory-in-the-rebel-held-city-of-donetsk-with-the-russian-media-claiming-it-was-caused.md) _2018-02-06 13:49:26 (First version)_
 1. [A huge explosion occurs in a rubber factory in the rebel held city of Donetsk with the Russian media claiming it was caused by a missile. The Government of Ukraine denies the charges. ](/news/2014/10/20/a-huge-explosion-occurs-in-a-rubber-factory-in-the-rebel-held-city-of-donetsk-with-the-russian-media-claiming-it-was-caused-by-a-missile-th.md) _(Current version)_
 
 ### Related:

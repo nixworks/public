@@ -16,8 +16,8 @@ Low turnout and vote abuses marred Sunday elections meant to complete democratic
 
 ### Changes:
 
-1. [Malian parliamentary election, 2013:Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/malian-parliamentary-election-2013-pvotes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter.md) _2017-08-25 03:39:35 (First version)_
-2. [Malian parliamentary election, 2013:: Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/malian-parliamentary-election-2013-votes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter.md) _2017-08-27 03:39:53 (Update)_
+1. [Malian parliamentary election, 2013:: Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/malian-parliamentary-election-2013-votes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter.md) _2018-02-06 13:49:25 (First version)_
+2. [Malian parliamentary election, 2013:Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/malian-parliamentary-election-2013-pvotes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter.md) _2018-02-06 13:49:25 (Update)_
 2. [Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/votes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter-turnout-and-abuses.md) _(Current version)_
 
 ### Related:

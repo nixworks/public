@@ -17,8 +17,8 @@ At least four people died in clashes on Friday as supporters of deposed Presiden
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present):Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/islamist-protests-in-egypt-july-2013apresent-pfour-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-op.md) _2017-08-25 03:39:21 (First version)_
-2. [Islamist protests in Egypt (July 2013-present):: Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/islamist-protests-in-egypt-july-2013-present-four-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-o.md) _2017-08-27 03:39:38 (Update)_
+1. [Islamist protests in Egypt (July 2013-present):Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/islamist-protests-in-egypt-july-2013apresent-pfour-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-op.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/islamist-protests-in-egypt-july-2013-present-four-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-o.md) _2018-02-06 13:49:25 (Update)_
 2. [Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/four-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-opponents-and-security-forces.md) _(Current version)_
 
 ### Related:

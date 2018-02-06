@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candi
 
 ### Changes:
 
-1. [United States presidential election, 2016: Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/united-states-presidential-election-2016-florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-pre.md) _2017-08-27 03:42:11 (First version)_
+1. [United States presidential election, 2016: Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/united-states-presidential-election-2016-florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-pre.md) _2018-02-06 13:49:27 (First version)_
 1. [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md) _(Current version)_
 
 ### Related:

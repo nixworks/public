@@ -16,8 +16,8 @@ Survivors of sexual assault and harassment gather Sunday for the &quot;Me Too Su
 
 ### Changes:
 
-1. [Hundreds of sexual abuse survivors and their supporters march in Hollywood. ](/news/2017/11/12/hundreds-of-sexual-abuse-survivors-and-their-supporters-march-in-hollywood.md) _2017-11-12 21:30:07 (First version)_
-2. [Hundreds of sexual abuse survivors and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-survivors-and-their-supporters-march-in-hollywood-california.md) _2017-11-13 19:30:05 (Update)_
+1. [Hundreds of sexual abuse survivors and their supporters march in Hollywood. ](/news/2017/11/12/hundreds-of-sexual-abuse-survivors-and-their-supporters-march-in-hollywood.md) _2018-02-06 13:49:31 (First version)_
+2. [Hundreds of sexual abuse survivors and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-survivors-and-their-supporters-march-in-hollywood-california.md) _2018-02-06 13:49:31 (Update)_
 2. [Hundreds of sexual abuse victims and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Philippine police are to suspend their controversial war on drugs until &ldq
 
 ### Changes:
 
-1. [Philippine Drug War: Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding -corrupt- officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-drug-war-philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-corrupt-officers.md) _2017-08-27 03:47:43 (First version)_
+1. [Philippine Drug War: Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding -corrupt- officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-drug-war-philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-corrupt-officers.md) _2018-02-06 13:49:30 (First version)_
 1. [Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md) _(Current version)_
 
 ### Related:

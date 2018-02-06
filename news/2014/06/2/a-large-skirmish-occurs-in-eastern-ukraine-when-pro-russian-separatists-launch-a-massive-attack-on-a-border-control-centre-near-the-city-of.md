@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/06/2/a-large-skirmish-occurs-in-eastern-ukraine-when-
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: A large skirmish occurs in eastern Ukraine when pro-Russian separatists launch a massive attack on a border control centre near the city of Luhansk; five militants are killed and another eight are wounded, and seven Ukrainian border guards are wounded in the clash. ](/news/2014/06/2/2014-pro-russian-conflict-in-ukraine-a-large-skirmish-occurs-in-eastern-ukraine-when-pro-russian-separatists-launch-a-massive-attack-on-a-b.md) _2017-08-27 03:40:47 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: A large skirmish occurs in eastern Ukraine when pro-Russian separatists launch a massive attack on a border control centre near the city of Luhansk; five militants are killed and another eight are wounded, and seven Ukrainian border guards are wounded in the clash. ](/news/2014/06/2/2014-pro-russian-conflict-in-ukraine-a-large-skirmish-occurs-in-eastern-ukraine-when-pro-russian-separatists-launch-a-massive-attack-on-a-b.md) _2018-02-06 13:49:26 (First version)_
 1. [A large skirmish occurs in eastern Ukraine when pro-Russian separatists launch a massive attack on a border control centre near the city of Luhansk; five militants are killed and another eight are wounded, and seven Ukrainian border guards are wounded in the clash. ](/news/2014/06/2/a-large-skirmish-occurs-in-eastern-ukraine-when-pro-russian-separatists-launch-a-massive-attack-on-a-border-control-centre-near-the-city-of.md) _(Current version)_
 
 ### Related:

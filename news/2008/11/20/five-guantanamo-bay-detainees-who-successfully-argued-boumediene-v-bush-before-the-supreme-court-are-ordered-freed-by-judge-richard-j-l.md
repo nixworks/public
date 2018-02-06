@@ -16,7 +16,7 @@ A federal judge ordered the release of five Algerian men held at Guantánamo Bay
 
 ### Changes:
 
-1. [ Five Guantnamo Bay detainees who successfully argued ''Boumediene v. Bush'' before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. ](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-argued-boumediene-v-bush-before-the-supreme-court-are-ordered-freed-by-judge-richard-j.md) _2017-08-25 03:23:12 (First version)_
+1. [ Five Guantnamo Bay detainees who successfully argued ''Boumediene v. Bush'' before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. ](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-argued-boumediene-v-bush-before-the-supreme-court-are-ordered-freed-by-judge-richard-j.md) _2018-02-06 13:49:18 (First version)_
 1. [ Five Guantnamo Bay detainees who successfully argued "Boumediene v. Bush" before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. ](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-argued-boumediene-v-bush-before-the-supreme-court-are-ordered-freed-by-judge-richard-j-l.md) _(Current version)_
 
 ### Related:

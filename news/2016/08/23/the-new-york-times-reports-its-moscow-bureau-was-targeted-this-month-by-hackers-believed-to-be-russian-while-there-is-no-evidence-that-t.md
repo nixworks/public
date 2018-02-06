@@ -17,7 +17,7 @@ The New York Times said on Tuesday its Moscow bureau was targeted by a cyber att
 
 ### Changes:
 
-1. [''The New York Times'' reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that.md) _2017-08-25 03:46:19 (First version)_
+1. [''The New York Times'' reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that.md) _2018-02-06 13:49:29 (First version)_
 1. ["The New York Times" reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that-t.md) _(Current version)_
 
 ### Related:

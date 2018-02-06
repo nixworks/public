@@ -29,7 +29,7 @@ Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&
 
 ##### Lady Gaga
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
-_Context: Lady Gaga, 2010 ceremony, MTV Video Music Awards, Bad Romance_
+_Context: Bad Romance, Lady Gaga, MTV Video Music Awards, 2010 ceremony_
 
 ##### 2010 Copiap mining accident
 ### [The 33 miners involved in the 2010 Copiap mining accident are permitted to smoke cigarettes after one month of underground entrapment. ](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.md)
@@ -65,7 +65,7 @@ Iranian authorities are ready to release on $500,000 (£325,000) bail one of the
 
 ##### Mexican marines
 ### [Mexican marines capture alleged Beltrn Leyva Cartel leader Sergio Villarreal Barragn in the state of Puebla. ](/news/2010/09/12/mexican-marines-capture-alleged-beltran-leyva-cartel-leader-sergio-villarreal-barragan-in-the-state-of-puebla.md)
-_Context: Beltrn Leyva Cartel, Mexican marines, Puebla, Sergio Villarreal Barragn_
+_Context: Puebla, Beltrn Leyva Cartel, Sergio Villarreal Barragn, Mexican marines_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
@@ -83,7 +83,7 @@ Australia is investigating claims that an Indonesian counter-terrorism unit fund
 ### [Airplane cleaners in the Philippines locate a newborn male baby human which had been discarded in a toilet bin. ](/news/2010/09/12/airplane-cleaners-in-the-philippines-locate-a-newborn-male-baby-human-which-had-been-discarded-in-a-toilet-bin.md)
 Cleaners sweeping through a passenger jet that landed at the Philippines&#039; main international airport found a newborn baby dumped in a bin in a toilet on Sunday.
 
-##### Turkish
+##### Turkey
 ### [Voters in Turkey go to the polls for a referendum to amend the constitution. ](/news/2010/09/12/voters-in-turkey-go-to-the-polls-for-a-referendum-to-amend-the-constitution.md)
 With 99 per cent of votes counted, provisional results show referendum passing with 58 per cent support.
 

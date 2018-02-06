@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/14/pakistan-army-s-inter-services-public-relations
 
 ### Changes:
 
-1. [2016 India-Pakistan military confrontation: Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/2016-india-pakistan-military-confrontation-pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-b.md) _2017-08-27 03:47:14 (First version)_
+1. [2016 India-Pakistan military confrontation: Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/2016-india-pakistan-military-confrontation-pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-b.md) _2018-02-06 13:49:29 (First version)_
 1. [Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-been-killed-by-indian-cross-border-shelling-in.md) _(Current version)_
 
 ### Related:

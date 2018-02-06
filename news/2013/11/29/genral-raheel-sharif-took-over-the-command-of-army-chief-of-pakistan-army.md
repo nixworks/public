@@ -16,8 +16,8 @@ The entire area around the venue of the ceremony was blocked off with military a
 
 ### Changes:
 
-1. [Chief of Army Staff (Pakistan) Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/chief-of-army-staff-pakistan-pgenral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md) _2017-08-25 03:39:36 (First version)_
-2. [Chief of Army Staff (Pakistan) : Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/chief-of-army-staff-pakistan-genral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md) _2017-08-27 03:39:54 (Update)_
+1. [Chief of Army Staff (Pakistan) Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/chief-of-army-staff-pakistan-pgenral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md) _2018-02-06 13:49:25 (First version)_
+2. [Chief of Army Staff (Pakistan) : Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/chief-of-army-staff-pakistan-genral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md) _2018-02-06 13:49:25 (Update)_
 2. [Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/genral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md) _(Current version)_
 
 ### Related:

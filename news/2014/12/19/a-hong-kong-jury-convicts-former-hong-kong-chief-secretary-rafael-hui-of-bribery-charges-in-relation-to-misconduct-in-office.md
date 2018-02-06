@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/12/19/a-hong-kong-jury-convicts-former-hong-kong-chie
 
 ### Changes:
 
-1. [Sun Hung Kai Properties Trial:A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/sun-hung-kai-properties-trial-pa-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misco.md) _2017-08-25 03:41:21 (First version)_
-2. [Sun Hung Kai Properties Trial:: A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/sun-hung-kai-properties-trial-a-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misc.md) _2017-08-27 03:41:39 (Update)_
+1. [Sun Hung Kai Properties Trial:A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/sun-hung-kai-properties-trial-pa-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misco.md) _2018-02-06 13:49:26 (First version)_
+2. [Sun Hung Kai Properties Trial:: A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/sun-hung-kai-properties-trial-a-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misc.md) _2018-02-06 13:49:26 (Update)_
 2. [A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/a-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misconduct-in-office.md) _(Current version)_
 
 ### Related:

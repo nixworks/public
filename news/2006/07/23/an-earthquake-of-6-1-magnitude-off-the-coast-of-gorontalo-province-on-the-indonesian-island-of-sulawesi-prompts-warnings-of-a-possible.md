@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of
 
 ### Changes:
 
-1. [ An '''earthquake''' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. ](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of-gorontalo-province-on-the-indonesian-island-of-sulawesi-prompts-warnings-of-a-possibl.md) _2017-08-25 03:18:05 (First version)_
+1. [ An '''earthquake''' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. ](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of-gorontalo-province-on-the-indonesian-island-of-sulawesi-prompts-warnings-of-a-possibl.md) _2018-02-06 13:49:17 (First version)_
 1. [ An "'earthquake"' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. ](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of-gorontalo-province-on-the-indonesian-island-of-sulawesi-prompts-warnings-of-a-possible.md) _(Current version)_
 
 ### Related:

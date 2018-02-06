@@ -19,8 +19,8 @@ At least seven people are injured after Christian protesters in central Cairo ar
 
 ### Changes:
 
-1. [2011 Egyptian revolution:Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-pmuslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-ten.md) _2017-08-25 03:33:07 (First version)_
-2. [2011 Egyptian revolution:: Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-te.md) _2017-08-27 03:33:16 (Update)_
+1. [2011 Egyptian revolution:Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-pmuslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-ten.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian revolution:: Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-te.md) _2018-02-06 13:49:22 (Update)_
 2. [Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-tensions-in-cairo-65-people.md) _(Current version)_
 
 ### Related:

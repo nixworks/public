@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/07/25/a-mystery-illness-spreading-through-western-chi
 
 ### Changes:
 
-1. [ A mystery illness spreading through Western China has claimed its 17th victim. Doctors have confirmed the disease is neither bird flu nor SARS ](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor.md) _2017-08-25 03:16:35 (First version)_
+1. [ A mystery illness spreading through Western China has claimed its 17th victim. Doctors have confirmed the disease is neither bird flu nor SARS ](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor.md) _2018-02-06 13:49:16 (First version)_
 1. [ A mystery illness spreading through Western China has claimed its 17th victim. Doctors have confirmed the disease is neither bird flu nor SARS ](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor-s.md) _(Current version)_
 
 ### Related:

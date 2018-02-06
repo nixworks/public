@@ -18,7 +18,7 @@ Russia has proposed to the U.S.-led coalition that they stage joint air strikes 
 
 ### Changes:
 
-1. [ Syrian Civil War: War on Terrorism: The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/syrian-civil-war-war-on-terrorism-the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syr.md) _2017-08-27 03:46:05 (First version)_
+1. [ Syrian Civil War: War on Terrorism: The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/syrian-civil-war-war-on-terrorism-the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syr.md) _2018-02-06 13:49:29 (First version)_
 1. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _(Current version)_
 
 ### Related:

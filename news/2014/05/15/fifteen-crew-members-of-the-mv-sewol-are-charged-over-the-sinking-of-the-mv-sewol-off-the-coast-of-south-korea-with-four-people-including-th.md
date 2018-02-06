@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/15/fifteen-crew-members-of-the-mv-sewol-are-charge
 
 ### Changes:
 
-1. [Sinking of the MV Sewol:Fifteen crew members of the MV Sewol are charged over the sinking of the MV Sewol off the coast of South Korea with four people including the captain charged with homicide. ](/news/2014/05/15/sinking-of-the-mv-sewol-pfifteen-crew-members-of-the-mv-sewol-are-charged-over-the-sinking-of-the-mv-sewol-off-the-coast-of-south-korea-with.md) _2017-08-25 03:40:24 (First version)_
-2. [Sinking of the MV Sewol:: Fifteen crew members of the MV Sewol are charged over the sinking of the MV Sewol off the coast of South Korea with four people including the captain charged with homicide. ](/news/2014/05/15/sinking-of-the-mv-sewol-fifteen-crew-members-of-the-mv-sewol-are-charged-over-the-sinking-of-the-mv-sewol-off-the-coast-of-south-korea-wit.md) _2017-08-27 03:40:42 (Update)_
+1. [Sinking of the MV Sewol:Fifteen crew members of the MV Sewol are charged over the sinking of the MV Sewol off the coast of South Korea with four people including the captain charged with homicide. ](/news/2014/05/15/sinking-of-the-mv-sewol-pfifteen-crew-members-of-the-mv-sewol-are-charged-over-the-sinking-of-the-mv-sewol-off-the-coast-of-south-korea-with.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinking of the MV Sewol:: Fifteen crew members of the MV Sewol are charged over the sinking of the MV Sewol off the coast of South Korea with four people including the captain charged with homicide. ](/news/2014/05/15/sinking-of-the-mv-sewol-fifteen-crew-members-of-the-mv-sewol-are-charged-over-the-sinking-of-the-mv-sewol-off-the-coast-of-south-korea-wit.md) _2018-02-06 13:49:26 (Update)_
 2. [Fifteen crew members of the MV Sewol are charged over the sinking of the MV Sewol off the coast of South Korea with four people including the captain charged with homicide. ](/news/2014/05/15/fifteen-crew-members-of-the-mv-sewol-are-charged-over-the-sinking-of-the-mv-sewol-off-the-coast-of-south-korea-with-four-people-including-th.md) _(Current version)_
 
 ### Related:

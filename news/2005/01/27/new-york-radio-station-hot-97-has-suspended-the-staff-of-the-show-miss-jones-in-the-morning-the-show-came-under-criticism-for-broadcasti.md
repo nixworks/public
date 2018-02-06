@@ -18,7 +18,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ### Changes:
 
-1. [ New York radio station Hot 97 has suspended the staff of the show ''Miss Jones in the Morning''. The show came under criticism for broadcasting a parody song that ridicules the victims of the 2004 Indian Ocean earthquake. ](/news/2005/01/27/new-york-radio-station-hot-97-has-suspended-the-staff-of-the-show-miss-jones-in-the-morning-the-show-came-under-criticism-for-broadcas.md) _2017-08-25 03:15:35 (First version)_
+1. [ New York radio station Hot 97 has suspended the staff of the show ''Miss Jones in the Morning''. The show came under criticism for broadcasting a parody song that ridicules the victims of the 2004 Indian Ocean earthquake. ](/news/2005/01/27/new-york-radio-station-hot-97-has-suspended-the-staff-of-the-show-miss-jones-in-the-morning-the-show-came-under-criticism-for-broadcas.md) _2018-02-06 13:49:16 (First version)_
 1. [ New York radio station Hot 97 has suspended the staff of the show "Miss Jones in the Morning". The show came under criticism for broadcasting a parody song that ridicules the victims of the 2004 Indian Ocean earthquake. ](/news/2005/01/27/new-york-radio-station-hot-97-has-suspended-the-staff-of-the-show-miss-jones-in-the-morning-the-show-came-under-criticism-for-broadcasti.md) _(Current version)_
 
 ### Related:

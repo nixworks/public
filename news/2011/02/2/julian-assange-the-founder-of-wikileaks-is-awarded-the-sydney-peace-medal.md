@@ -19,8 +19,8 @@ IN the estimation of the Sydney Peace Foundation, Australian Wikileaks founder J
 
 ### Changes:
 
-1. [Awards for the WikiLeaks website and Julian Assange:Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/awards-for-the-wikileaks-website-and-julian-assange-pjulian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md) _2017-08-25 03:32:01 (First version)_
-2. [Awards for the WikiLeaks website and Julian Assange:: Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/awards-for-the-wikileaks-website-and-julian-assange-julian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md) _2017-08-27 03:32:09 (Update)_
+1. [Awards for the WikiLeaks website and Julian Assange:Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/awards-for-the-wikileaks-website-and-julian-assange-pjulian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md) _2018-02-06 13:49:22 (First version)_
+2. [Awards for the WikiLeaks website and Julian Assange:: Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/awards-for-the-wikileaks-website-and-julian-assange-julian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md) _2018-02-06 13:49:22 (Update)_
 2. [Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/julian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md) _(Current version)_
 
 ### Related:

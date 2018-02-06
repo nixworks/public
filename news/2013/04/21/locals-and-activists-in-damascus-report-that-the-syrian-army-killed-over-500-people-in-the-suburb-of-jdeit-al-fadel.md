@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/21/locals-and-activists-in-damascus-report-that-th
 
 ### Changes:
 
-1. [Syrian civil war:Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-plocals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md) _2017-08-25 03:38:26 (First version)_
-2. [Syrian civil war:: Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-locals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md) _2017-08-27 03:38:38 (Update)_
+1. [Syrian civil war:Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-plocals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-locals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md) _2018-02-06 13:49:24 (Update)_
 2. [Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/locals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md) _(Current version)_
 
 ### Related:

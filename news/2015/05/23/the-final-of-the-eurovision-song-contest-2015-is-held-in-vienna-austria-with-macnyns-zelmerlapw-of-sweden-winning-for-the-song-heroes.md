@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-i
 
 ### Changes:
 
-1. [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with Mans Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-may-ns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md) _2017-08-25 03:42:04 (First version)_
+1. [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with Mans Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-may-ns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md) _2018-02-06 13:49:27 (First version)_
 1. [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with MCNYns Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-macnyns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md) _(Current version)_
 
 ### Related:

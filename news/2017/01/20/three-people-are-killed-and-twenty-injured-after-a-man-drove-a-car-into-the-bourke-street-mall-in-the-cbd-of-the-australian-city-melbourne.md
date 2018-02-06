@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/01/20/three-people-are-killed-and-twenty-injured-afte
 
 ### Changes:
 
-1. [Three people have been killed and twenty injured after a man drives a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to 6.](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.md) _2017-12-12 06:30:07 (First version)_
+1. [Three people have been killed and twenty injured after a man drives a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to 6.](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.md) _2018-02-06 13:49:30 (First version)_
 1. [Three people are killed and twenty injured after a man drove a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to six. ](/news/2017/01/20/three-people-are-killed-and-twenty-injured-after-a-man-drove-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melbourne.md) _(Current version)_
 
 ### Related:

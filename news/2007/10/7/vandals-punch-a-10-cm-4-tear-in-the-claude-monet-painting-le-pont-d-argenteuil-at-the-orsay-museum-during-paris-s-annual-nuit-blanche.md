@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet
 
 ### Changes:
 
-1. [ Vandals punch a 10-cm (4") tear in the Claude Monet painting ''Le Pont d'Argenteuil'' at the Orsay Museum during Paris's annual Nuit Blanche all-night cultural festival. ](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet-painting-le-pont-d-argenteuil-at-the-orsay-museum-during-paris-s-annual-nuit-blanch.md) _2017-08-25 03:21:08 (First version)_
+1. [ Vandals punch a 10-cm (4") tear in the Claude Monet painting ''Le Pont d'Argenteuil'' at the Orsay Museum during Paris's annual Nuit Blanche all-night cultural festival. ](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet-painting-le-pont-d-argenteuil-at-the-orsay-museum-during-paris-s-annual-nuit-blanch.md) _2018-02-06 13:49:18 (First version)_
 1. [ Vandals punch a 10-cm (4") tear in the Claude Monet painting "Le Pont d'Argenteuil" at the Orsay Museum during Paris's annual Nuit Blanche all-night cultural festival. ](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet-painting-le-pont-d-argenteuil-at-the-orsay-museum-during-paris-s-annual-nuit-blanche.md) _(Current version)_
 
 ### Related:

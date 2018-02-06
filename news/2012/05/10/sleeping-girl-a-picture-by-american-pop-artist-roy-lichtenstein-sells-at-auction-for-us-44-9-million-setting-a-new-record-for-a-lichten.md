@@ -16,7 +16,7 @@ A work by Pop Art icon Roy Lichtenstein sells for a record $45 million at a New 
 
 ### Changes:
 
-1. [''Sleeping Girl'', a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. ](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-roy-lichtenstein-sells-at-auction-for-us-44-9-million-setting-a-new-record-for-a-licht.md) _2017-08-25 03:35:39 (First version)_
+1. [''Sleeping Girl'', a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. ](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-roy-lichtenstein-sells-at-auction-for-us-44-9-million-setting-a-new-record-for-a-licht.md) _2018-02-06 13:49:23 (First version)_
 1. ["Sleeping Girl", a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. ](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-roy-lichtenstein-sells-at-auction-for-us-44-9-million-setting-a-new-record-for-a-lichten.md) _(Current version)_
 
 ### Related:

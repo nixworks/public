@@ -17,8 +17,8 @@ Taliban insurgents including a suicide bomber in a truck killed six people in an
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001apresent-pmilitants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2017-08-25 03:38:56 (First version)_
-2. [War in Afghanistan (2001-present):: Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001-present-militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2017-08-27 03:39:11 (Update)_
+1. [War in Afghanistan (2001-present):Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001apresent-pmilitants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan (2001-present):: Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001-present-militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2018-02-06 13:49:25 (Update)_
 2. [Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _(Current version)_
 
 ### Related:

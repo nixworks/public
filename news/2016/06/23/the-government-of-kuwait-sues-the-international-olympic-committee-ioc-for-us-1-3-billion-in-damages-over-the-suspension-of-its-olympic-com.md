@@ -15,7 +15,7 @@ Kuwaiti government has filed a lawsuit against the Olympic body for more than $1
 
 ### Changes:
 
-1. [2016 Summer Olympics: The government of Kuwait sues the International Olympic Committee (IOC) for US$1.3 billion in damages over the suspension of its Olympic committee last October due to the government's interference in sports. ](/news/2016/06/23/2016-summer-olympics-the-government-of-kuwait-sues-the-international-olympic-committee-ioc-for-us-1-3-billion-in-damages-over-the-suspens.md) _2017-08-27 03:46:19 (First version)_
+1. [2016 Summer Olympics: The government of Kuwait sues the International Olympic Committee (IOC) for US$1.3 billion in damages over the suspension of its Olympic committee last October due to the government's interference in sports. ](/news/2016/06/23/2016-summer-olympics-the-government-of-kuwait-sues-the-international-olympic-committee-ioc-for-us-1-3-billion-in-damages-over-the-suspens.md) _2018-02-06 13:49:29 (First version)_
 1. [The government of Kuwait sues the International Olympic Committee (IOC) for US$1.3 billion in damages over the suspension of its Olympic committee last October due to the government's interference in sports. ](/news/2016/06/23/the-government-of-kuwait-sues-the-international-olympic-committee-ioc-for-us-1-3-billion-in-damages-over-the-suspension-of-its-olympic-com.md) _(Current version)_
 
 ### Related:

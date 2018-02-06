@@ -20,7 +20,7 @@ Officials were arrested in Switzerland, which is also probing corruption in awar
 
 ### Changes:
 
-1. [FIFA corruption scandal: Six FIFA officials are detained in Switzerland for extradition to the United States in relation to allegations of corruption between the 1990s and now. Those arrested include Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin. ](/news/2015/05/27/fifa-corruption-scandal-six-fifa-officials-are-detained-in-switzerland-for-extradition-to-the-united-states-in-relation-to-allegations-of-c.md) _2017-08-27 03:42:25 (First version)_
+1. [FIFA corruption scandal: Six FIFA officials are detained in Switzerland for extradition to the United States in relation to allegations of corruption between the 1990s and now. Those arrested include Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin. ](/news/2015/05/27/fifa-corruption-scandal-six-fifa-officials-are-detained-in-switzerland-for-extradition-to-the-united-states-in-relation-to-allegations-of-c.md) _2018-02-06 13:49:27 (First version)_
 1. [Six FIFA officials are detained in Switzerland for extradition to the United States in relation to allegations of corruption between the 1990s and now. Those arrested include Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin. ](/news/2015/05/27/six-fifa-officials-are-detained-in-switzerland-for-extradition-to-the-united-states-in-relation-to-allegations-of-corruption-between-the-199.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-inj
 
 ### Changes:
 
-1. [War in Donbass: Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/war-in-donbass-fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramators.md) _2017-08-27 03:41:54 (First version)_
+1. [War in Donbass: Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/war-in-donbass-fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramators.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramatorsk.md) _(Current version)_
 
 ### Related:

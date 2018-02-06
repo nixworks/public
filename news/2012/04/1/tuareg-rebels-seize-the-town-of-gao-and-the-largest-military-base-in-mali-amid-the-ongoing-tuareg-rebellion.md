@@ -18,8 +18,8 @@ Tuareg separatist rebels in Mali have seized Timbuktu, taking effective control 
 
 ### Changes:
 
-1. [Mali:Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/mali-ptuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md) _2017-08-25 03:35:25 (First version)_
-2. [Mali:: Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/mali-tuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md) _2017-08-27 03:35:34 (Update)_
+1. [Mali:: Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/mali-tuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md) _2018-02-06 13:49:23 (First version)_
+2. [Mali:Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/mali-ptuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md) _2018-02-06 13:49:23 (Update)_
 2. [Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/tuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md) _(Current version)_
 
 ### Related:

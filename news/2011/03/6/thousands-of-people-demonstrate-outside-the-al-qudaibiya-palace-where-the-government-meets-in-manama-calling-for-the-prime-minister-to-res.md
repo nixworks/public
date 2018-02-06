@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/03/6/thousands-of-people-demonstrate-outside-the-al-q
 
 ### Changes:
 
-1. [2011 Bahraini protests:Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/2011-bahraini-protests-pthousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for-t.md) _2017-08-25 03:32:26 (First version)_
-2. [2011 Bahraini protests:: Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/2011-bahraini-protests-thousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for.md) _2017-08-27 03:32:33 (Update)_
+1. [2011 Bahraini protests:: Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/2011-bahraini-protests-thousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Bahraini protests:Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/2011-bahraini-protests-pthousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for-t.md) _2018-02-06 13:49:22 (Update)_
 2. [Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/thousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for-the-prime-minister-to-res.md) _(Current version)_
 
 ### Related:

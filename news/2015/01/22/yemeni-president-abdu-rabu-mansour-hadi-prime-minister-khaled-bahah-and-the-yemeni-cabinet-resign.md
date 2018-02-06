@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/01/22/yemeni-president-abdu-rabu-mansour-hadi-prime-m
 
 ### Changes:
 
-1. [Shia insurgency in Yemen:Yemeni President Abdu Rabu Mansour Hadi, Prime Minister Khaled Bahah, and the Yemeni cabinet resign. ](/news/2015/01/22/shia-insurgency-in-yemen-pyemeni-president-abdu-rabu-mansour-hadi-prime-minister-khaled-bahah-and-the-yemeni-cabinet-resign.md) _2017-08-25 03:41:31 (First version)_
-2. [Shia insurgency in Yemen:: Yemeni President Abdu Rabu Mansour Hadi, Prime Minister Khaled Bahah, and the Yemeni cabinet resign. ](/news/2015/01/22/shia-insurgency-in-yemen-yemeni-president-abdu-rabu-mansour-hadi-prime-minister-khaled-bahah-and-the-yemeni-cabinet-resign.md) _2017-08-27 03:41:49 (Update)_
+1. [Shia insurgency in Yemen:: Yemeni President Abdu Rabu Mansour Hadi, Prime Minister Khaled Bahah, and the Yemeni cabinet resign. ](/news/2015/01/22/shia-insurgency-in-yemen-yemeni-president-abdu-rabu-mansour-hadi-prime-minister-khaled-bahah-and-the-yemeni-cabinet-resign.md) _2018-02-06 13:49:26 (First version)_
+2. [Shia insurgency in Yemen:Yemeni President Abdu Rabu Mansour Hadi, Prime Minister Khaled Bahah, and the Yemeni cabinet resign. ](/news/2015/01/22/shia-insurgency-in-yemen-pyemeni-president-abdu-rabu-mansour-hadi-prime-minister-khaled-bahah-and-the-yemeni-cabinet-resign.md) _2018-02-06 13:49:26 (Update)_
 2. [Yemeni President Abdu Rabu Mansour Hadi, Prime Minister Khaled Bahah, and the Yemeni cabinet resign. ](/news/2015/01/22/yemeni-president-abdu-rabu-mansour-hadi-prime-minister-khaled-bahah-and-the-yemeni-cabinet-resign.md) _(Current version)_
 
 ### Related:

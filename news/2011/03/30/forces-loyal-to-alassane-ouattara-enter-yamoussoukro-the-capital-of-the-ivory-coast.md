@@ -17,7 +17,7 @@ Security Council votes unanimously to impose a travel ban and assets freeze on i
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis: Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md) _2017-08-27 03:32:49 (First version)_
+1. [2010-2011 Ivorian crisis: Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md) _2018-02-06 13:49:22 (First version)_
 1. [Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md) _(Current version)_
 
 ### Related:

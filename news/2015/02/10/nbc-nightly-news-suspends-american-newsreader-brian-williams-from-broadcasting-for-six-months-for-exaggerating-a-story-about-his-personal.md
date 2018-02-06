@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-b
 
 ### Changes:
 
-1. [''NBC Nightly News'' suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-persona.md) _2017-08-25 03:41:35 (First version)_
+1. [''NBC Nightly News'' suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-persona.md) _2018-02-06 13:49:26 (First version)_
 1. ["NBC Nightly News" suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-personal.md) _(Current version)_
 
 ### Related:

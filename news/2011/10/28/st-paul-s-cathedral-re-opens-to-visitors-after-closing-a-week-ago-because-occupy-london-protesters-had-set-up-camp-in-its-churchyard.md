@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/10/28/st-paul-s-cathedral-re-opens-to-visitors-after-
 
 ### Changes:
 
-1. [Occupy London protests:St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/occupy-london-protests-pst-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp-i.md) _2017-08-25 03:34:23 (First version)_
-2. [Occupy London protests:: St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/occupy-london-protests-st-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp.md) _2017-08-27 03:34:33 (Update)_
+1. [Occupy London protests:: St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/occupy-london-protests-st-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp.md) _2018-02-06 13:49:23 (First version)_
+2. [Occupy London protests:St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/occupy-london-protests-pst-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp-i.md) _2018-02-06 13:49:23 (Update)_
 2. [St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/st-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp-in-its-churchyard.md) _(Current version)_
 
 ### Related:

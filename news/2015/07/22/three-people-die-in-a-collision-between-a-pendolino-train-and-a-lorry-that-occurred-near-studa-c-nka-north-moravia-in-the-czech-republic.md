@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2015 Studenka train crash: Three people die in a collision between a Pendolino train and a lorry that occurred near Studenka, north Moravia, in the Czech Republic. ](/news/2015/07/22/2015-studa-c-nka-train-crash-three-people-die-in-a-collision-between-a-pendolino-train-and-a-lorry-that-occurred-near-studa-c-nka-north-moravi.md) _2017-08-27 03:42:44 (First version)_
+1. [2015 Studenka train crash: Three people die in a collision between a Pendolino train and a lorry that occurred near Studenka, north Moravia, in the Czech Republic. ](/news/2015/07/22/2015-studa-c-nka-train-crash-three-people-die-in-a-collision-between-a-pendolino-train-and-a-lorry-that-occurred-near-studa-c-nka-north-moravi.md) _2018-02-06 13:49:27 (First version)_
 1. [ Three people die in a collision between a Pendolino train and a lorry that occurred near Studenka, north Moravia, in the Czech Republic. ](/news/2015/07/22/three-people-die-in-a-collision-between-a-pendolino-train-and-a-lorry-that-occurred-near-studa-c-nka-north-moravia-in-the-czech-republic.md) _(Current version)_
 
 ### Related:

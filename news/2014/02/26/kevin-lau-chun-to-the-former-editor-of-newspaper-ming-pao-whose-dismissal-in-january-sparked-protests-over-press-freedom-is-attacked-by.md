@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspape
 
 ### Changes:
 
-1. [Kevin Lau Chun-to, the former editor of newspaper ''Ming Pao'' whose dismissal in January sparked protests over press freedom, is attacked by a man with a meat cleaver in his Hong Kong neighborhood. He is in critical condition. ](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspaper-ming-pao-whose-dismissal-in-january-sparked-protests-over-press-freedom-is-attacked-b.md) _2017-08-25 03:40:05 (First version)_
+1. [Kevin Lau Chun-to, the former editor of newspaper ''Ming Pao'' whose dismissal in January sparked protests over press freedom, is attacked by a man with a meat cleaver in his Hong Kong neighborhood. He is in critical condition. ](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspaper-ming-pao-whose-dismissal-in-january-sparked-protests-over-press-freedom-is-attacked-b.md) _2018-02-06 13:49:25 (First version)_
 1. [Kevin Lau Chun-to, the former editor of newspaper "Ming Pao" whose dismissal in January sparked protests over press freedom, is attacked by a man with a meat cleaver in his Hong Kong neighborhood. He is in critical condition. ](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspaper-ming-pao-whose-dismissal-in-january-sparked-protests-over-press-freedom-is-attacked-by.md) _(Current version)_
 
 ### Related:

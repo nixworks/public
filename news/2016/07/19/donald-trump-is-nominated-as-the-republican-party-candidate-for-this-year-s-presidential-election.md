@@ -16,7 +16,7 @@ Donald Trump was formally chosen as the Republican Party&#x27;s presidential nom
 
 ### Changes:
 
-1. [2016 Republican National Convention: Donald Trump is nominated as the Republican Party candidate for this year's presidential election. ](/news/2016/07/19/2016-republican-national-convention-donald-trump-is-nominated-as-the-republican-party-candidate-for-this-year-s-presidential-election.md) _2017-08-27 03:46:31 (First version)_
+1. [2016 Republican National Convention: Donald Trump is nominated as the Republican Party candidate for this year's presidential election. ](/news/2016/07/19/2016-republican-national-convention-donald-trump-is-nominated-as-the-republican-party-candidate-for-this-year-s-presidential-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Donald Trump is nominated as the Republican Party candidate for this year's presidential election. ](/news/2016/07/19/donald-trump-is-nominated-as-the-republican-party-candidate-for-this-year-s-presidential-election.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Polling stations close across Northern Ireland for the 2017 Assembly election.
 
 ### Changes:
 
-1. [Northern Ireland Assembly election, 2017: Northern Irish voters go to the polls to elect their new MLA representatives after a snap election was called following the resignation of Deputy First minister Martin McGuinness of Sinn Fin over the mishandling by Democratic Unionist Party over the recent Renewable Heat Incentive scandal. ](/news/2017/03/2/northern-ireland-assembly-election-2017-northern-irish-voters-go-to-the-polls-to-elect-their-new-mla-representatives-after-a-snap-election.md) _2017-08-27 03:47:56 (First version)_
+1. [Northern Ireland Assembly election, 2017: Northern Irish voters go to the polls to elect their new MLA representatives after a snap election was called following the resignation of Deputy First minister Martin McGuinness of Sinn Fin over the mishandling by Democratic Unionist Party over the recent Renewable Heat Incentive scandal. ](/news/2017/03/2/northern-ireland-assembly-election-2017-northern-irish-voters-go-to-the-polls-to-elect-their-new-mla-representatives-after-a-snap-election.md) _2018-02-06 13:49:30 (First version)_
 1. [Northern Irish voters go to the polls to elect their new MLA representatives after a snap election was called following the resignation of Deputy First minister Martin McGuinness of Sinn Fein over the mishandling by Democratic Unionist Party over the recent Renewable Heat Incentive scandal. ](/news/2017/03/2/northern-irish-voters-go-to-the-polls-to-elect-their-new-mla-representatives-after-a-snap-election-was-called-following-the-resignation-of-d.md) _(Current version)_
 
 ### Related:

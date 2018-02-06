@@ -16,7 +16,7 @@ Two police officers were killed and four wounded on Tuesday in the western Venez
 
 ### Changes:
 
-1. [2014-16 Venezuelan protests: Two police officers are killed and four others are wounded in the western Venezuelan city of San Cristobal after they were run over by a bus driven by young men protesting a hike in public transport fares, according to government officials and Reuters witnesses. ](/news/2016/03/29/2014-16-venezuelan-protests-two-police-officers-are-killed-and-four-others-are-wounded-in-the-western-venezuelan-city-of-san-crista3bal-a.md) _2017-08-27 03:45:24 (First version)_
+1. [2014-16 Venezuelan protests: Two police officers are killed and four others are wounded in the western Venezuelan city of San Cristobal after they were run over by a bus driven by young men protesting a hike in public transport fares, according to government officials and Reuters witnesses. ](/news/2016/03/29/2014-16-venezuelan-protests-two-police-officers-are-killed-and-four-others-are-wounded-in-the-western-venezuelan-city-of-san-crista3bal-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Two police officers are killed and four others are wounded in the western Venezuelan city of San Cristobal after they were run over by a bus driven by young men protesting a hike in public transport fares, according to government officials and Reuters witnesses. ](/news/2016/03/29/two-police-officers-are-killed-and-four-others-are-wounded-in-the-western-venezuelan-city-of-san-crista3bal-after-they-were-run-over-by-a-bu.md) _(Current version)_
 
 ### Related:

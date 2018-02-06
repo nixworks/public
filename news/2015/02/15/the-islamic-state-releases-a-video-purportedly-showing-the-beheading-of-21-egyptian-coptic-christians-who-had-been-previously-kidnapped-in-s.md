@@ -19,7 +19,7 @@ A video emerges purportedly showing the beheadings of 21 Egyptian Christians who
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The Islamic State releases a video purportedly showing the beheading of 21 Egyptian Coptic Christians who had been previously kidnapped in Sirte. ](/news/2015/02/15/libyan-civil-war-2014-present-the-islamic-state-releases-a-video-purportedly-showing-the-beheading-of-21-egyptian-coptic-christians-who.md) _2017-08-27 03:41:56 (First version)_
+1. [Libyan Civil War (2014-present): The Islamic State releases a video purportedly showing the beheading of 21 Egyptian Coptic Christians who had been previously kidnapped in Sirte. ](/news/2015/02/15/libyan-civil-war-2014-present-the-islamic-state-releases-a-video-purportedly-showing-the-beheading-of-21-egyptian-coptic-christians-who.md) _2018-02-06 13:49:26 (First version)_
 1. [The Islamic State releases a video purportedly showing the beheading of 21 Egyptian Coptic Christians who had been previously kidnapped in Sirte. ](/news/2015/02/15/the-islamic-state-releases-a-video-purportedly-showing-the-beheading-of-21-egyptian-coptic-christians-who-had-been-previously-kidnapped-in-s.md) _(Current version)_
 
 ### Related:

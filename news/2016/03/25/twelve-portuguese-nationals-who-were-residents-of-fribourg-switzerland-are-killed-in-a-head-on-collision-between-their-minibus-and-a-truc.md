@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-
 
 ### Changes:
 
-1. [Twelve Portuguese nationals, who were residents of Fribourg, Switzerland, are killed in a head-on collision between their minibus and a truck, on a highway 300 kilometers (185 miles) south of Paris, France. The only survivor from the bus is the driver; the two Italian occupants of the truck are slightly injured. ](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-of-fribourg-switzerland-are-killed-in-a-head-on-collision-between-their-minibus-and-a-tr.md) _2017-08-25 03:45:00 (First version)_
+1. [Twelve Portuguese nationals, who were residents of Fribourg, Switzerland, are killed in a head-on collision between their minibus and a truck, on a highway 300 kilometers (185 miles) south of Paris, France. The only survivor from the bus is the driver; the two Italian occupants of the truck are slightly injured. ](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-of-fribourg-switzerland-are-killed-in-a-head-on-collision-between-their-minibus-and-a-tr.md) _2018-02-06 13:49:28 (First version)_
 1. [Twelve Portuguese nationals, who were residents of Fribourg, Switzerland, are killed in a head-on collision between their minibus and a truck, on a highway 300 kilometers (185 miles) south of Paris, France. The only survivor from the bus is the driver; the two Italian occupants of the truck are slightly injured. ](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-of-fribourg-switzerland-are-killed-in-a-head-on-collision-between-their-minibus-and-a-truc.md) _(Current version)_
 
 ### Related:

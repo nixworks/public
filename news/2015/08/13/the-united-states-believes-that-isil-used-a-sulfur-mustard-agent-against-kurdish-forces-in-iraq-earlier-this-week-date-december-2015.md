@@ -11,7 +11,7 @@ Formats: [HTML](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sul
 
 ### Changes:
 
-1. [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. {{cn|date=December 2015}}](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-cn-date-december-2015.md) _2017-05-01 03:46:11 (First version)_
+1. [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. {{cn|date=December 2015}}](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-cn-date-december-2015.md) _2018-02-06 13:49:27 (First version)_
 1. [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. date=December 2015](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-date-december-2015.md) _(Current version)_
 
 ### Related:

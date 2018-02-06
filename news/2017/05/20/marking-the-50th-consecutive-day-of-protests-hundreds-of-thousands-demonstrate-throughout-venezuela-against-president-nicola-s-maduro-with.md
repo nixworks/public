@@ -16,7 +16,7 @@ Venezuelans take to the streets, furious about shortages, rocketing inflation an
 
 ### Changes:
 
-1. [2017 Venezuelan protests: Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/2017-venezuelan-protests-marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-presi.md) _2017-08-27 03:48:21 (First version)_
+1. [2017 Venezuelan protests: Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/2017-venezuelan-protests-marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-presi.md) _2018-02-06 13:49:30 (First version)_
 1. [Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-president-nicola-s-maduro-with.md) _(Current version)_
 
 ### Related:

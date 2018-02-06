@@ -19,8 +19,8 @@ The storms which battered France, leaving nearly 60 people dead, have been decla
 
 ### Changes:
 
-1. [Xynthia:President of France Nicolas Sarkozy gives EUR3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-ppresident-of-france-nicolas-sarkozy-gives-a-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the-s.md) _2017-08-25 03:27:16 (First version)_
-2. [Xynthia:: President of France Nicolas Sarkozy gives -3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-president-of-france-nicolas-sarkozy-gives-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the.md) _2017-08-27 03:27:10 (Update)_
+1. [Xynthia:: President of France Nicolas Sarkozy gives -3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-president-of-france-nicolas-sarkozy-gives-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the.md) _2018-02-06 13:49:19 (First version)_
+2. [Xynthia:President of France Nicolas Sarkozy gives EUR3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-ppresident-of-france-nicolas-sarkozy-gives-a-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the-s.md) _2018-02-06 13:49:19 (Update)_
 2. [President of France Nicolas Sarkozy gives EUR3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/president-of-france-nicolas-sarkozy-gives-a-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the-storm-a-n.md) _(Current version)_
 
 ### Related:

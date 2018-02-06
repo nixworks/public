@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/01/11/a-u-s-airstrike-destroys-an-isil-money-and-payr
 
 ### Changes:
 
-1. [American-led intervention in Iraq (2014-present): A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/american-led-intervention-in-iraq-2014-present-a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md) _2017-08-27 03:44:38 (First version)_
+1. [American-led intervention in Iraq (2014-present): A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/american-led-intervention-in-iraq-2014-present-a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md) _2018-02-06 13:49:28 (First version)_
 1. [A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md) _(Current version)_
 
 ### Related:

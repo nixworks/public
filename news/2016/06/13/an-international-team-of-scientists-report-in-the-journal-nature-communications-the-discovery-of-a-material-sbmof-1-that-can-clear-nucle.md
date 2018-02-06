@@ -18,7 +18,7 @@ This material that can clear out radioactive waste from nuclear plants more effi
 
 ### Changes:
 
-1. [An international team of scientists report in the journal ''Nature Communications'' the discovery of a material (SBMOF-1) that can clear nuclear waste gases, produced by reprocessing plants, more efficiently, cheaply, and safely than currently available methods. ](/news/2016/06/13/an-international-team-of-scientists-report-in-the-journal-nature-communications-the-discovery-of-a-material-sbmof-1-that-can-clear-nuc.md) _2017-08-25 03:45:52 (First version)_
+1. [An international team of scientists report in the journal ''Nature Communications'' the discovery of a material (SBMOF-1) that can clear nuclear waste gases, produced by reprocessing plants, more efficiently, cheaply, and safely than currently available methods. ](/news/2016/06/13/an-international-team-of-scientists-report-in-the-journal-nature-communications-the-discovery-of-a-material-sbmof-1-that-can-clear-nuc.md) _2018-02-06 13:49:29 (First version)_
 1. [An international team of scientists report in the journal "Nature Communications" the discovery of a material (SBMOF-1) that can clear nuclear waste gases, produced by reprocessing plants, more efficiently, cheaply, and safely than currently available methods. ](/news/2016/06/13/an-international-team-of-scientists-report-in-the-journal-nature-communications-the-discovery-of-a-material-sbmof-1-that-can-clear-nucle.md) _(Current version)_
 
 ### Related:

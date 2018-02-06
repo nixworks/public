@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/12/21/steve-jobs-agbp85m-high-tech-yacht-venus-is-imp
 
 ### Changes:
 
-1. [Steve Jobs' PS85m high-tech yacht ''Venus'' is impounded at the Port of Amsterdam after designer Philippe Starck claims he is still owed money. ](/news/2012/12/21/steve-jobs-aps85m-high-tech-yacht-venus-is-impounded-at-the-port-of-amsterdam-after-designer-philippe-starck-claims-he-is-still-owed-mon.md) _2017-08-25 03:37:06 (First version)_
+1. [Steve Jobs' PS85m high-tech yacht ''Venus'' is impounded at the Port of Amsterdam after designer Philippe Starck claims he is still owed money. ](/news/2012/12/21/steve-jobs-aps85m-high-tech-yacht-venus-is-impounded-at-the-port-of-amsterdam-after-designer-philippe-starck-claims-he-is-still-owed-mon.md) _2018-02-06 13:49:24 (First version)_
 1. [Steve Jobs' GBP85m high-tech yacht "Venus" is impounded at the Port of Amsterdam after designer Philippe Starck claims he is still owed money. ](/news/2012/12/21/steve-jobs-agbp85m-high-tech-yacht-venus-is-impounded-at-the-port-of-amsterdam-after-designer-philippe-starck-claims-he-is-still-owed-mon.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-woul
 
 ### Changes:
 
-1. [Abortion in Chile: Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/abortion-in-chile-chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conserv.md) _2017-08-27 03:48:46 (First version)_
+1. [Abortion in Chile: Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/abortion-in-chile-chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conserv.md) _2018-02-06 13:49:31 (First version)_
 1. [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md) _(Current version)_
 
 ### Related:

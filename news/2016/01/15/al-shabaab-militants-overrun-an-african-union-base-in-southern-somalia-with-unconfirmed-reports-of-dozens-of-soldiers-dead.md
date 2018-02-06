@@ -17,7 +17,7 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ### Changes:
 
-1. [War in Somalia: al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. ](/news/2016/01/15/war-in-somalia-al-shabaab-militants-overrun-an-african-union-base-in-southern-somalia-with-unconfirmed-reports-of-dozens-of-soldiers-dead.md) _2017-08-27 03:44:41 (First version)_
+1. [War in Somalia: al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. ](/news/2016/01/15/war-in-somalia-al-shabaab-militants-overrun-an-african-union-base-in-southern-somalia-with-unconfirmed-reports-of-dozens-of-soldiers-dead.md) _2018-02-06 13:49:28 (First version)_
 1. [al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. ](/news/2016/01/15/al-shabaab-militants-overrun-an-african-union-base-in-southern-somalia-with-unconfirmed-reports-of-dozens-of-soldiers-dead.md) _(Current version)_
 
 ### Related:

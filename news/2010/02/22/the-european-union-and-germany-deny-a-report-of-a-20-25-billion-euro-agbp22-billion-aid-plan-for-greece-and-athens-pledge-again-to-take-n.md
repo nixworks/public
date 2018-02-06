@@ -16,7 +16,7 @@ The European Union and Germany on Monday denied a report of a 20-25 billion euro
 
 ### Changes:
 
-1. [The European Union and Germany deny a report of a 20-25 billion euro (PS22 billion) aid plan for Greece, and Athens pledge again to take new steps if needed to keep tough deficit-cutting plans on target. ](/news/2010/02/22/the-european-union-and-germany-deny-a-report-of-a-20-25-billion-euro-aps22-billion-aid-plan-for-greece-and-athens-pledge-again-to-take-new.md) _2017-08-25 03:27:12 (First version)_
+1. [The European Union and Germany deny a report of a 20-25 billion euro (PS22 billion) aid plan for Greece, and Athens pledge again to take new steps if needed to keep tough deficit-cutting plans on target. ](/news/2010/02/22/the-european-union-and-germany-deny-a-report-of-a-20-25-billion-euro-aps22-billion-aid-plan-for-greece-and-athens-pledge-again-to-take-new.md) _2018-02-06 13:49:19 (First version)_
 1. [The European Union and Germany deny a report of a 20-25 billion euro (GBP22 billion) aid plan for Greece, and Athens pledge again to take new steps if needed to keep tough deficit-cutting plans on target. ](/news/2010/02/22/the-european-union-and-germany-deny-a-report-of-a-20-25-billion-euro-agbp22-billion-aid-plan-for-greece-and-athens-pledge-again-to-take-n.md) _(Current version)_
 
 ### Related:

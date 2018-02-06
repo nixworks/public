@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/09/1/islamist-rebels-in-northern-mali-seize-the-centr
 
 ### Changes:
 
-1. [2012 northern Mali conflict:Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-pislamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md) _2017-08-25 03:36:23 (First version)_
-2. [2012 northern Mali conflict:: Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md) _2017-08-27 03:36:34 (Update)_
+1. [2012 northern Mali conflict:Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-pislamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 northern Mali conflict:: Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md) _2018-02-06 13:49:23 (Update)_
 2. [Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md) _(Current version)_
 
 ### Related:

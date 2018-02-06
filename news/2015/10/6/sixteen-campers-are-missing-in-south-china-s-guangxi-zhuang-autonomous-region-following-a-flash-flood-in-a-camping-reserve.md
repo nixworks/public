@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-gua
 
 ### Changes:
 
-1. [Typhoon Mujigae (2015): Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/typhoon-mujigae-2015-sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-r.md) _2017-08-27 03:43:15 (First version)_
+1. [Typhoon Mujigae (2015): Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/typhoon-mujigae-2015-sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-r.md) _2018-02-06 13:49:28 (First version)_
 1. [Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-reserve.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ By remaining silent on the issue of punishment for church figures, the pope’s 
 
 ### Changes:
 
-1. [Child sex abuse in the Catholic Church:Polls in Germany, particularly Bavaria, indicate the church's credibility has decreased and government data indicates people are leaving the church. ](/news/2010/03/22/child-sex-abuse-in-the-catholic-church-ppolls-in-germany-particularly-bavaria-indicate-the-church-s-credibility-has-decreased-and-governme.md) _2017-08-25 03:27:26 (First version)_
-2. [Child sex abuse in the Catholic Church:: Polls in Germany, particularly Bavaria, indicate the church's credibility has decreased and government data indicates people are leaving the church. ](/news/2010/03/22/child-sex-abuse-in-the-catholic-church-polls-in-germany-particularly-bavaria-indicate-the-church-s-credibility-has-decreased-and-governm.md) _2017-08-27 03:27:22 (Update)_
+1. [Child sex abuse in the Catholic Church:Polls in Germany, particularly Bavaria, indicate the church's credibility has decreased and government data indicates people are leaving the church. ](/news/2010/03/22/child-sex-abuse-in-the-catholic-church-ppolls-in-germany-particularly-bavaria-indicate-the-church-s-credibility-has-decreased-and-governme.md) _2018-02-06 13:49:19 (First version)_
+2. [Child sex abuse in the Catholic Church:: Polls in Germany, particularly Bavaria, indicate the church's credibility has decreased and government data indicates people are leaving the church. ](/news/2010/03/22/child-sex-abuse-in-the-catholic-church-polls-in-germany-particularly-bavaria-indicate-the-church-s-credibility-has-decreased-and-governm.md) _2018-02-06 13:49:19 (Update)_
 2. [Polls in Germany, particularly Bavaria, indicate the church's credibility has decreased and government data indicates people are leaving the church. ](/news/2010/03/22/polls-in-germany-particularly-bavaria-indicate-the-church-s-credibility-has-decreased-and-government-data-indicates-people-are-leaving-the.md) _(Current version)_
 
 ### Related:

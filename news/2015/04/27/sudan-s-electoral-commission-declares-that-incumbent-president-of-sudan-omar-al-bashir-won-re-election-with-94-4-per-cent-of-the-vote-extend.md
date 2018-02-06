@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incu
 
 ### Changes:
 
-1. [Sudanese general election, 2015: Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudanese-general-election-2015-sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with.md) _2017-08-27 03:42:15 (First version)_
+1. [Sudanese general election, 2015: Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudanese-general-election-2015-sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with.md) _2018-02-06 13:49:27 (First version)_
 1. [Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with-94-4-per-cent-of-the-vote-extend.md) _(Current version)_
 
 ### Related:

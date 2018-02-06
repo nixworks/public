@@ -16,7 +16,7 @@ Suriname goes to the polls in general elections on Monday with its convicted dru
 
 ### Changes:
 
-1. [Surinamese general election, 2015: Voters in Suriname go to the polls for a general election. ](/news/2015/05/25/surinamese-general-election-2015-voters-in-suriname-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:42:24 (First version)_
+1. [Surinamese general election, 2015: Voters in Suriname go to the polls for a general election. ](/news/2015/05/25/surinamese-general-election-2015-voters-in-suriname-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:27 (First version)_
 1. [ Voters in Suriname go to the polls for a general election. ](/news/2015/05/25/voters-in-suriname-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

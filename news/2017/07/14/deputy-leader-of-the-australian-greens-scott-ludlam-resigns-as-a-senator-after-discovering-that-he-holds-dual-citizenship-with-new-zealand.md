@@ -16,7 +16,7 @@ The deputy Greens leader steps down from Federal Parliament, after admitting he 
 
 ### Changes:
 
-1. [Politics of Australia: Deputy Leader of the Australian Greens Scott Ludlam resigns as a Senator after discovering that he holds dual citizenship with New Zealand, making him electorally ineligible under Section 44 of the Constitution of Australia. ](/news/2017/07/14/politics-of-australia-deputy-leader-of-the-australian-greens-scott-ludlam-resigns-as-a-senator-after-discovering-that-he-holds-dual-citizen.md) _2017-08-27 03:48:39 (First version)_
+1. [Politics of Australia: Deputy Leader of the Australian Greens Scott Ludlam resigns as a Senator after discovering that he holds dual citizenship with New Zealand, making him electorally ineligible under Section 44 of the Constitution of Australia. ](/news/2017/07/14/politics-of-australia-deputy-leader-of-the-australian-greens-scott-ludlam-resigns-as-a-senator-after-discovering-that-he-holds-dual-citizen.md) _2018-02-06 13:49:30 (First version)_
 1. [Deputy Leader of the Australian Greens Scott Ludlam resigns as a Senator after discovering that he holds dual citizenship with New Zealand, making him electorally ineligible under Section 44 of the Constitution of Australia. ](/news/2017/07/14/deputy-leader-of-the-australian-greens-scott-ludlam-resigns-as-a-senator-after-discovering-that-he-holds-dual-citizenship-with-new-zealand.md) _(Current version)_
 
 ### Related:

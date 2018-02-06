@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/9/a-suicide-bomber-kills-23-iraqi-army-recruits-an
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-13):A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011a13-pa-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md) _2017-08-25 03:39:49 (First version)_
-2. [Iraqi insurgency (2011-13):: A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011-13-a-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md) _2017-08-27 03:40:08 (Update)_
+1. [Iraqi insurgency (2011-13):A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011a13-pa-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (2011-13):: A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011-13-a-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/a-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md) _(Current version)_
 
 ### Related:

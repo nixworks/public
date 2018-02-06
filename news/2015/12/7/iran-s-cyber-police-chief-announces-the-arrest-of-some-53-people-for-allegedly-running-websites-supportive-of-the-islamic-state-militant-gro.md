@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-o
 
 ### Changes:
 
-1. [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gr.md) _2017-08-25 03:43:53 (First version)_
+1. [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gr.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gro.md) _(Current version)_
 
 ### Related:

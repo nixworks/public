@@ -18,7 +18,7 @@ Formats: [HTML](/news/2013/04/9/2013-bushehr-earthquake-a-6-1amagnitude-earthqua
 
 ### Changes:
 
-1. [2013 Bushehr earthquake: A 6.1-magnitude earthquake rocks the Iranian towns of Khvormuj, Bandar Deyr and Kangan, killing 37 people and injuring over 850, and was felt as far as Bahrain. ](/news/2013/04/9/2013-bushehr-earthquake-a-6-1-magnitude-earthquake-rocks-the-iranian-towns-of-khvormuj-bandar-deyr-and-kangan-killing-37-people-and-inj.md) _2017-08-27 03:38:27 (First version)_
+1. [2013 Bushehr earthquake: A 6.1-magnitude earthquake rocks the Iranian towns of Khvormuj, Bandar Deyr and Kangan, killing 37 people and injuring over 850, and was felt as far as Bahrain. ](/news/2013/04/9/2013-bushehr-earthquake-a-6-1-magnitude-earthquake-rocks-the-iranian-towns-of-khvormuj-bandar-deyr-and-kangan-killing-37-people-and-inj.md) _2018-02-06 13:49:24 (First version)_
 1. [2013 Bushehr earthquake: A 6.1-magnitude earthquake rocks the Iranian towns of Khvormuj, Bandar Deyr and Kangan, killing 37 people and injuring over 850, and was felt as far as Bahrain. ](/news/2013/04/9/2013-bushehr-earthquake-a-6-1amagnitude-earthquake-rocks-the-iranian-towns-of-khvormuj-bandar-deyr-and-kangan-killing-37-people-and-inj.md) _(Current version)_
 
 ### Related:

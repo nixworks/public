@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-
 
 ### Changes:
 
-1. [2016 Taiwan earthquake: The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/2016-taiwan-earthquake-the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-bu.md) _2017-08-27 03:44:53 (First version)_
+1. [2016 Taiwan earthquake: The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/2016-taiwan-earthquake-the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-bu.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-buried-in-the-apartment-co.md) _(Current version)_
 
 ### Related:

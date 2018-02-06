@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/04/2/the-mexican-police-find-9-mutilated-bodies-insid
 
 ### Changes:
 
-1. [Mexican Drug War:The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-pthe-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-mex.md) _2017-08-25 03:38:08 (First version)_
-2. [Mexican Drug War:: The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-the-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-me.md) _2017-08-27 03:38:19 (Update)_
+1. [Mexican Drug War:: The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-the-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-me.md) _2018-02-06 13:49:24 (First version)_
+2. [Mexican Drug War:The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-pthe-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-mex.md) _2018-02-06 13:49:24 (Update)_
 2. [The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/the-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-mexico.md) _(Current version)_
 
 ### Related:

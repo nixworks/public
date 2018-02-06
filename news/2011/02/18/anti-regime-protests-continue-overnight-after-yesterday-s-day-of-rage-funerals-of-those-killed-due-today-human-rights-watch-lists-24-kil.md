@@ -22,8 +22,8 @@ At least 24 people have died in anti-government protests in Libya over recent da
 
 ### Changes:
 
-1. [2011 Libyan civil war:Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/2011-libyan-civil-war-panti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-ri.md) _2017-08-25 03:32:16 (First version)_
-2. [2011 Libyan civil war:: Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/2011-libyan-civil-war-anti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-r.md) _2017-08-27 03:32:24 (Update)_
+1. [2011 Libyan civil war:Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/2011-libyan-civil-war-panti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-ri.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/2011-libyan-civil-war-anti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-r.md) _2018-02-06 13:49:22 (Update)_
 2. [Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/anti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-rights-watch-lists-24-kil.md) _(Current version)_
 
 ### Related:

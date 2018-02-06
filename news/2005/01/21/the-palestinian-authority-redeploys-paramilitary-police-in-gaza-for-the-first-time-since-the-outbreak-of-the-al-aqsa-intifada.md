@@ -16,9 +16,9 @@ Formats: [HTML](/news/2005/01/21/the-palestinian-authority-redeploys-paramilitar
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-p-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-th.md) _2017-05-25 03:15:38 (First version)_
-2. [ Israeli-Palestinian Conflict: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-p-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the.md) _2017-08-25 03:15:33 (Update)_
-3. [ Israeli-Palestinian Conflict:: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the.md) _2017-08-27 03:15:34 (Update)_
+1. [ Israeli-Palestinian Conflict:: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-p-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the.md) _2018-02-06 13:49:16 (Update)_
+3. [ Israeli-Palestinian Conflict: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-p-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-th.md) _2018-02-06 13:49:16 (Update)_
 3. [ The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the-al-aqsa-intifada.md) _(Current version)_
 
 ### Related:

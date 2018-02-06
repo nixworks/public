@@ -21,8 +21,8 @@ Hillary Clinton won the Nevada Democratic caucuses on Saturday, beating Bernie S
 
 ### Changes:
 
-1. [United States presidential election, 2016.Voters in the American state of Nevada take part in Democratic Party caucuses, with Hillary Clinton winning against Bernie Sanders. ](/news/2016/02/20/united-states-presidential-election-2016-pvoters-in-the-american-state-of-nevada-take-part-in-democratic-party-caucuses-with-hillary-clint.md) _2017-08-25 03:44:36 (First version)_
-2. [United States presidential election, 2016.: Voters in the American state of Nevada take part in Democratic Party caucuses, with Hillary Clinton winning against Bernie Sanders. ](/news/2016/02/20/united-states-presidential-election-2016-voters-in-the-american-state-of-nevada-take-part-in-democratic-party-caucuses-with-hillary-clin.md) _2017-08-27 03:44:58 (Update)_
+1. [United States presidential election, 2016.: Voters in the American state of Nevada take part in Democratic Party caucuses, with Hillary Clinton winning against Bernie Sanders. ](/news/2016/02/20/united-states-presidential-election-2016-voters-in-the-american-state-of-nevada-take-part-in-democratic-party-caucuses-with-hillary-clin.md) _2018-02-06 13:49:28 (First version)_
+2. [United States presidential election, 2016.Voters in the American state of Nevada take part in Democratic Party caucuses, with Hillary Clinton winning against Bernie Sanders. ](/news/2016/02/20/united-states-presidential-election-2016-pvoters-in-the-american-state-of-nevada-take-part-in-democratic-party-caucuses-with-hillary-clint.md) _2018-02-06 13:49:28 (Update)_
 2. [Voters in the American state of Nevada take part in Democratic Party caucuses, with Hillary Clinton winning against Bernie Sanders. ](/news/2016/02/20/voters-in-the-american-state-of-nevada-take-part-in-democratic-party-caucuses-with-hillary-clinton-winning-against-bernie-sanders.md) _(Current version)_
 
 ### Related:

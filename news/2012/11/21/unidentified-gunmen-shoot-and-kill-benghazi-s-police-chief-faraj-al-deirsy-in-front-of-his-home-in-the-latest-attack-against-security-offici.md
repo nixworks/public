@@ -16,8 +16,8 @@ Faraj al-Deirsy, head of Benghazi police, shot dead in the latest attack on Liby
 
 ### Changes:
 
-1. [2011-2012 Libyan factional fighting:Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011a2012-libyan-factional-fighting-punidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-th.md) _2017-08-25 03:36:51 (First version)_
-2. [2011-2012 Libyan factional fighting:: Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011-2012-libyan-factional-fighting-unidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-t.md) _2017-08-27 03:37:01 (Update)_
+1. [2011-2012 Libyan factional fighting:Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011a2012-libyan-factional-fighting-punidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-th.md) _2018-02-06 13:49:24 (First version)_
+2. [2011-2012 Libyan factional fighting:: Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011-2012-libyan-factional-fighting-unidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-t.md) _2018-02-06 13:49:24 (Update)_
 2. [Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/unidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-the-latest-attack-against-security-offici.md) _(Current version)_
 
 ### Related:

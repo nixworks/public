@@ -9,11 +9,11 @@ For a second consecutive day, Israel confronted fire along its border with Syria
 
 ##### are killed
 ### [At least 38 police officers are killed in northern Kenya amid clashes with cattle rustlers. ](/news/2012/11/12/at-least-38-police-officers-are-killed-in-northern-kenya-amid-clashes-with-cattle-rustlers.md)
-_Context: Kenya, are killed_
+_Context: are killed, Kenya_
 
 ##### Wade Davis
 ### ["Into the Silence" by Wade Davis, a biography of George Mallory wins the 2012 Samuel Johnson Prize for Non Fiction. ](/news/2012/11/12/into-the-silence-by-wade-davis-a-biography-of-george-mallory-wins-the-2012-samuel-johnson-prize-for-non-fiction.md)
-_Context: Wade Davis, Samuel Johnson Prize, George Mallory_
+_Context: Wade Davis, George Mallory, Samuel Johnson Prize_
 
 ##### Abu Qatada
 ### [Muslim cleric Abu Qatada will be released on bail after winning an appeal against deportation from the United Kingdom to Jordan. The UK government says it will appeal against the ruling. ](/news/2012/11/12/muslim-cleric-abu-qatada-will-be-released-on-bail-after-winning-an-appeal-against-deportation-from-the-united-kingdom-to-jordan-the-uk-gove.md)
@@ -29,7 +29,7 @@ Sir Rex Hunt, who was governor of the Falkland Islands during the Argentine inva
 
 ##### EPS
 ### [2012 EPS Edison Volta Prize was awarded to Rolf-Dieter Heuer, CERN Director General, and two his colleagues.](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.md)
-_Context: CERN, Rolf-Dieter Heuer, EPS, Edison Volta Prize_
+_Context: CERN, Edison Volta Prize, EPS, Rolf-Dieter Heuer_
 
 ## [Previous Day...](/news/2012/11/11/index.md)
 

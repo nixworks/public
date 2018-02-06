@@ -21,7 +21,7 @@ Gulf Arab countries must end their sponsorship system for migrant workers that l
 
 ### Changes:
 
-1. [Middle East: UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/middle-east-un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to.md) _2017-08-27 03:27:37 (First version)_
+1. [Middle East: UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/middle-east-un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to.md) _2018-02-06 13:49:19 (First version)_
 1. [UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to-improve-the-p.md) _(Current version)_
 
 ### Related:

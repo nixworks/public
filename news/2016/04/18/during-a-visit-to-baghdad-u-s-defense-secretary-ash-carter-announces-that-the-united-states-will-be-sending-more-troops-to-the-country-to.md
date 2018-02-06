@@ -16,7 +16,7 @@ The US is to send 200 extra troops to Iraq to help the fight against so-called I
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): During a visit to Baghdad, U.S. Defense Secretary Ash Carter announces that the United States will be sending more troops to the country to help in the fight against ISIL. The U.S. also plans to give Kurdish Peshmerga forces, which are fighting ISIL on the ground, more than $400m (GBP280m; -350m) in assistance. ](/news/2016/04/18/iraqi-civil-war-2014-present-during-a-visit-to-baghdad-u-s-defense-secretary-ash-carter-announces-that-the-united-states-will-be-send.md) _2017-08-27 03:45:40 (First version)_
+1. [Iraqi Civil War (2014-present): During a visit to Baghdad, U.S. Defense Secretary Ash Carter announces that the United States will be sending more troops to the country to help in the fight against ISIL. The U.S. also plans to give Kurdish Peshmerga forces, which are fighting ISIL on the ground, more than $400m (GBP280m; -350m) in assistance. ](/news/2016/04/18/iraqi-civil-war-2014-present-during-a-visit-to-baghdad-u-s-defense-secretary-ash-carter-announces-that-the-united-states-will-be-send.md) _2018-02-06 13:49:28 (First version)_
 1. [During a visit to Baghdad, U.S. Defense Secretary Ash Carter announces that the United States will be sending more troops to the country to help in the fight against ISIL. The U.S. also plans to give Kurdish Peshmerga forces, which are fighting ISIL on the ground, more than $400m (GBP280m; EUR350m) in assistance. ](/news/2016/04/18/during-a-visit-to-baghdad-u-s-defense-secretary-ash-carter-announces-that-the-united-states-will-be-sending-more-troops-to-the-country-to.md) _(Current version)_
 
 ### Related:

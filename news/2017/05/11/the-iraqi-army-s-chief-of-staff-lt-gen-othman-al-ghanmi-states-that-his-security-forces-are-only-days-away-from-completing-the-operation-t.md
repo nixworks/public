@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-a
 
 ### Changes:
 
-1. [The Iraqi army's chief of staff Lt Gen Othman al-Ghanimi states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanimi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-to.md) _2017-05-11 19:30:07 (First version)_
-2. [Battle of Mosul: The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/battle-of-mosul-the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completin.md) _2017-08-27 03:48:19 (Update)_
+1. [The Iraqi army's chief of staff Lt Gen Othman al-Ghanimi states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanimi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-to.md) _2018-02-06 13:49:30 (First version)_
+2. [Battle of Mosul: The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/battle-of-mosul-the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completin.md) _2018-02-06 13:49:30 (Update)_
 2. [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md) _(Current version)_
 
 ### Related:

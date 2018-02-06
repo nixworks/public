@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/06/26/more-than-one-million-people-participate-in-sag
 
 ### Changes:
 
-1. [More than one million people participate in Sao Paulo's 15th Gay Pride March following the recent improvement in the legal rights afforded to the country's gay community. ](/news/2011/06/26/more-than-one-million-people-participate-in-sapso-paulo-s-15th-gay-pride-march-following-the-recent-improvement-in-the-legal-rights-afforded.md) _2017-08-25 03:33:35 (First version)_
+1. [More than one million people participate in Sao Paulo's 15th Gay Pride March following the recent improvement in the legal rights afforded to the country's gay community. ](/news/2011/06/26/more-than-one-million-people-participate-in-sapso-paulo-s-15th-gay-pride-march-following-the-recent-improvement-in-the-legal-rights-afforded.md) _2018-02-06 13:49:22 (First version)_
 1. [More than one million people participate in SGBPo Paulo's 15th Gay Pride March following the recent improvement in the legal rights afforded to the country's gay community. ](/news/2011/06/26/more-than-one-million-people-participate-in-sagbpo-paulo-s-15th-gay-pride-march-following-the-recent-improvement-in-the-legal-rights-afforde.md) _(Current version)_
 
 ### Related:

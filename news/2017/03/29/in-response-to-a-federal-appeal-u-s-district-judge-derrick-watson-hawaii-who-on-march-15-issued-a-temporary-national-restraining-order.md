@@ -17,7 +17,7 @@ The Hawaii federal judge who brought President Trump&apos;s revised travel ban t
 
 ### Changes:
 
-1. [United States immigration ban: In response to a federal appeal, U.S. District Judge Derrick Watson (Hawaii), who on March 15 issued a temporary, national restraining order on implementation of the revised federal immigration-refugee rules, upgrades his earlier ruling to a preliminary injunction until Hawaii's lawsuit is resolved. ](/news/2017/03/29/united-states-immigration-ban-in-response-to-a-federal-appeal-u-s-district-judge-derrick-watson-hawaii-who-on-march-15-issued-a-tempor.md) _2017-08-27 03:48:04 (First version)_
+1. [United States immigration ban: In response to a federal appeal, U.S. District Judge Derrick Watson (Hawaii), who on March 15 issued a temporary, national restraining order on implementation of the revised federal immigration-refugee rules, upgrades his earlier ruling to a preliminary injunction until Hawaii's lawsuit is resolved. ](/news/2017/03/29/united-states-immigration-ban-in-response-to-a-federal-appeal-u-s-district-judge-derrick-watson-hawaii-who-on-march-15-issued-a-tempor.md) _2018-02-06 13:49:30 (First version)_
 1. [In response to a federal appeal, U.S. District Judge Derrick Watson (Hawaii), who on March 15 issued a temporary, national restraining order on implementation of the revised federal immigration-refugee rules, upgrades his earlier ruling to a preliminary injunction until Hawaii's lawsuit is resolved. ](/news/2017/03/29/in-response-to-a-federal-appeal-u-s-district-judge-derrick-watson-hawaii-who-on-march-15-issued-a-temporary-national-restraining-order.md) _(Current version)_
 
 ### Related:

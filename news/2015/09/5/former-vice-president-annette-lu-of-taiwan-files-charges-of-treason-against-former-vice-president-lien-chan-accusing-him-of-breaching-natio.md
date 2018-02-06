@@ -16,7 +16,7 @@ Former vice president Annette Lu (呂秀蓮) and a lawmaker yesterday filed sepa
 
 ### Changes:
 
-1. [Cross-Strait relations: Former vice president Annette Lu of Taiwan files charges of treason against former vice president Lien Chan, accusing him of breaching national security when he attended the 2015 China Victory Day Parade. ](/news/2015/09/5/cross-strait-relations-former-vice-president-annette-lu-of-taiwan-files-charges-of-treason-against-former-vice-president-lien-chan-accusin.md) _2017-08-27 03:42:58 (First version)_
+1. [Cross-Strait relations: Former vice president Annette Lu of Taiwan files charges of treason against former vice president Lien Chan, accusing him of breaching national security when he attended the 2015 China Victory Day Parade. ](/news/2015/09/5/cross-strait-relations-former-vice-president-annette-lu-of-taiwan-files-charges-of-treason-against-former-vice-president-lien-chan-accusin.md) _2018-02-06 13:49:27 (First version)_
 1. [Former vice president Annette Lu of Taiwan files charges of treason against former vice president Lien Chan, accusing him of breaching national security when he attended the 2015 China Victory Day Parade. ](/news/2015/09/5/former-vice-president-annette-lu-of-taiwan-files-charges-of-treason-against-former-vice-president-lien-chan-accusing-him-of-breaching-natio.md) _(Current version)_
 
 ### Related:

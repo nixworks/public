@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous
 
 ### Changes:
 
-1. [Because of a nationwide shortage of intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are rationing its use in heart surgery, chemotherapy, for patients whose blood is too acidic, and as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its.md) _2017-08-25 03:47:56 (First version)_
+1. [Because of a nationwide shortage of intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are rationing its use in heart surgery, chemotherapy, for patients whose blood is too acidic, and as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its.md) _2018-02-06 13:49:30 (First version)_
 1. [Because of a nationwide shortage of intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are rationing its use in heart surgery, chemotherapy, for patients whose blood is too acidic, and as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its-u.md) _(Current version)_
 
 ### Related:

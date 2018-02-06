@@ -11,7 +11,7 @@ Formats: [HTML](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-pub
 
 ### Changes:
 
-1. [British royal consorts: Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http:--www.abc.net.au-news-2017-08-03-prince-philip-queen-elizabeth-royal-husband-retires-8769254 ("ABC News (Australia)")]](/news/2017/08/2/british-royal-consorts-prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-so.md) _2017-08-27 03:48:45 (First version)_
+1. [British royal consorts: Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http:--www.abc.net.au-news-2017-08-03-prince-philip-queen-elizabeth-royal-husband-retires-8769254 ("ABC News (Australia)")]](/news/2017/08/2/british-royal-consorts-prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-so.md) _2018-02-06 13:49:31 (First version)_
 1. [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http:--www.abc.net.au-news-2017-08-03-prince-philip-queen-elizabeth-royal-husband-retires-8769254 ("ABC News (Australia)")]](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md) _(Current version)_
 
 ### Related:

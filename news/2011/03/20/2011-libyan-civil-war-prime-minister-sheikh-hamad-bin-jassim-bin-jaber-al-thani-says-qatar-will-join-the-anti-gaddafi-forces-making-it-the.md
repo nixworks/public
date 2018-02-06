@@ -40,8 +40,8 @@ Middle Eastern leaders backed an offensive by international forces seeking to pr
 
 ### Changes:
 
-1. [2011 Libyan civil war:Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/2011-libyan-civil-war-pprime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces-making-it-the.md) _2017-08-25 03:32:35 (First version)_
-2. [Arab Spring: 2011 Libyan civil war:: Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/arab-spring-2011-libyan-civil-war-prime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces.md) _2017-08-27 03:32:43 (Update)_
+1. [Arab Spring: 2011 Libyan civil war:: Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/arab-spring-2011-libyan-civil-war-prime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/2011-libyan-civil-war-pprime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces-making-it-the.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war:Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/2011-libyan-civil-war-prime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces-making-it-the.md) _(Current version)_
 
 ### Related:

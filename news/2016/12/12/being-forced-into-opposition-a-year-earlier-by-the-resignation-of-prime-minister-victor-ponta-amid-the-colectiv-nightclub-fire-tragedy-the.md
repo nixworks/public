@@ -16,7 +16,7 @@ Despite recent scandals, the Social Democratic Party secured a large lead in par
 
 ### Changes:
 
-1. [Romanian legislative election, 2016: Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/romanian-legislative-election-2016-being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the.md) _2017-08-27 03:47:26 (First version)_
+1. [Romanian legislative election, 2016: Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/romanian-legislative-election-2016-being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the-colectiv-nightclub-fire-tragedy-the.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ BAGHDAD ·— Ten people were killed in violence in Baghdad and northern Iraq on
 
 ### Changes:
 
-1. [War in Iraq89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraqp89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televis.md) _2017-08-25 03:30:20 (First version)_
-2. [War in Iraq: 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md) _2017-08-27 03:30:25 (Update)_
+1. [War in Iraq89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraqp89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televis.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Iraq: 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md) _2018-02-06 13:49:20 (Update)_
 2. [89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-television-station.md) _(Current version)_
 
 ### Related:

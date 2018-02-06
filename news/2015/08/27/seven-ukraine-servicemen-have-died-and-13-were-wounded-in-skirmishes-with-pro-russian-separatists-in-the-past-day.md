@@ -16,7 +16,7 @@ Seven Ukrainian servicemen have been killed and 13 wounded in fighting with pro-
 
 ### Changes:
 
-1. [War in Donbass: Seven Ukraine servicemen have died and 13 were wounded in skirmishes with pro-Russian separatists in the past day. ](/news/2015/08/27/war-in-donbass-seven-ukraine-servicemen-have-died-and-13-were-wounded-in-skirmishes-with-pro-russian-separatists-in-the-past-day.md) _2017-08-27 03:42:55 (First version)_
+1. [War in Donbass: Seven Ukraine servicemen have died and 13 were wounded in skirmishes with pro-Russian separatists in the past day. ](/news/2015/08/27/war-in-donbass-seven-ukraine-servicemen-have-died-and-13-were-wounded-in-skirmishes-with-pro-russian-separatists-in-the-past-day.md) _2018-02-06 13:49:27 (First version)_
 1. [Seven Ukraine servicemen have died and 13 were wounded in skirmishes with pro-Russian separatists in the past day. ](/news/2015/08/27/seven-ukraine-servicemen-have-died-and-13-were-wounded-in-skirmishes-with-pro-russian-separatists-in-the-past-day.md) _(Current version)_
 
 ### Related:

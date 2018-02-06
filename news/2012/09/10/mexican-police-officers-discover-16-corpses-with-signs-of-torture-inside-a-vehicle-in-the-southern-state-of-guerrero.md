@@ -16,8 +16,8 @@ related killings
 
 ### Changes:
 
-1. [Mexican Drug War:Mexican police officers discover 16 corpses with signs of torture inside a vehicle in the southern state of Guerrero. ](/news/2012/09/10/mexican-drug-war-pmexican-police-officers-discover-16-corpses-with-signs-of-torture-inside-a-vehicle-in-the-southern-state-of-guerrero.md) _2017-08-25 03:36:28 (First version)_
-2. [Mexican Drug War:: Mexican police officers discover 16 corpses with signs of torture inside a vehicle in the southern state of Guerrero. ](/news/2012/09/10/mexican-drug-war-mexican-police-officers-discover-16-corpses-with-signs-of-torture-inside-a-vehicle-in-the-southern-state-of-guerrero.md) _2017-08-27 03:36:39 (Update)_
+1. [Mexican Drug War:Mexican police officers discover 16 corpses with signs of torture inside a vehicle in the southern state of Guerrero. ](/news/2012/09/10/mexican-drug-war-pmexican-police-officers-discover-16-corpses-with-signs-of-torture-inside-a-vehicle-in-the-southern-state-of-guerrero.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: Mexican police officers discover 16 corpses with signs of torture inside a vehicle in the southern state of Guerrero. ](/news/2012/09/10/mexican-drug-war-mexican-police-officers-discover-16-corpses-with-signs-of-torture-inside-a-vehicle-in-the-southern-state-of-guerrero.md) _2018-02-06 13:49:23 (Update)_
 2. [Mexican police officers discover 16 corpses with signs of torture inside a vehicle in the southern state of Guerrero. ](/news/2012/09/10/mexican-police-officers-discover-16-corpses-with-signs-of-torture-inside-a-vehicle-in-the-southern-state-of-guerrero.md) _(Current version)_
 
 ### Related:

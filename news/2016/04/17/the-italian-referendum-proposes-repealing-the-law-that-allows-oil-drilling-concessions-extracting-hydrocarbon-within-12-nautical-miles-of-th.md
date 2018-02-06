@@ -16,7 +16,7 @@ A referendum to be held next Sunday in Italy could shape the country’s energy 
 
 ### Changes:
 
-1. [Italian oil drilling referendum, 2016: The Italian referendum proposes repealing the law that allows oil drilling concessions extracting Hydrocarbon within 12 nautical miles of the Italian coast to be prolonged until the exhaustion of the useful life of the fields. ](/news/2016/04/17/italian-oil-drilling-referendum-2016-the-italian-referendum-proposes-repealing-the-law-that-allows-oil-drilling-concessions-extracting-hyd.md) _2017-08-27 03:45:39 (First version)_
+1. [Italian oil drilling referendum, 2016: The Italian referendum proposes repealing the law that allows oil drilling concessions extracting Hydrocarbon within 12 nautical miles of the Italian coast to be prolonged until the exhaustion of the useful life of the fields. ](/news/2016/04/17/italian-oil-drilling-referendum-2016-the-italian-referendum-proposes-repealing-the-law-that-allows-oil-drilling-concessions-extracting-hyd.md) _2018-02-06 13:49:28 (First version)_
 1. [The Italian referendum proposes repealing the law that allows oil drilling concessions extracting Hydrocarbon within 12 nautical miles of the Italian coast to be prolonged until the exhaustion of the useful life of the fields. ](/news/2016/04/17/the-italian-referendum-proposes-repealing-the-law-that-allows-oil-drilling-concessions-extracting-hydrocarbon-within-12-nautical-miles-of-th.md) _(Current version)_
 
 ### Related:

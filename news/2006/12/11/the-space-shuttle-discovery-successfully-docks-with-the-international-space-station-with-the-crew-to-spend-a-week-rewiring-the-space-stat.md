@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-
 
 ### Changes:
 
-1. [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-st.md) _2017-08-25 03:18:54 (First version)_
+1. [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-st.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Space Shuttle "Discovery" successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-stat.md) _(Current version)_
 
 ### Related:

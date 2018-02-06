@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/14/bulgarian-prime-minister-boyko-borissov-resigns
 
 ### Changes:
 
-1. [Aftermath of the Bulgarian Prime Minister Boyko Borissov resigns as a result of Socialist-backed Rumen Radev winning the presidential election. ](/news/2016/11/14/aftermath-of-the-bulgarian-prime-minister-boyko-borissov-resigns-as-a-result-of-socialist-backed-rumen-radev-winning-the-presidential-electi.md) _2017-08-25 03:46:48 (First version)_
+1. [Aftermath of the Bulgarian Prime Minister Boyko Borissov resigns as a result of Socialist-backed Rumen Radev winning the presidential election. ](/news/2016/11/14/aftermath-of-the-bulgarian-prime-minister-boyko-borissov-resigns-as-a-result-of-socialist-backed-rumen-radev-winning-the-presidential-electi.md) _2018-02-06 13:49:29 (First version)_
 1. [Bulgarian Prime Minister Boyko Borissov resigns as a result of Socialist-backed Rumen Radev winning the presidential election. ](/news/2016/11/14/bulgarian-prime-minister-boyko-borissov-resigns-as-a-result-of-socialist-backed-rumen-radev-winning-the-presidential-election.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Rescuers believe they have found more bodies buried deep in the rubble of the ru
 
 ### Changes:
 
-1. [2016 Central Italy earthquake: Officials report the death toll is at least 290 people with at least 10 others still missing. ](/news/2016/08/28/2016-central-italy-earthquake-officials-report-the-death-toll-is-at-least-290-people-with-at-least-10-others-still-missing.md) _2017-08-27 03:46:43 (First version)_
+1. [2016 Central Italy earthquake: Officials report the death toll is at least 290 people with at least 10 others still missing. ](/news/2016/08/28/2016-central-italy-earthquake-officials-report-the-death-toll-is-at-least-290-people-with-at-least-10-others-still-missing.md) _2018-02-06 13:49:29 (First version)_
 1. [Officials report the death toll is at least 290 people with at least 10 others still missing. ](/news/2016/08/28/officials-report-the-death-toll-is-at-least-290-people-with-at-least-10-others-still-missing.md) _(Current version)_
 
 ### Related:

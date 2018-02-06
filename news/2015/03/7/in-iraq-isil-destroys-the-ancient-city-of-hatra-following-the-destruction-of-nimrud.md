@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/7/in-iraq-isil-destroys-the-ancient-city-of-hatra-
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: In Iraq, ISIL destroys the ancient city of Hatra following the destruction of Nimrud. ](/news/2015/03/7/islamic-state-of-iraq-and-the-levant-in-iraq-isil-destroys-the-ancient-city-of-hatra-following-the-destruction-of-nimrud.md) _2017-08-27 03:42:03 (First version)_
+1. [Islamic State of Iraq and the Levant: In Iraq, ISIL destroys the ancient city of Hatra following the destruction of Nimrud. ](/news/2015/03/7/islamic-state-of-iraq-and-the-levant-in-iraq-isil-destroys-the-ancient-city-of-hatra-following-the-destruction-of-nimrud.md) _2018-02-06 13:49:27 (First version)_
 1. [In Iraq, ISIL destroys the ancient city of Hatra following the destruction of Nimrud. ](/news/2015/03/7/in-iraq-isil-destroys-the-ancient-city-of-hatra-following-the-destruction-of-nimrud.md) _(Current version)_
 
 ### Related:

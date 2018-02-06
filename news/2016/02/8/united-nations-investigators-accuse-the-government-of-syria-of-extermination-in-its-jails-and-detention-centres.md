@@ -16,7 +16,7 @@ Detainees held by the Syrian Government are dying on an extermination scale, a U
 
 ### Changes:
 
-1. [Syrian Civil War: United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/syrian-civil-war-united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md) _2017-08-27 03:44:51 (First version)_
+1. [Syrian Civil War: United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/syrian-civil-war-united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md) _2018-02-06 13:49:28 (First version)_
 1. [United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md) _(Current version)_
 
 ### Related:

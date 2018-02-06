@@ -16,8 +16,8 @@ Boeing strikes a Dreamliner deal as the Dubai Airshow awaits news of a key Airbu
 
 ### Changes:
 
-1. [Boeing announced at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announced-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md) _2017-11-12 15:30:05 (First version)_
-2. [Boeing announces at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md) _2017-11-12 20:30:07 (Update)_
+1. [Boeing announces at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md) _2018-02-06 13:49:31 (First version)_
+2. [Boeing announced at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announced-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md) _2018-02-06 13:49:31 (Update)_
 2. [Boeing announces at the Dubai Airshow that the airline Emirates will purchase forty 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-the-airline-emirates-will-purchase-forty-787-dreamliners-with-a-list-value-of-us-15-billion.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/09/2/isil-releases-an-internet-video-showing-the-behe
 
 ### Changes:
 
-1. [Syrian Civil War: ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/syrian-civil-war-isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md) _2017-08-27 03:41:14 (First version)_
+1. [Syrian Civil War: ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/syrian-civil-war-isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md) _2018-02-06 13:49:26 (First version)_
 1. [ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md) _(Current version)_
 
 ### Related:

@@ -13,7 +13,7 @@ Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists
 
 ##### Spillover of the Syrian Civil War
 ### [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md)
-_Context: Damascus, Lebanon, reconnaissance, Syria, Israeli Air Force, S-200, Spillover of the Syrian Civil War_
+_Context: reconnaissance, S-200, Israeli Air Force, Lebanon, Damascus, Syria, Spillover of the Syrian Civil War_
 
 ##### Atlantic hurricanes
 ### [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md)

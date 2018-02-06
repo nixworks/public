@@ -5,15 +5,15 @@ Formats: [HTML](2012/02/1/index.html)  [JSON](2012/02/1/index.json)  [XML](2012/
 
 ##### Times
 ### [The London "Times" reports that a secret NATO report claims that the Taliban, backed by Pakistan, is set to regain control over Afghanistan after international forces withdraw from the country. ](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-report-claims-that-the-taliban-backed-by-pakistan-is-set-to-regain-control-over-afghanistan.md)
-_Context: Pakistan, NATO, Taliban, Times, Afghanistan_
+_Context: Times, Pakistan, NATO, Taliban, Afghanistan_
 
 ##### Xinhua
 ### [The Xinhua news agency reports that 25 Chinese workers held captive in the Sinai region of Egypt have been released. ](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.md)
-_Context: Sinai, Chinese, Xinhua, Egypt_
+_Context: Egypt, Xinhua, Sinai, Chinese_
 
 ##### Pakistan Air Force
 ### [Pakistan Air Force jets bomb militant positions in the Orakzai and Kurram Agency areas near the border with Afghanistan with claims that 31 alleged insurgents were killed. ](/news/2012/02/1/pakistan-air-force-jets-bomb-militant-positions-in-the-orakzai-and-kurram-agency-areas-near-the-border-with-afghanistan-with-claims-that-31.md)
-_Context: Kurram Valley, Pakistan Air Force, Orakzai Tribal Area, Afghanistan_
+_Context: Orakzai Tribal Area, Afghanistan, Pakistan Air Force, Kurram Valley_
 
 ##### Nigeria
 ### [Nigeria's State Security Service claim to have arrested Abul-Qaqa, a purported spokesman for the radical Islamist Boko Haram group. ](/news/2012/02/1/nigeria-s-state-security-service-claim-to-have-arrested-abul-qaqa-a-purported-spokesman-for-the-radical-islamist-boko-haram-group.md)
@@ -33,7 +33,7 @@ Japan has temporarily banned poultry imports from Australia following an outbrea
 
 ##### social network
 ### [The social network Facebook files for an initial public offering. ](/news/2012/02/1/the-social-network-facebook-files-for-an-initial-public-offering.md)
-_Context: initial public offering, social network, Facebook_
+_Context: Facebook, social network, initial public offering_
 
 ##### American Airlines
 ### [The parent company of American Airlines says that it will slash 13,000 jobs or 15% of its workforce. ](/news/2012/02/1/the-parent-company-of-american-airlines-says-that-it-will-slash-13-000-jobs-or-15-of-its-workforce.md)
@@ -53,7 +53,7 @@ Former Ottawa resident Naser al-Raas has been arrested in a Bahrain court after 
 
 ##### State Senate
 ### [The State Senate in the US state of Washington passes legislation allowing same sex marriage in the state. ](/news/2012/02/1/the-state-senate-in-the-us-state-of-washington-passes-legislation-allowing-same-sex-marriage-in-the-state.md)
-_Context: Washington, State Senate, same sex marriage_
+_Context: State Senate, Washington, same sex marriage_
 
 ## [Previous Day...](/news/2012/01/31/index.md)
 

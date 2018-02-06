@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/05/17/a-string-of-bombings-most-of-them-in-sunni-area
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-more.md) _2017-08-25 03:38:41 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-mor.md) _2017-08-27 03:38:54 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-more.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-mor.md) _2018-02-06 13:49:24 (Update)_
 2. [A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/a-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-more-than-200-others.md) _(Current version)_
 
 ### Related:

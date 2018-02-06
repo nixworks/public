@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/3/german-police-arrested-a-17-year-old-asylum-seek
 
 ### Changes:
 
-1. [Murder of Maria Ladenburger: German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/murder-of-maria-ladenburger-german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in.md) _2017-08-27 03:47:22 (First version)_
+1. [Murder of Maria Ladenburger: German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/murder-of-maria-ladenburger-german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in.md) _2018-02-06 13:49:30 (First version)_
 1. [German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in-freiburg-while-a-similar-case.md) _(Current version)_
 
 ### Related:

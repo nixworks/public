@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/31/thai-police-say-they-have-discovered-bomb-makin
 
 ### Changes:
 
-1. [2015 Bangkok bombing: Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/2015-bangkok-bombing-thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Bangkok bombing: Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/2015-bangkok-bombing-thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md) _2018-02-06 13:49:27 (First version)_
 1. [Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md) _(Current version)_
 
 ### Related:

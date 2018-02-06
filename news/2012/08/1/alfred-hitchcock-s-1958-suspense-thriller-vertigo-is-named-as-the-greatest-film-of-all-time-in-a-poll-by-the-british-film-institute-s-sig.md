@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertig
 
 ### Changes:
 
-1. [Alfred Hitchcock's 1958 suspense thriller ''Vertigo'' is named as the greatest film of all time in a poll by the British Film Institute's ''Sight and Sound'' magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s.md) _2017-08-25 03:36:12 (First version)_
+1. [Alfred Hitchcock's 1958 suspense thriller ''Vertigo'' is named as the greatest film of all time in a poll by the British Film Institute's ''Sight and Sound'' magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s.md) _2018-02-06 13:49:23 (First version)_
 1. [Alfred Hitchcock's 1958 suspense thriller "Vertigo" is named as the greatest film of all time in a poll by the British Film Institute's "Sight and Sound" magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s-sig.md) _(Current version)_
 
 ### Related:

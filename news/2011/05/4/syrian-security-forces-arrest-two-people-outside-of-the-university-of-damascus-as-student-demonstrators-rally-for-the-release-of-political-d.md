@@ -22,7 +22,7 @@ Syrian security forces arrested two people outside of the University of Damascus
 
 ### Changes:
 
-1. [2011 Syrian uprising: Syrian security forces arrest two people outside of the University of Damascus as student demonstrators rally for the release of political detainees and army convoys and tanks rolled into the capital city, setting up what eyewitnesses described as a base in the central square. ](/news/2011/05/4/2011-syrian-uprising-syrian-security-forces-arrest-two-people-outside-of-the-university-of-damascus-as-student-demonstrators-rally-for-the.md) _2017-08-27 03:33:08 (First version)_
+1. [2011 Syrian uprising: Syrian security forces arrest two people outside of the University of Damascus as student demonstrators rally for the release of political detainees and army convoys and tanks rolled into the capital city, setting up what eyewitnesses described as a base in the central square. ](/news/2011/05/4/2011-syrian-uprising-syrian-security-forces-arrest-two-people-outside-of-the-university-of-damascus-as-student-demonstrators-rally-for-the.md) _2018-02-06 13:49:22 (First version)_
 1. [Syrian security forces arrest two people outside of the University of Damascus as student demonstrators rally for the release of political detainees and army convoys and tanks rolled into the capital city, setting up what eyewitnesses described as a base in the central square. ](/news/2011/05/4/syrian-security-forces-arrest-two-people-outside-of-the-university-of-damascus-as-student-demonstrators-rally-for-the-release-of-political-d.md) _(Current version)_
 
 ### Related:

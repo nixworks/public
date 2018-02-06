@@ -15,7 +15,7 @@ French Finance Minister puts Panama back on list of countries that don&#39;t coo
 
 ### Changes:
 
-1. [Panama Papers: France places Panama back on its list of countries that do not cooperate in catching tax evaders. "France has decided to put Panama back on the list of uncooperative countries, with all the consequences that will have for those who have transactions" with the Central American state, Finance Minister Michel Sapin, told Parliament on Tuesday. ](/news/2016/04/5/panama-papers-france-places-panama-back-on-its-list-of-countries-that-do-not-cooperate-in-catching-tax-evaders-france-has-decided-to-put.md) _2017-08-27 03:45:30 (First version)_
+1. [Panama Papers: France places Panama back on its list of countries that do not cooperate in catching tax evaders. "France has decided to put Panama back on the list of uncooperative countries, with all the consequences that will have for those who have transactions" with the Central American state, Finance Minister Michel Sapin, told Parliament on Tuesday. ](/news/2016/04/5/panama-papers-france-places-panama-back-on-its-list-of-countries-that-do-not-cooperate-in-catching-tax-evaders-france-has-decided-to-put.md) _2018-02-06 13:49:29 (First version)_
 1. [France places Panama back on its list of countries that do not cooperate in catching tax evaders. "France has decided to put Panama back on the list of uncooperative countries, with all the consequences that will have for those who have transactions" with the Central American state, Finance Minister Michel Sapin, told Parliament on Tuesday. ](/news/2016/04/5/france-places-panama-back-on-its-list-of-countries-that-do-not-cooperate-in-catching-tax-evaders-france-has-decided-to-put-panama-back-on.md) _(Current version)_
 
 ### Related:

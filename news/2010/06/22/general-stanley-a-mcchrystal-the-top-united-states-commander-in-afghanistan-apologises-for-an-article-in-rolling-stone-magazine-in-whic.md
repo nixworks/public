@@ -17,7 +17,7 @@ In a new magazine profile, the top commander in Afghanistan, Army Gen. Stanley A
 
 ### Changes:
 
-1. [General Stanley A. McChrystal, the top United States commander in Afghanistan, apologises for an article in ''Rolling Stone'' magazine in which he criticised senior members of the Obama administration. McChrystal is later summoned to Washington, D.C. for talks with Obama. ](/news/2010/06/22/general-stanley-a-mcchrystal-the-top-united-states-commander-in-afghanistan-apologises-for-an-article-in-rolling-stone-magazine-in-wh.md) _2017-08-25 03:28:22 (First version)_
+1. [General Stanley A. McChrystal, the top United States commander in Afghanistan, apologises for an article in ''Rolling Stone'' magazine in which he criticised senior members of the Obama administration. McChrystal is later summoned to Washington, D.C. for talks with Obama. ](/news/2010/06/22/general-stanley-a-mcchrystal-the-top-united-states-commander-in-afghanistan-apologises-for-an-article-in-rolling-stone-magazine-in-wh.md) _2018-02-06 13:49:20 (First version)_
 1. [General Stanley A. McChrystal, the top United States commander in Afghanistan, apologises for an article in "Rolling Stone" magazine in which he criticised senior members of the Obama administration. McChrystal is later summoned to Washington, D.C. for talks with Obama. ](/news/2010/06/22/general-stanley-a-mcchrystal-the-top-united-states-commander-in-afghanistan-apologises-for-an-article-in-rolling-stone-magazine-in-whic.md) _(Current version)_
 
 ### Related:

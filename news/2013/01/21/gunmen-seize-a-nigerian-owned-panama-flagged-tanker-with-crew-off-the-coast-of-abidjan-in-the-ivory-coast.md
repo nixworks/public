@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-ta
 
 ### Changes:
 
-1. [Piracy in the 21st century:Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-pgunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _2017-08-25 03:37:18 (First version)_
-2. [Piracy in the 21st century:: Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _2017-08-27 03:37:28 (Update)_
+1. [Piracy in the 21st century:Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-pgunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _2018-02-06 13:49:24 (First version)_
+2. [Piracy in the 21st century:: Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _(Current version)_
 
 ### Related:

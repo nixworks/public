@@ -17,8 +17,8 @@ Hundreds of residents fled an Indonesian port town for higher ground on Monday w
 
 ### Changes:
 
-1. [Indonesian earthquake and tsunami:A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-pa-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _2017-08-25 03:32:43 (First version)_
-2. [Indonesian earthquake and tsunami:: A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _2017-08-27 03:32:52 (Update)_
+1. [Indonesian earthquake and tsunami:A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-pa-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _2018-02-06 13:49:22 (First version)_
+2. [Indonesian earthquake and tsunami:: A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _2018-02-06 13:49:22 (Update)_
 2. [A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md) _(Current version)_
 
 ### Related:

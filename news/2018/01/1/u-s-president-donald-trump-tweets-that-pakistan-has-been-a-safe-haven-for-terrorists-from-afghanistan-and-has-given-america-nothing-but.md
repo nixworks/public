@@ -18,8 +18,8 @@ Pakistan&#x00A0;responded&#x20;to&#x20;Trump&#x2019;s&#x20;assertion&#x20;it&#x2
 
 ### Changes:
 
-1. [U.S. President Donald Trump tweets Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lies-and.md) _2018-01-01 23:30:05 (First version)_
-2. [U.S. President Donald Trump tweets that Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-that-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lie.md) _2018-01-02 00:30:05 (Update)_
+1. [U.S. President Donald Trump tweets that Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-that-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lie.md) _2018-02-06 13:49:31 (First version)_
+2. [U.S. President Donald Trump tweets Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lies-and.md) _2018-02-06 13:49:31 (Update)_
 2. [U.S. President Donald Trump tweets that Pakistan has been a "safe haven" for terrorists from Afghanistan and has given America "nothing but lies & deceit" after getting more than $33 billion in U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-that-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but.md) _(Current version)_
 
 ### Related:

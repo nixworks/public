@@ -16,7 +16,7 @@ A mass protest in South Korea calls for scandal-hit President Park Geun-hye to q
 
 ### Changes:
 
-1. [2016 South Korean protests: Tens of thousands protest in the South Korean capital, Seoul, calling for the resignation of President Park Geun-hye over her links with Choi Soon-sil, who was arrested on November 3, and charged with fraud and abuse of power. ](/news/2016/11/5/2016-south-korean-protests-tens-of-thousands-protest-in-the-south-korean-capital-seoul-calling-for-the-resignation-of-president-park-geun.md) _2017-08-27 03:47:11 (First version)_
+1. [2016 South Korean protests: Tens of thousands protest in the South Korean capital, Seoul, calling for the resignation of President Park Geun-hye over her links with Choi Soon-sil, who was arrested on November 3, and charged with fraud and abuse of power. ](/news/2016/11/5/2016-south-korean-protests-tens-of-thousands-protest-in-the-south-korean-capital-seoul-calling-for-the-resignation-of-president-park-geun.md) _2018-02-06 13:49:29 (First version)_
 1. [Tens of thousands protest in the South Korean capital, Seoul, calling for the resignation of President Park Geun-hye over her links with Choi Soon-sil, who was arrested on November 3, and charged with fraud and abuse of power. ](/news/2016/11/5/tens-of-thousands-protest-in-the-south-korean-capital-seoul-calling-for-the-resignation-of-president-park-geun-hye-over-her-links-with-cho.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Reform Party, a right of center, market-liberal force that has played a domi
 
 ### Changes:
 
-1. [Estonian parliamentary election, 2015: The ruling Reform Party wins the elections, but loses the majority that it has had with its current coalition partner, the Social Democratic Party. For the first time in many years, two new parties cross the election threshold, the right-of-centre Free Party and the eurosceptic Conservative People's Party of Estonia. ](/news/2015/03/1/estonian-parliamentary-election-2015-the-ruling-reform-party-wins-the-elections-but-loses-the-majority-that-it-has-had-with-its-current-c.md) _2017-08-27 03:42:02 (First version)_
+1. [Estonian parliamentary election, 2015: The ruling Reform Party wins the elections, but loses the majority that it has had with its current coalition partner, the Social Democratic Party. For the first time in many years, two new parties cross the election threshold, the right-of-centre Free Party and the eurosceptic Conservative People's Party of Estonia. ](/news/2015/03/1/estonian-parliamentary-election-2015-the-ruling-reform-party-wins-the-elections-but-loses-the-majority-that-it-has-had-with-its-current-c.md) _2018-02-06 13:49:26 (First version)_
 1. [The ruling Reform Party wins the elections, but loses the majority that it has had with its current coalition partner, the Social Democratic Party. For the first time in many years, two new parties cross the election threshold, the right-of-centre Free Party and the eurosceptic Conservative People's Party of Estonia. ](/news/2015/03/1/the-ruling-reform-party-wins-the-elections-but-loses-the-majority-that-it-has-had-with-its-current-coalition-partner-the-social-democratic.md) _(Current version)_
 
 ### Related:

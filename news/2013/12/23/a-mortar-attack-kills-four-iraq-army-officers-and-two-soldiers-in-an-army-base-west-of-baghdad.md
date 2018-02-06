@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/23/a-mortar-attack-kills-four-iraq-army-officers-a
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-pa-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md) _2017-08-25 03:39:45 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md) _2017-08-27 03:40:04 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-pa-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md) _2018-02-06 13:49:25 (Update)_
 2. [A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md) _(Current version)_
 
 ### Related:

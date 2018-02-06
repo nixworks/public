@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/5/the-death-toll-from-the-sinking-of-the-ship-on-t
 
 ### Changes:
 
-1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-h.md) _2017-08-27 03:42:28 (First version)_
+1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-h.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-hope-of-finding-more-survivors-only-1.md) _(Current version)_
 
 ### Related:

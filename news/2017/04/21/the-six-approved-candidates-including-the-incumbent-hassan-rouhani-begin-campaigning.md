@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/21/the-six-approved-candidates-including-the-incum
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/iranian-presidential-election-2017-the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md) _2017-08-27 03:48:12 (First version)_
+1. [Iranian presidential election, 2017: The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/iranian-presidential-election-2017-the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md) _2018-02-06 13:49:30 (First version)_
 1. [The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md) _(Current version)_
 
 ### Related:

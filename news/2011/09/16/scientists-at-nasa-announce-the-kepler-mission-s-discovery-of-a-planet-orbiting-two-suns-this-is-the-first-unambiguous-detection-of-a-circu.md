@@ -17,7 +17,7 @@ A planet orbiting two suns - the first confirmed alien world of its kind, and ev
 
 ### Changes:
 
-1. [Scientists at NASA announce the Kepler mission's discovery of a planet orbiting two suns. This is the first unambiguous detection of a circumbinary planet, i.e., a planet that orbits two stars instead of one. ](/news/2011/09/16/scientists-at-nasa-announce-the-kepler-mission-s-discovery-of-a-planet-orbiting-two-suns-this-is-the-first-unambiguous-detection-of-a-circ.md) _2017-08-25 03:34:10 (First version)_
+1. [Scientists at NASA announce the Kepler mission's discovery of a planet orbiting two suns. This is the first unambiguous detection of a circumbinary planet, i.e., a planet that orbits two stars instead of one. ](/news/2011/09/16/scientists-at-nasa-announce-the-kepler-mission-s-discovery-of-a-planet-orbiting-two-suns-this-is-the-first-unambiguous-detection-of-a-circ.md) _2018-02-06 13:49:22 (First version)_
 1. [Scientists at NASA announce the Kepler mission's discovery of a planet orbiting two suns. This is the first unambiguous detection of a circumbinary planet, i.e., a planet that orbits two stars instead of one. ](/news/2011/09/16/scientists-at-nasa-announce-the-kepler-mission-s-discovery-of-a-planet-orbiting-two-suns-this-is-the-first-unambiguous-detection-of-a-circu.md) _(Current version)_
 
 ### Related:

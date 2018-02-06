@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asi
 
 ### Changes:
 
-1. [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asia-europe-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md) _2017-08-27 03:36:56 (First version)_
+1. [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asia-europe-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md) _2018-02-06 13:49:24 (First version)_
 1. [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asiaaeurope-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md) _(Current version)_
 
 ### Related:

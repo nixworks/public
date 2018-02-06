@@ -17,7 +17,7 @@ Formats: [HTML](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-i
 
 ### Changes:
 
-1. [ War in Afghanistan: At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/war-in-afghanistan-at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanist.md) _2017-08-27 03:20:44 (First version)_
+1. [ War in Afghanistan: At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/war-in-afghanistan-at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanist.md) _2018-02-06 13:49:18 (First version)_
 1. [ At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanistan.md) _(Current version)_
 
 ### Related:

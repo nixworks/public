@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/02/12/islamist-insurgency-in-somalia-five-mortar-bomb
 
 ### Changes:
 
-1. [ Islamist insurgency in Somalia: Five mortar bombs explode in Mogadishu, killing at least three people. ](/news/2007/02/12/islamist-insurgency-in-somalia-five-mortar-bombs-explode-in-mogadishu-killing-at-least-three-people.md) _2017-08-25 03:19:09 (First version)_
+1. [ Islamist insurgency in Somalia: Five mortar bombs explode in Mogadishu, killing at least three people. ](/news/2007/02/12/islamist-insurgency-in-somalia-five-mortar-bombs-explode-in-mogadishu-killing-at-least-three-people.md) _2018-02-06 13:49:17 (First version)_
 1. [ Islamist insurgency in Somalia: Five mortar bombs explode in Mogadishu, killing at least three people. [http:--today.reuters.com-news-articlenews.aspx?type=topNews&storyid=2007-02-12T070433Z_01_L11804570_RTRUKOC_0_US-SOMALIA-CONFLICT.xml&src=rss (Reuters) ]](/news/2007/02/12/islamist-insurgency-in-somalia-five-mortar-bombs-explode-in-mogadishu-killing-at-least-three-people-http-today-reuters-com-news-artic.md) _(Current version)_
 
 ### Related:

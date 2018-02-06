@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/12/28/unidentified-gunmen-open-fire-on-peaceful-prote
 
 ### Changes:
 
-1. [2013 Thai political crisis: Unidentified gunmen open fire on peaceful protesters in Thailand, leaving one dead and three wounded. ](/news/2013/12/28/2013-thai-political-crisis-unidentified-gunmen-open-fire-on-peaceful-protesters-in-thailand-leaving-one-dead-and-three-wounded.md) _2017-08-27 03:40:05 (First version)_
+1. [2013 Thai political crisis: Unidentified gunmen open fire on peaceful protesters in Thailand, leaving one dead and three wounded. ](/news/2013/12/28/2013-thai-political-crisis-unidentified-gunmen-open-fire-on-peaceful-protesters-in-thailand-leaving-one-dead-and-three-wounded.md) _2018-02-06 13:49:25 (First version)_
 1. [Unidentified gunmen open fire on peaceful protesters in Thailand, leaving one dead and three wounded. ](/news/2013/12/28/unidentified-gunmen-open-fire-on-peaceful-protesters-in-thailand-leaving-one-dead-and-three-wounded.md) _(Current version)_
 
 ### Related:

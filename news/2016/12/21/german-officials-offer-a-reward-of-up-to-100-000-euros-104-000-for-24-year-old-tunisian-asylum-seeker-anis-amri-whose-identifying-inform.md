@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-00
 
 ### Changes:
 
-1. [2016 Berlin attack: German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/2016-berlin-attack-german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whos.md) _2017-08-27 03:47:29 (First version)_
+1. [2016 Berlin attack: German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/2016-berlin-attack-german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whos.md) _2018-02-06 13:49:30 (First version)_
 1. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _(Current version)_
 
 ### Related:

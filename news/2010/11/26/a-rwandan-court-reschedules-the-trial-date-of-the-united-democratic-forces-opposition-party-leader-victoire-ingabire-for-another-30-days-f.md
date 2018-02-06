@@ -16,7 +16,7 @@ A Rwandan court gave prosecutors an extra 30 days to complete their investigatio
 
 ### Changes:
 
-1. [A Rwandan court reschedules the trial date of the United Democratic Forces opposition party leader, Victoire Ingabire, for another 30 days for prosecutors to complete building their case against her. ](/news/2010/11/26/a-rwandan-court-reschedules-the-trial-date-of-the-united-democratic-forces-opposition-party-leader-victoire-ingabire-for-another-30-days.md) _2017-08-25 03:31:10 (First version)_
+1. [A Rwandan court reschedules the trial date of the United Democratic Forces opposition party leader, Victoire Ingabire, for another 30 days for prosecutors to complete building their case against her. ](/news/2010/11/26/a-rwandan-court-reschedules-the-trial-date-of-the-united-democratic-forces-opposition-party-leader-victoire-ingabire-for-another-30-days.md) _2018-02-06 13:49:21 (First version)_
 1. [A Rwandan court reschedules the trial date of the United Democratic Forces opposition party leader, Victoire Ingabire, for another 30 days for prosecutors to complete building their case against her. ](/news/2010/11/26/a-rwandan-court-reschedules-the-trial-date-of-the-united-democratic-forces-opposition-party-leader-victoire-ingabire-for-another-30-days-f.md) _(Current version)_
 
 ### Related:

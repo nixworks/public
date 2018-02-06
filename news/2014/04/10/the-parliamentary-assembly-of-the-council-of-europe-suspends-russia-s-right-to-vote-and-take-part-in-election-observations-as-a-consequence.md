@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/04/10/the-parliamentary-assembly-of-the-council-of-eu
 
 ### Changes:
 
-1. [2014 Crimean crisis:The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/2014-crimean-crisis-pthe-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observati.md) _2017-08-25 03:40:16 (First version)_
-2. [2014 Crimean crisis:: The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/2014-crimean-crisis-the-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observat.md) _2017-08-27 03:40:34 (Update)_
+1. [2014 Crimean crisis:: The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/2014-crimean-crisis-the-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observat.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean crisis:The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/2014-crimean-crisis-pthe-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observati.md) _2018-02-06 13:49:26 (Update)_
 2. [The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/the-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observations-as-a-consequence.md) _(Current version)_
 
 ### Related:

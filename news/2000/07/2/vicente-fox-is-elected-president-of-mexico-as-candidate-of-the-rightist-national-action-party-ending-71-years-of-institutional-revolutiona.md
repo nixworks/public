@@ -11,7 +11,7 @@ Formats: [HTML](/news/2000/07/2/vicente-fox-is-elected-president-of-mexico-as-ca
 
 ### Changes:
 
-1. [Mexican general election, 2000: Vicente Fox is elected president of Mexico, as candidate of the rightist National Action Party, ending 71 years of Institutional Revolutionary Party rule.](/news/2000/07/2/mexican-general-election-2000-vicente-fox-is-elected-president-of-mexico-as-candidate-of-the-rightist-national-action-party-ending-71-ye.md) _2017-08-27 03:15:08 (First version)_
+1. [Mexican general election, 2000: Vicente Fox is elected president of Mexico, as candidate of the rightist National Action Party, ending 71 years of Institutional Revolutionary Party rule.](/news/2000/07/2/mexican-general-election-2000-vicente-fox-is-elected-president-of-mexico-as-candidate-of-the-rightist-national-action-party-ending-71-ye.md) _2018-02-06 13:49:15 (First version)_
 1. [Vicente Fox is elected president of Mexico, as candidate of the rightist National Action Party, ending 71 years of Institutional Revolutionary Party rule.](/news/2000/07/2/vicente-fox-is-elected-president-of-mexico-as-candidate-of-the-rightist-national-action-party-ending-71-years-of-institutional-revolutiona.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ NPR put executive Michael Oreskes on leave after the Washington Post reported de
 
 ### Changes:
 
-1. [Michael Oreskes resigns from his position as senior vice president of news at NPR because of "inappropriate behavior" after two journalists accuse him of sexual harassment. ](/news/2017/11/1/michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-because-of-inappropriate-behavior-after-two-journalists.md) _2017-11-02 00:30:05 (First version)_
+1. [Michael Oreskes resigns from his position as senior vice president of news at NPR because of "inappropriate behavior" after two journalists accuse him of sexual harassment. ](/news/2017/11/1/michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-because-of-inappropriate-behavior-after-two-journalists.md) _2018-02-06 13:49:31 (First version)_
 1. [Citing "inappropriate behavior", Michael Oreskes resigns from his position as senior vice president of news at NPR after three journalists accuse him of sexual harassment. ](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-after-three-journalists-a.md) _(Current version)_
 
 ### Related:

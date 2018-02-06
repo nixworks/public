@@ -16,7 +16,7 @@ The candidates prepare to go head-to-head for the first presidential debate whic
 
 ### Changes:
 
-1. [United States presidential election, 2016: Democratic Party nominee Hillary Clinton and Republican Party nominee Donald Trump hold the first presidential debate of the 2016 presidential election at Hofstra University in Hempstead, New York. ](/news/2016/09/26/united-states-presidential-election-2016-democratic-party-nominee-hillary-clinton-and-republican-party-nominee-donald-trump-hold-the-first.md) _2017-08-27 03:46:54 (First version)_
+1. [United States presidential election, 2016: Democratic Party nominee Hillary Clinton and Republican Party nominee Donald Trump hold the first presidential debate of the 2016 presidential election at Hofstra University in Hempstead, New York. ](/news/2016/09/26/united-states-presidential-election-2016-democratic-party-nominee-hillary-clinton-and-republican-party-nominee-donald-trump-hold-the-first.md) _2018-02-06 13:49:29 (First version)_
 1. [Democratic Party nominee Hillary Clinton and Republican Party nominee Donald Trump hold the first presidential debate of the 2016 presidential election at Hofstra University in Hempstead, New York. ](/news/2016/09/26/democratic-party-nominee-hillary-clinton-and-republican-party-nominee-donald-trump-hold-the-first-presidential-debate-of-the-2016-presidenti.md) _(Current version)_
 
 ### Related:

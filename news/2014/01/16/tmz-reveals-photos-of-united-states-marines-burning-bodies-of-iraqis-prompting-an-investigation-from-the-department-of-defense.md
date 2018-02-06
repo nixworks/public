@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/16/tmz-reveals-photos-of-united-states-marines-bur
 
 ### Changes:
 
-1. [Post-TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/post-tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defense.md) _2017-08-25 03:39:52 (First version)_
-2. [Post-Iraq War: TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/post-iraq-war-tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defens.md) _2017-08-27 03:40:11 (Update)_
+1. [Post-TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/post-tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defense.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-Iraq War: TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/post-iraq-war-tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defens.md) _2018-02-06 13:49:25 (Update)_
 2. [TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defense.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ NEW YORK (AP) — A day after North Korea&#039;s foreign minister told The Assoc
 
 ### Changes:
 
-1. [North Korea-United States relations: President Barack Obama says the United States isn't taking North Korean Foreign Minister Ri Su-yong's proposal to halt nuclear activity seriously. Pyongyang would "have to do better than that," he added. ](/news/2016/04/24/north-korea-united-states-relations-president-barack-obama-says-the-united-states-isn-t-taking-north-korean-foreign-minister-ri-su-yong-s-p.md) _2017-08-27 03:45:49 (First version)_
+1. [North Korea-United States relations: President Barack Obama says the United States isn't taking North Korean Foreign Minister Ri Su-yong's proposal to halt nuclear activity seriously. Pyongyang would "have to do better than that," he added. ](/news/2016/04/24/north-korea-united-states-relations-president-barack-obama-says-the-united-states-isn-t-taking-north-korean-foreign-minister-ri-su-yong-s-p.md) _2018-02-06 13:49:28 (First version)_
 1. [President Barack Obama says the United States isn't taking North Korean Foreign Minister Ri Su-yong's proposal to halt nuclear activity seriously. Pyongyang would "have to do better than that," he added. ](/news/2016/04/24/president-barack-obama-says-the-united-states-isn-t-taking-north-korean-foreign-minister-ri-su-yong-s-proposal-to-halt-nuclear-activity-seri.md) _(Current version)_
 
 ### Related:

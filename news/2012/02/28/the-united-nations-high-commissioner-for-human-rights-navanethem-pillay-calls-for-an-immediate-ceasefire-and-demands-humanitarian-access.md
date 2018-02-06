@@ -18,8 +18,8 @@ UN rights chief condemns attacks on civilians and demands humanitarian access, p
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011a2012-syrian-uprising-pthe-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-de.md) _2017-08-25 03:35:09 (First version)_
-2. [2011-2012 Syrian uprising:: The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011-2012-syrian-uprising-the-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-d.md) _2017-08-27 03:35:19 (Update)_
+1. [2011-2012 Syrian uprising:The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011a2012-syrian-uprising-pthe-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-de.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011-2012-syrian-uprising-the-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-d.md) _2018-02-06 13:49:23 (Update)_
 2. [The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/the-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-demands-humanitarian-access.md) _(Current version)_
 
 ### Related:

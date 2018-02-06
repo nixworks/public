@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/04/8/seven-nato-soldiers-die-as-a-result-of-car-bombi
 
 ### Changes:
 
-1. [ War in Afghanistan: Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/war-in-afghanistan-p-seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-ta.md) _2017-08-25 03:19:32 (First version)_
-2. [ War in Afghanistan:: Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/war-in-afghanistan-seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-ta.md) _2017-08-27 03:19:28 (Update)_
+1. [ War in Afghanistan:: Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/war-in-afghanistan-seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-ta.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Afghanistan: Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/war-in-afghanistan-p-seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-ta.md) _2018-02-06 13:49:17 (Update)_
 2. [ Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-taliban.md) _(Current version)_
 
 ### Related:

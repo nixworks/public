@@ -13,15 +13,15 @@ _Context: Kirkuk, Iraq, Baghdad_
 
 ##### State Security Service
 ### [Nigeria's State Security Service intercepts an arms shipment in Lagos amid high security following bomb attacks in Abuja earlier this month. ](/news/2010/10/26/nigeria-s-state-security-service-intercepts-an-arms-shipment-in-lagos-amid-high-security-following-bomb-attacks-in-abuja-earlier-this-month.md)
-_Context: State Security Service, Abuja car bombings, Abuja, Lagos_
+_Context: Lagos, State Security Service, Abuja, Abuja car bombings_
 
 ##### Emperor of Exmoor
 ### [The Emperor of Exmoor, a red deer believed to be Britain's largest wild animal, is shot and killed. ](/news/2010/10/26/the-emperor-of-exmoor-a-red-deer-believed-to-be-britain-s-largest-wild-animal-is-shot-and-killed.md)
-_Context: Great Britain, Emperor of Exmoor, red deer_
+_Context: Great Britain, red deer, Emperor of Exmoor_
 
 ##### New Zealand Government
 ### [Crisis talks between the New Zealand Government and Warner Bros. to prevent "The Hobbit" film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-another.md)
-_Context: Warner Bros., New Zealand Government, ''The Hobbit'' film project_
+_Context: ''The Hobbit'' film project, New Zealand Government, Warner Bros._
 
 ##### Shanghai-Hangzhou High-Speed Railway
 ### [The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km-h begins operation. ](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.md)
@@ -33,7 +33,7 @@ _Context: Three Gorges Dam, world's largest water control and utilization projec
 
 ##### Cabinet of Japan
 ### [The Japanese Cabinet approves an extra budget containing an emergency economic stimulus package to help shore up the economy. ](/news/2010/10/26/the-japanese-cabinet-approves-an-extra-budget-containing-an-emergency-economic-stimulus-package-to-help-shore-up-the-economy.md)
-_Context: economic stimulus, Cabinet of Japan, Japanese economy_
+_Context: economic stimulus, Japanese economy, Cabinet of Japan_
 
 ##### Independent Print Limited
 ### [Independent Print Limited launches "i", the UK's first national daily newspaper in a quarter of a century. ](/news/2010/10/26/independent-print-limited-launches-i-the-uk-s-first-national-daily-newspaper-in-a-quarter-of-a-century.md)
@@ -49,7 +49,7 @@ George Osborne says better-than-expected economic figures show the recovery is &
 
 ##### United States
 ### [All 3 dead in US small plane crash in southwest Washington state, about 10 miles (16 km) northeast of Morton. ](/news/2010/10/26/all-3-dead-in-us-small-plane-crash-in-southwest-washington-state-about-10-miles-16-km-northeast-of-morton.md)
-_Context: Washington, United States, Morton_
+_Context: United States, Morton, Washington_
 
 ##### Susilo Bambang Yudhoyono
 ### [After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/after-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his-visit-program-to-china-and-vietnam-indonesian-public-welf.md)
@@ -57,7 +57,7 @@ A tsunami that pounded remote islands in western Indonesia following an earthqua
 
 ##### cholera
 ### [A cholera outbreak kills 559 in Cameroon. ](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.md)
-_Context: cholera, Cameroon_
+_Context: Cameroon, cholera_
 
 ##### Brazil
 ### [18 people die in Brazil after contracting hospital "superbug" bacteria "Klebsiella pneumoniae"; which produces the enzyme carbapenemase (KPC), which renders most modern antibiotics ineffective. ](/news/2010/10/26/18-people-die-in-brazil-after-contracting-hospital-superbug-bacteria-klebsiella-pneumoniae-which-produces-the-enzyme-carbapenemase-kpc.md)
@@ -69,19 +69,19 @@ Residents face aftermath of powerful Cyclone Giri, as aid groups warn number of 
 
 ##### World Health Organization
 ### [The World Health Organization announces a mass polio vaccination campaign across Africa, the same day an outbreak of the disease in Uganda is declared. ](/news/2010/10/26/the-world-health-organization-announces-a-mass-polio-vaccination-campaign-across-africa-the-same-day-an-outbreak-of-the-disease-in-uganda-i.md)
-_Context: Africa, Uganda, polio, World Health Organization_
+_Context: Africa, polio, World Health Organization, Uganda_
 
 ##### vertebrate
 ### [Approximately 1 in 5 vertebrate species are threatened with extinction according to scientist taking part in the Nagoya talks.](/news/2010/10/26/approximately-1-in-5-vertebrate-species-are-threatened-with-extinction-according-to-scientist-taking-part-in-the-nagoya-talks.md)
-_Context: vertebrate, Holocene extinction_
+_Context: Holocene extinction, vertebrate_
 
 ##### Emir of Qatar
 ### [The Emir of Qatar begins a state visit to the United Kingdom by meeting Queen Elizabeth II at Windsor Palace. ](/news/2010/10/26/the-emir-of-qatar-begins-a-state-visit-to-the-united-kingdom-by-meeting-queen-elizabeth-ii-at-windsor-palace.md)
-_Context: Windsor Castle, Emir of Qatar, British, Elizabeth II_
+_Context: Emir of Qatar, Elizabeth II, United Kingdom, Windsor Castle_
 
 ##### Ecuador
 ### [Ecuador throws its support behind Peru in their demands for the return of over 40,000 Machu Picchu artifacts taken by US explorer Hiram Bingham III, and now in Yale's possession. ](/news/2010/10/26/ecuador-throws-its-support-behind-peru-in-their-demands-for-the-return-of-over-40-000-machu-picchu-artifacts-taken-by-us-explorer-hiram-bing.md)
-_Context: Ecuador, Machu Picchu, Peru, ancient artifacts, Hiram Bingham III, Yale_
+_Context: ancient artifacts, Ecuador, Hiram Bingham III, Yale, Machu Picchu, Peru_
 
 ##### United States
 ### [The United States has fallen to a new low of 22nd place in Transparency International's rating of the least corrupt nations, noting various financial scandals and a lack of regulation leading to power being bought. ](/news/2010/10/26/the-united-states-has-fallen-to-a-new-low-of-22nd-place-in-transparency-international-s-rating-of-the-least-corrupt-nations-noting-various.md)
@@ -89,11 +89,11 @@ The United States has dropped out of the &quot;top 20&quot; in a global league t
 
 ##### Hungary
 ### [Hungarian-born multibillionaire George Soros donates $1 million to the Drug Policy Alliance to fund California's Proposition 19 in the upcoming November 2, 2010 elections that would legalize marijuana in the state if passed. ](/news/2010/10/26/hungarian-born-multibillionaire-george-soros-donates-1-million-to-the-drug-policy-alliance-to-fund-california-s-proposition-19-in-the-upcom.md)
-_Context: George Soros, Proposition 19, Hungary, cannabis, California, Drug Policy Alliance, November 2, 2010 elections_
+_Context: George Soros, Drug Policy Alliance, cannabis, California, Proposition 19, November 2, 2010 elections, Hungary_
 
 ##### Iraq
 ### [Former Foreign Minister of Iraq Tariq Aziz is sentenced to death for persecuting members of the Islamic Dawa Party during Saddam Hussein's regime. ](/news/2010/10/26/former-foreign-minister-of-iraq-tariq-aziz-is-sentenced-to-death-for-persecuting-members-of-the-islamic-dawa-party-during-saddam-hussein-s-r.md)
-_Context: Saddam Hussein, Tariq Aziz, Islamic Dawa Party, Iraq_
+_Context: Saddam Hussein, Islamic Dawa Party, Iraq, Tariq Aziz_
 
 ##### GlaxoSmithKline
 ### [GlaxoSmithKline pleads guilty to intentionally manufacturing and distributing adulterated drugs, including Paxil, and will pay $750 million for committing the felony. ](/news/2010/10/26/glaxosmithkline-pleads-guilty-to-intentionally-manufacturing-and-distributing-adulterated-drugs-including-paxil-and-will-pay-750-million.md)
@@ -105,15 +105,15 @@ GlaxoSmithKline Plc has agreed to pay $750 million and plead guilty to manufactu
 
 ##### Egypt
 ### [Egypt arrests up to 70 members of the banned Muslim Brotherhood opposition group as it begins campaigning for the parliamentary election in November. ](/news/2010/10/26/egypt-arrests-up-to-70-members-of-the-banned-muslim-brotherhood-opposition-group-as-it-begins-campaigning-for-the-parliamentary-election-in.md)
-_Context: Egypt, Egyptian parliamentary elections, Muslim Brotherhood_
+_Context: Egyptian parliamentary elections, Egypt, Muslim Brotherhood_
 
 ##### Tibet Military Command
 ### [The Tibet Military Command of the Chinese People's Liberation Army (PLA) holds the first air-ground live ammunition drill in Tibet. ](/news/2010/10/26/the-tibet-military-command-of-the-chinese-people-s-liberation-army-pla-holds-the-first-air-ground-live-ammunition-drill-in-tibet.md)
-_Context: Tibet, Tibet Military Command, Chinese People's Liberation Army_
+_Context: Chinese People's Liberation Army, Tibet Military Command, Tibet_
 
 ##### Iran
 ### [Iran starts loading fuel into the Bushehr Nuclear Plant, its first nuclear power plant. ](/news/2010/10/26/iran-starts-loading-fuel-into-the-bushehr-nuclear-plant-its-first-nuclear-power-plant.md)
-_Context: Bushehr Nuclear Plant, Iran, nuclear power_
+_Context: nuclear power, Iran, Bushehr Nuclear Plant_
 
 ## [Previous Day...](/news/2010/10/25/index.md)
 

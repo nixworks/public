@@ -17,8 +17,8 @@ The Egyptian army mounted a major operation against Islamist militants in North 
 
 ### Changes:
 
-1. [Sinai insurgency:The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/sinai-insurgency-pthe-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md) _2017-08-25 03:39:15 (First version)_
-2. [Sinai insurgency:: The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/sinai-insurgency-the-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md) _2017-08-27 03:39:31 (Update)_
+1. [Sinai insurgency:: The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/sinai-insurgency-the-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Sinai insurgency:The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/sinai-insurgency-pthe-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md) _2018-02-06 13:49:25 (Update)_
 2. [The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/the-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md) _(Current version)_
 
 ### Related:

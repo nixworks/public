@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-ha
 
 ### Changes:
 
-1. [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010-2011.md) _2017-08-27 03:32:52 (First version)_
+1. [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010-2011.md) _2018-02-06 13:49:22 (First version)_
 1. [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010a2011.md) _(Current version)_
 
 ### Related:

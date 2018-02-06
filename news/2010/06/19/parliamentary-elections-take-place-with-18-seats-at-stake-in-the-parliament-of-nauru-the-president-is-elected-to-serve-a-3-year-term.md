@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/06/19/parliamentary-elections-take-place-with-18-seat
 
 ### Changes:
 
-1. [Nauruan parliamentary election:Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/nauruan-parliamentary-election-pparliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elec.md) _2017-08-25 03:28:20 (First version)_
-2. [Nauruan parliamentary election:: Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/nauruan-parliamentary-election-parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-ele.md) _2017-08-27 03:28:20 (Update)_
+1. [Nauruan parliamentary election:Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/nauruan-parliamentary-election-pparliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elec.md) _2018-02-06 13:49:20 (First version)_
+2. [Nauruan parliamentary election:: Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/nauruan-parliamentary-election-parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-ele.md) _2018-02-06 13:49:20 (Update)_
 2. [Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elected-to-serve-a-3-year-term.md) _(Current version)_
 
 ### Related:

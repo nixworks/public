@@ -17,7 +17,7 @@ Three gunmen attacked the house of Mir Wali, a member of parliament from Helmand
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Five people are killed in a Taliban attack on Afghan Member of Parliament Mir Wali's home in Helmand Province. At least three security guards and two civilians were killed in the assault; Wali and others were injured. The gunmen are holding a number of occupants hostage. ](/news/2016/12/21/war-in-afghanistan-2015-present-five-people-are-killed-in-a-taliban-attack-on-afghan-member-of-parliament-mir-wali-s-home-in-helmand-pr.md) _2017-08-27 03:47:29 (First version)_
+1. [War in Afghanistan (2015-present): Five people are killed in a Taliban attack on Afghan Member of Parliament Mir Wali's home in Helmand Province. At least three security guards and two civilians were killed in the assault; Wali and others were injured. The gunmen are holding a number of occupants hostage. ](/news/2016/12/21/war-in-afghanistan-2015-present-five-people-are-killed-in-a-taliban-attack-on-afghan-member-of-parliament-mir-wali-s-home-in-helmand-pr.md) _2018-02-06 13:49:30 (First version)_
 1. [Five people are killed in a Taliban attack on Afghan Member of Parliament Mir Wali's home in Helmand Province. At least three security guards and two civilians were killed in the assault; Wali and others were injured. The gunmen are holding a number of occupants hostage. ](/news/2016/12/21/five-people-are-killed-in-a-taliban-attack-on-afghan-member-of-parliament-mir-wali-s-home-in-helmand-province-at-least-three-security-guard.md) _(Current version)_
 
 ### Related:

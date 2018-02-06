@@ -17,7 +17,7 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 
 ### Changes:
 
-1. [2016 Oakland warehouse fire: At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/2016-oakland-warehouse-fire-at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md) _2017-08-27 03:47:22 (First version)_
+1. [2016 Oakland warehouse fire: At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/2016-oakland-warehouse-fire-at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md) _2018-02-06 13:49:30 (First version)_
 1. [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md) _(Current version)_
 
 ### Related:

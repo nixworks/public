@@ -18,8 +18,8 @@ Formats: [HTML](/news/2010/06/20/in-the-runoff-of-the-presidential-elections-in-
 
 ### Changes:
 
-1. [Colombian presidential election, 2010:In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-pin-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-d.md) _2017-08-25 03:28:21 (First version)_
-2. [Colombian presidential election, 2010:: In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u.md) _2017-08-27 03:28:21 (Update)_
+1. [Colombian presidential election, 2010:In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-pin-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-d.md) _2018-02-06 13:49:20 (First version)_
+2. [Colombian presidential election, 2010:: In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u.md) _2018-02-06 13:49:20 (Update)_
 2. [In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-defeats-his-green-party-adversary-antana.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/1/president-elect-donald-trump-names-retired-unite
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/presidential-transition-of-donald-trump-president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-unite.md) _2017-08-27 03:47:21 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/presidential-transition-of-donald-trump-president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-unite.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md) _(Current version)_
 
 ### Related:

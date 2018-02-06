@@ -21,7 +21,7 @@ More than a million residents near the South Carolina coast should get at least 
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. ](/news/2016/10/4/2016-atlantic-hurricane-season-weather-forecasters-track-hurricane-matthew-as-it-makes-landfall-in-haiti-and-issue-hurricane-warnings-for-c.md) _2017-08-27 03:46:57 (First version)_
+1. [2016 Atlantic hurricane season: Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. ](/news/2016/10/4/2016-atlantic-hurricane-season-weather-forecasters-track-hurricane-matthew-as-it-makes-landfall-in-haiti-and-issue-hurricane-warnings-for-c.md) _2018-02-06 13:49:29 (First version)_
 1. [Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. ](/news/2016/10/4/weather-forecasters-track-hurricane-matthew-as-it-makes-landfall-in-haiti-and-issue-hurricane-warnings-for-cuba-and-the-bahamas.md) _(Current version)_
 
 ### Related:

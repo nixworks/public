@@ -18,7 +18,7 @@ Two Russian-born physicists honoured for work on graphene, which is both the thi
 
 ### Changes:
 
-1. [Physicists Andre Geim and Konstantin Novoselov at the University of Manchester win the 2010 Nobel Prize in Physics "for groundbreaking experiments regarding the two-dimensional material graphene". ](/news/2010/10/5/physicists-andre-geim-and-konstantin-novoselov-at-the-university-of-manchester-win-the-2010-nobel-prize-in-physics-for-groundbreaking-expe.md) _2017-08-25 03:30:20 (First version)_
+1. [Physicists Andre Geim and Konstantin Novoselov at the University of Manchester win the 2010 Nobel Prize in Physics "for groundbreaking experiments regarding the two-dimensional material graphene". ](/news/2010/10/5/physicists-andre-geim-and-konstantin-novoselov-at-the-university-of-manchester-win-the-2010-nobel-prize-in-physics-for-groundbreaking-expe.md) _2018-02-06 13:49:20 (First version)_
 1. [Physicists Andre Geim and Konstantin Novoselov at the University of Manchester win the 2010 Nobel Prize in Physics "for groundbreaking experiments regarding the two-dimensional material graphene". ](/news/2010/10/5/physicists-andre-geim-and-konstantin-novoselov-at-the-university-of-manchester-win-the-2010-nobel-prize-in-physics-for-groundbreaking-exper.md) _(Current version)_
 
 ### Related:

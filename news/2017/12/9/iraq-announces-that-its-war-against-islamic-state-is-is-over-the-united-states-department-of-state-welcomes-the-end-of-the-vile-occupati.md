@@ -16,8 +16,8 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
 ### Changes:
 
-1. [Iraq announces that its war against so-called Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-so-called-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vil.md) _2017-12-10 16:30:06 (First version)_
-2. [Iraq announces that its war against Islamic State (ISIL) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-isil-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupa.md) _2017-12-11 17:30:05 (Update)_
+1. [Iraq announces that its war against so-called Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-so-called-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vil.md) _2018-02-06 13:49:31 (First version)_
+2. [Iraq announces that its war against Islamic State (ISIL) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-isil-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupa.md) _2018-02-06 13:49:31 (Update)_
 2. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _(Current version)_
 
 ### Related:

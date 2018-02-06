@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/05/12/shootings-are-reported-in-khartoum-sudan-one-da
 
 ### Changes:
 
-1. [ 2008 attack on Omdurman and Khartoum: Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/2008-attack-on-omdurman-and-khartoum-p-shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al.md) _2017-08-25 03:22:09 (First version)_
-2. [ 2008 attack on Omdurman and Khartoum:: Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/2008-attack-on-omdurman-and-khartoum-shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al.md) _2017-08-27 03:22:04 (Update)_
+1. [ 2008 attack on Omdurman and Khartoum:: Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/2008-attack-on-omdurman-and-khartoum-shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 attack on Omdurman and Khartoum: Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/2008-attack-on-omdurman-and-khartoum-p-shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al.md) _2018-02-06 13:49:18 (Update)_
 2. [ Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al-turabi-is-released-from-custody-after.md) _(Current version)_
 
 ### Related:

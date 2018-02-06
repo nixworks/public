@@ -19,7 +19,7 @@ Formats: [HTML](/news/2005/03/13/roll-back-malaria-rbm-partnership-charity-conce
 
 ### Changes:
 
-1. [ Roll Back Malaria (RBM) Partnership charity concert "Africa Live" begins in Dakar, Senegal, to collect funds to fight against malaria and to buy mosquito nets. Local musician Youssou N'Dour organized the concert and it features major African artists. ](/news/2005/03/13/roll-back-malaria-rbm-partnership-charity-concert-africa-live-begins-in-dakar-senegal-to-collect-funds-to-fight-against-malaria-and.md) _2017-08-25 03:15:47 (First version)_
+1. [ Roll Back Malaria (RBM) Partnership charity concert "Africa Live" begins in Dakar, Senegal, to collect funds to fight against malaria and to buy mosquito nets. Local musician Youssou N'Dour organized the concert and it features major African artists. ](/news/2005/03/13/roll-back-malaria-rbm-partnership-charity-concert-africa-live-begins-in-dakar-senegal-to-collect-funds-to-fight-against-malaria-and.md) _2018-02-06 13:49:16 (First version)_
 1. [ Roll Back Malaria (RBM) Partnership charity concert "Africa Live" begins in Dakar, Senegal, to collect funds to fight against malaria and to buy mosquito nets. Local musician Youssou N'Dour organized the concert and it features major African artists. ](/news/2005/03/13/roll-back-malaria-rbm-partnership-charity-concert-africa-live-begins-in-dakar-senegal-to-collect-funds-to-fight-against-malaria-and-t.md) _(Current version)_
 
 ### Related:

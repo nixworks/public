@@ -17,7 +17,7 @@ A string of moderate earthquakes hit central Italy on Wednesday, shaking an area
 
 ### Changes:
 
-1. [January 2017 Central Italy earthquakes: Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes. ](/news/2017/01/18/january-2017-central-italy-earthquakes-four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some.md) _2017-08-27 03:47:38 (First version)_
+1. [January 2017 Central Italy earthquakes: Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes. ](/news/2017/01/18/january-2017-central-italy-earthquakes-four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some.md) _2018-02-06 13:49:30 (First version)_
 1. [Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes. ](/news/2017/01/18/four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some-schools-and-the-rome-metro-no-deaths-ar.md) _(Current version)_
 
 ### Related:

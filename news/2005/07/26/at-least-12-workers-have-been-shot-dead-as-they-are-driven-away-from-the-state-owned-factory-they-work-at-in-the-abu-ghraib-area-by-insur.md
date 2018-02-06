@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/07/26/at-least-12-workers-have-been-shot-dead-as-they
 
 ### Changes:
 
-1. [ Conflict in Iraq: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-p-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md) _2017-08-25 03:16:35 (First version)_
-2. [ Conflict in Iraq:: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md) _2017-08-27 03:16:37 (Update)_
+1. [ Conflict in Iraq: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-p-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md) _2018-02-06 13:49:16 (First version)_
+2. [ Conflict in Iraq:: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md) _2018-02-06 13:49:16 (Update)_
 2. [ At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-ghraib-area-by-insur.md) _(Current version)_
 
 ### Related:

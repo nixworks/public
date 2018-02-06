@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuate
 
 ### Changes:
 
-1. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse the unexploded ordnance from a powerful Royal Air Force bomb. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-the-unexploded-ordnance-from-a-powerful-royal-air-fo.md) _2017-09-03 18:30:05 (First version)_
+1. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse the unexploded ordnance from a powerful Royal Air Force bomb. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-the-unexploded-ordnance-from-a-powerful-royal-air-fo.md) _2018-02-06 13:49:31 (First version)_
 1. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _(Current version)_
 
 ### Related:

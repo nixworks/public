@@ -22,8 +22,8 @@ Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in respons
 
 ### Changes:
 
-1. [United States diplomatic cables leak:Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/united-states-diplomatic-cables-leak-pnewly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relations.md) _2017-08-25 03:31:19 (First version)_
-2. [United States diplomatic cables leak:: Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/united-states-diplomatic-cables-leak-newly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relation.md) _2017-08-27 03:31:27 (Update)_
+1. [United States diplomatic cables leak:Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/united-states-diplomatic-cables-leak-pnewly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relations.md) _2018-02-06 13:49:21 (First version)_
+2. [United States diplomatic cables leak:: Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/united-states-diplomatic-cables-leak-newly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relation.md) _2018-02-06 13:49:21 (Update)_
 2. [Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/newly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relations-if-abdelbaset-al-megrahi-were-to-die.md) _(Current version)_
 
 ### Related:

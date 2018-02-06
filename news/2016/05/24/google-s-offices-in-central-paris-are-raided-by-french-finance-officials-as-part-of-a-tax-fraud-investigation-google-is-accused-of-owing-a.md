@@ -16,7 +16,7 @@ French finance officials raid the Paris offices of US internet giant Google as p
 
 ### Changes:
 
-1. [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing -1.6bn ($1.8bn; GBP1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing.md) _2017-08-27 03:46:07 (First version)_
+1. [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing -1.6bn ($1.8bn; GBP1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing.md) _2018-02-06 13:49:29 (First version)_
 1. [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing EUR1.6bn ($1.8bn; GBP1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing-a.md) _(Current version)_
 
 ### Related:

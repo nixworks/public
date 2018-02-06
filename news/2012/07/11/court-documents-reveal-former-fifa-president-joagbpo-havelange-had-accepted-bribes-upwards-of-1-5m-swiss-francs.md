@@ -16,7 +16,7 @@ Documents reveal ex-Fifa president Joao Havelange was paid huge sums in bribes b
 
 ### Changes:
 
-1. [Court documents reveal former FIFA president Joao Havelange had accepted bribes upwards of 1.5m Swiss francs. ](/news/2012/07/11/court-documents-reveal-former-fifa-president-joapso-havelange-had-accepted-bribes-upwards-of-1-5m-swiss-francs.md) _2017-08-25 03:36:05 (First version)_
+1. [Court documents reveal former FIFA president Joao Havelange had accepted bribes upwards of 1.5m Swiss francs. ](/news/2012/07/11/court-documents-reveal-former-fifa-president-joapso-havelange-had-accepted-bribes-upwards-of-1-5m-swiss-francs.md) _2018-02-06 13:49:23 (First version)_
 1. [Court documents reveal former FIFA president JoGBPo Havelange had accepted bribes upwards of 1.5m Swiss francs. ](/news/2012/07/11/court-documents-reveal-former-fifa-president-joagbpo-havelange-had-accepted-bribes-upwards-of-1-5m-swiss-francs.md) _(Current version)_
 
 ### Related:

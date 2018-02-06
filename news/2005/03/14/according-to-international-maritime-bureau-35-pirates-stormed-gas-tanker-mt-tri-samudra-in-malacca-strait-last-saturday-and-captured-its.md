@@ -18,7 +18,7 @@ Formats: [HTML](/news/2005/03/14/according-to-international-maritime-bureau-35-p
 
 ### Changes:
 
-1. [ According to International Maritime Bureau, 35 pirates stormed gas tanker ''MT Tri Samudra'' in Malacca Strait last Saturday and captured its captain and chief engineer for ransom. The ship has been released. In another attack, pirates capture three members of a japanese tugboat ](/news/2005/03/14/according-to-international-maritime-bureau-35-pirates-stormed-gas-tanker-mt-tri-samudra-in-malacca-strait-last-saturday-and-captured-i.md) _2017-08-25 03:15:47 (First version)_
+1. [ According to International Maritime Bureau, 35 pirates stormed gas tanker ''MT Tri Samudra'' in Malacca Strait last Saturday and captured its captain and chief engineer for ransom. The ship has been released. In another attack, pirates capture three members of a japanese tugboat ](/news/2005/03/14/according-to-international-maritime-bureau-35-pirates-stormed-gas-tanker-mt-tri-samudra-in-malacca-strait-last-saturday-and-captured-i.md) _2018-02-06 13:49:16 (First version)_
 1. [ According to International Maritime Bureau, 35 pirates stormed gas tanker "MT Tri Samudra" in Malacca Strait last Saturday and captured its captain and chief engineer for ransom. The ship has been released. In another attack, pirates capture three members of a japanese tugboat ](/news/2005/03/14/according-to-international-maritime-bureau-35-pirates-stormed-gas-tanker-mt-tri-samudra-in-malacca-strait-last-saturday-and-captured-its.md) _(Current version)_
 
 ### Related:

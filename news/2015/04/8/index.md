@@ -9,7 +9,7 @@ An Afghan man dressed in the uniform of local security forces opened fire on U.S
 
 ##### Sinai insurgency
 ### [Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md)
-_Context: Sinai insurgency, Egyptian Army, Sinai Peninsula_
+_Context: Sinai Peninsula, Sinai insurgency, Egyptian Army_
 
 ##### Royal Dutch Shell
 ### [Royal Dutch Shell purchases rival BG Group for around $70 billion. ](/news/2015/04/8/royal-dutch-shell-purchases-rival-bg-group-for-around-70-billion.md)

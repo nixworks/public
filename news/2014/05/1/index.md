@@ -29,7 +29,7 @@ _Context: outbreak, chikungunya_
 
 ##### China
 ### [The People's Republic of China and Russia announce plans to hold joint naval exercises in the East China Sea in late May amid regional tensions about islands and airspace. ](/news/2014/05/1/the-people-s-republic-of-china-and-russia-announce-plans-to-hold-joint-naval-exercises-in-the-east-china-sea-in-late-may-amid-regional-tensi.md)
-_Context: naval exercise, East China Sea, Russia, China_
+_Context: China, Russia, East China Sea, naval exercise_
 
 ##### Sinn Fein
 ### [Sinn Fein leader Gerry Adams remains in custody in connection with the IRA murder of Jean McConville. ](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.md)

@@ -16,7 +16,7 @@ The State Department will finance programs to help Internet users around the wor
 
 ### Changes:
 
-1. [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedom. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedom.md) _2017-08-12 03:32:40 (First version)_
+1. [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedom. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedom.md) _2018-02-06 13:49:21 (First version)_
 1. [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedomdate=August 2017. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedomdate-august-2017.md) _(Current version)_
 
 ### Related:

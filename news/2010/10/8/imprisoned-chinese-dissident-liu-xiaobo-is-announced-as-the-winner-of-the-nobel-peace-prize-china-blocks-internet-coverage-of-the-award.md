@@ -21,8 +21,8 @@ Formats: [HTML](/news/2010/10/8/imprisoned-chinese-dissident-liu-xiaobo-is-annou
 
 ### Changes:
 
-1. [2010 Nobel Peace Prize:Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-pimprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-c.md) _2017-08-25 03:30:25 (First version)_
-2. [2010 Nobel Peace Prize:: Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet.md) _2017-08-27 03:30:31 (Update)_
+1. [2010 Nobel Peace Prize:Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-pimprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-c.md) _2018-02-06 13:49:21 (First version)_
+2. [2010 Nobel Peace Prize:: Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet.md) _2018-02-06 13:49:21 (Update)_
 2. [Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-coverage-of-the-award.md) _(Current version)_
 
 ### Related:

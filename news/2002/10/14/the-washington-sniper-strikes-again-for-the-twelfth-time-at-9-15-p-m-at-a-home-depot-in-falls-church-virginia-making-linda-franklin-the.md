@@ -15,7 +15,7 @@ Formats: [HTML](/news/2002/10/14/the-washington-sniper-strikes-again-for-the-twe
 
 ### Changes:
 
-1. [ The Washington sniper strikes again for the twelfth time at {{Nowrap|9:15 p.m.}} at a Home Depot in Falls Church, Virginia, making Linda Franklin the ninth fatality. ](/news/2002/10/14/the-washington-sniper-strikes-again-for-the-twelfth-time-at-nowrap-9-15-p-m-at-a-home-depot-in-falls-church-virginia-making-linda-fr.md) _2017-05-01 03:15:16 (First version)_
+1. [ The Washington sniper strikes again for the twelfth time at {{Nowrap|9:15 p.m.}} at a Home Depot in Falls Church, Virginia, making Linda Franklin the ninth fatality. ](/news/2002/10/14/the-washington-sniper-strikes-again-for-the-twelfth-time-at-nowrap-9-15-p-m-at-a-home-depot-in-falls-church-virginia-making-linda-fr.md) _2018-02-06 13:49:15 (First version)_
 1. [ The Washington sniper strikes again for the twelfth time at 9:15 p.m. at a Home Depot in Falls Church, Virginia, making Linda Franklin the ninth fatality. ](/news/2002/10/14/the-washington-sniper-strikes-again-for-the-twelfth-time-at-9-15-p-m-at-a-home-depot-in-falls-church-virginia-making-linda-franklin-the.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Typhoon Hagupit weakened to a tropical storm as it churned close to the Philippi
 
 ### Changes:
 
-1. [Typhoon Hagupit The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/typhoon-hagupit-pthe-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md) _2017-05-25 03:43:10 (First version)_
-2. [Typhoon Hagupit: The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/typhoon-hagupit-the-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md) _2017-08-27 03:41:36 (Update)_
+1. [Typhoon Hagupit: The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/typhoon-hagupit-the-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md) _2018-02-06 13:49:26 (First version)_
+2. [Typhoon Hagupit The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/typhoon-hagupit-pthe-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md) _2018-02-06 13:49:26 (Update)_
 2. [The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/the-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md) _(Current version)_
 
 ### Related:

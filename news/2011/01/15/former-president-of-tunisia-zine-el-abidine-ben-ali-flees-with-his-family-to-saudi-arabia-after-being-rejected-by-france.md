@@ -29,8 +29,8 @@ Tunisian President Zine al-Abidine Ben Ali flees to Saudi Arabia with his family
 
 ### Changes:
 
-1. [2010-2011 Tunisian protests:Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/2010a2011-tunisian-protests-pformer-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-reject.md) _2017-08-25 03:31:48 (First version)_
-2. [2010-2011 Tunisian protests:: Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/2010-2011-tunisian-protests-former-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-rejec.md) _2017-08-27 03:31:56 (Update)_
+1. [2010-2011 Tunisian protests:Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/2010a2011-tunisian-protests-pformer-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-reject.md) _2018-02-06 13:49:21 (First version)_
+2. [2010-2011 Tunisian protests:: Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/2010-2011-tunisian-protests-former-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-rejec.md) _2018-02-06 13:49:21 (Update)_
 2. [Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/former-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-rejected-by-france.md) _(Current version)_
 
 ### Related:

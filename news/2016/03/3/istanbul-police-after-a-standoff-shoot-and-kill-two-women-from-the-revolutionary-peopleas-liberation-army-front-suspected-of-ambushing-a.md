@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/3/istanbul-police-after-a-standoff-shoot-and-kill-
 
 ### Changes:
 
-1. [DHKP-C insurgency in Turkey: Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People-s Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city-s European side. Two policemen were injured. ](/news/2016/03/3/dhkp-c-insurgency-in-turkey-istanbul-police-after-a-standoff-shoot-and-kill-two-women-from-the-revolutionary-people-s-liberation-army-f.md) _2017-08-27 03:45:06 (First version)_
+1. [DHKP-C insurgency in Turkey: Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People-s Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city-s European side. Two policemen were injured. ](/news/2016/03/3/dhkp-c-insurgency-in-turkey-istanbul-police-after-a-standoff-shoot-and-kill-two-women-from-the-revolutionary-people-s-liberation-army-f.md) _2018-02-06 13:49:28 (First version)_
 1. [Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People's Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city's European side. Two policemen were injured. ](/news/2016/03/3/istanbul-police-after-a-standoff-shoot-and-kill-two-women-from-the-revolutionary-peopleas-liberation-army-front-suspected-of-ambushing-a.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Eight people were killed in two car bombings in the Iraqi city of Falluja west o
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Two car bombings kill at least eight people in Fallujah. ](/news/2016/12/11/iraqi-civil-war-2014-present-two-car-bombings-kill-at-least-eight-people-in-fallujah.md) _2017-08-27 03:47:25 (First version)_
+1. [Iraqi Civil War (2014-present): Two car bombings kill at least eight people in Fallujah. ](/news/2016/12/11/iraqi-civil-war-2014-present-two-car-bombings-kill-at-least-eight-people-in-fallujah.md) _2018-02-06 13:49:29 (First version)_
 1. [Two car bombings kill at least eight people in Fallujah. ](/news/2016/12/11/two-car-bombings-kill-at-least-eight-people-in-fallujah.md) _(Current version)_
 
 ### Related:

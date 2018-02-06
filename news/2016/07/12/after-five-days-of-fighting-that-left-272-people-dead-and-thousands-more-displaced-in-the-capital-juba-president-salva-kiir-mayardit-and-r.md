@@ -15,7 +15,7 @@ The leaders of South Sudan&#39;s warring factions call for a ceasefire after day
 
 ### Changes:
 
-1. [South Sudanese Civil War: After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. ](/news/2016/07/12/south-sudanese-civil-war-after-five-days-of-fighting-that-left-272-people-dead-and-thousands-more-displaced-in-the-capital-juba-president.md) _2017-08-27 03:46:29 (First version)_
+1. [South Sudanese Civil War: After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. ](/news/2016/07/12/south-sudanese-civil-war-after-five-days-of-fighting-that-left-272-people-dead-and-thousands-more-displaced-in-the-capital-juba-president.md) _2018-02-06 13:49:29 (First version)_
 1. [After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. ](/news/2016/07/12/after-five-days-of-fighting-that-left-272-people-dead-and-thousands-more-displaced-in-the-capital-juba-president-salva-kiir-mayardit-and-r.md) _(Current version)_
 
 ### Related:

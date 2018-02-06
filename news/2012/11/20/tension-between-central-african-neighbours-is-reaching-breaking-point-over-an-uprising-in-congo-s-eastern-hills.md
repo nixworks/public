@@ -17,6 +17,6 @@ Formats: [HTML](/news/2012/11/20/tension-between-central-african-neighbours-is-r
 
 ### Changes:
 
-1. [2012 East DR Congo conflict:Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/2012-east-dr-congo-conflict-ptension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.md) _2017-08-25 03:36:51 (First version)_
-2. [2012 East DR Congo conflict:: Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/2012-east-dr-congo-conflict-tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hill.md) _2017-08-27 03:37:00 (Update)_
+1. [2012 East DR Congo conflict:: Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/2012-east-dr-congo-conflict-tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hill.md) _2018-02-06 13:49:24 (First version)_
+2. [2012 East DR Congo conflict:Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/2012-east-dr-congo-conflict-ptension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.md) _2018-02-06 13:49:24 (Update)_
 2. [Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.md) _(Current version)_

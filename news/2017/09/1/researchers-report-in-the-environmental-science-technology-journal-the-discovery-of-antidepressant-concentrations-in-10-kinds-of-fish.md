@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/09/1/researchers-report-in-the-environmental-science-
 
 ### Changes:
 
-1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include a lack of adequate treatment of water released into waterways. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-human-antidepressants-concentrations-in-10-kinds-o.md) _2017-09-01 22:30:05 (First version)_
+1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include a lack of adequate treatment of water released into waterways. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-human-antidepressants-concentrations-in-10-kinds-o.md) _2018-02-06 13:49:31 (First version)_
 1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md) _(Current version)_
 
 ### Related:

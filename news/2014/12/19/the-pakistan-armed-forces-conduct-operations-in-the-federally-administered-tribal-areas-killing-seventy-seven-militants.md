@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in
 
 ### Changes:
 
-1. [War in North-West Pakistan: The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/war-in-north-west-pakistan-the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-m.md) _2017-08-27 03:41:39 (First version)_
+1. [War in North-West Pakistan: The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/war-in-north-west-pakistan-the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-m.md) _2018-02-06 13:49:26 (First version)_
 1. [The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.md) _(Current version)_
 
 ### Related:

@@ -16,5 +16,5 @@ Formats: [HTML](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-mi
 
 ### Changes:
 
-1. [ Polish MiG-29 crash lands into a forest near Minsk Mazowiecki. Extremely lucky pilot survives despite not ejecting. ](/news/2017/12/18/polish-mig-29-crash-lands-into-a-forest-near-miask-mazowiecki-extremely-lucky-pilot-survives-despite-not-ejecting.md) _2017-12-19 21:30:07 (First version)_
+1. [ Polish MiG-29 crash lands into a forest near Minsk Mazowiecki. Extremely lucky pilot survives despite not ejecting. ](/news/2017/12/18/polish-mig-29-crash-lands-into-a-forest-near-miask-mazowiecki-extremely-lucky-pilot-survives-despite-not-ejecting.md) _2018-02-06 13:49:31 (First version)_
 1. [ A Polish MiG-29 crash lands in a forest near Minsk Mazowiecki. The pilot survived despite not ejecting. ](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-miask-mazowiecki-the-pilot-survived-despite-not-ejecting.md) _(Current version)_

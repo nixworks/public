@@ -17,8 +17,8 @@ Iraq said its military completely recaptured the city of Ramadi, reopening a roa
 
 ### Changes:
 
-1. [Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province-from-the-islamic-state-along-wi.md) _2017-08-25 03:44:30 (First version)_
-2. [Iraqi Civil War (2014-present): Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-civil-war-2014-present-iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province.md) _2017-08-27 03:44:52 (Update)_
+1. [Iraqi Civil War (2014-present): Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-civil-war-2014-present-iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province.md) _2018-02-06 13:49:28 (First version)_
+2. [Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province-from-the-islamic-state-along-wi.md) _2018-02-06 13:49:28 (Update)_
 2. [Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province-from-the-islamic-state-along-with.md) _(Current version)_
 
 ### Related:

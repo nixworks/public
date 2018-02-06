@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host
 
 ### Changes:
 
-1. [American comedian and satirist Jon Stewart, host of Comedy Central's ''The Daily Show'', announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-du.md) _2017-08-25 03:41:35 (First version)_
+1. [American comedian and satirist Jon Stewart, host of Comedy Central's ''The Daily Show'', announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-du.md) _2018-02-06 13:49:26 (First version)_
 1. [American comedian and satirist Jon Stewart, host of Comedy Central's "The Daily Show", announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-due-t.md) _(Current version)_
 
 ### Related:

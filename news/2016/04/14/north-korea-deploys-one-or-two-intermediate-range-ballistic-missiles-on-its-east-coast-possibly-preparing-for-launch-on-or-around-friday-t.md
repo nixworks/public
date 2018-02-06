@@ -15,7 +15,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country-s founder Kim Il-sung, according to South Korea-s Yonhap news agency. ](/news/2016/04/14/north-korea-and-weapons-of-mass-destruction-north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibl.md) _2017-08-27 03:45:37 (First version)_
+1. [North Korea and weapons of mass destruction: North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country-s founder Kim Il-sung, according to South Korea-s Yonhap news agency. ](/news/2016/04/14/north-korea-and-weapons-of-mass-destruction-north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibl.md) _2018-02-06 13:49:28 (First version)_
 1. [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md) _(Current version)_
 
 ### Related:

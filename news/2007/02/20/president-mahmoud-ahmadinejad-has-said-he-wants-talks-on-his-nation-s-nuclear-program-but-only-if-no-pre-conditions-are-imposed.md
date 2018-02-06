@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/02/20/president-mahmoud-ahmadinejad-has-said-he-wants
 
 ### Changes:
 
-1. [ Iran: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-p-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md) _2017-08-25 03:19:15 (First version)_
-2. [ Iran:: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md) _2017-08-27 03:19:10 (Update)_
+1. [ Iran:: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iran: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-p-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md) _2018-02-06 13:49:17 (Update)_
 2. [ President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md) _(Current version)_
 
 ### Related:

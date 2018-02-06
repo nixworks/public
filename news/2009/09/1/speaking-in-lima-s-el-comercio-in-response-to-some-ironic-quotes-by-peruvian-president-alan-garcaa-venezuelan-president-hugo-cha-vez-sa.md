@@ -16,7 +16,7 @@ Venezuelan President Hugo Chavez said that his country will continue exporting o
 
 ### Changes:
 
-1. [ Speaking in Lima's ''El Comercio'' in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez.md) _2017-08-25 03:25:37 (First version)_
+1. [ Speaking in Lima's ''El Comercio'' in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez.md) _2018-02-06 13:49:19 (First version)_
 1. [ Speaking in Lima's "El Comercio" in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez-sa.md) _(Current version)_
 
 ### Related:

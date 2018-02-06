@@ -16,8 +16,8 @@ Two of the most wanted Islamist rebels in Chechnya were among 13 killed in a sho
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus:Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/insurgency-in-the-north-caucasus-prussian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fighting.md) _2017-08-25 03:37:19 (First version)_
-2. [Insurgency in the North Caucasus:: Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/insurgency-in-the-north-caucasus-russian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fightin.md) _2017-08-27 03:37:29 (Update)_
+1. [Insurgency in the North Caucasus:: Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/insurgency-in-the-north-caucasus-russian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fightin.md) _2018-02-06 13:49:24 (First version)_
+2. [Insurgency in the North Caucasus:Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/insurgency-in-the-north-caucasus-prussian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fighting.md) _2018-02-06 13:49:24 (Update)_
 2. [Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/russian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fighting-in-the-vedeno-district-chechnya.md) _(Current version)_
 
 ### Related:

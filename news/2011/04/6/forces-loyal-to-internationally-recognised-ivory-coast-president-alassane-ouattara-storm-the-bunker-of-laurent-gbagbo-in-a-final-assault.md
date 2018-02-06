@@ -18,8 +18,8 @@ Negotiations&#x20;over&#x20;Ivory&#x20;Coast&#x20;presidential&#x20;incumbent&#x
 
 ### Changes:
 
-1. [2010-2011 Ivorian crisis:Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010a2011-ivorian-crisis-pforces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent-g.md) _2017-08-25 03:32:45 (First version)_
-2. [2010-2011 Ivorian crisis:: Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md) _2017-08-27 03:32:53 (Update)_
+1. [2010-2011 Ivorian crisis:Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010a2011-ivorian-crisis-pforces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent-g.md) _2018-02-06 13:49:22 (First version)_
+2. [2010-2011 Ivorian crisis:: Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md) _2018-02-06 13:49:22 (Update)_
 2. [Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent-gbagbo-in-a-final-assault.md) _(Current version)_
 
 ### Related:

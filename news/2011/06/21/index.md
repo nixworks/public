@@ -17,7 +17,7 @@ Nato says it has lost an unmanned helicopter drone over Libya, as state TV shows
 
 ##### At least 20 people are killed
 ### [At least 20 people are killed when a car bomb explodes outside a local governor's house in Al Diwaniyah in Iraq. ](/news/2011/06/21/at-least-20-people-are-killed-when-a-car-bomb-explodes-outside-a-local-governor-s-house-in-al-diwaniyah-in-iraq.md)
-_Context: car bomb, Al Diwaniyah, Iraq, At least 20 people are killed_
+_Context: Al Diwaniyah, Iraq, car bomb, At least 20 people are killed_
 
 ##### EUR
 ### [Greece:The Greek parliament holds a vote of confidence in government cuts associated with a new EUR12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/greece-the-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-a-12-billion-loan-from-the-european-union-a.md)
@@ -29,7 +29,7 @@ Pilot error suspected as Tupolev passenger jet misses runway in northwestern Kar
 
 ##### Australia
 ### [Flights in Australia are again disrupted due to volcanic ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.md)
-_Context: Chile, Australia, 2011 Puyehue-Cordon Caulle eruption_
+_Context: Chile, 2011 Puyehue-Cordon Caulle eruption, Australia_
 
 ##### Indian state
 ### [At least 28 children die mysteriously in the Indian state of Bihar. ](/news/2011/06/21/at-least-28-children-die-mysteriously-in-the-indian-state-of-bihar.md)
@@ -45,7 +45,7 @@ Japan and the US drop a 2014 deadline to move a controversial airbase on Okinawa
 
 ##### Indonesia
 ### [Politicians and civilians in Indonesia protest after Saudi Arabia used a sword to behead a maid without telling them they were planning to execute her; Indonesia recalls its ambassador to express its fury and civilians gather outside the Saudi embassy in Jakarta wearing t-shirts with the slogan "corrupt government, workers are beheaded". ](/news/2011/06/21/politicians-and-civilians-in-indonesia-protest-after-saudi-arabia-used-a-sword-to-behead-a-maid-without-telling-them-they-were-planning-to-e.md)
-_Context: Jakarta, Saudi Arabia, Indonesia_
+_Context: Saudi Arabia, Jakarta, Indonesia_
 
 ##### United Nations General Assembly
 ### [At the United Nations General Assembly in New York City, Secretary-General of the United Nations Ban Ki-moon wins a second five-year term by acclamation through applause without a vote after the United Nations Security Council fails to put forward another candidate. ](/news/2011/06/21/at-the-united-nations-general-assembly-in-new-york-city-secretary-general-of-the-united-nations-ban-ki-moon-wins-a-second-five-year-term-by.md)
@@ -53,15 +53,15 @@ Former South Korean foreign minister re-elected by acclamation as secretary gene
 
 ##### First Lady
 ### [First Lady of the United States Michelle Obama begins a six-day visit to southern Africa with her daughters; they are granted an audience with Nelson Mandela. ](/news/2011/06/21/first-lady-of-the-united-states-michelle-obama-begins-a-six-day-visit-to-southern-africa-with-her-daughters-they-are-granted-an-audience-wi.md)
-_Context: Nelson Mandela, southern Africa, Michelle Obama, First Lady_
+_Context: Michelle Obama, First Lady, Nelson Mandela, southern Africa_
 
 ##### China
 ### [A Chinese court sentences a forklift driver to death for killing a protester in an incident that started unrest in Inner Mongolia. ](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.md)
-_Context: Inner Mongolia, China_
+_Context: China, Inner Mongolia_
 
 ##### Yvan Colonna
 ### [A French court upholds a life sentence for Yvan Colonna, a former shepherd and Corsican separatist convicted of fatally shooting police prefect Claude Erignac near a concert hall in Ajaccio in 1998. Colonna has denied killing Erignac. ](/news/2011/06/21/a-french-court-upholds-a-life-sentence-for-yvan-colonna-a-former-shepherd-and-corsican-separatist-convicted-of-fatally-shooting-police-pref.md)
-_Context: shepherd, Claude Erignac, Ajaccio, prefect, Yvan Colonna_
+_Context: prefect, Ajaccio, Claude Erignac, shepherd, Yvan Colonna_
 
 ##### Georges Tron
 ### [Former French minister Georges Tron, who resigned last month due to allegations of sexual assault, is arrested by police. ](/news/2011/06/21/former-french-minister-georges-tron-who-resigned-last-month-due-to-allegations-of-sexual-assault-is-arrested-by-police.md)

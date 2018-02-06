@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/09/4/two-roadside-bombs-detonate-in-the-sinai-peninsu
 
 ### Changes:
 
-1. [Sinai insurgency: Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/sinai-insurgency-two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the.md) _2017-08-27 03:42:58 (First version)_
+1. [Sinai insurgency: Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/sinai-insurgency-two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the.md) _2018-02-06 13:49:27 (First version)_
 1. [Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the-1979-egyptaisrae.md) _(Current version)_
 
 ### Related:

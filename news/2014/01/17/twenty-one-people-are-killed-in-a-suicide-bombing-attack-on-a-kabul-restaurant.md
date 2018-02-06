@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/01/17/twenty-one-people-are-killed-in-a-suicide-bombi
 
 ### Changes:
 
-1. [Taliban insurgency in Afghanistan:Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-ptwenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md) _2017-08-25 03:39:53 (First version)_
-2. [Taliban insurgency in Afghanistan:: Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md) _2017-08-27 03:40:11 (Update)_
+1. [Taliban insurgency in Afghanistan:: Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md) _2018-02-06 13:49:25 (First version)_
+2. [Taliban insurgency in Afghanistan:Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-ptwenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md) _2018-02-06 13:49:25 (Update)_
 2. [Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md) _(Current version)_
 
 ### Related:

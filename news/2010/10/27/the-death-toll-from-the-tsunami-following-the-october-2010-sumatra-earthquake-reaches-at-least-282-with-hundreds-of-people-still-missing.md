@@ -18,8 +18,8 @@ The death toll from a tsunami in western Indonesia rises to 282, officials say, 
 
 ### Changes:
 
-1. [Indonesian tsunamiThe death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunamipthe-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peopl.md) _2017-08-25 03:30:43 (First version)_
-2. [Indonesian tsunami: The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunami-the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peop.md) _2017-08-27 03:30:49 (Update)_
+1. [Indonesian tsunamiThe death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunamipthe-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peopl.md) _2018-02-06 13:49:20 (First version)_
+2. [Indonesian tsunami: The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunami-the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peop.md) _2018-02-06 13:49:20 (Update)_
 2. [The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-people-still-missing.md) _(Current version)_
 
 ### Related:

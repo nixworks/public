@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/06/5/after-a-long-running-battle-britain-announces-a-
 
 ### Changes:
 
-1. [After a long-running battle, Britain announces a compensation fund of PS2,600 each for more than 5,000 survivors of the prison camps it operated across Kenya in the 1950s. ](/news/2013/06/5/after-a-long-running-battle-britain-announces-a-compensation-fund-of-aps2-600-each-for-more-than-5-000-survivors-of-the-prison-camps-it-oper.md) _2017-08-25 03:38:47 (First version)_
+1. [After a long-running battle, Britain announces a compensation fund of PS2,600 each for more than 5,000 survivors of the prison camps it operated across Kenya in the 1950s. ](/news/2013/06/5/after-a-long-running-battle-britain-announces-a-compensation-fund-of-aps2-600-each-for-more-than-5-000-survivors-of-the-prison-camps-it-oper.md) _2018-02-06 13:49:25 (First version)_
 1. [After a long-running battle, Britain announces a compensation fund of GBP2,600 each for more than 5,000 survivors of the prison camps it operated across Kenya in the 1950s. ](/news/2013/06/5/after-a-long-running-battle-britain-announces-a-compensation-fund-of-agbp2-600-each-for-more-than-5-000-survivors-of-the-prison-camps-it-op.md) _(Current version)_
 
 ### Related:

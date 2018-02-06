@@ -16,7 +16,7 @@ Muslim militants linked to so-called Islamic State are freed from jail in the Ph
 
 ### Changes:
 
-1. [Moro conflict: Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/moro-conflict-islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _2017-08-27 03:46:43 (First version)_
+1. [Moro conflict: Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/moro-conflict-islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _2018-02-06 13:49:29 (First version)_
 1. [Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _(Current version)_
 
 ### Related:

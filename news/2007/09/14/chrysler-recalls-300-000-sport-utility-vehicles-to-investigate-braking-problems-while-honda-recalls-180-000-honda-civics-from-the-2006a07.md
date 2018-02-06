@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles
 
 ### Changes:
 
-1. [ Chrysler recalls 300,000 sport utility vehicles to investigate braking problems while Honda recalls 180,000 Honda Civics from the 2006-07 season due to problems with a wheel-bearing seal. ](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles-to-investigate-braking-problems-while-honda-recalls-180-000-honda-civics-from-the-2006-07.md) _2017-08-27 03:20:54 (First version)_
+1. [ Chrysler recalls 300,000 sport utility vehicles to investigate braking problems while Honda recalls 180,000 Honda Civics from the 2006-07 season due to problems with a wheel-bearing seal. ](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles-to-investigate-braking-problems-while-honda-recalls-180-000-honda-civics-from-the-2006-07.md) _2018-02-06 13:49:18 (First version)_
 1. [ Chrysler recalls 300,000 sport utility vehicles to investigate braking problems while Honda recalls 180,000 Honda Civics from the 2006-07 season due to problems with a wheel-bearing seal. ](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles-to-investigate-braking-problems-while-honda-recalls-180-000-honda-civics-from-the-2006a07.md) _(Current version)_
 
 ### Related:

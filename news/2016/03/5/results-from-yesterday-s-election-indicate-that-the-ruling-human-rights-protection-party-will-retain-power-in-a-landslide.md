@@ -16,7 +16,7 @@ Preliminary results from Samoa&#039;s general election show the ruling party is 
 
 ### Changes:
 
-1. [Samoan general election, 2016: Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. ](/news/2016/03/5/samoan-general-election-2016-results-from-yesterday-s-election-indicate-that-the-ruling-human-rights-protection-party-will-retain-power-in.md) _2017-08-27 03:45:08 (First version)_
+1. [Samoan general election, 2016: Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. ](/news/2016/03/5/samoan-general-election-2016-results-from-yesterday-s-election-indicate-that-the-ruling-human-rights-protection-party-will-retain-power-in.md) _2018-02-06 13:49:28 (First version)_
 1. [Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. ](/news/2016/03/5/results-from-yesterday-s-election-indicate-that-the-ruling-human-rights-protection-party-will-retain-power-in-a-landslide.md) _(Current version)_
 
 ### Related:

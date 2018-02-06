@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/06/1/another-uk-minister-the-new-chief-secretary-to-t
 
 ### Changes:
 
-1. [Another UK minister, the new Chief Secretary to the Treasury, Danny Alexander, who was appointed after the resignation of fellow Liberal Democrat David Laws, is embroiled in the ongoing expenses scandal after admitting to having avoided paying capital gains tax when he sold his taxpayer-funded second home at a profit. ](/news/2010/06/1/another-uk-minister-the-new-chief-secretary-to-the-treasury-danny-alexander-who-was-appointed-after-the-resignation-of-fellow-liberal-de.md) _2017-08-25 03:28:06 (First version)_
+1. [Another UK minister, the new Chief Secretary to the Treasury, Danny Alexander, who was appointed after the resignation of fellow Liberal Democrat David Laws, is embroiled in the ongoing expenses scandal after admitting to having avoided paying capital gains tax when he sold his taxpayer-funded second home at a profit. ](/news/2010/06/1/another-uk-minister-the-new-chief-secretary-to-the-treasury-danny-alexander-who-was-appointed-after-the-resignation-of-fellow-liberal-de.md) _2018-02-06 13:49:20 (First version)_
 1. [Another UK minister, the new Chief Secretary to the Treasury, Danny Alexander, who was appointed after the resignation of fellow Liberal Democrat David Laws, is embroiled in the ongoing expenses scandal after admitting to having avoided paying capital gains tax when he sold his taxpayer-funded second home at a profit. ](/news/2010/06/1/another-uk-minister-the-new-chief-secretary-to-the-treasury-danny-alexander-who-was-appointed-after-the-resignation-of-fellow-liberal-dem.md) _(Current version)_
 
 ### Related:

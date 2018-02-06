@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/30/a-military-operation-in-north-sinai-governorate
 
 ### Changes:
 
-1. [Sinai insurgency: A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. ](/news/2016/10/30/sinai-insurgency-a-military-operation-in-north-sinai-governorate-left-4-soldiers-and-6-insurgents-dead.md) _2017-08-27 03:47:09 (First version)_
+1. [Sinai insurgency: A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. ](/news/2016/10/30/sinai-insurgency-a-military-operation-in-north-sinai-governorate-left-4-soldiers-and-6-insurgents-dead.md) _2018-02-06 13:49:29 (First version)_
 1. [A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. ](/news/2016/10/30/a-military-operation-in-north-sinai-governorate-left-4-soldiers-and-6-insurgents-dead.md) _(Current version)_
 
 ### Related:

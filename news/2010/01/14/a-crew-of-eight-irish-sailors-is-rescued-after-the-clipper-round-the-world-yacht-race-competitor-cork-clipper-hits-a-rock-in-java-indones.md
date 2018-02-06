@@ -18,7 +18,7 @@ Eight Irish people were among crew rescued from a sinking racing yacht after it 
 
 ### Changes:
 
-1. [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor ''Cork Clipper'' hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indon.md) _2017-08-25 03:26:53 (First version)_
+1. [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor ''Cork Clipper'' hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indon.md) _2018-02-06 13:49:19 (First version)_
 1. [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor "Cork Clipper" hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indones.md) _(Current version)_
 
 ### Related:

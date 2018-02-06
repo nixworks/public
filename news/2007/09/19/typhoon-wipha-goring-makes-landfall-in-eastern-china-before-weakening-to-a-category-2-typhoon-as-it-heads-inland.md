@@ -17,9 +17,9 @@ Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesd
 
 ### Changes:
 
-1. [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads.md) _2017-05-25 03:21:28 (First version)_
-2. [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md) _2017-08-25 03:21:00 (Update)_
-3. [ 2007 Pacific typhoon season:: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md) _2017-08-27 03:20:57 (Update)_
+1. [ 2007 Pacific typhoon season:: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads.md) _2018-02-06 13:49:18 (Update)_
+3. [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md) _2018-02-06 13:49:18 (Update)_
 3. [ Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-inland.md) _(Current version)_
 
 ### Related:

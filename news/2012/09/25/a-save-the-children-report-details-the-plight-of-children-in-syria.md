@@ -16,8 +16,8 @@ British charity talks to refugees to document alleged atrocities suffered by Syr
 
 ### Changes:
 
-1. [Syrian civil war:A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-pa-save-the-children-report-details-the-plight-of-children-in-syria.md) _2017-08-25 03:36:36 (First version)_
-2. [Syrian civil war:: A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-a-save-the-children-report-details-the-plight-of-children-in-syria.md) _2017-08-27 03:36:46 (Update)_
+1. [Syrian civil war:A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-pa-save-the-children-report-details-the-plight-of-children-in-syria.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-a-save-the-children-report-details-the-plight-of-children-in-syria.md) _2018-02-06 13:49:23 (Update)_
 2. [A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/a-save-the-children-report-details-the-plight-of-children-in-syria.md) _(Current version)_
 
 ### Related:

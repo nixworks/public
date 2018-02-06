@@ -17,7 +17,7 @@ A train derailed in northern India on Wednesday injuring at least 43 people, pol
 
 ### Changes:
 
-1. [The Ajmer-Sealdah Express operated by Indian Railways derails in northern India killing at least two people and injuring dozens. Twenty four people have been hospitalised. ](/news/2016/12/28/the-ajmer-sealdah-express-operated-by-indian-railways-derails-in-northern-india-killing-at-least-two-people-and-injuring-dozens-twenty-fo.md) _2017-08-27 03:47:32 (First version)_
+1. [The Ajmer-Sealdah Express operated by Indian Railways derails in northern India killing at least two people and injuring dozens. Twenty four people have been hospitalised. ](/news/2016/12/28/the-ajmer-sealdah-express-operated-by-indian-railways-derails-in-northern-india-killing-at-least-two-people-and-injuring-dozens-twenty-fo.md) _2018-02-06 13:49:30 (First version)_
 1. [The Ajmer-Sealdah Express operated by Indian Railways derails in northern India killing at least two people and injuring dozens. Twenty four people have been hospitalised. ](/news/2016/12/28/the-ajmerasealdah-express-operated-by-indian-railways-derails-in-northern-india-killing-at-least-two-people-and-injuring-dozens-twenty-fo.md) _(Current version)_
 
 ### Related:

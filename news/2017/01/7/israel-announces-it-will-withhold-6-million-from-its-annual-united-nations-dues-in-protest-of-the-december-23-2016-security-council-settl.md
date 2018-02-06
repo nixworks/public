@@ -16,7 +16,7 @@ Israel announced it will withhold $6 million from its United Nations dues in pro
 
 ### Changes:
 
-1. [Israel, Palestine, and the United Nations: Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-palestine-and-the-united-nations-israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-th.md) _2017-08-27 03:47:35 (First version)_
+1. [Israel, Palestine, and the United Nations: Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-palestine-and-the-united-nations-israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-th.md) _2018-02-06 13:49:30 (First version)_
 1. [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md) _(Current version)_
 
 ### Related:

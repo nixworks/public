@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-conclu
 
 ### Changes:
 
-1. [2017 March for Justice: The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/2017-march-for-justice-the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of.md) _2017-08-27 03:48:38 (First version)_
+1. [2017 March for Justice: The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/2017-march-for-justice-the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of.md) _2018-02-06 13:49:31 (First version)_
 1. [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md) _(Current version)_
 
 ### Related:

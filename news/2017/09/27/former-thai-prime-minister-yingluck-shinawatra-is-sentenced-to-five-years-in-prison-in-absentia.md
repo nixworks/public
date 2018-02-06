@@ -16,9 +16,9 @@ Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled
 
 ### Changes:
 
-1. [Former Thai Prime Minister Yingluck is jailed in absaentia. ](/news/2017/09/27/former-thai-prime-minister-yingluck-is-jailed-in-absaentia.md) _2017-09-27 14:30:05 (First version)_
-2. [Former Thai Prime Minister Yingluck is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-is-jailed-in-absentia.md) _2017-09-27 20:30:06 (Update)_
-3. [Former Thai Prime Minister Yingluck Shinawatra is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-jailed-in-absentia.md) _2017-09-28 03:51:54 (Update)_
+1. [Former Thai Prime Minister Yingluck Shinawatra is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-jailed-in-absentia.md) _2018-02-06 13:49:31 (First version)_
+2. [Former Thai Prime Minister Yingluck is jailed "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-is-jailed-in-absentia.md) _2018-02-06 13:49:31 (Update)_
+3. [Former Thai Prime Minister Yingluck is jailed in absaentia. ](/news/2017/09/27/former-thai-prime-minister-yingluck-is-jailed-in-absaentia.md) _2018-02-06 13:49:31 (Update)_
 3. [Former Thai Prime Minister Yingluck Shinawatra is sentenced to five years in prison "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-sentenced-to-five-years-in-prison-in-absentia.md) _(Current version)_
 
 ### Related:

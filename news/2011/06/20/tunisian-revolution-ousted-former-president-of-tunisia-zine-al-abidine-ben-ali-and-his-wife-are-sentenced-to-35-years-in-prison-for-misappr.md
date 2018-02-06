@@ -23,8 +23,8 @@ Ex-Tunisian president and his wife were sentenced in absentia to 35 years in pri
 
 ### Changes:
 
-1. [Arab Spring:Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held ''in absentia''. ](/news/2011/06/20/arab-spring-ptunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-priso.md) _2017-08-25 03:33:31 (First version)_
-2. [Arab Spring:: Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held "in absentia". ](/news/2011/06/20/arab-spring-tunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-pris.md) _2017-08-27 03:33:39 (Update)_
+1. [Arab Spring:: Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held "in absentia". ](/news/2011/06/20/arab-spring-tunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-pris.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held ''in absentia''. ](/news/2011/06/20/arab-spring-ptunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-priso.md) _2018-02-06 13:49:22 (Update)_
 2. [Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held "in absentia". ](/news/2011/06/20/tunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-prison-for-misappr.md) _(Current version)_
 
 ### Related:

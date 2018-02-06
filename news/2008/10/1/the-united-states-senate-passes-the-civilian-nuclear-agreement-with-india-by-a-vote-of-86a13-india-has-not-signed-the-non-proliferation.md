@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuc
 
 ### Changes:
 
-1. [ The United States Senate passes the civilian nuclear agreement with India by a vote of 86-13. India has not signed the Non-Proliferation Treaty, but may now undertake nuclear trade to the States ](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuclear-agreement-with-india-by-a-vote-of-86-13-india-has-not-signed-the-non-proliferation.md) _2017-08-27 03:22:51 (First version)_
+1. [ The United States Senate passes the civilian nuclear agreement with India by a vote of 86-13. India has not signed the Non-Proliferation Treaty, but may now undertake nuclear trade to the States ](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuclear-agreement-with-india-by-a-vote-of-86-13-india-has-not-signed-the-non-proliferation.md) _2018-02-06 13:49:18 (First version)_
 1. [ The United States Senate passes the civilian nuclear agreement with India by a vote of 86-13. India has not signed the Non-Proliferation Treaty, but may now undertake nuclear trade to the States ](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuclear-agreement-with-india-by-a-vote-of-86a13-india-has-not-signed-the-non-proliferation.md) _(Current version)_
 
 ### Related:

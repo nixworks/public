@@ -16,8 +16,8 @@ Army suspends rescue helicopter flights in Uttarakhand state due to dense fog as
 
 ### Changes:
 
-1. [2013 North India floods:The death toll from the disaster soars to more than 6,500, as units of the Indian Army struggle to reach thousands of people stranded in country's northwest. ](/news/2013/06/23/2013-north-india-floods-pthe-death-toll-from-the-disaster-soars-to-more-than-6-500-as-units-of-the-indian-army-struggle-to-reach-thousands.md) _2017-08-25 03:38:54 (First version)_
-2. [2013 North India floods:: The death toll from the disaster soars to more than 6,500, as units of the Indian Army struggle to reach thousands of people stranded in country's northwest. ](/news/2013/06/23/2013-north-india-floods-the-death-toll-from-the-disaster-soars-to-more-than-6-500-as-units-of-the-indian-army-struggle-to-reach-thousands.md) _2017-08-27 03:39:08 (Update)_
+1. [2013 North India floods:: The death toll from the disaster soars to more than 6,500, as units of the Indian Army struggle to reach thousands of people stranded in country's northwest. ](/news/2013/06/23/2013-north-india-floods-the-death-toll-from-the-disaster-soars-to-more-than-6-500-as-units-of-the-indian-army-struggle-to-reach-thousands.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 North India floods:The death toll from the disaster soars to more than 6,500, as units of the Indian Army struggle to reach thousands of people stranded in country's northwest. ](/news/2013/06/23/2013-north-india-floods-pthe-death-toll-from-the-disaster-soars-to-more-than-6-500-as-units-of-the-indian-army-struggle-to-reach-thousands.md) _2018-02-06 13:49:25 (Update)_
 2. [The death toll from the disaster soars to more than 6,500, as units of the Indian Army struggle to reach thousands of people stranded in country's northwest. ](/news/2013/06/23/the-death-toll-from-the-disaster-soars-to-more-than-6-500-as-units-of-the-indian-army-struggle-to-reach-thousands-of-people-stranded-in-cou.md) _(Current version)_
 
 ### Related:

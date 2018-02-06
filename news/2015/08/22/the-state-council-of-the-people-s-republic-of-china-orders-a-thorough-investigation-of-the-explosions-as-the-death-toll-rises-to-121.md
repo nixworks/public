@@ -17,7 +17,7 @@ Authorities have raised the death toll to 121 in the chemical warehouse explosio
 
 ### Changes:
 
-1. [2015 Tianjin explosions: The State Council of the People's Republic of China orders a thorough investigation of the explosions as the death toll rises to 121. ](/news/2015/08/22/2015-tianjin-explosions-the-state-council-of-the-people-s-republic-of-china-orders-a-thorough-investigation-of-the-explosions-as-the-death.md) _2017-08-27 03:42:53 (First version)_
+1. [2015 Tianjin explosions: The State Council of the People's Republic of China orders a thorough investigation of the explosions as the death toll rises to 121. ](/news/2015/08/22/2015-tianjin-explosions-the-state-council-of-the-people-s-republic-of-china-orders-a-thorough-investigation-of-the-explosions-as-the-death.md) _2018-02-06 13:49:27 (First version)_
 1. [The State Council of the People's Republic of China orders a thorough investigation of the explosions as the death toll rises to 121. ](/news/2015/08/22/the-state-council-of-the-people-s-republic-of-china-orders-a-thorough-investigation-of-the-explosions-as-the-death-toll-rises-to-121.md) _(Current version)_
 
 ### Related:

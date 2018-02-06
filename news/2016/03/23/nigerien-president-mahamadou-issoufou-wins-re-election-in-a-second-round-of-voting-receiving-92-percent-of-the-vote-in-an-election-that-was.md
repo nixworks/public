@@ -15,7 +15,7 @@ Incumbent wins 92 percent of runoff vote after opposition calls for boycott.
 
 ### Changes:
 
-1. [Nigerien general election, 2016: Nigerien President Mahamadou Issoufou wins re-election in a second round of voting, receiving 92 percent of the vote in an election that was boycotted by the opposition. ](/news/2016/03/23/nigerien-general-election-2016-nigerien-president-mahamadou-issoufou-wins-re-election-in-a-second-round-of-voting-receiving-92-percent-of.md) _2017-08-27 03:45:21 (First version)_
+1. [Nigerien general election, 2016: Nigerien President Mahamadou Issoufou wins re-election in a second round of voting, receiving 92 percent of the vote in an election that was boycotted by the opposition. ](/news/2016/03/23/nigerien-general-election-2016-nigerien-president-mahamadou-issoufou-wins-re-election-in-a-second-round-of-voting-receiving-92-percent-of.md) _2018-02-06 13:49:28 (First version)_
 1. [Nigerien President Mahamadou Issoufou wins re-election in a second round of voting, receiving 92 percent of the vote in an election that was boycotted by the opposition. ](/news/2016/03/23/nigerien-president-mahamadou-issoufou-wins-re-election-in-a-second-round-of-voting-receiving-92-percent-of-the-vote-in-an-election-that-was.md) _(Current version)_
 
 ### Related:

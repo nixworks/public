@@ -18,8 +18,8 @@ Pro-Russian separatists seize back the city hall in the southern Ukrainian port 
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. ](/news/2014/05/7/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-recapture-the-city-hall-of-the-southern-ukrainian-city-of-mariupol-hours-after-the.md) _2017-08-25 03:40:23 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. ](/news/2014/05/7/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-recapture-the-city-hall-of-the-southern-ukrainian-city-of-mariupol-hours-after-th.md) _2017-08-27 03:40:41 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. ](/news/2014/05/7/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-recapture-the-city-hall-of-the-southern-ukrainian-city-of-mariupol-hours-after-th.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. ](/news/2014/05/7/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-recapture-the-city-hall-of-the-southern-ukrainian-city-of-mariupol-hours-after-the.md) _2018-02-06 13:49:26 (Update)_
 2. [Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. ](/news/2014/05/7/pro-russian-militants-recapture-the-city-hall-of-the-southern-ukrainian-city-of-mariupol-hours-after-the-ukrainian-government-forces-took-co.md) _(Current version)_
 
 ### Related:

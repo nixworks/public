@@ -16,8 +16,8 @@ Separatist and pro-Spanish parties in Catalonia contest a snap regional election
 
 ### Changes:
 
-1. [Voters in the Spanish community of Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. [http:--www.bbc.com-news-world-europe-42435684]](/news/2017/12/21/voters-in-the-spanish-community-of-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincia.md) _2017-12-21 06:30:06 (First version)_
-2. [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md) _2017-12-21 22:30:07 (Update)_
+1. [Voters in the Spanish community of Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. [http:--www.bbc.com-news-world-europe-42435684]](/news/2017/12/21/voters-in-the-spanish-community-of-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincia.md) _2018-02-06 13:49:31 (First version)_
+2. [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md) _2018-02-06 13:49:31 (Update)_
 2. [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former regional government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-regional-government-unsuccessfully.md) _(Current version)_
 
 ### Related:

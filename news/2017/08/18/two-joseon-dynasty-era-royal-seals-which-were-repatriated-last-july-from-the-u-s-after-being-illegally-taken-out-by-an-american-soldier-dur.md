@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/18/two-joseon-dynasty-era-royal-seals-which-were-r
 
 ### Changes:
 
-1. [Repatriation of cultural heritage: Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. ](/news/2017/08/18/repatriation-of-cultural-heritage-two-joseon-dynasty-era-royal-seals-which-were-repatriated-last-july-from-the-u-s-after-being-illegally-t.md) _2017-08-27 03:48:49 (First version)_
+1. [Repatriation of cultural heritage: Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. ](/news/2017/08/18/repatriation-of-cultural-heritage-two-joseon-dynasty-era-royal-seals-which-were-repatriated-last-july-from-the-u-s-after-being-illegally-t.md) _2018-02-06 13:49:31 (First version)_
 1. [Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. ](/news/2017/08/18/two-joseon-dynasty-era-royal-seals-which-were-repatriated-last-july-from-the-u-s-after-being-illegally-taken-out-by-an-american-soldier-dur.md) _(Current version)_
 
 ### Related:

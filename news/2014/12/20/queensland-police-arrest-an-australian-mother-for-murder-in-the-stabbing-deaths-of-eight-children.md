@@ -16,7 +16,7 @@ An Australian mother was arrested for murder in the stabbing deaths of eight chi
 
 ### Changes:
 
-1. [Cairns child killings: Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/cairns-child-killings-queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md) _2017-08-27 03:41:39 (First version)_
+1. [Cairns child killings: Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/cairns-child-killings-queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md) _2018-02-06 13:49:26 (First version)_
 1. [Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md) _(Current version)_
 
 ### Related:

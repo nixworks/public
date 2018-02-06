@@ -16,7 +16,7 @@ Suspected rebels hacked to death at least nine people in northeastern Democratic
 
 ### Changes:
 
-1. [Allied Democratic Forces insurgency: Suspected Allied Democratic Forces rebels hack nine people to death in the village of Oicha, Democratic Republic of the Congo. ](/news/2016/07/5/allied-democratic-forces-insurgency-suspected-allied-democratic-forces-rebels-hack-nine-people-to-death-in-the-village-of-oicha-democratic.md) _2017-08-27 03:46:25 (First version)_
+1. [Allied Democratic Forces insurgency: Suspected Allied Democratic Forces rebels hack nine people to death in the village of Oicha, Democratic Republic of the Congo. ](/news/2016/07/5/allied-democratic-forces-insurgency-suspected-allied-democratic-forces-rebels-hack-nine-people-to-death-in-the-village-of-oicha-democratic.md) _2018-02-06 13:49:29 (First version)_
 1. [Suspected Allied Democratic Forces rebels hack nine people to death in the village of Oicha, Democratic Republic of the Congo. ](/news/2016/07/5/suspected-allied-democratic-forces-rebels-hack-nine-people-to-death-in-the-village-of-oicha-democratic-republic-of-the-congo.md) _(Current version)_
 
 ### Related:

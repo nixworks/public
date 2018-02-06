@@ -16,7 +16,7 @@ Reinsurance broker Aon Benfield says the country suffered a $3 bn loss to its ec
 
 ### Changes:
 
-1. [2015 South Indian floods: Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/2015-south-indian-floods-major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billio.md) _2017-08-27 03:44:19 (First version)_
+1. [2015 South Indian floods: Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/2015-south-indian-floods-major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billio.md) _2018-02-06 13:49:28 (First version)_
 1. [Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billion-worth-of-losses-as-a-re.md) _(Current version)_
 
 ### Related:

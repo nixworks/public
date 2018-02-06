@@ -17,15 +17,15 @@ _Context: Somalia, Mogadishu_
 
 ##### Cyclone Nargis
 ### [ Media reports the death toll from Cyclone Nargis in Myanmar to have passed 10,000. ](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.md)
-_Context: Cyclone Nargis, Myanmar_
+_Context: Myanmar, Cyclone Nargis_
 
 ##### Shanghai
 ### [ Three people are killed and another three injured after an explosion on a bus in Shanghai, China. ](/news/2008/05/5/three-people-are-killed-and-another-three-injured-after-an-explosion-on-a-bus-in-shanghai-china.md)
-_Context: Shanghai, China_
+_Context: China, Shanghai_
 
 ##### Bolivia
 ### [ In Bolivia's Santa Cruz department, 86% of voters supported proposals for greater autonomy in a referendum. Bolivian President Evo Morales condemned the referendum, calling it illegal. ](/news/2008/05/5/in-bolivia-s-santa-cruz-department-86-of-voters-supported-proposals-for-greater-autonomy-in-a-referendum-bolivian-president-evo-morales.md)
-_Context: referendum, Santa Cruz, Bolivia, President of Bolivia, Evo Morales_
+_Context: Evo Morales, referendum, Bolivia, Santa Cruz, President of Bolivia_
 
 ## [Previous Day...](/news/2008/05/4/index.md)
 

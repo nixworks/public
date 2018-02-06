@@ -17,7 +17,7 @@ At least 31 people die and around 170 are missing after a ferry with more than 8
 
 ### Changes:
 
-1. [The ferry {{MV|Thomas Aquinas}} collides with a cargo ship and sinks at Cebu, Philippines, with 200 missing and least 26 dead. (](/news/2013/08/16/the-ferry-mv-thomas-aquinas-collides-with-a-cargo-ship-and-sinks-at-cebu-philippines-with-200-missing-and-least-26-dead.md) _2017-05-01 03:42:27 (First version)_
+1. [The ferry {{MV|Thomas Aquinas}} collides with a cargo ship and sinks at Cebu, Philippines, with 200 missing and least 26 dead. (](/news/2013/08/16/the-ferry-mv-thomas-aquinas-collides-with-a-cargo-ship-and-sinks-at-cebu-philippines-with-200-missing-and-least-26-dead.md) _2018-02-06 13:49:25 (First version)_
 1. [The ferry Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, with 200 missing and least 26 dead. (](/news/2013/08/16/the-ferry-thomas-aquinas-collides-with-a-cargo-ship-and-sinks-at-cebu-philippines-with-200-missing-and-least-26-dead.md) _(Current version)_
 
 ### Related:

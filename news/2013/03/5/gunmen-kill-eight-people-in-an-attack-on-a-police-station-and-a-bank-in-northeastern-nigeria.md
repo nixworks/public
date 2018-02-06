@@ -16,8 +16,8 @@ Gunmen killed eight people in an attack on a police station and a bank in north-
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-pgunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _2017-08-25 03:37:44 (First version)_
-2. [Nigerian Sharia conflict:: Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-gunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _2017-08-27 03:37:55 (Update)_
+1. [Nigerian Sharia conflict:Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-pgunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-gunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _2018-02-06 13:49:24 (Update)_
 2. [Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/gunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

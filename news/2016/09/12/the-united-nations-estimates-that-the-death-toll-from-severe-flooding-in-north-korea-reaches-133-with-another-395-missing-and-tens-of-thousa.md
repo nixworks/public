@@ -16,7 +16,7 @@ SEOUL (AFP) - The death toll from severe flooding in the north-east of North Kor
 
 ### Changes:
 
-1. [2016 North Korean floods: The United Nations estimates that the death toll from severe flooding in North Korea reaches 133 with another 395 missing and tens of thousands homeless. ](/news/2016/09/12/2016-north-korean-floods-the-united-nations-estimates-that-the-death-toll-from-severe-flooding-in-north-korea-reaches-133-with-another-395.md) _2017-08-27 03:46:50 (First version)_
+1. [2016 North Korean floods: The United Nations estimates that the death toll from severe flooding in North Korea reaches 133 with another 395 missing and tens of thousands homeless. ](/news/2016/09/12/2016-north-korean-floods-the-united-nations-estimates-that-the-death-toll-from-severe-flooding-in-north-korea-reaches-133-with-another-395.md) _2018-02-06 13:49:29 (First version)_
 1. [The United Nations estimates that the death toll from severe flooding in North Korea reaches 133 with another 395 missing and tens of thousands homeless. ](/news/2016/09/12/the-united-nations-estimates-that-the-death-toll-from-severe-flooding-in-north-korea-reaches-133-with-another-395-missing-and-tens-of-thousa.md) _(Current version)_
 
 ### Related:

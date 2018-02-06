@@ -17,7 +17,7 @@ A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand
 
 ### Changes:
 
-1. [ The High Court rules that Suzanne Breen, an editor of the ''Sunday Tribune'', need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it.md) _2017-08-25 03:24:55 (First version)_
+1. [ The High Court rules that Suzanne Breen, an editor of the ''Sunday Tribune'', need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it.md) _2018-02-06 13:49:19 (First version)_
 1. [ The High Court rules that Suzanne Breen, an editor of the "Sunday Tribune", need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it-wo.md) _(Current version)_
 
 ### Related:

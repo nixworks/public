@@ -19,7 +19,7 @@ Formats: [HTML](/news/2015/07/16/a-shooting-occurs-at-a-united-states-navy-recru
 
 ### Changes:
 
-1. [2015 Chattanooga shootings: A shooting occurs at a United States Navy recruiting office and a Navy operational support center in Chattanooga, Tennessee, killing four U.S. Marines and the gunman and wounding a police officer, a Marine Corps recruiter and a sailor who is listed in serious condition. ](/news/2015/07/16/2015-chattanooga-shootings-a-shooting-occurs-at-a-united-states-navy-recruiting-office-and-a-navy-operational-support-center-in-chattanooga.md) _2017-08-27 03:42:42 (First version)_
+1. [2015 Chattanooga shootings: A shooting occurs at a United States Navy recruiting office and a Navy operational support center in Chattanooga, Tennessee, killing four U.S. Marines and the gunman and wounding a police officer, a Marine Corps recruiter and a sailor who is listed in serious condition. ](/news/2015/07/16/2015-chattanooga-shootings-a-shooting-occurs-at-a-united-states-navy-recruiting-office-and-a-navy-operational-support-center-in-chattanooga.md) _2018-02-06 13:49:27 (First version)_
 1. [A shooting occurs at a United States Navy recruiting office and a Navy operational support center in Chattanooga, Tennessee, killing four U.S. Marines and the gunman and wounding a police officer, a Marine Corps recruiter and a sailor who is listed in serious condition. ](/news/2015/07/16/a-shooting-occurs-at-a-united-states-navy-recruiting-office-and-a-navy-operational-support-center-in-chattanooga-tennessee-killing-four-u.md) _(Current version)_
 
 ### Related:

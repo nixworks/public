@@ -11,8 +11,8 @@ Formats: [HTML](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fl
 
 ### Changes:
 
-1. [ Russia opens a route for the United States to fly arms to Afghanistan. ](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan.md) _2017-08-25 03:25:03 (First version)_
-2. [ Russia opens a route for the United States to fly arms to Afghanistan. [http:--www.nytimes.com-2009-07-04-world-europe-04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-http-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp-t.md) _2017-10-17 03:29:05 (Update)_
+1. [ Russia opens a route for the United States to fly arms to Afghanistan. ](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan.md) _2018-02-06 13:49:19 (First version)_
+2. [ Russia opens a route for the United States to fly arms to Afghanistan. [http:--www.nytimes.com-2009-07-04-world-europe-04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-http-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp-t.md) _2018-02-06 13:49:19 (Update)_
 2. [ Russia opens a route for the United States to fly arms to Afghanistan. [https:--www.nytimes.com-2009-07-04-world-europe-04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-https-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ A suspected car bomb on Monday killed at least 10 police amid increased Taliban 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/war-in-afghanistan-2015-present-a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as.md) _2017-08-27 03:47:00 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/war-in-afghanistan-2015-present-a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as-taliban-insurgents-advance-upon-the.md) _(Current version)_
 
 ### Related:

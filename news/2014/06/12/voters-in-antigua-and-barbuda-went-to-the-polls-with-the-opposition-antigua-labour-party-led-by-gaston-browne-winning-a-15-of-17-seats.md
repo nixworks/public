@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/12/voters-in-antigua-and-barbuda-went-to-the-polls
 
 ### Changes:
 
-1. [Antigua and Barbuda general election, 2014: Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/antigua-and-barbuda-general-election-2014-voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by.md) _2017-08-27 03:40:50 (First version)_
+1. [Antigua and Barbuda general election, 2014: Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/antigua-and-barbuda-general-election-2014-voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by-gaston-browne-winning-a-15-of-17-seats.md) _(Current version)_
 
 ### Related:

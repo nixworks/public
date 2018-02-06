@@ -17,7 +17,7 @@ New Zealanders can now begin voting by post in the final stage of a referendum o
 
 ### Changes:
 
-1. [New Zealand flag debate: Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/new-zealand-flag-debate-voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-desi.md) _2017-08-27 03:45:06 (First version)_
+1. [New Zealand flag debate: Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/new-zealand-flag-debate-voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-desi.md) _2018-02-06 13:49:28 (First version)_
 1. [Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.md) _(Current version)_
 
 ### Related:

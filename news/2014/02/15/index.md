@@ -13,7 +13,7 @@ No date was set for new round of negotiations after six days of fractious talks
 
 ##### Academy Award
 ### [Academy Award-nominated actress Ellen Page comes out as lesbian at a Human Rights Campaign conference. ](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.md)
-_Context: Ellen Page, Human Rights Campaign, Academy Award, lesbian_
+_Context: Academy Award, Ellen Page, Human Rights Campaign, lesbian_
 
 ##### prime minister
 ### [Prime Minister of Vietnam Nguyen TCNYn Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become.md)
@@ -41,7 +41,7 @@ Judge Arenda Wright Allen issued a stay of her order while it is appealed, meani
 
 ##### Lebanon
 ### [A new government is formed in Lebanon after 10-months of gridlock, Tammam Salam is elected to be Prime Minister. ](/news/2014/02/15/a-new-government-is-formed-in-lebanon-after-10-months-of-gridlock-tammam-salam-is-elected-to-be-prime-minister.md)
-_Context: Tammam Salam, Prime Minister of Lebanon, Lebanon_
+_Context: Prime Minister of Lebanon, Tammam Salam, Lebanon_
 
 ##### Turkish parliament
 ### [Judicial reforms are passed in the Turkish parliament after 20 hours and a brawl in the chamber. ](/news/2014/02/15/judicial-reforms-are-passed-in-the-turkish-parliament-after-20-hours-and-a-brawl-in-the-chamber.md)

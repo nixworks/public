@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/20/the-prime-minister-of-israel-ehud-olmert-and-th
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/israeli-palestinian-conflict-p-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-fo.md) _2017-08-25 03:21:26 (First version)_
-2. [ Israeli-Palestinian conflict:: The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/israeli-palestinian-conflict-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-fo.md) _2017-08-27 03:21:21 (Update)_
+1. [ Israeli-Palestinian conflict:: The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/israeli-palestinian-conflict-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-fo.md) _2018-02-06 13:49:18 (First version)_
+2. [ Israeli-Palestinian conflict: The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/israeli-palestinian-conflict-p-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-fo.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-formally-invited-to-the-2007-mide.md) _(Current version)_
 
 ### Related:

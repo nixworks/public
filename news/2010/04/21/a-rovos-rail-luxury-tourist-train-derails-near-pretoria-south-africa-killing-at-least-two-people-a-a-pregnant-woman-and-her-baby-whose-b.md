@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-
 
 ### Changes:
 
-1. [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-pregnant-woman-and-her-baby-whose-b.md) _2017-08-27 03:27:39 (First version)_
+1. [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-pregnant-woman-and-her-baby-whose-b.md) _2018-02-06 13:49:19 (First version)_
 1. [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-a-pregnant-woman-and-her-baby-whose-b.md) _(Current version)_
 
 ### Related:

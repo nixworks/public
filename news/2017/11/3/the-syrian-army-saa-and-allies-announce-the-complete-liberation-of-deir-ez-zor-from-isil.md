@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-comp
 
 ### Changes:
 
-1. [The Syrian Arab Army and allies announce complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-arab-army-and-allies-announce-complete-liberation-of-deir-ez-zor-from-isil.md) _2017-11-03 18:30:06 (First version)_
-2. [The Syrian Arab Army and allies announce complete capture of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-arab-army-and-allies-announce-complete-capture-of-deir-ez-zor-from-isil.md) _2017-11-04 00:30:05 (Update)_
+1. [The Syrian Arab Army and allies announce complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-arab-army-and-allies-announce-complete-liberation-of-deir-ez-zor-from-isil.md) _2018-02-06 13:49:31 (First version)_
+2. [The Syrian Arab Army and allies announce complete capture of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-arab-army-and-allies-announce-complete-capture-of-deir-ez-zor-from-isil.md) _2018-02-06 13:49:31 (Update)_
 2. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _(Current version)_
 
 ### Related:

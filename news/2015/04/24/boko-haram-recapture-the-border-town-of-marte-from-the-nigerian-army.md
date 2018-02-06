@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-f
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-insurgency-boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md) _2017-08-27 03:42:14 (First version)_
+1. [Boko Haram insurgency: Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-insurgency-boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md) _2018-02-06 13:49:27 (First version)_
 1. [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md) _(Current version)_
 
 ### Related:

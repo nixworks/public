@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/04/15/president-hu-jintao-attending-a-bric-summit-in-
 
 ### Changes:
 
-1. [2010 Yushu earthquake:President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/2010-yushu-earthquake-ppresident-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-vene.md) _2017-08-25 03:27:39 (First version)_
-2. [2010 Yushu earthquake:: President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/2010-yushu-earthquake-president-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-ven.md) _2017-08-27 03:27:35 (Update)_
+1. [2010 Yushu earthquake:: President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/2010-yushu-earthquake-president-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-ven.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Yushu earthquake:President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/2010-yushu-earthquake-ppresident-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-vene.md) _2018-02-06 13:49:19 (Update)_
 2. [President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/president-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-venezuela.md) _(Current version)_
 
 ### Related:

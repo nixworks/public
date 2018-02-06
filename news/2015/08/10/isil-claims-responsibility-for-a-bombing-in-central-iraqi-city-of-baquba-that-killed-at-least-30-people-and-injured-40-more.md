@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-cen
 
 ### Changes:
 
-1. [Islamic State in Iraq and the Levant: ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/islamic-state-in-iraq-and-the-levant-isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-peopl.md) _2017-08-27 03:42:48 (First version)_
+1. [Islamic State in Iraq and the Levant: ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/islamic-state-in-iraq-and-the-levant-isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-peopl.md) _2018-02-06 13:49:27 (First version)_
 1. [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md) _(Current version)_
 
 ### Related:

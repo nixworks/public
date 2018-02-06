@@ -17,8 +17,8 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 
 ### Changes:
 
-1. [Syrian Civil War:Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/syrian-civil-war-peleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding.md) _2017-08-25 03:40:28 (First version)_
-2. [Syrian Civil War:: Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/syrian-civil-war-eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-findin.md) _2017-08-27 03:40:46 (Update)_
+1. [Syrian Civil War:Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/syrian-civil-war-peleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:: Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/syrian-civil-war-eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-findin.md) _2018-02-06 13:49:26 (Update)_
 2. [Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding-mission-are-atta.md) _(Current version)_
 
 ### Related:

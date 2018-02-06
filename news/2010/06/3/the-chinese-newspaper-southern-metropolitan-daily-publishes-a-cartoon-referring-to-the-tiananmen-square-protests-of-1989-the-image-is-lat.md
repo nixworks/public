@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-dail
 
 ### Changes:
 
-1. [The Chinese newspaper ''Southern Metropolitan Daily'' publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-l.md) _2017-08-25 03:28:07 (First version)_
+1. [The Chinese newspaper ''Southern Metropolitan Daily'' publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-l.md) _2018-02-06 13:49:20 (First version)_
 1. [The Chinese newspaper "Southern Metropolitan Daily" publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-lat.md) _(Current version)_
 
 ### Related:

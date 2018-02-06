@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake
 
 ### Changes:
 
-1. [Costa Rica is hit by a 6.5 magnitude earthquake at Jac near the capital San Jos. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaco-near-the-capital-san-jose-no-immediate-reports-of-casualties-or-damage.md) _2017-11-14 00:30:05 (First version)_
+1. [Costa Rica is hit by a 6.5 magnitude earthquake at Jac near the capital San Jos. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaco-near-the-capital-san-jose-no-immediate-reports-of-casualties-or-damage.md) _2018-02-06 13:49:31 (First version)_
 1. [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/05/15/burundi-officials-say-that-they-have-arrested-s
 
 ### Changes:
 
-1. [2015 Burundian coup d'tat attempt: Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. ](/news/2015/05/15/2015-burundian-coup-d-etat-attempt-burundi-officials-say-that-they-have-arrested-several-coup-members-but-the-leader-of-the-failed-coup-aga.md) _2017-08-27 03:42:19 (First version)_
+1. [2015 Burundian coup d'tat attempt: Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. ](/news/2015/05/15/2015-burundian-coup-d-etat-attempt-burundi-officials-say-that-they-have-arrested-several-coup-members-but-the-leader-of-the-failed-coup-aga.md) _2018-02-06 13:49:27 (First version)_
 1. [Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. ](/news/2015/05/15/burundi-officials-say-that-they-have-arrested-several-coup-members-but-the-leader-of-the-failed-coup-against-president-pierre-nkurunziza-ma.md) _(Current version)_
 
 ### Related:

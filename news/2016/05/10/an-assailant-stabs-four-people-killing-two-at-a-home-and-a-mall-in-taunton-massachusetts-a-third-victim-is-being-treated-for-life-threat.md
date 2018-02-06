@@ -17,7 +17,7 @@ At least three people died in a spree of violence at the Silver City Galleria ma
 
 ### Changes:
 
-1. [An assailant stabs four people, killing two, at a home and a mall in Taunton, Massachusetts. A third victim is being treated for life-threatening injuries. The suspect was shot and killed by an off-duty deputy sheriff at the second scene. ](/news/2016/05/10/an-assailant-stabs-four-people-killing-two-at-a-home-and-a-mall-in-taunton-massachusetts-a-third-victim-is-being-treated-for-life-threa.md) _2017-08-25 03:45:38 (First version)_
+1. [An assailant stabs four people, killing two, at a home and a mall in Taunton, Massachusetts. A third victim is being treated for life-threatening injuries. The suspect was shot and killed by an off-duty deputy sheriff at the second scene. ](/news/2016/05/10/an-assailant-stabs-four-people-killing-two-at-a-home-and-a-mall-in-taunton-massachusetts-a-third-victim-is-being-treated-for-life-threa.md) _2018-02-06 13:49:29 (First version)_
 1. [An assailant stabs four people, killing two, at a home and a mall in Taunton, Massachusetts. A third victim is being treated for life-threatening injuries. The suspect was shot and killed by an off-duty deputy sheriff at the second scene. ](/news/2016/05/10/an-assailant-stabs-four-people-killing-two-at-a-home-and-a-mall-in-taunton-massachusetts-a-third-victim-is-being-treated-for-life-threat.md) _(Current version)_
 
 ### Related:

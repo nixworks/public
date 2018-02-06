@@ -17,8 +17,8 @@ Poriya Hospital in Tiberias treats child with shrapnel wounds, the latest of hun
 
 ### Changes:
 
-1. [Syrian Civil War:Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-phezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2017-08-25 03:40:03 (First version)_
-2. [Syrian Civil War:: Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2017-08-27 03:40:21 (Update)_
+1. [Syrian Civil War:Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-phezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2018-02-06 13:49:25 (Update)_
 2. [Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that-if-they-did-so-he.md) _(Current version)_
 
 ### Related:

@@ -23,7 +23,7 @@ French prosecutors said on Saturday that three coordinated teams of gunmen and s
 
 ### Changes:
 
-1. [November 2015 Paris attacks: Spillover of the Syrian Civil War: The death toll from the terrorist attacks in Paris stands at 129. ](/news/2015/11/14/november-2015-paris-attacks-spillover-of-the-syrian-civil-war-the-death-toll-from-the-terrorist-attacks-in-paris-stands-at-129.md) _2017-08-27 03:43:51 (First version)_
+1. [November 2015 Paris attacks: Spillover of the Syrian Civil War: The death toll from the terrorist attacks in Paris stands at 129. ](/news/2015/11/14/november-2015-paris-attacks-spillover-of-the-syrian-civil-war-the-death-toll-from-the-terrorist-attacks-in-paris-stands-at-129.md) _2018-02-06 13:49:28 (First version)_
 1. [The death toll from the terrorist attacks in Paris stands at 129. ](/news/2015/11/14/the-death-toll-from-the-terrorist-attacks-in-paris-stands-at-129.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/iranian-presidential-election-2017-tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies.md) _2017-08-27 03:48:10 (First version)_
+1. [Iranian presidential election, 2017: Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/iranian-presidential-election-2017-tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies.md) _2018-02-06 13:49:30 (First version)_
 1. [Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies-as-registration-closes-the-final-li.md) _(Current version)_
 
 ### Related:

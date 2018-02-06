@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/10/30/seven-indian-sailors-are-released-by-pirates-af
 
 ### Changes:
 
-1. [Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _2017-08-27 03:41:27 (First version)_
+1. [Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _2018-02-06 13:49:26 (First version)_
 1. [Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _(Current version)_
 
 ### Related:

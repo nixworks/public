@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/08/7/president-rodrigo-duterte-releases-a-list-of-pol
 
 ### Changes:
 
-1. [Philippine Drug War: President Rodrigo Duterte releases a list of politicians, police officers and military personnel allegedly involved in the illicit drug trade. ](/news/2016/08/7/philippine-drug-war-president-rodrigo-duterte-releases-a-list-of-politicians-police-officers-and-military-personnel-allegedly-involved-in.md) _2017-08-27 03:46:37 (First version)_
+1. [Philippine Drug War: President Rodrigo Duterte releases a list of politicians, police officers and military personnel allegedly involved in the illicit drug trade. ](/news/2016/08/7/philippine-drug-war-president-rodrigo-duterte-releases-a-list-of-politicians-police-officers-and-military-personnel-allegedly-involved-in.md) _2018-02-06 13:49:29 (First version)_
 1. [President Rodrigo Duterte releases a list of politicians, police officers and military personnel allegedly involved in the illicit drug trade. ](/news/2016/08/7/president-rodrigo-duterte-releases-a-list-of-politicians-police-officers-and-military-personnel-allegedly-involved-in-the-illicit-drug-trad.md) _(Current version)_
 
 ### Related:

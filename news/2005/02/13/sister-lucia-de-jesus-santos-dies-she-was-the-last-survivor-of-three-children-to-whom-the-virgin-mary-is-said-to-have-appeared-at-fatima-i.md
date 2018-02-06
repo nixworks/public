@@ -17,7 +17,7 @@ Formats: [HTML](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-l
 
 ### Changes:
 
-1. [ Sister Lucia de Jesus Santos dies. She was the last survivor of three children to whom the Virgin Mary is said to have appeared at Fatima in central Portugal in 1917. ](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-last-survivor-of-three-children-to-whom-the-virgin-mary-is-said-to-have-appeared-at-fatima.md) _2017-08-25 03:15:39 (First version)_
+1. [ Sister Lucia de Jesus Santos dies. She was the last survivor of three children to whom the Virgin Mary is said to have appeared at Fatima in central Portugal in 1917. ](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-last-survivor-of-three-children-to-whom-the-virgin-mary-is-said-to-have-appeared-at-fatima.md) _2018-02-06 13:49:16 (First version)_
 1. [ Sister Lucia de Jesus Santos dies. She was the last survivor of three children to whom the Virgin Mary is said to have appeared at Fatima in central Portugal in 1917. ](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-last-survivor-of-three-children-to-whom-the-virgin-mary-is-said-to-have-appeared-at-fatima-i.md) _(Current version)_
 
 ### Related:

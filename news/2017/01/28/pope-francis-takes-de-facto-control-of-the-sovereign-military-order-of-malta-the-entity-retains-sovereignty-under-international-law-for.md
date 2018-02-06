@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/28/pope-francis-takes-de-facto-control-of-the-sove
 
 ### Changes:
 
-1. [Pope Francis takes ''de facto'' control of the Sovereign Military Order of Malta (the entity retains sovereignty under international law), forcing its leader Prince and Grand Master Matthew Festing to resign. ](/news/2017/01/28/pope-francis-takes-de-facto-control-of-the-sovereign-military-order-of-malta-the-entity-retains-sovereignty-under-international-law-f.md) _2017-08-25 03:47:18 (First version)_
+1. [Pope Francis takes ''de facto'' control of the Sovereign Military Order of Malta (the entity retains sovereignty under international law), forcing its leader Prince and Grand Master Matthew Festing to resign. ](/news/2017/01/28/pope-francis-takes-de-facto-control-of-the-sovereign-military-order-of-malta-the-entity-retains-sovereignty-under-international-law-f.md) _2018-02-06 13:49:30 (First version)_
 1. [Pope Francis takes "de facto" control of the Sovereign Military Order of Malta (the entity retains sovereignty under international law), forcing its leader Prince and Grand Master Matthew Festing to resign. ](/news/2017/01/28/pope-francis-takes-de-facto-control-of-the-sovereign-military-order-of-malta-the-entity-retains-sovereignty-under-international-law-for.md) _(Current version)_
 
 ### Related:

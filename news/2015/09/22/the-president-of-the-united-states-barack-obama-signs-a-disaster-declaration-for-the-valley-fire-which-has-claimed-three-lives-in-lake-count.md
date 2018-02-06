@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/22/the-president-of-the-united-states-barack-obama
 
 ### Changes:
 
-1. [2015 California wildfires: The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/2015-california-wildfires-the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claime.md) _2017-08-27 03:43:07 (First version)_
+1. [2015 California wildfires: The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/2015-california-wildfires-the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claime.md) _2018-02-06 13:49:27 (First version)_
 1. [The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claimed-three-lives-in-lake-count.md) _(Current version)_
 
 ### Related:

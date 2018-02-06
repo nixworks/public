@@ -9,7 +9,7 @@ Two members of longtime Oakland rhythm and blues band Tower of Power were hit by
 
 ##### Cuba-United States relations
 ### [President Barack Obama announces the end of the wet feet, dry feet policy, which previously allowed undocumented immigrants from Cuba to become permanent residents. ](/news/2017/01/12/president-barack-obama-announces-the-end-of-the-wet-feet-dry-feet-policy-which-previously-allowed-undocumented-immigrants-from-cuba-to-bec.md)
-_Context: Cuba-United States relations, Barack Obama, wet feet, dry feet policy_
+_Context: Barack Obama, Cuba-United States relations, wet feet, dry feet policy_
 
 ##### United States military personnel
 ### [3,000 U.S. troops are deployed in Poland as part of NATO's Operation Atlantic Resolve. Poland says that the deployment is a necessary response to Russian military exercises near its border and its intervention in Ukraine while Russia condemns the move as a "threat to national interests and security". ](/news/2017/01/12/3-000-u-s-troops-are-deployed-in-poland-as-part-of-nato-s-operation-atlantic-resolve-poland-says-that-the-deployment-is-a-necessary-respon.md)
@@ -25,7 +25,7 @@ The jury deliberating on the fate of accused murderer Robert Xie is having troub
 
 ##### U.S. President
 ### [The President of the United States Barack Obama awards his Vice President Joe Biden the Presidential Medal of Freedom with Distinction, the only time the president has awarded this particular honor during his tenure. ](/news/2017/01/12/the-president-of-the-united-states-barack-obama-awards-his-vice-president-joe-biden-the-presidential-medal-of-freedom-with-distinction-the.md)
-_Context: Presidential Medal of Freedom with Distinction, Joe Biden, U.S. President, Barack Obama_
+_Context: Barack Obama, Joe Biden, U.S. President, Presidential Medal of Freedom with Distinction_
 
 ## [Previous Day...](/news/2017/01/11/index.md)
 

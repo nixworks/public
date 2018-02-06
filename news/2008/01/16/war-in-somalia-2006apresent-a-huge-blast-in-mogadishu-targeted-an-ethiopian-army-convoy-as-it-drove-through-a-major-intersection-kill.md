@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mog
 
 ### Changes:
 
-1. [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006-present-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md) _2017-08-27 03:21:34 (First version)_
+1. [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006-present-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md) _2018-02-06 13:49:18 (First version)_
 1. [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md) _(Current version)_
 
 ### Related:

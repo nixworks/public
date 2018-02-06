@@ -16,8 +16,8 @@ How far the country has come since the fall of apartheid is undeniable, but it c
 
 ### Changes:
 
-1. [South African general election, 2014:Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/south-african-general-election-2014-pvoters-in-south-africa-go-to-the-polls-for-a-general-election.md) _2017-08-25 03:40:23 (First version)_
-2. [South African general election, 2014:: Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/south-african-general-election-2014-voters-in-south-africa-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:40:40 (Update)_
+1. [South African general election, 2014:: Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/south-african-general-election-2014-voters-in-south-africa-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:26 (First version)_
+2. [South African general election, 2014:Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/south-african-general-election-2014-pvoters-in-south-africa-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in South Africa go to the polls for a general election. ](/news/2014/05/7/voters-in-south-africa-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

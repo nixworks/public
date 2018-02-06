@@ -16,7 +16,7 @@ A Libyan warplane from forces loyal to the internationally recognized government
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): A Libyan warplane bombs a Greek-operated oil tanker anchored offshore the city of Derna, killing two sailors, one Greek and one Romanian. The Greek government condemned what it called an "unprovoked and cowardly" attack and demanded an investigation and punishment for those responsible. ](/news/2015/01/5/libyan-civil-war-2014-present-a-libyan-warplane-bombs-a-greek-operated-oil-tanker-anchored-offshore-the-city-of-derna-killing-two-sail.md) _2017-08-27 03:41:43 (First version)_
+1. [Libyan Civil War (2014-present): A Libyan warplane bombs a Greek-operated oil tanker anchored offshore the city of Derna, killing two sailors, one Greek and one Romanian. The Greek government condemned what it called an "unprovoked and cowardly" attack and demanded an investigation and punishment for those responsible. ](/news/2015/01/5/libyan-civil-war-2014-present-a-libyan-warplane-bombs-a-greek-operated-oil-tanker-anchored-offshore-the-city-of-derna-killing-two-sail.md) _2018-02-06 13:49:26 (First version)_
 1. [A Libyan warplane bombs a Greek-operated oil tanker anchored offshore the city of Derna, killing two sailors, one Greek and one Romanian. The Greek government condemned what it called an "unprovoked and cowardly" attack and demanded an investigation and punishment for those responsible. ](/news/2015/01/5/a-libyan-warplane-bombs-a-greek-operated-oil-tanker-anchored-offshore-the-city-of-derna-killing-two-sailors-one-greek-and-one-romanian-th.md) _(Current version)_
 
 ### Related:

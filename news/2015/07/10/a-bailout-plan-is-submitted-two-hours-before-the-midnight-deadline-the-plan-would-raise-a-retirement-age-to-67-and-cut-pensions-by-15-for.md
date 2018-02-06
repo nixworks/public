@@ -17,7 +17,7 @@ Sobered by reports that Eurozone partners were ready to let Greece fall out of t
 
 ### Changes:
 
-1. [Greek government-debt crisis: A bailout plan is submitted two hours before the midnight deadline. The plan would raise a retirement age to 67 and cut pensions by 15% for those retiring at 62. ](/news/2015/07/10/greek-government-debt-crisis-a-bailout-plan-is-submitted-two-hours-before-the-midnight-deadline-the-plan-would-raise-a-retirement-age-to-6.md) _2017-08-27 03:42:40 (First version)_
+1. [Greek government-debt crisis: A bailout plan is submitted two hours before the midnight deadline. The plan would raise a retirement age to 67 and cut pensions by 15% for those retiring at 62. ](/news/2015/07/10/greek-government-debt-crisis-a-bailout-plan-is-submitted-two-hours-before-the-midnight-deadline-the-plan-would-raise-a-retirement-age-to-6.md) _2018-02-06 13:49:27 (First version)_
 1. [ A bailout plan is submitted two hours before the midnight deadline. The plan would raise a retirement age to 67 and cut pensions by 15% for those retiring at 62. ](/news/2015/07/10/a-bailout-plan-is-submitted-two-hours-before-the-midnight-deadline-the-plan-would-raise-a-retirement-age-to-67-and-cut-pensions-by-15-for.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Philippine Islands President Gloria Arroyo has declared a &quot;state of calamit
 
 ### Changes:
 
-1. [ Typhoon Parma: Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/typhoon-parma-thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md) _2017-08-27 03:25:49 (First version)_
+1. [ Typhoon Parma: Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/typhoon-parma-thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md) _2018-02-06 13:49:19 (First version)_
 1. [ Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md) _(Current version)_
 
 ### Related:

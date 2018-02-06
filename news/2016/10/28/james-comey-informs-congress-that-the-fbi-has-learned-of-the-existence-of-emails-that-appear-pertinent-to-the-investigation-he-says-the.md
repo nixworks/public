@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/10/28/james-comey-informs-congress-that-the-fbi-has-l
 
 ### Changes:
 
-1. [ Hillary Clinton email controversy: James Comey informs Congress that "the FBI has learned of the existence of emails that appear pertinent to the investigation." He says the FBI has not yet assessed the importance or significance of these emails. ](/news/2016/10/28/hillary-clinton-email-controversy-james-comey-informs-congress-that-the-fbi-has-learned-of-the-existence-of-emails-that-appear-pertinent.md) _2017-08-27 03:47:08 (First version)_
+1. [ Hillary Clinton email controversy: James Comey informs Congress that "the FBI has learned of the existence of emails that appear pertinent to the investigation." He says the FBI has not yet assessed the importance or significance of these emails. ](/news/2016/10/28/hillary-clinton-email-controversy-james-comey-informs-congress-that-the-fbi-has-learned-of-the-existence-of-emails-that-appear-pertinent.md) _2018-02-06 13:49:29 (First version)_
 1. [ James Comey informs Congress that "the FBI has learned of the existence of emails that appear pertinent to the investigation." He says the FBI has not yet assessed the importance or significance of these emails. ](/news/2016/10/28/james-comey-informs-congress-that-the-fbi-has-learned-of-the-existence-of-emails-that-appear-pertinent-to-the-investigation-he-says-the.md) _(Current version)_
 
 ### Related:

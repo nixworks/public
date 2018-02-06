@@ -16,7 +16,7 @@ Wisconsin Gov. Scott Walker made his long-expected White House run official Mond
 
 ### Changes:
 
-1. [United States presidential election, 2016: Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/united-states-presidential-election-2016-scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-n.md) _2017-08-27 03:42:42 (First version)_
+1. [United States presidential election, 2016: Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/united-states-presidential-election-2016-scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-n.md) _2018-02-06 13:49:27 (First version)_
 1. [Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-nomination.md) _(Current version)_
 
 ### Related:

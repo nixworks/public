@@ -16,7 +16,7 @@ CNN HAS apologised for printing a story on its website that incorrectly accused 
 
 ### Changes:
 
-1. [ CNN issues an apology to ''The Irish Times'' after accusing the newspaper of publishing fake nude photographs of the world's number one golfer Tiger Woods. CNN also alleged ''The Irish Times'' had paid damages as a result. ](/news/2009/12/5/cnn-issues-an-apology-to-the-irish-times-after-accusing-the-newspaper-of-publishing-fake-nude-photographs-of-the-world-s-number-one-gol.md) _2017-08-25 03:26:32 (First version)_
+1. [ CNN issues an apology to ''The Irish Times'' after accusing the newspaper of publishing fake nude photographs of the world's number one golfer Tiger Woods. CNN also alleged ''The Irish Times'' had paid damages as a result. ](/news/2009/12/5/cnn-issues-an-apology-to-the-irish-times-after-accusing-the-newspaper-of-publishing-fake-nude-photographs-of-the-world-s-number-one-gol.md) _2018-02-06 13:49:19 (First version)_
 1. [ CNN issues an apology to "The Irish Times" after accusing the newspaper of publishing fake nude photographs of the world's number one golfer Tiger Woods. CNN also alleged "The Irish Times" had paid damages as a result. ](/news/2009/12/5/cnn-issues-an-apology-to-the-irish-times-after-accusing-the-newspaper-of-publishing-fake-nude-photographs-of-the-world-s-number-one-golfe.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Syrian Civil War: At least 14 people are killed as rebels shell a neighborhood in western Aleppo. ](/news/2015/09/20/syrian-civil-war-at-least-14-people-are-killed-as-rebels-shell-a-neighborhood-in-western-aleppo.md) _2017-08-27 03:43:06 (First version)_
+1. [Syrian Civil War: At least 14 people are killed as rebels shell a neighborhood in western Aleppo. ](/news/2015/09/20/syrian-civil-war-at-least-14-people-are-killed-as-rebels-shell-a-neighborhood-in-western-aleppo.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 14 people are killed as rebels shell a neighborhood in western Aleppo. ](/news/2015/09/20/at-least-14-people-are-killed-as-rebels-shell-a-neighborhood-in-western-aleppo.md) _(Current version)_
 
 ### Related:

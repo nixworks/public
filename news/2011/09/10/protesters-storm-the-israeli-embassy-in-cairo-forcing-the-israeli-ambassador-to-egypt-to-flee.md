@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/09/10/protesters-storm-the-israeli-embassy-in-cairo-f
 
 ### Changes:
 
-1. [Post-Mubarak transition in Egypt:Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-pprotesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md) _2017-08-25 03:34:07 (First version)_
-2. [Post-Mubarak transition in Egypt:: Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-protesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md) _2017-08-27 03:34:15 (Update)_
+1. [Post-Mubarak transition in Egypt:: Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-protesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md) _2018-02-06 13:49:22 (First version)_
+2. [Post-Mubarak transition in Egypt:Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-pprotesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md) _2018-02-06 13:49:22 (Update)_
 2. [Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/protesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md) _(Current version)_
 
 ### Related:

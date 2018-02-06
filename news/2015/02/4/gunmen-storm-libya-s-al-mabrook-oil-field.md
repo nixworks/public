@@ -16,7 +16,7 @@ Gunmen have stormed theal-Mabrook oilfield in central Libya, oil and military of
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Gunmen storm Libya's al-Mabrook oil field. ](/news/2015/02/4/libyan-civil-war-2014-present-gunmen-storm-libya-s-al-mabrook-oil-field.md) _2017-08-27 03:41:53 (First version)_
+1. [Libyan Civil War (2014-present): Gunmen storm Libya's al-Mabrook oil field. ](/news/2015/02/4/libyan-civil-war-2014-present-gunmen-storm-libya-s-al-mabrook-oil-field.md) _2018-02-06 13:49:26 (First version)_
 1. [Gunmen storm Libya's al-Mabrook oil field. ](/news/2015/02/4/gunmen-storm-libya-s-al-mabrook-oil-field.md) _(Current version)_
 
 ### Related:

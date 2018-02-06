@@ -17,7 +17,7 @@ Fighters from the Islamist group al-Shabaab have attacked a hotel in Mogadishu, 
 
 ### Changes:
 
-1. [War in Somalia (2009-present): Al-Shabaab militants storm a Somali Youth League hotel in Mogadishu. At least 14 are reportedly killed.](/news/2016/02/26/war-in-somalia-2009-present-al-shabaab-militants-storm-a-somali-youth-league-hotel-in-mogadishu-at-least-14-are-reportedly-killed.md) _2017-08-27 03:45:02 (First version)_
+1. [War in Somalia (2009-present): Al-Shabaab militants storm a Somali Youth League hotel in Mogadishu. At least 14 are reportedly killed.](/news/2016/02/26/war-in-somalia-2009-present-al-shabaab-militants-storm-a-somali-youth-league-hotel-in-mogadishu-at-least-14-are-reportedly-killed.md) _2018-02-06 13:49:28 (First version)_
 1. [Al-Shabaab militants storm a Somali Youth League hotel in Mogadishu. At least 14 are reportedly killed.](/news/2016/02/26/al-shabaab-militants-storm-a-somali-youth-league-hotel-in-mogadishu-at-least-14-are-reportedly-killed.md) _(Current version)_
 
 ### Related:

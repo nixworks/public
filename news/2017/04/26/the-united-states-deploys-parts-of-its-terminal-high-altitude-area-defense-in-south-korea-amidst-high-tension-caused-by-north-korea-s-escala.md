@@ -17,7 +17,7 @@ Thaad system being deployed despite protests from local residents and China, whi
 
 ### Changes:
 
-1. [North Korea-South Korea relations: The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/north-korea-south-korea-relations-the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-t.md) _2017-08-27 03:48:14 (First version)_
+1. [North Korea-South Korea relations: The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/north-korea-south-korea-relations-the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-t.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md) _(Current version)_
 
 ### Related:

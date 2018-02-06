@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/02/16/2011a2012-syrian-uprising-the-united-nations-ge
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: The United Nations General Assembly overwhelmingly votes in favour of an Arab sponsored resolution condemning human rights violations by the Syrian government led by President Bashar al-Assad. ](/news/2012/02/16/2011-2012-syrian-uprising-the-united-nations-general-assembly-overwhelmingly-votes-in-favour-of-an-arab-sponsored-resolution-condemning-h.md) _2017-08-27 03:35:13 (First version)_
+1. [2011-2012 Syrian uprising: The United Nations General Assembly overwhelmingly votes in favour of an Arab sponsored resolution condemning human rights violations by the Syrian government led by President Bashar al-Assad. ](/news/2012/02/16/2011-2012-syrian-uprising-the-united-nations-general-assembly-overwhelmingly-votes-in-favour-of-an-arab-sponsored-resolution-condemning-h.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: The United Nations General Assembly overwhelmingly votes in favour of an Arab sponsored resolution condemning human rights violations by the Syrian government led by President Bashar al-Assad. ](/news/2012/02/16/2011a2012-syrian-uprising-the-united-nations-general-assembly-overwhelmingly-votes-in-favour-of-an-arab-sponsored-resolution-condemning-h.md) _(Current version)_
 
 ### Related:

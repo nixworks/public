@@ -16,8 +16,8 @@ Shooting comes 15 months after an attack on US consulate that killed the ambassa
 
 ### Changes:
 
-1. [Post-civil war violence in Libya:Unidentified gunmen shoot and kill a U.S. teacher at an international school in Benghazi, Libya. ](/news/2013/12/5/post-civil-war-violence-in-libya-punidentified-gunmen-shoot-and-kill-a-u-s-teacher-at-an-international-school-in-benghazi-libya.md) _2017-08-25 03:39:38 (First version)_
-2. [Post-civil war violence in Libya:: Unidentified gunmen shoot and kill a U.S. teacher at an international school in Benghazi, Libya. ](/news/2013/12/5/post-civil-war-violence-in-libya-unidentified-gunmen-shoot-and-kill-a-u-s-teacher-at-an-international-school-in-benghazi-libya.md) _2017-08-27 03:39:56 (Update)_
+1. [Post-civil war violence in Libya:: Unidentified gunmen shoot and kill a U.S. teacher at an international school in Benghazi, Libya. ](/news/2013/12/5/post-civil-war-violence-in-libya-unidentified-gunmen-shoot-and-kill-a-u-s-teacher-at-an-international-school-in-benghazi-libya.md) _2018-02-06 13:49:25 (First version)_
+2. [Post-civil war violence in Libya:Unidentified gunmen shoot and kill a U.S. teacher at an international school in Benghazi, Libya. ](/news/2013/12/5/post-civil-war-violence-in-libya-punidentified-gunmen-shoot-and-kill-a-u-s-teacher-at-an-international-school-in-benghazi-libya.md) _2018-02-06 13:49:25 (Update)_
 2. [Unidentified gunmen shoot and kill a U.S. teacher at an international school in Benghazi, Libya. ](/news/2013/12/5/unidentified-gunmen-shoot-and-kill-a-u-s-teacher-at-an-international-school-in-benghazi-libya.md) _(Current version)_
 
 ### Related:

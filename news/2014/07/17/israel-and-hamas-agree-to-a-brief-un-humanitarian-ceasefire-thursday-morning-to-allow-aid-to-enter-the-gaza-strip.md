@@ -20,8 +20,8 @@ Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to
 
 ### Changes:
 
-1. [Operation Protective Edge:Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/operation-protective-edge-pisrael-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-strip.md) _2017-08-25 03:40:41 (First version)_
-2. [Operation Protective Edge:: Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/operation-protective-edge-israel-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-stri.md) _2017-08-27 03:41:00 (Update)_
+1. [Operation Protective Edge:Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/operation-protective-edge-pisrael-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-strip.md) _2018-02-06 13:49:26 (First version)_
+2. [Operation Protective Edge:: Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/operation-protective-edge-israel-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-stri.md) _2018-02-06 13:49:26 (Update)_
 2. [Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/israel-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-strip.md) _(Current version)_
 
 ### Related:

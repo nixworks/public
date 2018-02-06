@@ -16,8 +16,8 @@ Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolenc
 
 ### Changes:
 
-1. [Death of Kim Jong-il:The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-pthe-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _2017-08-25 03:34:41 (First version)_
-2. [Death of Kim Jong-il:: The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _2017-08-27 03:34:51 (Update)_
+1. [Death of Kim Jong-il:: The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _2018-02-06 13:49:23 (First version)_
+2. [Death of Kim Jong-il:The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-pthe-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _2018-02-06 13:49:23 (Update)_
 2. [The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md) _(Current version)_
 
 ### Related:

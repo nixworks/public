@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-
 
 ### Changes:
 
-1. [''The Wall Street Journal'' reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-an.md) _2017-08-25 03:35:59 (First version)_
+1. [''The Wall Street Journal'' reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-an.md) _2018-02-06 13:49:23 (First version)_
 1. ["The Wall Street Journal" reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-and.md) _(Current version)_
 
 ### Related:

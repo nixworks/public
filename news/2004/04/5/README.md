@@ -5,23 +5,23 @@ Formats: [HTML](2004/04/5/index.html)  [JSON](2004/04/5/index.json)  [XML](2004/
 
 ##### Paul Bremer
 ### [ Paul Bremer states that militant Shiite cleric Muqtada al-Sadr is an outlaw and warns that uprisings by the cleric and his followers will not tolerated. ](/news/2004/04/5/paul-bremer-states-that-militant-shiite-cleric-muqtada-al-sadr-is-an-outlaw-and-warns-that-uprisings-by-the-cleric-and-his-followers-will-n.md)
-_Context: Paul Bremer, Shiite, outlaw, militant, Muqtada al-Sadr, cleric_
+_Context: cleric, militant, Shiite, Paul Bremer, Muqtada al-Sadr, outlaw_
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth II begins a state visit to France in honour of the centennial of the Entente Cordiale, arriving in the Eurostar via the Channel Tunnel. The following day, she is to address the French Senate. ](/news/2004/04/5/queen-elizabeth-ii-begins-a-state-visit-to-france-in-honour-of-the-centennial-of-the-entente-cordiale-arriving-in-the-eurostar-via-the-cha.md)
-_Context: French Senate, Eurostar, Entente Cordiale, Queen Elizabeth, Channel Tunnel_
+_Context: Eurostar, Channel Tunnel, Queen Elizabeth, French Senate, Entente Cordiale_
 
 ##### Ottawa
 ### [ Ottawa orders the slaughter of 19 million chickens in British Columbia due to bird flu fears. ](/news/2004/04/5/ottawa-orders-the-slaughter-of-19-million-chickens-in-british-columbia-due-to-bird-flu-fears.md)
-_Context: chicken, British Columbia, Ottawa, Avian flu virus_
+_Context: British Columbia, chicken, Avian flu virus, Ottawa_
 
 ##### Los Angeles Times
 ### [ The "Los Angeles Times" wins five journalism awards in the 2004 Pulitzer Prize. ](/news/2004/04/5/the-los-angeles-times-wins-five-journalism-awards-in-the-2004-pulitzer-prize.md)
-_Context: journalism, 2004 Pulitzer Prize, Los Angeles Times_
+_Context: 2004 Pulitzer Prize, Los Angeles Times, journalism_
 
 ##### traditional rulers
 ### [ Emir Sheikh Hamad bin Khalifa al-Thani, of Qatar, calls upon Arab states to consider United States proposals for democratic reform. He states that Arabs should no longer use the Israeli-Palestinian conflict and security fears to justify delaying such reform. ](/news/2004/04/5/emir-sheikh-hamad-bin-khalifa-al-thani-of-qatar-calls-upon-arab-states-to-consider-united-states-proposals-for-democratic-reform-he-stat.md)
-_Context: Hamad bin Khalifa al-Thani, Sheikh, Arab, Israeli-Palestinian conflict, traditional rulers, Qatar, democratic_
+_Context: Hamad bin Khalifa al-Thani, democratic, Qatar, Sheikh, Arab, traditional rulers, Israeli-Palestinian conflict_
 
 ##### Mordechai Vanunu
 ### [ Mordechai Vanunu seeks to renounce his Israeli citizenship to avoid confinement to the nation after his release from jail. ](/news/2004/04/5/mordechai-vanunu-seeks-to-renounce-his-israeli-citizenship-to-avoid-confinement-to-the-nation-after-his-release-from-jail.md)
@@ -33,15 +33,15 @@ _Context: Norway_
 
 ##### Economist
 ### [ Economists from Harvard and UNC - Chapel Hill determine that peer-to-peer file sharing and music downloads "have an effect on sales which is statistically indistinguishable from zero, despite rather precise estimates." ](/news/2004/04/5/economists-from-harvard-and-unc-chapel-hill-determine-that-peer-to-peer-file-sharing-and-music-downloads-have-an-effect-on-sales-which-i.md)
-_Context: peer-to-peer, Economist, University of North Carolina at Chapel Hill, Harvard University_
+_Context: Harvard University, University of North Carolina at Chapel Hill, Economist, peer-to-peer_
 
 ##### African-American
 ### [ A United States government study finds that an African-American woman was 23 times more likely to be infected with AIDS than is a white woman. Recent studies suggest that 30 percent of all black bisexual men may be infected with HIV. ](/news/2004/04/5/a-united-states-government-study-finds-that-an-african-american-woman-was-23-times-more-likely-to-be-infected-with-aids-than-is-a-white-wom.md)
-_Context: AIDS, bisexuality, African-American_
+_Context: bisexuality, African-American, AIDS_
 
 ##### South Korea
 ### [ In South Korea, Uri Party chairman Chung Dong-young calls on the opposition parties to withdraw the motion for impeachment against President Roh Moo-hyun. ](/news/2004/04/5/in-south-korea-uri-party-chairman-chung-dong-young-calls-on-the-opposition-parties-to-withdraw-the-motion-for-impeachment-against-presiden.md)
-_Context: Uri Party, South Korea, impeachment, South Korean President, Chung Dong-young, chairman, Roh Moo-hyun_
+_Context: Roh Moo-hyun, Chung Dong-young, chairman, impeachment, Uri Party, South Korean President, South Korea_
 
 ##### Islamist
 ### [ Investigators trace ties of international Islamist groups to Madrid train bombers from six international arrest warrants. ](/news/2004/04/5/investigators-trace-ties-of-international-islamist-groups-to-madrid-train-bombers-from-six-international-arrest-warrants.md)
@@ -49,15 +49,15 @@ _Context: Madrid, arrest warrant, Islamist_
 
 ##### Sweden
 ### [ Swedish business weekly "Veckans Affarer" argues that Ingvar Kamprad, a Swede who founded the furniture retail chain store IKEA, has overtaken Microsoft's Bill Gates as the world's richest person. IKEA disagrees, stating that he does not personally own the company. ](/news/2004/04/5/swedish-business-weekly-veckans-affa-rer-argues-that-ingvar-kamprad-a-swede-who-founded-the-furniture-retail-chain-store-ikea-has-overt.md)
-_Context: chain store, IKEA, world's richest person, Sweden, furniture, Ingvar Kamprad, Veckans Affarer, retail, Microsoft, Bill Gates_
+_Context: IKEA, world's richest person, Ingvar Kamprad, Microsoft, Sweden, retail, furniture, Bill Gates, chain store, Veckans Affarer_
 
 ##### supplier
 ### [ Australia's biggest supplier of the potential explosive ammonium nitrate will pull the product from its stores in response to concerns it could be used by terrorists. ](/news/2004/04/5/australia-s-biggest-supplier-of-the-potential-explosive-ammonium-nitrate-will-pull-the-product-from-its-stores-in-response-to-concerns-it-c.md)
-_Context: terrorist, supplier, potential, ammonium nitrate, explosive_
+_Context: explosive, supplier, terrorist, ammonium nitrate, potential_
 
 ##### Duma
 ### [ After ""serious social resonance"", the Duma's United Russia majority backpedals from outright support of a bill banning public protests in many public places. ](/news/2004/04/5/after-serious-social-resonance-the-duma-s-united-russia-majority-backpedals-from-outright-support-of-a-bill-banning-public-protests-in.md)
-_Context: bill, ban, United Russia, Duma_
+_Context: Duma, United Russia, bill, ban_
 
 ## [Previous Day...](/news/2004/04/4/index.md)
 

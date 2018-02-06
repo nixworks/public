@@ -17,7 +17,7 @@ The Burmese military’s barbaric acts of violence have left countless women and
 
 ### Changes:
 
-1. [Human Rights Watch (HRW) releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-hrw-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in.md) _2017-11-17 09:30:04 (First version)_
+1. [Human Rights Watch (HRW) releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-hrw-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in.md) _2018-02-06 13:49:31 (First version)_
 1. [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md) _(Current version)_
 
 ### Related:

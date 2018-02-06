@@ -16,8 +16,8 @@ World leaders meeting at a G20 summit in Mexico urge Europe to take all necessar
 
 ### Changes:
 
-1. [2012 G-20 Mexico summit:The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/2012-g-20-mexico-summit-pthe-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md) _2017-08-25 03:35:55 (First version)_
-2. [2012 G-20 Mexico summit:: The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/2012-g-20-mexico-summit-the-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md) _2017-08-27 03:36:05 (Update)_
+1. [2012 G-20 Mexico summit:: The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/2012-g-20-mexico-summit-the-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 G-20 Mexico summit:The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/2012-g-20-mexico-summit-pthe-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md) _2018-02-06 13:49:23 (Update)_
 2. [The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/the-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md) _(Current version)_
 
 ### Related:

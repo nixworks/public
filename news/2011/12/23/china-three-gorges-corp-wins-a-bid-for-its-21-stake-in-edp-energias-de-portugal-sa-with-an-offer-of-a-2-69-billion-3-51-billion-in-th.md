@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-s
 
 ### Changes:
 
-1. [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of -2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-2-69-billion-3-51-billion-in-th.md) _2017-08-27 03:34:53 (First version)_
+1. [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of -2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-2-69-billion-3-51-billion-in-th.md) _2018-02-06 13:49:23 (First version)_
 1. [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of EUR2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-a-2-69-billion-3-51-billion-in-th.md) _(Current version)_
 
 ### Related:

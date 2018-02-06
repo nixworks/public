@@ -17,8 +17,8 @@ Formats: [HTML](/news/2007/09/8/at-least-16-people-are-killed-and-30-injured-in-
 
 ### Changes:
 
-1. [ Islamic insurgency in Algeria (2002-present): At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/islamic-insurgency-in-algeria-2002-present-p-at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barra.md) _2017-08-25 03:20:54 (First version)_
-2. [ Islamic insurgency in Algeria (2002-present):: At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/islamic-insurgency-in-algeria-2002-present-at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barra.md) _2017-08-27 03:20:51 (Update)_
+1. [ Islamic insurgency in Algeria (2002-present): At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/islamic-insurgency-in-algeria-2002-present-p-at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barra.md) _2018-02-06 13:49:18 (First version)_
+2. [ Islamic insurgency in Algeria (2002-present):: At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/islamic-insurgency-in-algeria-2002-present-at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barra.md) _2018-02-06 13:49:18 (Update)_
 2. [ At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barracks-in-the-town-of-dellys-100km-62km-east-of.md) _(Current version)_
 
 ### Related:

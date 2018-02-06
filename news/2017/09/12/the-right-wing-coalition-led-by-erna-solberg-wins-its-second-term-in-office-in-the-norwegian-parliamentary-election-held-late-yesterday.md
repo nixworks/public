@@ -16,7 +16,7 @@ The conservative coalition led by Erna Solberg is projected to win 89 of 169 sea
 
 ### Changes:
 
-1. [The right-wing coaltition lead by Erna Solberg wins their second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coaltition-lead-by-erna-solberg-wins-their-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md) _2017-09-13 03:48:36 (First version)_
+1. [The right-wing coaltition lead by Erna Solberg wins their second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coaltition-lead-by-erna-solberg-wins-their-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md) _2018-02-06 13:49:31 (First version)_
 1. [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md) _(Current version)_
 
 ### Related:

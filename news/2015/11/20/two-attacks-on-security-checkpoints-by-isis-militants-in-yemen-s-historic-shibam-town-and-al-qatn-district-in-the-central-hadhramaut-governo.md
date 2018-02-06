@@ -16,7 +16,7 @@ A number of soldiers and civilians were also injured in the twin attacks in Hadr
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Two attacks on security checkpoints by ISIS militants in Yemen's historic Shibam town and Al Qatn District in the central Hadhramaut Governorate leave at least 15 pro-Hadi government soldiers dead. ](/news/2015/11/20/yemeni-civil-war-2015-two-attacks-on-security-checkpoints-by-isis-militants-in-yemen-s-historic-shibam-town-and-al-qatn-district-in-the-c.md) _2017-08-27 03:43:58 (First version)_
+1. [Yemeni Civil War (2015): Two attacks on security checkpoints by ISIS militants in Yemen's historic Shibam town and Al Qatn District in the central Hadhramaut Governorate leave at least 15 pro-Hadi government soldiers dead. ](/news/2015/11/20/yemeni-civil-war-2015-two-attacks-on-security-checkpoints-by-isis-militants-in-yemen-s-historic-shibam-town-and-al-qatn-district-in-the-c.md) _2018-02-06 13:49:28 (First version)_
 1. [Two attacks on security checkpoints by ISIS militants in Yemen's historic Shibam town and Al Qatn District in the central Hadhramaut Governorate leave at least 15 pro-Hadi government soldiers dead. ](/news/2015/11/20/two-attacks-on-security-checkpoints-by-isis-militants-in-yemen-s-historic-shibam-town-and-al-qatn-district-in-the-central-hadhramaut-governo.md) _(Current version)_
 
 ### Related:

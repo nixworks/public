@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/01/30/israeli-forces-attack-an-arms-convoy-on-the-leb
 
 ### Changes:
 
-1. [Syrian civil war:Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/syrian-civil-war-pisraeli-forces-attack-an-arms-convoy-on-the-lebanonasyria-border-overnight-destined-from-syria-to-hezbollah.md) _2017-08-25 03:37:22 (First version)_
-2. [Syrian civil war:: Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/syrian-civil-war-israeli-forces-attack-an-arms-convoy-on-the-lebanon-syria-border-overnight-destined-from-syria-to-hezbollah.md) _2017-08-27 03:37:33 (Update)_
+1. [Syrian civil war:Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/syrian-civil-war-pisraeli-forces-attack-an-arms-convoy-on-the-lebanonasyria-border-overnight-destined-from-syria-to-hezbollah.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/syrian-civil-war-israeli-forces-attack-an-arms-convoy-on-the-lebanon-syria-border-overnight-destined-from-syria-to-hezbollah.md) _2018-02-06 13:49:24 (Update)_
 2. [Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/israeli-forces-attack-an-arms-convoy-on-the-lebanonasyria-border-overnight-destined-from-syria-to-hezbollah.md) _(Current version)_
 
 ### Related:

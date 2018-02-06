@@ -16,7 +16,7 @@ Kuwait says the suicide bomber who carried out a mosque attack claimed by Islami
 
 ### Changes:
 
-1. [2015 Kuwait mosque bombing: Kuwait claims that the suicide bomber responsible for the attack that killed 27 people was Fahd Suleiman Abdulmohsen al-Qaba'a, a citizen of Saudi Arabia. ](/news/2015/06/28/2015-kuwait-mosque-bombing-kuwait-claims-that-the-suicide-bomber-responsible-for-the-attack-that-killed-27-people-was-fahd-suleiman-abdulmo.md) _2017-08-27 03:42:36 (First version)_
+1. [2015 Kuwait mosque bombing: Kuwait claims that the suicide bomber responsible for the attack that killed 27 people was Fahd Suleiman Abdulmohsen al-Qaba'a, a citizen of Saudi Arabia. ](/news/2015/06/28/2015-kuwait-mosque-bombing-kuwait-claims-that-the-suicide-bomber-responsible-for-the-attack-that-killed-27-people-was-fahd-suleiman-abdulmo.md) _2018-02-06 13:49:27 (First version)_
 1. [Kuwait claims that the suicide bomber responsible for the attack that killed 27 people was Fahd Suleiman Abdulmohsen al-Qaba'a, a citizen of Saudi Arabia. ](/news/2015/06/28/kuwait-claims-that-the-suicide-bomber-responsible-for-the-attack-that-killed-27-people-was-fahd-suleiman-abdulmohsen-al-qaba-a-a-citizen-of.md) _(Current version)_
 
 ### Related:

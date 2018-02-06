@@ -17,8 +17,8 @@ Steering winds could take Ignacio, currently a post-tropical cyclone, into the s
 
 ### Changes:
 
-1. [Tropical Storm Ignacio, currently headed north-northwest away from Hawaii, is anticipated to turn northeast on Sunday, heading for the Alaskan panhandle and northwestern British Columbia. ](/news/2015/09/4/tropical-storm-ignacio-currently-headed-north-northwest-away-from-hawaii-is-anticipated-to-turn-northeast-on-sunday-heading-for-the-alas.md) _2017-08-25 03:42:41 (First version)_
-2. [2015 Pacific hurricane season: Tropical Storm Ignacio, currently headed north-northwest away from Hawaii, is anticipated to turn northeast on Sunday, heading for the Alaskan panhandle and northwestern British Columbia. ](/news/2015/09/4/2015-pacific-hurricane-season-tropical-storm-ignacio-currently-headed-north-northwest-away-from-hawaii-is-anticipated-to-turn-northeast-o.md) _2017-08-27 03:42:58 (Update)_
+1. [Tropical Storm Ignacio, currently headed north-northwest away from Hawaii, is anticipated to turn northeast on Sunday, heading for the Alaskan panhandle and northwestern British Columbia. ](/news/2015/09/4/tropical-storm-ignacio-currently-headed-north-northwest-away-from-hawaii-is-anticipated-to-turn-northeast-on-sunday-heading-for-the-alas.md) _2018-02-06 13:49:27 (First version)_
+2. [2015 Pacific hurricane season: Tropical Storm Ignacio, currently headed north-northwest away from Hawaii, is anticipated to turn northeast on Sunday, heading for the Alaskan panhandle and northwestern British Columbia. ](/news/2015/09/4/2015-pacific-hurricane-season-tropical-storm-ignacio-currently-headed-north-northwest-away-from-hawaii-is-anticipated-to-turn-northeast-o.md) _2018-02-06 13:49:27 (Update)_
 2. [Tropical Storm Ignacio, currently headed north-northwest away from Hawaii, is anticipated to turn northeast on Sunday, heading for the Alaskan panhandle and northwestern British Columbia. ](/news/2015/09/4/tropical-storm-ignacio-currently-headed-north-northwest-away-from-hawaii-is-anticipated-to-turn-northeast-on-sunday-heading-for-the-alask.md) _(Current version)_
 
 ### Related:

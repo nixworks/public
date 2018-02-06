@@ -17,8 +17,8 @@ Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election 
 
 ### Changes:
 
-1. [ Zimbabwe Electoral Crisis Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisisp-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2017-08-25 03:22:27 (First version)_
-2. [ Zimbabwe Electoral Crisis: Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisis-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2017-08-27 03:22:20 (Update)_
+1. [ Zimbabwe Electoral Crisis Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisisp-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2018-02-06 13:49:18 (First version)_
+2. [ Zimbabwe Electoral Crisis: Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisis-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2018-02-06 13:49:18 (Update)_
 2. [ Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.md) _(Current version)_
 
 ### Related:

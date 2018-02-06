@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/yemeni-civil-war-2015-present-at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md) _2017-08-27 03:44:53 (First version)_
+1. [Yemeni Civil War (2015-present): At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/yemeni-civil-war-2015-present-at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md) _2018-02-06 13:49:28 (First version)_
 1. [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md) _(Current version)_
 
 ### Related:

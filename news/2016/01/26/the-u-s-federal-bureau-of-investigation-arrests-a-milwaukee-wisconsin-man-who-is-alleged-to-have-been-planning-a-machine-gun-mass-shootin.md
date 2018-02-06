@@ -18,7 +18,7 @@ Prosecutors say Samy Mohamed Hamzeh targeted a &quot;secret society&quot; that g
 
 ### Changes:
 
-1. [Terrorism in the United States: The U.S. Federal Bureau of Investigation arrests a Milwaukee, Wisconsin, man who is alleged to have been planning a machine gun mass shooting at a local Masonic Temple. ](/news/2016/01/26/terrorism-in-the-united-states-the-u-s-federal-bureau-of-investigation-arrests-a-milwaukee-wisconsin-man-who-is-alleged-to-have-been-pla.md) _2017-08-27 03:44:46 (First version)_
+1. [Terrorism in the United States: The U.S. Federal Bureau of Investigation arrests a Milwaukee, Wisconsin, man who is alleged to have been planning a machine gun mass shooting at a local Masonic Temple. ](/news/2016/01/26/terrorism-in-the-united-states-the-u-s-federal-bureau-of-investigation-arrests-a-milwaukee-wisconsin-man-who-is-alleged-to-have-been-pla.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Federal Bureau of Investigation arrests a Milwaukee, Wisconsin, man who is alleged to have been planning a machine gun mass shooting at a local Masonic Temple. ](/news/2016/01/26/the-u-s-federal-bureau-of-investigation-arrests-a-milwaukee-wisconsin-man-who-is-alleged-to-have-been-planning-a-machine-gun-mass-shootin.md) _(Current version)_
 
 ### Related:

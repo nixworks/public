@@ -16,8 +16,8 @@ The Senegalese legislative elections take place on Sunday, with President Macky 
 
 ### Changes:
 
-1. [Voters in Senegal elect all 150 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-150-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md) _2017-07-30 00:30:06 (First version)_
-2. [Senegalese parliamentary election, 2017: Voters in Senegal elect all 165 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/senegalese-parliamentary-election-2017-voters-in-senegal-elect-all-165-members-of-their-national-assembly-with-former-president-abdoulaye.md) _2017-08-27 03:48:44 (Update)_
+1. [Voters in Senegal elect all 150 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-150-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md) _2018-02-06 13:49:31 (First version)_
+2. [Senegalese parliamentary election, 2017: Voters in Senegal elect all 165 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/senegalese-parliamentary-election-2017-voters-in-senegal-elect-all-165-members-of-their-national-assembly-with-former-president-abdoulaye.md) _2018-02-06 13:49:31 (Update)_
 2. [Voters in Senegal elect all 165 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-165-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md) _(Current version)_
 
 ### Related:

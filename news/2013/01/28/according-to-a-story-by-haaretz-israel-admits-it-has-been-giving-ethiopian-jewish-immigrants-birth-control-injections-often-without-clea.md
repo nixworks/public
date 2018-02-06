@@ -16,7 +16,7 @@ Israel has admitted for the first time that it has been giving Ethiopian Jewish 
 
 ### Changes:
 
-1. [According to a story by ''Haaretz'', Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-cl.md) _2017-08-25 03:37:21 (First version)_
+1. [According to a story by ''Haaretz'', Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-cl.md) _2018-02-06 13:49:24 (First version)_
 1. [According to a story by "Haaretz", Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-clea.md) _(Current version)_
 
 ### Related:

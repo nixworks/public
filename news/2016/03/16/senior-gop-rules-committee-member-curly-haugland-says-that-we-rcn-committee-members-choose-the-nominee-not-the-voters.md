@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/03/16/senior-gop-rules-committee-member-curly-hauglan
 
 ### Changes:
 
-1. [2016 Republican Party presidential primaries:Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". ](/news/2016/03/16/2016-republican-party-presidential-primaries-psenior-gop-rules-committee-member-curly-haugland-says-that-we-rcn-committee-members-choose.md) _2017-08-25 03:44:54 (First version)_
-2. [2016 Republican Party presidential primaries:: Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". ](/news/2016/03/16/2016-republican-party-presidential-primaries-senior-gop-rules-committee-member-curly-haugland-says-that-we-rcn-committee-members-choose.md) _2017-08-27 03:45:16 (Update)_
+1. [2016 Republican Party presidential primaries:: Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". ](/news/2016/03/16/2016-republican-party-presidential-primaries-senior-gop-rules-committee-member-curly-haugland-says-that-we-rcn-committee-members-choose.md) _2018-02-06 13:49:28 (First version)_
+2. [2016 Republican Party presidential primaries:Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". ](/news/2016/03/16/2016-republican-party-presidential-primaries-psenior-gop-rules-committee-member-curly-haugland-says-that-we-rcn-committee-members-choose.md) _2018-02-06 13:49:28 (Update)_
 2. [Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". ](/news/2016/03/16/senior-gop-rules-committee-member-curly-haugland-says-that-we-rcn-committee-members-choose-the-nominee-not-the-voters.md) _(Current version)_
 
 ### Related:

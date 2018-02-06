@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/01/1/an-israeli-airstrike-on-the-gaza-strip-city-of-j
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family. ](/news/2009/01/1/israeli-palestinian-conflict-an-israeli-airstrike-on-the-gaza-strip-city-of-jabalia-kills-senior-hamas-military-commander-nizar-rayan-and.md) _2017-08-27 03:23:16 (First version)_
+1. [ Israeli-Palestinian conflict: An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family. ](/news/2009/01/1/israeli-palestinian-conflict-an-israeli-airstrike-on-the-gaza-strip-city-of-jabalia-kills-senior-hamas-military-commander-nizar-rayan-and.md) _2018-02-06 13:49:18 (First version)_
 1. [ An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family. ](/news/2009/01/1/an-israeli-airstrike-on-the-gaza-strip-city-of-jabalia-kills-senior-hamas-military-commander-nizar-rayan-and-six-members-of-his-family.md) _(Current version)_
 
 ### Related:

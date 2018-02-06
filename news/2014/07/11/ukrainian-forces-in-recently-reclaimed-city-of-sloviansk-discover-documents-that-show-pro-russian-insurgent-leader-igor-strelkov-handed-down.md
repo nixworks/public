@@ -17,7 +17,7 @@ Ukrainian President Petro Poroshenko vowed to &quot;find and destroy&quot; pro-R
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurg.md) _2017-08-27 03:40:58 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurg.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.md) _(Current version)_
 
 ### Related:

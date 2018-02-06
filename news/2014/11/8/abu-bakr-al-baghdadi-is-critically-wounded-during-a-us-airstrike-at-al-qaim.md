@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/8/abu-bakr-al-baghdadi-is-critically-wounded-durin
 
 ### Changes:
 
-1. [Military intervention against ISIS: Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/military-intervention-against-isis-abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md) _2017-08-27 03:41:29 (First version)_
+1. [Military intervention against ISIS: Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/military-intervention-against-isis-abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md) _2018-02-06 13:49:26 (First version)_
 1. [Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md) _(Current version)_
 
 ### Related:

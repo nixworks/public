@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/05/27/the-state-peace-and-development-council-extends
 
 ### Changes:
 
-1. [ Aung San Suu Kyi: The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/aung-san-suu-kyi-the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md) _2017-08-27 03:22:08 (First version)_
+1. [ Aung San Suu Kyi: The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/aung-san-suu-kyi-the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md) _2018-02-06 13:49:18 (First version)_
 1. [ The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md) _(Current version)_
 
 ### Related:

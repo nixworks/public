@@ -11,8 +11,8 @@ Formats: [HTML](/news/2001/11/16/the-first-harry-potter-film-harry-potter-and-th
 
 ### Changes:
 
-1. [ The first Harry Potter film, ''Harry Potter and the Sorcerer's Stone'', is released, grossing US {{Nowrap|$975.8 million in first week}}, becoming the second highest grossing film around the world, behind ''Titanic''.](/news/2001/11/16/the-first-harry-potter-film-harry-potter-and-the-sorcerer-s-stone-is-released-grossing-us-nowrap-975-8-million-in-first-week-b.md) _2017-05-01 03:15:12 (First version)_
-2. [ The first Harry Potter film, ''Harry Potter and the Sorcerer's Stone'', is released, grossing US $975.8 million in first week, becoming the second highest grossing film around the world, behind ''Titanic''.](/news/2001/11/16/the-first-harry-potter-film-harry-potter-and-the-sorcerer-s-stone-is-released-grossing-us-975-8-million-in-first-week-becoming-the.md) _2017-08-25 03:15:11 (Update)_
+1. [ The first Harry Potter film, ''Harry Potter and the Sorcerer's Stone'', is released, grossing US {{Nowrap|$975.8 million in first week}}, becoming the second highest grossing film around the world, behind ''Titanic''.](/news/2001/11/16/the-first-harry-potter-film-harry-potter-and-the-sorcerer-s-stone-is-released-grossing-us-nowrap-975-8-million-in-first-week-b.md) _2018-02-06 13:49:15 (First version)_
+2. [ The first Harry Potter film, ''Harry Potter and the Sorcerer's Stone'', is released, grossing US $975.8 million in first week, becoming the second highest grossing film around the world, behind ''Titanic''.](/news/2001/11/16/the-first-harry-potter-film-harry-potter-and-the-sorcerer-s-stone-is-released-grossing-us-975-8-million-in-first-week-becoming-the.md) _2018-02-06 13:49:15 (Update)_
 2. [ The first Harry Potter film, "Harry Potter and the Sorcerer's Stone", is released, grossing US $975.8 million in first week, becoming the second highest grossing film around the world, behind "Titanic".](/news/2001/11/16/the-first-harry-potter-film-harry-potter-and-the-sorcerer-s-stone-is-released-grossing-us-975-8-million-in-first-week-becoming-the-s.md) _(Current version)_
 
 ### Related:

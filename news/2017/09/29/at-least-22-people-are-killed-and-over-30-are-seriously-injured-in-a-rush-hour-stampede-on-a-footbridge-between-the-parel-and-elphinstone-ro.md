@@ -17,7 +17,7 @@ Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in 
 
 ### Changes:
 
-1. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Prabhadevi railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-prabhadevi-rai.md) _2017-10-01 16:30:06 (First version)_
+1. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Prabhadevi railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-prabhadevi-rai.md) _2018-02-06 13:49:31 (First version)_
 1. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _(Current version)_
 
 ### Related:

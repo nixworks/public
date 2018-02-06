@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/4/former-governor-of-texas-rick-perry-announces-th
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/united-states-presidential-election-2016-former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-part.md) _2017-08-27 03:42:28 (First version)_
+1. [United States presidential election, 2016: Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/united-states-presidential-election-2016-former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-part.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-party.md) _(Current version)_
 
 ### Related:

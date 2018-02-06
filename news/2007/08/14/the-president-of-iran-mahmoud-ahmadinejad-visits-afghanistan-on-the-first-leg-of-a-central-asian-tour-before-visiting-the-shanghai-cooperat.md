@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visit
 
 ### Changes:
 
-1. [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-coopera.md) _2017-08-25 03:20:34 (First version)_
+1. [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-coopera.md) _2018-02-06 13:49:17 (First version)_
 1. [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/08/30/the-un-s-humanitarian-chief-accuses-israel-of-c
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-p-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md) _2017-08-25 03:18:18 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md) _2017-08-27 03:18:13 (Update)_
+1. [ 2006 Israel-Lebanon conflict:: The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict: The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-p-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md) _2018-02-06 13:49:17 (Update)_
 2. [ The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md) _(Current version)_
 
 ### Related:

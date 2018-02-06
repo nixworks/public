@@ -17,7 +17,7 @@ Two bomb attacks - on a restaurant and a mosque - in the central Nigerian city o
 
 ##### Russian military
 ### [A Russian Su-24 military aircraft crashes while taking off from an airfield in the Khabarovsk region in Russian Far East on a nighttime training flight and both pilots are killed. ](/news/2015/07/6/a-russian-su-24-military-aircraft-crashes-while-taking-off-from-an-airfield-in-the-khabarovsk-region-in-russian-far-east-on-a-nighttime-trai.md)
-_Context: Far East, Su-24, Russian military, Khabarovsk region_
+_Context: Khabarovsk region, Russian military, Far East, Su-24_
 
 ##### Ban Ki-Moon
 ### [Ban Ki-Moon, the Secretary-General of the United Nations, calls for a new investigation into the death of former Secretary-General Dag Hammarskjold in a plane crash after a panel he appointed uncovers new evidence. ](/news/2015/07/6/ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-new-investigation-into-the-death-of-former-secretary-general-dag-hamma.md)

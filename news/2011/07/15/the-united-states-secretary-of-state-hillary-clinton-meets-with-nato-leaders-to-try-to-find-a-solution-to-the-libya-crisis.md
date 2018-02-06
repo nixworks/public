@@ -17,8 +17,8 @@ The move gives the rebels access to $30 billion in frozen Libyan assets in the U
 
 ### Changes:
 
-1. [2011 Libyan civil war:The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/2011-libyan-civil-war-pthe-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-c.md) _2017-08-25 03:33:47 (First version)_
-2. [2011 Libyan civil war:: The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/2011-libyan-civil-war-the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya.md) _2017-08-27 03:33:55 (Update)_
+1. [2011 Libyan civil war:: The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/2011-libyan-civil-war-the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/2011-libyan-civil-war-pthe-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-c.md) _2018-02-06 13:49:22 (Update)_
 2. [The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-crisis.md) _(Current version)_
 
 ### Related:

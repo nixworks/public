@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-mosc
 
 ### Changes:
 
-1. [Somali pirates seize the Russian oil tanker {{MV|Moscow University||2}} with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-mv-moscow-university-2-with-23-people-on-board-500-miles-off-the-somali-coast.md) _2017-05-01 03:29:22 (First version)_
-2. [Somali pirates seize the Russian oil tanker Moscow University||2 with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-moscow-university-2-with-23-people-on-board-500-miles-off-the-somali-coast.md) _2017-08-29 03:27:57 (Update)_
+1. [Somali pirates seize the Russian oil tanker {{MV|Moscow University||2}} with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-mv-moscow-university-2-with-23-people-on-board-500-miles-off-the-somali-coast.md) _2018-02-06 13:49:20 (First version)_
+2. [Somali pirates seize the Russian oil tanker Moscow University||2 with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-moscow-university-2-with-23-people-on-board-500-miles-off-the-somali-coast.md) _2018-02-06 13:49:20 (Update)_
 2. [Somali pirates seize the Russian oil tanker Moscow University with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-moscow-university-with-23-people-on-board-500-miles-off-the-somali-coast.md) _(Current version)_
 
 ### Related:

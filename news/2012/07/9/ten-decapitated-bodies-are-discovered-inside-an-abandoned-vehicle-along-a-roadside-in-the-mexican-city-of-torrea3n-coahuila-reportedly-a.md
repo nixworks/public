@@ -17,8 +17,8 @@ Police in northern Mexico find 10 decapitated bodies in the city of Torreon, bel
 
 ### Changes:
 
-1. [Mexican Drug War:Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/mexican-drug-war-pten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahui.md) _2017-08-25 03:36:04 (First version)_
-2. [Mexican Drug War:: Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/mexican-drug-war-ten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahu.md) _2017-08-27 03:36:16 (Update)_
+1. [Mexican Drug War:: Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/mexican-drug-war-ten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahu.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/mexican-drug-war-pten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahui.md) _2018-02-06 13:49:23 (Update)_
 2. [Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/ten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahuila-reportedly-a.md) _(Current version)_
 
 ### Related:

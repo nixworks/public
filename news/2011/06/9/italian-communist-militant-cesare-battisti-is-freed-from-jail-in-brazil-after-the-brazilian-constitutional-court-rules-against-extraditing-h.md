@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/06/9/italian-communist-militant-cesare-battisti-is-fr
 
 ### Changes:
 
-1. [Extradition of Cesare Battisti:Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-pitalian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-c.md) _2017-08-25 03:33:25 (First version)_
-2. [Extradition of Cesare Battisti:: Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional.md) _2017-08-27 03:33:34 (Update)_
+1. [Extradition of Cesare Battisti:Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-pitalian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-c.md) _2018-02-06 13:49:22 (First version)_
+2. [Extradition of Cesare Battisti:: Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional.md) _2018-02-06 13:49:22 (Update)_
 2. [Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-court-rules-against-extraditing-h.md) _(Current version)_
 
 ### Related:

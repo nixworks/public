@@ -18,8 +18,8 @@ The US secretary of state cuts short a three-nation tour of Africa due to a volc
 
 ### Changes:
 
-1. [Eruption of the Nabro Volcano:The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-pthe-long-dormant-nabro-volcano-erupts-in-eritrea.md) _2017-08-25 03:33:28 (First version)_
-2. [Eruption of the Nabro Volcano:: The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-the-long-dormant-nabro-volcano-erupts-in-eritrea.md) _2017-08-27 03:33:36 (Update)_
+1. [Eruption of the Nabro Volcano:: The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-the-long-dormant-nabro-volcano-erupts-in-eritrea.md) _2018-02-06 13:49:22 (First version)_
+2. [Eruption of the Nabro Volcano:The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-pthe-long-dormant-nabro-volcano-erupts-in-eritrea.md) _2018-02-06 13:49:22 (Update)_
 2. [The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/the-long-dormant-nabro-volcano-erupts-in-eritrea.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Australian search officials saidon Thursday they had finished searching an area 
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370:The Australian Transport Safety Bureau reports that they have finished searching an area where pings were heard in April and have discounted it as the final resting place for the plane. ](/news/2014/05/29/malaysia-airlines-flight-370-pthe-australian-transport-safety-bureau-reports-that-they-have-finished-searching-an-area-where-pings-were-hear.md) _2017-08-25 03:40:28 (First version)_
-2. [Malaysia Airlines Flight 370:: The Australian Transport Safety Bureau reports that they have finished searching an area where pings were heard in April and have discounted it as the final resting place for the plane. ](/news/2014/05/29/malaysia-airlines-flight-370-the-australian-transport-safety-bureau-reports-that-they-have-finished-searching-an-area-where-pings-were-hea.md) _2017-08-27 03:40:46 (Update)_
+1. [Malaysia Airlines Flight 370:: The Australian Transport Safety Bureau reports that they have finished searching an area where pings were heard in April and have discounted it as the final resting place for the plane. ](/news/2014/05/29/malaysia-airlines-flight-370-the-australian-transport-safety-bureau-reports-that-they-have-finished-searching-an-area-where-pings-were-hea.md) _2018-02-06 13:49:26 (First version)_
+2. [Malaysia Airlines Flight 370:The Australian Transport Safety Bureau reports that they have finished searching an area where pings were heard in April and have discounted it as the final resting place for the plane. ](/news/2014/05/29/malaysia-airlines-flight-370-pthe-australian-transport-safety-bureau-reports-that-they-have-finished-searching-an-area-where-pings-were-hear.md) _2018-02-06 13:49:26 (Update)_
 2. [The Australian Transport Safety Bureau reports that they have finished searching an area where pings were heard in April and have discounted it as the final resting place for the plane. ](/news/2014/05/29/the-australian-transport-safety-bureau-reports-that-they-have-finished-searching-an-area-where-pings-were-heard-in-april-and-have-discounted.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Carl Icahn has been subpoenaed by U.S. prosecutors in New York over his role adv
 
 ### Changes:
 
-1. [Federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md) _2017-11-09 09:30:06 (First version)_
+1. [Federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md) _(Current version)_
 
 ### Related:

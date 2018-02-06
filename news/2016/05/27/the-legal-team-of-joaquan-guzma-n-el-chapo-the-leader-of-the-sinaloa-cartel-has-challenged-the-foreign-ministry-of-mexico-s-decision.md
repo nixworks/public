@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-
 
 ### Changes:
 
-1. [The legal team of Joaquin Guzman (''El Chapo''), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decisio.md) _2017-08-25 03:45:46 (First version)_
+1. [The legal team of Joaquin Guzman (''El Chapo''), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decisio.md) _2018-02-06 13:49:29 (First version)_
 1. [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md) _(Current version)_
 
 ### Related:

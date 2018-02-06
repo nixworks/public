@@ -16,8 +16,8 @@ A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 peop
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twen.md) _2017-08-25 03:39:01 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twe.md) _2017-08-27 03:39:16 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/iraqi-insurgency-post-u-s-withdrawal-pa-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twen.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twe.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twenty-people.md) _(Current version)_
 
 ### Related:

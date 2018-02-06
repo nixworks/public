@@ -17,7 +17,7 @@ The flames are now &quot;under control&quot; but there is no word on the safety 
 
 ### Changes:
 
-1. [A fire breaks out at a cafe and shop at the London Zoo. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo.md) _2017-12-23 15:30:06 (First version)_
+1. [A fire breaks out at a cafe and shop at the London Zoo. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo.md) _2018-02-06 13:49:31 (First version)_
 1. [A fire breaks out at a cafe and shop at the London Zoo. An aardvark is killed and four meerkats are missing. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo-an-aardvark-is-killed-and-four-meerkats-are-missing.md) _(Current version)_
 
 ### Related:

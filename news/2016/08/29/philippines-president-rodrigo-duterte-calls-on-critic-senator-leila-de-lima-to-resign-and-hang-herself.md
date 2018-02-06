@@ -17,7 +17,7 @@ The President tells the feisty lady senator that she should resign amid allegati
 
 ### Changes:
 
-1. [Philippine Drug War: Philippines president Rodrigo Duterte calls on critic senator Leila de Lima to resign and "hang herself". ](/news/2016/08/29/philippine-drug-war-philippines-president-rodrigo-duterte-calls-on-critic-senator-leila-de-lima-to-resign-and-hang-herself.md) _2017-08-27 03:46:44 (First version)_
+1. [Philippine Drug War: Philippines president Rodrigo Duterte calls on critic senator Leila de Lima to resign and "hang herself". ](/news/2016/08/29/philippine-drug-war-philippines-president-rodrigo-duterte-calls-on-critic-senator-leila-de-lima-to-resign-and-hang-herself.md) _2018-02-06 13:49:29 (First version)_
 1. [Philippines president Rodrigo Duterte calls on critic senator Leila de Lima to resign and "hang herself". ](/news/2016/08/29/philippines-president-rodrigo-duterte-calls-on-critic-senator-leila-de-lima-to-resign-and-hang-herself.md) _(Current version)_
 
 ### Related:

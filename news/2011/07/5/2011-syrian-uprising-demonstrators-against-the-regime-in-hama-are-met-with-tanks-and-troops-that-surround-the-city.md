@@ -22,8 +22,8 @@ At least 16 people reported killed by Syrian forces in city that has become foca
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian uprising:Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-p2011-syrian-uprising-pdemonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _2017-08-25 03:33:42 (First version)_
-2. [Arab Spring:: 2011 Syrian uprising:: Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-2011-syrian-uprising-demonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _2017-08-27 03:33:49 (Update)_
+1. [Arab Spring:2011 Syrian uprising:Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-p2011-syrian-uprising-pdemonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian uprising:: Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-2011-syrian-uprising-demonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian uprising:Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/2011-syrian-uprising-demonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md) _(Current version)_
 
 ### Related:

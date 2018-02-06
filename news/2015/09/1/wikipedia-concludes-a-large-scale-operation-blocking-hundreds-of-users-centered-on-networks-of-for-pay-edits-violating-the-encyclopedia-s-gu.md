@@ -18,7 +18,7 @@ Rogue editors charged businesses and celebrities for Wikipedia entries and deman
 
 ### Changes:
 
-1. [Conflict-of-interest editing on Wikipedia: Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/conflict-of-interest-editing-on-wikipedia-wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-fo.md) _2017-08-27 03:42:56 (First version)_
+1. [Conflict-of-interest editing on Wikipedia: Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/conflict-of-interest-editing-on-wikipedia-wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-fo.md) _2018-02-06 13:49:27 (First version)_
 1. [Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-for-pay-edits-violating-the-encyclopedia-s-gu.md) _(Current version)_
 
 ### Related:

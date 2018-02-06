@@ -16,8 +16,8 @@ Closing statements were heard today in the fraud trial of the celebrity chef&#39
 
 ### Changes:
 
-1. [''R v Grillo and Grillo:British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/r-v-grillo-and-grillo-pbritish-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md) _2017-08-25 03:39:44 (First version)_
-2. ["R v Grillo and Grillo:: British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/r-v-grillo-and-grillo-british-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md) _2017-08-27 03:40:02 (Update)_
+1. [''R v Grillo and Grillo:British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/r-v-grillo-and-grillo-pbritish-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md) _2018-02-06 13:49:25 (First version)_
+2. ["R v Grillo and Grillo:: British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/r-v-grillo-and-grillo-british-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md) _2018-02-06 13:49:25 (Update)_
 2. [British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/british-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md) _(Current version)_
 
 ### Related:

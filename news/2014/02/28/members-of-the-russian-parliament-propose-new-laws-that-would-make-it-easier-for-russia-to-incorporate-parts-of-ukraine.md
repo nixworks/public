@@ -22,8 +22,8 @@ Russian MPs propose new laws that would make it easier for Russia to incorporate
 
 ### Changes:
 
-1. [2014 Ukrainian revolution, 2014 Crimean crisis:Members of the Russian Parliament propose new laws that would make it easier for Russia to incorporate parts of Ukraine. ](/news/2014/02/28/2014-ukrainian-revolution-2014-crimean-crisis-pmembers-of-the-russian-parliament-propose-new-laws-that-would-make-it-easier-for-russia-to-i.md) _2017-05-01 03:43:33 (First version)_
-2. [2014 Ukrainian revolution: 2014 Crimean crisis: Members of the Russian Parliament propose new laws that would make it easier for Russia to incorporate parts of Ukraine. ](/news/2014/02/28/2014-ukrainian-revolution-2014-crimean-crisis-members-of-the-russian-parliament-propose-new-laws-that-would-make-it-easier-for-russia-to-i.md) _2017-08-27 03:40:24 (Update)_
+1. [2014 Ukrainian revolution, 2014 Crimean crisis:Members of the Russian Parliament propose new laws that would make it easier for Russia to incorporate parts of Ukraine. ](/news/2014/02/28/2014-ukrainian-revolution-2014-crimean-crisis-pmembers-of-the-russian-parliament-propose-new-laws-that-would-make-it-easier-for-russia-to-i.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Ukrainian revolution: 2014 Crimean crisis: Members of the Russian Parliament propose new laws that would make it easier for Russia to incorporate parts of Ukraine. ](/news/2014/02/28/2014-ukrainian-revolution-2014-crimean-crisis-members-of-the-russian-parliament-propose-new-laws-that-would-make-it-easier-for-russia-to-i.md) _2018-02-06 13:49:25 (Update)_
 2. [Members of the Russian Parliament propose new laws that would make it easier for Russia to incorporate parts of Ukraine. ](/news/2014/02/28/members-of-the-russian-parliament-propose-new-laws-that-would-make-it-easier-for-russia-to-incorporate-parts-of-ukraine.md) _(Current version)_
 
 ### Related:

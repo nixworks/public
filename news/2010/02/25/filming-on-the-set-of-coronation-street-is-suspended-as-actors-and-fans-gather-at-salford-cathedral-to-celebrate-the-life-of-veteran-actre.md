@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/25/filming-on-the-set-of-coronation-street-is-susp
 
 ### Changes:
 
-1. [Filming on the set of ''Coronation Street'' is suspended as actors and fans gather at Salford Cathedral to celebrate the life of veteran actress Maggie Jones (Blanche Hunt). ](/news/2010/02/25/filming-on-the-set-of-coronation-street-is-suspended-as-actors-and-fans-gather-at-salford-cathedral-to-celebrate-the-life-of-veteran-act.md) _2017-08-25 03:27:13 (First version)_
+1. [Filming on the set of ''Coronation Street'' is suspended as actors and fans gather at Salford Cathedral to celebrate the life of veteran actress Maggie Jones (Blanche Hunt). ](/news/2010/02/25/filming-on-the-set-of-coronation-street-is-suspended-as-actors-and-fans-gather-at-salford-cathedral-to-celebrate-the-life-of-veteran-act.md) _2018-02-06 13:49:19 (First version)_
 1. [Filming on the set of "Coronation Street" is suspended as actors and fans gather at Salford Cathedral to celebrate the life of veteran actress Maggie Jones (Blanche Hunt). ](/news/2010/02/25/filming-on-the-set-of-coronation-street-is-suspended-as-actors-and-fans-gather-at-salford-cathedral-to-celebrate-the-life-of-veteran-actre.md) _(Current version)_
 
 ### Related:

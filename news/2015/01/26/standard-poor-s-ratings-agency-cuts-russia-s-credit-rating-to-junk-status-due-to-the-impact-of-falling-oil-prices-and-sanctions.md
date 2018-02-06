@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/01/26/standard-poor-s-ratings-agency-cuts-russia-s-cr
 
 ### Changes:
 
-1. [2014-15 Russian financial crisis: Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/2014-15-russian-financial-crisis-standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling.md) _2017-08-27 03:41:50 (First version)_
+1. [2014-15 Russian financial crisis: Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/2014-15-russian-financial-crisis-standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling.md) _2018-02-06 13:49:26 (First version)_
 1. [Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling-oil-prices-and-sanctions.md) _(Current version)_
 
 ### Related:

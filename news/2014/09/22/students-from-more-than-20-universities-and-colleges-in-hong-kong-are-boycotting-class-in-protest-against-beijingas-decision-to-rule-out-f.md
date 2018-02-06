@@ -16,7 +16,7 @@ Week-long boycott of classes in protest against Beijing’s decision to rule out
 
 ### Changes:
 
-1. [2014 Hong Kong electoral reform: Students from more than 20 universities and colleges in Hong Kong are boycotting class in protest against Beijing-s decision to rule out fully democratic elections. ](/news/2014/09/22/2014-hong-kong-electoral-reform-students-from-more-than-20-universities-and-colleges-in-hong-kong-are-boycotting-class-in-protest-against-b.md) _2017-08-27 03:41:19 (First version)_
+1. [2014 Hong Kong electoral reform: Students from more than 20 universities and colleges in Hong Kong are boycotting class in protest against Beijing-s decision to rule out fully democratic elections. ](/news/2014/09/22/2014-hong-kong-electoral-reform-students-from-more-than-20-universities-and-colleges-in-hong-kong-are-boycotting-class-in-protest-against-b.md) _2018-02-06 13:49:26 (First version)_
 1. [Students from more than 20 universities and colleges in Hong Kong are boycotting class in protest against Beijing's decision to rule out fully democratic elections. ](/news/2014/09/22/students-from-more-than-20-universities-and-colleges-in-hong-kong-are-boycotting-class-in-protest-against-beijingas-decision-to-rule-out-f.md) _(Current version)_
 
 ### Related:

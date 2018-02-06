@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/01/10/hundreds-of-thousands-of-iranians-gather-in-teh
 
 ### Changes:
 
-1. [Death and state funeral of Akbar Hashemi Rafsanjani: Hundreds of thousands of Iranians gather in Tehran for the funeral of former president Akbar Hashemi Rafsanjani. ](/news/2017/01/10/death-and-state-funeral-of-akbar-hashemi-rafsanjani-hundreds-of-thousands-of-iranians-gather-in-tehran-for-the-funeral-of-former-president.md) _2017-08-27 03:47:35 (First version)_
+1. [Death and state funeral of Akbar Hashemi Rafsanjani: Hundreds of thousands of Iranians gather in Tehran for the funeral of former president Akbar Hashemi Rafsanjani. ](/news/2017/01/10/death-and-state-funeral-of-akbar-hashemi-rafsanjani-hundreds-of-thousands-of-iranians-gather-in-tehran-for-the-funeral-of-former-president.md) _2018-02-06 13:49:30 (First version)_
 1. [Hundreds of thousands of Iranians gather in Tehran for the funeral of former president Akbar Hashemi Rafsanjani. ](/news/2017/01/10/hundreds-of-thousands-of-iranians-gather-in-tehran-for-the-funeral-of-former-president-akbar-hashemi-rafsanjani.md) _(Current version)_
 
 ### Related:

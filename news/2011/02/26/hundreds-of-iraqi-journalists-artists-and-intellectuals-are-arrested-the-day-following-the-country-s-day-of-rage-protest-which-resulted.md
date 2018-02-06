@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/02/26/hundreds-of-iraqi-journalists-artists-and-intel
 
 ### Changes:
 
-1. [2011 Iraqi protests: Hundreds of Iraqi journalists, artists, and intellectuals are arrested the day following the country's "Day of Rage" protest, which resulted in at least twenty-nine deaths throughout the country.](/news/2011/02/26/2011-iraqi-protests-hundreds-of-iraqi-journalists-artists-and-intellectuals-are-arrested-the-day-following-the-country-s-day-of-rage-pr.md) _2017-08-27 03:32:29 (First version)_
+1. [2011 Iraqi protests: Hundreds of Iraqi journalists, artists, and intellectuals are arrested the day following the country's "Day of Rage" protest, which resulted in at least twenty-nine deaths throughout the country.](/news/2011/02/26/2011-iraqi-protests-hundreds-of-iraqi-journalists-artists-and-intellectuals-are-arrested-the-day-following-the-country-s-day-of-rage-pr.md) _2018-02-06 13:49:22 (First version)_
 1. [Hundreds of Iraqi journalists, artists, and intellectuals are arrested the day following the country's "Day of Rage" protest, which resulted in at least twenty-nine deaths throughout the country.](/news/2011/02/26/hundreds-of-iraqi-journalists-artists-and-intellectuals-are-arrested-the-day-following-the-country-s-day-of-rage-protest-which-resulted.md) _(Current version)_
 
 ### Related:

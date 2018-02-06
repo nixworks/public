@@ -16,7 +16,7 @@ Shellfire from Yemen killed one civilian and a member of the security forces in 
 
 ### Changes:
 
-1. [Yemeni Civil War (2015): Shellfire from Yemen kills two people over the border in Saudi Arabia. ](/news/2015/05/26/yemeni-civil-war-2015-shellfire-from-yemen-kills-two-people-over-the-border-in-saudi-arabia.md) _2017-08-27 03:42:24 (First version)_
+1. [Yemeni Civil War (2015): Shellfire from Yemen kills two people over the border in Saudi Arabia. ](/news/2015/05/26/yemeni-civil-war-2015-shellfire-from-yemen-kills-two-people-over-the-border-in-saudi-arabia.md) _2018-02-06 13:49:27 (First version)_
 1. [Shellfire from Yemen kills two people over the border in Saudi Arabia. ](/news/2015/05/26/shellfire-from-yemen-kills-two-people-over-the-border-in-saudi-arabia.md) _(Current version)_
 
 ### Related:

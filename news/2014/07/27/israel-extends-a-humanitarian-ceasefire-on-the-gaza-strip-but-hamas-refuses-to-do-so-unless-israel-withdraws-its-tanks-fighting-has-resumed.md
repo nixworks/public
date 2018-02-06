@@ -18,8 +18,8 @@ The new move came after a crisis meeting of Israeli cabinet late night
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict:Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/2014-israelagaza-conflict-pisrael-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-it.md) _2017-08-25 03:40:46 (First version)_
-2. [2014 Israel-Gaza conflict:: Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/2014-israel-gaza-conflict-israel-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-i.md) _2017-08-27 03:41:04 (Update)_
+1. [2014 Israel-Gaza conflict:Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/2014-israelagaza-conflict-pisrael-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-it.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Israel-Gaza conflict:: Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/2014-israel-gaza-conflict-israel-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-i.md) _2018-02-06 13:49:26 (Update)_
 2. [Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/israel-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-its-tanks-fighting-has-resumed.md) _(Current version)_
 
 ### Related:

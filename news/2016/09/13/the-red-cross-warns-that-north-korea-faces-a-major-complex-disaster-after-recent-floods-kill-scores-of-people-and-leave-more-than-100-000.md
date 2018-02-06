@@ -16,7 +16,7 @@ The Red Cross says flooding in North Korea has killed scores and left more than 
 
 ### Changes:
 
-1. [2016 North Korean floods: The Red Cross warns that North Korea faces a "major, complex disaster" after recent floods kill scores of people and leave more than 100,000 homeless. ](/news/2016/09/13/2016-north-korean-floods-the-red-cross-warns-that-north-korea-faces-a-major-complex-disaster-after-recent-floods-kill-scores-of-people-a.md) _2017-08-27 03:46:50 (First version)_
+1. [2016 North Korean floods: The Red Cross warns that North Korea faces a "major, complex disaster" after recent floods kill scores of people and leave more than 100,000 homeless. ](/news/2016/09/13/2016-north-korean-floods-the-red-cross-warns-that-north-korea-faces-a-major-complex-disaster-after-recent-floods-kill-scores-of-people-a.md) _2018-02-06 13:49:29 (First version)_
 1. [The Red Cross warns that North Korea faces a "major, complex disaster" after recent floods kill scores of people and leave more than 100,000 homeless. ](/news/2016/09/13/the-red-cross-warns-that-north-korea-faces-a-major-complex-disaster-after-recent-floods-kill-scores-of-people-and-leave-more-than-100-000.md) _(Current version)_
 
 ### Related:

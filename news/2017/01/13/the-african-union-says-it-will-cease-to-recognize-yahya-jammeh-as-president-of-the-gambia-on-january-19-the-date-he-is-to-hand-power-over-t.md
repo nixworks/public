@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/13/the-african-union-says-it-will-cease-to-recogni
 
 ### Changes:
 
-1. [Aftermath of the The African Union says it will cease to recognize Yahya Jammeh as President of The Gambia on January 19, the date he is to hand power over to his opponent Adama Barrow, who won last year's election. ](/news/2017/01/13/aftermath-of-the-the-african-union-says-it-will-cease-to-recognize-yahya-jammeh-as-president-of-the-gambia-on-january-19-the-date-he-is-to.md) _2017-08-25 03:47:12 (First version)_
+1. [Aftermath of the The African Union says it will cease to recognize Yahya Jammeh as President of The Gambia on January 19, the date he is to hand power over to his opponent Adama Barrow, who won last year's election. ](/news/2017/01/13/aftermath-of-the-the-african-union-says-it-will-cease-to-recognize-yahya-jammeh-as-president-of-the-gambia-on-january-19-the-date-he-is-to.md) _2018-02-06 13:49:30 (First version)_
 1. [The African Union says it will cease to recognize Yahya Jammeh as President of The Gambia on January 19, the date he is to hand power over to his opponent Adama Barrow, who won last year's election. ](/news/2017/01/13/the-african-union-says-it-will-cease-to-recognize-yahya-jammeh-as-president-of-the-gambia-on-january-19-the-date-he-is-to-hand-power-over-t.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ Nelson Mandela is not attending the opening game of the World Cup today followin
 
 ### Changes:
 
-1. [2010 FIFA World Cup:The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-pthe-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _2017-08-25 03:28:13 (First version)_
-2. [2010 FIFA World Cup:: The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _2017-08-27 03:28:12 (Update)_
+1. [2010 FIFA World Cup:: The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 FIFA World Cup:The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-pthe-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _2018-02-06 13:49:20 (Update)_
 2. [The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _(Current version)_
 
 ### Related:

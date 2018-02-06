@@ -18,8 +18,8 @@ Australia expels an Israel diplomat after a probe blames Israel for the use of f
 
 ### Changes:
 
-1. [Israel:President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-ppresident-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _2017-08-25 03:28:00 (First version)_
-2. [Israel:: President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _2017-08-27 03:27:59 (Update)_
+1. [Israel:: President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _2018-02-06 13:49:20 (First version)_
+2. [Israel:President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-ppresident-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _2018-02-06 13:49:20 (Update)_
 2. [President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md) _(Current version)_
 
 ### Related:

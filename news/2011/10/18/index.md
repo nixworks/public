@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/18/index.html)  [JSON](2011/10/18/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: At least 25 people are killed in the Syrian city of Homs after tanks and security troops open fire on anti-regime protesters. ](/news/2011/10/18/2011-syrian-uprising-at-least-25-people-are-killed-in-the-syrian-city-of-homs-after-tanks-and-security-troops-open-fire-on-anti-regime-prot.md)
-_Context: Syria, Homs, 2011 Syrian uprising_
+_Context: Homs, Syria, 2011 Syrian uprising_
 
 ##### Kenyan Army
 ### [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120 km from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-from.md)
@@ -21,11 +21,11 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 
 ##### Motorola
 ### [Motorola introduces the Droid RAZR, the world's thinnest smartphone. ](/news/2011/10/18/motorola-introduces-the-droid-razr-the-world-s-thinnest-smartphone.md)
-_Context: Droid RAZR, Motorola_
+_Context: Motorola, Droid RAZR_
 
 ##### Taiwan
 ### [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md)
-_Context: patent infringement, United States, Apple Inc., HTC, smartphone, Taiwan, iPhone, patent, United States International Trade Commission_
+_Context: patent infringement, Taiwan, HTC, Apple Inc., iPhone, United States, smartphone, United States International Trade Commission, patent_
 
 ##### Harrisburg
 ### [A bill to takeover the capital city of Harrisburg, rather than have it file for Chapter 9, clears the Pennsylvania State Legislature. The Governor of Pennsylvania, Tom Corbett, is expected to sign it. ](/news/2011/10/18/a-bill-to-takeover-the-capital-city-of-harrisburg-rather-than-have-it-file-for-chapter-9-clears-the-pennsylvania-state-legislature-the-go.md)
@@ -37,11 +37,11 @@ Sir Richard Branson has dedicated the launchpad for his space tourism venture in
 
 ##### Governor
 ### [The Governor of Bangkok, Sukhumbhand Paribatra, appeals for 1.2 million sandbags to protect the Thai capital from encroaching floods, which have killed over 300 people nationwide since July. ](/news/2011/10/18/the-governor-of-bangkok-sukhumbhand-paribatra-appeals-for-1-2-million-sandbags-to-protect-the-thai-capital-from-encroaching-floods-which.md)
-_Context: Thailand, sandbag, floods, Bangkok, Sukhumbhand Paribatra, Governor_
+_Context: Governor, Sukhumbhand Paribatra, Thailand, sandbag, floods, Bangkok_
 
 ##### Israel
 ### [Israel and the Palestinian militant organization Hamas begin a major prisoner swap, in which the captured Israeli Army soldier Gilad Shalit is released by Hamas in exchange for 1,027 Palestinian and Israeli-Arab prisoners held in Israel. Among the prisoners released are 280 prisoners serving life sentences for planning and perpetrating terror attacks. ](/news/2011/10/18/israel-and-the-palestinian-militant-organization-hamas-begin-a-major-prisoner-swap-in-which-the-captured-israeli-army-soldier-gilad-shalit.md)
-_Context: Hamas, life in prison, Gilad Shalit, Israeli Army, Israel, Gilad Shalit prisoner exchange, Palestine, Israeli-Arab_
+_Context: Israeli Army, Gilad Shalit, Israeli-Arab, life in prison, Gilad Shalit prisoner exchange, Israel, Palestine, Hamas_
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton makes an unannounced visit to the Libyan capital Tripoli, aiming to strengthen ties between the United States and the National Transitional Council, which has established itself as Libya's ruling body following the ousting of Muammar Gaddafi. ](/news/2011/10/18/united-states-secretary-of-state-hillary-clinton-makes-an-unannounced-visit-to-the-libyan-capital-tripoli-aiming-to-strengthen-ties-between.md)
@@ -49,7 +49,7 @@ US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed 
 
 ##### illegal immigrants
 ### [About 400,000 illegal immigrants were deported from the United States in the 2011 fiscal year, the most deportations ever in United States history, according to a report released by U.S. Immigration and Customs Enforcement. ](/news/2011/10/18/about-400-000-illegal-immigrants-were-deported-from-the-united-states-in-the-2011-fiscal-year-the-most-deportations-ever-in-united-states-h.md)
-_Context: illegal immigrants, United States history, fiscal year, U.S. Immigration and Customs Enforcement, deported_
+_Context: illegal immigrants, fiscal year, United States history, deported, U.S. Immigration and Customs Enforcement_
 
 ##### World Health Organisation
 ### [The World Health Organisation reports that global malaria deaths have fallen by over 20% since 2001, claiming that over 30 countries are on course to eradicate the mosquito-borne disease by 2020. ](/news/2011/10/18/the-world-health-organisation-reports-that-global-malaria-deaths-have-fallen-by-over-20-since-2001-claiming-that-over-30-countries-are-on.md)

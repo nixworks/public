@@ -16,7 +16,7 @@ The Arab League is to ask the United Nations Security Council to back its plan t
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011-2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md) _2017-08-27 03:35:03 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011-2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md) _(Current version)_
 
 ### Related:

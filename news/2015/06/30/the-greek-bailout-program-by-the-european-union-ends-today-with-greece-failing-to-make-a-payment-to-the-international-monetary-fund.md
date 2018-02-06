@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/06/30/the-greek-bailout-program-by-the-european-union
 
 ### Changes:
 
-1. [Greek government-debt crisis: The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/greek-government-debt-crisis-the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-intern.md) _2017-08-27 03:42:37 (First version)_
+1. [Greek government-debt crisis: The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/greek-government-debt-crisis-the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-intern.md) _2018-02-06 13:49:27 (First version)_
 1. [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md) _(Current version)_
 
 ### Related:

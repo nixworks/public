@@ -16,8 +16,8 @@ Gunmen killed 12 people in a raid on a northeastern Nigerian village on Saturday
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Gunmen kill 12 people in a raid on a Northeastern Nigerian village. ](/news/2013/11/23/islamist-insurgency-in-nigeria-pgunmen-kill-12-people-in-a-raid-on-a-northeastern-nigerian-village.md) _2017-08-25 03:39:34 (First version)_
-2. [Islamist insurgency in Nigeria:: Gunmen kill 12 people in a raid on a Northeastern Nigerian village. ](/news/2013/11/23/islamist-insurgency-in-nigeria-gunmen-kill-12-people-in-a-raid-on-a-northeastern-nigerian-village.md) _2017-08-27 03:39:52 (Update)_
+1. [Islamist insurgency in Nigeria:Gunmen kill 12 people in a raid on a Northeastern Nigerian village. ](/news/2013/11/23/islamist-insurgency-in-nigeria-pgunmen-kill-12-people-in-a-raid-on-a-northeastern-nigerian-village.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Gunmen kill 12 people in a raid on a Northeastern Nigerian village. ](/news/2013/11/23/islamist-insurgency-in-nigeria-gunmen-kill-12-people-in-a-raid-on-a-northeastern-nigerian-village.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen kill 12 people in a raid on a Northeastern Nigerian village. ](/news/2013/11/23/gunmen-kill-12-people-in-a-raid-on-a-northeastern-nigerian-village.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Sirens sound in southern Israel; no immediate reports of injuries or damage
 
 ### Changes:
 
-1. [For the second time this week, a rocket fired from Gaza lands in Israel. There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-reports-of-injuries-or-claims-of-responsi.md) _2017-08-25 03:42:11 (First version)_
-2. [Palestinian rocket attacks on Israel: For the second time this week, a rocket fired from Gaza lands in Israel. There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/palestinian-rocket-attacks-on-israel-for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-repor.md) _2017-08-27 03:42:29 (Update)_
+1. [Palestinian rocket attacks on Israel: For the second time this week, a rocket fired from Gaza lands in Israel. There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/palestinian-rocket-attacks-on-israel-for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-repor.md) _2018-02-06 13:49:27 (First version)_
+2. [For the second time this week, a rocket fired from Gaza lands in Israel. There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-reports-of-injuries-or-claims-of-responsi.md) _2018-02-06 13:49:27 (Update)_
 2. [For the second time this week, a rocket fired from Gaza lands in Israel. There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-reports-of-injuries-or-claims-of-responsib.md) _(Current version)_
 
 ### Related:

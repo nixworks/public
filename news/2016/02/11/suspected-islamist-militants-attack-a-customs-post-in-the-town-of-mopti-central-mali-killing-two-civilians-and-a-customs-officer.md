@@ -16,7 +16,7 @@ Suspected Islamist militants killed two civilians and a customs officer and burn
 
 ### Changes:
 
-1. [Northern Mali conflict: Suspected Islamist militants attack a customs post in the town of Mopti, central Mali, killing two civilians and a customs officer. ](/news/2016/02/11/northern-mali-conflict-suspected-islamist-militants-attack-a-customs-post-in-the-town-of-mopti-central-mali-killing-two-civilians-and-a-c.md) _2017-08-27 03:44:53 (First version)_
+1. [Northern Mali conflict: Suspected Islamist militants attack a customs post in the town of Mopti, central Mali, killing two civilians and a customs officer. ](/news/2016/02/11/northern-mali-conflict-suspected-islamist-militants-attack-a-customs-post-in-the-town-of-mopti-central-mali-killing-two-civilians-and-a-c.md) _2018-02-06 13:49:28 (First version)_
 1. [Suspected Islamist militants attack a customs post in the town of Mopti, central Mali, killing two civilians and a customs officer. ](/news/2016/02/11/suspected-islamist-militants-attack-a-customs-post-in-the-town-of-mopti-central-mali-killing-two-civilians-and-a-customs-officer.md) _(Current version)_
 
 ### Related:

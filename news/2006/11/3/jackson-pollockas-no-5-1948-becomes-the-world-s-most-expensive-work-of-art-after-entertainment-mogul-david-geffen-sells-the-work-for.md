@@ -16,8 +16,8 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Changes:
 
-1. [ Jackson Pollock's ''No. 5, 1948'' becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollockas-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-f.md) _2017-08-25 03:18:43 (First version)_
-2. [ Jackson Pollock-s "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollock-s-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md) _2017-08-27 03:18:37 (Update)_
+1. [ Jackson Pollock's ''No. 5, 1948'' becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollockas-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-f.md) _2018-02-06 13:49:17 (First version)_
+2. [ Jackson Pollock-s "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollock-s-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md) _2018-02-06 13:49:17 (Update)_
 2. [ Jackson Pollock's "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollockas-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md) _(Current version)_
 
 ### Related:

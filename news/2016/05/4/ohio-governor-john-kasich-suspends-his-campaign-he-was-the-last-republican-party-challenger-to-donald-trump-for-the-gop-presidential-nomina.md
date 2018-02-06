@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-
 
 ### Changes:
 
-1. [United States presidential election, 2016: Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/united-states-presidential-election-2016-ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-d.md) _2017-08-27 03:45:59 (First version)_
+1. [United States presidential election, 2016: Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/united-states-presidential-election-2016-ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-d.md) _2018-02-06 13:49:29 (First version)_
 1. [Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-donald-trump-for-the-gop-presidential-nomina.md) _(Current version)_
 
 ### Related:

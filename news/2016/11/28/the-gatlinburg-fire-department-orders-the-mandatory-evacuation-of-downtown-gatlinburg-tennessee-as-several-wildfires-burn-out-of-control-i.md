@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/28/the-gatlinburg-fire-department-orders-the-manda
 
 ### Changes:
 
-1. [2016 Southeastern United States wildfires: The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/2016-southeastern-united-states-wildfires-the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee.md) _2017-08-27 03:47:19 (First version)_
+1. [2016 Southeastern United States wildfires: The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/2016-southeastern-united-states-wildfires-the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee.md) _2018-02-06 13:49:29 (First version)_
 1. [The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee-as-several-wildfires-burn-out-of-control-i.md) _(Current version)_
 
 ### Related:

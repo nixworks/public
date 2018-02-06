@@ -16,7 +16,7 @@ Exclusive: Perfectly preserved HMS Terror vessel sank during disastrous expediti
 
 ### Changes:
 
-1. [The Arctic Research Foundation discovers the wreck of the Royal Navy's HMS ''Terror'' almost completely intact off the southern coast of King William Island in the Canadian Arctic Archipelago, 168 years after being abandoned during Franklin's lost expedition in 1848. ](/news/2016/09/12/the-arctic-research-foundation-discovers-the-wreck-of-the-royal-navy-s-hms-terror-almost-completely-intact-off-the-southern-coast-of-kin.md) _2017-08-25 03:46:26 (First version)_
+1. [The Arctic Research Foundation discovers the wreck of the Royal Navy's HMS ''Terror'' almost completely intact off the southern coast of King William Island in the Canadian Arctic Archipelago, 168 years after being abandoned during Franklin's lost expedition in 1848. ](/news/2016/09/12/the-arctic-research-foundation-discovers-the-wreck-of-the-royal-navy-s-hms-terror-almost-completely-intact-off-the-southern-coast-of-kin.md) _2018-02-06 13:49:29 (First version)_
 1. [The Arctic Research Foundation discovers the wreck of the Royal Navy's HMS "Terror" almost completely intact off the southern coast of King William Island in the Canadian Arctic Archipelago, 168 years after being abandoned during Franklin's lost expedition in 1848. ](/news/2016/09/12/the-arctic-research-foundation-discovers-the-wreck-of-the-royal-navy-s-hms-terror-almost-completely-intact-off-the-southern-coast-of-king.md) _(Current version)_
 
 ### Related:

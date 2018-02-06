@@ -17,7 +17,7 @@ A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, ac
 
 ### Changes:
 
-1. [The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles) from the West Sumatra port city of Padang in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. ](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitude-earthquake-155-km-95-miles-from-the-west-sumatra-port-city-of-padang-in-indonesia-at.md) _2017-08-25 03:45:48 (First version)_
+1. [The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles) from the West Sumatra port city of Padang in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. ](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitude-earthquake-155-km-95-miles-from-the-west-sumatra-port-city-of-padang-in-indonesia-at.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles) from the West Sumatra port city of Padang in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. ](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitude-earthquake-155-km-95-miles-from-the-west-sumatra-port-city-of-padang-in-indonesia-at-a.md) _(Current version)_
 
 ### Related:

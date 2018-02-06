@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/05/23/thai-film-uncle-boonmee-who-can-recall-his-past
 
 ### Changes:
 
-1. [Thai film ''Uncle Boonmee Who Can Recall His Past Lives'', directed by Apichatpong Weerasethakul ''(pictured)'' wins the Palme d'Or at the Cannes Film Festival much to the surprise of the BBC. ](/news/2010/05/23/thai-film-uncle-boonmee-who-can-recall-his-past-lives-directed-by-apichatpong-weerasethakul-pictured-wins-the-palme-d-or-at-the-c.md) _2017-08-25 03:28:00 (First version)_
+1. [Thai film ''Uncle Boonmee Who Can Recall His Past Lives'', directed by Apichatpong Weerasethakul ''(pictured)'' wins the Palme d'Or at the Cannes Film Festival much to the surprise of the BBC. ](/news/2010/05/23/thai-film-uncle-boonmee-who-can-recall-his-past-lives-directed-by-apichatpong-weerasethakul-pictured-wins-the-palme-d-or-at-the-c.md) _2018-02-06 13:49:20 (First version)_
 1. [Thai film "Uncle Boonmee Who Can Recall His Past Lives", directed by Apichatpong Weerasethakul "(pictured)" wins the Palme d'Or at the Cannes Film Festival much to the surprise of the BBC. ](/news/2010/05/23/thai-film-uncle-boonmee-who-can-recall-his-past-lives-directed-by-apichatpong-weerasethakul-pictured-wins-the-palme-d-or-at-the-canne.md) _(Current version)_
 
 ### Related:

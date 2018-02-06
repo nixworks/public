@@ -19,7 +19,7 @@ France goes to the polls on Sunday for the final round of the presidential elect
 
 ### Changes:
 
-1. [French presidential election, 2017: Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/french-presidential-election-2017-voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of.md) _2017-08-27 03:48:18 (First version)_
+1. [French presidential election, 2017: Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/french-presidential-election-2017-voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of.md) _2018-02-06 13:49:30 (First version)_
 1. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _(Current version)_
 
 ### Related:

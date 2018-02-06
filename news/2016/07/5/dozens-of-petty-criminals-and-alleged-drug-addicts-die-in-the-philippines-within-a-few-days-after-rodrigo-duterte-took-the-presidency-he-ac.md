@@ -17,7 +17,7 @@ Duterte, 71, won power in a landslide after a campaign dominated by threats to k
 
 ### Changes:
 
-1. [Human rights in the Philippines; Dozens of petty criminals and alleged drug addicts die in the Philippines within a few days after Rodrigo Duterte took the presidency. He actively encouraged extrajudicial killing of drug addicts and petty criminals before and after the election. ](/news/2016/07/5/human-rights-in-the-philippines-dozens-of-petty-criminals-and-alleged-drug-addicts-die-in-the-philippines-within-a-few-days-after-rodrigo-d.md) _2017-08-25 03:46:03 (First version)_
+1. [Human rights in the Philippines; Dozens of petty criminals and alleged drug addicts die in the Philippines within a few days after Rodrigo Duterte took the presidency. He actively encouraged extrajudicial killing of drug addicts and petty criminals before and after the election. ](/news/2016/07/5/human-rights-in-the-philippines-dozens-of-petty-criminals-and-alleged-drug-addicts-die-in-the-philippines-within-a-few-days-after-rodrigo-d.md) _2018-02-06 13:49:29 (First version)_
 1. [Dozens of petty criminals and alleged drug addicts die in the Philippines within a few days after Rodrigo Duterte took the presidency. He actively encouraged extrajudicial killing of drug addicts and petty criminals before and after the election. ](/news/2016/07/5/dozens-of-petty-criminals-and-alleged-drug-addicts-die-in-the-philippines-within-a-few-days-after-rodrigo-duterte-took-the-presidency-he-ac.md) _(Current version)_
 
 ### Related:

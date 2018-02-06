@@ -16,8 +16,8 @@ Police say two men were stabbed to death when they tried to intervene as a man s
 
 ### Changes:
 
-1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two Muslim teenage girls. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-muslim-t.md) _2017-05-29 18:30:06 (First version)_
-2. [2017 Portland train attack: Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/2017-portland-train-attack-two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts.md) _2017-08-27 03:48:23 (Update)_
+1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two Muslim teenage girls. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-muslim-t.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Portland train attack: Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/2017-portland-train-attack-two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts.md) _2018-02-06 13:49:30 (Update)_
 2. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md) _(Current version)_
 
 ### Related:

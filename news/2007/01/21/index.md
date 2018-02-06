@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Devon
 ### [ Dozens of containers, some containing toxic chemicals, are washed ashore at Devon, England after MSC "Napoli" ran aground on the coast last Thursday during Kyrill. ](/news/2007/01/21/dozens-of-containers-some-containing-toxic-chemicals-are-washed-ashore-at-devon-england-after-msc-napoli-ran-aground-on-the-coast-last.md)
-_Context: Kyrill, MSC ''Napoli'', Devon_
+_Context: MSC ''Napoli'', Devon, Kyrill_
 
 ##### Palestinian Authority
 ### [ Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Mashal meet together in Syria to try to end violence between the two factions. However, differences remain and talks will resume possibly next week. ](/news/2007/01/21/palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-mashal-meet-together-in-syria-to-try-to-end-violence-between-the-two.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Angela Merkel
 ### [ Angela Merkel, the Chancellor of Germany, holds talks with Vladimir Putin, the President of Russia over energy security issues. ](/news/2007/01/21/angela-merkel-the-chancellor-of-germany-holds-talks-with-vladimir-putin-the-president-of-russia-over-energy-security-issues.md)
-_Context: Russian President, Chancellor, Angela Merkel, Vladimir Putin_
+_Context: Vladimir Putin, Russian President, Chancellor, Angela Merkel_
 
 ##### magnitude
 ### [ A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-m-w-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents.md)
@@ -37,7 +37,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Muqtada al-Sadr
 ### [ Muqtada al-Sadr's bloc lifts its boycott of the Iraqi political process and rejoins the government. ](/news/2007/01/21/muqtada-al-sadr-s-bloc-lifts-its-boycott-of-the-iraqi-political-process-and-rejoins-the-government.md)
-_Context: Muqtada al-Sadr, Iraq, government_
+_Context: Iraq, government, Muqtada al-Sadr_
 
 ##### Ogn  Samast
 ### [ Ogn Samast, who was arrested for murdering Hrant Dink, admits that he has killed Dink. ](/news/2007/01/21/ogun-samast-who-was-arrested-for-murdering-hrant-dink-admits-that-he-has-killed-dink.md)

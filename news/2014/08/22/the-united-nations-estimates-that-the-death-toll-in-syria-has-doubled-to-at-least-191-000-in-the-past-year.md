@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/22/the-united-nations-estimates-that-the-death-tol
 
 ### Changes:
 
-1. [Syrian Civil War: The United Nations estimates that the death toll in Syria has doubled to at least 191,000 in the past year. ](/news/2014/08/22/syrian-civil-war-the-united-nations-estimates-that-the-death-toll-in-syria-has-doubled-to-at-least-191-000-in-the-past-year.md) _2017-08-27 03:41:11 (First version)_
+1. [Syrian Civil War: The United Nations estimates that the death toll in Syria has doubled to at least 191,000 in the past year. ](/news/2014/08/22/syrian-civil-war-the-united-nations-estimates-that-the-death-toll-in-syria-has-doubled-to-at-least-191-000-in-the-past-year.md) _2018-02-06 13:49:26 (First version)_
 1. [The United Nations estimates that the death toll in Syria has doubled to at least 191,000 in the past year. ](/news/2014/08/22/the-united-nations-estimates-that-the-death-toll-in-syria-has-doubled-to-at-least-191-000-in-the-past-year.md) _(Current version)_
 
 ### Related:

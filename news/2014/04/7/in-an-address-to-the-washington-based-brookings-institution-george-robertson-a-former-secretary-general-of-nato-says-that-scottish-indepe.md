@@ -16,7 +16,7 @@ Former secretary general of Nato, Lord Robertson, says Scottish independence wou
 
 ### Changes:
 
-1. [In an address to the Washington-based Brookings Institution, George Robertson, a former Secretary-General of NATO says that Scottish independence would be "cataclysmic in geo-political terms". ](/news/2014/04/7/in-an-address-to-the-washington-based-brookings-institution-george-robertson-a-former-secretary-general-of-nato-says-that-scottish-indepen.md) _2017-10-17 03:46:47 (First version)_
+1. [In an address to the Washington-based Brookings Institution, George Robertson, a former Secretary-General of NATO says that Scottish independence would be "cataclysmic in geo-political terms". ](/news/2014/04/7/in-an-address-to-the-washington-based-brookings-institution-george-robertson-a-former-secretary-general-of-nato-says-that-scottish-indepen.md) _2018-02-06 13:49:26 (First version)_
 1. [In an address to the Washington-based Brookings Institution, George Robertson, a former Secretary General of NATO, says that Scottish independence would be "cataclysmic in geo-political terms". ](/news/2014/04/7/in-an-address-to-the-washington-based-brookings-institution-george-robertson-a-former-secretary-general-of-nato-says-that-scottish-indepe.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Counting is under way in Burkina Faso where voters have been electing a new pres
 
 ### Changes:
 
-1. [Burkinabe general election, 2015: Voters in Burkina Faso go to the polls to elect a new parliament and president after a year of turmoil. ](/news/2015/11/29/burkinaba-c-general-election-2015-voters-in-burkina-faso-go-to-the-polls-to-elect-a-new-parliament-and-president-after-a-year-of-turmoil.md) _2017-08-27 03:44:07 (First version)_
+1. [Burkinabe general election, 2015: Voters in Burkina Faso go to the polls to elect a new parliament and president after a year of turmoil. ](/news/2015/11/29/burkinaba-c-general-election-2015-voters-in-burkina-faso-go-to-the-polls-to-elect-a-new-parliament-and-president-after-a-year-of-turmoil.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Burkina Faso go to the polls to elect a new parliament and president after a year of turmoil. ](/news/2015/11/29/voters-in-burkina-faso-go-to-the-polls-to-elect-a-new-parliament-and-president-after-a-year-of-turmoil.md) _(Current version)_
 
 ### Related:

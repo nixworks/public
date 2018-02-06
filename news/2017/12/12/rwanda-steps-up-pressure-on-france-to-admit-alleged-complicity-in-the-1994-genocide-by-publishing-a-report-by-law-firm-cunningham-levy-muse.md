@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-all
 
 ### Changes:
 
-1. [Rwanda steps up pressure on France to admit complicity in the 1994 genocide by publishing a report by law firm "Cunningham Levy Muse". ](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-complicity-in-the-1994-genocide-by-publishing-a-report-by-law-firm-cunningham-levy-muse.md) _2017-12-13 18:30:07 (First version)_
+1. [Rwanda steps up pressure on France to admit complicity in the 1994 genocide by publishing a report by law firm "Cunningham Levy Muse". ](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-complicity-in-the-1994-genocide-by-publishing-a-report-by-law-firm-cunningham-levy-muse.md) _2018-02-06 13:49:31 (First version)_
 1. [Rwanda steps up pressure on France to admit alleged complicity in the 1994 genocide by publishing a report by law firm "Cunningham Levy Muse". ](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-alleged-complicity-in-the-1994-genocide-by-publishing-a-report-by-law-firm-cunningham-levy-muse.md) _(Current version)_
 
 ### Related:

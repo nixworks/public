@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/12/15/marwan-barghouti-launches-a-new-party-called-al
 
 ### Changes:
 
-1. [ Marwan Barghouti launches a new party called al-Mustaqbal (''The Future''), splitting from the Fatah movement in the Palestinian National Authority. ](/news/2005/12/15/marwan-barghouti-launches-a-new-party-called-al-mustaqbal-the-future-splitting-from-the-fatah-movement-in-the-palestinian-national-a.md) _2017-08-25 03:17:16 (First version)_
+1. [ Marwan Barghouti launches a new party called al-Mustaqbal (''The Future''), splitting from the Fatah movement in the Palestinian National Authority. ](/news/2005/12/15/marwan-barghouti-launches-a-new-party-called-al-mustaqbal-the-future-splitting-from-the-fatah-movement-in-the-palestinian-national-a.md) _2018-02-06 13:49:16 (First version)_
 1. [ Marwan Barghouti launches a new party called al-Mustaqbal ("The Future"), splitting from the Fatah movement in the Palestinian National Authority. ](/news/2005/12/15/marwan-barghouti-launches-a-new-party-called-al-mustaqbal-the-future-splitting-from-the-fatah-movement-in-the-palestinian-national-aut.md) _(Current version)_
 
 ### Related:

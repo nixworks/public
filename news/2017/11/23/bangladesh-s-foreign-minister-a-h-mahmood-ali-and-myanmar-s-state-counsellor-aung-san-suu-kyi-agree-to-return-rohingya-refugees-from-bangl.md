@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-a
 
 ### Changes:
 
-1. [Dhaka's Foreign Mnister A. H. Mahmood Ali and Aung San Suu Kyi of Myanmar agree to return Rohingya refugees from Bangladesh to Myanmar in two months. ](/news/2017/11/23/dhaka-s-foreign-mnister-a-h-mahmood-ali-and-aung-san-suu-kyi-of-myanmar-agree-to-return-rohingya-refugees-from-bangladesh-to-myanmar-in-tw.md) _2017-11-23 22:30:05 (First version)_
-2. [Bangladesh's Foreign Mnister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two month period. ](/news/2017/11/23/bangladesh-s-foreign-mnister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangla.md) _2017-11-24 00:30:05 (Update)_
+1. [Dhaka's Foreign Mnister A. H. Mahmood Ali and Aung San Suu Kyi of Myanmar agree to return Rohingya refugees from Bangladesh to Myanmar in two months. ](/news/2017/11/23/dhaka-s-foreign-mnister-a-h-mahmood-ali-and-aung-san-suu-kyi-of-myanmar-agree-to-return-rohingya-refugees-from-bangladesh-to-myanmar-in-tw.md) _2018-02-06 13:49:31 (First version)_
+2. [Bangladesh's Foreign Mnister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two month period. ](/news/2017/11/23/bangladesh-s-foreign-mnister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangla.md) _2018-02-06 13:49:31 (Update)_
 2. [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md) _(Current version)_
 
 ### Related:

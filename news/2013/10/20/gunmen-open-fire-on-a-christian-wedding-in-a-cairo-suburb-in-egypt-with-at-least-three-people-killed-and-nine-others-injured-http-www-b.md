@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-ca
 
 ### Changes:
 
-1. [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. ](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured.md) _2017-08-25 03:39:24 (First version)_
+1. [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. ](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured.md) _2018-02-06 13:49:25 (First version)_
 1. [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. [http:--www.bbc.co.uk-news-world-middle-east-24605130 (BBC) ]](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured-http-www-b.md) _(Current version)_
 
 ### Related:

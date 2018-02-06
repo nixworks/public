@@ -16,9 +16,9 @@ Formats: [HTML](/news/2006/11/11/somalia-s-islamist-leaders-say-they-have-agreed
 
 ### Changes:
 
-1. [ Somali Civil War (2006-present): Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-p-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-govern.md) _2017-05-25 03:19:02 (First version)_
-2. [ Somali Civil War (2006-present): Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-p-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-governm.md) _2017-08-25 03:18:46 (Update)_
-3. [ Somali Civil War (2006-present):: Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-governm.md) _2017-08-27 03:18:40 (Update)_
+1. [ Somali Civil War (2006-present):: Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-governm.md) _2018-02-06 13:49:17 (First version)_
+2. [ Somali Civil War (2006-present): Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-p-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-governm.md) _2018-02-06 13:49:17 (Update)_
+3. [ Somali Civil War (2006-present): Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-p-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-govern.md) _2018-02-06 13:49:17 (Update)_
 3. [ Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-government.md) _(Current version)_
 
 ### Related:

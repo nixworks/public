@@ -19,7 +19,7 @@ Sci-fi epic&#039;s international boxoffice reaches $1.288 billion
 
 ### Changes:
 
-1. [James Cameron's ''Avatar'' becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the.md) _2017-08-25 03:26:59 (First version)_
+1. [James Cameron's ''Avatar'' becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the.md) _2018-02-06 13:49:19 (First version)_
 1. [James Cameron's "Avatar" becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the-be.md) _(Current version)_
 
 ### Related:

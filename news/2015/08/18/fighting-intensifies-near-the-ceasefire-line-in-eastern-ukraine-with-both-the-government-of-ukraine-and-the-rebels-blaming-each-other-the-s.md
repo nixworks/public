@@ -16,7 +16,7 @@ Fighting between government forces and Russian-backed rebels in eastern Ukraine 
 
 ### Changes:
 
-1. [War in Donbass: Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/war-in-donbass-fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-e.md) _2017-08-27 03:42:51 (First version)_
+1. [War in Donbass: Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/war-in-donbass-fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-e.md) _2018-02-06 13:49:27 (First version)_
 1. [Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/3/the-united-states-evacuates-additional-diplomati
 
 ### Changes:
 
-1. [South Sudanese conflict (2013-present):The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/south-sudanese-conflict-2013apresent-pthe-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-dete.md) _2017-08-25 03:39:48 (First version)_
-2. [South Sudanese conflict (2013-present):: The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/south-sudanese-conflict-2013-present-the-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-det.md) _2017-08-27 03:40:07 (Update)_
+1. [South Sudanese conflict (2013-present):The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/south-sudanese-conflict-2013apresent-pthe-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-dete.md) _2018-02-06 13:49:25 (First version)_
+2. [South Sudanese conflict (2013-present):: The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/south-sudanese-conflict-2013-present-the-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-det.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/the-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-deteriorating-security-situation.md) _(Current version)_
 
 ### Related:

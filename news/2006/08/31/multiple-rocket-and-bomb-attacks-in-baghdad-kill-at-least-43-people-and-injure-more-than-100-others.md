@@ -16,7 +16,7 @@ Formats: [HTML](/news/2006/08/31/multiple-rocket-and-bomb-attacks-in-baghdad-kil
 
 ### Changes:
 
-1. [ Iraqi insurgency: Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/iraqi-insurgency-multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md) _2017-08-27 03:18:14 (First version)_
+1. [ Iraqi insurgency: Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/iraqi-insurgency-multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md) _2018-02-06 13:49:17 (First version)_
 1. [ Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md) _(Current version)_
 
 ### Related:

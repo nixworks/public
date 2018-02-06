@@ -18,8 +18,8 @@ Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female pr
 
 ### Changes:
 
-1. [Quebec general election, 2012:The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-pthe-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-paulin.md) _2017-08-25 03:36:25 (First version)_
-2. [Quebec general election, 2012:: The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauli.md) _2017-08-27 03:36:36 (Update)_
+1. [Quebec general election, 2012:: The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauli.md) _2018-02-06 13:49:23 (First version)_
+2. [Quebec general election, 2012:The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-pthe-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-paulin.md) _2018-02-06 13:49:23 (Update)_
 2. [The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauline-marois-becoming-the-first-fem.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The freed captives were six Yemeni citizens, a Saudi and an Ethiopian, who were 
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. ](/news/2014/11/25/al-qaeda-insurgency-in-yemen-a-joint-operation-by-u-s-and-yemeni-special-operations-forces-on-an-al-qaeda-hideout-in-eastern-yemen-rescues.md) _2017-08-27 03:41:33 (First version)_
+1. [al-Qaeda insurgency in Yemen: A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. ](/news/2014/11/25/al-qaeda-insurgency-in-yemen-a-joint-operation-by-u-s-and-yemeni-special-operations-forces-on-an-al-qaeda-hideout-in-eastern-yemen-rescues.md) _2018-02-06 13:49:26 (First version)_
 1. [A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. ](/news/2014/11/25/a-joint-operation-by-u-s-and-yemeni-special-operations-forces-on-an-al-qaeda-hideout-in-eastern-yemen-rescues-8-hostages-and-leaves-7-milit.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/05/11/sudan-s-government-halts-an-attack-on-the-count
 
 ### Changes:
 
-1. [ 2008 attack on Omdurman and Khartoum: Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. ](/news/2008/05/11/2008-attack-on-omdurman-and-khartoum-p-sudan-s-government-halts-an-attack-on-the-country-s-capital-khartoum-by-hundreds-of-rebels-from-darf.md) _2017-08-25 03:22:09 (First version)_
-2. [ 2008 attack on Omdurman and Khartoum:: Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. ](/news/2008/05/11/2008-attack-on-omdurman-and-khartoum-sudan-s-government-halts-an-attack-on-the-country-s-capital-khartoum-by-hundreds-of-rebels-from-darf.md) _2017-08-27 03:22:03 (Update)_
+1. [ 2008 attack on Omdurman and Khartoum:: Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. ](/news/2008/05/11/2008-attack-on-omdurman-and-khartoum-sudan-s-government-halts-an-attack-on-the-country-s-capital-khartoum-by-hundreds-of-rebels-from-darf.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 attack on Omdurman and Khartoum: Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. ](/news/2008/05/11/2008-attack-on-omdurman-and-khartoum-p-sudan-s-government-halts-an-attack-on-the-country-s-capital-khartoum-by-hundreds-of-rebels-from-darf.md) _2018-02-06 13:49:18 (Update)_
 2. [ Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. ](/news/2008/05/11/sudan-s-government-halts-an-attack-on-the-country-s-capital-khartoum-by-hundreds-of-rebels-from-darfur.md) _(Current version)_
 
 ### Related:

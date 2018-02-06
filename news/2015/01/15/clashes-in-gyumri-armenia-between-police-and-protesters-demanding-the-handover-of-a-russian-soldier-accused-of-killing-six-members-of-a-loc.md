@@ -16,8 +16,8 @@ At least 12 people are injured in Armenia police clash with protesters demanding
 
 ### Changes:
 
-1. [Gyumri massacre:Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/gyumri-massacre-pclashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-six.md) _2017-08-25 03:41:29 (First version)_
-2. [Gyumri massacre:: Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/gyumri-massacre-clashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-si.md) _2017-08-27 03:41:47 (Update)_
+1. [Gyumri massacre:Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/gyumri-massacre-pclashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-six.md) _2018-02-06 13:49:26 (First version)_
+2. [Gyumri massacre:: Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/gyumri-massacre-clashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-si.md) _2018-02-06 13:49:26 (Update)_
 2. [Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/clashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-six-members-of-a-loc.md) _(Current version)_
 
 ### Related:

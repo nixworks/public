@@ -13,7 +13,7 @@ ICC will investigate reports of rapes and killings by soldiers if DRC government
 
 ##### 21st Century Fox
 ### [ 21st Century Fox, the parent company of Fox News, announces the firing of Fox News commentator Bill O'Reilly. ](/news/2017/04/19/21st-century-fox-the-parent-company-of-fox-news-announces-the-firing-of-fox-news-commentator-bill-o-reilly.md)
-_Context: Fox News, 21st Century Fox, Bill O'Reilly_
+_Context: 21st Century Fox, Fox News, Bill O'Reilly_
 
 ##### Dubai
 ### [Citing a drop in demand, the Dubai-based, United Arab Emirates-owned airline Emirates Air announces a cut in flights to five of its 12 U.S. destinations. The airline's Dubai hub, third-busiest in the world, is a major stop for travelers in countries affected by President Donald Trump's travel ban, and is also one of several Middle East airports affected by a U.S. ban on tablets, laptops, and similar devices in the passenger cabin. ](/news/2017/04/19/citing-a-drop-in-demand-the-dubai-based-united-arab-emirates-owned-airline-emirates-air-announces-a-cut-in-flights-to-five-of-its-12-u-s.md)
@@ -33,7 +33,7 @@ Aaron Hernandez, the former New England Patriots star who was convicted of murde
 
 ##### Pedro Hernandez
 ### [Pedro Hernandez, convicted in February 2017 for the May 25, 1979 death of Etan Patz in the SoHo neighborhood of Manhattan, was sentenced yesterday to 25 years to life imprisonment.](/news/2017/04/19/pedro-hernandez-convicted-in-february-2017-for-the-may-25-1979-death-of-etan-patz-in-the-soho-neighborhood-of-manhattan-was-sentenced-yes.md)
-_Context: Etan Patz, SoHo, Pedro Hernandez, Manhattan_
+_Context: Etan Patz, Manhattan, SoHo, Pedro Hernandez_
 
 ##### Nigeria
 ### [Nigerian spy chief Ayo Oke has been suspended by President Muhammadu Buhari after anti-corruption agents uncovered more than $43 million in cash at his flat in Lagos. ](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.md)
@@ -41,7 +41,7 @@ The cash was kept in a Lagos flat for covert operations, intelligence officials 
 
 ##### Bharatiya Janata Party
 ### [Three senior figures in the Bharatiya Janata Party, L.K. Advani, Uma Bharati and Murli Manohar Joshi, will be tried for their alleged role in the destruction of the Babri Masjid Mosque in the northern Indian town of Ayodhya. ](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-party-l-k-advani-uma-bharati-and-murli-manohar-joshi-will-be-tried-for-their-alleged-role-i.md)
-_Context: Ayodhya, Babri Masjid, L.K. Advani, Murli Manohar Joshi, India, Uma Bharati, Bharatiya Janata Party_
+_Context: Murli Manohar Joshi, Bharatiya Janata Party, India, Uma Bharati, L.K. Advani, Babri Masjid, Ayodhya_
 
 ##### Jakarta gubernatorial election, 2017
 ### [Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. ](/news/2017/04/19/indonesian-voters-in-jakarta-return-to-the-polls-for-the-second-round-of-a-gubernatorial-election-between-incumbent-basuki-tjahaja-purnama.md)
@@ -49,11 +49,11 @@ The second round of voting in a bitterly fought campaign for Jakarta&#039;s top 
 
 ##### last month's presidential election
 ### [The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-heading-into-the-first-stage-of-the-elect.md)
-_Context: TF1, last month's presidential election, CEVIPOF, Marine Le Pen, Flag of Europe, Emmanuel Macron, European Commission_
+_Context: CEVIPOF, TF1, Emmanuel Macron, Marine Le Pen, European Commission, last month's presidential election, Flag of Europe_
 
 ##### caretaker
 ### [Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.md)
-_Context: Frauke Petry, Alternative for Germany, caretaker_
+_Context: caretaker, Alternative for Germany, Frauke Petry_
 
 ##### last general election
 ### [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md)
@@ -65,11 +65,11 @@ Party supports fixed-term parliaments but says it will not stand in the way of a
 
 ##### United States House of Representatives elections, 2018
 ### [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md)
-_Context: Jason Chaffetz, House Oversight Committee, United States House of Representatives elections, 2018, Utah_
+_Context: Utah, Jason Chaffetz, House Oversight Committee, United States House of Representatives elections, 2018_
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [Local Republican candidate Karen Handel says she wants Donald Trump to campaign for her in the district. ](/news/2017/04/19/local-republican-candidate-karen-handel-says-she-wants-donald-trump-to-campaign-for-her-in-the-district.md)
-_Context: Donald Trump, Karen Handel, Georgia's 6th congressional district special election, 2017_
+_Context: Georgia's 6th congressional district special election, 2017, Donald Trump, Karen Handel_
 
 ##### Washington State University
 ### [Washington State University professor Peter Engels and his team announce they have created a fluid that displays negative mass. ](/news/2017/04/19/washington-state-university-professor-peter-engels-and-his-team-announce-they-have-created-a-fluid-that-displays-negative-mass.md)

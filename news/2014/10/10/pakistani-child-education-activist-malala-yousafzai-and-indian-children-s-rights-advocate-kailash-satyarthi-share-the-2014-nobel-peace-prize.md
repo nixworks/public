@@ -17,8 +17,8 @@ Pakistani child education activist Malala Yousafzai and Indian child rights camp
 
 ### Changes:
 
-1. [Nobel Peace Prize:Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. ](/news/2014/10/10/nobel-peace-prize-ppakistani-child-education-activist-malala-yousafzai-and-indian-children-s-rights-advocate-kailash-satyarthi-share-the-201.md) _2017-08-25 03:41:04 (First version)_
-2. [Nobel Peace Prize:: Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. ](/news/2014/10/10/nobel-peace-prize-pakistani-child-education-activist-malala-yousafzai-and-indian-children-s-rights-advocate-kailash-satyarthi-share-the-20.md) _2017-08-27 03:41:23 (Update)_
+1. [Nobel Peace Prize:Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. ](/news/2014/10/10/nobel-peace-prize-ppakistani-child-education-activist-malala-yousafzai-and-indian-children-s-rights-advocate-kailash-satyarthi-share-the-201.md) _2018-02-06 13:49:26 (First version)_
+2. [Nobel Peace Prize:: Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. ](/news/2014/10/10/nobel-peace-prize-pakistani-child-education-activist-malala-yousafzai-and-indian-children-s-rights-advocate-kailash-satyarthi-share-the-20.md) _2018-02-06 13:49:26 (Update)_
 2. [Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. ](/news/2014/10/10/pakistani-child-education-activist-malala-yousafzai-and-indian-children-s-rights-advocate-kailash-satyarthi-share-the-2014-nobel-peace-prize.md) _(Current version)_
 
 ### Related:

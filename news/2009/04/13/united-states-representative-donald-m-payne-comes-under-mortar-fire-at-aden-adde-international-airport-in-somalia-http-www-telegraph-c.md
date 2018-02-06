@@ -11,7 +11,7 @@ Formats: [HTML](/news/2009/04/13/united-states-representative-donald-m-payne-com
 
 ### Changes:
 
-1. [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. ](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia.md) _2017-08-25 03:24:20 (First version)_
+1. [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. ](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia.md) _2018-02-06 13:49:18 (First version)_
 1. [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http:--www.telegraph.co.uk-news-worldnews-africaandindianocean-somalia-5149000-US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md) _(Current version)_
 
 ### Related:

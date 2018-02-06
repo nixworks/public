@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-th
 
 ### Changes:
 
-1. [Presidency of Donald Trump: Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/presidency-of-donald-trump-trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clint.md) _2017-08-27 03:47:16 (First version)_
+1. [Presidency of Donald Trump: Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/presidency-of-donald-trump-trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clint.md) _2018-02-06 13:49:29 (First version)_
 1. [Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clinton-for-possible-crimes-relat.md) _(Current version)_
 
 ### Related:

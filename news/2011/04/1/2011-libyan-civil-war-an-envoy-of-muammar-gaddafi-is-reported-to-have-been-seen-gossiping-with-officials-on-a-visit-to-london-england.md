@@ -27,8 +27,8 @@ A Libyan envoy representing Colonel Gaddafi has been in London in the past few d
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war:An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-p2011-libyan-civil-war-pan-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-london.md) _2017-08-25 03:32:42 (First version)_
-2. [Arab Spring:: 2011 Libyan civil war:: An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-londo.md) _2017-08-27 03:32:50 (Update)_
+1. [Arab Spring:2011 Libyan civil war:An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-p2011-libyan-civil-war-pan-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-london.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-londo.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war:An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-london-england.md) _(Current version)_
 
 ### Related:

@@ -9,7 +9,7 @@ Eight people were killed in two car bombings in the Iraqi city of Falluja west o
 
 ##### War in Somalia (2009-present)
 ### [A suicide bomber kills at least 29 people and injures 50 others in an attack on a police station near Mogadishu's port. ](/news/2016/12/11/a-suicide-bomber-kills-at-least-29-people-and-injures-50-others-in-an-attack-on-a-police-station-near-mogadishu-s-port.md)
-_Context: War in Somalia (2009-present), December 2016 Mogadishu suicide bombing, suicide bomber, Mogadishu_
+_Context: Mogadishu, War in Somalia (2009-present), December 2016 Mogadishu suicide bombing, suicide bomber_
 
 ##### December 2016 Istanbul bombings
 ### [The death toll from yesterday's bombings rises to 38 with 155 injured. Thirteen people have been arrested in connection with the bombings. ](/news/2016/12/11/the-death-toll-from-yesterday-s-bombings-rises-to-38-with-155-injured-thirteen-people-have-been-arrested-in-connection-with-the-bombings.md)
@@ -83,19 +83,19 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Macedonian parliamentary election, 2016
 ### [ Macedonian voters elect a new parliament. ](/news/2016/12/11/macedonian-voters-elect-a-new-parliament.md)
-_Context: Macedonian parliamentary election, 2016, Macedonian, parliament_
+_Context: Republic of Macedonia, Macedonian parliamentary election, 2016, parliament_
 
 ##### earlier this month
 ### [Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democratic-party-winning-by-a-wide-margin.md)
-_Context: Romanians, earlier this month, PSD_
+_Context: earlier this month, PSD, Romanians_
 
 ##### Italian constitutional referendum, 2016
 ### [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md)
-_Context: Italian Prime Minister, Italian constitutional referendum, 2016, Paolo Gentiloni, Italy_
+_Context: Italy, Italian Prime Minister, Italian constitutional referendum, 2016, Paolo Gentiloni_
 
 ##### Gambian presidential election, 2016
 ### [Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md)
-_Context: The Gambia, Gambian presidential election, 2016, Yahya Jammeh_
+_Context: Yahya Jammeh, The Gambia, Gambian presidential election, 2016_
 
 ##### Mexico
 ### [Mexico's Coronado Islands become a national reserve. ](/news/2016/12/11/mexico-s-coronado-islands-become-a-national-reserve.md)

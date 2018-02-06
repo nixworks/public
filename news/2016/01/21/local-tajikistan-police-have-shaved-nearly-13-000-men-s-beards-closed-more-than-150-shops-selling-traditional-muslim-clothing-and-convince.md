@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-0
 
 ### Changes:
 
-1. [Local Tajikistan police have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convinc.md) _2017-08-25 03:44:22 (First version)_
+1. [Local Tajikistan police have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convinc.md) _2018-02-06 13:49:28 (First version)_
 1. [Local Tajikistan police have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convince.md) _(Current version)_
 
 ### Related:

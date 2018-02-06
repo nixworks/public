@@ -17,7 +17,7 @@ NORTH Korea has made &quot;an important announcement&quot; - Kim Jong-un is the 
 
 ### Changes:
 
-1. [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied ''de facto'' since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death.md) _2017-08-25 03:36:08 (First version)_
+1. [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied ''de facto'' since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death.md) _2018-02-06 13:49:23 (First version)_
 1. [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied "de facto" since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death-h.md) _(Current version)_
 
 ### Related:

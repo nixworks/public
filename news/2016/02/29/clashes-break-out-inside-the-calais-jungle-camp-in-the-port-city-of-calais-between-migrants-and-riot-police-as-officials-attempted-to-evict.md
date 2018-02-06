@@ -16,7 +16,7 @@ British woman who is a member of the No Borders activist group, which French off
 
 ### Changes:
 
-1. [Calais migrant crisis: Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/calais-migrant-crisis-clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-offici.md) _2017-08-27 03:45:04 (First version)_
+1. [Calais migrant crisis: Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/calais-migrant-crisis-clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-offici.md) _2018-02-06 13:49:28 (First version)_
 1. [Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-officials-attempted-to-evict.md) _(Current version)_
 
 ### Related:

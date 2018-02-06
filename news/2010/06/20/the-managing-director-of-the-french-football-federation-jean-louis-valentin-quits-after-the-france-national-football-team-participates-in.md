@@ -24,7 +24,7 @@ Nigeria midfielder Sani Kaita has revealed he received death threats via e-mail 
 
 ### Changes:
 
-1. [2010 FIFA World Cup: The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. ](/news/2010/06/20/2010-fifa-world-cup-the-managing-director-of-the-french-football-federation-jean-louis-valentin-quits-after-the-france-national-football.md) _2017-08-27 03:28:20 (First version)_
+1. [2010 FIFA World Cup: The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. ](/news/2010/06/20/2010-fifa-world-cup-the-managing-director-of-the-french-football-federation-jean-louis-valentin-quits-after-the-france-national-football.md) _2018-02-06 13:49:20 (First version)_
 1. [The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. ](/news/2010/06/20/the-managing-director-of-the-french-football-federation-jean-louis-valentin-quits-after-the-france-national-football-team-participates-in.md) _(Current version)_
 
 ### Related:

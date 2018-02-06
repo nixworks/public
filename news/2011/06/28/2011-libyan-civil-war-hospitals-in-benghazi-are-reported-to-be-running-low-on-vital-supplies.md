@@ -21,8 +21,8 @@ Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.
 
 ### Changes:
 
-1. [Arab Spring:2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-p2011-libyan-civil-war-phospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _2017-08-25 03:33:37 (First version)_
-2. [Arab Spring:: 2011 Libyan civil war:: Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _2017-08-27 03:33:44 (Update)_
+1. [Arab Spring:2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-p2011-libyan-civil-war-phospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Libyan civil war:: Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _(Current version)_
 
 ### Related:

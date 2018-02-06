@@ -5,7 +5,7 @@ Formats: [HTML](2015/02/7/index.html)  [JSON](2015/02/7/index.json)  [XML](2015/
 
 ##### North Korea's nuclear program
 ### [North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-deployed-across-its-navy.md)
-_Context: navy, North Korea's nuclear program, North Korea_
+_Context: North Korea, North Korea's nuclear program, navy_
 
 ##### War in Donbass
 ### [The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshenko-on-sunday.md)
@@ -17,11 +17,11 @@ Bombings in the Iraqi capital Saturday killed more than three dozen people hours
 
 ##### Islamist insurgency in Nigeria
 ### [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md)
-_Context: Nigerian general election, 2015, Islamist insurgency in Nigeria, Boko Haram, Nigeria_
+_Context: Islamist insurgency in Nigeria, Nigeria, Nigerian general election, 2015, Boko Haram_
 
 ##### NBC Nightly News
 ### [NBC Nightly News anchorman Brian Williams begins a temporary hiatus from broadcasting after he was caught lying about having been on board an underfire helicopter which crashed during the 2003 invasion of Iraq. ](/news/2015/02/7/nbc-nightly-news-anchorman-brian-williams-begins-a-temporary-hiatus-from-broadcasting-after-he-was-caught-lying-about-having-been-on-board-a.md)
-_Context: anchorman, NBC Nightly News, 2003 invasion of Iraq, Brian Williams_
+_Context: Brian Williams, anchorman, 2003 invasion of Iraq, NBC Nightly News_
 
 ##### Twentieth Century Fox
 ### [The management of Twentieth Century Fox considers granting permission to a group of investors, including some hedge funds, seeking to amend the company's charter and turn their type of voting shares of stock into non-voting shares, a conversion that might raise that type of shares' market price and that also would further concentrate control in the hands of Rupert Murdoch and his family. ](/news/2015/02/7/the-management-of-twentieth-century-fox-considers-granting-permission-to-a-group-of-investors-including-some-hedge-funds-seeking-to-amend.md)
@@ -29,7 +29,7 @@ Several top investors in Twenty-First Century Fox Inc are pressing for the right
 
 ##### TransAsia
 ### [TransAsia cancels dozens of flights to retrain its pilots following the February 4 crash of TransAsia Airways Flight 235 which killed at least 43 people. ](/news/2015/02/7/transasia-cancels-dozens-of-flights-to-retrain-its-pilots-following-the-february-4-crash-of-transasia-airways-flight-235-which-killed-at-lea.md)
-_Context: TransAsia, TransAsia Airways Flight 235_
+_Context: TransAsia Airways Flight 235, TransAsia_
 
 ##### Douglasville
 ### [A gunman shoots six people, killing four, including several children, in Douglasville, Georgia, ending with the gunman committing suicide. ](/news/2015/02/7/a-gunman-shoots-six-people-killing-four-including-several-children-in-douglasville-georgia-ending-with-the-gunman-committing-suicide.md)

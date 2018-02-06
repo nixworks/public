@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/11/25/unidentified-gunmen-abduct-22-passengers-from-a
 
 ### Changes:
 
-1. [Balochistan conflict: Unidentified gunmen abduct 22 passengers from a coach in Kandasool near the city of Pasni. ](/news/2015/11/25/balochistan-conflict-unidentified-gunmen-abduct-22-passengers-from-a-coach-in-kandasool-near-the-city-of-pasni.md) _2017-08-27 03:44:03 (First version)_
+1. [Balochistan conflict: Unidentified gunmen abduct 22 passengers from a coach in Kandasool near the city of Pasni. ](/news/2015/11/25/balochistan-conflict-unidentified-gunmen-abduct-22-passengers-from-a-coach-in-kandasool-near-the-city-of-pasni.md) _2018-02-06 13:49:28 (First version)_
 1. [Unidentified gunmen abduct 22 passengers from a coach in Kandasool near the city of Pasni. ](/news/2015/11/25/unidentified-gunmen-abduct-22-passengers-from-a-coach-in-kandasool-near-the-city-of-pasni.md) _(Current version)_
 
 ### Related:

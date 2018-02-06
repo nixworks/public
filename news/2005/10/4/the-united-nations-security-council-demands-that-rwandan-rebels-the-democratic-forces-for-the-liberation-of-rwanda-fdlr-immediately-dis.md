@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/10/4/the-united-nations-security-council-demands-that
 
 ### Changes:
 
-1. [ The United Nations Security Council demands that Rwandan rebels, the Democratic Forces for the Liberation of Rwanda (FDLR), immediately disarm and leave Democratic Republic of the Congo. ](/news/2005/10/4/the-united-nations-security-council-demands-that-rwandan-rebels-the-democratic-forces-for-the-liberation-of-rwanda-fdlr-immediately-di.md) _2017-08-25 03:16:53 (First version)_
+1. [ The United Nations Security Council demands that Rwandan rebels, the Democratic Forces for the Liberation of Rwanda (FDLR), immediately disarm and leave Democratic Republic of the Congo. ](/news/2005/10/4/the-united-nations-security-council-demands-that-rwandan-rebels-the-democratic-forces-for-the-liberation-of-rwanda-fdlr-immediately-di.md) _2018-02-06 13:49:16 (First version)_
 1. [ The United Nations Security Council demands that Rwandan rebels, the Democratic Forces for the Liberation of Rwanda (FDLR), immediately disarm and leave Democratic Republic of the Congo. ](/news/2005/10/4/the-united-nations-security-council-demands-that-rwandan-rebels-the-democratic-forces-for-the-liberation-of-rwanda-fdlr-immediately-dis.md) _(Current version)_
 
 ### Related:

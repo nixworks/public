@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/24/syrian-opposition-activists-report-government-a
 
 ### Changes:
 
-1. [Syrian civil war: Syrian opposition activists report government airstrikes on Aleppo Province kill at least five people and hit at least five medical facilities. ](/news/2016/07/24/syrian-civil-war-syrian-opposition-activists-report-government-airstrikes-on-aleppo-province-kill-at-least-five-people-and-hit-at-least-fiv.md) _2017-08-27 03:46:32 (First version)_
+1. [Syrian civil war: Syrian opposition activists report government airstrikes on Aleppo Province kill at least five people and hit at least five medical facilities. ](/news/2016/07/24/syrian-civil-war-syrian-opposition-activists-report-government-airstrikes-on-aleppo-province-kill-at-least-five-people-and-hit-at-least-fiv.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian opposition activists report government airstrikes on Aleppo Province kill at least five people and hit at least five medical facilities. ](/news/2016/07/24/syrian-opposition-activists-report-government-airstrikes-on-aleppo-province-kill-at-least-five-people-and-hit-at-least-five-medical-faciliti.md) _(Current version)_
 
 ### Related:

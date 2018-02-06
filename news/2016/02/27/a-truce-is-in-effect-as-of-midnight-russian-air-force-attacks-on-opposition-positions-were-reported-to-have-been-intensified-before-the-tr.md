@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/27/a-truce-is-in-effect-as-of-midnight-russian-air
 
 ### Changes:
 
-1. [Syrian Civil War: A truce is in effect, as of midnight. Russian Air Force attacks on opposition positions were reported to have been intensified before the truce took effect. ](/news/2016/02/27/syrian-civil-war-a-truce-is-in-effect-as-of-midnight-russian-air-force-attacks-on-opposition-positions-were-reported-to-have-been-intensi.md) _2017-08-27 03:45:03 (First version)_
+1. [Syrian Civil War: A truce is in effect, as of midnight. Russian Air Force attacks on opposition positions were reported to have been intensified before the truce took effect. ](/news/2016/02/27/syrian-civil-war-a-truce-is-in-effect-as-of-midnight-russian-air-force-attacks-on-opposition-positions-were-reported-to-have-been-intensi.md) _2018-02-06 13:49:28 (First version)_
 1. [A truce is in effect, as of midnight. Russian Air Force attacks on opposition positions were reported to have been intensified before the truce took effect. ](/news/2016/02/27/a-truce-is-in-effect-as-of-midnight-russian-air-force-attacks-on-opposition-positions-were-reported-to-have-been-intensified-before-the-tr.md) _(Current version)_
 
 ### Related:

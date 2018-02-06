@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/26/countries-around-the-indian-ocean-commemorate-t
 
 ### Changes:
 
-1. [2004 Indian Ocean earthquake and tsunami: Countries around the Indian Ocean commemorate the tenth anniversary of the tsunami. ](/news/2014/12/26/2004-indian-ocean-earthquake-and-tsunami-countries-around-the-indian-ocean-commemorate-the-tenth-anniversary-of-the-tsunami.md) _2017-08-27 03:41:41 (First version)_
+1. [2004 Indian Ocean earthquake and tsunami: Countries around the Indian Ocean commemorate the tenth anniversary of the tsunami. ](/news/2014/12/26/2004-indian-ocean-earthquake-and-tsunami-countries-around-the-indian-ocean-commemorate-the-tenth-anniversary-of-the-tsunami.md) _2018-02-06 13:49:26 (First version)_
 1. [Countries around the Indian Ocean commemorate the tenth anniversary of the tsunami. ](/news/2014/12/26/countries-around-the-indian-ocean-commemorate-the-tenth-anniversary-of-the-tsunami.md) _(Current version)_
 
 ### Related:

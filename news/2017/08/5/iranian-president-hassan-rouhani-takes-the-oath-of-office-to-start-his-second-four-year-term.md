@@ -16,11 +16,11 @@ The swearing-in ceremony for the reelected President Hassan Rouhani, which is du
 
 ### Changes:
 
-1. [Iranian President Hassan Rouhani will be take oath of office to start his new four years term. ](/news/2017/08/5/iranian-president-hassan-rouhani-will-be-take-oath-of-office-to-start-his-new-four-years-term.md) _2017-08-05 12:30:06 (First version)_
-2. [Iranian President Hassan Rouhani will be take oath of office to start his new four year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-will-be-take-oath-of-office-to-start-his-new-four-year-term.md) _2017-08-05 13:30:06 (Update)_
-3. [Iranian President Hassan Rouhani will take the oath of office to start his new four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-will-take-the-oath-of-office-to-start-his-new-four-year-term.md) _2017-08-05 20:30:05 (Update)_
-4. [Iranian President Hassan Rouhani take the oath of office to start his new four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-take-the-oath-of-office-to-start-his-new-four-year-term.md) _2017-08-06 03:49:09 (Update)_
-5. [Second inauguration of Hassan Rouhani: Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. ](/news/2017/08/5/second-inauguration-of-hassan-rouhani-iranian-president-hassan-rouhani-takes-the-oath-of-office-to-start-his-second-four-year-term.md) _2017-08-27 03:48:46 (Update)_
+1. [Second inauguration of Hassan Rouhani: Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. ](/news/2017/08/5/second-inauguration-of-hassan-rouhani-iranian-president-hassan-rouhani-takes-the-oath-of-office-to-start-his-second-four-year-term.md) _2018-02-06 13:49:31 (First version)_
+2. [Iranian President Hassan Rouhani will take the oath of office to start his new four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-will-take-the-oath-of-office-to-start-his-new-four-year-term.md) _2018-02-06 13:49:31 (Update)_
+3. [Iranian President Hassan Rouhani will be take oath of office to start his new four years term. ](/news/2017/08/5/iranian-president-hassan-rouhani-will-be-take-oath-of-office-to-start-his-new-four-years-term.md) _2018-02-06 13:49:31 (Update)_
+4. [Iranian President Hassan Rouhani will be take oath of office to start his new four year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-will-be-take-oath-of-office-to-start-his-new-four-year-term.md) _2018-02-06 13:49:31 (Update)_
+5. [Iranian President Hassan Rouhani take the oath of office to start his new four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-take-the-oath-of-office-to-start-his-new-four-year-term.md) _2018-02-06 13:49:31 (Update)_
 5. [Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-takes-the-oath-of-office-to-start-his-second-four-year-term.md) _(Current version)_
 
 ### Related:

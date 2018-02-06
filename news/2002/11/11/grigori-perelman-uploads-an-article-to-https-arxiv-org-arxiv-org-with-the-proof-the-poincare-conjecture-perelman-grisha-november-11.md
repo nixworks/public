@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/11/11/grigori-perelman-uploads-an-article-to-https-ar
 
 ### Changes:
 
-1. [ Grigori Perelman uploads an article to [http:--arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".](/news/2002/11/11/grigori-perelman-uploads-an-article-to-http-arxiv-org-arxiv-org-with-the-proof-the-poincare-conjecture-perelman-grisha-november-11.md) _2017-10-17 03:15:19 (First version)_
+1. [ Grigori Perelman uploads an article to [http:--arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".](/news/2002/11/11/grigori-perelman-uploads-an-article-to-http-arxiv-org-arxiv-org-with-the-proof-the-poincare-conjecture-perelman-grisha-november-11.md) _2018-02-06 13:49:15 (First version)_
 1. [ Grigori Perelman uploads an article to [https:--arxiv.org arxiv.org] with the proof the Poincar conjecture: Perelman, Grisha (November 11, 2002). "The entropy formula for the Ricci flow and its geometric applications".](/news/2002/11/11/grigori-perelman-uploads-an-article-to-https-arxiv-org-arxiv-org-with-the-proof-the-poincare-conjecture-perelman-grisha-november-11.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The Obama administration on Saturday notified the U.S. Congress of its decision 
 
 ### Changes:
 
-1. [India-United States relations: India summons the U.S. Ambassador to India Richard Verma over the U.S. decision to sell more F-16 fighter jets to Pakistan. ](/news/2016/02/13/india-united-states-relations-india-summons-the-u-s-ambassador-to-india-richard-verma-over-the-u-s-decision-to-sell-more-f-16-fighter-j.md) _2017-08-27 03:44:54 (First version)_
+1. [India-United States relations: India summons the U.S. Ambassador to India Richard Verma over the U.S. decision to sell more F-16 fighter jets to Pakistan. ](/news/2016/02/13/india-united-states-relations-india-summons-the-u-s-ambassador-to-india-richard-verma-over-the-u-s-decision-to-sell-more-f-16-fighter-j.md) _2018-02-06 13:49:28 (First version)_
 1. [India summons the U.S. Ambassador to India Richard Verma over the U.S. decision to sell more F-16 fighter jets to Pakistan. ](/news/2016/02/13/india-summons-the-u-s-ambassador-to-india-richard-verma-over-the-u-s-decision-to-sell-more-f-16-fighter-jets-to-pakistan.md) _(Current version)_
 
 ### Related:

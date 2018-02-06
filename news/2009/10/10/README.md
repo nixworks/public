@@ -17,7 +17,7 @@ Polish President Lech Kaczynski signed the European Union&#39;s Lisbon Treaty in
 
 ##### tanker
 ### [ At least 70 people are killed after a fuel tanker explodes in Nigeria. ](/news/2009/10/10/at-least-70-people-are-killed-after-a-fuel-tanker-explodes-in-nigeria.md)
-_Context: tanker, Nigeria_
+_Context: Nigeria, tanker_
 
 ##### Philippines
 ### [ 186 people are killed by landslides in the Philippines. ](/news/2009/10/10/186-people-are-killed-by-landslides-in-the-philippines.md)
@@ -27,7 +27,7 @@ _Context: Philippines_
 ### [ Ireland's Green Party votes by 84% to endorse a new Programme for Government with government partners Fianna Fail.](/news/2009/10/10/ireland-s-green-party-votes-by-84-to-endorse-a-new-programme-for-government-with-government-partners-fianna-fa-il.md)
 The Green Party has overwhelmingly endorsed the new Programme for Government, and rejected a motion calling on the party to oppose the NAMA legislation in the Dáil.
 
-##### British
+##### United Kingdom
 ### [ Over 300 British MPs will be asked to repay or explain expenses after controversy earlier this year. ](/news/2009/10/10/over-300-british-mps-will-be-asked-to-repay-or-explain-expenses-after-controversy-earlier-this-year.md)
 At least 325 MPs will be ordered this week to repay money or provide further details of their parliamentary allowances by the head of an official inquiry into the Commons expenses scandal.
 
@@ -37,15 +37,15 @@ Three people arrested during protests over disputed presidential poll are senten
 
 ##### Guinea
 ### [ Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. ](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.md)
-_Context: massacre of opposition protesters, Guinea_
+_Context: Guinea, massacre of opposition protesters_
 
 ##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: Don't ask, don't tell, U.S. President, United States armed forces, Barack Obama, gay, United States_
+_Context: gay, United States armed forces, U.S. President, United States, Barack Obama, Don't ask, don't tell_
 
 ##### Islam
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: Manchester, England, racial bias, Islam_
+_Context: Islam, racial bias, Manchester, England_
 
 ##### Argentina
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)
@@ -53,7 +53,7 @@ More than 200 modifications
 
 ##### St Petersburg
 ### [ Thousands of protesters gather in St Petersburg, Russia, against a plan to build a 77 storey building for Gazprom. ](/news/2009/10/10/thousands-of-protesters-gather-in-st-petersburg-russia-against-a-plan-to-build-a-77-storey-building-for-gazprom.md)
-_Context: Russia, Gazprom, St Petersburg_
+_Context: St Petersburg, Gazprom, Russia_
 
 ## [Previous Day...](/news/2009/10/9/index.md)
 

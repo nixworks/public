@@ -16,8 +16,8 @@ Fifteen people have been killed and 14 others wounded in a &quot;terrorist attac
 
 ### Changes:
 
-1. [Xinjiang conflict Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-pchinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md) _2017-05-25 03:43:06 (First version)_
-2. [Xinjiang conflict: Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-chinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md) _2017-08-27 03:41:34 (Update)_
+1. [Xinjiang conflict Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-pchinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md) _2018-02-06 13:49:26 (First version)_
+2. [Xinjiang conflict: Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-chinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md) _2018-02-06 13:49:26 (Update)_
 2. [Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/chinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkant-county-china.md) _(Current version)_
 
 ### Related:

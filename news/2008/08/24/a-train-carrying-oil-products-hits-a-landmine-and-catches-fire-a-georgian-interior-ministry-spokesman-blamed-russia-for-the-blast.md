@@ -17,8 +17,8 @@ Formats: [HTML](/news/2008/08/24/a-train-carrying-oil-products-hits-a-landmine-a
 
 ### Changes:
 
-1. [ 2008 South Ossetia War: A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/2008-south-ossetia-war-p-a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russ.md) _2017-08-25 03:22:45 (First version)_
-2. [ 2008 South Ossetia War:: A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/2008-south-ossetia-war-a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russ.md) _2017-08-27 03:22:39 (Update)_
+1. [ 2008 South Ossetia War: A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/2008-south-ossetia-war-p-a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russ.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008 South Ossetia War:: A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/2008-south-ossetia-war-a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russ.md) _2018-02-06 13:49:18 (Update)_
 2. [ A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russia-for-the-blast.md) _(Current version)_
 
 ### Related:

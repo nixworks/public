@@ -15,8 +15,8 @@ Formats: [HTML](/news/2007/10/7/typhoon-krosa-moves-towards-china-s-southern-zhe
 
 ### Changes:
 
-1. [ 2007 Pacific typhoon season: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-p-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md) _2017-08-25 03:21:08 (First version)_
-2. [ 2007 Pacific typhoon season:: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md) _2017-08-27 03:21:03 (Update)_
+1. [ 2007 Pacific typhoon season:: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pacific typhoon season: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-p-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md) _2018-02-06 13:49:18 (Update)_
 2. [ Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md) _(Current version)_
 
 ### Related:

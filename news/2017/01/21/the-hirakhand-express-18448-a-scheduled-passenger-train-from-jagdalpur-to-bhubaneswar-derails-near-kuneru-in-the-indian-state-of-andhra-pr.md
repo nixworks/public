@@ -16,7 +16,7 @@ The incident took place around 11 pm yesterday when the train was on its way to 
 
 ### Changes:
 
-1. [Kuneru train derailment: The Hirakhand express 18448, a scheduled passenger train from Jagdalpur to Bhubaneswar, derails near Kuneru in the Indian state of Andhra Pradesh. At least 25 are killed and around 200 others are injured. ](/news/2017/01/21/kuneru-train-derailment-the-hirakhand-express-18448-a-scheduled-passenger-train-from-jagdalpur-to-bhubaneswar-derails-near-kuneru-in-the.md) _2017-08-27 03:47:39 (First version)_
+1. [Kuneru train derailment: The Hirakhand express 18448, a scheduled passenger train from Jagdalpur to Bhubaneswar, derails near Kuneru in the Indian state of Andhra Pradesh. At least 25 are killed and around 200 others are injured. ](/news/2017/01/21/kuneru-train-derailment-the-hirakhand-express-18448-a-scheduled-passenger-train-from-jagdalpur-to-bhubaneswar-derails-near-kuneru-in-the.md) _2018-02-06 13:49:30 (First version)_
 1. [The Hirakhand express 18448, a scheduled passenger train from Jagdalpur to Bhubaneswar, derails near Kuneru in the Indian state of Andhra Pradesh. At least 25 are killed and around 200 others are injured. ](/news/2017/01/21/the-hirakhand-express-18448-a-scheduled-passenger-train-from-jagdalpur-to-bhubaneswar-derails-near-kuneru-in-the-indian-state-of-andhra-pr.md) _(Current version)_
 
 ### Related:

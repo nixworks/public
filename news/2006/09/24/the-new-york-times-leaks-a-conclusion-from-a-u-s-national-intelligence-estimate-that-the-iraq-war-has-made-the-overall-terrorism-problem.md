@@ -17,7 +17,7 @@ A stark assessment has found that the American invasion and occupation of Iraq h
 
 ### Changes:
 
-1. [ The ''New York Times'' leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-probl.md) _2017-08-25 03:18:27 (First version)_
+1. [ The ''New York Times'' leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-probl.md) _2018-02-06 13:49:17 (First version)_
 1. [ The "New York Times" leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-problem.md) _(Current version)_
 
 ### Related:

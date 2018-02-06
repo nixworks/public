@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-2-catches-fir
 
 ### Changes:
 
-1. [The Norwegian cruise ship {{MS|Nordlys|1993|2}} catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-ms-nordlys-1993-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md) _2017-05-01 03:36:29 (First version)_
-2. [The Norwegian cruise ship Nordlys|1993|2 catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-1993-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md) _2017-08-29 03:34:12 (Update)_
+1. [The Norwegian cruise ship Nordlys|1993|2 catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-1993-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md) _2018-02-06 13:49:22 (First version)_
+2. [The Norwegian cruise ship {{MS|Nordlys|1993|2}} catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-ms-nordlys-1993-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md) _2018-02-06 13:49:22 (Update)_
 2. [The Norwegian cruise ship Nordlys 2 catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md) _(Current version)_
 
 ### Related:

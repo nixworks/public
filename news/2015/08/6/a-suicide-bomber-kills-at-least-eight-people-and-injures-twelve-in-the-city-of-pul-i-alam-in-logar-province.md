@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): A suicide bomber kills at least eight people and injures twelve in the city of Pul-i-Alam in Logar Province. ](/news/2015/08/6/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-eight-people-and-injures-twelve-in-the-city-of-pul-i-alam-in-logar-prov.md) _2017-08-27 03:42:47 (First version)_
+1. [War in Afghanistan (2015-present): A suicide bomber kills at least eight people and injures twelve in the city of Pul-i-Alam in Logar Province. ](/news/2015/08/6/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-eight-people-and-injures-twelve-in-the-city-of-pul-i-alam-in-logar-prov.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomber kills at least eight people and injures twelve in the city of Pul-i-Alam in Logar Province. ](/news/2015/08/6/a-suicide-bomber-kills-at-least-eight-people-and-injures-twelve-in-the-city-of-pul-i-alam-in-logar-province.md) _(Current version)_
 
 ### Related:

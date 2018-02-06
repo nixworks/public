@@ -20,8 +20,8 @@ Formats: [HTML](/news/2009/10/18/senior-commanders-of-iran-s-revolutionary-guard
 
 ### Changes:
 
-1. [ 2009 Pishin bombing: Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-p-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md) _2017-08-25 03:26:05 (First version)_
-2. [ 2009 Pishin bombing:: Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md) _2017-08-27 03:25:57 (Update)_
+1. [ 2009 Pishin bombing:: Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md) _2018-02-06 13:49:19 (First version)_
+2. [ 2009 Pishin bombing: Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-p-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md) _2018-02-06 13:49:19 (Update)_
 2. [ Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of-the-country.md) _(Current version)_
 
 ### Related:

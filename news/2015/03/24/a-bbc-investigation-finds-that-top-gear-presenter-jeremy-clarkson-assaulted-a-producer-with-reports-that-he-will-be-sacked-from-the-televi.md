@@ -16,7 +16,7 @@ Jeremy Clarkson is to be sacked as Top Gear presenter after a BBC investigation 
 
 ### Changes:
 
-1. [A BBC investigation finds that ''Top Gear'' presenter Jeremy Clarkson assaulted a producer with reports that he will be sacked from the television program. ](/news/2015/03/24/a-bbc-investigation-finds-that-top-gear-presenter-jeremy-clarkson-assaulted-a-producer-with-reports-that-he-will-be-sacked-from-the-tele.md) _2017-08-25 03:41:48 (First version)_
+1. [A BBC investigation finds that ''Top Gear'' presenter Jeremy Clarkson assaulted a producer with reports that he will be sacked from the television program. ](/news/2015/03/24/a-bbc-investigation-finds-that-top-gear-presenter-jeremy-clarkson-assaulted-a-producer-with-reports-that-he-will-be-sacked-from-the-tele.md) _2018-02-06 13:49:26 (First version)_
 1. [A BBC investigation finds that "Top Gear" presenter Jeremy Clarkson assaulted a producer with reports that he will be sacked from the television program. ](/news/2015/03/24/a-bbc-investigation-finds-that-top-gear-presenter-jeremy-clarkson-assaulted-a-producer-with-reports-that-he-will-be-sacked-from-the-televi.md) _(Current version)_
 
 ### Related:

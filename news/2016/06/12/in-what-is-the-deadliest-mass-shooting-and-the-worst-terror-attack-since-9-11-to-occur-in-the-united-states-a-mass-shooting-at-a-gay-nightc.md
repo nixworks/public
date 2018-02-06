@@ -22,7 +22,7 @@ The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen t
 
 ### Changes:
 
-1. [2016 Orlando nightclub shooting: In what is the deadliest mass shooting and the worst terror attack since 9-11 to occur in the United States, a mass shooting at a gay nightclub in the U.S. city of Orlando, Florida, kills at least 50 people, including the shooter, and injures 53. ](/news/2016/06/12/2016-orlando-nightclub-shooting-in-what-is-the-deadliest-mass-shooting-and-the-worst-terror-attack-since-9-11-to-occur-in-the-united-states.md) _2017-08-27 03:46:15 (First version)_
+1. [2016 Orlando nightclub shooting: In what is the deadliest mass shooting and the worst terror attack since 9-11 to occur in the United States, a mass shooting at a gay nightclub in the U.S. city of Orlando, Florida, kills at least 50 people, including the shooter, and injures 53. ](/news/2016/06/12/2016-orlando-nightclub-shooting-in-what-is-the-deadliest-mass-shooting-and-the-worst-terror-attack-since-9-11-to-occur-in-the-united-states.md) _2018-02-06 13:49:29 (First version)_
 1. [In what is the deadliest mass shooting and the worst terror attack since 9-11 to occur in the United States, a mass shooting at a gay nightclub in the U.S. city of Orlando, Florida, kills at least 50 people, including the shooter, and injures 53. ](/news/2016/06/12/in-what-is-the-deadliest-mass-shooting-and-the-worst-terror-attack-since-9-11-to-occur-in-the-united-states-a-mass-shooting-at-a-gay-nightc.md) _(Current version)_
 
 ### Related:

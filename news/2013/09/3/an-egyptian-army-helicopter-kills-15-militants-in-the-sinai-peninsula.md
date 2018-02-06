@@ -16,8 +16,8 @@ Fifteen militants were killed in the Sinai Peninsula by rocket fire, Egyptian st
 
 ### Changes:
 
-1. [Sinai insurgency:An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/sinai-insurgency-pan-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md) _2017-08-25 03:39:14 (First version)_
-2. [Sinai insurgency:: An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/sinai-insurgency-an-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md) _2017-08-27 03:39:30 (Update)_
+1. [Sinai insurgency:An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/sinai-insurgency-pan-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md) _2018-02-06 13:49:25 (First version)_
+2. [Sinai insurgency:: An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/sinai-insurgency-an-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md) _2018-02-06 13:49:25 (Update)_
 2. [An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/an-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md) _(Current version)_
 
 ### Related:

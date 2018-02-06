@@ -16,7 +16,7 @@ Arson Fern Jr., one of 25 people aboard a plane that crashed following takeoff f
 
 ### Changes:
 
-1. [A plane crash in Fond-du-Lac, Saskatchewan, causes 25 injuries, some serious. No deaths are reported. ](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-causes-25-injuries-some-serious-no-deaths-are-reported.md) _2017-12-21 23:30:04 (First version)_
+1. [A plane crash in Fond-du-Lac, Saskatchewan, causes 25 injuries, some serious. No deaths are reported. ](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-causes-25-injuries-some-serious-no-deaths-are-reported.md) _2018-02-06 13:49:31 (First version)_
 1. [A plane crash in Fond-du-Lac, Saskatchewan, causes 24 injuries and 1 death. ](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-causes-24-injuries-and-1-death.md) _(Current version)_
 
 ### Related:

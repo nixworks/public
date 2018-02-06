@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/25/the-parliament-of-ukraine-removes-the-five-poin
 
 ### Changes:
 
-1. [The Parliament of Ukraine removes the five-pointed red star from its spire in a measure aimed at erasing the nation-s Soviet legacy. ](/news/2014/02/25/the-parliament-of-ukraine-removes-the-five-pointed-red-star-from-its-spire-in-a-measure-aimed-at-erasing-the-nation-s-soviet-legacy.md) _2017-08-27 03:40:23 (First version)_
+1. [The Parliament of Ukraine removes the five-pointed red star from its spire in a measure aimed at erasing the nation-s Soviet legacy. ](/news/2014/02/25/the-parliament-of-ukraine-removes-the-five-pointed-red-star-from-its-spire-in-a-measure-aimed-at-erasing-the-nation-s-soviet-legacy.md) _2018-02-06 13:49:25 (First version)_
 1. [The Parliament of Ukraine removes the five-pointed red star from its spire in a measure aimed at erasing the nation's Soviet legacy. ](/news/2014/02/25/the-parliament-of-ukraine-removes-the-five-pointed-red-star-from-its-spire-in-a-measure-aimed-at-erasing-the-nationas-soviet-legacy.md) _(Current version)_
 
 ### Related:

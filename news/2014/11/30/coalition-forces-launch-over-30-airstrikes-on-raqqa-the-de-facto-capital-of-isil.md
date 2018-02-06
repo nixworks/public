@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/30/coalition-forces-launch-over-30-airstrikes-on-r
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Coalition forces launch over 30 airstrikes on Raqqa, the "de facto" capital of ISIL. ](/news/2014/11/30/islamic-state-of-iraq-and-the-levant-coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md) _2017-08-27 03:41:34 (First version)_
+1. [Islamic State of Iraq and the Levant: Coalition forces launch over 30 airstrikes on Raqqa, the "de facto" capital of ISIL. ](/news/2014/11/30/islamic-state-of-iraq-and-the-levant-coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md) _2018-02-06 13:49:26 (First version)_
 1. [Coalition forces launch over 30 airstrikes on Raqqa, the "de facto" capital of ISIL. ](/news/2014/11/30/coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md) _(Current version)_
 
 ### Related:

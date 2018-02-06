@@ -11,8 +11,8 @@ Formats: [HTML](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-m
 
 ### Changes:
 
-1. [US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. ](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md) _2017-08-25 03:40:34 (First version)_
-2. [War in North-West Pakistan: US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http:--www.thenews.com.pk-article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/war-in-north-west-pakistan-us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md) _2017-08-27 03:40:52 (Update)_
+1. [War in North-West Pakistan: US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http:--www.thenews.com.pk-article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/war-in-north-west-pakistan-us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md) _2018-02-06 13:49:26 (First version)_
+2. [US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. ](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md) _2018-02-06 13:49:26 (Update)_
 2. [US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http:--www.thenews.com.pk-article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths-http-www-thenews-com-pk-a.md) _(Current version)_
 
 ### Related:

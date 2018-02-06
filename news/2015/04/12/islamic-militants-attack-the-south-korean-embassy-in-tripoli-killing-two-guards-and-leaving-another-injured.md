@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/12/islamic-militants-attack-the-south-korean-embas
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): Islamic militants attack the South Korean embassy in Tripoli killing two guards and leaving another injured. ](/news/2015/04/12/libyan-civil-war-2014-present-islamic-militants-attack-the-south-korean-embassy-in-tripoli-killing-two-guards-and-leaving-another-injur.md) _2017-08-27 03:42:11 (First version)_
+1. [Libyan Civil War (2014-present): Islamic militants attack the South Korean embassy in Tripoli killing two guards and leaving another injured. ](/news/2015/04/12/libyan-civil-war-2014-present-islamic-militants-attack-the-south-korean-embassy-in-tripoli-killing-two-guards-and-leaving-another-injur.md) _2018-02-06 13:49:27 (First version)_
 1. [Islamic militants attack the South Korean embassy in Tripoli killing two guards and leaving another injured. ](/news/2015/04/12/islamic-militants-attack-the-south-korean-embassy-in-tripoli-killing-two-guards-and-leaving-another-injured.md) _(Current version)_
 
 ### Related:

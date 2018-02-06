@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/06/7/chancellor-angela-merkel-agrees-a-80-billion-of-
 
 ### Changes:
 
-1. [Chancellor Angela Merkel agrees -80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md) _2017-08-27 03:28:09 (First version)_
+1. [Chancellor Angela Merkel agrees -80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md) _2018-02-06 13:49:20 (First version)_
 1. [Chancellor Angela Merkel agrees EUR80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-a-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md) _(Current version)_
 
 ### Related:

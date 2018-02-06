@@ -16,7 +16,7 @@ At least 68 people were killed in an early morning explosion at a factory near S
 
 ### Changes:
 
-1. [2014 Kunshan explosion: At least 68 people were killed and more than 180 injured in an early morning explosion at a factory near Shanghai that makes automobile parts for General Motors. The factory produces aluminum alloy tire rims. ](/news/2014/08/2/2014-kunshan-explosion-at-least-68-people-were-killed-and-more-than-180-injured-in-an-early-morning-explosion-at-a-factory-near-shanghai-th.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 Kunshan explosion: At least 68 people were killed and more than 180 injured in an early morning explosion at a factory near Shanghai that makes automobile parts for General Motors. The factory produces aluminum alloy tire rims. ](/news/2014/08/2/2014-kunshan-explosion-at-least-68-people-were-killed-and-more-than-180-injured-in-an-early-morning-explosion-at-a-factory-near-shanghai-th.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 68 people were killed and more than 180 injured in an early morning explosion at a factory near Shanghai that makes automobile parts for General Motors. The factory produces aluminum alloy tire rims. ](/news/2014/08/2/at-least-68-people-were-killed-and-more-than-180-injured-in-an-early-morning-explosion-at-a-factory-near-shanghai-that-makes-automobile-part.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-c
 
 ### Changes:
 
-1. [Miss Universe 2016: Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/miss-universe-2016-iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philipp.md) _2017-08-27 03:47:43 (First version)_
+1. [Miss Universe 2016: Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/miss-universe-2016-iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philipp.md) _2018-02-06 13:49:30 (First version)_
 1. [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md) _(Current version)_
 
 ### Related:

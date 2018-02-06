@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/26/a-militant-group-affiliated-with-isil-seizes-th
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A militant group affiliated with ISIL seizes the coastal town of Qandala in the autonomous Puntland region. ](/news/2016/10/26/war-in-somalia-2009-present-a-militant-group-affiliated-with-isil-seizes-the-coastal-town-of-qandala-in-the-autonomous-puntland-region.md) _2017-08-27 03:47:08 (First version)_
+1. [War in Somalia (2009-present): A militant group affiliated with ISIL seizes the coastal town of Qandala in the autonomous Puntland region. ](/news/2016/10/26/war-in-somalia-2009-present-a-militant-group-affiliated-with-isil-seizes-the-coastal-town-of-qandala-in-the-autonomous-puntland-region.md) _2018-02-06 13:49:29 (First version)_
 1. [A militant group affiliated with ISIL seizes the coastal town of Qandala in the autonomous Puntland region. ](/news/2016/10/26/a-militant-group-affiliated-with-isil-seizes-the-coastal-town-of-qandala-in-the-autonomous-puntland-region.md) _(Current version)_
 
 ### Related:

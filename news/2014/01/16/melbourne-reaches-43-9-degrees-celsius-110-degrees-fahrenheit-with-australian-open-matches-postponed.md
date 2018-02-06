@@ -17,8 +17,8 @@ Rafa Nadal swept into the Australian Open third round under the Rod Laver Arena 
 
 ### Changes:
 
-1. [2014 Australian heat wave:Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/2014-australian-heat-wave-pmelbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md) _2017-08-25 03:39:52 (First version)_
-2. [2014 Australian heat wave:: Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/2014-australian-heat-wave-melbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md) _2017-08-27 03:40:11 (Update)_
+1. [2014 Australian heat wave:Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/2014-australian-heat-wave-pmelbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md) _2018-02-06 13:49:25 (First version)_
+2. [2014 Australian heat wave:: Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/2014-australian-heat-wave-melbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md) _2018-02-06 13:49:25 (Update)_
 2. [Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/melbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md) _(Current version)_
 
 ### Related:

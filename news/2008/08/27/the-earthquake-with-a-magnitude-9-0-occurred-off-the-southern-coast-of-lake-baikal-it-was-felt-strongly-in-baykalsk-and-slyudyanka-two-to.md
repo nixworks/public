@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/08/27/the-earthquake-with-a-magnitude-9-0-occurred-of
 
 ### Changes:
 
-1. [ The earthquake with a magnitude 9.0 occurred off the southern coast of Lake Baikal. It was felt strongly in Baikalsk and Slyudyanka, two towns in Slyudyansky District, Irkutsk Oblast, Russia. ](/news/2008/08/27/the-earthquake-with-a-magnitude-9-0-occurred-off-the-southern-coast-of-lake-baikal-it-was-felt-strongly-in-baikalsk-and-slyudyanka-two-to.md) _2017-09-24 03:25:29 (First version)_
+1. [ The earthquake with a magnitude 9.0 occurred off the southern coast of Lake Baikal. It was felt strongly in Baikalsk and Slyudyanka, two towns in Slyudyansky District, Irkutsk Oblast, Russia. ](/news/2008/08/27/the-earthquake-with-a-magnitude-9-0-occurred-off-the-southern-coast-of-lake-baikal-it-was-felt-strongly-in-baikalsk-and-slyudyanka-two-to.md) _2018-02-06 13:49:18 (First version)_
 1. [ The earthquake with a magnitude 9.0 occurred off the southern coast of Lake Baikal. It was felt strongly in Baykalsk and Slyudyanka, two towns in Slyudyansky District, Irkutsk Oblast, Russia. ](/news/2008/08/27/the-earthquake-with-a-magnitude-9-0-occurred-off-the-southern-coast-of-lake-baikal-it-was-felt-strongly-in-baykalsk-and-slyudyanka-two-to.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fu
 
 ### Changes:
 
-1. [Crime in New York (state): Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/crime-in-new-york-state-former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-fede.md) _2017-08-27 03:48:46 (First version)_
+1. [Crime in New York (state): Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/crime-in-new-york-state-former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-fede.md) _2018-02-06 13:49:31 (First version)_
 1. [Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-federal-court-in-brooklyn-new.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/08/13/protests-against-the-shooting-of-michael-brown-
 
 ### Changes:
 
-1. [Shooting of Michael Brown: Protests against the shooting of Michael Brown by the Ferguson Police Department in the US state of Missouri turn violent. ](/news/2014/08/13/shooting-of-michael-brown-protests-against-the-shooting-of-michael-brown-by-the-ferguson-police-department-in-the-us-state-of-missouri-turn.md) _2017-08-27 03:41:08 (First version)_
+1. [Shooting of Michael Brown: Protests against the shooting of Michael Brown by the Ferguson Police Department in the US state of Missouri turn violent. ](/news/2014/08/13/shooting-of-michael-brown-protests-against-the-shooting-of-michael-brown-by-the-ferguson-police-department-in-the-us-state-of-missouri-turn.md) _2018-02-06 13:49:26 (First version)_
 1. [Protests against the shooting of Michael Brown by the Ferguson Police Department in the US state of Missouri turn violent. ](/news/2014/08/13/protests-against-the-shooting-of-michael-brown-by-the-ferguson-police-department-in-the-us-state-of-missouri-turn-violent.md) _(Current version)_
 
 ### Related:

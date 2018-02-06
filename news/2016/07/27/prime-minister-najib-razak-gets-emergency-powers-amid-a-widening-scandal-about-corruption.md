@@ -16,7 +16,7 @@ Laws will allow forces to conduct searches without a warrant and dispenses with 
 
 ### Changes:
 
-1. [1Malaysia Development Berhad scandal: Prime Minister Najib Razak gets emergency powers amid a widening scandal about corruption. ](/news/2016/07/27/1malaysia-development-berhad-scandal-prime-minister-najib-razak-gets-emergency-powers-amid-a-widening-scandal-about-corruption.md) _2017-08-27 03:46:33 (First version)_
+1. [1Malaysia Development Berhad scandal: Prime Minister Najib Razak gets emergency powers amid a widening scandal about corruption. ](/news/2016/07/27/1malaysia-development-berhad-scandal-prime-minister-najib-razak-gets-emergency-powers-amid-a-widening-scandal-about-corruption.md) _2018-02-06 13:49:29 (First version)_
 1. [Prime Minister Najib Razak gets emergency powers amid a widening scandal about corruption. ](/news/2016/07/27/prime-minister-najib-razak-gets-emergency-powers-amid-a-widening-scandal-about-corruption.md) _(Current version)_
 
 ### Related:

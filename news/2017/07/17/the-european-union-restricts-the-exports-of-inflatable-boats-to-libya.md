@@ -15,7 +15,7 @@ Most of the 100,000 refugees and migrants who crossed the Mediterranean Sea this
 
 ### Changes:
 
-1. [European Union-Libya relations: The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/european-union-libya-relations-the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _2017-08-27 03:48:40 (First version)_
+1. [European Union-Libya relations: The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/european-union-libya-relations-the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _2018-02-06 13:49:30 (First version)_
 1. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _(Current version)_
 
 ### Related:

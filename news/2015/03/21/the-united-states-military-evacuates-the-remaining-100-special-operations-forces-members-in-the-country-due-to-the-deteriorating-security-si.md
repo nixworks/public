@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/03/21/the-united-states-military-evacuates-the-remain
 
 ### Changes:
 
-1. [Yemeni crisis: The United States military evacuates the remaining 100 Special Operations forces members in the country due to the deteriorating security situation. ](/news/2015/03/21/yemeni-crisis-the-united-states-military-evacuates-the-remaining-100-special-operations-forces-members-in-the-country-due-to-the-deteriorat.md) _2017-08-27 03:42:07 (First version)_
+1. [Yemeni crisis: The United States military evacuates the remaining 100 Special Operations forces members in the country due to the deteriorating security situation. ](/news/2015/03/21/yemeni-crisis-the-united-states-military-evacuates-the-remaining-100-special-operations-forces-members-in-the-country-due-to-the-deteriorat.md) _2018-02-06 13:49:26 (First version)_
 1. [The United States military evacuates the remaining 100 Special Operations forces members in the country due to the deteriorating security situation. ](/news/2015/03/21/the-united-states-military-evacuates-the-remaining-100-special-operations-forces-members-in-the-country-due-to-the-deteriorating-security-si.md) _(Current version)_
 
 ### Related:

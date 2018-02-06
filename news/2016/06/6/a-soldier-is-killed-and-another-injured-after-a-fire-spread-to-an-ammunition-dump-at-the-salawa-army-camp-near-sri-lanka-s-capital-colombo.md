@@ -15,7 +15,7 @@ COLOMBO, Sri Lanka (AP) — A fire that set off explosions and killed a soldier 
 
 ### Changes:
 
-1. [A soldier is killed and another injured after a fire spread to an ammunition dump at the Salawa army camp near Sri Lanka's capital Colombo. Thousands of people in the area were evacuated. The fire is under control, according to a military spokesman. ](/news/2016/06/6/a-soldier-is-killed-and-another-injured-after-a-fire-spread-to-an-ammunition-dump-at-the-salawa-army-camp-near-sri-lanka-s-capital-colomb.md) _2017-08-25 03:45:50 (First version)_
+1. [A soldier is killed and another injured after a fire spread to an ammunition dump at the Salawa army camp near Sri Lanka's capital Colombo. Thousands of people in the area were evacuated. The fire is under control, according to a military spokesman. ](/news/2016/06/6/a-soldier-is-killed-and-another-injured-after-a-fire-spread-to-an-ammunition-dump-at-the-salawa-army-camp-near-sri-lanka-s-capital-colomb.md) _2018-02-06 13:49:29 (First version)_
 1. [A soldier is killed and another injured after a fire spread to an ammunition dump at the Salawa army camp near Sri Lanka's capital Colombo. Thousands of people in the area were evacuated. The fire is under control, according to a military spokesman. ](/news/2016/06/6/a-soldier-is-killed-and-another-injured-after-a-fire-spread-to-an-ammunition-dump-at-the-salawa-army-camp-near-sri-lanka-s-capital-colombo.md) _(Current version)_
 
 ### Related:

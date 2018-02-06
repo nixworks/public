@@ -17,7 +17,7 @@ Kurdistan Workers Party (PKK) militants kill three Turkish police officers overn
 
 ### Changes:
 
-1. [Turkey-PKK conflict: PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/turkey-pkk-conflict-pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-cla.md) _2017-08-27 03:43:04 (First version)_
+1. [Turkey-PKK conflict: PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/turkey-pkk-conflict-pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-cla.md) _2018-02-06 13:49:27 (First version)_
 1. [PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-claims-to-have-killed-nine.md) _(Current version)_
 
 ### Related:

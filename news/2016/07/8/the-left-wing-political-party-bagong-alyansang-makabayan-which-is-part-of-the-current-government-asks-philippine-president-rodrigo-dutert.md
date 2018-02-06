@@ -17,7 +17,7 @@ Duterte won the May 9 election by landslide largely on a pledge to kill tens of 
 
 ### Changes:
 
-1. [Human rights in the Philippines; The left-wing political party, Bagong Alyansang Makabayan, which is part of the current government, asks Philippine President Rodrigo Duterte to investigate the recent vigilante killings of suspected drug pushers. ](/news/2016/07/8/human-rights-in-the-philippines-the-left-wing-political-party-bagong-alyansang-makabayan-which-is-part-of-the-current-government-asks-ph.md) _2017-08-25 03:46:05 (First version)_
+1. [Human rights in the Philippines; The left-wing political party, Bagong Alyansang Makabayan, which is part of the current government, asks Philippine President Rodrigo Duterte to investigate the recent vigilante killings of suspected drug pushers. ](/news/2016/07/8/human-rights-in-the-philippines-the-left-wing-political-party-bagong-alyansang-makabayan-which-is-part-of-the-current-government-asks-ph.md) _2018-02-06 13:49:29 (First version)_
 1. [The left-wing political party, Bagong Alyansang Makabayan, which is part of the current government, asks Philippine President Rodrigo Duterte to investigate the recent vigilante killings of suspected drug pushers. ](/news/2016/07/8/the-left-wing-political-party-bagong-alyansang-makabayan-which-is-part-of-the-current-government-asks-philippine-president-rodrigo-dutert.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/01/14/in-an-audio-message-osama-bin-laden-urges-musli
 
 ### Changes:
 
-1. [ 2008-2009 Israel-Gaza conflict: In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/2008a2009-israelagaza-conflict-p-in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md) _2017-08-25 03:23:28 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/2008-2009-israel-gaza-conflict-in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md) _2017-08-27 03:23:21 (Update)_
+1. [ 2008-2009 Israel-Gaza conflict: In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/2008a2009-israelagaza-conflict-p-in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/2008-2009-israel-gaza-conflict-in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md) _2018-02-06 13:49:18 (Update)_
 2. [ In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md) _(Current version)_
 
 ### Related:

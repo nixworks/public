@@ -18,7 +18,7 @@ A Russian court sentences Ukrainian pilot Nadiya Savchenko to 22 years in jail i
 
 ### Changes:
 
-1. [Russia-United States relations, U.S. Secretary of State John Kerry leaves for Moscow for talks on Syria and Ukraine with Russian President Vladimir Putin and Foreign Minister Sergey Lavrov on Wednesday. Kerry is also expected to discuss the case of Ukrainian pilot Nadiya Savchenko, who today was sentenced to 22 years in prison in the city of Donetsk. ](/news/2016/03/22/russiaaunited-states-relations-u-s-secretary-of-state-john-kerry-leaves-for-moscow-for-talks-on-syria-and-ukraine-with-russian-presiden.md) _2017-08-25 03:44:59 (First version)_
+1. [Russia-United States relations, U.S. Secretary of State John Kerry leaves for Moscow for talks on Syria and Ukraine with Russian President Vladimir Putin and Foreign Minister Sergey Lavrov on Wednesday. Kerry is also expected to discuss the case of Ukrainian pilot Nadiya Savchenko, who today was sentenced to 22 years in prison in the city of Donetsk. ](/news/2016/03/22/russiaaunited-states-relations-u-s-secretary-of-state-john-kerry-leaves-for-moscow-for-talks-on-syria-and-ukraine-with-russian-presiden.md) _2018-02-06 13:49:28 (First version)_
 1. [ U.S. Secretary of State John Kerry leaves for Moscow for talks on Syria and Ukraine with Russian President Vladimir Putin and Foreign Minister Sergey Lavrov on Wednesday. Kerry is also expected to discuss the case of Ukrainian pilot Nadiya Savchenko, who today was sentenced to 22 years in prison in the city of Donetsk. ](/news/2016/03/22/u-s-secretary-of-state-john-kerry-leaves-for-moscow-for-talks-on-syria-and-ukraine-with-russian-president-vladimir-putin-and-foreign-minis.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/05/29/in-a-6a5-ruling-the-brazilian-supreme-federal-c
 
 ### Changes:
 
-1. [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6-5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md) _2017-08-27 03:22:09 (First version)_
+1. [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6-5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md) _2018-02-06 13:49:18 (First version)_
 1. [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6a5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md) _(Current version)_
 
 ### Related:

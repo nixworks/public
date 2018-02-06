@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-
 
 ### Changes:
 
-1. [Colombian peace process: Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-peace-process-colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md) _2017-08-27 03:47:02 (First version)_
+1. [Colombian peace process: Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-peace-process-colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md) _2018-02-06 13:49:29 (First version)_
 1. [Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/12/10/medical-personnel-combating-the-spread-of-the-e
 
 ### Changes:
 
-1. [Ebola virus epidemic in West Africa: Medical personnel combating the spread of the Ebola virus are named Time Person of the Year. ](/news/2014/12/10/ebola-virus-epidemic-in-west-africa-medical-personnel-combating-the-spread-of-the-ebola-virus-are-named-time-person-of-the-year.md) _2017-08-27 03:41:36 (First version)_
+1. [Ebola virus epidemic in West Africa: Medical personnel combating the spread of the Ebola virus are named Time Person of the Year. ](/news/2014/12/10/ebola-virus-epidemic-in-west-africa-medical-personnel-combating-the-spread-of-the-ebola-virus-are-named-time-person-of-the-year.md) _2018-02-06 13:49:26 (First version)_
 1. [Medical personnel combating the spread of the Ebola virus are named Time Person of the Year. ](/news/2014/12/10/medical-personnel-combating-the-spread-of-the-ebola-virus-are-named-time-person-of-the-year.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-
 
 ### Changes:
 
-1. [ In Guinea-Bissau, electoral commission declares Joao Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joapso-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md) _2017-08-25 03:16:36 (First version)_
+1. [ In Guinea-Bissau, electoral commission declares Joao Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joapso-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md) _2018-02-06 13:49:16 (First version)_
 1. [ In Guinea-Bissau, electoral commission declares JoGBPo Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joagbpo-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md) _(Current version)_
 
 ### Related:

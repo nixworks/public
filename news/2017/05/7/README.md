@@ -9,7 +9,7 @@ HANOI (AFP) - A truck driving in the wrong direction on a one-way road smashed i
 
 ##### German
 ### [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts defuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-defuse-three-bombs-dropped-by-the-royal-air-f.md)
-_Context: Royal Air Force, World War II, German, bomb disposal, Hanover_
+_Context: German, bomb disposal, Royal Air Force, Hanover, World War II_
 
 ##### state of emergency
 ### [A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. ](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.md)
@@ -23,7 +23,7 @@ France has banned the breeding of killer whales and dolphins in captivity. Campa
 
 ##### last month's presidential election
 ### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md)
-_Context: Emmanuel Macron, second round, last month's presidential election, France, Marine Le Pen, French President_
+_Context: Emmanuel Macron, Marine Le Pen, second round, last month's presidential election, French President, France_
 
 ##### United States Air Force
 ### [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md)

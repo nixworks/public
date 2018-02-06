@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/05/24/a-necklace-worth-a-1-9-million-is-stolen-during
 
 ### Changes:
 
-1. [A necklace worth -1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-1-9-million-is-stolen-during-the-cannes-film-festival.md) _2017-08-27 03:38:56 (First version)_
+1. [A necklace worth -1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-1-9-million-is-stolen-during-the-cannes-film-festival.md) _2018-02-06 13:49:24 (First version)_
 1. [A necklace worth EUR1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-a-1-9-million-is-stolen-during-the-cannes-film-festival.md) _(Current version)_
 
 ### Related:

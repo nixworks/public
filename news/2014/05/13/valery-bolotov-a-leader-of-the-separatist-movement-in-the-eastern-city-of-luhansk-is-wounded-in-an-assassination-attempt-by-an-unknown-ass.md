@@ -18,8 +18,8 @@ Formats: [HTML](/news/2014/05/13/valery-bolotov-a-leader-of-the-separatist-movem
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/2014-pro-russian-unrest-in-ukraine-pvalery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-ass.md) _2017-08-25 03:40:24 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/2014-pro-russian-unrest-in-ukraine-valery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-as.md) _2017-08-27 03:40:41 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/2014-pro-russian-unrest-in-ukraine-valery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-as.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/2014-pro-russian-unrest-in-ukraine-pvalery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-ass.md) _2018-02-06 13:49:26 (Update)_
 2. [Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/valery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-assassination-attempt-by-an-unknown-ass.md) _(Current version)_
 
 ### Related:

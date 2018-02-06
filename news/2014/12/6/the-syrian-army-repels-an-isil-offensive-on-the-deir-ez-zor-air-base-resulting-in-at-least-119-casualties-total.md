@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/6/the-syrian-army-repels-an-isil-offensive-on-the-
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army repels an ISIL offensive on the Deir ez-Zor air base, resulting in at least 119 casualties total. ](/news/2014/12/6/syrian-civil-war-the-syrian-army-repels-an-isil-offensive-on-the-deir-ez-zor-air-base-resulting-in-at-least-119-casualties-total.md) _2017-08-27 03:41:35 (First version)_
+1. [Syrian Civil War: The Syrian Army repels an ISIL offensive on the Deir ez-Zor air base, resulting in at least 119 casualties total. ](/news/2014/12/6/syrian-civil-war-the-syrian-army-repels-an-isil-offensive-on-the-deir-ez-zor-air-base-resulting-in-at-least-119-casualties-total.md) _2018-02-06 13:49:26 (First version)_
 1. [The Syrian Army repels an ISIL offensive on the Deir ez-Zor air base, resulting in at least 119 casualties total. ](/news/2014/12/6/the-syrian-army-repels-an-isil-offensive-on-the-deir-ez-zor-air-base-resulting-in-at-least-119-casualties-total.md) _(Current version)_
 
 ### Related:

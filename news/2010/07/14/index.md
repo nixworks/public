@@ -17,11 +17,11 @@ More than 60 people are taken to hospital after a suspected chlorine gas leak in
 
 ##### United States
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: arrest of Bradley Manning, United States, Wikileaks_
+_Context: Wikileaks, arrest of Bradley Manning, United States_
 
 ##### India
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
-_Context: 2008 Mumbai attacks, India, Inter-Services Intelligence, Pakistan, G. K. Pillai_
+_Context: India, Pakistan, G. K. Pillai, 2008 Mumbai attacks, Inter-Services Intelligence_
 
 ##### Balochistan
 ### [Former Balochistan senator Habib Jalib is shot dead outside his home in Quetta, leading to riots and widespread mourning. ](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.md)
@@ -37,7 +37,7 @@ Prosecutors say Romanian singer Madalina Manole, who was found dead Wednesday mo
 
 ##### The Zutons
 ### [The Zutons frontman Dave McCabe denies breaking a man's nose by headbutting him outside a nightclub in Liverpool. ](/news/2010/07/14/the-zutons-frontman-dave-mccabe-denies-breaking-a-man-s-nose-by-headbutting-him-outside-a-nightclub-in-liverpool.md)
-_Context: headbutt, Liverpool, The Zutons, Dave McCabe_
+_Context: Liverpool, Dave McCabe, The Zutons, headbutt_
 
 ##### Kodachrome
 ### [ It is announced that the last roll of Kodachrome manufactured has been developed for photographer Steve McCurry. ](/news/2010/07/14/it-is-announced-that-the-last-roll-of-kodachrome-manufactured-has-been-developed-for-photographer-steve-mccurry.md)
@@ -47,13 +47,13 @@ _Context: Steve McCurry, Kodachrome_
 ### [Airline Ryanair is reprimanded by the UK's Advertising Standards Authority for misleading customers with their advertisements for low fares. ](/news/2010/07/14/airline-ryanair-is-reprimanded-by-the-uk-s-advertising-standards-authority-for-misleading-customers-with-their-advertisements-for-low-fares.md)
 Ryanair is once again reprimanded by a watchdog which found that it misled customers with low fare offers.
 
-##### Turkish
+##### Turkey
 ### [A group of more than 30 journalists from such countries as Turkey, Spain, Germany, Lebanon, Egypt, the United Kingdom and the United States announces it is to take legal action against Israel for equipment lost and money stolen due to the Gaza flotilla raid. ](/news/2010/07/14/a-group-of-more-than-30-journalists-from-such-countries-as-turkey-spain-germany-lebanon-egypt-the-united-kingdom-and-the-united-states.md)
 Group of more than 30 reporters to demand compensation from Israeli government.
 
 ##### Guantanamo Bay
 ### [Previously secret papers released as a result of civil proceedings brought by six former Guantanamo Bay inmates against MI5 and MI6, the Home Office, the Foreign Office, and the Attorney General's Office reveal the British government was involved in the abduction and torture of its own citizens following the September 11 attacks. ](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.md)
-_Context: MI5, September 11 attacks, MI6, Guantanamo Bay_
+_Context: Guantanamo Bay, MI5, September 11 attacks, MI6_
 
 ##### same-sex marriage
 ### [Tens of thousands take part in a church-sponsored demonstration against same-sex marriage outside Congress in Buenos Aires, as senators prepare to vote on a bill which would make Argentina the first South American country to legalize same-sex marriage. ](/news/2010/07/14/tens-of-thousands-take-part-in-a-church-sponsored-demonstration-against-same-sex-marriage-outside-congress-in-buenos-aires-as-senators-prep.md)
@@ -105,7 +105,7 @@ Israeli bulldozing of Palestinian property comes week after US pushes peace talk
 
 ##### Sri Lanka
 ### [The Sri Lankan cabinet meets in Kilinochchi, the former capital of the Tamil Tigers in the far north of the island. ](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.md)
-_Context: Kilinochchi, Tamil Tigers, Sri Lanka_
+_Context: Tamil Tigers, Sri Lanka, Kilinochchi_
 
 ##### Fianna Fail
 ### [Irish Fianna Fail Senator Ivor Callely is suspended for 20 days without pay due to a travel expenses scandal. ](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.md)
@@ -113,7 +113,7 @@ The Seanad has agreed without a vote to suspend Senator Callely for 20 days with
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna goes to Islamabad for talks with his counterpart of Pakistan, Shah Mehmood Qureshi, for the first time since the 2008 Mumbai attacks. ](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.md)
-_Context: India, 2008 Mumbai attacks, Islamabad, Shah Mehmood Qureshi, SM Krishna, Pakistan_
+_Context: SM Krishna, India, Islamabad, Shah Mehmood Qureshi, Pakistan, 2008 Mumbai attacks_
 
 ##### Chancellor
 ### [Chancellor of Germany Angela Merkel and nearly half her cabinet begin a five-day visit to Russia, China and Kazakhstan as part of an attempt to boost trade, energy and security links. ](/news/2010/07/14/chancellor-of-germany-angela-merkel-and-nearly-half-her-cabinet-begin-a-five-day-visit-to-russia-china-and-kazakhstan-as-part-of-an-attempt.md)
@@ -121,7 +121,7 @@ Angela Merkel starts a five-day visit to Russia, China and Kazakhstan, in a bid 
 
 ##### Beijing
 ### [Beijing authorities begin to gate and lock some lower-income villages, imposing curfews in order to control the flow of migrant workers. ](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.md)
-_Context: migrant worker, curfew, Beijing_
+_Context: Beijing, migrant worker, curfew_
 
 ##### Bastille Day
 ### [A controversial Bastille Day parade gets underway in Paris. ](/news/2010/07/14/a-controversial-bastille-day-parade-gets-underway-in-paris.md)
@@ -139,7 +139,7 @@ Boeing unveils an unmanned hydrogen-powered spy plane, the Phantom Eye, which is
 ### [Researchers find that the Vatican Radio transmitters increase the risk of tumours and leukaemia in children who live nearby. ](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.md)
 Italian cancer experts say there is a connection between radiation from Vatican Radio transmitters and a high number of child cancer cases.
 
-##### British
+##### United Kingdom
 ### [The United Kingdom announces its refusal to issue visas to a lacrosse team representing the Iroquois Confederacy, whose departure has been delayed since Friday, after the United States Department of State earlier in the day cleared the team's departure with tribal passports. The UK stated that it will only recognise passports from the United States or Canada. ](/news/2010/07/14/the-united-kingdom-announces-its-refusal-to-issue-visas-to-a-lacrosse-team-representing-the-iroquois-confederacy-whose-departure-has-been-d.md)
 The Iroquois national lacrosse team received permission on Wednesday from the State Department to travel on tribal passports, but England refused to grant visas.
 
@@ -149,7 +149,7 @@ Red Bull New York signed French forward Thierry Henry to a multi-year contract a
 
 ##### UK Athletics
 ### [UK Athletics (UKA) requests changes to Britain's tax laws after sprinter Usain Bolt declines to appear at a meeting in London for financial reasons. ](/news/2010/07/14/uk-athletics-uka-requests-changes-to-britain-s-tax-laws-after-sprinter-usain-bolt-declines-to-appear-at-a-meeting-in-london-for-financial.md)
-_Context: UK Athletics, London, Usain Bolt_
+_Context: London, Usain Bolt, UK Athletics_
 
 ## [Previous Day...](/news/2010/07/13/index.md)
 

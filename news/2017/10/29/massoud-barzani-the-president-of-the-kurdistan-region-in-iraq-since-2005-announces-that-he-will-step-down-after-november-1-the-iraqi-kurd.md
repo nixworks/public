@@ -16,8 +16,8 @@ Massud Barzani, the president of the autonomous Kurdish region in Iraq, told a c
 
 ### Changes:
 
-1. [Massoud Barzani, the President of the Kurdistan Region in Iraq, announces that he steps down after November 1. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-announces-that-he-steps-down-after-november-1.md) _2017-10-29 23:30:04 (First version)_
-2. [Massoud Barzani, the president of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md) _2017-11-01 17:30:05 (Update)_
+1. [Massoud Barzani, the president of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md) _2018-02-06 13:49:31 (First version)_
+2. [Massoud Barzani, the President of the Kurdistan Region in Iraq, announces that he steps down after November 1. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-announces-that-he-steps-down-after-november-1.md) _2018-02-06 13:49:31 (Update)_
 2. [Massoud Barzani, the president of the Kurdistan Region in Iraq since 2005, announces that he will step down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-will-step-down-after-november-1-the-iraqi-kurd.md) _(Current version)_
 
 ### Related:

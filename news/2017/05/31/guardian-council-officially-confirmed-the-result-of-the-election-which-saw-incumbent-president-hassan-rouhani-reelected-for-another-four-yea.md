@@ -16,7 +16,7 @@ The Guardian Council confirms the result of Iran’s 12th presidential election.
 
 ### Changes:
 
-1. [Iranian presidential election, 2017: Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/iranian-presidential-election-2017-guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-r.md) _2017-08-27 03:48:24 (First version)_
+1. [Iranian presidential election, 2017: Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/iranian-presidential-election-2017-guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-r.md) _2018-02-06 13:49:30 (First version)_
 1. [Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-rouhani-reelected-for-another-four-yea.md) _(Current version)_
 
 ### Related:

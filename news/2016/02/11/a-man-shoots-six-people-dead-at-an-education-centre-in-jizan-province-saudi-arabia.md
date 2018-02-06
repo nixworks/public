@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/11/a-man-shoots-six-people-dead-at-an-education-ce
 
 ### Changes:
 
-1. [Terrorism in Saudi Arabia: A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/terrorism-in-saudi-arabia-a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md) _2017-08-27 03:44:53 (First version)_
+1. [Terrorism in Saudi Arabia: A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/terrorism-in-saudi-arabia-a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md) _2018-02-06 13:49:28 (First version)_
 1. [A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md) _(Current version)_
 
 ### Related:

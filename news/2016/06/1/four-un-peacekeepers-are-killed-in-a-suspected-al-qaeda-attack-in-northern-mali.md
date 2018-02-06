@@ -17,7 +17,7 @@ Al-Qaeda’s North Africa branch said it did battle with “crusader occupation 
 
 ### Changes:
 
-1. [Northern Mali conflict: Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/northern-mali-conflict-four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _2017-08-27 03:46:11 (First version)_
+1. [Northern Mali conflict: Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/northern-mali-conflict-four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _2018-02-06 13:49:29 (First version)_
 1. [Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _(Current version)_
 
 ### Related:

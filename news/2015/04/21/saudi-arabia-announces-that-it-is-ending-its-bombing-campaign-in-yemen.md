@@ -16,7 +16,7 @@ A Saudi-led coalition ends its month-long bombing campaign against rebels in Yem
 
 ### Changes:
 
-1. [Yemeni Civil War: Saudi Arabia announces that it is ending its bombing campaign in Yemen. ](/news/2015/04/21/yemeni-civil-war-saudi-arabia-announces-that-it-is-ending-its-bombing-campaign-in-yemen.md) _2017-08-27 03:42:13 (First version)_
+1. [Yemeni Civil War: Saudi Arabia announces that it is ending its bombing campaign in Yemen. ](/news/2015/04/21/yemeni-civil-war-saudi-arabia-announces-that-it-is-ending-its-bombing-campaign-in-yemen.md) _2018-02-06 13:49:27 (First version)_
 1. [Saudi Arabia announces that it is ending its bombing campaign in Yemen. ](/news/2015/04/21/saudi-arabia-announces-that-it-is-ending-its-bombing-campaign-in-yemen.md) _(Current version)_
 
 ### Related:

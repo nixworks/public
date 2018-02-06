@@ -20,8 +20,8 @@ Colonel Bob Seddon, Britain&rsquo;s senior bomb disposal officer, has resigned h
 
 ### Changes:
 
-1. [Operation Herrick:Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-pcolonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about-t.md) _2017-08-25 03:28:00 (First version)_
-2. [Operation Herrick:: Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about.md) _2017-08-27 03:27:59 (Update)_
+1. [Operation Herrick:Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-pcolonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about-t.md) _2018-02-06 13:49:20 (First version)_
+2. [Operation Herrick:: Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about.md) _2018-02-06 13:49:20 (Update)_
 2. [Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about-the-pressures-on-his.md) _(Current version)_
 
 ### Related:

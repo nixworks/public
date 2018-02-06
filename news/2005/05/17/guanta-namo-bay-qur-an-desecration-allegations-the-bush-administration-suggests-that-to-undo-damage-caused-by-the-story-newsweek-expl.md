@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-
 
 ### Changes:
 
-1. [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, ''Newsweek'' explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-ex.md) _2017-08-25 03:16:13 (First version)_
+1. [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, ''Newsweek'' explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-ex.md) _2018-02-06 13:49:16 (First version)_
 1. [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, "Newsweek" explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-expl.md) _(Current version)_
 
 ### Related:

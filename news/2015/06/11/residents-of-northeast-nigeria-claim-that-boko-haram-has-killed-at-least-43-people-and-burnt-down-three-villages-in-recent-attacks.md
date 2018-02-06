@@ -16,7 +16,7 @@ Boko Haram gunmen killed at least 43 people and burnt down three villages in nor
 
 ### Changes:
 
-1. [Boko Haram: Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/boko-haram-residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attac.md) _2017-08-27 03:42:31 (First version)_
+1. [Boko Haram: Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/boko-haram-residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attac.md) _2018-02-06 13:49:27 (First version)_
 1. [Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attacks.md) _(Current version)_
 
 ### Related:

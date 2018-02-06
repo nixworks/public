@@ -19,7 +19,7 @@ Miloš Zeman dismisses accusations of Islamophobia amid UN condemnation of count
 
 ### Changes:
 
-1. [European migrant crisis: Authorities in Slovenia say around 2,000 migrants from a refugee camp at the Croatian border are traveling in four trains toward Austria, three to the overloaded crossing at Sentilj and the other to Jesenice. ](/news/2015/10/22/european-migrant-crisis-authorities-in-slovenia-say-around-2-000-migrants-from-a-refugee-camp-at-the-croatian-border-are-traveling-in-four.md) _2017-08-27 03:43:28 (First version)_
+1. [European migrant crisis: Authorities in Slovenia say around 2,000 migrants from a refugee camp at the Croatian border are traveling in four trains toward Austria, three to the overloaded crossing at Sentilj and the other to Jesenice. ](/news/2015/10/22/european-migrant-crisis-authorities-in-slovenia-say-around-2-000-migrants-from-a-refugee-camp-at-the-croatian-border-are-traveling-in-four.md) _2018-02-06 13:49:28 (First version)_
 1. [Authorities in Slovenia say around 2,000 migrants from a refugee camp at the Croatian border are traveling in four trains toward Austria, three to the overloaded crossing at Sentilj and the other to Jesenice. ](/news/2015/10/22/authorities-in-slovenia-say-around-2-000-migrants-from-a-refugee-camp-at-the-croatian-border-are-traveling-in-four-trains-toward-austria-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ An air strike hits a hospital run by Medecins Sans Frontieres (MSF) in northern 
 
 ### Changes:
 
-1. [Yemeni Civil War: An air strike by the Saudi-led coalition which hit a hospital in northern Yemen run by Medecins Sans Frontieres (Doctors Without Borders) kills at least 11 people. ](/news/2016/08/15/yemeni-civil-war-an-air-strike-by-the-saudi-led-coalition-which-hit-a-hospital-in-northern-yemen-run-by-ma-c-decins-sans-frontia-res-doctors.md) _2017-08-27 03:46:39 (First version)_
+1. [Yemeni Civil War: An air strike by the Saudi-led coalition which hit a hospital in northern Yemen run by Medecins Sans Frontieres (Doctors Without Borders) kills at least 11 people. ](/news/2016/08/15/yemeni-civil-war-an-air-strike-by-the-saudi-led-coalition-which-hit-a-hospital-in-northern-yemen-run-by-ma-c-decins-sans-frontia-res-doctors.md) _2018-02-06 13:49:29 (First version)_
 1. [An air strike by the Saudi-led coalition which hit a hospital in northern Yemen run by Medecins Sans Frontieres (Doctors Without Borders) kills at least 11 people. ](/news/2016/08/15/an-air-strike-by-the-saudi-led-coalition-which-hit-a-hospital-in-northern-yemen-run-by-ma-c-decins-sans-frontia-res-doctors-without-borders.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A suicide bomber killed at least 15 people in an attack on a mosque used by memb
 
 ### Changes:
 
-1. [2015 Abha mosque bombing, A suicide bomb attack kills at least 15 people at a mosque in the south-western Saudi city of Abha. IS claims responsibility. ](/news/2015/08/6/2015-abha-mosque-bombing-a-suicide-bomb-attack-kills-at-least-15-people-at-a-mosque-in-the-south-western-saudi-city-of-abha-is-claims-resp.md) _2017-08-25 03:42:30 (First version)_
+1. [2015 Abha mosque bombing, A suicide bomb attack kills at least 15 people at a mosque in the south-western Saudi city of Abha. IS claims responsibility. ](/news/2015/08/6/2015-abha-mosque-bombing-a-suicide-bomb-attack-kills-at-least-15-people-at-a-mosque-in-the-south-western-saudi-city-of-abha-is-claims-resp.md) _2018-02-06 13:49:27 (First version)_
 1. [A suicide bomb attack kills at least 15 people at a mosque in the south-western Saudi city of Abha. IS claims responsibility. ](/news/2015/08/6/a-suicide-bomb-attack-kills-at-least-15-people-at-a-mosque-in-the-south-western-saudi-city-of-abha-is-claims-responsibility.md) _(Current version)_
 
 ### Related:

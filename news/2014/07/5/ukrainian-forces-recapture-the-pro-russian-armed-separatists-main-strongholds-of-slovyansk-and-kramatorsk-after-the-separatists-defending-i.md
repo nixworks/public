@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/07/5/ukrainian-forces-recapture-the-pro-russian-armed
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine: Ukrainian forces recapture the pro-Russian armed separatists' main strongholds of Slovyansk and Kramatorsk after the separatists defending it escaped an encirclement. ](/news/2014/07/5/2014-pro-russian-conflict-in-ukraine-ukrainian-forces-recapture-the-pro-russian-armed-separatists-main-strongholds-of-slovyansk-and-kramat.md) _2017-08-27 03:40:56 (First version)_
+1. [2014 pro-Russian conflict in Ukraine: Ukrainian forces recapture the pro-Russian armed separatists' main strongholds of Slovyansk and Kramatorsk after the separatists defending it escaped an encirclement. ](/news/2014/07/5/2014-pro-russian-conflict-in-ukraine-ukrainian-forces-recapture-the-pro-russian-armed-separatists-main-strongholds-of-slovyansk-and-kramat.md) _2018-02-06 13:49:26 (First version)_
 1. [Ukrainian forces recapture the pro-Russian armed separatists' main strongholds of Slovyansk and Kramatorsk after the separatists defending it escaped an encirclement. ](/news/2014/07/5/ukrainian-forces-recapture-the-pro-russian-armed-separatists-main-strongholds-of-slovyansk-and-kramatorsk-after-the-separatists-defending-i.md) _(Current version)_
 
 ### Related:

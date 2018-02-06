@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/12/20/thirty-three-buildings-collapse-after-a-landsli
 
 ### Changes:
 
-1. [2015 Shenzhen landslide: Thirty-three buildings collapse after a landslide hit an industrial park in Shenzhen, China, leaving at least 91 people missing. ](/news/2015/12/20/2015-shenzhen-landslide-thirty-three-buildings-collapse-after-a-landslide-hit-an-industrial-park-in-shenzhen-china-leaving-at-least-91-pe.md) _2017-08-27 03:44:27 (First version)_
+1. [2015 Shenzhen landslide: Thirty-three buildings collapse after a landslide hit an industrial park in Shenzhen, China, leaving at least 91 people missing. ](/news/2015/12/20/2015-shenzhen-landslide-thirty-three-buildings-collapse-after-a-landslide-hit-an-industrial-park-in-shenzhen-china-leaving-at-least-91-pe.md) _2018-02-06 13:49:28 (First version)_
 1. [Thirty-three buildings collapse after a landslide hit an industrial park in Shenzhen, China, leaving at least 91 people missing. ](/news/2015/12/20/thirty-three-buildings-collapse-after-a-landslide-hit-an-industrial-park-in-shenzhen-china-leaving-at-least-91-people-missing.md) _(Current version)_
 
 ### Related:

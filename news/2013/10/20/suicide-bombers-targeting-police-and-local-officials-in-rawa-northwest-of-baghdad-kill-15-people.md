@@ -17,8 +17,8 @@ At least 37 people are killed and more than 40 injured by a suicide bombing at a
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/iraqi-insurgency-post-u-s-withdrawal-psuicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md) _2017-08-25 03:39:24 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/iraqi-insurgency-post-u-s-withdrawal-suicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md) _2017-08-27 03:39:42 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/iraqi-insurgency-post-u-s-withdrawal-suicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/iraqi-insurgency-post-u-s-withdrawal-psuicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/suicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md) _(Current version)_
 
 ### Related:

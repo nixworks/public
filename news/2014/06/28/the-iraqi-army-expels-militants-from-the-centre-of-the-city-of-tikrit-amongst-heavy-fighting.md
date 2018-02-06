@@ -17,7 +17,7 @@ Iraqi forces drove militants from the center of Tikrit, partly reversing the adv
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: The Iraqi Army expels militants from the centre of the city of Tikrit amongst heavy fighting. ](/news/2014/06/28/2014-northern-iraq-offensive-the-iraqi-army-expels-militants-from-the-centre-of-the-city-of-tikrit-amongst-heavy-fighting.md) _2017-08-27 03:40:54 (First version)_
+1. [2014 Northern Iraq offensive: The Iraqi Army expels militants from the centre of the city of Tikrit amongst heavy fighting. ](/news/2014/06/28/2014-northern-iraq-offensive-the-iraqi-army-expels-militants-from-the-centre-of-the-city-of-tikrit-amongst-heavy-fighting.md) _2018-02-06 13:49:26 (First version)_
 1. [The Iraqi Army expels militants from the centre of the city of Tikrit amongst heavy fighting. ](/news/2014/06/28/the-iraqi-army-expels-militants-from-the-centre-of-the-city-of-tikrit-amongst-heavy-fighting.md) _(Current version)_
 
 ### Related:

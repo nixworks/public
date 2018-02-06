@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/16/isil-claims-responsibility-for-the-attack-and-f
 
 ### Changes:
 
-1. [2016 Nice attack: ISIL claims responsibility for the attack, and four people allegedly involved in the attack are arrested overnight. ](/news/2016/07/16/2016-nice-attack-isil-claims-responsibility-for-the-attack-and-four-people-allegedly-involved-in-the-attack-are-arrested-overnight.md) _2017-08-27 03:46:30 (First version)_
+1. [2016 Nice attack: ISIL claims responsibility for the attack, and four people allegedly involved in the attack are arrested overnight. ](/news/2016/07/16/2016-nice-attack-isil-claims-responsibility-for-the-attack-and-four-people-allegedly-involved-in-the-attack-are-arrested-overnight.md) _2018-02-06 13:49:29 (First version)_
 1. [ISIL claims responsibility for the attack, and four people allegedly involved in the attack are arrested overnight. ](/news/2016/07/16/isil-claims-responsibility-for-the-attack-and-four-people-allegedly-involved-in-the-attack-are-arrested-overnight.md) _(Current version)_
 
 ### Related:

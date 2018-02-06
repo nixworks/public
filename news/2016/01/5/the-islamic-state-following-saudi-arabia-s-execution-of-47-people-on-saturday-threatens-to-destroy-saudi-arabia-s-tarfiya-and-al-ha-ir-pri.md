@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execu
 
 ### Changes:
 
-1. [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir.md) _2017-08-25 03:44:15 (First version)_
+1. [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir.md) _2018-02-06 13:49:28 (First version)_
 1. [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir-pri.md) _(Current version)_
 
 ### Related:

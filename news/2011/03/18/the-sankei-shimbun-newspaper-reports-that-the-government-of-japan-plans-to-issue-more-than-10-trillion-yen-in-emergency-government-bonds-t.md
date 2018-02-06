@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/18/the-sankei-shimbun-newspaper-reports-that-the-g
 
 ### Changes:
 
-1. [The ''Sankei Shimbun'' newspaper reports that the Government of Japan plans to issue more than 10 trillion yen in emergency government bonds to help pay for the recovery effort from the 2011 Sendai earthquake and tsunami. ](/news/2011/03/18/the-sankei-shimbun-newspaper-reports-that-the-government-of-japan-plans-to-issue-more-than-10-trillion-yen-in-emergency-government-bonds.md) _2017-08-25 03:32:34 (First version)_
+1. [The ''Sankei Shimbun'' newspaper reports that the Government of Japan plans to issue more than 10 trillion yen in emergency government bonds to help pay for the recovery effort from the 2011 Sendai earthquake and tsunami. ](/news/2011/03/18/the-sankei-shimbun-newspaper-reports-that-the-government-of-japan-plans-to-issue-more-than-10-trillion-yen-in-emergency-government-bonds.md) _2018-02-06 13:49:22 (First version)_
 1. [The "Sankei Shimbun" newspaper reports that the Government of Japan plans to issue more than 10 trillion yen in emergency government bonds to help pay for the recovery effort from the 2011 Sendai earthquake and tsunami. ](/news/2011/03/18/the-sankei-shimbun-newspaper-reports-that-the-government-of-japan-plans-to-issue-more-than-10-trillion-yen-in-emergency-government-bonds-t.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing
 
 ### Changes:
 
-1. [Theresa May slaps down Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-slaps-down-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md) _2018-01-23 18:30:06 (First version)_
-2. [Theresa May criticizes Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md) _2018-01-24 00:30:08 (Update)_
+1. [Theresa May slaps down Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-slaps-down-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md) _2018-02-06 13:49:31 (First version)_
+2. [Theresa May criticizes Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md) _2018-02-06 13:49:31 (Update)_
 2. [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md) _(Current version)_
 
 ### Related:

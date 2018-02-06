@@ -9,15 +9,15 @@ _Context: Paktia, Afghanistan, Shwak district, explosion, Ali Abadi_
 
 ##### Western Sahara
 ### [The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. ](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.md)
-_Context: Morocco, Sahrawi, Western Sahara_
+_Context: Morocco, Western Sahara, Sahrawi_
 
 ##### Anwar al-Awlaki
 ### [Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. ](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.md)
-_Context: Anwar al-Awlaki, Yemen, al-Queda, Iraq, Afghanistan_
+_Context: Anwar al-Awlaki, Afghanistan, Iraq, Yemen, al-Queda_
 
 ##### Burma
 ### [About 20,000 people flee Burma to escape fighting between the Burmese military and the Democratic Karen Buddhist Army in Karen State after the recent general election. ](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.md)
-_Context: Karen State, Burmese military, Burma, fighting, Democratic Karen Buddhist Army, general elections_
+_Context: general elections, Karen State, Democratic Karen Buddhist Army, Burmese military, Burma, fighting_
 
 ##### British military personnel
 ### [Three members of the British Armed Forces are being investigated by military lawyers over alleged abuse of Iraqi detainees. ](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.md)
@@ -49,11 +49,11 @@ _Context: Iran, Sakineh Mohammadi Ashtiani_
 
 ##### South China
 ### [A man surrendered to police and confessed to killing five and wounding one in two separate attacks in South China's Hainan province. ](/news/2010/11/9/a-man-surrendered-to-police-and-confessed-to-killing-five-and-wounding-one-in-two-separate-attacks-in-south-china-s-hainan-province.md)
-_Context: South China, Hainan_
+_Context: Hainan, South China_
 
 ##### Russia
 ### [A second Russian journalist is attacked in Moscow. Motivation is unclear but both had written about trees being felled to make way for motorways. ](/news/2010/11/9/a-second-russian-journalist-is-attacked-in-moscow-motivation-is-unclear-but-both-had-written-about-trees-being-felled-to-make-way-for-motor.md)
-_Context: Moscow, Russia_
+_Context: Russia, Moscow_
 
 ##### riot
 ### [A riot in the Pedrinhas prison in north-eastern Brazil results in eighteen prisoner deaths and a guard being wounded. ](/news/2010/11/9/a-riot-in-the-pedrinhas-prison-in-north-eastern-brazil-results-in-eighteen-prisoner-deaths-and-a-guard-being-wounded.md)
@@ -61,7 +61,7 @@ Eighteen inmates were killed and a prison guard shot and wounded during a prison
 
 ##### Taiwan
 ### [A new law in Taiwan allows women to breastfeed in public and imposes fines on those trying to stop them. ](/news/2010/11/9/a-new-law-in-taiwan-allows-women-to-breastfeed-in-public-and-imposes-fines-on-those-trying-to-stop-them.md)
-_Context: breastfeed, Taiwan_
+_Context: Taiwan, breastfeed_
 
 ##### Claims Conference
 ### [Seventeen people including six employees of the Claims Conference in the United States have been charged with theft of $42 million from Holocaust compensation funds provided by the Government of Germany. ](/news/2010/11/9/seventeen-people-including-six-employees-of-the-claims-conference-in-the-united-states-have-been-charged-with-theft-of-42-million-from-holo.md)
@@ -85,7 +85,7 @@ David Cameron&#039;s visit to China has been overshadowed by human rights concer
 
 ##### SpaceShipTwo
 ### [Construction of a factory for the first fleet of commercial spaceships begins at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
-_Context: United States, Mojave Air and Space Port, SpaceShipTwo_
+_Context: SpaceShipTwo, Mojave Air and Space Port, United States_
 
 ## [Previous Day...](/news/2010/11/8/index.md)
 

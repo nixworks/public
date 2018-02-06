@@ -13,7 +13,7 @@ Afghan rights group says current year has been the most violent since US-led inv
 
 ##### opens fire
 ### [A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. ](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-albuquerque-new-mexico-killing-two-and-wounding-four-before-committing-suicide.md)
-_Context: opens fire, New Mexico, suicide, Albuquerque, New Mexico, fiber optics_
+_Context: Albuquerque, New Mexico, opens fire, fiber optics, suicide, New Mexico_
 
 ##### German
 ### [At least eight people are injured after a tornado strikes the German island of Duene in the North Sea. ](/news/2010/07/12/at-least-eight-people-are-injured-after-a-tornado-strikes-the-german-island-of-duene-in-the-north-sea.md)
@@ -23,7 +23,7 @@ Eight people are injured after a tornado hits a German island in the North Sea, 
 ### [Files indicate that GlaxoSmithKline knew Rosiglitazone (Avandia) had high heart risks since 1999, and made efforts to cover up the findings. ](/news/2010/07/12/files-indicate-that-glaxosmithkline-knew-rosiglitazone-avandia-had-high-heart-risks-since-1999-and-made-efforts-to-cover-up-the-findings.md)
 SmithKline Beecham found in a study as early as 1999 that its diabetes medicine, Avandia, posed heart risks.
 
-##### British
+##### United Kingdom
 ### [The UK Ministry of Defence unveils "Taranis", its new long-range unmanned plane intended to damage enemy territory. Tests are due to begin in 2011. ](/news/2010/07/12/the-uk-ministry-of-defence-unveils-taranis-its-new-long-range-unmanned-plane-intended-to-damage-enemy-territory-tests-are-due-to-begin-i.md)
 The Ministry of Defence unveils its new prototype stealthy unmanned combat air vehicle as the first step towards pilotless strike aircraft.
 
@@ -39,7 +39,7 @@ Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to
 ### [French President Nicolas Sarkozy goes on national TV to dismiss allegations that he received illegal campaign donations from Liliane Bettencourt. ](/news/2010/07/12/french-president-nicolas-sarkozy-goes-on-national-tv-to-dismiss-allegations-that-he-received-illegal-campaign-donations-from-liliane-bettenc.md)
 In&#x20;a&#x20;live&#x20;TV&#x20;interview,&#x20;French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;has&#x20;defended&#x20;embattled&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth,&#x20;who&#x20;is&#x20;at&#x20;the&#x20;centre&#x20;of&#x20;corruption&#x20;allegations&#x20;involving&#x20;France&#x...
 
-##### British
+##### United Kingdom
 ### [The United Kingdom Secretary of State for Health Andrew Lansley outlines a radical proposal to reform the country's National Health Service, including the privatisation of hospitals. ](/news/2010/07/12/the-united-kingdom-secretary-of-state-for-health-andrew-lansley-outlines-a-radical-proposal-to-reform-the-country-s-national-health-service.md)
 The NHS in England is to undergo one of the biggest restructuring in its history, the government announces.
 
@@ -61,7 +61,7 @@ The International Criminal Court (ICC) yesterday charged Sudanese President Omar
 
 ##### Cuba
 ### [Cuba releases 7 political prisoners and sends them into exile in Spain, the first in a wave of 52. ](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.md)
-_Context: exile, political prisoner, Cuba_
+_Context: political prisoner, Cuba, exile_
 
 ##### Italy
 ### [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined EUR65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-a-65-000-for-drug-smuggling-between-1991-a.md)
@@ -77,11 +77,11 @@ Two men who organised a controversial art exhibition in Moscow are found guilty 
 
 ##### Jon Bon Jovi
 ### [Singer Jon Bon Jovi opts to continue with Bon Jovi's world concert tour despite tearing his calf muscle at the end of a concert in New Jersey. ](/news/2010/07/12/singer-jon-bon-jovi-opts-to-continue-with-bon-jovi-s-world-concert-tour-despite-tearing-his-calf-muscle-at-the-end-of-a-concert-in-new-jerse.md)
-_Context: Bon Jovi, New Jersey, Jon Bon Jovi_
+_Context: Jon Bon Jovi, Bon Jovi, New Jersey_
 
 ##### Spain
 ### [Spain's victorious 2010 FIFA World Cup "campeones" return to Madrid where they are met by millions of people in the streets, the royal family and politicians. ](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.md)
-_Context: Madrid, 2010 FIFA World Cup Final, 2010 FIFA World Cup, Spain_
+_Context: 2010 FIFA World Cup, Spain, 2010 FIFA World Cup Final, Madrid_
 
 ##### Paul the Octopus
 ### [Paul the Octopus retires. ](/news/2010/07/12/paul-the-octopus-retires.md)

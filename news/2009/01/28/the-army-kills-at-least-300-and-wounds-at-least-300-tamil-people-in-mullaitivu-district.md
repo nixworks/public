@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least
 
 ### Changes:
 
-1. [ Sri Lankan Civil War: The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/sri-lankan-civil-war-p-the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _2017-08-25 03:23:35 (First version)_
-2. [ Sri Lankan Civil War:: The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/sri-lankan-civil-war-the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _2017-08-27 03:23:27 (Update)_
+1. [ Sri Lankan Civil War:: The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/sri-lankan-civil-war-the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _2018-02-06 13:49:18 (First version)_
+2. [ Sri Lankan Civil War: The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/sri-lankan-civil-war-p-the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _2018-02-06 13:49:18 (Update)_
 2. [ The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md) _(Current version)_
 
 ### Related:

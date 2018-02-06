@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virgini
 
 ### Changes:
 
-1. [The U.S. Attorney's Office in Alexandria, Virginia thru U.S. Attorney Dana Boente issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-thru-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor-micha.md) _2017-05-13 03:53:09 (First version)_
+1. [The U.S. Attorney's Office in Alexandria, Virginia thru U.S. Attorney Dana Boente issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-thru-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor-micha.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Attorney's Office in Alexandria, Virginia, through U.S. Attorney Dana Boente, issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-through-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor.md) _(Current version)_
 
 ### Related:

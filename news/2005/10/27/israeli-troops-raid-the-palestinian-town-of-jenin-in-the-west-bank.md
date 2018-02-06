@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/10/27/israeli-troops-raid-the-palestinian-town-of-jen
 
 ### Changes:
 
-1. [ Israeli-Palestinian Conflict: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-p-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _2017-08-25 03:17:02 (First version)_
-2. [ Israeli-Palestinian Conflict:: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _2017-08-27 03:17:01 (Update)_
+1. [ Israeli-Palestinian Conflict: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-p-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian Conflict:: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _2018-02-06 13:49:16 (Update)_
 2. [ Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md) _(Current version)_
 
 ### Related:

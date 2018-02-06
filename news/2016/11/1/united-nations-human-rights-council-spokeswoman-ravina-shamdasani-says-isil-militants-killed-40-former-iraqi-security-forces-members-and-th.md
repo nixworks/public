@@ -17,7 +17,7 @@ Islamic State militants killed 40 former members of the Iraqi Security Forces ne
 
 ### Changes:
 
-1. [Battle of Mosul (2016): United Nations Human Rights Council spokeswoman Ravina Shamdasani says ISIL militants killed 40 former Iraqi Security Forces members and threw their bodies in the Tigris river near Mosul on Saturday. ](/news/2016/11/1/battle-of-mosul-2016-united-nations-human-rights-council-spokeswoman-ravina-shamdasani-says-isil-militants-killed-40-former-iraqi-securit.md) _2017-08-27 03:47:09 (First version)_
+1. [Battle of Mosul (2016): United Nations Human Rights Council spokeswoman Ravina Shamdasani says ISIL militants killed 40 former Iraqi Security Forces members and threw their bodies in the Tigris river near Mosul on Saturday. ](/news/2016/11/1/battle-of-mosul-2016-united-nations-human-rights-council-spokeswoman-ravina-shamdasani-says-isil-militants-killed-40-former-iraqi-securit.md) _2018-02-06 13:49:29 (First version)_
 1. [ United Nations Human Rights Council spokeswoman Ravina Shamdasani says ISIL militants killed 40 former Iraqi Security Forces members and threw their bodies in the Tigris river near Mosul on Saturday. ](/news/2016/11/1/united-nations-human-rights-council-spokeswoman-ravina-shamdasani-says-isil-militants-killed-40-former-iraqi-security-forces-members-and-th.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/11/1/the-israel-defense-forces-report-a-rocket-fired-
 
 ### Changes:
 
-1. [Israel-Gaza conflict: The Israel Defense Forces report a rocket fired from Gaza landed in Israeli territory with no injuries or damage. ](/news/2014/11/1/israel-gaza-conflict-the-israel-defense-forces-report-a-rocket-fired-from-gaza-landed-in-israeli-territory-with-no-injuries-or-damage.md) _2017-08-27 03:41:27 (First version)_
+1. [Israel-Gaza conflict: The Israel Defense Forces report a rocket fired from Gaza landed in Israeli territory with no injuries or damage. ](/news/2014/11/1/israel-gaza-conflict-the-israel-defense-forces-report-a-rocket-fired-from-gaza-landed-in-israeli-territory-with-no-injuries-or-damage.md) _2018-02-06 13:49:26 (First version)_
 1. [The Israel Defense Forces report a rocket fired from Gaza landed in Israeli territory with no injuries or damage. ](/news/2014/11/1/the-israel-defense-forces-report-a-rocket-fired-from-gaza-landed-in-israeli-territory-with-no-injuries-or-damage.md) _(Current version)_
 
 ### Related:

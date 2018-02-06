@@ -21,8 +21,8 @@ Israeli Air Force attacks the Palestinian Finance Ministry building in Gaza City
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict (Operation Summer Rains): Two Hamas militants killed in two Israeli air strikes in the Gaza Strip, one of them on a house in Gaza city. ](/news/2006/07/15/israeli-palestinian-conflict-operation-summer-rains-p-two-hamas-militants-killed-in-two-israeli-air-strikes-in-the-gaza-strip-one-of-the.md) _2017-08-25 03:18:01 (First version)_
-2. [ Israeli-Palestinian conflict (Operation Summer Rains):: Two Hamas militants killed in two Israeli air strikes in the Gaza Strip, one of them on a house in Gaza city. ](/news/2006/07/15/israeli-palestinian-conflict-operation-summer-rains-two-hamas-militants-killed-in-two-israeli-air-strikes-in-the-gaza-strip-one-of-the.md) _2017-08-27 03:18:00 (Update)_
+1. [ Israeli-Palestinian conflict (Operation Summer Rains):: Two Hamas militants killed in two Israeli air strikes in the Gaza Strip, one of them on a house in Gaza city. ](/news/2006/07/15/israeli-palestinian-conflict-operation-summer-rains-two-hamas-militants-killed-in-two-israeli-air-strikes-in-the-gaza-strip-one-of-the.md) _2018-02-06 13:49:17 (First version)_
+2. [ Israeli-Palestinian conflict (Operation Summer Rains): Two Hamas militants killed in two Israeli air strikes in the Gaza Strip, one of them on a house in Gaza city. ](/news/2006/07/15/israeli-palestinian-conflict-operation-summer-rains-p-two-hamas-militants-killed-in-two-israeli-air-strikes-in-the-gaza-strip-one-of-the.md) _2018-02-06 13:49:17 (Update)_
 2. [ Two Hamas militants killed in two Israeli air strikes in the Gaza Strip, one of them on a house in Gaza city. ](/news/2006/07/15/two-hamas-militants-killed-in-two-israeli-air-strikes-in-the-gaza-strip-one-of-them-on-a-house-in-gaza-city.md) _(Current version)_
 
 ### Related:

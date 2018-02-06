@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/02/21/australia-issues-a-security-alert-warning-that-
 
 ### Changes:
 
-1. [Terrorism in Malaysia: Australia issues a security alert, warning that terrorists may be planning attacks in and around the Malaysian capital Kuala Lumpur. It also recommended that Australians avoid travel to the coastal region of eastern Sabah, where the beaches and islands are popular with foreign tourists. ](/news/2016/02/21/terrorism-in-malaysia-australia-issues-a-security-alert-warning-that-terrorists-may-be-planning-attacks-in-and-around-the-malaysian-capita.md) _2017-08-27 03:44:58 (First version)_
+1. [Terrorism in Malaysia: Australia issues a security alert, warning that terrorists may be planning attacks in and around the Malaysian capital Kuala Lumpur. It also recommended that Australians avoid travel to the coastal region of eastern Sabah, where the beaches and islands are popular with foreign tourists. ](/news/2016/02/21/terrorism-in-malaysia-australia-issues-a-security-alert-warning-that-terrorists-may-be-planning-attacks-in-and-around-the-malaysian-capita.md) _2018-02-06 13:49:28 (First version)_
 1. [Australia issues a security alert, warning that terrorists may be planning attacks in and around the Malaysian capital Kuala Lumpur. It also recommended that Australians avoid travel to the coastal region of eastern Sabah, where the beaches and islands are popular with foreign tourists. ](/news/2016/02/21/australia-issues-a-security-alert-warning-that-terrorists-may-be-planning-attacks-in-and-around-the-malaysian-capital-kuala-lumpur-it-also.md) _(Current version)_
 
 ### Related:

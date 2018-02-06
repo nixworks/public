@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/04/14/funding-difficulties-threaten-the-murrayadarlin
 
 ### Changes:
 
-1. [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murray-darling-basin-river-system-in-australia.md) _2017-08-27 03:16:01 (First version)_
+1. [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murray-darling-basin-river-system-in-australia.md) _2018-02-06 13:49:16 (First version)_
 1. [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murrayadarling-basin-river-system-in-australia.md) _(Current version)_
 
 ### Related:

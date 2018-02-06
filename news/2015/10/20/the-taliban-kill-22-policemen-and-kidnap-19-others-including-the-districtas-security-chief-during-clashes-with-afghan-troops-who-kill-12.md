@@ -18,7 +18,7 @@ The insurgents also captured the security chief of Ghormach District, threatenin
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban kill 22 policemen and kidnap 19 others, including the district-s security chief, during clashes with Afghan troops who kill 12 of the insurgents in the battle in Faryab Province in northern Afghanistan. ](/news/2015/10/20/war-in-afghanistan-2015-present-the-taliban-kill-22-policemen-and-kidnap-19-others-including-the-district-s-security-chief-during-c.md) _2017-08-27 03:43:24 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban kill 22 policemen and kidnap 19 others, including the district-s security chief, during clashes with Afghan troops who kill 12 of the insurgents in the battle in Faryab Province in northern Afghanistan. ](/news/2015/10/20/war-in-afghanistan-2015-present-the-taliban-kill-22-policemen-and-kidnap-19-others-including-the-district-s-security-chief-during-c.md) _2018-02-06 13:49:28 (First version)_
 1. [The Taliban kill 22 policemen and kidnap 19 others, including the district's security chief, during clashes with Afghan troops who kill 12 of the insurgents in the battle in Faryab Province in northern Afghanistan. ](/news/2015/10/20/the-taliban-kill-22-policemen-and-kidnap-19-others-including-the-districtas-security-chief-during-clashes-with-afghan-troops-who-kill-12.md) _(Current version)_
 
 ### Related:

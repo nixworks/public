@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008
 
 ### Changes:
 
-1. [ The Royal Bank of Scotland Group reports a 2008 loss of PS24.1 billion. ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-aps24-1-billion.md) _2017-08-25 03:23:56 (First version)_
+1. [ The Royal Bank of Scotland Group reports a 2008 loss of PS24.1 billion. ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-aps24-1-billion.md) _2018-02-06 13:49:18 (First version)_
 1. [ The Royal Bank of Scotland Group reports a 2008 loss of GBP24.1 billion. ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-agbp24-1-billion.md) _(Current version)_
 
 ### Related:

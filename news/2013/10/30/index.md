@@ -25,13 +25,13 @@ Israel freed 26 Palestinian prisoners on Wednesday, the second stage of a limite
 
 ##### Mongolia
 ### [Mongolian president Tsakhiagiin Elbegdorj visits North Korea and becomes the first head of state to meet with Kim Jong-un since Kim's taking office as Supreme Leader. ](/news/2013/10/30/mongolian-president-tsakhiagiin-elbegdorj-visits-north-korea-and-becomes-the-first-head-of-state-to-meet-with-kim-jong-un-since-kim-s-taking.md)
-_Context: head of state, President of Mongolia, Kim Jong-un, North Korea, Tsakhiagiin Elbegdorj, Mongolia, leader_
+_Context: Kim Jong-un, President of Mongolia, Tsakhiagiin Elbegdorj, Mongolia, North Korea, head of state, leader_
 
 ##### China
 ### [Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/chinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md)
 Police say they found machetes and flag with &#x27;extreme religious content&#x27; in vehicle that crashed through crowds in Beijing
 
-##### British
+##### United Kingdom
 ### [The UK's Privy Council grants a Royal Charter on regulating the British press after the newspaper industry loses a last minute legal bid to seek an injunction against the plans. ](/news/2013/10/30/the-uk-s-privy-council-grants-a-royal-charter-on-regulating-the-british-press-after-the-newspaper-industry-loses-a-last-minute-legal-bid-to.md)
 A royal charter on press regulation is granted by the Privy Council, despite a last-minute legal challenge by the newspaper industry, which says it threatens their freedom.
 

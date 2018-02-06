@@ -33,7 +33,7 @@ _Context: Iceland_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Raja Pervez Ashraf appears in the Pakistani Supreme Court over his failure to reopen investigations of corruption against President Asif Ali Zardari. ](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.md)
-_Context: Raja Pervez Ashraf, Supreme Court, Asif Ali Zardari, president, Prime Minister_
+_Context: Raja Pervez Ashraf, president, Asif Ali Zardari, Prime Minister, Supreme Court_
 
 ##### Thein Sein
 ### [The Burmese President Thein Sein changes nine ministers in the cabinet, in an apparent bid to demonstrate that promised reforms are firmly on course. ](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.md)

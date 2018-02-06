@@ -16,7 +16,7 @@ Militants storm a remote village in north-eastern Nigeria, killing at least 33 p
 
 ### Changes:
 
-1. [Gumsuri kidnapping: News emerges, after survivors reach the city of Maiduguri, that suspected Boko Haram militants stormed the remote village of Gumsuri in north-eastern Nigeria on December 14, killing at least 33 people and kidnapping about 200. ](/news/2014/12/18/gumsuri-kidnapping-news-emerges-after-survivors-reach-the-city-of-maiduguri-that-suspected-boko-haram-militants-stormed-the-remote-villag.md) _2017-08-27 03:41:38 (First version)_
+1. [Gumsuri kidnapping: News emerges, after survivors reach the city of Maiduguri, that suspected Boko Haram militants stormed the remote village of Gumsuri in north-eastern Nigeria on December 14, killing at least 33 people and kidnapping about 200. ](/news/2014/12/18/gumsuri-kidnapping-news-emerges-after-survivors-reach-the-city-of-maiduguri-that-suspected-boko-haram-militants-stormed-the-remote-villag.md) _2018-02-06 13:49:26 (First version)_
 1. [News emerges, after survivors reach the city of Maiduguri, that suspected Boko Haram militants stormed the remote village of Gumsuri in north-eastern Nigeria on December 14, killing at least 33 people and kidnapping about 200. ](/news/2014/12/18/news-emerges-after-survivors-reach-the-city-of-maiduguri-that-suspected-boko-haram-militants-stormed-the-remote-village-of-gumsuri-in-nort.md) _(Current version)_
 
 ### Related:

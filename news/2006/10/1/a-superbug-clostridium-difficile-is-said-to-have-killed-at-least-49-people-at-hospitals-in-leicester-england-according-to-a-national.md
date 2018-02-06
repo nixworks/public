@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have
 
 ### Changes:
 
-1. [ A superbug, ''Clostridium difficile'', is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-nationa.md) _2017-08-25 03:18:30 (First version)_
+1. [ A superbug, ''Clostridium difficile'', is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-nationa.md) _2018-02-06 13:49:17 (First version)_
 1. [ A superbug, "Clostridium difficile", is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-national.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoin
 
 ### Changes:
 
-1. [A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-personnel-and-15-t.md) _2017-08-25 03:46:38 (First version)_
-2. [Sinai insurgency: A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/sinai-insurgency-a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-p.md) _2017-08-27 03:47:02 (Update)_
+1. [Sinai insurgency: A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/sinai-insurgency-a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-p.md) _2018-02-06 13:49:29 (First version)_
+2. [A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-personnel-and-15-t.md) _2018-02-06 13:49:29 (Update)_
 2. [A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-personnel-and-15-te.md) _(Current version)_
 
 ### Related:

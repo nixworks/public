@@ -16,7 +16,7 @@ Reports suggest at least 71 people have died from drowning, collapsing walls and
 
 ### Changes:
 
-1. [ 2015 North Indian Ocean cyclone season: Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/2015-north-indian-ocean-cyclone-season-floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city.md) _2017-08-27 03:43:53 (First version)_
+1. [ 2015 North Indian Ocean cyclone season: Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/2015-north-indian-ocean-cyclone-season-floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city.md) _2018-02-06 13:49:28 (First version)_
 1. [ Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md) _(Current version)_
 
 ### Related:

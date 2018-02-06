@@ -16,5 +16,5 @@ Drivers distracted by talking or texting on cell phones killed an estimated 16,0
 
 ### Changes:
 
-1. [Approximately 16,000 people have died in the United States between 2001 and 2007 due to people using cell phones while driving, according to a new report. ](/news/2010/09/23/approximately-16-000-people-have-died-in-the-united-states-between-2001-and-2007-due-to-people-using-cell-phones-while-driving-according-t.md) _2017-08-25 03:30:12 (First version)_
+1. [Approximately 16,000 people have died in the United States between 2001 and 2007 due to people using cell phones while driving, according to a new report. ](/news/2010/09/23/approximately-16-000-people-have-died-in-the-united-states-between-2001-and-2007-due-to-people-using-cell-phones-while-driving-according-t.md) _2018-02-06 13:49:20 (First version)_
 1. [Approximately 16,000 people have died in the United States between 2001 and 2007 due to people using cell phones while driving, according to a new report. ](/news/2010/09/23/approximately-16-000-people-have-died-in-the-united-states-between-2001-and-2007-due-to-people-using-cell-phones-while-driving-according-to.md) _(Current version)_

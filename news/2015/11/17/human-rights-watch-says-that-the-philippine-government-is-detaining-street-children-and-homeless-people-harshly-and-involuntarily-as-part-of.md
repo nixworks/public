@@ -16,7 +16,7 @@ Human Rights Watch says the Philippines is rounding up homeless people to get th
 
 ### Changes:
 
-1. [APEC Philippines 2015: Human Rights Watch says that the Philippine government is detaining street children and homeless people harshly and involuntarily as part of preparations for an international summit. The government denies that the people concerned are being abused and such moves were part of a regular and year-round outreach program. ](/news/2015/11/17/apec-philippines-2015-human-rights-watch-says-that-the-philippine-government-is-detaining-street-children-and-homeless-people-harshly-and-i.md) _2017-08-27 03:43:53 (First version)_
+1. [APEC Philippines 2015: Human Rights Watch says that the Philippine government is detaining street children and homeless people harshly and involuntarily as part of preparations for an international summit. The government denies that the people concerned are being abused and such moves were part of a regular and year-round outreach program. ](/news/2015/11/17/apec-philippines-2015-human-rights-watch-says-that-the-philippine-government-is-detaining-street-children-and-homeless-people-harshly-and-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Human Rights Watch says that the Philippine government is detaining street children and homeless people harshly and involuntarily as part of preparations for an international summit. The government denies that the people concerned are being abused and such moves were part of a regular and year-round outreach program. ](/news/2015/11/17/human-rights-watch-says-that-the-philippine-government-is-detaining-street-children-and-homeless-people-harshly-and-involuntarily-as-part-of.md) _(Current version)_
 
 ### Related:

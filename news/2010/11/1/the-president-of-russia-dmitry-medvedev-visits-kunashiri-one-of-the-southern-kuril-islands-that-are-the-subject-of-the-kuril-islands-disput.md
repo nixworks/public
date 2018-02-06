@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-k
 
 ### Changes:
 
-1. [Disputed islands:The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-pthe-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-ku.md) _2017-08-25 03:30:48 (First version)_
-2. [Disputed islands:: The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-k.md) _2017-08-27 03:30:55 (Update)_
+1. [Disputed islands:: The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-k.md) _2018-02-06 13:49:21 (First version)_
+2. [Disputed islands:The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-pthe-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-ku.md) _2018-02-06 13:49:21 (Update)_
 2. [The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-kuril-islands-disput.md) _(Current version)_
 
 ### Related:

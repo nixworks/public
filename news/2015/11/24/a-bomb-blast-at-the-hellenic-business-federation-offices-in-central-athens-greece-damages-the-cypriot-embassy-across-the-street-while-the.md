@@ -16,7 +16,7 @@ A bomb exploded outside the offices of a Greek business federation in central At
 
 ### Changes:
 
-1. [A bomb blast at the Hellenic Business Federation offices in central Athens, Greece, damages the Cypriot Embassy across the street. While there is yet no claim for responsibility the authorities suspect a domestic guerrilla group set off the blast. ](/news/2015/11/24/a-bomb-blast-at-the-hellenic-business-federation-offices-in-central-athens-greece-damages-the-cypriot-embassy-across-the-street-while-th.md) _2017-08-25 03:43:42 (First version)_
+1. [A bomb blast at the Hellenic Business Federation offices in central Athens, Greece, damages the Cypriot Embassy across the street. While there is yet no claim for responsibility the authorities suspect a domestic guerrilla group set off the blast. ](/news/2015/11/24/a-bomb-blast-at-the-hellenic-business-federation-offices-in-central-athens-greece-damages-the-cypriot-embassy-across-the-street-while-th.md) _2018-02-06 13:49:28 (First version)_
 1. [A bomb blast at the Hellenic Business Federation offices in central Athens, Greece, damages the Cypriot Embassy across the street. While there is yet no claim for responsibility the authorities suspect a domestic guerrilla group set off the blast. ](/news/2015/11/24/a-bomb-blast-at-the-hellenic-business-federation-offices-in-central-athens-greece-damages-the-cypriot-embassy-across-the-street-while-the.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ UN official describes vote as peaceful but several polling sites delayed opening
 
 ### Changes:
 
-1. [Haitian general election, 2010-2011:Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010a2011-pvoters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _2017-08-25 03:32:35 (First version)_
-2. [Haitian general election, 2010-2011:: Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010-2011-voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _2017-08-27 03:32:43 (Update)_
+1. [Haitian general election, 2010-2011:Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010a2011-pvoters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _2018-02-06 13:49:22 (First version)_
+2. [Haitian general election, 2010-2011:: Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010-2011-voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _2018-02-06 13:49:22 (Update)_
 2. [Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md) _(Current version)_
 
 ### Related:

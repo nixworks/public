@@ -16,7 +16,7 @@ The Panama Papers affair widens, with a huge database of documents relating to m
 
 ### Changes:
 
-1. [Panama Papers: The Panama Papers go online at the International Consortium of Investigative Journalists website. ](/news/2016/05/9/panama-papers-the-panama-papers-go-online-at-the-international-consortium-of-investigative-journalists-website.md) _2017-08-27 03:46:00 (First version)_
+1. [Panama Papers: The Panama Papers go online at the International Consortium of Investigative Journalists website. ](/news/2016/05/9/panama-papers-the-panama-papers-go-online-at-the-international-consortium-of-investigative-journalists-website.md) _2018-02-06 13:49:29 (First version)_
 1. [The Panama Papers go online at the International Consortium of Investigative Journalists website. ](/news/2016/05/9/the-panama-papers-go-online-at-the-international-consortium-of-investigative-journalists-website.md) _(Current version)_
 
 ### Related:

@@ -45,7 +45,7 @@ The Los Angeles Dodgers filed for bankruptcy protection in a Delaware court Mond
 
 ##### PTT Public Company Limited
 ### [A leak is detected in a PTT Public Company Limited pipeline in the Gulf of Thailand; the leak will cut natural gas supplies in Thailand and affect power generation. ](/news/2011/06/27/a-leak-is-detected-in-a-ptt-public-company-limited-pipeline-in-the-gulf-of-thailand-the-leak-will-cut-natural-gas-supplies-in-thailand-and.md)
-_Context: natural gas, Thailand, PTT Public Company Limited, Gulf of Thailand_
+_Context: Thailand, natural gas, Gulf of Thailand, PTT Public Company Limited_
 
 ##### Premier of China
 ### [The Premier of China Wen Jiabao signals that the People's Republic of China will have trouble meeting its inflation target of 4 per cent in 2011. ](/news/2011/06/27/the-premier-of-china-wen-jiabao-signals-that-the-people-s-republic-of-china-will-have-trouble-meeting-its-inflation-target-of-4-per-cent-in.md)
@@ -61,7 +61,7 @@ Tropical Storm Meari raked the west coast of South Korea over the weekend, leavi
 
 ##### Urfa
 ### [1 person is killed and 17 others are injured in a gas station explosion in Urfa, Turkey. ](/news/2011/06/27/1-person-is-killed-and-17-others-are-injured-in-a-gas-station-explosion-in-urfa-turkey.md)
-_Context: Turkish, Urfa_
+_Context: Turkey, Urfa_
 
 ##### Los Alamos National Laboratory
 ### [The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nearby.md)
@@ -73,7 +73,7 @@ Overheated power lines continue to cause train delays and cancellations between 
 
 ##### U.S. government
 ### [The United States Government publishes the Trafficking In Persons report, naming those countries that are not meeting minimum standards against human trafficking and slavery, and which may be subject to US sanctions as a result. ](/news/2011/06/27/the-united-states-government-publishes-the-trafficking-in-persons-report-naming-those-countries-that-are-not-meeting-minimum-standards-agai.md)
-_Context: U.S. government, human trafficking, Trafficking In Persons, slavery, sanctions_
+_Context: human trafficking, slavery, Trafficking In Persons, U.S. government, sanctions_
 
 ##### Sudanese President
 ### [Sudanese president Omar al-Bashir, the subject of an International Criminal Court arrest warrant for genocide, war crimes and crimes against humanity in the region of Darfur, unexpectedly delays his visit to China without official explanation, after he had already departed for an anti-terrorism conference hosted by Iran. ](/news/2011/06/27/sudanese-president-omar-al-bashir-the-subject-of-an-international-criminal-court-arrest-warrant-for-genocide-war-crimes-and-crimes-against.md)
@@ -93,11 +93,11 @@ The Israeli foreign ministry on Sunday rejected as &quot;ludicrous&quot; suggest
 
 ##### Brown v. Entertainment Merchants Association
 ### ["Brown v. Entertainment Merchants Association": In a 7-2 decision, the Supreme Court of the United States strikes down a 2005 California law prohibiting minors' access to violent or offensive video games, citing them as protected speech under the First Amendment. ](/news/2011/06/27/brown-v-entertainment-merchants-association-in-a-7-2-decision-the-supreme-court-of-the-united-states-strikes-down-a-2005-california-law.md)
-_Context: violent or offensive video games, Brown v. Entertainment Merchants Association, Supreme Court of the United States, California, First Amendment_
+_Context: Supreme Court of the United States, California, Brown v. Entertainment Merchants Association, violent or offensive video games, First Amendment_
 
 ##### United Nations
 ### [A United Nations-backed tribunal in Cambodia holds its first hearings in the trial of four former senior Khmer Rouge officials, including former head of state Khieu Samphan and Pol Pot's deputy Nuon Chea. ](/news/2011/06/27/a-united-nations-backed-tribunal-in-cambodia-holds-its-first-hearings-in-the-trial-of-four-former-senior-khmer-rouge-officials-including-fo.md)
-_Context: Pol Pot, United Nations, Khmer Rouge, head of state, Cambodia, Nuon Chea, Khieu Samphan_
+_Context: Cambodia, Nuon Chea, Khmer Rouge, head of state, Pol Pot, United Nations, Khieu Samphan_
 
 ##### Chinese human rights
 ### [Chinese human rights activist Hu Jia is released after serving a 3 1-2-year sentence, for "inciting to subvert state power." ](/news/2011/06/27/chinese-human-rights-activist-hu-jia-is-released-after-serving-a-3-1-2-year-sentence-for-inciting-to-subvert-state-power.md)
@@ -113,9 +113,9 @@ A federal jury Monday convicted Rod Blagojevich of sweeping corruption, putting 
 
 ##### Blackwater Worldwide
 ### [Justin Cannon, a former Blackwater Worldwide (now called Xe Services LLC) employee, is sentenced to thirty months in jail for involuntary manslaughter of an Afghan civilian in a shooting in 2009. ](/news/2011/06/27/justin-cannon-a-former-blackwater-worldwide-now-called-xe-services-llc-employee-is-sentenced-to-thirty-months-in-jail-for-involuntary-ma.md)
-_Context: involuntary manslaughter, Afghan, Blackwater Worldwide_
+_Context: Blackwater Worldwide, Afghan, involuntary manslaughter_
 
-##### British
+##### United Kingdom
 ### [Up to 750,000 teachers and civil servants in the United Kingdom are set to strike on Thursday after talks aimed at averting the action failed to broker an agreement. ](/news/2011/06/27/up-to-750-000-teachers-and-civil-servants-in-the-united-kingdom-are-set-to-strike-on-thursday-after-talks-aimed-at-averting-the-action-faile.md)
 Leader of the TUC Brendan Barber says unions will continue talks with ministers over plans for public sector pensions, but the two sides are still at odds.
 

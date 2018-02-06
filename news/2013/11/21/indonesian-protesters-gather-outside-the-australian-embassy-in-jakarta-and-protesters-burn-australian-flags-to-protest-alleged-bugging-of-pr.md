@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/11/21/indonesian-protesters-gather-outside-the-austra
 
 ### Changes:
 
-1. [2013 global surveillance disclosures:Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-pindonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md) _2017-08-25 03:39:34 (First version)_
-2. [2013 global surveillance disclosures:: Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-indonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md) _2017-08-27 03:39:52 (Update)_
+1. [2013 global surveillance disclosures:Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-pindonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 global surveillance disclosures:: Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-indonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md) _2018-02-06 13:49:25 (Update)_
 2. [Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/indonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian-flags-to-protest-alleged-bugging-of-pr.md) _(Current version)_
 
 ### Related:

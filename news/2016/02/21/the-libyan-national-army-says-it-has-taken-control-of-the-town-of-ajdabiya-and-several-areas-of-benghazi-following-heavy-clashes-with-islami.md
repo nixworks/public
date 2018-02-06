@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-cont
 
 ### Changes:
 
-1. [Libyan Civil War (2014-present): The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/libyan-civil-war-2014-present-the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi.md) _2017-08-27 03:44:58 (First version)_
+1. [Libyan Civil War (2014-present): The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/libyan-civil-war-2014-present-the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi.md) _2018-02-06 13:49:28 (First version)_
 1. [The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi-following-heavy-clashes-with-islami.md) _(Current version)_
 
 ### Related:

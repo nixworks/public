@@ -16,7 +16,7 @@ At least seven people die and three more are missing after a swimming hole is st
 
 ### Changes:
 
-1. [A flash flood near Payson, Arizona, leaves at least seven people dead and three others missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-seven-people-dead-and-three-others-missing-according-to-the-gila-county-sheriff-s-offic.md) _2017-07-18 03:49:34 (First version)_
+1. [A flash flood near Payson, Arizona, leaves at least seven people dead and three others missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-seven-people-dead-and-three-others-missing-according-to-the-gila-county-sheriff-s-offic.md) _2018-02-06 13:49:30 (First version)_
 1. [A flash flood near Payson, Arizona, leaves at least nine people dead and one person missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-nine-people-dead-and-one-person-missing-according-to-the-gila-county-sheriff-s-office.md) _(Current version)_
 
 ### Related:

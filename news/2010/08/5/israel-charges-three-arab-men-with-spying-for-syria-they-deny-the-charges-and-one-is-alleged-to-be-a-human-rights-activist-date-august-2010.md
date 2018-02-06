@@ -16,7 +16,7 @@ Israel charges three Arab men with spying, saying they passed intelligence to Sy
 
 ### Changes:
 
-1. [Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.{{clarify|date=August 2010|does Israel "accuse" him of being a human rights activist???}} ](/news/2010/08/5/israel-charges-three-arab-men-with-spying-for-syria-they-deny-the-charges-and-one-is-alleged-to-be-a-human-rights-activist-clarify-date-a.md) _2017-05-01 03:30:58 (First version)_
+1. [Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.{{clarify|date=August 2010|does Israel "accuse" him of being a human rights activist???}} ](/news/2010/08/5/israel-charges-three-arab-men-with-spying-for-syria-they-deny-the-charges-and-one-is-alleged-to-be-a-human-rights-activist-clarify-date-a.md) _2018-02-06 13:49:20 (First version)_
 1. [Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.date=August 2010 does Israel "accuse" him of being a human rights activist??? ](/news/2010/08/5/israel-charges-three-arab-men-with-spying-for-syria-they-deny-the-charges-and-one-is-alleged-to-be-a-human-rights-activist-date-august-2010.md) _(Current version)_
 
 ### Related:

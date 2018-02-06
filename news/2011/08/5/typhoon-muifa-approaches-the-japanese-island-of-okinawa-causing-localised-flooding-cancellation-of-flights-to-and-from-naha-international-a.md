@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/08/5/typhoon-muifa-approaches-the-japanese-island-of-
 
 ### Changes:
 
-1. [Typhoon Muifa:Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-ptyphoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha.md) _2017-08-25 03:33:57 (First version)_
-2. [Typhoon Muifa:: Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-typhoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha.md) _2017-08-27 03:34:05 (Update)_
+1. [Typhoon Muifa:: Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-typhoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha.md) _2018-02-06 13:49:22 (First version)_
+2. [Typhoon Muifa:Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-ptyphoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha.md) _2018-02-06 13:49:22 (Update)_
 2. [Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha-international-a.md) _(Current version)_
 
 ### Related:

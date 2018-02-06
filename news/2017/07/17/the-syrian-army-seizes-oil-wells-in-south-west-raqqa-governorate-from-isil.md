@@ -16,7 +16,7 @@ The Syrian army has seized oil wells in Raqqa as IS militants battle to defend t
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian army seizes oil wells in south-west Raqqa Governorate from ISIL. ](/news/2017/07/17/syrian-civil-war-the-syrian-army-seizes-oil-wells-in-south-west-raqqa-governorate-from-isil.md) _2017-08-27 03:48:40 (First version)_
+1. [Syrian Civil War: The Syrian army seizes oil wells in south-west Raqqa Governorate from ISIL. ](/news/2017/07/17/syrian-civil-war-the-syrian-army-seizes-oil-wells-in-south-west-raqqa-governorate-from-isil.md) _2018-02-06 13:49:30 (First version)_
 1. [The Syrian army seizes oil wells in south-west Raqqa Governorate from ISIL. ](/news/2017/07/17/the-syrian-army-seizes-oil-wells-in-south-west-raqqa-governorate-from-isil.md) _(Current version)_
 
 ### Related:

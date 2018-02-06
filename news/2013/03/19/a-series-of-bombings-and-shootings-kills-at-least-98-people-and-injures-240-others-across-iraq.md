@@ -18,8 +18,8 @@ Up to 60 people are killed and scores are injured in a series of bomb attacks in
 
 ### Changes:
 
-1. [19 March 2013 Iraq attacks:A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-pa-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md) _2017-08-25 03:37:55 (First version)_
-2. [19 March 2013 Iraq attacks:: A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md) _2017-08-27 03:38:06 (Update)_
+1. [19 March 2013 Iraq attacks:A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-pa-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md) _2018-02-06 13:49:24 (First version)_
+2. [19 March 2013 Iraq attacks:: A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md) _2018-02-06 13:49:24 (Update)_
 2. [A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Controversial mayor, known as The Punisher, gets more than 16 million votes afte
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/philippine-presidential-election-2016-rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _2017-08-27 03:46:08 (First version)_
+1. [Philippine presidential election, 2016: Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/philippine-presidential-election-2016-rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _2018-02-06 13:49:29 (First version)_
 1. [Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _(Current version)_
 
 ### Related:

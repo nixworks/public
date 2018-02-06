@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/26/index.html)  [JSON](2017/12/26/index.json)  [XML](201
 
 ## [2017-12-26](/news/2017/12/26/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [According to emergency services and the Houthi-owned Al Masirah, Saudi Arabian coalition air strikes kill 15 people and wound 60 at al-Shahra souq, a popular market in Taiz Governorate. ](/news/2017/12/26/according-to-emergency-services-and-the-houthi-owned-al-masirah-saudi-arabian-coalition-air-strikes-kill-15-people-and-wound-60-at-al-shahr.md)
 At least 20 people killed and dozens more wounded in a series of Saudi-led raids on a market in Taiz province. 
 
@@ -21,7 +21,7 @@ It is the biggest series of hangings since 2015 in Egypt, which is battling an i
 
 ##### Liberian general election, 2017
 ### [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. Weah is elected with 60% of the vote. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah-w.md)
-_Context: Liberia, Joseph Boakai, George Weah, Liberian general election, 2017_
+_Context: Liberia, George Weah, Liberian general election, 2017, Joseph Boakai_
 
 ##### Mining industry of Morocco
 ### [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md)

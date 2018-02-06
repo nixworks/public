@@ -16,7 +16,7 @@ Hong Kong pro-democracy activists recaptured parts of a core protest zone early 
 
 ### Changes:
 
-1. [2014 Hong Kong protests: The Hong Kong Police Force stages a dawn raid at the protest site in the suburb of Mong Kok. ](/news/2014/10/17/2014-hong-kong-protests-the-hong-kong-police-force-stages-a-dawn-raid-at-the-protest-site-in-the-suburb-of-mong-kok.md) _2017-08-27 03:41:24 (First version)_
+1. [2014 Hong Kong protests: The Hong Kong Police Force stages a dawn raid at the protest site in the suburb of Mong Kok. ](/news/2014/10/17/2014-hong-kong-protests-the-hong-kong-police-force-stages-a-dawn-raid-at-the-protest-site-in-the-suburb-of-mong-kok.md) _2018-02-06 13:49:26 (First version)_
 1. [The Hong Kong Police Force stages a dawn raid at the protest site in the suburb of Mong Kok. ](/news/2014/10/17/the-hong-kong-police-force-stages-a-dawn-raid-at-the-protest-site-in-the-suburb-of-mong-kok.md) _(Current version)_
 
 ### Related:

@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/19/index.html)  [JSON](2014/05/19/index.json)  [XML](201
 
 ##### Chinese
 ### [Two Chinese workers are kidnapped from a controversial copper mine in Burma by activists. ](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.md)
-_Context: Burma, Chinese_
+_Context: Chinese, Burma_
 
 ##### Russian President
 ### [Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to-withdraw-and-return-to-their-permane.md)
@@ -37,7 +37,7 @@ _Context: Saudi Arabia, Tripoli, Libya_
 
 ##### same-sex couples
 ### [Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-u-s-federal-district-court-judge-rules-that-the-state-s-ban-on-such-marriages-violates-equal.md)
-_Context: Constitution, same-sex couples, Oregon_
+_Context: Oregon, same-sex couples, Constitution_
 
 ##### Egypt
 ### [An Egyptian court acquits 169 Muslim Brotherhood members for charges relating to unrest that followed the ousting of former Egyptian President Mohamed Morsi. ](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.md)

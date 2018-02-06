@@ -9,7 +9,7 @@ Indian shelling across the frontier into Pakistani-controlled Kashmir hit a bus,
 
 ##### Economy of Brazil
 ### [The Brazilian Development Bank announces plans to repay up to $29 billion in loans to the Government of Brazil in order to stem a burgeoning deficit. ](/news/2016/11/23/the-brazilian-development-bank-announces-plans-to-repay-up-to-29-billion-in-loans-to-the-government-of-brazil-in-order-to-stem-a-burgeoning.md)
-_Context: Brazilian Development Bank, Government of Brazil, Economy of Brazil_
+_Context: Brazilian Development Bank, Economy of Brazil, Government of Brazil_
 
 ##### Peabody Energy
 ### [Peabody Energy says it plans to file a reorganization plan in the middle of December because recent increases in the price of coal have eased conflicts among its creditors. ](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorganization-plan-in-the-middle-of-december-because-recent-increases-in-the-price-of-coal-have-ease.md)
@@ -17,7 +17,7 @@ U.S. coal producer Peabody Energy Corp BTUUQ.PK said on Wednesday it is closer t
 
 ##### Iran-United States relations
 ### [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md)
-_Context: Iran-United States relations, Ayatollah Khamenei, Iran, Joint Comprehensive Plan of Action_
+_Context: Iran, Iran-United States relations, Ayatollah Khamenei, Joint Comprehensive Plan of Action_
 
 ##### white supremacist
 ### [White supremacist Thomas Mair is found guilty of the murder of British Member of Parliament Jo Cox and is sentenced to life imprisonment with a whole life order. ](/news/2016/11/23/white-supremacist-thomas-mair-is-found-guilty-of-the-murder-of-british-member-of-parliament-jo-cox-and-is-sentenced-to-life-imprisonment-wit.md)

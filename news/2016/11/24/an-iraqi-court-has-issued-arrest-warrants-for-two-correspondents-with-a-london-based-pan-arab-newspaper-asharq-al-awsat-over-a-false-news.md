@@ -18,7 +18,7 @@ A Baghdad court has issued arrest warrants for two correspondents with a Saudi n
 
 ### Changes:
 
-1. [An Iraqi court has issued arrest warrants for two correspondents with a London-based pan-Arab newspaper ''Asharq al-Awsat'' over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. ](/news/2016/11/24/an-iraqi-court-has-issued-arrest-warrants-for-two-correspondents-with-a-london-based-pan-arab-newspaper-asharq-al-awsat-over-a-false-new.md) _2017-08-25 03:46:52 (First version)_
+1. [An Iraqi court has issued arrest warrants for two correspondents with a London-based pan-Arab newspaper ''Asharq al-Awsat'' over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. ](/news/2016/11/24/an-iraqi-court-has-issued-arrest-warrants-for-two-correspondents-with-a-london-based-pan-arab-newspaper-asharq-al-awsat-over-a-false-new.md) _2018-02-06 13:49:29 (First version)_
 1. [An Iraqi court has issued arrest warrants for two correspondents with a London-based pan-Arab newspaper "Asharq al-Awsat" over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. ](/news/2016/11/24/an-iraqi-court-has-issued-arrest-warrants-for-two-correspondents-with-a-london-based-pan-arab-newspaper-asharq-al-awsat-over-a-false-news.md) _(Current version)_
 
 ### Related:

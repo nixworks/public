@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/04/3/tornadoes-impact-the-dallas-texas-area-as-part-o
 
 ### Changes:
 
-1. [Tornadoes impact the Dallas, Texas area as part of the April 3, 2012 tornado outbreak. ](/news/2012/04/3/tornadoes-impact-the-dallas-texas-area-as-part-of-the-april-3-2012-tornado-outbreak.md) _2017-10-17 03:41:13 (First version)_
+1. [Tornadoes impact the Dallas, Texas area as part of the April 3, 2012 tornado outbreak. ](/news/2012/04/3/tornadoes-impact-the-dallas-texas-area-as-part-of-the-april-3-2012-tornado-outbreak.md) _2018-02-06 13:49:23 (First version)_
 1. [Tornadoes impact the Dallas, Texas area as part of the tornado outbreak of April 3, 2012. ](/news/2012/04/3/tornadoes-impact-the-dallas-texas-area-as-part-of-the-tornado-outbreak-of-april-3-2012.md) _(Current version)_
 
 ### Related:

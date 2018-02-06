@@ -11,8 +11,8 @@ Formats: [HTML](/news/2004/12/2/the-u-s-house-committee-on-the-judiciary-request
 
 ### Changes:
 
-1. [ The U.S. House Committee on the Judiciary requests Ohio Secretary of State Ken Blackwell to respond to alleged voting irregularities. ](/news/2004/12/2/the-u-s-house-committee-on-the-judiciary-requests-ohio-secretary-of-state-ken-blackwell-to-respond-to-alleged-voting-irregularities.md) _2017-08-25 03:15:28 (First version)_
-2. [2004 U.S. presidential election controversy: The U.S. House Committee on the Judiciary requests Ohio Secretary of State Ken Blackwell to respond to alleged voting irregularities. [http:--www.house.gov-judiciary_democrats-ohblackwellltrpr12204.pdf (House.gov (PDF))]](/news/2004/12/2/2004-u-s-presidential-election-controversy-the-u-s-house-committee-on-the-judiciary-requests-ohio-secretary-of-state-ken-blackwell-to-res.md) _2017-08-27 03:15:30 (Update)_
+1. [ The U.S. House Committee on the Judiciary requests Ohio Secretary of State Ken Blackwell to respond to alleged voting irregularities. ](/news/2004/12/2/the-u-s-house-committee-on-the-judiciary-requests-ohio-secretary-of-state-ken-blackwell-to-respond-to-alleged-voting-irregularities.md) _2018-02-06 13:49:16 (First version)_
+2. [2004 U.S. presidential election controversy: The U.S. House Committee on the Judiciary requests Ohio Secretary of State Ken Blackwell to respond to alleged voting irregularities. [http:--www.house.gov-judiciary_democrats-ohblackwellltrpr12204.pdf (House.gov (PDF))]](/news/2004/12/2/2004-u-s-presidential-election-controversy-the-u-s-house-committee-on-the-judiciary-requests-ohio-secretary-of-state-ken-blackwell-to-res.md) _2018-02-06 13:49:16 (Update)_
 2. [ The U.S. House Committee on the Judiciary requests Ohio Secretary of State Ken Blackwell to respond to alleged voting irregularities. [http:--www.house.gov-judiciary_democrats-ohblackwellltrpr12204.pdf (House.gov (PDF))]](/news/2004/12/2/the-u-s-house-committee-on-the-judiciary-requests-ohio-secretary-of-state-ken-blackwell-to-respond-to-alleged-voting-irregularities-http.md) _(Current version)_
 
 ### Related:

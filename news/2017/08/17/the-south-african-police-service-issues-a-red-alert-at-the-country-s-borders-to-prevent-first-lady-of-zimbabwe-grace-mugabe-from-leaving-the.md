@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/17/the-south-african-police-service-issues-a-red-a
 
 ### Changes:
 
-1. [South Africa-Zimbabwe relations: The South African Police Service issues a red alert at the country's borders to prevent First Lady of Zimbabwe Grace Mugabe from leaving the country. She is wanted on charges of "assault with intent to cause grievous bodily harm" on a 20-year-old woman in a hotel room in Johannesburg. ](/news/2017/08/17/south-africa-zimbabwe-relations-the-south-african-police-service-issues-a-red-alert-at-the-country-s-borders-to-prevent-first-lady-of-zim.md) _2017-08-27 03:48:49 (First version)_
+1. [South Africa-Zimbabwe relations: The South African Police Service issues a red alert at the country's borders to prevent First Lady of Zimbabwe Grace Mugabe from leaving the country. She is wanted on charges of "assault with intent to cause grievous bodily harm" on a 20-year-old woman in a hotel room in Johannesburg. ](/news/2017/08/17/south-africa-zimbabwe-relations-the-south-african-police-service-issues-a-red-alert-at-the-country-s-borders-to-prevent-first-lady-of-zim.md) _2018-02-06 13:49:31 (First version)_
 1. [The South African Police Service issues a red alert at the country's borders to prevent First Lady of Zimbabwe Grace Mugabe from leaving the country. She is wanted on charges of "assault with intent to cause grievous bodily harm" on a 20-year-old woman in a hotel room in Johannesburg. ](/news/2017/08/17/the-south-african-police-service-issues-a-red-alert-at-the-country-s-borders-to-prevent-first-lady-of-zimbabwe-grace-mugabe-from-leaving-the.md) _(Current version)_
 
 ### Related:

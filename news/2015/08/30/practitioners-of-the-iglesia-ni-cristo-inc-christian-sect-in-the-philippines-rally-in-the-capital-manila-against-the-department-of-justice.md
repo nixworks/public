@@ -17,7 +17,7 @@ Members of the Iglesia ni Cristo will gather in major cities across the country,
 
 ### Changes:
 
-1. [2015 Iglesia ni Cristo protests: Practitioners of the Iglesia ni Cristo (INC) Christian sect in the Philippines rally in the capital Manila against the Department of Justice for its ongoing investigation of INC leaders. ](/news/2015/08/30/2015-iglesia-ni-cristo-protests-practitioners-of-the-iglesia-ni-cristo-inc-christian-sect-in-the-philippines-rally-in-the-capital-manila.md) _2017-08-27 03:42:56 (First version)_
+1. [2015 Iglesia ni Cristo protests: Practitioners of the Iglesia ni Cristo (INC) Christian sect in the Philippines rally in the capital Manila against the Department of Justice for its ongoing investigation of INC leaders. ](/news/2015/08/30/2015-iglesia-ni-cristo-protests-practitioners-of-the-iglesia-ni-cristo-inc-christian-sect-in-the-philippines-rally-in-the-capital-manila.md) _2018-02-06 13:49:27 (First version)_
 1. [Practitioners of the Iglesia ni Cristo (INC) Christian sect in the Philippines rally in the capital Manila against the Department of Justice for its ongoing investigation of INC leaders. ](/news/2015/08/30/practitioners-of-the-iglesia-ni-cristo-inc-christian-sect-in-the-philippines-rally-in-the-capital-manila-against-the-department-of-justice.md) _(Current version)_
 
 ### Related:

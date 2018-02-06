@@ -16,7 +16,7 @@ Koronis Pharmaceuticals, a privately held U.S. biotech firm working on a new kin
 
 ### Changes:
 
-1. [Donald Elmer, the Chief Executive of a small U.S.-based pharmaceutical company, Koronis, said that he is looking to raise money through London's Alternative Investment Market, thus enabling the next stage of clinical tests for his company's anti-HIV product, KP-1461. ](/news/2011/03/13/donald-elmer-the-chief-executive-of-a-small-u-s-based-pharmaceutical-company-koronis-said-that-he-is-looking-to-raise-money-through-lo.md) _2017-08-27 03:32:39 (First version)_
+1. [Donald Elmer, the Chief Executive of a small U.S.-based pharmaceutical company, Koronis, said that he is looking to raise money through London's Alternative Investment Market, thus enabling the next stage of clinical tests for his company's anti-HIV product, KP-1461. ](/news/2011/03/13/donald-elmer-the-chief-executive-of-a-small-u-s-based-pharmaceutical-company-koronis-said-that-he-is-looking-to-raise-money-through-lo.md) _2018-02-06 13:49:22 (First version)_
 1. [Donald Elmer, the Chief Executive of a small U.S.-based pharmaceutical company, Koronis, said that he is looking to raise money through London's Alternative Investment Market, thus enabling the next stage of clinical tests for his company's anti-HIV product, KP-1461. ](/news/2011/03/13/donald-elmer-the-chief-executive-of-a-small-u-s-abased-pharmaceutical-company-koronis-said-that-he-is-looking-to-raise-money-through-lo.md) _(Current version)_
 
 ### Related:

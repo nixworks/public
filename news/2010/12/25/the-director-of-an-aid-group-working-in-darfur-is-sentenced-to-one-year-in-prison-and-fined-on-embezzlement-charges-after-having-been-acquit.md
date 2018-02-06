@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-
 
 ### Changes:
 
-1. [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acqui.md) _2017-08-25 03:31:31 (First version)_
+1. [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acqui.md) _2018-02-06 13:49:21 (First version)_
 1. [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acquit.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Vocal Donald Trump critic says he wants Germany to be an ‘anchor of hope’ af
 
 ### Changes:
 
-1. [German presidential election, 2017: Former Foreign Minister Frank-Walter Steinmeier is elected President of Germany. ](/news/2017/02/12/german-presidential-election-2017-former-foreign-minister-frank-walter-steinmeier-is-elected-president-of-germany.md) _2017-08-27 03:47:48 (First version)_
+1. [German presidential election, 2017: Former Foreign Minister Frank-Walter Steinmeier is elected President of Germany. ](/news/2017/02/12/german-presidential-election-2017-former-foreign-minister-frank-walter-steinmeier-is-elected-president-of-germany.md) _2018-02-06 13:49:30 (First version)_
 1. [Former Foreign Minister Frank-Walter Steinmeier is elected President of Germany. ](/news/2017/02/12/former-foreign-minister-frank-walter-steinmeier-is-elected-president-of-germany.md) _(Current version)_
 
 ### Related:

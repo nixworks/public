@@ -16,7 +16,7 @@ A teenager becomes the first Israeli to be killed by firing from Syria in the oc
 
 ### Changes:
 
-1. [Syrian civil war: A 15-year-old Israeli boy is killed and three Israelis wounded when their truck is hit by an unknown weapon in the Golan heights near the Quneitra border crossing; Israeli Defense Forces fire at Syrian government targets in response. ](/news/2014/06/22/syrian-civil-war-a-15-year-old-israeli-boy-is-killed-and-three-israelis-wounded-when-their-truck-is-hit-by-an-unknown-weapon-in-the-golan-h.md) _2017-08-27 03:40:53 (First version)_
+1. [Syrian civil war: A 15-year-old Israeli boy is killed and three Israelis wounded when their truck is hit by an unknown weapon in the Golan heights near the Quneitra border crossing; Israeli Defense Forces fire at Syrian government targets in response. ](/news/2014/06/22/syrian-civil-war-a-15-year-old-israeli-boy-is-killed-and-three-israelis-wounded-when-their-truck-is-hit-by-an-unknown-weapon-in-the-golan-h.md) _2018-02-06 13:49:26 (First version)_
 1. [A 15-year-old Israeli boy is killed and three Israelis wounded when their truck is hit by an unknown weapon in the Golan heights near the Quneitra border crossing; Israeli Defense Forces fire at Syrian government targets in response. ](/news/2014/06/22/a-15-year-old-israeli-boy-is-killed-and-three-israelis-wounded-when-their-truck-is-hit-by-an-unknown-weapon-in-the-golan-heights-near-the-qu.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ With Hurricane Irene bearing down on New York City, subways, buses and commuter 
 
 ### Changes:
 
-1. [Hurricane Irene:New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/hurricane-irene-pnew-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane.md) _2017-08-25 03:34:04 (First version)_
-2. [Hurricane Irene:: New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/hurricane-irene-new-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane.md) _2017-08-27 03:34:11 (Update)_
+1. [Hurricane Irene:New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/hurricane-irene-pnew-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane.md) _2018-02-06 13:49:22 (First version)_
+2. [Hurricane Irene:: New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/hurricane-irene-new-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane.md) _2018-02-06 13:49:22 (Update)_
 2. [New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/new-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane-irene.md) _(Current version)_
 
 ### Related:

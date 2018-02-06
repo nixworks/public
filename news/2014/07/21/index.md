@@ -5,7 +5,7 @@ Formats: [HTML](2014/07/21/index.html)  [JSON](2014/07/21/index.json)  [XML](201
 
 ##### Operation Protective Edge
 ### [The United Nations Security Council calls for an immediate ceasefire on the Gaza Strip after an emergency meeting. ](/news/2014/07/21/the-united-nations-security-council-calls-for-an-immediate-ceasefire-on-the-gaza-strip-after-an-emergency-meeting.md)
-_Context: Operation Protective Edge, United Nations Security Council, Gaza Strip_
+_Context: Gaza Strip, United Nations Security Council, Operation Protective Edge_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-airlines-flight-17.md)
@@ -21,15 +21,15 @@ _Context: Russia, AK Steel, Steel Dynamics, US$, Severstal_
 
 ##### 2014 Pacific typhoon season
 ### [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md)
-_Context: Typhoon Rammasun (Glenda), China, Vietnam, 2014 Pacific typhoon season_
+_Context: China, Typhoon Rammasun (Glenda), 2014 Pacific typhoon season, Vietnam_
 
 ##### ravine
 ### [A bus crashes into a ravine in Pakistan's Kashmir region killing 16 people with 37 others injured. ](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashmir-region-killing-16-people-with-37-others-injured.md)
-_Context: Kashmir, ravine, Pakistan_
+_Context: Pakistan, Kashmir, ravine_
 
 ##### Boston Marathon bombings
 ### [Azamat Tazhayakov, a friend of accused marathon bomber Dzhokhar Tsarnaev is found guilty of obstruction of justice and conspiracy for trying to hide evidence during the ongoing case. ](/news/2014/07/21/azamat-tazhayakov-a-friend-of-accused-marathon-bomber-dzhokhar-tsarnaev-is-found-guilty-of-obstruction-of-justice-and-conspiracy-for-trying.md)
-_Context: Boston Marathon bombings, Dzhokhar Tsarnaev_
+_Context: Dzhokhar Tsarnaev, Boston Marathon bombings_
 
 ## [Previous Day...](/news/2014/07/20/index.md)
 

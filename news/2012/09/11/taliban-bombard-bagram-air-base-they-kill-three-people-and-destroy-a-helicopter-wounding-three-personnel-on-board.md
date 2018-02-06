@@ -18,8 +18,8 @@ Afghan insurgents bombarded a U.S. base and destroyed a NATO helicopter, killing
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-ptaliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personne.md) _2017-08-25 03:36:29 (First version)_
-2. [War in Afghanistan (2001-present):: Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personn.md) _2017-08-27 03:36:39 (Update)_
+1. [War in Afghanistan (2001-present):: Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personn.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan (2001-present):Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-ptaliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personne.md) _2018-02-06 13:49:23 (Update)_
 2. [Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personnel-on-board.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea 
 
 ### Changes:
 
-1. [Bill Cosby sexual assault allegations: The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. ](/news/2017/06/17/bill-cosby-sexual-assault-allegations-the-trial-against-comedian-bill-cosby-at-the-montgomery-county-courthouse-ends-with-a-hung-jury-and-t.md) _2017-08-27 03:48:29 (First version)_
+1. [Bill Cosby sexual assault allegations: The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. ](/news/2017/06/17/bill-cosby-sexual-assault-allegations-the-trial-against-comedian-bill-cosby-at-the-montgomery-county-courthouse-ends-with-a-hung-jury-and-t.md) _2018-02-06 13:49:30 (First version)_
 1. [The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. ](/news/2017/06/17/the-trial-against-comedian-bill-cosby-at-the-montgomery-county-courthouse-ends-with-a-hung-jury-and-the-consequent-declaration-of-a-mistrial.md) _(Current version)_
 
 ### Related:

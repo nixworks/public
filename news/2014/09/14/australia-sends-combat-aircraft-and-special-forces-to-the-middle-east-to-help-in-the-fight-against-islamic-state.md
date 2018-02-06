@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/09/14/australia-sends-combat-aircraft-and-special-for
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant:Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/islamic-state-of-iraq-and-the-levant-paustralia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-isl.md) _2017-08-25 03:40:58 (First version)_
-2. [Islamic State of Iraq and the Levant:: Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/islamic-state-of-iraq-and-the-levant-australia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-is.md) _2017-08-27 03:41:16 (Update)_
+1. [Islamic State of Iraq and the Levant:Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/islamic-state-of-iraq-and-the-levant-paustralia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-isl.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamic State of Iraq and the Levant:: Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/islamic-state-of-iraq-and-the-levant-australia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-is.md) _2018-02-06 13:49:26 (Update)_
 2. [Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/australia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-islamic-state.md) _(Current version)_
 
 ### Related:

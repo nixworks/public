@@ -16,7 +16,7 @@ An Australian working for a non-governmental organisation in Afghanistan is repo
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): An Australian woman has reportedly been kidnapped in Kabul. ](/news/2016/11/6/war-in-afghanistan-2015-present-an-australian-woman-has-reportedly-been-kidnapped-in-kabul.md) _2017-08-27 03:47:11 (First version)_
+1. [War in Afghanistan (2015-present): An Australian woman has reportedly been kidnapped in Kabul. ](/news/2016/11/6/war-in-afghanistan-2015-present-an-australian-woman-has-reportedly-been-kidnapped-in-kabul.md) _2018-02-06 13:49:29 (First version)_
 1. [An Australian woman has reportedly been kidnapped in Kabul. ](/news/2016/11/6/an-australian-woman-has-reportedly-been-kidnapped-in-kabul.md) _(Current version)_
 
 ### Related:

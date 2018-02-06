@@ -13,7 +13,7 @@ The U.S. Navy said the cause of the crash is not known at this time.
 
 ##### Palestine-United States relations
 ### [The Palestinian National Authority suspends contact with the United States after the Palestine Liberation Organization office in Washington, D.C. was closed. ](/news/2017/11/22/the-palestinian-national-authority-suspends-contact-with-the-united-states-after-the-palestine-liberation-organization-office-in-washington.md)
-_Context: Washington, D.C., Palestinian Authority, United States, Palestine-United States relations, Palestine Liberation Organization_
+_Context: Palestinian Authority, Palestine Liberation Organization, United States, Palestine-United States relations, Washington, D.C._
 
 ##### International reactions to the 2016-17 Rohingya persecution in Myanmar
 ### [U.S. Secretary of State Rex Tillerson calls the persecution of Rohingya Muslims by the government of Myanmar an "ethnic cleansing" and announces that the United States will consider targeted sanctions against Myanmar. ](/news/2017/11/22/u-s-secretary-of-state-rex-tillerson-calls-the-persecution-of-rohingya-muslims-by-the-government-of-myanmar-an-ethnic-cleansing-and-annou.md)

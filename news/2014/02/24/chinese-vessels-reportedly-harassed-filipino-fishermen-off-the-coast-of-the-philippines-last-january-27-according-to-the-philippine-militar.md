@@ -16,8 +16,8 @@ A Chinese vessel fired a water cannon at Filipino fishermen near a disputed shoa
 
 ### Changes:
 
-1. [South China Sea dispute:Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-pchinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md) _2017-08-25 03:40:05 (First version)_
-2. [South China Sea dispute:: Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md) _2017-08-27 03:40:23 (Update)_
+1. [South China Sea dispute:Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-pchinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md) _2018-02-06 13:49:25 (First version)_
+2. [South China Sea dispute:: Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md) _2018-02-06 13:49:25 (Update)_
 2. [Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according-to-the-philippine-militar.md) _(Current version)_
 
 ### Related:

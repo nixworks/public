@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/9/taliban-militants-attack-government-offices-in-t
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/war-in-afghanistan-2015-present-taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-le.md) _2017-08-27 03:45:11 (First version)_
+1. [War in Afghanistan (2015-present): Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/war-in-afghanistan-2015-present-taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-le.md) _2018-02-06 13:49:28 (First version)_
 1. [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoranas-grasbe
 
 ### Changes:
 
-1. [A tunnel collapses at Freeport-McMoRan-s Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoran-s-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md) _2017-08-27 03:38:52 (First version)_
+1. [A tunnel collapses at Freeport-McMoRan-s Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoran-s-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md) _2018-02-06 13:49:24 (First version)_
 1. [A tunnel collapses at Freeport-McMoRan's Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoranas-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md) _(Current version)_
 
 ### Related:

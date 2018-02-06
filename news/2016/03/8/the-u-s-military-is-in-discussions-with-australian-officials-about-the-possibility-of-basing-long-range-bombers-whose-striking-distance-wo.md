@@ -16,7 +16,7 @@ The United States is in talks to base long-range bombers in Australia, U.S. defe
 
 ### Changes:
 
-1. [The U.S. military is in discussions with Australian officials about the possibility of basing long-range bombers, whose striking distance would include the South China Sea, in Australia. ](/news/2016/03/8/the-u-s-military-is-in-discussions-with-australian-officials-about-the-possibility-of-basing-long-range-bombers-whose-striking-distance.md) _2017-08-25 03:44:50 (First version)_
+1. [The U.S. military is in discussions with Australian officials about the possibility of basing long-range bombers, whose striking distance would include the South China Sea, in Australia. ](/news/2016/03/8/the-u-s-military-is-in-discussions-with-australian-officials-about-the-possibility-of-basing-long-range-bombers-whose-striking-distance.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. military is in discussions with Australian officials about the possibility of basing long-range bombers, whose striking distance would include the South China Sea, in Australia. ](/news/2016/03/8/the-u-s-military-is-in-discussions-with-australian-officials-about-the-possibility-of-basing-long-range-bombers-whose-striking-distance-wo.md) _(Current version)_
 
 ### Related:

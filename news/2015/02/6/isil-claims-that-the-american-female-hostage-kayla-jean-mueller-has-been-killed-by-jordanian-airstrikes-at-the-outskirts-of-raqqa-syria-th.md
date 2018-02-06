@@ -19,8 +19,8 @@ The parents of a US hostage who Islamic State militants say was killed by a Jord
 
 ### Changes:
 
-1. [ISIL claims that the American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrikes-at-the-outskirts-of-raqqa-syria-t.md) _2017-08-25 03:41:35 (First version)_
-2. [Islamic State of Iraq and the Levant: ISIL claims that the American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/islamic-state-of-iraq-and-the-levant-isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrike.md) _2017-08-27 03:41:53 (Update)_
+1. [Islamic State of Iraq and the Levant: ISIL claims that the American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/islamic-state-of-iraq-and-the-levant-isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrike.md) _2018-02-06 13:49:26 (First version)_
+2. [ISIL claims that the American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrikes-at-the-outskirts-of-raqqa-syria-t.md) _2018-02-06 13:49:26 (Update)_
 2. [ISIL claims that the American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrikes-at-the-outskirts-of-raqqa-syria-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/11/2/former-british-labour-party-minister-denis-macsh
 
 ### Changes:
 
-1. [Former British Labour Party minister Denis MacShane resigns his House of Commons seat after he wrongfully claimed at least PS7,500 in expenses. ](/news/2012/11/2/former-british-labour-party-minister-denis-macshane-resigns-his-house-of-commons-seat-after-he-wrongfully-claimed-at-least-aps7-500-in-expens.md) _2017-08-25 03:36:46 (First version)_
+1. [Former British Labour Party minister Denis MacShane resigns his House of Commons seat after he wrongfully claimed at least PS7,500 in expenses. ](/news/2012/11/2/former-british-labour-party-minister-denis-macshane-resigns-his-house-of-commons-seat-after-he-wrongfully-claimed-at-least-aps7-500-in-expens.md) _2018-02-06 13:49:24 (First version)_
 1. [Former British Labour Party minister Denis MacShane resigns his House of Commons seat after he wrongfully claimed at least GBP7,500 in expenses. ](/news/2012/11/2/former-british-labour-party-minister-denis-macshane-resigns-his-house-of-commons-seat-after-he-wrongfully-claimed-at-least-agbp7-500-in-expe.md) _(Current version)_
 
 ### Related:

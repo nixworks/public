@@ -5,11 +5,11 @@ Formats: [HTML](2006/02/3/index.html)  [JSON](2006/02/3/index.json)  [XML](2006/
 
 ##### Jamal al-Bedawi
 ### [ Jamal al-Bedawi, who masterminded the USS "Cole" bombing, and Fawaz al-Rabeiee, who planned the 2002 attack on the French tanker "Limburg", escape from a prison in Yemen along with 22 other prisoners, 12 of whom were convicted members of Al-Qaida. ](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bombing-and-fawaz-al-rabeiee-who-planned-the-2002-attack-on-the-french-tanker-limburg.md)
-_Context: Fawaz al-Rabeiee, USS ''Cole'' bombing, Yemen, Al-Qaida, Jamal al-Bedawi, 2002 attack on the French tanker ''Limburg''_
+_Context: Fawaz al-Rabeiee, Jamal al-Bedawi, Al-Qaida, USS ''Cole'' bombing, Yemen, 2002 attack on the French tanker ''Limburg''_
 
 ##### persona non grata
 ### [ The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". ](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.md)
-_Context: persona non grata, State Department, Venezuela_
+_Context: Venezuela, State Department, persona non grata_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency has deferred until Saturday a vote on whether to report Iran to the UN Security Council over concerns its nuclear programs may produce weapons. ](/news/2006/02/3/the-international-atomic-energy-agency-has-deferred-until-saturday-a-vote-on-whether-to-report-iran-to-the-un-security-council-over-concern.md)
@@ -17,11 +17,11 @@ _Context: United Nations Security Council, IAEA, Iran_
 
 ##### assassination
 ### [ A plot to assassinate President Mikhail Saakashvili of Georgia by shooting down his helicopter has been foiled. ](/news/2006/02/3/a-plot-to-assassinate-president-mikhail-saakashvili-of-georgia-by-shooting-down-his-helicopter-has-been-foiled.md)
-_Context: President of Georgia, assassination,  Georgian, Mikhail Saakashvili, helicopter_
+_Context: assassination,  Georgian, Mikhail Saakashvili, President of Georgia, helicopter_
 
 ##### EuroMillions
 ### [ Queues build up at vendors as the EuroMillions lottery offers a jackpot of EUR180 million after 11 successive rollovers (statistically expected once in 25 years). Some British vendors report a 1200% increase in sales. EuroMillions tickets are sold in Austria, Belgium. France, Ireland, Luxembourg, Portugal, Spain, Switzerland and the United Kingdom. An Irish woman won EUR115,436,126 last July. ](/news/2006/02/3/queues-build-up-at-vendors-as-the-euromillions-lottery-offers-a-jackpot-of-a-180-million-after-11-successive-rollovers-statistically-expe.md)
-_Context: EuroMillions, Luxembourg, lottery, EUR_
+_Context: Luxembourg, lottery, EUR, EuroMillions_
 
 ##### car bombs
 ### [ Two car bombs explode minutes apart in southern Baghdad, killing at least 16 people and wounding more than 90 others. ](/news/2006/02/3/two-car-bombs-explode-minutes-apart-in-southern-baghdad-killing-at-least-16-people-and-wounding-more-than-90-others.md)
@@ -41,7 +41,7 @@ Defense Secretary Donald H. Rumsfeld likened Venezuelan President Hugo Chavez to
 
 ##### D66
 ### [ Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. ](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.md)
-_Context: NATO, Boris Dittrich, International Security Assistance Force, Afghanistan, D66_
+_Context: Boris Dittrich, NATO, D66, Afghanistan, International Security Assistance Force_
 
 ## [Previous Day...](/news/2006/02/2/index.md)
 

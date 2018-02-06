@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/11/9/montana-senator-conrad-burns-concedes-his-u-s-se
 
 ### Changes:
 
-1. [ United States general elections, 2006: Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-p-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md) _2017-08-25 03:18:45 (First version)_
-2. [ United States general elections, 2006:: Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md) _2017-08-27 03:18:40 (Update)_
+1. [ United States general elections, 2006: Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-p-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md) _2018-02-06 13:49:17 (First version)_
+2. [ United States general elections, 2006:: Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md) _2018-02-06 13:49:17 (Update)_
 2. [ Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md) _(Current version)_
 
 ### Related:

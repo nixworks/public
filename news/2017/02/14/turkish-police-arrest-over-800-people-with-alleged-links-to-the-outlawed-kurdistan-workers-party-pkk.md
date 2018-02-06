@@ -15,7 +15,7 @@ State media says more than 800 people have been detained in operations carried o
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict (1978-present) - Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/kurdishaturkish-conflict-1978apresent-turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-pa.md) _2017-08-25 03:47:24 (First version)_
+1. [Kurdish-Turkish conflict (1978-present) - Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/kurdishaturkish-conflict-1978apresent-turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-pa.md) _2018-02-06 13:49:30 (First version)_
 1. [Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-party-pkk.md) _(Current version)_
 
 ### Related:

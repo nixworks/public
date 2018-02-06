@@ -16,7 +16,7 @@ Infections of the Zika virus are &quot;highly likely&quot; to keep spreading in 
 
 ### Changes:
 
-1. [2015-16 Zika virus epidemic: The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/2015-16-zika-virus-epidemic-the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-alread.md) _2017-08-27 03:47:01 (First version)_
+1. [2015-16 Zika virus epidemic: The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/2015-16-zika-virus-epidemic-the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-alread.md) _2018-02-06 13:49:29 (First version)_
 1. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _(Current version)_
 
 ### Related:

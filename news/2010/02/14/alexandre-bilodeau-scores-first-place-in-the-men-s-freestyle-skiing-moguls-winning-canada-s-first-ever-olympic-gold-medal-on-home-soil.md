@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/02/14/alexandre-bilodeau-scores-first-place-in-the-me
 
 ### Changes:
 
-1. [2010 Winter Olympics in Vancouver:Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/2010-winter-olympics-in-vancouver-palexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever-o.md) _2017-08-25 03:27:09 (First version)_
-2. [2010 Winter Olympics in Vancouver:: Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/2010-winter-olympics-in-vancouver-alexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever.md) _2017-08-27 03:27:04 (Update)_
+1. [2010 Winter Olympics in Vancouver:Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/2010-winter-olympics-in-vancouver-palexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever-o.md) _2018-02-06 13:49:19 (First version)_
+2. [2010 Winter Olympics in Vancouver:: Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/2010-winter-olympics-in-vancouver-alexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever.md) _2018-02-06 13:49:19 (Update)_
 2. [Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/alexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever-olympic-gold-medal-on-home-soil.md) _(Current version)_
 
 ### Related:

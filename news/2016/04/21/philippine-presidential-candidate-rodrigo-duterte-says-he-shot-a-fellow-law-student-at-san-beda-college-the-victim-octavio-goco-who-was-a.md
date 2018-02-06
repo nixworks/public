@@ -17,7 +17,7 @@ The presidential bet regales a crowd in Iloilo with a story of how he shot a fel
 
 ### Changes:
 
-1. [Philippine general election, 2016: Philippine presidential candidate Rodrigo Duterte says he shot a fellow law student at San Beda College. The victim, Octavio Goco, who was also a Lex Talionis fraternity brother of Duterte, survived the assault. Duerte was not allowed to participate in his graduation ceremony. ](/news/2016/04/21/philippine-general-election-2016-philippine-presidential-candidate-rodrigo-duterte-says-he-shot-a-fellow-law-student-at-san-beda-college.md) _2017-08-27 03:45:45 (First version)_
+1. [Philippine general election, 2016: Philippine presidential candidate Rodrigo Duterte says he shot a fellow law student at San Beda College. The victim, Octavio Goco, who was also a Lex Talionis fraternity brother of Duterte, survived the assault. Duerte was not allowed to participate in his graduation ceremony. ](/news/2016/04/21/philippine-general-election-2016-philippine-presidential-candidate-rodrigo-duterte-says-he-shot-a-fellow-law-student-at-san-beda-college.md) _2018-02-06 13:49:28 (First version)_
 1. [Philippine presidential candidate Rodrigo Duterte says he shot a fellow law student at San Beda College. The victim, Octavio Goco, who was also a Lex Talionis fraternity brother of Duterte, survived the assault. Duerte was not allowed to participate in his graduation ceremony. ](/news/2016/04/21/philippine-presidential-candidate-rodrigo-duterte-says-he-shot-a-fellow-law-student-at-san-beda-college-the-victim-octavio-goco-who-was-a.md) _(Current version)_
 
 ### Related:

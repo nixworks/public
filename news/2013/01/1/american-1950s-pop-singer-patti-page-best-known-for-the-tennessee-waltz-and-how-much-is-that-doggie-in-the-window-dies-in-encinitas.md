@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-
 
 ### Changes:
 
-1. [American 1950s pop singer Patti Page, best known for the ''Tennessee Waltz'' and ''(How Much Is That) Doggie In The Window'' dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinit.md) _2017-08-25 03:37:10 (First version)_
+1. [American 1950s pop singer Patti Page, best known for the ''Tennessee Waltz'' and ''(How Much Is That) Doggie In The Window'' dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinit.md) _2018-02-06 13:49:24 (First version)_
 1. [American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.md) _(Current version)_
 
 ### Related:

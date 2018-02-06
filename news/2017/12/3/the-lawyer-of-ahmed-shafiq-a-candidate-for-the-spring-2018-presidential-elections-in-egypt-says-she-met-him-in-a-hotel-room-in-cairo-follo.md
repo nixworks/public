@@ -17,7 +17,7 @@ The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to 
 
 ### Changes:
 
-1. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections, says she doesn't know his whereabouts after his arrest in Dubai and alleged deportation to Cairo. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-says-she-doesn-t-know-his-whereabouts-after-his-arrest-i.md) _2017-12-03 21:30:07 (First version)_
+1. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections, says she doesn't know his whereabouts after his arrest in Dubai and alleged deportation to Cairo. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-says-she-doesn-t-know-his-whereabouts-after-his-arrest-i.md) _2018-02-06 13:49:31 (First version)_
 1. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _(Current version)_
 
 ### Related:

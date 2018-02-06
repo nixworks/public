@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/10/21/france-faces-another-day-of-strikes-with-a-quar
 
 ### Changes:
 
-1. [French protestsFrance faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protestspfrance-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _2017-08-25 03:30:37 (First version)_
-2. [French protests: France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protests-france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _2017-08-27 03:30:43 (Update)_
+1. [French protestsFrance faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protestspfrance-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _2018-02-06 13:49:20 (First version)_
+2. [French protests: France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protests-france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _2018-02-06 13:49:20 (Update)_
 2. [France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md) _(Current version)_
 
 ### Related:

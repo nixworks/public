@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/30/the-minnesota-democraticafarmeralabor-party-cho
 
 ### Changes:
 
-1. [ The Minnesota Democratic-Farmer-Labor Party chose former Vice President of the United States Walter Mondale as their candidate for the United States Senate seat of recently deceased Senator Paul Wellstone from Minnesota.](/news/2002/10/30/the-minnesota-democratic-farmer-labor-party-chose-former-vice-president-of-the-united-states-walter-mondale-as-their-candidate-for-the.md) _2017-08-27 03:15:17 (First version)_
+1. [ The Minnesota Democratic-Farmer-Labor Party chose former Vice President of the United States Walter Mondale as their candidate for the United States Senate seat of recently deceased Senator Paul Wellstone from Minnesota.](/news/2002/10/30/the-minnesota-democratic-farmer-labor-party-chose-former-vice-president-of-the-united-states-walter-mondale-as-their-candidate-for-the.md) _2018-02-06 13:49:15 (First version)_
 1. [ The Minnesota Democratic-Farmer-Labor Party chose former Vice President of the United States Walter Mondale as their candidate for the United States Senate seat of recently deceased Senator Paul Wellstone from Minnesota.](/news/2002/10/30/the-minnesota-democraticafarmeralabor-party-chose-former-vice-president-of-the-united-states-walter-mondale-as-their-candidate-for-the.md) _(Current version)_
 
 ### Related:

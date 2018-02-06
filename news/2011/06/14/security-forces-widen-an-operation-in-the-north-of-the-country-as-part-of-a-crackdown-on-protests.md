@@ -16,6 +16,6 @@ Security forces said to be pushing towards northern town of Maarat al-Numaan as 
 
 ### Changes:
 
-1. [2011 Syrian uprising:Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/2011-syrian-uprising-psecurity-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md) _2017-08-25 03:33:29 (First version)_
-2. [2011 Syrian uprising:: Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/2011-syrian-uprising-security-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md) _2017-08-27 03:33:37 (Update)_
+1. [2011 Syrian uprising:: Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/2011-syrian-uprising-security-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Syrian uprising:Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/2011-syrian-uprising-psecurity-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md) _2018-02-06 13:49:22 (Update)_
 2. [Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/security-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md) _(Current version)_

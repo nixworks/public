@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/07/3/a-human-rights-watch-report-claims-that-syrian-i
 
 ### Changes:
 
-1. [Syrian uprising (2011-present):A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-pa-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across-s.md) _2017-08-25 03:36:02 (First version)_
-2. [Syrian uprising (2011-present):: A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-a-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across.md) _2017-08-27 03:36:13 (Update)_
+1. [Syrian uprising (2011-present):A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-pa-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across-s.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian uprising (2011-present):: A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-a-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across.md) _2018-02-06 13:49:23 (Update)_
 2. [A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/a-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across-syria.md) _(Current version)_
 
 ### Related:

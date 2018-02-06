@@ -17,7 +17,7 @@ Guardian editor Alan Rusbridger claims that the paper was made to destroy leaked
 
 ### Changes:
 
-1. [Alan Rusbridger, the editor of ''The Guardian'', reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-dri.md) _2017-08-25 03:39:10 (First version)_
+1. [Alan Rusbridger, the editor of ''The Guardian'', reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-dri.md) _2018-02-06 13:49:25 (First version)_
 1. [Alan Rusbridger, the editor of "The Guardian", reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-drive.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/09/20/the-61st-international-monetary-fund-world-bank
 
 ### Changes:
 
-1. [ Singapore 2006: The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/singapore-2006-p-the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global.md) _2017-08-25 03:18:26 (First version)_
-2. [ Singapore 2006:: The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/singapore-2006-the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global.md) _2017-08-27 03:18:21 (Update)_
+1. [ Singapore 2006:: The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/singapore-2006-the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global.md) _2018-02-06 13:49:17 (First version)_
+2. [ Singapore 2006: The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/singapore-2006-p-the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global.md) _2018-02-06 13:49:17 (Update)_
 2. [ The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global-trade-talks-and.md) _(Current version)_
 
 ### Related:

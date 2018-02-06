@@ -16,8 +16,8 @@ Israel denounces the decision, accusing the UN cultural agency of being a &quot;
 
 ### Changes:
 
-1. [UNESCO declares the old city of Hebron, and the Cave of the Patriarchs in the West Bank as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-in-the-west-bank-as-world-heritage-sites.md) _2017-07-09 03:49:08 (First version)_
-2. [World heritage sites: UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both in the West Bank, as world heritage sites. ](/news/2017/07/7/world-heritage-sites-unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _2017-08-27 03:48:37 (Update)_
+1. [World heritage sites: UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both in the West Bank, as world heritage sites. ](/news/2017/07/7/world-heritage-sites-unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _2018-02-06 13:49:31 (First version)_
+2. [UNESCO declares the old city of Hebron, and the Cave of the Patriarchs in the West Bank as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-in-the-west-bank-as-world-heritage-sites.md) _2018-02-06 13:49:31 (Update)_
 2. [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _(Current version)_
 
 ### Related:

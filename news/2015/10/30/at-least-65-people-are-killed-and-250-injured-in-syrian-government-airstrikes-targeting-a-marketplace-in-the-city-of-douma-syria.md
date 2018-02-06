@@ -20,7 +20,7 @@ Another 250 people also wounded in airstrikes and missile attacks on crowded mar
 
 ### Changes:
 
-1. [Syrian Civil War: At least 65 people are killed and 250 injured in Syrian government airstrikes targeting a marketplace in the city of Douma, Syria. ](/news/2015/10/30/syrian-civil-war-at-least-65-people-are-killed-and-250-injured-in-syrian-government-airstrikes-targeting-a-marketplace-in-the-city-of-douma.md) _2017-08-27 03:43:36 (First version)_
+1. [Syrian Civil War: At least 65 people are killed and 250 injured in Syrian government airstrikes targeting a marketplace in the city of Douma, Syria. ](/news/2015/10/30/syrian-civil-war-at-least-65-people-are-killed-and-250-injured-in-syrian-government-airstrikes-targeting-a-marketplace-in-the-city-of-douma.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 65 people are killed and 250 injured in Syrian government airstrikes targeting a marketplace in the city of Douma, Syria. ](/news/2015/10/30/at-least-65-people-are-killed-and-250-injured-in-syrian-government-airstrikes-targeting-a-marketplace-in-the-city-of-douma-syria.md) _(Current version)_
 
 ### Related:

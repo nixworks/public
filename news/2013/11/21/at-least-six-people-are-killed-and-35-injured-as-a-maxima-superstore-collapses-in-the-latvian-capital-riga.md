@@ -16,8 +16,8 @@ Six people are killed, including two firefighters, after the roof of a supermark
 
 ### Changes:
 
-1. [2013 Riga Maxima superstore collapse:At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/2013-riga-maxima-superstore-collapse-pat-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital.md) _2017-08-25 03:39:33 (First version)_
-2. [2013 Riga Maxima superstore collapse:: At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/2013-riga-maxima-superstore-collapse-at-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital.md) _2017-08-27 03:39:51 (Update)_
+1. [2013 Riga Maxima superstore collapse:At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/2013-riga-maxima-superstore-collapse-pat-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Riga Maxima superstore collapse:: At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/2013-riga-maxima-superstore-collapse-at-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital.md) _2018-02-06 13:49:25 (Update)_
 2. [At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/at-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital-riga.md) _(Current version)_
 
 ### Related:

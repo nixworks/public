@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/02/9/british-survey-ship-hms-scott-produces-the-first
 
 ### Changes:
 
-1. [ British survey ship HMS ''Scott'' produces the first sonar survey of the seabed site of the 2004 Indian Ocean earthquake. Some images appear to show a landslide 100 metres high and 2 kilometres long. ](/news/2005/02/9/british-survey-ship-hms-scott-produces-the-first-sonar-survey-of-the-seabed-site-of-the-2004-indian-ocean-earthquake-some-images-appea.md) _2017-08-25 03:15:38 (First version)_
+1. [ British survey ship HMS ''Scott'' produces the first sonar survey of the seabed site of the 2004 Indian Ocean earthquake. Some images appear to show a landslide 100 metres high and 2 kilometres long. ](/news/2005/02/9/british-survey-ship-hms-scott-produces-the-first-sonar-survey-of-the-seabed-site-of-the-2004-indian-ocean-earthquake-some-images-appea.md) _2018-02-06 13:49:16 (First version)_
 1. [ British survey ship HMS "Scott" produces the first sonar survey of the seabed site of the 2004 Indian Ocean earthquake. Some images appear to show a landslide 100 metres high and 2 kilometres long. ](/news/2005/02/9/british-survey-ship-hms-scott-produces-the-first-sonar-survey-of-the-seabed-site-of-the-2004-indian-ocean-earthquake-some-images-appear.md) _(Current version)_
 
 ### Related:

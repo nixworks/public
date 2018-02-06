@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/02/10/a-roadside-bombing-in-thailand-s-southern-yala-
 
 ### Changes:
 
-1. [South Thailand insurgency:A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-pa-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md) _2017-08-25 03:37:30 (First version)_
-2. [South Thailand insurgency:: A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md) _2017-08-27 03:37:39 (Update)_
+1. [South Thailand insurgency:A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-pa-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:: A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md) _2018-02-06 13:49:24 (Update)_
 2. [A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md) _(Current version)_
 
 ### Related:

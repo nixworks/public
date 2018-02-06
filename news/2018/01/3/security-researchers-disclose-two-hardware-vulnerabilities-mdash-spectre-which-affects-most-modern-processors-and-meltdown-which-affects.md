@@ -17,7 +17,7 @@ Security researchers on Wednesday disclosed a set of security flaws that they sa
 
 ### Changes:
 
-1. [Security researchers disclose two hardware vulnerabilities, Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-spectre-which-affects-most-modern-processors-and-meltdown-which-affects-most.md) _2018-01-04 18:30:05 (First version)_
+1. [Security researchers disclose two hardware vulnerabilities, Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-spectre-which-affects-most-modern-processors-and-meltdown-which-affects-most.md) _2018-02-06 13:49:31 (First version)_
 1. [Security researchers disclose two hardware vulnerabilities&mdash;Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-mdash-spectre-which-affects-most-modern-processors-and-meltdown-which-affects.md) _(Current version)_
 
 ### Related:

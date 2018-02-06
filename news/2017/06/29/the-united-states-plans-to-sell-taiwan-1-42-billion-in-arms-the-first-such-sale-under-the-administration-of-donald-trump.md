@@ -16,8 +16,8 @@ The United States plans to sell Taiwan $1.42 billion in arms, the first such sal
 
 ### Changes:
 
-1. [The United States plans to sell Taiwan $1.42 billion in arms, the first of such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-of-such-sale-under-the-administration-of-donald-trump.md) _2017-06-29 23:30:06 (First version)_
-2. [Taiwan-United States relations: The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/taiwan-united-states-relations-the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration.md) _2017-08-27 03:48:34 (Update)_
+1. [The United States plans to sell Taiwan $1.42 billion in arms, the first of such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-of-such-sale-under-the-administration-of-donald-trump.md) _2018-02-06 13:49:30 (First version)_
+2. [Taiwan-United States relations: The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/taiwan-united-states-relations-the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration.md) _2018-02-06 13:49:30 (Update)_
 2. [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ At least 38 killed and dozen others injured in massive bomb blast near police ac
 
 ### Changes:
 
-1. [al-Qaeda insurgency in Yemen: A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/al-qaeda-insurgency-in-yemen-a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dea.md) _2017-08-27 03:41:45 (First version)_
+1. [al-Qaeda insurgency in Yemen: A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/al-qaeda-insurgency-in-yemen-a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dea.md) _2018-02-06 13:49:26 (First version)_
 1. [A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dead-and-more-than-50-wounded.md) _(Current version)_
 
 ### Related:

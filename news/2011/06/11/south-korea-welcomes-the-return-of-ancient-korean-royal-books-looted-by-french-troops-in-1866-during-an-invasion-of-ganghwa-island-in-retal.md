@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-kore
 
 ### Changes:
 
-1. [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-reta.md) _2017-08-25 03:33:27 (First version)_
+1. [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-reta.md) _2018-02-06 13:49:22 (First version)_
 1. [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-retal.md) _(Current version)_
 
 ### Related:

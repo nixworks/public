@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-
 
 ### Changes:
 
-1. [ Vietnam's capital Hanoi absorbs the neighboring province of H T-y, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-t-y-tripling-its-area-and-doubling-its-population.md) _2017-08-27 03:22:32 (First version)_
+1. [ Vietnam's capital Hanoi absorbs the neighboring province of H T-y, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-t-y-tripling-its-area-and-doubling-its-population.md) _2018-02-06 13:49:18 (First version)_
 1. [ Vietnam's capital Hanoi absorbs the neighboring province of H Ty, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-tay-tripling-its-area-and-doubling-its-population.md) _(Current version)_
 
 ### Related:

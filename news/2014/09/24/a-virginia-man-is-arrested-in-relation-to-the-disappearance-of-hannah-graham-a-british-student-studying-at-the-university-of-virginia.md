@@ -16,7 +16,7 @@ A Virginia man is arrested in the abduction of a British-born student who disapp
 
 ### Changes:
 
-1. [Disappearance of Hannah Graham: A Virginia man is arrested in relation to the disappearance of Hannah Graham, a British student studying at the University of Virginia. ](/news/2014/09/24/disappearance-of-hannah-graham-a-virginia-man-is-arrested-in-relation-to-the-disappearance-of-hannah-graham-a-british-student-studying-at.md) _2017-08-27 03:41:19 (First version)_
+1. [Disappearance of Hannah Graham: A Virginia man is arrested in relation to the disappearance of Hannah Graham, a British student studying at the University of Virginia. ](/news/2014/09/24/disappearance-of-hannah-graham-a-virginia-man-is-arrested-in-relation-to-the-disappearance-of-hannah-graham-a-british-student-studying-at.md) _2018-02-06 13:49:26 (First version)_
 1. [A Virginia man is arrested in relation to the disappearance of Hannah Graham, a British student studying at the University of Virginia. ](/news/2014/09/24/a-virginia-man-is-arrested-in-relation-to-the-disappearance-of-hannah-graham-a-british-student-studying-at-the-university-of-virginia.md) _(Current version)_
 
 ### Related:

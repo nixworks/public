@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/17/the-underwater-search-for-missing-malaysia-airl
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/malaysia-airlines-flight-370-the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _2017-08-27 03:47:37 (First version)_
+1. [Malaysia Airlines Flight 370: The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/malaysia-airlines-flight-370-the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _2018-02-06 13:49:30 (First version)_
 1. [The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _(Current version)_
 
 ### Related:

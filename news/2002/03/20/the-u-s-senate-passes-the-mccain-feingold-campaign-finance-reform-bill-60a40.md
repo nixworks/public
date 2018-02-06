@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/03/20/the-u-s-senate-passes-the-mccain-feingold-campa
 
 ### Changes:
 
-1. [The U.S. Senate passes the McCain-Feingold campaign finance reform bill 60-40.](/news/2002/03/20/the-u-s-senate-passes-the-mccain-feingold-campaign-finance-reform-bill-60-40.md) _2017-08-27 03:15:12 (First version)_
+1. [The U.S. Senate passes the McCain-Feingold campaign finance reform bill 60-40.](/news/2002/03/20/the-u-s-senate-passes-the-mccain-feingold-campaign-finance-reform-bill-60-40.md) _2018-02-06 13:49:15 (First version)_
 1. [The U.S. Senate passes the McCain-Feingold campaign finance reform bill 60-40.](/news/2002/03/20/the-u-s-senate-passes-the-mccain-feingold-campaign-finance-reform-bill-60a40.md) _(Current version)_
 
 ### Related:

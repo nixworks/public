@@ -16,7 +16,7 @@ Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChry
 
 ### Changes:
 
-1. [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in ''Rolling Stone'', a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attac.md) _2017-08-25 03:28:39 (First version)_
+1. [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in ''Rolling Stone'', a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attac.md) _2018-02-06 13:49:20 (First version)_
 1. [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in "Rolling Stone", a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attacke.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/13/a-car-bomb-explodes-at-a-checkpoint-north-of-ba
 
 ### Changes:
 
-1. [Iraqi Civil War: A car bomb explodes at a checkpoint north of Baghdad, killing at least seven people. ](/news/2016/07/13/iraqi-civil-war-a-car-bomb-explodes-at-a-checkpoint-north-of-baghdad-killing-at-least-seven-people.md) _2017-08-27 03:46:29 (First version)_
+1. [Iraqi Civil War: A car bomb explodes at a checkpoint north of Baghdad, killing at least seven people. ](/news/2016/07/13/iraqi-civil-war-a-car-bomb-explodes-at-a-checkpoint-north-of-baghdad-killing-at-least-seven-people.md) _2018-02-06 13:49:29 (First version)_
 1. [A car bomb explodes at a checkpoint north of Baghdad, killing at least seven people. ](/news/2016/07/13/a-car-bomb-explodes-at-a-checkpoint-north-of-baghdad-killing-at-least-seven-people.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Turkish police arrested a total of 41 people in connection with a terrorist atta
 
 ### Changes:
 
-1. [2016 Istanbul airport attack: Turkish police arrest a total of 41 people in connection with the Istanbul Ataturk Airport terrorist attack. ](/news/2016/07/2/2016-istanbul-airport-attack-turkish-police-arrest-a-total-of-41-people-in-connection-with-the-istanbul-atata1-4rk-airport-terrorist-attack.md) _2017-08-27 03:46:24 (First version)_
+1. [2016 Istanbul airport attack: Turkish police arrest a total of 41 people in connection with the Istanbul Ataturk Airport terrorist attack. ](/news/2016/07/2/2016-istanbul-airport-attack-turkish-police-arrest-a-total-of-41-people-in-connection-with-the-istanbul-atata1-4rk-airport-terrorist-attack.md) _2018-02-06 13:49:29 (First version)_
 1. [Turkish police arrest a total of 41 people in connection with the Istanbul Ataturk Airport terrorist attack. ](/news/2016/07/2/turkish-police-arrest-a-total-of-41-people-in-connection-with-the-istanbul-atata1-4rk-airport-terrorist-attack.md) _(Current version)_
 
 ### Related:

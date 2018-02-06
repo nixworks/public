@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/01/7/2006a2007-bangladeshi-political-crisis-a-nationw
 
 ### Changes:
 
-1. [ 2006-2007 Bangladeshi political crisis: A nationwide blockade led by the Awami League to force electoral reform before the 2007 parliamentary election continues for a third day, bringing capital Dhaka to a standstill, with schools shut and vehicles absent from the streets. ](/news/2007/01/7/2006-2007-bangladeshi-political-crisis-a-nationwide-blockade-led-by-the-awami-league-to-force-electoral-reform-before-the-2007-parliamen.md) _2017-08-27 03:18:54 (First version)_
+1. [ 2006-2007 Bangladeshi political crisis: A nationwide blockade led by the Awami League to force electoral reform before the 2007 parliamentary election continues for a third day, bringing capital Dhaka to a standstill, with schools shut and vehicles absent from the streets. ](/news/2007/01/7/2006-2007-bangladeshi-political-crisis-a-nationwide-blockade-led-by-the-awami-league-to-force-electoral-reform-before-the-2007-parliamen.md) _2018-02-06 13:49:17 (First version)_
 1. [ 2006-2007 Bangladeshi political crisis: A nationwide blockade led by the Awami League to force electoral reform before the 2007 parliamentary election continues for a third day, bringing capital Dhaka to a standstill, with schools shut and vehicles absent from the streets. ](/news/2007/01/7/2006a2007-bangladeshi-political-crisis-a-nationwide-blockade-led-by-the-awami-league-to-force-electoral-reform-before-the-2007-parliamen.md) _(Current version)_
 
 ### Related:

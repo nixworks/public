@@ -11,7 +11,7 @@ Formats: [HTML](/news/2008/09/18/pirates-hijack-a-greek-bulk-carrier-with-25-cre
 
 ### Changes:
 
-1. [ Pirates hijack a Greek bulk carrier with 25 crew aboard off the coast of Somalia. ](/news/2008/09/18/pirates-hijack-a-greek-bulk-carrier-with-25-crew-aboard-off-the-coast-of-somalia.md) _2017-08-25 03:22:53 (First version)_
+1. [ Pirates hijack a Greek bulk carrier with 25 crew aboard off the coast of Somalia. ](/news/2008/09/18/pirates-hijack-a-greek-bulk-carrier-with-25-crew-aboard-off-the-coast-of-somalia.md) _2018-02-06 13:49:18 (First version)_
 1. [ Pirates hijack a Greek bulk carrier with 25 crew aboard off the coast of Somalia. [http:--ap.google.com-article-ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD938UMJO0 (AP via Google News)] (Wikinews)](/news/2008/09/18/pirates-hijack-a-greek-bulk-carrier-with-25-crew-aboard-off-the-coast-of-somalia-http-ap-google-com-article-aleqm5ijda5bgxihltvs_r-ssjs.md) _(Current version)_
 
 ### Related:

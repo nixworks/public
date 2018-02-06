@@ -18,8 +18,8 @@ At least one policeman killed and 90 people injured as protesters clash with sec
 
 ### Changes:
 
-1. [Minsk II implementationRiot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementationpriot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md) _2017-08-25 03:42:39 (First version)_
-2. [Minsk II implementation: Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementation-riot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md) _2017-08-27 03:42:56 (Update)_
+1. [Minsk II implementationRiot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementationpriot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md) _2018-02-06 13:49:27 (First version)_
+2. [Minsk II implementation: Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementation-riot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md) _2018-02-06 13:49:27 (Update)_
 2. [Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/riot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev-ukraine-leaving-one-na.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Beijing issues sharp commentary after US and South Korea say regime carried out 
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/north-korea-and-weapons-of-mass-destruction-south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-interm.md) _2017-08-27 03:45:38 (First version)_
+1. [North Korea and weapons of mass destruction: South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/north-korea-and-weapons-of-mass-destruction-south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-interm.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-but-was-unsucc.md) _(Current version)_
 
 ### Related:

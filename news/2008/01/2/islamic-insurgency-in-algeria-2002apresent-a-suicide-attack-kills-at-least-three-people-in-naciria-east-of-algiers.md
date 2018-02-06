@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-sui
 
 ### Changes:
 
-1. [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002-present-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md) _2017-08-27 03:21:32 (First version)_
+1. [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002-present-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md) _2018-02-06 13:49:18 (First version)_
 1. [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md) _(Current version)_
 
 ### Related:

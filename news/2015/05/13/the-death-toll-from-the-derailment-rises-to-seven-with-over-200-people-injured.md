@@ -19,7 +19,7 @@ At least six people were killed and over 140 people hurt after an Amtrak train, 
 
 ### Changes:
 
-1. [2015 Philadelphia train derailment: The death toll from the derailment rises to seven with over 200 people injured. ](/news/2015/05/13/2015-philadelphia-train-derailment-the-death-toll-from-the-derailment-rises-to-seven-with-over-200-people-injured.md) _2017-08-27 03:42:19 (First version)_
+1. [2015 Philadelphia train derailment: The death toll from the derailment rises to seven with over 200 people injured. ](/news/2015/05/13/2015-philadelphia-train-derailment-the-death-toll-from-the-derailment-rises-to-seven-with-over-200-people-injured.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the derailment rises to seven with over 200 people injured. ](/news/2015/05/13/the-death-toll-from-the-derailment-rises-to-seven-with-over-200-people-injured.md) _(Current version)_
 
 ### Related:

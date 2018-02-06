@@ -11,7 +11,7 @@ Formats: [HTML](/news/2014/12/30/in-three-separate-but-connected-crime-scenes-in
 
 ### Changes:
 
-1. [In three separate, but connected, crime scenes in Edmonton, Alberta, Canada, a suicidal man kills eight people and then himself. ](/news/2014/12/30/in-three-separate-but-connected-crime-scenes-in-edmonton-alberta-canada-a-suicidal-man-kills-eight-people-and-then-himself.md) _2017-08-25 03:41:24 (First version)_
+1. [In three separate, but connected, crime scenes in Edmonton, Alberta, Canada, a suicidal man kills eight people and then himself. ](/news/2014/12/30/in-three-separate-but-connected-crime-scenes-in-edmonton-alberta-canada-a-suicidal-man-kills-eight-people-and-then-himself.md) _2018-02-06 13:49:26 (First version)_
 1. [In three separate, but connected, crime scenes in Edmonton, Alberta, Canada, a suicidal man kills eight people and then himself. [http:--www.irishtimes.com-news-world-us-nine-dead-in-edmonton-canada-shooting-incidents-1.2051535 "(Irish Times)"]](/news/2014/12/30/in-three-separate-but-connected-crime-scenes-in-edmonton-alberta-canada-a-suicidal-man-kills-eight-people-and-then-himself-http-www.md) _(Current version)_
 
 ### Related:

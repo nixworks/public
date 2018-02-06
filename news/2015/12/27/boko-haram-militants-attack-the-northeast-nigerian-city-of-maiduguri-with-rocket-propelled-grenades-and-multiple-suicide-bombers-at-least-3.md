@@ -17,7 +17,7 @@ A wave of attacks by female suicide bombers in north-eastern Nigeria kills more 
 
 ### Changes:
 
-1. [Boko Haram insurgency: Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-insurgency-boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suic.md) _2017-08-27 03:44:32 (First version)_
+1. [Boko Haram insurgency: Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-insurgency-boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suic.md) _2018-02-06 13:49:28 (First version)_
 1. [Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suicide-bombers-at-least-3.md) _(Current version)_
 
 ### Related:

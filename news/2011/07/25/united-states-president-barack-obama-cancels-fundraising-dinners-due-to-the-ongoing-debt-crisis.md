@@ -17,8 +17,8 @@ President Obama and House Speaker John A. Boehner escalated their battle over th
 
 ### Changes:
 
-1. [2011 US debt ceiling crisis: The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/2011-us-debt-ceiling-crisis-the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md) _2017-08-27 03:33:59 (First version)_
-2. [The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md) _2017-10-17 03:39:24 (Update)_
+1. [The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 US debt ceiling crisis: The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/2011-us-debt-ceiling-crisis-the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md) _2018-02-06 13:49:22 (Update)_
 2. [United States President Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/united-states-president-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Formats: [HTML](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-wi
 
 ### Changes:
 
-1. [South Koreans vote in a presidential election, with Moon Jae-in leading in the polls. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-leading-in-the-polls.md) _2017-05-10 00:30:05 (First version)_
-2. [South Korean presidential election, 2017: South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-korean-presidential-election-2017-south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-w.md) _2017-08-27 03:48:19 (Update)_
+1. [South Koreans vote in a presidential election, with Moon Jae-in leading in the polls. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-leading-in-the-polls.md) _2018-02-06 13:49:30 (First version)_
+2. [South Korean presidential election, 2017: South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-korean-presidential-election-2017-south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-w.md) _2018-02-06 13:49:30 (Update)_
 2. [South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-winning-the-election.md) _(Current version)_
 
 ### Related:

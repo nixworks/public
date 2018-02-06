@@ -16,7 +16,7 @@ The Labour leader says the general election is about &quot;the establishment ver
 
 ### Changes:
 
-1. [United Kingdom general election, 2017: Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. ](/news/2017/04/20/united-kingdom-general-election-2017-jeremy-corbyn-the-leader-of-the-opposition-labour-party-positions-himself-as-an-anti-establishment.md) _2017-08-27 03:48:12 (First version)_
+1. [United Kingdom general election, 2017: Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. ](/news/2017/04/20/united-kingdom-general-election-2017-jeremy-corbyn-the-leader-of-the-opposition-labour-party-positions-himself-as-an-anti-establishment.md) _2018-02-06 13:49:30 (First version)_
 1. [Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. ](/news/2017/04/20/jeremy-corbyn-the-leader-of-the-opposition-labour-party-positions-himself-as-an-anti-establishment-candidate-as-he-vows-to-end-the-rigg.md) _(Current version)_
 
 ### Related:

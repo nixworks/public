@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-f
 
 ### Changes:
 
-1. [ Manny Pacquiao and Erik Morales met for their first of three epic boxing matches. Morales won the 12-round bout by unanimous decision. Pacquiao would later revenge the bout, fighting Morales two more times, winning both by knockout.](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-first-of-three-epic-boxing-matches-morales-won-the-12-round-bout-by-unanimous-decision-pa.md) _2017-08-25 03:15:49 (First version)_
+1. [ Manny Pacquiao and Erik Morales met for their first of three epic boxing matches. Morales won the 12-round bout by unanimous decision. Pacquiao would later revenge the bout, fighting Morales two more times, winning both by knockout.](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-first-of-three-epic-boxing-matches-morales-won-the-12-round-bout-by-unanimous-decision-pa.md) _2018-02-06 13:49:16 (First version)_
 1. [ Manny Pacquiao and Erik Morales met for their first of three epic boxing matches. Morales won the 12-round bout by unanimous decision. Pacquiao would later revenge the bout, fighting Morales two more times, winning both by knockout.](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-first-of-three-epic-boxing-matches-morales-won-the-12-round-bout-by-unanimous-decision-pacq.md) _(Current version)_
 
 ### Related:

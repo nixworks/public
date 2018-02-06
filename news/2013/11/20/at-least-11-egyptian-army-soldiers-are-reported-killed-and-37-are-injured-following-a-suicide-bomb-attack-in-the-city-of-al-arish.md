@@ -17,8 +17,8 @@ Eleven Egyptian military personnel are killed and dozens more wounded in a car b
 
 ### Changes:
 
-1. [Sinai insurgency:At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-pat-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of-a.md) _2017-08-25 03:39:33 (First version)_
-2. [Sinai insurgency:: At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of.md) _2017-08-27 03:39:51 (Update)_
+1. [Sinai insurgency:At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-pat-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of-a.md) _2018-02-06 13:49:25 (First version)_
+2. [Sinai insurgency:: At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of.md) _2018-02-06 13:49:25 (Update)_
 2. [At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of-al-arish.md) _(Current version)_
 
 ### Related:

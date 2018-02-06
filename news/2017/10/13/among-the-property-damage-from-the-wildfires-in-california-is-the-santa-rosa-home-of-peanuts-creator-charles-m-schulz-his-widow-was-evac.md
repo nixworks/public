@@ -20,8 +20,8 @@ Every four seconds an area of forest the size of a football field is being destr
 
 ### Changes:
 
-1. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz. "Peanuts" features the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-peanuts-features.md) _2017-10-14 18:30:06 (First version)_
-2. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz (1922-2000); his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-1922-2000-his-wi.md) _2017-10-14 20:30:06 (Update)_
+1. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz. "Peanuts" features the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-peanuts-features.md) _2018-02-06 13:49:31 (First version)_
+2. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz (1922-2000); his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-1922-2000-his-wi.md) _2018-02-06 13:49:31 (Update)_
 2. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _(Current version)_
 
 ### Related:

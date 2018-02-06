@@ -19,7 +19,7 @@ See how events unfolded as fires in Western Australia threatened townships on Sa
 
 ### Changes:
 
-1. [2015-16 Australian bushfire season: Two dead bodies have been found in Yarloop, Western Australia, and residents of four towns urged to evacuate in under threat as the Waroona bushfire continues to burn out of control. ](/news/2016/01/9/2015-16-australian-bushfire-season-two-dead-bodies-have-been-found-in-yarloop-western-australia-and-residents-of-four-towns-urged-to-ev.md) _2017-08-27 03:44:38 (First version)_
+1. [2015-16 Australian bushfire season: Two dead bodies have been found in Yarloop, Western Australia, and residents of four towns urged to evacuate in under threat as the Waroona bushfire continues to burn out of control. ](/news/2016/01/9/2015-16-australian-bushfire-season-two-dead-bodies-have-been-found-in-yarloop-western-australia-and-residents-of-four-towns-urged-to-ev.md) _2018-02-06 13:49:28 (First version)_
 1. [Two dead bodies have been found in Yarloop, Western Australia, and residents of four towns urged to evacuate in under threat as the Waroona bushfire continues to burn out of control. ](/news/2016/01/9/two-dead-bodies-have-been-found-in-yarloop-western-australia-and-residents-of-four-towns-urged-to-evacuate-in-under-threat-as-the-waroona.md) _(Current version)_
 
 ### Related:

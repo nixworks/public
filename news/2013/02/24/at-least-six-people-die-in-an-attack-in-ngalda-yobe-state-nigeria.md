@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/02/24/at-least-six-people-die-in-an-attack-in-ngalda-
 
 ### Changes:
 
-1. [Nigerian Sharia conflict:At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-pat-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md) _2017-08-25 03:37:37 (First version)_
-2. [Nigerian Sharia conflict:: At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md) _2017-08-27 03:37:48 (Update)_
+1. [Nigerian Sharia conflict:At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-pat-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md) _2018-02-06 13:49:24 (First version)_
+2. [Nigerian Sharia conflict:: At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md) _2018-02-06 13:49:24 (Update)_
 2. [At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md) _(Current version)_
 
 ### Related:

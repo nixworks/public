@@ -16,7 +16,7 @@ The soldier was taking part in an operation against Islamic State, which is thou
 
 ### Changes:
 
-1. [War in Afghanistan: A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/war-in-afghanistan-a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s.md) _2017-08-27 03:48:08 (First version)_
+1. [War in Afghanistan: A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/war-in-afghanistan-a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s.md) _2018-02-06 13:49:30 (First version)_
 1. [A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s-eastern-nangarhar-p.md) _(Current version)_
 
 ### Related:

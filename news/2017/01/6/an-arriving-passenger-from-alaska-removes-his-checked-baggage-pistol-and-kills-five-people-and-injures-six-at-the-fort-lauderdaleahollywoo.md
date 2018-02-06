@@ -16,7 +16,7 @@ The suspected killer in the Ft. Lauderdale rampage apparently traveled to the ai
 
 ### Changes:
 
-1. [2017 Fort Lauderdale airport shooting: An arriving passenger from Alaska removes his checked-baggage pistol and kills five people and injures six at the Fort Lauderdale-Hollywood International Airport in Florida. ](/news/2017/01/6/2017-fort-lauderdale-airport-shooting-an-arriving-passenger-from-alaska-removes-his-checked-baggage-pistol-and-kills-five-people-and-injure.md) _2017-08-27 03:47:34 (First version)_
+1. [2017 Fort Lauderdale airport shooting: An arriving passenger from Alaska removes his checked-baggage pistol and kills five people and injures six at the Fort Lauderdale-Hollywood International Airport in Florida. ](/news/2017/01/6/2017-fort-lauderdale-airport-shooting-an-arriving-passenger-from-alaska-removes-his-checked-baggage-pistol-and-kills-five-people-and-injure.md) _2018-02-06 13:49:30 (First version)_
 1. [An arriving passenger from Alaska removes his checked-baggage pistol and kills five people and injures six at the Fort Lauderdale-Hollywood International Airport in Florida. ](/news/2017/01/6/an-arriving-passenger-from-alaska-removes-his-checked-baggage-pistol-and-kills-five-people-and-injures-six-at-the-fort-lauderdaleahollywoo.md) _(Current version)_
 
 ### Related:

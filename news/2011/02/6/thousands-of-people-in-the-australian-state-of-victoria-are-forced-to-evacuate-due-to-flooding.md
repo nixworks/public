@@ -19,8 +19,8 @@ Sydney has sweated through its hottest night on record to end its longest heatwa
 
 ### Changes:
 
-1. [Australia:Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-pthousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md) _2017-08-25 03:32:04 (First version)_
-2. [Australia:: Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md) _2017-08-27 03:32:12 (Update)_
+1. [Australia:: Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md) _2018-02-06 13:49:22 (First version)_
+2. [Australia:Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-pthousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md) _2018-02-06 13:49:22 (Update)_
 2. [Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md) _(Current version)_
 
 ### Related:

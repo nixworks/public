@@ -17,7 +17,7 @@ Mrs. Clinton urged voters to unite against the divisive policy ideas and combati
 
 ### Changes:
 
-1. [2016 Democratic National Convention: Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. ](/news/2016/07/28/2016-democratic-national-convention-hillary-clinton-accepts-her-party-s-nomination-as-the-candidate-for-this-year-s-presidential-election.md) _2017-08-27 03:46:34 (First version)_
+1. [2016 Democratic National Convention: Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. ](/news/2016/07/28/2016-democratic-national-convention-hillary-clinton-accepts-her-party-s-nomination-as-the-candidate-for-this-year-s-presidential-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. ](/news/2016/07/28/hillary-clinton-accepts-her-party-s-nomination-as-the-candidate-for-this-year-s-presidential-election.md) _(Current version)_
 
 ### Related:

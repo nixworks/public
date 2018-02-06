@@ -17,9 +17,9 @@ Government forces seek to capture high ground as UN official calls for pause in 
 
 ### Changes:
 
-1. [2011 Libyan civil war: Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md) _2017-05-25 03:34:29 (First version)_
-2. [2011 Libyan civil war:Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gro.md) _2017-08-25 03:33:10 (Update)_
-3. [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md) _2017-08-27 03:33:19 (Update)_
+1. [2011 Libyan civil war:Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gro.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war: Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md) _2018-02-06 13:49:22 (Update)_
+3. [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md) _2018-02-06 13:49:22 (Update)_
 3. [Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/forces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-ground.md) _(Current version)_
 
 ### Related:

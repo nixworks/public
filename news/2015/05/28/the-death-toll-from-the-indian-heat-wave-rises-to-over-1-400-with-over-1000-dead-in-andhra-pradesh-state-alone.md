@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/28/the-death-toll-from-the-indian-heat-wave-rises-
 
 ### Changes:
 
-1. [2015 Indian heat wave: The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/2015-indian-heat-wave-the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md) _2017-08-27 03:42:25 (First version)_
+1. [2015 Indian heat wave: The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/2015-indian-heat-wave-the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md) _(Current version)_
 
 ### Related:

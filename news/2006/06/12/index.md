@@ -9,15 +9,15 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Tropical Storm Alberto
 ### [ Tropical Storm Alberto threatens to hit the Northwest coast of Florida, United States. Hurricane warnings are issued and Gov. Jeb Bush declares a state of emergency. Mandatory evacuations are ordered for low-lying areas. ](/news/2006/06/12/tropical-storm-alberto-threatens-to-hit-the-northwest-coast-of-florida-united-states-hurricane-warnings-are-issued-and-gov-jeb-bush-decl.md)
-_Context: the state, Jeb Bush, United States, Tropical Storm Alberto_
+_Context: Tropical Storm Alberto, Jeb Bush, United States, the state_
 
 ##### Albania
 ### [ Albania signs a Stabilisation and Association Agreement, a first step toward joining the European Union. ](/news/2006/06/12/albania-signs-a-stabilisation-and-association-agreement-a-first-step-toward-joining-the-european-union.md)
-_Context: European Union candidacy, European Union, signs, Association Agreement, Albania_
+_Context: Albania, Association Agreement, signs, European Union, European Union candidacy_
 
 ##### North Korea
 ### [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md)
-_Context: United States, North Korea, Taepodong-2, intercontinental ballistic missile_
+_Context: Taepodong-2, North Korea, intercontinental ballistic missile, United States_
 
 ##### Palestinian
 ### [ A Palestinian sniper opens fire on highway 443 near Jerusalem, killing one person and wounding four. All victims are Palestinians living in Jerusalem. ](/news/2006/06/12/a-palestinian-sniper-opens-fire-on-highway-443-near-jerusalem-killing-one-person-and-wounding-four-all-victims-are-palestinians-living-in.md)
@@ -25,7 +25,7 @@ _Context: Palestinian, Jerusalem_
 
 ##### power outage
 ### [ A blackout hits Auckland, New Zealand, lasting for several hours after a severe storm lashed the country. Many media outlets compared it to the 1998 Auckland power crisis. ](/news/2006/06/12/a-blackout-hits-auckland-new-zealand-lasting-for-several-hours-after-a-severe-storm-lashed-the-country-many-media-outlets-compared-it-to.md)
-_Context: New Zealand, 1998 Auckland power crisis, Auckland, power outage_
+_Context: Auckland, power outage, New Zealand, 1998 Auckland power crisis_
 
 ## [Previous Day...](/news/2006/06/11/index.md)
 

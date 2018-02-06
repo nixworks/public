@@ -17,7 +17,7 @@ MIDEAST-CRISIS/BAGHDAD (UPDATE 1):UPDATE 1-Wave of bombings in Baghdad kills 37 
 
 ### Changes:
 
-1. [Military intervention against ISIL: John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/military-intervention-against-isil-john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-for.md) _2017-08-27 03:42:00 (First version)_
+1. [Military intervention against ISIL: John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/military-intervention-against-isil-john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-for.md) _2018-02-06 13:49:26 (First version)_
 1. [John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-force-personnel-to-iraq-on-a-training-m.md) _(Current version)_
 
 ### Related:

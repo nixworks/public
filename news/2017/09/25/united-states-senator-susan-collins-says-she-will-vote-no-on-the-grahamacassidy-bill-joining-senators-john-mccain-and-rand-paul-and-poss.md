@@ -16,7 +16,7 @@ A last-ditch ObamaCare repeal effort by Republicans was all but dead on Monday a
 
 ### Changes:
 
-1. [United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. ](/news/2017/09/25/united-states-senator-susan-collins-says-she-will-vote-no-on-the-graham-cassidy-bill-joining-senators-john-mccain-and-rand-paul-and-possib.md) _2017-09-26 13:30:05 (First version)_
+1. [United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. ](/news/2017/09/25/united-states-senator-susan-collins-says-she-will-vote-no-on-the-graham-cassidy-bill-joining-senators-john-mccain-and-rand-paul-and-possib.md) _2018-02-06 13:49:31 (First version)_
 1. [United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. ](/news/2017/09/25/united-states-senator-susan-collins-says-she-will-vote-no-on-the-grahamacassidy-bill-joining-senators-john-mccain-and-rand-paul-and-poss.md) _(Current version)_
 
 ### Related:

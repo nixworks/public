@@ -18,7 +18,7 @@ Airstrikes were conducted in southern Syria, where Russian aircraft have &quot;n
 
 ### Changes:
 
-1. [Syrian Civil War: The United States accuses Russia of bombing U.S.-backed forces in southern Syria near al-Tanf close to the Iraq and Jordan borders. ](/news/2016/06/16/syrian-civil-war-the-united-states-accuses-russia-of-bombing-u-s-backed-forces-in-southern-syria-near-al-tanf-close-to-the-iraq-and-jordan.md) _2017-08-27 03:46:17 (First version)_
+1. [Syrian Civil War: The United States accuses Russia of bombing U.S.-backed forces in southern Syria near al-Tanf close to the Iraq and Jordan borders. ](/news/2016/06/16/syrian-civil-war-the-united-states-accuses-russia-of-bombing-u-s-backed-forces-in-southern-syria-near-al-tanf-close-to-the-iraq-and-jordan.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States accuses Russia of bombing U.S.-backed forces in southern Syria near al-Tanf close to the Iraq and Jordan borders. ](/news/2016/06/16/the-united-states-accuses-russia-of-bombing-u-s-backed-forces-in-southern-syria-near-al-tanf-close-to-the-iraq-and-jordan-borders.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/03/23/the-american-city-of-fort-collins-colorado-anno
 
 ### Changes:
 
-1. [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city-s ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-city-s-ban-on-wom.md) _2017-08-27 03:48:02 (First version)_
+1. [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city-s ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-city-s-ban-on-wom.md) _2018-02-06 13:49:30 (First version)_
 1. [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city's ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-cityas-ban-on-wom.md) _(Current version)_
 
 ### Related:

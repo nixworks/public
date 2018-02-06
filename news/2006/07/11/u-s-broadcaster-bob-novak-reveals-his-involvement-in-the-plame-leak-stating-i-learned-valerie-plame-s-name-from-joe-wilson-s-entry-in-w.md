@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involveme
 
 ### Changes:
 
-1. [ U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in ''Who's Who in America." ](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involvement-in-the-plame-leak-stating-i-learned-valerie-plame-s-name-from-joe-wilson-s-entry-in.md) _2017-08-25 03:17:58 (First version)_
+1. [ U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in ''Who's Who in America." ](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involvement-in-the-plame-leak-stating-i-learned-valerie-plame-s-name-from-joe-wilson-s-entry-in.md) _2018-02-06 13:49:17 (First version)_
 1. [ U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in "Who's Who in America." ](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involvement-in-the-plame-leak-stating-i-learned-valerie-plame-s-name-from-joe-wilson-s-entry-in-w.md) _(Current version)_
 
 ### Related:

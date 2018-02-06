@@ -17,8 +17,8 @@ Protesters held rallies across the United States on Saturday to denounce sharia 
 
 ### Changes:
 
-1. [Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-united-states-counter-pr.md) _2017-08-25 03:48:00 (First version)_
-2. [March Against Sharia: Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/march-against-sharia-protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-unite.md) _2017-08-27 03:48:27 (Update)_
+1. [Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-united-states-counter-pr.md) _2018-02-06 13:49:30 (First version)_
+2. [March Against Sharia: Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/march-against-sharia-protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-unite.md) _2018-02-06 13:49:30 (Update)_
 2. [Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-united-states-counter-prot.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Shifa Gardi, a prominent female reporter for Rudaw Media Network, is killed by a roadside bomb while reporting on the battle for Mosul. ](/news/2017/02/25/iraqi-civil-war-2014-present-shifa-gardi-a-prominent-female-reporter-for-rudaw-media-network-is-killed-by-a-roadside-bomb-while-repor.md) _2017-08-27 03:47:54 (First version)_
+1. [Iraqi Civil War (2014-present): Shifa Gardi, a prominent female reporter for Rudaw Media Network, is killed by a roadside bomb while reporting on the battle for Mosul. ](/news/2017/02/25/iraqi-civil-war-2014-present-shifa-gardi-a-prominent-female-reporter-for-rudaw-media-network-is-killed-by-a-roadside-bomb-while-repor.md) _2018-02-06 13:49:30 (First version)_
 1. [Shifa Gardi, a prominent female reporter for Rudaw Media Network, is killed by a roadside bomb while reporting on the battle for Mosul. ](/news/2017/02/25/shifa-gardi-a-prominent-female-reporter-for-rudaw-media-network-is-killed-by-a-roadside-bomb-while-reporting-on-the-battle-for-mosul.md) _(Current version)_
 
 ### Related:

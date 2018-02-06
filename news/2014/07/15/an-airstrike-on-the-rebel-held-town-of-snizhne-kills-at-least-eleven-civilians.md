@@ -15,6 +15,6 @@ Attack adds to the civilian death toll from fighting between government forces a
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/2014-pro-russian-unrest-in-ukraine-pan-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md) _2017-08-25 03:40:41 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/2014-pro-russian-unrest-in-ukraine-an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md) _2017-08-27 03:40:59 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/2014-pro-russian-unrest-in-ukraine-pan-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:: An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/2014-pro-russian-unrest-in-ukraine-an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md) _2018-02-06 13:49:26 (Update)_
 2. [An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md) _(Current version)_

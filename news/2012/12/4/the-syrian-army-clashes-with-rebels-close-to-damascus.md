@@ -18,8 +18,8 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-pthe-syrian-army-clashes-with-rebels-close-to-damascus.md) _2017-08-25 03:36:56 (First version)_
-2. [Syrian civil war:: The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-the-syrian-army-clashes-with-rebels-close-to-damascus.md) _2017-08-27 03:37:06 (Update)_
+1. [Syrian civil war:: The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-the-syrian-army-clashes-with-rebels-close-to-damascus.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-pthe-syrian-army-clashes-with-rebels-close-to-damascus.md) _2018-02-06 13:49:24 (Update)_
 2. [The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/the-syrian-army-clashes-with-rebels-close-to-damascus.md) _(Current version)_
 
 ### Related:

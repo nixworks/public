@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/11/20/sesame-street-puppeteer-kevin-clash-known-for-b
 
 ### Changes:
 
-1. [''Sesame Street'' puppeteer Kevin Clash, known for being the voice of Elmo, resigns after a second accuser files a complaint that Clash had underage sexual relations with him. ](/news/2012/11/20/sesame-street-puppeteer-kevin-clash-known-for-being-the-voice-of-elmo-resigns-after-a-second-accuser-files-a-complaint-that-clash-had.md) _2017-08-25 03:36:50 (First version)_
+1. [''Sesame Street'' puppeteer Kevin Clash, known for being the voice of Elmo, resigns after a second accuser files a complaint that Clash had underage sexual relations with him. ](/news/2012/11/20/sesame-street-puppeteer-kevin-clash-known-for-being-the-voice-of-elmo-resigns-after-a-second-accuser-files-a-complaint-that-clash-had.md) _2018-02-06 13:49:24 (First version)_
 1. ["Sesame Street" puppeteer Kevin Clash, known for being the voice of Elmo, resigns after a second accuser files a complaint that Clash had underage sexual relations with him. ](/news/2012/11/20/sesame-street-puppeteer-kevin-clash-known-for-being-the-voice-of-elmo-resigns-after-a-second-accuser-files-a-complaint-that-clash-had-un.md) _(Current version)_
 
 ### Related:

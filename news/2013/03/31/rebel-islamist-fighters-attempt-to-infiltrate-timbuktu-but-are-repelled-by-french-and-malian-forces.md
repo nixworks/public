@@ -16,8 +16,8 @@ The attackers appeared to number perhaps 10 or 15, said the French military spok
 
 ### Changes:
 
-1. [Northern Mali conflict:Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/northern-mali-conflict-prebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md) _2017-08-25 03:38:06 (First version)_
-2. [Northern Mali conflict:: Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/northern-mali-conflict-rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md) _2017-08-27 03:38:18 (Update)_
+1. [Northern Mali conflict:: Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/northern-mali-conflict-rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/northern-mali-conflict-prebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md) _2018-02-06 13:49:24 (Update)_
 2. [Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md) _(Current version)_
 
 ### Related:

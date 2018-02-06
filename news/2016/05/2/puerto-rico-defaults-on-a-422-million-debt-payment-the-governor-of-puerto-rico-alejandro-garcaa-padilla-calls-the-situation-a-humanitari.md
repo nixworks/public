@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/2/puerto-rico-defaults-on-a-422-million-debt-payme
 
 ### Changes:
 
-1. [Puerto Rican government-debt crisis: Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rican-government-debt-crisis-puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padi.md) _2017-08-27 03:45:57 (First version)_
+1. [Puerto Rican government-debt crisis: Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rican-government-debt-crisis-puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padi.md) _2018-02-06 13:49:29 (First version)_
 1. [Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padilla-calls-the-situation-a-humanitari.md) _(Current version)_
 
 ### Related:

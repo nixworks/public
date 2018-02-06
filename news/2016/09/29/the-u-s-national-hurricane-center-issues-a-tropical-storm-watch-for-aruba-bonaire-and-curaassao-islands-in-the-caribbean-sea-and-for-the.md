@@ -17,7 +17,7 @@ The National Hurricane Center upgraded Matthew to a hurricane Thursday afternoon
 
 ### Changes:
 
-1. [Hurricane Matthew: The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea, and for the northwest South American coast. ](/news/2016/09/29/hurricane-matthew-the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbea.md) _2017-08-27 03:46:55 (First version)_
+1. [Hurricane Matthew: The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea, and for the northwest South American coast. ](/news/2016/09/29/hurricane-matthew-the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbea.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea, and for the northwest South American coast. ](/news/2016/09/29/the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbean-sea-and-for-the.md) _(Current version)_
 
 ### Related:

@@ -22,8 +22,8 @@ Formats: [HTML](/news/2006/07/19/hostilities-between-israel-and-hezbollah-milita
 
 ### Changes:
 
-1. [ 2006 Israel-Lebanon conflict: Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/2006-israel-lebanon-conflict-p-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md) _2017-08-25 03:18:03 (First version)_
-2. [ 2006 Israel-Lebanon conflict:: Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/2006-israel-lebanon-conflict-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md) _2017-08-27 03:18:02 (Update)_
+1. [ 2006 Israel-Lebanon conflict: Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/2006-israel-lebanon-conflict-p-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Israel-Lebanon conflict:: Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/2006-israel-lebanon-conflict-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md) _2018-02-06 13:49:17 (Update)_
 2. [ Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-kofi-annan-has-said.md) _(Current version)_
 
 ### Related:

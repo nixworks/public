@@ -16,7 +16,7 @@ Pakistan, which has yet to decide whether to offer military support to a Saudi-l
 
 ### Changes:
 
-1. [2015 military intervention in Yemen: Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/2015-military-intervention-in-yemen-pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-w.md) _2017-08-27 03:42:08 (First version)_
+1. [2015 military intervention in Yemen: Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/2015-military-intervention-in-yemen-pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-w.md) _2018-02-06 13:49:27 (First version)_
 1. [Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.md) _(Current version)_
 
 ### Related:

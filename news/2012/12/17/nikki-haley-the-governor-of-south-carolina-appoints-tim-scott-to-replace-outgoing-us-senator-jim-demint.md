@@ -17,8 +17,8 @@ Gov. Nikki Haley of South Carolina on Monday appointed GOP Congressman Tim Scott
 
 ### Changes:
 
-1. [US politics:Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-pnikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md) _2017-08-25 03:37:03 (First version)_
-2. [US politics:: Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-nikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md) _2017-08-27 03:37:14 (Update)_
+1. [US politics:Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-pnikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md) _2018-02-06 13:49:24 (First version)_
+2. [US politics:: Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-nikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md) _2018-02-06 13:49:24 (Update)_
 2. [Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/nikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A team of U.S. Coast Guard crews and volunteers are looking for a missing fishin
 
 ### Changes:
 
-1. [ The U.S. Coast Guard continues to search for the missing ''F-V Destination'', a Seattle-based fishing vessel operating near St. George, Alaska, with a six-member crew. The Coast Guard has discovered a debris field, but no sign of the crew. ](/news/2017/02/13/the-u-s-coast-guard-continues-to-search-for-the-missing-f-v-destination-a-seattle-based-fishing-vessel-operating-near-st-george-ala.md) _2017-08-25 03:47:23 (First version)_
+1. [ The U.S. Coast Guard continues to search for the missing ''F-V Destination'', a Seattle-based fishing vessel operating near St. George, Alaska, with a six-member crew. The Coast Guard has discovered a debris field, but no sign of the crew. ](/news/2017/02/13/the-u-s-coast-guard-continues-to-search-for-the-missing-f-v-destination-a-seattle-based-fishing-vessel-operating-near-st-george-ala.md) _2018-02-06 13:49:30 (First version)_
 1. [ The U.S. Coast Guard continues to search for the missing "F-V Destination", a Seattle-based fishing vessel operating near St. George, Alaska, with a six-member crew. The Coast Guard has discovered a debris field, but no sign of the crew. ](/news/2017/02/13/the-u-s-coast-guard-continues-to-search-for-the-missing-f-v-destination-a-seattle-based-fishing-vessel-operating-near-st-george-alask.md) _(Current version)_
 
 ### Related:

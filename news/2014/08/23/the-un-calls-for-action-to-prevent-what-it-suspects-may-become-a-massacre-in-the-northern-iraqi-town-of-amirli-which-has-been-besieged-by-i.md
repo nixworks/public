@@ -17,8 +17,8 @@ A UN envoy calls for action to prevent what he says may be the possible massacre
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present):The UN calls for action to prevent what it suspects may become a massacre in the northern Iraqi town of Amirli, which has been besieged by IS forces since June. ](/news/2014/08/23/iraqi-insurgency-2011apresent-pthe-un-calls-for-action-to-prevent-what-it-suspects-may-become-a-massacre-in-the-northern-iraqi-town-of-a.md) _2017-08-25 03:40:53 (First version)_
-2. [Iraqi insurgency (2011-present):: The UN calls for action to prevent what it suspects may become a massacre in the northern Iraqi town of Amirli, which has been besieged by IS forces since June. ](/news/2014/08/23/iraqi-insurgency-2011-present-the-un-calls-for-action-to-prevent-what-it-suspects-may-become-a-massacre-in-the-northern-iraqi-town-of.md) _2017-08-27 03:41:11 (Update)_
+1. [Iraqi insurgency (2011-present):The UN calls for action to prevent what it suspects may become a massacre in the northern Iraqi town of Amirli, which has been besieged by IS forces since June. ](/news/2014/08/23/iraqi-insurgency-2011apresent-pthe-un-calls-for-action-to-prevent-what-it-suspects-may-become-a-massacre-in-the-northern-iraqi-town-of-a.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (2011-present):: The UN calls for action to prevent what it suspects may become a massacre in the northern Iraqi town of Amirli, which has been besieged by IS forces since June. ](/news/2014/08/23/iraqi-insurgency-2011-present-the-un-calls-for-action-to-prevent-what-it-suspects-may-become-a-massacre-in-the-northern-iraqi-town-of.md) _2018-02-06 13:49:26 (Update)_
 2. [The UN calls for action to prevent what it suspects may become a massacre in the northern Iraqi town of Amirli, which has been besieged by IS forces since June. ](/news/2014/08/23/the-un-calls-for-action-to-prevent-what-it-suspects-may-become-a-massacre-in-the-northern-iraqi-town-of-amirli-which-has-been-besieged-by-i.md) _(Current version)_
 
 ### Related:

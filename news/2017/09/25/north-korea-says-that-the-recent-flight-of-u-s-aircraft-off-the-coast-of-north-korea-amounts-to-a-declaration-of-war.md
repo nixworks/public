@@ -16,8 +16,8 @@ Foreign minister Ri Yong-ho says the country has the right to shoot down US bomb
 
 ### Changes:
 
-1. [North Korea says that the United States recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-united-states-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _2017-09-25 21:30:06 (First version)_
-2. [North Korea says that the recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _2017-09-25 22:30:05 (Update)_
+1. [North Korea says that the United States recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-united-states-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _2018-02-06 13:49:31 (First version)_
+2. [North Korea says that the recent flight of American aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-american-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _2018-02-06 13:49:31 (Update)_
 2. [North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-u-s-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _(Current version)_
 
 ### Related:

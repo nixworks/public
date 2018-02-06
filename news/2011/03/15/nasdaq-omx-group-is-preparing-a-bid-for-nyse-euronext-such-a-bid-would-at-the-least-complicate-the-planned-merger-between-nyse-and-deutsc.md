@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/03/15/nasdaq-omx-group-is-preparing-a-bid-for-nyse-eu
 
 ### Changes:
 
-1. [Nasdaq OMX Group is preparing a bid for NYSE Euronext. Such a bid would, at the least, complicate the planned merger between NYSE and Deutsche Boerse. Reuters reported the planned counter-bid citing "a source familiar with the situation." ](/news/2011/03/15/nasdaq-omx-group-is-preparing-a-bid-for-nyse-euronext-such-a-bid-would-at-the-least-complicate-the-planned-merger-between-nyse-and-deuts.md) _2017-08-25 03:32:32 (First version)_
+1. [Nasdaq OMX Group is preparing a bid for NYSE Euronext. Such a bid would, at the least, complicate the planned merger between NYSE and Deutsche Boerse. Reuters reported the planned counter-bid citing "a source familiar with the situation." ](/news/2011/03/15/nasdaq-omx-group-is-preparing-a-bid-for-nyse-euronext-such-a-bid-would-at-the-least-complicate-the-planned-merger-between-nyse-and-deuts.md) _2018-02-06 13:49:22 (First version)_
 1. [Nasdaq OMX Group is preparing a bid for NYSE Euronext. Such a bid would, at the least, complicate the planned merger between NYSE and Deutsche Boerse. Reuters reported the planned counter-bid citing "a source familiar with the situation." ](/news/2011/03/15/nasdaq-omx-group-is-preparing-a-bid-for-nyse-euronext-such-a-bid-would-at-the-least-complicate-the-planned-merger-between-nyse-and-deutsc.md) _(Current version)_
 
 ### Related:

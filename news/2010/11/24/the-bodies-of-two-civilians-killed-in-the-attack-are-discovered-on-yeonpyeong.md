@@ -18,6 +18,6 @@ The bodies of two civilians are found on the South Korean island of Yeonpyeong, 
 
 ### Changes:
 
-1. [Shelling of Yeonpyeong:The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-pthe-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md) _2017-08-25 03:31:09 (First version)_
-2. [Shelling of Yeonpyeong:: The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md) _2017-08-27 03:31:16 (Update)_
+1. [Shelling of Yeonpyeong:: The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md) _2018-02-06 13:49:21 (First version)_
+2. [Shelling of Yeonpyeong:The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-pthe-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md) _2018-02-06 13:49:21 (Update)_
 2. [The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md) _(Current version)_

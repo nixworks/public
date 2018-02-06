@@ -16,7 +16,7 @@ Another 100 people thought to have been injured and thousands displaced in capit
 
 ### Changes:
 
-1. [Central African Republic Civil War (2012-present): Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/central-african-republic-civil-war-2012-present-clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dea.md) _2017-08-27 03:43:10 (First version)_
+1. [Central African Republic Civil War (2012-present): Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/central-african-republic-civil-war-2012-present-clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dea.md) _2018-02-06 13:49:27 (First version)_
 1. [Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dead-and-over-100-injured.md) _(Current version)_
 
 ### Related:

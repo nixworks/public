@@ -15,7 +15,7 @@ Three out of four centres for volunteer rescue group hit by bombs as more than 1
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Government continues its offensive against Fatah Halab in Aleppo with hundreds of bombing raids. ](/news/2016/09/23/syrian-civil-war-the-syrian-government-continues-its-offensive-against-fatah-halab-in-aleppo-with-hundreds-of-bombing-raids.md) _2017-08-27 03:46:54 (First version)_
+1. [Syrian Civil War: The Syrian Government continues its offensive against Fatah Halab in Aleppo with hundreds of bombing raids. ](/news/2016/09/23/syrian-civil-war-the-syrian-government-continues-its-offensive-against-fatah-halab-in-aleppo-with-hundreds-of-bombing-raids.md) _2018-02-06 13:49:29 (First version)_
 1. [The Syrian Government continues its offensive against Fatah Halab in Aleppo with hundreds of bombing raids. ](/news/2016/09/23/the-syrian-government-continues-its-offensive-against-fatah-halab-in-aleppo-with-hundreds-of-bombing-raids.md) _(Current version)_
 
 ### Related:

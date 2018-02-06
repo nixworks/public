@@ -17,8 +17,8 @@ Six soldiers from an elite Libyan army unit are killed by masked gunmen in the r
 
 ### Changes:
 
-1. [2011-present Libyan factional fighting:Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011apresent-libyan-factional-fighting-pclashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md) _2017-08-25 03:38:51 (First version)_
-2. [2011-present Libyan factional fighting:: Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011-present-libyan-factional-fighting-clashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md) _2017-08-27 03:39:05 (Update)_
+1. [2011-present Libyan factional fighting:Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011apresent-libyan-factional-fighting-pclashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md) _2018-02-06 13:49:25 (First version)_
+2. [2011-present Libyan factional fighting:: Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011-present-libyan-factional-fighting-clashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md) _2018-02-06 13:49:25 (Update)_
 2. [Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/clashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six-soldiers.md) _(Current version)_
 
 ### Related:

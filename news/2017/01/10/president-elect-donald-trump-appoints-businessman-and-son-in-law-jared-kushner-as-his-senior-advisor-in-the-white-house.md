@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/10/president-elect-donald-trump-appoints-businessm
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/presidential-transition-of-donald-trump-president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-adviso.md) _2017-08-27 03:47:35 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/presidential-transition-of-donald-trump-president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-adviso.md) _2018-02-06 13:49:30 (First version)_
 1. [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md) _(Current version)_
 
 ### Related:

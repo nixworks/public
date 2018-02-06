@@ -16,7 +16,7 @@ Israel on Friday temporarily barred Palestinians from entering the country, a st
 
 ### Changes:
 
-1. [Israel-Palestine relations: Israel temporarily bans all Palestinians from entering its territory until Sunday following the June 2016 Tel Aviv shooting. ](/news/2016/06/10/israel-palestine-relations-israel-temporarily-bans-all-palestinians-from-entering-its-territory-until-sunday-following-the-june-2016-tel.md) _2017-08-27 03:46:14 (First version)_
+1. [Israel-Palestine relations: Israel temporarily bans all Palestinians from entering its territory until Sunday following the June 2016 Tel Aviv shooting. ](/news/2016/06/10/israel-palestine-relations-israel-temporarily-bans-all-palestinians-from-entering-its-territory-until-sunday-following-the-june-2016-tel.md) _2018-02-06 13:49:29 (First version)_
 1. [Israel temporarily bans all Palestinians from entering its territory until Sunday following the June 2016 Tel Aviv shooting. ](/news/2016/06/10/israel-temporarily-bans-all-palestinians-from-entering-its-territory-until-sunday-following-the-june-2016-tel-aviv-shooting.md) _(Current version)_
 
 ### Related:

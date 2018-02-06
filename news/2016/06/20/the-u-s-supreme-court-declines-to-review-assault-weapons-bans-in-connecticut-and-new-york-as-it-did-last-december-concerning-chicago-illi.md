@@ -16,7 +16,7 @@ The Supreme Court has rejected challenges to assault weapons bans in Connecticut
 
 ### Changes:
 
-1. [Gun politics in the United States: The U.S. Supreme Court declines to review assault weapons bans in Connecticut and New York, as it did last December concerning Chicago, Illinois, city law. Five other states and Washington, D.C. have similar restrictions. ](/news/2016/06/20/gun-politics-in-the-united-states-the-u-s-supreme-court-declines-to-review-assault-weapons-bans-in-connecticut-and-new-york-as-it-did-las.md) _2017-08-27 03:46:18 (First version)_
+1. [Gun politics in the United States: The U.S. Supreme Court declines to review assault weapons bans in Connecticut and New York, as it did last December concerning Chicago, Illinois, city law. Five other states and Washington, D.C. have similar restrictions. ](/news/2016/06/20/gun-politics-in-the-united-states-the-u-s-supreme-court-declines-to-review-assault-weapons-bans-in-connecticut-and-new-york-as-it-did-las.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. Supreme Court declines to review assault weapons bans in Connecticut and New York, as it did last December concerning Chicago, Illinois, city law. Five other states and Washington, D.C. have similar restrictions. ](/news/2016/06/20/the-u-s-supreme-court-declines-to-review-assault-weapons-bans-in-connecticut-and-new-york-as-it-did-last-december-concerning-chicago-illi.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The opinion was released Thursday after a group of local clergy and activists fi
 
 ### Changes:
 
-1. [Shooting of Tamir Rice: A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/shooting-of-tamir-rice-a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timot.md) _2017-08-27 03:42:31 (First version)_
+1. [Shooting of Tamir Rice: A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/shooting-of-tamir-rice-a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timot.md) _2018-02-06 13:49:27 (First version)_
 1. [A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timothy-loehmann-should-face.md) _(Current version)_
 
 ### Related:

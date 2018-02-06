@@ -16,5 +16,5 @@ Formats: [HTML](/news/2012/05/30/scientists-report-that-supervolcanoes-can-devel
 
 ### Changes:
 
-1. [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-erupting-within-just-a-few-hundred-years-of-thei.md) _2017-08-27 03:35:57 (First version)_
+1. [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-erupting-within-just-a-few-hundred-years-of-thei.md) _2018-02-06 13:49:23 (First version)_
 1. [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-a-erupting-within-just-a-few-hundred-years-of-thei.md) _(Current version)_

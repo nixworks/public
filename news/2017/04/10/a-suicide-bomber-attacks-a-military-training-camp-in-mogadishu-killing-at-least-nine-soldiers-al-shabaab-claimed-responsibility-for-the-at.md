@@ -15,7 +15,7 @@ The bomber, posing as a military trainee, detonates explosives strapped to his w
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/war-in-somalia-2009-present-a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab.md) _2017-08-27 03:48:08 (First version)_
+1. [War in Somalia (2009-present): A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/war-in-somalia-2009-present-a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab.md) _2018-02-06 13:49:30 (First version)_
 1. [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md) _(Current version)_
 
 ### Related:

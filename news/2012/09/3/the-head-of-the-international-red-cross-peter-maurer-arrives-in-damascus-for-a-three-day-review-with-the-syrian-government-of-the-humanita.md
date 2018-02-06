@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/09/3/the-head-of-the-international-red-cross-peter-ma
 
 ### Changes:
 
-1. [Syrian Civil War:The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-pthe-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governme.md) _2017-08-25 03:36:25 (First version)_
-2. [Syrian Civil War:: The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governm.md) _2017-08-27 03:36:35 (Update)_
+1. [Syrian Civil War:: The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governm.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian Civil War:The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-pthe-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governme.md) _2018-02-06 13:49:23 (Update)_
 2. [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md) _(Current version)_
 
 ### Related:

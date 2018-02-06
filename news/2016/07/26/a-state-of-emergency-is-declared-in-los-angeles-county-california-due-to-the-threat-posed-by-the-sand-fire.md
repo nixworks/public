@@ -19,7 +19,7 @@ With fast-moving flames continuing to burn tens of thousands of acres in and aro
 
 ### Changes:
 
-1. [2016 California wildfires: Sand Fire: A state of emergency is declared in Los Angeles County, California, due to the threat posed by the Sand Fire. ](/news/2016/07/26/2016-california-wildfires-sand-fire-a-state-of-emergency-is-declared-in-los-angeles-county-california-due-to-the-threat-posed-by-the-san.md) _2017-08-27 03:46:33 (First version)_
+1. [2016 California wildfires: Sand Fire: A state of emergency is declared in Los Angeles County, California, due to the threat posed by the Sand Fire. ](/news/2016/07/26/2016-california-wildfires-sand-fire-a-state-of-emergency-is-declared-in-los-angeles-county-california-due-to-the-threat-posed-by-the-san.md) _2018-02-06 13:49:29 (First version)_
 1. [ A state of emergency is declared in Los Angeles County, California, due to the threat posed by the Sand Fire. ](/news/2016/07/26/a-state-of-emergency-is-declared-in-los-angeles-county-california-due-to-the-threat-posed-by-the-sand-fire.md) _(Current version)_
 
 ### Related:

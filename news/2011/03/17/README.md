@@ -33,15 +33,15 @@ The US government orders the St Louis Art Museum to hand over Egyptian death mas
 
 ##### Gennady Yanin
 ### [Gennady Yanin, the director of the Russian Bolshoi ballet troupe, resigns and is replaced by Yan Godovsky. Russian media wonders if erotic photos which appeared on the internet, allegedly of him, were part of a smear campaign. ](/news/2011/03/17/gennady-yanin-the-director-of-the-russian-bolshoi-ballet-troupe-resigns-and-is-replaced-by-yan-godovsky-russian-media-wonders-if-erotic-p.md)
-_Context: Yan Godovsky, Gennady Yanin, Bolshoi Theatre_
+_Context: Gennady Yanin, Bolshoi Theatre, Yan Godovsky_
 
 ##### John Dee
 ### [It is announced that "Doctor Dee", a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premiere.md)
-_Context: Damon Albarn, Manchester International Festival, John Dee_
+_Context: John Dee, Manchester International Festival, Damon Albarn_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corp is sued for nepotism over the $675 million purchase of his daughter, Elisabeth Murdoch's, Shine Limited and providing a seat for her on the board. ](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.md)
-_Context: Elisabeth Murdoch, Rupert Murdoch, Shine Limited, News Corp, nepotism_
+_Context: Elisabeth Murdoch, Rupert Murdoch, nepotism, News Corp, Shine Limited_
 
 ##### The New York Times
 ### ["The New York Times" newspaper announces it is to start charging people who access content on its website. ](/news/2011/03/17/the-new-york-times-newspaper-announces-it-is-to-start-charging-people-who-access-content-on-its-website.md)
@@ -61,7 +61,7 @@ FOREIGN SECRETARY William Hague was yesterday challenged by a Welsh MP over the 
 
 ##### Haiti
 ### [Officials suggest Haiti's first democratically elected president Jean-Bertrand Aristide is to return there tomorrow after seven years exile in South Africa. The U.S. expresses concern at this development, fearing Aristide could "destabalise" Haiti. ](/news/2011/03/17/officials-suggest-haiti-s-first-democratically-elected-president-jean-bertrand-aristide-is-to-return-there-tomorrow-after-seven-years-exile.md)
-_Context: Jean-Bertrand Aristide, Haiti, South Africa_
+_Context: Haiti, Jean-Bertrand Aristide, South Africa_
 
 ##### Taoiseach
 ### [Taoiseach Enda Kenny visits President of the United States Barack Obama at the White House for the annual Saint Patrick's Day festivities. Obama announces he is to visit Ireland in May and is excited at the prospect of visiting the home of his great, great, great, great, great, grandfather in Moneygall. ](/news/2011/03/17/taoiseach-enda-kenny-visits-president-of-the-united-states-barack-obama-at-the-white-house-for-the-annual-saint-patrick-s-day-festivities-o.md)
@@ -69,7 +69,7 @@ US President Barack Obama has said he will visit Ireland in May.
 
 ##### Malaysia
 ### [Malaysia seizes "suspected nuclear parts" in a Chinese ship bound for Iran. ](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.md)
-_Context: China, Malaysia, Iran_
+_Context: China, Iran, Malaysia_
 
 ##### Burma
 ### [A court in Burma denies bail to the chief of the "Myanmar Times" newspaper, charged with violating immigration law. ](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.md)
@@ -81,7 +81,7 @@ An extra 70 Australian Federal Police officers are being sent to Christmas Islan
 
 ##### Lao People's Revolutionary Party
 ### [The ninth congress of the ruling Lao People's Revolutionary Party opens in Vientiane, Laos, where policy is set for the next five years. ](/news/2011/03/17/the-ninth-congress-of-the-ruling-lao-people-s-revolutionary-party-opens-in-vientiane-laos-where-policy-is-set-for-the-next-five-years.md)
-_Context: Lao People's Revolutionary Party, Laos, Vientiane_
+_Context: Lao People's Revolutionary Party, Vientiane, Laos_
 
 ##### European Space Agency
 ### [At a two-day council meeting of the European Space Agency (ESA) in Paris, Europe comes to an agreement to extend its operations at the International Space Station (ISS) until 2020. ](/news/2011/03/17/at-a-two-day-council-meeting-of-the-european-space-agency-esa-in-paris-europe-comes-to-an-agreement-to-extend-its-operations-at-the-inter.md)

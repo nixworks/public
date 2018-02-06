@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/06/3/deciding-maryland-v-king-the-united-states-supre
 
 ### Changes:
 
-1. [Deciding ''Maryland v. King'', the United States Supreme Court rules that police have the right to collect DNA samples from criminal suspects without their consent. ](/news/2013/06/3/deciding-maryland-v-king-the-united-states-supreme-court-rules-that-police-have-the-right-to-collect-dna-samples-from-criminal-suspect.md) _2017-08-25 03:38:46 (First version)_
+1. [Deciding ''Maryland v. King'', the United States Supreme Court rules that police have the right to collect DNA samples from criminal suspects without their consent. ](/news/2013/06/3/deciding-maryland-v-king-the-united-states-supreme-court-rules-that-police-have-the-right-to-collect-dna-samples-from-criminal-suspect.md) _2018-02-06 13:49:25 (First version)_
 1. [Deciding "Maryland v. King", the United States Supreme Court rules that police have the right to collect DNA samples from criminal suspects without their consent. ](/news/2013/06/3/deciding-maryland-v-king-the-united-states-supreme-court-rules-that-police-have-the-right-to-collect-dna-samples-from-criminal-suspects.md) _(Current version)_
 
 ### Related:

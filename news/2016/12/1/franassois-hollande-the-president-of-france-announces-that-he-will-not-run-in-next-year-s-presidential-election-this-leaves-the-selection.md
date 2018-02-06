@@ -16,7 +16,7 @@ Surprise move not to stand for a second term in upcoming presidential election t
 
 ### Changes:
 
-1. [French presidential election, 2017: Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/french-presidential-election-2017-franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential.md) _2017-08-27 03:47:21 (First version)_
+1. [French presidential election, 2017: Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/french-presidential-election-2017-franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential.md) _2018-02-06 13:49:29 (First version)_
 1. [Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential-election-this-leaves-the-selection.md) _(Current version)_
 
 ### Related:

@@ -16,10 +16,10 @@ Formats: [HTML](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegea
 
 ### Changes:
 
-1. [An earthquake of 6.2 magnitudes shakes the Aegean Sea, causing no deaths. ](/news/2017/06/12/an-earthquake-of-6-2-magnitudes-shakes-the-aegean-sea-causing-no-deaths.md) _2017-06-12 15:30:08 (First version)_
-2. [An earthquake of 6.3 magnitudes shakes the Aegean Sea, causing no deaths. 	Many houses were damaged in Plomari, Greece, and some collapsed.](/news/2017/06/12/an-earthquake-of-6-3-magnitudes-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _2017-06-12 17:30:08 (Update)_
-3. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _2017-06-13 14:30:07 (Update)_
-4. [Earthquakes in 2017: An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/earthquakes-in-2017-an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-a.md) _2017-08-27 03:48:28 (Update)_
+1. [Earthquakes in 2017: An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/earthquakes-in-2017-an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-a.md) _2018-02-06 13:49:30 (First version)_
+2. [An earthquake of 6.3 magnitudes shakes the Aegean Sea, causing no deaths. 	Many houses were damaged in Plomari, Greece, and some collapsed.](/news/2017/06/12/an-earthquake-of-6-3-magnitudes-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _2018-02-06 13:49:30 (Update)_
+3. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _2018-02-06 13:49:30 (Update)_
+4. [An earthquake of 6.2 magnitudes shakes the Aegean Sea, causing no deaths. ](/news/2017/06/12/an-earthquake-of-6-2-magnitudes-shakes-the-aegean-sea-causing-no-deaths.md) _2018-02-06 13:49:30 (Update)_
 4. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _(Current version)_
 
 ### Related:

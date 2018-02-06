@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/06/10/south-korea-s-cabinet-led-by-prime-minister-han
 
 ### Changes:
 
-1. [ South Korea's cabinet, led by Prime Minister Han Seung-soo, offers to resign following widespread protests at decisions to resume US beef imports in South Korea. ](/news/2008/06/10/south-korea-s-cabinet-led-by-prime-minister-han-seung-soo-offers-to-resign-following-widespread-protests-at-decisions-to-resume-us-beef.md) _2017-08-25 03:22:19 (First version)_
+1. [ South Korea's cabinet, led by Prime Minister Han Seung-soo, offers to resign following widespread protests at decisions to resume US beef imports in South Korea. ](/news/2008/06/10/south-korea-s-cabinet-led-by-prime-minister-han-seung-soo-offers-to-resign-following-widespread-protests-at-decisions-to-resume-us-beef.md) _2018-02-06 13:49:18 (First version)_
 1. [ South Korea's cabinet, led by Prime Minister Han Seung-soo, offers to resign following widespread protests at decisions to resume US beef imports in South Korea. ](/news/2008/06/10/south-korea-s-cabinet-led-by-prime-minister-han-seung-soo-offers-to-resign-following-widespread-protests-at-decisions-to-resume-us-beef-i.md) _(Current version)_
 
 ### Related:

@@ -5,11 +5,11 @@ Formats: [HTML](2008/05/1/index.html)  [JSON](2008/05/1/index.json)  [XML](2008/
 
 ##### United States Air Force
 ### [ The United States Air Force grounds all T-38C training aircraft following two fatal accidents within 8 days. ](/news/2008/05/1/the-united-states-air-force-grounds-all-t-38c-training-aircraft-following-two-fatal-accidents-within-8-days.md)
-_Context: T-38C, United States Air Force_
+_Context: United States Air Force, T-38C_
 
 ##### Sudan
 ### [ Sudanese cameraman Sami Mohy El Din Muhammed Al Hajj is released from the Guantanamo Bay detention camp after more than six years in captivity. ](/news/2008/05/1/sudanese-cameraman-sami-mohy-el-din-muhammed-al-hajj-is-released-from-the-guantanamo-bay-detention-camp-after-more-than-six-years-in-captiv.md)
-_Context: cameraman, detainee, Sudan, Sami Mohy El Din Muhammed Al Hajj_
+_Context: detainee, Sudan, cameraman, Sami Mohy El Din Muhammed Al Hajj_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush authorises tougher sanctions on Myanmar including a freeze on assets held by Myanmar state owned companies held in the United States. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-authorises-tougher-sanctions-on-myanmar-including-a-freeze-on-assets-held-by-myanmar-stat.md)
@@ -17,11 +17,11 @@ U.S. President George W. Bush on Thursday said a vote in Myanmar this month woul
 
 ##### United States
 ### [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md)
-_Context: Federal Reserve System, $, auction, United States, Treasury securities, subprime mortgage crisis_
+_Context: auction, Treasury securities, subprime mortgage crisis, Federal Reserve System, United States, $_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
-_Context: George W. Bush, lawmakers, U.S. President, 2007-2008 world food price crisis, food aid, $_
+_Context: U.S. President, $, food aid, 2007-2008 world food price crisis, George W. Bush, lawmakers_
 
 ##### Barbara Walters
 ### [ News anchor Barbara Walters admits to having affair with US Senator Edward Brooke. ](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.md)
@@ -33,23 +33,23 @@ The state funeral of former President Sir Anthony Mamo will be held tomorrow, th
 
 ##### bus
 ### [ Eight people are killed and at least 20 injured after a bus carrying North American and European tourists crashes on the Sinai peninsula in Egypt. ](/news/2008/05/1/eight-people-are-killed-and-at-least-20-injured-after-a-bus-carrying-north-american-and-european-tourists-crashes-on-the-sinai-peninsula-in.md)
-_Context: Europe, bus, North America, tourist, Sinai peninsula, Egypt_
+_Context: Europe, Egypt, Sinai peninsula, tourist, bus, North America_
 
 ##### Australia
 ### [ In Australia, a collision between a fishing boat and a runabout on Sydney Harbour kills five people. ](/news/2008/05/1/in-australia-a-collision-between-a-fishing-boat-and-a-runabout-on-sydney-harbour-kills-five-people.md)
-_Context: Sydney Harbour, Australia, runabout_
+_Context: Australia, runabout, Sydney Harbour_
 
 ##### England
 ### [ Voters in England and Wales go to the polls for the United Kingdom local elections, 2008. Early results showed the opposition Conservative Party performing strongly with 44 per cent of the vote while the governing Labour Party was performing poorly with 24 per cent of the vote.](/news/2008/05/1/voters-in-england-and-wales-go-to-the-polls-for-the-united-kingdom-local-elections-2008-early-results-showed-the-opposition-conservative.md)
-_Context: England, Conservative Party, local elections, Wales, Labour Party_
+_Context: Labour Party, England, Conservative Party, Wales, local elections_
 
 ##### Aden Hashi Farah "Eyrow"
 ### [ Aden Hashi Farah "Eyrow", a leader of Al-Shabaab in Somalia, is reported as being killed in a U.S. airstrike. ](/news/2008/05/1/aden-hashi-farah-eyrow-a-leader-of-al-shabaab-in-somalia-is-reported-as-being-killed-in-a-u-s-airstrike.md)
-_Context: Al-Shabaab, Aden Hashi Farah "Eyrow", airstrike, Somalia_
+_Context: Somalia, Aden Hashi Farah "Eyrow", airstrike, Al-Shabaab_
 
 ##### London Agreement on translation of European patents
 ### [ The London Agreement on translation of European patents, concluded in 2000, enters into force in 14 of the 34 Contracting States to the European Patent Convention. ](/news/2008/05/1/the-london-agreement-on-translation-of-european-patents-concluded-in-2000-enters-into-force-in-14-of-the-34-contracting-states-to-the-eur.md)
-_Context: London Agreement on translation of European patents, European Patent Convention_
+_Context: European Patent Convention, London Agreement on translation of European patents_
 
 ## [Previous Day...](/news/2008/04/30/index.md)
 

@@ -18,7 +18,7 @@ Guardian analysis of leaked papers will show how influential people including he
 
 ### Changes:
 
-1. [Panama Papers: A leak of 11.5 million documents from law firm Mossack Fonseca reveals details of shell companies used by 12 current or former world leaders including President of Russia Vladimir Putin whose aides allegedly shuffled billions of dollars. ](/news/2016/04/3/panama-papers-a-leak-of-11-5-million-documents-from-law-firm-mossack-fonseca-reveals-details-of-shell-companies-used-by-12-current-or-forme.md) _2017-08-27 03:45:29 (First version)_
+1. [Panama Papers: A leak of 11.5 million documents from law firm Mossack Fonseca reveals details of shell companies used by 12 current or former world leaders including President of Russia Vladimir Putin whose aides allegedly shuffled billions of dollars. ](/news/2016/04/3/panama-papers-a-leak-of-11-5-million-documents-from-law-firm-mossack-fonseca-reveals-details-of-shell-companies-used-by-12-current-or-forme.md) _2018-02-06 13:49:29 (First version)_
 1. [A leak of 11.5 million documents from law firm Mossack Fonseca reveals details of shell companies used by 12 current or former world leaders including President of Russia Vladimir Putin whose aides allegedly shuffled billions of dollars. ](/news/2016/04/3/a-leak-of-11-5-million-documents-from-law-firm-mossack-fonseca-reveals-details-of-shell-companies-used-by-12-current-or-former-world-leaders.md) _(Current version)_
 
 ### Related:

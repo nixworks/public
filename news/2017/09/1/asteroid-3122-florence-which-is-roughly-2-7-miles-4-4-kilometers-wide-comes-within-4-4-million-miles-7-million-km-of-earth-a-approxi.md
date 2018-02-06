@@ -16,8 +16,8 @@ A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record
 
 ### Changes:
 
-1. [Asteroid 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- just 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-just-18.md) _2017-09-01 15:30:04 (First version)_
-2. [[Asteroid]] 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-appr.md) _2017-09-01 21:30:06 (Update)_
+1. [Asteroid 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- just 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-just-18.md) _2018-02-06 13:49:31 (First version)_
+2. [[Asteroid]] 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-appr.md) _2018-02-06 13:49:31 (Update)_
 2. [Asteroid 3122 Florence, which is roughly 2.7 miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the Moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-approxi.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/26/philip-bilden-nominee-for-secretary-of-the-navy
 
 ### Changes:
 
-1. [Political appointments of Donald Trump: Philip Bilden, nominee for Secretary of the Navy, withdraws his name from consideration. Mr. Bilden says his business interests created complications. ](/news/2017/02/26/political-appointments-of-donald-trump-philip-bilden-nominee-for-secretary-of-the-navy-withdraws-his-name-from-consideration-mr-bilden.md) _2017-08-27 03:47:54 (First version)_
+1. [Political appointments of Donald Trump: Philip Bilden, nominee for Secretary of the Navy, withdraws his name from consideration. Mr. Bilden says his business interests created complications. ](/news/2017/02/26/political-appointments-of-donald-trump-philip-bilden-nominee-for-secretary-of-the-navy-withdraws-his-name-from-consideration-mr-bilden.md) _2018-02-06 13:49:30 (First version)_
 1. [Philip Bilden, nominee for Secretary of the Navy, withdraws his name from consideration. Mr. Bilden says his business interests created complications. ](/news/2017/02/26/philip-bilden-nominee-for-secretary-of-the-navy-withdraws-his-name-from-consideration-mr-bilden-says-his-business-interests-created-comp.md) _(Current version)_
 
 ### Related:

@@ -16,6 +16,6 @@ Formats: [HTML](/news/2013/05/10/the-death-toll-reaches-1-042-with-many-people-s
 
 ### Changes:
 
-1. [2013 Savar building collapse:The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/2013-savar-building-collapse-pthe-death-toll-reaches-1-042-with-many-people-still-missing.md) _2017-08-25 03:38:36 (First version)_
-2. [2013 Savar building collapse:: The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/2013-savar-building-collapse-the-death-toll-reaches-1-042-with-many-people-still-missing.md) _2017-08-27 03:38:50 (Update)_
+1. [2013 Savar building collapse:: The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/2013-savar-building-collapse-the-death-toll-reaches-1-042-with-many-people-still-missing.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Savar building collapse:The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/2013-savar-building-collapse-pthe-death-toll-reaches-1-042-with-many-people-still-missing.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/the-death-toll-reaches-1-042-with-many-people-still-missing.md) _(Current version)_

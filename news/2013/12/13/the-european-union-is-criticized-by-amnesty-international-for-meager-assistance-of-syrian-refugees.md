@@ -16,8 +16,8 @@ LONDON — Europe has failed miserably to do its part to assuage Syria’s despe
 
 ### Changes:
 
-1. [Syrian Civil War:The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/syrian-civil-war-pthe-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md) _2017-08-25 03:39:41 (First version)_
-2. [Syrian Civil War:: The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/syrian-civil-war-the-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md) _2017-08-27 03:39:59 (Update)_
+1. [Syrian Civil War:: The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/syrian-civil-war-the-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/syrian-civil-war-pthe-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md) _2018-02-06 13:49:25 (Update)_
 2. [The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/the-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md) _(Current version)_
 
 ### Related:

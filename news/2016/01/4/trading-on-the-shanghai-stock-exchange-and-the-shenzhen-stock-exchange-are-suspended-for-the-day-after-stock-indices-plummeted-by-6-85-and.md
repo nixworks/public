@@ -17,7 +17,7 @@ Wall Street closed sharply lower Monday after weak Chinese economic data ignited
 
 ### Changes:
 
-1. [ 2015 Chinese stock market crash: Trading on the Shanghai Stock Exchange and the Shenzhen Stock Exchange are suspended for the day after stock indices plummeted by 6.85% and 8.1% respectively. ](/news/2016/01/4/2015-chinese-stock-market-crash-trading-on-the-shanghai-stock-exchange-and-the-shenzhen-stock-exchange-are-suspended-for-the-day-after-sto.md) _2017-08-27 03:44:35 (First version)_
+1. [ 2015 Chinese stock market crash: Trading on the Shanghai Stock Exchange and the Shenzhen Stock Exchange are suspended for the day after stock indices plummeted by 6.85% and 8.1% respectively. ](/news/2016/01/4/2015-chinese-stock-market-crash-trading-on-the-shanghai-stock-exchange-and-the-shenzhen-stock-exchange-are-suspended-for-the-day-after-sto.md) _2018-02-06 13:49:28 (First version)_
 1. [Trading on the Shanghai Stock Exchange and the Shenzhen Stock Exchange are suspended for the day after stock indices plummeted by 6.85% and 8.1% respectively. ](/news/2016/01/4/trading-on-the-shanghai-stock-exchange-and-the-shenzhen-stock-exchange-are-suspended-for-the-day-after-stock-indices-plummeted-by-6-85-and.md) _(Current version)_
 
 ### Related:

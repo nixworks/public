@@ -16,7 +16,7 @@ Two Egyptian police officers have been shot dead in Cairo as they made their way
 
 ### Changes:
 
-1. [Terrorism in Egypt: Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/terrorism-in-egypt-two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md) _2017-08-27 03:44:37 (First version)_
+1. [Terrorism in Egypt: Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/terrorism-in-egypt-two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md) _2018-02-06 13:49:28 (First version)_
 1. [Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md) _(Current version)_
 
 ### Related:

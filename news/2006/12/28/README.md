@@ -9,7 +9,7 @@ _Context: nuclear proliferation, Kazakhstan, Majilis_
 
 ##### War in Somalia
 ### [ War in Somalia: Ethiopian and Transitional government troops capture Mogadishu without resistance. ICU fighters flee to Kismayo, their last remaining stronghold, 300 miles (500km) to the south. ](/news/2006/12/28/war-in-somalia-ethiopian-and-transitional-government-troops-capture-mogadishu-without-resistance-icu-fighters-flee-to-kismayo-their-last.md)
-_Context: capture Mogadishu, Kismayo, War in Somalia_
+_Context: War in Somalia, capture Mogadishu, Kismayo_
 
 ## [Previous Day...](/news/2006/12/27/index.md)
 

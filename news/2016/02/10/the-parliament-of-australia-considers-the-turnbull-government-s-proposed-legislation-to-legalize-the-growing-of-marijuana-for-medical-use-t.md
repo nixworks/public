@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/02/10/the-parliament-of-australia-considers-the-turnb
 
 ### Changes:
 
-1. [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use.md) _2017-08-25 03:44:30 (First version)_
+1. [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use.md) _2018-02-06 13:49:28 (First version)_
 1. [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use-t.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Police chief says at least 40 Taliban fighters killed after launching offensive 
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/war-in-afghanistan-2015-present-according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-again.md) _2017-08-27 03:45:39 (First version)_
+1. [War in Afghanistan (2015-present): According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/war-in-afghanistan-2015-present-according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-again.md) _2018-02-06 13:49:28 (First version)_
 1. [According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-against-afghan-security-forces-to-seize-th.md) _(Current version)_
 
 ### Related:

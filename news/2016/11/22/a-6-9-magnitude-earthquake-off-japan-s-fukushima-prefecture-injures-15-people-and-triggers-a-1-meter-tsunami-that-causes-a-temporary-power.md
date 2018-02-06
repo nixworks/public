@@ -18,7 +18,7 @@ A powerful earthquake struck off the coast of Japan, causing a tsunami. Here&#03
 
 ### Changes:
 
-1. [2016 Fukushima earthquake: A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/2016-fukushima-earthquake-a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-tha.md) _2017-08-27 03:47:16 (First version)_
+1. [2016 Fukushima earthquake: A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/2016-fukushima-earthquake-a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-tha.md) _2018-02-06 13:49:29 (First version)_
 1. [A 6.9 magnitude earthquake off Japan's Fukushima Prefecture injures 15 people, and triggers a 1 meter tsunami that causes a temporary power disruption at Fukushima Daini Nuclear Power Plant. ](/news/2016/11/22/a-6-9-magnitude-earthquake-off-japan-s-fukushima-prefecture-injures-15-people-and-triggers-a-1-meter-tsunami-that-causes-a-temporary-power.md) _(Current version)_
 
 ### Related:

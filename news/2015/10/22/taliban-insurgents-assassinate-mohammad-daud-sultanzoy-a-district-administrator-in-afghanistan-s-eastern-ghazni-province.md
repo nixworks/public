@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-su
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/war-in-afghanistan-2015-present-taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-easte.md) _2017-08-27 03:43:28 (First version)_
+1. [War in Afghanistan (2015-present): Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/war-in-afghanistan-2015-present-taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-easte.md) _2018-02-06 13:49:28 (First version)_
 1. [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md) _(Current version)_
 
 ### Related:

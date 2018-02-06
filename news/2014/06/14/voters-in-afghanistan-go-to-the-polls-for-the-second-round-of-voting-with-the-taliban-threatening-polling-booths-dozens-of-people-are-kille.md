@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/06/14/voters-in-afghanistan-go-to-the-polls-for-the-s
 
 ### Changes:
 
-1. [Afghan presidential election, 2014: Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/afghan-presidential-election-2014-voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-pollin.md) _2017-08-27 03:40:51 (First version)_
+1. [Afghan presidential election, 2014: Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/afghan-presidential-election-2014-voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-pollin.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-polling-booths-dozens-of-people-are-kille.md) _(Current version)_
 
 ### Related:

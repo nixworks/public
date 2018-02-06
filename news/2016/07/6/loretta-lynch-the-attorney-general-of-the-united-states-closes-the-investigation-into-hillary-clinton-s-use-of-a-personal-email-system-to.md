@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/07/6/loretta-lynch-the-attorney-general-of-the-united
 
 ### Changes:
 
-1. [Hillary Clinton email controversy: Loretta Lynch, the Attorney General of the United States, closes the investigation into Hillary Clinton's use of a personal email system to conduct official business without charges being laid. ](/news/2016/07/6/hillary-clinton-email-controversy-loretta-lynch-the-attorney-general-of-the-united-states-closes-the-investigation-into-hillary-clinton-s.md) _2017-08-27 03:46:25 (First version)_
+1. [Hillary Clinton email controversy: Loretta Lynch, the Attorney General of the United States, closes the investigation into Hillary Clinton's use of a personal email system to conduct official business without charges being laid. ](/news/2016/07/6/hillary-clinton-email-controversy-loretta-lynch-the-attorney-general-of-the-united-states-closes-the-investigation-into-hillary-clinton-s.md) _2018-02-06 13:49:29 (First version)_
 1. [Loretta Lynch, the Attorney General of the United States, closes the investigation into Hillary Clinton's use of a personal email system to conduct official business without charges being laid. ](/news/2016/07/6/loretta-lynch-the-attorney-general-of-the-united-states-closes-the-investigation-into-hillary-clinton-s-use-of-a-personal-email-system-to.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/26/eight-turkish-police-officers-are-killed-and-40
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict (1978-present): Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/kurdish-turkish-conflict-1978-present-eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint.md) _2017-08-27 03:46:43 (First version)_
+1. [Kurdish-Turkish conflict (1978-present): Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/kurdish-turkish-conflict-1978-present-eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint.md) _2018-02-06 13:49:29 (First version)_
 1. [Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint-in-the-town-of-cizre-with-the-pkk-believed.md) _(Current version)_
 
 ### Related:

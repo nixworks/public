@@ -17,8 +17,8 @@ The World Health Organization on Friday declared the Ebola outbreak in West Afri
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak:The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/2014-west-africa-ebola-outbreak-pthe-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emerge.md) _2017-08-25 03:40:49 (First version)_
-2. [2014 West Africa Ebola outbreak:: The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/2014-west-africa-ebola-outbreak-the-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emerg.md) _2017-08-27 03:41:07 (Update)_
+1. [2014 West Africa Ebola outbreak:: The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/2014-west-africa-ebola-outbreak-the-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emerg.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 West Africa Ebola outbreak:The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/2014-west-africa-ebola-outbreak-pthe-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emerge.md) _2018-02-06 13:49:26 (Update)_
 2. [The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/the-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emergency.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Oliver Schmidt faces up to seven years in prison for his role in the Volkswagen 
 
 ### Changes:
 
-1. [Volkswagen emissions scandal: A former Volkswagen executive pleads guilty to defrauding the United States and violating the Clean Air Act. ](/news/2017/08/4/volkswagen-emissions-scandal-a-former-volkswagen-executive-pleads-guilty-to-defrauding-the-united-states-and-violating-the-clean-air-act.md) _2017-08-27 03:48:46 (First version)_
+1. [Volkswagen emissions scandal: A former Volkswagen executive pleads guilty to defrauding the United States and violating the Clean Air Act. ](/news/2017/08/4/volkswagen-emissions-scandal-a-former-volkswagen-executive-pleads-guilty-to-defrauding-the-united-states-and-violating-the-clean-air-act.md) _2018-02-06 13:49:31 (First version)_
 1. [A former Volkswagen executive pleads guilty to defrauding the United States and violating the Clean Air Act. ](/news/2017/08/4/a-former-volkswagen-executive-pleads-guilty-to-defrauding-the-united-states-and-violating-the-clean-air-act.md) _(Current version)_
 
 ### Related:

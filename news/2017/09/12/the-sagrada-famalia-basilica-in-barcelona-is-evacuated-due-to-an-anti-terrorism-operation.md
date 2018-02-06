@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-ev
 
 ### Changes:
 
-1. [The Sagrada Familia cathedral in Barcelona is evacuated due to anti-terrorism operation. ](/news/2017/09/12/the-sagrada-familia-cathedral-in-barcelona-is-evacuated-due-to-anti-terrorism-operation.md) _2017-09-12 21:30:06 (First version)_
+1. [The Sagrada Familia cathedral in Barcelona is evacuated due to anti-terrorism operation. ](/news/2017/09/12/the-sagrada-familia-cathedral-in-barcelona-is-evacuated-due-to-anti-terrorism-operation.md) _2018-02-06 13:49:31 (First version)_
 1. [The Sagrada Familia basilica in Barcelona is evacuated due to an anti-terrorism operation. ](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-evacuated-due-to-an-anti-terrorism-operation.md) _(Current version)_
 
 ### Related:

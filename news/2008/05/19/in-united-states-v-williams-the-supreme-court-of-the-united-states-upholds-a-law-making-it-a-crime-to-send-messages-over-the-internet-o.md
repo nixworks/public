@@ -16,7 +16,7 @@ The Supreme Court gave prosecutors a powerful tool Monday to attack the spread o
 
 ### Changes:
 
-1. [ In ''United States v. Williams'', the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet.md) _2017-08-25 03:22:12 (First version)_
+1. [ In ''United States v. Williams'', the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet.md) _2018-02-06 13:49:18 (First version)_
 1. [ In "United States v. Williams", the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet-o.md) _(Current version)_
 
 ### Related:

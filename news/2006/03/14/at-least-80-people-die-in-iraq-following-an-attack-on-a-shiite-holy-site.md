@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/03/14/at-least-80-people-die-in-iraq-following-an-att
 
 ### Changes:
 
-1. [ Iraq War: At least 80 people die in Iraq following an attack on a Shiite holy site. ](/news/2006/03/14/iraq-war-at-least-80-people-die-in-iraq-following-an-attack-on-a-shiite-holy-site.md) _2017-08-27 03:17:30 (First version)_
+1. [ Iraq War: At least 80 people die in Iraq following an attack on a Shiite holy site. ](/news/2006/03/14/iraq-war-at-least-80-people-die-in-iraq-following-an-attack-on-a-shiite-holy-site.md) _2018-02-06 13:49:17 (First version)_
 1. [ At least 80 people die in Iraq following an attack on a Shiite holy site. ](/news/2006/03/14/at-least-80-people-die-in-iraq-following-an-attack-on-a-shiite-holy-site.md) _(Current version)_
 
 ### Related:

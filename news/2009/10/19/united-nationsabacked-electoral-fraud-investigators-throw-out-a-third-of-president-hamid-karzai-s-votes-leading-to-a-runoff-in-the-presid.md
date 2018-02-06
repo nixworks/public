@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/10/19/united-nationsabacked-electoral-fraud-investiga
 
 ### Changes:
 
-1. [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nations-backed-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md) _2017-08-27 03:25:58 (First version)_
+1. [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nations-backed-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md) _2018-02-06 13:49:19 (First version)_
 1. [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nationsabacked-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md) _(Current version)_
 
 ### Related:

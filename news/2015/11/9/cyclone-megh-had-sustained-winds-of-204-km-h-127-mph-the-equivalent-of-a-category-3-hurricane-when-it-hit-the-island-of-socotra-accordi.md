@@ -21,7 +21,7 @@ A second extremely rare and powerful cyclone in two weeks battered the Yemeni is
 
 ### Changes:
 
-1. [Cyclone Megh: Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-so.md) _2017-08-27 03:43:45 (First version)_
+1. [Cyclone Megh: Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-so.md) _2018-02-06 13:49:28 (First version)_
 1. [Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.md) _(Current version)_
 
 ### Related:

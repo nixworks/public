@@ -16,7 +16,7 @@ BEIRUT - In the first attack to target a campaign event, a mortar shell slammed 
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-civil-war-syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _2017-08-27 03:40:44 (First version)_
+1. [Syrian Civil War: Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-civil-war-syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _2018-02-06 13:49:26 (First version)_
 1. [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _(Current version)_
 
 ### Related:

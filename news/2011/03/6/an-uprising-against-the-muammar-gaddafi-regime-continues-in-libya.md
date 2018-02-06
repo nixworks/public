@@ -25,8 +25,8 @@ Intense gunfire was heard in the center of the Libyan capital Tripoli before daw
 
 ### Changes:
 
-1. [Libyan Civil War:An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-pan-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _2017-08-25 03:32:26 (First version)_
-2. [Libyan Civil War:: An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-an-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _2017-08-27 03:32:34 (Update)_
+1. [Libyan Civil War:An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-pan-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _2018-02-06 13:49:22 (First version)_
+2. [Libyan Civil War:: An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-an-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _2018-02-06 13:49:22 (Update)_
 2. [An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/an-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md) _(Current version)_
 
 ### Related:

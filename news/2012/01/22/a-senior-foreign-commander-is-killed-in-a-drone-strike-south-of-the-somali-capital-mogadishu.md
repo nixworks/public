@@ -16,8 +16,8 @@ Bilal al-Barjawi, 27, who had been fighting alongside Shabab Islamic militants, 
 
 ### Changes:
 
-1. [War in Somalia (2009-):A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009a-pa-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _2017-08-25 03:34:53 (First version)_
-2. [War in Somalia (2009-):: A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009-a-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _2017-08-27 03:35:02 (Update)_
+1. [War in Somalia (2009-):A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009a-pa-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Somalia (2009-):: A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009-a-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _2018-02-06 13:49:23 (Update)_
 2. [A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/a-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _(Current version)_
 
 ### Related:

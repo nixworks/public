@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-
 
 ### Changes:
 
-1. [Syrian Civil War:A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-pa-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _2017-08-25 03:39:24 (First version)_
-2. [Syrian Civil War:: A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _2017-08-27 03:39:42 (Update)_
+1. [Syrian Civil War:A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-pa-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:: A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _(Current version)_
 
 ### Related:

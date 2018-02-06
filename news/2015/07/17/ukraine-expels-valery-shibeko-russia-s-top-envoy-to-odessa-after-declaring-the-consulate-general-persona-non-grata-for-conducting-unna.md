@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envo
 
 ### Changes:
 
-1. [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general "''persona non grata''" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-un.md) _2017-08-25 03:42:26 (First version)_
+1. [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general "''persona non grata''" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-un.md) _2018-02-06 13:49:27 (First version)_
 1. [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general ""persona non grata"" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-unna.md) _(Current version)_
 
 ### Related:

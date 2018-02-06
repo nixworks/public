@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-se
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/war-in-afghanistan-2015-present-the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-t.md) _2017-08-27 03:46:13 (First version)_
+1. [War in Afghanistan (2015-present): The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/war-in-afghanistan-2015-present-the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-t.md) _2018-02-06 13:49:29 (First version)_
 1. [The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-the-ghazni-province-on-june-3-and-5.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A massive wildfire burning out of control in the foothills of central California
 
 ### Changes:
 
-1. [Erskine Fire: 2016 California wildfires: A massive wildfire destroys at least 150 homes and leaves two people dead in Kern County, California. The Governor of California Jerry Brown declares a state of emergency for Kern County as more homes are threatened by the fire. ](/news/2016/06/25/erskine-fire-2016-california-wildfires-a-massive-wildfire-destroys-at-least-150-homes-and-leaves-two-people-dead-in-kern-county-californi.md) _2017-08-27 03:46:20 (First version)_
+1. [Erskine Fire: 2016 California wildfires: A massive wildfire destroys at least 150 homes and leaves two people dead in Kern County, California. The Governor of California Jerry Brown declares a state of emergency for Kern County as more homes are threatened by the fire. ](/news/2016/06/25/erskine-fire-2016-california-wildfires-a-massive-wildfire-destroys-at-least-150-homes-and-leaves-two-people-dead-in-kern-county-californi.md) _2018-02-06 13:49:29 (First version)_
 1. [A massive wildfire destroys at least 150 homes and leaves two people dead in Kern County, California. The Governor of California Jerry Brown declares a state of emergency for Kern County as more homes are threatened by the fire. ](/news/2016/06/25/a-massive-wildfire-destroys-at-least-150-homes-and-leaves-two-people-dead-in-kern-county-california-the-governor-of-california-jerry-brown.md) _(Current version)_
 
 ### Related:

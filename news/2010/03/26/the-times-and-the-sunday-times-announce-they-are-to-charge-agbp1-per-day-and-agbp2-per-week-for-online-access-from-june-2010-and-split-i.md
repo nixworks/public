@@ -19,7 +19,7 @@ News International has announced that customers will be charged £2 a week to re
 
 ### Changes:
 
-1. [''The Times'' and ''The Sunday Times'' announce they are to charge PS1 per day and PS2 per week for online access from June 2010 and split into two websites from Times Online. ](/news/2010/03/26/the-times-and-the-sunday-times-announce-they-are-to-charge-aps1-per-day-and-aps2-per-week-for-online-access-from-june-2010-and-split-i.md) _2017-08-25 03:27:29 (First version)_
+1. [''The Times'' and ''The Sunday Times'' announce they are to charge PS1 per day and PS2 per week for online access from June 2010 and split into two websites from Times Online. ](/news/2010/03/26/the-times-and-the-sunday-times-announce-they-are-to-charge-aps1-per-day-and-aps2-per-week-for-online-access-from-june-2010-and-split-i.md) _2018-02-06 13:49:19 (First version)_
 1. ["The Times" and "The Sunday Times" announce they are to charge GBP1 per day and GBP2 per week for online access from June 2010 and split into two websites from Times Online. ](/news/2010/03/26/the-times-and-the-sunday-times-announce-they-are-to-charge-agbp1-per-day-and-agbp2-per-week-for-online-access-from-june-2010-and-split-i.md) _(Current version)_
 
 ### Related:

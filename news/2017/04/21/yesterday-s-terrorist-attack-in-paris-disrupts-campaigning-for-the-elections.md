@@ -18,7 +18,7 @@ With the motives of the Champs-Elys&eacute;es gunman considered terror-related, 
 
 ### Changes:
 
-1. [French presidential election, 2017: Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/french-presidential-election-2017-yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _2017-08-27 03:48:12 (First version)_
+1. [French presidential election, 2017: Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/french-presidential-election-2017-yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _2018-02-06 13:49:30 (First version)_
 1. [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _(Current version)_
 
 ### Related:

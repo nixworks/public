@@ -17,7 +17,7 @@ The company that owns the National Enquirer, a backer of Donald Trump, agreed to
 
 ### Changes:
 
-1. [Donald Trump presidential campaign, 2016: A study of former fashion model and current wife of presidential candidate Donald Trump Melania Trump's work history shows that she was an illegal worker in the United States before she received legal authorization. ](/news/2016/11/4/donald-trump-presidential-campaign-2016-a-study-of-former-fashion-model-and-current-wife-of-presidential-candidate-donald-trump-melania-tr.md) _2017-08-27 03:47:10 (First version)_
+1. [Donald Trump presidential campaign, 2016: A study of former fashion model and current wife of presidential candidate Donald Trump Melania Trump's work history shows that she was an illegal worker in the United States before she received legal authorization. ](/news/2016/11/4/donald-trump-presidential-campaign-2016-a-study-of-former-fashion-model-and-current-wife-of-presidential-candidate-donald-trump-melania-tr.md) _2018-02-06 13:49:29 (First version)_
 1. [A study of former fashion model and current wife of presidential candidate Donald Trump Melania Trump's work history shows that she was an illegal worker in the United States before she received legal authorization. ](/news/2016/11/4/a-study-of-former-fashion-model-and-current-wife-of-presidential-candidate-donald-trump-melania-trump-s-work-history-shows-that-she-was-an-i.md) _(Current version)_
 
 ### Related:

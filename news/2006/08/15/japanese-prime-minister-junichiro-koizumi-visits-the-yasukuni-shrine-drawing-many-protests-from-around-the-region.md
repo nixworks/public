@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/08/15/japanese-prime-minister-junichiro-koizumi-visit
 
 ### Changes:
 
-1. [ Japanese Prime Minister Junichiro Koizumi visits the Yasukuni Shrine, drawing many protests from around the region. [http:--sfgate.com-cgi-bin-blogs-sfgate-category?blogid=15archive-&cat=498 (San Francisco Chronicle)].](/news/2006/08/15/japanese-prime-minister-junichiro-koizumi-visits-the-yasukuni-shrine-drawing-many-protests-from-around-the-region-http-sfgate-com-cgi.md) _2017-06-18 03:18:21 (First version)_
+1. [ Japanese Prime Minister Junichiro Koizumi visits the Yasukuni Shrine, drawing many protests from around the region. [http:--sfgate.com-cgi-bin-blogs-sfgate-category?blogid=15archive-&cat=498 (San Francisco Chronicle)].](/news/2006/08/15/japanese-prime-minister-junichiro-koizumi-visits-the-yasukuni-shrine-drawing-many-protests-from-around-the-region-http-sfgate-com-cgi.md) _2018-02-06 13:49:17 (First version)_
 1. [ Japanese Prime Minister Junichiro Koizumi visits the Yasukuni Shrine, drawing many protests from around the region. ](/news/2006/08/15/japanese-prime-minister-junichiro-koizumi-visits-the-yasukuni-shrine-drawing-many-protests-from-around-the-region.md) _(Current version)_
 
 ### Related:

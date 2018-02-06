@@ -22,7 +22,7 @@ NBC News projects that Republicans will retain their majority in the U.S. House 
 
 ### Changes:
 
-1. [United States elections, 2014: Voters in the United States go to the polls for House of Representatives, Senate and local elections. ](/news/2014/11/4/united-states-elections-2014-voters-in-the-united-states-go-to-the-polls-for-house-of-representatives-senate-and-local-elections.md) _2017-08-27 03:41:28 (First version)_
+1. [United States elections, 2014: Voters in the United States go to the polls for House of Representatives, Senate and local elections. ](/news/2014/11/4/united-states-elections-2014-voters-in-the-united-states-go-to-the-polls-for-house-of-representatives-senate-and-local-elections.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in the United States go to the polls for House of Representatives, Senate and local elections. ](/news/2014/11/4/voters-in-the-united-states-go-to-the-polls-for-house-of-representatives-senate-and-local-elections.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/09/3/panama-begins-work-on-its-agbp2-7-billion-panama
 
 ### Changes:
 
-1. [ Panama begins work on its PS2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-aps2-7-billion-panama-canal-expansion-project.md) _2017-08-25 03:20:50 (First version)_
+1. [ Panama begins work on its PS2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-aps2-7-billion-panama-canal-expansion-project.md) _2018-02-06 13:49:18 (First version)_
 1. [ Panama begins work on its GBP2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-agbp2-7-billion-panama-canal-expansion-project.md) _(Current version)_
 
 ### Related:

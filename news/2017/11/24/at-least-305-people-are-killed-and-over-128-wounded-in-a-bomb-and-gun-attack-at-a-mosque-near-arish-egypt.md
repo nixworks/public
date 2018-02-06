@@ -16,10 +16,10 @@ A devastating gun and bomb attack on a mosque in the Sinai peninsula killed 300 
 
 ### Changes:
 
-1. [At least 85 people are killed in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-85-people-are-killed-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2017-11-24 14:30:05 (First version)_
-2. [At least 185 people are killed in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-185-people-are-killed-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2017-11-24 15:30:05 (Update)_
-3. [At least 235 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-235-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2017-11-25 06:30:05 (Update)_
-4. [At least 300 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-300-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2017-11-27 06:30:05 (Update)_
+1. [At least 85 people are killed in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-85-people-are-killed-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2018-02-06 13:49:31 (First version)_
+2. [At least 300 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-300-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2018-02-06 13:49:31 (Update)_
+3. [At least 235 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-235-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2018-02-06 13:49:31 (Update)_
+4. [At least 185 people are killed in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-185-people-are-killed-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _2018-02-06 13:49:31 (Update)_
 4. [At least 305 people are killed, and over 128 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-305-people-are-killed-and-over-128-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md) _(Current version)_
 
 ### Related:

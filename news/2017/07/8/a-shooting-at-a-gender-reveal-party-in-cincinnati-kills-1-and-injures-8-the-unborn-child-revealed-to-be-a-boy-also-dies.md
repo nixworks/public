@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnat
 
 ### Changes:
 
-1. [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8.md) _2017-07-10 20:30:06 (First version)_
-2. [Crime in Cincinnati: A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/crime-in-cincinnati-a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-d.md) _2017-08-27 03:48:37 (Update)_
+1. [Crime in Cincinnati: A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/crime-in-cincinnati-a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-d.md) _2018-02-06 13:49:31 (First version)_
+2. [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8.md) _2018-02-06 13:49:31 (Update)_
 2. [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-dies.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Four people are feared dead after tsunami waves struck the coast of Greenland on
 
 ### Changes:
 
-1. [Earthquakes in 2017: An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/earthquakes-in-2017-an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md) _2017-08-27 03:48:30 (First version)_
+1. [Earthquakes in 2017: An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/earthquakes-in-2017-an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md) _2018-02-06 13:49:30 (First version)_
 1. [An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md) _(Current version)_
 
 ### Related:

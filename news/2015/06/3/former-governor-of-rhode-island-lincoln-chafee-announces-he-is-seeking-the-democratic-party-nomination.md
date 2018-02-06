@@ -16,7 +16,7 @@ The former Rhode Island governor became the fourth candidate to seek the partyâ€
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former Governor of Rhode Island Lincoln Chafee announces he is seeking the Democratic Party nomination. ](/news/2015/06/3/united-states-presidential-election-2016-former-governor-of-rhode-island-lincoln-chafee-announces-he-is-seeking-the-democratic-party-nomin.md) _2017-08-27 03:42:28 (First version)_
+1. [United States presidential election, 2016: Former Governor of Rhode Island Lincoln Chafee announces he is seeking the Democratic Party nomination. ](/news/2015/06/3/united-states-presidential-election-2016-former-governor-of-rhode-island-lincoln-chafee-announces-he-is-seeking-the-democratic-party-nomin.md) _2018-02-06 13:49:27 (First version)_
 1. [Former Governor of Rhode Island Lincoln Chafee announces he is seeking the Democratic Party nomination. ](/news/2015/06/3/former-governor-of-rhode-island-lincoln-chafee-announces-he-is-seeking-the-democratic-party-nomination.md) _(Current version)_
 
 ### Related:

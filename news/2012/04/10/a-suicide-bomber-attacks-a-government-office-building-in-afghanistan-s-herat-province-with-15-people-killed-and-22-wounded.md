@@ -17,8 +17,8 @@ Taliban claim responsibility for suicide attacks targeting government buildings 
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/war-in-afghanistan-2001apresent-pa-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-ki.md) _2017-08-25 03:35:28 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/war-in-afghanistan-2001-present-a-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-k.md) _2017-08-27 03:35:37 (Update)_
+1. [War in Afghanistan (2001-present):A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/war-in-afghanistan-2001apresent-pa-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-ki.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/war-in-afghanistan-2001-present-a-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-k.md) _2018-02-06 13:49:23 (Update)_
 2. [A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/a-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-killed-and-22-wounded.md) _(Current version)_
 
 ### Related:

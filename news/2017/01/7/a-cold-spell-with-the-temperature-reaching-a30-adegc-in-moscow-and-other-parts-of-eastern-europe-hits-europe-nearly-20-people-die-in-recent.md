@@ -16,7 +16,7 @@ Heavy snowfall and sub-zero temperatures have led to multiple deaths and disrupt
 
 ### Changes:
 
-1. [A cold spell with the temperature reaching -30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10 in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _2017-08-27 03:47:34 (First version)_
+1. [A cold spell with the temperature reaching -30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10 in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _2018-02-06 13:49:30 (First version)_
 1. [A cold spell with the temperature reaching [?]30 degC in Moscow and other parts of Eastern Europe hits Europe. Nearly 20 people die in recent days; 10 in Poland. ](/news/2017/01/7/a-cold-spell-with-the-temperature-reaching-a30-adegc-in-moscow-and-other-parts-of-eastern-europe-hits-europe-nearly-20-people-die-in-recent.md) _(Current version)_
 
 ### Related:

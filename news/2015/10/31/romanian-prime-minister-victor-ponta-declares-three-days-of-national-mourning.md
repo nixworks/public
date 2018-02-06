@@ -17,7 +17,7 @@ Survivors of a deadly nightclub fire and stampede in Romania say the lead singer
 
 ### Changes:
 
-1. [Colectiv nightclub fire: Romanian Prime Minister Victor Ponta declares three days of national mourning. ](/news/2015/10/31/colectiv-nightclub-fire-romanian-prime-minister-victor-ponta-declares-three-days-of-national-mourning.md) _2017-08-27 03:43:38 (First version)_
+1. [Colectiv nightclub fire: Romanian Prime Minister Victor Ponta declares three days of national mourning. ](/news/2015/10/31/colectiv-nightclub-fire-romanian-prime-minister-victor-ponta-declares-three-days-of-national-mourning.md) _2018-02-06 13:49:28 (First version)_
 1. [Romanian Prime Minister Victor Ponta declares three days of national mourning. ](/news/2015/10/31/romanian-prime-minister-victor-ponta-declares-three-days-of-national-mourning.md) _(Current version)_
 
 ### Related:

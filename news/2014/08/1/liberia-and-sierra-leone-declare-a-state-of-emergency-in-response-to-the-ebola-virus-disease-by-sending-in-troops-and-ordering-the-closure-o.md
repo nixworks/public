@@ -17,7 +17,7 @@ Sierra Leone has declared a state of emergency and called in troops to quarantin
 
 ### Changes:
 
-1. [2014 West Africa Ebola outbreak: Liberia and Sierra Leone declare a state of emergency in response to the Ebola virus disease by sending in troops and ordering the closure of schools and markets and the quarantining of affected communities. ](/news/2014/08/1/2014-west-africa-ebola-outbreak-liberia-and-sierra-leone-declare-a-state-of-emergency-in-response-to-the-ebola-virus-disease-by-sending-in.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 West Africa Ebola outbreak: Liberia and Sierra Leone declare a state of emergency in response to the Ebola virus disease by sending in troops and ordering the closure of schools and markets and the quarantining of affected communities. ](/news/2014/08/1/2014-west-africa-ebola-outbreak-liberia-and-sierra-leone-declare-a-state-of-emergency-in-response-to-the-ebola-virus-disease-by-sending-in.md) _2018-02-06 13:49:26 (First version)_
 1. [Liberia and Sierra Leone declare a state of emergency in response to the Ebola virus disease by sending in troops and ordering the closure of schools and markets and the quarantining of affected communities. ](/news/2014/08/1/liberia-and-sierra-leone-declare-a-state-of-emergency-in-response-to-the-ebola-virus-disease-by-sending-in-troops-and-ordering-the-closure-o.md) _(Current version)_
 
 ### Related:

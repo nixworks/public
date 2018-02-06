@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/29/a-wildfire-in-the-south-of-u-s-state-california
 
 ### Changes:
 
-1. [ A wildfire in the south of U.S. state California burns 17,000 acres (69 km), spurs evacuations near State Route 118 and U.S. Route 101. ](/news/2005/09/29/a-wildfire-in-the-south-of-u-s-state-california-burns-17-000-acres-69-km2-spurs-evacuations-near-state-route-118-and-u-s-route-101.md) _2017-10-17 03:19:25 (First version)_
+1. [ A wildfire in the south of U.S. state California burns 17,000 acres (69 km), spurs evacuations near State Route 118 and U.S. Route 101. ](/news/2005/09/29/a-wildfire-in-the-south-of-u-s-state-california-burns-17-000-acres-69-km2-spurs-evacuations-near-state-route-118-and-u-s-route-101.md) _2018-02-06 13:49:16 (First version)_
 1. [ A wildfire in the south of U.S. state California burns 17,000 acres (69 km2), spurs evacuations near State Route 118 and U.S. Route 101. ](/news/2005/09/29/a-wildfire-in-the-south-of-u-s-state-california-burns-17-000-acres-69-kma2-spurs-evacuations-near-state-route-118-and-u-s-route-101.md) _(Current version)_
 
 ### Related:

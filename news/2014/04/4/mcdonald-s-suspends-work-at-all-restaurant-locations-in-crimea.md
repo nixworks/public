@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/4/mcdonald-s-suspends-work-at-all-restaurant-locat
 
 ### Changes:
 
-1. [2014 Crimean Crisis:McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-pmcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md) _2017-08-25 03:40:15 (First version)_
-2. [2014 Crimean Crisis:: McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-mcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md) _2017-08-27 03:40:33 (Update)_
+1. [2014 Crimean Crisis:McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-pmcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Crimean Crisis:: McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-mcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md) _2018-02-06 13:49:26 (Update)_
 2. [McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/mcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md) _(Current version)_
 
 ### Related:

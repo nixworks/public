@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces
 
 ### Changes:
 
-1. [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash; the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-fir.md) _2017-08-25 03:17:27 (First version)_
+1. [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash; the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-fir.md) _2018-02-06 13:49:17 (First version)_
 1. [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash; the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-firs.md) _(Current version)_
 
 ### Related:

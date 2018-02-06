@@ -16,7 +16,7 @@ A former security guard at an Argos catalogue store in London has defeated one o
 
 ### Changes:
 
-1. [Gambian presidential election, 2016: Opposition candidate Adama Barrow defeats Gambian President Yahya Jammeh, bringing an end to Jammeh's 22-year-rule in the West African nation. ](/news/2016/12/2/gambian-presidential-election-2016-opposition-candidate-adama-barrow-defeats-gambian-president-yahya-jammeh-bringing-an-end-to-jammeh-s-2.md) _2017-08-27 03:47:22 (First version)_
+1. [Gambian presidential election, 2016: Opposition candidate Adama Barrow defeats Gambian President Yahya Jammeh, bringing an end to Jammeh's 22-year-rule in the West African nation. ](/news/2016/12/2/gambian-presidential-election-2016-opposition-candidate-adama-barrow-defeats-gambian-president-yahya-jammeh-bringing-an-end-to-jammeh-s-2.md) _2018-02-06 13:49:30 (First version)_
 1. [Opposition candidate Adama Barrow defeats Gambian President Yahya Jammeh, bringing an end to Jammeh's 22-year-rule in the West African nation. ](/news/2016/12/2/opposition-candidate-adama-barrow-defeats-gambian-president-yahya-jammeh-bringing-an-end-to-jammeh-s-22-year-rule-in-the-west-african-natio.md) _(Current version)_
 
 ### Related:

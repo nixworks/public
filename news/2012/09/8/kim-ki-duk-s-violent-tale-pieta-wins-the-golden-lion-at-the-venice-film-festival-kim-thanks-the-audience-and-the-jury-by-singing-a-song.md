@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-
 
 ### Changes:
 
-1. [Kim Ki-duk's violent tale ''Pieta'' wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-son.md) _2017-08-25 03:36:27 (First version)_
+1. [Kim Ki-duk's violent tale ''Pieta'' wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-son.md) _2018-02-06 13:49:24 (First version)_
 1. [Kim Ki-duk's violent tale "Pieta" wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-song.md) _(Current version)_
 
 ### Related:

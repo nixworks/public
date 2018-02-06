@@ -1,43 +1,27 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/4/index.md)
+## [News](/news/2018/06/24/index.md)
 
-##### Cayce, South Carolina train collision
-### [An Amtrak passenger train collides with a freight train in Cayce, South Carolina and is derailed. Two people are killed. ](/news/2018/02/4/an-amtrak-passenger-train-collides-with-a-freight-train-in-cayce-south-carolina-and-is-derailed-two-people-are-killed.md)
-The train, which had been traveling between New York and Miami, had more than 140 passengers and crew on board.
+##### bomb
+### [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md)
+_Context: United Nations Interim Force in Lebanon, Colombia, Spanish, bomb_
 
-##### Anglo-Eastern Group
-### [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md)
-There has been no contact with the Marine Express and its Indian sailors since Thursday.
+##### storm
+### [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md)
+_Context: Pakistan, Karachi, storm_
 
-##### Israeli-Palestinian conflict
-### [The Cabinet of Israel decides to legalize a previously unauthorized outpost "deep inside the [occupied] West Bank", Havat Gilad, allegedly in reaction to the recent killing of an Israeli rabbi there. ](/news/2018/02/4/the-cabinet-of-israel-decides-to-legalize-a-previously-unauthorized-outpost-deep-inside-the-occupied-west-bank-havat-gilad-allegedly-i.md)
-Israeli authorities on Sunday tore down two EU-funded classrooms that were part of a school for Bedouins in the occupied West Bank because they said they were built illegally.
+##### Mauricio Macri
+### [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md)
+_Context: National Congress, Mauricio Macri, Boca Juniors, Argentina, Chief of Government of Buenos Aires_
 
-##### Costa Rican general election, 2018
-### [Costa Ricans head to the polls to elect a new President, amidst a gay rights controversy. ](/news/2018/02/4/costa-ricans-head-to-the-polls-to-elect-a-new-president-amidst-a-gay-rights-controversy.md)
-Costa Ricans went to the polls on Sunday to choose a new president in a race upended by a debate over same-sex marriage, as leading candidates in the crowded field fiercely opposed gay rights that have recently gained ground in Latin America.
+##### Ali Hassan al-Majid
+### [ Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. ](/news/2018/06/24/ali-hassan-al-majid-better-known-as-chemical-ali-is-sentenced-to-death-for-his-role-in-killing-180-000-kurds-under-saddam-hussein.md)
+Relatives of the victims of the man known as Chemical Ali are calling for him to be executed at one of the villages where he committed his crimes.
 
-##### Cypriot presidential election, 2018
-### [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md)
-Officials results show incumbent conservative comfortably ahead of leftist-backed independent rival Stavros Malas.
-
-##### Ecuadorian referendum and popular consultation, 2018
-### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)
-Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presidential re-election, with polls indicating the motion will likely pass and block former leftist President Rafael Correa from returning to power.
-
-##### Politics of Yemen
-### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Tawakkol Karman, Nobel Peace Prize, Politics of Yemen, Islah, Saudi-led intervention in Yemen_
-
-##### Macedonia naming dispute
-### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Athens, Cabinet of Greece, Macedonia naming dispute, Republic of Macedonia_
-
-##### Asteroid close approaches to Earth in 2018
-### [A ~600 meter asteroid named (276033) 2002 AJ makes a close approach to Earth of 0.028 Astronomical units (4.2 million km, 2.6 million mi). ](/news/2018/02/4/a-600-meter-asteroid-named-276033-2002-aj-makes-a-close-approach-to-earth-of-0-028-astronomical-units-4-2-million-km-2-6-million-mi.md)
-A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
+##### Gordon Brown
+### [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2018/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md)
+_Context: 27 June, Prime Minister, Gordon Brown, Labour Party, Tony Blair_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -45,67 +29,51 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2018/02/3/index.md)
+## [Yesterday](/news/2018/02/6/index.md)
+
+##### Freedom of the press in Turkey
+### [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md)
+Turkey has so far detained 573 people for social media posts and protests criticizing its military offensive in Syria, the government said on Monday.
+
+---
+
+## [Day Before Yesterday](/news/2018/02/5/index.md)
+
+##### Israeli-Palestinian conflict
+### [An Israeli man is stabbed to death by another man at a bus station outside the Israeli-occupied West Bank settlement of Ariel. ](/news/2018/02/5/an-israeli-man-is-stabbed-to-death-by-another-man-at-a-bus-station-outside-the-israeli-occupied-west-bank-settlement-of-ariel.md)
+A Palestinian stabbed and killed an Israeli man on Monday in a Jewish settlement in the occupied West Bank, Israeli officials said.
 
 ##### Syrian Civil War
-### [The London-based Syrian Observatory for Human Rights reports that unidentified rebel factions have shot down a Russian Sukhoi Su-25 jet over the Idlib Governorate, near Maarrat al-Nu'man, also killing its pilot. The pilot had escaped with his parachute but was killed on the ground while he fought with a pistol to evade capture. No groups claim responsibility. Russia's Ministry of Defence corroborates this version of events. ](/news/2018/02/3/the-london-based-syrian-observatory-for-human-rights-reports-that-unidentified-rebel-factions-have-shot-down-a-russian-sukhoi-su-25-jet-over.md)
-Syrian rebels have shot down a Russian jet over Idlib province and captured its pilot, according to a monitor. Syrian troops, backed by Russian air support, launched an offensive on rebel-held Idlib back in December.
+### [Syrian government airstrikes pound rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-including-four.md)
+Syrian Observatory for Human Rights says 4 children among dead after &#039;dozens&#039; of air raids by government forces
 
-##### War in North-West Pakistan
-### [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md)
-A suicide bomber killed at least 11 soldiers and injured 13 at an army camp in northwestern Pakistan on Saturday, the military said.
+##### Wall Street
+### [The Wall Street stock market sheds 4.6% of its value, with the Dow Jones Industrial Average dropping a record 1,175 points at close. At one point during the day, the benchmark index loses a record 1,579 points. ](/news/2018/02/5/the-wall-street-stock-market-sheds-4-6-of-its-value-with-the-dow-jones-industrial-average-dropping-a-record-1-175-points-at-close-at-one.md)
+Analysts say the fall actually stems from signs of improvement in the US economy.
 
-##### Crime in Italy
-### [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md)
-A man suspected of racially-motivated shootings that injure six is arrested in the town of Macerata.
+##### Brexit negotiations
+### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
+_Context: European Union, United Kingdom, Brexit, Theresa May, David Davis, Michel Barnier, Prime Minister, Brexit negotiations, Secretary of State for Exiting the European Union, London_
 
-##### 15760 Albion
-### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: Kuiper belt, 15760 Albion_
+##### 2017 Dutch-Turkish diplomatic incident
+### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
+Diplomatic relations plunge to new lows, as the Dutch ambassador is formally withdrawn.
 
----
+##### Crime in Kenya
+### [Esmond Bradley Martin, a world-renowned ivory investigator whose detailed reports contributed to the fight against elephant poaching and the illegal wildlife trade, is murdered at his home in Kenya. ](/news/2018/02/5/esmond-bradley-martin-a-world-renowned-ivory-investigator-whose-detailed-reports-contributed-to-the-fight-against-elephant-poaching-and-the.md)
+Esmond Bradley Martin, whose groundbreaking investigations helped the fight against elephant poaching, died after being stabbed at home in Nairobi
 
-## [Day Before Yesterday](/news/2018/02/2/index.md)
+##### Politics of the Maldives
+### [The President of the Maldives, Abdulla Yameen, declares a 15-day state of emergency. Security forces storm the Supreme Court of the Maldives in a bid to block the court-ordered release of jailed opposition politicians. Police arrest former President Maumoon Abdul Gayoom. ](/news/2018/02/5/the-president-of-the-maldives-abdulla-yameen-declares-a-15-day-state-of-emergency-security-forces-storm-the-supreme-court-of-the-maldives.md)
+Maumoon Abdul Gayoom is seized at his home as a political crisis grips the island nation.
 
-##### China-United Kingdom relations
-### [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md)
-There is no question that the Chinese leadership under President Xi Jinping has reneged on the Sino-British Joint Declaration of 1984 that promised Hong Kong freedom of speech and legal autonomy for 50 years after the 1997 handover from British to Chinese rule. Through repeated so-called “interpre...
-
-##### History of YouTube
-### [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md)
-YouTube says video-makers who damage the reputation of the site will face new consequences.
-
-##### 2018 Sibanye Gold incident
-### [All 955 South African miners, who were stuck in the Beatrix gold mine near Welkom in central Free State province since Wednesday, have been brought to the surface. Earlier, 65 other workers were rescued. No serious injuries have been reported. The accident apparently happened when a strong storm knocked over an electric power tower triggering the huge power cut. ](/news/2018/02/2/all-955-south-african-miners-who-were-stuck-in-the-beatrix-gold-mine-near-welkom-in-central-free-state-province-since-wednesday-have-been.md)
-The South African workers had been stuck since Wednesday, when a power cut stopped the lifts.
-
-##### Mexico-United States relations
-### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: 19th-century United States policy in Latin America, Luis Videgaray Caso, Canadian counterpart, Nicolas Maduro, Venezuelan Army, Mexico, United States Secretary of State, Mexico-United States relations, Secretary of Foreign Affairs, President, Chrystia Freeland, Rex Tillerson, Venezuela_
-
-##### Crime in France
-### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
-Tariq Ramadan, adviser to the UK government, held in custody over French hotel attack claims
-
-##### 2017 Finsbury Park attack
-### [As the sole perpetrator of the 19 June 2017 attack on Muslims in London, Darren Osborne is sentenced to life in prison after being found guilty of murder. ](/news/2018/02/2/as-the-sole-perpetrator-of-the-19-june-2017-attack-on-muslims-in-london-darren-osborne-is-sentenced-to-life-in-prison-after-being-found-gui.md)
-One person was killed and several others wounded when Osborne drove a vehicle into a group of people outside a mosque.
-
-##### 2017 Las Vegas shooting
-### [An Arizonan ammunition dealer is charged in a Nevada federal court with "conspiracy to manufacture and sell armor-piercing ammunition without a license" after his fingerprints were discovered on unfired armor-piercing ammunition inside Stephen Paddock's suite. ](/news/2018/02/2/an-arizonan-ammunition-dealer-is-charged-in-a-nevada-federal-court-with-conspiracy-to-manufacture-and-sell-armor-piercing-ammunition-withou.md)
-An ammunition dealer who has acknowledged selling hundreds of rounds of tracer bullets to a gunman responsible for killing 58 people in Las Vegas was charged on Friday with conspiracy to make and sell armor-piercing ammunition without a license.
-
-##### Nunes memo
-### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)
-The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
-
-##### Nuclear Posture Review
-### [The United States releases a new policy on nuclear arms, the first update since 2010. It calls for the introduction of two new types of weapons in the U.S. nuclear arsenal: low-yield nuclear submarine-launched ballistic (SLBM) and cruise (SLCM) missiles. ](/news/2018/02/2/the-united-states-releases-a-new-policy-on-nuclear-arms-the-first-update-since-2010-it-calls-for-the-introduction-of-two-new-types-of-weap.md)
-The Pentagon released a new nuclear arms policy Friday that calls for the introduction of two new types of weapons, effectively ending Obama-era efforts to reduce the size and scope of the U.S. ars…
+##### Chandra X-ray Observatory
+### [Scientists using data from the Chandra X-ray Observatory discover new exoplanets in galaxies beyond the Milky Way for the first time. ](/news/2018/02/5/scientists-using-data-from-the-chandra-x-ray-observatory-discover-new-exoplanets-in-galaxies-beyond-the-milky-way-for-the-first-time.md)
+A new study gives the first evidence that exoplanets exist beyond the Milky Way.
 
 ---
 
-## [Previous Day...](/news/2018/02/1/index.md)
+## [Previous Day...](/news/2018/02/4/index.md)
 
 ---
 

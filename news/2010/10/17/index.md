@@ -9,7 +9,7 @@ Gunmen shot dead at least 29 people in Pakistan&#039;s commercial hub Karachi, d
 
 ##### Quetta
 ### [15 people are killed in target killing in Quetta, Pakistan. ](/news/2010/10/17/15-people-are-killed-in-target-killing-in-quetta-pakistan.md)
-_Context: Pakistan, Quetta_
+_Context: Quetta, Pakistan_
 
 ##### Yemen
 ### [Yemen begins a ground and air campaign against al-Qaeda forces, killing at least 6; Western embassies in Yemen go on high security alert. ](/news/2010/10/17/yemen-begins-a-ground-and-air-campaign-against-al-qaeda-forces-killing-at-least-6-western-embassies-in-yemen-go-on-high-security-alert.md)
@@ -17,7 +17,7 @@ _Context: al-Qaeda, Yemen_
 
 ##### Vietnam International Film Festival
 ### [70 films from 23 countries and territorries will be shown during the first Vietnam International Film Festival opening in Hanoi. ](/news/2010/10/17/70-films-from-23-countries-and-territorries-will-be-shown-during-the-first-vietnam-international-film-festival-opening-in-hanoi.md)
-_Context: Vietnam International Film Festival, Hanoi_
+_Context: Hanoi, Vietnam International Film Festival_
 
 ##### German
 ### [Rare German stamps featuring film star Audrey Hepburn smoking fetch EUR430,000 at a charity auction in Berlin. ](/news/2010/10/17/rare-german-stamps-featuring-film-star-audrey-hepburn-smoking-fetch-a-430-000-at-a-charity-auction-in-berlin.md)
@@ -25,15 +25,15 @@ A rare sheet of 10 stamps showing film star Audrey Hepburn smoking fetches 430,0
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-the-vatican-cit.md)
-_Context: Vatican City, Australia, saint, Saint Peter's Square, Mary MacKillop, Pope Benedict XVI, canonize_
+_Context: Vatican City, canonize, Australia, saint, Saint Peter's Square, Pope Benedict XVI, Mary MacKillop_
 
 ##### General Motors
 ### [GM workers protest a drop in wages, from $58,000-year to $30,000-year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)
-_Context: General Motors, $50 billion government bailout, Mich., tax incentive, a new car plant_
+_Context: tax incentive, $50 billion government bailout, General Motors, Mich., a new car plant_
 
 ##### Hilton Hotels
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: United States, Honolulu, strike, San Francisco, Hilton Hotels, Chicago_
+_Context: San Francisco, Honolulu, Chicago, Hilton Hotels, strike, United States_
 
 ##### Philippines
 ### [The Philippines prepares for Typhoon Megi, potentially the strongest typhoon to hit the country this year. ](/news/2010/10/17/the-philippines-prepares-for-typhoon-megi-potentially-the-strongest-typhoon-to-hit-the-country-this-year.md)
@@ -41,7 +41,7 @@ Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, 
 
 ##### coal mine
 ### [Five more bodies are found after a gas leak in a coal mine in China's Henan province, bringing the death toll to 26. ](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.md)
-_Context: China, Henan, coal mine_
+_Context: Henan, coal mine, China_
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu says that Israel had recently renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit, who is being held incommunicado by Hamas. ](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.md)
@@ -57,11 +57,11 @@ _Context: Islamic Republic, Iran, Mahmoud Ahmadinejad_
 
 ##### Benjamin Netanyahu
 ### [A planned summit between Israeli Prime Minister Benjamin Netanyahu, Palestinian president Mahmoud Abbas, and Egyptian President Hosni Mubarak scheduled for October 21 in Paris is postponed amidst Palestinian ojections to a decision by Israel to construct 240 housing units in east Jerusalem](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.md)
-_Context: Mahmoud Abbas, Paris, Jerusalem, Hosni Mubarak, Israel, Benjamin Netanyahu_
+_Context: Mahmoud Abbas, Hosni Mubarak, Benjamin Netanyahu, Israel, Paris, Jerusalem_
 
 ##### racial profiling
 ### [An international report finds its most noticeable example of racial profiling is that black people are 26 times more likely than white people to be searched by police in England and Wales;  U.S. civil rights activist Jesse Jackson describes it as "astonishing". ](/news/2010/10/17/an-international-report-finds-its-most-noticeable-example-of-racial-profiling-is-that-black-people-are-26-times-more-likely-than-white-peopl.md)
-_Context: Jesse Jackson, England, Wales, racial profiling_
+_Context: Wales, England, racial profiling, Jesse Jackson_
 
 ##### Angela Merkel
 ### [Angela Merkel claims that multicultural society has "failed" in a Potsdam speech before younger activist members of the conservative Christian Democratic Union (CDU) party. ](/news/2010/10/17/angela-merkel-claims-that-multicultural-society-has-failed-in-a-potsdam-speech-before-younger-activist-members-of-the-conservative-christi.md)
@@ -73,7 +73,7 @@ _Context: Chandra Levy, El Salvador_
 
 ##### Somalia
 ### [Somali pirates hijack a South Korean owned Kenyan registered fishing boat with 43 crew aboard. ](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.md)
-_Context: Kenya, fishing boat, Somalia, South Korea, Somali pirates_
+_Context: South Korea, fishing boat, Somalia, Somali pirates, Kenya_
 
 ##### jewellery
 ### [At least twelve people die when gunmen try to rob jewellery shops in Baghdad, Iraq and get into a gunfight with security, police and military. ](/news/2010/10/17/at-least-twelve-people-die-when-gunmen-try-to-rob-jewellery-shops-in-baghdad-iraq-and-get-into-a-gunfight-with-security-police-and-militar.md)
@@ -81,7 +81,7 @@ At least 12 people died when gunmen swooped on a row of goldsmiths&#039; shops i
 
 ##### Rwanda
 ### [A Rwandan opposition party, the United Democratic Forces, says that their, leader Victoire Ingabire Umuhoza, arrested last week, is being held in "intolerable and immoral" conditions without food or water. ](/news/2010/10/17/a-rwandan-opposition-party-the-united-democratic-forces-says-that-their-leader-victoire-ingabire-umuhoza-arrested-last-week-is-being-he.md)
-_Context: United Democratic Forces, Victoire Ingabire, Rwanda_
+_Context: Rwanda, United Democratic Forces, Victoire Ingabire_
 
 ##### Iraq Prime Minister
 ### [Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. ](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.md)
@@ -89,19 +89,19 @@ _Context: Ayad Allawi, Iran, Middle East, Iraq Prime Minister_
 
 ##### Iran
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Hossein Zolfaqari, Iran, Afghanistan_
+_Context: Iran, Afghanistan, Hossein Zolfaqari_
 
 ##### Rome, Italy
 ### [Tens of thousands of people rally in Rome against a weakening of labour rights being carried out by the country's government; rumours spread by politicians of clashes caused by "anarchist infiltration" prove unfounded. ](/news/2010/10/17/tens-of-thousands-of-people-rally-in-rome-against-a-weakening-of-labour-rights-being-carried-out-by-the-country-s-government-rumours-spread.md)
 _Context: Rome, Italy_
 
-##### British
+##### United Kingdom
 ### [The U.K. government urges councils to stop giving charity tax breaks to Scientology, an organization described as a cult by a high court judge. ](/news/2010/10/17/the-u-k-government-urges-councils-to-stop-giving-charity-tax-breaks-to-scientology-an-organization-described-as-a-cult-by-a-high-court-jud.md)
-_Context: cult, British, Scientology_
+_Context: cult, United Kingdom, Scientology_
 
 ##### Olive Lembe di Sita
 ### [Olive Lembe di Sita, the First Lady of the Democratic Republic of the Congo, leads a march of thousands of women against sexual violence in the town of Bukavu in the east of the country where hundreds of women have been raped. ](/news/2010/10/17/olive-lembe-di-sita-the-first-lady-of-the-democratic-republic-of-the-congo-leads-a-march-of-thousands-of-women-against-sexual-violence-in.md)
-_Context: sexual violence, Olive Lembe di Sita, DR Congo, First Lady, Bukavu_
+_Context: First Lady, Bukavu, sexual violence, Olive Lembe di Sita, DR Congo_
 
 ##### drought
 ### [A prolonged drought in the Amazon region forces Brazil to declare a state of emergency in 25 towns. ](/news/2010/10/17/a-prolonged-drought-in-the-amazon-region-forces-brazil-to-declare-a-state-of-emergency-in-25-towns.md)

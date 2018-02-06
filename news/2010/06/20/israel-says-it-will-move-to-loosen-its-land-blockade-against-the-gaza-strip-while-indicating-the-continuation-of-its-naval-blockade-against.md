@@ -19,8 +19,8 @@ Germany sharply criticized Israel on Sunday for denying its development minister
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israeliapalestinian-conflict-pisrael-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuati.md) _2017-08-25 03:28:21 (First version)_
-2. [Israeli-Palestinian conflict:: Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israeli-palestinian-conflict-israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuat.md) _2017-08-27 03:28:21 (Update)_
+1. [Israeli-Palestinian conflict:Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israeliapalestinian-conflict-pisrael-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuati.md) _2018-02-06 13:49:20 (First version)_
+2. [Israeli-Palestinian conflict:: Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israeli-palestinian-conflict-israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuat.md) _2018-02-06 13:49:20 (Update)_
 2. [Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuation-of-its-naval-blockade-against.md) _(Current version)_
 
 ### Related:

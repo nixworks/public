@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-rep
 
 ### Changes:
 
-1. [ Wu Shu-chen, the wife of the President of the Republic of China, is indicted on corruption charges by Taiwan prosecutors. President Chen Shui-bian is not indicted due to presidential immunity, but prosecutors say he will be charged once he is no longer president. ](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-republic-of-china-is-indicted-on-corruption-charges-by-taiwan-prosecutors-president-chen-s.md) _2017-08-25 03:18:42 (First version)_
+1. [ Wu Shu-chen, the wife of the President of the Republic of China, is indicted on corruption charges by Taiwan prosecutors. President Chen Shui-bian is not indicted due to presidential immunity, but prosecutors say he will be charged once he is no longer president. ](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-republic-of-china-is-indicted-on-corruption-charges-by-taiwan-prosecutors-president-chen-s.md) _2018-02-06 13:49:17 (First version)_
 1. [ Wu Shu-chen, the wife of the President of the Republic of China, is indicted on corruption charges by Taiwan prosecutors. President Chen Shui-bian is not indicted due to presidential immunity, but prosecutors say he will be charged once he is no longer president. ](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-republic-of-china-is-indicted-on-corruption-charges-by-taiwan-prosecutors-president-chen-sh.md) _(Current version)_
 
 ### Related:

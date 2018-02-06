@@ -16,8 +16,8 @@ Trump vowed to &quot;totally destroy&quot; North Korea unless the nation curbs i
 
 ### Changes:
 
-1. [The seventy-second session of the United Nations General Assembly commences its General Debate in Manhattan, New York. ](/news/2017/09/19/the-seventy-second-session-of-the-united-nations-general-assembly-commences-its-general-debate-in-manhattan-new-york.md) _2017-09-20 16:30:05 (First version)_
-2. [The seventy-second session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York. ](/news/2017/09/19/the-seventy-second-session-of-the-united-nations-general-assembly-commences-its-general-debate-at-the-united-nations-headquarters-in-manhatt.md) _2017-09-20 17:30:05 (Update)_
+1. [The seventy-second session of the United Nations General Assembly commences its General Debate in Manhattan, New York. ](/news/2017/09/19/the-seventy-second-session-of-the-united-nations-general-assembly-commences-its-general-debate-in-manhattan-new-york.md) _2018-02-06 13:49:31 (First version)_
+2. [The seventy-second session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York. ](/news/2017/09/19/the-seventy-second-session-of-the-united-nations-general-assembly-commences-its-general-debate-at-the-united-nations-headquarters-in-manhatt.md) _2018-02-06 13:49:31 (Update)_
 2. [The 72nd session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York. ](/news/2017/09/19/the-72nd-session-of-the-united-nations-general-assembly-commences-its-general-debate-at-the-united-nations-headquarters-in-manhattan-new-yo.md) _(Current version)_
 
 ### Related:

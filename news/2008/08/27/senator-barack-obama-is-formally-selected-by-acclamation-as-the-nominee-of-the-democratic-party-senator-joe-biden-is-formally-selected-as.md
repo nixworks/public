@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/08/27/senator-barack-obama-is-formally-selected-by-ac
 
 ### Changes:
 
-1. [ U.S. presidential election: Senator Barack Obama is formally selected by acclamation as the nominee of the Democratic Party. Senator Joe Biden is formally selected as the vice presidential Democratic nominee in the same manner by acclamation. ](/news/2008/08/27/u-s-presidential-election-senator-barack-obama-is-formally-selected-by-acclamation-as-the-nominee-of-the-democratic-party-senator-joe-b.md) _2017-08-25 03:22:46 (First version)_
+1. [ U.S. presidential election: Senator Barack Obama is formally selected by acclamation as the nominee of the Democratic Party. Senator Joe Biden is formally selected as the vice presidential Democratic nominee in the same manner by acclamation. ](/news/2008/08/27/u-s-presidential-election-senator-barack-obama-is-formally-selected-by-acclamation-as-the-nominee-of-the-democratic-party-senator-joe-b.md) _2018-02-06 13:49:18 (First version)_
 1. [ Senator Barack Obama is formally selected by acclamation as the nominee of the Democratic Party. Senator Joe Biden is formally selected as the vice presidential Democratic nominee in the same manner by acclamation. ](/news/2008/08/27/senator-barack-obama-is-formally-selected-by-acclamation-as-the-nominee-of-the-democratic-party-senator-joe-biden-is-formally-selected-as.md) _(Current version)_
 
 ### Related:

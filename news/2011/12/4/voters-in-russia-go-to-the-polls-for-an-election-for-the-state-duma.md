@@ -18,8 +18,8 @@ United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered
 
 ### Changes:
 
-1. [Russian election:Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-pvoters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _2017-08-25 03:34:34 (First version)_
-2. [Russian election:: Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-voters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _2017-08-27 03:34:44 (Update)_
+1. [Russian election:: Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-voters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _2018-02-06 13:49:23 (First version)_
+2. [Russian election:Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-pvoters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _2018-02-06 13:49:23 (Update)_
 2. [Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/voters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md) _(Current version)_
 
 ### Related:

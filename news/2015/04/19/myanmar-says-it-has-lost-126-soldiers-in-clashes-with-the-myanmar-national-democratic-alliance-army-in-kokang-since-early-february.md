@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/19/myanmar-says-it-has-lost-126-soldiers-in-clashe
 
 ### Changes:
 
-1. [Internal conflict in Burma: Myanmar says it has lost 126 soldiers in clashes with the Myanmar National Democratic Alliance Army in Kokang since early February. ](/news/2015/04/19/internal-conflict-in-burma-myanmar-says-it-has-lost-126-soldiers-in-clashes-with-the-myanmar-national-democratic-alliance-army-in-kokang-si.md) _2017-08-27 03:42:13 (First version)_
+1. [Internal conflict in Burma: Myanmar says it has lost 126 soldiers in clashes with the Myanmar National Democratic Alliance Army in Kokang since early February. ](/news/2015/04/19/internal-conflict-in-burma-myanmar-says-it-has-lost-126-soldiers-in-clashes-with-the-myanmar-national-democratic-alliance-army-in-kokang-si.md) _2018-02-06 13:49:27 (First version)_
 1. [Myanmar says it has lost 126 soldiers in clashes with the Myanmar National Democratic Alliance Army in Kokang since early February. ](/news/2015/04/19/myanmar-says-it-has-lost-126-soldiers-in-clashes-with-the-myanmar-national-democratic-alliance-army-in-kokang-since-early-february.md) _(Current version)_
 
 ### Related:

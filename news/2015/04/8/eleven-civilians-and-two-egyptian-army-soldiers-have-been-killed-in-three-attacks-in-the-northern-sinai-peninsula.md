@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/8/eleven-civilians-and-two-egyptian-army-soldiers-
 
 ### Changes:
 
-1. [Sinai insurgency: Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/sinai-insurgency-eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md) _2017-08-27 03:42:10 (First version)_
+1. [Sinai insurgency: Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/sinai-insurgency-eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md) _2018-02-06 13:49:27 (First version)_
 1. [Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md) _(Current version)_
 
 ### Related:

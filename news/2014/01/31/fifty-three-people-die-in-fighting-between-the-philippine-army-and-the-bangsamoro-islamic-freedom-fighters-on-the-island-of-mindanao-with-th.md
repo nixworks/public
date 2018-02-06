@@ -16,7 +16,7 @@ MANILA, Jan 31 - Three child soldiers recruited by hardline Muslim rebels were a
 
 ### Changes:
 
-1. [Moro insurgency in the Philippines: Fifty-three people die in fighting between the Philippine Army and the Bangsamoro Islamic Freedom Fighters on the island of Mindanao with the dead including 52 rebels and one soldier over the past week. ](/news/2014/01/31/moro-insurgency-in-the-philippines-fifty-three-people-die-in-fighting-between-the-philippine-army-and-the-bangsamoro-islamic-freedom-fighte.md) _2017-08-27 03:40:15 (First version)_
+1. [Moro insurgency in the Philippines: Fifty-three people die in fighting between the Philippine Army and the Bangsamoro Islamic Freedom Fighters on the island of Mindanao with the dead including 52 rebels and one soldier over the past week. ](/news/2014/01/31/moro-insurgency-in-the-philippines-fifty-three-people-die-in-fighting-between-the-philippine-army-and-the-bangsamoro-islamic-freedom-fighte.md) _2018-02-06 13:49:25 (First version)_
 1. [Fifty-three people die in fighting between the Philippine Army and the Bangsamoro Islamic Freedom Fighters on the island of Mindanao with the dead including 52 rebels and one soldier over the past week. ](/news/2014/01/31/fifty-three-people-die-in-fighting-between-the-philippine-army-and-the-bangsamoro-islamic-freedom-fighters-on-the-island-of-mindanao-with-th.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/10/government-aligned-militias-kill-16-people-duri
 
 ### Changes:
 
-1. [South Sudanese Civil War: Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/south-sudanese-civil-war-government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md) _2017-08-27 03:48:08 (First version)_
+1. [South Sudanese Civil War: Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/south-sudanese-civil-war-government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md) _2018-02-06 13:49:30 (First version)_
 1. [Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md) _(Current version)_
 
 ### Related:

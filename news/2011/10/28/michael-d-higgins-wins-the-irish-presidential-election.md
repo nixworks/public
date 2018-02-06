@@ -21,8 +21,8 @@ Michael D. Higgins will become Ireland&#039;s next president after his main riva
 
 ### Changes:
 
-1. [Elections in Ireland:Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/elections-in-ireland-pmichael-d-higgins-wins-the-irish-presidential-election.md) _2017-08-25 03:34:24 (First version)_
-2. [Elections in Ireland:: Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/elections-in-ireland-michael-d-higgins-wins-the-irish-presidential-election.md) _2017-08-27 03:34:33 (Update)_
+1. [Elections in Ireland:Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/elections-in-ireland-pmichael-d-higgins-wins-the-irish-presidential-election.md) _2018-02-06 13:49:23 (First version)_
+2. [Elections in Ireland:: Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/elections-in-ireland-michael-d-higgins-wins-the-irish-presidential-election.md) _2018-02-06 13:49:23 (Update)_
 2. [Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/michael-d-higgins-wins-the-irish-presidential-election.md) _(Current version)_
 
 ### Related:

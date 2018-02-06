@@ -19,9 +19,9 @@ Three attackers killed seven people and injured 48 others near London Bridge. Th
 
 ### Changes:
 
-1. [ In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions, and another at The Shard. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-and-another-at-the.md) _2017-06-04 03:50:43 (First version)_
-2. [ In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-p.md) _2017-08-25 03:47:59 (Update)_
-3. [ June 2017 London attack: In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/june-2017-london-attack-in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosi.md) _2017-08-27 03:48:25 (Update)_
+1. [ June 2017 London attack: In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/june-2017-london-attack-in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosi.md) _2018-02-06 13:49:30 (First version)_
+2. [ In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-p.md) _2018-02-06 13:49:30 (Update)_
+3. [ In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions, and another at The Shard. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-and-another-at-the.md) _2018-02-06 13:49:30 (Update)_
 3. [ In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-po.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/10/30/the-iranian-funded-shi-ite-al-mukhtar-army-clai
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/iraqi-civil-war-2014-present-the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near.md) _2017-08-27 03:43:36 (First version)_
+1. [Iraqi Civil War (2014-present): The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/iraqi-civil-war-2014-present-the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near.md) _2018-02-06 13:49:28 (First version)_
 1. [The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near-the-baghdad-international-airport.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Larry Hagman, who played evil oil baron J.R. Ewing, died in a Dallas hospital wi
 
 ### Changes:
 
-1. [American actor Larry Hagman, best known for starring roles in ''Dallas'', ''I Dream of Jeannie'', and the 2012 revival of ''Dallas'', dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-f.md) _2017-08-25 03:36:52 (First version)_
+1. [American actor Larry Hagman, best known for starring roles in ''Dallas'', ''I Dream of Jeannie'', and the 2012 revival of ''Dallas'', dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-f.md) _2018-02-06 13:49:24 (First version)_
 1. [American actor Larry Hagman, best known for starring roles in "Dallas", "I Dream of Jeannie", and the 2012 revival of "Dallas", dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.md) _(Current version)_
 
 ### Related:

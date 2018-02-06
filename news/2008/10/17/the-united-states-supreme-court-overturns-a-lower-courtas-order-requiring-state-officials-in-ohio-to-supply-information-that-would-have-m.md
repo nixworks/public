@@ -16,7 +16,7 @@ The Supreme Court overturned a lower court’s order that would have made challe
 
 ### Changes:
 
-1. [ The United States Supreme Court overturns a lower court-s order requiring state officials in Ohio to supply information that would have made it easier to challenge prospective voters. ](/news/2008/10/17/the-united-states-supreme-court-overturns-a-lower-court-s-order-requiring-state-officials-in-ohio-to-supply-information-that-would-have-m.md) _2017-08-27 03:22:57 (First version)_
+1. [ The United States Supreme Court overturns a lower court-s order requiring state officials in Ohio to supply information that would have made it easier to challenge prospective voters. ](/news/2008/10/17/the-united-states-supreme-court-overturns-a-lower-court-s-order-requiring-state-officials-in-ohio-to-supply-information-that-would-have-m.md) _2018-02-06 13:49:18 (First version)_
 1. [ The United States Supreme Court overturns a lower court's order requiring state officials in Ohio to supply information that would have made it easier to challenge prospective voters. ](/news/2008/10/17/the-united-states-supreme-court-overturns-a-lower-courtas-order-requiring-state-officials-in-ohio-to-supply-information-that-would-have-m.md) _(Current version)_
 
 ### Related:

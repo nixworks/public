@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/05/9/naxalite-maoists-are-holding-250-villagers-hosta
 
 ### Changes:
 
-1. [Naxalite-Maoist insurgency: Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoist-insurgency-naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh.md) _2017-08-27 03:42:17 (First version)_
+1. [Naxalite-Maoist insurgency: Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoist-insurgency-naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh.md) _2018-02-06 13:49:27 (First version)_
 1. [Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh-state.md) _(Current version)_
 
 ### Related:

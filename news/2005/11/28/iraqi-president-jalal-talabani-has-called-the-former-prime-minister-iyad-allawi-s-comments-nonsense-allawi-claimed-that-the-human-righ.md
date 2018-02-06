@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/11/28/iraqi-president-jalal-talabani-has-called-the-f
 
 ### Changes:
 
-1. [ Iraqi President Jalal Talabani has called the former prime minister Iyad Allawi's comments "''nonsense''". Allawi claimed that the human rights abuses in Iraq were as bad now as they were under Saddam Hussein. Talabani stated that the government was against any form of torture or harming of Prisoners. ](/news/2005/11/28/iraqi-president-jalal-talabani-has-called-the-former-prime-minister-iyad-allawi-s-comments-nonsense-allawi-claimed-that-the-human-r.md) _2017-08-25 03:17:10 (First version)_
+1. [ Iraqi President Jalal Talabani has called the former prime minister Iyad Allawi's comments "''nonsense''". Allawi claimed that the human rights abuses in Iraq were as bad now as they were under Saddam Hussein. Talabani stated that the government was against any form of torture or harming of Prisoners. ](/news/2005/11/28/iraqi-president-jalal-talabani-has-called-the-former-prime-minister-iyad-allawi-s-comments-nonsense-allawi-claimed-that-the-human-r.md) _2018-02-06 13:49:16 (First version)_
 1. [ Iraqi President Jalal Talabani has called the former prime minister Iyad Allawi's comments ""nonsense"". Allawi claimed that the human rights abuses in Iraq were as bad now as they were under Saddam Hussein. Talabani stated that the government was against any form of torture or harming of Prisoners. ](/news/2005/11/28/iraqi-president-jalal-talabani-has-called-the-former-prime-minister-iyad-allawi-s-comments-nonsense-allawi-claimed-that-the-human-righ.md) _(Current version)_
 
 ### Related:

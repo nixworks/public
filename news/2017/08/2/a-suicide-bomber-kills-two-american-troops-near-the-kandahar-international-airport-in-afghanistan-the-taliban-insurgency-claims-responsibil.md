@@ -16,7 +16,7 @@ A suicide bomb attack killed two American troops in Afghanistan on Wednesday as 
 
 ### Changes:
 
-1. [War in Afghanistan: A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/war-in-afghanistan-a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgenc.md) _2017-08-27 03:48:45 (First version)_
+1. [War in Afghanistan: A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/war-in-afghanistan-a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgenc.md) _2018-02-06 13:49:31 (First version)_
 1. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _(Current version)_
 
 ### Related:

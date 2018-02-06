@@ -18,8 +18,8 @@ Australia&#039;s main base in Afghanistan will close by the end of the year, wit
 
 ### Changes:
 
-1. [War in Afghanistan:Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/war-in-afghanistan-paustralia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-return.md) _2017-08-25 03:38:01 (First version)_
-2. [War in Afghanistan:: Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/war-in-afghanistan-australia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-retur.md) _2017-08-27 03:38:13 (Update)_
+1. [War in Afghanistan:Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/war-in-afghanistan-paustralia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-return.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan:: Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/war-in-afghanistan-australia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-retur.md) _2018-02-06 13:49:24 (Update)_
 2. [Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/australia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-returning-home-by-the-end.md) _(Current version)_
 
 ### Related:

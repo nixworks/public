@@ -26,8 +26,8 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ### Changes:
 
-1. [Middle East:Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/middle-east-pcomplaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-du.md) _2017-08-25 03:27:25 (First version)_
-2. [Middle East:: Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/middle-east-complaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-d.md) _2017-08-27 03:27:20 (Update)_
+1. [Middle East:Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/middle-east-pcomplaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-du.md) _2018-02-06 13:49:19 (First version)_
+2. [Middle East:: Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/middle-east-complaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-d.md) _2018-02-06 13:49:19 (Update)_
 2. [Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/complaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-during-a-progra.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ At least six people killed by bomb-laden vehicle in Mogadishu, according to poli
 
 ### Changes:
 
-1. [War in Somalia (2009-present): A vehicle filled with explosives detonates near a hotel in Mogadishu, killing at least six people and wounding four others. ](/news/2017/03/13/war-in-somalia-2009-present-a-vehicle-filled-with-explosives-detonates-near-a-hotel-in-mogadishu-killing-at-least-six-people-and-wound.md) _2017-08-27 03:47:59 (First version)_
+1. [War in Somalia (2009-present): A vehicle filled with explosives detonates near a hotel in Mogadishu, killing at least six people and wounding four others. ](/news/2017/03/13/war-in-somalia-2009-present-a-vehicle-filled-with-explosives-detonates-near-a-hotel-in-mogadishu-killing-at-least-six-people-and-wound.md) _2018-02-06 13:49:30 (First version)_
 1. [A vehicle filled with explosives detonates near a hotel in Mogadishu, killing at least six people and wounding four others. ](/news/2017/03/13/a-vehicle-filled-with-explosives-detonates-near-a-hotel-in-mogadishu-killing-at-least-six-people-and-wounding-four-others.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94
 
 ### Changes:
 
-1. [2014 Pacific typhoon season: The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/2014-pacific-typhoon-season-the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md) _2017-08-27 03:41:01 (First version)_
+1. [2014 Pacific typhoon season: The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/2014-pacific-typhoon-season-the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md) _2018-02-06 13:49:26 (First version)_
 1. [The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md) _(Current version)_
 
 ### Related:

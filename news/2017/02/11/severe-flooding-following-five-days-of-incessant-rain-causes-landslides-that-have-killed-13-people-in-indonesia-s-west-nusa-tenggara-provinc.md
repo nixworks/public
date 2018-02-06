@@ -16,7 +16,7 @@ JAKARTA, Indonesia (AP) — Up to 40,000 people were caught in severe flooding f
 
 ### Changes:
 
-1. [Severe flooding following five days of incessant rain causes landslides that have killed 13 people in Indonesia's West Nusa Tenggara Province. ](/news/2017/02/11/severe-flooding-following-five-days-of-incessant-rain-causes-landslides-that-have-killed-13-people-in-indonesia-s-west-nusa-tenggara-provin.md) _2017-08-25 03:47:23 (First version)_
+1. [Severe flooding following five days of incessant rain causes landslides that have killed 13 people in Indonesia's West Nusa Tenggara Province. ](/news/2017/02/11/severe-flooding-following-five-days-of-incessant-rain-causes-landslides-that-have-killed-13-people-in-indonesia-s-west-nusa-tenggara-provin.md) _2018-02-06 13:49:30 (First version)_
 1. [Severe flooding following five days of incessant rain causes landslides that have killed 13 people in Indonesia's West Nusa Tenggara Province. ](/news/2017/02/11/severe-flooding-following-five-days-of-incessant-rain-causes-landslides-that-have-killed-13-people-in-indonesia-s-west-nusa-tenggara-provinc.md) _(Current version)_
 
 ### Related:

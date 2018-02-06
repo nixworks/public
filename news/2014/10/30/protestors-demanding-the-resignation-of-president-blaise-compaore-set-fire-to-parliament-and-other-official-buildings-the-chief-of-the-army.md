@@ -16,7 +16,7 @@ There have been continuing protests in Burkina Faso against President Blaise Com
 
 ### Changes:
 
-1. [2014 Burkinab uprising: Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. ](/news/2014/10/30/2014-burkinabe-uprising-protestors-demanding-the-resignation-of-president-blaise-compaore-set-fire-to-parliament-and-other-official-buildin.md) _2017-08-27 03:41:27 (First version)_
+1. [2014 Burkinab uprising: Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. ](/news/2014/10/30/2014-burkinabe-uprising-protestors-demanding-the-resignation-of-president-blaise-compaore-set-fire-to-parliament-and-other-official-buildin.md) _2018-02-06 13:49:26 (First version)_
 1. [Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. ](/news/2014/10/30/protestors-demanding-the-resignation-of-president-blaise-compaore-set-fire-to-parliament-and-other-official-buildings-the-chief-of-the-army.md) _(Current version)_
 
 ### Related:

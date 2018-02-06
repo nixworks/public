@@ -16,7 +16,7 @@ Syrian government forces have regained control of a military airbase on the east
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army backed by Hezbollah fighters retakes a key airbase on the eastern outskirts of Damascus. The Marj al-Sultan airbase had been under rebel control since November 2012. ](/news/2015/12/14/syrian-civil-war-the-syrian-army-backed-by-hezbollah-fighters-retakes-a-key-airbase-on-the-eastern-outskirts-of-damascus-the-marj-al-sulta.md) _2017-08-27 03:44:21 (First version)_
+1. [Syrian Civil War: The Syrian Army backed by Hezbollah fighters retakes a key airbase on the eastern outskirts of Damascus. The Marj al-Sultan airbase had been under rebel control since November 2012. ](/news/2015/12/14/syrian-civil-war-the-syrian-army-backed-by-hezbollah-fighters-retakes-a-key-airbase-on-the-eastern-outskirts-of-damascus-the-marj-al-sulta.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army backed by Hezbollah fighters retakes a key airbase on the eastern outskirts of Damascus. The Marj al-Sultan airbase had been under rebel control since November 2012. ](/news/2015/12/14/the-syrian-army-backed-by-hezbollah-fighters-retakes-a-key-airbase-on-the-eastern-outskirts-of-damascus-the-marj-al-sultan-airbase-had-been.md) _(Current version)_
 
 ### Related:

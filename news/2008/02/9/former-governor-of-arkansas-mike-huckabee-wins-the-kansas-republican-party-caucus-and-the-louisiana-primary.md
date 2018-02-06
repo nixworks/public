@@ -19,9 +19,9 @@ Formats: [HTML](/news/2008/02/9/former-governor-of-arkansas-mike-huckabee-wins-t
 
 ### Changes:
 
-1. [ United States presidential election, 2008: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-p-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-loui.md) _2017-05-25 03:22:16 (First version)_
-2. [ United States presidential election, 2008: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-p-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md) _2017-08-25 03:21:45 (Update)_
-3. [ United States presidential election, 2008:: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md) _2017-08-27 03:21:39 (Update)_
+1. [ United States presidential election, 2008: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-p-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md) _2018-02-06 13:49:18 (First version)_
+2. [ United States presidential election, 2008: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-p-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-loui.md) _2018-02-06 13:49:18 (Update)_
+3. [ United States presidential election, 2008:: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md) _2018-02-06 13:49:18 (Update)_
 3. [ Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louisiana-primary.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Dozens of Fijian U.N. peacekeepers, released by al Qaeda-linked group Nusra Fron
 
 ### Changes:
 
-1. [Syrian Civil War:The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. ](/news/2014/09/11/syrian-civil-war-pthe-al-qaeda-linked-nusra-front-releases-dozens-of-fijian-united-nations-peacekeepers-captured-near-the-golan-heights.md) _2017-08-25 03:40:57 (First version)_
-2. [Syrian Civil War:: The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. ](/news/2014/09/11/syrian-civil-war-the-al-qaeda-linked-nusra-front-releases-dozens-of-fijian-united-nations-peacekeepers-captured-near-the-golan-heights.md) _2017-08-27 03:41:16 (Update)_
+1. [Syrian Civil War:: The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. ](/news/2014/09/11/syrian-civil-war-the-al-qaeda-linked-nusra-front-releases-dozens-of-fijian-united-nations-peacekeepers-captured-near-the-golan-heights.md) _2018-02-06 13:49:26 (First version)_
+2. [Syrian Civil War:The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. ](/news/2014/09/11/syrian-civil-war-pthe-al-qaeda-linked-nusra-front-releases-dozens-of-fijian-united-nations-peacekeepers-captured-near-the-golan-heights.md) _2018-02-06 13:49:26 (Update)_
 2. [The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. ](/news/2014/09/11/the-al-qaeda-linked-nusra-front-releases-dozens-of-fijian-united-nations-peacekeepers-captured-near-the-golan-heights.md) _(Current version)_
 
 ### Related:

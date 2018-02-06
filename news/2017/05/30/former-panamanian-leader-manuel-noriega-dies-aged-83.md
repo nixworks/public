@@ -15,8 +15,8 @@ Formats: [HTML](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-ag
 
 ### Changes:
 
-1. [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md) _2017-05-31 10:30:06 (First version)_
-2. [Former Panama leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies-aged-83.md) _2017-05-31 20:30:06 (Update)_
+1. [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md) _2018-02-06 13:49:30 (First version)_
+2. [Former Panama leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies-aged-83.md) _2018-02-06 13:49:30 (Update)_
 2. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _(Current version)_
 
 ### Related:

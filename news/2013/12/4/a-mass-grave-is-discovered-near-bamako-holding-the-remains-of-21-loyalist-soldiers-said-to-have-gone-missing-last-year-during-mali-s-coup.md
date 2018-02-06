@@ -16,8 +16,8 @@ Twenty-one skulls believed to be the remains of soldiers loyal to ousted former 
 
 ### Changes:
 
-1. [Northern Mali:A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/northern-mali-pa-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-during.md) _2017-08-25 03:39:37 (First version)_
-2. [Northern Mali:: A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/northern-mali-a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-durin.md) _2017-08-27 03:39:55 (Update)_
+1. [Northern Mali:A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/northern-mali-pa-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-during.md) _2018-02-06 13:49:25 (First version)_
+2. [Northern Mali:: A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/northern-mali-a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-durin.md) _2018-02-06 13:49:25 (Update)_
 2. [A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-during-mali-s-coup.md) _(Current version)_
 
 ### Related:

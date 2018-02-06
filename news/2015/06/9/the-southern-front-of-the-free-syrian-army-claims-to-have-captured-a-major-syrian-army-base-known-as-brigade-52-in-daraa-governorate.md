@@ -16,7 +16,7 @@ Rebels in Syria say they have captured a major army base in the south of the cou
 
 ### Changes:
 
-1. [Syrian Civil War: The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/syrian-civil-war-the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-g.md) _2017-08-27 03:42:30 (First version)_
+1. [Syrian Civil War: The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/syrian-civil-war-the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-g.md) _2018-02-06 13:49:27 (First version)_
 1. [The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-governorate.md) _(Current version)_
 
 ### Related:

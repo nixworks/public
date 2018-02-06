@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/28/syrian-rebels-claim-taking-control-of-a-militar
 
 ### Changes:
 
-1. [Syrian civil war:Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-psyrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jor.md) _2017-08-25 03:39:20 (First version)_
-2. [Syrian civil war:: Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jo.md) _2017-08-27 03:39:37 (Update)_
+1. [Syrian civil war:: Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jo.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-psyrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jor.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jordan-after-four-day.md) _(Current version)_
 
 ### Related:

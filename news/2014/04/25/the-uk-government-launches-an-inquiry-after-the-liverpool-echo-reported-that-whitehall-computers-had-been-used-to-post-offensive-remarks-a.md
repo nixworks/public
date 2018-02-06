@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the
 
 ### Changes:
 
-1. [The UK government launches an inquiry after the ''Liverpool Echo'' reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks.md) _2017-08-25 03:40:20 (First version)_
+1. [The UK government launches an inquiry after the ''Liverpool Echo'' reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks.md) _2018-02-06 13:49:26 (First version)_
 1. [The UK government launches an inquiry after the "Liverpool Echo" reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks-a.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Pope Benedict XVI sends his first much-anticipated Twitter message using the han
 
 ### Changes:
 
-1. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account ({{twitter|pontifex|Pope Benedict XVI}}). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-twitter-pontifex-pope-benedict-xvi.md) _2017-05-01 03:39:49 (First version)_
-2. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex|Pope Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-pope-benedict-xvi.md) _2017-08-29 03:37:01 (Update)_
+1. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account ({{twitter|pontifex|Pope Benedict XVI}}). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-twitter-pontifex-pope-benedict-xvi.md) _2018-02-06 13:49:24 (First version)_
+2. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex|Pope Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-pope-benedict-xvi.md) _2018-02-06 13:49:24 (Update)_
 2. [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-benedict-xvi.md) _(Current version)_
 
 ### Related:

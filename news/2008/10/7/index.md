@@ -5,15 +5,15 @@ Formats: [HTML](2008/10/7/index.html)  [JSON](2008/10/7/index.json)  [XML](2008/
 
 ##### Portugal
 ### [ Portugal recognizes Kosovo.](/news/2008/10/7/portugal-recognizes-kosovo.md)
-_Context: Kosovo, Portugal, officially recognizes_
+_Context: Kosovo, officially recognizes, Portugal_
 
 ##### Saudi Arabia
 ### [ In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afghanistan.md)
-_Context: Afghanistan, al-Qaeda, Taliban, Saudi Arabia_
+_Context: al-Qaeda, Saudi Arabia, Taliban, Afghanistan_
 
 ##### Nobel Prize in Physics
 ### [ The 2008 Nobel Prize in Physics is awarded Yoichiro Nambu for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics, and Makoto Kobayashi and Toshihide Maskawa for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature.](/news/2008/10/7/the-2008-nobel-prize-in-physics-is-awarded-yoichiro-nambu-for-the-discovery-of-the-mechanism-of-spontaneous-broken-symmetry-in-subatomic-ph.md)
-_Context: spontaneous broken symmetry, quarks, Makoto Kobayashi, subatomic, Toshihide Maskawa, Nobel Prize in Physics, Yoichiro Nambu_
+_Context: spontaneous broken symmetry, subatomic, quarks, Makoto Kobayashi, Toshihide Maskawa, Yoichiro Nambu, Nobel Prize in Physics_
 
 ##### assemble
 ### [ 2008 Thai political crisis: The anti-government protester group were injured as police attacked barricades outside Thailand's parliament in Bangkok injuring over 400 people, 2 found dead. ](/news/2008/10/7/2008-thai-political-crisis-the-anti-government-protester-group-were-injured-as-police-attacked-barricades-outside-thailand-s-parliament-in.md)
@@ -29,7 +29,7 @@ The Federal Reserve said Tuesday that it would become a lender of last resort to
 
 ##### Hungary
 ### [ A Hungarian plane is forced to land in Iran, countering earlier reports of a US military jet being forced to land for violating Iranian airspace. ](/news/2008/10/7/a-hungarian-plane-is-forced-to-land-in-iran-countering-earlier-reports-of-a-us-military-jet-being-forced-to-land-for-violating-iranian-air.md)
-_Context: airspace, Iran, Hungary, forced to land_
+_Context: Iran, forced to land, Hungary, airspace_
 
 ##### Piet Retief
 ### [ A bus carrying farm workers returning from Houtkop Farm plunges off a bridge on the outskirts of Piet Retief, Mpumalanga, South Africa, killing at least 31 and injuring 29.](/news/2008/10/7/a-bus-carrying-farm-workers-returning-from-houtkop-farm-plunges-off-a-bridge-on-the-outskirts-of-piet-retief-mpumalanga-south-africa-kil.md)

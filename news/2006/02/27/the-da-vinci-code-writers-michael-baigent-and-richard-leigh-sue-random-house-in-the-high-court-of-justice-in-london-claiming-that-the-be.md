@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/27/the-da-vinci-code-writers-michael-baigent-and-r
 
 ### Changes:
 
-1. [ ''The Da Vinci Code'': Writers Michael Baigent and Richard Leigh sue Random House in the High Court of Justice in London claiming that the best selling novel ''The Da Vinci Code'' by Dan Brown contains ideas stolen from their 1982 book ''The Holy Blood and the Holy Grail''. ](/news/2006/02/27/the-da-vinci-code-writers-michael-baigent-and-richard-leigh-sue-random-house-in-the-high-court-of-justice-in-london-claiming-that-the.md) _2017-08-25 03:17:29 (First version)_
+1. [ ''The Da Vinci Code'': Writers Michael Baigent and Richard Leigh sue Random House in the High Court of Justice in London claiming that the best selling novel ''The Da Vinci Code'' by Dan Brown contains ideas stolen from their 1982 book ''The Holy Blood and the Holy Grail''. ](/news/2006/02/27/the-da-vinci-code-writers-michael-baigent-and-richard-leigh-sue-random-house-in-the-high-court-of-justice-in-london-claiming-that-the.md) _2018-02-06 13:49:16 (First version)_
 1. [ "The Da Vinci Code": Writers Michael Baigent and Richard Leigh sue Random House in the High Court of Justice in London claiming that the best selling novel "The Da Vinci Code" by Dan Brown contains ideas stolen from their 1982 book "The Holy Blood and the Holy Grail". ](/news/2006/02/27/the-da-vinci-code-writers-michael-baigent-and-richard-leigh-sue-random-house-in-the-high-court-of-justice-in-london-claiming-that-the-be.md) _(Current version)_
 
 ### Related:

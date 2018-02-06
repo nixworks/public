@@ -16,8 +16,8 @@ Roger Ailes, who transformed Fox News Channel from a start-up into one of the na
 
 ### Changes:
 
-1. [Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former ''Fox and Friends'' host Gretchen Carlson. ](/news/2016/07/19/roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-former-fox-and-friends-host-g.md) _2017-08-25 03:46:09 (First version)_
-2. [Fox News Channel controversies: Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former "Fox and Friends" host Gretchen Carlson. ](/news/2016/07/19/fox-news-channel-controversies-roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-f.md) _2017-08-27 03:46:31 (Update)_
+1. [Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former ''Fox and Friends'' host Gretchen Carlson. ](/news/2016/07/19/roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-former-fox-and-friends-host-g.md) _2018-02-06 13:49:29 (First version)_
+2. [Fox News Channel controversies: Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former "Fox and Friends" host Gretchen Carlson. ](/news/2016/07/19/fox-news-channel-controversies-roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-f.md) _2018-02-06 13:49:29 (Update)_
 2. [Roger Ailes is reported to be leaving Fox News after charges of sexual harassment are filed against him by former "Fox and Friends" host Gretchen Carlson. ](/news/2016/07/19/roger-ailes-is-reported-to-be-leaving-fox-news-after-charges-of-sexual-harassment-are-filed-against-him-by-former-fox-and-friends-host-gre.md) _(Current version)_
 
 ### Related:

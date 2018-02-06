@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/8/index.html)  [JSON](2015/03/8/index.json)  [XML](2015/
 
 ##### Boko Haram
 ### [Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md)
-_Context: Boko Haram, Chad, Islamist, Nigeria, Niger_
+_Context: Nigeria, Islamist, Niger, Boko Haram, Chad_
 
 ##### Kidal
 ### [A rocket and shelling attack in Kidal, northern Mali kills three people, including a UN peacekeeper. ](/news/2015/03/8/a-rocket-and-shelling-attack-in-kidal-northern-mali-kills-three-people-including-a-un-peacekeeper.md)
@@ -21,15 +21,15 @@ Sam Simon, an Emmy-winning writer and producer, gave away much of his money to c
 
 ##### Tennessee Titans
 ### [A unknown gunman in a vehicle kills Dreekius Oricko Johnson, 28, and wounds former Tennessee Titans and New York Jets running back Chris Johnson in Orlando, Florida. ](/news/2015/03/8/a-unknown-gunman-in-a-vehicle-kills-dreekius-oricko-johnson-28-and-wounds-former-tennessee-titans-and-new-york-jets-running-back-chris-joh.md)
-_Context: Orlando, Chris Johnson, New York Jets, the state, running back, Tennessee Titans_
+_Context: Orlando, Tennessee Titans, Chris Johnson, the state, running back, New York Jets_
 
 ##### Boris Nemtsov's assassination
 ### [A court in Moscow charges two men of Chechen origin, Zaur Dadayev and Ansor Gubashev, who were among five arrested March 7, with the murder of Russian opposition leader Boris Nemtsov. The others also arrested, Gubashev's younger brother Shahid Gubashev and two others named only as Bakhayev and Eskerkhanov, are still only suspects. ](/news/2015/03/8/a-court-in-moscow-charges-two-men-of-chechen-origin-zaur-dadayev-and-ansor-gubashev-who-were-among-five-arrested-march-7-with-the-murder.md)
-_Context: Moscow, Boris Nemtsov's assassination, Zaur Dadayev, Chechen, Boris Nemtsov_
+_Context: Zaur Dadayev, Moscow, Chechen, Boris Nemtsov's assassination, Boris Nemtsov_
 
 ##### U.S. Army
 ### [The U.S. Army, working with the U.S. Navy and NASA, through its Joint Multi-Role Technology Demonstrator transport helicopter re-design program, in the latest issue of Army Technology Magazine, takes note of some new designs Sikorsky-Boeing (the Sikorsky Defiant, which like the existing Sikorsky X2 and Sikorsky S-97 Raider, features a faster pusher propeller) and Bell Helicopter (the V-280 Valor, which resembles a slimmed-down version of the tilt-rotor V-22 Osprey, and comes in three versions: a troop- and equipment-carrying utility style, a medevac, and an attack chopper) have come up with since they were selected by the Pentagon in August 2014. ](/news/2015/03/8/the-u-s-army-working-with-the-u-s-navy-and-nasa-through-its-joint-multi-role-technology-demonstrator-transport-helicopter-re-design-prog.md)
-_Context: U.S. Army, Joint Multi-Role Technology Demonstrator transport helicopter re-design program, Sikorsky S-97 Raider, pusher propeller, Bell Helicopter, V-22 Osprey, Sikorsky Defiant, tilt-rotor, U.S. Navy, Sikorsky X2, NASA, V-280 Valor_
+_Context: tilt-rotor, Bell Helicopter, Sikorsky X2, Sikorsky Defiant, V-280 Valor, V-22 Osprey, pusher propeller, U.S. Army, NASA, U.S. Navy, Joint Multi-Role Technology Demonstrator transport helicopter re-design program, Sikorsky S-97 Raider_
 
 ## [Previous Day...](/news/2015/03/7/index.md)
 

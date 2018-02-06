@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/6/record-snowfall-occurs-over-the-united-states-ki
 
 ### Changes:
 
-1. [2013 North American cold wave:Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/2013-north-american-cold-wave-precord-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-witho.md) _2017-08-25 03:39:38 (First version)_
-2. [2013 North American cold wave:: Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/2013-north-american-cold-wave-record-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-with.md) _2017-08-27 03:39:56 (Update)_
+1. [2013 North American cold wave:: Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/2013-north-american-cold-wave-record-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-with.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 North American cold wave:Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/2013-north-american-cold-wave-precord-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-witho.md) _2018-02-06 13:49:25 (Update)_
 2. [Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/record-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-without-power.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/27/three-bombings-kill-at-least-17-people-in-baghd
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/iraqi-civil-war-2014-present-three-bombings-kill-at-least-17-people-in-baghdad.md) _2017-08-27 03:46:54 (First version)_
+1. [Iraqi Civil War (2014-present): Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/iraqi-civil-war-2014-present-three-bombings-kill-at-least-17-people-in-baghdad.md) _2018-02-06 13:49:29 (First version)_
 1. [Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/three-bombings-kill-at-least-17-people-in-baghdad.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/07/10/midnight-s-children-by-salman-rushdie-is-awarde
 
 ### Changes:
 
-1. [ ''Midnight's Children'' by Salman Rushdie is awarded The Best of the Booker, as the best novel to have won a Man Booker Prize in the first 40 years of its existence. ](/news/2008/07/10/midnight-s-children-by-salman-rushdie-is-awarded-the-best-of-the-booker-as-the-best-novel-to-have-won-a-man-booker-prize-in-the-first.md) _2017-08-25 03:22:33 (First version)_
+1. [ ''Midnight's Children'' by Salman Rushdie is awarded The Best of the Booker, as the best novel to have won a Man Booker Prize in the first 40 years of its existence. ](/news/2008/07/10/midnight-s-children-by-salman-rushdie-is-awarded-the-best-of-the-booker-as-the-best-novel-to-have-won-a-man-booker-prize-in-the-first.md) _2018-02-06 13:49:18 (First version)_
 1. [ "Midnight's Children" by Salman Rushdie is awarded The Best of the Booker, as the best novel to have won a Man Booker Prize in the first 40 years of its existence. ](/news/2008/07/10/midnight-s-children-by-salman-rushdie-is-awarded-the-best-of-the-booker-as-the-best-novel-to-have-won-a-man-booker-prize-in-the-first-40.md) _(Current version)_
 
 ### Related:

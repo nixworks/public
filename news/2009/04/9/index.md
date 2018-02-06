@@ -17,7 +17,7 @@ Thursday’s vote is seen as an important gauge of the country’s democratic re
 
 ##### Riot
 ### [ Riots occur after Baloch National Movement President Ghulam Mohammed Baloch is discovered dead near Turbat, Pakistan. ](/news/2009/04/9/riots-occur-after-baloch-national-movement-president-ghulam-mohammed-baloch-is-discovered-dead-near-turbat-pakistan.md)
-_Context: Baloch National Movement, Riot, Ghulam Mohammed Baloch, Turbat, Pakistan, President_
+_Context: Baloch National Movement, Ghulam Mohammed Baloch, Turbat, Pakistan, Riot, President_
 
 ##### Kim Jong-il
 ### [ Kim Jong-il appears publicly for the first time since August 2008 for reelection as North Korea's Great Leader. ](/news/2009/04/9/kim-jong-il-appears-publicly-for-the-first-time-since-august-2008-for-reelection-as-north-korea-s-great-leader.md)
@@ -25,23 +25,23 @@ North Korean leader Kim Jong-il appeared at his first major event since he was s
 
 ##### Harry Potter
 ### [ "Harry Potter" author J. K. Rowling resigns as patron of Scotland's Multiple Sclerosis Society. ](/news/2009/04/9/harry-potter-author-j-k-rowling-resigns-as-patron-of-scotland-s-multiple-sclerosis-society.md)
-_Context: J. K. Rowling, Harry Potter, Multiple Sclerosis Society, patron, author, Scotland_
+_Context: Multiple Sclerosis Society, Scotland, J. K. Rowling, patron, Harry Potter, author_
 
 ##### foreign national
 ### [ Forty-six foreign nationals depart Belfast, Northern Ireland, after riots during 2010 FIFA World Cup qualifying matches. ](/news/2009/04/9/forty-six-foreign-nationals-depart-belfast-northern-ireland-after-riots-during-2010-fifa-world-cup-qualifying-matches.md)
-_Context: qualifying matches, Northern Ireland, riot, foreign national, 2010 FIFA World Cup, Belfast_
+_Context: riot, Northern Ireland, foreign national, qualifying matches, Belfast, 2010 FIFA World Cup_
 
 ##### demonstration
 ### [ Demonstrators assemble in Tbilisi, Georgia, to demand the resignation of President Mikheil Saakashvili. ](/news/2009/04/9/demonstrators-assemble-in-tbilisi-georgia-to-demand-the-resignation-of-president-mikheil-saakashvili.md)
-_Context:  Georgian, President of Georgia, Mikheil Saakashvili, demonstration, Tbilisi_
+_Context:  Georgian, Mikheil Saakashvili, Tbilisi, President of Georgia, demonstration_
 
 ##### United States
 ### [ The U.S. Central Intelligence Agency allegedly decommissions its black sites worldwide. ](/news/2009/04/9/the-u-s-central-intelligence-agency-allegedly-decommissions-its-black-sites-worldwide.md)
-_Context: black site, Central Intelligence Agency, United States_
+_Context: United States, black site, Central Intelligence Agency_
 
 ##### Bishop
 ### [ Bishop Harold Miller of the Church of Ireland advises a boycott of television on Good Friday. ](/news/2009/04/9/bishop-harold-miller-of-the-church-of-ireland-advises-a-boycott-of-television-on-good-friday.md)
-_Context: Good Friday, Harold Miller, Church of Ireland, boycott, television, Bishop_
+_Context: boycott, Bishop, television, Church of Ireland, Good Friday, Harold Miller_
 
 ## [Previous Day...](/news/2009/04/8/index.md)
 

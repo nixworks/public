@@ -27,8 +27,8 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ### Changes:
 
-1. [2011 Greek uprising:Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/2011-greek-uprising-pgreek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-di.md) _2017-08-25 03:33:29 (First version)_
-2. [2011 Greek uprising:: Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/2011-greek-uprising-greek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-d.md) _2017-08-27 03:33:37 (Update)_
+1. [2011 Greek uprising:Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/2011-greek-uprising-pgreek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-di.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Greek uprising:: Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/2011-greek-uprising-greek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-d.md) _2018-02-06 13:49:22 (Update)_
 2. [Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/greek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-discuss-its-plans-for-f.md) _(Current version)_
 
 ### Related:

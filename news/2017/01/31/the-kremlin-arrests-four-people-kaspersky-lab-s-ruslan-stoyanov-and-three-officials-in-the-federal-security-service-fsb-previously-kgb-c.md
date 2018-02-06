@@ -19,7 +19,7 @@ Russian media reported the arrests this week of three individuals suspected of t
 
 ### Changes:
 
-1. [The Kremlin arrests four people, Kaspersky Lab's Ruslan Stoyanov, and three officials in the Federal Security Service (FSB previously KGB) Center for Information Security, reportedly on treason charges for passing information to America's CIA. ](/news/2017/01/31/the-kremlin-arrests-four-people-kaspersky-lab-s-ruslan-stoyanov-and-three-officials-in-the-federal-security-service-fsb-previously-kgb.md) _2017-08-25 03:47:19 (First version)_
+1. [The Kremlin arrests four people, Kaspersky Lab's Ruslan Stoyanov, and three officials in the Federal Security Service (FSB previously KGB) Center for Information Security, reportedly on treason charges for passing information to America's CIA. ](/news/2017/01/31/the-kremlin-arrests-four-people-kaspersky-lab-s-ruslan-stoyanov-and-three-officials-in-the-federal-security-service-fsb-previously-kgb.md) _2018-02-06 13:49:30 (First version)_
 1. [The Kremlin arrests four people, Kaspersky Lab's Ruslan Stoyanov, and three officials in the Federal Security Service (FSB previously KGB) Center for Information Security, reportedly on treason charges for passing information to America's CIA. ](/news/2017/01/31/the-kremlin-arrests-four-people-kaspersky-lab-s-ruslan-stoyanov-and-three-officials-in-the-federal-security-service-fsb-previously-kgb-c.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a
 
 ### Changes:
 
-1. [Colombian peace process: The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/colombian-peace-process-the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md) _2017-08-27 03:47:17 (First version)_
+1. [Colombian peace process: The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/colombian-peace-process-the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md) _2018-02-06 13:49:29 (First version)_
 1. [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md) _(Current version)_
 
 ### Related:

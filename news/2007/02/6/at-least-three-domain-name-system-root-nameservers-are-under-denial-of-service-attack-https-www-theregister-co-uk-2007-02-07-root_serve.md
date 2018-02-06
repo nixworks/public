@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/02/6/at-least-three-domain-name-system-root-nameserve
 
 ### Changes:
 
-1. [ At least three domain name system root nameservers are under denial-of-service attack. [http:--www.theregister.co.uk-2007-02-07-root_server_attack- (The Register)]. See "DNS Backbone DDoS Attacks"](/news/2007/02/6/at-least-three-domain-name-system-root-nameservers-are-under-denial-of-service-attack-http-www-theregister-co-uk-2007-02-07-root_server.md) _2017-10-17 03:22:14 (First version)_
+1. [ At least three domain name system root nameservers are under denial-of-service attack. [http:--www.theregister.co.uk-2007-02-07-root_server_attack- (The Register)]. See "DNS Backbone DDoS Attacks"](/news/2007/02/6/at-least-three-domain-name-system-root-nameservers-are-under-denial-of-service-attack-http-www-theregister-co-uk-2007-02-07-root_server.md) _2018-02-06 13:49:17 (First version)_
 1. [ At least three domain name system root nameservers are under denial-of-service attack. [https:--www.theregister.co.uk-2007-02-07-root_server_attack- (The Register)]. See "DNS Backbone DDoS Attacks"](/news/2007/02/6/at-least-three-domain-name-system-root-nameservers-are-under-denial-of-service-attack-https-www-theregister-co-uk-2007-02-07-root_serve.md) _(Current version)_
 
 ### Related:

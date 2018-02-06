@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-
 
 ### Changes:
 
-1. [North Korea-United States relations: A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/north-korea-united-states-relations-a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping.md) _2017-08-27 03:48:24 (First version)_
+1. [North Korea-United States relations: A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/north-korea-united-states-relations-a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping.md) _2018-02-06 13:49:30 (First version)_
 1. [ A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping-drill-north-korea-calls-it-a-military.md) _(Current version)_
 
 ### Related:

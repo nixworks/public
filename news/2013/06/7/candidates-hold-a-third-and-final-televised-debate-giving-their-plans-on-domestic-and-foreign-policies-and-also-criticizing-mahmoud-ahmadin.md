@@ -18,8 +18,8 @@ Formats: [HTML](/news/2013/06/7/candidates-hold-a-third-and-final-televised-deba
 
 ### Changes:
 
-1. [Iranian presidential election:Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-pcandidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-a.md) _2017-08-25 03:38:48 (First version)_
-2. [Iranian presidential election:: Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and.md) _2017-08-27 03:39:01 (Update)_
+1. [Iranian presidential election:Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-pcandidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-a.md) _2018-02-06 13:49:25 (First version)_
+2. [Iranian presidential election:: Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and.md) _2018-02-06 13:49:25 (Update)_
 2. [Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-also-criticizing-mahmoud-ahmadin.md) _(Current version)_
 
 ### Related:

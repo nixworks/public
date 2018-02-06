@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-card
 
 ### Changes:
 
-1. [Roman Catholic Church:Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-ppope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2017-08-25 03:35:05 (First version)_
-2. [Roman Catholic Church:: Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2017-08-27 03:35:14 (Update)_
+1. [Roman Catholic Church:Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-ppope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2018-02-06 13:49:23 (First version)_
+2. [Roman Catholic Church:: Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2018-02-06 13:49:23 (Update)_
 2. [Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _(Current version)_
 
 ### Related:

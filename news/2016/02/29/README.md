@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/29/index.html)  [JSON](2016/02/29/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-the-city-of-miqdadiyah-diyala-gover.md)
-_Context: Shi'ites, Miqdadiyah, Iraqi Civil War (2014-present), Diyala Governorate, ISIL_
+_Context: Iraqi Civil War (2014-present), ISIL, Miqdadiyah, Diyala Governorate, Shi'ites_
 
 ##### China
 ### [China says it expects to lay off 1.8 million state workers in the coal and steel sectors, or about 15 percent of the industries' workforce, as part of efforts to reduce industrial overcapacity. ](/news/2016/02/29/china-says-it-expects-to-lay-off-1-8-million-state-workers-in-the-coal-and-steel-sectors-or-about-15-percent-of-the-industries-workforce.md)

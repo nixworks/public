@@ -20,7 +20,7 @@ Donald Trump says he will deport or jail up to three million &quot;criminal&quot
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect of the United States Donald Trump says he plans to deport or imprison up to 3 million illegal migrants, targeting those with criminal records. ](/news/2016/11/13/presidential-transition-of-donald-trump-president-elect-of-the-united-states-donald-trump-says-he-plans-to-deport-or-imprison-up-to-3-milli.md) _2017-08-27 03:47:13 (First version)_
+1. [Presidential transition of Donald Trump: President-elect of the United States Donald Trump says he plans to deport or imprison up to 3 million illegal migrants, targeting those with criminal records. ](/news/2016/11/13/presidential-transition-of-donald-trump-president-elect-of-the-united-states-donald-trump-says-he-plans-to-deport-or-imprison-up-to-3-milli.md) _2018-02-06 13:49:29 (First version)_
 1. [President-elect of the United States Donald Trump says he plans to deport or imprison up to 3 million illegal migrants, targeting those with criminal records. ](/news/2016/11/13/president-elect-of-the-united-states-donald-trump-says-he-plans-to-deport-or-imprison-up-to-3-million-illegal-migrants-targeting-those-with.md) _(Current version)_
 
 ### Related:

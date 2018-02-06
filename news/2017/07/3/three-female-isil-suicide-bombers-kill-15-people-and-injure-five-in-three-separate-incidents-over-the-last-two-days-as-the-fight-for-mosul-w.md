@@ -16,8 +16,8 @@ Two suicide bombings against Iraqi soldiers follow three other attacks by women
 
 ### Changes:
 
-1. [Three female ISIL suicide bombers kill 15 people and injure five in three separate incidents over the last two days as the fight for Mosul winds down. ](/news/2017/07/3/three-female-isil-suicide-bombers-kill-15-people-and-injure-five-in-three-separate-incidents-over-the-last-two-days-as-the-fight-for-mosul.md) _2017-08-25 03:48:09 (First version)_
-2. [Battle of Mosul: Three female ISIL suicide bombers kill 15 people and injure five in three separate incidents over the last two days as the fight for Mosul winds down. ](/news/2017/07/3/battle-of-mosul-three-female-isil-suicide-bombers-kill-15-people-and-injure-five-in-three-separate-incidents-over-the-last-two-days-as-the.md) _2017-08-27 03:48:36 (Update)_
+1. [Three female ISIL suicide bombers kill 15 people and injure five in three separate incidents over the last two days as the fight for Mosul winds down. ](/news/2017/07/3/three-female-isil-suicide-bombers-kill-15-people-and-injure-five-in-three-separate-incidents-over-the-last-two-days-as-the-fight-for-mosul.md) _2018-02-06 13:49:31 (First version)_
+2. [Battle of Mosul: Three female ISIL suicide bombers kill 15 people and injure five in three separate incidents over the last two days as the fight for Mosul winds down. ](/news/2017/07/3/battle-of-mosul-three-female-isil-suicide-bombers-kill-15-people-and-injure-five-in-three-separate-incidents-over-the-last-two-days-as-the.md) _2018-02-06 13:49:31 (Update)_
 2. [Three female ISIL suicide bombers kill 15 people and injure five in three separate incidents over the last two days as the fight for Mosul winds down. ](/news/2017/07/3/three-female-isil-suicide-bombers-kill-15-people-and-injure-five-in-three-separate-incidents-over-the-last-two-days-as-the-fight-for-mosul-w.md) _(Current version)_
 
 ### Related:

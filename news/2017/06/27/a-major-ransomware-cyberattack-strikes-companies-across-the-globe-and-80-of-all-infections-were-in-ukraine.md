@@ -16,8 +16,8 @@ Banks, retailers, energy firms and Kiev airport say they have been targeted by m
 
 ### Changes:
 
-1. [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md) _2017-06-28 18:30:05 (First version)_
-2. [2017 Petya cyberattack: A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. ](/news/2017/06/27/2017-petya-cyberattack-a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md) _2017-08-27 03:48:33 (Update)_
+1. [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Petya cyberattack: A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. ](/news/2017/06/27/2017-petya-cyberattack-a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md) _2018-02-06 13:49:30 (Update)_
 2. [A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md) _(Current version)_
 
 ### Related:

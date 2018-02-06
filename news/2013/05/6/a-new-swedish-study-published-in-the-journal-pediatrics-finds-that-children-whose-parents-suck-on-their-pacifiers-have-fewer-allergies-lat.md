@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-ped
 
 ### Changes:
 
-1. [A new Swedish study published in the journal ''Pediatrics'' finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-l.md) _2017-08-25 03:38:35 (First version)_
+1. [A new Swedish study published in the journal ''Pediatrics'' finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-l.md) _2018-02-06 13:49:25 (First version)_
 1. [A new Swedish study published in the journal "Pediatrics" finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-lat.md) _(Current version)_
 
 ### Related:

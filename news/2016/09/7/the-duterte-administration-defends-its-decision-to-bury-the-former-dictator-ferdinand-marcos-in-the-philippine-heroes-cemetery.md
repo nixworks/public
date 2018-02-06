@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/09/7/the-duterte-administration-defends-its-decision-
 
 ### Changes:
 
-1. [Burial of Ferdinand Marcos: The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/burial-of-ferdinand-marcos-the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-h.md) _2017-08-27 03:46:47 (First version)_
+1. [Burial of Ferdinand Marcos: The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/burial-of-ferdinand-marcos-the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-h.md) _2018-02-06 13:49:29 (First version)_
 1. [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md) _(Current version)_
 
 ### Related:

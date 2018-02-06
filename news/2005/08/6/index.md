@@ -3,13 +3,13 @@ Formats: [HTML](2005/08/6/index.html)  [JSON](2005/08/6/index.json)  [XML](2005/
 
 ## [2005-08-6](/news/2005/08/6/index.md)
 
-##### British
+##### United Kingdom
 ### [ The British politician and former Cabinet Minister Robin Cook dies suddenly at the age of 59. ](/news/2005/08/6/the-british-politician-and-former-cabinet-minister-robin-cook-dies-suddenly-at-the-age-of-59.md)
-_Context: Cabinet Minister, Robin Cook, British_
+_Context: Robin Cook, Cabinet Minister, United Kingdom_
 
 ##### Jimmy Wales
 ### [ Jimmy Wales clarifies the recent media statements made about possible changes to Wikipedia editorial content. ](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.md)
-_Context: Jimmy Wales, Wikipedia_
+_Context: Wikipedia, Jimmy Wales_
 
 ##### India
 ### [ India and Pakistan announce that they have agreed to give each other advance notice of future nuclear missile tests. ](/news/2005/08/6/india-and-pakistan-announce-that-they-have-agreed-to-give-each-other-advance-notice-of-future-nuclear-missile-tests.md)

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-polic
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-pmilitants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-an.md) _2017-08-25 03:39:38 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-a.md) _2017-08-27 03:39:56 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-pmilitants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-an.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-a.md) _2018-02-06 13:49:25 (Update)_
 2. [Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.md) _(Current version)_
 
 ### Related:

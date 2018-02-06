@@ -18,8 +18,8 @@ Somali journalists refuse to obey the editorial orders of an Islamist group whic
 
 ### Changes:
 
-1. [War in Somalia:Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-psomali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md) _2017-08-25 03:30:11 (First version)_
-2. [War in Somalia:: Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md) _2017-08-27 03:30:15 (Update)_
+1. [War in Somalia:: Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md) _2018-02-06 13:49:20 (First version)_
+2. [War in Somalia:Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-psomali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md) _2018-02-06 13:49:20 (Update)_
 2. [Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md) _(Current version)_
 
 ### Related:

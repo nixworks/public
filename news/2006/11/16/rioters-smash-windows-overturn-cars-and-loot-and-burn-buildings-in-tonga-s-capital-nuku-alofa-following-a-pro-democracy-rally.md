@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/11/16/rioters-smash-windows-overturn-cars-and-loot-an
 
 ### Changes:
 
-1. [ 2006 Tonga riots: Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/2006-tonga-riots-p-rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy.md) _2017-08-25 03:18:47 (First version)_
-2. [ 2006 Tonga riots:: Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/2006-tonga-riots-rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy.md) _2017-08-27 03:18:42 (Update)_
+1. [ 2006 Tonga riots:: Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/2006-tonga-riots-rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy.md) _2018-02-06 13:49:17 (First version)_
+2. [ 2006 Tonga riots: Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/2006-tonga-riots-p-rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy.md) _2018-02-06 13:49:17 (Update)_
 2. [ Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy-rally.md) _(Current version)_
 
 ### Related:

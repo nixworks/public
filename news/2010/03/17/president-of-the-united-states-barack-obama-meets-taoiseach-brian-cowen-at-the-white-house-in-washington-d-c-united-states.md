@@ -25,7 +25,7 @@ US President Barack Obama has thanked the Irish Government for allowing US troop
 
 ### Changes:
 
-1. [Saint Patrick's Day: President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/saint-patrick-s-day-president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united.md) _2017-08-27 03:27:19 (First version)_
+1. [Saint Patrick's Day: President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/saint-patrick-s-day-president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united.md) _2018-02-06 13:49:19 (First version)_
 1. [President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united-states.md) _(Current version)_
 
 ### Related:

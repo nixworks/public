@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-an
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/2016-pacific-typhoon-season-ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the.md) _2017-08-27 03:47:18 (First version)_
+1. [2016 Pacific typhoon season: Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/2016-pacific-typhoon-season-ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the-philippines-caused-by-tropic.md) _(Current version)_
 
 ### Related:

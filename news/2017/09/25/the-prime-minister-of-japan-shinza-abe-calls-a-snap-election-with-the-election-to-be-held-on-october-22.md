@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-
 
 ### Changes:
 
-1. [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinzo-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md) _2017-09-25 13:30:05 (First version)_
+1. [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinzo-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md) _2018-02-06 13:49:31 (First version)_
 1. [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md) _(Current version)_
 
 ### Related:

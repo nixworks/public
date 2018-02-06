@@ -17,7 +17,7 @@ A Harmony of the Seas crew member has died and four others have been injured aft
 
 ### Changes:
 
-1. [One crew member of the MS ''Harmony of the Seas'', the world's largest cruise ship, is killed and four other crew members are injured after a lifeboat fell on them during a training exercise on the ship that was docked in Marseille, France. ](/news/2016/09/13/one-crew-member-of-the-ms-harmony-of-the-seas-the-world-s-largest-cruise-ship-is-killed-and-four-other-crew-members-are-injured-after.md) _2017-08-25 03:46:27 (First version)_
+1. [One crew member of the MS ''Harmony of the Seas'', the world's largest cruise ship, is killed and four other crew members are injured after a lifeboat fell on them during a training exercise on the ship that was docked in Marseille, France. ](/news/2016/09/13/one-crew-member-of-the-ms-harmony-of-the-seas-the-world-s-largest-cruise-ship-is-killed-and-four-other-crew-members-are-injured-after.md) _2018-02-06 13:49:29 (First version)_
 1. [One crew member of the MS "Harmony of the Seas", the world's largest cruise ship, is killed and four other crew members are injured after a lifeboat fell on them during a training exercise on the ship that was docked in Marseille, France. ](/news/2016/09/13/one-crew-member-of-the-ms-harmony-of-the-seas-the-world-s-largest-cruise-ship-is-killed-and-four-other-crew-members-are-injured-after-a.md) _(Current version)_
 
 ### Related:

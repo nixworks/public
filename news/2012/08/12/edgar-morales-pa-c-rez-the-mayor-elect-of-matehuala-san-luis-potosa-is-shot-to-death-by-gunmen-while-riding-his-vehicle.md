@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/08/12/edgar-morales-pa-c-rez-the-mayor-elect-of-mateh
 
 ### Changes:
 
-1. [Mexican Drug War:Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/mexican-drug-war-pedgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md) _2017-08-25 03:36:15 (First version)_
-2. [Mexican Drug War:: Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/mexican-drug-war-edgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md) _2017-08-27 03:36:26 (Update)_
+1. [Mexican Drug War:Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/mexican-drug-war-pedgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md) _2018-02-06 13:49:23 (First version)_
+2. [Mexican Drug War:: Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/mexican-drug-war-edgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md) _2018-02-06 13:49:23 (Update)_
 2. [Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/edgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md) _(Current version)_
 
 ### Related:

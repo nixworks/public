@@ -16,9 +16,9 @@ Pro-Islamic State militants have stormed a town and occupied a school in the sou
 
 ### Changes:
 
-1. [Maute rebels storm a school in Pigcawayan, North Cotabato and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-and-take-civilians-hostage.md) _2017-06-22 00:30:08 (First version)_
-2. [Maute rebels storm a school in Pigcawayan, North Cotabato, Philippines, and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md) _2017-06-23 10:30:08 (Update)_
-3. [Moro conflict: Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines, and take civilians hostage. ](/news/2017/06/21/moro-conflict-bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-host.md) _2017-08-27 03:48:32 (Update)_
+1. [Moro conflict: Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines, and take civilians hostage. ](/news/2017/06/21/moro-conflict-bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-host.md) _2018-02-06 13:49:30 (First version)_
+2. [Maute rebels storm a school in Pigcawayan, North Cotabato, Philippines, and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md) _2018-02-06 13:49:30 (Update)_
+3. [Maute rebels storm a school in Pigcawayan, North Cotabato and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-and-take-civilians-hostage.md) _2018-02-06 13:49:30 (Update)_
 3. [Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines, and take civilians hostage. ](/news/2017/06/21/bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md) _(Current version)_
 
 ### Related:

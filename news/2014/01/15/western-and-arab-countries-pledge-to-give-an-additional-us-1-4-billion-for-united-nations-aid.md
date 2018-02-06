@@ -16,8 +16,8 @@ Western and Gulf Arab nations pledged $1.4 billion (£852 million) on Wednesday 
 
 ### Changes:
 
-1. [Syrian Civil War:Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/syrian-civil-war-pwestern-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md) _2017-08-25 03:39:52 (First version)_
-2. [Syrian Civil War:: Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/syrian-civil-war-western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md) _2017-08-27 03:40:11 (Update)_
+1. [Syrian Civil War:: Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/syrian-civil-war-western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/syrian-civil-war-pwestern-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md) _2018-02-06 13:49:25 (Update)_
 2. [Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md) _(Current version)_
 
 ### Related:

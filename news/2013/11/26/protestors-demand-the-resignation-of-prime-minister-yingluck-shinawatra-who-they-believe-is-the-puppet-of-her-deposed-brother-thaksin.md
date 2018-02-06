@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/26/protestors-demand-the-resignation-of-prime-mini
 
 ### Changes:
 
-1. [2013 Thai protests:Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-pprotestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-br.md) _2017-08-25 03:39:35 (First version)_
-2. [2013 Thai protests:: Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-b.md) _2017-08-27 03:39:53 (Update)_
+1. [2013 Thai protests:: Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-b.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-pprotestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-br.md) _2018-02-06 13:49:25 (Update)_
 2. [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md) _(Current version)_
 
 ### Related:

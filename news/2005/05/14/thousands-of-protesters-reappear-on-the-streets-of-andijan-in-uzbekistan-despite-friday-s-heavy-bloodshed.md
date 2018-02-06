@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/05/14/thousands-of-protesters-reappear-on-the-streets
 
 ### Changes:
 
-1. [ Unrest In Uzbekistan: Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-p-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md) _2017-08-25 03:16:12 (First version)_
-2. [ Unrest In Uzbekistan:: Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md) _2017-08-27 03:16:14 (Update)_
+1. [ Unrest In Uzbekistan:: Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md) _2018-02-06 13:49:16 (First version)_
+2. [ Unrest In Uzbekistan: Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-p-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md) _2018-02-06 13:49:16 (Update)_
 2. [ Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md) _(Current version)_
 
 ### Related:

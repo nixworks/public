@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-t
 
 ### Changes:
 
-1. [Rojava conflict: Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/rojava-conflict-turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-co.md) _2017-08-27 03:44:52 (First version)_
+1. [Rojava conflict: Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/rojava-conflict-turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-co.md) _2018-02-06 13:49:28 (First version)_
 1. [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md) _(Current version)_
 
 ### Related:

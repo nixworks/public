@@ -16,7 +16,7 @@ Price, who served in Congress since 2005, has been a major proponent of dismantl
 
 ### Changes:
 
-1. [Cabinet of Donald Trump: The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/cabinet-of-donald-trump-the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary.md) _2017-08-27 03:47:48 (First version)_
+1. [Cabinet of Donald Trump: The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/cabinet-of-donald-trump-the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary.md) _2018-02-06 13:49:30 (First version)_
 1. [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md) _(Current version)_
 
 ### Related:

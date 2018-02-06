@@ -20,7 +20,7 @@ Italy has fined Ryanair 3 million euros for failing to help passengers after can
 
 ### Changes:
 
-1. [Italy fines Ryanair -3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md) _2017-08-27 03:27:54 (First version)_
+1. [Italy fines Ryanair -3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md) _2018-02-06 13:49:20 (First version)_
 1. [Italy fines Ryanair EUR3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-a-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md) _(Current version)_
 
 ### Related:

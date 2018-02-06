@@ -16,7 +16,7 @@ The death toll following a crush at the annual Hajj pilgrimage in Saudi Arabia h
 
 ### Changes:
 
-1. [2015 Hajj stampede: The death toll from the stampede near Mecca rises to 769, with 934 injuries. ](/news/2015/09/26/2015-hajj-stampede-the-death-toll-from-the-stampede-near-mecca-rises-to-769-with-934-injuries.md) _2017-08-27 03:43:09 (First version)_
+1. [2015 Hajj stampede: The death toll from the stampede near Mecca rises to 769, with 934 injuries. ](/news/2015/09/26/2015-hajj-stampede-the-death-toll-from-the-stampede-near-mecca-rises-to-769-with-934-injuries.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the stampede near Mecca rises to 769, with 934 injuries. ](/news/2015/09/26/the-death-toll-from-the-stampede-near-mecca-rises-to-769-with-934-injuries.md) _(Current version)_
 
 ### Related:

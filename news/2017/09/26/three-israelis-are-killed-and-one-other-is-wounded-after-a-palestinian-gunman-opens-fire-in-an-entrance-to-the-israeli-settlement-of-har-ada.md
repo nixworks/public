@@ -16,9 +16,9 @@ A Palestinian man with security clearance to work at a Jewish settlement in the 
 
 ### Changes:
 
-1. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire on a Jewish settlement in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-on-a-jewish-settlement-in-the-west-bank.md) _2017-09-26 06:30:05 (First version)_
-2. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to Jewish settlement Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-jewish-settlement-har-adar-in-the.md) _2017-09-26 16:30:06 (Update)_
-3. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md) _2017-09-27 03:52:38 (Update)_
+1. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire on a Jewish settlement in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-on-a-jewish-settlement-in-the-west-bank.md) _2018-02-06 13:49:31 (First version)_
+2. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-jewish-settlement-of-har-adar.md) _2018-02-06 13:49:31 (Update)_
+3. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to Jewish settlement Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-jewish-settlement-har-adar-in-the.md) _2018-02-06 13:49:31 (Update)_
 3. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Israeli settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-israeli-settlement-of-har-ada.md) _(Current version)_
 
 ### Related:

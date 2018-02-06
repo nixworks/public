@@ -16,8 +16,8 @@ A suicide car bomb attack by the Somali Islamist group al-Shabab kills four peop
 
 ### Changes:
 
-1. [Somali Civil War:A suicide car bomber detonates near a military convoy in Mogadishu, Somalia, killing four people. ](/news/2015/01/4/somali-civil-war-pa-suicide-car-bomber-detonates-near-a-military-convoy-in-mogadishu-somalia-killing-four-people.md) _2017-08-25 03:41:25 (First version)_
-2. [Somali Civil War:: A suicide car bomber detonates near a military convoy in Mogadishu, Somalia, killing four people. ](/news/2015/01/4/somali-civil-war-a-suicide-car-bomber-detonates-near-a-military-convoy-in-mogadishu-somalia-killing-four-people.md) _2017-08-27 03:41:43 (Update)_
+1. [Somali Civil War:A suicide car bomber detonates near a military convoy in Mogadishu, Somalia, killing four people. ](/news/2015/01/4/somali-civil-war-pa-suicide-car-bomber-detonates-near-a-military-convoy-in-mogadishu-somalia-killing-four-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Somali Civil War:: A suicide car bomber detonates near a military convoy in Mogadishu, Somalia, killing four people. ](/news/2015/01/4/somali-civil-war-a-suicide-car-bomber-detonates-near-a-military-convoy-in-mogadishu-somalia-killing-four-people.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide car bomber detonates near a military convoy in Mogadishu, Somalia, killing four people. ](/news/2015/01/4/a-suicide-car-bomber-detonates-near-a-military-convoy-in-mogadishu-somalia-killing-four-people.md) _(Current version)_
 
 ### Related:

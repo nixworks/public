@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-
 
 ### Changes:
 
-1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.{{Fact|date=December 2007}}](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-fact-date-de.md) _2017-05-01 03:22:11 (First version)_
+1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.{{Fact|date=December 2007}}](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-fact-date-de.md) _2018-02-06 13:49:18 (First version)_
 1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.date=December 2007](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.md) _(Current version)_
 
 ### Related:

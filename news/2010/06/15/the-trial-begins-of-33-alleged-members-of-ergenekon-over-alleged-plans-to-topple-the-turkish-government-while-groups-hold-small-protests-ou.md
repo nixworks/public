@@ -18,5 +18,5 @@ Court tries suspects of alleged plan to attack non-Muslims in bid to topple gove
 
 ### Changes:
 
-1. [The trial begins of 33 alleged members of Ergenekon over alleged plans to topple the Turkish government, while groups hold small protests outside the courthouse in their favour. ](/news/2010/06/15/the-trial-begins-of-33-alleged-members-of-ergenekon-over-alleged-plans-to-topple-the-turkish-government-while-groups-hold-small-protests-o.md) _2017-08-25 03:28:16 (First version)_
+1. [The trial begins of 33 alleged members of Ergenekon over alleged plans to topple the Turkish government, while groups hold small protests outside the courthouse in their favour. ](/news/2010/06/15/the-trial-begins-of-33-alleged-members-of-ergenekon-over-alleged-plans-to-topple-the-turkish-government-while-groups-hold-small-protests-o.md) _2018-02-06 13:49:20 (First version)_
 1. [The trial begins of 33 alleged members of Ergenekon over alleged plans to topple the Turkish government, while groups hold small protests outside the courthouse in their favour. ](/news/2010/06/15/the-trial-begins-of-33-alleged-members-of-ergenekon-over-alleged-plans-to-topple-the-turkish-government-while-groups-hold-small-protests-ou.md) _(Current version)_

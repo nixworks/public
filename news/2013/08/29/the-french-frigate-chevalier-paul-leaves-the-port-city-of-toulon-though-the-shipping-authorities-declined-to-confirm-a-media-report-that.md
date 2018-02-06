@@ -24,8 +24,8 @@ MPs vote against possible military action against Syria, ruling out involvement 
 
 ### Changes:
 
-1. [Syrian civil war:The French frigate ''Chevalier Paul'' leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/syrian-civil-war-pthe-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm.md) _2017-08-25 03:39:13 (First version)_
-2. [Syrian civil war:: The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/syrian-civil-war-the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a.md) _2017-08-27 03:39:29 (Update)_
+1. [Syrian civil war:: The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/syrian-civil-war-the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The French frigate ''Chevalier Paul'' leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/syrian-civil-war-pthe-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm.md) _2018-02-06 13:49:25 (Update)_
 2. [The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a-media-report-that.md) _(Current version)_
 
 ### Related:

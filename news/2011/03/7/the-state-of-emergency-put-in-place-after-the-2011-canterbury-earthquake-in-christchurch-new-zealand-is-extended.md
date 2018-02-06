@@ -17,8 +17,8 @@ The national state of emergency imposed after last month&#039;s devastating Chri
 
 ### Changes:
 
-1. [New Zealand earthquakeThe state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/new-zealand-earthquakepthe-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md) _2017-08-25 03:32:27 (First version)_
-2. [New Zealand earthquake: The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/new-zealand-earthquake-the-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md) _2017-08-27 03:32:35 (Update)_
+1. [New Zealand earthquakeThe state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/new-zealand-earthquakepthe-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md) _2018-02-06 13:49:22 (First version)_
+2. [New Zealand earthquake: The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/new-zealand-earthquake-the-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md) _2018-02-06 13:49:22 (Update)_
 2. [The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/the-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md) _(Current version)_
 
 ### Related:

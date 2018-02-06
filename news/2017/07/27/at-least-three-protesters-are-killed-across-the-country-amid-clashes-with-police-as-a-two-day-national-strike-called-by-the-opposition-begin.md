@@ -15,7 +15,7 @@ Fresh clashes lift number killed in four months of violence to more than 100, as
 
 ### Changes:
 
-1. [2017 Venezuelan protests: At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/2017-venezuelan-protests-at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-call.md) _2017-08-27 03:48:44 (First version)_
+1. [2017 Venezuelan protests: At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/2017-venezuelan-protests-at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-call.md) _2018-02-06 13:49:30 (First version)_
 1. [At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-called-by-the-opposition-begin.md) _(Current version)_
 
 ### Related:

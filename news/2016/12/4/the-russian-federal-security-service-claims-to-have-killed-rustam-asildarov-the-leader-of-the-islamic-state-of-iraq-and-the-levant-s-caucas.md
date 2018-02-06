@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/12/4/the-russian-federal-security-service-claims-to-h
 
 ### Changes:
 
-1. [Insurgency in the North Caucasus: The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/insurgency-in-the-north-caucasus-the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-sta.md) _2017-08-27 03:47:23 (First version)_
+1. [Insurgency in the North Caucasus: The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/insurgency-in-the-north-caucasus-the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-sta.md) _2018-02-06 13:49:30 (First version)_
 1. [The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-state-of-iraq-and-the-levant-s-caucas.md) _(Current version)_
 
 ### Related:

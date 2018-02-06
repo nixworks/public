@@ -16,7 +16,7 @@ Russia’s so-called gay propaganda law reinforces “stigma and prejudice” an
 
 ### Changes:
 
-1. [LGBT rights in Russia: The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/lgbt-rights-in-russia-the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice.md) _2017-08-27 03:48:31 (First version)_
+1. [LGBT rights in Russia: The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/lgbt-rights-in-russia-the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice.md) _2018-02-06 13:49:30 (First version)_
 1. [The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice-and-violates-the-right.md) _(Current version)_
 
 ### Related:

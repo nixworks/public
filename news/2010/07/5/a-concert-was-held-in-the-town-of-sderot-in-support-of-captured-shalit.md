@@ -17,8 +17,8 @@ A classical concert in support of captured Israeli soldier Gilad Shalit is held 
 
 ### Changes:
 
-1. [Fate of A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/fate-of-a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md) _2017-08-25 03:28:35 (First version)_
-2. [Fate of Gilad Shalit: A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/fate-of-gilad-shalit-a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md) _2017-08-27 03:28:35 (Update)_
+1. [Fate of Gilad Shalit: A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/fate-of-gilad-shalit-a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md) _2018-02-06 13:49:20 (First version)_
+2. [Fate of A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/fate-of-a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md) _2018-02-06 13:49:20 (Update)_
 2. [A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-a
 
 ### Changes:
 
-1. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _2018-02-02 13:30:22 (First version)_
+1. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _2018-02-06 13:49:31 (First version)_
 1. [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md) _(Current version)_
 
 ### Related:

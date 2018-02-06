@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/09/8/the-islamist-al-nusra-front-captures-the-histori
 
 ### Changes:
 
-1. [Syrian civil war:The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/syrian-civil-war-pthe-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-protec.md) _2017-08-25 03:39:15 (First version)_
-2. [Syrian civil war:: The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/syrian-civil-war-the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-prote.md) _2017-08-27 03:39:31 (Update)_
+1. [Syrian civil war:: The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/syrian-civil-war-the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-prote.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/syrian-civil-war-pthe-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-protec.md) _2018-02-06 13:49:25 (Update)_
 2. [The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-protection-of-the-town.md) _(Current version)_
 
 ### Related:

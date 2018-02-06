@@ -16,7 +16,7 @@ Low-key announcement on Twitter, video and email will serve as early test of ‘
 
 ### Changes:
 
-1. [United States presidential election, 2016: Hillary Clinton, former United States Secretary of State, announces that she is seeking the Democratic Party nomination for President in the 2016 election. ](/news/2015/04/12/united-states-presidential-election-2016-hillary-clinton-former-united-states-secretary-of-state-announces-that-she-is-seeking-the-democ.md) _2017-08-27 03:42:11 (First version)_
+1. [United States presidential election, 2016: Hillary Clinton, former United States Secretary of State, announces that she is seeking the Democratic Party nomination for President in the 2016 election. ](/news/2015/04/12/united-states-presidential-election-2016-hillary-clinton-former-united-states-secretary-of-state-announces-that-she-is-seeking-the-democ.md) _2018-02-06 13:49:27 (First version)_
 1. [Hillary Clinton, former United States Secretary of State, announces that she is seeking the Democratic Party nomination for President in the 2016 election. ](/news/2015/04/12/hillary-clinton-former-united-states-secretary-of-state-announces-that-she-is-seeking-the-democratic-party-nomination-for-president-in-the.md) _(Current version)_
 
 ### Related:

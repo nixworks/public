@@ -20,8 +20,8 @@ Two reports of Wikileaks files claim an alleged al-Qaeda &quot;assassin&quot; wa
 
 ### Changes:
 
-1. [Guantanamo Bay files leak:Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-pnewly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-service.md) _2017-08-25 03:32:53 (First version)_
-2. [Guantanamo Bay files leak:: Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-newly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-servic.md) _2017-08-27 03:33:02 (Update)_
+1. [Guantanamo Bay files leak:Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-pnewly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-service.md) _2018-02-06 13:49:22 (First version)_
+2. [Guantanamo Bay files leak:: Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-newly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-servic.md) _2018-02-06 13:49:22 (Update)_
 2. [Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/newly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-service-mi6-while-suspected-of-b.md) _(Current version)_
 
 ### Related:

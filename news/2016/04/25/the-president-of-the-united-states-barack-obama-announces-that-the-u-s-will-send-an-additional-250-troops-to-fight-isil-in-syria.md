@@ -16,7 +16,7 @@ US president expected to give details of new deployment during visit to Hanover
 
 ### Changes:
 
-1. [American-led intervention in Syria: The President of the United States Barack Obama announces that the U.S. will send an additional 250 troops to fight ISIL in Syria. ](/news/2016/04/25/american-led-intervention-in-syria-the-president-of-the-united-states-barack-obama-announces-that-the-u-s-will-send-an-additional-250-troo.md) _2017-08-27 03:45:49 (First version)_
+1. [American-led intervention in Syria: The President of the United States Barack Obama announces that the U.S. will send an additional 250 troops to fight ISIL in Syria. ](/news/2016/04/25/american-led-intervention-in-syria-the-president-of-the-united-states-barack-obama-announces-that-the-u-s-will-send-an-additional-250-troo.md) _2018-02-06 13:49:28 (First version)_
 1. [The President of the United States Barack Obama announces that the U.S. will send an additional 250 troops to fight ISIL in Syria. ](/news/2016/04/25/the-president-of-the-united-states-barack-obama-announces-that-the-u-s-will-send-an-additional-250-troops-to-fight-isil-in-syria.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/09/20/the-new-york-police-department-denies-a-request
 
 ### Changes:
 
-1. [ Iran: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-p-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md) _2017-08-25 03:21:02 (First version)_
-2. [ Iran:: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md) _2017-08-27 03:20:58 (Update)_
+1. [ Iran:: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md) _2018-02-06 13:49:18 (First version)_
+2. [ Iran: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-p-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md) _2018-02-06 13:49:18 (Update)_
 2. [ The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-11-2001.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Rebel forces fail to take oil town of Brega after a fourth straight day of fight
 
 ### Changes:
 
-1. [2011 Libyan civil war:Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md) _2017-08-25 03:32:43 (First version)_
-2. [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md) _2017-08-27 03:32:51 (Update)_
+1. [2011 Libyan civil war:Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md) _2018-02-06 13:49:22 (Update)_
 2. [Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md) _(Current version)_
 
 ### Related:

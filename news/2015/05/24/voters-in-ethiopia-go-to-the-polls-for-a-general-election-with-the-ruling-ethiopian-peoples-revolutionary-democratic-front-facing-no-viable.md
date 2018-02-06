@@ -16,7 +16,7 @@ The international community must challenge Ethiopia’s oppressive regime by giv
 
 ### Changes:
 
-1. [Ethiopian general election, 2015: Voters in Ethiopia go to the polls for a general election with the ruling Ethiopian Peoples' Revolutionary Democratic Front facing no viable opposition. ](/news/2015/05/24/ethiopian-general-election-2015-voters-in-ethiopia-go-to-the-polls-for-a-general-election-with-the-ruling-ethiopian-peoples-revolutionary.md) _2017-08-27 03:42:22 (First version)_
+1. [Ethiopian general election, 2015: Voters in Ethiopia go to the polls for a general election with the ruling Ethiopian Peoples' Revolutionary Democratic Front facing no viable opposition. ](/news/2015/05/24/ethiopian-general-election-2015-voters-in-ethiopia-go-to-the-polls-for-a-general-election-with-the-ruling-ethiopian-peoples-revolutionary.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Ethiopia go to the polls for a general election with the ruling Ethiopian Peoples' Revolutionary Democratic Front facing no viable opposition. ](/news/2015/05/24/voters-in-ethiopia-go-to-the-polls-for-a-general-election-with-the-ruling-ethiopian-peoples-revolutionary-democratic-front-facing-no-viable.md) _(Current version)_
 
 ### Related:

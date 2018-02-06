@@ -17,7 +17,7 @@ British author Sir Salman Rushdie says he does not think his 1988 novel The Sata
 
 ### Changes:
 
-1. [Writer Sir Salman Rushdie expresses doubt that his 1988 novel ''The Satanic Verses'' would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear.md) _2017-08-25 03:36:33 (First version)_
+1. [Writer Sir Salman Rushdie expresses doubt that his 1988 novel ''The Satanic Verses'' would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear.md) _2018-02-06 13:49:23 (First version)_
 1. [Writer Sir Salman Rushdie expresses doubt that his 1988 novel "The Satanic Verses" would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear-an.md) _(Current version)_
 
 ### Related:

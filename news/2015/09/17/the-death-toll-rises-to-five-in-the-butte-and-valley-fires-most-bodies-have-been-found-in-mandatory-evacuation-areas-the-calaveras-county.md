@@ -17,7 +17,7 @@ One was a music composer and teacher. Another was a former newspaper reporter wh
 
 ### Changes:
 
-1. [2015 California wildfires: The death toll rises to five in the Butte and Valley Fires. Most bodies have been found in mandatory evacuation areas. The Calaveras County Sheriff-s Office says the majority of missing persons have been located at shelters or evacuation centers. ](/news/2015/09/17/2015-california-wildfires-the-death-toll-rises-to-five-in-the-butte-and-valley-fires-most-bodies-have-been-found-in-mandatory-evacuation-a.md) _2017-08-27 03:43:04 (First version)_
+1. [2015 California wildfires: The death toll rises to five in the Butte and Valley Fires. Most bodies have been found in mandatory evacuation areas. The Calaveras County Sheriff-s Office says the majority of missing persons have been located at shelters or evacuation centers. ](/news/2015/09/17/2015-california-wildfires-the-death-toll-rises-to-five-in-the-butte-and-valley-fires-most-bodies-have-been-found-in-mandatory-evacuation-a.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll rises to five in the Butte and Valley Fires. Most bodies have been found in mandatory evacuation areas. The Calaveras County Sheriff's Office says the majority of missing persons have been located at shelters or evacuation centers. ](/news/2015/09/17/the-death-toll-rises-to-five-in-the-butte-and-valley-fires-most-bodies-have-been-found-in-mandatory-evacuation-areas-the-calaveras-county.md) _(Current version)_
 
 ### Related:

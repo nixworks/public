@@ -16,8 +16,8 @@ The referendum result is seen as a victory for the president, accused of trying 
 
 ### Changes:
 
-1. [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate of Mauritania. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-of-mauritania-turnout-was-53-73-with.md) _2017-08-07 17:30:05 (First version)_
-2. [Mauritanian constitutional referendum, 2017: Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/mauritanian-constitutional-referendum-2017-results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-s.md) _2017-08-27 03:48:47 (Update)_
+1. [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate of Mauritania. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-of-mauritania-turnout-was-53-73-with.md) _2018-02-06 13:49:31 (First version)_
+2. [Mauritanian constitutional referendum, 2017: Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/mauritanian-constitutional-referendum-2017-results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-s.md) _2018-02-06 13:49:31 (Update)_
 2. [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-turnout-was-53-73-with-85-of-voters.md) _(Current version)_
 
 ### Related:

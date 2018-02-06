@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/10/10/hungarian-holocaust-survivor-imre-kertesz-wins-
 
 ### Changes:
 
-1. [ Hungarian Holocaust survivor Imre Kertsz wins the Nobel Prize for Literature. The Nobel Committee singled out his 1975 novel ''Fateless'', a semiautobiographical account of a boy sent to Auschwitz who survives by detaching himself from the everyday gritty reality.](/news/2002/10/10/hungarian-holocaust-survivor-imre-kertesz-wins-the-nobel-prize-for-literature-the-nobel-committee-singled-out-his-1975-novel-fateless.md) _2017-08-25 03:15:15 (First version)_
+1. [ Hungarian Holocaust survivor Imre Kertsz wins the Nobel Prize for Literature. The Nobel Committee singled out his 1975 novel ''Fateless'', a semiautobiographical account of a boy sent to Auschwitz who survives by detaching himself from the everyday gritty reality.](/news/2002/10/10/hungarian-holocaust-survivor-imre-kertesz-wins-the-nobel-prize-for-literature-the-nobel-committee-singled-out-his-1975-novel-fateless.md) _2018-02-06 13:49:15 (First version)_
 1. [ Hungarian Holocaust survivor Imre Kertsz wins the Nobel Prize for Literature. The Nobel Committee singled out his 1975 novel "Fateless", a semiautobiographical account of a boy sent to Auschwitz who survives by detaching himself from the everyday gritty reality.](/news/2002/10/10/hungarian-holocaust-survivor-imre-kertesz-wins-the-nobel-prize-for-literature-the-nobel-committee-singled-out-his-1975-novel-fateless-a.md) _(Current version)_
 
 ### Related:

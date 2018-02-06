@@ -17,8 +17,8 @@ She says the due-process rights of the accused need to be protected.
 
 ### Changes:
 
-1. [Education secretary Betsy DeVos plans to scrap a sexual assault guideline in college campuses placed by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-scrap-a-sexual-assault-guideline-in-college-campuses-placed-by-the-previous-administration.md) _2017-09-08 03:49:02 (First version)_
-2. [Education secretary Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-administration.md) _2017-09-08 07:30:06 (Update)_
+1. [Education secretary Betsy DeVos plans to scrap a sexual assault guideline in college campuses placed by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-scrap-a-sexual-assault-guideline-in-college-campuses-placed-by-the-previous-administration.md) _2018-02-06 13:49:31 (First version)_
+2. [Education secretary Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-administration.md) _2018-02-06 13:49:31 (Update)_
 2. [United States Secretary of Education Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/united-states-secretary-of-education-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-a.md) _(Current version)_
 
 ### Related:

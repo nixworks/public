@@ -16,7 +16,7 @@ Despite fierce government campaign, many Algerians are more worried about rising
 
 ### Changes:
 
-1. [Algerian legislative election, 2017: Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/algerian-legislative-election-2017-voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-nati.md) _2017-08-27 03:48:17 (First version)_
+1. [Algerian legislative election, 2017: Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/algerian-legislative-election-2017-voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-nati.md) _2018-02-06 13:49:30 (First version)_
 1. [Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-national-assembly.md) _(Current version)_
 
 ### Related:

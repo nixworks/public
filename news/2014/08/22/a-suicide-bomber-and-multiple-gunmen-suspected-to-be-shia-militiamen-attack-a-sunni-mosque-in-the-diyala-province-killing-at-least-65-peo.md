@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/08/22/a-suicide-bomber-and-multiple-gunmen-suspected-
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present):A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/iraqi-insurgency-2011apresent-pa-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyal.md) _2017-08-25 03:40:52 (First version)_
-2. [Iraqi insurgency (2011-present):: A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/iraqi-insurgency-2011-present-a-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diya.md) _2017-08-27 03:41:10 (Update)_
+1. [Iraqi insurgency (2011-present):A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/iraqi-insurgency-2011apresent-pa-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyal.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (2011-present):: A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/iraqi-insurgency-2011-present-a-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diya.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/a-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyala-province-killing-at-least-65-peo.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The former mayor of New York City revealed his decision in a column for Bloomber
 
 ### Changes:
 
-1. [United States presidential election, 2016: Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/united-states-presidential-election-2016-former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-beca.md) _2017-08-27 03:45:09 (First version)_
+1. [United States presidential election, 2016: Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/united-states-presidential-election-2016-former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-beca.md) _2018-02-06 13:49:28 (First version)_
 1. [Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-because-of-the-impact-his-candidacy-might-have.md) _(Current version)_
 
 ### Related:

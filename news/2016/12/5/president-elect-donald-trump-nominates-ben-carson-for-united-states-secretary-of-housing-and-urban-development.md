@@ -16,7 +16,7 @@ President-elect’s former rival for Republican presidential nomination says he 
 
 ### Changes:
 
-1. [Presidential transition of Donald Trump: President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/presidential-transition-of-donald-trump-president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban.md) _2017-08-27 03:47:23 (First version)_
+1. [Presidential transition of Donald Trump: President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/presidential-transition-of-donald-trump-president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban.md) _2018-02-06 13:49:30 (First version)_
 1. [President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban-development.md) _(Current version)_
 
 ### Related:

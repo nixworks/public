@@ -17,8 +17,8 @@ Further violence has broken out in the city of Jos in central Nigeria following 
 
 ### Changes:
 
-1. [Jos attacks:Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/jos-attacks-pfurther-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md) _2017-08-25 03:31:32 (First version)_
-2. [Jos attacks:: Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/jos-attacks-further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md) _2017-08-27 03:31:40 (Update)_
+1. [Jos attacks:Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/jos-attacks-pfurther-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md) _2018-02-06 13:49:21 (First version)_
+2. [Jos attacks:: Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/jos-attacks-further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md) _2018-02-06 13:49:21 (Update)_
 2. [Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md) _(Current version)_
 
 ### Related:

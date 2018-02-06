@@ -19,8 +19,8 @@ Embattled Japanese Prime MinisterNaoto Kan, at risk of losing a no-confidence vo
 
 ### Changes:
 
-1. [Japanese politicsPrime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politicspprime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _2017-08-25 03:33:21 (First version)_
-2. [Japanese politics: Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politics-prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _2017-08-27 03:33:29 (Update)_
+1. [Japanese politicsPrime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politicspprime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _2018-02-06 13:49:22 (First version)_
+2. [Japanese politics: Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politics-prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _2018-02-06 13:49:22 (Update)_
 2. [Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md) _(Current version)_
 
 ### Related:

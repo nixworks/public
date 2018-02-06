@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/04/20/china-s-government-discovers-3850-km-more-of-th
 
 ### Changes:
 
-1. [ China's government discovers {{convert|3850|km|mi}} more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-convert-3850-km-mi-more-of-the-great-wall-of-china.md) _2017-05-01 03:25:31 (First version)_
-2. [ China's government discovers 3850|km|mi more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-3850-km-mi-more-of-the-great-wall-of-china.md) _2017-08-29 03:24:29 (Update)_
+1. [ China's government discovers {{convert|3850|km|mi}} more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-convert-3850-km-mi-more-of-the-great-wall-of-china.md) _2018-02-06 13:49:18 (First version)_
+2. [ China's government discovers 3850|km|mi more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-3850-km-mi-more-of-the-great-wall-of-china.md) _2018-02-06 13:49:18 (Update)_
 2. [ China's government discovers 3850 km more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-3850-km-more-of-the-great-wall-of-china.md) _(Current version)_
 
 ### Related:

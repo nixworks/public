@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen Tan Dung as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n.md) _2017-08-25 03:44:24 (First version)_
+1. [Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen Tan Dung as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n.md) _2018-02-06 13:49:28 (First version)_
 1. [Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen TCNYn Dung as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n-x.md) _(Current version)_
 
 ### Related:

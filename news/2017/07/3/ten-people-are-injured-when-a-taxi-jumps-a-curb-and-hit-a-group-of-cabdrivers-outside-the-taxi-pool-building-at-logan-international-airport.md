@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-
 
 ### Changes:
 
-1. [Ten people are injured when a taxi jumped a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumped-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md) _2017-07-04 03:49:26 (First version)_
+1. [Ten people are injured when a taxi jumped a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumped-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md) _2018-02-06 13:49:31 (First version)_
 1. [Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md) _(Current version)_
 
 ### Related:

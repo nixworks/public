@@ -16,7 +16,7 @@ Sources say the now-weakened Basque militant group is due to announce its comple
 
 ### Changes:
 
-1. [Basque conflict: In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/basque-conflict-in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _2017-08-27 03:48:00 (First version)_
+1. [Basque conflict: In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/basque-conflict-in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _2018-02-06 13:49:30 (First version)_
 1. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _(Current version)_
 
 ### Related:

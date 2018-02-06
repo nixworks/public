@@ -18,7 +18,7 @@ Many rebels have been killed in a government offensive in east Ukraine, acting P
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine and the The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/2014-pro-russian-unrest-in-ukraine-and-the-the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-in-the-city-of-slovia.md) _2017-08-25 03:40:22 (First version)_
+1. [2014 pro-Russian unrest in Ukraine and the The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/2014-pro-russian-unrest-in-ukraine-and-the-the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-in-the-city-of-slovia.md) _2018-02-06 13:49:26 (First version)_
 1. [The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-in-the-city-of-sloviansk-with-claims-of-many-deaths-and-two-ukra.md) _(Current version)_
 
 ### Related:

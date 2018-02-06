@@ -15,8 +15,8 @@ Venezuela&rsquo;s Supreme Court cleared the way for a trial against the country&
 
 ### Changes:
 
-1. [The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-diaz-after-she-voiced-criticism-towards-president-nic.md) _2017-06-21 11:30:07 (First version)_
-2. [2017 Venezuelan protests: The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/2017-venezuelan-protests-the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-daaz-after-she-voiced-crit.md) _2017-08-27 03:48:31 (Update)_
+1. [The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-diaz-after-she-voiced-criticism-towards-president-nic.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Venezuelan protests: The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/2017-venezuelan-protests-the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-daaz-after-she-voiced-crit.md) _2018-02-06 13:49:30 (Update)_
 2. [The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-daaz-after-she-voiced-criticism-towards-president-ni.md) _(Current version)_
 
 ### Related:

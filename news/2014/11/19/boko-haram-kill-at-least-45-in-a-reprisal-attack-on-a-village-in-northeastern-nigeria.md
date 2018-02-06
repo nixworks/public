@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/11/19/boko-haram-kill-at-least-45-in-a-reprisal-attac
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-pboko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md) _2017-08-25 03:41:13 (First version)_
-2. [Islamist insurgency in Nigeria:: Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md) _2017-08-27 03:41:32 (Update)_
+1. [Islamist insurgency in Nigeria:Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-pboko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:: Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md) _2018-02-06 13:49:26 (Update)_
 2. [Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md) _(Current version)_
 
 ### Related:

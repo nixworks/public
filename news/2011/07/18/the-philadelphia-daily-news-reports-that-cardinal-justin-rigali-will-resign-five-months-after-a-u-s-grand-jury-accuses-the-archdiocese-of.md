@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/07/18/the-philadelphia-daily-news-reports-that-cardin
 
 ### Changes:
 
-1. [The ''Philadelphia Daily News'' reports that Cardinal Justin Rigali will resign five months after a U.S. grand jury accuses the Archdiocese of Philadelphia that he heads of failing to investigate claims of sexual abuse of children by clergy in the diocese. ](/news/2011/07/18/the-philadelphia-daily-news-reports-that-cardinal-justin-rigali-will-resign-five-months-after-a-u-s-grand-jury-accuses-the-archdiocese.md) _2017-08-25 03:33:49 (First version)_
+1. [The ''Philadelphia Daily News'' reports that Cardinal Justin Rigali will resign five months after a U.S. grand jury accuses the Archdiocese of Philadelphia that he heads of failing to investigate claims of sexual abuse of children by clergy in the diocese. ](/news/2011/07/18/the-philadelphia-daily-news-reports-that-cardinal-justin-rigali-will-resign-five-months-after-a-u-s-grand-jury-accuses-the-archdiocese.md) _2018-02-06 13:49:22 (First version)_
 1. [The "Philadelphia Daily News" reports that Cardinal Justin Rigali will resign five months after a U.S. grand jury accuses the Archdiocese of Philadelphia that he heads of failing to investigate claims of sexual abuse of children by clergy in the diocese. ](/news/2011/07/18/the-philadelphia-daily-news-reports-that-cardinal-justin-rigali-will-resign-five-months-after-a-u-s-grand-jury-accuses-the-archdiocese-of.md) _(Current version)_
 
 ### Related:

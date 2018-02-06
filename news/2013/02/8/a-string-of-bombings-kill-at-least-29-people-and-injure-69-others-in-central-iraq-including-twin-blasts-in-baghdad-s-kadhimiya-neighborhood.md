@@ -17,8 +17,8 @@ At least 31 people killed and dozens wounded in car bombings in Shia-dominated a
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-b.md) _2017-08-25 03:37:28 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin.md) _2017-08-27 03:37:38 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-b.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin.md) _2018-02-06 13:49:24 (Update)_
 2. [A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-blasts-in-baghdad-s-kadhimiya-neighborhood.md) _(Current version)_
 
 ### Related:

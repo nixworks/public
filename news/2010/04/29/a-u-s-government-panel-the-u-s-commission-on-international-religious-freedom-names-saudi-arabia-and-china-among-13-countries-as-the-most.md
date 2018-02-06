@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-in
 
 ### Changes:
 
-1. [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-mos.md) _2017-08-25 03:27:47 (First version)_
+1. [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-mos.md) _2018-02-06 13:49:20 (First version)_
 1. [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md) _(Current version)_
 
 ### Related:

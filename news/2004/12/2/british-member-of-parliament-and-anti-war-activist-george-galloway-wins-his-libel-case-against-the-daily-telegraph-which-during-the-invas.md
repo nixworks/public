@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/12/2/british-member-of-parliament-and-anti-war-activi
 
 ### Changes:
 
-1. [British Member of Parliament and anti-war activist George Galloway wins his libel case against the ''Daily Telegraph'', which during the invasion of Iraq had published a story suggesting that Galloway had been in the pay of Saddam Hussein. ](/news/2004/12/2/british-member-of-parliament-and-anti-war-activist-george-galloway-wins-his-libel-case-against-the-daily-telegraph-which-during-the-inv.md) _2017-08-25 03:15:28 (First version)_
+1. [British Member of Parliament and anti-war activist George Galloway wins his libel case against the ''Daily Telegraph'', which during the invasion of Iraq had published a story suggesting that Galloway had been in the pay of Saddam Hussein. ](/news/2004/12/2/british-member-of-parliament-and-anti-war-activist-george-galloway-wins-his-libel-case-against-the-daily-telegraph-which-during-the-inv.md) _2018-02-06 13:49:16 (First version)_
 1. [British Member of Parliament and anti-war activist George Galloway wins his libel case against the "Daily Telegraph", which during the invasion of Iraq had published a story suggesting that Galloway had been in the pay of Saddam Hussein. ](/news/2004/12/2/british-member-of-parliament-and-anti-war-activist-george-galloway-wins-his-libel-case-against-the-daily-telegraph-which-during-the-invas.md) _(Current version)_
 
 ### Related:

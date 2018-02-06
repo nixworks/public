@@ -16,7 +16,7 @@ BEIRUT (AFP) - A US-backed Arab-Kurdish alliance advanced Wednesday (Dec 21) to 
 
 ### Changes:
 
-1. [Northern Raqqa offensive: U.S.-backed Syrian Democratic Forces advance to eight kilometers (five miles) from the largest prison held by ISIL near the Tabqa Dam. ](/news/2016/12/21/northern-raqqa-offensive-u-s-backed-syrian-democratic-forces-advance-to-eight-kilometers-five-miles-from-the-largest-prison-held-by-isil.md) _2017-08-27 03:47:29 (First version)_
+1. [Northern Raqqa offensive: U.S.-backed Syrian Democratic Forces advance to eight kilometers (five miles) from the largest prison held by ISIL near the Tabqa Dam. ](/news/2016/12/21/northern-raqqa-offensive-u-s-backed-syrian-democratic-forces-advance-to-eight-kilometers-five-miles-from-the-largest-prison-held-by-isil.md) _2018-02-06 13:49:30 (First version)_
 1. [U.S.-backed Syrian Democratic Forces advance to eight kilometers (five miles) from the largest prison held by ISIL near the Tabqa Dam. ](/news/2016/12/21/u-s-backed-syrian-democratic-forces-advance-to-eight-kilometers-five-miles-from-the-largest-prison-held-by-isil-near-the-tabqa-dam.md) _(Current version)_
 
 ### Related:

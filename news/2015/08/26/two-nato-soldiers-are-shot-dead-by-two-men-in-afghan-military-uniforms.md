@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/08/26/two-nato-soldiers-are-shot-dead-by-two-men-in-a
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/war-in-afghanistan-2015-present-two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md) _2017-08-27 03:42:54 (First version)_
+1. [War in Afghanistan (2015-present): Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/war-in-afghanistan-2015-present-two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md) _2018-02-06 13:49:27 (First version)_
 1. [Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md) _(Current version)_
 
 ### Related:

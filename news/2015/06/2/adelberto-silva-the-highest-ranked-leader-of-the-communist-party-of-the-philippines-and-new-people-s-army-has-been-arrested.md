@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/2/adelberto-silva-the-highest-ranked-leader-of-the
 
 ### Changes:
 
-1. [Communist insurgency in the Philippines: Adelberto Silva, the highest ranked leader of the Communist Party of the Philippines and New People's Army, has been arrested. ](/news/2015/06/2/communist-insurgency-in-the-philippines-adelberto-silva-the-highest-ranked-leader-of-the-communist-party-of-the-philippines-and-new-people.md) _2017-08-27 03:42:28 (First version)_
+1. [Communist insurgency in the Philippines: Adelberto Silva, the highest ranked leader of the Communist Party of the Philippines and New People's Army, has been arrested. ](/news/2015/06/2/communist-insurgency-in-the-philippines-adelberto-silva-the-highest-ranked-leader-of-the-communist-party-of-the-philippines-and-new-people.md) _2018-02-06 13:49:27 (First version)_
 1. [Adelberto Silva, the highest ranked leader of the Communist Party of the Philippines and New People's Army, has been arrested. ](/news/2015/06/2/adelberto-silva-the-highest-ranked-leader-of-the-communist-party-of-the-philippines-and-new-people-s-army-has-been-arrested.md) _(Current version)_
 
 ### Related:

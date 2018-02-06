@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-
 
 ### Changes:
 
-1. [Catalan independence: In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/catalan-independence-in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-mad.md) _2017-08-27 03:46:50 (First version)_
+1. [Catalan independence: In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/catalan-independence-in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-mad.md) _2018-02-06 13:49:29 (First version)_
 1. [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md) _(Current version)_
 
 ### Related:

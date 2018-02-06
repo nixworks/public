@@ -17,7 +17,7 @@ The Russian government continues to partially remove sanctions on Turkey. A new 
 
 ### Changes:
 
-1. [Russia-Turkey relations: Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. ](/news/2017/06/2/russia-turkey-relations-russia-lifts-more-trade-sanctions-it-had-placed-on-turkey-following-the-2015-downing-of-a-russian-fighter-jet.md) _2017-08-27 03:48:25 (First version)_
+1. [Russia-Turkey relations: Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. ](/news/2017/06/2/russia-turkey-relations-russia-lifts-more-trade-sanctions-it-had-placed-on-turkey-following-the-2015-downing-of-a-russian-fighter-jet.md) _2018-02-06 13:49:30 (First version)_
 1. [Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. ](/news/2017/06/2/russia-lifts-more-trade-sanctions-it-had-placed-on-turkey-following-the-2015-downing-of-a-russian-fighter-jet.md) _(Current version)_
 
 ### Related:

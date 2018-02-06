@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a
 
 ### Changes:
 
-1. [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in ''Hudson v. Michigan'', allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where.md) _2017-08-25 03:17:46 (First version)_
+1. [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in ''Hudson v. Michigan'', allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where.md) _2018-02-06 13:49:17 (First version)_
 1. [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in "Hudson v. Michigan", allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where-p.md) _(Current version)_
 
 ### Related:

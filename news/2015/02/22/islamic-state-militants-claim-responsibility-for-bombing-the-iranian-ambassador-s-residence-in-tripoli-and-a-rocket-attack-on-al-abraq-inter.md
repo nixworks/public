@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/02/22/islamic-state-militants-claim-responsibility-fo
 
 ### Changes:
 
-1. [Second Libyan Civil War (2014-present): Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/second-libyan-civil-war-2014-present-islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tri.md) _2017-08-27 03:41:59 (First version)_
+1. [Second Libyan Civil War (2014-present): Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/second-libyan-civil-war-2014-present-islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tri.md) _2018-02-06 13:49:26 (First version)_
 1. [Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tripoli-and-a-rocket-attack-on-al-abraq-inter.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-
 
 ### Changes:
 
-1. [Kurdish-Turkish conflict (2015-present): Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/kurdish-turkish-conflict-2015-present-suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-insta.md) _2017-08-27 03:45:58 (First version)_
+1. [Kurdish-Turkish conflict (2015-present): Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/kurdish-turkish-conflict-2015-present-suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-insta.md) _2018-02-06 13:49:29 (First version)_
 1. [Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-installation-in-turkey-killing-one-soldier-turke.md) _(Current version)_
 
 ### Related:

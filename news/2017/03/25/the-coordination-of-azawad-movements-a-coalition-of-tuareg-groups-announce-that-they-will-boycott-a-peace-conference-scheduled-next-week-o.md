@@ -15,7 +15,7 @@ Separatist groups vow to boycott talks with the government next week, explaining
 
 ### Changes:
 
-1. [Northern Mali conflict: The Coordination of Azawad Movements, a coalition of Tuareg groups, announce that they will boycott a peace conference scheduled next week on implementing a 2015 peace agreement saying it was "not sufficiently inclusive". ](/news/2017/03/25/northern-mali-conflict-the-coordination-of-azawad-movements-a-coalition-of-tuareg-groups-announce-that-they-will-boycott-a-peace-conferen.md) _2017-08-27 03:48:03 (First version)_
+1. [Northern Mali conflict: The Coordination of Azawad Movements, a coalition of Tuareg groups, announce that they will boycott a peace conference scheduled next week on implementing a 2015 peace agreement saying it was "not sufficiently inclusive". ](/news/2017/03/25/northern-mali-conflict-the-coordination-of-azawad-movements-a-coalition-of-tuareg-groups-announce-that-they-will-boycott-a-peace-conferen.md) _2018-02-06 13:49:30 (First version)_
 1. [The Coordination of Azawad Movements, a coalition of Tuareg groups, announce that they will boycott a peace conference scheduled next week on implementing a 2015 peace agreement saying it was "not sufficiently inclusive". ](/news/2017/03/25/the-coordination-of-azawad-movements-a-coalition-of-tuareg-groups-announce-that-they-will-boycott-a-peace-conference-scheduled-next-week-o.md) _(Current version)_
 
 ### Related:

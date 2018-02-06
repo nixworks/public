@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-rama
 
 ### Changes:
 
-1. [Battle of Ramadi: The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/battle-of-ramadi-the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regai.md) _2017-08-27 03:44:29 (First version)_
+1. [Battle of Ramadi: The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/battle-of-ramadi-the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regai.md) _2018-02-06 13:49:28 (First version)_
 1. [The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regain-the-city-from-th.md) _(Current version)_
 
 ### Related:

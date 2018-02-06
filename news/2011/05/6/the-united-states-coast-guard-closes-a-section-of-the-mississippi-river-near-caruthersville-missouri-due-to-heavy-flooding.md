@@ -17,7 +17,7 @@ Historic flooding forced the U.S. Coast Guard to shut down commercial traffic on
 
 ### Changes:
 
-1. [Spring 2011 Mississippi River Floods: The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/spring-2011-mississippi-river-floods-the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri.md) _2017-08-27 03:33:09 (First version)_
+1. [Spring 2011 Mississippi River Floods: The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/spring-2011-mississippi-river-floods-the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri.md) _2018-02-06 13:49:22 (First version)_
 1. [The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri-due-to-heavy-flooding.md) _(Current version)_
 
 ### Related:

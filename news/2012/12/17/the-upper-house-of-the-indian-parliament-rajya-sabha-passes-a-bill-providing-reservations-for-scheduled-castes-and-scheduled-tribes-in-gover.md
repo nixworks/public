@@ -16,7 +16,7 @@ The Rajya Sabha on Monday passed the constitution amendment bill to provide rese
 
 ### Changes:
 
-1. [The upper house of the Indian parliament Rajya Sabha passes a bill providing reservations for Scheduled castes and Scheduled tribes in government job promotions. ](/news/2012/12/17/the-upper-house-of-the-indian-parliament-rajya-sabha-passes-a-bill-providing-reservations-for-scheduled-castes-and-scheduled-tribes-in-gove.md) _2017-08-25 03:37:03 (First version)_
+1. [The upper house of the Indian parliament Rajya Sabha passes a bill providing reservations for Scheduled castes and Scheduled tribes in government job promotions. ](/news/2012/12/17/the-upper-house-of-the-indian-parliament-rajya-sabha-passes-a-bill-providing-reservations-for-scheduled-castes-and-scheduled-tribes-in-gove.md) _2018-02-06 13:49:24 (First version)_
 1. [The upper house of the Indian parliament Rajya Sabha passes a bill providing reservations for Scheduled castes and Scheduled tribes in government job promotions. ](/news/2012/12/17/the-upper-house-of-the-indian-parliament-rajya-sabha-passes-a-bill-providing-reservations-for-scheduled-castes-and-scheduled-tribes-in-gover.md) _(Current version)_
 
 ### Related:

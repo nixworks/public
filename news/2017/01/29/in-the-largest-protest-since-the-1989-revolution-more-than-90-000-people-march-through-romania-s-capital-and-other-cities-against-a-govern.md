@@ -17,8 +17,8 @@ Tens of thousands of people took to the streets in Romania’s main cities, on S
 
 ### Changes:
 
-1. [ In the largest protest since the 1989 Revolution, more than 90,000 people march through Romania's capital and other cities against a government proposal to pardon thousands of prisoners. ](/news/2017/01/29/in-the-largest-protest-since-the-1989-revolution-more-than-90-000-people-march-through-romania-s-capital-and-other-cities-against-a-gover.md) _2017-08-25 03:47:18 (First version)_
-2. [ 2017 Romanian protests: In the largest protest since the 1989 Revolution, more than 90,000 people march through Romania's capital and other cities against a government proposal to pardon thousands of prisoners. ](/news/2017/01/29/2017-romanian-protests-in-the-largest-protest-since-the-1989-revolution-more-than-90-000-people-march-through-romania-s-capital-and-other.md) _2017-08-27 03:47:42 (Update)_
+1. [ In the largest protest since the 1989 Revolution, more than 90,000 people march through Romania's capital and other cities against a government proposal to pardon thousands of prisoners. ](/news/2017/01/29/in-the-largest-protest-since-the-1989-revolution-more-than-90-000-people-march-through-romania-s-capital-and-other-cities-against-a-gover.md) _2018-02-06 13:49:30 (First version)_
+2. [ 2017 Romanian protests: In the largest protest since the 1989 Revolution, more than 90,000 people march through Romania's capital and other cities against a government proposal to pardon thousands of prisoners. ](/news/2017/01/29/2017-romanian-protests-in-the-largest-protest-since-the-1989-revolution-more-than-90-000-people-march-through-romania-s-capital-and-other.md) _2018-02-06 13:49:30 (Update)_
 2. [ In the largest protest since the 1989 Revolution, more than 90,000 people march through Romania's capital and other cities against a government proposal to pardon thousands of prisoners. ](/news/2017/01/29/in-the-largest-protest-since-the-1989-revolution-more-than-90-000-people-march-through-romania-s-capital-and-other-cities-against-a-govern.md) _(Current version)_
 
 ### Related:

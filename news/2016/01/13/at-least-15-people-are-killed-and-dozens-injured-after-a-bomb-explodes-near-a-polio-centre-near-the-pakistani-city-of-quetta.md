@@ -16,7 +16,7 @@ QUETTA: At least 15 people, among them 12 police and a paramilitary official, we
 
 ### Changes:
 
-1. [Terrorism in Pakistan: At least 15 people are killed and dozens injured after a bomb explodes near a polio centre near the Pakistani city of Quetta. ](/news/2016/01/13/terrorism-in-pakistan-at-least-15-people-are-killed-and-dozens-injured-after-a-bomb-explodes-near-a-polio-centre-near-the-pakistani-city-of.md) _2017-08-27 03:44:40 (First version)_
+1. [Terrorism in Pakistan: At least 15 people are killed and dozens injured after a bomb explodes near a polio centre near the Pakistani city of Quetta. ](/news/2016/01/13/terrorism-in-pakistan-at-least-15-people-are-killed-and-dozens-injured-after-a-bomb-explodes-near-a-polio-centre-near-the-pakistani-city-of.md) _2018-02-06 13:49:28 (First version)_
 1. [At least 15 people are killed and dozens injured after a bomb explodes near a polio centre near the Pakistani city of Quetta. ](/news/2016/01/13/at-least-15-people-are-killed-and-dozens-injured-after-a-bomb-explodes-near-a-polio-centre-near-the-pakistani-city-of-quetta.md) _(Current version)_
 
 ### Related:

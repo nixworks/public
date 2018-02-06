@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-mill
 
 ### Changes:
 
-1. [Dublin's Glasnevin Cemetery, which holds 1.5 million corpses, is reopened with a new museum after an -11 million redevelopment. ](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-million-corpses-is-reopened-with-a-new-museum-after-an-11-million-redevelopment.md) _2017-08-27 03:27:32 (First version)_
+1. [Dublin's Glasnevin Cemetery, which holds 1.5 million corpses, is reopened with a new museum after an -11 million redevelopment. ](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-million-corpses-is-reopened-with-a-new-museum-after-an-11-million-redevelopment.md) _2018-02-06 13:49:20 (First version)_
 1. [Dublin's Glasnevin Cemetery, which holds 1.5 million corpses, is reopened with a new museum after an EUR11 million redevelopment. ](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-million-corpses-is-reopened-with-a-new-museum-after-an-a-11-million-redevelopment.md) _(Current version)_
 
 ### Related:

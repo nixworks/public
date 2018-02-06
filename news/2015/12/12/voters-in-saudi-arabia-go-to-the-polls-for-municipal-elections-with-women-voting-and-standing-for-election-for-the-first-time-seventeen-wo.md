@@ -17,7 +17,7 @@ On a recent night in the Saudi capital, municipal council candidate Amal Badredi
 
 ### Changes:
 
-1. [Saudi Arabian municipal elections, 2015: Voters in Saudi Arabia go to the polls for municipal elections, with women voting and standing for election for the first time. Seventeen women are elected to office. ](/news/2015/12/12/saudi-arabian-municipal-elections-2015-voters-in-saudi-arabia-go-to-the-polls-for-municipal-elections-with-women-voting-and-standing-for.md) _2017-08-27 03:44:19 (First version)_
+1. [Saudi Arabian municipal elections, 2015: Voters in Saudi Arabia go to the polls for municipal elections, with women voting and standing for election for the first time. Seventeen women are elected to office. ](/news/2015/12/12/saudi-arabian-municipal-elections-2015-voters-in-saudi-arabia-go-to-the-polls-for-municipal-elections-with-women-voting-and-standing-for.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Saudi Arabia go to the polls for municipal elections, with women voting and standing for election for the first time. Seventeen women are elected to office. ](/news/2015/12/12/voters-in-saudi-arabia-go-to-the-polls-for-municipal-elections-with-women-voting-and-standing-for-election-for-the-first-time-seventeen-wo.md) _(Current version)_
 
 ### Related:

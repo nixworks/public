@@ -15,7 +15,7 @@ Bomber wearing a military uniform was driving a car that exploded at the entranc
 
 ### Changes:
 
-1. [Yemeni Civil War (2015-present): At least eight Yemeni soldiers are killed in a suicide bombing at a military camp in Zinjibar. ](/news/2017/02/24/yemeni-civil-war-2015-present-at-least-eight-yemeni-soldiers-are-killed-in-a-suicide-bombing-at-a-military-camp-in-zinjibar.md) _2017-08-27 03:47:53 (First version)_
+1. [Yemeni Civil War (2015-present): At least eight Yemeni soldiers are killed in a suicide bombing at a military camp in Zinjibar. ](/news/2017/02/24/yemeni-civil-war-2015-present-at-least-eight-yemeni-soldiers-are-killed-in-a-suicide-bombing-at-a-military-camp-in-zinjibar.md) _2018-02-06 13:49:30 (First version)_
 1. [At least eight Yemeni soldiers are killed in a suicide bombing at a military camp in Zinjibar. ](/news/2017/02/24/at-least-eight-yemeni-soldiers-are-killed-in-a-suicide-bombing-at-a-military-camp-in-zinjibar.md) _(Current version)_
 
 ### Related:

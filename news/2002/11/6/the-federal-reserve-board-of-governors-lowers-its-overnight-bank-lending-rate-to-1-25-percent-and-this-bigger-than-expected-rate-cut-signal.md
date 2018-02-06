@@ -4,7 +4,7 @@ Formats: [HTML](/news/2002/11/6/the-federal-reserve-board-of-governors-lowers-it
 ### [2002-11-6](/news/2002/11/6/index.md)
 
 ##### Federal Reserve Board's
-# The Federal Reserve Board of Governors lowers its overnight bank-lending rate to 1.25 percent, and this bigger-than-expected rate cut signals there may be more weakness in the economy than the market expected. The Fed indicated in its statements accompanying the rate cut that concern about a war with Iraq and the thread of terrorism may be slowing consumer and business spending.
+# The Federal Reserve Board of Governors lowers its overnight bank-lending rate to 1.25 percent, and this bigger-than-expected rate cut signals there may be more weakness in the economy than the market expected. The Fed indicated in its statements accompanying the rate cut that concern about a war with Iraq and the threat of terrorism may be slowing consumer and business spending.
 
 
 

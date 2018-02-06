@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/25/deus-caritas-est-god-is-love-the-first-encyclic
 
 ### Changes:
 
-1. [ ''Deus caritas est'' ({{lang-la|God is love}}), the first encyclical of Pope Benedict&nbsp;XVI, is published ](/news/2006/01/25/deus-caritas-est-lang-la-god-is-love-the-first-encyclical-of-pope-benedict-nbsp-xvi-is-published.md) _2017-05-01 03:17:45 (First version)_
+1. [ ''Deus caritas est'' ({{lang-la|God is love}}), the first encyclical of Pope Benedict&nbsp;XVI, is published ](/news/2006/01/25/deus-caritas-est-lang-la-god-is-love-the-first-encyclical-of-pope-benedict-nbsp-xvi-is-published.md) _2018-02-06 13:49:16 (First version)_
 1. [ "Deus caritas est" (God is love), the first encyclical of Pope Benedict&nbsp;XVI, is published ](/news/2006/01/25/deus-caritas-est-god-is-love-the-first-encyclical-of-pope-benedict-nbsp-xvi-is-published.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Libyan security forces regain control of the main airport in Tripoli, after a mi
 
 ### Changes:
 
-1. [Aftermath of the Libyan civil war:A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/aftermath-of-the-libyan-civil-war-pa-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release-o.md) _2017-08-25 03:35:48 (First version)_
-2. [Aftermath of the Libyan civil war:: A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/aftermath-of-the-libyan-civil-war-a-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release.md) _2017-08-27 03:35:59 (Update)_
+1. [Aftermath of the Libyan civil war:A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/aftermath-of-the-libyan-civil-war-pa-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release-o.md) _2018-02-06 13:49:23 (First version)_
+2. [Aftermath of the Libyan civil war:: A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/aftermath-of-the-libyan-civil-war-a-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release.md) _2018-02-06 13:49:23 (Update)_
 2. [A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/a-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release-of-their-leader-who-went-missing.md) _(Current version)_
 
 ### Related:

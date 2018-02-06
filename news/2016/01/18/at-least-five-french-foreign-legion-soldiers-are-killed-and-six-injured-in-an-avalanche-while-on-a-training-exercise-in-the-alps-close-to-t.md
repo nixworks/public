@@ -16,7 +16,7 @@ Five French Foreign Legionnaires are killed and six injured in an avalanche whil
 
 ### Changes:
 
-1. [Modane avalanche: At least five French Foreign Legion soldiers are killed and six injured in an avalanche while on a training exercise in the Alps, close to the Italian border. The soldiers were members of the 2nd Foreign Engineer Regiment. ](/news/2016/01/18/modane-avalanche-at-least-five-french-foreign-legion-soldiers-are-killed-and-six-injured-in-an-avalanche-while-on-a-training-exercise-in-th.md) _2017-08-27 03:44:43 (First version)_
+1. [Modane avalanche: At least five French Foreign Legion soldiers are killed and six injured in an avalanche while on a training exercise in the Alps, close to the Italian border. The soldiers were members of the 2nd Foreign Engineer Regiment. ](/news/2016/01/18/modane-avalanche-at-least-five-french-foreign-legion-soldiers-are-killed-and-six-injured-in-an-avalanche-while-on-a-training-exercise-in-th.md) _2018-02-06 13:49:28 (First version)_
 1. [At least five French Foreign Legion soldiers are killed and six injured in an avalanche while on a training exercise in the Alps, close to the Italian border. The soldiers were members of the 2nd Foreign Engineer Regiment. ](/news/2016/01/18/at-least-five-french-foreign-legion-soldiers-are-killed-and-six-injured-in-an-avalanche-while-on-a-training-exercise-in-the-alps-close-to-t.md) _(Current version)_
 
 ### Related:

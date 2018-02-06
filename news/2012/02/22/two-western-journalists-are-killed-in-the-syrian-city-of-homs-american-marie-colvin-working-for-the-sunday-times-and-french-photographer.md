@@ -17,8 +17,8 @@ American correspondent Marie Colvin and French photographer Remi Ochlik were kil
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising:Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the ''Sunday Times'' and French photographer Remi Ochlik. ](/news/2012/02/22/2011a2012-syrian-uprising-ptwo-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-t.md) _2017-08-25 03:35:06 (First version)_
-2. [2011-2012 Syrian uprising:: Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the "Sunday Times" and French photographer Remi Ochlik. ](/news/2012/02/22/2011-2012-syrian-uprising-two-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-t.md) _2017-08-27 03:35:16 (Update)_
+1. [2011-2012 Syrian uprising:Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the ''Sunday Times'' and French photographer Remi Ochlik. ](/news/2012/02/22/2011a2012-syrian-uprising-ptwo-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-t.md) _2018-02-06 13:49:23 (First version)_
+2. [2011-2012 Syrian uprising:: Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the "Sunday Times" and French photographer Remi Ochlik. ](/news/2012/02/22/2011-2012-syrian-uprising-two-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-t.md) _2018-02-06 13:49:23 (Update)_
 2. [Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the "Sunday Times" and French photographer Remi Ochlik. ](/news/2012/02/22/two-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-times-and-french-photographer.md) _(Current version)_
 
 ### Related:

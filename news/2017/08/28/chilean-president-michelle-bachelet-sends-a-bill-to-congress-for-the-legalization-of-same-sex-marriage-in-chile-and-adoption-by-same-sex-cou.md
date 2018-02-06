@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bil
 
 ### Changes:
 
-1. [ Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-and-adoption-by-same-sex-couples-tw.md) _2017-08-28 21:30:05 (First version)_
+1. [ Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-and-adoption-by-same-sex-couples-tw.md) _2018-02-06 13:49:31 (First version)_
 1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _(Current version)_
 
 ### Related:

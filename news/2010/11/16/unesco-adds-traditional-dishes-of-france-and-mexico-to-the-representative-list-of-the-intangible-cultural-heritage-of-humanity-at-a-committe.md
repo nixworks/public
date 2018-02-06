@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-me
 
 ### Changes:
 
-1. [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committ.md) _2017-08-25 03:31:03 (First version)_
+1. [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committ.md) _2018-02-06 13:49:21 (First version)_
 1. [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md) _(Current version)_
 
 ### Related:

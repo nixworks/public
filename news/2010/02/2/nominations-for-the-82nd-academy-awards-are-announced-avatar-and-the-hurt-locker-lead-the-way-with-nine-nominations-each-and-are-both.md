@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-anno
 
 ### Changes:
 
-1. [Nominations for the 82nd Academy Awards are announced. ''Avatar'' and ''The Hurt Locker'' lead the way with nine nominations each, and are both among ten nominees for Best Picture, the first time more than five films have been up for consideration since 1943. ](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-announced-avatar-and-the-hurt-locker-lead-the-way-with-nine-nominations-each-and-are-b.md) _2017-08-25 03:27:04 (First version)_
+1. [Nominations for the 82nd Academy Awards are announced. ''Avatar'' and ''The Hurt Locker'' lead the way with nine nominations each, and are both among ten nominees for Best Picture, the first time more than five films have been up for consideration since 1943. ](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-announced-avatar-and-the-hurt-locker-lead-the-way-with-nine-nominations-each-and-are-b.md) _2018-02-06 13:49:19 (First version)_
 1. [Nominations for the 82nd Academy Awards are announced. "Avatar" and "The Hurt Locker" lead the way with nine nominations each, and are both among ten nominees for Best Picture, the first time more than five films have been up for consideration since 1943. ](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-announced-avatar-and-the-hurt-locker-lead-the-way-with-nine-nominations-each-and-are-both.md) _(Current version)_
 
 ### Related:

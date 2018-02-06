@@ -5,11 +5,11 @@ Formats: [HTML](2008/06/12/index.html)  [JSON](2008/06/12/index.json)  [XML](200
 
 ##### Wildfire
 ### [ Wildfires in northern California lead to the evacuation of residents in Paradise, California and Bonny Doon, California. ](/news/2008/06/12/wildfires-in-northern-california-lead-to-the-evacuation-of-residents-in-paradise-california-and-bonny-doon-california.md)
-_Context: California, Wildfire, Bonny Doon, California, Paradise, California_
+_Context: Paradise, California, Wildfire, Bonny Doon, California, California_
 
 ##### Ecuador
 ### [ Ecuadorean police arrest four men including three Colombians on suspicion of plotting an assassination of the President of Ecuador Rafael Correa. ](/news/2008/06/12/ecuadorean-police-arrest-four-men-including-three-colombians-on-suspicion-of-plotting-an-assassination-of-the-president-of-ecuador-rafael-c.md)
-_Context: Rafael Correa, Colombia, President, Ecuador_
+_Context: Rafael Correa, Colombia, Ecuador, President_
 
 ##### Tendai Biti
 ### [ Tendai Biti, the Secretary of the Movement for Democratic Change in Zimbabwe, is arrested in Harare. ](/news/2008/06/12/tendai-biti-the-secretary-of-the-movement-for-democratic-change-in-zimbabwe-is-arrested-in-harare.md)
@@ -21,31 +21,31 @@ _Context: Cedar Rapids, Cedar River_
 
 ##### David Davis
 ### [ David Davis, the Conservative Shadow Home Secretary resigns as the Member of Parliament for Haltemprice and Howden in order to contest the Haltemprice and Howden by-election, 2008 on civil liberties issues. ](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.md)
-_Context: civil liberties, Shadow Home Secretary, MP, Haltemprice and Howden by-election, David Davis, Haltemprice and Howden, Conservative Party_
+_Context: Shadow Home Secretary, David Davis, MP, Conservative Party, Haltemprice and Howden by-election, Haltemprice and Howden, civil liberties_
 
 ##### Salmonella
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: Salmonella, United States, tomato_
+_Context: United States, tomato, Salmonella_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
-_Context: United States Secretary of Defense, Robert Gates, Pakistan, Gora Prai airstrike, Afghanistan_
+_Context: Robert Gates, Afghanistan, United States Secretary of Defense, Pakistan, Gora Prai airstrike_
 
 ##### Cuba
 ### [ Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. ](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.md)
-_Context: world record, 110 metre hurdles, Ostrava, Czech Republic, Dayron Robles, Cuba_
+_Context: 110 metre hurdles, Czech Republic, Dayron Robles, world record, Ostrava, Cuba_
 
 ##### international aid
 ### [ More than 80 countries and international aid organisations meet in Paris to develop a strategy for delivering billions of dollars in aid to Afghanistan. ](/news/2008/06/12/more-than-80-countries-and-international-aid-organisations-meet-in-paris-to-develop-a-strategy-for-delivering-billions-of-dollars-in-aid-to.md)
-_Context: international aid, Afghanistan, Paris_
+_Context: international aid, Paris, Afghanistan_
 
 ##### China
 ### [ The People's Republic of China and Taiwan begin their first formal talks in a decade on improving cross-strait relations. ](/news/2008/06/12/the-people-s-republic-of-china-and-taiwan-begin-their-first-formal-talks-in-a-decade-on-improving-cross-strait-relations.md)
-_Context: China, cross-strait relations, Taiwan_
+_Context: Taiwan, cross-strait relations, China_
 
 ##### Ireland
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
-_Context: European Union, the second Irish referendum, Ireland, Treaty of Lisbon, ratification_
+_Context: ratification, European Union, the second Irish referendum, Treaty of Lisbon, Ireland_
 
 ##### Boumediene v. Bush
 ### [ In "Boumediene v. Bush", the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights-to.md)
@@ -53,7 +53,7 @@ The Supreme Court rejected the Bush administration’s argument that the Guantá
 
 ##### Washington Capitals
 ### [ Washington Capitals forward Alexander Ovechkin wins the Hart Memorial Trophy as most valuable player for the National Hockey League 2007-2008 season as well as the Art Ross Trophy for most points and the Rocket Richard Trophy for top goal scorer. ](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.md)
-_Context: Art Ross Trophy, National Hockey League, Hart Memorial Trophy, Washington Capitals, Rocket Richard Trophy, Alexander Ovechkin_
+_Context: Hart Memorial Trophy, Rocket Richard Trophy, National Hockey League, Washington Capitals, Alexander Ovechkin, Art Ross Trophy_
 
 ##### Bill C-61
 ### [ Bill C-61, An Act to amend the Copyright Act, is tabled in the second session of the 39th Canadian Parliament by Minister of Industry Jim Prentice, in efforts to better comply to the WIPO treaty. ](/news/2008/06/12/bill-c-61-an-act-to-amend-the-copyright-act-is-tabled-in-the-second-session-of-the-39th-canadian-parliament-by-minister-of-industry-jim-p.md)

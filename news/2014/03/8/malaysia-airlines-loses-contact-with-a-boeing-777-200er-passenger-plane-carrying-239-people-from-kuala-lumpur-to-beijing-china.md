@@ -16,7 +16,7 @@ South-east Asian states join forces to search waters between Malaysia and Vietna
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: Malaysia Airlines loses contact with a Boeing 777-200ER passenger plane carrying 239 people from Kuala Lumpur to Beijing, China. ](/news/2014/03/8/malaysia-airlines-flight-370-malaysia-airlines-loses-contact-with-a-boeing-777-200er-passenger-plane-carrying-239-people-from-kuala-lumpur.md) _2017-08-27 03:40:26 (First version)_
+1. [Malaysia Airlines Flight 370: Malaysia Airlines loses contact with a Boeing 777-200ER passenger plane carrying 239 people from Kuala Lumpur to Beijing, China. ](/news/2014/03/8/malaysia-airlines-flight-370-malaysia-airlines-loses-contact-with-a-boeing-777-200er-passenger-plane-carrying-239-people-from-kuala-lumpur.md) _2018-02-06 13:49:26 (First version)_
 1. [Malaysia Airlines loses contact with a Boeing 777-200ER passenger plane carrying 239 people from Kuala Lumpur to Beijing, China. ](/news/2014/03/8/malaysia-airlines-loses-contact-with-a-boeing-777-200er-passenger-plane-carrying-239-people-from-kuala-lumpur-to-beijing-china.md) _(Current version)_
 
 ### Related:

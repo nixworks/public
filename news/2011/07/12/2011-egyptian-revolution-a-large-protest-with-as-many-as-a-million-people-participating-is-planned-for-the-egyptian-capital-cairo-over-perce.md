@@ -22,8 +22,8 @@ Thousands of Egyptians are protesting in Cairo to demand faster political reform
 
 ### Changes:
 
-1. [2011 Egyptian revolution:A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/2011-egyptian-revolution-pa-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-cairo-over-perc.md) _2017-08-25 03:33:46 (First version)_
-2. [Arab Spring: 2011 Egyptian revolution:: A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/arab-spring-2011-egyptian-revolution-a-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-c.md) _2017-08-27 03:33:53 (Update)_
+1. [Arab Spring: 2011 Egyptian revolution:: A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/arab-spring-2011-egyptian-revolution-a-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-c.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian revolution:A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/2011-egyptian-revolution-pa-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-cairo-over-perc.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Egyptian revolution:A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/2011-egyptian-revolution-a-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-cairo-over-perce.md) _(Current version)_
 
 ### Related:

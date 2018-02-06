@@ -18,8 +18,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Changes:
 
-1. [ Darfur conflict: The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/darfur-conflict-p-the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md) _2017-08-25 03:17:35 (First version)_
-2. [ Darfur conflict:: The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/darfur-conflict-the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md) _2017-08-27 03:17:35 (Update)_
+1. [ Darfur conflict:: The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/darfur-conflict-the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md) _2018-02-06 13:49:17 (First version)_
+2. [ Darfur conflict: The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/darfur-conflict-p-the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md) _2018-02-06 13:49:17 (Update)_
 2. [ The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ Gov. Pat McCrory, trailing by thousands of votes three weeks after the election,
 
 ### Changes:
 
-1. [The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory-to-accept-his-defeat-by-democratic-nominee-r.md) _2017-08-25 03:46:56 (First version)_
-2. [North Carolina gubernatorial election, 2016: The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/north-carolina-gubernatorial-election-2016-the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory.md) _2017-08-27 03:47:20 (Update)_
+1. [The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory-to-accept-his-defeat-by-democratic-nominee-r.md) _2018-02-06 13:49:29 (First version)_
+2. [North Carolina gubernatorial election, 2016: The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/north-carolina-gubernatorial-election-2016-the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory.md) _2018-02-06 13:49:29 (Update)_
 2. [The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory-to-accept-his-defeat-by-democratic-nominee-ro.md) _(Current version)_
 
 ### Related:

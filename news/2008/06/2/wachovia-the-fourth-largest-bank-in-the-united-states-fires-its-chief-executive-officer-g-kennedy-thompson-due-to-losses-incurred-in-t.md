@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/06/2/wachovia-the-fourth-largest-bank-in-the-united-s
 
 ### Changes:
 
-1. [ Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-due-to-losses-incurred-in.md) _2017-08-25 03:22:16 (First version)_
-2. [ Subprime mortgage crisis: Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/subprime-mortgage-crisis-wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-d.md) _2017-08-27 03:22:11 (Update)_
+1. [ Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-due-to-losses-incurred-in.md) _2018-02-06 13:49:18 (First version)_
+2. [ Subprime mortgage crisis: Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/subprime-mortgage-crisis-wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-d.md) _2018-02-06 13:49:18 (Update)_
 2. [ Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-due-to-losses-incurred-in-t.md) _(Current version)_
 
 ### Related:

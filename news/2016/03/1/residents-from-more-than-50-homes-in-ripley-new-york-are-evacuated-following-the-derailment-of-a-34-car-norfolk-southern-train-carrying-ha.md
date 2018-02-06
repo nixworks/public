@@ -17,7 +17,7 @@ Dozens of residents in western New York town were evacuated from their homes ear
 
 ### Changes:
 
-1. [Residents from more than 50 homes in Ripley, New York, are evacuated following the derailment of a 34-car Norfolk Southern train carrying hazardous materials in the southwestern part of the state. Ethanol leaked from the two of the 16 derailed cars. A third car carrying propane crashed but did not leak. ](/news/2016/03/1/residents-from-more-than-50-homes-in-ripley-new-york-are-evacuated-following-the-derailment-of-a-34-car-norfolk-southern-train-carrying-h.md) _2017-08-25 03:44:44 (First version)_
+1. [Residents from more than 50 homes in Ripley, New York, are evacuated following the derailment of a 34-car Norfolk Southern train carrying hazardous materials in the southwestern part of the state. Ethanol leaked from the two of the 16 derailed cars. A third car carrying propane crashed but did not leak. ](/news/2016/03/1/residents-from-more-than-50-homes-in-ripley-new-york-are-evacuated-following-the-derailment-of-a-34-car-norfolk-southern-train-carrying-h.md) _2018-02-06 13:49:28 (First version)_
 1. [Residents from more than 50 homes in Ripley, New York, are evacuated following the derailment of a 34-car Norfolk Southern train carrying hazardous materials in the southwestern part of the state. Ethanol leaked from the two of the 16 derailed cars. A third car carrying propane crashed but did not leak. ](/news/2016/03/1/residents-from-more-than-50-homes-in-ripley-new-york-are-evacuated-following-the-derailment-of-a-34-car-norfolk-southern-train-carrying-ha.md) _(Current version)_
 
 ### Related:

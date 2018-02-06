@@ -18,8 +18,8 @@ Dozens of people are killed in a government air strike on a bakery in central Sy
 
 ### Changes:
 
-1. [Syrian civil war:Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-pup-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _2017-08-25 03:37:06 (First version)_
-2. [Syrian civil war:: Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _2017-08-27 03:37:17 (Update)_
+1. [Syrian civil war:: Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-pup-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _2018-02-06 13:49:24 (Update)_
 2. [Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md) _(Current version)_
 
 ### Related:

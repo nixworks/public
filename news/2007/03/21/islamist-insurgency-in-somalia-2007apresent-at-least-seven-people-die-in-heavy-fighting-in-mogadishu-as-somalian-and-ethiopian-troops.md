@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-
 
 ### Changes:
 
-1. [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007-present-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md) _2017-08-27 03:19:22 (First version)_
+1. [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007-present-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md) _2018-02-06 13:49:17 (First version)_
 1. [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md) _(Current version)_
 
 ### Related:

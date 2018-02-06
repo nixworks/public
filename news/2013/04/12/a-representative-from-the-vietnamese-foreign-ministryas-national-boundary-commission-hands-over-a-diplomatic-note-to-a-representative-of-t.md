@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-mi
 
 ### Changes:
 
-1. [A representative from the Vietnamese Foreign Ministry-s National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministry-s-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md) _2017-08-27 03:38:30 (First version)_
+1. [A representative from the Vietnamese Foreign Ministry-s National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministry-s-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md) _2018-02-06 13:49:24 (First version)_
 1. [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md) _(Current version)_
 
 ### Related:

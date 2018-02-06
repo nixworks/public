@@ -18,7 +18,7 @@ Media boss Richard Desmond tonight began &quot;immediate steps&quot; to close do
 
 ### Changes:
 
-1. [Following the decision of ''Irish Daily Star'' editor Michael O'Kane to publish topless photographs of The Duchess of Cambridge, Northern & Shell chairman Richard Desmond immediately closes down his joint venture with the tabloid. ](/news/2012/09/15/following-the-decision-of-irish-daily-star-editor-michael-o-kane-to-publish-topless-photographs-of-the-duchess-of-cambridge-northern.md) _2017-08-25 03:36:31 (First version)_
+1. [Following the decision of ''Irish Daily Star'' editor Michael O'Kane to publish topless photographs of The Duchess of Cambridge, Northern & Shell chairman Richard Desmond immediately closes down his joint venture with the tabloid. ](/news/2012/09/15/following-the-decision-of-irish-daily-star-editor-michael-o-kane-to-publish-topless-photographs-of-the-duchess-of-cambridge-northern.md) _2018-02-06 13:49:23 (First version)_
 1. [Following the decision of "Irish Daily Star" editor Michael O'Kane to publish topless photographs of The Duchess of Cambridge, Northern & Shell chairman Richard Desmond immediately closes down his joint venture with the tabloid. ](/news/2012/09/15/following-the-decision-of-irish-daily-star-editor-michael-o-kane-to-publish-topless-photographs-of-the-duchess-of-cambridge-northern-sh.md) _(Current version)_
 
 ### Related:

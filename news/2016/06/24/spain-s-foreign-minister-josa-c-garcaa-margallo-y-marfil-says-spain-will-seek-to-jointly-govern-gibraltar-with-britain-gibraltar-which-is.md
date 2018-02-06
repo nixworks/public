@@ -16,7 +16,7 @@ Spain will seek to jointly govern Gibraltar with Britain following the British v
 
 ### Changes:
 
-1. [Brexit impact: Spain's Foreign Minister Jose Garcia-Margallo y Marfil says Spain will seek to jointly govern Gibraltar with Britain. Gibraltar, which is at the southern end of the Iberian peninsula bordering Spain, overwhelmingly voted in favour of Britain remaining in the EU. ](/news/2016/06/24/brexit-impact-spain-s-foreign-minister-josa-c-garcaa-margallo-y-marfil-says-spain-will-seek-to-jointly-govern-gibraltar-with-britain-gibra.md) _2017-08-27 03:46:20 (First version)_
+1. [Brexit impact: Spain's Foreign Minister Jose Garcia-Margallo y Marfil says Spain will seek to jointly govern Gibraltar with Britain. Gibraltar, which is at the southern end of the Iberian peninsula bordering Spain, overwhelmingly voted in favour of Britain remaining in the EU. ](/news/2016/06/24/brexit-impact-spain-s-foreign-minister-josa-c-garcaa-margallo-y-marfil-says-spain-will-seek-to-jointly-govern-gibraltar-with-britain-gibra.md) _2018-02-06 13:49:29 (First version)_
 1. [Spain's Foreign Minister Jose Garcia-Margallo y Marfil says Spain will seek to jointly govern Gibraltar with Britain. Gibraltar, which is at the southern end of the Iberian peninsula bordering Spain, overwhelmingly voted in favour of Britain remaining in the EU. ](/news/2016/06/24/spain-s-foreign-minister-josa-c-garcaa-margallo-y-marfil-says-spain-will-seek-to-jointly-govern-gibraltar-with-britain-gibraltar-which-is.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-w
 
 ### Changes:
 
-1. [''Forbes'' releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fou.md) _2017-08-25 03:37:43 (First version)_
+1. [''Forbes'' releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fou.md) _2018-02-06 13:49:24 (First version)_
 1. ["Forbes" releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fourt.md) _(Current version)_
 
 ### Related:

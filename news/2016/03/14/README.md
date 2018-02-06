@@ -13,9 +13,9 @@ _Context: Israeli, Israeli Defence Forces, Palestinian, Israeli-Palestinian conf
 
 ##### Mexican Drug War
 ### [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md)
-_Context: Mexico, Reynosa, Mexican Drug War_
+_Context: Reynosa, Mexico, Mexican Drug War_
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [A United Arab Emirates Air Force fighter jet crashes in a mountainous area near the southern Yemeni city of Aden, killing both pilots. ](/news/2016/03/14/a-united-arab-emirates-air-force-fighter-jet-crashes-in-a-mountainous-area-near-the-southern-yemeni-city-of-aden-killing-both-pilots.md)
 Two Emirati pilots were killed when their jet crashed during a mission against Houthi rebels in Yemen, the Saudi-led coalition says.
 
@@ -37,7 +37,7 @@ Some of the injured in critical condition; cause of incident being investigated
 
 ##### North Korea's nuclear program
 ### [North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-test-and-test-launch-ballistic-missiles-capabl.md)
-_Context: North Korea, leader, North Korea's nuclear program, Korean Central News Agency, Kim Jong-un_
+_Context: North Korea, North Korea's nuclear program, Korean Central News Agency, leader, Kim Jong-un_
 
 ##### Status of press freedom worldwide
 ### [Australian Foreign Minister Julie Bishop says the government is very concerned about Saturday's arrest and detention of two Australian Broadcasting Corporation journalists who attempted to interview Malaysian Prime Minister Najib Razak. The pair, who are in Malaysia to investigate allegations of corruption and bribery involving the prime minister, were detained by Malaysian police for six hours, and told not to leave the country. ](/news/2016/03/14/australian-foreign-minister-julie-bishop-says-the-government-is-very-concerned-about-saturday-s-arrest-and-detention-of-two-australian-broad.md)

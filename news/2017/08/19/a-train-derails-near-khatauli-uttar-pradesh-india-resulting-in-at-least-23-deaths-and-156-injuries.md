@@ -17,9 +17,9 @@ A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 pe
 
 ### Changes:
 
-1. [A train derails near Muzaffarnagar, Uttar Pradesh, India, causing at least 10 fatalities. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-causing-at-least-10-fatalities.md) _2017-08-19 20:30:05 (First version)_
-2. [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md) _2017-08-22 07:30:04 (Update)_
-3. [2017 Khatauli train derailment: A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _2017-08-27 03:48:49 (Update)_
+1. [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md) _2018-02-06 13:49:31 (First version)_
+2. [A train derails near Muzaffarnagar, Uttar Pradesh, India, causing at least 10 fatalities. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-causing-at-least-10-fatalities.md) _2018-02-06 13:49:31 (Update)_
+3. [2017 Khatauli train derailment: A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _2018-02-06 13:49:31 (Update)_
 3. [A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _(Current version)_
 
 ### Related:

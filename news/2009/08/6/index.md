@@ -9,7 +9,7 @@ Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomi
 
 ##### Iran
 ### [ Supporters of Iran's opposition leader, Mir-Hossein Mousavi, battle riot police as they hoot horns and take to the streets of Tehran shouting "Death to the dictator". ](/news/2009/08/6/supporters-of-iran-s-opposition-leader-mir-hossein-mousavi-battle-riot-police-as-they-hoot-horns-and-take-to-the-streets-of-tehran-shouti.md)
-_Context: Mahmoud Ahmadinejad, Mir-Hossein Mousavi, Iran, Tehran_
+_Context: Iran, Mahmoud Ahmadinejad, Mir-Hossein Mousavi, Tehran_
 
 ##### India
 ### [ An Indian court sentences to death three people for carrying out bombings that killed more than 50 people in Mumbai in 2003. ](/news/2009/08/6/an-indian-court-sentences-to-death-three-people-for-carrying-out-bombings-that-killed-more-than-50-people-in-mumbai-in-2003.md)
@@ -17,15 +17,15 @@ Court sentences three people to death for their role in bombings that killed at 
 
 ##### Madagascar
 ### [ Malagasy crisis talks resume between interim leader Andry Rajoelina, ousted president Marc Ravalomanana and former presidents Didier Ratsiraka and Albert Zafy in Maputo, Mozambique. ](/news/2009/08/6/malagasy-crisis-talks-resume-between-interim-leader-andry-rajoelina-ousted-president-marc-ravalomanana-and-former-presidents-didier-ratsir.md)
-_Context: Marc Ravalomanana, Didier Ratsiraka, Albert Zafy, Andry Rajoelina, Madagascar, Mozambique, Maputo_
+_Context: Andry Rajoelina, Marc Ravalomanana, Didier Ratsiraka, Mozambique, Madagascar, Maputo, Albert Zafy_
 
 ##### New Zealand
 ### [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
-_Context: Pacific Islands Forum, Commodore, Fiji, Voreqe Bainimarama, New Zealand, John Key, Prime Minister, Prime Minister_
+_Context: Prime Minister, Pacific Islands Forum, Prime Minister, Commodore, Voreqe Bainimarama, John Key, Fiji, New Zealand_
 
 ##### Argentina
 ### [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md)
-_Context: Brazil, Bolivia, Alvaro Uribe, Argentina, United States, Peru, Colombian President, Colombia, Venezuela_
+_Context: Venezuela, Colombia, Argentina, Alvaro Uribe, Brazil, Colombian President, Peru, United States, Bolivia_
 
 ##### Brazil
 ### [ Brazil returns 1.500 tonnes of syringes, condoms and dirty nappies which were sent from the United Kingdom. ](/news/2009/08/6/brazil-returns-1-500-tonnes-of-syringes-condoms-and-dirty-nappies-which-were-sent-from-the-united-kingdom.md)
@@ -37,7 +37,7 @@ Twitter and Facebook suffered service problems today, raising speculation that t
 
 ##### South Africa
 ### [ South African photographer Neil Hartmann, accused of documenting Namibia's annual seal cull, is detained without charge for nearly seven hours less than a month after the arrest of two journalists. ](/news/2009/08/6/south-african-photographer-neil-hartmann-accused-of-documenting-namibia-s-annual-seal-cull-is-detained-without-charge-for-nearly-seven-ho.md)
-_Context: Namibia, Neil Hartmann, South Africa_
+_Context: South Africa, Namibia, Neil Hartmann_
 
 ##### South Korea
 ### [ A company manager claims that an 77-day occupation of a car plant by hundreds of laid-off workers in South Korea has come to an end. ](/news/2009/08/6/a-company-manager-claims-that-an-77-day-occupation-of-a-car-plant-by-hundreds-of-laid-off-workers-in-south-korea-has-come-to-an-end.md)
@@ -49,15 +49,15 @@ Japan’s first jury trial in more than a half century concluded as a panel of t
 
 ##### Iran
 ### [ Iran bans all pilgrimages to Saudi Arabia during the Islamic holy month of Ramadan in an attempt to contain the spread of swine flu. ](/news/2009/08/6/iran-bans-all-pilgrimages-to-saudi-arabia-during-the-islamic-holy-month-of-ramadan-in-an-attempt-to-contain-the-spread-of-swine-flu.md)
-_Context: Iran, Ramadan, Saudi Arabia, Islam, swine flu, attempt to contain the spread_
+_Context: attempt to contain the spread, Ramadan, Saudi Arabia, Islam, Iran, swine flu_
 
 ##### Pune
 ### [ Hundreds of panic-stricken people queue at hospitals in Pune, India, to be tested for swine flu following the first death from the disease in that country. ](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.md)
-_Context: Pune, India, first death from the disease_
+_Context: India, Pune, first death from the disease_
 
 ##### Iraq
 ### [ The Iraqi cabinet agrees a draft law to restrict smoking in public places and ban tobacco advertising. ](/news/2009/08/6/the-iraqi-cabinet-agrees-a-draft-law-to-restrict-smoking-in-public-places-and-ban-tobacco-advertising.md)
-_Context: tobacco, smoking, Iraq_
+_Context: Iraq, tobacco, smoking_
 
 ##### President
 ### [ President Jacob Zuma names Sandile Ngcobo as Chief Justice of South Africa. ](/news/2009/08/6/president-jacob-zuma-names-sandile-ngcobo-as-chief-justice-of-south-africa.md)
@@ -73,7 +73,7 @@ _Context: Belgium, Melle_
 
 ##### Democratic Republic of Congo
 ### [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md)
-_Context: Paul Kagame, Rwanda, Democratic Republic of Congo, Kabila government_
+_Context: Kabila government, Rwanda, Paul Kagame, Democratic Republic of Congo_
 
 ##### AIDS
 ### [ Scientists say they have decoded the entire genetic structure of HIV-1&mdash;the main cause of AIDS in humans. ](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.md)
@@ -81,15 +81,15 @@ _Context: AIDS_
 
 ##### News Corporation
 ### [ News Corp. announces its intent to start charging online customers for news content across all its websites, including "The Times", "The Sun", "The Wall Street Journal", "New York Post" and "Herald Sun". ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the-su.md)
-_Context: Herald Sun, The Wall Street Journal, The Sun, News Corporation, New York Post, Times_
+_Context: The Sun, Herald Sun, News Corporation, New York Post, Times, The Wall Street Journal_
 
 ##### Indus River
 ### [ At least 34 people are feared dead after their bus plunges into the Indus River in Pakistan. ](/news/2009/08/6/at-least-34-people-are-feared-dead-after-their-bus-plunges-into-the-indus-river-in-pakistan.md)
-_Context: Indus River, Pakistan_
+_Context: Pakistan, Indus River_
 
 ##### Slender-billed Vulture
 ### [ The Slender-billed Vulture, one of the world's most endangered birds and said to be rarer than the Tiger, is twice successfully bred in Haryana and West Bengal. ](/news/2009/08/6/the-slender-billed-vulture-one-of-the-world-s-most-endangered-birds-and-said-to-be-rarer-than-the-tiger-is-twice-successfully-bred-in-har.md)
-_Context: Haryana, West Bengal, Slender-billed Vulture, Tiger_
+_Context: Tiger, West Bengal, Haryana, Slender-billed Vulture_
 
 ## [Previous Day...](/news/2009/08/5/index.md)
 

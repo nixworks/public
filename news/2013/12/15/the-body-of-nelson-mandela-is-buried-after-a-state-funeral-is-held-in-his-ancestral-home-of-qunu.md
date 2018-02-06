@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/15/the-body-of-nelson-mandela-is-buried-after-a-st
 
 ### Changes:
 
-1. [Death and state funeral of Nelson Mandela:The body of Nelson Mandela is buried after a state funeral is held in his ancestral home of Qunu. ](/news/2013/12/15/death-and-state-funeral-of-nelson-mandela-pthe-body-of-nelson-mandela-is-buried-after-a-state-funeral-is-held-in-his-ancestral-home-of-qunu.md) _2017-08-25 03:39:42 (First version)_
-2. [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is buried after a state funeral is held in his ancestral home of Qunu. ](/news/2013/12/15/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-buried-after-a-state-funeral-is-held-in-his-ancestral-home-of-qunu.md) _2017-08-27 03:39:59 (Update)_
+1. [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is buried after a state funeral is held in his ancestral home of Qunu. ](/news/2013/12/15/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-buried-after-a-state-funeral-is-held-in-his-ancestral-home-of-qunu.md) _2018-02-06 13:49:25 (First version)_
+2. [Death and state funeral of Nelson Mandela:The body of Nelson Mandela is buried after a state funeral is held in his ancestral home of Qunu. ](/news/2013/12/15/death-and-state-funeral-of-nelson-mandela-pthe-body-of-nelson-mandela-is-buried-after-a-state-funeral-is-held-in-his-ancestral-home-of-qunu.md) _2018-02-06 13:49:25 (Update)_
 2. [The body of Nelson Mandela is buried after a state funeral is held in his ancestral home of Qunu. ](/news/2013/12/15/the-body-of-nelson-mandela-is-buried-after-a-state-funeral-is-held-in-his-ancestral-home-of-qunu.md) _(Current version)_
 
 ### Related:

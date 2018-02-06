@@ -28,7 +28,7 @@ Japanese officials said Sunday they presumed partial meltdowns had occurred at t
 
 ### Changes:
 
-1. [2011 Tohoku earthquake and tsunami: Onagawa Nuclear Power Plant: A state of emergency is declared by the Tohoku Electric Power Company. The alert was declared as radioactivity readings exceeding allowed levels in the area surrounding the plant although this later returns to normal. ](/news/2011/03/13/2011-tahoku-earthquake-and-tsunami-onagawa-nuclear-power-plant-a-state-of-emergency-is-declared-by-the-tohoku-electric-power-company-the.md) _2017-08-27 03:32:39 (First version)_
+1. [2011 Tohoku earthquake and tsunami: Onagawa Nuclear Power Plant: A state of emergency is declared by the Tohoku Electric Power Company. The alert was declared as radioactivity readings exceeding allowed levels in the area surrounding the plant although this later returns to normal. ](/news/2011/03/13/2011-tahoku-earthquake-and-tsunami-onagawa-nuclear-power-plant-a-state-of-emergency-is-declared-by-the-tohoku-electric-power-company-the.md) _2018-02-06 13:49:22 (First version)_
 1. [Onagawa Nuclear Power Plant: A state of emergency is declared by the Tohoku Electric Power Company. The alert was declared as radioactivity readings exceeding allowed levels in the area surrounding the plant although this later returns to normal. ](/news/2011/03/13/onagawa-nuclear-power-plant-a-state-of-emergency-is-declared-by-the-tohoku-electric-power-company-the-alert-was-declared-as-radioactivity.md) _(Current version)_
 
 ### Related:

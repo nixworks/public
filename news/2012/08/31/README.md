@@ -7,7 +7,7 @@ Formats: [HTML](2012/08/31/index.html)  [JSON](2012/08/31/index.json)  [XML](201
 ### [A shooting at a Pathmark grocery store in Old Bridge, New Jersey, kills at least three people. ](/news/2012/08/31/a-shooting-at-a-pathmark-grocery-store-in-old-bridge-new-jersey-kills-at-least-three-people.md)
 A New Jersey supermarket employee and former marine opens fire on his colleagues early Friday morning, killing two people and himself, officials say.
 
-##### British
+##### United Kingdom
 ### [British entertainer Max Bygraves, who had been suffering from Alzheimer's disease, dies in Hope Island, Queensland, Australia, at the age of 89. ](/news/2012/08/31/british-entertainer-max-bygraves-who-had-been-suffering-from-alzheimer-s-disease-dies-in-hope-island-queensland-australia-at-the-age-of.md)
 Singer, comedian and actor Max Bygraves has died in Australia at the age of 89.
 
@@ -17,7 +17,7 @@ _Context: Los Angeles County Coroner's Office, Sage Stallone_
 
 ##### magnitude
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: magnitude, Eastern Samar, Philippines, earthquake_
+_Context: earthquake, Philippines, magnitude, Eastern Samar_
 
 ##### Armenia
 ### [Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. ](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.md)
@@ -33,7 +33,7 @@ Apple Inc. lost a patent lawsuit in Japan as a Tokyo judge ruled that Samsung El
 
 ##### Roman Abramovich
 ### [Roman Abramovich, the owner of Chelsea FC, wins his legal action against fellow Russian oligarch Boris Berezovsky. ](/news/2012/08/31/roman-abramovich-the-owner-of-chelsea-fc-wins-his-legal-action-against-fellow-russian-oligarch-boris-berezovsky.md)
-_Context: Boris Berezovsky, Chelsea FC, Roman Abramovich_
+_Context: Roman Abramovich, Boris Berezovsky, Chelsea FC_
 
 ##### Harvard University
 ### [Harvard University investigates a widespread cheating allegation on a take-home test in one of its undergraduate classes last spring. ](/news/2012/08/31/harvard-university-investigates-a-widespread-cheating-allegation-on-a-take-home-test-in-one-of-its-undergraduate-classes-last-spring.md)
@@ -45,7 +45,7 @@ Second election since end of 27-year civil war likely to keep Eduardo dos Santos
 
 ##### Enrique Pea Nieto
 ### [Enrique Pea Nieto of the Institutional Revolutionary Party (PRI) is declared the winner of the Mexican presidential elections. ](/news/2012/08/31/enrique-pena-nieto-of-the-institutional-revolutionary-party-pri-is-declared-the-winner-of-the-mexican-presidential-elections.md)
-_Context: Enrique Pea Nieto, Mexican presidential elections, Institutional Revolutionary Party_
+_Context: Institutional Revolutionary Party, Mexican presidential elections, Enrique Pea Nieto_
 
 ## [Previous Day...](/news/2012/08/30/index.md)
 

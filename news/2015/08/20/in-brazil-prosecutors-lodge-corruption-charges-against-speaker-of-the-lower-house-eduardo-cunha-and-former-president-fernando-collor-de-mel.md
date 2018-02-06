@@ -18,7 +18,7 @@ Speaker of lower house and ex-president named by prosecutors in investigation in
 
 ### Changes:
 
-1. [Operation Car Wash: In Brazil, prosecutors lodge corruption charges against Speaker of the Lower House Eduardo Cunha and former President Fernando Collor de Mello, alleging illegal activities involving the state-owned oil company, Petrobras. ](/news/2015/08/20/operation-car-wash-in-brazil-prosecutors-lodge-corruption-charges-against-speaker-of-the-lower-house-eduardo-cunha-and-former-president-fe.md) _2017-08-27 03:42:51 (First version)_
+1. [Operation Car Wash: In Brazil, prosecutors lodge corruption charges against Speaker of the Lower House Eduardo Cunha and former President Fernando Collor de Mello, alleging illegal activities involving the state-owned oil company, Petrobras. ](/news/2015/08/20/operation-car-wash-in-brazil-prosecutors-lodge-corruption-charges-against-speaker-of-the-lower-house-eduardo-cunha-and-former-president-fe.md) _2018-02-06 13:49:27 (First version)_
 1. [In Brazil, prosecutors lodge corruption charges against Speaker of the Lower House Eduardo Cunha and former President Fernando Collor de Mello, alleging illegal activities involving the state-owned oil company, Petrobras. ](/news/2015/08/20/in-brazil-prosecutors-lodge-corruption-charges-against-speaker-of-the-lower-house-eduardo-cunha-and-former-president-fernando-collor-de-mel.md) _(Current version)_
 
 ### Related:

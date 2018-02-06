@@ -17,7 +17,7 @@ Formats: [HTML](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-fla
 
 ### Changes:
 
-1. [New Zealand flag debate: Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/new-zealand-flag-debate-four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-11-december-2.md) _2017-08-27 03:42:56 (First version)_
+1. [New Zealand flag debate: Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/new-zealand-flag-debate-four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-11-december-2.md) _2018-02-06 13:49:27 (First version)_
 1. [Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-a-11-december-2015-in-which-new-zealand.md) _(Current version)_
 
 ### Related:

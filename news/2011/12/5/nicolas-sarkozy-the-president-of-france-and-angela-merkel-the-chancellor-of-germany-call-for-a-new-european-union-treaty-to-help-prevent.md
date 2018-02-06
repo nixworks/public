@@ -18,8 +18,8 @@ France and Germany call for a tougher EU treaty to cope with the eurozone crisis
 
 ### Changes:
 
-1. [Eurozone debt crisis:Nicolas Sarkozy, the President of France, and Angela Merkel, the Chancellor of Germany, call for a new European Union Treaty to help prevent future Eurozone crises. ](/news/2011/12/5/eurozone-debt-crisis-pnicolas-sarkozy-the-president-of-france-and-angela-merkel-the-chancellor-of-germany-call-for-a-new-european-union.md) _2017-08-25 03:34:34 (First version)_
-2. [Eurozone debt crisis:: Nicolas Sarkozy, the President of France, and Angela Merkel, the Chancellor of Germany, call for a new European Union Treaty to help prevent future Eurozone crises. ](/news/2011/12/5/eurozone-debt-crisis-nicolas-sarkozy-the-president-of-france-and-angela-merkel-the-chancellor-of-germany-call-for-a-new-european-union.md) _2017-08-27 03:34:44 (Update)_
+1. [Eurozone debt crisis:Nicolas Sarkozy, the President of France, and Angela Merkel, the Chancellor of Germany, call for a new European Union Treaty to help prevent future Eurozone crises. ](/news/2011/12/5/eurozone-debt-crisis-pnicolas-sarkozy-the-president-of-france-and-angela-merkel-the-chancellor-of-germany-call-for-a-new-european-union.md) _2018-02-06 13:49:23 (First version)_
+2. [Eurozone debt crisis:: Nicolas Sarkozy, the President of France, and Angela Merkel, the Chancellor of Germany, call for a new European Union Treaty to help prevent future Eurozone crises. ](/news/2011/12/5/eurozone-debt-crisis-nicolas-sarkozy-the-president-of-france-and-angela-merkel-the-chancellor-of-germany-call-for-a-new-european-union.md) _2018-02-06 13:49:23 (Update)_
 2. [Nicolas Sarkozy, the President of France, and Angela Merkel, the Chancellor of Germany, call for a new European Union Treaty to help prevent future Eurozone crises. ](/news/2011/12/5/nicolas-sarkozy-the-president-of-france-and-angela-merkel-the-chancellor-of-germany-call-for-a-new-european-union-treaty-to-help-prevent.md) _(Current version)_
 
 ### Related:

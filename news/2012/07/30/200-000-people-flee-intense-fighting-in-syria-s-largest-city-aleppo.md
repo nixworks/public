@@ -17,8 +17,8 @@ Formats: [HTML](/news/2012/07/30/200-000-people-flee-intense-fighting-in-syria-s
 
 ### Changes:
 
-1. [Syrian civil war:200,000 people flee intense fighting in Syria's largest city Aleppo. ](/news/2012/07/30/syrian-civil-war-p200-000-people-flee-intense-fighting-in-syria-s-largest-city-aleppo.md) _2017-08-25 03:36:11 (First version)_
-2. [Syrian civil war:: 200,000 people flee intense fighting in Syria's largest city Aleppo. ](/news/2012/07/30/syrian-civil-war-200-000-people-flee-intense-fighting-in-syria-s-largest-city-aleppo.md) _2017-08-27 03:36:23 (Update)_
+1. [Syrian civil war:200,000 people flee intense fighting in Syria's largest city Aleppo. ](/news/2012/07/30/syrian-civil-war-p200-000-people-flee-intense-fighting-in-syria-s-largest-city-aleppo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:: 200,000 people flee intense fighting in Syria's largest city Aleppo. ](/news/2012/07/30/syrian-civil-war-200-000-people-flee-intense-fighting-in-syria-s-largest-city-aleppo.md) _2018-02-06 13:49:23 (Update)_
 2. [200,000 people flee intense fighting in Syria's largest city Aleppo. ](/news/2012/07/30/200-000-people-flee-intense-fighting-in-syria-s-largest-city-aleppo.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-na
 
 ### Changes:
 
-1. [2015 Bangkok bombing: Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/2015-bangkok-bombing-another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md) _2017-08-27 03:42:57 (First version)_
+1. [2015 Bangkok bombing: Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/2015-bangkok-bombing-another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md) _2018-02-06 13:49:27 (First version)_
 1. [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md) _(Current version)_
 
 ### Related:

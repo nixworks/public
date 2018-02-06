@@ -33,7 +33,7 @@ _Context: transorbital insertion, Chang'e 3, China National Space Administration
 
 ##### Sanford-Burnham Medical Research Institute
 ### [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal "Cell", describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism-p.md)
-_Context: paraquat, Parkinson's disease, Sanford-Burnham Medical Research Institute, Parkinsonism, pesticide, maneb, Cell_
+_Context: pesticide, Parkinsonism, paraquat, Sanford-Burnham Medical Research Institute, Cell, Parkinson's disease, maneb_
 
 ## [Previous Day...](/news/2013/12/5/index.md)
 

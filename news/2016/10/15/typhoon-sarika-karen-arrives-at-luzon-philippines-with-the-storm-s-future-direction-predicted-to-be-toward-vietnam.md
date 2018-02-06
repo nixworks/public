@@ -16,7 +16,7 @@ A powerful typhoon is bearing down on the Philippines and could be the “most d
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Sarika (Karen) arrives at Luzon, Philippines, with the storm's future direction predicted to be toward Vietnam. ](/news/2016/10/15/2016-pacific-typhoon-season-typhoon-sarika-karen-arrives-at-luzon-philippines-with-the-storm-s-future-direction-predicted-to-be-toward.md) _2017-08-27 03:47:03 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Sarika (Karen) arrives at Luzon, Philippines, with the storm's future direction predicted to be toward Vietnam. ](/news/2016/10/15/2016-pacific-typhoon-season-typhoon-sarika-karen-arrives-at-luzon-philippines-with-the-storm-s-future-direction-predicted-to-be-toward.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Sarika (Karen) arrives at Luzon, Philippines, with the storm's future direction predicted to be toward Vietnam. ](/news/2016/10/15/typhoon-sarika-karen-arrives-at-luzon-philippines-with-the-storm-s-future-direction-predicted-to-be-toward-vietnam.md) _(Current version)_
 
 ### Related:

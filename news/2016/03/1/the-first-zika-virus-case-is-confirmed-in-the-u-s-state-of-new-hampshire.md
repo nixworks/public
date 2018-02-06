@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-
 
 ### Changes:
 
-1. [Zika virus outbreak (2015-present): The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/zika-virus-outbreak-2015-present-the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md) _2017-08-27 03:45:04 (First version)_
+1. [Zika virus outbreak (2015-present): The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/zika-virus-outbreak-2015-present-the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md) _2018-02-06 13:49:28 (First version)_
 1. [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md) _(Current version)_
 
 ### Related:

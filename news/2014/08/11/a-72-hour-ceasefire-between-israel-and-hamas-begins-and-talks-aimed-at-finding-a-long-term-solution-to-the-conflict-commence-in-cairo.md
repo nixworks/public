@@ -17,7 +17,7 @@ Formats: [HTML](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-be
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/2014-israel-gaza-conflict-a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-con.md) _2017-08-27 03:41:08 (First version)_
+1. [2014 Israel-Gaza conflict: A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/2014-israel-gaza-conflict-a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-con.md) _2018-02-06 13:49:26 (First version)_
 1. [A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.md) _(Current version)_
 
 ### Related:

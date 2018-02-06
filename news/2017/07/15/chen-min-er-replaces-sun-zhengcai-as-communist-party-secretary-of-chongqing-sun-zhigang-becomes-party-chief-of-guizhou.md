@@ -16,7 +16,7 @@ China on Saturday named rising political star Chen Miner as Communist Party boss
 
 ### Changes:
 
-1. [Politics of China: Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/politics-of-china-chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md) _2017-08-27 03:48:40 (First version)_
+1. [Politics of China: Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/politics-of-china-chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md) _2018-02-06 13:49:30 (First version)_
 1. [Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/01/8/voters-in-sri-lanka-go-to-the-polls-for-a-presid
 
 ### Changes:
 
-1. [Sri Lankan presidential election, 2015: Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/sri-lankan-presidential-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-betwe.md) _2017-08-27 03:41:45 (First version)_
+1. [Sri Lankan presidential election, 2015: Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/sri-lankan-presidential-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-betwe.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-between-president-mahinda-rajapaksa-and-chall.md) _(Current version)_
 
 ### Related:

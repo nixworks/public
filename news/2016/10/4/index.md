@@ -9,7 +9,7 @@ Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town
 
 ##### War in Somalia (2009-present)
 ### [A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md)
-_Context: War in Somalia (2009-present), Somali military, Lower Shabelle, Al-Shabaab_
+_Context: War in Somalia (2009-present), Lower Shabelle, Al-Shabaab, Somali military_
 
 ##### Brexit
 ### [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md)
@@ -25,7 +25,7 @@ More than a million residents near the South Carolina coast should get at least 
 
 ##### European migrant crisis
 ### [Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. ](/news/2016/10/4/authorities-find-at-least-28-migrants-dead-off-the-coast-of-libya-in-a-day-of-frantic-rescues.md)
-_Context: Libya, European migrant crisis_
+_Context: European migrant crisis, Libya_
 
 ##### Harbin
 ### [A series of explosions in an apartment building in Harbin, China, kills at least three people and injures dozens more. ](/news/2016/10/4/a-series-of-explosions-in-an-apartment-building-in-harbin-china-kills-at-least-three-people-and-injures-dozens-more.md)
@@ -49,7 +49,7 @@ Philippine leader Rodrigo Duterte on Tuesday told U.S. President Barack Obama to
 
 ##### Bohmermann affair
 ### [German prosecutors drop a case against comedian Jan Bohmermann, who had been indicted for a satirical poem about Turkish president Recep Tayyip Erdogan. ](/news/2016/10/4/german-prosecutors-drop-a-case-against-comedian-jan-baphmermann-who-had-been-indicted-for-a-satirical-poem-about-turkish-president-recep-ta.md)
-_Context: Recep Tayyip Erdogan, Bohmermann affair, Jan Bohmermann_
+_Context: Jan Bohmermann, Recep Tayyip Erdogan, Bohmermann affair_
 
 ##### Wells Fargo
 ### [The scandal over improper practices of unauthorized accounts at Wells Fargo extends to thousands of small-business owners. ](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthorized-accounts-at-wells-fargo-extends-to-thousands-of-small-business-owners.md)
@@ -69,13 +69,13 @@ Juan Manuel Santos will meet presidential predecessors to discuss peace with the
 
 ##### Manx general election, 2016
 ### [The House of Keys elects Howard Quayle Chief Minister of the Isle of Man with a majority of 21 votes ](/news/2016/10/4/the-house-of-keys-elects-howard-quayle-chief-minister-of-the-isle-of-man-with-a-majority-of-21-votes.md)
-_Context: Manx general election, 2016, Chief Minister of the Isle of Man, House of Keys, Howard Quayle_
+_Context: Howard Quayle, Chief Minister of the Isle of Man, Manx general election, 2016, House of Keys_
 
 ##### Curacao
 ### [The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-october-5.md)
 WILLEMSTAD - Prime Minister Dr. Bernhard Whiteman today submitted the resignation of his cabinet to Governor Lucille George-Wout. That is the tradition on the eve of new elections. Until a new government takes office, the government-Whiteman remains in caretaker form. The Cabinet which tendered its ...
 
-##### British
+##### United Kingdom
 ### [British scientists, David Thouless, Duncan Haldane, and John M. Kosterlitz, are awarded the 2016 Nobel Prize in Physics "for theoretical discoveries of topological phase transitions and topological phases of matter". ](/news/2016/10/4/british-scientists-david-thouless-duncan-haldane-and-john-m-kosterlitz-are-awarded-the-2016-nobel-prize-in-physics-for-theoretical-dis.md)
 The 2016 Nobel Prize in Physics has been awarded to three British-born scientists for discoveries about strange forms of matter.
 

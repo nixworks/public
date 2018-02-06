@@ -15,7 +15,7 @@ Former army chief Michel Aoun voted in as president, ending more than two years 
 
 ### Changes:
 
-1. [Lebanese presidential election, 2014-2016: Michel Aoun is elected President of Lebanon following 29 months of parliamentary deadlock to fill the position. ](/news/2016/10/31/lebanese-presidential-election-2014-2016-michel-aoun-is-elected-president-of-lebanon-following-29-months-of-parliamentary-deadlock-to-fi.md) _2017-08-27 03:47:09 (First version)_
+1. [Lebanese presidential election, 2014-2016: Michel Aoun is elected President of Lebanon following 29 months of parliamentary deadlock to fill the position. ](/news/2016/10/31/lebanese-presidential-election-2014-2016-michel-aoun-is-elected-president-of-lebanon-following-29-months-of-parliamentary-deadlock-to-fi.md) _2018-02-06 13:49:29 (First version)_
 1. [Michel Aoun is elected President of Lebanon following 29 months of parliamentary deadlock to fill the position. ](/news/2016/10/31/michel-aoun-is-elected-president-of-lebanon-following-29-months-of-parliamentary-deadlock-to-fill-the-position.md) _(Current version)_
 
 ### Related:

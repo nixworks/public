@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u
 
 ### Changes:
 
-1. [2016-17 North American winter: The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/2016-17-north-american-winter-the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _2017-08-27 03:47:16 (First version)_
+1. [2016-17 North American winter: The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/2016-17-north-american-winter-the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _(Current version)_
 
 ### Related:

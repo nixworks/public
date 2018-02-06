@@ -17,8 +17,8 @@ Five people are reported killed as Thai government begins talks with separatists
 
 ### Changes:
 
-1. [South Thailand insurgency:The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/south-thailand-insurgency-pthe-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade-l.md) _2017-08-25 03:38:03 (First version)_
-2. [South Thailand insurgency:: The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/south-thailand-insurgency-the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade.md) _2017-08-27 03:38:14 (Update)_
+1. [South Thailand insurgency:: The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/south-thailand-insurgency-the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade.md) _2018-02-06 13:49:24 (First version)_
+2. [South Thailand insurgency:The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/south-thailand-insurgency-pthe-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade-l.md) _2018-02-06 13:49:24 (Update)_
 2. [The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade-long-insurgency.md) _(Current version)_
 
 ### Related:

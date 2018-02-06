@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wav
 
 ### Changes:
 
-1. [2015 Indian heat wave: The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-mon.md) _2017-08-27 03:42:28 (First version)_
+1. [2015 Indian heat wave: The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-mon.md) _2018-02-06 13:49:27 (First version)_
 1. [The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.md) _(Current version)_
 
 ### Related:

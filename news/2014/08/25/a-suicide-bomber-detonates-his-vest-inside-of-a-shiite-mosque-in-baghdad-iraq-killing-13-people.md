@@ -16,8 +16,8 @@ The attack against Shiites underscored the challenge to keep peace as Haider al-
 
 ### Changes:
 
-1. [Iraqi insurgency (2011-present):A suicide bomber detonates his vest inside of a Shiite mosque in Baghdad, Iraq, killing 13 people. ](/news/2014/08/25/iraqi-insurgency-2011apresent-pa-suicide-bomber-detonates-his-vest-inside-of-a-shiite-mosque-in-baghdad-iraq-killing-13-people.md) _2017-08-25 03:40:53 (First version)_
-2. [Iraqi insurgency (2011-present):: A suicide bomber detonates his vest inside of a Shiite mosque in Baghdad, Iraq, killing 13 people. ](/news/2014/08/25/iraqi-insurgency-2011-present-a-suicide-bomber-detonates-his-vest-inside-of-a-shiite-mosque-in-baghdad-iraq-killing-13-people.md) _2017-08-27 03:41:12 (Update)_
+1. [Iraqi insurgency (2011-present):A suicide bomber detonates his vest inside of a Shiite mosque in Baghdad, Iraq, killing 13 people. ](/news/2014/08/25/iraqi-insurgency-2011apresent-pa-suicide-bomber-detonates-his-vest-inside-of-a-shiite-mosque-in-baghdad-iraq-killing-13-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Iraqi insurgency (2011-present):: A suicide bomber detonates his vest inside of a Shiite mosque in Baghdad, Iraq, killing 13 people. ](/news/2014/08/25/iraqi-insurgency-2011-present-a-suicide-bomber-detonates-his-vest-inside-of-a-shiite-mosque-in-baghdad-iraq-killing-13-people.md) _2018-02-06 13:49:26 (Update)_
 2. [A suicide bomber detonates his vest inside of a Shiite mosque in Baghdad, Iraq, killing 13 people. ](/news/2014/08/25/a-suicide-bomber-detonates-his-vest-inside-of-a-shiite-mosque-in-baghdad-iraq-killing-13-people.md) _(Current version)_
 
 ### Related:

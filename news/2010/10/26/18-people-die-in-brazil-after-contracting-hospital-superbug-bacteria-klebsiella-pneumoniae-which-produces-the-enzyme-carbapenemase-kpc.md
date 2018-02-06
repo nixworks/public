@@ -16,7 +16,7 @@ An outbreak of a drug-resistant strain of bacteria worries doctors in Brazil aft
 
 ### Changes:
 
-1. [18 people die in Brazil after contracting hospital "superbug" bacteria ''Klebsiella pneumoniae''; which produces the enzyme carbapenemase (KPC), which renders most modern antibiotics ineffective. ](/news/2010/10/26/18-people-die-in-brazil-after-contracting-hospital-superbug-bacteria-klebsiella-pneumoniae-which-produces-the-enzyme-carbapenemase-k.md) _2017-08-25 03:30:43 (First version)_
+1. [18 people die in Brazil after contracting hospital "superbug" bacteria ''Klebsiella pneumoniae''; which produces the enzyme carbapenemase (KPC), which renders most modern antibiotics ineffective. ](/news/2010/10/26/18-people-die-in-brazil-after-contracting-hospital-superbug-bacteria-klebsiella-pneumoniae-which-produces-the-enzyme-carbapenemase-k.md) _2018-02-06 13:49:20 (First version)_
 1. [18 people die in Brazil after contracting hospital "superbug" bacteria "Klebsiella pneumoniae"; which produces the enzyme carbapenemase (KPC), which renders most modern antibiotics ineffective. ](/news/2010/10/26/18-people-die-in-brazil-after-contracting-hospital-superbug-bacteria-klebsiella-pneumoniae-which-produces-the-enzyme-carbapenemase-kpc.md) _(Current version)_
 
 ### Related:

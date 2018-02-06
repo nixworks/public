@@ -16,8 +16,8 @@ PESHAWAR Jan 26 AP - A Pakistani official says clashes between two Islamic milit
 
 ### Changes:
 
-1. [War in North-West Pakistan:At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-pat-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md) _2017-08-25 03:37:21 (First version)_
-2. [War in North-West Pakistan:: At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-at-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md) _2017-08-27 03:37:31 (Update)_
+1. [War in North-West Pakistan:At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-pat-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-at-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/at-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the-border-with-afghanistan.md) _(Current version)_
 
 ### Related:

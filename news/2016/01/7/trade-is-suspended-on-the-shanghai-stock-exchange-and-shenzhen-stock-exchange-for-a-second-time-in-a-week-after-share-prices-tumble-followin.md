@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/01/7/trade-is-suspended-on-the-shanghai-stock-exchang
 
 ### Changes:
 
-1. [2015-16 Chinese stock market crisis: Trade is suspended on the Shanghai Stock Exchange and Shenzhen Stock Exchange for a second time in a week after share prices tumble following the devaluation of the yuan. ](/news/2016/01/7/2015-16-chinese-stock-market-crisis-trade-is-suspended-on-the-shanghai-stock-exchange-and-shenzhen-stock-exchange-for-a-second-time-in-a.md) _2017-08-27 03:44:37 (First version)_
+1. [2015-16 Chinese stock market crisis: Trade is suspended on the Shanghai Stock Exchange and Shenzhen Stock Exchange for a second time in a week after share prices tumble following the devaluation of the yuan. ](/news/2016/01/7/2015-16-chinese-stock-market-crisis-trade-is-suspended-on-the-shanghai-stock-exchange-and-shenzhen-stock-exchange-for-a-second-time-in-a.md) _2018-02-06 13:49:28 (First version)_
 1. [Trade is suspended on the Shanghai Stock Exchange and Shenzhen Stock Exchange for a second time in a week after share prices tumble following the devaluation of the yuan. ](/news/2016/01/7/trade-is-suspended-on-the-shanghai-stock-exchange-and-shenzhen-stock-exchange-for-a-second-time-in-a-week-after-share-prices-tumble-followin.md) _(Current version)_
 
 ### Related:

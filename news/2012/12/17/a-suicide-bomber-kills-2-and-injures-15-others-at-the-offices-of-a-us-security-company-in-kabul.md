@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/12/17/a-suicide-bomber-kills-2-and-injures-15-others-
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001apresent-pa-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md) _2017-08-25 03:37:03 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001-present-a-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md) _2017-08-27 03:37:14 (Update)_
+1. [War in Afghanistan (2001-present):A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001apresent-pa-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001-present-a-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md) _2018-02-06 13:49:24 (Update)_
 2. [A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/a-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md) _(Current version)_
 
 ### Related:

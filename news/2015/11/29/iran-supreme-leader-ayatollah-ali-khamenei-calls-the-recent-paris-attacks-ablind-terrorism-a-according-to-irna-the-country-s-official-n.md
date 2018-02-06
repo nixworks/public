@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/11/29/iran-supreme-leader-ayatollah-ali-khamenei-call
 
 ### Changes:
 
-1. [November 2015 Paris attacks: Iran Supreme Leader Ayatollah Ali Khamenei calls the recent Paris attacks -blind terrorism,- according to IRNA, the country's official news agency. The Iranian government condemned the attacks immediately after they occurred. ](/news/2015/11/29/november-2015-paris-attacks-iran-supreme-leader-ayatollah-ali-khamenei-calls-the-recent-paris-attacks-blind-terrorism-according-to-i.md) _2017-08-27 03:44:06 (First version)_
+1. [November 2015 Paris attacks: Iran Supreme Leader Ayatollah Ali Khamenei calls the recent Paris attacks -blind terrorism,- according to IRNA, the country's official news agency. The Iranian government condemned the attacks immediately after they occurred. ](/news/2015/11/29/november-2015-paris-attacks-iran-supreme-leader-ayatollah-ali-khamenei-calls-the-recent-paris-attacks-blind-terrorism-according-to-i.md) _2018-02-06 13:49:28 (First version)_
 1. [Iran Supreme Leader Ayatollah Ali Khamenei calls the recent Paris attacks "blind terrorism," according to IRNA, the country's official news agency. The Iranian government condemned the attacks immediately after they occurred. ](/news/2015/11/29/iran-supreme-leader-ayatollah-ali-khamenei-calls-the-recent-paris-attacks-ablind-terrorism-a-according-to-irna-the-country-s-official-n.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Israeli Prime Minister Benjamin Netanyahu is on the defensive after facing accus
 
 ### Changes:
 
-1. [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israel-united-states-relations.md) _2017-08-27 03:36:45 (First version)_
+1. [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israel-united-states-relations.md) _2018-02-06 13:49:23 (First version)_
 1. [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israelaunited-states-relations.md) _(Current version)_
 
 ### Related:

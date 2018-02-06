@@ -18,8 +18,8 @@ At least 10 people killed near Shia Muslim procession in Pakistan city, while fo
 
 ### Changes:
 
-1. [War in North-West Pakistan:At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-pat-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an-a.md) _2017-08-25 03:31:56 (First version)_
-2. [War in North-West Pakistan:: At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an.md) _2017-08-27 03:32:03 (Update)_
+1. [War in North-West Pakistan:At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-pat-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an-a.md) _2018-02-06 13:49:21 (First version)_
+2. [War in North-West Pakistan:: At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an.md) _2018-02-06 13:49:21 (Update)_
 2. [At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an-attack-in-karachi.md) _(Current version)_
 
 ### Related:

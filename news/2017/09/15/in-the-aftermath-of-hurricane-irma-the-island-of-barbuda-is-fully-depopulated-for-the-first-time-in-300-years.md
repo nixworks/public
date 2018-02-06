@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/09/15/in-the-aftermath-of-hurricane-irma-the-island-o
 
 ### Changes:
 
-1. [In the aftermath of Hurricane Irma, the island of Barbuda is fully depopulated. ](/news/2017/09/15/in-the-aftermath-of-hurricane-irma-the-island-of-barbuda-is-fully-depopulated.md) _2017-09-15 20:30:05 (First version)_
+1. [In the aftermath of Hurricane Irma, the island of Barbuda is fully depopulated. ](/news/2017/09/15/in-the-aftermath-of-hurricane-irma-the-island-of-barbuda-is-fully-depopulated.md) _2018-02-06 13:49:31 (First version)_
 1. [In the aftermath of Hurricane Irma, the island of Barbuda is fully depopulated for the first time in 300 years. ](/news/2017/09/15/in-the-aftermath-of-hurricane-irma-the-island-of-barbuda-is-fully-depopulated-for-the-first-time-in-300-years.md) _(Current version)_
 
 ### Related:

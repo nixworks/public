@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/05/27/gregg-allman-co-founder-vocalist-and-keyboard-p
 
 ### Changes:
 
-1. [Gregg Allman, cofounder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-cofounder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md) _2017-05-29 03:50:54 (First version)_
+1. [Gregg Allman, cofounder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-cofounder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md) _2018-02-06 13:49:30 (First version)_
 1. [Gregg Allman, co-founder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-co-founder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md) _(Current version)_
 
 ### Related:

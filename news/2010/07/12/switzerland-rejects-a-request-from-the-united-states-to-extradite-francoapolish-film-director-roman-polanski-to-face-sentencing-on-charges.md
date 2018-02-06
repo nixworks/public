@@ -16,7 +16,7 @@ Roman Polanski is free after the Swiss government rejected a US extradition requ
 
 ### Changes:
 
-1. [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-franco-polish-film-director-roman-polanski-to-face-sentencing-on-charges.md) _2017-08-27 03:28:42 (First version)_
+1. [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-franco-polish-film-director-roman-polanski-to-face-sentencing-on-charges.md) _2018-02-06 13:49:20 (First version)_
 1. [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-francoapolish-film-director-roman-polanski-to-face-sentencing-on-charges.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Voting has closed in a referendum on whether to retain the Senate in the Republi
 
 ### Changes:
 
-1. [Voters in the Republic of Ireland take part in a referendum to decide whether the Seanad Eireann (Irish Senate) - the upper house of their parliament - should be abolished, and reforms made to the Court of Appeal. ](/news/2013/10/4/voters-in-the-republic-of-ireland-take-part-in-a-referendum-to-decide-whether-the-seanad-aireann-irish-senate-the-upper-house-of-thei.md) _2017-08-27 03:39:38 (First version)_
+1. [Voters in the Republic of Ireland take part in a referendum to decide whether the Seanad Eireann (Irish Senate) - the upper house of their parliament - should be abolished, and reforms made to the Court of Appeal. ](/news/2013/10/4/voters-in-the-republic-of-ireland-take-part-in-a-referendum-to-decide-whether-the-seanad-aireann-irish-senate-the-upper-house-of-thei.md) _2018-02-06 13:49:25 (First version)_
 1. [Voters in the Republic of Ireland take part in a referendum to decide whether the Seanad Eireann (Irish Senate) - the upper house of their parliament - should be abolished, and reforms made to the Court of Appeal. ](/news/2013/10/4/voters-in-the-republic-of-ireland-take-part-in-a-referendum-to-decide-whether-the-seanad-aireann-irish-senate-a-the-upper-house-of-thei.md) _(Current version)_
 
 ### Related:

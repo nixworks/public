@@ -16,7 +16,7 @@ Congress on Friday approved a bill that would allow the victims of 9/11 to sue t
 
 ### Changes:
 
-1. [Saudi Arabia-United States relations: The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/saudi-arabia-united-states-relations-the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks.md) _2017-08-27 03:46:48 (First version)_
+1. [Saudi Arabia-United States relations: The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/saudi-arabia-united-states-relations-the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks.md) _2018-02-06 13:49:29 (First version)_
 1. [The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks-to-sue-saudi-arabia-u-s-president-bar.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/7/authorities-confirm-that-a-wing-part-found-in-ma
 
 ### Changes:
 
-1. [Malaysia Airlines Flight 370: Authorities confirm that a wing part found in Mauritius in May is part of the aircraft from Malaysian Airlines Flight 370. ](/news/2016/10/7/malaysia-airlines-flight-370-authorities-confirm-that-a-wing-part-found-in-mauritius-in-may-is-part-of-the-aircraft-from-malaysian-airlines.md) _2017-08-27 03:46:59 (First version)_
+1. [Malaysia Airlines Flight 370: Authorities confirm that a wing part found in Mauritius in May is part of the aircraft from Malaysian Airlines Flight 370. ](/news/2016/10/7/malaysia-airlines-flight-370-authorities-confirm-that-a-wing-part-found-in-mauritius-in-may-is-part-of-the-aircraft-from-malaysian-airlines.md) _2018-02-06 13:49:29 (First version)_
 1. [Authorities confirm that a wing part found in Mauritius in May is part of the aircraft from Malaysian Airlines Flight 370. ](/news/2016/10/7/authorities-confirm-that-a-wing-part-found-in-mauritius-in-may-is-part-of-the-aircraft-from-malaysian-airlines-flight-370.md) _(Current version)_
 
 ### Related:

@@ -19,7 +19,7 @@ Xi Jinping is confirmed as the man to lead China for the next decade, as reformi
 
 ### Changes:
 
-1. [Chinese leadership transition at the Xi Jinping is chosen as the General Secretary and Chairman of the Central Military Commission of the Chinese Communist Party and the next leader of the People's Republic of China. ](/news/2012/11/15/chinese-leadership-transition-at-the-xi-jinping-is-chosen-as-the-general-secretary-and-chairman-of-the-central-military-commission-of-the-ch.md) _2017-08-25 03:36:49 (First version)_
+1. [Chinese leadership transition at the Xi Jinping is chosen as the General Secretary and Chairman of the Central Military Commission of the Chinese Communist Party and the next leader of the People's Republic of China. ](/news/2012/11/15/chinese-leadership-transition-at-the-xi-jinping-is-chosen-as-the-general-secretary-and-chairman-of-the-central-military-commission-of-the-ch.md) _2018-02-06 13:49:24 (First version)_
 1. [Xi Jinping is chosen as the General Secretary and Chairman of the Central Military Commission of the Chinese Communist Party and the next leader of the People's Republic of China. ](/news/2012/11/15/xi-jinping-is-chosen-as-the-general-secretary-and-chairman-of-the-central-military-commission-of-the-chinese-communist-party-and-the-next-le.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Prosecutors in Baltimore described repeated mistreatment of a 25-year-old man wh
 
 ### Changes:
 
-1. [Death of Freddie Gray: Marilyn Mosby, the State Attorney for Baltimore, Maryland, rules that the death of Freddie Gray was a homicide and six officers of the Baltimore Police Department had been negligent in his death. ](/news/2015/05/1/death-of-freddie-gray-marilyn-mosby-the-state-attorney-for-baltimore-maryland-rules-that-the-death-of-freddie-gray-was-a-homicide-and-si.md) _2017-08-27 03:42:15 (First version)_
+1. [Death of Freddie Gray: Marilyn Mosby, the State Attorney for Baltimore, Maryland, rules that the death of Freddie Gray was a homicide and six officers of the Baltimore Police Department had been negligent in his death. ](/news/2015/05/1/death-of-freddie-gray-marilyn-mosby-the-state-attorney-for-baltimore-maryland-rules-that-the-death-of-freddie-gray-was-a-homicide-and-si.md) _2018-02-06 13:49:27 (First version)_
 1. [Marilyn Mosby, the State Attorney for Baltimore, Maryland, rules that the death of Freddie Gray was a homicide and six officers of the Baltimore Police Department had been negligent in his death. ](/news/2015/05/1/marilyn-mosby-the-state-attorney-for-baltimore-maryland-rules-that-the-death-of-freddie-gray-was-a-homicide-and-six-officers-of-the-balti.md) _(Current version)_
 
 ### Related:

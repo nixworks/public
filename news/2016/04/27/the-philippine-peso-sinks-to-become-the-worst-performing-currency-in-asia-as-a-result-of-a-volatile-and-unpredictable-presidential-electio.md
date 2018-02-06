@@ -16,7 +16,7 @@ A controversial city mayor’s tightening grip on the Philippine presidential ra
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The Philippine peso sinks to become the "worst performing currency in Asia" as a result of a volatile and unpredictable presidential election. ](/news/2016/04/27/philippine-presidential-election-2016-the-philippine-peso-sinks-to-become-the-worst-performing-currency-in-asia-as-a-result-of-a-volatil.md) _2017-08-27 03:45:52 (First version)_
+1. [Philippine presidential election, 2016: The Philippine peso sinks to become the "worst performing currency in Asia" as a result of a volatile and unpredictable presidential election. ](/news/2016/04/27/philippine-presidential-election-2016-the-philippine-peso-sinks-to-become-the-worst-performing-currency-in-asia-as-a-result-of-a-volatil.md) _2018-02-06 13:49:28 (First version)_
 1. [The Philippine peso sinks to become the "worst performing currency in Asia" as a result of a volatile and unpredictable presidential election. ](/news/2016/04/27/the-philippine-peso-sinks-to-become-the-worst-performing-currency-in-asia-as-a-result-of-a-volatile-and-unpredictable-presidential-electio.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-
 
 ### Changes:
 
-1. [Lebanese Tourism Minister Faddy Abboud says an episode of the popular U.S. TV series ''Homeland'' misrepresented Beirut and is set to pursue legal action against its makers due to concerns over damage to image and tourism. ](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-episode-of-the-popular-u-s-tv-series-homeland-misrepresented-beirut-and-is-set-to-pursue.md) _2017-08-25 03:36:43 (First version)_
+1. [Lebanese Tourism Minister Faddy Abboud says an episode of the popular U.S. TV series ''Homeland'' misrepresented Beirut and is set to pursue legal action against its makers due to concerns over damage to image and tourism. ](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-episode-of-the-popular-u-s-tv-series-homeland-misrepresented-beirut-and-is-set-to-pursue.md) _2018-02-06 13:49:24 (First version)_
 1. [Lebanese Tourism Minister Faddy Abboud says an episode of the popular U.S. TV series "Homeland" misrepresented Beirut and is set to pursue legal action against its makers due to concerns over damage to image and tourism. ](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-episode-of-the-popular-u-s-tv-series-homeland-misrepresented-beirut-and-is-set-to-pursue-l.md) _(Current version)_
 
 ### Related:

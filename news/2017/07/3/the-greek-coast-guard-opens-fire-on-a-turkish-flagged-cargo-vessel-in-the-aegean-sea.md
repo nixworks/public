@@ -17,8 +17,8 @@ The captain of a Turkish freight ship on Monday said the Greek coast guard opene
 
 ### Changes:
 
-1. [Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md) _2017-07-04 09:30:05 (First version)_
-2. [Greek-Turkish relations: The Greek Coast Guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-turkish-relations-the-greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md) _2017-08-27 03:48:36 (Update)_
+1. [Greek-Turkish relations: The Greek Coast Guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-turkish-relations-the-greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md) _2018-02-06 13:49:31 (First version)_
+2. [Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md) _2018-02-06 13:49:31 (Update)_
 2. [The Greek Coast Guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/the-greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md) _(Current version)_
 
 ### Related:

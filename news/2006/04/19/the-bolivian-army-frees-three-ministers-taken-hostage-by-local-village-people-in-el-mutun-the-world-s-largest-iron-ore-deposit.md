@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-h
 
 ### Changes:
 
-1. [ The Bolivian army frees three ministers taken hostage by local village people in El Mutn, the world's largest iron ore deposit [http:--www.lemonde.fr-web-article-0,1-0@2-3222,36-763116@51-763324,0.html (''Le Monde'')].](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-hostage-by-local-village-people-in-el-mutun-the-world-s-largest-iron-ore-deposit-http-www.md) _2017-06-18 03:17:43 (First version)_
+1. [ The Bolivian army frees three ministers taken hostage by local village people in El Mutn, the world's largest iron ore deposit [http:--www.lemonde.fr-web-article-0,1-0@2-3222,36-763116@51-763324,0.html (''Le Monde'')].](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-hostage-by-local-village-people-in-el-mutun-the-world-s-largest-iron-ore-deposit-http-www.md) _2018-02-06 13:49:17 (First version)_
 1. [ The Bolivian army frees three ministers taken hostage by local village people in El Mutn, the world's largest iron ore deposit ](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-hostage-by-local-village-people-in-el-mutun-the-world-s-largest-iron-ore-deposit.md) _(Current version)_
 
 ### Related:

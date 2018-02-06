@@ -5,11 +5,11 @@ Formats: [HTML](2016/05/28/index.html)  [JSON](2016/05/28/index.json)  [XML](201
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md)
-_Context: Kilis, Islamic State in Iraq and the Levant, Spillover of the Syrian Civil War, Turkish, Syria_
+_Context: Syria, Turkey, Kilis, Spillover of the Syrian Civil War, Islamic State in Iraq and the Levant_
 
 ##### Conflict in the Niger Delta
 ### [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md)
-_Context: Niger Delta Avengers, Agip, Conflict in the Niger Delta, Nigeria, Royal Dutch Shell_
+_Context: Conflict in the Niger Delta, Niger Delta Avengers, Royal Dutch Shell, Nigeria, Agip_
 
 ##### Lightning strikes
 ### [ Lightning strikes across Europe kill one person and injure at least 14 more. ](/news/2016/05/28/lightning-strikes-across-europe-kill-one-person-and-injure-at-least-14-more.md)
@@ -21,11 +21,11 @@ The storm is forecast to bring up to three inches of rain to the Carolinas. In T
 
 ##### Rutan VariEze
 ### [A Rutan VariEze experimental aircraft crashes north of Ventura, California, killing the two people aboard. ](/news/2016/05/28/a-rutan-varieze-experimental-aircraft-crashes-north-of-ventura-california-killing-the-two-people-aboard.md)
-_Context: Ventura, Rutan VariEze_
+_Context: Rutan VariEze, Ventura_
 
 ##### United States military personnel
 ### [The U.S. military restricts off-base alcohol consumption in Okinawa until July 24 after the arrest of a former Marine suspected of murder. ](/news/2016/05/28/the-u-s-military-restricts-off-base-alcohol-consumption-in-okinawa-until-july-24-after-the-arrest-of-a-former-marine-suspected-of-murder.md)
-_Context: Okinawa, Marine, United States military personnel_
+_Context: Marine, United States military personnel, Okinawa_
 
 ##### Russia
 ### [The President of Russia, Vladimir Putin, warns Romania and Poland against hosting parts of the U.S. missile defense shield. ](/news/2016/05/28/the-president-of-russia-vladimir-putin-warns-romania-and-poland-against-hosting-parts-of-the-u-s-missile-defense-shield.md)
@@ -41,7 +41,7 @@ _Context: gang rape, Brazilian police, Rio de Janeiro_
 
 ##### Chile
 ### [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her-da.md)
-_Context: President, Natalia Compagnon, Michelle Bachelet, Chile_
+_Context: Michelle Bachelet, Chile, Natalia Compagnon, President_
 
 ##### Iranian legislative election, 2016
 ### [Iran's newly elected parliament, officially called the Islamic Consultative Assembly, is opened and new members will be sworn-in during the first session. ](/news/2016/05/28/iran-s-newly-elected-parliament-officially-called-the-islamic-consultative-assembly-is-opened-and-new-members-will-be-sworn-in-during-the.md)
@@ -49,7 +49,7 @@ The swearing-in of the 290-member assembly comes at a critical time for reformis
 
 ##### Secretary General of NATO
 ### [Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". ](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-rasmussen-is-named-an-advisor-for-ukrainian-president-petro-poroshenko-a-move-described-by-a-r.md)
-_Context: Ukrainian President, Secretary General of NATO, Anders Fogh Rasmussen, Petro Poroshenko, Russia_
+_Context: Petro Poroshenko, Anders Fogh Rasmussen, Russia, Secretary General of NATO, Ukrainian President_
 
 ##### Papua New Guinea
 ### [Anti-government protests erupt across Papua New Guinea against Prime Minister Peter O'Neill, calling on him to resign. Papua New Guinea has been in a state of political turmoil since 2014 when the Prime Minister was accused of fraud and corruption. ](/news/2016/05/28/anti-government-protests-erupt-across-papua-new-guinea-against-prime-minister-peter-o-neill-calling-on-him-to-resign-papua-new-guinea-has.md)

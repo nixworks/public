@@ -16,7 +16,7 @@ Two whistleblowers in &quot;Luxleaks&quot; tax scandal get suspended jail terms 
 
 ### Changes:
 
-1. [Luxembourg Leaks: Antoine Deltour and Raphael Halet, two whistleblowers who revealed the Luxembourg Leaks financial scandal, are found guilty of leaking the documents and are given a 12 and nine month suspended sentence and fined -1,500 and -1,000 respectively, while Edouard Perrin, the journalist who was given the leaks, is acquitted of all charges. ](/news/2016/06/29/luxembourg-leaks-antoine-deltour-and-raphael-halet-two-whistleblowers-who-revealed-the-luxembourg-leaks-financial-scandal-are-found-guilt.md) _2017-08-27 03:46:22 (First version)_
+1. [Luxembourg Leaks: Antoine Deltour and Raphael Halet, two whistleblowers who revealed the Luxembourg Leaks financial scandal, are found guilty of leaking the documents and are given a 12 and nine month suspended sentence and fined -1,500 and -1,000 respectively, while Edouard Perrin, the journalist who was given the leaks, is acquitted of all charges. ](/news/2016/06/29/luxembourg-leaks-antoine-deltour-and-raphael-halet-two-whistleblowers-who-revealed-the-luxembourg-leaks-financial-scandal-are-found-guilt.md) _2018-02-06 13:49:29 (First version)_
 1. [Antoine Deltour and Raphael Halet, two whistleblowers who revealed the Luxembourg Leaks financial scandal, are found guilty of leaking the documents and are given a 12 and nine month suspended sentence and fined EUR1,500 and EUR1,000 respectively, while Edouard Perrin, the journalist who was given the leaks, is acquitted of all charges. ](/news/2016/06/29/antoine-deltour-and-raphael-halet-two-whistleblowers-who-revealed-the-luxembourg-leaks-financial-scandal-are-found-guilty-of-leaking-the-d.md) _(Current version)_
 
 ### Related:

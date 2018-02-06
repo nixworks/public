@@ -9,7 +9,7 @@ _Context: Kioa, Tuvalu, rising sea levels_
 
 ##### Iran
 ### [ Iranian Foreign Minister Manouchehr Mottaki denies that Iranian President Mahmoud Ahmadinejad said that he wanted Israel to be "wiped off the map", saying Ahmadinejad was misunderstood. ](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.md)
-_Context: Iran, Foreign Minister, wiped off the map, Mahmoud Ahmadinejad, Manouchehr Mottaki, Israel, Iranian President_
+_Context: wiped off the map, Iran, Israel, Manouchehr Mottaki, Mahmoud Ahmadinejad, Iranian President, Foreign Minister_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ Attacks by the Movement for the Emancipation of the Niger Delta destroy an oil pipeline and a military houseboat in southern Nigeria, cutting crude production by about twenty percent. The recent violence has caused a rise in international oil prices due to supply concerns. ](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.md)
@@ -25,7 +25,7 @@ _Context: Iran_
 
 ##### Brokeback Mountain
 ### [ Western romance "Brokeback Mountain" wins awards for best film and best director for Ang Lee at the BAFTA awards. ](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.md)
-_Context: British Academy of Film and Television Arts, Ang Lee, Brokeback Mountain_
+_Context: Brokeback Mountain, British Academy of Film and Television Arts, Ang Lee_
 
 ##### Osama bin Laden
 ### [ Osama bin Laden vows never to be captured alive, according to an audiotape that was posted Monday on a militant Web site. ](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.md)

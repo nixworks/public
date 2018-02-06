@@ -17,7 +17,7 @@ An explosion caused by what the authorities believe was a homemade bomb injured 
 
 ### Changes:
 
-1. [2016 New York and New Jersey bombings: A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. ](/news/2016/09/17/2016-new-york-and-new-jersey-bombings-a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.md) _2017-08-27 03:46:52 (First version)_
+1. [2016 New York and New Jersey bombings: A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. ](/news/2016/09/17/2016-new-york-and-new-jersey-bombings-a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.md) _2018-02-06 13:49:29 (First version)_
 1. [A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. ](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.md) _(Current version)_
 
 ### Related:

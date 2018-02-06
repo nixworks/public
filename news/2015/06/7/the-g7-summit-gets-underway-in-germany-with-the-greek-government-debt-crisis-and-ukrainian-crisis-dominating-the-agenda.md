@@ -15,7 +15,7 @@ Group of Seven leaders meet on Sunday in the Bavarian Alps for a summit overshad
 
 ### Changes:
 
-1. [41st G7 summit: The G7 summit gets underway in Germany with the Greek government-debt crisis and Ukrainian crisis dominating the agenda. ](/news/2015/06/7/41st-g7-summit-the-g7-summit-gets-underway-in-germany-with-the-greek-government-debt-crisis-and-ukrainian-crisis-dominating-the-agenda.md) _2017-08-27 03:42:29 (First version)_
+1. [41st G7 summit: The G7 summit gets underway in Germany with the Greek government-debt crisis and Ukrainian crisis dominating the agenda. ](/news/2015/06/7/41st-g7-summit-the-g7-summit-gets-underway-in-germany-with-the-greek-government-debt-crisis-and-ukrainian-crisis-dominating-the-agenda.md) _2018-02-06 13:49:27 (First version)_
 1. [The G7 summit gets underway in Germany with the Greek government-debt crisis and Ukrainian crisis dominating the agenda. ](/news/2015/06/7/the-g7-summit-gets-underway-in-germany-with-the-greek-government-debt-crisis-and-ukrainian-crisis-dominating-the-agenda.md) _(Current version)_
 
 ### Related:

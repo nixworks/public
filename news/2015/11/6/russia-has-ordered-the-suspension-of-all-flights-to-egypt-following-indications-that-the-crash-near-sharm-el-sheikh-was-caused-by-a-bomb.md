@@ -16,7 +16,7 @@ Russia orders the suspension of all flights to Egypt following indications that 
 
 ### Changes:
 
-1. [Kogalymavia Flight 9268: Russia has ordered the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.](/news/2015/11/6/kogalymavia-flight-9268-russia-has-ordered-the-suspension-of-all-flights-to-egypt-following-indications-that-the-crash-near-sharm-el-sheikh.md) _2017-08-27 03:43:43 (First version)_
+1. [Kogalymavia Flight 9268: Russia has ordered the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.](/news/2015/11/6/kogalymavia-flight-9268-russia-has-ordered-the-suspension-of-all-flights-to-egypt-following-indications-that-the-crash-near-sharm-el-sheikh.md) _2018-02-06 13:49:28 (First version)_
 1. [Russia has ordered the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.](/news/2015/11/6/russia-has-ordered-the-suspension-of-all-flights-to-egypt-following-indications-that-the-crash-near-sharm-el-sheikh-was-caused-by-a-bomb.md) _(Current version)_
 
 ### Related:

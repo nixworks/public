@@ -16,8 +16,8 @@ Royal Marine Sergeant Alexander Blackman has been sentenced to life in prison by
 
 ### Changes:
 
-1. [War in Afghanistan:Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/war-in-afghanistan-proyal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insurg.md) _2017-08-25 03:39:38 (First version)_
-2. [War in Afghanistan:: Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/war-in-afghanistan-royal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insur.md) _2017-08-27 03:39:56 (Update)_
+1. [War in Afghanistan:: Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/war-in-afghanistan-royal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insur.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Afghanistan:Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/war-in-afghanistan-proyal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insurg.md) _2018-02-06 13:49:25 (Update)_
 2. [Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/royal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insurgent.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-
 
 ### Changes:
 
-1. [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-city-saint-joseph-for-failing-to-rep.md) _2017-08-27 03:42:13 (First version)_
+1. [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-city-saint-joseph-for-failing-to-rep.md) _2018-02-06 13:49:27 (First version)_
 1. [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-cityasaint-joseph-for-failing-to-rep.md) _(Current version)_
 
 ### Related:

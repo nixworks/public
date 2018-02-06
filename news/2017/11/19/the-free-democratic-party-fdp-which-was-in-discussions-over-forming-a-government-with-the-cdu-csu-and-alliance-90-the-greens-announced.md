@@ -16,7 +16,7 @@ Chancellor Angela Merkel left facing prospect of forming minority government –
 
 ### Changes:
 
-1. [In the night to Monday, Free Democratic Party (FDP), which was supposed to form a government with CDU, CSU and Alliance 90-The Greens, announced that the party refuses further coalition negotiations. The main reasons for the failure were questions about the politics concerning migration and environment. ](/news/2017/11/19/in-the-night-to-monday-free-democratic-party-fdp-which-was-supposed-to-form-a-government-with-cdu-csu-and-alliance-90-the-greens-annou.md) _2017-11-20 22:30:05 (First version)_
+1. [In the night to Monday, Free Democratic Party (FDP), which was supposed to form a government with CDU, CSU and Alliance 90-The Greens, announced that the party refuses further coalition negotiations. The main reasons for the failure were questions about the politics concerning migration and environment. ](/news/2017/11/19/in-the-night-to-monday-free-democratic-party-fdp-which-was-supposed-to-form-a-government-with-cdu-csu-and-alliance-90-the-greens-annou.md) _2018-02-06 13:49:31 (First version)_
 1. [The Free Democratic Party (FDP), which was in discussions over forming a government with the CDU, CSU and Alliance 90-The Greens, announced that the party refuses further coalition negotiations. The main reasons for the failure were questions about the politics concerning migration and environment. ](/news/2017/11/19/the-free-democratic-party-fdp-which-was-in-discussions-over-forming-a-government-with-the-cdu-csu-and-alliance-90-the-greens-announced.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Heavy rains from the outer bands of Hurricane Matthew drenched Haiti and Jamaica
 
 ### Changes:
 
-1. [2016 Atlantic hurricane season: Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km-h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/2016-atlantic-hurricane-season-heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the.md) _2017-08-27 03:46:57 (First version)_
+1. [2016 Atlantic hurricane season: Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km-h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/2016-atlantic-hurricane-season-heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the.md) _2018-02-06 13:49:29 (First version)_
 1. [Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km-h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the-category-4-storm-with-140-mph.md) _(Current version)_
 
 ### Related:

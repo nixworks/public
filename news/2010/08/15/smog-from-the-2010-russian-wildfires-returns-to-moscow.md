@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/08/15/smog-from-the-2010-russian-wildfires-returns-to
 
 ### Changes:
 
-1. [2010 Russian wildfires:Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/2010-russian-wildfires-psmog-from-the-2010-russian-wildfires-returns-to-moscow.md) _2017-08-25 03:29:27 (First version)_
-2. [2010 Russian wildfires:: Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/2010-russian-wildfires-smog-from-the-2010-russian-wildfires-returns-to-moscow.md) _2017-08-27 03:29:31 (Update)_
+1. [2010 Russian wildfires:: Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/2010-russian-wildfires-smog-from-the-2010-russian-wildfires-returns-to-moscow.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Russian wildfires:Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/2010-russian-wildfires-psmog-from-the-2010-russian-wildfires-returns-to-moscow.md) _2018-02-06 13:49:20 (Update)_
 2. [Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/smog-from-the-2010-russian-wildfires-returns-to-moscow.md) _(Current version)_
 
 ### Related:

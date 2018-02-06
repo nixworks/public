@@ -18,8 +18,8 @@ Police and armed men in civilian clothes opened fire on anti-government demonstr
 
 ### Changes:
 
-1. [2011 Yemeni protests:Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-pyemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _2017-08-25 03:32:44 (First version)_
-2. [2011 Yemeni protests:: Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _2017-08-27 03:32:52 (Update)_
+1. [2011 Yemeni protests:: Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-pyemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _2018-02-06 13:49:22 (Update)_
 2. [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md) _(Current version)_
 
 ### Related:

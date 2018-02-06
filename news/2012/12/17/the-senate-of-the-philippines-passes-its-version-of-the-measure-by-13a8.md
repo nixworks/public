@@ -17,8 +17,8 @@ The next step is the bicameral conference committee, where both chambers of Cong
 
 ### Changes:
 
-1. [Reproductive Health Bill:The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/reproductive-health-bill-pthe-senate-of-the-philippines-passes-its-version-of-the-measure-by-13a8.md) _2017-08-25 03:37:03 (First version)_
-2. [Reproductive Health Bill:: The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/reproductive-health-bill-the-senate-of-the-philippines-passes-its-version-of-the-measure-by-13-8.md) _2017-08-27 03:37:14 (Update)_
+1. [Reproductive Health Bill:: The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/reproductive-health-bill-the-senate-of-the-philippines-passes-its-version-of-the-measure-by-13-8.md) _2018-02-06 13:49:24 (First version)_
+2. [Reproductive Health Bill:The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/reproductive-health-bill-pthe-senate-of-the-philippines-passes-its-version-of-the-measure-by-13a8.md) _2018-02-06 13:49:24 (Update)_
 2. [The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/the-senate-of-the-philippines-passes-its-version-of-the-measure-by-13a8.md) _(Current version)_
 
 ### Related:

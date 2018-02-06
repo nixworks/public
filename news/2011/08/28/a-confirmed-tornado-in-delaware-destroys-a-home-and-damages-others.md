@@ -19,8 +19,8 @@ President Obama issued a state of emergency for Maryland on Saturday as the stat
 
 ### Changes:
 
-1. [Hurricane Irene:A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/hurricane-irene-pa-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md) _2017-08-25 03:34:04 (First version)_
-2. [Hurricane Irene:: A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/hurricane-irene-a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md) _2017-08-27 03:34:12 (Update)_
+1. [Hurricane Irene:A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/hurricane-irene-pa-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md) _2018-02-06 13:49:22 (First version)_
+2. [Hurricane Irene:: A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/hurricane-irene-a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md) _2018-02-06 13:49:22 (Update)_
 2. [A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md) _(Current version)_
 
 ### Related:

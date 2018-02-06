@@ -17,7 +17,7 @@ Kurdish rebels have detonated a bomb on a road in south east Turkey, killing at 
 
 ### Changes:
 
-1. [Turkey-PKK Conflict: A bomb detonated by Kurdish militants kills at least eight soldiers. ](/news/2015/08/19/turkey-pkk-conflict-a-bomb-detonated-by-kurdish-militants-kills-at-least-eight-soldiers.md) _2017-08-27 03:42:51 (First version)_
+1. [Turkey-PKK Conflict: A bomb detonated by Kurdish militants kills at least eight soldiers. ](/news/2015/08/19/turkey-pkk-conflict-a-bomb-detonated-by-kurdish-militants-kills-at-least-eight-soldiers.md) _2018-02-06 13:49:27 (First version)_
 1. [A bomb detonated by Kurdish militants kills at least eight soldiers. ](/news/2015/08/19/a-bomb-detonated-by-kurdish-militants-kills-at-least-eight-soldiers.md) _(Current version)_
 
 ### Related:

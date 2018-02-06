@@ -16,8 +16,8 @@ At least 18 people, mostly civilians, were killed when a suicide car bomber targ
 
 ### Changes:
 
-1. [At least 18 people were killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-were-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _2017-05-27 13:30:07 (First version)_
-2. [War in Afghanistan (2015-present): At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/war-in-afghanistan-2015-present-at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanista.md) _2017-08-27 03:48:23 (Update)_
+1. [War in Afghanistan (2015-present): At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/war-in-afghanistan-2015-present-at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanista.md) _2018-02-06 13:49:30 (First version)_
+2. [At least 18 people were killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-were-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _2018-02-06 13:49:30 (Update)_
 2. [At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _(Current version)_
 
 ### Related:

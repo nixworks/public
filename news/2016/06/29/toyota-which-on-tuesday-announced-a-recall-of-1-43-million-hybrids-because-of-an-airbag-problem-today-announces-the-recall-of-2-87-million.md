@@ -16,7 +16,7 @@ Toyota Motor Corp (7203.T) has recalled 3.37 million cars worldwide over possibl
 
 ### Changes:
 
-1. [Toyota, which on Tuesday announced a recall of 1.43 million hybrids because of an airbag problem, today announces the recall of 2.87 million vehicles worldwide, produced between April 2006 and August 2015, because of a possible problem with their evaporative fuel emissions control unit. ](/news/2016/06/29/toyota-which-on-tuesday-announced-a-recall-of-1-43-million-hybrids-because-of-an-airbag-problem-today-announces-the-recall-of-2-87-millio.md) _2017-08-25 03:46:00 (First version)_
+1. [Toyota, which on Tuesday announced a recall of 1.43 million hybrids because of an airbag problem, today announces the recall of 2.87 million vehicles worldwide, produced between April 2006 and August 2015, because of a possible problem with their evaporative fuel emissions control unit. ](/news/2016/06/29/toyota-which-on-tuesday-announced-a-recall-of-1-43-million-hybrids-because-of-an-airbag-problem-today-announces-the-recall-of-2-87-millio.md) _2018-02-06 13:49:29 (First version)_
 1. [Toyota, which on Tuesday announced a recall of 1.43 million hybrids because of an airbag problem, today announces the recall of 2.87 million vehicles worldwide, produced between April 2006 and August 2015, because of a possible problem with their evaporative fuel emissions control unit. ](/news/2016/06/29/toyota-which-on-tuesday-announced-a-recall-of-1-43-million-hybrids-because-of-an-airbag-problem-today-announces-the-recall-of-2-87-million.md) _(Current version)_
 
 ### Related:

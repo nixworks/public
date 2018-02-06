@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/09/22/the-u-s-senate-committee-on-the-judiciary-votes
 
 ### Changes:
 
-1. [ The U.S. Senate Committee on the Judiciary votes 13 to 5 for the nomination of John G. Roberts as Chief Justice of the United States. The appointment needs approval of the entire Senate, and that vote is expected during the week of September 26.](/news/2005/09/22/the-u-s-senate-committee-on-the-judiciary-votes-13-to-5-for-the-nomination-of-john-g-roberts-as-chief-justice-of-the-united-states-the-a.md) _2017-10-17 03:19:23 (First version)_
+1. [ The U.S. Senate Committee on the Judiciary votes 13 to 5 for the nomination of John G. Roberts as Chief Justice of the United States. The appointment needs approval of the entire Senate, and that vote is expected during the week of September 26.](/news/2005/09/22/the-u-s-senate-committee-on-the-judiciary-votes-13-to-5-for-the-nomination-of-john-g-roberts-as-chief-justice-of-the-united-states-the-a.md) _2018-02-06 13:49:16 (First version)_
 1. [ The U.S. Senate Committee on the Judiciary votes 13 to 5 for the nomination of John Roberts as Chief Justice of the United States. The appointment needs approval of the entire Senate, and that vote is expected during the week of September 26.](/news/2005/09/22/the-u-s-senate-committee-on-the-judiciary-votes-13-to-5-for-the-nomination-of-john-roberts-as-chief-justice-of-the-united-states-the-appo.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/09/7/the-duterte-administration-accuses-china-of-buil
 
 ### Changes:
 
-1. [''Philippines v. China''The Duterte administration accuses China of building a "secret island" on the Scarborough Shoal. ](/news/2016/09/7/philippines-v-china-pthe-duterte-administration-accuses-china-of-building-a-secret-island-on-the-scarborough-shoal.md) _2017-08-25 03:46:24 (First version)_
-2. ["Philippines v. China": The Duterte administration accuses China of building a "secret island" on the Scarborough Shoal. ](/news/2016/09/7/philippines-v-china-the-duterte-administration-accuses-china-of-building-a-secret-island-on-the-scarborough-shoal.md) _2017-08-27 03:46:47 (Update)_
+1. ["Philippines v. China": The Duterte administration accuses China of building a "secret island" on the Scarborough Shoal. ](/news/2016/09/7/philippines-v-china-the-duterte-administration-accuses-china-of-building-a-secret-island-on-the-scarborough-shoal.md) _2018-02-06 13:49:29 (First version)_
+2. [''Philippines v. China''The Duterte administration accuses China of building a "secret island" on the Scarborough Shoal. ](/news/2016/09/7/philippines-v-china-pthe-duterte-administration-accuses-china-of-building-a-secret-island-on-the-scarborough-shoal.md) _2018-02-06 13:49:29 (Update)_
 2. [The Duterte administration accuses China of building a "secret island" on the Scarborough Shoal. ](/news/2016/09/7/the-duterte-administration-accuses-china-of-building-a-secret-island-on-the-scarborough-shoal.md) _(Current version)_
 
 ### Related:

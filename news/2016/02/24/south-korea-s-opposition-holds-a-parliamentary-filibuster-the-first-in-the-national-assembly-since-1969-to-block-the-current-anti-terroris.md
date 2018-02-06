@@ -17,7 +17,7 @@ Wearing a white sweater and a blue blazer, her eyes framed by round spectacles, 
 
 ### Changes:
 
-1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terrori.md) _2017-08-25 03:44:39 (First version)_
+1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terrori.md) _2018-02-06 13:49:28 (First version)_
 1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.md) _(Current version)_
 
 ### Related:

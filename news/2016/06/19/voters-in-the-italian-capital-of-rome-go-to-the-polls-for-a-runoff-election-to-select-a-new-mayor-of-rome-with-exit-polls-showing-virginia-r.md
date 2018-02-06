@@ -17,7 +17,7 @@ The anti-establishment Five Star Movement wins key mayoral races in the capital,
 
 ### Changes:
 
-1. [Italian local elections, 2016: Voters in the Italian capital of Rome go to the polls for a runoff election to select a new Mayor of Rome with exit polls showing Virginia Raggi of the Five Star Movement will become the first female Mayor. ](/news/2016/06/19/italian-local-elections-2016-voters-in-the-italian-capital-of-rome-go-to-the-polls-for-a-runoff-election-to-select-a-new-mayor-of-rome-wit.md) _2017-08-27 03:46:18 (First version)_
+1. [Italian local elections, 2016: Voters in the Italian capital of Rome go to the polls for a runoff election to select a new Mayor of Rome with exit polls showing Virginia Raggi of the Five Star Movement will become the first female Mayor. ](/news/2016/06/19/italian-local-elections-2016-voters-in-the-italian-capital-of-rome-go-to-the-polls-for-a-runoff-election-to-select-a-new-mayor-of-rome-wit.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in the Italian capital of Rome go to the polls for a runoff election to select a new Mayor of Rome with exit polls showing Virginia Raggi of the Five Star Movement will become the first female Mayor. ](/news/2016/06/19/voters-in-the-italian-capital-of-rome-go-to-the-polls-for-a-runoff-election-to-select-a-new-mayor-of-rome-with-exit-polls-showing-virginia-r.md) _(Current version)_
 
 ### Related:

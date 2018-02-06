@@ -17,7 +17,7 @@ Results for the U.S. Senate special election between Roy S. Moore, a Republican,
 
 ### Changes:
 
-1. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions.md) _2017-12-12 17:30:09 (First version)_
+1. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions.md) _2018-02-06 13:49:31 (First version)_
 1. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The foreign ministers of Russia, Germany and Poland said they were optimistic wh
 
 ### Changes:
 
-1. [2014 pro-Russian conflict in Ukraine:Russian media reports that the self proclaimed "people's mayor" Vyacheslav Ponomarev is arrested by a militant wing of a rebel group led by former GRU officer Igor Girkin in Slovyansk. ](/news/2014/06/11/2014-pro-russian-conflict-in-ukraine-prussian-media-reports-that-the-self-proclaimed-people-s-mayor-vyacheslav-ponomarev-is-arrested-by-a.md) _2017-08-25 03:40:32 (First version)_
-2. [2014 pro-Russian conflict in Ukraine:: Russian media reports that the self proclaimed "people's mayor" Vyacheslav Ponomarev is arrested by a militant wing of a rebel group led by former GRU officer Igor Girkin in Slovyansk. ](/news/2014/06/11/2014-pro-russian-conflict-in-ukraine-russian-media-reports-that-the-self-proclaimed-people-s-mayor-vyacheslav-ponomarev-is-arrested-by-a.md) _2017-08-27 03:40:50 (Update)_
+1. [2014 pro-Russian conflict in Ukraine:: Russian media reports that the self proclaimed "people's mayor" Vyacheslav Ponomarev is arrested by a militant wing of a rebel group led by former GRU officer Igor Girkin in Slovyansk. ](/news/2014/06/11/2014-pro-russian-conflict-in-ukraine-russian-media-reports-that-the-self-proclaimed-people-s-mayor-vyacheslav-ponomarev-is-arrested-by-a.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian conflict in Ukraine:Russian media reports that the self proclaimed "people's mayor" Vyacheslav Ponomarev is arrested by a militant wing of a rebel group led by former GRU officer Igor Girkin in Slovyansk. ](/news/2014/06/11/2014-pro-russian-conflict-in-ukraine-prussian-media-reports-that-the-self-proclaimed-people-s-mayor-vyacheslav-ponomarev-is-arrested-by-a.md) _2018-02-06 13:49:26 (Update)_
 2. [Russian media reports that the self proclaimed "people's mayor" Vyacheslav Ponomarev is arrested by a militant wing of a rebel group led by former GRU officer Igor Girkin in Slovyansk. ](/news/2014/06/11/russian-media-reports-that-the-self-proclaimed-people-s-mayor-vyacheslav-ponomarev-is-arrested-by-a-militant-wing-of-a-rebel-group-led-by.md) _(Current version)_
 
 ### Related:

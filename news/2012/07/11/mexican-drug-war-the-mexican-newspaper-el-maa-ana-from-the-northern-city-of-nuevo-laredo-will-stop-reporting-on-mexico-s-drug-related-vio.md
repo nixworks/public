@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-a
 
 ### Changes:
 
-1. [Mexican Drug War: The Mexican newspaper ''El Manana'' from the northern city of Nuevo Laredo will stop reporting on Mexico's drug-related violence after a second grenade attack at its installations. ](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-ana-from-the-northern-city-of-nuevo-laredo-will-stop-reporting-on-mexico-s-drug-related-v.md) _2017-08-25 03:36:05 (First version)_
+1. [Mexican Drug War: The Mexican newspaper ''El Manana'' from the northern city of Nuevo Laredo will stop reporting on Mexico's drug-related violence after a second grenade attack at its installations. ](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-ana-from-the-northern-city-of-nuevo-laredo-will-stop-reporting-on-mexico-s-drug-related-v.md) _2018-02-06 13:49:23 (First version)_
 1. [Mexican Drug War: The Mexican newspaper "El Manana" from the northern city of Nuevo Laredo will stop reporting on Mexico's drug-related violence after a second grenade attack at its installations. ](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-ana-from-the-northern-city-of-nuevo-laredo-will-stop-reporting-on-mexico-s-drug-related-vio.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ MOMBASA, Kenya (AP) — A Kenyan court on Thursday upheld the use of anal examin
 
 ### Changes:
 
-1. [A Kenyan lower court judge upholds the use of anal examinations to attempt to determine a suspect-s sexual orientation. Homosexual acts are a crime in Kenya. ](/news/2016/06/16/a-kenyan-lower-court-judge-upholds-the-use-of-anal-examinations-to-attempt-to-determine-a-suspect-s-sexual-orientation-homosexual-acts-ar.md) _2017-08-27 03:46:16 (First version)_
+1. [A Kenyan lower court judge upholds the use of anal examinations to attempt to determine a suspect-s sexual orientation. Homosexual acts are a crime in Kenya. ](/news/2016/06/16/a-kenyan-lower-court-judge-upholds-the-use-of-anal-examinations-to-attempt-to-determine-a-suspect-s-sexual-orientation-homosexual-acts-ar.md) _2018-02-06 13:49:29 (First version)_
 1. [A Kenyan lower court judge upholds the use of anal examinations to attempt to determine a suspect's sexual orientation. Homosexual acts are a crime in Kenya. ](/news/2016/06/16/a-kenyan-lower-court-judge-upholds-the-use-of-anal-examinations-to-attempt-to-determine-a-suspectas-sexual-orientation-homosexual-acts-ar.md) _(Current version)_
 
 ### Related:

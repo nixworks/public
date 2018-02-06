@@ -18,7 +18,7 @@ Hurricane Earl bore down on North Carolina with winds of 140 miles (225 kilomete
 
 ### Changes:
 
-1. [Hurricane Earl: A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/hurricane-earl-a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-t.md) _2017-08-27 03:29:55 (First version)_
+1. [Hurricane Earl: A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/hurricane-earl-a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-t.md) _2018-02-06 13:49:20 (First version)_
 1. [A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-the-united-states.md) _(Current version)_
 
 ### Related:

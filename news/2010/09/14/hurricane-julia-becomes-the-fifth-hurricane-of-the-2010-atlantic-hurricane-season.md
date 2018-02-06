@@ -17,8 +17,8 @@ Tropical Storm Julia grew tohurricane strength over the far eastern Atlantic Oce
 
 ### Changes:
 
-1. [2010 Atlantic hurricane seasonHurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/2010-atlantic-hurricane-seasonphurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md) _2017-08-25 03:30:01 (First version)_
-2. [2010 Atlantic hurricane season: Hurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/2010-atlantic-hurricane-season-hurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md) _2017-08-27 03:30:06 (Update)_
+1. [2010 Atlantic hurricane seasonHurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/2010-atlantic-hurricane-seasonphurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Atlantic hurricane season: Hurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/2010-atlantic-hurricane-season-hurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md) _2018-02-06 13:49:20 (Update)_
 2. [Hurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/hurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md) _(Current version)_
 
 ### Related:

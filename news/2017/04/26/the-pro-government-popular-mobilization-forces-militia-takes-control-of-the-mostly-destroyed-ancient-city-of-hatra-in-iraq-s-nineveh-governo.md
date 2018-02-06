@@ -16,7 +16,7 @@ The scale of the damage done by IS militants to the site - featured in The Exorc
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/iraqi-civil-war-2014-present-the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city.md) _2017-08-27 03:48:15 (First version)_
+1. [Iraqi Civil War (2014-present): The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/iraqi-civil-war-2014-present-the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city.md) _2018-02-06 13:49:30 (First version)_
 1. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _(Current version)_
 
 ### Related:

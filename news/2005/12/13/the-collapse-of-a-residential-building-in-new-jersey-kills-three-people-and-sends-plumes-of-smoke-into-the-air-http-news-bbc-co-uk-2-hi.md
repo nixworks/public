@@ -11,7 +11,7 @@ Formats: [HTML](/news/2005/12/13/the-collapse-of-a-residential-building-in-new-j
 
 ### Changes:
 
-1. [ The collapse of a residential building in New Jersey kills three people and sends plumes of smoke into the air. ](/news/2005/12/13/the-collapse-of-a-residential-building-in-new-jersey-kills-three-people-and-sends-plumes-of-smoke-into-the-air.md) _2017-08-25 03:17:15 (First version)_
+1. [ The collapse of a residential building in New Jersey kills three people and sends plumes of smoke into the air. ](/news/2005/12/13/the-collapse-of-a-residential-building-in-new-jersey-kills-three-people-and-sends-plumes-of-smoke-into-the-air.md) _2018-02-06 13:49:16 (First version)_
 1. [ The collapse of a residential building in New Jersey kills three people and sends plumes of smoke into the air. [http:--news.bbc.co.uk-2-hi-americas-4525548.stm (BBC)] (Wikinews)](/news/2005/12/13/the-collapse-of-a-residential-building-in-new-jersey-kills-three-people-and-sends-plumes-of-smoke-into-the-air-http-news-bbc-co-uk-2-hi.md) _(Current version)_
 
 ### Related:

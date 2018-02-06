@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-wo
 
 ### Changes:
 
-1. [Former editor of ''The Sun'' and the ''News of the World'' Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appe.md) _2017-08-25 03:34:39 (First version)_
+1. [Former editor of ''The Sun'' and the ''News of the World'' Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appe.md) _2018-02-06 13:49:23 (First version)_
 1. [Former editor of "The Sun" and the "News of the World" Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appear-n.md) _(Current version)_
 
 ### Related:

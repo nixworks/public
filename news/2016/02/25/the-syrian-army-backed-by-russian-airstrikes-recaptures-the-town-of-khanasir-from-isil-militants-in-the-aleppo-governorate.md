@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Syrian Civil War: The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/syrian-civil-war-the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governora.md) _2017-08-27 03:45:01 (First version)_
+1. [Syrian Civil War: The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/syrian-civil-war-the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governora.md) _2018-02-06 13:49:28 (First version)_
 1. [The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governorate.md) _(Current version)_
 
 ### Related:

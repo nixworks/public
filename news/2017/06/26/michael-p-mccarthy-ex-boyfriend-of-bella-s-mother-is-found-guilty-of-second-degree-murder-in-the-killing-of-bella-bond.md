@@ -16,5 +16,5 @@ A Massachusetts man has been convicted of second-degree murder in the 2015 death
 
 ### Changes:
 
-1. [Bella Bond murder case: Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. ](/news/2017/06/26/bella-bond-murder-case-michael-p-mccarthy-ex-boyfriend-of-bella-s-mother-is-found-guilty-of-second-degree-murder-in-the-killing-of-bella.md) _2017-08-27 03:48:33 (First version)_
+1. [Bella Bond murder case: Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. ](/news/2017/06/26/bella-bond-murder-case-michael-p-mccarthy-ex-boyfriend-of-bella-s-mother-is-found-guilty-of-second-degree-murder-in-the-killing-of-bella.md) _2018-02-06 13:49:30 (First version)_
 1. [Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. ](/news/2017/06/26/michael-p-mccarthy-ex-boyfriend-of-bella-s-mother-is-found-guilty-of-second-degree-murder-in-the-killing-of-bella-bond.md) _(Current version)_

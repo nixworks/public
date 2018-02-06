@@ -16,8 +16,8 @@ At least 11 people - most of them students - are killed and 22 injured when a bu
 
 ### Changes:
 
-1. [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges {{convert|80|m|ft}} off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-convert-80-m-ft-off-a.md) _2017-05-01 03:38:20 (First version)_
-2. [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80|m|ft off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-ft-off-a-cliff-in-alb.md) _2017-08-29 03:35:46 (Update)_
+1. [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges {{convert|80|m|ft}} off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-convert-80-m-ft-off-a.md) _2018-02-06 13:49:23 (First version)_
+2. [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80|m|ft off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-ft-off-a-cliff-in-alb.md) _2018-02-06 13:49:23 (Update)_
 2. [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80 m off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-off-a-cliff-in-albani.md) _(Current version)_
 
 ### Related:

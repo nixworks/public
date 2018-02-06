@@ -18,8 +18,8 @@ On the anniversary of the Islamic Revolution, Iran’s president sent forces ont
 
 ### Changes:
 
-1. [Iran:President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/iran-ppresident-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md) _2017-08-25 03:27:08 (First version)_
-2. [Iran:: President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/iran-president-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md) _2017-08-27 03:27:01 (Update)_
+1. [Iran:: President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/iran-president-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md) _2018-02-06 13:49:19 (First version)_
+2. [Iran:President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/iran-ppresident-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md) _2018-02-06 13:49:19 (Update)_
 2. [President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/president-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md) _(Current version)_
 
 ### Related:

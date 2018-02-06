@@ -16,8 +16,8 @@ By Garba Muhammed KADUNA Nigeria (Reuters) - At least 82 people were killed on W
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Two explosions rip through the northern Nigerian city of Kaduna killing at least 82 people. ](/news/2014/07/23/islamist-insurgency-in-nigeria-ptwo-explosions-rip-through-the-northern-nigerian-city-of-kaduna-killing-at-least-82-people.md) _2017-08-25 03:40:44 (First version)_
-2. [Islamist insurgency in Nigeria:: Two explosions rip through the northern Nigerian city of Kaduna killing at least 82 people. ](/news/2014/07/23/islamist-insurgency-in-nigeria-two-explosions-rip-through-the-northern-nigerian-city-of-kaduna-killing-at-least-82-people.md) _2017-08-27 03:41:02 (Update)_
+1. [Islamist insurgency in Nigeria:: Two explosions rip through the northern Nigerian city of Kaduna killing at least 82 people. ](/news/2014/07/23/islamist-insurgency-in-nigeria-two-explosions-rip-through-the-northern-nigerian-city-of-kaduna-killing-at-least-82-people.md) _2018-02-06 13:49:26 (First version)_
+2. [Islamist insurgency in Nigeria:Two explosions rip through the northern Nigerian city of Kaduna killing at least 82 people. ](/news/2014/07/23/islamist-insurgency-in-nigeria-ptwo-explosions-rip-through-the-northern-nigerian-city-of-kaduna-killing-at-least-82-people.md) _2018-02-06 13:49:26 (Update)_
 2. [Two explosions rip through the northern Nigerian city of Kaduna killing at least 82 people. ](/news/2014/07/23/two-explosions-rip-through-the-northern-nigerian-city-of-kaduna-killing-at-least-82-people.md) _(Current version)_
 
 ### Related:

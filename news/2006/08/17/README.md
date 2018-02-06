@@ -21,7 +21,7 @@ _Context: JonBent Ramsey, John Mark Karr_
 
 ##### Litani River
 ### [ Lebanese troops deploy south of the Litani River in Lebanon as part of the ceasefire agreement ](/news/2006/08/17/lebanese-troops-deploy-south-of-the-litani-river-in-lebanon-as-part-of-the-ceasefire-agreement.md)
-_Context: Lebanon, Litani River_
+_Context: Litani River, Lebanon_
 
 ##### Tungurahua
 ### [ Tungurahua, an active stratovolcano in Ecuador, erupts, spewing out pyroclastic flows, shooting volcanic ash six kilometres into the air and forcing the evacuation of thousands of people. At least one person is killed and another 60 people missing. ](/news/2006/08/17/tungurahua-an-active-stratovolcano-in-ecuador-erupts-spewing-out-pyroclastic-flows-shooting-volcanic-ash-six-kilometres-into-the-air-an.md)

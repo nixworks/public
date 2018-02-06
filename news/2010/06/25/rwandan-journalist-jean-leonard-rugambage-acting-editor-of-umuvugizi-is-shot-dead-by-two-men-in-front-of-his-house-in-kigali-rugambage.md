@@ -19,7 +19,7 @@ A Rwandan journalist working for a private newspaper is shot dead by two men in 
 
 ### Changes:
 
-1. [Rwandan journalist Jean Leonard Rugambage, acting editor of ''Umuvugizi'', is shot dead by two men in front of his house in Kigali. Rugambage's death shocks journalists in the country; the paper's exiled chief editor says the government is responsible. ](/news/2010/06/25/rwandan-journalist-jean-leonard-rugambage-acting-editor-of-umuvugizi-is-shot-dead-by-two-men-in-front-of-his-house-in-kigali-rugambag.md) _2017-08-25 03:28:26 (First version)_
+1. [Rwandan journalist Jean Leonard Rugambage, acting editor of ''Umuvugizi'', is shot dead by two men in front of his house in Kigali. Rugambage's death shocks journalists in the country; the paper's exiled chief editor says the government is responsible. ](/news/2010/06/25/rwandan-journalist-jean-leonard-rugambage-acting-editor-of-umuvugizi-is-shot-dead-by-two-men-in-front-of-his-house-in-kigali-rugambag.md) _2018-02-06 13:49:20 (First version)_
 1. [Rwandan journalist Jean Leonard Rugambage, acting editor of "Umuvugizi", is shot dead by two men in front of his house in Kigali. Rugambage's death shocks journalists in the country; the paper's exiled chief editor says the government is responsible. ](/news/2010/06/25/rwandan-journalist-jean-leonard-rugambage-acting-editor-of-umuvugizi-is-shot-dead-by-two-men-in-front-of-his-house-in-kigali-rugambage.md) _(Current version)_
 
 ### Related:

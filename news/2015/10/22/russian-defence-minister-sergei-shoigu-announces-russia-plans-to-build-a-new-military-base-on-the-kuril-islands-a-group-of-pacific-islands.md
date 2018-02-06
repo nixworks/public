@@ -16,7 +16,7 @@ Russia plans to build a military base on the...
 
 ### Changes:
 
-1. [Kuril Islands dispute: Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. ](/news/2015/10/22/kuril-islands-dispute-russian-defence-minister-sergei-shoigu-announces-russia-plans-to-build-a-new-military-base-on-the-kuril-islands-a-gr.md) _2017-08-27 03:43:28 (First version)_
+1. [Kuril Islands dispute: Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. ](/news/2015/10/22/kuril-islands-dispute-russian-defence-minister-sergei-shoigu-announces-russia-plans-to-build-a-new-military-base-on-the-kuril-islands-a-gr.md) _2018-02-06 13:49:28 (First version)_
 1. [Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. ](/news/2015/10/22/russian-defence-minister-sergei-shoigu-announces-russia-plans-to-build-a-new-military-base-on-the-kuril-islands-a-group-of-pacific-islands.md) _(Current version)_
 
 ### Related:

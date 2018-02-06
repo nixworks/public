@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/20/french-president-nicolas-sarkozy-vows-to-contin
 
 ### Changes:
 
-1. [ November 2007 strikes in France: French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-p-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _2017-08-25 03:21:26 (First version)_
-2. [ November 2007 strikes in France:: French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _2017-08-27 03:21:21 (Update)_
+1. [ November 2007 strikes in France: French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-p-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _2018-02-06 13:49:18 (First version)_
+2. [ November 2007 strikes in France:: French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _2018-02-06 13:49:18 (Update)_
 2. [ French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _(Current version)_
 
 ### Related:

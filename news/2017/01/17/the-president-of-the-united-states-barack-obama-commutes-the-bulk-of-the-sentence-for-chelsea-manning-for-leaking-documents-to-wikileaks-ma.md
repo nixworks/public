@@ -17,7 +17,7 @@ The Wikileaks source will walk free in May, but critics call the decision &quot;
 
 ### Changes:
 
-1. [Barack Obama presidential pardons: The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/barack-obama-presidential-pardons-the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for.md) _2017-08-27 03:47:37 (First version)_
+1. [Barack Obama presidential pardons: The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/barack-obama-presidential-pardons-the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for.md) _2018-02-06 13:49:30 (First version)_
 1. [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md) _(Current version)_
 
 ### Related:

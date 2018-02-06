@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/11/16/lawyers-in-the-uk-accuse-egypt-s-military-of-co
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present):Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013apresent-plawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-july.md) _2017-08-25 03:39:32 (First version)_
-2. [Islamist protests in Egypt (July 2013-present):: Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013-present-lawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-jul.md) _2017-08-27 03:39:50 (Update)_
+1. [Islamist protests in Egypt (July 2013-present):Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013apresent-plawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-july.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist protests in Egypt (July 2013-present):: Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013-present-lawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-jul.md) _2018-02-06 13:49:25 (Update)_
 2. [Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/lawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-july-s-ouster-of-president-mohamed-morsi.md) _(Current version)_
 
 ### Related:

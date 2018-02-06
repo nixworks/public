@@ -18,7 +18,7 @@ Dozens of real-life couples were married live on stage by rapper Queen Latifah, 
 
 ### Changes:
 
-1. [56th Annual Grammy Awards: Macklemore & Ryan Lewis wins Best New Artist, Lorde wins Song of the Year for "Royals", and Daft Punk wins Record of the Year for "Get Lucky" and Album of the Year for "Random Access Memories". ](/news/2014/01/26/56th-annual-grammy-awards-macklemore-ryan-lewis-wins-best-new-artist-lorde-wins-song-of-the-year-for-royals-and-daft-punk-wins-record.md) _2017-08-27 03:40:15 (First version)_
+1. [56th Annual Grammy Awards: Macklemore & Ryan Lewis wins Best New Artist, Lorde wins Song of the Year for "Royals", and Daft Punk wins Record of the Year for "Get Lucky" and Album of the Year for "Random Access Memories". ](/news/2014/01/26/56th-annual-grammy-awards-macklemore-ryan-lewis-wins-best-new-artist-lorde-wins-song-of-the-year-for-royals-and-daft-punk-wins-record.md) _2018-02-06 13:49:25 (First version)_
 1. [Macklemore & Ryan Lewis wins Best New Artist, Lorde wins Song of the Year for "Royals", and Daft Punk wins Record of the Year for "Get Lucky" and Album of the Year for "Random Access Memories". ](/news/2014/01/26/macklemore-ryan-lewis-wins-best-new-artist-lorde-wins-song-of-the-year-for-royals-and-daft-punk-wins-record-of-the-year-for-get-lucky.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ More than 250 people have been sickened, mostly in the Midwest, by a rare parasi
 
 ### Changes:
 
-1. [The ''Cyclospora'' parasite sickens more than 250 people in the Midwestern United States as the result of contamination of fresh produce shipped across state lines. The CDC report that eight people have been hospitalized with cyclosporiasis. ](/news/2013/07/23/the-cyclospora-parasite-sickens-more-than-250-people-in-the-midwestern-united-states-as-the-result-of-contamination-of-fresh-produce-shi.md) _2017-08-25 03:39:02 (First version)_
+1. [The ''Cyclospora'' parasite sickens more than 250 people in the Midwestern United States as the result of contamination of fresh produce shipped across state lines. The CDC report that eight people have been hospitalized with cyclosporiasis. ](/news/2013/07/23/the-cyclospora-parasite-sickens-more-than-250-people-in-the-midwestern-united-states-as-the-result-of-contamination-of-fresh-produce-shi.md) _2018-02-06 13:49:25 (First version)_
 1. [The "Cyclospora" parasite sickens more than 250 people in the Midwestern United States as the result of contamination of fresh produce shipped across state lines. The CDC report that eight people have been hospitalized with cyclosporiasis. ](/news/2013/07/23/the-cyclospora-parasite-sickens-more-than-250-people-in-the-midwestern-united-states-as-the-result-of-contamination-of-fresh-produce-shipp.md) _(Current version)_
 
 ### Related:

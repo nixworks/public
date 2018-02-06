@@ -16,7 +16,7 @@ NASA begins its next step in human spaceflight with Thursday&#39;s announcement 
 
 ### Changes:
 
-1. [ The US contractor Lockheed Martin is chosen over an alliance of Northrop Grumman and Boeing to build the new spacecraft ''Orion. Orion'' was previously known as the Crew Exploration Vehicle. ''Orion'' will go eventually to the moon by 2014. ](/news/2006/08/31/the-us-contractor-lockheed-martin-is-chosen-over-an-alliance-of-northrop-grumman-and-boeing-to-build-the-new-spacecraft-orion-orion-wa.md) _2017-08-25 03:18:18 (First version)_
+1. [ The US contractor Lockheed Martin is chosen over an alliance of Northrop Grumman and Boeing to build the new spacecraft ''Orion. Orion'' was previously known as the Crew Exploration Vehicle. ''Orion'' will go eventually to the moon by 2014. ](/news/2006/08/31/the-us-contractor-lockheed-martin-is-chosen-over-an-alliance-of-northrop-grumman-and-boeing-to-build-the-new-spacecraft-orion-orion-wa.md) _2018-02-06 13:49:17 (First version)_
 1. [ The US contractor Lockheed Martin is chosen over an alliance of Northrop Grumman and Boeing to build the new spacecraft "Orion. Orion" was previously known as the Crew Exploration Vehicle. "Orion" will go eventually to the moon by 2014. ](/news/2006/08/31/the-us-contractor-lockheed-martin-is-chosen-over-an-alliance-of-northrop-grumman-and-boeing-to-build-the-new-spacecraft-orion-orion-was.md) _(Current version)_
 
 ### Related:

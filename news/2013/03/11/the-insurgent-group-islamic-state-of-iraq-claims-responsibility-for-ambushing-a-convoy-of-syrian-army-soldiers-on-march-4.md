@@ -17,8 +17,8 @@ A militant umbrella group that includes al-Qaeda in Iraq says it was behind the 
 
 ### Changes:
 
-1. [Akashat ambush:The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/akashat-ambush-pthe-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md) _2017-08-25 03:37:49 (First version)_
-2. [Akashat ambush:: The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/akashat-ambush-the-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md) _2017-08-27 03:37:59 (Update)_
+1. [Akashat ambush:: The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/akashat-ambush-the-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md) _2018-02-06 13:49:24 (First version)_
+2. [Akashat ambush:The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/akashat-ambush-pthe-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md) _2018-02-06 13:49:24 (Update)_
 2. [The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/the-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md) _(Current version)_
 
 ### Related:

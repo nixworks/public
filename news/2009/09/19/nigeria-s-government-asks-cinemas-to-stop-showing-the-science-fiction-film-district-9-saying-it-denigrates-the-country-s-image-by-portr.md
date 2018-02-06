@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/09/19/nigeria-s-government-asks-cinemas-to-stop-showi
 
 ### Changes:
 
-1. [ Nigeria's government asks cinemas to stop showing the science fiction film, ''District 9'', saying it denigrates the country's image by portraying Nigerians as cannibals, criminals and prostitutes. ](/news/2009/09/19/nigeria-s-government-asks-cinemas-to-stop-showing-the-science-fiction-film-district-9-saying-it-denigrates-the-country-s-image-by-por.md) _2017-08-25 03:25:47 (First version)_
+1. [ Nigeria's government asks cinemas to stop showing the science fiction film, ''District 9'', saying it denigrates the country's image by portraying Nigerians as cannibals, criminals and prostitutes. ](/news/2009/09/19/nigeria-s-government-asks-cinemas-to-stop-showing-the-science-fiction-film-district-9-saying-it-denigrates-the-country-s-image-by-por.md) _2018-02-06 13:49:19 (First version)_
 1. [ Nigeria's government asks cinemas to stop showing the science fiction film, "District 9", saying it denigrates the country's image by portraying Nigerians as cannibals, criminals and prostitutes. ](/news/2009/09/19/nigeria-s-government-asks-cinemas-to-stop-showing-the-science-fiction-film-district-9-saying-it-denigrates-the-country-s-image-by-portr.md) _(Current version)_
 
 ### Related:

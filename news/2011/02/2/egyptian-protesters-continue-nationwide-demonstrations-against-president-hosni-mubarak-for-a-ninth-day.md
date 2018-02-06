@@ -44,8 +44,8 @@ Three people are killed and hundreds wounded in the Egyptian capital, as support
 
 ### Changes:
 
-1. [2011 Egyptian protests:Egyptian protesters continue nationwide demonstrations against President Hosni Mubarak for a ninth day. ](/news/2011/02/2/2011-egyptian-protests-pegyptian-protesters-continue-nationwide-demonstrations-against-president-hosni-mubarak-for-a-ninth-day.md) _2017-08-25 03:32:01 (First version)_
-2. [2011 Egyptian protests:: Egyptian protesters continue nationwide demonstrations against President Hosni Mubarak for a ninth day. ](/news/2011/02/2/2011-egyptian-protests-egyptian-protesters-continue-nationwide-demonstrations-against-president-hosni-mubarak-for-a-ninth-day.md) _2017-08-27 03:32:09 (Update)_
+1. [2011 Egyptian protests:Egyptian protesters continue nationwide demonstrations against President Hosni Mubarak for a ninth day. ](/news/2011/02/2/2011-egyptian-protests-pegyptian-protesters-continue-nationwide-demonstrations-against-president-hosni-mubarak-for-a-ninth-day.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Egyptian protests:: Egyptian protesters continue nationwide demonstrations against President Hosni Mubarak for a ninth day. ](/news/2011/02/2/2011-egyptian-protests-egyptian-protesters-continue-nationwide-demonstrations-against-president-hosni-mubarak-for-a-ninth-day.md) _2018-02-06 13:49:22 (Update)_
 2. [Egyptian protesters continue nationwide demonstrations against President Hosni Mubarak for a ninth day. ](/news/2011/02/2/egyptian-protesters-continue-nationwide-demonstrations-against-president-hosni-mubarak-for-a-ninth-day.md) _(Current version)_
 
 ### Related:

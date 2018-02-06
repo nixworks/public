@@ -16,7 +16,7 @@ The London Metal Exchange postponed the implementation of a new warehousing rule
 
 ### Changes:
 
-1. [England's High Court decides that Rusal, the huge Moscow-based aluminum producer, is right in its objections to new rules proposed by London Metal Exchange concerning the use of LME controlled warehouses. ](/news/2014/03/27/england-s-high-court-decides-that-rusal-the-huge-moscow-based-aluminum-producer-is-right-in-its-objections-to-new-rules-proposed-by-londo.md) _2017-08-25 03:40:13 (First version)_
+1. [England's High Court decides that Rusal, the huge Moscow-based aluminum producer, is right in its objections to new rules proposed by London Metal Exchange concerning the use of LME controlled warehouses. ](/news/2014/03/27/england-s-high-court-decides-that-rusal-the-huge-moscow-based-aluminum-producer-is-right-in-its-objections-to-new-rules-proposed-by-londo.md) _2018-02-06 13:49:26 (First version)_
 1. [England's High Court decides that Rusal, the huge Moscow-based aluminum producer, is right in its objections to new rules proposed by London Metal Exchange concerning the use of LME controlled warehouses. ](/news/2014/03/27/england-s-high-court-decides-that-rusal-the-huge-moscow-based-aluminum-producer-is-right-in-its-objections-to-new-rules-proposed-by-london.md) _(Current version)_
 
 ### Related:

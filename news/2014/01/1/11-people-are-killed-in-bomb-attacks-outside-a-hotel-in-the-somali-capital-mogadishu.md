@@ -17,7 +17,7 @@ Two car bombs have exploded outside a hotel in the Somali capital Mogadishu, wit
 
 ### Changes:
 
-1. [War in Somalia (2009-present): 11 people are killed in bomb attacks outside a hotel in the Somali capital Mogadishu. ](/news/2014/01/1/war-in-somalia-2009-present-11-people-are-killed-in-bomb-attacks-outside-a-hotel-in-the-somali-capital-mogadishu.md) _2017-08-27 03:40:06 (First version)_
+1. [War in Somalia (2009-present): 11 people are killed in bomb attacks outside a hotel in the Somali capital Mogadishu. ](/news/2014/01/1/war-in-somalia-2009-present-11-people-are-killed-in-bomb-attacks-outside-a-hotel-in-the-somali-capital-mogadishu.md) _2018-02-06 13:49:25 (First version)_
 1. [11 people are killed in bomb attacks outside a hotel in the Somali capital Mogadishu. ](/news/2014/01/1/11-people-are-killed-in-bomb-attacks-outside-a-hotel-in-the-somali-capital-mogadishu.md) _(Current version)_
 
 ### Related:

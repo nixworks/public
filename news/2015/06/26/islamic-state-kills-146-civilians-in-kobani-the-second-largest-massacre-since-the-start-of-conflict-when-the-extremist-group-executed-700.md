@@ -18,7 +18,7 @@ ISIS may be trying a diversionary tactic in the city it lost to the Kurds six mo
 
 ### Changes:
 
-1. [ June 2015 Kobani massacres: Islamic State kills 146 civilians in Koban, the second largest massacre since the start of conflict when the extremist group executed 700 members of the al-Sheitaat tribe in eastern Syria. ](/news/2015/06/26/june-2015-kobani-massacres-islamic-state-kills-146-civilians-in-kobani-the-second-largest-massacre-since-the-start-of-conflict-when-the-e.md) _2017-08-27 03:42:36 (First version)_
+1. [ June 2015 Kobani massacres: Islamic State kills 146 civilians in Koban, the second largest massacre since the start of conflict when the extremist group executed 700 members of the al-Sheitaat tribe in eastern Syria. ](/news/2015/06/26/june-2015-kobani-massacres-islamic-state-kills-146-civilians-in-kobani-the-second-largest-massacre-since-the-start-of-conflict-when-the-e.md) _2018-02-06 13:49:27 (First version)_
 1. [ Islamic State kills 146 civilians in Koban, the second largest massacre since the start of conflict when the extremist group executed 700 members of the al-Sheitaat tribe in eastern Syria. ](/news/2015/06/26/islamic-state-kills-146-civilians-in-kobani-the-second-largest-massacre-since-the-start-of-conflict-when-the-extremist-group-executed-700.md) _(Current version)_
 
 ### Related:

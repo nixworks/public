@@ -17,7 +17,7 @@ The Facebook and Instagram ban applies to private, person-to-person sales of gun
 
 ### Changes:
 
-1. [Social networking service Facebook, and its photo-sharing subsidiary Instagram, ban private, person-to-person sales of guns via their services. ](/news/2016/01/30/social-networking-service-facebook-and-its-photo-sharing-subsidiary-instagram-ban-private-person-to-person-sales-of-guns-via-their-s.md) _2017-08-25 03:44:25 (First version)_
+1. [Social networking service Facebook, and its photo-sharing subsidiary Instagram, ban private, person-to-person sales of guns via their services. ](/news/2016/01/30/social-networking-service-facebook-and-its-photo-sharing-subsidiary-instagram-ban-private-person-to-person-sales-of-guns-via-their-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Social networking service Facebook, and its photo-sharing subsidiary Instagram, ban private, person-to-person sales of guns via their services. ](/news/2016/01/30/social-networking-service-facebook-and-its-photo-sharing-subsidiary-instagram-ban-private-person-to-person-sales-of-guns-via-their-servic.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2008/05/13/the-state-peace-and-development-council-continu
 
 ### Changes:
 
-1. [ Cyclone Nargis: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-p-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2017-08-25 03:22:10 (First version)_
-2. [ Cyclone Nargis:: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2017-08-27 03:22:04 (Update)_
+1. [ Cyclone Nargis:: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2018-02-06 13:49:18 (First version)_
+2. [ Cyclone Nargis: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-p-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2018-02-06 13:49:18 (Update)_
 2. [ The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Ukraine suspends operations against pro-Russian militants occupying government o
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine:Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/2014-pro-russian-unrest-in-ukraine-pukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md) _2017-08-25 03:40:19 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/2014-pro-russian-unrest-in-ukraine-ukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md) _2017-08-27 03:40:36 (Update)_
+1. [2014 pro-Russian unrest in Ukraine:: Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/2014-pro-russian-unrest-in-ukraine-ukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/2014-pro-russian-unrest-in-ukraine-pukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md) _2018-02-06 13:49:26 (Update)_
 2. [Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/ukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md) _(Current version)_
 
 ### Related:

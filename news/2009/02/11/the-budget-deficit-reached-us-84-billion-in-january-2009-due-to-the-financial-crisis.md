@@ -17,8 +17,8 @@ U.S. congressional negotiators on Wednesday reached a deal on $789 billion in em
 
 ### Changes:
 
-1. [ Economy of the United States: The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/economy-of-the-united-states-p-the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md) _2017-08-25 03:23:44 (First version)_
-2. [ Economy of the United States:: The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/economy-of-the-united-states-the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md) _2017-08-27 03:23:34 (Update)_
+1. [ Economy of the United States:: The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/economy-of-the-united-states-the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md) _2018-02-06 13:49:18 (First version)_
+2. [ Economy of the United States: The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/economy-of-the-united-states-p-the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md) _2018-02-06 13:49:18 (Update)_
 2. [ The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md) _(Current version)_
 
 ### Related:

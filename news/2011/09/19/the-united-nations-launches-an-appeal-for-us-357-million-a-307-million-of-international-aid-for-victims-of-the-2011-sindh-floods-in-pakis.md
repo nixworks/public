@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/09/19/the-united-nations-launches-an-appeal-for-us-35
 
 ### Changes:
 
-1. [The United Nations launches an appeal for US$357 million (-307 million) of international aid for victims of the 2011 Sindh floods in Pakistan. ](/news/2011/09/19/the-united-nations-launches-an-appeal-for-us-357-million-307-million-of-international-aid-for-victims-of-the-2011-sindh-floods-in-pakis.md) _2017-08-27 03:34:19 (First version)_
+1. [The United Nations launches an appeal for US$357 million (-307 million) of international aid for victims of the 2011 Sindh floods in Pakistan. ](/news/2011/09/19/the-united-nations-launches-an-appeal-for-us-357-million-307-million-of-international-aid-for-victims-of-the-2011-sindh-floods-in-pakis.md) _2018-02-06 13:49:22 (First version)_
 1. [The United Nations launches an appeal for US$357 million (EUR307 million) of international aid for victims of the 2011 Sindh floods in Pakistan. ](/news/2011/09/19/the-united-nations-launches-an-appeal-for-us-357-million-a-307-million-of-international-aid-for-victims-of-the-2011-sindh-floods-in-pakis.md) _(Current version)_
 
 ### Related:

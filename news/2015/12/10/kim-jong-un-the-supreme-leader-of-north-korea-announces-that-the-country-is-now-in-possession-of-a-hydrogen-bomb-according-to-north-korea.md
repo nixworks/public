@@ -17,7 +17,7 @@ North Korea has now developed a hydrogen bomb and can use it along with nuclear 
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: Kim Jong-un, the supreme leader of North Korea, announces that the country is now in possession of a hydrogen bomb, according to North Korean state media. Experts from South Korea however are skeptical about this claim. ](/news/2015/12/10/north-korea-and-weapons-of-mass-destruction-kim-jong-un-the-supreme-leader-of-north-korea-announces-that-the-country-is-now-in-possession.md) _2017-08-27 03:44:17 (First version)_
+1. [North Korea and weapons of mass destruction: Kim Jong-un, the supreme leader of North Korea, announces that the country is now in possession of a hydrogen bomb, according to North Korean state media. Experts from South Korea however are skeptical about this claim. ](/news/2015/12/10/north-korea-and-weapons-of-mass-destruction-kim-jong-un-the-supreme-leader-of-north-korea-announces-that-the-country-is-now-in-possession.md) _2018-02-06 13:49:28 (First version)_
 1. [Kim Jong-un, the supreme leader of North Korea, announces that the country is now in possession of a hydrogen bomb, according to North Korean state media. Experts from South Korea however are skeptical about this claim. ](/news/2015/12/10/kim-jong-un-the-supreme-leader-of-north-korea-announces-that-the-country-is-now-in-possession-of-a-hydrogen-bomb-according-to-north-korea.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/07/11/the-hellenic-parliament-passes-a-package-of-eco
 
 ### Changes:
 
-1. [Greek government-debt crisis: The Hellenic Parliament passes a package of economic reforms to end the current stage of the debt crisis. ](/news/2015/07/11/greek-government-debt-crisis-the-hellenic-parliament-passes-a-package-of-economic-reforms-to-end-the-current-stage-of-the-debt-crisis.md) _2017-08-27 03:42:41 (First version)_
+1. [Greek government-debt crisis: The Hellenic Parliament passes a package of economic reforms to end the current stage of the debt crisis. ](/news/2015/07/11/greek-government-debt-crisis-the-hellenic-parliament-passes-a-package-of-economic-reforms-to-end-the-current-stage-of-the-debt-crisis.md) _2018-02-06 13:49:27 (First version)_
 1. [The Hellenic Parliament passes a package of economic reforms to end the current stage of the debt crisis. ](/news/2015/07/11/the-hellenic-parliament-passes-a-package-of-economic-reforms-to-end-the-current-stage-of-the-debt-crisis.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/09/11/an-improvised-explosive-device-in-a-yola-nigeri
 
 ### Changes:
 
-1. [Boko Haram insurgency: An improvised explosive device in a Yola, Nigeria displacement camp kills 7 people. ](/news/2015/09/11/boko-haram-insurgency-an-improvised-explosive-device-in-a-yola-nigeria-displacement-camp-kills-7-people.md) _2017-08-27 03:43:01 (First version)_
+1. [Boko Haram insurgency: An improvised explosive device in a Yola, Nigeria displacement camp kills 7 people. ](/news/2015/09/11/boko-haram-insurgency-an-improvised-explosive-device-in-a-yola-nigeria-displacement-camp-kills-7-people.md) _2018-02-06 13:49:27 (First version)_
 1. [An improvised explosive device in a Yola, Nigeria displacement camp kills 7 people. ](/news/2015/09/11/an-improvised-explosive-device-in-a-yola-nigeria-displacement-camp-kills-7-people.md) _(Current version)_
 
 ### Related:

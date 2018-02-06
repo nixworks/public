@@ -16,7 +16,7 @@ Admitted white nationalist Dylann Roof was quickly convicted by a South Carolina
 
 ### Changes:
 
-1. [Charleston church shooting: Dylann Roof is convicted of the racially motivated murder of nine black churchgoers in the U.S. city of Charleston, South Carolina. ](/news/2016/12/15/charleston-church-shooting-dylann-roof-is-convicted-of-the-racially-motivated-murder-of-nine-black-churchgoers-in-the-u-s-city-of-charlest.md) _2017-08-27 03:47:27 (First version)_
+1. [Charleston church shooting: Dylann Roof is convicted of the racially motivated murder of nine black churchgoers in the U.S. city of Charleston, South Carolina. ](/news/2016/12/15/charleston-church-shooting-dylann-roof-is-convicted-of-the-racially-motivated-murder-of-nine-black-churchgoers-in-the-u-s-city-of-charlest.md) _2018-02-06 13:49:29 (First version)_
 1. [Dylann Roof is convicted of the racially motivated murder of nine black churchgoers in the U.S. city of Charleston, South Carolina. ](/news/2016/12/15/dylann-roof-is-convicted-of-the-racially-motivated-murder-of-nine-black-churchgoers-in-the-u-s-city-of-charleston-south-carolina.md) _(Current version)_
 
 ### Related:

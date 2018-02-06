@@ -16,8 +16,8 @@ Activists in Syria say a government MiG fighter jet has dropped a cluster bomb o
 
 ### Changes:
 
-1. [Syrian civil war:A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-pa-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childre.md) _2017-08-25 03:36:53 (First version)_
-2. [Syrian civil war:: A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-a-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childr.md) _2017-08-27 03:37:03 (Update)_
+1. [Syrian civil war:A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-pa-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childre.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-a-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childr.md) _2018-02-06 13:49:24 (Update)_
 2. [A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/a-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-children-dead-and-15-peop.md) _(Current version)_
 
 ### Related:

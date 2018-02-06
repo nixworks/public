@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-
 
 ### Changes:
 
-1. [Syrian Civil War:United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/syrian-civil-war-punited-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _2017-08-25 03:38:50 (First version)_
-2. [Syrian Civil War:: United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/syrian-civil-war-united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _2017-08-27 03:39:03 (Update)_
+1. [Syrian Civil War:: United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/syrian-civil-war-united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War:United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/syrian-civil-war-punited-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _2018-02-06 13:49:25 (Update)_
 2. [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _(Current version)_
 
 ### Related:

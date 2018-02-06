@@ -16,7 +16,7 @@ Powell is known for his centrist ideas and experience in the Federal Reserve.
 
 ### Changes:
 
-1. [Donald Trump nominates Jerome H. Powell to be the next chairman of the Chair of the Federal Reserve. ](/news/2017/11/2/donald-trump-nominates-jerome-h-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.md) _2017-11-03 12:30:05 (First version)_
+1. [Donald Trump nominates Jerome H. Powell to be the next chairman of the Chair of the Federal Reserve. ](/news/2017/11/2/donald-trump-nominates-jerome-h-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.md) _2018-02-06 13:49:31 (First version)_
 1. [Donald Trump nominates Jerome Powell to be the next chairman of the Chair of the Federal Reserve. ](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.md) _(Current version)_
 
 ### Related:

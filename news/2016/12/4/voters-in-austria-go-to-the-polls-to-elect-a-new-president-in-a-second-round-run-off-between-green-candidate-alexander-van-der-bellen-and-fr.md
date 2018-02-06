@@ -17,7 +17,7 @@ Austrian voters roundly rejected on Sunday a candidate vying to become the first
 
 ### Changes:
 
-1. [Austrian presidential election, 2016: Voters in Austria go to the polls to elect a new President in a second round run-off between Green candidate Alexander Van der Bellen and Freedom Party of Austria candidate Norbert Hofer. Projections show that Van der Bellen has won with Hofer conceding defeat. ](/news/2016/12/4/austrian-presidential-election-2016-voters-in-austria-go-to-the-polls-to-elect-a-new-president-in-a-second-round-run-off-between-green-can.md) _2017-08-27 03:47:23 (First version)_
+1. [Austrian presidential election, 2016: Voters in Austria go to the polls to elect a new President in a second round run-off between Green candidate Alexander Van der Bellen and Freedom Party of Austria candidate Norbert Hofer. Projections show that Van der Bellen has won with Hofer conceding defeat. ](/news/2016/12/4/austrian-presidential-election-2016-voters-in-austria-go-to-the-polls-to-elect-a-new-president-in-a-second-round-run-off-between-green-can.md) _2018-02-06 13:49:30 (First version)_
 1. [Voters in Austria go to the polls to elect a new President in a second round run-off between Green candidate Alexander Van der Bellen and Freedom Party of Austria candidate Norbert Hofer. Projections show that Van der Bellen has won with Hofer conceding defeat. ](/news/2016/12/4/voters-in-austria-go-to-the-polls-to-elect-a-new-president-in-a-second-round-run-off-between-green-candidate-alexander-van-der-bellen-and-fr.md) _(Current version)_
 
 ### Related:

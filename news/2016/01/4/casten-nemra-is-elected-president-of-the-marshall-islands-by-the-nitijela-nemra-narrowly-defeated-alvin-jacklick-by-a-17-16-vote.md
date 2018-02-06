@@ -16,7 +16,7 @@ The Marshall Islands parliament elected its youngest President, and only the sec
 
 ### Changes:
 
-1. [Marshallese general election, 2015: Casten Nemra is elected President of the Marshall Islands by the Nitijela. Nemra narrowly defeated Alvin Jacklick by a 17-16 vote. ](/news/2016/01/4/marshallese-general-election-2015-casten-nemra-is-elected-president-of-the-marshall-islands-by-the-nitijela-nemra-narrowly-defeated-alvin.md) _2017-08-27 03:44:35 (First version)_
+1. [Marshallese general election, 2015: Casten Nemra is elected President of the Marshall Islands by the Nitijela. Nemra narrowly defeated Alvin Jacklick by a 17-16 vote. ](/news/2016/01/4/marshallese-general-election-2015-casten-nemra-is-elected-president-of-the-marshall-islands-by-the-nitijela-nemra-narrowly-defeated-alvin.md) _2018-02-06 13:49:28 (First version)_
 1. [Casten Nemra is elected President of the Marshall Islands by the Nitijela. Nemra narrowly defeated Alvin Jacklick by a 17-16 vote. ](/news/2016/01/4/casten-nemra-is-elected-president-of-the-marshall-islands-by-the-nitijela-nemra-narrowly-defeated-alvin-jacklick-by-a-17-16-vote.md) _(Current version)_
 
 ### Related:

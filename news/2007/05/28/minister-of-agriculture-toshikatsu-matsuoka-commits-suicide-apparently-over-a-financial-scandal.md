@@ -17,6 +17,6 @@ Formats: [HTML](/news/2007/05/28/minister-of-agriculture-toshikatsu-matsuoka-com
 
 ### Changes:
 
-1. [ Japan: Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/japan-p-minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md) _2017-08-25 03:19:53 (First version)_
-2. [ Japan:: Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/japan-minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md) _2017-08-27 03:19:51 (Update)_
+1. [ Japan: Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/japan-p-minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md) _2018-02-06 13:49:17 (First version)_
+2. [ Japan:: Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/japan-minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md) _2018-02-06 13:49:17 (Update)_
 2. [ Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md) _(Current version)_

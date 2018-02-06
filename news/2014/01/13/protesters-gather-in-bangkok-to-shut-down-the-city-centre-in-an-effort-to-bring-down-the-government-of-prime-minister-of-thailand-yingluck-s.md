@@ -16,8 +16,8 @@ Thai protesters launch what they are calling a shutdown of Bangkok in a bid to o
 
 ### Changes:
 
-1. [2013-14 Thai political crisis:Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/2013a14-thai-political-crisis-pprotesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-prim.md) _2017-08-25 03:39:51 (First version)_
-2. [2013-14 Thai political crisis:: Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/2013-14-thai-political-crisis-protesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-pri.md) _2017-08-27 03:40:10 (Update)_
+1. [2013-14 Thai political crisis:Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/2013a14-thai-political-crisis-pprotesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-prim.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 Thai political crisis:: Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/2013-14-thai-political-crisis-protesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-pri.md) _2018-02-06 13:49:25 (Update)_
 2. [Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/protesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-prime-minister-of-thailand-yingluck-s.md) _(Current version)_
 
 ### Related:

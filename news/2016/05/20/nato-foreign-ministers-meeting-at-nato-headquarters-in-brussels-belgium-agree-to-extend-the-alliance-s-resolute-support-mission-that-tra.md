@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquar
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/war-in-afghanistan-2015-present-nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance.md) _2017-08-27 03:46:05 (First version)_
+1. [War in Afghanistan (2015-present): NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/war-in-afghanistan-2015-present-nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance.md) _2018-02-06 13:49:29 (First version)_
 1. [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he k
 
 ### Changes:
 
-1. [Philippine Drug War: Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/philippine-drug-war-hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in.md) _2017-08-27 17:30:05 (First version)_
+1. [Philippine Drug War: Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/philippine-drug-war-hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in.md) _2018-02-06 13:49:31 (First version)_
 1. [Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in-the-philippines.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Colombia legalises same-sex marriage, becoming the fourth country in Latin Ameri
 
 ### Changes:
 
-1. [LGBT rights in Colombia: Colombia becomes the fourth state in Latin America to legalize same-sex marriage. ](/news/2016/04/28/lgbt-rights-in-colombia-colombia-becomes-the-fourth-state-in-latin-america-to-legalize-same-sex-marriage.md) _2017-08-27 03:45:53 (First version)_
+1. [LGBT rights in Colombia: Colombia becomes the fourth state in Latin America to legalize same-sex marriage. ](/news/2016/04/28/lgbt-rights-in-colombia-colombia-becomes-the-fourth-state-in-latin-america-to-legalize-same-sex-marriage.md) _2018-02-06 13:49:29 (First version)_
 1. [Colombia becomes the fourth state in Latin America to legalize same-sex marriage. ](/news/2016/04/28/colombia-becomes-the-fourth-state-in-latin-america-to-legalize-same-sex-marriage.md) _(Current version)_
 
 ### Related:

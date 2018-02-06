@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/06/2/in-lebanon-bomb-kills-journalist-samir-qasir-who
 
 ### Changes:
 
-1. [ Cedar Revolution: In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/cedar-revolution-p-in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md) _2017-08-25 03:16:19 (First version)_
-2. [ Cedar Revolution:: In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/cedar-revolution-in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md) _2017-08-27 03:16:22 (Update)_
+1. [ Cedar Revolution: In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/cedar-revolution-p-in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md) _2018-02-06 13:49:16 (First version)_
+2. [ Cedar Revolution:: In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/cedar-revolution-in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md) _2018-02-06 13:49:16 (Update)_
 2. [ In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md) _(Current version)_
 
 ### Related:

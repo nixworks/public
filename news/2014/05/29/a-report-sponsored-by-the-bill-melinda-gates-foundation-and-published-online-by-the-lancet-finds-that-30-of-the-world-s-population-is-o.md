@@ -16,7 +16,7 @@ Almost a third of the world is now fat, and no country has been able to curb obe
 
 ### Changes:
 
-1. [A report sponsored by the Bill & Melinda Gates Foundation and published online by ''the Lancet'' finds that 30% of the world's population is overweight or obese. ](/news/2014/05/29/a-report-sponsored-by-the-bill-melinda-gates-foundation-and-published-online-by-the-lancet-finds-that-30-of-the-world-s-population-is.md) _2017-08-25 03:40:28 (First version)_
+1. [A report sponsored by the Bill & Melinda Gates Foundation and published online by ''the Lancet'' finds that 30% of the world's population is overweight or obese. ](/news/2014/05/29/a-report-sponsored-by-the-bill-melinda-gates-foundation-and-published-online-by-the-lancet-finds-that-30-of-the-world-s-population-is.md) _2018-02-06 13:49:26 (First version)_
 1. [A report sponsored by the Bill & Melinda Gates Foundation and published online by "the Lancet" finds that 30% of the world's population is overweight or obese. ](/news/2014/05/29/a-report-sponsored-by-the-bill-melinda-gates-foundation-and-published-online-by-the-lancet-finds-that-30-of-the-world-s-population-is-o.md) _(Current version)_
 
 ### Related:

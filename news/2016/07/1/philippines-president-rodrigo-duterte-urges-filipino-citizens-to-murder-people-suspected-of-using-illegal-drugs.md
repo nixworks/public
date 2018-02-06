@@ -16,8 +16,8 @@ Duterte, 71, won power in a landslide after a campaign dominated by threats to k
 
 ### Changes:
 
-1. [Crime in the Philippines; Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/crime-in-the-philippines-philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _2017-08-25 03:46:01 (First version)_
-2. [Crime in the Philippines; Philippine Drug War: Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/crime-in-the-philippines-philippine-drug-war-philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-u.md) _2017-08-27 03:46:23 (Update)_
+1. [Crime in the Philippines; Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/crime-in-the-philippines-philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _2018-02-06 13:49:29 (First version)_
+2. [Crime in the Philippines; Philippine Drug War: Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/crime-in-the-philippines-philippine-drug-war-philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-u.md) _2018-02-06 13:49:29 (Update)_
 2. [Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _(Current version)_
 
 ### Related:

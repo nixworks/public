@@ -15,7 +15,7 @@ EU regulators decided Tuesday that they would file charges against Google stemmi
 
 ### Changes:
 
-1. [The ''Wall Street Journal'' reports that European Union regulators have announced plans to file charges against American Internet company Google following a European Union investigation. ](/news/2015/04/14/the-wall-street-journal-reports-that-european-union-regulators-have-announced-plans-to-file-charges-against-american-internet-company-go.md) _2017-08-25 03:41:53 (First version)_
+1. [The ''Wall Street Journal'' reports that European Union regulators have announced plans to file charges against American Internet company Google following a European Union investigation. ](/news/2015/04/14/the-wall-street-journal-reports-that-european-union-regulators-have-announced-plans-to-file-charges-against-american-internet-company-go.md) _2018-02-06 13:49:27 (First version)_
 1. [The "Wall Street Journal" reports that European Union regulators have announced plans to file charges against American Internet company Google following a European Union investigation. ](/news/2015/04/14/the-wall-street-journal-reports-that-european-union-regulators-have-announced-plans-to-file-charges-against-american-internet-company-goog.md) _(Current version)_
 
 ### Related:

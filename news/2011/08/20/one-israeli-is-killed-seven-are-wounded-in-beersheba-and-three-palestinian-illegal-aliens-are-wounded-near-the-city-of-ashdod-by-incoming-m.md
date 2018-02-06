@@ -18,8 +18,8 @@ Southern residents under major assault following Gaza terrorists&#39; assertion 
 
 ### Changes:
 
-1. [Arab-Israeli conflict:One Israeli is killed, seven are wounded in Beersheba and three Palestinian illegal aliens are wounded near the city of Ashdod by incoming mortars and rockets launched from the Gaza Strip. ](/news/2011/08/20/arab-israeli-conflict-pone-israeli-is-killed-seven-are-wounded-in-beersheba-and-three-palestinian-illegal-aliens-are-wounded-near-the-city.md) _2017-08-25 03:34:02 (First version)_
-2. [Arab-Israeli conflict:: One Israeli is killed, seven are wounded in Beersheba and three Palestinian illegal aliens are wounded near the city of Ashdod by incoming mortars and rockets launched from the Gaza Strip. ](/news/2011/08/20/arab-israeli-conflict-one-israeli-is-killed-seven-are-wounded-in-beersheba-and-three-palestinian-illegal-aliens-are-wounded-near-the-city.md) _2017-08-27 03:34:09 (Update)_
+1. [Arab-Israeli conflict:One Israeli is killed, seven are wounded in Beersheba and three Palestinian illegal aliens are wounded near the city of Ashdod by incoming mortars and rockets launched from the Gaza Strip. ](/news/2011/08/20/arab-israeli-conflict-pone-israeli-is-killed-seven-are-wounded-in-beersheba-and-three-palestinian-illegal-aliens-are-wounded-near-the-city.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab-Israeli conflict:: One Israeli is killed, seven are wounded in Beersheba and three Palestinian illegal aliens are wounded near the city of Ashdod by incoming mortars and rockets launched from the Gaza Strip. ](/news/2011/08/20/arab-israeli-conflict-one-israeli-is-killed-seven-are-wounded-in-beersheba-and-three-palestinian-illegal-aliens-are-wounded-near-the-city.md) _2018-02-06 13:49:22 (Update)_
 2. [One Israeli is killed, seven are wounded in Beersheba and three Palestinian illegal aliens are wounded near the city of Ashdod by incoming mortars and rockets launched from the Gaza Strip. ](/news/2011/08/20/one-israeli-is-killed-seven-are-wounded-in-beersheba-and-three-palestinian-illegal-aliens-are-wounded-near-the-city-of-ashdod-by-incoming-m.md) _(Current version)_
 
 ### Related:

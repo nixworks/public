@@ -16,9 +16,9 @@ Plymouth-based HMS Portland is to become the first frontline Royal Navy warship 
 
 ### Changes:
 
-1. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of {{HMS|Portland |F79|6}} in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-hms-portland-f79-6.md) _2017-05-01 03:36:17 (First version)_
-2. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of Portland |F79|6 in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-portland-f79-6-in-ap.md) _2017-08-29 03:34:02 (Update)_
-3. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of Portland 6 in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-portland-6-in-april.md) _2017-10-02 03:37:47 (Update)_
+1. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of Portland |F79|6 in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-portland-f79-6-in-ap.md) _2018-02-06 13:49:22 (First version)_
+2. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of Portland 6 in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-portland-6-in-april.md) _2018-02-06 13:49:22 (Update)_
+3. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of {{HMS|Portland |F79|6}} in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-hms-portland-f79-6.md) _2018-02-06 13:49:22 (Update)_
 3. [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of Portland 6 in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-portland-6-in-april-2.md) _(Current version)_
 
 ### Related:

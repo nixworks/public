@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/05/15/gunmen-open-fire-on-two-soldiers-in-southern-ye
 
 ### Changes:
 
-1. [2011 Yemeni protests:Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-pgunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md) _2017-08-25 03:33:07 (First version)_
-2. [2011 Yemeni protests:: Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-gunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md) _2017-08-27 03:33:16 (Update)_
+1. [2011 Yemeni protests:Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-pgunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:: Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-gunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md) _2018-02-06 13:49:22 (Update)_
 2. [Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/gunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md) _(Current version)_
 
 ### Related:

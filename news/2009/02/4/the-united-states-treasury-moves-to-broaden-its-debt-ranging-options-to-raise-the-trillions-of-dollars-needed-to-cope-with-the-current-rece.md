@@ -21,8 +21,8 @@ The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to ra
 
 ### Changes:
 
-1. [ The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope-with-the-current-rec.md) _2017-08-25 03:23:40 (First version)_
-2. [ Late 2000s recession: The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/late-2000s-recession-the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope.md) _2017-08-27 03:23:31 (Update)_
+1. [ The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope-with-the-current-rec.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession: The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/late-2000s-recession-the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope.md) _2018-02-06 13:49:18 (Update)_
 2. [ The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope-with-the-current-rece.md) _(Current version)_
 
 ### Related:

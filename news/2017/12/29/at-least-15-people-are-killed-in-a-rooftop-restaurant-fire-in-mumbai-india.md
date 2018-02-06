@@ -16,8 +16,8 @@ Formats: [HTML](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-rest
 
 ### Changes:
 
-1. [At least fifteen people are killed in a rooftop restaurant fire in the Indian city of Mumbai. ](/news/2017/12/29/at-least-fifteen-people-are-killed-in-a-rooftop-restaurant-fire-in-the-indian-city-of-mumbai.md) _2017-12-29 13:30:05 (First version)_
-2. [At least fifteen people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-fifteen-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _2017-12-29 18:30:05 (Update)_
+1. [At least fifteen people are killed in a rooftop restaurant fire in the Indian city of Mumbai. ](/news/2017/12/29/at-least-fifteen-people-are-killed-in-a-rooftop-restaurant-fire-in-the-indian-city-of-mumbai.md) _2018-02-06 13:49:31 (First version)_
+2. [At least fifteen people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-fifteen-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _2018-02-06 13:49:31 (Update)_
 2. [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _(Current version)_
 
 ### Related:

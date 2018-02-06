@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-a
 
 ### Changes:
 
-1. [Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya-possibly-from-yesterday.md) _2017-08-25 03:45:49 (First version)_
-2. [European migrant crisis: Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/european-migrant-crisis-bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya.md) _2017-08-27 03:46:12 (Update)_
+1. [European migrant crisis: Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/european-migrant-crisis-bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya.md) _2018-02-06 13:49:29 (First version)_
+2. [Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya-possibly-from-yesterday.md) _2018-02-06 13:49:29 (Update)_
 2. [Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya-possibly-from-yesterday-s.md) _(Current version)_
 
 ### Related:

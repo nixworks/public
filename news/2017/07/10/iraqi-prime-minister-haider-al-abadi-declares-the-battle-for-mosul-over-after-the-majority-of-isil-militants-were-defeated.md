@@ -16,8 +16,8 @@ The battle has taken nine months, leaving large areas in ruins and thousands of 
 
 ### Changes:
 
-1. [ Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul ended as almost all ISIL militants are defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-ended-as-almost-all-isil-militants-are-defeated.md) _2017-07-10 22:30:06 (First version)_
-2. [Battle of Mosul (2016-17): Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/battle-of-mosul-2016-17-iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-w.md) _2017-08-27 03:48:38 (Update)_
+1. [ Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul ended as almost all ISIL militants are defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-ended-as-almost-all-isil-militants-are-defeated.md) _2018-02-06 13:49:30 (First version)_
+2. [Battle of Mosul (2016-17): Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/battle-of-mosul-2016-17-iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-w.md) _2018-02-06 13:49:30 (Update)_
 2. [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The government&#39;s cyber emergency response team is looking into a massive glo
 
 ### Changes:
 
-1. [WannaCry ransomware attack: A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The method used by the program, EternalBlue, was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/wannacry-ransomware-attack-a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and.md) _2017-08-27 03:48:19 (First version)_
+1. [WannaCry ransomware attack: A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The method used by the program, EternalBlue, was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/wannacry-ransomware-attack-a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and.md) _2018-02-06 13:49:30 (First version)_
 1. [A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The method used by the program, EternalBlue, was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and-demand-payment-in-bitcoin.md) _(Current version)_
 
 ### Related:

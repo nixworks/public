@@ -16,7 +16,7 @@ Police officers come under attack in a two-hour gunfight in the Mexican city of 
 
 ### Changes:
 
-1. [Mexican Drug War: Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-drug-war-mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-s.md) _2017-08-27 03:45:50 (First version)_
+1. [Mexican Drug War: Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-drug-war-mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-s.md) _2018-02-06 13:49:28 (First version)_
 1. [Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.md) _(Current version)_
 
 ### Related:

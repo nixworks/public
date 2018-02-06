@@ -19,7 +19,7 @@ Congolese security forces shot dead at least six people and fired tear gas to di
 
 ### Changes:
 
-1. [Starting midnight, the Kabila government shuts down Internet in the capital Kinshasa, after a Catholic lay group's call to march today, in defiance of a government ban on all manifestations. ](/news/2018/01/21/starting-midnight-the-kabila-government-shuts-down-internet-in-the-capital-kinshasa-after-a-catholic-lay-group-s-call-to-march-today-in-d.md) _2018-01-21 19:30:07 (First version)_
+1. [Starting midnight, the Kabila government shuts down Internet in the capital Kinshasa, after a Catholic lay group's call to march today, in defiance of a government ban on all manifestations. ](/news/2018/01/21/starting-midnight-the-kabila-government-shuts-down-internet-in-the-capital-kinshasa-after-a-catholic-lay-group-s-call-to-march-today-in-d.md) _2018-02-06 13:49:31 (First version)_
 1. [The Kabila government begins blocking internet access in the capital Kinshasa at midnight, after a Catholic lay group's call to march today, in defiance of a government ban on public demonstrations. A joint statement was released by the American and British embassies on Twitter the day prior, applauding "Congolese citizens exercising their constitutional right to assemble peacefully in support of the full implementation" of the Sylvester agreements of December 2016. The statement also said that those who do not protect these fundamental human rights must be held accountable "at the highest level". ](/news/2018/01/21/the-kabila-government-begins-blocking-internet-access-in-the-capital-kinshasa-at-midnight-after-a-catholic-lay-group-s-call-to-march-today.md) _(Current version)_
 
 ### Related:

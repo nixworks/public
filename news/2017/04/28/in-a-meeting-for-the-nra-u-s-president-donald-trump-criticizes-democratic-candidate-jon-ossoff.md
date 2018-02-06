@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-t
 
 ### Changes:
 
-1. [Georgia's 6th congressional district special election, 2017: In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/georgia-s-6th-congressional-district-special-election-2017-in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-can.md) _2017-08-27 03:48:16 (First version)_
+1. [Georgia's 6th congressional district special election, 2017: In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/georgia-s-6th-congressional-district-special-election-2017-in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-can.md) _2018-02-06 13:49:30 (First version)_
 1. [In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-candidate-jon-ossoff.md) _(Current version)_
 
 ### Related:

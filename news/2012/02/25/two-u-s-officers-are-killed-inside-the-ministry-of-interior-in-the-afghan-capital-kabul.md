@@ -17,8 +17,8 @@ Two Nato officers are shot dead inside the interior ministry in Kabul, prompting
 
 ### Changes:
 
-1. [2012 Afghanistan Quran burning protests:Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-ptwo-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md) _2017-08-25 03:35:07 (First version)_
-2. [2012 Afghanistan Quran burning protests:: Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-two-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md) _2017-08-27 03:35:17 (Update)_
+1. [2012 Afghanistan Quran burning protests:: Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-two-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md) _2018-02-06 13:49:23 (First version)_
+2. [2012 Afghanistan Quran burning protests:Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-ptwo-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md) _2018-02-06 13:49:23 (Update)_
 2. [Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/two-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md) _(Current version)_
 
 ### Related:

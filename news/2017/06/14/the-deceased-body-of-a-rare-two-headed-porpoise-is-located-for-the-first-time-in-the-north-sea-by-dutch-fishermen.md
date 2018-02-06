@@ -16,7 +16,7 @@ Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch 
 
 ### Changes:
 
-1. [Two-headed animals: The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/two-headed-animals-the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md) _2017-08-27 03:48:28 (First version)_
+1. [Two-headed animals: The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/two-headed-animals-the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md) _2018-02-06 13:49:30 (First version)_
 1. [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md) _(Current version)_
 
 ### Related:

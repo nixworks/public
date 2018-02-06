@@ -18,7 +18,7 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 
 ### Changes:
 
-1. [A study published in ''JAMA: The Journal of the American Medical Association'' reports children with simple appendicitis who started with antibiotic treatment instead of immediate surgery, often recovered without ever needing surgery. They also had a shorter recovery and a smaller healthcare bill. ](/news/2015/12/16/a-study-published-in-jama-the-journal-of-the-american-medical-association-reports-children-with-simple-appendicitis-who-started-with.md) _2017-08-25 03:44:02 (First version)_
+1. [A study published in ''JAMA: The Journal of the American Medical Association'' reports children with simple appendicitis who started with antibiotic treatment instead of immediate surgery, often recovered without ever needing surgery. They also had a shorter recovery and a smaller healthcare bill. ](/news/2015/12/16/a-study-published-in-jama-the-journal-of-the-american-medical-association-reports-children-with-simple-appendicitis-who-started-with.md) _2018-02-06 13:49:28 (First version)_
 1. [A study published in "JAMA: The Journal of the American Medical Association" reports children with simple appendicitis who started with antibiotic treatment instead of immediate surgery, often recovered without ever needing surgery. They also had a shorter recovery and a smaller healthcare bill. ](/news/2015/12/16/a-study-published-in-jama-the-journal-of-the-american-medical-association-reports-children-with-simple-appendicitis-who-started-with-anti.md) _(Current version)_
 
 ### Related:

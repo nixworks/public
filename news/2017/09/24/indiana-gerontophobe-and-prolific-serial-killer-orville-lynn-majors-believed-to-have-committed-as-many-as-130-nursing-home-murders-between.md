@@ -16,7 +16,7 @@ Convicted murderer Orville Lynn Majors, who was serving 360 years at Indiana Sta
 
 ### Changes:
 
-1. [Indiana prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-murders-between-1993-and-1995-dies-in.md) _2017-09-27 03:52:36 (First version)_
+1. [Indiana prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-murders-between-1993-and-1995-dies-in.md) _2018-02-06 13:49:31 (First version)_
 1. [Indiana gerontophobe and prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing home murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-gerontophobe-and-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-home-murders-between.md) _(Current version)_
 
 ### Related:

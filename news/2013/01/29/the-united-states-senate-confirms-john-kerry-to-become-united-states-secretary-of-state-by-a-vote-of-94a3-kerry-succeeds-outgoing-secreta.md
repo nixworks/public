@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to
 
 ### Changes:
 
-1. [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94-3-kerry-succeeds-outgoing-secreta.md) _2017-08-27 03:37:32 (First version)_
+1. [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94-3-kerry-succeeds-outgoing-secreta.md) _2018-02-06 13:49:24 (First version)_
 1. [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94a3-kerry-succeeds-outgoing-secreta.md) _(Current version)_
 
 ### Related:

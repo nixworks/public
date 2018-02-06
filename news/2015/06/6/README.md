@@ -3,13 +3,13 @@ Formats: [HTML](2015/06/6/index.html)  [JSON](2015/06/6/index.json)  [XML](2015/
 
 ## [2015-06-6](/news/2015/06/6/index.md)
 
-##### Saudi Arabian-led intervention in Yemen
+##### Saudi-led intervention in Yemen
 ### [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md)
 Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebels&#x20;were&#x20;killed&#x20;during&#x20;a&#x20;fresh&#x20;rebel&#x20;offensive&#x20;near&#x20;the&#x20;border&#x20;on&#x20;Saturday&#x20;as&#x20;Saudi&#x20;Arabia&#x20;said&#x20;it&#x20;shot&#x20;down&#x20;a&#x20;Scud&...
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-militants-involved.md)
-_Context: Taliban, Badakhshan, War in Afghanistan (2015-present), Yamgan District_
+_Context: War in Afghanistan (2015-present), Yamgan District, Taliban, Badakhshan_
 
 ##### War in Donbass
 ### [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md)
@@ -33,7 +33,7 @@ Lightning has struck at a Germany rock festival leaving 33 people with minor inj
 
 ##### Royal Navy
 ### [Ships from the British and German navies are dispatched to rescue thousands of migrants stranded in the Mediterranean Sea. ](/news/2015/06/6/ships-from-the-british-and-german-navies-are-dispatched-to-rescue-thousands-of-migrants-stranded-in-the-mediterranean-sea.md)
-_Context: Royal Navy, Mediterranean Sea, German navies_
+_Context: Mediterranean Sea, Royal Navy, German navies_
 
 ##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 ### [The number of confirmed MERS cases in South Korea rises by 9 to 50. ](/news/2015/06/6/the-number-of-confirmed-mers-cases-in-south-korea-rises-by-9-to-50.md)
@@ -45,11 +45,11 @@ Agreement signed in Dhaka to allow people living stateless in border enclaves fi
 
 ##### Reuters
 ### [Reuters reports that an Egyptian court has overturned a ruling that Hamas is a terrorist organisation. ](/news/2015/06/6/reuters-reports-that-an-egyptian-court-has-overturned-a-ruling-that-hamas-is-a-terrorist-organisation.md)
-_Context: Reuters, Hamas, Egypt, terrorism_
+_Context: terrorism, Hamas, Reuters, Egypt_
 
 ##### police
 ### [Five police are injured following violent protests at a gay pride march in Kiev. ](/news/2015/06/6/five-police-are-injured-following-violent-protests-at-a-gay-pride-march-in-kiev.md)
-_Context: gay pride, police, Kiev_
+_Context: police, gay pride, Kiev_
 
 ##### President of Sudan
 ### [The President of Sudan Omar al-Bashir swears in a new Cabinet after having been sworn in for a five-year term earlier in the week. ](/news/2015/06/6/the-president-of-sudan-omar-al-bashir-swears-in-a-new-cabinet-after-having-been-sworn-in-for-a-five-year-term-earlier-in-the-week.md)

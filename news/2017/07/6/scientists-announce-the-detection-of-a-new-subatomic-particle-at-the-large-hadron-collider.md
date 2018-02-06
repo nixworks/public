@@ -16,7 +16,7 @@ Scientists have detected a new particle at the Large Hadron Collider at Cern
 
 ### Changes:
 
-1. [Large Hadron Collider: Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/large-hadron-collider-scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md) _2017-08-27 03:48:37 (First version)_
+1. [Large Hadron Collider: Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/large-hadron-collider-scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md) _2018-02-06 13:49:31 (First version)_
 1. [Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md) _(Current version)_
 
 ### Related:

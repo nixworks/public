@@ -17,7 +17,7 @@ Fighting in Ukraine took an explosive turn Sunday night when residents of Donets
 
 ### Changes:
 
-1. [War in Donbass: Fighting in the past 24 hours kills at least nine Ukrainian soldiers. ](/news/2015/02/9/war-in-donbass-fighting-in-the-past-24-hours-kills-at-least-nine-ukrainian-soldiers.md) _2017-08-27 03:41:54 (First version)_
+1. [War in Donbass: Fighting in the past 24 hours kills at least nine Ukrainian soldiers. ](/news/2015/02/9/war-in-donbass-fighting-in-the-past-24-hours-kills-at-least-nine-ukrainian-soldiers.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighting in the past 24 hours kills at least nine Ukrainian soldiers. ](/news/2015/02/9/fighting-in-the-past-24-hours-kills-at-least-nine-ukrainian-soldiers.md) _(Current version)_
 
 ### Related:

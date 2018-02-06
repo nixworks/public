@@ -16,8 +16,8 @@ Air strikes around the northern Syrian city of Aleppo killed at least 40 people 
 
 ### Changes:
 
-1. [Syrian civil war:Syrian government air strikes around the northern Syrian city of Aleppo kill 40 people. ](/news/2013/11/23/syrian-civil-war-psyrian-government-air-strikes-around-the-northern-syrian-city-of-aleppo-kill-40-people.md) _2017-08-25 03:39:34 (First version)_
-2. [Syrian civil war:: Syrian government air strikes around the northern Syrian city of Aleppo kill 40 people. ](/news/2013/11/23/syrian-civil-war-syrian-government-air-strikes-around-the-northern-syrian-city-of-aleppo-kill-40-people.md) _2017-08-27 03:39:53 (Update)_
+1. [Syrian civil war:: Syrian government air strikes around the northern Syrian city of Aleppo kill 40 people. ](/news/2013/11/23/syrian-civil-war-syrian-government-air-strikes-around-the-northern-syrian-city-of-aleppo-kill-40-people.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:Syrian government air strikes around the northern Syrian city of Aleppo kill 40 people. ](/news/2013/11/23/syrian-civil-war-psyrian-government-air-strikes-around-the-northern-syrian-city-of-aleppo-kill-40-people.md) _2018-02-06 13:49:25 (Update)_
 2. [Syrian government air strikes around the northern Syrian city of Aleppo kill 40 people. ](/news/2013/11/23/syrian-government-air-strikes-around-the-northern-syrian-city-of-aleppo-kill-40-people.md) _(Current version)_
 
 ### Related:

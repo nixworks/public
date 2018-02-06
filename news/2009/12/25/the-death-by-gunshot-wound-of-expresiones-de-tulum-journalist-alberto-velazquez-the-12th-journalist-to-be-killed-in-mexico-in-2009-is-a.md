@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/12/25/the-death-by-gunshot-wound-of-expresiones-de-tu
 
 ### Changes:
 
-1. [ The death by gunshot wound of ''Expresiones de Tulum'' journalist Alberto Velzquez, the 12th journalist to be killed in Mexico in 2009, is announced. ](/news/2009/12/25/the-death-by-gunshot-wound-of-expresiones-de-tulum-journalist-alberto-velazquez-the-12th-journalist-to-be-killed-in-mexico-in-2009-is.md) _2017-08-25 03:26:41 (First version)_
+1. [ The death by gunshot wound of ''Expresiones de Tulum'' journalist Alberto Velzquez, the 12th journalist to be killed in Mexico in 2009, is announced. ](/news/2009/12/25/the-death-by-gunshot-wound-of-expresiones-de-tulum-journalist-alberto-velazquez-the-12th-journalist-to-be-killed-in-mexico-in-2009-is.md) _2018-02-06 13:49:19 (First version)_
 1. [ The death by gunshot wound of "Expresiones de Tulum" journalist Alberto Velzquez, the 12th journalist to be killed in Mexico in 2009, is announced. ](/news/2009/12/25/the-death-by-gunshot-wound-of-expresiones-de-tulum-journalist-alberto-velazquez-the-12th-journalist-to-be-killed-in-mexico-in-2009-is-a.md) _(Current version)_
 
 ### Related:

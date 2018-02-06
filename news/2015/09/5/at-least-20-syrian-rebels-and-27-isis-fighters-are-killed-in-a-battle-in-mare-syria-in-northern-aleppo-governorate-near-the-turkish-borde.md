@@ -17,7 +17,7 @@ A battle between ISIS and rebels for control of an opposition stronghold in nort
 
 ### Changes:
 
-1. [Syrian Civil War: At least 20 Syrian rebels and 27 ISIS fighters are killed in a battle in Mare', Syria, in northern Aleppo Governorate near the Turkish border. ](/news/2015/09/5/syrian-civil-war-at-least-20-syrian-rebels-and-27-isis-fighters-are-killed-in-a-battle-in-mare-syria-in-northern-aleppo-governorate-near.md) _2017-08-27 03:42:58 (First version)_
+1. [Syrian Civil War: At least 20 Syrian rebels and 27 ISIS fighters are killed in a battle in Mare', Syria, in northern Aleppo Governorate near the Turkish border. ](/news/2015/09/5/syrian-civil-war-at-least-20-syrian-rebels-and-27-isis-fighters-are-killed-in-a-battle-in-mare-syria-in-northern-aleppo-governorate-near.md) _2018-02-06 13:49:27 (First version)_
 1. [At least 20 Syrian rebels and 27 ISIS fighters are killed in a battle in Mare', Syria, in northern Aleppo Governorate near the Turkish border. ](/news/2015/09/5/at-least-20-syrian-rebels-and-27-isis-fighters-are-killed-in-a-battle-in-mare-syria-in-northern-aleppo-governorate-near-the-turkish-borde.md) _(Current version)_
 
 ### Related:

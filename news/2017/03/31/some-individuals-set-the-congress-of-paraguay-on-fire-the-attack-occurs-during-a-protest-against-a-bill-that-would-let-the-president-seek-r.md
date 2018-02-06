@@ -16,8 +16,8 @@ Violence broke out amid street protests against a bill allowing the president to
 
 ### Changes:
 
-1. [Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would-let-the-president-seek.md) _2017-08-25 03:47:39 (First version)_
-2. [2017 Paraguay protests: Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/2017-paraguay-protests-some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would.md) _2017-08-27 03:48:05 (Update)_
+1. [Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would-let-the-president-seek.md) _2018-02-06 13:49:30 (First version)_
+2. [2017 Paraguay protests: Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/2017-paraguay-protests-some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would.md) _2018-02-06 13:49:30 (Update)_
 2. [Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would-let-the-president-seek-r.md) _(Current version)_
 
 ### Related:

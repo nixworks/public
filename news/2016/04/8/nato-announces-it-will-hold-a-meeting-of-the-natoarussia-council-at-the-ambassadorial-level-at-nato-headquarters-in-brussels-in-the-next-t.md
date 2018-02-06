@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-nat
 
 ### Changes:
 
-1. [NATO-Russia relations: NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-russia-relations-nato-announces-it-will-hold-a-meeting-of-the-nato-russia-council-at-the-ambassadorial-level-at-nato-headquarters.md) _2017-08-27 03:45:32 (First version)_
+1. [NATO-Russia relations: NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-russia-relations-nato-announces-it-will-hold-a-meeting-of-the-nato-russia-council-at-the-ambassadorial-level-at-nato-headquarters.md) _2018-02-06 13:49:29 (First version)_
 1. [NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-natoarussia-council-at-the-ambassadorial-level-at-nato-headquarters-in-brussels-in-the-next-t.md) _(Current version)_
 
 ### Related:

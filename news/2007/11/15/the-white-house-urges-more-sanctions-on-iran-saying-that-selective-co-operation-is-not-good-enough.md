@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/15/the-white-house-urges-more-sanctions-on-iran-sa
 
 ### Changes:
 
-1. [ Nuclear program of Iran: The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/nuclear-program-of-iran-p-the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md) _2017-08-25 03:21:22 (First version)_
-2. [ Nuclear program of Iran:: The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/nuclear-program-of-iran-the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md) _2017-08-27 03:21:18 (Update)_
+1. [ Nuclear program of Iran:: The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/nuclear-program-of-iran-the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md) _2018-02-06 13:49:18 (First version)_
+2. [ Nuclear program of Iran: The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/nuclear-program-of-iran-p-the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md) _2018-02-06 13:49:18 (Update)_
 2. [ The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md) _(Current version)_
 
 ### Related:

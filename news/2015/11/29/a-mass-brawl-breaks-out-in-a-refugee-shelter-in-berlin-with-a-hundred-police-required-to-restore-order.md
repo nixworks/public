@@ -16,7 +16,7 @@ Hundreds of refugees fought each other on Sunday in a mass brawl at a Berlin she
 
 ### Changes:
 
-1. [European migration crisis: A mass brawl breaks out in a refugee shelter in Berlin with a hundred police required to restore order. ](/news/2015/11/29/european-migration-crisis-a-mass-brawl-breaks-out-in-a-refugee-shelter-in-berlin-with-a-hundred-police-required-to-restore-order.md) _2017-08-27 03:44:06 (First version)_
+1. [European migration crisis: A mass brawl breaks out in a refugee shelter in Berlin with a hundred police required to restore order. ](/news/2015/11/29/european-migration-crisis-a-mass-brawl-breaks-out-in-a-refugee-shelter-in-berlin-with-a-hundred-police-required-to-restore-order.md) _2018-02-06 13:49:28 (First version)_
 1. [A mass brawl breaks out in a refugee shelter in Berlin with a hundred police required to restore order. ](/news/2015/11/29/a-mass-brawl-breaks-out-in-a-refugee-shelter-in-berlin-with-a-hundred-police-required-to-restore-order.md) _(Current version)_
 
 ### Related:

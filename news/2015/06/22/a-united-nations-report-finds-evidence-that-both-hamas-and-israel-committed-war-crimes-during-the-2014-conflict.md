@@ -16,7 +16,7 @@ Commission chair urges international community to act on conclusions of the repo
 
 ### Changes:
 
-1. [2014 Israel-Gaza conflict: A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/2014-israel-gaza-conflict-a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _2017-08-27 03:42:34 (First version)_
+1. [2014 Israel-Gaza conflict: A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/2014-israel-gaza-conflict-a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _2018-02-06 13:49:27 (First version)_
 1. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _(Current version)_
 
 ### Related:

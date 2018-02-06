@@ -17,7 +17,7 @@ In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s 
 
 ### Changes:
 
-1. [ Kazakhstani legislative election, 2007: President of Kazakhstan Nursultan Nazarbayev's Nur Otan party wins 88 per cent of the vote in yesterday's election and will be the only party represented in the Majilis or Kazakh parliament. ](/news/2007/08/19/kazakhstani-legislative-election-2007-president-of-kazakhstan-nursultan-nazarbayev-s-nur-otan-party-wins-88-per-cent-of-the-vote-in-yest.md) _2017-08-25 03:20:39 (First version)_
+1. [ Kazakhstani legislative election, 2007: President of Kazakhstan Nursultan Nazarbayev's Nur Otan party wins 88 per cent of the vote in yesterday's election and will be the only party represented in the Majilis or Kazakh parliament. ](/news/2007/08/19/kazakhstani-legislative-election-2007-president-of-kazakhstan-nursultan-nazarbayev-s-nur-otan-party-wins-88-per-cent-of-the-vote-in-yest.md) _2018-02-06 13:49:17 (First version)_
 1. [ Kazakhstani legislative election, 2007: President of Kazakhstan Nursultan Nazarbayev's Nur Otan party wins 88 per cent of the vote in yesterday's election and will be the only party represented in the Majilis or Kazakh parliament. ](/news/2007/08/19/kazakhstani-legislative-election-2007-president-of-kazakhstan-nursultan-nazarbayev-s-nur-otan-party-wins-88-per-cent-of-the-vote-in-yeste.md) _(Current version)_
 
 ### Related:

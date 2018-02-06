@@ -16,7 +16,7 @@ The notorious Mexican drug lord Joaquin “El Chapo” Guzman has been arrested 
 
 ### Changes:
 
-1. [Mexican Drug War: The Mexican Navy recaptures escaped drug lord Joaquin Guzman, also known as "El Chapo", in Los Mochis, Sinaloa. ](/news/2016/01/8/mexican-drug-war-the-mexican-navy-recaptures-escaped-drug-lord-joaquan-guzma-n-also-known-as-el-chapo-in-los-mochis-sinaloa.md) _2017-08-27 03:44:37 (First version)_
+1. [Mexican Drug War: The Mexican Navy recaptures escaped drug lord Joaquin Guzman, also known as "El Chapo", in Los Mochis, Sinaloa. ](/news/2016/01/8/mexican-drug-war-the-mexican-navy-recaptures-escaped-drug-lord-joaquan-guzma-n-also-known-as-el-chapo-in-los-mochis-sinaloa.md) _2018-02-06 13:49:28 (First version)_
 1. [The Mexican Navy recaptures escaped drug lord Joaquin Guzman, also known as "El Chapo", in Los Mochis, Sinaloa. ](/news/2016/01/8/the-mexican-navy-recaptures-escaped-drug-lord-joaquan-guzma-n-also-known-as-el-chapo-in-los-mochis-sinaloa.md) _(Current version)_
 
 ### Related:

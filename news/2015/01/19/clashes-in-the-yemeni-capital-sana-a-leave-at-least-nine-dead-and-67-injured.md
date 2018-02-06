@@ -17,7 +17,7 @@ As Yemeni Houthi fighters and army troops waged gun and mortar battles near the 
 
 ### Changes:
 
-1. [Shia insurgency in Yemen: Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/shia-insurgency-in-yemen-clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _2017-08-27 03:41:49 (First version)_
+1. [Shia insurgency in Yemen: Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/shia-insurgency-in-yemen-clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _2018-02-06 13:49:26 (First version)_
 1. [Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _(Current version)_
 
 ### Related:

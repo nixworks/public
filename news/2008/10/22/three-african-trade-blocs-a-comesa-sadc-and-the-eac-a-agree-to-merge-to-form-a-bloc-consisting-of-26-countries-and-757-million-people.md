@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/22/three-african-trade-blocs-a-comesa-sadc-and-the
 
 ### Changes:
 
-1. [ Three African trade blocs - COMESA, SADC, and the EAC - agree to merge to form a bloc consisting of 26 countries and 757 million people. ](/news/2008/10/22/three-african-trade-blocs-comesa-sadc-and-the-eac-agree-to-merge-to-form-a-bloc-consisting-of-26-countries-and-757-million-people.md) _2017-08-27 03:22:58 (First version)_
+1. [ Three African trade blocs - COMESA, SADC, and the EAC - agree to merge to form a bloc consisting of 26 countries and 757 million people. ](/news/2008/10/22/three-african-trade-blocs-comesa-sadc-and-the-eac-agree-to-merge-to-form-a-bloc-consisting-of-26-countries-and-757-million-people.md) _2018-02-06 13:49:18 (First version)_
 1. [ Three African trade blocs - COMESA, SADC, and the EAC - agree to merge to form a bloc consisting of 26 countries and 757 million people. ](/news/2008/10/22/three-african-trade-blocs-a-comesa-sadc-and-the-eac-a-agree-to-merge-to-form-a-bloc-consisting-of-26-countries-and-757-million-people.md) _(Current version)_
 
 ### Related:

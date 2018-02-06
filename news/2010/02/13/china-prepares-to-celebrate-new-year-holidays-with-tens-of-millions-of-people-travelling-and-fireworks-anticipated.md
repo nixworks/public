@@ -17,8 +17,8 @@ Tens of millions of Chinese were marking the start of a lunar New Year.
 
 ### Changes:
 
-1. [Year of the Tiger:China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-pchina-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md) _2017-08-25 03:27:09 (First version)_
-2. [Year of the Tiger:: China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-china-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md) _2017-08-27 03:27:04 (Update)_
+1. [Year of the Tiger:China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-pchina-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md) _2018-02-06 13:49:19 (First version)_
+2. [Year of the Tiger:: China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-china-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md) _2018-02-06 13:49:19 (Update)_
 2. [China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/china-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md) _(Current version)_
 
 ### Related:

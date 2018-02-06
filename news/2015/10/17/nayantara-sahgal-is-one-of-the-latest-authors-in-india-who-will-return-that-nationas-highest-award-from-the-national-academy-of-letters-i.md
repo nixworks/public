@@ -16,7 +16,7 @@ The revolt now confronts Prime Minister Narendra Modi with a critical test of hi
 
 ### Changes:
 
-1. [Nayantara Sahgal, is one of the latest authors in India who will return that nation-s highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nation-s-highest-award-from-the-national-academy-of-letters-i.md) _2017-08-27 03:43:23 (First version)_
+1. [Nayantara Sahgal, is one of the latest authors in India who will return that nation-s highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nation-s-highest-award-from-the-national-academy-of-letters-i.md) _2018-02-06 13:49:27 (First version)_
 1. [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md) _(Current version)_
 
 ### Related:

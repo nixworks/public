@@ -16,5 +16,5 @@ Formats: [HTML](/news/2007/08/22/uk-government-plans-to-spend-agbp5-2bn-in-the-n
 
 ### Changes:
 
-1. [ UK government plans to spend PS5.2bn in the next four years on Identity Card and related schemes. ](/news/2007/08/22/uk-government-plans-to-spend-aps5-2bn-in-the-next-four-years-on-identity-card-and-related-schemes.md) _2017-08-25 03:20:41 (First version)_
+1. [ UK government plans to spend PS5.2bn in the next four years on Identity Card and related schemes. ](/news/2007/08/22/uk-government-plans-to-spend-aps5-2bn-in-the-next-four-years-on-identity-card-and-related-schemes.md) _2018-02-06 13:49:18 (First version)_
 1. [ UK government plans to spend GBP5.2bn in the next four years on Identity Card and related schemes. ](/news/2007/08/22/uk-government-plans-to-spend-agbp5-2bn-in-the-next-four-years-on-identity-card-and-related-schemes.md) _(Current version)_

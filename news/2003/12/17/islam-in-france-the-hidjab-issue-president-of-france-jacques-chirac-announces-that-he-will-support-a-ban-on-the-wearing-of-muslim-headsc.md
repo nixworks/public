@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/12/17/islam-in-france-the-hidjab-issue-president-of-f
 
 ### Changes:
 
-1. [Islam in France: the ''hidjab'' issue: President of France Jacques Chirac announces that he will support a ban on the wearing of Muslim headscarves, Jewish yarmulkes and large Christian crosses in schools and government offices. If passed, the law will come into effect in September 2004. Muslim clerics counter that the ban is an attack on their religion. ](/news/2003/12/17/islam-in-france-the-hidjab-issue-president-of-france-jacques-chirac-announces-that-he-will-support-a-ban-on-the-wearing-of-muslim-head.md) _2017-08-25 03:15:24 (First version)_
+1. [Islam in France: the ''hidjab'' issue: President of France Jacques Chirac announces that he will support a ban on the wearing of Muslim headscarves, Jewish yarmulkes and large Christian crosses in schools and government offices. If passed, the law will come into effect in September 2004. Muslim clerics counter that the ban is an attack on their religion. ](/news/2003/12/17/islam-in-france-the-hidjab-issue-president-of-france-jacques-chirac-announces-that-he-will-support-a-ban-on-the-wearing-of-muslim-head.md) _2018-02-06 13:49:15 (First version)_
 1. [Islam in France: the "hidjab" issue: President of France Jacques Chirac announces that he will support a ban on the wearing of Muslim headscarves, Jewish yarmulkes and large Christian crosses in schools and government offices. If passed, the law will come into effect in September 2004. Muslim clerics counter that the ban is an attack on their religion. ](/news/2003/12/17/islam-in-france-the-hidjab-issue-president-of-france-jacques-chirac-announces-that-he-will-support-a-ban-on-the-wearing-of-muslim-headsc.md) _(Current version)_
 
 ### Related:

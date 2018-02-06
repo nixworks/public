@@ -25,8 +25,8 @@ The UK, France and Italy call for tough measures against Syria, after troops the
 
 ### Changes:
 
-1. [Arab Spring:2011 Syrian protests:The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/arab-spring-p2011-syrian-protests-pthe-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-protes.md) _2017-08-25 03:32:53 (First version)_
-2. [Arab Spring:: 2011 Syrian protests:: The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/arab-spring-2011-syrian-protests-the-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-prot.md) _2017-08-27 03:33:02 (Update)_
+1. [Arab Spring:2011 Syrian protests:The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/arab-spring-p2011-syrian-protests-pthe-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-protes.md) _2018-02-06 13:49:22 (First version)_
+2. [Arab Spring:: 2011 Syrian protests:: The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/arab-spring-2011-syrian-protests-the-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-prot.md) _2018-02-06 13:49:22 (Update)_
 2. [2011 Syrian protests:The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/2011-syrian-protests-the-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-protesters-since-the.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/04/19/the-united-nations-security-council-meets-to-di
 
 ### Changes:
 
-1. [2011 Yemeni protests:The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-pthe-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continue.md) _2017-08-25 03:32:51 (First version)_
-2. [2011 Yemeni protests:: The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continu.md) _2017-08-27 03:32:59 (Update)_
+1. [2011 Yemeni protests:: The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continu.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Yemeni protests:The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-pthe-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continue.md) _2018-02-06 13:49:22 (Update)_
 2. [The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continues.md) _(Current version)_
 
 ### Related:

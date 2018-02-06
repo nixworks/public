@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/11/24/canadian-federal-election-2006-opposition-leade
 
 ### Changes:
 
-1. [ Canadian federal election, 2006: Opposition leader Stephen Harper introduces a motion of no confidence in the Canadian House of Commons. With the support of all opposition parties, it is expected to pass on Monday, toppling Prime Minister Paul Martin's minority Liberals and forcing a campaign spanning the holiday season. ](/news/2005/11/24/canadian-federal-election-2006-opposition-leader-stephen-harper-introduces-a-motion-of-no-confidence-in-the-canadian-house-of-commons-w.md) _2017-08-25 03:17:09 (First version)_
+1. [ Canadian federal election, 2006: Opposition leader Stephen Harper introduces a motion of no confidence in the Canadian House of Commons. With the support of all opposition parties, it is expected to pass on Monday, toppling Prime Minister Paul Martin's minority Liberals and forcing a campaign spanning the holiday season. ](/news/2005/11/24/canadian-federal-election-2006-opposition-leader-stephen-harper-introduces-a-motion-of-no-confidence-in-the-canadian-house-of-commons-w.md) _2018-02-06 13:49:16 (First version)_
 1. [ Canadian federal election, 2006: Opposition leader Stephen Harper introduces a motion of no confidence in the Canadian House of Commons. With the support of all opposition parties, it is expected to pass on Monday, toppling Prime Minister Paul Martin's minority Liberals and forcing a campaign spanning the holiday season. ](/news/2005/11/24/canadian-federal-election-2006-opposition-leader-stephen-harper-introduces-a-motion-of-no-confidence-in-the-canadian-house-of-commons-wi.md) _(Current version)_
 
 ### Related:

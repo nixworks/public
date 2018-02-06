@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-
 
 ### Changes:
 
-1. [2017 Stockholm attack: A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/2017-stockholm-attack-a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _2017-08-27 03:48:07 (First version)_
+1. [2017 Stockholm attack: A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/2017-stockholm-attack-a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _2018-02-06 13:49:30 (First version)_
 1. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _(Current version)_
 
 ### Related:

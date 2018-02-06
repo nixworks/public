@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/01/27/2007a2008-kenyan-crisis-at-least-nine-people-ar
 
 ### Changes:
 
-1. [ 2007-2008 Kenyan crisis: At least nine people are killed in western Kenya, reports say, in violence apparently linked to last month's disputed elections. ](/news/2008/01/27/2007-2008-kenyan-crisis-at-least-nine-people-are-killed-in-western-kenya-reports-say-in-violence-apparently-linked-to-last-month-s-dis.md) _2017-08-27 03:21:36 (First version)_
+1. [ 2007-2008 Kenyan crisis: At least nine people are killed in western Kenya, reports say, in violence apparently linked to last month's disputed elections. ](/news/2008/01/27/2007-2008-kenyan-crisis-at-least-nine-people-are-killed-in-western-kenya-reports-say-in-violence-apparently-linked-to-last-month-s-dis.md) _2018-02-06 13:49:18 (First version)_
 1. [ 2007-2008 Kenyan crisis: At least nine people are killed in western Kenya, reports say, in violence apparently linked to last month's disputed elections. ](/news/2008/01/27/2007a2008-kenyan-crisis-at-least-nine-people-are-killed-in-western-kenya-reports-say-in-violence-apparently-linked-to-last-month-s-dis.md) _(Current version)_
 
 ### Related:

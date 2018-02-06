@@ -16,7 +16,7 @@ Authorities fear the death toll could rise after a boat loaded with asylum seeke
 
 ### Changes:
 
-1. [A ship capsizes off the island of Java carrying refugees from Indonesia to Australia. Thirty people are missing and 22 bodies have been recovered, with 31 survivors rescued. ](/news/2013/09/27/a-ship-capsizes-off-the-island-of-java-carrying-refugees-from-indonesia-to-australia-thirty-people-are-missing-and-22-bodies-have-been-rec.md) _2017-08-25 03:39:20 (First version)_
+1. [A ship capsizes off the island of Java carrying refugees from Indonesia to Australia. Thirty people are missing and 22 bodies have been recovered, with 31 survivors rescued. ](/news/2013/09/27/a-ship-capsizes-off-the-island-of-java-carrying-refugees-from-indonesia-to-australia-thirty-people-are-missing-and-22-bodies-have-been-rec.md) _2018-02-06 13:49:25 (First version)_
 1. [A ship capsizes off the island of Java carrying refugees from Indonesia to Australia. Thirty people are missing and 22 bodies have been recovered, with 31 survivors rescued. ](/news/2013/09/27/a-ship-capsizes-off-the-island-of-java-carrying-refugees-from-indonesia-to-australia-thirty-people-are-missing-and-22-bodies-have-been-reco.md) _(Current version)_
 
 ### Related:

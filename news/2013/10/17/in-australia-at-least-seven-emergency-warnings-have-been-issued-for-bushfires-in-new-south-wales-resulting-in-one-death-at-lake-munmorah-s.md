@@ -17,7 +17,7 @@ Fire services have issued several emergency warnings in NSW as serious fires bur
 
 ### Changes:
 
-1. [In Australia, at least seven emergency warnings have been issued for bushfires in New South Wales resulting in one death at Lake Munmorah, significant property damage and closure of airports and highways. ](/news/2013/10/17/in-australia-at-least-seven-emergency-warnings-have-been-issued-for-bushfires-in-new-south-wales-resulting-in-one-death-at-lake-munmorah.md) _2017-08-25 03:39:24 (First version)_
+1. [In Australia, at least seven emergency warnings have been issued for bushfires in New South Wales resulting in one death at Lake Munmorah, significant property damage and closure of airports and highways. ](/news/2013/10/17/in-australia-at-least-seven-emergency-warnings-have-been-issued-for-bushfires-in-new-south-wales-resulting-in-one-death-at-lake-munmorah.md) _2018-02-06 13:49:25 (First version)_
 1. [In Australia, at least seven emergency warnings have been issued for bushfires in New South Wales resulting in one death at Lake Munmorah, significant property damage and closure of airports and highways. ](/news/2013/10/17/in-australia-at-least-seven-emergency-warnings-have-been-issued-for-bushfires-in-new-south-wales-resulting-in-one-death-at-lake-munmorah-s.md) _(Current version)_
 
 ### Related:

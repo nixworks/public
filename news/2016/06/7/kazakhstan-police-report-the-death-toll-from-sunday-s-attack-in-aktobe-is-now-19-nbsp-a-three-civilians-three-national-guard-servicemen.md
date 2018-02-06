@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/7/kazakhstan-police-report-the-death-toll-from-sun
 
 ### Changes:
 
-1. [2016 Aktobe shootings: Kazakhstan police report the death toll from Sunday's attack in Aktobe is now 19&nbsp;- three civilians, three National Guard servicemen, and 13 attackers. ](/news/2016/06/7/2016-aktobe-shootings-kazakhstan-police-report-the-death-toll-from-sunday-s-attack-in-aktobe-is-now-19-nbsp-three-civilians-three-nati.md) _2017-08-27 03:46:12 (First version)_
+1. [2016 Aktobe shootings: Kazakhstan police report the death toll from Sunday's attack in Aktobe is now 19&nbsp;- three civilians, three National Guard servicemen, and 13 attackers. ](/news/2016/06/7/2016-aktobe-shootings-kazakhstan-police-report-the-death-toll-from-sunday-s-attack-in-aktobe-is-now-19-nbsp-three-civilians-three-nati.md) _2018-02-06 13:49:29 (First version)_
 1. [Kazakhstan police report the death toll from Sunday's attack in Aktobe is now 19&nbsp;-- three civilians, three National Guard servicemen, and 13 attackers. ](/news/2016/06/7/kazakhstan-police-report-the-death-toll-from-sunday-s-attack-in-aktobe-is-now-19-nbsp-a-three-civilians-three-national-guard-servicemen.md) _(Current version)_
 
 ### Related:

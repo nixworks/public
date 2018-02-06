@@ -19,8 +19,8 @@ A homicide truck bomb exploded on a major bridge in Baghdad early Thursday, kill
 
 ### Changes:
 
-1. [ Iraqi insurgency: An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/iraqi-insurgency-p-an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wound.md) _2017-08-25 03:19:35 (First version)_
-2. [ Iraqi insurgency:: An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/iraqi-insurgency-an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wound.md) _2017-08-27 03:19:31 (Update)_
+1. [ Iraqi insurgency: An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/iraqi-insurgency-p-an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wound.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraqi insurgency:: An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/iraqi-insurgency-an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wound.md) _2018-02-06 13:49:17 (Update)_
 2. [ An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wounds-many-others.md) _(Current version)_
 
 ### Related:

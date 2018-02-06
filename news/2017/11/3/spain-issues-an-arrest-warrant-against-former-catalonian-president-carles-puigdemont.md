@@ -16,7 +16,7 @@ The sacked regional president went to Belgium shortly after Spain imposed direct
 
 ### Changes:
 
-1. [Spain issues an arrest warrant against Catalan Republic president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-catalan-republic-president-carles-puigdemont.md) _2017-11-04 00:30:05 (First version)_
+1. [Spain issues an arrest warrant against Catalan Republic president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-catalan-republic-president-carles-puigdemont.md) _2018-02-06 13:49:31 (First version)_
 1. [Spain issues an arrest warrant against former Catalonian president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.md) _(Current version)_
 
 ### Related:

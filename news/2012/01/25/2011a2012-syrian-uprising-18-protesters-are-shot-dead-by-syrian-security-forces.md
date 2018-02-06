@@ -16,7 +16,7 @@ Syrian security forces raked the central protest city of Hama with heavy machine
 
 ### Changes:
 
-1. [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011-2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md) _2017-08-27 03:35:03 (First version)_
+1. [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011-2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md) _2018-02-06 13:49:23 (First version)_
 1. [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011a2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indic
 
 ### Changes:
 
-1. [A grand jury in the U.S. capital has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-the-u-s-capital-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md) _2017-08-30 14:30:04 (First version)_
+1. [A grand jury in the U.S. capital has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-the-u-s-capital-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md) _2018-02-06 13:49:31 (First version)_
 1. [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md) _(Current version)_
 
 ### Related:

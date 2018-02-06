@@ -17,7 +17,7 @@ Rescuers cut into upside-down hull of capsized Eastern Star in the Yangtze river
 
 ### Changes:
 
-1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the Monday night sinking of the cruise ship in the Yangtze River rises to 75 with most of the 450 passengers on board still missing. ](/news/2015/06/4/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-monday-night-sinking-of-the-cruise-ship-in-the-yangtze-river-rises-to-75-with-m.md) _2017-08-27 03:42:28 (First version)_
+1. [Sinking of the "Dong Fang Zhi Xing": The death toll from the Monday night sinking of the cruise ship in the Yangtze River rises to 75 with most of the 450 passengers on board still missing. ](/news/2015/06/4/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-monday-night-sinking-of-the-cruise-ship-in-the-yangtze-river-rises-to-75-with-m.md) _2018-02-06 13:49:27 (First version)_
 1. [The death toll from the Monday night sinking of the cruise ship in the Yangtze River rises to 75 with most of the 450 passengers on board still missing. ](/news/2015/06/4/the-death-toll-from-the-monday-night-sinking-of-the-cruise-ship-in-the-yangtze-river-rises-to-75-with-most-of-the-450-passengers-on-board-st.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Government will not allow Riek Machar back until international monitors verify n
 
 ### Changes:
 
-1. [South Sudanese Civil War: Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/south-sudanese-civil-war-rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-p.md) _2017-08-27 03:45:48 (First version)_
+1. [South Sudanese Civil War: Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/south-sudanese-civil-war-rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-p.md) _2018-02-06 13:49:28 (First version)_
 1. [Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-president-machar-was-offer.md) _(Current version)_
 
 ### Related:

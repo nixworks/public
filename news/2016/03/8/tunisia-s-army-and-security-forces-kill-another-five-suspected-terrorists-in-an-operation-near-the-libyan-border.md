@@ -16,8 +16,8 @@ The swoop by the army and security forces came after 17 suspects were arrested e
 
 ### Changes:
 
-1. [Spillover of the Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/spillover-of-the-tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan-border.md) _2017-08-25 03:44:49 (First version)_
-2. [Spillover of the Libyan Civil War: Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/spillover-of-the-libyan-civil-war-tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan.md) _2017-08-27 03:45:11 (Update)_
+1. [Spillover of the Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/spillover-of-the-tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan-border.md) _2018-02-06 13:49:28 (First version)_
+2. [Spillover of the Libyan Civil War: Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/spillover-of-the-libyan-civil-war-tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan.md) _2018-02-06 13:49:28 (Update)_
 2. [Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan-border.md) _(Current version)_
 
 ### Related:

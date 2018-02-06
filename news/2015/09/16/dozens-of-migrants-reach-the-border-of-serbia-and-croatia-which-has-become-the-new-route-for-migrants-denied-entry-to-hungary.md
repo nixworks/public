@@ -17,7 +17,7 @@ The first group of migrants reaches Croatia after Hungary closes the main entry 
 
 ### Changes:
 
-1. [European migrant crisis: Dozens of migrants reach the border of Serbia and Croatia which has become the new route for migrants denied entry to Hungary. ](/news/2015/09/16/european-migrant-crisis-dozens-of-migrants-reach-the-border-of-serbia-and-croatia-which-has-become-the-new-route-for-migrants-denied-entry.md) _2017-08-27 03:43:04 (First version)_
+1. [European migrant crisis: Dozens of migrants reach the border of Serbia and Croatia which has become the new route for migrants denied entry to Hungary. ](/news/2015/09/16/european-migrant-crisis-dozens-of-migrants-reach-the-border-of-serbia-and-croatia-which-has-become-the-new-route-for-migrants-denied-entry.md) _2018-02-06 13:49:27 (First version)_
 1. [Dozens of migrants reach the border of Serbia and Croatia which has become the new route for migrants denied entry to Hungary. ](/news/2015/09/16/dozens-of-migrants-reach-the-border-of-serbia-and-croatia-which-has-become-the-new-route-for-migrants-denied-entry-to-hungary.md) _(Current version)_
 
 ### Related:

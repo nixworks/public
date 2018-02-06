@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/01/8/an-estimated-two-million-muslims-officially-begi
 
 ### Changes:
 
-1. [ An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia [http:--www.cnn.com-2006-WORLD-meast-01-08-hajj-index.html (CNN)].](/news/2006/01/8/an-estimated-two-million-muslims-officially-begin-the-annual-pilgrimage-or-hajj-in-mecca-saudi-arabia-http-www-cnn-com-2006-world-mea.md) _2017-06-18 03:17:28 (First version)_
+1. [ An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia [http:--www.cnn.com-2006-WORLD-meast-01-08-hajj-index.html (CNN)].](/news/2006/01/8/an-estimated-two-million-muslims-officially-begin-the-annual-pilgrimage-or-hajj-in-mecca-saudi-arabia-http-www-cnn-com-2006-world-mea.md) _2018-02-06 13:49:16 (First version)_
 1. [ An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia ](/news/2006/01/8/an-estimated-two-million-muslims-officially-begin-the-annual-pilgrimage-or-hajj-in-mecca-saudi-arabia.md) _(Current version)_
 
 ### Related:

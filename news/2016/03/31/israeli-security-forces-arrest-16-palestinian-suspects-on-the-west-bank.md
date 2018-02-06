@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-s
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict (2015-present): Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-palestinian-conflict-2015-present-israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _2017-08-27 03:45:26 (First version)_
+1. [Israeli-Palestinian conflict (2015-present): Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-palestinian-conflict-2015-present-israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _2018-02-06 13:49:28 (First version)_
 1. [Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _(Current version)_
 
 ### Related:

@@ -21,8 +21,8 @@ The BBC apologises for airing a radio play about a murderer featuring gunshots, 
 
 ### Changes:
 
-1. [Cumbria shootings:Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-pprime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md) _2017-08-25 03:28:07 (First version)_
-2. [Cumbria shootings:: Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md) _2017-08-27 03:28:06 (Update)_
+1. [Cumbria shootings:: Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md) _2018-02-06 13:49:20 (First version)_
+2. [Cumbria shootings:Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-pprime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md) _2018-02-06 13:49:20 (Update)_
 2. [Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md) _(Current version)_
 
 ### Related:

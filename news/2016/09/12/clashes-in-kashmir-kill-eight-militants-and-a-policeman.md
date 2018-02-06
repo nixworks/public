@@ -17,7 +17,7 @@ Seven suspected militants are killed in two separate gun battles with security f
 
 ### Changes:
 
-1. [Kashmir unrest: Clashes in Kashmir kill eight militants and a policeman. ](/news/2016/09/12/kashmir-unrest-clashes-in-kashmir-kill-eight-militants-and-a-policeman.md) _2017-08-27 03:46:50 (First version)_
+1. [Kashmir unrest: Clashes in Kashmir kill eight militants and a policeman. ](/news/2016/09/12/kashmir-unrest-clashes-in-kashmir-kill-eight-militants-and-a-policeman.md) _2018-02-06 13:49:29 (First version)_
 1. [Clashes in Kashmir kill eight militants and a policeman. ](/news/2016/09/12/clashes-in-kashmir-kill-eight-militants-and-a-policeman.md) _(Current version)_
 
 ### Related:

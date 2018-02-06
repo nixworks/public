@@ -15,7 +15,7 @@ Apparent roadside bomb attack targeting state telecom workers strikes in smart K
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. ](/news/2017/03/13/war-in-afghanistan-2015-present-at-least-one-person-is-killed-and-another-eight-are-wounded-after-a-suicide-bomber-attacks-a-bus-carryi.md) _2017-08-27 03:47:59 (First version)_
+1. [War in Afghanistan (2015-present): At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. ](/news/2017/03/13/war-in-afghanistan-2015-present-at-least-one-person-is-killed-and-another-eight-are-wounded-after-a-suicide-bomber-attacks-a-bus-carryi.md) _2018-02-06 13:49:30 (First version)_
 1. [At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. ](/news/2017/03/13/at-least-one-person-is-killed-and-another-eight-are-wounded-after-a-suicide-bomber-attacks-a-bus-carrying-government-employees-in-kabul.md) _(Current version)_
 
 ### Related:

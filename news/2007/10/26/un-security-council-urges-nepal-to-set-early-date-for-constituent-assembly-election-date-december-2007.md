@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/10/26/un-security-council-urges-nepal-to-set-early-da
 
 ### Changes:
 
-1. [ UN Security Council urges Nepal to set early date for Constituent Assembly election.{{Fact|date=December 2007}}](/news/2007/10/26/un-security-council-urges-nepal-to-set-early-date-for-constituent-assembly-election-fact-date-december-2007.md) _2017-05-01 03:22:08 (First version)_
+1. [ UN Security Council urges Nepal to set early date for Constituent Assembly election.{{Fact|date=December 2007}}](/news/2007/10/26/un-security-council-urges-nepal-to-set-early-date-for-constituent-assembly-election-fact-date-december-2007.md) _2018-02-06 13:49:18 (First version)_
 1. [ UN Security Council urges Nepal to set early date for Constituent Assembly election.date=December 2007](/news/2007/10/26/un-security-council-urges-nepal-to-set-early-date-for-constituent-assembly-election-date-december-2007.md) _(Current version)_
 
 ### Related:

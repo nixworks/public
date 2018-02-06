@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/3/thai-police-say-that-they-will-not-resist-protes
 
 ### Changes:
 
-1. [2013 Thai protests:Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-pthai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _2017-08-25 03:39:36 (First version)_
-2. [2013 Thai protests:: Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _2017-08-27 03:39:55 (Update)_
+1. [2013 Thai protests:: Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai protests:Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-pthai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _2018-02-06 13:49:25 (Update)_
 2. [Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md) _(Current version)_
 
 ### Related:

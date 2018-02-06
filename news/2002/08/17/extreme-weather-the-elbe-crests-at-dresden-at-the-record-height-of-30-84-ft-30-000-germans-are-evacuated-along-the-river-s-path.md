@@ -11,8 +11,8 @@ Formats: [HTML](/news/2002/08/17/extreme-weather-the-elbe-crests-at-dresden-at-t
 
 ### Changes:
 
-1. [ Extreme weather: The Elbe crests at Dresden at the record height of {{convert|30.84|ft|m}}. 30,000 Germans are evacuated along the river's path.](/news/2002/08/17/extreme-weather-the-elbe-crests-at-dresden-at-the-record-height-of-convert-30-84-ft-m-30-000-germans-are-evacuated-along-the-river-s.md) _2017-05-01 03:15:15 (First version)_
-2. [ Extreme weather: The Elbe crests at Dresden at the record height of 30.84|ft|m. 30,000 Germans are evacuated along the river's path.](/news/2002/08/17/extreme-weather-the-elbe-crests-at-dresden-at-the-record-height-of-30-84-ft-m-30-000-germans-are-evacuated-along-the-river-s-path.md) _2017-08-29 03:15:14 (Update)_
+1. [ Extreme weather: The Elbe crests at Dresden at the record height of {{convert|30.84|ft|m}}. 30,000 Germans are evacuated along the river's path.](/news/2002/08/17/extreme-weather-the-elbe-crests-at-dresden-at-the-record-height-of-convert-30-84-ft-m-30-000-germans-are-evacuated-along-the-river-s.md) _2018-02-06 13:49:15 (First version)_
+2. [ Extreme weather: The Elbe crests at Dresden at the record height of 30.84|ft|m. 30,000 Germans are evacuated along the river's path.](/news/2002/08/17/extreme-weather-the-elbe-crests-at-dresden-at-the-record-height-of-30-84-ft-m-30-000-germans-are-evacuated-along-the-river-s-path.md) _2018-02-06 13:49:15 (Update)_
 2. [ Extreme weather: The Elbe crests at Dresden at the record height of 30.84 ft. 30,000 Germans are evacuated along the river's path.](/news/2002/08/17/extreme-weather-the-elbe-crests-at-dresden-at-the-record-height-of-30-84-ft-30-000-germans-are-evacuated-along-the-river-s-path.md) _(Current version)_
 
 ### Related:

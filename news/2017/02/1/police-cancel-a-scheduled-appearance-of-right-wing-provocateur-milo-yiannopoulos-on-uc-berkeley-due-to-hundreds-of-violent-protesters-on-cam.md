@@ -16,7 +16,7 @@ A protest at UC Berkeley over a scheduled appearance by right-wing provocateur M
 
 ### Changes:
 
-1. [2017 Berkeley protests: Police cancel a scheduled appearance of right-wing provocateur Milo Yiannopoulos on UC Berkeley due to hundreds of violent protesters on campus. ](/news/2017/02/1/2017-berkeley-protests-police-cancel-a-scheduled-appearance-of-right-wing-provocateur-milo-yiannopoulos-on-uc-berkeley-due-to-hundreds-of-v.md) _2017-08-27 03:47:44 (First version)_
+1. [2017 Berkeley protests: Police cancel a scheduled appearance of right-wing provocateur Milo Yiannopoulos on UC Berkeley due to hundreds of violent protesters on campus. ](/news/2017/02/1/2017-berkeley-protests-police-cancel-a-scheduled-appearance-of-right-wing-provocateur-milo-yiannopoulos-on-uc-berkeley-due-to-hundreds-of-v.md) _2018-02-06 13:49:30 (First version)_
 1. [Police cancel a scheduled appearance of right-wing provocateur Milo Yiannopoulos on UC Berkeley due to hundreds of violent protesters on campus. ](/news/2017/02/1/police-cancel-a-scheduled-appearance-of-right-wing-provocateur-milo-yiannopoulos-on-uc-berkeley-due-to-hundreds-of-violent-protesters-on-cam.md) _(Current version)_
 
 ### Related:

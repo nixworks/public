@@ -16,7 +16,7 @@ An Air Canada plane landing at Halifax, Nova Scotia, leaves the runway while lan
 
 ### Changes:
 
-1. [Air Canada Flight 624: Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and 5 crews on board survive, with 23 treated for minor injuries. ](/news/2015/03/29/air-canada-flight-624-air-canada-flight-624-skids-off-the-runway-at-halifax-stanfield-international-airport-after-arriving-from-toronto-sh.md) _2017-08-27 03:42:08 (First version)_
+1. [Air Canada Flight 624: Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and 5 crews on board survive, with 23 treated for minor injuries. ](/news/2015/03/29/air-canada-flight-624-air-canada-flight-624-skids-off-the-runway-at-halifax-stanfield-international-airport-after-arriving-from-toronto-sh.md) _2018-02-06 13:49:27 (First version)_
 1. [Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and 5 crews on board survive, with 23 treated for minor injuries. ](/news/2015/03/29/air-canada-flight-624-skids-off-the-runway-at-halifax-stanfield-international-airport-after-arriving-from-toronto-shortly-past-midnight-al.md) _(Current version)_
 
 ### Related:

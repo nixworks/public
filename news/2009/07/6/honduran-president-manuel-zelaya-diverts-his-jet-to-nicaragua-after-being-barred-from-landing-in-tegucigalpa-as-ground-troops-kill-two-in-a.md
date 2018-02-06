@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet
 
 ### Changes:
 
-1. [ Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in.md) _2017-08-25 03:25:05 (First version)_
-2. [ 2009 Honduran coup d'tat: Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/2009-honduran-coup-d-etat-honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as.md) _2017-08-27 03:24:56 (Update)_
+1. [ Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in.md) _2018-02-06 13:49:19 (First version)_
+2. [ 2009 Honduran coup d'tat: Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/2009-honduran-coup-d-etat-honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as.md) _2018-02-06 13:49:19 (Update)_
 2. [ Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in-a.md) _(Current version)_
 
 ### Related:

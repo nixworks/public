@@ -16,7 +16,7 @@ Twenty-nine people died and more than 80,000 were affected after Tropical Cyclon
 
 ### Changes:
 
-1. [At least 29 people are dead and 22 missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md) _2018-01-10 00:30:05 (First version)_
+1. [At least 29 people are dead and 22 missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md) _2018-02-06 13:49:31 (First version)_
 1. [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md) _(Current version)_
 
 ### Related:

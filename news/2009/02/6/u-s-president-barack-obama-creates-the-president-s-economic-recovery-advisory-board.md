@@ -20,8 +20,8 @@ The losses reinforced the picture of an economy contracting at its fastest pace 
 
 ### Changes:
 
-1. [ Late 2000s recession: U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/late-2000s-recession-p-u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md) _2017-08-25 03:23:41 (First version)_
-2. [ Late 2000s recession:: U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/late-2000s-recession-u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md) _2017-08-27 03:23:32 (Update)_
+1. [ Late 2000s recession:: U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/late-2000s-recession-u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md) _2018-02-06 13:49:18 (First version)_
+2. [ Late 2000s recession: U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/late-2000s-recession-p-u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md) _2018-02-06 13:49:18 (Update)_
 2. [ U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md) _(Current version)_
 
 ### Related:

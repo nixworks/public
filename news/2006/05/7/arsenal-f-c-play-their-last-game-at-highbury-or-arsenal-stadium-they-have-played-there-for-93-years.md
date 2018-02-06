@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/05/7/arsenal-f-c-play-their-last-game-at-highbury-or-
 
 ### Changes:
 
-1. [ Arsenal F.C. play their last game at Highbury, or Arsenal Stadium. They have played there for 93 years [http:--news.bbc.co.uk-sport2-hi-football-eng_prem-4957444.stm (BBC)].](/news/2006/05/7/arsenal-f-c-play-their-last-game-at-highbury-or-arsenal-stadium-they-have-played-there-for-93-years-http-news-bbc-co-uk-sport2-hi-foo.md) _2017-06-18 03:17:46 (First version)_
+1. [ Arsenal F.C. play their last game at Highbury, or Arsenal Stadium. They have played there for 93 years [http:--news.bbc.co.uk-sport2-hi-football-eng_prem-4957444.stm (BBC)].](/news/2006/05/7/arsenal-f-c-play-their-last-game-at-highbury-or-arsenal-stadium-they-have-played-there-for-93-years-http-news-bbc-co-uk-sport2-hi-foo.md) _2018-02-06 13:49:17 (First version)_
 1. [ Arsenal F.C. play their last game at Highbury, or Arsenal Stadium. They have played there for 93 years ](/news/2006/05/7/arsenal-f-c-play-their-last-game-at-highbury-or-arsenal-stadium-they-have-played-there-for-93-years.md) _(Current version)_
 
 ### Related:

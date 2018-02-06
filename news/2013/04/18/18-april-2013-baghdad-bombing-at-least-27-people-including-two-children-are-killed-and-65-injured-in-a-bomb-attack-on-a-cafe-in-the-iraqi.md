@@ -17,8 +17,8 @@ At least 27 people, including two children, have been killed and scores hurt in 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/iraqi-insurgency-post-u-s-withdrawal-p18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injure.md) _2017-08-25 03:38:24 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: 18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/iraqi-insurgency-post-u-s-withdrawal-18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injur.md) _2017-08-27 03:38:36 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/iraqi-insurgency-post-u-s-withdrawal-p18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injure.md) _2018-02-06 13:49:24 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: 18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/iraqi-insurgency-post-u-s-withdrawal-18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injur.md) _2018-02-06 13:49:24 (Update)_
 2. [18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injured-in-a-bomb-attack-on-a-cafe-in-the-iraqi.md) _(Current version)_
 
 ### Related:

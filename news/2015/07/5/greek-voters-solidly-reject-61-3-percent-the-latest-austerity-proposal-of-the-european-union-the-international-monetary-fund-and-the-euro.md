@@ -20,7 +20,7 @@ Greeks have been voting today on whether or not to accept the proposals put to t
 
 ### Changes:
 
-1. [Greek bailout referendum, 2015: Greek voters solidly reject (61.3 percent) the latest austerity proposal of the European Union, the International Monetary Fund and the European Central Bank. ](/news/2015/07/5/greek-bailout-referendum-2015-greek-voters-solidly-reject-61-3-percent-the-latest-austerity-proposal-of-the-european-union-the-internat.md) _2017-08-27 03:42:39 (First version)_
+1. [Greek bailout referendum, 2015: Greek voters solidly reject (61.3 percent) the latest austerity proposal of the European Union, the International Monetary Fund and the European Central Bank. ](/news/2015/07/5/greek-bailout-referendum-2015-greek-voters-solidly-reject-61-3-percent-the-latest-austerity-proposal-of-the-european-union-the-internat.md) _2018-02-06 13:49:27 (First version)_
 1. [Greek voters solidly reject (61.3 percent) the latest austerity proposal of the European Union, the International Monetary Fund and the European Central Bank. ](/news/2015/07/5/greek-voters-solidly-reject-61-3-percent-the-latest-austerity-proposal-of-the-european-union-the-international-monetary-fund-and-the-euro.md) _(Current version)_
 
 ### Related:

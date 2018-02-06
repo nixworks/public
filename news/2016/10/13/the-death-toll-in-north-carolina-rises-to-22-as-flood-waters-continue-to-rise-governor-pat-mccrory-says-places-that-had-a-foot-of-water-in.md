@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/10/13/the-death-toll-in-north-carolina-rises-to-22-as
 
 ### Changes:
 
-1. [Hurricane Matthew: The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. ](/news/2016/10/13/hurricane-matthew-the-death-toll-in-north-carolina-rises-to-22-as-flood-waters-continue-to-rise-governor-pat-mccrory-says-places-that-had.md) _2017-08-27 03:47:02 (First version)_
+1. [Hurricane Matthew: The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. ](/news/2016/10/13/hurricane-matthew-the-death-toll-in-north-carolina-rises-to-22-as-flood-waters-continue-to-rise-governor-pat-mccrory-says-places-that-had.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. ](/news/2016/10/13/the-death-toll-in-north-carolina-rises-to-22-as-flood-waters-continue-to-rise-governor-pat-mccrory-says-places-that-had-a-foot-of-water-in.md) _(Current version)_
 
 ### Related:

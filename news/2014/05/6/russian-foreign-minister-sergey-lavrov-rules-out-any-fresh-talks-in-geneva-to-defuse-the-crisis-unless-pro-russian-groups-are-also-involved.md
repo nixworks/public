@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/05/6/russian-foreign-minister-sergey-lavrov-rules-out
 
 ### Changes:
 
-1. [2014 pro-Russian unrest in Ukraine: Russian foreign minister Sergey Lavrov rules out any fresh talks in Geneva to defuse the crisis unless pro-Russian groups are also involved. ](/news/2014/05/6/2014-pro-russian-unrest-in-ukraine-russian-foreign-minister-sergey-lavrov-rules-out-any-fresh-talks-in-geneva-to-defuse-the-crisis-unless-p.md) _2017-08-27 03:40:40 (First version)_
+1. [2014 pro-Russian unrest in Ukraine: Russian foreign minister Sergey Lavrov rules out any fresh talks in Geneva to defuse the crisis unless pro-Russian groups are also involved. ](/news/2014/05/6/2014-pro-russian-unrest-in-ukraine-russian-foreign-minister-sergey-lavrov-rules-out-any-fresh-talks-in-geneva-to-defuse-the-crisis-unless-p.md) _2018-02-06 13:49:26 (First version)_
 1. [Russian foreign minister Sergey Lavrov rules out any fresh talks in Geneva to defuse the crisis unless pro-Russian groups are also involved. ](/news/2014/05/6/russian-foreign-minister-sergey-lavrov-rules-out-any-fresh-talks-in-geneva-to-defuse-the-crisis-unless-pro-russian-groups-are-also-involved.md) _(Current version)_
 
 ### Related:

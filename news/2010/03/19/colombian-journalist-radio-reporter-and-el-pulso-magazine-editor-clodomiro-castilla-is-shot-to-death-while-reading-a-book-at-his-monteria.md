@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-puls
 
 ### Changes:
 
-1. [Colombian journalist, radio reporter and ''El Pulso'' magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monter.md) _2017-08-25 03:27:24 (First version)_
+1. [Colombian journalist, radio reporter and ''El Pulso'' magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monter.md) _2018-02-06 13:49:19 (First version)_
 1. [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md) _(Current version)_
 
 ### Related:

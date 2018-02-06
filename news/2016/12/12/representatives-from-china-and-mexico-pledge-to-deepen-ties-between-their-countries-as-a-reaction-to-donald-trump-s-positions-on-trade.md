@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to
 
 ### Changes:
 
-1. [China-Mexico relations: Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/china-mexico-relations-representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump.md) _2017-08-27 03:47:26 (First version)_
+1. [China-Mexico relations: Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/china-mexico-relations-representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump.md) _2018-02-06 13:49:29 (First version)_
 1. [Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump-s-positions-on-trade.md) _(Current version)_
 
 ### Related:

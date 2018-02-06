@@ -17,7 +17,7 @@ Germany has recruited 8,500 teachers to teach German to thousands of child refug
 
 ### Changes:
 
-1. [European migrant crisis: Germany recruits 8,500 teachers to provide special German language lessons for 196,000 Syrian child refugees. ](/news/2015/12/28/european-migrant-crisis-germany-recruits-8-500-teachers-to-provide-special-german-language-lessons-for-196-000-syrian-child-refugees.md) _2017-08-27 03:44:32 (First version)_
+1. [European migrant crisis: Germany recruits 8,500 teachers to provide special German language lessons for 196,000 Syrian child refugees. ](/news/2015/12/28/european-migrant-crisis-germany-recruits-8-500-teachers-to-provide-special-german-language-lessons-for-196-000-syrian-child-refugees.md) _2018-02-06 13:49:28 (First version)_
 1. [Germany recruits 8,500 teachers to provide special German language lessons for 196,000 Syrian child refugees. ](/news/2015/12/28/germany-recruits-8-500-teachers-to-provide-special-german-language-lessons-for-196-000-syrian-child-refugees.md) _(Current version)_
 
 ### Related:

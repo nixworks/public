@@ -17,7 +17,7 @@ Formats: [HTML](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-specie
 
 ### Changes:
 
-1. [ The discovery of three ancient crocodile species, ''Kaprosuchus saharicus'', ''Araripesuchus rattoides'' and ''Laganosuchus thaumastos'', is announced. ](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-species-kaprosuchus-saharicus-araripesuchus-rattoides-and-laganosuchus-thaumastos-i.md) _2017-08-25 03:26:23 (First version)_
+1. [ The discovery of three ancient crocodile species, ''Kaprosuchus saharicus'', ''Araripesuchus rattoides'' and ''Laganosuchus thaumastos'', is announced. ](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-species-kaprosuchus-saharicus-araripesuchus-rattoides-and-laganosuchus-thaumastos-i.md) _2018-02-06 13:49:19 (First version)_
 1. [ The discovery of three ancient crocodile species, "Kaprosuchus saharicus", "Araripesuchus rattoides" and "Laganosuchus thaumastos", is announced. ](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-species-kaprosuchus-saharicus-araripesuchus-rattoides-and-laganosuchus-thaumastos-is-anno.md) _(Current version)_
 
 ### Related:

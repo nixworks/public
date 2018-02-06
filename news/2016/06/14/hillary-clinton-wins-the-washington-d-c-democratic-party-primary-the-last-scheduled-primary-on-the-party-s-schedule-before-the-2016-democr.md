@@ -17,7 +17,7 @@ The D.C. primary came more than a week after Clinton was declared the presumptiv
 
 ### Changes:
 
-1. [United States presidential election, 2016: Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. ](/news/2016/06/14/united-states-presidential-election-2016-hillary-clinton-wins-the-washington-d-c-democratic-party-primary-the-last-scheduled-primary-on.md) _2017-08-27 03:46:15 (First version)_
+1. [United States presidential election, 2016: Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. ](/news/2016/06/14/united-states-presidential-election-2016-hillary-clinton-wins-the-washington-d-c-democratic-party-primary-the-last-scheduled-primary-on.md) _2018-02-06 13:49:29 (First version)_
 1. [Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. ](/news/2016/06/14/hillary-clinton-wins-the-washington-d-c-democratic-party-primary-the-last-scheduled-primary-on-the-party-s-schedule-before-the-2016-democr.md) _(Current version)_
 
 ### Related:

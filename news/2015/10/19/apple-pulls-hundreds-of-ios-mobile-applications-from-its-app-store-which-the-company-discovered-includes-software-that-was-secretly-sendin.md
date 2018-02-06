@@ -17,7 +17,7 @@ Apple has banned 256 apps, with an estimated total of 1 million downloads among 
 
 ### Changes:
 
-1. [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendi.md) _2017-08-25 03:43:06 (First version)_
+1. [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendi.md) _2018-02-06 13:49:27 (First version)_
 1. [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendin.md) _(Current version)_
 
 ### Related:

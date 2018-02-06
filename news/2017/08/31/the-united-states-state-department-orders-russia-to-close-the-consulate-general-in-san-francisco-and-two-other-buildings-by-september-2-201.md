@@ -16,8 +16,8 @@ The US orders Russia to close its San Francisco consulate in response to &quot;u
 
 ### Changes:
 
-1. [The United States orders Russia to close a consulate and two other buildings by Saturday, September 2nd, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-orders-russia-to-close-a-consulate-and-two-other-buildings-by-saturday-september-2nd-invoking-parity-over-a-russian-me.md) _2017-08-31 20:30:05 (First version)_
-2. [The United States State Department orders Russia to close the Consulate-General of Russia in San Francisco and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-state-department-orders-russia-to-close-the-consulate-general-of-russia-in-san-francisco-and-two-other-buildings-by-septem.md) _2017-09-01 03:47:42 (Update)_
+1. [The United States State Department orders Russia to close the Consulate-General of Russia in San Francisco and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-state-department-orders-russia-to-close-the-consulate-general-of-russia-in-san-francisco-and-two-other-buildings-by-septem.md) _2018-02-06 13:49:31 (First version)_
+2. [The United States orders Russia to close a consulate and two other buildings by Saturday, September 2nd, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-orders-russia-to-close-a-consulate-and-two-other-buildings-by-saturday-september-2nd-invoking-parity-over-a-russian-me.md) _2018-02-06 13:49:31 (Update)_
 2. [The United States State Department orders Russia to close the Consulate-General in San Francisco and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-state-department-orders-russia-to-close-the-consulate-general-in-san-francisco-and-two-other-buildings-by-september-2-201.md) _(Current version)_
 
 ### Related:

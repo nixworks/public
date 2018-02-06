@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Kogalymavia Flight 9268: Airlines including Emirates, Lufthansa and Air France refuse to fly over the Sinai Peninsula until the cause of the crash is known. ](/news/2015/11/1/kogalymavia-flight-9268-airlines-including-emirates-lufthansa-and-air-france-refuse-to-fly-over-the-sinai-peninsula-until-the-cause-of-the.md) _2017-08-27 03:43:38 (First version)_
+1. [Kogalymavia Flight 9268: Airlines including Emirates, Lufthansa and Air France refuse to fly over the Sinai Peninsula until the cause of the crash is known. ](/news/2015/11/1/kogalymavia-flight-9268-airlines-including-emirates-lufthansa-and-air-france-refuse-to-fly-over-the-sinai-peninsula-until-the-cause-of-the.md) _2018-02-06 13:49:28 (First version)_
 1. [Airlines including Emirates, Lufthansa and Air France refuse to fly over the Sinai Peninsula until the cause of the crash is known. ](/news/2015/11/1/airlines-including-emirates-lufthansa-and-air-france-refuse-to-fly-over-the-sinai-peninsula-until-the-cause-of-the-crash-is-known.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/10/29/a-suicide-bomber-targets-a-nato-convoy-in-the-a
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/war-in-afghanistan-2001apresent-pa-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-am.md) _2017-08-25 03:34:24 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/war-in-afghanistan-2001-present-a-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-a.md) _2017-08-27 03:34:33 (Update)_
+1. [War in Afghanistan (2001-present):A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/war-in-afghanistan-2001apresent-pa-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-am.md) _2018-02-06 13:49:23 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/war-in-afghanistan-2001-present-a-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-a.md) _2018-02-06 13:49:23 (Update)_
 2. [A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/a-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-american-troops-and-members-of-the-int.md) _(Current version)_
 
 ### Related:

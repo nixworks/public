@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufa
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/islamic-state-of-iraq-and-the-levant-iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car.md) _2017-08-27 03:42:14 (First version)_
+1. [Islamic State of Iraq and the Levant: Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/islamic-state-of-iraq-and-the-levant-iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car.md) _2018-02-06 13:49:27 (First version)_
 1. [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md) _(Current version)_
 
 ### Related:

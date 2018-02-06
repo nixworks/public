@@ -18,7 +18,7 @@ Formats: [HTML](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-las
 
 ### Changes:
 
-1. [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined -60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-60-by-a-court-for-breaching-the-la.md) _2017-08-27 03:32:52 (First version)_
+1. [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined -60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-60-by-a-court-for-breaching-the-la.md) _2018-02-06 13:49:22 (First version)_
 1. [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [Somalia:Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somalia-psomali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resigns.md) _2017-08-25 03:28:11 (First version)_
-2. [Somalia:: Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somalia-somali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resign.md) _2017-08-27 03:28:12 (Update)_
+1. [Somalia:: Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somalia-somali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resign.md) _2018-02-06 13:49:20 (First version)_
+2. [Somalia:Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somalia-psomali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resigns.md) _2018-02-06 13:49:20 (Update)_
 2. [Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resigns-from-gov.md) _(Current version)_
 
 ### Related:

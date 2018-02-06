@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/12/10/in-thailand-there-are-thousands-of-protesters-i
 
 ### Changes:
 
-1. [2013 Thai political crisis:In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/2013-thai-political-crisis-pin-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _2017-08-25 03:39:39 (First version)_
-2. [2013 Thai political crisis:: In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/2013-thai-political-crisis-in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _2017-08-27 03:39:57 (Update)_
+1. [2013 Thai political crisis:In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/2013-thai-political-crisis-pin-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _2018-02-06 13:49:25 (First version)_
+2. [2013 Thai political crisis:: In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/2013-thai-political-crisis-in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _2018-02-06 13:49:25 (Update)_
 2. [In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md) _(Current version)_
 
 ### Related:

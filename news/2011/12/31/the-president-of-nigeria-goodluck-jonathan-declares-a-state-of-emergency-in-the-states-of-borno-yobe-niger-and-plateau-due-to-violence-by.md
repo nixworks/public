@@ -19,8 +19,8 @@ Nigeria has declared a state of emergency and closed parts of the country&#039;s
 
 ### Changes:
 
-1. [Nigerian unrestThe President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/nigerian-unrestpthe-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-due.md) _2017-08-25 03:34:46 (First version)_
-2. [Nigerian unrest: The President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/nigerian-unrest-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-du.md) _2017-08-27 03:34:56 (Update)_
+1. [Nigerian unrestThe President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/nigerian-unrestpthe-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-due.md) _2018-02-06 13:49:23 (First version)_
+2. [Nigerian unrest: The President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/nigerian-unrest-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-du.md) _2018-02-06 13:49:23 (Update)_
 2. [The President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-due-to-violence-by.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ Deputy Robert French, a 21-year veteran of the Sacramento County Sheriff&#x27;s 
 
 ### Changes:
 
-1. [A shooting at a motel on Auburn Boulevard, Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect was later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-on-auburn-boulevard-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-tw.md) _2017-08-31 03:48:16 (First version)_
+1. [A shooting at a motel on Auburn Boulevard, Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect was later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-on-auburn-boulevard-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-tw.md) _2018-02-06 13:49:31 (First version)_
 1. [A shooting at a motel in Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect is later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-in-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-two-california-highw.md) _(Current version)_
 
 ### Related:

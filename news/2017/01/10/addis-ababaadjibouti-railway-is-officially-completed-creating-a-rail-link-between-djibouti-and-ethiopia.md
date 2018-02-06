@@ -16,7 +16,7 @@ Press Release - The completion of the Addis Ababa-Djibouti Railway, a new 752km 
 
 ### Changes:
 
-1. [Addis Ababa-Djibouti Railway: Addis Ababa-Djibouti Railway is officially completed, creating a rail link between Djibouti and Ethiopia. ](/news/2017/01/10/addis-ababa-djibouti-railway-addis-ababa-djibouti-railway-is-officially-completed-creating-a-rail-link-between-djibouti-and-ethiopia.md) _2017-08-27 03:47:35 (First version)_
+1. [Addis Ababa-Djibouti Railway: Addis Ababa-Djibouti Railway is officially completed, creating a rail link between Djibouti and Ethiopia. ](/news/2017/01/10/addis-ababa-djibouti-railway-addis-ababa-djibouti-railway-is-officially-completed-creating-a-rail-link-between-djibouti-and-ethiopia.md) _2018-02-06 13:49:30 (First version)_
 1. [Addis Ababa-Djibouti Railway is officially completed, creating a rail link between Djibouti and Ethiopia. ](/news/2017/01/10/addis-ababaadjibouti-railway-is-officially-completed-creating-a-rail-link-between-djibouti-and-ethiopia.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/09/4/the-peace-talks-between-farc-and-the-colombian-g
 
 ### Changes:
 
-1. [Colombian conflict (1964-present):The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/colombian-conflict-1964apresent-pthe-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then.md) _2017-08-25 03:36:25 (First version)_
-2. [Colombian conflict (1964-present):: The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/colombian-conflict-1964-present-the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-the.md) _2017-08-27 03:36:35 (Update)_
+1. [Colombian conflict (1964-present):The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/colombian-conflict-1964apresent-pthe-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then.md) _2018-02-06 13:49:23 (First version)_
+2. [Colombian conflict (1964-present):: The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/colombian-conflict-1964-present-the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-the.md) _2018-02-06 13:49:23 (Update)_
 2. [The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then-in-cuba.md) _(Current version)_
 
 ### Related:

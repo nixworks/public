@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/05/9/dick-cheney-the-vice-president-of-the-united-sta
 
 ### Changes:
 
-1. [ Iraq War: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-p-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _2017-08-25 03:19:47 (First version)_
-2. [ Iraq War:: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _2017-08-27 03:19:44 (Update)_
+1. [ Iraq War: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-p-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _2018-02-06 13:49:17 (Update)_
 2. [ Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md) _(Current version)_
 
 ### Related:

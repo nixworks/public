@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/06/2/as-a-result-of-north-korea-s-repeated-missile-te
 
 ### Changes:
 
-1. [North Korea and weapons of mass destruction: As a result of North Korea's repeated missile tests, the United Nations Security Council expands its targeted sanctions against the country, adding to the U.N. blacklist four entities, including the Koryo Bank and the Army's Strategic Rocket Force, and 14 people, including the North's head of intelligence operations. ](/news/2017/06/2/north-korea-and-weapons-of-mass-destruction-as-a-result-of-north-korea-s-repeated-missile-tests-the-united-nations-security-council-expand.md) _2017-08-27 03:48:25 (First version)_
+1. [North Korea and weapons of mass destruction: As a result of North Korea's repeated missile tests, the United Nations Security Council expands its targeted sanctions against the country, adding to the U.N. blacklist four entities, including the Koryo Bank and the Army's Strategic Rocket Force, and 14 people, including the North's head of intelligence operations. ](/news/2017/06/2/north-korea-and-weapons-of-mass-destruction-as-a-result-of-north-korea-s-repeated-missile-tests-the-united-nations-security-council-expand.md) _2018-02-06 13:49:30 (First version)_
 1. [As a result of North Korea's repeated missile tests, the United Nations Security Council expands its targeted sanctions against the country, adding to the U.N. blacklist four entities, including the Koryo Bank and the Army's Strategic Rocket Force, and 14 people, including the North's head of intelligence operations. ](/news/2017/06/2/as-a-result-of-north-korea-s-repeated-missile-tests-the-united-nations-security-council-expands-its-targeted-sanctions-against-the-country.md) _(Current version)_
 
 ### Related:

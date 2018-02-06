@@ -27,8 +27,8 @@ Moscow evacuates nationals; Iran dismisses &#8216;ridiculous&#8217; reports of A
 
 ### Changes:
 
-1. [Syrian civil war:Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/syrian-civil-war-pmoscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-allege.md) _2017-08-25 03:39:13 (First version)_
-2. [Syrian civil war:: Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/syrian-civil-war-moscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-alleg.md) _2017-08-27 03:39:29 (Update)_
+1. [Syrian civil war:Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/syrian-civil-war-pmoscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-allege.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:: Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/syrian-civil-war-moscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-alleg.md) _2018-02-06 13:49:25 (Update)_
 2. [Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/moscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-alleged-chemical-attack.md) _(Current version)_
 
 ### Related:

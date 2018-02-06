@@ -18,8 +18,8 @@ Victim is Border Police officer from Druze village; another casualty in critical
 
 ### Changes:
 
-1. [Israeli-Palestinian conflict:A vehicular attack in Jerusalem leaves one person dead and injures fourteen others as Hamas claims responsibility and calls for similar acts. ](/news/2014/11/5/israeliapalestinian-conflict-pa-vehicular-attack-in-jerusalem-leaves-one-person-dead-and-injures-fourteen-others-as-hamas-claims-responsib.md) _2017-08-25 03:41:10 (First version)_
-2. [Israeli-Palestinian conflict:: A vehicular attack in Jerusalem leaves one person dead and injures fourteen others as Hamas claims responsibility and calls for similar acts. ](/news/2014/11/5/israeli-palestinian-conflict-a-vehicular-attack-in-jerusalem-leaves-one-person-dead-and-injures-fourteen-others-as-hamas-claims-responsi.md) _2017-08-27 03:41:28 (Update)_
+1. [Israeli-Palestinian conflict:A vehicular attack in Jerusalem leaves one person dead and injures fourteen others as Hamas claims responsibility and calls for similar acts. ](/news/2014/11/5/israeliapalestinian-conflict-pa-vehicular-attack-in-jerusalem-leaves-one-person-dead-and-injures-fourteen-others-as-hamas-claims-responsib.md) _2018-02-06 13:49:26 (First version)_
+2. [Israeli-Palestinian conflict:: A vehicular attack in Jerusalem leaves one person dead and injures fourteen others as Hamas claims responsibility and calls for similar acts. ](/news/2014/11/5/israeli-palestinian-conflict-a-vehicular-attack-in-jerusalem-leaves-one-person-dead-and-injures-fourteen-others-as-hamas-claims-responsi.md) _2018-02-06 13:49:26 (Update)_
 2. [A vehicular attack in Jerusalem leaves one person dead and injures fourteen others as Hamas claims responsibility and calls for similar acts. ](/news/2014/11/5/a-vehicular-attack-in-jerusalem-leaves-one-person-dead-and-injures-fourteen-others-as-hamas-claims-responsibility-and-calls-for-similar-acts.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the
 
 ### Changes:
 
-1. [Phone hacking scandal:A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct ''News of the World''. ](/news/2013/12/19/phone-hacking-scandal-pa-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct.md) _2017-08-25 03:39:44 (First version)_
-2. [Phone hacking scandal:: A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/phone-hacking-scandal-a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunc.md) _2017-08-27 03:40:02 (Update)_
+1. [Phone hacking scandal:A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct ''News of the World''. ](/news/2013/12/19/phone-hacking-scandal-pa-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct.md) _2018-02-06 13:49:25 (First version)_
+2. [Phone hacking scandal:: A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/phone-hacking-scandal-a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunc.md) _2018-02-06 13:49:25 (Update)_
 2. [A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-
 
 ### Changes:
 
-1. [People on banknotes: The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/people-on-banknotes-the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president.md) _2017-08-27 03:48:35 (First version)_
+1. [People on banknotes: The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/people-on-banknotes-the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president.md) _2018-02-06 13:49:30 (First version)_
 1. [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md) _(Current version)_
 
 ### Related:

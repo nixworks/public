@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the
 
 ### Changes:
 
-1. [2011 Thailand floods:Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-ptens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _2017-08-25 03:34:23 (First version)_
-2. [2011 Thailand floods:: Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _2017-08-27 03:34:32 (Update)_
+1. [2011 Thailand floods:: Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _2018-02-06 13:49:23 (First version)_
+2. [2011 Thailand floods:Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-ptens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _2018-02-06 13:49:23 (Update)_
 2. [Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md) _(Current version)_
 
 ### Related:

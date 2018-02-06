@@ -16,8 +16,8 @@ Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tues
 
 ### Changes:
 
-1. [Al-Qaeda insurgency in Yemen:At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/al-qaeda-insurgency-in-yemen-pat-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md) _2017-08-25 03:40:21 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/al-qaeda-insurgency-in-yemen-at-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md) _2017-08-27 03:40:39 (Update)_
+1. [Al-Qaeda insurgency in Yemen:At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/al-qaeda-insurgency-in-yemen-pat-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md) _2018-02-06 13:49:26 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/al-qaeda-insurgency-in-yemen-at-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md) _2018-02-06 13:49:26 (Update)_
 2. [At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/at-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md) _(Current version)_
 
 ### Related:

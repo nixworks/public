@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat
 
 ### Changes:
 
-1. [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21-10-in-super-bowl-nbsp-xl.md) _2017-08-27 03:17:25 (First version)_
+1. [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21-10-in-super-bowl-nbsp-xl.md) _2018-02-06 13:49:16 (First version)_
 1. [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21a10-in-super-bowl-nbsp-xl.md) _(Current version)_
 
 ### Related:

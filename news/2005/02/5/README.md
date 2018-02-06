@@ -9,19 +9,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Bareilly
 ### [ Bareilly, India: More than 250 grams of weapons-grade uranium are found in possession of two people arrested for drug peddling in India. ](/news/2005/02/5/bareilly-india-more-than-250-grams-of-weapons-grade-uranium-are-found-in-possession-of-two-people-arrested-for-drug-peddling-in-india.md)
-_Context: Bareilly, India, uranium_
+_Context: Bareilly, uranium, India_
 
 ##### President
 ### [ President Gnassingb Eyadma of Togo dies of a heart attack at the age of 68 and is succeeded by his son Faure Gnassingb. ](/news/2005/02/5/president-gnassingbe-eyadema-of-togo-dies-of-a-heart-attack-at-the-age-of-68-and-is-succeeded-by-his-son-faure-gnassingbe.md)
-_Context: Faure Gnassingb, heart attack, President, Togo, Gnassingb Eyadma_
+_Context: President, Togo, Faure Gnassingb, Gnassingb Eyadma, heart attack_
 
 ##### China
 ### [ In the People's Republic of China, The Tenth Shaanxi Provincial People's Congress votes in favour of Acting Governor Chen Deming to become the next Governor of Shaanxi. ](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.md)
-_Context: People's Congress, gubernatorial elections, China, Shaanxi, Chen Deming_
+_Context: Chen Deming, Shaanxi, People's Congress, China, gubernatorial elections_
 
 ##### Malawi
 ### [ In Malawi, President Bingu wa Mutharika quits the governing party, the United Democratic Front, stating he is fed up of criticism of his anti-corruption campaign. The party had debated whether to expel him for alleged misconduct. ](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.md)
-_Context: President, Bingu wa Mutharika, anti-corruption, United Democratic Front, Malawi_
+_Context: President, anti-corruption, Bingu wa Mutharika, Malawi, United Democratic Front_
 
 ## [Previous Day...](/news/2005/02/4/index.md)
 

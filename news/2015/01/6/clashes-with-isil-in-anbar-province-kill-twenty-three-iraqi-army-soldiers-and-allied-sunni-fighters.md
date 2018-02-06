@@ -17,7 +17,7 @@ Iraqi officials say a suicide blast targeting security forces and subsequent cla
 
 ### Changes:
 
-1. [Islamic State of Iraq and the Levant: Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/islamic-state-of-iraq-and-the-levant-clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md) _2017-08-27 03:41:44 (First version)_
+1. [Islamic State of Iraq and the Levant: Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/islamic-state-of-iraq-and-the-levant-clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md) _2018-02-06 13:49:26 (First version)_
 1. [Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md) _(Current version)_
 
 ### Related:

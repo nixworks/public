@@ -16,8 +16,8 @@ At least 10 civilians, including four children, die in a Nato air strike in the 
 
 ### Changes:
 
-1. [War in Afghanistan (2001-present):Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001apresent-pafghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md) _2017-08-25 03:37:31 (First version)_
-2. [War in Afghanistan (2001-present):: Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001-present-afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md) _2017-08-27 03:37:42 (Update)_
+1. [War in Afghanistan (2001-present):Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001apresent-pafghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Afghanistan (2001-present):: Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001-present-afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md) _2018-02-06 13:49:24 (Update)_
 2. [Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and-injures-more-including-3-children.md) _(Current version)_
 
 ### Related:

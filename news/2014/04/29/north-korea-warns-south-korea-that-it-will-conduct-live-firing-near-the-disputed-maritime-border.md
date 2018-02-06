@@ -16,8 +16,8 @@ North Korea conducts a live-fire drill near the disputed maritime border but no 
 
 ### Changes:
 
-1. [Korean maritime border incidents:North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/korean-maritime-border-incidents-pnorth-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md) _2017-08-25 03:40:21 (First version)_
-2. [Korean maritime border incidents:: North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/korean-maritime-border-incidents-north-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md) _2017-08-27 03:40:39 (Update)_
+1. [Korean maritime border incidents:North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/korean-maritime-border-incidents-pnorth-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md) _2018-02-06 13:49:26 (First version)_
+2. [Korean maritime border incidents:: North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/korean-maritime-border-incidents-north-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md) _2018-02-06 13:49:26 (Update)_
 2. [North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/north-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md) _(Current version)_
 
 ### Related:

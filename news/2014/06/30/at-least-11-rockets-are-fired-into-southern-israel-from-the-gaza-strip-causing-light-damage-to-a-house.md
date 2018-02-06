@@ -16,7 +16,7 @@ According to military assessments, Hamas has not been behind recent rocket attac
 
 ### Changes:
 
-1. [Gaza-Israel conflict: At least 11 rockets are fired into southern Israel from the Gaza Strip causing light damage to a house. ](/news/2014/06/30/gaza-israel-conflict-at-least-11-rockets-are-fired-into-southern-israel-from-the-gaza-strip-causing-light-damage-to-a-house.md) _2017-08-27 03:40:54 (First version)_
+1. [Gaza-Israel conflict: At least 11 rockets are fired into southern Israel from the Gaza Strip causing light damage to a house. ](/news/2014/06/30/gaza-israel-conflict-at-least-11-rockets-are-fired-into-southern-israel-from-the-gaza-strip-causing-light-damage-to-a-house.md) _2018-02-06 13:49:26 (First version)_
 1. [At least 11 rockets are fired into southern Israel from the Gaza Strip causing light damage to a house. ](/news/2014/06/30/at-least-11-rockets-are-fired-into-southern-israel-from-the-gaza-strip-causing-light-damage-to-a-house.md) _(Current version)_
 
 ### Related:

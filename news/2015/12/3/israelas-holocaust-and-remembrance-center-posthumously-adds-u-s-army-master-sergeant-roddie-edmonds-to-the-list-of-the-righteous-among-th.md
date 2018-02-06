@@ -17,7 +17,7 @@ When Germans at a Nazi camp demanded that Jewish POWs identify themselves, Roddi
 
 ### Changes:
 
-1. [Israel-s Holocaust and Remembrance Center posthumously adds U.S. Army Master Sergeant Roddie Edmonds to the list of the Righteous Among the Nations for his actions in 1945 at a Nazi prisoner of war camp. ](/news/2015/12/3/israel-s-holocaust-and-remembrance-center-posthumously-adds-u-s-army-master-sergeant-roddie-edmonds-to-the-list-of-the-righteous-among-th.md) _2017-08-27 03:44:10 (First version)_
+1. [Israel-s Holocaust and Remembrance Center posthumously adds U.S. Army Master Sergeant Roddie Edmonds to the list of the Righteous Among the Nations for his actions in 1945 at a Nazi prisoner of war camp. ](/news/2015/12/3/israel-s-holocaust-and-remembrance-center-posthumously-adds-u-s-army-master-sergeant-roddie-edmonds-to-the-list-of-the-righteous-among-th.md) _2018-02-06 13:49:28 (First version)_
 1. [Israel's Holocaust and Remembrance Center posthumously adds U.S. Army Master Sergeant Roddie Edmonds to the list of the Righteous Among the Nations for his actions in 1945 at a Nazi prisoner of war camp. ](/news/2015/12/3/israelas-holocaust-and-remembrance-center-posthumously-adds-u-s-army-master-sergeant-roddie-edmonds-to-the-list-of-the-righteous-among-th.md) _(Current version)_
 
 ### Related:

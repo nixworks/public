@@ -16,8 +16,8 @@ Egypt says it has bombed Islamic State targets in Libya, hours after video emerg
 
 ### Changes:
 
-1. [ Egypt bombs Islamic State in Iraq and the Levant targets in the city of Derna in Libya following the execution of 21 Coptic Christians recently. ](/news/2015/02/16/egypt-bombs-islamic-state-in-iraq-and-the-levant-targets-in-the-city-of-derna-in-libya-following-the-execution-of-21-coptic-christians-rece.md) _2017-08-25 03:41:38 (First version)_
-2. [ Libyan Civil War (2014-present): Egypt bombs Islamic State in Iraq and the Levant targets in the city of Derna in Libya following the execution of 21 Coptic Christians recently. ](/news/2015/02/16/libyan-civil-war-2014-present-egypt-bombs-islamic-state-in-iraq-and-the-levant-targets-in-the-city-of-derna-in-libya-following-the-exe.md) _2017-08-27 03:41:57 (Update)_
+1. [ Libyan Civil War (2014-present): Egypt bombs Islamic State in Iraq and the Levant targets in the city of Derna in Libya following the execution of 21 Coptic Christians recently. ](/news/2015/02/16/libyan-civil-war-2014-present-egypt-bombs-islamic-state-in-iraq-and-the-levant-targets-in-the-city-of-derna-in-libya-following-the-exe.md) _2018-02-06 13:49:26 (First version)_
+2. [ Egypt bombs Islamic State in Iraq and the Levant targets in the city of Derna in Libya following the execution of 21 Coptic Christians recently. ](/news/2015/02/16/egypt-bombs-islamic-state-in-iraq-and-the-levant-targets-in-the-city-of-derna-in-libya-following-the-execution-of-21-coptic-christians-rece.md) _2018-02-06 13:49:26 (Update)_
 2. [Egypt bombs Islamic State in Iraq and the Levant targets in the city of Derna in Libya following the execution of 21 Coptic Christians recently. ](/news/2015/02/16/egypt-bombs-islamic-state-in-iraq-and-the-levant-targets-in-the-city-of-derna-in-libya-following-the-execution-of-21-coptic-christians-recen.md) _(Current version)_
 
 ### Related:

@@ -19,8 +19,8 @@ A senior aide to PresidentBarack Obama did not rule out on Wednesday the eventua
 
 ### Changes:
 
-1. [Syrian civil war:The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/syrian-civil-war-pthe-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md) _2017-08-25 03:36:15 (First version)_
-2. [Syrian civil war:: The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/syrian-civil-war-the-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md) _2017-08-27 03:36:26 (Update)_
+1. [Syrian civil war:: The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/syrian-civil-war-the-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md) _2018-02-06 13:49:23 (First version)_
+2. [Syrian civil war:The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/syrian-civil-war-pthe-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md) _2018-02-06 13:49:23 (Update)_
 2. [The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/the-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md) _(Current version)_
 
 ### Related:

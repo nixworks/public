@@ -18,7 +18,7 @@ Gunmen killed eight plainclothes police on the southern outskirts of Cairo overn
 
 ### Changes:
 
-1. [ Sinai insurgency: Gunmen kill eight policemen in an ambush outside Cairo. The attack is claimed by Islamic State. ](/news/2016/05/8/sinai-insurgency-gunmen-kill-eight-policemen-in-an-ambush-outside-cairo-the-attack-is-claimed-by-islamic-state.md) _2017-08-27 03:46:00 (First version)_
+1. [ Sinai insurgency: Gunmen kill eight policemen in an ambush outside Cairo. The attack is claimed by Islamic State. ](/news/2016/05/8/sinai-insurgency-gunmen-kill-eight-policemen-in-an-ambush-outside-cairo-the-attack-is-claimed-by-islamic-state.md) _2018-02-06 13:49:29 (First version)_
 1. [ Gunmen kill eight policemen in an ambush outside Cairo. The attack is claimed by Islamic State. ](/news/2016/05/8/gunmen-kill-eight-policemen-in-an-ambush-outside-cairo-the-attack-is-claimed-by-islamic-state.md) _(Current version)_
 
 ### Related:

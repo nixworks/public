@@ -22,7 +22,7 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 
 ### Changes:
 
-1. [China: China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md) _2017-08-27 03:28:29 (First version)_
+1. [China: China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md) _2018-02-06 13:49:20 (First version)_
 1. [China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md) _(Current version)_
 
 ### Related:

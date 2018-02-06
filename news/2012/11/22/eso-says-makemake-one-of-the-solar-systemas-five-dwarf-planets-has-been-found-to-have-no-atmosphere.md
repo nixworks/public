@@ -16,7 +16,7 @@ First look at Kuiper Belt object also reveals no shroud of gases
 
 ### Changes:
 
-1. [ESO says Makemake, one of the solar system-s five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-system-s-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md) _2017-08-27 03:37:01 (First version)_
+1. [ESO says Makemake, one of the solar system-s five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-system-s-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md) _2018-02-06 13:49:24 (First version)_
 1. [ESO says Makemake, one of the solar system's five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-systemas-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md) _(Current version)_
 
 ### Related:

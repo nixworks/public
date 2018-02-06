@@ -21,8 +21,8 @@ Formats: [HTML](/news/2011/02/23/300-persons-are-estimated-to-be-still-missing-i
 
 ### Changes:
 
-1. [2011 Canterbury earthquake:300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/2011-canterbury-earthquake-p300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-wit.md) _2017-08-25 03:32:19 (First version)_
-2. [2011 Canterbury earthquake:: 300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/2011-canterbury-earthquake-300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-wi.md) _2017-08-27 03:32:26 (Update)_
+1. [2011 Canterbury earthquake:300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/2011-canterbury-earthquake-p300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-wit.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Canterbury earthquake:: 300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/2011-canterbury-earthquake-300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-wi.md) _2018-02-06 13:49:22 (Update)_
 2. [300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-with-the-official-death-toll-re.md) _(Current version)_
 
 ### Related:

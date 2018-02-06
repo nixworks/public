@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/05/15/voters-in-the-dominican-republic-go-to-the-poll
 
 ### Changes:
 
-1. [Dominican Republic general election, 2016: Voters in the Dominican Republic go to the polls for a general election. ](/news/2016/05/15/dominican-republic-general-election-2016-voters-in-the-dominican-republic-go-to-the-polls-for-a-general-election.md) _2017-08-27 03:46:02 (First version)_
+1. [Dominican Republic general election, 2016: Voters in the Dominican Republic go to the polls for a general election. ](/news/2016/05/15/dominican-republic-general-election-2016-voters-in-the-dominican-republic-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:29 (First version)_
 1. [Voters in the Dominican Republic go to the polls for a general election. ](/news/2016/05/15/voters-in-the-dominican-republic-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

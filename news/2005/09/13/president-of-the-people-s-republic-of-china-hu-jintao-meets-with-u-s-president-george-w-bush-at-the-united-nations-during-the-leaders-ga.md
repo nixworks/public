@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-
 
 ### Changes:
 
-1. [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-g.md) _2017-08-25 03:16:47 (First version)_
+1. [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-g.md) _2018-02-06 13:49:16 (First version)_
 1. [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-ga.md) _(Current version)_
 
 ### Related:

@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/08/10/the-president-of-iraqi-kurdistan-massoud-barzan
 
 ### Changes:
 
-1. [2014 Iraq conflict:The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-pthe-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milita.md) _2017-08-25 03:40:50 (First version)_
-2. [2014 Iraq conflict:: The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milit.md) _2017-08-27 03:41:08 (Update)_
+1. [2014 Iraq conflict:: The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milit.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Iraq conflict:The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-pthe-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milita.md) _2018-02-06 13:49:26 (Update)_
 2. [The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-militants.md) _(Current version)_
 
 ### Related:

@@ -17,5 +17,5 @@ The Obama administration rejected calls for a nationwide moratorium on housing f
 
 ### Changes:
 
-1. [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hur.md) _2017-08-25 03:30:29 (First version)_
+1. [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hur.md) _2018-02-06 13:49:20 (First version)_
 1. [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hurt.md) _(Current version)_

@@ -17,8 +17,8 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 
 ### Changes:
 
-1. [Arab Spring:Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-pbahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the.md) _2017-08-25 03:35:58 (First version)_
-2. [Arab Spring:: Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md) _2017-08-27 03:36:10 (Update)_
+1. [Arab Spring:Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-pbahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:: Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md) _2018-02-06 13:49:23 (Update)_
 2. [Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the-revolt-again.md) _(Current version)_
 
 ### Related:

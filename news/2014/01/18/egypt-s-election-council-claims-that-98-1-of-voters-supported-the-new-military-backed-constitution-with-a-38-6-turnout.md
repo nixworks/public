@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-vo
 
 ### Changes:
 
-1. [Egyptian constitutional referendum, 2014: Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egyptian-constitutional-referendum-2014-egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitutio.md) _2017-08-27 03:40:12 (First version)_
+1. [Egyptian constitutional referendum, 2014: Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egyptian-constitutional-referendum-2014-egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitutio.md) _2018-02-06 13:49:25 (First version)_
 1. [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md) _(Current version)_
 
 ### Related:

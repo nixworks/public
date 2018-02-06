@@ -16,7 +16,7 @@ The US and Russia reach an agreement on Syria, starting with a cessation of host
 
 ### Changes:
 
-1. [Syrian civil war and The U.S. Obama administration and the Russian Putin administration agree to a Syrian peace deal. The deal is intended to end combat in specified areas and create a joint center of combat to fight ISIL and Al-Nusra Front. ](/news/2016/09/10/syrian-civil-war-and-the-u-s-obama-administration-and-the-russian-putin-administration-agree-to-a-syrian-peace-deal-the-deal-is-intended-t.md) _2017-08-25 03:46:26 (First version)_
+1. [Syrian civil war and The U.S. Obama administration and the Russian Putin administration agree to a Syrian peace deal. The deal is intended to end combat in specified areas and create a joint center of combat to fight ISIL and Al-Nusra Front. ](/news/2016/09/10/syrian-civil-war-and-the-u-s-obama-administration-and-the-russian-putin-administration-agree-to-a-syrian-peace-deal-the-deal-is-intended-t.md) _2018-02-06 13:49:29 (First version)_
 1. [The U.S. Obama administration and the Russian Putin administration agree to a Syrian peace deal. The deal is intended to end combat in specified areas and create a joint center of combat to fight ISIL and Al-Nusra Front. ](/news/2016/09/10/the-u-s-obama-administration-and-the-russian-putin-administration-agree-to-a-syrian-peace-deal-the-deal-is-intended-to-end-combat-in-speci.md) _(Current version)_
 
 ### Related:

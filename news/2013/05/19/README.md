@@ -13,7 +13,7 @@ _Context: Taylor Swift, Billboard Music Awards_
 
 ##### Star Trek Into Darkness
 ### ["Star Trek Into Darkness" earns an estimated US$70.6 million during its opening weekend in the US and Canada. ](/news/2013/05/19/star-trek-into-darkness-earns-an-estimated-us-70-6-million-during-its-opening-weekend-in-the-us-and-canada.md)
-_Context: Star Trek Into Darkness, US$_
+_Context: US$, Star Trek Into Darkness_
 
 ##### tornado
 ### [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md)

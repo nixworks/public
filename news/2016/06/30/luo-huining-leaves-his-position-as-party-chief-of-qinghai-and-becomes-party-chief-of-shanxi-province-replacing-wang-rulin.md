@@ -16,8 +16,8 @@ Formats: [HTML](/news/2016/06/30/luo-huining-leaves-his-position-as-party-chief-
 
 ### Changes:
 
-1. [Political reshuffle in the Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/political-reshuffle-in-the-luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-shanxi-province-replacing-w.md) _2017-08-25 03:46:00 (First version)_
-2. [Political reshuffle in the Communist Party of China: Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/political-reshuffle-in-the-communist-party-of-china-luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-sh.md) _2017-08-27 03:46:22 (Update)_
+1. [Political reshuffle in the Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/political-reshuffle-in-the-luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-shanxi-province-replacing-w.md) _2018-02-06 13:49:29 (First version)_
+2. [Political reshuffle in the Communist Party of China: Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/political-reshuffle-in-the-communist-party-of-china-luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-sh.md) _2018-02-06 13:49:29 (Update)_
 2. [Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-shanxi-province-replacing-wang-rulin.md) _(Current version)_
 
 ### Related:

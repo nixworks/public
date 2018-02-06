@@ -18,8 +18,8 @@ An Iranian opposition leader, Mehdi Karroubi, was placed under house arrest yest
 
 ### Changes:
 
-1. [Anniversary of Iranian Revolution:Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-piran-marks-the-32nd-anniversary-of-its-revolution.md) _2017-08-25 03:32:08 (First version)_
-2. [Anniversary of Iranian Revolution:: Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-iran-marks-the-32nd-anniversary-of-its-revolution.md) _2017-08-27 03:32:16 (Update)_
+1. [Anniversary of Iranian Revolution:Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-piran-marks-the-32nd-anniversary-of-its-revolution.md) _2018-02-06 13:49:21 (First version)_
+2. [Anniversary of Iranian Revolution:: Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-iran-marks-the-32nd-anniversary-of-its-revolution.md) _2018-02-06 13:49:21 (Update)_
 2. [Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/iran-marks-the-32nd-anniversary-of-its-revolution.md) _(Current version)_
 
 ### Related:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2016/04/22/the-commission-on-election-announced-that-the-m
 
 ### Changes:
 
-1. [Philippine general election, 2016: The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.](/news/2016/04/22/philippine-general-election-2016-the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach.md) _2017-08-27 03:45:46 (First version)_
+1. [Philippine general election, 2016: The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.](/news/2016/04/22/philippine-general-election-2016-the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach.md) _2018-02-06 13:49:28 (First version)_
 1. [The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.md) _(Current version)_
 
 ### Related:

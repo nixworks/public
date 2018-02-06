@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-h
 
 ### Changes:
 
-1. [ Australian ''60 Minutes'' reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-re.md) _2017-08-25 03:45:14 (First version)_
+1. [ Australian ''60 Minutes'' reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-re.md) _2018-02-06 13:49:28 (First version)_
 1. [ Australian "60 Minutes" reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-reco.md) _(Current version)_
 
 ### Related:

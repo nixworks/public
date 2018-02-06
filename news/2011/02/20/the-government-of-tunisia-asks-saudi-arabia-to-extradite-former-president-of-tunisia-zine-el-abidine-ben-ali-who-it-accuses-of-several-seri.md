@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-
 
 ### Changes:
 
-1. [The Government of Tunisia asks Saudi Arabia to extradite former President of Tunisia Zine El Abidine Ben Ali who it accuses of "several serious crimes.". ](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-extradite-former-president-of-tunisia-zine-el-abidine-ben-ali-who-it-accuses-of-several-ser.md) _2017-08-25 03:32:17 (First version)_
+1. [The Government of Tunisia asks Saudi Arabia to extradite former President of Tunisia Zine El Abidine Ben Ali who it accuses of "several serious crimes.". ](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-extradite-former-president-of-tunisia-zine-el-abidine-ben-ali-who-it-accuses-of-several-ser.md) _2018-02-06 13:49:22 (First version)_
 1. [The Government of Tunisia asks Saudi Arabia to extradite former President of Tunisia Zine El Abidine Ben Ali who it accuses of "several serious crimes.". ](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-extradite-former-president-of-tunisia-zine-el-abidine-ben-ali-who-it-accuses-of-several-seri.md) _(Current version)_
 
 ### Related:

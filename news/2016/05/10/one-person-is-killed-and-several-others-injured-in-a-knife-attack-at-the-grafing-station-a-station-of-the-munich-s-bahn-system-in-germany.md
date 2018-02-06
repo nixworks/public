@@ -16,7 +16,7 @@ A 27-year-old suspected of killing one commuter and injuring three others in a k
 
 ### Changes:
 
-1. [ Munich knife attack: One person is killed and several others injured in a knife attack at the Grafing station, a station of the Munich S-Bahn system in Germany. ](/news/2016/05/10/munich-knife-attack-one-person-is-killed-and-several-others-injured-in-a-knife-attack-at-the-grafing-station-a-station-of-the-munich-s-ba.md) _2017-08-27 03:46:00 (First version)_
+1. [ Munich knife attack: One person is killed and several others injured in a knife attack at the Grafing station, a station of the Munich S-Bahn system in Germany. ](/news/2016/05/10/munich-knife-attack-one-person-is-killed-and-several-others-injured-in-a-knife-attack-at-the-grafing-station-a-station-of-the-munich-s-ba.md) _2018-02-06 13:49:29 (First version)_
 1. [One person is killed and several others injured in a knife attack at the Grafing station, a station of the Munich S-Bahn system in Germany. ](/news/2016/05/10/one-person-is-killed-and-several-others-injured-in-a-knife-attack-at-the-grafing-station-a-station-of-the-munich-s-bahn-system-in-germany.md) _(Current version)_
 
 ### Related:

@@ -15,8 +15,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [2014 Minya court rulings:A court in Egypt confirms the death sentences of over 180 Islamists, including Mohamed Badie, the top leader of the Muslim Brotherhood. ](/news/2014/06/20/2014-minya-court-rulings-pa-court-in-egypt-confirms-the-death-sentences-of-over-180-islamists-including-mohamed-badie-the-top-leader-of-th.md) _2017-08-25 03:40:35 (First version)_
-2. [2014 Minya court rulings:: A court in Egypt confirms the death sentences of over 180 Islamists, including Mohamed Badie, the top leader of the Muslim Brotherhood. ](/news/2014/06/20/2014-minya-court-rulings-a-court-in-egypt-confirms-the-death-sentences-of-over-180-islamists-including-mohamed-badie-the-top-leader-of-t.md) _2017-08-27 03:40:52 (Update)_
+1. [2014 Minya court rulings:A court in Egypt confirms the death sentences of over 180 Islamists, including Mohamed Badie, the top leader of the Muslim Brotherhood. ](/news/2014/06/20/2014-minya-court-rulings-pa-court-in-egypt-confirms-the-death-sentences-of-over-180-islamists-including-mohamed-badie-the-top-leader-of-th.md) _2018-02-06 13:49:26 (First version)_
+2. [2014 Minya court rulings:: A court in Egypt confirms the death sentences of over 180 Islamists, including Mohamed Badie, the top leader of the Muslim Brotherhood. ](/news/2014/06/20/2014-minya-court-rulings-a-court-in-egypt-confirms-the-death-sentences-of-over-180-islamists-including-mohamed-badie-the-top-leader-of-t.md) _2018-02-06 13:49:26 (Update)_
 2. [A court in Egypt confirms the death sentences of over 180 Islamists, including Mohamed Badie, the top leader of the Muslim Brotherhood. ](/news/2014/06/20/a-court-in-egypt-confirms-the-death-sentences-of-over-180-islamists-including-mohamed-badie-the-top-leader-of-the-muslim-brotherhood.md) _(Current version)_
 
 ### Related:

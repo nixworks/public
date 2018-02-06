@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/2/boko-haram-militants-attack-a-bus-in-waza-camero
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria: Boko Haram militants attack a bus in Waza, Cameroon, killing eleven people and injuring six. ](/news/2015/01/2/islamist-insurgency-in-nigeria-boko-haram-militants-attack-a-bus-in-waza-cameroon-killing-eleven-people-and-injuring-six.md) _2017-08-27 03:41:42 (First version)_
+1. [Islamist insurgency in Nigeria: Boko Haram militants attack a bus in Waza, Cameroon, killing eleven people and injuring six. ](/news/2015/01/2/islamist-insurgency-in-nigeria-boko-haram-militants-attack-a-bus-in-waza-cameroon-killing-eleven-people-and-injuring-six.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram militants attack a bus in Waza, Cameroon, killing eleven people and injuring six. ](/news/2015/01/2/boko-haram-militants-attack-a-bus-in-waza-cameroon-killing-eleven-people-and-injuring-six.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chop
 
 ### Changes:
 
-1. [ A man steals -6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-6-million-in-jewellery-from-chopard-in-paris-france.md) _2017-08-27 03:24:35 (First version)_
+1. [ A man steals -6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-6-million-in-jewellery-from-chopard-in-paris-france.md) _2018-02-06 13:49:19 (First version)_
 1. [ A man steals EUR6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chopard-in-paris-france.md) _(Current version)_
 
 ### Related:

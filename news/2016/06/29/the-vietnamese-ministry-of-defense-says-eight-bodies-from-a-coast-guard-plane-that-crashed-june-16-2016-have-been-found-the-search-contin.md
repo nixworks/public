@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/06/29/the-vietnamese-ministry-of-defense-says-eight-b
 
 ### Changes:
 
-1. [The Vietnamese Ministry of Defense says eight bodies from a Coast Guard plane that crashed June 16, 2016, have been found. The search continues for the ninth crew member. The CASA C-212 Aviocar was on a search and rescue mission for the then-missing pilot of a crashed Su30-MK2 fighter jet; the pilot's body was found on the 17th. ](/news/2016/06/29/the-vietnamese-ministry-of-defense-says-eight-bodies-from-a-coast-guard-plane-that-crashed-june-16-2016-have-been-found-the-search-conti.md) _2017-08-25 03:46:00 (First version)_
+1. [The Vietnamese Ministry of Defense says eight bodies from a Coast Guard plane that crashed June 16, 2016, have been found. The search continues for the ninth crew member. The CASA C-212 Aviocar was on a search and rescue mission for the then-missing pilot of a crashed Su30-MK2 fighter jet; the pilot's body was found on the 17th. ](/news/2016/06/29/the-vietnamese-ministry-of-defense-says-eight-bodies-from-a-coast-guard-plane-that-crashed-june-16-2016-have-been-found-the-search-conti.md) _2018-02-06 13:49:29 (First version)_
 1. [The Vietnamese Ministry of Defense says eight bodies from a Coast Guard plane that crashed June 16, 2016, have been found. The search continues for the ninth crew member. The CASA C-212 Aviocar was on a search and rescue mission for the then-missing pilot of a crashed Su30-MK2 fighter jet; the pilot's body was found on the 17th. ](/news/2016/06/29/the-vietnamese-ministry-of-defense-says-eight-bodies-from-a-coast-guard-plane-that-crashed-june-16-2016-have-been-found-the-search-contin.md) _(Current version)_
 
 ### Related:

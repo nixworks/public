@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-n
 
 ### Changes:
 
-1. [ The French newspaper ''Le Monde'' claims that the November 13, 2015 Paris attacks were coordinated from Belgium by a single unidentified suspect. ](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-november-13-2015-paris-attacks-were-coordinated-from-belgium-by-a-single-unidentified-su.md) _2017-08-25 03:44:11 (First version)_
+1. [ The French newspaper ''Le Monde'' claims that the November 13, 2015 Paris attacks were coordinated from Belgium by a single unidentified suspect. ](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-november-13-2015-paris-attacks-were-coordinated-from-belgium-by-a-single-unidentified-su.md) _2018-02-06 13:49:28 (First version)_
 1. [ The French newspaper "Le Monde" claims that the November 13, 2015 Paris attacks were coordinated from Belgium by a single unidentified suspect. ](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-november-13-2015-paris-attacks-were-coordinated-from-belgium-by-a-single-unidentified-susp.md) _(Current version)_
 
 ### Related:

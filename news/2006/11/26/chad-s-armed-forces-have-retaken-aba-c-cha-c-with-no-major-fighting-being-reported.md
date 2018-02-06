@@ -16,8 +16,8 @@ Formats: [HTML](/news/2006/11/26/chad-s-armed-forces-have-retaken-aba-c-cha-c-wi
 
 ### Changes:
 
-1. [ War in Chad (2005-present): Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _2017-08-25 03:18:50 (First version)_
-2. [ War in Chad (2005-present):: Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005-present-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _2017-08-27 03:18:45 (Update)_
+1. [ War in Chad (2005-present): Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _2018-02-06 13:49:17 (First version)_
+2. [ War in Chad (2005-present):: Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005-present-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _2018-02-06 13:49:17 (Update)_
 2. [ Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _(Current version)_
 
 ### Related:

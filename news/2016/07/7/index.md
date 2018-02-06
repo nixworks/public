@@ -13,7 +13,7 @@ Armando Rios First Front calls on other units to join in the ‘fight for the ta
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md)
-_Context: mausoleum, Iraqi Civil War (2014-present), Shiite, Baghdad, Islamic State in Iraq and the Levant_
+_Context: Shiite, Islamic State in Iraq and the Levant, Baghdad, Iraqi Civil War (2014-present), mausoleum_
 
 ##### Danone
 ### [French food company Danone agrees to buy American company WhiteWave Foods for $10 billion. ](/news/2016/07/7/french-food-company-danone-agrees-to-buy-american-company-whitewave-foods-for-10-billion.md)
@@ -33,7 +33,7 @@ _Context: Songshan Station_
 
 ##### Ukraine-United States relations
 ### [U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-ending-the-conflict-in-the-east-of-the.md)
-_Context: War in Donbass, United States Secretary of State, 2016 Warsaw summit, Ukraine-United States relations, Ukraine, Kiev,  Georgian, John Kerry_
+_Context:  Georgian, Ukraine-United States relations, Kiev, John Kerry, Ukraine, United States Secretary of State, 2016 Warsaw summit, War in Donbass_
 
 ##### Cuba-United States relations
 ### [The United States tentatively approves eight, of 12 that applied, airlines for flights from 10 U.S. cities to Havana as early as this fall: Alaska Airlines, American Airlines, Delta Air Lines, Frontier Airlines, JetBlue Airways, Southwest Airlines, Spirit Airlines, and United Airlines. Last month, flights were approved from five U.S. cities to nine other international airports. ](/news/2016/07/7/the-united-states-tentatively-approves-eight-of-12-that-applied-airlines-for-flights-from-10-u-s-cities-to-havana-as-early-as-this-fall.md)
@@ -41,7 +41,7 @@ The United States has tentatively approved flights on eight U.S. airlines to Hav
 
 ##### drug crackdown
 ### [The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers-in-the-country.md)
-_Context: deaths, decades-old problem, drug crackdown, House of Representatives_
+_Context: decades-old problem, deaths, House of Representatives, drug crackdown_
 
 ##### Rape in Germany
 ### [Germany's parliament passes a new law saying that it is rape to have sex with a person who says "No" to the sex. Under the previous law, sex was not considered rape unless the victim fought back. The new law also classifies groping as a sex crime, makes it easier to deport migrants who commit sex offences, and makes it easier to prosecute assaults committed by a large group. ](/news/2016/07/7/germany-s-parliament-passes-a-new-law-saying-that-it-is-rape-to-have-sex-with-a-person-who-says-no-to-the-sex-under-the-previous-law-sex.md)
@@ -73,11 +73,11 @@ Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain p
 
 ##### Conservative Party (UK) leadership election, 2016
 ### [Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. ](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.md)
-_Context: Department of Energy and Climate Change, Theresa May, David Cameron, Conservative Party (UK) leadership election, 2016, Conservative Party, Prime Minister, Andrea Leadsom, Secretary of State for Justice, Michael Gove, Parliament, Home Secretary_
+_Context: Prime Minister, Andrea Leadsom, Michael Gove, Conservative Party (UK) leadership election, 2016, Home Secretary, Department of Energy and Climate Change, Secretary of State for Justice, Parliament, Conservative Party, David Cameron, Theresa May_
 
 ##### Hillary Clinton email scandal
 ### [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md)
-_Context: State Department, Hillary Clinton email scandal, Hillary Clinton, Democrat_
+_Context: State Department, Hillary Clinton email scandal, Democrat, Hillary Clinton_
 
 ##### Hitomi x-ray spacecraft
 ### [Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. ](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.md)

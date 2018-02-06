@@ -17,7 +17,7 @@ More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave
 
 ### Changes:
 
-1. [United States presidential election, 2016: Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/united-states-presidential-election-2016-vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md) _2017-08-27 03:43:26 (First version)_
+1. [United States presidential election, 2016: Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/united-states-presidential-election-2016-vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md) _2018-02-06 13:49:28 (First version)_
 1. [Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md) _(Current version)_
 
 ### Related:

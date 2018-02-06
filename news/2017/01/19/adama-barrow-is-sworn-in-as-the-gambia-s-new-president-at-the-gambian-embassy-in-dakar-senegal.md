@@ -17,7 +17,7 @@ Adama Barrow is sworn in as Gambian president in Senegal as strongman Yahya Jamm
 
 ### Changes:
 
-1. [2016-17 Gambian constitutional crisis: Adama Barrow is sworn in as the Gambia's new President at the Gambian embassy in Dakar, Senegal. ](/news/2017/01/19/2016-17-gambian-constitutional-crisis-adama-barrow-is-sworn-in-as-the-gambia-s-new-president-at-the-gambian-embassy-in-dakar-senegal.md) _2017-08-27 03:47:38 (First version)_
+1. [2016-17 Gambian constitutional crisis: Adama Barrow is sworn in as the Gambia's new President at the Gambian embassy in Dakar, Senegal. ](/news/2017/01/19/2016-17-gambian-constitutional-crisis-adama-barrow-is-sworn-in-as-the-gambia-s-new-president-at-the-gambian-embassy-in-dakar-senegal.md) _2018-02-06 13:49:30 (First version)_
 1. [Adama Barrow is sworn in as the Gambia's new President at the Gambian embassy in Dakar, Senegal. ](/news/2017/01/19/adama-barrow-is-sworn-in-as-the-gambia-s-new-president-at-the-gambian-embassy-in-dakar-senegal.md) _(Current version)_
 
 ### Related:

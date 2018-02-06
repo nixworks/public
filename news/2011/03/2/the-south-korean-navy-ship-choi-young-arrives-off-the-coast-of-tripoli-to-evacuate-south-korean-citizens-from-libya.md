@@ -20,7 +20,7 @@ Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers
 
 ### Changes:
 
-1. [2011 Libyan civil war: The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/2011-libyan-civil-war-the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md) _2017-08-27 03:32:32 (First version)_
+1. [2011 Libyan civil war: The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/2011-libyan-civil-war-the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md) _2018-02-06 13:49:22 (First version)_
 1. [The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md) _(Current version)_
 
 ### Related:

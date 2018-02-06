@@ -21,11 +21,11 @@ There are concerns about whether the forces that have driven the market rally â€
 
 ##### Venezuela
 ### [Venezuela announces its intention to expel a member of the United States embassy working as a US Air Force military attache. The U.S. official is accused of spying on the military and meeting with officials to plan destabilizing the country. ](/news/2013/03/5/venezuela-announces-its-intention-to-expel-a-member-of-the-united-states-embassy-working-as-a-us-air-force-military-attacha-c-the-u-s-offic.md)
-_Context: United States Air Force, military attache, embassy, U.S., United States, Venezuela_
+_Context: military attache, embassy, U.S., United States, United States Air Force, Venezuela_
 
 ##### United Nations Security Council
 ### [The UN Security Council holds a closed-door session to discuss new sanctions against North Korea following reports of an agreement on a draft resolution between the United States and China. North Korea announces plans to nullify the armistice agreement that ended the Korean War. ](/news/2013/03/5/the-un-security-council-holds-a-closed-door-session-to-discuss-new-sanctions-against-north-korea-following-reports-of-an-agreement-on-a-draf.md)
-_Context: Korean War, United States, United Nations Security Council, China, North Korea, Korean Armistice Agreement, 2013_
+_Context: 2013, North Korea, United Nations Security Council, Korean War, China, United States, Korean Armistice Agreement_
 
 ##### Americans
 ### [A black American political candidate "was dragged and set on fire" during his murder in the U.S. state of Mississippi, say his family. The corpse of Marco McMillian was found bruised and burned near a levee on the Mississippi River. ](/news/2013/03/5/a-black-american-political-candidate-was-dragged-and-set-on-fire-during-his-murder-in-the-u-s-state-of-mississippi-say-his-family-the-c.md)
@@ -47,13 +47,13 @@ Kenyan authorities hope to deliver the final outcome of a presidential vote on W
 ### [The government of Moldova falls in a confidence vote after the government coalition broke down. ](/news/2013/03/5/the-government-of-moldova-falls-in-a-confidence-vote-after-the-government-coalition-broke-down.md)
 _Context: government of Moldova, government coalition_
 
-##### British
+##### United Kingdom
 ### [UK Secretary of State for Defence Philip Hammond announces the closure of four Army bases as part of a shake-up to accommodate the return of thousands of British troops stationed in Germany. ](/news/2013/03/5/uk-secretary-of-state-for-defence-philip-hammond-announces-the-closure-of-four-army-bases-as-part-of-a-shake-up-to-accommodate-the-return-of.md)
 Four Army bases are to close as part of a shake-up to accommodate thousands of troops returning from Germany.
 
 ##### United States
 ### [Voters in the American city of Los Angeles, California, go to the polls for a mayoral election with Eric Garcetti and Wendy Greuel to contest a runoff on 21 May 2013. ](/news/2013/03/5/voters-in-the-american-city-of-los-angeles-california-go-to-the-polls-for-a-mayoral-election-with-eric-garcetti-and-wendy-greuel-to-contes.md)
-_Context: Wendy Greuel, second round, California, Eric Garcetti, mayoral election, Los Angeles, United States_
+_Context: mayoral election, Wendy Greuel, California, second round, Eric Garcetti, United States, Los Angeles_
 
 ##### Japan
 ### [Japanese carrier Willcom announces the Phone Strap 2 WX06A, which weighs only 32 grams. The company advertises it as the world's "smallest and lightest phone". ](/news/2013/03/5/japanese-carrier-willcom-announces-the-phone-strap-2-wx06a-which-weighs-only-32-grams-the-company-advertises-it-as-the-world-s-smallest-a.md)

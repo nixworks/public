@@ -16,8 +16,8 @@ Formats: [HTML](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-23-mi-
 
 ### Changes:
 
-1. [A 6.7-magnitude earthquake, at a depth of {{convert|23|mi|km|0|abbr=on}}, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-convert-23-mi-km-0-abbr-on-rocks-valparaaso-chile.md) _2017-05-01 03:38:04 (First version)_
-2. [A 6.7-magnitude earthquake, at a depth of 23|mi|km|0|abbr=on, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-23-mi-km-0-abbr-on-rocks-valparaaso-chile.md) _2017-08-29 03:35:33 (Update)_
+1. [A 6.7-magnitude earthquake, at a depth of {{convert|23|mi|km|0|abbr=on}}, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-convert-23-mi-km-0-abbr-on-rocks-valparaaso-chile.md) _2018-02-06 13:49:23 (First version)_
+2. [A 6.7-magnitude earthquake, at a depth of 23|mi|km|0|abbr=on, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-23-mi-km-0-abbr-on-rocks-valparaaso-chile.md) _2018-02-06 13:49:23 (Update)_
 2. [A 6.7-magnitude earthquake, at a depth of 23 mi abbr=on, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-23-mi-abbr-on-rocks-valparaaso-chile.md) _(Current version)_
 
 ### Related:

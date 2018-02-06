@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-t
 
 ### Changes:
 
-1. [U.S. President Donald Trump visits Japan. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan.md) _2017-11-07 00:30:06 (First version)_
+1. [U.S. President Donald Trump visits Japan. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ The FDA announced its approval of Genvoya , a new pill to treat HIV that researc
 
 ### Changes:
 
-1. [The U.S. Food and Drug Administration approves a new, all-in-one pill to treat HIV patients that includes a new version of the drug tenofovir, which researchers think will help reduce side effects from the multi-drug regimens used for HIV. ](/news/2015/11/6/the-u-s-food-and-drug-administration-approves-a-new-all-in-one-pill-to-treat-hiv-patients-that-includes-a-new-version-of-the-drug-tenofov.md) _2017-08-25 03:43:23 (First version)_
+1. [The U.S. Food and Drug Administration approves a new, all-in-one pill to treat HIV patients that includes a new version of the drug tenofovir, which researchers think will help reduce side effects from the multi-drug regimens used for HIV. ](/news/2015/11/6/the-u-s-food-and-drug-administration-approves-a-new-all-in-one-pill-to-treat-hiv-patients-that-includes-a-new-version-of-the-drug-tenofov.md) _2018-02-06 13:49:28 (First version)_
 1. [The U.S. Food and Drug Administration approves a new, all-in-one pill to treat HIV patients that includes a new version of the drug tenofovir, which researchers think will help reduce side effects from the multi-drug regimens used for HIV. ](/news/2015/11/6/the-u-s-food-and-drug-administration-approves-a-new-all-in-one-pill-to-treat-hiv-patients-that-includes-a-new-version-of-the-drug-tenofovi.md) _(Current version)_
 
 ### Related:

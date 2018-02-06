@@ -16,7 +16,7 @@ Dorchester County, in South Carolina, was worried about the risk posed by Zika. 
 
 ### Changes:
 
-1. [Bees and toxic chemicals: Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/bees-and-toxic-chemicals-over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-z.md) _2017-08-27 03:46:45 (First version)_
+1. [Bees and toxic chemicals: Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/bees-and-toxic-chemicals-over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-z.md) _2018-02-06 13:49:29 (First version)_
 1. [Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-zika-virus.md) _(Current version)_
 
 ### Related:

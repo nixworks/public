@@ -9,7 +9,7 @@ Venezuelan President Hugo Chavez on Thursday threatened to stop selling oil to E
 
 ##### Iraqi security forces
 ### [ Iraqi security forces enter the city of Amarah, arrest its Sadrist mayor, and take control. ](/news/2008/06/19/iraqi-security-forces-enter-the-city-of-amarah-arrest-its-sadrist-mayor-and-take-control.md)
-_Context: Amarah, Sadrist, Iraqi security forces_
+_Context: Sadrist, Amarah, Iraqi security forces_
 
 ##### Alabama
 ### [ An Alabama state judge upholds a fraud verdict against AstraZeneca Pharmaceuticals in a Medicaid drug pricing suit but reduces the value of damages to $160 million. ](/news/2008/06/19/an-alabama-state-judge-upholds-a-fraud-verdict-against-astrazeneca-pharmaceuticals-in-a-medicaid-drug-pricing-suit-but-reduces-the-value-of.md)
@@ -17,7 +17,7 @@ _Context: Medicaid, $, Alabama, AstraZeneca_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
-_Context: President, Iraq, United States, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, President, United States, Iraq_
 
 ##### housing crisis
 ### [ A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.md)
@@ -25,19 +25,19 @@ _Context: Christopher Dodd, housing crisis, Countrywide Financial Corp, bailout,
 
 ##### Royal Dutch Shell
 ### [ Royal Dutch Shell shuts down an offshore oil installation in Nigeria after an attack from the Movement for the Emancipation of the Niger Delta. ](/news/2008/06/19/royal-dutch-shell-shuts-down-an-offshore-oil-installation-in-nigeria-after-an-attack-from-the-movement-for-the-emancipation-of-the-niger-de.md)
-_Context: Royal Dutch Shell, Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Movement for the Emancipation of the Niger Delta, Nigeria, Royal Dutch Shell_
 
 ##### Zimbabwe
 ### [ Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others-on-a-wanted-list.md)
-_Context: Movement for Democratic Change, Zimbabwe_
+_Context: Zimbabwe, Movement for Democratic Change_
 
 ##### Lee Myung-bak
 ### [ Lee Myung-bak, the President of South Korea, apologises to South Koreans over an unpopular decision to resume importing beef from the United States. ](/news/2008/06/19/lee-myung-bak-the-president-of-south-korea-apologises-to-south-koreans-over-an-unpopular-decision-to-resume-importing-beef-from-the-unite.md)
-_Context: Lee Myung-bak, South Korea, beef imports, South Korean President, United States_
+_Context: South Korean President, United States, beef imports, Lee Myung-bak, South Korea_
 
 ##### government
 ### [ Commencing at dawn, the Israeli Government and Hamas declare a truce in the Israel-Gaza conflict, halting attacks across the border between the Gaza Strip and Israel. ](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-hamas-declare-a-truce-in-the-israel-gaza-conflict-halting-attacks-across-the-border-between.md)
-_Context: Israel, Gaza Strip, Israel-Gaza conflict, government, Hamas_
+_Context: Israel, Gaza Strip, Israel-Gaza conflict, Hamas, government_
 
 ##### HMCS ''Chicoutimi''
 ### [ A report reveals sailors onboard the submarine HMCS "Chicoutimi" during a 2004 fire may develop serious health problems as a result. ](/news/2008/06/19/a-report-reveals-sailors-onboard-the-submarine-hmcs-chicoutimi-during-a-2004-fire-may-develop-serious-health-problems-as-a-result.md)
@@ -45,7 +45,7 @@ _Context: HMCS ''Chicoutimi''_
 
 ##### EUFOR
 ### [ Four German and Spanish servicemen die when their EUFOR helicopter crashes in Bosnia and Herzegovina. ](/news/2008/06/19/four-german-and-spanish-servicemen-die-when-their-eufor-helicopter-crashes-in-bosnia-and-herzegovina.md)
-_Context: EUFOR, Bosnia and Herzegovina_
+_Context: Bosnia and Herzegovina, EUFOR_
 
 ## [Previous Day...](/news/2008/06/18/index.md)
 

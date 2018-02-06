@@ -16,7 +16,7 @@ A woman suicide bomber blew herself up and killed 27 others at a market in north
 
 ### Changes:
 
-1. [Boko Haram insurgency: Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/boko-haram-insurgency-three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _2017-08-27 03:48:48 (First version)_
+1. [Boko Haram insurgency: Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/boko-haram-insurgency-three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _2018-02-06 13:49:31 (First version)_
 1. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _(Current version)_
 
 ### Related:

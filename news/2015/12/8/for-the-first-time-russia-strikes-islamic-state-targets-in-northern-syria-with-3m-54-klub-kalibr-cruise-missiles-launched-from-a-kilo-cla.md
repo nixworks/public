@@ -18,7 +18,7 @@ Russia has, for the first time, targeted Islamic State targets in Syria with Kal
 
 ### Changes:
 
-1. [Russian military intervention: For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/russian-military-intervention-for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-mi.md) _2017-08-27 03:44:14 (First version)_
+1. [Russian military intervention: For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/russian-military-intervention-for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-mi.md) _2018-02-06 13:49:28 (First version)_
 1. [For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-missiles-launched-from-a-kilo-cla.md) _(Current version)_
 
 ### Related:

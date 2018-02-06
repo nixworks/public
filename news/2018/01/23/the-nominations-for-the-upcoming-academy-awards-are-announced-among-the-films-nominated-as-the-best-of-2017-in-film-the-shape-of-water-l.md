@@ -15,8 +15,8 @@ Formats: [HTML](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards
 
 ### Changes:
 
-1. [The nominations for the upcoming Academy Awards are announced. It will honor the best films of 2017. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-it-will-honor-the-best-films-of-2017.md) _2018-01-24 20:30:07 (First version)_
-2. [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-the-shape-of-water-leads-wit.md) _2018-01-25 10:30:07 (Update)_
+1. [The nominations for the upcoming Academy Awards are announced. It will honor the best films of 2017. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-it-will-honor-the-best-films-of-2017.md) _2018-02-06 13:49:31 (First version)_
+2. [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-the-shape-of-water-leads-wit.md) _2018-02-06 13:49:31 (Update)_
 2. [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md) _(Current version)_
 
 ### Related:

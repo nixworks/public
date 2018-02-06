@@ -16,7 +16,7 @@ According to WKRG, the little boy suffered severe facial trauma after possibly b
 
 ### Changes:
 
-1. [2017 Atlantic hurricane season: A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/2017-atlantic-hurricane-season-a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md) _2017-08-27 03:48:32 (First version)_
+1. [2017 Atlantic hurricane season: A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/2017-atlantic-hurricane-season-a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md) _2018-02-06 13:49:30 (First version)_
 1. [A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md) _(Current version)_
 
 ### Related:

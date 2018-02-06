@@ -22,8 +22,8 @@ State leaders mourned former Nepal prime minister Girija Prasad Koirala, and rec
 
 ### Changes:
 
-1. [Death of Girija Prasad Koirala:Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/death-of-girija-prasad-koirala-pformer-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-south.md) _2017-08-25 03:27:25 (First version)_
-2. [Death of Girija Prasad Koirala:: Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/death-of-girija-prasad-koirala-former-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-sout.md) _2017-08-27 03:27:21 (Update)_
+1. [Death of Girija Prasad Koirala:Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/death-of-girija-prasad-koirala-pformer-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-south.md) _2018-02-06 13:49:19 (First version)_
+2. [Death of Girija Prasad Koirala:: Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/death-of-girija-prasad-koirala-former-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-sout.md) _2018-02-06 13:49:19 (Update)_
 2. [Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/former-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-south-asia-who-brought-down-the-king.md) _(Current version)_
 
 ### Related:

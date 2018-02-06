@@ -17,7 +17,7 @@ World’s tallest building draped in colours of the French national flag
 
 ### Changes:
 
-1. [November 2015 Paris attacks: The top of Dubai's Burj Khalifa, the world's tallest skyscraper, is lit up in the blue, white and red of the French flag, in tribute to France and those killed in the attacks in Paris. Other landmark buildings in the United Arab Emirates, including the sail-shaped Burj Al Arab building, also paid tribute. ](/news/2015/11/15/november-2015-paris-attacks-the-top-of-dubai-s-burj-khalifa-the-world-s-tallest-skyscraper-is-lit-up-in-the-blue-white-and-red-of-the-fr.md) _2017-08-27 03:43:51 (First version)_
+1. [November 2015 Paris attacks: The top of Dubai's Burj Khalifa, the world's tallest skyscraper, is lit up in the blue, white and red of the French flag, in tribute to France and those killed in the attacks in Paris. Other landmark buildings in the United Arab Emirates, including the sail-shaped Burj Al Arab building, also paid tribute. ](/news/2015/11/15/november-2015-paris-attacks-the-top-of-dubai-s-burj-khalifa-the-world-s-tallest-skyscraper-is-lit-up-in-the-blue-white-and-red-of-the-fr.md) _2018-02-06 13:49:28 (First version)_
 1. [The top of Dubai's Burj Khalifa, the world's tallest skyscraper, is lit up in the blue, white and red of the French flag, in tribute to France and those killed in the attacks in Paris. Other landmark buildings in the United Arab Emirates, including the sail-shaped Burj Al Arab building, also paid tribute. ](/news/2015/11/15/the-top-of-dubai-s-burj-khalifa-the-world-s-tallest-skyscraper-is-lit-up-in-the-blue-white-and-red-of-the-french-flag-in-tribute-to-fran.md) _(Current version)_
 
 ### Related:

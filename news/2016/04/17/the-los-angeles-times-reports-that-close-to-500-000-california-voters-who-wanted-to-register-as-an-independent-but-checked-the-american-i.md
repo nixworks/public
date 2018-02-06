@@ -17,7 +17,7 @@ Voters enrolled in a small right-wing party thinking they were registering as in
 
 ### Changes:
 
-1. [The ''Los Angeles Times'' reports that close to 500,000 California voters, who wanted to register as an Independent but checked the American Independent Party box instead, may be ineligible to vote in the state's Democratic and Republican primaries. ](/news/2016/04/17/the-los-angeles-times-reports-that-close-to-500-000-california-voters-who-wanted-to-register-as-an-independent-but-checked-the-american.md) _2017-08-25 03:45:18 (First version)_
+1. [The ''Los Angeles Times'' reports that close to 500,000 California voters, who wanted to register as an Independent but checked the American Independent Party box instead, may be ineligible to vote in the state's Democratic and Republican primaries. ](/news/2016/04/17/the-los-angeles-times-reports-that-close-to-500-000-california-voters-who-wanted-to-register-as-an-independent-but-checked-the-american.md) _2018-02-06 13:49:28 (First version)_
 1. [The "Los Angeles Times" reports that close to 500,000 California voters, who wanted to register as an Independent but checked the American Independent Party box instead, may be ineligible to vote in the state's Democratic and Republican primaries. ](/news/2016/04/17/the-los-angeles-times-reports-that-close-to-500-000-california-voters-who-wanted-to-register-as-an-independent-but-checked-the-american-i.md) _(Current version)_
 
 ### Related:

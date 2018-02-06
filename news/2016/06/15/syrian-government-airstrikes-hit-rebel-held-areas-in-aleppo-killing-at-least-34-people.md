@@ -15,7 +15,7 @@ At least 34 people die, including civilians, amid intense shelling and air strik
 
 ### Changes:
 
-1. [Syrian Civil War: Syrian government airstrikes hit rebel-held areas in Aleppo, killing at least 34 people. ](/news/2016/06/15/syrian-civil-war-syrian-government-airstrikes-hit-rebel-held-areas-in-aleppo-killing-at-least-34-people.md) _2017-08-27 03:46:16 (First version)_
+1. [Syrian Civil War: Syrian government airstrikes hit rebel-held areas in Aleppo, killing at least 34 people. ](/news/2016/06/15/syrian-civil-war-syrian-government-airstrikes-hit-rebel-held-areas-in-aleppo-killing-at-least-34-people.md) _2018-02-06 13:49:29 (First version)_
 1. [Syrian government airstrikes hit rebel-held areas in Aleppo, killing at least 34 people. ](/news/2016/06/15/syrian-government-airstrikes-hit-rebel-held-areas-in-aleppo-killing-at-least-34-people.md) _(Current version)_
 
 ### Related:

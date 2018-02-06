@@ -18,7 +18,7 @@ BRATISLAVA Slovaks voting on Saturday are likely to hand a third term to Prime M
 
 ### Changes:
 
-1. [Slovak parliamentary election, 2016: Voters in Slovakia choose representatives for all 150 National Council seats. While anti-migrant Prime Minister Robert Fico's Smer party is expected to lose its parliamentary majority, it should be in position to lead a coalition government. ](/news/2016/03/5/slovak-parliamentary-election-2016-voters-in-slovakia-choose-representatives-for-all-150-national-council-seats-while-anti-migrant-prime.md) _2017-08-27 03:45:08 (First version)_
+1. [Slovak parliamentary election, 2016: Voters in Slovakia choose representatives for all 150 National Council seats. While anti-migrant Prime Minister Robert Fico's Smer party is expected to lose its parliamentary majority, it should be in position to lead a coalition government. ](/news/2016/03/5/slovak-parliamentary-election-2016-voters-in-slovakia-choose-representatives-for-all-150-national-council-seats-while-anti-migrant-prime.md) _2018-02-06 13:49:28 (First version)_
 1. [Voters in Slovakia choose representatives for all 150 National Council seats. While anti-migrant Prime Minister Robert Fico's Smer party is expected to lose its parliamentary majority, it should be in position to lead a coalition government. ](/news/2016/03/5/voters-in-slovakia-choose-representatives-for-all-150-national-council-seats-while-anti-migrant-prime-minister-robert-fico-s-smer-party-is.md) _(Current version)_
 
 ### Related:

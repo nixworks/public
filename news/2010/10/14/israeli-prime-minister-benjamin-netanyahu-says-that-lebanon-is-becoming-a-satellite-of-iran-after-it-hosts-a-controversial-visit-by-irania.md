@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-
 
 ### Changes:
 
-1. [Israeli Prime Minister Benjamin Netanyahu says that Lebanon is becoming a "satellite" of Iran after it hosts a controversial visit by Iranian President Mahmoud Ahmadinejad, who again "predicts" Israel's destruction at a Hezbollah rally in southern Lebanon. ](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-that-lebanon-is-becoming-a-satellite-of-iran-after-it-hosts-a-controversial-visit-by-irani.md) _2017-08-25 03:30:30 (First version)_
+1. [Israeli Prime Minister Benjamin Netanyahu says that Lebanon is becoming a "satellite" of Iran after it hosts a controversial visit by Iranian President Mahmoud Ahmadinejad, who again "predicts" Israel's destruction at a Hezbollah rally in southern Lebanon. ](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-that-lebanon-is-becoming-a-satellite-of-iran-after-it-hosts-a-controversial-visit-by-irani.md) _2018-02-06 13:49:20 (First version)_
 1. [Israeli Prime Minister Benjamin Netanyahu says that Lebanon is becoming a "satellite" of Iran after it hosts a controversial visit by Iranian President Mahmoud Ahmadinejad, who again "predicts" Israel's destruction at a Hezbollah rally in southern Lebanon. ](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-that-lebanon-is-becoming-a-satellite-of-iran-after-it-hosts-a-controversial-visit-by-irania.md) _(Current version)_
 
 ### Related:

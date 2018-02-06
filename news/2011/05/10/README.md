@@ -9,7 +9,7 @@ EU names 13 Syrian officials on sanctions list, including a brother and influent
 
 ##### civil war
 ### [Opposition forces in Libya make gains amid NATO bombing, reportedly operating out of the capital Tripoli. ](/news/2011/05/10/opposition-forces-in-libya-make-gains-amid-nato-bombing-reportedly-operating-out-of-the-capital-tripoli.md)
-_Context: civil war, Libya, Tripoli, NATO_
+_Context: Tripoli, NATO, Libya, civil war_
 
 ##### South Sudan
 ### [More than 80 people are killed after rebels attack a cattle camp in South Sudan. ](/news/2011/05/10/more-than-80-people-are-killed-after-rebels-attack-a-cattle-camp-in-south-sudan.md)
@@ -21,7 +21,7 @@ CNN is reporting that the CIA will show photos of the corpse of Osama bin Laden 
 
 ##### United Nations
 ### [Four United Nations peacekeepers are shot while on patrol in the disputed Abyei district of Sudan. ](/news/2011/05/10/four-united-nations-peacekeepers-are-shot-while-on-patrol-in-the-disputed-abyei-district-of-sudan.md)
-_Context: Abyei, United Nations, Sudan_
+_Context: Abyei, Sudan, United Nations_
 
 ##### Governor of California
 ### [Former Governor of California and actor Arnold Schwarzenegger and journalist Maria Shriver announce their separation after 25 years of marriage. ](/news/2011/05/10/former-governor-of-california-and-actor-arnold-schwarzenegger-and-journalist-maria-shriver-announce-their-separation-after-25-years-of-marri.md)
@@ -33,11 +33,11 @@ The Middleton family complains to the Press Complaints Commission after four pap
 
 ##### John Lennon
 ### [The Victorian iron gates of a children's home which inspired John Lennon to write the Beatles hit "Strawberry Fields Forever" have been removed by the property's owners and placed in storage. ](/news/2011/05/10/the-victorian-iron-gates-of-a-children-s-home-which-inspired-john-lennon-to-write-the-beatles-hit-strawberry-fields-forever-have-been-remo.md)
-_Context: The Beatles, John Lennon, Strawberry Fields Forever_
+_Context: John Lennon, The Beatles, Strawberry Fields Forever_
 
 ##### Albert Einstein
 ### [Immigration papers documenting Albert Einstein's 1933 escape from Nazi Germany and his arrival at Dover, England, are to go on display for the first time, at Liverpool's Merseyside Maritime Museum. ](/news/2011/05/10/immigration-papers-documenting-albert-einstein-s-1933-escape-from-nazi-germany-and-his-arrival-at-dover-england-are-to-go-on-display-for-t.md)
-_Context: Albert Einstein, Merseyside Maritime Museum, Nazi, Liverpool, Dover_
+_Context: Merseyside Maritime Museum, Albert Einstein, Dover, Liverpool, Nazi_
 
 ##### Presbyterian Church (U.S.A.)
 ### [The Presbyterian Church (U.S.A.) votes to approve openly gay and lesbian people in same sex relationships to be ordained. ](/news/2011/05/10/the-presbyterian-church-u-s-a-votes-to-approve-openly-gay-and-lesbian-people-in-same-sex-relationships-to-be-ordained.md)
@@ -45,15 +45,15 @@ The Presbyterian Church (U.S.A.) has voted to change its constitution and allow 
 
 ##### Ivory Coast
 ### [Ivory Coast resumes exports of cocoa after a political crisis and brief civil war. ](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.md)
-_Context: Ivory Coast, 2010-2011 Ivorian crisis, cocoa_
+_Context: Ivory Coast, cocoa, 2010-2011 Ivorian crisis_
 
 ##### Wayne Swan
 ### [Wayne Swan, the Treasurer of Australia, will deliver his fourth budget. ](/news/2011/05/10/wayne-swan-the-treasurer-of-australia-will-deliver-his-fourth-budget.md)
-_Context: Wayne Swan, Treasurer of Australia_
+_Context: Treasurer of Australia, Wayne Swan_
 
 ##### Google
 ### [Google launches Google Music, an application that will enable users to upload their music libraries to company servers. ](/news/2011/05/10/google-launches-google-music-an-application-that-will-enable-users-to-upload-their-music-libraries-to-company-servers.md)
-_Context: cloud computing, Google, Google Music_
+_Context: Google, cloud computing, Google Music_
 
 ##### Microsoft
 ### [Microsoft announces that it is purchasing Internet phone service Skype for US$8.5 billion. ](/news/2011/05/10/microsoft-announces-that-it-is-purchasing-internet-phone-service-skype-for-us-8-5-billion.md)
@@ -69,19 +69,19 @@ Fifty-four Somalis fleeing the Libyan war are believed dead after an crowded boa
 
 ##### Tropical Storm Bebeng
 ### [Tropical Storm Bebeng kills at least 20 people in the Philippines. ](/news/2011/05/10/tropical-storm-bebeng-kills-at-least-20-people-in-the-philippines.md)
-_Context: Philippines, Tropical Storm Bebeng_
+_Context: Tropical Storm Bebeng, Philippines_
 
 ##### China
 ### [China reports that 95% of post-earthquake reconstruction is complete in Sichuan, three years after a deadly earthquake, in a "victory" for the country. ](/news/2011/05/10/china-reports-that-95-of-post-earthquake-reconstruction-is-complete-in-sichuan-three-years-after-a-deadly-earthquake-in-a-victory-for-t.md)
-_Context: China, deadly earthquake, Sichuan_
+_Context: China, Sichuan, deadly earthquake_
 
 ##### Mississippi River
 ### [Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.md)
-_Context: United States Army Corps of Engineers, Mississippi River, Simmesport, Louisiana, Baton Rouge, Louisiana, oil refinery_
+_Context: oil refinery, United States Army Corps of Engineers, Simmesport, Louisiana, Baton Rouge, Louisiana, Mississippi River_
 
 ##### East Timor
 ### [East Timor rejected Chinese plans to build a radar on its territory in 2007, due to fears it would be used for intelligence purposes, according to Wikileaks. ](/news/2011/05/10/east-timor-rejected-chinese-plans-to-build-a-radar-on-its-territory-in-2007-due-to-fears-it-would-be-used-for-intelligence-purposes-accord.md)
-_Context: Wikileaks, East Timor, China_
+_Context: East Timor, Wikileaks, China_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev calls for the chemical castration of pedophiles. ](/news/2011/05/10/russian-president-dmitry-medvedev-calls-for-the-chemical-castration-of-pedophiles.md)
@@ -89,7 +89,7 @@ Russian President Dmitry Medvedev says voluntary &quot;chemical castration&quot;
 
 ##### Press Complaints Commission
 ### [The British Press Complaints Commission has ruled that the "Daily Telegraph" breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. ](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.md)
-_Context: Press Complaints Commission, Vince Cable, Liberal Democrats, Secretary of State for Business, Daily Telegraph_
+_Context: Daily Telegraph, Press Complaints Commission, Secretary of State for Business, Liberal Democrats, Vince Cable_
 
 ##### Max Mosley
 ### [Former motorsports executive Max Mosley loses his European Court of Human Rights bid to force newspapers to warn people before exposing aspects of their private lives. ](/news/2011/05/10/former-motorsports-executive-max-mosley-loses-his-european-court-of-human-rights-bid-to-force-newspapers-to-warn-people-before-exposing-aspe.md)
@@ -101,7 +101,7 @@ Teenager Milly Dowler vanished &quot;in the blink of an eye&quot; on her way hom
 
 ##### Laos
 ### [Laos announces the results of elections to its one-party parliament. ](/news/2011/05/10/laos-announces-the-results-of-elections-to-its-one-party-parliament.md)
-_Context: Laos, elections_
+_Context: elections, Laos_
 
 ##### Welsh Labour Party
 ### [Welsh Labour Party leader Carwyn Jones confirms that Labour will form a one-party government after winning 30 of the 60 Welsh Assembly seats in last week's election, but also states that it will continue to talk to other parties. ](/news/2011/05/10/welsh-labour-party-leader-carwyn-jones-confirms-that-labour-will-form-a-one-party-government-after-winning-30-of-the-60-welsh-assembly-seats.md)
@@ -117,11 +117,11 @@ The government distances itself from suggestions that wealthy students could pay
 
 ##### Indiana
 ### [Indiana Governor Mitch Daniels cuts government funding for Planned Parenthood because it provides abortions. ](/news/2011/05/10/indiana-governor-mitch-daniels-cuts-government-funding-for-planned-parenthood-because-it-provides-abortions.md)
-_Context: Indiana, Planned Parenthood, abortion, Mitch Daniels , Governor of Indiana_
+_Context: Indiana, Governor of Indiana, Planned Parenthood, Mitch Daniels , abortion_
 
 ##### Qatar
 ### [Voters in Qatar go to the polls for municipal elections, with women allowed to vote for the first time. ](/news/2011/05/10/voters-in-qatar-go-to-the-polls-for-municipal-elections-with-women-allowed-to-vote-for-the-first-time.md)
-_Context: Qatar, municipal elections_
+_Context: municipal elections, Qatar_
 
 ## [Previous Day...](/news/2011/05/9/index.md)
 

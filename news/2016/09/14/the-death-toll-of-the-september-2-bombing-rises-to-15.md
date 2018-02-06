@@ -16,7 +16,7 @@ A 21-year-old pregnant woman who sustained a severe head injury from the Davao C
 
 ### Changes:
 
-1. [2016 Davao City bombing: The death toll of the September 2 bombing rises to 15. ](/news/2016/09/14/2016-davao-city-bombing-the-death-toll-of-the-september-2-bombing-rises-to-15.md) _2017-08-27 03:46:51 (First version)_
+1. [2016 Davao City bombing: The death toll of the September 2 bombing rises to 15. ](/news/2016/09/14/2016-davao-city-bombing-the-death-toll-of-the-september-2-bombing-rises-to-15.md) _2018-02-06 13:49:29 (First version)_
 1. [The death toll of the September 2 bombing rises to 15. ](/news/2016/09/14/the-death-toll-of-the-september-2-bombing-rises-to-15.md) _(Current version)_
 
 ### Related:

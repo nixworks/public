@@ -18,8 +18,8 @@ Four days of Diamond Jubilee events culminate in an appearance by the Queen on t
 
 ### Changes:
 
-1. [Diamond Jubilee of Elizabeth II:Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/diamond-jubilee-of-elizabeth-ii-pelizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-ca.md) _2017-08-25 03:35:49 (First version)_
-2. [Diamond Jubilee of Elizabeth II:: Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/diamond-jubilee-of-elizabeth-ii-elizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-c.md) _2017-08-27 03:36:00 (Update)_
+1. [Diamond Jubilee of Elizabeth II:Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/diamond-jubilee-of-elizabeth-ii-pelizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-ca.md) _2018-02-06 13:49:23 (First version)_
+2. [Diamond Jubilee of Elizabeth II:: Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/diamond-jubilee-of-elizabeth-ii-elizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-c.md) _2018-02-06 13:49:23 (Update)_
 2. [Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/elizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-cathedral-celebrations-ends-with-a.md) _(Current version)_
 
 ### Related:

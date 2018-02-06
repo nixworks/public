@@ -16,8 +16,8 @@ The stabbings were reported at Franklin Regional High School, in the suburb of M
 
 ### Changes:
 
-1. [Franklin Regional High School stabbing.A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-pa-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md) _2017-08-25 03:40:16 (First version)_
-2. [Franklin Regional High School stabbing.: A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-a-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md) _2017-08-27 03:40:34 (Update)_
+1. [Franklin Regional High School stabbing.A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-pa-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md) _2018-02-06 13:49:26 (First version)_
+2. [Franklin Regional High School stabbing.: A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-a-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md) _2018-02-06 13:49:26 (Update)_
 2. [A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/a-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md) _(Current version)_
 
 ### Related:

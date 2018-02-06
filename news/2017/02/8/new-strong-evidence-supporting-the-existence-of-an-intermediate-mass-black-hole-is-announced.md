@@ -18,6 +18,6 @@ An intermediate-mass black hole might be lurking within a dense stellar cluster 
 
 ### Changes:
 
-1. [Intermediate-mass black hole and New strong evidence supporting the existence of an intermediate-mass black hole is announced. ](/news/2017/02/8/intermediate-mass-black-hole-and-new-strong-evidence-supporting-the-existence-of-an-intermediate-mass-black-hole-is-announced.md) _2017-08-25 03:47:22 (First version)_
-2. [Intermediate-mass black hole and 47 Tucanae: New strong evidence supporting the existence of an intermediate-mass black hole is announced. ](/news/2017/02/8/intermediate-mass-black-hole-and-47-tucanae-new-strong-evidence-supporting-the-existence-of-an-intermediate-mass-black-hole-is-announced.md) _2017-08-27 03:47:47 (Update)_
+1. [Intermediate-mass black hole and New strong evidence supporting the existence of an intermediate-mass black hole is announced. ](/news/2017/02/8/intermediate-mass-black-hole-and-new-strong-evidence-supporting-the-existence-of-an-intermediate-mass-black-hole-is-announced.md) _2018-02-06 13:49:30 (First version)_
+2. [Intermediate-mass black hole and 47 Tucanae: New strong evidence supporting the existence of an intermediate-mass black hole is announced. ](/news/2017/02/8/intermediate-mass-black-hole-and-47-tucanae-new-strong-evidence-supporting-the-existence-of-an-intermediate-mass-black-hole-is-announced.md) _2018-02-06 13:49:30 (Update)_
 2. [New strong evidence supporting the existence of an intermediate-mass black hole is announced. ](/news/2017/02/8/new-strong-evidence-supporting-the-existence-of-an-intermediate-mass-black-hole-is-announced.md) _(Current version)_

@@ -17,7 +17,7 @@ Kiev accused pro-Russian rebels of opening fire with rockets and artillery at vi
 
 ### Changes:
 
-1. [War in Donbass: The Ukrainian Army says it cannot withdraw its heavy weapons from the front, as it is still under attack from rebel forces despite the ceasefire. ](/news/2015/02/23/war-in-donbass-the-ukrainian-army-says-it-cannot-withdraw-its-heavy-weapons-from-the-front-as-it-is-still-under-attack-from-rebel-forces-d.md) _2017-08-27 03:42:00 (First version)_
+1. [War in Donbass: The Ukrainian Army says it cannot withdraw its heavy weapons from the front, as it is still under attack from rebel forces despite the ceasefire. ](/news/2015/02/23/war-in-donbass-the-ukrainian-army-says-it-cannot-withdraw-its-heavy-weapons-from-the-front-as-it-is-still-under-attack-from-rebel-forces-d.md) _2018-02-06 13:49:26 (First version)_
 1. [The Ukrainian Army says it cannot withdraw its heavy weapons from the front, as it is still under attack from rebel forces despite the ceasefire. ](/news/2015/02/23/the-ukrainian-army-says-it-cannot-withdraw-its-heavy-weapons-from-the-front-as-it-is-still-under-attack-from-rebel-forces-despite-the-cease.md) _(Current version)_
 
 ### Related:

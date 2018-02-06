@@ -18,7 +18,7 @@ Explosives-laden ambulances are used to kill 21 people in the Iraqi cities of Ti
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): Suicide bombers strike in the cities of Tikrit and Samarra in Iraq, killing at least 21. ](/news/2016/11/6/iraqi-civil-war-2014-present-suicide-bombers-strike-in-the-cities-of-tikrit-and-samarra-in-iraq-killing-at-least-21.md) _2017-08-27 03:47:11 (First version)_
+1. [Iraqi Civil War (2014-present): Suicide bombers strike in the cities of Tikrit and Samarra in Iraq, killing at least 21. ](/news/2016/11/6/iraqi-civil-war-2014-present-suicide-bombers-strike-in-the-cities-of-tikrit-and-samarra-in-iraq-killing-at-least-21.md) _2018-02-06 13:49:29 (First version)_
 1. [Suicide bombers strike in the cities of Tikrit and Samarra in Iraq, killing at least 21. ](/news/2016/11/6/suicide-bombers-strike-in-the-cities-of-tikrit-and-samarra-in-iraq-killing-at-least-21.md) _(Current version)_
 
 ### Related:

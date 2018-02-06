@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/01/15/at-least-seven-people-are-killed-when-their-veh
 
 ### Changes:
 
-1. [War in Afghanistan: At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/war-in-afghanistan-at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md) _2017-08-27 03:47:36 (First version)_
+1. [War in Afghanistan: At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/war-in-afghanistan-at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md) _2018-02-06 13:49:30 (First version)_
 1. [At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md) _(Current version)_
 
 ### Related:

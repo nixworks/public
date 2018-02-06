@@ -16,7 +16,7 @@ A blast struck a market in the northeastern Nigerian city of Yola on Tuesday eve
 
 ### Changes:
 
-1. [Boko Haram insurgency: A blast at a market in the northeastern Nigerian city of Yola, kills at least 32 people and wounds 80 others. ](/news/2015/11/17/boko-haram-insurgency-a-blast-at-a-market-in-the-northeastern-nigerian-city-of-yola-kills-at-least-32-people-and-wounds-80-others.md) _2017-08-27 03:43:55 (First version)_
+1. [Boko Haram insurgency: A blast at a market in the northeastern Nigerian city of Yola, kills at least 32 people and wounds 80 others. ](/news/2015/11/17/boko-haram-insurgency-a-blast-at-a-market-in-the-northeastern-nigerian-city-of-yola-kills-at-least-32-people-and-wounds-80-others.md) _2018-02-06 13:49:28 (First version)_
 1. [A blast at a market in the northeastern Nigerian city of Yola, kills at least 32 people and wounds 80 others. ](/news/2015/11/17/a-blast-at-a-market-in-the-northeastern-nigerian-city-of-yola-kills-at-least-32-people-and-wounds-80-others.md) _(Current version)_
 
 ### Related:

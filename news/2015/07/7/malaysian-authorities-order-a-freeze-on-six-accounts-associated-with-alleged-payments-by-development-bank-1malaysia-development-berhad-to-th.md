@@ -16,8 +16,8 @@ Malaysian authorities said Tuesday they have ordered six bank accounts to be fro
 
 ### Changes:
 
-1. [1Malaysia Development Berhad scandalMalaysian authorities order a freeze on six accounts associated with alleged payments by development bank 1Malaysia Development Berhad to the Prime Minister Najib Razak. ](/news/2015/07/7/1malaysia-development-berhad-scandalpmalaysian-authorities-order-a-freeze-on-six-accounts-associated-with-alleged-payments-by-development-ba.md) _2017-08-25 03:42:22 (First version)_
-2. [1Malaysia Development Berhad scandal: Malaysian authorities order a freeze on six accounts associated with alleged payments by development bank 1Malaysia Development Berhad to the Prime Minister Najib Razak. ](/news/2015/07/7/1malaysia-development-berhad-scandal-malaysian-authorities-order-a-freeze-on-six-accounts-associated-with-alleged-payments-by-development-b.md) _2017-08-27 03:42:40 (Update)_
+1. [1Malaysia Development Berhad scandalMalaysian authorities order a freeze on six accounts associated with alleged payments by development bank 1Malaysia Development Berhad to the Prime Minister Najib Razak. ](/news/2015/07/7/1malaysia-development-berhad-scandalpmalaysian-authorities-order-a-freeze-on-six-accounts-associated-with-alleged-payments-by-development-ba.md) _2018-02-06 13:49:27 (First version)_
+2. [1Malaysia Development Berhad scandal: Malaysian authorities order a freeze on six accounts associated with alleged payments by development bank 1Malaysia Development Berhad to the Prime Minister Najib Razak. ](/news/2015/07/7/1malaysia-development-berhad-scandal-malaysian-authorities-order-a-freeze-on-six-accounts-associated-with-alleged-payments-by-development-b.md) _2018-02-06 13:49:27 (Update)_
 2. [Malaysian authorities order a freeze on six accounts associated with alleged payments by development bank 1Malaysia Development Berhad to the Prime Minister Najib Razak. ](/news/2015/07/7/malaysian-authorities-order-a-freeze-on-six-accounts-associated-with-alleged-payments-by-development-bank-1malaysia-development-berhad-to-th.md) _(Current version)_
 
 ### Related:

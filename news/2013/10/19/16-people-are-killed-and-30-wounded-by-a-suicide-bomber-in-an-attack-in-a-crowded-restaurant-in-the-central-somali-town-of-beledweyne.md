@@ -16,8 +16,8 @@ A suicide bomber killed at least 16 people on Saturday in an attack on a cafe in
 
 ### Changes:
 
-1. [War in Somalia (2009-present):16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/war-in-somalia-2009apresent-p16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central.md) _2017-08-25 03:39:24 (First version)_
-2. [War in Somalia (2009-present):: 16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/war-in-somalia-2009-present-16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-centra.md) _2017-08-27 03:39:42 (Update)_
+1. [War in Somalia (2009-present):16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/war-in-somalia-2009apresent-p16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central.md) _2018-02-06 13:49:25 (First version)_
+2. [War in Somalia (2009-present):: 16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/war-in-somalia-2009-present-16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-centra.md) _2018-02-06 13:49:25 (Update)_
 2. [16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central-somali-town-of-beledweyne.md) _(Current version)_
 
 ### Related:

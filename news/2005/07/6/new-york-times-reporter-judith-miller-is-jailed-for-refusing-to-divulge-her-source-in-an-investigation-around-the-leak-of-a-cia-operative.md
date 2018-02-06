@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/07/6/new-york-times-reporter-judith-miller-is-jailed-
 
 ### Changes:
 
-1. [ ''New York Times'' reporter Judith Miller is jailed for refusing to divulge her source in an investigation around the leak of a CIA operative's name. ](/news/2005/07/6/new-york-times-reporter-judith-miller-is-jailed-for-refusing-to-divulge-her-source-in-an-investigation-around-the-leak-of-a-cia-operati.md) _2017-08-25 03:16:29 (First version)_
+1. [ ''New York Times'' reporter Judith Miller is jailed for refusing to divulge her source in an investigation around the leak of a CIA operative's name. ](/news/2005/07/6/new-york-times-reporter-judith-miller-is-jailed-for-refusing-to-divulge-her-source-in-an-investigation-around-the-leak-of-a-cia-operati.md) _2018-02-06 13:49:16 (First version)_
 1. [ "New York Times" reporter Judith Miller is jailed for refusing to divulge her source in an investigation around the leak of a CIA operative's name. ](/news/2005/07/6/new-york-times-reporter-judith-miller-is-jailed-for-refusing-to-divulge-her-source-in-an-investigation-around-the-leak-of-a-cia-operative.md) _(Current version)_
 
 ### Related:

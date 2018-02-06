@@ -16,7 +16,7 @@ An earthquake rattled central Oklahoma tonight, reportedly damaging multiple bui
 
 ### Changes:
 
-1. [2009-16 Oklahoma earthquake swarms: Buildings in Cushing, Oklahoma, U.S., sustain damage from a moderate 5.0-magnitude earthquake. ](/news/2016/11/6/2009-16-oklahoma-earthquake-swarms-buildings-in-cushing-oklahoma-u-s-sustain-damage-from-a-moderate-5-0-magnitude-earthquake.md) _2017-08-27 03:47:11 (First version)_
+1. [2009-16 Oklahoma earthquake swarms: Buildings in Cushing, Oklahoma, U.S., sustain damage from a moderate 5.0-magnitude earthquake. ](/news/2016/11/6/2009-16-oklahoma-earthquake-swarms-buildings-in-cushing-oklahoma-u-s-sustain-damage-from-a-moderate-5-0-magnitude-earthquake.md) _2018-02-06 13:49:29 (First version)_
 1. [Buildings in Cushing, Oklahoma, U.S., sustain damage from a moderate 5.0-magnitude earthquake. ](/news/2016/11/6/buildings-in-cushing-oklahoma-u-s-sustain-damage-from-a-moderate-5-0-magnitude-earthquake.md) _(Current version)_
 
 ### Related:

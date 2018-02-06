@@ -17,7 +17,7 @@ Formats: [HTML](/news/2016/04/30/a-hindu-man-is-hacked-to-death-in-tangail-distr
 
 ### Changes:
 
-1. [Attacks on secularists in Bangladesh: A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/attacks-on-secularists-in-bangladesh-a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophe.md) _2017-08-27 03:45:55 (First version)_
+1. [Attacks on secularists in Bangladesh: A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/attacks-on-secularists-in-bangladesh-a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophe.md) _2018-02-06 13:49:29 (First version)_
 1. [A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophet-muhammad-islamic-state-of-iraq-and.md) _(Current version)_
 
 ### Related:

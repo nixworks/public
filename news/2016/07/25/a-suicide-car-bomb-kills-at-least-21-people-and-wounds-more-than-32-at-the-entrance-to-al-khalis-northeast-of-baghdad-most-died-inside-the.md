@@ -15,7 +15,7 @@ Hospital sources say death toll likely to rise after bomb goes off with cars wai
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/iraqi-civil-war-2014-present-a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeas.md) _2017-08-27 03:46:32 (First version)_
+1. [Iraqi Civil War (2014-present): A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/iraqi-civil-war-2014-present-a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeas.md) _2018-02-06 13:49:29 (First version)_
 1. [A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeast-of-baghdad-most-died-inside-the.md) _(Current version)_
 
 ### Related:

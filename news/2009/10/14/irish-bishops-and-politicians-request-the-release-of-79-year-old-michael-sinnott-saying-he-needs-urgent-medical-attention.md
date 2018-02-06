@@ -21,8 +21,8 @@ DUBLIN - Irish bishops and politicians called Wednesday for the release of an el
 
 ### Changes:
 
-1. [ Philippines: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-p-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _2017-08-25 03:26:03 (First version)_
-2. [ Philippines:: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _2017-08-27 03:25:55 (Update)_
+1. [ Philippines: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-p-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _2018-02-06 13:49:19 (First version)_
+2. [ Philippines:: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _2018-02-06 13:49:19 (Update)_
 2. [ Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md) _(Current version)_
 
 ### Related:

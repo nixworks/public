@@ -15,7 +15,7 @@ The Western-allied president&rsquo;s weakened position is likely to spell troubl
 
 ### Changes:
 
-1. [Shia insurgency in Yemen: Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/shia-insurgency-in-yemen-houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust.md) _2017-08-27 03:41:49 (First version)_
+1. [Shia insurgency in Yemen: Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/shia-insurgency-in-yemen-houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust.md) _2018-02-06 13:49:26 (First version)_
 1. [Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust-the-country-s-power-struc.md) _(Current version)_
 
 ### Related:

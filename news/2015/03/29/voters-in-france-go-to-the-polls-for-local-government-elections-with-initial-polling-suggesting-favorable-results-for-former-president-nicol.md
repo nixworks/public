@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-gove
 
 ### Changes:
 
-1. [French departmental elections, 2015: Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/french-departmental-elections-2015-voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorab.md) _2017-08-27 03:42:08 (First version)_
+1. [French departmental elections, 2015: Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/french-departmental-elections-2015-voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorab.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorable-results-for-former-president-nicol.md) _(Current version)_
 
 ### Related:

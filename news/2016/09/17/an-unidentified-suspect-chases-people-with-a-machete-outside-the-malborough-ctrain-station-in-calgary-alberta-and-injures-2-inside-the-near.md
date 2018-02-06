@@ -17,7 +17,7 @@ A member of the Calgary Police Service remained in hospital Sunday in serious bu
 
 ### Changes:
 
-1. [2016 Calgary machete attack: An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. ](/news/2016/09/17/2016-calgary-machete-attack-an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta.md) _2017-08-27 03:46:52 (First version)_
+1. [2016 Calgary machete attack: An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. ](/news/2016/09/17/2016-calgary-machete-attack-an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta.md) _2018-02-06 13:49:29 (First version)_
 1. [An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. ](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.md) _(Current version)_
 
 ### Related:

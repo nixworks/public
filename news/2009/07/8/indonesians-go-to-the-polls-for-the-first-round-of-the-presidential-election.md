@@ -18,7 +18,7 @@ Voting begins with more than 170 million registered voters and 500,000 polling s
 
 ### Changes:
 
-1. [ Indonesian presidential election, 2009: Indonesians go to the polls for the first round of the presidential election. ](/news/2009/07/8/indonesian-presidential-election-2009-indonesians-go-to-the-polls-for-the-first-round-of-the-presidential-election.md) _2017-08-27 03:24:58 (First version)_
+1. [ Indonesian presidential election, 2009: Indonesians go to the polls for the first round of the presidential election. ](/news/2009/07/8/indonesian-presidential-election-2009-indonesians-go-to-the-polls-for-the-first-round-of-the-presidential-election.md) _2018-02-06 13:49:19 (First version)_
 1. [ Indonesians go to the polls for the first round of the presidential election. ](/news/2009/07/8/indonesians-go-to-the-polls-for-the-first-round-of-the-presidential-election.md) _(Current version)_
 
 ### Related:

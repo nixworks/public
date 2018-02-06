@@ -16,7 +16,7 @@ Explosion outside building near Aventine hill, which damaged a car but caused no
 
 ### Changes:
 
-1. [An explosion outside a prominent post office in Rome causes damage to a car, however no injuries or deaths have been reported. A preliminary investigation indicated it was most likely "a demonstrative act, showing that it could be done". ](/news/2017/05/12/an-explosion-outside-a-prominent-post-office-in-rome-causes-damage-to-a-car-however-no-injuries-or-deaths-have-been-reported-a-preliminary.md) _2017-05-12 21:30:06 (First version)_
+1. [An explosion outside a prominent post office in Rome causes damage to a car, however no injuries or deaths have been reported. A preliminary investigation indicated it was most likely "a demonstrative act, showing that it could be done". ](/news/2017/05/12/an-explosion-outside-a-prominent-post-office-in-rome-causes-damage-to-a-car-however-no-injuries-or-deaths-have-been-reported-a-preliminary.md) _2018-02-06 13:49:30 (First version)_
 1. [An explosion outside a prominent post office in Rome causes damage to a car; however, no injuries or deaths have been reported. A preliminary investigation indicated it was most likely "a demonstrative act, showing that it could be done". ](/news/2017/05/12/an-explosion-outside-a-prominent-post-office-in-rome-causes-damage-to-a-car-however-no-injuries-or-deaths-have-been-reported-a-preliminar.md) _(Current version)_
 
 ### Related:

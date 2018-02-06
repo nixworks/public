@@ -15,8 +15,8 @@ Ukrainian leader said the crisis has &ldquo;no military solution&rdquo; and urge
 
 ### Changes:
 
-1. [Russian military intervention in Ukraine:The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. ](/news/2014/09/12/russian-military-intervention-in-ukraine-pthe-government-of-ukraine-and-pro-russian-separatists-exchange-dozens-of-prisoners-agreed-to-as-pa.md) _2017-08-25 03:40:58 (First version)_
-2. [Russian military intervention in Ukraine:: The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. ](/news/2014/09/12/russian-military-intervention-in-ukraine-the-government-of-ukraine-and-pro-russian-separatists-exchange-dozens-of-prisoners-agreed-to-as-p.md) _2017-08-27 03:41:16 (Update)_
+1. [Russian military intervention in Ukraine:: The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. ](/news/2014/09/12/russian-military-intervention-in-ukraine-the-government-of-ukraine-and-pro-russian-separatists-exchange-dozens-of-prisoners-agreed-to-as-p.md) _2018-02-06 13:49:26 (First version)_
+2. [Russian military intervention in Ukraine:The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. ](/news/2014/09/12/russian-military-intervention-in-ukraine-pthe-government-of-ukraine-and-pro-russian-separatists-exchange-dozens-of-prisoners-agreed-to-as-pa.md) _2018-02-06 13:49:26 (Update)_
 2. [The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. ](/news/2014/09/12/the-government-of-ukraine-and-pro-russian-separatists-exchange-dozens-of-prisoners-agreed-to-as-part-of-a-ceasefire-a-week-ago-both-sides-s.md) _(Current version)_
 
 ### Related:

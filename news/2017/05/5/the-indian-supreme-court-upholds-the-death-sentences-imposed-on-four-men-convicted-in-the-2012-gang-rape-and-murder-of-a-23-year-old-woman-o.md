@@ -16,8 +16,8 @@ The Supreme Court on Friday upheld death sentences against four men who fatally 
 
 ### Changes:
 
-1. [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman.md) _2017-08-25 03:47:51 (First version)_
-2. [2012 Delhi gang rape: The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/2012-delhi-gang-rape-the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of.md) _2017-08-27 03:48:18 (Update)_
+1. [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman.md) _2018-02-06 13:49:30 (First version)_
+2. [2012 Delhi gang rape: The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/2012-delhi-gang-rape-the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of.md) _2018-02-06 13:49:30 (Update)_
 2. [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman-o.md) _(Current version)_
 
 ### Related:

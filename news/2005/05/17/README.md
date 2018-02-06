@@ -5,11 +5,11 @@ Formats: [HTML](2005/05/17/index.html)  [JSON](2005/05/17/index.json)  [XML](200
 
 ##### Guantanamo Bay Qur'an desecration allegations
 ### [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, "Newsweek" explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-expl.md)
-_Context: Qur'an, Guantanamo Bay Qur'an desecration allegations, George W. Bush, Newsweek_
+_Context: George W. Bush, Qur'an, Guantanamo Bay Qur'an desecration allegations, Newsweek_
 
 ##### United States
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)
-_Context: Luis Posada Carriles, terrorism, United States, Fidel Castro, CIA, Cuba_
+_Context: Fidel Castro, CIA, Luis Posada Carriles, Cuba, United States, terrorism_
 
 ##### George Galloway
 ### [ George Galloway, British MP and anti-war campaigner, appears before the United States Senate to defend himself against charges that he profited from Saddam Hussein's regime, launching a tirade against the senators who had accused him and attacking the war in Iraq. ](/news/2005/05/17/george-galloway-british-mp-and-anti-war-campaigner-appears-before-the-united-states-senate-to-defend-himself-against-charges-that-he-prof.md)
@@ -25,31 +25,31 @@ _Context: Brazil, Brasilia, Landless Workers Movement, land reform_
 
 ##### Guatemala
 ### [ In Guatemala, gunmen assassinate public prosecutor Erick Galvez in Chiquimula department. ](/news/2005/05/17/in-guatemala-gunmen-assassinate-public-prosecutor-erick-galvez-in-chiquimula-department.md)
-_Context: Guatemala, assassinated, Erick Galvez, Chiquimula_
+_Context: assassinated, Guatemala, Chiquimula, Erick Galvez_
 
 ##### Australia
 ### [ Australian pop singer Kylie Minogue announces she has been diagnosed with the early stages of breast cancer and is postponing her upcoming Australian tour. ](/news/2005/05/17/australian-pop-singer-kylie-minogue-announces-she-has-been-diagnosed-with-the-early-stages-of-breast-cancer-and-is-postponing-her-upcoming.md)
-_Context: Australia, breast cancer, Kylie Minogue_
+_Context: Australia, Kylie Minogue, breast cancer_
 
 ##### Canadian
 ### [ Canadian Conservative MP Belinda Stronach crosses the floor of the House of Commons to sit with the Liberals, two days before a crucial budget vote that could determine whether the Liberal government falls or not. ](/news/2005/05/17/canadian-conservative-mp-belinda-stronach-crosses-the-floor-of-the-house-of-commons-to-sit-with-the-liberals-two-days-before-a-crucial-bud.md)
-_Context: Conservative Party's, crosses the floor, Canadian House of Commons, Liberal Party's, member of parliament, Belinda Stronach, Canadian_
+_Context: Liberal Party's, Canadian House of Commons, Belinda Stronach, member of parliament, crosses the floor, Conservative Party's, Canadian_
 
 ##### Spain
 ### [ The Spanish parliament approves plan to begin negotiations with the Basque ETA. ](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.md)
-_Context: ETA, Basque, Spain_
+_Context: Basque, ETA, Spain_
 
 ##### ICC
 ### [ Judges at the International Criminal Court at The Hague send a case of Radovan Stankovic back to new war crimes court in Bosnia. Stankovic is accused of rape of Bosnian Muslim women in Foca in 1992. ](/news/2005/05/17/judges-at-the-international-criminal-court-at-the-hague-send-a-case-of-radovan-stankovia-back-to-new-war-crimes-court-in-bosnia-stankovia.md)
-_Context: Muslim, Hague, Foca, ICC, Bosnia and Herzegovina, Radovan Stankovic, rape_
+_Context: rape, Foca, Hague, Muslim, Bosnia and Herzegovina, ICC, Radovan Stankovic_
 
 ##### Paris
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
-_Context: Afghanistan, Paris, Ahmed Shah Masood_
+_Context: Ahmed Shah Masood, Paris, Afghanistan_
 
 ##### Russia
 ### [ In Russia, the trial of Nur-Pashi Kulayev, the only survivor of the attackers in the Beslan school hostage crisis, begins. Relatives of the victims disrupt the proceedings. ](/news/2005/05/17/in-russia-the-trial-of-nur-pashi-kulayev-the-only-survivor-of-the-attackers-in-the-beslan-school-hostage-crisis-begins-relatives-of-the.md)
-_Context: Nur-Pashi Kulayev, Beslan children killed a year ago, Russia_
+_Context: Nur-Pashi Kulayev, Russia, Beslan children killed a year ago_
 
 ##### Malawi
 ### [ In Malawi, education minister Yusuf Mwawa is arrested for using public funds to pay for his wedding. ](/news/2005/05/17/in-malawi-education-minister-yusuf-mwawa-is-arrested-for-using-public-funds-to-pay-for-his-wedding.md)
@@ -57,11 +57,11 @@ Reuters.com for the weird, oddly enough stories.
 
 ##### Kenya
 ### [ A Kenyan court drops the murder charge of Thomas Cholmondeley for insufficient evidence. ](/news/2005/05/17/a-kenyan-court-drops-the-murder-charge-of-thomas-cholmondeley-for-insufficient-evidence.md)
-_Context: Thomas P. G. Cholmondeley, murder, Kenya, insufficient evidence_
+_Context: Thomas P. G. Cholmondeley, insufficient evidence, murder, Kenya_
 
-##### British
+##### United Kingdom
 ### [ British Prime Minister Tony Blair's government unveils a controversial proposal for national identity cards and other counter-terrorism measures besides a bill on immigration. ](/news/2005/05/17/british-prime-minister-tony-blair-s-government-unveils-a-controversial-proposal-for-national-identity-cards-and-other-counter-terrorism-mea.md)
-_Context: immigration, Tony Blair, Prime Minister, British, national identity card_
+_Context: Prime Minister, national identity card, Tony Blair, immigration, United Kingdom_
 
 ## [Previous Day...](/news/2005/05/16/index.md)
 

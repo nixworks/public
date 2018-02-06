@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-
 
 ### Changes:
 
-1. [An antiques dealer is imprisoned for handling a copy of the ''First Folio'' by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-ac.md) _2017-08-25 03:29:08 (First version)_
+1. [An antiques dealer is imprisoned for handling a copy of the ''First Folio'' by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-ac.md) _2018-02-06 13:49:20 (First version)_
 1. [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md) _(Current version)_
 
 ### Related:

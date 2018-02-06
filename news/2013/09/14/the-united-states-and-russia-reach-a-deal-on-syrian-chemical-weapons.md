@@ -16,8 +16,8 @@ The Obama administration and Russia reached a deal Saturday to compel Syria to a
 
 ### Changes:
 
-1. [Syrian civil war:The United States and Russia reach a deal on Syrian chemical weapons. ](/news/2013/09/14/syrian-civil-war-pthe-united-states-and-russia-reach-a-deal-on-syrian-chemical-weapons.md) _2017-08-25 03:39:16 (First version)_
-2. [Syrian civil war:: The United States and Russia reach a deal on Syrian chemical weapons. ](/news/2013/09/14/syrian-civil-war-the-united-states-and-russia-reach-a-deal-on-syrian-chemical-weapons.md) _2017-08-27 03:39:33 (Update)_
+1. [Syrian civil war:: The United States and Russia reach a deal on Syrian chemical weapons. ](/news/2013/09/14/syrian-civil-war-the-united-states-and-russia-reach-a-deal-on-syrian-chemical-weapons.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian civil war:The United States and Russia reach a deal on Syrian chemical weapons. ](/news/2013/09/14/syrian-civil-war-pthe-united-states-and-russia-reach-a-deal-on-syrian-chemical-weapons.md) _2018-02-06 13:49:25 (Update)_
 2. [The United States and Russia reach a deal on Syrian chemical weapons. ](/news/2013/09/14/the-united-states-and-russia-reach-a-deal-on-syrian-chemical-weapons.md) _(Current version)_
 
 ### Related:

@@ -18,8 +18,8 @@ At least 19 people are killed in bomb and gun attacks in the Somali capital Moga
 
 ### Changes:
 
-1. [War in Somalia (2009-present):At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/war-in-somalia-2009apresent-pat-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md) _2017-08-25 03:38:21 (First version)_
-2. [War in Somalia (2009-present):: At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/war-in-somalia-2009-present-at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md) _2017-08-27 03:38:33 (Update)_
+1. [War in Somalia (2009-present):At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/war-in-somalia-2009apresent-pat-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md) _2018-02-06 13:49:24 (First version)_
+2. [War in Somalia (2009-present):: At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/war-in-somalia-2009-present-at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md) _(Current version)_
 
 ### Related:

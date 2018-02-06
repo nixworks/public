@@ -17,7 +17,7 @@ The head of Iranian Railways has resigned after four of his employees were arres
 
 ### Changes:
 
-1. [Semnan-Damghan train collision: Iran arrests three railway officials in connection with yesterday's deadly train crash in Semnan that killed 45 and injured 103 people. ](/news/2016/11/26/semnan-damghan-train-collision-iran-arrests-three-railway-officials-in-connection-with-yesterday-s-deadly-train-crash-in-semnan-that-kill.md) _2017-08-27 03:47:19 (First version)_
+1. [Semnan-Damghan train collision: Iran arrests three railway officials in connection with yesterday's deadly train crash in Semnan that killed 45 and injured 103 people. ](/news/2016/11/26/semnan-damghan-train-collision-iran-arrests-three-railway-officials-in-connection-with-yesterday-s-deadly-train-crash-in-semnan-that-kill.md) _2018-02-06 13:49:29 (First version)_
 1. [Iran arrests three railway officials in connection with yesterday's deadly train crash in Semnan that killed 45 and injured 103 people. ](/news/2016/11/26/iran-arrests-three-railway-officials-in-connection-with-yesterday-s-deadly-train-crash-in-semnan-that-killed-45-and-injured-103-people.md) _(Current version)_
 
 ### Related:

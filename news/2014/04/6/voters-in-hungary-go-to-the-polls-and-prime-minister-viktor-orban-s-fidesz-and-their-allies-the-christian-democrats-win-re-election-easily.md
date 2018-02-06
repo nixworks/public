@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/04/6/voters-in-hungary-go-to-the-polls-and-prime-mini
 
 ### Changes:
 
-1. [Hungarian parliamentary election, 2014:Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-pvoters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-chr.md) _2017-08-25 03:40:15 (First version)_
-2. [Hungarian parliamentary election, 2014:: Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-voters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-ch.md) _2017-08-27 03:40:33 (Update)_
+1. [Hungarian parliamentary election, 2014:: Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-voters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-ch.md) _2018-02-06 13:49:26 (First version)_
+2. [Hungarian parliamentary election, 2014:Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-pvoters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-chr.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/voters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-christian-democrats-win-re-election-easily.md) _(Current version)_
 
 ### Related:

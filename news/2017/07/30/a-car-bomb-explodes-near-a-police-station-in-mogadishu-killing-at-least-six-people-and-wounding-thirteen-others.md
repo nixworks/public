@@ -15,7 +15,7 @@ At least six people reportedly killed in blast near police station next to busy 
 
 ### Changes:
 
-1. [War in Somalia: A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/war-in-somalia-a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md) _2017-08-27 03:48:44 (First version)_
+1. [War in Somalia: A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/war-in-somalia-a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md) _2018-02-06 13:49:31 (First version)_
 1. [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md) _(Current version)_
 
 ### Related:

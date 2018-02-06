@@ -17,7 +17,7 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 
 ### Changes:
 
-1. [War in Afghanistan: A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/war-in-afghanistan-a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _2017-08-27 03:42:01 (First version)_
+1. [War in Afghanistan: A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/war-in-afghanistan-a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _2018-02-06 13:49:26 (First version)_
 1. [A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _(Current version)_
 
 ### Related:

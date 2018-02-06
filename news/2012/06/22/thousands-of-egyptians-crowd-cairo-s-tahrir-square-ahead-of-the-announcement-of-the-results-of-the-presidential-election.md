@@ -18,8 +18,8 @@ Formats: [HTML](/news/2012/06/22/thousands-of-egyptians-crowd-cairo-s-tahrir-squ
 
 ### Changes:
 
-1. [Egyptian presidential election:Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-pthousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-president.md) _2017-08-25 03:35:57 (First version)_
-2. [Egyptian presidential election:: Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presiden.md) _2017-08-27 03:36:07 (Update)_
+1. [Egyptian presidential election:: Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presiden.md) _2018-02-06 13:49:23 (First version)_
+2. [Egyptian presidential election:Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-pthousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-president.md) _2018-02-06 13:49:23 (Update)_
 2. [Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presidential-election.md) _(Current version)_
 
 ### Related:

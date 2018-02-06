@@ -17,8 +17,8 @@ European Union leaders argued on Thursday over the right balance between budget 
 
 ### Changes:
 
-1. [European Union summit:European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-summit-peuropean-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-president.md) _2017-08-25 03:35:11 (First version)_
-2. [European Union summit:: European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-summit-european-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-presiden.md) _2017-08-27 03:35:20 (Update)_
+1. [European Union summit:European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-summit-peuropean-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-president.md) _2018-02-06 13:49:23 (First version)_
+2. [European Union summit:: European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-summit-european-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-presiden.md) _2018-02-06 13:49:23 (Update)_
 2. [European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-president-of-the-european-counci.md) _(Current version)_
 
 ### Related:

@@ -16,7 +16,7 @@ A police officer is killed during a shootout involving machine guns and anti-tan
 
 ### Changes:
 
-1. [More than 400 Albanian police supported by Army helicopters surround the village of Lazarat in southern Albania known as the "cannabis Kingdom" where an armed criminal gang has entrenched itself. ](/news/2015/06/25/more-than-400-albanian-police-supported-by-army-helicopters-surround-the-village-of-lazarat-in-southern-albania-known-as-the-cannabis-king.md) _2017-08-25 03:42:17 (First version)_
+1. [More than 400 Albanian police supported by Army helicopters surround the village of Lazarat in southern Albania known as the "cannabis Kingdom" where an armed criminal gang has entrenched itself. ](/news/2015/06/25/more-than-400-albanian-police-supported-by-army-helicopters-surround-the-village-of-lazarat-in-southern-albania-known-as-the-cannabis-king.md) _2018-02-06 13:49:27 (First version)_
 1. [More than 400 Albanian police supported by Army helicopters surround the village of Lazarat in southern Albania known as the "cannabis Kingdom" where an armed criminal gang has entrenched itself. ](/news/2015/06/25/more-than-400-albanian-police-supported-by-army-helicopters-surround-the-village-of-lazarat-in-southern-albania-known-as-the-cannabis-kingd.md) _(Current version)_
 
 ### Related:

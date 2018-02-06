@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the
 
 ### Changes:
 
-1. [This year's "Arctic Report Card" reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-i.md) _2017-12-13 00:30:07 (First version)_
+1. [This year's "Arctic Report Card" reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-i.md) _2018-02-06 13:49:31 (First version)_
 1. [This year's Arctic Report Card reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-in.md) _(Current version)_
 
 ### Related:

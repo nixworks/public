@@ -16,7 +16,7 @@ Former US army general and CIA director fined $100,000 – $60,000 more than exp
 
 ### Changes:
 
-1. [Petraeus scandal: Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. ](/news/2015/04/23/petraeus-scandal-former-united-states-army-general-and-director-of-the-central-intelligence-agency-david-petraeus-pleads-guilty-of-sharing.md) _2017-08-27 03:42:14 (First version)_
+1. [Petraeus scandal: Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. ](/news/2015/04/23/petraeus-scandal-former-united-states-army-general-and-director-of-the-central-intelligence-agency-david-petraeus-pleads-guilty-of-sharing.md) _2018-02-06 13:49:27 (First version)_
 1. [Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. ](/news/2015/04/23/former-united-states-army-general-and-director-of-the-central-intelligence-agency-david-petraeus-pleads-guilty-of-sharing-classified-informa.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-th
 
 ### Changes:
 
-1. [A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-r.md) _2017-08-25 03:41:05 (First version)_
+1. [A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-r.md) _2018-02-06 13:49:26 (First version)_
 1. [A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-rep.md) _(Current version)_
 
 ### Related:

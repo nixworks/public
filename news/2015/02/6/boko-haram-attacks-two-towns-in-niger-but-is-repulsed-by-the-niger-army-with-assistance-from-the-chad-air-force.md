@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-rep
 
 ### Changes:
 
-1. [Boko Haram: Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _2017-08-27 03:41:53 (First version)_
+1. [Boko Haram: Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _2018-02-06 13:49:26 (First version)_
 1. [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _(Current version)_
 
 ### Related:

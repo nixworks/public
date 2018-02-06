@@ -16,7 +16,7 @@ Gov. Bobby Jindal, who became Louisiana’s first nonwhite governor since Recons
 
 ### Changes:
 
-1. [United States presidential election, 2016: Bobby Jindal, the Governor of Louisiana, announces that he will be a candidate for the Republican Party nomination in the 2016 Presidential election.](/news/2015/06/24/united-states-presidential-election-2016-bobby-jindal-the-governor-of-louisiana-announces-that-he-will-be-a-candidate-for-the-republican.md) _2017-08-27 03:42:35 (First version)_
+1. [United States presidential election, 2016: Bobby Jindal, the Governor of Louisiana, announces that he will be a candidate for the Republican Party nomination in the 2016 Presidential election.](/news/2015/06/24/united-states-presidential-election-2016-bobby-jindal-the-governor-of-louisiana-announces-that-he-will-be-a-candidate-for-the-republican.md) _2018-02-06 13:49:27 (First version)_
 1. [Bobby Jindal, the Governor of Louisiana, announces that he will be a candidate for the Republican Party nomination in the 2016 Presidential election.](/news/2015/06/24/bobby-jindal-the-governor-of-louisiana-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-in-the-2016-presidential.md) _(Current version)_
 
 ### Related:

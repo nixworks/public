@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/04/22/south-korea-approves-plans-to-recover-the-sewol
 
 ### Changes:
 
-1. [South Korea approves plans to recover the {{MV|Sewol}} which sank last year with the loss of 300 people. ](/news/2015/04/22/south-korea-approves-plans-to-recover-the-mv-sewol-which-sank-last-year-with-the-loss-of-300-people.md) _2017-05-01 03:45:31 (First version)_
-2. [Sinking of the MV Sewol: South Korea approves plans to recover the Sewol which sank last year with the loss of 300 people. ](/news/2015/04/22/sinking-of-the-mv-sewol-south-korea-approves-plans-to-recover-the-sewol-which-sank-last-year-with-the-loss-of-300-people.md) _2017-08-27 03:42:14 (Update)_
+1. [South Korea approves plans to recover the {{MV|Sewol}} which sank last year with the loss of 300 people. ](/news/2015/04/22/south-korea-approves-plans-to-recover-the-mv-sewol-which-sank-last-year-with-the-loss-of-300-people.md) _2018-02-06 13:49:27 (First version)_
+2. [Sinking of the MV Sewol: South Korea approves plans to recover the Sewol which sank last year with the loss of 300 people. ](/news/2015/04/22/sinking-of-the-mv-sewol-south-korea-approves-plans-to-recover-the-sewol-which-sank-last-year-with-the-loss-of-300-people.md) _2018-02-06 13:49:27 (Update)_
 2. [South Korea approves plans to recover the Sewol which sank last year with the loss of 300 people. ](/news/2015/04/22/south-korea-approves-plans-to-recover-the-sewol-which-sank-last-year-with-the-loss-of-300-people.md) _(Current version)_
 
 ### Related:

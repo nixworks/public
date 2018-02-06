@@ -16,7 +16,7 @@ Two U.S. service members were killed and five injured during combat operations i
 
 ### Changes:
 
-1. [Iraqi Civil War (2014-present): During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/iraqi-civil-war-2014-present-during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md) _2017-08-27 03:48:48 (First version)_
+1. [Iraqi Civil War (2014-present): During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/iraqi-civil-war-2014-present-during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md) _2018-02-06 13:49:31 (First version)_
 1. [During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md) _(Current version)_
 
 ### Related:

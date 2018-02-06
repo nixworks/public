@@ -17,7 +17,7 @@ Sanctions freeze Venezuelan president’s assets under US jurisdiction and preve
 
 ### Changes:
 
-1. [United States-Venezuela relations: The United States sanctions Venezuelan President Nicolas Maduro over the controversial Constitutional Assembly election which critics say is an attempt to establish a dictatorship. ](/news/2017/07/31/united-states-venezuela-relations-the-united-states-sanctions-venezuelan-president-nicola-s-maduro-over-the-controversial-constitutional.md) _2017-08-27 03:48:45 (First version)_
+1. [United States-Venezuela relations: The United States sanctions Venezuelan President Nicolas Maduro over the controversial Constitutional Assembly election which critics say is an attempt to establish a dictatorship. ](/news/2017/07/31/united-states-venezuela-relations-the-united-states-sanctions-venezuelan-president-nicola-s-maduro-over-the-controversial-constitutional.md) _2018-02-06 13:49:31 (First version)_
 1. [The United States sanctions Venezuelan President Nicolas Maduro over the controversial Constitutional Assembly election which critics say is an attempt to establish a dictatorship. ](/news/2017/07/31/the-united-states-sanctions-venezuelan-president-nicola-s-maduro-over-the-controversial-constitutional-assembly-election-which-critics-say-i.md) _(Current version)_
 
 ### Related:

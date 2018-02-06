@@ -16,7 +16,7 @@ Nine people have been killed in new violence in Benghazi where pro-government fo
 
 ### Changes:
 
-1. [2014 Libyan conflict: Pro-government forces launch an attack on Islamist militants resulting in 75 deaths in five days. ](/news/2014/10/20/2014-libyan-conflict-pro-government-forces-launch-an-attack-on-islamist-militants-resulting-in-75-deaths-in-five-days.md) _2017-08-27 03:41:25 (First version)_
+1. [2014 Libyan conflict: Pro-government forces launch an attack on Islamist militants resulting in 75 deaths in five days. ](/news/2014/10/20/2014-libyan-conflict-pro-government-forces-launch-an-attack-on-islamist-militants-resulting-in-75-deaths-in-five-days.md) _2018-02-06 13:49:26 (First version)_
 1. [Pro-government forces launch an attack on Islamist militants resulting in 75 deaths in five days. ](/news/2014/10/20/pro-government-forces-launch-an-attack-on-islamist-militants-resulting-in-75-deaths-in-five-days.md) _(Current version)_
 
 ### Related:

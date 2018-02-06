@@ -18,7 +18,7 @@ President Donald Trump has named Ret. Gen. John Kelly as the new White House chi
 
 ### Changes:
 
-1. [Political appointments by Donald Trump: U.S. President Donald Trump announces Homeland Security Secretary John F. Kelly will be White House Chief of Staff, replacing Reince Priebus. ](/news/2017/07/28/political-appointments-by-donald-trump-u-s-president-donald-trump-announces-homeland-security-secretary-john-f-kelly-will-be-white-house.md) _2017-08-27 03:48:44 (First version)_
+1. [Political appointments by Donald Trump: U.S. President Donald Trump announces Homeland Security Secretary John F. Kelly will be White House Chief of Staff, replacing Reince Priebus. ](/news/2017/07/28/political-appointments-by-donald-trump-u-s-president-donald-trump-announces-homeland-security-secretary-john-f-kelly-will-be-white-house.md) _2018-02-06 13:49:31 (First version)_
 1. [U.S. President Donald Trump announces Homeland Security Secretary John F. Kelly will be White House Chief of Staff, replacing Reince Priebus. ](/news/2017/07/28/u-s-president-donald-trump-announces-homeland-security-secretary-john-f-kelly-will-be-white-house-chief-of-staff-replacing-reince-priebus.md) _(Current version)_
 
 ### Related:

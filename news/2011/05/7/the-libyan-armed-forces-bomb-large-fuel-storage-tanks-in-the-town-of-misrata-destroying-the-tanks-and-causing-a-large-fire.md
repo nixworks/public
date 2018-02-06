@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-
 
 ### Changes:
 
-1. [2011 Libyan civil war: The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/2011-libyan-civil-war-the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-larg.md) _2017-08-27 03:33:10 (First version)_
+1. [2011 Libyan civil war: The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/2011-libyan-civil-war-the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-larg.md) _2018-02-06 13:49:22 (First version)_
 1. [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md) _(Current version)_
 
 ### Related:

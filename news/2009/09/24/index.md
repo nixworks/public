@@ -5,11 +5,11 @@ Formats: [HTML](2009/09/24/index.html)  [JSON](2009/09/24/index.json)  [XML](200
 
 ##### Czech Republic
 ### [ Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-they-vote-on-it-agai.md)
-_Context: Treaty of Lisbon, Vaclav Klaus, Irish, European Union, President, the second Irish referendum, Czech Republic_
+_Context: President, Treaty of Lisbon, European Union, the second Irish referendum, Czech Republic, Irish, Vaclav Klaus_
 
 ##### al-Qaeda
 ### [ Sixteen members of al-Qaeda, five of whom have been sentenced to death, are at large after escaping from prison north of Baghdad. ](/news/2009/09/24/sixteen-members-of-al-qaeda-five-of-whom-have-been-sentenced-to-death-are-at-large-after-escaping-from-prison-north-of-baghdad.md)
-_Context: Baghdad, al-Qaeda_
+_Context: al-Qaeda, Baghdad_
 
 ##### India
 ### [ India's Chandrayaan-1 probe discovers large amounts of water on the Moon. ](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.md)
@@ -21,7 +21,7 @@ The United Nations council unanimously passed a resolution aimed at shoring up c
 
 ##### Thailand
 ### [ Thailand and the U.S. Army announce a breakthrough of a HIV-AIDS vaccine, after trials find it can reduce infection by 31%. ](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.md)
-_Context: AIDS, Thailand, HIV_
+_Context: HIV, AIDS, Thailand_
 
 ##### Arthur's Day
 ### [ Arthur's Day: The 250th anniversary of the signing of a lease by Arthur Guinness for a brewery at St James's Gate in Dublin. Events organised by Diageo get underway in Dublin, Kuala Lumpur, Lagos, New York and Yaounde. ](/news/2009/09/24/arthur-s-day-the-250th-anniversary-of-the-signing-of-a-lease-by-arthur-guinness-for-a-brewery-at-st-james-s-gate-in-dublin-events-organis.md)
@@ -29,7 +29,7 @@ People all over the world have been toasting what is described as a momentous an
 
 ##### Ottoman-era
 ### [ The last surviving Ottoman, Ertugrul Osman, dies in Istanbul at the age of 97. ](/news/2009/09/24/the-last-surviving-ottoman-ertuarul-osman-dies-in-istanbul-at-the-age-of-97.md)
-_Context: Ertugrul Osman, Ottoman-era, Istanbul_
+_Context: Istanbul, Ottoman-era, Ertugrul Osman_
 
 ##### North Korea
 ### [ Nine North Koreans enter Denmark's embassy in the Vietnamese capital Hanoi to seek political asylum. ](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.md)
@@ -43,13 +43,13 @@ The group of nine North Koreans entered the Danish Embassy in Hanoi seeking poli
 ### [ Australia begins clearing up after its worst dust storm in seven decades, which smothered Sydney and brought transport to a standstill. ](/news/2009/09/24/australia-begins-clearing-up-after-its-worst-dust-storm-in-seven-decades-which-smothered-sydney-and-brought-transport-to-a-standstill.md)
 _Context: Australia, Sydney, worst dust storm in seven decades_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom's largest haul of Anglo-Saxon treasure, a collection of 1,500 gold and silver pieces comparable to the Book of Kells, is discovered buried beneath a field in Staffordshire. ](/news/2009/09/24/the-united-kingdom-s-largest-haul-of-anglo-saxon-treasure-a-collection-of-1-500-gold-and-silver-pieces-comparable-to-the-book-of-kells-is.md)
 The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items. Here are some of the collection&#039;s highlights:
 
 ##### News of the World
 ### [ The "News of the World" and "Daily Mail" newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after-prin.md)
-_Context: Fabio Capello, Italy, Daily Mail, England, News of the World, mud-bath, England_
+_Context: England, Fabio Capello, England, mud-bath, Italy, News of the World, Daily Mail_
 
 ##### South Korea
 ### [ South Korea agrees to develop 1,000 km 2 (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km-2-386-sq-miles-of-farmland-in-tanzania.md)
@@ -57,27 +57,27 @@ _Context: South Korea, Tanzania_
 
 ##### euro
 ### [ A painting worth up to 3 million euros by surrealist artist Rene Magritte is stolen by thieves at a museum in Brussels. ](/news/2009/09/24/a-painting-worth-up-to-3-million-euros-by-surrealist-artist-rena-c-magritte-is-stolen-by-thieves-at-a-museum-in-brussels.md)
-_Context: Brussels, Rene Magritte, surrealist, euro_
+_Context: euro, Brussels, Rene Magritte, surrealist_
 
 ##### Burma
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
-_Context: State Peace and Development Council, National League for Democracy, Burma, United States, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
 
 ##### Taiwan
 ### [ A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. ](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.md)
-_Context: Chen Shui-bian, President of Taiwan, Taiwan_
+_Context: Chen Shui-bian, Taiwan, President of Taiwan_
 
 ##### Tanzania Albino Society
 ### [ The Tanzania Albino Society (Tas) calls for the men found guilty of killing an albino boy in Tanzania to be hanged publicly as a warning to others. ](/news/2009/09/24/the-tanzania-albino-society-tas-calls-for-the-men-found-guilty-of-killing-an-albino-boy-in-tanzania-to-be-hanged-publicly-as-a-warning-to.md)
-_Context: men found guilty of killing an albino boy, Tanzania Albino Society, Tanzania_
+_Context: Tanzania, men found guilty of killing an albino boy, Tanzania Albino Society_
 
 ##### Bobby Cox
 ### [ Bobby Cox, manager of the professional baseball team Atlanta Braves, announces he will retire at the end of the 2010 season. ](/news/2009/09/24/bobby-cox-manager-of-the-professional-baseball-team-atlanta-braves-announces-he-will-retire-at-the-end-of-the-2010-season.md)
-_Context: baseball, Bobby Cox, Braves_
+_Context: baseball, Braves, Bobby Cox_
 
 ##### Massachusetts governor
 ### [ Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term. ](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.md)
-_Context: Paul G. Kirk, Jr., Democratic National Committee, Massachusetts, Massachusetts governor, Deval Patrick, United States Senate, Teddy Kennedy_
+_Context: Paul G. Kirk, Jr., United States Senate, Democratic National Committee, Teddy Kennedy, Massachusetts governor, Deval Patrick, Massachusetts_
 
 ##### Pittsburgh
 ### [ Leaders of the world converge on Pittsburgh, Pennsylvania for the opening of the G-20 Summit. ](/news/2009/09/24/leaders-of-the-world-converge-on-pittsburgh-pennsylvania-for-the-opening-of-the-g-20-summit.md)
@@ -85,11 +85,11 @@ _Context: Pittsburgh, G-20 Summit_
 
 ##### Tongan Loloahi Tapui
 ### [ Tongan Loloahi Tapui, the housekeeper of Attorney General for England and Wales Patricia Scotland, Baroness Scotland of Asthal, is arrested alongside her husband over alleged immigration offences. ](/news/2009/09/24/tongan-loloahi-tapui-the-housekeeper-of-attorney-general-for-england-and-wales-patricia-scotland-baroness-scotland-of-asthal-is-arrested.md)
-_Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal, Tongan Loloahi Tapui_
+_Context: Tongan Loloahi Tapui, Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
-##### Turkish
+##### Turkey
 ### [ Five deaths occur in Turkey as a result of flash floods. ](/news/2009/09/24/five-deaths-occur-in-turkey-as-a-result-of-flash-floods.md)
-_Context: Turkish_
+_Context: Turkey_
 
 ##### Nigeria
 ### [ Nigerian politician Waje Yayok, third in command in Kaduna State, is kidnapped. ](/news/2009/09/24/nigerian-politician-waje-yayok-third-in-command-in-kaduna-state-is-kidnapped.md)

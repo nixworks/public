@@ -15,8 +15,8 @@ Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents 
 
 ### Changes:
 
-1. [Citizens remain trapped in Marawi, Philippines after a ceasefire organised by the Moro Islamic Liberation Front is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-is-broken-up-to-2-000-peopl.md) _2017-06-05 00:30:06 (First version)_
-2. [Marawi crisis: Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/marawi-crisis-citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-br.md) _2017-08-27 03:48:25 (Update)_
+1. [Marawi crisis: Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/marawi-crisis-citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-br.md) _2018-02-06 13:49:30 (First version)_
+2. [Citizens remain trapped in Marawi, Philippines after a ceasefire organised by the Moro Islamic Liberation Front is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-is-broken-up-to-2-000-peopl.md) _2018-02-06 13:49:30 (Update)_
 2. [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md) _(Current version)_
 
 ### Related:

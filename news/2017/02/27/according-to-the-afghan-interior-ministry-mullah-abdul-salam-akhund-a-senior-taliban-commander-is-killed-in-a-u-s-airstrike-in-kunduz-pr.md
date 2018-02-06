@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/27/according-to-the-afghan-interior-ministry-mulla
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/war-in-afghanistan-2015-present-according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-ki.md) _2017-08-27 03:47:54 (First version)_
+1. [War in Afghanistan (2015-present): According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/war-in-afghanistan-2015-present-according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-ki.md) _2018-02-06 13:49:30 (First version)_
 1. [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md) _(Current version)_
 
 ### Related:

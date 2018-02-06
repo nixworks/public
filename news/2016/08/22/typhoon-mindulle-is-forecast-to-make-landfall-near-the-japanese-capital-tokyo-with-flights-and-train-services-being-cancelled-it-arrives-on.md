@@ -17,7 +17,7 @@ Tokyo was pummeled by rain and winds as Mindulle became the first typhoon to mak
 
 ### Changes:
 
-1. [2016 Pacific typhoon season: Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/2016-pacific-typhoon-season-typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-b.md) _2017-08-27 03:46:41 (First version)_
+1. [2016 Pacific typhoon season: Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/2016-pacific-typhoon-season-typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-b.md) _2018-02-06 13:49:29 (First version)_
 1. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _(Current version)_
 
 ### Related:

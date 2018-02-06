@@ -17,7 +17,7 @@ The UN has warned that up to 200,000 people have been forced to flee after Islam
 
 ### Changes:
 
-1. [2014 Northern Iraq offensive: The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/2014-northern-iraq-offensive-the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _2017-08-27 03:41:05 (First version)_
+1. [2014 Northern Iraq offensive: The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/2014-northern-iraq-offensive-the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _2018-02-06 13:49:26 (First version)_
 1. [The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _(Current version)_
 
 ### Related:

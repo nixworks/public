@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/08/12/brendan-dassey-the-subject-of-netflix-s-hit-dra
 
 ### Changes:
 
-1. [Brendan Dassey, the subject of Netflix's hit drama ''Making a Murderer'' is found to have been wrongly convicted of murdering the photographer Teresa Halbach. A federal judge orders that he must be released from prison within three months. ](/news/2016/08/12/brendan-dassey-the-subject-of-netflix-s-hit-drama-making-a-murderer-is-found-to-have-been-wrongly-convicted-of-murdering-the-photograph.md) _2017-08-25 03:46:16 (First version)_
+1. [Brendan Dassey, the subject of Netflix's hit drama ''Making a Murderer'' is found to have been wrongly convicted of murdering the photographer Teresa Halbach. A federal judge orders that he must be released from prison within three months. ](/news/2016/08/12/brendan-dassey-the-subject-of-netflix-s-hit-drama-making-a-murderer-is-found-to-have-been-wrongly-convicted-of-murdering-the-photograph.md) _2018-02-06 13:49:29 (First version)_
 1. [Brendan Dassey, the subject of Netflix's hit drama "Making a Murderer" is found to have been wrongly convicted of murdering the photographer Teresa Halbach. A federal judge orders that he must be released from prison within three months. ](/news/2016/08/12/brendan-dassey-the-subject-of-netflix-s-hit-drama-making-a-murderer-is-found-to-have-been-wrongly-convicted-of-murdering-the-photographer.md) _(Current version)_
 
 ### Related:

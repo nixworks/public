@@ -16,8 +16,8 @@ Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 peop
 
 ### Changes:
 
-1. [War in North-West Pakistan:A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/war-in-north-west-pakistan-pa-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakist.md) _2017-08-25 03:38:52 (First version)_
-2. [War in North-West Pakistan:: A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/war-in-north-west-pakistan-a-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakis.md) _2017-08-27 03:39:06 (Update)_
+1. [War in North-West Pakistan:A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/war-in-north-west-pakistan-pa-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakist.md) _2018-02-06 13:49:25 (First version)_
+2. [War in North-West Pakistan:: A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/war-in-north-west-pakistan-a-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakis.md) _2018-02-06 13:49:25 (Update)_
 2. [A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/a-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakistan.md) _(Current version)_
 
 ### Related:

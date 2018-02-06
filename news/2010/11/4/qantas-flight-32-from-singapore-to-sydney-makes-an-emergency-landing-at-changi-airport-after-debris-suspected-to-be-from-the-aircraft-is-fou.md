@@ -19,8 +19,8 @@ Qantas has grounded its Airbus A380s after a mid-air explosion forced an emergen
 
 ### Changes:
 
-1. [Qantas Flight 32:Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-pqantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from-t.md) _2017-08-25 03:30:51 (First version)_
-2. [Qantas Flight 32:: Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from.md) _2017-08-27 03:30:58 (Update)_
+1. [Qantas Flight 32:: Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from.md) _2018-02-06 13:49:21 (First version)_
+2. [Qantas Flight 32:Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-pqantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from-t.md) _2018-02-06 13:49:21 (Update)_
 2. [Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from-the-aircraft-is-fou.md) _(Current version)_
 
 ### Related:

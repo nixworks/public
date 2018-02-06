@@ -17,8 +17,8 @@ Formats: [HTML](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-hi
 
 ### Changes:
 
-1. [Algeria-Egypt relations:Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeriaaegypt-relations-pegypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of.md) _2017-08-25 03:40:36 (First version)_
-2. [Algeria-Egypt relations:: Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeria-egypt-relations-egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-o.md) _2017-08-27 03:40:53 (Update)_
+1. [Algeria-Egypt relations:Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeriaaegypt-relations-pegypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of.md) _2018-02-06 13:49:26 (First version)_
+2. [Algeria-Egypt relations:: Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeria-egypt-relations-egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-o.md) _2018-02-06 13:49:26 (Update)_
 2. [Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of-the-agenda.md) _(Current version)_
 
 ### Related:

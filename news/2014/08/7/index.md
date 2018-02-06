@@ -17,11 +17,11 @@ Liberian President Ellen Johnson Sirleaf declares a state of emergency as the co
 
 ##### Hawaii
 ### [Residents in the US state of Hawaii prepare for the impact of Hurricane Iselle expected to hit the island of Hawaii as a Category 1 hurricane before weakening to a tropical storm when it hits the islands of Maui and Oahu. ](/news/2014/08/7/residents-in-the-us-state-of-hawaii-prepare-for-the-impact-of-hurricane-iselle-expected-to-hit-the-island-of-hawaii-as-a-category-1-hurrican.md)
-_Context: Hurricane Iselle, hurricane, tropical storm, island of Hawaii, Oahu, Hawaii, Maui_
+_Context: Hawaii, Oahu, island of Hawaii, tropical storm, Maui, hurricane, Hurricane Iselle_
 
 ##### United Nations
 ### [A United Nations backed war crimes tribunal sentences former Khmer Rouge leaders Khieu Samphan and Nuon Chea to life imprisonment for their roles in the Cambodian genocide that claimed a quarter of the population between 1975 and 1979. ](/news/2014/08/7/a-united-nations-backed-war-crimes-tribunal-sentences-former-khmer-rouge-leaders-khieu-samphan-and-nuon-chea-to-life-imprisonment-for-their.md)
-_Context: Khieu Samphan, Nuon Chea, Cambodian genocide, Khmer Rouge, United Nations_
+_Context: United Nations, Khieu Samphan, Nuon Chea, Cambodian genocide, Khmer Rouge_
 
 ## [Previous Day...](/news/2014/08/6/index.md)
 

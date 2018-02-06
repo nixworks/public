@@ -11,7 +11,7 @@ Formats: [HTML](/news/2002/07/2/medicine-nbsp-a-the-centers-for-disease-control-
 
 ### Changes:
 
-1. [ Medicine&nbsp;- The Centers for Disease Control and Prevention (CDC) of the United States will be headed by an infectious disease expert.](/news/2002/07/2/medicine-nbsp-the-centers-for-disease-control-and-prevention-cdc-of-the-united-states-will-be-headed-by-an-infectious-disease-expert.md) _2017-08-27 03:15:13 (First version)_
+1. [ Medicine&nbsp;- The Centers for Disease Control and Prevention (CDC) of the United States will be headed by an infectious disease expert.](/news/2002/07/2/medicine-nbsp-the-centers-for-disease-control-and-prevention-cdc-of-the-united-states-will-be-headed-by-an-infectious-disease-expert.md) _2018-02-06 13:49:15 (First version)_
 1. [ Medicine&nbsp;- The Centers for Disease Control and Prevention (CDC) of the United States will be headed by an infectious disease expert.](/news/2002/07/2/medicine-nbsp-a-the-centers-for-disease-control-and-prevention-cdc-of-the-united-states-will-be-headed-by-an-infectious-disease-expert.md) _(Current version)_
 
 ### Related:

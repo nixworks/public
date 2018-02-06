@@ -5,15 +5,15 @@ Formats: [HTML](2013/02/11/index.html)  [JSON](2013/02/11/index.json)  [XML](201
 
 ##### Gao
 ### [Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/insurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a-day-long-firefight-that-included-malian.md)
-_Context: France, Gao, Mali, helicopter_
+_Context: Mali, Gao, France, helicopter_
 
 ##### Cilvegozu
 ### [An explosion in a vehicle at the Cilvegozu border gate kills 14 civilians (eleven Syrians and three Turks), and injures more than 25 others in Reyhanli district of Hatay Province, Turkey. The gate is on the Turkish-Syrian border. ](/news/2013/02/11/an-explosion-in-a-vehicle-at-the-cilvegapza1-4-border-gate-kills-14-civilians-eleven-syrians-and-three-turks-and-injures-more-than-25-other.md)
-_Context: Turkish, Reyhanli, Hatay Province, Cilvegozu, Syria_
+_Context: Cilvegozu, Reyhanli, Turkey, Syria, Hatay Province_
 
 ##### Guinean military
 ### [Six top Guinean military officials, including the head of the Guinean armed forces, are killed in a plane crash in Liberia. ](/news/2013/02/11/six-top-guinean-military-officials-including-the-head-of-the-guinean-armed-forces-are-killed-in-a-plane-crash-in-liberia.md)
-_Context: Guinean military, Liberia, Guinea_
+_Context: Liberia, Guinea, Guinean military_
 
 ##### coal mine
 ### [18 miners are killed in explosion at the Vorkutinskaya coal mine in Russia's Komi Region. ](/news/2013/02/11/18-miners-are-killed-in-explosion-at-the-vorkutinskaya-coal-mine-in-russia-s-komi-region.md)
@@ -21,7 +21,7 @@ At least 16 workers killed and two more feared dead after explosion in coal mine
 
 ##### mass shooting
 ### [A mass shooting takes place at a courthouse in New Castle County, Delaware, United States, where a gunman shot and killed two women and injures two police officers. He is later found dead at the scene. ](/news/2013/02/11/a-mass-shooting-takes-place-at-a-courthouse-in-new-castle-county-delaware-united-states-where-a-gunman-shot-and-killed-two-women-and-inju.md)
-_Context: courthouse, New Castle County, Delaware, mass shooting, United States_
+_Context: New Castle County, United States, Delaware, courthouse, mass shooting_
 
 ##### Monaco
 ### [In Monaco's parliamentary elections, Horizon Monaco alliance wins 50.3% of the vote, 20 of 24 seats in the National Council. ](/news/2013/02/11/in-monaco-s-parliamentary-elections-horizon-monaco-alliance-wins-50-3-of-the-vote-20-of-24-seats-in-the-national-council.md)
@@ -29,7 +29,7 @@ _Context: Monaco, parliamentary elections, National Council_
 
 ##### Governor of the Northern Mariana Islands
 ### [Governor of the Northern Mariana Islands Benigno Fitial is impeached by the Northern Mariana Islands House of Representatives on 13 charges of felony, corruption, and neglect of duty. ](/news/2013/02/11/governor-of-the-northern-mariana-islands-benigno-fitial-is-impeached-by-the-northern-mariana-islands-house-of-representatives-on-13-charges.md)
-_Context: Northern Mariana Islands House of Representatives, impeached, Governor of the Northern Mariana Islands, Benigno Fitial, Northern Mariana Islands_
+_Context: Governor of the Northern Mariana Islands, Northern Mariana Islands, impeached, Benigno Fitial, Northern Mariana Islands House of Representatives_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI announces his resignation, effective February 28 at 8pm CET (7pm UTC). He will become the first pope to resign since Gregory XII in 1415. ](/news/2013/02/11/pope-benedict-xvi-announces-his-resignation-effective-february-28-at-8pm-cet-7pm-utc-he-will-become-the-first-pope-to-resign-since-grego.md)

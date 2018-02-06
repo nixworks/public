@@ -17,7 +17,7 @@ At least three people were killed in a double suicide bombing in a village near 
 
 ### Changes:
 
-1. [Boko Haram insurgency: Two suicide bomb attacks in Ngouboua, a remote village near Lake Chad, kill three people, including the bombers, and injure four others, according to Chadian Communication Minister Hassan Sylla Bakari. ](/news/2015/11/8/boko-haram-insurgency-two-suicide-bomb-attacks-in-ngouboua-a-remote-village-near-lake-chad-kill-three-people-including-the-bombers-and.md) _2017-08-27 03:43:44 (First version)_
+1. [Boko Haram insurgency: Two suicide bomb attacks in Ngouboua, a remote village near Lake Chad, kill three people, including the bombers, and injure four others, according to Chadian Communication Minister Hassan Sylla Bakari. ](/news/2015/11/8/boko-haram-insurgency-two-suicide-bomb-attacks-in-ngouboua-a-remote-village-near-lake-chad-kill-three-people-including-the-bombers-and.md) _2018-02-06 13:49:28 (First version)_
 1. [Two suicide bomb attacks in Ngouboua, a remote village near Lake Chad, kill three people, including the bombers, and injure four others, according to Chadian Communication Minister Hassan Sylla Bakari. ](/news/2015/11/8/two-suicide-bomb-attacks-in-ngouboua-a-remote-village-near-lake-chad-kill-three-people-including-the-bombers-and-injure-four-others-acc.md) _(Current version)_
 
 ### Related:

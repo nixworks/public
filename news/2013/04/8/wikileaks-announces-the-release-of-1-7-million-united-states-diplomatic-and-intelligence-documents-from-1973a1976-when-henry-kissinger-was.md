@@ -17,7 +17,7 @@ The website Wikileaks publishes more than 1.7 million US diplomatic and intellig
 
 ### Changes:
 
-1. [Wikileaks announces the release of 1.7 million United States diplomatic and intelligence documents from 1973-1976 when Henry Kissinger was United States Secretary of State. ](/news/2013/04/8/wikileaks-announces-the-release-of-1-7-million-united-states-diplomatic-and-intelligence-documents-from-1973-1976-when-henry-kissinger-was.md) _2017-08-27 03:38:25 (First version)_
+1. [Wikileaks announces the release of 1.7 million United States diplomatic and intelligence documents from 1973-1976 when Henry Kissinger was United States Secretary of State. ](/news/2013/04/8/wikileaks-announces-the-release-of-1-7-million-united-states-diplomatic-and-intelligence-documents-from-1973-1976-when-henry-kissinger-was.md) _2018-02-06 13:49:24 (First version)_
 1. [Wikileaks announces the release of 1.7 million United States diplomatic and intelligence documents from 1973-1976 when Henry Kissinger was United States Secretary of State. ](/news/2013/04/8/wikileaks-announces-the-release-of-1-7-million-united-states-diplomatic-and-intelligence-documents-from-1973a1976-when-henry-kissinger-was.md) _(Current version)_
 
 ### Related:

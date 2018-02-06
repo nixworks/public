@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldie
 
 ### Changes:
 
-1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001-present-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _2017-08-27 03:18:34 (First version)_
+1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001-present-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _2018-02-06 13:49:17 (First version)_
 1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Voters in two European Union countries, the Czech Republic and Ireland, began vo
 
 ### Changes:
 
-1. [European Parliament election:Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/european-parliament-election-pvoters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvia.md) _2017-08-25 03:40:26 (First version)_
-2. [European Parliament election:: Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/european-parliament-election-voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvi.md) _2017-08-27 03:40:44 (Update)_
+1. [European Parliament election:: Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/european-parliament-election-voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvi.md) _2018-02-06 13:49:26 (First version)_
+2. [European Parliament election:Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/european-parliament-election-pvoters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvia.md) _2018-02-06 13:49:26 (Update)_
 2. [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvia-malta-slovakia-and-the-cze.md) _(Current version)_
 
 ### Related:

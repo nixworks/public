@@ -16,8 +16,8 @@ The Rosetta spacecraft has crashed into a comet, bringing to an end one of the m
 
 ### Changes:
 
-1. [The European Space Agency's ''Rosetta'' space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumovagerasimenko-in-a-collision-mane.md) _2017-08-25 03:46:32 (First version)_
-2. [The European Space Agency's "Rosetta" space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumov-gerasimenko-in-a-collision-maneuv.md) _2017-08-27 03:46:55 (Update)_
+1. [The European Space Agency's ''Rosetta'' space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumovagerasimenko-in-a-collision-mane.md) _2018-02-06 13:49:29 (First version)_
+2. [The European Space Agency's "Rosetta" space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumov-gerasimenko-in-a-collision-maneuv.md) _2018-02-06 13:49:29 (Update)_
 2. [The European Space Agency's "Rosetta" space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumovagerasimenko-in-a-collision-maneuv.md) _(Current version)_
 
 ### Related:

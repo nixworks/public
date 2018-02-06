@@ -16,7 +16,7 @@ Here&#039;s the latest on this deadly winter storm.
 
 ### Changes:
 
-1. [February 2017 North American blizzard: A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/february-2017-north-american-blizzard-a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _2017-08-27 03:47:47 (First version)_
+1. [February 2017 North American blizzard: A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/february-2017-north-american-blizzard-a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _2018-02-06 13:49:30 (First version)_
 1. [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _(Current version)_
 
 ### Related:

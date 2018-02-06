@@ -20,8 +20,8 @@ Outspoken and divisive president dies after two-year battle with cancer, leaving
 
 ### Changes:
 
-1. [Death of Hugo Chavez:Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/death-of-hugo-cha-vez-phugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md) _2017-08-25 03:37:44 (First version)_
-2. [Death of Hugo Chavez:: Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/death-of-hugo-cha-vez-hugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md) _2017-08-27 03:37:54 (Update)_
+1. [Death of Hugo Chavez:Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/death-of-hugo-cha-vez-phugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md) _2018-02-06 13:49:24 (First version)_
+2. [Death of Hugo Chavez:: Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/death-of-hugo-cha-vez-hugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md) _2018-02-06 13:49:24 (Update)_
 2. [Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/hugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md) _(Current version)_
 
 ### Related:

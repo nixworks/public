@@ -19,7 +19,7 @@ Formats: [HTML](/news/2009/07/8/the-european-commission-fines-gdf-suez-and-e-on-
 
 ### Changes:
 
-1. [ The European Commission fines GDF Suez and E.ON -553&nbsp;million each over arrangements on the MEGAL pipeline. ](/news/2009/07/8/the-european-commission-fines-gdf-suez-and-e-on-553-nbsp-million-each-over-arrangements-on-the-megal-pipeline.md) _2017-08-27 03:24:58 (First version)_
+1. [ The European Commission fines GDF Suez and E.ON -553&nbsp;million each over arrangements on the MEGAL pipeline. ](/news/2009/07/8/the-european-commission-fines-gdf-suez-and-e-on-553-nbsp-million-each-over-arrangements-on-the-megal-pipeline.md) _2018-02-06 13:49:19 (First version)_
 1. [ The European Commission fines GDF Suez and E.ON EUR553&nbsp;million each over arrangements on the MEGAL pipeline. ](/news/2009/07/8/the-european-commission-fines-gdf-suez-and-e-on-a-553-nbsp-million-each-over-arrangements-on-the-megal-pipeline.md) _(Current version)_
 
 ### Related:

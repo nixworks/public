@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/10/23/the-new-york-city-council-votes-29a22-in-favor-
 
 ### Changes:
 
-1. [ The New York City Council votes 29-22 in favor of extending the term limit on the office of the Mayor to three consecutive four-year terms from two consecutive four-year terms. This allows current Mayor Michael Bloomberg to run for office again in the next mayoral election in November 2009. ](/news/2008/10/23/the-new-york-city-council-votes-29-22-in-favor-of-extending-the-term-limit-on-the-office-of-the-mayor-to-three-consecutive-four-year-term.md) _2017-08-27 03:22:59 (First version)_
+1. [ The New York City Council votes 29-22 in favor of extending the term limit on the office of the Mayor to three consecutive four-year terms from two consecutive four-year terms. This allows current Mayor Michael Bloomberg to run for office again in the next mayoral election in November 2009. ](/news/2008/10/23/the-new-york-city-council-votes-29-22-in-favor-of-extending-the-term-limit-on-the-office-of-the-mayor-to-three-consecutive-four-year-term.md) _2018-02-06 13:49:18 (First version)_
 1. [ The New York City Council votes 29-22 in favor of extending the term limit on the office of the Mayor to three consecutive four-year terms from two consecutive four-year terms. This allows current Mayor Michael Bloomberg to run for office again in the next mayoral election in November 2009. ](/news/2008/10/23/the-new-york-city-council-votes-29a22-in-favor-of-extending-the-term-limit-on-the-office-of-the-mayor-to-three-consecutive-four-year-term.md) _(Current version)_
 
 ### Related:

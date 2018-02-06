@@ -18,8 +18,8 @@ E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces o
 
 ### Changes:
 
-1. [2010 Qur'an-burning controversy:Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-pthousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md) _2017-08-25 03:29:58 (First version)_
-2. [2010 Qur'an-burning controversy:: Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md) _2017-08-27 03:30:02 (Update)_
+1. [2010 Qur'an-burning controversy:: Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md) _2018-02-06 13:49:20 (First version)_
+2. [2010 Qur'an-burning controversy:Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-pthousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md) _2018-02-06 13:49:20 (Update)_
 2. [Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran-day-despite-its-cancellation.md) _(Current version)_
 
 ### Related:

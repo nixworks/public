@@ -17,8 +17,8 @@ Formats: [HTML](/news/2013/02/22/13-chadian-soldiers-and-65-islamist-insurgents-
 
 ### Changes:
 
-1. [Northern Mali conflict:13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-p13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md) _2017-08-25 03:37:35 (First version)_
-2. [Northern Mali conflict:: 13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md) _2017-08-27 03:37:47 (Update)_
+1. [Northern Mali conflict:13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-p13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md) _2018-02-06 13:49:24 (First version)_
+2. [Northern Mali conflict:: 13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md) _2018-02-06 13:49:24 (Update)_
 2. [13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md) _(Current version)_
 
 ### Related:

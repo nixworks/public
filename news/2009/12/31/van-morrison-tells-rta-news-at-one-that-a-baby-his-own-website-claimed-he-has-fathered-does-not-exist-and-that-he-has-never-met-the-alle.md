@@ -20,7 +20,7 @@ Van Morrison has exclusively told RTÉ Radio&#39;s News at One that his official
 
 ### Changes:
 
-1. [ Van Morrison tells ''RTE News at One'' that a baby his own website claimed he has fathered does not exist and that he has never met the alleged mother. ](/news/2009/12/31/van-morrison-tells-rta-news-at-one-that-a-baby-his-own-website-claimed-he-has-fathered-does-not-exist-and-that-he-has-never-met-the-al.md) _2017-08-25 03:26:45 (First version)_
+1. [ Van Morrison tells ''RTE News at One'' that a baby his own website claimed he has fathered does not exist and that he has never met the alleged mother. ](/news/2009/12/31/van-morrison-tells-rta-news-at-one-that-a-baby-his-own-website-claimed-he-has-fathered-does-not-exist-and-that-he-has-never-met-the-al.md) _2018-02-06 13:49:19 (First version)_
 1. [ Van Morrison tells "RTE News at One" that a baby his own website claimed he has fathered does not exist and that he has never met the alleged mother. ](/news/2009/12/31/van-morrison-tells-rta-news-at-one-that-a-baby-his-own-website-claimed-he-has-fathered-does-not-exist-and-that-he-has-never-met-the-alle.md) _(Current version)_
 
 ### Related:

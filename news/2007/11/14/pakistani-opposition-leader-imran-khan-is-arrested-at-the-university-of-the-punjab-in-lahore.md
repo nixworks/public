@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/11/14/pakistani-opposition-leader-imran-khan-is-arres
 
 ### Changes:
 
-1. [ 2007 Pakistani state of emergency: Pakistani opposition leader Imran Khan is arrested at the University of the Punjab in Lahore. ](/news/2007/11/14/2007-pakistani-state-of-emergency-p-pakistani-opposition-leader-imran-khan-is-arrested-at-the-university-of-the-punjab-in-lahore.md) _2017-08-25 03:21:21 (First version)_
-2. [ 2007 Pakistani state of emergency:: Pakistani opposition leader Imran Khan is arrested at the University of the Punjab in Lahore. ](/news/2007/11/14/2007-pakistani-state-of-emergency-pakistani-opposition-leader-imran-khan-is-arrested-at-the-university-of-the-punjab-in-lahore.md) _2017-08-27 03:21:16 (Update)_
+1. [ 2007 Pakistani state of emergency:: Pakistani opposition leader Imran Khan is arrested at the University of the Punjab in Lahore. ](/news/2007/11/14/2007-pakistani-state-of-emergency-pakistani-opposition-leader-imran-khan-is-arrested-at-the-university-of-the-punjab-in-lahore.md) _2018-02-06 13:49:18 (First version)_
+2. [ 2007 Pakistani state of emergency: Pakistani opposition leader Imran Khan is arrested at the University of the Punjab in Lahore. ](/news/2007/11/14/2007-pakistani-state-of-emergency-p-pakistani-opposition-leader-imran-khan-is-arrested-at-the-university-of-the-punjab-in-lahore.md) _2018-02-06 13:49:18 (Update)_
 2. [ Pakistani opposition leader Imran Khan is arrested at the University of the Punjab in Lahore. ](/news/2007/11/14/pakistani-opposition-leader-imran-khan-is-arrested-at-the-university-of-the-punjab-in-lahore.md) _(Current version)_
 
 ### Related:

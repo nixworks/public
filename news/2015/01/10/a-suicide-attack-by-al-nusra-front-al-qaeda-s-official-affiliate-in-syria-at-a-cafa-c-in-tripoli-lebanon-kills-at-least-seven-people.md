@@ -16,7 +16,7 @@ A suicide bomb attack on a cafe in the Lebanese city of Tripoli killed at least 
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon: A suicide attack by al-Nusra Front (al-Qaeda's official affiliate in Syria) at a cafe in Tripoli, Lebanon, kills at least seven people.](/news/2015/01/10/syrian-civil-war-spillover-in-lebanon-a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-le.md) _2017-08-27 03:41:46 (First version)_
+1. [Syrian Civil War spillover in Lebanon: A suicide attack by al-Nusra Front (al-Qaeda's official affiliate in Syria) at a cafe in Tripoli, Lebanon, kills at least seven people.](/news/2015/01/10/syrian-civil-war-spillover-in-lebanon-a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-le.md) _2018-02-06 13:49:26 (First version)_
 1. [A suicide attack by al-Nusra Front (al-Qaeda's official affiliate in Syria) at a cafe in Tripoli, Lebanon, kills at least seven people.](/news/2015/01/10/a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-lebanon-kills-at-least-seven-people.md) _(Current version)_
 
 ### Related:

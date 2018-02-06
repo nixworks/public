@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-
 
 ### Changes:
 
-1. [2014 Ebola epidemic: In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/2014-ebola-epidemic-in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md) _2017-08-27 03:41:41 (First version)_
+1. [2014 Ebola epidemic: In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/2014-ebola-epidemic-in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md) _2018-02-06 13:49:26 (First version)_
 1. [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md) _(Current version)_
 
 ### Related:

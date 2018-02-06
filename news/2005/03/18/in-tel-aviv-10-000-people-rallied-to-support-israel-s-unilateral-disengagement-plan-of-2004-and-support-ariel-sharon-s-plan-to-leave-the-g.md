@@ -18,8 +18,8 @@ Demonstrators march from Tel Aviv’s Rabin Square to Dizengoff Circle Saturday;
 
 ### Changes:
 
-1. [ Israeli-Palestinian conflict: In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/israeli-palestinian-conflict-p-in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ari.md) _2017-08-25 03:15:49 (First version)_
-2. [ Israeli-Palestinian conflict:: In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/israeli-palestinian-conflict-in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ari.md) _2017-08-27 03:15:50 (Update)_
+1. [ Israeli-Palestinian conflict: In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/israeli-palestinian-conflict-p-in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ari.md) _2018-02-06 13:49:16 (First version)_
+2. [ Israeli-Palestinian conflict:: In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/israeli-palestinian-conflict-in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ari.md) _2018-02-06 13:49:16 (Update)_
 2. [ In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ariel-sharon-s-plan-to-leave-the-g.md) _(Current version)_
 
 ### Related:

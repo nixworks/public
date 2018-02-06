@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-
 
 ### Changes:
 
-1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the ''Allen charge'' to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-c.md) _2017-08-25 03:16:19 (First version)_
+1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the ''Allen charge'' to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-c.md) _2018-02-06 13:49:16 (First version)_
 1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the "Allen charge" to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.md) _(Current version)_
 
 ### Related:

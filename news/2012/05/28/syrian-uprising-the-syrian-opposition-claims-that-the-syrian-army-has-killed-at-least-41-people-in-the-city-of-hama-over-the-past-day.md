@@ -21,8 +21,8 @@ The Syrian army&#39;s bombardment of the city of Hama kills at least 41 people.
 
 ### Changes:
 
-1. [Arab Spring:Syrian uprising:The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/arab-spring-psyrian-uprising-pthe-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the-p.md) _2017-08-25 03:35:45 (First version)_
-2. [Arab Spring:: Syrian uprising:: The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/arab-spring-syrian-uprising-the-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the.md) _2017-08-27 03:35:56 (Update)_
+1. [Arab Spring:: Syrian uprising:: The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/arab-spring-syrian-uprising-the-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the.md) _2018-02-06 13:49:23 (First version)_
+2. [Arab Spring:Syrian uprising:The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/arab-spring-psyrian-uprising-pthe-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the-p.md) _2018-02-06 13:49:23 (Update)_
 2. [Syrian uprising:The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/syrian-uprising-the-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the-past-day.md) _(Current version)_
 
 ### Related:

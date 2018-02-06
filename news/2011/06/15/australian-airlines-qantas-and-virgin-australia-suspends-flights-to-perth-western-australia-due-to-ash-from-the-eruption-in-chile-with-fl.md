@@ -18,8 +18,8 @@ Formats: [HTML](/news/2011/06/15/australian-airlines-qantas-and-virgin-australia
 
 ### Changes:
 
-1. [2011 Puyehue eruption:Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/2011-puyehue-eruption-paustralian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-eru.md) _2017-08-25 03:33:29 (First version)_
-2. [2011 Puyehue eruption:: Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/2011-puyehue-eruption-australian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-er.md) _2017-08-27 03:33:37 (Update)_
+1. [2011 Puyehue eruption:Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/2011-puyehue-eruption-paustralian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-eru.md) _2018-02-06 13:49:22 (First version)_
+2. [2011 Puyehue eruption:: Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/2011-puyehue-eruption-australian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-er.md) _2018-02-06 13:49:22 (Update)_
 2. [Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/australian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-eruption-in-chile-with-fl.md) _(Current version)_
 
 ### Related:

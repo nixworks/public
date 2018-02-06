@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-a
 
 ### Changes:
 
-1. [Colombian conflict: FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/colombian-conflict-farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md) _2017-08-27 03:41:34 (First version)_
+1. [Colombian conflict: FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/colombian-conflict-farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md) _2018-02-06 13:49:26 (First version)_
 1. [FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md) _(Current version)_
 
 ### Related:

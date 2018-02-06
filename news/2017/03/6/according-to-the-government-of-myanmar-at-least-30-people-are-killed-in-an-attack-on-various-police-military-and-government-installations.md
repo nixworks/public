@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/03/6/according-to-the-government-of-myanmar-at-least-
 
 ### Changes:
 
-1. [Internal conflict in Myanmar: According to the government of Myanmar, at least 30 people are killed in an attack on various police, military, and government installations by the Myanmar National Democratic Alliance Army in Laukkai. Four police officers were also taken hostage. ](/news/2017/03/6/internal-conflict-in-myanmar-according-to-the-government-of-myanmar-at-least-30-people-are-killed-in-an-attack-on-various-police-military.md) _2017-08-27 03:47:56 (First version)_
+1. [Internal conflict in Myanmar: According to the government of Myanmar, at least 30 people are killed in an attack on various police, military, and government installations by the Myanmar National Democratic Alliance Army in Laukkai. Four police officers were also taken hostage. ](/news/2017/03/6/internal-conflict-in-myanmar-according-to-the-government-of-myanmar-at-least-30-people-are-killed-in-an-attack-on-various-police-military.md) _2018-02-06 13:49:30 (First version)_
 1. [According to the government of Myanmar, at least 30 people are killed in an attack on various police, military, and government installations by the Myanmar National Democratic Alliance Army in Laukkai. Four police officers were also taken hostage. ](/news/2017/03/6/according-to-the-government-of-myanmar-at-least-30-people-are-killed-in-an-attack-on-various-police-military-and-government-installations.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ The three-week standoff involving a band of Filipino rebels who stormed a northe
 
 ### Changes:
 
-1. [2013 Lahad Datu standoff:The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/2013-lahad-datu-standoff-pthe-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-mal.md) _2017-08-25 03:37:43 (First version)_
-2. [2013 Lahad Datu standoff:: The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/2013-lahad-datu-standoff-the-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-ma.md) _2017-08-27 03:37:54 (Update)_
+1. [2013 Lahad Datu standoff:: The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/2013-lahad-datu-standoff-the-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-ma.md) _2018-02-06 13:49:24 (First version)_
+2. [2013 Lahad Datu standoff:The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/2013-lahad-datu-standoff-pthe-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-mal.md) _2018-02-06 13:49:24 (Update)_
 2. [The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/the-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-malaysian-armed-forces-contin.md) _(Current version)_
 
 ### Related:

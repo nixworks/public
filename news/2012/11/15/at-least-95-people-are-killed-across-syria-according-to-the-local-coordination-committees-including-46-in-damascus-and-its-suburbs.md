@@ -17,8 +17,8 @@ The move gives a powerful boost to the group known as the National Coalition of 
 
 ### Changes:
 
-1. [Syrian civil war:At least 95 people are killed across Syria according to the Local Coordination Committees, including 46 in Damascus and its suburbs. ](/news/2012/11/15/syrian-civil-war-pat-least-95-people-are-killed-across-syria-according-to-the-local-coordination-committees-including-46-in-damascus-and-it.md) _2017-08-25 03:36:49 (First version)_
-2. [Syrian civil war:: At least 95 people are killed across Syria according to the Local Coordination Committees, including 46 in Damascus and its suburbs. ](/news/2012/11/15/syrian-civil-war-at-least-95-people-are-killed-across-syria-according-to-the-local-coordination-committees-including-46-in-damascus-and-i.md) _2017-08-27 03:36:59 (Update)_
+1. [Syrian civil war:At least 95 people are killed across Syria according to the Local Coordination Committees, including 46 in Damascus and its suburbs. ](/news/2012/11/15/syrian-civil-war-pat-least-95-people-are-killed-across-syria-according-to-the-local-coordination-committees-including-46-in-damascus-and-it.md) _2018-02-06 13:49:24 (First version)_
+2. [Syrian civil war:: At least 95 people are killed across Syria according to the Local Coordination Committees, including 46 in Damascus and its suburbs. ](/news/2012/11/15/syrian-civil-war-at-least-95-people-are-killed-across-syria-according-to-the-local-coordination-committees-including-46-in-damascus-and-i.md) _2018-02-06 13:49:24 (Update)_
 2. [At least 95 people are killed across Syria according to the Local Coordination Committees, including 46 in Damascus and its suburbs. ](/news/2012/11/15/at-least-95-people-are-killed-across-syria-according-to-the-local-coordination-committees-including-46-in-damascus-and-its-suburbs.md) _(Current version)_
 
 ### Related:

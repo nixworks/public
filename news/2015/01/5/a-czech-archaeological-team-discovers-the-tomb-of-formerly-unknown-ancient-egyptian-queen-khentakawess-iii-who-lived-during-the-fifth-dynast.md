@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/01/5/a-czech-archaeological-team-discovers-the-tomb-o
 
 ### Changes:
 
-1. [A Czech archaelogical team discovers the tomb of formerly unknown Ancient Egyptian queen Khentakawess III who lived during the Fifth Dynasty. ](/news/2015/01/5/a-czech-archaelogical-team-discovers-the-tomb-of-formerly-unknown-ancient-egyptian-queen-khentakawess-iii-who-lived-during-the-fifth-dynasty.md) _2017-10-17 03:48:06 (First version)_
+1. [A Czech archaelogical team discovers the tomb of formerly unknown Ancient Egyptian queen Khentakawess III who lived during the Fifth Dynasty. ](/news/2015/01/5/a-czech-archaelogical-team-discovers-the-tomb-of-formerly-unknown-ancient-egyptian-queen-khentakawess-iii-who-lived-during-the-fifth-dynasty.md) _2018-02-06 13:49:26 (First version)_
 1. [A Czech archaeological team discovers the tomb of formerly unknown Ancient Egyptian queen Khentakawess III who lived during the Fifth Dynasty. ](/news/2015/01/5/a-czech-archaeological-team-discovers-the-tomb-of-formerly-unknown-ancient-egyptian-queen-khentakawess-iii-who-lived-during-the-fifth-dynast.md) _(Current version)_
 
 ### Related:

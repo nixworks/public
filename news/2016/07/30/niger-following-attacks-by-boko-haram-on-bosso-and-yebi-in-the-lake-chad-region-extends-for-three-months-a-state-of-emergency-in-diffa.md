@@ -16,7 +16,7 @@ Niger has extended a state of emergency in the southeastern region of Diffa for 
 
 ### Changes:
 
-1. [Boko Haram insurgency: Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. ](/news/2016/07/30/boko-haram-insurgency-niger-following-attacks-by-boko-haram-on-bosso-and-yebi-in-the-lake-chad-region-extends-for-three-months-a-state-of.md) _2017-08-27 03:46:34 (First version)_
+1. [Boko Haram insurgency: Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. ](/news/2016/07/30/boko-haram-insurgency-niger-following-attacks-by-boko-haram-on-bosso-and-yebi-in-the-lake-chad-region-extends-for-three-months-a-state-of.md) _2018-02-06 13:49:29 (First version)_
 1. [Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. ](/news/2016/07/30/niger-following-attacks-by-boko-haram-on-bosso-and-yebi-in-the-lake-chad-region-extends-for-three-months-a-state-of-emergency-in-diffa.md) _(Current version)_
 
 ### Related:

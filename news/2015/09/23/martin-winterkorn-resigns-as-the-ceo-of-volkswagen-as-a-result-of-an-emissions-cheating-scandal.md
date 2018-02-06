@@ -16,7 +16,7 @@ As it happens: The latest news, views and analysis from BBC Business and beyond.
 
 ### Changes:
 
-1. [Volkswagen emissions violations: Martin Winterkorn resigns as the CEO of Volkswagen as a result of an emissions cheating scandal. ](/news/2015/09/23/volkswagen-emissions-violations-martin-winterkorn-resigns-as-the-ceo-of-volkswagen-as-a-result-of-an-emissions-cheating-scandal.md) _2017-08-27 03:43:08 (First version)_
+1. [Volkswagen emissions violations: Martin Winterkorn resigns as the CEO of Volkswagen as a result of an emissions cheating scandal. ](/news/2015/09/23/volkswagen-emissions-violations-martin-winterkorn-resigns-as-the-ceo-of-volkswagen-as-a-result-of-an-emissions-cheating-scandal.md) _2018-02-06 13:49:27 (First version)_
 1. [Martin Winterkorn resigns as the CEO of Volkswagen as a result of an emissions cheating scandal. ](/news/2015/09/23/martin-winterkorn-resigns-as-the-ceo-of-volkswagen-as-a-result-of-an-emissions-cheating-scandal.md) _(Current version)_
 
 ### Related:

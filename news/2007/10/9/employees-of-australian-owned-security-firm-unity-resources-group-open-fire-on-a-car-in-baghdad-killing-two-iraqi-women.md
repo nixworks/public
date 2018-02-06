@@ -16,8 +16,8 @@ Formats: [HTML](/news/2007/10/9/employees-of-australian-owned-security-firm-unit
 
 ### Changes:
 
-1. [ War in Iraq: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-p-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _2017-08-25 03:21:09 (First version)_
-2. [ War in Iraq:: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _2017-08-27 03:21:04 (Update)_
+1. [ War in Iraq: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-p-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _2018-02-06 13:49:18 (First version)_
+2. [ War in Iraq:: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _2018-02-06 13:49:18 (Update)_
 2. [ Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md) _(Current version)_
 
 ### Related:

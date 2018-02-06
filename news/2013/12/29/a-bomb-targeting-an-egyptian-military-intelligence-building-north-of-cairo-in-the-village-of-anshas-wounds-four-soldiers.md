@@ -17,7 +17,7 @@ A bomb exploded outside an Egyptian army building north of Cairo on Sunday, woun
 
 ### Changes:
 
-1. [Islamist protests in Egypt (July 2013-present): A bomb targeting an Egyptian military intelligence building north of Cairo in the village of Anshas wounds four soldiers. ](/news/2013/12/29/islamist-protests-in-egypt-july-2013-present-a-bomb-targeting-an-egyptian-military-intelligence-building-north-of-cairo-in-the-village.md) _2017-08-27 03:40:06 (First version)_
+1. [Islamist protests in Egypt (July 2013-present): A bomb targeting an Egyptian military intelligence building north of Cairo in the village of Anshas wounds four soldiers. ](/news/2013/12/29/islamist-protests-in-egypt-july-2013-present-a-bomb-targeting-an-egyptian-military-intelligence-building-north-of-cairo-in-the-village.md) _2018-02-06 13:49:25 (First version)_
 1. [A bomb targeting an Egyptian military intelligence building north of Cairo in the village of Anshas wounds four soldiers. ](/news/2013/12/29/a-bomb-targeting-an-egyptian-military-intelligence-building-north-of-cairo-in-the-village-of-anshas-wounds-four-soldiers.md) _(Current version)_
 
 ### Related:

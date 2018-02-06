@@ -16,7 +16,7 @@ Eight Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire
 
 ### Changes:
 
-1. [Seven schoolgirls have been killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-have-been-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _2017-09-02 21:30:05 (First version)_
+1. [Seven schoolgirls have been killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-have-been-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _2018-02-06 13:49:31 (First version)_
 1. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _(Current version)_
 
 ### Related:

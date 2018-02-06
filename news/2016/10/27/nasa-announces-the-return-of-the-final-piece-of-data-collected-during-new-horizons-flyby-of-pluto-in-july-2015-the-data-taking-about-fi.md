@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of
 
 ### Changes:
 
-1. [NASA announces the return of the final piece of data collected during ''New Horizons''' flyby of Pluto in July 2015. The data, taking about five hours at light speed to travel across 5.5 billion kilometers (3.4 billion miles), arrived at the Johns Hopkins Applied Physics Laboratory on the morning of October 25. ](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of-data-collected-during-new-horizons-flyby-of-pluto-in-july-2015-the-data-taking-about.md) _2017-08-25 03:46:43 (First version)_
+1. [NASA announces the return of the final piece of data collected during ''New Horizons''' flyby of Pluto in July 2015. The data, taking about five hours at light speed to travel across 5.5 billion kilometers (3.4 billion miles), arrived at the Johns Hopkins Applied Physics Laboratory on the morning of October 25. ](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of-data-collected-during-new-horizons-flyby-of-pluto-in-july-2015-the-data-taking-about.md) _2018-02-06 13:49:29 (First version)_
 1. [NASA announces the return of the final piece of data collected during "New Horizons"' flyby of Pluto in July 2015. The data, taking about five hours at light speed to travel across 5.5 billion kilometers (3.4 billion miles), arrived at the Johns Hopkins Applied Physics Laboratory on the morning of October 25. ](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of-data-collected-during-new-horizons-flyby-of-pluto-in-july-2015-the-data-taking-about-fi.md) _(Current version)_
 
 ### Related:

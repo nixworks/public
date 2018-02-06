@@ -11,7 +11,7 @@ Formats: [HTML](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an
 
 ### Changes:
 
-1. [Spanish general election, 2016: After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/spanish-general-election-2016-after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-governme.md) _2017-08-27 03:47:10 (First version)_
+1. [Spanish general election, 2016: After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/spanish-general-election-2016-after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-governme.md) _2018-02-06 13:49:29 (First version)_
 1. [After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.md) _(Current version)_
 
 ### Related:

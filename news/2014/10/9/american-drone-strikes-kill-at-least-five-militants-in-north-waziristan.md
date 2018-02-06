@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/10/9/american-drone-strikes-kill-at-least-five-milita
 
 ### Changes:
 
-1. [War in North-West Pakistan: American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/war-in-north-west-pakistan-american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _2017-08-27 03:41:22 (First version)_
+1. [War in North-West Pakistan: American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/war-in-north-west-pakistan-american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _2018-02-06 13:49:26 (First version)_
 1. [American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _(Current version)_
 
 ### Related:

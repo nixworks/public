@@ -17,8 +17,8 @@ Passengers on District line reported seeing a device and hearing a bang on a tub
 
 ### Changes:
 
-1. [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. Scotland Yard has confirmed the incident to be a terrorist attack. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured-scotland-yard-has-confirmed-the-incident.md) _2017-09-15 16:30:05 (First version)_
-2. [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. Scotland Yard confirms the incident to be a terrorist attack. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured-scotland-yard-confirms-the-incident-to-be.md) _2017-09-16 00:30:05 (Update)_
+1. [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. Scotland Yard has confirmed the incident to be a terrorist attack. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured-scotland-yard-has-confirmed-the-incident.md) _2018-02-06 13:49:31 (First version)_
+2. [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. Scotland Yard confirms the incident to be a terrorist attack. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured-scotland-yard-confirms-the-incident-to-be.md) _2018-02-06 13:49:31 (Update)_
 2. [An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack. ](/news/2017/09/15/an-explosion-on-a-train-at-the-parsons-green-tube-station-in-london-injures-29-scotland-yard-is-treating-the-incident-as-a-terrorist-attack.md) _(Current version)_
 
 ### Related:

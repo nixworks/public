@@ -5,11 +5,11 @@ Formats: [HTML](2012/07/6/index.html)  [JSON](2012/07/6/index.json)  [XML](2012/
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising (2011-present): French Foreign Minister Laurent Fabius states that a Syrian commander in the National Guard, Manaf Tlass who fled to Turkey some days ago, is on his way to Paris. ](/news/2012/07/6/syrian-uprising-2011-present-french-foreign-minister-laurent-fabius-states-that-a-syrian-commander-in-the-national-guard-manaf-tlass-who.md)
-_Context: Paris, Syrian uprising (2011-present), Manaf Tlass, Laurent Fabius, Turkish_
+_Context: Turkey, Syrian uprising (2011-present), Manaf Tlass, Paris, Laurent Fabius_
 
 ##### United Nations
 ### [A United Nations peacekeeper from India is killed in the eastern Congo. ](/news/2012/07/6/a-united-nations-peacekeeper-from-india-is-killed-in-the-eastern-congo.md)
-_Context: United Nations, India, DR Congo_
+_Context: India, United Nations, DR Congo_
 
 ##### US
 ### [A US drone missile strike kills four suspected militants near Miran Shah, Pakistan. ](/news/2012/07/6/a-us-drone-missile-strike-kills-four-suspected-militants-near-miran-shah-pakistan.md)
@@ -25,13 +25,13 @@ _Context: Libya_
 
 ##### Associated Press
 ### [Associated Press reports that Yahoo! and Facebook have resolved a patent dispute. ](/news/2012/07/6/associated-press-reports-that-yahoo-and-facebook-have-resolved-a-patent-dispute.md)
-_Context: Associated Press, Facebook, Yahoo!_
+_Context: Yahoo!, Associated Press, Facebook_
 
 ##### United States Department of Labor
 ### [The United States Department of Labor monthly jobs report shows that the US economy added 80,000 jobs in June. ](/news/2012/07/6/the-united-states-department-of-labor-monthly-jobs-report-shows-that-the-us-economy-added-80-000-jobs-in-june.md)
-_Context: economy of the United States, United States Department of Labor_
+_Context: United States Department of Labor, economy of the United States_
 
-##### British
+##### United Kingdom
 ### [More than 80 flood alerts are issued in the United Kingdom as the north of England and East Anglia prepares for torrential rain. ](/news/2012/07/6/more-than-80-flood-alerts-are-issued-in-the-united-kingdom-as-the-north-of-england-and-east-anglia-prepares-for-torrential-rain.md)
 Persistent rain continues to fall over much of the country, with very heavy rain beginning to affect the South West.
 
@@ -41,11 +41,11 @@ Two former military leaders in Argentina have been found guilty of overseeing th
 
 ##### police
 ### [British police arrest six men from the West Midlands and one from South Yorkshire on suspicion of terrorist offences. ](/news/2012/07/6/british-police-arrest-six-men-from-the-west-midlands-and-one-from-south-yorkshire-on-suspicion-of-terrorist-offences.md)
-_Context: West Midlands, police, South Yorkshire_
+_Context: West Midlands, South Yorkshire, police_
 
 ##### Pakistan
 ### [Gunmen kill 18 people and injure another two in an attack on a roadside restaurant in the Pakistani town of Turbat in Balochistan province. ](/news/2012/07/6/gunmen-kill-18-people-and-injure-another-two-in-an-attack-on-a-roadside-restaurant-in-the-pakistani-town-of-turbat-in-balochistan-province.md)
-_Context: Balochistan, Turbat, Pakistan_
+_Context: Balochistan, Pakistan, Turbat_
 
 ##### Serious Fraud Office
 ### [Britain's Serious Fraud Office launches a criminal investigation into the Libor scandal. ](/news/2012/07/6/britain-s-serious-fraud-office-launches-a-criminal-investigation-into-the-libor-scandal.md)
@@ -53,11 +53,11 @@ The Serious Fraud Office (SFO) confirms that it has formally launched a criminal
 
 ##### Parliament of Romania
 ### [For the second time in history and with the same person, the Parliament of Romania votes to suspend President Traian Basescu from office. On 29 July 2012 he will face a national referendum for his dismissal. ](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.md)
-_Context: Traian Basescu, Parliament of Romania, President, presidential impeachment referendum_
+_Context: presidential impeachment referendum, President, Traian Basescu, Parliament of Romania_
 
 ##### Enrique Pena Nieto
 ### [After a partial vote recount, Enrique Pena Nieto is confirmed as the winner of the 2012 Mexican presidential election ](/news/2012/07/6/after-a-partial-vote-recount-enrique-pea-a-nieto-is-confirmed-as-the-winner-of-the-2012-mexican-presidential-election.md)
-_Context: Mexican presidential elections, Enrique Pena Nieto_
+_Context: Enrique Pena Nieto, Mexican presidential elections_
 
 ##### Thaddeus McCotter
 ### [Rep. Thaddeus McCotter, R-Mich., announces his resignation from the United States House of Representatives. ](/news/2012/07/6/rep-thaddeus-mccotter-r-mich-announces-his-resignation-from-the-united-states-house-of-representatives.md)

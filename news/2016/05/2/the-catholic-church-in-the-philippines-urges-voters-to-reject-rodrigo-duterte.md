@@ -16,7 +16,7 @@ CATHOLIC bishops issued a pastoral letter Sunday that, without mentioning the ca
 
 ### Changes:
 
-1. [Philippine presidential election, 2016: The Catholic Church in the Philippines urges voters to reject Rodrigo Duterte. ](/news/2016/05/2/philippine-presidential-election-2016-the-catholic-church-in-the-philippines-urges-voters-to-reject-rodrigo-duterte.md) _2017-08-27 03:45:57 (First version)_
+1. [Philippine presidential election, 2016: The Catholic Church in the Philippines urges voters to reject Rodrigo Duterte. ](/news/2016/05/2/philippine-presidential-election-2016-the-catholic-church-in-the-philippines-urges-voters-to-reject-rodrigo-duterte.md) _2018-02-06 13:49:29 (First version)_
 1. [The Catholic Church in the Philippines urges voters to reject Rodrigo Duterte. ](/news/2016/05/2/the-catholic-church-in-the-philippines-urges-voters-to-reject-rodrigo-duterte.md) _(Current version)_
 
 ### Related:

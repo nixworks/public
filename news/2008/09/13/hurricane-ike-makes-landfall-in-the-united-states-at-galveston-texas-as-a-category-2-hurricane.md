@@ -19,8 +19,8 @@ A tropical storm warning remains in effect from east of sargent texas eastward t
 
 ### Changes:
 
-1. [ Hurricane Ike: Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-p-hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md) _2017-08-25 03:22:52 (First version)_
-2. [ Hurricane Ike:: Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md) _2017-08-27 03:22:45 (Update)_
+1. [ Hurricane Ike: Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-p-hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md) _2018-02-06 13:49:18 (First version)_
+2. [ Hurricane Ike:: Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md) _2018-02-06 13:49:18 (Update)_
 2. [ Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md) _(Current version)_
 
 ### Related:

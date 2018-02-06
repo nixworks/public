@@ -18,7 +18,7 @@ Tunisia deploys extra security to tourist sites and vows to close down mosques a
 
 ### Changes:
 
-1. [2015 Sousse attacks: Tunisia announces plans to close down 80 "propagandist" mosques following yesterday's attacks in which 39 people died. ](/news/2015/06/27/2015-sousse-attacks-tunisia-announces-plans-to-close-down-80-propagandist-mosques-following-yesterday-s-attacks-in-which-39-people-died.md) _2017-08-27 03:42:36 (First version)_
+1. [2015 Sousse attacks: Tunisia announces plans to close down 80 "propagandist" mosques following yesterday's attacks in which 39 people died. ](/news/2015/06/27/2015-sousse-attacks-tunisia-announces-plans-to-close-down-80-propagandist-mosques-following-yesterday-s-attacks-in-which-39-people-died.md) _2018-02-06 13:49:27 (First version)_
 1. [Tunisia announces plans to close down 80 "propagandist" mosques following yesterday's attacks in which 39 people died. ](/news/2015/06/27/tunisia-announces-plans-to-close-down-80-propagandist-mosques-following-yesterday-s-attacks-in-which-39-people-died.md) _(Current version)_
 
 ### Related:

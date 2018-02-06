@@ -16,7 +16,7 @@ AU-PRINCE, Haiti (Reuters) - Haitians lined up to vote on Sunday for the first t
 
 ### Changes:
 
-1. [Haitian parliamentary election, 2015: Voters in Haiti go to the polls for the first election in four years with some polling places in the capital Port-au-Prince forced to close due to violence. ](/news/2015/08/9/haitian-parliamentary-election-2015-voters-in-haiti-go-to-the-polls-for-the-first-election-in-four-years-with-some-polling-places-in-the-c.md) _2017-08-27 03:42:48 (First version)_
+1. [Haitian parliamentary election, 2015: Voters in Haiti go to the polls for the first election in four years with some polling places in the capital Port-au-Prince forced to close due to violence. ](/news/2015/08/9/haitian-parliamentary-election-2015-voters-in-haiti-go-to-the-polls-for-the-first-election-in-four-years-with-some-polling-places-in-the-c.md) _2018-02-06 13:49:27 (First version)_
 1. [Voters in Haiti go to the polls for the first election in four years with some polling places in the capital Port-au-Prince forced to close due to violence. ](/news/2015/08/9/voters-in-haiti-go-to-the-polls-for-the-first-election-in-four-years-with-some-polling-places-in-the-capital-port-au-prince-forced-to-close.md) _(Current version)_
 
 ### Related:

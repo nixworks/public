@@ -15,7 +15,7 @@ Formats: [HTML](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to
 
 ### Changes:
 
-1. [Australia-United States relations: Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-united-states-relations-australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea.md) _2017-08-27 03:47:13 (First version)_
+1. [Australia-United States relations: Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-united-states-relations-australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea.md) _2018-02-06 13:49:29 (First version)_
 1. [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md) _(Current version)_
 
 ### Related:

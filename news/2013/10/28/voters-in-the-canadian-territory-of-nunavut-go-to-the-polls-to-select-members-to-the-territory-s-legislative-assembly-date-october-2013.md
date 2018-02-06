@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-
 
 ### Changes:
 
-1. [Voters in the Canadian territory of Nunavut go to the polls to select members to the territory's Legislative Assembly.{{citation needed|date=October 2013}}](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-to-the-polls-to-select-members-to-the-territory-s-legislative-assembly-citation-needed-date.md) _2017-05-01 03:42:48 (First version)_
+1. [Voters in the Canadian territory of Nunavut go to the polls to select members to the territory's Legislative Assembly.{{citation needed|date=October 2013}}](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-to-the-polls-to-select-members-to-the-territory-s-legislative-assembly-citation-needed-date.md) _2018-02-06 13:49:25 (First version)_
 1. [Voters in the Canadian territory of Nunavut go to the polls to select members to the territory's Legislative Assembly.date=October 2013](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-to-the-polls-to-select-members-to-the-territory-s-legislative-assembly-date-october-2013.md) _(Current version)_
 
 ### Related:

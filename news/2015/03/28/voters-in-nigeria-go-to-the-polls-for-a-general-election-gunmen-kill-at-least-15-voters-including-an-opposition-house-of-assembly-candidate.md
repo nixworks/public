@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/03/28/voters-in-nigeria-go-to-the-polls-for-a-general
 
 ### Changes:
 
-1. [Nigerian general election, 2015: Voters in Nigeria go to the polls for a general election. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe. ](/news/2015/03/28/nigerian-general-election-2015-voters-in-nigeria-go-to-the-polls-for-a-general-election-gunmen-kill-at-least-15-voters-including-an-oppos.md) _2017-08-27 03:42:08 (First version)_
+1. [Nigerian general election, 2015: Voters in Nigeria go to the polls for a general election. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe. ](/news/2015/03/28/nigerian-general-election-2015-voters-in-nigeria-go-to-the-polls-for-a-general-election-gunmen-kill-at-least-15-voters-including-an-oppos.md) _2018-02-06 13:49:26 (First version)_
 1. [Voters in Nigeria go to the polls for a general election. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe. ](/news/2015/03/28/voters-in-nigeria-go-to-the-polls-for-a-general-election-gunmen-kill-at-least-15-voters-including-an-opposition-house-of-assembly-candidate.md) _(Current version)_
 
 ### Related:

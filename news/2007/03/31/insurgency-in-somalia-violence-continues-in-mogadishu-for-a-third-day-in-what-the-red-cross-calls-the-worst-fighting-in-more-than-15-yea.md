@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/03/31/insurgency-in-somalia-violence-continues-in-mog
 
 ### Changes:
 
-1. [ Insurgency in Somalia: Violence continues in Mogadishu for a third day, in what the Red Cross calls "the worst fighting in more than 15 years." ](/news/2007/03/31/insurgency-in-somalia-violence-continues-in-mogadishu-for-a-third-day-in-what-the-red-cross-calls-the-worst-fighting-in-more-than-15-ye.md) _2017-08-25 03:19:30 (First version)_
+1. [ Insurgency in Somalia: Violence continues in Mogadishu for a third day, in what the Red Cross calls "the worst fighting in more than 15 years." ](/news/2007/03/31/insurgency-in-somalia-violence-continues-in-mogadishu-for-a-third-day-in-what-the-red-cross-calls-the-worst-fighting-in-more-than-15-ye.md) _2018-02-06 13:49:17 (First version)_
 1. [ Insurgency in Somalia: Violence continues in Mogadishu for a third day, in what the Red Cross calls "the worst fighting in more than 15 years." ](/news/2007/03/31/insurgency-in-somalia-violence-continues-in-mogadishu-for-a-third-day-in-what-the-red-cross-calls-the-worst-fighting-in-more-than-15-yea.md) _(Current version)_
 
 ### Related:

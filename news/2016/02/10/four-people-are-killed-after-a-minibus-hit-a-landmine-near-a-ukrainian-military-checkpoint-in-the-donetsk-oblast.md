@@ -16,7 +16,7 @@ Four people died on Feb. 10 when a minibus carrying five passengers ran over a l
 
 ### Changes:
 
-1. [War in Donbass: Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/war-in-donbass-four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _2017-08-27 03:44:52 (First version)_
+1. [War in Donbass: Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/war-in-donbass-four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _2018-02-06 13:49:28 (First version)_
 1. [Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _(Current version)_
 
 ### Related:

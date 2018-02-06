@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-
 
 ### Changes:
 
-1. [ Kosovo declares its independence The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independencep-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2017-08-25 03:21:47 (First version)_
-2. [ Kosovo declares its independence: The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independence-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2017-08-27 03:21:41 (Update)_
+1. [ Kosovo declares its independence The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independencep-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2018-02-06 13:49:18 (First version)_
+2. [ Kosovo declares its independence: The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independence-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2018-02-06 13:49:18 (Update)_
 2. [ The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.md) _(Current version)_
 
 ### Related:

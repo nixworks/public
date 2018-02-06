@@ -17,7 +17,7 @@ Formats: [HTML](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomi
 
 ### Changes:
 
-1. [The confirmation of the existence of a subatomic particle known as the Higgs boson is named as 2012 Breakthrough of the Year by the ''Science'' magazine. ](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomic-particle-known-as-the-higgs-boson-is-named-as-2012-breakthrough-of-the-year-by-the-scienc.md) _2017-08-25 03:37:09 (First version)_
+1. [The confirmation of the existence of a subatomic particle known as the Higgs boson is named as 2012 Breakthrough of the Year by the ''Science'' magazine. ](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomic-particle-known-as-the-higgs-boson-is-named-as-2012-breakthrough-of-the-year-by-the-scienc.md) _2018-02-06 13:49:24 (First version)_
 1. [The confirmation of the existence of a subatomic particle known as the Higgs boson is named as 2012 Breakthrough of the Year by the "Science" magazine. ](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomic-particle-known-as-the-higgs-boson-is-named-as-2012-breakthrough-of-the-year-by-the-science.md) _(Current version)_
 
 ### Related:

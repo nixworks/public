@@ -16,7 +16,7 @@ Rival Islamist militant groups al-Qaeda in the Islamic Maghreb and Boko Haram st
 
 ### Changes:
 
-1. [Insurgency in the Maghreb (2002-present): Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. ](/news/2016/03/18/insurgency-in-the-maghreb-2002-present-boko-haram-and-al-qaeda-kill-four-security-force-personnel-in-two-separate-attacks-in-niger.md) _2017-08-27 03:45:18 (First version)_
+1. [Insurgency in the Maghreb (2002-present): Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. ](/news/2016/03/18/insurgency-in-the-maghreb-2002-present-boko-haram-and-al-qaeda-kill-four-security-force-personnel-in-two-separate-attacks-in-niger.md) _2018-02-06 13:49:28 (First version)_
 1. [Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. ](/news/2016/03/18/boko-haram-and-al-qaeda-kill-four-security-force-personnel-in-two-separate-attacks-in-niger.md) _(Current version)_
 
 ### Related:

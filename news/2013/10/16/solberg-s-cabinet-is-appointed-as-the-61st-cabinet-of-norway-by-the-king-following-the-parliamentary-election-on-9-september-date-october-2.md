@@ -11,7 +11,7 @@ Formats: [HTML](/news/2013/10/16/solberg-s-cabinet-is-appointed-as-the-61st-cabi
 
 ### Changes:
 
-1. [Solberg's Cabinet is appointed as the 61st cabinet of Norway by the King following the parliamentary election on 9 September. {{citation needed|date=October 2013}} ](/news/2013/10/16/solberg-s-cabinet-is-appointed-as-the-61st-cabinet-of-norway-by-the-king-following-the-parliamentary-election-on-9-september-citation-nee.md) _2017-05-01 03:42:45 (First version)_
+1. [Solberg's Cabinet is appointed as the 61st cabinet of Norway by the King following the parliamentary election on 9 September. {{citation needed|date=October 2013}} ](/news/2013/10/16/solberg-s-cabinet-is-appointed-as-the-61st-cabinet-of-norway-by-the-king-following-the-parliamentary-election-on-9-september-citation-nee.md) _2018-02-06 13:49:25 (First version)_
 1. [Solberg's Cabinet is appointed as the 61st cabinet of Norway by the King following the parliamentary election on 9 September. date=October 2013 ](/news/2013/10/16/solberg-s-cabinet-is-appointed-as-the-61st-cabinet-of-norway-by-the-king-following-the-parliamentary-election-on-9-september-date-october-2.md) _(Current version)_
 
 ### Related:

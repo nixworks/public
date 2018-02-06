@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and
 
 ### Changes:
 
-1. [2017 Afghanistan avalanches: At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/2017-afghanistan-avalanches-at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-h.md) _2017-08-27 03:47:50 (First version)_
+1. [2017 Afghanistan avalanches: At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/2017-afghanistan-avalanches-at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-h.md) _2018-02-06 13:49:30 (First version)_
 1. [At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-hit-the-country.md) _(Current version)_
 
 ### Related:

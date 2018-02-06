@@ -17,7 +17,7 @@ On Tuesday evening, Taliban units threatened the Kunduz airport, thwarting effor
 
 ### Changes:
 
-1. [War in Afghanistan (2015-present): Battle of Kunduz: Afghan National Security Forces start efforts to recapture the city of Kunduz. ](/news/2015/09/29/war-in-afghanistan-2015-present-battle-of-kunduz-afghan-national-security-forces-start-efforts-to-recapture-the-city-of-kunduz.md) _2017-08-27 03:43:11 (First version)_
+1. [War in Afghanistan (2015-present): Battle of Kunduz: Afghan National Security Forces start efforts to recapture the city of Kunduz. ](/news/2015/09/29/war-in-afghanistan-2015-present-battle-of-kunduz-afghan-national-security-forces-start-efforts-to-recapture-the-city-of-kunduz.md) _2018-02-06 13:49:27 (First version)_
 1. [Afghan National Security Forces start efforts to recapture the city of Kunduz. ](/news/2015/09/29/afghan-national-security-forces-start-efforts-to-recapture-the-city-of-kunduz.md) _(Current version)_
 
 ### Related:

@@ -18,7 +18,7 @@ FRANCE-SHOOTING/USA-GOVERNORS (URGENT):White House holds call with 34 governors 
 
 ### Changes:
 
-1. [Refugees of the Syrian Civil War: More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/refugees-of-the-syrian-civil-war-more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-afte.md) _2017-08-27 03:43:54 (First version)_
+1. [Refugees of the Syrian Civil War: More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/refugees-of-the-syrian-civil-war-more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-afte.md) _2018-02-06 13:49:28 (First version)_
 1. [More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-after-the-attacks-in-paris-all-except.md) _(Current version)_
 
 ### Related:

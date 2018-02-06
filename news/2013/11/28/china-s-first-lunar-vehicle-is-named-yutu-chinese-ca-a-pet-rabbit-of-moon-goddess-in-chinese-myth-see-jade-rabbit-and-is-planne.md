@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chine
 
 ### Changes:
 
-1. [China's first lunar vehicle is named 'YuTu' (Chinese:"Yu Tu ", a pet rabbit of Moon goddess in Chinese myth ''see Jade rabbit'') and is planned to launch from Xichang Satellite Launch Center before December 10, 2013. ](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chinese-ca-a-pet-rabbit-of-moon-goddess-in-chinese-myth-see-jade-rabbit-and-is-plan.md) _2017-08-25 03:39:36 (First version)_
+1. [China's first lunar vehicle is named 'YuTu' (Chinese:"Yu Tu ", a pet rabbit of Moon goddess in Chinese myth ''see Jade rabbit'') and is planned to launch from Xichang Satellite Launch Center before December 10, 2013. ](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chinese-ca-a-pet-rabbit-of-moon-goddess-in-chinese-myth-see-jade-rabbit-and-is-plan.md) _2018-02-06 13:49:25 (First version)_
 1. [China's first lunar vehicle is named 'YuTu' (Chinese:"Yu Tu ", a pet rabbit of Moon goddess in Chinese myth "see Jade rabbit") and is planned to launch from Xichang Satellite Launch Center before December 10, 2013. ](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chinese-ca-a-pet-rabbit-of-moon-goddess-in-chinese-myth-see-jade-rabbit-and-is-planne.md) _(Current version)_
 
 ### Related:

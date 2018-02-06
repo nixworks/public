@@ -16,7 +16,7 @@ Baron Waqa has been re-elected as president of Nauru taking 16 of the 18 votes.
 
 ### Changes:
 
-1. [Nauruan parliamentary election, 2016: Baron Waqa is reelected President of Nauru, winning 16 of the 18 votes in Parliament. ](/news/2016/07/13/nauruan-parliamentary-election-2016-baron-waqa-is-reelected-president-of-nauru-winning-16-of-the-18-votes-in-parliament.md) _2017-08-27 03:46:29 (First version)_
+1. [Nauruan parliamentary election, 2016: Baron Waqa is reelected President of Nauru, winning 16 of the 18 votes in Parliament. ](/news/2016/07/13/nauruan-parliamentary-election-2016-baron-waqa-is-reelected-president-of-nauru-winning-16-of-the-18-votes-in-parliament.md) _2018-02-06 13:49:29 (First version)_
 1. [Baron Waqa is reelected President of Nauru, winning 16 of the 18 votes in Parliament. ](/news/2016/07/13/baron-waqa-is-reelected-president-of-nauru-winning-16-of-the-18-votes-in-parliament.md) _(Current version)_
 
 ### Related:

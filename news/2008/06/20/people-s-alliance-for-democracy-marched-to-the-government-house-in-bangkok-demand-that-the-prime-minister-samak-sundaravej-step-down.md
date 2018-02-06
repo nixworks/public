@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/06/20/people-s-alliance-for-democracy-marched-to-the-
 
 ### Changes:
 
-1. [ Thai Political Crisis People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/thai-political-crisisp-people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sun.md) _2017-08-25 03:22:26 (First version)_
-2. [ Thai Political Crisis: People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/thai-political-crisis-people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sun.md) _2017-08-27 03:22:19 (Update)_
+1. [ Thai Political Crisis People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/thai-political-crisisp-people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sun.md) _2018-02-06 13:49:18 (First version)_
+2. [ Thai Political Crisis: People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/thai-political-crisis-people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sun.md) _2018-02-06 13:49:18 (Update)_
 2. [ People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. ](/news/2008/06/20/people-s-alliance-for-democracy-marched-to-the-government-house-in-bangkok-demand-that-the-prime-minister-samak-sundaravej-step-down.md) _(Current version)_
 
 ### Related:

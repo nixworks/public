@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-caro
 
 ### Changes:
 
-1. [Voter ID laws in the United States: The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/voter-id-laws-in-the-united-states-the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-r.md) _2017-08-27 03:48:20 (First version)_
+1. [Voter ID laws in the United States: The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/voter-id-laws-in-the-united-states-the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-r.md) _2018-02-06 13:49:30 (First version)_
 1. [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md) _(Current version)_
 
 ### Related:

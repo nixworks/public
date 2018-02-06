@@ -16,7 +16,7 @@ Fighting rages in Libya between Islamic State fighters and a militia alliance fr
 
 ### Changes:
 
-1. [Libyan Civil War: Fighting rages near the western Libyan city of Sirte between Islamic State affiliated militants and a local militia alliance. ](/news/2015/03/15/libyan-civil-war-fighting-rages-near-the-western-libyan-city-of-sirte-between-islamic-state-affiliated-militants-and-a-local-militia-allian.md) _2017-08-27 03:42:06 (First version)_
+1. [Libyan Civil War: Fighting rages near the western Libyan city of Sirte between Islamic State affiliated militants and a local militia alliance. ](/news/2015/03/15/libyan-civil-war-fighting-rages-near-the-western-libyan-city-of-sirte-between-islamic-state-affiliated-militants-and-a-local-militia-allian.md) _2018-02-06 13:49:26 (First version)_
 1. [Fighting rages near the western Libyan city of Sirte between Islamic State affiliated militants and a local militia alliance. ](/news/2015/03/15/fighting-rages-near-the-western-libyan-city-of-sirte-between-islamic-state-affiliated-militants-and-a-local-militia-alliance.md) _(Current version)_
 
 ### Related:

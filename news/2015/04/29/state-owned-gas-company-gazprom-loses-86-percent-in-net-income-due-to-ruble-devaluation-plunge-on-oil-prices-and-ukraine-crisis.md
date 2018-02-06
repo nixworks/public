@@ -16,7 +16,7 @@ Formats: [HTML](/news/2015/04/29/state-owned-gas-company-gazprom-loses-86-percen
 
 ### Changes:
 
-1. [Russian financial crisis (2014-present): State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/russian-financial-crisis-2014-present-state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge.md) _2017-08-27 03:42:15 (First version)_
+1. [Russian financial crisis (2014-present): State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/russian-financial-crisis-2014-present-state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge.md) _2018-02-06 13:49:27 (First version)_
 1. [ State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge-on-oil-prices-and-ukraine-crisis.md) _(Current version)_
 
 ### Related:

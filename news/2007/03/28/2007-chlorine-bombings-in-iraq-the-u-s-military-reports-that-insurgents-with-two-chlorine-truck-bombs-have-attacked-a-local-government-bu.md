@@ -17,8 +17,8 @@ Insurgents with two chlorine truck bombs attacked a local government building in
 
 ### Changes:
 
-1. [ Iraq War: 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/iraq-war-p-2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-go.md) _2017-08-25 03:19:29 (First version)_
-2. [ Iraq War:: 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/iraq-war-2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-go.md) _2017-08-27 03:19:25 (Update)_
+1. [ Iraq War: 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/iraq-war-p-2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-go.md) _2018-02-06 13:49:17 (First version)_
+2. [ Iraq War:: 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/iraq-war-2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-go.md) _2018-02-06 13:49:17 (Update)_
 2. [ 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-government-bu.md) _(Current version)_
 
 ### Related:

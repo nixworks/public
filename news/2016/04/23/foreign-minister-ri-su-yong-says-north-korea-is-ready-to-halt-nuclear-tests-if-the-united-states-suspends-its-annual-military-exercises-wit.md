@@ -15,8 +15,8 @@ Formats: [HTML](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is
 
 ### Changes:
 
-1. [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wi.md) _2017-08-25 03:45:25 (First version)_
-2. [North Korea-United States relations: Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/north-korea-united-states-relations-foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspen.md) _2017-08-27 03:45:48 (Update)_
+1. [North Korea-United States relations: Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/north-korea-united-states-relations-foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspen.md) _2018-02-06 13:49:28 (First version)_
+2. [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wi.md) _2018-02-06 13:49:28 (Update)_
 2. [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wit.md) _(Current version)_
 
 ### Related:

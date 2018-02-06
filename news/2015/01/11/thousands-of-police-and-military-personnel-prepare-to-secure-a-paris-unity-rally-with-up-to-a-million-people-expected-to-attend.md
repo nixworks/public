@@ -17,7 +17,7 @@ Arson attack on German newspaper that printed Charlie Hebdo cartoons - A buildin
 
 ### Changes:
 
-1. ["Charlie Hebdo" shooting: Thousands of police and military personnel prepare to secure a Paris unity rally with up to a million people expected to attend. ](/news/2015/01/11/charlie-hebdo-shooting-thousands-of-police-and-military-personnel-prepare-to-secure-a-paris-unity-rally-with-up-to-a-million-people-expec.md) _2017-08-27 03:41:46 (First version)_
+1. ["Charlie Hebdo" shooting: Thousands of police and military personnel prepare to secure a Paris unity rally with up to a million people expected to attend. ](/news/2015/01/11/charlie-hebdo-shooting-thousands-of-police-and-military-personnel-prepare-to-secure-a-paris-unity-rally-with-up-to-a-million-people-expec.md) _2018-02-06 13:49:26 (First version)_
 1. [Thousands of police and military personnel prepare to secure a Paris unity rally with up to a million people expected to attend. ](/news/2015/01/11/thousands-of-police-and-military-personnel-prepare-to-secure-a-paris-unity-rally-with-up-to-a-million-people-expected-to-attend.md) _(Current version)_
 
 ### Related:

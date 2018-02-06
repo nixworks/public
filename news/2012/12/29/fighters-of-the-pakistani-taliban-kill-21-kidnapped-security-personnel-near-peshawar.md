@@ -17,8 +17,8 @@ Militants in north-west Pakistan have killed at least 20 of the paramilitaries t
 
 ### Changes:
 
-1. [War in North-West Pakistan:Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/war-in-north-west-pakistan-pfighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md) _2017-08-25 03:37:09 (First version)_
-2. [War in North-West Pakistan:: Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/war-in-north-west-pakistan-fighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md) _2017-08-27 03:37:20 (Update)_
+1. [War in North-West Pakistan:Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/war-in-north-west-pakistan-pfighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md) _2018-02-06 13:49:24 (First version)_
+2. [War in North-West Pakistan:: Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/war-in-north-west-pakistan-fighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md) _2018-02-06 13:49:24 (Update)_
 2. [Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/fighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md) _(Current version)_
 
 ### Related:

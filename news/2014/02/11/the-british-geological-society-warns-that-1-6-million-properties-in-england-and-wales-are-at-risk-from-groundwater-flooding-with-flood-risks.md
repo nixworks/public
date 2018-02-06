@@ -17,8 +17,8 @@ Some 1.6 million properties across Britain are now at risk of groundwater floodi
 
 ### Changes:
 
-1. [2013-14 United Kingdom floods:The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-pthe-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-ground.md) _2017-08-25 03:40:00 (First version)_
-2. [2013-14 United Kingdom floods:: The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-the-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-groun.md) _2017-08-27 03:40:18 (Update)_
+1. [2013-14 United Kingdom floods:: The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-the-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-groun.md) _2018-02-06 13:49:25 (First version)_
+2. [2013-14 United Kingdom floods:The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-pthe-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-ground.md) _2018-02-06 13:49:25 (Update)_
 2. [The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/the-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-groundwater-flooding-with-flood-risks.md) _(Current version)_
 
 ### Related:

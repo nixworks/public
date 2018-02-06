@@ -16,7 +16,7 @@ At least 73 people die in government strikes on a cafe in Ramadi, and in army sh
 
 ### Changes:
 
-1. [Iraq War (2014-present): Iraqi government air strikes kill at least 73 people in the ISIL held cities of Ramadi and Fallujah. ](/news/2015/07/5/iraq-war-2014-present-iraqi-government-air-strikes-kill-at-least-73-people-in-the-isil-held-cities-of-ramadi-and-fallujah.md) _2017-08-27 03:42:39 (First version)_
+1. [Iraq War (2014-present): Iraqi government air strikes kill at least 73 people in the ISIL held cities of Ramadi and Fallujah. ](/news/2015/07/5/iraq-war-2014-present-iraqi-government-air-strikes-kill-at-least-73-people-in-the-isil-held-cities-of-ramadi-and-fallujah.md) _2018-02-06 13:49:27 (First version)_
 1. [Iraqi government air strikes kill at least 73 people in the ISIL held cities of Ramadi and Fallujah. ](/news/2015/07/5/iraqi-government-air-strikes-kill-at-least-73-people-in-the-isil-held-cities-of-ramadi-and-fallujah.md) _(Current version)_
 
 ### Related:

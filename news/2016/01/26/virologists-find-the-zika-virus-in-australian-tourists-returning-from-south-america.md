@@ -16,7 +16,7 @@ The mosquito-borne Zika virus, linked to brain damage in babies, has already bee
 
 ### Changes:
 
-1. [Zika virus outbreak in the Americas (2015-present): Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/zika-virus-outbreak-in-the-americas-2015-present-virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md) _2017-08-27 03:44:45 (First version)_
+1. [Zika virus outbreak in the Americas (2015-present): Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/zika-virus-outbreak-in-the-americas-2015-present-virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md) _2018-02-06 13:49:28 (First version)_
 1. [Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md) _(Current version)_
 
 ### Related:

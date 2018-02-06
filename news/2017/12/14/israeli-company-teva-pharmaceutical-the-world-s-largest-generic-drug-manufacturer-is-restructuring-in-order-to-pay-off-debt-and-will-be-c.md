@@ -16,7 +16,7 @@ Teva Pharmaceutical Industries is to cut its workforce by more than a quarter, g
 
 ### Changes:
 
-1. [Teva Pharmaceutical, the giant generic drug manufacturer headquartered in Israel, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/teva-pharmaceutical-the-giant-generic-drug-manufacturer-headquartered-in-israel-is-restructuring-in-order-to-pay-off-debt-and-will-be-cut.md) _2017-12-15 00:30:08 (First version)_
+1. [Teva Pharmaceutical, the giant generic drug manufacturer headquartered in Israel, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/teva-pharmaceutical-the-giant-generic-drug-manufacturer-headquartered-in-israel-is-restructuring-in-order-to-pay-off-debt-and-will-be-cut.md) _2018-02-06 13:49:31 (First version)_
 1. [Israeli company Teva Pharmaceutical, the world's largest generic drug manufacturer, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/israeli-company-teva-pharmaceutical-the-world-s-largest-generic-drug-manufacturer-is-restructuring-in-order-to-pay-off-debt-and-will-be-c.md) _(Current version)_
 
 ### Related:

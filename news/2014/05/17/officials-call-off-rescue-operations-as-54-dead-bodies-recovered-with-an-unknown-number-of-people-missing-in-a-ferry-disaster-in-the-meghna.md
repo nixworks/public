@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/05/17/officials-call-off-rescue-operations-as-54-dead
 
 ### Changes:
 
-1. [Sinking of the MV Miraj-4:Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-pofficials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-fe.md) _2017-08-25 03:40:25 (First version)_
-2. [Sinking of the MV Miraj-4:: Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-f.md) _2017-08-27 03:40:42 (Update)_
+1. [Sinking of the MV Miraj-4:Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-pofficials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-fe.md) _2018-02-06 13:49:26 (First version)_
+2. [Sinking of the MV Miraj-4:: Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-f.md) _2018-02-06 13:49:26 (Update)_
 2. [Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-ferry-disaster-in-the-meghna.md) _(Current version)_
 
 ### Related:

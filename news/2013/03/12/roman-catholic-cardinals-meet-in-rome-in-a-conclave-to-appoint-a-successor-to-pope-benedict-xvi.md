@@ -19,8 +19,8 @@ Black smoke has risen from the Vatican&#39;s Sistine Chapel, signalling that Rom
 
 ### Changes:
 
-1. [Papal conclave, 2013:Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/papal-conclave-2013-proman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md) _2017-08-25 03:37:50 (First version)_
-2. [Papal conclave, 2013:: Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/papal-conclave-2013-roman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md) _2017-08-27 03:38:00 (Update)_
+1. [Papal conclave, 2013:: Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/papal-conclave-2013-roman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md) _2018-02-06 13:49:24 (First version)_
+2. [Papal conclave, 2013:Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/papal-conclave-2013-proman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md) _2018-02-06 13:49:24 (Update)_
 2. [Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/roman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md) _(Current version)_
 
 ### Related:

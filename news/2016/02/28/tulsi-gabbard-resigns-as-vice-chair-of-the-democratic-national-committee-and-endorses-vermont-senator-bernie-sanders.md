@@ -16,7 +16,7 @@ Democratic National Committee Vice Chair Tulsi Gabbard resigned from her post on
 
 ### Changes:
 
-1. [United States presidential election, 2016: Tulsi Gabbard resigns as vice-chair of the Democratic National Committee and endorses Vermont Senator Bernie Sanders. ](/news/2016/02/28/united-states-presidential-election-2016-tulsi-gabbard-resigns-as-vice-chair-of-the-democratic-national-committee-and-endorses-vermont-sen.md) _2017-08-27 03:45:03 (First version)_
+1. [United States presidential election, 2016: Tulsi Gabbard resigns as vice-chair of the Democratic National Committee and endorses Vermont Senator Bernie Sanders. ](/news/2016/02/28/united-states-presidential-election-2016-tulsi-gabbard-resigns-as-vice-chair-of-the-democratic-national-committee-and-endorses-vermont-sen.md) _2018-02-06 13:49:28 (First version)_
 1. [Tulsi Gabbard resigns as vice-chair of the Democratic National Committee and endorses Vermont Senator Bernie Sanders. ](/news/2016/02/28/tulsi-gabbard-resigns-as-vice-chair-of-the-democratic-national-committee-and-endorses-vermont-senator-bernie-sanders.md) _(Current version)_
 
 ### Related:

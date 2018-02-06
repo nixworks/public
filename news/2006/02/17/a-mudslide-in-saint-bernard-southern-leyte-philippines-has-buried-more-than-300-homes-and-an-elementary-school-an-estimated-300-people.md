@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/02/17/a-mudslide-in-saint-bernard-southern-leyte-phil
 
 ### Changes:
 
-1. [ 2006 Southern Leyte mudslide: A mudslide in Saint Bernard, Southern Leyte, Philippines, has buried more than 300 homes and an elementary school. An estimated 300 people are killed, with more than 1500 missing. ](/news/2006/02/17/2006-southern-leyte-mudslide-a-mudslide-in-saint-bernard-southern-leyte-philippines-has-buried-more-than-300-homes-and-an-elementary-sc.md) _2017-08-27 03:17:27 (First version)_
+1. [ 2006 Southern Leyte mudslide: A mudslide in Saint Bernard, Southern Leyte, Philippines, has buried more than 300 homes and an elementary school. An estimated 300 people are killed, with more than 1500 missing. ](/news/2006/02/17/2006-southern-leyte-mudslide-a-mudslide-in-saint-bernard-southern-leyte-philippines-has-buried-more-than-300-homes-and-an-elementary-sc.md) _2018-02-06 13:49:16 (First version)_
 1. [ A mudslide in Saint Bernard, Southern Leyte, Philippines, has buried more than 300 homes and an elementary school. An estimated 300 people are killed, with more than 1500 missing. ](/news/2006/02/17/a-mudslide-in-saint-bernard-southern-leyte-philippines-has-buried-more-than-300-homes-and-an-elementary-school-an-estimated-300-people.md) _(Current version)_
 
 ### Related:

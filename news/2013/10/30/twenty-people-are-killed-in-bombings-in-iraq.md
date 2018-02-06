@@ -16,8 +16,8 @@ Three separate bombings targeting Iraqi government forces and an allied militia 
 
 ### Changes:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):Twenty people are killed in bombings in Iraq. ](/news/2013/10/30/iraqi-insurgency-post-u-s-withdrawal-ptwenty-people-are-killed-in-bombings-in-iraq.md) _2017-08-25 03:39:27 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Twenty people are killed in bombings in Iraq. ](/news/2013/10/30/iraqi-insurgency-post-u-s-withdrawal-twenty-people-are-killed-in-bombings-in-iraq.md) _2017-08-27 03:39:45 (Update)_
+1. [Iraqi insurgency (post-U.S. withdrawal):: Twenty people are killed in bombings in Iraq. ](/news/2013/10/30/iraqi-insurgency-post-u-s-withdrawal-twenty-people-are-killed-in-bombings-in-iraq.md) _2018-02-06 13:49:25 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):Twenty people are killed in bombings in Iraq. ](/news/2013/10/30/iraqi-insurgency-post-u-s-withdrawal-ptwenty-people-are-killed-in-bombings-in-iraq.md) _2018-02-06 13:49:25 (Update)_
 2. [Twenty people are killed in bombings in Iraq. ](/news/2013/10/30/twenty-people-are-killed-in-bombings-in-iraq.md) _(Current version)_
 
 ### Related:

@@ -16,8 +16,8 @@ Formats: [HTML](/news/2014/01/17/a-rocket-fired-into-the-lebanese-border-town-of
 
 ### Changes:
 
-1. [Syrian Civil War spillover in Lebanon:A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/syrian-civil-war-spillover-in-lebanon-pa-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md) _2017-08-25 03:39:53 (First version)_
-2. [Syrian Civil War spillover in Lebanon:: A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/syrian-civil-war-spillover-in-lebanon-a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md) _2017-08-27 03:40:11 (Update)_
+1. [Syrian Civil War spillover in Lebanon:A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/syrian-civil-war-spillover-in-lebanon-pa-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md) _2018-02-06 13:49:25 (First version)_
+2. [Syrian Civil War spillover in Lebanon:: A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/syrian-civil-war-spillover-in-lebanon-a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md) _2018-02-06 13:49:25 (Update)_
 2. [A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md) _(Current version)_
 
 ### Related:

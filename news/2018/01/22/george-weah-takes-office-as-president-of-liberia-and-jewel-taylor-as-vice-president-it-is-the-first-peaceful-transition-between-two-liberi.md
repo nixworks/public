@@ -16,7 +16,7 @@ Mr. Weah was inaugurated to the cheers of thousands at a stadium. He faces big c
 
 ### Changes:
 
-1. [George Weah takes office as President of Liberia, Jewel Taylor as Vice President. It is the first peaceful transition between two Liberian presidents for 74 years. ](/news/2018/01/22/george-weah-takes-office-as-president-of-liberia-jewel-taylor-as-vice-president-it-is-the-first-peaceful-transition-between-two-liberian-p.md) _2018-01-23 00:30:08 (First version)_
+1. [George Weah takes office as President of Liberia, Jewel Taylor as Vice President. It is the first peaceful transition between two Liberian presidents for 74 years. ](/news/2018/01/22/george-weah-takes-office-as-president-of-liberia-jewel-taylor-as-vice-president-it-is-the-first-peaceful-transition-between-two-liberian-p.md) _2018-02-06 13:49:31 (First version)_
 1. [George Weah takes office as President of Liberia, and Jewel Taylor as Vice President. It is the first peaceful transition between two Liberian presidents in 74 years. ](/news/2018/01/22/george-weah-takes-office-as-president-of-liberia-and-jewel-taylor-as-vice-president-it-is-the-first-peaceful-transition-between-two-liberi.md) _(Current version)_
 
 ### Related:

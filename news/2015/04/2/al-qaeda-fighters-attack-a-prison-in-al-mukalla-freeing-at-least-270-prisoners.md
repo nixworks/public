@@ -15,7 +15,7 @@ Formats: [HTML](/news/2015/04/2/al-qaeda-fighters-attack-a-prison-in-al-mukalla-
 
 ### Changes:
 
-1. [Yemeni Crisis (2011-present): Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/yemeni-crisis-2011-present-al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md) _2017-08-27 03:42:09 (First version)_
+1. [Yemeni Crisis (2011-present): Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/yemeni-crisis-2011-present-al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md) _2018-02-06 13:49:27 (First version)_
 1. [Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md) _(Current version)_
 
 ### Related:

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-stat
 
 ### Changes:
 
-1. [Ukraine-United States relations: An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/ukraine-united-states-relations-an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _2017-08-27 03:48:27 (First version)_
+1. [Ukraine-United States relations: An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/ukraine-united-states-relations-an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _2018-02-06 13:49:30 (First version)_
 1. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _(Current version)_
 
 ### Related:

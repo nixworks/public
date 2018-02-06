@@ -16,8 +16,8 @@ Nigeria sufffered one of its bloodiest days as terrorists carried out a massacre
 
 ### Changes:
 
-1. [Islamist insurgency in Nigeria:Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/islamist-insurgency-in-nigeria-pgunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-colleg.md) _2017-08-25 03:39:20 (First version)_
-2. [Islamist insurgency in Nigeria:: Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/islamist-insurgency-in-nigeria-gunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-colle.md) _2017-08-27 03:39:37 (Update)_
+1. [Islamist insurgency in Nigeria:Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/islamist-insurgency-in-nigeria-pgunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-colleg.md) _2018-02-06 13:49:25 (First version)_
+2. [Islamist insurgency in Nigeria:: Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/islamist-insurgency-in-nigeria-gunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-colle.md) _2018-02-06 13:49:25 (Update)_
 2. [Gunmen from the Nigerian Islamist group Boko Haram kill 42 people, mostly students, in an attack on a college in the town of Gujba, Yobe State. ](/news/2013/09/29/gunmen-from-the-nigerian-islamist-group-boko-haram-kill-42-people-mostly-students-in-an-attack-on-a-college-in-the-town-of-gujba-yobe-sta.md) _(Current version)_
 
 ### Related:

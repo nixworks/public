@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapes
 
 ### Changes:
 
-1. [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sy.md) _2017-08-25 03:45:39 (First version)_
+1. [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sy.md) _2018-02-06 13:49:29 (First version)_
 1. [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sys.md) _(Current version)_
 
 ### Related:
